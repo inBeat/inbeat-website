@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In Germany In 2020
 description: >-
-  Find top guitar TikTok influencers in Germany in 2020. Most popular hashtags: #guitar #coronavirus #challenge #music.
+  Find top guitar TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #guitar #foryou #fy.
 platform: TikTok
+hits: 25
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 25 TikTok influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "kenetiapa"
+  - username: "anthonysuntiago"
     fullname: >-
-      KJ Apa
+      Anthony Suntiago
+    bio: >-
+      -Musician- I’m doing POV’s using sounds!✌️ IG📷AnthonySuntiago 👻Anthonypharao
     location: "Germany"
-    followers: 83008
-    engagement: 2108
-    commentsToLikes: 0.010396
-    id: ck83zai9jz5ch0j784o3cto0a
+    followers: 46400
+    engagement: 2228
+    commentsToLikes: 0.033149
+    id: ckck27olkljzv0j23dfykrhsn
     verified: false
-    hashtags: "#viral, #snow, #onset, #photoshoot"
+    hashtags: "#fy, #guitar, #music, #pov"
+  - username: "vintageena"
+    fullname: >-
+      vintageena
+    bio: >-
+      ceo of creating 🌻 follow my insta 📸 NEW VIDEO 👇
+    location: "Germany"
+    followers: 2372
+    engagement: 1566
+    commentsToLikes: 0.031423
+    id: ckbf9bu8c03yj0j23wqe9d6zf
+    verified: false
+    hashtags: "#selfportraits, #berlin, #photography, #singing"
   - username: "nicolecrossmusic"
     fullname: >-
       nicolecrossmusic
+    bio: >-
+      My name is Nicole, I’m 26 and from Germany 🇩🇪 Singing is my passion 🎤
     location: "Germany"
-    followers: 24747
-    engagement: 1107
-    commentsToLikes: 0.021346
+    followers: 33300
+    engagement: 992
+    commentsToLikes: 0.020932
     id: ck9rk71o8ritp0j78gt1qq6i9
     verified: true
-    hashtags: "#love, #lewiscapaldi, #firestone, #sungbyme"
-  - username: "sebblwebbl"
+    hashtags: "#coversong, #covergirl, #musiccover, #viral"
+  - username: "leonderino"
     fullname: >-
-      SebblWebbl
+      Leon Derino
+    bio: >-
+      Genau
     location: "Germany"
-    followers: 48563
-    engagement: 2356
-    commentsToLikes: 0.044564
-    id: ck9k7b2uf47jm0j7811l2y5n1
+    followers: 84500
+    engagement: 1936
+    commentsToLikes: 0.018265
+    id: ck8os1r1neurh0j786i1mhu3u
     verified: false
-    hashtags: "#originallyrics, #deutsch, #ironie, #laymedown"
-  - username: "luckyzeus63"
+    hashtags: "#meme, #foryou, #fyp, #crazy"
+  - username: "kenetiapa"
     fullname: >-
-      🍀Lucky Zeus⚡️
+      KJ Apa
+    bio: >-
+      🇼🇸🇳🇿
     location: "Germany"
-    followers: 6329
-    engagement: 2083
-    commentsToLikes: 0.234096
-    id: ckal869z7i6eg0i78r3zkoezv
+    followers: 80900
+    engagement: 2287
+    commentsToLikes: 0.014774
+    id: ck83zai9jz5ch0j784o3cto0a
     verified: false
-    hashtags: "#musiker, #music, #fastenbrechen, #tiktokdance"
-  - username: "cris.palmer"
+    hashtags: "#riverdale, #exploringtheworld, #fyp, #boredinthehouse"
+  - username: "lenasicks"
     fullname: >-
-      cris palmer music
+      🎵✨Lena Sicks✨🎵
+    bio: >-
+      🌹singer 📍Germany Instagram: lenasicks
     location: "Germany"
-    followers: 112061
-    engagement: 1337
-    commentsToLikes: 0.025676
-    id: cka620829xpni0i78jimcoqir
+    followers: 70600
+    engagement: 1431
+    commentsToLikes: 0.037438
+    id: ckbaf4b7d792g0j23tdu6wwoi
     verified: false
-    hashtags: "#treppenhaus, #tommeeprofitt, #electricguitar, #singlegoals"
-  - username: "uncle_d_official"
+    hashtags: "#germany, #foryou, #goviral, #fyp"
+  - username: "kayefofficial"
     fullname: >-
-      Uncle_D
+      kayefofficial
+    bio: >-
+      Sänger/Rapper, 25, Düsseldorf ICH WÜRD LÜGEN OUT NOW!
     location: "Germany"
-    followers: 37032
-    engagement: 1675
-    commentsToLikes: 0.030158
-    id: cka9ntaul51e10i78pgk9i1mp
-    verified: false
-    hashtags: "#savagechallenge, #albumcover, #somethingnew, #familie"
-  - username: "rezo"
-    fullname: >-
-      Rezo
-    location: "Germany"
-    followers: 954325
-    engagement: 1771
-    commentsToLikes: 0.005498
-    id: ckacpmn0swrlx0i780xnc98ur
+    followers: 209100
+    engagement: 1409
+    commentsToLikes: 0.012376
+    id: ck9m4hrrkkc8v0j78put74nmu
     verified: true
-    hashtags: "#witz, #tiktok, #song, #game"
-  - username: "shufflesophie_"
+    hashtags: "#ichw, #egalwiesp, #warum, #kayef"
+  - username: "thetrollzor"
     fullname: >-
-      🥀Sophie🥀
+      thetrollzor
+    bio: >-
+      Leon, 19 Jahre Hufflepuff 🦡🟡 IG: thetrollzor 📷 E-Mail: leon.auvray@gmail.com
     location: "Germany"
-    followers: 595780
-    engagement: 1139
-    commentsToLikes: 0.011521
-    id: ck81swpikto8f0j784jhjbsfk
+    followers: 89900
+    engagement: 1538
+    commentsToLikes: 0.026150
+    id: ckbbumx8qi32f0j236smbrar6
     verified: false
-    hashtags: "#tattoo, #bored, #duett, #unicornskull"
-  - username: "hascho_adn"
+    hashtags: "#fyp, #stimme, #jungs, #voice"
+  - username: "ginoofficial"
     fullname: >-
-      HASCHO
+      Gino
+    bio: >-
+      ✌️Wilkommen✌️ 📷Instagram: ginoginelli95📷 👻snap: ginodino95👻 🔵Bavaria🔵 🍄
     location: "Germany"
-    followers: 8143
-    engagement: 416
-    commentsToLikes: 0.036768
-    id: cka0odd4337yd0i78bqfls5hm
+    followers: 8021
+    engagement: 564
+    commentsToLikes: 0.102165
+    id: cka841mxbrkat0i78tzhaujuz
     verified: false
-    hashtags: "#foodchallenge, #pinata, #autounfall, #witzig"
-  - username: "lovelifewoof"
+    hashtags: "#cosmicfail, #vibes, #emotion, #fyp"
+  - username: "schmemes"
     fullname: >-
-      lovelifewoof
+      schmemes
+    bio: >-
+      HIT OR MISS I GUESS I DAB DREAMIN BOUT LADIES AND GENTS WE GOTEM
     location: "Germany"
-    followers: 51888
-    engagement: 1085
-    commentsToLikes: 0.025049
-    id: ck8z1ilav1qs50j783xr0f3pa
+    followers: 23100
+    engagement: 1042
+    commentsToLikes: 0.034878
+    id: ckbvxmwhwusmo0j23nuzmac2g
     verified: false
-    hashtags: "#bundeswehr, #puppy, #bleibtzuhause, #coronavirus"
+    hashtags: "#duet, #meme, #song, #tiktok"
 ---

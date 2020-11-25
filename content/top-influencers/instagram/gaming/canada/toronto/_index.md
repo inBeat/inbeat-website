@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Toronto In 2020
 description: >-
-  Find top gaming Instagram influencers in Toronto in 2020. Most popular hashtags: #gaming #quarantinepillowchallenge #happy #videogames.
+  Find top gaming Instagram influencers in Toronto in 2020. Most popular hashtags: #gaming #instagood #love #gamer.
 platform: Instagram
+hits: 9
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 9 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "sachietv"
+  - username: "ashmacgames"
     fullname: >-
-      🌺 𝖘𝖆𝖈𝖍𝖎𝖊
+      Ash Mac
+    bio: >-
+      🎮 Me play video game 🇨🇦 Toronto, Canada 🤓 Fortnite Code: ash_macc
     location: "Canada"
-    followers: 23963
-    engagement: 868
-    commentsToLikes: 0.015201
-    id: ck8wes80cejb60j78r57lk9vl
+    followers: 3991
+    engagement: 1626
+    commentsToLikes: 0.141668
+    id: ckapatraexfkc0i78nttlp8sm
     verified: false
-    hashtags: "#quarantinepillowchallenge"
-  - username: "caitlinmariedasilva"
-    fullname: >-
-      Caitlin's Corner
-    location: "Canada"
-    followers: 28268
-    engagement: 751
-    commentsToLikes: 0.019220
-    id: ck14krqbvqzek0i19zep46iy2
-    verified: false
-    hashtags: "#takecareofyou, #homelife, #bookshelves, #ipad"
+    hashtags: "#gamer, #gamerlife, #gamergirl, #girlgamer"
   - username: "greenskull"
     fullname: >-
       Greenskull
+    bio: >-
+      Full-time content creator and video game guy from #Toronto. Currently addicted to: 😇 #Halo ☠️ #SeaofThieves
     location: "Canada"
-    followers: 8765
-    engagement: 359
-    commentsToLikes: 0.052635
+    followers: 9242
+    engagement: 322
+    commentsToLikes: 0.042062
     id: ck14i3ib9dgj40i19l87ivx0j
     verified: false
-    hashtags: "#halomemes, #343, #xboxomex, #bungie"
-  - username: "itschrisvq"
+    hashtags: "#halo, #ad, #gaming, #samsunginfluencer"
+  - username: "alexotos"
     fullname: >-
-      Christopher James
+      Alexander
+    bio: >-
+      🇨🇦 Toronto Tech Enthusiast 💡 CAN’T SAY x @spacecables
     location: "Canada"
-    followers: 53629
-    engagement: 92
-    commentsToLikes: 0.040777
-    id: ck6tm4p6n76c40j71jv0o5rui
+    followers: 45524
+    engagement: 579
+    commentsToLikes: 0.066010
+    id: ck0vxxr4219h00i19bhehj49d
     verified: false
-    hashtags: "#ceramiccoating, #carmeme, #creatorclass, #toppdrift"
-  - username: "jlyntendo"
+    hashtags: "#mechanicalkeyboard, #pcmr, #artisankeycaps, #flatlay"
+  - username: "yudoart"
     fullname: >-
-      ᴊʟʏɴᴛᴇɴᴅᴏ'ꜱ ᴡᴏʀʟᴅ 🌌
+      Justin
+    bio: >-
+      I like to design stickers! Climbing ❤️ Toronto 🇨🇦 ⬇️ Online Shop + Links ⬇️
     location: "Canada"
-    followers: 31346
-    engagement: 574
-    commentsToLikes: 0.017417
-    id: ck0tvrjlxcjxq0i1908pclnee
+    followers: 23568
+    engagement: 914
+    commentsToLikes: 0.015253
+    id: ck0u6dn231lee0i19icd9te81
     verified: false
-    hashtags: "#retro, #gamecave, #nike, #happybirthday"
-  - username: "adel.farid3"
+    hashtags: "#drawtober, #adorable, #cuteartstyle, #vinylstickers"
+  - username: "sparklingwinos"
     fullname: >-
-      Adel Farid
+      Sparkling Winos
+    bio: >-
+      We're Mike & Jeff! 👋 WSET 3🏅 Two 👬's blogging about all things bubbly! 🍾 Follow us to learn all about sparkling wine! 🥂 Latest Blog Post! ⬇️
     location: "Canada"
-    followers: 2258
-    engagement: 1068
-    commentsToLikes: 0.072151
-    id: ckaowa18q80ct0i781uep48ck
+    followers: 32801
+    engagement: 280
+    commentsToLikes: 0.133262
+    id: ck0u2kf4n03t50i199yna5am1
     verified: false
-    hashtags: "#boattrip, #superyachting, #nightimages, #onthesea"
-  - username: "stella.luna.cos"
+    hashtags: "#stayhome, #winetasting, #positivevibes, #spanishwine"
+  - username: "canada_drew"
     fullname: >-
-      ☆Hi Stella Luna☆
+      DREW BARSNESS
+    bio: >-
+      LIVE ON TWITCH AT 6pm everyday! Hamilton 🏡 TikTok: Canada_Drew ➡️650k Biz Email: Drewbarsness@viralnation.com ⬇️LIVE ON TWITCH⬇️
     location: "Canada"
-    followers: 18906
-    engagement: 691
-    commentsToLikes: 0.028180
-    id: ck15tya74khyu0i19wqztut8b
+    followers: 18251
+    engagement: 5647
+    commentsToLikes: 0.041370
+    id: ck5hgkixr39300i11jjvvlb3j
     verified: false
-    hashtags: "#model, #icyhot, #playboy, #shototodoroki"
-  - username: "sachietv"
+    hashtags: "#comedy, #minecraft, #cat, #comedymemes"
+  - username: "pogoshinyhunter"
     fullname: >-
-      🌺 𝖘𝖆𝖈𝖍𝖎𝖊
+      POGOShinyHunter
+    bio: >-
+      Hunting for the shundo dex ✨💯😍 Yes I spoof, get over it 😅 No I don’t want to trade.. Visit link for Spoofing info 👻
     location: "Canada"
-    followers: 23963
-    engagement: 868
-    commentsToLikes: 0.015201
-    id: ck8wes80cejb60j78r57lk9vl
+    followers: 13496
+    engagement: 571
+    commentsToLikes: 0.017183
+    id: ck9hblp78he370j7879a9t55a
     verified: false
-    hashtags: "#quarantinepillowchallenge"
-  - username: "setup_shortcut"
+    hashtags: "#tutorials, #shinydunsparce, #pogonews, #throwbackchallenge"
+  - username: "yandjii"
     fullname: >-
-      Gaming Setups | Gaming PCs 🎮
+      YANDJI💋 (yan-gee)
+    bio: >-
+      ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
     location: "Canada"
-    followers: 20183
-    engagement: 1334
-    commentsToLikes: 0.032477
-    id: ck8t63qdfc5g60j78krx3d2rr
+    followers: 12867
+    engagement: 1537
+    commentsToLikes: 0.076818
+    id: ckap5p95ocl1t0i78oxtkk7dh
     verified: false
-    hashtags: "#giveawayiphone, #freeiphone, #setupwednesday, #setupwar"
-  - username: "cahlaflour"
+    hashtags: "#exploremore, #youtuber, #youtubechannel, #artist"
+  - username: "thaohuynhyt"
     fullname: >-
-      cahlaflour
+      Thao Huynh
+    bio: >-
+      YouTube Creator •Tech Enthusiast •Dance & Positivity
     location: "Canada"
-    followers: 10345
-    engagement: 1313
-    commentsToLikes: 0.021922
-    id: ck1344gfyunl10i19mlj6bmxh
+    followers: 12665
+    engagement: 1135
+    commentsToLikes: 0.038880
+    id: ck13bpj0kwjrx0i196tjt3yvt
     verified: false
-    hashtags: "#fancy, #makeuptime, #bestnine, #bbyoda"
+    hashtags: "#beautiful, #smile, #pixel5, #life"
+  - username: "vampx13"
+    fullname: >-
+      Amanda McKnight
+    bio: >-
+      Host at Top 10 Nerd / Gaming. Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
+    location: "Canada"
+    followers: 13309
+    engagement: 1048
+    commentsToLikes: 0.027489
+    id: ck135cy580ug20i19ij2x33dw
+    verified: false
+    hashtags: "#dork, #catan, #staynerdy, #wearyourmask"
 ---

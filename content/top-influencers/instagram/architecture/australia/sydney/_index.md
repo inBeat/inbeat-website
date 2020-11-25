@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Sydney In 2020
 description: >-
-  Find top architecture Instagram influencers in Sydney in 2020. Most popular hashtags: #architecture #sydneyharbour #stayhome #sunset.
+  Find top architecture Instagram influencers in Sydney in 2020. Most popular hashtags: #architecture #interiordesign #sydneyarchitecture #australianarchitecture.
 platform: Instagram
+hits: 54
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 54 Instagram influencers like this in Sydney, Australia for you to contact.
 profiles:
   - username: "durbachblockjaggers"
     fullname: >-
       Durbach Block Jaggers
+    bio: >-
+      Architects based in Sydney, Australia
     location: "Australia"
-    followers: 13187
-    engagement: 681
-    commentsToLikes: 0.025034
+    followers: 16975
+    engagement: 358
+    commentsToLikes: 0.024583
     id: ck5zsviymz9fn0i14o709b1uf
     verified: false
-    hashtags: "#durbachblockjaggers, #triasstudio, #penrithcity, #phoenixcentralpark"
-  - username: "trias.studio"
+    hashtags: "#durbachblockjaggers, #architecture, #australianarchitecture, #sydney"
+  - username: "_saota"
     fullname: >-
-      T R I A S
+      SAOTA
+    bio: >-
+      In light of COVID-19, we’re working from home. We are fully operational and continue with business as usual. Reach us at info@saota.com #saota
     location: "Australia"
-    followers: 21449
-    engagement: 342
-    commentsToLikes: 0.008104
-    id: ck14lh4ybun920i19mdzvcsx0
+    followers: 146585
+    engagement: 139
+    commentsToLikes: 0.009081
+    id: ck13b71estzyl0i1959x6ucum
     verified: false
-    hashtags: "#tombabrion, #covid, #americanarchitecture, #byronbayarchitects"
+    hashtags: "#wfh, #australia, #senegal, #dakar"
+  - username: "adamkanearchitects"
+    fullname: >-
+      Adam Kane Architects
+    bio: >-
+      Melbourne based Architecture and Interior Design Studio, passionate about creating timeless homes and spaces that exceed our clients’ expectations.
+    location: "Australia"
+    followers: 30314
+    engagement: 293
+    commentsToLikes: 0.017058
+    id: ck0w3xhxlvsa80i19rgqkfnug
+    verified: false
+    hashtags: "#sydneyarchitecture, #adamkanearchitects, #melbourneinteriordesign, #melbournearchitect"
   - username: "julian.fares"
     fullname: >-
       Julian Fares
+    bio: >-
+      University Professor Landscape Photography - 🇱🇧 🇦🇺
     location: "Australia"
-    followers: 5028
-    engagement: 2697
-    commentsToLikes: 0.024145
+    followers: 5032
+    engagement: 2037
+    commentsToLikes: 0.027588
     id: ck8t0r6v9szp40j78h7oprhfg
     verified: false
-    hashtags: "#covid19, #australia, #melbourne, #nature"
-  - username: "robmillsarchitects"
-    fullname: >-
-      Rob Mills Architects
-    location: "Australia"
-    followers: 57913
-    engagement: 106
-    commentsToLikes: 0.014370
-    id: ck5c5mjjc3rbq0i11kk3xy9uk
-    verified: false
-    hashtags: "#naturalmaterial, #familyliving, #ceramics, #luxuryinteriros"
+    hashtags: "#earthfocus, #wonderful, #skyvibes, #lebanon"
   - username: "peterbbennetts"
     fullname: >-
       Peter Bennetts
+    bio: >-
+      Bennetts is an Australian, global-roaming architectural photographer whose work consistently appears in internationally-acclaimed publications.
     location: "Australia"
-    followers: 15773
-    engagement: 324
-    commentsToLikes: 0.025530
+    followers: 18303
+    engagement: 281
+    commentsToLikes: 0.022643
     id: ck8t3zi5e51ri0j78mrcgjssq
     verified: false
-    hashtags: "#inpraiseofshadows, #carlomollino, #bluespointtower, #niseko"
+    hashtags: "#melbournearchitecture, #architecturalphotography, #dezeenawards, #bismarckhouse"
   - username: "george_hall_art"
     fullname: >-
       George Hall
+    bio: >-
+      Kiwi Australian artist creating unique artworks. Worldwide Shipping, checkout website shop:
     location: "Australia"
     followers: 38407
     engagement: 160
     commentsToLikes: 0.022865
     id: ck0u8rmd7834o0i19pax1zrhy
     verified: false
-    hashtags: "#artsanity, #intuitivepainting, #largescalepainting, #architecturalart"
-  - username: "marlenesilver"
+    hashtags: "#modernart, #abstract, #artwork, #todaysartreport"
+  - username: "trias.studio"
     fullname: >-
-      MARLENE SILVER
+      T R I A S
+    bio: >-
+      Architecture studio in Sydney, Australia. • Solid • Simple • Beautiful •
     location: "Australia"
-    followers: 18218
-    engagement: 116
-    commentsToLikes: 0.040379
-    id: ck6u3i89zxxqc0j71a3qhic93
+    followers: 21449
+    engagement: 342
+    commentsToLikes: 0.008104
+    id: ck14lh4ybun920i19mdzvcsx0
     verified: false
-    hashtags: "#eyes, #fashionlook, #travelers, #congobars"
-  - username: "needtoroam"
+    hashtags: "#architectura, #prefab, #architects, #leichhardt"
+  - username: "sydneyoperahouse"
     fullname: >-
-      Brian
+      Sydney Opera House
+    bio: >-
+      Watch: Bangarra Dance Theatre's 'Terrain' 👇
     location: "Australia"
-    followers: 7107
-    engagement: 1283
-    commentsToLikes: 0.065215
-    id: ck8t9e9vgnrr40j78zs5pdima
-    verified: false
-    hashtags: "#tromso, #boraborabeach, #instabolivia, #oceanview"
-  - username: "aliceroberts_"
+    followers: 146110
+    engagement: 84
+    commentsToLikes: 0.013585
+    id: ck5heaaa9rvq60i11s77u0iu8
+    verified: true
+    hashtags: "#pianoday, #ghostlights, #operaaustralia, #allaboutwomen"
+  - username: "andymacpherson.studio"
     fullname: >-
-      |ALICE PAOLI ROBERTS|
+      Andy Macpherson Studio
+    bio: >-
+      Architectural Photographer Co-host @baampodcast Northern NSW + Gold Coast, Australia
     location: "Australia"
-    followers: 480870
-    engagement: 243
-    commentsToLikes: 0.016555
-    id: ck0tsjiet01lz0i19z0yvxx03
+    followers: 22201
+    engagement: 216
+    commentsToLikes: 0.025886
+    id: ck6tiauzs0d9g0j71412f0v4a
     verified: false
-    hashtags: "#whitefoxoasis"
-  - username: "christinaplay"
+    hashtags: "#archdaily, #lennoxhead, #andymacphersonstudio, #brisbanearchitecture"
+  - username: "perth_air"
     fullname: >-
-      CHRISTINA
+      Matt bond
+    bio: >-
+      
     location: "Australia"
-    followers: 61851
-    engagement: 151
-    commentsToLikes: 0.069283
-    id: ck6tt4uzh8m0b0j716j3egmpo
+    followers: 8866
+    engagement: 466
+    commentsToLikes: 0.042776
+    id: ckap9runytekj0i783jiihy3u
     verified: false
-    hashtags: "#glow, #roomdecor, #pool, #firstchristmas"
+    hashtags: "#manly, #adobephotoshop, #margaretriver, #drone"
 ---

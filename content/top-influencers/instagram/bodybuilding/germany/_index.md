@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Germany In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Germany in 2020. Most popular hashtags: #hamburg #eiwei #wheyprotein #homeworkout.
+  Find top bodybuilding Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #bodybuilding #strong #lifestyle.
 platform: Instagram
+hits: 363
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 363 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "martini_puti"
+  - username: "aliki_grunewald"
     fullname: >-
-      Martini.Puti
+      Aliki Susi G.
+    bio: >-
+      💪🏻 Bodybuilding & Powerlifting ✉️ aliki@steinkraussmanagement.de 🎗#fitsoldier in #Berlin
     location: "Germany"
-    followers: 2284
-    engagement: 2179
-    commentsToLikes: 0.122919
-    id: ck13895b6f3k40i19j2s7a9h3
+    followers: 9223
+    engagement: 1106
+    commentsToLikes: 0.089852
+    id: ck8t4udno7ykh0j78u0so3rv1
     verified: false
-    hashtags: "#gymtime, #shoulderkiller, #beinpresse, #happysunday"
-  - username: "pumping_steffi"
+    hashtags: "#bootyworkout, #girlswithtattoos, #wednesday, #girlswithmuscle"
+  - username: "svenjah.94"
     fullname: >-
-      🔵☆𝓢 𝓽 𝓮 𝓯 𝓪 𝓷 𝓲 𝓮☆ 🔵
+      𝐒𝐯𝐞𝐧𝐣𝐚
+    bio: >-
+      🇩🇪 Nbg, 25, Bodybuilding
     location: "Germany"
-    followers: 13058
-    engagement: 1021
-    commentsToLikes: 0.074891
-    id: ck55ngfln65sk0i11v39wioa9
+    followers: 5421
+    engagement: 1169
+    commentsToLikes: 0.129618
+    id: ck8t9to5bpbg80j78mv8d9h4n
     verified: false
-    hashtags: "#happy, #nature"
-  - username: "alimansory_"
-    fullname: >-
-      Ali Mansour
-    location: "Germany"
-    followers: 10514
-    engagement: 977
-    commentsToLikes: 0.090866
-    id: ckaoybs6bgueb0i78ejoujesq
-    verified: false
-    hashtags: "#darmstadt, #aesthetics, #snack, #bigarms"
-  - username: "vanessaapopp"
-    fullname: >-
-      Vanessa Popp
-    location: "Germany"
-    followers: 5928
-    engagement: 1066
-    commentsToLikes: 0.101381
-    id: ck8t5w9pwbgak0j78dkola8x4
-    verified: false
-    hashtags: "#ludwigsburg, #behinderung, #hamburg, #grow"
+    hashtags: "#asstograss, #bodypositivity, #backday, #womensphysique"
   - username: "niko_stil"
     fullname: >-
       Niko
+    bio: >-
+      Fitness 🏋🏻‍♂️ Natural Bodybuilding💪🏻 Twitch: Niko_Stil 👣 @jana_stil #NikoStil #Keller
     location: "Germany"
-    followers: 61240
-    engagement: 1586
-    commentsToLikes: 0.024899
+    followers: 64368
+    engagement: 2263
+    commentsToLikes: 0.085224
     id: ck5c635e34mce0i1130oqfsp7
     verified: false
-    hashtags: "#balya, #kellerfamily, #allesoderklicks, #1991"
-  - username: "kukla_lina"
-    fullname: >-
-      Fitness  | 🎬 Take Me Out 2020
-    location: "Germany"
-    followers: 11779
-    engagement: 1362
-    commentsToLikes: 0.049626
-    id: ck55ngfub65tt0i11zg580h3w
-    verified: false
-    hashtags: "#eyemakeup, #rtlshow, #hairstyles, #healthychoises"
+    hashtags: "#kellerfamily, #kellergmbh, #kelleristmacht, #keller"
   - username: "jblary"
     fullname: >-
       L A R Y . J B💕
+    bio: >-
+      🔥FITMOM| BODYBUILDING|MOTIVATION🔥 Freedom.Love.Time.Death. Impressum/Datenschutz/Werbung
     location: "Germany"
-    followers: 49086
-    engagement: 451
-    commentsToLikes: 0.049464
+    followers: 47309
+    engagement: 430
+    commentsToLikes: 0.064684
     id: ck5zrd10jwctn0i14lb21z3m2
     verified: false
-    hashtags: ""
-  - username: "danielkbk_"
+    hashtags: "#sixpack, #fitandhealthy, #firegirl, #fights"
+  - username: "pumping_steffi"
     fullname: >-
-      Daniel Kubik
+      🔵☆𝓢 𝓽 𝓮 𝓯 𝓪 𝓷 𝓲 𝓮☆ 🔵
+    bio: >-
+      🐯🐻 #oneteam B 🔒❤ 🏋𝕀𝔽𝔹𝔹/𝔻𝔹𝔽𝕍 𝔸𝕥𝕙𝕝𝕖𝕥 🏃𝔽𝕚𝕥𝕟𝕖𝕤𝕤 💪𝔹𝕠𝕕𝕪𝕓𝕦𝕚𝕝𝕕𝕚𝕟𝕘 🍗𝔽𝕠𝕠𝕕𝕝𝕠𝕧𝕖 ↪ˢᵖᵒᶰˢᵒʳᵉᵈ ᵇʸ @bodybuilding_depot 📌ᶜᵒᵈᵉ "steffi5"
     location: "Germany"
-    followers: 60719
-    engagement: 457
-    commentsToLikes: 0.038673
-    id: ck5hn9dt5nfi10i11mggc6qxy
+    followers: 12950
+    engagement: 980
+    commentsToLikes: 0.069346
+    id: ck55ngfln65sk0i11v39wioa9
     verified: false
-    hashtags: "#3erbmw, #jeans, #zufriedenheit, #designerbar"
+    hashtags: "#cleverfitfellbach, #bodybuildingdepot, #fitnessmodel, #bodybuilding"
   - username: "sebikokol"
     fullname: >-
       Fitness - Training - Gym 🤓
+    bio: >-
+      ▪️Fitness & Bodybuilding ▪️Ernährung & Training ▪️Sportmanagement Student🤓 ▪️Deutsche Sporthochschule Köln🏛 ▪️Impressum auf Anfrage #Dauerwerbesendung
     location: "Germany"
-    followers: 2620
-    engagement: 1257
-    commentsToLikes: 0.274958
+    followers: 4029
+    engagement: 1020
+    commentsToLikes: 0.218866
     id: ck9woqwwk681y0j785jky5s7b
     verified: false
     hashtags: ""
   - username: "janiine.heitmann"
     fullname: >-
       JANINE'S🔥MINDSET & LIFESTYLE💪🏼
+    bio: >-
+      👵🏼 #Geriatricnurse | 🏋🏼‍♀️#Bodybuilding 🇩🇪 DBFV-Athlet @_lisadrexler_ 💉 #Tattoolady 🖤 — 🍶 @multipowerofficial 💙 📩 Kontakt@janineheitmann.de
     location: "Germany"
-    followers: 4229
-    engagement: 1656
-    commentsToLikes: 0.199600
+    followers: 4700
+    engagement: 1393
+    commentsToLikes: 0.149315
     id: ck8t3t4p94e8t0j78aulj25mo
     verified: false
-    hashtags: "#berlin, #niceshoot, #suzukibikes, #mindset"
+    hashtags: "#girlswholift, #multipower, #goodvibes, #fitnessaccount"
+  - username: "__ahmadnufal"
+    fullname: >-
+      Ahmad Fitness
+    bio: >-
+      Personal Trainer # Fit One Germany🇩🇪📍 Fitness Motivation#👊🏾 Bodybuilding# 💪 Wettkampf 🎖🏆🏅 Fitness# 🏋️‍♂️
+    location: "Germany"
+    followers: 8520
+    engagement: 1700
+    commentsToLikes: 0.039181
+    id: ckf5oss1v3obe0j23ads3f14h
+    verified: false
+    hashtags: "#fitonedresden, #gymlife, #bodybuilding, #instafit"
+  - username: "eric_skupien"
+    fullname: >-
+      𝙀𝙧𝙞𝙘 𝙎𝙠𝙪𝙥𝙞𝙚𝙣 ⭐️
+    bio: >-
+      📍Stralsund, Germany 🏋🏻‍♂️ Natural Bodybuilding ➡️ supported by @vitalbodyplus
+    location: "Germany"
+    followers: 20475
+    engagement: 433
+    commentsToLikes: 0.048741
+    id: ck9hamyybd5vy0j78zic2qawl
+    verified: false
+    hashtags: "#fitness, #traveltheworld, #menshealth, #smileeveryday"
+  - username: "petraschsebastian"
+    fullname: >-
+      Sebastian Petrasch 🇩🇪
+    bio: >-
+      ❌#Fitness #Bodybuilding #Fishing ❌🇩🇪#Germany 📍#Freiburg ❌Age 39 ❌Training begins @08.2018
+    location: "Germany"
+    followers: 6602
+    engagement: 1087
+    commentsToLikes: 0.033568
+    id: ck0twmva6fyma0i19s14ntb1o
+    verified: false
+    hashtags: "#lifestyle, #chest, #instafit, #backday"
 ---

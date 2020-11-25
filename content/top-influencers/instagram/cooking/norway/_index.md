@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Norway In 2020
 description: >-
-  Find top cooking Instagram influencers in Norway in 2020. Most popular hashtags: #sunset #17mai #summer #friends.
+  Find top cooking Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nature #norge #oslo.
 platform: Instagram
+hits: 74
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 74 Instagram influencers like this in Norway for you to work with.
 profiles:
-  - username: "iwonacichosz"
+  - username: "hengekoyevenninner"
     fullname: >-
-      Iwona Cichosz-Yggeseth
+      Hengekøyevenninner TM🇳🇴
+    bio: >-
+      ★Hammocking ✨ ★Outdoor cooking🔥 ★Hiking 🌿 💌hengekoyevenninner@gmail.com #hengekoyevenninner Heldige ambassadører for: @dingsebua.no @justhangstore 🥰
     location: "Norway"
-    followers: 33360
+    followers: 5692
     engagement: 1049
-    commentsToLikes: 0.012321
-    id: ck15pxcnz03su0i19e6n6c0im
+    commentsToLikes: 0.050442
+    id: ckf5wk4r5saml0j23yvxhd9uw
     verified: false
-    hashtags: "#datewithhubby, #marriagelife, #najlepszego, #bakingcake"
-  - username: "interiormerete"
+    hashtags: "#hektap, #hengek, #mittnorge, #hektapa"
+  - username: "sidraomarr"
     fullname: >-
-      Merete Jæger
+      Sidra -Hijabstyles|Recipes|Mom
+    bio: >-
+      🇵🇰 | 🇳🇴 📍Oslo Hijab tutorials • Food recipes • Lifestyle talk A little bit of everything i love ❤ Mirror-selfie addict 🤳 Millennial desi mom 💁🏻‍♀️
     location: "Norway"
-    followers: 27281
-    engagement: 962
-    commentsToLikes: 0.059274
-    id: ck5cc55sbgqp40i11ppxx5cv2
+    followers: 7970
+    engagement: 499
+    commentsToLikes: 0.240447
+    id: ck9wgfv4yt8iu0j78cqctl671
     verified: false
-    hashtags: "#balconylife, #easter, #17mai, #rain"
+    hashtags: "#hijabtutorial, #scarfstyles, #indianfoodrecipes, #hijabifashion"
+  - username: "christerrodseth"
+    fullname: >-
+      Christer Rødseth
+    bio: >-
+      🍴Head chef @vaaghals_restaurant 🍴Co owner @code_restaurant 🍴Host for Matsjokket @nrk Booking og kontakt: post@christerrodseth.no
+    location: "Norway"
+    followers: 10142
+    engagement: 903
+    commentsToLikes: 0.020593
+    id: ck8t4mu617cep0j78jult353j
+    verified: false
+    hashtags: "#coderestaurant, #norge, #newscandinaviancooking, #norway"
   - username: "linekristinsdottir"
     fullname: >-
       Line Kristinsdottir
+    bio: >-
+      NORWAY, Trondheim🍃 Living history, and all things fun. @trondheimvikinglag
     location: "Norway"
-    followers: 6929
-    engagement: 1474
-    commentsToLikes: 0.011873
+    followers: 6769
+    engagement: 1535
+    commentsToLikes: 0.011843
     id: ck15rflti7ovl0i19radrnev6
     verified: false
-    hashtags: "#fields, #cookinginnature, #solstice, #tent"
+    hashtags: "#nature, #summer, #vikingwoman, #jul"
+  - username: "inamariehagen"
+    fullname: >-
+      Ina Marie Hagen
+    bio: >-
+      «Matbordet er det eneste stedet der man aldri kjeder seg den første timen.» @inamariehagen
+    location: "Norway"
+    followers: 4807
+    engagement: 967
+    commentsToLikes: 0.092800
+    id: ckf5n3tzpwmpi0j23d3kc63h2
+    verified: false
+    hashtags: "#pescetarian, #instafood, #homecooking, #meetfree"
   - username: "klarlan.camagon"
     fullname: >-
       shots_with_kc
+    bio: >-
+      NURSE | PHOTOGRAPHER | VIDEOGRAPHER 📍Oslo,Norway🇳🇴 👇👇👇👇YouTube channel
     location: "Norway"
-    followers: 6197
-    engagement: 2015
-    commentsToLikes: 0.010041
+    followers: 6390
+    engagement: 2057
+    commentsToLikes: 0.013388
     id: ckap1mn0wv76p0i782m0nsp0w
     verified: false
-    hashtags: "#love, #roma, #animals, #foodblogger"
-  - username: "bushcraftandcoffee"
+    hashtags: "#bird, #birds, #nature, #youtube"
+  - username: "minfriluftstid"
     fullname: >-
-      Camilla
+      
+    bio: >-
+      Svartkjelen • Turkoppen • Turbålet @sydvang #minfriluftstid Alle bildene er mine 👍
     location: "Norway"
-    followers: 24275
-    engagement: 416
-    commentsToLikes: 0.028986
-    id: ckaovfta54fus0i788dthvlfh
+    followers: 2864
+    engagement: 1787
+    commentsToLikes: 0.027500
+    id: ckaoxtihheolv0i783rvn8y0j
     verified: false
-    hashtags: "#opinelknife, #opinel, #woodenspoon, #survival"
-  - username: "idambt"
+    hashtags: "#igworldclub, #photographers, #photographer, #campvibes"
+  - username: "honeytheiggy"
     fullname: >-
-      Ida | Adventure time
+      Honey 🍯
+    bio: >-
+      I’m an #italiangreyhound Named 🍯 because I’m so sweet. 🎂 19.10.18 🇳🇴 Oslo, Norway. I am the queen of playing 🥏
     location: "Norway"
-    followers: 2247
-    engagement: 1419
-    commentsToLikes: 0.038987
-    id: ck5zy8yqj9fx20i14nyfhrk7s
+    followers: 21473
+    engagement: 1165
+    commentsToLikes: 0.038063
+    id: ck5he3o1mqvns0i11p2vwjl15
     verified: false
-    hashtags: "#snowcave, #bunad, #campfire, #cyclinglife"
+    hashtags: "#mydogiscutest, #dogphotography, #hunder, #funnydog"
   - username: "c.bolander"
     fullname: >-
       Cecilie Maria Bolander
+    bio: >-
+      Okurrr 🤙🏼 Email: ceciliemaria9@gmail.com @juicery @gorillazupgrade @underarmour @nocconorge @klinikkforallebekkestua
     location: "Norway"
-    followers: 11095
-    engagement: 405
-    commentsToLikes: 0.044183
+    followers: 11338
+    engagement: 354
+    commentsToLikes: 0.038671
     id: ck14jwp04mkk00i19ta3meh14
     verified: false
-    hashtags: "#norway, #mentaltoughness, #truegearsports, #champion"
-  - username: "danielobede"
+    hashtags: "#onestepatatime, #letsgo, #bjj, #judo"
+  - username: "tixmusic"
     fullname: >-
-      
+      TIX (Andreas Haukeland)
+    bio: >-
+      📱 Snap: tixmusic ✉️ Booking: marcus@artistpartner.no
     location: "Norway"
-    followers: 10027
-    engagement: 3094
-    commentsToLikes: 0.052342
-    id: ck5btopjfgbvg0i11k635nlb9
-    verified: false
-    hashtags: "#momm, #obedeszn"
-  - username: "juliehornelips"
-    fullname: >-
-      JULIE HORNE ACADEMY
-    location: "Norway"
-    followers: 98225
-    engagement: 492
-    commentsToLikes: 0.050245
-    id: ck14jzksbmyvm0i19vvhmsans
-    verified: false
-    hashtags: "#filler, #switzerland, #casual, #nofilter"
-  - username: "theofficial_emma_"
-    fullname: >-
-      eMMa
-    location: "Norway"
-    followers: 229044
-    engagement: 973
-    commentsToLikes: 0.021620
-    id: ck138c6fdfikp0i19zipgrh1x
+    followers: 205229
+    engagement: 1009
+    commentsToLikes: 0.098356
+    id: ck1385k26el150i19rg11iz2b
     verified: true
-    hashtags: "#school, #17mai, #goodfriends, #thinking"
+    hashtags: ""
 ---

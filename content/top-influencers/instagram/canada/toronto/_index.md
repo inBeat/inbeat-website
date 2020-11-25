@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Toronto In 2020
 description: >-
-  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: # #stjohnbyzturner #sonyphotography #heatercentral.
+  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #heywildlove #torontodrinks.
 platform: Instagram
+hits: 2270
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 2270 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "naalishya_"
-    fullname: >-
-      Naalishya Yokeswaren
-    location: "Canada"
-    followers: 8078
-    engagement: 1324
-    commentsToLikes: 0.074878
-    id: ck600knx3ds5n0i1470wuerc9
-    verified: false
-    hashtags: ""
-  - username: "nataliesng"
-    fullname: >-
-      👑SexyNatG👑
-    location: "Canada"
-    followers: 4993199
-    engagement: 365
-    commentsToLikes: 0.025238
-    id: ck134wgo0yiye0i19q34g87s7
-    verified: false
-    hashtags: "#iceland, #veganburger, #bluelagoon, #quarantinefashion"
-  - username: "tiannavera"
-    fullname: >-
-      Tianna Vera
-    location: "Canada"
-    followers: 29834
-    engagement: 271
-    commentsToLikes: 0.090332
-    id: ck0uelpvrlmz20i197rpk89nz
-    verified: false
-    hashtags: "#kytebaby, #11monthsold, #waterbabies, #waterbabiestoronto"
   - username: "gonniegarko"
     fullname: >-
       GG
+    bio: >-
+      toronto
     location: "Canada"
-    followers: 62402
-    engagement: 803
-    commentsToLikes: 0.011496
+    followers: 60196
+    engagement: 910
+    commentsToLikes: 0.012501
     id: ck0tviz5sbkfx0i196yzwkwyx
     verified: false
-    hashtags: "#ckone, #ckeveryone, #mycalvins, #stjohnxtoronto"
-  - username: "rebeccaramsdale"
+    hashtags: "#coachny, #coachxjlo, #mycalvins, #withfarfetch"
+  - username: "glenna.walters"
     fullname: >-
-      Rebecca Ramsdale
-    location: "Canada"
-    followers: 8426
-    engagement: 585
-    commentsToLikes: 0.044493
-    id: ck6tmkrsz80rb0j7195bi42j0
-    verified: false
-    hashtags: "#toronto"
-  - username: "karakmatthews"
-    fullname: >-
-      KARA MATTHEWS
-    location: "Canada"
-    followers: 3930
-    engagement: 1305
-    commentsToLikes: 0.053998
-    id: ckap6bilff73d0i78ra3onfb5
-    verified: false
-    hashtags: ""
-  - username: "m.a.i.ja"
-    fullname: >-
-      maija 🧚🏻
-    location: "Canada"
-    followers: 5367
-    engagement: 664
-    commentsToLikes: 0.039306
-    id: ck5cak7u1dkdw0i11w9y4hyle
-    verified: false
-    hashtags: "#linkinbio, #spon, #ssense, #safetyfirst"
-  - username: "anthonydelia"
-    fullname: >-
-      Anthony D'Elia
-    location: "Canada"
-    followers: 58199
-    engagement: 178
-    commentsToLikes: 0.019976
-    id: ck5ck3rbiw2n00i114r3wayty
-    verified: false
-    hashtags: ""
-  - username: "tom__t"
-    fullname: >-
+      Glenna Walters
+    bio: >-
       Toronto
     location: "Canada"
-    followers: 8310
-    engagement: 860
-    commentsToLikes: 0.097383
-    id: ck13978gljvux0i19ac8dp24i
+    followers: 494477
+    engagement: 1588
+    commentsToLikes: 0.008361
+    id: ck13cffzg02oc0i19h3j0whqj
     verified: false
     hashtags: ""
-  - username: "peter_in_to"
+  - username: "abillionmyles"
     fullname: >-
-      Peter
+      Young Mylesyy🌴
+    bio: >-
+      Toronto
     location: "Canada"
-    followers: 14267
-    engagement: 633
-    commentsToLikes: 0.082922
-    id: ck15r9gb66t9m0i19rkjbswci
+    followers: 23539
+    engagement: 281
+    commentsToLikes: 0.035352
+    id: ck5zp2a21rum30i14t3vpq2og
     verified: false
-    hashtags: "#niagarafalls, #stayandwander, #electric, #createexplore"
+    hashtags: "#creatorsclub, #simple, #mambamentality, #mambaday"
+  - username: "g.smalls"
+    fullname: >-
+      Gemma Smalley
+    bio: >-
+      Toronto
+    location: "Canada"
+    followers: 8425
+    engagement: 1003
+    commentsToLikes: 0.057241
+    id: ck6u1v9g9o3aj0j71p8i74f5v
+    verified: false
+    hashtags: "#asslikethatchallenge, #ysabellecapitule, #asslikethat, #corny"
+  - username: "boreees"
+    fullname: >-
+      BORIS
+    bio: >-
+      Toronto 🇨🇦
+    location: "Canada"
+    followers: 18639
+    engagement: 798
+    commentsToLikes: 0.022213
+    id: ck0w0d9c3dluj0i19evjynatm
+    verified: false
+    hashtags: ""
+  - username: "pairshilton"
+    fullname: >-
+      X Æ A-12 🖤🦇
+    bio: >-
+      Toronto| 🇧🇦🇭🇷
+    location: "Canada"
+    followers: 9024
+    engagement: 386
+    commentsToLikes: 0.045840
+    id: ckap2vwwp0jm70i78ty2nfq1h
+    verified: false
+    hashtags: ""
+  - username: "toronto"
+    fullname: >-
+      Toronto 🇨🇦
+    bio: >-
+      Welcome to Toronto⁣, Ontario, Canada. ⁣ ⁣ The main source for everything Toronto ❤️ ⁣
+    location: "Canada"
+    followers: 102938
+    engagement: 729
+    commentsToLikes: 0.020430
+    id: ck15qrtnr4bqd0i19cl4c3saa
+    verified: false
+    hashtags: "#toronto, #raptors, #clippers, #nba"
+  - username: "andreitalevin"
+    fullname: >-
+      Andreita Levin
+    bio: >-
+      Based in Canada | From Mexico ♡ 🤸🏻‍♀️Yoga/Pilates Teacher☼Dance Artist ➵ Wanderluster ✈️ 📍Toronto 🇨🇦
+    location: "Canada"
+    followers: 21558
+    engagement: 602
+    commentsToLikes: 0.062108
+    id: ck0u7h3mp4njc0i19m5nnh9yv
+    verified: false
+    hashtags: "#igyoga, #yoga, #yogaeverydamnday, #igyogafam"
+  - username: "madetwotravel"
+    fullname: >-
+      Marie & Gal | Love | Adventure
+    bio: >-
+      ✨Working towards our dreams 📍Currently in Toronto 🌙 Photography @mariannephotography.ca FREE EBOOK - Travel Blog - Digital Nomad ↓
+    location: "Canada"
+    followers: 53452
+    engagement: 5080
+    commentsToLikes: 0.091865
+    id: ck0u9yekvavxj0i19cvaqy8ow
+    verified: false
+    hashtags: "#canadatravel, #torontophotographer, #explorequebec, #torontolife"
+  - username: "mandilicous"
+    fullname: >-
+      Mandy | Food | Lifestyle
+    bio: >-
+      🇨🇦🇭🇰Published Model Lv 8 @googlelocalguides top1% Toronto @yelp elite @tiktok missmandilicous DM for collabs & invites 歡迎合作💕 Eng粵國 繁简
+    location: "Canada"
+    followers: 10231
+    engagement: 2126
+    commentsToLikes: 0.162206
+    id: ck15pdxixxeob0i199dnoaf03
+    verified: false
+    hashtags: "#tastetoronto, #tastethesix, #bubbletea, #torontofoodies"
 ---

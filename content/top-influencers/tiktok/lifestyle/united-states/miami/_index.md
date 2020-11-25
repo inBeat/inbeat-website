@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In Miami In 2020
 description: >-
-  Find top lifestyle TikTok influencers in Miami in 2020. Most popular hashtags: #lifestyle #fashion #miami #foryou.
+  Find top lifestyle TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #miami #foryou #foryoupage.
 platform: TikTok
+hits: 40
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 40 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
+  - username: "ralphdelatorre"
+    fullname: >-
+      Ralph De La Torre ⚡️
+    bio: >-
+      📥 Ralphdelatorreinquiries@gmail.com MIAMI 📍 Welcome to Hispanic tiktok!
+    location: "United States"
+    followers: 55300
+    engagement: 1670
+    commentsToLikes: 0.023576
+    id: cka9kqss00wtr0i78ng1g64z0
+    verified: false
+    hashtags: "#greenscreen, #cubano, #latinamom, #hispanicmom"
   - username: "andrespres"
     fullname: >-
       andrespres
+    bio: >-
+      Follow me on Instagram to harness the power of Physiological Awareness 🧠🤯👆🏽
     location: "United States"
-    followers: 69517
-    engagement: 582
-    commentsToLikes: 0.039904
+    followers: 69200
+    engagement: 547
+    commentsToLikes: 0.028691
     id: ck8j6ltb2ajrr0j78kos7uqa7
     verified: false
-    hashtags: "#hummus, #coldplunge, #gotthisforyou, #salty"
-  - username: "genesismedina2890"
+    hashtags: "#freediving, #eatemup, #spearfishing, #fyp"
+  - username: "lmfaomiami"
     fullname: >-
-      Genesis Medina
+      lmfaomiami
+    bio: >-
+      Miami • Memes • Videos • Comedy Follow us on IG @lmfaomiami
     location: "United States"
-    followers: 7058
-    engagement: 702
-    commentsToLikes: 0.007316
-    id: ck8vshgdydkfu0j78ografr84
+    followers: 30400
+    engagement: 607
+    commentsToLikes: 0.034862
+    id: ckdc90pz6i9zy0j23lrfcgpfk
     verified: false
-    hashtags: "#solteroski, #gabygirl, #fashion, #hospital"
+    hashtags: "#onlyindade, #onlyinhialeah, #onlyinmiami, #lmfaomiami"
+  - username: "dasilvaofficial"
+    fullname: >-
+      Samuel Da Silva
+    bio: >-
+      🇨🇩🇵🇹 Instagram: @dasilvaaofficial
+    location: "United States"
+    followers: 587
+    engagement: 1251
+    commentsToLikes: 0.022231
+    id: ckcj4ycnc5gx00j23y7zue6wl
+    verified: false
+    hashtags: "#parati, #humilde, #mexicocheck, #foryou"
+  - username: "trishxciii"
+    fullname: >-
+      TrishXCIII
+    bio: >-
+      Welcome to my world Miami 🌴 | Beauty/Lifestyle | Your Realtor BFF ❤️ BLM 🇭🇹
+    location: "United States"
+    followers: 6390
+    engagement: 645
+    commentsToLikes: 0.016850
+    id: ckcuwxntoluzh0j238o475rjv
+    verified: false
+    hashtags: "#datenight, #floridacheck, #thingstodoinmiami, #dogsoftiktok"
+  - username: "danielhernandez3276"
+    fullname: >-
+      Dany Hernández
+    bio: >-
+      
+    location: "United States"
+    followers: 2692
+    engagement: 370
+    commentsToLikes: 0.038959
+    id: ckb0uo1dmk03v0j23ky2tpphu
+    verified: false
+    hashtags: "#beautiful, #stayathome, #love, #funnyvideos"
+  - username: "miami.305"
+    fullname: >-
+      Miami 305
+    bio: >-
+      🌴MIAMI🌴 Luxury Real Estate & Lifestyle Services🏙🛳 IG @mvanwie📱
+    location: "United States"
+    followers: 36600
+    engagement: 688
+    commentsToLikes: 0.010851
+    id: ck9rbs4s0qkbl0j78zjdbk9hp
+    verified: false
+    hashtags: "#luxuryyacht, #fyp, #megayacht, #luxurylifestyle"
+  - username: "dannyhealthylife"
+    fullname: >-
+      DannyHealthylife
+    bio: >-
+      MIAMI📍 Journalist🎓 Influencing healthy lifestyle🍑
+    location: "United States"
+    followers: 16500
+    engagement: 449
+    commentsToLikes: 0.026853
+    id: ckb9sg5fjpoe60j23x3rmcjj8
+    verified: false
+    hashtags: "#tiktokrs, #fyp, #tiktokjapan, #tiktokviral"
   - username: "elgalvanjr"
     fullname: >-
       ElGalvanJr
+    bio: >-
+      Twitter n IG Elgalvanjr.. Waco/Dallas
     location: "United States"
-    followers: 6595
-    engagement: 538
-    commentsToLikes: 0.012578
+    followers: 6494
+    engagement: 527
+    commentsToLikes: 0.012467
     id: ck92t6f4lgljm0j78qcfyptpx
     verified: false
-    hashtags: "#elgato, #spanish, #foryou, #comosedice"
-  - username: "jamesthehawk"
-    fullname: >-
-      James Hawk
-    location: "United States"
-    followers: 21885
-    engagement: 564
-    commentsToLikes: 0.186787
-    id: ck83wuycdmae40j78sqz5ylhc
-    verified: false
-    hashtags: "#travel, #jamaica, #winner, #motivation"
+    hashtags: "#wacotx, #latino, #latinos, #dallastexas"
   - username: "styleamom"
     fullname: >-
       SherleyMaxine
+    bio: >-
+      LifeStyle| Family Fun| Haircare Owner| Educator🇭🇹 CEO of BoyMomLife MIAMI
     location: "United States"
-    followers: 28388
-    engagement: 1336
-    commentsToLikes: 0.033456
+    followers: 43100
+    engagement: 1351
+    commentsToLikes: 0.043682
     id: ck90vitmr09vb0j78tt0oqecx
     verified: false
-    hashtags: "#dancevideo, #relationships, #deltasigmatheta, #hygiene"
-  - username: "lambodoc"
-    fullname: >-
-      Lambodoc
-    location: "United States"
-    followers: 110790
-    engagement: 1058
-    commentsToLikes: 0.024541
-    id: ck8w412ud819f0j789ip2flbv
-    verified: false
-    hashtags: "#tiktokwellness, #cooking, #indianfood, #uber"
-  - username: "jasonofbeverlyhills"
-    fullname: >-
-      JasonofBeverlyHills
-    location: "United States"
-    followers: 6622
-    engagement: 449
-    commentsToLikes: 0.028643
-    id: ck9k2mw9tky6f0j78kbgzu403
-    verified: false
-    hashtags: "#foryou, #mystory, #diamondchains, #asaprocky"
-  - username: "dazmariah"
-    fullname: >-
-      DazMariah
-    location: "United States"
-    followers: 91738
-    engagement: 324
-    commentsToLikes: 0.016877
-    id: ck9fg867q0o410j781rtmozij
-    verified: false
-    hashtags: "#challenge, #gainesville, #glow, #miami"
-  - username: "bri_hale"
-    fullname: >-
-      Bri Hale
-    location: "United States"
-    followers: 2533
-    engagement: 270
-    commentsToLikes: 0.005891
-    id: cka0y8kh2abni0i781qfe1vvb
-    verified: false
-    hashtags: "#kittyplaytime, #fourseasons, #nikkibeach, #fast"
-  - username: "sprayground"
-    fullname: >-
-      sprayground
-    location: "United States"
-    followers: 10525
-    engagement: 1037
-    commentsToLikes: 0.050653
-    id: cka3vpia5z3jq0i784x89kgkw
-    verified: false
-    hashtags: "#behealthy, #spring, #walkitout, #creativitylove"
+    hashtags: "#quarantinelife, #millennial, #momlife, #haitianparents"
 ---

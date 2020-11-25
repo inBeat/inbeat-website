@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top music TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #music #duet #peace #tiktokdubai.
+  Find top music TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #foryoupage #duet #foryou #viral.
 platform: TikTok
+hits: 59
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 59 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "shihab919811"
+  - username: "rani_rafees"
     fullname: >-
-      شهاب دين ش
+      Rani...Rafees
+    bio: >-
+      📧 ranirafees04@gmail.com SomTim Best Therapy Is LongDrive🚘 & Music🎶🎼🎵
     location: "United Arab Emirates"
-    followers: 5671
-    engagement: 1926
-    commentsToLikes: 0.057526
-    id: ckae1e161ocxu0i78ak51edp5
+    followers: 217800
+    engagement: 2056
+    commentsToLikes: 0.031527
+    id: ckbvu1qu7su8b0j23ew6g3y2l
     verified: false
-    hashtags: "#miss"
+    hashtags: "#foryoupage, #foryou, #viral, #tiktokarab"
+  - username: "darling097"
+    fullname: >-
+      అరుణ్ యాదవ్
+    bio: >-
+      😎యాదవ్ గారి అబ్బయి🤘💪 😘#Wish me on 28 Nov#🎂😍 🤗Music lover🎻🎻🎻😍😘
+    location: "United Arab Emirates"
+    followers: 5294
+    engagement: 2420
+    commentsToLikes: 0.027373
+    id: ckavqo8p22a4j0j23zteelhst
+    verified: false
+    hashtags: "#vfly"
+  - username: "davidduplex"
+    fullname: >-
+      HIP HOP MUSIC DANCE
+    bio: >-
+      HiP H🅾P D🅰NCE MUSIC DAVID.CØM 🇩🅰🇳🇨🇪 🇾outub🇪 🆔 ØffiCel 🇩avi🇩 🇸ew🇦
+    location: "United Arab Emirates"
+    followers: 11700
+    engagement: 7605
+    commentsToLikes: 0.040402
+    id: ckbr3ugfwk7040j237k7qx2fq
+    verified: false
+    hashtags: "#dubai, #songs, #dancevideo, #dance"
+  - username: "anshadashraf2"
+    fullname: >-
+      Anshad Ashraf
+    bio: >-
+      Fun, love, music, football
+    location: "United Arab Emirates"
+    followers: 4326
+    engagement: 661
+    commentsToLikes: 0.113003
+    id: ckb9i3yld83xx0j23lt3vd4f0
+    verified: false
+    hashtags: "#musicstarmalayalam, #malayalamcomedy, #nellikka, #musicstar"
+  - username: "cronygirl0"
+    fullname: >-
+      @cronygirl
+    bio: >-
+      music lover ❤️
+    location: "United Arab Emirates"
+    followers: 2868
+    engagement: 1552
+    commentsToLikes: 0.033281
+    id: ckdcedfdvk3200j23u8u7rb30
+    verified: false
+    hashtags: "#fun, #energetic, #dancechallenge, #fitnessworkout"
   - username: "najeeenaji"
     fullname: >-
       Najeeb ahmed
+    bio: >-
+      Adcted to 🤩MuSiC🤩 😍NAHAR FELLAH NAJEEB AHMED🤩 #ownvoice😎😎
     location: "United Arab Emirates"
-    followers: 2621
-    engagement: 1331
-    commentsToLikes: 0.060781
+    followers: 2802
+    engagement: 1534
+    commentsToLikes: 0.065400
     id: ck9ewdkbumbgd0j78kl8n5re7
     verified: false
-    hashtags: "#mallumuser, #yourownvoice, #malayalamfilm, #myownvoice"
+    hashtags: "#foryoupage, #foryou, #pravasi, #trending"
+  - username: "dolasen_"
+    fullname: >-
+      Dolasen
+    bio: >-
+      musician🎼
+    location: "United Arab Emirates"
+    followers: 5915
+    engagement: 952
+    commentsToLikes: 0.041267
+    id: ckbqcexfmyo2j0j230shdessm
+    verified: false
+    hashtags: "#espresso, #foryourpage, #dolasen, #coffee"
+  - username: "ameerseyed"
+    fullname: >-
+      Ameer
+    bio: >-
+      Building my fanbase until i make original music 😊 Ig: ameerseyed
+    location: "United Arab Emirates"
+    followers: 141000
+    engagement: 714
+    commentsToLikes: 0.027158
+    id: cka6iut6ds8me0i78gjz3ktzn
+    verified: false
+    hashtags: "#viral, #foryoupage, #singing, #guitar"
   - username: "priyaamu1"
     fullname: >-
       Priya naidu
+    bio: >-
+      myself priya naidu 😆😆😆 I am arts student 😃😃😃 I luv musically lotttt
     location: "United Arab Emirates"
     followers: 192274
     engagement: 981
     commentsToLikes: 0.016494
     id: ck9grxaghfuje0j78nek1kv7f
     verified: false
-    hashtags: "#tamil, #santhanam, #rajini, #goundamani"
+    hashtags: "#dancing, #kundrathile, #tik, #comedy"
   - username: "nancyajrami"
     fullname: >-
       Nancy Ajram
+    bio: >-
+      Nancy Ajram official. #ALIBIYAALBI is OUT NOW! Watch the full music video.
     location: "United Arab Emirates"
-    followers: 268381
-    engagement: 676
-    commentsToLikes: 0.006448
+    followers: 293000
+    engagement: 615
+    commentsToLikes: 0.002775
     id: ck9kb9rdvk9oj0j78wyfpzlab
     verified: false
-    hashtags: "#teamnacy, #mbcthevociekuds, #albiyalbi, #albiyaalbi"
-  - username: "fasilfaizyponnu"
-    fullname: >-
-      Fasil Faizy Faizy
-    location: "United Arab Emirates"
-    followers: 4525
-    engagement: 2216
-    commentsToLikes: 0.052519
-    id: ckad5vqfhwoq50i78nnws29m1
-    verified: false
-    hashtags: "#dedicated, #gg99, #miss, #mjo"
-  - username: "moulana.nasir.madni"
-    fullname: >-
-      Nasir Madni
-    location: "United Arab Emirates"
-    followers: 13968
-    engagement: 347
-    commentsToLikes: 0.003847
-    id: ck99anv3aieel0j787r1buv3h
-    verified: false
-    hashtags: "#quot, #maulana, #staysafe, #azadi"
-  - username: "mahtabammad"
-    fullname: >-
-      Mahtab Ammad
-    location: "United Arab Emirates"
-    followers: 7929
-    engagement: 2148
-    commentsToLikes: 0.055022
-    id: cka6emkducbym0i78tzoukf6h
-    verified: false
-    hashtags: "#iftikharthaku, #tellmethesame, #hiphopper, #punjabimovi"
-  - username: "pukhtana111"
-    fullname: >-
-      pukhtana jeney
-    location: "United Arab Emirates"
-    followers: 149140
-    engagement: 2353
-    commentsToLikes: 0.135164
-    id: cka88qaoic9dr0i78vedy8ttk
-    verified: false
-    hashtags: "#afghan, #tiktokdubai, #yasirking33445, #punjabisong"
-  - username: "lonelyhippie22"
-    fullname: >-
-      🌚
-    location: "United Arab Emirates"
-    followers: 14334
-    engagement: 1014
-    commentsToLikes: 0.116705
-    id: cka6m38tc5nip0i784osqatru
-    verified: false
-    hashtags: "#fashion, #pickme, #react, #niceguy"
-  - username: "leadibtatros"
-    fullname: >-
-      Lea Dib Tatros
-    location: "United Arab Emirates"
-    followers: 2120
-    engagement: 816
-    commentsToLikes: 0.094345
-    id: ckamk0wdmqfhe0i78hjf5vfzx
-    verified: false
-    hashtags: "#abudhabi, #milan, #party, #cannes"
+    hashtags: "#mbthevociekids, #mbcthevoicekids, #teamnancy, #lebanesearmy"
 ---

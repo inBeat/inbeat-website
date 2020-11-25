@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top models TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #jamsession #keepingbusy #may4th.
+  Find top models TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #model #fyp #foryoupage.
 platform: TikTok
+hits: 90
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 90 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "krissysaleh"
+  - username: "danoruiseco"
     fullname: >-
-      krissysaleh
+      Daniel Ruiseco
+    bio: >-
+      
     location: "United States"
-    followers: 31049
-    engagement: 1744
-    commentsToLikes: 0.016341
-    id: cka0jav7ih7n70i788x7618j1
+    followers: 4051
+    engagement: 609
+    commentsToLikes: 0.027865
+    id: ckbfhf3kwcvu00j23rrll8vzo
     verified: false
-    hashtags: "#arianagrande, #leavingmybody, #oliviarodrigo, #albumlookalike"
-  - username: "lkbphotography_"
+    hashtags: "#sexy, #model, #losangelescalifornia, #venicebeach"
+  - username: "luxrosaporvida"
     fullname: >-
-      LISA+POPE
+      LuxRosaPorVida
+    bio: >-
+      Westcoast lifestyle brand. Circa ‘11
     location: "United States"
-    followers: 95710
-    engagement: 591
-    commentsToLikes: 0.005752
-    id: ck8nd35g5h68i0j78zbx4a98i
+    followers: 39600
+    engagement: 1598
+    commentsToLikes: 0.039532
+    id: ckae0wh29ltwi0i786vgld6qj
     verified: false
-    hashtags: "#lesbiancouple, #g6filter, #slowdance, #twercking"
-  - username: "itssylly"
+    hashtags: "#fyp, #sd, #2000s, #starshots"
+  - username: "teetime24"
     fullname: >-
-      SYLLY
+      Teetime24
+    bio: >-
+      IG kingtee_2 Get me to 50k 💜💛
     location: "United States"
-    followers: 708088
-    engagement: 1821
-    commentsToLikes: 0.008775
-    id: ck8ncw49qgawz0j78rj3b65as
+    followers: 33300
+    engagement: 911
+    commentsToLikes: 0.027213
+    id: ckc7una1dyg760j23t7gy1lag
     verified: false
-    hashtags: "#jumpman, #got2bhome, #jamsession, #littlethings"
-  - username: "nareisraelyan"
+    hashtags: "#comedy, #orlando, #viral, #westcoast"
+  - username: "denisarosinska"
     fullname: >-
-      nareisraelyan
+      Denisa Nachtigall
+    bio: >-
+      IG & YouTube @denisanachtigall I will shere my favorite workouts
     location: "United States"
-    followers: 4762
-    engagement: 387
-    commentsToLikes: 0.062747
-    id: ck8vuskj9jw7u0j78eqjc669d
+    followers: 72300
+    engagement: 393
+    commentsToLikes: 0.017312
+    id: ck8vuqyefjorj0j7840izmzju
     verified: false
-    hashtags: "#hairflip, #legs, #sneakpeak, #neckpain"
-  - username: "glazedadrian"
+    hashtags: "#foryoupage, #party, #style, #lamodel"
+  - username: "theofficialjayvalle"
     fullname: >-
-      Adrian Quiroz
+      Jay Valle
+    bio: >-
+      Host & Multi-media Journalist. Content Creator. Having fun on TIKTOK! FL.🏳️‍🌈
     location: "United States"
-    followers: 7493
-    engagement: 1761
-    commentsToLikes: 0.018009
-    id: ck9n957i594ls0j78nugvk6rl
+    followers: 45100
+    engagement: 1151
+    commentsToLikes: 0.053207
+    id: ckad9h2stdlkh0i7882vhibfp
     verified: false
-    hashtags: "#ravegay, #brokebit, #newchallenge, #everydayscience"
-  - username: "hannahroeloffs"
+    hashtags: "#scary, #help, #weho, #positivity"
+  - username: "sarnicolexoxo"
     fullname: >-
-      Hannah Roeloffs
+      Sarah
+    bio: >-
+      Insta @sarnicolexoxo
     location: "United States"
-    followers: 36100
-    engagement: 1319
-    commentsToLikes: 0.023517
-    id: cka0zbmxceu2z0i78rgdypkz9
+    followers: 23400
+    engagement: 770
+    commentsToLikes: 0.010423
+    id: ckai3feb0jnll0i789f2le1vj
     verified: false
-    hashtags: "#whippedcoffee, #mycrib, #flips, #experiment"
-  - username: "lunathenoodle"
+    hashtags: "#fyp, #tiger, #tigerking, #netflix"
+  - username: "moniqueyvonne"
     fullname: >-
-      Luna 🥨
+      Monique Yvonne Jones
+    bio: >-
+      20 years old Self-portrait photographer & model Self taught Los Angeles, CA
     location: "United States"
-    followers: 33327
-    engagement: 407
-    commentsToLikes: 0.050875
-    id: ck9jw7bjgv8tm0j78dy6grupv
+    followers: 490700
+    engagement: 2358
+    commentsToLikes: 0.016153
+    id: ckban2ghvdyk00j238fb4itq4
     verified: false
-    hashtags: "#onecommunity, #goingpro, #train, #baldgirl"
-  - username: "mariahdarling2020"
+    hashtags: "#20, #horror, #halloween, #nyxcosmeticspartner"
+  - username: "lucaminxu"
     fullname: >-
-      Mariah Darling
+      lucaminxu
+    bio: >-
+      Los Angeles Model Dancer Cosplay Gamer Twitch + More link below ⬇️ 🎮🎬🎤🎧👀
     location: "United States"
-    followers: 3728
-    engagement: 306
-    commentsToLikes: 0.024034
-    id: ckacgnflvvutw0i78xchx913g
+    followers: 82600
+    engagement: 1747
+    commentsToLikes: 0.040274
+    id: ck8fc1dsc5yga0j78lkgul37f
     verified: false
-    hashtags: "#bangs, #curlyhair, #frostedfeelings, #justaddglitter"
-  - username: "beautybydrkay"
+    hashtags: ""
+  - username: "uberalles.studio"
     fullname: >-
-      Dr. Kay
+      carlos vaz 📸
+    bio: >-
+      Fashion Photographer | Creative Director DM to shoot 📍LA - NY
     location: "United States"
-    followers: 42739
-    engagement: 214
-    commentsToLikes: 0.015344
-    id: ck9slcckid9qq0j788pwn6rj3
+    followers: 3144
+    engagement: 1081
+    commentsToLikes: 0.117419
+    id: ckd6x0d84tegs0j23vwkfmw9w
     verified: false
-    hashtags: "#fatmelt, #acne, #lipinjection, #maskchallenge"
-  - username: "swiftcc_albert_one_gee"
+    hashtags: "#photography, #model, #photographerlifestyle, #photographytips"
+  - username: "greg.rh"
     fullname: >-
-      Swift Car club
+      Greg
+    bio: >-
+      Art, furniture, fashion, and cooking g96harder@gmail.com
     location: "United States"
-    followers: 3636
-    engagement: 546
-    commentsToLikes: 0.009318
-    id: cka7nxdnhz0ty0i784fz3p54y
+    followers: 2677
+    engagement: 776
+    commentsToLikes: 0.118627
+    id: ckcjhqtugceoo0j237jtjk2h3
     verified: false
-    hashtags: "#camam, #promplaylist, #superduty, #single"
+    hashtags: "#modeling, #furniture, #photography, #malemodel"
 ---

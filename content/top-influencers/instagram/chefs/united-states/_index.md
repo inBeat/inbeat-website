@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In United States In 2020
 description: >-
-  Find top chefs Instagram influencers in United States in 2020. Most popular hashtags: #2020 #trusttheprocess # #howihummus.
+  Find top chefs Instagram influencers in United States in 2020. Most popular hashtags: #fitnessmotivation #fitness #foodie.
 platform: Instagram
+hits: 1559
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 1559 Instagram influencers like this in United States for you to connect with.
 profiles:
-  - username: "jskenes"
-    fullname: >-
-      Joshua Skenes
-    location: "United States"
-    followers: 118519
-    engagement: 191
-    commentsToLikes: 0.024150
-    id: ck0vw8wrcsms30i19fp5tkn8a
-    verified: true
-    hashtags: "#tarpon, #jiayou"
   - username: "chefwilliambradley"
     fullname: >-
       William Bradley
+    bio: >-
+      Chef
     location: "United States"
-    followers: 6155
-    engagement: 503
-    commentsToLikes: 0.043943
+    followers: 6335
+    engagement: 465
+    commentsToLikes: 0.042775
     id: ck0ttsekh44in0i19kmkcilf5
     verified: false
-    hashtags: "#hautecouture, #creativity, #holidayseason, #canapes"
-  - username: "cheffati"
+    hashtags: "#food, #keepgoing, #michelinguideca, #michelin"
+  - username: "jskenes"
     fullname: >-
-      Fatima Ali
+      Joshua Skenes
+    bio: >-
+      chef
     location: "United States"
-    followers: 161426
-    engagement: 2360
-    commentsToLikes: 0.040399
-    id: ck5cgzaimptro0i11qpuiyfzb
+    followers: 157687
+    engagement: 204
+    commentsToLikes: 0.021248
+    id: ck0vw8wrcsms30i19fp5tkn8a
     verified: true
-    hashtags: "#repost, #ewingsarcoma, #cancer, #letsstartatrend"
-  - username: "ronniecwoo"
-    fullname: >-
-      Ronnie Woo
-    location: "United States"
-    followers: 64008
-    engagement: 698
-    commentsToLikes: 0.033510
-    id: ck14luv4jwls80i192x0ufnl2
-    verified: true
-    hashtags: "#ad, #superbowlhalftimeshow, #superbowl, #sabrapartner"
-  - username: "corradommartini"
-    fullname: >-
-      Corrado Martini
-    location: "United States"
-    followers: 175643
-    engagement: 2583
-    commentsToLikes: 0.023406
-    id: ck15s4kewb6z20i19b3f8ypwn
-    verified: false
     hashtags: ""
+  - username: "trishas.transformation"
+    fullname: >-
+      Trisha Lewis
+    bio: >-
+      32, author, speaker, chef Irish ☘️ trishastransformationcork@gmail.com 26 stone (February 2018) 19 stone 10lbs
+    location: "United States"
+    followers: 160354
+    engagement: 584
+    commentsToLikes: 0.105651
+    id: ck5zq6p43u1hh0i140lpr83my
+    verified: true
+    hashtags: "#fitness, #fitnessday, #ad, #weightloss"
   - username: "good_vibes_janelle_"
     fullname: >-
       Janelle🥀
+    bio: >-
+      Let the beauty of what you love be what you do 🌺 🤍 @statemgmt 📍NYC/ NJ ASPIRING CHEF #GoodVibesOnly ✌🏽
     location: "United States"
-    followers: 4211
-    engagement: 2269
-    commentsToLikes: 0.108965
+    followers: 4173
+    engagement: 1676
+    commentsToLikes: 0.127204
     id: ck5zj9mq2h7300i140vgs8n3n
     verified: false
-    hashtags: "#ilikeitlikethat, #nyfw, #cherisheverymoment, #merica"
-  - username: "gemma_stafford"
+    hashtags: "#loveislove, #neverstopexploring, #blessed, #papabear"
+  - username: "princessprissxo"
     fullname: >-
-      Gemma Stafford
+      Priscilla Guerra
+    bio: >-
+      ✰ HTX📍 ✰ Certified Chef 🔪 ✰ Chef Pris Preps 👩🏻‍🍳 @getfitwithpris ✰ @Blessedprotein 🌱 Code: PRISCILLABP
     location: "United States"
-    followers: 121567
-    engagement: 536
-    commentsToLikes: 0.036183
-    id: ck0w1xhqelmhc0i19k0tesijh
+    followers: 6764
+    engagement: 2009
+    commentsToLikes: 0.085105
+    id: ck9wopxpx642i0j78e293nw1e
+    verified: false
+    hashtags: "#bangs, #fitness, #fit, #latina"
+  - username: "aurahalazam"
+    fullname: >-
+      Aurah Ala⚡️am
+    bio: >-
+      ✨ God 👩🏾‍🍳 Vegan Chef @zamgoodfood 💪🏽 Bodybuilder #Teampit 🏃🏾‍♀️ Run Coach @victoryrunclub 💕🌱 Love for all beings.
+    location: "United States"
+    followers: 2786
+    engagement: 1490
+    commentsToLikes: 0.134037
+    id: ckap3ol6b3vkw0i782wzpedfi
+    verified: false
+    hashtags: "#plantbased, #veganathlete, #jrnationals2020, #veganbodybuilder"
+  - username: "john_rozco"
+    fullname: >-
+      John Rozco
+    bio: >-
+      I crash Pampered Chef parties😭 . Alegre Media Group . Sony FS7 II / A7R IV . Commercial / Film on Vimeo
+    location: "United States"
+    followers: 6999
+    engagement: 800
+    commentsToLikes: 0.113993
+    id: ck55jy586y1hy0i11g1t7njjo
+    verified: false
+    hashtags: "#texasphotographer, #ourportraitsdays, #sonyimages, #fashion"
+  - username: "ronniecwoo"
+    fullname: >-
+      Ronnie Woo
+    bio: >-
+      Just a chef who loves puppies, traveling & romantic walks to the fridge. Watch “CRAVING JETLAG” - streaming now on YouTube.
+    location: "United States"
+    followers: 67391
+    engagement: 636
+    commentsToLikes: 0.029224
+    id: ck14luv4jwls80i192x0ufnl2
     verified: true
-    hashtags: "#firsttimedad, #saintpatricksday, #babyshark, #newbaby"
-  - username: "yogafordharma"
+    hashtags: "#beaussome, #eatbetterfeelbetter, #timetoheal"
+  - username: "theartemc"
     fullname: >-
-      KORYNE K➳DHARMA ➳YOGA
+      Artem
+    bio: >-
+      Harley Rider,Father to my baby Boy Matteo👶🏼,Practicing Chef,Interior Design/DIY & Cycling Enthusiast,SYTYCD S1,SCD🏆,DWTS Pro,Total Bellas•LA
     location: "United States"
-    followers: 51507
-    engagement: 794
-    commentsToLikes: 0.023165
-    id: ck5pzse992in50i111sb7yce5
-    verified: false
-    hashtags: "#bepresent, #grit, #yogaiseverywhere, #sattviclife"
-  - username: "matthewblaylock88"
+    followers: 878149
+    engagement: 904
+    commentsToLikes: 0.010769
+    id: ck0vx5l1jx92v0i19ozp0vrfy
+    verified: true
+    hashtags: "#bellaarmy, #forteo, #teamwillyouacceptthisdance, #dwts"
+  - username: "marinasqu"
     fullname: >-
-      
+      Marina Squerciati
+    bio: >-
+      Oh, hello. - Kim Burgess on NBC's Chicago PD. 👇🏽 Home Chef is awesome! 👇🏽
     location: "United States"
-    followers: 6022
-    engagement: 1219
-    commentsToLikes: 0.072420
-    id: ck0w4g7lbyex90i19x210rtg4
-    verified: false
-    hashtags: ""
-  - username: "themelissamayo"
-    fullname: >-
-      MELISSA MAYO🍴🥂✈️ Food + Travel
-    location: "United States"
-    followers: 27592
-    engagement: 298
-    commentsToLikes: 0.130671
-    id: ckap2x86f0pdm0i78gn8lafjh
-    verified: false
-    hashtags: "#free, #jewishfoods, #matzahchallenge, #giveaway"
+    followers: 645308
+    engagement: 717
+    commentsToLikes: 0.010873
+    id: ck0u7eb4x4mg90i196kg8gr5y
+    verified: true
+    hashtags: "#chicagopd, #squad, #badassburgess, #wearamask"
 ---

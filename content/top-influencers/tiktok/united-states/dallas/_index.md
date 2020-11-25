@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Dallas In 2020
 description: >-
-  Find top TikTok influencers in Dallas in 2020. Most popular hashtags: #coronavirus #gotthisforyou #starwars #quarantine.
+  Find top TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #wewintogether #duet.
 platform: TikTok
+hits: 745
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 745 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "blaze_the_foxx"
+  - username: "ms._dallas_marie"
     fullname: >-
-      Blazeypuff ✨
+      Dallas
+    bio: >-
+      Distributor-Ssh..It's Real 🇺🇸 made CBD by Puritilabs. Checkout code DALLAS 21+
     location: "United States"
-    followers: 134514
-    engagement: 2052
-    commentsToLikes: 0.029486
-    id: ckafvcl75e66g0i78pdge4879
+    followers: 4820
+    engagement: 1139
+    commentsToLikes: 0.166909
+    id: ck9e3n3ujkatd0j780za2lzkd
     verified: false
-    hashtags: "#dancecentral, #pokemon, #speedpaint, #ipadpro"
-  - username: "fatimaalozanoo"
+    hashtags: "#duetthis, #duet, #4upage, #4upageonly"
+  - username: "drippyy.dallas"
     fullname: >-
-      fatima🦋
+      dallas
+    bio: >-
+      socal 🌴 venmo - @Dallas-Smulson cashapp- $bbydallass
     location: "United States"
-    followers: 39716
-    engagement: 1891
-    commentsToLikes: 0.047540
-    id: ckae7jhhvhhuj0i78dcbrctg4
+    followers: 836300
+    engagement: 2654
+    commentsToLikes: 0.005939
+    id: ck9kduu0bvzcb0j78mvu8i6z1
     verified: false
-    hashtags: "#leavingmybody, #puppycheck, #moodboost, #musicmatters"
-  - username: "saharaaaa_"
+    hashtags: "#duet"
+  - username: "whtart"
     fullname: >-
-      sahara
+      William Toliver
+    bio: >-
+      Dallas based Teacher | Creative
     location: "United States"
-    followers: 70585
-    engagement: 1679
-    commentsToLikes: 0.059818
-    id: ck8p116x3j9dn0j78klhwewcn
+    followers: 66700
+    engagement: 1947
+    commentsToLikes: 0.059310
+    id: cka0skbbxlxbo0i78drc2tac0
     verified: false
-    hashtags: "#pov"
-  - username: "raysolo"
-    fullname: >-
-      Ray Jones
-    location: "United States"
-    followers: 26603
-    engagement: 1652
-    commentsToLikes: 0.048761
-    id: cka0yw1ted0410i78cdy2t4ax
-    verified: false
-    hashtags: "#joke, #idknever, #videocall, #playwithlife"
+    hashtags: "#foryou, #truestory, #thecoldestwater, #fyp"
   - username: "chicago_dallas"
     fullname: >-
       Anthony Ward
+    bio: >-
+      Project Manager Dallas, TX
     location: "United States"
-    followers: 3426
-    engagement: 1455
-    commentsToLikes: 0.087417
+    followers: 5098
+    engagement: 1738
+    commentsToLikes: 0.145063
     id: ckal63r428x1r0i788j1gj5j9
     verified: false
-    hashtags: "#whattime, #goodmusic, #firness, #oldschoolmusic"
-  - username: "dennythepug"
+    hashtags: "#foryou, #fyp, #swa, #foryoupage"
+  - username: "ballsack202"
     fullname: >-
-      Denny the Pug
+      coral🍆
+    bio: >-
+      25k ????? dallas/keller tx📍 dm me on main
     location: "United States"
-    followers: 192012
-    engagement: 2064
-    commentsToLikes: 0.029943
-    id: ck8s5qptqh2200j7808h26icc
+    followers: 22700
+    engagement: 1618
+    commentsToLikes: 0.145701
+    id: ckcvgh735sv070j23bww2ozai
     verified: false
-    hashtags: "#asmr, #viral, #foryou, #pug"
+    hashtags: "#foryou, #fyp"
+  - username: "terjiah_loui"
+    fullname: >-
+      terjiah_loui
+    bio: >-
+      📍DALLAS TX THE KING OF TIKTOK👑 I’ll just verify myself✅ DM FOR CHEAP PROMO💰
+    location: "United States"
+    followers: 1500000
+    engagement: 2723
+    commentsToLikes: 0.012944
+    id: ck8or5qgyaokv0j78p0t13tkq
+    verified: false
+    hashtags: "#terjiah, #fyp, #fypchallenge, #greenscreenvideo"
+  - username: "austingeter"
+    fullname: >-
+      austingeter
+    bio: >-
+      Ex-viner Husband and DAD 👨‍👩‍👧 Dallas, TX Email: Austingeter@yahoo.com
+    location: "United States"
+    followers: 1500000
+    engagement: 2348
+    commentsToLikes: 0.028728
+    id: ck9ro61qrazkf0j78jp3gipkg
+    verified: false
+    hashtags: "#fyp, #foryou, #ohno, #greenscreen"
+  - username: "ohitsthathannah"
+    fullname: >-
+      HANNAH
+    bio: >-
+      I think we should say “I love you” more💕 PO Box 195578 Dallas, TX 75219
+    location: "United States"
+    followers: 337300
+    engagement: 2223
+    commentsToLikes: 0.027978
+    id: ck8j96kgwm2aw0j78r66z6l0p
+    verified: false
+    hashtags: "#edrecovery, #foryou, #pov, #fyp"
+  - username: "mews"
+    fullname: >-
+      FaZe Mew - CODE MEW
+    bio: >-
+      ✅ @FaZeClan • Dallas, TX 🚨USE CODE MEW 💌 FCMews@gmail.com 📸 Twitter: @FaZeMew
+    location: "United States"
+    followers: 2500000
+    engagement: 2167
+    commentsToLikes: 0.015750
+    id: ck8oqpb6y8h1j0j784l15lgt9
+    verified: true
+    hashtags: "#showupshowoff, #foryoupage, #twitch, #ohno"
   - username: "yungski1"
     fullname: >-
-      Cristian Baul
+      ✪ Cristian Baul
+    bio: >-
+      Dallas TX 🦃🍁 Follow me on insta Snap:cbaul_5 70k? Cool kids
     location: "United States"
-    followers: 2612
-    engagement: 2038
-    commentsToLikes: 0.094990
+    followers: 69300
+    engagement: 2493
+    commentsToLikes: 0.060457
     id: cka7v2kksuhg40i78hdmpsswf
     verified: false
-    hashtags: "#earthday, #keepsupporting, #smirk, #zyxbca"
-  - username: "im.just.dallas"
-    fullname: >-
-      Literally Dallas
-    location: "United States"
-    followers: 73309
-    engagement: 1318
-    commentsToLikes: 0.066211
-    id: ck9emclvcemwk0j782bgpmqqp
-    verified: false
-    hashtags: "#youtube, #movies, #nba2k, #may4th"
-  - username: "dallasphoto"
-    fullname: >-
-      DTX photo
-    location: "United States"
-    followers: 282477
-    engagement: 1427
-    commentsToLikes: 0.042185
-    id: cka8dyetkuys60i78tdaqvaqn
-    verified: false
-    hashtags: "#ford, #natureathome, #starwars, #jeepcherokee"
-  - username: "jadalane_"
-    fullname: >-
-      jada lane
-    location: "United States"
-    followers: 16209
-    engagement: 1728
-    commentsToLikes: 0.078156
-    id: ck8oxz7py4t8c0j789fswi4f7
-    verified: false
-    hashtags: "#momsoftiktok, #comment, #featureme, #ledlights"
+    hashtags: "#wewintogether, #foryou, #notonething, #relatable"
 ---

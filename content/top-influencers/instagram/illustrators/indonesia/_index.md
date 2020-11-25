@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top illustrators Instagram influencers in Indonesia in 2020. Most popular hashtags: #anime #animeart #artist #illustrator.
+  Find top illustrators Instagram influencers in Indonesia in 2020. Most popular hashtags: #art #artwork #illustration #drawing.
 platform: Instagram
+hits: 100
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 100 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "raunakart_empire"
-    fullname: >-
-      raunakart_ empire..
-    location: "Indonesia"
-    followers: 3436
-    engagement: 5047
-    commentsToLikes: 0.029824
-    id: ckaoztce6nb9a0i78732ekyqe
-    verified: false
-    hashtags: "#stylish, #gown, #likes, #painting"
-  - username: "sendisiswadi"
-    fullname: >-
-      Sendi Siswadi
-    location: "Indonesia"
-    followers: 3742
-    engagement: 2115
-    commentsToLikes: 0.037190
-    id: ck15sfs6ocsqh0i194v0o0ufn
-    verified: false
-    hashtags: "#savetheearth, #mambacita, #pahlawan, #savetheforest"
-  - username: "ulynovita"
-    fullname: >-
-      Uly Novita Siahaan
-    location: "Indonesia"
-    followers: 63216
-    engagement: 1014
-    commentsToLikes: 0.050268
-    id: ck6u7x0lho5ir0j712o3w2czy
-    verified: false
-    hashtags: "#colorblock, #gloomy, #makeupremover, #dream"
   - username: "ggwp_riry"
     fullname: >-
       Riani Len Mochi
+    bio: >-
+      Brand Ambassador of @ggwp_esports Lazy Illustrator • Cosplayer • Gamer Business 📩 riani.sh@ggwp.id +62 81281806111 (Wenny)
     location: "Indonesia"
-    followers: 27997
-    engagement: 814
-    commentsToLikes: 0.026738
+    followers: 30072
+    engagement: 984
+    commentsToLikes: 0.022356
     id: ck0tw5j17e4160i19by621sws
     verified: false
-    hashtags: "#earthhour2020, #photoshop, #moody, #earthhour"
-  - username: "yosiaraduck"
+    hashtags: "#mood, #asiangirls, #moodygrams, #cosplayers"
+  - username: "raunak_fashion_illustration"
     fullname: >-
-      Yosia Raduck
+      Raunak Rai
+    bio: >-
+      Selftaught Fashion illustrator Dm me for commission work Youtuber..
     location: "Indonesia"
-    followers: 14048
-    engagement: 1685
-    commentsToLikes: 0.024102
-    id: ck0vxk4bgzabb0i19vzcxy701
+    followers: 6767
+    engagement: 1665
+    commentsToLikes: 0.060841
+    id: ckaoztce6nb9a0i78732ekyqe
     verified: false
-    hashtags: "#artproduct, #maskingfluid, #tutorial, #birds"
-  - username: "ramzapsyru"
+    hashtags: "#illustrator, #stylist, #artonpaper, #sketch"
+  - username: "im.cipa"
     fullname: >-
-      Ramza Ardyputra
+      cipa 🐼
+    bio: >-
+      ▪︎ Newbie Illustrator ▪︎ 🎨 Design : @cipproject_ 🧥 Fashion : @ic.clothingstore 🎮 Account Game : @saya.cipa
     location: "Indonesia"
-    followers: 3018
-    engagement: 1983
-    commentsToLikes: 0.096040
-    id: ck14hlhdtawy90i1904tgag49
+    followers: 145069
+    engagement: 166
+    commentsToLikes: 0.020228
+    id: ck9wfjp9ap4qz0j78ptojspeh
     verified: false
-    hashtags: "#mermay, #kdaahri, #fanartist, #zerotwofanart"
-  - username: "kevinswork"
+    hashtags: "#indonesia, #hip500, #tiktokindo, #muserid"
+  - username: "asma.niin"
     fullname: >-
-      Kevin Lagona
+      Asma Ninin Kurnia
+    bio: >-
+      22 y.o 🇮🇩|🎨 illustrator 🌵Open Commission➡DM 🎓Chemistry 🚫Don't repost my arts without credit & don't edit/trace my arts
     location: "Indonesia"
-    followers: 39418
-    engagement: 603
-    commentsToLikes: 0.059286
-    id: ck5hieui2d5na0i11e7oxh8c9
+    followers: 97817
+    engagement: 519
+    commentsToLikes: 0.010494
+    id: ck0tugz7n748d0i193li62l0t
     verified: false
-    hashtags: "#repost, #nikexcarhartt, #topcollectionbykevin, #outfitgrid"
+    hashtags: "#selfreminder, #illustration, #artistsoninstagram, #drawing"
+  - username: "wd.willy"
+    fullname: >-
+      • WD •
+    bio: >-
+      Illustrator ✌🏻 . wdwilly06@gmail.com . #Wdwilly
+    location: "Indonesia"
+    followers: 33925
+    engagement: 917
+    commentsToLikes: 0.023881
+    id: ck15q4naq12sy0i19e75xgxdf
+    verified: false
+    hashtags: "#letscml, #designyourownscooter, #designcharacter, #design"
+  - username: "ganeca__"
+    fullname: >-
+      Gavriella Diandra Ganesh
+    bio: >-
+      @coretan_ganeca / @jl_ganeca / Illustrator - animator wannabe OPEN COMISSION BULAN DESEMBER Ask for collaboration: gavriella.diandra.gd@gmail.com
+    location: "Indonesia"
+    followers: 11892
+    engagement: 1442
+    commentsToLikes: 0.019941
+    id: ckaosxjx2th0x0i78jroo3gic
+    verified: false
+    hashtags: "#indonesiapride, #tiktok, #princessdisney, #indonesia"
   - username: "bilx_art"
     fullname: >-
-      #bilxdoodles
+      🇧 🇮 🇱 🇽  ⷶ ͬ ͭ
+    bio: >-
+      🦄Artist 💫 All art by me🌈😸 🌟🇲🇨 I N D O N E S I A 🇲🇨🌟 🦄Doodler, illustrator, realism🙀 🦄Use #bilxdoodles 🙌 🦄My talent since I was little✌🏻
     location: "Indonesia"
-    followers: 3466
-    engagement: 2179
-    commentsToLikes: 0.075297
+    followers: 8929
+    engagement: 831
+    commentsToLikes: 0.058176
     id: ckaox9qb9cei20i78ztyshtqi
     verified: false
-    hashtags: "#animeindonesia, #animeedit, #animeindo, #zerotwocosplay"
-  - username: "kunchevsky"
+    hashtags: "#astro, #flower, #pennywise, #artistsoninstagram"
+  - username: "harry_sandi"
     fullname: >-
-      Alex Kunchevsky
+      harry sandi
+    bio: >-
+      🌏 INDONESIAN 📍Bandung,🇮 🇳 🇩 🇴 🇳 🇪 🇸 🇮 🇦 💛 Fashion Illustrator ♌ Fashion Designer
     location: "Indonesia"
-    followers: 387777
-    engagement: 941
-    commentsToLikes: 0.009131
-    id: ck5hmunmsmnj50i111d21fq1d
+    followers: 65141
+    engagement: 690
+    commentsToLikes: 0.009724
+    id: ck0tyw97iobte0i19rv5v4qtc
     verified: false
-    hashtags: "#digitalnomad, #artlovers, #animedrawing, #video"
-  - username: "annepratamav"
+    hashtags: "#dirumahaja, #stayathome, #pencil, #fashionillustration"
+  - username: "leendoodles"
     fullname: >-
-      ZahraVoca
+      Leenh
+    bio: >-
+      Graphic designer & Illustrator ⁝ Commission: OPEN, link in bio! ⁝ Ask for permission if u want to repost ⬇ STICKER SHOP, PATREON and other links
     location: "Indonesia"
-    followers: 7063
-    engagement: 1958
-    commentsToLikes: 0.016613
-    id: ck8t2cxczz01l0j78ecd6s3za
+    followers: 35870
+    engagement: 716
+    commentsToLikes: 0.028017
+    id: ckaou84tsz8660i78yx0nrwjz
     verified: false
-    hashtags: "#fategrandorder, #bungoustraydogs, #executor, #neneyashiro"
+    hashtags: "#commissions, #twitchcommissions, #commissionsopen, #artcommissions"
+  - username: "abdhy.art"
+    fullname: >-
+      Abdhy.art
+    bio: >-
+      🏠 Makassar 🇲🇨 INDONESIA 🎨 ArtLegendsFamily 🎨 MGL-ID Designer & Illustrator Freelance Illustrator Character/Mascot Designer Animator Beginner
+    location: "Indonesia"
+    followers: 15713
+    engagement: 1486
+    commentsToLikes: 0.030298
+    id: ckf5wacsvre3z0j23zj6rh67s
+    verified: false
+    hashtags: "#art, #naruto, #komikpolisi, #narutoxmlbb"
 ---

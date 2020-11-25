@@ -1,107 +1,118 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Malaysia In 2020
 description: >-
-  Find top cooking TikTok influencers in Malaysia in 2020. Most popular hashtags: #cooking #stayathome #coronavirus #dessert.
+  Find top cooking TikTok influencers in Malaysia in 2020. Most popular hashtags: #stayathome #tiktokmalaysia #fyp #foryoupage.
 platform: TikTok
+hits: 9
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "miaerror404"
+  - username: "hemahmanimaran"
     fullname: >-
-      Amylia aidura
+      🌻🦄💛Hemah Sivasubham💛🦄🌻
+    bio: >-
+      🎂3Apr90♈️/🇲🇾/Independent/❤️Long Drive(Alone)/❤️Pets 🐾 & Cooking/Grandma's Kid 👵🏼👧🏼/Family & Friends comes first❣️ ~Be Unique,Be Different,Be Yourself~
     location: "Malaysia"
-    followers: 66644
-    engagement: 1016
-    commentsToLikes: 0.013552
-    id: ckacf1jvnp4y50i78pfv3bpae
+    followers: 26100
+    engagement: 1077
+    commentsToLikes: 0.070562
+    id: ckc1w7r5y06h80j236f6ouvr5
     verified: false
-    hashtags: "#quarantine, #tiktokmalaysia, #dessert, #hijab"
+    hashtags: "#tamilponnu, #mybetterhalf, #loveofmylife, #sivahemahparisam"
   - username: "moeirajohnson"
     fullname: >-
       Mj
+    bio: >-
+      First we eat, then we do everything else 👩‍🍳 🇲🇾🇳🇬 Shop MJFoods at ig 👆
     location: "Malaysia"
-    followers: 73150
-    engagement: 511
-    commentsToLikes: 0.015060
+    followers: 105400
+    engagement: 596
+    commentsToLikes: 0.027083
     id: ck8vyikg3u7wh0j78uuq3zc9f
     verified: false
-    hashtags: "#kuihbatangburuk, #malaydessert, #kidsfavorite, #spicybeef"
+    hashtags: "#momslife, #csection, #makantime, #hospitalfood"
   - username: "ddjt_food_journey"
     fullname: >-
-      DDJT Food Journeys
+      DDJT Food Journey
+    bio: >-
+      Its All About Food. The ingredient that binds us together. ❤️🌎🤝🌍🤝🌏❤️
     location: "Malaysia"
-    followers: 5427
-    engagement: 479
-    commentsToLikes: 0.002752
+    followers: 8446
+    engagement: 945
+    commentsToLikes: 0.016779
     id: ck8f6u4ol2sd60j780v7rmmse
     verified: false
-    hashtags: "#caramelchicken, #recipe, #spaghetti, #cookfood"
-  - username: "_meisien"
-    fullname: >-
-      steph
-    location: "Malaysia"
-    followers: 2373
-    engagement: 887
-    commentsToLikes: 0.092846
-    id: cka68yptkqljr0i78wlqa30wn
-    verified: false
-    hashtags: "#malaysia, #lightbulbphotography, #cooking, #onesidedimple"
-  - username: "s.kss_01"
-    fullname: >-
-      S.kSS_01
-    location: "Malaysia"
-    followers: 3099
-    engagement: 1979
-    commentsToLikes: 0.059234
-    id: ck81q03egeveu0j78rgp7xb7h
-    verified: false
-    hashtags: "#acnh, #sketchers, #tiktokgraduation, #thalapathyvijay"
-  - username: "johnyeo5561"
-    fullname: >-
-      John Yeo
-    location: "Malaysia"
-    followers: 169790
-    engagement: 731
-    commentsToLikes: 0.024677
-    id: ck8kghzenikkp0j78zabpxhnj
-    verified: false
-    hashtags: "#cooking, #whaleshark, #tiktoksabahan, #valentinesday"
-  - username: "ivycher"
-    fullname: >-
-      ivy 🥚🥞🥪🍳
-    location: "Malaysia"
-    followers: 164282
-    engagement: 2069
-    commentsToLikes: 0.005353
-    id: ck90y6tgq9fq80j78eb0sxdp3
-    verified: false
-    hashtags: "#pancake, #xyzbca, #flan, #soufflepancake"
-  - username: "poonamvishaldagar"
-    fullname: >-
-      Poonam dagar
-    location: "Malaysia"
-    followers: 333441
-    engagement: 880
-    commentsToLikes: 0.012423
-    id: ck83z938iysbh0j78335o30gc
-    verified: false
-    hashtags: "#lovesong, #couplegoals, #tiktokindia, #funnycouples"
-  - username: "yeboiirg"
-    fullname: >-
-      Roshan Gill
-    location: "Malaysia"
-    followers: 4937
-    engagement: 312
-    commentsToLikes: 0.046169
-    id: ckae066vlhzev0i78ye3ehbog
-    verified: false
-    hashtags: "#adahaieradaraya, #quarantinelife, #coronavirus, #mercedes"
+    hashtags: "#kakimakan, #foods, #resepimudah, #resepi"
   - username: "johnsom.eattravel"
     fullname: >-
       Johnsom阿勇-旅游美食TV
+    bio: >-
+      Youtube: 阿勇Johnsom-旅遊美食TV FB : 阿勇Johnsom-旅遊美食TV ⬇️ Subscribe me now⬇️
     location: "Malaysia"
-    followers: 13636
-    engagement: 409
-    commentsToLikes: 0.012040
+    followers: 14200
+    engagement: 433
+    commentsToLikes: 0.010016
     id: ck9fwzt783wpg0j78zk6hxczi
     verified: false
-    hashtags: "#seapark, #facepuzzle, #dessert, #otak"
+    hashtags: "#stayathome, #cooking, #tiktokmalaysia, #tiktokfood"
+  - username: "lucashoangg"
+    fullname: >-
+      Huu Dat Nguyen Hoang
+    bio: >-
+      
+    location: "Malaysia"
+    followers: 6288
+    engagement: 373
+    commentsToLikes: 0.072929
+    id: ckb9u8sn8swrm0j23kv3obhdt
+    verified: false
+    hashtags: "#quarantine, #lucashoang, #vietnam, #malaysia"
+  - username: "ichriskee"
+    fullname: >-
+      Chris Liew
+    bio: >-
+      ♍️ IG: iChrisKee Marathoner 🏃🏻 + ChefWannaBe 👨🏻‍🍳 + Traveller ✈️ from 🇲🇾
+    location: "Malaysia"
+    followers: 58500
+    engagement: 546
+    commentsToLikes: 0.038288
+    id: ckb0yzid0ns7x0j23bw7kq9th
+    verified: false
+    hashtags: "#smile, #foryoupage, #foryourpage, #tiktokmalaysia"
+  - username: "karthik_santiran"
+    fullname: >-
+      KarthiK卐சந்திரன்
+    bio: >-
+      வாழ்க தமிழ் வழர்க எண் தாய்மொழியே.musical.ly
+    location: "Malaysia"
+    followers: 12900
+    engagement: 495
+    commentsToLikes: 0.015292
+    id: ckbbm8scbafjj0j236mcxgoho
+    verified: false
+    hashtags: "#stayathome, #tranding, #foryou, #foryoupage"
+  - username: "am4ndaloo8"
+    fullname: >-
+      Am4ndaLoo
+    bio: >-
+      
+    location: "Malaysia"
+    followers: 12900
+    engagement: 209
+    commentsToLikes: 0.018894
+    id: ckbw90hl8zg5d0j23ni5f5vj7
+    verified: false
+    hashtags: "#chiaseeds, #cb, #handschallenge, #hairchallenge"
+  - username: "durqa140798"
+    fullname: >-
+      துர்கா ❤🕊️
+    bio: >-
+      💜
+    location: "Malaysia"
+    followers: 2972
+    engagement: 736
+    commentsToLikes: 0.000528
+    id: ck9flvyskq64p0j783ldonu7g
+    verified: false
+    hashtags: "#my, #gg99tamil, #tamiltiktok, #aranthavaalu"
 ---

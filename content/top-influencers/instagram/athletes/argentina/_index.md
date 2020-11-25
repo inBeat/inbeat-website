@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Argentina In 2020
 description: >-
-  Find top athletes Instagram influencers in Argentina in 2020. Most popular hashtags: #youcantstopus #inmyjs #playfortheworld #hometeam.
+  Find top athletes Instagram influencers in Argentina in 2020. Most popular hashtags: #youcantstopus #nike #nikewomen.
 platform: Instagram
+hits: 57
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 57 Instagram influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "agusalbertario"
-    fullname: >-
-      Agus Albertario
-    location: "Argentina"
-    followers: 260517
-    engagement: 811
-    commentsToLikes: 0.100255
-    id: ck13c6dd5yu3j0i19kz4l7oov
-    verified: true
-    hashtags: "#unaparavosunaparatodas, #siemprelibre, #carefree, #ob"
   - username: "luchogonzalez.1"
     fullname: >-
       Luciano Gonzalez Rizzoni
+    bio: >-
+      Nike Athlete
     location: "Argentina"
-    followers: 13370
-    engagement: 2267
-    commentsToLikes: 0.096438
+    followers: 13295
+    engagement: 2741
+    commentsToLikes: 0.125019
     id: ck5pzjf1y19rr0i11qwh3nt7p
     verified: false
-    hashtags: "#justdoit"
-  - username: "florhabif"
+    hashtags: "#youcantstopus"
+  - username: "maguifernandezl"
     fullname: >-
-      • FLOR HABIF •
+      Magui Fernandez Ladra
+    bio: >-
+      @lekkerhockey 🏑 / Nike Athlete
     location: "Argentina"
-    followers: 115430
-    engagement: 567
-    commentsToLikes: 0.043300
-    id: ck55ln1vc1yi30i11o9cmpi63
-    verified: true
-    hashtags: "#bajodelmar, #inmyjs, #youcantstopus"
-  - username: "rusha.life"
-    fullname: >-
-      𝓡 𝓤 𝓢 𝓗 𝓐
-    location: "Argentina"
-    followers: 97237
-    engagement: 442
-    commentsToLikes: 0.081914
-    id: ck55pd8kzabcp0i11iyv2umv1
+    followers: 19373
+    engagement: 765
+    commentsToLikes: 0.112147
+    id: ck6tw6h59q9hv0j71l498i58a
     verified: false
-    hashtags: "#happyeaster"
-  - username: "melrodriguezth"
+    hashtags: "#youcantstopus, #nike, #nikesportswear, #playfortheworld"
+  - username: "davo_viking"
     fullname: >-
-      MEL RODRIGUEZ 🇦🇷
+      David Juárez La Bestia
+    bio: >-
+      #TeamBestia 🔺Gimnasta 🔺Héroe Contendiente en @exatlonmx 🔺Twin 2 to @ianjuarez01 📩 @athlete_booster
     location: "Argentina"
-    followers: 45875
-    engagement: 962
-    commentsToLikes: 0.013561
-    id: ck5btkkt4g4to0i11y93bim1y
+    followers: 353385
+    engagement: 660
+    commentsToLikes: 0.015799
+    id: ck8svwqmjczpv0j78tjc70333
     verified: false
-    hashtags: "#fitfoodbuenosaires, #compexsudamerica, #callerasargoitia, #labandadelrayo"
+    hashtags: "#enigmasexatlo, #teambestia, #yosoysportico, #monsterenergymex"
   - username: "belencasetta"
     fullname: >-
-      Belén Casetta
+      Belén Casetta
+    bio: >-
+      Athlete🇦🇷 Olympic Games 2016 🇧🇷| World finalist London 2017 🇬🇧 | 6x ARG Records 🇦🇷 |Steeplechase south american record 9:25.99 • Nike athlete
     location: "Argentina"
-    followers: 46460
-    engagement: 679
-    commentsToLikes: 0.024041
+    followers: 49363
+    engagement: 800
+    commentsToLikes: 0.020655
     id: ck5zpqnfht5sj0i148ybggab6
     verified: true
-    hashtags: "#yocantstopus"
-  - username: "anabt11"
+    hashtags: "#fitness, #athletics, #tokio2020, #runners"
+  - username: "conicerundolo"
     fullname: >-
-      ANA HERNANDEZ💕
+      - Maria Constanza -
+    bio: >-
+      * Grays player * Nike Athlete * Belgrano Athletic Club ~ Las Leonas 🇦🇷
     location: "Argentina"
-    followers: 5982
-    engagement: 1213
-    commentsToLikes: 0.039052
-    id: ck8sx0wbxfucs0j78d6w3ov5s
+    followers: 25873
+    engagement: 1537
+    commentsToLikes: 0.018969
+    id: ck13bk7gwvt790i197yp2r8im
     verified: false
-    hashtags: ""
+    hashtags: "#youcantstopus"
   - username: "juanchimallia"
     fullname: >-
       Juanchi Mallia
+    bio: >-
+      @adidas Athlete
     location: "Argentina"
-    followers: 22073
-    engagement: 2078
-    commentsToLikes: 0.012081
+    followers: 22467
+    engagement: 2032
+    commentsToLikes: 0.014264
     id: ck602uw4qjb9e0i14siox7ahc
     verified: true
-    hashtags: "#hometeam, #homeofclassics, #creaconadidas, #werepresent"
-  - username: "tomaslezana"
+    hashtags: "#sl20, #creadoconadidas, #hometeam, #volveracasa"
+  - username: "melrodriguezth"
     fullname: >-
-      Tomas Lezana
+      MEL RODRIGUEZ 🇦🇷
+    bio: >-
+      Games athlete 17’19’20 Fittest in Argentina Open ‘18’19’20’ 1st place BCC🇧🇷 20’ Atleta @_bearfit @themethodnow @somosunitedwarriors @bluedemonar
     location: "Argentina"
-    followers: 40037
-    engagement: 1134
-    commentsToLikes: 0.008407
-    id: ck13bkcqyvtyv0i19ulijyxqw
-    verified: true
-    hashtags: "#moyaa, #hometeam, #rwc2019"
-  - username: "conicerundolo"
-    fullname: >-
-      Maria Constanza ✨
-    location: "Argentina"
-    followers: 23745
-    engagement: 1609
-    commentsToLikes: 0.007794
-    id: ck13bk7gwvt790i197yp2r8im
+    followers: 62236
+    engagement: 1023
+    commentsToLikes: 0.011267
+    id: ck5btkkt4g4to0i11y93bim1y
     verified: false
-    hashtags: "#playfortheworld, #youcantstopus, #quedateencasa"
+    hashtags: "#cortespremium, #atomodesinflamanteforte, #mrbearfit, #tbt"
+  - username: "roetchart"
+    fullname: >-
+      Rodrigo Etchart
+    bio: >-
+      Nike Athlete 🇦🇷
+    location: "Argentina"
+    followers: 11547
+    engagement: 1453
+    commentsToLikes: 0.013397
+    id: ck5c4a4d00x530i11vsgm5d05
+    verified: false
+    hashtags: "#playinside, #playfortheworld, #ucesvirtual, #educaci"
+  - username: "anabt11"
+    fullname: >-
+      ANA HERNANDEZ💕
+    bio: >-
+      18. Venezolana🇻🇪/ Ex-gimnasta/ Crossfit athlete 🏋🏽‍♀️ TikTok: Anabt11 🎶 @rookiesathletes 🤸🏻‍♀️ @plcbox 🏠 @sp_nutrition @xnutrifit.vzla @adesinc.ve ⚡️
+    location: "Argentina"
+    followers: 6239
+    engagement: 1016
+    commentsToLikes: 0.041609
+    id: ck8sx0wbxfucs0j78d6w3ov5s
+    verified: false
+    hashtags: ""
+  - username: "micaretegui23"
+    fullname: >-
+      ☼ M I C A E L A  R E T E G U I
+    bio: >-
+      • 𝕤𝕚𝕖𝕟𝕕𝕠 𝕗𝕖𝕝𝕚𝕫 • . Hockey Player 🇦🇷🇸🇱🏑 . Adidas Athlete @adidasar . Publicidad 📚 @lasiglo21 . #TeamJDH @jdhargentina
+    location: "Argentina"
+    followers: 38301
+    engagement: 694
+    commentsToLikes: 0.008436
+    id: ckap57l9waj4g0i78rdryikdn
+    verified: false
+    hashtags: "#croassaint, #volcan, #descongelalorico, #fudy"
 ---

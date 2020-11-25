@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Poland In 2020
 description: >-
-  Find top rappers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #rapper #gotujemy #prezent.
+  Find top rappers Instagram influencers in Poland in 2020. Most popular hashtags: #rapper #music #trap.
 platform: Instagram
+hits: 10
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Poland for you to pitch.
 profiles:
+  - username: "shrek_kmg"
+    fullname: >-
+      שרק - ShrekDiMC
+    bio: >-
+      Rapper&songwriter/video editor TACT RECORDS TEL AVIV 2020 קליפ חדש עכשיו ביוטיוב שרק וצוקוש - ראש טוב 😉
+    location: "Poland"
+    followers: 4652
+    engagement: 1288
+    commentsToLikes: 0.055515
+    id: ckap6vkkxhiz20i781h72ypn5
+    verified: false
+    hashtags: ""
   - username: "waldemar_kasta"
     fullname: >-
       Waldemar WALL-E Kasta
+    bio: >-
+      Rocznik 78. Urodzony we Wrocławiu.Od 1993 rapper w K.A.S.T.A(Konfederacja Absolwentów Szkoły Technicznej Artykulacji).
     location: "Poland"
-    followers: 5619
-    engagement: 856
-    commentsToLikes: 0.016216
+    followers: 6394
+    engagement: 903
+    commentsToLikes: 0.026453
     id: ck5q9k6odbinr0i11d3uswiew
     verified: false
-    hashtags: "#me, #musicman, #youngthug, #rap"
-  - username: "szymanskimma"
+    hashtags: ""
+  - username: "marcinklosowski.official"
     fullname: >-
-      Roman Szymański
+      Marcin Kłosowski
+    bio: >-
+      ➡ Singer🎵 🎤 ❤ Songwriter ✍🏻 ➡️ Aktor 🎬 Model🕴➡ Snap: marcin22338 👻 ➡️ Kontakt/Współpraca: marcin22338@gmail.com ➡️ Kanał YouTube Marcin Kłosowski👇📀🎞
     location: "Poland"
-    followers: 36491
-    engagement: 604
-    commentsToLikes: 0.013354
-    id: ck0u29adgzair0i19geh8v9pa
-    verified: false
-    hashtags: "#catering, #kochaj, #walcz, #tipi"
-  - username: "kubanorek"
+    followers: 52429
+    engagement: 494
+    commentsToLikes: 0.028546
+    id: ck13cnlci18op0i192di2e2ax
+    verified: true
+    hashtags: "#songwriter, #sing, #photooftheday, #instaboy"
+  - username: "negahdarinia"
     fullname: >-
-      Kuba Norek 🐼♥
+      Amir Hossein - Negahdari Nia
+    bio: >-
+      CBO at "Catchy-SoundZ" Production / Toronto 🇨🇦 - Follow me on #Spotify ⤵
     location: "Poland"
-    followers: 63765
-    engagement: 603
-    commentsToLikes: 0.008629
-    id: ck8wefmu0dzkm0j78vvfbx9hz
+    followers: 25683
+    engagement: 187
+    commentsToLikes: 0.015287
+    id: ck6u9h318xiuw0j719g2mfefb
     verified: false
-    hashtags: "#timber, #mevschocolate, #artistic, #lights"
+    hashtags: "#rapfreestyle, #nekfeu, #googleplaymusic, #tidal"
+  - username: "sebastianklawikowski"
+    fullname: >-
+      Sebastian Klawikowski
+    bio: >-
+      Rysuje... @klawikthecreator 👻 Snapchat: klawikowskikrul 📖 Facebook: Sklawikowski 📧 Email: sklawik1@gmail.com
+    location: "Poland"
+    followers: 49529
+    engagement: 1255
+    commentsToLikes: 0.008992
+    id: ck8sxf55fh69t0j78u8wmad6x
+    verified: false
+    hashtags: "#friz, #paint, #painting, #6style"
   - username: "emergency_queen"
     fullname: >-
-      Julia Piątek
+      Julia Piątek
+    bio: >-
+      Emergency Medicine Doctor 🚑👩🏻‍⚕️ Śpiewający lekarz rezydent z dużą dawką czarnego humoru i ironii Born in 🇩🇪 Living in 🇵🇱 Studied in 🇬🇧 language
     location: "Poland"
-    followers: 34356
-    engagement: 733
-    commentsToLikes: 0.048811
+    followers: 40781
+    engagement: 642
+    commentsToLikes: 0.033940
     id: ck8t563058wh20j78jmqzywbi
     verified: false
-    hashtags: "#takietamnapla, #tiktok, #niero, #czytanie"
-  - username: "zalewskiofficial"
-    fullname: >-
-      Krzysztof Zalewski
-    location: "Poland"
-    followers: 112682
-    engagement: 900
-    commentsToLikes: 0.011569
-    id: ck0tuc9v96k6g0i1966h922c5
-    verified: true
-    hashtags: "#pawe, #wydech, #polin, #murem"
-  - username: "matteo.brunetti.real"
-    fullname: >-
-      MATTEO BRUNETTI
-    location: "Poland"
-    followers: 49647
-    engagement: 248
-    commentsToLikes: 0.013440
-    id: ck5chvgqvrjn30i11gin9uwoy
-    verified: true
-    hashtags: "#takarado, #zostajewdomu, #semifreddo, #breadporn"
+    hashtags: "#lekarz, #warszawa, #doctor, #emergencymedicine"
   - username: "femin.official"
     fullname: >-
       Femin
+    bio: >-
+      Muzyk 🎼Artysta👤 Wokalista🎤 Gitarzysta🎸 📀 Właściciel Remedium Music New Song: v v v
     location: "Poland"
-    followers: 20185
-    engagement: 142
-    commentsToLikes: 0.046516
+    followers: 19370
+    engagement: 102
+    commentsToLikes: 0.040165
     id: ck0u7bq6o4afn0i197og62fm1
     verified: false
-    hashtags: "#videoklip, #teledysk, #music, #klip"
-  - username: "natalia.nft"
+    hashtags: "#love, #polishboy, #niceday, #walentynki"
+  - username: "aspermastter23"
     fullname: >-
-      Natalia
+      Un Papá Rapper ♥️
+    bio: >-
+      𝑀𝑧𝑎.||8’𝑘💓 - •(𝚄𝚗 𝟷𝟺/𝟻)✨ - •𝑯𝑶𝑴𝑬𝑹𝑼𝑵🏌🏻‍♂️ - •23/4 𝑑𝑖𝑎 𝑑𝑒 𝑙𝑜𝑠 𝑙𝑜𝑛𝑑𝑟𝑖𝑠𝑡𝑎𝑠 - ᴘᴀᴜʟᴏ: ᴍᴇ sᴜʙɪó ᴀ sᴜ ʜɪsᴛᴏʀɪᴀ x7📲,ᴍᴅ x3+history, ❤️x15,💬x4, x74👀,lo conocí📸
     location: "Poland"
-    followers: 9522
-    engagement: 910
-    commentsToLikes: 0.227538
-    id: ckaormbyknvcp0i78yqokhv0z
+    followers: 8140
+    engagement: 1315
+    commentsToLikes: 0.145711
+    id: ckaowbs8p885w0i78grjt5czd
     verified: false
-    hashtags: "#sesjawogrodzie, #session, #dotsmylove, #legs"
-  - username: "kasia_satala"
+    hashtags: "#homerun, #paulolondra, #liberenalleon, #skrr"
+  - username: "paancia"
     fullname: >-
-      Mów mi Mama ✌
+      Karolina
+    bio: >-
+      Dokonałam niemożliwego dla mnie samej. Schudłam 45kg :) Kontakt: deebilica@gmail.com
     location: "Poland"
-    followers: 11264
-    engagement: 916
-    commentsToLikes: 0.060192
-    id: ck5hnrxzboaid0i11tcnpeikk
+    followers: 15435
+    engagement: 1371
+    commentsToLikes: 0.031184
+    id: ck8t4nlth7fkx0j78m6xbk7fj
     verified: false
-    hashtags: "#siostraibrat, #printuzamamami, #prezent, #szumi"
-  - username: "trufelkowo"
+    hashtags: "#kot, #noworodek, #mamaicorka, #hm"
+  - username: "_amimami_"
     fullname: >-
-      Mama&CórkaParentingLifestyle
+      Aneta 🌿
+    bio: >-
+      • Wife ▪ 02.08.14 • Mom▪Igor 18.03.17 | Nina 16.04.20 🌿Dekorator wnętrz, grafik, ilustrator anejas002@ gmail.com
     location: "Poland"
-    followers: 11629
-    engagement: 446
-    commentsToLikes: 0.309762
-    id: ck6tpi06xjzbj0j714slq41gq
+    followers: 23685
+    engagement: 278
+    commentsToLikes: 0.081140
+    id: ck8tdaq1c2l9a0j78idlsr7la
     verified: false
-    hashtags: "#crazymom, #wiejskieklimaty, #matkawariatka, #pieknakobieta"
+    hashtags: "#rzeczydladzieci, #stillife, #fallvibes, #kocykdladzieci"
 ---

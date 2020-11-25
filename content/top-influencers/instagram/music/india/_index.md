@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In India In 2020
 description: >-
-  Find top music Instagram influencers in India in 2020. Most popular hashtags: #throwback #nature #instagood #happynewyear.
+  Find top music Instagram influencers in India in 2020. Most popular hashtags: #instagood #bikelife #instapic #instamood.
 platform: Instagram
+hits: 2934
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 2934 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "aprilia_maniac"
+  - username: "swalih__sinu"
     fullname: >-
-      SidHarth A S
+      صلح 
+    bio: >-
+      #mallu Boy #food ball lover💞 #Njr uyr💋 #Soul love music🎼 #kl55/Qatar🇮🇳🇶🇦 #Adventure #Bike Rider #First cry on October 20 #Dream boy #Twenty
     location: "India"
-    followers: 4540
-    engagement: 2500
-    commentsToLikes: 0.299462
-    id: ck9whx132zv8s0j78644hu0g2
+    followers: 2871
+    engagement: 3954
+    commentsToLikes: 0.188094
+    id: ckf5vzlcbqeks0j2331o40n9s
     verified: false
-    hashtags: "#vishupic, #axor, #green, #greeny"
-  - username: "_vi_sh_nu_astrix____"
+    hashtags: "#duke, #ktm, #superbikers, #ktmindiaofficial"
+  - username: "thekylemeagher"
     fullname: >-
-      ☬ M2 | Vishnu Crz📍
+      Kyle Meagher
+    bio: >-
+      Musician • Actor • Anne with an E on Netflix • STREAM “Know Better’” now!
     location: "India"
-    followers: 5469
-    engagement: 3923
-    commentsToLikes: 0.260885
-    id: ckaougn2d06mh0i78jwbo2brp
-    verified: false
-    hashtags: ""
-  - username: "msbilal4498"
-    fullname: >-
-      Bilal Muhammed
-    location: "India"
-    followers: 19870
-    engagement: 1334
-    commentsToLikes: 0.181598
-    id: ck9wgnxtqu7et0j78nhspf54v
-    verified: false
-    hashtags: "#instagood, #keralaweddina, #twostrandtwist, #duke"
-  - username: "realkrsna"
-    fullname: >-
-      KR$NA
-    location: "India"
-    followers: 154545
-    engagement: 2679
-    commentsToLikes: 0.036010
-    id: ck0w1s6xpkvcm0i19korjl6a4
+    followers: 164516
+    engagement: 1188
+    commentsToLikes: 0.035283
+    id: ck13cfgh502s30i19hhgrs3em
     verified: true
-    hashtags: "#loveyouguys, #firmauthai, #struggle, #kuchdinaur"
-  - username: "prakharnarayandubey"
+    hashtags: "#concert, #acting, #music, #knowbetter"
+  - username: "334__d__k__ll"
     fullname: >-
-      Dr.Prakhar 🇮🇳
+      DHARMESH
+    bio: >-
+      Gj 26 ❤️ Music lover🎧 Wish me 4 November 👉 DON'T CONFUSE MY PERSONALITY 🤘 AND MY ATTITUDE😎 BECAUSE MY PERSONALITY IS ME AND MY ATTITUDE DEPEND ON YOU
     location: "India"
-    followers: 22931
-    engagement: 1234
-    commentsToLikes: 0.057836
-    id: ckap1zlypwqrc0i7871ff3g5o
+    followers: 8960
+    engagement: 2601
+    commentsToLikes: 0.065955
+    id: ck8t6h9ubdmnl0j78ng5sv35g
     verified: false
-    hashtags: "#lucknowblogger, #fitnessmodel, #blackandwhite, #memes"
-  - username: "vastavikmuhfaad"
-    fullname: >-
-      Muhfaad👑
-    location: "India"
-    followers: 101646
-    engagement: 1909
-    commentsToLikes: 0.034963
-    id: ck9wgufwsv1he0j78h4of3soa
-    verified: true
-    hashtags: "#stayhome, #staysafe, #kartavyamusic, #fixedmatch"
+    hashtags: "#mahesana, #ganeshnation, #shout, #portrait"
   - username: "nair_b_arjun"
     fullname: >-
       Arjun B Nair
+    bio: >-
+      Music Producer • Sound Engineer Amala Media House Calicut Chetana Sound Studios and Instructions Government Engineering College Thrissur
     location: "India"
-    followers: 2320
-    engagement: 2678
-    commentsToLikes: 0.101725
+    followers: 2575
+    engagement: 2596
+    commentsToLikes: 0.105872
     id: ck9wp1ca87ddg0j78ngdevvbl
     verified: false
-    hashtags: "#manoharam, #coversong, #meesapulimala, #instamood"
-  - username: "wolferqueen"
+    hashtags: "#insta, #instamusic, #soundengineer, #throwback"
+  - username: "lakshmi__l_u_x__"
     fullname: >-
-      😈 bmw gurl 😈
+      Lakshm❗️  Lux
+    bio: >-
+      😇😉😇 Dq 😍🥰😍 --------------------------------- 😀×music 😀×dance 😀×ride
     location: "India"
-    followers: 6922
-    engagement: 1686
-    commentsToLikes: 0.053722
-    id: ck9wiovuz39i40j783tnzz38p
+    followers: 17036
+    engagement: 1958
+    commentsToLikes: 0.058681
+    id: ck14j5h4yiq750i190rbrg3ll
     verified: false
-    hashtags: "#bmwmotorrad, #bmwadvriders, #bmwalpina, #motowolf"
-  - username: "_dream_boy_________"
+    hashtags: ""
+  - username: "zeus.arya"
     fullname: >-
-      S u j i t h✨
+      A living meme™
+    bio: >-
+      Jack of all trades🤪 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 YouTube↓
     location: "India"
-    followers: 2244
-    engagement: 2984
-    commentsToLikes: 0.120683
-    id: ck9whxvzezynp0j784zhb0zi1
+    followers: 3246
+    engagement: 2673
+    commentsToLikes: 0.094975
+    id: ck5hibemjcmsn0i110x8vkg0a
     verified: false
-    hashtags: "#happynewyear, #green, #inayat, #christmastree"
-  - username: "s___h___a___r___u"
+    hashtags: "#keepgoing, #dancersofinstagram, #immabeast, #zeusaryatravels"
+  - username: "mohammed_rizvan_mr"
     fullname: >-
-      شار🔘
+      // RIZVAN MR //
+    bio: >-
+      | Nature • Music • Travel • Fitness • Food| 6 ft 2🕴 Bengaluru❌Kottakkal Auto Enthusiast 🚦 🃏
     location: "India"
-    followers: 5304
-    engagement: 2105
-    commentsToLikes: 0.139025
-    id: ck9whsperzba50j78zp1hw94k
+    followers: 3081
+    engagement: 1903
+    commentsToLikes: 0.124660
+    id: ck6u14ey8jis10j71ztaj15dm
     verified: false
-    hashtags: "#instagood, #post, #malluvideos, #mallucomedy"
+    hashtags: "#aesthetic, #bangalorediaries, #vsco, #aestheticedits"
+  - username: "denniz.stuntz"
+    fullname: >-
+      dEnNiz_rtz
+    bio: >-
+      MTB STUNT RIDER🤙 19🤙🏻 ✌stroke lvr Music lvr🎶 Thalapathy fan🙏 CR7💟 @cj.freestyle.official @team_raptors_offical
+    location: "India"
+    followers: 2001
+    engagement: 3930
+    commentsToLikes: 0.120637
+    id: ck9wilhu82t6y0j78j6r66ie5
+    verified: false
+    hashtags: "#stuntporn, #stuntlife, #viral, #positivevibes"
+  - username: "_dhe_motopilot_"
+    fullname: >-
+      Leo Saji
+    bio: >-
+      🗼 V.I.P_ ACCOUNT🔝 🏠 ĶÖĹŁAM 🚔 ĶŁ _ 24 💪 ÁĆHAÝAŅ❤ ♻️ AŤTÎTÛĐÉ._.0% 🎂 ROÝÁŁ_ÉŇŤŘÝ_.26Âprîł 🎧 Müśîć lovêř 🚘 & 🏍 Fàñ
+    location: "India"
+    followers: 6284
+    engagement: 1003
+    commentsToLikes: 0.130416
+    id: ck9wia9b81eh70j78hx6u6s4c
+    verified: false
+    hashtags: "#ride, #bikestagram, #bikersofindia, #happiness"
+  - username: "__siaaah"
+    fullname: >-
+      SAFREENA NOORIN 🕊
+    bio: >-
+      Chillin with music & sky. Obsession>shoes and clothes 📩 safreenanoorin.saf@gmail.com 🇮🇳❤️🇳🇴,📍KERALA
+    location: "India"
+    followers: 38645
+    engagement: 851
+    commentsToLikes: 0.055764
+    id: ck8t7xn5fibtp0j782pp1gj5j
+    verified: false
+    hashtags: "#modestfashion, #red, #bloggerstyle, #denim"
 ---

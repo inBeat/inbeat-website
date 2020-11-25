@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Poland In 2020
 description: >-
-  Find top Instagram influencers in Poland in 2020. Most popular hashtags: #konkurs #rozdanie #spring #makeup.
+  Find top Instagram influencers in Poland in 2020. Most popular hashtags: #makeup #wakeupandmakeup #polishgirl #anastasiabeverlyhills.
 platform: Instagram
+hits: 7641
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 7641 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "angelika_rysz"
     fullname: >-
       Angelika
+    bio: >-
+      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
     location: "Poland"
-    followers: 3225
-    engagement: 2173
-    commentsToLikes: 0.306699
+    followers: 3646
+    engagement: 1525
+    commentsToLikes: 0.346529
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
+    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
   - username: "natalia.wlo"
     fullname: >-
       Natalia Włodarczyk | MAKEUP
+    bio: >-
+      💄 Make Up 📬 wlodarczyknata@gmail.com / DM
     location: "Poland"
-    followers: 2326
-    engagement: 6559
-    commentsToLikes: 0.455089
+    followers: 2028
+    engagement: 7526
+    commentsToLikes: 0.453836
     id: ck9h9qtsu9li70j782of8952z
     verified: false
-    hashtags: "#animals, #morphe, #spring, #giveaway"
-  - username: "jamiolek"
+    hashtags: "#makeuprevolution, #miyo, #anastasiabeverlyhills, #makeuplover"
+  - username: "dulcysiowe"
     fullname: >-
-      Izabela 🌸
+      | AGA |
+    bio: >-
+      Mama, żona i kobieta z wieloma pasjami 🖤 Insta to moje miejsce na wyrażenie siebie 📷 ⬇️ Contact/Collab ⬇️ 📧 agnieszkale1@gmail.com
     location: "Poland"
-    followers: 3193
-    engagement: 3602
-    commentsToLikes: 0.163532
-    id: ck9wetir2lrhd0j789q2nn4ky
+    followers: 2266
+    engagement: 3956
+    commentsToLikes: 0.270734
+    id: ck8t9xugdpqqf0j784o2ww3iy
     verified: false
-    hashtags: "#fitness, #flowers, #biobaza, #giveaway"
-  - username: "sarakdz"
+    hashtags: "#cozymood, #aesthethic, #myeverydaymagic, #polskakobieta"
+  - username: "patrycja_roll"
     fullname: >-
-      SARA KAT DZ.
+      𝓟𝓪𝓽𝓲  Ⓡ
+    bio: >-
+      📍 Ｗｒｏｃłａｗ 🇵🇱/ 🇮🇹/ 🇬🇧 ⚜️ 𝓁𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 ⚜️ 𝒶𝓃𝒾𝓂𝒶𝓁 𝓁𝑜𝓋𝑒𝓇 ⚜️ 𝑅𝓎𝓈𝒾𝑜’𝓈 𝓂𝑜𝓂 🐱 ⚜️ 💍 patrycjarola0@gmail.com 📩📥
     location: "Poland"
-    followers: 3531
-    engagement: 3485
-    commentsToLikes: 0.211287
-    id: ckaos17odpp3a0i78y9z8n4yb
+    followers: 2244
+    engagement: 3498
+    commentsToLikes: 0.120702
+    id: ckap4vhtz92dw0i78pidkhq9i
     verified: false
-    hashtags: "#nicoleglow, #kosmetykoholizm, #softglam, #norvinapalette"
-  - username: "gvbiik"
-    fullname: >-
-      Gabriela 💫
-    location: "Poland"
-    followers: 2855
-    engagement: 3409
-    commentsToLikes: 0.174650
-    id: ck8tcrpnh0f4j0j786b2j06w6
-    verified: false
-    hashtags: "#highlighter, #wygrajrozdanie, #giveaway, #toofaced"
-  - username: "agata_zyzak"
-    fullname: >-
-      Agata Zyzak
-    location: "Poland"
-    followers: 3537
-    engagement: 3189
-    commentsToLikes: 0.224777
-    id: ckaozq80lmxfi0i78tvh7m9yj
-    verified: false
-    hashtags: "#mylove, #peonies, #instawtorek, #happyme"
+    hashtags: "#poland, #winelovers, #koncowkalata, #polishsea"
   - username: "jewska.makeup"
     fullname: >-
       Jewska Makeup
+    bio: >-
+      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
     location: "Poland"
-    followers: 4096
-    engagement: 3129
-    commentsToLikes: 0.183269
+    followers: 3950
+    engagement: 3277
+    commentsToLikes: 0.219874
     id: ck5qdwruaxnx10i113sbecb9m
     verified: false
-    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
-  - username: "blue_eyes_make_up"
+    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
+  - username: "gvbiik"
     fullname: >-
-      MAKE UP Patrycja  Loranty
+      Gabriela 💫
+    bio: >-
+      💄self-taught and still learning 📩 gabriela424@o2.pl
     location: "Poland"
-    followers: 2578
-    engagement: 3102
-    commentsToLikes: 0.176940
-    id: ck8td6mds23qe0j784c0spscm
+    followers: 3270
+    engagement: 2894
+    commentsToLikes: 0.170808
+    id: ck8tcrpnh0f4j0j786b2j06w6
     verified: false
-    hashtags: "#bodypainter, #arielka, #closeupmagic, #fairytale"
+    hashtags: "#polishmakeup, #bperfectcarnivalpalette, #retrobykarolinazientek, #browgame"
+  - username: "dwojka_styczniowa"
+    fullname: >-
+      Magdalena
+    bio: >-
+      Spełniona Mama i Żona 😊 ❤ 28.01.2014 Stasiu 😍 💍24.12.2016💍 👣 👶 16.01.2018 Kornelka 😍 MĄŻ & ŻONA 💏😍 💒 28.09.2018 👰 09.2020🏡
+    location: "Poland"
+    followers: 2661
+    engagement: 2845
+    commentsToLikes: 0.120534
+    id: ck15qy5tq581s0i19yzey5mqs
+    verified: false
+    hashtags: "#tbt"
+  - username: "mil_ciia"
+    fullname: >-
+      Milena🦋
+    bio: >-
+      Mińsk Mazowiecki/Warszawa
+    location: "Poland"
+    followers: 2522
+    engagement: 2817
+    commentsToLikes: 0.160968
+    id: ck8td3luv1q650j78b9b3culz
+    verified: false
+    hashtags: "#szarewlosy, #outfit, #streetstyle, #makeuplover"
+  - username: "ewela_sien"
+    fullname: >-
+      Ewelina Sienkiewicz
+    bio: >-
+      🎤 Wokalistka 🎧 www.gesek.pl 🙋🏻‍♀️ 169 cm ✉️msu.sienkiewicz@gmail.com 🇵🇱warmińsko-mazurskie
+    location: "Poland"
+    followers: 6224
+    engagement: 2720
+    commentsToLikes: 0.089399
+    id: ck8t1gekbvo610j78khrufkn5
+    verified: false
+    hashtags: "#mirrorselfie, #nogi, #sunnyday, #shortdress"
   - username: "oleksy_patrycja_"
     fullname: >-
       Patrycja
+    bio: >-
+      In love with traveling ✈️ and fashion👠 @nizio1 💍
     location: "Poland"
-    followers: 2359
-    engagement: 3036
-    commentsToLikes: 0.279298
+    followers: 2608
+    engagement: 2656
+    commentsToLikes: 0.328281
     id: ckaozwm0hnqfu0i78rt8g4vi5
     verified: false
-    hashtags: "#springmood, #womenpower, #intablogger, #wiosna"
-  - username: "luv.goldvv"
-    fullname: >-
-      𝓦𝓲𝓴𝓽𝓸𝓻𝓲𝓪 𝓛𝓾𝓲𝔃𝓪
-    location: "Poland"
-    followers: 3568
-    engagement: 2973
-    commentsToLikes: 0.135235
-    id: ck8t3wipk4qwe0j78ybjyjv8f
-    verified: false
-    hashtags: "#coffeelover, #prezent, #missyou, #pretty"
+    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
 ---

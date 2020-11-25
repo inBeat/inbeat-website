@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Peru In 2020
 description: >-
-  Find top dancers TikTok influencers in Peru in 2020. Most popular hashtags: #dance #dancer #cuarentena #love.
+  Find top dancers TikTok influencers in Peru in 2020. Most popular hashtags: #dance #fyp #parati #viral.
 platform: TikTok
+hits: 19
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 19 TikTok influencers like this in Peru for you to work with.
 profiles:
+  - username: "jhonmcg1"
+    fullname: >-
+      🔥✨𝙅𝙝𝙤𝙣✨🔥
+    bio: >-
+      🔥🤘🔥😏 Meta: 10k followers 🔒 Dancer/kpoper🇰🇷/retos
+    location: "Peru"
+    followers: 8958
+    engagement: 620
+    commentsToLikes: 0.073638
+    id: ckbfbrng543q80j23tty46auu
+    verified: false
+    hashtags: "#kpoper, #parati, #newtrend, #uwu"
+  - username: "jhonfresh18"
+    fullname: >-
+      🔥 𝕵𝖍𝖔𝖓𝕱𝖗𝖊𝖘𝖍 🔥
+    bio: >-
+      JFlowFresh F*cking World IG: JhonFresh18 🔥👄🔥 emoji Dancer, Cree en ti Csm 😤
+    location: "Peru"
+    followers: 300000
+    engagement: 1082
+    commentsToLikes: 0.025076
+    id: ckcvjlrwix2ac0j2355e9m46s
+    verified: false
+    hashtags: "#slow, #slowmo, #fyp, #dance"
+  - username: "_offo"
+    fullname: >-
+      Offo
+    bio: >-
+      Amateur Dancer 🕺🏽🇵🇪 Meta: seguir bailando
+    location: "Peru"
+    followers: 29800
+    engagement: 740
+    commentsToLikes: 0.033981
+    id: ckcel2tiouqxi0j237n2tqmhy
+    verified: false
+    hashtags: "#parati, #peru, #mix, #fyp"
+  - username: "anghie.sanchez"
+    fullname: >-
+      Anghie Sanchez
+    bio: >-
+      Peruvian-Dancer-1999🔥❤️ Ig: @Anghie.s 21 años🥺 14/03🎂
+    location: "Peru"
+    followers: 35600
+    engagement: 1000
+    commentsToLikes: 0.022726
+    id: ckb9nxqvyhzfr0j236g2yim1s
+    verified: false
+    hashtags: "#trend, #loserschallenge, #peruanisima, #novios"
   - username: "miguellatorre8"
     fullname: >-
       Miguel La Torre
+    bio: >-
+      ATHLETE - MODEL - DANCER
     location: "Peru"
-    followers: 50932
-    engagement: 721
-    commentsToLikes: 0.023802
+    followers: 57500
+    engagement: 805
+    commentsToLikes: 0.026323
     id: ck9ev9pfghhk00j78z75lnwlm
     verified: false
-    hashtags: "#modelos, #lovegym, #latinos, #mascarillas"
-  - username: "brigite021_"
+    hashtags: "#man, #fit, #mood, #chiste"
+  - username: "carlospazobada"
     fullname: >-
-      ~bri~
+      Carlos Paz Obada
+    bio: >-
+      Bailarín profesional de salsa 🇵🇪 carlosandrespazobada@gmail MN:@ale.calderons
     location: "Peru"
-    followers: 2575
-    engagement: 1270
-    commentsToLikes: 0.024287
-    id: ck9dqv0dw1hko0j78zt2gwsa7
+    followers: 168300
+    engagement: 494
+    commentsToLikes: 0.020950
+    id: ckc8b78bh7oig0j233bhuypwv
     verified: false
-    hashtags: "#dancechallenge, #lypsing, #tiktok, #dancecover"
+    hashtags: "#latino, #professionaldancer, #tutoriales, #tipsdebaile"
+  - username: "ale.calderons"
+    fullname: >-
+      Alexandra Calderon Sussoni
+    bio: >-
+      Administradora🇵🇪 Bailarina Aficionada💛 🌐DM:@carlospazobada
+    location: "Peru"
+    followers: 46600
+    engagement: 485
+    commentsToLikes: 0.024160
+    id: ckc8v8u2bhzg70j23123shh9f
+    verified: false
+    hashtags: "#tipsdebaile, #ladiesstyle, #bachatadance, #dancers"
   - username: "laredsentiktok"
     fullname: >-
       Kathie Reds
+    bio: >-
+      Síganme en Instagram ☝🏼 @kathiereds
     location: "Peru"
     followers: 7702
     engagement: 337
     commentsToLikes: 0.034734
     id: ck9er9nk20t5n0j788hvq6qfd
     verified: false
-    hashtags: "#blanco, #casera, #losvilchez, #bitchboss"
+    hashtags: "#greenscreen, #britneychallenge, #peru, #viral"
   - username: "jorgevalcarcel"
     fullname: >-
       Jorge Valcarcel
+    bio: >-
+      Síganme en Instagram ⬆️⬆️IG ❤️😍
     location: "Peru"
     followers: 12929
     engagement: 779
     commentsToLikes: 0.014015
     id: cka6dlln48cy80i78mzg25wbe
     verified: false
-    hashtags: "#like, #dancevideo, #follow, #sexybody"
-  - username: "veronicaalvarez1509"
+    hashtags: "#viralvideo, #dancerlife, #worldofdance, #videochallenge"
+  - username: "burbujadedoramas"
     fullname: >-
-      Verónica Alvarez
+      Burbujadedoramas
+    bio: >-
+      Perú 💕💞 Instagram/Facebook: burbujadedoramas YouTube: Thalia Victorio Ramos
     location: "Peru"
-    followers: 14399
-    engagement: 340
-    commentsToLikes: 0.016430
-    id: ck9f2u0mbeq4b0j78byjcjsjb
+    followers: 155600
+    engagement: 1675
+    commentsToLikes: 0.021927
+    id: ckbffuaznaqtg0j23fkq8uzg8
     verified: false
-    hashtags: "#fuckcancer, #intheheights, #staystrong, #beyoncemodeon"
-  - username: "jhoanyvegas"
-    fullname: >-
-      JHOANYVEGASOFICIAL
-    location: "Peru"
-    followers: 26066
-    engagement: 509
-    commentsToLikes: 0.010915
-    id: ck9entlqikooq0j78hej11dew
-    verified: false
-    hashtags: "#dia10, #mamacita, #latinachallenge, #tendencias"
-  - username: "momasoslatinos"
-    fullname: >-
-      MomasosLatinos
-    location: "Peru"
-    followers: 15811
-    engagement: 1190
-    commentsToLikes: 0.059852
-    id: ckai3fd3zjn8e0i78mrtiaitz
-    verified: false
-    hashtags: "#baile, #fifa, #party, #kratos"
-  - username: "erick_gla16"
-    fullname: >-
-      Erick León
-    location: "Peru"
-    followers: 21838
-    engagement: 1574
-    commentsToLikes: 0.019487
-    id: ckagdg6kvgrsv0i78uvwgcrza
-    verified: false
-    hashtags: "#venezuela, #brothers, #graciasperu, #tendencia"
-  - username: "jhafetov"
-    fullname: >-
-      ‹ Jhafet ›
-    location: "Peru"
-    followers: 5106
-    engagement: 889
-    commentsToLikes: 0.036635
-    id: ck9ev9txlhino0j78j4lwl4z0
-    verified: false
-    hashtags: "#hipocryte, #takitaki, #peruanos, #mexico"
-  - username: "fashionindahat"
-    fullname: >-
-      Alemazzini
-    location: "Peru"
-    followers: 133752
-    engagement: 909
-    commentsToLikes: 0.017817
-    id: ck83zb3mrzbfn0j78tafbmdmf
-    verified: false
-    hashtags: "#hairstyle, #fashionblog, #photoshoot, #greenscreen"
+    hashtags: "#burbujadedoramas, #kdrama, #cdrama, #dorama"
 ---

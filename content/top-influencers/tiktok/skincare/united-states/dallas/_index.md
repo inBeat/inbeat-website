@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Dallas In 2020
 description: >-
-  Find top skincare TikTok influencers in Dallas in 2020. Most popular hashtags: #skincare #duet #skincareroutine #homeproject.
+  Find top skincare TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #skincare #dallas #foryou.
 platform: TikTok
+hits: 19
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 19 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "thecurlybeviie"
+  - username: "alyandjulia"
     fullname: >-
-      Auntie Bev
+      aly & julia
+    bio: >-
+      your fav besties miami spread positivity!⚡️🌸🧚‍♀️
     location: "United States"
-    followers: 67813
-    engagement: 1342
-    commentsToLikes: 0.009515
-    id: cka0sk1ivlusq0i78dfut0k6k
+    followers: 21800
+    engagement: 1338
+    commentsToLikes: 0.061649
+    id: ckbkn6jlmh68j0j238v1lb9pu
     verified: false
-    hashtags: "#glowup, #learnfromme, #bighair, #makeup"
-  - username: "7ven11ven_"
+    hashtags: "#fyp, #iamlost, #skatelife, #letsfaceit"
+  - username: "christianvibin"
     fullname: >-
-      JMain
+      Christian 🌊
+    bio: >-
+      ⚽️#5 16🌊 📍Dallas🏙
     location: "United States"
-    followers: 21667
-    engagement: 739
-    commentsToLikes: 0.026313
-    id: ck9v18bzpfzpm0j7825dqfovc
+    followers: 47800
+    engagement: 1472
+    commentsToLikes: 0.039987
+    id: ckbw7kj58yui90j238lzbyfd0
     verified: false
-    hashtags: "#toilet, #amaytoremember, #jeyengine, #motocross"
-  - username: "sincerelyshelby"
+    hashtags: "#meme, #fyp, #christianvibindoe, #foryou"
+  - username: "jordanblakelyw"
     fullname: >-
-      shelby
+       jordan
+    bio: >-
+      dallas, texas univ. of arkansas ‘24
     location: "United States"
-    followers: 328641
-    engagement: 1657
-    commentsToLikes: 0.004185
-    id: ck8rrba9gtrsw0j78lx84ijrl
+    followers: 68800
+    engagement: 2044
+    commentsToLikes: 0.014198
+    id: ck9k1uvvxhu8s0j78b8slawsn
     verified: false
-    hashtags: "#levelup, #decadesofhair, #strangernow, #alyaskin"
-  - username: "newmanparkerr"
+    hashtags: "#duet, #foryou, #happyhalloween, #wewintogether"
+  - username: "jeanineamapola"
     fullname: >-
-      newmanparkerr
+      JeanineAmapola
+    bio: >-
+      All glory to God 🙏🏼 LA & Dallas 📍 26 yrs old IG & YouTube - JeanineAmapola
     location: "United States"
-    followers: 11425
-    engagement: 361
-    commentsToLikes: 0.029983
-    id: ck9flm2eiom7c0j78ykktas1o
-    verified: false
-    hashtags: "#gucci, #closet, #foodie, #zoom"
-  - username: "jc.dombrowski"
-    fullname: >-
-      J.C. Dombrowski
-    location: "United States"
-    followers: 1996616
-    engagement: 2564
-    commentsToLikes: 0.018358
-    id: ck80obynrgodq0j786z4nwcq0
+    followers: 19700
+    engagement: 932
+    commentsToLikes: 0.024189
+    id: ck8070i3onn080j78jrgz5fh8
     verified: true
-    hashtags: "#homeproject, #lgbt, #history, #littlethings"
-  - username: "idewcare"
+    hashtags: "#fyp, #sing, #christian, #christiantiktok"
+  - username: "klaudiavnssa"
     fullname: >-
-      I Dew Care
+      VNSSA
+    bio: >-
+      IG: KLAUDIAVNSSA Dallas Texas🌵
     location: "United States"
-    followers: 335793
-    engagement: 2578
-    commentsToLikes: 0.018346
-    id: ck8hp39u4xu430j78n2c207u3
+    followers: 16500
+    engagement: 849
+    commentsToLikes: 0.010437
+    id: ckdsvhk8dq5fd0j23bnldoo7z
     verified: false
-    hashtags: "#asmr, #oddlysatisfying, #ultabeauty"
-  - username: "adaatude"
+    hashtags: "#foryoupage, #fivebelow, #idea, #cute"
+  - username: "sneikothediva"
     fullname: >-
-      Adaleta Avdić
+      Sneiko
+    bio: >-
+      The cool savy makeup lover , sneaker head ,discount diva YT &IG @ sneikothediva
     location: "United States"
-    followers: 393132
-    engagement: 1888
-    commentsToLikes: 0.049575
-    id: ck7zpa4o8oa160j78jtcdzt24
+    followers: 94600
+    engagement: 1154
+    commentsToLikes: 0.029857
+    id: ck9nidltugrin0j78sav3r8r5
     verified: false
-    hashtags: "#beautymode, #guacamole, #millennial, #raisingcanespartner"
-  - username: "kidskinusa"
+    hashtags: "#843, #freebies, #helping, #thatwitch"
+  - username: "andytarutran"
     fullname: >-
-      Kidskin
+      Andy Taru
+    bio: >-
+      I WILL TRY TO RESPOND TO COMMENTS UNLESS U UGLY JK BUT NOT JK JK HEHE NOT JK, JK
     location: "United States"
-    followers: 6951
-    engagement: 3321
-    commentsToLikes: 0.365664
-    id: ck933afl0n66k0j78usl1zbsj
+    followers: 2529
+    engagement: 668
+    commentsToLikes: 0.050416
+    id: ckc83pxrz45zm0j23mylhqf1h
     verified: false
-    hashtags: "#teenager, #teen, #familytime, #healthheroes"
-  - username: "buzzfeed"
+    hashtags: "#civic, #california, #supra, #houston"
+  - username: "frutalocadfw"
     fullname: >-
-      BuzzFeed
+      frutalocadfw
+    bio: >-
+      212 N. Main St Duncanville, TX 75116 3859 Irving Mall Irving, TX 75061
     location: "United States"
-    followers: 240351
-    engagement: 2715
-    commentsToLikes: 0.014145
-    id: ck8hrciav87cm0j780krzpoxt
-    verified: true
-    hashtags: "#spidermanfarfromhome, #doncheadle, #beautyhacks, #5secondsofsummer"
-  - username: "yayayayoung"
-    fullname: >-
-      yayayayoung
-    location: "United States"
-    followers: 372040
-    engagement: 2517
-    commentsToLikes: 0.012304
-    id: ck8tpysp8qotm0j78czv42zq0
+    followers: 36600
+    engagement: 1922
+    commentsToLikes: 0.006909
+    id: ckauzs5p15co90j23j8iz6cem
     verified: false
-    hashtags: "#edutokskincare, #timemanagement, #cleansing, #acne"
+    hashtags: "#irving, #chamoy, #dallas, #duncanville"
+  - username: "madeleine.taylor"
+    fullname: >-
+      madeleine taylor
+    bio: >-
+      18
+    location: "United States"
+    followers: 5921
+    engagement: 1014
+    commentsToLikes: 0.092778
+    id: ckbqgkhay1ygc0j234u1cwzsa
+    verified: false
+    hashtags: "#blacklivesmatter, #1312, #blm, #fyp"
+  - username: "brazilianbarbiejay"
+    fullname: >-
+      Jay🦋💞
+    bio: >-
+      IG: Brazilianbarbiej🦋 shop my brand👇🏾
+    location: "United States"
+    followers: 476900
+    engagement: 2078
+    commentsToLikes: 0.010497
+    id: ck8hmz90dokld0j78rq22wt7z
+    verified: false
+    hashtags: "#lash, #handmade, #asmr, #makeup"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Pole Dancers TikTok Influencers In United States In 2020
 description: >-
-  Find top pole dancers TikTok influencers in United States in 2020. Most popular hashtags: #covid19 #vibewithme #dance #sidehustle.
+  Find top pole dancers TikTok influencers in United States in 2020. Most popular hashtags: #fyp #poledancing #poledancer #polefitness.
 platform: TikTok
+hits: 67
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 67 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "roll.e_pol.e"
+  - username: "clairesclosetcosplay"
     fullname: >-
-      Veronica 🖤
+      👗 Claire's Closet 💖
+    bio: >-
+      💻Gamer/Weeb/Cosplayer👗 ❤Nonbianary Texan💙 ✨Duets Encouraged🌹 💃Pole Dancer🚥
     location: "United States"
-    followers: 13731
-    engagement: 838
-    commentsToLikes: 0.045742
-    id: ck83k39zx8z200j78szuai0jy
+    followers: 64400
+    engagement: 1971
+    commentsToLikes: 0.019043
+    id: ck83k39238yrv0j78d3cu0u8d
     verified: false
-    hashtags: "#oops, #momsoftiktok, #sleepwanted, #shookith"
+    hashtags: "#adora, #yennefer, #witcher, #funny"
   - username: "genieandjade"
     fullname: >-
       Kristen Marina
+    bio: >-
+      💚You’re a badass. Put it on display. 💚 I’m a pole dancer and str!pper ally 🥰
     location: "United States"
-    followers: 50212
-    engagement: 1535
-    commentsToLikes: 0.012095
+    followers: 52400
+    engagement: 1683
+    commentsToLikes: 0.018601
     id: ck83k2wgr8vpv0j78ffzbh302
     verified: false
-    hashtags: "#dancechallege, #vinyldecal, #poletrick, #genieinabottle"
+    hashtags: "#polelove, #polelife, #poledancer, #poledancing"
+  - username: "staycrayray"
+    fullname: >-
+      Rachel LaVoie
+    bio: >-
+      Engineer & pole dancer Coach for Women in STEM 🔬⚙️ IG staycrayray | Website👇🏻
+    location: "United States"
+    followers: 73100
+    engagement: 1210
+    commentsToLikes: 0.015446
+    id: ckck3hyxanftm0j23vnef3uys
+    verified: false
+    hashtags: "#careertiktok, #duet, #engineering, #womeninengineering"
   - username: "msaiko"
     fullname: >-
       msaiko
+    bio: >-
+      Miss A the Pole Dancer 💕 IG: @__msaiko 18+ Only ↘ Click Me ↙
     location: "United States"
-    followers: 5303
-    engagement: 1281
-    commentsToLikes: 0.016724
+    followers: 6859
+    engagement: 1275
+    commentsToLikes: 0.014440
     id: ck8z6k4l7me950j78lld3lmo1
     verified: false
-    hashtags: "#dosomething, #superman, #queen, #polespin"
+    hashtags: "#fyp, #polefitness, #react, #spinningpole"
   - username: "emilyelisepoledance"
     fullname: >-
       EMILY ELISE
+    bio: >-
+      More on the Gram 👆🏻 >> Professional Pole Dancer << D A N C E W E A R👇🏻
     location: "United States"
-    followers: 14108
-    engagement: 787
-    commentsToLikes: 0.041765
+    followers: 15100
+    engagement: 952
+    commentsToLikes: 0.052770
     id: ckamgxhwpdse70i78qbw3sdo3
     verified: false
-    hashtags: "#fitgirls, #covid19, #mncheck, #expticdance"
-  - username: "prettygingie"
+    hashtags: "#heelsdance, #mpls, #minnesota, #polefitness"
+  - username: "madisonpoledance"
     fullname: >-
-      Pretty Gingie
+      Madison Pole Dance
+    bio: >-
+      Pole Dancer💃🏻✨ Instagram: @prettygingiepole 🥰❤️
     location: "United States"
-    followers: 36418
-    engagement: 870
-    commentsToLikes: 0.004721
+    followers: 83800
+    engagement: 1478
+    commentsToLikes: 0.006243
     id: ck83k31948wuo0j78ihaum5nj
     verified: false
-    hashtags: "#exotic, #choreo, #rockwitit, #collection"
+    hashtags: "#foryoupage, #poledancer, #poledancing, #cat"
+  - username: "polemermaid"
+    fullname: >-
+      🔞 Pole Mermaid
+    bio: >-
+      Pole dancer ✨ 18+ account🔞 Women empowerment 🔥 Snapchat in link 📸 🖤🖤🖤🖤
+    location: "United States"
+    followers: 85500
+    engagement: 1076
+    commentsToLikes: 0.014377
+    id: ck8neqjkcogfn0j7865zk3t8o
+    verified: false
+    hashtags: "#floorwork, #meleaving, #fyp, #halloweenishere"
+  - username: "ariannamaay"
+    fullname: >-
+      AriannaMaay
+    bio: >-
+      Hi I’m ari👽❤️🌴 22 yrs Gemini Florida Baby, I like to mud Pole dancer
+    location: "United States"
+    followers: 17500
+    engagement: 898
+    commentsToLikes: 0.012243
+    id: ckd6gwgio99570j233dmv00sm
+    verified: false
+    hashtags: "#red, #duet, #justaslongasyoutwerkforme, #highexpectations"
+  - username: "novacaine_official"
+    fullname: >-
+      Nova
+    bio: >-
+      5”5’ by day; 6’1” by night. Aerialist/Pole Dancer. Ig: Novacaine_official
+    location: "United States"
+    followers: 5560
+    engagement: 594
+    commentsToLikes: 0.015787
+    id: ckbqq6mtgb00d0j23ih964jw6
+    verified: false
+    hashtags: "#poledancing, #aerialist, #polefitness, #stopstrippershaming"
   - username: "frenchfrylady"
     fullname: >-
       Alyssa
+    bio: >-
+      🖤⚡️CT•MUA•HAIRSTYLIST•POLEDANCER⚡️🖤
     location: "United States"
-    followers: 4979
-    engagement: 911
-    commentsToLikes: 0.010359
+    followers: 5545
+    engagement: 824
+    commentsToLikes: 0.009017
     id: ck83k3flz90iw0j78hqgvg91m
     verified: false
-    hashtags: "#ontherunway, #dance, #bringitback, #layback"
-  - username: "madelineshakespeare"
-    fullname: >-
-      👑Jessie Leigh👑
-    location: "United States"
-    followers: 11966
-    engagement: 433
-    commentsToLikes: 0.023389
-    id: ck9gpq96f65qd0j78ts9o8vj6
-    verified: false
-    hashtags: "#quarantinelife, #walmartfail, #makebakeshake, #houseparty"
-  - username: "takeilafox"
-    fullname: >-
-      Takeila Fox
-    location: "United States"
-    followers: 7361
-    engagement: 1058
-    commentsToLikes: 0.072506
-    id: cka0n281sxunr0i78bjpsd7qt
-    verified: false
-    hashtags: "#fitnessfreaks, #eatemup, #duetthiswithme, #juneteenth"
-  - username: "rissa.lew1z"
-    fullname: >-
-      Riss ☺️🙃
-    location: "United States"
-    followers: 5464
-    engagement: 1843
-    commentsToLikes: 0.024285
-    id: ckae0wc9mlt1h0i78akp50lmm
-    verified: false
-    hashtags: "#burlesque, #queer, #vamp, #millesbian"
-  - username: "shortykell"
-    fullname: >-
-      Kelly Ellsworth
-    location: "United States"
-    followers: 23356
-    engagement: 1139
-    commentsToLikes: 0.006059
-    id: ck83k39oa8yxu0j78kaxh2scf
-    verified: false
-    hashtags: "#dancerpole, #full180, #duet, #funfacts"
+    hashtags: "#fyp, #frostedfeelings, #pole, #foryoupage"
 ---

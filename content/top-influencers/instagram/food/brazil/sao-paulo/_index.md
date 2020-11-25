@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top food Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #food #live #summer #love.
+  Find top food Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #love #look #moda.
 platform: Instagram
+hits: 83
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 83 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
-  - username: "chewie.vix"
+  - username: "priscilastuckynacozinha"
     fullname: >-
-      🦊 Chewbacca 🦊
+      Priscila Stucky
+    bio: >-
+      👩‍🍳Receitas de Chef para Todos 📸Food Stylist 🥗Inspirações Gastronômicas Produção de Conteúdo Curso de Food Styling São Paulo - Brasil
     location: "Brazil"
-    followers: 12073
-    engagement: 947
-    commentsToLikes: 0.074711
-    id: ck9wcz9cedbna0j78ryz5djpf
+    followers: 75118
+    engagement: 29
+    commentsToLikes: 0.182250
+    id: ckf5ovz1m40710j23wo0zyb5f
     verified: false
-    hashtags: "#amizade, #starwarsbr, #capixabadagema, #food"
+    hashtags: "#fotodecomida, #rap10resolvebonito, #foodstyling, #foodstylist"
+  - username: "o_denao"
+    fullname: >-
+      DΞNIS ΔNGΞLᎾ
+    bio: >-
+      🏁 | @approvcar ⚓️ | @larocclub | @ame.club 🧢 | @madrugaosuplementos 15% off 🏷DENAO 🎗 | #Jesus #Aesthetics
+    location: "Brazil"
+    followers: 36515
+    engagement: 104
+    commentsToLikes: 0.115789
+    id: ck8tdrew04i360j78jdt7g1w9
+    verified: false
+    hashtags: "#sc, #balneario, #summer, #amor"
   - username: "dutokushima"
     fullname: >-
       Eduardo Tokushima
+    bio: >-
+      Food specialist no @tastydemais @buzzfeedbrasil São Paulo, Brasil
     location: "Brazil"
-    followers: 2497
-    engagement: 1017
-    commentsToLikes: 0.074982
+    followers: 2846
+    engagement: 984
+    commentsToLikes: 0.075199
     id: ck5c8lkhf9qsq0i119d55jkpu
     verified: false
-    hashtags: "#dontrushchallenge, #taurusseason, #carnaval2020, #yuuki40"
-  - username: "rrbarcellos"
+    hashtags: ""
+  - username: "vivaanos8090"
     fullname: >-
-      Roberto Barcellos
+      @vivaanos8090 📺🎵🎼
+    bio: >-
+      @vivaanos8090 📺🎵🎼 REVIVA CONOSCO OS ANOS 80 E 90 🤗 #blog #frases #anos80 #fe #retro #musica #fotografia #nostalgia #love #followme #instagram
     location: "Brazil"
-    followers: 88261
-    engagement: 105
-    commentsToLikes: 0.027398
-    id: ck0u1znszycph0i19stfp4fmc
+    followers: 106502
+    engagement: 187
+    commentsToLikes: 0.064751
+    id: ck8t35ew91xtc0j787l7b3upk
     verified: false
-    hashtags: "#fire, #tomahawk, #livefuegos, #confrariadacarne"
-  - username: "roemifotografia"
+    hashtags: "#beleza, #blog, #sport, #flashback"
+  - username: "gabrielabarivieira"
     fullname: >-
-      Do simples ao conceitual.
+      Gabriela Barivieira
+    bio: >-
+      Aqui só existe o bem 🙌🏻💕 • Fashion | Beauty | Lifestyle | Travel • Assessora: Leticia +55 51 9100-2209 Porto Alegre, RS. #gabrielabarivieira
     location: "Brazil"
-    followers: 16691
-    engagement: 366
-    commentsToLikes: 0.303921
-    id: ck15tantrh5pd0i19nb2nv3wi
+    followers: 124043
+    engagement: 129
+    commentsToLikes: 0.038771
+    id: ck0u6nymj2lkl0i19ad5ir9mg
     verified: false
-    hashtags: "#amora, #fotoblog, #inspiration, #blackendwhite"
-  - username: "isapinheiro_sp"
+    hashtags: "#moda, #photo, #details, #love"
+  - username: "brunomarquesofc"
     fullname: >-
-      Isabelle Pinheiro
+      𝐁𝐫𝐮𝐧𝐨 𝐌𝐚𝐫𝐪𝐮𝐞𝐬
+    bio: >-
+      𝙼𝚊́ 𝙸𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛 | 𝙳𝚒𝚌𝚊𝚜 𝚙𝚊𝚛𝚊 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝙻𝚒𝚏𝚎𝚂𝚝𝚢𝚕𝚎 | 𝙳𝚒𝚌𝚊𝚜 𝚍𝚎 𝚖𝚘𝚍𝚊 𝙲𝚞𝚒𝚊𝚋𝚊́ 𝙼𝚃📍 𝙲𝚘𝚗𝚝𝚊𝚝𝚘 𝚋𝚛𝚞𝚗𝚘𝚌𝚋𝚊𝟷𝟻@𝚑𝚘𝚝𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
     location: "Brazil"
-    followers: 14540
-    engagement: 512
-    commentsToLikes: 0.219091
-    id: ck1383wwvedp00i19lx0cf94g
+    followers: 21921
+    engagement: 281
+    commentsToLikes: 0.072842
+    id: ckf5ot4qx3q4d0j23plhtqsx7
     verified: false
-    hashtags: "#segundafeira, #mundomiss, #tiktokbrasil, #lifestylemodel"
-  - username: "rybaremily_"
+    hashtags: "#summer, #swag, #igers, #instalike"
+  - username: "anabelleassato"
     fullname: >-
-      Emily Rybar
+      Anabelle Assato
+    bio: >-
+      aprendendo e ensinando sobre: maquiagem | cabelo | dicas 💖 •📍Limeira - gemini •dream without limits....💫
     location: "Brazil"
-    followers: 70948
-    engagement: 111
-    commentsToLikes: 0.063798
-    id: ck6tl1jcc5st30j71s9g2rfbh
+    followers: 19025
+    engagement: 1428
+    commentsToLikes: 0.355750
+    id: ck8swxp2rfl1s0j783ve2f1zw
     verified: false
-    hashtags: "#bolo, #instafood, #captureyourbest, #love"
-  - username: "paulaamorimbarbosa"
+    hashtags: "#makeuplover, #model, #challenger, #exploremore"
+  - username: "myketakashi"
     fullname: >-
-      Paula Carolina
+      Myke Takashi
+    bio: >-
+      ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
     location: "Brazil"
-    followers: 3135215
-    engagement: 219
-    commentsToLikes: 0.018073
-    id: ck0tu2ihs5ck40i19tmahmqx0
-    verified: true
-    hashtags: "#night, #comidaboa, #bday, #dostorieprofeed"
-  - username: "nicolifalanque"
-    fullname: >-
-      Nicoli Falanque
-    location: "Brazil"
-    followers: 319734
-    engagement: 254
-    commentsToLikes: 0.021433
-    id: ck8t7rc83hqfm0j78zqbuzdk2
+    followers: 13256
+    engagement: 982
+    commentsToLikes: 0.064936
+    id: ckap1g78xugko0i78k3czew7o
     verified: false
-    hashtags: "#happy, #gata, #divertido, #masamorofficial"
-  - username: "tathipiancastelli"
+    hashtags: "#lagoaazul, #tbt, #blackouttuesday"
+  - username: "laribbotelho"
     fullname: >-
-      Tathi Piancastelli
+      Larissa Brandão Botelho
+    bio: >-
+      23 | São Paulo - SP 📍 Lifestyle • Palmeiras • Food • Tech • Beauty Electrical Engineer ⚡️| @verdonnas adm
     location: "Brazil"
-    followers: 24591
-    engagement: 162
-    commentsToLikes: 0.118685
-    id: ckaos9vs6qrnc0i78xaqwkxb1
+    followers: 2178
+    engagement: 1210
+    commentsToLikes: 0.280575
+    id: ck8t26ww8yd620j780em7wfjm
     verified: false
-    hashtags: "#pregui, #primevideo, #globoplay, #cookiefit"
-  - username: "fernando.teixeira_"
+    hashtags: "#tbt, #omomicelarinsiders, #omomicelar, #theinsidersbrasil"
+  - username: "luizalacerda"
     fullname: >-
-      Fernando Teixeira
+      Luiza Lacerda
+    bio: >-
+      São Paulo 📍 Fashion | Dicas | Photos | Food ✨ 📧 contatoluizalacerda@hotmail.com
     location: "Brazil"
-    followers: 10571
-    engagement: 812
-    commentsToLikes: 0.028927
-    id: ck9weuw4oly870j78niapvq60
+    followers: 22989
+    engagement: 228
+    commentsToLikes: 0.053649
+    id: ck15ub3fkmaze0i19y23h224j
     verified: false
-    hashtags: "#boystyle, #look, #followme, #food"
+    hashtags: "#arrasteparaolado"
 ---

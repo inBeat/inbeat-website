@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top cosmetics Instagram influencers in United Kingdom in 2020. Most popular hashtags: #foundation #redlips #mumlife #cosmetics.
+  Find top cosmetics Instagram influencers in United Kingdom in 2020. Most popular hashtags: #creativemakeup #neonmakeup #editorialmakeup.
 platform: Instagram
+hits: 426
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 426 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "jvanityxo"
+  - username: "muberry_"
     fullname: >-
-      MAKEUP LOOKS 👇🏾
+      Alex
+    bio: >-
+      Hi, I'm Alex 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇵🇱 23 but feeling like 80 💌 for buisness/ PR enquiries alext66@hotmail.co.uk code "Muberry" for 10% off Unicorn Cosmetics
     location: "United Kingdom"
-    followers: 3512
-    engagement: 2366
-    commentsToLikes: 0.600964
-    id: ck6tjuuv53guv0j71f1w5fsud
+    followers: 4765
+    engagement: 2721
+    commentsToLikes: 0.479030
+    id: ck6u2tu78tvc20j71ph5035xx
     verified: false
-    hashtags: "#cleargloss, #abhxjackieaina, #primer, #artistcouture"
-  - username: "connorthomsonmckay"
+    hashtags: "#unleashyourinnerartist, #abhjunkies, #cutcreasemakeup, #colourpopcosmetics"
+  - username: "jaimecoburn"
     fullname: >-
-      𝐂𝐨𝐧𝐧𝐨𝐫 𝐓𝐡𝐨𝐦𝐬𝐨𝐧 𝐌𝐜𝐊𝐚𝐲
+      Jaime Coburn
+    bio: >-
+      Chameleon Soul. @burn.cosmetics coming soon 👀 Enquires: contact.jaimecoburn@gmail.com
     location: "United Kingdom"
-    followers: 3522
-    engagement: 2780
-    commentsToLikes: 0.105982
-    id: ckapa7oarv1wp0i78t8pjna6v
+    followers: 21846
+    engagement: 1095
+    commentsToLikes: 0.060832
+    id: ck5zzlasnby6j0i14pvq9yvja
     verified: false
-    hashtags: "#timetocare, #thebodyshop, #thebodyshopuk"
-  - username: "manpreetbambra"
+    hashtags: "#robot, #skull, #mehronhun, #skullmakeup"
+  - username: "shannonharrisonmakeup"
     fullname: >-
-      Manpreet Bambra (Manny) 🧿
+      shannon harrison
+    bio: >-
+      Senior artist at Plouise Makeup Academy. code LILSHAN10 to save money on plouise fashion, cosmetics and courses 🦋
     location: "United Kingdom"
-    followers: 98138
-    engagement: 701
-    commentsToLikes: 0.008273
-    id: ck8t3b9jd2m5g0j78ial6xuxl
+    followers: 41816
+    engagement: 253
+    commentsToLikes: 0.055605
+    id: ck13bpmmbwka50i19u3mlffs2
     verified: false
-    hashtags: "#sunset, #wegotthis, #keephealthy, #redlips"
-  - username: "sophiamakeupartist"
-    fullname: >-
-      BRIDAL HAIR/MAKEUP ARTIST
-    location: "United Kingdom"
-    followers: 94722
-    engagement: 187
-    commentsToLikes: 0.039632
-    id: ck5zq5llitza60i14dyps20z6
-    verified: false
-    hashtags: "#memyselfandeyeko, #skincare, #mehndinight, #eyeko"
-  - username: "nora1352"
-    fullname: >-
-      Nora Bo Awadh NB
-    location: "United Kingdom"
-    followers: 3141279
-    engagement: 74
-    commentsToLikes: 0.071817
-    id: ck0u1vh3ey4vv0i19txo3t3uw
-    verified: true
-    hashtags: "#my"
-  - username: "rocktheestyle"
-    fullname: >-
-      Dr. Tina
-    location: "United Kingdom"
-    followers: 32396
-    engagement: 266
-    commentsToLikes: 0.106017
-    id: ck6tmm2ng83bc0j71fik9ifci
-    verified: false
-    hashtags: "#italiandays, #london, #fringe, #rocktheestyle"
+    hashtags: ""
   - username: "jodieannstark"
     fullname: >-
       Jodie Stark
+    bio: >-
+      Tattooer|Wife|Mama Baba No2 Dec🤰 Owner- @studiotwo23 Portfolio-@jodiestarktattoo Home life-@housestarkhome Cosmetics business leader - @cloudofluxe
     location: "United Kingdom"
-    followers: 149572
-    engagement: 315
-    commentsToLikes: 0.014996
+    followers: 163320
+    engagement: 423
+    commentsToLikes: 0.027833
     id: ck5ckomg9xb2g0i113tfewhrh
     verified: false
-    hashtags: "#6monthsold, #postpartum, #straightthroughcrew, #dontrushchallenge"
+    hashtags: "#2under2, #pregnancy, #newnursery, #mumlife"
   - username: "amyrosewalker"
     fullname: >-
       𝒜𝓂𝓎𝓇𝑜𝓈𝑒 ♡
+    bio: >-
+      ❥ Brighton, UK Beauty, Fashion & Lifestyle 🍂 Businesses: xxamyrose@gmail.com ✉ YouTube: 495K 🤍 @amyrosehome 🤍 @amyrose.cosmetics WATCH NOW ⇩🤍
     location: "United Kingdom"
-    followers: 53148
-    engagement: 255
-    commentsToLikes: 0.019459
+    followers: 57832
+    engagement: 358
+    commentsToLikes: 0.046813
     id: ck13a0yveo2uv0i197q5tta64
     verified: false
-    hashtags: "#gifted, #imwearingri, #amyroselashes"
-  - username: "dr.mclean"
+    hashtags: "#blackfriday, #ad, #giveaway"
+  - username: "niesia25"
     fullname: >-
-      Dr Andy McLean
+      Agnieszka
+    bio: >-
+      Youtuber 🎥 vlogger 📷 influencer 💻 Niesia25 190k 🎬 Eco cosmetic lover 🌱💄 Mama of James 🧒🏼 🎮 and Alek 👦🏼 ⚽️ Wife to Gavin👨🏻 Nieesia25@yahoo.co.uk 💌
     location: "United Kingdom"
-    followers: 40640
-    engagement: 174
-    commentsToLikes: 0.058661
-    id: ck14hl25qauq00i19ldrsdu5t
+    followers: 90243
+    engagement: 203
+    commentsToLikes: 0.044187
+    id: ck13d2s903dut0i19sw7gga0s
+    verified: false
+    hashtags: "#nieesia25, #spf, #niesia25, #projektdenko"
+  - username: "connorthomsonmckay"
+    fullname: >-
+      𝐂𝐨𝐧𝐧𝐨𝐫 𝐓𝐡𝐨𝐦𝐬𝐨𝐧 𝐌𝐜𝐊𝐚𝐲
+    bio: >-
+      MENSWEAR | COSMETICS | FITNESS | TRAVEL Scottish boy based in Bath ConnorThomsonMcKay@gmail.com
+    location: "United Kingdom"
+    followers: 4617
+    engagement: 1600
+    commentsToLikes: 0.075975
+    id: ckapa7oarv1wp0i78t8pjna6v
     verified: false
     hashtags: ""
-  - username: "chenadelaroy"
+  - username: "kingarusin"
     fullname: >-
-      ChenadeLaroy
+      Kinga Rusin- Official Profile
+    bio: >-
+      TV HOST, the owner of eco cosmetic brand Pat&Rub💚 (est. 2008) shop: www.patandrub.eu kontakt: kingarusin.pr@gmail.com
     location: "United Kingdom"
-    followers: 58598
-    engagement: 134
-    commentsToLikes: 0.123030
-    id: ck5hhdmlo7olo0i115tj9hnag
+    followers: 524983
+    engagement: 309
+    commentsToLikes: 0.016580
+    id: ck6tund1uhauv0j71pvhb1uiu
+    verified: true
+    hashtags: "#ponad, #nowa, #prawakobiet, #nieskladamyparasolek"
+  - username: "nora1352"
+    fullname: >-
+      Nora Bo Awadh NB
+    bio: >-
+      السعوديه🇸🇦🌴 Snapchat 👻: nora1352 +966 59 151 1550 00966533591301 @nora_cosmetic_#نوره_بوعوض
+    location: "United Kingdom"
+    followers: 3187787
+    engagement: 61
+    commentsToLikes: 0.070744
+    id: ck0u1vh3ey4vv0i19txo3t3uw
+    verified: true
+    hashtags: ""
+  - username: "rocktheestyle"
+    fullname: >-
+      Dr. Tina
+    bio: >-
+      ➰ Cosmetic Dentist 〰️ Creating fashion trends in dentistry ➰ Founder & Creative Director of @baline 📍 LONDON
+    location: "United Kingdom"
+    followers: 31424
+    engagement: 289
+    commentsToLikes: 0.105386
+    id: ck6tmm2ng83bc0j71fik9ifci
     verified: false
-    hashtags: "#curls, #hairoftheday, #blacklove, #cachos"
+    hashtags: "#kinraden, #kinradenjewelry, #sustainablity, #tb"
 ---

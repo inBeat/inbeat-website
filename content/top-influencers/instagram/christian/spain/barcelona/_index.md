@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top christian Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #deadpool #equipo #dembow.
+  Find top christian Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #instagood #ig #love.
 platform: Instagram
+hits: 12
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 12 Instagram influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
-  - username: "carlosfabra.cosafina"
+  - username: "chsantamaria"
     fullname: >-
-      Carlos Fabra | CosaFina Tattoo
+      Christian Santamaria
+    bio: >-
+      From Barcelona. Represented by Viewmanagement New Madison - Select - Spin - D'Man - NYModels
     location: "Spain"
-    followers: 245278
-    engagement: 298
-    commentsToLikes: 0.042149
-    id: ck0w432vqwkbb0i19uigow0yj
+    followers: 12267
+    engagement: 457
+    commentsToLikes: 0.076098
+    id: ck8sws4vjf1rm0j7804u1npdg
     verified: false
-    hashtags: "#venom, #human, #birras, #arte"
+    hashtags: "#elleman, #blackandwhite, #underwear, #lifeguard"
   - username: "brianbarber_"
     fullname: >-
       βrιαη Pεrεz Qυιrσs ✪
+    bio: >-
+      •Barber in @christian_maez •from BCN/MADRID 🇪🇸 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2018🏆
     location: "Spain"
     followers: 21460
     engagement: 296
     commentsToLikes: 0.023191
     id: ck6ubn6jqakew0j71x4ffqen3
     verified: false
-    hashtags: "#challenge, #barbertattoo, #happy, #party"
-  - username: "havanadprimera"
+    hashtags: "#freestyle, #wahlspain, #showcasebarbers, #ink"
+  - username: "oscarmarquezxl1"
     fullname: >-
-      Havana D' Primera
+      Oscar marquez
+    bio: >-
+      👔Andrew Christian brand ambassador
     location: "Spain"
-    followers: 66255
-    engagement: 244
-    commentsToLikes: 0.023397
-    id: ck0ud6uovifsb0i19d4okz1p9
+    followers: 18884
+    engagement: 497
+    commentsToLikes: 0.034669
+    id: ck5q9ki88bkcy0i116azz97c9
     verified: false
-    hashtags: "#linkinbio, #giraeuropa2020, #concierto, #barcelona"
-  - username: "ink.yeik"
-    fullname: >-
-      CRISTIAN CARRIÓN
-    location: "Spain"
-    followers: 42197
-    engagement: 930
-    commentsToLikes: 0.022320
-    id: ck6tm9evo7f4m0j712epmql27
-    verified: false
-    hashtags: "#kingdomhearts, #natutotattoo, #kimetsunoyaiba, #dragonball"
-  - username: "cristianvilax"
-    fullname: >-
-      CRISTIAN VILA
-    location: "Spain"
-    followers: 4624
-    engagement: 1047
-    commentsToLikes: 0.128336
-    id: ck6traosaxw8z0j7137imlpk8
-    verified: false
-    hashtags: "#photographer, #bcn, #visualsoflife, #portraitsvision"
-  - username: "_cristianvalen"
-    fullname: >-
-      Cristian Valencia
-    location: "Spain"
-    followers: 3663
-    engagement: 617
-    commentsToLikes: 0.054837
-    id: ck135rnw02vvg0i19go9hoq01
-    verified: false
-    hashtags: "#joaquinphoenix, #viuartsdestiu, #cristinaprunell, #letsgotothebeach"
+    hashtags: "#gayasian, #pridemonth, #gaybulge, #gayspain"
   - username: "topfoodbcn"
     fullname: >-
       Top food BCN ⭐️ Foodie
+    bio: >-
+      🙋🏻‍♂️ Soy Cristian | Periodista & foodie 📍Barcelona y alrd. 📩colaboraciones.topfoodbcn@gmail.com 👇🏻Tentando tu paladar con mis visitas gastronómicas
     location: "Spain"
-    followers: 19846
-    engagement: 516
-    commentsToLikes: 0.810399
+    followers: 23473
+    engagement: 386
+    commentsToLikes: 0.643175
     id: ck6u9bwxqwniy0j7192wjxcry
     verified: false
-    hashtags: "#recetas, #fruta, #instafood, #furikake"
-  - username: "cerverixx"
+    hashtags: "#foodphotography, #cheese, #chocolate, #giveaway"
+  - username: "cristianvilax"
     fullname: >-
-      CRISTIAN CERVERA
+      CRISTIAN VILA
+    bio: >-
+      Barcelona 🌐. @getcrazywear founder.
     location: "Spain"
-    followers: 2427
-    engagement: 1604
-    commentsToLikes: 0.072154
-    id: ck5hdj5sjnpbw0i11lyiyiqqi
+    followers: 3790
+    engagement: 1410
+    commentsToLikes: 0.098777
+    id: ck6traosaxw8z0j7137imlpk8
     verified: false
-    hashtags: "#ride4fun, #vigo"
+    hashtags: "#unitedraw, #ig, #catalunyahype, #canon"
+  - username: "_cristianvalen"
+    fullname: >-
+      Cristian Valencia
+    bio: >-
+      Actor | Productor La Gran ofensa Blue Rai El cadáver de Anna Fritz Barcelona Nit d'hivern Barcelona Nit d'estiu
+    location: "Spain"
+    followers: 3704
+    engagement: 630
+    commentsToLikes: 0.062422
+    id: ck135rnw02vvg0i19go9hoq01
+    verified: false
+    hashtags: "#superinlove, #alexmurrull, #lagranofensa, #unk"
+  - username: "cristian.valls"
+    fullname: >-
+      Cristian Valls
+    bio: >-
+      Viajero naturalista y desarrollador web especializado en ayudar a empresas relacionadas con la naturaleza 🌱 📍 Barcelona
+    location: "Spain"
+    followers: 9440
+    engagement: 629
+    commentsToLikes: 0.030192
+    id: ckapcpuon4pzs0i78yaq6270m
+    verified: false
+    hashtags: "#animales, #macro, #fotografianaturaleza, #turismecatalunya"
   - username: "khryys"
     fullname: >-
       Cristian Giraldo
+    bio: >-
+      🕺Choreographer | Dancer | teacher 📍 Barcelona | Madrid 📩 csn_8@hotmail.com
     location: "Spain"
     followers: 3892
     engagement: 1489
     commentsToLikes: 0.105568
     id: ck5znagzco31k0i14oiu9q48n
     verified: false
-    hashtags: "#bailaronline, #sevennationarmy, #dancechallenge, #djyayo"
-  - username: "nubo_one"
+    hashtags: "#bestdancevideo, #tvemosartista, #majordancers, #reggaetondance"
+  - username: "cerverixx"
     fullname: >-
-      SOFIAN OFFICIAL
+      CRISTIAN CERVERA
+    bio: >-
+      @fillencrew @vulturefam BARCELONA
     location: "Spain"
-    followers: 9454
-    engagement: 404
-    commentsToLikes: 0.061467
-    id: ck600lrxidtxt0i14sfraf5px
+    followers: 2337
+    engagement: 1674
+    commentsToLikes: 0.071998
+    id: ck5hdj5sjnpbw0i11lyiyiqqi
     verified: false
-    hashtags: "#sofiane, #reyes, #hardcore, #vida"
+    hashtags: "#scootering, #fillencrew, #scootscootbangbang, #ride4fun"
+  - username: "akka.flacco"
+    fullname: >-
+      Cristian Delgado
+    bio: >-
+      @homeboy.official @zooyork_europe @etniesskateboarding @diy.dist 💫🌿
+    location: "Spain"
+    followers: 8570
+    engagement: 764
+    commentsToLikes: 0.047549
+    id: ck5hsoadfwx9i0i119ete5hy8
+    verified: false
+    hashtags: "#skateboardingisfun, #homeboy, #skatelife, #skateboarding"
 ---

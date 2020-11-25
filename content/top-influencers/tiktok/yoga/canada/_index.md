@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Canada In 2020
 description: >-
-  Find top yoga TikTok influencers in Canada in 2020. Most popular hashtags: #love #canadian #motivation #coffee.
+  Find top yoga TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #yogaflow #foryoupage #yoga.
 platform: TikTok
+hits: 121
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 121 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "lumira_"
+  - username: "lynnettemermaid"
     fullname: >-
-      - Lumirä -
+      Lynnette Mermaid
+    bio: >-
+      Mindfulness / yoga/ fitness/Poet/writer Follow my Instagram @lynettemermaide
     location: "Canada"
-    followers: 127757
-    engagement: 1643
-    commentsToLikes: 0.091042
-    id: ck8kg0dltgco90j78wny8fczu
+    followers: 2126
+    engagement: 413
+    commentsToLikes: 0.078295
+    id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#anxiety, #amazingday, #koshichimes, #saraswati"
-  - username: "knineking"
+    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+  - username: "jeanne.athleticyogi"
     fullname: >-
-      Kanneil🤴🏽
+      jeanne dube
+    bio: >-
+      Fitness instructor 🔥 Yoga teacher 🙏 Instagram: jeanne.athleticyogi
     location: "Canada"
-    followers: 2470
-    engagement: 1291
-    commentsToLikes: 0.089535
-    id: ck9116uvbknvl0j78igwsbr5r
+    followers: 32100
+    engagement: 668
+    commentsToLikes: 0.007166
+    id: ckcjk7zsqds6n0j23goq3o0h4
     verified: false
-    hashtags: "#insta, #travelthrowback, #collegememories, #comedy"
-  - username: "nicolemanteiga"
+    hashtags: "#trainer, #homegym, #summerworkout, #workout"
+  - username: "pow3rd"
     fullname: >-
-      human, being
+      POW3RD
+    bio: >-
+      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
     location: "Canada"
-    followers: 5540
-    engagement: 687
-    commentsToLikes: 0.103134
-    id: ck9k6bsqz04b60j78a6qqzeap
+    followers: 100200
+    engagement: 1271
+    commentsToLikes: 0.038031
+    id: cka0o5rz329yd0i78p3yuubjz
     verified: false
-    hashtags: "#hipsdonttlie, #stamp, #selflove, #goodmorning"
+    hashtags: "#rainforestfacts, #fortnite, #follow, #fyp"
+  - username: "livlaughlove514"
+    fullname: >-
+      Liv
+    bio: >-
+      Montreal, Canada 🇨🇦
+    location: "Canada"
+    followers: 4849
+    engagement: 1001
+    commentsToLikes: 0.144265
+    id: ck8z6r3ion6x10j78b2vi1h4g
+    verified: false
+    hashtags: "#foryoupage, #rainforestfacts, #wholenewgame, #fyp"
+  - username: "joanna.a.s"
+    fullname: >-
+      J.oanna
+    bio: >-
+      CEO: of black and white 100?? 👁👄👁 Hey devils 😈
+    location: "Canada"
+    followers: 91700
+    engagement: 2089
+    commentsToLikes: 0.011660
+    id: ckbqv8ec6fgcv0j23pgsxputp
+    verified: false
+    hashtags: "#skillbuilding, #summer2020, #rollerskating, #obsessedwithit"
   - username: "jon_thevegan"
     fullname: >-
       Jonathan_Shopik
+    bio: >-
+      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
     location: "Canada"
-    followers: 10334
-    engagement: 586
-    commentsToLikes: 0.062732
+    followers: 30100
+    engagement: 729
+    commentsToLikes: 0.053305
     id: ck8074594ok6p0j78bktsw0lx
     verified: false
-    hashtags: "#lockdown, #feminst, #physio, #virus"
-  - username: "gwapedwink"
+    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
+  - username: "_kloqowej_"
     fullname: >-
-      gwapedwink
+      Starr
+    bio: >-
+      Kwe’ ni’n teluisi Kloqowej Ni’n na L’nu @Neechiehouse MMIWG BLM
     location: "Canada"
-    followers: 20757
-    engagement: 393
-    commentsToLikes: 0.116793
-    id: ck81s4odapyl40j78mzsw2xx5
+    followers: 58200
+    engagement: 1623
+    commentsToLikes: 0.019977
+    id: ck9newtu6dwjr0j78imne1fr4
     verified: false
-    hashtags: "#travel, #denmark, #overwatch, #staffy"
-  - username: "theantiyogi"
+    hashtags: "#nativepride, #foryou, #indigenous, #firstnations"
+  - username: "knineking"
     fullname: >-
-      Aaryn Elan Doyle
+      Kanneil🤴🏽
+    bio: >-
+      Kanneil Knine King, Content Creator & Influencer 🌎 I ❤️ Collabs #UseTheseTunes
     location: "Canada"
-    followers: 6922
-    engagement: 966
-    commentsToLikes: 0.100447
-    id: cka6fulz0h7f70i78p80lktu8
+    followers: 2422
+    engagement: 943
+    commentsToLikes: 0.122368
+    id: ck9116uvbknvl0j78igwsbr5r
     verified: false
-    hashtags: "#embarassing, #huskymix, #facechallenge, #safesex"
-  - username: "emilymparr"
+    hashtags: "#nobodyneedstoknow, #morningboost, #winning, #yoga"
+  - username: "joshpeters220"
     fullname: >-
-      Emily Parr
+      Josh Peters
+    bio: >-
+      16
     location: "Canada"
-    followers: 2046
-    engagement: 854
-    commentsToLikes: 0.053917
-    id: ckacfg21zqt000i788n329lm3
+    followers: 7761
+    engagement: 831
+    commentsToLikes: 0.068488
+    id: ckcdeomwq68z30j230g0tuuoo
     verified: false
-    hashtags: "#yinyang, #dating, #meditation, #purplehair"
-  - username: "chinesenaturalhealing"
-    fullname: >-
-      Aunty Anly 🖐
-    location: "Canada"
-    followers: 95727
-    engagement: 435
-    commentsToLikes: 0.040144
-    id: ckajk9wtzp9lq0i78zm2o1vvq
-    verified: false
-    hashtags: "#noodles, #hello, #happycamper, #cute"
-  - username: "justin_agustin"
-    fullname: >-
-      Justin Agustin
-    location: "Canada"
-    followers: 15988
-    engagement: 512
-    commentsToLikes: 0.050551
-    id: cka6nwq5td58v0i78zmwhtvtw
-    verified: false
-    hashtags: "#calm, #workouttips, #crossfit, #flexibiltiy"
+    hashtags: "#dadsoftiktok, #viral, #yogaflow, #xyzbca"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
+    bio: >-
+      43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3082
-    engagement: 665
-    commentsToLikes: 0.088788
+    followers: 3139
+    engagement: 653
+    commentsToLikes: 0.084134
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#waterfall, #thatssotiktok, #nomodel, #highlightreel"
+    hashtags: "#yoga, #foryou, #travel, #foryoupage"
 ---

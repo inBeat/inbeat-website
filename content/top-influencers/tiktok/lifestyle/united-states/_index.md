@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In United States In 2020
 description: >-
-  Find top lifestyle TikTok influencers in United States in 2020. Most popular hashtags: #itsaremix #neverfitin #tiktokrestarea #howto.
+  Find top lifestyle TikTok influencers in United States in 2020. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
 platform: TikTok
+hits: 759
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 759 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "nickibaber"
+  - username: "laynes.life"
     fullname: >-
-      Nicki Baber
+      ✰ layne ✰
+    bio: >-
+      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
     location: "United States"
-    followers: 5033134
-    engagement: 2245
-    commentsToLikes: 0.019367
-    id: ck83yswyvvfka0j781uns1b5e
-    verified: true
-    hashtags: "#cookingtips, #transition, #astrology, #tiktokscience"
-  - username: "williamsheats"
+    followers: 42400
+    engagement: 2550
+    commentsToLikes: 0.071745
+    id: ckfplcec901cu0j23yd02dkww
+    verified: false
+    hashtags: "#closeup, #xyzbca, #fall, #fyp"
+  - username: "bsbl101"
     fullname: >-
-      williamsheats
+      Baseball Lifestyle
+    bio: >-
+      Official Baseball Lifestyle 101 TikTok. Shop: BL101.COM
     location: "United States"
-    followers: 232461
-    engagement: 3279
-    commentsToLikes: 0.024171
-    id: ck9pmafws8gsr0j787llk14we
-    verified: true
-    hashtags: "#metgala, #ilovehim, #arianagrande, #cover"
+    followers: 104500
+    engagement: 1981
+    commentsToLikes: 0.090062
+    id: ck97832as6iy40j78m4zi9tny
+    verified: false
+    hashtags: "#tiktok, #fallfashion, #foryou, #showupshowoff"
   - username: "jesssica.le"
     fullname: >-
       jessica le
+    bio: >-
+      19 inconsistent content for my inconsistent lifestyle
     location: "United States"
-    followers: 7708
-    engagement: 2114
-    commentsToLikes: 0.058673
+    followers: 16900
+    engagement: 1835
+    commentsToLikes: 0.093029
     id: ck99a9t8agot80j78a00sa18l
     verified: false
-    hashtags: "#getalife, #stitch, #yearbook2020, #joji"
-  - username: "bsbl101"
+    hashtags: "#stitch, #wewintogether, #duet, #amongus"
+  - username: ".melonlush"
     fullname: >-
-      Baseball Lifestyle 
+      ⚡️⚡️⚡️
+    bio: >-
+      🛍💖🌈✨🐆🧿 lifestyle, grwm & more! pinterest: carterholtsy 😼
     location: "United States"
-    followers: 68998
-    engagement: 1853
-    commentsToLikes: 0.051256
-    id: ck97832as6iy40j78m4zi9tny
+    followers: 13500
+    engagement: 2349
+    commentsToLikes: 0.055098
+    id: ckc8ybqozmrlp0j2345qqg6kl
     verified: false
-    hashtags: "#dingersonly, #merch, #tiktokrestarea, #homeproject"
-  - username: "ashgurl91"
+    hashtags: "#foryou, #foryoupage, #aesthetic, #4you"
+  - username: "hal3ymiller"
     fullname: >-
-      🌻🔞Ashleigh🔞🍍
+      Haley
+    bio: >-
+      ✨follow my instagram: @haleymiller ✨ 📷, art director, lifestyle, & entertainer
     location: "United States"
-    followers: 7874
-    engagement: 1505
-    commentsToLikes: 0.078255
-    id: cka9ou3hq65dq0i78reewnaei
+    followers: 28800
+    engagement: 1959
+    commentsToLikes: 0.043096
+    id: ckcdcyk185awb0j23965mjcaa
     verified: false
-    hashtags: "#trends, #hardlimits, #repost, #fetlife"
-  - username: "dreaknowsbest"
+    hashtags: "#fyp, #ios14, #aesthetic, #photography"
+  - username: "highvibinglifestyle"
     fullname: >-
-      Drea Knowsbest 
+      highvibinglifestyle
+    bio: >-
+      Vibe High & Live in Bliss Subscribe to our YouTube at High Vibing Lifestyle KAM
     location: "United States"
-    followers: 4674275
-    engagement: 2679
-    commentsToLikes: 0.009238
-    id: ck80oqcwhj8qs0j78g76rvv1f
-    verified: true
-    hashtags: "#nigerian, #stankwalk, #nigerianfood, #parentsbelike"
-  - username: "heybriajones"
-    fullname: >-
-      Bria Jones
-    location: "United States"
-    followers: 185906
-    engagement: 2184
-    commentsToLikes: 0.016554
-    id: ck81s164lp9je0j787wgbfcnp
+    followers: 4564
+    engagement: 1565
+    commentsToLikes: 0.084843
+    id: ckcuy5gzlmacs0j23t9784qej
     verified: false
-    hashtags: "#shoppinghaul, #easyhairstyles, #horoscopes, #relatable"
-  - username: "jilliebeannn"
+    hashtags: "#chakras, #namaste, #mantra, #message"
+  - username: "babetarte"
     fullname: >-
-      Jill💓
+      BabeTarte
+    bio: >-
+      Life Style ♡ DM’s Are Open, Business ♡ My Email For Collaboration 💌
     location: "United States"
-    followers: 62199
-    engagement: 1926
-    commentsToLikes: 0.058980
-    id: ck9el4w7r93e60j7811qw66r2
+    followers: 89400
+    engagement: 2440
+    commentsToLikes: 0.028274
+    id: ckb9n6xj2gr270j23i0wa6us7
     verified: false
-    hashtags: "#neverfitin, #mycrib, #track, #selflove"
-  - username: "kerifay"
+    hashtags: "#ootd, #routine, #dayinthelife, #vibewithus"
+  - username: "madeleinesroutine"
     fullname: >-
-      Keri Fay
+      𝐦𝐚𝐝𝐞𝐥𝐞𝐢𝐧𝐞
+    bio: >-
+      she/her black lives still matter routines & lifestyle tysm for 7.4k<33
     location: "United States"
-    followers: 353727
-    engagement: 1205
-    commentsToLikes: 0.026873
-    id: ck7zoytkomiml0j78prgxnjkb
+    followers: 7476
+    engagement: 2398
+    commentsToLikes: 0.154170
+    id: ckcdsdi24dbth0j23fnon1ug1
     verified: false
-    hashtags: "#howto, #blondehairhack, #springlook, #vibewithme"
-  - username: "mirandarosanne"
+    hashtags: "#trendy, #aesthetic, #fyp, #foryoupage"
+  - username: "annas.routine"
     fullname: >-
-      MirandaRosanne
+      TY FOR 20K OMG!!!!
+    bio: >-
+      insta and yt ↗️😊 💌life.routineeee@gmail.com lifestyle, grwm, vlog, outfits
     location: "United States"
-    followers: 3186
-    engagement: 1191
-    commentsToLikes: 0.070125
-    id: ckacgn8b8vuc60i78l6v2vm7f
+    followers: 26400
+    engagement: 2159
+    commentsToLikes: 0.055364
+    id: ckbf5kzw4unj40j236ng332pk
     verified: false
-    hashtags: "#voiceover, #hairfail, #photoshootideas, #diysweater"
+    hashtags: "#ootd, #aesthetic, #blowthisup, #readysetgo"
+  - username: "wavelifestyles"
+    fullname: >-
+      🥵
+    bio: >-
+      🍉🍌🥭🍒🍍🍊🍋🥥 ll lifestyle ll grwm ll aesthetic
+    location: "United States"
+    followers: 4073
+    engagement: 4121
+    commentsToLikes: 0.271316
+    id: ckdck5jo7m6bv0j23lg8f0i3e
+    verified: false
+    hashtags: "#ootd, #maui, #cerave, #grwm"
 ---

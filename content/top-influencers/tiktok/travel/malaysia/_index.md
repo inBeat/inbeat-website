@@ -1,97 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Malaysia In 2020
 description: >-
-  Find top travel TikTok influencers in Malaysia in 2020. Most popular hashtags: #christmas #travel #dessert #yummy.
+  Find top travel TikTok influencers in Malaysia in 2020. Most popular hashtags: #fyp #malaysia #travel #foryou.
 platform: TikTok
+hits: 19
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database holds 19 TikTok influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "seemness"
+  - username: "eqiantravels"
     fullname: >-
-      SéèmNëss 🦋😇
+      Eqiantravels
+    bio: >-
+      Travel log
     location: "Malaysia"
-    followers: 128853
-    engagement: 1654
-    commentsToLikes: 0.010722
-    id: cka6ifeqfqfvk0i78oavoutek
+    followers: 6735
+    engagement: 974
+    commentsToLikes: 0.070191
+    id: ckbwhznki32560j23atkmh2fp
     verified: false
-    hashtags: "#100persent, #taaq, #happymothersday, #mustlisten"
+    hashtags: "#fyp, #travel, #foryou, #cuticutimalaysia"
   - username: "izuanizzaidiazmi"
     fullname: >-
       Izuan Izzaidi Azmi
+    bio: >-
+      🌎 Travelller Kerna setiap langkahku mengingatkanku tentang hebatnya Dia...
     location: "Malaysia"
-    followers: 70334
-    engagement: 717
-    commentsToLikes: 0.014273
+    followers: 70800
+    engagement: 693
+    commentsToLikes: 0.023351
     id: ck90z0qprca430j78aevjvqh9
     verified: false
-    hashtags: "#mecca, #makkah, #nabawi, #madinah"
-  - username: "aomdisaya"
+    hashtags: "#hajj, #mecca"
+  - username: "travel_gals"
     fullname: >-
-      Disaya Teerathonsopon
+      Travel Girl 💁🏻‍♀️
+    bio: >-
+      Traveller stories I will inspire you to travel the world 🌎
     location: "Malaysia"
-    followers: 9829
-    engagement: 428
-    commentsToLikes: 0.032409
-    id: ck9ev7v2uh17h0j78eafpn5mh
+    followers: 215300
+    engagement: 704
+    commentsToLikes: 0.011656
+    id: ckdhymc0s4wnd0j23pnggj5la
     verified: false
-    hashtags: "#viral, #kualalumpur, #uluwatu, #2020"
+    hashtags: "#youngcreators, #travellife, #china, #tiktoktravel"
+  - username: "ichriskee"
+    fullname: >-
+      Chris Liew
+    bio: >-
+      ♍️ IG: iChrisKee Marathoner 🏃🏻 + ChefWannaBe 👨🏻‍🍳 + Traveller ✈️ from 🇲🇾
+    location: "Malaysia"
+    followers: 58500
+    engagement: 546
+    commentsToLikes: 0.038288
+    id: ckb0yzid0ns7x0j23bw7kq9th
+    verified: false
+    hashtags: "#smile, #foryoupage, #foryourpage, #tiktokmalaysia"
+  - username: "uniquepassports"
+    fullname: >-
+      uniquepassports
+    bio: >-
+      ❤️ Stephi & Thomas 🇦🇹 ✈️ Full-Time Travel Couple 🌴 #travelcouple #fyp #viral
+    location: "Malaysia"
+    followers: 30800
+    engagement: 418
+    commentsToLikes: 0.022039
+    id: ck8njg818a9720j78qqiwid0j
+    verified: false
+    hashtags: "#malaysia, #fyp, #editing101, #travelcouple"
+  - username: "lofstedtdude"
+    fullname: >-
+      Eric Lau Lofstedt
+    bio: >-
+      That tiktok guy from Malaysia 😉🇲🇾 Follow the IG for a free cookie :3
+    location: "Malaysia"
+    followers: 633600
+    engagement: 875
+    commentsToLikes: 0.024362
+    id: ck83zaqp1z7oq0j786yzfg0j4
+    verified: false
+    hashtags: "#ericexplores, #fyp, #tiktokmalaysia, #travel"
+  - username: "faizpaehh"
+    fullname: >-
+      FaizPaeh
+    bio: >-
+      🔥New Video On YouTube🔥
+    location: "Malaysia"
+    followers: 526100
+    engagement: 737
+    commentsToLikes: 0.015049
+    id: ckach9cajyfw00i78grtz9fht
+    verified: false
+    hashtags: "#youtube, #kayaitravel, #tiktokguru, #ninebotz10"
+  - username: "travel.tiktoker"
+    fullname: >-
+      Travel Tiktoker
+    bio: >-
+      Youtube: 阿勇Johnsom-旅遊美食TV Facebook : Johnsom阿勇-旅游美食TV ⬇️Subscribe us now⬇️
+    location: "Malaysia"
+    followers: 63600
+    engagement: 330
+    commentsToLikes: 0.012612
+    id: ckcpfz193gymd0j23dhmv5ugd
+    verified: false
+    hashtags: "#travel, #traveltiktoker, #tiktoktraveller, #tiktoktravel"
   - username: "johnsom.eattravel"
     fullname: >-
       Johnsom阿勇-旅游美食TV
+    bio: >-
+      Youtube: 阿勇Johnsom-旅遊美食TV FB : 阿勇Johnsom-旅遊美食TV ⬇️ Subscribe me now⬇️
     location: "Malaysia"
-    followers: 13636
-    engagement: 409
-    commentsToLikes: 0.012040
+    followers: 14200
+    engagement: 433
+    commentsToLikes: 0.010016
     id: ck9fwzt783wpg0j78zk6hxczi
     verified: false
-    hashtags: "#seapark, #facepuzzle, #dessert, #otak"
-  - username: "labakerkhalid85"
+    hashtags: "#stayathome, #cooking, #tiktokmalaysia, #tiktokfood"
+  - username: "varunkhatriofficial"
     fullname: >-
-      Baker Khalid
+      vArUn kHaTri ✔️
+    bio: >-
+      🇮🇳 🇲🇾 🇨🇦 👇🏻 Owner Of 👇🏻 🛫 VK GL🌍BAL SERVICE’S 🛫 DreAm Big WoRK HaRD
     location: "Malaysia"
-    followers: 3553
-    engagement: 200
-    commentsToLikes: 0.044769
-    id: ckamox2j6ay340i78eo72twks
+    followers: 17700
+    engagement: 1261
+    commentsToLikes: 0.010370
+    id: ck9ev7w3jh1in0j78hwo9z2ph
     verified: false
-    hashtags: "#wipeitdown, #tiktokqatar, #checkthedrip, #watches"
-  - username: "id_error"
-    fullname: >-
-      Ah Qqiao💩
-    location: "Malaysia"
-    followers: 88306
-    engagement: 558
-    commentsToLikes: 0.012741
-    id: ck80odm23h2jt0j78it94uejn
-    verified: false
-    hashtags: "#cuteact, #taptaptap, #challenge, #breatheitout"
-  - username: "wingkeh_keifth"
-    fullname: >-
-      WINGKEH • KEIFTH
-    location: "Malaysia"
-    followers: 302622
-    engagement: 684
-    commentsToLikes: 0.007117
-    id: ck80odn9uh2tv0j78npvc5sja
-    verified: true
-    hashtags: "#justinbieber, #mylifewear, #meowchallenge, #creative"
-  - username: "sheikhnizham"
-    fullname: >-
-      Sheikh Nizham
-    location: "Malaysia"
-    followers: 3638
-    engagement: 281
-    commentsToLikes: 0.016171
-    id: ck9pm98zn85je0j78986eq0bo
-    verified: false
-    hashtags: "#foodislife, #singapenney, #fruit, #briyanilovers"
-  - username: "uniquepassports"
-    fullname: >-
-      ✈️ uniquepassports🍿
-    location: "Malaysia"
-    followers: 29834
-    engagement: 432
-    commentsToLikes: 0.019496
-    id: ck8njg818a9720j78qqiwid0j
-    verified: false
-    hashtags: "#foryoupage, #travelcouple, #bringitback, #boredathome"
+    hashtags: "#foryoupage, #punjab, #foreignerchalla, #tiktokdubai"
 ---

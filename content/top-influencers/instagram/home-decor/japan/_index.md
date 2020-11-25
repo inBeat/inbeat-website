@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Japan In 2020
 description: >-
-  Find top home decor Instagram influencers in Japan in 2020. Most popular hashtags: #homedecor #interior #home #lifestyle.
+  Find top home decor Instagram influencers in Japan in 2020. Most popular hashtags: #homedecor #interior #nature #interiordesign.
 platform: Instagram
+hits: 20
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 20 Instagram influencers like this in Japan for you to contact.
 profiles:
-  - username: "yurikotiger"
+  - username: "swaro109"
     fullname: >-
-      ユリコタイガー YURIKO TIGER
+      網田真希☆空間デザイナー☆swaro109
+    bio: >-
+      🏠空間デザイナー 🔨DIYクリエイター 🎥DIY-YouTuber ❤趣味は食べる事 【YouTubeスワロちゃんねる】↓↓
     location: "Japan"
-    followers: 121945
-    engagement: 616
-    commentsToLikes: 0.011187
-    id: ck5hn0tuzmzr90i11p12fkl6v
-    verified: true
-    hashtags: "#iegirlz, #japanlife, #shojomanga, #gamer"
+    followers: 18575
+    engagement: 342
+    commentsToLikes: 0.020137
+    id: ck14kubo7rd2c0i19yunnmjth
+    verified: false
+    hashtags: "#furniture, #bohointerior, #myhome, #instahome"
+  - username: "asasa0509"
+    fullname: >-
+      keiko S
+    bio: >-
+      夫婦+愛犬との暮らし in Chiba 建売住宅をコツコツDIY🔨 □著書 元雑貨屋asasaさんの「ゆるカワ暮らし」 □Yahoo!クリエイター □BRUNO/ Hinata Lifeアンバサダー&フレンド □ESSE編集部公認インスタグラマー □folkオフィシャルライター
+    location: "Japan"
+    followers: 48053
+    engagement: 439
+    commentsToLikes: 0.000674
+    id: ck139v4nen9od0i19qehsvb1x
+    verified: false
+    hashtags: "#interior, #bedroom, #homedecore, #100"
+  - username: "keijiashizawadesign"
+    fullname: >-
+      KEIJI ASHIZAWA DESIGN
+    bio: >-
+      Architecture and design studio in Tokyo Founded by @keijiashizawa @ishinomakilab founder #keijiashizawadesign
+    location: "Japan"
+    followers: 19056
+    engagement: 351
+    commentsToLikes: 0.009192
+    id: ck15u0rnfkuyc0i19nqju1aey
+    verified: false
+    hashtags: "#karimokucasestudy, #livingroom, #interiorproject, #japanesearchitecture"
+  - username: "freedom_travellikekaren"
+    fullname: >-
+      Karen🛄✈️🌎Travel + Lifestyle
+    bio: >-
+      ғᴏʀᴇᴠᴇʀ ʜᴜɴɢʀʏ👣ᴀᴄʜᴇ ғᴏʀ ᴅɪsᴛᴀɴᴛ ᴘʟᴀᴄᴇs ✧ 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻𝗮𝗹 ✧ 𝗕𝗲 𝗚𝗼𝗼𝗱 ✧ 𝗗𝗼 𝗚𝗼𝗼𝗱 💍 @chef__explorer 🇦🇺🇲🇾 #LDR 📍MY #✈ 📬𝑤𝑜𝑟𝑘 ❥ 𝑘𝑎𝑟𝑒𝑛𝑚𝑖𝑠𝑐ℎ𝑎@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚
+    location: "Japan"
+    followers: 16911
+    engagement: 645
+    commentsToLikes: 0.120557
+    id: ck0vwrqdtv9wg0i19p9s4396i
+    verified: false
+    hashtags: "#karenxwa, #explorepage, #shetravels, #outdooradventures"
+  - username: "theluxegirls"
+    fullname: >-
+      Classy.Stylish.Fashion.Girls
+    bio: >-
+      Turn on post notifications DM if it’s your pic 📥 If you use my pictures Tag @theluxegirls
+    location: "Japan"
+    followers: 128155
+    engagement: 130
+    commentsToLikes: 0.001504
+    id: ck13bri32wtm50i19zgowz9ov
+    verified: false
+    hashtags: "#instaphoto, #luxe, #interiordesign, #theluxegirls"
   - username: "emi__0805"
     fullname: >-
       emi
+    bio: >-
+      アンティーク、インテリア ドライフラワーや多肉植物 お庭の花やグリーンに癒されています❤ セキセイインコ ♂️funちゃんとの 暮らしも時々♪*･♪･*:.｡..🐦｡.:*･♪･*:.｡.💓 日々幸せを感じる瞬間を 共有できたら．．．と思います*･ﾟ･♪*:.｡..｡.:*･♪
     location: "Japan"
-    followers: 8595
-    engagement: 1554
-    commentsToLikes: 0.038800
+    followers: 11271
+    engagement: 1584
+    commentsToLikes: 0.020247
     id: ckaoyd4jjh0fo0i78hvekfg9s
     verified: false
-    hashtags: "#roselover, #rose, #f45yoshi, #country"
-  - username: "kitsuneyoki"
+    hashtags: "#mydisplay, #flowerlovers, #gardencaf, #loves"
+  - username: "mushing_square"
     fullname: >-
-      ✿ 𝐿𝑜𝓇𝑒𝓃𝒶 ✿
+      ➵🌍✖𝑆𝑖𝑥𝑀𝑢𝑠𝘩𝑒𝑟𝑠 & 𝑇𝑤𝑜𝑃𝑖𝑔𝑒𝑜𝑛𝑠✖🇪🇦™
+    bio: >-
+      La gran manada‼🎪TikTok/IgTv/Reel🎞 🎬|Perros actores⭐ 🐕|Dumba♀ 🐕|Buda♂ 🐕|Book♂ 🐦|Tomás♂ 🐕|Sirio♂ 🐕|Hermes♂ 🐕|Pax♂ 🐦|Vicky♀ ⛰|Recatados 🛷|Mushing
     location: "Japan"
-    followers: 2173
-    engagement: 2082
-    commentsToLikes: 0.072633
-    id: ck5zqo4gvuysy0i14izbwuhlh
+    followers: 13606
+    engagement: 982
+    commentsToLikes: 0.297522
+    id: ck5zt279tzlpm0i149wtw1cbe
     verified: false
-    hashtags: "#7for7, #btsjimin, #btsjin, #yonaofthedawn"
-  - username: "vivy_pit"
+    hashtags: "#infludog, #puppy, #adopt, #dogphotography"
+  - username: "licca_sayu"
     fullname: >-
-      Vɪvy~7🌷
+      ♡ 𝚜𝚊𝚢𝚞 ♡
+    bio: >-
+      ❤︎ I Love Licca doll ❤︎ Thank you for visiting my page◡̈♥
     location: "Japan"
-    followers: 27591
-    engagement: 328
-    commentsToLikes: 0.043285
-    id: ck9ha4w5eb5sq0j78tnms4l7v
+    followers: 6554
+    engagement: 1035
+    commentsToLikes: 0.005377
+    id: ckap1wdvvwd9t0i78exgyeck6
     verified: false
-    hashtags: "#jeulia, #photo, #dolcepausa, #ecofriendly"
-  - username: "marja_koo"
+    hashtags: "#dollstagram, #liccadoll, #miniature, #kira"
+  - username: "dmocba"
     fullname: >-
-      𝐌𝐚𝐫𝐣𝐚 𝐊𝐨𝐫𝐡𝐨𝐧𝐞𝐧
+      CBA
+    bio: >-
+      I'm CBA, a painter as abstract artist from Kobe, japan. Thank you for dropping by. 神戸を拠点に活動しているCBA（シーバ）です。 We can deal here. Please send me a DM here.
     location: "Japan"
-    followers: 6011
-    engagement: 574
-    commentsToLikes: 0.029924
-    id: ck0w4e58zy4ux0i1956evlhgr
+    followers: 47775
+    engagement: 287
+    commentsToLikes: 0.025762
+    id: ck15tiuqxias30i19czdtn64a
     verified: false
-    hashtags: "#socialdistancing, #huhtikuu, #windflower, #mygirls"
-  - username: "latelierbrocante_antiquitefr"
+    hashtags: "#modernart, #colorpop, #abstractmag, #contemporarypainting"
+  - username: "rubyart1"
     fullname: >-
-      L'atelier Brocante Antiquitéfr
+      Ruby Art
+    bio: >-
+      ❤️I’m an Illustrator❤️ 🎍#artist🎍 🐕 Meet my boy : @hachi_ruby_shiba 🐕 🌺 Store open September 1st 🌺 ⬇️ 🌎 LINKS TO ALL MY SITES
     location: "Japan"
-    followers: 7621
-    engagement: 527
-    commentsToLikes: 0.010254
-    id: ck5q2i1azg4fi0i11qwqlt1hh
+    followers: 19846
+    engagement: 512
+    commentsToLikes: 0.012396
+    id: ck9hb6cc2fkqf0j78ggil7tco
     verified: false
-    hashtags: "#bonbonni, #happylife, #flower, #interiorstyling"
-  - username: "hayu_animal"
-    fullname: >-
-      HAyU ✴︎小川学
-    location: "Japan"
-    followers: 18455
-    engagement: 479
-    commentsToLikes: 0.008460
-    id: ck5bvo0cek1gr0i111af98kky
-    verified: false
-    hashtags: "#renovation, #interior, #wiresclupture, #wiresculptures"
-  - username: "arika_gram"
-    fullname: >-
-      ❤︎ 愛里叶 ❤︎
-    location: "Japan"
-    followers: 19684
-    engagement: 905
-    commentsToLikes: 0.012123
-    id: ck8tcqnle0b120j78xdy69qsr
-    verified: false
-    hashtags: "#cherry, #jillstuart, #pc, #celefit"
-  - username: "its.all.about.my.love.srk__"
-    fullname: >-
-      Shah Rukh Khan
-    location: "Japan"
-    followers: 19848
-    engagement: 653
-    commentsToLikes: 0.010488
-    id: ck8t4vb1l80fv0j789vrde2vt
-    verified: false
-    hashtags: "#kpopfacts, #wanderlust, #birthday, #worldfacts"
-  - username: "dmg_style"
-    fullname: >-
-      DMG styLe ‥‥Herbarium 蕨市/戸田市‥‥
-    location: "Japan"
-    followers: 10600
-    engagement: 534
-    commentsToLikes: 0.008725
-    id: ck0uajdkocdin0i19y2k0nt8o
-    verified: false
-    hashtags: "#childrensday, #herbariumchopsticks, #ikeakitchen, #homedecor"
+    hashtags: "#kanekiken, #animeart, #fireemblemfanart, #art4share"
 ---

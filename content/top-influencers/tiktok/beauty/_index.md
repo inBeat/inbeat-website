@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In 2020
 description: >-
-  Find top beauty TikTok influencers in 2020. Most popular hashtags: #vibewithme #learnfromme #levelup #happyathome.
+  Find top beauty TikTok influencers in 2020. Most popular hashtags: #foryou #duet #foryoupage #happyhalloween.
 platform: TikTok
+hits: 16225
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 16225 TikTok influencers like this for you to contact.
 profiles:
-  - username: "beauty"
+  - username: "foreverfosterr"
     fullname: >-
-      beauty
+      Foster 🦋
+    bio: >-
+      I love all you beauties ❤️🖤🤍
     location: "United States"
-    followers: 8933
-    engagement: 353
-    commentsToLikes: 0.013107
-    id: ck9ewzh7sp3lc0j786j4zba38
+    followers: 521600
+    engagement: 2306
+    commentsToLikes: 0.025350
+    id: ckcejuba1svwo0j2305rp620j
     verified: false
-    hashtags: "#fashionhacks, #makeuphacks, #girls, #skincare"
-  - username: "jakejamiebeauty"
+    hashtags: "#blacklivesmatter, #foryoupage, #foryou"
+  - username: "tara5709"
     fullname: >-
-      Jake-Jamie 
-    location: "United Kingdom"
-    followers: 71497
-    engagement: 2393
-    commentsToLikes: 0.041811
-    id: ck8addqh75f1v0j78kzwbn9lf
-    verified: true
-    hashtags: "#trolls, #speakyourmind, #hudabeauty, #26jumps"
-  - username: "ss_sonu751"
+      Tara Chamlagain
+    bio: >-
+      Beauty is Power;a smile is its sword😊😊😊😊😊😊😊😊😊😊😍😍😍😍💕💕💞💞💞
+    location: "Nepal"
+    followers: 7677
+    engagement: 5902
+    commentsToLikes: 0.288429
+    id: ckbaie4hk9jba0j23v0a100v2
+    verified: false
+    hashtags: "#foryourpage, #smilequeen, #tiktok, #foryou"
+  - username: "crazy.anne85"
+    fullname: >-
+      anne
+    bio: >-
+      beauty begins the moment you decide to be yourself. boy momma 35 🇱🇺🏳️‍🌈
+    location: "Netherlands"
+    followers: 3835
+    engagement: 4463
+    commentsToLikes: 0.725076
+    id: ckd19w9nyrr0o0j23qrkshxi9
+    verified: false
+    hashtags: "#duet, #voorjullie, #zondag, #foryou"
+  - username: "laynes.life"
+    fullname: >-
+      ✰ layne ✰
+    bio: >-
+      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+    location: "United States"
+    followers: 42400
+    engagement: 2550
+    commentsToLikes: 0.071745
+    id: ckfplcec901cu0j23yd02dkww
+    verified: false
+    hashtags: "#closeup, #xyzbca, #fall, #fyp"
+  - username: "ss_smita751"
     fullname: >-
       s_smita
+    bio: >-
+      🔥jajpur🔥 beauty is not important bt beautiful heart ❤is most important😊
     location: "India"
-    followers: 33671
-    engagement: 2583
-    commentsToLikes: 0.046927
+    followers: 37900
+    engagement: 2242
+    commentsToLikes: 0.057170
     id: ckae5ai666gxo0i78iby7v0mp
     verified: false
-    hashtags: "#duet, #foryoupage, #doubleexposure"
-  - username: "sukhikoonerjatti"
+    hashtags: "#foryoupage, #foryou, #jajpur, #odisha"
+  - username: "akiratalu"
     fullname: >-
-      Sukhi Kaur Kooner
+      Akira
+    bio: >-
+      Truth & Love United God | Beauty | Shenanigans Cash App: $AkiraSW 234-262-0430
+    location: "United States"
+    followers: 49800
+    engagement: 2156
+    commentsToLikes: 0.062795
+    id: ck9nqug8t5gg90j78nu3mvfva
+    verified: false
+    hashtags: "#duet, #christian, #encouragement, #greenscreen"
+  - username: "priyankapahari3"
+    fullname: >-
+      🔥Prîyàñká🔥
+    bio: >-
+      ❤️Állóws smîlè☺️ 🥰Sîmplè gîrl🌺🌺 ☺️Ñátûràl Bèàûty🌿 ❤️thàñk û àll Frèñd❤️
+    location: "United States"
+    followers: 66400
+    engagement: 2135
+    commentsToLikes: 0.076668
+    id: ckb15qst8t0eq0j2352o68sgn
+    verified: false
+    hashtags: "#tiktokindia, #duet, #tending, #tiktok"
+  - username: "isthatrach"
+    fullname: >-
+      Racheal
+    bio: >-
+      💃 Here for fun 💃 No DMs | Positivity l Humor l Beauty | Mom 🐎 Kentucky 🐎
+    location: "United States"
+    followers: 44000
+    engagement: 1877
+    commentsToLikes: 0.096628
+    id: ckacvsb13p7vv0i78ksxgpudc
+    verified: false
+    hashtags: "#happyhalloween, #oops, #nothankyou, #politics"
+  - username: "mariama.sahoneh"
+    fullname: >-
+      Mariama Sahoneh
+    bio: >-
+      55K? MAKEUP | FASHION | BEAUTY Let’s link👇🏾 😀
+    location: "Canada"
+    followers: 47400
+    engagement: 1953
+    commentsToLikes: 0.043296
+    id: ck961yrgmoiex0j78ejlg96ha
+    verified: false
+    hashtags: "#muslimahhumour, #blackmuslimfemale, #muslimcomedy, #hijabitiktoks"
+  - username: "local_bitch_0"
+    fullname: >-
+      💞✨jophie + liper✨💞🥺
+    bio: >-
+      Beauty’s in all shapes and sizes 🥺❤️ I’m taken so bye ❤️
     location: "United Kingdom"
-    followers: 27428
-    engagement: 2261
-    commentsToLikes: 0.080949
-    id: cka0zbd5ees2y0i784kx6qxhn
+    followers: 60500
+    engagement: 1932
+    commentsToLikes: 0.174876
+    id: ckae85htwkce70i78gwi5u0a3
     verified: false
-    hashtags: "#jassigill, #kaurb, #punjabiword, #houseoftiktok"
-  - username: "dailyxgrwm"
-    fullname: >-
-      ✰ ✰ ✰
-    location: "Australia"
-    followers: 12160
-    engagement: 3021
-    commentsToLikes: 0.052695
-    id: ckacn5ympmiuj0i78vguakdnw
-    verified: false
-    hashtags: "#ledstriplights, #onlineshopping, #dayinalife, #food"
-  - username: "blue_eyed_grl33"
-    fullname: >-
-      Blue eyed grl 
-    location: "United States"
-    followers: 18498
-    engagement: 2094
-    commentsToLikes: 0.051995
-    id: ck9novgztvzq80j78ob4zrtjx
-    verified: false
-    hashtags: "#duet, #chipmunks, #blindedmybestie, #lovesmejustthewaythatiam"
-  - username: "theduckingteddybear"
-    fullname: >-
-      🦆Mr.Tennessee🐻
-    location: "United States"
-    followers: 5939
-    engagement: 1752
-    commentsToLikes: 0.071378
-    id: ck8w1axl918i30j784r07876p
-    verified: false
-    hashtags: "#musicmatters, #inthehouseparty, #ownthecurve, #promplaylist"
-  - username: "tartecosmetics"
-    fullname: >-
-      tarte cosmetics 
-    location: "United States"
-    followers: 432429
-    engagement: 1983
-    commentsToLikes: 0.025840
-    id: ck83wpvhalfo20j78vakg6mwk
-    verified: true
-    hashtags: "#asmrtapping, #recycle, #worldbakingday, #lifeathome"
-  - username: "unicornlockercosmetics"
-    fullname: >-
-      theunicornlocker
-    location: "United States"
-    followers: 35324
-    engagement: 1726
-    commentsToLikes: 0.044117
-    id: ck9f1punh98yu0j78kgzg07k0
-    verified: false
-    hashtags: "#highheels, #rainbowmakeup, #foundationhacks, #makeupgirl"
-  - username: "hauslabs"
-    fullname: >-
-      HausLabs
-    location: "United States"
-    followers: 4182
-    engagement: 1585
-    commentsToLikes: 0.086008
-    id: ckac76eomekkt0i78ry8pbsgj
-    verified: true
-    hashtags: "#chooseone, #beforeandafter, #makeupchallenges, #beautyroutine"
+    hashtags: "#duet"
 ---

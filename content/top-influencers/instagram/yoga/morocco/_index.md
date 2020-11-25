@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Morocco In 2020
 description: >-
-  Find top yoga Instagram influencers in Morocco in 2020. Most popular hashtags: #yoga #beach #morocco #traveladdict.
+  Find top yoga Instagram influencers in Morocco in 2020. Most popular hashtags: #yoga #morocco #marrakech #love.
 platform: Instagram
+hits: 12
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Morocco for you to collaborate.
 profiles:
-  - username: "asnajda"
+  - username: "hananelazaar_"
     fullname: >-
-      Anne-Sophie
+      Hanane Lazaar    حنان لزعر
+    bio: >-
+      You have the tools you're just distracted. ------ 🎨 📷 @enanah.lz 🧕🏼 @coveredyogagirl 👽 #lotusankle This is a rad yoga mat 🤓👇🏼
     location: "Morocco"
-    followers: 24743
-    engagement: 389
-    commentsToLikes: 0.046787
-    id: ck6u9f2mnx71n0j712ogxi7ht
+    followers: 97949
+    engagement: 309
+    commentsToLikes: 0.034094
+    id: ck5hocin0pboq0i111ob9czpv
     verified: false
-    hashtags: "#toujourslapourvouslivrer, #3yearsago, #urdhvamukhasvanasana, #giovanniranafrance"
-  - username: "zouhair_al"
-    fullname: >-
-      زهير الخلداوي
-    location: "Morocco"
-    followers: 99469
-    engagement: 394
-    commentsToLikes: 0.014382
-    id: ck9wosdnp6est0j78blsbi1hp
-    verified: false
-    hashtags: "#morocco, #moroccan, #russia, #sport"
+    hashtags: "#2020, #yogaposes, #yogainspiration, #artist"
   - username: "kenzoftravel"
     fullname: >-
       Kenza Bennis
+    bio: >-
+      💎Moroccan Travel-lifestyle blogger 🥰#Marriedtolife 🧘‍♀️ hatha yoga teacher 🌍36 countries,the rest is on my list ❤️Spreading Love 💎Marketing spec
     location: "Morocco"
-    followers: 55018
+    followers: 54648
     engagement: 158
-    commentsToLikes: 0.026342
+    commentsToLikes: 0.023581
     id: ck6tjsfis3bxa0j71evmn0njg
     verified: false
-    hashtags: "#stayactive, #oneyearanniversary, #gltlove, #hathayoga"
-  - username: "yasminerie"
+    hashtags: "#yoga, #yogalover, #sarvangasana, #yogateacher"
+  - username: "zouhair_al"
     fullname: >-
-      Yasmina 🦋
+      زهير الخلداوي
+    bio: >-
+      🇲🇦Casablanca📍 🙏🏻Sports & Fitness Instruction 🎓certified KRU "Muay thai"Thai yoga massage"pro🇹🇭 ⏱COACH SPORTIF 🙏🏻Plan alimentaire
     location: "Morocco"
-    followers: 32672
-    engagement: 872
-    commentsToLikes: 0.140524
-    id: ck14ki7mqpmgh0i19riiao0v4
+    followers: 155641
+    engagement: 253
+    commentsToLikes: 0.018785
+    id: ck9wosdnp6est0j78blsbi1hp
     verified: false
-    hashtags: "#ootdfashion, #beautymakeup, #latina, #sunkissed"
+    hashtags: "#love, #likeforlikes, #beach, #enjoy"
+  - username: "anouariraoui"
+    fullname: >-
+      THE IRAOUI🇲🇦
+    bio: >-
+      -DIE WITH MEMORIES,NOT DREAMS💎 •Pro Calisthenics Athlete •Creative✨ •DM me for business or collabs📥 •⬇️GO CHECK MY YouTube channel⬇️
+    location: "Morocco"
+    followers: 11040
+    engagement: 2051
+    commentsToLikes: 0.059512
+    id: ck55ls0od2a2u0i117534z9re
+    verified: false
+    hashtags: "#handstand, #workout24, #brutebars, #barbrothers"
   - username: "lesfitkho"
     fullname: >-
       FitKho
+    bio: >-
+      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
     location: "Morocco"
-    followers: 20126
-    engagement: 528
-    commentsToLikes: 0.134162
+    followers: 20900
+    engagement: 541
+    commentsToLikes: 0.135702
     id: ck5hp9bxsqywa0i11d9217mwu
     verified: false
-    hashtags: "#onestsympaoui, #babys, #babyface, #laculpabilite"
-  - username: "bibons"
+    hashtags: "#beautiful, #picoftheday, #workout, #girl"
+  - username: "irem_ozbay_ozkan"
     fullname: >-
-      Bilyana Slaveykova
+      Irem OZBAY ✌️💞
+    bio: >-
+      🌟 #influencer Turkey 🇹🇷 🇬🇧 🌟BilgeSu Mia 18.04.12🌼 @missdaisymia 🌟Bulut 11.11.15☁️My Cloud 🌟Photoholic 📷 🌟Travelholic 🌎 📩 iremozkan@hotmail.com
     location: "Morocco"
-    followers: 19079
-    engagement: 586
-    commentsToLikes: 0.025002
-    id: ck5c84hv28r4o0i11omtotii5
+    followers: 147820
+    engagement: 89
+    commentsToLikes: 0.069541
+    id: ckf5m625jsf5b0j23o5xly2dn
     verified: false
-    hashtags: "#ontheroad, #memories, #burningman, #timetravel"
-  - username: "chiko_tian"
+    hashtags: "#bodrum, #10kas, #suart, #huzur"
+  - username: "yasminadaas"
     fullname: >-
-      B I N G
+      Yasmine Daas | ياسمين دعاس
+    bio: >-
+      Personal Style | Fashion | Travel | Beauty | Lifestyle Palestinian✌🏻 Contact: daasisgood@gmail.com YouTube: YASMINE DAAS | Styling page: @yd.styling
     location: "Morocco"
-    followers: 25997
-    engagement: 262
-    commentsToLikes: 0.041068
-    id: ck5c1mcsnvh340i1190bj63v9
+    followers: 51785
+    engagement: 418
+    commentsToLikes: 0.044766
+    id: ck14j2idqiauu0i194hnqzaoe
     verified: false
-    hashtags: "#wonderful, #moodygrams, #classicpiano, #pianosolo"
-  - username: "issaitc"
+    hashtags: "#bloggerstyle, #lockdownlife, #covid, #fashionblogger"
+  - username: "scally_twins"
     fullname: >-
-      Aissa | Yes, I'm 99% travel
+      Yoga Teachers ♾ Kamil & Gabe
+    bio: >-
+      Gabe 📍🇲🇦 : manager @omyoga_studios Kamil📍🇲🇦 : manager @omyoga_studios Go chek out our youtube channel ! 👇
     location: "Morocco"
-    followers: 29850
-    engagement: 447
-    commentsToLikes: 0.082173
-    id: ck5zka34zj3ih0i14ph1hgc1y
+    followers: 39616
+    engagement: 181
+    commentsToLikes: 0.112299
+    id: ck6uc6ub4dv1x0j71ck6808lw
     verified: false
-    hashtags: "#traveltagged, #luxintravels, #essaouira, #exploremorocco"
-  - username: "letsjustgoaway14"
-    fullname: >-
-      Leito 🤸🏼‍♂️& Antonia 💃🏼
-    location: "Morocco"
-    followers: 14505
-    engagement: 761
-    commentsToLikes: 0.087914
-    id: ck135ojdl2fxt0i19cmxmv8pa
-    verified: false
-    hashtags: "#travelwomenhub, #covid19, #girls, #igmarrakech"
+    hashtags: "#sponsored, #lenovoyoga, #livesmarter, #lenovomorocco"
   - username: "abdelfattah.eloufir"
     fullname: >-
       Abdelfattah El Oufir
+    bio: >-
+      {وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ} •model 📩: abdelfatah.eloufir@gmail.com
     location: "Morocco"
-    followers: 41459
-    engagement: 1265
-    commentsToLikes: 0.022804
+    followers: 52626
+    engagement: 1286
+    commentsToLikes: 0.026547
     id: ck0w15pjphouu0i19toaf5823
     verified: false
-    hashtags: "#cardio, #landscape, #home, #fitnesslife"
+    hashtags: "#tbt, #instagood, #igdaily, #fashion"
+  - username: "maryammontague"
+    fullname: >-
+      Maryam Montague
+    bio: >-
+      ⭐️Founder @projectsoar + @agent.girlpower ⭐️Owner @peacockpavilionshotel ⭐️Author Marrakesh by Design Be Good, Make Good, Do Good ⛺️ #marrakech
+    location: "Morocco"
+    followers: 26393
+    engagement: 132
+    commentsToLikes: 0.080115
+    id: ck5zurkoo2x5j0i14av1qbk01
+    verified: false
+    hashtags: "#projectsoar, #beauty, #covid, #morocco"
 ---

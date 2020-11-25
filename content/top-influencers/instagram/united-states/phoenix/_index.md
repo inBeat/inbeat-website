@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top Instagram influencers in Phoenix in 2020. Most popular hashtags: # #mothersday #sponsored #11.
+  Find top Instagram influencers in Phoenix in 2020. Most popular hashtags: #liketkit #ad #running.
 platform: Instagram
+hits: 1223
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 1223 Instagram influencers like this in Phoenix, United States for you to pitch.
 profiles:
-  - username: "puffjohnson5"
-    fullname: >-
-      Donovan “Puff” Johnson
-    location: "United States"
-    followers: 20092
-    engagement: 2620
-    commentsToLikes: 0.041774
-    id: ck5zolsq0qu040i14hy9bsm5w
-    verified: false
-    hashtags: "#11, #nba2k20, #top100, #eybl"
-  - username: "_kat44"
-    fullname: >-
-      Kat Prtenjak♋️CreativeDirector
-    location: "United States"
-    followers: 7393
-    engagement: 1769
-    commentsToLikes: 0.044946
-    id: ck0w59u4n2m560i194rjezwz6
-    verified: false
-    hashtags: ""
-  - username: "carmenblackwellfox10"
-    fullname: >-
-      Carmen Blackwell
-    location: "United States"
-    followers: 16460
-    engagement: 1505
-    commentsToLikes: 0.039659
-    id: ck8w3fnrc7jq10j78vq8r43uo
-    verified: true
-    hashtags: "#happymemorialday, #throwback, #tbt, #besos"
-  - username: "tacchi.phoenix"
-    fullname: >-
-      Tacchi Phoenix©️
-    location: "United States"
-    followers: 13180
-    engagement: 1655
-    commentsToLikes: 0.143546
-    id: ck6tsqapr67x60j714ow90n0d
-    verified: false
-    hashtags: "#fashionbloggers, #billiardsroom, #musclecars, #bluedress"
   - username: "avisamuelangel"
     fullname: >-
       𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
+    bio: >-
+      🔒P.O.box 10810 N. Tatum Blvd #102908 Phoenix Az 85028 United States. Actor,model,rapper,singer Tiktok:aviangel14 (156k)
     location: "United States"
-    followers: 264323
-    engagement: 714
-    commentsToLikes: 0.017319
+    followers: 275044
+    engagement: 996
+    commentsToLikes: 0.214969
     id: ckap1d4kgu2td0i7887pd9m5d
     verified: false
-    hashtags: "#jamjr, #aviangel, #khalid, #cover"
-  - username: "themaddiward"
+    hashtags: ""
+  - username: "tysonhugie"
     fullname: >-
-      Maddi Ward, BSN, RN
+      Tyson Hugie
+    bio: >-
+      Phoenix, Arizona
     location: "United States"
-    followers: 12285
-    engagement: 639
-    commentsToLikes: 0.072766
-    id: ck0w5xih75x770i19saieg91y
+    followers: 7070
+    engagement: 1402
+    commentsToLikes: 0.058346
+    id: ck5ccp87khris0i1168fy6y30
     verified: false
-    hashtags: "#happyvalentinesday, #balance, #iamanurse, #sticktoyourmission"
-  - username: "lolaarainn"
+    hashtags: "#34048"
+  - username: "ohprettydaze"
     fullname: >-
-      Lola mf Rain
+      Diana Wakefield
+    bio: >-
+      ☼ phoenix, az ⋒ lifestyle + dog mom vibes ⟡ ohprettydaze@gmail.com ⇣ SHOP COMING SOON
     location: "United States"
-    followers: 10311
-    engagement: 2605
-    commentsToLikes: 0.022351
-    id: ckapcdjl33dpk0i78fs3ccy0n
+    followers: 17423
+    engagement: 374
+    commentsToLikes: 0.199051
+    id: ck5c1qlxevq550i11kr4er521
+    verified: false
+    hashtags: "#clifbarcrew, #supportlocalartists, #brooklinen, #mybrooklinenstyle"
+  - username: "briannatraynor"
+    fullname: >-
+      BRIANNA
+    bio: >-
+      phoenix, az 🌵 wife | mama to jax + quinn blogger | youtuber ♡
+    location: "United States"
+    followers: 25077
+    engagement: 279
+    commentsToLikes: 0.072548
+    id: ck0u8zpb88qpm0i1959se94fx
+    verified: false
+    hashtags: "#revolveambassador, #brotherandsister, #revolveme, #christmasdecor"
+  - username: "stylesrevealed"
+    fullname: >-
+      SUSAN
+    bio: >-
+      Affordable Fashion| Lifestyle| Boy 💙💙 Mom Let’s Collab 💌susan@stylesrevealed.com AZ Life 🌵 Love Target 🎯 & SALES🙌🏼 📍#Phoenix, AZ 🌵 Outfit Details ⬇️
+    location: "United States"
+    followers: 35565
+    engagement: 199
+    commentsToLikes: 0.064683
+    id: ck5c23bwtwguc0i111agtwl57
+    verified: false
+    hashtags: "#osmosocialclub, #liketkit, #myfabkids, #kingofchristmas"
+  - username: "_phoenix_brierre_"
+    fullname: >-
+      ph03n1x
+    bio: >-
+      Snap • phoenixcosato TikTok • phoenixxxx07 (240k) YouTube • Phoenix Cosato DM- for promotions & business
+    location: "United States"
+    followers: 15521
+    engagement: 2344
+    commentsToLikes: 0.019316
+    id: ckap8oylhpbau0i78lradagj3
     verified: false
     hashtags: ""
-  - username: "_breezybriii"
+  - username: "nextlevel_03"
     fullname: >-
-      Brianna Turner
+      Jevon Carter
+    bio: >-
+      Phoenix Suns 🏀 #NBA #WVUAlumni🏀 #ProvisoEast #NLP #Maywood #Illinois R.I.P. Grandma-Granddad❤️ 👻 Next_level02 For Any Inquiries- Email 📧
     location: "United States"
-    followers: 7803
-    engagement: 1835
-    commentsToLikes: 0.021311
-    id: ck5cb5ufhesi80i11z29pkdp7
+    followers: 65396
+    engagement: 709
+    commentsToLikes: 0.013394
+    id: ck0w0nykyf63l0i193ayi0wd8
     verified: true
-    hashtags: "#notdoneyet, #tourneytime, #11, #employed"
-  - username: "lyndenpartch"
+    hashtags: "#treadmillmentality, #bulldog, #blacklivesmatter"
+  - username: "phxrunnergurl"
     fullname: >-
-      LP
+      Brandilynn☀️🌵
+    bio: >-
+      ✨ Life's a garden. Dig it! ✨ #Sunshine chaser 🌞 Nature lover 🌈💚 Veggie🥑 Aspiring #trailrunner Phoenix, #Arizona 🌵🤘 13.1 x 14 26.2 x 4
     location: "United States"
-    followers: 7137
-    engagement: 1134
-    commentsToLikes: 0.042137
-    id: ck9h9zvzgamxn0j781q2x8jw3
+    followers: 6643
+    engagement: 610
+    commentsToLikes: 0.176532
+    id: ck0tx5qevi18w0i19nf7uuwrv
     verified: false
-    hashtags: ""
-  - username: "bbooks"
+    hashtags: "#runnershigh, #iloverunning, #hiking, #marathontraining"
+  - username: "alannas96"
     fullname: >-
-      Becca Booker | phoenix, az
+      Alanna Simone Smith
+    bio: >-
+      🇦🇺 A . S . S. WNBA #11 Phoenix Mercury Nike athlete |Former Stanford WBB 🏀🌲|
     location: "United States"
-    followers: 16269
-    engagement: 316
-    commentsToLikes: 0.082416
-    id: ck55peljtaehn0i116yuiiow8
+    followers: 14832
+    engagement: 1227
+    commentsToLikes: 0.015818
+    id: ckap7mvwtkogf0i782ayyxxea
+    verified: true
+    hashtags: "#roadtotokyo, #blackouttuesday, #blacklivesmatter, #domore"
+  - username: "cassidymendezona"
+    fullname: >-
+      Cassidy Mendezona
+    bio: >-
+      Phoenix, AZ 💌cassidymendezona@gmail.com
+    location: "United States"
+    followers: 29956
+    engagement: 193
+    commentsToLikes: 0.109241
+    id: ckaoss42nsupf0i785wryg7se
     verified: false
-    hashtags: "#igkpartner, #mykireimoments, #thisiskirei, #phxeats"
+    hashtags: "#lulusambassador, #lovelulus, #ad, #justfabpartner"
 ---

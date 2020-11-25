@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top yoga Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #yoga #beach #makeup #training.
+  Find top yoga Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #yoga #fitness #saopaulo #tbt.
 platform: Instagram
+hits: 36
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "corredoradavidareal"
+  - username: "memeriadoyoga"
     fullname: >-
-      Karina Teixeira
+      Memeria do Yoga
+    bio: >-
+      𝙍𝙞𝙧 é 𝙤 𝙢𝙚𝙡𝙝𝙤𝙧 𝙧𝙚𝙢é𝙙𝙞𝙤 ⠀ ⠀ ⠀ 𝘜𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘺𝘰𝘨𝘢 𝘦 𝘶𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘮𝘦𝘮𝘦 . 📧: memeriadoyoga@gmail.com . @hanumannyogi
     location: "Brazil"
-    followers: 42197
-    engagement: 98
-    commentsToLikes: 0.130969
-    id: ck6tuvulripn50j71dgfk69wo
+    followers: 22781
+    engagement: 794
+    commentsToLikes: 0.052869
+    id: ckap49dag6c6c0i78kml5erka
     verified: false
-    hashtags: "#repost, #jbnrun, #intervencaourbana, #euvivolavie"
-  - username: "paulinhateclasoficial"
-    fullname: >-
-      Paulinha🎹
-    location: "Brazil"
-    followers: 25246
-    engagement: 139
-    commentsToLikes: 0.042451
-    id: ck8t32z1p1njk0j789n1z9xoa
-    verified: false
-    hashtags: "#exercise, #pisadinha, #arredamento, #ncia"
-  - username: "rochagabbe"
-    fullname: >-
-      Gabriel Rocha
-    location: "Brazil"
-    followers: 20645
-    engagement: 498
-    commentsToLikes: 0.020881
-    id: ck5qdfo1qvc490i11vz5367zh
-    verified: false
-    hashtags: "#goodvibes, #phoda, #riachuelo, #makeupartist"
-  - username: "katalden"
-    fullname: >-
-      Katharine Alden
-    location: "Brazil"
-    followers: 36008
-    engagement: 322
-    commentsToLikes: 0.026701
-    id: ck5bxf2xznlpt0i11b8nd35n4
-    verified: false
-    hashtags: "#tattoosp, #pedalar, #yoga, #cobertura"
+    hashtags: ""
   - username: "saritalazzarini"
     fullname: >-
       Sarita Lazzarini
+    bio: >-
+      📍São Paulo ✨Healthy Lifestyle 🌸 Welcome 🌸
     location: "Brazil"
-    followers: 42220
-    engagement: 226
-    commentsToLikes: 0.040079
+    followers: 41980
+    engagement: 244
+    commentsToLikes: 0.040007
     id: ckap77eqpixza0i780ph5iy60
     verified: false
-    hashtags: "#spitzalemao, #brazil, #jetsurf, #verao2020"
-  - username: "thaiselima.personal"
+    hashtags: "#vidasaudavel, #doglovers, #dogsofinstagram, #publi"
+  - username: "vanessa.personal"
     fullname: >-
-      Thaíse Lima
+      Van Chinellato 💪❤
+    bio: >-
+      🔴Personal Trainer 🟢Cheerleader do PALMEIRAS 🔴Pós.Biomecânica, Aval fisica, Psicomotric. 🟢CREF 087514-G/SP ❤Se inscreva no canal !👇😘 #fitness
     location: "Brazil"
-    followers: 18915
-    engagement: 208
-    commentsToLikes: 0.030829
-    id: ck8tabi8br3vl0j78qlsrykkx
+    followers: 20048
+    engagement: 372
+    commentsToLikes: 0.090800
+    id: ck8t3l4kb3m5k0j78fjwh1608
     verified: false
-    hashtags: "#vida, #memories, #prote, #crian"
+    hashtags: "#mancha, #allianzparque, #qualidadedevida, #palestrinas"
+  - username: "flaviomonteiro___"
+    fullname: >-
+      Flavio Monteiro
+    bio: >-
+      @flashstarrj ⚡️ Faça o que é certo, não o que é fácil Escorpiano e surfista de alma 🦂🌊 Espirito de luz ✨
+    location: "Brazil"
+    followers: 15020
+    engagement: 329
+    commentsToLikes: 0.112611
+    id: ckaortnajop6h0i78sdw95trl
+    verified: false
+    hashtags: "#flashstarrj, #surf, #gratid, #tbt"
+  - username: "dorisrng"
+    fullname: >-
+      Dóris Rangel
+    bio: >-
+      Curitiba • São Paulo 🇧🇷 Miss Curitiba 2018 👑 espiritualidade • lifestyle Grupo Zoom Projeto Batom Vermelho
+    location: "Brazil"
+    followers: 18703
+    engagement: 441
+    commentsToLikes: 0.542289
+    id: ck5qdg7wmvf5q0i11r0ttflhw
+    verified: false
+    hashtags: "#geckoshostelsorteio, #adote, #curitiba, #ado"
   - username: "luadovalle"
     fullname: >-
-      LUÃ DO VALLE
+      LUÃ DO VALLE
+    bio: >-
+      • Ator | Modelo 🎭 • ADM/MKT | ESPM • T|kT0k (130k+) • Eterno aprendiz • São Paulo📍 • Canal no YouTube LV ®
     location: "Brazil"
-    followers: 38227
-    engagement: 152
-    commentsToLikes: 0.087499
+    followers: 45885
+    engagement: 264
+    commentsToLikes: 0.079335
     id: ck9hbzoxvj4q80j78tf8br63q
     verified: false
-    hashtags: "#sentimentos, #empreendedor, #carlinhosmaia, #vendas"
-  - username: "renatabardazzi"
+    hashtags: "#ouseuse, #turistando, #brazil, #tendencia"
+  - username: "juliopeixotto"
     fullname: >-
-      Renata Bardazzi
+      Julio Peixoto
+    bio: >-
+      São Paulo - SP 🔸 All about Pole Dance Instrutor residente @studiometropole Videoaulas/tutoriais⤵️
     location: "Brazil"
-    followers: 26832
-    engagement: 235
-    commentsToLikes: 0.028819
-    id: ck14gl17x5qq90i19n9sayl55
+    followers: 22689
+    engagement: 516
+    commentsToLikes: 0.050218
+    id: ck5zsrbxiz1qy0i14xvknq8c1
     verified: false
-    hashtags: "#aula, #zoommeeting, #live, #feedback"
-  - username: "rafadeieno"
+    hashtags: "#poledancerbr, #wegonthepole, #gymnastics, #poledance"
+  - username: "camilakaram"
     fullname: >-
-      Nutrição | Rafaella Deieno
+      Camila Karam
+    bio: >-
+      Médica, 27 anos, São Paulo 📩 contatocamilakaram@gmail.com 📬 Caixa Postal: 74416 CEP: 01531-970 São Paulo-SP
     location: "Brazil"
-    followers: 6516
-    engagement: 2081
-    commentsToLikes: 0.534880
-    id: ckaox6gm3bzu30i78zc0bcgl3
-    verified: false
-    hashtags: "#tiposdea, #chocolateamargo, #sorteiofit, #chocolatebranco"
-  - username: "walterkinder_"
+    followers: 277740
+    engagement: 538
+    commentsToLikes: 0.010182
+    id: ck5cguq5xpl0c0i11t1lo82f3
+    verified: true
+    hashtags: "#modeladores, #tbt, #zzmall, #zzinfluencer"
+  - username: "deborapagnoncelli"
     fullname: >-
-      Walter Kinder
+      🥥  D  É  B  O  R  A  🌴
+    bio: >-
+      Gaúcha em Morro de São Paulo - Bahia Alugo Casa e Pousada. Chama no direct 🤙🏽 🌿@primeira_praia_suites 🌴@voltailhamorro 🌴@tirolesamorrodesaopaulo
     location: "Brazil"
-    followers: 27136
-    engagement: 884
-    commentsToLikes: 0.013070
-    id: ck8t8ekopk5w30j78l4rqf4h8
+    followers: 39668
+    engagement: 119
+    commentsToLikes: 0.025239
+    id: ck5q281h5epdf0i11vlhfnzs6
     verified: false
-    hashtags: "#fabiojr, #psicologia, #sergioreis, #filhote"
+    hashtags: "#gratidao, #morrodesaopaulobahia, #morrodesaopaulo, #bahia"
+  - username: "rotaveg"
+    fullname: >-
+      RotaVEG | Victor
+    bio: >-
+      Não deixe para amanhã o que vc pode comer hoje! O RotaVEG é onde compartilho minhas veganices por aí! 🌱 (São Paulo/SP)
+    location: "Brazil"
+    followers: 61700
+    engagement: 172
+    commentsToLikes: 0.033112
+    id: ck602bgiqh2li0i14kbsilqek
+    verified: false
+    hashtags: "#rotaveg, #vegan, #govegan, #bolovegano"
 ---

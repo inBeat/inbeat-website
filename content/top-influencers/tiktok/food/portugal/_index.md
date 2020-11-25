@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Portugal In 2020
 description: >-
-  Find top food TikTok influencers in Portugal in 2020. Most popular hashtags: #love #food #funny #corona.
+  Find top food TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #foryou #portugal #viral.
 platform: TikTok
+hits: 11
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "claracarpegiani"
+  - username: "crank_lauren"
     fullname: >-
-      Clara Carpegiani
+      Lauren Crank
+    bio: >-
+      Pole. Food. Travel. Life. 🌎 Follow us on insta @polewithaview☝️🙌☺️
     location: "Portugal"
-    followers: 2539
-    engagement: 695
-    commentsToLikes: 0.019549
-    id: ckace972qlqy40i782py22g8d
+    followers: 8142
+    engagement: 1217
+    commentsToLikes: 0.014654
+    id: ckb9ofa5zisjr0j239xi50zs3
     verified: false
-    hashtags: "#pancake, #malfatti, #portugal, #noflour"
+    hashtags: "#portugal, #fyp, #foryoupage, #polefitnessgirl"
   - username: "rissoisecroquetes"
     fullname: >-
       Rissois e Croquetes
+    bio: >-
+      hi! Rissois and Croquetes to everyone!
     location: "Portugal"
-    followers: 4007
-    engagement: 1245
-    commentsToLikes: 0.006830
+    followers: 3882
+    engagement: 1229
+    commentsToLikes: 0.006727
     id: cka0fwep31lgf0i78yejo6x8n
     verified: false
-    hashtags: "#dancing, #brick, #clean, #orangesurgery"
-  - username: "diy4fun"
+    hashtags: "#foodsurgery, #coronavirus, #childhood, #fy"
+  - username: "diana13martins"
     fullname: >-
-      DIY4Fun
+      Diana Martins
+    bio: >-
+      Instagram: @diana13martins
     location: "Portugal"
-    followers: 62461
-    engagement: 1633
-    commentsToLikes: 0.009612
-    id: ck94kinoevazo0j78f30g5cjc
+    followers: 46200
+    engagement: 324
+    commentsToLikes: 0.012695
+    id: ckdhdlft2wo490j23l8wvr9qr
     verified: false
-    hashtags: "#table, #beach, #diycraft, #quartz"
-  - username: "saratapes"
+    hashtags: "#fyp, #beauty, #bread, #asmr"
+  - username: "nathalea15"
     fullname: >-
-      Sara Tapes
+      Nathália
+    bio: >-
+      🍋 insta 🍋 💫pessoal= @amaronathi 🎨 minha lojinha de arte= @amaroartt
     location: "Portugal"
-    followers: 31902
-    engagement: 1029
-    commentsToLikes: 0.022129
-    id: cka0fojld0l440i78r3qd2zs4
+    followers: 112000
+    engagement: 1638
+    commentsToLikes: 0.070742
+    id: ckb0pwyxrfqfk0j2386o2q9f5
     verified: false
-    hashtags: "#perguntas, #madewithlove, #friendzone, #singwithme"
-  - username: "realgonolivier"
+    hashtags: "#desenho, #desenhosnostalgicos, #disneyart, #ipaddrawing"
+  - username: "sestay"
     fullname: >-
-      Gonolivier
+      Maria Inês
+    bio: >-
+      SIGAM-ME NO INSTAGRAM come and fly with me 🦋 //PORTUGAL//
     location: "Portugal"
-    followers: 70012
-    engagement: 958
-    commentsToLikes: 0.009506
-    id: ckai478vjmtot0i780mqf37iz
+    followers: 49000
+    engagement: 1956
+    commentsToLikes: 0.018456
+    id: ckcj5oqwb5u5u0j23zb7g25ai
     verified: false
-    hashtags: "#greenscreen, #gloup, #balenciaga, #howtostylehair"
-  - username: "irisloveunicorns"
+    hashtags: "#viral, #vlogsestay, #minivlog, #foryou"
+  - username: "_andrezzanascimento_"
     fullname: >-
-      Ines Silva
+      Andrezza Nascimento
+    bio: >-
+      🇧🇷Eu brinco, mas também falo sério🇵🇹
     location: "Portugal"
-    followers: 33777
-    engagement: 934
-    commentsToLikes: 0.006104
-    id: cka6nwrfkd5ft0i782ax1h0xa
+    followers: 12900
+    engagement: 869
+    commentsToLikes: 0.048861
+    id: ckbfca0ut51440j23p8jgaifi
     verified: false
-    hashtags: "#food, #haircolor, #hairchange, #fashiondesigner"
-  - username: "wwfuncomedy"
+    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
+  - username: "monicaspassport"
     fullname: >-
-      worldwildfuncomedy
+      Mónica Moreira
+    bio: >-
+      The best thing you can do is travel ❤ Find more on instagram @monicaspassport
     location: "Portugal"
-    followers: 11720
-    engagement: 535
-    commentsToLikes: 0.014763
-    id: cka0y0cr89a2i0i78067qpr3c
+    followers: 23400
+    engagement: 338
+    commentsToLikes: 0.032249
+    id: ckcphb1prhftr0j231wf32yt6
     verified: false
-    hashtags: "#shitshow, #girls, #petlife, #snake"
+    hashtags: "#travel, #tiktoktravel, #vietnam, #hanoi"
+  - username: "brunorangelnaves"
+    fullname: >-
+      BRUNO RANGEL
+    bio: >-
+      Rumo aos 4K 🔥🔥🔥 siga-me no Instagram @brunoo_rangel
+    location: "Portugal"
+    followers: 4024
+    engagement: 509
+    commentsToLikes: 0.041709
+    id: ckdnnj47jk0450j23uefc6i6n
+    verified: false
+    hashtags: "#trend, #smile, #bloper, #foryou"
+  - username: "inesvalbento"
+    fullname: >-
+      Inês Val Bento
+    bio: >-
+      Follow me on IG 📸👆🏻 IG: inesvalbento Model
+    location: "Portugal"
+    followers: 164400
+    engagement: 663
+    commentsToLikes: 0.008410
+    id: ckbl4sedb29l30j23zao71zoz
+    verified: false
+    hashtags: "#boat, #couple, #fashion, #holidays"
   - username: "trainermiguel24"
     fullname: >-
       Sérgio Miguel Melo
+    bio: >-
+      
     location: "Portugal"
-    followers: 65371
-    engagement: 322
-    commentsToLikes: 0.012750
+    followers: 78900
+    engagement: 327
+    commentsToLikes: 0.011355
     id: ck9feix4tt6kr0j78wnl46uk0
     verified: false
-    hashtags: "#pushup, #chalange, #ceoof, #porto"
-  - username: "comewithus.pt"
-    fullname: >-
-      FRANCISCO & LUÍSA
-    location: "Portugal"
-    followers: 5587
-    engagement: 412
-    commentsToLikes: 0.014407
-    id: ck9fg81rk0mwt0j787b2k4cpa
-    verified: false
-    hashtags: "#viral, #foodporn, #quarentineweek, #tiktokmalaysia"
-  - username: "mafalda_teixeira"
-    fullname: >-
-      Mafalda Teixeira
-    location: "Portugal"
-    followers: 70172
-    engagement: 590
-    commentsToLikes: 0.006447
-    id: ck9gsj7a9iolh0j78a1gkbqaw
-    verified: false
-    hashtags: "#frozen, #workout, #losecontrol, #gabrielkapinha"
+    hashtags: "#tiktokchallenge, #business, #funny, #challenge"
 ---

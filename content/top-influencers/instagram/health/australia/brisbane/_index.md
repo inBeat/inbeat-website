@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top health Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #health #stayhome #coffee.
+  Find top health Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #love #health #goldcoast.
 platform: Instagram
+hits: 52
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 52 Instagram influencers like this in Brisbane, Australia for you to contact.
 profiles:
-  - username: "huubwattbike"
+  - username: "masphoto.official"
     fullname: >-
-      HUUB Wattbike p/b Vita Coco
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM or info@masphoto.com.au https://facebook.com/masphoto.official
     location: "Australia"
-    followers: 9215
-    engagement: 556
-    commentsToLikes: 0.009707
-    id: ck0w09y00d4zb0i193mvgjtdf
+    followers: 5106
+    engagement: 553
+    commentsToLikes: 0.033931
+    id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: "#cochabamba, #wattbikeatom, #sporttesting, #instacycling"
-  - username: "qutrealworld"
+    hashtags: "#fit, #brisbaneboudoirphotographer, #fitnessgraphy, #vibes"
+  - username: "aidan_the_dietitian"
     fullname: >-
-      QUT
+      Aidan Muir
+    bio: >-
+      🏃Accredited Sports Dietitian 🇦🇺 🍏 In-person & online consults 💪 Specialising in strength athletes 🏋️Aspiring powerlifter
     location: "Australia"
-    followers: 15910
-    engagement: 282
-    commentsToLikes: 0.019655
-    id: ckaoquuz1kicw0i78uob213z6
+    followers: 18836
+    engagement: 358
+    commentsToLikes: 0.058525
+    id: ck15sjsfvdd2y0i19ktzuvwgz
     verified: false
-    hashtags: "#yougotthis, #discoverbrisbane, #brisbanephotographer, #reflection"
+    hashtags: "#healthyeating, #sportsdietitian, #wellness, #macros"
+  - username: "themagicalozfamily"
+    fullname: >-
+      🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺
+    bio: >-
+      💗 All things family, parenting, teaching & mum'ing 💗 Australian Eco Warriors #Brisbane #TeacherLife #Familylife #mumlife
+    location: "Australia"
+    followers: 21239
+    engagement: 352
+    commentsToLikes: 0.125058
+    id: ck5heb7fms0k80i11budywgdn
+    verified: false
+    hashtags: "#mumlife, #womensfashion, #instamum, #parenting"
+  - username: "lindsayxlinay"
+    fullname: >-
+      Lindsay Christian Linay
+    bio: >-
+      Mental Health Advocate ♡ 9teen | Brisbane, Australia @luxefitness ↠ ‘LINDSAY10’ ✉️ lindsaylinay@gmail.com
+    location: "Australia"
+    followers: 10073
+    engagement: 783
+    commentsToLikes: 0.046261
+    id: ck5cj4p0qtz3l0i114cbacz7j
+    verified: false
+    hashtags: "#breastcancer, #youarenotyourthoughts, #youareenough, #feelyourbreast"
+  - username: "itsyaboypepsi"
+    fullname: >-
+      𝐏𝐞𝐩𝐬𝐢 𝐭𝐡𝐞 𝐂𝐨𝐜𝐤𝐞𝐫 𝐒𝐩𝐚𝐧𝐢𝐞𝐥 💫✨
+    bio: >-
+      🐶 + 👱🏼‍♀️ Pepsi and Kate from AUS 🇦🇺 🔮 Pawroscopes 📸 @kateydanger 💌 Contact us if you’re a pet friendly venue or accomodation 🙌🏽☕️
+    location: "Australia"
+    followers: 26255
+    engagement: 501
+    commentsToLikes: 0.037185
+    id: ck5cag6ysdcqq0i111a4as1nr
+    verified: false
+    hashtags: "#dogsofgoldcoast, #englishcockerspaniel, #puppyvideo, #goldcoast"
   - username: "tillyjacsmith"
     fullname: >-
       Tilly Smith ✨
+    bio: >-
+      Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
     location: "Australia"
-    followers: 72795
-    engagement: 116
-    commentsToLikes: 0.024657
+    followers: 72337
+    engagement: 165
+    commentsToLikes: 0.021177
     id: ck0tuasak6d8v0i19y86vgcd7
     verified: false
-    hashtags: "#samsungtribe, #galaxys20, #lockdownforlove, #earthday"
-  - username: "misskatiestevens"
+    hashtags: "#flawlessbeautyus, #sponsored, #rainbird, #partner"
+  - username: "katya_supernova"
     fullname: >-
-      KATIE STEVENS ⚡️ BRISBANE
+      Ekaterina
+    bio: >-
+      📍 🇦🇺 Model Food blog @katyas_foodblog Travel blog @ekaterina_travelblog
     location: "Australia"
-    followers: 136115
-    engagement: 82
-    commentsToLikes: 0.051771
-    id: ck0u7q3cg5gik0i19wi5gmeoa
+    followers: 218437
+    engagement: 248
+    commentsToLikes: 0.025952
+    id: ck13chibs0dd90i19cmt3vs2b
     verified: false
-    hashtags: "#happiness, #milliesmum, #sisters, #anzacathome"
-  - username: "anthonysemerad"
+    hashtags: "#jewelry, #jewelrycollection, #natural, #hypebeast"
+  - username: "ruan_sims"
     fullname: >-
-      ANTHONY SEMERAD (TWIN 2)
+      Ruan Sims
+    bio: >-
+      Jillaroos💛NSW💙CRL🧡Roosters🐓❤️🏉NRL Ambassador💚🚒Firefighter👩🏼‍🚒
     location: "Australia"
-    followers: 168649
-    engagement: 317
-    commentsToLikes: 0.009255
-    id: ck5cj2r1ptv0g0i11c7336mp8
+    followers: 14235
+    engagement: 696
+    commentsToLikes: 0.020809
+    id: ck6ue5vvrozvj0j7152g16xgn
     verified: true
-    hashtags: "#aiveeleague, #health, #travelphotography, #love"
-  - username: "brijadesnow"
+    hashtags: "#blonde, #nrlw, #rugby, #blueeyes"
+  - username: "jennybeeen"
     fullname: >-
-      ❄️👸🏼 Bri
+      Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
     location: "Australia"
-    followers: 13034
-    engagement: 618
-    commentsToLikes: 0.025013
-    id: ck6uch4bhfkp90j7104fcyf2l
+    followers: 7040
+    engagement: 1114
+    commentsToLikes: 0.223159
+    id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#tallgirlproblems, #instafood, #coffeeisessential, #flowers"
-  - username: "hannah.banana182"
+    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
+  - username: "tessalexander._"
     fullname: >-
-      🍌Hannah | Vegan Food Blogger
+      TESS ALEXANDER✨
+    bio: >-
+      ✖️Presenter/Host | Allied health | Miss World🇦🇺 ✖️Eternal SunSafety Advocate ✖️Brand Ambassador @queensplazabrisbane @cancercouncilqld #Brisbane
     location: "Australia"
-    followers: 9508
-    engagement: 1160
-    commentsToLikes: 0.125086
-    id: ck8ta008lpypk0j783602ryw5
-    verified: false
-    hashtags: "#smoothiebowlchallenge, #ausmusictshirtday"
-  - username: "lalasplate"
-    fullname: >-
-      L A R A 💗
-    location: "Australia"
-    followers: 11045
-    engagement: 1147
-    commentsToLikes: 0.146818
-    id: ck15tte3pjswb0i19uj4bboe5
-    verified: false
-    hashtags: "#organic, #iamwellandgood, #watertips, #nicecream"
-  - username: "biancadye"
-    fullname: >-
-      Radio TV Author Speaker Lover
-    location: "Australia"
-    followers: 16301
-    engagement: 226
-    commentsToLikes: 0.114499
-    id: ck6to0jwebfd50j71kfrzyr3y
-    verified: false
-    hashtags: "#journaling, #timeshavechanged, #lifequotes, #crucialconversations"
-  - username: "model_over50"
-    fullname: >-
-      Donna Anna
-    location: "Australia"
-    followers: 32847
-    engagement: 762
-    commentsToLikes: 0.052948
-    id: ck8tctjty0mgv0j78fjqn2tyd
-    verified: false
-    hashtags: "#plantbasedcoach, #whenthisisover, #athome, #50pluswomenrock"
+    followers: 51820
+    engagement: 136
+    commentsToLikes: 0.074067
+    id: ck13c850yz20n0i193i2hq997
+    verified: true
+    hashtags: "#queensplaza, #viktoriaandwoods, #racingfashion, #brisbane"
 ---

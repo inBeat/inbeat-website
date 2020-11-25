@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Chiang Mai In 2020
 description: >-
-  Find top Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #chiangmai #portrait #fashion #musclegay.
+  Find top Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #omgsportswear #onmygame #arirunning.
 platform: Instagram
+hits: 40
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 40 Instagram influencers like this in Chiang mai, Thailand for you to collaborate.
 profiles:
+  - username: "smallroom007"
+    fullname: >-
+      smallroom007
+    bio: >-
+      Chiang Mai,Thailand🇹🇭 street photo35mm
+    location: "Thailand"
+    followers: 7233
+    engagement: 1514
+    commentsToLikes: 0.029257
+    id: ck8sz6wsjnbls0j788nsmqxj5
+    verified: false
+    hashtags: ""
+  - username: "unnzlism"
+    fullname: >-
+      Kawee Kaweeruch
+    bio: >-
+      KIN’S Owner @orbcafechiangmai Co-Founder Chiang Mai , Thailand based
+    location: "Thailand"
+    followers: 17379
+    engagement: 403
+    commentsToLikes: 0.009689
+    id: ck5hikprke0pk0i11nqb5kz4d
+    verified: false
+    hashtags: "#fujifilmxt4"
   - username: "pansakul_pb"
     fullname: >-
       Pansakul_PB
+    bio: >-
+      🌱Chiang Mai Thailand🇹🇭 🌱อายุ38ปี โสด 🌱ดูแลสุขภาพ และควบคุมน้ำหนัก 🌱เลือกทานอาหาร Healthy&คลีนสายกลาง 🌱เน้นทานเยอะมื้อกลางวัน 🍎🍊🍏🍋🍠🌰🥥🌽 🥦🥕🍑🥩🍳🥛🍹🥙
     location: "Thailand"
-    followers: 41275
-    engagement: 96
-    commentsToLikes: 0.024875
+    followers: 40854
+    engagement: 95
+    commentsToLikes: 0.021366
     id: ck0txojufjwfx0i19deeens7j
     verified: false
-    hashtags: "#smoothie, #cheatmeal, #detox, #dinner"
+    hashtags: "#healthyfood, #breakfast, #cleanfood, #thaifood"
+  - username: "katmatcha"
+    fullname: >-
+      KATMATCHA ·͜·♡
+    bio: >-
+      ⊛ Canon 6D ⊛ 1992 , Chiangmai , THAILAND ⊛ THANKS FOR VISITING & DOUBLE TAP :)) ⊛ 🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
+    location: "Thailand"
+    followers: 41352
+    engagement: 1083
+    commentsToLikes: 0.006507
+    id: ck9wf1zyhmxn50j78w11zrrcg
+    verified: false
+    hashtags: "#teva, #reviewlampang, #bankpytpreset, #reviewchiangmai"
   - username: "pai_wichwasin"
     fullname: >-
       Pai.wichwasin
+    bio: >-
+      Chiangmai Thailand FB : Pai wichwasin Line : adaper (For work)
     location: "Thailand"
-    followers: 24012
-    engagement: 1025
-    commentsToLikes: 0.005773
+    followers: 26721
+    engagement: 733
+    commentsToLikes: 0.006222
     id: ck5q254euebek0i11v0w0fd3s
     verified: false
-    hashtags: "#covid, #lineman, #dongstyling, #ais5g"
-  - username: "katmatcha"
-    fullname: >-
-      KATT’s Gallery
-    location: "Thailand"
-    followers: 38288
-    engagement: 784
-    commentsToLikes: 0.003661
-    id: ck9wf1zyhmxn50j78w11zrrcg
-    verified: false
-    hashtags: "#travelwithcath, #tanachira, #reviewchiangmai, #adayinthailand"
+    hashtags: "#gymwear, #sportswear, #ss2020, #onmygame"
   - username: "bomes_kaweeya"
     fullname: >-
       🍃บ๋ อ ม 🍃
+    bio: >-
+      ♡ RUNNER ♡ AURORA CNX TEAM 💚 Chiangmai Thailand 🇹🇭
     location: "Thailand"
-    followers: 146794
-    engagement: 423
-    commentsToLikes: 0.008136
+    followers: 173210
+    engagement: 317
+    commentsToLikes: 0.006265
     id: ckaotbrnxv7q20i78mbbk6982
     verified: false
-    hashtags: "#sossensechiangmai, #sodaprinting, #movebibbelt, #arirunning"
-  - username: "krupim_buranasilpin"
-    fullname: >-
-      KRUPIM🎹
-    location: "Thailand"
-    followers: 35953
-    engagement: 236
-    commentsToLikes: 0.006968
-    id: ck0ucougchdqp0i191cm40qwp
-    verified: false
-    hashtags: "#salonpas, #chiangmai2020, #phiphiisland, #adidasrunning"
+    hashtags: "#garminthailand, #movebibbelt, #arirunning, #auroracnxteam"
   - username: "pinsrrp"
     fullname: >-
       P
+    bio: >-
+      Chiangmai |Thailand | Sacred Heart College | Management CMRU Thanks for follow me ♡
     location: "Thailand"
-    followers: 16495
-    engagement: 299
-    commentsToLikes: 0.004342
+    followers: 16830
+    engagement: 402
+    commentsToLikes: 0.005754
     id: ck13ay9c1srxw0i19w02n7o8u
     verified: false
-    hashtags: "#pantenerosewater, #highstreetglam, #iaura, #iaurathailand"
+    hashtags: "#iaura, #iaurathailand"
+  - username: "krupim_buranasilpin"
+    fullname: >-
+      KRUPIM🎹
+    bio: >-
+      THIPTAREE BURANASILPIN Music teacher || Pianist YRC44 || DURIYASILP45 PYU. Travel✈️ / Eat / Run Ib for work 💌 #CHIANGMAI #THAILAND
+    location: "Thailand"
+    followers: 35535
+    engagement: 228
+    commentsToLikes: 0.008168
+    id: ck0ucougchdqp0i191cm40qwp
+    verified: false
+    hashtags: "#adidasthailand, #adidasrunning, #dever, #nocare"
   - username: "b.thanakran"
     fullname: >-
       b.thanakran
+    bio: >-
+      blogger 📸 Chiangmai Thailand ○| coffee lover • • photo 📷 | cafe hopping ☕ ♡ Direct for work 👈🏻👈🏻👈🏻 Contact :thanakran.tbank@gmail.com
     location: "Thailand"
-    followers: 15192
-    engagement: 365
-    commentsToLikes: 0.008296
+    followers: 21424
+    engagement: 442
+    commentsToLikes: 0.005659
     id: ck0w6qrwk9uqt0i19drorjo73
     verified: false
-    hashtags: "#saveamask, #chiangmaicafe"
-  - username: "yuvalohayonn"
+    hashtags: "#chiangmaicafe"
+  - username: "mintminter"
     fullname: >-
-      𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
+      Parichat G.
+    bio: >-
+      Mechanical Engineering CMU Chiangmai, Thailand. @minter.made
     location: "Thailand"
-    followers: 13507
-    engagement: 2076
-    commentsToLikes: 0.086233
-    id: ck14lovy8vqz90i192uov048r
+    followers: 14412
+    engagement: 394
+    commentsToLikes: 0.010720
+    id: ckaous5b41kz70i7875mjn59g
     verified: false
-    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
-  - username: "guypiyapol"
-    fullname: >-
-      𝗚𝗨𝗬𝗣𝗜
-    location: "Thailand"
-    followers: 13254
-    engagement: 764
-    commentsToLikes: 0.001947
-    id: ck15qazc71yxd0i19jgtziti8
-    verified: false
-    hashtags: "#masscomm, #celebrate, #centralfestivalchiangmai, #centeroflife"
-  - username: "bear_pakornkrit"
-    fullname: >-
-      หนุ่มน่ากอด ปกรณ์กฤษณ์
-    location: "Thailand"
-    followers: 5527
-    engagement: 786
-    commentsToLikes: 0.035634
-    id: ck6u9v2c9zu1l0j71jkxo0w8e
-    verified: false
-    hashtags: "#tshirt, #lick, #chubby, #followme"
+    hashtags: "#musthave"
 ---

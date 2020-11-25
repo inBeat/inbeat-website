@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In New York In 2020
 description: >-
-  Find top fashion Instagram influencers in New York in 2020. Most popular hashtags: #fashion #newyorkcity #newyork #love.
+  Find top fashion Instagram influencers in New York in 2020. Most popular hashtags: #fashion #newyork #model #nyc.
 platform: Instagram
+hits: 1293
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1293 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "tatyana_nagayeva"
+  - username: "niki_inthecity"
     fullname: >-
-      Tatyana Nagaeva
+      Niki Mallikarachi
+    bio: >-
+      For the love of fashion New York, NY 🇱🇰
     location: "United States"
-    followers: 12714
-    engagement: 1025
-    commentsToLikes: 0.024131
-    id: ck15pkeyuybkp0i191g3y2beq
+    followers: 2481
+    engagement: 1065
+    commentsToLikes: 0.207811
+    id: ckaoqms00jeus0i78jafw58kt
     verified: false
-    hashtags: "#nycartdirector, #flower, #twiggy, #flowereditorial"
-  - username: "andreynikphoto"
+    hashtags: "#gifted, #campdonni, #auratenewyork, #partner"
+  - username: "sree.guha"
     fullname: >-
-      commercial photographer
+      Sree
+    bio: >-
+      📍NYC 🗽 fashion | feminism | beauty 👒 🇮🇳 X 🇬🇧 based in 🇺🇲 style blogger 👠 Email to collab ↘️
     location: "United States"
-    followers: 40773
-    engagement: 485
-    commentsToLikes: 0.027937
-    id: ck0tw8mj0edz70i19o8gor8xp
+    followers: 7085
+    engagement: 1105
+    commentsToLikes: 0.135733
+    id: ckf5w3dyhqpig0j23yhmmbely
     verified: false
-    hashtags: "#newyorkarea, #nyccommercialphotographer, #fashionmodeling, #photographernewyork"
-  - username: "iamjonathan_t"
+    hashtags: "#styleinspo, #ootd, #autumninnewyork, #outfitoftheday"
+  - username: "iamjarijones"
     fullname: >-
-      BE UNIQUE, BE YOURSELF 🇨🇴
+      Jari Jones
+    bio: >-
+      Actress /Model /Creativ /Activist 🇵🇭 + ✊🏾 CashApp : $IAMJARIJONES Fashion Inquiry: mgmt@iamjarijones.com Tv / Film Inquiry : ABrown@avalon-usa.com
     location: "United States"
-    followers: 2461
-    engagement: 1691
-    commentsToLikes: 0.503022
-    id: ck6u4isux3yvt0j712xgn5xpe
-    verified: false
-    hashtags: "#latino, #think, #food, #colombiano"
-  - username: "monsieurpoppi"
+    followers: 184644
+    engagement: 768
+    commentsToLikes: 0.013972
+    id: ck136yv708xx10i19iy0mo8le
+    verified: true
+    hashtags: "#freedom, #revolution, #editorialphotography, #campaign"
+  - username: "edelinfalcon"
     fullname: >-
-      𝑀𝑜𝑛𝑠𝑖𝑒𝑢𝑟 𝑃𝑜𝑝𝑝𝑖 🔆
+      Edelin Y Falcon
+    bio: >-
+      TAMUK’24 ✞ Pr/Collab’s - email or DM 💌
     location: "United States"
-    followers: 6454
-    engagement: 461
-    commentsToLikes: 0.049752
-    id: ck0vytixx5p810i19415dqnl9
+    followers: 4619
+    engagement: 1143
+    commentsToLikes: 0.085616
+    id: ck5zpeizysj2a0i14piotuf8t
     verified: false
-    hashtags: "#summer, #accessories, #silversterling, #wearedandy"
-  - username: "cheryl.tv"
+    hashtags: "#sections, #latina, #photooftheday, #loveyourself"
+  - username: "_theofficialmimiii"
     fullname: >-
-      Cheryl Martinez ®
+      Mercy🇳🇬
+    bio: >-
+      Self love is the real bag💕 📍NYC
     location: "United States"
-    followers: 61214
-    engagement: 43
-    commentsToLikes: 0.140155
-    id: ck5zy79xf9cvu0i14ln0a1180
+    followers: 2068
+    engagement: 1860
+    commentsToLikes: 0.046461
+    id: ckap0aec9pgok0i78e1po7m5z
     verified: false
-    hashtags: "#youtube, #kidsclothing, #onairhost, #health"
-  - username: "carlindarlin_"
+    hashtags: "#model, #binghamton, #castingcalls, #nycphotographer"
+  - username: "robinlirb"
     fullname: >-
-      ⚡️carlincanter⚡️
+      Ruo Bing Li
+    bio: >-
+      Photographer based in NYC and represented by @saintlukeartists
     location: "United States"
-    followers: 4162
-    engagement: 1300
-    commentsToLikes: 0.039290
-    id: ck5hcp32dj84e0i116ri45qfy
+    followers: 26381
+    engagement: 249
+    commentsToLikes: 0.011702
+    id: ck0ue8r87kr430i19s6i24xbo
     verified: false
-    hashtags: "#70s, #dj, #sanfrancisco, #sixties"
-  - username: "shilohpenfield"
+    hashtags: "#creativestudiomanager, #postproduction, #digitalart, #texture"
+  - username: "muhlisa_n"
     fullname: >-
-      Shiloh Penfield
+      🦋Muhlisa🦋
+    bio: >-
+      
     location: "United States"
-    followers: 3029
-    engagement: 3802
-    commentsToLikes: 0.028394
-    id: ck13bdicsuwn10i19unlde5ka
+    followers: 2479
+    engagement: 8314
+    commentsToLikes: 0.030019
+    id: ck138g7sxg2v50i19lcn64xfn
     verified: false
-    hashtags: "#funinthesun, #instagood, #illustrationnow, #cage"
-  - username: "yamirodriguez._"
+    hashtags: "#mood, #positivevibes, #newyorkcity, #quarantine"
+  - username: "franklin_vanderbilt"
     fullname: >-
-      Yamilet 🌸
+      FRANKLIN VANDERBILT
+    bio: >-
+      DRUMMER singer/songwriter/composer/actor/author - NYC & LA- Born in Chicago, IL
     location: "United States"
-    followers: 5101
-    engagement: 512
-    commentsToLikes: 0.064542
-    id: ck5hn6lpznayf0i11ohq32sf6
+    followers: 7983
+    engagement: 487
+    commentsToLikes: 0.068701
+    id: ck6tz0ln66ycw0j71ee7vteq3
     verified: false
-    hashtags: "#filashoes, #quarantine, #imancosmetics, #missguided"
-  - username: "czarinaofficial"
+    hashtags: "#rockandroll, #rocknroll, #actor, #igdaily"
+  - username: "kurnosova"
     fullname: >-
-      C Z A R I N A ®
+      Elena Kurnosova
+    bio: >-
+      NY-Muse models LA- LA models 🎶🔥🌎🎓📸📚🎨💋🌺🌊🐅🎶 #fashionmodel #model #nyfw ♣️⭐️💧♠️
     location: "United States"
-    followers: 31742
-    engagement: 269
-    commentsToLikes: 0.048476
-    id: ck0w2o1pnpcbu0i19w2iwyhck
-    verified: false
-    hashtags: "#robotech, #playstation4, #sephiroth, #drumandbass"
-  - username: "beylicious81"
+    followers: 108160
+    engagement: 154
+    commentsToLikes: 0.011284
+    id: ck14hgzyqaaai0i19t26xmnc4
+    verified: true
+    hashtags: "#nyfw, #runway, #cfda, #runwayshow"
+  - username: "nicolewilsonart"
     fullname: >-
-      Beyoncé🐝👑
+      Nicole Wilson | Artist
+    bio: >-
+      👩🏻‍🎨#Artist #Illustrator 📍NYC 💌 nicolewilsonart@gmail.com ❤️ Tag & credit me if you wish to share Personal IG : @nicolewilsonnyc COMMISSIONS OPEN
     location: "United States"
-    followers: 29606
-    engagement: 150
-    commentsToLikes: 0.026999
-    id: ck8t66gw3ceml0j783byc0zmk
+    followers: 10683
+    engagement: 303
+    commentsToLikes: 0.008523
+    id: ck5c38va2ytid0i11e7t3j58q
     verified: false
-    hashtags: "#daughter, #nickiminaj, #eyes, #whatwouldyoudo"
+    hashtags: "#design, #wildlife, #koala, #illustratorsoninstagram"
 ---

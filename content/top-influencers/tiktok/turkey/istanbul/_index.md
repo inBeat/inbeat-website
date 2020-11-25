@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Istanbul In 2020
 description: >-
-  Find top TikTok influencers in Istanbul in 2020. Most popular hashtags: #ke #19may #tiktokt #selam.
+  Find top TikTok influencers in Istanbul in 2020. Most popular hashtags: #tiktok #ke #istanbul #opposelfie.
 platform: TikTok
+hits: 470
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 470 TikTok influencers like this in Istanbul, Turkey for you to connect with.
 profiles:
-  - username: ".wolf7"
+  - username: "ekremnr"
     fullname: >-
-      çaqlar
+      Ekrem
+    bio: >-
+      İSTANBUL 𝓓𝓮𝓵𝓲𝓰𝓱𝓽🇹🇷
     location: "Turkey"
-    followers: 129154
-    engagement: 715
-    commentsToLikes: 0.011870
-    id: ck9a64ooj1mjf0j786gdxlv6m
+    followers: 15400
+    engagement: 925
+    commentsToLikes: 0.006388
+    id: ckd17beo7ois10j23uykwy23o
     verified: false
-    hashtags: "#fenerbah, #alik, #ankara, #1millionaudition"
+    hashtags: ""
+  - username: "turan.krc"
+    fullname: >-
+      Turan Kırıcı
+    bio: >-
+      İSTANBUL
+    location: "Turkey"
+    followers: 9918
+    engagement: 499
+    commentsToLikes: 0.015978
+    id: ckbf6k73iw9yb0j23u0widx3h
+    verified: false
+    hashtags: "#sendegittinherkesgibi, #benitan, #acayipiyi, #ke"
+  - username: "jasmincan35"
+    fullname: >-
+      yaseniya_Jasmin
+    bio: >-
+      💎İSTANBULL🇹🇷🤘🇦🇿🤘🇹🇷🤘🇦🇿 💎Tiyatrocu🎭💃 💎Yengeç Burcu 🦀 💎Evli💍
+    location: "Turkey"
+    followers: 15600
+    engagement: 2206
+    commentsToLikes: 0.104843
+    id: ckb9g57rd4z5j0j23q1accm7o
+    verified: false
+    hashtags: "#guzelinsanlar, #selam, #mutlu, #mutluak"
+  - username: "giresunlupolis"
+    fullname: >-
+      giresunlupolis
+    bio: >-
+      Karadenizli olmak ayrıcalıktır Bir İstanbul polisiyesi İnstagram @giresunlupolis
+    location: "Turkey"
+    followers: 23600
+    engagement: 1505
+    commentsToLikes: 0.101880
+    id: ckbq43kskqq8f0j23flonx1av
+    verified: false
+    hashtags: "#karadeniz, #polis, #giresun, #ist"
+  - username: "berfinmis"
+    fullname: >-
+      Berfin
+    bio: >-
+      Lyz-✨İnstagram (Berfinmis)✨ ⭐️🦋BÖFC🦋⭐️ 🖤 HEPIMIZI TANIR ISTANBUL 12 KASIM’DA
+    location: "Turkey"
+    followers: 1500000
+    engagement: 1664
+    commentsToLikes: 0.124037
+    id: cka6pcxp8j6aa0i78rctcls9k
+    verified: true
+    hashtags: "#hepimizitan, #voiceeffects, #catpat"
+  - username: "resulustaoglu34"
+    fullname: >-
+      RESUL USTAOĞLU
+    bio: >-
+      ASPANDA BÜRKÜT, JERDE KÖKBÖRÜ BOL! 🇹🇷 İSTANBUL KESFETTEN GELENLER TAKİP 👈
+    location: "Turkey"
+    followers: 12400
+    engagement: 2142
+    commentsToLikes: 0.035322
+    id: cka6nie98bjvp0i78aiwc45k9
+    verified: false
+    hashtags: "#basbug, #atam, #ulkucu, #turkes"
+  - username: "alcndmrrr62"
+    fullname: >-
+      Alican Demir ❤️6️⃣2️⃣ ރ
+    bio: >-
+      Dersîm🕊/Nazımîye Îstanbul 📍 Ya Xızır Tu Esta Mârê ❤️ ރ Hedef 6262🙏
+    location: "Turkey"
+    followers: 3596
+    engagement: 1703
+    commentsToLikes: 0.063817
+    id: ckc7kyy7mrtu40j23tgfljkxp
+    verified: false
+    hashtags: "#esmer, #alevigen, #tiktok, #zaza"
+  - username: "adem_albayrak"
+    fullname: >-
+      Adem albayrak
+    bio: >-
+      İSTANBUL•Ortaköy•Waffle• Senin Zirven Benim Basamağim😉😉
+    location: "Turkey"
+    followers: 4307
+    engagement: 983
+    commentsToLikes: 0.282988
+    id: ckbkmo43eg7zy0j236o3eicmi
+    verified: false
+    hashtags: "#ortamisalla, #igdir, #benioneal, #acayipiyike"
   - username: "emelkizilkaya7"
     fullname: >-
       💜EMEL💜EZEL💜
+    bio: >-
+      18💜06 İSTANBUL 💜KIZILKAYA AİLESİ💜 Gönlünde Kış Olanın,Ömrüne Bahar Gelmez
     location: "Turkey"
-    followers: 14193
-    engagement: 2342
-    commentsToLikes: 0.321822
+    followers: 19600
+    engagement: 1614
+    commentsToLikes: 0.040032
     id: ck9n4kblc4t0k0j784bqhchsf
     verified: false
-    hashtags: "#ebrug, #ejderhayad, #kemalsunal"
-  - username: "resulustaoglu34"
+    hashtags: "#efsaney, #sava, #pesetmekyok, #ke"
+  - username: "hasanyavuz3442"
     fullname: >-
-      Resul Ustaoğlu 
+      hasanyavuz3442
+    bio: >-
+      Bozuk bir karakterle kalbime oturma 12.12.1986 🎂 İstanbul 👍 konya👍
     location: "Turkey"
-    followers: 9287
-    engagement: 1826
-    commentsToLikes: 0.036182
-    id: cka6nie98bjvp0i78aiwc45k9
+    followers: 11200
+    engagement: 893
+    commentsToLikes: 0.091014
+    id: ckbqd00n9z05r0j23wn2by7et
     verified: false
-    hashtags: "#samsun, #koronavir, #askerr, #samsunspor"
-  - username: "berkobey0"
-    fullname: >-
-      😈 B E R K O 😈
-    location: "Turkey"
-    followers: 140492
-    engagement: 1390
-    commentsToLikes: 0.027958
-    id: ck8f9oq4v3vfw0j78fifxoe9i
-    verified: false
-    hashtags: "#slomotion, #fory"
-  - username: "ercandincok"
-    fullname: >-
-      Bize Her Yer Trbzon✅
-    location: "Turkey"
-    followers: 4950
-    engagement: 1168
-    commentsToLikes: 0.053755
-    id: cka0npnh50p670i78j4x6w96s
-    verified: false
-    hashtags: "#cbr250r, #yamaharx100, #kendinig, #dahamutluolamam"
-  - username: "ozgurmakbule"
-    fullname: >-
-      Makbule HanımKızınız
-    location: "Turkey"
-    followers: 198894
-    engagement: 914
-    commentsToLikes: 0.039526
-    id: cka7uh1ujrw420i786qk3889x
-    verified: false
-    hashtags: "#taslak, #arkaplan, #ho, #seabed"
-  - username: "kadir.wtf"
-    fullname: >-
-      Abdulkadir akyüz
-    location: "Turkey"
-    followers: 943252
-    engagement: 1355
-    commentsToLikes: 0.016875
-    id: ck8kcvtgh34yv0j7835woz64n
-    verified: true
-    hashtags: "#evdesporyap, #evdeki, #ke, #slowmoo"
-  - username: "bahaacebi"
-    fullname: >-
-      King bahaa
-    location: "Turkey"
-    followers: 106816
-    engagement: 1628
-    commentsToLikes: 0.021070
-    id: ckafukcwbat0i0i787phfz2qe
-    verified: false
-    hashtags: "#trending, #duet"
-  - username: "dilanyesill"
-    fullname: >-
-      Dilan yeşil
-    location: "Turkey"
-    followers: 18296
-    engagement: 1346
-    commentsToLikes: 0.015316
-    id: ckac48d42cdxx0i78k0cppxtj
-    verified: false
-    hashtags: "#selahatindemirta, #36"
-  - username: "aysecan72"
-    fullname: >-
-      Aysecan72
-    location: "Turkey"
-    followers: 2345
-    engagement: 1250
-    commentsToLikes: 0.019323
-    id: cka7oqywe3ob60i78km1ktbmq
-    verified: false
-    hashtags: "#72liler, #one, #ke, #kuzen"
+    hashtags: "#istanbul, #zeytinburnu, #canl, #sompo"
 ---

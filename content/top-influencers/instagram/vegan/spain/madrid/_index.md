@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Madrid In 2020
 description: >-
-  Find top vegan Instagram influencers in Madrid in 2020. Most popular hashtags: #vegan #yomequedoencasa #ootd #govegan.
+  Find top vegan Instagram influencers in Madrid in 2020. Most popular hashtags: #vegan #madrid #foodporn.
 platform: Instagram
+hits: 45
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 45 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "vegan_nia"
+  - username: "albertolancha"
     fullname: >-
-      Stefania Isabel 🇻🇪
+      Alberto Lancha
+    bio: >-
+      🌱 Vegano 📸 Comparto mi comida 🌍 Madrid 📩 albertolancha@nativetalents.es
     location: "Spain"
-    followers: 45692
-    engagement: 281
-    commentsToLikes: 0.057969
-    id: ckap1rkyjvtjj0i78o1mfjd9a
+    followers: 53323
+    engagement: 248
+    commentsToLikes: 0.039261
+    id: ck6tm1buo70ga0j71t392ibzd
     verified: false
-    hashtags: "#tbt"
+    hashtags: "#veganism, #handmade, #delicious, #healthy"
   - username: "deardiaryblog"
     fullname: >-
       Marta Martín
+    bio: >-
+      🐮 Vegan 🐷 🏠 Madrid 📩 Email: deardiaryfashion@gmail.com 🎥Youtube: DearDiaryBlog ⬇️⬇️
     location: "Spain"
     followers: 183856
     engagement: 726
     commentsToLikes: 0.011436
     id: ck5c30i0vycqg0i11wvbdgum0
     verified: false
-    hashtags: "#ad, #yomequedoencasa, #quedateencasa, #mbfwmadrid"
+    hashtags: "#mbfwmadrid, #ponstranslator, #vocabularytrainer, #ad"
   - username: "eliuseche"
     fullname: >-
       Elizabeth Useche
+    bio: >-
+      Made in Venezuela 🌱 Vegan 🐾 📍Madrid
     location: "Spain"
-    followers: 18052
-    engagement: 471
-    commentsToLikes: 0.015810
+    followers: 19124
+    engagement: 405
+    commentsToLikes: 0.012999
     id: ck6uaz4lz6je00j71qpzqeilz
     verified: false
-    hashtags: "#besties, #snowgirls, #quarantine, #missyou"
-  - username: "malvavela"
+    hashtags: "#love, #mipez, #squad, #justforpizzalovers"
+  - username: "portimismo"
     fullname: >-
-      -MALVA VELA-
+      Portimismo (Jen) 👩🏻♻️
+    bio: >-
+      ❤Comida Real, Fácil y #healthy 👪Mamá #japanlover ✈️FAN de VIAJES diferentes 💌Colaboración 🤗Haciendo familia en #instagram 💪Piens@➕ #comidaestrellada
     location: "Spain"
-    followers: 16327
-    engagement: 410
-    commentsToLikes: 0.006995
-    id: ck5qbvpe0nm230i1118mvkeb2
+    followers: 8583
+    engagement: 689
+    commentsToLikes: 0.421526
+    id: ckapcpw254q4w0i78s6ozn6k6
     verified: false
-    hashtags: "#liveinlevis"
-  - username: "vitali.bara"
+    hashtags: "#mamamolona, #challenging, #singluten, #foodart"
+  - username: "vegan_nia"
     fullname: >-
-      Model, Photographer & Director
+      Stefania Isabel
+    bio: >-
+      Como libros y plantas, pero no animales. . 📍 Madrid 🇻🇪🇪🇸 📸 YouTube: Vegan Nia
     location: "Spain"
-    followers: 24195
-    engagement: 88
-    commentsToLikes: 0.124812
-    id: ck5hg36vg0ouu0i11g6797jbw
+    followers: 45965
+    engagement: 249
+    commentsToLikes: 0.052930
+    id: ckap1rkyjvtjj0i78o1mfjd9a
     verified: false
-    hashtags: "#ootd, #beautyshoot, #behindthescenes, #carajo"
-  - username: "mercedes_debellard"
+    hashtags: "#tb"
+  - username: "pilotalba"
     fullname: >-
-      Mercedes deBellard
+      Alba
+    bio: >-
+      • #Pilot B737👩🏻‍✈️ • 🌱 based 🧘🏼Fitness lover. #Aviation enthusiast. Made in Barcelona.✨ 💌 albamangado@gmail.com
     location: "Spain"
-    followers: 36787
-    engagement: 573
-    commentsToLikes: 0.021537
-    id: ck0ubr0vhf2f10i19x2cznilo
+    followers: 33871
+    engagement: 296
+    commentsToLikes: 0.030071
+    id: ck0twclqmewa20i19f0iv9v8j
     verified: false
-    hashtags: "#process, #vanlife, #cosmos, #horses"
-  - username: "enterthevo11d"
+    hashtags: "#pilotalba, #pilotlife, #pilotlifestyle, #naturephotography"
+  - username: "sara_buzon"
     fullname: >-
-      DAIDA || ダイダ
+      Sara Buzón
+    bio: >-
+      Luz, textura y sabor. ❤️♥️♥️ Fotógrafa y estilista gastronómica. info@sarabuzon.com . @sarabuzon_retratos
     location: "Spain"
-    followers: 13361
-    engagement: 628
-    commentsToLikes: 0.030201
-    id: ck55ku97w03yq0i11ziwzx1p5
+    followers: 25722
+    engagement: 637
+    commentsToLikes: 0.123556
+    id: ck6tmic507wl00j7189kwukn9
     verified: false
-    hashtags: "#queso, #instagood, #outfits, #toddy"
-  - username: "lolasorrowstattoo"
+    hashtags: "#sarabuzon, #foodmadrid, #foodporn, #foodstyle"
+  - username: "joselu_zapata"
     fullname: >-
-      Lola Sorrows 🌈Tattoo Madrid❤️
+      JOSELU ZAPATA
+    bio: >-
+      🌱 Plant Based 📍 Madrid ✨ @nuenem
     location: "Spain"
-    followers: 28542
-    engagement: 297
-    commentsToLikes: 0.073424
-    id: ck5zy6wpk9c550i14ivhfem6l
+    followers: 17633
+    engagement: 499
+    commentsToLikes: 0.083656
+    id: ck15u9353m0w70i19xler85y2
     verified: false
-    hashtags: "#blacktattoos, #cosmicart, #astrologyblog, #horoscopedaily"
-  - username: "susiguty"
+    hashtags: "#retratofotografico, #sesiondefotos, #recetassaludables, #retrato"
+  - username: "loleetavonvil"
     fullname: >-
-      Susy GC
+      Loleeta - ella/she/her
+    bio: >-
+      👠 Vintage - Punk Rockabilly 🐰 Salud mental y mi vida 🍃 Vegan 👗 Estilista y pro MUAH @wloleeta 📍Madrid 📥 loleetawho@gmail.com
     location: "Spain"
-    followers: 15261
-    engagement: 448
-    commentsToLikes: 0.219819
-    id: ck5c5zmsz4fpq0i11dl5bwcd2
+    followers: 8403
+    engagement: 719
+    commentsToLikes: 0.039719
+    id: ckap2oowmznzw0i78tbt25p6v
     verified: false
-    hashtags: "#hellobereal, #haircolor, #valy, #look"
-  - username: "tia_alia"
+    hashtags: "#hollywoodflawlessfilter, #xovinyl, #snapshadows, #lolitaporvidapalette"
+  - username: "caroline_caroline_blg"
     fullname: >-
-      Carmen Tía Alia
+      C A R O L
+    bio: >-
+      👠Fashion 💄Beauty 🌍Traveller 🐶Dog lover 💃Dancer ✏️Teacher 🍜foodie 📍Madrid Descuento 15% @shein SMA88 Colaboraciones MD omail
     location: "Spain"
-    followers: 21834
-    engagement: 330
-    commentsToLikes: 0.063926
-    id: ck6trvcdb1at20j71j2wau7ls
+    followers: 43892
+    engagement: 188
+    commentsToLikes: 0.046015
+    id: ck5zywk34anmu0i14bwklxlxy
     verified: false
-    hashtags: "#chocolate, #simplepleasures, #lifeandthyme, #madrid"
+    hashtags: "#sheinlook, #cuidadopiel, #zarajeans, #photography"
 ---

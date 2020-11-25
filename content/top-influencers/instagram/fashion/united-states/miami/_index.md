@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Miami In 2020
 description: >-
-  Find top fashion Instagram influencers in Miami in 2020. Most popular hashtags: #fashion #miami #stayhome #love.
+  Find top fashion Instagram influencers in Miami in 2020. Most popular hashtags: #fashion #miami #miamibeach #love.
 platform: Instagram
+hits: 806
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 806 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "gmousalli"
+  - username: "melaniesanroman"
     fullname: >-
-      Georgette Mousalli
+      Melanie San Roman WBFF PRO
+    bio: >-
+      WBFF Bikini Model Pro 🥇 Playboy May 2020 @playboymagsweden Big Heart, Bigger Dreams 💕 Dm me for booking rates: paid shoots only 🌟 Dallas, Texas
     location: "United States"
-    followers: 10237
-    engagement: 996
-    commentsToLikes: 0.197784
-    id: ck8t8f6cck8dp0j78yqkv9elz
+    followers: 17158
+    engagement: 622
+    commentsToLikes: 0.058131
+    id: ck5c3g3lrz9730i11v1bdgis4
     verified: false
-    hashtags: "#hollistercollective"
-  - username: "ivan_baranchyk"
+    hashtags: "#training, #lingerie, #valentines, #wbff"
+  - username: "mattpluz"
     fullname: >-
-      Ivan Baranchyk
+      Matt Pluz™ Miami Photographer
+    bio: >-
+      📰 Internationally Published: Sport Illustrated, Forbes, Maxim, ELLE, L’Officiel, GRAZIA, InStyle, Ocean Drive, GQ, Billboard, NY Post 💵 Rates on site:
     location: "United States"
-    followers: 12599
-    engagement: 1245
-    commentsToLikes: 0.029301
-    id: ck6u1s49gnk3n0j71vppd5awr
-    verified: true
-    hashtags: "#wilder, #staystrong, #champion, #fashion"
-  - username: "misterlouieg"
-    fullname: >-
-      Louie G • Cicero Applegate
-    location: "United States"
-    followers: 20702
-    engagement: 245
-    commentsToLikes: 0.060502
-    id: ck5zno67dou260i14sy5wgn7u
+    followers: 91534
+    engagement: 101
+    commentsToLikes: 0.035535
+    id: ck0w5zs8f683m0i19zmqtv3g6
     verified: false
-    hashtags: "#lgsdirty30, #valentinesday, #male, #bdsm"
-  - username: "andressgarcia1"
+    hashtags: "#fashionmodel, #naturallight, #fashion, #miamiphotographer"
+  - username: "kikybou"
     fullname: >-
-      Andres Garcia
+      Kristelle  |  𝓚𝓲𝓴𝔂
+    bio: >-
+      Ottawa - Mtl - Miami 🌴🇨🇦🇺🇸 next 📍🔜: LA
     location: "United States"
-    followers: 17556
-    engagement: 549
-    commentsToLikes: 0.051662
-    id: ck6u1yp0moohb0j71sbzdr9iq
+    followers: 16424
+    engagement: 910
+    commentsToLikes: 0.055188
+    id: ck6tzz6elcpko0j71sr559vqu
     verified: false
-    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
-  - username: "rollsroyce_universe"
+    hashtags: "#fashionnova, #glow, #brunette, #novababe"
+  - username: "irynamiami"
     fullname: >-
-      Rolls Royce Universe Fan
+      Iryna  🇺🇦🇷🇺🇺🇸
+    bio: >-
+      📩DM for bookings 📸 💍Taken by @reefdiculous💞 🌟Living the Moment 💃🏼Internationally Published Model 🎭Actress 🧘🏼‍♀️Yoga
     location: "United States"
-    followers: 104720
-    engagement: 316
-    commentsToLikes: 0.005120
-    id: ck14km2hdq6jo0i195hyy1nxg
+    followers: 117581
+    engagement: 59
+    commentsToLikes: 0.058528
+    id: ck6tjewte2kz80j711o15tlum
     verified: false
-    hashtags: "#fashion, #miami, #gangsta, #mansory"
-  - username: "greatfrankfx"
+    hashtags: "#miami, #smile, #blonde, #fashion"
+  - username: "lifestyleguru_kd"
     fullname: >-
-      
+      Kenny Daniels
+    bio: >-
+      Lifestyle Influencer Content Creator & Certified Fitness Trainer @corefitnessmiami Papa Johns Code: KENNYCYLVIA25
     location: "United States"
-    followers: 43843
-    engagement: 10
-    commentsToLikes: 0.029175
-    id: ck139ykv7nrgv0i19ausyjnxd
+    followers: 14106
+    engagement: 505
+    commentsToLikes: 0.020349
+    id: ck0ttx9564ppl0i197dl4zukx
     verified: false
-    hashtags: "#rich, #stockmarket, #socialmedia, #ghana"
-  - username: "riamichelle"
+    hashtags: "#photoshoot, #fashionstyle, #mensshoes, #lululemon"
+  - username: "bianca_alexandraaa"
     fullname: >-
-      Ria Michelle - Miami Blogger
+      Baby Powder
+    bio: >-
+      Be the change you want to see in the world Collab- biancaoficialalexandra@yahoo.com
     location: "United States"
-    followers: 25183
-    engagement: 259
-    commentsToLikes: 0.056254
-    id: ck6ufiir7x99v0j71acvxs051
+    followers: 75970
+    engagement: 251
+    commentsToLikes: 0.007781
+    id: ck6u8pof3sxnh0j715xpd483r
     verified: false
-    hashtags: "#thenoisetier, #bloggerfashion, #inmyscrubs, #moneyback"
-  - username: "angelinalavo"
+    hashtags: "#pretty, #lincolnroad, #fashionstyle, #summervibes"
+  - username: "theresa.pichler"
     fullname: >-
-      Angelina Lavo
+      Theresa Pichler
+    bio: >-
+      FASHION DIRECTOR INSTYLE @instylegermany @instylemengermany CREATIVE DIRECTION & STYLING | co-founder | @thebaresea
     location: "United States"
-    followers: 628130
-    engagement: 132
-    commentsToLikes: 0.026125
-    id: ck6ue9eeypl340j712md7771x
-    verified: true
-    hashtags: "#traveler, #pillowchallenge, #beautybloggers, #hollywoodhills"
-  - username: "nataliiamakeupartist"
-    fullname: >-
-      Nataliia Nosokas
-    location: "United States"
-    followers: 14922
-    engagement: 154
-    commentsToLikes: 0.368588
-    id: ck14kyxbps0yi0i19qxl5xwsi
+    followers: 32250
+    engagement: 296
+    commentsToLikes: 0.031793
+    id: ck0w6xqpvaris0i1978ijnx5u
     verified: false
-    hashtags: "#food, #makeupblogger, #glammakeup, #colorfullmakeup"
-  - username: "neidyparraphotography"
+    hashtags: "#stilllife, #instylegermany, #fashion, #miami"
+  - username: "claudialabianca"
     fullname: >-
-      Neidy Parra Photography
+      Claudia La Bianca
+    bio: >-
+      Commissions & sales: info@claudialabianca.com
     location: "United States"
-    followers: 16637
-    engagement: 348
-    commentsToLikes: 0.041700
-    id: ck0uea5jukxn30i19ii90ptpk
+    followers: 23368
+    engagement: 186
+    commentsToLikes: 0.064192
+    id: ck5q2dk4dfh6f0i11l3w4ulmi
     verified: false
-    hashtags: "#winwoodwalls, #winwood, #mothersdaygift, #mothersday"
+    hashtags: "#graffitiart, #claudialabianca, #kimono, #streetart"
+  - username: "thebossmannmedia"
+    fullname: >-
+      Johnny Elizalde
+    bio: >-
+      Award Winning Editor-In-Chief : The BossMann Magazine @thebossmannmagazine | Artist Manager | Venture Coinist | Film production | Photography
+    location: "United States"
+    followers: 6474
+    engagement: 930
+    commentsToLikes: 0.010283
+    id: ck15u9w0ym4z50i1964go9iod
+    verified: false
+    hashtags: "#fashionblogger, #family, #blessed, #followyourdreams"
+  - username: "irisddiaz"
+    fullname: >-
+      IRIS
+    bio: >-
+      📍Miami ✈ 🇨🇺 👻 Diaz-Iris
+    location: "United States"
+    followers: 103024
+    engagement: 195
+    commentsToLikes: 0.036363
+    id: ck5hcy0f0kift0i11644737u0
+    verified: false
+    hashtags: "#jeans, #ootd, #blogger, #quarantineandchill"
 ---

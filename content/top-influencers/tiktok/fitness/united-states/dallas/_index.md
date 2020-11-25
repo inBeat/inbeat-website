@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Dallas In 2020
 description: >-
-  Find top fitness TikTok influencers in Dallas in 2020. Most popular hashtags: #quarantine #gonnabefriends #dallas #dance.
+  Find top fitness TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #duet #dallas #foryou.
 platform: TikTok
+hits: 32
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 32 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "rowheimfarooqui"
+  - username: "userfitmexicanmami"
     fullname: >-
-      Rowheim Farooqui
+      user4146004567236
+    bio: >-
+      Texicana 🇲🇽🇨🇱 Bodybuilding, mommy and just a quirky person 🤷🏻‍♀️❤️
     location: "United States"
-    followers: 16494
-    engagement: 505
-    commentsToLikes: 0.053791
-    id: cka0m6byru12m0i78lmj1hfa3
+    followers: 11400
+    engagement: 504
+    commentsToLikes: 0.025961
+    id: ckcogus7s3hoy0j23w5vluc84
     verified: false
-    hashtags: "#spanishtunes, #fitchick, #supercharger, #hair"
-  - username: "adrean_i"
+    hashtags: "#foryourpage, #duet, #mexicana, #fyp"
+  - username: "sumnerhaye"
     fullname: >-
-      Adrean Indolos
+      sumnerhaye
+    bio: >-
+      Professional Amateur Strongman Official GASP Ambassador
     location: "United States"
-    followers: 11439
-    engagement: 1054
-    commentsToLikes: 0.041216
-    id: ck8khqn6xnx9p0j78uauhpp1k
+    followers: 35600
+    engagement: 1227
+    commentsToLikes: 0.042557
+    id: ck9fm3kaer6gy0j78ctnobyv7
     verified: false
-    hashtags: "#model, #classof2020, #senior2020, #tutorial"
-  - username: "whtart"
+    hashtags: "#friday, #viral, #motivation, #strength"
+  - username: "stephenvtran"
     fullname: >-
-      William Toliver
+      stephenvtran
+    bio: >-
+      Discover Dallas with me 💎 Full episodes on IG: @stephenvtran
     location: "United States"
-    followers: 19897
-    engagement: 1661
-    commentsToLikes: 0.026683
-    id: cka0skbbxlxbo0i78drc2tac0
+    followers: 24600
+    engagement: 993
+    commentsToLikes: 0.037647
+    id: ckc7uqedyyjae0j23dw3s3m7r
     verified: false
-    hashtags: "#weeb, #collegememories, #curlyhair, #ownthecurve"
+    hashtags: "#dallasfood, #dallasfoodie, #dallas, #dallasdesserts"
+  - username: "denisefoleyisme"
+    fullname: >-
+      denisefoleyisme
+    bio: >-
+      Dr of Pharmacy 👩🏻‍⚕️💊 #Over40Club Just Having a Blast 🚀🤩 📍Dallas, TX ⭐️
+    location: "United States"
+    followers: 89000
+    engagement: 568
+    commentsToLikes: 0.048659
+    id: ckbqpaeg0a2zz0j23v6h6x1wj
+    verified: false
+    hashtags: "#over40club, #funny, #oldschoolmusic, #genx"
   - username: "jeanineamapola"
     fullname: >-
       JeanineAmapola
+    bio: >-
+      All glory to God 🙏🏼 LA & Dallas 📍 26 yrs old IG & YouTube - JeanineAmapola
     location: "United States"
-    followers: 7056
-    engagement: 892
-    commentsToLikes: 0.027202
+    followers: 19700
+    engagement: 932
+    commentsToLikes: 0.024189
     id: ck8070i3onn080j78jrgz5fh8
+    verified: true
+    hashtags: "#fyp, #sing, #christian, #christiantiktok"
+  - username: "james_baldwin37"
+    fullname: >-
+      James Baldwin
+    bio: >-
+      Dallas, TX⭐️ 🇵🇭 🇹🇭 🎙@theultimatebreakdown on Spotify "Baldwin37" --10% OFF
+    location: "United States"
+    followers: 44300
+    engagement: 1139
+    commentsToLikes: 0.041599
+    id: ckb9d6b49077c0j23coite7ts
     verified: false
-    hashtags: "#superbowlliv, #dance, #challenge, #ownthecurve"
+    hashtags: "#fyp, #foryoupage, #viral, #greenscreen"
+  - username: "rowheimfarooqui"
+    fullname: >-
+      Rowheim Farooqui
+    bio: >-
+      Dallas TX 🇺🇸🇵🇰 Click here 👇 to get that entrepreneur lifestyle 😎
+    location: "United States"
+    followers: 93800
+    engagement: 642
+    commentsToLikes: 0.158832
+    id: cka0m6byru12m0i78lmj1hfa3
+    verified: false
+    hashtags: "#car, #ecommerce, #chevy, #plano"
+  - username: "jonybarra7"
+    fullname: >-
+      Tatos.Bar
+    bio: >-
+      Dallas tattooist Dancer si te gustan los Tattoos follow me on my business IG
+    location: "United States"
+    followers: 15374
+    engagement: 831
+    commentsToLikes: 0.058983
+    id: ckb0uggmtjrgy0j23ys9aeeyt
+    verified: false
+    hashtags: "#followme, #dallas, #tiktok, #newyork"
   - username: "mrhotfitness"
     fullname: >-
       Curtis Robinson
+    bio: >-
+      Owner of Hot Fitness Global Online Personal Trainer SC=trucurt
     location: "United States"
-    followers: 40312
-    engagement: 964
-    commentsToLikes: 0.067941
+    followers: 65100
+    engagement: 1578
+    commentsToLikes: 0.078441
     id: ck9slbv66d4i40j78nh444u6n
     verified: false
-    hashtags: "#enforcer, #drawing, #nsfw, #trainerproblems"
-  - username: "rolandsvp"
+    hashtags: "#teamhotfitness, #mrhotfitness, #stitch, #onlinepersonaltrainers"
+  - username: "billythebodybuilder_"
     fullname: >-
-      Roland Pollard
+      Billy Morehead
+    bio: >-
+      👀 Road To 13k Fitness/Sports Business/Collaboration positivevibesFL@yahoo.com
     location: "United States"
-    followers: 412282
-    engagement: 2144
-    commentsToLikes: 0.013769
-    id: ck8f7865n2vpx0j78h5s20p5m
+    followers: 12400
+    engagement: 1118
+    commentsToLikes: 0.082753
+    id: ckbwhzbqs311u0j238um7cj28
     verified: false
-    hashtags: "#toddler, #dadlife, #randomthings, #goingpro"
-  - username: "gillliekwhoa"
-    fullname: >-
-      Gillian Clark
-    location: "United States"
-    followers: 11888
-    engagement: 1146
-    commentsToLikes: 0.039614
-    id: ck92y9hsy22e00j78zee1kz91
-    verified: false
-    hashtags: "#travel, #shuffle, #dallas, #louisthechild"
-  - username: "hector.marchena"
-    fullname: >-
-      Hector Marchena
-    location: "United States"
-    followers: 228285
-    engagement: 692
-    commentsToLikes: 0.004699
-    id: ck81s4l9gpxt90j78lwim9o8e
-    verified: false
-    hashtags: "#adventure, #ironaddict, #california, #switch"
-  - username: "kimsantos.ifbb"
-    fullname: >-
-      Kim Santos
-    location: "United States"
-    followers: 36943
-    engagement: 579
-    commentsToLikes: 0.010920
-    id: ck9gm86gkr7800j78dgz5c5xl
-    verified: false
-    hashtags: "#fitover40, #pullups, #back, #triceps"
-  - username: "josh__slocum"
-    fullname: >-
-      Josh Slocum
-    location: "United States"
-    followers: 2022
-    engagement: 1113
-    commentsToLikes: 0.068486
-    id: ckamwjpbi8u5r0i786ktr4p8u
-    verified: false
-    hashtags: "#vogue, #repost, #eatemup, #bouldercolorado"
+    hashtags: "#greenscreen, #horrortok, #yougotthis, #wewintogether"
 ---

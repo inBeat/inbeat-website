@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #hudabeauty #dxb #quarantine #bloggers.
+  Find top Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #mydubai #mountainstories.
 platform: Instagram
+hits: 1874
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 1874 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "asalamaleh"
+  - username: "gisoodiba"
     fullname: >-
-      Asala Maleh | اصالة المالح
+      GISOO DIBA
+    bio: >-
+      Beauty & makeup Youtube:Gisoodiba Businesses:gisoodiba@gmail.com www.gisoodiba.com 💍@navidaneshfar Based in dubai
     location: "United Arab Emirates"
-    followers: 1722399
-    engagement: 1052
-    commentsToLikes: 0.031220
-    id: ck5c4j30v1gky0i11a6sxn2fr
+    followers: 520695
+    engagement: 1364
+    commentsToLikes: 0.160568
+    id: ck6u5giqa9i3g0j71azzfhbkm
     verified: false
-    hashtags: "#hudabeauty, #quarantineday11, #slave2beauty, #riyadhxanasalafamily"
-  - username: "michellebouchet"
+    hashtags: "#beautyblogger, #tartecosmetics, #hudabeauty, #makeuplook"
+  - username: "_inside.dubai_"
     fullname: >-
-      Michelle Louise Bouchet
+      INSIDE DUBAI
+    bio: >-
+      𝗧𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂 𝗜𝗡𝗦𝗜𝗗𝗘 𝗗𝘂𝗯𝗮𝗶 🇦🇪 ▪️All Access into everything Dubai ▪️BTS your Fave Hotels & Venues ▪️News & Reviews Travel | Tourism | Fashion | Lifestyle
     location: "United Arab Emirates"
-    followers: 2399
-    engagement: 3248
-    commentsToLikes: 0.135726
-    id: ckap8otwzparf0i78uqx0bqod
+    followers: 23767
+    engagement: 1300
+    commentsToLikes: 0.151237
+    id: ck5hldlmok0we0i11xyeq5mcx
     verified: false
-    hashtags: ""
-  - username: "daitoledo"
+    hashtags: "#lifestyle, #insidelifestylegroup, #insidelifestyle, #dubai"
+  - username: "fayematthews"
     fullname: >-
-      🌸 DAIANA 🌊 |📍Dubai
+      F M
+    bio: >-
+      ‎ اف ام 📍 Dubai, UAE ✨ @essentials.fm ✉️ Enquires: faye.ellen@icloud.com
     location: "United Arab Emirates"
-    followers: 19420
-    engagement: 992
-    commentsToLikes: 0.068156
-    id: ck5hldq6kk15d0i110yy3pl9g
+    followers: 11183
+    engagement: 1262
+    commentsToLikes: 0.175066
+    id: ck0tskaks05440i195vorsxxr
     verified: false
-    hashtags: "#goldenlifeuae, #goldcardvisauae, #mycafu, #happyfueling"
-  - username: "maruffofficial"
+    hashtags: "#prettylittlething, #sheingals"
+  - username: "missleekong"
     fullname: >-
-      Maruf Sidikov
+      Sigh-E-DUH
+    bio: >-
+      Entrprenuer| Influencer ONLY SOCIAL MEDIA PAGE! 📧 info@saidaiman.com 🛍 @elektrikswim @misshautemess.shop
     location: "United Arab Emirates"
-    followers: 5741
-    engagement: 1781
-    commentsToLikes: 0.079605
-    id: ck6tn7y7v9bar0j718mgva39d
+    followers: 154920
+    engagement: 645
+    commentsToLikes: 0.039980
+    id: ck6tpnx00l0ax0j711uayneix
     verified: false
-    hashtags: "#show, #saintlaurent, #bottegaveneta, #instamodel"
-  - username: "iam_dimah"
+    hashtags: "#ad, #pinchmepartner, #pinchmeinfluence, #plt"
+  - username: "gabrielaashraf"
     fullname: >-
-      Dimah Sαℓmαη
+      Gabriela Ashraf
+    bio: >-
+      🧿 📍 | Dubai | UK|
     location: "United Arab Emirates"
-    followers: 44194
-    engagement: 1333
-    commentsToLikes: 0.047777
-    id: ckaotdykmvigu0i78yxnzp18r
-    verified: false
-    hashtags: "#ramadan, #eidoutfit, #nasa, #mysticpopupbar"
-  - username: "fashionby.blossom"
-    fullname: >-
-      Blossom 🤎
-    location: "United Arab Emirates"
-    followers: 283174
-    engagement: 1168
-    commentsToLikes: 0.031843
-    id: ck14j5ak9ip850i1959o6vr5m
-    verified: false
-    hashtags: "#luna3, #poweryourbeauty, #dubai, #hairkids"
-  - username: "sophieparvizi"
-    fullname: >-
-      Sophie Parvizi
-    location: "United Arab Emirates"
-    followers: 12169
-    engagement: 1490
-    commentsToLikes: 0.064284
-    id: ck15u18upkxfl0i19f2hpjwlk
+    followers: 2460
+    engagement: 2873
+    commentsToLikes: 0.125415
+    id: ck6ub48oa7dbq0j716i4a6350
     verified: false
     hashtags: ""
-  - username: "ibra.al.h"
+  - username: "ikkudu"
     fullname: >-
-      IBRAHIM إبراهيم الحُمّادة🇸🇾🇦🇪
+      Mohammad irfan
+    bio: >-
+      ﷽ ↺ 𝗿𝗲𝗺𝗲𝗺𝗯𝗲𝗿 𝘄𝗵𝘆 𝘆𝗼𝘂 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 ➭ • Kochi ✈📍dubai🇦🇪
     location: "United Arab Emirates"
-    followers: 92797
-    engagement: 961
-    commentsToLikes: 0.041836
-    id: ckap5bz2nazk10i78xz3ynxyo
+    followers: 6975
+    engagement: 1912
+    commentsToLikes: 0.156996
+    id: ck9whqmk8z1ew0j784jeytfb7
     verified: false
-    hashtags: "#blackandwhite, #goodnight, #blogge, #bloggers"
+    hashtags: "#shimano, #jig, #shimanoreels, #fishing"
+  - username: "anushayyofficial"
+    fullname: >-
+      𝒜𝓃𝓊𝓈𝒽𝒶𝓎👑
+    bio: >-
+      🇵🇰🇦🇪 𝐵𝓁𝑒𝓈𝓈𝑒𝒹 𝒜𝓁𝓁𝒽𝓊𝓂𝒹𝓊𝓁𝓁𝒾𝓁𝒶𝒽❤️ 𝗗𝗠 𝗙𝗢𝗥 𝗣𝗔𝗜𝗗 𝗣𝗥𝗢𝗠𝗢𝗧𝗜𝗢𝗡 & 𝗣𝗥✨ PINDI // AUH 👅♥️
+    location: "United Arab Emirates"
+    followers: 5203
+    engagement: 1734
+    commentsToLikes: 0.110776
+    id: ckaozj1dgm3n20i787wzbb0no
+    verified: false
+    hashtags: "#explorepage, #explore, #exploremore"
   - username: "laillimirza"
     fullname: >-
       Lailli Mirza
+    bio: >-
+      @bioliteuae | @petitethebrand not an influencer but sometimes I make YouTube videos ↓
     location: "United Arab Emirates"
-    followers: 162824
-    engagement: 642
-    commentsToLikes: 0.038330
+    followers: 178560
+    engagement: 850
+    commentsToLikes: 0.039389
     id: ck5c6m7q35qb00i11uou68lo6
     verified: false
-    hashtags: "#ootd, #chanelss20, #louboutin, #stayhome"
-  - username: "faizal_5zyy"
+    hashtags: "#vertcriquet, #hermeskelly, #hermes, #kelly25"
+  - username: "hud_a96"
     fullname: >-
-      Faizal5zyy
+      هدى عادل | Huda Adil
+    bio: >-
+      OFFICIAL Account🦄 قناتي الرسمية على التلكرام ❤️👇🏻
     location: "United Arab Emirates"
-    followers: 60228
-    engagement: 636
-    commentsToLikes: 0.067153
-    id: ck9wg53qbrxqf0j78dlt2d0ot
+    followers: 1282670
+    engagement: 767
+    commentsToLikes: 0.039392
+    id: ck9whssp8zbnr0j78yq90xsd5
     verified: false
-    hashtags: "#maskandgloves, #selfyfreak, #dxblife, #love"
+    hashtags: ""
+  - username: "bbb.vip"
+    fullname: >-
+      BAHJAT / بهوجي السامرائي ❤️
+    bio: >-
+      #كويس_بهوجي 👍🏻 🔴IRAQ 🇮🇶DUBAI 🇦🇪 ‎⚫️‏Snapchat / Bvipp 👻 ‎🔴 @bbbb.vip تيشيرتات 👕💸 ‎🏁🏁🚘🚗❤️🚘🚗🏁🏁 ‎ للإعلانات التواصل على الدايرکت
+    location: "United Arab Emirates"
+    followers: 110823
+    engagement: 680
+    commentsToLikes: 0.152565
+    id: ckap8v9c4q1oa0i78cw0wfdmu
+    verified: false
+    hashtags: "#ig, #vibesofvisuals, #mountainstories, #moodygrams"
 ---

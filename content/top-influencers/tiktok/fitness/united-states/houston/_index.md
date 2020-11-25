@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Houston In 2020
 description: >-
-  Find top fitness TikTok influencers in Houston in 2020. Most popular hashtags: #fitness #funny #houston #quarantine.
+  Find top fitness TikTok influencers in Houston in 2020. Most popular hashtags: #fyp #foryoupage #houston #fitness.
 platform: TikTok
+hits: 32
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 32 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "jackienotjaclyn"
+  - username: "emmietanner25"
     fullname: >-
-      Jackie Brown
+      Emily Tanner
+    bio: >-
+      Fitness, flips & pups with a dash of dance
     location: "United States"
-    followers: 6471
-    engagement: 887
-    commentsToLikes: 0.025691
-    id: cka0iw6lcfjur0i781wal2weg
+    followers: 16400
+    engagement: 651
+    commentsToLikes: 0.016553
+    id: ckbkf1gb15x5h0j236odumf62
     verified: false
-    hashtags: "#tiktalk, #growingup, #running, #tiktokchallenge"
+    hashtags: "#fyp, #witnessmyfitness, #crossfit, #inyourface"
+  - username: "farhan_siddiqui3"
+    fullname: >-
+      farhan_siddiqui
+    bio: >-
+      YouTube: Neanderthals (Farhan Siddiqui) Snap: Farhan_Siddiqui
+    location: "United States"
+    followers: 39800
+    engagement: 1034
+    commentsToLikes: 0.452273
+    id: ckactrz69fiy60i78izn3nuek
+    verified: false
+    hashtags: "#shoeart, #foryoupage, #xyzbca, #anime"
+  - username: "samcando"
+    fullname: >-
+      Sam Jordan Hernandez
+    bio: >-
+      The glowforge lady from youtube SAM CAN DO Venmo - @Samcando
+    location: "United States"
+    followers: 32600
+    engagement: 1408
+    commentsToLikes: 0.040417
+    id: ck9fdjyz4owcj0j7867g051de
+    verified: false
+    hashtags: "#viral, #foryou, #fyp, #momsoftiktok"
+  - username: "emantheegyptian"
+    fullname: >-
+      Eman
+    bio: >-
+      professional hype woman always smiling ig: thedailyeman cash app: $ehass14
+    location: "United States"
+    followers: 6482
+    engagement: 768
+    commentsToLikes: 0.012623
+    id: ckb9bhm9vxrwf0j235up6r0b3
+    verified: false
+    hashtags: "#glowup, #everydayscience, #fyp, #weightloss"
   - username: "houstontips"
     fullname: >-
       houstontips
+    bio: >-
+      HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
     location: "United States"
-    followers: 5404
-    engagement: 257
-    commentsToLikes: 0.028685
+    followers: 5484
+    engagement: 389
+    commentsToLikes: 0.032403
     id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#allenparkway, #meme, #shirts, #flood"
-  - username: "nicolecreationshouston"
+    hashtags: "#houstonfood, #houston, #houstontx, #car"
+  - username: "kiddkrazy77"
     fullname: >-
-      user8789984091255
+      Kiddkrazy77
+    bio: >-
+      30 yrs old 👨🏾‍🦳 Made a wrong turn looking for IG 🤷🏾‍♂️ HTX🤘🏾
     location: "United States"
-    followers: 23815
-    engagement: 516
-    commentsToLikes: 0.011709
-    id: ckaccor4wib450i78yq4ih4mu
+    followers: 27400
+    engagement: 563
+    commentsToLikes: 0.039214
+    id: ckbw5pku8y2lf0j23v2nj1i1i
     verified: false
-    hashtags: "#notwhatyouthink, #clonesquad, #quarentinecheck, #mother"
-  - username: "ed_winwinwin"
+    hashtags: "#blacklivesmatter, #fyp, #foryoupage, #funny"
+  - username: "fitwnickolee"
     fullname: >-
-      Ed M
+      Nicole ❣️
+    bio: >-
+      WELCOME TO MY FITNESS PAGE Mom of Mace ❤️ HOUSTON TX 🚀 Personal T .
     location: "United States"
-    followers: 17767
-    engagement: 1140
-    commentsToLikes: 0.074689
-    id: ck9fpazqi6i3d0j78sh4apduh
+    followers: 27100
+    engagement: 751
+    commentsToLikes: 0.009364
+    id: ckbf7nxfhxm1o0j23atzndbpq
     verified: false
-    hashtags: "#beauty, #simp, #jill, #lucky"
-  - username: "dadofteenagers78"
+    hashtags: "#workout, #gym, #foryoupage, #fyp"
+  - username: "schlittesboxing"
     fullname: >-
-      Reynaldo Batista
+      Schlitte’s Boxing
+    bio: >-
+      Houston, TX. Boxing is Life. Follow us on IG and FB @schlittesboxingandfitness
     location: "United States"
-    followers: 44845
-    engagement: 1495
-    commentsToLikes: 0.091210
-    id: cka0tgd5zpul80i78i53mjkz5
+    followers: 23200
+    engagement: 703
+    commentsToLikes: 0.014926
+    id: ckcujfjotgfzg0j23jre9gr5f
     verified: false
-    hashtags: "#familytime, #bluelivesmatter, #acnh, #caring"
-  - username: "brendanorlando57"
+    hashtags: "#sports, #sparringhighlights, #viral, #sparring"
+  - username: "yoncetv"
     fullname: >-
-      Brendan Orlando
+      Yoncé Tv
+    bio: >-
+      ✨Biggest Beyoncé Platform on Instagram 🎞HD video source @yoncelive Instagram
     location: "United States"
-    followers: 16461
-    engagement: 801
-    commentsToLikes: 0.020050
-    id: ckan20echy5jr0i78dfh9gbri
+    followers: 30400
+    engagement: 496
+    commentsToLikes: 0.005810
+    id: ckbfdgk8j6wvt0j23r1ate11r
     verified: false
-    hashtags: "#wenching, #happiness, #holdon, #glowup"
-  - username: "6foot9guju"
+    hashtags: "#tiktok, #viral, #otr2, #tiktokkosova"
+  - username: "j_raw17"
     fullname: >-
-      Abhishek
+      J_Raw17
+    bio: >-
+      Follow me 💓 Twitter: @jonaemalbrough Insta : J_raw17 Snap : J_Malbrough17
     location: "United States"
-    followers: 23996
-    engagement: 731
-    commentsToLikes: 0.037765
-    id: ck8p078mqfdmr0j78h3ehxy4b
+    followers: 8931
+    engagement: 1066
+    commentsToLikes: 0.062319
+    id: ckbbbq9rw0sjz0j23hgxdc7f0
     verified: false
-    hashtags: "#wedding, #boxing, #miketyson, #fitness"
-  - username: "yogijaz"
-    fullname: >-
-      Yogi Jaz Porter
-    location: "United States"
-    followers: 11140
-    engagement: 854
-    commentsToLikes: 0.017931
-    id: ck9v5ssknznbe0j789p5m9qx1
-    verified: false
-    hashtags: "#fabletics, #mycrib, #transformation, #tylerperry"
-  - username: "kbscrewhead"
-    fullname: >-
-      KB ScrewHead
-    location: "United States"
-    followers: 10946
-    engagement: 597
-    commentsToLikes: 0.041506
-    id: cka8exeghzrpg0i78xqxy9wrl
-    verified: false
-    hashtags: "#waitforit, #jerkoff, #reallifeathome, #theupsidedown"
-  - username: "9mayraalejandra"
-    fullname: >-
-      Health & Beauty 💪🏻
-    location: "United States"
-    followers: 2743
-    engagement: 303
-    commentsToLikes: 0.028028
-    id: cka0kfe7pmebm0i78ye4t7ocm
-    verified: false
-    hashtags: "#heat, #queen, #coronavirus, #iwantsomefries"
+    hashtags: "#fyp, #foryoupage, #xyzbca, #foruyou"
 ---

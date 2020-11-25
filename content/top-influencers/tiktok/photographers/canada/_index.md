@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers TikTok Influencers In Canada In 2020
 description: >-
-  Find top photographers TikTok influencers in Canada in 2020. Most popular hashtags: #coronavirus #boredathome #magic #covid19.
+  Find top photographers TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #greenscreen #photographer.
 platform: TikTok
+hits: 95
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 95 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "another.sam"
+  - username: "praveensapkota"
     fullname: >-
-      just another sam
+      praveensapkota
+    bio: >-
+      Photographer
     location: "Canada"
-    followers: 24190
-    engagement: 1923
-    commentsToLikes: 0.077305
-    id: ckafts5t46ogk0i78epen46go
+    followers: 43500
+    engagement: 291
+    commentsToLikes: 0.031292
+    id: ckbfewld89a4o0j23xwa1g59f
     verified: false
-    hashtags: "#metho, #blooper, #clouds, #cute"
-  - username: "gralynj.photography"
+    hashtags: "#viralvid, #starwars, #viralvideo, #viral"
+  - username: "tania_heath"
     fullname: >-
-      Gralyn J. Boyd
+      Tania Heath
+    bio: >-
+      31. She/Her. 🏳️‍🌈 Newfoundland, Canada. 🇨🇦 Photographer. 📸 Baby vegan. 🌱
     location: "Canada"
-    followers: 20707
-    engagement: 2269
-    commentsToLikes: 0.043758
-    id: ck976v7m91ez60j78tnoq5xli
+    followers: 8598
+    engagement: 1071
+    commentsToLikes: 0.109475
+    id: ckajk9kpqp6lp0i786mnykm3r
     verified: false
-    hashtags: "#lordhelpme, #anxiety, #open, #transfer"
+    hashtags: "#femme, #over30, #gaytiktok, #lgbt"
+  - username: "joelvanvliet"
+    fullname: >-
+      Joel van Vliet
+    bio: >-
+      Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
+    location: "Canada"
+    followers: 2471
+    engagement: 926
+    commentsToLikes: 0.120372
+    id: ckbqq63saay2x0j23ue0gqjoa
+    verified: false
+    hashtags: "#chipmunks, #fypage, #fyp, #xyzbca"
   - username: "lourdeslasala"
     fullname: >-
       lourdes📸
+    bio: >-
+      21 she/her/hers filmmaker/photographer 🌈🦋🎞
     location: "Canada"
-    followers: 44098
-    engagement: 2236
-    commentsToLikes: 0.008419
+    followers: 40500
+    engagement: 2421
+    commentsToLikes: 0.015727
     id: ck806ws8bmnl10j78nkt2jbhp
     verified: false
-    hashtags: "#photograhy, #cinematics, #filmphotography, #fashion"
-  - username: "ugo_troccoli"
-    fullname: >-
-      ugo
-    location: "Canada"
-    followers: 27035
-    engagement: 1109
-    commentsToLikes: 0.035429
-    id: ck81qa9x4h6aj0j78xdh42wdm
-    verified: false
-    hashtags: "#tigermoth, #caterp, #cardinal, #northernflicker"
+    hashtags: "#photography, #filmphotography, #fyp, #film"
   - username: "jhonnymorcillo"
     fullname: >-
       Jhonny Morcillo
+    bio: >-
+      Fashion Designer/Photographer 23 Follow IG @Jhonnymorcillo
     location: "Canada"
-    followers: 112303
-    engagement: 1735
-    commentsToLikes: 0.015017
+    followers: 110500
+    engagement: 1949
+    commentsToLikes: 0.017529
     id: ck94hgodrjmkq0j7815x323ti
     verified: false
-    hashtags: "#hair, #clowns, #howl, #slowmo"
-  - username: "angelagliguori"
+    hashtags: "#husky, #fyp, #timewarpscan, #jungl"
+  - username: "ugo_troccoli"
     fullname: >-
-      Angela Liguori
+      ugo
+    bio: >-
+      🎥Nature Photographer from 🇨🇦 Celebrating wildlife 🦅 djlaketrout@gmail.com
     location: "Canada"
-    followers: 10682
-    engagement: 1274
-    commentsToLikes: 0.028966
-    id: ckac6lpg9e7ci0i78prtxl7yy
+    followers: 26700
+    engagement: 1138
+    commentsToLikes: 0.050738
+    id: ck81qa9x4h6aj0j78xdh42wdm
     verified: false
-    hashtags: "#calming, #yosemite, #heights, #bluewater"
+    hashtags: "#nature, #chickadee, #slowmotion, #skies"
+  - username: "gralynj.photography"
+    fullname: >-
+      Gralyn J. Boyd
+    bio: >-
+      Science & English Major 🌲 Pro. Photographer 📷 Farmer 🐾👩🏼‍🌾
+    location: "Canada"
+    followers: 21000
+    engagement: 2428
+    commentsToLikes: 0.034487
+    id: ck976v7m91ez60j78tnoq5xli
+    verified: false
+    hashtags: "#professional, #greenscreen, #why, #photo"
+  - username: "journosousa"
+    fullname: >-
+      Aaron Sousa
+    bio: >-
+      ✝️ 19 (He/Him) Journalist/Photographer Your friendly neighbourhood Spider-Bi
+    location: "Canada"
+    followers: 3090
+    engagement: 1095
+    commentsToLikes: 0.063670
+    id: ckav8tzphg3qm0j23uv82dpvo
+    verified: false
+    hashtags: "#fyp, #foryou, #tiktok, #duet"
+  - username: "alannapearsonn"
+    fullname: >-
+      Alanna Pearson
+    bio: >-
+      ♡ Positive Vibes only ♡ Photographer | Influencer | Boss Babe IG 133K | YT 75K
+    location: "Canada"
+    followers: 190400
+    engagement: 1442
+    commentsToLikes: 0.053360
+    id: ck9e18iuq9jcp0j784u0w83mj
+    verified: false
+    hashtags: "#photoshoot, #positivevibes, #greenscreen, #photographer"
   - username: "kenny_hagen"
     fullname: >-
       Ken Hagen
+    bio: >-
+      🇨🇦🇯🇵 Photographer/Adventurer Kelowna BC
     location: "Canada"
-    followers: 9705
-    engagement: 1200
-    commentsToLikes: 0.031270
+    followers: 12800
+    engagement: 1191
+    commentsToLikes: 0.042940
     id: ck8qiwp17aon10j789oiei925
     verified: false
-    hashtags: "#cliffjump, #quarantinelife, #hotsprings, #kelownamountain"
-  - username: "braybraywoowoo"
-    fullname: >-
-      Brayden Hall
-    location: "Canada"
-    followers: 75930
-    engagement: 1285
-    commentsToLikes: 0.020822
-    id: ck80or8rejgqr0j78jfhcunh2
-    verified: false
-    hashtags: "#idahocheck, #hiking, #borabora, #coronavirus"
-  - username: "argenel"
-    fullname: >-
-      Argen Elezi
-    location: "Canada"
-    followers: 5489
-    engagement: 1054
-    commentsToLikes: 0.034053
-    id: cka0ml3zrvo8f0i78nsxqfof8
-    verified: false
-    hashtags: "#forthephoto, #covid19, #ontheice, #winterbreak"
-  - username: "brandino.wang"
-    fullname: >-
-      Brandino
-    location: "Canada"
-    followers: 1367607
-    engagement: 1719
-    commentsToLikes: 0.007801
-    id: ck8nd3recha7q0j783ed6a7km
-    verified: false
-    hashtags: "#dropout, #foto, #mario, #waterdrop"
+    hashtags: "#explorebc, #britishcolumbia, #onlyincanada, #beautifulbritishcolumbia"
 ---

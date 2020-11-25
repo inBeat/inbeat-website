@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Japan In 2020
 description: >-
-  Find top gaming Instagram influencers in Japan in 2020. Most popular hashtags: #gaming #stayhome #spiderman #anime.
+  Find top gaming Instagram influencers in Japan in 2020. Most popular hashtags: #gaming #gamer #japan.
 platform: Instagram
+hits: 34
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 34 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "japeruana24"
+    fullname: >-
+      Japeruana (Namie)
+    bio: >-
+      ❤️Amo jugar👾 y diseñar🎨@jape_art 🧡🇯🇵&🇵🇪Japanese& Spanish 💛Facebook gaming partner 🎮 💚 💌japeruana24@gmail.com 💙10月24日🎂birthday 💜↓YouTube Channel↓登録してね
+    location: "Japan"
+    followers: 82632
+    engagement: 909
+    commentsToLikes: 0.010958
+    id: ck9hcs6s7mr7r0j78mfbruic3
+    verified: false
+    hashtags: "#kawaii, #japan, #hairstyle, #photo"
   - username: "kawasemoe"
     fullname: >-
       川瀬 もえ  KawaseMoe
+    bio: >-
+      gaming girl🎮 🇯🇵×🇨🇳 ゼロイチファミリア所属 YouTube channel 👇
     location: "Japan"
-    followers: 84385
-    engagement: 672
-    commentsToLikes: 0.024727
+    followers: 107011
+    engagement: 495
+    commentsToLikes: 0.020008
     id: ck6tjj0sb2t9v0j71qox7xxub
     verified: false
-    hashtags: "#pr"
-  - username: "_shir.o0_"
+    hashtags: "#halloween, #halloweencostume"
+  - username: "joeykaotyk"
     fullname: >-
-      シロ．
+      JoeyKaotyk📍🇹🇼
+    bio: >-
+      Bboy & I livestream my life. 📷@91526.raw Bridging the gap between HipHop, gaming, and lifestyle.
     location: "Japan"
-    followers: 9373
-    engagement: 1745
-    commentsToLikes: 0.007782
-    id: ck5zsd50xya0z0i14genqjv01
+    followers: 10281
+    engagement: 675
+    commentsToLikes: 0.048145
+    id: ck5hhpbtt9f3w0i11bkl9ofk4
     verified: false
-    hashtags: "#switchlite, #gshock, #adidas, #claracontact"
-  - username: "tofuscorner"
+    hashtags: "#spincontrol, #stitchingsole"
+  - username: "arisroth"
     fullname: >-
-      Tofu (トフ) 🕊🥡
+      アリス 🌸 Aris Roth
+    bio: >-
+      ☾ Inspired by anime, gaming & japanese landscapes ♥ 1994, male, in cologne everything ⤵
     location: "Japan"
-    followers: 19123
-    engagement: 2059
-    commentsToLikes: 0.012922
-    id: ck13cijcj0iom0i197678tfug
+    followers: 167705
+    engagement: 625
+    commentsToLikes: 0.009178
+    id: ck0twgypdfbzv0i194eroidqk
     verified: false
-    hashtags: "#console, #anime, #legendofzelda, #ipad"
-  - username: "wikd_fury"
+    hashtags: "#animeart, #animeaesthetics, #vaporwave, #aestheticart"
+  - username: "otakunextnepal"
     fullname: >-
-      Ash
+      OTAKUNEXT®
+    bio: >-
+      🔶Promoting Anime, Manga, Cosplay, Comic Book, Gaming & Pop Culture in Nepal 🔸Publishers of Otaku Next Magazine 🔸Organizers of Com Cos Con 🔸Since 2014
     location: "Japan"
-    followers: 22233
-    engagement: 527
-    commentsToLikes: 0.033125
-    id: ck0w4lzpvz8o20i19lg1qv85i
+    followers: 6478
+    engagement: 915
+    commentsToLikes: 0.010595
+    id: ckf5tjbmrhyoh0j231i5ze92q
     verified: false
-    hashtags: "#rilakkuma, #pcgaming, #twitchkitten, #narutoshippuden"
+    hashtags: "#memes, #thebatman, #dc, #dccomics"
+  - username: "katsumicos"
+    fullname: >-
+      Katsumi :3
+    bio: >-
+      * Doing cosplay for the fun of it since 09 ❤️ * Your local weeb * Makeup lover🧑🏼‍🎨
+    location: "Japan"
+    followers: 64643
+    engagement: 1151
+    commentsToLikes: 0.029151
+    id: ck5zt6y61zuqj0i14086up47q
+    verified: false
+    hashtags: "#lolskin, #leaguefanart, #animecosplay, #leagueoflegendsmemes"
+  - username: "rotatnmazda"
+    fullname: >-
+      Aidan Barrett
+    bio: >-
+      Barrett Racing & Restorations - JGTC RE-Amemiya GT300 RX-7, RX-3 GR Savanna, BG GTR Familia, Restoring & Racing classic machinery
+    location: "Japan"
+    followers: 5549
+    engagement: 1760
+    commentsToLikes: 0.020956
+    id: ckap7ko2qkhco0i78tce56hmt
+    verified: false
+    hashtags: "#rotaryengine, #mazda, #mazdarotary, #motorsport"
+  - username: "gamesloose"
+    fullname: >-
+      ルーズゲーム
+    bio: >-
+      Retrogaming 👾🕹 📺 sony trinitron KV-M14B 📺 sony trinitron 14N5E 📺 sony pvm 6041QM 📺 sony trinitron 1440QM sega aero city arcade
+    location: "Japan"
+    followers: 6998
+    engagement: 766
+    commentsToLikes: 0.016937
+    id: ckap23i5px7t90i78aiugh2qv
+    verified: false
+    hashtags: "#famicom, #supergameboy, #gaming, #gameboy"
+  - username: "xnataliviax"
+    fullname: >-
+      N A T A L I E
+    bio: >-
+      ◊ sic pαrvis мαgnα ◊ 26y/o | germαn 🇩🇪| plαyer two @chris.parvis | ◊ gαмes: nintendo . plαystαtion . pc ◊ Pαrtner of @smartgrip_official
+    location: "Japan"
+    followers: 12143
+    engagement: 810
+    commentsToLikes: 0.017223
+    id: ck8t3r84k46tr0j78iy4uyyj5
+    verified: false
+    hashtags: "#gamestagram, #pcgamingsetup, #gamingcommunity, #ps4games"
   - username: "cosmicrabbit"
     fullname: >-
-      Rabi🐰🇯🇵
+      Rabi
+    bio: >-
+      📍Tokyo 🇯🇵🇺🇸Bilingual I suck at video games
     location: "Japan"
-    followers: 14013
-    engagement: 1703
-    commentsToLikes: 0.023002
+    followers: 16747
+    engagement: 983
+    commentsToLikes: 0.024897
     id: ckapc5d5e2jba0i78qso6iopc
     verified: false
-    hashtags: "#threestripes, #finalfantasy7, #stayhomeclub, #steamgame"
-  - username: "lady.angie"
-    fullname: >-
-      LADY ANGIE 𝕔𝕠𝕤𝕡𝕝𝕒𝕪
-    location: "Japan"
-    followers: 2882
-    engagement: 1678
-    commentsToLikes: 0.060150
-    id: ckaortfuboo8f0i78kymd3282
-    verified: false
-    hashtags: "#marvel, #cindymoon, #armor, #gaming"
-  - username: "bh.drum"
-    fullname: >-
-      Drumr
-    location: "Japan"
-    followers: 28702
-    engagement: 760
-    commentsToLikes: 0.118634
-    id: ck8t7nid6hfo70j78bbpg1eie
-    verified: false
-    hashtags: "#fortnitebattleroyale, #nopaddles, #creativewarrior, #fortnitestreamers"
-  - username: "momokashojo"
-    fullname: >-
-      桃花 • 少女 🍑
-    location: "Japan"
-    followers: 67159
-    engagement: 773
-    commentsToLikes: 0.008472
-    id: ck5cbwpl4gb2i0i11sfacmfcm
-    verified: false
-    hashtags: "#puriruka, #lovelivecosplay, #tattoos, #nintendoswitch"
-  - username: "akira_kirakira_"
-    fullname: >-
-      晶羅
-    location: "Japan"
-    followers: 16481
-    engagement: 758
-    commentsToLikes: 0.020161
-    id: ckap4rgyt8jqt0i78md0zolwn
-    verified: false
-    hashtags: "#sports, #tas2020, #fitnessgirl, #lexus"
-  - username: "7e4per"
-    fullname: >-
-      先輩
-    location: "Japan"
-    followers: 3163
-    engagement: 4026
-    commentsToLikes: 0.077337
-    id: ck9whtqa0zfs80j781pj5s9o9
-    verified: false
-    hashtags: "#gaming, #songedits, #esports, #pubgindian"
+    hashtags: "#instagravure, #japanesecosplayer, #adidascasual, #gamergirl"
 ---

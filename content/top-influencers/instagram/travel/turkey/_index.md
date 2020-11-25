@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Turkey In 2020
 description: >-
-  Find top travel Instagram influencers in Turkey in 2020. Most popular hashtags: #traveling #annelerg #staysafe #mountains.
+  Find top travel Instagram influencers in Turkey in 2020. Most popular hashtags: #travelblogger #gezgin #gezilecekyerler.
 platform: Instagram
+hits: 1445
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 1445 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "busrasaricayilmz"
-    fullname: >-
-      BÜŞRA YILMAZ
-    location: "Turkey"
-    followers: 5578
-    engagement: 2218
-    commentsToLikes: 0.269443
-    id: ck8t5dp4r9s6p0j787zw7b1yn
-    verified: false
-    hashtags: "#babyroom, #hayateves, #babygirl, #momlife"
-  - username: "onewaythreetickets"
-    fullname: >-
-      AYLİN▪️Travel Blogger
-    location: "Turkey"
-    followers: 6688
-    engagement: 1638
-    commentsToLikes: 0.104908
-    id: ck8t941jcmw040j78xqjh4bm7
-    verified: false
-    hashtags: "#yunanistanturu, #museedelouvre, #kavala, #worldtraveler"
-  - username: "__mervesii__"
-    fullname: >-
-      Merve Layık Yıldır
-    location: "Turkey"
-    followers: 8671
-    engagement: 1488
-    commentsToLikes: 0.133556
-    id: ckap3hq5u31p50i7891fhmupa
-    verified: false
-    hashtags: "#9weekspregnant, #kpbakewith12, #arifeo, #ucak9mokkam"
-  - username: "simlipullu"
-    fullname: >-
-      Simay Çetinkaya Pullu
-    location: "Turkey"
-    followers: 9594
-    engagement: 1394
-    commentsToLikes: 0.161409
-    id: ck8t3cgo62qsy0j78b6gwj87u
-    verified: false
-    hashtags: "#styhmbsf, #cumal, #dekorasyon, #gezi"
-  - username: "ozlem.ozaydiin"
-    fullname: >-
-      Ö 𝐙 𝐋 𝐄 𝐌   Ö 𝐙 𝐀 𝐘 𝐃 𝐈 𝐍
-    location: "Turkey"
-    followers: 14249
-    engagement: 1377
-    commentsToLikes: 0.112224
-    id: ck9wfl6vhpcc20j78ohgu3nuz
-    verified: false
-    hashtags: "#summervibes, #gezginstagram, #oodt, #thebest"
   - username: "wemovedabroad"
     fullname: >-
       ALEX & LUCILLE
+    bio: >-
+      ✈ sharing the precious travel moments in between food poisonings and sleeping on public transport ⚑ now: home 🇺🇸 ↡ OUR TRAVEL BLOG
     location: "Turkey"
-    followers: 14854
-    engagement: 1297
-    commentsToLikes: 0.070134
+    followers: 14129
+    engagement: 1426
+    commentsToLikes: 0.069510
     id: ck0tuu3be8o460i19gfmksiv9
     verified: false
-    hashtags: "#egyptianhistory, #travelinspo, #skysupply, #exploreindonesia"
-  - username: "aysenurenec"
+    hashtags: "#backpackersintheworld, #egypt, #travelbloggers, #passportready"
+  - username: "simlipullu"
     fullname: >-
-      Ayşenur Ayaz🎈
+      Simay Çetinkaya Pullu
+    bio: >-
+      🌏Traveller | ✍🏼Blogger | 💫Lifestyle 💌 Reklam ve işbirliği için: DM / simaycetinkaya@live.com 📦Makrome satış sayfam: @simlipullu_atelier
     location: "Turkey"
-    followers: 15491
-    engagement: 1078
-    commentsToLikes: 0.157505
-    id: ckap6kop9g9g90i78wk8ex7kr
+    followers: 12246
+    engagement: 1253
+    commentsToLikes: 0.110168
+    id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
-    hashtags: ""
-  - username: "busedemiiir"
+    hashtags: "#gezilecekyerler, #seyahat, #sonbahar, #kars"
+  - username: "elvin"
     fullname: >-
-      Buse Demir
+      Elvin Levinler 🌈
+    bio: >-
+      ⋒ elvin@thedigitalnomads.co ✈ IST & DATÇA #EvdeKal ✎ Hurriyet Seyahat ♡ #traveler #lifestyle #storyteller #nomad ⍟ new video ⇟
     location: "Turkey"
-    followers: 9528
-    engagement: 1902
-    commentsToLikes: 0.105275
-    id: ck8t5rdlvaz2p0j780mo3wwl6
-    verified: false
-    hashtags: "#thetravelwomen, #sapanca, #evdebayramvar, #tarihiyolculuk"
-  - username: "__belqin__"
+    followers: 1044367
+    engagement: 975
+    commentsToLikes: 0.559015
+    id: ck15uwgu4ou830i19ej5guzkx
+    verified: true
+    hashtags: "#10kas, #birdofparadise, #harikakarelerinpe, #nefesal"
+  - username: "pilotasoglu"
     fullname: >-
-      belgin kandemir | Denizli
+      Ahmet Asoğlu Official | Cadet
+    bio: >-
+      ✈️ | Pilot Lifestyle - Travel 👨🏻‍✈️ | 23yo from Turkey 🇹🇷 📺 | Covid19’un havacılığa etkisi⬇️
     location: "Turkey"
-    followers: 16204
-    engagement: 1051
-    commentsToLikes: 0.158336
-    id: ck13643re4o8s0i195eq3l821
+    followers: 57356
+    engagement: 844
+    commentsToLikes: 0.051264
+    id: ck5hh6x0e6oze0i11qh60msgv
     verified: false
-    hashtags: "#camping, #pazar, #holiday, #papatya"
+    hashtags: "#23"
+  - username: "tiyatrolist"
+    fullname: >-
+      Gürkan Kaçmaz
+    bio: >-
+      Aviator👨🏻‍✈️ Travel | LifeStyle | Fashion Personal Consultant Styling Reklam ve İş birlikleri için DM📥
+    location: "Turkey"
+    followers: 13425
+    engagement: 1182
+    commentsToLikes: 0.080919
+    id: ckf5ttxg6irk50j237na50dj0
+    verified: false
+    hashtags: "#americanstyle, #style, #fashion, #inspofashion"
+  - username: "nesemcelikkaya"
+    fullname: >-
+      Neşem Çelikkaya Bozdağ
+    bio: >-
+      a curious travel and lifestyle blog from Istanbul ➰not all those who wander are lost. • www.journavel.com • nesem@journavel.com
+    location: "Turkey"
+    followers: 59730
+    engagement: 595
+    commentsToLikes: 0.149193
+    id: ck0tuuux18rux0i1930nc68iv
+    verified: false
+    hashtags: "#travelturkey, #reels, #do, #dog"
   - username: "tamershwaiter"
     fullname: >-
       Tamer Shwaiter|تامر شويطر
+    bio: >-
+      Moments of #fashion #lifestyle and #travel 🧭
     location: "Turkey"
-    followers: 21585
-    engagement: 969
-    commentsToLikes: 0.053553
+    followers: 26572
+    engagement: 1017
+    commentsToLikes: 0.054148
     id: ck5hrllznv2iz0i11wc3nrs7v
     verified: false
-    hashtags: "#happynewyear, #2020"
+    hashtags: ""
+  - username: "sultanismm"
+    fullname: >-
+      
+    bio: >-
+      -Istanbul -Teacher -Traveller -Reader -Animalover -Daydreamer Okurgezer 📚🌎 - Hayvansever🐱🐈❤ ➡️ Reklam ve İşbirliği için ▶️▶️ DM
+    location: "Turkey"
+    followers: 21038
+    engagement: 916
+    commentsToLikes: 0.055722
+    id: ckaowhzgw90sf0i78u3kxspxq
+    verified: false
+    hashtags: "#worldtraveler, #sundayyeveniing, #istanbul, #travelislife"
+  - username: "orasiseninburasibenim"
+    fullname: >-
+      Gizem Yüksel
+    bio: >-
+      Milliyet Tatil Yazarı✍🏼 Travel | Lifestyle | Food Blog⬇️ California Road Trip yayında⬇️
+    location: "Turkey"
+    followers: 19505
+    engagement: 870
+    commentsToLikes: 0.457252
+    id: ck9wfvjrmqogg0j7814abqbqs
+    verified: false
+    hashtags: "#ig, #gezginlerbirarada, #geziyorum, #travelgram"
+  - username: "hamysuniverse"
+    fullname: >-
+      Hamy
+    bio: >-
+      ♥︎ 𝗜̇𝘀𝗸𝗼𝗰̧𝘆𝗮’𝗱𝗮 𝗬𝗮𝘀̧𝗮𝗺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❦ 𝑆𝑐𝑜𝑡𝑙𝑎𝑛𝑑•𝑈𝐾 / 𝑇𝑢𝑟𝑘𝑒𝑦 ✈ #traveller ♛ #iskocya
+    location: "Turkey"
+    followers: 21921
+    engagement: 726
+    commentsToLikes: 0.132509
+    id: ck9hbrsd2i5in0j781738kszo
+    verified: false
+    hashtags: "#welcometofife, #hurriyetseyahat, #travelphotography, #travelblogger"
 ---

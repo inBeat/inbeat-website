@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Miami In 2020
 description: >-
-  Find top skincare TikTok influencers in Miami in 2020. Most popular hashtags: #miami #skincare #makeup #tiktokrestarea.
+  Find top skincare TikTok influencers in Miami in 2020. Most popular hashtags: #duet #fyp #skincare #miami.
 platform: TikTok
+hits: 43
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 43 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "lisathelovecoach"
+  - username: "kary_galo"
     fullname: >-
-      Lisa Concepcion
+      Kary  Galo
+    bio: >-
+      Instagram! 💖kary.galo 🇭🇳🥰💄
     location: "United States"
-    followers: 2483
-    engagement: 497
-    commentsToLikes: 0.087233
-    id: cka0tggqlpvfb0i788fy4yure
+    followers: 53000
+    engagement: 720
+    commentsToLikes: 0.035106
+    id: ckc7voe92z3t40j234i0pidsv
     verified: false
-    hashtags: "#foryou, #goodtimes, #breakupadvice, #over40club"
-  - username: "celinefarach"
+    hashtags: "#cumplea, #dollartree, #mujeres, #crhistmas"
+  - username: "ericgoldie"
     fullname: >-
-      CelineFarach
+      ericgoldie
+    bio: >-
+      I’m better at Instagram Check me out @ericgoldie
     location: "United States"
-    followers: 105328
-    engagement: 406
-    commentsToLikes: 0.031039
-    id: ck8w4fmr68em10j78t4zlyfmv
-    verified: true
-    hashtags: "#crazy, #crazyman, #celine, #sushichallenge"
-  - username: "itsbriespinosa"
-    fullname: >-
-      Briana Espinosa
-    location: "United States"
-    followers: 39121
-    engagement: 665
-    commentsToLikes: 0.046550
-    id: ck9a4kmnouwd70j78ny06rssy
+    followers: 12100
+    engagement: 763
+    commentsToLikes: 0.042040
+    id: ckcultyf0hebh0j235cdvrc4k
     verified: false
-    hashtags: "#parati, #poseathome, #duet, #gotthisforyou"
-  - username: "chloecbanos"
+    hashtags: "#lgbt, #lol, #lgbtq, #over30"
+  - username: "adrianthesimp"
     fullname: >-
-      chloë c. baños 
+      🤠💖🐊🕺🏽🚫🧢
+    bio: >-
+      miami 17 columbus is my thing
     location: "United States"
-    followers: 549011
-    engagement: 1944
-    commentsToLikes: 0.016026
-    id: ck9aeyncw4e0j0j785cwh7csw
+    followers: 7630
+    engagement: 1390
+    commentsToLikes: 0.128334
+    id: ckberdnsi9met0j237zqm1olv
     verified: false
-    hashtags: "#hair, #acapella, #morningroutine, #trend"
-  - username: "martousnaturals"
+    hashtags: "#foryoupage, #xyzbca, #viral, #soflo"
+  - username: "animaliarianna"
     fullname: >-
-      martousnaturals
+      Animaliarianna
+    bio: >-
+      90K? Thank you! 🖤 Trainer @friendsofafeather Donate to help care for the birds:
     location: "United States"
-    followers: 2024
-    engagement: 1067
-    commentsToLikes: 0.071027
-    id: ckamyiesbhn4n0i78b6e0em49
+    followers: 95600
+    engagement: 811
+    commentsToLikes: 0.025629
+    id: ckbwjmtl33moh0j23ovq9tsxb
     verified: false
-    hashtags: "#soaproses, #will, #barsfordays, #aftermycoffee"
-  - username: "joeyzauzig"
+    hashtags: "#bird, #fyp, #storytime, #cute"
+  - username: "esdayrabby"
     fullname: >-
-      Joey Zauzig
+      DAYRA
+    bio: >-
+      FASHUN IG - @es.dayra IG brand - @dayra.studio
     location: "United States"
-    followers: 179358
-    engagement: 817
-    commentsToLikes: 0.045881
-    id: ck9nnvrh0r51f0j78imklv1if
-    verified: true
-    hashtags: "#anime, #celebratenurses, #dating, #tiktokrestarea"
+    followers: 2620
+    engagement: 377
+    commentsToLikes: 0.019556
+    id: ckcpa5bkden4o0j23f7u3nsgs
+    verified: false
+    hashtags: "#mexico, #fyp, #xyzbca, #foryou"
+  - username: "jack.novotny"
+    fullname: >-
+      jack novotny
+    bio: >-
+      businessjpn2@gmail.com insta: jacknovotny__ dc/nyc
+    location: "United States"
+    followers: 488700
+    engagement: 1781
+    commentsToLikes: 0.010776
+    id: ckbkz9awzvjd10j230b1c7xzy
+    verified: false
+    hashtags: "#youtube, #thedrop, #theworst, #fyp"
+  - username: "jazlynnq"
+    fullname: >-
+      Jazlynn Q
+    bio: >-
+      Just vibe😁 3k?🙃 MIAMI 🌲 😘 Follow my insta get me to 32k🤍 Singer/dancer
+    location: "United States"
+    followers: 2724
+    engagement: 1973
+    commentsToLikes: 0.085760
+    id: ck81qv3d8k41w0j78prlljtdl
+    verified: false
+    hashtags: "#greenscreen, #tweets, #fyp, #sad"
+  - username: "alyandjulia"
+    fullname: >-
+      aly & julia
+    bio: >-
+      your fav besties miami spread positivity!⚡️🌸🧚‍♀️
+    location: "United States"
+    followers: 21800
+    engagement: 1338
+    commentsToLikes: 0.061649
+    id: ckbkn6jlmh68j0j238v1lb9pu
+    verified: false
+    hashtags: "#fyp, #iamlost, #skatelife, #letsfaceit"
+  - username: "gabypuig1"
+    fullname: >-
+      Gaby Puig
+    bio: >-
+      Miami| DC 💄| @gabypuig
+    location: "United States"
+    followers: 2199
+    engagement: 606
+    commentsToLikes: 0.088497
+    id: ckc7sesgux8c00j239kf6xdjg
+    verified: false
+    hashtags: "#drugstoremakeup, #camilacabello, #shawnmendes, #makeuphacks"
   - username: "corinthsuarez"
     fullname: >-
       corinth
+    bio: >-
+      blogger tips • clean beauty • mom 💌hello@corinthsuarez.com 📍Miami 🇵🇭🇺🇸
     location: "United States"
-    followers: 16925
-    engagement: 870
-    commentsToLikes: 0.080683
+    followers: 18800
+    engagement: 938
+    commentsToLikes: 0.079253
     id: ck8savnk83uov0j787i9leco0
     verified: false
-    hashtags: "#beautyinspo, #tiktokrestarea, #motd, #instagramhack"
-  - username: "ericasgirlyworld"
-    fullname: >-
-      Ericasgirlyworld
-    location: "United States"
-    followers: 183270
-    engagement: 646
-    commentsToLikes: 0.018370
-    id: ck8z48bf5cr0y0j7815enb04c
-    verified: false
-    hashtags: "#fragrance, #coffee, #outfit, #stylehack"
-  - username: "liloia.isabella"
-    fullname: >-
-      Isabellaliloia
-    location: "United States"
-    followers: 9057
-    engagement: 439
-    commentsToLikes: 0.020269
-    id: ck9f7us81012q0j78brdmsgqd
-    verified: false
-    hashtags: "#foryourpage, #fyp, #impresionante, #bad"
-  - username: "muddybody"
-    fullname: >-
-      Muddy Body
-    location: "United States"
-    followers: 5561
-    engagement: 874
-    commentsToLikes: 0.017505
-    id: ck9skqoyga5l10j78rwvscbzx
-    verified: false
-    hashtags: "#friday, #miami, #chill, #magic"
+    hashtags: "#tiktokph, #transition, #filipino, #adelinesky"
 ---

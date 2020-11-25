@@ -1,87 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Portugal In 2020
 description: >-
-  Find top fashion TikTok influencers in Portugal in 2020. Most popular hashtags: #love #fashion #drawing #talento.
+  Find top fashion TikTok influencers in Portugal in 2020. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 18
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in Portugal for you to work with.
 profiles:
   - username: "realgonolivier"
     fullname: >-
       Gonolivier
+    bio: >-
+      Content • Fashion • Lifestyle Follow me on IG ✌🏼
     location: "Portugal"
-    followers: 70012
-    engagement: 958
-    commentsToLikes: 0.009506
+    followers: 98300
+    engagement: 944
+    commentsToLikes: 0.010911
     id: ckai478vjmtot0i780mqf37iz
     verified: false
-    hashtags: "#greenscreen, #gloup, #balenciaga, #howtostylehair"
-  - username: "mingalondon"
-    fullname: >-
-      mingalondon
-    location: "Portugal"
-    followers: 13255
-    engagement: 1358
-    commentsToLikes: 0.053111
-    id: cka6nib7tbj7u0i78vifxhcic
-    verified: false
-    hashtags: "#aestheticvibes, #coolrangedance, #alldatchallenge, #outfits"
-  - username: "irisloveunicorns"
-    fullname: >-
-      Ines Silva
-    location: "Portugal"
-    followers: 33777
-    engagement: 934
-    commentsToLikes: 0.006104
-    id: cka6nwrfkd5ft0i782ax1h0xa
-    verified: false
-    hashtags: "#food, #haircolor, #hairchange, #fashiondesigner"
-  - username: "diy4fun"
-    fullname: >-
-      DIY4Fun
-    location: "Portugal"
-    followers: 62461
-    engagement: 1633
-    commentsToLikes: 0.009612
-    id: ck94kinoevazo0j78f30g5cjc
-    verified: false
-    hashtags: "#table, #beach, #diycraft, #quartz"
+    hashtags: "#style, #fashioninspo, #outfits, #sneakers"
   - username: "emilysanches_"
     fullname: >-
       Emily Sanches
+    bio: >-
+      🇧🇷 🇵🇹
     location: "Portugal"
-    followers: 82763
-    engagement: 1258
-    commentsToLikes: 0.009920
+    followers: 133700
+    engagement: 1106
+    commentsToLikes: 0.010094
     id: cka0uj5squi6k0i78iau4zuig
     verified: false
-    hashtags: "#tiktokgrowth, #quarantine, #tiktok, #dublagemhumor"
-  - username: "danny_wh0"
+    hashtags: "#risos, #fun, #divers, #portugal"
+  - username: "mingalondon"
     fullname: >-
-      Danny_T
+      mingalondon
+    bio: >-
+      Stay away from boring clothes. 🔥Shipping Worldwide 🔥 www.mingalondon.com
     location: "Portugal"
-    followers: 9860
-    engagement: 953
-    commentsToLikes: 0.013143
-    id: ckachuiq40t5e0i78tm2e59im
+    followers: 15700
+    engagement: 1600
+    commentsToLikes: 0.035336
+    id: cka6nib7tbj7u0i78vifxhcic
     verified: false
-    hashtags: "#baddie, #coronavirus, #scarf, #acting"
-  - username: "mandulucca"
+    hashtags: "#foryourpage, #fyp, #4u, #ukfashion"
+  - username: "terrible______kid"
     fullname: >-
-      Mr Elton
+      Terrible______kid
+    bio: >-
+      Não sei o que estou a fazer aqui 🤷🏻‍♂️
     location: "Portugal"
-    followers: 12030
-    engagement: 624
-    commentsToLikes: 0.016217
-    id: ck9eukfmoe5r50j781tydcl4z
+    followers: 2383
+    engagement: 315
+    commentsToLikes: 0.011145
+    id: ckd0qxdunibo10j23p3c2pk1d
     verified: false
-    hashtags: "#habesha, #congolaise, #pedra, #suavemente"
-  - username: "kitcattycosplay"
+    hashtags: "#fyp, #tiktok, #foryou, #fypchallenge"
+  - username: "irisloveunicorns"
     fullname: >-
-      KitCattyCosplay
+      Ines Silva
+    bio: >-
+      Email: ines@musetheagency.com ♥️
     location: "Portugal"
-    followers: 4137
-    engagement: 1653
-    commentsToLikes: 0.063604
-    id: ck9kduryovyr50j78h0onwt79
+    followers: 238600
+    engagement: 1121
+    commentsToLikes: 0.005592
+    id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#frozen2cosplay, #jinxcosplay, #annafrozen2, #weab"
+    hashtags: "#anime, #outfits, #hisoka, #narcisamalfoy"
+  - username: "awkwardteen__"
+    fullname: >-
+      awkward teen
+    bio: >-
+      Just a girl awkwardly dancing and lip syncing Instagram: @teresaclerigo
+    location: "Portugal"
+    followers: 9845
+    engagement: 688
+    commentsToLikes: 0.012540
+    id: ckcpbbqx5f5lg0j23978owulx
+    verified: false
+    hashtags: "#foryou, #outfit, #foryoupage, #pvc"
+  - username: "inesvalbento"
+    fullname: >-
+      Inês Val Bento
+    bio: >-
+      Follow me on IG 📸👆🏻 IG: inesvalbento Model
+    location: "Portugal"
+    followers: 164400
+    engagement: 663
+    commentsToLikes: 0.008410
+    id: ckbl4sedb29l30j23zao71zoz
+    verified: false
+    hashtags: "#boat, #couple, #fashion, #holidays"
+  - username: "lucasviegaswk"
+    fullname: >-
+      Lucas Viegas
+    bio: >-
+      🔮
+    location: "Portugal"
+    followers: 22300
+    engagement: 1400
+    commentsToLikes: 0.013737
+    id: ckb9rpksgof600j23415ndvc1
+    verified: false
+    hashtags: "#fyp, #xyzbca, #fashion, #streetwear"
+  - username: "_andrezzanascimento_"
+    fullname: >-
+      Andrezza Nascimento
+    bio: >-
+      🇧🇷Eu brinco, mas também falo sério🇵🇹
+    location: "Portugal"
+    followers: 12900
+    engagement: 869
+    commentsToLikes: 0.048861
+    id: ckbfca0ut51440j23p8jgaifi
+    verified: false
+    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
+  - username: "mafi.o.t"
+    fullname: >-
+      Mafiot✨
+    bio: >-
+      Ig: mafi.o.t Don’t forget to smile🌙
+    location: "Portugal"
+    followers: 3285
+    engagement: 1783
+    commentsToLikes: 0.026625
+    id: ckacaqocoh5780i78151002tw
+    verified: false
+    hashtags: "#ft, #pv, #viral, #foryoupage"
 ---

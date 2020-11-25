@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Indonesia In 2020
 description: >-
-  Find top beauty TikTok influencers in Indonesia in 2020. Most popular hashtags: #coronavirus #song #foryoupage #beach.
+  Find top beauty TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #foryou #duet #makeup.
 platform: TikTok
+hits: 100
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 100 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
+  - username: "dr.ziee"
+    fullname: >-
+      dr. Yessica Tania
+    bio: >-
+      Medical Doctor 🩺 Beauty / Aesthetic Consultant I’m , Your Skin Best Friend 💋
+    location: "Indonesia"
+    followers: 1100000
+    engagement: 859
+    commentsToLikes: 0.031785
+    id: ckbqvgdsifood0j23rapkdlrp
+    verified: true
+    hashtags: "#skincarecheck, #tipsdrzie, #samasamabelajar, #dokter"
   - username: "sayblebaby"
     fullname: >-
       Sayble
+    bio: >-
+      💅🏼beauty / / travel Adhesive Eyeliner 👇🏼
     location: "Indonesia"
-    followers: 59125
-    engagement: 500
-    commentsToLikes: 0.071455
+    followers: 58200
+    engagement: 887
+    commentsToLikes: 0.067802
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#showmeyourwalk, #psychopath, #tiktokdubai, #spacethings"
-  - username: "furryvid"
+    hashtags: "#beautyessentials, #fallaesthetic, #adhesiveeyeliner, #makeuphacks"
+  - username: "astariririaja"
     fullname: >-
-      furryvid
+      Astari Budi
+    bio: >-
+      Dokter gigi dan beauty vlogger. Aku disini untuk segala recehan Ig : @astaririri
     location: "Indonesia"
-    followers: 12525
-    engagement: 396
-    commentsToLikes: 0.003068
-    id: ck83x2u8snskf0j783qqnks7m
+    followers: 244400
+    engagement: 920
+    commentsToLikes: 0.015335
+    id: ckbr6clfblv7g0j23b805ysx6
     verified: false
-    hashtags: "#igdaily, #igers, #smile, #instasize"
-  - username: "pinkpinkstella"
+    hashtags: "#voiceeffects, #foryou, #makeup, #facepaint"
+  - username: "vicisienna"
     fullname: >-
-      Stella
+      ViciSienna
+    bio: >-
+      My ig @vicisienna is all about fashion+beauty U may see some silly me here 🤪
     location: "Indonesia"
-    followers: 52590
-    engagement: 822
-    commentsToLikes: 0.047702
-    id: ck9k7hxp04z0r0j78tezdkyw7
+    followers: 11000
+    engagement: 361
+    commentsToLikes: 0.071467
+    id: ckc8x1kr8kpvl0j23xj3jmnc1
     verified: false
-    hashtags: "#instagram, #partofyourworld, #pinkpajamas, #superhero"
-  - username: "tiuranakmedan"
+    hashtags: "#jichangwook, #foryou, #fyp, #jakarta"
+  - username: "nuna_metha140793"
     fullname: >-
-      Tiur Anak Medan
+      Nuna Metha
+    bio: >-
+      Reseller Kedas Beauty area BANYUWANGI JAWA TIMUR IG:nuna_metha140793
     location: "Indonesia"
-    followers: 19878
-    engagement: 716
-    commentsToLikes: 0.060042
-    id: ck9ev18q3gc5b0j784u42tehe
+    followers: 1200000
+    engagement: 258
+    commentsToLikes: 0.026479
+    id: ckc82s28f3hbb0j23igx627cz
     verified: false
-    hashtags: "#masakdirumah, #perbedaan, #motivasihidup, #brushchallenge"
-  - username: "lampunnn"
+    hashtags: "#banyuwangi, #jawatimur, #fyp, #tiktokbanyuwangi"
+  - username: "ririeprameswari"
     fullname: >-
-      Наталья Маркина
+      Ririe Prams
+    bio: >-
+      😜 30y.o mom!!! 🇲🇨 Beauty Vlogger 💌 contact.ririe@gmail.com
     location: "Indonesia"
-    followers: 73446
-    engagement: 371
-    commentsToLikes: 0.019253
-    id: ck8kd354a40rg0j780asxqgyl
+    followers: 87400
+    engagement: 608
+    commentsToLikes: 0.019147
+    id: ckd62pc6t1v580j233y4exrhy
     verified: false
-    hashtags: "#sport, #vespa, #beauty, #dance"
-  - username: "motelrocks"
+    hashtags: "#fyp, #makeuptransformation, #duet, #tokopediahaul"
+  - username: "asmeri315"
     fullname: >-
-      MOTEL
+      asmeri31
+    bio: >-
+      Beauty Content Creator Follow My IG @asmeri31
     location: "Indonesia"
-    followers: 47728
-    engagement: 944
-    commentsToLikes: 0.024322
-    id: ck8ae7offajwm0j785e6ioasm
+    followers: 17100
+    engagement: 282
+    commentsToLikes: 0.027755
+    id: ckbky5spwu7x40j23ji2ba9oi
     verified: false
-    hashtags: "#waiter, #competition, #cartoonoc, #waystowear"
-  - username: "avriliaapg"
+    hashtags: "#foru, #makeuptutorial, #samasamadirumah, #makeupbyasmeri"
+  - username: "titantyra"
     fullname: >-
-      Avriliaapg
+      Titan
+    bio: >-
+      Beauty & lifestyle influencer, new entrepreneur ☺️
     location: "Indonesia"
-    followers: 62063
-    engagement: 969
-    commentsToLikes: 0.062197
-    id: ck9evo01gja6t0j78z0oidepx
+    followers: 118700
+    engagement: 664
+    commentsToLikes: 0.012228
+    id: ckc7nkfbmtp050j23zyipwnb5
     verified: false
-    hashtags: "#bersamatoday, #samasamalebaran, #kucinglucu, #tiktokindonesia"
-  - username: "zilmizola"
+    hashtags: "#dogs, #fyp, #duet, #edandrose"
+  - username: "ivyfeb"
     fullname: >-
-      zilmizola
+      ivyfeb ☁️
+    bio: >-
+      20 Review barang ngeracun art beauty fashion food ig : ivyfeb Tiktok2: @ivyfeb00
     location: "Indonesia"
-    followers: 56082
-    engagement: 457
-    commentsToLikes: 0.065197
-    id: cka6lohnx3zhw0i787r6iwxxc
+    followers: 1800000
+    engagement: 1287
+    commentsToLikes: 0.005591
+    id: ckcjjtewndlp30j23rjo1yw4o
     verified: false
-    hashtags: "#labuanbajo, #friend, #dirumahaja, #corona"
-  - username: "plinplan_"
+    hashtags: "#fyp, #skincare, #fashion, #baju"
+  - username: "dearmebeauty"
     fullname: >-
-      dir_
+      Dear Me Beauty
+    bio: >-
+      Lets have fun in Tiktok Indonesian beauty brand 🧡 •Halal & Bpom certified•
     location: "Indonesia"
-    followers: 3878
-    engagement: 420
-    commentsToLikes: 0.008666
-    id: ck92zrz9384570j788lphh4ql
-    verified: false
-    hashtags: "#metamorfosis, #racing, #motorcross, #berantas"
-  - username: "ronizhh"
-    fullname: >-
-      roniii
-    location: "Indonesia"
-    followers: 3312
-    engagement: 746
-    commentsToLikes: 0.109866
-    id: ck9dwhdn7p1nt0j78v6xwwb0w
-    verified: false
-    hashtags: "#sbmptn, #math, #kampuslife, #ramadan"
+    followers: 269300
+    engagement: 1114
+    commentsToLikes: 0.016710
+    id: ckc91c35lr8v00j23bxeyg3lr
+    verified: true
+    hashtags: "#fyp, #foryou, #voiceeffects, #samasamabelajar"
 ---

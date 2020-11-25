@@ -1,62 +1,53 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Germany In 2020
 description: >-
-  Find top nail artists Instagram influencers in Germany in 2020. Most popular hashtags: #nails #nailjunkie #blacknails #manicure.
+  Find top nail artists Instagram influencers in Germany in 2020. Most popular hashtags: #nailart #nails #nailswag #glitternails.
 platform: Instagram
+hits: 36
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 36 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "toxicvanitynails"
-    fullname: >-
-      𝚂𝚒𝚕
-    location: "Germany"
-    followers: 47937
-    engagement: 986
-    commentsToLikes: 0.111587
-    id: ck8t7huzxguzi0j788nqsbvfl
-    verified: false
-    hashtags: "#meridanails, #tangled, #moananails, #vaiananails"
   - username: "nailfashionbyjenny"
     fullname: >-
       NailfashionbyJenny
+    bio: >-
+      🤎• Nail-artist /-trainer/-passion 🤎•Press on nailinspirations 🤎• @glory_nails_gmbh Ambassador, Code „Jenny“ to get -10% off 🤎• private @jen_nyg_
     location: "Germany"
-    followers: 5757
-    engagement: 2212
-    commentsToLikes: 0.046615
+    followers: 13100
+    engagement: 1753
+    commentsToLikes: 0.090417
     id: ck8tbjhxbvxz00j78hcgohlwm
     verified: false
-    hashtags: "#blacknails, #naglar, #almondnails, #classynails"
-  - username: "anesabeauty.official"
-    fullname: >-
-      AnesaBeautyOfficial
-    location: "Germany"
-    followers: 26055
-    engagement: 283
-    commentsToLikes: 0.061887
-    id: ck8tcxe1j11qg0j78j5b30m77
-    verified: false
-    hashtags: "#max4ultimate, #nail, #nailsmagazine, #nailgoals"
+    hashtags: "#fashionnails, #summernails, #shiningclaws, #naillove"
   - username: "eve_tran"
     fullname: >-
       🌸Eve Tran💅🏻
+    bio: >-
+      Internationale 🇩🇪🇺🇸🇻🇳 Nail Artist / Nail Trainer 2nd 🏆 World Nail Champion 1st 🏆 German Champion Repeated Winner in Nail Art Design
     location: "Germany"
-    followers: 60586
-    engagement: 163
-    commentsToLikes: 0.023210
+    followers: 61326
+    engagement: 168
+    commentsToLikes: 0.019070
     id: ck15uaak5m6s50i19juripm55
     verified: false
-    hashtags: "#sparkles, #notpolish, #ombrenails, #pretty"
+    hashtags: "#nailstyle, #nailfeed, #glitternails, #nailswag"
   - username: "janas.polish.art"
     fullname: >-
       Tatjana S.
+    bio: >-
+      🇩🇪 Certificat Nailartist Homestudio -> @janas_polish_art Ü50 , little crazy 😜 💌 mail for cop Impressum: -> @janas_polish_art
     location: "Germany"
-    followers: 5222
-    engagement: 1471
-    commentsToLikes: 0.045918
+    followers: 5574
+    engagement: 1035
+    commentsToLikes: 0.026820
     id: ckap5fgtqbfug0i783ilmjmyf
     verified: false
-    hashtags: "#4nailfriends, #kassel, #nailjunkie, #americanstyle"
+    hashtags: "#daumengram, #nailart, #manistampingday, #thumbnails"
   - username: "lizaliwi"
     fullname: >-
       🌙🖤 LIZA WINTER 🖤🌙
+    bio: >-
+      🌑NailArtist & Int.Educator based in Germany 🌘Ambassador for @glitterbels 🌗LATEST YOUTUBE VIDEO ⬇️
     location: "Germany"
     followers: 92028
     engagement: 150
@@ -64,44 +55,76 @@ profiles:
     id: ck5cie5m2shmv0i11p5li3g06
     verified: false
     hashtags: ""
-  - username: "cocos_lieblingswelt"
+  - username: "greicysnails"
     fullname: >-
-      ᑕOᑕO’ᔕ ᒪIᗴᗷᒪIᑎᘜᔕᗯᗴᒪT
+      ~Greicy's Nails~
+    bio: >-
+      ✨Nail Artist 🦋Appts Only ❤️Brand Ambassador 💎BLUESTREAK CRYSTALS 💎CODE:GREICY5 💗No kids/guest ✨Read Policy 🌴Hayward Ca 💅🏼No short Nails 💕Cash Only💵
     location: "Germany"
-    followers: 4459
-    engagement: 1929
-    commentsToLikes: 0.037509
-    id: ckap6fuj9fq5v0i78iusfxain
+    followers: 21188
+    engagement: 1310
+    commentsToLikes: 0.006565
+    id: ck15ua9o8m6oe0i19h6q2cdwv
     verified: false
-    hashtags: "#schafska, #foodlover, #lebengenie, #inspo"
-  - username: "_beautywithnadine_"
+    hashtags: "#bombnails, #vanessanailzfeatures, #bayareanailtech, #youngnails"
+  - username: "chaos_lack"
     fullname: >-
-      Nadine
+      Jenny
+    bio: >-
+      Germany | Bring Farbe in dein Leben 💅🏼 #chaoslackliebtmatt #cl_unserelieblinge Bornprettystore 10%off Code:ZETTX31 BeautyBigBang.com 10%off code:CHA10
     location: "Germany"
-    followers: 6701
-    engagement: 929
-    commentsToLikes: 0.167382
-    id: ck8t538aa8oc90j78j7x1x53y
+    followers: 5236
+    engagement: 476
+    commentsToLikes: 0.106492
+    id: ck14h0sle7yy30i194d0zb2ur
     verified: false
-    hashtags: "#healthy, #pictureperfect, #maskselfie, #empressconcept"
-  - username: "prettynailshop24.de"
+    hashtags: "#notd, #chaoslackmai20, #frischlackiertchallenge, #oje"
+  - username: "paulanailsstylist"
     fullname: >-
-      Jolifin - Pretty Nail Shop 24
+      Paula
+    bio: >-
+      Będzin 💅
     location: "Germany"
-    followers: 51160
-    engagement: 121
-    commentsToLikes: 0.021451
-    id: ck6u18qmzk9vf0j71to2c2c3n
+    followers: 47070
+    engagement: 339
+    commentsToLikes: 0.007919
+    id: ck137ii5obpoe0i19bnjatqdl
     verified: false
-    hashtags: "#videotutorial, #witzigespr, #nailsoftheday, #jolifinstore"
-  - username: "christianschild"
+    hashtags: "#nailpolish, #naildesign, #nailinspiration, #indigonails"
+  - username: "ilovenails_denisegoedke"
     fullname: >-
-      Chris
+      Zertifizierte Nageldesignerin
+    bio: >-
+      💅🏽 | Nageldesignerin 👣 | Kosmetische Fußpflege 📲 | WhatsApp Business: 01631506188 🇩🇪 | 26441 • Jever 💌 | Brand Ambassador @prettynailshop24.de
     location: "Germany"
-    followers: 47384
-    engagement: 232
-    commentsToLikes: 0.059231
-    id: ck0tw81szebbp0i19vpzlripo
+    followers: 12338
+    engagement: 315
+    commentsToLikes: 0.019923
+    id: ck1382db4e6910i19rtbrrc1w
     verified: false
-    hashtags: "#eyebrows, #bazaarbeauty, #flower, #darkeyeshadow"
+    hashtags: "#babyboomernails, #shellac, #pns24, #friesland"
+  - username: "xbea_nails"
+    fullname: >-
+      Tabea-Justine, 28, 🇩🇪
+    bio: >-
+      I love nail art 💅🏻, cats 😻 and baking 🍰 (not necessarily in that order 😄) 📩: xbea_nails@gmx.net
+    location: "Germany"
+    followers: 54195
+    engagement: 175
+    commentsToLikes: 0.016523
+    id: ck55phyvaalh80i11xttoxgdw
+    verified: false
+    hashtags: "#nailtutorial, #nailartheaven, #nailvideos, #nailsofinstagram"
+  - username: "chaaunhi"
+    fullname: >-
+      STYLE • FASHION • INSPO
+    bio: >-
+      tiktok : chaaunhi [520.000+] COLLAB? send me a mail or dm me :) e-mail : chaaunhi@reachmediatalent.de
+    location: "Germany"
+    followers: 141984
+    engagement: 1455
+    commentsToLikes: 0.097509
+    id: ck5zz3xu7b13z0i14zuwknylf
+    verified: false
+    hashtags: "#aesthetic, #beauty, #style, #likeforlikes"
 ---

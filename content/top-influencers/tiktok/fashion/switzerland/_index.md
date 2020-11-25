@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top fashion TikTok influencers in Switzerland in 2020. Most popular hashtags: #friends #love #paris #tattoo.
+  Find top fashion TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #fashion #foryou #fy.
 platform: TikTok
+hits: 43
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 43 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "lifeasconstance"
+  - username: "thomasrossier"
     fullname: >-
-      Lifeasconstance
+      Thomas Rossier
+    bio: >-
+      Fashion, Art, Influence 🥰 📧: thomas@soeuretteproductions.com
     location: "Switzerland"
-    followers: 6061
-    engagement: 821
-    commentsToLikes: 0.039596
-    id: cka6ct01m5dwz0i78sin5pvdy
+    followers: 295600
+    engagement: 1639
+    commentsToLikes: 0.010146
+    id: ckb0yl6fqnfi50j23ewye39cr
     verified: false
-    hashtags: "#challenge, #tiedye, #newyork, #outfitinspo"
+    hashtags: "#fyp, #hp, #drarry, #viral"
+  - username: "daniyalmhn"
+    fullname: >-
+      daniyal
+    bio: >-
+      TRAVEL - FASHION Instagram: Daniyalmhn
+    location: "Switzerland"
+    followers: 6585
+    engagement: 694
+    commentsToLikes: 0.053872
+    id: ck900ankba9b10j78mvihgksf
+    verified: false
+    hashtags: "#quarantine, #coronavirus, #switzerland, #tiktok"
+  - username: "lenny_iza"
+    fullname: >-
+      Lenny Izaguire ✨
+    bio: >-
+      Fashion - Acting - Travel 💕 YouTube 🎥 @LennyIzaguire Instagram 📸 @Lenny.iza
+    location: "Switzerland"
+    followers: 145100
+    engagement: 1439
+    commentsToLikes: 0.010885
+    id: ckb0robd6h5te0j231em0oe51
+    verified: false
+    hashtags: "#dracomalfoy, #couple, #thonny, #hp"
   - username: "fynxfynx"
     fullname: >-
       ITS FYNX
+    bio: >-
+      relatable, fashionable, annoying - follow me anyway
     location: "Switzerland"
-    followers: 4142
-    engagement: 734
-    commentsToLikes: 0.018432
+    followers: 6594
+    engagement: 687
+    commentsToLikes: 0.015890
     id: ckacklngjc0qk0i78y5cjmqyr
     verified: false
-    hashtags: "#nonecked, #flirt, #summer, #covid19"
-  - username: "izabel.philippa"
+    hashtags: "#beauty, #fashiontiktok, #dance, #couples"
+  - username: "lifeasconstance"
     fullname: >-
-      Izabel Philippa
+      Lifeasconstance
+    bio: >-
+      Fashion enthusiast lost on TikTok Insta: @lifeasconstance London🇬🇧
     location: "Switzerland"
-    followers: 3782
-    engagement: 395
-    commentsToLikes: 0.029943
-    id: cka62t23d1buq0i78jgw6rhin
+    followers: 12000
+    engagement: 1031
+    commentsToLikes: 0.012802
+    id: cka6ct01m5dwz0i78sin5pvdy
     verified: false
-    hashtags: "#sofiabulgaria, #beachrun, #switzerlandgirl, #iambored"
+    hashtags: "#xyzbca, #fyp, #foryoupage, #y2k"
   - username: "aerthia"
     fullname: >-
       aerthia
+    bio: >-
+      kpop multi ☆ BTS - Ateez - MX - EXO main ♡ Follow my IG for more ♡ thx for 2K ♡
     location: "Switzerland"
-    followers: 2027
-    engagement: 2139
-    commentsToLikes: 0.030174
+    followers: 1986
+    engagement: 1958
+    commentsToLikes: 0.022801
     id: ck9ntmu9vj2o80j78sksgi619
     verified: false
-    hashtags: "#kihyun, #shineeforever, #music, #asmr"
-  - username: "the.mdj"
+    hashtags: "#challenge, #kpopalbum, #kpop, #bts"
+  - username: "tally_weijl"
     fullname: >-
-      Mathieu Dias Jardon
+      Tally_weijl
+    bio: >-
+      Never be afraid to #OwnIt 💞 Mention us @tally_weijl to get featured.
     location: "Switzerland"
-    followers: 3825
-    engagement: 509
-    commentsToLikes: 0.042970
-    id: cka66lvrqhhy30i780pesag8s
+    followers: 15900
+    engagement: 1621
+    commentsToLikes: 0.026137
+    id: ckblo5kisg0qv0j23n65yh3ty
     verified: false
-    hashtags: "#cliche, #french, #tattoo, #tiktokfrance"
-  - username: "sara.leutenegger"
+    hashtags: "#foryou, #outfitchallenge, #fashion, #dance"
+  - username: "lucactd"
     fullname: >-
-      *cяєαтινє мιи∂є*
+      luca💖
+    bio: >-
+      Luca 🎀 Follow my insta / luca.ctd / Creation insta / glamrixx /
     location: "Switzerland"
-    followers: 166382
-    engagement: 1114
-    commentsToLikes: 0.011132
-    id: ck7zoz22pmkrl0j785kv6cy2i
-    verified: true
-    hashtags: "#nachbarschaft, #games, #whattodoathome, #songs"
-  - username: "cocorebelista"
-    fullname: >-
-      Cíndy 🌞
-    location: "Switzerland"
-    followers: 13997
-    engagement: 561
-    commentsToLikes: 0.026669
-    id: ck9n6gktw75xb0j78mtm8nh4f
+    followers: 2887
+    engagement: 967
+    commentsToLikes: 0.060533
+    id: ckb8zwr93flkx0j23akfbr04r
     verified: false
-    hashtags: "#babyme, #easymakeup, #perfume, #perfumecloset"
-  - username: "yaelmeier"
+    hashtags: "#foryou, #curly, #fyp, #pourtoi"
+  - username: "_muellermueller"
     fullname: >-
-      Yaël
+      _muellermueller
+    bio: >-
+      Switzerland 🇨🇭 Instagram: @_muellermueller
     location: "Switzerland"
-    followers: 159901
-    engagement: 1149
-    commentsToLikes: 0.005732
-    id: ck9a5juu8z7y30j78x83a27ia
+    followers: 2571
+    engagement: 921
+    commentsToLikes: 0.020226
+    id: ckav6sm8hdm1o0j234uj119gy
     verified: false
-    hashtags: "#sunset, #siblings, #tricks, #blueeyes"
-  - username: "acingjace"
+    hashtags: "#fashion, #travel, #fy, #greece"
+  - username: "mina.erblasc"
     fullname: >-
-      jace
+      mina.erblasc
+    bio: >-
+      hi follow the gram ^^
     location: "Switzerland"
-    followers: 10551
-    engagement: 316
-    commentsToLikes: 0.022803
-    id: ck83zvqsk3j370j78decirlej
+    followers: 6261
+    engagement: 1771
+    commentsToLikes: 0.014520
+    id: ckamvqh434wbx0i78eslapuyx
     verified: false
-    hashtags: "#tanabytana, #quarantinelooks, #gayguyproblems, #balcony"
-  - username: "sveeneey"
-    fullname: >-
-      sven.schiefer
-    location: "Switzerland"
-    followers: 7685
-    engagement: 1229
-    commentsToLikes: 0.044630
-    id: ck900hy5pafpg0j78y5w4593v
-    verified: false
-    hashtags: "#coronatime, #longboardtrick, #fail, #nicespot"
+    hashtags: "#fashion, #celebrity, #aesthetics, #foryou"
 ---

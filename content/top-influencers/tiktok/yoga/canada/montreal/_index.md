@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Montreal In 2020
 description: >-
-  Find top yoga TikTok influencers in Montreal in 2020. Most popular hashtags: #retailtherapy #duet #fashion #greenscreen.
+  Find top yoga TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #foryoupage #foryou #yoga.
 platform: TikTok
+hits: 4
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "fleuroutlines"
+  - username: "claudiapoulin2"
     fullname: >-
-      fleuroutlinesoninsta
+      Claudia Poulin
+    bio: >-
+      Cofounder @evivesmoothie 🍌🍒 PROMO CODE 2 FREE SMOOTHIES 👉🏻 smoothies2
     location: "Canada"
-    followers: 20016
-    engagement: 2074
-    commentsToLikes: 0.072888
-    id: ck8tprzjpqnjr0j78mnkej2yw
+    followers: 17600
+    engagement: 543
+    commentsToLikes: 0.017534
+    id: ck8qhqag261my0j78k67ehie4
     verified: false
-    hashtags: "#bringitback, #pancakecereal, #vibewithme, #mycrib"
-  - username: "megannetg"
+    hashtags: "#smoothie, #vegan, #natural, #quebec"
+  - username: "bourgeoisehoma"
     fullname: >-
-      megannetg
+      Alexandra Piette
+    bio: >-
+      Alexandra⚡️ Gênante mais Attachante Montréal 📍 IG:@bourgeoisehom
     location: "Canada"
-    followers: 2861
-    engagement: 1308
-    commentsToLikes: 0.084199
-    id: cka0jjskjie9f0i788jvwsf2e
+    followers: 6452
+    engagement: 648
+    commentsToLikes: 0.015889
+    id: ckamqmmcvi0000i78p0iv8alj
     verified: false
-    hashtags: "#soundslikegibberish, #pov, #guessthegibberish, #coronavirus"
-  - username: "sunsetsandbellinis"
+    hashtags: "#foryoupage, #quebecoise, #foryou, #fyp"
+  - username: "hadjmamadou"
     fullname: >-
-      tanya gauthier
+      HaadjMamadou
+    bio: >-
+      live in Canada🇨🇦 from guinea🇬🇳 +1(514)561-5756
     location: "Canada"
-    followers: 3714
-    engagement: 1193
-    commentsToLikes: 0.086776
-    id: ck8nbuegjbj9z0j78zlr6e2fv
+    followers: 6153
+    engagement: 1821
+    commentsToLikes: 0.025858
+    id: ckbf4eh8mssfm0j23ip9nlewe
     verified: false
-    hashtags: "#howtopose, #modelcamp, #onlineschool, #kardashian"
-  - username: "charlesetienneh"
+    hashtags: "#pageforyou, #fyp, #toronto, #yes"
+  - username: "yannkd0"
     fullname: >-
-      Charles- Étienne Huard
+      🔴🟠🟡🟢🔵🟣
+    bio: >-
+      🇨🇦#jacmelien🇭🇹 Follow me 10k🙏👇🏾 IG @Yann_model_03 Snap:👻xolove93👻 FB:Ya
     location: "Canada"
-    followers: 5923
-    engagement: 946
-    commentsToLikes: 0.065291
-    id: ck9fooqnt3kfq0j78l248hv9s
+    followers: 3094
+    engagement: 398
+    commentsToLikes: 0.037396
+    id: ckbeu5j0ldfug0j2314m2cjlq
     verified: false
-    hashtags: "#youlookverypretty, #tdah, #jusmagi, #follower"
-  - username: "jeffreychangofficial"
+    hashtags: "#savage, #fyp, #quarantine, #foryoupage"
+  - username: "lynnettemermaid"
     fullname: >-
-      Jeffrey Chang
+      Lynnette Mermaid
+    bio: >-
+      Mindfulness / yoga/ fitness/Poet/writer Follow my Instagram @lynettemermaide
     location: "Canada"
-    followers: 1079181
-    engagement: 1890
-    commentsToLikes: 0.013750
-    id: ck806wxkemox10j785nmfg9ps
-    verified: true
-    hashtags: "#smtown, #cant, #animecosplay, #cartooncharacter"
-  - username: "rendezmoimonnom"
-    fullname: >-
-      Romy Victory
-    location: "Canada"
-    followers: 257505
-    engagement: 2704
-    commentsToLikes: 0.008768
-    id: ck806wzxumpgh0j78wf5iq9tp
+    followers: 2126
+    engagement: 413
+    commentsToLikes: 0.078295
+    id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#chooseyourcharacter, #confinement, #foruyoupage, #coronatime"
-  - username: "mtl.shay"
+    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+  - username: "jeanne.athleticyogi"
     fullname: >-
-      Shay🦋
+      jeanne dube
+    bio: >-
+      Fitness instructor 🔥 Yoga teacher 🙏 Instagram: jeanne.athleticyogi
     location: "Canada"
-    followers: 37129
-    engagement: 817
-    commentsToLikes: 0.089973
-    id: cka62m57g0hck0i787tpzrp3x
+    followers: 32100
+    engagement: 668
+    commentsToLikes: 0.007166
+    id: ckcjk7zsqds6n0j23goq3o0h4
     verified: false
-    hashtags: "#promplaylist, #funny, #heartbeenbrokesomanytimes, #gonnabefriends"
-  - username: "mamanannie68"
+    hashtags: "#trainer, #homegym, #summerworkout, #workout"
+  - username: "pow3rd"
     fullname: >-
-      Annie Belisle
+      POW3RD
+    bio: >-
+      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
     location: "Canada"
-    followers: 14420
-    engagement: 749
-    commentsToLikes: 0.126228
-    id: ck9shq8voukr80j78kserwnux
+    followers: 100200
+    engagement: 1271
+    commentsToLikes: 0.038031
+    id: cka0o5rz329yd0i78p3yuubjz
     verified: false
-    hashtags: "#bedtime, #quebec, #duet, #quarantine"
-  - username: "sarah_ostiguy"
+    hashtags: "#rainforestfacts, #fortnite, #follow, #fyp"
+  - username: "livlaughlove514"
     fullname: >-
-      Sarah Ostiguy
+      Liv
+    bio: >-
+      Montreal, Canada 🇨🇦
     location: "Canada"
-    followers: 5310
-    engagement: 618
-    commentsToLikes: 0.072512
-    id: ckai21ra7e35h0i785qlofr2g
+    followers: 4849
+    engagement: 1001
+    commentsToLikes: 0.144265
+    id: ck8z6r3ion6x10j78b2vi1h4g
     verified: false
-    hashtags: "#recreatethelook, #workout, #kendalljenner, #unboxing"
-  - username: "gavineo"
+    hashtags: "#foryoupage, #rainforestfacts, #wholenewgame, #fyp"
+  - username: "joanna.a.s"
     fullname: >-
-      Mr Frog 🐸
+      J.oanna
+    bio: >-
+      CEO: of black and white 100?? 👁👄👁 Hey devils 😈
     location: "Canada"
-    followers: 480500
-    engagement: 1565
-    commentsToLikes: 0.037966
-    id: ck8fa2wz83zj30j78xucyvab0
+    followers: 91700
+    engagement: 2089
+    commentsToLikes: 0.011660
+    id: ckbqv8ec6fgcv0j23pgsxputp
     verified: false
-    hashtags: "#school, #summer, #covid, #lawyer"
+    hashtags: "#skillbuilding, #summer2020, #rollerskating, #obsessedwithit"
+  - username: "jon_thevegan"
+    fullname: >-
+      Jonathan_Shopik
+    bio: >-
+      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
+    location: "Canada"
+    followers: 30100
+    engagement: 729
+    commentsToLikes: 0.053305
+    id: ck8074594ok6p0j78bktsw0lx
+    verified: false
+    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
 ---

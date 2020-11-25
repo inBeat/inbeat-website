@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Rome In 2020
 description: >-
-  Find top photographers Instagram influencers in Rome in 2020. Most popular hashtags: #beniculturali30 #beautiful #athens #igers.
+  Find top photographers Instagram influencers in Rome in 2020. Most popular hashtags: #roma #instagood #sunrise.
 platform: Instagram
+hits: 184
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 184 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
+  - username: "francescoormando"
+    fullname: >-
+      Francesco Ormando
+    bio: >-
+      Photographer Rome/Milan 🧭 La forma é sostanza
+    location: "Italy"
+    followers: 10507
+    engagement: 516
+    commentsToLikes: 0.010880
+    id: ck5hmasc4lmag0i1110gv7u6z
+    verified: false
+    hashtags: ""
+  - username: "robyrabs"
+    fullname: >-
+      Roby
+    bio: >-
+      Photographer🇮🇹Rome 🅰️dmin @fotobelleitalia 🎯Info shooting, collabs & shoutout in dm💌 You’re always with me mum🔐
+    location: "Italy"
+    followers: 11795
+    engagement: 2990
+    commentsToLikes: 0.226310
+    id: ck15rsl1k9hlo0i19zn8yz8l1
+    verified: false
+    hashtags: "#flowersofinstagram, #visual, #italiasuperscatti, #brilliant"
+  - username: "davide_musto"
+    fullname: >-
+      Davide Musto
+    bio: >-
+      Made in Sicily. Photographer Rome and NOTO
+    location: "Italy"
+    followers: 8941
+    engagement: 529
+    commentsToLikes: 0.016323
+    id: ck5c3dcpez3cl0i11vabw8itk
+    verified: false
+    hashtags: "#shirt, #jeans, #photooftheday, #swag"
+  - username: "lauragozziphotography"
+    fullname: >-
+      Laura Gozzi 📷
+    bio: >-
+      Newborn, Maternity & Kids Photographer #rome #italy #travel in all the world info & Booking: info@lauragozzi.com
+    location: "Italy"
+    followers: 28907
+    engagement: 46
+    commentsToLikes: 0.018047
+    id: ck0vzgxct91os0i19hhaaerac
+    verified: false
+    hashtags: "#fotografoneonatiroma, #fotobimbi, #newbornphotosession, #fotografobambiniroma"
   - username: "claudiafrijiophotographer"
     fullname: >-
       Claudia Frijio Photographer
+    bio: >-
+      📷 Photographer 🇮🇹 Rome, Italy 📩 info@claudiafrijio.it or pm
     location: "Italy"
     followers: 11056
     engagement: 527
     commentsToLikes: 0.039744
     id: ck5c0a0wvsq400i11w8jqmoxk
     verified: false
-    hashtags: "#pictureoftheday, #beautiful, #pink, #menwear"
-  - username: "francescoormando"
+    hashtags: ""
+  - username: "ffphoto_"
     fullname: >-
-      Francesco Ormando
+      Flavio Ferron Photo
+    bio: >-
+      🇮🇹 If you respect nature and animals, you respect yourself. ffphoto photographer and Technical RAI TV Italian State Television Rome Italy 🇮🇹
     location: "Italy"
-    followers: 9404
-    engagement: 749
-    commentsToLikes: 0.019018
-    id: ck5hmasc4lmag0i1110gv7u6z
+    followers: 4763
+    engagement: 2360
+    commentsToLikes: 0.088865
+    id: ck8t8jkhqkpou0j78e1gao26g
     verified: false
-    hashtags: "#teampixel, #artclassified"
-  - username: "lauragozziphotography"
+    hashtags: "#adventure, #instatravel, #sunset, #nature"
+  - username: "margherita_tiesi"
     fullname: >-
-      Laura Gozzi 📷
+      Margherita Tiesi
+    bio: >-
+      Actress based in Rome Agent: @promoterartist Press Agent: @biancamanoespinetti
     location: "Italy"
-    followers: 22163
-    engagement: 59
-    commentsToLikes: 0.029479
-    id: ck0vzgxct91os0i19hhaaerac
+    followers: 11564
+    engagement: 595
+    commentsToLikes: 0.021274
+    id: ck55o2o157ifq0i11dahfnr8h
     verified: false
-    hashtags: "#persempre, #fotobambini, #newbornshooting, #dolcezza"
-  - username: "polinarazumovskaya"
+    hashtags: "#picoftheday, #photo, #pholsview, #acting"
+  - username: "anastassia_gorbachova"
     fullname: >-
-      📸 ФОТОГРАФ В РИМЕ 🅿🅷🅾🆃🅾&🆅🅸🅳🅴🅾
+      ИСКУССТВО И ПУТЕШЕСТВИЯ
+    bio: >-
+      ❤️Искусствовед, гид в Риме, сибарит в Арагоне 🥂Между Италией и Испанией - сиестой и фиестой 🇮🇹🇪🇸 пишу о культурном и бескультурном досуге
     location: "Italy"
-    followers: 19772
-    engagement: 250
-    commentsToLikes: 0.102764
-    id: ck5qeksfu0yml0i11mbsr62mg
+    followers: 26666
+    engagement: 403
+    commentsToLikes: 0.054534
+    id: ck137zo5sdspz0i190cep1dat
     verified: false
-    hashtags: "#facetimephotoshoot, #polinarazumovskaya, #tiktok, #facetime"
+    hashtags: ""
   - username: "whereisollyy"
     fullname: >-
-      Olly ✧ PHOTOGRAPHER | ROME
+      Olly ✧ Photographer | Rome
+    bio: >-
+      ✈︎ Alla ricerca di posti incontaminati ⋒ Scappo dalla comfort zone ma torno sempre per la Carbonara ♥ ⇣ Roma | Latina ♡ olenapry.job@gmail.com
     location: "Italy"
-    followers: 6165
-    engagement: 933
-    commentsToLikes: 0.063618
+    followers: 6267
+    engagement: 1059
+    commentsToLikes: 0.071780
     id: ck5hljip5kc170i11893jsvo7
     verified: false
-    hashtags: "#wecanmakeit, #wanderlustitaly, #canyoumakeit2020, #redbull"
-  - username: "alessiomatteiphotos"
+    hashtags: "#roma, #lamiavitaapuntate, #selamiavitafosseunafrase, #ticonfidoimieiobiettivi"
+  - username: "salt_and_sugar_lab"
     fullname: >-
-      Alessio Mattei
+      Inna LAButova, Food + Photo
+    bio: >-
+      🍎 Good, healthy & easy food 📷 FOOD PHOTOGRAPHER 📷 🇮🇹 Rome, Italy (lang: Russian, Italian, English) Wedding Photo account - @InnaLabu
     location: "Italy"
-    followers: 119216
-    engagement: 478
-    commentsToLikes: 0.047964
-    id: ck5pw16cikljf0i114ic4tvfy
+    followers: 2851
+    engagement: 3106
+    commentsToLikes: 0.122207
+    id: ckaowhgwu8ylv0i786wzcd9pf
     verified: false
-    hashtags: "#discovervenice, #yallersitalia, #shootoniphone"
-  - username: "ebano5"
-    fullname: >-
-      My Travel Blog
-    location: "Italy"
-    followers: 12401
-    engagement: 1274
-    commentsToLikes: 0.026721
-    id: ckaosoq3csemz0i78g329bop0
-    verified: false
-    hashtags: "#lima, #igersveneto, #discover, #traveldiary"
-  - username: "mandrake80"
-    fullname: >-
-      Valerio Benincasa
-    location: "Italy"
-    followers: 21805
-    engagement: 1426
-    commentsToLikes: 0.100713
-    id: ck0tt0v6v0o9t0i19e4te8858
-    verified: false
-    hashtags: "#nect4r, #nectar19, #lafamilianectar, #worldtonex"
-  - username: "davide_musto"
-    fullname: >-
-      Davide Musto
-    location: "Italy"
-    followers: 9313
-    engagement: 583
-    commentsToLikes: 0.016112
-    id: ck5c3dcpez3cl0i11vabw8itk
-    verified: false
-    hashtags: "#beauty, #pretty, #tshirtprinting, #girly"
-  - username: "carlodenino"
-    fullname: >-
-      Carlo De Nino 📸 Fine Art
-    location: "Italy"
-    followers: 12224
-    engagement: 890
-    commentsToLikes: 0.048236
-    id: ck15t9qa1h0wj0i19f8mja2bb
-    verified: false
-    hashtags: "#eggs, #instaminim, #foodphotographer, #strawberries"
+    hashtags: "#monthlytechniquecollab"
 ---

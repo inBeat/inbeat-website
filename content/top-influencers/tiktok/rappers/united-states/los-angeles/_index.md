@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top rappers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #rapper #quarantine #music #losangeles.
+  Find top rappers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #losangeles #viral #foryou.
 platform: TikTok
+hits: 17
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 17 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "shusterman1"
+  - username: "raiderlifecg2"
     fullname: >-
-      Andrew Shusterman
+      Cole
+    bio: >-
+      I like basketball🏀 Go Lakers🏀🏀 Insta- raiderlifecg2 Snap- Coleglenn824
     location: "United States"
-    followers: 55206
-    engagement: 1100
-    commentsToLikes: 0.046729
-    id: ck9773q0g2kqb0j78itox55jw
+    followers: 2470
+    engagement: 1093
+    commentsToLikes: 0.102948
+    id: ckcja967y89xe0j23lk8f8bhm
     verified: false
-    hashtags: "#modellife, #prettyflacko, #modelcheck, #princessnokia"
-  - username: "chaseejamess"
+    hashtags: "#fyp, #lakers, #nba, #foryou"
+  - username: "renardopalmer"
     fullname: >-
-      Chase James
+      Renardo Palmer
+    bio: >-
+      Executive Protection | Justin Bieber | Migos | 10,000 Follow Me^^^
     location: "United States"
-    followers: 18568
-    engagement: 860
-    commentsToLikes: 0.023397
-    id: ck9abwvjbqj7y0j787awmdxq1
+    followers: 5074
+    engagement: 925
+    commentsToLikes: 0.040033
+    id: ckbf85xb3yh310j23bb0b7ijl
     verified: false
-    hashtags: "#rapmusic, #shitdadsays, #snl, #facetime"
-  - username: "kimmymichellee"
+    hashtags: "#duet, #notviral, #viral, #funny"
+  - username: "14thtrip"
     fullname: >-
-      Kimberly
+      14thh
+    bio: >-
+      PHOTOGRAPHER LOS ANGELES , CA 22
     location: "United States"
-    followers: 8441
-    engagement: 361
-    commentsToLikes: 0.042794
-    id: ckamiaooojes70i787fk5231e
+    followers: 46200
+    engagement: 1105
+    commentsToLikes: 0.015034
+    id: ckbf7x73jy1sh0j23w93gm8o4
     verified: false
-    hashtags: "#selflove, #electricitygame, #savageremix, #greenscreen"
-  - username: "willyumgregory"
+    hashtags: "#lifestyle, #supercars, #foryou, #fyp"
+  - username: "heidiisms"
     fullname: >-
-      William Gregory
+      Heidi Nicolle l Creator
+    bio: >-
+      Game Night LIVE Saturday Nov 7th 6PM PST 🎃 Win Prizes 🎃 Comment Topic Ideas
     location: "United States"
-    followers: 3097
-    engagement: 600
-    commentsToLikes: 0.071251
-    id: cka0kedujm5od0i78vl809zk7
+    followers: 133500
+    engagement: 1902
+    commentsToLikes: 0.076875
+    id: ckb165x2rtmxf0j23sjmgavvm
     verified: false
-    hashtags: "#travel, #flying, #hype, #chicken"
-  - username: "russiaancream"
+    hashtags: "#halloween, #showupshowoff, #strangerthingsfan, #halloweenvibes"
+  - username: "cyprianfrancis"
     fullname: >-
-      russian cream
+      Cyprian Francis
+    bio: >-
+      Chitown>LA🌴🎥 Film Producer/Marketer, Serial Entrepreneur🤟🏻 Help me get to 4K
     location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
+    followers: 3521
+    engagement: 664
+    commentsToLikes: 0.097581
+    id: ckbr0wnr6i4p60j23m0zylql7
     verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "influencersinthewild"
+    hashtags: "#review, #critic, #funny, #reviews"
+  - username: "ethanrosswithredhair"
     fullname: >-
-      Influencersinthewild
+      Ethan Ross
+    bio: >-
+      BLACK LIVES MATTER. Spotify: Ethan Ross 💕
     location: "United States"
-    followers: 225574
-    engagement: 272
-    commentsToLikes: 0.008501
-    id: ck9r4pp9kw3mr0j78ruirenhs
-    verified: true
-    hashtags: "#hiking, #twitch, #toystory, #travel"
+    followers: 175300
+    engagement: 1007
+    commentsToLikes: 0.072201
+    id: ckdhlb4qpzt0f0j232mtfzyop
+    verified: false
+    hashtags: "#rapper, #foryoupage, #tiktok, #rap"
+  - username: "chlorofella"
+    fullname: >-
+      Brandon Brown
+    bio: >-
+      Actor and Painter in LA, CA🌴 Insta: @BrandonBrownB Goal 20K!
+    location: "United States"
+    followers: 11500
+    engagement: 1136
+    commentsToLikes: 0.051656
+    id: ck8qmy95ss97w0j78oho86rq4
+    verified: false
+    hashtags: "#viral, #daquan, #fyp, #artist"
   - username: "shotbyjuliann"
     fullname: >-
       Young Legend
+    bio: >-
+      IG: ShotbyJuliann
     location: "United States"
-    followers: 120167
-    engagement: 783
-    commentsToLikes: 0.013752
+    followers: 119300
+    engagement: 757
+    commentsToLikes: 0.012580
     id: ck81quk2fjzcg0j78blkjxqy9
     verified: false
-    hashtags: "#addisonrae, #lildicky, #bestofthedecade, #lambo"
-  - username: "raidennguyen"
+    hashtags: "#viralvideo, #viral, #lmao, #celebrity"
+  - username: "supervevos"
     fullname: >-
-      Raiden Nguyen
+      SM
+    bio: >-
+      Video Creator✔️ Editor📸🎥 ⬇️subscribe👇👇Suscríbete⬇️
     location: "United States"
-    followers: 18560
-    engagement: 610
-    commentsToLikes: 0.057346
-    id: ckamvjq3942vr0i782tsuh3kz
+    followers: 7989
+    engagement: 379
+    commentsToLikes: 0.026528
+    id: ckb98w607sq420j23oyjun8a7
     verified: false
-    hashtags: "#azusa, #alpha, #smoke, #neverfitin"
-  - username: "ilanasedaka"
+    hashtags: "#trending, #mexico, #funny, #supervevos"
+  - username: "popl.co"
     fullname: >-
-      Ilana Sedaka
+      popl
+    bio: >-
+      ⚡️ Follow us on Instagram and dm “tiktok” for a discount code BUY NOW ⬇️
     location: "United States"
-    followers: 7610
-    engagement: 873
-    commentsToLikes: 0.033757
-    id: ck9a4kn7xuwin0j78x4zt8vs8
-    verified: false
-    hashtags: "#celebrity, #cocktail, #midtown, #music"
-  - username: "itriedtotellem"
-    fullname: >-
-      Aaron Capone
-    location: "United States"
-    followers: 19094
-    engagement: 869
-    commentsToLikes: 0.020408
-    id: ck9jzklqe96sg0j78yy8qd46x
-    verified: false
-    hashtags: "#piano, #newtotiktok, #california, #share"
+    followers: 1900000
+    engagement: 837
+    commentsToLikes: 0.005800
+    id: ck8vypt1kunqa0j78u60n1gf0
+    verified: true
+    hashtags: "#technology, #gamechanger, #social, #tech"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Turkey In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Turkey in 2020. Most popular hashtags: #gymnastics #photooftheday #love #quarantine.
+  Find top gymnasts Instagram influencers in Turkey in 2020. Most popular hashtags: #gymnastics #fitness #photography #gym.
 platform: Instagram
+hits: 22
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Turkey for you to work with.
 profiles:
   - username: "_senacakir_"
     fullname: >-
-      Sena Çakır
+      Sena Çakır
+    bio: >-
+      ▫Miss Turkey '16 ▫Rhythmic Gymnastics ▫️Manager.. @yasinsoyofficial
     location: "Turkey"
-    followers: 108576
-    engagement: 1543
-    commentsToLikes: 0.019455
+    followers: 119322
+    engagement: 1248
+    commentsToLikes: 0.021612
     id: ckaowr28ua2fi0i78dmpbv8dz
     verified: true
-    hashtags: "#tb, #torunlar, #evdekalt"
+    hashtags: "#challengeaccepted, #womenempoweringwomen, #kad, #sundaymood"
   - username: "aysebegumonbasiofficial"
     fullname: >-
-      Ayşe Begüm Onbaşı
+      Ayşe Begüm Onbaşı
+    bio: >-
+      🐥 Turkish National Team of Aerobic Gymnastics 🐥 Red Bull Athlete 🐥 For Business and Communication Inquiries : aysebegumonbasiofficial@gmail.com
     location: "Turkey"
-    followers: 62367
-    engagement: 719
-    commentsToLikes: 0.013273
+    followers: 71442
+    engagement: 444
+    commentsToLikes: 0.010959
     id: ck5hikmdje06e0i110e5d0myf
     verified: true
-    hashtags: "#saturdayvibes, #stayhomestaysafe, #evdekalformdakal, #quarentineandchill"
-  - username: "turuncuprenses"
+    hashtags: "#givesyouwings, #kanatland, #wednesdayworkout, #kes"
+  - username: "tutyayilmaz"
     fullname: >-
-      Melis Şeremet🧡
+      Tutya Yilmaz
+    bio: >-
+      Gymnast🇹🇷/ITU’18 Rio 2016🔓/OzU/OLYMPIAN🌟
     location: "Turkey"
-    followers: 51987
-    engagement: 202
-    commentsToLikes: 0.179877
-    id: ck5hp6usoqupl0i11sksibbi1
+    followers: 27660
+    engagement: 509
+    commentsToLikes: 0.016458
+    id: ck5q047s845tq0i11lmzw7s51
     verified: false
-    hashtags: "#garden, #beach, #sportswear, #likeforlikes"
+    hashtags: "#cimnastik, #kad, #maltepe, #sancaktepe"
   - username: "nazli_savranbasi"
     fullname: >-
-      Nazlı Savranbaşı🌸
+      Nazlı Savranbaşı
+    bio: >-
+      • Tokyo 2020NE⏳ • Turkish Gymnastics National Team • DEK • Snapchat/nazligym👻 • Twitter/ NSavranbas 📌@nazli_svrnbs0 @nazli_priv_0
     location: "Turkey"
-    followers: 3207
-    engagement: 2271
-    commentsToLikes: 0.026888
+    followers: 3583
+    engagement: 2122
+    commentsToLikes: 0.026998
     id: ck8syti9ply7q0j78aoz1fmzf
     verified: false
-    hashtags: "#hayalimizbir, #worldchampionship, #teamturkey, #stuttgart"
+    hashtags: "#wordchampionship, #roadtotokyo, #stuttgart2019, #worldchampionship"
+  - username: "turuncuprenses"
+    fullname: >-
+      Melis Şeremet🧡
+    bio: >-
+      Model | Actress | Gymnast | Dancer 🌈Account managed by family 💌tugbamelis@gmail.com
+    location: "Turkey"
+    followers: 70405
+    engagement: 117
+    commentsToLikes: 0.110707
+    id: ck5hp6usoqupl0i11sksibbi1
+    verified: false
+    hashtags: "#stylish, #lifestyle, #colorful, #influencer"
+  - username: "ahmetonder_"
+    fullname: >-
+      Ahmet ONDER
+    bio: >-
+      Gymnast 🇹🇷 World Silver 🥈 Universiade Bronze 🥉 4x Local Gold 🥇 #LeadThePassion ✉ For Business: @kagmediasports 🔴 Yeni Video 👇
+    location: "Turkey"
+    followers: 8399
+    engagement: 837
+    commentsToLikes: 0.022162
+    id: ck8syti5uly6h0j78z0t4gbn2
+    verified: false
+    hashtags: "#gymnastics, #roadtotokyo, #olympics, #leadthepassion"
+  - username: "turabi"
+    fullname: >-
+      TURBO TURABİ
+    bio: >-
+      🌟Reality Tv Celebrity💫 🌟Prospective Action Movie Actor💫 📞Reklam ve İşbirliği İçin 💌turboturabiteam@gmail.com
+    location: "Turkey"
+    followers: 904884
+    engagement: 250
+    commentsToLikes: 0.041192
+    id: ck0vxkqafzdhv0i191yusp5ln
+    verified: true
+    hashtags: "#trip, #stunttraining, #survivor2018, #cowboy"
   - username: "mustiyldz07"
     fullname: >-
-      Mustii
+      Mustiii
+    bio: >-
+      🦍🦋☘️☺️ SAMİMİYET..! 👀😌 pesnê xwe bide, pesnê min bide😍🤲🐍🦍
     location: "Turkey"
-    followers: 31120
-    engagement: 574
-    commentsToLikes: 0.027893
+    followers: 33497
+    engagement: 584
+    commentsToLikes: 0.020825
     id: ckap56uzgafx70i78y5njmfaz
     verified: false
-    hashtags: "#fitness, #konyaalt, #marka, #butik"
-  - username: "simonadyankova"
+    hashtags: "#marmaris, #photo, #gymgirl, #du"
+  - username: "zf.cansu"
     fullname: >-
-      Simona
+      Cansu Durmuşoğlu
+    bio: >-
+      Antrenör(BUKAFİT) 🔹TikTok - 800K + - zf.cansu 💙 Youtube 👇
     location: "Turkey"
-    followers: 14803
-    engagement: 1216
-    commentsToLikes: 0.010592
-    id: ck15spbnpe5br0i19a13xj5gm
+    followers: 31570
+    engagement: 359
+    commentsToLikes: 0.025299
+    id: ck14kxxgzrvm90i190hllmct6
     verified: false
-    hashtags: "#picture, #wine, #christmastree, #varna"
-  - username: "ilknurozdemir61"
+    hashtags: "#gym, #fitness, #gymnastics, #reels"
+  - username: "ackgz.isa"
     fullname: >-
-      İlknur Özdemir
+      İsa Bayram Açıkgöz
+    bio: >-
+      BEON ATHLETE 💯 Founder @officialbeon Filmmaker🎥 @saikevisual Last Video👇🏻👌🏻
     location: "Turkey"
-    followers: 27223
-    engagement: 374
-    commentsToLikes: 0.153290
-    id: ck8t3cgp12qtl0j78glw4h0kg
+    followers: 5733
+    engagement: 514
+    commentsToLikes: 0.069972
+    id: ck6u4fp5y3g6k0j71ws1o7m56
     verified: false
-    hashtags: "#mardingezi, #viewforview, #iloveyou, #yazkombinleri"
-  - username: "nurayalpaslanofficial"
-    fullname: >-
-      ✌️NURAY ALPASLAN OFFICIAL
-    location: "Turkey"
-    followers: 8732
-    engagement: 415
-    commentsToLikes: 0.033144
-    id: ck5c9wdiwc93g0i11zxjqcn7r
-    verified: false
-    hashtags: "#salsera, #1905, #cimbombom, #besafemyfriends"
-  - username: "emirhan.muran"
-    fullname: >-
-      Emirhan Muran
-    location: "Turkey"
-    followers: 16819
-    engagement: 1435
-    commentsToLikes: 0.012668
-    id: ck13atlkes4cb0i19qqoy2ahz
-    verified: false
-    hashtags: "#athletics, #8martd, #corona, #sporyap"
-  - username: "salvodali"
-    fullname: >-
-      T a n a b a y  T o k g o z
-    location: "Turkey"
-    followers: 61650
-    engagement: 768
-    commentsToLikes: 0.022629
-    id: ck6tyov9p4zyg0j71my97gn14
-    verified: false
-    hashtags: "#stayhome, #soka, #rapstar, #wear"
+    hashtags: "#balance, #baristi, #barsparta, #gymnastics"
 ---

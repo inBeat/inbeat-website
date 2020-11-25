@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top bakers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #cupcake #baker #duet #cooking.
+  Find top bakers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryoupage #cake #baker.
 platform: TikTok
+hits: 64
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 64 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
+  - username: "bakewithluce"
+    fullname: >-
+      Cake artist, Guernsey
+    bio: >-
+      Baker😋Caker😜Biz Owner😎 Imma share a little JOY on here too 😜🙌🏽 📍Guernsey
+    location: "United Kingdom"
+    followers: 3928
+    engagement: 1942
+    commentsToLikes: 0.113881
+    id: ckbf4wdtftn4b0j23p7selnuj
+    verified: false
+    hashtags: "#cakesoftiktok, #handpainted, #realisticcakes, #oreolover"
+  - username: "courtney_blyton98"
+    fullname: >-
+      courtney_blyton
+    bio: >-
+      Ariana grande fan since 𝟤𝟢𝟣𝟤 (𝟣𝟧/𝟫/𝟣𝟫) i saw Ariana BAKER🧁
+    location: "United Kingdom"
+    followers: 3504
+    engagement: 2292
+    commentsToLikes: 0.055242
+    id: ckb1d4xyt1zor0j23ywjxdw9e
+    verified: false
+    hashtags: "#grande, #fangirl, #foryou, #ag6"
   - username: "ltreats"
     fullname: >-
       Luluz Treats
+    bio: >-
+      Baker in London 🇬🇧
     location: "United Kingdom"
-    followers: 92905
-    engagement: 1560
-    commentsToLikes: 0.014680
+    followers: 132400
+    engagement: 1578
+    commentsToLikes: 0.015208
     id: ck85cr5na373y0j78lptam6s1
     verified: false
-    hashtags: "#unicorns, #baker, #cookiemonster, #tinylife"
-  - username: "theworldofcake"
-    fullname: >-
-      Victor sponge
-    location: "United Kingdom"
-    followers: 74677
-    engagement: 1115
-    commentsToLikes: 0.029041
-    id: cka65lhs5dmso0i78uyg56pso
-    verified: false
-    hashtags: "#roast, #bffgoals, #dinner, #frenchbulldog"
+    hashtags: "#imadethis, #xyzbca, #somethingsweet, #birthdays"
   - username: "tayeba_bakes"
     fullname: >-
       Tayeba_bakes
+    bio: >-
+      I post recipes and stuff | 20 | Part-time baker | LDN | @bakesbyt__ 👩‍🍳
     location: "United Kingdom"
-    followers: 2787
-    engagement: 892
-    commentsToLikes: 0.031013
+    followers: 3113
+    engagement: 1360
+    commentsToLikes: 0.046717
     id: cka0w276r146w0i78rj301giv
     verified: false
-    hashtags: "#cupcakerecipe, #gajarhalwa, #pasta, #homebaking"
+    hashtags: "#cakes, #baking, #cakebusiness, #o2bubldance"
   - username: "the_happymuffin"
     fullname: >-
       The Happy Muffin 💜
+    bio: >-
+      Follow me on Instagram👆🏽 Baker in Shoreditch, London 🤠
     location: "United Kingdom"
-    followers: 13297
-    engagement: 2468
-    commentsToLikes: 0.015763
+    followers: 29900
+    engagement: 2288
+    commentsToLikes: 0.017611
     id: cka61soi8wqp60i78kbidd8lt
     verified: false
-    hashtags: "#monstersinc, #ratatouille, #chef, #decorating"
+    hashtags: "#cupcake, #disneyprincess, #cakevideo, #foryou"
   - username: "bob_baker2.0"
     fullname: >-
       Bob Baker
+    bio: >-
+      Here for a good time Not a long time Northeast UK 🇬🇧 30years young 😜
     location: "United Kingdom"
-    followers: 18536
-    engagement: 1950
-    commentsToLikes: 0.059583
+    followers: 27400
+    engagement: 2301
+    commentsToLikes: 0.096901
     id: ck8j9zaynptoq0j78d6dg9urz
     verified: false
-    hashtags: "#titchfam, #coopstroops, #duet, #lockdownlife"
-  - username: "missmpillow"
+    hashtags: "#positivevibes, #foryou, #officialcnuts, #bakersbanterfam"
+  - username: "katiechickendipper"
     fullname: >-
-      missMpillow
+      🦋Katiechickendipper
+    bio: >-
+      TTH&TTK@CHEDZ1992🖤❤️ ELL/VICKY/BILL TTP@WAYNETILBURY CREWE❤️GIRL
     location: "United Kingdom"
-    followers: 86265
-    engagement: 1553
-    commentsToLikes: 0.014503
-    id: ck7zofzwcjp6w0j78yop51ye9
+    followers: 8426
+    engagement: 1554
+    commentsToLikes: 0.063338
+    id: ckan4sfziblog0i78kmgxhbdp
     verified: false
-    hashtags: "#transformation, #pokemon, #dreadlocks, #haircolour"
-  - username: "yoonminfinite"
+    hashtags: "#bakersbanterfam, #duet, #stitch, #fyp"
+  - username: "captaindeadpool1997"
     fullname: >-
-      AJ
+      Deadpool97_X-Force
+    bio: >-
+      Your probably wondering why the red suit, that's so bad guys can't see me bleed.
     location: "United Kingdom"
-    followers: 12512
-    engagement: 1047
-    commentsToLikes: 0.025478
-    id: ckamivcrdlop20i786lsb9j5y
+    followers: 23500
+    engagement: 1493
+    commentsToLikes: 0.054624
+    id: ck932wh5qlf880j78nxw1dfmz
     verified: false
-    hashtags: "#cute, #brownie, #fudgebrownie, #cookies"
-  - username: "grantcooksfood"
+    hashtags: "#duet, #duetthis, #thetiktokgriffins, #mrsbrownsboys"
+  - username: "sugarybliss"
     fullname: >-
-      Grant Batty
+      Sugary Bliss
+    bio: >-
+      Just for fun 😁 Follow on insta @sugarybliss.x
     location: "United Kingdom"
-    followers: 4260
-    engagement: 889
-    commentsToLikes: 0.013173
-    id: cka0lhu05r1lr0i78j5lbgkdi
+    followers: 12400
+    engagement: 817
+    commentsToLikes: 0.021254
+    id: ckcpjaecbi7qf0j23n9zs3g8l
     verified: false
-    hashtags: "#brownie, #chocolate, #bake, #asmr"
-  - username: "diandrao"
+    hashtags: "#fyp, #foryoupage, #love, #delicious"
+  - username: "browniegod"
     fullname: >-
-      Diandra Orodan
+      Brownie God
+    bio: >-
+      A young bakery creating deliciously-unique brownies — Shipping UK wide 🇬🇧
     location: "United Kingdom"
-    followers: 80520
-    engagement: 1344
-    commentsToLikes: 0.147584
-    id: ck80obostgmtq0j78u9wa2bx3
+    followers: 53600
+    engagement: 993
+    commentsToLikes: 0.010744
+    id: ck94jj8fkrfyw0j78vr7z8ipa
     verified: false
-    hashtags: "#video, #crazy, #bike, #songs"
-  - username: "zahida477"
-    fullname: >-
-      zahida477
-    location: "United Kingdom"
-    followers: 5193
-    engagement: 1431
-    commentsToLikes: 0.048046
-    id: ckae5i4mv7k1e0i78brll4ypn
-    verified: false
-    hashtags: "#duet, #mohammed, #duroodepak, #full"
+    hashtags: "#chocolate, #smallbusiness, #viral, #brownies"
 ---

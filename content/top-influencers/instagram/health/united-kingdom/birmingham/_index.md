@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top health Instagram influencers in Birmingham in 2020. Most popular hashtags: #health #birmingham #healthy #photos.
+  Find top health Instagram influencers in Birmingham in 2020. Most popular hashtags: #fitness #birmingham #health #workout.
 platform: Instagram
+hits: 14
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 14 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
+  - username: "priyankaroy_pia"
+    fullname: >-
+      Priyanka Roy 🌟
+    bio: >-
+      Spiritual Guru, Actor & Vocalist Priyankaroy.pia@gmail.com Kriya yogi Dhyan mudra
+    location: "United Kingdom"
+    followers: 31353
+    engagement: 252
+    commentsToLikes: 0.056241
+    id: ck6ubjk409ydm0j71xiaxeaxx
+    verified: false
+    hashtags: "#satsang, #gurushishyaspecial, #devotedlove, #ramo"
   - username: "nxvelouise"
     fullname: >-
-      N e v e y ♡
+      ɴ ᴇ ᴠ ᴇ ʏ ♡
+    bio: >-
+      ☁️ 19 Birmingham 🤍 Fitness, Life & Health 🖇 @nxvelouise.2 ↴ My YouTube Channel
     location: "United Kingdom"
-    followers: 9876
-    engagement: 1088
-    commentsToLikes: 0.226005
+    followers: 12275
+    engagement: 728
+    commentsToLikes: 0.112563
     id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
-  - username: "juannafitness"
+    hashtags: "#gsfamily, #fashion, #gymsharkwomen, #gifted"
+  - username: "liveuptohername"
     fullname: >-
-      JUANNA 🤍
+      Lexi 🎀
+    bio: >-
+      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
     location: "United Kingdom"
-    followers: 3773
-    engagement: 2370
-    commentsToLikes: 0.269731
+    followers: 19482
+    engagement: 634
+    commentsToLikes: 0.006125
+    id: ck5cik16gsslf0i11w5ovnhua
+    verified: false
+    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
+  - username: "juannafitness.2"
+    fullname: >-
+      Juju 🤍
+    bio: >-
+      📚Student 📍Birmingham ✨nothing fancy
+    location: "United Kingdom"
+    followers: 5712
+    engagement: 1691
+    commentsToLikes: 0.125138
     id: ckap0okftr6tw0i78m4w9nmto
     verified: false
-    hashtags: "#doyou, #mentalhealth, #health, #kitten"
-  - username: "pennyfroreal"
+    hashtags: "#fit, #fitspo, #workoutroutine, #lifting"
+  - username: "peaky.blinders_shelby"
     fullname: >-
-      PENNYFROREAL
+      Peaky Blinders
+    bio: >-
+      Most interesting and complete #PeakyBlinders page☠️ 🔥Pics and videos 🔥Information 🔥Upgrades 🔥Quotes Birmingham, United Kingdom📍
     location: "United Kingdom"
-    followers: 18391
-    engagement: 394
-    commentsToLikes: 0.080976
-    id: ck8tcg07bzc950j78s6xdignn
+    followers: 10335
+    engagement: 754
+    commentsToLikes: 0.005670
+    id: ck14l40hosqla0i19qzxozxhv
     verified: false
-    hashtags: "#boxbraids, #jimandhenry, #curlsuk, #mixedhair"
-  - username: "steflikesplants"
+    hashtags: "#birmingham, #quotes, #travel, #thomasshelby"
+  - username: "idz_athletics"
     fullname: >-
-      Stef | Health + Lifestyle ✨🌈
+      
+    bio: >-
+      💉 Year 5 - Student Doctor - UEA 🍏 Level 4 - Nutritionist 🏋🏽‍♂️ Level 3 - PT 📖 MRes - Masters in Nutritional Research DM - for PT sessions / Diet plans
     location: "United Kingdom"
-    followers: 14126
-    engagement: 417
-    commentsToLikes: 0.092426
-    id: ck5zua8o31za70i14zxd2ptpe
+    followers: 5586
+    engagement: 982
+    commentsToLikes: 0.010116
+    id: ck9ha9ia7boet0j78v0fkqzs9
     verified: false
-    hashtags: "#health, #ad, #gifted, #takefive"
-  - username: "jokostyle"
+    hashtags: "#tricep, #circuittraining, #nofilter, #summer"
+  - username: "ant1plant1"
     fullname: >-
-      Joanna Elmo-Kowalska
+      Antoine Plantoine 🌱🇯🇲✌🏿
+    bio: >-
+      Vegan Food Reviews Seen on TV #subwayuk ad & Ch4 #TOTRT #veganconnoisseur Jan '17 Ambassador for @happycow 🌍47📍 London My sis @eatsometing_
     location: "United Kingdom"
-    followers: 22249
-    engagement: 385
-    commentsToLikes: 0.035559
-    id: ck14i361sdeq50i19ryrd7xq9
+    followers: 5639
+    engagement: 586
+    commentsToLikes: 0.063517
+    id: ckaouaynqzksp0i789hz6o5ws
     verified: false
-    hashtags: "#fitnesslovers, #bikini, #squadgoals, #worldtraveler"
-  - username: "randomforestrunner"
-    fullname: >-
-      John Kelly
-    location: "United Kingdom"
-    followers: 17502
-    engagement: 757
-    commentsToLikes: 0.018891
-    id: ck5cfvkd9np5n0i11apt19wwc
-    verified: false
-    hashtags: "#christmas, #ultracommunity, #sportiviathome, #silverlining"
+    hashtags: "#cbdoil, #veganbreakfast, #vegansofcolour, #veganjunkfood"
   - username: "cobi95"
     fullname: >-
       Cobi Thomas Ellis
+    bio: >-
+      👤 Hobbyist Photographer 🗣 Motivator 〰️ Follow - #ukcobi 〰️ 24 Years Old 〰️ ©️All 🖼 are mine
     location: "United Kingdom"
     followers: 2265
     engagement: 3384
     commentsToLikes: 0.023276
     id: ckaowl4xc9ef50i7829mfv2h9
     verified: false
-    hashtags: "#cloud, #health, #getoutside, #motivate"
-  - username: "priyankaroy_pia"
+    hashtags: "#photographyuk, #sunsetlover, #motivationalspeaker, #quoteoftheday"
+  - username: "thebrunchbros_"
     fullname: >-
-      Priyanka Roy 🌟
+      The Brunch Bros
+    bio: >-
+      Four bros on a mission to show off their eating prowess to the world! 📍Cheltenham 📍Bristol 📍London 📩Tap Email👇🏼 to be featured! 📩
     location: "United Kingdom"
-    followers: 32127
-    engagement: 223
-    commentsToLikes: 0.046928
-    id: ck6ubjk409ydm0j71xiaxeaxx
+    followers: 11667
+    engagement: 488
+    commentsToLikes: 0.054413
+    id: ck55nh8z367o20i11xe83ka4w
     verified: false
-    hashtags: "#ram, #mumbaiactors, #compassion, #lightworkers"
-  - username: "helenjtea"
+    hashtags: "#brunch, #chocolate, #gloucester, #steak"
+  - username: "tiziri_digne"
     fullname: >-
-      Helen
+      FASHION - MOM’S LIFE - FITNESS
+    bio: >-
+      🤱🏽💍 Family 👠🏋🏽‍♀️ Fashion & Fitness 📲 Blogger : tiziri.fr ⬇️
     location: "United Kingdom"
-    followers: 86748
-    engagement: 211
-    commentsToLikes: 0.132594
-    id: ck0u0v7z7uwvt0i19tsjkoem1
+    followers: 53319
+    engagement: 275
+    commentsToLikes: 0.009842
+    id: ck0twd78hez5h0i198kxcrl7x
     verified: false
-    hashtags: "#sweetgains, #cakebar, #reeses, #giveaways"
-  - username: "sams_eats_"
-    fullname: >-
-      Sam Brown
-    location: "United Kingdom"
-    followers: 4482
-    engagement: 1351
-    commentsToLikes: 0.113800
-    id: ck9weyhuumfqs0j785ey2zolz
-    verified: false
-    hashtags: "#coriander, #plantbasedmeals, #marinatedtofu, #veganrecipe"
+    hashtags: "#momlife, #maman, #merefils, #sainttropez"
 ---

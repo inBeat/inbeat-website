@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Chile In 2020
 description: >-
-  Find top bloggers Instagram influencers in Chile in 2020. Most popular hashtags: #stayhome #instagood #yomequedoencasa #instagramers.
+  Find top bloggers Instagram influencers in Chile in 2020. Most popular hashtags: #instachile #chile #chilegram #urbandecaychile.
 platform: Instagram
+hits: 37
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 37 Instagram influencers like this in Chile for you to work with.
 profiles:
+  - username: "valemiaaaaau"
+    fullname: >-
+      Valentina 💕 ÚNICA CUENTA
+    bio: >-
+      ▫️Cosmetologa, MUA & Beauty Blogger 🇨🇱 ▫️Maquillaje, skincare & cabello 💕 ▫️Mami primeriza de Vicente 👶 ▫️valentina.leni@live.com 💌
+    location: "Chile"
+    followers: 22264
+    engagement: 519
+    commentsToLikes: 0.448580
+    id: ck1382qs7e85m0i19qjp0c1lo
+    verified: false
+    hashtags: "#muachilena, #makeupcommunity, #santiago, #nyxcosmeticschile"
+  - username: "angielistica"
+    fullname: >-
+      Angie 🌈 CUENTA ÚNICA!
+    bio: >-
+      📍SCL | Abogada 👩🏼‍⚖️ | beauty blogger 🐰 #CRUELTYFREE | vegetariana 🥦 💌 Collabs/PR: angielistica@gmail.com 💄 Clases de automaquillaje
+    location: "Chile"
+    followers: 19189
+    engagement: 461
+    commentsToLikes: 0.189560
+    id: ck5zyem3c9qsw0i14p6g8wtvd
+    verified: false
+    hashtags: "#chilegram, #nyxcosmetics, #crueltyfree, #halloween"
+  - username: "abrilfguerra"
+    fullname: >-
+      𝓐𝓫𝓻𝓲𝓵 𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓪• Moda&Belleza
+    bio: >-
+      💞Fashion Blogger ✨YouTuber 🛍CEO: @piamiastore 🇻🇪 | 🇨🇱📍
+    location: "Chile"
+    followers: 18351
+    engagement: 760
+    commentsToLikes: 0.032756
+    id: ck9hcah68ki9m0j78h9seqj2t
+    verified: false
+    hashtags: "#ruivabrasil, #redhaircolor, #fashionstyle, #outfits"
   - username: "queandaibonita"
     fullname: >-
       ELENA ♥ Cruelty Free Blogger
+    bio: >-
+      👩🏻‍🎓 Arquitecta | mua | beauty blogger 💅🏻 #CRUELTYFREE 🌱 vegetariana 🖤 Norma 🐾 Yuki 🤍 💌 elena.gacitua@gmail.com ⠀⠀ Lee mi último post aquí👇🏻
     location: "Chile"
     followers: 40584
     engagement: 600
     commentsToLikes: 0.082756
     id: ck15s6o1tbhpk0i19htvuwuor
     verified: false
-    hashtags: "#gatosnegros, #catsallday, #staynakedthefix, #abhchile"
+    hashtags: "#urbandecay, #urbandecaychile, #crueltyfreemakeup, #makeupchile"
   - username: "estiloemily"
     fullname: >-
-      EMILY ♡ PÉREZ
+      EMILY ♡ PÉREZ
+    bio: >-
+      BEAUTY & LIFESTYLE Soy periodista y blogger 24/7 Piel mixta a grasa + acné ✉️ hello@estiloemily.com 📍Santiago, Chile
     location: "Chile"
-    followers: 29758
-    engagement: 216
-    commentsToLikes: 0.192111
+    followers: 37238
+    engagement: 168
+    commentsToLikes: 0.109198
     id: ckap54v3da7lp0i78jnf2xgur
     verified: false
-    hashtags: "#luna2, #pielmixta, #mothersday, #lovebeautyandplanet"
+    hashtags: "#skincare, #stoned, #nars, #chile"
   - username: "viajafoteando"
     fullname: >-
       viajafoteando 🇵🇪 📷
+    bio: >-
+      Soy Fotógrafo, Blogger, Viajero, Guía de rutas a la aventura, descubriendo destinos. EMBAJADOR @andesgear_peru @thenorthfacepe Mis VIAJES y FOTOS :
     location: "Chile"
     followers: 12242
     engagement: 480
     commentsToLikes: 0.021016
     id: ck8sydyjgkjmg0j78acvfhjav
     verified: false
-    hashtags: "#cusco, #guatemala, #atitlan, #tutorialsvideos"
+    hashtags: "#turismo, #travelgram, #peruadventure, #visitperu"
+  - username: "paoly.__"
+    fullname: >-
+      𝐏𝐚𝐨𝐥𝐲 //   ⍣𝑻𝒐𝒅𝒐 𝑭𝒓𝒂𝒔𝒆𝒔⍣
+    bio: >-
+      ⍣ᵁⁿ ᴮˡᵒᵍᵍᵉʳ ˡˡᵉⁿᵒ ᵈᵉ 💜𝐀𝐦𝐨𝐫 💜 𝑹𝒆𝒇𝒍𝒆𝒙𝒊ó𝒏 ⍣𝘗𝘦𝘯𝘴𝘢𝘮𝘪𝘦𝘯𝘵𝘰𝘴💜
+    location: "Chile"
+    followers: 189699
+    engagement: 291
+    commentsToLikes: 0.017427
+    id: ck15ubxifmefa0i190eilbl2b
+    verified: false
+    hashtags: "#frasesparareflexionar, #frasesdeldia, #piensapositivo, #actitud"
   - username: "chile_bloggers"
     fullname: >-
       ғᴏᴛᴏɢʀᴀғíᴀ ᴄʜɪʟᴇ 🇨🇱
+    bio: >-
+      🗂 ɢᴀʟᴇʀíᴀ ғᴏᴛᴏɢʀáғɪᴄᴀ 🔖 ʜᴛ #chile_bloggers 👮‍♂️ Respaldo @chile.backup
     location: "Chile"
     followers: 57760
     engagement: 296
     commentsToLikes: 0.006551
     id: ck14gzxk07urp0i190cxavzj6
     verified: false
-    hashtags: "#earthplanet, #sonylenses, #adictoachile, #portraitphotographys"
-  - username: "rachelcolinas"
+    hashtags: "#skyporny, #travel, #marcachile, #killstorechile"
+  - username: "yunialexmanci"
     fullname: >-
-      Raquel Fernandez Colinas
+      Alexandra Mancilla 👑
+    bio: >-
+      Mexicana viviendo en Chile🔥 New at Česká Zemědělská Univerzita v Praze 🇨🇿☄️♻️ 🇲🇽🇨🇱🇺🇸🌎
     location: "Chile"
-    followers: 4387
-    engagement: 2842
-    commentsToLikes: 0.509806
-    id: ck6u1jwjxm6j00j71vizk3ukf
+    followers: 13036
+    engagement: 601
+    commentsToLikes: 0.112724
+    id: ckaoto4bjwqf00i785mabw2qv
     verified: false
-    hashtags: "#styleoutfit, #outfitblog, #influencerstyle, #igersspain"
-  - username: "fabiaroundtheworld"
+    hashtags: "#bloggerchile, #chile, #blondie, #bloggersantiago"
+  - username: "krissandovalk"
     fullname: >-
-      Fabi la chilena Atipica
+      🌸🌸K R I S H N A 🌸🌸
+    bio: >-
+      Temuco-Santiago 📍 ▪️MissChile 👑 ▪️Modelo ~ Promotora ~ Embajadora @cases.couples @spa.vitabella @morenna.cl @araucaniacervecera @almalavanda_chile
     location: "Chile"
-    followers: 114934
-    engagement: 1108
-    commentsToLikes: 0.018940
-    id: ck5q2oyfvh3870i11keag8yvw
+    followers: 6903
+    engagement: 591
+    commentsToLikes: 0.106348
+    id: ck9wd43msdzd80j78he8wca46
     verified: false
-    hashtags: "#yomequedoencasa, #fitnessblogger, #modelpose, #twitchstreamer"
-  - username: "marco_escobar01"
-    fullname: >-
-      𝑴𝒂𝒓𝒄𝒐 𝑹𝒂𝒚⚡️🇨🇺
-    location: "Chile"
-    followers: 3636
-    engagement: 1183
-    commentsToLikes: 0.264890
-    id: ckaov2e7l2tni0i78czgyz0h1
-    verified: false
-    hashtags: "#bryantmyers, #model, #naranja, #flow"
-  - username: "jorgechaconh"
-    fullname: >-
-      Jorge Chacón
-    location: "Chile"
-    followers: 35148
-    engagement: 2525
-    commentsToLikes: 0.025742
-    id: ckapcnbbi4fxr0i78tvi7c76e
-    verified: false
-    hashtags: "#styleinspiration, #fashion, #blogger, #lookdafiticl"
-  - username: "viajera.javiera"
-    fullname: >-
-      Viajando con Javi ✈️
-    location: "Chile"
-    followers: 7545
-    engagement: 1413
-    commentsToLikes: 0.053754
-    id: ck5c5j25v3khg0i11yjdyrrwu
-    verified: false
-    hashtags: "#fesiluz, #losandeschile, #machuca, #astro"
-  - username: "eluniverso.defran"
-    fullname: >-
-      ☆ FRAN ☆
-    location: "Chile"
-    followers: 42702
-    engagement: 823
-    commentsToLikes: 0.022209
-    id: ck15uhpufn8vk0i190wuu7ja5
-    verified: false
-    hashtags: "#classy, #lancomechile, #glowyskin, #funnyvideos"
+    hashtags: "#naturaleza, #style, #love, #surdechile"
 ---

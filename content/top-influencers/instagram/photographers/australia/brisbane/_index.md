@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top photographers Instagram influencers in Brisbane in 2020. Most popular hashtags: #withme #twinsofinstagram #retrieverlove #inannasarkis.
+  Find top photographers Instagram influencers in Brisbane in 2020. Most popular hashtags: #goldcoast #brisbane #photographer.
 platform: Instagram
+hits: 61
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 61 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
   - username: "kellybrownphotographer"
     fullname: >-
       Newborn Photos By Kelly Brown
+    bio: >-
+      Learn #newbornphotography from #Brisbane #photographer #kellybrown @newbornposingdotcom @riseawards 👇Start Learning👇
     location: "Australia"
     followers: 144609
     engagement: 67
     commentsToLikes: 0.016936
     id: ck5hrw48fvkp40i1193k9dpmt
     verified: false
-    hashtags: "#learn, #textures, #portraitphotographer, #together"
+    hashtags: "#wppi2020, #newbornsofinstagram, #baby, #babyphotography"
   - username: "lover_ofmine"
     fullname: >-
       Brisbane Photographer
+    bio: >-
+      ⚡️Hi. We’re Anthony & Kim, husband/wife duo 📸 Weddings (LOVER), families (TRIBE) & portraits (MUSE) For those in search of simple & sincere imagery.
     location: "Australia"
-    followers: 5516
-    engagement: 492
-    commentsToLikes: 0.068001
+    followers: 5614
+    engagement: 382
+    commentsToLikes: 0.053673
     id: ck0w206g6lzwb0i19r63znmpl
     verified: false
-    hashtags: "#midginbilhill"
-  - username: "morgsfit"
+    hashtags: ""
+  - username: "rockybatchelor"
     fullname: >-
-      Morgan Dor | Fitness Model
+      R O C K Y    B A T C H E L O R
+    bio: >-
+      Professional Photographer | Video Production | Brisbane - Sydney Commercial portfolio 📧 photographer@rockybatchelor.com
     location: "Australia"
-    followers: 5749
-    engagement: 1852
-    commentsToLikes: 0.086208
-    id: ck9haszqte0200j78nmeaj38h
+    followers: 136388
+    engagement: 75
+    commentsToLikes: 0.024985
+    id: ck5hfkvatxycf0i1131fmkkwg
+    verified: false
+    hashtags: "#goldcoast, #agency, #swimwear, #beach"
+  - username: "kaluskim.photography"
+    fullname: >-
+      Rowell Steinwede
+    bio: >-
+      Photographer based in #brisbane RAW VIP Member @raw_members 🅰️ @justshootqueensland Ⓜ️ @igers.sunshinecoast Ⓜ️ @signatureshots
+    location: "Australia"
+    followers: 7978
+    engagement: 1123
+    commentsToLikes: 0.062255
+    id: ckf5nsq5bzjqg0j23cadien1x
     verified: false
     hashtags: ""
-  - username: "charlottereevesphotography"
+  - username: "thepatonmedia"
     fullname: >-
-      Brisbane Pet Photographer
+      PATON MEDIA
+    bio: >-
+      🙋🏼‍♂️ Hi I’m Josh 🇦🇺 GC / BNE / SC⁣ 🎥 Videographer 📩 DM for inquiries⁣ 📸 Photographer ⬇️ Paton Media website
     location: "Australia"
-    followers: 14992
-    engagement: 1402
-    commentsToLikes: 0.014158
-    id: ck0u8gk457e790i19kumcavi1
+    followers: 16335
+    engagement: 385
+    commentsToLikes: 0.031301
+    id: ck13807cvdvhf0i1916yhtwiy
     verified: false
-    hashtags: "#redkelpie, #herdingdog, #morninglight, #farmlife"
+    hashtags: "#brisbanecityphotography, #goldcoastphotographer, #neonlights, #photographytips"
+  - username: "emma.fogarty"
+    fullname: >-
+      em 🤍
+    bio: >-
+      ♡ K Gold Coast @chic_brisbane gemma@chicbrisbane.com.au @themodelsau info@themodels.com.au
+    location: "Australia"
+    followers: 3836
+    engagement: 1784
+    commentsToLikes: 0.040497
+    id: ck6trw64u1fwo0j71mwh7m1n6
+    verified: false
+    hashtags: ""
   - username: "jade.piper"
     fullname: >-
       J A D E P H O T O G R A P H Y
+    bio: >-
+      Welcome to my vision 📍Brisbane/Gold Coast Photographer — jadepiper0@gmail.com — Inquiries direct message or email 💫
     location: "Australia"
-    followers: 10301
-    engagement: 529
-    commentsToLikes: 0.127572
+    followers: 12545
+    engagement: 330
+    commentsToLikes: 0.039940
     id: ck14k6yrso1ny0i1999pqx1u9
     verified: false
-    hashtags: "#coupleshoot, #illbewatching, #bestieshoot"
-  - username: "thirdeyevisualsau"
+    hashtags: "#goldcoast, #reel, #reels, #sparkle"
+  - username: "brissiebites"
     fullname: >-
-      
+      Food Blogger | Jacqui John
+    bio: >-
+      🥐 Food 🍷 Drink ✈️ Travel ☀️ Brisbane based 📸 Photographer 🍽 ✍Real Restaurant Reviews 💌 jacqui@brissiebites.com 👇🏻 FREE Guide to Brisbane's Hidden Bars
     location: "Australia"
-    followers: 19029
-    engagement: 264
-    commentsToLikes: 0.018485
-    id: ck14gg5xx52600i19xh8kytc3
+    followers: 5480
+    engagement: 1437
+    commentsToLikes: 0.113063
+    id: ck6tkm2ym4z230j715oltesd5
     verified: false
-    hashtags: "#polaris, #fs7, #enmore, #sonya73"
-  - username: "thesilverlining_70"
+    hashtags: "#fortitudevalley, #brisbaneanyday, #brisbaneblogger, #brisbanerestaurants"
+  - username: "masphoto.official"
     fullname: >-
-      L U I S A   D U N N
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM or info@masphoto.com.au https://facebook.com/masphoto.official
     location: "Australia"
-    followers: 21593
-    engagement: 1075
-    commentsToLikes: 0.072465
-    id: ck9hboj9fhrl00j7868rq2imh
+    followers: 5106
+    engagement: 553
+    commentsToLikes: 0.033931
+    id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: "#saltandpepper, #gogrombre, #aginggracefully, #growsilver"
-  - username: "georgefavios"
+    hashtags: "#fit, #brisbaneboudoirphotographer, #fitnessgraphy, #vibes"
+  - username: "bennybucho"
     fullname: >-
-      George Favios
+      BennyBucho
+    bio: >-
+      Pro Bboy Visual creator (Photo/Video) - @acegldn @contentvizion Enquiries - Benj.garcia1992@gmail.com
     location: "Australia"
-    followers: 48213
-    engagement: 236
-    commentsToLikes: 0.056171
-    id: ck0w2qgrtpod20i19sz8eyjeg
+    followers: 15045
+    engagement: 223
+    commentsToLikes: 0.074880
+    id: ck0w4gxtbyikl0i197zm5hn1h
     verified: false
-    hashtags: "#stunning, #legendary, #summer2018, #losangeles"
-  - username: "kristinawild_"
-    fullname: >-
-      Kristina Wild
-    location: "Australia"
-    followers: 30668
-    engagement: 422
-    commentsToLikes: 0.024559
-    id: ck5cb5s0sescx0i11bzv3cl6c
-    verified: false
-    hashtags: "#ausmusictshirtday, #mywildgirlgang, #vague, #iggymena"
-  - username: "petercoulson"
-    fullname: >-
-      Peter Coulson
-    location: "Australia"
-    followers: 174003
-    engagement: 343
-    commentsToLikes: 0.010719
-    id: ck5cb1gd3ejdt0i11xulkp8wu
-    verified: false
-    hashtags: "#stylist, #hmua, #3lightsetup, #notacolourmodel"
+    hashtags: "#performer, #acegldn, #goldcoast, #bboy"
 ---

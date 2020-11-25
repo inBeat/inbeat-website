@@ -1,87 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Greece In 2020
 description: >-
-  Find top crossfit Instagram influencers in Greece in 2020. Most popular hashtags: #fitness #greece #athens #training.
+  Find top crossfit Instagram influencers in Greece in 2020. Most popular hashtags: #greece #fitness #igers #training.
 platform: Instagram
+hits: 16
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 16 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "marius.ad.libitum"
+    fullname: >-
+      mαrios · greece
+    bio: >-
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
+    location: "Greece"
+    followers: 16415
+    engagement: 1122
+    commentsToLikes: 0.058088
+    id: ck6u8k7vss2kn0j71olij1n19
+    verified: false
+    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
   - username: "ismini_fab"
     fullname: >-
       Ismini Fabiatou🍩🍫
+    bio: >-
+      💪 Fitness 🏋️‍♀️ Crossfit 🎓 Agricultural University of Athens 📍 Athens, Greece 🐶 @charlie__fab 📩 Email: ismfab@yahoo.gr
     location: "Greece"
-    followers: 50195
-    engagement: 356
-    commentsToLikes: 0.004284
+    followers: 50746
+    engagement: 492
+    commentsToLikes: 0.091455
     id: ck8t0anlnrezk0j78v31dg0oe
     verified: false
-    hashtags: "#thoughts, #germany, #glutes, #todayiwillchallenge"
-  - username: "allyreite17"
+    hashtags: "#giveaway, #nokia, #gobiggobeyond, #nokiaphotography"
+  - username: "george_komvokis"
     fullname: >-
-      Ally Reite
+      George Komvokis
+    bio: >-
+      Travel | Nature | Outdoor Helicopter Mechanic | CrossFit Athlete | Athens | Lesvos | Check my latest video:
     location: "Greece"
-    followers: 6327
-    engagement: 723
-    commentsToLikes: 0.032974
-    id: ck6ugsiy34wsy0j71rnwgayh1
+    followers: 16021
+    engagement: 1026
+    commentsToLikes: 0.047399
+    id: ck6tpxb1qnzo90j710y2w0och
     verified: false
-    hashtags: "#greece, #workoutmotivation, #fitspo, #running"
-  - username: "pigi_devetzi"
+    hashtags: "#hdr, #perfectgreece, #ig, #xanthi"
+  - username: "stella.christoforou"
     fullname: >-
-      Πηγή Δεβετζή Official
+      Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
+    bio: >-
+      God first ✝️ Made in Greece 🇬🇷
     location: "Greece"
-    followers: 43184
-    engagement: 233
-    commentsToLikes: 0.030397
-    id: ck5znqqvhozbb0i146jkg7fe7
-    verified: true
-    hashtags: "#viewpoint, #gold, #homework, #youtube"
-  - username: "christos.gatsis"
-    fullname: >-
-      Χρήστος Γάτσης ®
-    location: "Greece"
-    followers: 16764
-    engagement: 276
-    commentsToLikes: 0.006738
-    id: ck5hq8ndesp420i11ujzbs2s7
+    followers: 93160
+    engagement: 623
+    commentsToLikes: 0.023072
+    id: ck6ubtihpbm480j7100ccqbbw
     verified: false
-    hashtags: "#striker, #transferwindow, #hardworkpaysoff, #professional"
-  - username: "fitness_motivation_hellas"
+    hashtags: "#fitnessgirl, #fitnessgirls, #bodybuilding, #fitnesslife"
+  - username: "evdoxia_dm"
     fullname: >-
-      www.fmh.gr
+      Evdoxia Dima Xalatsi
+    bio: >-
+      🧸A mum of 2 who enjoys instablogging a lot! #fitnessaddict 🏋🏻‍♀️ @evdoxia_mua_beautyartist
     location: "Greece"
-    followers: 24186
-    engagement: 694
-    commentsToLikes: 0.076520
-    id: ck6trvsg11dj60j711wugo4yg
+    followers: 46234
+    engagement: 469
+    commentsToLikes: 0.737872
+    id: ck8swmw6pekjz0j78m3ljmq79
     verified: false
-    hashtags: "#fmh, #nevergiveup, #giveaway, #apotherapeia"
+    hashtags: "#instafit, #fitnessmom, #fitnessmotivation, #inspo"
   - username: "pavlos_terzopoulos"
     fullname: >-
       Pavlos Terzopoulos
+    bio: >-
+      ▪️Fitness Presenter 🇬🇷 🇵🇱 🇮🇹 ▪️Fitness Trainer 🏋️‍♂️🏃‍♂️ ▪️Model @new_model_agency ▪️Acun media @skaitv.gr 📺
     location: "Greece"
-    followers: 70593
-    engagement: 308
-    commentsToLikes: 0.004336
+    followers: 67116
+    engagement: 172
+    commentsToLikes: 0.027108
     id: ck5zkgdvzjfmw0i14dir6zotg
     verified: false
-    hashtags: "#fashion, #stayactive, #darkphotography, #fitnessinstructor"
-  - username: "slidismode"
+    hashtags: "#video, #stylish, #photoshooting, #l4l"
+  - username: "_maralu_"
     fullname: >-
-      Eugenios
+      ოa͏r1a͏nтonιou
+    bio: >-
+      եհҽ bҽsե եհíղց ɑbօմե ʍҽʍօɾíҽs ís ʍɑƙíղց եհҽʍ ▪︎Dreamer 💫 ▪︎Kindergarten teacher-Special educatior ▪︎Volunteering,theater,travel ▪︎Sifnos-Kaloskopi♡
     location: "Greece"
-    followers: 55208
-    engagement: 914
-    commentsToLikes: 0.019576
-    id: ck5zq942xu61n0i14wb6f1t8q
+    followers: 6064
+    engagement: 1520
+    commentsToLikes: 0.132907
+    id: ckap38heg1zqz0i78rmoz4eca
     verified: false
-    hashtags: "#fitnessfreak, #pull, #workoutflow, #flow"
-  - username: "giourkas_seitaridis"
+    hashtags: "#greecestagram, #sifnosisland, #portrait, #summer2020"
+  - username: "sevastiana_k"
     fullname: >-
-      Giourkas Seitaridis
+      Sevi_sk
+    bio: >-
+      •content creator •Mc blog award 18’ •Dm for collabs: Sevastiana1990@gmail.com 📍Patras, Greece
     location: "Greece"
-    followers: 40165
-    engagement: 284
-    commentsToLikes: 0.008539
-    id: ck5c8jwst9naz0i11k42exkg2
+    followers: 31453
+    engagement: 480
+    commentsToLikes: 0.043082
+    id: ck8swmvhvekim0j78an15cwgh
     verified: false
-    hashtags: "#fitnessjourney, #time, #laps, #train"
+    hashtags: "#travelgirl, #travelgreece, #greekislands, #tinosisland"
+  - username: "vicky_panetsidou"
+    fullname: >-
+      Vicky Panetsidou
+    bio: >-
+      🇬🇷Karate 3🥇,2🥉European Champion 4🥇,2🥈,8🥉 Wold Pr.League 🥈MedGames 🌎#7 alltime world ranking 🔶@stoiximan.gr @Baya.fit @arawaza_intl @scitecnutrition
+    location: "Greece"
+    followers: 33128
+    engagement: 465
+    commentsToLikes: 0.017053
+    id: ck5pzbw2p07ro0i118125noqb
+    verified: false
+    hashtags: "#iroesgr, #greekteam, #onegoal, #greatinjapan"
+  - username: "samantha.n.morrison"
+    fullname: >-
+      Samantha Morrison
+    bio: >-
+      🔹Brand ambassador 🔹 @tabatastores Discount code for 20%: samantha @fitness.on_life Discount code: Samantha20
+    location: "Greece"
+    followers: 9475
+    engagement: 827
+    commentsToLikes: 0.046459
+    id: ck0vyxij769mr0i1985t3tvto
+    verified: false
+    hashtags: "#portraitphotography, #anonima, #greekjewelry, #portrait"
 ---

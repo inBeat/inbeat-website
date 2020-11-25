@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top mothers Instagram influencers in Ukraine in 2020. Most popular hashtags: #mothersday #cosplay #flowerwreaths #giveaway.
+  Find top mothers Instagram influencers in Ukraine in 2020. Most popular hashtags: #fashion #style #mother.
 platform: Instagram
+hits: 54
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 54 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "edense"
+  - username: "nanaika"
     fullname: >-
-      Eden Saban Taltal
+      Nataliia Naida
+    bio: >-
+      ❤️ makeup mother Kyiv, Ukraina Moscow, Russia ❤️Founder @by_nanaika @make_up_mother_marathon
     location: "Ukraine"
-    followers: 89662
-    engagement: 202
-    commentsToLikes: 0.023088
-    id: ck14j5893ioue0i19geov09a7
-    verified: true
-    hashtags: "#somethingaboutyou, #kikogirls, #messiah, #kikogirl"
-  - username: "your_polovinka_"
-    fullname: >-
-      𝒴𝒶𝓃𝓀𝒶 𝒫𝑜𝓁𝑜.
-    location: "Ukraine"
-    followers: 8880
-    engagement: 631
-    commentsToLikes: 0.033379
-    id: ck5ce6ra0kfr40i11emzwkuuv
+    followers: 67093
+    engagement: 137
+    commentsToLikes: 0.037677
+    id: ck13cgkr208ga0i19wr899fee
     verified: false
-    hashtags: "#theseeyes, #positive, #vacation, #shining"
+    hashtags: ""
+  - username: "olgafilberg"
+    fullname: >-
+      Olga Filberg
+    bio: >-
+      Fashion designer & mother of @byfilberg #olgafilberg Kharkiv, Ukraine
+    location: "Ukraine"
+    followers: 6259
+    engagement: 1397
+    commentsToLikes: 0.018550
+    id: ckf5m82xmsp0a0j237nrg19c9
+    verified: false
+    hashtags: "#olgafilberg"
   - username: "mashaderevianko"
     fullname: >-
       MARIIA DEREVIANKO
+    bio: >-
+      🚩 Kiev 📩 for cooperation DM mother agency @mc2telaviv
     location: "Ukraine"
-    followers: 56911
-    engagement: 422
-    commentsToLikes: 0.007449
+    followers: 71689
+    engagement: 571
+    commentsToLikes: 0.005817
     id: ck0tww95wh0lq0i19gjxajogb
     verified: false
-    hashtags: "#film, #quarantine"
-  - username: "marinazakutnyaya"
+    hashtags: "#mirrorcheck"
+  - username: "krystyna_shyshkarova"
     fullname: >-
-      Marina Zakutnyaya ☀ Model
+      Krystyna Shyshkarova
+    bio: >-
+      ◼️Artistic Director @totemdanceSchool ◼️mother of 3 ◼️choreographer ◼️dance teacher
     location: "Ukraine"
-    followers: 83541
-    engagement: 157
-    commentsToLikes: 0.032402
-    id: ck5znp2b6ovw70i14gsfeco6c
+    followers: 5406
+    engagement: 523
+    commentsToLikes: 0.022937
+    id: ckf5nnq02ywej0j23kxkzee0r
     verified: false
-    hashtags: "#loveyougirls, #instagramlife, #phuket, #tailand"
-  - username: "undervoodoo"
+    hashtags: "#shyshkarovateacher"
+  - username: "kris.kosyk"
     fullname: >-
-      Cate Underwood
+      K R I S  K O S Y K
+    bio: >-
+      Voice @ Подкаст “Шит ай ноу Лайв”🎧 Mind @ Тг канал Shit I Know🤔 Teacher @ @filab.company 🚀 Mother of dragons @ home🐉
     location: "Ukraine"
-    followers: 100577
-    engagement: 323
-    commentsToLikes: 0.013616
-    id: ck15qthla4k9m0i19n6myp17w
-    verified: true
-    hashtags: "#nevernotonthejourney, #johannaortizxhm, #floriated, #reflect"
+    followers: 15680
+    engagement: 1270
+    commentsToLikes: 0.020453
+    id: ck0tz6zqupacg0i19srs1rsp0
+    verified: false
+    hashtags: ""
   - username: "iramyshak"
     fullname: >-
       Ira Myshak
+    bio: >-
+      • Wedding photographer @victor_haliuk 📷 • Co-founder of @_cozydecor_ • 36 countries • 25 years old Оlimpia's mother
     location: "Ukraine"
-    followers: 5784
-    engagement: 463
-    commentsToLikes: 0.008740
+    followers: 5669
+    engagement: 416
+    commentsToLikes: 0.007832
     id: ck5q7exmn17zt0i11bipnycfe
     verified: false
     hashtags: ""
-  - username: "nudegem.official"
+  - username: "gorovaya_irina"
     fullname: >-
-      PhotoProject by Sammy Galinsky
+      Gorovaya Irina
+    bio: >-
+      CEO/Owner Mozgi Group; Producer @mozgientertainment 🎼 Co-founder/Owner @citybeachclub 🍽 Mother of @potapchiq and @natashka.gorovaya 👩👦🏼
     location: "Ukraine"
-    followers: 106973
-    engagement: 390
-    commentsToLikes: 0.028592
-    id: ck5cb5pkses7x0i11t8bychsg
+    followers: 138459
+    engagement: 305
+    commentsToLikes: 0.009934
+    id: ck0vz4r9a7awh0i19gwwb4sh6
     verified: false
-    hashtags: "#ukrainianbeauty, #balletworld, #happymomtobe, #nudegem"
-  - username: "lera_kire"
+    hashtags: "#chloegirls, #lastdance, #mozgigroupstayathome, #mozgigroup"
+  - username: "gaganinna"
     fullname: >-
-      🍒V A L E R I 🍒
+      Материнство моде не помеха
+    bio: >-
+      Баклан (Гаган) Инна 🛍Стилист 💐Организатор 𝕖𝕧𝕖𝕟𝕥𝕤 👩🏼‍🏫Спикер в марафонах 🤳Автор 𝕠𝕟𝕝𝕚𝕟𝕖-курса «Счастье быть женщиной»
     location: "Ukraine"
-    followers: 43263
-    engagement: 1400
-    commentsToLikes: 0.162448
-    id: ck14k7io9o4lc0i19gi2vuztr
+    followers: 55405
+    engagement: 95
+    commentsToLikes: 0.097708
+    id: ckaosw5qftaad0i78fl0njp5o
     verified: false
-    hashtags: "#makeupideas, #gothicstyle, #gotcosplay, #harrypotter"
-  - username: "marina.z.t"
+    hashtags: "#innabaklan, #blogger, #bloggerkiev, #kiev"
+  - username: "dashafurtatova"
     fullname: >-
-      marina.z.t
+      LifestyleBlog•Photographer
+    bio: >-
+      •Успеваю ВСЁ •@hat_on_me •Организатор/режиссёр-постановщик Мисс МГУ 2008-2020 @mgu_od •Мама 👩🏻👧🏻👦🏻 @furtatovaanastasiia •Украина•Одесса
     location: "Ukraine"
-    followers: 278352
-    engagement: 1152
-    commentsToLikes: 0.036563
-    id: ck5zs2qe2xpqe0i145r9sqqil
+    followers: 27322
+    engagement: 166
+    commentsToLikes: 0.056732
+    id: ck15patwgwydo0i19se0o80l9
     verified: false
-    hashtags: "#zoryna, #200k, #look, #mothersday"
-  - username: "katya.kosiv"
+    hashtags: "#instapic, #nofilters, #blacksea, #momlife"
+  - username: "hrustka"
     fullname: >-
-      KATYA KOSIV
+      Christina Khoma
+    bio: >-
+      🤓Аналітик, психолог, естет 🏃‍♀️Вчусь любити спорт 👪Активна мама 💪Саморозвиток, мотивація ☘️Здоровий спосіб життя
     location: "Ukraine"
-    followers: 94593
-    engagement: 577
-    commentsToLikes: 0.087170
-    id: ck0u7cyzy4g9i0i199xunhh3z
+    followers: 8632
+    engagement: 502
+    commentsToLikes: 0.029304
+    id: ckap0w39ts2i00i78nu530r4f
     verified: false
-    hashtags: "#parisfrance, #mothersday, #picnic, #purinaone"
+    hashtags: "#medjugorje, #beautifuldestinations, #motherdaughter, #bosniaandherzegovina"
 ---

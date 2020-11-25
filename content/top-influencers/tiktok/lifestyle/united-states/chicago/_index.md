@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In Chicago In 2020
 description: >-
-  Find top lifestyle TikTok influencers in Chicago in 2020. Most popular hashtags: #lifestyle #chicago #quarantine #vacation.
+  Find top lifestyle TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #chicago #foryou #lifestyle.
 platform: TikTok
+hits: 16
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 16 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "alaia.alaia"
+  - username: "livewithmoi"
     fullname: >-
-      Lai lai 🦋
+      MOIRA
+    bio: >-
+      Poor Chicago girl with taste Follow me on IG: moiiisauce 🤍
     location: "United States"
-    followers: 10977
-    engagement: 466
-    commentsToLikes: 0.036444
-    id: ck90tz47runq10j7890aatttc
+    followers: 4901
+    engagement: 838
+    commentsToLikes: 0.033802
+    id: ckbexsvczia4n0j23hg485zgk
     verified: false
-    hashtags: "#sneakerhead, #makeuproutine, #badboy, #work"
-  - username: "strxberry.curls"
+    hashtags: "#stayathome, #boredathome, #happy, #target"
+  - username: "itisdanielaaa"
     fullname: >-
-      ✨🐆✨
+      Itisdanielaaa
+    bio: >-
+      Chicago 🦋 | MEXICAN 🇲🇽
     location: "United States"
-    followers: 11346
-    engagement: 865
-    commentsToLikes: 0.042771
-    id: ckai9gd20865v0i78k0sy5ajl
+    followers: 15200
+    engagement: 883
+    commentsToLikes: 0.000156
+    id: ckb8z5cfge96k0j23qvpd7xkp
     verified: false
-    hashtags: "#happy, #cursed, #fail, #skincareroutine"
-  - username: "missyeah"
-    fullname: >-
-      MISSY
-    location: "United States"
-    followers: 5305
-    engagement: 528
-    commentsToLikes: 0.037285
-    id: ckaiby363iel10i78g9ib736s
-    verified: false
-    hashtags: "#fromthefuture, #imaboss, #easydiy, #tiktokrestarea"
-  - username: "miss_annavictoria"
-    fullname: >-
-      miss_annavictoria
-    location: "United States"
-    followers: 3182
-    engagement: 706
-    commentsToLikes: 0.033946
-    id: ck9a6qsny4e3v0j78f8zpx2ir
-    verified: false
-    hashtags: "#cuba, #city, #girls, #capri"
-  - username: "jennifergendece"
-    fullname: >-
-      Jennifer Gendece
-    location: "United States"
-    followers: 19636
-    engagement: 408
-    commentsToLikes: 0.051662
-    id: ck9k3epvho3yb0j78r2eqrlbj
-    verified: false
-    hashtags: "#kids, #penelope, #love, #promlook"
-  - username: "digitaldima"
-    fullname: >-
-      Dima Azarenko
-    location: "United States"
-    followers: 10141
-    engagement: 687
-    commentsToLikes: 0.060608
-    id: cka0m5zk8ty890i78qp2coelg
-    verified: false
-    hashtags: "#inverted, #gotthisforyou, #vacation, #point"
-  - username: "eliteluxurynyc"
-    fullname: >-
-      Francisco
-    location: "United States"
-    followers: 13163
-    engagement: 261
-    commentsToLikes: 0.019988
-    id: ck8s7q9eiqa1k0j78xo8pdbw5
-    verified: false
-    hashtags: "#kitchenhacks, #yomama, #epicpromposal, #nycfood"
+    hashtags: "#married, #fyp, #foryoupage, #army"
   - username: "jokubas_pa"
     fullname: >-
       Jokubas_pa
+    bio: >-
+      Just some videos of my cars and my car problems. Instagram: jokubas_pa
     location: "United States"
     followers: 16795
     engagement: 362
     commentsToLikes: 0.007066
     id: ck81qrnr0ja460j78owf739an
     verified: false
-    hashtags: "#tune, #mustanggt, #truck, #c63samg"
-  - username: "nickibaber"
+    hashtags: "#carlover, #fun, #car, #fast"
+  - username: "chlobellexx"
     fullname: >-
-      Nicki Baber
+      chlobellexx
+    bio: >-
+      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Dance | FUN!
     location: "United States"
-    followers: 5033134
-    engagement: 2245
-    commentsToLikes: 0.019367
-    id: ck83yswyvvfka0j781uns1b5e
-    verified: true
-    hashtags: "#cookingtips, #transition, #astrology, #tiktokscience"
-  - username: "williamsheats"
+    followers: 27100
+    engagement: 866
+    commentsToLikes: 0.073780
+    id: cka0sjq6zls1d0i78cohlipwf
+    verified: false
+    hashtags: "#colorado, #ad, #chicagobucketlist, #photomagic"
+  - username: "alaia.alaia"
     fullname: >-
-      williamsheats
+      Lai lai 🦋
+    bio: >-
+      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
     location: "United States"
-    followers: 232461
-    engagement: 3279
-    commentsToLikes: 0.024171
-    id: ck9pmafws8gsr0j787llk14we
+    followers: 19600
+    engagement: 597
+    commentsToLikes: 0.029383
+    id: ck90tz47runq10j7890aatttc
+    verified: false
+    hashtags: "#chicago, #summer, #health, #fitness"
+  - username: "eattravelrock"
+    fullname: >-
+      Kelly Rizzo
+    bio: >-
+      TV Host Food/Travel/Lifestyle Expert IG @eattravelrock Mrs. @bobsaget
+    location: "United States"
+    followers: 168200
+    engagement: 1023
+    commentsToLikes: 0.020429
+    id: ck80oq80jj7lk0j78wd2t1otg
     verified: true
-    hashtags: "#metgala, #ilovehim, #arianagrande, #cover"
+    hashtags: "#pumpkinrecipes, #airtravel, #covidsafety, #travelsafety"
+  - username: "dailymillionaire"
+    fullname: >-
+      Luxury
+    bio: >-
+      Just Another Millionaire Lifestyle
+    location: "United States"
+    followers: 17100
+    engagement: 803
+    commentsToLikes: 0.017497
+    id: ckb9kzfkad9oh0j23wirscd4v
+    verified: false
+    hashtags: "#supercars, #travel, #hollywood, #cars"
+  - username: "dessimonoff"
+    fullname: >-
+      dessimonoff
+    bio: >-
+      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
+    location: "United States"
+    followers: 46400
+    engagement: 338
+    commentsToLikes: 0.012889
+    id: ck9v17ljmft3g0j784l2ozgix
+    verified: false
+    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
+  - username: "miss_annavictoria"
+    fullname: >-
+      miss_annavictoria
+    bio: >-
+      
+    location: "United States"
+    followers: 3138
+    engagement: 702
+    commentsToLikes: 0.045244
+    id: ck9a6qsny4e3v0j78f8zpx2ir
+    verified: false
+    hashtags: "#fyp, #california, #traveling, #view"
+  - username: "jennifergendece"
+    fullname: >-
+      Jennifer Gendece
+    bio: >-
+      Helping Realtors achieve 6 & 7 figure years www.classyclosers.com
+    location: "United States"
+    followers: 19100
+    engagement: 436
+    commentsToLikes: 0.048150
+    id: ck9k3epvho3yb0j78r2eqrlbj
+    verified: false
+    hashtags: "#lastminutexmas, #lifestyle, #millionaire, #foryou"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Dallas In 2020
 description: >-
-  Find top makeup Instagram influencers in Dallas in 2020. Most popular hashtags: #makeup #stayhome #makeupaddict #dfwmakeupartist.
+  Find top makeup Instagram influencers in Dallas in 2020. Most popular hashtags: #makeup #dallas #makeuplooks #dallasmua.
 platform: Instagram
+hits: 151
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 151 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "thehautechristian"
+  - username: "thaoweezy123"
     fullname: >-
-      ⇺TᕼE ᕼᗩᑌTE ᑕᕼᖇIᔕTIᗩᑎ⇻
+      Thaoweezy123
+    bio: >-
+      ❤️Notpolish.com❤️ 💌thao1nguy3n@yahoo.com 🌴San Diego🌴 ⬇️YOUTUBE LINK ⬇️
     location: "United States"
-    followers: 16491
-    engagement: 417
-    commentsToLikes: 0.138535
-    id: ck0w00ug2bttp0i19vc6y7nsw
+    followers: 108506
+    engagement: 181
+    commentsToLikes: 0.105603
+    id: ck14jhldckdym0i190evcdw3i
     verified: false
-    hashtags: "#purses, #influenster, #blackhair, #jewellrylove"
-  - username: "lunarkris"
+    hashtags: "#weddingideas, #nailstagram, #nailmagazine, #nailswag"
+  - username: "victoriavixx"
     fullname: >-
-      🌙 KRIS ✨ DFW Model
+      Victoria 💄
+    bio: >-
+      Dallas Texas @singletontattoo 📍 @ejaytattoo💚 @novalbernal 👧🏻 @ezrabernal 👶🏻 🙏🏼✝️
     location: "United States"
-    followers: 6773
-    engagement: 617
-    commentsToLikes: 0.065339
-    id: ck6tmm1kh838u0j71xawbnzgq
+    followers: 5747
+    engagement: 734
+    commentsToLikes: 0.083211
+    id: ck8t7duv8gfyl0j78btstqim1
     verified: false
-    hashtags: "#makeupinstagram, #dfweventplanner, #makeupinspo, #eatyourheartout"
-  - username: "baileysbabblings"
+    hashtags: "#dallas, #dallasmom, #blondehair, #makeuplooks"
+  - username: "itsgoldenpiece"
     fullname: >-
-      Bailey Martindale
+      ＭΛＣＫΞＮＺΞΞ 🇯🇲
+    bio: >-
+      ✨CEO @itsgoldenpieceboutique ✨International Published Model MUA UNT’22 ✨Graphic Design @thegoldengraphics @touchedbygolden DTX📍
     location: "United States"
-    followers: 22506
-    engagement: 303
-    commentsToLikes: 0.052008
-    id: ck6uhalpm808q0j71j5wqoqts
+    followers: 4388
+    engagement: 950
+    commentsToLikes: 0.044272
+    id: ck6u43g0g1gnj0j71prekiuss
     verified: false
-    hashtags: "#sponsoredpost, #coravid19, #ad, #stayhome"
+    hashtags: "#makeupblogger, #bazaar, #bia, #makeupoftheday"
+  - username: "valencarvajal94"
+    fullname: >-
+      𝑉𝑎𝑙𝑒𝑛𝑡𝑖𝑛𝑎 𝐶𝑎𝑟𝑣𝑎𝑗𝑎𝑙💕💕
+    bio: >-
+      𝒟𝒶𝓁𝓁𝒶𝓈 -𝒯𝒳🏠 Mom of two 👦🏻👧🏻 COLOMBIA-ESPAÑA-USA 🇨🇴🇪🇸🇺🇸 #latina#mom#texas#goodvibes
+    location: "United States"
+    followers: 20100
+    engagement: 499
+    commentsToLikes: 0.029075
+    id: ckap91zw4qvo00i78m2cfbr8h
+    verified: false
+    hashtags: "#texas, #espan, #love, #dallas"
   - username: "ruby_avelar"
     fullname: >-
       Dallas Makeup Artist
+    bio: >-
+      ➖ DFW MUA 📍 ➖ Collab? 💕 DM me ➖ Texas Gal🌵 ➖ For booking DM client page @fabulousbyruby ➖ Subscribe to my YouTube channel🎥
     location: "United States"
-    followers: 11676
-    engagement: 1290
-    commentsToLikes: 0.082215
+    followers: 14619
+    engagement: 1245
+    commentsToLikes: 0.027232
     id: ck0vwcydet4zc0i19j7vc8kl9
     verified: false
-    hashtags: "#nochistlense, #inspofashion, #giveaway, #exploremore"
-  - username: "fatimathemua"
-    fullname: >-
-      Fatima | Dallas Makeup Artist
-    location: "United States"
-    followers: 24408
-    engagement: 1101
-    commentsToLikes: 0.059090
-    id: ck6u7tab1njfo0j713y4h6dh0
-    verified: false
-    hashtags: "#novababe, #fashionnovacurve, #webinar, #20kgiveaway"
+    hashtags: "#bohowestern, #outfit, #dallas, #ootdfashion"
   - username: "e.g.beautystudio"
     fullname: >-
       Eloy Dallas Makeup Artist
+    bio: >-
+      Eloy Guerra Dallas 💄 Professional Makeup Artist 📷 Beauty Photographer 📩 Booking: bookingeloy@gmail.com
     location: "United States"
     followers: 19945
     engagement: 215
     commentsToLikes: 0.050355
     id: ck5zocpslq9ni0i14c359mfmv
     verified: false
-    hashtags: "#urbandecay, #houstonmua, #dfwmakeupartist, #lamakeupartist"
-  - username: "manibaeee"
+    hashtags: "#dallasmua, #maccosmetics, #dallasmakeupartist, #makeupforblackwomen"
+  - username: "thestyleride"
     fullname: >-
-      Imani. ✨
+      M Λ Η I
+    bio: >-
+      Mom | Fashion | Beauty | Travel | YouTuber Email Me 📨- thestyleride@gmail.com 📍Dallas TX 🇺🇸 FB👤 | Snapchat👻 | twitter🐦: @thestyleride Blog👩🏼‍💻👇
     location: "United States"
-    followers: 4685
-    engagement: 1534
-    commentsToLikes: 0.067540
-    id: ck5cii2a6soiv0i11louvwbhr
+    followers: 110185
+    engagement: 162
+    commentsToLikes: 0.114484
+    id: ck5q9cqi1ag5l0i11frmsb2u9
     verified: false
-    hashtags: ""
-  - username: "roccastillo"
+    hashtags: "#miamibloggers, #aidanmattox, #luxuryblogger, #myapmoment"
+  - username: "mirandaxsasha"
     fullname: >-
-      Roc Castillo
+      𝙈𝙄𝙍𝘼𝙉𝘿𝘼 𝙎𝘼𝙎𝙃𝘼| MODEL| Dallas
+    bio: >-
+      Dallas, TX • 📍Montego Bay, JA MANAGED BY: @big_escada_ OWNER OF: @shopklassi FOLLOW & BOOK @beautyxsashaa 💎 #DallasModel
     location: "United States"
-    followers: 27759
-    engagement: 359
-    commentsToLikes: 0.034210
-    id: ckap1s3fuvvw10i78b3vvfa5u
+    followers: 21115
+    engagement: 251
+    commentsToLikes: 0.052955
+    id: ck5c4ub5z24ex0i116ld2lx5a
     verified: false
-    hashtags: "#carolsdaughter, #makeup, #kevynaucoinbeauty, #sponsored"
-  - username: "ty_static"
+    hashtags: "#creativeprocess, #likeforlikes, #photo, #happy"
+  - username: "kassybby_mua"
     fullname: >-
-      Ty Cain, The Model
+      Kass
+    bio: >-
+      Makeup & fashion lover 💄💅🏻 Dallas Tx 📍/Jerécuaro Gto 🇲🇽 E-mail:kassrojas8@gmail.com Tik Tok 🌸 kassybby_mua Suscríbete a mi canal 🎥 🌸
     location: "United States"
-    followers: 6096
-    engagement: 683
-    commentsToLikes: 0.072734
-    id: ck8syrsdglra40j78honc5wab
+    followers: 12998
+    engagement: 871
+    commentsToLikes: 0.072541
+    id: ck8t5elgl9vvh0j784dzti33s
     verified: false
-    hashtags: "#amazing, #phenomenalwoman, #skin, #bday"
-  - username: "_marvella__"
+    hashtags: "#softglam, #fashionnova, #mexicana, #glamour"
+  - username: "edelinfalcon"
     fullname: >-
-      MARVELLA ♡
+      Edelin Y Falcon
+    bio: >-
+      TAMUK’24 ✞ Pr/Collab’s - email or DM 💌
     location: "United States"
-    followers: 44529
-    engagement: 742
-    commentsToLikes: 0.022771
-    id: ck6u4p79l50o80j717rtb4gfj
+    followers: 4619
+    engagement: 1143
+    commentsToLikes: 0.085616
+    id: ck5zpeizysj2a0i14piotuf8t
     verified: false
-    hashtags: "#funnytiktokvideos, #blackgirlmagic, #savagechallenge, #coronaviruspandemic"
+    hashtags: "#sections, #latina, #photooftheday, #loveyourself"
 ---

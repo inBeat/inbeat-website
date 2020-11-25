@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Portugal In 2020
 description: >-
-  Find top music TikTok influencers in Portugal in 2020. Most popular hashtags: #tiktokportugal #foryou #like #foryoupage.
+  Find top music TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #tiktok #duet #portugal.
 platform: TikTok
+hits: 50
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 50 TikTok influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "cidade.fm"
+  - username: "kennystones"
     fullname: >-
-      CIDADEFM
+      kennystones
+    bio: >-
+      Ouve a minha música aí no link crl
     location: "Portugal"
-    followers: 65326
-    engagement: 1862
-    commentsToLikes: 0.023500
-    id: ck9eycss3v7d90j782kpbqwm1
+    followers: 61800
+    engagement: 1493
+    commentsToLikes: 0.013530
+    id: ckcuyb79fmch80j234dw4aht6
     verified: false
-    hashtags: "#foryou, #quarantine, #supalonely, #ft"
-  - username: "tessa.chb"
+    hashtags: "#voltareilopes, #stitch, #portugal, #pov"
+  - username: "stankoofficial"
     fullname: >-
-      Teresa
+      Stanko
+    bio: >-
+      Já ouviste a minha música nova? 👆👆👆 clicka aí mpt 👇👇👇
     location: "Portugal"
-    followers: 20969
-    engagement: 1772
-    commentsToLikes: 0.017571
-    id: cka6018dxp7ry0i786wih9jxm
+    followers: 36200
+    engagement: 1306
+    commentsToLikes: 0.018514
+    id: ckcvj9y25wnge0j23qul16ac1
     verified: false
-    hashtags: "#hogwarts, #americasinger, #starwars, #book"
+    hashtags: "#fyp, #paravoce, #duet, #stitch"
+  - username: "julia.vieira.r"
+    fullname: >-
+      Julia Vieira
+    bio: >-
+      bem vindo a um perfil nada a ver 🤪 ah e eu gosto de criar músicas
+    location: "Portugal"
+    followers: 46100
+    engagement: 1104
+    commentsToLikes: 0.015888
+    id: ckdhtnews33c50j23r6ltcar5
+    verified: false
+    hashtags: "#lisboa, #summer, #ex, #storytime"
+  - username: "megahitstiktok"
+    fullname: >-
+      Mega Hits
+    bio: >-
+      A tua música, os teus artistas preferidos e o backstage do que ouves na Mega!
+    location: "Portugal"
+    followers: 35800
+    engagement: 867
+    commentsToLikes: 0.006714
+    id: ckbbbilvi0irm0j230yzd6z8b
+    verified: false
+    hashtags: "#fyp, #megahits, #isto, #ticket"
   - username: "eauxg"
     fullname: >-
       EauxG
+    bio: >-
+      🇦🇴|🇵🇹 Produtor de Música CEO das Curiosidades [Oh-Djï]
     location: "Portugal"
-    followers: 17392
-    engagement: 911
-    commentsToLikes: 0.024733
+    followers: 44600
+    engagement: 891
+    commentsToLikes: 0.018127
     id: ck9kfuv4e54l00j78hip9u6o1
     verified: false
-    hashtags: "#realidade, #errodosistema, #quebrandotabu, #xyzbca"
-  - username: "anabelasilva82"
+    hashtags: "#tiktokportugal, #paravoce, #3perguntas, #sempress"
+  - username: "claudanie"
     fullname: >-
-      Anabela Silva
+      Cláudia Daniela
+    bio: >-
+      "live with passion, live musical.ly"
     location: "Portugal"
-    followers: 12560
-    engagement: 375
-    commentsToLikes: 0.028128
-    id: ck9c1l069otod0j78gn45nf7u
+    followers: 11600
+    engagement: 337
+    commentsToLikes: 0.006619
+    id: ckbqih0bv3ocp0j23nt92r5n2
     verified: false
-    hashtags: "#partimearir, #ahhah, #meninodorico, #meninodopobre"
-  - username: "kapinhaoficial"
+    hashtags: "#foryoupage, #charevelacao, #tiktok, #boyfriend"
+  - username: "seifiiii"
     fullname: >-
-      Kapinha
+      Seifi
+    bio: >-
+      Ela disse (Music Video)👇🏽
     location: "Portugal"
-    followers: 78820
-    engagement: 552
-    commentsToLikes: 0.011672
-    id: ck9glci1knl150j78kmvzjgzr
+    followers: 2481
+    engagement: 682
+    commentsToLikes: 0.084894
+    id: ckcpszwamni9h0j23k8nlmm7v
     verified: false
-    hashtags: "#party, #health, #treino, #canyoudoit"
-  - username: "trainermiguel24"
+    hashtags: ""
+  - username: "patricia_vaz_"
     fullname: >-
-      Sérgio Miguel Melo
+      Patrícia Franco
+    bio: >-
+      Just be nice and kind :) 16 PT📍
     location: "Portugal"
-    followers: 65371
-    engagement: 322
-    commentsToLikes: 0.012750
-    id: ck9feix4tt6kr0j78wnl46uk0
+    followers: 31500
+    engagement: 1985
+    commentsToLikes: 0.034617
+    id: ckcpse08nmmj40j23oveh3e7m
     verified: false
-    hashtags: "#pushup, #chalange, #ceoof, #porto"
-  - username: "mafalda_teixeira"
+    hashtags: "#tiktokportugal, #dueto, #fy, #music"
+  - username: "wayndior"
     fullname: >-
-      Mafalda Teixeira
+      Dior ✨
+    bio: >-
+      Instagram & Youtube ✨⬆️ Artista 🎙 “Desfilar” OUT NOW☔️
     location: "Portugal"
-    followers: 70172
-    engagement: 590
-    commentsToLikes: 0.006447
-    id: ck9gsj7a9iolh0j78a1gkbqaw
+    followers: 134400
+    engagement: 1777
+    commentsToLikes: 0.022029
+    id: ckcprw7ztlxb30j23onjnz6ix
     verified: false
-    hashtags: "#frozen, #workout, #losecontrol, #gabrielkapinha"
-  - username: "constanzaariza"
+    hashtags: "#fyp, #fa, #duet, #oioioi"
+  - username: "eden_hamill"
     fullname: >-
-      ❥Constanza Ariza❥
+      Eden Hamill
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐲 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ✨𝑩𝑬 𝑫𝑰𝑭𝑭𝑬𝑹𝑬𝑵𝑻 ✨
     location: "Portugal"
-    followers: 618056
-    engagement: 2110
-    commentsToLikes: 0.017970
-    id: ck83zbke6zfil0j788ewd8cyv
-    verified: true
-    hashtags: "#horror, #makeup, #summer, #bikini"
-  - username: "hbaptista_7"
-    fullname: >-
-      H. Baptista
-    location: "Portugal"
-    followers: 26381
-    engagement: 1483
-    commentsToLikes: 0.067396
-    id: ck9ux0zryy6yz0j78l73d6h70
+    followers: 8079
+    engagement: 1115
+    commentsToLikes: 0.047151
+    id: ckb9sgk4spq7e0j23fj2ynqnb
     verified: false
-    hashtags: "#disney, #dueto, #novatelaverde, #signos"
-  - username: ".balbinno"
-    fullname: >-
-      ⭐⭐฿₳Ⱡ฿ł₦₦Ø⭐⭐
-    location: "Portugal"
-    followers: 32264
-    engagement: 790
-    commentsToLikes: 0.053800
-    id: ck85cqi24319j0j78i64xawc1
-    verified: false
-    hashtags: "#buenosdias, #brigadevizinhos, #frozen, #wonderwall"
+    hashtags: "#tiktok, #fyp, #music, #lipsync"
 ---

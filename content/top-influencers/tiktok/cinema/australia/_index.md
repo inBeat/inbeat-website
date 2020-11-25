@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema TikTok Influencers In Australia In 2020
 description: >-
-  Find top cinema TikTok influencers in Australia in 2020. Most popular hashtags: #cinema #quarantine #film #randomthings.
+  Find top cinema TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #viral #australia.
 platform: TikTok
+hits: 30
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 30 TikTok influencers like this in Australia for you to collaborate.
 profiles:
+  - username: "cinemaliss"
+    fullname: >-
+      erika
+    bio: >-
+      everything looks better in slow motion cinemaliss on ig
+    location: "Australia"
+    followers: 10500
+    engagement: 2132
+    commentsToLikes: 0.017848
+    id: ckbasje6tj4yx0j237vcd4ot8
+    verified: false
+    hashtags: "#zendaya, #timoth, #euphoria, #foryou"
+  - username: "brisbanemovienights"
+    fullname: >-
+      brisbanemovienights
+    bio: >-
+      Brisbane, Australia. Luxe Pop-up Cinema Hire. Parties, Date Nights, Events.
+    location: "Australia"
+    followers: 8684
+    engagement: 1318
+    commentsToLikes: 0.026914
+    id: ckbqej4i10drs0j23qdjw79fe
+    verified: false
+    hashtags: "#fyp, #movie, #brisbane, #donutday"
   - username: "buttermilkjesus9"
     fullname: >-
       Yasin Osias
+    bio: >-
+      Ded
     location: "Australia"
-    followers: 46918
-    engagement: 733
-    commentsToLikes: 0.080190
+    followers: 52600
+    engagement: 656
+    commentsToLikes: 0.070236
     id: ck83za9yxz3t00j787qw1nosj
     verified: false
-    hashtags: "#psycho, #vibecheck, #garou, #nolove"
+    hashtags: "#anime, #fyp, #movie, #cod"
+  - username: "itsdaymoo"
+    fullname: >-
+      daymoo
+    bio: >-
+      sub to my YouTube for good luck https://www.youtube.com/daymoo
+    location: "Australia"
+    followers: 25800
+    engagement: 1933
+    commentsToLikes: 0.012657
+    id: ckb9vntm4v21h0j239zss6g6g
+    verified: false
+    hashtags: "#movie, #foryou, #amongusvideo, #meme"
   - username: "alexpidgeon"
     fullname: >-
       Heyalex
+    bio: >-
+      Hey 👋🏼 I’m Alex, a Sydney based photographer & videographer 🤘🏼
     location: "Australia"
-    followers: 117461
-    engagement: 1762
-    commentsToLikes: 0.006584
+    followers: 117400
+    engagement: 1698
+    commentsToLikes: 0.005875
     id: ck8135iwyzymq0j78m2vttcri
     verified: false
-    hashtags: "#tutorial, #filmcamera, #film, #food"
+    hashtags: "#forthephoto, #photoideas, #tiktoktravel, #behindtheshoot"
   - username: "invisagestudios"
     fullname: >-
       Invisage Studios
+    bio: >-
+      🎥 Video Content Creation 🚀 Digital Advertising 🇦🇺 Adelaide
     location: "Australia"
-    followers: 25454
-    engagement: 595
-    commentsToLikes: 0.007319
+    followers: 24800
+    engagement: 744
+    commentsToLikes: 0.012021
     id: ck80cqv2hamnw0j78b89vub37
     verified: false
-    hashtags: "#winery, #mclaren, #coffeeart, #surfersparadise"
-  - username: "veronicagershonn"
+    hashtags: "#reddigitalcinema, #drifting, #drift, #cinematography"
+  - username: "andyescapes"
     fullname: >-
-      veronica 🇦🇺
+      Andrew
+    bio: >-
+      Videographer 📸 Always Adventuring | Syd 🇦🇺 Check the IG for the bangers 🔥
     location: "Australia"
-    followers: 5102
-    engagement: 1135
-    commentsToLikes: 0.076911
-    id: ck9jxeqzr0dvg0j783qixsrnh
+    followers: 79400
+    engagement: 816
+    commentsToLikes: 0.018667
+    id: ckbffu2t3apxc0j23ajpez8yv
     verified: false
-    hashtags: "#singing, #getmoney, #straighttohell, #cinema"
-  - username: "parkourayce"
+    hashtags: "#drone, #transition, #cinematic, #viral"
+  - username: "fahad.razzak"
     fullname: >-
-      ParkourAYCE
+      Fahad Razzak
+    bio: >-
+      
     location: "Australia"
-    followers: 10272
-    engagement: 1685
-    commentsToLikes: 0.021212
-    id: ck9kdgilzu41l0j780anez21n
+    followers: 2548
+    engagement: 347
+    commentsToLikes: 0.005666
+    id: ckbkvahnbqso10j23t2qlug0w
     verified: false
-    hashtags: "#insane, #flip, #doubleback, #freeeunning"
-  - username: "mollystanko"
+    hashtags: "#hobart, #tasmania, #australia, #fyp"
+  - username: "thatscrazeh"
     fullname: >-
-      Molly Stanko
+      That’s So Crazeh
+    bio: >-
+      Creepy, interesting stuff w/ Ricky Chainz 😉 Stickyrickychang@gmail.com 🤪🐶😂
     location: "Australia"
-    followers: 34960
-    engagement: 1445
-    commentsToLikes: 0.007524
-    id: ckacaqpthh58w0i785ofdx77k
+    followers: 92700
+    engagement: 1571
+    commentsToLikes: 0.025643
+    id: ckc7ocppoual90j23xvntpo8w
     verified: false
-    hashtags: "#pretty, #imaboss, #tiktoktrivia, #cinematics"
-  - username: "raafatmaamari"
+    hashtags: "#scary, #weird, #strange, #fyp"
+  - username: "olsson.adventures"
     fullname: >-
-      Raafat Maamari
+      Liam Olsson
+    bio: >-
+      Filmmaker & Photographer from Aus 🇦🇺
     location: "Australia"
-    followers: 11767
-    engagement: 362
-    commentsToLikes: 0.032465
-    id: ck9fe5hlirlud0j78gz035r7b
+    followers: 14200
+    engagement: 2037
+    commentsToLikes: 0.034654
+    id: ckdn97wyofmsh0j23gb0maeoq
     verified: false
-    hashtags: "#moderndesign, #tvunit, #mango, #walkin"
-  - username: "vandergoff"
-    fullname: >-
-      VANDERGOFF 
-    location: "Australia"
-    followers: 40182
-    engagement: 1675
-    commentsToLikes: 0.012226
-    id: ck80cqtjoamb30j7878hqaykh
-    verified: false
-    hashtags: "#musiclives, #makeadrink, #cinematograpghy, #greenvspurple"
-  - username: "shammiltd"
-    fullname: >-
-      Shammi
-    location: "Australia"
-    followers: 655722
-    engagement: 1104
-    commentsToLikes: 0.004750
-    id: cka7v9yd0ver50i78iow6k1dj
-    verified: true
-    hashtags: "#schoolsout, #money, #bestfriends, #newchallenege"
-  - username: "_angelomarasigan"
-    fullname: >-
-      Angelo
-    location: "Australia"
-    followers: 184844
-    engagement: 1489
-    commentsToLikes: 0.005909
-    id: ck83z3vshxhfq0j78ytgqkxy0
-    verified: false
-    hashtags: "#instagram, #woolworths, #uber, #lindsaylohan"
+    hashtags: "#nature, #tiktokphoto, #photoshoot, #tiktoktravel"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top Instagram influencers in Lisbon in 2020. Most popular hashtags: #ootd #outfits #fashionstyle #levis.
+  Find top Instagram influencers in Lisbon in 2020. Most popular hashtags: #fashion #travel #outfitoftheday #love.
 platform: Instagram
+hits: 410
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 410 Instagram influencers like this in Lisbon, Portugal for you to work with.
 profiles:
+  - username: "brunolexim"
+    fullname: >-
+      BRUNO LEXIM
+    bio: >-
+      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
+    location: "Portugal"
+    followers: 5702
+    engagement: 1486
+    commentsToLikes: 0.175327
+    id: ck8t4nlcl7fh60j78xtp7cxlv
+    verified: false
+    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
+  - username: "vera_fferreira"
+    fullname: >-
+      Vera Ferreira
+    bio: >-
+      26 ◦ Lisbon, Portugal 🇵🇹 Lived in 🇺🇸
+    location: "Portugal"
+    followers: 3961
+    engagement: 2666
+    commentsToLikes: 0.136201
+    id: ck135h9a81erw0i19ocgiof5m
+    verified: false
+    hashtags: "#mytinyatlas, #wearetravelgirls, #beautifuldestinations, #bucketlisters"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
+    bio: >-
+      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
     location: "Portugal"
-    followers: 9654
-    engagement: 1433
-    commentsToLikes: 0.083478
+    followers: 9004
+    engagement: 1544
+    commentsToLikes: 0.083427
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#door, #graffiti, #loveyourself, #caisdosodre"
-  - username: "rubenrpvaz"
-    fullname: >-
-      ℝ 𝕌 𝔹 𝔼 ℕ  𝕍 𝔸 ℤ
-    location: "Portugal"
-    followers: 10840
-    engagement: 1115
-    commentsToLikes: 0.140023
-    id: ck6ti80us07rt0j719wtmkxt0
-    verified: false
-    hashtags: "#jointhemvmt, #fashionnova, #street, #styleoftheday"
-  - username: "its.leite"
-    fullname: >-
-      Tiago Leite
-    location: "Portugal"
-    followers: 52279
-    engagement: 939
-    commentsToLikes: 0.045146
-    id: ck5zq9csvu6iw0i14d80ke45g
-    verified: false
-    hashtags: "#beforeyougo, #famleite, #straders, #viberz"
+    hashtags: "#cancerfighter, #diary, #love, #sunlight"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
+    bio: >-
+      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
     location: "Portugal"
-    followers: 68815
-    engagement: 502
-    commentsToLikes: 0.071840
+    followers: 89978
+    engagement: 616
+    commentsToLikes: 0.132250
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
-  - username: "martinhagomez"
+    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
+  - username: "misscasimiro"
     fullname: >-
-      Martinha Gomez
+      Mädchen
+    bio: >-
+      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
     location: "Portugal"
-    followers: 26439
-    engagement: 498
-    commentsToLikes: 0.191096
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 9604
+    engagement: 1786
+    commentsToLikes: 0.066591
+    id: ck9hb1xoaf15l0j789k7x4783
     verified: false
-    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
-  - username: "brunoanjoss"
-    fullname: >-
-      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
-    location: "Portugal"
-    followers: 4441
-    engagement: 1771
-    commentsToLikes: 0.378577
-    id: ck9womla25rjc0j78gw86m3wr
-    verified: false
-    hashtags: "#topman, #healthy, #freedom, #streetwear"
+    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
   - username: "rosalimaloureiro"
     fullname: >-
       Rosa Lima Loureiro
+    bio: >-
+      • From Lisbon 🌊🌊🐚 • Studying in London 📍
     location: "Portugal"
-    followers: 29408
-    engagement: 1501
-    commentsToLikes: 0.033297
+    followers: 36535
+    engagement: 1194
+    commentsToLikes: 0.039185
     id: ck8t4jx1q70xx0j78kofberj1
     verified: false
-    hashtags: "#stylist, #tbt, #fashionstyle, #instagood"
+    hashtags: "#love, #tbt, #styleblogger, #nature"
   - username: "whatever.joana"
     fullname: >-
       Joana Dias
+    bio: >-
+      Based in Lisbon, Portugal Collaborations/shoot inquiries: 💌 joanadiasngd@gmail.com
     location: "Portugal"
-    followers: 5855
-    engagement: 1028
-    commentsToLikes: 0.236350
+    followers: 7747
+    engagement: 1034
+    commentsToLikes: 0.203523
     id: ck0u12aejvj8w0i19k9pnujgn
     verified: false
-    hashtags: "#jijilss20, #throwback, #beachgirl, #summer"
-  - username: "marianacardia"
+    hashtags: "#outfit, #love, #style, #fashion"
+  - username: "sharonpannen"
     fullname: >-
-      Mαяιαηα 🌹
+      Sharon Pannen
+    bio: >-
+      photographer/ creative direction between Lisbon and Amsterdam sharonpannen@hotmail.com
     location: "Portugal"
-    followers: 15273
-    engagement: 653
-    commentsToLikes: 0.131552
-    id: ck8t6uh2eeqch0j78kg2sj6w0
+    followers: 8727
+    engagement: 998
+    commentsToLikes: 0.100812
+    id: ck6tor064fm660j714e8yax87
     verified: false
-    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
-  - username: "catarina_bpinto"
+    hashtags: "#theanalogclub, #analogvibes, #35mm, #analog"
+  - username: "martinhagomez"
     fullname: >-
-      Catarina Pinto
+      Martinha Gomez
+    bio: >-
+      💄Portuguese Blogger & Youtuber 💄 🖌️Graphic Designer |📍Lisbon ▪️Mother of 🐈🐈🐕 . Collabs ✉️ Insta.martinhagomez@gmail.com .
     location: "Portugal"
-    followers: 39391
-    engagement: 389
-    commentsToLikes: 0.370276
-    id: ck0u6xt2e37c80i19qb4765v1
+    followers: 28732
+    engagement: 573
+    commentsToLikes: 0.265003
+    id: ck0tybj33marc0i19b7w37ha9
     verified: false
-    hashtags: "#sparkle, #sushilovers, #passatempo, #color"
+    hashtags: "#fridayloveday, #novidade, #playa, #verao2020"
+  - username: "eyes.of.rita"
+    fullname: >-
+      Rita Neves
+    bio: >-
+      Photography . Sometimes about everything. . Lisbon, Portugal. ritacruzneves@gmail.com . Misbehaved alter ego: @raw.eyes.of.rita . _rsa_minimal member
+    location: "Portugal"
+    followers: 11175
+    engagement: 844
+    commentsToLikes: 0.085536
+    id: ck5qa50yoekqn0i11wudn2v9c
+    verified: false
+    hashtags: "#ghostwork, #turismodocentro, #turismocentrodeportugal, #chegouotempo"
 ---

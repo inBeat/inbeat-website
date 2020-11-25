@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Australia In 2020
 description: >-
-  Find top gaming TikTok influencers in Australia in 2020. Most popular hashtags: #petlover #tiktokcovers #gamer #pcgaming.
+  Find top gaming TikTok influencers in Australia in 2020. Most popular hashtags: #gaming #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 212
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database has 212 TikTok influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "gamegrl64"
+  - username: "nonstopclm"
     fullname: >-
-      🖌💕 Game.grl 💕🖌
+      nonstopclm
+    bio: >-
+      Gaming Vibes Thanks for all the support 🥳 Twitch: nonstopclm Go follow my insta
     location: "Australia"
-    followers: 40438
-    engagement: 2138
-    commentsToLikes: 0.016174
-    id: ck83ypj31ukkb0j781mq5robx
+    followers: 4970
+    engagement: 1717
+    commentsToLikes: 0.102349
+    id: ckbr2hllaj84a0j236oc8cugb
     verified: false
-    hashtags: "#lofi, #japan, #canberra, #gamingroom"
-  - username: "saxcy"
+    hashtags: "#carxdriftracingonline, #forza, #fh, #fh4"
+  - username: "crow0015"
     fullname: >-
-      sauce
+      crow0015
+    bio: >-
+      20 Trans girl 🖤 love gaming, cars, anime Ønlyf4ns: crow.0015
     location: "Australia"
-    followers: 81394
-    engagement: 1046
-    commentsToLikes: 0.023520
-    id: ckaftt02e6vrs0i78bdyoms70
+    followers: 46200
+    engagement: 1442
+    commentsToLikes: 0.066644
+    id: ckbwec9vv1kj10j23avdrjqm9
     verified: false
-    hashtags: "#tiktokcovers, #mugshotchallege, #dota, #computer"
+    hashtags: "#replytocomments, #comedy, #jdm, #fyp"
+  - username: "joshb42"
+    fullname: >-
+      Josh
+    bio: >-
+      Age: 22 Australian 🇦🇺 Gaming/Comedy/Nerd Duets are Welcomed 👥
+    location: "Australia"
+    followers: 3782
+    engagement: 1142
+    commentsToLikes: 0.041668
+    id: ck9ke96ghxu4x0j78f15a8oxz
+    verified: false
+    hashtags: "#duet, #lol, #foryou, #funny"
+  - username: "superretroland"
+    fullname: >-
+      Lewis
+    bio: >-
+      Gaming Technology & Emulation superretrolandxxx@gmail.com 👇Products/Services👇
+    location: "Australia"
+    followers: 37500
+    engagement: 523
+    commentsToLikes: 0.034120
+    id: ckd6i3bu3apa60j236lcmre15
+    verified: false
+    hashtags: "#retroidpocket2, #myrecommendation, #pc, #raspberrypi4"
   - username: "danallengaming"
     fullname: >-
       Dan Allen Gaming
+    bio: >-
+      Gaming Clips, Easter Eggs, Secrets, & More. Subscribe to my YouTube below! 👇
     location: "Australia"
     followers: 13703
     engagement: 628
     commentsToLikes: 0.015281
     id: ckan3si4x6r250i781aa7fb5o
     verified: false
-    hashtags: "#gamingclip, #animal, #gulag, #brightmemory"
-  - username: "the_silly_salmon"
+    hashtags: "#callofdutymodernwarfare, #spiderman, #gaming, #minitutorials"
+  - username: "_tacaz_"
     fullname: >-
-      Silly_Salmon
+      TACAZ
+    bio: >-
+      TACAZ GAMING www.facebook.com/tacazvn PUBG ID 5545342200
     location: "Australia"
-    followers: 84965
-    engagement: 2399
-    commentsToLikes: 0.021586
-    id: ck8qny2jzwlat0j78i7skai2n
+    followers: 24000
+    engagement: 716
+    commentsToLikes: 0.000000
+    id: ckb16jwswu2hp0j2325i023p4
     verified: false
-    hashtags: "#oldtiktok, #minecraft, #harmonica, #fnaf"
-  - username: "callum_gilroy"
+    hashtags: "#pubg, #pubglovers, #pubggame, #pubgfan"
+  - username: "williamalexandercraig"
     fullname: >-
-      calgil
+      Will Craig
+    bio: >-
+      I just want to make cool stuff Anything goes (game) availiable for download ⬇️
     location: "Australia"
-    followers: 6042
-    engagement: 955
-    commentsToLikes: 0.091429
-    id: cka0x5zl55u4r0i78tb4wmrgk
+    followers: 12700
+    engagement: 2077
+    commentsToLikes: 0.096719
+    id: ckaftshpv6rg90i78njqzf6dv
     verified: false
-    hashtags: "#luck, #drift, #happyeaster, #nfsheat"
-  - username: "squirrke"
+    hashtags: "#indiegame, #xyzbca, #game, #gamedeveloper"
+  - username: "ebgamesaus"
     fullname: >-
-      ψ Squirrke ψ
+      EB Games Aus
+    bio: >-
+      Welcome to the official EB Games Australia TikTok account!
     location: "Australia"
-    followers: 43001
-    engagement: 2255
-    commentsToLikes: 0.013688
-    id: ck9vefm57ywam0j78smgjmm13
+    followers: 84500
+    engagement: 2073
+    commentsToLikes: 0.026719
+    id: ckdi62mr27ao00j23q440ugp3
     verified: false
-    hashtags: "#duck, #gtaonline, #quarantine, #flock"
-  - username: "charles.kassis"
+    hashtags: "#australia, #aus, #ebgamesaus, #gaming"
+  - username: "y_so_bubzzz"
     fullname: >-
-      charles.kassis
+      ✮𝕭𝖚𝖇𝐙✮
+    bio: >-
+      🖤Big Kev🖤 ❤️Bayleigh❤️ 🧡Baloo🧡 💛Dunny💛💚Dizzy💚
     location: "Australia"
-    followers: 48903
-    engagement: 908
-    commentsToLikes: 0.046781
-    id: cka7to8vloero0i78b1auqh5j
+    followers: 4345
+    engagement: 1373
+    commentsToLikes: 0.078949
+    id: ckajbi6qsnt7w0i789n8853pq
     verified: false
-    hashtags: "#tiktokcovers, #keepingbusy, #petlover, #foryou"
-  - username: "mayyaslogins"
+    hashtags: "#aussierules, #gaminglife, #mcspicymoves, #duet"
+  - username: "saxcy"
     fullname: >-
-      mayyaslogins
+      sauce
+    bio: >-
+      I’m 20 Email: kobi@kobibrown.com 👇👇Sub to YouTube👇👇
     location: "Australia"
-    followers: 68011
-    engagement: 1541
-    commentsToLikes: 0.021937
-    id: ck8hqq3hf57yi0j78f5wuvx7z
+    followers: 246800
+    engagement: 1547
+    commentsToLikes: 0.031080
+    id: ckaftt02e6vrs0i78bdyoms70
     verified: false
-    hashtags: "#tiktokgaming, #fanart, #portal, #whosthatpokemon"
-  - username: "lazarbeam"
-    fullname: >-
-      LazarBeam 
-    location: "Australia"
-    followers: 3378087
-    engagement: 1499
-    commentsToLikes: 0.010850
-    id: ck8z9sl96z7zp0j781e1iugk0
-    verified: true
-    hashtags: "#quarantinemoustache, #getspooky, #duet, #truthordare"
-  - username: "top_memes3"
-    fullname: >-
-      YXL Snipez
-    location: "Australia"
-    followers: 42883
-    engagement: 1245
-    commentsToLikes: 0.054176
-    id: cka0u3us2sofm0i78peyovf8c
-    verified: false
-    hashtags: "#video, #gamer, #retailtherapy, #twich"
+    hashtags: "#pcsetup, #gaming, #valorant, #fortnite"
 ---

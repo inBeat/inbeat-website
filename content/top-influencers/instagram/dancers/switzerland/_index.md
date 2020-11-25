@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top dancers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #choreography #2020 #shadow.
+  Find top dancers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #dance #dancer #model.
 platform: Instagram
+hits: 44
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 44 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "stylouz_cosplay"
     fullname: >-
       Stylouz
+    bio: >-
+      🇨🇭 Swiss Cosplayer ✨ Dancer 🏆 ECG 2012 & 2015 Paris 🤓 International Cosplay Judge ⭐️ Guests & Events Manager 📧 Official Pages - PM for Booking ⬇️
     location: "Switzerland"
-    followers: 25440
-    engagement: 898
-    commentsToLikes: 0.050531
+    followers: 36987
+    engagement: 1186
+    commentsToLikes: 0.042762
     id: ck0w4uulj0ilv0i19y5r8uetg
     verified: false
-    hashtags: "#popping, #cosplay, #ff15, #tetsuroukuroo"
-  - username: "dominiquesallaum"
+    hashtags: "#aizawashouta, #bnhacosplay, #cyberpunk2077, #vcosplay"
+  - username: "alina.victoria06"
     fullname: >-
-      Dominique Scarlett Sallaum
+      𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
+    bio: >-
+      💥Model, Dancer, gymnast💥 🥇Swiss champion RG2019🥇 Ambassador @balletclub_ Agency @hip4kidz I speak 🇫🇷 🇬🇧 🇷🇺 🇩🇪 (little) Member @teamsportgala
     location: "Switzerland"
-    followers: 21261
-    engagement: 733
-    commentsToLikes: 0.113248
-    id: ck8t1syxbwwl80j78601m2jik
+    followers: 40776
+    engagement: 782
+    commentsToLikes: 0.066275
+    id: ck8tb3u7vu5pa0j785agbvrb4
     verified: false
-    hashtags: "#stayhome, #sisterhood, #bekaa, #myboy"
+    hashtags: "#internationalteenmodels, #tsga, #wlyg, #mytravelalina"
   - username: "chrismif"
     fullname: >-
       Chris
+    bio: >-
+      🇦🇺 Aussie 🇲🇹 Maltese 🇨🇭 Living in Zürich 🌱 #vegan 👯‍♂️ #dancer 🙏 #yogi 🎮 #gamer ♒️ #aquarius
     location: "Switzerland"
-    followers: 8139
-    engagement: 1534
-    commentsToLikes: 0.027015
+    followers: 9160
+    engagement: 1230
+    commentsToLikes: 0.021897
     id: ck5c2qebzxro20i113qoav1dl
     verified: false
-    hashtags: "#legday, #postgym, #spring, #towerbridge"
-  - username: "giomaphoto"
-    fullname: >-
-      Giovanni Malandrino
-    location: "Switzerland"
-    followers: 37848
-    engagement: 656
-    commentsToLikes: 0.029355
-    id: ck8t2694jyavx0j7822lrusse
-    verified: false
-    hashtags: "#balletto, #bologna, #bailarina"
+    hashtags: "#greece, #instagay, #stretch, #caldera"
   - username: "paulineschopfer"
     fullname: >-
       Pauline Schopfer 💃
+    bio: >-
+      💃 Professional dancer 🇨🇭Swiss 📸 Model
     location: "Switzerland"
-    followers: 9924
-    engagement: 629
-    commentsToLikes: 0.054811
+    followers: 9540
+    engagement: 418
+    commentsToLikes: 0.055064
     id: ck15urtqloae70i19p53c3dy0
     verified: false
-    hashtags: "#lights, #shadow, #world, #night"
-  - username: "sascharodriquez"
-    fullname: >-
-      KING RODRIQUEZ 🤴🏻
-    location: "Switzerland"
-    followers: 2283
-    engagement: 1791
-    commentsToLikes: 0.075510
-    id: ck5zneb2foaq60i141oytnejq
-    verified: false
-    hashtags: "#fashionnova, #spoiler, #bep, #dance"
+    hashtags: "#photographer, #swissmodel, #makeup, #enjoy"
   - username: "leonildetorrini"
     fullname: >-
-      Léonilde Torrini
+      Léonilde Torrini
+    bio: >-
+      Dancer 🕺🏽| Acrobat🙃 | Performer 🤸🏾‍♀️ @yerandleonilde Lego ⬇️ Mail: leonilde.torrini@hotmail.com New Video here 🔥
     location: "Switzerland"
-    followers: 9511
-    engagement: 596
-    commentsToLikes: 0.062134
+    followers: 9312
+    engagement: 633
+    commentsToLikes: 0.059009
     id: ck5cjn45dv2me0i11otxftfh2
     verified: false
-    hashtags: "#handstand, #belgium, #flexiblelegs, #mslaurynhill"
-  - username: "marce_hl"
+    hashtags: "#vizo, #freestyle, #capoeira, #dance"
+  - username: "crimermusic"
     fullname: >-
-      Marcelo Letra
+      CRIMER
+    bio: >-
+      Musician x Dancer x Synth❤️ 80s infused Master of bad haircuts Hoi Mami 👋 Latest BANGER👇
     location: "Switzerland"
-    followers: 2560
-    engagement: 1476
-    commentsToLikes: 0.066428
-    id: ck5cimgtrsxct0i11mzs5d3jw
-    verified: false
-    hashtags: "#days, #shows, #hairstyle, #nude"
-  - username: "albinakireeva"
+    followers: 6340
+    engagement: 957
+    commentsToLikes: 0.025682
+    id: ck5pvv6rcjsj50i11z3imokof
+    verified: true
+    hashtags: "#leeeben, #crimer, #crimerforpresident, #leeeeben"
+  - username: "dominiquesallaum"
     fullname: >-
-      Albina Kireeva
+      Dominique Scarlett Sallaum
+    bio: >-
+      🤱🏻Momi to @karolinabelle & #TwinGirls @nathaliaandcharlize 🇨🇭 #Swiss 🇱🇧 #Lebanese 🇨🇱 #Chilena 🖋 #Lifestyle #Maritime #Equestrian #Dancer
     location: "Switzerland"
-    followers: 16746
-    engagement: 202
-    commentsToLikes: 0.059480
-    id: ck5byec5dozlo0i118ovz4xmq
+    followers: 28861
+    engagement: 840
+    commentsToLikes: 0.136549
+    id: ck8t1syxbwwl80j78601m2jik
     verified: false
-    hashtags: "#paper, #prettybird, #leecooper, #orsaymodel"
-  - username: "rodneychonia"
+    hashtags: "#twingirls, #myfamily, #byblos, #theginger"
+  - username: "jennifer_rissi"
     fullname: >-
-      Rodney Chonia
+      Jennifer Rissi 🇨🇭
+    bio: >-
+      👩🏼 Model 👩‍💼 Hostess 💃🏼 Dancer @vanitydancers 📍 Zurich 🏍 Harley Davidson Sportster 🧡 📩 DM for collaboration @charliez__angelz
     location: "Switzerland"
-    followers: 9341
-    engagement: 337
-    commentsToLikes: 0.059924
-    id: ck5hs1e8evtun0i1181y1dscd
+    followers: 9603
+    engagement: 594
+    commentsToLikes: 0.024837
+    id: ck8t7x12bi98o0j78qn2a4f1u
     verified: false
-    hashtags: "#stayneutral, #coatnbeanie, #rooftop, #swisslightskinrep"
+    hashtags: "#photoshoot, #model, #ibizavibes, #inkedgirls"
+  - username: "valentinaoir"
+    fullname: >-
+      Valentina 🇳🇬
+    bio: >-
+      Dancer/Choreographer | Afrobea™️ Hip-Hop & Afro 📍 Switzerland 📩 valentinaoirbusiness@gmail.com
+    location: "Switzerland"
+    followers: 15585
+    engagement: 737
+    commentsToLikes: 0.074075
+    id: ck5zqeaakug600i14uxz1ybze
+    verified: false
+    hashtags: "#puma, #jordan3retro, #nike, #basel"
+  - username: "dave_ryding"
+    fullname: >-
+      Dave Ryding
+    bio: >-
+      British Disco Dancer! @fischerski / @obergurgl.official @goldwin_official / @zaniergloves / @yniqeyewear / 'Rocket' Merchandise
+    location: "Switzerland"
+    followers: 29862
+    engagement: 1070
+    commentsToLikes: 0.011630
+    id: ck5q0r0re7c3o0i11gnt97jbz
+    verified: true
+    hashtags: "#goldwin, #leki, #obergurgl, #thediamondofthealps"
 ---

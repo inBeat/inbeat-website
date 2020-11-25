@@ -1,97 +1,130 @@
 ---
 title: Top 10 Olympian Athletes Instagram Influencers In France In 2020
 description: >-
-  Find top olympian athletes Instagram influencers in France in 2020. Most popular hashtags: #stayhome #trusttheprocess #body #stayathome.
+  Find top olympian athletes Instagram influencers in France in 2020. Most popular hashtags: #athlete #motivation #athletics #sport.
 platform: Instagram
+hits: 11
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "benjaminmace_"
     fullname: >-
       Benjamin Mace
+    bio: >-
+      2 x Olympian Athlete Lifestyle / sport / travel @underarmourfr athlète 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
     location: "France"
-    followers: 40629
-    engagement: 428
-    commentsToLikes: 0.031519
+    followers: 39542
+    engagement: 559
+    commentsToLikes: 0.026020
     id: ck5hd2hgcl5vj0i11dnalwqoq
     verified: false
-    hashtags: "#weightlifting, #armsday, #pancakeshealthy, #handstand"
+    hashtags: "#lifestyle, #avignon, #fitnessmotivation, #toujoursfaireface"
+  - username: "lauraliechap_ifbbpro"
+    fullname: >-
+      Lauralie Chapados 🐎
+    bio: >-
+      French 🇨🇦 in 🇺🇸 5x 🥇 IFBB Bikini Pro | Olympian @bombshellsportswear athlete @teamatlasmtl
+    location: "France"
+    followers: 199545
+    engagement: 499
+    commentsToLikes: 0.015337
+    id: ck0tsrz4s0cen0i19gptpm7p0
+    verified: false
+    hashtags: "#workoutoftheday, #roadtotheolympia, #bombshellsportswear, #glutesworkout"
   - username: "sachavalleau"
     fullname: >-
       Sacha Valleau ||
+    bio: >-
+      Professional Rugby player @francerugby •@adidasparis Athlete •Olympian Rio2016 🇧🇷 • 📍Paris , France 🇫🇷
     location: "France"
-    followers: 10063
-    engagement: 1247
-    commentsToLikes: 0.014475
+    followers: 10022
+    engagement: 1260
+    commentsToLikes: 0.012852
     id: ck6tz95fg8c8b0j71bsoq4aw0
     verified: true
-    hashtags: "#createdwithadidas, #werepresent, #hawaii, #stayathome"
+    hashtags: "#insach, #dubai, #crvhybrid, #2021"
   - username: "nellymoenneloccoz"
     fullname: >-
       Moenne-loccoz Nelly
+    bio: >-
+      Athlete of French snowboard team 🇨🇵 Olympian x3times @alpinawatches @snowleader74
     location: "France"
-    followers: 9240
-    engagement: 938
-    commentsToLikes: 0.026531
+    followers: 9005
+    engagement: 901
+    commentsToLikes: 0.029180
     id: ck5pw11k7kks20i116gto9ycz
     verified: false
-    hashtags: "#walter, #teamcera"
-  - username: "nursey16"
+    hashtags: "#sardinia, #ffstv, #lescopainsdabord, #teamcera"
+  - username: "davhauss"
     fullname: >-
-      Sarah Nurse
+      🇫🇷 David Hauss 🇷🇪
+    bio: >-
+      🏊🚴🏃 Olympian triathlete & European Champion - Trail & Swim Runner 🌊🏊 🌅 🌍🌄 ☀ @compressport @on_running @peugeot #oakley #sponser Lively Up Yourself💚💛♥💙
     location: "France"
-    followers: 22546
-    engagement: 761
-    commentsToLikes: 0.022078
-    id: ck5zijek7ftla0i141b68j1xd
-    verified: true
-    hashtags: "#sparkle, #forthegame, #untilnexttime, #frontlineworkers"
-  - username: "audrey.merle95"
-    fullname: >-
-      Audrey Merle
-    location: "France"
-    followers: 7524
-    engagement: 1033
-    commentsToLikes: 0.013380
-    id: ck5zjk9k5hqpa0i14uizyaad4
+    followers: 18563
+    engagement: 432
+    commentsToLikes: 0.010610
+    id: ck5hj0e6nfsaw0i11ta5ranxg
     verified: false
-    hashtags: "#iten, #squats, #sportwatch, #lymedisease"
-  - username: "marion_lotout"
+    hashtags: "#nature, #trail, #panorama, #inspiration"
+  - username: "maximus_ward"
     fullname: >-
-      Marion Lotout
+      Max Ward
+    bio: >-
+      Parkour Athlete 😱 Award-Winning Filmmaker 🎬 👇France's New Parkour Capital?!🇫🇷📺😱 Photographer @maxshutter_ Traveller 🌎: Now in 🇬🇧 #purpleshorts
     location: "France"
-    followers: 5114
-    engagement: 924
-    commentsToLikes: 0.009275
-    id: ck5q9u22gczi90i11da98sqol
+    followers: 10594
+    engagement: 671
+    commentsToLikes: 0.057619
+    id: ck5q62pv6voki0i11djz30hz5
     verified: false
-    hashtags: "#stage, #moinsjeune, #polevaulters, #tatiemarion"
-  - username: "ivanamaksimovic"
+    hashtags: "#gymnastics, #cheekyjumps, #flowlikewater, #slomo"
+  - username: "arnold_vosloo_official"
     fullname: >-
-      Ivana Andjusic Maksimovic
+      Arnold Vosloo 🇿🇦
+    bio: >-
+      🥇Classic Physique Olympia 2019 🇪🇸 ▪️NPL Athlete ▪️@ryderwear Athlete|ARNOLD ▪️@bodyactiongymsa gym 🔈YouTube - Arnold Vosloo
     location: "France"
-    followers: 24889
-    engagement: 438
-    commentsToLikes: 0.007242
-    id: ck5hppr0errn90i1159ws5xy8
+    followers: 328460
+    engagement: 138
+    commentsToLikes: 0.014432
+    id: ckaozg9vglr5z0i78a3d5p7g5
     verified: false
-    hashtags: "#mybunny, #29thbirthday, #oneinamillion, #srecanrodjendan"
+    hashtags: "#nutrition, #protein, #npl, #ryderwear"
   - username: "ladjidoucoure7"
     fullname: >-
       Doucoure ladji
+    bio: >-
+      Athlete 3x olympien 2x chps du monde 110mh 4x100m 2x chps d Europe 12.97. 7.42 twitter ladjidoucoure7 @evzer_agency @golden_blocks
     location: "France"
-    followers: 38124
-    engagement: 604
-    commentsToLikes: 0.018835
+    followers: 37768
+    engagement: 522
+    commentsToLikes: 0.027556
     id: ck55iywajvtek0i11be0s08gz
     verified: true
-    hashtags: "#travel, #love, #voiture, #masquevisage"
-  - username: "marie_wat"
+    hashtags: "#fortboyard, #running, #sport, #run"
+  - username: "marion_lotout"
     fullname: >-
-      Marie Wattel
+      Marion Lotout
+    bio: >-
+      🇫🇷 Pole Vaulter . PB :4,60m 1* Olympian London 2012 2* World Championship 2013 / 2015 2*European Championship 2014 / 2018 📚 Podologist ( EFOM School)
     location: "France"
-    followers: 8006
-    engagement: 1239
-    commentsToLikes: 0.006838
-    id: ck6twmc5msu2p0j718mvvi36t
+    followers: 5339
+    engagement: 1037
+    commentsToLikes: 0.011695
+    id: ck5q9u22gczi90i11da98sqol
     verified: false
-    hashtags: "#andyourfriends, #ontheroad, #tbt, #keepsmiling"
+    hashtags: "#ffa, #teampacer, #polevault, #percheelitetour"
+  - username: "mohamed_the_problem_mimoune"
+    fullname: >-
+      Mohamed Mimoune Officiel
+    bio: >-
+      Superlightweight Boxer🥊 🇫🇷 |IBO WORLD CHAMPIONS/Champion EBU & UE 🇪🇺|french @footkornertoulouse @footkorner/Athléte:@myproteinfr. Code:MIMOUNE -38%
+    location: "France"
+    followers: 23105
+    engagement: 395
+    commentsToLikes: 0.043456
+    id: ck5zkpy79jxze0i14frf9xv40
+    verified: true
+    hashtags: "#world, #robbery, #vol, #fight"
 ---

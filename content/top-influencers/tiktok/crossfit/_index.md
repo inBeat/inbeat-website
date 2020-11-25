@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In 2020
 description: >-
-  Find top crossfit TikTok influencers in 2020. Most popular hashtags: #tiktok #howto #neverfitin #crossfit.
+  Find top crossfit TikTok influencers in 2020. Most popular hashtags: #fyp #crossfit #foryou #duet.
 platform: TikTok
+hits: 371
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 371 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "doctorwho1109"
+    fullname: >-
+      DoctorWho11
+    bio: >-
+      #whoviansquad🤠#bowtiesarecool BFF @mark_kansas03 🤓☕️#Crossfit
+    location: "United States"
+    followers: 10000
+    engagement: 1969
+    commentsToLikes: 0.118201
+    id: ck8ncg6utebeg0j7829pz1dyk
+    verified: false
+    hashtags: "#followher, #smile, #followhim, #comedy"
+  - username: "leitomarchiori"
+    fullname: >-
+      Leonardo Marchiori
+    bio: >-
+      🔴 IG: @leitomarchiori CrossFit Coach +Music +Drawing +Martial Arts +Boludeces
+    location: "Argentina"
+    followers: 16300
+    engagement: 1049
+    commentsToLikes: 0.066964
+    id: ckbf85nskyfou0j23wfez7vpw
+    verified: false
+    hashtags: "#humor, #consejosutiles, #cuarentena, #consejos"
+  - username: "amberrnfit"
+    fullname: >-
+      AmberRNFit
+    bio: >-
+      👩🏽‍⚕️ RN ❤️ Heart Mom 🏋🏻‍♀️ Crossfit Fanatic 🦄 Unicorn 🙏🏻Psalm 31:25
+    location: ""
+    followers: 12700
+    engagement: 1765
+    commentsToLikes: 0.038710
+    id: ckb9fg33p3wjh0j23d4f5q20l
+    verified: false
+    hashtags: "#familytime, #fyp, #foodfam, #scoobdance"
   - username: "stephenduh"
     fullname: >-
       Stephen Duhaime
+    bio: >-
+      Following back on ig⬆️ Jesus first #crossfitislife Tysmmm for 100k!
     location: "United States"
-    followers: 92710
-    engagement: 2026
-    commentsToLikes: 0.011938
+    followers: 110600
+    engagement: 2157
+    commentsToLikes: 0.019134
     id: ck8vtjo0fgin10j78pm9rk27s
     verified: false
-    hashtags: "#siblingcheck, #newtrend, #freezeframe, #crossfit"
-  - username: "giuliastime"
+    hashtags: "#viral, #fyp, #pov, #relatable"
+  - username: "faria_maikon"
     fullname: >-
-      Giulia Cai
-    location: "Italy"
-    followers: 3325
-    engagement: 804
-    commentsToLikes: 0.042592
-    id: ck8fayxkt4pkc0j78k6kkwjvj
+      Maikon Faria
+    bio: >-
+      Irmão do Michel Gestor Eng. Produção Crossfiteiro Insta @maikon_faria
+    location: "Brazil"
+    followers: 108300
+    engagement: 1736
+    commentsToLikes: 0.034931
+    id: ckbwhyzxm2zvj0j23gtuba6tn
     verified: false
-    hashtags: "#what, #veganism, #meal, #fooddiary"
+    hashtags: "#tiktok, #amordeirmao, #amor, #fyp"
+  - username: "nickdompierre"
+    fullname: >-
+      nickdompierre
+    bio: >-
+      Zoe 🐶 CrossFit 🏋🏻‍♂️ Youtube 📺
+    location: "United States"
+    followers: 28100
+    engagement: 979
+    commentsToLikes: 0.041327
+    id: ckbf7nv1ixlkh0j23fcbdhqkb
+    verified: false
+    hashtags: "#frenchie, #foryou, #crossfit, #foryoupage"
+  - username: "matthstealsmiles"
+    fullname: >-
+      Matthew Cordaz
+    bio: >-
+      🇮🇹 Chiavari (Ge) Crossfit🏋️‍♀️Gamer 🎮Otaku 🦁Cosplay 🃏 LIVE stasera 23.30
+    location: "Italy"
+    followers: 9657
+    engagement: 1122
+    commentsToLikes: 0.130022
+    id: ckbf1clurndva0j23lzt2gfvw
+    verified: false
+    hashtags: "#trend, #dpcm, #joker, #unicorn"
+  - username: "oceaneb562"
+    fullname: >-
+      Oceaneb56🏋🏼‍♀️
+    bio: >-
+      Instagram 📷 oceaneb56 ↖️ 21 ans Crossfiteuse 💪🏻🏋🏼‍♀️
+    location: "France"
+    followers: 19600
+    engagement: 923
+    commentsToLikes: 0.046452
+    id: ckbl12xwexuxw0j23lz1mfgej
+    verified: false
+    hashtags: "#foryou, #soeur, #transition, #pourtoi"
   - username: "tonton_fit"
     fullname: >-
       Tonton Fit
+    bio: >-
+      🎉 Fun & Crossfit 🏋🏻 #tontonfit
     location: "France"
-    followers: 3053
-    engagement: 740
-    commentsToLikes: 0.053858
+    followers: 4772
+    engagement: 700
+    commentsToLikes: 0.050528
     id: ck9uw86tfuipj0j782ckesvl2
     verified: false
-    hashtags: "#musculation, #arethafranklin, #presentation, #covid"
-  - username: "erikabogan"
+    hashtags: "#fun, #confinement, #confinement2, #trentenaire"
+  - username: "daytonamoore"
     fullname: >-
-      Erika Bogan
+      Daytona Moore (✿◠‿◠)
+    bio: >-
+      mama • makeup • CrossFit • sobriety • women empowerment • OF link below!
     location: "United States"
-    followers: 17251
-    engagement: 950
-    commentsToLikes: 0.026678
-    id: cka0p1hm7698j0i78fla2mqtk
+    followers: 77200
+    engagement: 755
+    commentsToLikes: 0.027293
+    id: ckbf9lick0lnv0j23zh7i1w9d
     verified: false
-    hashtags: "#lifehack, #onemillion, #musicmatters, #jokes"
-  - username: "alexxmont"
-    fullname: >-
-      Alexx
-    location: "Canada"
-    followers: 2942
-    engagement: 1191
-    commentsToLikes: 0.048101
-    id: ck9nczmcecbza0j789zyhwn8f
-    verified: false
-    hashtags: "#viralvideo, #pourtoi, #keepingactive, #spacethings"
-  - username: "andygarone"
-    fullname: >-
-      AnDy
-    location: "Argentina"
-    followers: 2679
-    engagement: 931
-    commentsToLikes: 0.048204
-    id: cka9q9imz7s9h0i781h045ehu
-    verified: false
-    hashtags: "#greenscreen, #tiktoklike, #simetria, #rutinaencasa"
-  - username: "brookeence"
-    fullname: >-
-      Brooke Ence
-    location: "United States"
-    followers: 16103
-    engagement: 581
-    commentsToLikes: 0.022294
-    id: ck9789rpb773v0j78tepe5ot8
-    verified: false
-    hashtags: "#foryou, #loungewear, #cleaningszn, #tiktok"
-  - username: "chefkelvincheung"
-    fullname: >-
-      Kelvin Cheung
-    location: "India"
-    followers: 7588
-    engagement: 624
-    commentsToLikes: 0.020766
-    id: cka0x4nrz5ic60i78dqweoclk
-    verified: true
-    hashtags: "#banana, #smoothie, #bacon, #sugar"
-  - username: "coachallyg"
-    fullname: >-
-      Ally
-    location: "United States"
-    followers: 2293
-    engagement: 500
-    commentsToLikes: 0.028834
-    id: cka61sg9ywp400i789elcr2lh
-    verified: false
-    hashtags: "#workroutine, #alwayslearning, #mathishard, #myspace"
-  - username: "vivek_jr_cr"
-    fullname: >-
-      vivek jr cr
-    location: "India"
-    followers: 25215
-    engagement: 877
-    commentsToLikes: 0.012244
-    id: cka0l2dlxp67d0i7866jfp2oi
-    verified: false
-    hashtags: "#ocrathlete, #fitaman, #motivetion, #shoulderworkout"
+    hashtags: "#heinzhalloween, #falldiy, #micellarrewind, #thatwitch"
 ---

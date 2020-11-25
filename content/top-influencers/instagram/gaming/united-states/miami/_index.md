@@ -1,12 +1,29 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Miami In 2020
 description: >-
-  Find top gaming Instagram influencers in Miami in 2020. Most popular hashtags: #gaming #miami #nature #photographers.
+  Find top gaming Instagram influencers in Miami in 2020. Most popular hashtags: #miami #travel #gaming.
 platform: Instagram
+hits: 22
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 22 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "branden.vasquez"
+    fullname: >-
+      Branden Vasquez Fit
+    bio: >-
+      Fort Worth, Tx @staunch.nation Athlete🐨 @pumpchasers Athlete @bvfit_apparel Owner Code BvFit For all sponsors Online Coach
+    location: "United States"
+    followers: 75351
+    engagement: 394
+    commentsToLikes: 0.017904
+    id: ck135b33q0lvy0i19xf5m4zxv
+    verified: false
+    hashtags: "#bvfit, #gym, #physique, #sunday"
   - username: "timemachinegaming"
     fullname: >-
       Time Machine Gaming
+    bio: >-
+      💾 #RetroGaming 🕹 Reliving the past through gaming! 👾 Affiliate on @twitch 📍 Miami, FL 🌴
     location: "United States"
     followers: 19761
     engagement: 652
@@ -14,94 +31,100 @@ profiles:
     id: ck13cd8f6zs780i19sv4mxk7n
     verified: false
     hashtags: "#tomorrowisinyourhands, #n64dd, #kakarot, #mar10"
-  - username: "sports99official"
+  - username: "misss.official"
     fullname: >-
-      Sports 99
+      ɥɐʎıɐsssıW 主世救
+    bio: >-
+      “I Like You” in stores now! Link below. Singer|Dancer|Beats|Art|Gaming|Photo|Video Finite Incantatem... ∞✨ Miami 🌴 🇹🇹🇦🇬🇬🇧🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪🇻🇪🇲🇱🇨🇮...+
     location: "United States"
-    followers: 4293
-    engagement: 626
-    commentsToLikes: 0.045384
-    id: ck5hfyvyk01jr0i11fp6xv6t5
+    followers: 85771
+    engagement: 191
+    commentsToLikes: 0.014487
+    id: ck8tabg6xr3o30j78volznr7b
     verified: false
-    hashtags: "#jeezy, #cxmmunity, #repost, #sport99"
-  - username: "super_buddha_"
+    hashtags: "#newmusic, #comingsoon, #dontbreakyourheart, #newtrack"
+  - username: "joblessgarrett"
     fullname: >-
-      Artist
+      Garrett
+    bio: >-
+      You just gotta learn to live and love on. Business: JoblessGamers@gmail.com 🔥Miami🔥 Your Favorite Youtuber & Streamer. All my Links and Socials:
     location: "United States"
-    followers: 77469
-    engagement: 285
-    commentsToLikes: 0.057622
-    id: ck5pwjfxin3m60i112i1nn8y4
+    followers: 292628
+    engagement: 172
+    commentsToLikes: 0.019299
+    id: ck9hcuetrn0q00j789qeori81
     verified: false
-    hashtags: "#artbaselmiami, #exibition, #work, #euro"
+    hashtags: "#youtube, #gamingwithgarry, #hawaii, #gaming"
+  - username: "nikki_murci"
+    fullname: >-
+      Nikki (she/her)
+    bio: >-
+      Hi, all my stories are my dog. Miami ➡️ Houston Select Models Global @celsiusofficial
+    location: "United States"
+    followers: 161306
+    engagement: 267
+    commentsToLikes: 0.011465
+    id: ck0uakktycj9w0i19uow12ax8
+    verified: false
+    hashtags: "#celsiusbrandpartner, #ad, #celsiuslivefit, #splendies"
+  - username: "lifeofwisteria"
+    fullname: >-
+      WisteriaLife ☁️
+    bio: >-
+      I make vlogs & lifestyle videos on YouTube. Business: contact@wisteriaworld.com Merch: wisteriaworld.com Gaming Videos: @wisteria_moon
+    location: "United States"
+    followers: 10038
+    engagement: 849
+    commentsToLikes: 0.074659
+    id: ck135s52c2yeb0i19gfc1xz6a
+    verified: false
+    hashtags: ""
   - username: "scootermagruder"
     fullname: >-
       Scooter Magruder | Sports Guy
+    bio: >-
+      I love Jesus • I’m a @GrownMan | Content Creator 🎮 Gaming IG: @ScooterGaming Podcast: @dywttai Business only: info@scootermagruder.com
     location: "United States"
-    followers: 230348
-    engagement: 809
-    commentsToLikes: 0.021360
+    followers: 238207
+    engagement: 608
+    commentsToLikes: 0.026902
     id: ck1374e7m9pz80i19vcyvqg6l
     verified: true
-    hashtags: "#nba, #orlandomagic, #nygiants, #flyeaglesfly"
-  - username: "misss.official"
+    hashtags: "#lakers, #lebron, #lakeshow, #dallascowboys"
+  - username: "retrogeist"
     fullname: >-
-      救世主 Misssaiyah
+      80s & 90s Vibes
+    bio: >-
+      Follow my other page, @commanderlarry , for some old school gaming!
     location: "United States"
-    followers: 87206
-    engagement: 165
-    commentsToLikes: 0.017135
-    id: ck8tabg6xr3o30j78volznr7b
+    followers: 115617
+    engagement: 244
+    commentsToLikes: 0.011943
+    id: ck15s70rpbjl20i19nytobqpi
     verified: false
-    hashtags: "#playback, #releasedates, #bucketlistcheckoff, #newartistalert"
-  - username: "zophiereviews"
+    hashtags: "#90s, #retrogeist, #80s, #1990s"
+  - username: "avoriliz"
     fullname: >-
-      Zophie Reviews
+      FaZe Avori
+    bio: >-
+      Professional Video Gamer Streamer👾 | Signed @fordModels👱🏼‍♀️ | Twitter: @avoriliz | Dog Insta: @sugarandsly | Clothing line: @stylesbyavori
     location: "United States"
-    followers: 102850
-    engagement: 276
-    commentsToLikes: 0.024638
-    id: ck6uc595ldlcf0j71dy19prv4
+    followers: 75803
+    engagement: 351
+    commentsToLikes: 0.027234
+    id: ck5zxhu2581do0i14mswh5a9h
     verified: false
-    hashtags: "#gamerwoman, #videos, #sauna, #socklover"
-  - username: "beauty.and.the.beer"
+    hashtags: "#avori, #panama, #streamer, #modeling"
+  - username: "trevor312"
     fullname: >-
-      𝚂𝚊𝚛𝚊𝚑 | 𝙱𝚛𝚎𝚠𝚎𝚛 𝚘𝚗 𝚊 𝙱𝚛𝚎𝚊𝚔
+      Trevor Silver
+    bio: >-
+      📊 Digital Analytics Expert & Investor. 🚂 Purdue CS Alum. 🌐 CEO at Exusia 🇮🇳🇺🇸🇿🇦🇬🇧 👨‍👧‍👧 Huddy/Parkie’s Dad. 👸🏼DRE 🏆 CT Post 40. Crains50. Inc5000
     location: "United States"
-    followers: 3085
-    engagement: 1394
-    commentsToLikes: 0.061754
-    id: ck5zwg0sk62eb0i14mp51yj1l
+    followers: 174022
+    engagement: 274
+    commentsToLikes: 0.000235
+    id: ck13bfhb0v6b20i19owck675w
     verified: false
-    hashtags: "#hazyipa, #satan, #stretchypants, #taproom"
-  - username: "noorin_shereef_fz"
-    fullname: >-
-      💝noorin shereef & familys 💝
-    location: "United States"
-    followers: 23969
-    engagement: 473
-    commentsToLikes: 0.012081
-    id: ckapb0iwmy66x0i78djqhecw4
-    verified: false
-    hashtags: "#eidoutfit, #nature, #notes, #quotestoliveby"
-  - username: "sha.lies"
-    fullname: >-
-      
-    location: "United States"
-    followers: 5658
-    engagement: 604
-    commentsToLikes: 0.069308
-    id: ck6uc3mhwdb7l0j71akg98kvx
-    verified: false
-    hashtags: "#stylist, #lingerie, #life, #losangeles"
-  - username: "nyc.dolly_"
-    fullname: >-
-      índíα❣️
-    location: "United States"
-    followers: 13540
-    engagement: 462
-    commentsToLikes: 0.051509
-    id: ck5zwphzl6ji10i14eoddrkat
-    verified: false
-    hashtags: "#newyearsparty, #humor, #haha, #explore"
+    hashtags: "#data, #miami, #analytics, #pune"
 ---

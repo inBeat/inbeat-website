@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top beauty Instagram influencers in Jakarta in 2020. Most popular hashtags: #jakarta #beauty #healthy #jogja.
+  Find top beauty Instagram influencers in Jakarta in 2020. Most popular hashtags: #beauty #jakarta #fashion.
 platform: Instagram
+hits: 191
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 191 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
 profiles:
-  - username: "sn_dilla"
+  - username: "arimbi_dinti"
     fullname: >-
-      Surwati Nur A˘dilla˘⋆
+      A R I M B I  D I N T I
+    bio: >-
+      •📷 𝐌𝐎𝐃𝐄𝐋 •🎬 𝐓𝐀𝐋𝐄𝐍𝐓 •👯 𝐀𝐑𝐈𝐌𝐁𝐈 𝐀𝐆𝐄𝐍𝐂𝐘 •💄 @eatarstore.arimbi •🍲@dapurngebul.arimbi •👚 @lowprice_arimbi •📍Yogyakarta NEED USHER/ ENDORSE/ PP 📨 DM
     location: "Indonesia"
-    followers: 2523
-    engagement: 1257
-    commentsToLikes: 0.166165
-    id: ck9wh2nm5vyzd0j78ufznx091
+    followers: 18654
+    engagement: 209
+    commentsToLikes: 0.025751
+    id: ck5zj7pp3h3d20i14dw2xw3wo
     verified: false
-    hashtags: "#groot, #lagihits, #pink, #makeupavengers"
-  - username: "info.giveaway.terbaru"
+    hashtags: "#modeljakarta, #fashion, #modelmakeup, #modelmakeupjakarta"
+  - username: "yeniynsh"
     fullname: >-
-      info giveaway terbaru
+      Yeni
+    bio: >-
+      💊Pharmacist 📩DM for endorse/catalog/collab/campaigns ✨Part of Celeb • Time • Dermage • Adr • Mmr • Shr
     location: "Indonesia"
-    followers: 313380
-    engagement: 194
-    commentsToLikes: 0.942963
-    id: ck9wfv10bqm5a0j78bgic94jz
+    followers: 7179
+    engagement: 1516
+    commentsToLikes: 0.206772
+    id: ck9whwmsrzt8h0j78olx09k9i
     verified: false
-    hashtags: ""
+    hashtags: "#lancarhaid, #nuabee, #chocomory, #hijabhatiadem"
   - username: "lucintaluna"
     fullname: >-
       LUCINTA LUNA
+    bio: >-
+      💍 @ashgreyz Youtube - 👇LUCINTA LUNA👇
     location: "Indonesia"
-    followers: 2508348
-    engagement: 157
-    commentsToLikes: 0.078875
+    followers: 2548755
+    engagement: 137
+    commentsToLikes: 0.080715
     id: ck0w0rl4nfoug0i19l1tf04v8
     verified: true
-    hashtags: "#papua, #aman, #jaminan, #bandung"
-  - username: "novasoraya16"
+    hashtags: "#medan, #papua, #surabaya, #palembang"
+  - username: "ohgemay"
     fullname: >-
-      Nova Soraya
+      ohgemay
+    bio: >-
+      📲 for PP / cr : LINE 👉🏻 igt.official 📱0822 449 54321 ⬇️INFO SPONSOR GA⬇️
     location: "Indonesia"
-    followers: 136528
-    engagement: 179
-    commentsToLikes: 0.043463
-    id: ck5q240c6e5sy0i113q6zw9hr
+    followers: 237287
+    engagement: 90
+    commentsToLikes: 0.359668
+    id: ck9wfv10bqm5a0j78bgic94jz
     verified: false
-    hashtags: "#sixpack, #staysafe, #veener, #seetheresult"
-  - username: "yannalinz_mts"
+    hashtags: ""
+  - username: "viennaelfira"
     fullname: >-
-      🔥林雅娜🔥 | OPEN ENDORSEMENT 📩 DM
+      Vienna Elfira Putri
+    bio: >-
+      Fashion/Health/Lifestyle/Beauty 📍Jakarta / Bali 5 - 16 Nov ———— Founder of @levien.studio ✨ For inquiries: DM 💌 @belongs_2you (Preloved)
     location: "Indonesia"
-    followers: 53933
-    engagement: 185
-    commentsToLikes: 0.352989
-    id: ckaosl4svrxyc0i781fldegzo
+    followers: 164463
+    engagement: 112
+    commentsToLikes: 0.012283
+    id: ck6ud3sysiz9z0j71f66tah32
     verified: false
-    hashtags: "#parfumlokal, #openendorsement, #kimchivege, #sbmg25"
-  - username: "steviiewong"
+    hashtags: "#happysaturdayeveryone, #betterlouderclearerqcyt7"
+  - username: "syahfrizaauliaa"
     fullname: >-
-      STEVIE .W | 🍀
+      Aulia Ahmad, S 👸
+    bio: >-
+      👸🏻Hi, Welcome to my page and enjoy it 🎓Psychology Student 💄Beauty Enthusiast 📍Jakarta Raya, ID 🇮🇩
     location: "Indonesia"
-    followers: 39119
+    followers: 9163
+    engagement: 1937
+    commentsToLikes: 0.067623
+    id: ck9wp4x5g7tgx0j780enlgzgp
+    verified: false
+    hashtags: "#estetidermaonline, #makeup, #lfl, #makeuplooks"
+  - username: "evitakezia"
+    fullname: >-
+      e v i t a k e z i a🐰
+    bio: >-
+      Fashion • Beauty • Lifestyle 📍Jakarta, ID 💌 evitakeziaa@gmail.com 💄@modelmakeup.evitakez
+    location: "Indonesia"
+    followers: 32893
+    engagement: 440
+    commentsToLikes: 0.087003
+    id: ck5zoxop5rkhf0i14p8a3rvcr
+    verified: false
+    hashtags: "#tabula, #tabulafriends, #summerwithmates, #summermakeuplook"
+  - username: "andychunchun"
+    fullname: >-
+      Andy Chun
+    bio: >-
+      •Travel, Photography and beauty enthusiast• 📍JAKARTA , IDN
+    location: "Indonesia"
+    followers: 53058
     engagement: 73
-    commentsToLikes: 0.093535
-    id: ck0w2vfihqcyc0i19xzllyx72
-    verified: false
-    hashtags: "#letsglowwithlux, #shibuya, #foodie, #denim"
-  - username: "agathaa.christie"
+    commentsToLikes: 0.026272
+    id: ck0tyzlfwojfu0i19954keh9p
+    verified: true
+    hashtags: "#ladakh, #labuanbajo, #hanginggardensofbali, #ubud"
+  - username: "nicknock_28"
     fullname: >-
-      𝐀𝐆𝐀𝐓𝐇𝐀 𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐄
+      Nicky Gunawan
+    bio: >-
+      Jakarta | Fashion & Beauty Photographer |nicknock28@gmail.com | LINE: nicky.gunawan |
     location: "Indonesia"
-    followers: 24366
-    engagement: 585
-    commentsToLikes: 0.079660
-    id: ck8t2a9fpypp20j78z7w8s4if
+    followers: 18562
+    engagement: 213
+    commentsToLikes: 0.066219
+    id: ck14j0ssoi2140i19qbp10pul
     verified: false
-    hashtags: "#thruntuksemua, #iwearcottaclaire, #esokbersamakose, #aleenlook"
-  - username: "_annabila.n"
+    hashtags: "#photo, #campaign, #stylist, #makeup"
+  - username: "pfaisaln"
     fullname: >-
-      
+      Puji Faisal Nawawi
+    bio: >-
+      @fujifilm_id X-Team @brightrooms 📍Bandung, Indonesia
     location: "Indonesia"
-    followers: 10241
-    engagement: 638
-    commentsToLikes: 0.007937
-    id: ck6txtn2czsg30j719aiahvv1
+    followers: 44772
+    engagement: 242
+    commentsToLikes: 0.037323
+    id: ck6tvv8cvogt90j71zuzhqku8
     verified: false
-    hashtags: "#cheonateam, #kenadeh, #quarantinelife, #dalgonacoffee"
-  - username: "polwan_official"
-    fullname: >-
-      POLWAN INDONESIA
-    location: "Indonesia"
-    followers: 49914
-    engagement: 294
-    commentsToLikes: 0.003464
-    id: ck0w0bmrtddai0i192zbxpaxx
-    verified: false
-    hashtags: "#kaltara, #peninggibadanmurah, #beauty, #trending6"
-  - username: "chelsyalaurent"
-    fullname: >-
-      Chelsya Laurent
-    location: "Indonesia"
-    followers: 83019
-    engagement: 614
-    commentsToLikes: 0.011700
-    id: ck5q846n34cnm0i11dou0pfek
-    verified: false
-    hashtags: "#brushchallenge, #passthebrush, #pengencatrambut, #lemparkapaschallenge"
+    hashtags: "#fujifilm, #xf16mmf14wr, #xf50mmf1, #xt3"
 ---

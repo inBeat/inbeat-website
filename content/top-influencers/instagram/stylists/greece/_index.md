@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Greece In 2020
 description: >-
-  Find top stylists Instagram influencers in Greece in 2020. Most popular hashtags: #quarantine #inspiration #greece #stayhome.
+  Find top stylists Instagram influencers in Greece in 2020. Most popular hashtags: #greece #summer #love.
 platform: Instagram
+hits: 86
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 86 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "segredakis"
-    fullname: >-
-      SEGREDAKIS GEORGE
-    location: "Greece"
-    followers: 22321
-    engagement: 917
-    commentsToLikes: 0.011576
-    id: ck5py1hrptvez0i1108adonz2
-    verified: false
-    hashtags: "#art, #people, #missmy, #videoart"
   - username: "ioanna_pennia"
     fullname: >-
       Ioanna Pennia
+    bio: >-
+      Stylist jeanious.gr.
     location: "Greece"
-    followers: 31842
-    engagement: 131
-    commentsToLikes: 0.100393
+    followers: 31172
+    engagement: 222
+    commentsToLikes: 0.077015
     id: ck5zmi0d7mlve0i14batky1ye
     verified: false
-    hashtags: "#freepeople, #staybeautiful, #girlsabroad, #dametraveler"
+    hashtags: "#fashionstyle, #styleoftheday, #ootd, #woman"
+  - username: "georgiavaina"
+    fullname: >-
+      ɢ ᴇ ᴏ ʀ ɢ ɪ ᴀ   ᴠ ᴀ ɪ ɴ ᴀ
+    bio: >-
+      •Freelance Fashion Stylist •Fashion Director ON BLUE MAGAZINE @bluestarferries •Pre-School Education UOI
+    location: "Greece"
+    followers: 42502
+    engagement: 379
+    commentsToLikes: 0.021864
+    id: ck5hkep60iak30i11sufxup6a
+    verified: false
+    hashtags: "#skincare, #nikkibeach, #rivieraclub, #beachlife"
   - username: "panoskallitsis"
     fullname: >-
       Panos Kallitsis
+    bio: >-
+      Hair stylist & make up artist
     location: "Greece"
-    followers: 51494
-    engagement: 319
-    commentsToLikes: 0.020863
+    followers: 51378
+    engagement: 275
+    commentsToLikes: 0.012332
     id: ck13d20ec39ic0i19pbbu1m0k
     verified: false
-    hashtags: "#grateful, #goodvibes, #haircuts, #love"
+    hashtags: "#home, #happy, #panoskallitsissalon, #panoskallitsis"
+  - username: "ioanna__siampani"
+    fullname: >-
+      Ioanna Siampani
+    bio: >-
+      in a relationship w/ @sampishop_ chief marketing officer @liketofollow.gr brand ambassador “Ioannas5” @gymbeamgr celebrity stylist
+    location: "Greece"
+    followers: 65529
+    engagement: 323
+    commentsToLikes: 0.008732
+    id: ck5px29anpr1a0i11yb9aiv7e
+    verified: false
+    hashtags: "#orange, #loveyourbody, #loveyouself, #thinkpink"
+  - username: "alexanderdime"
+    fullname: >-
+      ALEXANDER DIME
+    bio: >-
+      Living la dolce vita🌹 Fashion designer | Fashion Stylist | Visual Artist
+    location: "Greece"
+    followers: 29954
+    engagement: 195
+    commentsToLikes: 0.009876
+    id: ck5q9plhrcc150i11gu8edfbj
+    verified: false
+    hashtags: ""
+  - username: "izabelahair"
+    fullname: >-
+      Izabela Krynicka
+    bio: >-
+      ✂ Hair Stylist Contact atelierfryzjerskieizabela@o2.pl @atelierfryzjerskieizabela🍀 @uczeszecienaslub 👰🏼🤵🏽
+    location: "Greece"
+    followers: 19300
+    engagement: 347
+    commentsToLikes: 0.014992
+    id: ckaowbtf788bp0i78vjt5md4q
+    verified: false
+    hashtags: "#me, #love, #mykonos, #beautiful"
+  - username: "eran_ohayon_"
+    fullname: >-
+      ערן אוחיון
+    bio: >-
+      Eran ohayon hair stylist ערן - 0525905884 לתאום תור 👇🏼
+    location: "Greece"
+    followers: 27109
+    engagement: 109
+    commentsToLikes: 0.166904
+    id: ck0w5l69646ov0i19af1d23d6
+    verified: false
+    hashtags: "#weddingdress, #vacation, #love, #pool"
   - username: "letstreatourselves.gr"
     fullname: >-
       Eugenia Trousa
+    bio: >-
+      My Sweet, Savoury & Healthy Food Stories 🍴Food blogger 📷Food photography ✨ Food stylist 💌 Collabs:letstreatourselves@gmail.com My photos, my blog
     location: "Greece"
-    followers: 8488
-    engagement: 674
-    commentsToLikes: 0.064428
+    followers: 9504
+    engagement: 661
+    commentsToLikes: 0.074039
     id: ckaotmq80wjjv0i78j7t9470g
     verified: false
-    hashtags: "#moodylight, #sugarfree, #breakfastlovers, #healthycuisines"
-  - username: "claudia.saadeh"
-    fullname: >-
-      Claudia Saadeh
-    location: "Greece"
-    followers: 36008
-    engagement: 102
-    commentsToLikes: 0.046598
-    id: ck5py0mpwtrej0i11f5wzzj9q
-    verified: false
-    hashtags: "#quarantine, #wfh, #home, #weekend"
-  - username: "kostamiljkovic"
-    fullname: >-
-      Kosta Miljkovic
-    location: "Greece"
-    followers: 12814
-    engagement: 273
-    commentsToLikes: 0.011312
-    id: ck14h96b295w50i19e6fxksfo
-    verified: false
-    hashtags: "#happiness, #takecareofyourself, #education, #living"
+    hashtags: "#foodphotographyandstyling, #eatprettythings, #saveurmag, #ourfoodstories"
   - username: "irisleontariti"
     fullname: >-
       Iris Leontariti ✨
+    bio: >-
+      Fashion Stylist & Consultant -ex Voguette.Tomboy at heart- Portfolio account: @styledbyirisleontariti 📍GR 🇬🇷.Mentally in Bali🌴 #styledbyirisandgio
     location: "Greece"
-    followers: 5911
-    engagement: 487
-    commentsToLikes: 0.031353
+    followers: 6261
+    engagement: 556
+    commentsToLikes: 0.033857
     id: ck0vvx4rir5vh0i19p18d80kn
     verified: false
-    hashtags: "#bachelorette, #picoftheday, #loveit, #daystoremember"
+    hashtags: "#styledbyirisandgio, #summervibes, #fashion, #mood"
   - username: "tzela"
     fullname: >-
       Angeliki Martseki
+    bio: >-
+      ...~Fashion Stylist~... 🔸aggeliki.marts@gmail.com🔸
     location: "Greece"
-    followers: 5670
-    engagement: 613
-    commentsToLikes: 0.019447
+    followers: 7731
+    engagement: 514
+    commentsToLikes: 0.024357
     id: ck0vvx8c9r6cz0i19imle5rph
     verified: false
-    hashtags: "#mikonos, #sundayfunday, #fashionshow, #picoftheday"
-  - username: "manoshautecoiffure"
-    fullname: >-
-      Manos Kopsahilis
-    location: "Greece"
-    followers: 19227
-    engagement: 345
-    commentsToLikes: 0.008712
-    id: ck55p93hba2je0i11y5i6ch1f
-    verified: false
-    hashtags: "#hairbangs, #times, #curlyhair, #health"
-  - username: "morfoula_papadopoulou"
-    fullname: >-
-      Morfoula Papadopoulou ®
-    location: "Greece"
-    followers: 17339
-    engagement: 276
-    commentsToLikes: 0.028055
-    id: ck5hdmytrob290i112wrhwccp
-    verified: false
-    hashtags: "#greekmodels, #agencymodels, #agencies, #happymoments"
+    hashtags: "#sundayfunday, #makeup, #hairstyle, #tonight"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Toronto In 2020
 description: >-
-  Find top rappers Instagram influencers in Toronto in 2020. Most popular hashtags: #rapper #fitness #quarantine #corona.
+  Find top rappers Instagram influencers in Toronto in 2020. Most popular hashtags: #hiphop #rapper #music #rap.
 platform: Instagram
+hits: 9
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "alexander_panetta"
+  - username: "lululotusart"
     fullname: >-
-      Alexander Panetta
+      L U L U 🐍 L O T U S
+    bio: >-
+      Author: @lululotusbooks
     location: "Canada"
-    followers: 56677
-    engagement: 335
-    commentsToLikes: 0.151795
-    id: ckaoz9jy3kymf0i78lw1pbpgc
+    followers: 13248
+    engagement: 298
+    commentsToLikes: 0.055978
+    id: ck55p8b81a0ka0i11lhylx56j
     verified: false
-    hashtags: "#juliandeguzmanchoreography, #asapferg, #shayathome, #checkonme"
-  - username: "moaba__"
+    hashtags: "#mamba, #mambamentality, #basketball, #artpiece"
+  - username: "andrewafework"
     fullname: >-
-      MOABA | Automotive
+      Andrew Afework
+    bio: >-
+      Remix Round 14 Istandard Producers 2018 Winner Keys: DVSN, Lazz,Knight, DNyse Credits: Surauchie, JRDN, Connor Price, Reece andrewafework@gmail.com
     location: "Canada"
-    followers: 6676
-    engagement: 1948
-    commentsToLikes: 0.043218
-    id: ck55kqhggzvpd0i118n0v4hph
+    followers: 6344
+    engagement: 344
+    commentsToLikes: 0.173228
+    id: ck5q9egc3apbm0i113ccl6gl7
     verified: false
-    hashtags: "#mercedesamg, #porsche911gt3rs, #hiphop, #gwagenclub"
-  - username: "gaia_is_i"
-    fullname: >-
-      🌎 Gaiaisi - Gaia's Eye 🌍
-    location: "Canada"
-    followers: 11161
-    engagement: 642
-    commentsToLikes: 0.034885
-    id: ck0w1btcpik6v0i19v0olh5uz
-    verified: false
-    hashtags: "#corona, #earth, #horses, #bears"
-  - username: "derrelhoshingportraits"
-    fullname: >-
-      Derrel Ho-Shing - Toronto
-    location: "Canada"
-    followers: 20169
-    engagement: 315
-    commentsToLikes: 0.060463
-    id: ck5cfquvbngxr0i11x8jdb34u
-    verified: false
-    hashtags: "#family, #gamer, #vintage, #headwraps"
-  - username: "zakisha"
-    fullname: >-
-      Zak'isha
-    location: "Canada"
-    followers: 7894
-    engagement: 922
-    commentsToLikes: 0.113241
-    id: ck5c93xmuaqet0i11rrcduv4n
-    verified: false
-    hashtags: "#historical, #contagion, #astrology, #signs"
-  - username: "seniorgumboy"
-    fullname: >-
-      SGB
-    location: "Canada"
-    followers: 55811
-    engagement: 334
-    commentsToLikes: 0.127801
-    id: ck0w3jsxyts5u0i19lb8ij5r0
-    verified: false
-    hashtags: "#imoverthisshit, #influncer, #mood, #bereshammond"
-  - username: "tomeofficial_"
-    fullname: >-
-      TÖME
-    location: "Canada"
-    followers: 16824
-    engagement: 290
-    commentsToLikes: 0.160407
-    id: ck5c1h1hdv6dj0i111e480y4s
-    verified: false
-    hashtags: "#instablog, #baba, #chopdaily, #afrobeatsmusic"
-  - username: "sonnyvisual"
-    fullname: >-
-      SV | Russian 🇷🇺 стрелок
-    location: "Canada"
-    followers: 2573
-    engagement: 1009
-    commentsToLikes: 0.189736
-    id: ck15t56migede0i193go9p06c
-    verified: false
-    hashtags: "#ishootfilm, #portrait, #canadianmusic, #canadianhiphop"
+    hashtags: "#producers, #rappers, #2020, #songwriter"
   - username: "aamandamanda"
     fullname: >-
       🇨🇦 Amanda Spvde | Singer 🎤
+    bio: >-
+      TikTok @Amandaspvde “Better Off” OUT NOW! ↙️ 🎥 6.6m views on YouTube ￼🗓All of the lights gala *postponed 🗓The Piston *postponed
     location: "Canada"
     followers: 48987
     engagement: 126
     commentsToLikes: 0.023990
     id: ck5hct22bjts30i11xgv7u696
     verified: false
-    hashtags: "#producers, #originalsong, #canadiansingers, #singerslife"
-  - username: "16locs"
+    hashtags: "#artist, #dance, #singers, #voice"
+  - username: "iamtiagz"
     fullname: >-
-      LOC. 🔒🎤
+      TIAGZ ☁️ (tiago)
+    bio: >-
+      📱+1.9M on TikTok (iamtiagz) 📥 tiagzent@gmail.com “They Call Me Tiago EP” + Animated Video Out Now 👇
     location: "Canada"
-    followers: 3023
-    engagement: 1704
-    commentsToLikes: 0.089418
-    id: ck9we45jtii210j78bl5ajfil
+    followers: 33332
+    engagement: 371
+    commentsToLikes: 0.032410
+    id: ck8w3gwzg7kyw0j78y505mg3o
     verified: false
-    hashtags: "#acousticmusic, #digitalartworks, #thebestfriends, #coronacation"
+    hashtags: "#memestar, #torontorappers, #rappersbelike, #trap"
+  - username: "moaba__"
+    fullname: >-
+      MOABA | Automotive
+    bio: >-
+      📍Toronto, ON 🇨🇦 ♦️ Drive it✖️Frame it • Automotive Content Creator 📸 • All original content 😎 • Available for hire ————— 🏎💨 —————
+    location: "Canada"
+    followers: 6506
+    engagement: 1497
+    commentsToLikes: 0.056697
+    id: ck55kqhggzvpd0i118n0v4hph
+    verified: false
+    hashtags: "#bmwlife, #amg, #lamborghiniaventador, #lowered"
+  - username: "gaia_is_i"
+    fullname: >-
+      🌎 Gaiaisi - Gaia's Eye 🌍
+    bio: >-
+      Rapper, singer, comedian, and director. Support the 🎶🎙🎥📡, rock the gear: @v.gang.official 🎧 on Spotify: 📲 “Gaia’s Eye” Official Channel 🌿🌿🦏🦍🐘🌿🌿:
+    location: "Canada"
+    followers: 11161
+    engagement: 642
+    commentsToLikes: 0.034885
+    id: ck0w1btcpik6v0i19v0olh5uz
+    verified: false
+    hashtags: "#burger, #vegansofinstagram, #plantbased, #bacon"
+  - username: "seniorgumboy"
+    fullname: >-
+      SGB
+    bio: >-
+      ENTERTAINER 🇯🇲🇨🇦
+    location: "Canada"
+    followers: 55476
+    engagement: 305
+    commentsToLikes: 0.141308
+    id: ck0w3jsxyts5u0i19lb8ij5r0
+    verified: false
+    hashtags: "#the6ix, #culture, #caribbean, #comedy"
+  - username: "po0_bon"
+    fullname: >-
+      𝐓𝐇𝐄 𝐆𝐎𝐑𝐆𝐙
+    bio: >-
+      Wolfie" 🐺 original page:@poo_bon 🎶🎞📷🔗
+    location: "Canada"
+    followers: 5878
+    engagement: 10555
+    commentsToLikes: 0.012837
+    id: ck8t4rb4n7rlk0j78xxlycpwy
+    verified: false
+    hashtags: "#leito, #poo, #rapper, #khalse"
+  - username: "tomeofficial_"
+    fullname: >-
+      TÖME
+    bio: >-
+      22 I only sing on Wednesday’s 🤷🏾‍♀️ #BT4W ~ May 22nd 😈
+    location: "Canada"
+    followers: 16824
+    engagement: 290
+    commentsToLikes: 0.160407
+    id: ck5c1h1hdv6dj0i111e480y4s
+    verified: false
+    hashtags: "#atlanta, #instamusic, #rnbsinger, #musicproducer"
+  - username: "lowkeemtl"
+    fullname: >-
+      LowkeeMTL⏱
+    bio: >-
+      •Montreal Artist/Rapper🎤🎤 •Videographer Life🎬🎬 •Photography Gang📸📸 •Barz On Barz Out Now!!🔥🔥
+    location: "Canada"
+    followers: 9092
+    engagement: 1378
+    commentsToLikes: 0.097155
+    id: ckap1tuynw4ea0i78inu1b58u
+    verified: false
+    hashtags: "#newmusicalert, #rapgod, #rapper, #mixtape"
 ---

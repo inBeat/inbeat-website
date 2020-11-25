@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Spain In 2020
 description: >-
-  Find top guitar Instagram influencers in Spain in 2020. Most popular hashtags: #cover #gretsch #rocknroll #madrid.
+  Find top guitar Instagram influencers in Spain in 2020. Most popular hashtags: #cover #guitar #guitarra.
 platform: Instagram
+hits: 183
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 183 Instagram influencers like this in Spain for you to contact.
 profiles:
   - username: "andytaylorofficial"
     fullname: >-
       Andy Taylor
+    bio: >-
+      Rocker, Roller, Guitarist, Singer & Honourable member for REEF...
     location: "Spain"
-    followers: 5723
-    engagement: 1522
-    commentsToLikes: 0.068115
+    followers: 7886
+    engagement: 1678
+    commentsToLikes: 0.050914
     id: ck15pubj0znwx0i19nk2zofw7
     verified: false
-    hashtags: "#jessewood, #recordproducer, #reefband, #andytaylorofficial"
+    hashtags: "#uadplugins, #ssl, #soundtoys, #liveaid1985"
+  - username: "tonibaeza"
+    fullname: >-
+      Antonio Baeza
+    bio: >-
+      de la pista...😊 🎸GUITARRISTA 📩info.tonibaeza@gmail.com 📺YouTube de mi Mujer👇🏽
+    location: "Spain"
+    followers: 19343
+    engagement: 2013
+    commentsToLikes: 0.025442
+    id: ck8szmp6ep0oa0j788p3ifk2z
+    verified: false
+    hashtags: "#familia, #paternidad, #conciliacion, #emma"
   - username: "manuelmoore"
     fullname: >-
       Manuel  Moore 💯
+    bio: >-
+      IBIZA LIVE GUITAR SHOW 🎸🔥BOOKING 📩 info@manuelmoore.com
     location: "Spain"
-    followers: 40069
-    engagement: 264
-    commentsToLikes: 0.034913
+    followers: 39643
+    engagement: 251
+    commentsToLikes: 0.043040
     id: ck5hqwyr7tvdb0i11vshkqezb
     verified: false
-    hashtags: "#johannesburg, #miami, #sudafrica, #turkia"
-  - username: "josemicarmonaoficial"
+    hashtags: "#tbt, #waittilltheend, #capetown, #miami"
+  - username: "ninhodelosrecaos"
     fullname: >-
-      Josemi Carmona
+      Rubén Sierra
+    bio: >-
+      🎤🎸Voz y guitarra en @lapegatina 🔥🎧Ninhodelosrecaos DJ Una 👞👟 de cada color 📈 Digital Marketing Musical 🎙Presento @casababylonicat 👇 DEJARSE LA PIEL🦖👇
     location: "Spain"
-    followers: 8491
-    engagement: 521
-    commentsToLikes: 0.062421
-    id: ck5hmnnypmafc0i11cwf7hwz6
+    followers: 16485
+    engagement: 300
+    commentsToLikes: 0.068228
+    id: ck6004juvcxqa0i14m62unokq
     verified: false
-    hashtags: "#ketama, #yomequedoencasa, #luchadegigantes"
-  - username: "jheras_"
+    hashtags: "#arnaugriso, #dejarselapiel, #lapegatina, #divertido"
+  - username: "gemmaperez95"
     fullname: >-
-      J Heras
+      GEMMA PÉREZ 🐦
+    bio: >-
+      •Érase una vez una chica a una guitarra pegada🎸 •@gemmainspo 📷 •@cancionum •Spotify:Gemma Pérez🎶 •BCN-Roses🌇 📩 gemmaperez@keeperexperience.com ⏬CANAL⏬
     location: "Spain"
-    followers: 3553
-    engagement: 1848
-    commentsToLikes: 0.030657
-    id: ck5ce7s9yki650i1189lsbvvm
+    followers: 61427
+    engagement: 1040
+    commentsToLikes: 0.155992
+    id: ck6u43rq01iht0j710e6v578q
     verified: false
-    hashtags: ""
-  - username: "greendreei"
+    hashtags: "#sorteo, #meamoynomeimporta, #amomiscomplejos, #selflove"
+  - username: "eleonoraelenoire"
     fullname: >-
-      drei
+      
+    bio: >-
+      🌊° Ｅｎｅｒｇｙ，ａｄｒｅｎａｌｉｎｅ　＆　 ｐｏｓｉｔｉｖｉｔｙ °🌊🪐 #guitarist🎸 🏹#fallinlaw✒️🗃️💼⚖️
     location: "Spain"
-    followers: 4308
-    engagement: 1818
-    commentsToLikes: 0.045359
-    id: ck13bu5rpx6e10i19nseib1tp
+    followers: 3173
+    engagement: 1572
+    commentsToLikes: 0.036083
+    id: ckaow8sst7us30i78v4ove5nd
     verified: false
-    hashtags: "#guitar, #loveoflesbian, #oceans, #drama"
-  - username: "elias._.maro"
+    hashtags: "#espa, #spain, #zaragoza, #zgz"
+  - username: "vincen_garcia"
     fullname: >-
-      Elías Martínez
+      V i n c e n   G a r c í a
+    bio: >-
+      Valencia, Spain Artist @yamaha_guitars @grbass_amps @evostraps Profesor en @escueladebajistas Bass Lessons/ Skype Listen my band @funkiwis YouTube ⬇
     location: "Spain"
-    followers: 2913
-    engagement: 1000
-    commentsToLikes: 0.075765
-    id: ck15pomv7yw5t0i1908went0j
+    followers: 76499
+    engagement: 783
+    commentsToLikes: 0.033288
+    id: ckaouolbb16tx0i78bxylybrf
     verified: false
-    hashtags: "#diesmillor, #acustic, #guitareffects, #boldaslove"
-  - username: "josemalasia"
+    hashtags: "#valencia, #basspractice, #musician, #slapbass"
+  - username: "taylor_riff"
     fullname: >-
-      Jose Marin
+      Taylor_riff
+    bio: >-
+      Guitarrista. Covers de metal Madrid - España Patrocinadores: @emgpickups @lavamusicofficial @mathasguitars YouTube👇🏻
     location: "Spain"
-    followers: 8319
-    engagement: 1064
-    commentsToLikes: 0.065871
-    id: ck0tzx425rtbp0i19lriesikv
+    followers: 56278
+    engagement: 561
+    commentsToLikes: 0.043100
+    id: ck13c30u8ydld0i1990pujoo8
     verified: false
-    hashtags: "#tlmqhem"
-  - username: "chus.santana"
+    hashtags: "#jasonnewsted, #metallicafamily, #cliffburton, #guitarist"
+  - username: "diegoyactayo"
     fullname: >-
-      ℂ𝕙𝕦𝕤 𝕊𝕒𝕟𝕥𝕒𝕟𝕒 𝔼𝕟 𝕃𝕠𝕤 𝕄𝕒𝕟𝕕𝕠𝕤
+      Diego Yactayo
+    bio: >-
+      Guitarrista Acústico 🇵🇪 www.diegoyactayo.com 🔥Escucha mi música en Spotify Youtube y más ⬇️
     location: "Spain"
-    followers: 11548
-    engagement: 569
-    commentsToLikes: 0.084838
-    id: ck5q1gbgdaucx0i11d61aohdh
+    followers: 17504
+    engagement: 302
+    commentsToLikes: 0.377336
+    id: ckaort2rpomqx0i78crgsbq1t
     verified: false
-    hashtags: "#alocao, #billboards, #grammys, #prendio"
-  - username: "joecoombsguitarist"
+    hashtags: "#subetucover, #taylorguitar, #cuarentena, #ukesorteo"
+  - username: "cupidoamorciego"
     fullname: >-
-      J O E   C O O M B S
+      CUPIDO
+    bio: >-
+      @pimpflaco Escribe las canciones @tonidzgrc Teclado y Guitarra @luichiboysoy Guitarra @al_garcia_c Bajo @dannelrh Batería
     location: "Spain"
-    followers: 2047
-    engagement: 1967
-    commentsToLikes: 0.074367
-    id: ckaor4myglpkz0i78ls7yr0ph
-    verified: false
-    hashtags: "#gretschguitars, #pedalboards, #rigshare, #bukchallenge"
-  - username: "sebastianaracena"
-    fullname: >-
-      Sebastian Aracena
-    location: "Spain"
-    followers: 7606
-    engagement: 926
-    commentsToLikes: 0.033872
-    id: ck5cjq2a9v90n0i118wnq4eeo
-    verified: false
-    hashtags: "#africa, #funeral, #norma, #gnossienne"
+    followers: 73892
+    engagement: 1636
+    commentsToLikes: 0.018673
+    id: ck0w7021pb37q0i195yow8u47
+    verified: true
+    hashtags: "#galaxya"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Japan In 2020
 description: >-
-  Find top crossfit Instagram influencers in Japan in 2020. Most popular hashtags: #crossfaith #coldrain #summer #dustbox.
+  Find top crossfit Instagram influencers in Japan in 2020. Most popular hashtags: #crossfaith #repost #candystripper #rompus.
 platform: Instagram
+hits: 11
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 11 Instagram influencers like this in Japan for you to work with.
 profiles:
-  - username: "monikalm"
+  - username: "manelkape"
     fullname: >-
-      Mónica Valentín
+      マネル・ケイプ  Manel Prodígio Kape
+    bio: >-
+      Former RIZIN - MMA World Champion StarBoy 💫 - Prodigy 👑- EasyMoney 💰 @easymoney.brand @easymoney.sports
     location: "Japan"
-    followers: 18263
-    engagement: 363
-    commentsToLikes: 0.070168
-    id: ck5qe0a8ny3vl0i11eu9594i9
+    followers: 27051
+    engagement: 537
+    commentsToLikes: 0.021817
+    id: ck5hopv9uq09e0i112wzkdarl
     verified: false
-    hashtags: "#chesttobar, #prozispromo, #japantravel, #gimnasticos"
-  - username: "debbieontheroad"
+    hashtags: "#akathailand, #starboy, #icelabphuket, #firstroundmanagement"
+  - username: "belleyogatokyo"
     fullname: >-
-      GoPro | Travel | Underwater 💎
+      Jo in Tokyo 🇯🇵
+    bio: >-
+      #MoveForThePlanetWednesdays @liforme mat code 👉BELLETOKYO 🛍Discount Codes 👇
     location: "Japan"
-    followers: 15067
-    engagement: 477
-    commentsToLikes: 0.117757
-    id: ckap59a57aqp50i78qbn0yvmv
+    followers: 64024
+    engagement: 114
+    commentsToLikes: 0.090738
+    id: ck0tycg14mewo0i19onieu1ta
     verified: false
-    hashtags: "#scubadiving, #underwaterworld, #wisdom, #pensieri"
-  - username: "tama_smile"
+    hashtags: "#motivation, #yinyoga, #meditation, #yogalife"
+  - username: "slovenskyolympijskytim"
     fullname: >-
-      𝗧 𝗔 𝗠 𝗔 𝗢
+      Slovenský olympijský tím
+    bio: >-
+      Oficiálny účet Slovenského olympijského tímu.
     location: "Japan"
-    followers: 18833
-    engagement: 328
-    commentsToLikes: 0.009661
-    id: ck0vzexhq8rzs0i1912ts0b9z
+    followers: 12791
+    engagement: 264
+    commentsToLikes: 0.011897
+    id: ck5zwao7t5sfi0i14rzfnr816
     verified: false
-    hashtags: "#gracias, #roxyfitness, #troboxchallenge, #lifeisjoke"
-  - username: "aaayu_03"
+    hashtags: "#vyzva, #olympic, #teamslovakia, #podcast"
+  - username: "radiantviews"
     fullname: >-
-      Bgirl Ayu
+      Radiant Views💡
+    bio: >-
+      #RadiantViews Radiant perspectives of the world🗺🌍 Always give credit where it is due👍 You get what you put out. So put out the positive.💙
     location: "Japan"
-    followers: 14864
-    engagement: 648
-    commentsToLikes: 0.015339
-    id: ck14j35mvie6y0i191lo1w2rg
+    followers: 147417
+    engagement: 78
+    commentsToLikes: 0.012910
+    id: ck13cse5m1x650i19meru1slq
     verified: false
-    hashtags: "#goodfoot, #ibreakfree, #breakfreeworldwide, #toprock"
-  - username: "malgorzata151515"
+    hashtags: "#radiantviews"
+  - username: "ken_kenshin.tani"
     fullname: >-
-      Małgorzata Marszałek
+      Kenshin Tani
+    bio: >-
+      ▪︎Work Lesmills Japan Trainer / Group fitness instructor ▪︎Brand ReebokOneAmbassador / Team HALEO #LESMILLS #REEBOK #HALEO #レズミルズ #リーボック #ハレオ
     location: "Japan"
-    followers: 5597
-    engagement: 1255
-    commentsToLikes: 0.131936
-    id: ck8t1zftmxnt90j78ruhxkxbr
+    followers: 12985
+    engagement: 984
+    commentsToLikes: 0.011525
+    id: ck6to55xjc5kf0j71to6w7esa
     verified: false
-    hashtags: "#sylviaday, #pinkflowers, #blooms, #grapehyacinth"
-  - username: "cherrychillwill"
+    hashtags: "#forafitterplanet, #functionaltraining, #hiit, #gritchallenge"
+  - username: "paymoneytomypain_official"
     fullname: >-
-      cherry chill will.
+      PaymoneyTomyPain
+    bio: >-
+      vo:K g:PABLO b:T$UYO$HI dr:ZAX 期間限定オンラインストア
     location: "Japan"
-    followers: 31013
-    engagement: 210
-    commentsToLikes: 0.003035
-    id: ck0vv8dafnzxm0i19excv2dyb
+    followers: 24883
+    engagement: 2776
+    commentsToLikes: 0.005943
+    id: ck5hrrr7lvd7r0i11m25i3sjh
     verified: false
-    hashtags: "#thejbs, #homegrown, #slash, #fljmagazine"
-  - username: "hey_igari_0131"
+    hashtags: "#paymoneytomypain, #rottengraffty, #rowfireworks, #respectforthedeadman"
+  - username: "takeshi_ueda1202"
     fullname: >-
-      猪狩 秀平(Igari Shuhei)
+      上田 剛士
+    bio: >-
+      🏠：Live in Tokyo 🎵：Rock(Loud,Metal,Hardcore etc.) 👕：Mode&Street fashionstyle 🍚：Ramen(Regardless of genre) 🍺：Beer・Jägermeister 📸：iPhone11Pro・DJI OM4
     location: "Japan"
-    followers: 85786
-    engagement: 926
-    commentsToLikes: 0.007599
-    id: ck13an9ler7rf0i1949d2f0f1
+    followers: 6635
+    engagement: 2576
+    commentsToLikes: 0.026985
+    id: ckaowte19ad8n0i78qq3zu1at
     verified: false
-    hashtags: "#iphone, #thehiatus, #shank, #monoeyes"
+    hashtags: "#coldrain, #dotscollective, #crossfaith, #tripleaxe"
   - username: "ami_onuki"
     fullname: >-
       PUFFY 大貫亜美
+    bio: >-
+      無事アカウント取り返してやったぜ！くれてやるとこだったぜ！もー誰なのあれ笑 puffy tourgoods➡️ www.rocket-exp.com/s/R/artist/202906/item?site
     location: "Japan"
-    followers: 221393
-    engagement: 405
-    commentsToLikes: 0.006086
+    followers: 223192
+    engagement: 315
+    commentsToLikes: 0.005810
     id: ck5ztnv9x0sg10i14k2lonbxi
     verified: true
-    hashtags: "#thebulb, #keytalk, #praise, #happybirthday"
-  - username: "wavysavvy_9010design"
+    hashtags: "#rompus, #repost, #hairandmakeup, #shank"
+  - username: "ishiguroayako"
     fullname: >-
-      ウェービーサビー・クオイオデザイン OKA
+      石黒亜矢子 ishiguroayako
+    bio: >-
+      artist 画像投稿、告知専用です。お仕事のご依頼はメールにお願いします
     location: "Japan"
-    followers: 5619
-    engagement: 724
-    commentsToLikes: 0.007262
-    id: ck6tqpqjkt2060j71r9ynqq2e
+    followers: 23271
+    engagement: 597
+    commentsToLikes: 0.003504
+    id: ck6u8mfvgsfq50j71mp5gzl4y
     verified: false
-    hashtags: "#bmw1602, #billetspecialties, #airride, #tas2020"
+    hashtags: "#repost, #puffy, #candystripper, #storagebooks"
   - username: "shinovi.jpn"
     fullname: >-
       SHINOVI Panchita AyaKa
+    bio: >-
+      #SHINOVI #ReggaetonDanceJPN #LasSabrosas∴@las_sabrosas_jpn @retumba2019 @yuika41 #shinoviAyaKa #choriographer #model #クロス屋 #女職人 #一人親方 #InteriorKUSH
     location: "Japan"
     followers: 6216
     engagement: 599
     commentsToLikes: 0.016506
     id: ck14krfzrqy160i19znuko2ci
     verified: false
-    hashtags: "#funkyfranky, #toyohashi, #dukescarclub, #centrodejapon"
+    hashtags: "#nagoya, #model, #brazilfunk, #japonesa"
 ---

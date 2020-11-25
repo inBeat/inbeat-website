@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Chicago In 2020
 description: >-
-  Find top vegan Instagram influencers in Chicago in 2020. Most popular hashtags: #vegan #veganbodybuilder #veganlife #vegetarian.
+  Find top vegan Instagram influencers in Chicago in 2020. Most popular hashtags: #vegan #chicago #food.
 platform: Instagram
+hits: 62
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 62 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
+  - username: "josie_fox"
+    fullname: >-
+      Josie Fox
+    bio: >-
+      I'm a Fitness Model & Photographer @josiefoxphoto Vegan | Chicago | World Traveler CBD OIL @yj_cbd Code Fox15 Pasties @mylollipetals code JosieFox10
+    location: "United States"
+    followers: 109730
+    engagement: 95
+    commentsToLikes: 0.046370
+    id: ck137zyo9du910i19419p2bhq
+    verified: false
+    hashtags: "#gobiheat, #josiefox, #bootaybabe, #bootybag"
   - username: "ant.artefakt"
     fullname: >-
       ANT  | still SUGGS
+    bio: >-
+      [Founder: Artefakt • @artefaktlife] @creationglobal • RhythmMetrics • DFF 🙏| RIP AB, ALLEN, MARK D 🎥| @shotbyant_ 🌃| PGH 🌱| Vegan #ChicagoFootwork 🥔
     location: "United States"
     followers: 8200
     engagement: 525
     commentsToLikes: 0.157026
     id: ck0vyq4vn58rd0i19a80dn5ta
     verified: false
-    hashtags: "#aape, #jordan, #airjordan, #chancetherapper"
-  - username: "healthyvegancuisine"
-    fullname: >-
-      HEALTHY VEGAN CUISINE
-    location: "United States"
-    followers: 297881
-    engagement: 70
-    commentsToLikes: 0.015635
-    id: ck5q7rdj92s3n0i1168pa5rn2
-    verified: false
-    hashtags: "#veganheroes, #easydinner, #whatveganscook, #pastalover"
-  - username: "josie_fox"
-    fullname: >-
-      Josie Fox
-    location: "United States"
-    followers: 93246
-    engagement: 164
-    commentsToLikes: 0.044665
-    id: ck137zyo9du910i19419p2bhq
-    verified: false
-    hashtags: ""
+    hashtags: "#plantbased, #legendaryshxt, #vegansofinstagram, #nike"
   - username: "lasrecetasdelaura"
     fullname: >-
       Las Recetas de Laura 🍒
+    bio: >-
+      Busy Mom working from 🏡 Chicago📍 🥑 Healthy Homemade Food 👨‍👩‍👦‍👦 Family Fun ideas 🇺🇲🇪🇦 👩‍🌾Veggie Garden Enthusiast 💃 Body Positivity
     location: "United States"
-    followers: 59172
-    engagement: 95
-    commentsToLikes: 0.037351
+    followers: 68477
+    engagement: 67
+    commentsToLikes: 0.041497
     id: ck5zrwxnixemo0i140u5x8tlr
     verified: false
-    hashtags: "#licuado, #vegano, #comidafacil, #mango"
-  - username: "mrs.gharbi1"
+    hashtags: "#receta, #food, #halloween, #halloweenrecipes"
+  - username: "mr.sir_wes"
     fullname: >-
-      𓂀 Muslim Latian Clean Beauty🇹🇳
+      Wes Patterson
+    bio: >-
+      Lost Over 100Lbs CHICAGO Vegan 🌱 Online Coaching CEO @precise_personnel_solutions CEO @quick_fitness_llc Bookings/Collab Email👈🏾
     location: "United States"
-    followers: 10370
-    engagement: 550
-    commentsToLikes: 0.089780
-    id: ck5cheybzqn5b0i11zum7y2hd
+    followers: 52098
+    engagement: 180
+    commentsToLikes: 0.090320
+    id: ckap8vwfyq4kk0i78i0dhtydx
     verified: false
-    hashtags: "#healthyliving, #mexicanmakeup, #tipoftheday, #muslimgirls"
-  - username: "aurahalazam"
+    hashtags: ""
+  - username: "foodnetwerq"
     fullname: >-
-      Aurah Ala⚡️am
+      Food Netwerq
+    bio: >-
+      Will Ngo 😇🍽 #foodie | #chicago | #vegetarian Where there's a Will, there's a way to #eat. 👦🏻: @heyimwill 📸: All original photos!
     location: "United States"
-    followers: 2645
-    engagement: 1499
-    commentsToLikes: 0.112672
-    id: ckap3ol6b3vkw0i782wzpedfi
+    followers: 5222
+    engagement: 1025
+    commentsToLikes: 0.133580
+    id: ckaorvp8zoyfk0i78ykpnlvnb
     verified: false
-    hashtags: "#lookatthoseleafs, #fitnessjourney, #naturalbodybuilder, #quarantinelife"
-  - username: "film_krue"
+    hashtags: "#rainbow, #cream, #spicy, #delicious"
+  - username: "mrwilliamcruse"
     fullname: >-
-      Film_Krue
+      Sir Cruse
+    bio: >-
+      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
     location: "United States"
-    followers: 5223
-    engagement: 651
-    commentsToLikes: 0.101356
-    id: ck5zr3kb3vtvy0i14p7gqqgmq
+    followers: 38602
+    engagement: 768
+    commentsToLikes: 0.015702
+    id: ck5c6ekj559zm0i11030vuue0
     verified: false
-    hashtags: "#emoforever, #badboyhair, #emoboy, #veganjackets"
+    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
+  - username: "demiarango_"
+    fullname: >-
+      Demi Arango
+    bio: >-
+      Entrepreneur | Traveler | Mentor 𝑯𝒆𝒍𝒑𝒊𝒏𝒈 𝒐𝒕𝒉𝒆𝒓𝒔 𝒃𝒖𝒊𝒍𝒅 𝒕𝒉𝒆𝒊𝒓 𝒅𝒓𝒆𝒂𝒎 𝒍𝒊𝒇𝒆 ♡ ⇣ Let me upgrade you
+    location: "United States"
+    followers: 17557
+    engagement: 186
+    commentsToLikes: 0.209524
+    id: ckap7p8x3kytm0i7899vfi3th
+    verified: false
+    hashtags: "#reel, #blogger, #healthyliving, #bossbabe"
   - username: "kyliedennison"
     fullname: >-
       K Y L I E •🦄✨
+    bio: >-
+      🎥 YouTube/Beauty Vlogger 💄 MUA from Chicago 🌱 Vegan 📩 Inquiries: kikichanelyoutube@yahoo.com 👻 Snapchat: kyliedennison
     location: "United States"
-    followers: 28288
-    engagement: 1011
-    commentsToLikes: 0.080815
+    followers: 35174
+    engagement: 1029
+    commentsToLikes: 0.086282
     id: ck5pwdjtzmbjy0i11nizuw21w
     verified: false
-    hashtags: "#experienceihg, #hamiltonisoverparty, #bellamihair, #expresspartner"
-  - username: "marmgie"
+    hashtags: "#intercontinentallife, #experienceihg"
+  - username: "mrkoolaidofficial"
     fullname: >-
-      MARM
+      stephen hauptfuhr
+    bio: >-
+      Burnin’ - Rick Ross Mr Koolaid vs NkRiot remix . Link 👇🏾
     location: "United States"
-    followers: 19196
-    engagement: 1155
-    commentsToLikes: 0.013186
-    id: ck8wgn3sjhofq0j78u1aih44l
+    followers: 92336
+    engagement: 94
+    commentsToLikes: 0.021089
+    id: ck5hm24gll8wy0i111bsqng11
     verified: false
-    hashtags: "#angieyonagacosplay, #chiakinanami, #nanamicosplay, #sdr2cosplay"
-  - username: "veggieworldrecipes"
+    hashtags: "#plantbased, #lakeatitlan, #eatlovelyatnight, #bonappetit"
+  - username: "sabrina.kelly8"
     fullname: >-
-      Gaby Dimova
+      SABRINA KELLY
+    bio: >-
+      8teen nashville dancer | choreographer team USA @tribetalent don’t trade your authenticity for approval <3
     location: "United States"
-    followers: 12674
-    engagement: 504
-    commentsToLikes: 0.501678
-    id: ck5zjt6mqi7i00i146qhjfdwp
+    followers: 3969
+    engagement: 1504
+    commentsToLikes: 0.087459
+    id: ck5hf77mqw4ih0i11gsw9iuie
     verified: false
-    hashtags: "#plantbased, #betterbodyfoods, #alphaburrito, #morinutofu"
+    hashtags: "#getmeablanket, #chicagonypd, #honk, #vegan"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Colombia In 2020
 description: >-
-  Find top fitness Instagram influencers in Colombia in 2020. Most popular hashtags: #tbt #sunday #quedateencasa #saturday.
+  Find top fitness Instagram influencers in Colombia in 2020. Most popular hashtags: #fitnesslifestyle #fitness #tbt.
 platform: Instagram
+hits: 255
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 255 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "steffyofficial"
+  - username: "nicoleaguayoo___"
     fullname: >-
-      Steffy Moreno
+      🍃🌸 ηίɕσʆε 🌸🍃
+    bio: >-
+      📍Concepción , Chile 📌 🦋 ConstructorCivil, Obra Palomares Alto 👷🏻‍♀️ 33 Vueltas al Sol ☀️ Fitness 🏋🏻‍♀️
     location: "Colombia"
-    followers: 374862
-    engagement: 398
-    commentsToLikes: 0.027847
-    id: ck6udohjom9rk0j71tlc3a4qe
+    followers: 80353
+    engagement: 731
+    commentsToLikes: 0.013768
+    id: ck0vy4n55284a0i19d2hpdukw
     verified: false
-    hashtags: "#tbt, #practicesocialdistancing, #practicadistanciamientosocial"
-  - username: "anacespedesc"
+    hashtags: "#instamoment, #deporte, #instagram, #primavera"
+  - username: "bebasantander"
     fullname: >-
-      ANA C.
+      Thalia Santander 🐰💪
+    bio: >-
+      Manager: @patricioazeta DIOS ♥ Wellness Fitness🏆 💪🏻 Lcda en fisioterapia 👩🏻‍⚕️
     location: "Colombia"
-    followers: 352905
-    engagement: 429
-    commentsToLikes: 0.022083
-    id: ck8sz2flhmx4e0j78jyq6uyfm
+    followers: 26414
+    engagement: 1036
+    commentsToLikes: 0.015698
+    id: ck6u63rwudcom0j71z5o3zzfa
     verified: false
-    hashtags: "#tbt, #nofilters"
-  - username: "dulcejimnz"
+    hashtags: "#fitnessaddict, #fitnessmotivation, #fitnessgirl, #wellness"
+  - username: "maleja__fitness"
     fullname: >-
-      Dulce Jimenez
+      ✨MalejaFitness✨
+    bio: >-
+      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Creadora @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
     location: "Colombia"
-    followers: 72822
-    engagement: 189
-    commentsToLikes: 0.066059
-    id: ck5zzooehc4x70i14ve7vn008
+    followers: 52587
+    engagement: 185
+    commentsToLikes: 0.202511
+    id: ck6ub52tt7ihr0j71agebuhxm
     verified: false
-    hashtags: "#quarantine, #passthebrush, #glam, #mothersday"
+    hashtags: "#fitgirls, #fitnessmotivation, #healthy, #powergirl"
   - username: "dahiabetancur"
     fullname: >-
       DaHiAnA BeTaNcUr  🌸 👀
+    bio: >-
+      COLOMBIA 🇨🇴 24/7 fitnesslife #dahiafit 💪🏻🏋🏻‍♀️💯 Típs para cuerpo y mente saludables estilo de vida ❤️🥗 @distriledautomotriz 🚘🏍
     location: "Colombia"
-    followers: 21358
-    engagement: 281
-    commentsToLikes: 0.114714
+    followers: 23577
+    engagement: 195
+    commentsToLikes: 0.071696
     id: ck5zpekqcsj620i14rtne7liv
     verified: false
-    hashtags: "#cuerpower, #trensuperior, #abrilview, #positivelife"
-  - username: "didi_huf"
+    hashtags: "#estilodevida, #fitnesslifestyle, #strong, #dahiafit"
+  - username: "kathecfit"
     fullname: >-
-      Didi
+      Kathe Cruz
+    bio: >-
+      📌| Bogota- Colombia 📚| Entrenadora en formación CCAPF 🏋🏻‍♀️ 💥| Fitness life 🙈 🎓| Tecnóloga en gestión ambiental y servicios públicos UD.
     location: "Colombia"
-    followers: 347322
-    engagement: 443
-    commentsToLikes: 0.018541
-    id: ck6udotl8mbp20j71xgsj6rg9
+    followers: 25686
+    engagement: 708
+    commentsToLikes: 0.016115
+    id: ckap4egng703l0i78k3w2c4sb
     verified: false
-    hashtags: "#fitnessmotivation, #cuarentena, #athome"
-  - username: "paulaellisfit"
+    hashtags: "#fitness, #fit, #instafit, #results"
+  - username: "nanis44"
     fullname: >-
-      PAULA ELLIS
+      𝕯𝖎𝖆𝖓𝖆 𝕵𝖎𝖒𝖊𝖓𝖊𝖟
+    bio: >-
+      ⚬Amante a los animales 🐶🐮🐂🐎😻 ⚬ Atleta fitness 🙅🏻‍♀️ 💟@guerreroscolombia Embajadora 🏋🏽‍♀️ @tntsupernutrition
     location: "Colombia"
-    followers: 33537
-    engagement: 347
-    commentsToLikes: 0.073325
-    id: ck5hcfoq0hu560i11nl5nt23b
+    followers: 208588
+    engagement: 293
+    commentsToLikes: 0.016866
+    id: ckaorayu7mhe50i78sklndpx9
     verified: false
-    hashtags: "#diet, #happybirthday, #family, #legday"
-  - username: "andreatorres_2"
+    hashtags: "#domingorelax, #tbt"
+  - username: "danielgarciazumba"
     fullname: >-
-      Andrea Torres
+      Daniel García
+    bio: >-
+      🚨 SIGUEME EN @brothers_twinz 🚨 • Zumba® Instructor 🌎 • International Zumba® Fitness Presenter • ZIN Member™ • Cali, Colombia 🇨🇴
     location: "Colombia"
-    followers: 154667
-    engagement: 472
-    commentsToLikes: 0.016343
-    id: ck5c101b9u6j90i11o7xitl6b
+    followers: 4788
+    engagement: 875
+    commentsToLikes: 0.080545
+    id: ckaoydj2uh26b0i78rq2ifuxo
     verified: false
-    hashtags: "#girlspower, #gymmode, #gymlife, #godisgood"
-  - username: "vaneperegrina"
+    hashtags: "#cali, #colombia, #zumbawear, #zumba"
+  - username: "janee.hdz"
     fullname: >-
-      Vanessa Nieto - Escritora
+      Jαηє н∂z 👑
+    bio: >-
+      ❗POSITIVE WOMAN❗ WORK @multimediostv FITNESS MOM OF @bellavargas_15💪🏼 CODE @sheinofficial -15%”Q3janeehdz” ✨Collabs Correo o DM✨ LIC ADMIN🐘 GEMINIS♊
     location: "Colombia"
-    followers: 20482
-    engagement: 332
-    commentsToLikes: 0.056724
-    id: ckapa0su0u9jf0i78hrsu5scq
+    followers: 174786
+    engagement: 114
+    commentsToLikes: 0.033845
+    id: ckf5la1mgovpq0j23ki6zx9le
     verified: false
-    hashtags: "#denimjacket, #felizlunes, #mujereslatinas, #portaretrato"
-  - username: "carlosgrandedelg"
+    hashtags: "#shein, #sheingals, #loveit, #sheingirls"
+  - username: "laura_manrique13"
     fullname: >-
-      Carlos Grande del Gallego
+      Laura Manrique
+    bio: >-
+      Athlete Bikini Fitness👙 Personal trainer🏋🏻‍♀️ posing coach 🏆 Colombiana 🇨🇴 Panamá 🇵🇦 @abcfitnesspanama 🛍🛒
     location: "Colombia"
-    followers: 366471
-    engagement: 225
-    commentsToLikes: 0.024551
-    id: ck8sxh9sqhe260j786hifyr2t
+    followers: 39152
+    engagement: 258
+    commentsToLikes: 0.022775
+    id: ck6tmt8738hn60j71nllvp2a8
     verified: false
-    hashtags: "#calvinklein, #live, #elfinaldelparaiso, #islamoradasopo"
-  - username: "mayitarojasb"
+    hashtags: "#tbt, #espalda"
+  - username: "locombia"
     fullname: >-
-      Nini Mayerly
+      Locombia
+    bio: >-
+      ♥ We love #hiking #mountains #outdoors #fitness #fashion #vanlifer with 🚐 Mistral Ligia (Colombian)+ Stephen (Irish) @esmurphy01 📍London
     location: "Colombia"
-    followers: 17634
-    engagement: 500
-    commentsToLikes: 0.026603
-    id: ck8sx53l0g6xh0j78mu15ib2a
+    followers: 23232
+    engagement: 244
+    commentsToLikes: 0.219215
+    id: ck5zw15bi5a3m0i148n3du114
     verified: false
-    hashtags: "#tunja, #mecuidoytecuido, #throwbackpic, #medellin"
+    hashtags: "#getoutside, #intothewilderness, #themountainiscalling, #ukhiking"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Philadelphia In 2020
 description: >-
-  Find top fitness TikTok influencers in Philadelphia in 2020. Most popular hashtags: #fitness #coronavirus #newyork #musicmatters.
+  Find top fitness TikTok influencers in Philadelphia in 2020. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
 platform: TikTok
+hits: 6
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 6 TikTok influencers like this in Philadelphia, United States for you to work with.
 profiles:
+  - username: "darrylevanetich"
+    fullname: >-
+      Darryl Evanetich
+    bio: >-
+      
+    location: "United States"
+    followers: 3359
+    engagement: 408
+    commentsToLikes: 0.050761
+    id: ck9773xdy2mj10j78i4hbegbm
+    verified: false
+    hashtags: "#slc, #utah, #duet, #fyp"
+  - username: "markbullet"
+    fullname: >-
+      Mark Bullet
+    bio: >-
+      Philadelphia IG: @markbullet
+    location: "United States"
+    followers: 4678
+    engagement: 724
+    commentsToLikes: 0.102236
+    id: ckb96zn1ap9h50j23p5nxhv5e
+    verified: false
+    hashtags: "#1975, #fyp, #matthealy, #duet"
   - username: "taravision"
     fullname: >-
       Tara
+    bio: >-
+      Social Media Personality & Entertainment Producer. Snap/Twitter: TheRealTara
     location: "United States"
-    followers: 2096
-    engagement: 557
-    commentsToLikes: 0.026539
+    followers: 11700
+    engagement: 1875
+    commentsToLikes: 0.018763
     id: ck8z1pe8i2e060j78onrs701y
     verified: false
-    hashtags: "#ohno, #carshow, #spidermonkey, #catsoftiktok"
-  - username: "smack_yo_mama"
+    hashtags: "#welcometojurassicpark, #universal, #dinosaur, #philly"
+  - username: "therealrasberry"
     fullname: >-
-      EL TORO
+      Jonmarc Rasberry
+    bio: >-
+      Teaching, Logos, Sports Venmo: Jonmarc-Rasberry ⬇️Link to My RedBubble⬇️
     location: "United States"
-    followers: 3093
-    engagement: 836
-    commentsToLikes: 0.077248
-    id: cka0fwuni1pb70i78bavq4p7l
+    followers: 24000
+    engagement: 838
+    commentsToLikes: 0.127415
+    id: ckcur2kwvji9f0j236hr9i4qo
     verified: false
-    hashtags: "#trucker, #cursedimages, #angel, #datingstorytime"
+    hashtags: "#logo, #expressieyourself, #myhobby, #underratedartist"
   - username: "nickertease"
     fullname: >-
       Nick Ortiz
+    bio: >-
+      💁‍♂️Boring human 🏃🏻Subpar parkour 📬knickertease@gmail
     location: "United States"
     followers: 261908
     engagement: 1276
     commentsToLikes: 0.009500
     id: ck9k55m32vhom0j78xddicm9c
     verified: false
-    hashtags: "#imold, #balance, #siblingcheck, #brotherlove"
-  - username: "sportsmemers"
+    hashtags: "#parkour, #happyathome, #advice, #safehands"
+  - username: "jimmac__"
     fullname: >-
-      SportsMemes
+      jimmac__
+    bio: >-
+      that one asian guy #marinecorps .. p;s follow me on instagram @jimmac__
     location: "United States"
-    followers: 2475
-    engagement: 1769
-    commentsToLikes: 0.040216
-    id: cka84a7drsq0p0i783qrehfbx
+    followers: 13800
+    engagement: 543
+    commentsToLikes: 0.009452
+    id: ckb9vetynumvt0j23qra4qe9c
     verified: false
-    hashtags: "#rubberlegs, #hockeycheck, #sack, #boxing"
-  - username: "richydimov"
+    hashtags: "#viral, #foryou, #marinecorps, #coronavirus"
+  - username: "fitness"
     fullname: >-
-      Richy Dimov
+      fitness
+    bio: >-
+      The official @fitness community!💪 Follow for more workouts!🏋️‍♂️ by @Squats
     location: "United States"
-    followers: 105193
-    engagement: 1271
-    commentsToLikes: 0.047457
-    id: ck9rndpfd74tx0j78id9xevjg
-    verified: true
-    hashtags: "#fitness"
-  - username: "mikecarlucci_"
-    fullname: >-
-      Mike
-    location: "United States"
-    followers: 94757
-    engagement: 2049
-    commentsToLikes: 0.066301
-    id: ck9shzx4sw8cv0j780tl40ulg
+    followers: 246200
+    engagement: 505
+    commentsToLikes: 0.007495
+    id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
-    hashtags: "#dream, #storytime, #bo2, #6ix9ine"
-  - username: "lexdamon"
+    hashtags: "#foryou, #foryoupage, #fyp, #fitness"
+  - username: "justakayday"
     fullname: >-
-      Alexis Damon
+      Kay Mejia
+    bio: >-
+      Nerd...26...Fitness You’re never alone! 🖤
     location: "United States"
-    followers: 22058
-    engagement: 1595
-    commentsToLikes: 0.059038
-    id: ck9njith7hmr20j78izgy26et
+    followers: 15000
+    engagement: 2468
+    commentsToLikes: 0.206930
+    id: ckbace1l04urc0j23dv1mpj5m
     verified: false
-    hashtags: "#sisterfights, #happymothersday, #workoutathome, #positivemessage"
-  - username: "fitkage"
+    hashtags: "#warzone, #fyp, #cod, #mentalhealthmatters"
+  - username: "jasonstotz"
     fullname: >-
-      Hunter 
+      Jason Stotz
+    bio: >-
+      Wellness and Fitness Coach CEO of ‘The River’ Dance Sexy, Silly, Spiritual
     location: "United States"
-    followers: 237311
-    engagement: 1650
-    commentsToLikes: 0.025988
-    id: ck8owc35ax52b0j7857h7km6s
+    followers: 99700
+    engagement: 1975
+    commentsToLikes: 0.037503
+    id: ckc8ae8ak75te0j23dwky6hds
     verified: false
-    hashtags: "#akatsuki, #fitness, #headband, #netero"
-  - username: "bigdarkness59"
+    hashtags: "#bluewave, #redbulldanceyourstyle, #byedon, #biden2020"
+  - username: "mackenzie_epperson"
     fullname: >-
-      Michael Harris
+      Mackenzie
+    bio: >-
+      Mama to Oakley Health, fitness, motherhood Liquid IV link
     location: "United States"
-    followers: 7590
-    engagement: 1196
-    commentsToLikes: 0.089322
-    id: ck9si9banxrwd0j78vtxfy9ow
+    followers: 68900
+    engagement: 2129
+    commentsToLikes: 0.038414
+    id: ckb9noodbhk8q0j2365iginqq
     verified: false
-    hashtags: "#weaintplayin, #tiktokfitness, #tictoc, #athlete"
-  - username: "avacashman"
-    fullname: >-
-      avacashman
-    location: "United States"
-    followers: 14938
-    engagement: 2120
-    commentsToLikes: 0.028372
-    id: ck9kfnp91499q0j78hhbrrb6i
-    verified: false
-    hashtags: "#wishmeluck, #nosepainting, #clonesquad, #sislove"
+    hashtags: "#veganfoodie, #vegan, #fypp, #fitmamas"
 ---

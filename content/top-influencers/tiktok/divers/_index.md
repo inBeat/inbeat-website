@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In 2020
 description: >-
-  Find top divers TikTok influencers in 2020. Most popular hashtags: #greenscreen #comedia #reaccionar #fail.
+  Find top divers TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #dueto #tiktok.
 platform: TikTok
+hits: 1847
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 1847 TikTok influencers like this for you to work with.
 profiles:
   - username: "thomasciprick"
     fullname: >-
       Thomas Ciprick
+    bio: >-
+      🇨🇦 Diver
     location: "Canada"
-    followers: 113425
-    engagement: 1057
-    commentsToLikes: 0.008396
+    followers: 116800
+    engagement: 1049
+    commentsToLikes: 0.003845
     id: ck806zczlnbd50j78tyvu07re
     verified: false
-    hashtags: "#spain, #china, #xyzbca, #insomnia"
-  - username: "martinadant"
+    hashtags: "#diving, #foryoupage, #fyp, #foryou"
+  - username: "albagonzalojulibert"
     fullname: >-
-      la diversión de Martina
+      Alba Gonzalo Juliber
+    bio: >-
+      Nunca dejes de soñar ❤️ + 40 y con mucha alegría.. Diversión a tope
     location: "Spain"
-    followers: 2850085
-    engagement: 2481
-    commentsToLikes: 0.031817
-    id: cka7nh0bnwuwo0i78v1g88qxk
-    verified: true
-    hashtags: "#comedia, #oreo, #crepes, #fail"
-  - username: "fresh.princess_"
+    followers: 3117
+    engagement: 4501
+    commentsToLikes: 0.629236
+    id: ckcek7bqktfm20j23soyh9qxq
+    verified: false
+    hashtags: "#esemomentazo, #humor, #amistad, #campistas"
+  - username: "gilson0070"
     fullname: >-
-      ✨ Z I Y A ✨
+      GiL🕺☄️
+    bio: >-
+      Deus na frente de tudo diversão alegria com senhor jesus Cristo no ❤️💙🙌 💥🙌
     location: "Brazil"
-    followers: 35362
-    engagement: 2106
-    commentsToLikes: 0.039379
-    id: ck9fiia5haytm0j78sr7s9zgn
+    followers: 2442
+    engagement: 2936
+    commentsToLikes: 0.554991
+    id: ckc8vecb7i8fc0j2327oym7vj
     verified: false
-    hashtags: "#juntosvamosvencer, #duet"
-  - username: "professorross"
+    hashtags: "#tiktok, #dueto, #chaves, #humor"
+  - username: "booktokchild"
     fullname: >-
-      ProfessorRoss
+      Bahia (she/her)📚💛
+    bio: >-
+      Book: Reader Shadow: Hunter Diver: Sity Raven: Boys JK Rowling: Trash
     location: "United States"
-    followers: 29454
-    engagement: 1632
-    commentsToLikes: 0.063723
-    id: ck90v4oa6yvhq0j78llpxs7mp
+    followers: 5222
+    engagement: 2534
+    commentsToLikes: 0.075251
+    id: ckc8yx3kcnlk60j232epk1iq9
     verified: false
-    hashtags: "#libertarian, #femme, #girl, #rich"
-  - username: "universo.diverso"
+    hashtags: "#cassandraclare, #books, #hp, #read"
+  - username: "claicepires"
     fullname: >-
-      𝕿𝖚𝖒𝖇𝖑𝖗 𝖌𝖎𝖗l
+      Claice Pires /diversão
+    bio: >-
+      mulher, mãe, enfermeira, casada e feliz! tiktok é diversão 🤣
     location: "Brazil"
-    followers: 4310
-    engagement: 1446
-    commentsToLikes: 0.078289
-    id: ck9a653i71qkd0j782w3674hj
+    followers: 3730
+    engagement: 2437
+    commentsToLikes: 0.326154
+    id: ckcvheywmu4z40j2339t4fdxw
     verified: false
-    hashtags: "#inseparave, #altas, #addisonrae, #meninas"
-  - username: "paulaav16"
+    hashtags: "#diversao, #tiktok, #maeefilha, #foryou"
+  - username: "caryruth"
     fullname: >-
-      paulaav16
-    location: "Spain"
-    followers: 35839
-    engagement: 1346
-    commentsToLikes: 0.066106
-    id: ck904ute3ejlt0j785046urzz
-    verified: false
-    hashtags: "#greenscreen"
-  - username: "lagitana_33"
-    fullname: >-
-      Sarah  Lopez
-    location: "United States"
-    followers: 4240
-    engagement: 1102
-    commentsToLikes: 0.106953
-    id: cka6qdlgpn77x0i78324zdipk
-    verified: false
-    hashtags: "#spacethings, #sick, #tristerealidad, #greenscreen"
-  - username: "lamasortiva_"
-    fullname: >-
-      lamasortiva
+      CaryRuth
+    bio: >-
+      Por Diversión #caryruth ♡๑۞๑❁۩ đα𝐦Ẹ 𝓂𝐢𝕝 β𝐞𝔰ㄖŜ ۩❁๑۞๑♡ No ofensas 🙏
     location: "Argentina"
-    followers: 202530
-    engagement: 2849
-    commentsToLikes: 0.012643
-    id: ck83zdz1rzwbm0j78ynpt4aew
+    followers: 55800
+    engagement: 2130
+    commentsToLikes: 0.203468
+    id: ckcvin1nqvrs50j23l9ghtcvr
     verified: false
-    hashtags: ""
-  - username: "paty.anto13"
+    hashtags: "#argentina, #caryruth, #100precuchicuchi, #duochallenge"
+  - username: "maitealejandrocp"
     fullname: >-
-      🌹P A T Y🌹
-    location: "Chile"
-    followers: 59062
-    engagement: 1841
-    commentsToLikes: 0.028224
-    id: ck9em4uazdkqf0j78xtdnp1za
-    verified: false
-    hashtags: "#reaccionar, #3rr0rsquad"
-  - username: "soy_maiki"
-    fullname: >-
-      Maiki
+      chololo.19.live
+    bio: >-
+      🏳️‍🌈Feministas, pro derechos, Lectura, cultura, y diversión 🏳️‍🌈
     location: "Mexico"
-    followers: 20177
-    engagement: 1667
-    commentsToLikes: 0.069950
-    id: ck9m0pzm9b4bj0j783b5ag95a
+    followers: 158100
+    engagement: 2772
+    commentsToLikes: 0.029484
+    id: ckc3ewudg0rfw0j236newmcde
     verified: false
-    hashtags: "#limonchallenge, #reaccionar, #comedia"
+    hashtags: "#fyp, #tiktoksincensura, #tiktoknoscensura, #maitealejandro"
+  - username: "luli_ferreiraa"
+    fullname: >-
+      Lulii🌻
+    bio: >-
+      por diversão🥰 OBRIGADA PELOS 13K💗 insta: @luli_ferreiraa NÃO ME STALKEIA!
+    location: "Brazil"
+    followers: 13200
+    engagement: 1787
+    commentsToLikes: 0.070072
+    id: ckc8v7r4mhxer0j23u4kcfusz
+    verified: false
+    hashtags: "#dueto, #fyp, #foryou, #fy"
+  - username: "angeldavalos288"
+    fullname: >-
+      ángel
+    bio: >-
+      divirtiéndome a mis 53 años por qué la diversión no es exclusiva de los jóvenes
+    location: "Mexico"
+    followers: 5189
+    engagement: 1622
+    commentsToLikes: 0.305069
+    id: ckdno2ektk72a0j236q7a1muo
+    verified: false
+    hashtags: "#hazduo, #hallowen, #risastiktok, #hazduoconmigo"
+  - username: "fabiolopes2709"
+    fullname: >-
+      Fabio Lopes
+    bio: >-
+      diversao é tudo vamos nos divertir viva a vida Diversão é tudo
+    location: "Brazil"
+    followers: 4342
+    engagement: 3340
+    commentsToLikes: 0.357521
+    id: ckdtkuwggyrgk0j230hc02lou
+    verified: false
+    hashtags: "#fyp, #tik, #amigos, #virall"
 ---

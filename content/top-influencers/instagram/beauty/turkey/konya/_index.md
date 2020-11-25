@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Konya In 2020
 description: >-
-  Find top beauty Instagram influencers in Konya in 2020. Most popular hashtags: #beauty #konya #ramazan #ankara.
+  Find top beauty Instagram influencers in Konya in 2020. Most popular hashtags: #instagram #istanbul #instagood #travel.
 platform: Instagram
+hits: 10
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 10 Instagram influencers like this in Konya, Turkey for you to connect with.
 profiles:
-  - username: "cocopocco"
-    fullname: >-
-      ŞEYMA
-    location: "Turkey"
-    followers: 106811
-    engagement: 823
-    commentsToLikes: 1.200791
-    id: ck8t9d0iann5q0j78vuia4pzx
-    verified: false
-    hashtags: "#flu10052020, #flu18052020, #hediye, #flu07052020"
   - username: "cokdeliminikaile"
     fullname: >-
       Ali Elif Köylü
+    bio: >-
+      🦄 Veteriner Hekim 🌈 Özel Eğitim Öğretmeni 📍 KONYA - HATAY 🎈 elifbahcekoylu@gmail.com ~ Reklam ve işbirliği icin DM ~
     location: "Turkey"
-    followers: 13012
-    engagement: 800
-    commentsToLikes: 0.047489
+    followers: 13706
+    engagement: 875
+    commentsToLikes: 0.041588
     id: ckaowe5048ja80i78k8422dvv
     verified: false
-    hashtags: "#minime, #instababygirl, #bebegiminkadraj, #beautiful"
+    hashtags: "#instaturkey, #mybaby, #baby, #annesibebisi"
+  - username: "xphalitxp"
+    fullname: >-
+      Temizkan_halidd
+    bio: >-
+      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+    location: "Turkey"
+    followers: 10140
+    engagement: 406
+    commentsToLikes: 0.098382
+    id: ckapb2imgybv80i789vnokj18
+    verified: false
+    hashtags: "#dog, #kids, #instalike, #bestoftheday"
+  - username: "dszgn"
+    fullname: >-
+      Deniz SEZGİN
+    bio: >-
+      🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
+    location: "Turkey"
+    followers: 7455
+    engagement: 1091
+    commentsToLikes: 0.121481
+    id: ck9hbt3usibwo0j78r1etvy9n
+    verified: false
+    hashtags: "#yalova, #izmit, #seyahat, #influencers"
+  - username: "_ozi_can_"
+    fullname: >-
+      Ozi Can  📸Fotoğraf Sayfası
+    bio: >-
+      Tüm fotoğraflar bana aittir..📷 All photos belong to me........📸 Yüreği güzel insanlar buyursun galerime...
+    location: "Turkey"
+    followers: 7828
+    engagement: 1274
+    commentsToLikes: 0.149318
+    id: ck8t82dpfiv0m0j78n6i7c3tr
+    verified: false
+    hashtags: "#hayateves, #vizorturkbest, #flower, #deklans"
+  - username: "ozgeeeunal"
+    fullname: >-
+      Özge Ünal ♥
+    bio: >-
+      26🎂 ANKARA📍 Hacettepe Üniversitesi Tıp Fakültesi Hastanesi / Araştırma Görevlisi 🏨 💉 PR 📨: unalozge94@gmail.com
+    location: "Turkey"
+    followers: 12324
+    engagement: 967
+    commentsToLikes: 0.004211
+    id: ck13a3ke0ogfy0i19fo5jidml
+    verified: false
+    hashtags: "#ankara, #instafollow, #aniyakala, #like4like"
+  - username: "1uqba_"
+    fullname: >-
+      📍Bremen
+    bio: >-
+      Hiçbir zaman çıktığın kapıyı hızlı çarpma. Geri dönmek isteyebilirsin. 🍂
+    location: "Turkey"
+    followers: 14391
+    engagement: 1067
+    commentsToLikes: 0.206184
+    id: ckap6m237gg860i78199nj2va
+    verified: false
+    hashtags: "#turkishgirl, #likeforlikes, #istanbul, #instapic"
   - username: "alyagram_2017"
     fullname: >-
       Alya' nın dünyası
+    bio: >-
+      Fotoğraf makinasının en önemli parçası onun 30 cm arkasında durandır.📷
     location: "Turkey"
     followers: 12155
     engagement: 1572
     commentsToLikes: 0.025893
     id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#like, #mothernature, #bride, #eidmubarak"
-  - username: "elfinzeyno"
+    hashtags: "#bhfyp, #beautiful, #photo, #flowers"
+  - username: "eseseda98"
     fullname: >-
-      Prof.Dr.Elif Şahin Horasan
+      Edanur Yıldız 🇹🇷
+    bio: >-
+      Kâinattan hâlıkını soran bir seyyah... 🇹🇷 Activist | Volunteer | Student 🌀
     location: "Turkey"
-    followers: 73203
-    engagement: 188
-    commentsToLikes: 0.124861
-    id: ck8t1tab6wxyf0j78d3jqwfxz
+    followers: 22090
+    engagement: 447
+    commentsToLikes: 0.024740
+    id: ck15qo9lz3u200i19eto77yi4
     verified: false
-    hashtags: "#kanola, #lake, #754850, #hair"
+    hashtags: "#jakarta, #dirgahayurepublikindonesia, #harikaendonezya, #mercusuarwilliamtorrent"
   - username: "yemelerdeyizcom"
     fullname: >-
       Yemelerdeyiz
+    bio: >-
+      👑 Efsane geri döndü 🎥🎥 🥘 Yemek 🧳 Seyahat 🧭 Gezi 🔥🔥 Yaşasın Yemek yemek.
     location: "Turkey"
     followers: 155599
     engagement: 145
     commentsToLikes: 0.008900
     id: ck6u9gjq4xfjg0j71z5pdicjy
     verified: false
-    hashtags: "#dudakdolgusu, #chessecake, #restaurant, #germany"
+    hashtags: "#bursa, #amazonas, #yemek, #hataymedeniyetlersofrasi"
   - username: "unescoturkiye"
     fullname: >-
       UNESCO Türkiye®️
+    bio: >-
+      Türkiye Kültür ve Dünya Mirası Tanıtma Topluluğu
     location: "Turkey"
     followers: 7744
     engagement: 366
     commentsToLikes: 0.011651
     id: ck5bvjgsdjrip0i11yxk8chen
     verified: false
-    hashtags: "#cami, #beautiful, #karab, #hattu"
-  - username: "rikki.roath"
-    fullname: >-
-      Rikki Lee Roath
-    location: "Turkey"
-    followers: 13655
-    engagement: 1324
-    commentsToLikes: 0.024579
-    id: ck6u8f17zr7p70j71f2lrayp0
-    verified: false
-    hashtags: "#travellocal, #yeniyerler, #byebye, #biking"
-  - username: "_ozi_can_"
-    fullname: >-
-      Ozi Can
-    location: "Turkey"
-    followers: 8231
-    engagement: 1274
-    commentsToLikes: 0.197439
-    id: ck8t82dpfiv0m0j78n6i7c3tr
-    verified: false
-    hashtags: "#esed, #edebiyatkulu, #turkiye, #instamood"
-  - username: "ankaraetkinlik"
-    fullname: >-
-      Ankara Etkinlik ®™
-    location: "Turkey"
-    followers: 63820
-    engagement: 195
-    commentsToLikes: 0.049448
-    id: ck0u6kgjj25gl0i1933eqbbi0
-    verified: false
-    hashtags: "#togoc, #togo1937, #drorhanayd, #tablo"
-  - username: "izgisimal"
-    fullname: >-
-      Şimal İzgi 🍒
-    location: "Turkey"
-    followers: 2764
-    engagement: 2747
-    commentsToLikes: 0.133969
-    id: ckaot27amu1im0i78imlj088h
-    verified: false
-    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+    hashtags: "#gu, #bart, #unescot, #unesco"
 ---

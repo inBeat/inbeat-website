@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top food Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayathome #morning #pillowchallenge #stayhome.
+  Find top food Instagram influencers in Malaysia in 2020. Most popular hashtags: #ootd #amar #dametraveler.
 platform: Instagram
+hits: 168
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 168 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "emilykcl"
+  - username: "joyentan"
     fullname: >-
-      Emily Kong 江倩龄
+      Jo Yen Tan 祖嫣
+    bio: >-
+      ACCA Student | Content Creator | Food Explorer | Collab/Sponsor: joyenjoyen@gmail.com ❤️ @alovelycouplelife @joyentan_
     location: "Malaysia"
-    followers: 51615
-    engagement: 1216
-    commentsToLikes: 0.036248
-    id: ck5q82l9i45pt0i111gwa29rp
+    followers: 16017
+    engagement: 261
+    commentsToLikes: 0.122619
+    id: ckaorkslhnoar0i78bawjwshh
     verified: false
-    hashtags: "#uniqlomy, #andylau, #ourangelemily, #coachmy"
-  - username: "zoe_aw"
+    hashtags: "#shopback11kchallenge, #joyenjoshjourney, #drwu, #watsonsbeautybox"
+  - username: "deakenw"
     fullname: >-
-      Zoe Aw淑怡
+      Ken Dea Wardani
+    bio: >-
+      Can't live without traveling, food, culture @saturasabydea / @travelwithmamba / @bukaan.moment 💌 : wardani.deak@gmail.com
     location: "Malaysia"
-    followers: 22624
-    engagement: 539
-    commentsToLikes: 0.022703
-    id: ckap50a5z9lz60i78pcgymlkj
+    followers: 32287
+    engagement: 108
+    commentsToLikes: 0.077093
+    id: ck5bza7hoqqvo0i11sj2dtx1b
     verified: false
-    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
+    hashtags: "#exoticntt, #rindulabuanbajo, #wonderfullindonesia, #exploreflorata"
+  - username: "tachichosz"
+    fullname: >-
+      Atasha A.
+    bio: >-
+      @facetheory DISC 20% (BBTACHICHOSZ) Constantly hungry. TRAVEL • LIFESTYLE • FOOD •🐈 📍KL, Malaysia 🇲🇾
+    location: "Malaysia"
+    followers: 40163
+    engagement: 538
+    commentsToLikes: 0.067594
+    id: ckf5ofhp021w30j23rzue25qx
+    verified: false
+    hashtags: "#timeoutlisbon, #inspo, #agameoftones, #sheisnotlost"
+  - username: "blogitwithaqsa_"
+    fullname: >-
+      ✨ AQSA ALI ✨
+    bio: >-
+      🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
+    location: "Malaysia"
+    followers: 25742
+    engagement: 166
+    commentsToLikes: 0.059595
+    id: ck0vxl3nmzfk80i19bvk8axkb
+    verified: false
+    hashtags: "#muharram1442"
+  - username: "ohfishiee"
+    fullname: >-
+      °· F I S H ·°
+    bio: >-
+      😄Travel, Beauty, Food Blogger 💌Ads/sponsorship: ohfishie@gmail.com ❤WWW.OHFISHIEE.COM BIG GIVEAWAY👇🏻
+    location: "Malaysia"
+    followers: 20445
+    engagement: 503
+    commentsToLikes: 0.015641
+    id: ck0w5haxf3n6e0i19rr26hnc7
+    verified: false
+    hashtags: "#ohfishieetravels, #ohfishieeootd, #ohfishieebeauty, #discoverhongkong"
+  - username: "ishanorsham"
+    fullname: >-
+      𝗜𝘀𝗵𝗮 𝗡𝗼𝗿𝘀𝗵𝗮𝗺
+    bio: >-
+      🎥 Tv Host/Content Creator 🤍 Travel,Food,Tiktok,Emceeing,Fitness,Skincare 📩 Business/Collaboration/Review
+    location: "Malaysia"
+    followers: 38134
+    engagement: 324
+    commentsToLikes: 0.042789
+    id: ck5bwklj4lvu10i11rjmojut1
+    verified: false
+    hashtags: "#dwinmy, #pomelofashion, #klairsmy, #sale"
+  - username: "danielfongwc"
+    fullname: >-
+      Daniel Fong
+    bio: >-
+      Monash alumni 2016 📒 Singing 🎤 Acting 👨🏻 Food junkie 🍔 Email for collaborations Subscribe to my Facebook page too ⬇️
+    location: "Malaysia"
+    followers: 44939
+    engagement: 413
+    commentsToLikes: 0.010364
+    id: ck6ttezj3a94j0j714dlje3r3
+    verified: false
+    hashtags: "#hadalabomalaysia, #derhakacintajebat, #hadalabo10thanniversary, #guessmy"
+  - username: "alfredchia"
+    fullname: >-
+      Alfred chia
+    bio: >-
+      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
+    location: "Malaysia"
+    followers: 22404
+    engagement: 273
+    commentsToLikes: 0.029006
+    id: ck5hk1g5nhmf20i11gwfyg5px
+    verified: false
+    hashtags: "#frenchbulldogs, #halloween"
+  - username: "_melissayang"
+    fullname: >-
+      Health & Wellness
+    bio: >-
+      Shop now @foodspaceasia
+    location: "Malaysia"
+    followers: 5109
+    engagement: 869
+    commentsToLikes: 0.032836
+    id: ckaorn3o1nyu80i782m8ssnd9
+    verified: false
+    hashtags: "#ecommerce, #pincha, #aloboutmentalhealth, #unleashyourchakra"
   - username: "angel.nggg"
     fullname: >-
-      A N G E L 慧慧 🦄
+      A N G E L 慧慧 🦄 Dermind执行董事
+    bio: >-
+      Lifestyle | Beauty | Fitness | Food | Pet | Travel 🐶 @happy_little_pom 💋 TikTok : angel.ngggg 📩 Job enquiry > Dm | email angelngnkh@gmail.com
     location: "Malaysia"
-    followers: 125391
-    engagement: 442
-    commentsToLikes: 0.008639
+    followers: 122885
+    engagement: 384
+    commentsToLikes: 0.004700
     id: ck8sy1ay6jdxc0j78i93iv46o
     verified: false
-    hashtags: "#mugshot, #beepit, #stonedstayhomeclub, #tiktokmalaysia"
-  - username: "mr.mhym"
-    fullname: >-
-      MrPnxadxa
-    location: "Malaysia"
-    followers: 29746
-    engagement: 323
-    commentsToLikes: 0.020070
-    id: ck5q81elg40x80i113wiq62qx
-    verified: false
-    hashtags: "#takgitu, #mco, #throwbackthursday, #teamrayabanting"
-  - username: "stephyyiwen"
-    fullname: >-
-      STEPHY 郑意文
-    location: "Malaysia"
-    followers: 460435
-    engagement: 458
-    commentsToLikes: 0.003977
-    id: ck0vz393x72lz0i190xw0ysei
-    verified: false
-    hashtags: "#danielwellington, #prorenew, #4d, #alenstephy"
-  - username: "chromaticcharms"
-    fullname: >-
-      ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
-    location: "Malaysia"
-    followers: 13497
-    engagement: 563
-    commentsToLikes: 0.022868
-    id: ckap7on5wkw6e0i78h2thmxp0
-    verified: false
-    hashtags: "#lifestyle, #traveldeeper, #explore, #flattenthecurve"
-  - username: "rocyie"
-    fullname: >-
-      Rocyie Wong
-    location: "Malaysia"
-    followers: 9764
-    engagement: 777
-    commentsToLikes: 0.038654
-    id: ck0w20ekxm13b0i191tjzjpbz
-    verified: false
-    hashtags: "#annatashaphotography, #depthofv, #theconfidenceworkshop, #journeytohealing"
-  - username: "kyra_kyrana"
-    fullname: >-
-      kyra_kyrana
-    location: "Malaysia"
-    followers: 3420
-    engagement: 1300
-    commentsToLikes: 0.100546
-    id: ckap6aap5f1zr0i78mbzumra8
-    verified: false
-    hashtags: "#whenimnotinsportswear, #simplerissweeter, #asicsmy, #running"
-  - username: "foodieaparna"
-    fullname: >-
-      Aparna Joshi
-    location: "Malaysia"
-    followers: 4910
-    engagement: 2245
-    commentsToLikes: 0.562018
-    id: ck6twgr2yrwbh0j71qc8xr1bp
-    verified: false
-    hashtags: "#happymoment, #homemadefood, #gajarkahalwa, #foodofkarnataka"
-  - username: "chloe_laics"
-    fullname: >-
-      Chloe | 🌱
-    location: "Malaysia"
-    followers: 14658
-    engagement: 854
-    commentsToLikes: 0.073063
-    id: ck134m4b6x3o30i19c5r5kgc1
-    verified: false
-    hashtags: "#dessrtporn, #pancakeart, #asiandessert, #cranberries"
+    hashtags: "#shopeemy1010, #shopeemy, #shopeebrandsfestival, #lovesimpleyoung"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Greece In 2020
 description: >-
-  Find top cooking Instagram influencers in Greece in 2020. Most popular hashtags: #summer #cooking #quarantine #saturday.
+  Find top cooking Instagram influencers in Greece in 2020. Most popular hashtags: #cooking #foodporn #instafood #foodstagram.
 platform: Instagram
+hits: 83
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 83 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "argiris_aggelou_official"
-    fullname: >-
-      Argiris Aggelou Official
-    location: "Greece"
-    followers: 99079
-    engagement: 662
-    commentsToLikes: 0.008017
-    id: ck15sovvhe2ze0i193batt4h6
-    verified: false
-    hashtags: "#icantwait, #soon, #happyface, #pastryporn"
-  - username: "alexis_panagiotis"
-    fullname: >-
-      Alexis Panagiotis 🇬🇷
-    location: "Greece"
-    followers: 6319
-    engagement: 722
-    commentsToLikes: 0.020764
-    id: ck13a81msp32p0i19kparu4gv
-    verified: false
-    hashtags: "#quarantinelife, #tbt"
-  - username: "chefkostasmagoulas"
-    fullname: >-
-      Kostas Magoulas
-    location: "Greece"
-    followers: 26472
-    engagement: 94
-    commentsToLikes: 0.155752
-    id: ck55mb87e3l4l0i1111cxengz
-    verified: false
-    hashtags: ""
   - username: "alsisinanaj"
     fullname: >-
       Alsi Sinanaj
+    bio: >-
+      • Enthusiast • Easy & Delicious Meals for Everyone • TV Chef / Alsi’s Celebrity Cooking #alsisinanajfood • I'm getting back to my old roots. ⤵️
     location: "Greece"
-    followers: 26676
-    engagement: 494
-    commentsToLikes: 0.020412
+    followers: 25721
+    engagement: 317
+    commentsToLikes: 0.022011
     id: ck6uelf2armi10j715roaoxrm
     verified: false
-    hashtags: "#roots, #slowcooking, #stayhealthy, #streetfood"
+    hashtags: "#restaurant, #island, #foodporn, #alsisinanajfood"
   - username: "fofo_ntemiri"
     fullname: >-
       Fotini Ntemiri
+    bio: >-
+      Actress,love theater cinema TV,music,literature,ARTS!Love cooking,knitting!Love you all!!!!love dark chocolate too!!
     location: "Greece"
-    followers: 14424
-    engagement: 695
-    commentsToLikes: 0.013848
+    followers: 14840
+    engagement: 697
+    commentsToLikes: 0.021080
     id: ck5pzbt6j07d70i113kyyi72i
     verified: false
-    hashtags: "#comment, #kolokotronitsi, #bigbossmikie, #giwrgosgallos"
+    hashtags: "#friends, #happiness, #repost, #actress"
   - username: "terzidoudespoina_dietitian"
     fullname: >-
       Δέσποινα Τερζίδου
+    bio: >-
+      📍 Δαβάκη 36 Σκύδρα 👩🏻‍🎓Nutritionist-Dietitian 📚 A.T.E.I Thessalonikis 👩‍🍳Love healthy cooking ❤Eat like you love yourself
     location: "Greece"
     followers: 7693
     engagement: 855
     commentsToLikes: 0.017544
     id: ckaoxm55ydub50i78odtcuxly
     verified: false
-    hashtags: "#healthybreakfast, #honey, #youareunique, #summer"
-  - username: "nancyzabetoglou"
+    hashtags: "#foodie, #weightcontrol, #eathealthy, #healthyrecipe"
+  - username: "justlife.gr"
     fullname: >-
-      nancyzabetoglou
+      justlife.gr
+    bio: >-
+      Founder by @tinamel123 Owner & Content Creator Graphic designer Cook🍲 Travel 🛴 lifestyle 🍷 mum 💕 All 📸 & 📽 by me YouTube justlife.gr
     location: "Greece"
-    followers: 47167
-    engagement: 725
-    commentsToLikes: 0.065741
-    id: ck13a8aoqp4ef0i19vqyp4kjs
+    followers: 4906
+    engagement: 1111
+    commentsToLikes: 0.638078
+    id: ck6tiox5v14z30j71u8ov18hi
     verified: false
-    hashtags: "#athens, #athensbynight, #may9, #mybaby"
-  - username: "ftbletsas"
+    hashtags: "#tastevoice, #masterpiece, #welovegreece, #youtubecreators"
+  - username: "savvas__lichanidis"
     fullname: >-
-      Ευτύχης Μπλέτσας
+      Savvas Lixanidis
+    bio: >-
+      Chef 🔪 - see you all juju bar restaurant @jujubarrestaurant
     location: "Greece"
-    followers: 165045
-    engagement: 744
-    commentsToLikes: 0.021426
-    id: ck5zmitrfmnga0i14wittnlwk
-    verified: true
-    hashtags: "#womansday, #kouzinatiskarantinas, #kouzina, #travelfromhome"
-  - username: "fotinipetrogianni"
-    fullname: >-
-      Fotini Petrogiànni
-    location: "Greece"
-    followers: 51508
-    engagement: 564
-    commentsToLikes: 0.045403
-    id: ck5pveu2thj970i11evew32nb
+    followers: 42225
+    engagement: 472
+    commentsToLikes: 0.014094
+    id: ck5q4upylqbml0i11anrn069q
     verified: false
-    hashtags: "#memories, #hydration, #life, #summer2019"
-  - username: "official_mariospriamos"
+    hashtags: "#cooking, #lovecooking, #cheflife, #comingsoon"
+  - username: "argirobarbarigou"
     fullname: >-
-      Marios  Priamos
+      Argiro Barbarigou
+    bio: >-
+      🔪 Greek Chef • TV Host • Cookbook Author 🍳argiro.gr 🍽 @PapadakisRestaurant 🧿Δες περισσότερα εδώ 👇
     location: "Greece"
-    followers: 172680
-    engagement: 287
-    commentsToLikes: 0.060467
-    id: ck5zmdv5ume2m0i14oi5nqogx
+    followers: 500381
+    engagement: 159
+    commentsToLikes: 0.066671
+    id: ck5pvfdqahm110i11229pair7
     verified: true
-    hashtags: "#photooftheday, #travel, #shooting, #myepic"
+    hashtags: "#food, #recipeoftheday, #breakfasttime, #argirobarbarigou"
+  - username: "giorgos_tsoulis"
+    fullname: >-
+      Giorgos Tsoulis
+    bio: >-
+      Made in 🇬🇷 📺 @alphatv Τρίτη & Παρασκευή @popup_iliana 🎥 Youtube: GiorgosTsoulis 👉🏻 #ΜηΜασάς 🍳Βρείτε όλες τις συνταγές μου εδώ:
+    location: "Greece"
+    followers: 179568
+    engagement: 175
+    commentsToLikes: 0.024946
+    id: ck0ttwpvu4n6c0i19id78h7xe
+    verified: false
+    hashtags: "#eeeeeats, #forkyeah, #huffposttaste, #mimasas"
+  - username: "dimitris_konidaris"
+    fullname: >-
+      Dimitris konidaris
+    bio: >-
+      Head pastry Chef at @sovolosofficial Athens Greece🇬🇷
+    location: "Greece"
+    followers: 32720
+    engagement: 352
+    commentsToLikes: 0.022366
+    id: ck0w0bc9mdcb00i19yp40m6f4
+    verified: false
+    hashtags: "#pastrychef, #picoftheday, #chocolatelover, #amazing"
+  - username: "barkas_christos"
+    fullname: >-
+      Christos Barkas
+    bio: >-
+      YouTube channel Gastronomictraveler
+    location: "Greece"
+    followers: 55411
+    engagement: 307
+    commentsToLikes: 0.018586
+    id: ck5btda0rfr890i11lnpoqjbr
+    verified: true
+    hashtags: "#chicken, #yammy, #farms, #chickenrecipes"
+  - username: "lefteris.soultatos"
+    fullname: >-
+      Eleftherios Soultatos
+    bio: >-
+      👨‍🍳
+    location: "Greece"
+    followers: 60157
+    engagement: 1260
+    commentsToLikes: 0.007579
+    id: ck0tuwykt91lo0i19tv0f52m5
+    verified: false
+    hashtags: "#instafood, #greekfood, #foodgram, #cheflife"
 ---

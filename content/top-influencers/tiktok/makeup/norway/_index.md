@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Norway In 2020
 description: >-
-  Find top makeup TikTok influencers in Norway in 2020. Most popular hashtags: #challenge #makeup #norway #tiktok.
+  Find top makeup TikTok influencers in Norway in 2020. Most popular hashtags: #makeup #foryou #fyp #foryoupage.
 platform: TikTok
+hits: 28
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 28 TikTok influencers like this in Norway for you to work with.
 profiles:
-  - username: "idaekker"
+  - username: "queenidz"
     fullname: >-
       Ida Ekker
+    bio: >-
+      Follow my makeup page on Instagram! Link👆🏻✨💄
     location: "Norway"
-    followers: 42023
-    engagement: 1170
-    commentsToLikes: 0.037652
+    followers: 43500
+    engagement: 1045
+    commentsToLikes: 0.019377
     id: ck81sbf3nrg2t0j78d094b618
     verified: false
-    hashtags: "#makeuptutorial, #chihuahua, #brows, #aliveahaha"
+    hashtags: "#behindthescenes, #foryoupage, #halloweenmakeup, #looklikeart"
   - username: "renzate"
     fullname: >-
       renate
+    bio: >-
+      I do makeup 🥰 Instagram @renzate
     location: "Norway"
-    followers: 3148
-    engagement: 953
-    commentsToLikes: 0.020777
+    followers: 3574
+    engagement: 807
+    commentsToLikes: 0.017624
     id: ck8ae956laxv90j783kmavi4p
     verified: false
-    hashtags: "#challenge, #mom, #makemefamous, #mirrorchallenge"
+    hashtags: "#makeup, #beauty, #fyp, #foryoupage"
   - username: "sarinanexie"
     fullname: >-
       Sarina Nexie
+    bio: >-
+      I usually hang out on IG, but TikTok is so much more fun
     location: "Norway"
-    followers: 70488
-    engagement: 1872
-    commentsToLikes: 0.037498
+    followers: 77600
+    engagement: 1826
+    commentsToLikes: 0.035516
     id: ck8nk9ffje5u80j78k3n5tgcp
     verified: false
-    hashtags: "#gemini, #passthebrush, #transformation, #zodiacmakeup"
-  - username: "facebymalin"
+    hashtags: "#makeup, #foru, #transformation, #fyp"
+  - username: "rebecka199"
     fullname: >-
-      facebymalin
+      Rebecka199 {24k}
+    bio: >-
+      17 y/o🇳🇴
     location: "Norway"
-    followers: 5813
-    engagement: 857
-    commentsToLikes: 0.036292
-    id: ck9epn7tdtbzx0j78v1kj69ap
+    followers: 24100
+    engagement: 844
+    commentsToLikes: 0.031534
+    id: ck83zamqbz6kb0j78rfujyt05
     verified: false
-    hashtags: "#skincare, #beautymode, #cursedtiktoks, #tiktok"
-  - username: "anthonyddiaz"
+    hashtags: "#letslove, #duetting, #norway, #texttalk"
+  - username: "mimidevine1"
     fullname: >-
-      Anthony Diaz 
+      user534861943249
+    bio: >-
+      For fun and creativity❤️🇳🇴🏳️‍🌈 Instagram: It’smimidevine💋
     location: "Norway"
-    followers: 10548
-    engagement: 769
-    commentsToLikes: 0.031483
-    id: ckai74853yshu0i78ycrvki4g
+    followers: 64800
+    engagement: 1094
+    commentsToLikes: 0.033071
+    id: ckcdecc1q61p20j23tzincmo6
     verified: false
-    hashtags: "#macstore, #onstage, #congolese, #publicdance"
-  - username: "hokolpus"
+    hashtags: "#tiktoknorge, #norge, #norgestiktok, #4u"
+  - username: "jeheteida"
     fullname: >-
-      Sarah
+      Je hete Ida
+    bio: >-
+      Hey there!✨ Follow my Instagram: @idaglotheim Contact: Ida.rambraut@gmail.com
     location: "Norway"
-    followers: 2212
-    engagement: 392
-    commentsToLikes: 0.078365
-    id: cka6b721xz8eq0i78k881asyc
+    followers: 58100
+    engagement: 1514
+    commentsToLikes: 0.017227
+    id: ckd62zifr1yeb0j23o6rdpl56
     verified: false
-    hashtags: "#foryou, #braindisease, #tiktokmum, #idareyou"
-  - username: "chaserize"
+    hashtags: "#4up, #foryoupage, #makeup, #4upage"
+  - username: "leahhhbeauty"
     fullname: >-
-      Chaserize
+      🦋LEAH🦋
+    bio: >-
+      Leah🤍 05 A Good outfit = a good Day! 🤍😌✨
     location: "Norway"
-    followers: 3833
-    engagement: 1483
-    commentsToLikes: 0.020288
-    id: cka0qs4tsduvl0i78n4cbiu71
+    followers: 9760
+    engagement: 958
+    commentsToLikes: 0.017876
+    id: ckd6ywjnexbaa0j23zstxv252
     verified: false
-    hashtags: "#transformation, #bratzchallenge, #norway, #badchoices"
-  - username: "mariam.morjan"
+    hashtags: "#foryoupage, #makeup, #halloween, #norway"
+  - username: "vikkzy"
     fullname: >-
-      Mariam Morjan
+      Vikkzy
+    bio: >-
+      SC; Vikkijosdal Ig; @vikkzy ^ Kristiansand/sirdal 🇳🇴🇺🇸 I read all comments
     location: "Norway"
-    followers: 16870
-    engagement: 1502
-    commentsToLikes: 0.030772
-    id: ckafu294l8bw10i784sd4ctj5
+    followers: 77000
+    engagement: 1061
+    commentsToLikes: 0.015850
+    id: ck92y9gsn221x0j788oo25hyp
     verified: false
-    hashtags: "#muslimmom, #arabparents, #food, #hacks"
-  - username: "tsutsumihoang"
+    hashtags: "#fry, #halloween, #foryou, #foryoupage"
+  - username: "mayamonaa"
     fullname: >-
-      Tsutsumi Hoang
+      Maya Mona
+    bio: >-
+      instagram: mayamonaa oslo, norway
     location: "Norway"
-    followers: 25782
-    engagement: 506
-    commentsToLikes: 0.019541
-    id: cka6malor6iz50i7825802yvm
-    verified: false
-    hashtags: "#hairtutorial, #alicemccall, #beautytips, #chubbycheekscheck"
-  - username: "nubbsofchubb"
+    followers: 15500
+    engagement: 737
+    commentsToLikes: 0.024627
+    id: ckdckyaghn1be0j23hve4g62i
+    verified: true
+    hashtags: "#makeupoftheday, #makeup, #norway, #style"
+  - username: "2brooos"
     fullname: >-
-      Chubbnubb
+      John-henning & Chris
+    bio: >-
+      Klarer vi 15 000 følgere? 🙏🏼😍 Sjekk ut spotify min, Trykk på linken👇🏼
     location: "Norway"
-    followers: 2476
-    engagement: 405
-    commentsToLikes: 0.064451
-    id: ck9fm3e0qr4um0j78qn5jkl68
+    followers: 14500
+    engagement: 917
+    commentsToLikes: 0.088701
+    id: cka5zn4ytnhiu0i784jd099ft
     verified: false
-    hashtags: "#picnic, #steaklove, #yoga, #riyaz"
+    hashtags: "#2brooos, #tiktoknorway, #halloweenmakeup, #duet"
 ---

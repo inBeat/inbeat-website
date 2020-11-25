@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top Instagram influencers in Birmingham in 2020. Most popular hashtags: #selflove #legday #nogymnoproblem #creativemakeup.
+  Find top Instagram influencers in Birmingham in 2020. Most popular hashtags: #gifted #fitness #gymshark.
 platform: Instagram
+hits: 329
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 329 Instagram influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
-  - username: "hollyxfoster"
+  - username: "super___freak"
     fullname: >-
-      H O L L Y F O S T E R
+      Super Freak!
+    bio: >-
+      Birmingham
     location: "United Kingdom"
-    followers: 10772
-    engagement: 1247
-    commentsToLikes: 0.029573
-    id: ck6tijv4q0urm0j71k6q6gc7y
+    followers: 61438
+    engagement: 438
+    commentsToLikes: 0.017945
+    id: ck5ckqa91xecm0i114zbuqpyx
     verified: false
-    hashtags: "#quarantinebutcute"
-  - username: "dapzonthemap"
+    hashtags: "#superspanky"
+  - username: "munchterrdoll"
     fullname: >-
-      Dapz On The Map
+      𝑨𝒏𝒈𝒆𝒍𝒊𝒏𝒆 𝑽𝒊𝒍𝒍𝒂𝒆𝒔𝒕𝒊𝒗𝒂
+    bio: >-
+      Birmingham UK ⋄ 🇵🇭 𝐦𝐠𝐦𝐭: @aksinfluencermgmt 📩 email for any enquiries
     location: "United Kingdom"
-    followers: 22903
-    engagement: 458
-    commentsToLikes: 0.070517
-    id: ck6ty7hiq23ex0j71uohwdt9p
+    followers: 4928
+    engagement: 1956
+    commentsToLikes: 0.168771
+    id: ck5c74vuj6tg00i11z9vktwsc
+    verified: false
+    hashtags: "#boohoo, #missygirl, #lullababes, #gifted"
+  - username: "samuelbromwich"
+    fullname: >-
+      Samuel Stephen Bromwich
+    bio: >-
+      Law grad and model... Currently living in Birmingham & Beddgelert 🏡🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿
+    location: "United Kingdom"
+    followers: 6365
+    engagement: 2189
+    commentsToLikes: 0.074327
+    id: ckf5n5oafwuw50j23agau4hco
+    verified: false
+    hashtags: "#weekendgardenparty, #throwback, #ad"
+  - username: "makeuppbycharlie"
+    fullname: >-
+      ♡𝓬𝓱𝓪𝓻𝓵𝓲𝓮♡
+    bio: >-
+      self taught makeup artist💗 𝑒𝓂𝒶𝒾𝓁 𝑜𝓇 𝒹𝓂 𝒻𝑜𝓇 𝒸𝑜𝓁𝓁𝒶𝒷𝑜𝓇𝒶𝓉𝒾𝑜𝓃𝓈♡ birmingham, uk🤍 shop now @blissbeautyuk ♡
+    location: "United Kingdom"
+    followers: 5185
+    engagement: 1453
+    commentsToLikes: 0.191840
+    id: ckap8u5bbpwgs0i78vstoe2t1
+    verified: false
+    hashtags: "#prsearch, #morphebabe, #makeupartist, #brows"
+  - username: "ivisanchez23"
+    fullname: >-
+      Ivan Sanchez Aguayo
+    bio: >-
+      ⚽️Jugador del @bcfc 📍 Birmingham
+    location: "United Kingdom"
+    followers: 10093
+    engagement: 1445
+    commentsToLikes: 0.057758
+    id: ck13aaecrpf3v0i199u6ggjac
     verified: true
-    hashtags: "#dsaw"
-  - username: "juannafitness"
-    fullname: >-
-      JUANNA 🤍
-    location: "United Kingdom"
-    followers: 3773
-    engagement: 2370
-    commentsToLikes: 0.269731
-    id: ckap0okftr6tw0i78m4w9nmto
-    verified: false
-    hashtags: "#doyou, #mentalhealth, #health, #kitten"
-  - username: "samiya.styles"
-    fullname: >-
-      • S A M I Y A •
-    location: "United Kingdom"
-    followers: 15810
-    engagement: 770
-    commentsToLikes: 0.140428
-    id: ck6u2tdzmttul0j71ee09xysh
-    verified: false
-    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
-  - username: "nxvelouise"
-    fullname: >-
-      N e v e y ♡
-    location: "United Kingdom"
-    followers: 9876
-    engagement: 1088
-    commentsToLikes: 0.226005
-    id: ck9hbsqxeia6e0j78tsjyzpp3
-    verified: false
-    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
+    hashtags: "#100, #muchoelche, #futbol, #playoff"
   - username: "benfrancis"
     fullname: >-
       Ben Francis
+    bio: >-
+      Gymshark Owner Birmingham 🇬🇧 NEW YT VIDEO CLICK HERE 👇🏼
     location: "United Kingdom"
-    followers: 203021
-    engagement: 762
-    commentsToLikes: 0.023614
+    followers: 268960
+    engagement: 947
+    commentsToLikes: 0.021579
     id: ck0u2d0ufzhbp0i19gpvfuqkc
     verified: true
     hashtags: "#nhssweatyselfie"
-  - username: "makeuppbycharlie"
+  - username: "juannafitness.2"
     fullname: >-
-      ✨🌈charlie✨🌈
+      Juju 🤍
+    bio: >-
+      📚Student 📍Birmingham ✨nothing fancy
     location: "United Kingdom"
-    followers: 4390
-    engagement: 1725
-    commentsToLikes: 0.201935
-    id: ckap8u5bbpwgs0i78vstoe2t1
+    followers: 5712
+    engagement: 1691
+    commentsToLikes: 0.125138
+    id: ckap0okftr6tw0i78m4w9nmto
     verified: false
-    hashtags: "#boots, #makeupjunkie, #featuremuas, #contouring"
-  - username: "mmaddiehill"
+    hashtags: "#fit, #fitspo, #workoutroutine, #lifting"
+  - username: "fred_goudie"
     fullname: >-
-      𝓜𝓪𝓭𝓲𝓼𝓸𝓷
+      Fred Goudie
+    bio: >-
+      London//University of Birmingham • 21yrs//6ft3//History Student • Business: fredgoudie18@gmail.com - ONLINE COACHING/FREE DIET PLANS in link below -
     location: "United Kingdom"
-    followers: 6185
-    engagement: 1682
-    commentsToLikes: 0.036512
-    id: ck9ha30t5axe90j78uq1a9goz
+    followers: 28942
+    engagement: 796
+    commentsToLikes: 0.031476
+    id: ck9we44fjihuz0j7877sfy89m
     verified: false
-    hashtags: "#thankyouheroes"
-  - username: "meandlucas"
+    hashtags: "#lifestyle, #gains, #explorepage, #backsession"
+  - username: "tashadamsx"
     fullname: >-
-      samira | family life & travel
+      Tash Adams 🌸
+    bio: >-
+      ◽️23 | Birmingham | UK ◽️For collabs email tash.adams@hotmail.com💓 ◽️ @my.influencers
     location: "United Kingdom"
-    followers: 5107
-    engagement: 957
-    commentsToLikes: 0.158977
-    id: ckaoromawo4vn0i78wuvjk66k
+    followers: 22216
+    engagement: 477
+    commentsToLikes: 0.089499
+    id: ck0u640uh106v0i1984sapuos
     verified: false
-    hashtags: "#thankyou, #nhs, #traumaticbraininjury, #giveaway"
-  - username: "anniexsangharartistry"
+    hashtags: "#gifted, #ad, #scoutmeindustry, #elizalondon"
+  - username: "nxvelouise"
     fullname: >-
-      🦋 annie 🧿
+      ɴ ᴇ ᴠ ᴇ ʏ ♡
+    bio: >-
+      ☁️ 19 Birmingham 🤍 Fitness, Life & Health 🖇 @nxvelouise.2 ↴ My YouTube Channel
     location: "United Kingdom"
-    followers: 11553
-    engagement: 785
-    commentsToLikes: 0.106315
-    id: ck0tz1gfzos4d0i192guso8m9
+    followers: 12275
+    engagement: 728
+    commentsToLikes: 0.112563
+    id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#fluffybrows, #makeuppictorial, #eyeshadowtutorial, #blazin"
+    hashtags: "#gsfamily, #fashion, #gymsharkwomen, #gifted"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top fitness Instagram influencers in San Antonio in 2020. Most popular hashtags: #fitness #satx #photoshoot #sanantonio.
+  Find top fitness Instagram influencers in San Antonio in 2020. Most popular hashtags: #fitness #sanantonio #texas #satx.
 platform: Instagram
+hits: 31
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 31 Instagram influencers like this in San Antonio, United States for you to pitch.
 profiles:
+  - username: "alayahbenavidez"
+    fullname: >-
+      Alayah Benavidez
+    bio: >-
+      Former Miss Texas USA Bachelor 24🌹 Boutique owner @three_bees_boutique For inquiries tap ‘Email’💌 ⬇️
+    location: "United States"
+    followers: 130297
+    engagement: 394
+    commentsToLikes: 0.023588
+    id: ck5hscs6twdq40i11itio1srx
+    verified: false
+    hashtags: "#boostyourroots, #fall, #bondiboost, #carbonthompsoncommunities"
+  - username: "sheila_sue"
+    fullname: >-
+      Sheila Barden
+    bio: >-
+      Scapbook — #OneShot - 👟👞 — Code: ONESHOT 💰🔫💪🏽 @nutrabio
+    location: "United States"
+    followers: 132168
+    engagement: 164
+    commentsToLikes: 0.014200
+    id: ck6tnf6o29pui0j71walt7ptc
+    verified: false
+    hashtags: "#adventures, #essex, #oneshot, #warriorprincess"
+  - username: "palmvisuals"
+    fullname: >-
+      A Cinematic Film Co.
+    bio: >-
+      ▪️Digital Marketing 💻 ▪️Cinematic Wedding Films 💍 ▪️Luxury Real Estate Tours + Branding 🎥 ▪️Award Winning Videography Team 🏆
+    location: "United States"
+    followers: 6667
+    engagement: 708
+    commentsToLikes: 0.025605
+    id: ck5zvnkh34kna0i14d7njvut6
+    verified: false
+    hashtags: "#luxurycars, #house, #entrepreneur, #architecture"
   - username: "amandajlin23"
     fullname: >-
-      Amanda Lin🦋
+      Amanda 林
+    bio: >-
+      • 🇨🇳🇺🇸 • RGV, Texas📍 • Fitness 🏋🏼‍♀️| Cars 🚘 • DM for shoots/collabs 📸 • UTRGV {BBA ‘19 ~ MBA ‘21}👩🏻‍💻
     location: "United States"
-    followers: 10165
-    engagement: 739
-    commentsToLikes: 0.042578
+    followers: 11477
+    engagement: 783
+    commentsToLikes: 0.038962
     id: ckaoui4sh0dgu0i78mlchovqi
     verified: false
-    hashtags: "#fashionnova, #lockdown, #quarantena, #blue"
-  - username: "nickwspalding"
+    hashtags: "#chinese, #ootdpost, #rgv, #texasmodels"
+  - username: "dgafpanda"
     fullname: >-
-      Nick Spalding
+      Alex Lee Charles
+    bio: >-
+      🔹 San Antonio, TX 🤠 🔹 Freelance #MUA 💄 🔹 468k+ Views on Youtube 🎥
     location: "United States"
-    followers: 14421
-    engagement: 751
-    commentsToLikes: 0.015285
-    id: ck15r7wt86l8t0i1922mdwsbw
+    followers: 20104
+    engagement: 713
+    commentsToLikes: 0.016792
+    id: ck6toys5tguxm0j71s4gc4hbv
     verified: false
-    hashtags: "#nyc, #fitness, #california, #mensfashion"
-  - username: "_maddiemason_cosplay"
+    hashtags: "#blogger, #beautiful, #followme, #style"
+  - username: "abeeveryday"
     fullname: >-
-      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
+      Abraham | Donut Connoisseur
+    bio: >-
+      🍩 Donuts 📍San Antonio, TX 💥 @hcfitness.texas 🎥 YouTube: Abe’s Eats
     location: "United States"
-    followers: 16311
-    engagement: 570
-    commentsToLikes: 0.051753
-    id: ck6ui5ku0d76g0j71ea21muiy
+    followers: 7136
+    engagement: 644
+    commentsToLikes: 0.146045
+    id: ck5pzsgf82iyd0i11bt9qj55g
     verified: false
-    hashtags: "#japanesefashion, #promdress, #bodypainting, #fitnessmom"
+    hashtags: "#quads, #fitfam, #progress, #fitnessmotivation"
+  - username: "shutter.studios.david"
+    fullname: >-
+      Shutter Studios
+    bio: >-
+      Automotive-Portrait-Lifestyle :📸-@slammedenuff :📸-@pasmag 📍San Antonio, TX based
+    location: "United States"
+    followers: 8224
+    engagement: 247
+    commentsToLikes: 0.066400
+    id: ck6u2utt3u1nj0j71az7rru09
+    verified: false
+    hashtags: "#hrewheels, #jdmgram, #rays, #stancewars"
+  - username: "tjthethinkingman"
+    fullname: >-
+      TeeJay aka Charlie Johnson
+    bio: >-
+      As a man thinketh in his heart,so is he! Owner/Head Trainer @kingdommartialartsacademy 🤴🏾🏰🔑 San Antonio Texas Thedojo.com MT Training Section👇🏾🔥👇🏾🔥👇🏾
+    location: "United States"
+    followers: 26390
+    engagement: 274
+    commentsToLikes: 0.039868
+    id: ck55p3pup9qp70i11cdouiuml
+    verified: false
+    hashtags: "#sanantonio, #picoftheday, #videooftheday, #king"
   - username: "myriahlynn_"
     fullname: >-
       Myriah
+    bio: >-
+      Lifestyle | Fitness | Gratitude Wifey💍 You become what you believe, so believe in yourself. @rocksdiscount ambassador @hcfitness_llc 💪🏼 SATX📍
     location: "United States"
-    followers: 3162
-    engagement: 1246
-    commentsToLikes: 0.065855
+    followers: 4701
+    engagement: 875
+    commentsToLikes: 0.116830
     id: ck5pzshir2j510i118rk555b7
     verified: false
-    hashtags: "#spraytan, #coronawho, #birthdaygirl, #workmodeon"
-  - username: "misssanantonious2020"
+    hashtags: "#fitnessmotivation, #lifestyle, #safitness, #satx"
+  - username: "courtneybisig"
     fullname: >-
-      Miss Guyana 2020 👑
+      COURTNEY BISIG
+    bio: >-
+      •Texas Licensed REALTOR®📍#Sanantonio •Certified #Personaltrainer #Wife | #Mom | #Realtor 🏡 @courtsrealty 🏋️ @rocksdiscount Athlete 💘 @cambtraining
     location: "United States"
-    followers: 6046
-    engagement: 579
-    commentsToLikes: 0.070729
-    id: ck6u4j0sy3ztk0j710is8q2s2
+    followers: 122841
+    engagement: 145
+    commentsToLikes: 0.029558
+    id: ck5cfe05imrlv0i11455mjvja
     verified: false
-    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
-  - username: "mo_z1lla"
-    fullname: >-
-      MAURICE
-    location: "United States"
-    followers: 9714
-    engagement: 311
-    commentsToLikes: 0.197794
-    id: ck8tc0kqsxuma0j7822o7f5fp
-    verified: false
-    hashtags: "#wweuniverse, #workouts, #whiteteeth, #savemoney"
-  - username: "isabella_radovan"
-    fullname: >-
-      Isabella Radovan
-    location: "United States"
-    followers: 6965
-    engagement: 1008
-    commentsToLikes: 0.121445
-    id: ck5zsbcf2y6el0i143za2i7a8
-    verified: false
-    hashtags: "#denim, #chihaircare, #bags, #friends"
-  - username: "texas__abby"
-    fullname: >-
-      Abigail
-    location: "United States"
-    followers: 10874
-    engagement: 1314
-    commentsToLikes: 0.055083
-    id: ck8wfyn27ggrt0j78d479r7ag
-    verified: false
-    hashtags: "#texasliving, #missingthegym, #friday, #fakepeople"
-  - username: "chasitymorales_"
-    fullname: >-
-      Chasity Morales
-    location: "United States"
-    followers: 28778
-    engagement: 331
-    commentsToLikes: 0.039356
-    id: ck6tnmnwma5e00j71fcd9iug8
-    verified: false
-    hashtags: "#f45banderapointe, #morethanjustagym, #funtionaltraining, #sanantoniofitness"
-  - username: "elchin_ahmadov_"
-    fullname: >-
-      Elchin Ahmadov
-    location: "United States"
-    followers: 50084
-    engagement: 161
-    commentsToLikes: 0.032906
-    id: ck8t66m6ycfbt0j78bymtg65x
-    verified: false
-    hashtags: "#knockout, #iam1stphorm, #pushupchallenge, #vloglife"
+    hashtags: "#sanantonio, #fitmom, #momlife, #texas"
 ---

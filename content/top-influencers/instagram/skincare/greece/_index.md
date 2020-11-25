@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Greece In 2020
 description: >-
-  Find top skincare Instagram influencers in Greece in 2020. Most popular hashtags: #skincare #mood #staysafe #stayhome.
+  Find top skincare Instagram influencers in Greece in 2020. Most popular hashtags: #skincare #giveaway #giveawaygreece #makeup.
 platform: Instagram
+hits: 75
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 75 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "lilouko3"
+    fullname: >-
+      lilouko
+    bio: >-
+      YouTube video creator📽️ Content creator📼 Make up /skincare reviewer, everyday life Contact Email💌: lilouko3@gmail.com 👇Μy YouTube channel
+    location: "Greece"
+    followers: 9005
+    engagement: 884
+    commentsToLikes: 1.075656
+    id: ck5znq8u0oyht0i147ctn64mk
+    verified: false
+    hashtags: "#youtuber, #greekinstagrammer, #palettegiveaway, #greekyoutuber"
   - username: "niki_gloss"
     fullname: >-
-      👑🎀💎🇬🇷💋
+      💎 Νίκη Gloss 💄
+    bio: >-
+      Ιn♥with makeup💄skincare🧖&my boyfriend👫 Νέο ποστ κάθε: Δευτέρα #νιουδευτερα ⚡ Πέμπτη #Πempties 🗑 Κυριακή #μπωτετηνκυριακη 🥰 #ξεκουτινγκ 🎁
     location: "Greece"
-    followers: 4723
-    engagement: 1930
-    commentsToLikes: 1.257985
+    followers: 7335
+    engagement: 1006
+    commentsToLikes: 0.726917
     id: ckap50dxc9miw0i78yc6o8gk5
     verified: false
-    hashtags: "#hoopsearrings, #lace, #pamperyourself, #metime"
+    hashtags: "#moisturizing, #hydration, #facemask, #selfie"
   - username: "funkymama.gr"
     fullname: >-
       • S O T I R I A •
+    bio: >-
+      •Motherhood & Science 🧪 •Pharmacovigilance Officer💊 •PhD Chemical Engineer📚 •Owner of 🌱natural skincare @esselia.gr •Athens 📍 •Blog👇🏻
     location: "Greece"
-    followers: 9831
-    engagement: 778
-    commentsToLikes: 0.822088
+    followers: 13322
+    engagement: 817
+    commentsToLikes: 0.306299
     id: ck5znqa0goylk0i14gjxswter
     verified: false
-    hashtags: "#ikarosbooks, #benjidavies, #spring2020, #greekmomblogger"
+    hashtags: "#kidsactivities, #tziampiris, #cameramama, #aboshop"
+  - username: "berenata"
+    fullname: >-
+      Natasha Berekou
+    bio: >-
+      👉🏽Beauty editor @tlifegr 🖤 👉🏽Skincare addict 💪🏽 👉🏽Take care of your body’s largest organ 🧖🏼‍♀️ 👉🏽 Team Batiste member 🌎 👉🏽 #Vanity episodes 👇🏽
+    location: "Greece"
+    followers: 25927
+    engagement: 464
+    commentsToLikes: 0.183352
+    id: ck0vzvnr6b4de0i197xfwbkzb
+    verified: false
+    hashtags: "#skincare, #beautyroom, #mood, #home"
   - username: "chrisa_klironomou"
     fullname: >-
       Chrisa Klironomou
+    bio: >-
+      #LaMerExpert / Skincare Artist Estée Lauder Companies 📍Hondos Center Ermou, Athens • Mom of 2 💎💎 • Wife of a crazy guy 😜 • Chocolate maniac 🤭
     location: "Greece"
-    followers: 2516
-    engagement: 1296
-    commentsToLikes: 0.096051
+    followers: 2814
+    engagement: 1235
+    commentsToLikes: 0.086078
     id: ck9we5cquio0r0j784w32vv7v
     verified: false
-    hashtags: "#repost, #wheninquarantine, #staysafe, #loverome"
-  - username: "marina_grigoriou_"
+    hashtags: "#lovelamer, #lamerexpert, #selfcarewithlamer, #staypositive"
+  - username: "_bella_mary"
     fullname: >-
-      1st RunnerUp MISS HELLAS 2018👑
+      𝑩𝒆𝒍𝒍𝒂𝑴𝒂𝒓𝒚 🌺Athens
+    bio: >-
+      💄Beauty|Lifestyle|Makeup|SkinCare 📌Tips+Review 📧ampapadak@gmail.com 🔻MY NEW YOUTUBE VIDEO🔻
     location: "Greece"
-    followers: 70677
-    engagement: 1509
-    commentsToLikes: 0.063604
-    id: ck5chpx39r8mk0i11a0nhx6ln
-    verified: true
-    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
-  - username: "maria_ki_"
-    fullname: >-
-      Maria Kiourtsidou
-    location: "Greece"
-    followers: 16872
-    engagement: 730
-    commentsToLikes: 0.575336
-    id: ck5znqpuhoza20i14z5p36rsl
+    followers: 10524
+    engagement: 557
+    commentsToLikes: 0.473207
+    id: ckap4zf0b9hzd0i78kgfz6a8e
     verified: false
-    hashtags: "#glowingskin, #redlipstick, #hairgoals, #ofsimplethings"
-  - username: "sevastiana_k"
+    hashtags: "#bookstagram, #gift, #makeupartist, #instablogger"
+  - username: "zoevla"
     fullname: >-
-      Sevi_sk
+      Zoè Vlachou🦋
+    bio: >-
+      •|Digital Marketing & Social Media •|Political Science •|my everyday life in pixels 📍: Skg , GR
     location: "Greece"
-    followers: 30241
-    engagement: 476
-    commentsToLikes: 0.067631
-    id: ck8swmvhvekim0j78an15cwgh
+    followers: 23992
+    engagement: 680
+    commentsToLikes: 0.327495
+    id: ck55p8qk6a1ti0i11gs97f86b
     verified: false
-    hashtags: "#sumset, #beautifulgreece, #smile, #roses"
-  - username: "giogiota"
+    hashtags: "#ad, #loveyourskin, #donjuliotequila, #enjoyresponsibly"
+  - username: "zoevassileiou"
     fullname: >-
-      Gio Dreveli Giannou - PRO MUA💄
+      Zoi Vasileiou
+    bio: >-
+      Mechanical & Environmental Engineer 🛠⚙ Passionate about travels ✈️
     location: "Greece"
-    followers: 124580
-    engagement: 1436
-    commentsToLikes: 0.053794
-    id: ck13a5wlnorq30i19387c1an3
+    followers: 134421
+    engagement: 276
+    commentsToLikes: 1.396963
+    id: ck8tdo1is442u0j788sk3slkp
     verified: false
-    hashtags: "#meltcosmetics, #atticabeauty, #niveagreece, #wyconcosmetics"
-  - username: "melina_dal"
+    hashtags: "#fashionista, #giveaway, #skincare, #skincareproducts"
+  - username: "viktwria_"
     fullname: >-
-      ℳℰℒℐℕᎯ ⅅᎯℒⅅᎯ.   18/6 ♊️
+      Viktoria K. Vasilopoulou
+    bio: >-
+      One light beer and one dark beer with raspberry syrup 🦋 Content creator ✨ PR/Collab Friendly 📍Athens, Greece / Wroclaw 🇵🇱
     location: "Greece"
-    followers: 97028
-    engagement: 706
-    commentsToLikes: 1.233414
-    id: ck6u8jw2ss0k20j71qrr67hr1
+    followers: 15737
+    engagement: 921
+    commentsToLikes: 0.325312
+    id: ck5znqkswoz3a0i14zs7yctjo
     verified: false
-    hashtags: "#totalblack, #coffeedaily, #morningvibes, #skincareroutine"
-  - username: "dimitraeudaimon"
+    hashtags: "#cleanbeauty, #greekblogger, #fashionblog, #summeroutfit"
+  - username: "alexiazaradouka"
     fullname: >-
-      ❥ Δημητρα
+      Alexia Zaradouka
+    bio: >-
+      ▪️Editor/Founder www.bodyandsoul.gr ▪️Video Creator & Podcaster ▪️Beauty, Wellness & Holistic Editor/Blogger
     location: "Greece"
-    followers: 55103
-    engagement: 768
-    commentsToLikes: 0.469648
-    id: ckap2l72ezbl90i78ojhhw15z
+    followers: 36289
+    engagement: 562
+    commentsToLikes: 0.573258
+    id: ck0twck3jew3t0i19hp4vee2e
     verified: false
-    hashtags: "#beautiful, #inspiration, #athletics, #quarantine"
-  - username: "izambellachr_makeup"
-    fullname: >-
-      Izambella Christodoulou 🧿
-    location: "Greece"
-    followers: 68324
-    engagement: 534
-    commentsToLikes: 0.036544
-    id: ck5c666bm4szy0i11gj2k9eke
-    verified: false
-    hashtags: "#makeuptutorial, #outfitchange, #mood, #outfitodtheday"
+    hashtags: "#style, #beautiful, #model, #fashion"
 ---

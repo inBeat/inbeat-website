@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In India In 2020
 description: >-
-  Find top mothers Instagram influencers in India in 2020. Most popular hashtags: #mumbai #stayhome #eidmubarak #insta.
+  Find top mothers Instagram influencers in India in 2020. Most popular hashtags: #love #happy #beautiful #indianmomblogger.
 platform: Instagram
+hits: 1549
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 1549 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "yogafter40"
-    fullname: >-
-      Paola Pietri
-    location: "India"
-    followers: 46283
-    engagement: 650
-    commentsToLikes: 0.054492
-    id: ck8wgib4ihf8p0j78ayi94ilq
-    verified: false
-    hashtags: "#yogavibe, #splitvariation, #handstandlovers, #stretching"
   - username: "zeus.arya"
     fullname: >-
-      Dancer || A living meme™
+      A living meme™
+    bio: >-
+      Jack of all trades🤪 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 YouTube↓
     location: "India"
-    followers: 2765
-    engagement: 2997
-    commentsToLikes: 0.070955
+    followers: 3246
+    engagement: 2673
+    commentsToLikes: 0.094975
     id: ck5hibemjcmsn0i110x8vkg0a
     verified: false
-    hashtags: "#immabeastdancer, #sing, #redbullindia, #mattsteffanina"
-  - username: "vibekeklemetsen"
-    fullname: >-
-      Vibeke Klemetsen
-    location: "India"
-    followers: 37967
-    engagement: 275
-    commentsToLikes: 0.102914
-    id: ck0vxex6eykap0i19j3qdkous
-    verified: true
-    hashtags: "#zendium, #healthymouthhealthybody, #auberginelasagne, #internationalwomensday"
-  - username: "ips_pallavi_jadhav"
-    fullname: >-
-      ips_pallavi_jadhav
-    location: "India"
-    followers: 12620
-    engagement: 1087
-    commentsToLikes: 0.054487
-    id: ckaowdcju8fk80i78y2uy50z2
-    verified: false
-    hashtags: "#crush, #shivajimaharaj, #insta, #chalahawayeudya"
-  - username: "royalty_24kt"
-    fullname: >-
-      Royalty
-    location: "India"
-    followers: 2073345
-    engagement: 476
-    commentsToLikes: 0.017202
-    id: ck55mqgri4iwh0i115my48omb
-    verified: false
-    hashtags: "#aquariusgang, #chapter30, #mombody, #nodaysoff"
+    hashtags: "#keepgoing, #dancersofinstagram, #immabeast, #zeusaryatravels"
   - username: "vibhanigam6775"
     fullname: >-
       Vibhanigam
+    bio: >-
+      Mother of @thesiddharthnigam and @theabhisheknigam #CelebrityMom
     location: "India"
-    followers: 49294
-    engagement: 2256
-    commentsToLikes: 0.012339
+    followers: 78098
+    engagement: 2074
+    commentsToLikes: 0.018641
     id: ck0w1a18miaxq0i19wtr4gj0w
     verified: false
-    hashtags: "#eidmubarak, #celebration, #vibhanigam, #siddharthnigam"
+    hashtags: "#jaimatadi, #newshow, #blessedmom, #repost"
+  - username: "thesweetlittlebaby"
+    fullname: >-
+      Neha  & Yaneisha
+    bio: >-
+      Mother/Teacher/Homemaker Mommying my little bomb Yaneisha😘 On an awesome journey of Motherhood😍 🇮🇳🇸🇦 Do not follow to unfollow Mom-@nehagambhirkapoor
+    location: "India"
+    followers: 10494
+    engagement: 655
+    commentsToLikes: 0.153415
+    id: ck8ta7w3vqs890j784kxp6qdv
+    verified: false
+    hashtags: "#instababygirl, #delhikids, #yaneisha, #riyadhkids"
+  - username: "naki.earth"
+    fullname: >-
+      Annachiara 🌿
+    bio: >-
+      🌿Happy soul~Yoga~Mother Nature~I talk with plants~LGBT~Content creator~Pharmacy Degree~World Traveller~In love with Life in all forms🌿
+    location: "India"
+    followers: 30789
+    engagement: 985
+    commentsToLikes: 0.019098
+    id: ck5pxylmmthrg0i11scerm36n
+    verified: false
+    hashtags: "#selflove, #italianplantcommunity, #amore, #earthling"
   - username: "originalrashmi"
     fullname: >-
       Rashmi Teotia
+    bio: >-
+      Mother of Twins || Influencer || Youtuber Home maker || My channel 👇👇
     location: "India"
-    followers: 78802
-    engagement: 445
-    commentsToLikes: 0.054078
+    followers: 97611
+    engagement: 411
+    commentsToLikes: 0.044493
     id: ck14lpay6vt530i1961ym6eay
     verified: false
-    hashtags: "#beautygirl, #quote, #buenosdias, #lovequotes"
+    hashtags: "#rashmiteotia, #originalrashmi, #diwaligifts, #beauty"
+  - username: "vibekeklemetsen"
+    fullname: >-
+      VIBEKE KLEMETSEN
+    bio: >-
+      Mother of 3💞 Authorized Level 1 Ashtanga teacher by Sharath Jois🧘🏼‍♀️ Owner and Co-founder @runandrelax & @ayayoga.no Management: pia@brandpeople.no
+    location: "India"
+    followers: 38046
+    engagement: 167
+    commentsToLikes: 0.072368
+    id: ck0vxex6eykap0i19j3qdkous
+    verified: true
+    hashtags: "#ashtangamondays, #ashtangisupsidedown, #yoga, #zendium"
+  - username: "thefashionmommy"
+    fullname: >-
+      SUMEDHA || Portraits 🌼 Flowers
+    bio: >-
+      •Designer•Motherhood•Flowers•Photography•Food•Fashion•Travel•Wanderlust•India• #myfloralteatime ☕️🌹DM for collaborations 💌 Also at @_laburnumstudios_
+    location: "India"
+    followers: 2729
+    engagement: 886
+    commentsToLikes: 0.144076
+    id: ck0w42se6wiul0i192ub9041q
+    verified: false
+    hashtags: "#petalsandprops, #ig, #botanicaldreamers, #createwithkika"
+  - username: "nitika.gusain1827"
+    fullname: >-
+      NitikaG
+    bio: >-
+      #influencer #beauty 💅💄| #lifestyle 💃👠⌚🍫| #health ❤| #motherhood 👪 Jammu | Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
+    location: "India"
+    followers: 11124
+    engagement: 250
+    commentsToLikes: 0.157671
+    id: ckf5qqnvpa94v0j23zzpin6mh
+    verified: false
+    hashtags: "#lehanga, #indianblogger, #indianbeautyblogger, #fyp"
+  - username: "saree_ki_kahani"
+    fullname: >-
+      Ruchi Prabhakar
+    bio: >-
+      #sareelover #healthenthusiast #eclectic #believer #motheroftwo #yogapractitioner
+    location: "India"
+    followers: 19726
+    engagement: 77
+    commentsToLikes: 0.072641
+    id: ck15qg3u12oay0i19kiq9tttd
+    verified: false
+    hashtags: "#sareesofinstagram, #iwearhandloom, #statementnecklace, #chanderisarees"
   - username: "aakritisharma.official"
     fullname: >-
       Aakriti Sharma
+    bio: >-
+      Actor Account is managed by her mother @sharmadimpal05 Collaboration welcome : aaku.info@gmail.com YouTube - Aakriti Sharma
     location: "India"
-    followers: 587096
-    engagement: 393
-    commentsToLikes: 0.018453
+    followers: 708453
+    engagement: 215
+    commentsToLikes: 0.014974
     id: ck5hncmp5nk0g0i111d3ga3iz
     verified: true
-    hashtags: "#outdoor, #wednesday, #quarantinelife, #sujal"
-  - username: "thefashionmommy"
-    fullname: >-
-      SUMEDHA || Lifestyle Blogger
-    location: "India"
-    followers: 2760
-    engagement: 1093
-    commentsToLikes: 0.141988
-    id: ck0w42se6wiul0i192ub9041q
-    verified: false
-    hashtags: "#mycommomtable, #powerfulwoman, #f52grams, #buzzfeedfood"
-  - username: "ansarachel"
-    fullname: >-
-      🅰nn🅰Ⓜ🅰
-    location: "India"
-    followers: 5810
-    engagement: 1097
-    commentsToLikes: 0.034593
-    id: ck9wiz0w74k1u0j78y96pzxrs
-    verified: false
-    hashtags: ""
+    hashtags: "#unlockthefun, #kulfi, #tarezameenpar, #repost"
 ---

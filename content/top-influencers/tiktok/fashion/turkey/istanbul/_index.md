@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Istanbul In 2020
 description: >-
-  Find top fashion TikTok influencers in Istanbul in 2020. Most popular hashtags: #love #fashion #cute #pink.
+  Find top fashion TikTok influencers in Istanbul in 2020. Most popular hashtags: #fashion #fyp #istanbul #ke.
 platform: TikTok
+hits: 10
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 10 TikTok influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
-  - username: "mahfam1"
+  - username: "moondellaa"
     fullname: >-
       Mahfam
+    bio: >-
+      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
     location: "Turkey"
-    followers: 152557
-    engagement: 399
-    commentsToLikes: 0.022223
+    followers: 206700
+    engagement: 436
+    commentsToLikes: 0.016493
     id: ck9r8i9o1cel50j783ykaic9r
     verified: false
-    hashtags: "#outfitchange, #heyboychallenge, #proposal, #myoutfit"
-  - username: "c7r.10nj.lm10"
+    hashtags: "#istanbul, #love, #couplecomedy, #comedy"
+  - username: "nurishtheabstract"
     fullname: >-
-      BERAT İNCİN
+      Volkan Binici
+    bio: >-
+      Giyinmeyi seviyorum 20 | Istanbul
     location: "Turkey"
-    followers: 2087
-    engagement: 990
-    commentsToLikes: 0.033757
-    id: ck8j419ii0izy0j789iluchlk
+    followers: 24600
+    engagement: 951
+    commentsToLikes: 0.037414
+    id: ckc3fmrc41tva0j230b40p9f8
     verified: false
-    hashtags: "#turkey, #takiptekal, #jellycandy, #instafollow"
-  - username: "ask101dizi101"
+    hashtags: "#fashion, #foryoupage, #sneakers, #xyzbca"
+  - username: "linakalinina"
     fullname: >-
-      AŞK 101
+      Lina Kalinina
+    bio: >-
+      Equestrian diary Start 🏇🏼 09.19 Live in Istanbul 🇹🇷 Married 👩🏼‍🤝‍👨🏻
     location: "Turkey"
-    followers: 4525
-    engagement: 1018
-    commentsToLikes: 0.019019
-    id: cka7o545i03050i786bf2awcw
+    followers: 64100
+    engagement: 2890
+    commentsToLikes: 0.009168
+    id: ckcuzx5admyar0j23lgx5pp7j
     verified: false
-    hashtags: "#yorum, #osman, #viralgirl, #netfflix"
+    hashtags: "#equestriangirl, #foryou, #horseriding, #horsegirlvibes"
+  - username: "soremoh"
+    fullname: >-
+      Homeros
+    bio: >-
+      Eda İstanbul | 18 #krnsquad @krnsquad
+    location: "Turkey"
+    followers: 5444
+    engagement: 628
+    commentsToLikes: 0.023202
+    id: ckb9ixokb9s7t0j230zbsbwvg
+    verified: false
+    hashtags: "#ke, #evdekal, #fyp, #turkey"
+  - username: "onurollstyle"
+    fullname: >-
+      Onur Erol
+    bio: >-
+      💫 Hayat güzeldir. ✉️ info@onurollstyle.co 🌎 Istanbul INSTAGRAM : Onurollstyle
+    location: "Turkey"
+    followers: 18200
+    engagement: 124
+    commentsToLikes: 0.027630
+    id: ckcp6vm7rd9o90j232a22y4ii
+    verified: false
+    hashtags: "#menstyle, #moda, #pose, #style"
+  - username: "kyrenian"
+    fullname: >-
+      Altug Galip
+    bio: >-
+      Altug Galip More on Instagram @KyreniaN
+    location: "Turkey"
+    followers: 18500
+    engagement: 562
+    commentsToLikes: 0.050218
+    id: ck8qp522n1yn70j7875gm38pe
+    verified: true
+    hashtags: "#seyahat, #istanbul, #tiktoktravel, #greece"
+  - username: "putkatheuntuck"
+    fullname: >-
+      Muscle Queen
+    bio: >-
+      Turkish Muscle Queen
+    location: "Turkey"
+    followers: 16400
+    engagement: 688
+    commentsToLikes: 0.026028
+    id: ckdbmbvs4a7mj0j23hexybvbe
+    verified: false
+    hashtags: "#wap, #tiktok, #foryourpage, #anasayfa"
+  - username: "katmercibey"
+    fullname: >-
+      Katmercibey
+    bio: >-
+      İnstagram : katmercibey
+    location: "Turkey"
+    followers: 32300
+    engagement: 443
+    commentsToLikes: 0.015312
+    id: ck8kcvvu235n20j78tjmx6spd
+    verified: false
+    hashtags: "#katmercibey, #food, #turkiye, #like"
   - username: "celebioktay"
     fullname: >-
       Oktay Çelebi
+    bio: >-
+      İnstg; celebiioktay
     location: "Turkey"
-    followers: 6368
-    engagement: 231
-    commentsToLikes: 0.007489
+    followers: 7803
+    engagement: 305
+    commentsToLikes: 0.010405
     id: cka9luz5a3bie0i78gpi8mlzh
     verified: false
-    hashtags: "#tiktoksea, #fashion, #swag, #geyikli"
-  - username: "helinserdar"
+    hashtags: "#follow, #photooftheday, #istanbul, #turkey"
+  - username: "beratincin01"
     fullname: >-
-      Helîn
+      Ben BEROO
+    bio: >-
+      
     location: "Turkey"
-    followers: 1921
-    engagement: 1041
-    commentsToLikes: 0.056589
-    id: ck81qqshoj27v0j78qfplrvjn
-    verified: false
-    hashtags: "#catart, #womenbeauty, #sanat, #pembe"
-  - username: "wpturkiye_"
-    fullname: >-
-      🅦🅟🅣🅤🅡🅚🅘🅨🅔
-    location: "Turkey"
-    followers: 11353
-    engagement: 1034
-    commentsToLikes: 0.048971
-    id: cka0ivnl6ff5p0i78mizjuu00
-    verified: false
-    hashtags: "#tekerlemeler, #pubgtr, #pubgmobile, #23nisan"
-  - username: "mahfam1"
-    fullname: >-
-      Mahfam
-    location: "Turkey"
-    followers: 152557
-    engagement: 399
-    commentsToLikes: 0.022223
-    id: ck9r8i9o1cel50j783ykaic9r
-    verified: false
-    hashtags: "#outfitchange, #heyboychallenge, #proposal, #myoutfit"
-  - username: "c7r.10nj.lm10"
-    fullname: >-
-      BERAT İNCİN
-    location: "Turkey"
-    followers: 2087
-    engagement: 990
-    commentsToLikes: 0.033757
+    followers: 2216
+    engagement: 1031
+    commentsToLikes: 0.032077
     id: ck8j419ii0izy0j789iluchlk
     verified: false
-    hashtags: "#turkey, #takiptekal, #jellycandy, #instafollow"
-  - username: "ynkmedyaaa"
-    fullname: >-
-      makinist
-    location: "Turkey"
-    followers: 2264
-    engagement: 228
-    commentsToLikes: 0.069975
-    id: ckacd9aqyimwv0i78pdlsw8kk
-    verified: false
-    hashtags: "#inspiration, #benionecikart, #igaddict, #instafamo"
-  - username: "mahi.art"
-    fullname: >-
-      MAHİ
-    location: "Turkey"
-    followers: 43657
-    engagement: 1426
-    commentsToLikes: 0.074941
-    id: ck81qx1y9kmay0j78v0f3yaz1
-    verified: false
-    hashtags: "#eyedrawing, #winter, #lipstick, #fyoupage"
+    hashtags: "#tiktoktreanding, #kesfettv, #instantbollywood, #tiktoktrends"
 ---

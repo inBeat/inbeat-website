@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Germany In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Germany in 2020. Most popular hashtags: #gewinnspiel #giveaway #blondegirl #metime.
+  Find top lifestyle Instagram influencers in Germany in 2020. Most popular hashtags: #carmushka #fashionblogger #blogger #americanstyle.
 platform: Instagram
+hits: 2814
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 2814 Instagram influencers like this in Germany for you to contact.
 profiles:
   - username: "x_fashiondiaries_x"
     fullname: >-
       Lifestyle
+    bio: >-
+      Upper Austria 🏠 Fashion 👗Healthy Lifestyle 🐮Veggie 🏡Interior🏋️‍♀️#foodspringfamily ❤️ Founder of @fashiondiariesonlineshop
     location: "Germany"
-    followers: 49297
-    engagement: 186
-    commentsToLikes: 0.055426
+    followers: 58597
+    engagement: 195
+    commentsToLikes: 0.251906
     id: ck55on3vg8p810i11hn65t4u5
     verified: false
-    hashtags: "#interior4you, #decoration, #jutetasche, #workout"
-  - username: "_sorinixx"
+    hashtags: "#fitness, #fashion, #igersvienna, #boots"
+  - username: "chantal.pe"
     fullname: >-
-      S O R I N A 🦋
+      chantal
+    bio: >-
+      🖤Fashion | Inspo | Lifestyle 📍based in germany | ffm 📩 contact: chantal.pe@gmx.net do more of what makes you happy✨ use: #chantalpe
     location: "Germany"
-    followers: 6518
-    engagement: 2683
-    commentsToLikes: 0.081294
-    id: ck8t1voqsx80r0j785rbbvbmy
+    followers: 12631
+    engagement: 2242
+    commentsToLikes: 0.115021
+    id: ck15t3kabg6aa0i19wgtb1i5p
     verified: false
-    hashtags: "#quarantinem, #milano, #fashiongoals, #rabattcode"
+    hashtags: "#herbstinspo, #sonnenbrille, #girlsinsposupport, #classy"
   - username: "jacki.byr"
     fullname: >-
       Jacki 🍍
+    bio: >-
+      FASHION | LIFESTYLE | FITNESS 📍NRW 🧳 Visual Merchandiser ...𝓂𝒶𝓀𝑒 𝒾𝓉 𝒽𝒶𝓅𝓅𝑒𝓃 ✨
     location: "Germany"
-    followers: 5042
-    engagement: 2098
-    commentsToLikes: 0.126161
+    followers: 5065
+    engagement: 2201
+    commentsToLikes: 0.136230
     id: ck8t8vsl9m0yx0j7850rvescv
     verified: false
-    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
+    hashtags: "#fashionlover, #fashionaddict, #fashionstyle, #outfitoftheday"
   - username: "bak_lifestyle"
     fullname: >-
       Yvonne
+    bio: >-
+      ᶠᵃˢʰⁱᵒⁿ 🌸 ᴮᵉᵃᵘᵗʸ 🌸 ᴸⁱᶠᵉˢᵗʸˡᵉ • 👰🏻wifey • 👧🏻mommy • 🇩🇪🇵🇱 • Girl next door 💌 bak_lifestyle@web.de / DM 📍 Bochum , NRW 🌍 Next📍
     location: "Germany"
-    followers: 10088
-    engagement: 1894
-    commentsToLikes: 0.189752
+    followers: 9463
+    engagement: 1927
+    commentsToLikes: 0.194192
     id: ck6tp2218hegf0j71wbb5mlvr
     verified: false
-    hashtags: "#outfit, #fashionbloggers, #gewinnspiel, #fashionstyle"
-  - username: "valerie_s_secret"
+    hashtags: "#girlssupportgirls, #germanbloggerinspo, #streetstyle, #sunday"
+  - username: "dedalnok"
     fullname: >-
-      🌸Fashion | Travel | Lifestyle🌸
+      MICHEL DE DÁLNOK 🇭🇺
+    bio: >-
+      ADVENTURE • TRAVEL • LIFESTYLE ⍋ Overland & Outdoors enthusiast ⚑ Zürich, Switzerland / Black Forest, Germany
     location: "Germany"
-    followers: 8989
-    engagement: 1813
-    commentsToLikes: 0.157470
-    id: ck8t37kdj27710j78o6sv6tis
+    followers: 5765
+    engagement: 1757
+    commentsToLikes: 0.129226
+    id: ck14jdnyljtj60i19p5r0cuvv
     verified: false
-    hashtags: "#crathescastle, #blumenfeld, #myposterde, #castletrail"
-  - username: "gianni027"
+    hashtags: "#dolomites, #switzerland, #southtyrol, #myswitzerland"
+  - username: "luisa.kuco"
     fullname: >-
-      Menswear | Gianni
+      GOOD VIBES ONLY🖤
+    bio: >-
+      📍 Freiburg 🇩🇪 💌 luisa.kuri@online.de fashion lover | lifestyle | pug mom
     location: "Germany"
-    followers: 6502
-    engagement: 1758
-    commentsToLikes: 0.244994
-    id: ck9hazsg2erl20j78s3kavoxa
+    followers: 7344
+    engagement: 1666
+    commentsToLikes: 0.118456
+    id: ckap557kya91x0i78i3ofuiig
     verified: false
-    hashtags: "#menwithstyle, #menswearstyle, #casualoutfit, #fashion"
-  - username: "evis_gomez"
+    hashtags: "#carmushka, #puglove, #autumnvibes, #annaix"
+  - username: "kimisdiary"
     fullname: >-
-      Evis | The summer kind of girl
+      Kimberly
+    bio: >-
+      FASHION - LIFESTYLE Germany, 25, in love, 🦁 Frenchiemommy 🐶 FOTOGRAFIELIEBE
     location: "Germany"
-    followers: 5325
-    engagement: 1619
-    commentsToLikes: 0.213513
-    id: ck0vyi8gq44jw0i19dksxvdzi
+    followers: 5603
+    engagement: 1615
+    commentsToLikes: 0.095759
+    id: ck9hag4hccenj0j78gjk72ym1
     verified: false
-    hashtags: "#nightoutmakeup, #makeuplover, #makeupenthusiast, #igtvvideos"
-  - username: "vicivanilli"
+    hashtags: "#blondesandcookies, #liebsmaximal, #americanstyle, #blondehair"
+  - username: "tache.de.rousseur"
     fullname: >-
-      V I C T O R I A
+      Stephi
+    bio: >-
+      FASHION | TRAVEL | LIFESTYLE 📍Bamberg, Germany #tachederousseurstyle ✉️ tachederousseur8@gmail.com
     location: "Germany"
-    followers: 13227
-    engagement: 1606
-    commentsToLikes: 0.172197
-    id: ck0twqwqjgh3k0i197rqeombt
+    followers: 13994
+    engagement: 1359
+    commentsToLikes: 0.169183
+    id: ck14lrvctw6ni0i19qowrqkkh
     verified: false
-    hashtags: "#happynewyear, #happyeaster, #kassel, #stolzaufmich"
-  - username: "maximilianmueller.97"
+    hashtags: "#ootdstyle, #fashioninspo, #fashionista, #joggerstyle"
+  - username: "marinamxll"
     fullname: >-
-      ᗰᗩ᙭IᗰIᒪIᗩᑎ ᗰᑌEᒪᒪEᖇ 🇩🇪
+      Marina | Regensburg
+    bio: >-
+      💌 marinamxll@gmx.de or DM ✨use #marinamxll #fashion #lifestyle #blogger_de
     location: "Germany"
-    followers: 7906
-    engagement: 1545
-    commentsToLikes: 0.470467
-    id: ck9wdild7fsdh0j784cxagh5t
+    followers: 12782
+    engagement: 1307
+    commentsToLikes: 0.137327
+    id: ckap4wh7j96yc0i78cq7ah4m4
     verified: false
-    hashtags: "#beauty, #shein, #mensblog, #schn"
-  - username: "nik.tiga"
+    hashtags: "#styleinspo, #potd, #americanstyle, #fashion"
+  - username: "burakdinc__"
     fullname: >-
-      NIKOLAS SIEVE 🐾 HANNOVER
+      BURAK DINC
+    bio: >-
+      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ 📸 #fashion| #fitness| #travel |#lifestyle 📍 Augsburg/Cologne 📩 dinc.burak89@gmail.com 🔐 @me1isim 👇
     location: "Germany"
-    followers: 15409
-    engagement: 1536
-    commentsToLikes: 0.119918
-    id: ck8syk65bl2b60j78mz60lq61
+    followers: 10481
+    engagement: 1255
+    commentsToLikes: 0.103265
+    id: ck0u1nqppxf210i19mljrs9l4
     verified: false
-    hashtags: "#urlaub, #weihnachten, #wanderlusters, #weihnachtszeit"
+    hashtags: "#jackandjones, #jjambassador, #advertisement, #pregnancy"
 ---

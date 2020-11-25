@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top christian Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #christian #love #music.
+  Find top christian Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #love #art.
 platform: Instagram
+hits: 78
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 78 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "geenafontanella"
+  - username: "conservative.latino"
     fullname: >-
-      G E E N A
+      Anthony, Former DHS/USCG 🇺🇸
+    bio: >-
+      Latinos don’t have to be Democrats. •Christian •Los Angeles, CA 📍 •Activist •Host “El Conservative Latino” Podcast •@rnha_ca state Chairman
     location: "United States"
-    followers: 6493
-    engagement: 846
-    commentsToLikes: 0.066728
-    id: ck9wg0afyrbjb0j78wu05kwar
-    verified: false
-    hashtags: "#trip, #darkpop, #pop, #tokyodrift"
-  - username: "deunivory"
-    fullname: >-
-      deun (dee • yawn) ivory
-    location: "United States"
-    followers: 70758
-    engagement: 442
-    commentsToLikes: 0.024554
-    id: ck0w5bddg2tn70i197lvpk2rp
-    verified: false
-    hashtags: "#freepeople, #voguefeature, #linedrawing, #campustour"
-  - username: "_xristian8_"
-    fullname: >-
-      Christian Feliciano
-    location: "United States"
-    followers: 3313
-    engagement: 2111
-    commentsToLikes: 0.065118
-    id: ck5hruoflview0i11jik11sjw
-    verified: false
-    hashtags: "#legatorguitars, #djent, #aliencore, #slam"
-  - username: "rynebelanger"
-    fullname: >-
-      Ryne Belanger
-    location: "United States"
-    followers: 10240
-    engagement: 890
-    commentsToLikes: 0.028920
-    id: ck0u2357cys9z0i19wohj3f93
-    verified: false
-    hashtags: "#luckytobealandry"
-  - username: "kristianhaggerty"
-    fullname: >-
-      KRISTIAN  HAGGERTY
-    location: "United States"
-    followers: 188948
-    engagement: 1518
-    commentsToLikes: 0.010375
-    id: ck0vzc9nd8dv90i198sgr4laa
-    verified: false
-    hashtags: "#hookedonhomechef, #thethingaboutharry, #dphuehouse, #springiscoming"
-  - username: "puerilemind"
-    fullname: >-
-      Christian Smiley
-    location: "United States"
-    followers: 6973
-    engagement: 587
-    commentsToLikes: 0.052227
-    id: ckaoqlot1ja530i787cizclkm
+    followers: 56081
+    engagement: 417
+    commentsToLikes: 0.086813
+    id: ckap5dkq5b71s0i78do357kn0
     verified: false
     hashtags: ""
-  - username: "angelicagallegosmusica"
+  - username: "jizzymack"
     fullname: >-
-      Angelica Gallegos
+      Ray  Sadeghi
+    bio: >-
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
     location: "United States"
-    followers: 26903
-    engagement: 355
-    commentsToLikes: 0.023056
-    id: ck5qcnt0srh8a0i11c980niwz
+    followers: 212389
+    engagement: 139
+    commentsToLikes: 0.015024
+    id: ck0vx1u47wpyl0i19oypik8rj
     verified: false
-    hashtags: "#sitevas, #miprimeralbum, #chulaychingona, #mayo1"
+    hashtags: "#ufc, #fitness, #bible, #chicago"
+  - username: "kristaallenxo"
+    fullname: >-
+      Krista Allen
+    bio: >-
+      ❤️
+    location: "United States"
+    followers: 150169
+    engagement: 165
+    commentsToLikes: 0.134165
+    id: ck6u4cfpf2xlp0j71mb6rcqrq
+    verified: true
+    hashtags: "#smile, #funny, #heart, #oops"
   - username: "jennifercallahan"
     fullname: >-
       Jennifer Callahan • love lulu
+    bio: >-
+      ✧ based in Los Angeles » mindful creative + encouraging blogger ◦ christian, wellness, clean living ⋯ #lovelulu ⋒ get my How to Be Whole guide below!
     location: "United States"
-    followers: 17169
-    engagement: 264
-    commentsToLikes: 0.104278
+    followers: 16250
+    engagement: 276
+    commentsToLikes: 0.103151
     id: ck8swmlblejgs0j7839ebf2s4
     verified: false
-    hashtags: "#headspace, #safeathome, #wellnessblogger, #selfcaresunday"
+    hashtags: "#ad, #nymnaturals, #nymattarget, #newyorkers"
+  - username: "mattpare"
+    fullname: >-
+      Matt Paré
+    bio: >-
+      discount bin christian bale @thespringhillco former pro catcher @sfgiants @nofiltermanagement los angeles, ca
+    location: "United States"
+    followers: 9418
+    engagement: 634
+    commentsToLikes: 0.041441
+    id: ck5hqv7rdts4k0i11hby9j9bo
+    verified: true
+    hashtags: "#baseballlife, #baseballboys, #padres, #fernandotatisjr"
+  - username: "alexanderthegreat"
+    fullname: >-
+      Alex Stemplewski
+    bio: >-
+      📸 I make strangers famous 📍 Los Angeles, CA 📧 E-mail or DM to book ⬇️ Get my presets/tutorials 🙋🏻‍♂️ @alex.stemplewski
+    location: "United States"
+    followers: 714693
+    engagement: 661
+    commentsToLikes: 0.007041
+    id: ck136oqsh7il80i19uk8xyisk
+    verified: false
+    hashtags: "#alex300kcontest, #photoshoot, #vote, #have"
   - username: "cdenice"
     fullname: >-
       Christian Denice
+    bio: >-
+      Choreographer | Dancer Yoga Instructor Los Angeles
     location: "United States"
-    followers: 18373
-    engagement: 905
-    commentsToLikes: 0.020214
+    followers: 21599
+    engagement: 754
+    commentsToLikes: 0.013838
     id: ck8syxi5umebu0j78sd1u37ir
     verified: false
-    hashtags: "#class, #partnering, #process, #fluidity"
-  - username: "phillybarberking"
+    hashtags: "#choreographer, #artist, #contemporarydance, #creation"
+  - username: "miss_shalae"
     fullname: >-
-      Philly Garcia
+      SHALAE aka Michell’e
+    bio: >-
+      The World’s #1 Beyoncé Tribute Artist Booking inquiries: book.miss.shalae@gmail.com 📍Los Angeles #SLAYSHALAE
     location: "United States"
-    followers: 43423
-    engagement: 433
-    commentsToLikes: 0.035083
-    id: ckaosq59csl8h0i78ehj4gw8i
+    followers: 89636
+    engagement: 347
+    commentsToLikes: 0.039312
+    id: ck5hi0arsaz8u0i11mrnd2z6g
+    verified: true
+    hashtags: "#merevatulum, #leo, #sunchild, #beachbum"
+  - username: "lovesquish"
+    fullname: >-
+      Jessica Christian 👽
+    bio: >-
+      Photo Video Los Angeles Prints👇🏻
+    location: "United States"
+    followers: 29691
+    engagement: 147
+    commentsToLikes: 0.047960
+    id: ck134z0k3yvxo0i19g0ojvrcd
     verified: false
-    hashtags: "#hollywoodbarber, #gelo, #zodiac, #spiritual"
+    hashtags: "#moodyports, #lightroom, #natgeo, #photography"
+  - username: "daviderickramos_"
+    fullname: >-
+      David Erick Ramos (Docjazz4)
+    bio: >-
+      Professional #Ocarina player 🎵 Composer & Educator ▶️ YouTuber & Tiktok 📍Los Angeles 👥 Founder of @ocabanda ✝️ Follower of Jesus 🌎 Vegan —— LINKS! ⤵️
+    location: "United States"
+    followers: 7524
+    engagement: 637
+    commentsToLikes: 0.036104
+    id: ck5qd2f07thnv0i11jqdwi2z8
+    verified: false
+    hashtags: "#songbirdocarina, #ocarina, #flute, #ocarinaoftime"
 ---

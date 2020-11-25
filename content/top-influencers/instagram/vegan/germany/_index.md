@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Germany In 2020
 description: >-
-  Find top vegan Instagram influencers in Germany in 2020. Most popular hashtags: #bodypositivity #style #corona #dresses.
+  Find top vegan Instagram influencers in Germany in 2020. Most popular hashtags: #verlosung #happy #corona #happiness.
 platform: Instagram
+hits: 1153
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 1153 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "juleunddiemedizin"
+  - username: "simonapetz"
     fullname: >-
-      jule | medstudent | leipzig
+      simona 🕊
+    bio: >-
+      ❝ hi beautiful 𝗳𝗶𝘁𝗻𝗲𝘀𝘀︱𝗳𝗮𝘀𝗵𝗶𝗼𝗻︱𝘁𝗿𝗮𝘃𝗲𝗹 ✿ vegan ♡ @nickgvm
     location: "Germany"
-    followers: 18841
-    engagement: 959
-    commentsToLikes: 0.077486
-    id: ck5ckp4q3xc760i11bra02nhz
+    followers: 7513
+    engagement: 1212
+    commentsToLikes: 0.156517
+    id: ckapban7zz78u0i78z34p87j7
     verified: false
-    hashtags: "#lebensmittelverschwendung, #staysafe, #keinbockmehr, #supportistkeinmord"
-  - username: "nicia_unlovelier"
+    hashtags: "#travelinspo, #glowy, #fitgirl, #jewelry"
+  - username: "littlefamily._"
     fullname: >-
-      hi, I'm Nicia! 🦔
+      𝗔 𝗡 𝗔 🌻
+    bio: >-
+      • Mom of ✌🏻 | #Mamablog • Allein unter Jungs | #Lebenmitkindern • Vegan 🌱 • There is no Planet B 🌍 • Every day holds the possibility of a miracle ❤️
     location: "Germany"
-    followers: 103987
-    engagement: 546
-    commentsToLikes: 0.045543
-    id: ck8t3ia6l3ejk0j78x0m5xpz5
+    followers: 5109
+    engagement: 1390
+    commentsToLikes: 0.108784
+    id: ck8t60bhsbszy0j781w8ki37x
     verified: false
-    hashtags: "#unpaidad"
-  - username: "lauramadeleineb"
-    fullname: >-
-      💗  LAURA MADELEINE  💗
-    location: "Germany"
-    followers: 5726
-    engagement: 2146
-    commentsToLikes: 0.069469
-    id: ck8t4axjn63p40j78iki5pavc
-    verified: false
-    hashtags: "#travel, #sunset, #macedonia, #language"
-  - username: "vivianereinhardt"
-    fullname: >-
-      TRAVEL & HEALTHY LIFESTYLE
-    location: "Germany"
-    followers: 23172
-    engagement: 633
-    commentsToLikes: 0.103966
-    id: ck0vxqmbf07qu0i19aakhr9g9
-    verified: false
-    hashtags: "#hometown, #lightroomfilter, #oceanvibes, #sigiriyarock"
-  - username: "sarahsellnau"
-    fullname: >-
-      𝐅𝐀𝐒𝐇𝐈𝐎𝐍✨𝐁𝐄𝐀𝐔𝐓𝐘✨𝐈𝐍𝐒𝐏𝐎
-    location: "Germany"
-    followers: 4746
-    engagement: 1750
-    commentsToLikes: 0.191975
-    id: ck0w07udgctfl0i19eyg8prqb
-    verified: false
-    hashtags: "#flower, #aestheticedits, #yellow, #safirashine"
-  - username: "carinamononoke"
-    fullname: >-
-      Compassion & Empathy🌱🌙
-    location: "Germany"
-    followers: 8258
-    engagement: 995
-    commentsToLikes: 0.085455
-    id: ck8t3m4fp3p8j0j7841aif4kd
-    verified: false
-    hashtags: "#wanderlust, #dogstagram, #antifaschismus, #brixton"
-  - username: "love.palmtrees"
-    fullname: >-
-      RAMONA & STEFAN 🤍🌴
-    location: "Germany"
-    followers: 14017
-    engagement: 831
-    commentsToLikes: 0.148859
-    id: ck5cl1aday1qb0i11r80x03uf
-    verified: false
-    hashtags: "#couplephoto, #beachview, #friendshipgoal, #kamera"
-  - username: "lisagetslost.x"
-    fullname: >-
-      𝕷 𝖎 𝖘 𝖆.𝕷 𝖔 𝖘 𝖙 ⚡
-    location: "Germany"
-    followers: 30927
-    engagement: 765
-    commentsToLikes: 0.029450
-    id: ck134are3viwd0i19vnuab3yl
-    verified: false
-    hashtags: "#tattoolove, #womenshair, #sunsetlovers, #facetattoo"
-  - username: "mariercvry"
-    fullname: >-
-      MaryThoner
-    location: "Germany"
-    followers: 28533
-    engagement: 370
-    commentsToLikes: 0.067460
-    id: ck14krpeqqza20i198c7zi8uj
-    verified: false
-    hashtags: "#togetherness, #coronar, #smarthelmet, #vegan"
+    hashtags: "#mamaundsohn, #lebenalsmama, #teamblau, #mamablogger"
   - username: "picturing.spirit"
     fullname: >-
       Johanna ✨ Yoga
+    bio: >-
+      ☯️Yoga (200h TTC) 🌿Healthy vegan eats ✨sustainability 💧essential oils, natural solutions and more👇🏼
     location: "Germany"
-    followers: 5061
-    engagement: 1925
-    commentsToLikes: 0.086352
+    followers: 11912
+    engagement: 1342
+    commentsToLikes: 0.053476
     id: ck9hazujierui0j78teooufdv
     verified: false
-    hashtags: "#practiceyogachangeyourworld, #fogafam, #homapractice"
+    hashtags: "#yogainnature, #homepractice, #yogafam, #pinchamayurasana"
+  - username: "mutimbauch"
+    fullname: >-
+      SINA ♡ Sei die Veränderung
+    bio: >-
+      🎬 YouTube: MutimBauch 🎤 Podcast: Teilzeit-Spießer 🌱 Vegan Family ♡ Mental Health & Körperakzeptanz ↓Coaching & Ernährungsberatung (+Impressum)↓
+    location: "Germany"
+    followers: 16813
+    engagement: 1228
+    commentsToLikes: 0.039676
+    id: ck14kwf3nrnm30i1912d0e4p1
+    verified: false
+    hashtags: "#etepetete, #adoptdontshop, #committedtodobetter, #weltvegantag"
+  - username: "lauralehmannofficial"
+    fullname: >-
+      ♡ Ⓛ ⓐ Ⓤ ⓡ Ⓐ ♡
+    bio: >-
+      🐚 Fashion shop @concept__l 💭 founder of @_laloushop_ 🕊 vegan 🤍 Proud Mom of 3 boys 💍 happily married 🏳️ Stuttgart 📩 laura@lehmann-mgmt.de
+    location: "Germany"
+    followers: 107854
+    engagement: 387
+    commentsToLikes: 0.112830
+    id: ck15rt3mn9kdl0i19b2y1izo7
+    verified: false
+    hashtags: "#momof3, #familytime, #reels, #zalandostyle"
+  - username: "mehralsgruenzeug"
+    fullname: >-
+      Jenni Marr | Mehr als Grünzeug
+    bio: >-
+      {she/her} Keeping my eyes open. ⋒ Doing things with words. ⋒ Sustainability. ⋒ Vegan. ⋒ Holistic & intersectional. ⋒ Dreamer. ☻ Introvert. BLOG:
+    location: "Germany"
+    followers: 28297
+    engagement: 394
+    commentsToLikes: 0.068424
+    id: ck0w5izpu3v6g0i19bu9m2e5h
+    verified: false
+    hashtags: "#mentalhealthmatters, #eco, #pandemie, #greenblogger"
+  - username: "little.parkour.hulk"
+    fullname: >-
+      Ihab Yassin
+    bio: >-
+      On the 🌍 since 1995 Parkour Athlete since 2011- vegan 🌱 👕 @ohana.wear - athlete Mainz/Frankfurt, Germany 📍
+    location: "Germany"
+    followers: 12918
+    engagement: 1871
+    commentsToLikes: 0.033344
+    id: ck0udegoziz8s0i19667rohd7
+    verified: false
+    hashtags: "#freeruning, #wiesbaden, #flow, #pk4life"
+  - username: "andherflowers"
+    fullname: >-
+      V a l e r i e
+    bio: >-
+      Don‘t be the ego. Be your higher self.✨ • Selflove • Mindfulness • Gratitude • vegan • save the earth 🌎 • high vibrations 💫 • chillin‘ near munich
+    location: "Germany"
+    followers: 122257
+    engagement: 544
+    commentsToLikes: 0.035875
+    id: ck13ctwk9250w0i19khnmjb6l
+    verified: false
+    hashtags: "#childhoodunplugged, #mindfulness, #mindsetiseverything, #dontgiveup"
+  - username: "charlotte_weise"
+    fullname: >-
+      Charlotte Weise🌱
+    bio: >-
+      📍Barcelona 🏖Beachlife🐶🏡🌞♥️ 🌞Happiness 💃🏼Dancing 🐇🌿Natural cosmetics 🌍🌿Fair Fashion ♥️Selflove 🥦Veggie/vegan food
+    location: "Germany"
+    followers: 132641
+    engagement: 536
+    commentsToLikes: 0.027862
+    id: ck0u628qx0s0a0i19j8mserwd
+    verified: false
+    hashtags: "#selbstliebe, #stayathome, #befree, #corona"
+  - username: "julispiration"
+    fullname: >-
+      JULI 🦋
+    bio: >-
+      🐚Kiel 🍋deine tägliche Dosis Glück #crazystories 🎙 💗vegan 💡Motivationsblogposts 💌julispiration@mail.de
+    location: "Germany"
+    followers: 54680
+    engagement: 277
+    commentsToLikes: 0.466409
+    id: ck0u9saqrah3r0i19913ulp9v
+    verified: false
+    hashtags: "#airpods, #happy, #verlosungxxl, #verlosung"
 ---

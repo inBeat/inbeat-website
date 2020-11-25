@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top cooking TikTok influencers in United Kingdom in 2020. Most popular hashtags: #breakfast #pasta #food #dessert.
+  Find top cooking TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryoupage #foryou #food.
 platform: TikTok
+hits: 299
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 299 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "cristina_yin"
+  - username: "yasmine_eex"
     fullname: >-
-      ⍣ Cristina ✵ ﾟ⋆
+      yasmine_eex
+    bio: >-
+      🇲🇦|🇬🇧 Islamic Reminders and Cooking Videos اللهم إني أسألك حسن الخاتمة
     location: "United Kingdom"
-    followers: 33351
-    engagement: 1824
-    commentsToLikes: 0.019378
-    id: ck9v8mr8kaf100j783bcs266p
+    followers: 9976
+    engagement: 2068
+    commentsToLikes: 0.026875
+    id: ckd0dc4b5d0iz0j23kni7lhjq
     verified: false
-    hashtags: "#dessert, #hamandcheese, #aesthetics, #drinkaesthetic"
-  - username: "maybebaibey"
+    hashtags: "#fyp, #islamic, #xybca, #peace"
+  - username: "ollie_eats"
     fullname: >-
-      Bailey
+      ollieeats
+    bio: >-
+      🎥 Showcasing home cooking hacks and amazing products from the food industry🍩
     location: "United Kingdom"
-    followers: 4553
-    engagement: 932
-    commentsToLikes: 0.047464
-    id: ck96176o2lf610j78oin1k746
+    followers: 248700
+    engagement: 927
+    commentsToLikes: 0.023493
+    id: ck8kh4nchlb3u0j78wbuus6kb
     verified: false
-    hashtags: "#disney, #puffle, #googlemeet, #peace"
-  - username: "j_mxhmood"
+    hashtags: "#properbritishdishes, #food, #learnontiktok, #ramsayreacts"
+  - username: "recentlybaked"
     fullname: >-
-      Jolly 👩‍🍳
+      Baking & cooking
+    bio: >-
+      Baking & cooking videos Thanks for following❤️
     location: "United Kingdom"
-    followers: 25245
-    engagement: 344
-    commentsToLikes: 0.027186
-    id: ck9n8d8c48gid0j78yj2sd4tf
+    followers: 5889
+    engagement: 1643
+    commentsToLikes: 0.031498
+    id: ckcdznx7ihbfm0j23m0ok9fp9
     verified: false
-    hashtags: "#viral, #chanachur, #follow, #curry"
+    hashtags: "#baking, #boba, #bubbletea, #fyp"
+  - username: "chlooebrownn"
+    fullname: >-
+      Chlöe Brown
+    bio: >-
+      22 | London | African Tastebuds🇳🇬 Owner of a fantastic African cooking page✌🏼
+    location: "United Kingdom"
+    followers: 122200
+    engagement: 1144
+    commentsToLikes: 0.026259
+    id: ckb9mp3kqfzdu0j23x5zmesie
+    verified: false
+    hashtags: "#nigerianstyle, #endsars, #cookbook, #atb"
+  - username: "0723sona"
+    fullname: >-
+      neelam
+    bio: >-
+      Love cooking 🥘 Fav place London Wish me 7th Nov 🇮🇳✈️🇬🇧
+    location: "United Kingdom"
+    followers: 347000
+    engagement: 766
+    commentsToLikes: 0.013639
+    id: ckcj82b1f6zil0j23amandkui
+    verified: false
+    hashtags: "#tictok, #easyrecipe, #pb08, #tictoklover"
+  - username: "georgiehalfacree"
+    fullname: >-
+      Georgie
+    bio: >-
+      Just out here cooking up a storm follow my instagram @georgiehalfacree
+    location: "United Kingdom"
+    followers: 291900
+    engagement: 1002
+    commentsToLikes: 0.007897
+    id: ckbadr5j4628f0j23hmeqi79d
+    verified: true
+    hashtags: "#feelgoodfactor, #carnivalready, #learnontiktok, #backtouni"
+  - username: "desitouch20"
+    fullname: >-
+      desi madam
+    bio: >-
+      cooking my passion and obsession. so plz hit the heart. and subs to my YouTube .
+    location: "United Kingdom"
+    followers: 68800
+    engagement: 372
+    commentsToLikes: 0.015171
+    id: ckav0l4or6ayv0j237xflpb6o
+    verified: false
+    hashtags: "#foryoupage, #tranding, #foryou, #beefcurry"
+  - username: "poppy_cooks"
+    fullname: >-
+      poppy_cooks
+    bio: >-
+      Michelin-trained chef making cooking EASY FRICKIN’ PEASY 🤤❤️ 📩DM on Instagram
+    location: "United Kingdom"
+    followers: 58600
+    engagement: 821
+    commentsToLikes: 0.018288
+    id: ckcj5ajwr5luj0j23ng6ie7zi
+    verified: false
+    hashtags: "#fyp, #foodie, #chocolate, #whatieatinaday"
+  - username: "itshollyyx"
+    fullname: >-
+      Gurl
+    bio: >-
+      ✨Just a multiple sclerosis fighter cooking her way through life✨
+    location: "United Kingdom"
+    followers: 7402
+    engagement: 377
+    commentsToLikes: 0.033219
+    id: cka0w9xc220s40i78kkt8et84
+    verified: false
+    hashtags: "#fyp, #slimmingworldrecipes, #foryoupage, #slimmingworldfood"
   - username: "zubyskitchen"
     fullname: >-
-      user800445364954
+      Zuby’s Kitchen
+    bio: >-
+      CEO of delicious desi cooking 🇬🇧
     location: "United Kingdom"
-    followers: 9474
-    engagement: 277
-    commentsToLikes: 0.016394
+    followers: 21700
+    engagement: 288
+    commentsToLikes: 0.028971
     id: cka0kek7zm7dg0i78kqmsjizw
     verified: false
-    hashtags: "#milk, #iftari, #muslim, #raita"
-  - username: "shakelashan"
-    fullname: >-
-      Nutrishan
-    location: "United Kingdom"
-    followers: 12209
-    engagement: 959
-    commentsToLikes: 0.022117
-    id: cka0t0zgnnysd0i78fc7tlv42
-    verified: false
-    hashtags: "#ramadanmubarak, #slayathome, #tiktokindia, #treatyourself"
-  - username: "banana.grwm"
-    fullname: >-
-      𝗋𝗈𝗎𝗇𝗍𝗂𝗇𝖾𝗌🛁
-    location: "United Kingdom"
-    followers: 14306
-    engagement: 2947
-    commentsToLikes: 0.067463
-    id: ckacqu0rv2d2n0i78otj9odc8
-    verified: false
-    hashtags: "#food, #onmyown, #thepinkstuff, #study"
-  - username: "mattadlard"
-    fullname: >-
-      Matt Adlard 
-    location: "United Kingdom"
-    followers: 73968
-    engagement: 2007
-    commentsToLikes: 0.011939
-    id: ck8adibkn6fvq0j78pblhnpyq
-    verified: false
-    hashtags: "#psychopath, #food, #bread, #albumlookalike"
-  - username: "jamesbrooksco"
-    fullname: >-
-      James Brooks
-    location: "United Kingdom"
-    followers: 118347
-    engagement: 1624
-    commentsToLikes: 0.040964
-    id: ck8oreutobygr0j78mg0l9bhd
-    verified: false
-    hashtags: "#slowmo, #soda, #bread, #oreo"
-  - username: "squeakybean"
-    fullname: >-
-      Squeaky Bean
-    location: "United Kingdom"
-    followers: 5047
-    engagement: 642
-    commentsToLikes: 0.119368
-    id: ckafu23ca8a5b0i782pxusutz
-    verified: false
-    hashtags: "#hotsauce, #undefeated, #clubsandwich, #baking"
-  - username: "temp_tation"
-    fullname: >-
-      David Templer
-    location: "United Kingdom"
-    followers: 296693
-    engagement: 1291
-    commentsToLikes: 0.020321
-    id: ck81s3qx4prv40j78hsbaomp6
-    verified: true
-    hashtags: "#alcohol, #morelitthanfit, #challenge, #tiktokfood"
+    hashtags: "#fyp, #desifood, #weddingseason, #birmingham"
 ---

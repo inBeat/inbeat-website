@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In France In 2020
 description: >-
-  Find top skincare Instagram influencers in France in 2020. Most popular hashtags: #skincareroutine #skincare #stayhome #makeup.
+  Find top skincare Instagram influencers in France in 2020. Most popular hashtags: #makeup #skincare #concours #hudabeauty.
 platform: Instagram
+hits: 466
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 466 Instagram influencers like this in France for you to contact.
 profiles:
-  - username: "noraeleos"
+  - username: "glowftgal"
     fullname: >-
-      Nora Eleos  🐆
+      𝒮𝒶𝓇𝒶𝒽 🦋 𝒢𝓁𝑜𝓌𝒻𝓉𝑔𝒶𝓁 ✨
+    bio: >-
+      🎨 Makeup - Skincare 🧖🏼‍♀️ 📍Avion - 30min de Lille 📆 Infos, disponibilités et tarifs à la une 💌 glowftgal@gmail.com ⤹ Baby Youtubeuse
     location: "France"
-    followers: 23169
-    engagement: 448
-    commentsToLikes: 0.076154
-    id: ck6tz57kx7or70j71umcz776h
+    followers: 4569
+    engagement: 1482
+    commentsToLikes: 0.075245
+    id: ck9hccxuikt9z0j78c0rv8vog
     verified: false
-    hashtags: "#asos, #nakdfashion, #london, #montage"
-  - username: "nursey16"
-    fullname: >-
-      Sarah Nurse
-    location: "France"
-    followers: 22546
-    engagement: 761
-    commentsToLikes: 0.022078
-    id: ck5zijek7ftla0i141b68j1xd
-    verified: true
-    hashtags: "#sparkle, #forthegame, #untilnexttime, #frontlineworkers"
-  - username: "cloutierkim"
-    fullname: >-
-      Kim Cloutier
-    location: "France"
-    followers: 26969
-    engagement: 451
-    commentsToLikes: 0.060861
-    id: ck5znp09povr70i149solitui
-    verified: false
-    hashtags: "#blackandwhite, #tb, #hydrafacial, #antioxidants"
-  - username: "theclassyemily"
-    fullname: >-
-      Émilie | Make Up 💕
-    location: "France"
-    followers: 3910
-    engagement: 1351
-    commentsToLikes: 0.063362
-    id: ck9hc0vd6j9ct0j78uou45qzh
-    verified: false
-    hashtags: "#love, #lashes, #blackcouples, #motd"
+    hashtags: "#toofacedpalette, #glittermakeup, #carnivalxlpro, #dipbrowpomade"
   - username: "miiriam_br"
     fullname: >-
-      🌹 B I C H A 🌹
+      ✨ MB ✨
+    bio: >-
+      📍•🇹🇳 • Beauty • fashion • lifestyle Skincare
     location: "France"
-    followers: 46493
-    engagement: 113
-    commentsToLikes: 0.115647
+    followers: 44058
+    engagement: 134
+    commentsToLikes: 0.143681
     id: ck6ttxw9ud6q60j71xelzc5xq
     verified: false
-    hashtags: "#up, #parfum, #instagram, #good"
-  - username: "ivy.kimbour"
-    fullname: >-
-      🥥 𝑫𝑰𝑮𝑰𝑻𝑨𝑳 𝑩𝑨𝑩𝑬 & 𝑻𝑹𝑨𝑽𝑬𝑳𝑬𝑹
-    location: "France"
-    followers: 10103
-    engagement: 1197
-    commentsToLikes: 0.245320
-    id: ck5c0oygrtk6p0i11ajukastd
-    verified: false
-    hashtags: "#awsometravel, #brunch, #travelcommunity, #cozycozy"
+    hashtags: "#concours, #giveaway, #make, #giveaways"
   - username: "fashionistamer"
     fullname: >-
       👑مريم👑
+    bio: >-
+      -Fashion👗Travel✈Makeup💄skincare💫 -Photographer: @capturesofmark -Community manager :@mykiosque24 -Businesswakil@gmail.com
     location: "France"
-    followers: 8488
-    engagement: 536
-    commentsToLikes: 0.065542
+    followers: 12108
+    engagement: 531
+    commentsToLikes: 0.038332
     id: ckap449oc5s1c0i78av0q067o
     verified: false
-    hashtags: "#bilbao, #makeup, #makeupblogger, #makeuplife"
+    hashtags: "#potd, #callanstoog, #europe, #fashion"
   - username: "noemie_discoveries"
     fullname: >-
       Noémie #endogirl 🎗
+    bio: >-
+      #endogirl #endometriose #beauté #cosmetics #makeup #skincare #food #instagrameuse 📩J'accepte les #partenariat , n'hésitez pas à me contacter 😃
     location: "France"
     followers: 9142
     engagement: 2040
     commentsToLikes: 0.366015
     id: ck9h9pm469g4q0j78yiz7pwgu
     verified: false
-    hashtags: "#mono, #antiviral, #instagramers, #happiness"
-  - username: "tatiana_csts"
+    hashtags: "#skincare, #aloevera, #produitoffert, #makeuptutorial"
+  - username: "jessy_peps"
     fullname: >-
-      🏵️ Tatiana 🏵️
+      Jessy 🌌
+    bio: >-
+      🦋 Beauty ☆ Skincare ☆ Lifestyle ☆ 📧 nahm.jess@gmail.com 🎃 Good Vibes Only 🎃 🔎 Lien pour tout les bons plans ⤵️
     location: "France"
-    followers: 2516
-    engagement: 1775
-    commentsToLikes: 0.487553
-    id: ck15v0txxpc0u0i19imlo5uhs
+    followers: 5607
+    engagement: 1305
+    commentsToLikes: 0.280906
+    id: ckf5nre3rzdql0j23hprb9dfn
     verified: false
-    hashtags: "#natrue, #masqueargan, #auchan, #vernisnaturels"
-  - username: "skintillatebeauty"
+    hashtags: "#cleanbeauty, #beaut, #igbeauty, #collaboration"
+  - username: "m.soohee"
     fullname: >-
-      w i s m a a d
+      Soo Hee
+    bio: >-
+      • Skincare Addict • Homemade cooking • Photography services 📸 • Creator of #splashwskincare From Korea to France 📍🇰🇷🇫🇷 Collab : DM or email
     location: "France"
-    followers: 5369
-    engagement: 699
-    commentsToLikes: 0.241158
+    followers: 4177
+    engagement: 1753
+    commentsToLikes: 0.685750
+    id: ck15umdxenvui0i19mfo9lvie
+    verified: false
+    hashtags: "#texturetuesday, #pinkwednesday, #splashwskincare, #testeuse"
+  - username: "nutella_dollce"
+    fullname: >-
+      Nutella Dollce
+    bio: >-
+      Blessed, Thankful & Focused. Founder of: @dollce.lashes Lady network | Healthcare, Skincare & More 📲 DM for Collaboration 📩 ⤵️ Last YouTube vidéo
+    location: "France"
+    followers: 10171
+    engagement: 621
+    commentsToLikes: 0.008977
+    id: ckf5qhq5w9eav0j23cp8lztv0
+    verified: false
+    hashtags: "#travel, #summer, #lifestyle, #instagram"
+  - username: "vvismaad"
+    fullname: >-
+      @skintillatebeauty earlier
+    bio: >-
+      In a constant struggle to maintain a positive bank balance and buy all the skincare I want💁🏻‍♀️ 📍Paris
+    location: "France"
+    followers: 5254
+    engagement: 565
+    commentsToLikes: 0.302909
     id: ck8t6ezw4dd3m0j786ssoqznf
     verified: false
-    hashtags: "#feedmyskin, #octolyfamily, #perfumeasanart, #maisonmargielafragrances"
+    hashtags: "#letsbefrank, #frankbody"
+  - username: "sleepingbeautyytb"
+    fullname: >-
+      Marie Tuffery
+    bio: >-
+      #Healthylifestyle 🌿, Skincare🧖🏼‍♀️, Motivation👊🏻,Fashion YOUTUBE +280k : SleepingBeauty ↓NEW VIDEO↓
+    location: "France"
+    followers: 109434
+    engagement: 648
+    commentsToLikes: 0.021162
+    id: ck9hci0xrlhtq0j782qywoi1t
+    verified: false
+    hashtags: "#mesformesenforme, #danslabalance, #braunfamily, #braunbeauty"
+  - username: "amandineyk"
+    fullname: >-
+      Amandine 👩🏽‍🎨
+    bio: >-
+      🇫🇷🇨🇫 📍 Paris, France 🇫🇷 👩🏽‍🎨 Makeup / 🧖🏽‍♀️ Skincare 📩: amandineyk@gmail.com (Je ne fais pas de prestations maquillage) Youtube channel ⤵️
+    location: "France"
+    followers: 132461
+    engagement: 1157
+    commentsToLikes: 0.004995
+    id: ck0u7dizg4irr0i19kl8siw1g
+    verified: false
+    hashtags: "#natashadenona, #toofaced, #staceymariemua, #makeup"
 ---

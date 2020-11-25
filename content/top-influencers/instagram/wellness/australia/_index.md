@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Australia In 2020
 description: >-
-  Find top wellness Instagram influencers in Australia in 2020. Most popular hashtags: #australia #stayhome #covid19 #love.
+  Find top wellness Instagram influencers in Australia in 2020. Most popular hashtags: #vegan #wellness #australia.
 platform: Instagram
+hits: 142
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 142 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "nataliaancora"
-    fullname: >-
-      🇦🇺🇵🇱 Natalia ✖️ Australia, GC
-    location: "Australia"
-    followers: 59953
-    engagement: 212
-    commentsToLikes: 0.111265
-    id: ck5himf0ee9u00i11hp6tjznj
-    verified: false
-    hashtags: "#travellinggram, #happyliving, #silajestkobieta, #quotesoflife"
-  - username: "meaganrothh"
-    fullname: >-
-      𝕸𝖊𝖆𝖌𝖘 🌶
-    location: "Australia"
-    followers: 5031
-    engagement: 670
-    commentsToLikes: 0.457634
-    id: ckapa4t0tupjx0i781l43z64d
-    verified: false
-    hashtags: ""
-  - username: "bazaarmumma"
-    fullname: >-
-      KIRI VASALES
-    location: "Australia"
-    followers: 25924
-    engagement: 163
-    commentsToLikes: 0.078701
-    id: ck0w6as7u7oh70i1900nu439n
-    verified: false
-    hashtags: "#tiktokrookie, #welcometotheparentclub, #inthistogether, #bereavedmothersday"
-  - username: "calebjudepackhamyoga"
-    fullname: >-
-      THE WELLNESS WARRIOR
-    location: "Australia"
-    followers: 31995
-    engagement: 429
-    commentsToLikes: 0.030527
-    id: ck8sztxi2pp370j78v2szapb6
-    verified: false
-    hashtags: "#covid19, #upwardfacingdog, #bestof2019, #kundaliniyoga"
-  - username: "rayneembley"
-    fullname: >-
-      RAYNE (Bryant)
-    location: "Australia"
-    followers: 26037
-    engagement: 142
-    commentsToLikes: 0.069008
-    id: ck5c0saqatras0i114hnbz1md
-    verified: false
-    hashtags: "#mentalhealth, #covidcooking, #athomewithchef, #isolife"
   - username: "kim_kine"
     fullname: >-
       KIM KINE 🌱 Health & Wellness
+    bio: >-
+      🌱 Follow for wellness, mindset and mobility tips! 🦴 Holistic chiropractor @openspacehealing 💌 kimkineblog@gmail.com 🇦🇺 Perth, Australia
     location: "Australia"
-    followers: 25276
-    engagement: 374
-    commentsToLikes: 0.164670
+    followers: 27618
+    engagement: 467
+    commentsToLikes: 0.155444
     id: ck6u66xpmdvd00j71iuzx91jz
     verified: false
-    hashtags: "#makesustainabilitysexy, #wolvenchallenge, #maythefourthbewithyou, #tonguescraper"
-  - username: "pennylaneisthename"
+    hashtags: "#worldofasians, #mobility, #wellnesswednesday, #healthybody"
+  - username: "annasherchand"
     fullname: >-
-      𝐏 𝐄 𝐍 𝐍 𝐘   𝐋 𝐀 𝐍 𝐄
+      Solo Female Travel
+    bio: >-
+      Helping you with adventure-lux travel tips, food & wellness 🌎5 continents, 48 countries & lived in 8 since 2015 from 🇦🇺🇳🇵 📩anna@annasherchand.com
     location: "Australia"
-    followers: 59133
-    engagement: 429
-    commentsToLikes: 0.016966
-    id: ck6tkl14a4wzk0j715csb0cki
+    followers: 78667
+    engagement: 169
+    commentsToLikes: 0.065842
+    id: ck5hqueq2tqnp0i11do03hyvs
     verified: false
-    hashtags: "#stormdennis, #happyvalentinesday, #tate, #reflexology"
+    hashtags: "#secretsydneyspots, #nswnationalparks, #sydneysecret, #sydneysummers"
+  - username: "sarahjane_clarke"
+    fullname: >-
+      Sarah-Jane Clarke
+    bio: >-
+      Entrepreneur & mindset coach. Considered fashion capsules, travel & wellness inspiration. I help people change their relationship with alcohol.
+    location: "Australia"
+    followers: 33403
+    engagement: 273
+    commentsToLikes: 0.043330
+    id: ck5hflwgsy3or0i11i1h5xmgg
+    verified: true
+    hashtags: "#fathersday, #dryjuly, #banthebinge, #openingsoon"
+  - username: "bazaarmumma"
+    fullname: >-
+      KIRI VASALES
+    bio: >-
+      Fashion • Motherhood • Wellness 🇦🇺 Designer of @kiriakiswim Managed by jess@thetalentcollective.com.au
+    location: "Australia"
+    followers: 25542
+    engagement: 143
+    commentsToLikes: 0.062148
+    id: ck0w6as7u7oh70i1900nu439n
+    verified: false
+    hashtags: "#gigi, #day542ofnosleep, #mumlife, #todaysmantra"
   - username: "elliejbrooksss"
     fullname: >-
-      EL🌺
+      EL
+    bio: >-
+      Professional Surfer🇦🇺 || Health & Wellness Mentor / Surf Coach for girls @inmotionsurf 🌸✨🌈
     location: "Australia"
-    followers: 48716
-    engagement: 265
-    commentsToLikes: 0.013256
+    followers: 48957
+    engagement: 283
+    commentsToLikes: 0.017781
     id: ck15pgc74xqk10i19eqqddd4u
     verified: false
-    hashtags: "#earthdayeveryday, #covid, #frolicking, #iso"
-  - username: "taniadalton"
+    hashtags: "#youfoodzpartner, #sponsored, #mentor, #youfoodz"
+  - username: "chloeszep"
     fullname: >-
-      Tania Dalton
+      CHLOE SZEPANOWSKI
+    bio: >-
+      Mind, body, spirit & all things holistic wellness 🌱 @chloeandmitch + Arti 👶🏼 Owner (activewear): @szep Co-owner: @bloomapp & @selfcareculture
     location: "Australia"
-    followers: 41718
-    engagement: 266
-    commentsToLikes: 0.093841
-    id: ck8t0il31s6jg0j78me43d6mp
-    verified: false
-    hashtags: "#takemeback, #needvitaminsea, #healthyover50, #50plusandfabulous"
-  - username: "bonnee_fahlstrom"
+    followers: 665672
+    engagement: 676
+    commentsToLikes: 0.014535
+    id: ck14jtz3zm6bw0i19qmdbn310
+    verified: true
+    hashtags: ""
+  - username: "dani___stevens"
     fullname: >-
-      🤍BONNEE 🤍
+      Dani Stevens (nee Samuels)
+    bio: >-
+      Discus chucker | @ASICS 🌏 World Champion 💛 Commonwealth Champion 💚 Australia, sport, family, health and wellness 🌻 PE teacher in the making
     location: "Australia"
-    followers: 141322
-    engagement: 53
-    commentsToLikes: 0.054501
-    id: ck15q4iox125y0i19zpqujypm
+    followers: 5413
+    engagement: 811
+    commentsToLikes: 0.021283
+    id: ck6uf03vju2bt0j71gsowmmwa
+    verified: true
+    hashtags: "#athleticsaustralia, #asics, #tokyotogether, #imoveme"
+  - username: "sharlenefletcher_"
+    fullname: >-
+      SHAR ♡
+    bio: >-
+      ☆ Creating wholesome desserts since 2013 ♥︎ Family. Health. Wellness. ♡ Mama to Edward Hackett ★ Download my Ebook in the link below
+    location: "Australia"
+    followers: 43424
+    engagement: 397
+    commentsToLikes: 0.064916
+    id: ck600xb1reg220i14s7sgaoed
     verified: false
-    hashtags: "#melbournemodel, #covid19, #stayhome, #australianart"
+    hashtags: "#vegan, #family, #wellness, #babyhacky"
+  - username: "littlekalegirl"
+    fullname: >-
+      by Dasha
+    bio: >-
+      Health and wellness 🌱• Mum 🏌🏻‍♀️👧🏽 • Yoga 🧘🏻‍♀️ • 🎗• 🇦🇺🇵🇱• ⚖️ 📍Australia For collaborations📧 ⬇️ @starlightau
+    location: "Australia"
+    followers: 81611
+    engagement: 308
+    commentsToLikes: 0.070264
+    id: ck0vwfjshtg590i19hhajdh3j
+    verified: false
+    hashtags: "#zdrowo, #perthlife, #foodart, #breakfastideas"
+  - username: "ashtonwood"
+    fullname: >-
+      Ashton Wood
+    bio: >-
+      Australian 🐨🌻🦋🌴💧🌞 🦀✨ freelance model // creative // wellness 💌 ashtonrwood@hotmail.com GET MY E-BOOKS NOW ↙️
+    location: "Australia"
+    followers: 363295
+    engagement: 307
+    commentsToLikes: 0.006516
+    id: ck5zpdcn2sh050i14liq5rkqp
+    verified: false
+    hashtags: "#nastygalsdoitbetter"
 ---

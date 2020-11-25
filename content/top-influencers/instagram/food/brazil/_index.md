@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Brazil In 2020
 description: >-
-  Find top food Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #dogs #traveldeeper #parcialbbb.
+  Find top food Instagram influencers in Brazil in 2020. Most popular hashtags: #fotografia #quarentena #tbt.
 platform: Instagram
+hits: 1025
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1025 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "theluckysalamander"
-    fullname: >-
-      Lucky Salamander
-    location: "Brazil"
-    followers: 36602
-    engagement: 1071
-    commentsToLikes: 0.055409
-    id: ck8szn8f1p2nx0j78atpg3bgj
-    verified: false
-    hashtags: "#e3, #e32019"
-  - username: "lauura.miranda"
-    fullname: >-
-      ʟᴀᴜʀᴀ ᴍɪʀᴀɴᴅᴀ
-    location: "Brazil"
-    followers: 201431
-    engagement: 545
-    commentsToLikes: 0.145305
-    id: ck5hcx4znke7f0i11v137r27c
-    verified: false
-    hashtags: "#tbt"
-  - username: "rafinhaaaaa"
-    fullname: >-
-      RAFA VALENÇA COUTINHO 🌈
-    location: "Brazil"
-    followers: 5614
-    engagement: 1078
-    commentsToLikes: 0.086362
-    id: ckaotdwnzvi7z0i78eazacr6i
-    verified: false
-    hashtags: "#atostaelinda, #doglover, #vscogram, #myfrenchie"
-  - username: "gabriellfreitass"
-    fullname: >-
-      GABRIEL FREITAS
-    location: "Brazil"
-    followers: 102348
-    engagement: 362
-    commentsToLikes: 0.048386
-    id: ck8tbx7v3xjat0j78pej9cdno
-    verified: false
-    hashtags: "#oxfordcookware, #mccainaoforno, #compartilhereceitas, #oxfordnasuarotina"
-  - username: "lyviaroberta_"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀Lyvia Roberta 🦋
-    location: "Brazil"
-    followers: 8473
-    engagement: 1674
-    commentsToLikes: 0.236941
-    id: ck8tauhayt3yc0j78f10meouk
-    verified: false
-    hashtags: "#agradecer, #amor, #foto, #finalbbb"
   - username: "kertes_"
     fullname: >-
       Bruna Kertes
+    bio: >-
+      lifestyle | geek | games | food | decor 💌oikertes@gmail.com
     location: "Brazil"
-    followers: 15512
-    engagement: 798
-    commentsToLikes: 0.069259
+    followers: 16014
+    engagement: 1092
+    commentsToLikes: 0.231020
     id: ck8t1xukqxh7w0j785qxr2ypi
     verified: false
-    hashtags: "#stayhome, #ape41a"
-  - username: "laribbotelho"
+    hashtags: "#ape41a, #silverhair, #platinado, #scandihome"
+  - username: "lyviaroberta_"
     fullname: >-
-      Larissa Brandão Botelho
+      Lyvia Roberta ✨
+    bio: >-
+      🏡| Alagoana 🙌🏻| God is love 💍| Lucas Martins 📲| Aceito parcerias e jobs 📌| Dailylife-blogger-beauty-food 💕| Seja morada de sentimentos bons.
     location: "Brazil"
-    followers: 2497
-    engagement: 1450
-    commentsToLikes: 0.215901
-    id: ck8t26ww8yd620j780em7wfjm
+    followers: 8694
+    engagement: 1115
+    commentsToLikes: 0.210868
+    id: ck8tauhayt3yc0j78f10meouk
     verified: false
-    hashtags: "#tbt"
-  - username: "brrumaia"
+    hashtags: "#likes, #lightroompresets, #feedorganizado, #arapiraca"
+  - username: "vii_freitasxw"
     fullname: >-
-      BRUNA MAIA
+      ANDRESSA VIVIANE FREITAS
+    bio: >-
+      • orar, esperar e agradecer ✨lifestyle | fashion | food → Rondonópolis | MT
     location: "Brazil"
-    followers: 26123
-    engagement: 261
-    commentsToLikes: 0.079440
-    id: ckap2c5ury7vo0i78uvxhduo4
+    followers: 5076
+    engagement: 2328
+    commentsToLikes: 0.437676
+    id: ckap1k5s5uvkx0i78z6icwrd1
+    verified: false
+    hashtags: "#formaturaengenhariacivil, #photograph, #photo, #fotografia"
+  - username: "rafaelaalexandra0"
+    fullname: >-
+      Rafaela Duarte | Healthy 💫
+    bio: >-
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+    location: "Brazil"
+    followers: 51046
+    engagement: 628
+    commentsToLikes: 0.041349
+    id: ckapbzw1a1xic0i78r1nx98i6
+    verified: false
+    hashtags: "#breakfastideas, #fruit, #foodie, #pub"
+  - username: "myketakashi"
+    fullname: >-
+      Myke Takashi
+    bio: >-
+      ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
+    location: "Brazil"
+    followers: 13256
+    engagement: 982
+    commentsToLikes: 0.064936
+    id: ckap1g78xugko0i78k3czew7o
+    verified: false
+    hashtags: "#lagoaazul, #tbt, #blackouttuesday"
+  - username: "vinibuttel"
+    fullname: >-
+      Vini Büttel
+    bio: >-
+      @mtvbrasil Lifestyle | Food | Sports | Travel 📫vinibuttel@hotmail.com
+    location: "Brazil"
+    followers: 155186
+    engagement: 614
+    commentsToLikes: 0.015493
+    id: ckf5q484584s60j23doxiyshz
+    verified: false
+    hashtags: "#2905, #choratio, #frangoprateado, #quarentenamaldita"
+  - username: "ana_gregory"
+    fullname: >-
+      Ana Gregory
+    bio: >-
+      • lifestyle •travel • fashion •food •makeup - modelo fotográfica - @foodpelomundo Whatsapp da Assessoria: (85) 996296748 COMPRA DO MEU PRESET 👇🏻
+    location: "Brazil"
+    followers: 153927
+    engagement: 492
+    commentsToLikes: 0.029072
+    id: ck0vw54z1s5cv0i19d0u46j2y
+    verified: false
+    hashtags: "#publi, #colors, #colorful, #colorblock"
+  - username: "rafabuzinari"
+    fullname: >-
+      RAFAELLA BUZINARI ✈️ Travel
+    bio: >-
+      🇧🇷Brazilian in Dubai 🇦🇪 ✨Travel • Foodie • Lifestyle 🌎I moved to another country on my own 4 times 💌 rafaellabuzinari@gmail.com
+    location: "Brazil"
+    followers: 8187
+    engagement: 954
+    commentsToLikes: 0.068909
+    id: ck9wehowwkbf10j78xcuvqvxe
     verified: false
     hashtags: ""
-  - username: "nessavalentini"
+  - username: "natialves87"
     fullname: >-
-      Vanessa Valentini
+      Natalia Thais Alves
+    bio: >-
+      Outdoor Sports Lifestyle & Health Food 🇧🇷 Natural Chef 👩🏼‍🍳 ✉️ contato.natialves@outlook.com Assista os Stories 🔛
     location: "Brazil"
-    followers: 30817
-    engagement: 239
-    commentsToLikes: 0.093376
-    id: ck5q4zwfyqu3x0i11r6tff78c
+    followers: 50688
+    engagement: 453
+    commentsToLikes: 0.034240
+    id: ck8t1to2nwzmq0j7856swjcts
     verified: false
-    hashtags: "#conselhodefarmacia, #jogatudochallenge, #5demaio"
-  - username: "franviana"
+    hashtags: ""
+  - username: "_greenga"
     fullname: >-
-      Fran viana
+      // paola s. troian
+    bio: >-
+      . VAMOS REPENSAR O MUNDO? 🌏 . ⚡️ colunista @voguebrasil 🧠 #reprograma ⁣🚀 futurismo 👽 autenticidade⁣ 🌱 vegan⁣/kind-food ✌️ cineasta/chef/bizdev⁣ 📍 POA
     location: "Brazil"
-    followers: 123904
-    engagement: 207
-    commentsToLikes: 0.049841
-    id: ck0w1pkhwki960i19k6p9vqhj
+    followers: 26169
+    engagement: 225
+    commentsToLikes: 0.074444
+    id: ck13affvmq4za0i1971iz2tvh
     verified: false
-    hashtags: "#tbt, #110kdafran"
+    hashtags: "#alimentos, #tbt, #org, #oqtdb"
 ---

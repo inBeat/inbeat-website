@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top music TikTok influencers in United Kingdom in 2020. Most popular hashtags: #sing #selflove #vibecheck #oneliners.
+  Find top music TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryoupage #voiceeffects #foryou.
 platform: TikTok
+hits: 975
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 975 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "emilio.moreno"
+  - username: "hbcoolcat"
     fullname: >-
-      Emilio🧢
+      Hannah O'Sullivan 
+    bio: >-
+      I’m a musically OG 💓 35 makeup cosplay 💓 please drop a like or comment 🐰
     location: "United Kingdom"
-    followers: 332891
-    engagement: 2197
-    commentsToLikes: 0.034517
-    id: ck8sahdgi24140j78e8zhdwnl
+    followers: 93300
+    engagement: 2004
+    commentsToLikes: 0.102137
+    id: ckbwl7q94407c0j23fqqfvcpw
+    verified: true
+    hashtags: "#makeup, #fyp, #transition, #theshining"
+  - username: "iamtobygrey"
+    fullname: >-
+      Toby Grey
+    bio: >-
+      (She/her) 🎤 I am a singer and songwriter. Pls check out my music below👇💙🌴
+    location: "United Kingdom"
+    followers: 123100
+    engagement: 3298
+    commentsToLikes: 0.051164
+    id: ckd08h31ob5f00j23oqlqkmi3
     verified: false
-    hashtags: "#funny, #joke, #tiktoktraditions, #thanksmum"
-  - username: "virginboi"
+    hashtags: "#fyp, #foryou, #tobygreyhair, #foryoupage"
+  - username: "officialicydarabbit"
     fullname: >-
-      VirginBoi
+      IcyDaRabbit
+    bio: >-
+      ⬇️⬇️ Listen to my music down below! ⬇️⬇️
     location: "United Kingdom"
-    followers: 63327
-    engagement: 1969
-    commentsToLikes: 0.037711
+    followers: 77700
+    engagement: 2097
+    commentsToLikes: 0.057760
     id: ck8kkzlqp1mpl0j783n35k1ji
     verified: false
-    hashtags: "#youtooz, #brats, #virgingrl, #artist"
-  - username: "megdegay"
+    hashtags: "#rap, #spotify, #lmao, #memes"
+  - username: "sanctuaryvegan"
     fullname: >-
-      Megs 🌈🥺
+      Matthew Sanctuary
+    bio: >-
+      Vegan 🌱 musician 🎵 Following back 💯 songwriter 🔥for @mattyglilwinter
     location: "United Kingdom"
-    followers: 9003
-    engagement: 2733
-    commentsToLikes: 0.040806
-    id: ck8nfz82vu4wt0j788ft59wtw
+    followers: 9066
+    engagement: 1924
+    commentsToLikes: 0.211800
+    id: ckcj5asmo5m4b0j23pedom2ma
     verified: false
-    hashtags: "#foryou, #drawing, #musically, #sisters"
-  - username: "justletmeadoreyou_"
+    hashtags: "#youbettheydie, #veganchallenge, #voiceeffects, #vegan"
+  - username: "fullofpith"
     fullname: >-
-      harry edward styles
+      Leo
+    bio: >-
+      ♡ Leo, 32, he/they ♡ ☆ art, poetry, music, makeup & spicy opinions ☆
     location: "United Kingdom"
-    followers: 22416
-    engagement: 3098
-    commentsToLikes: 0.026480
-    id: ck9r3ems1peip0j78ijrhisz5
+    followers: 25300
+    engagement: 1782
+    commentsToLikes: 0.105389
+    id: ck8nfz4k2u3z80j78i8mklopi
     verified: false
-    hashtags: "#hslot, #outift, #close, #rosesarered"
-  - username: "algiovannelli_music"
+    hashtags: "#knowmyownface, #myfacenofilter, #hethey, #makeupfail"
+  - username: "popbuzz"
     fullname: >-
-      Al
+      PopBuzz
+    bio: >-
+      ⚡️ memes, music and movie stars ⚡️ 😎 new vids every weekday 😎
     location: "United Kingdom"
-    followers: 29344
-    engagement: 1854
-    commentsToLikes: 0.040678
-    id: ck9fllmdhoi5m0j789l9bwglx
-    verified: false
-    hashtags: "#beautifulgirls, #mashup, #aprilfools, #sadsong"
-  - username: "minie_eli"
+    followers: 281000
+    engagement: 2319
+    commentsToLikes: 0.017614
+    id: ckbbgehwg51k00j23bg0hkjwk
+    verified: true
+    hashtags: "#danielradcliffe, #fanfic, #harrystyles, #robertpattinson"
+  - username: "chloedianamusic"
     fullname: >-
-      minie_eli
+      chloedianamusic
+    bio: >-
+      new song ‘Insomnia’ OUT NOW!! & music vid on YouTube
     location: "United Kingdom"
-    followers: 18688
-    engagement: 1257
-    commentsToLikes: 0.114119
-    id: ckai6c4y4vj0y0i78ashytdel
+    followers: 19100
+    engagement: 2149
+    commentsToLikes: 0.115275
+    id: ck8oze62rbnzs0j78oy55826c
     verified: false
-    hashtags: "#tiktokukfashion, #mumsoftiktok, #famchallenge, #supportsinglemums"
-  - username: "thomasjohnson9_3"
+    hashtags: "#viral, #trend, #featureme, #newmusic"
+  - username: "noah_horne"
     fullname: >-
-      Thomas Johnson
+      Noah Horne 
+    bio: >-
+      🎤 Singer 🎤 ✍️Songwriter✍️ 🎶Harpist🎶 🎭Actor 🎭 Music and petitions in link⬇️
     location: "United Kingdom"
-    followers: 8341
-    engagement: 1150
-    commentsToLikes: 0.250630
-    id: cka6qyyxipin60i78i6st5o38
+    followers: 2712
+    engagement: 2821
+    commentsToLikes: 0.270298
+    id: ckbbg0i154njf0j23qnf92yov
     verified: false
-    hashtags: "#film, #crushedit, #question, #minime"
-  - username: "skylightparade"
+    hashtags: "#harpist, #singer, #lgbt, #harptiktok"
+  - username: "itsjoedavison"
     fullname: >-
-      Skylight Parade
+      Joe Davison
+    bio: >-
+      🌏Hiii🌏 🥛✨Milkgang✨🥛 💞😝Musical.ly vibes😝💞 I WILL RETURN TO TIKTOK😝😁🥰💞
     location: "United Kingdom"
-    followers: 2644
-    engagement: 2108
-    commentsToLikes: 0.067939
-    id: cka0oev3v3l0u0i78of7blyz4
+    followers: 206600
+    engagement: 2382
+    commentsToLikes: 0.113391
+    id: ckb96sb5np37n0j23am67wvw0
     verified: false
-    hashtags: "#tigerking, #viral, #piano, #cold"
-  - username: "heyitscondor"
+    hashtags: "#milkgang, #fyp, #musicallyvibes, #viral"
+  - username: "edleetunes"
     fullname: >-
-      Connor Ball
+      EdLee
+    bio: >-
+      Follow me on Instagram ^ Singer/Songwriter 🎵 ⬇️ Check Out My Music ⬇️
     location: "United Kingdom"
-    followers: 46374
-    engagement: 1754
-    commentsToLikes: 0.026954
-    id: ck9107kcjgpg70j78sxb3tlz3
+    followers: 48100
+    engagement: 1973
+    commentsToLikes: 0.075102
+    id: ck9ej7fby14gj0j789n5azzee
     verified: false
-    hashtags: "#memories, #yungblud, #justinbieber, #bestofthe80s"
-  - username: "thebradleyhunt"
-    fullname: >-
-      BRADLEY HUNT
-    location: "United Kingdom"
-    followers: 94357
-    engagement: 1613
-    commentsToLikes: 0.025841
-    id: ck8kgq144jmzm0j78hdq5l97k
-    verified: false
-    hashtags: "#farmer, #mannequin, #tanning, #starships"
+    hashtags: "#coversongs, #singingvideo, #newmusic, #coversong"
 ---

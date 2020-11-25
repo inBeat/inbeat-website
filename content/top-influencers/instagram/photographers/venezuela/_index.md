@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top photographers Instagram influencers in Venezuela in 2020. Most popular hashtags: #photographer #photography #moda #fashion.
+  Find top photographers Instagram influencers in Venezuela in 2020. Most popular hashtags: #photography #model #photographer #portrait.
 platform: Instagram
+hits: 29
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 29 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
   - username: "changophoto"
     fullname: >-
       Johan Chango
+    bio: >-
+      Fashion & Beauty Photographer Caracas, Venezuela
     location: "Venezuela"
-    followers: 26816
-    engagement: 462
-    commentsToLikes: 0.042098
+    followers: 29885
+    engagement: 785
+    commentsToLikes: 0.039853
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#mua, #fashionpost, #missvenezuela, #shooting"
+    hashtags: "#changophoto, #firepoi, #acrobatics, #ten"
   - username: "hamslight"
     fullname: >-
-      Fotógrafa.🌸
+      Hamsa | Fotógrafa.🌸🦋✨
+    bio: >-
+      🎨"Capturando momentos como un susurro de esperanza 📸Photographer | Portrait | Marcas 📩Contrataciones
     location: "Venezuela"
-    followers: 11910
-    engagement: 853
-    commentsToLikes: 0.078051
+    followers: 15174
+    engagement: 697
+    commentsToLikes: 0.087684
     id: ck602ycpyjzqd0i14ihhuwav8
     verified: false
-    hashtags: "#muerte, #cuarentenatime, #margarita, #boss"
+    hashtags: "#earth, #portraitunit, #flowers, #portraitvzla"
+  - username: "ivanjphoto"
+    fullname: >-
+      IVÁN OLIVARES 📸
+    bio: >-
+      Lifestyle | Artist | Live Shows Photographer @_osoworld @ivanjolivaresj 📍 Caracas, Vz | 21 🌗
+    location: "Venezuela"
+    followers: 43680
+    engagement: 300
+    commentsToLikes: 0.027933
+    id: ck5ces3opllr30i11b8l93530
+    verified: false
+    hashtags: "#portraits, #makeup, #earth, #artshub"
   - username: "lunanavarro"
     fullname: >-
       O. Luna Navarro
+    bio: >-
+      Photographer & Retoucher 💌Lunanavarroph@gmail.com 🥐@lunanavarro.food 👰🏼 @bridesbyluna ☀️ @byluah PHLEARN INTERVIEW ⚡️⬇️
     location: "Venezuela"
-    followers: 14312
-    engagement: 490
-    commentsToLikes: 0.021040
+    followers: 15118
+    engagement: 433
+    commentsToLikes: 0.024368
     id: ck5c8yj56afz30i11wdsvm4n8
     verified: false
-    hashtags: "#portraitsdecuarentena, #fashionphotography, #model, #canon"
+    hashtags: "#photographyreels, #beforeandafter, #latiti, #fashion"
   - username: "caosanchez"
     fullname: >-
       Cao
+    bio: >-
+      Photographer with special interest in social issues Caracas, Venezuela c.sanchezfaria@gmail.com
     location: "Venezuela"
-    followers: 5777
-    engagement: 700
-    commentsToLikes: 0.046199
+    followers: 5724
+    engagement: 691
+    commentsToLikes: 0.046378
     id: ck5hpliekrk650i11vrd3ojqx
     verified: false
-    hashtags: "#canaima, #fujix100f, #cvvisualdiary, #coronavirus"
-  - username: "alejandrosolo1"
+    hashtags: "#everydaylatinamerica, #everydayeverywhere, #boxing, #reportagespotlight"
+  - username: "dreissmars_"
     fullname: >-
-      Alejandro Solo
+      Dreissmar Soto
+    bio: >-
+      MissSuperModelVenezuela2018👑 MissTurismoFitnessVzla2017👑 1'FinalistaMTAragua2017👑 Com.Social. Publicidad al direct.
     location: "Venezuela"
-    followers: 17550
-    engagement: 346
-    commentsToLikes: 0.010446
-    id: ck5hqx76btvtl0i11adzjzgj4
+    followers: 17180
+    engagement: 790
+    commentsToLikes: 0.522934
+    id: ck8t0r0x6sz2q0j78xciwnw1u
     verified: false
-    hashtags: "#boat, #barco, #boats, #barcos"
-  - username: "alsantafe"
+    hashtags: "#camisa, #outfits, #shooting, #design"
+  - username: "edwinrphoto"
     fullname: >-
-      soy el mejor
+      EDWIN RAMOS
+    bio: >-
+      Portrait - Fashion - Lifestyle 📸Sesiones al DM📩 📍Valencia-Venezuela
     location: "Venezuela"
-    followers: 5631
-    engagement: 845
-    commentsToLikes: 0.277938
-    id: ck6tk6qm743wg0j71s87s862t
+    followers: 10294
+    engagement: 509
+    commentsToLikes: 0.132008
+    id: ck55lgk1g1ijx0i11mysfzi1g
     verified: false
-    hashtags: "#moodygrams, #promociones, #bravoportraits, #portraitsociety"
-  - username: "alamoshoot"
+    hashtags: "#portrait, #portraitmood, #artofportrait, #theworldofportraits"
+  - username: "fonsecafotografia"
     fullname: >-
-      David alamo
+      Leonardo Fonseca - Fotografia
+    bio: >-
+      Fotógrafo de Bodas y Eventos Sociales 📞+58 424 6359842 📨 fotolf@hotmail.com Venezuela / Panama / Colombia / Aruba
     location: "Venezuela"
-    followers: 2303
-    engagement: 1118
-    commentsToLikes: 0.131892
-    id: ck8sztox3po7o0j78xvvoaw39
+    followers: 35327
+    engagement: 124
+    commentsToLikes: 0.083102
+    id: ck5cjidr3us630i11nj7ml15i
     verified: false
-    hashtags: "#canon, #photographer, #retoucher, #flowers"
-  - username: "instataniam"
+    hashtags: "#beautiful, #espan, #venezuela, #instagood"
+  - username: "artgsamuel"
     fullname: >-
-      Tania Mafilito
+      ARTEAGA SAMUEL
+    bio: >-
+      God always guide me ✨ Photography and video is my passion 📷 My art is the cakes 🍫 @pastriesmcbo CEO: @artecortte ✂️
     location: "Venezuela"
-    followers: 13984
-    engagement: 530
-    commentsToLikes: 0.056198
-    id: ck0tw1hdidm3q0i19wcp2feij
+    followers: 2241
+    engagement: 1011
+    commentsToLikes: 0.123407
+    id: ck6uhjsya9j100j71c30pqwge
     verified: false
-    hashtags: "#valencia, #education, #argentina, #paint"
-  - username: "carlingil_"
+    hashtags: "#mitu, #photooftheday, #style, #fashion"
+  - username: "alegfoto"
     fullname: >-
-      𝐂𝐀𝐑𝐋𝐈𝐍 𝐀𝐍𝐆𝐄𝐋𝐘 𝐀𝐍𝐆𝐔𝐋𝐎 𝐆𝐈𝐋 🌻🧿
+      Alejandro Gonzalez 🇻🇪
+    bio: >-
+      ▪️Portrait x Fashion x Life Style 📷 ▪️Retoucher & Editor🖥 ▪️Blogger ▪️Booking•Presets•Workshop online ➡️ Direct Project #portratorial
     location: "Venezuela"
-    followers: 12005
-    engagement: 622
-    commentsToLikes: 0.100510
-    id: ck5q43i7gnlfx0i11mbc5b8go
+    followers: 64487
+    engagement: 602
+    commentsToLikes: 0.031560
+    id: ck0ubyi0lfmm80i19jyt5bbm0
     verified: false
-    hashtags: "#mom, #gratitud, #reflection, #new"
-  - username: "pedrojose.ph"
-    fullname: >-
-      Pedro José
-    location: "Venezuela"
-    followers: 5581
-    engagement: 632
-    commentsToLikes: 0.054512
-    id: ck6ubvbv6bx0k0j71byvcmptf
-    verified: false
-    hashtags: "#tagify, #moda, #fashionstyle, #temacuarentena"
+    hashtags: "#instagood, #photoshoot, #cuarentena, #photooftheday"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Spain In 2020
 description: >-
-  Find top beauty TikTok influencers in Spain in 2020. Most popular hashtags: #beautymode #love #dance #comediaenespa.
+  Find top beauty TikTok influencers in Spain in 2020. Most popular hashtags: #beauty #fyp #viral #makeupartist.
 platform: TikTok
+hits: 78
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 78 TikTok influencers like this in Spain for you to contact.
 profiles:
-  - username: "albaaromeroo"
+  - username: "anutabelike"
     fullname: >-
-      Alba Romero
+      Annett
+    bio: >-
+      💜i'm 17💜 💄beauty and fashion🛍 ...☝🏻russian girl☝🏻...
     location: "Spain"
-    followers: 63071
-    engagement: 1605
-    commentsToLikes: 0.036487
-    id: ck8w2s6vz676a0j78w5zf37bk
+    followers: 17300
+    engagement: 1398
+    commentsToLikes: 0.046619
+    id: ck81s127zp8t00j78lanh49dt
     verified: false
-    hashtags: "#crush, #meet, #clown, #helpme"
-  - username: "mariohervas"
+    hashtags: "#outfits, #fyp, #fashion, #minecraft"
+  - username: "annersite"
     fullname: >-
-      Mario Hervas 
+      ANNERSITE
+    bio: >-
+      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
     location: "Spain"
-    followers: 2314140
-    engagement: 1090
-    commentsToLikes: 0.013699
-    id: ck8nhe1p60h410j789l99io11
+    followers: 410700
+    engagement: 2535
+    commentsToLikes: 0.016004
+    id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#cuerpo10, #instagram, #superhero, #dance"
-  - username: "nadina_ioana"
+    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
+  - username: "imani_amal"
     fullname: >-
-      Nadina Ioana
+      Imani.amal
+    bio: >-
+      It’s not her beauty, it’s her vibe 🇹🇹🇲🇦🏝 Music and comedy
     location: "Spain"
-    followers: 334667
-    engagement: 568
-    commentsToLikes: 0.007995
-    id: cka637f4a34p40i787pow9lle
+    followers: 41200
+    engagement: 864
+    commentsToLikes: 0.075978
+    id: ckbbpylnwdsls0j235h7dsmhq
     verified: false
-    hashtags: "#lipinjetions, #coverage, #edgesonfleek, #weird"
-  - username: "lyseea"
+    hashtags: "#relatable, #comedy, #joke, #northafrican"
+  - username: "vittoriasajir"
     fullname: >-
-      Lyseea
+      VittoriaSajir
+    bio: >-
+      YT & IG ☀️ VITTORIASAJIR 💙Mom of Ricky and Sebas💙 💄 Beauty • Fitness 💪
     location: "Spain"
-    followers: 13387
-    engagement: 721
-    commentsToLikes: 0.024700
-    id: ck933hpz8o3b00j78j2dmvft3
+    followers: 10700
+    engagement: 1425
+    commentsToLikes: 0.013665
+    id: ckbf4v8qctibw0j23fvum35uj
     verified: false
-    hashtags: "#princessbelle, #disneymode, #humor, #disneylife"
-  - username: "melissabitondo"
+    hashtags: "#estate, #estate2020, #perte, #weightloss"
+  - username: "joago.org"
     fullname: >-
-      Melissabitondo
+      JOAGO 
+    bio: >-
+      Best surfing content on Insta 🏄‍♂️ Helping show the beauty of this planet 🌏
     location: "Spain"
-    followers: 16529
-    engagement: 524
-    commentsToLikes: 0.023751
-    id: cka0gdg0n3vzi0i78hmfey6re
+    followers: 37872
+    engagement: 1089
+    commentsToLikes: 0.026743
+    id: ckb0pq716fl330j23xcwva3k0
     verified: false
-    hashtags: "#skincaretips, #moda, #comediaenespa, #recetacasera"
-  - username: "tiktoketeo"
+    hashtags: "#crazy, #air, #sweet, #quarantine"
+  - username: "ssharankyna"
     fullname: >-
-      TikTok Fin Fan Fun
+      Anna - Ssharankyna
+    bio: >-
+      Barcelona 📍 #pregnancy #lifestyle #beauty #fashion #travel *Chemical Engineer*
     location: "Spain"
-    followers: 12766
-    engagement: 1052
-    commentsToLikes: 0.003790
-    id: ckamqg2zjh9op0i78td44t49l
+    followers: 3314
+    engagement: 521
+    commentsToLikes: 0.018114
+    id: ckd07ty3aawzu0j23t8s9wxiy
     verified: false
-    hashtags: "#monday, #queen, #love, #nice"
-  - username: "christianmxral"
+    hashtags: "#reciennacido, #dulceespera, #pregnantstyle, #embarazada"
+  - username: "gotymakeup3"
     fullname: >-
-      Christian Maral
+      gotymakeup3
+    bio: >-
+      Ig @GOTYMAKEUP3 🖤
     location: "Spain"
-    followers: 156777
-    engagement: 3102
-    commentsToLikes: 0.023328
-    id: cka0q60xmbe8h0i788ozaklu1
+    followers: 12100
+    engagement: 1078
+    commentsToLikes: 0.015452
+    id: ckbaa1fr62r5g0j236xmd3fms
     verified: false
-    hashtags: "#beauty, #coronavirus, #coreano, #couple"
-  - username: "vickivickota"
+    hashtags: "#makeupartist, #maquillaje, #beforeandafter, #makeupchallenge"
+  - username: "pablss.dvil"
     fullname: >-
-      vickivickota
+      Pabliss
+    bio: >-
+      Ay no me agobies.
     location: "Spain"
-    followers: 37271
-    engagement: 1751
-    commentsToLikes: 0.043969
-    id: ck9n6385871uc0j78fv644wqn
+    followers: 8649
+    engagement: 1227
+    commentsToLikes: 0.023409
+    id: ckbqmisd87iqa0j2331kkfj9g
     verified: false
-    hashtags: "#happydance, #flamenco, #aburrida, #homemade"
-  - username: "yosoylydia_"
+    hashtags: "#makeupartist, #gay, #matte, #beautyboy"
+  - username: "electrogirls"
     fullname: >-
-      Lydia Díaz
+      ElectroGirls
+    bio: >-
+      🚀 Girls & Electronic Music 🔥 Send us your Videos 🌍 Welcome to Our World
     location: "Spain"
-    followers: 9960
-    engagement: 729
-    commentsToLikes: 0.079279
-    id: cka0ny7351dd50i78jwqlc9in
+    followers: 30500
+    engagement: 696
+    commentsToLikes: 0.010346
+    id: ckb9d7b490bgk0j2358s9169c
     verified: false
-    hashtags: "#tipsparachicas, #anamilan, #responsabilidad, #mujer"
-  - username: "lingxi_qiu"
+    hashtags: "#amelielens, #beauty, #peggygou, #music"
+  - username: "ayelenbaixauli"
     fullname: >-
-      qiulingxi
+      Ayelén Baixauli Machado
+    bio: >-
+      💜 IG // @ayelenbaixaulii
     location: "Spain"
-    followers: 17729
-    engagement: 2414
-    commentsToLikes: 0.026093
-    id: ckamf71ge6s200i78tmwpm1xs
+    followers: 18900
+    engagement: 989
+    commentsToLikes: 0.009732
+    id: ckdbzyat7f67z0j23tmdeyz8w
     verified: false
-    hashtags: "#aprenderchino, #chopsticks, #psicopata, #bromaperro"
+    hashtags: "#foryoupage, #viral, #duo, #beauty"
 ---

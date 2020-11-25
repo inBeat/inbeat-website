@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top gaming TikTok influencers in United Kingdom in 2020. Most popular hashtags: #thankyou #xbox #gaming #tiktok.
+  Find top gaming TikTok influencers in United Kingdom in 2020. Most popular hashtags: #foryou #gaming #foryoupage #fyp.
 platform: TikTok
+hits: 481
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 481 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "gamingdaily"
+    fullname: >-
+      Gaming
+    bio: >-
+      250k?📈 👑For the boys👑 ♦️Follow for more gaming content♦️
+    location: "United Kingdom"
+    followers: 206300
+    engagement: 1541
+    commentsToLikes: 0.041339
+    id: ckb9uqjq8tpmz0j238f78efo0
+    verified: false
+    hashtags: "#gamingdaily, #tiktokgaming, #foryoupage, #fortnite"
+  - username: "roblox.with.nikki"
+    fullname: >-
+      Spam like = block 😼
+    bio: >-
+      User: XxNiki_Gaming1xX 😻😸 TYSM FOR 73.2K AND 1.1MIL LIKES! Disc: nikki#5563 :)
+    location: "United Kingdom"
+    followers: 73200
+    engagement: 2069
+    commentsToLikes: 0.081118
+    id: ckdi62c0h7a3n0j23w2n4xm75
+    verified: false
+    hashtags: "#robloxcomedy, #robloxtrend, #roblox, #bloxburg"
   - username: "jadellew"
     fullname: >-
       JadeLlew
+    bio: >-
+      Xbox:Jadellew PS4:jadellew1 Anime Gaming Oc Fun for everyone 😂
     location: "United Kingdom"
-    followers: 174208
-    engagement: 2181
-    commentsToLikes: 0.039948
+    followers: 188700
+    engagement: 1820
+    commentsToLikes: 0.031559
     id: ck8ae4kc19rwi0j78wba8qskq
     verified: false
-    hashtags: "#pathtopartner, #anime, #dog, #friends"
+    hashtags: "#funny, #lol, #fun, #duet"
   - username: "attempting_legendary_pet"
     fullname: >-
       Trying legendary pet
+    bio: >-
+      YouTube - Gaming Girls
     location: "United Kingdom"
-    followers: 36597
-    engagement: 2325
-    commentsToLikes: 0.120817
+    followers: 41200
+    engagement: 2594
+    commentsToLikes: 0.084428
     id: ck8nfymlyu03r0j78gp0itwu8
     verified: false
-    hashtags: "#roleplay, #tiktok, #like, #feelings"
-  - username: "dailygaming"
+    hashtags: "#video, #toh, #pet, #fyp"
+  - username: "kfcgaming"
     fullname: >-
-      Gaming CEO
+      KFC Gaming
+    bio: >-
+      🍗 KFC Gaming’s official TikTok account 🎮 Finger Clickin’ Good
     location: "United Kingdom"
-    followers: 301376
-    engagement: 2322
-    commentsToLikes: 0.040609
-    id: ckamivhozlpkt0i78m72dyphh
-    verified: false
-    hashtags: "#spiderman, #forzahorizon, #esports4all, #ninja"
-  - username: "xjeffthekillerx"
+    followers: 336000
+    engagement: 2195
+    commentsToLikes: 0.041686
+    id: ckcj8u3rh7i6u0j23o05pv4uy
+    verified: true
+    hashtags: "#gaming, #cod, #kfcgaming, #pc"
+  - username: "rhyscoomber"
     fullname: >-
-      Mitsuki
+      Rhys Coomber
+    bio: >-
+      I Post Gaming Videos🎮 Hope you Enjoy! 👍👍👍
     location: "United Kingdom"
-    followers: 104354
-    engagement: 2265
-    commentsToLikes: 0.015734
-    id: ck9r3n1trqrim0j78ux93sn03
+    followers: 20900
+    engagement: 1430
+    commentsToLikes: 0.064516
+    id: ckamivmvdlr330i78uh1jqq1n
     verified: false
-    hashtags: "#xbox, #addme, #whatstheprob, #tattoo"
-  - username: "fhead"
+    hashtags: "#gaming, #tiktokgaming, #gamers, #fortnite"
+  - username: "artistic_senpai.jr"
     fullname: >-
-      fhead
+      Artistic senpai jr
+    bio: >-
+      Go to my YouTube channel it is called Ar gaming 1234
     location: "United Kingdom"
-    followers: 10858
-    engagement: 1337
-    commentsToLikes: 0.048848
-    id: ck8adcfl1541o0j78ye5qxs4f
+    followers: 8168
+    engagement: 1225
+    commentsToLikes: 0.107439
+    id: ck97wb96lqeeq0j78om82bar7
     verified: false
-    hashtags: "#lockdown, #zyxbca, #newintro, #boris"
+    hashtags: "#foryoupage, #myheroacademia, #artist, #haikyuu"
+  - username: "gamingfamily_yt"
+    fullname: >-
+      gamingfamily
+    bio: >-
+      youtuber with 25k subs and 5 mill views. Follow me on twitter @gamingfamily_YT
+    location: "United Kingdom"
+    followers: 4648
+    engagement: 1008
+    commentsToLikes: 0.098640
+    id: ckdhtfv8p2yzi0j23lmpnbwdr
+    verified: false
+    hashtags: "#pok, #pokemonedit, #pokemontrainer, #pokemongoshiny"
   - username: "thehood1989"
     fullname: >-
       Craig Cooper
+    bio: >-
+      Family Man who's into gaming, anime & having a laugh! Shared with DarkStorm2236!
     location: "United Kingdom"
-    followers: 10031
-    engagement: 824
-    commentsToLikes: 0.084975
+    followers: 10300
+    engagement: 925
+    commentsToLikes: 0.101299
     id: ck8qdpoqvpc0t0j78fisfgo88
     verified: false
-    hashtags: "#imlovinit, #gamingontiktok, #lockdownlife, #followers"
-  - username: "8_pluto_8"
+    hashtags: "#channel4, #dyslexia, #cod, #houseoftiktok"
+  - username: "echo.on.top"
     fullname: >-
-      Plutofeasts
+      Twitch echo
+    bio: >-
+      Best at gaming on the planet YouTube Andrewplayz
     location: "United Kingdom"
-    followers: 5229
-    engagement: 1426
-    commentsToLikes: 0.174327
-    id: cka84abwesrf00i78klzjcyog
+    followers: 21700
+    engagement: 1375
+    commentsToLikes: 0.098262
+    id: ckc7bh4owl4x50j23p00htkam
     verified: false
-    hashtags: "#follow, #youtube, #seaoftheaves, #lava"
-  - username: "whxley"
-    fullname: >-
-      Whxley
-    location: "United Kingdom"
-    followers: 7054
-    engagement: 380
-    commentsToLikes: 0.181551
-    id: cka0qsc2vdwq10i787smz8kqr
-    verified: false
-    hashtags: "#valorantbug, #opperator, #warzonemap, #valorantace"
-  - username: "gamingplus"
-    fullname: >-
-      GamingPlus
-    location: "United Kingdom"
-    followers: 141650
-    engagement: 1647
-    commentsToLikes: 0.009846
-    id: ckaig90sc0doi0i782a12okby
-    verified: false
-    hashtags: "#rainbow6, #skate, #skateboard, #acnh"
-  - username: "cw0ffee"
-    fullname: >-
-      Cwoffee
-    location: "United Kingdom"
-    followers: 3871
-    engagement: 692
-    commentsToLikes: 0.023485
-    id: cka6fnbnygeqq0i78iy70k2ay
-    verified: false
-    hashtags: "#bork, #gottagofast, #georgemichael, #mexico"
+    hashtags: ""
 ---

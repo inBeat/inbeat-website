@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In Portugal In 2020
 description: >-
-  Find top painters Instagram influencers in Portugal in 2020. Most popular hashtags: #pinterest #painter #instagood #parisianstyle.
+  Find top painters Instagram influencers in Portugal in 2020. Most popular hashtags: #artist #winsorandnewton #summer #emergingartist.
 platform: Instagram
+hits: 17
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 17 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "strongsidestudio"
+  - username: "eudeswatercolor"
     fullname: >-
-      Diogo Sampaio
+      Eudes Correia
+    bio: >-
+      Painter, Sponsored by Winsor & Newton
     location: "Portugal"
-    followers: 38688
-    engagement: 275
-    commentsToLikes: 0.028957
-    id: ck0vx72gkxgue0i19k4r2o69x
+    followers: 112470
+    engagement: 338
+    commentsToLikes: 0.011187
+    id: ck14jcgwgjn4t0i19094jw2cp
     verified: false
-    hashtags: "#nuke, #laugh, #kitbash3d, #mountains"
-  - username: "untitled.save"
+    hashtags: "#winsorandnewton, #amsterdam, #portugal, #eudescorreia"
+  - username: "iamgusromano"
     fullname: >-
-      Untitled
+      Gus Romano Watercolor Art
+    bio: >-
+      Portuguese #scribble & #watercolor Artist 🎨 🔺Youtube🔺 Gus Romano My art page DM me for portrait comissions
     location: "Portugal"
-    followers: 13404
-    engagement: 804
-    commentsToLikes: 0.007443
-    id: ck0u12fryvjyo0i19m58a4wbc
+    followers: 34450
+    engagement: 297
+    commentsToLikes: 0.051527
+    id: ck14hojspbca40i19s8v55fvn
     verified: false
-    hashtags: "#whitesquareart, #hollygolightly, #silverscreen, #realism"
-  - username: "jack_paulo"
+    hashtags: "#aquarellepainting, #iloveart, #drawingaday, #waterblog"
+  - username: "kathrynmac"
     fullname: >-
-      JAQUE
+      kathrynmac
+    bio: >-
+      
     location: "Portugal"
-    followers: 7159
-    engagement: 644
-    commentsToLikes: 0.022460
-    id: ck0ub2nkedn820i194etfxzxm
+    followers: 45088
+    engagement: 607
+    commentsToLikes: 0.016726
+    id: ck14lc3eitwvw0i19szpk0it4
     verified: false
-    hashtags: "#oilpainting, #teamprettyboys, #berlinart, #darksurrealism"
-  - username: "vaniacolaco.art"
+    hashtags: "#solo, #art, #artist, #painter"
+  - username: "yoyo_nasty"
     fullname: >-
-      Vânia Colaço | Portrait Artist
+      🥦🥦🥦🥦🥦🥦  YOYO  NASTY  🥦🥦🥦🥦🥦🥦
+    bio: >-
+      Hi I’m Yoyo, 🎨🧑🏼‍🎨 a Swedish artist in Lisbon during August 🇵🇹 at the residency program @padastudios 🖼🖌 📁 Illustration agency: Söderberg Agentur
     location: "Portugal"
-    followers: 4143
-    engagement: 1406
-    commentsToLikes: 0.082282
-    id: ck8tbckzmv4w00j78yt9schgr
+    followers: 10415
+    engagement: 461
+    commentsToLikes: 0.035205
+    id: ck0tu4ouz5mfm0i19vgbb39p1
     verified: false
-    hashtags: "#artstudios, #creativeflow, #hardpastel, #womeninart"
-  - username: "patriciaqclaro"
+    hashtags: "#contemporaryartist, #posca, #figurativeart, #illustratorsoninstagram"
+  - username: "joaoalmeida"
     fullname: >-
-      T I X A 💥
+      joao almeida
+    bio: >-
+      Portugal Available worldwide 🌍 ✖️loud like love ✖️now booking 2021 . 2022
     location: "Portugal"
-    followers: 17964
-    engagement: 686
-    commentsToLikes: 0.037530
-    id: ck5bzb8qnqt1c0i113mcmfo6p
+    followers: 18750
+    engagement: 500
+    commentsToLikes: 0.158345
+    id: ck0vvzx4zrhdp0i19l4z788wm
     verified: false
-    hashtags: "#mothersday, #desenio"
-  - username: "florindalopes"
+    hashtags: "#inspiredbrides, #pinterest, #weddinginspiration, #weddingphotographer"
+  - username: "rirds"
     fullname: >-
-      FLO | LIFESTYLE BLOGGER
+      rita 🕊
+    bio: >-
+      add some glitter based in Lisbon, Portugal
     location: "Portugal"
-    followers: 6651
-    engagement: 1104
-    commentsToLikes: 0.080495
-    id: ck0u8yved8msd0i19xe8fbdjx
+    followers: 20083
+    engagement: 460
+    commentsToLikes: 0.120386
+    id: ck5q6ozn4yazw0i110sq0il9t
     verified: false
-    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
-  - username: "alicefcnunes"
+    hashtags: "#whatiworetoday, #howtostyle, #everydaystyle, #comfy"
+  - username: "graffiti.pt"
     fullname: >-
-      Alice Nunes ✨
+      Graffiti Portugal 🇵🇹
+    bio: >-
+      Walls, trains and actions
     location: "Portugal"
-    followers: 4834
-    engagement: 1203
-    commentsToLikes: 0.066450
-    id: ck9hc85qyk6z00j78p5eawpc1
+    followers: 7538
+    engagement: 428
+    commentsToLikes: 0.008507
+    id: ck0w2pvkhpld30i19as0qlmq5
     verified: false
-    hashtags: "#rainyday, #dressup, #adaremlouca, #fashiongram"
-  - username: "filipaacarvalho"
+    hashtags: "#graffitilisboa, #graffitilovers, #graffitimash, #graffitiwriting"
+  - username: "ajoanamaiaa"
     fullname: >-
-      Filipa de Carvalho
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
+    bio: >-
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost Embaixadora: @fitnessup_portugal UP-JOANAMAIA Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
     location: "Portugal"
-    followers: 32644
-    engagement: 191
-    commentsToLikes: 0.034212
-    id: ck5honajupv8l0i119ag8233o
+    followers: 7981
+    engagement: 823
+    commentsToLikes: 0.254085
+    id: ck14hflt0a2vq0i19iwbux8so
     verified: false
-    hashtags: "#inspo, #pinterest, #monday, #saturdayvibes"
-  - username: "oporto_stories"
+    hashtags: "#travel, #travelgirls, #swimwear, #beach"
+  - username: "beatriztabade"
     fullname: >-
-      Тайные записки о Португалии 🇵🇹
+      BEATRIZ ABADE
+    bio: >-
+      fashion & style 🤍 • portuguese designer founder of @mundo_das_missangas__ 💌bea.abade@hotmail.com
     location: "Portugal"
-    followers: 2376
-    engagement: 1905
-    commentsToLikes: 0.216961
-    id: ckaow0zk46xzd0i78u8za0ywf
+    followers: 6168
+    engagement: 629
+    commentsToLikes: 0.045413
+    id: ckap71rdli9lu0i78yn0ize4w
     verified: false
-    hashtags: "#ukrainianinaustria, #ukrainianinportugal, #ukrainianinitaly, #ukrainianinindia"
-  - username: "withlove.deam.amoris"
+    hashtags: "#autmuncolors, #inspo, #pinterest, #querovoltar"
+  - username: "saracardosoooo_"
     fullname: >-
-      VIVIANA MOREIRA FERNANDES ☾  ∞
+      SARITA 🦋
+    bio: >-
+      Bruno Rabaça💍 ✨Fashion | MakeUp | Lifestyle 📍St. Moritz & Portugal 🇨🇭🇵🇹
     location: "Portugal"
-    followers: 2277
-    engagement: 1807
-    commentsToLikes: 0.400097
-    id: ck8t5biky9j1q0j78icvjswf0
+    followers: 33627
+    engagement: 287
+    commentsToLikes: 0.039500
+    id: ck8t62kzpc0no0j78wjxx9y5e
     verified: false
-    hashtags: "#luzeamor, #curaquantica, #reflexao, #maisumdia"
+    hashtags: "#portraitphotography, #photooftheday, #red, #photography"
 ---

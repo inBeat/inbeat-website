@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Italy In 2020
 description: >-
-  Find top travel Instagram influencers in Italy in 2020. Most popular hashtags: #beautiful #ootd #italy #sunset.
+  Find top travel Instagram influencers in Italy in 2020. Most popular hashtags: #italy #italia #italytrip.
 platform: Instagram
+hits: 4123
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 4123 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "cri.brightphotos"
+  - username: "tannaz_gy"
     fullname: >-
-      Cri
+      TANNAZ
+    bio: >-
+      A girl in love with travel🌍, fashion 💃and beauty 💄 Speaks :Italian, Persian, English and Turkish Based in Catania, Sicily 🍋🍋🌋 #sicily#catania
     location: "Italy"
-    followers: 7235
-    engagement: 3576
-    commentsToLikes: 0.092028
-    id: ck6tilrtz0yjq0j71qz4sa8ss
+    followers: 5160
+    engagement: 4557
+    commentsToLikes: 0.094115
+    id: ckaot5gpuugot0i78y4e8udmt
     verified: false
-    hashtags: "#instagood, #italiangirl, #video, #picoftheday"
-  - username: "serenaesposito97"
+    hashtags: "#trieste, #salerno, #taorminasicily, #agrigento"
+  - username: "athinaaki"
     fullname: >-
-      𝓔𝓼𝓹𝓸𝓼𝓲𝓽𝓸 𝓼𝓮𝓻𝓮𝓷𝓪❣️
+      * A T H I N A *
+    bio: >-
+      Lover of the Sun ☀️ Creature of the sea 🧜🏻‍♀️ Part time traveller 🌍 21 countries 🎯 I'm not a stop along the way. I'm a destination. 🗺
     location: "Italy"
-    followers: 3446
-    engagement: 2759
-    commentsToLikes: 0.216453
-    id: ck8t22rtby09w0j78axase2oz
+    followers: 5980
+    engagement: 2199
+    commentsToLikes: 0.156186
+    id: ck8t7icltgwzz0j78q4x5t7fr
     verified: false
-    hashtags: "#poivorrei, #verynice, #ioete, #italy"
-  - username: "domenicogiuffrida_photography"
+    hashtags: "#beautifuldestinations, #greecelover, #cyclades, #sardegnaofficial"
+  - username: "vivianereinhardt"
     fullname: >-
-      Domenico Giuffrida
+      TRAVEL & HEALTHY LIFESTYLE
+    bio: >-
+      Traveling the world 🗺 Mexico City | 🌱 based 💛 travel buddy: @john__zimmer ↓ e-book 📚 presets & shootings ↓
     location: "Italy"
-    followers: 9330
-    engagement: 2134
-    commentsToLikes: 0.071641
-    id: ckap2xqx80rkn0i78mzxy49y7
+    followers: 29166
+    engagement: 1566
+    commentsToLikes: 0.073603
+    id: ck0vxqmbf07qu0i19aakhr9g9
     verified: false
-    hashtags: "#redlove, #redlovers, #glamourstyle, #pink"
-  - username: "thetraveltrouble"
+    hashtags: "#travelcouple, #italytrip, #couples, #beautifuldestinations"
+  - username: "livewithoutshoes"
     fullname: >-
-      TRAVEL TROUBLE
+      Deborah&Ceghez | Travel Couple
+    bio: >-
+      Souls on fleek 🌙 ϟ Based in #Italy 🌍 Discovering beautiful places Dream - travel - repeat
     location: "Italy"
-    followers: 8072
-    engagement: 1725
-    commentsToLikes: 0.079884
-    id: ck6uhio9x9cdq0j71il5atsa0
+    followers: 30186
+    engagement: 1485
+    commentsToLikes: 0.061186
+    id: ck5zw154g5a2d0i14j1br6hmn
     verified: false
-    hashtags: "#marrakech, #travelcaptures, #travelmarocco, #venicecarnival"
-  - username: "gaiabegnis"
-    fullname: >-
-      Gaia Begnis
-    location: "Italy"
-    followers: 24186
-    engagement: 1567
-    commentsToLikes: 0.104119
-    id: ck0ty02inl0z30i19abgqhd4r
-    verified: false
-    hashtags: "#eauthermaleuriage, #stateacasa, #zuegg, #uriagebebe"
-  - username: "pilotasoglu"
-    fullname: >-
-      Ahmet Asoğlu Official | Cadet
-    location: "Italy"
-    followers: 52000
-    engagement: 1108
-    commentsToLikes: 0.063158
-    id: ck5hh6x0e6oze0i11qh60msgv
-    verified: false
-    hashtags: "#insta360go"
-  - username: "gioingeo_"
-    fullname: >-
-      Giorgia |Full-time Backpacker🌏
-    location: "Italy"
-    followers: 2424
-    engagement: 3057
-    commentsToLikes: 0.161437
-    id: ckap9uk5ftp040i78him1qlzn
-    verified: false
-    hashtags: "#openocean, #sudestasiatico, #travelp, #endlessocean"
-  - username: "alealoisio"
-    fullname: >-
-      Alessia Aloisio
-    location: "Italy"
-    followers: 71208
-    engagement: 819
-    commentsToLikes: 0.066573
-    id: ck5c9wy4ccaab0i11fu0yw2jk
-    verified: false
-    hashtags: "#quarantena, #selfie, #italia, #bombafit"
-  - username: "joellenakad"
-    fullname: >-
-      J o W e L
-    location: "Italy"
-    followers: 6941
-    engagement: 1491
-    commentsToLikes: 0.107974
-    id: ck14k5bl3nsv50i19ripyz4d9
-    verified: false
-    hashtags: "#ischia, #pillowchallenge, #bcharre, #ootd"
+    hashtags: "#travelcouples, #italy, #creativetravelcouples, #beautifulhotels"
   - username: "daniele.gaiti"
     fullname: >-
       Daniele Gaiti
+    bio: >-
+      Turin, Italy Fashion - Fitness - Travel Danielegaiti@gmail.com
     location: "Italy"
-    followers: 7808
-    engagement: 1278
-    commentsToLikes: 0.173640
+    followers: 7404
+    engagement: 1412
+    commentsToLikes: 0.167291
     id: ck8t50bq08fhu0j78ttv20nhq
     verified: false
-    hashtags: "#fashiondiaries, #dapper, #instafashion, #andr"
+    hashtags: "#men, #menfashion, #guywithstyle, #fashionforman"
+  - username: "imlostinwanderlust"
+    fullname: >-
+      V A L É R I E 🌴
+    bio: >-
+      Traveling as much as I can 🌎 📍 The Netherlands 📷 @jeffkrouwel
+    location: "Italy"
+    followers: 12300
+    engagement: 1382
+    commentsToLikes: 0.105804
+    id: ck13c9winzbcn0i19yzlnbuuc
+    verified: false
+    hashtags: ""
+  - username: "thetraveltrouble"
+    fullname: >-
+      TRAVEL TROUBLE
+    bio: >-
+      Francesca & Stefano|TravelBloggers Due amici in viaggio 🌈 📸 Use #traveltrouble in your pics 🐒 Travel advisor for: @wanderoo_it 📍BG(IT) 📩collab ➡️ DM
+    location: "Italy"
+    followers: 9348
+    engagement: 1366
+    commentsToLikes: 0.082958
+    id: ck6uhio9x9cdq0j71il5atsa0
+    verified: false
+    hashtags: "#italia, #italytravel, #yallersitalia, #toscanagram"
+  - username: "gaiabegnis"
+    fullname: >-
+      Gaia Begnis
+    bio: >-
+      Family • Lifestyle • Travel 👱🏼‍♀️ Mamma single di 20 anni 🎀 Vittoria, 4 anni 📚 Paleocapa, informatica 📩 Collab: begnis.gaia@gmail.com 📍 Bergamo
+    location: "Italy"
+    followers: 26639
+    engagement: 1068
+    commentsToLikes: 0.098120
+    id: ck0ty02inl0z30i19abgqhd4r
+    verified: false
+    hashtags: "#scotchtape, #ad, #huawei, #huaweip30pro"
+  - username: "pedrofcarreira"
+    fullname: >-
+      PEDRO CARREIRA | TRAVEL
+    bio: >-
+      ✈️ Wanderer & certified Nomadologist 📸 Travel Photography 🇵🇹 From Lisbon, Portugal
+    location: "Italy"
+    followers: 15858
+    engagement: 1560
+    commentsToLikes: 0.088926
+    id: ck5zw5jg45iwf0i14g9jjsezt
+    verified: false
+    hashtags: "#srilankatravel, #travelpassion, #thetravellingnomads, #stillatraveler"
+  - username: "ezio.vsl"
+    fullname: >-
+      Ezio Vasile
+    bio: >-
+      Founder & CEO at @yultyfoods. I like to eat and travel.
+    location: "Italy"
+    followers: 18599
+    engagement: 1307
+    commentsToLikes: 0.066842
+    id: ck6uejs23rc590j71l5tvs58n
+    verified: false
+    hashtags: "#truestory, #steak, #matrix, #goulash"
 ---

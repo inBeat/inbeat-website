@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Milan In 2020
 description: >-
-  Find top models TikTok influencers in Milan in 2020. Most popular hashtags: #model #coronavirus #viral #dancechallenge.
+  Find top models TikTok influencers in Milan in 2020. Most popular hashtags: #model #viral #fyp #foryou.
 platform: TikTok
+hits: 19
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 19 TikTok influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "varyaren"
     fullname: >-
       Alexia Varyaren
+    bio: >-
+      🌸 Makeup Artist & Model from Milan 🌸 💜 @varyaren on instagram 💜
     location: "Italy"
-    followers: 10604
-    engagement: 1173
-    commentsToLikes: 0.021806
+    followers: 109100
+    engagement: 1566
+    commentsToLikes: 0.017158
     id: cka6bswc91kwu0i7863fhkaav
     verified: false
-    hashtags: "#anni80, #brookecandy, #joji, #summertime"
-  - username: "babyfox00"
+    hashtags: "#foryou, #viral, #chupalloween, #perte"
+  - username: "giulia_scotti17"
     fullname: >-
-      Marlet Suarez
+      Giulia
+    bio: >-
+      Pharmacy student 💉 Model 📍Milan 💊Streetwear and Fashion💊
     location: "Italy"
-    followers: 84977
-    engagement: 1024
-    commentsToLikes: 0.035272
-    id: cka87popf7vyk0i78839nq1w2
+    followers: 2372
+    engagement: 337
+    commentsToLikes: 0.022016
+    id: ckcdu4lk7ebez0j23ixth6xyi
     verified: false
-    hashtags: "#fy"
-  - username: "aleksevsk"
+    hashtags: "#offwhite, #modellife, #foryou, #greenscreen"
+  - username: "valentina_galassi"
     fullname: >-
-      ALEKSE
+      valentina_galassi
+    bio: >-
+      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
     location: "Italy"
-    followers: 56642
-    engagement: 1595
-    commentsToLikes: 0.055480
-    id: ck9ae5u410dzm0j78rc3c00fo
+    followers: 38500
+    engagement: 1140
+    commentsToLikes: 0.009052
+    id: ckbf9cmr707cj0j23glh8972f
     verified: false
-    hashtags: "#musica, #risposta, #dancer, #beintrend"
-  - username: "marisol.viola"
+    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
+  - username: "danielarosati5"
     fullname: >-
-      marisol viola
+      Daniela Rosati
+    bio: >-
+      
     location: "Italy"
-    followers: 14764
-    engagement: 1891
-    commentsToLikes: 0.019608
-    id: ck9du52htezla0j784mnc7pkr
+    followers: 198800
+    engagement: 579
+    commentsToLikes: 0.019806
+    id: ck8f8n4e53fmy0j78a64nq5be
     verified: false
-    hashtags: "#quarantena, #tiktoktaac, #milano, #dontlike"
-  - username: "dj_eva_fiesta"
+    hashtags: "#fyp, #sardegna, #challenge, #lovemusic"
+  - username: "gianspe"
     fullname: >-
-      Dj_eva_fiesta
+      Gian
+    bio: >-
+      📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
     location: "Italy"
-    followers: 3148
-    engagement: 316
-    commentsToLikes: 0.051280
-    id: ck9du4xezeyo80j7845ilgxyo
+    followers: 7949
+    engagement: 954
+    commentsToLikes: 0.017172
+    id: ckbqionll3wdj0j2300k8cemq
     verified: false
-    hashtags: "#italianfood, #crazy, #dancechallenge, #senorit"
+    hashtags: "#shooting, #tutorial, #sunset, #sea"
+  - username: "rosalie.ndour"
+    fullname: >-
+      Rosalie ndour
+    bio: >-
+      Welcome🙏🏽everyone❤️ Model🇸🇳🇮🇹🇫🇷 Instagram: @IAMROSALIENDOUR Youtube:👇🏾
+    location: "Italy"
+    followers: 149000
+    engagement: 1157
+    commentsToLikes: 0.020428
+    id: ckb981q8dr3jc0j23ga6ko1xx
+    verified: false
+    hashtags: "#lol, #poutoi, #mdr, #fyp"
+  - username: "gigifarne"
+    fullname: >-
+      gigif_62
+    bio: >-
+      Fitness & Personal Trainer Model over 58 📸 enjoy life Live and let live ❤️ 📬
+    location: "Italy"
+    followers: 2901
+    engagement: 853
+    commentsToLikes: 0.001755
+    id: ckcuzcxtjmqoj0j23nhqxhmtb
+    verified: false
+    hashtags: "#personaltrainer, #over58model, #modelagency, #healthylifestyle"
   - username: "gabriele.boccard0"
     fullname: >-
       GABRIELE BOCCARDO
+    bio: >-
+      16 y.0 📍Milano Scroll and follow me
     location: "Italy"
-    followers: 22158
-    engagement: 1657
-    commentsToLikes: 0.053244
+    followers: 23800
+    engagement: 1436
+    commentsToLikes: 0.049100
     id: ck8f8ncqu3gc90j78346rq6r8
     verified: false
-    hashtags: "#story, #duetto, #scuola, #tvseries"
-  - username: "andreamoriggi"
+    hashtags: "#tiktok, #foryou, #trend, #fy"
+  - username: "carolinacanevari"
     fullname: >-
-      Andrea Moriggi
+      Carolina Canevari
+    bio: >-
+      Milano/Napoli😜 19 anni Per collaborazioni scrivetemi su Instagram ⬆️
     location: "Italy"
-    followers: 2766
-    engagement: 376
-    commentsToLikes: 0.007710
-    id: ck9rbs2izqjnu0j781e9li8t7
+    followers: 6656
+    engagement: 1271
+    commentsToLikes: 0.011995
+    id: ckd0j8dvof9us0j23ctnta0by
     verified: false
-    hashtags: "#comfort, #mclaren570gt, #garage, #luxuryboat"
-  - username: "davinzgarcia"
+    hashtags: "#trend, #foryou, #virale, #italiangirl"
+  - username: "elsaochea"
     fullname: >-
-      davinzgarcia
+      elsaochea
+    bio: >-
+      🇹🇩/🇮🇹 2️⃣1️⃣ Instagram: elsaochea Verona/Milano
     location: "Italy"
-    followers: 4188
-    engagement: 511
-    commentsToLikes: 0.031434
-    id: cka0t7id5omma0i78d75oryiv
+    followers: 25500
+    engagement: 467
+    commentsToLikes: 0.033030
+    id: ckb8zooerfb4b0j236kkagje6
     verified: false
-    hashtags: "#pinoy, #trend, #coronavirus, #weekend"
-  - username: "michele_ramoino"
-    fullname: >-
-      Michele Ramoino
-    location: "Italy"
-    followers: 59058
-    engagement: 743
-    commentsToLikes: 0.063176
-    id: ck8to6opvlhhc0j785bb5qdk6
-    verified: false
-    hashtags: "#theriver, #virus, #bentornato, #scommessavinta"
-  - username: "bananartista"
-    fullname: >-
-      (b)ananartista Sbuff
-    location: "Italy"
-    followers: 38120
-    engagement: 754
-    commentsToLikes: 0.018877
-    id: ck8j48nxt1aix0j78bedftpuc
-    verified: false
-    hashtags: "#duomo, #tela, #canvas, #tattoo"
+    hashtags: "#viral, #comedy, #tiktok, #girls"
 ---

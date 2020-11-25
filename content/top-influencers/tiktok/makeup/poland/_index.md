@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Poland In 2020
 description: >-
-  Find top makeup TikTok influencers in Poland in 2020. Most popular hashtags: #quarantine #fail #duet #food.
+  Find top makeup TikTok influencers in Poland in 2020. Most popular hashtags: #makeup #fyp #makeupartist #dc.
 platform: TikTok
+hits: 178
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 178 TikTok influencers like this in Poland for you to pitch.
 profiles:
-  - username: "skrzaciatapeta"
-    fullname: >-
-      skrzaciatapeta
-    location: "Poland"
-    followers: 19973
-    engagement: 2116
-    commentsToLikes: 0.029688
-    id: ck83k47nb979l0j780uws8p3h
-    verified: false
-    hashtags: "#sour, #hungergames, #avocado, #glitter"
   - username: "aighty.aphrodite"
     fullname: >-
       aighty.aphrodite
+    bio: >-
+      ✨20✨(she/they) ✨♎️♌♌✨ ✨witch and makeup lover✨ hi, i just really love u all
     location: "Poland"
-    followers: 12704
-    engagement: 1680
-    commentsToLikes: 0.020711
+    followers: 26600
+    engagement: 1929
+    commentsToLikes: 0.018205
     id: ck9c655xiqwm40j7838ipwkwl
     verified: false
-    hashtags: "#editorialmakeup, #pitchperfect, #react, #femme"
+    hashtags: "#fyp, #lesbian, #wholesome, #eyeliner"
+  - username: "skrzaciatapeta"
+    fullname: >-
+      skrzaciatapeta
+    bio: >-
+      @skrzaciatapeta instagram makeup idea credits always on insta she/her 18 🇵🇱
+    location: "Poland"
+    followers: 22300
+    engagement: 1882
+    commentsToLikes: 0.015506
+    id: ck83k47nb979l0j780uws8p3h
+    verified: false
+    hashtags: "#atla, #amongus, #makeup, #impostor"
   - username: "weraaaw"
     fullname: >-
       Weronika Wróblewska
+    bio: >-
+      Makeup and SFX artist based in Warsaw🇵🇱 Follow me on insta: Weraaaw 😜
     location: "Poland"
-    followers: 133439
-    engagement: 1784
-    commentsToLikes: 0.011476
+    followers: 158100
+    engagement: 1587
+    commentsToLikes: 0.011404
     id: ck9016rhcbdg00j7838tedet1
     verified: true
-    hashtags: "#dlaciebie, #ptakinocy, #dziengwiezdnychwojen, #mua"
-  - username: "m_upnastus"
-    fullname: >-
-      Anastazja Wilk
-    location: "Poland"
-    followers: 8041
-    engagement: 1099
-    commentsToLikes: 0.025736
-    id: cka6mh8ga76c50i786lu010cy
-    verified: false
-    hashtags: "#quarantine, #polish, #lips, #falseeyelashes"
+    hashtags: "#tinyfacechallenge, #halloweenathome, #proudheart, #makeuptutorial"
   - username: "sylwiasadochmua"
     fullname: >-
       Sylwia Sadoch
+    bio: >-
+      #makeupfreak 🔥💄 #doglover 🐶 Kodi’s mum ✌🏻 More on my IG: @sylwiasadochmua
     location: "Poland"
-    followers: 17317
-    engagement: 1550
-    commentsToLikes: 0.030394
+    followers: 17100
+    engagement: 1551
+    commentsToLikes: 0.031758
     id: ck9nb2hzjann30j78o1c3muwi
     verified: false
-    hashtags: "#milkyway, #petlover, #valentinesday, #nailart"
+    hashtags: "#makeuptutorial, #dlaciebie, #mua, #acrylicpainting"
+  - username: "m_upnastus"
+    fullname: >-
+      Anastazja Wilk
+    bio: >-
+      17 years 🇵🇱 MAKEUP 📭mupnastus03@wp.pl
+    location: "Poland"
+    followers: 31000
+    engagement: 1163
+    commentsToLikes: 0.019072
+    id: cka6mh8ga76c50i786lu010cy
+    verified: false
+    hashtags: "#tiktoktrends, #polishgirls, #youareawesome, #halloween"
   - username: "martyna.guzda"
     fullname: >-
       Martyna Gużda
+    bio: >-
+      Makeup tutorials ✨
     location: "Poland"
-    followers: 16034
-    engagement: 1072
-    commentsToLikes: 0.006206
+    followers: 17500
+    engagement: 1091
+    commentsToLikes: 0.007227
     id: ck9nuf6qcmuqy0j78iml0sfi5
     verified: false
-    hashtags: "#dlaciebie, #fail, #mua, #eyebrows"
+    hashtags: "#fyp, #foryou, #dlaciebie, #makeup"
+  - username: "inchidris"
+    fullname: >-
+      inchidris
+    bio: >-
+      🏡 Olsztyn 💋 ig @inchidris 💄 #makeupartist ⬇️Zagłosuj na mnie ⬇️
+    location: "Poland"
+    followers: 45400
+    engagement: 1283
+    commentsToLikes: 0.016549
+    id: cka5zmq49nejf0i785zvlkw47
+    verified: false
+    hashtags: "#pierrerene, #makijaz, #praca, #makeupartist"
+  - username: "emilkeee"
+    fullname: >-
+      Ewelina Milke
+    bio: >-
+      Makeup Artist Makeup tutorials but sometimes I go crazy Instagram: milke_makeup
+    location: "Poland"
+    followers: 15400
+    engagement: 981
+    commentsToLikes: 0.023047
+    id: ckb9qgruzmbjz0j23389vmy7f
+    verified: false
+    hashtags: "#fyp, #dc, #anastasiabeverlyhills, #wingliner"
+  - username: "julkabilska"
+    fullname: >-
+      Julia Bilska
+    bio: >-
+      17, model and a makeup lover Instagram: julkabilska
+    location: "Poland"
+    followers: 26200
+    engagement: 1034
+    commentsToLikes: 0.014275
+    id: ckdc8fiawi2fc0j236pkkeoyn
+    verified: false
+    hashtags: "#makeuptutorial, #viral, #dlaciebie, #makeup"
   - username: "panikatarzyna__"
     fullname: >-
       PaniKatarzyna
+    bio: >-
+      Future mommy & MakeUp Artist
     location: "Poland"
-    followers: 3043
-    engagement: 354
-    commentsToLikes: 0.025800
+    followers: 6086
+    engagement: 401
+    commentsToLikes: 0.016136
     id: cka6867cinkki0i782xm5z6s3
     verified: false
-    hashtags: "#junkie, #notforyou, #meninthekitchen, #porshe"
-  - username: "noemisparkle"
-    fullname: >-
-      Noemi Sparkle
-    location: "Poland"
-    followers: 37170
-    engagement: 1238
-    commentsToLikes: 0.007449
-    id: ck97wp2n3s1w10j78v0pssiki
-    verified: false
-    hashtags: "#artist, #trzys, #trenujzlew, #usbdriving"
-  - username: "_izaaya_"
-    fullname: >-
-      _Izaaya_
-    location: "Poland"
-    followers: 31425
-    engagement: 2110
-    commentsToLikes: 0.076020
-    id: ck97wp76rs2s10j78tan12yyw
-    verified: false
-    hashtags: "#nomakeup, #danganronpa, #godzina, #touchme"
-  - username: "moon_daughterx"
-    fullname: >-
-      XarielX
-    location: "Poland"
-    followers: 40149
-    engagement: 2886
-    commentsToLikes: 0.027799
-    id: cka0gu59k65lx0i78m1kmqe7e
-    verified: false
-    hashtags: ""
+    hashtags: "#tiktokpoland, #viral, #pitbull, #fyp"
 ---

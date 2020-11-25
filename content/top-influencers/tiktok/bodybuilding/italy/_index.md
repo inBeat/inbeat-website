@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding TikTok Influencers In Italy In 2020
 description: >-
-  Find top bodybuilding TikTok influencers in Italy in 2020. Most popular hashtags: #bodybuilding #love #summer #quarantine.
+  Find top bodybuilding TikTok influencers in Italy in 2020. Most popular hashtags: #fitness #bodybuilding #workout #motivation.
 platform: TikTok
+hits: 14
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 14 TikTok influencers like this in Italy for you to work with.
 profiles:
+  - username: "lorenzorotatori"
+    fullname: >-
+      Lorenzo Rotatori
+    bio: >-
+      🏆athlete🏆 🥋martial artist🥋 🧨🧨stuntman🧨🧨 manphysique european champion🏅
+    location: "Italy"
+    followers: 40500
+    engagement: 834
+    commentsToLikes: 0.070637
+    id: ckc86m5ty5mdh0j23s57f7ao7
+    verified: false
+    hashtags: "#bodybuilder, #nature, #lorenzorotatori, #crazy"
+  - username: "salvospera"
+    fullname: >-
+      Salvo Spera
+    bio: >-
+      Athlete /C. P. /ifbb PLATINUM MUSCLE 24y.o. ♐ Sicilia 🇮🇹 Coaching online
+    location: "Italy"
+    followers: 10800
+    engagement: 888
+    commentsToLikes: 0.021133
+    id: ckbf0064nldlu0j236l533whl
+    verified: false
+    hashtags: "#classicphysique, #lifestyle, #gym, #bodybuilding"
   - username: "chiara.gggg"
     fullname: >-
       chiara.ggg
+    bio: >-
+      Italian girl 🇮🇹 Personal Trainer🏋🏻 24 years 🌸
     location: "Italy"
-    followers: 8639
-    engagement: 394
-    commentsToLikes: 0.039668
+    followers: 15300
+    engagement: 457
+    commentsToLikes: 0.027796
     id: ckace8z1xlovo0i78geum7u90
     verified: false
-    hashtags: "#transformation, #teknolife, #pose, #lake"
-  - username: "francesca.pezzano"
+    hashtags: "#bikini, #doubleyourimpact, #addominali, #panciapiatta"
+  - username: "eddy_kood"
     fullname: >-
-      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
+      eddy 
+    bio: >-
+      📍🇮🇹 🇦🇱 ( Instagram eddykood)
     location: "Italy"
-    followers: 33403
-    engagement: 777
-    commentsToLikes: 0.008425
-    id: ck8vsi512doq90j78h4cdonym
+    followers: 2908
+    engagement: 464
+    commentsToLikes: 0.013690
+    id: ckbqudcy2eshv0j23pfj5chxr
     verified: false
-    hashtags: "#holiday, #cocker, #healthy, #legs"
+    hashtags: "#tiktokitaly, #video, #beach, #milan"
+  - username: "calis_mata"
+    fullname: >-
+      Tommaso Mata
+    bio: >-
+      SEGUIMI📍Milano Atleta Calisthenics Street Gorilla🤸🏼‍♂ Instagram: tommi__cali
+    location: "Italy"
+    followers: 7206
+    engagement: 434
+    commentsToLikes: 0.040553
+    id: ckb99ipiuts600j233snevw8j
+    verified: false
+    hashtags: "#trend, #fitness, #viral, #neiperte"
   - username: "francescofit93"
     fullname: >-
       Francesco Fontana
+    bio: >-
+      Palermo Italy 🇮🇹 Instagram: francescofit93
     location: "Italy"
     followers: 7735
     engagement: 445
     commentsToLikes: 0.013646
     id: cka6bt1vn1m4w0i78ocpy35tv
     verified: false
-    hashtags: "#dogsoftiktok, #tedesco, #panorama, #iostoacasa"
-  - username: "meolipa"
+    hashtags: "#fit, #photooftheday, #instagood, #lifestyle"
+  - username: "tiafisioaesthetic"
     fullname: >-
-      Meo 🐙
+      Tiafisio_aesthetic_
+    bio: >-
+      ROAD TO 200K🤷🏼‍♂️ Seguimi su IG @tiafisio_aesthetic_ per scoprire più di me.
     location: "Italy"
-    followers: 6111
-    engagement: 1507
-    commentsToLikes: 0.190039
-    id: ck9njx4jyi1790j78d61ky5jx
+    followers: 184300
+    engagement: 1000
+    commentsToLikes: 0.029500
+    id: ck9si09liwbof0j78kabkdcf0
     verified: false
-    hashtags: "#topi, #beyondmeat, #mandorla, #crema"
-  - username: "noblethomas96"
+    hashtags: "#magia, #mammaefiglio, #famiglia, #mamma"
+  - username: "amazing_fit.people"
     fullname: >-
-      Noble Thomas
+      Amazing People 💪🔥
+    bio: >-
+      instagram: @amazing_fit.people TARGET: 20k🔥🎯
     location: "Italy"
-    followers: 2804
-    engagement: 4765
-    commentsToLikes: 0.502354
-    id: cka84abbfsr6e0i78jeiy2wuv
+    followers: 16900
+    engagement: 1362
+    commentsToLikes: 0.016047
+    id: ckc1xipkr1ei00j23pznc5ocv
     verified: false
-    hashtags: "#100likes, #canonmirrorless, #maturare, #devilchallenge"
-  - username: "diventacurioso"
+    hashtags: "#athlete, #tricks, #gym, #fit"
+  - username: "matteo_diamante_official"
     fullname: >-
-      DiventaCurioso
+      Matteo Diamante
+    bio: >-
+      #ildiamantone Pov, film voice e cose divertenti. Fatti un giro 💎
     location: "Italy"
-    followers: 21326
-    engagement: 1587
-    commentsToLikes: 0.025145
-    id: ck9nb9i7pavcm0j78w0hfhe46
+    followers: 172500
+    engagement: 1087
+    commentsToLikes: 0.011704
+    id: ck8semk2tkbpc0j78ueo21yvo
     verified: false
-    hashtags: "#cina, #tatto, #fastfood, #esutiktok"
-  - username: "gennycapano"
+    hashtags: "#ildiamantone, #attore, #xte, #sport"
+  - username: "luis53550"
     fullname: >-
-      Genny Capano
+      Luis Calisthenics
+    bio: >-
+      Non dimenticatevi di seguirmi anche su instagram😘
     location: "Italy"
-    followers: 12624
-    engagement: 872
-    commentsToLikes: 0.026358
-    id: ckacw74x6r8qt0i788n2mthvo
+    followers: 13100
+    engagement: 1794
+    commentsToLikes: 0.018008
+    id: ck9v7ht0962im0j78n0i5onve
     verified: false
-    hashtags: "#espa, #4upage, #cane, #pertee"
-  - username: "antoninoaus95"
-    fullname: >-
-      Antonino
-    location: "Italy"
-    followers: 160602
-    engagement: 870
-    commentsToLikes: 0.007660
-    id: ck8ke4hu98lqm0j78a8567il7
-    verified: false
-    hashtags: "#picture, #dile, #favignana, #casadicarta"
-  - username: "adrianoveglia"
-    fullname: >-
-      Adriano Veglia
-    location: "Italy"
-    followers: 2157
-    engagement: 223
-    commentsToLikes: 0.019692
-    id: ck9k1h7t5gdk50j78tflyv3e4
-    verified: false
-    hashtags: "#folllowforfollow, #gymworkout, #testus1, #proncipessa"
-  - username: "jxgg4_"
-    fullname: >-
-      Jxgg4
-    location: "Italy"
-    followers: 8352
-    engagement: 331
-    commentsToLikes: 0.008008
-    id: ck8qh4z2t3jzv0j78rxi7nrrj
-    verified: false
-    hashtags: "#daru, #oldskool, #newyork, #foru"
+    hashtags: "#calisthenics, #foryou, #viral, #foryoupage"
 ---

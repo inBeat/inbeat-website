@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Seoul In 2020
 description: >-
-  Find top Instagram influencers in Seoul in 2020. Most popular hashtags: # #travel #southkorea #jejuisland.
+  Find top Instagram influencers in Seoul in 2020. Most popular hashtags: #seoul #korea #youtuber.
 platform: Instagram
+hits: 566
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 566 Instagram influencers like this in Seoul, South Korea for you to work with.
 profiles:
+  - username: "seungjin_yang_"
+    fullname: >-
+      Seungjin Yang
+    bio: >-
+      Seoul
+    location: "South Korea"
+    followers: 28775
+    engagement: 659
+    commentsToLikes: 0.010977
+    id: ck6tydwmf36330j71i3dco0a4
+    verified: false
+    hashtags: "#balloons, #designmiami, #seungjinyang, #epoxyresin"
+  - username: "_kwangho_lee"
+    fullname: >-
+      Kwangho Lee
+    bio: >-
+      SEOUL
+    location: "South Korea"
+    followers: 21565
+    engagement: 289
+    commentsToLikes: 0.005854
+    id: ck0u20uzzyi6k0i19k2wmsgf6
+    verified: false
+    hashtags: "#studio, #copper, #woven, #kwangholee"
   - username: "seoul.back"
     fullname: >-
       Seoul
+    bio: >-
+      Sharing the best moments captured in Seoul. Tag @Seoul.back for a chance to be featured! 🇰🇷
     location: "South Korea"
     followers: 11987
     engagement: 1342
     commentsToLikes: 0.020189
     id: ck5hj7y56g6540i11a463lnc1
     verified: false
-    hashtags: "#southkorea"
+    hashtags: ""
+  - username: "d2nasoaring"
+    fullname: >-
+      Dina 디나 Mujanović
+    bio: >-
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
+    location: "South Korea"
+    followers: 7855
+    engagement: 1165
+    commentsToLikes: 0.068807
+    id: ck6tvpzpwnm7r0j718srk9qrl
+    verified: false
+    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
+  - username: "sandra_ssong"
+    fullname: >-
+      Sasha Song (모델 사샤)
+    bio: >-
+      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 YouTuber 1.6 Million / 유튜버 165만명 TikTok 2 Million / 틱톡 200만명
+    location: "South Korea"
+    followers: 159437
+    engagement: 1392
+    commentsToLikes: 0.016032
+    id: ck8t8gcnikdal0j7833hnrq5k
+    verified: false
+    hashtags: ""
+  - username: "_minju_ji"
+    fullname: >-
+      Minju Ji 지민주
+    bio: >-
+      Free Seoul, Korea Contact -> dm . . .
+    location: "South Korea"
+    followers: 8153
+    engagement: 1629
+    commentsToLikes: 0.023777
+    id: ck5hlvbi9kxi00i110nyhhtfe
+    verified: false
+    hashtags: "#crocs, #magazine, #mcmlive"
+  - username: "tyan.dae"
+    fullname: >-
+      DIANA | 예나 💙
+    bio: >-
+      YouTube 130K+ 📍 Seoul, South Korea 🇷🇺🇰🇷 // 991130 🌻 다이아나/Diana/Диана/ダイアナ/黛安娜 👉🏽 💌DM [rus/eng/kor]👌🏽
+    location: "South Korea"
+    followers: 9029
+    engagement: 1691
+    commentsToLikes: 0.019258
+    id: ckap4eq5j71ig0i780no18pla
+    verified: false
+    hashtags: "#2020, #agusha, #korean, #korea"
+  - username: "elina_4_22"
+    fullname: >-
+      ✨Karimova Elina_엘리나✨
+    bio: >-
+      비즈니스(business) Email & DM💌 elina0422@gmail.com 크리에이터 | 모델 | 음악 Live in 🇰🇷 서울에 살고 있습니다(Seoul)
+    location: "South Korea"
+    followers: 1295830
+    engagement: 620
+    commentsToLikes: 0.007515
+    id: ck15pctlux8py0i19yi0ji7fg
+    verified: true
+    hashtags: "#mlb, #mlbcrew, #ygkplus, #mlbkorea"
   - username: "izziisman"
     fullname: >-
       Izzi Isman
+    bio: >-
+      seoul • jakarta • seattle business inquiries — @izziisman (LINE OA)
     location: "South Korea"
-    followers: 101328
-    engagement: 3587
-    commentsToLikes: 0.020534
+    followers: 98439
+    engagement: 2769
+    commentsToLikes: 0.009830
     id: ckap2yftr0uku0i782xggf8wm
     verified: false
-    hashtags: ""
-  - username: "j.hunsung"
+    hashtags: "#200, #22, #skin1004, #flex"
+  - username: "estherkook_"
     fullname: >-
-      J.hunsung watercolor 정훈성
+      Esther Kook
+    bio: >-
+      † seoul, korea
     location: "South Korea"
-    followers: 71415
-    engagement: 695
-    commentsToLikes: 0.016664
-    id: ck0w45rh2wybx0i190qxedb7t
+    followers: 19364
+    engagement: 1232
+    commentsToLikes: 0.013911
+    id: ck5znyrxbpeyf0i14fcwzv4xs
     verified: false
-    hashtags: ""
-  - username: "yrisparis"
-    fullname: >-
-      yris
-    location: "South Korea"
-    followers: 19716
-    engagement: 1529
-    commentsToLikes: 0.021078
-    id: ck8ta8322qsx90j78dhi9lv8l
-    verified: false
-    hashtags: ""
-  - username: "monetbabazadeh"
-    fullname: >-
-      Monet Babazadeh
-    location: "South Korea"
-    followers: 40592
-    engagement: 414
-    commentsToLikes: 0.046673
-    id: ckap8dxbonwmx0i787fym253r
-    verified: false
-    hashtags: "#otakugirl, #springfling, #sweettoothformickey, #nofilter"
-  - username: "tyan.dae"
-    fullname: >-
-      에나💙
-    location: "South Korea"
-    followers: 9156
-    engagement: 1704
-    commentsToLikes: 0.019822
-    id: ckap4eq5j71ig0i780no18pla
-    verified: false
-    hashtags: "#travel, #redspark, #clc, #me"
-  - username: "graycodetattoo"
-    fullname: >-
-      Tattoo Artist GRAYCODE
-    location: "South Korea"
-    followers: 26528
-    engagement: 1084
-    commentsToLikes: 0.014338
-    id: ckaovj61o4s5q0i788zhkb7dt
-    verified: false
-    hashtags: "#wavetattoo, #moontattoo, #letteringtattoos, #tinytattoo"
-  - username: "mary_land__"
-    fullname: >-
-      매리🍒Mary😷
-    location: "South Korea"
-    followers: 19586
-    engagement: 857
-    commentsToLikes: 0.029280
-    id: ck8tc0gr8xu720j78hotz5s1o
-    verified: false
-    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
-  - username: "_gabsmoreira99"
-    fullname: >-
-      Gabriel (가비) | 한태은
-    location: "South Korea"
-    followers: 11366
-    engagement: 1177
-    commentsToLikes: 0.032680
-    id: ck14gtk7y6ygp0i191uadi7v1
-    verified: false
-    hashtags: "#dogstagram, #history, #unesco, #straykids"
-  - username: "andreatresgallo"
-    fullname: >-
-      Andrea Tresgallo
-    location: "South Korea"
-    followers: 5839
-    engagement: 902
-    commentsToLikes: 0.064196
-    id: ck5hsjwiewps50i116g63r5wi
-    verified: false
-    hashtags: "#yieyie, #samsungcard, #nailart, #artlab"
+    hashtags: "#100, #thechangingroom, #maisonkitsunexnativeunion, #ad"
 ---

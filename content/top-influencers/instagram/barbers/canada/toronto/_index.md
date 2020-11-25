@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Toronto In 2020
 description: >-
-  Find top barbers Instagram influencers in Toronto in 2020. Most popular hashtags: #oldschool #quarantine #salon #barber.
+  Find top barbers Instagram influencers in Toronto in 2020. Most popular hashtags: #barber #toronto #canada #barberlife.
 platform: Instagram
+hits: 12
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "shawn_barbz"
-    fullname: >-
-      🏆ShawnBarbz🏆10xAward Winning ✪
-    location: "Canada"
-    followers: 26553
-    engagement: 85
-    commentsToLikes: 0.135407
-    id: ck8swu8yqf9bv0j78w9stmizb
-    verified: false
-    hashtags: "#published, #barbereducation, #kingstwest, #blackmamba"
-  - username: "waseemyouans"
-    fullname: >-
-      Waseem Youans
-    location: "Canada"
-    followers: 136875
-    engagement: 219
-    commentsToLikes: 0.022404
-    id: ck5hk4s5dhsdj0i11zul9cms7
-    verified: false
-    hashtags: "#repost, #beardthreading, #grateful, #barbers"
-  - username: "carlo.colaiacovo"
-    fullname: >-
-      Carlo Colaiacovo
-    location: "Canada"
-    followers: 10028
-    engagement: 525
-    commentsToLikes: 0.079714
-    id: ck5cjb85budbb0i11xhbtw61c
-    verified: true
-    hashtags: "#buffalosabres, #quarantinelife, #greatness, #ronburgundy"
-  - username: "seniorgumboy"
-    fullname: >-
-      SGB
-    location: "Canada"
-    followers: 55811
-    engagement: 334
-    commentsToLikes: 0.127801
-    id: ck0w3jsxyts5u0i19lb8ij5r0
-    verified: false
-    hashtags: "#imoverthisshit, #influncer, #mood, #bereshammond"
-  - username: "iamsinaamirii"
-    fullname: >-
-      sina amiri
-    location: "Canada"
-    followers: 27859
-    engagement: 833
-    commentsToLikes: 0.042427
-    id: ck602gm06hcn60i14kurkmaub
-    verified: false
-    hashtags: "#menshair, #babyliss, #stylist, #torontobarbers"
   - username: "theniteowlbarbershop"
     fullname: >-
       ○ THE NITE OWL BARBER SHOP ○
+    bio: >-
+      #barbershop #mensstyle #vintage #toronto 🖤Closed For Now! // LONG BRANCH // BROCKTON SHAVE • CUT • BEARD TRIM ⤵ Book in ⤵
     location: "Canada"
     followers: 21272
     engagement: 172
     commentsToLikes: 0.019597
     id: ck5cf9abamide0i119ywauaht
     verified: false
-    hashtags: "#solidarity, #haircut, #emergency, #filmphotography"
-  - username: "sammibarber"
+    hashtags: "#barber, #toronto, #barbershop, #covid"
+  - username: "marcoprinceton"
     fullname: >-
-      Sammi Barber
+      Toronto Barber • Princeton
+    bio: >-
+      ✪ Award Winning Barber ⬇️ Link Down Below To Book ⬇️
     location: "Canada"
-    followers: 24035
-    engagement: 302
-    commentsToLikes: 0.100589
-    id: ck5c8ww8iacz20i11dfma8gt6
+    followers: 7010
+    engagement: 752
+    commentsToLikes: 0.054994
+    id: ck5bw3mmzkxnv0i11r25qxkpd
     verified: false
-    hashtags: "#coldpressedjuice, #unboxing, #herballifeexpress, #canadianvodka"
+    hashtags: ""
+  - username: "iamsinaamirii"
+    fullname: >-
+      sina amiri
+    bio: >-
+      𝑊ℎ𝑒𝑟𝑒 𝑓𝑜𝑐𝑢𝑠 𝑔𝑜𝑒𝑠 𝐸𝑛𝑒𝑟𝑔𝑦 𝑓𝑙𝑜𝑤𝑠. 📍toronto 𝑊𝑒 𝑎𝑟𝑒 𝑤𝑖𝑛𝑛𝑒𝑟𝑠.
+    location: "Canada"
+    followers: 27215
+    engagement: 671
+    commentsToLikes: 0.045928
+    id: ck602gm06hcn60i14kurkmaub
+    verified: false
+    hashtags: "#sinaamiri, #streetstyle, #barber, #fashion"
   - username: "cabincalligraphy"
     fullname: >-
       Jesi | Toronto Lettering
+    bio: >-
+      # I L L I N K T O T H A T Colour Enthusiast & Pen Hoarder Weddings • Events • Murals • Metcons 🚨 Our Story Orders👇🏼
     location: "Canada"
     followers: 17074
     engagement: 218
     commentsToLikes: 0.037127
     id: ck6u232mepfc10j71yk5kcpfl
     verified: false
-    hashtags: "#glassmural, #personalgift, #letteringvideo, #instorechalkboard"
-  - username: "jon_roth_"
+    hashtags: "#watercolour, #watercolor, #illinktothat, #handlettering"
+  - username: "shawn_barbz"
     fullname: >-
-      Jon Roth
+      SHAWN BARBZ🏆10xAward Winning ✪
+    bio: >-
+      TORONTO CANADA 🇨🇦 Owner: ColdKutzBarberShop 📍Malton Coldkutz Salon & Spa📍Toronto 🏆CANADIAN NATIONAL CHAMPION🏆 •WAHL Educator and Brand Ambassador
     location: "Canada"
-    followers: 3394
-    engagement: 1963
-    commentsToLikes: 0.136306
-    id: ck5heflwhsnj80i116apm38ik
+    followers: 25966
+    engagement: 64
+    commentsToLikes: 0.125036
+    id: ck8swu8yqf9bv0j78w9stmizb
     verified: false
-    hashtags: "#collingwoodbarbershop, #crowsnestbarbershop, #myhomiewithanextrachromie, #themysticalbeast"
-  - username: "lolobe4"
+    hashtags: "#vancouver, #barbershopconnect, #wahlprocanada, #barbers"
+  - username: "seniorgumboy"
     fullname: >-
-      Laurence Bédard
+      SGB
+    bio: >-
+      ENTERTAINER 🇯🇲🇨🇦
     location: "Canada"
-    followers: 2855180
-    engagement: 299
-    commentsToLikes: 0.010112
-    id: ck15tc8exhdqh0i19xj2znpgh
+    followers: 55476
+    engagement: 305
+    commentsToLikes: 0.141308
+    id: ck0w3jsxyts5u0i19lb8ij5r0
+    verified: false
+    hashtags: "#the6ix, #culture, #caribbean, #comedy"
+  - username: "mc_woke"
+    fullname: >-
+      Alexa Joy
+    bio: >-
+      The Beatbox-Activist: Pro-Black, Woke, Ready to Disrupt the System ✊🏽 Founder @blackspacewpg 🖤 Festival Director @afroprairieff
+    location: "Canada"
+    followers: 2294
+    engagement: 1162
+    commentsToLikes: 0.105236
+    id: ck8sxts2mimts0j78lwuozzu1
+    verified: false
+    hashtags: "#podcast, #toronto, #repost, #podcastlife"
+  - username: "meddexx"
+    fullname: >-
+      Dr Meddexx 🇨🇬
+    bio: >-
+      Youtuber 75k+ subs | 130k+ on tiktok Snapchat | Tiktok : MEDDEXX Ma page pour les waves @wavolution Page barbiers: @barbiersfrancophones
+    location: "Canada"
+    followers: 26228
+    engagement: 180
+    commentsToLikes: 0.049369
+    id: ck5zrbqeawa7o0i14cistpjsh
+    verified: false
+    hashtags: "#meddexx, #montrealbarbers, #torontobarber, #torontobarbers"
+  - username: "slimmduck"
+    fullname: >-
+      Chris Boucher
+    bio: >-
+      Grind Now Shine Later 🏀⏱ @cb.elite 🎭The Cult of Personality🎭
+    location: "Canada"
+    followers: 150162
+    engagement: 649
+    commentsToLikes: 0.014134
+    id: ck5c0a5e2sqel0i11macsyf96
     verified: true
-    hashtags: ""
+    hashtags: "#gnsl, #nba, #wethenorth, #basketball"
+  - username: "kopke613"
+    fullname: >-
+      kopke613
+    bio: >-
+      🌏📍: [42/195] 📸: Canon / iPhone / GoPro 🕰 Tiktok: kopke613 (2M)
+    location: "Canada"
+    followers: 91234
+    engagement: 403
+    commentsToLikes: 0.022966
+    id: ck8wgbxneh2ru0j78dz4aazyr
+    verified: false
+    hashtags: "#milkywaychasers, #613, #space, #photography"
 ---

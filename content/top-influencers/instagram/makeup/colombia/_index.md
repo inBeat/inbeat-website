@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Colombia In 2020
 description: >-
-  Find top makeup Instagram influencers in Colombia in 2020. Most popular hashtags: #summer #quedateencasa #eyeliner #makeup.
+  Find top makeup Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #halloweenmakeup #colombia #makeupartist.
 platform: Instagram
+hits: 353
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 353 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "sofisalazarh"
-    fullname: >-
-      Sofía Salazar 👸
-    location: "Colombia"
-    followers: 65004
-    engagement: 1259
-    commentsToLikes: 0.089272
-    id: ck5ch3q9qq1zq0i11ahgq3nbf
-    verified: false
-    hashtags: ""
-  - username: "folliedolliebeaute"
-    fullname: >-
-      #FollieDollieTips 🌿 كارلا
-    location: "Colombia"
-    followers: 62727
-    engagement: 1175
-    commentsToLikes: 0.204695
-    id: ck15qy8xd58i10i199uk0b5pn
-    verified: false
-    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
-  - username: "kevincardona115"
-    fullname: >-
-      kevin cardona ♥️
-    location: "Colombia"
-    followers: 21837
-    engagement: 1366
-    commentsToLikes: 0.141747
-    id: ck6uchr04fo8x0j71dfgwscxy
-    verified: false
-    hashtags: "#jamescharlespalette, #nikitutorials, #makeupartis, #cosmoywanda"
-  - username: "danielabohor"
-    fullname: >-
-      Daniela Bohórquez
-    location: "Colombia"
-    followers: 57084
-    engagement: 496
-    commentsToLikes: 0.052890
-    id: ck5q540fgra840i11cnw458ni
-    verified: false
-    hashtags: "#quiltchallenge, #styleblogger, #aerolook, #summervibes"
-  - username: "nanaseverini"
-    fullname: >-
-      NANA-SEVERINI
-    location: "Colombia"
-    followers: 41560
-    engagement: 704
-    commentsToLikes: 0.035046
-    id: ck15pej91xhs80i1964adumcm
-    verified: false
-    hashtags: "#feliz2020, #carnavaldebarranquilla, #mermaid, #theoscarsanitavergara"
-  - username: "lauramonsalvomakeup"
-    fullname: >-
-      ✨Laura Makeup✨
-    location: "Colombia"
-    followers: 16998
-    engagement: 532
-    commentsToLikes: 1.078503
-    id: ckaov9slz3naa0i78gdzg4oq7
-    verified: false
-    hashtags: "#emprendedores, #limonada, #jueves, #tendencias2020"
-  - username: "lauraveloza_"
-    fullname: >-
-      Laura Veloza ♡
-    location: "Colombia"
-    followers: 11796
-    engagement: 642
-    commentsToLikes: 0.087187
-    id: ck6u3hh42xt4m0j71jiup90e9
-    verified: false
-    hashtags: "#badbunny, #ladygaga, #90sgirl, #softfashion"
   - username: "makeupby.gisselle"
     fullname: >-
-      Gisselle Elneser 💜 جيزيل النسر
+      Gisselle Elneser ✨ جيزيل النسر
+    bio: >-
+      Pro Makeup Artist & Beauty Educator. Cursos | Maquillaje Social | Novias. Collabs DM📥 Citas al: 3023315731 (Solo whatsapp) 📍Maicao - COLOMBIA✈️
     location: "Colombia"
-    followers: 8504
-    engagement: 671
-    commentsToLikes: 0.190888
+    followers: 11092
+    engagement: 954
+    commentsToLikes: 1.121768
     id: ck5q3irqwkxfu0i11m3yog9xl
     verified: false
-    hashtags: "#makeupcolombia, #editorialphotography, #colormakeup, #colorfull"
+    hashtags: "#makeupartist, #ofrabeauties, #colombia, #morpheglamfam"
+  - username: "sherlynlopezz"
+    fullname: >-
+      Sherlyn López 😍💃💘
+    bio: >-
+      -La Discapacidad es la capacidad de hacer las cosas diferentes😍💃🎶 -XX/X/XVIII😍👫 -@sherick_makeup_store -Publicidad al DM📩 -Tik tok: sherlynlop20😍
+    location: "Colombia"
+    followers: 27685
+    engagement: 508
+    commentsToLikes: 0.192414
+    id: ck6tzp0t5b09m0j71qr5113py
+    verified: false
+    hashtags: "#aniversario12energyfashion, #tbt, #lamareachallenge"
+  - username: "valeriahidalgomakeup"
+    fullname: >-
+      Valeria Hidalgo ✨
+    bio: >-
+      Cada día trato de mejorar y me gusta compartir mi proceso 💖 también dicto clases de makeup 🤓💄 Citas 👇🏼 @valeriahidalgo_makeup
+    location: "Colombia"
+    followers: 13386
+    engagement: 774
+    commentsToLikes: 0.165994
+    id: ck5hjtkwqh86s0i11zrtooonk
+    verified: false
+    hashtags: "#halloweenmakeup, #editorialmakeup, #makeup, #pestan"
   - username: "fatimakeupstudio"
     fullname: >-
       FATIMA MOURTADA ♡
+    bio: >-
+      Pro Makeup Artist & Beauty Educator ✨Maquillaje social y de Novia ✨Cursos de maquillaje 📍Maicao-Colombia I travel✈️ Info📲 SOLO WHATSAPP 3233909200 ⤵️
     location: "Colombia"
-    followers: 32528
-    engagement: 574
-    commentsToLikes: 0.036928
+    followers: 35525
+    engagement: 637
+    commentsToLikes: 0.042063
     id: ck15sfs30csp80i19bvsgdqqg
     verified: false
-    hashtags: "#eyelineronpoint, #lila, #eyeliner, #orange"
-  - username: "isaky06"
+    hashtags: "#cutcrease, #halloween, #makeupreel, #makeup"
+  - username: "cristinavivesj"
     fullname: >-
-      KY.
+      Makeup • Beauty • Lifestyle
+    bio: >-
+      Make-up artist & Beauty Vlogger 💄Citas de maquillaje @makeupbycristinavives 💌 Cristinavives04@gmail.com 🍕FOOD
     location: "Colombia"
-    followers: 107899
-    engagement: 190
-    commentsToLikes: 0.118948
-    id: ck6uelmmwrnri0j712j0ighqo
+    followers: 33725
+    engagement: 180
+    commentsToLikes: 0.055478
+    id: ck0tx48ijhubb0i19y9rokavw
     verified: false
-    hashtags: "#lashescursos, #medellin, #extensionespeloapelomedellin, #cursospesta"
+    hashtags: "#makeuptutorial, #tutorialmaquillaje, #muasfeaturing, #makeupartist"
+  - username: "adribeautyartist"
+    fullname: >-
+      ✨Adri Beauty Artist✨
+    bio: >-
+      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje y Cursos👇🏻
+    location: "Colombia"
+    followers: 13381
+    engagement: 852
+    commentsToLikes: 0.137053
+    id: ckaoyngqii8us0i78s7n5ut7m
+    verified: false
+    hashtags: "#maquillajebarranquilla, #makeupartist, #maquilladora, #maquillaje"
+  - username: "helenariot"
+    fullname: >-
+      🔗🔥 𝖍𝖊𝖑𝖊𝖓𝖆 𝐌 𝐔 𝐀🔥🔗
+    bio: >-
+      🔗Magical girl 🔗90s/ retro/avant garde🔗 Makeup artist 📍 Bogotá 🔥 ⤵️ Codigo de descuento @ttd_eye "helenariot" Último video en YouTube 👇
+    location: "Colombia"
+    followers: 9562
+    engagement: 842
+    commentsToLikes: 0.078063
+    id: ck6u3hg3uxsyx0j71ojphefek
+    verified: false
+    hashtags: "#ttdeye, #colorfulmakeup, #egirlmakeup, #softgirlaesthetic"
+  - username: "bymariajoserodriguez"
+    fullname: >-
+      Maria Jose Rodriguez
+    bio: >-
+      Makeup Artist | Hair | Academy 🔅La práctica hace la magia🔅 🔻Mi curso online de Eyeliner🔻
+    location: "Colombia"
+    followers: 23339
+    engagement: 223
+    commentsToLikes: 0.063340
+    id: ck5hfmngfy7cg0i11axnpyvew
+    verified: false
+    hashtags: "#eyeliner, #krashmyhalloween, #31daysofhalloween, #halloweenmakeup"
+  - username: "valemirallest"
+    fullname: >-
+      𝐌𝐈𝐑𝐀𝐋𝐋𝐄𝐒
+    bio: >-
+      MAKEUP ARTIST ART DIRECTION @vmirallesmua
+    location: "Colombia"
+    followers: 9382
+    engagement: 1740
+    commentsToLikes: 0.011028
+    id: ck5pvbfiph2950i11uhrteyu2
+    verified: false
+    hashtags: "#passionistas"
+  - username: "mariacamilaalba"
+    fullname: >-
+      Maria Camila Alba
+    bio: >-
+      Maraca Co founder @the.lunaticus Makeup @maracamakeup Maquilladora profesional mariacamilaalbah@gmail.com Inscríbete a la charla aquí ⬇️
+    location: "Colombia"
+    followers: 6938
+    engagement: 1077
+    commentsToLikes: 0.029409
+    id: ck5bys0o2pqea0i11f6egfj0s
+    verified: false
+    hashtags: "#pride, #tb"
 ---

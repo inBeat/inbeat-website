@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In New York In 2020
 description: >-
-  Find top vegan TikTok influencers in New York in 2020. Most popular hashtags: #vegan #newyork #keepingbusy #vegetarian.
+  Find top vegan TikTok influencers in New York in 2020. Most popular hashtags: #fyp #vegan #foryou #newyork.
 platform: TikTok
+hits: 41
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 41 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "argentinianking"
+  - username: "lee.hurst"
     fullname: >-
-      Nico Z
+      Lee Hurst
+    bio: >-
+      IG: @lee.hurst
     location: "United States"
-    followers: 10145
-    engagement: 1428
-    commentsToLikes: 0.040497
-    id: ck8ttln67s0q00j78o7y7pini
+    followers: 7080
+    engagement: 819
+    commentsToLikes: 0.062174
+    id: cka6f8k7aeotu0i780kex0mby
     verified: false
-    hashtags: "#trump, #jumpman, #foryou, #makemomsmile"
-  - username: "cookingwithnik"
+    hashtags: "#comedy, #truth, #nycapartmenttour, #momsoftiktok"
+  - username: "logangood_"
     fullname: >-
-      Nicole Abbatiello
+      Logan Good
+    bio: >-
+      🌎 Travel the Globe & #DoSomeGood 👆 Want to change the world? Follow Me!
     location: "United States"
-    followers: 16547
-    engagement: 673
-    commentsToLikes: 0.024481
-    id: cka0szldanp2e0i78qmsvii6c
+    followers: 310200
+    engagement: 2392
+    commentsToLikes: 0.057415
+    id: ck87tx8bf3x530j78nq5563bx
     verified: false
-    hashtags: "#fresh, #sweetpotato, #burrito, #sweetpotatoes"
-  - username: "hudsontarlow"
+    hashtags: "#plastic, #beimir, #foryou, #tiktalk"
+  - username: "shaylynn.edwards"
     fullname: >-
-      Hudson Tarlow
+      Shay
+    bio: >-
+      24 | Queer | Vegan Philadelphia if ur a potential employer, no ur not
     location: "United States"
-    followers: 65314
-    engagement: 706
-    commentsToLikes: 1.284557
-    id: ck8s5je2tg4rt0j78hh97v1xo
+    followers: 25200
+    engagement: 700
+    commentsToLikes: 0.013932
+    id: ck8vy2fzpswmo0j78jcvanm6v
     verified: false
-    hashtags: "#westcoast, #dairy, #crueltyfree, #cali"
-  - username: "veggiekins"
+    hashtags: "#lgbt, #thisisus, #couplegoals, #foryoupage"
+  - username: "johnphilp3"
     fullname: >-
-      Veggiekins ✨🌱
+      johnphilp3
+    bio: >-
+      the craziest thing we can do is nothing ⚡️ Texan in NYC IG: @johnphilp3
     location: "United States"
-    followers: 25852
-    engagement: 1046
-    commentsToLikes: 0.014248
-    id: ck8savrcm3vjb0j784f5skhhy
+    followers: 38400
+    engagement: 552
+    commentsToLikes: 0.017847
+    id: ck9nidthwgsi70j785bus7p8o
     verified: false
-    hashtags: "#veganhumor, #whatieataday, #happyathome, #1minutevlogs"
-  - username: "bakedbymelissa"
-    fullname: >-
-      bakedbymelissa
-    location: "United States"
-    followers: 5826
-    engagement: 2215
-    commentsToLikes: 0.016912
-    id: ck8z2hgpq5d8f0j784nos01qi
-    verified: false
-    hashtags: "#vanillacake, #cookinghacks, #cookiesandcream, #rainbow"
-  - username: "goldypb08"
-    fullname: >-
-      GoldyPB08wale
-    location: "United States"
-    followers: 56193
-    engagement: 883
-    commentsToLikes: 0.026836
-    id: cka0ss0q3mt870i78tfoxia0w
-    verified: false
-    hashtags: "#tiktokpunjab, #emotional, #justdancemoves, #got2bhome"
+    hashtags: "#dairyfree, #fyp, #mealprep, #quickrecipes"
   - username: "cherrymandering"
     fullname: >-
       cherry mandering
+    bio: >-
+      18+ only https://discord.gg/neHQKYr pringles can guy @acronach6 for not politics
     location: "United States"
-    followers: 3119
-    engagement: 801
-    commentsToLikes: 0.132338
+    followers: 3841
+    engagement: 720
+    commentsToLikes: 0.126056
     id: ck9fg7uni0lci0j78i6fxoap4
     verified: false
-    hashtags: "#pennsylvania, #health, #fakenews, #emails"
-  - username: "dinovagino"
+    hashtags: "#trump, #socialism, #eattherich, #9axes"
+  - username: "calbal12345"
     fullname: >-
-      cheesy fiesta potato
+      Cal
+    bio: >-
+      20, California//New York
     location: "United States"
-    followers: 2020
-    engagement: 748
-    commentsToLikes: 0.073805
-    id: ckachub4l0rvo0i78rfs8t36g
+    followers: 6637
+    engagement: 901
+    commentsToLikes: 0.066081
+    id: ck81q7mxlgleb0j78522u17z5
     verified: false
-    hashtags: "#mycrib, #covid19, #zoomchallenge, #bobross"
-  - username: "jamesdeveney"
+    hashtags: "#fashion, #britneyspears, #ohno, #halloween"
+  - username: "giuliasabatinoo"
     fullname: >-
-      James Deveney
+      giulia
+    bio: >-
+      vegan 🌱✨ (we’re not all like the vegan teacher i promise)
     location: "United States"
-    followers: 66642
-    engagement: 1381
-    commentsToLikes: 0.041553
-    id: ck8hrxj8zaq0q0j78hi4qudcf
+    followers: 21800
+    engagement: 1629
+    commentsToLikes: 0.306454
+    id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#addiction, #family, #workout, #england"
-  - username: "ashphroditex"
+    hashtags: "#duet, #fyp, #vegan, #greenscreen"
+  - username: "laurenzray"
     fullname: >-
-      Ashley
+      Lauren Z Ray
+    bio: >-
+      My Mini Travel 🌎 Vlogs + vegan food
     location: "United States"
-    followers: 30194
-    engagement: 1215
-    commentsToLikes: 0.043209
-    id: cka0jzvcxkg3f0i789clpspfl
+    followers: 91000
+    engagement: 1037
+    commentsToLikes: 0.084531
+    id: ckbqdfsjgzfws0j23m92pvvxq
     verified: false
-    hashtags: "#curls, #europe, #facechallenge, #foodie"
+    hashtags: "#newyorkcity, #fall, #newyork, #tiktoktravel"
+  - username: "jasonspiratos"
+    fullname: >-
+      Jason Spiratos
+    bio: >-
+      I’m a Vegan Gemini who loves Miley Cyrus. K Follow my Instagram @jasonspiratos_
+    location: "United States"
+    followers: 45300
+    engagement: 898
+    commentsToLikes: 0.127864
+    id: ck8s7q59yq8w40j78zt1joku2
+    verified: false
+    hashtags: "#foryou, #hannahmontana, #disney, #nyc"
+  - username: "vegan8ooty"
+    fullname: >-
+      Vegan Body
+    bio: >-
+      Vegan Lifestyle Clothing Brand
+    location: "United States"
+    followers: 2966
+    engagement: 396
+    commentsToLikes: 0.247120
+    id: ck9evvj1wk8bx0j78f4q9c8cv
+    verified: false
+    hashtags: "#veganfashion, #veganlife, #vegana, #govegan"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Spain In 2020
 description: >-
-  Find top yoga Instagram influencers in Spain in 2020. Most popular hashtags: #balance #mindfulness #yinyoga #backbend.
+  Find top yoga Instagram influencers in Spain in 2020. Most popular hashtags: #yoga #yogainspiration #yogini.
 platform: Instagram
+hits: 248
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 248 Instagram influencers like this in Spain for you to collaborate.
 profiles:
-  - username: "karenrachael88"
+  - username: "agostinamoroni"
     fullname: >-
-      b a c k b e n d  l o v e
+      Agostina Moroni
+    bio: >-
+      📍Sevilla, España | Yoga&pilates | Vegetariana
     location: "Spain"
-    followers: 11796
-    engagement: 1636
-    commentsToLikes: 0.064766
-    id: ck9hc2gaajgk00j78k1jofup9
+    followers: 22042
+    engagement: 453
+    commentsToLikes: 0.011951
+    id: ck5zp7mtis57b0i14jofkxvdz
     verified: false
-    hashtags: "#stradilooks, #yogachallenge, #dreambig, #aloyoga"
-  - username: "flou_yoga"
+    hashtags: "#yoga"
+  - username: "karletyoga"
     fullname: >-
-      Fatima
+      Génesis Karlet - yoga coach
+    bio: >-
+      If I were a writer I’d have a better Instagram bio quote ヅ Check out the link below 👇 #Yoga | #Wellness | #Lifestyle 📍Spain
     location: "Spain"
-    followers: 43406
-    engagement: 568
-    commentsToLikes: 0.190312
-    id: ck13bfe32v5w20i19pkdhwrqv
+    followers: 57548
+    engagement: 364
+    commentsToLikes: 0.120616
+    id: ck5hls975kri80i11ej5shih4
     verified: false
-    hashtags: "#yogaprop, #namaste, #yogapost, #balance"
-  - username: "yogini_nihal"
+    hashtags: "#beachbumlife, #heartopener, #loveistheway, #beachwalks"
+  - username: "carlasanchez.well"
     fullname: >-
-      Nihal Çaldağ
+      Carla Sánchez
+    bio: >-
+      @theholisticconcept & @secretyogaclub.es co-Founder Directos diarios💻 Plataforma #TheHolistic @yoga_en_gaia Ambassador @instylespain Blogger
     location: "Spain"
-    followers: 9499
-    engagement: 1091
-    commentsToLikes: 0.073763
-    id: ckaos2blmpu9l0i785mgjx9tm
+    followers: 18785
+    engagement: 447
+    commentsToLikes: 0.088625
+    id: ck5qegbpa0ckr0i11oqp6dldh
     verified: false
-    hashtags: "#momandson, #yogaforlife, #yogatravel, #alochallenge"
-  - username: "ayogakindalife"
+    hashtags: "#healthylifestyle, #instagood, #healthy, #dailyreset"
+  - username: "ranibruchstein"
     fullname: >-
-      Lisa | Yoga | Fuerteventura
+      Rani Bruchstein
+    bio: >-
+      Welcome to my world 🌎, living in Barcelona Spain 🇪🇸, looking for models, dancers and yoga models, DM for more details
     location: "Spain"
-    followers: 8821
-    engagement: 1285
-    commentsToLikes: 0.068246
-    id: ck0twl02gfuqe0i19qgarqq1q
+    followers: 31112
+    engagement: 351
+    commentsToLikes: 0.075795
+    id: ck5hdrpqkp17h0i11m5u2iehz
     verified: false
-    hashtags: "#yinyoga, #lizardpose, #createspace, #loveyoursweat"
-  - username: "albafityoga"
+    hashtags: "#canonphotography, #naturephotography, #portraiture, #portraitofday"
+  - username: "jesuslobo_"
     fullname: >-
-      Alba Safe
+      Lobo
+    bio: >-
+      🧘🏼‍♂️Estudiante de Hatha Yoga 📺 Concursante en @famaabailarcero 📲 jesuslobosix@gmail.com
     location: "Spain"
-    followers: 7480
-    engagement: 811
-    commentsToLikes: 0.251726
-    id: ck13bfdf6v5r20i1970j9ei5p
+    followers: 14699
+    engagement: 516
+    commentsToLikes: 0.077191
+    id: ck5q2nur1gxem0i11eeoch4iv
     verified: false
-    hashtags: "#bakasana, #babybakasana, #cocobox, #yogatcha"
-  - username: "woman_word"
+    hashtags: "#choreo, #dancer, #choreography, #dance"
+  - username: "nuri.lop"
     fullname: >-
-      Rocío Pastor Eugenio
+      N U R I A   L Ó P E Z ® Actriz
+    bio: >-
+      ACTRIZ / ACTRESS 🎬 #teatro 🎭 #cine 📽 y #tv 📺 🧘‍♀️ Amante del #yoga el #fitness y la #vidasana 📍 #valencia 📞 Representante: +34 963 919 825
     location: "Spain"
-    followers: 56670
-    engagement: 222
-    commentsToLikes: 0.122874
-    id: ck5bxt1q3od210i11ws22clte
+    followers: 6759
+    engagement: 971
+    commentsToLikes: 0.104748
+    id: ck14kex9kp6x30i19dmce25qo
     verified: false
-    hashtags: "#burbonstreet, #writing, #monte, #traveldog"
-  - username: "calvarezbcn"
-    fullname: >-
-      𝗖𝗔𝗥𝗟𝗢𝗦
-    location: "Spain"
-    followers: 5858
-    engagement: 1299
-    commentsToLikes: 0.047266
-    id: ck8t69ojrcs920j78n4qzbfpm
-    verified: false
-    hashtags: "#optimistic, #sundayfunday, #gaytattoo, #instadaily"
+    hashtags: "#domingo, #cambiodelook, #uttitahastapadangustasana, #buenosdias"
   - username: "rosannau"
     fullname: >-
       Rosanna 🍇
+    bio: >-
+      A veces tomando la foto, a veces en la foto. Hace un tiempo comencé un viaje, ese viaje lo comparto en @rosanna.yoga 📿 👰🏻 to @anaisalopez
     location: "Spain"
-    followers: 8364
-    engagement: 1304
-    commentsToLikes: 0.029805
+    followers: 8727
+    engagement: 1169
+    commentsToLikes: 0.028021
     id: ckap8jthaomsy0i78ft67idsf
     verified: false
-    hashtags: "#30, #diadelavisibilidad, #rqnf, #buonnatale"
-  - username: "galaortin"
+    hashtags: "#diadelavisibilidad, #rqnf, #pinky, #habitossaludables"
+  - username: "karenrachael88"
     fullname: >-
-      Gala
+      Karen Rachael
+    bio: >-
+      when in doubt, bend 😙 Yoga, Style, Travel ✨ #backbendlovingyogi 🤍 📍Galicia
     location: "Spain"
-    followers: 9786
-    engagement: 905
-    commentsToLikes: 0.135335
-    id: ck6ucbt37eokn0j71o426lpul
+    followers: 66263
+    engagement: 252
+    commentsToLikes: 0.038148
+    id: ck9hc2gaajgk00j78k1jofup9
     verified: false
-    hashtags: "#yogaquotes, #groundingpose, #yogawall, #lforlove"
-  - username: "carlasanchez.well"
+    hashtags: "#igreels, #backbendlove, #backbendlovingyogi, #aloselfloveseason"
+  - username: "flou_yoga"
     fullname: >-
-      Carla Sánchez
+      Fatima
+    bio: >-
+      Yoga | Movement | Gratitude ✨Sparkle of joy 💚Sharing my yoga journey and happy thoughts to hopefully inspire someone 😷Also a dentist 🐚Galicia, Spain
     location: "Spain"
-    followers: 17966
-    engagement: 263
-    commentsToLikes: 0.068519
-    id: ck5qegbpa0ckr0i11oqp6dldh
+    followers: 50699
+    engagement: 133
+    commentsToLikes: 0.110972
+    id: ck13bfe32v5w20i19pkdhwrqv
     verified: false
-    hashtags: "#familia, #greece, #martasmoreno, #madrid"
+    hashtags: "#yogafit, #aloyoga, #yogabody, #yogapose"
+  - username: "maja_cop"
+    fullname: >-
+      MAJA COP
+    bio: >-
+      @manawai_boutique @yogainphotos Nature lover 💙♻️
+    location: "Spain"
+    followers: 7823
+    engagement: 308
+    commentsToLikes: 0.079789
+    id: ck15pb07mwzc00i1913fxirde
+    verified: false
+    hashtags: "#endlesssummer, #nature, #yogis, #saltyvibes"
 ---

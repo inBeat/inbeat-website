@@ -1,32 +1,53 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Dallas In 2020
 description: >-
-  Find top architecture Instagram influencers in Dallas in 2020. Most popular hashtags: #architecture #nature #diningroom #repost.
+  Find top architecture Instagram influencers in Dallas in 2020. Most popular hashtags: #architecture #dallas #art #design.
 platform: Instagram
+hits: 29
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 29 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
+  - username: "sushiiimilk"
+    fullname: >-
+      Female Tattoo Artist
+    bio: >-
+      Bringing you: Tattoos, Jams, & Threads DM for booking inquires Deposit required ✨
+    location: "United States"
+    followers: 12037
+    engagement: 1141
+    commentsToLikes: 0.043071
+    id: ck6tu8c3cevrb0j71kdtyt3d9
+    verified: false
+    hashtags: "#styledby, #plants, #fyp, #ootd"
+  - username: "jenkinsinteriors"
+    fullname: >-
+      jenkins interiors
+    bio: >-
+      High-End Residential, Full-Scale Interior Design Firm located in Dallas, TX #schemescometrue #dallas #interiordesign
+    location: "United States"
+    followers: 52912
+    engagement: 233
+    commentsToLikes: 0.027789
+    id: ckaor092hl5pv0i785nqqsfgj
+    verified: false
+    hashtags: "#interiordesign, #classyinteriors, #homeinteriors, #dallasdesigndistrict"
   - username: "stephensillsassociates"
     fullname: >-
       Stephen Sills Associates
+    bio: >-
+      Designer of interiors, constant gardener, lover of beautiful things
     location: "United States"
     followers: 61371
     engagement: 182
     commentsToLikes: 0.033726
     id: ck55lez4b1eto0i11bfh281s5
     verified: false
-    hashtags: "#studydesign, #fireplace, #tabledesign, #winter"
-  - username: "partyonthefarm"
-    fullname: >-
-      𝘊𝘩𝘳𝘪𝘴𝘵𝘪𝘦 #partyonthefarm
-    location: "United States"
-    followers: 3102
-    engagement: 1045
-    commentsToLikes: 0.444829
-    id: ck5qa7omceyzk0i115px6t50h
-    verified: false
-    hashtags: "#partyanimals, #food, #friscotx, #makehomematter"
+    hashtags: "#interiordesign, #decoration, #stephensills, #design"
   - username: "lovesdfw"
     fullname: >-
       Ben Zavala
+    bio: >-
+      Dallas, TX. Architecture | City Landscape | Travel Sony A7iii | Sony a6500 👇 For prints 👇
     location: "United States"
     followers: 3633
     engagement: 1688
@@ -34,74 +55,76 @@ profiles:
     id: ck135dhp90wpw0i195ux6vys6
     verified: false
     hashtags: ""
-  - username: "jenkinsinteriors"
+  - username: "__czzar__"
     fullname: >-
-      jenkins Interiors
+      
+    bio: >-
+      @_ceasar_salad_
     location: "United States"
-    followers: 44011
-    engagement: 274
-    commentsToLikes: 0.032741
-    id: ckaor092hl5pv0i785nqqsfgj
+    followers: 20708
+    engagement: 678
+    commentsToLikes: 0.032659
+    id: ck5qax6e4iptm0i11gtmvhazo
     verified: false
-    hashtags: "#stairs, #cafecurtain, #pattern, #diningroom"
-  - username: "brandon_barre"
+    hashtags: "#ontheroofs, #artofvisuals, #citykillerz, #urbex"
+  - username: "theamericanmansion"
     fullname: >-
-      BRANDON BARRÉ PHOTOGRAPHY
+      The American Man$ion
+    bio: >-
+      The best address for luxury #realestate and fine #interiordesign 🏡 Architectural Designer ❯ Creator ❯ Content Manager ❯ @amazon Aff
     location: "United States"
-    followers: 22937
-    engagement: 274
-    commentsToLikes: 0.026605
-    id: ck0ttdi4229iv0i19qbu19kf6
+    followers: 86906
+    engagement: 126
+    commentsToLikes: 0.026231
+    id: ck5hpsd27rvzi0i11d48qz71f
     verified: false
-    hashtags: "#interiorarchitecture, #halekulanihotel, #toronto, #travelphotographer"
+    hashtags: "#newjerseyrealestate, #dallasrealestate, #luxuryhome, #frenchinspired"
+  - username: "shmarchitects"
+    fullname: >-
+      SHM Architects
+    bio: >-
+      We believe that passion and time lead to beautiful, purposeful designs.
+    location: "United States"
+    followers: 16935
+    engagement: 165
+    commentsToLikes: 0.018140
+    id: ck6ttws5nd0ma0j71xcvkg2hz
+    verified: false
+    hashtags: "#interiordesign, #office, #interior, #texas"
   - username: "marcosal85"
     fullname: >-
       Marco
+    bio: >-
+      •ARCHITECT •MODEL •TRAVELER •CONTENT CREATOR •DALLAS, TX. 📍 For bookings/brand deals: ✉️officialmarcosal85@gmail.com
     location: "United States"
-    followers: 99301
-    engagement: 427
-    commentsToLikes: 0.021042
+    followers: 104448
+    engagement: 294
+    commentsToLikes: 0.021462
     id: ckaoujcuc0iy50i78ms1a6005
     verified: false
-    hashtags: "#isladepascua, #machupicchu, #backyard, #architecture"
+    hashtags: "#veins, #scruff, #studs, #traveltheworld"
+  - username: "jenm_xx"
+    fullname: >-
+      Jennifer Marckx
+    bio: >-
+      #blacklivesmatter Seattle 🌎 Furniture 🛠 Architecture Viz 🌇 Women in Business 💪🏽
+    location: "United States"
+    followers: 13889
+    engagement: 592
+    commentsToLikes: 0.054012
+    id: ckap0nnygr3ar0i78hcf6z78c
+    verified: false
+    hashtags: "#becauseidontknow, #imgoodluvenjoy, #justiceforahmaud, #dutchbraidenergy"
   - username: "thefunkgypsy"
     fullname: >-
       Michele Moss Design
+    bio: >-
+      🌿 Dallas Interior & Event Designer 💙 Featured Designer @houzz 🌿 Home Decor & Lifestyle 💙 San Diego, CA ——> Prosper, TX
     location: "United States"
-    followers: 26198
-    engagement: 296
-    commentsToLikes: 0.241671
+    followers: 26484
+    engagement: 266
+    commentsToLikes: 0.266009
     id: ck0vy969v2u8w0i19k0mgf73x
     verified: false
-    hashtags: "#campthemeroom, #girlswhoblog, #spring2020, #disneylove"
-  - username: "swagroup"
-    fullname: >-
-      SWA
-    location: "United States"
-    followers: 8551
-    engagement: 357
-    commentsToLikes: 0.008265
-    id: ck0w5xaql5w350i19speamgeu
-    verified: false
-    hashtags: "#creative, #cyclinglife, #commute, #plantagarden"
-  - username: "fieldoperations"
-    fullname: >-
-      James Corner Field Operations
-    location: "United States"
-    followers: 25235
-    engagement: 262
-    commentsToLikes: 0.005084
-    id: ck0vwmuhyukv40i19z9hpg218
-    verified: false
-    hashtags: "#portagecove, #designwithnaturenow, #mchargcenter, #resilientdesign"
-  - username: "ryanstreetandassociates"
-    fullname: >-
-      Ryan Street & Associates
-    location: "United States"
-    followers: 9533
-    engagement: 531
-    commentsToLikes: 0.018208
-    id: ck5c1ddpyuy7u0i11aip94k4d
-    verified: false
-    hashtags: "#outdoorliving, #stratfordmountain, #bettis, #interior"
+    hashtags: "#bhghome, #fashionblogger, #hgtv, #ighome"
 ---

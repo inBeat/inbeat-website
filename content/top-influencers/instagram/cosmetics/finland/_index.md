@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Finland In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Finland in 2020. Most popular hashtags: #summer #cosmetics #instamakeup #skincare.
+  Find top cosmetics Instagram influencers in Finland in 2020. Most popular hashtags: #makeup #beauty #cosmetics #makeupartist.
 platform: Instagram
+hits: 11
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in Finland for you to collaborate.
 profiles:
+  - username: "annekukkohovi"
+    fullname: >-
+      Anne Kukkohovi
+    bio: >-
+      Eco Cosmetics Queen & Rap Lover 💓 info@supermood.fi 💓 Founder @supermoodbeauty 💓 Co-founder @luvacare 💓 Web @dsgnrs.fi
+    location: "Finland"
+    followers: 37849
+    engagement: 437
+    commentsToLikes: 0.037660
+    id: ck6tt7c7a90zp0j719zj0s4z7
+    verified: true
+    hashtags: "#kotiscandic, #koticlassic, #koticlassicplus, #gingerpeoplesuomi"
   - username: "eeviteittinen"
     fullname: >-
       Eevi Teittinen
+    bio: >-
+      ⭐HOHDE Organic Cosmetics Ambassador ❤ Life & Sport Coach 💚 Interior @eevidesign 🧡 Training Camps @activecampfinland 💙Email eevi@eeviteittinen
     location: "Finland"
-    followers: 116969
-    engagement: 266
-    commentsToLikes: 0.009180
+    followers: 114606
+    engagement: 241
+    commentsToLikes: 0.005865
     id: ck6ucs71wh8wh0j71tnymkalk
     verified: true
-    hashtags: "#stayhome, #homeoffice, #natural, #thisisme"
-  - username: "bettyfvck"
+    hashtags: "#doglife, #kotimaanmatkailu, #vacation, #autumn"
+  - username: "tinatevosyan_beautycenter"
     fullname: >-
-      Betty Fvck
+      Tina Tevosyan Beauty Center
+    bio: >-
+      💄Founded by @makeuptinaa 📍Yerevan, Baghramyan 85 Marketing 📱 +374 98 908264 👇🏼Join our FB page
     location: "Finland"
-    followers: 26928
-    engagement: 497
-    commentsToLikes: 0.086503
-    id: ck0ub8diwdyw30i19vnqv9h62
+    followers: 86589
+    engagement: 107
+    commentsToLikes: 0.006012
+    id: ck6ueah20prxl0j71yxjzum2c
     verified: false
-    hashtags: "#vougemagazine, #queenofdrags, #aphrodite, #dominatrix"
-  - username: "katherinekuzin"
+    hashtags: "#hairdresser, #topmakeup, #weddingmakeup, #hairfashion"
+  - username: "tuulaslife"
     fullname: >-
-      Charlie 🌑🐁
+      Tuula / Tuula's life
+    bio: >-
+      Moments of my life ❤️ Lifestyle blogger Turku Finland Lue uusin juttu blogista ↙️
     location: "Finland"
-    followers: 21561
-    engagement: 438
-    commentsToLikes: 0.014800
-    id: ck0ubm4bhevok0i19bovpc199
+    followers: 5545
+    engagement: 788
+    commentsToLikes: 0.101777
+    id: ck13a03b6nykf0i19nnzso8q7
     verified: false
-    hashtags: "#trend, #makeuplooks, #blackmetalgirl, #makeupaddict"
-  - username: "finniche_scents"
+    hashtags: "#archipelago, #yescellbes, #linkkiprofiilissa, #marraskuu"
+  - username: "blvckmurose"
     fullname: >-
-      
+      Aundrey
+    bio: >-
+      ° Scandinavian Cypriot Mastered Makeup artist x stylist
     location: "Finland"
-    followers: 7634
-    engagement: 1154
-    commentsToLikes: 0.138206
-    id: ck5c22ojwwfjh0i11h5xre3cz
+    followers: 6202
+    engagement: 592
+    commentsToLikes: 0.015426
+    id: ck5c5ry7h41jg0i11xcvxf7jb
     verified: false
-    hashtags: "#tobaccooud, #sweet, #royalmayfair, #2man"
+    hashtags: "#aesthetic, #ocean, #fashion, #beigeaesthetic"
+  - username: "ainopans"
+    fullname: >-
+      Aino [EYE-no]
+    bio: >-
+      🌿from Finland 🌻she/her 🍊I love all things beauty and skincare, from luxury to drugstore 👶🏼midwife by day, beauty blogger by night 🌞ainopans@gmail.com
+    location: "Finland"
+    followers: 10741
+    engagement: 551
+    commentsToLikes: 0.031939
+    id: ck8t3u83r4iit0j78pwtrce36
+    verified: false
+    hashtags: "#highlighter, #makeup, #toofaced, #natashadenonametropolispalette"
   - username: "noorasusann"
     fullname: >-
       Noora Susanna 🌸
+    bio: >-
+      FIN 🇫🇮 / PH 🇵🇭 📍Finland 🌷☀️ Blog ⤵️
     location: "Finland"
     followers: 2482
     engagement: 2117
     commentsToLikes: 0.045437
     id: ck5bzewc5r08a0i117gsj25py
     verified: false
-    hashtags: "#memories, #skincarenatural, #traveldiary, #europetravel"
-  - username: "blvckmurose"
+    hashtags: "#smallmomentsofcalm, #asennesurf, #surfsup, #skincare"
+  - username: "katherinekuzin"
     fullname: >-
-      Aundrey
+      Katherine 🐁
+    bio: >-
+      📍Helsinki Full of trouble.
     location: "Finland"
-    followers: 6057
-    engagement: 586
-    commentsToLikes: 0.024535
-    id: ck5c5ry7h41jg0i11xcvxf7jb
+    followers: 21331
+    engagement: 399
+    commentsToLikes: 0.020981
+    id: ck0ubm4bhevok0i19bovpc199
     verified: false
-    hashtags: "#hair, #picoftheday, #hairstyles, #instadaily"
-  - username: "cesar_leonn"
+    hashtags: "#gothgirl, #gothicmakeup, #spookygirl, #gothgoth"
+  - username: "emma.dragon"
     fullname: >-
-      Cesar Leon
+      🐉Emma🐉
+    bio: >-
+      💄Makeup Enthusiast 📩 Contact: emma.dragon@hotmail.com 📍Helsinki, Finland
     location: "Finland"
-    followers: 18655
-    engagement: 1734
-    commentsToLikes: 0.026059
-    id: ck8t9da2wno440j78pjkt1wdb
+    followers: 18234
+    engagement: 585
+    commentsToLikes: 0.040947
+    id: ck6uhcgpy8ben0j71oxyw06qz
     verified: false
-    hashtags: "#gold, #tiktokmakeup, #love, #makeuponpoint"
-  - username: "sosssi"
+    hashtags: ""
+  - username: "dhayricci"
     fullname: >-
-      𝕾𝖔𝖓𝖏𝖆 𝕳𝖞𝖙𝖙𝖎𝖓𝖊𝖓 (𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑)
+      Dhay Ricci
+    bio: >-
+      💁🏽‍♀️| SOCIAL MAKEUP SPECIALIST 👰🏼|BRIDAL MAKEUP 👩🏼‍🎓| CURSOS - INICIANTE 🧑🏼‍🎨|PERFECCIONAMIENTO Tutoriales y más... 💌|Agenda⬇️
     location: "Finland"
-    followers: 67215
-    engagement: 775
-    commentsToLikes: 0.011221
-    id: ck5hfmpr1y7pp0i11qb9j3id9
+    followers: 21578
+    engagement: 193
+    commentsToLikes: 0.140481
+    id: ck6ti46wb007t0j711em8r2mm
     verified: false
-    hashtags: "#happiness, #walkingaround, #forest, #babysteps"
-  - username: "stella.s.makeup"
-    fullname: >-
-      Stella Sironen
-    location: "Finland"
-    followers: 66985
-    engagement: 468
-    commentsToLikes: 0.010506
-    id: ck5zzl68ibxz10i14s4q4rqjv
-    verified: false
-    hashtags: "#nyxcosmeticsnordics, #sweedlashes, #glistencosmetics, #lindahallbergcosmetics"
-  - username: "roseshock"
-    fullname: >-
-      Rose Shock
-    location: "Finland"
-    followers: 186774
-    engagement: 317
-    commentsToLikes: 0.023538
-    id: ck134ai5wvhrc0i190hs455ld
-    verified: false
-    hashtags: "#nonbinarypride, #crashteamracing, #huulient, #virgo"
+    hashtags: "#makeupartist, #makeupartistvzla, #podermua, #musuquerida"
 ---

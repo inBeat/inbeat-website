@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Cali In 2020
 description: >-
-  Find top fitness Instagram influencers in Cali in 2020. Most popular hashtags: #quedateencasa #covid #fitness #tbt.
+  Find top fitness Instagram influencers in Cali in 2020. Most popular hashtags: #colombia #cali #fitness #zumba.
 platform: Instagram
+hits: 49
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 49 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
+  - username: "isabellacubillos"
+    fullname: >-
+      ISABELLA CUBILLOS
+    bio: >-
+      Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
+    location: "Colombia"
+    followers: 57746
+    engagement: 184
+    commentsToLikes: 0.043571
+    id: ck8t6makke3v20j78m7phwtob
+    verified: false
+    hashtags: "#lifestyle, #selfie, #cardiohiit, #fitnessjourney"
+  - username: "brigituks"
+    fullname: >-
+      ☆ Brigita Maldutytė ☆ ♊️
+    bio: >-
+      ѕтυ∂єит / ℓιтнυαиιαимσ∂єℓ _ #supermodels.lt 👠 📍 Medellín, Colombia 🇨🇴 with @iamincover
+    location: "Colombia"
+    followers: 10814
+    engagement: 357
+    commentsToLikes: 0.039354
+    id: ck0ude8giiy7a0i19zhg7dm27
+    verified: false
+    hashtags: "#sabaneta, #friday, #nature, #happy"
+  - username: "danielgarciazumba"
+    fullname: >-
+      Daniel García
+    bio: >-
+      🚨 SIGUEME EN @brothers_twinz 🚨 • Zumba® Instructor 🌎 • International Zumba® Fitness Presenter • ZIN Member™ • Cali, Colombia 🇨🇴
+    location: "Colombia"
+    followers: 4788
+    engagement: 875
+    commentsToLikes: 0.080545
+    id: ckaoydj2uh26b0i78rq2ifuxo
+    verified: false
+    hashtags: "#cali, #colombia, #zumbawear, #zumba"
+  - username: "fabioarboleda"
+    fullname: >-
+      FABIO ARBOLEDA L⚡️
+    bio: >-
+      Cuenta Oficial 🥋Jiu-Jitsu Brasilero Competidor Faixa Marrom 𝐃esafio 𝟐𝟎𝟏𝟗⚡️🧡 Abogado Esp. D Administrativo Caleño
+    location: "Colombia"
+    followers: 34275
+    engagement: 314
+    commentsToLikes: 0.035510
+    id: ck6tuwi1jithm0j71puf9ijn1
+    verified: false
+    hashtags: "#tbt, #bodyweightworkout, #workout, #brazilianjiujitsu"
   - username: "brothers_twinz"
     fullname: >-
       Daniel & Nicolás García
+    bio: >-
+      • Zumba® Fitness Instructors 🌍 • International Zumba® Fitness Presenters 🌐 • ZIN Members™ • Cali, Colombia 🇨🇴 #brotherstwinz #zumbatwinz #LOSDUROS
     location: "Colombia"
-    followers: 38744
-    engagement: 471
-    commentsToLikes: 0.050909
+    followers: 55672
+    engagement: 503
+    commentsToLikes: 0.033359
     id: ck1396l5rjsdw0i19u7nha11g
     verified: false
-    hashtags: "#jbalvin, #fotodeldia, #calama, #lunes"
-  - username: "anacespedesc"
+    hashtags: "#rumbaysalud, #zumba, #zumbatwinz, #zumbacali"
+  - username: "jonamontoyazumba"
     fullname: >-
-      ANA C.
+      Jonathan Montoya
+    bio: >-
+      “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
     location: "Colombia"
-    followers: 352905
-    engagement: 429
-    commentsToLikes: 0.022083
-    id: ck8sz2flhmx4e0j78jyq6uyfm
+    followers: 13357
+    engagement: 674
+    commentsToLikes: 0.063292
+    id: ck1396johjs550i19eksedc0q
     verified: false
-    hashtags: "#tbt, #nofilters"
-  - username: "melanieliz1"
+    hashtags: "#salsacale, #instagood, #colombiapresente, #zumbafitness"
+  - username: "claudiaariasoficial"
     fullname: >-
-      Melanie Liz
+      Claudia Arias
+    bio: >-
+      #communitymanager #productora #audiovisual #presentadora y #locutor De @siguemetv Lcda.Administración de Empresas Contrataciones
     location: "Colombia"
-    followers: 65787
-    engagement: 408
-    commentsToLikes: 0.008897
-    id: ck6u3phesz4ie0j71e0swh4ad
+    followers: 6501
+    engagement: 1050
+    commentsToLikes: 0.119800
+    id: ck9wey9bymeeq0j78xcue3ftv
     verified: false
-    hashtags: "#elpoderdesertu, #quedateencasa, #yomequedoencasa, #amoinfinitek"
-  - username: "energym.fitness.col"
+    hashtags: "#felices, #costarica, #uruguay, #septiembre"
+  - username: "mabelkremer"
     fullname: >-
-      Ener Gym Fitness
+      Mabel Kremer
+    bio: >-
+      Periodista y TV Host @telepacifico @camaracolombia Mamá 💕Bugueña 💃🏻 Coleccionista de Historias 📖 #Storyteller Management ✉️ @maracuyaagencia
     location: "Colombia"
-    followers: 23819
-    engagement: 335
-    commentsToLikes: 0.015185
-    id: ckaouiq4g0g0x0i78qmw8nsin
+    followers: 21023
+    engagement: 193
+    commentsToLikes: 0.103464
+    id: ckap3ktsj3fem0i78j0enantu
     verified: false
-    hashtags: "#fitnesshumor, #yoamoelgym, #fitnesslifestyle, #memesgym"
-  - username: "nanis44"
+    hashtags: "#noticias, #amorincondicional, #mamafeliz, #amorpropio"
+  - username: "alejandrocubillan1"
     fullname: >-
-      𝕯𝖎𝖆𝖓𝖆 𝕵𝖎𝖒𝖊𝖓𝖊𝖟
+      𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐂𝐮𝐛𝐢𝐥𝐥𝐚𝐧
+    bio: >-
+      🔥Hola amigos Espero disfruten mis fotos y videos 😅 🐦Twitter: alejandrocubi1 👇🏻Suscribete a mi canal en youtube 🖤👇🏻
     location: "Colombia"
-    followers: 167054
-    engagement: 118
-    commentsToLikes: 0.027594
-    id: ckaorayu7mhe50i78sklndpx9
+    followers: 30572
+    engagement: 194
+    commentsToLikes: 0.036411
+    id: ckap422qo5i610i788gmyh0c1
     verified: false
-    hashtags: "#fitness, #phase10tnt, #creatinetnt, #deportistas"
-  - username: "lauritafitness"
-    fullname: >-
-      Lau Tamayo 🎀
-    location: "Colombia"
-    followers: 4189
-    engagement: 1063
-    commentsToLikes: 0.115666
-    id: ck8szo35bp3ov0j789prcl2ok
-    verified: false
-    hashtags: "#tbt, #classy, #fashion, #photography"
-  - username: "calicolfit"
-    fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
-    location: "Colombia"
-    followers: 35443
-    engagement: 96
-    commentsToLikes: 0.054930
-    id: ck5zufszw2a0r0i14z8wpyi8c
-    verified: false
-    hashtags: "#facil, #glutes, #gluteo, #fresas"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
-  - username: "lulabarriosc"
-    fullname: >-
-      Luisa Barrios
-    location: "Colombia"
-    followers: 121546
-    engagement: 486
-    commentsToLikes: 0.019891
-    id: ck14kjunypv330i19iag2r0df
-    verified: false
-    hashtags: "#funcionalfit, #asana, #happymothersday, #surprise"
+    hashtags: "#boys, #gayboy, #chicos, #piscina"
   - username: "david_artpe"
     fullname: >-
       David Peñalver Art
+    bio: >-
+      Studygram/ Letras Bonitas “Que todo lo que respire alabe a Dios" Usa mi hashtag #David_artp Suscríbete a mi canal de YouTube:💖
     location: "Colombia"
     followers: 25229
     engagement: 1006
     commentsToLikes: 0.375321
     id: ck6tny43sb1al0j712gnsb9rm
     verified: false
-    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
+    hashtags: "#apunteslindos, #studynotes, #brushlettering, #letteringnewbie"
 ---

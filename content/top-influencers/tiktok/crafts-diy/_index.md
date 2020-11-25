@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crafts And Diy TikTok Influencers In 2020
 description: >-
-  Find top crafts and diy TikTok influencers in 2020. Most popular hashtags: #creative #cute #home #foryou.
+  Find top crafts and diy TikTok influencers in 2020. Most popular hashtags: #diy #fyp #crafts #craft.
 platform: TikTok
+hits: 39
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 39 TikTok influencers like this for you to work with.
 profiles:
+  - username: "a_littles_dungeon"
+    fullname: >-
+      🎀ALittlesDungeon🎀
+    bio: >-
+      Crafts DIY Little stuff Please follow my Instagram 🦄🌈❤🧡💛💚💙💜🌈🦄
+    location: "United States"
+    followers: 55100
+    engagement: 1116
+    commentsToLikes: 0.011232
+    id: ck8vtj2vtgfhd0j7869blsd9l
+    verified: false
+    hashtags: "#little, #sparkle, #handmade, #resinart"
+  - username: "drooandaya"
+    fullname: >-
+      drooandaya
+    bio: >-
+      DROO & AYA || Crafts & DIY 🇵🇭🇯🇵
+    location: "United States"
+    followers: 40700
+    engagement: 776
+    commentsToLikes: 0.010689
+    id: ckbq74g4vti6l0j23anm030w5
+    verified: false
+    hashtags: "#christmas, #diy, #crafts, #ornaments"
+  - username: "kenhsangtao_no1"
+    fullname: >-
+      Wood Art
+    bio: >-
+      Follow me to get more video daily IDEA craft DIY diyideas Woot Art
+    location: "Viet Nam"
+    followers: 147100
+    engagement: 1001
+    commentsToLikes: 0.003911
+    id: ckcpju4yfidp30j23ou6q7iup
+    verified: false
+    hashtags: "#craft, #fyp, #creative, #thucong"
   - username: "nissalynninteriors"
     fullname: >-
       Nissa-Lynn Interiors
+    bio: >-
+      An Interior Decorator who loves crafts & DIY projects! Check me out on Insta!
     location: "United States"
-    followers: 28853
-    engagement: 401
-    commentsToLikes: 0.014561
+    followers: 42400
+    engagement: 395
+    commentsToLikes: 0.011493
     id: ck8rof42ngtwc0j781pt01eb9
     verified: false
-    hashtags: "#good, #christmastree, #kitchenremodel, #woodcrafts"
-  - username: "artware"
+    hashtags: "#christmasdecor, #holidaydecorating, #tiktokpartner, #flowers"
+  - username: "balloonart.no1"
     fullname: >-
-      A craftsman
+      Balloon Art
+    bio: >-
+      Balloon balloonArt craft DIY creative craft balloondecor tutorial trend amazing
+    location: "Viet Nam"
+    followers: 66400
+    engagement: 495
+    commentsToLikes: 0.005370
+    id: ckdnuo4igni9r0j23wqzlrmr6
+    verified: false
+    hashtags: "#creative, #handmade, #balloonart, #craft"
+  - username: "quarantineparty101"
+    fullname: >-
+      quarantine party <3
+    bio: >-
+      recipes, crafts, diys and things to pass time! join the party ☆
     location: "United States"
-    followers: 1155984
-    engagement: 2290
-    commentsToLikes: 0.003698
-    id: ck8sawflv42a10j78ht0b6osn
+    followers: 34000
+    engagement: 1707
+    commentsToLikes: 0.037226
+    id: ckbkn6fjgh5tn0j2359frecsp
     verified: false
-    hashtags: "#whatisthis, #resinaet, #jewellery, #woodworking"
-  - username: "solovelycreations"
+    hashtags: "#wallpaper, #skylight, #fyp, #fff"
+  - username: "gabby....b"
     fullname: >-
-      SoLovelyCreations
+      gabby
+    bio: >-
+      bay area @stix4covid
     location: "United States"
-    followers: 4513
-    engagement: 681
-    commentsToLikes: 0.074580
-    id: ck94kwzq8wvhm0j78c0e6bur6
+    followers: 69400
+    engagement: 2391
+    commentsToLikes: 0.015440
+    id: ckauzea3k4xjr0j23ob9g41is
     verified: false
-    hashtags: "#vote, #whippedcoffee, #sunset, #oops"
-  - username: "tsminibears"
+    hashtags: "#cds, #crafts, #diy, #cd"
+  - username: "theclaycroissant"
     fullname: >-
-      Tetiana Skalozub
-    location: "Ukraine"
-    followers: 395708
-    engagement: 1191
-    commentsToLikes: 0.009748
-    id: ck97zd3ca355c0j78hr6pvbxe
-    verified: false
-    hashtags: "#foryou, #babybunnies, #cuteness, #magic"
-  - username: "thecloakedfox"
-    fullname: >-
-      thecloakedfox
+      Meghan Elizabeth
+    bio: >-
+      Suggestions welcome! 💕
     location: "United States"
-    followers: 8692
-    engagement: 981
-    commentsToLikes: 0.016716
-    id: ckal661p89hxa0i788nkqytdw
+    followers: 130900
+    engagement: 2349
+    commentsToLikes: 0.012486
+    id: ckbqgd00o1rek0j23kjv1chq8
     verified: false
-    hashtags: "#yoda, #yerawizard, #thrifting, #handdyed"
-  - username: "homehack"
+    hashtags: "#tiktokpartner, #crafts, #diy, #kawaii"
+  - username: "dino_bird"
     fullname: >-
-      Home Hack
-    location: "United Kingdom"
-    followers: 40892
-    engagement: 1312
-    commentsToLikes: 0.004227
-    id: ck90rugsjnekg0j78xp9pi58t
-    verified: false
-    hashtags: "#foodboard, #quarantine, #cake, #eggplant"
-  - username: "gregory.joe1"
-    fullname: >-
-      Greg Schaff
+      dino
+    bio: >-
+      artist I don't sleep is actually a raccoon dm me for commission info!
     location: "United States"
-    followers: 14567
-    engagement: 668
-    commentsToLikes: 0.028818
-    id: cka5xtrjdfd9z0i78x6dd6olk
+    followers: 53500
+    engagement: 1297
+    commentsToLikes: 0.017893
+    id: ck9c8icerszmq0j78gh1cf3x5
     verified: false
-    hashtags: "#justdiyit, #house, #sunset, #justwrapit"
-  - username: "fingertip.art"
+    hashtags: "#dinosquarantinecrafts, #asmr, #craft, #diy"
+  - username: "craftman66"
     fullname: >-
-      Fingertip Art
+      Resin draw
+    bio: >-
+      ✉️email:j@ucan.cn ❤️follow for more❤️
     location: "United States"
-    followers: 459917
-    engagement: 837
-    commentsToLikes: 0.005272
-    id: ck9a91xlgeft50j78bqx3qjpy
+    followers: 279100
+    engagement: 1412
+    commentsToLikes: 0.010245
+    id: ck9rgqq75c1c70j784tq1tobd
     verified: false
-    hashtags: "#gift, #plane, #pewpewpew, #rose"
-  - username: "homediypage"
-    fullname: >-
-      HomeDIYpage
-    location: "United Kingdom"
-    followers: 11545
-    engagement: 404
-    commentsToLikes: 0.010947
-    id: ck94g3cm4e0660j787iy4rbpa
-    verified: false
-    hashtags: "#homemadecrafts, #officelife, #kidsroom, #interiordesign"
-  - username: "res_in.peace"
-    fullname: >-
-      res_in.peace
-    location: "Germany"
-    followers: 31717
-    engagement: 1323
-    commentsToLikes: 0.003850
-    id: ck8rof5zogu620j78ek4uzm5e
-    verified: false
-    hashtags: "#alice, #pills, #pins, #flower"
+    hashtags: "#fyp, #foryou, #craft, #diy"
 ---

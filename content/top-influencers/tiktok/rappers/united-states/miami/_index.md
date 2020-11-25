@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Miami In 2020
 description: >-
-  Find top rappers TikTok influencers in Miami in 2020. Most popular hashtags: #miami #rapper #quarantine #florida.
+  Find top rappers TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #miami #florida #foryou.
 platform: TikTok
+hits: 16
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "josevilauu"
+  - username: "mr.marchi"
     fullname: >-
-      Josevilauu
+      Tyler Marchante ✪
+    bio: >-
+      Snap: Tylerm1131 25k?
     location: "United States"
-    followers: 6188
-    engagement: 896
-    commentsToLikes: 0.059434
-    id: ck9rgxsufcxfu0j78c83ha6sa
+    followers: 23900
+    engagement: 2608
+    commentsToLikes: 0.039261
+    id: ck9acypzsuuo50j78q6xqgk3k
     verified: false
-    hashtags: "#keepingactive, #jamsession, #comedy, #homeroutine"
-  - username: "treasurewilsonn"
+    hashtags: "#duet, #fyp, #foryou, #foryoupage"
+  - username: "nikahola"
     fullname: >-
-      ★彡 TREASURE ミ★
+      Niklas Ahola
+    bio: >-
+      Real Estate 🏡 Naples, FL 🌴 @hellonaples
     location: "United States"
-    followers: 16742
-    engagement: 1279
-    commentsToLikes: 0.040014
-    id: ck8faamjh45rx0j78j2ol6zqe
+    followers: 2782
+    engagement: 647
+    commentsToLikes: 0.079172
+    id: ck8tst70vrjgq0j78rrd9f67g
     verified: false
-    hashtags: "#shootyourshot, #nostalgia, #foryoupage, #indiemusic"
+    hashtags: "#fyp, #modernwarfare, #ultramusic, #florida"
+  - username: "fajahuno"
+    fullname: >-
+      Fajah Uno
+    bio: >-
+      YouTube: FajahUno Twitch: FajahUno Insta: FajahUno GiveAway King!
+    location: "United States"
+    followers: 176800
+    engagement: 1005
+    commentsToLikes: 0.030181
+    id: ck8kd9xi24sfu0j78fiqzk84o
+    verified: false
+    hashtags: "#amongusgame, #win, #fortnite, #twitchstreamer"
+  - username: "_marcmywords"
+    fullname: >-
+      _marcmywords
+    bio: >-
+      Miami🌴🇯🇲 Ig: _marcmywords Good vibes only
+    location: "United States"
+    followers: 61000
+    engagement: 2223
+    commentsToLikes: 0.040645
+    id: ckan1792du1hr0i78udx99xhi
+    verified: false
+    hashtags: "#comedy, #funny, #viral, #xyzbca"
   - username: "noesharose"
     fullname: >-
       noesharose
+    bio: >-
+      RAPPER 🎶 IG: @NoeshaRose F L O R 🌴D A ⬇️ Listen to my music! ⬇️ ♥️
     location: "United States"
-    followers: 3549
-    engagement: 454
-    commentsToLikes: 0.072905
+    followers: 4075
+    engagement: 424
+    commentsToLikes: 0.063359
     id: ck9vbcb07milo0j78jrv34hhc
     verified: false
-    hashtags: "#florida, #skincare, #reallifeathome, #makeuphacks"
-  - username: "shusterman1"
-    fullname: >-
-      Andrew Shusterman
-    location: "United States"
-    followers: 55206
-    engagement: 1100
-    commentsToLikes: 0.046729
-    id: ck9773q0g2kqb0j78itox55jw
-    verified: false
-    hashtags: "#modellife, #prettyflacko, #modelcheck, #princessnokia"
-  - username: "angelicabourland"
-    fullname: >-
-      angelicabourland
-    location: "United States"
-    followers: 3304
-    engagement: 279
-    commentsToLikes: 0.039420
-    id: ck95z1z59cikl0j78dac894es
-    verified: false
-    hashtags: "#onlyinflorida, #keys, #thatdroptho, #beach"
-  - username: "colecaineofficial"
-    fullname: >-
-      Cole Caine
-    location: "United States"
-    followers: 6369
-    engagement: 958
-    commentsToLikes: 0.029821
-    id: ck9uwgjasvsd20j787s044qef
-    verified: false
-    hashtags: "#trending, #slowedown, #partytime, #outtajail"
-  - username: "ilanasedaka"
-    fullname: >-
-      Ilana Sedaka
-    location: "United States"
-    followers: 7610
-    engagement: 873
-    commentsToLikes: 0.033757
-    id: ck9a4kn7xuwin0j78x4zt8vs8
-    verified: false
-    hashtags: "#celebrity, #cocktail, #midtown, #music"
+    hashtags: "#rap, #fyp, #foryou, #rappergirl"
   - username: "youngtallz"
     fullname: >-
       youngtallz
+    bio: >-
+      Promo💰Rapper💰 Entertainment 💃
     location: "United States"
-    followers: 8496
-    engagement: 395
-    commentsToLikes: 0.007730
+    followers: 9218
+    engagement: 323
+    commentsToLikes: 0.009282
     id: ck8hk5mchci4s0j78t1dz0dsd
     verified: false
-    hashtags: "#thereplay, #dollar, #freedom, #playbyplay"
-  - username: "nekaone1"
+    hashtags: "#stripping, #hardwork, #selflove, #stripclub"
+  - username: "wtfmiami"
     fullname: >-
-      Nekaone
+      Miami WTF
+    bio: >-
+      🚧Miami🚧 H👀D Report‼️ Ⓜ️ature Audience Only | 🔞 Viewers Discretions Advised
     location: "United States"
-    followers: 10685
-    engagement: 382
-    commentsToLikes: 0.020493
-    id: ckaicbz5vjxd70i780r5reb4d
+    followers: 4754
+    engagement: 575
+    commentsToLikes: 0.023599
+    id: ckberdqyv9n040j23taiijii7
     verified: false
-    hashtags: "#culiquitaca, #freestyle, #spacejam, #tiktokrestarea"
-  - username: "junejissle"
+    hashtags: "#exclusive, #funny, #videos, #fly"
+  - username: "pyrexkidd"
     fullname: >-
-      junejissle
+      HOODBABBY
+    bio: >-
+      JA✈️NYC✈️ ATL No, Im not gonna take off my Yardie🇯🇲🇯🇲
     location: "United States"
-    followers: 40251
-    engagement: 1701
-    commentsToLikes: 0.062487
-    id: ckakodg6zaxs10i78cy2h54tj
+    followers: 128100
+    engagement: 2240
+    commentsToLikes: 0.068130
+    id: ck8j6cwfm95h80j78ht3af71t
     verified: false
-    hashtags: "#frankocean, #retro, #mepracticing, #tutorial"
+    hashtags: "#miami, #caribbean, #fyp, #unitedkingdom"
+  - username: "itschrizzz"
+    fullname: >-
+      ItsChrizzz
+    bio: >-
+      Florida | Random but decent content
+    location: "United States"
+    followers: 6840
+    engagement: 1260
+    commentsToLikes: 0.039111
+    id: ckc7ulalwyfi30j23fd1utm0b
+    verified: false
+    hashtags: "#miami, #howtoadult, #kobe, #miamiheat"
+  - username: "colecaineofficial"
+    fullname: >-
+      Cole Caine
+    bio: >-
+      Insta : colecaineofficial Snapchat : ItsColeCaine Follow Me⚡️/I Like Designer💵
+    location: "United States"
+    followers: 6836
+    engagement: 910
+    commentsToLikes: 0.029281
+    id: ck9uwgjasvsd20j787s044qef
+    verified: false
+    hashtags: "#2020, #viral, #foryoupage, #rappers"
 ---

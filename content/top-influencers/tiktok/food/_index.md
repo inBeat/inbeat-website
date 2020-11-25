@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In 2020
 description: >-
-  Find top food TikTok influencers in 2020. Most popular hashtags: #covid19 #dance #happyathome #quarantine.
+  Find top food TikTok influencers in 2020. Most popular hashtags: #fyp #duet #foryoupage #youwantmore.
 platform: TikTok
+hits: 13998
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 13998 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "foodchase"
+  - username: "foods"
     fullname: >-
-      food
+      Foods
+    bio: >-
+      Foodies Child Click Below To Add My Snapchat⬇️ adding back first 100 (87/100)
     location: "United States"
-    followers: 44224
-    engagement: 1134
-    commentsToLikes: 0.015279
-    id: ck81s3d1opp000j783figu5y2
-    verified: false
-    hashtags: "#moreyouknow, #tiktokprom, #oreos, #spadeolay"
-  - username: "ruslanapopach"
+    followers: 383200
+    engagement: 2125
+    commentsToLikes: 0.020492
+    id: ckavk8b2bt4nh0j23fe2720hw
+    verified: true
+    hashtags: "#learnontiktok, #cheese, #ramen, #recipe"
+  - username: "foodysporn"
     fullname: >-
-      ruslana popach
-    location: "United States"
-    followers: 1056986
-    engagement: 3208
-    commentsToLikes: 0.039352
-    id: ck9324031huxi0j783t5cs6s1
+      Foodysporn
+    bio: >-
+      Food
+    location: "Australia"
+    followers: 95000
+    engagement: 1913
+    commentsToLikes: 0.006945
+    id: ck9nai4n5a90m0j78g1sex0ig
     verified: false
-    hashtags: "#goingpsycho, #foryou, #hydrated"
-  - username: "tatted_mama81"
+    hashtags: ""
+  - username: "the_anu_v"
     fullname: >-
-      Sheri Lafond
-    location: "Canada"
-    followers: 4752
-    engagement: 2072
-    commentsToLikes: 0.137322
-    id: ckajax0vqkz5j0i783v40iann
-    verified: false
-    hashtags: "#roadto5k, #beweird, #21questions, #boymom"
-  - username: "tiktokthaicook"
-    fullname: >-
-      Janet Bott
-    location: "United States"
-    followers: 11462
-    engagement: 1953
-    commentsToLikes: 0.224830
-    id: ckai5k4cdsf6j0i78nj6ggr8d
-    verified: false
-    hashtags: "#mothersday, #esportsforall, #coconutdessert, #guacamole"
-  - username: "__annaaaa_"
-    fullname: >-
-      _Annaaaa_
-    location: "Greece"
-    followers: 3727
-    engagement: 3688
-    commentsToLikes: 0.065378
-    id: cka9lhnlg253w0i784zo7tjqw
-    verified: false
-    hashtags: "#lacacasadepapel, #challenge, #gilbertblythe, #bestfriend"
-  - username: "azfoodguy"
-    fullname: >-
-      AZ Food Guy | Foodie
-    location: "United States"
-    followers: 2182
-    engagement: 1656
-    commentsToLikes: 0.091029
-    id: ckai0ofji8gnb0i785mx5a6v2
-    verified: false
-    hashtags: "#cooking, #galaxysedge, #travellife, #asianboys"
-  - username: "naveenchanti"
-    fullname: >-
-      Naveen chanti
+      Tik Toker
+    bio: >-
+      bollywood fan and music is my food ! thank you for checking my profile 👍🤩🙏
     location: "India"
-    followers: 94932
-    engagement: 2443
-    commentsToLikes: 0.027906
-    id: ck9tvlwjnr8oq0j78rxymgotl
+    followers: 2098
+    engagement: 3268
+    commentsToLikes: 0.141526
+    id: ckbklsci4f3nd0j23z9nvgr7e
     verified: false
-    hashtags: "#foodbanktelangana"
-  - username: "trocreations"
+    hashtags: "#neverquit, #havefaith, #sundayvibes, #mondaymood"
+  - username: "dobermans_of_tiktok"
     fullname: >-
-      Pete (Tro) Dawson
+      dobermans_of_tiktok
+    bio: >-
+      Not my dogs!!! Raw food, Dobermans and other amazing dogs 💗
+    location: "United Kingdom"
+    followers: 136300
+    engagement: 2212
+    commentsToLikes: 0.044207
+    id: ckcoxgpis9u2s0j23kv8yg5im
+    verified: false
+    hashtags: "#dobermanedit, #dobermansoftiktok, #apbt, #dobermans"
+  - username: "samia_khaan.1"
+    fullname: >-
+      سامية خان❤️
+    bio: >-
+      #horselover #food From🇵🇰🇺🇸 📍🇦🇪
+    location: "United Arab Emirates"
+    followers: 95500
+    engagement: 2099
+    commentsToLikes: 0.043433
+    id: ckbawarl1mqhz0j23jqwmt5t3
+    verified: false
+    hashtags: "#pakistani, #samiakhan, #mylook, #hyee"
+  - username: "ikenwin"
+    fullname: >-
+      Kenny Nguyen
+    bio: >-
+      150k❗️ ‘97 liner Actor/Foodie/Model Be a #Winner Spam likes will get you blocked
     location: "United States"
-    followers: 1190020
-    engagement: 1978
-    commentsToLikes: 0.051502
-    id: ck81q8lc9gtmr0j78533p7klb
+    followers: 117600
+    engagement: 2614
+    commentsToLikes: 0.033164
+    id: ckcegf7panp9a0j232mohslnl
     verified: false
-    hashtags: "#funfood, #foodcombos, #fullsendit, #chuglife"
-  - username: "madhawie.nl"
+    hashtags: "#duet, #myhobby, #couplegoals, #fyp"
+  - username: "sinfully_virgo"
     fullname: >-
-      Madhawie 
-    location: "Netherlands"
-    followers: 44525
-    engagement: 1735
-    commentsToLikes: 0.053715
-    id: ck83z61nvy1930j78fginsgl3
+      Josephina♍️
+    bio: >-
+      I don’t share food!!! -Joey
+    location: "United States"
+    followers: 81800
+    engagement: 2003
+    commentsToLikes: 0.038856
+    id: ckbwb32am0kb70j23h4hp1c5f
     verified: false
-    hashtags: "#poseer, #twist, #anderhalfmeter, #covid19"
-  - username: "veeran.com"
+    hashtags: "#foryoupage, #stemlife, #familyimpression, #redbulldanceyourstyle"
+  - username: "ro.pxx"
     fullname: >-
-      Nathaniel Veeran
-    location: "South Africa"
-    followers: 13550
-    engagement: 1540
-    commentsToLikes: 0.061705
-    id: ck9slqs2efesp0j7805i5jpzb
+      ✨magic✨
+    bio: >-
+      She/her🌞 Food=life 😌 I have a wife so chill.
+    location: "Saudi Arabia"
+    followers: 3704
+    engagement: 1847
+    commentsToLikes: 0.133333
+    id: ckd6p21e8jvny0j23kvk4e6bq
     verified: false
-    hashtags: "#issafancyarmy, #nerders"
+    hashtags: "#duet"
+  - username: "makeupbyluckiestar48"
+    fullname: >-
+      Makeupbyluckiestar48
+    bio: >-
+      Texas wheelchairchic that loves Da Lord, fam, food, music & $Makeupbyluckiestar
+    location: "United States"
+    followers: 8196
+    engagement: 1738
+    commentsToLikes: 0.075513
+    id: ckb9r85kann5c0j23pz70kce1
+    verified: false
+    hashtags: "#fyp, #smalltiktoker, #wheelchair, #navybeans"
+  - username: "lobos_austintx_realtor"
+    fullname: >-
+      Neil
+    bio: >-
+      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
+    location: "United States"
+    followers: 5672
+    engagement: 1732
+    commentsToLikes: 0.284642
+    id: ckbatpudxkb4z0j23681zq86x
+    verified: false
+    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
 ---

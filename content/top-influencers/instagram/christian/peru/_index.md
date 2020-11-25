@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Peru In 2020
 description: >-
-  Find top christian Instagram influencers in Peru in 2020. Most popular hashtags: #peru #black #stayhome #makeup.
+  Find top christian Instagram influencers in Peru in 2020. Most popular hashtags: #peru #cuarentena #musica.
 platform: Instagram
+hits: 22
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 22 Instagram influencers like this in Peru for you to work with.
 profiles:
+  - username: "cindysotelomusic"
+    fullname: >-
+      Cindy Sotelo
+    bio: >-
+      Cantante 🎷🎤 Voz para Jerry Rivera, Tito Nieves y más. Music teacher🎵 Vegetariana 🌱 Comunicadora 🎙 ✨Seamos felices 👇COVER
+    location: "Peru"
+    followers: 15337
+    engagement: 619
+    commentsToLikes: 0.232076
+    id: ck1397lpijxqn0i19dxzifad4
+    verified: false
+    hashtags: "#nature, #musiclife, #per, #instapic"
+  - username: "pedrololiperu"
+    fullname: >-
+      𝙋𝙀𝘿𝙍𝙊 𝙇𝙊𝙇𝙄
+    bio: >-
+      🎤Cantante 🇵🇪 #Grupo5 👨🏻‍🎤 Concierto Virtuales y Saludos Personalizados 📲 Contacto: @tonysamoficial 🎥Suscríbete a mi canal 👇
+    location: "Peru"
+    followers: 282983
+    engagement: 133
+    commentsToLikes: 0.027435
+    id: ck5zufbnc296j0i14mgzqfzdn
+    verified: true
+    hashtags: "#latepost, #alessio, #recuerdos, #cumbia"
+  - username: "grupo5christian"
+    fullname: >-
+      Christian - Grupo5
+    bio: >-
+      👨🏽‍🎓Berklee College of Music Cantante del #Grupo5 Concierto Halloween -👇🏽
+    location: "Peru"
+    followers: 481209
+    engagement: 97
+    commentsToLikes: 0.022877
+    id: ck8sxv34rirxx0j78301rjwyx
+    verified: true
+    hashtags: "#christianyaipen, #cumbia, #per, #parquedelaamistad"
   - username: "conciertosperu"
     fullname: >-
       Conciertos Perú 🇵🇪
+    bio: >-
+      Cuenta oficial de Conciertos Perú, la agenda más completa del país. 👇🏼
     location: "Peru"
     followers: 64136
     engagement: 78
     commentsToLikes: 0.029774
     id: ck5cknbg5x87d0i11gsk9a9mv
     verified: false
-    hashtags: "#salimvera, #paulmccartney, #graciastotales, #violetaparra"
-  - username: "catrina.catstyle"
+    hashtags: "#thebeatles, #lima, #conciertos, #conciertosperu"
+  - username: "maricieloeffio"
     fullname: >-
-      𝕱𝖆𝖇𝖎𝕮𝖆𝖙𝖗𝖎𝖓𝖆💙
+      Maricielo Effio
+    bio: >-
+      💜 Mama de Brissa 🎭Actriz Peru 🇵🇪 👉🏼Fanny en #DeVueltaAlBarrio📺 @americatelevision 💃Dancer 👼Ex paquita
     location: "Peru"
-    followers: 19804
-    engagement: 479
-    commentsToLikes: 0.118461
-    id: ck0w1gfctj7vm0i196s2nzml5
+    followers: 421511
+    engagement: 341
+    commentsToLikes: 0.037728
+    id: ck5bwfpzflm6s0i11qjclpbt8
     verified: false
-    hashtags: "#moments, #loveyou, #xyzcba, #plateado"
-  - username: "javier_honorio"
+    hashtags: "#quedateencasa, #cuarentena, #fanny, #dancing"
+  - username: "estela_trujillof"
     fullname: >-
-      Javier Honorio
+      ⚡️乇丂ㄒ乇ㄥ卂    ㄒ尺ㄩﾌ丨ㄥㄥㄖ⚡
+    bio: >-
+      Cantante Contrataciones: 676724877 GRANADA📍 Ya podéis escuchar mi nuevo tema "MÍRAME”⬇️⬇️⬇️
     location: "Peru"
-    followers: 6838
-    engagement: 565
-    commentsToLikes: 0.066357
-    id: ck5hf524mvuxs0i11if6azhz1
+    followers: 10608
+    engagement: 1402
+    commentsToLikes: 0.037655
+    id: ck6u0nwupgsbd0j71ff9v4xwj
     verified: false
-    hashtags: "#drummbass, #recordingstudio, #recordingsession, #connected"
-  - username: "dulcemaria"
-    fullname: >-
-      Dulce Maria
-    location: "Peru"
-    followers: 7221953
-    engagement: 149
-    commentsToLikes: 0.015808
-    id: ck0ua0r4ab6ym0i19r5ta0gg6
-    verified: true
-    hashtags: "#seagradece, #photo, #diamundialdelatierra, #estotambi"
+    hashtags: ""
   - username: "veggienellaa"
     fullname: >-
-      |Antonella Massé|
+      Antonella Massé
+    bio: >-
+      Estilo de vida saludable || Med student Miss Teen Sudamerica Internacional 3ra ed. Miss Teen Sudamerica Perú 2018
     location: "Peru"
-    followers: 7550
-    engagement: 957
-    commentsToLikes: 0.025611
+    followers: 18941
+    engagement: 627
+    commentsToLikes: 0.032717
     id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#leggings, #shredded, #edition, #muaythai"
-  - username: "angelicajaimes19"
+    hashtags: "#artesmarciales, #fit, #workout, #girl"
+  - username: "victorgonzalesoficial"
     fullname: >-
-      A n g é l i c a J a i m e s ®
+      Victor Gonzales Oficial
+    bio: >-
+      
     location: "Peru"
-    followers: 24109
-    engagement: 192
-    commentsToLikes: 0.056281
-    id: ck6u0ym95ii9k0j71q0nrgj46
+    followers: 131947
+    engagement: 109
+    commentsToLikes: 0.026057
+    id: ck5bxvrh6oi400i116s1yj0cs
     verified: false
-    hashtags: "#humor, #esper, #labiosrojos, #sobrina"
-  - username: "rgonzaofficial"
+    hashtags: "#newcolleccion, #victor, #cuarentena, #comodidad"
+  - username: "elcocoterodelila"
     fullname: >-
-      René González
+      Lila morillo
+    bio: >-
+      Hija dDios coheredera conJesús amante Zulia VZLA cantante madre @lilianarodriguezmorillo @soylilibethmorillo abuela @galilealopezmorillo_ #TRUMP2020
     location: "Peru"
-    followers: 81024
-    engagement: 176
-    commentsToLikes: 0.033762
-    id: ck5ciw2nothoo0i111k8m5u3p
-    verified: false
-    hashtags: "#spotify, #spotifywrapped"
-  - username: "christianbravooficial"
-    fullname: >-
-      Christian Bravo
-    location: "Peru"
-    followers: 68808
-    engagement: 176
-    commentsToLikes: 0.082179
-    id: ckap9t5ratk0p0i78cjbnzdlt
+    followers: 91858
+    engagement: 152
+    commentsToLikes: 0.091159
+    id: ckaovzh6a6r7t0i789yo1g896
     verified: true
-    hashtags: "#nutella, #castironcooking, #bechamelsauce, #peru"
-  - username: "christvizcarra"
+    hashtags: "#venezuelanpower, #morillopower, #trumppence2020, #democracia"
+  - username: "mauriciomesones"
     fullname: >-
-      Christian Vizcarra
+      Mauricio Mesones
+    bio: >-
+      Cariñito - Video Oficial
     location: "Peru"
-    followers: 30115
-    engagement: 178
-    commentsToLikes: 0.031104
-    id: ck6u2p640t47e0j719egow3vi
+    followers: 23090
+    engagement: 507
+    commentsToLikes: 0.052940
+    id: ck55m4vea387u0i112p9cvshl
     verified: false
-    hashtags: "#designevents, #2020, #uxstages, #freelancetips"
-  - username: "fer_arceo_"
-    fullname: >-
-      Fer arceo
-    location: "Peru"
-    followers: 204538
-    engagement: 165
-    commentsToLikes: 0.028318
-    id: ckapcitdf3zl60i78mprgx6uc
-    verified: false
-    hashtags: "#comparte, #reflexiones, #panama, #monterrey"
+    hashtags: ""
 ---

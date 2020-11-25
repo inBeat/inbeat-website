@@ -1,87 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Belgium In 2020
 description: >-
-  Find top cooking TikTok influencers in Belgium in 2020. Most popular hashtags: #cooking #tiktok #coronavirus #quarantine.
+  Find top cooking TikTok influencers in Belgium in 2020. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
+hits: 14
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 14 TikTok influencers like this in Belgium for you to pitch.
 profiles:
+  - username: "cook.zone_"
+    fullname: >-
+      Cook Zone
+    bio: >-
+      
+    location: "Belgium"
+    followers: 2228
+    engagement: 803
+    commentsToLikes: 0.022905
+    id: ckc30y62jrjl40j235k6k38tu
+    verified: false
+    hashtags: "#quarantine, #fyp, #cooking, #foodblogger"
   - username: "likemike"
     fullname: >-
       Like Mike
+    bio: >-
+      1/2 of the duo Dimitri Vegas and Like Mike 😈 Instagram @LikeMike
     location: "Belgium"
-    followers: 6577
-    engagement: 740
-    commentsToLikes: 0.029118
+    followers: 8745
+    engagement: 666
+    commentsToLikes: 0.023030
     id: ckan5ea5leopf0i78ozqhj2g7
     verified: true
-    hashtags: "#tiktokindia, #musicvideo, #beinglikemike, #sticky"
-  - username: "healthifycoach"
+    hashtags: "#tiktokchef, #cookinglikemike, #foryou, #foryoupage"
+  - username: "zaziina"
     fullname: >-
-      The Life Full Coach
+      Zaziina 💋
+    bio: >-
+      Instagram : Zaziina 💋 Pas toute seule dans sa tête 🤪🤣
     location: "Belgium"
-    followers: 31177
-    engagement: 195
-    commentsToLikes: 0.102343
-    id: cka0tni0eqm9h0i78i0xeuywr
+    followers: 24800
+    engagement: 1249
+    commentsToLikes: 0.033820
+    id: ckc7uk8fvye7f0j23eojoguzs
     verified: false
-    hashtags: "#fathersday, #lombardia, #lakegarda, #vensters"
-  - username: "rob_verstraeten"
+    hashtags: "#vintagelook, #duo, #20k, #pinup"
+  - username: "ankatriencasselman"
     fullname: >-
-      rob_verstraeten
+      An-Katrien Casselman
+    bio: >-
+      I'm too old for Tik Tok ✅
     location: "Belgium"
-    followers: 3197
-    engagement: 596
+    followers: 16600
+    engagement: 295
+    commentsToLikes: 0.089402
+    id: ckbaxhdhinwuc0j237j01if5c
+    verified: false
+    hashtags: "#foryou, #viral, #momlife, #over30"
+  - username: "fitnessfairy_antwerp"
+    fullname: >-
+      Mitchelle 🏋🏽
+    bio: >-
+      Personal Trainer in Antwerp,Belgium Filipina🇵🇭✨Mom✨Fitness Sharing Happiness
+    location: "Belgium"
+    followers: 106000
+    engagement: 519
     commentsToLikes: 0.034675
-    id: cka0fwj9h1mm80i78756x8xrt
+    id: ckdsrufgnp4tl0j232vkf82nm
     verified: false
-    hashtags: "#cannotdance, #outfitchange, #stayathome, #badvsgood"
-  - username: "marinarossa_"
+    hashtags: "#ootd, #filipina, #fy, #antwerpen"
+  - username: "bahaudin_dije"
     fullname: >-
-      MARINA
+      𝘽𝙖𝙝𝙖𝙪𝙙𝙙𝙞𝙣 👑
+    bio: >-
+      ❤️𝙄 𝙡𝙤𝙫𝙚 𝙈𝙮 𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨❤️ 💚🦅💚 💙🆃🅷🅰🅽🅺🆂 🅰🅻🅻💙 🤩📍🤩
     location: "Belgium"
-    followers: 7905
-    engagement: 522
-    commentsToLikes: 0.028543
-    id: ck9envhnyl4bc0j78j5spmjl4
+    followers: 5100000
+    engagement: 679
+    commentsToLikes: 0.009676
+    id: ck8ade1av5hlh0j78qa1my9ug
     verified: false
-    hashtags: "#wlyg, #boredinahouse, #sparkar, #cursedimages"
+    hashtags: "#tiktok, #fyp, #wow, #duo"
   - username: "mattieknokke"
     fullname: >-
       mattieknokke
+    bio: >-
+      Matthias Vermeersch Belgium 🇧🇪 19 #ROADTOTIKTOKFAMOUS
     location: "Belgium"
-    followers: 13272
-    engagement: 227
-    commentsToLikes: 0.030481
+    followers: 35300
+    engagement: 233
+    commentsToLikes: 0.028668
     id: ckajk9it7p62b0i78ee1fkwe7
     verified: false
-    hashtags: "#cooking, #freezeframe, #draft, #duet"
+    hashtags: "#fy, #fyp, #foryoupage, #quartine"
+  - username: "yavmira"
+    fullname: >-
+      yavmira
+    bio: >-
+       mon Instagram @yavmira bienvenue😊 добро пожаловать 😃
+    location: "Belgium"
+    followers: 2708
+    engagement: 286
+    commentsToLikes: 0.009841
+    id: ckbktxhv9p0uo0j23znuu7l0e
+    verified: false
+    hashtags: "#augratin, #jaimelefromage, #feta, #tomateseco"
   - username: "straffy8"
     fullname: >-
       Straffy
+    bio: >-
+      
     location: "Belgium"
-    followers: 3905
-    engagement: 507
-    commentsToLikes: 0.025310
+    followers: 3990
+    engagement: 522
+    commentsToLikes: 0.019419
     id: cka0w10di0ukn0i789ltq4zsl
     verified: false
-    hashtags: "#tiktok, #makeupforever, #myage, #food"
-  - username: "amans_beauty_corner"
+    hashtags: "#makeup, #fyp, #viral, #fail"
+  - username: "mpolianas"
     fullname: >-
-      Aman_Bhatti
+      mpolianas
+    bio: >-
+      ⛩🐲
     location: "Belgium"
-    followers: 16338
-    engagement: 245
-    commentsToLikes: 0.002430
-    id: ckaiggofe1f4d0i78ejw7rtmo
+    followers: 3626
+    engagement: 1013
+    commentsToLikes: 0.022858
+    id: ckb9al6d2vsop0j23daewt8hp
     verified: false
-    hashtags: "#mehndichallenge, #makeover, #indianwedding, #foryourpage"
-  - username: "booster83"
-    fullname: >-
-      TomBa
-    location: "Belgium"
-    followers: 53531
-    engagement: 622
-    commentsToLikes: 0.037387
-    id: ck8ade2a45huf0j78ivi5fv16
-    verified: false
-    hashtags: "#foryoupage, #figetspinner, #satisfy, #test"
+    hashtags: "#bread, #pain, #pourtoi, #foryou"
 ---

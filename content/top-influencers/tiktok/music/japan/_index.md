@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Japan In 2020
 description: >-
-  Find top music TikTok influencers in Japan in 2020. Most popular hashtags: #music #nepali #may4th #papercrafts.
+  Find top music TikTok influencers in Japan in 2020. Most popular hashtags: #tiktok #lipsync #kpop.
 platform: TikTok
+hits: 44
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 44 TikTok influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "yurimiyama"
+    fullname: >-
+      Yuri Miyama(三山友里)
+    bio: >-
+      🎻KPOP Violinist/Only play SEVENTEEN here/Other KPOP music is on Instagram🎻
+    location: "Japan"
+    followers: 4826
+    engagement: 1530
+    commentsToLikes: 0.062759
+    id: ckcd2ar4z0dvt0j23iufery8x
+    verified: false
+    hashtags: "#seventeen, #tiktok, #godtweet, #violin"
+  - username: "nanjokarin"
+    fullname: >-
+      Karin🍿💭
+    bio: >-
+      USJ🎃MusicallyUser like→❥Vocaloid❥Halloween bro→@beatboxeryuki💙b/f→@daichi_1118
+    location: "Japan"
+    followers: 362700
+    engagement: 940
+    commentsToLikes: 0.029972
+    id: ck8kmuuu4abz30j78benrrkz3
+    verified: true
+    hashtags: "#musically, #lipsync, #reol, #descendants3"
   - username: "beatboxeryuki"
     fullname: >-
       Yuki🕊
+    bio: >-
+      🇯🇵beatboxer🎤musically→tiktok✨@nanjokarin←姉brother✨ bro🤝@goki_リンパ
     location: "Japan"
-    followers: 19216
-    engagement: 579
-    commentsToLikes: 0.111849
+    followers: 18900
+    engagement: 566
+    commentsToLikes: 0.102591
     id: ck8kk5xtrxvly0j7837yymd5y
     verified: true
-    hashtags: "#flower, #youyouryours, #foyou, #60"
-  - username: "nanjokarin"
+    hashtags: "#beatbox, #lipsync, #transition, #freestyle"
+  - username: "ukuleleda1"
     fullname: >-
-      Karin
+      DAICHI PARK
+    bio: >-
+      Ukulele Musicians SUBSCRIBE
     location: "Japan"
-    followers: 368082
-    engagement: 857
-    commentsToLikes: 0.021455
-    id: ck8kmuuu4abz30j78benrrkz3
+    followers: 435000
+    engagement: 471
+    commentsToLikes: 0.030741
+    id: ckbajyfxmaxoa0j23ksal8lkb
     verified: true
-    hashtags: "#badguy, #leola, #roku, #showmorecheek"
+    hashtags: "#tiktok, #tiktokspotlight, #myra, #makeyouhappy"
+  - username: "ryuryu12345"
+    fullname: >-
+      りゅー
+    bio: >-
+      Instagram→r_ch_official Star Music Entertaiment Inc.所属 Tokyo🇯🇵20yo💪🏉
+    location: "Japan"
+    followers: 93000
+    engagement: 574
+    commentsToLikes: 0.036243
+    id: ckbvugcgvt25x0j23tf05kip7
+    verified: false
+    hashtags: "#20, #fyp, #tiktok"
   - username: "ujitama0"
     fullname: >-
       うじたまい
+    bio: >-
+      こんにちけろりんうじたまです🐸🐯 歌って喋ってカエル顔21 Star Music Entertainment Inc. ↓🆕新曲『ふたりぼっち』リリース
     location: "Japan"
-    followers: 206714
-    engagement: 538
-    commentsToLikes: 0.024281
+    followers: 220600
+    engagement: 444
+    commentsToLikes: 0.029306
     id: ck9c0mk89ocsl0j7802rtf2p1
     verified: true
-    hashtags: "#sweetsparade, #tiktok, #yama, #575"
-  - username: "himikoswk1"
+    hashtags: "#tiktok, #tiktokliveweek, #tiktok3, #september"
+  - username: "yukidaruma"
     fullname: >-
-      Himiko
+      yukidaruma
+    bio: >-
+      musically アカウントです⛄️ 29y/o🇯🇵
     location: "Japan"
-    followers: 36836
-    engagement: 490
-    commentsToLikes: 0.029954
-    id: ck99a9gphgkwo0j78wygguu37
+    followers: 326200
+    engagement: 1022
+    commentsToLikes: 0.014498
+    id: ckbkz1r3nvb2l0j2399vp58kz
     verified: true
-    hashtags: "#starchallenge, #noodledance, #reverseshufile, #reversechallenge"
+    hashtags: "#transition, #musically, #yummy, #dance"
+  - username: "shiryupondan"
+    fullname: >-
+      SHIRYU しりゅう 志龍
+    bio: >-
+      🇯🇵Dance/Fashion/Z'Ron/12月13日 蛇遣い座/The Music Day.24時間テレビ.Mステ.PV.CM.ドラマ.MV等出演
+    location: "Japan"
+    followers: 4883
+    engagement: 323
+    commentsToLikes: 0.025313
+    id: ckc7aijh5kat90j23tv7i74l2
+    verified: false
+    hashtags: "#paint, #dance, #fashion, #oneofakind"
   - username: "dj_natsumi"
     fullname: >-
       DJ NATSUMI 🦄🦄🦄
+    bio: >-
+      Producer 楽曲制作 / Bass Music / Hard 全国各地・海外にて活動中です🌈 サマソニ / ULTRA JAPAN 2019 出演🇯🇵
     location: "Japan"
-    followers: 53920
-    engagement: 353
-    commentsToLikes: 0.014430
+    followers: 53000
+    engagement: 344
+    commentsToLikes: 0.013873
     id: ck807d76oq0h90j78i657zcw8
     verified: true
-    hashtags: "#moshpit, #bts, #monstax, #fumine"
+    hashtags: "#dj, #dtm, #kpop, #logicprox"
   - username: "tiktokmusic"
     fullname: >-
       TikTokMusic
+    bio: >-
+      TikTok official music team 🎵 Send us your work via tiktokmusic@tiktok.com
     location: "Japan"
-    followers: 178354
-    engagement: 808
-    commentsToLikes: 0.010247
+    followers: 177600
+    engagement: 767
+    commentsToLikes: 0.010116
     id: ck9foomnw3jd80j78zkb4g4ll
     verified: true
-    hashtags: "#shoechange, #thechansmokers, #acting, #getspooked"
-  - username: "it"
-    fullname: >-
-      it..
-    location: "Japan"
-    followers: 2103
-    engagement: 644
-    commentsToLikes: 0.050786
-    id: ck8qoxxkm12is0j78ywvlt9ay
-    verified: false
-    hashtags: "#lipsync"
-  - username: "asurai01"
-    fullname: >-
-      Asu rai
-    location: "Japan"
-    followers: 164844
-    engagement: 2592
-    commentsToLikes: 0.070676
-    id: ck9fmehbrt4kj0j78gx47whgy
-    verified: false
-    hashtags: "#beautiful, #nepalipaan, #blooper, #nepalidialouge"
-  - username: "maydaysan"
-    fullname: >-
-      maydaysan
-    location: "Japan"
-    followers: 210149
-    engagement: 1205
-    commentsToLikes: 0.023179
-    id: ck8qeihxjsouu0j78g21mk219
-    verified: false
-    hashtags: "#japanesegirl, #avatar, #english, #shiba"
-  - username: "sdjmalik"
-    fullname: >-
-      ⭐️sdjmalik⭐️
-    location: "Japan"
-    followers: 18194
-    engagement: 446
-    commentsToLikes: 0.115116
-    id: cka62lwa20fat0i78ak8obr38
-    verified: false
-    hashtags: "#tiktokusa, #tutorial, #may4th, #tiktokrestarea"
+    hashtags: "#thechainsmokers, #tiktokpicks, #cover, #bestcoversoftiktok"
 ---

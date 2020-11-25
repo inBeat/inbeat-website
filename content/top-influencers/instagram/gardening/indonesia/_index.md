@@ -1,12 +1,17 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top gardening Instagram influencers in Indonesia in 2020. Most popular hashtags: #gardening #plants #permaculture #garden.
+  Find top gardening Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #gardening #garden #gardeninspiration.
 platform: Instagram
+hits: 11
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "pandasprouts"
     fullname: >-
       NEVI | ORGANIC GARDENING
+    bio: >-
+      👩🏻‍🌾 Amateur Gardener 🌿 Home Gardening 🌵 Grow Organic 🏞 Nature Lover 🌳 Plants & Seeds Hoarder 🏡 Bali - Indonesia 🚛 Order 🇮🇩 Only 👇🏻👇🏻👇🏻
     location: "Indonesia"
     followers: 28193
     engagement: 111
@@ -14,94 +19,112 @@ profiles:
     id: ckaotw7auxryf0i78arfrm6cr
     verified: false
     hashtags: "#notagardeningpost"
-  - username: "sheilla_erlangga"
+  - username: "marnulife"
     fullname: >-
-      Sheilla Erlangga
+      Rio Marnu | Indonesia 🇲🇨
+    bio: >-
+      Travel Everywhere Insurance Enthusiast Plants 🌱☘️🍀 Fruitaholic🍍🍍
     location: "Indonesia"
-    followers: 178600
-    engagement: 161
-    commentsToLikes: 0.118559
-    id: ckap1ahirtqnk0i78khb0lt31
+    followers: 25862
+    engagement: 183
+    commentsToLikes: 0.016823
+    id: ckf5uvlbgmik40j23nckjwuap
     verified: false
-    hashtags: "#cake, #cintabudayaindonesia, #gedungkesenianjakarta, #pancasila"
-  - username: "ibunia"
+    hashtags: "#tanaman, #anthurium, #kupinggajah, #phylodendron"
+  - username: "veronika.twns"
     fullname: >-
-      Nia Dinata
+      Veronika Krasnasari | TWINS
+    bio: >-
+      👯‍♀️ @valerieandveronika 🌱 @twnseco 📞 dodhy (+62) 82214441409 Buy TWNSECO |Tiktok | Youtube 👇🏼
     location: "Indonesia"
-    followers: 32763
-    engagement: 136
-    commentsToLikes: 0.051641
-    id: ck5q2fea5fr1p0i11b23ombod
-    verified: false
-    hashtags: "#infusedhoney, #earthday, #beautifulsouls, #miraadalahkita"
-  - username: "eagle_03_adam"
-    fullname: >-
-      Callsign_E03A
-    location: "Indonesia"
-    followers: 13207
-    engagement: 388
-    commentsToLikes: 0.023291
-    id: ck0tzl3u3qpz80i19ay3go82l
-    verified: false
-    hashtags: "#airsofter, #cryeofficial, #arcteryx, #airlite"
-  - username: "thataljundiah"
-    fullname: >-
-      Qonitah Al Jundiah
-    location: "Indonesia"
-    followers: 188724
-    engagement: 96
-    commentsToLikes: 0.010340
-    id: ck8sxh4a4hdfi0j78cgqirie0
+    followers: 163347
+    engagement: 109
+    commentsToLikes: 0.017471
+    id: ck13476iiv1nm0i19gko6judm
     verified: true
-    hashtags: "#darirumah, #ramadan, #toomuchistoomuch, #ederratalks"
-  - username: "info.fruits"
-    fullname: >-
-      BUAH BUAHAN
-    location: "Indonesia"
-    followers: 83279
-    engagement: 830
-    commentsToLikes: 0.007441
-    id: ck0w3p416ujo00i19l0aqogla
-    verified: false
-    hashtags: "#hydroponics, #orchid, #growyourown, #harvest"
-  - username: "rawtransitiondiet"
-    fullname: >-
-      Damian Gardynik 🌱
-    location: "Indonesia"
-    followers: 6700
-    engagement: 513
-    commentsToLikes: 0.062691
-    id: ck9wd2bi1dr640j780ut0ekly
-    verified: false
-    hashtags: "#lockdown, #diversity, #earthday, #plumeria"
-  - username: "fithri.maya"
-    fullname: >-
-      Fithrimaya
-    location: "Indonesia"
-    followers: 26550
-    engagement: 84
-    commentsToLikes: 0.045551
-    id: ck5zljhyokx0p0i1424p98x1d
-    verified: false
-    hashtags: "#junglehome, #plants, #bougenville, #plant"
+    hashtags: "#veronika, #twins, #twns, #valerieandveronika"
   - username: "zarinkasoiko"
     fullname: >-
-      abstract 💀 reflection 💀 glitch
+      streetart 💀 travel 💀 tattoo
+    bio: >-
+      ⏳I draw 25 hours a day 🌐plants with eyes🌐depressive pink🌐 Tattoo - @za.zarin Face - @zkashikitoka__ ✴✴✴✴ Soul in Jogja.
     location: "Indonesia"
-    followers: 6375
-    engagement: 777
-    commentsToLikes: 0.021509
+    followers: 6713
+    engagement: 771
+    commentsToLikes: 0.020797
     id: ck8sxhchwhecc0j78p57rx2ea
     verified: false
-    hashtags: "#abstractpainting, #streetartfestival, #fantasy, #arte"
-  - username: "geertruedy"
+    hashtags: "#streetartist, #streetartvideo, #explorejava, #painting"
+  - username: "dina_rafasya"
     fullname: >-
-      Geertruedy Sabatini
+      Inspirasi Rumah Mungil
+    bio: >-
+      Wife n Mom Twin's Firsya & Fariel Rumah Sederhana Lt. 77 m2 hook🏡 Homedecorlovers Sukabumi Endorse / PP ➡ DM Just sharing n inspiration
     location: "Indonesia"
-    followers: 6137
-    engagement: 331
-    commentsToLikes: 0.039723
-    id: ck6ua45lk1dk40j71gv0znpyg
+    followers: 6459
+    engagement: 576
+    commentsToLikes: 0.453580
+    id: ck55ocnjj83t30i11zd6q6x6c
     verified: false
-    hashtags: "#tanamdirumah, #practicemakespervert, #piano, #permacultureinbali"
+    hashtags: "#favorithome, #inspirasirumahidaman, #homeswethome, #instahome"
+  - username: "idsbestphoto"
+    fullname: >-
+      iD's & Best Photos
+    bio: >-
+      🕵️ VOLUNTER REPOST : @idrusgallery 🔄 FOLLOWER ONLY 😌 = Repost time || 😪 = Repost Off " share kindnes happy together "
+    location: "Indonesia"
+    followers: 5511
+    engagement: 557
+    commentsToLikes: 0.037498
+    id: ck5q1rujccgyg0i11cmi4ty6l
+    verified: false
+    hashtags: "#portrait, #romantic, #beautyofnature, #nature"
+  - username: "robinavicula"
+    fullname: >-
+      Gede Robi
+    bio: >-
+      Earthship 🌏
+    location: "Indonesia"
+    followers: 73305
+    engagement: 337
+    commentsToLikes: 0.016203
+    id: ck0w5tx4t5f680i19ou0mun3a
+    verified: false
+    hashtags: "#robinavicula, #coronasucks, #ubud, #bali"
+  - username: "bumilangit.official"
+    fullname: >-
+      Bumi Langit
+    bio: >-
+      Living space where we can witness & learn the importance of mutual living between man & nature 🕰Tue - Sun at 8am - 4pm ☎️ +62 896 60111730
+    location: "Indonesia"
+    followers: 23055
+    engagement: 200
+    commentsToLikes: 0.016065
+    id: ck14ha54p9b4h0i19j156e758
+    verified: false
+    hashtags: "#explorejogja, #pertanianorganik, #learning, #permakultur"
+  - username: "eyusman"
+    fullname: >-
+      🍃🌷 🅔•🅡•🅡•🅨 🌷🍃
+    bio: >-
+      ✖ IᑎᗪOᑎEᔕIᗩᑎ ᗪEᑕOᖇ EᑎTᕼᑌᔕIᗩᔕT Iᑎ ᑎᒪ 🇳🇱 ✖ ᗯᕼITE & ᔕIᒪᐯEᖇ & GᖇEY 🏡 IᑎTEᖇIOᖇ ✖ ᗩᒪᒪ ᑭIᑕᔕ 📸 TᗩKEᑎ ᗷY @EᖇᖇY.Yᑌᔕᗰᗩᑎ ✖ ᖇEᑭOᔕT = TᗩG ᗰE 🙏 ✖ EᑎᗪOᖇᔕE/ᑭᑭ ᗪᗰ
+    location: "Indonesia"
+    followers: 25207
+    engagement: 218
+    commentsToLikes: 0.308367
+    id: ckap45hnc5xi30i78yv3k492d
+    verified: false
+    hashtags: "#inspirasirumahcantik, #homedecorfamilybekasi, #desaininteriorrumah, #rumahcantikidaman"
+  - username: "herry_rasio"
+    fullname: >-
+      Herry Rasio
+    bio: >-
+      🗿Facebook: Herry Rasio
+    location: "Indonesia"
+    followers: 18916
+    engagement: 456
+    commentsToLikes: 0.017210
+    id: ck8syrc8wlpmc0j788fz1ckp5
+    verified: false
+    hashtags: "#aquascape, #aquaticplants, #rasiofamily, #aquascaping"
 ---

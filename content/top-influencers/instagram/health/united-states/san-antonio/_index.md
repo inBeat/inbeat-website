@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top health Instagram influencers in San Antonio in 2020. Most popular hashtags: #texas #health #music #ozomatli.
+  Find top health Instagram influencers in San Antonio in 2020. Most popular hashtags: #fitness #sanantonio #health #fitfam.
 platform: Instagram
+hits: 19
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 19 Instagram influencers like this in San Antonio, United States for you to pitch.
 profiles:
-  - username: "chasitymorales_"
+  - username: "sarahfromtexas"
     fullname: >-
-      Chasity Morales
+      Sarah Ann Suwanasung
+    bio: >-
+      🇹🇭 สุวรรณสังข์ (Suwanasung) San Antonio ||📍Los Angeles @plantedincali mental health + house plants @itmodelmanagement @unbreakableperformance #NWMP👇🏼
     location: "United States"
-    followers: 28778
-    engagement: 331
-    commentsToLikes: 0.039356
-    id: ck6tnmnwma5e00j71fcd9iug8
+    followers: 24389
+    engagement: 181
+    commentsToLikes: 0.038020
+    id: ck0tvo6w6c4730i19kvl4wbnl
     verified: false
-    hashtags: "#f45banderapointe, #morethanjustagym, #funtionaltraining, #sanantoniofitness"
-  - username: "myriahlynn_"
+    hashtags: "#nanox, #1990, #voteforchange, #legalizeit"
+  - username: "antoniowebbmd"
     fullname: >-
-      Myriah
+      Antonio J. Webb, M.D.
+    bio: >-
+      Spine Surgeon Fellowship Trained 📍San Antonio, Texas ☎️ 210-614-6432 for appointments Iraq Veteran | Author | Keynote Speaker
     location: "United States"
-    followers: 3162
-    engagement: 1246
-    commentsToLikes: 0.065855
-    id: ck5pzshir2j510i118rk555b7
+    followers: 25595
+    engagement: 426
+    commentsToLikes: 0.026605
+    id: ckap13n7rszj20i78lkr8dlu9
     verified: false
-    hashtags: "#spraytan, #coronawho, #birthdaygirl, #workmodeon"
-  - username: "misssanantonious2020"
+    hashtags: "#minimallyinvasivespinesurgery, #sijointpain, #sijointfusion, #sanantoniospine"
+  - username: "aneutrallife"
     fullname: >-
-      Miss Guyana 2020 👑
+      Jess - Plus Size Fashion
+    bio: >-
+      Fashion, Health & Culture Freelancer Writer #plussizefashion content creator #plussizevintage shop: @anlvintage Jess@aneutrallife.com 📍#SATX
     location: "United States"
-    followers: 6046
-    engagement: 579
-    commentsToLikes: 0.070729
-    id: ck6u4j0sy3ztk0j710is8q2s2
+    followers: 7970
+    engagement: 684
+    commentsToLikes: 0.118440
+    id: ckap1j9fturhp0i780vy9ldbw
     verified: false
-    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
-  - username: "matthagee"
+    hashtags: "#andigetdressed, #ltkfall, #plussizereel, #anlvintage"
+  - username: "courtneybisig"
     fullname: >-
-      Pastor Matt Hagee
+      COURTNEY BISIG
+    bio: >-
+      •Texas Licensed REALTOR®📍#Sanantonio •Certified #Personaltrainer #Wife | #Mom | #Realtor 🏡 @courtsrealty 🏋️ @rocksdiscount Athlete 💘 @cambtraining
     location: "United States"
-    followers: 48870
-    engagement: 160
-    commentsToLikes: 0.031673
-    id: ck5zoh6riqk3h0i14kxas9gny
-    verified: true
-    hashtags: "#blessing, #celebrate, #conversations, #declareit"
+    followers: 122841
+    engagement: 145
+    commentsToLikes: 0.029558
+    id: ck5cfe05imrlv0i11455mjvja
+    verified: false
+    hashtags: "#sanantonio, #fitmom, #momlife, #texas"
+  - username: "vanneochoa"
+    fullname: >-
+      Vanne Ochoa
+    bio: >-
+      More than just a fashion blog✨ 👩🏻‍💻 Mexicana en Cali & Texas ☯️♈️ • mental health • beauty • eats • tips • & lots of fun 😎
+    location: "United States"
+    followers: 20500
+    engagement: 102
+    commentsToLikes: 0.093535
+    id: ck134b53dvkvx0i19mz5un7ho
+    verified: false
+    hashtags: "#lamodel, #texasweather, #stylingideas, #outfitideas"
+  - username: "joceyyg_94"
+    fullname: >-
+      𝕁𝕠𝕔𝕖𝕝𝕚𝕟𝕖 𝔾𝕠𝕟𝕫𝕒𝕝𝕖𝕤 🐺🤍
+    bio: >-
+      • 2018 Crossfit Games Team Athlete🏋🏻‍♀️ • @precise.meal.prep (JOCELINE10) • @hcfitness_llc Crossfit Athlete💪🏼 • @abeeveryday ♥️ #crossfit #athlete
+    location: "United States"
+    followers: 2507
+    engagement: 1117
+    commentsToLikes: 0.079951
+    id: ck5pzsh9g2j1i0i11gehd7oxy
+    verified: false
+    hashtags: "#bigbear, #positivity, #vibes, #selflove"
   - username: "palmvisuals"
     fullname: >-
       A Cinematic Film Co.
+    bio: >-
+      ▪️Digital Marketing 💻 ▪️Cinematic Wedding Films 💍 ▪️Luxury Real Estate Tours + Branding 🎥 ▪️Award Winning Videography Team 🏆
     location: "United States"
     followers: 6667
     engagement: 708
     commentsToLikes: 0.025605
     id: ck5zvnkh34kna0i14d7njvut6
     verified: false
-    hashtags: "#bridesmaids, #couplegoals, #invest, #filmmaker"
-  - username: "modernveganfam"
+    hashtags: "#luxurycars, #house, #entrepreneur, #architecture"
+  - username: "michellegotfitfitt"
     fullname: >-
-      Modern Vegan Familia
+      Michelle Arias
+    bio: >-
+      God first 🙏🏽👑 Papi 💍 @_elruben_ LEO ⚫️🔵⚫️ #upstander Be kind ❤️
     location: "United States"
-    followers: 25743
-    engagement: 168
-    commentsToLikes: 0.103150
-    id: ck0vw3p88rylr0i19by1o7z2o
+    followers: 22524
+    engagement: 627
+    commentsToLikes: 0.043172
+    id: ckaoqzgyel1ui0i789wcbxy7m
     verified: false
-    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
-  - username: "ozomatli"
+    hashtags: "#curves, #pump, #humpday, #weekend"
+  - username: "zavjalovadiana"
     fullname: >-
-      Ozomatli
+      Diana Zavjalova
+    bio: >-
+      Professional bowler🎳 🔹️4-time PWBA champion(including 2 MAJORS) 🔹️European Champion🥇🥇 🔹️World Championship medalist🥈🥉 Latvia🇱🇻|🇺🇸Texas 👇👇👇
     location: "United States"
-    followers: 29704
-    engagement: 204
-    commentsToLikes: 0.037235
-    id: ck137c2nyasp90i198tn8oi1l
+    followers: 32632
+    engagement: 433
+    commentsToLikes: 0.018371
+    id: ck6u20tr4p1hf0j71aw5ku3c8
     verified: false
-    hashtags: "#cooks, #boulder, #quarantine, #coronaviruspandemic"
-  - username: "thefoodiecouple"
+    hashtags: "#fun, #iseeyou, #stepup, #pwba"
+  - username: "elchin_ahmadov_"
     fullname: >-
-      The Foodie Couple
+      Elchin Ahmadov
+    bio: >-
+      🥊Heavyweight professional boxer🇦🇿 ◼️Professional athlete🇺🇸 ⚡ Motivator⚡ ◾️Business inquiries☞🄳🄼📥 ⚫️Online strength training program
     location: "United States"
-    followers: 27761
-    engagement: 97
-    commentsToLikes: 0.062983
-    id: ck6ufibhgx84b0j71qr45gpiv
+    followers: 49938
+    engagement: 153
+    commentsToLikes: 0.034544
+    id: ck8t66m6ycfbt0j78bymtg65x
     verified: false
-    hashtags: "#chicagofoodie, #follow, #pizzalovers, #foodblog"
-  - username: "mace_tbird_5"
-    fullname: >-
-      Michelle Curran
-    location: "United States"
-    followers: 41376
-    engagement: 926
-    commentsToLikes: 0.020133
-    id: ck0w4h2dayj940i194yzz93sg
-    verified: false
-    hashtags: "#usaf, #hospitalship, #hollywood, #columbusafb"
-  - username: "mo_z1lla"
-    fullname: >-
-      MAURICE
-    location: "United States"
-    followers: 9714
-    engagement: 311
-    commentsToLikes: 0.197794
-    id: ck8tc0kqsxuma0j7822o7f5fp
-    verified: false
-    hashtags: "#wweuniverse, #workouts, #whiteteeth, #savemoney"
+    hashtags: "#lifestylechange, #crossfit, #1stphormathletesearch, #aztagram"
 ---

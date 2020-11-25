@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In France In 2020
 description: >-
-  Find top dancers TikTok influencers in France in 2020. Most popular hashtags: #comedie #fail #humour #shuffle.
+  Find top dancers TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #fyp #foryou #dance.
 platform: TikTok
+hits: 62
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 62 TikTok influencers like this in France for you to connect with.
 profiles:
-  - username: "julienolr"
+  - username: "myriamkermia"
     fullname: >-
-      jujuuuuuu🤡
+      Mymy🌹
+    bio: >-
+      🇫🇷 French dancer 🇫🇷 ✌️22 ✌️ ✉️ myriam.krm@gmail.com ✉️
     location: "France"
-    followers: 63511
-    engagement: 2877
-    commentsToLikes: 0.069233
-    id: ck9n4v76k5s4r0j78tij09r0s
+    followers: 31500
+    engagement: 2462
+    commentsToLikes: 0.049976
+    id: ckbfew57698a10j23lkkof2lq
+    verified: true
+    hashtags: "#pourtoi, #humour, #fyp, #tournage"
+  - username: "enzogco"
+    fullname: >-
+      Enzo
+    bio: >-
+      French Dancer Insta: enzogco
+    location: "France"
+    followers: 80900
+    engagement: 1988
+    commentsToLikes: 0.033881
+    id: ckbatpsnekan70j23lym84cw6
     verified: false
-    hashtags: "#fypage, #tuto"
-  - username: "smallplatypus"
+    hashtags: "#afrodance, #pourtoi, #fyp, #dance"
+  - username: "diodjoofficial1901"
     fullname: >-
-      Smallplatypus
+      Dio 🕺🃏
+    bio: >-
+      Just a weirdo ,love yourself ACTING X DANCE X LGBT Dancer 🇫🇷🇵🇹
     location: "France"
-    followers: 6927
-    engagement: 1276
-    commentsToLikes: 0.067168
-    id: cka0ubjd4tm170i78ecg2r9vf
-    verified: false
-    hashtags: "#narutoshippuden, #moeshopshuffle, #furrypatrol, #bluefacebaby"
-  - username: "alleexxiiar"
-    fullname: >-
-      moi c’est alex
-    location: "France"
-    followers: 9947
-    engagement: 2633
-    commentsToLikes: 0.036002
-    id: ck9ntfwqki6co0j78efytdkvy
-    verified: false
-    hashtags: "#netflix, #animalcrossing, #savage, #disneyplus"
-  - username: "albanedanse"
-    fullname: >-
-      a⃝l⃝b⃝a⃝♡e⃝d⃝a⃝♡s⃝e⃝
-    location: "France"
-    followers: 122507
-    engagement: 2548
-    commentsToLikes: 0.019133
-    id: cka6k9f19y0xh0i788llsmt55
-    verified: false
-    hashtags: "#bougezchezvous, #coolagain, #quidenousdeux, #fail"
-  - username: "diodjoofficial"
-    fullname: >-
-      Deolindo🕺👀🇫🇷🇵🇹
-    location: "France"
-    followers: 13505
-    engagement: 1198
-    commentsToLikes: 0.113998
+    followers: 16300
+    engagement: 1596
+    commentsToLikes: 0.076305
     id: cka6nb8f6ap3b0i78tb3sbfto
     verified: false
-    hashtags: "#buryafriend, #will, #blackeyespeas, #tebote"
+    hashtags: "#fyp, #pourtoi, #foryou, #dance"
+  - username: "leo.polo"
+    fullname: >-
+      Léo Polo
+    bio: >-
+      Dancer in 🇫🇷&🇺🇸, 14 years, Instagram : leo.danse
+    location: "France"
+    followers: 44800
+    engagement: 2434
+    commentsToLikes: 0.014170
+    id: ckcvjogw0x5rl0j23slh1le2a
+    verified: false
+    hashtags: ""
   - username: "jeremymarquet_"
     fullname: >-
       jeremymarquet_
+    bio: >-
+      Dancer 💎 Insta: jeremymarquet_ YouTube: Jeremy Marquet 🔥🔥🔥✌️ Go 🧡
     location: "France"
-    followers: 12354
-    engagement: 960
-    commentsToLikes: 0.137621
+    followers: 13400
+    engagement: 1187
+    commentsToLikes: 0.111620
     id: ck8zasmnh2tn90j783y8awg68
     verified: false
-    hashtags: "#chill, #swalla, #janetjackson, #4upage"
-  - username: "anisbelhadj75"
+    hashtags: "#foryou, #makemefamous, #summer, #4you"
+  - username: "ornellux__"
     fullname: >-
-      Anis Belhadj
+      Ornellux
+    bio: >-
+      19 years old, longboard dancer , try to be speedcuber , and a bit pianist 🖤
     location: "France"
-    followers: 11298
-    engagement: 658
-    commentsToLikes: 0.045319
-    id: ckactz5lngf1q0i78sh7cdcuu
+    followers: 2552
+    engagement: 1532
+    commentsToLikes: 0.028465
+    id: ckb0rha1qgzws0j23dk33yo64
     verified: false
-    hashtags: "#coronavirus, #mezoued, #gagnamstyle, #supermario"
-  - username: "bboyjunioroff"
+    hashtags: "#skategirl, #frenchriviera, #duo, #pourtoi"
+  - username: "julienolr"
     fullname: >-
-      BboyJuniorOff
+      jujuuuuuu🤡
+    bio: >-
+      DM ME PLEASE I’M BORED @julienolr ⬆️ DANCER FR [15 yo] 65K🦂
     location: "France"
-    followers: 4011
-    engagement: 623
-    commentsToLikes: 0.045289
-    id: ck9kfggsj3ctu0j78hbmik1ma
+    followers: 64800
+    engagement: 2723
+    commentsToLikes: 0.018107
+    id: ck9n4v76k5s4r0j78tij09r0s
     verified: false
-    hashtags: "#playback, #break, #fun, #musically"
-  - username: "zaffar_liquifire"
+    hashtags: "#pourtoi, #fyp, #omegle, #100layers"
+  - username: "alleexxiiar"
     fullname: >-
-      Zaffar Liquifire
+      moi c’est alex
+    bio: >-
+      16y 💃🏼 Dancer 💃🏼 10k merci !!😲 Abonne toi on s’amuse comme on peut
     location: "France"
-    followers: 57207
-    engagement: 936
-    commentsToLikes: 0.012507
-    id: ck900y9c8azzk0j78tjfz31yl
+    followers: 10200
+    engagement: 2603
+    commentsToLikes: 0.024937
+    id: ck9ntfwqki6co0j78efytdkvy
     verified: false
-    hashtags: "#ramadan, #teambhojpuriya, #lifeathome, #nadeemsarwar"
+    hashtags: "#pourtoi, #fyp, #trend, #challenge"
   - username: "helenearies"
     fullname: >-
       Helenearies
+    bio: >-
+      Instagram : helenearies ✨ Coach sportive et Pole Dancer 🩰
     location: "France"
-    followers: 93890
-    engagement: 733
-    commentsToLikes: 0.015633
+    followers: 236100
+    engagement: 1756
+    commentsToLikes: 0.022799
     id: ck9v740xh4mwp0j78jzie2d6d
     verified: false
-    hashtags: "#shoes, #heels, #gravity, #quarantinelife"
+    hashtags: "#french, #fitness, #halloween, #polerina"
+  - username: "nnkvt"
+    fullname: >-
+      anouk🐉🌙🤍
+    bio: >-
+      🌈 ☁️french ballet dancer 🤍passionate about fashion
+    location: "France"
+    followers: 3316
+    engagement: 1546
+    commentsToLikes: 0.018559
+    id: ckblg0p4k9rq30j2377vt58k1
+    verified: false
+    hashtags: "#fyp, #ballerina, #ballet, #foryou"
 ---

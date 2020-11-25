@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Ireland In 2020
 description: >-
-  Find top beauty TikTok influencers in Ireland in 2020. Most popular hashtags: #tiktok #coronavirus #trending #crazy.
+  Find top beauty TikTok influencers in Ireland in 2020. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
 platform: TikTok
+hits: 32
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 32 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "slickprotect"
     fullname: >-
       Slickprotect 
+    bio: >-
+      The best phone case money can buy ✅🔥 Shop at Slickprotect.com
     location: "Ireland"
-    followers: 24692
-    engagement: 1595
-    commentsToLikes: 0.042240
+    followers: 25600
+    engagement: 1321
+    commentsToLikes: 0.042313
     id: ck921wo9ajzg30j78almmtlhq
     verified: false
-    hashtags: "#forypupage, #public, #fitness, #glow"
-  - username: "fashion_aesthetic2"
+    hashtags: "#fyp, #phonecase, #lighting, #makeup"
+  - username: "makeupbyjade_1"
     fullname: >-
-      _Fashion_Aesthetic_
+      Jade Foley
+    bio: >-
+      THANK YOU GUYS SM FOR 40K!! 💌: jadefoley10253@gmail.com
     location: "Ireland"
-    followers: 2298
-    engagement: 1095
-    commentsToLikes: 0.007428
-    id: cka0jyo1vk5wr0i78vyo7ymse
+    followers: 40100
+    engagement: 1829
+    commentsToLikes: 0.019212
+    id: ckb0n0rxoddtd0j23lh4b6uv9
     verified: false
-    hashtags: "#streetwear, #vintage, #chanel, #instagram"
-  - username: "type40cos98"
+    hashtags: "#beauty, #mua, #makeupartist, #transformation"
+  - username: "wolfieroe34"
     fullname: >-
-      TYPE40
+      Luke Roe 💙💙
+    bio: >-
+      21 Irish boi 🇮🇪 Just a goofball 🤪 I have Aspergers 💚 18+ only, NO SPAMMING!
     location: "Ireland"
-    followers: 7572
-    engagement: 1366
-    commentsToLikes: 0.049929
-    id: ckac5lps7df1a0i78easphpgl
+    followers: 197400
+    engagement: 2465
+    commentsToLikes: 0.059280
+    id: ck9flloafoipg0j78ffe4x53j
     verified: false
-    hashtags: "#taliaalghul, #redhood, #starwars, #crossover"
-  - username: "mikey_30_1990"
+    hashtags: "#himbo, #tkn, #fyp, #bass"
+  - username: "yodatheberneseking"
     fullname: >-
-      Mikey Healy
+      YODATHEBERNESEKING
+    bio: >-
+      👻🎃HAPPY HALLOWEEN 🎃 👻
     location: "Ireland"
-    followers: 2061
-    engagement: 873
-    commentsToLikes: 0.136287
-    id: ckaigng7x26yc0i78x2yjil7e
+    followers: 36000
+    engagement: 3097
+    commentsToLikes: 0.156274
+    id: ckc3epg6o0g220j23eci79e1t
     verified: false
-    hashtags: "#duettrain, #nailedit, #finishthesong, #lunchbreak"
-  - username: "andy_maher"
+    hashtags: "#bernesemountaindog, #bmd, #besties, #viral"
+  - username: "wish"
     fullname: >-
-      Andy Maher
+      Wish
+    bio: >-
+      🛍️ Shopping made safe! 🛍 #GiveThanksWithWish & You Could Win 1K in Wish Cash
     location: "Ireland"
-    followers: 16334
-    engagement: 752
-    commentsToLikes: 0.016620
-    id: ck8kd37l241cu0j7896art1tu
-    verified: false
-    hashtags: "#follow, #tiktokmemes, #golf, #ukcomedy"
-  - username: "madhurikrishna91"
-    fullname: >-
-      Madhuri Krishna
-    location: "Ireland"
-    followers: 358378
-    engagement: 711
-    commentsToLikes: 0.000000
-    id: ck83z87s6ykpf0j78huwklrot
-    verified: false
-    hashtags: "#shinchancomedy, #mahesh, #kids, #funnyfact"
-  - username: "just_another_artist_xx"
-    fullname: >-
-      Uh oh stinkey
-    location: "Ireland"
-    followers: 11556
-    engagement: 2579
-    commentsToLikes: 0.057383
-    id: cka0pxsseacmj0i78qevqjdo4
-    verified: false
-    hashtags: "#orange, #youngartist, #followme, #pink"
-  - username: "keilidhmua"
-    fullname: >-
-      KeilidhMua
-    location: "Ireland"
-    followers: 1834195
-    engagement: 2287
-    commentsToLikes: 0.006942
-    id: ck8aebrekbmvr0j78gxh6a0ew
+    followers: 347800
+    engagement: 1504
+    commentsToLikes: 0.036402
+    id: ckb0z66hnnx680j23e03f0s0y
     verified: true
-    hashtags: "#norvinapartner, #brighterinside, #norvinaecl, #electricliners"
-  - username: "theemeraldisleofireland"
+    hashtags: "#retailtherapy, #mycostume, #hellofall, #halloween"
+  - username: "jlee_x"
     fullname: >-
-      Ireland ☘
+      Jennifer Lee
+    bio: >-
+      🦋irish | bi🦋 ✨dm me on insta- JL3ee✨ 🎥NEW YOUTUBE VID LINKED🎥
     location: "Ireland"
-    followers: 3908
-    engagement: 652
-    commentsToLikes: 0.015369
-    id: ck9eul5u5ec7o0j78r18kush3
+    followers: 23000
+    engagement: 1173
+    commentsToLikes: 0.062254
+    id: ck9fllfmuogjl0j78f3f5z1hq
     verified: false
-    hashtags: "#emeraldilse, #kylemoreabbey, #nephin, #northernireland"
-  - username: "discoverdublin"
+    hashtags: "#ratethings, #comedy, #morethanwords, #instagram"
+  - username: "darrenglynn"
     fullname: >-
-      matthew.discoverdubl
+      Darren Glynn
+    bio: >-
+      🏳️‍🌈 🇮🇪 31 🏴󠁧󠁢󠁳󠁣󠁴󠁿❤️: @cheekyemz 🏴󠁧󠁢󠁷󠁬󠁳󠁿❤️: @Rhianjones1988
     location: "Ireland"
-    followers: 43278
-    engagement: 917
-    commentsToLikes: 0.017421
-    id: ck83z89ubylc20j78d1g1asl3
+    followers: 4421
+    engagement: 1565
+    commentsToLikes: 0.074031
+    id: cka6mwmvk91ja0i7888hcbh0u
     verified: false
-    hashtags: "#song, #cork, #cute, #corna"
+    hashtags: "#igetupagain, #positiveenergychallenge, #duet, #eurotiktoks"
+  - username: "thegorillabiker"
+    fullname: >-
+      thegorillabiker
+    bio: >-
+      Full videos on YouTube and pictures on instagram. All clips are old. V4 is life
+    location: "Ireland"
+    followers: 2486
+    engagement: 779
+    commentsToLikes: 0.080709
+    id: ckcj75oir6j8r0j23bqp2ummg
+    verified: false
+    hashtags: "#education, #america, #irish, #history"
+  - username: "maurahiggins"
+    fullname: >-
+      MauraHiggins
+    bio: >-
+      Management @off_limits_ent Contact: rossella@offlimitsentertainment.com
+    location: "Ireland"
+    followers: 671100
+    engagement: 1038
+    commentsToLikes: 0.007796
+    id: ckb16ci5wtry20j23agqcil08
+    verified: true
+    hashtags: "#foryoupage, #fyp, #lockdown, #foryou"
+  - username: "fkv.ie"
+    fullname: >-
+      FKV
+    bio: >-
+      SUBSCRIBE TO US ON YOUTUBE https://www.youtube.com/channel/
+    location: "Ireland"
+    followers: 44600
+    engagement: 802
+    commentsToLikes: 0.008951
+    id: ckcelbx8kv3st0j23q6brxb90
+    verified: false
+    hashtags: "#trynottolaugh, #peppapig, #fyp, #frozen2"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In Toronto In 2020
 description: >-
-  Find top athletes TikTok influencers in Toronto in 2020. Most popular hashtags: #may4th #keepingactive #sports #toronto.
+  Find top athletes TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #toronto #canada.
 platform: TikTok
+hits: 10
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 10 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "heybarber"
+  - username: "toksports"
     fullname: >-
-      Pavel Barber
+      TokSports
+    bio: >-
+      Some sports stuff. 🏀⚾️⚽️🏈 Maybe a bit controversial 🤔. Reading this? Follow!
     location: "Canada"
-    followers: 136381
-    engagement: 1681
-    commentsToLikes: 0.009073
-    id: ck8njnxg1bb900j78k7sz68jg
-    verified: true
-    hashtags: "#shotoniphone, #concussion, #snow, #10yearsago"
-  - username: "lebanesemami"
-    fullname: >-
-      lebanese mamiiii
-    location: "Canada"
-    followers: 5045
-    engagement: 627
-    commentsToLikes: 0.043418
-    id: ck961ynzgohic0j78ygi4vqc4
+    followers: 20700
+    engagement: 893
+    commentsToLikes: 0.091730
+    id: ck9nczgn2cb7v0j78v8gozhso
     verified: false
-    hashtags: "#littlethings, #storytime, #amazing, #foryourpage"
-  - username: "michelle.c.smith"
+    hashtags: "#lakers, #bucks, #clippers, #patriots"
+  - username: "thisleafsfan"
     fullname: >-
-      michelle.c.smith
+      Joel Cox
+    bio: >-
+      17 Hockey Content🏒 70k use discount code “LEAFSFAN”
     location: "Canada"
-    followers: 277552
-    engagement: 944
-    commentsToLikes: 0.012645
-    id: ck9si7ve4xd5o0j782e6iuuja
+    followers: 71100
+    engagement: 1726
+    commentsToLikes: 0.062261
+    id: ckb9k7ia8bwn50j23xu7eur51
     verified: false
-    hashtags: "#slowjam, #prequarentine, #boredathome, #twofeet"
-  - username: "evolutionathlete"
+    hashtags: "#fyp, #hockey, #nhl, #foryou"
+  - username: "mc.design"
     fullname: >-
-      Evolution Athlete
+      mc design
+    bio: >-
+      16 yr old artist I design stuff and draw athletes Goal 🔀 20K
     location: "Canada"
-    followers: 6669
-    engagement: 760
-    commentsToLikes: 0.028056
-    id: ck8072jiro5u40j78q84zzype
+    followers: 11000
+    engagement: 1511
+    commentsToLikes: 0.039754
+    id: ck9r3mn24qlnt0j78r2rs71j3
     verified: false
-    hashtags: "#nipseyhussle, #regrets, #hockey, #travelthrowback"
+    hashtags: "#2k20, #basketball, #fyp, #lakers"
+  - username: "dumbanddumber416"
+    fullname: >-
+      Sar and Ang
+    bio: >-
+      Life of sar and Ang 🥤 Toronto @angcippone @saraliaa
+    location: "Canada"
+    followers: 21745
+    engagement: 353
+    commentsToLikes: 0.020511
+    id: ckb0w1pulla0b0j236nhi5r3j
+    verified: false
+    hashtags: "#promdiy, #quarantine, #xyzbca, #earthday"
+  - username: "ethan.ohehir"
+    fullname: >-
+      Ethan
+    bio: >-
+      TORONTO🇨🇦 Elite Modelling Management Toronto 19
+    location: "Canada"
+    followers: 28000
+    engagement: 1157
+    commentsToLikes: 0.015883
+    id: ckb8zw75lfiee0j23tzwt3ubr
+    verified: false
+    hashtags: "#canadian, #relationship, #muscle, #hot"
+  - username: "thatsoccerplayer77"
+    fullname: >-
+      Patty Lamanna
+    bio: >-
+      22 🇮🇹 Toronto Follow me on IG Thanks for 100k!!!!
+    location: "Canada"
+    followers: 107200
+    engagement: 988
+    commentsToLikes: 0.012619
+    id: ckdnud1cun00y0j231h6e1ho2
+    verified: false
+    hashtags: "#trend, #relatable, #foryou, #fyp"
+  - username: "oliviawardenn"
+    fullname: >-
+      Olivia Warden
+    bio: >-
+      Im not funny Toronto, Barbados & all over
+    location: "Canada"
+    followers: 16100
+    engagement: 783
+    commentsToLikes: 0.031881
+    id: ck9k8ipky98nd0j78v66z7vly
+    verified: false
+    hashtags: "#snapshot, #toronto, #canada, #foryou"
+  - username: "austinshaw3030"
+    fullname: >-
+      austinshaw
+    bio: >-
+      Wow a guy who isn’t good looking but makes some funny ass content Follow❤️
+    location: "Canada"
+    followers: 37500
+    engagement: 1776
+    commentsToLikes: 0.040343
+    id: ckb93az4gjzuh0j23meepi1ce
+    verified: false
+    hashtags: "#darkhumour, #foryou, #foryoupage, #laugh"
   - username: "pressuretodiamonds"
     fullname: >-
       PressureToDiamonds
+    bio: >-
+      Semi TikTok famous
     location: "Canada"
     followers: 4388
     engagement: 537
     commentsToLikes: 0.017699
     id: ck92uypgpo9mg0j78ek51ngl7
     verified: false
-    hashtags: "#confident, #noliechallenge, #whatthe, #part6"
-  - username: "mathys_lm"
+    hashtags: "#haha, #fyp, #foryoupage, #funny"
+  - username: "williambuffey"
     fullname: >-
-      mathys
+      williambuffey
+    bio: >-
+      Yo✌️ ¯\_(ツ)_/¯ Lost? Yeah same🤷‍♂️
     location: "Canada"
-    followers: 20869
-    engagement: 2013
-    commentsToLikes: 0.041650
-    id: cka0me7snuy820i78qgrt8e1o
+    followers: 92200
+    engagement: 1802
+    commentsToLikes: 0.013294
+    id: ckbfga3xlbb3x0j233t07oqij
     verified: false
-    hashtags: "#partygirl, #naturalcurls, #soccerboys, #squadchallenge"
-  - username: "flippinghub"
-    fullname: >-
-      Flipping Hub
-    location: "Canada"
-    followers: 48447
-    engagement: 1819
-    commentsToLikes: 0.021604
-    id: ck90r26lkkru00j78u2msje4w
-    verified: false
-    hashtags: "#freerunning, #freerunner, #coronavirus, #rooftop"
-  - username: "jorden_hall"
-    fullname: >-
-      Jorden Hall
-    location: "Canada"
-    followers: 188678
-    engagement: 2049
-    commentsToLikes: 0.012122
-    id: ck964of3qzjoo0j78qxhle0ub
-    verified: false
-    hashtags: "#shoes, #coronatime, #gaygirl, #heptathlete"
-  - username: "natalieallport"
-    fullname: >-
-      Natalie Allport
-    location: "Canada"
-    followers: 15247
-    engagement: 932
-    commentsToLikes: 0.039603
-    id: ck8qe3whcqx7a0j787aanljr4
-    verified: false
-    hashtags: "#relatable, #coreworkout, #workout, #lakelife"
-  - username: "streamlineathletes"
-    fullname: >-
-      streamlineathletes
-    location: "Canada"
-    followers: 3960
-    engagement: 733
-    commentsToLikes: 0.051457
-    id: ckamnpino5qn40i78ofzvkdyg
-    verified: false
-    hashtags: "#purdue, #4x100relay, #houston, #ethiopia"
+    hashtags: "#trending, #snowboard, #xyzbca, #fyp"
 ---

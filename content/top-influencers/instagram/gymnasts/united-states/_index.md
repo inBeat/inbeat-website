@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In United States In 2020
 description: >-
-  Find top gymnasts Instagram influencers in United States in 2020. Most popular hashtags: #freshair #summervibes #2020 #juniorseason.
+  Find top gymnasts Instagram influencers in United States in 2020. Most popular hashtags: #blackouttuesday #happynewyear #celsiuslivefit.
 platform: Instagram
+hits: 757
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 757 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "alena_n_star"
+    fullname: >-
+      Alena ✖️😼✖️Nazarova
+    bio: >-
+      Rhythmic gymnastics 🤸🏼‍♀️ Represented by 💌 @selectmodellosangeles
+    location: "United States"
+    followers: 224795
+    engagement: 534
+    commentsToLikes: 0.054693
+    id: ck0tuy1zr96fo0i19aaaik2k4
+    verified: false
+    hashtags: "#linkinbio, #film"
   - username: "kyla_bryant"
     fullname: >-
       Kyla Bryant ♕
+    bio: >-
+      psalms 23 ✞ || stanford gymnastics '21 || ATH || always be pure. kind. & honest.
     location: "United States"
-    followers: 7547
-    engagement: 1666
-    commentsToLikes: 0.054733
+    followers: 7646
+    engagement: 1565
+    commentsToLikes: 0.063026
     id: ck5hovjhnqb630i11v4yf3jbl
     verified: false
-    hashtags: "#juniorszn"
+    hashtags: "#juniorszn, #blackouttuesday, #22"
   - username: "_victorianguyen"
     fullname: >-
       
+    bio: >-
+      ・2x us national team member ・UGA gymnastics ‘24🐾 ・student athlete
     location: "United States"
-    followers: 16633
-    engagement: 998
-    commentsToLikes: 0.039604
+    followers: 16155
+    engagement: 973
+    commentsToLikes: 0.048341
     id: ck0w01wxxbzgb0i19rd2vn1kx
     verified: false
     hashtags: "#sorrynotsorry, #nli, #2020, #19"
-  - username: "isabella.magnelli"
+  - username: "brians.flyin"
     fullname: >-
-      Bella 🦋
+      Brian
+    bio: >-
+      Your school has no gymnastics team, this is a last resort 📍LA based
     location: "United States"
-    followers: 6258
-    engagement: 1839
-    commentsToLikes: 0.038423
-    id: ck5qc03vjo7xl0i118x3rloch
+    followers: 3356
+    engagement: 2510
+    commentsToLikes: 0.085554
+    id: ckf5m4fbos7hk0j23n8h8l29j
     verified: false
-    hashtags: "#nastialiukincup, #happymothersday, #nastialuikencup, #milwaukee"
-  - username: "anniecbeard"
+    hashtags: "#fridaymood, #fbf, #tbt"
+  - username: "luisablanco20"
     fullname: >-
-      Annie Beard
+      Luisa Blanco🇨🇴
+    bio: >-
+      University of Alabama Gymnast
     location: "United States"
-    followers: 11684
-    engagement: 1410
-    commentsToLikes: 0.025958
-    id: ckaoytzxfj2m30i78hsu64r4t
+    followers: 2680
+    engagement: 2506
+    commentsToLikes: 0.077549
+    id: ckf5p09gz4hwd0j23rsym7wj8
     verified: false
-    hashtags: "#corona, #happypattysday, #5miles, #geauxtigers"
+    hashtags: "#blackouttuesday, #classof2020, #tat2020, #sophomoreszn"
+  - username: "judecnorris"
+    fullname: >-
+      Jude Norris
+    bio: >-
+      | Chow’s Gymnast | CHS ‘22 |
+    location: "United States"
+    followers: 10628
+    engagement: 1445
+    commentsToLikes: 0.039026
+    id: ck8wf6k9hf7nl0j78lfyc0ysq
+    verified: false
+    hashtags: "#happynewyear"
+  - username: "nevydx28"
+    fullname: >-
+      Nevaeh DeSouza
+    bio: >-
+      CAL BERKELEY GYMNASTICS 💙💛🐻
+    location: "United States"
+    followers: 8564
+    engagement: 1315
+    commentsToLikes: 0.034644
+    id: ck5hovh3kqb2c0i119ybib5gb
+    verified: false
+    hashtags: "#twins, #summervibes, #gobears"
+  - username: "ericaafontaine"
+    fullname: >-
+      Erica Fontaine
+    bio: >-
+      Turn on my post notifications WVU gymnastics alum Inquiries: 💌 ericadfontaine@gmail.com Follow my other page @ericafontaineofficial
+    location: "United States"
+    followers: 550685
+    engagement: 710
+    commentsToLikes: 0.013750
+    id: ck5zl2vkdkmsj0i14d1vzcq3e
+    verified: false
+    hashtags: "#celsiuslivefit, #happyhallo"
   - username: "_kiyajohnson"
     fullname: >-
       Kiya
+    bio: >-
+      dtx~LSU Gymnastics ‘23~sc:kiya_johnson123
     location: "United States"
-    followers: 7802
-    engagement: 1941
-    commentsToLikes: 0.031100
+    followers: 8514
+    engagement: 2075
+    commentsToLikes: 0.033352
     id: ck5hl7udrjqet0i11ylgpbx7a
     verified: false
     hashtags: "#btj, #realtigers, #behindus, #mypeople"
   - username: "niaadennis"
     fullname: >-
       Nia💋
+    bio: >-
+      NIANATION✨ UCLA gymnastics💛🐻 snap: n_dennis23
     location: "United States"
-    followers: 191247
-    engagement: 1286
-    commentsToLikes: 0.014904
+    followers: 222862
+    engagement: 1198
+    commentsToLikes: 0.014812
     id: ck8t0vt0ttih00j78u3qtuf6g
     verified: true
-    hashtags: "#juniorseason, #levelup"
-  - username: "ericaafontaine"
-    fullname: >-
-      Erica Fontaine
-    location: "United States"
-    followers: 446663
-    engagement: 854
-    commentsToLikes: 0.013292
-    id: ck5zl2vkdkmsj0i14d1vzcq3e
-    verified: false
-    hashtags: ""
-  - username: "carolineandrea5"
-    fullname: >-
-      Caroline
-    location: "United States"
-    followers: 29845
-    engagement: 308
-    commentsToLikes: 0.063724
-    id: ck15rwq1ga2s00i19qnti392w
-    verified: false
-    hashtags: "#hiking, #arbordayathome, #quarantinecrazy, #missinglife"
-  - username: "aaijai"
-    fullname: >-
-      AJ Montgomery
-    location: "United States"
-    followers: 8842
-    engagement: 1373
-    commentsToLikes: 0.043628
-    id: ck6u7d2zfkt6r0j716onwjy4m
-    verified: false
-    hashtags: "#fullmoon, #summervibes, #timetorecenter, #eternalbody"
-  - username: "savi_shay"
-    fullname: >-
-      Savannah Kooyman 🧚
-    location: "United States"
-    followers: 9348
-    engagement: 1459
-    commentsToLikes: 0.023944
-    id: ck6tp85wdid6d0j71mpqf5ipt
-    verified: false
-    hashtags: "#2020, #meetthebruins, #roomategoals, #thankstom"
+    hashtags: "#blackouttuesday, #juniorseason, #levelup, #road2recovery"
 ---

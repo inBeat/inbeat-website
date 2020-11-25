@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Sydney In 2020
 description: >-
-  Find top food TikTok influencers in Sydney in 2020. Most popular hashtags: #food #chocolate #cooking #xyzbca.
+  Find top food TikTok influencers in Sydney in 2020. Most popular hashtags: #australia #food #sydney #foryoupage.
 platform: TikTok
+hits: 35
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 35 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "raafatmaamari"
+  - username: "chongybrah"
     fullname: >-
-      Raafat Maamari
+      Chongy
+    bio: >-
+      Bris
     location: "Australia"
-    followers: 11767
-    engagement: 362
-    commentsToLikes: 0.032465
-    id: ck9fe5hlirlud0j78gz035r7b
+    followers: 34000
+    engagement: 1497
+    commentsToLikes: 0.016333
+    id: ck81swb9rtkv10j78pjbv5vy2
     verified: false
-    hashtags: "#moderndesign, #tvunit, #mango, #walkin"
-  - username: "kayywuerf"
+    hashtags: "#australia, #aussie, #ohno, #polynesian"
+  - username: "ashe_media"
     fullname: >-
-      Kaymie Wuerfel
+      ashe_media
+    bio: >-
+      Hi its Liam Business- liamashesocials@gmail.com Insta/snap- ashe_media
     location: "Australia"
-    followers: 25891
-    engagement: 1225
-    commentsToLikes: 0.029662
-    id: cka0haxnz8drw0i78fudcrv75
-    verified: true
-    hashtags: "#kettle, #accent, #kardashians, #bluetick"
-  - username: "jasminmitwali"
-    fullname: >-
-      Jasmin
-    location: "Australia"
-    followers: 41920
-    engagement: 1127
-    commentsToLikes: 0.192909
-    id: cka68dd3tocu60i784wus9bti
+    followers: 103600
+    engagement: 1376
+    commentsToLikes: 0.011112
+    id: cka5z125uko3m0i78ew259dvp
     verified: false
-    hashtags: "#dontdoit, #cantwait, #clothes, #viral"
-  - username: "foodfomo_mernz"
+    hashtags: "#woolies, #diving, #duet, #tv"
+  - username: "_danny__loyd_"
     fullname: >-
-      Sydney Foodie
+      Just for fun 😁😁😁
+    bio: >-
+      21 🍪 just a guy for fun now! I'm barely on tiktok 🤣🤣🤣
     location: "Australia"
-    followers: 4766
-    engagement: 402
-    commentsToLikes: 0.036868
-    id: ckai5k4u2sfbm0i78t05vlykq
+    followers: 19800
+    engagement: 1278
+    commentsToLikes: 0.022136
+    id: ckc8x8dtfl0q20j23tons20sr
     verified: false
-    hashtags: "#cheesechallenge, #clean, #vegeterian, #taco"
-  - username: "pb08_ala"
+    hashtags: "#duet, #fyp, #foryou, #relate"
+  - username: "andyescapes"
     fullname: >-
-      Vinay
+      Andrew
+    bio: >-
+      Videographer 📸 Always Adventuring | Syd 🇦🇺 Check the IG for the bangers 🔥
     location: "Australia"
-    followers: 7727
-    engagement: 766
-    commentsToLikes: 0.045672
-    id: cka0xdcwk6lwv0i78bbeqvn7w
+    followers: 79400
+    engagement: 816
+    commentsToLikes: 0.018667
+    id: ckbffu2t3apxc0j23ajpez8yv
     verified: false
-    hashtags: "#akay, #duet, #aussiethings, #momsoftiktok"
+    hashtags: "#drone, #transition, #cinematic, #viral"
+  - username: "ryanpaturzo"
+    fullname: >-
+      Ryanpaturzo
+    bio: >-
+      The guy with famous hands Producer @Buzzfeed Tasty 🙌🏼🍔🍕🌮 **Personal account
+    location: "Australia"
+    followers: 64400
+    engagement: 1037
+    commentsToLikes: 0.016850
+    id: ckb0u97b5jkel0j23g079ifdc
+    verified: false
+    hashtags: "#food, #tasty, #dessert, #foodie"
+  - username: "a_osman_"
+    fullname: >-
+      A Osman
+    bio: >-
+      For a Laugh
+    location: "Australia"
+    followers: 2458
+    engagement: 562
+    commentsToLikes: 0.041808
+    id: ckbfftzbaaph00j2323405h0e
+    verified: false
+    hashtags: "#foryoupage, #dontletthisflop, #fyp, #wipeitdown"
+  - username: "lukedamant"
+    fullname: >-
+      Luke Damant
+    bio: >-
+      Travel vlogger 20 years young sydney, aus 🇦🇺 43K + Instagram: 145K + YouTube
+    location: "Australia"
+    followers: 350900
+    engagement: 690
+    commentsToLikes: 0.074940
+    id: ck8orm0m4cub50j78e0r042jl
+    verified: false
+    hashtags: "#australia, #travel, #european, #food"
+  - username: "brookie12601"
+    fullname: >-
+      Brooke
+    bio: >-
+      💕I appreciate you💕 🇦🇺Newcastle/Sydney Australia🇦🇺 🙂Smile beautiful🙂
+    location: "Australia"
+    followers: 18700
+    engagement: 1615
+    commentsToLikes: 0.045037
+    id: ckc384h9lwxjw0j231otyge09
+    verified: false
+    hashtags: "#mybff, #australia, #trending, #dayoutwithfriends"
   - username: "sydneyspearos"
     fullname: >-
       sydney spearos
+    bio: >-
+      @sydney.spearos insta @Sydney spearos spearfishing f/b follow and comment
     location: "Australia"
-    followers: 183268
-    engagement: 328
-    commentsToLikes: 0.014393
+    followers: 217100
+    engagement: 449
+    commentsToLikes: 0.024532
     id: ck83wz6byn75q0j78mjg27hju
     verified: false
-    hashtags: "#170k, #isolation, #indoorworkout, #everydayscience"
-  - username: "alexpidgeon"
+    hashtags: "#oceanadict, #foryoupage, #theman, #ocean"
+  - username: "gabreal.hungry"
     fullname: >-
-      Heyalex
+      Gabrielle
+    bio: >-
+      I love food and boba too much
     location: "Australia"
-    followers: 117461
-    engagement: 1762
-    commentsToLikes: 0.006584
-    id: ck8135iwyzymq0j78m2vttcri
+    followers: 5082
+    engagement: 863
+    commentsToLikes: 0.026709
+    id: ckauyssfw4aiw0j233wipxz1x
     verified: false
-    hashtags: "#tutorial, #filmcamera, #film, #food"
-  - username: "stephhodges1994"
-    fullname: >-
-      Steph Hodges
-    location: "Australia"
-    followers: 9665
-    engagement: 933
-    commentsToLikes: 0.025762
-    id: cka0p1gbn692d0i7868891c0n
-    verified: false
-    hashtags: "#overthinker, #gamer, #lionking, #australia"
-  - username: "karimdaddyslim"
-    fullname: >-
-      Karim
-    location: "Australia"
-    followers: 33702
-    engagement: 1843
-    commentsToLikes: 0.008892
-    id: cka0xd8w86kqv0i78mt9b95un
-    verified: false
-    hashtags: "#mansion, #bike, #animal, #lebanese"
-  - username: "tony.zak"
-    fullname: >-
-      tony.zakharia2
-    location: "Australia"
-    followers: 6298
-    engagement: 696
-    commentsToLikes: 0.031699
-    id: ckamrmld7mdvm0i78b66w7tck
-    verified: false
-    hashtags: "#infections, #playstation, #hairy, #tips"
+    hashtags: "#quarantine, #albumcover, #chiangrai, #albumcoverchallenge"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Toronto In 2020
 description: >-
-  Find top makeup TikTok influencers in Toronto in 2020. Most popular hashtags: #toronto #makeup #canada #coronavirus.
+  Find top makeup TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #toronto #foryoupage #makeup.
 platform: TikTok
+hits: 96
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 96 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "egyptianedition"
+  - username: "chloecarltonn"
     fullname: >-
-      N O R A 🧿
+      C
+    bio: >-
+      G🤞🏼 your positive vibe queen✨ follow me for more self love 💛 19//🇨🇦
     location: "Canada"
-    followers: 26742
-    engagement: 466
-    commentsToLikes: 0.051964
-    id: ckamxx98wezky0i78iij82pmp
+    followers: 73400
+    engagement: 2450
+    commentsToLikes: 0.033789
+    id: ckdi86bu8ah5j0j23ia42jy3l
     verified: false
-    hashtags: "#ontario, #icedcoffee, #lipstick, #beauty"
-  - username: "olena_a"
-    fullname: >-
-      Olena.A
-    location: "Canada"
-    followers: 8726
-    engagement: 734
-    commentsToLikes: 0.051783
-    id: ck92uyo3vo9cj0j78nl4zkt6n
-    verified: false
-    hashtags: "#homeproject, #eyelineronfleek, #bossymakeup, #smilechallenge"
-  - username: "muanatasha"
-    fullname: >-
-      natasha lamarche
-    location: "Canada"
-    followers: 11838
-    engagement: 609
-    commentsToLikes: 0.018559
-    id: ck9c6c3mgr0c60j78q9c86j49
-    verified: false
-    hashtags: "#undereyebags, #videocall, #drugstore, #lipstick"
+    hashtags: "#fyp, #foryou, #ontario, #canada"
   - username: "jasgbtn"
     fullname: >-
       Jasmine Grace
+    bio: >-
+      Toronto 19
     location: "Canada"
-    followers: 6226
-    engagement: 1257
-    commentsToLikes: 0.035293
+    followers: 6146
+    engagement: 914
+    commentsToLikes: 0.031406
     id: ck7zo5d3ohy4i0j78qsioi8jo
     verified: false
-    hashtags: "#eyeslipsface, #makeupart, #jeju, #quarantinelife"
-  - username: "shoshanarose"
-    fullname: >-
-      Shoshana Rose
-    location: "Canada"
-    followers: 14071
-    engagement: 532
-    commentsToLikes: 0.010952
-    id: ck90r2hutkva30j78ousc53so
-    verified: false
-    hashtags: "#habeshatiktok, #tiktokhabesha, #libra, #cat"
+    hashtags: "#mua, #makeup, #toronto, #fyp"
   - username: "_ivorytowers"
     fullname: >-
       Ivory Towers
+    bio: >-
+      Ivory Towers Toronto drag entertainer Instagram _ivorytowers
     location: "Canada"
-    followers: 10830
-    engagement: 900
-    commentsToLikes: 0.021775
+    followers: 11400
+    engagement: 912
+    commentsToLikes: 0.021350
     id: ck8qfxk8cypvd0j78rmtgxeiw
     verified: false
-    hashtags: "#waitforit, #dancechallenge, #shaving, #glowup"
-  - username: "funcleky"
+    hashtags: "#transformation, #dragracecanada, #canada, #isolation"
+  - username: "itsnotnaba"
     fullname: >-
-      Funcle Ky
+      naba 🦋✨
+    bio: >-
+      yyz 🇨🇦 | 18 it’s all fun and games ✨😤
     location: "Canada"
-    followers: 13117
-    engagement: 984
-    commentsToLikes: 0.037232
-    id: ck90r29idkspg0j78m7rcxacy
+    followers: 3856
+    engagement: 1301
+    commentsToLikes: 0.081566
+    id: ckd6fbmz474k50j23oh6ho85u
     verified: false
-    hashtags: "#trudeau, #happyeaster, #running, #guessmyprovince"
-  - username: "cp24breakfast"
+    hashtags: "#foryou, #foryoupage, #naruto, #canada"
+  - username: "victoriasabovitch"
     fullname: >-
-      CP24 Breakfast
+      Victoria Sabovitch🤍
+    bio: >-
+      23 🇨🇦 Bus. only📩:Victoria@dulcedo.com
     location: "Canada"
-    followers: 12219
-    engagement: 944
-    commentsToLikes: 0.027980
-    id: ck9f23unzbinc0j78au20qc0u
+    followers: 612400
+    engagement: 1018
+    commentsToLikes: 0.020361
+    id: ck9kdng2puxz00j7891cbtzfr
     verified: false
-    hashtags: "#makeup, #yummy, #wereadynfl, #stormtrooper"
-  - username: "sabzmic"
+    hashtags: "#canadian, #foryou, #fyp, #timewarpscan"
+  - username: "olena_a"
     fullname: >-
-      sabz🥺💕
+      Olena.A
+    bio: >-
+      Jack of all trades: makeup, hair, painting. Toronto | ig: @olena.a
     location: "Canada"
-    followers: 3642
-    engagement: 538
-    commentsToLikes: 0.045167
-    id: ckahyqq480g0d0i78e8pqbdv3
+    followers: 9086
+    engagement: 1010
+    commentsToLikes: 0.048367
+    id: ck92uyo3vo9cj0j78nl4zkt6n
     verified: false
-    hashtags: "#savingmoney, #tiktok, #spacethings, #taabifamily"
-  - username: "_siddhi_sharma"
+    hashtags: "#duet, #jockermakeup, #wipechallengetiktok, #gosling"
+  - username: "muanatasha"
     fullname: >-
-      siddhisharma
+      natasha lamarche
+    bio: >-
+      🇬🇾🇨🇦 ✨ makeup advice + tips + tutorials ✨ 🦋 makeup artist from toronto 🦋
     location: "Canada"
-    followers: 56403
-    engagement: 410
-    commentsToLikes: 0.018116
-    id: ck9dyedpbwxf10j781212ql96
+    followers: 30500
+    engagement: 678
+    commentsToLikes: 0.019767
+    id: ck9c6c3mgr0c60j78q9c86j49
     verified: false
-    hashtags: "#didyouever, #featureme, #itiswhatitis, #makeover"
+    hashtags: "#foryou, #makeupchallenge, #hipdips, #drugstoremakeup"
+  - username: "xnisamalik"
+    fullname: >-
+      nise
+    bio: >-
+      she/ they 🇵🇰🇨🇦 BLM 🏳️‍🌈
+    location: "Canada"
+    followers: 51400
+    engagement: 911
+    commentsToLikes: 0.019452
+    id: ck9fdr0nkpt300j78dk1d0npf
+    verified: false
+    hashtags: "#ootd, #fyp, #transformation, #toronto"
+  - username: "gloria.schonfeld"
+    fullname: >-
+      Glo❤️
+    bio: >-
+      Glo❤️ Toronto🇨🇦
+    location: "Canada"
+    followers: 3461
+    engagement: 999
+    commentsToLikes: 0.112784
+    id: ckcp9i0gfec4v0j23ju8bkpvt
+    verified: false
+    hashtags: "#cookinghacks, #tiktokgraduation, #getmicrowavy, #foryou"
+  - username: "oknehaa"
+    fullname: >-
+      Okneha
+    bio: >-
+      Lets tik talk about it
+    location: "Canada"
+    followers: 4436
+    engagement: 1075
+    commentsToLikes: 0.062256
+    id: ckc7pdrd9v3wo0j237ba47kkx
+    verified: false
+    hashtags: "#foryoupage, #naturevibes, #vlog, #fyp"
 ---

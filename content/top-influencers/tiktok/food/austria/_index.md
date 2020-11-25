@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Austria In 2020
 description: >-
-  Find top food TikTok influencers in Austria in 2020. Most popular hashtags: #breakfast #funny #homemade #outfit.
+  Find top food TikTok influencers in Austria in 2020. Most popular hashtags: #food #foryou #fyp #vienna.
 platform: TikTok
+hits: 44
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 44 TikTok influencers like this in Austria for you to contact.
 profiles:
-  - username: "vegaliciouslyeva"
+  - username: "onobox"
     fullname: >-
-      vegaliciouslyeva 
+      TheGreenGarden
+    bio: >-
+      Vegan 🌱 Veggie Food Follow us on Instagram ❤️
     location: "Austria"
-    followers: 30067
-    engagement: 691
-    commentsToLikes: 0.027302
-    id: ck8fayzbb4pvb0j781aatu5db
+    followers: 9092
+    engagement: 1031
+    commentsToLikes: 0.024640
+    id: ckb9pz75eljij0j23uyq819zg
     verified: false
-    hashtags: "#vegandinner, #risotto, #pralinen, #veganhumor"
-  - username: "cookinglatina"
+    hashtags: "#foryou, #tiktok, #foodie, #summer"
+  - username: "cookingnicky"
     fullname: >-
       nicoleschubert
+    bio: >-
+      🇦🇹AUSTRIA|🇵🇪PERU Foodlover 🤓 🍓🍏🍌-Science📚 📝schubert_nicole@gmx.at
     location: "Austria"
-    followers: 5492
-    engagement: 348
-    commentsToLikes: 0.040058
+    followers: 36800
+    engagement: 698
+    commentsToLikes: 0.012685
     id: ck9ekx6tw86bc0j78cc9i52iv
     verified: false
-    hashtags: "#herzen, #apfelrosenmuffin, #jlovibes, #bankpose"
-  - username: "cetzys"
+    hashtags: "#stolzsein, #gesundundlecker, #gesunderezepte, #gesundeern"
+  - username: "vic_tori_a19"
     fullname: >-
-      cet'Zys
+      Vic_Tori_a19
+    bio: >-
+      Hi 👋 Foodblogger 🍦🧁🍪 😊😍
     location: "Austria"
-    followers: 22863
-    engagement: 1126
-    commentsToLikes: 0.013013
-    id: ckai4zb54q2ip0i78grezi1wx
+    followers: 4385
+    engagement: 886
+    commentsToLikes: 0.025533
+    id: ckb9s7i3hpbn30j23l8x98pxr
     verified: false
-    hashtags: "#10kfollowers, #spargel, #eating, #krapfen"
-  - username: "carlosjmelgar"
+    hashtags: "#fd, #fds, #vienna, #keinebezahltewerbung"
+  - username: "carinaberry"
     fullname: >-
-      Carlos J. Melgar
+      Carina Berry
+    bio: >-
+      CEO of flashy food 🍓🍑 From Vienna, Austria 🇦🇹 Follow my Insta! @carina_berry
     location: "Austria"
-    followers: 5942
-    engagement: 528
-    commentsToLikes: 0.169080
-    id: cka65s3giedd30i7828dzexr1
+    followers: 821100
+    engagement: 1319
+    commentsToLikes: 0.003586
+    id: ckavr2em32umc0j233pk2csi4
     verified: false
-    hashtags: "#tiktoktips, #tiktok, #foodart, #cooking"
-  - username: "marcelmuessig"
+    hashtags: "#diy, #foryou, #challenge, #lustig"
+  - username: "saomaile"
     fullname: >-
-      Marcel Müssig
+      Saomai
+    bio: >-
+      Don't waste your life away!💛 📍 Currently farting in Vienna (Austria🇦🇹)
     location: "Austria"
-    followers: 7241
-    engagement: 767
-    commentsToLikes: 0.075046
-    id: ckaicbxmljx1e0i78jxav8pjq
+    followers: 314400
+    engagement: 1736
+    commentsToLikes: 0.012726
+    id: ck8vuzts5kdoz0j781kilnzkc
     verified: false
-    hashtags: "#coronatime, #goodvibesonly, #duett, #snow"
-  - username: "tonyzchen"
+    hashtags: "#zatebe, #foryou, #whatieatinaday, #intuitiveeating"
+  - username: "ewatsiakmakis"
     fullname: >-
-      Tony Z. Chen
+      ewa
+    bio: >-
+      fashion, beauty, lifestyle & fooood🤍 follow my IG: ewatsiakmakis vienna
     location: "Austria"
-    followers: 18337
-    engagement: 995
-    commentsToLikes: 0.018640
-    id: ck9kdv0axw1440j78dqf9na5u
+    followers: 26400
+    engagement: 712
+    commentsToLikes: 0.017989
+    id: ckai38ndaj02e0i783silu66w
     verified: false
-    hashtags: "#homemade, #familyrecipe, #homerecipe, #bamboo"
-  - username: "sofiyaakb"
+    hashtags: "#vienna, #vlog, #asiashophaul, #shopping"
+  - username: "wavysnips"
     fullname: >-
-      𝘚𝘰𝘧𝘪𝘺𝘢 🦦
+      WavySnips
+    bio: >-
+      Just posting random trash 25 Graz, Austria IG: moritz_bloder
     location: "Austria"
-    followers: 4885
-    engagement: 1256
-    commentsToLikes: 0.008942
-    id: ck9c08tp2o5zt0j78a2xp99mk
+    followers: 20200
+    engagement: 981
+    commentsToLikes: 0.020522
+    id: ck9go8yzo079f0j78re81e3ds
     verified: false
-    hashtags: "#stayathome, #vlog, #friends, #inmyroom"
-  - username: "marikathi16"
+    hashtags: "#lifehack, #fyp, #koch, #food"
+  - username: "the.alchemist1999"
     fullname: >-
-      Marikathi
+      Julian (JT)
+    bio: >-
+      NYC born, Jersey raised 🇺🇸 Vienna, comedy and truth Just For Fun
     location: "Austria"
-    followers: 64143
-    engagement: 1236
-    commentsToLikes: 0.009308
-    id: cka6o4fdne1kn0i78b69l94ds
+    followers: 6181
+    engagement: 737
+    commentsToLikes: 0.024182
+    id: ckcjnhll7ff160j23updw6i0h
     verified: false
-    hashtags: "#shorty, #ebay, #microgreens, #flighthouse"
-  - username: "melxble"
+    hashtags: "#viennacity, #comedy, #austrian, #austrianboy"
+  - username: "dalilacooks95"
     fullname: >-
-      ish ya girl mel
+      daliila
+    bio: >-
+      🇩🇿| 📍🇦🇹 Recipes on my Instagrampage dalilacooks95✨☺️💖
     location: "Austria"
-    followers: 110869
-    engagement: 2345
-    commentsToLikes: 0.041832
-    id: ck9e31oi8hihd0j78i5yuqfpm
+    followers: 2205
+    engagement: 383
+    commentsToLikes: 0.024907
+    id: ckbfj8q86ffr80j234sjjg8u0
     verified: false
-    hashtags: "#pianoplayer, #btsposters, #mirrorchallenge, #duet"
-  - username: "glow.grwmm"
+    hashtags: "#yum, #kitchen, #ramadan, #yummyfood"
+  - username: "amr_hoda_777"
     fullname: >-
-      anna✨
+      HodaAmr
+    bio: >-
+      Travel ✈️ Cars 🏎! 🇦🇹❤️🇪🇬
     location: "Austria"
-    followers: 39356
-    engagement: 2414
-    commentsToLikes: 0.030918
-    id: ckac9cqh2g1bi0i78kgveqaaa
+    followers: 3313
+    engagement: 236
+    commentsToLikes: 0.022377
+    id: ckb9i4r1l88aw0j23d82hohis
     verified: false
-    hashtags: "#draft, #idewcare, #foryoupage, #dayinmylife"
+    hashtags: "#pulverdichauf, #tuning, #foodlover, #summer"
 ---

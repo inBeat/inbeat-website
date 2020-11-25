@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In United States In 2020
 description: >-
-  Find top chefs TikTok influencers in United States in 2020. Most popular hashtags: #gotthisforyou #corona #gonnabefriends #familytime.
+  Find top chefs TikTok influencers in United States in 2020. Most popular hashtags: #fyp #foryou #foryoupage #chef.
 platform: TikTok
+hits: 506
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 506 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "chefshabba"
     fullname: >-
       Chef
+    bio: >-
+      CREATOR CODE: chefshabba #ad KG ON TOP
     location: "United States"
-    followers: 230051
-    engagement: 1481
-    commentsToLikes: 0.021846
+    followers: 342800
+    engagement: 1640
+    commentsToLikes: 0.014210
     id: ckan209lwy45d0i785c50lzpu
     verified: false
-    hashtags: "#travisscott, #share, #pickaxe, #cracked"
-  - username: "livvybean_"
+    hashtags: "#fyp, #foryoupage, #foryou, #viral"
+  - username: "808_tikytokhomie"
     fullname: >-
-      Liv 
+      808_TikyTokHomie
+    bio: >-
+      Aloha 🤙 Mom Hutsle Professional Race Car Photographer Head Chef
     location: "United States"
-    followers: 40182
-    engagement: 1957
-    commentsToLikes: 0.047595
-    id: ck8kd9v2w4ruo0j78ntlcb8aa
+    followers: 25000
+    engagement: 2080
+    commentsToLikes: 0.052788
+    id: ckc7jfx7mqy2e0j23pokod7pj
     verified: false
-    hashtags: "#greenscreen, #yearbook2020, #corona, #verucasalt"
-  - username: "chefnoodlez"
-    fullname: >-
-      Chef Noodlez
-    location: "United States"
-    followers: 189222
-    engagement: 1723
-    commentsToLikes: 0.031674
-    id: ck9ej5q2a0pbh0j78o2q4r3jd
-    verified: false
-    hashtags: "#chef, #chain, #puppy, #hotcheeto"
-  - username: "chefdelalucifer"
-    fullname: >-
-      Chefdelalucifer
-    location: "United States"
-    followers: 8869
-    engagement: 2258
-    commentsToLikes: 0.033303
-    id: ck9nfbavueb1s0j78a0fkls8t
-    verified: false
-    hashtags: "#mthood, #fungi, #barley, #duet"
-  - username: "shabbygabby"
-    fullname: >-
-      Gabby
-    location: "United States"
-    followers: 371628
-    engagement: 1986
-    commentsToLikes: 0.022512
-    id: ck8saw2zp3ypc0j78ziwoimta
-    verified: true
-    hashtags: "#elfcosmetics, #ifeellikeawholebrandnewbih, #milwaukee, #vibewithme"
-  - username: "iwillburn"
-    fullname: >-
-      Egg Dad
-    location: "United States"
-    followers: 20191
-    engagement: 2168
-    commentsToLikes: 0.023146
-    id: ck9pnu6jagcam0j78ghgshm3v
-    verified: false
-    hashtags: "#travelthrowback, #disney, #poseathome, #bffreacts"
+    hashtags: "#friends, #foryou, #momsoftiktok, #gfc"
   - username: "sugar_pusher"
     fullname: >-
       Ally Burnett
+    bio: >-
+      Chocolatier.Pastry chef.Tutorials & sass. Niche but relatable She/her 🏳️‍🌈
     location: "United States"
-    followers: 47848
-    engagement: 1684
-    commentsToLikes: 0.028054
+    followers: 105900
+    engagement: 2011
+    commentsToLikes: 0.034867
     id: ck8z2hf6i5cqh0j78b3sbzzrp
     verified: false
-    hashtags: "#storytime, #cosmic, #finalsathome, #learnfromhome"
-  - username: "noahcanadawoodstock"
+    hashtags: "#tiktokcooks, #foryou, #spookytreats, #asmr"
+  - username: "avafloflava"
     fullname: >-
-      Noah L. Canada-Woods
+      avafloflava
+    bio: >-
+      she/they 16 ♐︎ ♌︎ ♒︎ roger waters private chef
     location: "United States"
-    followers: 2879
-    engagement: 472
-    commentsToLikes: 0.084931
-    id: ck83k2l0y8th50j78ybdghzp7
+    followers: 21900
+    engagement: 2273
+    commentsToLikes: 0.050997
+    id: cka6pqxhxkmmw0i78w4eiu4f7
     verified: false
-    hashtags: "#legkick, #savage, #technique, #insideallday"
-  - username: "shaneredhat"
+    hashtags: "#davidgilmour, #ledzeppelin, #nickmason, #pinkfloyd"
+  - username: "chefethanb"
     fullname: >-
-      ShaneRedHat
+      Ethan
+    bio: >-
+      not actually a chef
     location: "United States"
-    followers: 2315
-    engagement: 925
-    commentsToLikes: 0.053958
-    id: ckai6q6mjx6a00i78v8ukyvkx
+    followers: 197800
+    engagement: 1726
+    commentsToLikes: 0.034397
+    id: ck81s3d1opp000j783figu5y2
     verified: false
-    hashtags: "#dinner, #television, #gameshow, #steak"
-  - username: "manikandanpalaniyappan"
+    hashtags: "#halloweencandy, #truff, #foodlover, #comidamexicana"
+  - username: "abdulahad.ck"
     fullname: >-
-      Mani
+      Abdul Ahad Ck
+    bio: >-
+      7⃣3⃣❤0⃣6⃣4⃣7⃣3⃣3⃣❤2⃣8⃣ chef ❤ #mytdreams #realhunters
     location: "United States"
-    followers: 203383
-    engagement: 564
-    commentsToLikes: 0.080515
-    id: ck80oad4pgbgu0j78zn9rbrlm
+    followers: 128700
+    engagement: 4120
+    commentsToLikes: 0.179233
+    id: ckbkpywsek7br0j23k4ez4lr5
     verified: false
-    hashtags: "#chef, #rajinikanth, #healthheroes, #vadivel"
+    hashtags: "#kattasupport, #love, #1m, #chef"
+  - username: "chefcvyn"
+    fullname: >-
+      Chef C’Vyn
+    bio: >-
+      PERSONAL CHEF (Spiritualist, Herbalist & Buddhist) Rebuild Black Wall Street
+    location: "United States"
+    followers: 12800
+    engagement: 6580
+    commentsToLikes: 0.058435
+    id: ckc7qzxhfwcjl0j23vq4akgtg
+    verified: false
+    hashtags: "#chicago, #duet, #fyp, #greenscreen"
+  - username: "onegreatvegan"
+    fullname: >-
+      onegreatvegan
+    bio: >-
+      Actress, Singer, and Chef + Daily Positivity Musical Cooking Show Host
+    location: "United States"
+    followers: 138600
+    engagement: 1630
+    commentsToLikes: 0.032037
+    id: ck9evvjwgk8j10j78zypngbzm
+    verified: false
+    hashtags: "#plantbased, #tiktokcooks, #chef, #pumpkinspice"
+  - username: "jkauffs"
+    fullname: >-
+      Jkauffs 
+    bio: >-
+      Pastry Chef. Adventurer. Dork.
+    location: "United States"
+    followers: 21300
+    engagement: 981
+    commentsToLikes: 0.174981
+    id: ckbl0w1wwxrjm0j2301dj6yi9
+    verified: false
+    hashtags: "#geocachingpennsylvania, #geocachingnewjersey, #geocachingnewyork, #geocaching"
+  - username: "zeekabi"
+    fullname: >-
+      zeekabi
+    bio: >-
+      Photographer on instagram, chef on tiktok 🇮🇶 Zainab Rikabi
+    location: "United States"
+    followers: 3182
+    engagement: 860
+    commentsToLikes: 0.096674
+    id: ckbqpil5habgg0j23fpwf0nhr
+    verified: false
+    hashtags: "#motivationmonday, #photoshoot, #foodie, #foryoupage"
 ---

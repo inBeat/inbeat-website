@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Bangladesh In 2020
 description: >-
-  Find top TikTok influencers in Bangladesh in 2020. Most popular hashtags: # #duet #covid19 #comedy.
+  Find top TikTok influencers in Bangladesh in 2020. Most popular hashtags: #duet #foryou #foryoupage.
 platform: TikTok
+hits: 283
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 283 TikTok influencers like this in Bangladesh for you to collaborate.
 profiles:
-  - username: "tahmina1234"
+  - username: "redangel777"
     fullname: >-
-      🤲_تهمینة_👆
+      ♥️red angel ♥️
+    bio: >-
+      আমি অতি সাধারণ মানুষ.🙎সব সময় হাসি খুশি থাকতে ভালবাসি ❤❤❤
     location: "Bangladesh"
-    followers: 106691
-    engagement: 3142
-    commentsToLikes: 0.068015
-    id: ck8qnjaaaur060j78pndxbahl
+    followers: 6517
+    engagement: 9202
+    commentsToLikes: 0.408265
+    id: ckb1bk89u06r30j23aatyncj4
     verified: false
-    hashtags: "#tahmina, #duet"
-  - username: "km.shila001"
+    hashtags: "#fyp, #banglasong, #romanticsong, #duet"
+  - username: "mdnejam698"
     fullname: >-
-      Kamrunnahar Shila
+      mnejam698
+    bio: >-
+      আমার জীবনে তোমার ভালোবাসা খুবই দরকার ❤❤❤❤
     location: "Bangladesh"
-    followers: 20373
-    engagement: 3092
-    commentsToLikes: 0.159793
-    id: ck9f1rbu09j2k0j78iklhv9de
+    followers: 2382
+    engagement: 8572
+    commentsToLikes: 0.128151
+    id: ckdtlnwiizyg60j23itd7gi50
     verified: false
-    hashtags: "#rihanna, #lockdowneffect, #globalhits, #kapilsharma"
-  - username: "ronysarker007"
+    hashtags: "#diyemoji, #duet"
+  - username: "angeldoll1992"
     fullname: >-
-      RoNy Sarker
+      Angel Doll
+    bio: >-
+      Assalamualaykum allllll,,, I love Allah, I love mom, wish me on February 12🎈🎉
     location: "Bangladesh"
-    followers: 14550
-    engagement: 2693
-    commentsToLikes: 0.094244
-    id: ck9shakh7sb8w0j78hrcpc5kf
+    followers: 5558
+    engagement: 7624
+    commentsToLikes: 0.425094
+    id: ckd1a4f9ks2120j23ok67fj42
     verified: false
-    hashtags: "#mama, #tiktokcouple, #bdcycling, #dearex"
-  - username: "rjhridoyhassan12"
+    hashtags: "#thembd, #bdmusre, #team, #foryorpage"
+  - username: "user512760321nasima"
     fullname: >-
-      🌱rjhridoyhassan12🌱
+      MOLY
+    bio: >-
+      I love my daughter 👧👧 From Bangladesh 🇧🇩 Muslim♥️ 🤲🤲🕋🕋🙏🙏
     location: "Bangladesh"
-    followers: 264843
-    engagement: 2551
-    commentsToLikes: 0.027745
-    id: ck8qfqd4fxxck0j78ebxg8w0k
-    verified: false
-    hashtags: ""
-  - username: "nusratmahmud6"
-    fullname: >-
-      Nusrat Mahmud
-    location: "Bangladesh"
-    followers: 6448
-    engagement: 2451
-    commentsToLikes: 0.071150
-    id: ck9f1rfxj9jx60j78smnuvehy
-    verified: false
-    hashtags: "#badshahsong, #loccaloccalocca, #selfiesong, #chale"
-  - username: "tanjummim"
-    fullname: >-
-      Tanjum Mim
-    location: "Bangladesh"
-    followers: 6986
-    engagement: 2182
-    commentsToLikes: 0.099789
-    id: ck9e11fcg8o060j78mk6p7p05
-    verified: false
-    hashtags: "#bolper, #moon, #noboborsho, #only"
-  - username: "magla_mirza1"
-    fullname: >-
-      ☔️🦋Magla🦋Mirza🦋☔️
-    location: "Bangladesh"
-    followers: 17977
-    engagement: 2107
-    commentsToLikes: 0.059707
-    id: ckadah3q3i9on0i780rwciu7u
+    followers: 15900
+    engagement: 7470
+    commentsToLikes: 0.354730
+    id: ckd17biohoj0j0j23f0lsqrxo
     verified: false
     hashtags: ""
-  - username: "sabbir708"
+  - username: "user3878663101389"
     fullname: >-
-      অচেনা মানুষ73
+      @নুসরাত জাহান নুপুর#
+    bio: >-
+      
     location: "Bangladesh"
-    followers: 28681
-    engagement: 2046
-    commentsToLikes: 0.106184
-    id: cka9lk8xs2k890i7839dxsm09
+    followers: 6695
+    engagement: 7342
+    commentsToLikes: 0.188253
+    id: ckdtlbj4lzdh60j23xccph3wp
     verified: false
-    hashtags: "#please, #mita, #llove, #like"
-  - username: "tomaporshi"
+    hashtags: "#duet"
+  - username: "pervinaktherliza"
     fullname: >-
-      TomaPorshi
+      Pervin Akther Liza
+    bio: >-
+      
     location: "Bangladesh"
-    followers: 2132
-    engagement: 1977
-    commentsToLikes: 0.075667
-    id: ck9ewdn3smc8v0j785pugiue8
+    followers: 8461
+    engagement: 7125
+    commentsToLikes: 0.197535
+    id: ckdtjtub6x81w0j2371uk7hxf
     verified: false
-    hashtags: "#comedy, #foryou, #duet"
-  - username: "___sarna___"
+    hashtags: "#foryou, #papaijarin, #duet, #foryoupage"
+  - username: "shahin8811"
     fullname: >-
-      adhora sarna
+      Shahin Shihab
+    bio: >-
+      FB---Shihab Shahin ফেমাস😄 হতে 😘চাই 😀সবাই 😇লাইক 😋কমেন্ট 😎সারা 🤔চাই
     location: "Bangladesh"
-    followers: 31116
-    engagement: 1946
-    commentsToLikes: 0.122248
-    id: ckan5e0vcelvv0i78bfowtx1c
+    followers: 7083
+    engagement: 7003
+    commentsToLikes: 0.071547
+    id: ckcvhear6u3wd0j23hqrcoqzd
     verified: false
-    hashtags: "#ownvoice, #flower, #quarantine"
+    hashtags: ""
+  - username: "mmunniakter"
+    fullname: >-
+      mmunniakter
+    bio: >-
+      
+    location: "Bangladesh"
+    followers: 12500
+    engagement: 6846
+    commentsToLikes: 0.174505
+    id: ckd185bmrplqt0j231ik322qx
+    verified: false
+    hashtags: "#duet, #foryou, #novel, #islamic"
+  - username: "bithitarehman"
+    fullname: >-
+      🌸Tuktuki🌸
+    bio: >-
+      I AM THE GIRL OF YOUR .... DREAMLAND... Instagram id - @BithitaRehman
+    location: "Bangladesh"
+    followers: 3680
+    engagement: 5996
+    commentsToLikes: 0.186704
+    id: ckd18d92pptb80j23i41hoy8m
+    verified: false
+    hashtags: "#prettygirl, #duet, #duetwithme, #bd"
+  - username: "moni2685"
+    fullname: >-
+      muktabidwash
+    bio: >-
+      
+    location: "Bangladesh"
+    followers: 18800
+    engagement: 5276
+    commentsToLikes: 0.190476
+    id: ckdtk8myexvnb0j237hixhwac
+    verified: false
+    hashtags: ""
 ---

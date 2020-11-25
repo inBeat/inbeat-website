@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Finland In 2020
 description: >-
-  Find top cooking Instagram influencers in Finland in 2020. Most popular hashtags: #cookingathome #love #cooking #home.
+  Find top cooking Instagram influencers in Finland in 2020. Most popular hashtags: #finland #food #cooking #autumn.
 platform: Instagram
+hits: 30
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 30 Instagram influencers like this in Finland for you to contact.
 profiles:
-  - username: "lilinissila"
+  - username: "heidisohlberg"
     fullname: >-
-      Lili Nissilä
+      Heidi Sohlberg
+    bio: >-
+      ☀️mom | ceo | sport | cooking | baking | lifestyle 📍Espoo / Hki 💻 heidi@h-inthehouse.com
     location: "Finland"
-    followers: 2459
-    engagement: 1431
-    commentsToLikes: 0.029256
-    id: ck55pt3xybbkb0i11mj5rwig4
+    followers: 40337
+    engagement: 597
+    commentsToLikes: 0.015873
+    id: ck6toywbfgvme0j71vqwq4hvf
     verified: false
-    hashtags: ""
-  - username: "terveisetravintoketjunhuipulta"
-    fullname: >-
-      Terveisetravintoketjunhuipulta
-    location: "Finland"
-    followers: 9484
-    engagement: 826
-    commentsToLikes: 0.075563
-    id: ck5hq37ytsf600i11r7mme8av
-    verified: false
-    hashtags: "#ajojahti, #munuaiset, #fasaanijahti, #tikkat3xupr"
+    hashtags: "#visitlevi, #love, #teamwiskari, #vitosluokkalainen"
   - username: "vhi_photography"
     fullname: >-
       Vesa Hirsmäki
+    bio: >-
+      🇫🇮 Finland | Lohja 💎Nature | Travelling | Cooking 💎Philately @vhi_philately ❤ IG husband @instyle.by.anne 📷 Olympus OM-DE-M10
     location: "Finland"
-    followers: 7795
-    engagement: 1094
-    commentsToLikes: 0.011520
+    followers: 9006
+    engagement: 691
+    commentsToLikes: 0.009676
     id: ckapcj91e41d70i78xlit100q
     verified: false
-    hashtags: "#foodie, #lojomuseum, #roses, #sundayvibes"
-  - username: "siljain"
+    hashtags: "#plantarchitecture, #finnisharchitecture, #photography, #food"
+  - username: "kaulasam"
     fullname: >-
-      silja • lifestyle • motherhood
+      Sampo Kaulanen ❄️🇫🇮
+    bio: >-
+      Dad, husband and entrepreneur 💕 From finnish Lapland❄️ Winner of the Survivor Finland Celebrity edition 2017⚡️ Cooking stories🍖
     location: "Finland"
-    followers: 2851
-    engagement: 1074
-    commentsToLikes: 0.232618
-    id: ck5zvzknk575a0i14x2u5p5nu
-    verified: false
-    hashtags: "#stylish, #tuekotimaista, #lastenvaatteet, #koti"
-  - username: "kira_kosonen"
+    followers: 40545
+    engagement: 365
+    commentsToLikes: 0.011784
+    id: ckap3qf3543zg0i78e7qwvmmp
+    verified: true
+    hashtags: "#wife, #jarnoalastalo, #burger, #pablo"
+  - username: "vladislava_661"
     fullname: >-
-      Kira Kosonen
+      Vladislava Shelygina
+    bio: >-
+      19 year old, redhead student🔥 Second account - @vladisa661 More of my content👇
     location: "Finland"
-    followers: 27710
-    engagement: 364
-    commentsToLikes: 0.020602
-    id: ck136e8i7623p0i19uf4jpy4u
+    followers: 1317527
+    engagement: 1003
+    commentsToLikes: 0.011642
+    id: ck8tbw9e3xe6s0j78bjd66lb8
     verified: false
-    hashtags: "#bedroom, #health, #juice, #datenight"
-  - username: "natasalmela"
+    hashtags: "#shape, #ruiva, #redhead, #ginger"
+  - username: "actsoininen"
     fullname: >-
-      Natalia Salmela
+      ACT THANA SOININEN 🖤🇹🇭
+    bio: >-
+      Beauty & Lifestyle Espoo, Finland 🇫🇮🤍☃️ Collab: Email or DM
     location: "Finland"
-    followers: 30282
-    engagement: 319
-    commentsToLikes: 0.013286
-    id: ck1373fzv9ks90i19ed3x78ca
+    followers: 24765
+    engagement: 312
+    commentsToLikes: 0.036715
+    id: ck55oxgc79bxd0i11adu8c7o2
     verified: false
-    hashtags: "#itsetunto, #armorlux, #4dultra, #vege"
-  - username: "tobegourmet"
+    hashtags: "#visitfinland, #dinner, #marriedlife, #summertofall"
+  - username: "travelsbyhenna"
     fullname: >-
-      Beatriz Rodríguez ▪️Fotografía
+      Henna Pihlaja
+    bio: >-
+      🌊Life with big passion🔥Helsinki🇫🇮Traveling🌎travel tips🌴hotels🏛food🍣races🏁F1🏎 @ah.fitness.wear @hennajanita -15% with code: HENNA_FREDDY15
     location: "Finland"
-    followers: 20612
-    engagement: 320
-    commentsToLikes: 0.338355
-    id: ck14ho58pbb0c0i1975dic2tc
+    followers: 15796
+    engagement: 451
+    commentsToLikes: 0.003577
+    id: ckaozwfdnnpgi0i787e64gqnh
     verified: false
-    hashtags: "#estamosencasajuntos, #peoplecreatives, #foodfluffer, #whatmakesmehappy"
-  - username: "creaturesofhki"
+    hashtags: "#traveltips, #finland, #travelblog, #f1gp"
+  - username: "johanna.tahtinen"
     fullname: >-
-      Food Doodles 👀
+      JOHANNA | Wellnessmalli ✨
+    bio: >-
+      🕊Vauhdikasta uramaman arkea ja herkkureseptejä. 💆🏻‍♀️ Kosmetologi @salonkihenrietta 🥉@wellnessmalli.fi 2020 ✨-35 kg Weightloss
     location: "Finland"
-    followers: 2557
-    engagement: 1797
-    commentsToLikes: 0.088337
-    id: ck5hkfedmibr90i11sv3nt0kx
+    followers: 14178
+    engagement: 754
+    commentsToLikes: 0.033347
+    id: ck6uhi6h2999y0j711cdidlro
     verified: false
-    hashtags: "#kisskiss, #backtoreality, #love, #pineapple"
+    hashtags: "#scandinavianhome, #wellnessmallifi, #interiordesign, #wellnessmalli2020"
   - username: "team2moms"
     fullname: >-
       Team2Moms
+    bio: >-
+      @team2moms_denise & @itsmsolivia Moms👧🏽👶🏻👶🏻🇧🇿🇵🇷 LGBTQ+ Advocates.🏳️‍🌈 New York 1 Million on Tik Tok 👇🏾👇🏾👇🏾👇🏾👇🏾
     location: "Finland"
     followers: 108796
     engagement: 684
     commentsToLikes: 0.012615
     id: ck5ztpp4o0wam0i14vf5ywyo3
     verified: true
-    hashtags: "#wegotthis, #partnership, #proud, #tiktok"
-  - username: "gandimoenthe"
+    hashtags: "#team2moms, #lgbt, #marriedlife, #momlife"
+  - username: "ensiferummetal"
     fullname: >-
-      Gandi Moenthe
+      Ensiferum
+    bio: >-
+      Official Instagram for Ensiferum: Folk metal from Helsinki, Finland. Pre-order our new album #Thalassic:
     location: "Finland"
-    followers: 6811
-    engagement: 604
-    commentsToLikes: 0.033352
-    id: ck5hqbzv7sut00i110sfgmigo
+    followers: 77352
+    engagement: 307
+    commentsToLikes: 0.015811
+    id: ck15qr80s49gs0i191h0ogw7g
+    verified: true
+    hashtags: "#pearl, #ibanez, #darkglasselectronics, #continentalconcerts"
+  - username: "berndkestler"
+    fullname: >-
+      Bernd Kestler
+    bio: >-
+      German knittertainer, dyer, innovator in Japan. ドイツから来た編み物クリエイターです。 編み物教室: 横浜、東京、名古屋にあります。 FBのグループ「編み物大好き❣️」にも参加して下さい。
+    location: "Finland"
+    followers: 7031
+    engagement: 948
+    commentsToLikes: 0.009482
+    id: ck5c60umb4hxi0i115qxaympx
     verified: false
-    hashtags: "#jumatagung, #pujianpenyembahan, #lifeinanutshell, #karo"
+    hashtags: "#luxury, #pleats, #zoom, #menwhoknit"
 ---

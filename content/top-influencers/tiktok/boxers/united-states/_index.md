@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers TikTok Influencers In United States In 2020
 description: >-
-  Find top boxers TikTok influencers in United States in 2020. Most popular hashtags: #retailtherapy #boxing #funnyvideos #foyou.
+  Find top boxers TikTok influencers in United States in 2020. Most popular hashtags: #fyp #foryou #duet #doitbold.
 platform: TikTok
+hits: 233
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 233 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "willowthebeautifulcat"
     fullname: >-
       Willow
+    bio: >-
+      A Florida girl with a fuzzy ❤ shaped nose. I ❤ flowers & my Boxer dog sister.
     location: "United States"
-    followers: 248612
-    engagement: 3147
-    commentsToLikes: 0.051379
+    followers: 252200
+    engagement: 3005
+    commentsToLikes: 0.059401
     id: ck81s1ikspbwb0j78zwuocgec
     verified: false
-    hashtags: "#magnolia, #cutecat, #waitforit, #quarantinecat"
+    hashtags: "#ilovecats, #weirdcat, #socute, #catsruletheworld"
   - username: "theservicemutts"
     fullname: >-
       Ella + Maddie
+    bio: >-
+      Ella | she/her Maddie | boxer mix + medical alert K9 @servicek9collab✨ ⬇️MERCH⬇️
     location: "United States"
-    followers: 300767
-    engagement: 2531
-    commentsToLikes: 0.030619
+    followers: 291400
+    engagement: 2265
+    commentsToLikes: 0.039636
     id: ck8z4891jcqpd0j78nr4ok8ij
     verified: false
-    hashtags: "#itsaremix, #bedroomcheck, #venmo, #scoobdance"
+    hashtags: "#foryou, #dog, #servicedog, #servicedogs"
+  - username: "famouzcj"
+    fullname: >-
+      C.j🤍🦋
+    bio: >-
+      Cj 20❤️ boxer at keppner’s boxing🥊 I don’t post fights cuz TikTok delete vids
+    location: "United States"
+    followers: 162700
+    engagement: 3560
+    commentsToLikes: 0.310155
+    id: ckcdnm649atp40j23lgn19u46
+    verified: false
+    hashtags: "#foryou, #fyp, #foryoupage, #whatspoppin"
+  - username: "realbabygee569"
+    fullname: >-
+      Babygee
+    bio: >-
+      Sc:Babygee569 Boxer🥊💫 Michigan 60k? 19🌚
+    location: "United States"
+    followers: 64900
+    engagement: 2263
+    commentsToLikes: 0.059056
+    id: ckbaot2iffh2y0j239x0ysy4q
+    verified: false
+    hashtags: "#xyzbca, #duet, #stitch, #fyp"
+  - username: "imbackyerrr"
+    fullname: >-
+      Cucuy0f1cial
+    bio: >-
+      About a few months away from this app and I’m back IL📍 Boxer 🥊 Mexican🇲🇽
+    location: "United States"
+    followers: 6276
+    engagement: 1767
+    commentsToLikes: 0.066193
+    id: ckbw4p0d2xnc10j234qewkrcu
+    verified: false
+    hashtags: "#juliocesarchavez, #fyp, #mexico, #boxing"
   - username: "mr.spyda"
     fullname: >-
       Mr Keys
+    bio: >-
+      TV Personality | Pro Boxer/MMA Fighter | Marvel Stuntman The Real Spider Man
     location: "United States"
-    followers: 3603
-    engagement: 1534
-    commentsToLikes: 0.055046
+    followers: 3653
+    engagement: 1448
+    commentsToLikes: 0.048171
     id: ck8hqbh773cd70j78zm0g5p5t
     verified: false
-    hashtags: "#marveluniverselivestuntman, #panamanianvision, #normalisboring, #rollthatbeautifulbeanfootage"
-  - username: "nanawilliams92"
-    fullname: >-
-      Nana Williams
-    location: "United States"
-    followers: 2955
-    engagement: 1499
-    commentsToLikes: 0.053739
-    id: ckan5l04bfjh90i78k8xixglk
-    verified: false
-    hashtags: "#notfyp, #retailtherapy, #corona, #spacethings"
-  - username: "iammarcohall"
-    fullname: >-
-      Marco Hall
-    location: "United States"
-    followers: 265728
-    engagement: 1677
-    commentsToLikes: 0.015600
-    id: ck9323l6khqow0j78m58icogv
-    verified: false
-    hashtags: "#homeproject, #wifevshusband, #foyou, #beatbox"
+    hashtags: "#duet, #foryoupage, #fyp, #beanfetish"
   - username: "pat0uwu"
     fullname: >-
       Ricky Gomez
+    bio: >-
+      Jalisco 🇲🇽/ LA 🇺🇸 Boxer 🥊 Nada de aqui es serio todo es mame :b
     location: "United States"
-    followers: 2523
-    engagement: 662
-    commentsToLikes: 0.042587
+    followers: 3687
+    engagement: 718
+    commentsToLikes: 0.101998
     id: cka66lkibhff50i78xctt6fjz
     verified: false
-    hashtags: "#chistoso, #memesenespa, #gym, #jajaja"
-  - username: "vincentmarcus"
+    hashtags: "#memesmexicanos, #gracioso, #divertido, #gulag"
+  - username: "thelifeofhercandmag"
     fullname: >-
-      VincentMarcus
+      Hercules & Magnus 
+    bio: >-
+      Big bro: Hercules the Pittie mastiff mix. Little bro: Magnus the boxer hound mix
     location: "United States"
-    followers: 1002022
-    engagement: 1333
-    commentsToLikes: 0.008333
-    id: ck8rrjaarupya0j78t7tbdogv
-    verified: true
-    hashtags: "#toosieslidechallenge, #impressions, #prank, #christmas"
-  - username: "officialjasenanderson"
-    fullname: >-
-      Jasen Anderson
-    location: "United States"
-    followers: 28811
-    engagement: 1012
-    commentsToLikes: 0.042451
-    id: ckad82kse72qd0i78nenef9si
+    followers: 78300
+    engagement: 2342
+    commentsToLikes: 0.008849
+    id: ckb9pnyznks980j23u9k816qo
     verified: false
-    hashtags: "#energy, #ticktok, #hispanic, #michaeljackson"
-  - username: "georgetheboxr"
+    hashtags: "#pitbull, #petsoftiktok, #fyp, #ghostmode"
+  - username: "j.wavy2k"
     fullname: >-
-      George the BoxR
+      Jessie guerrero
+    bio: >-
+      California ☀️ BayArea ✨ 🤎🇲🇽 16 Professional boxer 1-0🥊👍🏽
     location: "United States"
-    followers: 71298
-    engagement: 1828
-    commentsToLikes: 0.011771
-    id: ck9sl4hxqc07r0j78h79ijte2
+    followers: 60700
+    engagement: 2441
+    commentsToLikes: 0.019783
+    id: ckbkipphnb9450j23637yrsiw
     verified: false
-    hashtags: "#finalsathome, #love, #teacher, #dogsoftiktok"
-  - username: "champ_pablo"
+    hashtags: "#greenscreenvideo, #vegastiktok, #fyp, #greenscreen"
+  - username: "prophetmuscle"
     fullname: >-
-      Jose Rodriguez
+      Help Prophet Muscle
+    bio: >-
+      MMA Fighter/Boxer. I'll continue the legacy of my father Roger Mayweather
     location: "United States"
-    followers: 8682
-    engagement: 950
-    commentsToLikes: 0.014135
-    id: ck9f7u4yyzvxp0j78zmpvy7u2
+    followers: 151800
+    engagement: 1089
+    commentsToLikes: 0.014756
+    id: cka0pa5tw7ena0i780ous8uur
     verified: false
-    hashtags: "#boxers, #dangerous, #adventuretrail, #suburban"
+    hashtags: "#prank, #lebronjames, #foryou, #mma"
 ---

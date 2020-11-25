@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Switzerland in 2020. Most popular hashtags: #throwback #stayhome #sunset #weekendvibes.
+  Find top lifestyle Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #aesthetic #zurich.
 platform: Instagram
+hits: 233
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 233 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "deliastefanii"
+  - username: "iamclaudiadias"
     fullname: >-
-      DELIA STEFANI
+      𝘾𝙇𝘼𝙐𝘿𝙄𝘼 𝘿𝙄𝘼𝙎
+    bio: >-
+      Fashion, Beauty & Lifestyle ✉️iamclaudiadias@gmail.com 📍Current location: Lausanne🇨🇭
     location: "Switzerland"
-    followers: 2390
-    engagement: 3971
-    commentsToLikes: 0.122752
-    id: ckap3amn528zq0i78t7igsxdt
+    followers: 12900
+    engagement: 1379
+    commentsToLikes: 0.116422
+    id: ck6tyrotj5gm20j71vxml8uxh
     verified: false
-    hashtags: ""
-  - username: "dominiquesallaum"
+    hashtags: "#passatempo, #experiencia, #gourmet, #airjordan"
+  - username: "sausau__"
     fullname: >-
-      Dominique Scarlett Sallaum
+      Sausau
+    bio: >-
+      Lifestyle, travel 🇫🇷 Evian, Genève Tiktok : sauvanecarpentier 💌 Partnership
     location: "Switzerland"
-    followers: 21261
-    engagement: 733
-    commentsToLikes: 0.113248
-    id: ck8t1syxbwwl80j78601m2jik
+    followers: 27753
+    engagement: 935
+    commentsToLikes: 0.187463
+    id: ck5zkxelukcal0i14arveg083
     verified: false
-    hashtags: "#stayhome, #sisterhood, #bekaa, #myboy"
-  - username: "manuelkrasniqi"
+    hashtags: "#jeuconcours, #collaboration, #flowers, #pinterest"
+  - username: "hildawestin"
     fullname: >-
-      MANUEL KRASNIQI
+      HILDA
+    bio: >-
+      TRAVEL | LIFESTYLE | FASHION 🇸🇪 → 🇺🇸→📍🇨🇭 15% OFF @mightysolo WITH MY CODE “HILDAWESTIN15”
     location: "Switzerland"
-    followers: 7948
-    engagement: 1524
-    commentsToLikes: 0.053225
-    id: ck8wghgayhdez0j78bt0kofkr
+    followers: 3324
+    engagement: 2568
+    commentsToLikes: 0.090170
+    id: ckf5tdn15hjvk0j23ufl1q9z3
     verified: false
-    hashtags: "#fitnessmode, #styledayfriday, #adidas, #mensoutfit"
-  - username: "di_aaanaa"
-    fullname: >-
-      D.M. ✨ Sankt Gallen 🔁 Belgrade
-    location: "Switzerland"
-    followers: 17005
-    engagement: 660
-    commentsToLikes: 0.199051
-    id: ck8szi6dzojfh0j78tksrkwv9
-    verified: false
-    hashtags: "#22weeks, #yummyday, #happyester, #takecareofyou"
-  - username: "amelia.averescu"
-    fullname: >-
-      𝑨𝑴𝑬𝑳𝑰𝑨 𝑨𝑽𝑬𝑹𝑬𝑺𝑪𝑼
-    location: "Switzerland"
-    followers: 49499
-    engagement: 448
-    commentsToLikes: 0.059092
-    id: ck5bxe0fhnjj30i114pg1omyq
-    verified: false
-    hashtags: "#instagood, #goldenhour, #schwarzweiss, #earth"
-  - username: "yoli24fit"
-    fullname: >-
-      Wellness*Coach* Lifestyle
-    location: "Switzerland"
-    followers: 15639
-    engagement: 637
-    commentsToLikes: 0.077781
-    id: ck6u6liw5gara0j71z3m19fkb
-    verified: false
-    hashtags: "#workoutdone, #danke, #miercoles, #adesayunar"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    location: "Switzerland"
-    followers: 29668
-    engagement: 406
-    commentsToLikes: 0.101853
-    id: ck6u3kk6tybjm0j71mr7mpp06
-    verified: false
-    hashtags: "#radicalskincare, #marrakech, #throwback, #ad"
+    hashtags: "#idealofsweden, #nakdfashion, #idealminibag, #bijouxcateringonground"
   - username: "danielkaay_"
     fullname: >-
       DΛNIEL KΛΛY
+    bio: >-
+      👔 Fashion & Lifestyle 🇨🇭 Sᴡɪᴛᴢᴇʀʟᴀɴᴅ 📩 contact@danielkaay.ch
     location: "Switzerland"
-    followers: 4050
-    engagement: 1658
-    commentsToLikes: 0.197576
+    followers: 9351
+    engagement: 923
+    commentsToLikes: 0.341338
     id: ck5cahyisdg1v0i11a8gf1jjx
     verified: false
-    hashtags: "#mensbeauty, #grooming, #mensskincare, #truewireless"
-  - username: "iamclaudiadias"
+    hashtags: "#fashionmen, #zurich, #dapperday, #gentlemanstyle"
+  - username: "ivy.kimbour"
     fullname: >-
-      𝒞𝓁𝒶𝓊𝒹𝒾𝒶 𝒟𝒾𝒶𝓈
+      Caroline Bourquin
+    bio: >-
+      🥥 Amoureuse de la vie (🛩🍷🧘🏽) 🧖🏽‍♀️ Skincare junkie & lifestyle ➰ Swiss 🤍 1/3 ceo of @bossbabesevents ✉️ Collab/Pr: caroline.bourquin@gmail.com
     location: "Switzerland"
-    followers: 12516
-    engagement: 1125
-    commentsToLikes: 0.062534
-    id: ck6tyrotj5gm20j71vxml8uxh
+    followers: 13313
+    engagement: 829
+    commentsToLikes: 0.288788
+    id: ck5c0oygrtk6p0i11ajukastd
     verified: false
-    hashtags: "#makeupchallenge, #dontrushchallenge, #girlpower, #passatempo"
-  - username: "michaela_berezantev"
+    hashtags: "#swissblogger, #emilyinparis, #aesthetic, #blogger"
+  - username: "massixda"
     fullname: >-
-      MIMI 🇨🇭
+      Massimo
+    bio: >-
+      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
     location: "Switzerland"
-    followers: 25121
-    engagement: 384
-    commentsToLikes: 0.080183
-    id: ck55oz5039g040i11ho4hjqg2
+    followers: 30809
+    engagement: 390
+    commentsToLikes: 0.097360
+    id: ck6u3kk6tybjm0j71mr7mpp06
     verified: false
-    hashtags: "#mybestsecret, #familytime, #stracciatella, #movenpicksensations"
+    hashtags: "#ad, #huaweifreebudspro, #sonicescapes, #radicalskincare"
+  - username: "laure_jones"
+    fullname: >-
+      ✨Laure Jones✨
+    bio: >-
+      Fashion /lifestyle /voyage
+    location: "Switzerland"
+    followers: 43540
+    engagement: 298
+    commentsToLikes: 0.091772
+    id: ck14hr082boys0i19za2pcp9q
+    verified: false
+    hashtags: ""
+  - username: "friedahodel"
+    fullname: >-
+      F R I E D A   H O D E L
+    bio: >-
+      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹TV • Influencer
+    location: "Switzerland"
+    followers: 35906
+    engagement: 293
+    commentsToLikes: 0.059642
+    id: ckap0qb07rejq0i78ud5qp3yk
+    verified: true
+    hashtags: "#matterhorn, #swissalps, #travelgram, #travelblogger"
+  - username: "manuelkrasniqi"
+    fullname: >-
+      MANUEL KRASNIQI
+    bio: >-
+      Fashion, Fitness & Lifestyle Team @noccoswitzerland TikTok: manuelkrasniqi_
+    location: "Switzerland"
+    followers: 9580
+    engagement: 1049
+    commentsToLikes: 0.059371
+    id: ck8wghgayhdez0j78bt0kofkr
+    verified: false
+    hashtags: "#menshair, #nocco, #sixpack, #summer"
+  - username: "fit_life_physics"
+    fullname: >-
+      Basti | CERN Science & Fitness
+    bio: >-
+      Fitness Lifestyle & Science Motivation ⁣📍Scientist @CERN, Switzerland 🔜 PhD in High Energy Physics 💪🏼 Gym | Fitness | Triathlon 🏊‍♂️🚴🏃🏼
+    location: "Switzerland"
+    followers: 26340
+    engagement: 750
+    commentsToLikes: 0.041531
+    id: ckaotarayv2wm0i78fbzc4c0k
+    verified: false
+    hashtags: "#running, #icaniwill, #throwback, #frodissimofriday"
 ---

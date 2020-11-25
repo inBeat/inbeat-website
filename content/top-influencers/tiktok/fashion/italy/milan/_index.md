@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Milan In 2020
 description: >-
-  Find top fashion TikTok influencers in Milan in 2020. Most popular hashtags: #coronavirus #viral #milan #model.
+  Find top fashion TikTok influencers in Milan in 2020. Most popular hashtags: #perte #fashion #milano #foryou.
 platform: TikTok
+hits: 25
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 25 TikTok influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "davinzgarcia"
-    fullname: >-
-      davinzgarcia
-    location: "Italy"
-    followers: 4188
-    engagement: 511
-    commentsToLikes: 0.031434
-    id: cka0t7id5omma0i78d75oryiv
-    verified: false
-    hashtags: "#pinoy, #trend, #coronavirus, #weekend"
-  - username: "ludovicarossetti"
-    fullname: >-
-      𝓛𝓾𝓭𝓸𝓿𝓲𝓬𝓪
-    location: "Italy"
-    followers: 13973
-    engagement: 1668
-    commentsToLikes: 0.072169
-    id: cka6e7ploarbc0i782d45dx26
-    verified: false
-    hashtags: "#disco, #serietv, #casadicarta, #strangerthings"
-  - username: "timeless.production"
-    fullname: >-
-      Timeless Production
-    location: "Italy"
-    followers: 15269
-    engagement: 1080
-    commentsToLikes: 0.006587
-    id: ck901ycj8bynv0j78j9xgxkkr
-    verified: false
-    hashtags: "#ciak, #compleanno, #scarperosse, #mirror"
   - username: "dj_eva_fiesta"
     fullname: >-
       Dj_eva_fiesta
+    bio: >-
+      DJ from Milan🖤 Fun, Trend, Fashion
     location: "Italy"
-    followers: 3148
-    engagement: 316
-    commentsToLikes: 0.051280
+    followers: 3671
+    engagement: 467
+    commentsToLikes: 0.068693
     id: ck9du4xezeyo80j7845ilgxyo
     verified: false
-    hashtags: "#italianfood, #crazy, #dancechallenge, #senorit"
-  - username: "nssmagazine"
+    hashtags: "#fashiongoals, #djevafiesta, #savege, #djane"
+  - username: "alletattoo75"
     fullname: >-
-      nss magazine
+      Alletattoo
+    bio: >-
+      Tatuatore dei vip👍 14 Guinness World Records👍 Follow TWITCH,INSTAGRAM,YOUTUBE
     location: "Italy"
-    followers: 35681
-    engagement: 617
-    commentsToLikes: 0.011447
-    id: ck9eq9cwyw7e50j78px66yb8y
-    verified: true
-    hashtags: "#video, #machete, #quarantena, #calcio"
-  - username: "jonnycloud_"
-    fullname: >-
-      Jonny!!... 👁‍🗨
-    location: "Italy"
-    followers: 7285
-    engagement: 1574
-    commentsToLikes: 0.019652
-    id: ck9a7biiv6wf10j785ommc6e9
+    followers: 98800
+    engagement: 1002
+    commentsToLikes: 0.013387
+    id: ck9a7bkjc6ww10j787knwjh0d
     verified: false
-    hashtags: "#star, #dancer, #cosplayers, #boys"
-  - username: "varyaren"
-    fullname: >-
-      Alexia Varyaren
-    location: "Italy"
-    followers: 10604
-    engagement: 1173
-    commentsToLikes: 0.021806
-    id: cka6bswc91kwu0i7863fhkaav
-    verified: false
-    hashtags: "#anni80, #brookecandy, #joji, #summertime"
-  - username: "lilianacastriotta"
-    fullname: >-
-      lilianacastriotta
-    location: "Italy"
-    followers: 2638
-    engagement: 959
-    commentsToLikes: 0.054991
-    id: cka0p2ik76i9f0i78d30izds0
-    verified: false
-    hashtags: "#goodtimes, #videomaker, #makesomenoise, #changeoutfits"
-  - username: "vanityfairitalia"
-    fullname: >-
-      Vanity Fair Italia
-    location: "Italy"
-    followers: 61941
-    engagement: 797
-    commentsToLikes: 0.010296
-    id: ck97ylpk700jw0j78en8r3k4o
-    verified: true
-    hashtags: "#natale, #tiktok, #paparazzi, #megxit"
+    hashtags: "#perte, #alletattoo, #foryou, #tattooshop"
   - username: "michele_ramoino"
     fullname: >-
       Michele Ramoino
+    bio: >-
+      ❤️VI VOGLIO TUTTI SU INSTAGRAM❤️
     location: "Italy"
-    followers: 59058
-    engagement: 743
-    commentsToLikes: 0.063176
+    followers: 116400
+    engagement: 900
+    commentsToLikes: 0.042031
     id: ck8to6opvlhhc0j785bb5qdk6
     verified: false
-    hashtags: "#theriver, #virus, #bentornato, #scommessavinta"
+    hashtags: "#neiperte, #tiktokitalia, #lombardia, #noncicredo"
+  - username: "simox00"
+    fullname: >-
+      Simona Balzamo
+    bio: >-
+      
+    location: "Italy"
+    followers: 16000
+    engagement: 1679
+    commentsToLikes: 0.005610
+    id: ckc1xj6xs1h4o0j23rhrib5kn
+    verified: false
+    hashtags: "#woodworking, #nonvolevodiventarefamosa, #garden, #handmade"
+  - username: "giulia_scotti17"
+    fullname: >-
+      Giulia
+    bio: >-
+      Pharmacy student 💉 Model 📍Milan 💊Streetwear and Fashion💊
+    location: "Italy"
+    followers: 2372
+    engagement: 337
+    commentsToLikes: 0.022016
+    id: ckcdu4lk7ebez0j23ixth6xyi
+    verified: false
+    hashtags: "#offwhite, #modellife, #foryou, #greenscreen"
+  - username: "carlotta.seno"
+    fullname: >-
+      carlottaseno
+    bio: >-
+      Blogger Fashion trends | Consigli di Moda | Milano
+    location: "Italy"
+    followers: 22200
+    engagement: 848
+    commentsToLikes: 0.022076
+    id: ckcoxcv3e9skn0j237wjyzqwf
+    verified: false
+    hashtags: "#duetto, #mfw2021, #styletipsforyou, #zarahaul"
+  - username: "sorbilloofficial"
+    fullname: >-
+      Gino Sorbillo
+    bio: >-
+      Pizzerie Sorbillo ®️ Napoli, Tokyo, New York, Miami Beach, Milano, Roma, Genova
+    location: "Italy"
+    followers: 17200
+    engagement: 420
+    commentsToLikes: 0.011854
+    id: ck8to6t5ylifg0j78u5rs3yq0
+    verified: false
+    hashtags: "#napoli, #tiktok, #pizza, #sorbillo"
+  - username: "basilgreenpencil"
+    fullname: >-
+      Basil Green Pencil
+    bio: >-
+      Design Inspirations & Blog #DesignTastesGood BasilGreenPencil.com
+    location: "Italy"
+    followers: 2115
+    engagement: 590
+    commentsToLikes: 0.047039
+    id: ck8s5js7ug7m50j78yg9xatf4
+    verified: false
+    hashtags: "#design, #diy, #interiordesign, #styling"
+  - username: "francis.privitera"
+    fullname: >-
+      Francesco Privitera
+    bio: >-
+      20 years old 📍Milan, Italy- Made in Sicily🍊 Fashion Design- @istitutomarangi
+    location: "Italy"
+    followers: 6099
+    engagement: 533
+    commentsToLikes: 0.020416
+    id: ckb9q85c5ly730j23gjmgjh99
+    verified: false
+    hashtags: "#viral, #prete, #foryou, #sea"
+  - username: "valentina_galassi"
+    fullname: >-
+      valentina_galassi
+    bio: >-
+      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
+    location: "Italy"
+    followers: 38500
+    engagement: 1140
+    commentsToLikes: 0.009052
+    id: ckbf9cmr707cj0j23glh8972f
+    verified: false
+    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
 ---

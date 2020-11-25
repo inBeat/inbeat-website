@@ -1,87 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Argentina In 2020
 description: >-
-  Find top dancers TikTok influencers in Argentina in 2020. Most popular hashtags: #dancer #coronavirus #baile #challenge.
+  Find top dancers TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #dancer #fyp #dance.
 platform: TikTok
+hits: 20
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 20 TikTok influencers like this in Argentina for you to work with.
 profiles:
-  - username: "natipoledance"
+  - username: "lucasalvarezpole"
     fullname: >-
-      Natipoledancer
+      Lucas Alvarez
+    bio: >-
+      📍Pole Dancer 👠 Exotic Dancer 🎭 Pole Comedy 🇦🇷 Argentino
     location: "Argentina"
-    followers: 17535
-    engagement: 1138
-    commentsToLikes: 0.020627
-    id: ck83k3f9l90hl0j784iz35nwf
+    followers: 5152
+    engagement: 2055
+    commentsToLikes: 0.075172
+    id: ckd6ymi4uwrfk0j23w17eszun
     verified: false
-    hashtags: "#polefitness, #gymnastics, #desporte, #polelife"
-  - username: "krazykatzkk"
+    hashtags: "#polesport, #comedy, #poledance, #humor"
+  - username: "siguealconejonegro"
     fullname: >-
-      Krazy Katz 😎
+      Conejo
+    bio: >-
+      🌈Ecléctica🌈 Exotic Weirdo👠 Love Anime🎴 Pole Dancer 💪 SIGANME EN INSTAGRAM ☺
     location: "Argentina"
-    followers: 2690
-    engagement: 1764
-    commentsToLikes: 0.163130
-    id: cka0sj3azln4k0i78071hwj37
+    followers: 67900
+    engagement: 1760
+    commentsToLikes: 0.026501
+    id: ckb9ofe32it7u0j23y2f2z4yf
     verified: false
-    hashtags: "#addisonrae, #dancing, #brunette, #dancer"
-  - username: "vidadeviajes"
+    hashtags: "#poledancing, #spookyseason2020, #poledanc, #otaku"
+  - username: "vaffernandez"
     fullname: >-
-      Vida de Viajes
+      V A L E N T I N A ✨
+    bio: >-
+      Holi :) síganme en insta 👉@vaffernandez ✨ Bailarina & Pole dancer🥇🇦🇷
     location: "Argentina"
-    followers: 198689
-    engagement: 1515
-    commentsToLikes: 0.032635
-    id: ck81swni1tnss0j7806p035ct
+    followers: 20200
+    engagement: 2223
+    commentsToLikes: 0.017198
+    id: ckb9foloe49tm0j23o6qcwg91
     verified: false
-    hashtags: "#cataratas, #runing, #pintar, #globo"
-  - username: "emiliocalzetta"
+    hashtags: "#danza, #coronatime, #foryoupage, #boyfriend"
+  - username: "nurifari"
     fullname: >-
-      emilio
+      Nurii Fariña
+    bio: >-
+      Pole dancer 💃 Exótica 👠 Estoy loca 🇦🇷 Ig: @nuriif
     location: "Argentina"
-    followers: 86947
-    engagement: 1734
-    commentsToLikes: 0.008542
-    id: ck83ze2fxzxeg0j78exy7xl36
+    followers: 40200
+    engagement: 475
+    commentsToLikes: 0.017022
+    id: ckb9ofdlwit3q0j234tksdhr6
     verified: false
-    hashtags: "#dancer, #juego, #instagram, #comoimaginamos"
-  - username: "mailen.miks"
+    hashtags: "#poledance, #pole, #fyp, #parati"
+  - username: "cintiabaracho"
     fullname: >-
-      ♡Miku Miks♡
+      cintiabaracho
+    bio: >-
+      ⭐🏳️‍🌈 Bs.As. por si me quieren seguir en insta 😄 @cintiabaracho
     location: "Argentina"
-    followers: 25409
-    engagement: 581
-    commentsToLikes: 0.030912
-    id: ck8nh6hmgzf2e0j786bfy81kw
+    followers: 3929
+    engagement: 1100
+    commentsToLikes: 0.066138
+    id: ck9eje15f2m100j783dzg1tzk
     verified: false
-    hashtags: "#dancer, #waifi, #anime, #recetafacil"
-  - username: "davidlon4"
+    hashtags: "#newyork, #dancer, #humor, #baile"
+  - username: "ropattusi5"
     fullname: >-
-      David Lon
+      ropattusi
+    bio: >-
+      Cumpliendo mis sueños Bailarina 🤖 200k⁉️
     location: "Argentina"
-    followers: 3711
-    engagement: 448
-    commentsToLikes: 0.036270
-    id: cka6ar8w0xfwf0i78ykh5rkyu
+    followers: 148100
+    engagement: 1827
+    commentsToLikes: 0.023670
+    id: ckcv69udepkok0j236u3y0r1z
     verified: false
-    hashtags: "#startrek, #boxeo, #gracioso, #taekwondo"
-  - username: "tiktokdance.ok"
+    hashtags: "#dancetrend, #trendi, #popping, #dancegirl"
+  - username: "delfinnnnittaaa"
     fullname: >-
-      Tik Tok Dance
+      🖤TITINA🤍
+    bio: >-
+      •she/her❤️ •🇦🇷🇦🇷 •SOLAMENTE HAGO VIVOS EN IG: @delffi_lebed •150k?:(
     location: "Argentina"
-    followers: 8301
-    engagement: 905
-    commentsToLikes: 0.010241
-    id: ck8qo51nyxhhj0j782aut08nd
+    followers: 123700
+    engagement: 1651
+    commentsToLikes: 0.021720
+    id: ckbeqopoe8fyo0j2310uz2ol5
     verified: false
-    hashtags: "#muevelo, #muevelochallenge, #clasesdebaile, #se"
-  - username: "t.20201"
+    hashtags: "#fyp, #trend, #parati, #dancer"
+  - username: "mica.arnold"
     fullname: >-
-      usuario tiktok
+      Mica.arnold
+    bio: >-
+      Clases de Kpop ig: mica.arnold Meta: 100k 💕 ✨ All Pronouns ✨ 🏳️‍🌈
     location: "Argentina"
-    followers: 2570
-    engagement: 669
-    commentsToLikes: 0.003893
-    id: cka0s3o2ijqxm0i786a3t3bj2
+    followers: 57600
+    engagement: 2703
+    commentsToLikes: 0.011580
+    id: ckd62hb631sm80j23xoamctmk
     verified: false
-    hashtags: "#mafia, #satisfaction, #cafe, #rubias"
+    hashtags: "#baile, #viaje, #kpoper, #dancecover"
+  - username: "heartnixie"
+    fullname: >-
+      @heartnixie
+    bio: >-
+      Bailarina instructora de twerk❤️ @heartnixie YouTube https://youtu.be/2BsR-1V4
+    location: "Argentina"
+    followers: 9800
+    engagement: 317
+    commentsToLikes: 0.020503
+    id: ckc7oj2krugmv0j23pij1yqtc
+    verified: false
+    hashtags: "#patreon, #yomequedoencasa, #xyzbca, #parati"
+  - username: "juampicopello"
+    fullname: >-
+      Juampi Copello
+    bio: >-
+      Juampi Copello 22- FilmMaker🎬 Weirdo 120k?
+    location: "Argentina"
+    followers: 116800
+    engagement: 2780
+    commentsToLikes: 0.043453
+    id: ck8ql65t5ke0q0j78btgrf6h0
+    verified: true
+    hashtags: "#xyzbca, #halloween2020, #tutorial, #comedia"
 ---

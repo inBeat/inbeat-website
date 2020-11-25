@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Russia In 2020
 description: >-
-  Find top illustrators Instagram influencers in Russia in 2020. Most popular hashtags: #illustration #dtiys #pencilsketch #girls.
+  Find top illustrators Instagram influencers in Russia in 2020. Most popular hashtags: #illustration #drawing #sketch.
 platform: Instagram
+hits: 217
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 217 Instagram influencers like this in Russia for you to contact.
 profiles:
   - username: "sashakru"
     fullname: >-
       Illustrator
+    bio: >-
+      Illustrator, CEO at @lil.school sashakrucha(a)gmail.com
     location: "Russia"
-    followers: 75925
-    engagement: 357
-    commentsToLikes: 0.063432
+    followers: 77706
+    engagement: 397
+    commentsToLikes: 0.057316
     id: ck5zrha72wkor0i1497ut0ns4
     verified: false
     hashtags: "#lil"
   - username: "illustasha"
     fullname: >-
       Natasha Goncharova
+    bio: >-
+      illustrator
     location: "Russia"
     followers: 17566
     engagement: 946
     commentsToLikes: 0.024295
     id: ckaov8dzs3hq20i78cif48t3g
     verified: false
-    hashtags: "#forest, #best, #christmasdecor, #watercolor"
-  - username: "brodberick"
-    fullname: >-
-      Caroline Brodberick
-    location: "Russia"
-    followers: 265959
-    engagement: 1034
-    commentsToLikes: 0.030679
-    id: ckaoy2k0sfsiy0i78vpcfxv1z
-    verified: false
-    hashtags: "#softaesthetic, #halloweencostume, #softgrunge, #indiestyle"
+    hashtags: "#childrenillustrationbook, #kidlitart, #advent, #illustasha"
   - username: "smart_elk"
     fullname: >-
       Viktor Miller Gausa
+    bio: >-
+      St Petersburg Illustrator ⚓ sad crocodile 🐊 JMB Team gausa@yandex.ru
     location: "Russia"
-    followers: 24982
-    engagement: 1275
-    commentsToLikes: 0.049528
+    followers: 26084
+    engagement: 789
+    commentsToLikes: 0.061971
     id: ck5ckwjvrxr520i11gfla62wv
     verified: false
-    hashtags: "#sixfanarts"
-  - username: "sveta_melnitsyna"
-    fullname: >-
-      Света Мельницына
-    location: "Russia"
-    followers: 9081
-    engagement: 2201
-    commentsToLikes: 0.017446
-    id: ck8szu2vopptm0j787d3bfj0y
-    verified: false
-    hashtags: "#photoshopart, #instagood, #concept, #svetmel"
-  - username: "zz_fashion_illustrator"
-    fullname: >-
-      ZHENYA.Z
-    location: "Russia"
-    followers: 48594
-    engagement: 298
-    commentsToLikes: 0.038666
-    id: ck0tts87u43nv0i19dc0ipznf
-    verified: false
-    hashtags: "#work, #ugbadabdi, #prespring2019, #couture"
-  - username: "ann.illustrations"
-    fullname: >-
-      Illustrator 🌙 Иллюстратор
-    location: "Russia"
-    followers: 9510
-    engagement: 784
-    commentsToLikes: 0.037504
-    id: ck8t9ko9wog4k0j78ioyt66q1
-    verified: false
-    hashtags: "#streetfashion, #topstretching, #businesswoman, #portraitemotion"
-  - username: "_elena_art"
-    fullname: >-
-      L E N A    A R T 🆙
-    location: "Russia"
-    followers: 14053
-    engagement: 495
-    commentsToLikes: 0.058064
-    id: ckap3ura14kky0i78zd30i67m
-    verified: false
-    hashtags: "#morningcoffee, #newbalance, #decorative, #sportwear"
-  - username: "alissakoshka"
-    fullname: >-
-      Illustration ✨ Inspiration ✨
-    location: "Russia"
-    followers: 5591
-    engagement: 672
-    commentsToLikes: 0.111746
-    id: ckaosicjqrmfi0i78khwsu456
-    verified: false
-    hashtags: "#dtiys, #pyka"
+    hashtags: ""
   - username: "diana_kuksa"
     fullname: >-
       diana kuksa
+    bio: >-
+      Artist, illustrator, mommy. diana0212@mail.ru
     location: "Russia"
-    followers: 45426
-    engagement: 170
-    commentsToLikes: 0.029983
+    followers: 44650
+    engagement: 150
+    commentsToLikes: 0.021697
     id: ckap81bf6me910i78w1o2j6qf
     verified: false
-    hashtags: "#fastsketch, #music, #paperdolls, #childrensbook"
+    hashtags: "#instaart, #girl, #portrait, #watercolor"
+  - username: "anastasia_lavru"
+    fullname: >-
+      Карандашный Эксперт
+    bio: >-
+      ANASTASIA LAVRU ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ illustrator Contact: Anastasiya.lavru@gmail.com ⠀⠀ Buy my art👇🏼
+    location: "Russia"
+    followers: 46719
+    engagement: 868
+    commentsToLikes: 0.019939
+    id: ck13bq8v1wnni0i19004j0wu9
+    verified: false
+    hashtags: "#illo, #diagonalley, #hpworld, #childrenbookillustration"
+  - username: "ann.illustrations"
+    fullname: >-
+      Illustrator 🌙 Иллюстратор
+    bio: >-
+      ❌ Директ не читаю, тк временно не принимаю новые заказы. ❌ Commission closed. . ❤️ Ann / Анна ✍️ artist & illustrator
+    location: "Russia"
+    followers: 11474
+    engagement: 799
+    commentsToLikes: 0.030326
+    id: ck8t9ko9wog4k0j78ioyt66q1
+    verified: false
+    hashtags: "#procreateportrait, #procreatesketch, #digitalwatercolor, #digitalfashionillustration"
+  - username: "elena.amo"
+    fullname: >-
+      Illustrator Elena Amo
+    bio: >-
+      Digital illustrator Creatures creator Book lover 🇺🇸 Houston
+    location: "Russia"
+    followers: 10653
+    engagement: 1305
+    commentsToLikes: 0.028307
+    id: ck13aygpxsswm0i19vskvgsos
+    verified: false
+    hashtags: "#elenaamo, #folktaleweek2019, #anastazi, #stephfcskillshare"
+  - username: "astronautbalodis"
+    fullname: >-
+      olga balodis
+    bio: >-
+      •illustrator •graphic artist •russian academy of arts •saint petersburg
+    location: "Russia"
+    followers: 6702
+    engagement: 1475
+    commentsToLikes: 0.026200
+    id: ckap4fr7y76m30i78tk3xbsd3
+    verified: false
+    hashtags: "#inktober2020, #inktober, #inktoberrussia2020, #sixfanarts"
+  - username: "shidlikart"
+    fullname: >-
+      Markers & Digital
+    bio: >-
+      🌸Kate🌸 Selftaught Artist✍🏻🇷🇺 Thank you for your likes and comments!❤️ #markers #cuteart #illustrator #portraits #digital #procreate
+    location: "Russia"
+    followers: 7885
+    engagement: 1630
+    commentsToLikes: 0.022053
+    id: ck13ay3mrsr550i19k9upw5x1
+    verified: false
+    hashtags: "#colorpencilart, #sketch, #markers, #instaart"
+  - username: "maria_pavlinvtriko"
+    fullname: >-
+      Maria Pavlina
+    bio: >-
+      🔺Graphic&Web Designer, Illustrator 🔺Fond of watercolors, fairytales and children 🔺Available for new projects and commissions ✉️pavlinvtriko@gmail.com
+    location: "Russia"
+    followers: 8059
+    engagement: 848
+    commentsToLikes: 0.065449
+    id: ck0vxj7ugz5kh0i19dbjug605
+    verified: false
+    hashtags: "#friends, #quarantine, #bearillustration, #stayhome"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In San Francisco In 2020
 description: >-
-  Find top health TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #motivation #minitutorials #coffee.
+  Find top health TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #fyp #california #foryoupage.
 platform: TikTok
+hits: 11
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 11 TikTok influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "djasthmatc"
+  - username: "drlancevonstade"
     fullname: >-
-      djasthmatc
+      Dr. Lance von Stade
+    bio: >-
+      Owner@gogachiro gogachiro@gmail.com I turn stressed people into stoked giraffes.
     location: "United States"
-    followers: 2604
-    engagement: 832
-    commentsToLikes: 0.055055
-    id: cka9lvq2i3fif0i78tfv6ammk
+    followers: 4551
+    engagement: 213
+    commentsToLikes: 0.116024
+    id: ckdhvc0ww3pq40j23ejgzfcj3
     verified: false
-    hashtags: "#paloalto, #michaeljackson, #hiphop, #cotillion"
-  - username: "whimsysoul"
+    hashtags: "#privilege, #foryoupage, #racism, #blm"
+  - username: "dauoodnaimyar"
     fullname: >-
-      ✨ Kara ✨
+      Dauood
+    bio: >-
+      Stand up Comedian 🇦🇫 Bay area 🇦🇫 FOLLOW MY IG Tiktok keeps banning my vids
     location: "United States"
-    followers: 213658
-    engagement: 2524
-    commentsToLikes: 0.023060
-    id: ck84ma2klmmrn0j78282jzc4h
+    followers: 58400
+    engagement: 1909
+    commentsToLikes: 0.011240
+    id: ckcoycc6ka4e30j23yxzb78ap
     verified: false
-    hashtags: "#gotthisforyou, #goldenhour, #adoption, #bohochic"
-  - username: "thingslinadoes"
+    hashtags: "#smoke, #blacklivesmatter, #racism, #protest"
+  - username: "c_mustachelover1"
     fullname: >-
-      Lina🖤
+      Chloe
+    bio: >-
+      Follow my insta for press on nails 💜 ✨Website link ⬇️✨
     location: "United States"
-    followers: 36461
-    engagement: 1377
-    commentsToLikes: 0.028020
-    id: ck80oqa1lj83s0j78wm3p3msr
+    followers: 36400
+    engagement: 1147
+    commentsToLikes: 0.026741
+    id: ck9gmfjdzs3cz0j78rde6x3nb
     verified: false
-    hashtags: "#bayareacheck, #breakfast, #weightloss, #womenshealth"
-  - username: "seandreww"
+    hashtags: "#shoes, #sneakers, #nails, #fyp"
+  - username: "__ryanlee"
     fullname: >-
-      Sean Andrew
+      Ryan Lee
+    bio: >-
+      here for a good time, not a long time.
     location: "United States"
-    followers: 40685
-    engagement: 1534
-    commentsToLikes: 0.056858
-    id: cka0qscnudwv50i78ryhbczbl
+    followers: 3770
+    engagement: 492
+    commentsToLikes: 0.148205
+    id: ckbaatuc73gl50j23o7ym956a
     verified: false
-    hashtags: "#crazymom, #workoutfromhome, #collab, #twinning"
-  - username: "cian.dom"
+    hashtags: "#tattoo, #viral, #4u, #foryoupage"
+  - username: "aye.jessiee"
     fullname: >-
-      Cian Dominique
+      jessie chen
+    bio: >-
+      SF | NYC 💌 jessiechen2601@gmail.com
     location: "United States"
-    followers: 4908
-    engagement: 467
-    commentsToLikes: 0.031755
-    id: ck9fpaybb6hop0j78uhr05yy9
+    followers: 29700
+    engagement: 982
+    commentsToLikes: 0.023358
+    id: ckce7rh0fl7d70j233hpksv98
     verified: false
-    hashtags: "#alwayslearning, #alexademie, #minitutorials, #mexican"
+    hashtags: "#blackpink, #asian, #ootd, #asianmom"
+  - username: "mykahmag"
+    fullname: >-
+      Mykahmag
+    bio: >-
+      SAC / Hawaii | 22 IG - @official_tannie
+    location: "United States"
+    followers: 5663
+    engagement: 817
+    commentsToLikes: 0.036034
+    id: ckcjor3y8fzpz0j23b2imaeu4
+    verified: false
+    hashtags: "#hawaii, #gotmilkchallenge, #fyp, #catperson"
   - username: "solomon_413"
     fullname: >-
       Solomon
+    bio: >-
+      Jesus Follower Eritrean San Francisco, California
     location: "United States"
     followers: 5657
     engagement: 771
     commentsToLikes: 0.020792
     id: ckai03f6z5zz90i78j920u3b0
     verified: false
-    hashtags: "#arkansas, #move, #newyork, #america"
-  - username: "rothrind"
+    hashtags: "#18wheels, #police, #truckdrivers, #semi"
+  - username: "ven.ny"
     fullname: >-
-      Roth Rind
+      Venny G
+    bio: >-
+      19 y/o ( follow my insta^ ) From LA 🌴
     location: "United States"
-    followers: 2570
-    engagement: 611
-    commentsToLikes: 0.047044
-    id: ck9fii4icaxo50j78jcpya27n
+    followers: 7559
+    engagement: 900
+    commentsToLikes: 0.026956
+    id: ck83k2n528u160j782m6ks4w0
     verified: false
-    hashtags: "#thisisfine, #loveisblind, #liveconcert, #dancemonkey"
-  - username: "adamkrimmel"
+    hashtags: "#quarantine, #storytime, #food, #fyp"
+  - username: "mr.hot_mani"
     fullname: >-
-      Adam Krimmel
+      mr.hot_mani
+    bio: >-
+      I'm a Hyderabadi❤️ in California SF 🇺🇲Full Videos in Instagram with recipes
     location: "United States"
-    followers: 20457
-    engagement: 2242
-    commentsToLikes: 0.021769
-    id: ck9n8rki38tyw0j78wisvoqau
+    followers: 2739
+    engagement: 234
+    commentsToLikes: 0.045122
+    id: ckcdrhkw3csv00j2355knq90l
     verified: false
-    hashtags: "#animals, #dogs, #hungary, #music"
-  - username: "young_rari"
+    hashtags: "#tiktokchef, #chicken, #quarantine, #indian"
+  - username: "andytarutran"
     fullname: >-
-      Young_rari
+      Andy Taru
+    bio: >-
+      I WILL TRY TO RESPOND TO COMMENTS UNLESS U UGLY JK BUT NOT JK JK HEHE NOT JK, JK
     location: "United States"
-    followers: 403584
-    engagement: 2753
-    commentsToLikes: 0.024517
-    id: ck83wwz4tmngj0j78eo9izp7u
+    followers: 2529
+    engagement: 668
+    commentsToLikes: 0.050416
+    id: ckc83pxrz45zm0j23mylhqf1h
     verified: false
-    hashtags: "#poseathome, #duet, #bedroomcheck"
-  - username: "pamperingwithaleshia"
-    fullname: >-
-      Aleshia Wisch
-    location: "United States"
-    followers: 14698
-    engagement: 2578
-    commentsToLikes: 0.138983
-    id: ckaijeusgeljw0i78dgyrfs3r
-    verified: false
-    hashtags: "#resistthebeat, #wine, #safety, #dance"
+    hashtags: "#civic, #california, #supra, #houston"
 ---

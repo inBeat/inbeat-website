@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In India In 2020
 description: >-
-  Find top travel Instagram influencers in India in 2020. Most popular hashtags: #stayhome #trekkersofindia #instavacation #girlswhotravel.
+  Find top travel Instagram influencers in India in 2020. Most popular hashtags: #travelphotography #travel #instagood.
 platform: Instagram
+hits: 6239
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 6239 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "lucide_rider"
-    fullname: >-
-      𖦹𝖙𝖍𝖆𝖇𝖘𝖍𝖊𝖊𝖗 𝖓𝖆𝖇𝖍𝖆𝖓
-    location: "India"
-    followers: 6596
-    engagement: 4385
-    commentsToLikes: 0.129316
-    id: ck9wp9cix8cnk0j78v7w9wauk
-    verified: false
-    hashtags: "#kerala360, #kasaragod, #mallugirl, #mallureposts"
-  - username: "x_markzian"
-    fullname: >-
-      irshad mohammed ♞【 Z.X 】
-    location: "India"
-    followers: 2384
-    engagement: 3265
-    commentsToLikes: 0.214148
-    id: ck9wfd8rkocij0j789skl4nk0
-    verified: false
-    hashtags: "#kali, #instagramnyc, #sparkleteam, #keralagallery"
   - username: "ourpassportstory_"
     fullname: >-
       Surbhi & Nehil | Travel Couple
+    bio: >-
+      TRAVEL IN STYLE ❥ #travelcouple made in #dubai Travel | Fashion | Food 📍Dubai 🇦🇪 | India 🇮🇳 🗺 13 countries and counting Chartered Accountants
     location: "India"
-    followers: 3829
-    engagement: 3113
-    commentsToLikes: 0.163963
+    followers: 5684
+    engagement: 2271
+    commentsToLikes: 0.093308
     id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#turkey, #quarantine, #home, #cappadocia"
-  - username: "thegirlfromkree"
-    fullname: >-
-      The Girl From Kree l Travel 🎿🏂
-    location: "India"
-    followers: 3803
-    engagement: 2578
-    commentsToLikes: 0.197075
-    id: ckap76h3ditt70i78kqiacr6y
-    verified: false
-    hashtags: "#jaipur, #trailsofindia, #tourist, #girlsabroad"
-  - username: "mad_makry"
-    fullname: >-
-      Gø Kül
-    location: "India"
-    followers: 5525
-    engagement: 2078
-    commentsToLikes: 0.095154
-    id: ck9wi7k2712kk0j781whcnhfa
-    verified: false
-    hashtags: ""
-  - username: "yobaemaya"
-    fullname: >-
-      Hai Anh 🍋 travel girl
-    location: "India"
-    followers: 8632
-    engagement: 1993
-    commentsToLikes: 0.129555
-    id: ck5q3n8vlljqv0i11x3469m2o
-    verified: false
-    hashtags: "#singapore, #rijksmuseum, #wonderful, #stayhome"
-  - username: "vagavogue"
-    fullname: >-
-      JB
-    location: "India"
-    followers: 6862
-    engagement: 1899
-    commentsToLikes: 0.101703
-    id: ck15s9rl4bwzz0i19kd04079v
-    verified: false
-    hashtags: "#lightroom, #ladakhlovers, #bhutantrip, #delhiblogger"
-  - username: "chalta_firtaa"
-    fullname: >-
-      Chetan S Uike | NAGPUR📍
-    location: "India"
-    followers: 6246
-    engagement: 1816
-    commentsToLikes: 0.082713
-    id: ck55lg1m01hdb0i11s28r5jew
-    verified: false
-    hashtags: "#street, #dogsofinstagram, #pune, #35awards"
+    hashtags: "#dubaibloggers, #dubai, #traveldeeper, #travelcouples"
   - username: "shalini_vishnoi"
     fullname: >-
       Shalini Vishnoi
+    bio: >-
+      👩‍💼 UX Designer | Fashion Enthusiast | Travel lover 📨 DM for Collaboration 🌍 Earn | Explore | Repeat
     location: "India"
-    followers: 7366
-    engagement: 1676
-    commentsToLikes: 0.152239
+    followers: 7087
+    engagement: 1803
+    commentsToLikes: 0.150197
     id: ck9wfajl3nz5s0j788hj5ng5n
     verified: false
-    hashtags: "#summervibes, #igersofindia, #babesofsbl, #casualoutfit"
-  - username: "helloomelissa"
+    hashtags: "#delhiblogger, #indiafashionblogger, #indianoutfits, #portraitsindia"
+  - username: "reflectionofmymemories"
     fullname: >-
-      California ♥ Melissa - Travel
+      Biplab | Frames & Aesthetics |
+    bio: >-
+      Travel & Lifestyle Photographer #reflectionofmymemories Work Featured: NatGeoIndia & SonyAlphaIndia Sony A7M3 + Canon 80D For Business Queries Mail ✉️
     location: "India"
-    followers: 25018
-    engagement: 853
-    commentsToLikes: 0.143975
-    id: ck0ud7ovvijkw0i19f6par2y1
+    followers: 12425
+    engagement: 1733
+    commentsToLikes: 0.088602
+    id: ck5zksoz3k35c0i149sahpigf
     verified: false
-    hashtags: "#liketkit"
+    hashtags: "#bappa, #indianphotos, #culturvation, #natgeoindia"
+  - username: "___manu_micko"
+    fullname: >-
+      M A N U 🍁
+    bio: >-
+      Alhamdulillah Travelling 🌎 @hermanoo.__ @under_world_._ @hiphopz_fashionstore @hopes.onlinestore @hiphopz_pmna
+    location: "India"
+    followers: 167546
+    engagement: 917
+    commentsToLikes: 0.136859
+    id: ck9wp9c0r8cky0j78rzntmxev
+    verified: false
+    hashtags: "#pologti, #wols"
+  - username: "kimiya.diary"
+    fullname: >-
+      Kimiya rouzbahani 🕉🌙
+    bio: >-
+      ▪Wild is my favorite color 🌲🍃🐾 ▪climb 🧗‍♀️ travel 🌍 adventure 🏕 ▪Fitness and functional trainer 🏋🤸🏼‍♀️
+    location: "India"
+    followers: 9081
+    engagement: 2769
+    commentsToLikes: 0.230131
+    id: ckap2svxq06dr0i78tzwomqqr
+    verified: false
+    hashtags: "#iran, #nature, #wild, #adventure"
+  - username: "anumeena"
+    fullname: >-
+      Anuradha Kumar
+    bio: >-
+      Travel Photographer! Portraiture ! In love with people and culture 🇮🇳 | 🇦🇪
+    location: "India"
+    followers: 8708
+    engagement: 1675
+    commentsToLikes: 0.075377
+    id: ckaotfk57vq0i0i78f71tev6r
+    verified: false
+    hashtags: "#excelensawards, #tawang, #atlasofhumanityofficial, #eyesofchildrenaroundtheworld"
+  - username: "misfer_muhammed_"
+    fullname: >-
+      MISFER MUHAMMED
+    bio: >-
+      MISFER, || CALICUT ||,,. ENTREPRENEUR , INTERESTED IN (sharing)IDEAS , TRAVELLER (world) For further inquiries, 7034269849 #forextrading 💵💰💸💴
+    location: "India"
+    followers: 12984
+    engagement: 1344
+    commentsToLikes: 0.070124
+    id: ck138tgijhxj50i19y7htrry9
+    verified: false
+    hashtags: "#kerala, #kozhikode, #malappuram, #nature"
+  - username: "tusharsilawat"
+    fullname: >-
+      TUSHAR SILAWAT⚡️
+    bio: >-
+      #onemanshow Fashion | Traveller | Lifestyle Email me For Collaborations Subscribe to my channel⚡️
+    location: "India"
+    followers: 1530307
+    engagement: 1217
+    commentsToLikes: 0.036449
+    id: ck0ud1s2ki7fd0i19vbq6k6vc
+    verified: false
+    hashtags: "#reelitfeelit, #teamtushar, #letsmoj, #reels"
+  - username: "mr.g_95966"
+    fullname: >-
+      #GANESHNATION🌙
+    bio: >-
+      ⚡ Menswear | Traveller | Lifestyle 🦸 Managed by @ask.theashugandhi ✉️ Email for Promotions 👇 Subscribe my YouTube
+    location: "India"
+    followers: 199752
+    engagement: 1559
+    commentsToLikes: 0.029714
+    id: ck8t9p0eqotay0j785rxgydkg
+    verified: false
+    hashtags: "#ganeshnation, #potraitphotography, #potrait"
+  - username: "feelingfashioninside"
+    fullname: >-
+      FEELINGFASHIONINSIDE
+    bio: >-
+      Fashion | Beauty |Travel | Skin care | vlogs For collaboration: Dm 📩 feelingfashioninside@gmail.com YOUTUBER▶️🎦 🆕 https://youtu.be/ramhOf5ITlE
+    location: "India"
+    followers: 9031
+    engagement: 1261
+    commentsToLikes: 0.308896
+    id: ck8t8az4cjr370j786zot9dwa
+    verified: false
+    hashtags: "#productreview, #odishabloggers, #indianyoutubers, #contentcreators"
 ---

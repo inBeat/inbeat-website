@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Peru In 2020
 description: >-
-  Find top nutrition Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #nutrition #peru #vida.
+  Find top nutrition Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #saludybienestar #photooftheday.
 platform: Instagram
+hits: 18
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Peru for you to work with.
 profiles:
-  - username: "victorwegnez"
-    fullname: >-
-      Victor Wegnez
-    location: "Peru"
-    followers: 15905
-    engagement: 1505
-    commentsToLikes: 0.011876
-    id: ck0vv8flxo07q0i194tobyl1h
-    verified: true
-    hashtags: "#worldchampion, #lugaresincreibles, #bouaaaks, #kiwiiswatchingyou"
   - username: "victor_latinlover"
     fullname: >-
       Latin Lover
+    bio: >-
+      “Todo o Nada”. Conductor,Luchador,Actor y Empresario Twitter: @victorlatin77 Suplementos @latin.nutrition Contacto : kikirikiiic@gmail.com
     location: "Peru"
-    followers: 107338
-    engagement: 203
-    commentsToLikes: 0.053029
+    followers: 126321
+    engagement: 219
+    commentsToLikes: 0.045549
     id: ck6u8944xq5vw0j71njbpay8o
     verified: true
-    hashtags: "#latempestad, #actor, #bestfriends, #house"
-  - username: "hugosalazar_"
+    hashtags: "#family, #dance, #life, #gad"
+  - username: "macawellness"
     fullname: >-
-      Hugo Salazar
+      MACA 🌻 Nutricionista, RD, MBA
+    bio: >-
+      Entre lo sano, rico y real 🌿 Nutriendo cuerpo-mente ✨ #NutricionREAL🤘🏼 💌info.macawellness@gmail.com @asicsfrontrunner🇵🇪 @fitbitlatam Tengo PODCAST🎙⬇️
     location: "Peru"
-    followers: 36966
-    engagement: 347
-    commentsToLikes: 0.051660
-    id: ck5hm2qrxl9u40i11rxvpaf1p
+    followers: 54682
+    engagement: 308
+    commentsToLikes: 0.044792
+    id: ck5pytz39xsol0i11wbqe26fk
     verified: true
-    hashtags: "#martes, #guitarra, #dietasana, #makeup"
+    hashtags: "#anotalo, #macaeduca, #nutricionreal, #plantbased"
+  - username: "carlazaplana"
+    fullname: >-
+      Carla Zaplana
+    bio: >-
+      🥬Dietista-Nutricionista (Plant-Based) 📚COME LIMPIO: Alimentación para el cuerpo, la mente y las emociones 🚺Nutrición Femenina 📍Perú✈️ 👇 Más info aquí:
+    location: "Peru"
+    followers: 95119
+    engagement: 111
+    commentsToLikes: 0.065013
+    id: ck5q0pmxv753e0i11wal65ycx
+    verified: true
+    hashtags: "#silencio, #coronavirus, #holisticnutrition, #saludybienestar"
   - username: "marianahidalgog"
     fullname: >-
-      Mariana 🍎| Nutrición + Recetas
+      Mariana | Nutrición + Hábitos
+    bio: >-
+      ~ Te enseño a comer y a crear hábitos sanos para que cambies de vida, no solo de talla 🍇 ~ 💌 | Citas: mhgnutricionista@gmail.com RESFRÍO+TIPS 👇🏽
     location: "Peru"
-    followers: 86802
-    engagement: 433
-    commentsToLikes: 0.034736
+    followers: 91749
+    engagement: 462
+    commentsToLikes: 0.041053
     id: ck6u91w0cv08a0j71afz0zsxy
     verified: false
-    hashtags: "#nutrireceta, #breaksfast, #brownie, #diplomaso"
-  - username: "ada.bravo.m"
-    fullname: >-
-      Ada Bravo | Triatleta 🇵🇪
-    location: "Peru"
-    followers: 2679
-    engagement: 1072
-    commentsToLikes: 0.043392
-    id: ck15qs5be4ded0i196jd8zu45
-    verified: false
-    hashtags: "#fitness, #nutrici, #goodmoments, #bodytech"
+    hashtags: "#nutricionista, #peru, #nutricion, #yococinoencasa"
   - username: "vivianadeferrari"
     fullname: >-
       Self Love Coach
+    bio: >-
+      ⚡️Be you⚡️ Public Speaker | Reprogram your mind | Make it simple | Love Self Work 👇🏼Y O U T U B E
     location: "Peru"
     followers: 46286
     engagement: 590
     commentsToLikes: 0.028814
     id: ck6tt9c619cdg0j71yyfxjsnr
     verified: false
-    hashtags: "#elpoderdelahora, #bienestarespiritual, #confiaenti, #creeenti"
-  - username: "healthy_pleasure"
+    hashtags: "#positivevibes, #positivemindset, #amorpropio, #positivemind"
+  - username: "fuchsrally"
     fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
+      Nicolás Fuchs- 🏁Oficial🏁
+    bio: >-
+      🇵🇪 2021 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
     location: "Peru"
-    followers: 48424
-    engagement: 169
-    commentsToLikes: 0.041205
-    id: ck5zlrnnbl9gc0i14k1khb4zx
+    followers: 35029
+    engagement: 141
+    commentsToLikes: 0.018255
+    id: ck0u6rawt2p5e0i19ahsrjo3f
     verified: true
-    hashtags: "#lasagna, #avena, #gingerbeer, #plantprotein"
-  - username: "alexandramendezof"
+    hashtags: "#yomequedoencasa, #herbalifenutritionper, #offroad, #fuchsrally"
+  - username: "kate_miranda_23"
     fullname: >-
-      Alexandra
+      Kate Miranda 🐰🌎✈️💕
+    bio: >-
+      📍Peruvian Girl 🙋🏻‍♀️❣️ 🧠 Aviación Comercial 🛩💺 🍏🍍Nutrición 👉🏻👸🏻 RESILIENTE 🎂 25 - 11 💪🏻🏋🏼‍♀️ Amante del gym ✌🏻🍃 Peace And Love
     location: "Peru"
-    followers: 748323
-    engagement: 224
-    commentsToLikes: 0.007683
-    id: ckap5ud7nd7c00i784ml1h6c1
-    verified: true
-    hashtags: "#tbt, #memories"
+    followers: 35390
+    engagement: 153
+    commentsToLikes: 0.049152
+    id: ck5zrd8vawd7e0i14c2wvxym3
+    verified: false
+    hashtags: "#piropo, #quemadores, #proteinas, #anfitriona"
+  - username: "tete_novoa_oficial"
+    fullname: >-
+      Tete Novoa Oficial
+    bio: >-
+      🎤Cantante y compositor en @saratogaoficial 🔥 Artista solista, amante❤ de los animales🐶 y del deporte🏋️‍♂️ ⬇️👕NUEVO MERCHAND OFICIAL🧢⬇️
+    location: "Peru"
+    followers: 32786
+    engagement: 581
+    commentsToLikes: 0.019700
+    id: ck5c26baxwmfc0i11tdcr5bfu
+    verified: false
+    hashtags: "#rockandfitness, #fitnessboy, #repost, #merch"
+  - username: "caparus"
+    fullname: >-
+      🌺V A L E R I A   C A P A R Ó🌺
+    bio: >-
+      📍Lima - Perú 17 años🌻 Nutrición UPC 📚🍎 @vesia.nutricion 🥑
+    location: "Peru"
+    followers: 2716
+    engagement: 2132
+    commentsToLikes: 0.069962
+    id: ckap65fpneh350i78r3doxklc
+    verified: false
+    hashtags: ""
   - username: "crisisyak"
     fullname: >-
       C R I S
+    bio: >-
+      新垣 クリス 🇯🇵🇵🇪 Estudiante de Nutrición, me gustan las plantas, soy adicta a los dulces y medio otaku
     location: "Peru"
-    followers: 5585
-    engagement: 1243
-    commentsToLikes: 0.021748
+    followers: 6506
+    engagement: 1118
+    commentsToLikes: 0.028081
     id: ck9hcp6gwmfip0j78u0o1w1hw
     verified: false
-    hashtags: "#photoshoot, #love, #likeforlike, #f4f"
-  - username: "germanrozz"
-    fullname: >-
-      GERMAN ROZ (Thenutrichef)
-    location: "Peru"
-    followers: 39523
-    engagement: 205
-    commentsToLikes: 0.037891
-    id: ck5hp9uwcqzwv0i11jlp6xy4w
-    verified: false
-    hashtags: "#surf, #cake, #planeta, #vida"
+    hashtags: "#photooftheday, #sakura, #potd, #anime"
 ---

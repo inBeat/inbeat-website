@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Miami In 2020
 description: >-
-  Find top yoga TikTok influencers in Miami in 2020. Most popular hashtags: #yoga #miami #nature #happyathome.
+  Find top yoga TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #yoga #miami #foryou.
 platform: TikTok
+hits: 8
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "angelicabourland"
+  - username: "cozyrosati"
     fullname: >-
-      angelicabourland
+      Cosette Rosati
+    bio: >-
+      True Life: I’m an influencer Model BTS | Health & Wellness | Avid Thrifter
     location: "United States"
-    followers: 3304
-    engagement: 279
-    commentsToLikes: 0.039420
-    id: ck95z1z59cikl0j78dac894es
+    followers: 88500
+    engagement: 460
+    commentsToLikes: 0.029975
+    id: ckacfmt0yrjis0i787jm6lk9x
     verified: false
-    hashtags: "#onlyinflorida, #keys, #thatdroptho, #beach"
-  - username: "ilanasedaka"
+    hashtags: "#vegan, #bts, #model, #foodie"
+  - username: "eamm97"
     fullname: >-
-      Ilana Sedaka
+      Ernesto Medina
+    bio: >-
+      Follow me on Instagram 👆🏻
     location: "United States"
-    followers: 7610
-    engagement: 873
-    commentsToLikes: 0.033757
-    id: ck9a4kn7xuwin0j78x4zt8vs8
+    followers: 21200
+    engagement: 520
+    commentsToLikes: 0.066434
+    id: cka7p9dn66dwp0i78qgc543sx
     verified: false
-    hashtags: "#celebrity, #cocktail, #midtown, #music"
-  - username: "braidaid"
+    hashtags: "#bidenharris2020, #bidenwon, #election, #funny"
+  - username: "esdayrabby"
     fullname: >-
-      Genesis
+      DAYRA
+    bio: >-
+      FASHUN IG - @es.dayra IG brand - @dayra.studio
     location: "United States"
-    followers: 31797
-    engagement: 635
-    commentsToLikes: 0.019286
-    id: ck9f8lz3n35xr0j782h2mcn2b
+    followers: 2620
+    engagement: 377
+    commentsToLikes: 0.019556
+    id: ckcpa5bkden4o0j23f7u3nsgs
     verified: false
-    hashtags: "#beach, #beforeandafter, #creativehair, #dogsofinstagram"
+    hashtags: "#mexico, #fyp, #xyzbca, #foryou"
   - username: "debbiedeev"
     fullname: >-
       Debbie dee
+    bio: >-
+      If I was a writer I’d have a better caption. Love laughter and TikTok enjoy 🇵🇭
     location: "United States"
     followers: 4768
     engagement: 312
     commentsToLikes: 0.021399
     id: ck9eliywpapwu0j784bo60ibm
     verified: false
-    hashtags: "#argument, #carabian, #afrodance, #funtime"
+    hashtags: "#tiktoklover, #foryoupage, #foryourpage, #lockdown"
   - username: "everydaydetox"
     fullname: >-
       EveryDayDetox
+    bio: >-
+      EveryDayDetox Podcast on iTunes & Youtube https://linktr.ee/everydaydetox
     location: "United States"
-    followers: 5646
-    engagement: 578
-    commentsToLikes: 0.042660
+    followers: 6392
+    engagement: 571
+    commentsToLikes: 0.039694
     id: ck8z6jom9maa80j78sho3x767
     verified: false
-    hashtags: "#freshair, #breathedeep, #quarantinelife, #weightloss"
-  - username: "martousnaturals"
+    hashtags: "#smoothie, #detox, #quarantine, #bananaicecream"
+  - username: "austinmahone"
     fullname: >-
-      martousnaturals
+      Austin Mahone
+    bio: >-
+      New single “SUMMER LOVE”💙out now :: business email : mgmt@chaseent.com
     location: "United States"
-    followers: 2024
-    engagement: 1067
-    commentsToLikes: 0.071027
-    id: ckamyiesbhn4n0i78b6e0em49
-    verified: false
-    hashtags: "#soaproses, #will, #barsfordays, #aftermycoffee"
-  - username: "juliasinch23"
+    followers: 778800
+    engagement: 934
+    commentsToLikes: 0.020491
+    id: ck8njnna0b8rg0j78k7qr2c62
+    verified: true
+    hashtags: "#fyp, #foryou, #halloweenlook, #foryoupage"
+  - username: "_nisab"
     fullname: >-
-      Julia❤️
+      nisa bee
+    bio: >-
+      The best is yet to come
     location: "United States"
-    followers: 44742
-    engagement: 1074
-    commentsToLikes: 0.038616
-    id: ck8fb1mhj52v40j78lohbfsaq
+    followers: 34200
+    engagement: 592
+    commentsToLikes: 0.023697
+    id: cka9m3rfq3pgt0i78477a4igb
     verified: false
-    hashtags: "#family, #thailand, #birds, #alcogol"
-  - username: "galeyalix"
+    hashtags: "#morph, #notonething, #stepintolove, #fitness"
+  - username: "ayyyy__taytay"
     fullname: >-
-      Galey Alix
+      Ayyyy__taytay
+    bio: >-
+      NEW FRESH CONTENT COMING YOUR WAY🤘🏻 Instagram: @tayandrews__
     location: "United States"
-    followers: 61050
-    engagement: 813
-    commentsToLikes: 0.015746
-    id: ckaicq6lilg310i78qwmfim80
+    followers: 117600
+    engagement: 479
+    commentsToLikes: 0.066367
+    id: ckal66cca9ksx0i78emezxe9u
     verified: false
-    hashtags: "#fire, #after, #pantry, #bestfriends"
-  - username: "i.live.positive"
+    hashtags: "#food, #health, #foodie, #dinner"
+  - username: "embermusic452"
     fullname: >-
-      PositiveRandy
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 16577
-    engagement: 607
-    commentsToLikes: 0.037811
-    id: ck999vx9ceyxe0j78q2xirs87
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#napkin, #miamicheck, #quarantinegains, #sanitizer"
-  - username: "leidyamelia"
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
+  - username: "katiecapecod"
     fullname: >-
-      Leidy Amelia
+      katiecapecod🧜🏻‍♀️
+    bio: >-
+      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
     location: "United States"
-    followers: 15689
-    engagement: 417
-    commentsToLikes: 0.019528
-    id: ck9kg90ys6ugg0j783pf85fo9
+    followers: 7738
+    engagement: 1623
+    commentsToLikes: 0.129260
+    id: ck87u29o14tty0j78453egpae
     verified: false
-    hashtags: "#dancefail, #workout, #safaera, #cuba"
+    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
 ---

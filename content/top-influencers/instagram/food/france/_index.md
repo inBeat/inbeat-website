@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In France In 2020
 description: >-
-  Find top food Instagram influencers in France in 2020. Most popular hashtags: #concours #look #sunday #positive.
+  Find top food Instagram influencers in France in 2020. Most popular hashtags: #concours #parisienne #lookdujour.
 platform: Instagram
+hits: 1873
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 1873 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "lady_pitaya"
-    fullname: >-
-      Kristin T.
-    location: "France"
-    followers: 8535
-    engagement: 2510
-    commentsToLikes: 0.118158
-    id: ck5zsif4wyk0a0i14rjasoi4m
-    verified: false
-    hashtags: "#cordoue, #granadaespa, #natureportrait, #denimshorts"
-  - username: "marisepollard"
-    fullname: >-
-      Marise Pollard
-    location: "France"
-    followers: 49758
-    engagement: 1679
-    commentsToLikes: 0.077163
-    id: ck6u866l7pnuv0j71hspnufg4
-    verified: false
-    hashtags: ""
   - username: "inessiadream"
     fullname: >-
       𝙄𝙉𝙀𝙎𝙎𝙄𝘼 ♦ 𝕊𝕚𝕟𝕘𝕖𝕣 𝕞𝕒𝕜𝕖𝕦𝕡 𝕒𝕕𝕕𝕚𝕔𝕥
+    bio: >-
+      💙 Music ♦ Beauty ♦ Food ♦ Lifestyle 💌 inessiapro@gmail.com 💄 Conseils, avis, test, fun, concours et blabla 🎤 Je chante clique👇🏼 pour voir ma cover
     location: "France"
-    followers: 15521
-    engagement: 1408
-    commentsToLikes: 0.577539
+    followers: 18460
+    engagement: 1407
+    commentsToLikes: 0.454689
     id: ck6u56g6m7v8e0j718uyyvz0f
     verified: false
-    hashtags: "#frenchbaddies, #undiz, #milaniblush, #satindress"
-  - username: "chloe_letellier"
+    hashtags: "#frenchfashion, #frenchinfluencer, #frenchmodel, #champselysees"
+  - username: "coco_life18"
     fullname: >-
-      Chloé Letellier
+      Coralie 🌸
+    bio: >-
+      ♡ Happy Mum♡ Clara & Calvin ♡ In love ♡ ☆ Lifestyle, Look, Food, Déco, Travel ☆
     location: "France"
-    followers: 173747
-    engagement: 570
-    commentsToLikes: 0.059925
-    id: ckap8s2umpmn00i7893j9h7tm
+    followers: 6458
+    engagement: 1362
+    commentsToLikes: 0.394079
+    id: ckf5r3xhebc290j23x86qrar4
     verified: false
-    hashtags: "#makeup, #givenchy, #givenchybeauty"
-  - username: "fancy.poppy"
+    hashtags: "#dailylook, #outfit, #fashion, #ootdshare"
+  - username: "mysweetcactus"
     fullname: >-
-      Laura 22 yo ⚓
+      Léa-Marie 🌵 Blogueuse
+    bio: >-
+      📍Strasbourg 🔁 Paris 🛍 Gagnante Les Reines du shopping M6 🧳 Voyageuse compulsive ✨ Distribution de good vibes ❤️ Mode • Beauté • Déco • Food • Voyage
     location: "France"
-    followers: 8683
-    engagement: 1302
-    commentsToLikes: 0.237875
-    id: ck8tbo976wg2h0j78v0f3p1v5
+    followers: 75693
+    engagement: 964
+    commentsToLikes: 0.192436
+    id: ck0u28yskz9200i19dm1p53wg
     verified: false
-    hashtags: "#positive, #belgique, #easter, #artisanal"
-  - username: "lauriane_lamperim"
+    hashtags: "#sheisnotlost, #stylediaries, #ootdinspiration, #alsace"
+  - username: "rebecca.monacelli"
     fullname: >-
-      Lauriane Lamperim
+      ♛ Jɪʟʟ ♛
+    bio: >-
+      • Aᴄᴛʀᴇss 🎬 • Mᴏᴅᴇʟ 📸 • 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜 𝙳𝙼 💌 • @giorgiavitalemanagement • @dsmodelmanagement #actress #model #foodblogger
     location: "France"
-    followers: 146160
-    engagement: 682
-    commentsToLikes: 0.027406
-    id: ck13chvij0f9w0i199dwubasm
+    followers: 15726
+    engagement: 1016
+    commentsToLikes: 0.073634
+    id: ck8t1vhnzx7460j78x52feyem
     verified: false
-    hashtags: ""
-  - username: "danielaprepeliuc"
+    hashtags: "#felicita, #modelling, #actress, #mfw"
+  - username: "laeti_mtls"
     fullname: >-
-      Daniela Prepeliuc
+      Laetitia Mtls🚒
+    bio: >-
+      🚒 Sapeur Pompier Paris ⚓️ plongée 💦 🔜 ironman 70.3 les sables 💪Tour de Corse à vélo 🚲 🥜@foodspring_fr laetiFSG (-15%) 👨‍👩‍👧‍👦@grouss_est_la ❤️
     location: "France"
-    followers: 28350
-    engagement: 852
-    commentsToLikes: 0.041966
-    id: ck5hr01you10i0i11374ycnq4
-    verified: true
-    hashtags: "#womanday, #manquepapa, #tropdamour, #egalite"
+    followers: 65181
+    engagement: 697
+    commentsToLikes: 0.054076
+    id: ck6tkfsbc4m5z0j71vnizd5vz
+    verified: false
+    hashtags: "#femmepompier, #fitgirl, #jsp, #brandweer"
+  - username: "mariedanede"
+    fullname: >-
+      MARIE DANEDE
+    bio: >-
+      ✖️ Fashion | Beauty | Food ◾️ Créatrice de contenu 📍 Bordeaux 📩 Collab : Mariedanede.pro@gmail.com
+    location: "France"
+    followers: 74246
+    engagement: 600
+    commentsToLikes: 0.744821
+    id: ck5zj50i5gyct0i14tom4ouev
+    verified: false
+    hashtags: "#yslbeautychristmastree, #looksdujour, #cashbackaumax, #ysl"
+  - username: "andee_a_table"
+    fullname: >-
+      Andréa - Food&Wine
+    bio: >-
+      📍Paris 🇫🇷🇬🇧🇮🇹 🔞 Food & Wine lover 📝Serial-testeuse de bonnes adresses! 🌍 Oenotouriste 🍹 Cocktail sipper Pics by @narathino 📧andeeatable.ig@gmail.com
+    location: "France"
+    followers: 6438
+    engagement: 1140
+    commentsToLikes: 0.214474
+    id: ck5zwlzx96czh0i149ogwsw1m
+    verified: false
+    hashtags: "#speakeasy"
   - username: "alix.grousset"
     fullname: >-
       Alix Grousset
+    bio: >-
+      Alix, 23 yo 🥑 @foodalix / 👩🏻‍🌾 @pelleourateau 🎥YouTube: Alix Grousset 🎙Podcast: @lesvoisinespodcast 📝leblogdalix.com 💌grousset.alix@gmail.com
     location: "France"
-    followers: 24712
-    engagement: 622
-    commentsToLikes: 0.067693
+    followers: 38994
+    engagement: 717
+    commentsToLikes: 0.042713
     id: ck5pwzosdpe0a0i11r73fb0pg
     verified: false
-    hashtags: "#ninoandme, #confin, #gettymuseumchallenge, #couettechallenge"
-  - username: "thepositivenews"
+    hashtags: "#oceansapart, #concours, #marionnaudlovesshiseido, #synchroskin"
+  - username: "amsdiary"
     fullname: >-
-      Alex & Ophelia
+      Amandine | Happy Girl ✨
+    bio: >-
+      Fashion, Healthy lifestyle & Beauty tips 🖤 🍽 Food lover, good adresses in highlights ⚡️Prozis: « AMSDIARY » for 10% discount & gifts
     location: "France"
-    followers: 30495
-    engagement: 473
-    commentsToLikes: 0.066426
-    id: ck8t0rw68t2lv0j78bgovxi2x
+    followers: 24821
+    engagement: 637
+    commentsToLikes: 0.282154
+    id: ck0tu3jwj5h340i19wgbdark7
     verified: false
-    hashtags: "#ootd, #lookdujour, #runwithparis, #dubndiducrew"
-  - username: "charlotteandfamily"
+    hashtags: "#concoursinstagram, #concours, #partenariat, #blogger"
+  - username: "lolwla"
     fullname: >-
-      Charlotte ☾ AndFamily
+      LOLA🍋 Food & Lifestyle
+    bio: >-
+      📍Perpignan / Agen 🥞Mapstr : lolacg (toutes mes adresses food) 👻 snap : lola.cg
     location: "France"
-    followers: 40416
-    engagement: 431
-    commentsToLikes: 0.084431
-    id: ck0w1e6mkiw9x0i19k9xy9rou
+    followers: 62658
+    engagement: 522
+    commentsToLikes: 0.052465
+    id: ck15tej1qhou80i19k6zsw0ch
     verified: false
-    hashtags: "#draisienne, #campagne, #lavieestbelle, #lejourdapres"
+    hashtags: "#recette, #naturalmojocode, #ideerecette, #peanutbutter"
 ---

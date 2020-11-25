@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Vancouver In 2020
 description: >-
-  Find top fashion TikTok influencers in Vancouver in 2020. Most popular hashtags: #fashion #positivevibes #retailtherapy #vibewithme.
+  Find top fashion TikTok influencers in Vancouver in 2020. Most popular hashtags: #fashion #vancouver #fyp #foryou.
 platform: TikTok
+hits: 34
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 34 TikTok influencers like this in Vancouver, Canada for you to contact.
 profiles:
+  - username: "frankiecollective"
+    fullname: >-
+      Frankiecollective 
+    bio: >-
+      Eco friendly vintage and reworked clothing. Frankiecollective.com
+    location: "Canada"
+    followers: 24700
+    engagement: 684
+    commentsToLikes: 0.006104
+    id: ck8j7r57tfkml0j780ee9ji72
+    verified: false
+    hashtags: "#trend, #fashion, #vancouver, #vintage"
   - username: "02jpham"
     fullname: >-
       jp
+    bio: >-
+      vancouver
     location: "Canada"
-    followers: 14717
-    engagement: 1215
-    commentsToLikes: 0.036342
+    followers: 14700
+    engagement: 1300
+    commentsToLikes: 0.029638
     id: ck81qa19jh4mv0j78hskrc6rv
     verified: false
-    hashtags: "#funfacts, #friends, #checkthisout, #happyathome"
-  - username: "stylinsquares"
+    hashtags: "#vancouver, #fyp, #nails, #asian"
+  - username: "stylebykris"
     fullname: >-
-      Style in Squares
+      Kristine Dalida-Cruz
+    bio: >-
+      👗Fashion Stylist 🇨🇦Vancouver🇵🇭 📩 kddalida@yahoo.com.ph
     location: "Canada"
-    followers: 2008
-    engagement: 273
-    commentsToLikes: 0.057367
-    id: cka69jwhqsrb40i786agv9qpc
+    followers: 22900
+    engagement: 418
+    commentsToLikes: 0.098937
+    id: ckb9exrt7312x0j239w8pv4ml
     verified: false
-    hashtags: "#denimjacket, #styleinspo, #casual, #retailtherapy"
-  - username: "gurnoortatla"
+    hashtags: "#fallfashion2020, #styletip, #fashionnovahaul, #cuzettequeens"
+  - username: "2hypevictor"
     fullname: >-
-      Gurnoor Tatla
+      2hypevictor
+    bio: >-
+      made for the world van isle🇨🇦
     location: "Canada"
-    followers: 13543
-    engagement: 858
-    commentsToLikes: 0.037065
-    id: ck8tprhqkqkzf0j78pr1rp0tm
+    followers: 19700
+    engagement: 1114
+    commentsToLikes: 0.074902
+    id: ckcp17xg2b4t90j2332yy9pf6
     verified: false
-    hashtags: "#curlyhair, #idknever, #realityripple, #killyourvibe"
-  - username: "whatselin"
+    hashtags: "#canada, #clothing, #fyp, #trending"
+  - username: "_istiana"
     fullname: >-
-      Selin ✪
+      Istiana
+    bio: >-
+      aesthetic, travel guides, that kind of stuff
     location: "Canada"
-    followers: 22914
-    engagement: 2064
-    commentsToLikes: 0.015812
-    id: ck9kd25sss66s0j78nrwj8lbj
+    followers: 4131
+    engagement: 634
+    commentsToLikes: 0.096238
+    id: ckcv70kd8pudd0j23vv7y9por
     verified: false
-    hashtags: "#everydayscience, #eighteen, #snackbreak, #likeachamp"
-  - username: "constancelh"
+    hashtags: "#myaesthetic, #travelguide, #travelbucketlist, #vlog"
+  - username: "sequins_by_aman"
     fullname: >-
-      Connie Hackett
+      SequinsByAman 
+    bio: >-
+      🇮🇳 to 🇨🇦 Happily Married💞 & Mother of 2 handsome boys⚽️🏀
     location: "Canada"
-    followers: 21645
-    engagement: 1112
-    commentsToLikes: 0.032570
-    id: ck8kg1th3gm4t0j78gahhhu9b
+    followers: 18600
+    engagement: 644
+    commentsToLikes: 0.005349
+    id: ckcv5hsdup9370j23eu8islza
     verified: false
-    hashtags: "#disneyrides, #livingwall, #fairydoor, #ironing"
-  - username: "themagday"
+    hashtags: "#funny, #bridesofindia, #sequinsbyaman, #indianwedding"
+  - username: "melissawanbon"
     fullname: >-
-      The Magday
+      mel🦋
+    bio: >-
+      follow ya girl on insta ⇧ ig/twitter: @melissawanbon🦋
     location: "Canada"
-    followers: 10693
-    engagement: 689
-    commentsToLikes: 0.018096
-    id: ck961z7gholt60j78umhvuoxa
+    followers: 472800
+    engagement: 967
+    commentsToLikes: 0.003816
+    id: ck806wy7smp2z0j78oov16p3n
     verified: false
-    hashtags: "#leavingmybody, #ilocano, #siblingcheck, #happymothersday"
-  - username: "austinottone"
+    hashtags: "#ootd, #myoutfit, #vancouver, #whatidwear"
+  - username: "prettyrai28"
     fullname: >-
-      CEO of Fashion
+      prettyrai28
+    bio: >-
+      Instagram @prettyraiofficial snapchat @prettyrai28
     location: "Canada"
-    followers: 116560
-    engagement: 811
-    commentsToLikes: 0.007280
-    id: ck806zm4rndor0j78p6bgjsh2
+    followers: 153500
+    engagement: 727
+    commentsToLikes: 0.045577
+    id: cka0yojjtc77d0i780p51pytp
     verified: false
-    hashtags: "#adventuretime, #streetwearhype, #fashionartist, #adventure"
-  - username: "nilou.fardd"
+    hashtags: "#prettyrai, #vancouver, #perfectfigar, #killereyes"
+  - username: "therichardkelly"
     fullname: >-
-      Nilou Fard
+      Richard Kelly
+    bio: >-
+      Tiktok bio
     location: "Canada"
-    followers: 12668
-    engagement: 308
-    commentsToLikes: 0.042983
-    id: ck90r2g2fkumv0j78fnfoaaeh
+    followers: 34400
+    engagement: 1097
+    commentsToLikes: 0.037314
+    id: ck9gklkp7jtmj0j78lvgbgs7d
     verified: false
-    hashtags: "#fashion, #relationship, #quarintine, #finalsathome"
-  - username: "neak0007"
+    hashtags: "#christian, #christiantiktok, #canada, #duet"
+  - username: "zcankaya0"
     fullname: >-
-      Neak_0007✔️
+      Zehra
+    bio: >-
+      🇨🇦 Ig: zcankaya
     location: "Canada"
-    followers: 99986
-    engagement: 790
-    commentsToLikes: 0.007512
-    id: ck806wvtqmoep0j78k0iuwn0t
+    followers: 73200
+    engagement: 1017
+    commentsToLikes: 0.010739
+    id: ck80os0c4jnly0j78cffj88q3
     verified: false
-    hashtags: "#world, #tiktok, #lifestyle, #vives"
-  - username: "kaur_bal_21"
-    fullname: >-
-      Kaur Bal 👑
-    location: "Canada"
-    followers: 13703
-    engagement: 462
-    commentsToLikes: 0.013413
-    id: ck8vyxa0mv9mh0j78zik53k1q
-    verified: false
-    hashtags: "#bridaloutfit, #mann, #viral, #blopper"
+    hashtags: "#instagramers, #makeuptutorial, #love, #photoshop"
 ---

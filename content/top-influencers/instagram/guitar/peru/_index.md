@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Peru In 2020
 description: >-
-  Find top guitar Instagram influencers in Peru in 2020. Most popular hashtags: #guitar #guitarra #musica #amor.
+  Find top guitar Instagram influencers in Peru in 2020. Most popular hashtags: #music #guitarra #cover.
 platform: Instagram
+hits: 15
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Peru for you to connect with.
 profiles:
+  - username: "sanderalex1"
+    fullname: >-
+      Sander Alex
+    bio: >-
+      🎸 Músico Guitarrista e Ing de Sonido 📩 Clases de Guitarra, Teoría y HomeStudio. 🎵Banda @lajoyarock▫️Endorser @yawar_electronics LaJoya música👇🏻
+    location: "Peru"
+    followers: 7836
+    engagement: 1714
+    commentsToLikes: 0.042530
+    id: ckf5xlcqvw30b0j23titq5a6k
+    verified: false
+    hashtags: "#guitarcover, #joesatriani, #shredguitar, #talentoperuano"
+  - username: "lula_bertoldi"
+    fullname: >-
+      Lula Bertoldi
+    bio: >-
+      Mamá / Cantante y Guitarrista de @eruca_sativa / Lic. en RRPPII / Ministra del Interior de Si Misma / En proceso de deconstrucción
+    location: "Peru"
+    followers: 134467
+    engagement: 398
+    commentsToLikes: 0.021794
+    id: ck0uefpp6l8xv0i19inb5wmvf
+    verified: true
+    hashtags: ""
   - username: "carmencitavaldesoficial"
     fullname: >-
       Carmencita Valdés
+    bio: >-
+      Folclorista, cantante, guitarrista y compositora Con más de 20 años de trayectoria en Chile y el Extranjero. carmencitavaldes@hotmail.com 🇨🇱🌹🐴🎤
     location: "Peru"
     followers: 19453
     engagement: 271
     commentsToLikes: 0.019744
     id: ck8t0p26gsroo0j785qn1sr6c
     verified: false
-    hashtags: "#acrilicas, #corraleros, #zapallar2019, #teatromunicipaldelinares"
-  - username: "pattyblazquez"
+    hashtags: "#carmencitavaldes, #corraleros, #tiktok, #2019"
+  - username: "lolitaa29ok"
     fullname: >-
-      Patty Blázquez
+      LOLA SANTILLÁN
+    bio: >-
+      🇦🇷| 16 años desde Buenos Aires, Argentina. 💖| cantante en formación . 📤| losantillan29@gmail.com 👇🏼🎵MI CANAL DE YOUTUBE
     location: "Peru"
-    followers: 6201
-    engagement: 601
-    commentsToLikes: 0.084793
-    id: ck5ckrogaxh6h0i11jqejpxg0
+    followers: 69983
+    engagement: 1007
+    commentsToLikes: 0.159966
+    id: ckaov2d8h2tj60i786j9z7ida
     verified: false
-    hashtags: "#goodnight, #tardeo, #girlpower, #stong"
+    hashtags: "#argentina, #guitarra, #crismorena, #yomequedoencasa"
+  - username: "vanegonzalezoficial"
+    fullname: >-
+      Vanessa González
+    bio: >-
+      🎵Cantante 🎸Compositora 📢Locutora comercial 🐶 Mamá de Tutto y Chichi 💌 info@vanegonzalezoficial.com ☎️ Contrataciones (506) 8335 0276
+    location: "Peru"
+    followers: 68179
+    engagement: 171
+    commentsToLikes: 0.030066
+    id: ck6tylcmp4eu70j719xn65sgz
+    verified: false
+    hashtags: "#componiendo, #artist, #myprs, #costarica"
+  - username: "jemheigis"
+    fullname: >-
+      JEMMA🧞‍♀️
+    bio: >-
+      Pentatonics 4 the people
+    location: "Peru"
+    followers: 25041
+    engagement: 806
+    commentsToLikes: 0.051225
+    id: ck0ty5gn7lpq50i19hbdofhah
+    verified: false
+    hashtags: "#keyboard, #fun, #guitarsolo, #moogsynthesizer"
+  - username: "julianlollo"
+    fullname: >-
+      Julián Lollo
+    bio: >-
+      Cantante ※ Músico ※ Actor 🇦🇷 --------------------------------------------- Cherry Wine - Hozier (Julián Lollo cover) 🎵 👇👇👇
+    location: "Peru"
+    followers: 3252
+    engagement: 1071
+    commentsToLikes: 0.211699
+    id: ck5hlpz2jkmyt0i11m5uuyepb
+    verified: false
+    hashtags: "#guitar, #cdicover, #iharmu, #musically"
   - username: "brandogallesi"
     fullname: >-
       Brando Gallesi
+    bio: >-
+      Protagonista de "Billy Elliot" el Musical Perú, Lima Protagonista de la película “Django en el nombre del hijo” Cantante del dúo @lubranoficial 🎤 ⬇️⬇️
     location: "Peru"
-    followers: 289484
-    engagement: 717
-    commentsToLikes: 0.015981
+    followers: 278420
+    engagement: 776
+    commentsToLikes: 0.022005
     id: ck6u93o5evb340j7189oq8l96
     verified: false
-    hashtags: "#guitarra, #seunsuperheroe, #proximochairman, #chairmanmasjoven"
-  - username: "raes_official"
+    hashtags: "#quedatencasa, #yeezy, #musica, #guitarra"
+  - username: "arianabadi"
     fullname: >-
-      Raes
+      Arian Abadi
+    bio: >-
+      Cantante y Actor panameño 🇵🇦 Mi mamá me llama ‘Ari’ no se por qué Escucha mi último lanzamiento ‘POCO A POCO’ ✍🏽🎤👇🏿
     location: "Peru"
-    followers: 40360
-    engagement: 210
-    commentsToLikes: 0.055717
-    id: ck1386rileraf0i19qa2k48xn
+    followers: 27584
+    engagement: 458
+    commentsToLikes: 0.114423
+    id: ck15qxt0256770i19wnosrylu
     verified: false
-    hashtags: "#yatusabes, #starwars, #cumplea, #contigosiempre"
-  - username: "hugosalazar_"
+    hashtags: "#musicforlife, #trillis, #bebes, #mylife"
+  - username: "bermont__"
     fullname: >-
-      Hugo Salazar
+      Bernardo Monteagudo
+    bio: >-
+      Limeño mazamorrero! 🥄🧁 Prometto a me stesso la felicità! 🌟 Más peruano que el pisco! 🍸 🇵🇪 Lima, Perú. 🇵🇪📍
     location: "Peru"
-    followers: 36966
-    engagement: 347
-    commentsToLikes: 0.051660
-    id: ck5hm2qrxl9u40i11rxvpaf1p
-    verified: true
-    hashtags: "#martes, #guitarra, #dietasana, #makeup"
-  - username: "thiagolunaa"
-    fullname: >-
-      T H I A G O • L U N A
-    location: "Peru"
-    followers: 414716
-    engagement: 1271
-    commentsToLikes: 0.055053
-    id: ck0u0xpl6v7yt0i190prlb2ve
+    followers: 17490
+    engagement: 1016
+    commentsToLikes: 0.032687
+    id: ck8tbno84wds50j78upkafcth
     verified: false
-    hashtags: "#morado, #locoremix, #siguesconel, #favoritocover"
-  - username: "cindysotelomusic"
-    fullname: >-
-      Cindy Sotelo
-    location: "Peru"
-    followers: 12779
-    engagement: 612
-    commentsToLikes: 0.076928
-    id: ck1397lpijxqn0i19dxzifad4
-    verified: false
-    hashtags: "#paraiso, #song, #villaelsalvador, #followforfollow"
-  - username: "jemheigis"
-    fullname: >-
-      JEMMA 🎹
-    location: "Peru"
-    followers: 26491
-    engagement: 721
-    commentsToLikes: 0.049430
-    id: ck0ty5gn7lpq50i19hbdofhah
-    verified: false
-    hashtags: "#dontstartnow, #beatmaker, #huntingmode, #instamusic"
-  - username: "marcenave"
-    fullname: >-
-      Marcela Navarro
-    location: "Peru"
-    followers: 31890
-    engagement: 100
-    commentsToLikes: 0.064534
-    id: ckap9yxzdu1um0i78x1cm97bb
-    verified: true
-    hashtags: "#ricardoarjona, #nina, #instrumentista, #singers"
-  - username: "erickeleraoficial"
-    fullname: >-
-      Erick Elera
-    location: "Peru"
-    followers: 873701
-    engagement: 163
-    commentsToLikes: 0.012328
-    id: ck5zrchb1wbvk0i14oqge1a6l
-    verified: true
-    hashtags: "#actriz, #music, #urbano, #flaviaelera"
+    hashtags: "#florida, #mountains, #photographer, #beautiful"
 ---

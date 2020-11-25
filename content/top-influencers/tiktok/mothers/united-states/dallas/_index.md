@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Dallas In 2020
 description: >-
-  Find top mothers TikTok influencers in Dallas in 2020. Most popular hashtags: #inthehouseparty #keepingactive #may4th #vibewithme.
+  Find top mothers TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #duet #funny #trump.
 platform: TikTok
+hits: 7
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "michele.bell"
+  - username: "maddiepolansky19"
     fullname: >-
-      Michele
+      Maddie 
+    bio: >-
+      snap: madison38711 happy vibes ;)
     location: "United States"
-    followers: 3597
-    engagement: 798
-    commentsToLikes: 0.120468
-    id: cka9m605n428g0i78g7rob77e
+    followers: 8289
+    engagement: 1793
+    commentsToLikes: 0.027300
+    id: ckfo47aqo15wh0j23ezd90bfp
     verified: false
-    hashtags: "#therapydog, #musicmatters, #viralvideo, #coockapoo"
-  - username: "raquellerenfro"
+    hashtags: "#behappy, #smile, #chickfila, #foryou"
+  - username: "reneelwilliams3"
     fullname: >-
-      Raquelle Renfro
+      Renee L Williams
+    bio: >-
+      Loving Daughter,Mother of 3 and Nurse no time for games, fake people or drama.
     location: "United States"
-    followers: 23880
-    engagement: 840
-    commentsToLikes: 0.017102
-    id: cka6mhsye7bfo0i7847tphx51
+    followers: 16100
+    engagement: 2438
+    commentsToLikes: 0.087030
+    id: ckb93cgxrk7k10j239bk2l016
     verified: false
-    hashtags: "#peptalk, #dogs, #dinosaurvalley, #quarantinelife"
-  - username: "overtimeszn"
+    hashtags: "#fyppage, #fypchallenge, #fyp, #pennsylvania"
+  - username: "reddiele"
     fullname: >-
-      Overtimeszn
+      reddiele
+    bio: >-
+      Good Vibes Only 💛 Burst Ambassador 🦷 Promo Code: HESK7D
     location: "United States"
-    followers: 1182327
-    engagement: 2128
-    commentsToLikes: 0.008127
-    id: ck81s65qyq9h40j78azth9li6
-    verified: true
-    hashtags: "#basketball, #shoutout, #inmemoriam, #hashtag"
-  - username: "wavythegreat"
-    fullname: >-
-      WavySoOfficial🥵🌊
-    location: "United States"
-    followers: 23283
-    engagement: 2082
-    commentsToLikes: 0.028566
-    id: ckad4db37ovbp0i78b5jj8g3y
+    followers: 74500
+    engagement: 1082
+    commentsToLikes: 0.036840
+    id: ck9n4bvdq4ald0j78xcie1cd2
     verified: false
-    hashtags: "#walkchallenge, #throwbacksongs, #healthheroes, #afrodance"
-  - username: "dallamalla4"
+    hashtags: "#trump, #trump2020, #houston, #xyzbca"
+  - username: "briannahuckaby"
     fullname: >-
-      dallamalla4
+      Brianna Huckaby
+    bio: >-
+      𝖇𝖗𝖎 🌻 • 𝕒𝕫 ☀️ • ②④ ♎️ • 𝓂𝒶𝓂𝓂𝒶 𝓉𝑜 𝓂𝒾𝒶 ❣️
     location: "United States"
-    followers: 5417
-    engagement: 1603
-    commentsToLikes: 0.138384
-    id: ck8z2hfr35cye0j78j7c7svro
+    followers: 4820
+    engagement: 988
+    commentsToLikes: 0.019464
+    id: ckb9s7qkcpcx90j23nibqtm56
     verified: false
-    hashtags: "#myturn, #sayplease, #love, #oregonlife"
+    hashtags: "#kid, #fyp, #xyzbca, #daughter"
+  - username: "mamak2_14"
+    fullname: >-
+      MamaK
+    bio: >-
+      Certified Recovery Coach Autistic❤️❤️ 5 yrs clean thecleancrew01@gmail.com
+    location: "United States"
+    followers: 262900
+    engagement: 1731
+    commentsToLikes: 0.036011
+    id: cka627tsuyq0y0i788sgu5kld
+    verified: false
+    hashtags: "#love, #duet, #addiction, #recovery"
   - username: "jsbuilders_"
     fullname: >-
       Tony Suarez
+    bio: >-
+      DALLAS, TX. I build stuff out of wood and other projects. Follow me on IG
     location: "United States"
-    followers: 64713
-    engagement: 522
-    commentsToLikes: 0.018990
+    followers: 158800
+    engagement: 499
+    commentsToLikes: 0.019278
     id: ck81sb33frd580j7830kndxyz
     verified: false
-    hashtags: "#stain, #makeup, #killyourvibe, #mexico"
-  - username: "sloppyjoey17"
+    hashtags: "#howto, #carpentry, #construction, #satisfying"
+  - username: "its_lil_lil"
     fullname: >-
-      SloppyJoe17
+      Lilia Chairez Rios
+    bio: >-
+      Austin, TX ❤️Tequila & Travels❤️ "I drink to make other people more interesting”
     location: "United States"
-    followers: 21267
-    engagement: 1100
-    commentsToLikes: 0.090552
-    id: ck931ax8vdtis0j7887kjr8wz
+    followers: 110900
+    engagement: 748
+    commentsToLikes: 0.026982
+    id: ckculwzrhhf990j23cn07xxce
     verified: false
-    hashtags: "#slurpee, #likeandshare, #friends, #chokeme"
-  - username: "realtinkerbell"
+    hashtags: "#mexico, #bartender, #didyouknow, #fyp"
+  - username: "jaymyst"
     fullname: >-
-      Tink
+      JayMyst
+    bio: >-
+      Happily married, mother of 2! Love duets
     location: "United States"
-    followers: 2165
-    engagement: 3405
-    commentsToLikes: 0.120616
-    id: ck96325qnsyel0j78sbr3svp5
+    followers: 3614
+    engagement: 4021
+    commentsToLikes: 0.560262
+    id: ckck5esowqb8l0j23sjrlaa7d
     verified: false
-    hashtags: "#imnotwrong, #heightproblems, #keepingactive, #cutestbrother"
-  - username: "mitch.shroyer"
+    hashtags: "#duet, #dadsoftiktok, #tiktokfriends, #silly"
+  - username: "rnete"
     fullname: >-
-      Mitch Shroyer
+      Renee
+    bio: >-
+      Wife and mother of two girls
     location: "United States"
-    followers: 34988
-    engagement: 2213
-    commentsToLikes: 0.042664
-    id: ck8z4zzj5fvil0j787dyxn5gg
+    followers: 7143
+    engagement: 3923
+    commentsToLikes: 0.232036
+    id: ckd1840uypkb50j23ixhnr14o
     verified: false
-    hashtags: "#littlethings, #may4th, #skincareroutine, #inthehouseparty"
-  - username: "truckerleezah"
+    hashtags: "#fyp, #headcases, #tiktok, #comedy"
+  - username: "sammykk"
     fullname: >-
-      Leezah422 
+      sammyk
+    bio: >-
+      I’m your gay god-mother 🤙🏼 | 26 TikTok pls unshadowban me Follow @sammykklive
     location: "United States"
-    followers: 24264
-    engagement: 2077
-    commentsToLikes: 0.064395
-    id: cka7or7bz3qu70i78tb2f6v2c
+    followers: 270600
+    engagement: 3225
+    commentsToLikes: 0.029807
+    id: ckamgxv43duom0i781dqo7mni
     verified: false
-    hashtags: "#pharmacist, #inthegarden, #duetme, #worldofwarcraft"
+    hashtags: "#biden2020, #story, #politics, #election"
 ---

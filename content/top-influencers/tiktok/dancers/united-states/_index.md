@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In United States In 2020
 description: >-
-  Find top dancers TikTok influencers in United States in 2020. Most popular hashtags: #musicmatters #ownthecurve #acnh #inthehouseparty.
+  Find top dancers TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryou.
 platform: TikTok
+hits: 1922
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 1922 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "tea.adamson"
-    fullname: >-
-      tea.adamson16
-    location: "United States"
-    followers: 35097
-    engagement: 1993
-    commentsToLikes: 0.015032
-    id: ck8rofyb8h0gl0j78hvzuvt50
-    verified: false
-    hashtags: "#freezeframe, #musiclives, #idknever, #everydayscience"
   - username: "iamjordiofficial"
     fullname: >-
       iAmJordi
+    bio: >-
+      Singer/Dancer/Songwriter 💘 IG: iamjordiofficial YT: iAmJordi SC: iamjordi1
     location: "United States"
-    followers: 5493329
-    engagement: 3408
-    commentsToLikes: 0.054371
+    followers: 6800000
+    engagement: 3055
+    commentsToLikes: 0.033578
     id: ck8kdaihg4wob0j780t4ls400
     verified: true
-    hashtags: "#seeyouchallange, #promo, #sonypartner, #spreadhope"
+    hashtags: ""
+  - username: "totem4lyfe"
+    fullname: >-
+      Tyrese C. “Totem”
+    bio: >-
+      God 1st NC Dancer. 200k? Cashapp: $TyreseDC815 Ivl20 Do not spam like me yo
+    location: "United States"
+    followers: 67000
+    engagement: 2232
+    commentsToLikes: 0.048591
+    id: ck9sihe6myxwv0j78pdtuaj9b
+    verified: false
+    hashtags: "#helpme, #fyp, #stitch, #duet"
+  - username: "officialjasonqueen"
+    fullname: >-
+      The Dancing Pastor
+    bio: >-
+      Best is yet to come so don’t give up @dancewithpurposefam Creator | Dancer
+    location: "United States"
+    followers: 13000
+    engagement: 2127
+    commentsToLikes: 0.163058
+    id: ck8p1gau2laoa0j787nvo2dve
+    verified: false
+    hashtags: "#showupshowoff, #love, #foryou, #christiantiktok"
+  - username: "pixtheartist"
+    fullname: >-
+      PIX-THE-ARTIST
+    bio: >-
+      -18- OG Shuffle Dancer🕺 Joined 11/19/2018 Fallen OG Creators: 19
+    location: "United States"
+    followers: 79000
+    engagement: 2101
+    commentsToLikes: 0.053793
+    id: cka88j7jzbg2j0i78atikslkk
+    verified: false
+    hashtags: "#mypfp, #duet, #xyzbca, #spooktober"
+  - username: "hauxy9"
+    fullname: >-
+      P
+    bio: >-
+      idk lol 100k? smell Shuffle dancer Editor
+    location: "United States"
+    followers: 69500
+    engagement: 1966
+    commentsToLikes: 0.122841
+    id: ckd6xenn0u7240j233y9oyf0w
+    verified: false
+    hashtags: "#duet, #videoleap, #rtfx, #alightmotion"
+  - username: "k3ng_e"
+    fullname: >-
+      hi i’m k3🦍🖤
+    bio: >-
+      i’m 1 of chris brown’s background dancers💚
+    location: "United States"
+    followers: 272800
+    engagement: 1931
+    commentsToLikes: 0.040271
+    id: ckbbchvv41gfe0j2320c61vs3
+    verified: false
+    hashtags: "#dapradahouse, #stitch, #duet, #greenscreensticker"
+  - username: "nitinsonkamble2"
+    fullname: >-
+      dancer sonu
+    bio: >-
+      nandecha dancer sonu (single boy) jaybhim namo budddhay 🙏🇪🇺🙏
+    location: "United States"
+    followers: 13300
+    engagement: 1868
+    commentsToLikes: 0.070839
+    id: ckbvtddv4s8f60j23hfrlc3em
+    verified: false
+    hashtags: "#duets, #nitinsonkamble2, #jaybhimguys, #dance"
   - username: "christiana.b4"
     fullname: >-
       christiana
+    bio: >-
+      chris-tea-on-uh wa dancer i’m just vibing venmo/snap: christianaburk
     location: "United States"
-    followers: 205969
-    engagement: 2104
-    commentsToLikes: 0.029994
+    followers: 234300
+    engagement: 2182
+    commentsToLikes: 0.023174
     id: ck81q085tewju0j783a1fya4v
     verified: false
-    hashtags: "#snackbreak, #randomthings, #kiss, #alwayslearning"
-  - username: "zsarayu"
+    hashtags: "#timewarpscan, #foryoupage, #duet"
+  - username: "nathangetz"
     fullname: >-
-      zSarayu
+      Nathan Getz
+    bio: >-
+      Computer Programmer Aerialist/Dancer/Coach Music Producer Photographer Arvada CO
     location: "United States"
-    followers: 122200
-    engagement: 2940
-    commentsToLikes: 0.097759
-    id: ck95z2n7kcody0j78g6tpa7qz
+    followers: 22300
+    engagement: 1760
+    commentsToLikes: 0.110299
+    id: ckcdc0lox4wab0j23kn8f70no
     verified: false
-    hashtags: "#familytime, #tagsomeone, #jesus, #inspiration"
-  - username: "_.mildredddd._"
+    hashtags: "#fyp, #analog, #foryou, #timewarpscan"
+  - username: "emo.ballerina"
     fullname: >-
-      Mildred (200k!!?🖤)
+      Sarah Noe
+    bio: >-
+      “oikawa with cake” dancer & artist :) she/her ♡ 18 👇hand painted anime flags👇
     location: "United States"
-    followers: 192502
-    engagement: 2355
-    commentsToLikes: 0.034054
-    id: ck92v69q3p8mj0j78uc21s4gd
+    followers: 16600
+    engagement: 2925
+    commentsToLikes: 0.047333
+    id: ckb18qur3wn830j232l86t01l
     verified: false
-    hashtags: "#mycrib, #spacethings, #greenvspurple, #greenscreen"
-  - username: "snoopyjwoo"
-    fullname: >-
-      🪐 Zoë ☄️
-    location: "United States"
-    followers: 7985
-    engagement: 2062
-    commentsToLikes: 0.081894
-    id: ck8j6lz1qaksm0j784f2tsdr5
-    verified: false
-    hashtags: "#randomthings, #btsxlauv, #distancedance, #tennessee"
-  - username: "sammcdub"
-    fullname: >-
-      Sam McWilliams 
-    location: "United States"
-    followers: 19582
-    engagement: 1892
-    commentsToLikes: 0.063446
-    id: ckac3017ub5hq0i78mjh9ypne
-    verified: false
-    hashtags: "#soapbop, #clonesquad, #aladdin, #tranitions"
-  - username: "abigaillynnarts"
-    fullname: >-
-      Abigail Canutt
-    location: "United States"
-    followers: 262239
-    engagement: 3059
-    commentsToLikes: 0.025471
-    id: ck8tri0wyqyga0j78n2829c7v
-    verified: false
-    hashtags: "#lonelychair, #reallifeathome, #freezeframe, #promdiy"
-  - username: "prettygirl_shyla1"
-    fullname: >-
-      Pfp💗Meh😍😽
-    location: "United States"
-    followers: 7445
-    engagement: 2515
-    commentsToLikes: 0.061345
-    id: ck9elxu2wcrgi0j78mfhtg7jo
-    verified: false
-    hashtags: "#ripdemrie, #nosleepgang, #blowup, #mothersday"
-  - username: "sabrinamaecosplay"
-    fullname: >-
-      Sabrina Mae
-    location: "United States"
-    followers: 84011
-    engagement: 1977
-    commentsToLikes: 0.039961
-    id: cka88q4rfc7kb0i78pexhxzun
-    verified: false
-    hashtags: "#simba, #dojocat, #agoofymovie, #hades"
+    hashtags: "#todoroki, #haikyuu, #handpainted, #anime"
 ---

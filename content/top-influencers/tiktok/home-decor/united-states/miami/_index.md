@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In Miami In 2020
 description: >-
-  Find top home decor TikTok influencers in Miami in 2020. Most popular hashtags: #miami #homedecor #stayhome #foryoupage.
+  Find top home decor TikTok influencers in Miami in 2020. Most popular hashtags: #miami #homedecor #fyp #foryou.
 platform: TikTok
+hits: 22
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 22 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "prekpalss"
+  - username: "darlapowell"
     fullname: >-
-      prekpalss
+      Darla Powell
+    bio: >-
+      Miami Interior Designer ✨ Design + Hijinks darlapowell.com
     location: "United States"
-    followers: 7648
-    engagement: 711
-    commentsToLikes: 0.009135
-    id: ck95xwjr27pj90j78t672ad6r
+    followers: 3231
+    engagement: 1033
+    commentsToLikes: 0.075532
+    id: ckd6kywvheldh0j23bu67uyl6
     verified: false
-    hashtags: "#cookwithyourkid, #kidsactivities, #waterplay, #kidprojects"
+    hashtags: "#fyp, #miami, #homedecor, #miamidesigner"
+  - username: "evolutioneventos"
+    fullname: >-
+      Evolution Eventos
+    bio: >-
+      112k in Instagram - Event design company. Online Floral Works
+    location: "United States"
+    followers: 13200
+    engagement: 447
+    commentsToLikes: 0.026500
+    id: ck9fwzxaa3xtm0j78puohb2f9
+    verified: false
+    hashtags: "#miamiflowers, #fall, #pumpkin, #flowers"
   - username: "jalbertorc"
     fullname: >-
       Jose Alberto
+    bio: >-
+      🇵🇷 📍 🇺🇸 instagram : jalbertorc
     location: "United States"
-    followers: 12145
-    engagement: 373
-    commentsToLikes: 0.014175
+    followers: 18200
+    engagement: 349
+    commentsToLikes: 0.011233
     id: ckacgg5ctv1380i78x2xe9m3y
     verified: false
-    hashtags: "#wallpaper, #boricua, #fergalicous, #walkchallenge"
-  - username: "madartstudios"
+    hashtags: "#latino, #foryou, #xyzbca, #viral"
+  - username: "katielicata"
     fullname: >-
-      MADART Studios
+      Katie Licata
+    bio: >-
+      Somewhere between a Disney princess and Midge Maisel. she/her
     location: "United States"
-    followers: 4619
-    engagement: 942
-    commentsToLikes: 0.055432
-    id: cka5yu02njtq70i784zrli0g5
+    followers: 22400
+    engagement: 1400
+    commentsToLikes: 0.032129
+    id: ckbercvcb9i3z0j23zqh3ufw0
     verified: false
-    hashtags: "#artists, #golden, #pink, #treepainting"
-  - username: "gabriellaa_x18"
+    hashtags: "#vintagestyle, #1950s, #vintagevibes, #disney"
+  - username: "laurenfrancesmm"
     fullname: >-
-      Gabby
+      Lauren
+    bio: >-
+      miami I paint murals in my room
     location: "United States"
-    followers: 15175
-    engagement: 430
-    commentsToLikes: 0.014196
-    id: ck8vs3hizcnwz0j781ua1lzzh
+    followers: 78200
+    engagement: 852
+    commentsToLikes: 0.030005
+    id: ckb0m23qzcm920j23h0ujikb4
     verified: false
-    hashtags: "#bride, #dogsoftiktok, #home, #myskinandme"
-  - username: "marina.b.style"
+    hashtags: "#pleasesetupazoomwithme, #artistsoftiktok, #greenscreen, #duet"
+  - username: "idobeboredtho0"
     fullname: >-
-      Marina B.
+      Venom
+    bio: >-
+      I’m bored Miami 🇳🇮
     location: "United States"
-    followers: 33536
-    engagement: 288
-    commentsToLikes: 0.011289
-    id: ck90tz3ogunla0j78gnla1iov
+    followers: 3211
+    engagement: 1668
+    commentsToLikes: 0.019593
+    id: ckbf5lpjzuqzz0j236m3zzzrf
     verified: false
-    hashtags: "#cleanfreshhype, #heaven, #ocean, #kids"
-  - username: "ourforeverhomeflip"
+    hashtags: "#familydinner, #acousticcovers, #wipeitdown, #yoplaitcuprelay"
+  - username: "natyp13"
     fullname: >-
-      OurForeverHomeFlip
+      naty perezzz
+    bio: >-
+      miamiiiii cashapp: natycheer13
     location: "United States"
-    followers: 82854
-    engagement: 471
-    commentsToLikes: 0.025877
-    id: ckacg21hnteqn0i783bdhw5mt
+    followers: 10900
+    engagement: 1180
+    commentsToLikes: 0.031561
+    id: ckbqtx59nehbo0j23antnptv0
     verified: false
-    hashtags: "#painting, #demo, #florida, #homeproject"
-  - username: "galeyalix"
+    hashtags: "#teleport, #stepintolove, #inmyaejeans, #duet"
+  - username: "victoriagkremer"
     fullname: >-
-      Galey Alix
+      victoriagkremer
+    bio: >-
+      Believer of Christ 🤍 victoriagabriella.com 🤍 IG: @victoriagkremer
     location: "United States"
-    followers: 61050
-    engagement: 813
-    commentsToLikes: 0.015746
-    id: ckaicq6lilg310i78qwmfim80
+    followers: 2098
+    engagement: 397
+    commentsToLikes: 0.050391
+    id: ckdhomie40zxd0j23npz4uixt
     verified: false
-    hashtags: "#fire, #after, #pantry, #bestfriends"
-  - username: "sonyaxsingh"
+    hashtags: "#mood, #pumpkinspice, #ootd, #miamiblogger"
+  - username: "shesgoing_"
     fullname: >-
-      Sonya Singh
+      samantha
+    bio: >-
+      29 countries & Going. Travel & Sustainable Lifestyle
     location: "United States"
-    followers: 2064
-    engagement: 623
-    commentsToLikes: 0.045675
-    id: cka6282ooyrpd0i78qpc02mxg
+    followers: 8160
+    engagement: 293
+    commentsToLikes: 0.067260
+    id: ckbfdf6ub6pif0j23t82e8vy9
     verified: false
-    hashtags: "#photoshop, #pretty, #shootwithiphone, #diyclothes"
-  - username: "chalkandcynno"
+    hashtags: "#miami, #bts, #fu, #florida"
+  - username: "natalieeab"
     fullname: >-
-      cyn
+      Natalie
+    bio: >-
+      renegade
     location: "United States"
-    followers: 13903
-    engagement: 1289
-    commentsToLikes: 0.009801
-    id: cka0ro40bhvbt0i78wgt94n1q
+    followers: 11600
+    engagement: 595
+    commentsToLikes: 0.031508
+    id: ck92whnluukxf0j787k6g32yv
     verified: false
-    hashtags: "#docband, #smooth, #cool, #artists"
-  - username: "pawcreate"
-    fullname: >-
-      PawCreate
-    location: "United States"
-    followers: 16109
-    engagement: 2314
-    commentsToLikes: 0.040179
-    id: ck8hrxp9fargu0j787p57ln5n
-    verified: false
-    hashtags: "#happymothersday, #doglover, #portrait, #petlove"
+    hashtags: "#umiami, #duet, #miami, #foundingfathers"
 ---

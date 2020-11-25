@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Italy In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Italy in 2020. Most popular hashtags: #homeworkout #training #squat #porridge.
+  Find top bodybuilding Instagram influencers in Italy in 2020. Most popular hashtags: #fitness #bodybuilding #workout.
 platform: Instagram
+hits: 219
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 219 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "valentina.fitmum"
+  - username: "max_veganfit"
     fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
+      Massimo Brunaccioni
+    bio: >-
+      ★ WNBF Pro Men’s Physique 🥇Men’s Physique World Champion ‘19 🌱 Vegan ☆ Fitness & nutrition coach ☆ Natural bodybuilding coach 📚Author VEGAN COACH
     location: "Italy"
-    followers: 6468
-    engagement: 1900
-    commentsToLikes: 0.244250
-    id: ck5zshjxzyibf0i14l9nnc87z
-    verified: false
-    hashtags: "#viaggio, #sportgirl, #fitbreakfast, #mare"
-  - username: "rita.mangino"
+    followers: 48336
+    engagement: 443
+    commentsToLikes: 0.028563
+    id: ck55nqzsp6srp0i11usfdcaq8
+    verified: true
+    hashtags: "#severomagiusto"
+  - username: "domenicodalterio_"
     fullname: >-
-      • ℛ𝒾𝓉𝒶 ℳ𝒶𝓃𝑔𝒾𝓃𝑜 •
+      💙Domenico Dalterio🖤
+    bio: >-
+      -Perché non seguirmi quando ti puoi fare✌️😂 -Napoletano doc💙 -Contact⬇️📤 -domenico.dalterio.1993@gmail.com -Bodybuilding🦾 -TikToker:10k💛 -Fotomodello🖤
     location: "Italy"
-    followers: 7173
-    engagement: 803
-    commentsToLikes: 0.079974
-    id: ck8t5kmd8aeqy0j78a12k8k7p
+    followers: 8365
+    engagement: 557
+    commentsToLikes: 0.066046
+    id: ckap0fzqqq40d0i78ftcna2xr
     verified: false
-    hashtags: "#lifestyle, #gymrat, #strong, #squatgirls"
+    hashtags: "#scattodelgiorno, #guardareavanti, #newpost, #sguardo"
   - username: "_.silvanina._"
     fullname: >-
       Silvia Vernelli
+    bio: >-
+      🇮🇹Cesena 💖BodyBuilding & Calisthenics 💪🏻@burningate | @umbertomiletto Staff 🦄Love Ispiring People 👩🏻‍💻Web Marketer | Copywriter 🎓Storia dell’Arte
     location: "Italy"
-    followers: 28136
-    engagement: 368
-    commentsToLikes: 0.026996
+    followers: 27184
+    engagement: 318
+    commentsToLikes: 0.026345
     id: ck13cz08w2u4u0i194haeuv6l
     verified: false
-    hashtags: "#growth, #skinthecat, #mima, #yogi"
-  - username: "lorenatiffanyy"
+    hashtags: "#outdoortraining, #stretching, #workout, #pet"
+  - username: "aresfavati"
     fullname: >-
-      Tiffany ✨
+      Ares Favati
+    bio: >-
+      🎤 Club Vocalist 🥊 Amateur Boxer 💪 Bodybuilding&Strength enthusiast 🎙 Song Writer&Singer 🗯 All around Nerd
     location: "Italy"
-    followers: 9562
-    engagement: 498
-    commentsToLikes: 0.022581
-    id: ckap2r28yzy3d0i785lo0gtdn
+    followers: 19698
+    engagement: 179
+    commentsToLikes: 0.023932
+    id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
-    hashtags: "#sabatosera, #fase2, #boredathome, #sorriso"
-  - username: "alicecocco_"
+    hashtags: ""
+  - username: "ilaria_panigara"
     fullname: >-
-      Alice Cocco
+      Ilaria 🍩
+    bio: >-
+      Milan, 23 Industrial chemistry 🧪 Fitness model ~ bodybuilding 🏋🏼‍♀️ Unimi 👩🏻‍🔬 Salsa y bachata dancer 💃🏻
     location: "Italy"
-    followers: 28823
-    engagement: 188
-    commentsToLikes: 0.015061
-    id: ckap9cpm2s4jm0i78fz9kjycn
+    followers: 4679
+    engagement: 309
+    commentsToLikes: 0.025449
+    id: ckf5urhm7m0ju0j23tknebydd
     verified: false
-    hashtags: "#squatgirls, #missu, #fotoricordo, #vitaminad"
-  - username: "vale.fit98"
-    fullname: >-
-      Valentina Gullo
-    location: "Italy"
-    followers: 30569
-    engagement: 376
-    commentsToLikes: 0.178322
-    id: ck0vv6k6hnrkb0i19pnuf5j5o
-    verified: false
-    hashtags: "#innovation, #advanced, #fattiincasa, #yogurtgreco"
-  - username: "fittastic_fit_fast_fun"
-    fullname: >-
-      FITTASTIC
-    location: "Italy"
-    followers: 6462
-    engagement: 885
-    commentsToLikes: 0.343944
-    id: ck5zkortxjvli0i14jswl0mk0
-    verified: false
-    hashtags: "#patata, #andr, #tortadimele, #waffle"
+    hashtags: ""
   - username: "fitness.world.italia"
     fullname: >-
       Fitness World Italia
+    bio: >-
+      🔝Consigli di esperti su allenamento, nutrizione e salute. 🏋🏻Fitness, bodybuilding, wellness. 📲Scrivici e commenta i post se hai domande e curiosità!
     location: "Italy"
-    followers: 55496
-    engagement: 343
-    commentsToLikes: 0.049187
+    followers: 57604
+    engagement: 267
+    commentsToLikes: 0.072927
     id: ckap1df1eu42s0i78rbnhi27z
     verified: false
-    hashtags: "#palestraacasa, #elasticifitness, #caffetime, #dietavegetariana"
+    hashtags: "#homeworkout, #coreworkout, #motivazionefitness, #palestra"
   - username: "motionmagazine_"
     fullname: >-
       Motion Magazine | مجله حرکت
+    bio: >-
+      رسانه تخصصی پرورش اندام #BodyBuilding #Fitness #Magazine #ClassicPhysique #Physique #Pro 👁‍🗨 @mohsenzakeri . 🔻🔻🔻
     location: "Italy"
-    followers: 209872
-    engagement: 125
-    commentsToLikes: 0.020715
+    followers: 213760
+    engagement: 155
+    commentsToLikes: 0.016255
     id: ck5q2q26ph8r80i110lhoqbx6
     verified: false
-    hashtags: "#motivation, #focus, #mindset, #nicolasvullioud"
+    hashtags: "#bodybuilding, #fitness, #motionmagazine, #huge"
   - username: "antonio.pt"
     fullname: >-
       Antonio Germano PT ONLINE
+    bio: >-
+      𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗢𝗔𝗖𝗛𝗜𝗡𝗚 Personal Trainer 🎓Dott. Scienze Motorie 💪Personal Trainer FIPE 💪Fitness Bodybuilding CSEN @prozisitalia AGERMANO10 Programma Glutei👇
     location: "Italy"
     followers: 19353
     engagement: 393
     commentsToLikes: 0.106754
     id: ck6tu3lgje3ur0j711os2mjo0
     verified: false
-    hashtags: "#pancakegourmet, #panino, #pizza, #kindercereali"
+    hashtags: "#iorestoacasa, #personaltrainer, #fitnessitalia, #cambiamentofisico"
+  - username: "manuel_caruso_calisthenics"
+    fullname: >-
+      Manuel Caruso
+    bio: >-
+      🤸‍♂️Trainer & performer ✒️Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
+    location: "Italy"
+    followers: 64648
+    engagement: 1596
+    commentsToLikes: 0.128524
+    id: ck14jwjg0mjq00i19kj845qvh
+    verified: false
+    hashtags: "#power, #alimentazionesanana, #pullups, #muscle"
+  - username: "bonettimirko"
+    fullname: >-
+      Mirko Bonetti
+    bio: >-
+      🦁 Brescia 🇮🇹 Italian 🏋 Fit Life 🎶🎧 Music Per collaborazioni: 📧 mirko.bonetti1613@gmail.com
+    location: "Italy"
+    followers: 15513
+    engagement: 885
+    commentsToLikes: 0.199096
+    id: ck134zf9uyy1b0i19nnsolon2
+    verified: false
+    hashtags: "#maniereitaliane, #madeinitaly, #hotelmorgana, #love"
 ---

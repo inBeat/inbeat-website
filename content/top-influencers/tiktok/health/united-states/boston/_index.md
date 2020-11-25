@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Boston In 2020
 description: >-
-  Find top health TikTok influencers in Boston in 2020. Most popular hashtags: #health #boston #healthy #coronavirus.
+  Find top health TikTok influencers in Boston in 2020. Most popular hashtags: #fyp #boston #massachusetts #food.
 platform: TikTok
+hits: 22
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 22 TikTok influencers like this in Boston, United States for you to contact.
 profiles:
   - username: "jamesdeveney"
     fullname: >-
       James Deveney
+    bio: >-
+      Hot-Takes | Always Yelling Co-Host of 🔥Raiders of the Lost Podcast🔥
     location: "United States"
-    followers: 66642
-    engagement: 1381
-    commentsToLikes: 0.041553
+    followers: 82900
+    engagement: 1286
+    commentsToLikes: 0.053873
     id: ck8hrxj8zaq0q0j78hi4qudcf
     verified: false
-    hashtags: "#addiction, #family, #workout, #england"
-  - username: "thatdumbhomo69"
+    hashtags: "#cnn, #fox, #fyp, #boston"
+  - username: "scottfreda"
     fullname: >-
-      Sus🏳️‍🌈
+      Scott Freda
+    bio: >-
+      👨🏻‍💼Health 🤵🏻Model 🗣Comedian 🥃Alcoholic🦸‍♂️World Class Sprinter
     location: "United States"
-    followers: 92702
-    engagement: 1426
-    commentsToLikes: 0.012871
-    id: ck81q9hccgzw20j783z69zlno
+    followers: 95700
+    engagement: 312
+    commentsToLikes: 0.410069
+    id: ckd6kc6ewdrb00j23wfmra84z
     verified: false
-    hashtags: "#friends, #imisscollege, #catnoise, #school"
-  - username: "syattfitness"
+    hashtags: "#marriage, #single, #mom, #soouse"
+  - username: "gabriellasorrento"
     fullname: >-
-      Jordan Syatt
+      Gabriella 
+    bio: >-
+      Healthy Recipes. Healthy Food/Product Reviews. CEO of Coffee. Italian 🇮🇹
     location: "United States"
-    followers: 34315
-    engagement: 818
-    commentsToLikes: 0.023467
-    id: cka0qzkgmert70i78v4tmoi3g
+    followers: 2784
+    engagement: 698
+    commentsToLikes: 0.029137
+    id: ck9fxr7ik7vp90j78t0q6z3xa
     verified: false
-    hashtags: "#sweetpotatoes, #caloriecounting, #pushups, #bodybuiling"
-  - username: "telamordancesquad"
+    hashtags: "#kitchen, #fyp, #duet, #food"
+  - username: "reggiieveggie"
     fullname: >-
-      Jack
+      Queen
+    bio: >-
+      NYC millennial Created due to boredom in quarantine & now I’m addicted
     location: "United States"
-    followers: 7008
-    engagement: 412
-    commentsToLikes: 0.025818
-    id: ck9fwqroq2fj20j78fh9crnio
+    followers: 27900
+    engagement: 618
+    commentsToLikes: 0.167458
+    id: ckc7b3ngnkq8r0j2322i9znke
     verified: false
-    hashtags: "#lifestyle, #puppies, #happy, #onlineshopping"
-  - username: "kaylindax"
+    hashtags: "#ghostmode, #foryou, #fyp, #foryoupage"
+  - username: "easyveganrecipes"
     fullname: >-
-      ✨Kaylinda✨
+      Rach
+    bio: >-
+      Founder @boiebar My podcast on how to go vegan linked below⬇️
     location: "United States"
-    followers: 25079
-    engagement: 373
-    commentsToLikes: 0.028667
-    id: ck9vf0veg19vm0j78r9lfcjij
+    followers: 18700
+    engagement: 967
+    commentsToLikes: 0.021129
+    id: ckb9o6jauie2z0j23lv49b75g
     verified: false
-    hashtags: "#drake, #xyzcba, #boys, #mexicanrice"
-  - username: "iheartpink214"
+    hashtags: "#veganlife, #veganfoodie, #vegans, #veganfood"
+  - username: "twotastebuddiez"
     fullname: >-
-      Raneé Araby
+      twotastebuddiez
+    bio: >-
+      Maddie & Rachel follow us on ig! @twotastebuddiez twotastebuddiez@gmail.com
     location: "United States"
-    followers: 33160
-    engagement: 877
-    commentsToLikes: 0.076428
-    id: ck9jzl28z9aq60j78d8qx8se4
+    followers: 18000
+    engagement: 849
+    commentsToLikes: 0.029520
+    id: ckc8iuk5dcdkk0j23706jahtf
     verified: false
-    hashtags: "#youreamazing, #2020, #dance, #pizza"
+    hashtags: "#fun, #brunch, #bostonfood, #restaurant"
+  - username: "pleasemarrymeharrystyles"
+    fullname: >-
+      ksngkgkskst
+    bio: >-
+      
+    location: "United States"
+    followers: 0
+    engagement: 1310
+    commentsToLikes: 0.038069
+    id: ckd0yvdn9lgd50j23vqndqjtb
+    verified: false
+    hashtags: "#zoom, #weightlossprogress, #onedirection, #harrystyles"
+  - username: "kenna2_97"
+    fullname: >-
+      Kim Juniah
+    bio: >-
+      grad school. aquariums. tea. muderino. pet mom. Boston. 23.
+    location: "United States"
+    followers: 3334
+    engagement: 2031
+    commentsToLikes: 0.022336
+    id: ckcjbh9768yhw0j23ff2l9fzi
+    verified: false
+    hashtags: "#fyp, #funny, #fy, #saynotothis"
   - username: "sophsmcgophs"
     fullname: >-
       sophia
+    bio: >-
+      teacher of small friends 🌼 📍boston, ma
     location: "United States"
-    followers: 6611
-    engagement: 985
-    commentsToLikes: 0.008784
+    followers: 6717
+    engagement: 1145
+    commentsToLikes: 0.005772
     id: ck83zu9p934k10j789mqdocie
     verified: false
-    hashtags: "#lifeathomequiz, #blanketlife, #healthy, #brazilian"
-  - username: "soniakkaradaqi"
+    hashtags: "#decadesofhair, #fyp, #massachusetts, #teacher"
+  - username: "tieriayu"
     fullname: >-
-      Sonia karadaqi 
+      Tieriayu
+    bio: >-
+      Be Safe Be Kind Be Healthy
     location: "United States"
-    followers: 11142
-    engagement: 1285
-    commentsToLikes: 0.016241
-    id: ck8z2oria68zr0j78e6uz5mds
+    followers: 29200
+    engagement: 554
+    commentsToLikes: 0.021903
+    id: ck9f22b31b60f0j7867mvb3ld
     verified: false
-    hashtags: "#foodlover, #stayathome, #nailgoals, #polygel"
-  - username: "likethesealion"
-    fullname: >-
-      a seal
-    location: "United States"
-    followers: 46828
-    engagement: 3166
-    commentsToLikes: 0.024215
-    id: ck9k05db5bi9z0j78kagq90qq
-    verified: false
-    hashtags: "#drawing, #puns, #college, #indoorworkout"
-  - username: "chelseaonair"
-    fullname: >-
-      ChelseaOnAir
-    location: "United States"
-    followers: 2752
-    engagement: 576
-    commentsToLikes: 0.033181
-    id: ck9dr1rst28nm0j78wklo1lpz
-    verified: false
-    hashtags: "#snow, #stop, #whatthefuc, #instagram"
+    hashtags: "#virtual, #fireworks2020, #boston, #mfa"
 ---

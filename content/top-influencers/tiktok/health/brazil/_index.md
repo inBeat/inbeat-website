@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Brazil In 2020
 description: >-
-  Find top health TikTok influencers in Brazil in 2020. Most popular hashtags: #healthy #brasil #quarentena #fitness.
+  Find top health TikTok influencers in Brazil in 2020. Most popular hashtags: #fitness #healthy #fy #health.
 platform: TikTok
+hits: 56
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 56 TikTok influencers like this in Brazil for you to contact.
 profiles:
-  - username: "limelchert"
+  - username: "thais_health"
     fullname: >-
-      Lilian Melchert
+      THAIS R FIGUEIREDO
+    bio: >-
+      Personal Trainer - USP 🥇 Nutritionist 🍷 Best Trainer Instagram @thais_health
     location: "Brazil"
-    followers: 529088
-    engagement: 1980
-    commentsToLikes: 0.008112
-    id: ck8z5ykxljvry0j78a4xke3mw
-    verified: true
-    hashtags: "#desert, #fitness, #ovni, #barulhonoceu"
-  - username: "sergiobertoluci"
-    fullname: >-
-      sergiobertoluci
-    location: "Brazil"
-    followers: 27841
-    engagement: 484
-    commentsToLikes: 0.008687
-    id: ck930jop7b36f0j78jo8k359x
+    followers: 164100
+    engagement: 528
+    commentsToLikes: 0.011419
+    id: ckc8318q43o0y0j23dh3x7nlk
     verified: false
-    hashtags: "#ficaadica, #familyfitness, #pull, #woodworking"
+    hashtags: "#treinodeverdade, #treinoemcasa, #fitness, #emagrecimento"
+  - username: "incondicionall"
+    fullname: >-
+      🍐
+    bio: >-
+      um poquinho de tudo que gosto um poquinho de mim
+    location: "Brazil"
+    followers: 110300
+    engagement: 207
+    commentsToLikes: 0.040495
+    id: ckbf53lx2tu8e0j231a9ves31
+    verified: false
+    hashtags: "#gym, #emagrecimentocerto, #instagoog, #saudealimentar"
+  - username: "vsco._aesthetic_._"
+    fullname: >-
+      Rotinas e receitas✨
+    bio: >-
+      Obrigado pelos 44k✨ Flopada 🇧🇷 🇮🇹
+    location: "Brazil"
+    followers: 46400
+    engagement: 1920
+    commentsToLikes: 0.016780
+    id: ckb1329zdr8660j23aymam3a0
+    verified: false
+    hashtags: "#fy, #foryoupage, #aesthetic, #healthy"
+  - username: "vivienandrade"
+    fullname: >-
+      Vivien Andrade
+    bio: >-
+      Follow me too on Instagram @vivienandrade Me siga tb no Instagram @vivienandrade
+    location: "Brazil"
+    followers: 56800
+    engagement: 758
+    commentsToLikes: 0.039911
+    id: ck9gnt7xjy0a70j78fz465dg8
+    verified: false
+    hashtags: "#riodejaneiro, #workout, #makemefamous, #fortnite"
+  - username: "vicenzo013official"
+    fullname: >-
+      Vicenzo Henrique
+    bio: >-
+      ➡️Emagrecimento 💪 ➡️COMIDA/RECEITA/TREINO 133kg🔓128kg🔓124kg🔐 🔥Meta:100Kg🔥
+    location: "Brazil"
+    followers: 22200
+    engagement: 758
+    commentsToLikes: 0.028820
+    id: ckav7mcmmenqw0j23w41q2is9
+    verified: false
+    hashtags: "#fitness, #lifestyle, #healthy, #foodblogger"
   - username: "priscillapaderni"
     fullname: >-
       Pripaderni
+    bio: >-
+      Lifestyle - siga no Instagram @pripaderni
     location: "Brazil"
     followers: 129259
     engagement: 519
     commentsToLikes: 0.012137
     id: ck8vxll5prfkn0j78ufoegega
     verified: false
-    hashtags: "#emcasa, #pomeranian, #bemestar, #meupet"
+    hashtags: "#tiktoklover, #bomdia, #health, #invertidas"
   - username: "babibroska"
     fullname: >-
       BabiBroska
+    bio: >-
+      Ex Fat | Fitness Influencer | Malhe em Casa
     location: "Brazil"
     followers: 85479
     engagement: 347
     commentsToLikes: 0.011300
     id: ck930jvvsb4op0j78glbfb13u
     verified: false
-    hashtags: "#bike, #rider, #tiktok, #missyou"
+    hashtags: "#tips, #show, #felizemcasa, #yoga"
+  - username: "anderson_duarte43"
+    fullname: >-
+      Anderson Duarte
+    bio: >-
+      SEJA SEU PRÓPRIO INCENTIVO 🙋🏻‍♂️ Live de Segunda a sexta feira ás 22hs
+    location: "Brazil"
+    followers: 31100
+    engagement: 3931
+    commentsToLikes: 0.872423
+    id: ckdnu5jxumot40j236pe5xi1g
+    verified: false
+    hashtags: "#dan, #daniel, #dublagem, #teixeirinhaemaryterezinha"
   - username: "derleynarciso"
     fullname: >-
       Vanderley Narciso
+    bio: >-
+      SEGUE QUE SIGO DE VOLTA❤
     location: "Brazil"
-    followers: 3391
-    engagement: 3337
-    commentsToLikes: 0.050622
+    followers: 5004
+    engagement: 3145
+    commentsToLikes: 0.082252
     id: cka0gdok93yg00i78fvs92v6e
     verified: false
-    hashtags: "#amodaantiga, #meprometequevoc, #infancia, #220fans"
-  - username: "vivienandrade"
+    hashtags: "#negrobrasil, #dueto, #branco, #like"
+  - username: "alessandra.ressam"
     fullname: >-
-      Vivien Andrade
+      alessandraressam_nut
+    bio: >-
+      Instagram 👆🏻 ✨Seja como o sol, tenha luz própria. ✨
     location: "Brazil"
-    followers: 52835
-    engagement: 579
-    commentsToLikes: 0.038733
-    id: ck9gnt7xjy0a70j78fz465dg8
+    followers: 3247
+    engagement: 856
+    commentsToLikes: 0.171162
+    id: cka8h9xwua1rm0i78jjmghyi0
     verified: false
-    hashtags: "#fergie, #boredinthehouse, #pushups, #pushupchallenge"
-  - username: "laura.spindler"
-    fullname: >-
-      Laura Spindler 🇧🇷🌊
-    location: "Brazil"
-    followers: 21152
-    engagement: 1423
-    commentsToLikes: 0.028985
-    id: ck8saar921d1j0j7814szoi65
-    verified: false
-    hashtags: "#sheinhaul, #bored, #ovodecolher, #recipe"
-  - username: "thiagobtelles"
-    fullname: >-
-      Thiago B. Telles
-    location: "Brazil"
-    followers: 6733
-    engagement: 426
-    commentsToLikes: 0.064436
-    id: ck81qz5z7l4l00j78h67fj4ch
-    verified: false
-    hashtags: "#pretty, #biology, #secret, #fitness"
-  - username: "henriquearmelin"
-    fullname: >-
-      Henrique Armelin
-    location: "Brazil"
-    followers: 10835
-    engagement: 1209
-    commentsToLikes: 0.030195
-    id: ck9n6ufse7eht0j78y2htuqnq
-    verified: false
-    hashtags: "#brainstorm, #banhogelado, #flavioaugusto, #medo"
-  - username: "zueiraprofunda"
-    fullname: >-
-      Zueira Profunda
-    location: "Brazil"
-    followers: 10147
-    engagement: 950
-    commentsToLikes: 0.011745
-    id: ckaibrc7mhlr40i78f1zpgzl9
-    verified: false
-    hashtags: "#dessejeito, #pool, #mandela, #boanoite"
+    hashtags: "#viral, #comedy, #foryou, #humor"
 ---

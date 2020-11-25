@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Greece In 2020
 description: >-
-  Find top models Instagram influencers in Greece in 2020. Most popular hashtags: #portrait #stayhome #giveaway #sunnyday.
+  Find top models Instagram influencers in Greece in 2020. Most popular hashtags: #giveaway #summer #smile.
 platform: Instagram
+hits: 211
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 211 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "eva_basi"
+  - username: "gabriela.prisacariu"
     fullname: >-
-      Eva Basi 🐅
+      Gabriela Prisacariu 🙈🙊💃🐒
+    bio: >-
+      Model
     location: "Greece"
-    followers: 38918
-    engagement: 578
-    commentsToLikes: 0.093571
-    id: ck5q40sfqn8fz0i11swey2z4q
+    followers: 92112
+    engagement: 468
+    commentsToLikes: 0.005001
+    id: ck5qej2bi0qh40i11uziu4pta
     verified: false
-    hashtags: "#sundayvibes, #people, #tigersoulneverstops, #gymlife"
-  - username: "pavlos_terzopoulos"
+    hashtags: "#goodmorning, #moodoftheday, #shootingday, #morning"
+  - username: "harapappa"
     fullname: >-
-      Pavlos Terzopoulos
+      Hara Pappa
+    bio: >-
+      🤘🏼 Freelance Model Final 5 - GNTM2
     location: "Greece"
-    followers: 72932
-    engagement: 517
-    commentsToLikes: 0.125230
-    id: ck5zkgdvzjfmw0i14dir6zotg
+    followers: 138366
+    engagement: 1831
+    commentsToLikes: 0.096567
+    id: ck5qel6y610mx0i11r6xadccg
     verified: false
-    hashtags: "#giveaway, #styleinspo, #cooligan, #nofilter"
+    hashtags: "#26thbirthday, #bobbibrown, #confidentbeauty, #quarantinelife"
   - username: "dkarabassi"
     fullname: >-
-      Δήμητρα-Ιοκάστη Καραμπάση
+      Δήμητρα-Ιοκάστη Καραμπάση
+    bio: >-
+      freelance model ▪️Athens-Volos 🖊Marketing and Communications
     location: "Greece"
-    followers: 37355
-    engagement: 1893
-    commentsToLikes: 0.035845
+    followers: 39533
+    engagement: 1630
+    commentsToLikes: 0.191652
     id: ck5q2tbz0hptq0i11026glmw1
     verified: false
-    hashtags: ""
-  - username: "maria_louiza_real"
+    hashtags: "#stefan, #femmeforstefan"
+  - username: "anna_amanatidou"
     fullname: >-
-      Maria Louiza Vourou
+      Anna Amanatidou
+    bio: >-
+      Model Ⅰ Influencer | Youtuber GNTM GIRL - Final 4-❤️ 💌Collaborations :annasfashionworld@hotmail.com Youtube : Anna Amanatidou ! 🎥🎥⤵️
     location: "Greece"
-    followers: 64125
-    engagement: 277
-    commentsToLikes: 0.100118
-    id: ck55n9iwk5quk0i11bdztjjlt
-    verified: false
-    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
-  - username: "elion_ang"
+    followers: 205799
+    engagement: 1317
+    commentsToLikes: 0.067449
+    id: ck5pvimm2i1zd0i11zf8dm1rh
+    verified: true
+    hashtags: "#instaphoto, #instagood, #ootd, #styleinspiration"
+  - username: "madogasteratou"
     fullname: >-
-      Elizabeth Ainatzoglou Official
+      MADARA CHANNEL❤️
+    bio: >-
+      📺TV presenter 🎧Radio producer @rythmos949fm 👙Model @ace_models_athens ✍journalist @all4mamagr ♥️Youtuber M🥰A😁D🤣A🥴R😋A CHANNEL
     location: "Greece"
-    followers: 97723
-    engagement: 386
-    commentsToLikes: 0.030708
-    id: ck6tv1jkzjn3q0j71czyuj0pa
+    followers: 204281
+    engagement: 577
+    commentsToLikes: 0.281622
+    id: ck0vv3okdneb40i193b6vtgnu
     verified: false
-    hashtags: "#noexcuses, #nodaysoff, #beauty, #myproteingr"
+    hashtags: "#happymoments, #oursmileisourstrength, #quarantine, #ad"
+  - username: "athinaki_mou"
+    fullname: >-
+      Athina Mourkousi Skotida
+    bio: >-
+      ☆BE.YOU.TIFUL by Athina☆ ▪Check my YouTube Channel▪👑🎥🎬💖 💄Professional MakeUp Artist / 💎model / Image Maker ⬇️NEW BE.YOU.TIFUL VIDEO⬇️
+    location: "Greece"
+    followers: 39843
+    engagement: 1238
+    commentsToLikes: 0.042143
+    id: ckaosoybrsfmj0i785qyxc8y0
+    verified: false
+    hashtags: "#bigsmile, #love, #longhair, #vacation"
   - username: "medicinallyblonde"
     fullname: >-
       Melina Baltogianni
+    bio: >-
+      I am 𝓜𝓮𝓭𝓲𝓬𝓲𝓷𝓪𝓵𝓵𝔂 𝓑𝓵𝓸𝓷𝓭𝓮 I am a Model 💁🏼‍♀️ I am a Blogger 👑 I am a Med student 💉 I am a feminist 🏳️‍🌈 Ath-Skg 🇬🇷 & Rome 🇮🇹 @nolimitsmodelsagency
     location: "Greece"
-    followers: 4141
-    engagement: 1532
-    commentsToLikes: 0.120143
+    followers: 5923
+    engagement: 2209
+    commentsToLikes: 0.106042
     id: ck5zkfyzfjerb0i14efdmms4w
     verified: false
-    hashtags: "#laracroft, #classy, #blackshirt, #rocks"
-  - username: "ilianapapageorgiou"
+    hashtags: "#sun, #hot, #photoshoot, #capri"
+  - username: "dimitraalexandraki1"
     fullname: >-
-      ILIANA PAPAGEORGIOU
+      Δήμητρα Αλεξανδράκη
+    bio: >-
+      Miss Greece 2010 Greece Next Top Model Happy Drama Queen ▼ TikTok
     location: "Greece"
-    followers: 507152
-    engagement: 1283
-    commentsToLikes: 0.008863
-    id: ck55lkxd81tc60i11uumkv3ke
+    followers: 301855
+    engagement: 1144
+    commentsToLikes: 0.234278
+    id: ck6tv1nowjnsu0j71zqwa3ipy
     verified: true
-    hashtags: "#wecandothis, #teamgalaxy, #supportmazi, #nyc"
-  - username: "annamaria_iliadou"
+    hashtags: "#dirty30, #july13"
+  - username: "angelaevripidi"
     fullname: >-
-      Anna Maria Iliadou
+      𝐴𝑛𝑔𝑒𝑙𝑎  𝐸𝑣𝑟𝑖𝑝𝑖𝑑𝑖
+    bio: >-
+      🔺Brand Creative Director 🔺Host, Model & Instalover 𝘚𝘦𝘦 𝘵𝘩𝘦 𝘸𝘰𝘳𝘭𝘥 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘮𝘺 𝘦𝘺𝘦𝘴😍 𝘈𝘭𝘭 𝘺𝘰𝘶 𝘯𝘦𝘦𝘥 𝘪𝘴 𝘵𝘳𝘢𝘷𝘦𝘭 𝘢𝘯𝘥 𝘱𝘭𝘢𝘺 𝘣𝘦𝘢𝘤𝘩 𝘷𝘰𝘭𝘭𝘦𝘺😁
     location: "Greece"
-    followers: 184194
-    engagement: 3208
-    commentsToLikes: 0.009449
-    id: ck5bz10viq8h90i11q9cc99on
+    followers: 12969
+    engagement: 885
+    commentsToLikes: 0.594025
+    id: ck6tioqif14lc0j71i5rdqv5m
     verified: false
-    hashtags: "#deer, #summer, #dustandcream, #beautyismyplayground"
-  - username: "eirini_sterianou"
+    hashtags: "#giveawaygreece, #marianshoes, #shoes, #giveaway"
+  - username: "rozana_koutsoukou"
     fullname: >-
-      Ειρήνη Στεριανού 🧿
+      Rozana Koutsoukou
+    bio: >-
+      Greek / English ✨ •Part of Greece's next top model 2018• Mykonos
     location: "Greece"
-    followers: 100027
-    engagement: 952
-    commentsToLikes: 0.026525
-    id: ck5hgqhcn478b0i11wjp15f46
-    verified: true
-    hashtags: "#myblugreenapple, #summer2017, #island, #staybeautiful"
-  - username: "cleopatra_black"
-    fullname: >-
-      ▪️Cleopatra Lagouvardou ▫️
-    location: "Greece"
-    followers: 26044
-    engagement: 203
-    commentsToLikes: 0.458507
-    id: ckaorbvdxmlmy0i78odbabsjt
+    followers: 54717
+    engagement: 830
+    commentsToLikes: 0.061980
+    id: ck5hkensqiaiq0i118tg63gwk
     verified: false
-    hashtags: "#giveaway, #giveawaysgr, #slowmotion, #nature"
+    hashtags: "#myfrezyderm, #belle, #blackandwhitephotograpy, #portrait"
 ---

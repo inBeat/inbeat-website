@@ -1,12 +1,17 @@
 ---
 title: Top 10 Bmx Instagram Influencers In United States In 2020
 description: >-
-  Find top bmx Instagram influencers in United States in 2020. Most popular hashtags: #street #bmxtrails #nycbikes #neverhappened.
+  Find top bmx Instagram influencers in United States in 2020. Most popular hashtags: #bmx #bikes #bikelife #bmxlife.
 platform: Instagram
+hits: 545
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 545 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "domsimoncini"
     fullname: >-
       Dominick Simoncini
+    bio: >-
+      BMX!
     location: "United States"
     followers: 112729
     engagement: 279
@@ -17,91 +22,109 @@ profiles:
   - username: "bmx"
     fullname: >-
       Our BMX
+    bio: >-
+      BMX is tight. We update ourbmx.com with the best of BMX and you can sub to our YouTube by clicking ⬇️⬇️
     location: "United States"
     followers: 114657
     engagement: 283
     commentsToLikes: 0.009920
     id: ck0ttexcs2f5p0i19li005vri
     verified: false
-    hashtags: "#forks, #bmxforks, #sourcespotlight, #pedals"
-  - username: "willgrant"
+    hashtags: "#bmx, #ourbmx, #sourcebmx, #forks"
+  - username: "abmxiclerider"
     fullname: >-
-      Will Grant
+      Jay Dalton
+    bio: >-
+      A-BMX-icle-rider My name is Jay and I ride small bikes. Contact: jaydaltonbmx@gmail.com
     location: "United States"
-    followers: 94939
-    engagement: 295
-    commentsToLikes: 0.017552
-    id: ck0vzu25pawks0i19y30zmck1
+    followers: 52464
+    engagement: 894
+    commentsToLikes: 0.015831
+    id: ck5c1j67pva9h0i116egl625j
     verified: false
-    hashtags: "#permaculture, #corsacrew, #nofilter, #mightdeletelater"
+    hashtags: "#bmx, #streetasheck, #mx, #ididntcasethatjumpinthefirstclipandsubluxmyshoulder"
+  - username: "beast_marotta"
+    fullname: >-
+      Antonio Marotta
+    bio: >-
+      BMX for fun😎 Street,Park,Dirt @subrosabrand @theshadowconspiracy @shadowridinggear @jtracingusa @rogue_east @_bostonbmx
+    location: "United States"
+    followers: 7271
+    engagement: 932
+    commentsToLikes: 0.050849
+    id: ck5cb7lbbew4f0i11jjv7tevw
+    verified: false
+    hashtags: "#newengland, #theshadowconspiracy, #subrosabrand, #ridebmx"
   - username: "d_niiiccceee"
     fullname: >-
       Dimitri McCombs
+    bio: >-
+      @ethikbmx 21 | #bmx 🚲 💨| ride hard, crash harder
     location: "United States"
-    followers: 12778
-    engagement: 554
-    commentsToLikes: 0.039105
+    followers: 12742
+    engagement: 701
+    commentsToLikes: 0.040977
     id: ck55lhelm1km70i11syn2ha7e
     verified: false
-    hashtags: "#albanyny, #miniflip, #blue, #albanystreets"
+    hashtags: "#ethikbmx, #fullsend, #tireride, #bikes"
+  - username: "jonathancamachobmx"
+    fullname: >-
+      Camacho
+    bio: >-
+      BMX Rider / I ❤ traveling around the world representing everyone's dream 🚲🌏✈️ 🇪🇨sponsor: @monsterenergy @vansecuador @vansbmx66 Travel 💛💙❤️
+    location: "United States"
+    followers: 44702
+    engagement: 534
+    commentsToLikes: 0.012772
+    id: ck55l9ijf12e20i11cymoecse
+    verified: false
+    hashtags: "#cool, #bikelife, #vansecuador, #love"
+  - username: "coletesar"
+    fullname: >-
+      Cole Tesar
+    bio: >-
+      Professional BMX racer for @zeronineofficial TikTok Cole.tesar
+    location: "United States"
+    followers: 11684
+    engagement: 680
+    commentsToLikes: 0.022763
+    id: ck0vzu5zhax1y0i19busw4nd4
+    verified: false
+    hashtags: "#athletictraining, #bmxlife, #bmxracing, #performancetraining"
   - username: "jorisdaudet33"
     fullname: >-
       Joris Daudet
+    bio: >-
+      Pro BMX Racer supported by Chase bicycle / Redbull . 3x USA BMX #1 Pro 🥇 . 2x Elite Men World Champion 🥇 . 2x Olympian
     location: "United States"
-    followers: 50961
-    engagement: 636
-    commentsToLikes: 0.004754
+    followers: 52648
+    engagement: 540
+    commentsToLikes: 0.003899
     id: ck0twxqrth74a0i190l8k0x72
     verified: true
-    hashtags: "#fbf, #2036, #33, #tbt"
-  - username: "krobbmx"
+    hashtags: "#veerhalloween"
+  - username: "ronniesurridge"
     fullname: >-
-      Kevin Robinson
+      Ronnie Surridge
+    bio: >-
+      Professional Bmx Rider. Semi Professional Rolex Dealer. 🇬🇧-🇺🇸
     location: "United States"
-    followers: 17373
-    engagement: 1093
-    commentsToLikes: 0.076622
-    id: ck5hdjgunnr0r0i112vgoai22
+    followers: 64641
+    engagement: 212
+    commentsToLikes: 0.009651
+    id: ck0tyc97lme060i19futntve1
     verified: false
-    hashtags: "#happybirthday, #dougpaiva, #oneprouddad, #blackrockschool"
-  - username: "metalcomedy"
+    hashtags: "#happybirthday, #desert, #goprouk, #bmx"
+  - username: "matthieu.lifestyle"
     fullname: >-
-      Blayne Smith
+      Matthieu
+    bio: >-
+      🇫🇷 25 yo Lifestyle 🌍 Cliff Diving 💧 Street workout 🤸‍♂️ Bmx & moto rider 🚲🏍
     location: "United States"
-    followers: 7893
-    engagement: 1073
-    commentsToLikes: 0.034732
-    id: ck0vv9ps1o66h0i196flqozji
+    followers: 8524
+    engagement: 866
+    commentsToLikes: 0.052331
+    id: ck8tdhbfu3b490j78n9rk31vi
     verified: false
-    hashtags: ""
-  - username: "mccreaisaac"
-    fullname: >-
-      Isaac McCrea
-    location: "United States"
-    followers: 2368
-    engagement: 1739
-    commentsToLikes: 0.056850
-    id: ck0twm841fvlp0i19jj51f70o
-    verified: false
-    hashtags: "#bmxnumberplatechallenge, #homeofthebrave, #sorryifimissedyou, #freestieg"
-  - username: "rachjones58"
-    fullname: >-
-      Rachel Jones
-    location: "United States"
-    followers: 8704
-    engagement: 1035
-    commentsToLikes: 0.014841
-    id: ck0ueg73blbc40i195tugllgi
-    verified: false
-    hashtags: "#happyfallyall, #turkey, #welivethis, #internationalwomensday"
-  - username: "brad_simms"
-    fullname: >-
-      Brad Simms
-    location: "United States"
-    followers: 192549
-    engagement: 757
-    commentsToLikes: 0.020152
-    id: ck5bufx2lhpen0i119nup1yhm
-    verified: true
-    hashtags: "#easter, #realbmx, #vscocam, #loveislove"
+    hashtags: "#buildupdevs, #buildtheweb, #codinglife, #devhero"
 ---

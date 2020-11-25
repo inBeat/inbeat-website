@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Manchester In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Manchester in 2020. Most popular hashtags: #manchester #casualstyle #foodblogger #photography.
+  Find top lifestyle Instagram influencers in Manchester in 2020. Most popular hashtags: #lifestyle #fashion #manchester #instagood.
 platform: Instagram
+hits: 55
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 55 Instagram influencers like this in Manchester, United Kingdom for you to contact.
 profiles:
+  - username: "kirsty_and_the_girls"
+    fullname: >-
+      Kirsty_and_the_girls
+    bio: >-
+      ▫️TWIN MUM | P L U S O N E 🤍Lottie ➿Florence ➿Penelope ⚪️#Family | #Lifestyle | #Motherhood 🏳️Manchester | UK
+    location: "United Kingdom"
+    followers: 17695
+    engagement: 406
+    commentsToLikes: 0.049245
+    id: ck5c95lajatfh0i111kecp2ki
+    verified: false
+    hashtags: "#vetsquad, #bestiesforever, #makingmemories, #smartrike"
+  - username: "seejay100music"
+    fullname: >-
+      SEEJAY100 🇬🇧🇬🇲🇯🇲 CadsWorld❤️🌹
+    bio: >-
+      snap Call_Me100 | Bookings/Enquiries - seejay100managment@gmail.com | GO RUN UP MY JOINTS ON SPOTIFY AND FOLLOW ME
+    location: "United Kingdom"
+    followers: 11107
+    engagement: 613
+    commentsToLikes: 0.086830
+    id: ck0tu4mln5m340i192zwacr5j
+    verified: true
+    hashtags: "#cadsworld, #theratedlegend, #alicante, #sundayvibes"
+  - username: "zaraburfitt_"
+    fullname: >-
+      𝐙𝐀𝐑𝐀
+    bio: >-
+      📍 Manchester / London model, lifestyle & travel | 19yrs @jadoremodelsmcr @independent_mgmt @theface.models kinga@jadoremodels.co.uk
+    location: "United Kingdom"
+    followers: 14060
+    engagement: 307
+    commentsToLikes: 0.033589
+    id: ck5hgg1y32kvx0i11ugbmwhxf
+    verified: false
+    hashtags: "#nastygal, #blonde, #nastygalsdoitbetter, #prettylittlething"
+  - username: "andrewdwheatcroft"
+    fullname: >-
+      Andrew Wheatcroft
+    bio: >-
+      • Unapologetically Unfiltered • Skincare // Lifestyle // Mental Health Warrior • Manchester, U.K. 📍 • MGMT 💌 Emma@thegoodegg.co.uk
+    location: "United Kingdom"
+    followers: 16519
+    engagement: 604
+    commentsToLikes: 0.344032
+    id: ck15pynii0abb0i19z79hmz2s
+    verified: false
+    hashtags: "#positivevibes, #lifestyleblogger, #mentalhealth, #skincareproducts"
+  - username: "atiekomerc"
+    fullname: >-
+      KATIE COMER
+    bio: >-
+      🌻Model and History Student 🌸MA @jadoremodelsmcr 🍄MIAMI @nextmodels keshia@jadoremodels.co.uk
+    location: "United Kingdom"
+    followers: 8571
+    engagement: 1210
+    commentsToLikes: 0.036942
+    id: ck14jbn82jiv30i19j81el2z6
+    verified: false
+    hashtags: "#makeup, #hair, #mermaidwaves, #model"
+  - username: "iam.keylaa"
+    fullname: >-
+      Keyla Rodrigues ♡
+    bio: >-
+      Beauty-Lifestyle Brazil | Spain | Living in Manchester APMgirls @apmmonaco
+    location: "United Kingdom"
+    followers: 93104
+    engagement: 105
+    commentsToLikes: 0.052885
+    id: ck139dg1nkrkf0i19ycc84hkx
+    verified: false
+    hashtags: "#apmonaco, #nails, #whitetiger, #apmgils"
   - username: "itsbenwalker"
     fullname: >-
       𝐁𝐄𝐍 𝐖𝐀𝐋𝐊𝐄𝐑
+    bio: >-
+      📍 24 | ♌︎ | Manchester ⛓ Fashion | Travel | Lifestyle 📩 benw_alker@live.co.uk
     location: "United Kingdom"
-    followers: 2382
-    engagement: 1726
-    commentsToLikes: 0.046929
+    followers: 4224
+    engagement: 1005
+    commentsToLikes: 0.048303
     id: ckaosazikqx180i78t9l373r5
     verified: false
-    hashtags: "#thebodyshopuk, #farfetchfind, #workfromhomefits, #thebodyshop"
-  - username: "xamdiyana_"
+    hashtags: "#topmanstyle, #gifted, #ad, #braun"
+  - username: "joely_t"
     fullname: >-
-      
+      Im me
+    bio: >-
+      @soaruk Event Manger Teacher & Dancer Videographer Management: @my.influencers #BlackLivesMatter
     location: "United Kingdom"
-    followers: 23196
-    engagement: 451
-    commentsToLikes: 0.058908
-    id: ck5qdul3xxe210i1184ncibg8
+    followers: 5386
+    engagement: 445
+    commentsToLikes: 0.061031
+    id: ck5zupq4i2th70i14b1d1we0y
     verified: false
-    hashtags: "#southasianweddings, #quarantineglowup, #onlineclasses, #makeuptutorial"
-  - username: "modestmira_"
+    hashtags: "#soarlikeaneagle, #sonya6000, #live, #videographer"
+  - username: "aneece111"
     fullname: >-
-      AMIRA 👓
+      📸 Aneece Malik 📸
+    bio: >-
+      الحمد لله❤️ 1️⃣TURN ON POST NOTIFICATIONS 2️⃣DM=Collab 📩AneeceMalik@mail.com 🦷Celebrity Smile creator 🚫Negativity = BLOCK 📍Manchester 🐝 🇬🇧
     location: "United Kingdom"
-    followers: 76140
-    engagement: 192
-    commentsToLikes: 0.026512
-    id: ck0uea1ekkx330i192o3gauaz
+    followers: 624688
+    engagement: 63
+    commentsToLikes: 0.062574
+    id: ck0w2jre5oq060i19mb75an0y
     verified: false
-    hashtags: "#pastelaesthetic, #spain, #closeup, #painting"
-  - username: "naimawazuki"
+    hashtags: "#luxury, #veneers, #happy, #foreverlivingturkey"
+  - username: "krissyyouth"
     fullname: >-
-      N A I M A  WaZuki
+      🇬🇧🇨🇾|Krissyyouth
+    bio: >-
+      Fashion • Beauty • music @yovthhh • Lifestyle • travel • singer songwriter 📩krissyyouth@gmail.com
     location: "United Kingdom"
-    followers: 52384
-    engagement: 500
-    commentsToLikes: 0.011073
-    id: ck0w1u74kl5ps0i19yqluzhwp
+    followers: 10719
+    engagement: 1064
+    commentsToLikes: 0.395829
+    id: ck55lym7j2rnw0i11yf2e37dx
     verified: false
-    hashtags: "#hijab, #familyphoto, #makkah, #islamic"
-  - username: "x.amyleigh"
-    fullname: >-
-      𝙰𝚖𝚢 𝙻𝚎𝚒𝚐𝚑 ♡
-    location: "United Kingdom"
-    followers: 7129
-    engagement: 1255
-    commentsToLikes: 0.442765
-    id: ck8td1wp61ima0j78m7mpogb1
-    verified: false
-    hashtags: "#makeupaddict, #luxuryootd, #cutedogsdaily, #mystyletoday"
-  - username: "murphose"
-    fullname: >-
-      Pamela Olender ✨
-    location: "United Kingdom"
-    followers: 10590
-    engagement: 1388
-    commentsToLikes: 0.117248
-    id: ck9weg93qk4ij0j78023d7dnb
-    verified: false
-    hashtags: "#morningpost, #kosmetyki, #photoshooting, #dlawas"
-  - username: "chelsey.raising.daughters"
-    fullname: >-
-      Chelsey 🌈
-    location: "United Kingdom"
-    followers: 10767
-    engagement: 765
-    commentsToLikes: 0.095989
-    id: ck0w0nzf9f6880i193m3oo8bq
-    verified: false
-    hashtags: "#gifted, #chalkolamom, #sudio, #mapifulfamily"
-  - username: "mossonyi"
-    fullname: >-
-      Onyi Moss ➰ Craig Moss 📸
-    location: "United Kingdom"
-    followers: 93511
-    engagement: 262
-    commentsToLikes: 0.045951
-    id: ck135i4tz1jkr0i19m7mfa09a
-    verified: false
-    hashtags: "#sezaneathome, #storymossonyi, #wellwoman, #chloegirls"
-  - username: "domain_esdale"
-    fullname: >-
-      Domain Esdale
-    location: "United Kingdom"
-    followers: 20223
-    engagement: 613
-    commentsToLikes: 0.081829
-    id: ck14l8tcgtf110i19jqqz2szw
-    verified: false
-    hashtags: "#london, #shirts, #tracksuit, #ss20"
-  - username: "bxwie"
-    fullname: >-
-      Emily Claire
-    location: "United Kingdom"
-    followers: 14377
-    engagement: 674
-    commentsToLikes: 0.040614
-    id: ck0ttxmef4rf90i19720opn9g
-    verified: false
-    hashtags: "#arket, #unfold, #filming, #casualstyle"
+    hashtags: "#travelling, #lifestyle, #quarantine, #florida"
 ---

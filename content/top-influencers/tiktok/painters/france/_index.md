@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In France In 2020
 description: >-
-  Find top painters TikTok influencers in France in 2020. Most popular hashtags: #pinterest #pourtoii #humour #aesthetic.
+  Find top painters TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
 platform: TikTok
+hits: 22
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 22 TikTok influencers like this in France for you to connect with.
 profiles:
+  - username: "lisa.sltn"
+    fullname: >-
+      ☽☆𝕷𝖎𝖘𝖆☆☾
+    bio: >-
+      mood: dark
+    location: "France"
+    followers: 16000
+    engagement: 2292
+    commentsToLikes: 0.041571
+    id: ckb98kv15s1kh0j2354zl9blk
+    verified: false
+    hashtags: "#mangadraw, #animeart, #draw, #demonslayer"
   - username: "laetitianavaro"
     fullname: >-
       Laetitia Navaro
+    bio: >-
+      ⬆️ Instagram juste la ⬆️
     location: "France"
-    followers: 8909
-    engagement: 1242
-    commentsToLikes: 0.025232
+    followers: 12100
+    engagement: 2055
+    commentsToLikes: 0.038561
     id: ckajjtuulmxfy0i78t2py5p6l
     verified: false
-    hashtags: "#allonsy, #dadlife, #fail, #fyoup"
+    hashtags: "#pourtoi, #fyp, #foryoupage, #dance"
+  - username: "asiamdd555"
+    fullname: >-
+      Asia Marine
+    bio: >-
+      des trucs manga/anime et+ Juste pr le fun 😅 ⚠️Yaoi🔞 I Hope I'm interesting 4 u
+    location: "France"
+    followers: 8512
+    engagement: 1771
+    commentsToLikes: 0.029669
+    id: ckb9dfty00msn0j23c056hkm1
+    verified: false
+    hashtags: "#anime, #otaku, #hxh, #ghibli"
+  - username: "juliagrgn"
+    fullname: >-
+      Juuliaa
+    bio: >-
+      Côte d’Azur
+    location: "France"
+    followers: 16600
+    engagement: 1844
+    commentsToLikes: 0.016865
+    id: ck963gpajusk10j78p0rcvmli
+    verified: false
+    hashtags: "#pourtoi, #devinelapersonne, #foryou, #fyp"
   - username: "zapata_painter"
     fullname: >-
       zapata_painter
+    bio: >-
+      Rénald ZAPATA Tik-Tok officiel Artiste-peintre en scène depuis 1993
     location: "France"
-    followers: 38902
-    engagement: 1881
-    commentsToLikes: 0.035672
+    followers: 45000
+    engagement: 1263
+    commentsToLikes: 0.028242
     id: ckacld35of0df0i78majj5cgf
     verified: false
-    hashtags: "#tuto, #toureiffel, #stromae, #angele"
-  - username: "funny.vse"
+    hashtags: "#tiktok, #art, #thepaintingpuppet, #tvshow"
+  - username: "itsclown_n"
     fullname: >-
-      funny videos
+      💛🧡
+    bio: >-
+      ✿𝐇𝐄𝐘✿ 𝚖𝚎𝚛𝚌𝚒 𝚙𝚘𝚞𝚛 𝚝𝚘𝚞𝚝
     location: "France"
-    followers: 78237
-    engagement: 901
-    commentsToLikes: 0.062038
-    id: ck900pb8paluj0j78i4bejtf5
+    followers: 3212
+    engagement: 1900
+    commentsToLikes: 0.044358
+    id: cka0gmdpf56bu0i78rvrb9m6v
     verified: false
-    hashtags: "#water, #crushingasmr, #travisscott, #explosion"
-  - username: "_bagathe_"
+    hashtags: "#astrologie, #foryou, #pinterest, #aesthetic"
+  - username: "trouvaille_vinted"
     fullname: >-
-      Agathe
+      Vinted = bae 💕
+    bio: >-
+      Je poste un fois par semaine : ✨Mercredi ✨ Lache un p’tit like 💖
     location: "France"
-    followers: 5072
-    engagement: 3528
-    commentsToLikes: 0.091303
-    id: ck9slqa3mf98h0j78pnn25fgx
+    followers: 14200
+    engagement: 1356
+    commentsToLikes: 0.014370
+    id: ckd0jk1g4fean0j2385itatew
     verified: false
-    hashtags: "#cheval, #pourtoit, #danse, #sketbord"
-  - username: "_lounart_"
+    hashtags: "#kenzosportchallenge, #pinterest, #aesthetic, #secondemain"
+  - username: "maximeee____"
     fullname: >-
-      ✨🦋petite astuce🦋✨
+      🌚🌝
+    bio: >-
+      17 🤍 i luv y’all ig - maxime362__
     location: "France"
-    followers: 78606
-    engagement: 3214
-    commentsToLikes: 0.065107
-    id: ckaile0i0nnxm0i78ora35gq0
+    followers: 18900
+    engagement: 2451
+    commentsToLikes: 0.079215
+    id: ckc8y6yipmkkx0j237qn892uj
     verified: false
-    hashtags: "#haul, #fabrication, #question, #coloriage"
-  - username: "kooktail.v"
+    hashtags: "#fyp, #foryou, #foryoupage, #pourtoi"
+  - username: "marinebisson9"
     fullname: >-
-      Kooktail
+      Marine Bisson
+    bio: >-
+      Maman 👧👦 Couple ♥️ Bordeaux Prothésiste Ongulaire Suivez-moi sur insta
     location: "France"
-    followers: 5100
-    engagement: 2682
-    commentsToLikes: 0.024130
-    id: cka0najn9yy0b0i78rs6y1mxp
+    followers: 8075
+    engagement: 1021
+    commentsToLikes: 0.076458
+    id: ck9gnsz5rxy2s0j78mnhx9xab
     verified: false
-    hashtags: "#aesthetic, #habituel, #perfect, #happy"
-  - username: "grz.design"
+    hashtags: "#tik, #lesmec, #tiktok, #duo"
+  - username: "_edouard_b"
     fullname: >-
-      grz.design
+      Edouard🐍
+    bio: >-
+      Vous désabonnez pas wsh je reprends vite Hésitez pas à follow ici et sur insta
     location: "France"
-    followers: 75417
-    engagement: 1799
-    commentsToLikes: 0.021367
-    id: cka6203qxxobt0i7894ii5mjz
+    followers: 4728
+    engagement: 964
+    commentsToLikes: 0.088403
+    id: ckb0u2nobjfzb0j23q33pxpjz
     verified: false
-    hashtags: "#twitter, #iletaitunefarce, #dancemonkey, #regardeetaprends"
-  - username: "loannvlt"
-    fullname: >-
-      Loann
-    location: "France"
-    followers: 6394
-    engagement: 769
-    commentsToLikes: 0.074155
-    id: cka0qraywdoax0i78kw0laqvj
-    verified: false
-    hashtags: "#booksaddiction, #60s1livre, #philosophy, #series"
-  - username: "emmaclvt"
-    fullname: >-
-      Emma ♡ 
-    location: "France"
-    followers: 43691
-    engagement: 2947
-    commentsToLikes: 0.010407
-    id: ck8s4whtid7ed0j78nc2gzzes
-    verified: false
-    hashtags: "#aesthetic, #kiwibeurk, #flamantrose, #fivefeetsapart"
-  - username: "enorahope"
-    fullname: >-
-      Enora Hope
-    location: "France"
-    followers: 10945
-    engagement: 480
-    commentsToLikes: 0.076190
-    id: ckahwdcsdqb6f0i7893v57srb
-    verified: false
-    hashtags: "#makeup, #bff, #childhood, #throwback"
+    hashtags: "#aroufgangsta, #voguechallenge, #foryou, #humour"
 ---

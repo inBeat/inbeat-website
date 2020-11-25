@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top yoga Instagram influencers in Hamburg in 2020. Most popular hashtags: #yoga #hamburg #challenge #shopping.
+  Find top yoga Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #yoga #fitness #yogainspiration.
 platform: Instagram
+hits: 56
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 56 Instagram influencers like this in Hamburg, Germany for you to contact.
 profiles:
-  - username: "bella_stella27"
+  - username: "sanae.decker"
     fullname: >-
-      Bella_Stella27
+      Sanae Decker - Yoga Teacher
+    bio: >-
+      YOGA - SELFLOVE - FEMALE EMPOWERMENT 💞 Ich unterstütze dich bei deiner Yogapraxis🙏🏼 Personal Yoga / Business Yoga / Classes Jetzt auch online! Vegan🌱
     location: "Germany"
-    followers: 70905
-    engagement: 342
-    commentsToLikes: 0.035172
-    id: ck13cujrm28gt0i19hg1mrt86
+    followers: 8532
+    engagement: 521
+    commentsToLikes: 0.035719
+    id: ck8swofawepvm0j78mdg3uwat
     verified: false
-    hashtags: "#police, #music, #karneval, #followers"
-  - username: "sabrinalutz"
+    hashtags: "#sweatingbeauties, #yoga, #wirbleibenzuhause, #yogainhamburg"
+  - username: "karlakuhlm"
     fullname: >-
-      Sabrina Lutz🐚🌊
+      𝐊𝐀𝐑𝐋𝐀
+    bio: >-
+      𓆃 𓆃 𓆃 STAY IN YOUR MAGIC 𓂀 𓇼 founder of @solovedbyher 𓇼 200 hrs Yoga Teacher 𓇼 mother agent: @pma_models 𓇼 HAMBURG - contact: hello@karlakuhlmann.com
     location: "Germany"
-    followers: 7158
-    engagement: 604
-    commentsToLikes: 0.024680
-    id: ck5c5uukk46v40i11j5moonoa
+    followers: 39524
+    engagement: 214
+    commentsToLikes: 0.024662
+    id: ck0w4kundz2q20i19130c4olk
     verified: false
-    hashtags: "#grlpwr, #gowiththeflow, #conciousness, #crash"
-  - username: "petra.kempna"
+    hashtags: "#yogahamburg, #smile, #yogakiel, #hamburgyoga"
+  - username: "fruggielicious"
     fullname: >-
-      Petra 🤍
+      Kris
+    bio: >-
+      📍Hamburg Fruggielicious.photography@gmail.com
     location: "Germany"
-    followers: 51578
-    engagement: 238
-    commentsToLikes: 0.032238
-    id: ck6u9936pw6mx0j71vdn7pd2g
+    followers: 20289
+    engagement: 623
+    commentsToLikes: 0.052205
+    id: ck0u7nlzs554t0i195gcosx5t
     verified: false
-    hashtags: "#zdravieakr, #bbhair, #sunday, #netflix"
-  - username: "sorayas_world"
+    hashtags: "#streetgallerymagazine, #streetphotographyinternational, #london, #moody"
+  - username: "charmed_by_yoga"
     fullname: >-
-      ⋆ S O R A Y A ⋆
+      BINA - Yoga Coach Köln
+    bio: >-
+      *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles
     location: "Germany"
-    followers: 17561
-    engagement: 542
-    commentsToLikes: 0.030375
-    id: ck6tjjauw2twd0j71s4eikzgm
+    followers: 14986
+    engagement: 690
+    commentsToLikes: 0.302061
+    id: ck6tu7hb9eqvv0j710okd7z1x
     verified: false
-    hashtags: "#raw, #snackandglow, #letsdothis, #mood"
+    hashtags: "#aloholdeachother, #yoga, #heartsalove, #softness"
+  - username: "ginii__binii"
+    fullname: >-
+      Gina Heinrich
+    bio: >-
+      FITNESS | ACHTSAMKEIT | LEBEN 👩🏻‍💻🌏 love what you do & make a difference ✨positive vibes 📍Stuttgart
+    location: "Germany"
+    followers: 2971
+    engagement: 2097
+    commentsToLikes: 0.061717
+    id: ck8tdpau849eo0j78sztwjnxh
+    verified: false
+    hashtags: "#wochenende, #potd, #nebenjob, #abnehmen"
   - username: "monidmbi"
     fullname: >-
       𝑭𝒊𝒕𝒏𝒆𝒔𝒔 | 𝑵𝒖𝒕𝒓𝒊𝒕𝒊𝒐𝒏 | 𝑴𝒊𝒏𝒅𝒔𝒆𝒕
+    bio: >-
+      📍 Hamburg 📚🤓 BA Educational Science 🏋🏼‍♀️🍉 Fitness & Foodlover
     location: "Germany"
-    followers: 3057
-    engagement: 2754
-    commentsToLikes: 0.027698
+    followers: 2897
+    engagement: 2182
+    commentsToLikes: 0.027753
     id: ck8tc30h7y3po0j78eo1gm6wi
     verified: false
-    hashtags: "#wildheart, #instame, #success, #kettlebell"
-  - username: "inabatziakas"
+    hashtags: "#fitnesslove, #stayfit, #inkedgirl, #gesundleben"
+  - username: "manu_coach_style"
     fullname: >-
-      Yogalicious Köln
+      Manuela Cosenza
+    bio: >-
+      PR & Content Creator Werbung Rabatt Code @nu3_de : MANUELA Impressum: https://www.4coach-style.de/impressum// Contact: m.cosenza@coach-style.de
     location: "Germany"
-    followers: 5948
-    engagement: 1009
-    commentsToLikes: 0.080763
-    id: ck9wol00x5kmu0j78g125p4jq
+    followers: 13923
+    engagement: 230
+    commentsToLikes: 0.049937
+    id: ckapam633wnri0i78xw2l0fyc
     verified: false
-    hashtags: "#halfmoon, #youareenough, #igyogafamily, #hamburg"
-  - username: "liz_mk"
+    hashtags: "#sund, #motiv, #ayaniclothing, #fashionblogger"
+  - username: "beyondbendy_lea"
     fullname: >-
-      ☆ 𝐿𝒾𝓏 ☆
+      Lea
+    bio: >-
+      • Certified Flexibility, Aerial Yoga & Pole Instructor • Based in Hamburg, Germany • Online Flexibility Classes 💗 Live & On Demand
     location: "Germany"
-    followers: 27294
-    engagement: 677
-    commentsToLikes: 0.227079
-    id: ck8tch0jvzg290j78uw7r8c9b
+    followers: 2849
+    engagement: 1034
+    commentsToLikes: 0.050715
+    id: ck6tw3naipttp0j71m9221r5g
     verified: false
-    hashtags: "#trend, #details, #inspohome, #denimstyle"
-  - username: "franzi_x_b"
+    hashtags: "#bendyback, #training, #poledance, #shoulderopener"
+  - username: "carolinalerio"
     fullname: >-
-      Franzi🌸Motivation🌺Positivity
+      ᴄᴀʀᴏʟɪɴᴀ ɴᴀʟᴇʀɪᴏ
+    bio: >-
+      •𝐌𝐨𝐝𝐞𝐥 🇺🇾🌏 • Hamburg 🇩🇪📍 •𝐓𝐫𝐚𝐭𝐨 𝐇𝐞𝐜𝐡𝐨 @teledoce 📺 •𝐀𝐂𝐓𝐈𝐍𝐆|𝐃𝐀𝐍𝐂𝐈𝐍𝐆 •𝐅𝐚𝐬𝐡𝐢𝐨𝐧&𝐆𝐫𝐚𝐩𝐡𝐢𝐜𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 📨caronalerio@hotmail.com
     location: "Germany"
-    followers: 153267
-    engagement: 150
-    commentsToLikes: 0.142296
-    id: ck5zz35kjazsd0i143t91rqb8
+    followers: 17734
+    engagement: 505
+    commentsToLikes: 0.064221
+    id: ck134du6dvylz0i19bj4ptohc
     verified: false
-    hashtags: "#ootdgermany, #flexfriday, #gedankentanken, #gymgirl"
-  - username: "katerinagiannoglou"
+    hashtags: "#wedding, #foodie, #uruguay, #modelingshoot"
+  - username: "tri.run.lara"
     fullname: >-
-      Katerina Giannoglou
+      ʟαяα
+    bio: >-
+      ⚓️ #hamburgerdeern | 29 🏊🏼‍♀️🚴🏼‍♀️🏃🏼‍♀️#trigirl 🔜 first time 70.3 🌺 #teamzooteurope 👩‍❤️‍👨 @tim2tri 🔜 #bridetobe 💍
     location: "Germany"
-    followers: 16203
-    engagement: 263
-    commentsToLikes: 0.061232
-    id: ck5bvwca2kj5l0i11jnpocn92
+    followers: 2600
+    engagement: 1899
+    commentsToLikes: 0.093277
+    id: ck8t6ublgeprj0j78kxuics2a
     verified: false
-    hashtags: "#yogalifestyle, #beach, #germany, #timeoff"
-  - username: "sanae.decker"
-    fullname: >-
-      Yoga - Mindful Moves
-    location: "Germany"
-    followers: 7811
-    engagement: 937
-    commentsToLikes: 0.050098
-    id: ck8swofawepvm0j78mdg3uwat
-    verified: false
-    hashtags: "#planken, #yogalover, #tuwasduliebst, #veganeern"
+    hashtags: "#sportmotivation, #wochenende, #triathlon, #runnersofinstagram"
 ---

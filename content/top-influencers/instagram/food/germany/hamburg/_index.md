@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top food Instagram influencers in Hamburg in 2020. Most popular hashtags: #food #foodpics #germany #foodporn.
+  Find top food Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #food #love #fashion.
 platform: Instagram
+hits: 156
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 156 Instagram influencers like this in Hamburg, Germany for you to pitch.
 profiles:
+  - username: "manu_coach_style"
+    fullname: >-
+      Manuela Cosenza
+    bio: >-
+      PR & Content Creator Werbung Rabatt Code @nu3_de : MANUELA Impressum: https://www.4coach-style.de/impressum// Contact: m.cosenza@coach-style.de
+    location: "Germany"
+    followers: 13923
+    engagement: 230
+    commentsToLikes: 0.049937
+    id: ckapam633wnri0i78xw2l0fyc
+    verified: false
+    hashtags: "#sund, #motiv, #ayaniclothing, #fashionblogger"
+  - username: "lars_likes_food"
+    fullname: >-
+      Lars
+    bio: >-
+      🔅Dortmund - Germany 🍔 foodblog 🐟 pescetarian; 🧀 vegetarian; 🥬 vegan 💰 non profit - just cooking 👨🏼 a bit of my life . #foodblogger
+    location: "Germany"
+    followers: 4307
+    engagement: 763
+    commentsToLikes: 0.126159
+    id: ck0vuyibemq8p0i19il4pqyhr
+    verified: false
+    hashtags: "#tomate, #healthyfood, #nudeln, #veggiefood"
+  - username: "aida_clubbotschafter_barbara"
+    fullname: >-
+      AIDA Clubbotschafter Barbara
+    bio: >-
+      ➖seit 2016 offizieller AIDA Clubbotschafter ⚓️ ➖AIDA 🛳 Cruiseships ☀️ Travel 🌴 ➖ Home Base: Saarland 🤗 ➖ next: #wewillcomeback ✊🏻
+    location: "Germany"
+    followers: 5334
+    engagement: 522
+    commentsToLikes: 0.021517
+    id: ckaowdzy78in30i78h5z1xdqz
+    verified: false
+    hashtags: "#wewillbeback, #aidablu, #travelblogger, #aidamomente"
+  - username: "timmaelzer_official"
+    fullname: >-
+      Tim Mälzer
+    bio: >-
+      Gastronom, Unternehmer, Koch / Chef
+    location: "Germany"
+    followers: 401012
+    engagement: 145
+    commentsToLikes: 0.012887
+    id: ck0vw6ddusb5v0i19urndbwpj
+    verified: true
+    hashtags: "#repost, #stayathome, #renovierung, #wirsindgekommenumzubleiben"
+  - username: "lealiaa"
+    fullname: >-
+      Lea 🦋
+    bio: >-
+      🦁🐯 FASHION | HAIR | FOOD 💕Hamburg|Düsseldorf ✉️ lealiaacollab@gmx.de
+    location: "Germany"
+    followers: 15359
+    engagement: 1010
+    commentsToLikes: 0.070448
+    id: ck134xpkaypd10i193u4x17so
+    verified: false
+    hashtags: "#modernsalon, #blonde, #curls, #ourportraitdays"
   - username: "skueche"
     fullname: >-
       ✬ 𝗦-Küche | 𝗦imone
+    bio: >-
+      𝗙𝗢𝗢𝗗 & 𝗧𝗥𝗔𝗩𝗘𝗟 Passion for good food ⚓️ Hamburg ———————————————
     location: "Germany"
-    followers: 24719
-    engagement: 307
-    commentsToLikes: 0.061438
+    followers: 26531
+    engagement: 272
+    commentsToLikes: 0.077031
     id: ck5hooe0epxef0i11waitcbll
     verified: false
-    hashtags: "#daubeprovenc, #schnellek, #familydinner, #meingarteninhh"
-  - username: "timmaelzer_official"
+    hashtags: "#soulfood, #makeitdelicious, #ku, #einfachkochen"
+  - username: "saltandsilver"
     fullname: >-
-      Tim Mälzer
+      Salt & Silver
+    bio: >-
+      Follow Cozy & Jo on their journey around the world. 🌎 ___ ✖️2 Restaurants @saltandsilverzentrale ✖️2 Cookbooks ✖️TV & Online documentary
     location: "Germany"
-    followers: 369485
-    engagement: 148
-    commentsToLikes: 0.012740
-    id: ck0vw6ddusb5v0i19urndbwpj
+    followers: 25626
+    engagement: 277
+    commentsToLikes: 0.015135
+    id: ck5hrns5yv6fo0i11ver4x0fo
     verified: true
-    hashtags: "#gastronomie, #trinken, #instafood, #gemeinsamgegencorona"
-  - username: "ur_coach_tobi"
+    hashtags: "#surf, #saltandsilver, #welovehh, #kochenf"
+  - username: "skylas.tag"
     fullname: >-
-      Tobias Puck
+      Skyla Ocean👱🏻‍♀️Hanna the Pug🐶
+    bio: >-
+      🏨wo essen? Wo schlafen? Was tragen? 👗Streetmodel @ritalagune 📬 skylas.tag@gmail.com 🎥 YouTube :
     location: "Germany"
-    followers: 5753
-    engagement: 551
-    commentsToLikes: 0.025837
-    id: ck5q5m3fkti7t0i116p53hfja
+    followers: 30093
+    engagement: 161
+    commentsToLikes: 0.036991
+    id: ck5q89ksj53cl0i11mejyhikb
     verified: false
-    hashtags: "#medicineball, #weights, #heretocreate, #wewantyou"
-  - username: "marina_jkm"
-    fullname: >-
-      HAVING A LOVELY TIME 🤍
-    location: "Germany"
-    followers: 2086
-    engagement: 1500
-    commentsToLikes: 0.124147
-    id: ckap83avamn2u0i780jx0ns5v
-    verified: false
-    hashtags: "#dreambig, #tb, #burgerdelivery, #burgerliebe"
-  - username: "luziapimpinella"
-    fullname: >-
-      nic hildebrandt
-    location: "Germany"
-    followers: 15721
-    engagement: 510
-    commentsToLikes: 0.056748
-    id: ck5c3alr6yx260i1181de5e6m
-    verified: false
-    hashtags: "#maskeauf, #reisbowl, #justsayin, #cewefotowelt"
+    hashtags: "#influencer, #armani, #party, #realestateagent"
   - username: "die.muellers"
     fullname: >-
       Wir sind die Müllers ⚓️👨‍👩‍👧‍👧
+    bio: >-
+      Jessi & Stefan mit Lenya & Felina 2005 💏/ 2011 💒/ 2012 🏠/ 2015 & 2018 👧🏼👧🏼 #familienblog #hamburg #diy #food
     location: "Germany"
-    followers: 2858
-    engagement: 4023
-    commentsToLikes: 0.024297
+    followers: 3203
+    engagement: 2763
+    commentsToLikes: 0.055848
     id: ckap6deyoffdn0i78e97w7lp5
     verified: false
-    hashtags: "#diymitkindern, #shabbyvintage, #kabeltrommel, #birthdaygirl"
-  - username: "pinkpersianunicorn"
+    hashtags: "#herbstscha, #herbstbastelei, #familienblogger, #bastelnmitkindern"
+  - username: "anna.elisie"
     fullname: >-
-      Simone (Mösi) McMILF 💋
+      Anna Elisie | Ethical Vegan 🌿
+    bio: >-
+      🌕 Hummus & Nickerchen 🌓 post@veganmom.de 🌑 Alle Rezepte↓
     location: "Germany"
-    followers: 44048
-    engagement: 780
-    commentsToLikes: 0.101740
-    id: ck5hj9svmg99r0i11sss0cnbu
+    followers: 49481
+    engagement: 616
+    commentsToLikes: 0.017106
+    id: ckf5w4n7mqtzj0j23j6wa6chq
     verified: false
-    hashtags: "#bloggerlife, #hair, #selfie, #32nd"
-  - username: "madam_oliviavon"
-    fullname: >-
-      Timetraveler
-    location: "Germany"
-    followers: 3953
-    engagement: 2973
-    commentsToLikes: 0.038490
-    id: ckap85tv0myfi0i78mnu33k76
-    verified: false
-    hashtags: "#spaziergang, #homesweethome, #cooking, #painting"
-  - username: "levs_goodfood"
-    fullname: >-
-      Micha
-    location: "Germany"
-    followers: 3993
-    engagement: 2169
-    commentsToLikes: 0.111034
-    id: ckapa4nlhuove0i78bwxqsbza
-    verified: false
-    hashtags: "#spareribs, #traegerday, #italianfood, #firechefs"
-  - username: "jan_stuehmer"
-    fullname: >-
-      Mister Grey 👨🏼‍🦳
-    location: "Germany"
-    followers: 201003
-    engagement: 343
-    commentsToLikes: 0.035183
-    id: ck5bv66cvj2au0i11evuuvo9r
-    verified: false
-    hashtags: "#shooting, #shoot, #beachboy, #model"
+    hashtags: "#veganfood, #feedfeed, #rezepte, #herbstrezepte"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In South Africa In 2020
 description: >-
-  Find top mothers TikTok influencers in South Africa in 2020. Most popular hashtags: #dance #mothersday #girls #crush.
+  Find top mothers TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #foryoupage #foryou #southafrica.
 platform: TikTok
+hits: 22
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 22 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
+  - username: "rblx_tesshess"
+    fullname: >-
+      TessHess
+    bio: >-
+      TessHess ✨Roblox video daily✨ 🐮Proud mother of 5437 moos🐮
+    location: "South Africa"
+    followers: 5549
+    engagement: 1693
+    commentsToLikes: 0.085848
+    id: ckd093325bf250j23g9e6kuer
+    verified: false
+    hashtags: "#robloxians, #homestore, #robloxclothing, #robloxavatar"
+  - username: "petra_lotter"
+    fullname: >-
+      Petra Lotter
+    bio: >-
+      From 🇿🇦 Married to the love of my life ❤️ Mother of 2 Beautiful girls 💗💗
+    location: "South Africa"
+    followers: 8030
+    engagement: 1120
+    commentsToLikes: 0.045031
+    id: ckberl9319wv50j23aoqzy1nj
+    verified: false
+    hashtags: "#foryou, #harties, #roadto10k, #f4f"
   - username: "shewolfsa"
     fullname: >-
       Hannah Kruyer
+    bio: >-
+      Husky Mother Too old for TikTok 🇿🇦 @shewolfsa on Instagram
     location: "South Africa"
-    followers: 3151
-    engagement: 720
-    commentsToLikes: 0.007729
+    followers: 3223
+    engagement: 766
+    commentsToLikes: 0.009417
     id: ck9glnj0wp5j10j78esl50e7q
     verified: false
-    hashtags: "#howling, #engaged, #bliss, #tiktokmakeup"
-  - username: "cloudz9"
+    hashtags: "#fyp, #dogs, #husky, #viral"
+  - username: "susanroelofsz"
     fullname: >-
-      CloudZ💙Nation
+      Susan Roelofsz
+    bio: >-
+      SA🇿🇦 Wifey | Mom of✌🏻| 🐶Lover Photographer Writer 📍Please DON’T spam like📍
     location: "South Africa"
-    followers: 2984
-    engagement: 2235
-    commentsToLikes: 0.150570
-    id: cka6pcf85j20t0i78esk941ki
+    followers: 8981
+    engagement: 2233
+    commentsToLikes: 0.137467
+    id: ckbez26itjvj00j236pegh75b
     verified: false
-    hashtags: "#voicesinmyhead, #nothingtodo, #number2, #fail"
-  - username: "ashraflanie"
+    hashtags: "#fyp, #casperdevries, #tiktokjozicreators, #southafrica"
+  - username: "tangible_terri"
     fullname: >-
-      Ashraf Lanie
+      Terri-Lee
+    bio: >-
+      all jokes all the time don't take me too serious, I'm here to make ppl smile 🔞
     location: "South Africa"
-    followers: 2648
-    engagement: 448
-    commentsToLikes: 0.411161
-    id: cka9l0u4q1epq0i78r6jux87j
+    followers: 6920
+    engagement: 1770
+    commentsToLikes: 0.300588
+    id: ckd173fpzo81o0j23m5tg37fk
     verified: false
-    hashtags: "#momlife, #caravelle, #325is, #4pipe"
-  - username: "itsbruzie"
-    fullname: >-
-      Bruzie and Keezie
-    location: "South Africa"
-    followers: 9958
-    engagement: 1161
-    commentsToLikes: 0.052814
-    id: ck8p0u1ncid5p0j7822875yu0
-    verified: false
-    hashtags: "#iliketheview, #nowtheyknow, #toolegit, #momlife"
-  - username: "ultimatenathan7"
-    fullname: >-
-      Nathaniel Govender
-    location: "South Africa"
-    followers: 3171
-    engagement: 267
-    commentsToLikes: 0.006983
-    id: ck9rm6jc01eo30j78fg2wtqb1
-    verified: false
-    hashtags: "#sunday, #soccer, #2020, #goals"
-  - username: "marcslater_"
-    fullname: >-
-      Slater
-    location: "South Africa"
-    followers: 11261
-    engagement: 1734
-    commentsToLikes: 0.077776
-    id: ck9f3mtxpig1n0j78tdxkuy58
-    verified: false
-    hashtags: "#part4, #stepchickens, #colouredboys, #woah"
-  - username: "noena_q"
-    fullname: >-
-      @𝓝𝓸𝓮𝓷𝓪_𝓺
-    location: "South Africa"
-    followers: 5709
-    engagement: 2318
-    commentsToLikes: 0.201720
-    id: ck9skbq9h7xmz0j78ou5wglv1
-    verified: false
-    hashtags: "#transiton, #reaction, #eyeslipsface, #makingpie"
-  - username: "kayykayy.xx"
-    fullname: >-
-      Kaylen Daniels🌻
-    location: "South Africa"
-    followers: 137046
-    engagement: 2098
-    commentsToLikes: 0.060678
-    id: cka0fndul0avg0i78ijn7c2ho
-    verified: true
-    hashtags: "#driving, #hypeme, #dream, #salockdown"
-  - username: "dianaotto8"
-    fullname: >-
-      Diana Otto
-    location: "South Africa"
-    followers: 8682
-    engagement: 2020
-    commentsToLikes: 0.240890
-    id: ck9skjeq293ld0j78flrexpqq
-    verified: false
-    hashtags: "#guardian, #funnyvideos, #laugh, #please"
+    hashtags: "#tiktokinpublic, #comedy, #momanddaughter, #wellshit"
   - username: "deborah__darling"
     fullname: >-
       Deborah Chambers 
+    bio: >-
+      I’m 58 and much too old to be on TikTok 🤷‍♀️
     location: "South Africa"
-    followers: 72969
-    engagement: 1029
-    commentsToLikes: 0.040999
+    followers: 82600
+    engagement: 1096
+    commentsToLikes: 0.041176
     id: cka0o6tuh2jpm0i78b7qm9gtx
     verified: false
-    hashtags: "#granny, #hesgotbeef, #toooldfortiktok, #over30"
+    hashtags: "#tiktoksouthafrica, #nevertoolate, #silverhair, #embraceyourage"
+  - username: "ashraflanie"
+    fullname: >-
+      Ashraf Lanie
+    bio: >-
+      Brand: Dankie Lanie Proudly South African Personalise, Customize, Merchandise
+    location: "South Africa"
+    followers: 3272
+    engagement: 311
+    commentsToLikes: 0.172773
+    id: cka9l0u4q1epq0i78r6jux87j
+    verified: false
+    hashtags: "#merchandise, #bavaria, #foryou, #volkswagen"
+  - username: "annie55681241"
+    fullname: >-
+      Annie
+    bio: >-
+      Magical AF!! 🦄🦄 Only here for the fun😘
+    location: "South Africa"
+    followers: 45100
+    engagement: 1502
+    commentsToLikes: 0.010834
+    id: ck9nu0ueekyg90j78vqfriqp3
+    verified: false
+    hashtags: "#foryou, #comedy, #fyp, #standupcomedy"
+  - username: "carlatinykoortzen"
+    fullname: >-
+      Carla Tiny Koortzen
+    bio: >-
+      South Africa🇿🇦 *29* MOM What's meant to be wil be
+    location: "South Africa"
+    followers: 4579
+    engagement: 932
+    commentsToLikes: 0.061006
+    id: ckcv1l1e1nqgg0j23edujz4a6
+    verified: false
+    hashtags: "#lgbt, #southafrica, #hands, #lipsync"
+  - username: "_powerpuffgirl222"
+    fullname: >-
+      c l a i r e
+    bio: >-
+      one phat joke😸 🇦🇪||🇿🇦
+    location: "South Africa"
+    followers: 2756
+    engagement: 1560
+    commentsToLikes: 0.006250
+    id: ck9regujg29t40j78j5z81ajg
+    verified: false
+    hashtags: "#makemefamous, #trending, #duet, #ownthecurve"
 ---

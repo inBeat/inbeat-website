@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top travel Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #staysafe #dubaibloggers #etihad #quarantinelife.
+  Find top travel Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #mydubai #travel #maldives.
 platform: Instagram
+hits: 385
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 385 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "madhuri.chavan7"
+  - username: "_inside.dubai_"
     fullname: >-
-      Madhuri Chavan
+      INSIDE DUBAI
+    bio: >-
+      𝗧𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂 𝗜𝗡𝗦𝗜𝗗𝗘 𝗗𝘂𝗯𝗮𝗶 🇦🇪 ▪️All Access into everything Dubai ▪️BTS your Fave Hotels & Venues ▪️News & Reviews Travel | Tourism | Fashion | Lifestyle
     location: "United Arab Emirates"
-    followers: 7586
-    engagement: 1025
-    commentsToLikes: 0.085444
-    id: ck15q0f1p0hzj0i197nafgoir
+    followers: 23767
+    engagement: 1300
+    commentsToLikes: 0.151237
+    id: ck5hldlmok0we0i11xyeq5mcx
     verified: false
-    hashtags: "#sesamestreetbollywood, #internationalartistnight, #bollywooddanceroutine, #universalstudiosjapan"
-  - username: "bossgirlpriya1792"
+    hashtags: "#lifestyle, #insidelifestylegroup, #insidelifestyle, #dubai"
+  - username: "fata.hasanovic"
     fullname: >-
-      Queen of Jet lags 🛫🇮🇳🇦🇪
+      Fata Hasanovic
+    bio: >-
+      TRAVEL x BEAUTY x FASHION 📍 Living in #dubai IMPRESSUM : @impressum.fata #Podcast : Fataland #tiktok: Fata.hasanovic
     location: "United Arab Emirates"
-    followers: 24822
-    engagement: 386
-    commentsToLikes: 0.109225
-    id: ck9webz5qjm2c0j784c8117oi
-    verified: false
-    hashtags: "#foodblogging, #etihadcrew, #flowerlove, #fridgesituation"
-  - username: "aykadelacruz"
+    followers: 449873
+    engagement: 271
+    commentsToLikes: 0.045620
+    id: ck15s5laqbc4b0i19770uqclw
+    verified: true
+    hashtags: "#musicmonday, #dxb, #fata, #travel"
+  - username: "ihuoma_eze"
     fullname: >-
-      𝗔𝘆𝗸𝗮 𝗧𝗮𝗳𝗮𝗹𝗹𝗮-𝗣𝗿𝗶𝗻𝗰𝗲
+      Ihuoma Eze 🇳🇬🇦🇪
+    bio: >-
+      Visual storyteller 📸 Hey there, I'm a Youtuber 🎥 Lifestyle + Travel 📩| quieeneteze799@gmail.com Shop @omaa_beauty_store__
     location: "United Arab Emirates"
-    followers: 15447
-    engagement: 435
-    commentsToLikes: 0.604451
-    id: ck6ub8hxl83pa0j71eauuk4yq
+    followers: 15602
+    engagement: 858
+    commentsToLikes: 0.061174
+    id: ckap5fyj0biam0i78mg21i5fq
     verified: false
-    hashtags: "#weddingdressshopping, #intimatewedding, #dubaibloggers, #travelgram"
-  - username: "alberto_makeup"
+    hashtags: "#lagosblogger, #dametraveler, #maldives, #travelblogger"
+  - username: "shorty_7_"
     fullname: >-
-      ▫️A L B E R T O▫️
+      Sajad Mohammed ‏𓅓
+    bio: >-
+      📍Dubai | دبي 🇦🇪 Banker 🏦| Business🔝|Travel ✈️ Owner Of @91minis 💥 @mawazien 🏡
     location: "United Arab Emirates"
-    followers: 35845
-    engagement: 240
-    commentsToLikes: 0.095008
-    id: ck6u4dcr3338e0j71jyuqag7e
+    followers: 19596
+    engagement: 360
+    commentsToLikes: 0.090712
+    id: ck5hchchyi2ry0i116yy0mor5
     verified: false
-    hashtags: "#throwback, #tb, #quarantineposts"
-  - username: "wranglerson"
+    hashtags: "#happy, #success, #yeezy, #mydubai"
+  - username: "kikikeerati"
     fullname: >-
-      Jayson Rangel
+      Kiki Keerati
+    bio: >-
+      Asian girl living in Dubai Fashion | Beauty | Travel | Lifestyle ✈️ A Frequent flyer 📩 DM for work
     location: "United Arab Emirates"
-    followers: 6627
-    engagement: 1073
-    commentsToLikes: 0.052658
-    id: ck6u26oagq16i0j716wj9g6lp
+    followers: 74844
+    engagement: 540
+    commentsToLikes: 0.026544
+    id: ck5q9owxfc8f50i11biwwxw3b
     verified: false
-    hashtags: "#pinoystyle, #finedining, #reflectionphoto, #dubaibloggers"
-  - username: "florina__toma"
-    fullname: >-
-      Florina Toma
-    location: "United Arab Emirates"
-    followers: 191762
-    engagement: 344
-    commentsToLikes: 0.028737
-    id: ck0vxi7f6z0o10i19sphfh688
-    verified: false
-    hashtags: "#thechedimuscat, #chedimemories, #rcmemories, #composite"
-  - username: "faridaisrail"
-    fullname: >-
-      faridaisrail #Hertraveldiary
-    location: "United Arab Emirates"
-    followers: 23969
-    engagement: 294
-    commentsToLikes: 0.060385
-    id: ck55jaedewm5m0i11ouysfgrm
-    verified: false
-    hashtags: "#instadetox, #amazinguae, #eatrainbow, #healthworkers"
+    hashtags: "#blogger, #hotel, #mydubai, #ootd"
   - username: "pun_sheth"
     fullname: >-
       Punam
+    bio: >-
+      Dubai 🇦🇪 #mydubai Wifey to the best hubby ❤️ BoyMama-to-be 💙🥰 Travel Junkie 🌍Yaaaasss 😉✌ On a spiritual journey 👣 Spread Love, Stay Happy, Be Kind 💋
     location: "United Arab Emirates"
-    followers: 6912
-    engagement: 1182
-    commentsToLikes: 0.047188
+    followers: 9344
+    engagement: 812
+    commentsToLikes: 0.060680
     id: ckap43k7o5osg0i78v9ciciaw
     verified: false
-    hashtags: "#11, #family, #joy, #bluewaters"
-  - username: "myglamgypsy"
+    hashtags: "#photographybyhubby, #blessed, #bumpshot, #boymama"
+  - username: "maxwyatt_"
     fullname: >-
-      Rosh
+      Max Wyatt
+    bio: >-
+      Living in Dubai / travel / fitness / YouTube🌴
     location: "United Arab Emirates"
-    followers: 29550
-    engagement: 192
-    commentsToLikes: 0.073428
-    id: ck0w5yzr8641j0i193jsgznso
+    followers: 823561
+    engagement: 317
+    commentsToLikes: 0.021100
+    id: ck5c4yhlw2dog0i11xxm6w385
     verified: false
-    hashtags: "#makeuptrend, #theartistedit, #tomfordbeauty, #foodie"
-  - username: "ban_adnan_dawood"
+    hashtags: "#rio, #travel, #explore"
+  - username: "measlychocolate"
     fullname: >-
-      Ban 🇮🇶🇨🇦
+      PATTY | CONTENT CREATOR
+    bio: >-
+      DXB | FRA German in Dubai 🌴 Travel | Fashion | Lifestyle 📸 @dubaidesert.diary 💍 @janiskien
     location: "United Arab Emirates"
-    followers: 448825
-    engagement: 295
-    commentsToLikes: 0.025647
-    id: ck5c4gq7x1bk50i1174csluom
+    followers: 26839
+    engagement: 195
+    commentsToLikes: 0.090983
+    id: ck134ulwfy9hn0i19vg6lliup
     verified: false
-    hashtags: "#stayhome, #ramadan, #dubai, #urbanexplorer"
+    hashtags: "#dubaidesert, #expatindubai, #dubaiexpat, #discoverdubai"
+  - username: "sammysreel"
+    fullname: >-
+      S A M I N A | ثمينة
+    bio: >-
+      📍 Lifestyle | Dubai 🇦🇪 Tv Show Host | Destination Specialist | PR • Style • Food • Travel • Beauty •
+    location: "United Arab Emirates"
+    followers: 59076
+    engagement: 163
+    commentsToLikes: 0.087226
+    id: ck13cqrf81pf60i19h8ewn0ga
+    verified: false
+    hashtags: "#dubai30x30, #fitnessindxb, #dubaifitness, #dubaifitnesschallenge"
+  - username: "philipe0410"
+    fullname: >-
+      Felipe | فيليب
+    bio: >-
+      Menstyle - Lifestyle - Luxury Travels 📍#Dubai 👻 Snap: Philipe0410 📩 felipeandres10@hotmail.com
+    location: "United Arab Emirates"
+    followers: 86144
+    engagement: 157
+    commentsToLikes: 0.061165
+    id: ck0w1yt1alsxz0i19hfhq8wbn
+    verified: false
+    hashtags: "#visitdubai, #travelblogger, #hotels, #weekend"
 ---

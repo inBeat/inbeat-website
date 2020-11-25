@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Milan In 2020
 description: >-
-  Find top architecture Instagram influencers in Milan in 2020. Most popular hashtags: #milano #architecture #milan #arte.
+  Find top architecture Instagram influencers in Milan in 2020. Most popular hashtags: #milano #architecture #milan #italy.
 platform: Instagram
+hits: 200
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 200 Instagram influencers like this in Milan, Italy for you to connect with.
 profiles:
-  - username: "_lagiuditta"
+  - username: "milano_scomparsa_o_quasi"
     fullname: >-
-      Roberta Mazzone
+      
+    bio: >-
+      Appassionato di storia, specialmente milanese e lombarda, collezionista di foto, incisioni, dipinti e immagini storiche di Milano.
     location: "Italy"
-    followers: 79937
-    engagement: 153
-    commentsToLikes: 0.071067
-    id: ck0vvaxkdobqm0i19ziuj7crf
+    followers: 27001
+    engagement: 515
+    commentsToLikes: 0.017536
+    id: ck13947gcjfp70i192d0nhzov
     verified: false
-    hashtags: "#phoneclone, #sdrammatizziamo, #huaweinextimage, #sezanelovers"
+    hashtags: "#art, #architecturephotography, #lombardia, #architecture"
+  - username: "yongbaeseok"
+    fullname: >-
+      YONG BAE SEOK®_석용배
+    bio: >-
+      Industrial/Fashion Designer, Creative Director TOD’S No_Code Project @todsno_code Head of Sneaker Design TOD’S, Founder Brand “SEOK™”@seok_individual
+    location: "Italy"
+    followers: 42570
+    engagement: 31
+    commentsToLikes: 0.034029
+    id: ck15symj6fgyw0i19pwyq73ce
+    verified: false
+    hashtags: "#todsnocode, #todsnocodex, #nocode, #hybrid"
+  - username: "sara_rossetto"
+    fullname: >-
+      Sara Nicole Rossetto
+    bio: >-
+      Professional dreamer 💭 Working on transforming them into reality Talent for Next Models Management Sara_rossetto@hotmail.it
+    location: "Italy"
+    followers: 96372
+    engagement: 123
+    commentsToLikes: 0.024110
+    id: ck0u9nr2xaa120i19ou0py70a
+    verified: false
+    hashtags: "#milano, #estateitaliana, #suppliedby, #villapizzorusso"
   - username: "carlo_stanga"
     fullname: >-
       Carlo Stanga Illustrator
+    bio: >-
+      Italian freelance illustrator, architect, books author based in Berlin #illustration #travels #architecture #berlin #milano #greece
     location: "Italy"
-    followers: 51567
-    engagement: 352
-    commentsToLikes: 0.027078
+    followers: 60749
+    engagement: 257
+    commentsToLikes: 0.020261
     id: ck0uba49be6y00i19e6pswk9y
     verified: false
-    hashtags: "#studio, #atelier, #mappa, #roughsketch"
-  - username: "sergiosierra67"
+    hashtags: "#carlostanga, #architettura, #architecture, #illustratedbook"
+  - username: "_lagiuditta"
     fullname: >-
-      TAXI MILAN TRAVELER🇮🇹🇬🇧🇪🇸🇵🇹🇫🇷
+      Roberta Mazzone
+    bio: >-
+      Nata in Sicilia, nell'estate di un anno dispari 🎒Travel/Lifestyle/Architecture 📍Milano↔️Brescia 📮robertamazzone91@gmail.com
     location: "Italy"
-    followers: 27751
-    engagement: 209
-    commentsToLikes: 0.031767
-    id: ckap5tif5d3nd0i784n85s4xb
+    followers: 79518
+    engagement: 166
+    commentsToLikes: 0.070213
+    id: ck0vvaxkdobqm0i19ziuj7crf
     verified: false
-    hashtags: "#photooftheday, #generali, #toyotachr2020, #pandemie"
-  - username: "lucabravo"
+    hashtags: "#ad, #huaweip40pro, #huawei, #phoneclone"
+  - username: "fantamilano"
     fullname: >-
-      Luca Bravo
+      Fanta Milano
+    bio: >-
+      ✨✨✨ #FANTAMILANO ✨✨✨
     location: "Italy"
-    followers: 5567
-    engagement: 554
-    commentsToLikes: 0.019227
-    id: ck5cfhjfjmysv0i119bao9l4a
+    followers: 6404
+    engagement: 1735
+    commentsToLikes: 0.004837
+    id: ckaorj8crnh6h0i78lueosuyf
     verified: false
-    hashtags: "#ishootfilm, #negativefb, #applestore, #leicam"
-  - username: "arianna_boehm"
+    hashtags: "#lombardia, #italia, #volgomilano, #milanodaclick"
+  - username: "eventiatmilano"
     fullname: >-
-      Arianna Boehm ✈️🌍
+      Eventi@Milano
+    bio: >-
+      𝘖𝘨𝘨𝘪. 𝘈 𝘔𝘪𝘭𝘢𝘯𝘰. 𝘘𝘶𝘢𝘭𝘤𝘰𝘴𝘢 𝘥𝘪 𝘥𝘪𝘷𝘦𝘳𝘴𝘰 𝘥𝘢𝘭 𝘴𝘰𝘭𝘪𝘵𝘰 𝘢𝘱𝘦𝘳𝘪𝘵𝘪𝘷𝘰. 📸 #eventiatmilano ⬇️ Promuovi il tuo evento ⬇️
     location: "Italy"
-    followers: 9431
-    engagement: 1036
-    commentsToLikes: 0.096346
-    id: ck6ueki6qrglu0j71jlxx3mq5
+    followers: 30134
+    engagement: 142
+    commentsToLikes: 0.021985
+    id: ckaovrmzx5ux50i781wsa9gfm
     verified: false
-    hashtags: "#peace, #volgoitalia, #travelling, #capodanno"
-  - username: "polimi"
+    hashtags: "#whywelovemilano, #comunedimilano, #eventiatmilano, #awesomeitaly"
+  - username: "boe_project"
     fullname: >-
-      Politecnico di Milano
+      #polimidrawings
+    bio: >-
+      a collection of Politecnico di Milano architectural drawings #polimidrawings boeproject@yahoo.com
     location: "Italy"
-    followers: 55920
-    engagement: 565
-    commentsToLikes: 0.005403
-    id: ck0tuvy0o8wxo0i1986dct00o
+    followers: 7057
+    engagement: 615
+    commentsToLikes: 0.002991
+    id: ck8t57u6h939k0j78igcs0z4y
     verified: false
-    hashtags: "#violenceagainstwomen, #campus, #laureepolimi, #weekend"
-  - username: "jimmy.spagnesi"
+    hashtags: "#autocad, #av, #architectureonpaper, #photoshop"
+  - username: "milandesignmarket"
     fullname: >-
-      Gianmarco Spagnesi
+      Milan Design Market
+    bio: >-
+      A place for designers, who can exhibit and sell their products. Shop online and get the WOW! - Visit us during Milan Design Week @isoladesigndistrict
     location: "Italy"
-    followers: 7578
-    engagement: 704
-    commentsToLikes: 0.008231
-    id: ck6u5x1jcc8ws0j71xre41ie1
+    followers: 28090
+    engagement: 85
+    commentsToLikes: 0.007522
+    id: ck9wd5m53e5wl0j78up342jsk
     verified: false
-    hashtags: "#wave, #foodporn, #design, #view"
-  - username: "matteothun"
+    hashtags: ""
+  - username: "vetto18"
     fullname: >-
-      Matteo Thun Milano
+      Andrea Vettore 🦁
+    bio: >-
+      𝖫𝗂𝖿𝖾𝗌𝗍𝗒𝗅𝖾 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 📚| Management Engineering 📍| BS, Italy 🇮🇹 📩| Collabs👉🏼DM 💲| “CUONKOQE” for -40% @dudios_official 🎧 💲| @apeman_official ↴
     location: "Italy"
-    followers: 28708
-    engagement: 96
-    commentsToLikes: 0.015728
-    id: ck6u11g6lizr10j715pj556us
+    followers: 15709
+    engagement: 597
+    commentsToLikes: 0.269315
+    id: ckap9am1druyb0i78ywwglrbd
     verified: false
-    hashtags: "#corneliapoletto, #kitchendecor, #hoteldesign, #igersardegna"
-  - username: "briblu12"
-    fullname: >-
-      Cristina
-    location: "Italy"
-    followers: 17724
-    engagement: 487
-    commentsToLikes: 0.016983
-    id: ck8t5jjwjabn10j782025a6k5
-    verified: false
-    hashtags: "#volgopuglia, #parcodelbeigua, #buildings, #blucerchiati"
-  - username: "rossellaiacolare"
-    fullname: >-
-      𝓡𝓸𝓼𝓼𝓮𝓵𝓵𝓪 | ᴛʀᴀᴠᴇʟ ᴅɪᴀʀᴇꜱ
-    location: "Italy"
-    followers: 6385
-    engagement: 520
-    commentsToLikes: 0.052288
-    id: ck5qbdt6el41x0i11uldi6u8k
-    verified: false
-    hashtags: "#brasilian, #messika, #pointofview, #portrait"
+    hashtags: "#varihfb1, #coronavirus, #aesthetics, #apple"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In Argentina In 2020
 description: >-
-  Find top divers TikTok influencers in Argentina in 2020. Most popular hashtags: #argentina #video #rutinaencasa #tiktok.
+  Find top divers TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #diversion #fyp #comedia.
 platform: TikTok
+hits: 57
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 57 TikTok influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "caryruth"
+    fullname: >-
+      CaryRuth
+    bio: >-
+      Por Diversión #caryruth ♡๑۞๑❁۩ đα𝐦Ẹ 𝓂𝐢𝕝 β𝐞𝔰ㄖŜ ۩❁๑۞๑♡ No ofensas 🙏
+    location: "Argentina"
+    followers: 55800
+    engagement: 2130
+    commentsToLikes: 0.203468
+    id: ckcvin1nqvrs50j23l9ghtcvr
+    verified: false
+    hashtags: "#argentina, #caryruth, #100precuchicuchi, #duochallenge"
+  - username: "ferchudiez10mil"
+    fullname: >-
+      Fernanda Diez
+    bio: >-
+      SOY CASADA uso tik tok solo x diversión!!!! sana y fliar.
+    location: "Argentina"
+    followers: 6526
+    engagement: 3171
+    commentsToLikes: 0.303852
+    id: ckdclvhy7o2mn0j23p7h9l9oo
+    verified: false
+    hashtags: "#fyp, #parati, #espa, #humorista"
   - username: "lamasortiva_"
     fullname: >-
       lamasortiva
+    bio: >-
+      Mi Instagram 👆 seguinos para más diversión ♥️
     location: "Argentina"
-    followers: 202530
-    engagement: 2849
-    commentsToLikes: 0.012643
+    followers: 210000
+    engagement: 2569
+    commentsToLikes: 0.013970
     id: ck83zdz1rzwbm0j78ynpt4aew
     verified: false
-    hashtags: ""
-  - username: "abailarconmaga"
+    hashtags: "#parati, #fyp, #argentina, #foryou"
+  - username: "adrian_gusta"
     fullname: >-
-      A bailar con Maga
+      Adrian
+    bio: >-
+      🇦🇷 Buenos Aires, Mar del Plata,.#ESCUADRON_AVEFENIX🦅🦅🔥
     location: "Argentina"
-    followers: 4219390
-    engagement: 2402
-    commentsToLikes: 0.039214
-    id: ck9f1oial8zji0j78prulaqgt
-    verified: true
-    hashtags: "#resultado, #tutorial, #youtube, #sorpresa"
-  - username: "elbostero29oficial"
-    fullname: >-
-      elbostero29oficial
-    location: "Argentina"
-    followers: 7126
-    engagement: 870
-    commentsToLikes: 0.029328
-    id: cka840hk5rb240i78829q1fnb
+    followers: 5878
+    engagement: 5794
+    commentsToLikes: 0.624782
+    id: ckbbkh9de8ta00j23bux0ln4l
     verified: false
-    hashtags: "#familiabostera, #losmejores, #bocaestafeliz, #gallina"
-  - username: "davidlon4"
+    hashtags: "#seguidores, #parati, #halloween, #diversion"
+  - username: "solsantandertiktok"
     fullname: >-
-      David Lon
+      Sol Santander
+    bio: >-
+      Parodias y Humor Fisico, el 😻 se llama Pol Soy Bailarina❤️ Mi Ig: @solsantander
     location: "Argentina"
-    followers: 3711
-    engagement: 448
-    commentsToLikes: 0.036270
-    id: cka6ar8w0xfwf0i78ykh5rkyu
+    followers: 134000
+    engagement: 1324
+    commentsToLikes: 0.028767
+    id: ckad57cp5t1np0i78bg5qg807
     verified: false
-    hashtags: "#startrek, #boxeo, #gracioso, #taekwondo"
-  - username: "gas.paredes"
+    hashtags: "#clown, #mama, #diversi, #humorfisico"
+  - username: "clotaleon"
     fullname: >-
-      Gastón Paredes
+      Claudia Leon
+    bio: >-
+      Fonoaudiologa.Docente de nivel inicial.Acá me divierto Ig @clotaclauleon
     location: "Argentina"
-    followers: 20624
-    engagement: 668
-    commentsToLikes: 0.015039
-    id: ck9f1ukc4a5wa0j781tajefka
+    followers: 50300
+    engagement: 363
+    commentsToLikes: 0.049388
+    id: ckbex4hgyh8an0j23iai9orm3
     verified: false
-    hashtags: "#cine, #hoyts, #monstersinc, #years"
-  - username: "diegoging"
+    hashtags: "#fyp, #diversion, #baile, #humor"
+  - username: "yohanachuckygarri"
     fullname: >-
-      Diego Ging
+      Yohana Chucky Garrid
+    bio: >-
+      Argentina🇦🇷🇦🇷🇦🇷 tengo 25 años🙋♀️
     location: "Argentina"
-    followers: 28492
-    engagement: 765
-    commentsToLikes: 0.094172
-    id: ck9040kijduk30j78bwngdspg
+    followers: 12200
+    engagement: 1690
+    commentsToLikes: 0.018541
+    id: cka62m1nv0glf0i78ssay4l1q
     verified: false
-    hashtags: "#trucha, #pelada, #bsas, #convivencia"
-  - username: "lomejorestwittervideos"
+    hashtags: "#funny, #acting, #comedia, #risa"
+  - username: "servicios.web"
     fullname: >-
-      ME ENCANTA TWITTER
+      Servicios Web
+    bio: >-
+      Director de contenido en fb.me/swbariloche
     location: "Argentina"
-    followers: 49372
-    engagement: 2523
-    commentsToLikes: 0.009963
-    id: ck9c178vuom1s0j78y19nawmi
+    followers: 34300
+    engagement: 583
+    commentsToLikes: 0.031974
+    id: ckcuj86zdgdgq0j2306desutz
     verified: false
-    hashtags: "#arte, #amigos, #cosasincreibles"
-  - username: "quechuchomanucho"
+    hashtags: "#fyp, #humortiktok, #diadelamigo, #amigos"
+  - username: "caro.rossi20"
     fullname: >-
-      Quechuchomanucho
+      Carolina Rossi
+    bio: >-
+      Mamá de muchos niños.. Diseñadora de Alta Costura...cuando puedo
     location: "Argentina"
-    followers: 213035
-    engagement: 1199
-    commentsToLikes: 0.007862
-    id: cka0to9w9qt050i78lnta81cj
-    verified: true
-    hashtags: "#argentina, #favorito, #parati"
-  - username: "nataliasosa277"
-    fullname: >-
-      Natalia Sosa
-    location: "Argentina"
-    followers: 7187
-    engagement: 1562
-    commentsToLikes: 0.132327
-    id: ck9slqm9ifcwa0j789frziu4h
+    followers: 18000
+    engagement: 1817
+    commentsToLikes: 0.162159
+    id: ckavsou5a5anu0j2386dcr91e
     verified: false
-    hashtags: "#reaccionar, #bastadebulling, #para, #apoyo"
-  - username: "belenmartinez953"
+    hashtags: "#efectostiktok, #cantando, #rocioquiroz, #localocaloca"
+  - username: "sergiomolina15"
     fullname: >-
-      belen martinez
+      Sergio Molina
+    bio: >-
+      SIGANME Y Los SIGO En Instagram: sergio_ariel_
     location: "Argentina"
-    followers: 5344
-    engagement: 976
-    commentsToLikes: 0.061917
-    id: ckaillo76ops90i782z1av1o3
+    followers: 3942
+    engagement: 1328
+    commentsToLikes: 0.164326
+    id: ckd17ukh2p7zq0j23yjc3w35m
     verified: false
-    hashtags: "#loserschallenge, #2019, #hermanos, #nanatzunotaizai"
+    hashtags: "#fmsargentina2020, #instagram, #tiktokargentina, #rap"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness TikTok Influencers In 2020
 description: >-
-  Find top wellness TikTok influencers in 2020. Most popular hashtags: #motivation #keepingactive #health #momsoftiktok.
+  Find top wellness TikTok influencers in 2020. Most popular hashtags: #duet #fyp #mentalhealth #biden2020.
 platform: TikTok
+hits: 493
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 493 TikTok influencers like this for you to work with.
 profiles:
-  - username: "sassy_dianne"
+  - username: "jasonstotz"
     fullname: >-
-      wellnesswithsouthern
+      Jason Stotz
+    bio: >-
+      Wellness and Fitness Coach CEO of ‘The River’ Dance Sexy, Silly, Spiritual
     location: "United States"
-    followers: 7664
-    engagement: 1702
-    commentsToLikes: 0.142282
-    id: ck9si9aduxrkk0j78h09c4d7w
+    followers: 99700
+    engagement: 1975
+    commentsToLikes: 0.037503
+    id: ckc8ae8ak75te0j23dwky6hds
     verified: false
-    hashtags: "#aftermycoffee, #past, #lovethem, #bestfriends"
-  - username: "beenietv6"
+    hashtags: "#bluewave, #redbulldanceyourstyle, #byedon, #biden2020"
+  - username: "bridget_brady"
     fullname: >-
-      Beenie TV
+      Bridget Brady
+    bio: >-
+      Performance Coach Achieve Your Wildest Dreams Wellness Junkie + Author
     location: "United States"
-    followers: 4222
-    engagement: 1315
-    commentsToLikes: 0.089111
-    id: cka6m32i05m100i78lwjh04r1
+    followers: 26400
+    engagement: 1561
+    commentsToLikes: 0.445415
+    id: cka8e6ejpvyr30i78mw4cljz5
     verified: false
-    hashtags: "#keepingactive, #periodhacks, #fashion, #periodtalk"
+    hashtags: "#jacksonholewy, #dontsettleladies, #duet, #bidenfraud"
+  - username: "mr.tracyb"
+    fullname: >-
+      Tracy J. Brown
+    bio: >-
+      Health&Wellness, Wisdom, Motivation, Justice & positive. linktr.ee/Mr.Tracy
+    location: "United States"
+    followers: 27100
+    engagement: 1561
+    commentsToLikes: 0.104611
+    id: ckblka19dd4cc0j23zc2m2cwu
+    verified: false
+    hashtags: "#vote2020, #thefold, #duet, #fyp"
+  - username: "itsanewdawn4you"
+    fullname: >-
+      Lenora Colarusso
+    bio: >-
+      56 young/mom of five/ RN holistic health coach/ health and wellness🌈
+    location: "United States"
+    followers: 9313
+    engagement: 2141
+    commentsToLikes: 0.427941
+    id: ckcoqxpct7f270j235909ff39
+    verified: false
+    hashtags: "#wip, #duet, #tessaarmy, #itsanewdawn"
+  - username: "anisabenitez"
+    fullname: >-
+      Anisa Benitez
+    bio: >-
+      CREATIVE WELLNESS 🧘🏾‍♀️☁️ 🌿 From Google to 🎭 Podcast: No Starving Artist👇🏽
+    location: "United States"
+    followers: 27500
+    engagement: 1479
+    commentsToLikes: 0.059410
+    id: ckb9lfdk6dtx70j23786yeask
+    verified: false
+    hashtags: "#duet, #creativewellness, #tiktokpartner, #wellnesstiktok"
+  - username: "jennityler"
+    fullname: >-
+      Jenni Tyler
+    bio: >-
+      ☀️ Art & Mental Wellness ☀️ I just want to make stuff and be happy!
+    location: "Australia"
+    followers: 100400
+    engagement: 2161
+    commentsToLikes: 0.013266
+    id: ckbwdubrf1bry0j23qpmocvzd
+    verified: false
+    hashtags: "#mentalhealth, #fundraiser, #painting, #mentalhealthmatters"
   - username: "laxmisurendran"
     fullname: >-
       lakshmiksurendran
+    bio: >-
+      Filim ,, comedy actress and wellness coach ......
     location: "India"
-    followers: 19626
-    engagement: 1655
-    commentsToLikes: 0.036935
+    followers: 19500
+    engagement: 1622
+    commentsToLikes: 0.041272
     id: cka8g9dh35pcd0i78f3zbwcas
     verified: false
-    hashtags: "#laleattanfa, #tamilsongs, #vijayfans, #paripuvada"
-  - username: "drthierryjacquemin"
-    fullname: >-
-      DrThierryJacquemin
-    location: "United States"
-    followers: 65963
-    engagement: 876
-    commentsToLikes: 0.069456
-    id: ck9fx9k895jc70j78c92r6sun
-    verified: false
-    hashtags: "#immunity, #vitamind, #lipfiller, #imunidade"
-  - username: "imhereandcare"
-    fullname: >-
-      Ro 💜
-    location: "United States"
-    followers: 45086
-    engagement: 1100
-    commentsToLikes: 0.036192
-    id: ck9kg8mrz6qif0j782z2md5hc
-    verified: false
-    hashtags: "#played, #brokenheart, #yearbook2020, #beyourself"
-  - username: "everariasmd"
-    fullname: >-
-      Ever Arias, MD
-    location: "United States"
-    followers: 2617
-    engagement: 806
-    commentsToLikes: 0.067504
-    id: ckamlwyx2y1dx0i78x55ef5cl
-    verified: false
-    hashtags: "#spiritual, #duet, #bestfriend, #medstudents"
+    hashtags: "#nellikkaa, #tamil, #tamilsongs, #vijayfans"
   - username: "doctorrose"
     fullname: >-
       Dr. Rose
+    bio: >-
+      Eye doc loving all things dry eye and preventative wellness. 👁 ❤️
     location: "United States"
-    followers: 140161
-    engagement: 543
-    commentsToLikes: 0.032175
+    followers: 176300
+    engagement: 1089
+    commentsToLikes: 0.048837
     id: ck83z7wmsyhx60j78cbt3vtpx
     verified: false
-    hashtags: "#momsoftiktok, #dryeyes, #orthokeratology, #visiontherapy"
-  - username: "bigleemurali"
+    hashtags: "#dryeyes, #myopia, #meibomianglanddysfunction, #dryeye"
+  - username: "theallenye"
     fullname: >-
-      Biglee Murali
-    location: "India"
-    followers: 62820
-    engagement: 499
-    commentsToLikes: 0.039281
-    id: ckaftkvzx5rdt0i78ribs8hyd
-    verified: false
-    hashtags: "#saysoremix, #goslow, #abschallenge, #snack"
-  - username: "emilymparr"
-    fullname: >-
-      Emily Parr
-    location: "Canada"
-    followers: 2046
-    engagement: 854
-    commentsToLikes: 0.053917
-    id: ckacfg21zqt000i788n329lm3
-    verified: false
-    hashtags: "#yinyang, #dating, #meditation, #purplehair"
-  - username: "busybabeketo"
-    fullname: >-
-      Meagan Anderson
+      Allen Ye
+    bio: >-
+      Come for looks, stay for knowledge Health/wellness/fitness LA ⬇️free workouts⬇️
     location: "United States"
-    followers: 79897
-    engagement: 458
-    commentsToLikes: 0.046720
-    id: ck8adaie14o6j0j78fc4yakmf
+    followers: 246500
+    engagement: 1969
+    commentsToLikes: 0.016050
+    id: ckb9ughdjt3y00j234lz9dsst
     verified: false
-    hashtags: "#workoutfromhome, #duet, #neverfitin, #littlethings"
+    hashtags: "#duet, #greenscreen, #stitch, #fitness"
+  - username: "imhereandcare"
+    fullname: >-
+      Rohit Tigga 💜
+    bio: >-
+      You have a purpose 💜 Follow me on Insta SIGN UP FOR OUR WELLNESS APP 👇
+    location: "United States"
+    followers: 102600
+    engagement: 1034
+    commentsToLikes: 0.046852
+    id: ck9kg8mrz6qif0j782z2md5hc
+    verified: false
+    hashtags: "#imhereandcare, #relationships, #mentalhealth, #relationshipgoals"
 ---

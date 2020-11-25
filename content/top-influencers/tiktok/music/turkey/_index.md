@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Turkey In 2020
 description: >-
-  Find top music TikTok influencers in Turkey in 2020. Most popular hashtags: #yapmasamolmaz #19may #tiktokchallenge #kemalsunal.
+  Find top music TikTok influencers in Turkey in 2020. Most popular hashtags: #ke #beni #tiktok #foryou.
 platform: TikTok
+hits: 112
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 112 TikTok influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "egoispati2"
+  - username: "ibojimmy.xxx"
     fullname: >-
-      EgoisPati
+      ibo.jimmy.xx
+    bio: >-
+      İnstagramdaktifimTakip👍 -Trap Music🎶 📍Konya-İzmir -Hükümsüzdür⚜️ Galerici📍
     location: "Turkey"
-    followers: 36517
-    engagement: 1308
-    commentsToLikes: 0.204990
-    id: ck9r3u9urrr5m0j789bbga87v
+    followers: 2217
+    engagement: 510
+    commentsToLikes: 0.049692
+    id: ckbet2ljvbwkx0j23oec961o9
     verified: false
-    hashtags: "#romania, #kemalsunalizm, #inspiration"
+    hashtags: "#rangerover, #konya, #ak, #tiktok"
+  - username: "emrealpaslan"
+    fullname: >-
+      Emre Alpaslan
+    bio: >-
+      "live with passion, live musical.ly"
+    location: "Turkey"
+    followers: 5086
+    engagement: 1049
+    commentsToLikes: 0.023631
+    id: ckbqbwipbxulj0j23f8h6mb8z
+    verified: false
+    hashtags: "#sansar, #karde, #beni, #cans"
+  - username: "yavuzmerve19"
+    fullname: >-
+      Yavuz Merve korkut
+    bio: >-
+      İlham alın ve ilham kaynağı olun. Tutkuyla yaşa, musical.ly ile yaşa
+    location: "Turkey"
+    followers: 188100
+    engagement: 483
+    commentsToLikes: 0.003030
+    id: ckbr6qjttm4cj0j23qi2un0f3
+    verified: false
+    hashtags: "#herkessevdi, #love, #evlilikhalleri, #evlilikg"
   - username: "okan1iz"
     fullname: >-
       OKAN💫
+    bio: >-
+      🇹🇷 Bursa Hadi 470K yapmaya ne dersiniz 🥰 SEN YOKSAN 1 KİŞİ EKSİĞİZ DEMEKTİR
     location: "Turkey"
-    followers: 207364
-    engagement: 1754
-    commentsToLikes: 0.025084
+    followers: 466500
+    engagement: 1096
+    commentsToLikes: 0.031120
     id: ck8s840sjrxb70j786zpr1hwd
     verified: false
-    hashtags: "#yapmasamolmaz, #ejderhayad, #tikto, #kimsanabukadarg"
-  - username: "hakan1iz"
+    hashtags: "#sonbaharmodas, #slawz, #perilik, #ke"
+  - username: "adeeb.5g"
     fullname: >-
-      HAKAN MUSLU 💎
+      ᕷㅤ ADEEB
+    bio: >-
+      
     location: "Turkey"
-    followers: 120392
-    engagement: 1469
-    commentsToLikes: 0.026772
-    id: ckai6bv7svgy50i782dy3fgz7
+    followers: 568600
+    engagement: 1390
+    commentsToLikes: 0.014018
+    id: ckb0xzu4wmxjs0j2354s5hasg
     verified: false
-    hashtags: "#spacejump, #arkaplan, #19may, #yapmasamolmaz"
-  - username: "seyitalikurt"
+    hashtags: ""
+  - username: "salmgoane"
     fullname: >-
-      Seyit Ali Kurt
+      أبنك يا شام (سالم)
+    bio: >-
+      رابط قناتي اليوتيوب 👇
     location: "Turkey"
-    followers: 12161
-    engagement: 698
-    commentsToLikes: 0.074239
-    id: cka7ohpcd2cly0i782ckyuqjo
+    followers: 273200
+    engagement: 1179
+    commentsToLikes: 0.049286
+    id: ckb8y1w57d6n00j23a9vhfqk3
     verified: false
-    hashtags: "#nisa, #akyazistadyum, #ezgizem, #alazli"
+    hashtags: "#duet, #fyp, #smile, #slowmo"
+  - username: "yabangulu11"
+    fullname: >-
+      Fatma Gül
+    bio: >-
+      ❤❤❤TİKTOK SİLİNECEK INSTAGRAM DAN TAKİP EDİN😘😘❤❤❤
+    location: "Turkey"
+    followers: 65200
+    engagement: 1140
+    commentsToLikes: 0.026376
+    id: cka0hs9hjal640i78f3yhl8d1
+    verified: false
+    hashtags: "#soguksu, #musically, #tik, #komedit"
+  - username: "mustafarius"
+    fullname: >-
+      M U S T A F A
+    bio: >-
+      Alone / KoNYA İnstagram/MUSTAFARİİUS
+    location: "Turkey"
+    followers: 18100
+    engagement: 1303
+    commentsToLikes: 0.059409
+    id: cka7wnf5e13ay0i787s38ultc
+    verified: false
+    hashtags: "#slowmo, #fyp, #smm, #pov"
+  - username: "senamidilli"
+    fullname: >-
+      🕊
+    bio: >-
+      NOT FAMOUS YET
+    location: "Turkey"
+    followers: 6710
+    engagement: 811
+    commentsToLikes: 0.240636
+    id: ck9n6gldi760x0j789bi43kul
+    verified: false
+    hashtags: "#satisfying, #musically, #tiktok, #opposelfie"
   - username: "bariscoskunofficial"
     fullname: >-
       Barış Coşkun
+    bio: >-
+      Klip 🎬 ŞEVKO İnstagram bariscoskunofficial
     location: "Turkey"
-    followers: 4162
-    engagement: 581
-    commentsToLikes: 0.100937
+    followers: 5593
+    engagement: 511
+    commentsToLikes: 0.067172
     id: cka7ugmd3rs4g0i78p52xwkpr
     verified: false
-    hashtags: "#uzunhava, #sevenler, #cengizimren, #hawler"
-  - username: "tumblrqueen👸🏼"
-    fullname: >-
-      🕊
-    location: "Turkey"
-    followers: 5135
-    engagement: 575
-    commentsToLikes: 0.216053
-    id: ck9n6gldi760x0j789bi43kul
-    verified: false
-    hashtags: "#hypehouse, #parfum, #slomotion, #dermokil"
-  - username: "guneysustam"
-    fullname: >-
-      Güney Sustam
-    location: "Turkey"
-    followers: 318980
-    engagement: 717
-    commentsToLikes: 0.028734
-    id: ck8kcvsvj34ss0j78boqfi525
-    verified: false
-    hashtags: "#nutella, #waffles, #instagramstory, #evdekal"
-  - username: "mustafaadirek"
-    fullname: >-
-      Mustafa 👻
-    location: "Turkey"
-    followers: 14742
-    engagement: 1055
-    commentsToLikes: 0.065130
-    id: cka7wnf5e13ay0i787s38ultc
-    verified: false
-    hashtags: "#memes, #sonugelmez, #benitan"
-  - username: "cemregozeel"
-    fullname: >-
-      cemre
-    location: "Turkey"
-    followers: 26248
-    engagement: 1519
-    commentsToLikes: 0.032408
-    id: ck9f3ufdyjhge0j78q0n16c74
-    verified: false
-    hashtags: "#van, #bitlis13, #benionecikar, #kurtce"
-  - username: "helos.online"
-    fullname: >-
-      HELİN SARA ŞEKER💎
-    location: "Turkey"
-    followers: 9846
-    engagement: 1167
-    commentsToLikes: 0.025565
-    id: cka7oqwqg3nme0i782jk32udj
-    verified: false
-    hashtags: "#dance, #halayyy, #ramazanay, #teamhs"
+    hashtags: "#beni, #tiktok, #adanal, #01adana"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In India In 2020
 description: >-
-  Find top health TikTok influencers in India in 2020. Most popular hashtags: #india #justjam #ammyvirk #rateyourlooks.
+  Find top health TikTok influencers in India in 2020. Most popular hashtags: #duet #foryou #tiktok #foryoupage.
 platform: TikTok
+hits: 808
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 808 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "sanjeep15sharam"
     fullname: >-
       Sanjeep❤️Sharma🇮🇳
+    bio: >-
+      from darjeeling 🇮🇳❤️🙏 be happy 89217 😘 stay happy & healthy 99903
     location: "India"
-    followers: 5729
-    engagement: 5248
-    commentsToLikes: 0.032452
+    followers: 5616
+    engagement: 4633
+    commentsToLikes: 0.033983
     id: ckae5pm8g8kyu0i786bwerwxc
     verified: false
-    hashtags: "#hotel, #tiktok, #book, #bengali"
+    hashtags: "#nepal, #duet, #foryou, #indian"
+  - username: "boxer_chori45"
+    fullname: >-
+      💯🥊 Boxer 🔥
+    bio: >-
+      WANT health tips🔥 FOLLOW ME🔥 WANT to join🔥INDIAN ARMY🔥 YES I m 🥊 BOXER🥊
+    location: "India"
+    followers: 48600
+    engagement: 1223
+    commentsToLikes: 0.071295
+    id: cka0srrgzmrc40i78k4a8fsn6
+    verified: false
+    hashtags: "#swagstepchallenge, #boxer, #sharethecare, #lovegoals"
+  - username: "mr_jitan"
+    fullname: >-
+      JITAN
+    bio: >-
+      health is wealth. ODISHA fb Madhusudan Deuri
+    location: "India"
+    followers: 1200000
+    engagement: 1372
+    commentsToLikes: 0.014221
+    id: ck9noa27ot2dj0j78sr7a2eh4
+    verified: false
+    hashtags: "#duet, #india, #foryou, #army"
   - username: "old_iz_gold"
     fullname: >-
       Dr Divya
+    bio: >-
+      Doctor/Physician👩‍⚕️M here to act/dance/healthadvice
     location: "India"
-    followers: 289539
-    engagement: 1139
-    commentsToLikes: 0.029496
+    followers: 295500
+    engagement: 817
+    commentsToLikes: 0.020019
     id: ck7zp8pqvnwfu0j78s4pk7do9
     verified: false
-    hashtags: "#foryou, #whatieatinaday, #nutrition, #fightagainstcoronaavirus"
-  - username: "mr_jitanoffice"
+    hashtags: "#drdivya, #duet, #edutok, #edutokkannada"
+  - username: "sushreesimimua"
     fullname: >-
-      JITAN
+      ❤🖤Makeup lover🖤❤
+    bio: >-
+      💄professional Makeup artist💄 Makeup lover😍 lil bit healthy 15May mine 🎂
     location: "India"
-    followers: 1224643
-    engagement: 1674
-    commentsToLikes: 0.012778
-    id: ck9noa27ot2dj0j78sr7a2eh4
+    followers: 13600
+    engagement: 796
+    commentsToLikes: 0.103237
+    id: ckb94a44xlkps0j234h9o9lp1
     verified: false
-    hashtags: "#comedy, #thanksmaa, #india, #expressionchallenge"
+    hashtags: "#myntraeorschallenge, #simizfam, #lecco, #simizmua"
   - username: "surgeryonline"
     fullname: >-
       DrAnimesh MS
+    bio: >-
+      dr.animesh25@gmail.com Open the link 👇🏻 for health supplements
     location: "India"
-    followers: 3864908
-    engagement: 1031
-    commentsToLikes: 0.011223
+    followers: 4000000
+    engagement: 592
+    commentsToLikes: 0.014238
     id: ck7zp8qbnnwn20j78nfe1tz6o
     verified: true
-    hashtags: "#edutokcareer, #mind, #comment, #safe"
-  - username: "performixathlete"
+    hashtags: "#edutok, #candleofhope, #itsafact, #sharethecare"
+  - username: "sucrinhachhatry"
     fullname: >-
-      😎PERFORMIX ANISH💪
+      Sucrinha Chhatry
+    bio: >-
+      Indian Rapunzel 🇮🇳 Bird Lover 💕 and Rescuer🐦 Follow me for healthy Hair tips
     location: "India"
-    followers: 29206
-    engagement: 1476
-    commentsToLikes: 0.005497
-    id: ck81s2mhfpjwf0j78bw12b0t2
+    followers: 43800
+    engagement: 385
+    commentsToLikes: 0.039723
+    id: ckbf5484sty3c0j23x1fy9l6z
     verified: false
-    hashtags: "#ziddihunmain, #fight, #ropeclimbing, #mahabalipuram"
+    hashtags: "#hairgoals, #tiktok, #longhair, #foryou"
   - username: "sheetalpankajaror7"
     fullname: >-
       Sheetal Pankaj Arora
+    bio: >-
+      Beauty and health tips 🙏 I come live every Tuesday, Thursday, Saturday At 8:00
     location: "India"
-    followers: 1254125
-    engagement: 651
-    commentsToLikes: 0.027475
+    followers: 1400000
+    engagement: 523
+    commentsToLikes: 0.020832
     id: ck8tmt1gygg5z0j784clwxy68
     verified: true
-    hashtags: "#healthtips, #happymothersday, #tips, #daddysgirl"
-  - username: "sardarni_9"
+    hashtags: "#sheetalpankajaror7, #eudtiktoktips, #swagstepchallenge, #easytips"
+  - username: "drparamjeetsingh"
     fullname: >-
-      Miss kaur
+      Dr.Education
+    bio: >-
+      Stay connected stay healthy
     location: "India"
-    followers: 112739
-    engagement: 1088
-    commentsToLikes: 0.019982
-    id: cka0om7jd4h390i78otdbpkr4
+    followers: 244300
+    engagement: 323
+    commentsToLikes: 0.038877
+    id: ckbf2khbppoxh0j23w68io7hn
     verified: false
-    hashtags: "#clearsky, #stayfit, #tiktokmv, #stayhappy"
-  - username: "muscleguru"
+    hashtags: "#dreducation, #edutok, #duet, #healthtok"
+  - username: "dr.rahul.g"
     fullname: >-
-      muscleguru
+      Dr Rahul Gondaliya
+    bio: >-
+      Celebrity & High Profile Doctor Follow for Health & Beauty Tips
     location: "India"
-    followers: 211073
-    engagement: 897
-    commentsToLikes: 0.017069
-    id: ckae42sal0kaz0i788dx57xen
+    followers: 258000
+    engagement: 398
+    commentsToLikes: 0.016697
+    id: ckbw3gdt8x5a50j233dr92egy
     verified: false
-    hashtags: "#telgu, #sunny, #herapheri, #welcome"
-  - username: "nagesh9899"
-    fullname: >-
-      Nagesh Londhe
-    location: "India"
-    followers: 14233
-    engagement: 754
-    commentsToLikes: 0.000000
-    id: cka7nph1nxziv0i78yycehy88
-    verified: false
-    hashtags: "#champibeats, #omsiram, #omsairam, #sairam"
-  - username: "bheemagurjar01"
-    fullname: >-
-      Bheema Gurjar
-    location: "India"
-    followers: 192672
-    engagement: 1296
-    commentsToLikes: 0.007598
-    id: ck977j0wo4dxf0j78d06b3du4
-    verified: false
-    hashtags: "#gurjar, #practice, #friends, #bajrangbali"
+    hashtags: "#health, #face, #beautiful, #skin"
 ---

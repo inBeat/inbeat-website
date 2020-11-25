@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top nutrition Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #nutrition #dubai #stayhome #personaltrainer.
+  Find top nutrition Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubaifitness #healthylifestyle #nutrition.
 platform: Instagram
+hits: 24
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
-  - username: "tie.el"
-    fullname: >-
-      !Elena Peretiatko
-    location: "United Arab Emirates"
-    followers: 258900
-    engagement: 125
-    commentsToLikes: 0.042218
-    id: ckap4167m5e010i78w6n94aq7
-    verified: false
-    hashtags: ""
   - username: "nesarassouli"
     fullname: >-
       Nesa Rassouli
+    bio: >-
+      📍Dubai Instructor @barrysuae Retail & Purchasing Manager @barrysuae Certified PT & Holistic Nutritionist Yin Yoga 50hr
     location: "United Arab Emirates"
-    followers: 15868
-    engagement: 320
-    commentsToLikes: 0.042042
+    followers: 16145
+    engagement: 282
+    commentsToLikes: 0.048017
     id: ck5c2k78jxetk0i11718gtze5
     verified: false
-    hashtags: "#chasingsunsets, #dubai, #selflove, #towhomitmayconcern"
-  - username: "craigjosullivan"
+    hashtags: "#frieswithdat, #chasingsunsets, #barrysathome, #hellweek"
+  - username: "aylish_rutherford"
     fullname: >-
-      Craig O'Sullivan ♛
+      Aylish Rutherford
+    bio: >-
+      📍 Dubai 💓 helping you find confidence in your body 👩🏽‍🎓 Food Science BSc, Nutrition MSc 💫 Doyoueven | Alphalete | Womens Best
     location: "United Arab Emirates"
-    followers: 39735
-    engagement: 318
-    commentsToLikes: 0.020481
-    id: ck15riefv836x0i19iuar3gh6
+    followers: 284988
+    engagement: 122
+    commentsToLikes: 0.014814
+    id: ck5zs102pxmbf0i14uxbywzvg
     verified: false
-    hashtags: "#transformation, #couplegoals, #mentalhealth, #beproud"
-  - username: "ine.strengthcoach"
+    hashtags: ""
+  - username: "tie.el"
     fullname: >-
-      Ine Andersson 🇳🇴
+      !Elena P
+    bio: >-
+      From Kiev with love ❤️ Currently in Dubai📍 Fitness model⚡️ Nutritionist🌱
     location: "United Arab Emirates"
-    followers: 5266
-    engagement: 556
-    commentsToLikes: 0.039564
-    id: ck5zyapfr9j970i14vaetsog0
+    followers: 304997
+    engagement: 167
+    commentsToLikes: 0.026826
+    id: ckap4167m5e010i78w6n94aq7
     verified: false
-    hashtags: "#godjul, #stayhumble, #vikingland, #oneweektogo"
+    hashtags: ""
+  - username: "clairesharrynroberto"
+    fullname: >-
+      PLANT-BASED ⋆ Vegan Chef
+    bio: >-
+      recipe + food design + consultant⠀ top 100 vegan influencer 2020 🏆⠀ certified nutrition coach⠀ ayurveda⠀ #cookingwithclaire 👇⠀ dubai-cape town-paris
+    location: "United Arab Emirates"
+    followers: 20852
+    engagement: 252
+    commentsToLikes: 0.058285
+    id: ck6tuzgzdjb7u0j718zu46nk3
+    verified: false
+    hashtags: "#plantbasedlifestyle, #plantbasedchefdubai, #plantbasednutrition, #refinedsugarfree"
   - username: "literallyanika"
     fullname: >-
-      Personal Trainer Dubai
+      Personal Trainer Dubai (Anika)
+    bio: >-
+      Anika Morjaria Certified Personal Trainer & Nutrition Coach DM for personal training packages↗️ Health-Strength-Aesthetics @evolve_health🔥 Dubai🇦🇪🇬🇧
     location: "United Arab Emirates"
-    followers: 58965
-    engagement: 96
-    commentsToLikes: 0.099493
+    followers: 57966
+    engagement: 58
+    commentsToLikes: 0.109146
     id: ck5q38zq0jspx0i11z2fgbnmk
     verified: false
-    hashtags: "#dubaifit, #selfdevelopment, #selfmotivation, #fitnesspro"
+    hashtags: "#wellnesswarrior, #homeworkout, #fitnessroutine, #healthblogger"
   - username: "baraaelsabbagh"
     fullname: >-
       Baraa - Dietitian & Trainer
+    bio: >-
+      @adidas Athlete 🍳Dietitian Sports Nutritionist 🏋🏼‍♀️Personal Trainer 🎙Podcast: B for Better Health 👇🏼 Sign Up to my Live Home Workouts #ReadyForSport
     location: "United Arab Emirates"
-    followers: 50788
-    engagement: 242
-    commentsToLikes: 0.043305
+    followers: 68741
+    engagement: 191
+    commentsToLikes: 0.228660
     id: ck5hl8l85jrpq0i119lrd8ic0
     verified: false
-    hashtags: "#fightforheroes, #masafi, #naturalwater, #68"
+    hashtags: "#71, #94, #93, #64"
+  - username: "maritaardalsbakke"
+    fullname: >-
+      Marit Årdalsbakke 🇳🇴🏋
+    bio: >-
+      🇦🇪Head coach at @curvalicious.fit in Dubai 🏋️‍♀️🇳🇴National team Weightlifter 👩‍🎓Physiotherapist, strength and nutrition coach 😍@fynd.no @barebellsuae
+    location: "United Arab Emirates"
+    followers: 6403
+    engagement: 468
+    commentsToLikes: 0.063354
+    id: ck5zyappb9jag0i14lgxj4cr2
+    verified: false
+    hashtags: "#snatch, #olympicweightlifting, #playsportno, #motivation"
   - username: "mirnasabbagh"
     fullname: >-
       ميرنا الصباغ - Mirna Sabbagh
+    bio: >-
+      Em Karim 😎⁣ 🧘🏻Making moms lives easier ⁣ 🥣Online child nutrition courses⁣ 🧂Online Recipe Book ⁣ اشتري أي من كورساتي عن التغذية أو الرضاعة من أي دولة
     location: "United Arab Emirates"
-    followers: 87416
-    engagement: 95
-    commentsToLikes: 0.232754
+    followers: 129729
+    engagement: 67
+    commentsToLikes: 0.103516
     id: ck0ueqyhglwi70i19n5fee3q8
     verified: false
-    hashtags: "#healthy, #morehappiness, #duabifoodie, #healthykids"
+    hashtags: "#diet, #healthyliving, #dubaiblogger, #beirut"
   - username: "dr_sasani"
     fullname: >-
       Dr. Sassani | Medical Doctor
+    bio: >-
+      👨🏻‍🔬#nutrition #sportsnutrition 💉#sportsmedicine #weightloss #fitness 🥇Head of medical committee in Asian Federation 🥇Doctor in UAE federation
     location: "United Arab Emirates"
-    followers: 31084
-    engagement: 261
-    commentsToLikes: 0.027255
+    followers: 32575
+    engagement: 247
+    commentsToLikes: 0.021673
     id: ck5hp9aguqysj0i113mvvbi4a
     verified: false
-    hashtags: ""
-  - username: "keyvanshahgholi.ifbbpro"
+    hashtags: "#muscle, #fatburning, #bodybuilding, #dubai"
+  - username: "marinaveretyuk"
     fullname: >-
-      keyvanshahgholi.ifbbpro
+      WELLNESS|FITNESS|DUBAI
+    bio: >-
+      𝐌𝐚𝐫𝐢𝐧𝐚 𝐕𝐞𝐫𝐞𝐭𝐲𝐮𝐤 🔝10 Steps to become a better YOU 🌱Health tips to boost your body 🧘‍♀️ Balance of mind, body and soul 🥳DM me “ABC” for a surprise
     location: "United Arab Emirates"
-    followers: 18653
-    engagement: 1140
-    commentsToLikes: 0.046187
-    id: ck0w2ejvtnyn20i19oi4pzls5
+    followers: 3995
+    engagement: 747
+    commentsToLikes: 0.103986
+    id: ck600q2b3e1zd0i14pbw1nn19
     verified: false
-    hashtags: "#champion, #athlete, #persian, #strong"
-  - username: "siggadb"
-    fullname: >-
-      Dora The Explorer
-    location: "United Arab Emirates"
-    followers: 2914
-    engagement: 1137
-    commentsToLikes: 0.041581
-    id: ck0tt1z5q0t2k0i19qlaf7z0s
-    verified: false
-    hashtags: "#daydreaming, #struggleup, #mydubaifitness, #roomies"
+    hashtags: "#makeupmodel, #dubaimakeupmodel, #fitnessmotivation, #dubaibeautycare"
 ---

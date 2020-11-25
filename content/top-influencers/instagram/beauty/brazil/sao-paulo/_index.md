@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #saopaulo #beauty #tutorial #stayhome.
+  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #beauty #makeup #saopaulo #model.
 platform: Instagram
+hits: 206
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 206 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
-  - username: "rodineysantiago"
+  - username: "dannytoledor"
     fullname: >-
-      Ródiney Santiago
+      DANNY TOLEDO
+    bio: >-
+      Brazilian Model AM @officeim SP 🇧🇷 THE FACES SP 🇧🇷 STORY MODEL ANÁPOLIS 🇧🇷 LENIS MODEL 🇬🇧
     location: "Brazil"
-    followers: 413165
-    engagement: 230
-    commentsToLikes: 0.017935
-    id: ck55q9v2vcmtt0i11nu9ey56p
-    verified: true
-    hashtags: "#green, #oldsoul, #nature, #loved"
-  - username: "justdoce"
-    fullname: >-
-      Doce Pic
-    location: "Brazil"
-    followers: 41378
-    engagement: 176
-    commentsToLikes: 0.030464
-    id: ck6u94hx7vg9w0j71k5ekaxd4
+    followers: 3677
+    engagement: 1445
+    commentsToLikes: 0.084582
+    id: ck0tu5hcp5q4m0i19mtldxsbn
     verified: false
-    hashtags: "#altmodels, #model, #retrato, #balaclavagirls"
-  - username: "ricardolimafotografo"
+    hashtags: "#voguechina, #voguemagazine, #goiania, #china"
+  - username: "mundocabeleireiro"
     fullname: >-
-      Ricardo Lima
+      Mundo do Cabeleireiro
+    bio: >-
+      A sua Beauty Store! Compre pelo site e também pelo delivery | Acesse ⬇️
     location: "Brazil"
-    followers: 31681
-    engagement: 47
-    commentsToLikes: 0.034369
-    id: ck14icucqes500i19d492j2iz
+    followers: 347760
+    engagement: 29
+    commentsToLikes: 0.095429
+    id: ck601df2xfafm0i14wjp247h2
     verified: false
-    hashtags: "#canon, #firegirl, #noiva, #prewedding"
+    hashtags: "#delivery, #repost, #tratamentoprofissional, #kimkadarshian"
   - username: "ramonamorimoficial"
     fullname: >-
       Ramon Amorim
+    bio: >-
+      Beauty Artist | São Paulo @casaflorah 📩 ramonamorimoficial@gmail.com Link venda/livro Maquiagem Teen 👇🏻
     location: "Brazil"
-    followers: 557934
-    engagement: 53
-    commentsToLikes: 0.072932
+    followers: 550691
+    engagement: 34
+    commentsToLikes: 0.133220
     id: ck5bxkh3mnwjg0i11hdb23t3h
     verified: false
-    hashtags: "#maquiagenteen, #caracteriza, #sardas, #makefresh"
+    hashtags: "#makeup, #halloweenmakeup, #debutante, #beauty"
   - username: "brigittecalegari"
     fullname: >-
       B R I G I TT E C A L E G A R I
+    bio: >-
+      | Entrepreneur, Creative Director, Content Creator & Beauty Artist | São Paulo | contato@brigittecalegari.com.br | #brigittecalegari
     location: "Brazil"
-    followers: 280894
-    engagement: 157
-    commentsToLikes: 0.038585
+    followers: 277518
+    engagement: 151
+    commentsToLikes: 0.050408
     id: ck15tj7fiicnl0i19ggu6shsd
     verified: true
-    hashtags: "#marisaad, #beautydrops, #eyeliner, #jardindetuileries"
-  - username: "miiablog"
+    hashtags: "#brigittecalegari, #quemdisseberenice, #beauty, #skinq"
+  - username: "giovannamaira"
     fullname: >-
-      MIA
+      Giovanna Maira🎤🎶
+    bio: >-
+      Brazilian soprano, pianist, songwriter, actress, motivational speaker and tv host of A Bella Italia on @redevida . 📧 contato@giovannamaira.com.br
     location: "Brazil"
-    followers: 5267
-    engagement: 917
-    commentsToLikes: 0.152979
-    id: ckaosap38qvnc0i78w489dpwj
+    followers: 14163
+    engagement: 595
+    commentsToLikes: 0.189555
+    id: ckapcdgvi3dbp0i78n905gani
     verified: false
-    hashtags: "#tiaraperolas, #tecnicafoxeyes, #pos, #tecnicademake"
-  - username: "tiagoprado_"
+    hashtags: "#fashion, #lookdodia, #tvhost, #tvstar"
+  - username: "titaa"
     fullname: >-
-      TIAGO PRADO
+      Thaysa de Paula
+    bio: >-
+      Beleza & Lifestyle Curitiba, 🇧🇷 ▫️Sou mais legal pelos Stories! ✉ contato.thaysa@outlook.com
     location: "Brazil"
-    followers: 10404
-    engagement: 589
-    commentsToLikes: 0.045993
-    id: ck601dqvhfb3d0i14jj2d4790
+    followers: 18490
+    engagement: 213
+    commentsToLikes: 0.129601
+    id: ck15rkca88cb90i19qe10syvx
     verified: false
-    hashtags: "#prima, #artist, #aotronivelco, #record"
-  - username: "maahway"
+    hashtags: "#ootd, #beauty, #maquiagembrasil, #saopaulo"
+  - username: "anavaleriarsouza"
     fullname: >-
-      Matheus
+      ꪖ​ꪀ​ꪖ​ ꪜ​ꪖ​ꪶ​ꫀ​́𝘳​𝓲​ꪖ​ 🌻
+    bio: >-
+      •𝙲𝚒𝚗𝚎𝚖𝚊 𝙴 𝙰𝚞𝚍𝚒𝚘𝚟𝚒𝚜𝚞𝚊𝚕 3/8🎞 ∙𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚘𝚛𝚊 𝚍𝚎 𝙱𝚎𝚕𝚎𝚣𝚊 𝙼𝚊𝚛𝚢 𝙺𝚊𝚢💄 ∙𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚘𝚛𝚊 𝙼𝙳𝚃🌿 ∙𝙿𝚛𝚘𝚍𝚞𝚝𝚘𝚛𝚊 @retratosporana 📸 ∙𝕍𝕚𝕒𝕛𝕒𝕟𝕥𝕖, 𝕘𝕦𝕚𝕒𝕕𝕒 𝕡𝕖𝕝𝕒 𝕝𝕦𝕫 𝕖 𝕡𝕖𝕝𝕒 𝔽𝕖́!✈︎
     location: "Brazil"
-    followers: 2845
-    engagement: 2709
-    commentsToLikes: 0.373165
-    id: ck8t7jvsbh2wu0j78v69rjxuv
+    followers: 6109
+    engagement: 347
+    commentsToLikes: 0.042856
+    id: ckaorr1v4odan0i783208ssjc
     verified: false
-    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
-  - username: "yasminlsilva"
+    hashtags: "#make, #makeuptutorial, #makeuplovers, #batom"
+  - username: "natszulzik"
     fullname: >-
-      YASMIN SILVA
+      Natasha Szulzik
+    bio: >-
+      Foco, força e fome 🐍 Slytherin 📍 São Paulo - Brazil 🎮 iOS/Game Developer 👾 Streamer - https://twitch.tv/natxusqui 🎥 Youtuber 📩 Parcerias via e-mail👇🏻
     location: "Brazil"
-    followers: 55529
-    engagement: 701
-    commentsToLikes: 0.254202
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 14319
+    engagement: 605
+    commentsToLikes: 0.045369
+    id: ck5zj5or9gzm90i14wsvmquoq
     verified: false
-    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
-  - username: "lemassaferri"
+    hashtags: "#cabelo, #halloweencostume, #halloween, #makeupartist"
+  - username: "iedalima_"
     fullname: >-
-      LEANDRO MASSAFERRI
+      IEDA LIMA
+    bio: >-
+      ASSISTA AOS STORIES! • Dicas, maquiagem & muita vida real ✨ • Se inscrevam no meu canal 👇🏻
     location: "Brazil"
-    followers: 14449
-    engagement: 734
-    commentsToLikes: 0.032767
-    id: ckaosb8vjqy0z0i78eg3r6521
+    followers: 10535
+    engagement: 702
+    commentsToLikes: 0.112316
+    id: ck13cvlae2dts0i19p7sy26n6
     verified: false
-    hashtags: "#cacheados, #curlyhairmen, #curlymen, #isolamentosocial"
+    hashtags: "#maquiagem, #challengemakeup, #challenge, #model"
+  - username: "dynahgimenes"
+    fullname: >-
+      Dynah Gimenes
+    bio: >-
+      ✨ Makeup • Lifestyle • Beauty ✨ 📍São Paulo 📥Parcerias e trabalhos via direct ou e-mail 💌 contatodynahgimenes@gmail.com
+    location: "Brazil"
+    followers: 7384
+    engagement: 850
+    commentsToLikes: 0.139754
+    id: ckf5l3qb4o9aq0j239zarlrmy
+    verified: false
+    hashtags: "#trend, #euphoriaedit, #euphoria, #makerio"
 ---

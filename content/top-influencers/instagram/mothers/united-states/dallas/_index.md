@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top mothers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #happymothersday #love #mothersday.
+  Find top mothers Instagram influencers in Dallas in 2020. Most popular hashtags: #mothersday #happymothersday #mother.
 platform: Instagram
+hits: 47
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 47 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
+  - username: "historyfromeveryday"
+    fullname: >-
+      History Everyday
+    bio: >-
+      Fan of History? Follow this page - I share images from iconic and controversial historical events, encouraging discussion and debate.
+    location: "United States"
+    followers: 40233
+    engagement: 439
+    commentsToLikes: 0.026201
+    id: ck14lf2lhuc6m0i19povrx09r
+    verified: false
+    hashtags: "#politics, #uk, #colorized, #germany"
   - username: "iinkstar_pinkyy"
     fullname: >-
       Pinkyy Montana❣️
+    bio: >-
+      I’m Always Picture Perfect 🎀📸 •Model •Mother •Entrepreneur #DallasTx #LongLiveMyBrothersAndMyPapa snapchat: iinkyypinkyy @pinkyymontana
     location: "United States"
-    followers: 139266
-    engagement: 130
-    commentsToLikes: 0.038612
+    followers: 135816
+    engagement: 118
+    commentsToLikes: 0.027372
     id: ck8szkvedou700j78u9jkqdoo
     verified: false
-    hashtags: "#single, #onlyfans, #moodall2020, #newset"
-  - username: "spencercrofoot"
+    hashtags: "#yeah, #oh, #ok, #actinguhfool"
+  - username: "quewhyareaye"
     fullname: >-
-      Spencer Crofoot
+      Slim 🍷
+    bio: >-
+      Kyra. 26. Black Queen✊🏾👑 Born in Miami. Chicago in My Blood. Residing in Dallas. Model. Mother to a Princess #CZH #10ten 🌻🍼💕
     location: "United States"
-    followers: 46441
-    engagement: 1377
-    commentsToLikes: 0.030676
-    id: ckap4o7an84qo0i785v8xmwxr
+    followers: 9066
+    engagement: 646
+    commentsToLikes: 0.062192
+    id: ck5qe6iytyylb0i11omguapc3
     verified: false
-    hashtags: "#smile, #motivational, #cool, #great"
-  - username: "deecorseytattoos"
-    fullname: >-
-      D E R E K   C O R S E Y
-    location: "United States"
-    followers: 10417
-    engagement: 547
-    commentsToLikes: 0.047381
-    id: ck9wdxqs1hqua0j78altw3va1
-    verified: false
-    hashtags: "#mothersday, #texastattoos, #dallastexas, #happymothersday"
+    hashtags: "#1010, #westcoastmeetsmiamidade, #dontrushchallenge, #tenten"
   - username: "mommadeesimmons"
     fullname: >-
       Dee Simmons
+    bio: >-
+      🌟Featured on Bravo's Real Housewives of Dallas #RHOD 👩‍👧Mother to the beautiful @dandrasimmons PR/Media Inquires: realdeesimmons@gmail.com
     location: "United States"
-    followers: 29741
-    engagement: 297
-    commentsToLikes: 0.041885
+    followers: 29525
+    engagement: 219
+    commentsToLikes: 0.037599
     id: ck55mbz6i3mj40i11eicdkwg4
     verified: false
-    hashtags: "#hngm, #zulily, #bravotv, #mommadee"
-  - username: "charmazing_1"
+    hashtags: "#mommadee, #dandrasimmons, #rhod"
+  - username: "iamascia"
     fullname: >-
-      Charmaine Christie-Primo
+      ascia | i am ascia
+    bio: >-
+      in His name, our place of gratitude. mother. writer. beauty. wellness. style. dallas // dc email: team.iamascia@gmail.com
     location: "United States"
-    followers: 2437
-    engagement: 907
-    commentsToLikes: 0.095293
-    id: ck8sw2ns1dkc00j789ypwkidh
+    followers: 121331
+    engagement: 244
+    commentsToLikes: 0.067384
+    id: ck15up108o7ds0i19d4o30nzw
     verified: false
-    hashtags: "#dallas, #positivevibes, #dontrushchallenge, #dimples"
-  - username: "shenovaweirdo"
+    hashtags: "#prospertx, #rowenta, #totstotoddlers, #curlyhairgirls"
+  - username: "shaymccray"
     fullname: >-
-      she nova ☾⋱
+      "Shay McCray"
+    bio: >-
+      Host of @theshaymccrayshow #FUBURadio #iHEARTRadio Owner of @leshayboutique Seen on BET, VH1 & OWN
     location: "United States"
-    followers: 21022
-    engagement: 247
-    commentsToLikes: 0.076920
-    id: ck5zja892h8a20i142c06r36d
+    followers: 14722
+    engagement: 138
+    commentsToLikes: 0.095422
+    id: ck0tt7dz11h3q0i19v85v5xcj
     verified: false
-    hashtags: "#washyourhands, #gearreview, #shenovaweirdo, #producer"
-  - username: "ty_static"
+    hashtags: "#la, #mom, #stayhome, #shoes"
+  - username: "allieeayers"
     fullname: >-
-      Ty Cain, The Model
+      Allie Ayers
+    bio: >-
+      Model & Entrepreneur | Founder of @bissyswim | Coach at @themodelcoaches Wilhelmina • LA Kim Dawson • Dallas Brink • OKC The Model Coaches • Mother
     location: "United States"
-    followers: 6096
-    engagement: 683
-    commentsToLikes: 0.072734
-    id: ck8syrsdglra40j78honc5wab
-    verified: false
-    hashtags: "#amazing, #phenomenalwoman, #skin, #bday"
-  - username: "krystlestarrwars"
+    followers: 74065
+    engagement: 154
+    commentsToLikes: 0.021875
+    id: ck0ucc2xjgjt30i19ovubex62
+    verified: true
+    hashtags: "#siswimsearch2021, #feelgoodfuel"
+  - username: "we.the.birds"
     fullname: >-
-      🌟Krystle Starr 🌟
+      WE THE BIRDS
+    bio: >-
+      Same but different; we’re all birds A #lifestyle #brand founded by #sisters 👯‍♀️ #macarons 👉🏻 @we.the.birds.macarons Collabs 👉🏻 hello@wethebirds.com
     location: "United States"
-    followers: 77767
-    engagement: 293
-    commentsToLikes: 0.021911
-    id: ck6tm051l6ych0j71piv98080
+    followers: 27805
+    engagement: 274
+    commentsToLikes: 0.018312
+    id: ck5pyolmzx13x0i11h9gnfzr9
     verified: false
-    hashtags: "#whackedem, #texasgirl, #cosplaygirl, #leaguecosplay"
-  - username: "jeenawilder"
+    hashtags: "#thanksgiving, #macarons, #wethebirdsmacarons, #lipkits"
+  - username: "il_never_quit"
     fullname: >-
-      Motherhood & Adoption
+      Adam Butler
+    bio: >-
+      Business inquiries: @joemugrabi Foxboro📍 Dallas📍🏡 Nashville📍🏫 New England Patriot #70
     location: "United States"
-    followers: 13816
-    engagement: 1201
-    commentsToLikes: 0.036335
-    id: ck9wopr5n633e0j784k34lijv
-    verified: false
-    hashtags: "#mommy, #ketolife, #drinkwater, #ldsfamian"
-  - username: "theempoweredtherapist"
+    followers: 49604
+    engagement: 730
+    commentsToLikes: 0.019625
+    id: ck5zrvr0cxctu0i14zy4pzc5f
+    verified: true
+    hashtags: "#gopats, #fatherdaughter, #girldad, #patriots"
+  - username: "deecorseytattoos"
     fullname: >-
-      The Empowered Therapist
+      D E R E K   C O R S E Y
+    bio: >-
+      🐐 🇨🇱Dallas, Tx (469) 755-9769 👍🏾Please select the “TEXT” tab for tattoo inquiries!!! 🙅🏾‍♂️DO NOT select the “Message” tab
     location: "United States"
-    followers: 38042
-    engagement: 349
-    commentsToLikes: 0.026294
-    id: ck13bn7e7w8mi0i19w1wjxnnm
+    followers: 11541
+    engagement: 462
+    commentsToLikes: 0.038746
+    id: ck9wdxqs1hqua0j78altw3va1
     verified: false
-    hashtags: "#hurt, #capacity, #courses, #breath"
+    hashtags: "#realismtattoo, #inkedmag, #tattooist, #inked"
 ---

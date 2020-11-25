@@ -1,107 +1,130 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Spain In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Spain in 2020. Most popular hashtags: #poledancer #poledance #dancer #polefitness.
+  Find top pole dancers Instagram influencers in Spain in 2020. Most popular hashtags: #poledance #poledancer #polesport #poledancing.
 platform: Instagram
+hits: 20
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "juanpalochino"
+  - username: "lili_sgn"
     fullname: >-
-      Juan Francisco Rodríguez
+      𝓛𝓲𝔃
+    bio: >-
+      Data Science and Engineering Pole dancer @calizthenics
     location: "Spain"
-    followers: 35360
-    engagement: 225
-    commentsToLikes: 0.028236
-    id: ck0vw9dh0sowc0i197yvknfy7
+    followers: 2395
+    engagement: 2435
+    commentsToLikes: 0.037999
+    id: ck6u9el3bx3yb0j71fjbe21qf
     verified: false
-    hashtags: "#mitos, #polemen, #training, #arcangel"
+    hashtags: "#spatchcock, #pdspatchok, #flexibility, #handstand"
+  - username: "niedziela.raluy"
+    fullname: >-
+      N R
+    bio: >-
+      Mi casa es @circoraluy Legacy✨ Circus girl🎪 #poledancer #skater Finalist: ⛸Got Talent 👁GH16 Coach en Eso lo hago! Sometimes YouTuber⬇️
+    location: "Spain"
+    followers: 135186
+    engagement: 249
+    commentsToLikes: 0.072638
+    id: ck5q0peqd73uq0i11j4pk82hc
+    verified: true
+    hashtags: "#polelove, #poledancer, #poletrick, #polelife"
+  - username: "sabrinamannina"
+    fullname: >-
+      Sabrina Mannina
+    bio: >-
+      🧁@theovenwitch 25. Venezolana en📍BCN Sicilia🤍 Graphic Design ULA 💫Pole Dancer Animals are friends not food🌱 God✨ Wisdom is a great beautifier
+    location: "Spain"
+    followers: 5863
+    engagement: 519
+    commentsToLikes: 0.035736
+    id: ck602z2e1k3te0i142crv90qt
+    verified: false
+    hashtags: ""
   - username: "ms.lizard"
     fullname: >-
       Elizabeth
+    bio: >-
+      Self-taught exotic pole dancer since 2017 Exotic pole dance classes Barcelona @feelingwoman . Ukrainian.
     location: "Spain"
-    followers: 12028
-    engagement: 834
-    commentsToLikes: 0.046485
+    followers: 15901
+    engagement: 872
+    commentsToLikes: 0.074078
     id: ck5zo7ms6pxz00i14jobb3sp4
     verified: false
-    hashtags: "#ghent, #music, #spain, #photoshoot"
+    hashtags: "#bcn, #poleonline, #barcelonadance, #barcelona"
   - username: "brendibighetto"
     fullname: >-
       Brendi Bighetto
+    bio: >-
+      Barcelona📍 Poledancer 💛 Pole Instructor 💃 Bachelor Degree in Psychology 🧠 Pisces ♓ #poledancing #polefitness #poledance
     location: "Spain"
-    followers: 10846
-    engagement: 514
-    commentsToLikes: 0.037608
+    followers: 10616
+    engagement: 398
+    commentsToLikes: 0.044212
     id: ckaows7fca7ow0i78bv997zfb
     verified: false
-    hashtags: "#yogalife, #frontsplit, #polefun, #polepractice"
+    hashtags: "#polesport, #polefit, #poledancenation, #poletricks"
+  - username: "sitomateo"
+    fullname: >-
+      Sito | Circus artist
+    bio: >-
+      ☀️ @cirquedusoleil Artist ☀️ 🔥 Aerialist. 🔥 Acrobat. 🔥 Poledancer. 🌍 Portugal 📍
+    location: "Spain"
+    followers: 12470
+    engagement: 617
+    commentsToLikes: 0.038395
+    id: ckap0btbrpnhj0i78ee1npoi4
+    verified: false
+    hashtags: "#poledancing, #poledancecombo, #syma, #artist"
+  - username: "juanpalochino"
+    fullname: >-
+      Juan Francisco Rodríguez
+    bio: >-
+      Pole dancer y artista de Circo Madrid Contacto: juanpalochino@gmail.com
+    location: "Spain"
+    followers: 42908
+    engagement: 214
+    commentsToLikes: 0.029125
+    id: ck0vw9dh0sowc0i197yvknfy7
+    verified: false
+    hashtags: "#poledancing, #poletricks, #chinesepole, #workout"
+  - username: "elenareinar"
+    fullname: >-
+      Elena Reina
+    bio: >-
+      Sevilla.
+    location: "Spain"
+    followers: 2108
+    engagement: 1739
+    commentsToLikes: 0.049181
+    id: ck8szo7w7p47q0j78gxrf7hx1
+    verified: false
+    hashtags: "#polesport, #house, #poledance, #polefitness"
   - username: "lady.loah"
     fullname: >-
-      Lorena Alvarez • Active Living
+      Lorena Alvarez
+    bio: >-
+      🌲Go wild, for a while! ↟Sports ↟Wellness ↟Nature ❤️Brand model • dreamer, adventurer, teacher 📧Collabs→lady.loah@gmail.com 🌎33countries 📍Madrid
     location: "Spain"
-    followers: 18750
-    engagement: 784
-    commentsToLikes: 0.087431
+    followers: 20715
+    engagement: 790
+    commentsToLikes: 0.095532
     id: ck5c3lahazjwv0i11uaxqcuv9
     verified: false
-    hashtags: "#zerowastelife, #athomefitness, #bodybuilding, #foodie"
-  - username: "raquel_dc"
-    fullname: >-
-      Raquel De Castro
-    location: "Spain"
-    followers: 11027
-    engagement: 555
-    commentsToLikes: 0.037400
-    id: ck5q96hqz9mlo0i11hpfsf45t
-    verified: false
-    hashtags: "#newyear, #converse, #dalesensual, #galway"
-  - username: "polgonzalez9"
-    fullname: >-
-      Pol Gonzalez
-    location: "Spain"
-    followers: 9372
-    engagement: 426
-    commentsToLikes: 0.016206
-    id: ck5pyiwf2w88u0i11dq6ozuzv
-    verified: false
-    hashtags: "#igersbsas, #fihproleague, #americalatina, #traveldiaries"
+    hashtags: "#animals, #fitnessmodel, #yoga, #naturelover"
   - username: "danaerial_"
     fullname: >-
       Daniel Sotillo
+    bio: >-
+      📍En el aire Artista multidisciplinario _____________ Pole Dance Equilibrios Contorsión Artes aéreas _____________ Reservas 📩
     location: "Spain"
-    followers: 5994
-    engagement: 495
-    commentsToLikes: 0.058071
+    followers: 6355
+    engagement: 549
+    commentsToLikes: 0.079612
     id: ck5c0515tsgor0i11daos501h
     verified: false
-    hashtags: "#dragontailfang, #acrobatics, #workout, #dragontail"
-  - username: "vanelunatica"
-    fullname: >-
-      VANE LUNATICA 🌙✨
-    location: "Spain"
-    followers: 26805
-    engagement: 164
-    commentsToLikes: 0.029625
-    id: ck6tp2heqhgtq0j717f2d5maf
-    verified: false
-    hashtags: "#polecombo, #dancingonthewall, #manonthemoon, #apagoncultural"
-  - username: "danigrabler"
-    fullname: >-
-      Dani Grabler
-    location: "Spain"
-    followers: 2095
-    engagement: 1702
-    commentsToLikes: 0.031367
-    id: ck9wfa7w7nxm10j78gq6tcvnn
-    verified: false
-    hashtags: "#pictureoftheday, #homemood, #sundowner, #balkonien"
-  - username: "sonia.poledance"
-    fullname: >-
-      🅂🄾🄽🄸🄰
-    location: "Spain"
-    followers: 25211
-    engagement: 418
-    commentsToLikes: 0.059596
-    id: ck8t06vdyr0850j78ywww6ha9
-    verified: false
-    hashtags: "#dartfroggirls, #pdmarley, #pdtabletopgrip, #pddaphne"
+    hashtags: "#aerialnation, #yoga, #training, #madrid"
 ---

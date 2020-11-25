@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Toronto In 2020
 description: >-
-  Find top gardening Instagram influencers in Toronto in 2020. Most popular hashtags: #gardening #toronto #spring #selfcare.
+  Find top gardening Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #gardening #nature #stayhome.
 platform: Instagram
+hits: 18
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 18 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "urbanveggiegarden"
+  - username: "moeenmoe"
     fullname: >-
-      Luay - Urban Gardener
+      Moeen Abuzaid معين ابوزيد
+    bio: >-
+      📍 Toronto Chef 🇵🇸🇯🇴 Palestinian-Jordanian, NYC for 10yrs. Paying homage to Arabic cuisine by creating with @the_broken_english DM for private events.
     location: "Canada"
-    followers: 20729
-    engagement: 330
-    commentsToLikes: 0.044642
-    id: ckaor4yxdlr450i7803ll30a4
+    followers: 38168
+    engagement: 127
+    commentsToLikes: 0.020796
+    id: ck0vxblg2y3j80i19wpy5fdmi
     verified: false
-    hashtags: "#fromthearchives, #fridayharvest, #tbt, #tomatotuesday"
-  - username: "sam.daveena"
+    hashtags: "#chefathome, #truefoodies, #culinarytalents, #platedfoodz"
+  - username: "chefbangerter"
     fullname: >-
-      Eighth House 88
+      Jason Bangerter
+    bio: >-
+      Langdon Hall Country House Hotel & Spa | #slowfood Hero Award 2019🇨🇦 | Twitter: @chefbangerter |
     location: "Canada"
-    followers: 2108
-    engagement: 1075
-    commentsToLikes: 0.081566
-    id: ck8t8vilalzuk0j787tdy8mpq
+    followers: 17425
+    engagement: 189
+    commentsToLikes: 0.051131
+    id: ck55kpms9ztxr0i115wcfbugs
     verified: false
-    hashtags: "#consciousart, #earthelement, #tattootalisman, #marrakeshstyle"
+    hashtags: "#worldoceansday2020, #chefsathome, #foodforchange, #foodandwine"
+  - username: "therubygore"
+    fullname: >-
+      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
+    bio: >-
+      Dark Illustrative Tattoos 🥀 Powered by Plants 💯 Vegan Supplies 🌱 Toronto • Philly 𝑩𝑶𝑶𝑲 𝑵𝑶𝑾 👇 contact@therubygore.com 💌 #botanicaltattoo #torontotattoo
+    location: "Canada"
+    followers: 41710
+    engagement: 74
+    commentsToLikes: 0.019214
+    id: ck55klzwezmq90i112lqh2ibz
+    verified: false
+    hashtags: "#torontoinknews, #spring, #healed, #ladytattooers"
   - username: "terinrothernel"
     fullname: >-
       Terin Rothernel
+    bio: >-
+      Small town 👩🏻. Exploring the 🌎. Brand Ambassador @6ixpm.est 32 | 24 | 34 Toronto, 🇨🇦
     location: "Canada"
-    followers: 6333
-    engagement: 758
-    commentsToLikes: 0.076828
+    followers: 6322
+    engagement: 883
+    commentsToLikes: 0.074002
     id: ck8t3684f21gl0j78ksf7n1l8
     verified: false
-    hashtags: "#throwback, #piscesgirl, #piscesmodel, #womenssuits"
+    hashtags: "#torontodesigner, #streetfashion, #fuckrona, #throwback"
   - username: "lisa.eats"
     fullname: >-
       Lisa Z 💚
+    bio: >-
+      Education is important, but eating healthy is importanter ( : Toronto, Canada
     location: "Canada"
-    followers: 25467
-    engagement: 283
-    commentsToLikes: 0.173067
+    followers: 25103
+    engagement: 287
+    commentsToLikes: 0.185538
     id: ck13ajaz8qndd0i191ibjag0c
     verified: false
-    hashtags: "#babykitten, #gardensbythebay, #heartymeal, #growtogether"
-  - username: "colourfyme"
-    fullname: >-
-      🌸 Colourfy Me 🌸
-    location: "Canada"
-    followers: 12453
-    engagement: 632
-    commentsToLikes: 0.038376
-    id: ck14k76kqo2t70i19smslod1s
-    verified: false
-    hashtags: "#cherryblossom, #plush, #waddledee, #cherryblossoms"
+    hashtags: "#travel, #easyrecipes, #homemadebrunch, #throwbackthursday"
   - username: "uoftengineering"
     fullname: >-
       U of T Engineering
+    bio: >-
+      The official Instagram account for the Faculty of Applied Science & Engineering at the University of Toronto.
     location: "Canada"
     followers: 8670
     engagement: 338
     commentsToLikes: 0.009770
     id: ck6tj0fb51s310j71m7cnvlky
     verified: false
-    hashtags: "#theyareback, #geese, #uoftclassof2020, #showcase"
-  - username: "mandy_stans"
+    hashtags: "#uoft, #engineering, #uoftlife, #universityoftoronto"
+  - username: "colourfyme"
     fullname: >-
-      𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 𝕠𝕧𝕖𝕣 𝟜𝟘
+      🌸 Colourfy Me 🌸
+    bio: >-
+      Tris 💖 A happy designer obsessed with all things cute and creative😊 🍁Toronto based
     location: "Canada"
-    followers: 11614
-    engagement: 1580
-    commentsToLikes: 0.091661
-    id: ck8t5djed9rfz0j78xth8scsv
+    followers: 12299
+    engagement: 700
+    commentsToLikes: 0.039837
+    id: ck14k76kqo2t70i19smslod1s
     verified: false
-    hashtags: "#canadiangirl, #sweetiepie, #tellmeasecret, #sunnysunday"
-  - username: "frankferragine"
+    hashtags: "#space, #spaceart, #animalcrossing, #animalcrossingnewleaf"
+  - username: "sparklingwinos"
     fullname: >-
-      Frankie Flowers
+      Sparkling Winos
+    bio: >-
+      We're Mike & Jeff! 👋 WSET 3🏅 Two 👬's blogging about all things bubbly! 🍾 Follow us to learn all about sparkling wine! 🥂 Latest Blog Post! ⬇️
     location: "Canada"
-    followers: 42466
-    engagement: 440
-    commentsToLikes: 0.058000
-    id: ck5cduxm7jtpm0i11isipfje8
-    verified: true
-    hashtags: "#november, #happy, #smile, #annualplant"
-  - username: "amyin613"
-    fullname: >-
-      Amy in 613 • blogger in Ottawa
-    location: "Canada"
-    followers: 17123
-    engagement: 650
-    commentsToLikes: 0.381918
-    id: ck5pzkx451hac0i11twq5hqer
+    followers: 32801
+    engagement: 280
+    commentsToLikes: 0.133262
+    id: ck0u2kf4n03t50i199yna5am1
     verified: false
-    hashtags: "#localdelivery, #barre, #beautyblogger, #traveltips"
-  - username: "juniper_the_oldgirl"
+    hashtags: "#stayhome, #winetasting, #positivevibes, #spanishwine"
+  - username: "jodieemery"
     fullname: >-
-      Juniper
+      Jodie Emery
+    bio: >-
+      Cannabis, Hemp, Freedom ✌🏻 @JodiesJoint @CannabisAmnesty @CannabisCultureMagazine @CannabisCultureStore @CannabisCultureOfficial @420VancouverOfficial
     location: "Canada"
-    followers: 12139
-    engagement: 1032
-    commentsToLikes: 0.011731
-    id: ck6tqfi38r5ld0j71lhty4bxp
+    followers: 30513
+    engagement: 175
+    commentsToLikes: 0.054861
+    id: ck5c2h3m4x90l0i11pf3cmwsq
     verified: false
-    hashtags: "#haircut, #fetch, #seeyousoon, #cold"
+    hashtags: "#cannabisamnesty, #cannabiscommunity, #flowers, #growyourown"
+  - username: "joiasverdes"
+    fullname: >-
+      Cactos•Suculentas•Portugal 🌵
+    bio: >-
+      #joiasverdes ®️ 👉🏼INSPIRING PEOPLE👈🏼 📩Business PM 📱My own pictures 🌍Shipping all over EUROPE 🌸Plants for sale 👇🏼👇🏼👇🏼
+    location: "Canada"
+    followers: 53434
+    engagement: 114
+    commentsToLikes: 0.030595
+    id: ck14ii88ufj6c0i19c10ugj5h
+    verified: false
+    hashtags: "#joiasverdes, #suculentas, #succu, #succulents"
 ---

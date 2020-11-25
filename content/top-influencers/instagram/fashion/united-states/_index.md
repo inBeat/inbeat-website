@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In United States In 2020
 description: >-
-  Find top fashion Instagram influencers in United States in 2020. Most popular hashtags: #ootdinspiration #ltkunder100 #ltkbeauty #stayhomewithltk.
+  Find top fashion Instagram influencers in United States in 2020. Most popular hashtags: #fashionblogger #ootdfashion #ltksalealert.
 platform: Instagram
+hits: 27066
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 27066 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "romejohns"
+  - username: "the_girls.13"
     fullname: >-
-      Rome Johnson | Style
+      fashion
+    bio: >-
+      💚Welcome to the fashion world👗👚 everything related to clothes 💛All copyrights belong to their respective
     location: "United States"
-    followers: 15044
-    engagement: 4156
-    commentsToLikes: 0.069704
-    id: ck8t1v9nix65e0j78gkeeieo6
+    followers: 3891
+    engagement: 1160
+    commentsToLikes: 0.010192
+    id: ck0u6tswe30t70i195ksjw08c
     verified: false
-    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
-  - username: "the__viperhead"
+    hashtags: "#niftyalley, #fashionbloggerstyle, #inpyrenees, #meteopyrenees"
+  - username: "fashion"
     fullname: >-
-      A R O 〽️ A L  |  R K
+      @fashion
+    bio: >-
+      A celebration of Fashion on Instagram, launching Q3 2020. Stay Safe & Healthy 🙏🏼
     location: "United States"
-    followers: 3632
-    engagement: 3451
-    commentsToLikes: 0.407174
-    id: ck9wiir722fpl0j78u7k6yukj
+    followers: 356339
+    engagement: 14
+    commentsToLikes: 0.057609
+    id: ck14l2rrjsk4o0i19aa4wsshj
     verified: false
-    hashtags: "#superhero, #pretty, #caricature, #editorial"
-  - username: "thechiclyeffect"
-    fullname: >-
-      Erin
-    location: "United States"
-    followers: 2256
-    engagement: 3099
-    commentsToLikes: 0.278467
-    id: ckaoucltjzphu0i78mre133xp
-    verified: false
-    hashtags: "#ltkweekendstyle, #oldnavystyle, #loftimist, #rdbabe"
+    hashtags: ""
   - username: "kayla.ogno"
     fullname: >-
       kayla ogno
+    bio: >-
+      FASHION￼ MODEL
     location: "United States"
-    followers: 5507
-    engagement: 3007
-    commentsToLikes: 0.105942
+    followers: 5367
+    engagement: 2856
+    commentsToLikes: 0.102331
     id: ckap5coz5b2v70i78826g3rkw
     verified: false
-    hashtags: "#roadtomissnjteenusa, #countdown, #841miles"
-  - username: "mary.bears"
-    fullname: >-
-      🌙 Mary | Fashion | Beauty
-    location: "United States"
-    followers: 3590
-    engagement: 2955
-    commentsToLikes: 0.576349
-    id: ck6u1cwlakzjb0j71hkxp3o2r
-    verified: false
-    hashtags: "#eyelovewaterdrench, #peterthomasroth, #ptrcult, #waterdrench"
-  - username: "cassidymprice"
-    fullname: >-
-      Cassidy Price
-    location: "United States"
-    followers: 3096
-    engagement: 2788
-    commentsToLikes: 0.183297
-    id: ck9wd8y46emb60j78dyjblq50
-    verified: false
-    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
+    hashtags: "#roadtomissnjteenusa, #countdown"
   - username: "emikfabian"
     fullname: >-
       Emi Fabian • Preppy & Pink
+    bio: >-
+      Classic, Colorful Southern Style on Long Island 🎀 👗 Petite & Affordable Fashion 💌 emi@preppyandpink.com Shop my looks & read my latest post👇🏼
     location: "United States"
-    followers: 2236
-    engagement: 2746
-    commentsToLikes: 0.364867
+    followers: 3444
+    engagement: 2307
+    commentsToLikes: 0.272987
     id: ckapav34gxkwj0i780tt669ls
     verified: false
-    hashtags: "#expeessie, #stayhomewithltk, #ltkspring, #ltkitbag"
-  - username: "hossainishrat"
-    fullname: >-
-      Ishrat Hossain
-    location: "United States"
-    followers: 5060
-    engagement: 2112
-    commentsToLikes: 0.261415
-    id: ckaou140nybzx0i78pm5no76d
-    verified: false
-    hashtags: "#bengaliblogger, #knowledge, #modesty, #bengalihijabi"
+    hashtags: "#ltksalealert, #liketkit, #ltkfall, #ltkunder100"
   - username: "youreastcoastgirl"
     fullname: >-
       Sarah Krous
+    bio: >-
+      Fashion, lifestyle & beauty Rhode Island girl in New York ⚡️ 💌 youreastcoastgirl@gmail.com SHOP my looks 👇🏼
     location: "United States"
-    followers: 7380
-    engagement: 1916
-    commentsToLikes: 0.336776
+    followers: 6639
+    engagement: 2155
+    commentsToLikes: 0.306302
     id: ck137gzccbhoo0i19wjbyudx2
     verified: false
-    hashtags: "#beachlife, #otkboots, #shopthemint, #outfitoftheday"
-  - username: "petitelife_incolors"
+    hashtags: "#ootdfashion, #wiw, #ltkstyletip, #ltkshoecrush"
+  - username: "tanchik.dm"
     fullname: >-
-      Natalia| Petite Style & Travel
+      Tania Dmytrus
+    bio: >-
+      📍 based in US •LIFESTYLE| FASHION| AMERICAN LIFE🇺🇸 💌Реклама/Співпраця- @tanchik_cooperation
     location: "United States"
-    followers: 5262
-    engagement: 1866
-    commentsToLikes: 0.355552
-    id: ck9wfk74ap7cm0j78egmaovjd
+    followers: 85444
+    engagement: 2075
+    commentsToLikes: 0.160888
+    id: ckap93957qyse0i78gsttxpqu
     verified: false
-    hashtags: "#romperseason, #ghig010, #styletip, #styledaily"
+    hashtags: "#sexinthecityquotes, #ad, #katlaforce, #shein"
+  - username: "conzi_e"
+    fullname: >-
+      sugar
+    bio: >-
+      ❤Lover of God💯💯💯 👠Unrepentant fashionista👗💍👜🛍 👑Queen Mother of 4 E’s 👨‍👧‍👧 🎂I rep 13/10 💃🏿💃🏿💃🏿💃🏿 ⛪My God is too faithful💪
+    location: "United States"
+    followers: 5217
+    engagement: 1874
+    commentsToLikes: 0.093822
+    id: ck5bz6ofzqjyt0i11uw6ijmsa
+    verified: false
+    hashtags: "#birthdayloading, #beautifulsunday, #birthday, #countdown"
+  - username: "winnietangneedsaninstagram"
+    fullname: >-
+      WINNIE | Fashion & Travel Blog
+    bio: >-
+      📍NYC Fashion 💃🏻| Lifestyle ☕️| Travel ✈️ Business Inquiries: 💌hello.winnietang@gmail.com
+    location: "United States"
+    followers: 5136
+    engagement: 1821
+    commentsToLikes: 0.126976
+    id: ck9haz0zhenum0j78jtsij2k1
+    verified: false
+    hashtags: "#drunkblush"
+  - username: "alyssamarielowe"
+    fullname: >-
+      Alyssa | Seattle Photographer
+    bio: >-
+      endlessly roaming with a camera in hand. travel, portraits, couples, elopements, lifestyle and fashion. Modeling @alyssa.mlowe #seattlephotographer
+    location: "United States"
+    followers: 9360
+    engagement: 1677
+    commentsToLikes: 0.143347
+    id: ck55o76aa7s4f0i11g1sntfps
+    verified: false
+    hashtags: "#pnwphotographer, #herpnwlife, #seattlephotographer, #blacklivesmatter"
+  - username: "dannyandthemachine"
+    fullname: >-
+      Danny is me.
+    bio: >-
+      California | Fashionista | Traveler | RD | LDR | Photographer | Foodie | Upper Echelon | The trick is to keep breathing.
+    location: "United States"
+    followers: 5787
+    engagement: 1593
+    commentsToLikes: 0.149568
+    id: ck14jkkaskswt0i1997mfvbww
+    verified: false
+    hashtags: "#instatravel, #summervibes, #potd, #ad"
 ---

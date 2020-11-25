@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Seattle In 2020
 description: >-
-  Find top fitness TikTok influencers in Seattle in 2020. Most popular hashtags: #fitness #workout #boredathome #keepingactive.
+  Find top fitness TikTok influencers in Seattle in 2020. Most popular hashtags: #seattle #fitness #fyp #foryou.
 platform: TikTok
+hits: 26
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 26 TikTok influencers like this in Seattle, United States for you to collaborate.
 profiles:
+  - username: "bodyverafitness"
+    fullname: >-
+      VICTORIA RIVERA
+    bio: >-
+      Ig: @bodyverafitness Yt: Tory Rivera 25 ✨ Ur fav Pilates instructor
+    location: "United States"
+    followers: 58400
+    engagement: 1013
+    commentsToLikes: 0.010970
+    id: ck8sax9kx4amq0j78c8b2fkf2
+    verified: false
+    hashtags: "#fitgirl, #filipina, #wellness, #athleisure"
   - username: "brittney_roy"
     fullname: >-
       BrittRoy
+    bio: >-
+      NY➡️WA. 🏳️‍🌈
     location: "United States"
-    followers: 34132
-    engagement: 1296
-    commentsToLikes: 0.007814
+    followers: 34100
+    engagement: 1564
+    commentsToLikes: 0.006703
     id: ck9v8fpao9nvr0j78o072oxya
     verified: false
-    hashtags: "#policeofficer, #femalepoliceofficer, #trustfall, #work"
+    hashtags: "#seattle, #fitness, #police, #femalecops"
+  - username: "amys_corpse"
+    fullname: >-
+      Amethyst Rose
+    bio: >-
+      ✨🎀I’m Not Okay🎀✨ 💰CashApp: $Amethystboss 80lbs ⬇️
+    location: "United States"
+    followers: 27900
+    engagement: 2105
+    commentsToLikes: 0.045153
+    id: ckamqn62pi4ks0i787a8wlwzy
+    verified: false
+    hashtags: "#fyp, #comedy, #neonshadow, #myhobby"
+  - username: "jordankim04"
+    fullname: >-
+      Jordan Kim
+    bio: >-
+      Jordan Kim DM📩for promos/business
+    location: "United States"
+    followers: 8973
+    engagement: 761
+    commentsToLikes: 0.038770
+    id: ck8nfci1sr8tx0j78n8r5avk8
+    verified: false
+    hashtags: "#viral, #tattoo, #seattlecheck, #fyp"
   - username: "chiroseattle"
     fullname: >-
-      Chiroseattle
+      Daniel DeLucchi DC
+    bio: >-
+      Chiropractor Seattle WA Family | Fitness | Fun ⬇️ My Fav products & Location ⬇️
     location: "United States"
-    followers: 69276
-    engagement: 296
-    commentsToLikes: 0.037484
+    followers: 417900
+    engagement: 477
+    commentsToLikes: 0.017326
     id: ckai99ksu7fvp0i78mf6d70gm
     verified: false
-    hashtags: "#essential, #painful, #worklife, #water"
-  - username: "weights_n_freedom"
+    hashtags: "#chiroseattle, #seattle, #selfcare, #backpain"
+  - username: "chantyfs"
     fullname: >-
-      Savannah Glembin
+      chanty 🌸
+    bio: >-
+      20 • 🇵🇭 ’09 civic si let’s be friends 💗 IG @chantyfs
     location: "United States"
-    followers: 40160
-    engagement: 986
-    commentsToLikes: 0.018638
-    id: cka6ko44tzt8t0i78dwnqtht8
+    followers: 72000
+    engagement: 1102
+    commentsToLikes: 0.023642
+    id: ckbf5srfzux390j235v9178uj
     verified: false
-    hashtags: "#myaesthestic, #jeepgirl, #truefriends, #goldenhour"
-  - username: "blondiesarahk"
+    hashtags: "#static, #civicsi, #carsoftiktok, #cartiktok"
+  - username: "on.the.go_fitness"
     fullname: >-
-      Sarah Kelley
+      Jesse Belnap
+    bio: >-
+      I think I am funny Insta: @on.the.go_fitness Venmo: @jesse-Belnap 🤷🏻‍♂️ 📍Utah
     location: "United States"
-    followers: 18361
-    engagement: 726
-    commentsToLikes: 0.084820
-    id: ck9si89arxha30j783ilw839l
+    followers: 138000
+    engagement: 1034
+    commentsToLikes: 0.107746
+    id: ckc7xzs080fx80j23fxwv4uvk
     verified: false
-    hashtags: "#finalsathome, #homeworkout, #dating, #music"
-  - username: "jaebabyxo"
+    hashtags: "#fyp, #yougotthis, #dadsoftiktok, #happyhalloween"
+  - username: "luke_george32"
     fullname: >-
-      jae ♡
+      Luke George
+    bio: >-
+      📍Seattle -> Arkansas UofA Track Athlete // All-American
     location: "United States"
-    followers: 5148
-    engagement: 632
-    commentsToLikes: 0.041688
-    id: ckal8s5l2kv3t0i78kaihnc32
+    followers: 66800
+    engagement: 1427
+    commentsToLikes: 0.014072
+    id: ckbar698uhsut0j231hw28y1q
     verified: false
-    hashtags: "#dance, #xyzcba, #workout, #natureathome"
-  - username: "ranjitsahauli"
+    hashtags: "#school, #zoomclass, #fyp, #foryou"
+  - username: "amirahrosek"
     fullname: >-
-      Shinde aala
+      Amirah
+    bio: >-
+      20 ♏️ Seattle CPT IG @amirahkaram
     location: "United States"
-    followers: 13235
-    engagement: 615
-    commentsToLikes: 0.030765
-    id: cka0odvs83cky0i78neac93s3
+    followers: 18200
+    engagement: 1142
+    commentsToLikes: 0.014495
+    id: ckcd10pelztg50j23q5xat3fu
     verified: false
-    hashtags: "#foodfam, #duet, #music, #tredding"
-  - username: "itsbadandy1"
+    hashtags: "#fitness, #personaltrainer, #fitnessgirl, #sandiego"
+  - username: "abby_clark33"
     fullname: >-
-      BadAndy🥀
+      Abby Clark
+    bio: >-
+      3x American Ninja Warrior (S 9, 10, 11)
     location: "United States"
-    followers: 13142
-    engagement: 424
-    commentsToLikes: 0.020280
-    id: ckac3sjojbun10i78uotfk40c
+    followers: 472200
+    engagement: 1739
+    commentsToLikes: 0.016611
+    id: ck8070eyunm0t0j78127k4rp4
     verified: false
-    hashtags: "#styrofoam, #cute, #maine, #stayathome"
-  - username: "brianbosche"
-    fullname: >-
-      Brian Bosché
-    location: "United States"
-    followers: 291025
-    engagement: 682
-    commentsToLikes: 0.023281
-    id: ck83ywe33wcb60j785hjhh58f
-    verified: false
-    hashtags: "#trickshot, #learnontiktok, #rollerskating, #dance"
-  - username: "lohemmy"
-    fullname: >-
-      Lauren Hemingway
-    location: "United States"
-    followers: 4508
-    engagement: 731
-    commentsToLikes: 0.051071
-    id: ck9v8fnuw9nii0j78yo1fo642
-    verified: false
-    hashtags: "#kitty, #quarantinelife, #distancedance, #pugetsound"
-  - username: "balance2x"
-    fullname: >-
-      Balance
-    location: "United States"
-    followers: 7767
-    engagement: 756
-    commentsToLikes: 0.032883
-    id: cka6f14jzdvd80i78nrspml0f
-    verified: false
-    hashtags: "#tiktokreviews, #datingstorytime, #guys, #earthhour"
+    hashtags: "#military, #showupshowoff, #workout, #challenge"
 ---

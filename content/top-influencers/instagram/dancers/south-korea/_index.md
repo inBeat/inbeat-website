@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In South Korea In 2020
 description: >-
-  Find top dancers Instagram influencers in South Korea in 2020. Most popular hashtags: #dance #halloween #ygx #kpopdancecover.
+  Find top dancers Instagram influencers in South Korea in 2020. Most popular hashtags: #dance #choreography #selfie.
 platform: Instagram
+hits: 188
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 188 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
-  - username: "mellinao"
-    fullname: >-
-      Melina || 멜리나
-    location: "South Korea"
-    followers: 10665
-    engagement: 1548
-    commentsToLikes: 0.090284
-    id: ck5pw4fd1l1st0i11jge11c6s
-    verified: false
-    hashtags: "#dancecover, #kpopdance, #chunghasnapping, #11hbi"
-  - username: "insunlee_"
-    fullname: >-
-      이인선 (insun lee)
-    location: "South Korea"
-    followers: 7193
-    engagement: 2274
-    commentsToLikes: 0.025685
-    id: ck5ch1ae0px2t0i11h8rbet50
-    verified: false
-    hashtags: "#thailand, #coloronme, #1001101, #kualalumpur"
-  - username: "seung_bi_ahn"
-    fullname: >-
-      안승비/Seungbi Ahn
-    location: "South Korea"
-    followers: 24016
-    engagement: 333
-    commentsToLikes: 0.086355
-    id: ck13acxmiprnw0i19akd2ujc6
-    verified: false
-    hashtags: "#blackyakkids, #kbeauty, #instamakeup, #11"
-  - username: "chungjaeeeeee"
-    fullname: >-
-      유충재 Crown
-    location: "South Korea"
-    followers: 35024
-    engagement: 890
-    commentsToLikes: 0.013513
-    id: ck0w00l10bspy0i19vz235sc1
-    verified: false
-    hashtags: "#viini, #lovethemoon, #onesater, #comearoundme"
-  - username: "immeari"
-    fullname: >-
-      Natalia
-    location: "South Korea"
-    followers: 7653
-    engagement: 2540
-    commentsToLikes: 0.017816
-    id: ck15rvvn69z4u0i19ugfth33v
-    verified: false
-    hashtags: "#yumekojabami, #animecosplay, #like, #lacasadepapel"
-  - username: "yoon6photo"
-    fullname: >-
-      Yoon6photo | Photographer
-    location: "South Korea"
-    followers: 22400
-    engagement: 873
-    commentsToLikes: 0.023347
-    id: ck1394q2kjii60i19elcimtmc
-    verified: false
-    hashtags: "#bloom, #sangeunlee, #yoon6photo"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
+    bio: >-
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
     location: "South Korea"
-    followers: 8059
-    engagement: 1278
-    commentsToLikes: 0.059152
+    followers: 7855
+    engagement: 1165
+    commentsToLikes: 0.068807
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
-    hashtags: "#artbackground, #beachyoga, #fairylights, #honey"
+    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
+  - username: "seung_bi_ahn"
+    fullname: >-
+      안승비/Seungbi Ahn
+    bio: >-
+      키즈모델 승비▪️2010.07.13▪️11세▪️ . #model #dancer #actor •🇰🇷•mom takes care of it. 엄마가 관리합니다.
+    location: "South Korea"
+    followers: 26894
+    engagement: 240
+    commentsToLikes: 0.068577
+    id: ck13acxmiprnw0i19akd2ujc6
+    verified: false
+    hashtags: "#conversekids, #kidsmodel, #hacktoschool, #mlb"
+  - username: "ryusion_"
+    fullname: >-
+      SiON
+    bio: >-
+      • dancer | choreographer • contact DM
+    location: "South Korea"
+    followers: 19891
+    engagement: 1059
+    commentsToLikes: 0.015695
+    id: ck5ch0k8qpvqv0i11bxt3d96z
+    verified: false
+    hashtags: "#seoa4ma, #with, #20201014, #20201027"
+  - username: "chungjaeeeeee"
+    fullname: >-
+      유충재
+    bio: >-
+      Choreographer / 안무가 #Choreographer #Dancer / 댄서 Lesson / Business Contact - DM or Email📨
+    location: "South Korea"
+    followers: 38930
+    engagement: 1006
+    commentsToLikes: 0.009299
+    id: ck0w00l10bspy0i19vz235sc1
+    verified: false
+    hashtags: "#mino, #bobby, #denimjacket, #humanpotential"
+  - username: "chaeryeongs.itzy"
+    fullname: >-
+      ITZY CHAERYEONG 채령
+    bio: >-
+      All in us! for 있지 Main Dancer 이채령 –fɑnstɑgrɑm @itzy__chaeryeongs ⁣⠀ ‘NOT SHY’ OUT NOW!👇
+    location: "South Korea"
+    followers: 213762
+    engagement: 637
+    commentsToLikes: 0.004657
+    id: ck8t279bgyec80j7801uk2m5y
+    verified: false
+    hashtags: ""
+  - username: "jimiinbighit"
+    fullname: >-
+      PARK JIMIN  박지민  BTS
+    bio: >-
+      BTS JIMIN 박지민 of 방탄소년단 ♡ • #박지민 #방탄소년단 #지민 • 13 || October || 1995 • Busan , Seoul, South Korea • Vocalist , Dancer > Mochi Universe ♡ < @jimin
+    location: "South Korea"
+    followers: 10218
+    engagement: 2310
+    commentsToLikes: 0.003828
+    id: ck9ha92hlbmhz0j78my9j6589
+    verified: false
+    hashtags: "#map, #jiminie, #jiminbts, #btsjhope"
   - username: "ryeon89"
     fullname: >-
       오 혜 련 (RYEON)
+    bio: >-
+      DANCER&CHOREOGRAPHER
     location: "South Korea"
-    followers: 145701
-    engagement: 685
-    commentsToLikes: 0.005311
+    followers: 180098
+    engagement: 769
+    commentsToLikes: 0.003922
     id: ck5qcmmacrb4g0i112t0nygp4
     verified: false
-    hashtags: "#dive, #boyfriend, #jlochallenge, #dojacat"
+    hashtags: "#addseoul, #silvergun, #xacademy, #choreography"
+  - username: "yoon6photo"
+    fullname: >-
+      Yoon6photo | Photographer
+    bio: >-
+      Younsik Kim 김윤식 🇰🇷 Former Dancer / Freelancer Photographer 윤식스포토 _ Studio @yoon6photo_studio Sony pro photographer @sonykorea Youtube ⬇️
+    location: "South Korea"
+    followers: 22785
+    engagement: 610
+    commentsToLikes: 0.018188
+    id: ck1394q2kjii60i19elcimtmc
+    verified: false
+    hashtags: "#balletpofile, #ballerino, #yoon6photo"
+  - username: "dongju.tus"
+    fullname: >-
+      parkdongju
+    bio: >-
+      Hip Hop dancer 1997.08.22 from Korea #tiktok : #동주쓰 페이스북https://www.facebook.com/dongju.tus/ 팬카페 https://cafe.naver.com/dongjutus 문의 : DM ~♡
+    location: "South Korea"
+    followers: 106585
+    engagement: 1711
+    commentsToLikes: 0.012151
+    id: ck9wecqvcjprq0j78bhqav0h0
+    verified: false
+    hashtags: "#fashion, #mood, #fashionista, #daily"
   - username: "przemyslawkrompiec"
     fullname: >-
       Przem | Polche | 프셰므스와브 | 폴최
+    bio: >-
+      Freelancer | Dancer | Photographer | Model | IT Developer | Youtuber | Influencer | [Contact by DM/ 광고문의 DM으로]
     location: "South Korea"
-    followers: 25914
-    engagement: 298
-    commentsToLikes: 0.045203
+    followers: 24449
+    engagement: 235
+    commentsToLikes: 0.044618
     id: ck6u852crphei0j71a818x2qz
     verified: false
-    hashtags: "#foodstagram, #polishfood, #ihatesuits, #mymomsays"
-  - username: "stellakim516"
-    fullname: >-
-      Stella kim 스텔라🌟김가람
-    location: "South Korea"
-    followers: 11994
-    engagement: 732
-    commentsToLikes: 0.034791
-    id: ck6u7g21zlat80j71nan7e2jc
-    verified: false
-    hashtags: "#adrianalicea, #pier59studios, #nyfw20, #nyfw2020fw"
+    hashtags: "#culturepl, #polche, #polishlanguage, #berlin"
 ---

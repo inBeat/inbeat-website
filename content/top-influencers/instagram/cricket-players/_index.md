@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cricket Players Instagram Influencers In 2020
 description: >-
-  Find top cricket players Instagram influencers in 2020. Most popular hashtags: #doglovers #scotland #yellowstorm #england.
+  Find top cricket players Instagram influencers in 2020. Most popular hashtags: #afghanistan #cricket #love.
 platform: Instagram
+hits: 52
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 52 Instagram influencers like this for you to connect with.
 profiles:
   - username: "chrisgreen_93"
     fullname: >-
       Chris Green
+    bio: >-
+      Cricket Player Ambassador @ruokday @rmhc_sydney Follow me elsewhere: ⬇️⬇️⬇️
     location: "Australia"
-    followers: 34322
-    engagement: 1459
-    commentsToLikes: 0.018682
+    followers: 51506
+    engagement: 1566
+    commentsToLikes: 0.016641
     id: ck0tz0uj3opay0i192zchusm7
     verified: true
-    hashtags: "#t20, #island, #t10league, #india"
+    hashtags: "#cricket, #cpl, #ipl, #thundernation"
+  - username: "mujeeb_zadran"
+    fullname: >-
+      Mujee 88 🇦🇫
+    bio: >-
+      Afghanistan cricket Player 🇦🇫 – كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْت
+    location: "United Kingdom"
+    followers: 103041
+    engagement: 816
+    commentsToLikes: 0.013994
+    id: ck5hh59rd6gav0i11byz6mjdb
+    verified: true
+    hashtags: "#love, #happy, #khost, #to"
   - username: "mohammadnabi07"
     fullname: >-
       Mohammad Nabi
-    location: ""
-    followers: 240365
-    engagement: 550
-    commentsToLikes: 0.017376
+    bio: >-
+      Afghanistan cricket player
+    location: "United Kingdom"
+    followers: 255216
+    engagement: 588
+    commentsToLikes: 0.014455
     id: ck5c8fl6l9dgm0i11lilsczet
     verified: true
-    hashtags: "#nuristan, #charity, #eid, #nangarhar"
+    hashtags: "#covid19, #mnf, #kabul, #afghanistan"
+  - username: "srazab24"
+    fullname: >-
+      Sikandar Raza
+    bio: >-
+      Zimbabwe Cricket Player 90th test cap Represented by @stemsports1 Brand Manager @kosha_ig
+    location: ""
+    followers: 14984
+    engagement: 789
+    commentsToLikes: 0.031116
+    id: ck5zy5ncn99vc0i14gwzirj71
+    verified: true
+    hashtags: "#alhamdulillah, #tkr, #staysafe, #cricket"
+  - username: "aftab.alam55"
+    fullname: >-
+      Aftab Alam55
+    bio: >-
+      Afghanistan Cricket Player 🇦🇫￼ Twitter Aftabalam55786 snapchat Aftabalam55 Facebook Aftab Alam verifie Account￼ contact me aftabalam.ngr@gmail.com
+    location: ""
+    followers: 69043
+    engagement: 164
+    commentsToLikes: 0.022020
+    id: ck5c8fv1e9e5h0i119nyt2d38
+    verified: true
+    hashtags: "#shpageeza, #tigers, #afghanistan, #speenghar"
+  - username: "steve_smith49"
+    fullname: >-
+      Steve Smith
+    bio: >-
+      Australian Cricket Player. Tennis fan. Angel Investor in @koala @snappr.co
+    location: "Australia"
+    followers: 2302524
+    engagement: 699
+    commentsToLikes: 0.006384
+    id: ck0txfq37ixsu0i19og91dytb
+    verified: true
+    hashtags: "#wegotnow, #tbt, #run, #halfmarathon"
+  - username: "imamulhaqofficial"
+    fullname: >-
+      Imam UL Haq
+    bio: >-
+      Proud Pakistani & National Cricket Player| SC haq.388 | Twitter imamulhaq12 | For enquiries contact my brother @TalhaAisham at @SayaCorps #RiseAndRise
+    location: "United Kingdom"
+    followers: 128003
+    engagement: 663
+    commentsToLikes: 0.019877
+    id: ck5cizqcztp4e0i113k88rxgl
+    verified: true
+    hashtags: "#riseandrise, #engvpak, #pakistanzindabad, #qurantinelife"
+  - username: "m_hafeez8"
+    fullname: >-
+      MH
+    bio: >-
+      Mohammad Hafeez Pakistan International Cricket Player #Professor #MH #MohammadHafeez
+    location: ""
+    followers: 460778
+    engagement: 437
+    commentsToLikes: 0.010283
+    id: ck5hjcteigei30i11wvc1e6kn
+    verified: true
+    hashtags: "#meinhoonbahadurmeinhoonpakistan, #sundaygoal, #mood, #defenceday"
+  - username: "ektaabishtt"
+    fullname: >-
+      एकता बिष्ट
+    bio: >-
+      Indian Women Cricket Player 🏏
+    location: "India"
+    followers: 15335
+    engagement: 814
+    commentsToLikes: 0.017524
+    id: ck6uavuir5yx30j71bekbyc41
+    verified: true
+    hashtags: "#giveindia, #throwback, #doglover, #fuelsthefinest"
   - username: "hashmatshahidi50"
     fullname: >-
       hashmatullah shahidi
+    bio: >-
+      cricket player of afghanistan national cricket team 🇦🇫🇦🇫🇦🇫🏏🏏🏏💪💪💪
     location: "United Kingdom"
     followers: 32665
     engagement: 534
     commentsToLikes: 0.022869
     id: ck5c8fm9d9dj30i11fmlgdo6a
     verified: true
-    hashtags: "#scotland, #ramadan, #keep, #smile"
-  - username: "m_hafeez8"
-    fullname: >-
-      MH
-    location: ""
-    followers: 433185
-    engagement: 452
-    commentsToLikes: 0.009470
-    id: ck5hjcteigei30i11wvc1e6kn
-    verified: true
-    hashtags: "#austria, #qatart10, #meinhoonbahadurmeinhoonpakistan, #semmering"
-  - username: "ektaabishtt"
-    fullname: >-
-      एकता बिष्ट
-    location: "India"
-    followers: 13376
-    engagement: 827
-    commentsToLikes: 0.016444
-    id: ck6uavuir5yx30j71bekbyc41
-    verified: true
-    hashtags: "#fastandupathlete, #teamindia, #fast, #charge"
-  - username: "maitlanjoy"
-    fullname: >-
-      Maitlan Brown
-    location: "Australia"
-    followers: 8057
-    engagement: 851
-    commentsToLikes: 0.021369
-    id: ck55jt93ixp7o0i11fu6asmpv
-    verified: true
-    hashtags: "#urban, #scenery, #bath, #specializedbikes"
-  - username: "aftab.alam55"
-    fullname: >-
-      Aftab Alam55
-    location: ""
-    followers: 66204
-    engagement: 164
-    commentsToLikes: 0.019980
-    id: ck5c8fv1e9e5h0i119nyt2d38
-    verified: true
-    hashtags: "#taldeweafghanistan, #photography, #newyear, #jalalabad"
-  - username: "imamulhaqofficial"
-    fullname: >-
-      Imam UL Haq
-    location: "United Kingdom"
-    followers: 97297
-    engagement: 966
-    commentsToLikes: 0.023275
-    id: ck5cizqcztp4e0i113k88rxgl
-    verified: true
-    hashtags: "#14thaugust, #yellowstorm, #hushpuppiesxmunibnawaz, #hblpslv"
-  - username: "steve_smith49"
-    fullname: >-
-      Steve Smith
-    location: "Australia"
-    followers: 2036924
-    engagement: 644
-    commentsToLikes: 0.005200
-    id: ck0txfq37ixsu0i19og91dytb
-    verified: true
-    hashtags: "#wegotnow, #cricketdrill, #jointhedreamteam, #tbt"
-  - username: "srazab24"
-    fullname: >-
-      Sikandar Raza
-    location: ""
-    followers: 11804
-    engagement: 639
-    commentsToLikes: 0.028514
-    id: ck5zy5ncn99vc0i14gwzirj71
-    verified: true
-    hashtags: "#stemsports, #durhamcricket, #endgbv, #dogs"
+    hashtags: ""
 ---

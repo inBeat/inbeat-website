@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Austria In 2020
 description: >-
-  Find top christian Instagram influencers in Austria in 2020. Most popular hashtags: #christiandior #news #nike #corona.
+  Find top christian Instagram influencers in Austria in 2020. Most popular hashtags: #nature #austria #vienna #love.
 platform: Instagram
+hits: 69
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 69 Instagram influencers like this in Austria for you to pitch.
 profiles:
-  - username: "caffeineandchemistry"
+  - username: "christianschartner.at"
     fullname: >-
-      bella بيلا | premed | español
+      Christian Schartner
+    bio: >-
+      Captures experiences in Nature, mostly in Austria 🇦🇹 📷: Nikon Z 6 + D850 + Mavic 2 info@christian-schartner.at Ambassador 🥾 @merrelleu ⛷ @skiamade
     location: "Austria"
-    followers: 16925
-    engagement: 303
-    commentsToLikes: 0.032644
-    id: ck5zrfwljwi9d0i14i8hcoja4
+    followers: 22133
+    engagement: 226
+    commentsToLikes: 0.018930
+    id: ck5c8qaava0nw0i11uxi6rc29
     verified: false
-    hashtags: "#covi, #studyabroadlife, #spainwedding, #spaingram"
-  - username: "beachvolleyvikings"
+    hashtags: "#nature, #autumn, #visitaustria, #crodadalago"
+  - username: "christiancarphunter83"
     fullname: >-
-      Beachvolley Vikings
+      ChristianCarphunter83
+    bio: >-
+      Austria🇦🇹 Carplife Life is better at the bank♥️ Austrian Carphunter Catch&Release
     location: "Austria"
-    followers: 24399
-    engagement: 1097
-    commentsToLikes: 0.012559
-    id: ck0tu5fl75pvv0i19jbzuzioy
+    followers: 6802
+    engagement: 1401
+    commentsToLikes: 0.048383
+    id: ckaou087gy7p30i78k80feivd
     verified: false
-    hashtags: "#olympicseason, #friendsofthebrand, #happybirthday, #dogoftheday"
-  - username: "emelgloss_official"
+    hashtags: "#carpy, #carphunter, #thatscarpy, #selfmade"
+  - username: "christianhirschbuehl"
     fullname: >-
-      𝑬𝒎𝒆𝒍 𝑮𝒍𝒐𝒔𝒔
+      Christian Hirschbühl
+    bio: >-
+      🇦🇹 alpine skier
     location: "Austria"
-    followers: 310385
-    engagement: 191
-    commentsToLikes: 0.526396
-    id: ck6tzatou8mbq0j71g4qbw8lx
+    followers: 18454
+    engagement: 1125
+    commentsToLikes: 0.004520
+    id: ck5hj8bdtg6st0i11wvjmeow2
     verified: false
-    hashtags: "#retailtherapy, #beautyverlosung, #gewinnspiele, #happyeaster"
+    hashtags: "#polizeisport, #anotherbestday, #coldamaris, #bandofheroes"
+  - username: "christian___berger"
+    fullname: >-
+      Christian Berger
+    bio: >-
+      ☄️ Writer • Lecturer • Feminist Serious about radical social change
+    location: "Austria"
+    followers: 7866
+    engagement: 782
+    commentsToLikes: 0.033641
+    id: ck0txpllnk1f40i19103at780
+    verified: false
+    hashtags: "#truefruits, #omxkonferenz, #friendswithalotoftalent, #revolution"
+  - username: "christian.majcen"
+    fullname: >-
+      Christian Majcen
+    bio: >-
+      Nationalpark Gesäuse Fotograf 2020 I'm with pleasure in the nature 🌲. Austria 🇦🇹 , doglover 🐕, sunlover 🌞 Our earth is wonderful 🌱
+    location: "Austria"
+    followers: 23912
+    engagement: 1181
+    commentsToLikes: 0.063386
+    id: ck0u7wijl5x800i19ix87dagh
+    verified: false
+    hashtags: "#folknature, #loves, #landschaftsfotografie, #nationalgeographic"
+  - username: "christiananderl"
+    fullname: >-
+      Christian Anderl
+    bio: >-
+      🎈 Dad 📷 Photography & Film 👨🏻‍🎓@shootcamp.at founder ⬇️ Kostenlos starten ⬇️
+    location: "Austria"
+    followers: 19492
+    engagement: 561
+    commentsToLikes: 0.052614
+    id: ck6tlu5b76n7k0j71nmeioz2n
+    verified: true
+    hashtags: "#portrait, #familyfirst, #shootcamp, #inspiration"
+  - username: "christianbruggertv"
+    fullname: >-
+      CHRISTIAN BRUGGER
+    bio: >-
+      TV host @servustv 🤵📺 Sports presenter 🕺🎥 Sports commentator 🎤🎧 Sports aficionado 👻🤙 I am from Austria 🇦🇹🏔 • • • @motogp
+    location: "Austria"
+    followers: 7176
+    engagement: 906
+    commentsToLikes: 0.019415
+    id: ckaozx4h4nspg0i78crbrytyb
+    verified: false
+    hashtags: "#motogp, #austriangp, #aragon, #spain"
+  - username: "christian_kremser"
+    fullname: >-
+      Christian Kremser
+    bio: >-
+      🏠 Vienna, Austria 🇦🇹 Official creator for @visitaustria 📸 Member of @igersaustria.at 🎥 Working at @filmspektakel 📱 #withgalaxy
+    location: "Austria"
+    followers: 15368
+    engagement: 879
+    commentsToLikes: 0.057619
+    id: ck8tdkcnx3nwk0j78tx9jruzh
+    verified: false
+    hashtags: "#igersvienna, #love, #sunset, #viennanow"
+  - username: "christian_binder_"
+    fullname: >-
+      Christian Binder Photography
+    bio: >-
+      #Vienna | #hobbyphotography Weil es einfach #Spaß macht Alle #Fotos wurden von mir aufgenommen.
+    location: "Austria"
+    followers: 2353
+    engagement: 1326
+    commentsToLikes: 0.042898
+    id: ck9wfwdw3qsox0j789xdmsfpi
+    verified: false
+    hashtags: "#nikonphotos, #christianbinderphotography, #createyourlight, #photolovers"
   - username: "bellagialla"
     fullname: >-
       VERONIKA RIEDL 🎤
+    bio: >-
+      Musical Actress / Singer based in 🇦🇹 𝖶𝗁𝖺𝗍𝗌𝖾𝗋𝗇𝖺𝗆𝖾 @𝖺𝗆𝖾𝗋𝗂𝖼𝖺𝗇𝗂𝖽𝗂𝗈𝗍𝗆𝗎𝗌𝗂𝖼𝖺𝗅 𝖲𝖺𝗇𝖽𝗒 @ #𝖦𝖱𝖤𝖠𝖲𝖤 𝖽𝖺𝗌 𝖬𝗎𝗌𝗂𝖼𝖺𝗅 @𝖻𝗋𝗈𝖺𝖽𝗐𝖺𝗒.𝗇𝗂𝗀𝗁𝗍𝗌
     location: "Austria"
     followers: 4670
     engagement: 1612
     commentsToLikes: 0.083217
     id: ck8t3cflr2qpz0j783o6t7u00
     verified: false
-    hashtags: "#beautifullight, #frozen, #kuchen, #samstag"
-  - username: "dxlhan"
-    fullname: >-
-      Dilhan
-    location: "Austria"
-    followers: 6483
-    engagement: 985
-    commentsToLikes: 0.041990
-    id: ckaot0mwytug00i78ciwejh3u
-    verified: false
-    hashtags: "#1stdistrict, #louisvuitton, #simple, #fitspiration"
-  - username: "klararote"
-    fullname: >-
-      Klara  Rote
-    location: "Austria"
-    followers: 8590
-    engagement: 574
-    commentsToLikes: 0.072336
-    id: ck8t134mluaoc0j783465tp1f
-    verified: false
-    hashtags: "#jeanpatouparfum, #yslperfume, #nicheperfumes, #parisdeauville"
-  - username: "lucastockersnow"
-    fullname: >-
-      Luca Stocker
-    location: "Austria"
-    followers: 15201
-    engagement: 1493
-    commentsToLikes: 0.006961
-    id: ck6u1tz4znvgh0j712c4v8gp7
-    verified: false
-    hashtags: "#scgerlitzen, #schiclubberg, #shreddogpack, #gerlitzen"
-  - username: "officialvincentbueno"
-    fullname: >-
-      Vincent Bueno
-    location: "Austria"
-    followers: 7580
-    engagement: 683
-    commentsToLikes: 0.044700
-    id: ck5chz1qtrpjp0i117ctayi84
-    verified: false
-    hashtags: "#staysafe, #teampinoy, #campaign, #daughters"
-  - username: "artandjewellery_"
-    fullname: >-
-      Art and Jewellery
-    location: "Austria"
-    followers: 21121
-    engagement: 211
-    commentsToLikes: 0.003807
-    id: ck5q13vzk95gi0i1156o1z30k
-    verified: false
-    hashtags: "#lacma, #nationalmuseum, #mythology, #directoirestyle"
-  - username: "sd_1997"
-    fullname: >-
-      Sabrina | kpop fanart
-    location: "Austria"
-    followers: 72161
-    engagement: 136
-    commentsToLikes: 0.038480
-    id: ck15ts9sjjmvh0i19cr7mspsb
-    verified: false
-    hashtags: "#kimkibum, #christiandiorfanart, #diordrawing, #bunnykookie"
+    hashtags: "#stage, #photography, #loa, #quarant"
 ---

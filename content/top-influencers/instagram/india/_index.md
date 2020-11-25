@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In India In 2020
 description: >-
-  Find top Instagram influencers in India in 2020. Most popular hashtags: #model #nature #photography #travel.
+  Find top Instagram influencers in India in 2020. Most popular hashtags: #naturephotography #kerala #nature.
 platform: Instagram
+hits: 23484
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 23484 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "andreitalevin"
+  - username: "sahadrdx"
     fullname: >-
-      Andreita Levin ॐ
+      Sahad RDX
+    bio: >-
+      ༒🆃🅴🅰🅼 🅻🅾🆂🅴🆁🆂༒ K⃟L 78 IN͙S͙T͙A͙ L͙O͙V͙E͙R͙ ＳＩＮＣＥ☬２００３ Football ishtam ⚽
     location: "India"
-    followers: 18634
-    engagement: 815
-    commentsToLikes: 0.056150
-    id: ck0u7h3mp4njc0i19m5nnh9yv
+    followers: 2450
+    engagement: 5475
+    commentsToLikes: 0.144049
+    id: ck9wp012977yw0j78ylcu8588
     verified: false
-    hashtags: "#internationalwomanday"
-  - username: "kuttapayii_"
+    hashtags: "#naturephotography, #love, #nature, #india"
+  - username: "jamshi.___"
     fullname: >-
-      Soman😎
+      ＪＡＭＳＨＩ•
+    bio: >-
+      𝙄’𝙢 𝙖𝙬𝙖𝙧𝙚 𝙩𝙝𝙖𝙩 // 𝙞’𝙢 𝙧𝙖𝙧𝙚 •
     location: "India"
-    followers: 2162
-    engagement: 6474
-    commentsToLikes: 0.176832
-    id: ck9wpazok8k0z0j783csbsnnx
+    followers: 3914
+    engagement: 5292
+    commentsToLikes: 0.356357
+    id: ckap1e18su6uo0i78nd0acq0r
     verified: false
-    hashtags: "#riders, #insta, #bike, #bikes"
-  - username: "llh03_einll"
-    fullname: >-
-      👿HO⑶🛇EIN👿
-    location: "India"
-    followers: 2813
-    engagement: 6427
-    commentsToLikes: 0.130666
-    id: ck9wj4nvx5b5p0j787ur126gh
-    verified: false
-    hashtags: "#pose, #model, #manmodeling, #modelfashion"
-  - username: "mossy_boy_003"
-    fullname: >-
-      ₳ Ɉ ₳ ¥ ♋ Ⲙ Ɇ ₦ ₮ Ʉ $
-    location: "India"
-    followers: 3085
-    engagement: 4910
-    commentsToLikes: 0.167310
-    id: ck9whqkggz12e0j78bsxhc47x
-    verified: false
-    hashtags: "#keralagram, #nature, #love, #keralagallery"
-  - username: "lucide_rider"
-    fullname: >-
-      𖦹𝖙𝖍𝖆𝖇𝖘𝖍𝖊𝖊𝖗 𝖓𝖆𝖇𝖍𝖆𝖓
-    location: "India"
-    followers: 6596
-    engagement: 4385
-    commentsToLikes: 0.129316
-    id: ck9wp9cix8cnk0j78v7w9wauk
-    verified: false
-    hashtags: "#kerala360, #kasaragod, #mallugirl, #mallureposts"
+    hashtags: ""
   - username: "__psychopat__202"
     fullname: >-
-      AShOK AkKu ||☆BD☆
+      AkKu • عكو ✨
+    bio: >-
+      ° ʜᴜᴍᴀʟɪᴇɴ 👽ᵏᵃʳᴍᵃ ⚡ ° ° ▂ ▄ ▅ ▆⚠gяαssʜᴜɴᴛᴇʀ⚠▆ ▅ ▄ ▂ ° ° 💫ʜⁱɢʰ🍃 ° ______________________🔯dn pǝʞϽnɟ💫 ° ° °_Я✘100_⚠ ° أنو💋
     location: "India"
-    followers: 2090
-    engagement: 4159
-    commentsToLikes: 0.329471
+    followers: 2203
+    engagement: 4614
+    commentsToLikes: 0.334551
     id: ck9whvwvuzpz20j7817vyy59b
     verified: false
-    hashtags: "#jattlifestyle, #team, #teamwildcatz, #travel"
+    hashtags: "#fuckingmodels, #instagram, #keralaattraction, #keralamotors"
+  - username: "fede.barbaro"
+    fullname: >-
+      ₣εδεɾίɕσ B̥αɾɓαɾσ®🤙
+    bio: >-
+      • Just a dreamer trying to take some pics📸 • I‘d like to show you what surrounds me🎆 • Follow me to see my world🌎 📌⚠️👉 #fre_de_ric 📍Based in ⓜⒾⓁⒶⓃⓄ🇮🇹
+    location: "India"
+    followers: 6235
+    engagement: 4026
+    commentsToLikes: 0.354016
+    id: ck0uaul7kd0zv0i19ytlsofnt
+    verified: false
+    hashtags: "#summer, #milanodaclick, #ticino, #cielo"
+  - username: "neh_oray"
+    fullname: >-
+      פיל נהוראי חורית
+    bio: >-
+      👥 @shailiam1 📩 Collabs: philnehoray@gmail.com 🏗 Civil Engineer, M.S. 🗣 English עברית മലയാളം العَرَبِيَّة
+    location: "India"
+    followers: 12964
+    engagement: 3693
+    commentsToLikes: 0.076928
+    id: ckap1szjaw06v0i78vstct37q
+    verified: false
+    hashtags: "#exploreindia, #handsomeman, #passionpassport, #neverstopexploring"
+  - username: "_amor_girl__"
+    fullname: >-
+      NADIYA TREESA
+    bio: >-
+      ⦂ ₣łƦ$₸₡Ʀ¥ ₦ØV30 ° Łł₣EŁł₦E➜MØM ° GØÐ'$Ø₩₦ ₡ØU₦₸Ʀ¥ ➢M¥ Łł₣E ł$ BE₸₸EƦ ₸Ҥλ₦ M¥ Ðλ¥ÐƦEλM ➢ ° SƗNǤŁɆ ƗS ŦĦɆ ꝀɆɎ Øf MɎ ĦȺⱣⱣƗNɆSSღ °
+    location: "India"
+    followers: 3901
+    engagement: 3662
+    commentsToLikes: 0.136931
+    id: ck9whwg2tzscm0j78w0myph4j
+    verified: false
+    hashtags: ""
+  - username: "ashiqueashi._"
+    fullname: >-
+      𝔸𝕊ℍ 𝕀🍥 محمد عشيق
+    bio: >-
+      🍥 📍Banglore 👣 Malappuram🐾 Karma 🔯♻️ °Die with memories, not dreams°
+    location: "India"
+    followers: 2868
+    engagement: 3636
+    commentsToLikes: 0.200643
+    id: ckaozoejnmoa70i780celrbt6
+    verified: false
+    hashtags: ""
+  - username: "the_raptor390"
+    fullname: >-
+      HARI - KTM BIKER
+    bio: >-
+      That guy on 390 🖤 Automotive enthusiast🏍️ RC390 || RAPTOR Will hit track soon🏁 Powered by @ktm_india
+    location: "India"
+    followers: 6007
+    engagement: 3620
+    commentsToLikes: 0.080463
+    id: ckaoxho56dazz0i783u0htlmk
+    verified: false
+    hashtags: "#ktm690enduro, #gopro, #ktmduke690, #ktmriders"
   - username: "alien._.tribe08"
     fullname: >-
       ♥️ Prince ♥️
+    bio: >-
+      No titles, just Vibes!🌀
     location: "India"
-    followers: 2148
-    engagement: 4106
-    commentsToLikes: 0.223154
+    followers: 2356
+    engagement: 3431
+    commentsToLikes: 0.241843
     id: ck9wiljt62tgy0j78dqmlnjmt
     verified: false
-    hashtags: "#z800india, #freeway, #ktm390duke, #yamahav3"
-  - username: "safu_ny_"
+    hashtags: "#apriliaindia, #adrenaline, #ktmkerala, #gearlesswheelie"
+  - username: "gk.rahul_"
     fullname: >-
-      Pottan❤️
+      Rahul Gopalakrishnan🍃
+    bio: >-
+      എന്നെ കൊണ്ട് ഉപകാരമുള്ളവർക്ക് ഞാൻ ന്തൊക്കെയോ ആണ് #24 #KL_09 #madIn🏏⚽♥️ #photographer_by_passion #nikond5300 #instrumentation_engineer #snmimt #ponnan
     location: "India"
-    followers: 3722
-    engagement: 3898
-    commentsToLikes: 0.175255
-    id: ck9wi281a0idm0j78gqstbcj4
+    followers: 2219
+    engagement: 3185
+    commentsToLikes: 0.205626
+    id: ck5zvkr204f1s0i14rktq6xo6
     verified: false
-    hashtags: "#quoteoftheday, #arms, #neck, #blonde"
-  - username: "fede.barbaro"
-    fullname: >-
-      ₣εδεɾίɕσ B̥αɾɓαɾσ®🤙
-    location: "India"
-    followers: 6368
-    engagement: 3705
-    commentsToLikes: 0.373094
-    id: ck0uaul7kd0zv0i19ytlsofnt
-    verified: false
-    hashtags: "#ghost, #cloudy, #trickortreat, #skyphotography"
-  - username: "s_seyyidhi"
-    fullname: >-
-      ✨سمير سيدي🍃
-    location: "India"
-    followers: 2952
-    engagement: 3625
-    commentsToLikes: 0.248186
-    id: ck9wio93x36dm0j78lhdrtksn
-    verified: false
-    hashtags: "#samsunggalaxys8, #alappuzha, #teamandroid, #fantastic"
+    hashtags: "#lightroom, #nikond5300, #quarantine, #mmade"
 cities:
   - name: Mumbai
     link: /instagram/india/mumbai

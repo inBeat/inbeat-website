@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Porto In 2020
 description: >-
-  Find top beauty Instagram influencers in Porto in 2020. Most popular hashtags: #beauty #makeuplover #quarentena #stayhome.
+  Find top beauty Instagram influencers in Porto in 2020. Most popular hashtags: #porto #pub #beauty #photooftheday.
 platform: Instagram
+hits: 21
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 21 Instagram influencers like this in Porto, Portugal for you to contact.
 profiles:
-  - username: "beatrizmoreiraazevedo"
+  - username: "beatrizrgama"
     fullname: >-
-      B E A
+      𝐁 𝐄 𝐀 𝐓 𝐑 𝐈 𝐙   𝐆 𝐀 𝐌 𝐀
+    bio: >-
+      𝟏𝟗 • 𝐅𝐫𝐨𝐦 𝐏𝐨𝐫𝐭𝐮𝐠𝐚𝐥 ✈︎ • 𝐔𝐌𝐢𝐧𝐡𝐨 👩🏽‍🎓𝐛𝐞𝐚𝐭𝐫𝐢𝐳𝐠𝐚𝐦𝐚𝐜𝐨𝐥𝐥𝐚𝐛@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
     location: "Portugal"
-    followers: 30043
-    engagement: 353
-    commentsToLikes: 0.078398
-    id: ck1374btg9plh0i19pbvhs9x8
+    followers: 18147
+    engagement: 862
+    commentsToLikes: 0.668769
+    id: ck8t69p8hcsbk0j78wisurjpc
     verified: false
-    hashtags: "#harmonicalinea, #decorideas, #kerastase, #stayhome"
-  - username: "miriamtoreiromakeup"
+    hashtags: "#photoshoot, #foodporn, #guimaraes, #fashionblogger"
+  - username: "martacyrnecarvalho"
     fullname: >-
-      Miriam Toreiro
+      Marta Cyrne Carvalho
+    bio: >-
+      Family . Beauty . Fashion . Lifestyle Beauty Consultant Mother of Carminho 👧🏼 and Margarida 👶🏼 Porto, Portugal 🌈
     location: "Portugal"
-    followers: 46900
-    engagement: 538
-    commentsToLikes: 0.033862
-    id: ck13bez9mv3u90i193j2irghu
+    followers: 44868
+    engagement: 549
+    commentsToLikes: 0.145752
+    id: ck6u4knjk49al0j7148a8d9r3
     verified: false
-    hashtags: "#maquiagemtop, #automaquiagem, #makeuppage, #makeupislife"
-  - username: "catemoutinho"
+    hashtags: "#pub, #cottonbrothers, #halloween, #todostemossuperpoderes"
+  - username: "virginiapferreira"
     fullname: >-
-      Catarina Moutinho
+      Virgínia Ferreira
+    bio: >-
+      Beauty and Fashion Blogger CONTACT virginiaferreira91@gmail.com Tiktok ▶️ virginiaferreira91 @rotita_official
     location: "Portugal"
-    followers: 58417
-    engagement: 642
-    commentsToLikes: 0.015808
-    id: ck6tnhc3f9u9p0j71rlrngzeb
+    followers: 8163
+    engagement: 764
+    commentsToLikes: 0.154529
+    id: ck8szqi8vpcay0j78qoqxb6qu
     verified: false
-    hashtags: "#influencer, #tattos, #visitemadeira, #strong"
-  - username: "carvalhosamakeup"
-    fullname: >-
-      Carvalhosa Makeup
-    location: "Portugal"
-    followers: 5750
-    engagement: 844
-    commentsToLikes: 0.190437
-    id: ck9hahpo8cl4p0j78op3f40b7
-    verified: false
-    hashtags: "#marykayportugal, #mattelipstick, #cutcrease, #makeuplife"
-  - username: "ritacduro"
-    fullname: >-
-      Rita Duro
-    location: "Portugal"
-    followers: 3793
-    engagement: 1204
-    commentsToLikes: 0.245040
-    id: ck5c6onu25via0i11pzhlgkuy
-    verified: false
-    hashtags: "#bamboobrush, #planetearth, #hawkersrepspt, #mederbeauty"
-  - username: "maryplan"
-    fullname: >-
-      Maria Pereira
-    location: "Portugal"
-    followers: 26749
-    engagement: 165
-    commentsToLikes: 0.065517
-    id: ck5zl46uwkp4v0i143onacgm5
-    verified: false
-    hashtags: "#chiaraferragnicollection, #springtime, #hotday, #moodygrams"
-  - username: "lilycostamarques"
-    fullname: >-
-      LILY MARQUES - Beauty Content
-    location: "Portugal"
-    followers: 29026
-    engagement: 709
-    commentsToLikes: 0.063744
-    id: ck0w42hjswhak0i195xgnsoqf
-    verified: false
-    hashtags: "#hollywoodmakeup, #maquiagemclassica, #makeuphacks, #sizeup"
-  - username: "ioneomena"
-    fullname: >-
-      Ione Omena Rangel
-    location: "Portugal"
-    followers: 105982
-    engagement: 136
-    commentsToLikes: 0.090020
-    id: ck15sj6j2d9z40i19w6g6fa1g
-    verified: false
-    hashtags: ""
+    hashtags: "#whatimweraring, #portoportugal, #photosideas, #outfit"
   - username: "carinacaldeira_"
     fullname: >-
       Carina Caldeira
+    bio: >-
+      📺 TV host @glittershow_ & Late Night 💄 Beauty Junkie 📧 imendesdasilva@notable.pt
     location: "Portugal"
-    followers: 58116
-    engagement: 162
-    commentsToLikes: 0.055141
+    followers: 70626
+    engagement: 239
+    commentsToLikes: 0.090091
     id: ck5cdqiqrjlzo0i11j8hrqino
     verified: true
-    hashtags: "#wheatandrose, #happyeaster, #glitterlifephotography, #fashion"
-  - username: "tomanephotography"
+    hashtags: "#home, #babygirl, #pub, #glitterlife"
+  - username: "helenamota6"
     fullname: >-
-      Tó Mané
+      H e l e n a   M o t a 🌷
+    bio: >-
+      25 Paredes, Porto 🇵🇹 ✨ Founder @kalinoa.com.pt 🥞 -10% prozis HELENAMOTA 📩 Collabs: hellenacmm@hotmail.com “Everything happens for a reason”
     location: "Portugal"
-    followers: 6431
-    engagement: 893
-    commentsToLikes: 0.054245
-    id: ck5c7o4f77w300i116v3by4yr
+    followers: 15488
+    engagement: 400
+    commentsToLikes: 0.127806
+    id: ck1374c4h9pnz0i19iiwzxyiw
     verified: false
-    hashtags: "#supertubos, #slab, #foggymorning, #oporto"
+    hashtags: "#gms, #giveaway, #mascaradetecido, #garnierpub"
+  - username: "adivadarechousa"
+    fullname: >-
+      CATARINA NORA
+    bio: >-
+      ⋒ fashion trends | beauty tips ⊪ skincare consulting & makeup artist 〈@catarinanora_mua〉 ↷ 𝘀𝗼𝗰𝗶𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 ◠ Blog:
+    location: "Portugal"
+    followers: 9740
+    engagement: 534
+    commentsToLikes: 0.241492
+    id: ck8t5v72nbcwr0j78c21xhpra
+    verified: false
+    hashtags: "#influencerportugal, #mamadeprimeiraviagem, #porto, #babyonboard"
+  - username: "ritacduro"
+    fullname: >-
+      Rita Duro
+    bio: >-
+      💭 Full-time dreamer 💛 Fashion, Beauty, Travel & Lifestyle ⚠️ 20% no @ANNEBEAUTYSTUDIO - RITACDURO20 ✉️ rita.duro.moreira@gmail.com 📍 Porto, Portugal
+    location: "Portugal"
+    followers: 5509
+    engagement: 792
+    commentsToLikes: 0.327084
+    id: ck5c6onu25via0i11pzhlgkuy
+    verified: false
+    hashtags: "#outfitinspiration, #ootdshare, #styleblogger, #influenciadoradigital"
+  - username: "miriamtoreiromakeup"
+    fullname: >-
+      Miriam Toreiro
+    bio: >-
+      📍Porto, PT🇵🇹 🌹Makeup Enthusiast 🐥 Twitter @miriam_toreiro 📩Business Inquiries: miriamtoreiro@gmail.com
+    location: "Portugal"
+    followers: 44316
+    engagement: 316
+    commentsToLikes: 0.035139
+    id: ck13bez9mv3u90i193j2irghu
+    verified: false
+    hashtags: "#lipart, #instamua, #hoodedeyesmakeup, #pictorial"
+  - username: "catarinaadeoliveira"
+    fullname: >-
+      Catarina Oliveira
+    bio: >-
+      23🌞📍Lisboa 🇵🇹🇬🇧🇪🇸🇩🇪🇧🇪🇫🇷🇨🇭🇮🇹 Travel, food and beauty enthusiast | Human rights activist 📝 Aspiring writer 💊 pharmacist loading 📩catarinoli@gmail.com
+    location: "Portugal"
+    followers: 3957
+    engagement: 715
+    commentsToLikes: 0.057818
+    id: ck8ta8l7oqufk0j786xnzevvc
+    verified: false
+    hashtags: "#porto, #palaciodecristal, #lookportugal, #topinfluencerpt"
+  - username: "_andrebrito_"
+    fullname: >-
+      André Brito
+    bio: >-
+      Fashion and Fine Art Nude Photographer based in Porto, Portugal
+    location: "Portugal"
+    followers: 15517
+    engagement: 390
+    commentsToLikes: 0.029073
+    id: ck5pzko9p1fzv0i11lu61z9qt
+    verified: false
+    hashtags: "#legs, #photography, #catalog, #body"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Spain In 2020
 description: >-
-  Find top christian TikTok influencers in Spain in 2020. Most popular hashtags: #fail #tiktok #deporteencasa #foryoupage.
+  Find top christian TikTok influencers in Spain in 2020. Most popular hashtags: #fyp #parati #foryou #viral.
 platform: TikTok
+hits: 35
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database holds 35 TikTok influencers like this in Spain for you to work with.
 profiles:
-  - username: "ivantroyanoficial"
+  - username: "er_christian_"
     fullname: >-
-      Iván Troyano
+      er_christian_
+    bio: >-
+      Una be le robe a Diego Villalba @er_christian_ en insta 🔪👌🏻
     location: "Spain"
-    followers: 28859
-    engagement: 1589
-    commentsToLikes: 0.141599
-    id: cka6lh7ml355m0i78k48uqb7h
-    verified: true
-    hashtags: "#alcohol, #sombrerero, #amor, #fashiontips"
-  - username: "amparobadenes"
-    fullname: >-
-      Amparo Badenes
-    location: "Spain"
-    followers: 6005
-    engagement: 1049
-    commentsToLikes: 0.067254
-    id: cka8enmizyanp0i78z3ro43h4
+    followers: 151900
+    engagement: 1067
+    commentsToLikes: 0.006228
+    id: ckbb7o5i1xpau0j23ijtqcdla
     verified: false
-    hashtags: "#vestidosdenovia, #ladydior, #luxurybrands, #annawintour"
-  - username: "twinmelody"
+    hashtags: "#halloween, #halloween2020, #mangrego, #ermangrego"
+  - username: "lov3boyyy666"
     fullname: >-
-      Twin Melody 
+      𝙖𝙡𝙗𝙚𝙧𝙩 ™️
+    bio: >-
+      he/she/they not even a boy but we lov3 and we 666 barcelona :))
     location: "Spain"
-    followers: 13355617
-    engagement: 2047
-    commentsToLikes: 0.005777
-    id: ck903ssvydlpr0j78tkh4z0au
-    verified: true
-    hashtags: "#mom, #thankyougod, #fliflaflo, #trend"
+    followers: 14400
+    engagement: 2201
+    commentsToLikes: 0.020299
+    id: ck81qxgr0kpul0j78aajj42c7
+    verified: false
+    hashtags: "#parati, #indie, #lgbt, #gaytiktok"
   - username: "christianmxral"
     fullname: >-
       Christian Maral
+    bio: >-
+      k-poper :3 army💜
     location: "Spain"
     followers: 156777
     engagement: 3102
     commentsToLikes: 0.023328
     id: cka0q60xmbe8h0i788ozaklu1
     verified: false
-    hashtags: "#beauty, #coronavirus, #coreano, #couple"
-  - username: "fantasyfunk"
+    hashtags: "#bangbangcon, #bts, #btsxarmy, #korea"
+  - username: "merymerybcn"
     fullname: >-
-      Fantasyfunk
+      Mery
+    bio: >-
+      ....la llave de la locura ... liberación...caras...sonrisas🤪🤣💜
     location: "Spain"
-    followers: 3719
-    engagement: 1319
-    commentsToLikes: 0.154616
-    id: ck902s3y0cqvw0j7834oa3gta
+    followers: 16200
+    engagement: 2031
+    commentsToLikes: 0.229590
+    id: ckbr9ob7ro8lj0j230q3w1cne
     verified: false
-    hashtags: "#queasco, #fase1porfavor, #challenger, #fail"
-  - username: "nadiacorrecher"
+    hashtags: "#merymerycaras, #amigosderaza, #halloweenmakeup, #tikblacktokers"
+  - username: "chicogamerryt"
     fullname: >-
-      나디아 🐉
+      ChicoGamerr
+    bio: >-
+      ————————↑ ↑— +700.000 en Youtube insta: @ChicoGameerr_ Tomate la vida con humor!
     location: "Spain"
-    followers: 100501
-    engagement: 2191
-    commentsToLikes: 0.014537
-    id: ck9rlsb52zhaw0j78lnmxgggs
+    followers: 465900
+    engagement: 1727
+    commentsToLikes: 0.012516
+    id: ckbky5ym6u8qc0j23r4necpml
     verified: false
-    hashtags: "#kaachi, #stefansalvatore, #taehyung, #jhope"
-  - username: "elchiringuitotv"
+    hashtags: "#septiembre, #espa, #reto, #colecciondevideojuegos"
+  - username: "carolinafernandez46"
     fullname: >-
-      El Chiringuito TV
+      Carolina Fernandez H
+    bio: >-
+      👩‍❤️‍💋‍👨nueva cuenta @carol_crispy23 papas de paula👨‍👩‍👧15/05/20👶
     location: "Spain"
-    followers: 102621
-    engagement: 468
-    commentsToLikes: 0.010322
-    id: cka63spbi5qr20i789jcsoi9w
-    verified: true
-    hashtags: "#tiktokdeportes, #jump, #seeyousoon, #english"
-  - username: "cgl02"
-    fullname: >-
-      Cristian Gámez 
-    location: "Spain"
-    followers: 3815113
-    engagement: 2345
-    commentsToLikes: 0.007080
-    id: ck8fais8z4cwd0j789698lqba
-    verified: true
-    hashtags: "#tequila"
-  - username: "cristiandelvalleo"
-    fullname: >-
-      Cristian Del Valle O
-    location: "Spain"
-    followers: 204460
-    engagement: 797
-    commentsToLikes: 0.031758
-    id: ck901qy3ebpru0j78c83m7fpo
+    followers: 80900
+    engagement: 663
+    commentsToLikes: 0.019861
+    id: ckai83ez32snd0i78z1d3633t
     verified: false
-    hashtags: "#sorteo, #dedondeeres, #cancion, #agua"
-  - username: "annjairmorey"
+    hashtags: "#risastiktok, #bailes, #miamor, #bebes"
+  - username: "supermercados_eljamon"
     fullname: >-
-      Ann Jair Morey
+      Super El Jamón
+    bio: >-
+      Empresa 100% andaluza con + de 200 supermercados. ¡Aquí venimos a divertirnos!
     location: "Spain"
-    followers: 3409
-    engagement: 1074
-    commentsToLikes: 0.105480
-    id: cka0tnk8vqmtm0i78h3oqvmsr
+    followers: 5416
+    engagement: 710
+    commentsToLikes: 0.007376
+    id: ckb9nwdslhsux0j23361hdr08
     verified: false
-    hashtags: "#misvenezuela, #hijodedios, #filtros, #corazon"
+    hashtags: "#fun, #influencer, #amodeo, #challenge"
+  - username: "cris_marvel"
+    fullname: >-
+      Christian antelo
+    bio: >-
+      Murcia-España 🇪🇸 Entra al enlace y vota por mi ✅ ↘️ ⬇️ ↙️
+    location: "Spain"
+    followers: 226500
+    engagement: 1213
+    commentsToLikes: 0.016817
+    id: ckcpb0a5pf0um0j233yjkz6eq
+    verified: false
+    hashtags: "#caida, #xyzbca, #comedia, #parati"
+  - username: "chkeats"
+    fullname: >-
+      Christian Keats
+    bio: >-
+      Quédate ahí. Justo ahí. chkeatsmm@gmail.com 📩 🙋🏽‍♂️ Madrid📍🚀
+    location: "Spain"
+    followers: 227000
+    engagement: 841
+    commentsToLikes: 0.022599
+    id: ckc3740edvzps0j23jhnwsiae
+    verified: false
+    hashtags: "#parati, #viral, #foryou, #september"
+  - username: "christinemateii"
+    fullname: >-
+      Christine 🍒
+    bio: >-
+      Follow 4 fun 🦋 Instagram: christinematei Descuento 15% Shein: christinees15
+    location: "Spain"
+    followers: 41300
+    engagement: 1564
+    commentsToLikes: 0.023476
+    id: ckbqc5acay6o80j23tlffklpl
+    verified: false
+    hashtags: "#shein, #romwebesties, #loveromwe, #fyp"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Greece In 2020
 description: >-
-  Find top makeup Instagram influencers in Greece in 2020. Most popular hashtags: #makeuptutorial #giveaway #happy #colourmakeup.
+  Find top makeup Instagram influencers in Greece in 2020. Most popular hashtags: #makeupartist #makeup #giveaway.
 platform: Instagram
+hits: 248
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 248 Instagram influencers like this in Greece for you to contact.
 profiles:
-  - username: "marina_grigoriou_"
-    fullname: >-
-      1st RunnerUp MISS HELLAS 2018👑
-    location: "Greece"
-    followers: 70677
-    engagement: 1509
-    commentsToLikes: 0.063604
-    id: ck5chpx39r8mk0i11a0nhx6ln
-    verified: true
-    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
-  - username: "core.innaa"
-    fullname: >-
-      Mono Korinna
-    location: "Greece"
-    followers: 15915
-    engagement: 1258
-    commentsToLikes: 0.089474
-    id: ck5btqu2ggfpc0i11crypwfyb
-    verified: false
-    hashtags: "#softglam, #youtube, #giveawaygreece, #makeuptrainer"
   - username: "izambellachr_makeup"
     fullname: >-
       Izambella Christodoulou 🧿
+    bio: >-
+      Professional Makeup Artist ▪️Bridal & Editorial ▪️For Bookings 📞 97851331 no DM ▪️For Inquiries 📩 izambella.chr@gmail.com ▪️Youtube video 👇🏻
     location: "Greece"
-    followers: 68324
-    engagement: 534
-    commentsToLikes: 0.036544
+    followers: 75121
+    engagement: 965
+    commentsToLikes: 0.706667
     id: ck5c666bm4szy0i11gj2k9eke
     verified: false
-    hashtags: "#makeuptutorial, #outfitchange, #mood, #outfitodtheday"
+    hashtags: "#izambellachristodoulou, #womenwithstyle, #style, #makeupartistsworldwide"
+  - username: "core.innaa"
+    fullname: >-
+      Mono Korinna
+    bio: >-
+      FREELANCER MUA📍🇬🇷 MAKEUP TRAINER💄 DOG MAMA LOUD AND PROUD 🐕 Η ζωή και το μπουκάλι με φέρανε σε αυτο το χαλι Follow @coreinadia \m/
+    location: "Greece"
+    followers: 19220
+    engagement: 1514
+    commentsToLikes: 0.340124
+    id: ck5btqu2ggfpc0i11crypwfyb
+    verified: false
+    hashtags: "#mua, #carnivalpalette, #makeuplook, #makeup"
+  - username: "athinaki_mou"
+    fullname: >-
+      Athina Mourkousi Skotida
+    bio: >-
+      ☆BE.YOU.TIFUL by Athina☆ ▪Check my YouTube Channel▪👑🎥🎬💖 💄Professional MakeUp Artist / 💎model / Image Maker ⬇️NEW BE.YOU.TIFUL VIDEO⬇️
+    location: "Greece"
+    followers: 39843
+    engagement: 1238
+    commentsToLikes: 0.042143
+    id: ckaosoybrsfmj0i785qyxc8y0
+    verified: false
+    hashtags: "#bigsmile, #love, #longhair, #vacation"
+  - username: "katerina.peftitsi"
+    fullname: >-
+      Κατερίνα Πεφτίτση
+    bio: >-
+      Actress, Makeup, Sfx, Winner of #SquadAwards2018 Plus size model @gntmgr 2019 Part of @panik_entertainment_group
+    location: "Greece"
+    followers: 41873
+    engagement: 1208
+    commentsToLikes: 0.212462
+    id: ck5q40s0zn8bo0i11s00o94xq
+    verified: false
+    hashtags: "#matfashion, #newcomfortcollection, #fallvibes"
+  - username: "miriam_cohen1"
+    fullname: >-
+      Miriam Cohen_Makeup artist
+    bio: >-
+      Makeup Artist • 053-2800974 •💄❤️ כניסה ישירות לוואצפ שלי לפרטים נוספים
+    location: "Greece"
+    followers: 25324
+    engagement: 369
+    commentsToLikes: 0.113614
+    id: ck15qc5y1251v0i19q2petm1w
+    verified: false
+    hashtags: ""
+  - username: "nakopoulouvaso"
+    fullname: >-
+      Vaso Nakopoulou
+    bio: >-
+      MakeUp Artist
+    location: "Greece"
+    followers: 59571
+    engagement: 401
+    commentsToLikes: 0.021794
+    id: ck0vwimaatza90i19beqstt9s
+    verified: false
+    hashtags: "#makeup, #gorgeous, #vasonakopoulou, #makeupartist"
+  - username: "arezu.ali"
+    fullname: >-
+      Arezu Ali
+    bio: >-
+      Style Blogger / MakeUp Artist 📍London
+    location: "Greece"
+    followers: 29778
+    engagement: 373
+    commentsToLikes: 0.029592
+    id: ck8szy7ieq6a10j78m7eokfof
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "marina_grigoriou_"
+    fullname: >-
+      1st RunnerUp MISS HELLAS 2018👑
+    bio: >-
+      🧸1st RUNNER UP MISS HELLAS 2018👑 🧚‍♀️ Journalist💁🏻‍♀️📝 & Professional MUA💄Bridal Makeup✨ •For inquiries dm📩 Latest YouTube Video:⬇️⬇️⬇️🧚🏻‍♀️
+    location: "Greece"
+    followers: 77987
+    engagement: 810
+    commentsToLikes: 0.005247
+    id: ck5chpx39r8mk0i11a0nhx6ln
+    verified: true
+    hashtags: "#danielwellington, #ad, #iconiclinkunitone, #memories"
   - username: "filiosarantinou_mua"
     fullname: >-
       Filio Sarantinou MUA
+    bio: >-
+      🔹️💄PRO #makeupartist | BRIDAL EXPERT | FORMAL MAKEUP 🔹️📺 @shoppingstartv every Wednesday 🔹️📍Athens, 🇬🇷 🔹️🎥Youtube⬇️
     location: "Greece"
-    followers: 9191
-    engagement: 1741
-    commentsToLikes: 0.581991
+    followers: 13837
+    engagement: 1166
+    commentsToLikes: 0.461111
     id: ck9wempu6ky690j78v4jqkyik
     verified: false
-    hashtags: "#weddingglam, #colourmakeup, #glam, #giveaway"
-  - username: "dimitris__stamatiou"
-    fullname: >-
-      Dimitris Stamatiou Makeup
-    location: "Greece"
-    followers: 34725
-    engagement: 161
-    commentsToLikes: 0.117716
-    id: ck13599w50cbh0i19zcyvju31
-    verified: false
-    hashtags: "#eyeshadow, #eyelashes, #jlo, #giveaway"
-  - username: "katerina.peftitsi"
-    fullname: >-
-      Cathy Jones
-    location: "Greece"
-    followers: 37565
-    engagement: 815
-    commentsToLikes: 0.010976
-    id: ck5q40s0zn8bo0i11s00o94xq
-    verified: false
-    hashtags: "#idea, #matfashion, #loveyourcurves, #thepurpose"
-  - username: "nakopoulouvaso"
-    fullname: >-
-      VasoNakopoulou
-    location: "Greece"
-    followers: 53401
-    engagement: 488
-    commentsToLikes: 0.018770
-    id: ck0vwimaatza90i19beqstt9s
-    verified: false
-    hashtags: "#liveshow, #smile, #sunglasses, #everyday"
+    hashtags: "#bridetobe, #makeupbyfiliosarantinou, #filiosarantinou, #bridalhair"
   - username: "afroditi_kasouta"
     fullname: >-
       Afroditi Kasouta
+    bio: >-
+      Mua/lash lift&tint/περιποίηση προσώπου Freddy Makeup Stage 𝔽𝕠𝕦𝕟𝕕𝕖𝕣 𝕠𝕗 @greekcollab_giveaway
     location: "Greece"
-    followers: 16582
-    engagement: 1491
-    commentsToLikes: 1.842667
+    followers: 22161
+    engagement: 1197
+    commentsToLikes: 1.040938
     id: ckap4zoh99j6v0i78mu1cnx2q
     verified: false
-    hashtags: "#giveawayalert, #giveawaytime, #giveawaygreece, #diagwnismos"
-  - username: "kostantina_lola"
-    fullname: >-
-      𝒦𝑜𝓈𝓉𝒶𝓃𝓉𝒾𝓃𝒶 🌻
-    location: "Greece"
-    followers: 8440
-    engagement: 365
-    commentsToLikes: 0.054949
-    id: ck13a605sosa30i19tcsbkrm7
-    verified: false
-    hashtags: "#tb, #nofilter"
-  - username: "roula_dimitriadou_tsaliki_"
-    fullname: >-
-      𝗥𝗢𝗨𝗟𝗔 𝗗𝗜𝗠𝗜𝗧𝗥𝗜𝗔𝗗𝗢𝗨 𝗧𝗦𝗔𝗟𝗜𝗞𝗜
-    location: "Greece"
-    followers: 20486
-    engagement: 461
-    commentsToLikes: 0.170273
-    id: ck5zp2sh6rvl60i14dy7tlc6z
-    verified: false
-    hashtags: "#karantina, #caffenerocy, #contactlessdelivery, #makeup"
+    hashtags: "#diagonismoi, #giveawaygreece, #diagwnismos, #giveaway"
 ---

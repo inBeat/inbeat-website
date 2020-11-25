@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Morocco In 2020
 description: >-
-  Find top music Instagram influencers in Morocco in 2020. Most popular hashtags: #stayhome #paris #2020 #khawa.
+  Find top music Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #love #smile.
 platform: Instagram
+hits: 83
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 83 Instagram influencers like this in Morocco for you to contact.
 profiles:
-  - username: "mons.saroute"
+  - username: "badgalberry"
     fullname: >-
-      MON$ 🇲🇦
+      BERRY 🇲🇦
+    bio: >-
+      Multifaceted if I may say so myself - Fashion blogger, rapper, songwriter. ~ Best bid wins ~ Contact: chaimaeberry@gmail.com “Alright” music video ⬇️
     location: "Morocco"
-    followers: 262726
-    engagement: 630
-    commentsToLikes: 0.037598
-    id: ck5cia9zmsa3i0i11mdgkpnxj
-    verified: true
-    hashtags: "#casa, #freestoune, #mons, #labass"
-  - username: "mohammed_otmane"
-    fullname: >-
-      mohammed otmane
-    location: "Morocco"
-    followers: 51073
-    engagement: 261
-    commentsToLikes: 0.064883
-    id: ck5ciariqsb4o0i11lxqtx48l
+    followers: 40513
+    engagement: 690
+    commentsToLikes: 0.012337
+    id: ck5ci9zaus9mz0i11vkd4cduk
     verified: false
-    hashtags: "#maherzainfans, #video, #marwan, #loveyou"
+    hashtags: "#rotita, #sun, #newchicgals, #ootd"
   - username: "marouwa"
     fullname: >-
       Maroua
+    bio: >-
+      Here to create ✨ Lifestyle| music | travel and FUN! •💍 Married •📍Tangier, Morocco •🎬 Check out my my YouTube video:
     location: "Morocco"
-    followers: 5273
-    engagement: 1465
-    commentsToLikes: 0.063970
+    followers: 6947
+    engagement: 1208
+    commentsToLikes: 0.055781
     id: ck8tdcl8s2tce0j78ce1q5198
     verified: false
-    hashtags: "#homedecor, #eidmoubarak, #summersaus, #stayathome"
+    hashtags: "#moroccan, #marocaine, #travelblogger, #girly"
+  - username: "mohammed_otmane"
+    fullname: >-
+      Dr. mohammed ben othmane
+    bio: >-
+      ▪︎ Médecin 🎓 ▪︎ Musicien chanteur 🎙 ▪︎ Dernier Clip 🎬: Hala_Ghariba 👇
+    location: "Morocco"
+    followers: 48053
+    engagement: 204
+    commentsToLikes: 0.030108
+    id: ck5ciariqsb4o0i11lxqtx48l
+    verified: false
+    hashtags: "#doc, #docsinger, #docsingerfamily, #my2ndfamily"
   - username: "assala_official"
     fullname: >-
       Assala
+    bio: >-
+      A Syrian musical artist. 📬 Assala@brandstamp.media You can now watch album #لاتستسلم on YouTube
     location: "Morocco"
-    followers: 7953648
-    engagement: 68
-    commentsToLikes: 0.023260
+    followers: 8356325
+    engagement: 47
+    commentsToLikes: 0.029907
     id: ck55jgwe7x0bl0i11tjrxwftn
     verified: true
-    hashtags: "#stayhome, #strongertogether, #assala, #voguearabia"
-  - username: "najirazzy"
-    fullname: >-
-      R A Z Z Y
-    location: "Morocco"
-    followers: 16805
-    engagement: 791
-    commentsToLikes: 0.037663
-    id: ck5hefd6psm8x0i11fj8qozwv
-    verified: false
-    hashtags: "#beats, #okbeatmechallenge, #vision, #ongoing"
-  - username: "ihabamirofficiell"
-    fullname: >-
-      Ihab Amir
-    location: "Morocco"
-    followers: 2705748
-    engagement: 110
-    commentsToLikes: 0.024085
-    id: ck0u8y92c8jqd0i19qyhg3vu7
-    verified: true
-    hashtags: "#mallina, #stayhome, #mellina, #3m"
-  - username: "sg.md__"
-    fullname: >-
-      ♬ SG.MD ♬[أغانيہ مترجـمـہ]
-    location: "Morocco"
-    followers: 139894
-    engagement: 559
-    commentsToLikes: 0.044586
-    id: ckaor07i5l5je0i788tkxa9cv
-    verified: false
-    hashtags: ""
-  - username: "yasmine__belkacem"
-    fullname: >-
-      YASMINE BELKACEM
-    location: "Morocco"
-    followers: 2710510
-    engagement: 121
-    commentsToLikes: 0.021575
-    id: ck5bxwn3tok3x0i11zanvp91a
-    verified: true
-    hashtags: "#happybirthday"
-  - username: "zouhairbahaoui"
-    fullname: >-
-      Zouhair Bahaoui
-    location: "Morocco"
-    followers: 5983226
-    engagement: 201
-    commentsToLikes: 0.012277
-    id: ck0ub9a0we32j0i194b33lfmj
-    verified: true
-    hashtags: "#lazem, #stayhome, #balak, #tetouan"
+    hashtags: "#assala"
   - username: "hindziadi"
     fullname: >-
       Hind ziadi - هند زيادي
+    bio: >-
+      • Morrocan singer 🇲🇦 • XFactor finalist •booking / manager : (+212)661404921 My latest Music Video👇🏻
     location: "Morocco"
-    followers: 441016
-    engagement: 1164
-    commentsToLikes: 0.009294
+    followers: 599093
+    engagement: 495
+    commentsToLikes: 0.008259
     id: ck55jf5okwwkf0i11m9z6qiil
     verified: false
-    hashtags: "#dubai, #missyouall, #quarantine, #dress"
+    hashtags: "#morocco, #dahket, #happy, #smile"
+  - username: "najirazzy"
+    fullname: >-
+      R A Z Z Y
+    bio: >-
+      Music Producer | Marrakesh For all inquiries | Najirazzy@gmail.com | @razzystation ● Latest work :
+    location: "Morocco"
+    followers: 17263
+    engagement: 564
+    commentsToLikes: 0.033257
+    id: ck5hefd6psm8x0i11fj8qozwv
+    verified: false
+    hashtags: "#vision, #razzystation, #contest, #2020"
+  - username: "zouhairbahaoui"
+    fullname: >-
+      Zouhair Bahaoui
+    bio: >-
+      Management & Booking : 📞 Reda El Bradi 00 212 6 61 66 48 75 📤 Contact@omyprod.ma 👻 Snapchat : zouhairbahaoui 👇 New Music Vidéo 👇
+    location: "Morocco"
+    followers: 7073607
+    engagement: 147
+    commentsToLikes: 0.011221
+    id: ck0ub9a0we32j0i194b33lfmj
+    verified: true
+    hashtags: ""
+  - username: "ihabamirofficiell"
+    fullname: >-
+      Ihab Amir
+    bio: >-
+      ▫️ Moroccan artist 🇲🇦 ▫️ Singer Songwriter | Composer | Musician 🎼 Booking : y.ihabamir@gmail.com ▫️chebba [ᶫᶦᶰᵏ] 📤
+    location: "Morocco"
+    followers: 2769974
+    engagement: 108
+    commentsToLikes: 0.020241
+    id: ck0u8y92c8jqd0i19qyhg3vu7
+    verified: true
+    hashtags: "#ihabamir, #chebba, #ihab, #stayhome"
+  - username: "othmaneboulboul"
+    fullname: >-
+      Othmane Boulboul | عثمان بلبل
+    bio: >-
+      Official Instagram The Voice 5 أحلى صوت Management and Booking : +212662763320 👇🏻New MusicVideo #KentiLamor
+    location: "Morocco"
+    followers: 214007
+    engagement: 155
+    commentsToLikes: 0.019953
+    id: ck5hscg28wd140i11ly6s10lf
+    verified: true
+    hashtags: "#moroccanandproud, #brothersforever, #othmaneboulboul, #aliboulboul"
+  - username: "nabylamaan"
+    fullname: >-
+      Nabyla Maan
+    bio: >-
+      Chanteuse marocaine-Jazz Arabo-Andalous/World-Music
+    location: "Morocco"
+    followers: 105494
+    engagement: 154
+    commentsToLikes: 0.021668
+    id: ck6u2mytasqm10j719xisrgbq
+    verified: false
+    hashtags: "#traditionalart, #fes, #music, #nabylamaan"
 ---

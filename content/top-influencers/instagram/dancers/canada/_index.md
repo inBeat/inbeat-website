@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Canada In 2020
 description: >-
-  Find top dancers Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #travelmb #lighthouse #dance.
+  Find top dancers Instagram influencers in Canada in 2020. Most popular hashtags: #lovelivecosplay #cosplay #cutecosplay.
 platform: Instagram
+hits: 252
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 252 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "samuel.scherzer"
-    fullname: >-
-      S A M S C H E R Z E R
-    location: "Canada"
-    followers: 10992
-    engagement: 1460
-    commentsToLikes: 0.049777
-    id: ck15uzv8qp90m0i19sqy6cp0q
-    verified: false
-    hashtags: "#headshots, #vancouver, #acting, #dance"
-  - username: "_emmytinglin"
-    fullname: >-
-      Emmerly Tinglin ✨
-    location: "Canada"
-    followers: 21227
-    engagement: 1196
-    commentsToLikes: 0.042215
-    id: ck5hozkirqibd0i11cue65wqx
-    verified: false
-    hashtags: "#novababe, #shein, #sheingals, #forgirlsbygirls"
   - username: "tiffanyefimov"
     fullname: >-
       Tiffany Efimov
+    bio: >-
+      DM FOR MODELLING RATE 20 Youth Grand Prix 19🥇classical🥉contemp 18🥇contemp🥈classical 17 hope award ABT National training scholar RP dancer DWC STAGE
     location: "Canada"
-    followers: 2586
-    engagement: 1951
-    commentsToLikes: 0.188740
+    followers: 2517
+    engagement: 1929
+    commentsToLikes: 0.175124
     id: ck6uebh4gpy1h0j71akrjy28l
     verified: false
-    hashtags: "#mintroombest, #rpempowered, #rpcaptivating, #worldtutuday"
-  - username: "fitness_by_vivi"
+    hashtags: "#rpbravas, #rplove, #rplife, #rpelastics"
+  - username: "samuel.scherzer"
     fullname: >-
-      Viviana Castro
+      S A M S C H E R Z E R
+    bio: >-
+      | Dancer | Actor | Vancouver | | DaCosta Talent Agency |
     location: "Canada"
-    followers: 14450
-    engagement: 895
-    commentsToLikes: 0.141624
-    id: ck5hn6kiqnauo0i11s6yx0brx
+    followers: 11205
+    engagement: 1355
+    commentsToLikes: 0.050336
+    id: ck15uzv8qp90m0i19sqy6cp0q
     verified: false
-    hashtags: "#proudmom, #sisters, #teamfitnessbyvivi, #beachbody"
-  - username: "kaeri.chi"
+    hashtags: ""
+  - username: "_emmytinglin"
     fullname: >-
-      🌸Kaeri🌸
+      Emmerly Tinglin ✨
+    bio: >-
+      ♡ 100k + views on YouTube ♡ Actress | Dancer | Model | @miraclemgmt ♡ NBA Dancer | Toronto Raptors Subscribe⇣🦋
     location: "Canada"
-    followers: 40205
-    engagement: 432
-    commentsToLikes: 0.062278
-    id: ck6u92fe1v3lj0j710j0q5d9l
+    followers: 28424
+    engagement: 1224
+    commentsToLikes: 0.041834
+    id: ck5hozkirqibd0i11cue65wqx
     verified: false
-    hashtags: "#kurisu, #schoolwatch, #bunny, #asianbeauty"
-  - username: "lilahandlewis"
+    hashtags: "#ad, #shein, #sheingals, #forgirlsbygirls"
+  - username: "natalyrochaxo"
     fullname: >-
-      Lilah Fear And Lewis Gibson
+      Natalia ~ Millennial Biz Coach
+    bio: >-
+      𝘼𝙨𝙨𝙤𝙘𝙞𝙖𝙩𝙚 𝙈𝙖𝙧𝙠𝙚𝙩 𝙈𝙚𝙣𝙩𝙤𝙧 Dancer💃🏼| @beautifymexo |🇪🇨 #WFABB Mentor|Creating leaders Let’s Glow & Grow Together📥
     location: "Canada"
-    followers: 2562
-    engagement: 2043
-    commentsToLikes: 0.119822
-    id: ck6udkjxllmgk0j71q0kp27ke
+    followers: 2874
+    engagement: 1801
+    commentsToLikes: 0.194667
+    id: ckf5re4ticd9z0j23w1ptqzps
     verified: false
-    hashtags: "#isufigureskating, #hideandseek, #centregadbois, #bluesbrothers"
-  - username: "sagelinder"
-    fullname: >-
-      SAGE
-    location: "Canada"
-    followers: 44379
-    engagement: 1593
-    commentsToLikes: 0.019365
-    id: ck5hozn1cqiek0i11xihdz6b2
-    verified: false
-    hashtags: "#appreciationpost"
+    hashtags: "#cruelty, #latina, #wifiandadream, #figureitout"
   - username: "kira.canadian.girl"
     fullname: >-
       Kira 🇨🇦 Canada Travel Explore
+    bio: >-
+      lєtѕ gσ σn α вєαutíful αdvєnturє Dancer 💃🏼 Dentist 👩🏼‍⚕️ Hiker 🎒 On Hike 16 of @52hikechallenge Manitoba Made 🌾
     location: "Canada"
-    followers: 6644
-    engagement: 726
-    commentsToLikes: 0.104243
+    followers: 7390
+    engagement: 930
+    commentsToLikes: 0.095646
     id: ck5c0uinytvbb0i11k2sd2yrl
     verified: false
-    hashtags: "#floridalife, #southbeachmiami, #greensandbeach, #swfl"
-  - username: "shelbybain_"
+    hashtags: "#mymanitoba, #canadasworld, #womentravel, #livelivecanada"
+  - username: "kaeri.chi"
     fullname: >-
-      shelby bain
+      🌸Kaeri🌸
+    bio: >-
+      📍YYZ |♎️|🍑Cosplayer |🎶Dancer | 🕹️Gamer Use my code "chi" for 10% off at ttdeye! Kofi | ttdeye | Twitch | Facebook ⬇️
     location: "Canada"
-    followers: 125250
-    engagement: 876
-    commentsToLikes: 0.013375
-    id: ck5hozpmkqiib0i11zkufcu6q
-    verified: true
-    hashtags: "#stayhome, #socialdistanceshoot, #poguelife, #soulgifted"
-  - username: "liamackie"
-    fullname: >-
-      L I A M  M A C K I E
-    location: "Canada"
-    followers: 30583
-    engagement: 1504
-    commentsToLikes: 0.016128
-    id: ck5hozi2hqi870i11z1hbb221
+    followers: 40897
+    engagement: 395
+    commentsToLikes: 0.066123
+    id: ck6u92fe1v3lj0j710j0q5d9l
     verified: false
-    hashtags: "#season7issabangerrrrrrrrr"
+    hashtags: "#fatezero, #kotoriminamicosplay, #kotoricosplay, #llsifcosplay"
+  - username: "kellynimens"
+    fullname: >-
+      KELLY NIMENS
+    bio: >-
+      DANCE & FITNESS Dancer| @mtaagency kelly.nimens@gmail.com Co-Founder and Director of|@runwaydanceconnection
+    location: "Canada"
+    followers: 5869
+    engagement: 867
+    commentsToLikes: 0.109271
+    id: ck5zw3sd95fd40i14tity3vkl
+    verified: false
+    hashtags: ""
+  - username: "lilahandlewis"
+    fullname: >-
+      Lilah Fear And Lewis Gibson
+    bio: >-
+      @thelilahjoshow / @lewisgibson4 😎👑 British Ice Dancers ⛸🇬🇧 3 x British Champions 🏆 Europeans and Worlds Competitors
+    location: "Canada"
+    followers: 2915
+    engagement: 2088
+    commentsToLikes: 0.106754
+    id: ck6udkjxllmgk0j71q0kp27ke
+    verified: false
+    hashtags: "#teamgb, #icedance, #euros2020, #bluesbrothers"
+  - username: "mitsukibb"
+    fullname: >-
+      💖 Mitsuki Bb 💖
+    bio: >-
+      Streamer | Cosplayer | Dancer | Gamer She/Her YouTube 🎥 Mitsuki 📩: contact.mitsukibb@gmail.com
+    location: "Canada"
+    followers: 7248
+    engagement: 1294
+    commentsToLikes: 0.057744
+    id: ck15urq1ho9v80i19pyq9egwu
+    verified: false
+    hashtags: "#cosplay, #costume, #cosplayer, #animecosplay"
+  - username: "mollyysaunderss"
+    fullname: >-
+      Molly Saunders
+    bio: >-
+      Dancer | Actress You do you @fluxtalentandmgmt
+    location: "Canada"
+    followers: 10448
+    engagement: 1904
+    commentsToLikes: 0.028788
+    id: ckap9etxgsdhy0i78l93gmief
+    verified: false
+    hashtags: "#spreadlove, #adr, #thenextstep, #tnsseason7"
 ---

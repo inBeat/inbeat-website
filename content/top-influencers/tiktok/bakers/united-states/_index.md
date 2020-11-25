@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers TikTok Influencers In United States In 2020
 description: >-
-  Find top bakers TikTok influencers in United States in 2020. Most popular hashtags: #greenscreen #duet #finalsathome #gonnabefriends.
+  Find top bakers TikTok influencers in United States in 2020. Most popular hashtags: #duet #foryou #greenscreen #fyp.
 platform: TikTok
+hits: 1013
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 1013 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "probablylola"
+  - username: "itz_emfc"
     fullname: >-
-      Lauren Nicole 
+      Erica
+    bio: >-
+      Nerd 🕹 Baker🎂 Bookworm📚 Wildflower🌷 MOD for GoalHitters📶
     location: "United States"
-    followers: 52550
-    engagement: 1354
-    commentsToLikes: 0.041982
-    id: ck9tu90ock9d70j78d18wkxlz
+    followers: 6089
+    engagement: 1983
+    commentsToLikes: 0.194257
+    id: ckavl0racu4oa0j23pa7g4z1c
     verified: false
-    hashtags: "#weepingangel, #musiclives, #funemployment, #quaranqueen"
-  - username: "jaymedunlap"
+    hashtags: "#positivity, #duet, #goalhitters, #momsoftiktok"
+  - username: "elijah.garcia661"
     fullname: >-
-      [60.5k]jaymedunlap🥀
+      Elijah G. 
+    bio: >-
+      Follow my insta Imma visual learner Bakersfield California 🇲🇽🔥 Jalisco 🇲🇽
     location: "United States"
-    followers: 60541
-    engagement: 2672
-    commentsToLikes: 0.034017
-    id: ck9n4vqfc5vjs0j78v76011c8
+    followers: 93400
+    engagement: 2752
+    commentsToLikes: 0.037500
+    id: ckb9gmuqu5rr70j23wtck7551
     verified: false
-    hashtags: "#greenscreen, #stevecash, #talkingkitty, #help"
+    hashtags: "#baile, #greenscreenvideo, #mexican, #razrfit"
+  - username: "krazybeautiful2"
+    fullname: >-
+      krazybeautiful
+    bio: >-
+      P.O Box 3182 Bakersfield Ca 93385 BFF@goshdangitjenne cash app Krazybeautiful2
+    location: "United States"
+    followers: 604600
+    engagement: 1707
+    commentsToLikes: 0.025889
+    id: ck9eulavped4f0j782a5uqktj
+    verified: false
+    hashtags: "#family, #spreadsmiles, #duet, #spread"
+  - username: "iizzyy.rios"
+    fullname: >-
+      izzy
+    bio: >-
+      bakersfield, ca snap : princesss_izzy follow my insta ! 💞
+    location: "United States"
+    followers: 60800
+    engagement: 2333
+    commentsToLikes: 0.026511
+    id: ckcjcjts39klx0j23gl7ypgrx
+    verified: false
+    hashtags: "#foryou, #fyp, #freezeframephoto, #greenscreen"
+  - username: "ms.mel_cee"
+    fullname: >-
+      ms.mel_cee
+    bio: >-
+      🇵🇷 🇭🇳 $onelovemc PO Box 11283 Bakersfield, CA 93389 Positive vibes 🙏🏼
+    location: "United States"
+    followers: 85600
+    engagement: 1399
+    commentsToLikes: 0.087440
+    id: cka0kui0ao6zf0i78vkk5rt5t
+    verified: false
+    hashtags: "#yougotthis, #acrylicpour, #joke, #showupshowoff"
+  - username: "sillywillymiaa"
+    fullname: >-
+      Mia
+    bio: >-
+      bakersfield ca
+    location: "United States"
+    followers: 43300
+    engagement: 2485
+    commentsToLikes: 0.023678
+    id: cka6iga5uqn1g0i78a9qoha65
+    verified: false
+    hashtags: "#duet, #greenscreen, #colorcustomizer, #greenscreenvideo"
   - username: "thebaileybakery"
     fullname: >-
       The Bailey Bakery 
+    bio: >-
+      Baker and cookie decorator.
     location: "United States"
-    followers: 5080283
-    engagement: 2567
-    commentsToLikes: 0.006165
+    followers: 5400000
+    engagement: 2284
+    commentsToLikes: 0.006015
     id: ck83zpkmh1vxv0j78sv3n9k8v
     verified: true
-    hashtags: "#tomatohead, #bunny, #cookiewithacause, #happyathome"
-  - username: "marley.makes.things"
+    hashtags: "#foryou, #decoratedcookies, #halloween2020, #fashionnova"
+  - username: "slimeslat"
     fullname: >-
-      Marley.makes.things
+      andrew
+    bio: >-
+      😀Hannah baker fan account😀😀😀.
     location: "United States"
-    followers: 35755
-    engagement: 1568
-    commentsToLikes: 0.022702
-    id: ck8j6kxtradlj0j78an6dbxdp
+    followers: 9428
+    engagement: 1550
+    commentsToLikes: 0.089843
+    id: ck9tu7j1yjtvf0j78o02hokt1
     verified: false
-    hashtags: "#howto, #greenscreen, #influencer, #tiktokfood"
-  - username: "kallisaaa"
+    hashtags: "#raceday, #foryou, #crosscountry, #uber"
+  - username: "zmbioutlaw"
     fullname: >-
-      LilKali ♡
+      zmbioutlaw
+    bio: >-
+      Duets welcome (18+)! 🖤🖤🖤 Baker at #theveil Spam likes = blocked
     location: "United States"
-    followers: 2511113
-    engagement: 1705
-    commentsToLikes: 0.006652
-    id: cka6pyshplidy0i78b40eipz5
+    followers: 5343
+    engagement: 1633
+    commentsToLikes: 0.035417
+    id: ckbafbhaw7g2x0j23tukm5em0
     verified: false
-    hashtags: "#fyp, #mugshot, #pov, #hacked"
-  - username: "kobyhatcher"
+    hashtags: "#funny, #openduet, #duet, #thomassandersaudio"
+  - username: "kevintulud"
     fullname: >-
-      Koby Hatcher
+      kevintulud
+    bio: >-
+      > That Yellow Integra < President: BakoImportz 🇵🇭 661 • Bakersfield, CA 📍
     location: "United States"
-    followers: 2107
-    engagement: 844
-    commentsToLikes: 0.043203
-    id: cka8gurxh86450i782uunijj0
+    followers: 30900
+    engagement: 1425
+    commentsToLikes: 0.030213
+    id: ck9a6pojt45ws0j789x0iplok
     verified: false
-    hashtags: "#react, #tiktokrestarea, #flightcrew, #xyzcba"
-  - username: "gbaker"
-    fullname: >-
-      gbaker
-    location: "United States"
-    followers: 30027
-    engagement: 908
-    commentsToLikes: 0.054823
-    id: ck9eiy3k0ztlw0j78vrvinz4d
-    verified: false
-    hashtags: "#foryouppage, #decadesofhair, #rosegold, #dreamscometrue"
-  - username: "lauraa_baker"
-    fullname: >-
-      laura baker
-    location: "United States"
-    followers: 2037
-    engagement: 810
-    commentsToLikes: 0.039928
-    id: ckai8vft75v2r0i78qm5k31e1
-    verified: false
-    hashtags: "#mirrorchallenge, #country, #help, #coronavirus"
-  - username: "baker_builds"
-    fullname: >-
-      zachd.baker
-    location: "United States"
-    followers: 197017
-    engagement: 774
-    commentsToLikes: 0.021399
-    id: ck8fb0avo4w8q0j78918oehoj
-    verified: false
-    hashtags: "#familytime, #distancedance, #formyfollowers, #wishmeluck"
-  - username: "candyqueenbeebaker"
-    fullname: >-
-      Candy Ramirez
-    location: "United States"
-    followers: 34536
-    engagement: 1670
-    commentsToLikes: 0.023866
-    id: ck9ncf5olbvrp0j78dy2d8zuk
-    verified: false
-    hashtags: "#satisfiying, #yoda, #baseball, #vanilla"
+    hashtags: "#builtnotbought, #teggygang, #acura, #dc2"
 ---

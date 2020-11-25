@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Vancouver In 2020
 description: >-
-  Find top vegan TikTok influencers in Vancouver in 2020. Most popular hashtags: #vegan #greenscreen #vancouver #fail.
+  Find top vegan TikTok influencers in Vancouver in 2020. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
 platform: TikTok
+hits: 7
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 7 TikTok influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "alexanderbischoff1"
+  - username: "alexanddouglas"
     fullname: >-
-      Alexander Bischoff
+      Alex Bischoff
+    bio: >-
+      Canadian 🍁Vegan 🌱 Digital artists📸 👬 IG @Alexbischoff Art @bischoffstudio
     location: "Canada"
-    followers: 29290
-    engagement: 1983
-    commentsToLikes: 0.018986
+    followers: 45100
+    engagement: 1161
+    commentsToLikes: 0.018060
     id: ck807cmtgpvdw0j78unh4ff7v
     verified: false
-    hashtags: "#allorganic, #familyday, #gymtime, #milk"
+    hashtags: "#vancouver, #lgbtq, #boyfriends, #gays"
   - username: "findbex"
     fullname: >-
       Bex 
+    bio: >-
+      Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
     location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
+    followers: 38500
+    engagement: 1636
+    commentsToLikes: 0.028580
     id: ck961zc8romyz0j78v1axqnn5
     verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "tashkarine"
+    hashtags: "#plasticfreejuly, #recipe, #foodblogger, #explorebclocal"
+  - username: "carson.oliverr"
     fullname: >-
-      Tash 🦋
+      CARSON
+    bio: >-
+      ENTER THE CLUBHOUSE BELOW LGB(T)Q+ HE/THEY 22
     location: "Canada"
-    followers: 2136
-    engagement: 568
-    commentsToLikes: 0.123913
-    id: ckammxlbu2h1w0i78r3gkcn97
+    followers: 22100
+    engagement: 1850
+    commentsToLikes: 0.059350
+    id: ck9v26vlakb4h0j78dmebvjm7
     verified: false
-    hashtags: "#femaleengineers, #weirdthings, #finalsathome, #scienceclass"
-  - username: "kaylatrapani"
+    hashtags: "#smallbusinesscheck, #duet, #fyp, #333"
+  - username: "gingeranarchist"
     fullname: >-
-      Kayla
+      Cass
+    bio: >-
+      Didn’t ask 🏳️‍🌈🇨🇦🇭🇷 @cassidybaras
     location: "Canada"
-    followers: 9580
-    engagement: 1100
-    commentsToLikes: 0.019499
-    id: cka0t0f1nnug00i78beylm3lf
+    followers: 23000
+    engagement: 776
+    commentsToLikes: 0.065939
+    id: ckbfcijey5edb0j23febltbeq
     verified: false
-    hashtags: "#doublerainbow, #doglover, #boredinthehouse, #vegan"
-  - username: "vanventureout"
+    hashtags: "#lgbt, #xyzbca, #vancouver, #fyp"
+  - username: "alyssafontainerd"
     fullname: >-
-      vanventureout
+      Alyssa Fontaine RD
+    bio: >-
+      Registered Dietitian RD🤙🇨🇦 Plant-Based🌱 All Recipes ✍️ on IG Food Freedom✌️
     location: "Canada"
-    followers: 2343
-    engagement: 1168
-    commentsToLikes: 0.029782
-    id: ck80ob3thgi550j78errydzp9
+    followers: 62300
+    engagement: 841
+    commentsToLikes: 0.035584
+    id: ckdi7lrxy9l840j23yas7vbmy
     verified: false
-    hashtags: "#covid19, #ilovemydog, #oneminutevlog, #tiktokusa"
-  - username: "thingsbytaran"
+    hashtags: "#easyvegan, #dietitiansoftiktok, #dietitian, #easyveganrecipe"
+  - username: "onepeakcreative"
     fullname: >-
-      tkcdesigninc
+      One Peak Creative
+    bio: >-
+      🇨🇦 Video Agency 🎥 Follow us on Instagram for more ⇩ ⇩
     location: "Canada"
-    followers: 5976
-    engagement: 639
-    commentsToLikes: 0.044296
-    id: ck8qe4he4r3kz0j78lgu0kfas
+    followers: 16300
+    engagement: 1039
+    commentsToLikes: 0.019038
+    id: ckbkth7wxogor0j23cisgmxml
     verified: false
-    hashtags: "#parents, #bumble, #scrunchiesquad, #keepingbusy"
-  - username: "elie.fourchette"
+    hashtags: "#videography, #vegan, #commercialshoot, #filmmaker"
+  - username: "thiccvegan"
     fullname: >-
-      elie.fourchette
+      Adam
+    bio: >-
+      Vegan between meals, of course 🇨🇦
     location: "Canada"
-    followers: 19798
-    engagement: 1869
-    commentsToLikes: 0.048444
-    id: ck9bxqib3mq550j78sv5qhynv
+    followers: 2227
+    engagement: 526
+    commentsToLikes: 0.053516
+    id: ckc20crcd415s0j23o8w40qih
     verified: false
-    hashtags: "#mwah, #veganfood, #foodrecepie, #nofilter"
-  - username: "alexanderbischoff1"
+    hashtags: "#dayschallenges, #foryoupage, #comedy, #funny"
+  - username: "tania_heath"
     fullname: >-
-      Alexander Bischoff
+      Tania Heath
+    bio: >-
+      31. She/Her. 🏳️‍🌈 Newfoundland, Canada. 🇨🇦 Photographer. 📸 Baby vegan. 🌱
     location: "Canada"
-    followers: 29290
-    engagement: 1983
-    commentsToLikes: 0.018986
-    id: ck807cmtgpvdw0j78unh4ff7v
+    followers: 8598
+    engagement: 1071
+    commentsToLikes: 0.109475
+    id: ckajk9kpqp6lp0i786mnykm3r
     verified: false
-    hashtags: "#allorganic, #familyday, #gymtime, #milk"
+    hashtags: "#femme, #over30, #gaytiktok, #lgbt"
   - username: "findbex"
     fullname: >-
       Bex 
+    bio: >-
+      Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
     location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
+    followers: 38500
+    engagement: 1636
+    commentsToLikes: 0.028580
     id: ck961zc8romyz0j78v1axqnn5
     verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "jon_thevegan"
+    hashtags: "#plasticfreejuly, #recipe, #foodblogger, #explorebclocal"
+  - username: "patrickaramouni"
     fullname: >-
-      Jonathan_Shopik
+      Patrick Aramouni
+    bio: >-
+      Vegan Athlete • Recipes • Workouts • Lifestyle 👇for online Coaching. 🇨🇦
     location: "Canada"
-    followers: 10334
-    engagement: 586
-    commentsToLikes: 0.062732
-    id: ck8074594ok6p0j78bktsw0lx
+    followers: 153300
+    engagement: 595
+    commentsToLikes: 0.058319
+    id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#lockdown, #feminst, #physio, #virus"
+    hashtags: "#random, #masculine, #naked, #vegan"
 ---

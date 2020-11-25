@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Vancouver in 2020. Most popular hashtags: #nature #artofvisuals #homeinspo #sponsored.
+  Find top lifestyle Instagram influencers in Vancouver in 2020. Most popular hashtags: #beautifuldestinations #explorecanada #smpliving.
 platform: Instagram
+hits: 116
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 116 Instagram influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
-  - username: "kelseyrmizon"
-    fullname: >-
-      KELS ❁ | content creator
-    location: "Canada"
-    followers: 10956
-    engagement: 484
-    commentsToLikes: 0.101260
-    id: ck6u6teykhmcq0j717wzyvz49
-    verified: false
-    hashtags: "#femalefamily, #loungeunderwear, #ecoswim, #riotbabe"
-  - username: "mahtab_haghighi"
-    fullname: >-
-      Mahtab H
-    location: "Canada"
-    followers: 7162
-    engagement: 504
-    commentsToLikes: 0.058002
-    id: ck14ggbi952yv0i19vz1dw3ui
-    verified: false
-    hashtags: "#north, #singing, #annabelle, #britishcolumbia"
   - username: "eyeroam"
     fullname: >-
       Sterling Lorence
+    bio: >-
+      professional photographer of action sports + lifestyle. vancouver based, roam globally. portfolio and print store at-
     location: "Canada"
     followers: 26403
     engagement: 577
     commentsToLikes: 0.014618
     id: ck0tt3olf10pz0i19hk925e8i
     verified: false
-    hashtags: "#longlivechainsaw, #thenorthshore, #militaryclearance, #returntoearth"
-  - username: "iife_i"
-    fullname: >-
-      𝕀𝔽𝔼 𝕀ℝ𝔸ℕ𝕃𝕆𝕐𝔼
-    location: "Canada"
-    followers: 30027
-    engagement: 509
-    commentsToLikes: 0.062305
-    id: ck55ja936wlss0i11re5zx7ea
-    verified: false
-    hashtags: "#acnefree, #stayhomestaysafe, #absolutelynofilter, #noeditsneeded"
-  - username: "bethanygillatt"
-    fullname: >-
-      Beth Gillatt
-    location: "Canada"
-    followers: 3619
-    engagement: 1082
-    commentsToLikes: 0.137007
-    id: ckap3j6nq37ul0i785qhyveeh
-    verified: false
-    hashtags: "#evio"
+    hashtags: "#agameoftones, #funisthebest, #northshore, #roamtheplanet"
   - username: "wong.jpg"
     fullname: >-
       Michelle
+    bio: >-
+      content creator + blogger fashion / travel / lifestyle 🏴 vancouver, canada ✉️ contact@wongcollective.com
     location: "Canada"
-    followers: 27241
-    engagement: 122
-    commentsToLikes: 0.047317
+    followers: 28417
+    engagement: 522
+    commentsToLikes: 0.041675
     id: ck138ado3fa5n0i19m5gbbukv
     verified: false
-    hashtags: "#off5thcanada, #iwd2020, #workfromhome, #wfh"
-  - username: "itsbigben"
-    fullname: >-
-      Benjamin Prescott
-    location: "Canada"
-    followers: 406799
-    engagement: 327
-    commentsToLikes: 0.016596
-    id: ck0tvpilrcabk0i19v1younls
-    verified: false
-    hashtags: "#keepexploring, #waterfall, #nature, #discoverearth"
+    hashtags: "#midautumnfestival, #workfromhome, #brunchinbed, #mymionetto"
   - username: "lifeisbetterathome"
     fullname: >-
       Judy Dill
+    bio: >-
+      Home + Lifestyle 🌸 Vancouver, BC
     location: "Canada"
-    followers: 30599
-    engagement: 115
-    commentsToLikes: 0.166439
+    followers: 30775
+    engagement: 94
+    commentsToLikes: 0.145105
     id: ck6twb2j8qzys0j71kt49btll
     verified: false
-    hashtags: "#pier1love, #ltkshoecrush, #kitchenrefresh, #entrywaybench"
-  - username: "baileymarshall"
+    hashtags: "#homedecor, #over40blogger, #homedecorblogger, #entertaining"
+  - username: "twiiler"
     fullname: >-
-      BAI
+      Tyler White
+    bio: >-
+      Based in Vancouver Lifestyle | Travel | Product Ambassador - @jlabaudio | @fstopgear > tyler@ashmincommunications.com
     location: "Canada"
-    followers: 14126
-    engagement: 285
-    commentsToLikes: 0.066505
-    id: ck5q9e843anz20i11v0fluzs1
+    followers: 40189
+    engagement: 283
+    commentsToLikes: 0.027161
+    id: ck0w4rufo03kt0i19zkaljq5x
     verified: false
-    hashtags: "#homelovers, #homedecorinspo, #homedecorlovers, #decorlovers"
-  - username: "dreamboxcreations"
+    hashtags: "#wildernesstones, #voyaged, #adventureculture, #wildernessnation"
+  - username: "itsbigben"
     fullname: >-
-      DreamBox Creations
+      Benjamin Prescott
+    bio: >-
+      Adventure Lifestyle Photographer Vancouver Canada
     location: "Canada"
-    followers: 17353
-    engagement: 506
-    commentsToLikes: 0.005128
-    id: ck5qa6pv3etyr0i118m5nmhkj
+    followers: 425960
+    engagement: 187
+    commentsToLikes: 0.016068
+    id: ck0tvpilrcabk0i19v1younls
     verified: false
-    hashtags: "#photography, #couple, #pictureoftheday, #bridal"
+    hashtags: "#stayandwander, #adventurethatislife, #explorecanada, #visualsoflife"
+  - username: "bethanygillatt"
+    fullname: >-
+      Beth Gillatt
+    bio: >-
+      fashion, beauty & lifestyle 📍Vancouver Island, Canada ✉️ bethpgillatt@gmail.com 10% off your 1st @mejuri purchase👇🏼
+    location: "Canada"
+    followers: 4680
+    engagement: 751
+    commentsToLikes: 0.097886
+    id: ckap3j6nq37ul0i785qhyveeh
+    verified: false
+    hashtags: "#mejuri, #getnastygal"
+  - username: "shannonkwan_"
+    fullname: >-
+      SHANNON KWAN | Travel & Style
+    bio: >-
+      — confessions of a shopaholic — travel / lifestyle / fashion ☁️ vancouver, bc ✉️ shannonkwan94@gmail.com
+    location: "Canada"
+    followers: 37150
+    engagement: 921
+    commentsToLikes: 0.013055
+    id: ck13bq0fawmdw0i19gh37gkiu
+    verified: false
+    hashtags: "#princesspollyboutique, #sevenwondersthelabel"
+  - username: "lyndsey_eden"
+    fullname: >-
+      Lyndsey Eden
+    bio: >-
+      Natural light Photographer | Stylist | Momma to be food + florals + lifestyle + home Victoria | Vancouver, BC
+    location: "Canada"
+    followers: 26632
+    engagement: 283
+    commentsToLikes: 0.059177
+    id: ck0w12wqthatu0i19qa9rbvai
+    verified: false
+    hashtags: "#lifeandthyme, #cookies, #momentsinmotherhood, #scrumptiouskitchen"
+  - username: "alicia_haque"
+    fullname: >-
+      ALICIA HAQUE ✧
+    bio: >-
+      ✧ brit in vancouver ➵ lifestyle | travel | beauty | adventure 🇨🇦 ❥ wifey to be ✎ alicia@golivexplore.com @golivexplore ☟ latest video
+    location: "Canada"
+    followers: 31003
+    engagement: 316
+    commentsToLikes: 0.088628
+    id: ck14gyj1y7ngb0i19ar1n9k45
+    verified: false
+    hashtags: "#pursuitlife, #absolutvodkasoda, #lrppartner, #adventurehere"
+  - username: "lezseetheworld"
+    fullname: >-
+      STEPH+KAITLIN 🌈 Lesbian Couple
+    bio: >-
+      💁🏻‍♀️ @stephburlton (She/Her) 👩🏻‍🦰 @kaitlinchapple (She/Her) Travel • Lifestyle • Entrepreneurship 📍Vancouver 🇨🇦 Blog/YouTube/FB Group👇
+    location: "Canada"
+    followers: 49279
+    engagement: 280
+    commentsToLikes: 0.097371
+    id: ck0w3a63gscuq0i19k8o6llsr
+    verified: false
+    hashtags: "#lezseetheworld"
 ---

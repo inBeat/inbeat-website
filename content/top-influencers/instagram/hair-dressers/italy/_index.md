@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hair Dressers Instagram Influencers In Italy In 2020
 description: >-
-  Find top hair dressers Instagram influencers in Italy in 2020. Most popular hashtags: #dresses #hair #beauty #dress.
+  Find top hair dressers Instagram influencers in Italy in 2020. Most popular hashtags: #beauty #dress #photooftheday #girl.
 platform: Instagram
+hits: 18
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 18 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "martagnyp"
-    fullname: >-
-      GNYP
-    location: "Italy"
-    followers: 28577
-    engagement: 124
-    commentsToLikes: 0.014729
-    id: ck0tuzj2i9csl0i19cfibhg0r
-    verified: false
-    hashtags: "#waitingforsibyl, #neveragain, #vennicebiennale, #germanartist"
-  - username: "kennyhairartist"
-    fullname: >-
-      Kenny Scorrano
-    location: "Italy"
-    followers: 25140
-    engagement: 299
-    commentsToLikes: 0.091417
-    id: ck5zlptcbl5s70i14bie2gv1a
-    verified: false
-    hashtags: "#andratuttobene, #balayage, #amsterdam, #4maggio"
-  - username: "madalina_cernat"
-    fullname: >-
-      🎙Mădălina
-    location: "Italy"
-    followers: 4839
-    engagement: 1639
-    commentsToLikes: 0.052592
-    id: ck14lt71twcya0i195krwos9e
-    verified: false
-    hashtags: "#giveaway, #littlesoul, #celebration, #confidence"
-  - username: "violaguidotti"
-    fullname: >-
-      Vιoℓα Gυιdσττι
-    location: "Italy"
-    followers: 50524
-    engagement: 345
-    commentsToLikes: 0.047997
-    id: ck5zqtcgnv95w0i14m257509l
-    verified: false
-    hashtags: "#streetlook, #crueltyfree, #stripes, #sleep"
-  - username: "marikabaldini"
-    fullname: >-
-      ⚜️ MARIKA BALDINI ⚜️
-    location: "Italy"
-    followers: 370553
-    engagement: 352
-    commentsToLikes: 0.032709
-    id: ck15snesxdvd70i19bhg8jiuw
-    verified: false
-    hashtags: "#thinking, #dresses, #chanelpharrell, #brunette"
-  - username: "rossellamarta"
-    fullname: >-
-      Rossella Martucci
-    location: "Italy"
-    followers: 138931
-    engagement: 124
-    commentsToLikes: 0.040164
-    id: ck13cam5izesq0i19y536426w
-    verified: false
-    hashtags: "#goodhairday, #follow, #pastry, #serata"
-  - username: "jasnauskaite"
-    fullname: >-
-      INIDĖ JASNAUSKAITĖ
-    location: "Italy"
-    followers: 25444
-    engagement: 644
-    commentsToLikes: 0.014027
-    id: ck14i3698desn0i19210to6ib
-    verified: false
-    hashtags: "#outfits, #dresses, #wolt, #monday"
   - username: "loryvoice"
     fullname: >-
-      Lorena
+      ℒ𝑜𝓇𝑒𝓃𝒶🦋
+    bio: >-
+      •CANTANTE🎤❤️Musicista 🖤🎤Vocalist •From Italy/Rome🇮🇹 •Info & Booking 📩📫lory.larusso@gmail.com https://www.facebook.com/lorena.russo.l/
     location: "Italy"
-    followers: 11937
-    engagement: 491
-    commentsToLikes: 0.047061
+    followers: 13072
+    engagement: 352
+    commentsToLikes: 0.079456
     id: ck5zkn60ljs970i14myllg4vc
     verified: false
-    hashtags: "#gown, #whattowear, #naturaleyebrows, #laugh"
-  - username: "yesiamvirginia"
+    hashtags: "#photooftheday, #creepy, #31, #nofilter"
+  - username: "cami_delai"
     fullname: >-
-      V i r g i n i a 👸🏻
+      Camilla Delai 🌹
+    bio: >-
+      Made in Trento -living in Rome 🇮🇹 Current job : MYWAY autostrade per l’Italia
     location: "Italy"
-    followers: 35654
-    engagement: 270
-    commentsToLikes: 0.211289
-    id: ck8syskwaluhi0j78ir8uql5h
+    followers: 26688
+    engagement: 191
+    commentsToLikes: 0.029836
+    id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#abibybox, #weddingday, #fructishairfood, #smartfits"
-  - username: "tanyalagatta_official"
+    hashtags: "#couture, #flower, #couturedress, #fashiondesigner"
+  - username: "thaliabellazecca"
     fullname: >-
-      TANYA LA GATTA💋💋
+      Thalìa Bellazecca
+    bio: >-
+      ~ An half-blood 🇨🇺🇮🇹 ~ 20 y/o ~ 🎸👑❄ @frozencrownofficial ~ 💄📸 @persona_milano ~ Patreon @_kalisrevenge_ 👑🐆 ~ On @twitch as ThaliaBellazecca 🎮
     location: "Italy"
-    followers: 261591
-    engagement: 154
-    commentsToLikes: 0.031285
-    id: ck5q91ewn8xjd0i11paojwm22
+    followers: 11248
+    engagement: 1358
+    commentsToLikes: 0.065301
+    id: ck8t531iv8nrp0j78jmab8d7e
     verified: false
-    hashtags: "#dress, #lingerie, #beach, #fashion"
+    hashtags: "#show, #gamer, #smile, #guitarist"
+  - username: "nicolepallado"
+    fullname: >-
+      Nicole
+    bio: >-
+      🇮🇹 Padova 🖤Obsessed with make up ✨ Collab: nicole.pallado@hotmail.it 🔥 Ultimo video:
+    location: "Italy"
+    followers: 357322
+    engagement: 1907
+    commentsToLikes: 0.013812
+    id: ck5zrz67yxiyf0i14audcuvxz
+    verified: false
+    hashtags: "#princess, #nails, #bikini, #girl"
+  - username: "fiorellanardelli"
+    fullname: >-
+      Fiorella Nardelli
+    bio: >-
+      📸Just my life 📍Milan, Italy
+    location: "Italy"
+    followers: 45484
+    engagement: 273
+    commentsToLikes: 0.055182
+    id: ckaoz3rmak8nn0i78j0uohjs5
+    verified: false
+    hashtags: "#zuiki, #zuikiitalia, #napoli, #beautyroutine"
+  - username: "raffaellasiani"
+    fullname: >-
+      Raffaella Siani
+    bio: >-
+      Sono una ragazza Italiana🌹 👗Fashion • 💄 • Makeup • 🌎 Travel • 🍴Food 📩 Business vamp6.siani@gmail.com
+    location: "Italy"
+    followers: 72149
+    engagement: 152
+    commentsToLikes: 0.291372
+    id: ckaov16xq2oga0i78r4b1jf62
+    verified: false
+    hashtags: "#bikini, #animalier, #foodblogger, #cute"
+  - username: "annalippolis435"
+    fullname: >-
+      Anna💖
+    bio: >-
+      🇮🇹 🎤 🎓 Law student - Unicusano Roma ✏️ annalippolis315@gmail.com LippolisCaramel: 30% di sconto + 3 regali a scelta su 6,con una spesa minima di 59€
+    location: "Italy"
+    followers: 24649
+    engagement: 215
+    commentsToLikes: 0.099032
+    id: ckap1jvjguu9z0i78mq9gg35m
+    verified: false
+    hashtags: "#giftedby, #skincarecommunity, #girlpower, #blendjet"
+  - username: "marzia_bizzi"
+    fullname: >-
+      Marzia caruso
+    bio: >-
+      • from TRAPANI. ❤️ Sicilia ! •Live in Varese , Lombardia 👍🏻 •HAIRSTYLIST 💇🏼‍♀️
+    location: "Italy"
+    followers: 7218
+    engagement: 801
+    commentsToLikes: 0.123383
+    id: ckapatc8gxe0f0i7815kjfndo
+    verified: false
+    hashtags: "#costume, #italiangirl, #collaborazione, #vibes"
+  - username: "__desiree88__"
+    fullname: >-
+      ___🎀☆DesiReé☆🎀___
+    bio: >-
+      INFLUENCER CITY: Gela Beauty/Fashion/Accessories/makeup Per Collaborazioni: Direct Email👉📩desy88dr@outlook.it Coupon 15% @shein_it Q3desy88
+    location: "Italy"
+    followers: 36619
+    engagement: 304
+    commentsToLikes: 0.173688
+    id: ckaov9lub3mj90i78a9j94b5y
+    verified: false
+    hashtags: "#sheinofficial, #girly, #photography, #skincare"
+  - username: "simonascalvinii"
+    fullname: >-
+      ✨Simona Scalvini ✨
+    bio: >-
+      Brescia/Franciacorta 📺#TV 📸 #influencerstyle For collaboration Direct or ✉️simona.scalvini30@gmail.com
+    location: "Italy"
+    followers: 49912
+    engagement: 204
+    commentsToLikes: 0.037899
+    id: ck8svv14gcss40j78ngz3ksdn
+    verified: false
+    hashtags: "#influencerbrescia, #merribel, #photographylovers, #influencer"
 ---

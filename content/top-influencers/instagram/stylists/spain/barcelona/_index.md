@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top stylists Instagram influencers in Barcelona in 2020. Most popular hashtags: #quarantine #sunnydays #hair #flowers.
+  Find top stylists Instagram influencers in Barcelona in 2020. Most popular hashtags: #beauty #style #hairstyle.
 platform: Instagram
+hits: 44
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 44 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "mcristinastyling"
+  - username: "nadinecaldera"
     fullname: >-
-      cristina gomes
+      NADINE  CALDERA
+    bio: >-
+      Freelance stylist Barcelona based infonadinecaldera@gmail.com
     location: "Spain"
-    followers: 7633
-    engagement: 581
-    commentsToLikes: 0.306679
-    id: ck5zxexvg7vu90i14wawi521w
+    followers: 48576
+    engagement: 78
+    commentsToLikes: 0.022593
+    id: ck0w0uq3kg4pa0i19huel3fn1
     verified: false
-    hashtags: "#aestheticphotos, #watchjewelry, #inspointerior, #sundayvibes"
+    hashtags: "#claralucianixsandro, #desigualxmrchristianlacroix, #alohaschicas"
+  - username: "thenortherngirlphotography"
+    fullname: >-
+      Rebecca Scabrós
+    bio: >-
+      Fashion&ModernWeddingPhotographer Fashion: @rebeccascabros 📍Based in Spain - Available worldwide
+    location: "Spain"
+    followers: 7486
+    engagement: 431
+    commentsToLikes: 0.051227
+    id: ck5c9tm8bc3n10i11urmbxl88
+    verified: false
+    hashtags: "#weddingelopement, #weddingstyle, #luxurywedding, #festivalwedding"
+  - username: "thebogblastexperience"
+    fullname: >-
+      THE BOGBLAST EXPERIENCE
+    bio: >-
+      SERGIO & J.SEBASTIAN Menswear • Lifestyle • Brand Ambassadors Fashion stylist & consultancy 📍Barcelona ✉️: thebogblastexperience@gmail.com
+    location: "Spain"
+    followers: 19747
+    engagement: 170
+    commentsToLikes: 0.005171
+    id: ckf5nrx8zzg7l0j233j6ois1b
+    verified: false
+    hashtags: "#architecturephotography, #tamden, #portugal, #phototravel"
+  - username: "skhbarbara"
+    fullname: >-
+      Barbara 🐹
+    bio: >-
+      21 y.o vegetarian, Moscow 👼🏻 currently living in Barcelona 🛩 crazy stylist and model, DM🥥 лайф : @varechhhkaa , clo : @_epicfail___ ad: @skh.pr
+    location: "Spain"
+    followers: 55635
+    engagement: 380
+    commentsToLikes: 0.028632
+    id: ck0tyckx3mfhx0i19ihtfs02s
+    verified: false
+    hashtags: ""
+  - username: "miregarde"
+    fullname: >-
+      Mire Garde
+    bio: >-
+      ___________ Barcelona contact ✉️ mireiagardedomenech@gmail.com Stylist projects @miregarde.studio
+    location: "Spain"
+    followers: 16437
+    engagement: 458
+    commentsToLikes: 0.010365
+    id: ckap58lt7anlm0i78jj0fc6j1
+    verified: false
+    hashtags: "#verano2020, #chloe, #chloegirls, #happyfriday"
+  - username: "anapanova_"
+    fullname: >-
+      I’m Anastasia
+    bio: >-
+      Photographer & Stylist, Co-founder of @ostrasmagazine / @ostrascollection Bilbao – Barcelona 📍
+    location: "Spain"
+    followers: 42079
+    engagement: 412
+    commentsToLikes: 0.009271
+    id: ck5hfmeb7y61a0i11noof7cry
+    verified: false
+    hashtags: "#paris, #bottegaveneta, #beigelover, #perfumecollection"
+  - username: "anabeljsantana"
+    fullname: >-
+      Anabel Santana
+    bio: >-
+      🇪🇸Spanish Model NaturalRedHead 👩🏻‍🦰 📍Madrid Home •Madrid ~ •Barcelona
+    location: "Spain"
+    followers: 11578
+    engagement: 798
+    commentsToLikes: 0.122546
+    id: ck8sx1otjfwyd0j78itx96knh
+    verified: false
+    hashtags: "#fashionstyle, #modeling, #body, #beauty"
+  - username: "aboutlight_"
+    fullname: >-
+      Cayetano González
+    bio: >-
+      🎥Director/Photo/DOP Barcelona NATURAL LIGHT
+    location: "Spain"
+    followers: 55213
+    engagement: 722
+    commentsToLikes: 0.019949
+    id: ck0w0shfkftda0i197alxig8p
+    verified: false
+    hashtags: "#naturallight, #kodak, #motion, #aboutlight"
   - username: "dianavergaraeizaguirre"
     fullname: >-
-      Diana Vergara Eizaguirre 🇵🇪 ®
+      Fashion Self Love Coach
+    bio: >-
+      MA Fashion Marketing & Communication-Stylist 🇵🇪en🇪🇸 Te ayudo a POTENCIAR TU IMAGEN! Pregunta por las Asesorías 360 Cree en TI y sé tu mejor versión.
     location: "Spain"
-    followers: 48024
-    engagement: 175
-    commentsToLikes: 0.128025
+    followers: 50254
+    engagement: 188
+    commentsToLikes: 0.039947
     id: ck15sf6hucpit0i19ftz6mhm4
     verified: false
-    hashtags: "#yomequedoencasa, #cafeexpresso, #migraduaci, #mondayblues"
-  - username: "mikeanthony._"
+    hashtags: "#hairstyle, #outfitoftheday, #sundaymood, #postoftheday"
+  - username: "marieberiestain"
     fullname: >-
-      Mike Anthony
+      ℳ𝒶𝓇𝒾𝑒 ℬ𝑒𝓇𝒾𝑒𝓈𝓉𝒶𝒾𝓃
+    bio: >-
+      Artist till I find a real job Fashion and Beauty photographer in Barcelona Work and portfolio inquiries - marieberiestain@gmail.com
     location: "Spain"
-    followers: 3141
-    engagement: 2430
-    commentsToLikes: 0.032718
-    id: ck6tsyqin7leg0j710hjathrz
+    followers: 14181
+    engagement: 144
+    commentsToLikes: 0.065163
+    id: ck6tiayr30dh20j717efutvqw
     verified: false
-    hashtags: "#nikestoremoments, #yesnike, #19"
-  - username: "laura.gardom"
-    fullname: >-
-      Laura Garcia Dominguez
-    location: "Spain"
-    followers: 11605
-    engagement: 732
-    commentsToLikes: 0.026412
-    id: ck14iry78gwxd0i197ldnspxd
-    verified: false
-    hashtags: "#boredarhome, #pijama, #hookah, #quarantine"
-  - username: "morenooces"
-    fullname: >-
-      Jose Moreno Oces
-    location: "Spain"
-    followers: 62618
-    engagement: 307
-    commentsToLikes: 0.015356
-    id: ckapbpbkn0sww0i783eq83h6h
-    verified: false
-    hashtags: "#casuallook, #offtowork, #confinament, #work"
-  - username: "danirull.official"
-    fullname: >-
-      danielrull
-    location: "Spain"
-    followers: 19043
-    engagement: 368
-    commentsToLikes: 0.095710
-    id: ck0w0ii8tedh20i19eb5soii8
-    verified: false
-    hashtags: "#hair, #haircare, #czechoslovakia, #video"
-  - username: "victorsupertramp"
-    fullname: >-
-      Victor Supertramp
-    location: "Spain"
-    followers: 3315
-    engagement: 860
-    commentsToLikes: 0.047596
-    id: ck0tuw1uf8xho0i19uf0mwyhq
-    verified: false
-    hashtags: "#portraitfeed, #shootingfilmmag, #stylishlook, #stylism"
-  - username: "jeannedart_ph"
-    fullname: >-
-      Photographer 🇪🇸🇷🇺
-    location: "Spain"
-    followers: 57804
-    engagement: 53
-    commentsToLikes: 0.038497
-    id: ck5hd7izulxh50i11lmi2nc4v
-    verified: false
-    hashtags: "#meek, #undercontrol, #coronavirus, #actor"
-  - username: "jeyespitia"
-    fullname: >-
-      ............JEY...........
-    location: "Spain"
-    followers: 5344
-    engagement: 1921
-    commentsToLikes: 0.010435
-    id: ck5znkr55onuj0i14syeacd5z
-    verified: false
-    hashtags: "#makeup, #look, #sexy, #life"
-  - username: "anushkamulchandani"
-    fullname: >-
-      Anushka Mulchandani Tata
-    location: "Spain"
-    followers: 28228
-    engagement: 211
-    commentsToLikes: 0.041170
-    id: ck5pwimw8mzki0i11vxufpf4y
-    verified: false
-    hashtags: "#theouai, #refreshed, #headband, #fishtail"
+    hashtags: "#bts"
 ---

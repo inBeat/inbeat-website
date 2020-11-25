@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Poland In 2020
 description: >-
-  Find top fashion Instagram influencers in Poland in 2020. Most popular hashtags: #fashionlover #spring #legs #fashion.
+  Find top fashion Instagram influencers in Poland in 2020. Most popular hashtags: #kapelusz #sukienka #jesiennastylizacja #sweter.
 platform: Instagram
+hits: 1797
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 1797 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "agata_zyzak"
-    fullname: >-
-      Agata Zyzak
-    location: "Poland"
-    followers: 3537
-    engagement: 3189
-    commentsToLikes: 0.224777
-    id: ckaozq80lmxfi0i78tvh7m9yj
-    verified: false
-    hashtags: "#mylove, #peonies, #instawtorek, #happyme"
   - username: "oleksy_patrycja_"
     fullname: >-
       Patrycja
+    bio: >-
+      In love with traveling ✈️ and fashion👠 @nizio1 💍
     location: "Poland"
-    followers: 2359
-    engagement: 3036
-    commentsToLikes: 0.279298
+    followers: 2608
+    engagement: 2656
+    commentsToLikes: 0.328281
     id: ckaozwm0hnqfu0i78rt8g4vi5
     verified: false
-    hashtags: "#springmood, #womenpower, #intablogger, #wiosna"
-  - username: "luv.goldvv"
+    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
+  - username: "joanna.walkow"
     fullname: >-
-      𝓦𝓲𝓴𝓽𝓸𝓻𝓲𝓪 𝓛𝓾𝓲𝔃𝓪
+      Joanna 🌸
+    bio: >-
+      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
     location: "Poland"
-    followers: 3568
-    engagement: 2973
-    commentsToLikes: 0.135235
-    id: ck8t3wipk4qwe0j78ybjyjv8f
+    followers: 5977
+    engagement: 1547
+    commentsToLikes: 0.093577
+    id: ck9wekanbknaa0j7834my2xx2
     verified: false
-    hashtags: "#coffeelover, #prezent, #missyou, #pretty"
-  - username: "majlenmajli"
+    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
+  - username: "inesbeautypl"
     fullname: >-
-      Milena Tyszka
+      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+    bio: >-
+      𝓐𝓰𝓮41|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
     location: "Poland"
-    followers: 6595
-    engagement: 1844
-    commentsToLikes: 0.109570
-    id: ck8tarzhwstrt0j78yjkf9s5x
+    followers: 36614
+    engagement: 763
+    commentsToLikes: 0.851104
+    id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#swimmingsuit, #polishmodel, #fashionblogger, #zdjeciednia"
-  - username: "oliwia_bugala"
+    hashtags: "#niechsiedziejenajlepiej, #pozytywnabzdurka, #ialreadysawoso"
+  - username: "lucas.zavo"
     fullname: >-
-      Oliwia Bugała CheersMyHeels
+      Lucas Zavo
+    bio: >-
+      📍 London 🇬🇧 📩 Collaboration | zavo.lucas@gmail.com 💑 My honey @nadiyaarcher 💋 👱🏼 Influencer 👔 Fashion | Gym | LifeStyle 👇🏻 YOUTUBE Channel
     location: "Poland"
-    followers: 96494
-    engagement: 1328
-    commentsToLikes: 0.162829
-    id: ck5hkvrgxj4dm0i11bjopwk8q
+    followers: 19760
+    engagement: 2008
+    commentsToLikes: 0.059148
+    id: ck5pz8trazs440i113531crak
     verified: false
-    hashtags: "#moodboard, #ootdfashion, #fashiondetails, #hairaccessories"
-  - username: "carolinagawron"
+    hashtags: "#handsomeman, #shredded, #warsawboy, #topmodel"
+  - username: "nataliakacprzyk_"
     fullname: >-
-      Carolina Gawron
+      NATALIA KACPRZYK
+    bio: >-
+      #fashion | #beauty | #lifestyle 📍Katowice/Siewierz, Poland 💌 Collab:nataliakacprzyk26@gmail.com
     location: "Poland"
-    followers: 17416
-    engagement: 1480
-    commentsToLikes: 0.064412
-    id: ck5cewrm5lvb40i11ace9yf12
+    followers: 12420
+    engagement: 1186
+    commentsToLikes: 0.127495
+    id: ckaoswanmtb0u0i78xldlausi
     verified: false
-    hashtags: "#looks, #flowers, #womenstyle, #eyeglasses"
+    hashtags: "#photoshootday, #hairgoal, #hairstyleoftheday, #zakopane2020"
+  - username: "rita_miksiewicz"
+    fullname: >-
+      𝗚𝗜𝗥𝗟 𝗡𝗘𝗫𝗧 𝗗𝗢𝗢𝗥
+    bio: >-
+      Doceniam to co mam i cieszę się z małych rzeczy ♡ • Owner @mimossa_store • Movies | Books | Fashion | Lifestyle 📍Poznań ✖️Mail: rita@mohomodels.pl
+    location: "Poland"
+    followers: 17442
+    engagement: 842
+    commentsToLikes: 0.080807
+    id: ck8t6dismd7n80j786mphnca8
+    verified: false
+    hashtags: "#classyoutfit, #jesien, #jesienneklimaty, #polskamarka"
+  - username: "justyna__kowalewska"
+    fullname: >-
+      Justyna Kowalewska
+    bio: >-
+      🖤 M o m to J o s e p h 🖤 W i f e to J a c o b _____________ P o l a n d #motherhood #fashion & #lifestyle _____________ just.kowalewska@wp.pl
+    location: "Poland"
+    followers: 5048
+    engagement: 1499
+    commentsToLikes: 0.187638
+    id: ck139k8r7lq0q0i19ouxmrtuc
+    verified: false
+    hashtags: "#thetravellingnomads, #seasonspoetry, #girlaroundworld, #travellikegirl"
   - username: "ptysiablog"
     fullname: >-
       Patrycja Hoffmann
+    bio: >-
+      Fashion blogger / insta blogger👗👛👒 Zielona Góra / Wolsztyn / Poznań patrycja.hoffmann@gmail.com 💻 ❤️❤️❤️
     location: "Poland"
-    followers: 6804
-    engagement: 1421
-    commentsToLikes: 0.083639
+    followers: 6972
+    engagement: 1227
+    commentsToLikes: 0.094046
     id: ck5zzj8vjbtur0i14nl3lleyh
     verified: false
-    hashtags: "#denimjacket, #czasnabuty, #robtocokochasz, #gliss4in1"
-  - username: "carolinee.es"
+    hashtags: "#sunday, #hathat, #stylizacja, #przeceny"
+  - username: "agata_zyzak"
     fullname: >-
-      Karolina Szymbara
+      Agata Zyzak
+    bio: >-
+      Kontakt: agatka991@onet.eu #mom👩‍👦 #wife👰 #fashionlover👜 #travel🌏
     location: "Poland"
-    followers: 6006
-    engagement: 1374
-    commentsToLikes: 0.098245
-    id: ck6udqywvmn9e0j71f5n2mbts
+    followers: 16250
+    engagement: 843
+    commentsToLikes: 0.112147
+    id: ckaozq80lmxfi0i78tvh7m9yj
     verified: false
-    hashtags: "#spring, #redroses, #dziewczyna, #polish"
-  - username: "agnieszka.bokotaa"
+    hashtags: "#blondynka, #instamama, #torebka, #stylizacja"
+  - username: "agienese"
     fullname: >-
-      Aga
+      agienese
+    bio: >-
+      🍃lifestyle•fashion 🍃Współpraca: agienesee@gmail.com lub 📥
     location: "Poland"
-    followers: 22501
-    engagement: 852
-    commentsToLikes: 0.091875
-    id: ck14j07d7hywz0i196nlbxqm4
+    followers: 7294
+    engagement: 1342
+    commentsToLikes: 0.058114
+    id: ck13cx1yw2l270i1914bwo2np
     verified: false
-    hashtags: "#koszulka, #okularyprada, #puma, #spodnie"
-  - username: "blonde.lady"
-    fullname: >-
-      Aneta Putowska 👰🏼🔒🇵🇱
-    location: "Poland"
-    followers: 114776
-    engagement: 673
-    commentsToLikes: 0.040232
-    id: ck9hb8ylufun20j78n1zm26rz
-    verified: false
-    hashtags: "#motywacja, #styl, #styleinspo, #skincare"
+    hashtags: "#blondynka, #jesiennastylizacja, #paznokciezelowe, #nailsinspo"
 ---

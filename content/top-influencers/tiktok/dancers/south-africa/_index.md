@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In South Africa In 2020
 description: >-
-  Find top dancers TikTok influencers in South Africa in 2020. Most popular hashtags: #greenscreen #dancer #duet #lockdown.
+  Find top dancers TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #dance #duet #foryou.
 platform: TikTok
+hits: 26
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 26 TikTok influencers like this in South Africa for you to connect with.
 profiles:
+  - username: "ceezy3"
+    fullname: >-
+      Carter⚡️
+    bio: >-
+      Here since 2015 🥴 Self-taught Dancer🕺🏻 South African 🇿🇦 He/Him 🚹
+    location: "South Africa"
+    followers: 565200
+    engagement: 1379
+    commentsToLikes: 0.028115
+    id: ckcehxkuspvu10j235kyn0rag
+    verified: true
+    hashtags: "#transmale, #tiktoksouthafrica, #trans, #selftaughtdancer"
+  - username: "ashleighdames"
+    fullname: >-
+      Ashleigh Dames
+    bio: >-
+      Ballet dancer out here doing me🩰💁🏻‍♀️
+    location: "South Africa"
+    followers: 69900
+    engagement: 1224
+    commentsToLikes: 0.031406
+    id: ckcui31yqfwyq0j23ehz5weka
+    verified: false
+    hashtags: "#foryou, #challenge, #ballet, #flexible"
+  - username: "jae_____"
+    fullname: >-
+      Jae
+    bio: >-
+      God 1st💜 Belly dancer
+    location: "South Africa"
+    followers: 15700
+    engagement: 407
+    commentsToLikes: 0.045819
+    id: cka5z196tkpqy0i78zkl17411
+    verified: false
+    hashtags: "#duet, #fyp, #viral, #sharingpositivitycampaign"
+  - username: "keshanchetty"
+    fullname: >-
+      Keshan Chetty
+    bio: >-
+      🇿🇦 Actor || Comedian || Occasional Dancer ||
+    location: "South Africa"
+    followers: 5627
+    engagement: 698
+    commentsToLikes: 0.015356
+    id: ckbbijsji72270j23q5lqv4gd
+    verified: false
+    hashtags: "#tiktokdurban, #15svines, #tiktoksouthafrica, #viralvideo"
+  - username: "teamsk20"
+    fullname: >-
+      TeamSK20
+    bio: >-
+      Proudly 🇿🇦 ❤Storm&Kayla❤ DANCERS 💃🕺 while your lurking ,follow us🥵🔥😎
+    location: "South Africa"
+    followers: 20400
+    engagement: 629
+    commentsToLikes: 0.005681
+    id: ckbfgaienbd9t0j23tjcrwaqg
+    verified: false
+    hashtags: "#foryoupage, #dance, #tiktok, #trend"
+  - username: "murry.pinheiro"
+    fullname: >-
+      murry.pinheiro
+    bio: >-
+      nUmB 🥀 Follow me on Instagram - murry.pinheiro 95,5K reasons to smile 🌸
+    location: "South Africa"
+    followers: 95500
+    engagement: 1997
+    commentsToLikes: 0.032653
+    id: ckb9r8jgqnozm0j23nbufx0dv
+    verified: false
+    hashtags: "#slowmotion, #laughs, #southafrica, #dancer"
+  - username: "doyouknowkg"
+    fullname: >-
+      Kaegen Kaegie Grobbelaar
+    bio: >-
+      @do_you_know_kg PayPal and bookings: beyou.kg@gmail.com
+    location: "South Africa"
+    followers: 157300
+    engagement: 627
+    commentsToLikes: 0.026224
+    id: ckdtlfecszkx60j23xoiqtgqu
+    verified: false
+    hashtags: "#dancer, #letsdance, #freestyle, #amapiano"
   - username: "kelly_kikx"
     fullname: >-
       Kelly KiKx
+    bio: >-
+      Welcome to the #KiKxSquad! Follow my IG: @kelly_kikx Next Follow back at 800K
     location: "South Africa"
-    followers: 624445
-    engagement: 2013
-    commentsToLikes: 0.044882
+    followers: 720700
+    engagement: 1517
+    commentsToLikes: 0.024231
     id: ck8fc1ul161n70j78s7i8xlyx
     verified: true
-    hashtags: "#tutorial, #favoritememories, #cartoonchallenge, #momsoftiktok"
-  - username: "darrienlukesamuel"
+    hashtags: "#reelitin, #mzansidance, #foryou, #mzansicomedy"
+  - username: "_boujeequeen18_"
     fullname: >-
-      DarrienLukeSamuel
+      BoujeeQueen18
+    bio: >-
+      I’m just that special🥀 17 🇿🇦🇩🇪
     location: "South Africa"
-    followers: 28243
-    engagement: 969
-    commentsToLikes: 0.085307
-    id: ck9sjqavz4x1f0j78tw9t5nxt
+    followers: 24500
+    engagement: 1872
+    commentsToLikes: 0.028891
+    id: ck9nsfw7qde9n0j78mta6x3ml
     verified: false
-    hashtags: "#singer, #dogsounds, #exercise, #youaremysoniya"
-  - username: "aladin_101"
+    hashtags: "#pain, #joburg, #bulletproof, #makemefamous"
+  - username: "figgyfigzz"
     fullname: >-
-      Aladin_✌🏼
+      Keegs
+    bio: >-
+      Pedigree :) 🇿🇦🇵🇹
     location: "South Africa"
-    followers: 15314
-    engagement: 1602
-    commentsToLikes: 0.174119
-    id: ck9sjxaot5vqc0j78y9f7x9n2
+    followers: 23900
+    engagement: 1698
+    commentsToLikes: 0.027520
+    id: ck9f3n3lbiiw50j7825xjyemq
     verified: false
-    hashtags: "#oftentimes, #what, #beproud, #nervegame"
-  - username: "missjomorrison"
-    fullname: >-
-      Business Coach
-    location: "South Africa"
-    followers: 15481
-    engagement: 820
-    commentsToLikes: 0.027065
-    id: ck9dsedrq7t0z0j788b3n25s7
-    verified: false
-    hashtags: "#socialmediatips, #storyofmylife, #tiktok, #diyvideos"
-  - username: "jaydenclawd_official"
-    fullname: >-
-      Jayden-Claude
-    location: "South Africa"
-    followers: 6597
-    engagement: 1244
-    commentsToLikes: 0.030751
-    id: ck9f1ufoda51h0j78yked3ol3
-    verified: false
-    hashtags: "#covid19, #itscoffeetime, #tiktok, #lumispa"
-  - username: "jojo_radebe"
-    fullname: >-
-      Johannes Radebe
-    location: "South Africa"
-    followers: 21641
-    engagement: 1072
-    commentsToLikes: 0.024770
-    id: ck9exys7cti5t0j78htfgs988
-    verified: false
-    hashtags: "#viral, #pose, #dancer, #duet"
-  - username: "qwabetwins"
-    fullname: >-
-      Official.qwabetwins
-    location: "South Africa"
-    followers: 34352
-    engagement: 870
-    commentsToLikes: 0.020034
-    id: ckac5siqsdizk0i78vj2sfahl
-    verified: false
-    hashtags: "#world, #songofhope, #style, #model"
-  - username: "taryll_vink1"
-    fullname: >-
-      taryll_vink
-    location: "South Africa"
-    followers: 68342
-    engagement: 1421
-    commentsToLikes: 0.018131
-    id: ck9eixd0pznqu0j78ci4kklze
-    verified: false
-    hashtags: "#dontchangechallnge, #southafricanmusic, #playinggames, #tiktokworkout"
-  - username: "mihlalinxanga"
-    fullname: >-
-      Mihlali Nxanga
-    location: "South Africa"
-    followers: 257971
-    engagement: 1622
-    commentsToLikes: 0.006623
-    id: ck9f3g3jshmbf0j78wk1xxvid
-    verified: true
-    hashtags: "#flomillishit, #toiletpaperchallenge, #late, #throwitback"
-  - username: "offical_baby_ty"
-    fullname: >-
-      Tyrell Weldon
-    location: "South Africa"
-    followers: 2571
-    engagement: 1441
-    commentsToLikes: 0.080039
-    id: ck9sjjbb23z280j78ow3g1tsn
-    verified: false
-    hashtags: "#foryoupage, #dancesa, #repost, #practise"
+    hashtags: "#fypthis, #figgyfigzz, #fypit, #tiktoksa"
 ---

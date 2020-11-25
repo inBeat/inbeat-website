@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In Italy In 2020
 description: >-
-  Find top painters TikTok influencers in Italy in 2020. Most popular hashtags: #love #netflix #tiktoktaac #work.
+  Find top painters TikTok influencers in Italy in 2020. Most popular hashtags: #perte #art #foryou #artist.
 platform: TikTok
+hits: 30
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 30 TikTok influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "francescabrunierc"
+  - username: "_labruni"
     fullname: >-
-      Francesca Bruni Erco
+      Francesca Bruni Ercole
+    bio: >-
+      18 years old / Italy, Rome 🇮🇹 Singer,actress,painter collab. in DM
     location: "Italy"
-    followers: 37643
-    engagement: 2091
-    commentsToLikes: 0.009709
+    followers: 80300
+    engagement: 2240
+    commentsToLikes: 0.010039
     id: ck9ey5u17ueo80j781aqix4nu
     verified: false
-    hashtags: "#teatro, #lucywestenra, #bodyshaming, #minamurray"
+    hashtags: "#curvy, #duet, #halloween, #makeup"
   - username: "alexcocomazzi"
     fullname: >-
       Alex Cocomazzi
+    bio: >-
+      JUST FOR FUN from Italy 🇮🇹 painter, tattooer, fitfreak & too old for TikTok
     location: "Italy"
-    followers: 10655
-    engagement: 1023
-    commentsToLikes: 0.029152
+    followers: 15100
+    engagement: 777
+    commentsToLikes: 0.026401
     id: ck8z11zx200kj0j78t3ewy5a7
     verified: false
-    hashtags: "#likeariver, #danza, #classica, #dream"
+    hashtags: "#uomo, #no, #perte, #piatti"
   - username: "la_nilde_makeup"
     fullname: >-
       Petringa Simona
+    bio: >-
+      🇮🇹 ITALY Make up Artist 👩‍🎨 Artistic Make-Up 🎭 Body Painter 🎨
     location: "Italy"
-    followers: 72919
-    engagement: 666
-    commentsToLikes: 0.029422
+    followers: 80300
+    engagement: 1168
+    commentsToLikes: 0.025178
     id: ck7zofvn8jo9q0j78n2eis6gj
     verified: false
-    hashtags: "#crushchallenge, #quarantenamood, #malefica, #fortoupage"
-  - username: "maxbraindevices"
-    fullname: >-
-      MAXBRAINDEVICES
-    location: "Italy"
-    followers: 98751
-    engagement: 556
-    commentsToLikes: 0.007810
-    id: ckacd9j2sinkp0i78xjl6kywr
-    verified: false
-    hashtags: "#psichedelic, #eric, #dontbesuspicous, #random"
+    hashtags: "#bellypainting, #quarantena, #lacasadepapel, #pregnant"
   - username: "ema.artworks"
     fullname: >-
       Emanuele Crescenzi
+    bio: >-
+      Just a painter.
     location: "Italy"
-    followers: 4390
-    engagement: 690
-    commentsToLikes: 0.046305
+    followers: 4316
+    engagement: 689
+    commentsToLikes: 0.044223
     id: ck81qqtdqj2gl0j7899h3yewa
     verified: false
-    hashtags: "#dream, #myart, #model, #drawing"
-  - username: "marco.grassi.painter"
+    hashtags: "#art, #sketch, #portrait, #blackandwhite"
+  - username: "gloriecoeur"
     fullname: >-
-      Marco Grassi
+      Gloria Cœur
+    bio: >-
+      artist | 21 | ⭐️ | ig: gloriecoeur etsy shop: gloriecoeur
     location: "Italy"
-    followers: 222236
-    engagement: 1711
-    commentsToLikes: 0.008989
-    id: ck81qx9p5ko540j78u9037use
-    verified: true
-    hashtags: "#ibexcollection, #oilcolours, #artistchallenge, #hyperrealistic"
-  - username: "icookhowiwant"
-    fullname: >-
-      ICookHowIWant 
-    location: "Italy"
-    followers: 2562
-    engagement: 564
-    commentsToLikes: 0.040124
-    id: ck9k5y1q1ymx40j78k010rfya
+    followers: 67800
+    engagement: 2271
+    commentsToLikes: 0.009680
+    id: ck8qh56bx3lm60j78yuvcyr9f
     verified: false
-    hashtags: "#burger, #leftovers, #homebake, #cheeselover"
-  - username: "paperangprint"
+    hashtags: "#viral, #foryou, #watercolor, #neiperte"
+  - username: "alessandro.etra"
     fullname: >-
-      PAPERANGPRINT
+      Alessandro Etra
+    bio: >-
+      
     location: "Italy"
-    followers: 4635
-    engagement: 991
-    commentsToLikes: 0.011320
-    id: ck8ni7mk54eiw0j7802hdfdsb
+    followers: 8769
+    engagement: 649
+    commentsToLikes: 0.009596
+    id: ck8qh55rj3lf60j786olk6axx
     verified: false
-    hashtags: "#printerpaper, #dailylife, #tiktoktaac, #scrapbook"
-  - username: "giulysnotes"
+    hashtags: "#aesthetics, #artist, #paintingtime, #abstractpainting"
+  - username: "diduthehuman"
     fullname: >-
-      Giulysnotes on ig
+      didu
+    bio: >-
+      you thought this was a bio BUT IT WAS ME DIO 🇮🇹 Team 7🍃 @ichigoswife🍓
     location: "Italy"
-    followers: 94771
-    engagement: 1757
-    commentsToLikes: 0.012360
-    id: ck8ndihhzj1oq0j786rs8ukhx
+    followers: 23400
+    engagement: 2192
+    commentsToLikes: 0.025324
+    id: ckai9ggas86ph0i78l95kacas
     verified: false
-    hashtags: "#maniaca, #literature, #notescheck, #unboxingvideo"
-  - username: "nailart_freehand"
+    hashtags: "#yaoi, #fyp, #foryou, #manga"
+  - username: "bananartista"
     fullname: >-
-      💅🏻 PAOLA🎨
+      (b)ananartista Sbuff
+    bio: >-
+      Artista, poeta, rockstar, banana and living museum 🤪 instagram:@bananartista
     location: "Italy"
-    followers: 53286
-    engagement: 2299
-    commentsToLikes: 0.066266
-    id: ck9re2xmz0ilg0j78cp45p7o4
+    followers: 37100
+    engagement: 717
+    commentsToLikes: 0.034482
+    id: ck8j48nxt1aix0j78bedftpuc
     verified: false
-    hashtags: "#gold, #work, #painted, #games"
+    hashtags: "#chicken, #art, #asmr, #stupid"
+  - username: "liviaparlanti12"
+    fullname: >-
+      💚La Livi🧚🏻
+    bio: >-
+      I'm 18!🔥 Italy🇮🇹 Instagram: @liviaparlanti 17,7K grazie ragazzi!😍❤️
+    location: "Italy"
+    followers: 18000
+    engagement: 1475
+    commentsToLikes: 0.032688
+    id: ckbvuo210t7cn0j238ftaymgr
+    verified: false
+    hashtags: "#lastagionedelcuore, #recitazione, #cherryseason, #perte"
+  - username: "zazzart"
+    fullname: >-
+      Lorenzo Zazzeri
+    bio: >-
+      Artist 👨🏻‍🎨 and national team swimmer 🏊🏼‍♂️🇮🇹 Instagram: zazzax & zazzart
+    location: "Italy"
+    followers: 157600
+    engagement: 1408
+    commentsToLikes: 0.013496
+    id: ck81qqqibj1m80j78l9gqz2lr
+    verified: false
+    hashtags: "#art, #arte, #arttiktok, #drawing"
 ---

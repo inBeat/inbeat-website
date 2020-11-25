@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Peru In 2020
 description: >-
-  Find top TikTok influencers in Peru in 2020. Most popular hashtags: #greenscreen #parati #duo #quedateencasa.
+  Find top TikTok influencers in Peru in 2020. Most popular hashtags: #parati #fyp #comedia #peru.
 platform: TikTok
+hits: 955
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 955 TikTok influencers like this in Peru for you to work with.
 profiles:
-  - username: "jorge_1982_2020"
+  - username: "jorge_palacios_2020"
     fullname: >-
       Jorge
+    bio: >-
+      #ESCUADRÓN_ADHYS⭐⭐ #ℂ𝕠𝕞p𝕒𝕪𝕖𝕤 💣💥
     location: "Peru"
-    followers: 9071
-    engagement: 4078
-    commentsToLikes: 0.162164
+    followers: 11100
+    engagement: 4559
+    commentsToLikes: 0.908097
     id: ck9ekqn9w7k1u0j785l3eiwxc
     verified: false
-    hashtags: ""
-  - username: "lua.roblox"
+    hashtags: "#algoritmotiktok, #paratipage, #cancionesromanticasenespa, #comayes"
+  - username: "raisaylucia"
     fullname: >-
-      Adopt Me ✨
+      Raisa y Lucía Rodriguez
+    bio: >-
+      Gemelas 💗💙 Lima, Perú 🇵🇪 Música • Idiomas • Disney
     location: "Peru"
-    followers: 20165
-    engagement: 2947
-    commentsToLikes: 0.083206
-    id: ckae640sgafzl0i78qg7wd1bg
+    followers: 1600000
+    engagement: 2609
+    commentsToLikes: 0.018964
+    id: ckcjl5da0e9ce0j23bc08bdrt
     verified: false
-    hashtags: "#sandwich, #sorteo, #adoptmepets, #lazytown"
-  - username: "jade.niky"
+    hashtags: "#raisaylucia, #gemelas, #peru, #idiomas"
+  - username: "create_131"
     fullname: >-
-      jines🌈
+      Créate✨
+    bio: >-
+      Muchísimas gracias por los 81.4k! Meta:hacerte feliz🧷 🤚🏻bloqueo spam de like
     location: "Peru"
-    followers: 4768
-    engagement: 2943
-    commentsToLikes: 0.176541
-    id: ck9fyr8j4bvhw0j78dp2gidqw
+    followers: 82000
+    engagement: 2569
+    commentsToLikes: 0.068697
+    id: ckd5nlkkvwpqz0j23y95w7luj
     verified: false
-    hashtags: "#teamcriss, #fyp, #upanddown, #greenscreen"
-  - username: "noeordonez"
+    hashtags: "#fyp, #parati, #foryou, #foryoupage"
+  - username: "uwu_____uwu______uwu"
     fullname: >-
-      Noe Ordoñez
+      🍓
+    bio: >-
+      NADA
     location: "Peru"
-    followers: 259918
-    engagement: 2933
-    commentsToLikes: 0.062084
-    id: ck81t2uvfv2cv0j78eym9mzz4
+    followers: 8225
+    engagement: 2536
+    commentsToLikes: 0.170285
+    id: ckcej00z3rkwu0j23y2kh56og
     verified: false
-    hashtags: "#empresaria, #unmensajededios, #tiktokperu, #jesusesamor"
-  - username: "xx....nene...uwu...xx"
+    hashtags: "#greenscreen, #uwu, #fyp, #gachaclub"
+  - username: "lxtizia_rblx"
     fullname: >-
-      🖤オタク🖤
+      Lxtizia_rblx
+    bio: >-
+      HoLi sOy nuEva EspEro Que Les gUste mi cOntEniDo Meta 15k de FanS UseR Letito08
     location: "Peru"
-    followers: 2271
-    engagement: 2132
-    commentsToLikes: 0.123418
-    id: ckad3jia3kv8r0i78idc6bjv0
+    followers: 21200
+    engagement: 2454
+    commentsToLikes: 0.096050
+    id: ckc3f0exd0x3n0j23a2chcc5b
     verified: false
-    hashtags: "#jibakushounenhanakokun, #roblox, #grannny, #mejorship"
-  - username: "xim.tavera"
+    hashtags: "#foryou, #foryoupage, #adoptmeroblox, #fypage"
+  - username: "http._.milen...7v7"
     fullname: >-
-      Ximena Tavera 
+      - nada -
+    bio: >-
+      http://chng.it/c7FWprTftF Porfavor entren ;-;💕✨ https://dod.us.freefiremobile.
     location: "Peru"
-    followers: 320335
-    engagement: 2238
-    commentsToLikes: 0.020313
-    id: ck9kg1qfn5xy70j78ztl7dx2f
+    followers: 32400
+    engagement: 2448
+    commentsToLikes: 0.075288
+    id: ckdi79yct93pv0j23pc4zez17
     verified: false
-    hashtags: "#trend"
-  - username: "jxmpj_"
+    hashtags: "#capcut, #edit, #parati, #flyp"
+  - username: "carlosespinal1995"
     fullname: >-
-      🦋 김제민 🦋
+      carlosespinal1995
+    bio: >-
+      Personaje de Disney de día, te mando a mimir de noche 😈 Insta @carlosespinal95
     location: "Peru"
-    followers: 11950
-    engagement: 3633
-    commentsToLikes: 0.049844
-    id: ckamhijrcg6ro0i78laqkmyue
+    followers: 1100000
+    engagement: 2447
+    commentsToLikes: 0.027870
+    id: ckbf61uiivcdl0j2319j806tu
     verified: false
-    hashtags: "#hwasa, #btob, #respeto, #boxeo"
-  - username: "0.0.uwu.0.0"
+    hashtags: "#comedia, #dominguitoconcarlitos, #carlitosdibuja, #carlitosresponde"
+  - username: "darleen_jll"
     fullname: >-
-      🍒Sr UwU🍒
+      Darleen JLL
+    bio: >-
+      🇵🇪Chiclayo/Perú🇵🇪 💖No legal💖 🤣A veces FuckBoy🤣 🏳️‍🌈LGBTQ+🏳️‍🌈
     location: "Peru"
-    followers: 3246
-    engagement: 3351
-    commentsToLikes: 0.061182
-    id: cka7vodrfx6190i78hm9myfdf
+    followers: 1100000
+    engagement: 2166
+    commentsToLikes: 0.019915
+    id: ck87u44ue550j0j78637hz0sg
     verified: false
-    hashtags: "#duo, #nosequemasponerxd"
-  - username: "pauchan2006"
+    hashtags: "#otaku, #peru, #per, #chiclayo"
+  - username: "aless.frey"
     fullname: >-
-      Pauchan2006 >:3
+      Alezzz 🌚
+    bio: >-
+      🇵🇪XVIII🏳️‍🌈 She/her/ella 🦀SOY CANCERIANA🦀 En Instagram pongo mis dibujitos
     location: "Peru"
-    followers: 2814
-    engagement: 2180
-    commentsToLikes: 0.059393
-    id: cka6jujumwaop0i78w9b39l3n
+    followers: 113200
+    engagement: 2081
+    commentsToLikes: 0.039984
+    id: cka0np9ba0lku0i780gzmuofi
     verified: false
-    hashtags: "#oc, #parati, #experimento, #pasadooscuro"
-  - username: "juliojesusm"
+    hashtags: "#inktober, #peru, #act, #powerpuffsgirls"
+  - username: "kevinlox"
     fullname: >-
-      🥰JESUS🥰
+      ⚠️💚Kevinlox💚⚠️
+    bio: >-
+      ¡Helouda!
     location: "Peru"
-    followers: 150402
-    engagement: 1896
-    commentsToLikes: 0.071542
-    id: ckace1qwrktxn0i78oufpl8nc
+    followers: 55000
+    engagement: 2045
+    commentsToLikes: 0.103973
+    id: ckaij89s8dvmr0i78vyzg7x9n
     verified: false
-    hashtags: "#camiloecheverry, #fouryoupage, #gracias, #recomendada"
+    hashtags: "#humanoide, #mamadisimo, #comedia, #antifurry"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Russia In 2020
 description: >-
-  Find top boxers Instagram influencers in Russia in 2020. Most popular hashtags: # #of #ford #ramadan2020.
+  Find top boxers Instagram influencers in Russia in 2020. Most popular hashtags: #boxing #champion #repost.
 platform: Instagram
+hits: 36
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 36 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "tishchenkoteam"
+  - username: "artem_oganesyan001"
     fullname: >-
-      Евгений Тищенко
+      Artem Oganesyan
+    bio: >-
+      Professional boxer: 12-0-(10KO) WBO Youth World Champion🌎 Amateur: European champion🏅 World champion🏅 Best junior boxer in the world 2015
     location: "Russia"
-    followers: 19406
-    engagement: 840
-    commentsToLikes: 0.017009
-    id: ck0w76ftcbzre0i190nink5nz
+    followers: 56767
+    engagement: 998
+    commentsToLikes: 0.012802
+    id: ck8sxfoh3h8510j789ssmk0x0
     verified: false
-    hashtags: ""
+    hashtags: "#relax, #nonstop, #padwork"
   - username: "alexei_ulyanov"
     fullname: >-
       Aleksei Ulianov
+    bio: >-
+      K-1 and muaythai boxer! Glory fighter 🏆2 time TNA World winner! 🥇8 time Russian champion! 65-71 kg. Russia, Prokopievsk🇷🇺 ➡ftbk-office@yandex.ru
     location: "Russia"
-    followers: 5193
-    engagement: 1479
-    commentsToLikes: 0.016871
+    followers: 5518
+    engagement: 1439
+    commentsToLikes: 0.019559
     id: ck5qd981zufng0i11q6hn7go8
     verified: false
-    hashtags: "#glory72, #autumn"
-  - username: "baysangurov_khasan"
+    hashtags: "#alekseiulianov, #wlf, #klf, #glorykikboksing"
+  - username: "tishchenkoteam"
     fullname: >-
-      Baysangurov Khasan
+      Евгений Тищенко
+    bio: >-
+      🥊Pro boxer (7-0,5ko) @rcc_academy 🥇Olympic gold medalist(Rio 2016) 🏆World Champion(Qatar 2015) 🏅European Champion(2015,2017)
     location: "Russia"
-    followers: 16988
-    engagement: 197
-    commentsToLikes: 0.065541
-    id: ck5zmxmz1ne3x0i14u9irx3nz
+    followers: 49016
+    engagement: 350
+    commentsToLikes: 0.019365
+    id: ck0w76ftcbzre0i190nink5nz
     verified: false
-    hashtags: "#istanbul, #ramadan2020"
-  - username: "dmitry__kudryashov"
+    hashtags: "#rcc, #rccboxing"
+  - username: "meiirim.nursultanov"
     fullname: >-
-      Дмитрий Кудряшов
+      Meiirim Nursultanov
+    bio: >-
+      Professional boxer | 13-0-0 ( 8 KO's) WBC USNBС Champion NABF junior Champion По вопросам:+77477733390 (Серік)
     location: "Russia"
-    followers: 312167
-    engagement: 114
-    commentsToLikes: 0.022361
-    id: ck0w2e5banwj90i19w39c7u6z
-    verified: true
-    hashtags: "#buster, #covid19, #ultimatumboxing, #covid"
+    followers: 20009
+    engagement: 745
+    commentsToLikes: 0.017907
+    id: ck0tz8erqph5l0i194m5paqly
+    verified: false
+    hashtags: "#instagram, #klimasmanagement, #mainevents, #meiirimnursultanov"
   - username: "batyr_jukembaev"
     fullname: >-
-      🔱BATYR777
+      BATYR777
+    bio: >-
+      PROFESSIONAL BOXER Batyr 777 Jukembaev 🗒Record 18-0-0 (14 KOs) По вопросам: + 7 (747) 773-33-90 (Серик)
     location: "Russia"
-    followers: 88845
-    engagement: 873
-    commentsToLikes: 0.019425
+    followers: 94608
+    engagement: 664
+    commentsToLikes: 0.015101
     id: ck14ggooe54y80i19dp7ecpor
     verified: false
-    hashtags: "#tiger, #kz, #elimen, #birge"
-  - username: "muhammed_yakubov"
+    hashtags: "#batyr777team, #batyr777, #eyeofthetiger, #qazaqstan"
+  - username: "avanesyan_david"
     fullname: >-
-      Muhammad Yakubov
+      David AVA Avanesyan
+    bio: >-
+      Professional Boxer 🥊 WBA World Welterweight Champion🏆 EBU European Boxing Union Champion🏆
     location: "Russia"
-    followers: 34716
-    engagement: 1300
-    commentsToLikes: 0.021066
-    id: ck6tyj2v9411l0j71sijx11v7
-    verified: false
-    hashtags: "#rccboxing, #rcc, #boxing"
-  - username: "eduard_troyanovsky"
-    fullname: >-
-      Эдуард Трояновский 🇷🇺
-    location: "Russia"
-    followers: 26746
-    engagement: 331
-    commentsToLikes: 0.026998
-    id: ck6txn2rzypx80j71ik442ybq
-    verified: false
-    hashtags: ""
+    followers: 26021
+    engagement: 599
+    commentsToLikes: 0.024424
+    id: ck5hp9ludqzge0i114ic0ru54
+    verified: true
+    hashtags: "#artsakh, #avaboxing, #russia, #davidavanesyan"
   - username: "murat_gassiev"
     fullname: >-
       Murat ''IRON'' Gassiev
+    bio: >-
+      Professional boxer 🥊 IBF/WBA Cruiserweight World Champion🌍 Ural Boxing Promotion, Warriors Boxing Russia 🇷🇺 Ossetia ⚪️🔴🌕
     location: "Russia"
-    followers: 713378
-    engagement: 149
-    commentsToLikes: 0.023921
+    followers: 565340
+    engagement: 186
+    commentsToLikes: 0.021784
     id: ck5qe2n3syf8e0i1118hpt2hi
     verified: true
-    hashtags: ""
-  - username: "gs_p4p"
+    hashtags: "#boxeo, #boxing"
+  - username: "sergeykrusherkovalev"
     fullname: >-
-      Guseynov Sarkhan | GS |⚔️
+      Sergey «KRUSHER» Kovalev
+    bio: >-
+      🔹Professional boxer🥊 🔹3 Time World Champion 📍Реклама/сотрудничество - Агент - Вадим Кормилицын @vadimkormilitsyn +79637129964 WhatsApp
     location: "Russia"
-    followers: 10021
-    engagement: 839
-    commentsToLikes: 0.020312
-    id: ck14ggmkw54o50i199tabtog3
-    verified: false
-    hashtags: "#happynewyear, #russianature, #emvy, #pichshop"
-  - username: "idigov_aslambek"
+    followers: 545201
+    engagement: 131
+    commentsToLikes: 0.029298
+    id: ck0tz8egmph360i19gcrksxfy
+    verified: true
+    hashtags: "#kovalev, #repost, #krusher, #75"
+  - username: "eduard_troyanovsky"
     fullname: >-
-      Idigov Aslambek
+      Эдуард Трояновский 🇷🇺
+    bio: >-
+      Eduard Troyanovsky |TROYA Russian Professional boxer IBF/IBO World champion
     location: "Russia"
-    followers: 60421
-    engagement: 130
-    commentsToLikes: 0.036472
-    id: ck5q1mosobqaw0i11wght801d
+    followers: 28438
+    engagement: 381
+    commentsToLikes: 0.023528
+    id: ck6txn2rzypx80j71ik442ybq
     verified: false
-    hashtags: "#salitapromotions, #wbo, #chechnya, #next"
+    hashtags: "#wbss, #boxing, #worldofboxingpromotions, #75"
+  - username: "adlan_abdurashidov"
+    fullname: >-
+      Adlan Abdurashidov
+    bio: >-
+      Professional boxer ▪️Olympian 2016 ▪️WBC Continental champion ▪️World Universiade - Gold ▪️Champion of Russia
+    location: "Russia"
+    followers: 22700
+    engagement: 263
+    commentsToLikes: 0.048325
+    id: ck5q1mseobqs10i119601jkyk
+    verified: false
+    hashtags: "#ko, #adlanabdurashidov, #knockout, #boxing"
 ---

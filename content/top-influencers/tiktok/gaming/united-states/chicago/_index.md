@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Chicago In 2020
 description: >-
-  Find top gaming TikTok influencers in Chicago in 2020. Most popular hashtags: #gaming #chicago #duet #funny.
+  Find top gaming TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #gaming #foryou #funny.
 platform: TikTok
+hits: 19
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 19 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "carhuff7"
+  - username: "playboibleachy"
     fullname: >-
-      Carhuff13
+      Ｈａｎｚｅｌ💔
+    bio: >-
+      17 | Chicago 🌃 Get me famous off Tik Tok 🔥
     location: "United States"
-    followers: 2245
-    engagement: 753
-    commentsToLikes: 0.049957
-    id: ck8schfhcb1ls0j78fu1knuqi
+    followers: 11500
+    engagement: 1637
+    commentsToLikes: 0.045214
+    id: ckdsr12baovqt0j23ayvlz4ws
     verified: false
-    hashtags: "#dogs, #dunkcontest, #tiktokcovers, #heartbreak"
-  - username: "itsmebeak"
+    hashtags: "#election, #relatable, #fyp, #comedy"
+  - username: "tcurt17"
     fullname: >-
-      beak
+      TCurt17
+    bio: >-
+      Tyler, 30 👬🌈 Gay 💍 Married CHICAGO 🔥😃
     location: "United States"
-    followers: 82624
-    engagement: 1052
-    commentsToLikes: 0.020763
-    id: ck9n4uwhz5q2y0j78yr4dar1c
+    followers: 10300
+    engagement: 476
+    commentsToLikes: 0.056863
+    id: ckb9ew1dg2skr0j23fuwfzjgp
     verified: false
-    hashtags: "#homesweethome, #reunited, #lifeathome, #thankyou"
-  - username: "dudeperfect"
-    fullname: >-
-      Dude Perfect
-    location: "United States"
-    followers: 8139363
-    engagement: 1729
-    commentsToLikes: 0.005496
-    id: ck81q5h9bg3qf0j7891z4ujce
-    verified: true
-    hashtags: "#magic, #splash, #stereotypes, #amazing"
+    hashtags: "#dogsoftiktok, #4u, #coronavirus, #foryou"
   - username: "rombednarczyk"
     fullname: >-
       Roman Bednarczyk
+    bio: >-
+      CEO OF CHICAGO SPORTS🤝 Business Email: rombedbusiness@gmail.com
     location: "United States"
-    followers: 2956
-    engagement: 1190
-    commentsToLikes: 0.051733
+    followers: 2875
+    engagement: 1208
+    commentsToLikes: 0.044644
     id: cka8e6lyjw0d00i78wopderto
     verified: false
-    hashtags: "#bestthingsince, #highschool, #vikings, #great"
-  - username: "emmdotfrisk"
+    hashtags: "#nba, #4u, #sports, #foryoupage"
+  - username: "itshoneykat"
     fullname: >-
-      Emmdotfrisk 💬
+      Kat ( ͡° ͜ʖ ͡°)
+    bio: >-
+      Chicago Next con: Acen Your favorite Epic Gamer Sc-katharina101 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
     location: "United States"
-    followers: 28539
-    engagement: 1196
-    commentsToLikes: 0.011632
-    id: cka9ljsmt2hme0i78vrhjufc7
+    followers: 32400
+    engagement: 1130
+    commentsToLikes: 0.014242
+    id: ckceiftccqp7e0j235bk5x1lf
     verified: false
-    hashtags: "#newyorkcity, #astros, #golf, #kith"
-  - username: "wavechris_"
+    hashtags: "#foryou, #makeup, #ember, #meme"
+  - username: "liastewy"
     fullname: >-
-      Chris A
+      LIA
+    bio: >-
+      ✰ Chicago ✰ jusss joking around
     location: "United States"
-    followers: 9689
-    engagement: 1108
-    commentsToLikes: 0.236034
-    id: ck9shqjtnunl90j78yafuo25h
+    followers: 159200
+    engagement: 1157
+    commentsToLikes: 0.013352
+    id: ck7zp8lt3nvcm0j787o11muiq
     verified: false
-    hashtags: "#usecode, #2020, #foryouppage, #valorant"
-  - username: "matt_toledo"
+    hashtags: "#couples, #bf, #foryou, #fyp"
+  - username: "honestabegaming"
     fullname: >-
-      Matt Toledo
+      Honest Abe Gaming
+    bio: >-
+      best call of duty/warzone clips on tiktok!! FB GAMING stream: Fb.gg/honestabetv
     location: "United States"
-    followers: 51438
-    engagement: 1267
-    commentsToLikes: 0.023749
-    id: ck8kda8pa4ukk0j789xrnwcoo
+    followers: 12600
+    engagement: 1052
+    commentsToLikes: 0.025308
+    id: ckb9b6scwx5u90j23a0gz6e4o
     verified: false
-    hashtags: "#cyberpunk2077, #showerthoughts, #tips, #fashion"
-  - username: "juli_1110"
+    hashtags: "#comedy, #win, #pro, #fyp"
+  - username: "dalegacy23"
     fullname: >-
-      Julian Carrillo
+      Trevor Allen
+    bio: >-
+      Twitch.tv/DaLegacy23 Gaming, Wrestling, and Entertaining you! 10K Goal👑
     location: "United States"
-    followers: 2695
-    engagement: 1208
-    commentsToLikes: 0.021477
-    id: ck8f6fvqo2m140j78lugtocxk
+    followers: 4639
+    engagement: 602
+    commentsToLikes: 0.104896
+    id: ckd5u2janz0200j23yol11hp8
     verified: false
-    hashtags: "#foryoupage, #fypchallenge, #daviddobrik, #eternalatake"
-  - username: "luhvlyy"
+    hashtags: "#fyp, #wwe, #gamer, #twitchaffiliate"
+  - username: "playboierik22"
     fullname: >-
-      soph 💓
+      playboierik22
+    bio: >-
+      Hey
     location: "United States"
-    followers: 50914
-    engagement: 1775
-    commentsToLikes: 0.035793
-    id: cka67sbkjm63e0i78plweldx0
+    followers: 14900
+    engagement: 1963
+    commentsToLikes: 0.049656
+    id: ckblf1yx090ng0j23p586s9uk
     verified: false
-    hashtags: "#interview, #happy, #chicago, #pancakecereal"
-  - username: "h_krup44"
+    hashtags: "#amongusvideo, #narutouzumaki, #itachi, #anime"
+  - username: "jpearson04"
     fullname: >-
-      Hayden K
+      Josh Pearson
+    bio: >-
+      
     location: "United States"
-    followers: 2348
-    engagement: 693
-    commentsToLikes: 0.072738
-    id: ck98r83va9gtb0j78av0tgcgp
+    followers: 9534
+    engagement: 1574
+    commentsToLikes: 0.073093
+    id: ck976w2rs1my60j78phxl19f0
     verified: false
-    hashtags: "#ripkobe, #rippopsmoke, #canada, #stitch"
+    hashtags: "#fortnite, #og, #olddays, #fy"
+  - username: "legendaryb1rd"
+    fullname: >-
+      Shane Dodson
+    bio: >-
+      follow my twitch.tv/legendary b1rd 😎😎🤬🤬
+    location: "United States"
+    followers: 58100
+    engagement: 1336
+    commentsToLikes: 0.095455
+    id: ck8ophu7637e00j78fmw9lx69
+    verified: false
+    hashtags: "#funny, #weeb, #ps5, #halloweenlook"
 ---

@@ -1,97 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Austria In 2020
 description: >-
-  Find top vegan TikTok influencers in Austria in 2020. Most popular hashtags: #vegan #waitforit #pasta #imbored.
+  Find top vegan TikTok influencers in Austria in 2020. Most popular hashtags: #vegan #fyp #vienna #viral.
 platform: TikTok
+hits: 12
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 12 TikTok influencers like this in Austria for you to collaborate.
 profiles:
+  - username: "exodelic"
+    fullname: >-
+      Exodelic
+    bio: >-
+      ติดตามฉันบน Instagram ฉันเขียนกลับ 100% 📍Instagram: @exodelic ⬅️ Vegan since 7y
+    location: "Austria"
+    followers: 98800
+    engagement: 1088
+    commentsToLikes: 0.030712
+    id: ckaihn1hf6loj0i78pd8m0eym
+    verified: false
+    hashtags: "#whatshappeninginthailand, #thailand, #duet, #photographer"
   - username: "vegaliciouslyeva"
     fullname: >-
-      vegaliciouslyeva 
+      vegaliciouslyeva
+    bio: >-
+      CEO of VEGANIZING 👉🏻 find all my recipes on IG 👈🏻
     location: "Austria"
-    followers: 30067
-    engagement: 691
-    commentsToLikes: 0.027302
+    followers: 39200
+    engagement: 798
+    commentsToLikes: 0.017722
     id: ck8fayzbb4pvb0j781aatu5db
     verified: false
-    hashtags: "#vegandinner, #risotto, #pralinen, #veganhumor"
-  - username: "da_wintschii"
+    hashtags: "#crueltyfree, #recipevideo, #tiktokrecipe, #veganrecipe"
+  - username: "onobox"
     fullname: >-
-      Marcel
+      TheGreenGarden
+    bio: >-
+      Vegan 🌱 Veggie Food Follow us on Instagram ❤️
     location: "Austria"
-    followers: 23770
-    engagement: 895
-    commentsToLikes: 0.048158
-    id: ck9rojzj4cv3e0j78rc46qyns
+    followers: 9092
+    engagement: 1031
+    commentsToLikes: 0.024640
+    id: ckb9pz75eljij0j23uyq819zg
     verified: false
-    hashtags: "#shockmoment, #goodvibesonly, #onkelbanjou, #freude"
-  - username: "lukashaselberger"
+    hashtags: "#foryou, #tiktok, #foodie, #summer"
+  - username: "ohbianka"
     fullname: >-
-      Lukas Haselberger
+      Bianka
+    bio: >-
+      💪🏼 80 Tage Challenge 💪🏼 ✨ Tägliche Updates ✨
     location: "Austria"
-    followers: 78374
-    engagement: 494
-    commentsToLikes: 0.044413
-    id: ck9ej7bnf13k40j78lm8qy4uh
+    followers: 4209
+    engagement: 1235
+    commentsToLikes: 0.012777
+    id: ckd0iwxfpf5bb0j23k0rwthkm
     verified: false
-    hashtags: "#muskelkater, #sport, #smoothiebowl, #eiscreme"
-  - username: "niveau_lifestyle"
+    hashtags: "#adayinthelife, #morningroutine, #xyzbca, #vienna"
+  - username: "youresobanana_"
     fullname: >-
-      Niveau_lifestyle
+      alexandra
+    bio: >-
+      Hi! 📝
     location: "Austria"
-    followers: 18754
-    engagement: 868
-    commentsToLikes: 0.055124
-    id: ckadavyu1k8p20i78t73em93e
+    followers: 12900
+    engagement: 1327
+    commentsToLikes: 0.015163
+    id: ckc1sujcnx51r0j23d6ku355j
     verified: false
-    hashtags: "#djathome, #tutorial, #kimlianne, #liebe"
-  - username: "laurafalquez"
+    hashtags: "#cmbyn, #drawing, #elio, #fyp"
+  - username: "dieunverpackteveganerin"
     fullname: >-
-      Laura Falquez
+      Corinna Frank
+    bio: >-
+      https://instagram.com/corinnafrank?igshid=1tv3pkma0w1cg
     location: "Austria"
-    followers: 19321
-    engagement: 708
-    commentsToLikes: 0.058281
-    id: ckadb353el7oq0i78fc5gcfqw
+    followers: 8167
+    engagement: 645
+    commentsToLikes: 0.041983
+    id: ckbqp207a9so90j2365afwkft
     verified: false
-    hashtags: "#beautyfull, #godbless, #casadepapel, #disneychannel"
-  - username: "thereginaldbarris"
+    hashtags: "#polegirl, #duett, #selflove, #ill"
+  - username: "valeriadolbel"
     fullname: >-
-      Reginald Bärris
+      Valeria Dolbel
+    bio: >-
+      Beauty nutrition, recipes, wellness tips, gardening, DIY projects and more! 🌱
     location: "Austria"
-    followers: 20497
-    engagement: 2146
-    commentsToLikes: 0.009914
-    id: ck99av7sojb1d0j78r8mneh6n
+    followers: 30800
+    engagement: 622
+    commentsToLikes: 0.023941
+    id: ckbeyn46wj8r20j23iyg2u767
     verified: false
-    hashtags: "#nakeychallenge, #frizzy, #dreadhead, #teacher"
-  - username: "tonyzchen"
+    hashtags: "#fruitlover, #plantbasedrecipes, #plantbasedfood, #plantbased"
+  - username: "ellareiter"
     fullname: >-
-      Tony Z. Chen
+      ella
+    bio: >-
+      ✰ vienna ✰ // @ella.reiterr //
     location: "Austria"
-    followers: 18337
-    engagement: 995
-    commentsToLikes: 0.018640
-    id: ck9kdv0axw1440j78dqf9na5u
+    followers: 3663
+    engagement: 1401
+    commentsToLikes: 0.026066
+    id: ckce5o7idk5lz0j23812o1y3f
     verified: false
-    hashtags: "#homemade, #familyrecipe, #homerecipe, #bamboo"
-  - username: "wavysnips"
-    fullname: >-
-      WavySnips
-    location: "Austria"
-    followers: 17483
-    engagement: 964
-    commentsToLikes: 0.029319
-    id: ck9go8yzo079f0j78re81e3ds
-    verified: false
-    hashtags: "#elterntipps, #irony, #imbored, #kuchen"
+    hashtags: "#foryou, #theocarow, #fyp, #outfit"
   - username: "happyjumpytravel"
     fullname: >-
       Marie Lou
+    bio: >-
+      🌿 Plastic Free Zone and my baby cats 🌿 Austria 🇦🇹
     location: "Austria"
-    followers: 5307
-    engagement: 665
-    commentsToLikes: 0.019817
+    followers: 7185
+    engagement: 681
+    commentsToLikes: 0.017670
     id: ck9ka93mvgbki0j789wksf8bu
     verified: false
-    hashtags: "#catmansion, #tiktokvienna, #kuschelzeit, #sayhi"
+    hashtags: "#sustainable, #nomoreplastic, #moodboost, #lowwaste"
+  - username: "tonyzchen"
+    fullname: >-
+      Tony Z. Chen
+    bio: >-
+      Will answer every DM on IG ⬆️ Vienna born and braised 🇦🇹 22
+    location: "Austria"
+    followers: 229400
+    engagement: 1249
+    commentsToLikes: 0.007489
+    id: ck9kdv0axw1440j78dqf9na5u
+    verified: false
+    hashtags: "#huhn, #chicken, #chinesefood, #chinesischek"
 ---

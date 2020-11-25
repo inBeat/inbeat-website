@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Chicago In 2020
 description: >-
-  Find top health TikTok influencers in Chicago in 2020. Most popular hashtags: #health #fitness #chicago #food.
+  Find top health TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #foryou #comedy #duet.
 platform: TikTok
+hits: 38
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 38 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "_chrisjordan"
+  - username: "iam.rizzo"
     fullname: >-
-      CJ
+      Raymond
+    bio: >-
+      CEO Of Vibes Insta: Iamraymond___ P.O. Box 295 Ingleside, IL 👽
     location: "United States"
-    followers: 16476
-    engagement: 1142
-    commentsToLikes: 0.036437
-    id: ck8s4iaqbbfmr0j78r749awm7
+    followers: 34200
+    engagement: 1554
+    commentsToLikes: 0.129312
+    id: ckceitjthra780j23eja25ssh
     verified: false
-    hashtags: "#splashchallenge, #haunted, #boom, #9screens"
-  - username: "waxedhands"
+    hashtags: "#foryou, #duet, #funny, #lol"
+  - username: "hannibalburess"
     fullname: >-
-      Waxed Hands
+      Hannibal buress
+    bio: >-
+      Isola Man Media
     location: "United States"
-    followers: 142654
-    engagement: 2362
-    commentsToLikes: 0.004663
-    id: cka0ke7h4m4060i78a4skprmu
-    verified: false
-    hashtags: "#coke, #couple, #believeitornot, #universe"
-  - username: "chicago.dietitian"
-    fullname: >-
-      Samar Kullab RD, LDN
-    location: "United States"
-    followers: 34896
-    engagement: 465
-    commentsToLikes: 0.014868
-    id: ckaicclkuk1ph0i783rqpbu6v
-    verified: false
-    hashtags: "#eatyourveggies, #healthtips, #nojudgement, #proud"
+    followers: 93700
+    engagement: 1369
+    commentsToLikes: 0.019722
+    id: ck9gq4tjm81we0j78oz8sw9jz
+    verified: true
+    hashtags: "#fyp, #foryou, #music, #newmusic"
   - username: "alaia.alaia"
     fullname: >-
       Lai lai 🦋
+    bio: >-
+      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
     location: "United States"
-    followers: 10977
-    engagement: 466
-    commentsToLikes: 0.036444
+    followers: 19600
+    engagement: 597
+    commentsToLikes: 0.029383
     id: ck90tz47runq10j7890aatttc
     verified: false
-    hashtags: "#sneakerhead, #makeuproutine, #badboy, #work"
-  - username: "raviandmanali"
+    hashtags: "#chicago, #summer, #health, #fitness"
+  - username: "a.e.barkii"
     fullname: >-
-      Ravi&Manali
+      Ashley Elizabeth
+    bio: >-
+      I kinda do some duets 🖤 Mom. Wife. Mental Health Advocate. ▪️Links in BIO▪️
     location: "United States"
-    followers: 249355
-    engagement: 400
-    commentsToLikes: 0.010277
-    id: ck9c3hpbappgs0j78pjwrrqmb
+    followers: 274000
+    engagement: 1687
+    commentsToLikes: 0.022186
+    id: ckc8wf2bbjtfj0j23m7720r04
     verified: false
-    hashtags: "#itscoronatime, #desisong, #health, #bolyywoodsong"
-  - username: "dvaughn__"
+    hashtags: "#foryou, #duet, #xyzbca, #fallfashion"
+  - username: "itsashleyteresa"
     fullname: >-
-      dvaughn__
+      Ash
+    bio: >-
+      Gamer girl🕹 Mental Health Advocate Recovery💗 CEO of Unsolicited Advice
     location: "United States"
-    followers: 8295
-    engagement: 429
-    commentsToLikes: 0.017630
-    id: ck9a7ioob7tir0j78rzb51exw
+    followers: 7183
+    engagement: 1178
+    commentsToLikes: 0.027832
+    id: ckc7kwhchrs0d0j23erdzkze9
     verified: false
-    hashtags: "#nickelodeon, #challenge, #indoorworkout, #bookclub"
-  - username: "wildbiomeskinsens"
+    hashtags: "#catperson, #thisisbliss, #favoritememory, #indigenousday"
+  - username: "dr.kojosarfo"
     fullname: >-
-      wildbiomeskinsense
+      Kojo Sarfo
+    bio: >-
+      Psych DNP Forensic Psychiatry Mental Health “You Already Won” 🏆
     location: "United States"
-    followers: 3161
-    engagement: 773
-    commentsToLikes: 0.091072
-    id: ck9jw7jz3vasg0j78zar5e8nr
+    followers: 386600
+    engagement: 1346
+    commentsToLikes: 0.023492
+    id: ck8zasq912umf0j781i90x0v7
     verified: false
-    hashtags: "#foodgrade, #soapunmolding, #chocolate, #exfoliate"
-  - username: "masoncmahoneyfit"
+    hashtags: "#mentalhealth, #mentalhealthmatters, #blacktiktok, #hospital"
+  - username: "deanaladreh"
     fullname: >-
-      Mason Mahoney
+      Deana Ladreh Gordon
+    bio: >-
+      IG MsDeanaLadreh ♒️ 30 Chicago Dream true Enjoy my brain and soul 🧠 🧝🏽‍♀️
     location: "United States"
-    followers: 26253
-    engagement: 548
-    commentsToLikes: 0.011076
-    id: ck92t5ylcgh3x0j78d2qe5tc0
+    followers: 64400
+    engagement: 815
+    commentsToLikes: 0.029846
+    id: ckd6m8qdvg9sl0j23k3k3hryr
     verified: false
-    hashtags: "#nutrition, #arms, #armworkout, #athomeworkout"
-  - username: "lorenazurc"
+    hashtags: "#itbelikethat, #foryoupage, #covid, #blackwitchtok"
+  - username: "anotherjudy"
     fullname: >-
-      Lovena
+      anotherjudy
+    bio: >-
+      📍Chicago Comedy | Politics | 🙋🏿‍♀️BLM Bookings: judy@anotherjudy.com
     location: "United States"
-    followers: 2168
-    engagement: 1007
-    commentsToLikes: 0.097984
-    id: ck9nie2epgu1r0j78dhvgzwje
+    followers: 8688
+    engagement: 1345
+    commentsToLikes: 0.023226
+    id: ckbf3hf65rao80j239rb8jnzz
     verified: false
-    hashtags: "#ub40vibes, #florida, #longhairdontcare, #thursday"
-  - username: "jamesdeveney"
+    hashtags: "#liberal, #fyp, #normalpeople, #workdistractions"
+  - username: "ietsnormaals"
     fullname: >-
-      James Deveney
+      Ietsnormaals
+    bio: >-
+      It’s embarrassing... IG: Ron_Chicago qmilated@gmail.com Twitch: ietsnormaals
     location: "United States"
-    followers: 66642
-    engagement: 1381
-    commentsToLikes: 0.041553
-    id: ck8hrxj8zaq0q0j78hi4qudcf
+    followers: 29600
+    engagement: 832
+    commentsToLikes: 0.025643
+    id: ck8qhcc014fsv0j78hnece3as
     verified: false
-    hashtags: "#addiction, #family, #workout, #england"
+    hashtags: "#duet, #xyzbca, #foryoupage, #fyp"
+  - username: "thani_kaatu_raaja"
+    fullname: >-
+      💫☄️ PandiaN🔥💗
+    bio: >-
+      TN 72 ➡️ Chicago #TamilRivals #usatiktokfamily
+    location: "United States"
+    followers: 5019
+    engagement: 1286
+    commentsToLikes: 0.000000
+    id: ck8qm5goeoknk0j78c87ax07q
+    verified: false
+    hashtags: "#tiktoktrending, #comedy, #tamilcomedy, #song"
 ---

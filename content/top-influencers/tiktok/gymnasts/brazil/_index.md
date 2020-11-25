@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts TikTok Influencers In Brazil In 2020
 description: >-
-  Find top gymnasts TikTok influencers in Brazil in 2020. Most popular hashtags: #pravoce #challenge #friends #tiktoker.
+  Find top gymnasts TikTok influencers in Brazil in 2020. Most popular hashtags: #gymnastics #foryou #fyp #fy.
 platform: TikTok
+hits: 23
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "aninhabaracho"
     fullname: >-
       aninhabaracho
+    bio: >-
+      🇧🇷 Circus teacher, Zumba ZIN, Ex- Gymnast Google: Galpão Aninha Baracho
     location: "Brazil"
-    followers: 5165
-    engagement: 759
-    commentsToLikes: 0.041714
+    followers: 5211
+    engagement: 1050
+    commentsToLikes: 0.044073
     id: ck9ejl9we38nh0j78j84ptdgj
     verified: false
-    hashtags: "#tresure, #quarentena, #donaherminia, #dublagem"
-  - username: "natigaudio"
-    fullname: >-
-      NATÁLIA GAUDIO
-    location: "Brazil"
-    followers: 94702
-    engagement: 1186
-    commentsToLikes: 0.015888
-    id: ckaibrazihl9k0i78sdbt4c67
-    verified: true
-    hashtags: "#farm, #friends, #hoop, #dancer"
-  - username: "mateus_neb"
-    fullname: >-
-      Mateus Neb 😜
-    location: "Brazil"
-    followers: 2718
-    engagement: 1729
-    commentsToLikes: 0.037306
-    id: ck9kbvfcwmw520j78o0fe736f
-    verified: false
-    hashtags: "#foru, #fisiculturismo, #2020, #desafio"
-  - username: "riqueaalves"
-    fullname: >-
-      Henrique Alves
-    location: "Brazil"
-    followers: 2648
-    engagement: 975
-    commentsToLikes: 0.041785
-    id: ck92trv9rj6o30j785mo7kkvq
-    verified: false
-    hashtags: "#quarantine, #bananeira, #float, #crush"
-  - username: "ph_circus_"
-    fullname: >-
-      Ph Freitas
-    location: "Brazil"
-    followers: 21420
-    engagement: 844
-    commentsToLikes: 0.018221
-    id: ckaccavz1i2hy0i78xa9a8xhg
-    verified: false
-    hashtags: "#tangochallenge, #pravoce, #danceindia, #tiktoker"
-  - username: "filippekimizuka"
-    fullname: >-
-      Filippe Kimizuka
-    location: "Brazil"
-    followers: 128284
-    engagement: 831
-    commentsToLikes: 0.012821
-    id: ck8f9vmkc3wfm0j78ewdr66kv
-    verified: false
-    hashtags: "#calistenia, #twists, #tiktok, #slackline"
-  - username: "workout_helen"
-    fullname: >-
-      Giulia Silva
-    location: "Brazil"
-    followers: 25682
-    engagement: 557
-    commentsToLikes: 0.025992
-    id: ck931ib4eese60j786q6ad8q9
-    verified: false
-    hashtags: "#engra, #streetworkout, #calisthentics, #artistas"
+    hashtags: "#fy, #duet, #tiktokbrasil, #paravoce"
   - username: "arthurnory"
     fullname: >-
       arthurnory
+    bio: >-
+      Gymnast Olympic Medalist 🥉 World Champion 🥇
     location: "Brazil"
-    followers: 164718
-    engagement: 1011
-    commentsToLikes: 0.005515
+    followers: 237200
+    engagement: 1161
+    commentsToLikes: 0.007585
     id: ck9k8acll84hx0j78muozs6i3
     verified: true
-    hashtags: "#voltei, #gymnastica, #bravour, #nowlookatme"
+    hashtags: "#foryou, #gymnastics, #tiktok, #challenge"
+  - username: "natigaudio"
+    fullname: >-
+      NATÁLIA GAUDIO
+    bio: >-
+      Olympian Gymnast of Brazilian Team! 🇧🇷🤸🏼‍♀️❤️ Insta: natigaudio
+    location: "Brazil"
+    followers: 126500
+    engagement: 772
+    commentsToLikes: 0.012862
+    id: ckaibrazihl9k0i78sdbt4c67
+    verified: true
+    hashtags: "#tutorial, #quarantine, #fyp, #foryoupage"
   - username: "bielzinx"
     fullname: >-
       🔥 Gabriel Alves 🔥
+    bio: >-
+      Passando meu wpp pra quem me seguir no insta e avisar que veio da minha bio! ❤️
     location: "Brazil"
-    followers: 39303
-    engagement: 2343
-    commentsToLikes: 0.171781
+    followers: 53600
+    engagement: 2404
+    commentsToLikes: 0.093534
     id: ck9kdgbjyu24g0j7807aeseuf
     verified: false
-    hashtags: "#gymnastics, #novatelaverde"
-  - username: "taayhqueiroz"
+    hashtags: ""
+  - username: "elastichear"
     fullname: >-
-      Thayná Queiroz 
+      elastichear
+    bio: >-
+      Criado para enaltecer dançarinos do mundo ❤️ Created to enhance the world's dan
     location: "Brazil"
-    followers: 13516
-    engagement: 1785
-    commentsToLikes: 0.063994
-    id: ck97xh6euv9pv0j781dwv90i3
+    followers: 19900
+    engagement: 1673
+    commentsToLikes: 0.007793
+    id: ckbkslojsnek50j234zjiigtt
     verified: false
-    hashtags: "#cancelado, #noahurrea, #makemefamous, #actor"
+    hashtags: "#coppelia, #ballerina, #ballet, #royalballet"
+  - username: "mateus_neb"
+    fullname: >-
+      Mateus Neb 😜
+    bio: >-
+      🇧🇷 TikTok 🤪 Atleta
+    location: "Brazil"
+    followers: 3250
+    engagement: 1574
+    commentsToLikes: 0.032683
+    id: ck9kbvfcwmw520j78o0fe736f
+    verified: false
+    hashtags: "#foryou, #fyp, #destaque, #foryoupage"
+  - username: "nildo.sousa.sw"
+    fullname: >-
+      Nildo Sousa sw 
+    bio: >-
+      Atleta de Streetworkout SBC Seja a pessoa que vc gostaria de encontrar em alguém
+    location: "Brazil"
+    followers: 596600
+    engagement: 944
+    commentsToLikes: 0.009689
+    id: ck81t2tc4v1z20j78qdg1r2fx
+    verified: true
+    hashtags: "#amigos, #aprendinamarra, #humorbr, #gymnastics"
+  - username: "riqueaalves"
+    fullname: >-
+      Henrique Alves
+    bio: >-
+      handstand, acroyoga
+    location: "Brazil"
+    followers: 2628
+    engagement: 928
+    commentsToLikes: 0.042507
+    id: ck92trv9rj6o30j785mo7kkvq
+    verified: false
+    hashtags: "#paradadem, #foryou, #capoeira, #awesome"
+  - username: "mineiro_augusto"
+    fullname: >-
+      Vinicius Reis
+    bio: >-
+      🎭 Comédia & Esporte 🤸🏽‍♂️ 📩 : viniciusaugustoreis2016@gmail.com
+    location: "Brazil"
+    followers: 284700
+    engagement: 1468
+    commentsToLikes: 0.032214
+    id: ck9kdgz7eu8v70j78w4fdubft
+    verified: false
+    hashtags: "#fyp, #vassourathru, #fail, #burgerking"
+  - username: "incondicionall"
+    fullname: >-
+      🍐
+    bio: >-
+      um poquinho de tudo que gosto um poquinho de mim
+    location: "Brazil"
+    followers: 110300
+    engagement: 207
+    commentsToLikes: 0.040495
+    id: ckbf53lx2tu8e0j231a9ves31
+    verified: false
+    hashtags: "#gym, #emagrecimentocerto, #instagoog, #saudealimentar"
 ---

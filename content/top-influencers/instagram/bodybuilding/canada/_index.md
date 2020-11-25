@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Canada In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #motivation #muscle #supplements #liftheavy.
+  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #bodybuilding #fitness #personaltrainer #quads.
 platform: Instagram
+hits: 105
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 105 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "kevjbradley"
-    fullname: >-
-      Kevin Bradley
-    location: "Canada"
-    followers: 34579
-    engagement: 1499
-    commentsToLikes: 0.017450
-    id: ck8t8cgi4jx630j78qveofmgz
-    verified: false
-    hashtags: "#transformationtuesday, #novascotiastrong"
-  - username: "mtsinkorang"
-    fullname: >-
-      MATT TSINKORANG 🇨🇦🇬🇭🇺🇦
-    location: "Canada"
-    followers: 26266
-    engagement: 398
-    commentsToLikes: 0.055518
-    id: ck6tvb178l73f0j71z3bgp0k1
-    verified: false
-    hashtags: "#mutantnation, #healthyfood, #deltabc, #ubc"
   - username: "jeffnippard"
     fullname: >-
       Jeff Nippard
+    bio: >-
+      🇨🇦 Science-Based Bodybuilding ▫️ 5’5, 165 lbs ▫️ @rise & @PEscience [JEFF] ▫️ My Training Programs 💪🏼⤵️
     location: "Canada"
-    followers: 500616
-    engagement: 493
-    commentsToLikes: 0.016207
+    followers: 556311
+    engagement: 495
+    commentsToLikes: 0.012542
     id: ck0vwiutxu0k00i19adoqlt6m
     verified: false
-    hashtags: "#weback, #couplesgymselfie, #sipcurls, #teamrise"
-  - username: "patty.lifts"
+    hashtags: "#selftimerlevelexpert, #powerbuilding, #highfrequency, #happyanniversary"
+  - username: "aliciaatout"
     fullname: >-
-      Coach Patty Lifts | Natty Pro
+      Alicia Atout
+    bio: >-
+      INTERVIEW QUEEN 👑 OWNER @amusicblogyea 🌹 BOOK aliciaatout@gmail.com 📧 HOST @MajorLeagueWrestling 🎤 Wrestling • Music • Bodybuilding 🗣 Influencer • 25
     location: "Canada"
-    followers: 42802
-    engagement: 306
-    commentsToLikes: 0.050743
-    id: ckap1zpy4wr9r0i78zdfp5o1i
+    followers: 63898
+    engagement: 504
+    commentsToLikes: 0.015129
+    id: ck6uaxtg36b050j71qyi30umk
     verified: false
-    hashtags: "#fitnesslover, #weights, #beachbum, #fitgram"
-  - username: "erica_nagy"
+    hashtags: "#cvlturefits, #sheingals, #shein, #kiss"
+  - username: "kevjbradley"
     fullname: >-
-      Erica Nagy
+      Kevin Bradley
+    bio: >-
+      🇨🇦 NSCA certified personal trainer. 27 yo. Writer of words, baker of bread, lifter of weights, bodybuilding.🤓 Nova Scotia, Canada 🍁🏥🏋️‍♂️
     location: "Canada"
-    followers: 2229
-    engagement: 781
-    commentsToLikes: 0.059499
-    id: ck5q0qroc7auy0i11egcmxrw1
+    followers: 53787
+    engagement: 446
+    commentsToLikes: 0.014271
+    id: ck8t8cgi4jx630j78qveofmgz
     verified: false
-    hashtags: "#coronashutdown, #ijustmissmyfransss, #covidthoughts, #corona"
+    hashtags: "#bodybuilding, #igfit, #teamjosstraining, #classicphysique"
+  - username: "eshagh.ghavidel.ifbbpro"
+    fullname: >-
+      اسحاق قویدل 🤲🏼
+    bio: >-
+      cancer fighting🇨🇦🇮🇷 Married @niloufarghavidel71 4Time WorldsChampionTop10TorontoProShow IFBBPro #بنیاد_حقیقت Bodybuilding coach Online coaching
+    location: "Canada"
+    followers: 277805
+    engagement: 237
+    commentsToLikes: 0.037971
+    id: ckap3v0jz4lr80i78dmtbknmx
+    verified: true
+    hashtags: "#onlinecoaching, #exercisemotivation, #eshaghghavidel, #worldchampion"
   - username: "rep300"
     fullname: >-
       Ron Partlow IFBB Pro🇨🇦
+    bio: >-
+      •BODYBUILDING MENTOR •@WESTCOASTIRON •@mutantnation I don’t regret the rules I broke. When I die, bury me in smoke.
     location: "Canada"
-    followers: 42132
-    engagement: 99
-    commentsToLikes: 0.051267
+    followers: 42091
+    engagement: 137
+    commentsToLikes: 0.066075
     id: ck5cbz3wigfa40i11qhre8yhj
     verified: false
-    hashtags: "#5guys, #themuscledoc, #mountaindog, #flying"
-  - username: "drsarasolomon"
-    fullname: >-
-      Dr. Sara Solomon, BSc PT, DMD
-    location: "Canada"
-    followers: 48148
-    engagement: 103
-    commentsToLikes: 0.082304
-    id: ck6ufo4rty5uw0j71gfc0sbho
-    verified: false
-    hashtags: "#reclinedhero, #sorcery, #stomachvacuum, #leggingsaddict"
+    hashtags: "#podcast, #westcoastiron, #supplements, #mutantnation"
   - username: "hsimranofficial"
     fullname: >-
       Harsimran Singh|Fitness Coach
+    bio: >-
+      Fitness Coach M/F 🇨🇦🇮🇳 TikTok: HSimranOfficial365 Sc:-Harsimran_ #Bodybuilding365 #HarsimranSingh
     location: "Canada"
-    followers: 47971
-    engagement: 255
-    commentsToLikes: 0.007633
+    followers: 49311
+    engagement: 334
+    commentsToLikes: 0.011381
     id: ckap66w2menm20i78espsdrsu
     verified: false
-    hashtags: "#healthylifestyle, #onedirection, #bodybuilding365, #jointeambodybuilding365"
-  - username: "amandaduplessisfit"
+    hashtags: "#bodybuilding365, #sanjhat, #onlinecoach, #happybirthdaybhaji"
+  - username: "mtsinkorang"
     fullname: >-
-      Amanda
+      MATT TSINKORANG 🇨🇦🇬🇭🇺🇦
+    bio: >-
+      🥇2 X MR. CANADA Bodybuilding Champ 👨🏽‍💼 CEO & Entrepreneur 🍽 @wearepremiummeals Owner ☣️ @mutantnation TSINK20 👨🏽‍💻 Prep Coach 🇨🇦 Vancouver Canada
     location: "Canada"
-    followers: 10220
-    engagement: 938
-    commentsToLikes: 0.102225
-    id: ck5zk3ajjiqie0i148umapojy
+    followers: 26102
+    engagement: 367
+    commentsToLikes: 0.049374
+    id: ck6tvb178l73f0j71z3bgp0k1
     verified: false
-    hashtags: "#lasenza, #nomakeup, #springstyle, #scrunchbutt"
-  - username: "jmlgold"
+    hashtags: "#vancouver, #vancouvermealprep, #bodybuilding, #mealprep"
+  - username: "daphneebureaulugo"
     fullname: >-
-      James-Michael Lavigne
+      Daphnée • mini tank
+    bio: >-
+      🇨🇦|🇨🇺 • 22 • real is hard to find • @teamatlasmtl | @hd.muscle | @vixensuits 🎥 YouTube | Daphnée Bureau Lugo
     location: "Canada"
-    followers: 27670
-    engagement: 884
-    commentsToLikes: 0.034677
-    id: ck15tdyz8hm4e0i19su2qhjs2
+    followers: 8926
+    engagement: 1242
+    commentsToLikes: 0.056602
+    id: ckap1fhtrudj30i782h11o4u0
     verified: false
-    hashtags: "#abouttorelax, #lookoutshark, #jamesbond, #happynewyear"
+    hashtags: "#picoftheday, #fit, #summer, #fashion"
+  - username: "erindeg"
+    fullname: >-
+      Erin 🇫🇷🏳️‍🌈
+    bio: >-
+      Masteronmami | PLUR | premed ( ͡° ͜ʖ ͡°) S325 | B155 | D355 | 5’3” #Harderstyles#Riddim#Gabber#Muzz
+    location: "Canada"
+    followers: 12887
+    engagement: 1409
+    commentsToLikes: 0.025905
+    id: ckaozsvhan9260i78kk5zgpqk
+    verified: false
+    hashtags: "#masteronemami, #monstershit, #thecomeup, #squats"
+  - username: "cor_kashif"
+    fullname: >-
+      Corey Kashif
+    bio: >-
+      👣Social Justice Warrior 🥇Pro Qualifier 🇨🇦CPA Natural 🏋🏾‍♂️@levelupfitacademy AHFTrainer 🛍@shop.deepend 👕@jed_north KASHIF20 save 20% 💪🏾@legend.nation
+    location: "Canada"
+    followers: 7711
+    engagement: 1161
+    commentsToLikes: 0.045206
+    id: ck55kp7bfzsuo0i11pkveqewo
+    verified: false
+    hashtags: "#fitness, #abs, #friends, #malemodel"
 ---

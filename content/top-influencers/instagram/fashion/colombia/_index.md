@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Colombia In 2020
 description: >-
-  Find top fashion Instagram influencers in Colombia in 2020. Most popular hashtags: #theportraitpr0ject #happy #bravogreatphoto #girls.
+  Find top fashion Instagram influencers in Colombia in 2020. Most popular hashtags: #outfit #barranquilla #colombia.
 platform: Instagram
+hits: 309
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 309 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "folliedolliebeaute"
-    fullname: >-
-      #FollieDollieTips 🌿 كارلا
-    location: "Colombia"
-    followers: 62727
-    engagement: 1175
-    commentsToLikes: 0.204695
-    id: ck15qy8xd58i10i199uk0b5pn
-    verified: false
-    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
-  - username: "davidvisuals_ph"
-    fullname: >-
-      David Pinilla
-    location: "Colombia"
-    followers: 37964
-    engagement: 847
-    commentsToLikes: 0.111113
-    id: ck5hmy57bmuih0i11uont2ws2
-    verified: false
-    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
   - username: "jessica.zabala"
     fullname: >-
       Jessica Zabala
+    bio: >-
+      📍Bogotá Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
     location: "Colombia"
-    followers: 59094
-    engagement: 1461
-    commentsToLikes: 0.029326
+    followers: 89469
+    engagement: 1163
+    commentsToLikes: 0.149957
     id: ck9wghcvxtf430j788scdohfk
     verified: false
-    hashtags: ""
-  - username: "juliaticaofficialone"
+    hashtags: "#blackouttuesday"
+  - username: "davidvisuals_ph"
     fullname: >-
-      J U L I A 🦋
+      David Pinilla
+    bio: >-
+      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
     location: "Colombia"
-    followers: 136561
-    engagement: 919
-    commentsToLikes: 0.023146
-    id: ck8t73npgfjes0j78hqja6a35
+    followers: 46541
+    engagement: 761
+    commentsToLikes: 0.037433
+    id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#breeze, #comfortable, #love, #2020"
-  - username: "franciny_bautista"
+    hashtags: "#fotografia, #foto, #reels, #zombie"
+  - username: "rubenkuri"
     fullname: >-
-      ╰☆☆ FRANCINY ☆☆╮
+      rubenkuri
+    bio: >-
+      Experto en moda. Tendencias, red carpet looks, fashion tips @lamodemexico Director de @ethosart Pintando México con @bluewomenpinkmen
     location: "Colombia"
-    followers: 185055
-    engagement: 374
-    commentsToLikes: 0.046334
-    id: ckap1chnntzuz0i7855vdbflp
+    followers: 60828
+    engagement: 655
+    commentsToLikes: 0.023467
+    id: ck55pg23bahik0i11fbjfi1x1
     verified: false
-    hashtags: "#latina, #girls, #happy, #models"
-  - username: "thebigbrowneyes"
-    fullname: >-
-      Ana Lucia Gutierrez
-    location: "Colombia"
-    followers: 46604
-    engagement: 381
-    commentsToLikes: 0.055322
-    id: ck0uaqsdncyac0i19ic7mpq4m
-    verified: false
-    hashtags: "#madeinbolivia, #thebigbrowneyes, #pink, #nycstrong"
-  - username: "branorozcom"
-    fullname: >-
-      Bran Orozco Muñoz
-    location: "Colombia"
-    followers: 16967
-    engagement: 538
-    commentsToLikes: 0.109629
-    id: ck15ux3olox5w0i19y3al30ix
-    verified: false
-    hashtags: "#laguajira, #blogger, #turismo, #formen"
+    hashtags: "#aldoloveplanet, #babydarling, #calvinkleinmx, #tbt"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
+    bio: >-
+      ✖ Portraits, Lifestyle, Fashion ✖ Dúo de fotógrafas 👭🏼 by: @dorian.ph @itsmelbournee Clothing 🔛 @retromnia_ Contacto 📩 DM 📍 Bogotá - Colombia 🇨🇴
     location: "Colombia"
-    followers: 27039
-    engagement: 1433
-    commentsToLikes: 0.027580
+    followers: 93066
+    engagement: 441
+    commentsToLikes: 0.035599
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#bodylanguage, #collateral, #thefashionpr0ject, #sonyalpha"
-  - username: "callmecall"
+    hashtags: "#humanedge, #theportraitpr0ject, #ourmag, #vibetones"
+  - username: "valeriefrangie"
     fullname: >-
-      Carmen Arbizu
+      Valerie Frangie
+    bio: >-
+      Fashion & Lifestyle Blogger Everyday looks. Real life fashion Directora Creativa @shopvf 1/2 @livinghabibi Coautora “La Cocina de Mamarie”
     location: "Colombia"
-    followers: 19038
-    engagement: 400
-    commentsToLikes: 0.222123
-    id: ck0udvceejvx00i19n538sx7s
+    followers: 39510
+    engagement: 261
+    commentsToLikes: 0.078086
+    id: ckap1bw68tx3p0i78ajlsruv1
     verified: false
-    hashtags: "#quarantena, #malgrate, #coronavirusespa, #primark"
-  - username: "caroamayac"
+    hashtags: "#transformatuinstagram21dias, #valeriefrangie, #vf, #tbt"
+  - username: "nannamartinezp"
     fullname: >-
-      C A R O L I N A  A M A Y A
+      Nanna Martínez
+    bio: >-
+      Freelance Fashion designer-Stylist Fashion tips, skincare @atypigal @thesecondchanceco 🌎👾🌻🐝🍒🌸🌈💚 “Progreso, no perfección” contacto@nannamartinezp.com
     location: "Colombia"
-    followers: 53119
-    engagement: 270
-    commentsToLikes: 0.064282
-    id: ck14hx0ntck8t0i191jawclxe
+    followers: 32866
+    engagement: 208
+    commentsToLikes: 0.081909
+    id: ck602cvayh5bm0i14s0r0qinq
     verified: false
-    hashtags: "#40tena, #quedateencasa, #relaxday, #bike"
+    hashtags: "#instablogger, #fashionblog, #fashionpost, #theparisguru"
+  - username: "taneth.fit"
+    fullname: >-
+      Taneth Gimenez
+    bio: >-
+      DIOS todo ✝️ 🧩Proud Autism mom of 2 👧🏻👦🏻 🗣🇪🇸🇺🇸🇧🇷 🌟@bangenergy Elite 🐲@dragonpharma_llc Athlete 💟@jednorthwomen 👗@fashionnova AD
+    location: "Colombia"
+    followers: 1739559
+    engagement: 249
+    commentsToLikes: 0.022407
+    id: ck5c1098xu7230i11ee9zbtbu
+    verified: false
+    hashtags: "#workout, #bangrevolution, #motivation, #lovemybang"
+  - username: "jc_gmz"
+    fullname: >-
+      The Julián Best Experiences 🌎
+    bio: >-
+      Content Creator /Runner / Brand Consultant and PR🇨🇴🇵🇹 | Travel • Luxury • Fashion |Ambassador @kevins_joyeros @gcaairlines Equality advocate 🏳️‍🌈✈️
+    location: "Colombia"
+    followers: 30761
+    engagement: 526
+    commentsToLikes: 0.030620
+    id: ck5q6avj6wnpz0i11wjzba1z9
+    verified: false
+    hashtags: "#cartagenacolombia, #curazao, #mugcakenescafe, #luxury"
+  - username: "camiavellam"
+    fullname: >-
+      Camila Kamle Avella 🌞
+    bio: >-
+      🇨🇴 Colombian model | Content creator |Tv hostess | Jewelry designer| Fashion lover| @turmalinalegacy @telkatelas @camiavella_tips
+    location: "Colombia"
+    followers: 357617
+    engagement: 295
+    commentsToLikes: 0.020910
+    id: ck5c0pucztm3s0i11gxfqsu1r
+    verified: true
+    hashtags: "#kamlebytelka, #calicolombia, #turmalinalegacy, #domi"
+  - username: "ashleysantosm"
+    fullname: >-
+      ASHLEY SANTOS
+    bio: >-
+      🤍 • Actriz & Modelo 🪐 • Creadora de contenido 🔒 • Fashion | Lifestyle | Beauty ✉️ • Contacto a Dm @onemodelsacademy
+    location: "Colombia"
+    followers: 4009
+    engagement: 1451
+    commentsToLikes: 0.090852
+    id: ck8t4hcu66toc0j78vr7nw6p7
+    verified: false
+    hashtags: "#model, #photography, #lifestyle, #modelo"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In Turkey In 2020
 description: >-
-  Find top chefs TikTok influencers in Turkey in 2020. Most popular hashtags: #chef #ekler #nisan #turkiye.
+  Find top chefs TikTok influencers in Turkey in 2020. Most popular hashtags: #ke #tiktok #chef #food.
 platform: TikTok
+hits: 15
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "hamaratbey"
+  - username: "turkangokkaya27"
     fullname: >-
-      İshak Kaynak
+      Türkan
+    bio: >-
+      CHEF 👩‍🍳😋 GAZİANTEP
     location: "Turkey"
-    followers: 168660
-    engagement: 724
-    commentsToLikes: 0.013821
-    id: ck8kcvpy533tu0j78oo3le1c6
+    followers: 28800
+    engagement: 707
+    commentsToLikes: 0.079705
+    id: ckbq6a51qsnmq0j23y1ncokag
     verified: false
-    hashtags: "#mutfaks, #yemektarifleri, #ishakchef, #ankara"
-  - username: "seyfichef"
-    fullname: >-
-      Seyfi Chef
-    location: "Turkey"
-    followers: 164098
-    engagement: 259
-    commentsToLikes: 0.007070
-    id: ck999turjedse0j78fnius84f
-    verified: false
-    hashtags: "#duman, #bonfile, #kalkank, #carpaccio"
+    hashtags: "#instag, #mutfak, #15kiloboya, #tiktokindia"
   - username: "chef_turgutcakioglu"
     fullname: >-
       Chef Turgut Çakıoğlu
+    bio: >-
+      Konya Patisserie chef👨‍🍳 🥞🍞🥯🥮🍧🍨🍩🍪🎂🍰🧁🥧
     location: "Turkey"
-    followers: 191579
-    engagement: 670
-    commentsToLikes: 0.003343
+    followers: 194600
+    engagement: 652
+    commentsToLikes: 0.003127
     id: ck9k4yjm2ulh90j78l8xsy23x
     verified: false
-    hashtags: "#konya42team, #teamkardanadam, #noelbaba, #viruscorona"
-  - username: "aytenyildizz"
+    hashtags: "#konya42, #yemekk, #profiterol, #pasta"
+  - username: "seyfichef"
     fullname: >-
-      Ayten Yıldız
+      Seyfi Chef
+    bio: >-
+      İnstagram Hesabım @seyfi_chef
     location: "Turkey"
-    followers: 113020
-    engagement: 994
-    commentsToLikes: 0.051980
-    id: cka0ou3rw5ga40i78vraay1r2
+    followers: 220400
+    engagement: 296
+    commentsToLikes: 0.006672
+    id: ck999turjedse0j78fnius84f
     verified: false
-    hashtags: "#slowmuo, #fahtihterim, #hijyen, #aslan"
-  - username: "kaymak1982"
+    hashtags: "#steaklove, #seyfichef, #tiktokt, #bbqfood"
+  - username: "tv8hd0"
     fullname: >-
-      Kaymak künefe 
+      Survivor
+    bio: >-
+      @acunilicali
     location: "Turkey"
-    followers: 10240
-    engagement: 150
-    commentsToLikes: 0.011159
-    id: cka65z2c7f6ez0i78ee6ws4sr
+    followers: 7864
+    engagement: 593
+    commentsToLikes: 0.009564
+    id: ckcudwgome2x80j231lu9ml6k
     verified: false
-    hashtags: "#taras, #katmeri, #kayma, #hoqqa"
-  - username: "eneskrzll"
-    fullname: >-
-      Enes Kirazlı
-    location: "Turkey"
-    followers: 8482
-    engagement: 234
-    commentsToLikes: 0.009200
-    id: cka0hs6i9akbj0i78s78whbi6
-    verified: false
-    hashtags: "#adetpasta, #time, #ekler, #boxingchallenge"
-  - username: "zonguldak67_gul_gul"
-    fullname: >-
-      gül67zonguldak
-    location: "Turkey"
-    followers: 2578
-    engagement: 2120
-    commentsToLikes: 0.025140
-    id: ckae7q4vfi86n0i78w7ukbmbp
-    verified: false
-    hashtags: "#sanmasin, #olsun, #manzara, #mesafe"
-  - username: "yaziyolcusu"
-    fullname: >-
-      yaziyolcusu
-    location: "Turkey"
-    followers: 635088
-    engagement: 715
-    commentsToLikes: 0.040145
-    id: ckajk1jo1nzby0i7821tj545x
-    verified: true
-    hashtags: "#moskova, #wolf, #turkish, #hangul"
-  - username: "nazif_krk_67"
-    fullname: >-
-      nazif_krk_67
-    location: "Turkey"
-    followers: 6572
-    engagement: 629
-    commentsToLikes: 0.018050
-    id: cka84a2bpsop00i78wfehtcoa
-    verified: false
-    hashtags: "#chef, #676777, #hidromek, #devrek"
+    hashtags: "#food, #tanya, #tv8acunmedya, #danilozanna"
   - username: "gokhanbagirdakci"
     fullname: >-
       Gokhan.34
+    bio: >-
+      🧁🧁İNCE DOKUNUŞLAR 🍰🍰
     location: "Turkey"
-    followers: 5515
-    engagement: 385
-    commentsToLikes: 0.014588
+    followers: 5762
+    engagement: 310
+    commentsToLikes: 0.015390
     id: cka6bl8k40p0h0i78xpvsz0yn
     verified: false
-    hashtags: "#kaymak, #profiterol, #pubggame, #pasta"
+    hashtags: "#tiktokileoyunday, #patiserrie, #mutfaka, #pastry"
+  - username: "kaymak1982"
+    fullname: >-
+      Kaymak künefe 
+    bio: >-
+      Kaymak künefe ortaköy
+    location: "Turkey"
+    followers: 10100
+    engagement: 161
+    commentsToLikes: 0.012587
+    id: cka65z2c7f6ez0i78ee6ws4sr
+    verified: false
+    hashtags: "#cznburak, #kuwait, #cheer, #be"
+  - username: "eneskrzll"
+    fullname: >-
+      Enes Kirazlı
+    bio: >-
+      İnstagram da daha aktifim
+    location: "Turkey"
+    followers: 8823
+    engagement: 364
+    commentsToLikes: 0.016282
+    id: cka0hs6i9akbj0i78s78whbi6
+    verified: false
+    hashtags: "#beni, #cake, #chef, #benionecikar"
+  - username: "aytenyildizz"
+    fullname: >-
+      Ayten Yıldız
+    bio: >-
+      instagram; @aytenyildizz Reklam & işbirlikleri📩 aytnyildiz07@gmail.com
+    location: "Turkey"
+    followers: 139700
+    engagement: 490
+    commentsToLikes: 0.025003
+    id: cka0ou3rw5ga40i78vraay1r2
+    verified: false
+    hashtags: "#ke, #aytenyildizz, #antalya, #bug"
+  - username: "mr.taster"
+    fullname: >-
+      mr.taster
+    bio: >-
+      Foodcritic loving food and travel😍❤️🕺🏾👌
+    location: "Turkey"
+    followers: 101800
+    engagement: 363
+    commentsToLikes: 0.010392
+    id: cka63t2ov5tz80i78dlb8v54n
+    verified: false
+    hashtags: "#iran, #food, #foodlover, #kebab"
+  - username: "mini_food_chef"
+    fullname: >-
+      Dytnin Mini Mutfagi
+    bio: >-
+      Instagram: Diyetisyenin Mini Mutfagi
+    location: "Turkey"
+    followers: 102269
+    engagement: 1277
+    commentsToLikes: 0.004261
+    id: ck9k4ykaiulq30j7873xfxqaf
+    verified: false
+    hashtags: "#minifood, #food, #mini, #tinyfood"
 ---

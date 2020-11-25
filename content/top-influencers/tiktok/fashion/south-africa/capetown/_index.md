@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Capetown In 2020
 description: >-
-  Find top fashion TikTok influencers in Capetown in 2020. Most popular hashtags: #dance #style #covid19 #quarantine.
+  Find top fashion TikTok influencers in Capetown in 2020. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
 platform: TikTok
+hits: 4
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 4 TikTok influencers like this in Capetown, South Africa for you to connect with.
 profiles:
-  - username: "tinaprokas"
+  - username: "may.tayla"
     fullname: >-
-      Tina Prokas
+      Tayla May 🦋
+    bio: >-
+      my Instagram^ 💘 17 🇿🇦
     location: "South Africa"
-    followers: 7420
-    engagement: 648
-    commentsToLikes: 0.028470
-    id: ck982t1cxhls40j781asd5muo
+    followers: 181300
+    engagement: 1608
+    commentsToLikes: 0.026233
+    id: ckd06jk3ba9x00j23gcbik4cb
+    verified: true
+    hashtags: "#tiktoksouthafrica, #relatable, #style, #greenscreen"
+  - username: "malcolm_moore_"
+    fullname: >-
+      Malcolm Moore
+    bio: >-
+      Dm's open, follow the gram 👇🏻☝🏻
+    location: "South Africa"
+    followers: 26600
+    engagement: 643
+    commentsToLikes: 0.061261
+    id: cka0xdfd36mil0i78t3icl7mr
     verified: false
-    hashtags: "#photoshootideas, #hairtips, #beautyhacks, #poseideas"
+    hashtags: "#tiktoksouthafrica, #instyle, #tiktoksa, #capetown"
+  - username: "chadhaupt_"
+    fullname: >-
+      Chad Haupt
+    bio: >-
+      F O R G I N G G E N T L E M E N 🐺 Menswear Style Tips Build a timeless wardrobe
+    location: "South Africa"
+    followers: 55600
+    engagement: 441
+    commentsToLikes: 0.045717
+    id: ckck3asvwn4bj0j23hjalbtjd
+    verified: false
+    hashtags: "#autumnfashion, #mensfashion, #mensstyleguide, #dating"
+  - username: "startupwithjo"
+    fullname: >-
+      Jo Morrison
+    bio: >-
+      ✨ College Drop-Out To 7-Figure CEO ✨ I help women create success online
+    location: "South Africa"
+    followers: 41600
+    engagement: 739
+    commentsToLikes: 0.018093
+    id: ck9dsedrq7t0z0j788b3n25s7
+    verified: false
+    hashtags: "#behindthescenes, #entrepreneurship, #entrepreneurlife, #southafrica"
+  - username: "avril_albetti"
+    fullname: >-
+      Avril Albetti
+    bio: >-
+      Model Maker, Former Local & International Model🇿🇦🇮🇹 RGB Fashion Police,
+    location: "South Africa"
+    followers: 3650
+    engagement: 1281
+    commentsToLikes: 0.106112
+    id: ckdt4mgassu9o0j23dep31je9
+    verified: false
+    hashtags: "#instyle, #projectxsa, #amazingtransition, #pheadraparks"
+  - username: "__ohsodandy_"
+    fullname: >-
+      kiara.a.dandridge
+    bio: >-
+      21 Vibes on good music, good fashion Sews as well Art too 🇿🇦
+    location: "South Africa"
+    followers: 11500
+    engagement: 1682
+    commentsToLikes: 0.027734
+    id: ckav3zycnad8w0j23grzfftv1
+    verified: false
+    hashtags: "#photoshoot, #transition, #fashion, #outfits"
+  - username: "addfashion"
+    fullname: >-
+      cutegirls
+    bio: >-
+      Fashion girl
+    location: "South Africa"
+    followers: 1800000
+    engagement: 872
+    commentsToLikes: 0.004589
+    id: ck85cin0a1u140j7828ujstlz
+    verified: false
+    hashtags: "#beautiful, #fyp, #makeup, #fashion"
   - username: "siyabunny"
     fullname: >-
       Siyanda Bani
+    bio: >-
+      Fashion, Beauty, Lifestyle & Travel And fun 🇿🇦
     location: "South Africa"
-    followers: 34249
-    engagement: 533
-    commentsToLikes: 0.012325
+    followers: 61600
+    engagement: 580
+    commentsToLikes: 0.011028
     id: ck9k9olv9dzh60j78fgxhi9n3
     verified: false
-    hashtags: "#style, #badparent, #styletips, #boredinthehouse"
-  - username: "richardhaubrich"
+    hashtags: "#foryoupage, #fyp, #covid19, #fashion"
+  - username: "kandyslife"
     fullname: >-
-      Richard Haubrich
+      Kandy
+    bio: >-
+      DANCE 💃 MAKEUP 💄 AND FASHION ❤️ YOUTUBE: @kandykanemakeup Follow me ON INSTA!
     location: "South Africa"
-    followers: 41702
-    engagement: 1000
-    commentsToLikes: 0.023262
-    id: ck963n948vjsu0j78h6lutv6r
+    followers: 13900
+    engagement: 446
+    commentsToLikes: 0.019275
+    id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#kway, #awemaybru, #chasingafrica, #ferrari"
-  - username: "talia.tucker"
+    hashtags: "#tiktokdance, #fyp, #dancetiktok, #southafrica"
+  - username: "kimsayers1"
     fullname: >-
-      Talia Tucker
+      kimsayers1
+    bio: >-
+      South African 🌍❤️ Introvert ☺️ Fitness freak💪 Fashion Lover👗👛
     location: "South Africa"
-    followers: 103078
-    engagement: 856
-    commentsToLikes: 0.041884
-    id: cka0rw3kwiu840i78c0227tgb
+    followers: 6299
+    engagement: 538
+    commentsToLikes: 0.017139
+    id: ckc8drfwr99zs0j23pivdd97y
     verified: false
-    hashtags: "#itsfriday, #blueskies, #drawme, #adderall"
-  - username: "ultimatewildcat"
-    fullname: >-
-      WILDCAT 
-    location: "South Africa"
-    followers: 65492
-    engagement: 724
-    commentsToLikes: 0.013284
-    id: cka0szmsonpdh0i78m24wl6hu
-    verified: false
-    hashtags: "#beauty, #family, #dancing, #transformation"
-  - username: "micaylecrous"
-    fullname: >-
-      Micaylé
-    location: "South Africa"
-    followers: 5544
-    engagement: 767
-    commentsToLikes: 0.039450
-    id: ckan4lg5aanzg0i784pu6v8js
-    verified: false
-    hashtags: "#mirror, #over18, #crushing, #colouredlife"
-  - username: "houseofpablo05"
-    fullname: >-
-      House of Pablo
-    location: "South Africa"
-    followers: 5145
-    engagement: 1094
-    commentsToLikes: 0.020405
-    id: cka0rnlg4hree0i78pua9j0gw
-    verified: false
-    hashtags: "#rich, #menfashion, #glowupforreal, #glowupchallenge"
-  - username: "style322"
-    fullname: >-
-      sarah
-    location: "South Africa"
-    followers: 4489
-    engagement: 531
-    commentsToLikes: 0.005502
-    id: cka0om7z24h8d0i78zaiseh4z
-    verified: false
-    hashtags: "#swimming, #skirt, #shoelace, #dresschange"
-  - username: "dutchmanscarcareclinic1"
-    fullname: >-
-      BossOfGloss
-    location: "South Africa"
-    followers: 2060
-    engagement: 654
-    commentsToLikes: 0.006100
-    id: ck9jxlrjo19rx0j788q5dpzje
-    verified: false
-    hashtags: "#bose, #pista, #gt2rs, #poppingbottles"
-  - username: "tasarnia"
-    fullname: >-
-      Tasarnia 
-    location: "South Africa"
-    followers: 12151
-    engagement: 649
-    commentsToLikes: 0.006298
-    id: ck920ker9enns0j786upg6ah5
-    verified: false
-    hashtags: "#heysiri, #couplemove, #tiktokchallenge, #couplechallenge"
+    hashtags: "#fyppage, #sundayfunday, #viral, #fypforyou"
 ---

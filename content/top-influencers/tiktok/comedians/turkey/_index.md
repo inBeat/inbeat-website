@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Turkey In 2020
 description: >-
-  Find top comedians TikTok influencers in Turkey in 2020. Most popular hashtags: #comedia #coronavirus #duet #tiktokturkey.
+  Find top comedians TikTok influencers in Turkey in 2020. Most popular hashtags: #tiktok #comedia #foryou #ke.
 platform: TikTok
+hits: 44
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 44 TikTok influencers like this in Turkey for you to work with.
 profiles:
+  - username: "persian_lion"
+    fullname: >-
+      Persian_lion
+    bio: >-
+      I love football & speaking the truth. 18. All a Joke. Let’s get 20K by Christmas
+    location: "Turkey"
+    followers: 15700
+    engagement: 585
+    commentsToLikes: 0.163325
+    id: ckcdke49l99dm0j23ol3gbu4u
+    verified: false
+    hashtags: "#arsenal, #britishhumour, #soccer, #football"
+  - username: "esinofficial_24"
+    fullname: >-
+      Esin
+    bio: >-
+      La fetta illa Ali La seyfe illa Zülfikar ⚔️ Mustafa Kemal Atatürk ✌️
+    location: "Turkey"
+    followers: 39500
+    engagement: 744
+    commentsToLikes: 0.015925
+    id: ckc8fvpn7ai5q0j23hftqa052
+    verified: false
+    hashtags: "#24, #yaali, #erzincan, #angaral"
   - username: "sanatsokakta"
     fullname: >-
       Emre Balım 
+    bio: >-
+      İnstagram📸🗽🏖🏕👆
     location: "Turkey"
-    followers: 3442615
-    engagement: 1884
-    commentsToLikes: 0.011469
+    followers: 4100000
+    engagement: 1499
+    commentsToLikes: 0.008669
     id: ck7zot27nluwn0j78utulile5
     verified: true
-    hashtags: "#zoomerang, #15saniyede, #dance, #albumlookalike"
-  - username: "krmz.ogln2763"
-    fullname: >-
-      Mehmet2727
-    location: "Turkey"
-    followers: 5063
-    engagement: 1306
-    commentsToLikes: 0.022997
-    id: cka9lj9r22ewc0i782p0iq1c4
-    verified: false
-    hashtags: "#react, #asmr, #loveu, #story"
+    hashtags: "#fyp, #komedi, #tiktok, #comedia"
   - username: "batuu.er"
     fullname: >-
       batuu.er
+    bio: >-
+      
     location: "Turkey"
-    followers: 6945
-    engagement: 655
-    commentsToLikes: 0.023440
+    followers: 6801
+    engagement: 653
+    commentsToLikes: 0.021807
     id: cka7r27dfd8l60i78telt8lf2
     verified: false
-    hashtags: "#fran, #comdia, #turk, #carl"
+    hashtags: "#comedy, #dance, #tiktok, #musically"
+  - username: "lissandrag"
+    fullname: >-
+      Lissandrag
+    bio: >-
+      Inquires: Lissandragarabito@hotmail.com
+    location: "Turkey"
+    followers: 373988
+    engagement: 628
+    commentsToLikes: 0.010906
+    id: ckav883z8fe7p0j23x33vnd67
+    verified: false
+    hashtags: "#venezuela, #humor, #novelas, #dominicana"
+  - username: "srsklali"
+    fullname: >-
+      ALi Sarısakal✳️
+    bio: >-
+      💛FB💙 Aksaray 👈 Konya 👈 🇹🇷🤘CCC🤘🇹🇷 ıns 👉 ali_srskll
+    location: "Turkey"
+    followers: 5708
+    engagement: 415
+    commentsToLikes: 0.012797
+    id: ckciys5ly2he60j238p0e9nrq
+    verified: false
+    hashtags: "#fypage, #notamodel, #nowaterchallenge, #agkgchallenge"
   - username: "noor_barber"
     fullname: >-
       🇸🇾كوافير 🇸🇾✂️✂️✂
+    bio: >-
+      05393775433
     location: "Turkey"
     followers: 196055
     engagement: 505
     commentsToLikes: 0.003910
     id: ck8fai8n849wf0j78rthv2m7i
     verified: false
-    hashtags: "#xyzcb, #foryou, #chinesevirus, #facez"
-  - username: "hazellsimsirr"
+    hashtags: "#comedia, #tutorial, #indian, #ke"
+  - username: "baristaciyobabba"
     fullname: >-
-      ♡ ♡ H A Z A L ♡ ♡
+      Baristaciyobabba
+    bio: >-
+      #kinfogcoffee İnstagram: @barista_cihan
     location: "Turkey"
-    followers: 4546
-    engagement: 1641
-    commentsToLikes: 0.015273
-    id: cka7to1x4ocvk0i78owenssr7
+    followers: 8696
+    engagement: 631
+    commentsToLikes: 0.050229
+    id: ck9nczo6tcc9r0j78a1dd0fiv
     verified: false
-    hashtags: "#yalnizdegilsin, #darmada, #aresi, #ahbe"
-  - username: "barizkomik"
-    fullname: >-
-      🅱️🅰️®️ℹ️💤K🌀〽️ℹ️K
-    location: "Turkey"
-    followers: 38657
-    engagement: 344
-    commentsToLikes: 0.032456
-    id: ck8opwg2e4zne0j78u4i90kt1
-    verified: false
-    hashtags: "#telefonatma, #telefonteslim, #maske, #vaadak"
+    hashtags: "#nas, #mutfaks, #20, #coffeechallenge"
   - username: "vs.kitty"
     fullname: >-
       vskitty
+    bio: >-
+      VS
     location: "Turkey"
     followers: 395396
     engagement: 1558
     commentsToLikes: 0.003727
     id: ck904nh7zedzs0j780n6jvhpz
     verified: false
-    hashtags: "#tiktokindia, #tbt, #unicorn, #sizini"
-  - username: "eryigitgurkan"
+    hashtags: "#foryoupage, #vskitty, #tiktok, #fyp"
+  - username: "dobisakal"
     fullname: >-
-      GÜRKAN ERYİĞİT
+      👑rizelidobi53👑
+    bio: >-
+      Rize🍃Istanbul🤙 instegram hemen yukarda👆takip et en güzel replikler burda👍
     location: "Turkey"
-    followers: 14020
-    engagement: 419
-    commentsToLikes: 0.030331
-    id: ck8opwfbw4zhp0j78qh17z91v
+    followers: 64600
+    engagement: 644
+    commentsToLikes: 0.012029
+    id: ckbkk9q3hda720j23vsagwr02
     verified: false
-    hashtags: "#pubg, #comics, #begindans, #erkekler"
-  - username: "rooshanrajab"
-    fullname: >-
-      Rooshan Rajab
-    location: "Turkey"
-    followers: 259281
-    engagement: 1384
-    commentsToLikes: 0.001726
-    id: ck8faifqr4aym0j786xhmzh2m
-    verified: false
-    hashtags: "#ramazanmen, #ate, #bollywood, #atlalann"
-  - username: "cyeic"
-    fullname: >-
-      ‍
-    location: "Turkey"
-    followers: 69608
-    engagement: 1369
-    commentsToLikes: 0.008305
-    id: ck900popaankc0j788llsyj9u
-    verified: false
-    hashtags: "#mexico, #parati, #monterrey, #mytype"
+    hashtags: "#oyuncutiktok, #ke, #tiktokkkk, #cukur"
 ---

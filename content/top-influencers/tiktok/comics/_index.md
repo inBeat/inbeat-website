@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comics TikTok Influencers In 2020
 description: >-
-  Find top comics TikTok influencers in 2020. Most popular hashtags: #keepingbusy #keepingactive #homeproject #mycrib.
+  Find top comics TikTok influencers in 2020. Most popular hashtags: #fyp #duet #comic #foryoupage.
 platform: TikTok
+hits: 1162
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 1162 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "comicconventionlatam"
+  - username: "alexarellano497"
     fullname: >-
-      Comicconventionlatam
-    location: "Ecuador"
-    followers: 7730
-    engagement: 3415
-    commentsToLikes: 1.229404
-    id: ck9nnvz5zr7ft0j78wvyis22h
+      Alex Arellano
+    bio: >-
+      Todo sobre Spider-Man🕷️ curiosidades, comics películas y mas 💙vamos por 300k❤
+    location: "Mexico"
+    followers: 210700
+    engagement: 2283
+    commentsToLikes: 0.030803
+    id: ckbeppysj6qz70j23pu8tvc2u
     verified: false
-    hashtags: "#tiktokmexico, #peru, #colombia, #espa"
-  - username: "hectorsector13"
-    fullname: >-
-      Hector Sector
-    location: "United States"
-    followers: 115879
-    engagement: 3099
-    commentsToLikes: 0.038355
-    id: ck9nheyqqfybz0j78co8y17zd
-    verified: false
-    hashtags: "#mycrush, #merchandise, #infomercial, #organized"
-  - username: "ninabogo"
-    fullname: >-
-      nina bogosian
-    location: "United States"
-    followers: 47931
-    engagement: 1995
-    commentsToLikes: 0.056785
-    id: ck933alsdn7nh0j78w6m6jwbv
-    verified: false
-    hashtags: "#musical, #aesthetic, #cheerleader, #voiceover"
-  - username: "doodledog.official"
-    fullname: >-
-      Doodledog 🐶❤️
-    location: "United States"
-    followers: 5032
-    engagement: 1477
-    commentsToLikes: 0.071959
-    id: ckacgnnjlvwco0i78t4i1tx2q
-    verified: false
-    hashtags: "#natureathome, #boopthesnoot, #mirrormirror, #travelthrowback"
+    hashtags: "#datoscuriosos, #marvelzombies, #tomholland, #spiderman"
   - username: "bitsytandem"
     fullname: >-
       Bitsy Tandem
+    bio: >-
+      Lives in Japan🌸 Creator of Maiden in Disguise comic🎮 Smol bean gamer💕 5'2
     location: "United States"
-    followers: 24064
-    engagement: 2248
-    commentsToLikes: 0.031560
+    followers: 24600
+    engagement: 2249
+    commentsToLikes: 0.057116
     id: ck8s4hp31bagq0j78vnnwzf6g
     verified: false
-    hashtags: "#tiktok, #keepingbusy, #commissionsopen, #duet"
-  - username: "theaceblade"
+    hashtags: "#japan, #webtoon, #kawaii, #mangaka"
+  - username: "moose_0"
     fullname: >-
-      Danny J. Quick
+      Justin Mousseau
+    bio: >-
+      30 FLA he/him Founder/CEO of Gatekeeper/Keymaster Comics I'm that dad friend
     location: "United States"
-    followers: 21662
-    engagement: 1390
-    commentsToLikes: 0.077157
-    id: ck9pma8cg8eel0j78b13rq85x
+    followers: 91800
+    engagement: 2423
+    commentsToLikes: 0.037148
+    id: ckdsukez5ptqd0j23fkjcbsmv
     verified: false
-    hashtags: "#maskoff, #greenscreen, #google, #makingcomics"
-  - username: "unbalance_madness"
+    hashtags: "#nerd, #gaming, #comic, #greenscreen"
+  - username: "rusty.cage"
     fullname: >-
-      Unbalance Madness
+      Rusty Cage
+    bio: >-
+      Buy my comic book: Requiem of the Crazies
     location: "United States"
-    followers: 72171
-    engagement: 2031
-    commentsToLikes: 0.021109
-    id: ck8f5sqk20h0s0j785idqnxvj
+    followers: 110700
+    engagement: 2008
+    commentsToLikes: 0.034732
+    id: ckavqnwba27zn0j23ezmiliqp
     verified: false
-    hashtags: "#artstyle, #pens, #yuri, #comicartist"
-  - username: "bloodybxtchh"
+    hashtags: "#comicbook, #identifythesong, #whatsthatsound, #statues"
+  - username: "hectorsector13"
     fullname: >-
-      Hi Welcome (:
+      Hector Sector
+    bio: >-
+      Hello. I like to make cardboard art and comics. And I wear a box on my head.
     location: "United States"
-    followers: 2151
-    engagement: 1081
-    commentsToLikes: 0.165904
-    id: ckamqn51ri49d0i78q7fayv52
+    followers: 416500
+    engagement: 2397
+    commentsToLikes: 0.017493
+    id: ck9nheyqqfybz0j78co8y17zd
     verified: false
-    hashtags: "#ashdollarstore, #brittanybitch, #scarystory, #shadowweaver"
-  - username: "quincylk"
+    hashtags: "#cartoon, #boxhead, #art, #artstuff"
+  - username: "smallswolecinnamonroll"
     fullname: >-
-      Quincy’s Tavern
+      SmallSwoleCinnaRoll
+    bio: >-
+      She/Her Arcana/Comics/Shenanigans Fox disguised as a human🦊 Gay AF🏳️‍🌈 ⚠️🔞⚠️
     location: "United States"
-    followers: 431804
-    engagement: 1995
-    commentsToLikes: 0.018655
-    id: ck8oze7kabodx0j786pj9phks
+    followers: 6353
+    engagement: 2941
+    commentsToLikes: 0.214320
+    id: ck9kbab37keog0j78w664rgd7
     verified: false
-    hashtags: "#snacks, #chain, #may4th, #easycooking"
-  - username: "_deadtime_"
+    hashtags: "#cosfamasra, #julian, #juliandevorak, #cosfamproductions"
+  - username: "comicconventionlatam"
     fullname: >-
-      Dead time
-    location: "France"
-    followers: 29078
-    engagement: 2349
-    commentsToLikes: 0.021413
-    id: ck8kgpgxtji4m0j78sjxjb5b4
+      Comicconventionlatam
+    bio: >-
+      💥Prepárate #2020💥 La convención de cómics más grande del mundo
+    location: "Ecuador"
+    followers: 11200
+    engagement: 2789
+    commentsToLikes: 1.033920
+    id: ck9nnvz5zr7ft0j78wvyis22h
     verified: false
-    hashtags: "#diocisplay, #luxureoc, #blindinglights, #jojopose"
+    hashtags: "#mexico, #cclatam, #comics, #it"
+  - username: "batman.a7x"
+    fullname: >-
+      Raven 
+    bio: >-
+      Batman’s official wife 21, Wattpad: batman_a7x Spn,rock,anime,comics,disney
+    location: "United States"
+    followers: 11200
+    engagement: 1488
+    commentsToLikes: 0.070413
+    id: ck9evgsyqicis0j786qqnzt73
+    verified: false
+    hashtags: "#demon, #pride, #gold, #radiodemon"
+  - username: "delavegan"
+    fullname: >-
+      302 Vegan
+    bio: >-
+      Video Games Comics Marvel/DC Metal/Rock music Vegan 4 The Animals Politics
+    location: "United States"
+    followers: 6923
+    engagement: 1379
+    commentsToLikes: 0.115105
+    id: ckavshd0h4zi80j2330pof3t6
+    verified: false
+    hashtags: "#bidenharris2020, #republicans, #democrat, #votehimout"
+  - username: "trevercarreon"
+    fullname: >-
+      trevercarreon
+    bio: >-
+      Stand up Comic Tulsa IG for dms Twitter/Venmo: @TreverCarreon Enjoys Pizza
+    location: "United States"
+    followers: 246200
+    engagement: 2601
+    commentsToLikes: 0.017422
+    id: ckdhepsvjx3870j23uhuqtfjm
+    verified: false
+    hashtags: "#commentary, #standupcomic, #weirdnews, #stitch"
 ---

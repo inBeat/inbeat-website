@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #vegan #explore #foodie.
+  Find top vegan Instagram influencers in Atlanta in 2020. Most popular hashtags: #vegan #atlanta #vegansofig #love.
 platform: Instagram
+hits: 63
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 63 Instagram influencers like this in Atlanta, United States for you to connect with.
 profiles:
-  - username: "anicholebeauty"
+  - username: "tiffhuangry"
     fullname: >-
-      𝔸. ℕ𝕚𝕔𝕙𝕠𝕝𝕖 𝔹𝕖𝕒𝕦𝕥𝕪
+      Tiff Huang-ry | atlanta foodie
+    bio: >-
+      📍ATL | 🇹🇼🇺🇸 8yr Yelp Gold Elite ‘20 @bestfoodatlanta community leader influencer @butter.atl/@zipkick/@slice $7 off @slice w/code TIFFHUANGRY
     location: "United States"
-    followers: 7612
-    engagement: 666
-    commentsToLikes: 0.103427
-    id: ck1363sqc4mks0i19h00ewkw5
+    followers: 6991
+    engagement: 527
+    commentsToLikes: 0.121089
+    id: ck6txkok9yd190j71tejri547
     verified: false
-    hashtags: "#cutebabies, #healthydiet, #nailtech, #2020"
-  - username: "koreanfusion"
+    hashtags: "#foodiegram, #bestfoodatlanta, #zipkick, #atlantacoffee"
+  - username: "thefinevegan"
     fullname: >-
-      Seung Hee Lee
+      Nya 😸
+    bio: >-
+      Atlanta📍 👇🏽Grab the plant based bundle ! Only $50 for over 80 ebooks and courses ‼️
     location: "United States"
-    followers: 35425
-    engagement: 176
-    commentsToLikes: 0.055609
-    id: ck5hox9k2qed50i11qs7t3bor
+    followers: 21020
+    engagement: 198
+    commentsToLikes: 0.048257
+    id: ck8t0lmcrshdk0j78zeazdd5z
     verified: false
-    hashtags: "#artisanal, #spicypork, #strawberries, #homecooking"
-  - username: "chef_thomas96"
+    hashtags: "#veganeats, #noodles, #blackvegan, #colorfulfood"
+  - username: "authentically__ewe"
     fullname: >-
-      Chef Thomas
+      Rae Jordan 🦋
+    bio: >-
+      𝙄 𝙛𝙤𝙪𝙣𝙙 𝙂𝙤𝙙 𝙞𝙣 𝙢𝙮𝙨𝙚𝙡𝙛; 𝙖𝙣𝙙 𝙄 𝙡𝙤𝙫𝙚𝙙 𝙝𝙚𝙧, 𝙛𝙞𝙚𝙧𝙘𝙚𝙡𝙮. 🌺 @naturally__ewe 💡 Social Media Management 📧 rae@raejordan.biz 📍 Atlanta 🎓 NYU
     location: "United States"
-    followers: 32524
-    engagement: 61
-    commentsToLikes: 0.092666
-    id: ck14iclpheqwv0i19r4qpxrke
+    followers: 36478
+    engagement: 58
+    commentsToLikes: 0.045734
+    id: ck15s0oqranaq0i198hy045xt
     verified: false
-    hashtags: "#lakewylie, #love, #stayhome, #tagafriend"
-  - username: "savoryspin"
+    hashtags: "#blackinfluencers, #wellnessjourney, #atlantavegans, #wellness"
+  - username: "msgreekgoddess"
     fullname: >-
-      Shashi | Food Blogger
+      Chrxztxnh
+    bio: >-
+      Christina* Model/ Actress Recording Artist.✨ 🌱Vegan⚡️Goddess @chibellavonludwig♥️🤱🏽
     location: "United States"
-    followers: 28231
-    engagement: 77
-    commentsToLikes: 0.058956
-    id: ck55k2k70yb2a0i11x5tzd3y9
+    followers: 17329
+    engagement: 299
+    commentsToLikes: 0.084106
+    id: ck5zk4oteisyw0i14ebgibbmr
     verified: false
-    hashtags: "#georgiagrinders, #paleoeaster, #adifferentbreed, #easydrinks"
+    hashtags: "#curlyhair, #muse, #actress, #love"
+  - username: "yenismonterrey"
+    fullname: >-
+      Yenis Monterrey
+    bio: >-
+      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
+    location: "United States"
+    followers: 28043
+    engagement: 286
+    commentsToLikes: 0.237386
+    id: ckaoxs08fehfh0i78xy0bpjb5
+    verified: false
+    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
   - username: "theallvegan"
     fullname: >-
       🌿 The All Vegan
+    bio: >-
+      Vegan Memes, questions, and activism. 🐐🐮🐣🐶🌎 Remember to follow👇👇👇
     location: "United States"
     followers: 35435
     engagement: 225
     commentsToLikes: 0.027008
     id: ck136ir976oqj0i19dpmu6crx
     verified: false
-    hashtags: "#vegansofny, #veganpastry, #veganman, #vegansnack"
+    hashtags: "#meatmonday, #vegangifts, #vegansofmanila, #meatards"
   - username: "healthyvegancommunity"
     fullname: >-
       HEALTHY VEGAN COMMUNITY
+    bio: >-
+      100% Vegan🌱Follow our other accounts: @healthyvegandesserts @healthyvegansmoothies @healthyvegancuisine 👇🏽Free dessert ebook👇🏽
     location: "United States"
     followers: 184538
     engagement: 109
     commentsToLikes: 0.015962
     id: ck5q7rf2e2s9b0i1140of1uox
     verified: false
-    hashtags: "#healthyrecipes, #veganfitness, #macncheese, #bourguignon"
-  - username: "healthyvegancuisine"
-    fullname: >-
-      HEALTHY VEGAN CUISINE
-    location: "United States"
-    followers: 297881
-    engagement: 70
-    commentsToLikes: 0.015635
-    id: ck5q7rdj92s3n0i1168pa5rn2
-    verified: false
-    hashtags: "#veganheroes, #easydinner, #whatveganscook, #pastalover"
-  - username: "ufwjho"
-    fullname: >-
-      Jhoanna
-    location: "United States"
-    followers: 80913
-    engagement: 1965
-    commentsToLikes: 0.015439
-    id: ckap1ewwcub0a0i78u1mqjgfi
-    verified: false
-    hashtags: "#stayathomewithplt, #dollskill, #tbt"
+    hashtags: "#feedfeed, #foodgram, #bestveganrecipes, #veganlunch"
   - username: "chefnikkiinthemix"
     fullname: >-
       Nikki
+    bio: >-
+      Nikki’s FAT ASS Cakes mix 🥞🥞🥞 👇🏿 follow @nikkisfatasscakes Personal Vegan Chef Atlanta 📍 Shop Now #NikkisFatAssCakes 🥞🥞🥞
     location: "United States"
-    followers: 47622
-    engagement: 419
-    commentsToLikes: 0.083364
+    followers: 49211
+    engagement: 433
+    commentsToLikes: 0.085040
     id: ck5cbyv1pgevq0i11bz1bp1ow
     verified: false
-    hashtags: "#explore, #blackfamily, #newmom, #veganbreakfast"
-  - username: "madelynneross"
+    hashtags: "#vegetarian, #plantbaseddrippin, #veganeats, #foodie"
+  - username: "kennythepoet"
     fullname: >-
-      Madelynne Ross
+      kendrick (ACTOR)
+    bio: >-
+      #1000thingskenny #IplayTITUSHUGHES on #AMBITIONS #Atl #LA #Sc but made in #Louisville #crossfit #actor #vegan #rawfood #fruit #poet #WOKE
     location: "United States"
-    followers: 19210
-    engagement: 345
-    commentsToLikes: 0.040259
-    id: ck6u82hutp2270j71n69zrycc
+    followers: 37037
+    engagement: 150
+    commentsToLikes: 0.133383
+    id: ck0u1c255wi8i0i19sbqku2fj
     verified: false
-    hashtags: "#ootd, #midtownatlanta, #denmanbrush, #stressrelief"
+    hashtags: "#trailgod, #nature, #melanin, #iamlove"
+  - username: "e_young_13"
+    fullname: >-
+      Erika Lancaster Young
+    bio: >-
+      💍@sancho5150 💞 💀 #SullenAngels 😇 #H2OceanModels 🌴@SanchosTacos🌴#SanchosTacos 📸 Let’s Colab ⚡️Inquiries 📥
+    location: "United States"
+    followers: 42124
+    engagement: 217
+    commentsToLikes: 0.032456
+    id: ck5zqmj2wuvue0i14aa7wjfoz
+    verified: false
+    hashtags: "#choloha, #togetherwerise, #sullenclothing, #topthreads"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Italy In 2020
 description: >-
-  Find top rappers Instagram influencers in Italy in 2020. Most popular hashtags: #roma #milanononsiferma #milano #.
+  Find top rappers Instagram influencers in Italy in 2020. Most popular hashtags: #rapper #rap #estate2020.
 platform: Instagram
+hits: 79
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 79 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "shaka_muni"
-    fullname: >-
-      SHAKA
-    location: "Italy"
-    followers: 3316
-    engagement: 2243
-    commentsToLikes: 0.095974
-    id: ck5pznke21uv10i11v9f6rsx4
-    verified: false
-    hashtags: ""
-  - username: "solarmodelu"
-    fullname: >-
-      Karol Solar Poziemski
-    location: "Italy"
-    followers: 101376
-    engagement: 721
-    commentsToLikes: 0.005938
-    id: ck139ut0bn7zh0i19r6wagroo
-    verified: false
-    hashtags: "#hot16challenge2"
-  - username: "doncashofficial"
-    fullname: >-
-      Don Cash (Official)
-    location: "Italy"
-    followers: 13814
-    engagement: 292
-    commentsToLikes: 0.169593
-    id: ck5c3i20uzd910i11fcnggtse
-    verified: false
-    hashtags: "#sunshine, #coronavirus, #doncash, #shiremusicfestival"
   - username: "luccibrokenspeakers"
     fullname: >-
       LUCCI BROKENSPEAKERS
+    bio: >-
+      Raffaele Lucci: veteran rapper, scenografo, brokenspeakers crew. Classe ‘84. Pagina personale:
     location: "Italy"
-    followers: 31524
-    engagement: 394
-    commentsToLikes: 0.022467
+    followers: 31408
+    engagement: 453
+    commentsToLikes: 0.025052
     id: ck5pyti54xq640i119hj997fv
     verified: false
-    hashtags: ""
-  - username: "williepeyote"
+    hashtags: "#blackouttuesday"
+  - username: "speakercenzou"
     fullname: >-
-      Ludwig van Peyote
+      Speaker Cenzou
+    bio: >-
+      Rapper, Producer, Writer, and Jedi Master
     location: "Italy"
-    followers: 151135
-    engagement: 1145
-    commentsToLikes: 0.011848
-    id: ck13b4zietp950i195b50yz7p
+    followers: 10846
+    engagement: 308
+    commentsToLikes: 0.075561
+    id: ck5c4tt2t23b20i11aeou4nby
     verified: false
-    hashtags: "#milano, #quarta, #dieyoung, #repost"
+    hashtags: "#sodostudio, #rap, #riseandshine, #cenzougram"
   - username: "tommy_kuti"
     fullname: >-
-      Tommy Kuti
+      Big Tolu
+    bio: >-
+      In teoria sono un rapper, in pratica faccio mille altre cose. Mi conoscono come l’#afroitaliano 🇮🇹 🇳🇬 Be yourself!
     location: "Italy"
-    followers: 35845
-    engagement: 258
-    commentsToLikes: 0.028354
+    followers: 37867
+    engagement: 280
+    commentsToLikes: 0.031770
     id: ck5c61vi24jy00i11appv5hrq
     verified: true
-    hashtags: "#swag, #hat, #newteam, #powerangers"
-  - username: "jack_the_smoker_"
+    hashtags: "#wehaveadream, #afroitaliano, #desenzanodelgarda, #tommykuti"
+  - username: "nexcassel"
     fullname: >-
-      Jack The Smoker
+      NEX CASSEL
+    bio: >-
+      BEST RAPPER ALIVE. AdriaCosta / MicroMala. VENETO 🔱 VETERAN Caorle/Jesolo/Milano/Treviso TIRO DA TRE feat @quentinquaranta 🏀🏀🏀. FUORI ORA ⤵️
     location: "Italy"
-    followers: 84927
-    engagement: 856
-    commentsToLikes: 0.016808
-    id: ck5zstmq5z5zr0i14xb3xy0if
-    verified: true
-    hashtags: "#scusate, #discopara, #drugsdontwork, #smizyboy"
-  - username: "henry_favre"
-    fullname: >-
-      Henry  Favre
-    location: "Italy"
-    followers: 22468
-    engagement: 1040
-    commentsToLikes: 0.010363
-    id: ck0u82ht96c4j0i190ylpt2uf
+    followers: 22674
+    engagement: 957
+    commentsToLikes: 0.043799
+    id: ck6tzy86qcjmk0j71mmnl8e8k
     verified: false
-    hashtags: "#adagio, #malossicamp, #girodelmondo, #piaggiociao"
+    hashtags: ""
+  - username: "davideshorty"
+    fullname: >-
+      Davide Shorty
+    bio: >-
+      Singer, songwriter, rapper and producer. World citizen. ⬇️ Ascolta il nuovo singolo “Regina” in semifinale @sanremorai (#sanremogiovani )
+    location: "Italy"
+    followers: 55268
+    engagement: 276
+    commentsToLikes: 0.029623
+    id: ck5q6gwntxclm0i11dvbrv8qp
+    verified: true
+    hashtags: "#onelove, #audioqualitylab, #adv, #davideshorty"
+  - username: "neroneofficial"
+    fullname: >-
+      NERONE. ENNE E ERRE O ENNE E
+    bio: >-
+      MILANO LAST RAPPER ALIVE Info- booking-Management: thomas@gunamanagement.com BATACLAN FT @fabri_fibra OUT NOW
+    location: "Italy"
+    followers: 123484
+    engagement: 1237
+    commentsToLikes: 0.014910
+    id: ck6tu3e82e2zi0j71ictrxfsa
+    verified: true
+    hashtags: ""
+  - username: "ugoborghetti126"
+    fullname: >-
+      Ugo Borghetti
+    bio: >-
+      CXXVI UBC LOVEGANG BEAT ugoborghettibeat@gmail.com Per info feat e tutte l altre cazzate da rapper Ugoborghetti126@gmail.com
+    location: "Italy"
+    followers: 54046
+    engagement: 1843
+    commentsToLikes: 0.014533
+    id: ck5qcrnils0820i11k06bfhkp
+    verified: false
+    hashtags: ""
   - username: "ceskielloo"
     fullname: >-
-      CESKIELLO
+      THE ØNLY ONE CESKIELLØ
+    bio: >-
+      COMICO〰️ACTOR SANGUE NELLA MUSICA 🎶 👂🏽🎧👂🏽 RAPPER FREE LANCE 🎙 BIG REELS 🤦🏿‍♂️ ✖️ business and collaborazioni 📩ceskiello1985@gmail.com
     location: "Italy"
-    followers: 81518
-    engagement: 270
-    commentsToLikes: 0.012537
+    followers: 74379
+    engagement: 190
+    commentsToLikes: 0.030693
     id: ck5zvi34j4a340i14njv2lcvg
     verified: false
-    hashtags: "#mood, #moodoftheday, #volare, #ceskiellolovers"
-  - username: "alexdepasestores"
+    hashtags: "#cabriochallenge, #ceskiello, #cabrio, #imarchiati"
+  - username: "trap_messaggi"
     fullname: >-
-      Or Noir Tattoo Gallery
+      Frasi Dalle Migliori Canzoni
+    bio: >-
+      ✍🏻 Frasi dalle migliori CANZONI✍🏻 FOUNDER: @iamsenex 🙋🏻‍♂️ — 💰 CLICCA QUI SE SEI UN RAPPER/TRAPPER EMERGENTE💰 — 👇🏻👇🏻👇🏻
     location: "Italy"
-    followers: 87127
-    engagement: 114
-    commentsToLikes: 0.008726
-    id: ck600xflxegdb0i14w8yyrzah
+    followers: 38420
+    engagement: 712
+    commentsToLikes: 0.037131
+    id: ck9hcfyqil7bk0j78hfqwnkl3
     verified: false
-    hashtags: "#ornoir, #tattooproject, #designtattoo, #berlin"
+    hashtags: "#tatuaggio, #insieme, #tivogliobene, #pensierieparole"
+  - username: "kartoucha_official"
+    fullname: >-
+      K-rtoucha 🇹🇳Tunis 🇨🇭Zürich
+    bio: >-
+      Rapper • Songwriter Booking & Business :kartouchabooking@gmail.com Kartoucha - ” Allez oh” clip video out now!
+    location: "Italy"
+    followers: 7950
+    engagement: 488
+    commentsToLikes: 0.037337
+    id: ck5hef8kwslhn0i114rfvfc7n
+    verified: false
+    hashtags: "#love, #video, #bro, #arab"
 ---

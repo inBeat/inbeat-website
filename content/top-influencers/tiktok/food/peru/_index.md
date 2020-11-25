@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Peru In 2020
 description: >-
-  Find top food TikTok influencers in Peru in 2020. Most popular hashtags: #food #coronavirus #quarantine #cuarentena.
+  Find top food TikTok influencers in Peru in 2020. Most popular hashtags: #parati #peru #fyp #trend.
 platform: TikTok
+hits: 23
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in Peru for you to contact.
 profiles:
-  - username: "lacuchara_recetas"
-    fullname: >-
-      Jean albarracin
-    location: "Peru"
-    followers: 9360
-    engagement: 694
-    commentsToLikes: 0.031840
-    id: ckacaxokzh99c0i78w97qac7h
-    verified: false
-    hashtags: "#xyzbca, #dalgona, #vinagreta, #albumlookalike"
   - username: "elfoodieloo"
     fullname: >-
       FOODIELOO
+    bio: >-
+      COCINO Y TE RECOMIENDO RESTAURANTES EN 🇵🇪! Instagram 📸 : @elfoodielo
     location: "Peru"
-    followers: 5559
-    engagement: 294
-    commentsToLikes: 0.022070
+    followers: 47500
+    engagement: 355
+    commentsToLikes: 0.014484
     id: ckafu2b0f8chr0i78gz21kv1p
     verified: false
-    hashtags: "#crunch, #sandwich, #oreos, #mani"
-  - username: "momasoslatinos"
+    hashtags: "#fyp, #foodieperu, #foodies, #pork"
+  - username: "lacuchara_recetas"
     fullname: >-
-      MomasosLatinos
+      Jean albarracin
+    bio: >-
+      Recetas al estilo La Cuchara 🥄🇵🇪 IG: @lacuchara_recetas 👍🏼 #quedateencasa
     location: "Peru"
-    followers: 15811
-    engagement: 1190
-    commentsToLikes: 0.059852
-    id: ckai3fd3zjn8e0i78mrtiaitz
+    followers: 20900
+    engagement: 666
+    commentsToLikes: 0.029830
+    id: ckacaxokzh99c0i78w97qac7h
     verified: false
-    hashtags: "#baile, #fifa, #party, #kratos"
-  - username: "rafangel.md"
+    hashtags: "#tiktok, #cocina, #recetas, #food"
+  - username: "cuantocuesta.pe"
     fullname: >-
-      user3466352526231
+      Sophia Ponce
+    bio: >-
+      Periodista - Giornalista 🇵🇪 🇮🇹 🎙 Spotify : Aprende castellano con cultura
     location: "Peru"
-    followers: 4435
-    engagement: 878
-    commentsToLikes: 0.031033
-    id: ck9m0zzqrcrzj0j78u3nx6904
+    followers: 5544
+    engagement: 452
+    commentsToLikes: 0.023385
+    id: ckcdrvzyid2g20j23igx0gz7d
     verified: false
-    hashtags: "#bike, #dream, #boda, #fear"
-  - username: "thedobieteam"
+    hashtags: "#foodieperu, #aprendeespa, #yomequedoencasa, #tiktok"
+  - username: "oddy.art"
     fullname: >-
-      The Dobie Team
+      🍜𝐀𝐧𝐝𝐫𝐞𝐚🌱
+    bio: >-
+      Stop hating 📺𝐒𝐓/𝐓𝐔𝐀/𝐇𝐏/𝐅𝐋𝐀𝐒𝐇🎡 𝐚𝐫𝐫𝐨𝐰𝐯𝐞𝐫𝐬𝐞
     location: "Peru"
-    followers: 396142
-    engagement: 1567
-    commentsToLikes: 0.005118
-    id: ck8qebeswrw940j78xyo9y795
+    followers: 120700
+    engagement: 2226
+    commentsToLikes: 0.028363
+    id: ckdc6mxyehgn80j23z6q5i7jq
     verified: false
-    hashtags: "#esocreoyo, #fliptheswitch, #welcomehome, #happyeaster"
+    hashtags: "#foryourpage, #satisfying, #slime, #girls"
+  - username: "anggelo_raicovi"
+    fullname: >-
+      anggelo_raicovi
+    bio: >-
+      IG: @anggelo_raicovi
+    location: "Peru"
+    followers: 82200
+    engagement: 870
+    commentsToLikes: 0.040499
+    id: ckbqulj8lezfw0j23zri83f0r
+    verified: false
+    hashtags: "#peru, #cuerpofitness, #comidatiktok, #subirdepeso"
   - username: "tolyangasilin"
     fullname: >-
       tolyangasilin
+    bio: >-
+      Instagram: tolyan_gasilin On stay in Lima-Peru.
     location: "Peru"
-    followers: 2498
-    engagement: 480
-    commentsToLikes: 0.030499
+    followers: 2757
+    engagement: 1150
+    commentsToLikes: 0.036694
     id: ck9e3tu7el37k0j78l208gye8
     verified: false
-    hashtags: "#likes, #sweetdreams, #10toeschallenge, #home"
-  - username: "luanabarron"
+    hashtags: "#model, #peru, #like, #skate"
+  - username: "unaufhaltsameslachen"
     fullname: >-
-      Luana 
+      Dumusstesnichtwi
+    bio: >-
+      Du musst es nicht wissen
     location: "Peru"
-    followers: 298421
-    engagement: 981
-    commentsToLikes: 0.013489
-    id: ck9f1uw5ma82r0j786jf8cz6j
+    followers: 12500
+    engagement: 1838
+    commentsToLikes: 0.015803
+    id: ckbksmb6oni4y0j23perk0n35
     verified: false
-    hashtags: "#foryourpage, #food, #makemefamous, #coronavirus"
-  - username: "howwtobeee"
+    hashtags: "#bear, #ballet, #royalballet, #london"
+  - username: "johananana"
     fullname: >-
-      How to be
+      Johanna De La Cruz 
+    bio: >-
+      ✨18 años✨ 📍Lima, Peru📍 🔔Click the bell 🔔 📸 ig: johanaadelacruz📸
     location: "Peru"
-    followers: 20839
-    engagement: 1451
-    commentsToLikes: 0.004033
-    id: ck83zb07kzace0j78xfdzxcwr
-    verified: false
-    hashtags: "#per, #new, #castigado, #food"
-  - username: "loloknate"
+    followers: 1300000
+    engagement: 1529
+    commentsToLikes: 0.009212
+    id: ckal76tate0ce0i78lzfy8siv
+    verified: true
+    hashtags: "#trend, #comedia, #fyp, #parati"
+  - username: "malusalcedo6"
     fullname: >-
-      loloknate
+      Malu Salcedo
+    bio: >-
+      CEO del anyways #opa💛 🇵🇪 Perú 🇵🇪
     location: "Peru"
-    followers: 19297
-    engagement: 588
-    commentsToLikes: 0.017615
-    id: ck8j6d3ju97o50j78zpwv2dnp
+    followers: 351400
+    engagement: 1893
+    commentsToLikes: 0.015903
+    id: ckaihu98j7kob0i78lviwuhhp
     verified: false
-    hashtags: "#duet, #kpop, #gangnam, #osaka"
-  - username: "ecosama"
+    hashtags: "#storytime, #peru, #viral, #halloween"
+  - username: "momasoslatinos"
     fullname: >-
-      Ecosama
+      MomasosLatinos
+    bio: >-
+      Tratando de mejorar TikTok con buenos memes (Molestamos a todos por igual) 🚫😡.
     location: "Peru"
-    followers: 8457
-    engagement: 598
-    commentsToLikes: 0.006566
-    id: ck9gmgja0sb950j78f00t701o
+    followers: 30400
+    engagement: 1407
+    commentsToLikes: 0.040203
+    id: ckai3fd3zjn8e0i78mrtiaitz
     verified: false
-    hashtags: "#popcorn, #paratichallenge, #reversa, #delish"
+    hashtags: "#trending, #dance, #xyzcba, #pets"
 ---

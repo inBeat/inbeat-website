@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Berlin In 2020
 description: >-
-  Find top rappers Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #rapper #live #hiphop.
+  Find top rappers Instagram influencers in Berlin in 2020. Most popular hashtags: #deutschrap #berlin #rap #rapper.
 platform: Instagram
+hits: 38
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 38 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "benrashots"
+  - username: "itsdyma"
     fullname: >-
-      Benjamin Rapp
+      itsdyma
+    bio: >-
+      📍berlin ￼🐣 @_nofriendsclub ⭐️ tiktok (1,4 Mio) 📬 „Postfach 31 04 51, 10634 Berlin“ ✉️ geschäftliche Anfragen: mgmt.dyma@gmail.com
     location: "Germany"
-    followers: 26982
-    engagement: 389
-    commentsToLikes: 0.074950
-    id: ck13a2ke3obes0i19orrcfzss
+    followers: 271826
+    engagement: 711
+    commentsToLikes: 0.018532
+    id: ck9hcta0omvlt0j78guvod29u
     verified: false
-    hashtags: "#way2ill, #visualart, #agameoftones, #highsnobiety"
+    hashtags: "#itsdyma, #deutschrap, #rapper, #berlin"
+  - username: "aello.offiziell"
+    fullname: >-
+      Ällo
+    bio: >-
+      🔞⬇️ YOUTUBE⬇️🔞
+    location: "Germany"
+    followers: 7514
+    engagement: 704
+    commentsToLikes: 0.224077
+    id: ck5hg8bi91gjs0i11k24nigmq
+    verified: false
+    hashtags: "#bonezmc, #eno, #germanrap, #germany"
   - username: "sido_shawnstein"
     fullname: >-
       Sido
+    bio: >-
+      Sido Sigi HipHop Rapper Deutschrap Rap King Berlin Aggroberlin Fan Seite von @shawnstein
     location: "Germany"
-    followers: 21225
-    engagement: 454
-    commentsToLikes: 0.022451
+    followers: 28094
+    engagement: 423
+    commentsToLikes: 0.015886
     id: ckap4jdr07mqx0i78xg7wx3o6
     verified: false
-    hashtags: "#youtube"
-  - username: "fabianstuertz"
+    hashtags: "#newalbum, #iukm, #sido, #hiphop"
+  - username: "bandita34"
     fullname: >-
-      Fabian Stürtz
+      Bandita34
+    bio: >-
+      🔻💎 LINK ZU „FRESH“ 💎🔻
     location: "Germany"
-    followers: 5128
-    engagement: 373
-    commentsToLikes: 0.013217
-    id: ck5cbmxkmfro70i116bupk8lx
+    followers: 2328
+    engagement: 1904
+    commentsToLikes: 0.074603
+    id: ckaosg3n6rg6c0i78lng3dqq2
     verified: false
-    hashtags: "#viagem, #ocean, #poetryslam, #atmosphere"
-  - username: "bzberlin"
+    hashtags: "#video, #photography, #support, #gangster"
+  - username: "wilson_53_"
     fullname: >-
-      B.Z.-Berlin
+      Wilson53
+    bio: >-
+      ▪︎Musiker▪︎Kontakt: LegendEntertainment@gmx.de 👇 Jetzt die neue Single "Zu spät" streamen 👇
     location: "Germany"
-    followers: 21701
-    engagement: 473
-    commentsToLikes: 0.080419
-    id: ck5hgmk8o3l9e0i116k78dv6z
-    verified: true
-    hashtags: "#teamcapi, #coronahelden, #teslafabrik, #lesbisch"
-  - username: "miki_malochersohn"
+    followers: 8151
+    engagement: 930
+    commentsToLikes: 0.124583
+    id: ck8t6u9v7epn10j78schws8dk
+    verified: false
+    hashtags: "#germanrap, #hiphop, #instamusic, #newcomer"
+  - username: "47_a.agt"
     fullname: >-
-      M.I.K.I
+      
+    bio: >-
+      @fero47/ Management 🎼🎼 •Ich bin Niemandem was schuldig ausser dem Herrscher aller Welten☝🏾🙏🏽🕋 ‼️⬇️Jetzt „ Alles Cool “ Streamen ⬇️‼️
     location: "Germany"
-    followers: 22697
-    engagement: 556
-    commentsToLikes: 0.029667
-    id: ck5zxn1gl8bdj0i14veuienng
-    verified: true
-    hashtags: "#herzschmerz, #gemeinsam, #stoneisland, #alleskomisch"
+    followers: 7602
+    engagement: 922
+    commentsToLikes: 0.080978
+    id: ck13av050sbot0i19z55558aa
+    verified: false
+    hashtags: "#elhamdulillah, #ffm, #dortmund, #rap"
   - username: "ayben"
     fullname: >-
       Ayben
+    bio: >-
+      Contact:Berfu Merve Bolulu @berfumrvbolulu Mail:bmb@bmbcreative.co Nightwriter🦉 Moonwalker🌙 Rapper👊🎤 #AybenBaşkan "OYUN PARKI" Official Video Out Now
     location: "Germany"
-    followers: 120806
-    engagement: 881
-    commentsToLikes: 0.016054
+    followers: 118218
+    engagement: 904
+    commentsToLikes: 0.020096
     id: ck5hsncfgwvke0i11755k28u5
     verified: true
-    hashtags: "#karanl, #breakthesilence, #ayband, #milyonbeachfest"
+    hashtags: "#frankpaul, #berlin, #pinktober, #womenempoweringwomen"
+  - username: "ansen_stabilovic"
+    fullname: >-
+      Ａｎｓｅｎ  🍒
+    bio: >-
+      ｄｉｅｓｅ ｒａｐｐｅｎｄｅ Ｚａｈｎäｒｚｔｉｎ 🎙 Ｒａｐｐｅｒ／Ｓｉｎｇｅｒ 📝 Ｓｏｎｇｗｒｉｔｅｒ 📀Ｉｎｄｅｐｅｎｄｅｎｔ Ａｒｔｉｓｔ 🎥 ＴＶ Ｈｏｓｔ 💍 @prestorious ————————— Ｓｐｏｔｉｆｙ ⬇️⬇️⬇️⬇️⬇️
+    location: "Germany"
+    followers: 13857
+    engagement: 1195
+    commentsToLikes: 0.172194
+    id: ck6u1v659o2rt0j710381vb3w
+    verified: true
+    hashtags: "#songwriter, #allescoolchallenge, #xiaomi, #rapperin"
   - username: "drobdynamic"
     fullname: >-
       Drob Dynamic
+    bio: >-
+      GOD First🙏 (Jesus Follower) Der Gipsy King 👑 Rapper & Freestyler 🎤 Songwriter & Rap-Coach 🎵 Die Single "KOTTIWOOD" Out Now
     location: "Germany"
-    followers: 6521
-    engagement: 964
-    commentsToLikes: 0.024802
+    followers: 6268
+    engagement: 702
+    commentsToLikes: 0.060262
     id: ck5ce7iykkhla0i11yoegqsb7
     verified: false
-    hashtags: "#jebemti, #2020kannkommen, #happy, #berlin"
-  - username: "thelifeofcurly"
+    hashtags: "#gipsyking, #hollywood, #ajdebre, #vegas"
+  - username: "rapper_meme"
     fullname: >-
-      Curly
+      🦁 Rapper Meme - Das Original 🦁
+    bio: >-
+      • Folgt für die wildesten Deutschrap Memes 💯 • DM für Promo 📩 • Täglich neue Beiträge!
     location: "Germany"
-    followers: 10298
-    engagement: 465
-    commentsToLikes: 0.037365
-    id: ck6trmri1zvxv0j71ty7scqto
-    verified: true
-    hashtags: "#venicebeachtour, #badhairday, #precorona, #sorrynotsorry"
-  - username: "rillaoffiziell"
-    fullname: >-
-      RILLA
-    location: "Germany"
-    followers: 9639
-    engagement: 706
-    commentsToLikes: 0.045280
-    id: ck6tlvvgt6qdj0j71jgcbf4hv
+    followers: 31697
+    engagement: 1941
+    commentsToLikes: 0.034499
+    id: ck9hce9j3kyy70j78oy4ec00o
     verified: false
-    hashtags: "#beachlife, #masterofceremonies, #nnocmedia, #musik"
-  - username: "yassofficial040"
-    fullname: >-
-      Yass // Yasmin K
-    location: "Germany"
-    followers: 5811
-    engagement: 942
-    commentsToLikes: 0.068932
-    id: ck6tvfghslxp50j71kbpwtdh5
-    verified: false
-    hashtags: "#photographer, #nightout, #shootingday, #backwhite"
+    hashtags: "#berlinlebt, #allesodernixrecords, #aon, #mertabi"
 ---

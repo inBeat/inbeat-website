@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Poland In 2020
 description: >-
-  Find top beauty Instagram influencers in Poland in 2020. Most popular hashtags: #konkurs #rozdanie #summervibes #eyemakeup.
+  Find top beauty Instagram influencers in Poland in 2020. Most popular hashtags: #makeup #polishgirl #polskadziewczyna.
 platform: Instagram
+hits: 2180
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 2180 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "luv.goldvv"
+  - username: "inesbeautypl"
     fullname: >-
-      𝓦𝓲𝓴𝓽𝓸𝓻𝓲𝓪 𝓛𝓾𝓲𝔃𝓪
+      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+    bio: >-
+      𝓐𝓰𝓮41|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
     location: "Poland"
-    followers: 3568
-    engagement: 2973
-    commentsToLikes: 0.135235
-    id: ck8t3wipk4qwe0j78ybjyjv8f
+    followers: 36614
+    engagement: 763
+    commentsToLikes: 0.851104
+    id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#coffeelover, #prezent, #missyou, #pretty"
-  - username: "majlenmajli"
+    hashtags: "#niechsiedziejenajlepiej, #pozytywnabzdurka, #ialreadysawoso"
+  - username: "nataliakacprzyk_"
     fullname: >-
-      Milena Tyszka
+      NATALIA KACPRZYK
+    bio: >-
+      #fashion | #beauty | #lifestyle 📍Katowice/Siewierz, Poland 💌 Collab:nataliakacprzyk26@gmail.com
     location: "Poland"
-    followers: 6595
-    engagement: 1844
-    commentsToLikes: 0.109570
-    id: ck8tarzhwstrt0j78yjkf9s5x
+    followers: 12420
+    engagement: 1186
+    commentsToLikes: 0.127495
+    id: ckaoswanmtb0u0i78xldlausi
     verified: false
-    hashtags: "#swimmingsuit, #polishmodel, #fashionblogger, #zdjeciednia"
-  - username: "makeup_by_miish"
+    hashtags: "#photoshootday, #hairgoal, #hairstyleoftheday, #zakopane2020"
+  - username: "beata_chmielowska_olech"
+    fullname: >-
+      Beata Chmielowska-Olech
+    bio: >-
+      #tvpresenter #journalist #lifestyle #events #businessmeetings #tv #beautycare #educationalproject #music #management 📩b.chmielowskaolech@gmail.com
+    location: "Poland"
+    followers: 13983
+    engagement: 1103
+    commentsToLikes: 0.076755
+    id: ck6tpvvgqnj0e0j71miyul8gv
+    verified: false
+    hashtags: "#teleexpress, #badzmyrazem, #teleexpressextra, #tvp2"
+  - username: "nslowinska"
+    fullname: >-
+      Natalia Słowińska
+    bio: >-
+      • beauty • fashion • buissness • books • travel • 📩 n.slowinska98@gmail.com 💸 Pomagam innym zarabiać w wolnych chwilach 👇🏼 Dołącz do mojego zespołu
+    location: "Poland"
+    followers: 6089
+    engagement: 1143
+    commentsToLikes: 0.098501
+    id: ck8t5cz2j9p2b0j78k72qpi14
+    verified: false
+    hashtags: "#wiosna, #poland, #nextlevel, #podrozemaleiduze"
+  - username: "miish.beauty"
     fullname: >-
       Dominika Mierzwa
+    bio: >-
+      MAKEUP | BEAUTY | TUTORIALS ♥️ 💄 Professional MUA | Beauty Blogger♥️ 💌 Collab: DM or miish.makeup@gmail.com #muapl #makeup #morpheglamfam GLAMFAM1119
     location: "Poland"
-    followers: 8964
-    engagement: 1451
-    commentsToLikes: 0.178465
+    followers: 9923
+    engagement: 1064
+    commentsToLikes: 0.131009
     id: ck14ji76mkh520i199ms0ec8h
     verified: false
-    hashtags: "#abhprsearch, #allmodernmakeup, #meltcosmetics, #carnivalpalette"
-  - username: "oliwia_bugala"
+    hashtags: "#inssta, #photooftheday, #sfxmakeup, #makijaz"
+  - username: "szanellaofc"
     fullname: >-
-      Oliwia Bugała CheersMyHeels
+      Kamila Bytomska
+    bio: >-
+      ✨ drawing • lifestyle • beauty • travel 🐼 Ambasadorka @skin79polska szanella10 -10% 🎥 YT:+312K friends ☎️ LIKEE:+145K friends 💌 szanella18@gmail.com
     location: "Poland"
-    followers: 96494
-    engagement: 1328
-    commentsToLikes: 0.162829
-    id: ck5hkvrgxj4dm0i11bjopwk8q
+    followers: 30238
+    engagement: 709
+    commentsToLikes: 0.042042
+    id: ck5bxd3fenhpe0i113heps4g5
     verified: false
-    hashtags: "#moodboard, #ootdfashion, #fashiondetails, #hairaccessories"
-  - username: "deynn"
+    hashtags: "#womanfashion, #polskadziewczyna, #energy, #foxyeyes"
+  - username: "olaascaro"
     fullname: >-
-      M A R I T A  SÜRMA  MAJEWSKA
+      Ola Ascaro
+    bio: >-
+      i prefer tea over coffee & inner beauty over looks 📍 Poland
     location: "Poland"
-    followers: 1595287
-    engagement: 1301
-    commentsToLikes: 0.027892
-    id: ck15tg5bxhx1k0i1991hhfxlz
+    followers: 33357
+    engagement: 503
+    commentsToLikes: 0.077003
+    id: ck15tcsl7hgpq0i19d169ysk1
+    verified: false
+    hashtags: "#makeuptutorialvideo, #sistersquad, #makijazkrokpokroku, #beautycreations"
+  - username: "gajanagalstjan"
+    fullname: >-
+      Gajana Galstjan
+    bio: >-
+      💉Kosmetologia pielęgnacyjna i medycyna estetyczna @beautygayane 🇦🇲Armenian/Polish🇵🇱 📩gajanagalstjan@gmail.com 🎬TVP TV Host 🌍Travelling 💫Lifestyle
+    location: "Poland"
+    followers: 27557
+    engagement: 794
+    commentsToLikes: 0.041092
+    id: ck6tpueosn20i0j713s14y72c
+    verified: false
+    hashtags: "#gajanagalstjan"
+  - username: "madzia.official"
+    fullname: >-
+      MAGDA WOJCIK
+    bio: >-
+      💄Fashion&Beauty Influencer🇵🇱🇬🇧 📧Manager: dominik@db4.pl 💌Collabs: glittermadzia@gmail.com 👁BigBrother Winner 🌈PeaceLove&Glitter 🎵TikTok: glittermadzia
+    location: "Poland"
+    followers: 270484
+    engagement: 628
+    commentsToLikes: 0.022571
+    id: ck135hpk61ha00i19gek2ndk9
     verified: true
-    hashtags: "#melt, #transformation, #leonardodicaprio, #siedzewdomu"
-  - username: "klatex"
+    hashtags: "#fashion, #pinkaesthetic, #makeuplooks, #mykonos"
+  - username: "nikkisetnik"
     fullname: >-
-      KLAUDIA TARKA
+      Nikki Setnik
+    bio: >-
+      🌿 Beauty / Lifestyle / Travel 🌿 💌 Kontakt - nikolsetnik@o2.pl / DM 💍- @robert.cieslar
     location: "Poland"
-    followers: 113124
-    engagement: 998
-    commentsToLikes: 0.043876
-    id: ck5c9fnukbckz0i11nby5qngw
+    followers: 31695
+    engagement: 456
+    commentsToLikes: 0.106803
+    id: ck15qb5z21zv40i19tpe5behf
     verified: false
-    hashtags: "#paletkacieni, #czerwoneusta, #sztucznerzesy, #piel"
-  - username: "siulka.pl"
-    fullname: >-
-      ◽SIULKA◽
-    location: "Poland"
-    followers: 5228
-    engagement: 1662
-    commentsToLikes: 0.084879
-    id: ck8t99kchnb6n0j78wchnxhan
-    verified: false
-    hashtags: "#lovepalette, #pinkseries, #glamshopbohema, #partymakeup"
-  - username: "carolinagawron"
-    fullname: >-
-      Carolina Gawron
-    location: "Poland"
-    followers: 17416
-    engagement: 1480
-    commentsToLikes: 0.064412
-    id: ck5cewrm5lvb40i11ace9yf12
-    verified: false
-    hashtags: "#looks, #flowers, #womenstyle, #eyeglasses"
-  - username: "agnieszka.bokotaa"
-    fullname: >-
-      Aga
-    location: "Poland"
-    followers: 22501
-    engagement: 852
-    commentsToLikes: 0.091875
-    id: ck14j07d7hywz0i196nlbxqm4
-    verified: false
-    hashtags: "#koszulka, #okularyprada, #puma, #spodnie"
-  - username: "klaudia_cukierpuder"
-    fullname: >-
-      KLAUDIA_CUKIERPUDER
-    location: "Poland"
-    followers: 65658
-    engagement: 613
-    commentsToLikes: 0.074795
-    id: ck0udksxmje6g0i19nktkpvoc
-    verified: false
-    hashtags: "#makeupvideos, #mondaymorning, #springoutfit, #makeuplife"
+    hashtags: "#chorzow, #polskadziewczyna, #polska, #polskamarka"
 ---

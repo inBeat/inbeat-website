@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top barbers Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #weekendvibes #winetime #coronavirus.
+  Find top barbers Instagram influencers in San Francisco in 2020. Most popular hashtags: #barbershopconnect #barber #sanfrancisco #faded.
 platform: Instagram
+hits: 10
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 10 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
   - username: "cakenisrandy"
     fullname: >-
       Randy Tagle ✪
+    bio: >-
+      @cakencuts Barbershop Owner San Francisco’s celebrity barber
     location: "United States"
-    followers: 16917
-    engagement: 464
-    commentsToLikes: 0.053075
+    followers: 17361
+    engagement: 399
+    commentsToLikes: 0.045972
     id: ck5zm5of9ly480i143pgiew53
     verified: false
-    hashtags: "#trickdate, #16yearslater, #kobebryant, #goat"
+    hashtags: "#sanfranciscobarbershop, #babb, #bayareabarberbrotherhood, #cakencuts"
   - username: "tee_dabarber"
     fullname: >-
       TEE 👉🏾(THE BARBER) ✪
+    bio: >-
+      •San Francisco 49ers💈 •Oakland Raiders💈 •CFP NATIONAL CHAMPIONSHIP 💈 •PHILIPPIANS 4:13🙏🏾 •SUPER BOWL LIV 💈
     location: "United States"
-    followers: 15991
-    engagement: 377
-    commentsToLikes: 0.082855
+    followers: 15815
+    engagement: 349
+    commentsToLikes: 0.079830
     id: ck6tk5lwu41op0j71id9wvf80
     verified: false
-    hashtags: "#haircutsformen, #balenciaga, #magazine, #interview"
-  - username: "fethexiii"
+    hashtags: "#barberlife, #andisnation, #oaklandbarber, #faded"
+  - username: "blendgod"
     fullname: >-
-      Y O U N G   F E ✂️
+      Luis Solis
+    bio: >-
+      • Professional Barber • Haircuts $40+ For appointments, press “Book” below!
     location: "United States"
-    followers: 133051
-    engagement: 293
-    commentsToLikes: 0.016160
-    id: ck5c6gwqy5exl0i11g272ks5g
+    followers: 34558
+    engagement: 109
+    commentsToLikes: 0.036690
+    id: ck5zm5rqflybq0i141bbmtg69
     verified: false
-    hashtags: "#funnymemes, #sanfranciscobarber, #coronavirus, #howtocuthair"
-  - username: "bearded_selfie"
+    hashtags: "#hairtransformation, #faded, #sharpfade, #wavecheck"
+  - username: "worldclassbarbering"
     fullname: >-
-      Bearded Selfie
+      ♛WorldClassBarbering♛FL Barber
+    bio: >-
+      💈 Best barbers in the game 💲Tag @worldclassbarbering and use #worldclassbarbering for s/o and reposts❗️ 🔥 Hottest haircuts and styles ✂️ Features
     location: "United States"
-    followers: 241928
-    engagement: 319
-    commentsToLikes: 0.013199
-    id: ck6u5i6k69rzb0j71mqi9qun3
+    followers: 41262
+    engagement: 399
+    commentsToLikes: 0.040523
+    id: ck5c6es9e5afb0i117ca8hb6w
     verified: false
-    hashtags: "#madrid, #tampa, #teeth, #naturelover"
+    hashtags: "#hairtransformation, #ukbarbers, #denverbarber, #babylisspro"
+  - username: "john_gitthens"
+    fullname: >-
+      John Gitthens
+    bio: >-
+      - Appointments Only - 🚨Click “BOOK” below to schedule your next haircut💈 👇🏼
+    location: "United States"
+    followers: 16891
+    engagement: 537
+    commentsToLikes: 0.027045
+    id: ck0txtrxbke5w0i19anj6bvlp
+    verified: false
+    hashtags: "#crispy, #wahldetailer, #2020, #sanfrancisco"
+  - username: "windycityboi209"
+    fullname: >-
+      Barber Allan✂💈💺
+    bio: >-
+      @barbernova_ Ambassadors sponsored by @hairillusionllc Haircuts $40 and up Founder of @LosBarberosclothing CASSANDRA ORDAZ💍
+    location: "United States"
+    followers: 37127
+    engagement: 243
+    commentsToLikes: 0.018128
+    id: ck5c6gtkx5eq70i11alvpvm2z
+    verified: false
+    hashtags: "#barbershopconnect, #barbersleague, #shave, #barberlife"
+  - username: "diego_djdgaf"
+    fullname: >-
+      Diego Elizarraras  ✪
+    bio: >-
+      •Owner @HOUSEOFFADE •CEO @STRANDTHEBRAND •Office @STRUCTUREDTLA •Education @THECONCEPTACADEMY
+    location: "United States"
+    followers: 148082
+    engagement: 115
+    commentsToLikes: 0.054477
+    id: ck6tp1jkyhbfg0j71af8ewr3i
+    verified: false
+    hashtags: "#structuredtla, #portland, #grindmode, #newyork"
   - username: "kindakrisp"
     fullname: >-
-      💈 Barber Stylist Pedro 💈
+      Krisp 🎨
+    bio: >-
+      20 Orbits
     location: "United States"
-    followers: 3423
-    engagement: 7073
-    commentsToLikes: 0.084832
+    followers: 4553
+    engagement: 7789
+    commentsToLikes: 0.066267
     id: ckaovtmqx643h0i78598jklye
     verified: false
-    hashtags: "#haircolor, #satisfying, #wigs, #hairstyles"
-  - username: "winowanderlust"
+    hashtags: "#barberlove, #barbers, #barberfades, #newyorkbarber"
+  - username: "jaguarcontainers"
     fullname: >-
-      Sarah // SF Wine Lover
+      Jaguar Containers
+    bio: >-
+      . 🔥Top 10 Most Expensive Cigars🔥 . . CLICK👇 .
     location: "United States"
-    followers: 10216
-    engagement: 515
-    commentsToLikes: 0.090386
-    id: ckaowc9wo8ahi0i785nb2fuhq
+    followers: 53466
+    engagement: 326
+    commentsToLikes: 0.010263
+    id: ck6tz8edw87jx0j715h63gb21
     verified: false
-    hashtags: "#roseofpinotnoir, #memories2019, #winelovers, #memorialday"
-  - username: "napavalleytip"
+    hashtags: "#homesweethome, #trendy, #cabinvibes, #shippingcontainerhomes"
+  - username: "takeospikes51"
     fullname: >-
-      Isabel C. Freeman
+      Takeo Spikes (HOF Nominee)
+    bio: >-
+      🦅Auburn Athlete to NFL Vet to MBA Living My Dreams | 📸Photographer + Author + Podcaster + Producer + Motivator + Dad 🎙Listen to Me on @thebtmpodcast
     location: "United States"
-    followers: 18829
-    engagement: 271
-    commentsToLikes: 0.108800
-    id: ck15ugribn3xq0i19cnd4q9zd
-    verified: false
-    hashtags: "#blessed, #sonomablogger, #babynoah, #wine"
-  - username: "thebritwilliams"
-    fullname: >-
-      Brittany Williams
-    location: "United States"
-    followers: 15581
-    engagement: 1038
-    commentsToLikes: 0.039820
-    id: ck0w1e4beivxd0i193hrtfpxi
-    verified: false
-    hashtags: ""
-  - username: "xbigwesx"
-    fullname: >-
-      WES STAUCET
-    location: "United States"
-    followers: 34099
-    engagement: 374
-    commentsToLikes: 0.061204
-    id: ck0w4qc2kzvff0i1911ve2kyh
-    verified: false
-    hashtags: "#beards, #lesbian, #salon, #pixie"
-  - username: "jaketurpin"
-    fullname: >-
-      Jake Turpin
-    location: "United States"
-    followers: 12932
-    engagement: 1650
-    commentsToLikes: 0.023899
-    id: ck6uecq8sq5ie0j71hsd3qirn
-    verified: false
-    hashtags: "#2k19, #ecosapartner, #sleepwithecosa"
+    followers: 39301
+    engagement: 136
+    commentsToLikes: 0.079972
+    id: ckaorw54tp0pr0i78sutp2ko3
+    verified: true
+    hashtags: "#love, #blackfathers, #mixitup, #wareagle"
 ---

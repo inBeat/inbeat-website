@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Ankara In 2020
 description: >-
-  Find top food Instagram influencers in Ankara in 2020. Most popular hashtags: #food #photooftheday #ankara #pasta.
+  Find top food Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #food #istanbul #izmir.
 platform: Instagram
+hits: 106
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 106 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
-  - username: "yolduslerim"
+  - username: "nesihtunc0101"
     fullname: >-
-      AYKUT ÇOBAN
+      Nesih Turunç
+    bio: >-
+      Nesih Turunç ➕S1F1RB1R ➕
     location: "Turkey"
-    followers: 6814
-    engagement: 1090
-    commentsToLikes: 0.032044
-    id: ckaot6hkpulg10i78qcehseuc
+    followers: 59852
+    engagement: 582
+    commentsToLikes: 0.008873
+    id: ck5ch8nf9qaxe0i11ae4hdao4
     verified: false
-    hashtags: "#asya, #shenzhen, #interrailturkiye, #instago"
-  - username: "lezzetitadinda"
+    hashtags: "#soka, #karde, #adana, #dost"
+  - username: "seymatan_collection"
     fullname: >-
-      Gülşah'ın mutfağı
+      Şeyma Tantalkaya Büyükkuşoğlu
+    bio: >-
+      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
     location: "Turkey"
-    followers: 19234
-    engagement: 444
-    commentsToLikes: 0.071260
-    id: ckap7r541l7630i78ig7do13w
+    followers: 12132
+    engagement: 779
+    commentsToLikes: 0.029987
+    id: ck15qpkgw40wk0i197f0lsby3
     verified: false
-    hashtags: "#cekilis, #foodie, #despacitopastas, #ucak29staryelda"
-  - username: "biranneblogu"
+    hashtags: "#izmir, #bag, #paris, #crosstich"
+  - username: "tadimnotlari"
     fullname: >-
-      gul
+      tadimnotlari
+    bio: >-
+      📌Adanalı 📝Yemek ve Seyahat Aşığı 🏊Otel ve Yemek Önerileri 👇Youtube kanalım 👇
     location: "Turkey"
-    followers: 30149
-    engagement: 391
-    commentsToLikes: 0.519177
-    id: ck15pvu08zvxt0i190bmy21nz
+    followers: 305861
+    engagement: 128
+    commentsToLikes: 0.020946
+    id: ck0vzy3pvbg950i19mw48lh9j
     verified: false
-    hashtags: "#enlezzetlitarifler, #yemekrium, #alisveris, #sunumduragi"
+    hashtags: "#turkey, #istanbul, #denizli, #sucukd"
+  - username: "ankaraetkinlik"
+    fullname: >-
+      Ankara Etkinlik ®™
+    bio: >-
+      Tescilli Etkinlik Markası 🌟 Influencer (2013) 🌟 Dijital Medya (2004) 🌟 Blogger (2004)
+    location: "Turkey"
+    followers: 72121
+    engagement: 201
+    commentsToLikes: 0.158003
+    id: ck0u6kgjj25gl0i1933eqbbi0
+    verified: false
+    hashtags: "#ankaraetkinlikg, #ankarakahvalt, #ankaraetkinlik, #ankaradaneyenir"
+  - username: "dml_ozdgn"
+    fullname: >-
+      Damla
+    bio: >-
+      -15 kg 😱 Özlenen lezzetlerin sağlıklı ve fit tarifleri burda👇 Yemek yemeyi ve fotoğrafını çekmeyi seviyorum🥰 dmlozdgn@icloud.com 📩
+    location: "Turkey"
+    followers: 11156
+    engagement: 481
+    commentsToLikes: 0.170981
+    id: ckaosf9z0rd7q0i78raonqcks
+    verified: false
+    hashtags: "#fitkahvalt, #healthydinner, #healthydessert, #healthyrecipes"
+  - username: "gezginyiyor"
+    fullname: >-
+      Gezgin Yiyor
+    bio: >-
+      📌Yemek, Otel, Mekan😊 📢Efsane Geri Döndü😎 😍Yaşasın Yemek Yemek❗️ 🔂Reklam ve tanıtım için DM 🗳
+    location: "Turkey"
+    followers: 257231
+    engagement: 79
+    commentsToLikes: 0.012863
+    id: ck0vwja33u2wo0i19xwrc9ug0
+    verified: false
+    hashtags: "#baruthanepilavc, #tatl, #lezzet, #ankara"
+  - username: "bygezerhakan"
+    fullname: >-
+      👑 @bygezerhakan 🇹🇷
+    bio: >-
+      Kişisel blog, Blog yazarı #Gezgin #Gezer 💛💙 deli dolu yaz asigi 🏊✈️🌞🏄🌍🌅🚤🌴🆘📻🌴🏂⚓🇹🇷⛵Seyyah 📷💯🎥 Kisacasi !!! HKN 👑 Azz insan🏃 çoook huzur..
+    location: "Turkey"
+    followers: 7372
+    engagement: 577
+    commentsToLikes: 0.649206
+    id: ckap95altr7jc0i78q8u7wo7c
+    verified: false
+    hashtags: "#travelphotography, #tbt, #sunset, #instavideo"
   - username: "gulsahsenalpsevinc"
     fullname: >-
       𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
+    bio: >-
+      🌏Travel / 🍽🥤Food&Drink / YouTube’/ 📍ANKARA / 📥 PR:gulsahsenalp@gmail.com
     location: "Turkey"
-    followers: 15279
-    engagement: 652
-    commentsToLikes: 0.027868
+    followers: 15416
+    engagement: 633
+    commentsToLikes: 0.046919
     id: ckaoyf7emh9pn0i78g75bpriq
     verified: false
-    hashtags: "#safari, #evim, #avonbeauty, #avusturya"
-  - username: "evdengez"
+    hashtags: "#geziyorum, #africasafaris, #karavangu, #gezginyas"
+  - username: "katmerbanktosun"
     fullname: >-
-      Keşfetmeyi Seven Adam
+      Hüseyin DAĞCI Official Account
+    bio: >-
+      🇹🇷Katmerbank tosun @aksamsimit ❗Youtube Kanalım ⬇️
     location: "Turkey"
-    followers: 15216
-    engagement: 635
-    commentsToLikes: 0.227203
-    id: ck14i448sdjpg0i193oxsnu3o
+    followers: 2806
+    engagement: 1029
+    commentsToLikes: 0.140921
+    id: ck5q5cyegsb7b0i11wya84zak
     verified: false
-    hashtags: "#vlogger, #dogsofinstagram, #band, #yummy"
-  - username: "ervaervaa_"
+    hashtags: "#katmer, #pasta, #taste, #foodporn"
+  - username: "sercenin_masali"
     fullname: >-
-      Erva 🍭
+      A&  Tuğçe 🐞😊
+    bio: >-
+      Mehmet Emir ❤❣❤ 🐣 #bebekoyun #öneri Biraz aşk❤️ biraz sunum❤️ ve tarif sayfam ❤️ Matematik öğretmeni Reklam ve iş birliği için —>DM <— Ankara
     location: "Turkey"
-    followers: 15822
-    engagement: 629
-    commentsToLikes: 0.066966
-    id: ck15rk21s8azl0i195rp257g2
+    followers: 21200
+    engagement: 265
+    commentsToLikes: 0.053143
+    id: ck5zmcpxdmbv70i144wezlx9h
     verified: false
-    hashtags: "#baharaksmi, #inspiration, #dress, #carantinasday"
-  - username: "ozgeeeunal"
-    fullname: >-
-      Özge Ünal ♥
-    location: "Turkey"
-    followers: 9014
-    engagement: 1301
-    commentsToLikes: 0.007923
-    id: ck13a3ke0ogfy0i19fo5jidml
-    verified: false
-    hashtags: "#kadrajas, #iphoneonly, #instago, #colorful"
-  - username: "meleginbalmutfagi"
-    fullname: >-
-      Melek BAL
-    location: "Turkey"
-    followers: 15179
-    engagement: 711
-    commentsToLikes: 0.123291
-    id: ckaoyg4cuhdqh0i789zrc4ht2
-    verified: false
-    hashtags: "#ezme, #mezetarifleri, #karn, #food"
-  - username: "ikizler_huseyin"
-    fullname: >-
-      Hüseyin Durmaz
-    location: "Turkey"
-    followers: 8700
-    engagement: 793
-    commentsToLikes: 0.005543
-    id: ck5zmd13ymck70i14bhbqc4p6
-    verified: false
-    hashtags: "#bosphorus, #ramazan, #eating, #foodpic"
-  - username: "kubragelinn"
-    fullname: >-
-      🏆FARMASİ ALTIN MÜDÜR🏆🇹🇷
-    location: "Turkey"
-    followers: 34709
-    engagement: 321
-    commentsToLikes: 0.173527
-    id: ck8t6l81qdzx00j78ootjs0h1
-    verified: false
-    hashtags: "#instagood, #ortasehpa, #coffetime, #photo"
+    hashtags: "#fashion, #objektifimden, #perfect, #evlat"
 ---

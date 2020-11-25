@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Venezuela in 2020. Most popular hashtags: #quedateencasa #venezuela #beauty #makeup.
+  Find top cosmetics Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #makeupartist #makeup #makeuptutorial.
 platform: Instagram
+hits: 22
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 22 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
-  - username: "kathyoficial"
+  - username: "dra.marcelamolina"
     fullname: >-
-      Kαthy  |  S u α r ɛ z
+      Dra. Marcela Molina Poblete
+    bio: >-
+      Cirugía Plástica, Estética, Reconstructiva, condición Post Bariátrica Miembro SVCPREM CC Los Campitos Symmetria piso3 Link para consultas👇🏻
     location: "Venezuela"
-    followers: 6191
-    engagement: 535
-    commentsToLikes: 0.082293
-    id: ck5pxcpbcr5fj0i11xd0q1s9p
+    followers: 59228
+    engagement: 151
+    commentsToLikes: 0.107026
+    id: ck5buy54mimyj0i11ocor8hx1
     verified: false
-    hashtags: "#felicidad, #franco, #rock, #mirrorselfie"
-  - username: "gabrielhacedor"
+    hashtags: "#dramarcelamolina, #cosmeticsurgery, #lipoescultura, #cirugiaresponsable"
+  - username: "ireanav"
     fullname: >-
-      ɢᴀʙʀɪᴇʟ ʙ.
+      Ireana Sanchez
+    bio: >-
+      Arquitectura Finalista @sambilmodel 2019 TV Host @canal_i 🎥 Chica @sunchannel ☀️ Solo se ve bien con el ❤️ Lo esencial es invisible a los ojos 👀 🇻🇪
     location: "Venezuela"
-    followers: 26526
-    engagement: 113
-    commentsToLikes: 0.060781
-    id: ck8t0qtpmsyc90j78ozhj8ftc
+    followers: 6768
+    engagement: 1058
+    commentsToLikes: 0.060197
+    id: ck5bwyy78moml0i11shkez0xl
     verified: false
-    hashtags: "#italia, #repost, #beauty, #cosmetics"
+    hashtags: "#staysafe, #beauty, #venezuela, #photoshoot"
   - username: "drnelsonleon"
     fullname: >-
       Nelson León - Maxilofacial
+    bio: >-
+      📞+58 212 9880526 📲WhatsApp+58 4125415222 📩infomaxilofacial@gmail.com Cirugía Ortognática-Implantes Dentales Cirugía Maxilofacial 🇻🇪Caracas-VENEZUELA
     location: "Venezuela"
     followers: 112514
     engagement: 158
     commentsToLikes: 0.036701
     id: ck15ryt16ads10i19mtlodxcg
     verified: false
-    hashtags: "#cosmeticdentistry, #healing, #teeh, #quedateencasa"
-  - username: "makeupbyfabi_"
+    hashtags: "#tooth, #claseiii, #maxillofacial, #ortognatica"
+  - username: "dreissmars_"
     fullname: >-
-      FABIOLA
+      Dreissmar Soto
+    bio: >-
+      MissSuperModelVenezuela2018👑 MissTurismoFitnessVzla2017👑 1'FinalistaMTAragua2017👑 Com.Social. Publicidad al direct.
     location: "Venezuela"
-    followers: 5979
-    engagement: 1685
-    commentsToLikes: 0.080381
-    id: ck8tcdzkuz5co0j7862p3f2i4
+    followers: 17180
+    engagement: 790
+    commentsToLikes: 0.522934
+    id: ck8t0r0x6sz2q0j78xciwnw1u
     verified: false
-    hashtags: "#tiktokvenezuela, #makeupclass, #butterflymakeup, #challenge"
-  - username: "edduraf"
+    hashtags: "#camisa, #outfits, #shooting, #design"
+  - username: "christell_oficial"
     fullname: >-
-      Eduardo Mata
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓮𝓵𝓵
+    bio: >-
+      𝐂𝐚𝐧𝐭𝐚𝐧𝐭𝐞🇨🇱⁣ ғᴜᴛᴜʀᴀ ғᴏɴᴏ📚⁣ 💄@makeupxchris⁣ ᴍɪ ᴛɪᴇɴᴅᴀ🛍@beyou.makeupstore ⁣ ᴄʀᴇᴀᴅᴏʀᴀ ᴅᴇ🎙@sumaloatuplaylist ⁣ 𝐷𝑖𝑜𝑠 𝑒𝑠 𝑚𝑖 𝑐𝑎𝑝𝑖𝑡𝑎𝑛🕊 @sheinofficial: cst15
     location: "Venezuela"
-    followers: 44512
-    engagement: 543
-    commentsToLikes: 0.059854
-    id: ck1397mqpjxvn0i19px3eoziq
-    verified: false
-    hashtags: "#butterfly, #hairstyle, #video, #tiktok"
-  - username: "yayomakeup"
+    followers: 297394
+    engagement: 181
+    commentsToLikes: 0.041879
+    id: ck5q5qpnlu4qw0i1184zg16q7
+    verified: true
+    hashtags: "#musica, #chile, #papeleriachile, #music"
+  - username: "adrianamonsalvemakeup"
     fullname: >-
-      Y A Y O 🖤
+      Makeup|SkinCare|Hair
+    bio: >-
+      🎨Maquillaje|Cuidado Facial|Cabello 💄Tips🎥Tutoriales 👣 👩‍💻Clases online desde 1$ 💡Aros de Luz 🌎Tachira 👇+información 📞
     location: "Venezuela"
-    followers: 13016
-    engagement: 774
-    commentsToLikes: 0.112506
-    id: ck6u5vg2bbz8s0j7151y13d98
+    followers: 21663
+    engagement: 289
+    commentsToLikes: 0.063359
+    id: ck602ymi6k1c60i14hztkfwi8
     verified: false
-    hashtags: "#makeup, #socialdistancing, #soymuavzla, #yayotips"
+    hashtags: "#muavzla, #ushas, #bebesolartemonsalve, #makeupowervzla"
   - username: "martinezcmakeup"
     fullname: >-
       MARILEXI MARTINEZ
+    bio: >-
+      Profesional Makeup Artist ✨Cada quien brilla a su manera✨ 📍Barcelona - Anzoátegui 📲Para cursos y citas⬇️
     location: "Venezuela"
-    followers: 5401
-    engagement: 514
-    commentsToLikes: 0.055280
+    followers: 6197
+    engagement: 440
+    commentsToLikes: 0.200818
     id: ck5cesb8elm380i11f15qy6ih
     verified: false
-    hashtags: "#video, #makeupchallenge, #maquillajes, #glam"
-  - username: "itsgardeniia"
+    hashtags: "#cutcreasemakeup, #makeupideas, #maquillajesencillo, #lomejor"
+  - username: "carelquezada"
     fullname: >-
-      𝐶𝑜𝑚𝑜 𝐿𝑎 𝐹𝑙𝑜𝑟 🌸
+      C a r e l  Q u e z a d a💕
+    bio: >-
+      •Let all that you do be done in love•1Co16:14 🌸Makeup • FAITH✨🤯 ➕@eresvirtuosaonline 💌carelquezada@gmail.com 📽Ve mi último video aquí 👇
     location: "Venezuela"
-    followers: 4119
-    engagement: 942
-    commentsToLikes: 0.180733
-    id: ck6031hw7kh1o0i14cw6m7kxa
+    followers: 34256
+    engagement: 360
+    commentsToLikes: 0.029417
+    id: ck6ud9ysljw7u0j71roknow1s
     verified: false
-    hashtags: "#smilealways, #happy, #selfcarethreads, #specialday"
-  - username: "josebranchs"
+    hashtags: "#100, #skincare, #fallmakeup, #autumn"
+  - username: "isabelcarolinav"
     fullname: >-
-      JOSE BRANCHS
+      Isαbel Cαrolinα
+    bio: >-
+      ♡| Makeup Artist•beauty blogger @isabelvcarolina 👩🏻‍💻|Social media➕content creator 💄| Citas de maquillajes•Cursos
     location: "Venezuela"
-    followers: 3013
-    engagement: 930
-    commentsToLikes: 0.146566
-    id: ckap282zsxs760i78rqtvgr9q
+    followers: 28241
+    engagement: 164
+    commentsToLikes: 0.048778
+    id: ck55lgnje1it80i11wzq6pc0n
     verified: false
-    hashtags: "#makeupvenezuela, #fitme, #lipsonpoint, #lips"
-  - username: "angelesspereira"
+    hashtags: "#makeupartistvzla, #pixibeautymy, #makeupmadrid, #maquilldoramadrid"
+  - username: "osoriomelaniemakeup"
     fullname: >-
-      A  N  G  E L   E  S
+      Melanie Osorio ⚡️
+    bio: >-
+      💕Make Up Artist Social - Cursos - Novias - Editorial Aprende a maquillarte OnLine 🌎 San Cristóbal, VE. 🇻🇪 CEO @tutiendazafiro ✨ - Link a WhatsApp👇🏼
     location: "Venezuela"
-    followers: 9891
-    engagement: 615
-    commentsToLikes: 0.078941
-    id: ck9h9nw6b98ma0j7844xm4lcf
+    followers: 13180
+    engagement: 555
+    commentsToLikes: 0.033092
+    id: ck0udl39ojfiy0i19blygkewj
     verified: false
-    hashtags: "#vzla, #kimkardashian, #makeupcreation, #redkiss"
+    hashtags: "#makeupaddict, #makeupartist, #makeuptutorial, #halloweenmakeupideas"
 ---

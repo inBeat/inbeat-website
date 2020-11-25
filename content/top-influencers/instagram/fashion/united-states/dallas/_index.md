@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Dallas In 2020
 description: >-
-  Find top fashion Instagram influencers in Dallas in 2020. Most popular hashtags: #fashion #dallastexas #ootd #style.
+  Find top fashion Instagram influencers in Dallas in 2020. Most popular hashtags: #fashion #dallas #ootd #explore.
 platform: Instagram
+hits: 343
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 343 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "styledbyduha"
     fullname: >-
       D U H A 🕊
+    bio: >-
+      ﷽ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 22 | Modest Fashion Dallas, TX
     location: "United States"
-    followers: 60486
-    engagement: 293
-    commentsToLikes: 0.081958
+    followers: 73802
+    engagement: 138
+    commentsToLikes: 0.029125
     id: ck0w21q2em7nt0i19vgats8at
     verified: false
-    hashtags: "#eidgiveaway, #spottedinniswa, #quarantine, #wearetogether"
-  - username: "marypadian"
+    hashtags: "#icantdoit, #mykm, #ad"
+  - username: "isdbaldo"
     fullname: >-
-      Mary Padian
+      
+    bio: >-
+      PASSION FOR GOD|| LOVING LIVE|| INPERFECTION|| ART|FASHION| DALLAS/FT.WORTH TX Inquires isdebaldo@yahoo.com MMBaldo discount for @mnml.la
     location: "United States"
-    followers: 257475
-    engagement: 951
-    commentsToLikes: 0.032388
-    id: ck5bu8iekhc7i0i117gheps9v
-    verified: true
-    hashtags: "#imagine, #naturalskincare, #salvage, #homedecor"
-  - username: "modelmorganraine"
-    fullname: >-
-      Morgan
-    location: "United States"
-    followers: 2324
-    engagement: 2251
-    commentsToLikes: 0.098316
-    id: ck9h9sa7l9rie0j78o3kez23n
+    followers: 5900
+    engagement: 469
+    commentsToLikes: 0.050093
+    id: ckaosuqwet3930i789qqhsxor
     verified: false
-    hashtags: "#portraitstudio, #goldenhour, #browneyedgirl, #modeling"
-  - username: "lexalealiiee"
+    hashtags: "#jamesbond, #menstyleguide, #expresstogether, #ourportraitdays"
+  - username: "sushiiimilk"
     fullname: >-
-      Lexa Lealiiee🇦🇸
+      Female Tattoo Artist
+    bio: >-
+      Bringing you: Tattoos, Jams, & Threads DM for booking inquires Deposit required ✨
     location: "United States"
-    followers: 8701
-    engagement: 681
-    commentsToLikes: 0.028632
-    id: ck5pw62dula3i0i11w9vjw0nr
+    followers: 12037
+    engagement: 1141
+    commentsToLikes: 0.043071
+    id: ck6tu8c3cevrb0j71kdtyt3d9
     verified: false
-    hashtags: "#curls, #portrait, #beautifulballers, #willyscouts"
-  - username: "gethaiya"
+    hashtags: "#styledby, #plants, #fyp, #ootd"
+  - username: "laurynlately"
     fullname: >-
-      H.E.R Curls (haï-ÿa)
+      Lauryn Henry Maynard
+    bio: >-
+      PETITE FASHION | LIFESTYLE | 📍DALLAS JUST PURCHASED OUR FIRST HOME 🏡 📩: lauryn@laurynlately.com
     location: "United States"
-    followers: 25654
-    engagement: 261
-    commentsToLikes: 0.024784
-    id: ck6u43ecc1ge40j714q6na7g3
+    followers: 17382
+    engagement: 381
+    commentsToLikes: 0.322116
+    id: ck5zxuutd8pgk0i14b89ayddp
     verified: false
-    hashtags: "#dmagazine, #consultations, #quarantinecurls, #naturalhairjourney"
-  - username: "themiddlepageblog"
+    hashtags: "#casualstyle, #style, #fashioninspo, #dallasinfluencer"
+  - username: "sydneycroft_"
     fullname: >-
-      Cathy Williamson
+      S Y D N E Y
+    bio: >-
+      MA: @dmm.management RGA | RealStyle DET- @cocorochamodelcamp alumni
     location: "United States"
-    followers: 56261
-    engagement: 105
-    commentsToLikes: 0.209528
-    id: ck15uw6jvosrw0i194sl69gal
+    followers: 2150
+    engagement: 978
+    commentsToLikes: 0.076668
+    id: ckaozoj4vmoxn0i78px36066o
     verified: false
-    hashtags: "#companycapture, #ltkhome, #saloninabotttle, #incircle"
-  - username: "carlygala"
+    hashtags: "#detroit, #editorial, #fashion, #dallasblogger"
+  - username: "solais2"
     fullname: >-
-      Carlygala
+      Jeniffer Solais Ávila López
+    bio: >-
+      📍dallas Tx ☕️ lifestyle, fitness, coffee @holacafedallas ✉️ solaisavila@gmail.com 🙌🏼 Faith. Grace.
     location: "United States"
-    followers: 25054
-    engagement: 433
-    commentsToLikes: 0.305950
-    id: ck55ptyyabdc50i110zfbkoa4
+    followers: 16479
+    engagement: 402
+    commentsToLikes: 0.026721
+    id: ck6ty3xnf1jbg0j71g89ji833
     verified: false
-    hashtags: "#revolve, #rtrambassador, #albionathome, #chineselaundry"
-  - username: "annavladiii"
+    hashtags: "#coffee, #dallasblogger, #diamonds, #ido"
+  - username: "joannaqluvsu"
     fullname: >-
-      Anna New York Contortionist
+      Jo💋 111
+    bio: >-
+      ✦ Rice Uni 🦉 ✦ Published model 💎 ✦ Management @tlondonagency 🌹 ✦ 2nd acct @jonat.portfolio 🤠👊🏼
     location: "United States"
-    followers: 89872
-    engagement: 703
-    commentsToLikes: 0.021980
-    id: ck9wikdyq2nfw0j780m1g390a
+    followers: 3316
+    engagement: 1145
+    commentsToLikes: 0.055721
+    id: ck15qawyh1yid0i19dbunzgku
     verified: false
-    hashtags: "#atlnightlife, #fashionblogger, #lacontortionist, #nycnightlife"
-  - username: "hannahwing"
+    hashtags: "#tigermist, #under10kportraits, #pavementhouston, #tiktok"
+  - username: "panda_hawkins"
     fullname: >-
-      Hannah Wing
+      Manda 🐼
+    bio: >-
+      ✝︎ ✝︎ ✝︎ Texas ☆ Real Estate ♡ @hcfitness.texas Discount Codes ⇣
     location: "United States"
-    followers: 10578
-    engagement: 573
-    commentsToLikes: 0.124665
-    id: ck0vzpwkcabal0i193om72ex7
+    followers: 4563
+    engagement: 1347
+    commentsToLikes: 0.123601
+    id: ckaou0c9ly8820i783cxswm04
     verified: false
-    hashtags: "#lovelulus, #baseball, #macpro, #shopping"
-  - username: "madelynbrene"
+    hashtags: "#explorepage, #fitness, #fitnessapparel, #flextexas"
+  - username: "kkashh2"
     fullname: >-
-      M͚A͚D͚E͚L͚Y͚N͚ B͚R͚E͚N͚E͚ ✨💋
+      Kayla Young 🦋
+    bio: >-
+      dtx Brand Ambassador| CEO: @kayykouture_ Business 📧: kaylamyoung02@gmail.com Tiktok: @kkashh2 (142k+🙈)
     location: "United States"
-    followers: 49970
-    engagement: 270
-    commentsToLikes: 0.110380
-    id: ck135om662ge20i19lwd49xpw
+    followers: 6358
+    engagement: 931
+    commentsToLikes: 0.067115
+    id: ck9hcz5wnnjlp0j78aipjju2o
     verified: false
-    hashtags: "#elomi, #easter, #influener, #curvyfashion"
+    hashtags: "#explorepage, #shein, #explore, #venishebassador"
+  - username: "styledbysweetness"
+    fullname: >-
+      Shirin | Dallas Influencer
+    bio: >-
+      Healthy lifestyle + Petite Fashion 5'1 + Beauty PR 💌 | srabbani1133@gmail.com #styledbysweetness 📍Dallas, TX 🇲🇽 | 🇮🇷 FABLETICS 👇
+    location: "United States"
+    followers: 4136
+    engagement: 1311
+    commentsToLikes: 0.112132
+    id: ck5q4yj23qpne0i11o7tuopyx
+    verified: false
+    hashtags: "#petiteblogger, #fallvibes, #fallinspo, #styledbysweetness"
 ---

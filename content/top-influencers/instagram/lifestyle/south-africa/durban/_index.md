@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Durban In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Durban in 2020. Most popular hashtags: #lifestyle #covid19 #portrait #sundayfunday.
+  Find top lifestyle Instagram influencers in Durban in 2020. Most popular hashtags: #lifestyle #durban #photography #southafrica.
 platform: Instagram
+hits: 9
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Durban, South Africa for you to contact.
 profiles:
-  - username: "treven_moodley"
+  - username: "elanaschilz"
     fullname: >-
-      Treven Moodley
+      Elana Schilz Photography
+    bio: >-
+      ***For bookings please email hello@elanaschilz.com*** 📷 Freelance Photographer 🌍 Durban, South Africa 💍@elanaschilzweddings ☎️0769716736 #elanaschilz
     location: "South Africa"
-    followers: 17995
-    engagement: 304
-    commentsToLikes: 0.040289
-    id: ck6u0k2klg5gz0j7150u2jdzy
+    followers: 17469
+    engagement: 214
+    commentsToLikes: 0.023570
+    id: ck5zwwnim6wnc0i14x7l2buen
     verified: false
-    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
-  - username: "littlejaneflorals"
+    hashtags: "#photoshoot, #durbanbased, #productphotography, #photography"
+  - username: "kunene_ayanda"
     fullname: >-
-      Amy-Jane (Little Jane)
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene Snapchat: kunene_ayanda 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
     location: "South Africa"
-    followers: 7863
-    engagement: 580
-    commentsToLikes: 0.142533
-    id: ck8t7a3ldg32v0j789uibk8cf
+    followers: 3500
+    engagement: 616
+    commentsToLikes: 0.080905
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#modernflorals, #saffa, #exploreflorals, #instaartlovers"
+    hashtags: "#l4l, #milkmodelsearch, #vegan, #healthylifestyle"
   - username: "londy_mazwide_eventdesigner"
     fullname: >-
       Londiwe Ndwandwe Ngcobo
+    bio: >-
+      Founder & Creative Director @andimahlebuildingevents Events , Fashion , Style , Travel Lifestyle ❤️ 📧 :info@andimahle.co.za
     location: "South Africa"
     followers: 148673
     engagement: 108
     commentsToLikes: 0.035773
     id: ck0vw8gnysknh0i19lidhl65f
     verified: false
-    hashtags: "#strongertogether, #strong, #positivemindset, #acrylicmenu"
-  - username: "sothogirldiaries"
+    hashtags: "#weddings, #weddingplanner, #events, #eventplanner"
+  - username: "aly_bux"
     fullname: >-
-      African Print | Mapitso Thaisi
+      A A L I Y A H - B U X
+    bio: >-
+      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
     location: "South Africa"
-    followers: 6155
-    engagement: 503
-    commentsToLikes: 0.093151
-    id: ck5qdkvlcw2sj0i11h1d4h3hw
+    followers: 13976
+    engagement: 708
+    commentsToLikes: 0.109319
+    id: ck15t918jgxbk0i19avy1pp4f
     verified: false
-    hashtags: "#proteahotels, #stayindoors, #sunsets, #poolsidevibes"
-  - username: "senz_m"
+    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
+  - username: "davidmillersa12"
     fullname: >-
-      TRAVEL & LIFESTYLE
+      Dave Miller
+    bio: >-
+      Cricketer- @davemiller_photography is my hobby.
     location: "South Africa"
-    followers: 5617
-    engagement: 1283
-    commentsToLikes: 0.105114
-    id: ck6to4ihic1yv0j71t7n9wy4h
-    verified: false
-    hashtags: "#solotravel, #stayhome, #localbrands, #airbnb"
-  - username: "iambriandsp"
+    followers: 943742
+    engagement: 329
+    commentsToLikes: 0.004012
+    id: ck5q35o49jc1n0i118sa9coua
+    verified: true
+    hashtags: "#cricket, #instadaily, #dubai, #wildlife"
+  - username: "thatdamnvandal"
     fullname: >-
-      B R I A ND ES A I N TP E R N
+      DAMN VANDAL
+    bio: >-
+      Graffiti Artist/illustrator. South Africa 🇿🇦 ............ Sponsored By Posca Reebok Classics Ambassador 🇬🇧 Dromex
     location: "South Africa"
-    followers: 40995
-    engagement: 96
-    commentsToLikes: 0.014714
-    id: ck6tozkcvgznj0j71n70fwtao
+    followers: 10108
+    engagement: 396
+    commentsToLikes: 0.039424
+    id: ck8svw1i4cwto0j785pmqao89
     verified: false
-    hashtags: "#photography, #durban, #apartmentliving, #deckie"
-  - username: "kore_thando"
+    hashtags: "#damnvandal, #durbanartist, #streetart, #digital"
+  - username: "ciara_tay_kruger"
     fullname: >-
-      Kore Thando
+      Ciara Taylor Kruger💋
+    bio: >-
+      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
     location: "South Africa"
-    followers: 2484
-    engagement: 939
-    commentsToLikes: 0.074426
-    id: ck5ho2wmhou3v0i116ua86fwa
+    followers: 5379
+    engagement: 1460
+    commentsToLikes: 0.142204
+    id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#dreams, #swag, #hoodie, #mcm"
-  - username: "lilyonthemove"
+    hashtags: "#outfitoftheday, #fashionphotoshoot, #mothercity, #girlsswimwear"
+  - username: "lost_at_me"
     fullname: >-
-      Lily | Travel | Lifestyle
+      Neels Mc Donald
+    bio: >-
+      Anywhere is possible// Lifestyle & Travel// Port Elizabeth// Follow the link for a minute in Venice
     location: "South Africa"
-    followers: 2365
-    engagement: 2933
-    commentsToLikes: 0.119557
-    id: ck5hmf4r7lu4p0i11pahq0cw1
+    followers: 3587
+    engagement: 2136
+    commentsToLikes: 0.014685
+    id: ckaorvt5soyxm0i78z35y2fgo
     verified: false
-    hashtags: "#explorequebec, #epicshotz5k, #starscape, #networkbangers"
-  - username: "themauricebullard"
+    hashtags: "#travelstoke, #instapassport, #travelpics, #thecreative"
+  - username: "fayros"
     fullname: >-
-      Maurice Bullard♐️
+      F A Y R O S  J A F F E R فیروز
+    bio: >-
+      Life in Pictures Photographer, Visual Artist, Creative Director & Content Creator @fayrosjaffer_portfolio 📧 Info@lifeinpictures.co.za
     location: "South Africa"
-    followers: 29193
-    engagement: 488
-    commentsToLikes: 0.036693
-    id: ck8swq5dkeup40j78oczzrngz
+    followers: 7054
+    engagement: 621
+    commentsToLikes: 0.178011
+    id: ck0vw1zz2rque0i19ygyfjeo7
     verified: false
-    hashtags: "#fox29goodday, #milcmagazine, #gymlife, #powerade"
-  - username: "foodiewithafro"
+    hashtags: "#photographer, #photography, #lifestyle, #mensfashion"
+  - username: "ismaeelbagus"
     fullname: >-
-      Talicia J
+      Ismaeel Bagus
+    bio: >-
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📸 @flashmeishi 📨 ismaeelbagus@gmail.com ...🧵 Be part of the change ⤵️
     location: "South Africa"
-    followers: 10601
-    engagement: 454
-    commentsToLikes: 0.118375
-    id: ck0ttkssh366a0i19q69zgo12
+    followers: 3847
+    engagement: 2504
+    commentsToLikes: 0.114857
+    id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#quote, #inspirationalquotes, #grateful, #beer"
+    hashtags: "#celebratemzansi, #bts, #supportlocalbusiness, #iykyk"
 ---

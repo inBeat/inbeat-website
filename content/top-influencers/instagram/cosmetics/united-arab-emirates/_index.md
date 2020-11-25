@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top cosmetics Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #skincare #cosmetics #dubai #stayhome.
+  Find top cosmetics Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #beauty #cosmetics #smile.
 platform: Instagram
+hits: 58
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 58 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "mahmoud_sayed79"
+    fullname: >-
+      Mahmoud Sayed
+    bio: >-
+      Plastic surgery consultant , owner and CEO of PG cosmetic clinic ,the phone no: 00201100111109 ,84 gamaet el dowal, Mohandsin 6th floor@pg.cosmetic
+    location: "United Arab Emirates"
+    followers: 54902
+    engagement: 141
+    commentsToLikes: 0.057934
+    id: ck55kully04t60i11o0kcpuwq
+    verified: false
+    hashtags: "#fun, #friends, #plasticsurgery, #egypt"
   - username: "dr.noorhedaya"
     fullname: >-
       DR. NOOR HEDAYAH
+    bio: >-
+      Cosmetic & General Dentist |BDS💉 UAE📍 Dentistry| Fashion | Beauty |mama-hood 🤓💄👶🏼💗 🇦🇪📞 (06) 522 7676
     location: "United Arab Emirates"
-    followers: 266883
-    engagement: 108
-    commentsToLikes: 0.123060
+    followers: 257025
+    engagement: 75
+    commentsToLikes: 0.047721
     id: ck14kyewury6z0i19oy2hdzzu
     verified: false
-    hashtags: "#momduty, #duty, #alriyadh, #abudhabi"
+    hashtags: ""
+  - username: "drclaudehaddad"
+    fullname: >-
+      Dr.Claude Haddadد.كلود حداد.
+    bio: >-
+      specialist endodontist and cosmetics dentistry cahaddad.76@gmail.com
+    location: "United Arab Emirates"
+    followers: 30370
+    engagement: 165
+    commentsToLikes: 0.022753
+    id: ck0vwbpfysza00i19tjvnxq4z
+    verified: false
+    hashtags: "#dubai, #rootcanaltreatment, #dentist, #drclaudehaddad"
   - username: "dentistry_room"
     fullname: >-
       Dentistry_Room
+    bio: >-
+      🔘Cosmetic Cases In Dentistry. 🔘34K Real Followers : 📩 DM. 🔘Dentist /Dubai /UAE. 🔘dentistryroom@gmail.com 🔘 FB Page: Dentistry_Room
     location: "United Arab Emirates"
     followers: 34731
     engagement: 206
     commentsToLikes: 0.008141
     id: ck0tvpvlscc1q0i19vivzqz1o
     verified: false
-    hashtags: "#naturality, #laminateveneer, #dentistrylife, #ortodonciainvisible"
-  - username: "dudasilveira07"
+    hashtags: "#photography, #rootcoverage, #offers, #dentist"
+  - username: "batoul.official"
     fullname: >-
-      Maria Eduarda💋
+      Toot 👄 ~ بَتول اندوره
+    bio: >-
+      ~ 🇸🇾 | 🇦🇪 ~ Beauty & Fashion 👗💄 ~ Batoulandoura@icloud.com
     location: "United Arab Emirates"
-    followers: 5875
-    engagement: 1072
-    commentsToLikes: 0.104931
-    id: ck15ulwhnntkd0i19u6a82rai
+    followers: 130018
+    engagement: 556
+    commentsToLikes: 0.021240
+    id: ck14iyzrdhtr10i19nn87vui7
     verified: false
-    hashtags: "#collections, #makeupoftheday, #jalaba, #abudhabifoodies"
-  - username: "lorenianna"
+    hashtags: "#fblogger, #celebritynews, #uae, #makeuplovers"
+  - username: "safamakeup1"
     fullname: >-
-      Loreni_Anna
+      💕 𝕊𝕒𝕗𝕒 𝕒𝕝 𝕙𝕒𝕤𝕤𝕒𝕟 💕
+    bio: >-
+      - 👻 safamakeup - ✉️ safamakeup@gmail.com . -استقبل حجوزات الميك اب في البحرين 🇧🇭والامارات🇦🇪. - للتواصل عن طريق الدايركت مسج 📩
     location: "United Arab Emirates"
-    followers: 143663
-    engagement: 354
-    commentsToLikes: 0.027509
-    id: ck5zlqi98l7760i14lzkrktjf
+    followers: 39398
+    engagement: 215
+    commentsToLikes: 0.020395
+    id: ck15r4nz164r20i198cjd1bxa
     verified: false
-    hashtags: "#personaltrainer, #dowhatyoulove, #sunglasses, #video"
-  - username: "ani_zzz"
+    hashtags: "#lipstick, #beautyblog, #makeuptoturial, #makeupbyme"
+  - username: "nabiha_fuqha_official"
     fullname: >-
-      Anita.
+      💄N A B I H A | نبيهة الفقهاء
+    bio: >-
+      ♦️Professional makeup artist in jordan🇯🇴 ♦️snapchat: Nabiharafat 📍jordan (irbid , amman) , Dubai🇦🇪 📩 لحجوزات الميك اب واتسب فقط 0798047874
     location: "United Arab Emirates"
-    followers: 20607
-    engagement: 351
-    commentsToLikes: 0.056391
-    id: ck134un5ay9p00i19o1pmpmlo
+    followers: 24833
+    engagement: 112
+    commentsToLikes: 0.027489
+    id: ck5zu7vrb1uma0i1479pyk26o
     verified: false
-    hashtags: "#iran, #biking, #exercise, #makeuploo"
-  - username: "shirinvandort"
-    fullname: >-
-      Shirin Van Dort
-    location: "United Arab Emirates"
-    followers: 180690
-    engagement: 33
-    commentsToLikes: 0.078938
-    id: ck136qf9z7r2d0i191qfnrwx2
-    verified: false
-    hashtags: "#fashionblogger, #looseglitter, #buynyxonline, #selfies"
-  - username: "beauty.bats"
-    fullname: >-
-      𝐌𝐀𝐊𝐄𝐔𝐏 𝐀𝐑𝐓𝐈𝐒𝐓
-    location: "United Arab Emirates"
-    followers: 4904
-    engagement: 994
-    commentsToLikes: 0.242945
-    id: ck15tqb1njde50i19vcnmhgj8
-    verified: false
-    hashtags: "#follow, #productswatch, #chunkyglitter, #makeupfanatic1"
+    hashtags: ""
   - username: "glammed.by.yusra"
     fullname: >-
       Yusra Pasha || Makeup Artist
+    bio: >-
+      Focusing on prettier side of life ✨ Internationally Certified MUA 📍 Dubai DM for bookings 💕
     location: "United Arab Emirates"
-    followers: 101373
-    engagement: 346
-    commentsToLikes: 0.097332
+    followers: 111325
+    engagement: 157
+    commentsToLikes: 0.086872
     id: ck9wf7uecnl8v0j78ao34lcpz
     verified: false
-    hashtags: "#colorfull, #eyeshadowlooks, #familyfirst, #inglot"
-  - username: "sh.shakeriii"
+    hashtags: "#makeuplover, #muajakarta, #bhfyp, #muasurabaya"
+  - username: "dr_marta_beauty"
     fullname: >-
-      pharmacist 💊
+      ✨ THE ART OF CREATING BEAUTY ✨
+    bio: >-
+      Aesthetic Physician 🎓MD., MSc.,Anti-Aging,Aesthetic Medicine Fellowship 💉Founder of @drmartabeauty 🦋 Mother of 👧🏼👧🏼 📍Dubai, UAE🇦🇪 📍Lisbon, Portugal🇵🇹
     location: "United Arab Emirates"
-    followers: 51522
-    engagement: 156
-    commentsToLikes: 42.049050
-    id: ck5c5oe1s3utp0i11medt4qwz
+    followers: 49944
+    engagement: 142
+    commentsToLikes: 0.096402
+    id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
-    hashtags: "#sigmabeauty, #dubailife, #hudabeautyso, #sigma"
-  - username: "alhadithyphotography"
+    hashtags: "#preenchimento, #laser, #uae, #dermalfillers"
+  - username: "drdmontalvo"
     fullname: >-
-      ابراهيم الحديثيAlhadithy.
+      Dr. David Montalvo Arias
+    bio: >-
+      Aesthetics | Implants | Periodontics Apa Aesthetic, Dubai, UAE dmontalvo@apaaesthetic.ae #Drdmontalvo #SmileExpert
     location: "United Arab Emirates"
-    followers: 44854
-    engagement: 102
-    commentsToLikes: 0.032318
-    id: ck0vy8vkz2soj0i19sw7upcap
+    followers: 66405
+    engagement: 174
+    commentsToLikes: 0.020212
+    id: ck138lmsbgu390i198uw4zm15
     verified: false
-    hashtags: "#maroc, #weddingday, #saudigoldph, #hautecouture"
+    hashtags: "#dentistdubai, #beforeandafter, #cosmeticsurgery, #naturalveneers"
 ---

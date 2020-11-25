@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Argentina In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #bodybuilding #cuarentena #tiktok #cardio.
+  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #bodybuilding #fitness #instagood #muscle.
 platform: Instagram
+hits: 23
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 23 Instagram influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "ivanamedail"
+  - username: "itiel_fernandez"
     fullname: >-
-      ɪᴠᴀɴᴀ  ᴍᴇᴅᴀɪʟ
+      Itiel Fernández IFBBPROLEAGUE
+    bio: >-
+      Team de @roidplusargentina_oficial @roidplusargentinarespaldo
     location: "Argentina"
-    followers: 40744
-    engagement: 257
-    commentsToLikes: 0.076026
-    id: ck0w60kd46c3h0i193fpjsby4
+    followers: 41047
+    engagement: 565
+    commentsToLikes: 0.089250
+    id: ck8t6d5mtd65u0j787fhggazs
     verified: false
-    hashtags: "#quarentine, #amigos, #vidafit, #colombia"
-  - username: "oscarjuangarcia"
+    hashtags: "#physiquewoman, #twitch, #ifbbproleague, #muscle"
+  - username: "facundoquiros"
     fullname: >-
-      Oscar Juan Garcia
+      Facu Quiros
+    bio: >-
+      En @sexvivituexperiencia Actor, Bailarin-Coreógrafo, Modelo. Compartiendo mí historia.
     location: "Argentina"
-    followers: 28185
-    engagement: 499
-    commentsToLikes: 0.160875
-    id: ckapahkckw4y80i78og4sblib
+    followers: 9482
+    engagement: 903
+    commentsToLikes: 0.114274
+    id: ck5c7cxnk7aqn0i114x8997p1
     verified: false
-    hashtags: "#selfie, #fitnessbody, #fotografos, #body"
-  - username: "nickigrau"
+    hashtags: "#naked, #model, #bodybuilding, #nudephotography"
+  - username: "juanimicucci"
     fullname: >-
-      Nicole Grau-Bassas
+      Juan Ignacio
+    bio: >-
+      📍 #Argentina •Soy el del short amarillo en Twitter•
     location: "Argentina"
-    followers: 37354
-    engagement: 288
-    commentsToLikes: 0.153132
-    id: ck6tw6ko9qa2p0j71l8tscxzq
+    followers: 9347
+    engagement: 2196
+    commentsToLikes: 0.010264
+    id: ck8t4haes6tdu0j7844jjaxgh
     verified: false
-    hashtags: "#sorteo, #positano, #8marzo, #goodvibe"
-  - username: "brenda.gomezok"
+    hashtags: "#beard, #photography, #instagay, #nature"
+  - username: "dantepagez"
     fullname: >-
-      Brenda Gómez
+      𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 ®️
+    bio: >-
+      📚𝕃𝕚𝕔• ℝ𝕖𝕝𝕒𝕔𝕚𝕠𝕟𝕖𝕤 ℙú𝕓𝕝𝕚𝕔𝕒𝕤 @unlamoficial 🐺𝙿.𝚁 𝚎𝚗 @brandwolf y @cuarto.pr 🎵𝙼𝚊𝚗𝚊𝚐𝚎𝚛 @nissaoficial @lautarolpz @fimrecords ✌sᴇᴄ @dantealanpagez 📌𝙼𝚘𝚛𝚘𝚗
     location: "Argentina"
-    followers: 284532
-    engagement: 259
-    commentsToLikes: 0.018720
-    id: ck5c9biwzb4yu0i11dcjzcwmv
+    followers: 16841
+    engagement: 191
+    commentsToLikes: 0.047917
+    id: ck0u88byi6pr80i19hyoahwa2
     verified: false
-    hashtags: "#work, #sinexcusas, #workhome, #enjoy"
+    hashtags: "#menstyle, #bodybuilding, #fitnessmotivation, #fitness"
+  - username: "maguiifox_17"
+    fullname: >-
+      👑   𝑴𝒂𝒈𝒖𝒊  ♡ 🦋
+    bio: >-
+      𝙽𝚞𝚝𝚛𝚒𝚌𝚒𝚘𝚗𝚒𝚜𝚝𝚊 | Influencer Publicidad al DM📥 𝚄𝚗 𝚍í𝚊 𝚜𝚒𝚗 𝚛𝚎í𝚛 𝚎𝚜 𝚞𝚗 𝚍í𝚊 𝚙𝚎𝚛𝚍𝚒𝚍𝚘😝 𝒕𝒖 𝒊𝒏𝒗𝒆𝒓𝒔𝒊ó𝒏 𝒎á𝒔 𝒈𝒓𝒂𝒏𝒅𝒆 𝒆𝒓𝒆𝒔 𝒕ú 💜
+    location: "Argentina"
+    followers: 75184
+    engagement: 521
+    commentsToLikes: 0.016907
+    id: ckaoycnwsgyap0i787m1uamog
+    verified: false
+    hashtags: "#instagram, #gymglutes, #instafit, #hot"
+  - username: "truestory_len"
+    fullname: >-
+      
+    bio: >-
+      Directora de Proyecto Instec 👩🏽‍💻💼 Técnico superior en telecomunicaciones 📚 Técnico superior en marketing 📚 E➡L❤️= Nil 👪 Preparación Saiyagym 🏋🏽‍♀️💪
+    location: "Argentina"
+    followers: 52941
+    engagement: 305
+    commentsToLikes: 0.078762
+    id: ck602u429j5qf0i14bsj10cjm
+    verified: false
+    hashtags: "#love, #photography, #bodybuilding, #beach"
   - username: "gonzalogoy"
     fullname: >-
       Gonzalo Goy 🔥
+    bio: >-
+      ▫️25 yy 🇦🇷 ▫️Contador Publico ▫️Online coaching #SomosFG 📩 Fgonlinetraining@gmail.com
     location: "Argentina"
-    followers: 4381
-    engagement: 767
-    commentsToLikes: 0.034294
+    followers: 4511
+    engagement: 682
+    commentsToLikes: 0.029328
     id: ck0tuo6su7z050i19hknu4ooo
     verified: false
-    hashtags: "#legday, #pump, #bodybuilding, #chestday"
-  - username: "miriamlanzoni"
+    hashtags: "#fitnessmodel, #fitnesslifestyle, #fitnessmotivation, #somosfg"
+  - username: "maguigroppo"
     fullname: >-
-      Miriam Lanzoni
+      𝖬𝖺𝗀𝖽𝖺𝗅𝖾𝗇𝖺 - 𝖭𝖺𝗍𝗎𝗋𝖺𝗅 𝖧𝖺𝖻𝗂𝗍𝖺𝗍 🍃
+    bio: >-
+      📍Buenos Aires, Argentina 🇦🇷 📚Prof.Educación Física, UnLaM en Proceso 🌟 🤝CF & Gymnastics Coach ⛩ @samurai.team Athlete
     location: "Argentina"
-    followers: 247462
-    engagement: 73
-    commentsToLikes: 0.046229
-    id: ck6tighr50oa00j71hzxwrdd9
-    verified: true
-    hashtags: "#quentintarantino, #matecito, #training, #escobachallenge"
-  - username: "epica_trastornos_alimentarios"
-    fullname: >-
-      EPICA ~ Lic Antonella Salerno
-    location: "Argentina"
-    followers: 18523
-    engagement: 334
-    commentsToLikes: 0.048790
-    id: ck8tdkaus3np20j78w74ns1no
+    followers: 11319
+    engagement: 1014
+    commentsToLikes: 0.020247
+    id: ckf5lou3jqdig0j23vos2so1n
     verified: false
-    hashtags: "#coronavirus, #selfcare, #pica, #nutricion"
-  - username: "antonelaramirezok"
+    hashtags: "#bodysculpture, #workout, #crossfit, #exercise"
+  - username: "ivanamedail"
     fullname: >-
-      Antonela Ramirez
+      ɪᴠᴀɴᴀ  ᴍᴇᴅᴀɪʟ
+    bio: >-
+      Personal Trainer 🏋🏽 💎Modelo y Actriz 💎 🌐 Founder Ғιтʓɛи 🌱 🌱 ṽ!ᖱᾰ ṧᾰℓṳᖱᾰ♭ℓḙ en 📺 C5N
     location: "Argentina"
-    followers: 519130
-    engagement: 590
-    commentsToLikes: 0.014345
-    id: ck5hoi9vfpm3s0i116z62sge2
+    followers: 82738
+    engagement: 386
+    commentsToLikes: 0.077182
+    id: ck0w60kd46c3h0i193fpjsby4
     verified: false
-    hashtags: "#actitudblancoynegro, #arjonablancoynegro"
-  - username: "juliopitbull"
+    hashtags: "#like, #bhfyp, #exercise, #ejercicio"
+  - username: "nicorv85"
     fullname: >-
-      juliopitbull 🥊🇦🇷
+      Nico RV - CORRENTINO 🐂
+    bio: >-
+      Se feliz y deja al resto ser feliz😎 El amor es libre😘 El mejor regalo es una sonrisa😄 Vamos a dar la vuelta al mundo🌎 Only Britney can judge me.
     location: "Argentina"
-    followers: 472680
-    engagement: 157
-    commentsToLikes: 0.025204
-    id: ck5zrdiu1wdq80i14eziy198c
+    followers: 11377
+    engagement: 570
+    commentsToLikes: 0.036478
+    id: ckap02eghof5y0i785bhmxsp4
     verified: false
-    hashtags: "#heatarsfans, #budybuilding, #gym, #chetomal"
-  - username: "fuarkok"
-    fullname: >-
-      FUARK
-    location: "Argentina"
-    followers: 33797
-    engagement: 134
-    commentsToLikes: 0.020784
-    id: ck9wensmdl3i90j783qb2g3xt
-    verified: false
-    hashtags: "#bodybuilderfood, #fitnessclothing, #gymmotivation, #bodybuildong"
+    hashtags: "#musclebear, #musclegay, #musclemen, #hot"
 ---

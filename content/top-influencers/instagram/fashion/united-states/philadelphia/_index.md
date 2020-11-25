@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top fashion Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #stayhome #coffeelover #summer.
+  Find top fashion Instagram influencers in Philadelphia in 2020. Most popular hashtags: #fashion #philadelphia #nyc #vintage.
 platform: Instagram
+hits: 69
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 69 Instagram influencers like this in Philadelphia, United States for you to contact.
 profiles:
   - username: "lattesandlabcoats"
     fullname: >-
       Dani D
+    bio: >-
+      pharmD | philadelphia | fashion | coffee | shop my looks 💌: lattesandlabcoats@gmail.com
     location: "United States"
-    followers: 7309
-    engagement: 2040
-    commentsToLikes: 0.030253
+    followers: 7295
+    engagement: 2160
+    commentsToLikes: 0.033955
     id: ckaou5lv0ywhz0i78kb5rv5l4
     verified: false
     hashtags: "#liketkit, #ltkholidaystyle, #ltkholidayathome, #ltkholidaygiftguide"
+  - username: "futurerichhh"
+    fullname: >-
+      Ramza Alifestyle
+    bio: >-
+      @_ramzaofficial
+    location: "United States"
+    followers: 4188
+    engagement: 1466
+    commentsToLikes: 0.077768
+    id: ckap4pn5m8av30i78od996z4p
+    verified: false
+    hashtags: "#nyfw, #pfw, #ramzalifestyle, #newyork"
+  - username: "pilot.drew"
+    fullname: >-
+      Andrew, First Officer
+    bio: >-
+      Airline Pilot | Travel | Men’s Fashion & Lifestyle 📍Philadelphia, PA ✉️contact@drewthepilot.com
+    location: "United States"
+    followers: 168986
+    engagement: 558
+    commentsToLikes: 0.033091
+    id: ck0w4jy5oyxy20i19zm1kzrzr
+    verified: false
+    hashtags: "#primewardrobe, #primelife, #ad, #barbergrade"
+  - username: "michelleiswell"
+    fullname: >-
+      Michelle Lesniak
+    bio: >-
+      Clothing Designer. PDX native.
+    location: "United States"
+    followers: 19854
+    engagement: 332
+    commentsToLikes: 0.029895
+    id: ck5hd1iigl0rj0i114qi3v8q7
+    verified: false
+    hashtags: "#vintage, #fashionxt, #colorbeforethestorm, #fashion"
+  - username: "abbysteinour"
+    fullname: >-
+      abby
+    bio: >-
+      philly 🌈 she/her
+    location: "United States"
+    followers: 5512
+    engagement: 942
+    commentsToLikes: 0.008806
+    id: ck0tywx7soew20i198ciz021f
+    verified: false
+    hashtags: "#style, #phillyblogger, #streetstyle, #lifestyle"
   - username: "ukiy0_"
     fullname: >-
       Sanniyah Antoinette: Musician
+    bio: >-
+      Alternative Grunge Fashion Model and Musician from Philadelphia, PA Business inquiries only📩￼ PRE-SAVE “CRAZY” NOW! 👇🏽💖
     location: "United States"
-    followers: 9844
-    engagement: 770
-    commentsToLikes: 0.133062
+    followers: 11667
+    engagement: 662
+    commentsToLikes: 0.142330
     id: ck8ta4158qe250j785c9s6zu1
     verified: false
-    hashtags: "#blackcraftcult, #denimjacket, #mustang, #ghostemane"
-  - username: "lombardoptkt"
+    hashtags: "#halloweenmakeup, #grungy, #grungeedits, #altgirls"
+  - username: "gabestoneshayer"
     fullname: >-
-      Antonio | DPT | NY
+      Gabe Stone Shayer
+    bio: >-
+      Soloist @abtofficial Creative Director “PAS DE DEUX” Artistic Director Creative Genesis Ambassador @lululemonmen Bolshoi Ballet Academy МГАХ
     location: "United States"
-    followers: 5960
-    engagement: 413
-    commentsToLikes: 0.047977
-    id: ck15r66tm6c1r0i19exkjzx91
+    followers: 10404
+    engagement: 362
+    commentsToLikes: 0.036689
+    id: ck0w2ouq3pgt60i19w9knd2g5
     verified: false
-    hashtags: "#visitphilly, #donut, #donutlover, #movies"
-  - username: "vanapartida"
-    fullname: >-
-      Ivanna
-    location: "United States"
-    followers: 14171
-    engagement: 700
-    commentsToLikes: 0.031693
-    id: ck55p1c279ls70i119qno05lz
-    verified: false
-    hashtags: "#boricua, #livebetter, #christmas, #dodolashes"
+    hashtags: "#ballerino, #dancer, #americanballettheatre, #ballet"
   - username: "bunch.ofbs"
     fullname: >-
       Becca Scholes I Bunch of BS
+    bio: >-
+      20-something running on coffee & dry shampoo Daily Fashion & Lifestyle 💌 rscholes@udel.edu Philadelphia, PA 👇🏻👇🏻Shop My Outfits & Blog
     location: "United States"
-    followers: 10337
-    engagement: 783
-    commentsToLikes: 0.158315
+    followers: 10340
+    engagement: 651
+    commentsToLikes: 0.172971
     id: ck5hn3o7an5830i113z3lyblr
     verified: false
-    hashtags: "#fueloriginality, #myfabletics, #saladworksofart, #cincodemayo"
-  - username: "katebudzinski"
-    fullname: >-
-      kate budzinski
-    location: "United States"
-    followers: 17336
-    engagement: 199
-    commentsToLikes: 0.072915
-    id: ck5hnqxkfo8nc0i113d640kv4
-    verified: false
-    hashtags: "#fabletics, #mdw2020, #coffeeaddict, #balt"
+    hashtags: "#liketkit, #ltksalealert, #sponsored, #ltkcurves"
   - username: "stylesofman"
     fullname: >-
       Frank Tkachenko
+    bio: >-
+      👞 | Fashion is bought. Style is built. 📍 | Philadelphia, USA 🖥️ | Contact@stylesofman.com 🍂 | Read my fall style guide ⤵
     location: "United States"
-    followers: 261489
-    engagement: 161
-    commentsToLikes: 0.010634
+    followers: 260539
+    engagement: 150
+    commentsToLikes: 0.013886
     id: ck135ifx81l160i19nhbxyndo
     verified: false
-    hashtags: "#watch, #mensjackets, #desksetup, #gantriathome"
-  - username: "ramirezanavil"
+    hashtags: "#flatlay, #whitesneakers, #fallfashion, #mensoutfit"
+  - username: "highvol_tage"
     fullname: >-
-      Anavil Ramirez 🎙
+      T-Agé Anadi
+    bio: >-
+      Before you even ask... Yes, I’m always this happy. 🤪😁 topher.despres@wilhelmina.com @wilhelminamodels @modelwerk @heffnermanagement
     location: "United States"
-    followers: 29426
-    engagement: 503
-    commentsToLikes: 0.030961
-    id: ck5q5gdm7srjs0i11ymyozwk0
+    followers: 3600
+    engagement: 1591
+    commentsToLikes: 0.095671
+    id: ck5hm5dqjle0e0i111uczg33q
     verified: false
-    hashtags: "#elsue, #fashiondesigner, #manhattannyc, #boysclothes"
-  - username: "clint_lucas"
-    fullname: >-
-      Clint Lucas
-    location: "United States"
-    followers: 54302
-    engagement: 470
-    commentsToLikes: 0.110626
-    id: ck0w55wwu21o40i19vqqljp9g
-    verified: false
-    hashtags: "#mensfashionph, #armoredge, #bullstrap, #fashionnova"
-  - username: "coffeestainedlace"
-    fullname: >-
-      Sydney Paige
-    location: "United States"
-    followers: 7496
-    engagement: 659
-    commentsToLikes: 0.077143
-    id: ck6uefk8yqmaa0j717icpgteo
-    verified: false
-    hashtags: "#denim, #martini, #discovernepa, #theknot"
+    hashtags: "#nyc, #yogaeverydamnday, #la, #travelnoire"
 ---

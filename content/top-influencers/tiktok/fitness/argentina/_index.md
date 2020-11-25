@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Argentina In 2020
 description: >-
-  Find top fitness TikTok influencers in Argentina in 2020. Most popular hashtags: #greenscreen #coronavirus #entrenaencasa #cuarentena.
+  Find top fitness TikTok influencers in Argentina in 2020. Most popular hashtags: #fyp #fitness #parati #foryou.
 platform: TikTok
+hits: 36
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 36 TikTok influencers like this in Argentina for you to contact.
 profiles:
-  - username: "guerreroskravmaga"
+  - username: "belu_fitness"
     fullname: >-
-      Guerreroskravmaga
+      belu_fitness
+    bio: >-
+      Coach Fitness & Nutricion Seguime IG 🚀 @belu_fitness Mamá de 3❤️
     location: "Argentina"
-    followers: 796601
-    engagement: 1478
-    commentsToLikes: 0.003520
-    id: ck9nab5rea3qy0j78l2jwlxuq
+    followers: 34200
+    engagement: 627
+    commentsToLikes: 0.003418
+    id: ckbfchef359200j2346ym4pcc
     verified: false
-    hashtags: "#cabezazo, #punch, #fightingstances, #upanddown"
+    hashtags: "#training, #abdomenplano, #ab, #ejercicioencasa"
   - username: "yamilavanesatoled"
     fullname: >-
       Yamila Vanesa Toledo
+    bio: >-
+      Fitness Pro🥇7 Mundiales 1🥇 Olympia 1🥇Miss Univers 7🥇 Europeos 1🥇Arnold Clá
     location: "Argentina"
-    followers: 9692
-    engagement: 286
-    commentsToLikes: 0.007048
+    followers: 13100
+    engagement: 482
+    commentsToLikes: 0.001096
     id: ck9ej9wbx1pqi0j783za284rv
     verified: false
-    hashtags: "#saliradelante, #noche, #diferente, #entrenaencasa"
-  - username: "mechimansilla"
+    hashtags: "#mujeres, #domingo, #mifortaleza, #buenosdias"
+  - username: "tomaslabarere"
     fullname: >-
-      Mechi Mansilla
+      Tomas Labarere
+    bio: >-
+      Todo empezó en cuarentena Queres cambiar tu físico? Escribime al Instagram !!!
     location: "Argentina"
-    followers: 11488
-    engagement: 318
-    commentsToLikes: 0.047747
-    id: cka0l2hq9p7ed0i78s4aa7qgb
+    followers: 47900
+    engagement: 986
+    commentsToLikes: 0.042779
+    id: cka0fo73a0i210i7824p1dor9
     verified: false
-    hashtags: "#bodypositivity, #nordiclanguage, #healthyrecipe, #legday"
-  - username: "leandrolimardo"
+    hashtags: "#humor, #foryoupage, #fyp, #fitness"
+  - username: "guerreroskravmaga"
     fullname: >-
-      leandrolimardo
+      Guerreros Krav Maga
+    bio: >-
+      INSTA & YOUTUBE 👆 info@guerreroskm.com 📩 Clases & Llaveros 👇
     location: "Argentina"
-    followers: 33523
-    engagement: 478
-    commentsToLikes: 0.022269
-    id: cka0jysrlk6vq0i78d0dse4ay
+    followers: 3100000
+    engagement: 1810
+    commentsToLikes: 0.007354
+    id: ck9nab5rea3qy0j78l2jwlxuq
+    verified: true
+    hashtags: "#fitness, #boxeo, #box, #fit"
+  - username: "europini"
+    fullname: >-
+      europini
+    bio: >-
+      DEDICARSE SIMPLEMENTE A SER FELIZ ! 😍🤪
+    location: "Argentina"
+    followers: 26700
+    engagement: 717
+    commentsToLikes: 0.039105
+    id: ckbazu58iq7s50j23d8y701yq
     verified: false
-    hashtags: "#piernas, #cuarentena, #perdergrasa, #gluteos"
+    hashtags: "#parati, #fit, #foryoupage, #parat"
   - username: "natipoledance"
     fullname: >-
-      Natipoledancer
+      Natipoledance
+    bio: >-
+      IG @natipoledance Intructora de POLE DANCE 💪🏻 🤸🏼‍♀️
     location: "Argentina"
-    followers: 17535
-    engagement: 1138
-    commentsToLikes: 0.020627
+    followers: 23400
+    engagement: 940
+    commentsToLikes: 0.023338
     id: ck83k3f9l90hl0j784iz35nwf
     verified: false
-    hashtags: "#polefitness, #gymnastics, #desporte, #polelife"
-  - username: "maxmun8"
+    hashtags: "#fyp, #entrenando, #mehacefeliz, #gymlover"
+  - username: "agoslanda8"
     fullname: >-
-      Mente Atleta
+      agoslanda
+    bio: >-
+      Twitch: agoslanda bs as🇦🇷 CEO en lives No me stalkees, seguime😉 20k?😳💜
     location: "Argentina"
-    followers: 5430
-    engagement: 789
-    commentsToLikes: 0.003351
-    id: ck9m11nb9d5w10j78eavlk2cd
+    followers: 18400
+    engagement: 900
+    commentsToLikes: 0.024912
+    id: ckavi74yuq9m10j23n754f3q6
     verified: false
-    hashtags: "#instrunners, #workout, #plyometrics, #fitnnes"
-  - username: "somirouse"
+    hashtags: "#parati, #dance, #fyp, #humor"
+  - username: "cocinandoando0"
     fullname: >-
-      somirouse
+      Valen martinez
+    bio: >-
+      Instagram @cocinandoando_
     location: "Argentina"
-    followers: 261750
-    engagement: 1050
-    commentsToLikes: 0.026948
-    id: ck8qhcehr4gfu0j78ievxqs98
+    followers: 8549
+    engagement: 510
+    commentsToLikes: 0.017645
+    id: ck9k5y00mymc60j78nkwyttuy
     verified: false
-    hashtags: "#saysoparte3, #trend, #efectos, #loopperfecto"
-  - username: "cocomartinezok"
+    hashtags: "#parati, #perderpeso, #fyp, #vegan"
+  - username: "sangre_escorpianaaa"
     fullname: >-
-      Coco Martinez 
+      Escorpiana
+    bio: >-
+      Gracias a mis seguidores , los amo 🥰 Bs.As 🇦🇷
     location: "Argentina"
-    followers: 35081
-    engagement: 979
-    commentsToLikes: 0.020088
-    id: ck9047x5ee03v0j7800ayp0k9
+    followers: 11900
+    engagement: 211
+    commentsToLikes: 0.008075
+    id: ckb9a0nt1umio0j23e4dcekjm
     verified: false
-    hashtags: "#enestacuarentena, #futbolargentino, #cuarentenachallenge, #instagram"
-  - username: "andygarone"
+    hashtags: "#viral, #foryou, #parati, #pug"
+  - username: "winsor.ff"
     fullname: >-
-      AnDy
+      WINSORtiktok
+    bio: >-
+      LINK DIRECTO A MI CANAL DE YOU TUBE ☝️☝️ ❤ NUEVO VIDEO 👇
     location: "Argentina"
-    followers: 2679
-    engagement: 931
-    commentsToLikes: 0.048204
-    id: cka9q9imz7s9h0i781h045ehu
+    followers: 202300
+    engagement: 2043
+    commentsToLikes: 0.034497
+    id: ckd5n5c98wj8y0j23pmi12woj
     verified: false
-    hashtags: "#greenscreen, #tiktoklike, #simetria, #rutinaencasa"
-  - username: "valenfadel"
-    fullname: >-
-      Fad
-    location: "Argentina"
-    followers: 8414
-    engagement: 702
-    commentsToLikes: 0.023126
-    id: ck9kf1rzr1d6c0j78l1hgnvj0
-    verified: false
-    hashtags: "#parat, #fitness, #kiss, #cuarentena"
+    hashtags: "#trending, #flighthouse, #funny, #foryou"
 ---

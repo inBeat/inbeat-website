@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Chicago In 2020
 description: >-
-  Find top vegan TikTok influencers in Chicago in 2020. Most popular hashtags: #vegan #alwayslearning #selfcare #chicago.
+  Find top vegan TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #vegan #chicago #foryou.
 platform: TikTok
+hits: 14
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 14 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "ryan_bussert"
+  - username: "laughlikeit"
     fullname: >-
-      Ryan Bussert
+      HiddenJewel_7
+    bio: >-
+      📍Chicago 🌱 Vegan 💃🏽TikTok Dancer Wannabe 🤪Silly 💕 Help Me Get To 5k. 💕
     location: "United States"
-    followers: 59115
-    engagement: 2423
-    commentsToLikes: 0.024751
-    id: cka0zbf9gesjj0i78ys1r4syl
+    followers: 3751
+    engagement: 1157
+    commentsToLikes: 0.144154
+    id: ck9e3tvkcl3lb0j784jlpdm9v
     verified: false
-    hashtags: "#test, #zombie, #notachance, #reallifeathome"
-  - username: "haleypresleymiller"
+    hashtags: "#phlebotomist, #trending, #foryoupage, #plantbased"
+  - username: "mowithafro"
     fullname: >-
-      Haley Presley
+      Massimo
+    bio: >-
+      Chicago Aspiring Dilf Venmo: massimoA 20 and immature
     location: "United States"
-    followers: 18205
-    engagement: 1080
-    commentsToLikes: 0.029728
-    id: cka7nq2dny52q0i78mog2csu9
+    followers: 4264
+    engagement: 2096
+    commentsToLikes: 0.100650
+    id: cka0rgmhdh10t0i78qzl1dlb6
     verified: false
-    hashtags: "#mybaby, #marriagestory, #makeuphack, #thehustle"
+    hashtags: "#stitch, #airheadsditchchallenge, #foryou, #fyp"
+  - username: "profe.teacher"
+    fullname: >-
+      Jackie
+    bio: >-
+      Chicago 🌎 Spanish Teacher👩🏼‍🏫 Venmo- @jsulisz Wishlist ⬇️
+    location: "United States"
+    followers: 2179
+    engagement: 1105
+    commentsToLikes: 0.075467
+    id: ckcv2cf5io2tg0j23y1exj1a3
+    verified: false
+    hashtags: "#teacherproblems, #teachersbelike, #greenscreen, #schoolhousetok"
   - username: "madisonhut"
     fullname: >-
       Madison
+    bio: >-
+      Chicago 📍 25 Ⓥ 🌱 🏋🏻
     location: "United States"
-    followers: 3142
-    engagement: 498
-    commentsToLikes: 0.035890
+    followers: 3929
+    engagement: 463
+    commentsToLikes: 0.035395
     id: ck9eulbaced8u0j78uy0kz9sq
     verified: false
-    hashtags: "#palmsprings, #avrillavigne, #fingerhutbakery, #donuts"
-  - username: "wildbiomeskinsens"
+    hashtags: "#foryoupage, #bakery, #indiana, #fyp"
+  - username: "liviflips"
     fullname: >-
-      wildbiomeskinsense
+      olivia romano
+    bio: >-
+      there’s prolly hella typos my b venmo - oliviaxromano
     location: "United States"
-    followers: 3161
-    engagement: 773
-    commentsToLikes: 0.091072
-    id: ck9jw7jz3vasg0j78zar5e8nr
+    followers: 12500
+    engagement: 926
+    commentsToLikes: 0.059175
+    id: cka0wgzwk2rym0i785nkonoc9
     verified: false
-    hashtags: "#foodgrade, #soapunmolding, #chocolate, #exfoliate"
-  - username: "jamesdeveney"
+    hashtags: "#tylerthecreator, #fyp, #foryou, #chicago"
+  - username: "jessicahash4"
     fullname: >-
-      James Deveney
+      Jessica Hash
+    bio: >-
+      Beauty*Fashion*Dance Keep it classy
     location: "United States"
-    followers: 66642
-    engagement: 1381
-    commentsToLikes: 0.041553
-    id: ck8hrxj8zaq0q0j78hi4qudcf
+    followers: 63200
+    engagement: 684
+    commentsToLikes: 0.073626
+    id: ckcjbj3uw8zqm0j23ucaqkkas
     verified: false
-    hashtags: "#addiction, #family, #workout, #england"
-  - username: "sophfeld"
+    hashtags: "#razrfit, #outfitideas, #funny, #duets"
+  - username: "realsircruse"
     fullname: >-
-      soph
+      Sir Cruse
+    bio: >-
+      $30 Page Post. Cashapp $Sircruse27 Email: Kingcrusejr@icloud.com
     location: "United States"
-    followers: 18883
-    engagement: 809
-    commentsToLikes: 0.031371
-    id: cka0pxaqua7x70i78wbzwieb6
+    followers: 336000
+    engagement: 953
+    commentsToLikes: 0.011493
+    id: ckb9i53bi89sk0j23xheq9ck8
     verified: false
-    hashtags: "#pancakecereal, #retailtherapy, #judaism, #rome"
-  - username: "innbeauty_project"
+    hashtags: "#sircruse, #fyp, #haircut, #360waves"
+  - username: "mburkez"
     fullname: >-
-      INNBEAUTY PROJECT 
+      Not Morgan
+    bio: >-
+      24 🌈🌱 Resintock@gmail.com Go follow IG @resintock
     location: "United States"
-    followers: 8526
-    engagement: 1853
-    commentsToLikes: 0.141452
-    id: ck8w2d7zn4wth0j78jubk8dd8
+    followers: 460200
+    engagement: 2096
+    commentsToLikes: 0.012880
+    id: cka69yaliuca20i78vwyfxn6t
     verified: false
-    hashtags: "#eyemasks, #clearskin, #lipglaze, #texture"
-  - username: "hauslabs"
+    hashtags: "#paint, #painting, #craft, #art"
+  - username: "icrystalclearu"
     fullname: >-
-      HausLabs
+      Luag Ntxhi Vaj
+    bio: >-
+      I eat, make, sleep, breathe FOOD 😁
     location: "United States"
-    followers: 4182
-    engagement: 1585
-    commentsToLikes: 0.086008
-    id: ckac76eomekkt0i78ry8pbsgj
-    verified: true
-    hashtags: "#chooseone, #beforeandafter, #makeupchallenges, #beautyroutine"
-  - username: "milkmakeup"
-    fullname: >-
-      milkmakeup
-    location: "United States"
-    followers: 263782
-    engagement: 2225
-    commentsToLikes: 0.018826
-    id: ck8hsc9v1co0q0j78la0fymc5
-    verified: true
-    hashtags: "#tiktokearthday, #team420, #earthchallenge, #kushlipglaze"
-  - username: "findingjayreace"
-    fullname: >-
-      🤴🏽Jꪖꪗ Rꫀꪖᥴꫀ 🌱
-    location: "United States"
-    followers: 7116
-    engagement: 1410
-    commentsToLikes: 0.268393
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 3404
+    engagement: 754
+    commentsToLikes: 0.021137
+    id: ckc30vh0lrhgg0j23jjv1vwv9
     verified: false
-    hashtags: "#footloose, #foodie, #parentsoftiktok, #veganfood"
+    hashtags: "#koreanfood, #fyp, #homemade, #tiktokrecipe"
+  - username: "reyonce_carter"
+    fullname: >-
+      ReemtheDream🥺🌊
+    bio: >-
+      I should probably be studying right now...
+    location: "United States"
+    followers: 3462
+    engagement: 1282
+    commentsToLikes: 0.022050
+    id: ckbf9vhmy15010j23xho9z6ac
+    verified: false
+    hashtags: "#snacks, #fyp, #foryoupage, #musthaves"
 ---

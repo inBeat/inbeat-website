@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Capetown In 2020
 description: >-
-  Find top health TikTok influencers in Capetown in 2020. Most popular hashtags: #capetown #covid19 #dance #chocolate.
+  Find top health TikTok influencers in Capetown in 2020. Most popular hashtags: #fyp #viral #tiktoksouthafrica #foryou.
 platform: TikTok
+hits: 4
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Capetown, South Africa for you to connect with.
 profiles:
-  - username: "richardhaubrich"
+  - username: "mikhaileryk"
     fullname: >-
-      Richard Haubrich
+      Mikhaile Ryklief
+    bio: >-
+      Two twisted sisters living in Cape Town!
     location: "South Africa"
-    followers: 41702
-    engagement: 1000
-    commentsToLikes: 0.023262
-    id: ck963n948vjsu0j78h6lutv6r
+    followers: 34100
+    engagement: 374
+    commentsToLikes: 0.019426
+    id: ckbl5g0uq31520j23rn3yyxud
     verified: false
-    hashtags: "#kway, #awemaybru, #chasingafrica, #ferrari"
-  - username: "talia.tucker"
+    hashtags: "#lockdown, #doggy, #dogsoftiktok, #pitbull"
+  - username: "chadhaupt_"
     fullname: >-
-      Talia Tucker
+      Chad Haupt
+    bio: >-
+      F O R G I N G G E N T L E M E N 🐺 Menswear Style Tips Build a timeless wardrobe
     location: "South Africa"
-    followers: 103078
-    engagement: 856
-    commentsToLikes: 0.041884
-    id: cka0rw3kwiu840i78c0227tgb
+    followers: 55600
+    engagement: 441
+    commentsToLikes: 0.045717
+    id: ckck3asvwn4bj0j23hjalbtjd
     verified: false
-    hashtags: "#itsfriday, #blueskies, #drawme, #adderall"
-  - username: "ultimatewildcat"
+    hashtags: "#autumnfashion, #mensfashion, #mensstyleguide, #dating"
+  - username: "danielle_retief"
     fullname: >-
-      WILDCAT 
+      Danielle Retief
+    bio: >-
+      Actress. Producer. Storyteller. Business owner. Instagram: @danielleretief
     location: "South Africa"
-    followers: 65492
-    engagement: 724
-    commentsToLikes: 0.013284
-    id: cka0szmsonpdh0i78m24wl6hu
+    followers: 31200
+    engagement: 980
+    commentsToLikes: 0.016373
+    id: ckal7kua2fmgp0i78qwbms7mf
     verified: false
-    hashtags: "#beauty, #family, #dancing, #transformation"
-  - username: "micaylecrous"
+    hashtags: "#actress, #comedy, #model, #setlife"
+  - username: "sheldonmbotes"
     fullname: >-
-      Micaylé
+      Sheldon M. Botes
+    bio: >-
+      Passionate about helping people reach their financial goals 😎
     location: "South Africa"
-    followers: 5544
-    engagement: 767
-    commentsToLikes: 0.039450
-    id: ckan4lg5aanzg0i784pu6v8js
+    followers: 3442
+    engagement: 422
+    commentsToLikes: 0.017121
+    id: ckc8djlak93wv0j23cv4lwahm
     verified: false
-    hashtags: "#mirror, #over18, #crushing, #colouredlife"
-  - username: "dutchmanscarcareclinic1"
+    hashtags: "#tiktoksouthafrica, #finance, #money, #bmw"
+  - username: "vintage_doll"
     fullname: >-
-      BossOfGloss
+      Yusrah Tayob :)
+    bio: >-
+      🇿🇦🇲🇿 She/her just here to spread some love - 🌻 Mental health awareness 💛
     location: "South Africa"
-    followers: 2060
-    engagement: 654
-    commentsToLikes: 0.006100
-    id: ck9jxlrjo19rx0j788q5dpzje
+    followers: 6679
+    engagement: 2724
+    commentsToLikes: 0.053012
+    id: ck9emc3xheht40j785ikus8dg
     verified: false
-    hashtags: "#bose, #pista, #gt2rs, #poppingbottles"
-  - username: "veiwtationtv27"
+    hashtags: "#spreadlove, #trending, #dance, #tiktoksa"
+  - username: "ourhealthylifestyle"
     fullname: >-
-      VeiwtationTv27
+      eden  + bella <3
+    bio: >-
+      ☆ follow us to see more food inspo ! ☆ ig: ourhealthlifestyle🦋
     location: "South Africa"
-    followers: 95440
-    engagement: 790
-    commentsToLikes: 0.003645
-    id: ckafttlbs71aa0i780vcsdmc7
+    followers: 28900
+    engagement: 1625
+    commentsToLikes: 0.016780
+    id: ckbkxhs2ite520j23ku4gx8e6
     verified: false
-    hashtags: "#pimple, #blanket, #paper, #chocolate"
-  - username: "tashmontlake"
+    hashtags: "#foryoupage, #corona, #viral, #food"
+  - username: "nourishdbowls"
     fullname: >-
-      Tash Montlake
+      Nourish’d Bowls
+    bio: >-
+      Stay Nourish’d with out Smoothie Bowls Create your own Masterpiece Smoothie 👇🏼
     location: "South Africa"
-    followers: 10289
-    engagement: 1078
-    commentsToLikes: 0.089118
-    id: ck981263la2ml0j78gyuatv33
+    followers: 19400
+    engagement: 591
+    commentsToLikes: 0.011475
+    id: ckbqvx7qwg67h0j23v1j0qbpl
     verified: false
-    hashtags: "#lockdownideas, #whytho, #sofunny, #crochetpattern"
-  - username: "tjklem"
+    hashtags: "#trending, #fyi, #healthy, #plantbasedrecipes"
+  - username: "angela.sa"
     fullname: >-
-      Tristan Klement
+      Angela 💛
+    bio: >-
+      TG🎁: @nabilmolai @...skittles..char @andrepepler kerneelsjoubert @byron_preto
     location: "South Africa"
-    followers: 8313
-    engagement: 727
-    commentsToLikes: 0.056696
-    id: cka0wi64s30pd0i781n4j599t
-    verified: false
-    hashtags: "#elonmusk, #tiktoksouthafrca, #education, #copingmechanism"
-  - username: "yvng_kadachi"
+    followers: 223500
+    engagement: 1439
+    commentsToLikes: 0.061822
+    id: ck8tu71dfsd9r0j78aaeblcos
+    verified: true
+    hashtags: "#angesquad, #duet, #seemeontrace, #comedy"
+  - username: "lemiez_h"
     fullname: >-
-      Yvng Kadachi🤡👹😈
+      Lemiez
+    bio: >-
+      The craziest, funniest, funcky 32 yr old WifeyMom, proudly SOUTH AFRICAN 🇿🇦
     location: "South Africa"
-    followers: 3072
-    engagement: 895
-    commentsToLikes: 0.179590
-    id: ckamuyggq1b680i782ytwvxj9
+    followers: 9987
+    engagement: 1309
+    commentsToLikes: 0.150459
+    id: ckdc8vkisi8850j23nnyuw0dk
     verified: false
-    hashtags: "#mcdonalds, #simp, #boopboopboop, #ugly"
-  - username: "sporttalk"
+    hashtags: "#tiktoksouthafrica, #fyp, #viral, #comedy"
+  - username: "christinacrysalis"
     fullname: >-
-      Sport Talk
+      Christina Crysalis
+    bio: >-
+      Create your own reality and transform your life ✨
     location: "South Africa"
-    followers: 43336
-    engagement: 926
-    commentsToLikes: 0.021297
-    id: ckamv59j5270c0i78icdlswdx
+    followers: 8029
+    engagement: 835
+    commentsToLikes: 0.060615
+    id: ckbqpqjnjaj0g0j23muv9ryfa
     verified: false
-    hashtags: "#buzzerbeater, #celebrityfail, #fail, #jonbonesjones"
+    hashtags: "#advice, #spiritual, #fyp, #consciousness"
 ---

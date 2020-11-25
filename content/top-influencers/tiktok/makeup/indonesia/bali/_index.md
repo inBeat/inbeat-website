@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Bali In 2020
 description: >-
-  Find top makeup TikTok influencers in Bali in 2020. Most popular hashtags: #foryou #coronavirus #fypage #makeup.
+  Find top makeup TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #viral #bali #foryou.
 platform: TikTok
+hits: 8
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
   - username: "sayblebaby"
     fullname: >-
       Sayble
+    bio: >-
+      💅🏼beauty / / travel Adhesive Eyeliner 👇🏼
     location: "Indonesia"
-    followers: 59125
-    engagement: 500
-    commentsToLikes: 0.071455
+    followers: 58200
+    engagement: 887
+    commentsToLikes: 0.067802
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#showmeyourwalk, #psychopath, #tiktokdubai, #spacethings"
+    hashtags: "#beautyessentials, #fallaesthetic, #adhesiveeyeliner, #makeuphacks"
+  - username: "ridhwansyh"
+    fullname: >-
+      RidhwanSyh ☑️
+    bio: >-
+      Real Akun
+    location: "Indonesia"
+    followers: 5910
+    engagement: 894
+    commentsToLikes: 0.096038
+    id: ck9evot8kji7e0j7829ffxd5o
+    verified: false
+    hashtags: "#lgbt, #tiktokmanado, #raikantopeni, #xyzbca"
+  - username: "backpackertampan"
+    fullname: >-
+      tampan
+    bio: >-
+      Living in Bali Follow my journey on IG @backpackertampan
+    location: "Indonesia"
+    followers: 487300
+    engagement: 1114
+    commentsToLikes: 0.015730
+    id: ck8kjxev8wpgy0j78iidyn8n7
+    verified: false
+    hashtags: "#kocak, #lucu, #fyp, #istanbul"
   - username: "aleksandranajda.com"
     fullname: >-
       AleksandraNajda
+    bio: >-
+      🥥 B A L I 🥥 travel girl 🌈 instagram: aleksandranajda
     location: "Indonesia"
     followers: 30675
     engagement: 632
     commentsToLikes: 0.012624
     id: ck8za6h960if60j78h9d3nvn9
     verified: false
-    hashtags: "#dogsoftiktok, #magnolia, #beachvibes, #stayathome"
-  - username: "ridhwansyh"
+    hashtags: "#balisquad, #bali, #quarantinetings, #tiktokindo"
+  - username: "dr.ziee"
     fullname: >-
-      Ridhwan Djauhari
+      dr. Yessica Tania
+    bio: >-
+      Medical Doctor 🩺 Beauty / Aesthetic Consultant I’m , Your Skin Best Friend 💋
     location: "Indonesia"
-    followers: 4543
-    engagement: 1061
-    commentsToLikes: 0.025348
-    id: ck9evot8kji7e0j7829ffxd5o
-    verified: false
-    hashtags: "#slow, #hutang, #slowmovideo, #slowmuo"
-  - username: "kimsmolina22"
-    fullname: >-
-      Kim Molina
-    location: "Indonesia"
-    followers: 1152213
-    engagement: 655
-    commentsToLikes: 0.012901
-    id: ckacx6xx7vvqc0i780vakkgej
+    followers: 1100000
+    engagement: 859
+    commentsToLikes: 0.031785
+    id: ckbqvgdsifood0j23rapkdlrp
     verified: true
-    hashtags: "#beautiful, #happy1m, #bagsakan, #whistle"
-  - username: "wikakrol.mindfultravel"
+    hashtags: "#skincarecheck, #tipsdrzie, #samasamabelajar, #dokter"
+  - username: "dillaprb"
     fullname: >-
-      Wika Krol
+      Dillah Probokusumo ⛓
+    bio: >-
+      Brand Ambassador of @mirandahaircare 20 📍Jakarta 🎓Law Faculty I enjoy sewing
     location: "Indonesia"
-    followers: 18978
-    engagement: 267
-    commentsToLikes: 0.013142
-    id: ck8z1i78o1o6f0j78rokh8umn
+    followers: 493700
+    engagement: 1519
+    commentsToLikes: 0.007980
+    id: ckbwl7xrl40x70j23ukcky208
+    verified: true
+    hashtags: "#foryoupage, #foryou, #localbrand, #tiktokpintar"
+  - username: "sundaridewi95"
+    fullname: >-
+      Sundari dewi
+    bio: >-
+      Hiii guys❤️🦋
+    location: "Indonesia"
+    followers: 245800
+    engagement: 832
+    commentsToLikes: 0.018312
+    id: ck92uqw9vn9h70j78jc3at3qz
     verified: false
-    hashtags: "#quarantine, #warszawa, #dzie, #viralvideo"
+    hashtags: "#balinese, #dancetutorial, #kpop, #foryoupage"
+  - username: "lucaepifany"
+    fullname: >-
+      Luca Epifani
+    bio: >-
+      📸🎥 Instagram @lucaepifany
+    location: "Indonesia"
+    followers: 314300
+    engagement: 636
+    commentsToLikes: 0.008508
+    id: ck80cqsvzam750j78sd8j9k0q
+    verified: false
+    hashtags: "#photographytricks, #iphonephotography, #videotricks, #photographytips"
+  - username: "koko_vania"
+    fullname: >-
+      Koko Vania
+    bio: >-
+      Follow ig ➡️ @Miss_vania24 Makeup Artist ( Wedding ) MC WSinger Ladyboy show
+    location: "Indonesia"
+    followers: 13900
+    engagement: 471
+    commentsToLikes: 0.067617
+    id: ckbque0kpeurf0j23mgwpycjo
+    verified: false
+    hashtags: "#tranding, #cantik, #masukbrandagak, #viral"
   - username: "dianaquinn_"
     fullname: >-
       DianaQuinn
+    bio: >-
+      IG @DianaQuinn_Makeup08 Subcribe Channel YouTube aku *DianaQuinn Official*
     location: "Indonesia"
-    followers: 19281
-    engagement: 1524
-    commentsToLikes: 0.033292
+    followers: 77200
+    engagement: 945
+    commentsToLikes: 0.041100
     id: ckamu6p9gxwdf0i78qqablrmp
     verified: false
-    hashtags: "#tiktokviral, #spreadhappiness, #skincareroutine, #mukabayi"
-  - username: "shandraoktaa"
-    fullname: >-
-      Shandra Okta
-    location: "Indonesia"
-    followers: 44292
-    engagement: 548
-    commentsToLikes: 0.035424
-    id: ck9evor6ojhnf0j78jo9fyxd0
-    verified: false
-    hashtags: "#fypage, #beranda, #mugshotchallenge, #makeup"
-  - username: "sayblebaby"
-    fullname: >-
-      Sayble
-    location: "Indonesia"
-    followers: 59125
-    engagement: 500
-    commentsToLikes: 0.071455
-    id: ck8khxt17opqi0j78jxqe9m2f
-    verified: false
-    hashtags: "#showmeyourwalk, #psychopath, #tiktokdubai, #spacethings"
-  - username: "chellecia"
-    fullname: >-
-      icel
-    location: "Indonesia"
-    followers: 7171
-    engagement: 818
-    commentsToLikes: 0.023416
-    id: cka0ppcd098da0i782e0hbopz
-    verified: false
-    hashtags: "#ootd, #unboxing, #taehyung, #calming"
-  - username: "isnainichoki"
-    fullname: >-
-      isnainichoki
-    location: "Indonesia"
-    followers: 44749
-    engagement: 508
-    commentsToLikes: 0.008958
-    id: ck9ezd49czrvc0j78u9gm9687
-    verified: false
-    hashtags: "#sambutramadhan, #pakeperasaan, #lathi, #tiktokaknettv"
+    hashtags: "#selebgram, #goodmoodtiaphari, #xyzbca, #fypdongggggggg"
 ---

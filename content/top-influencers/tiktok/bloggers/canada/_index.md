@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In Canada In 2020
 description: >-
-  Find top bloggers TikTok influencers in Canada in 2020. Most popular hashtags: #quarantine #blogger #keepingactive #tiktokcovers.
+  Find top bloggers TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #foryoupage #trending.
 platform: TikTok
+hits: 18
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 18 TikTok influencers like this in Canada for you to work with.
 profiles:
-  - username: "miniinaaz"
+  - username: "pinkmillennial"
     fullname: >-
-      miniinaaz
+      pinkmillennial_
+    bio: >-
+      Lifestyle blogger (who loves pink)of 10+ year! 70k followers on IG come join me
     location: "Canada"
-    followers: 36018
-    engagement: 650
-    commentsToLikes: 0.029717
-    id: ck80739zuocwt0j78nyvf9nsb
+    followers: 34400
+    engagement: 585
+    commentsToLikes: 0.060046
+    id: ckc3elrwz09v60j23kr335xp7
     verified: false
-    hashtags: "#awkward, #foodie, #putafingerdown, #muslimgirl"
+    hashtags: "#fashionblogger, #nailsartvideos, #styleblogger, #pinkoutfit"
+  - username: "pamperplace"
+    fullname: >-
+      thepamperplace
+    bio: >-
+      skincare blogger 🧖🏽‍♀️content creator IG: @ThePamperPlace
+    location: "Canada"
+    followers: 5087
+    engagement: 741
+    commentsToLikes: 0.044675
+    id: ckcp9huhcebyu0j23087mfvtl
+    verified: false
+    hashtags: "#foryou, #kbeauty, #skincare, #skincarebyhyram"
+  - username: "mysuitcasejourneys"
+    fullname: >-
+      Jas
+    bio: >-
+      🇨🇦 Travel Blogger 🇨🇦 Travel + Vancouver tips! More inspo on IG ✌🏼
+    location: "Canada"
+    followers: 110300
+    engagement: 1542
+    commentsToLikes: 0.017129
+    id: ck8kfeusrdvyj0j7828wqgsbs
+    verified: false
+    hashtags: "#beautifulbc, #japaneseculture, #japantravel, #bccanada"
   - username: "stefanaarnio"
     fullname: >-
       Stefan Aarnio
+    bio: >-
+      🏡 Real Estate Investor & Coach 📚 Author, Blogger, Entrepreneur 🎙 Podcaster
     location: "Canada"
-    followers: 28201
-    engagement: 409
-    commentsToLikes: 0.025460
+    followers: 120700
+    engagement: 584
+    commentsToLikes: 0.017514
     id: ck9v26kvzk8j40j78m4o3kt4s
     verified: true
-    hashtags: "#advice, #success, #money"
+    hashtags: "#men, #foryou, #realestate, #business"
+  - username: "majakwei"
+    fullname: >-
+      Maja Kwei
+    bio: >-
+      Beauty + Lifestyle Blogger ✨ I hope to inspire! All Details at MajaKwei.com 👇
+    location: "Canada"
+    followers: 26000
+    engagement: 230
+    commentsToLikes: 0.050637
+    id: ck9v8tbhyb3ix0j785kt8ravb
+    verified: false
+    hashtags: "#skintechnique, #lipfiller, #foryoupage, #travel"
+  - username: "jetlaggedlovers"
+    fullname: >-
+      Katia OK
+    bio: >-
+      Ice skater & fashion travel blogger ❤️ come say hi on insta!
+    location: "Canada"
+    followers: 70400
+    engagement: 742
+    commentsToLikes: 0.014239
+    id: ck8qgx6732n580j78i8oozh6i
+    verified: false
+    hashtags: "#tiktokfashion, #mypet, #imjealous, #unipride"
   - username: "teachmestyle"
     fullname: >-
       TEACHMESTYLE
+    bio: >-
+      First grade teacher & lifestyle blogger! IG @teachme_style
     location: "Canada"
-    followers: 8594
-    engagement: 416
-    commentsToLikes: 0.022435
+    followers: 14300
+    engagement: 447
+    commentsToLikes: 0.021233
     id: ck9tuaphhkqnw0j78stkx38br
     verified: false
-    hashtags: "#make, #eatthis, #weekend, #athleticwear"
+    hashtags: "#delicious, #health, #style, #foryou"
   - username: "allstylelife"
     fullname: >-
       Charlene Wong
+    bio: >-
+      Follow for Fitness Challenges! Certified PT Lifestyle Blogger ✨ IG @AllStyleLife
     location: "Canada"
-    followers: 6026
-    engagement: 308
-    commentsToLikes: 0.050914
+    followers: 46900
+    engagement: 491
+    commentsToLikes: 0.011858
     id: ck9rokdakczdz0j78sgyqb9iv
     verified: false
-    hashtags: "#thedrip, #macarena, #tiktok, #springoutfit"
+    hashtags: "#funworkout, #homegym, #workoutchallenge, #fyp"
   - username: "parkhi_ohri_"
     fullname: >-
       officialparkhi.
+    bio: >-
+      Artist Sc :pohri9 Use #parkhiohri Follow me on instagram to stay connected
     location: "Canada"
-    followers: 24257
-    engagement: 704
-    commentsToLikes: 0.039502
+    followers: 40900
+    engagement: 933
+    commentsToLikes: 0.000000
     id: ck8qoqb5j02530j787g0l5kvx
     verified: false
-    hashtags: "#nimratkhaira, #garrysandhu, #positivevibes, #punjabiboliya"
-  - username: "yourgirlkarly"
+    hashtags: "#punjabimuser, #punjabisong, #tiktok, #brampton"
+  - username: "rinalmomen"
     fullname: >-
-      Your Girl Karly
+      Rina🦋
+    bio: >-
+      18 🇨🇦 Beauty & fashion Makeup details on Instagram 💌 rinaalmomen@icloud.com
     location: "Canada"
-    followers: 194910
-    engagement: 1229
-    commentsToLikes: 0.016933
-    id: ck8oye8746v3n0j78s67e86q3
+    followers: 23700
+    engagement: 1154
+    commentsToLikes: 0.019136
+    id: ckb9gp28962x60j23w3ns4xhg
     verified: false
-    hashtags: "#tiktokbachelor, #bumbledate, #mixedgirl, #mixedrace"
-  - username: "midhvan"
-    fullname: >-
-      midhvan gulati 🇨🇦
-    location: "Canada"
-    followers: 148455
-    engagement: 1056
-    commentsToLikes: 0.027687
-    id: ck8kg0lh7geej0j7844e2ia6m
-    verified: false
-    hashtags: "#haha, #newtrend, #happy, #ootd"
-  - username: "juliasloann"
-    fullname: >-
-      Julia
-    location: "Canada"
-    followers: 42936
-    engagement: 517
-    commentsToLikes: 0.011496
-    id: ck806x0bxmpip0j78btccok2e
-    verified: false
-    hashtags: "#fabricofyou, #lovingtan, #howto, #bling"
-  - username: "nilou.fardd"
-    fullname: >-
-      Nilou Fard
-    location: "Canada"
-    followers: 12668
-    engagement: 308
-    commentsToLikes: 0.042983
-    id: ck90r2g2fkumv0j78fnfoaaeh
-    verified: false
-    hashtags: "#fashion, #relationship, #quarintine, #finalsathome"
-  - username: "kaur_bal_21"
-    fullname: >-
-      Kaur Bal 👑
-    location: "Canada"
-    followers: 13703
-    engagement: 462
-    commentsToLikes: 0.013413
-    id: ck8vyxa0mv9mh0j78zik53k1q
-    verified: false
-    hashtags: "#bridaloutfit, #mann, #viral, #blopper"
+    hashtags: "#halloweenmakeuptutorial, #halloweencostume, #makeuphacks, #halloween2020"
 ---

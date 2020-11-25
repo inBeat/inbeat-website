@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Peru In 2020
 description: >-
-  Find top comedians Instagram influencers in Peru in 2020. Most popular hashtags: #comedia #quedateencasa #travel #cuarentena.
+  Find top comedians Instagram influencers in Peru in 2020. Most popular hashtags: #comedia #quedateencasa #publicidad #style.
 platform: Instagram
+hits: 27
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 27 Instagram influencers like this in Peru for you to contact.
 profiles:
+  - username: "fernandamarsano"
+    fullname: >-
+      Fernanda Marsano 🦄
+    bio: >-
+      Entrepreneur |Comedian |Actress Owner: @firaysana @labodegadefernanda_
+    location: "Peru"
+    followers: 26160
+    engagement: 248
+    commentsToLikes: 0.071438
+    id: ck6ucvulyhr0m0j7186ra4e96
+    verified: false
+    hashtags: "#travelphotography, #love, #blackandwhitephotography, #home"
   - username: "danilachepi"
     fullname: >-
       Daniela Viaggiamari (La Chepi)
+    bio: >-
+      Mama de Isa.Actriz.Comediante.Cantante Comercial: @latinfluence Gira post cuarentena 👇
     location: "Peru"
-    followers: 2078241
-    engagement: 496
-    commentsToLikes: 0.248403
+    followers: 2319256
+    engagement: 975
+    commentsToLikes: 1.348630
     id: ck5heo4fttxkj0i11uyxwnozq
     verified: true
-    hashtags: "#teamchepi, #quedateencasa, #cagarol, #altoplan"
-  - username: "fernandamarsano"
-    fullname: >-
-      Maria Fernanda Marsano
-    location: "Peru"
-    followers: 24954
-    engagement: 273
-    commentsToLikes: 0.041204
-    id: ck6ucvulyhr0m0j7186ra4e96
-    verified: false
-    hashtags: "#friends, #pink, #body, #comedy"
+    hashtags: "#sonre, #isa, #diainternacionaldelanina, #elgrupodemamis"
   - username: "jorgetalaveraca"
     fullname: >-
-      JORGE TALAVERA
+      Jorge Talavera
+    bio: >-
+      Comediante - Actor Creador de contenido 🔥 Mi video podcast🎙: @nisumaniresta
     location: "Peru"
-    followers: 120578
-    engagement: 476
-    commentsToLikes: 0.056212
+    followers: 115993
+    engagement: 374
+    commentsToLikes: 0.101724
     id: ck6u90yqouukl0j7121lnh6ju
     verified: true
-    hashtags: "#as, #cuarentenaenpareja, #staytodayroartomorrow, #ojalaquealguientemirecomoyomiroachewbacca"
+    hashtags: "#pumafuturerider, #publicidad, #martesdeconfesiones, #taladatos"
   - username: "kainospr"
     fullname: >-
       KAINOS | 1ST IS GOD
+    bio: >-
+      |🎭:Comediante |🎙:Cantante |🕹:YouTuber |📺:YouTube Comedia: Kainostv |📺:Youtube Música: Kainospr |📀:No Me Llames 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽
     location: "Peru"
-    followers: 32858
-    engagement: 342
-    commentsToLikes: 0.207585
+    followers: 34497
+    engagement: 355
+    commentsToLikes: 0.169025
     id: ck5ciw5i9thvo0i11fy8qshnv
     verified: false
-    hashtags: "#newyork, #style, #friends, #girl"
+    hashtags: "#tbt, #cute, #me, #friends"
   - username: "piareconpe"
     fullname: >-
       PiARE
+    bio: >-
+      Actriz, profesora y comediante. Mamá de Diego, que es el niño más perfecto y hermoso del mundo! Según yo. Y criamos juntos a #Torniquete 😻
     location: "Peru"
     followers: 42764
     engagement: 163
     commentsToLikes: 0.062846
     id: ck14ha3ox9auh0i19p3xc0lnn
     verified: false
-    hashtags: "#entretenimiento, #growshop, #cuidate, #insta"
-  - username: "jorcris_"
+    hashtags: "#encasa, #quedateencasa, #covid, #pandemiaconpe"
+  - username: "merycaldass"
     fullname: >-
-      Jorcris_
+      Mery Caldass
+    bio: >-
+      toma dale gasolina y que no decaiga🔥 ⚡️Cuenta personal: @mariacaldaas 🎬Youtube: Mery Caldass 📩Gmail: merycaldas@bushidotalent.com
     location: "Peru"
-    followers: 14171
-    engagement: 930
-    commentsToLikes: 0.084286
-    id: ck8wen8dzeb8x0j78ioof27qi
+    followers: 68763
+    engagement: 1613
+    commentsToLikes: 0.009765
+    id: ckf5ngftdy5oo0j2307e5t2jo
     verified: false
-    hashtags: "#lgtbperu, #nosedice, #chiclayo, #abril"
-  - username: "judithqr01"
+    hashtags: "#comediante, #humorista, #comedia, #primestudentes"
+  - username: "gabrielleout"
     fullname: >-
-      J҉U҉D҉I҉T҉H҉
+      Gabriel Peñavasquez
+    bio: >-
+      Mamá | Emprendedora | Lifestyle • -A+E ￼ • AnimalLover♥️ • Marketing y Comunicaciones📚 📍Lima, Perú 📩 info@gabrielleout.com #Virginia 😜
     location: "Peru"
-    followers: 12226
-    engagement: 1279
-    commentsToLikes: 0.036706
-    id: ckaowwl9narx70i78se6c9qrt
+    followers: 36082
+    engagement: 383
+    commentsToLikes: 0.089212
+    id: ckf5piqf368mi0j23dcb80qil
     verified: false
-    hashtags: "#topografia, #likeforlikes, #sexy, #photographie"
-  - username: "svaleskaaf"
+    hashtags: "#peru, #family, #mama, #lifestyle"
+  - username: "chistosos_rexs"
     fullname: >-
-      Valeska Figueroa 🏳️‍🌈
+      Rexi y Bexi
+    bio: >-
+      Somos Bexi y Rexi, los hermanos Rex más chistosos de Instagram. ¡Síguenos! ⬇️Te recomiendo este cortometraje⬇️
     location: "Peru"
-    followers: 6614
-    engagement: 533
-    commentsToLikes: 0.070656
-    id: ck6u915t8uvtz0j71w9b7ktnl
+    followers: 65770
+    engagement: 517
+    commentsToLikes: 0.006021
+    id: ck14iaagmeeo80i19v8okn7no
     verified: false
-    hashtags: "#makeupaddict, #tumbling, #calle13, #picsartedit"
-  - username: "diego_oustin"
+    hashtags: "#humorespa, #comedia, #chistosos, #dinosaurio"
+  - username: "andyjqm"
     fullname: >-
-      DiegoOustin⚠️
+      Andy quintero ✨
+    bio: >-
+      ✉️ andyquin0710@gmail.com 🇻🇪 en 🇵🇪 TIKTOK: AndyJQM +580k Nuevo video en YouTube 👇🏻
     location: "Peru"
-    followers: 2688
-    engagement: 1654
-    commentsToLikes: 0.113760
-    id: ck6u7ewjgl3uj0j7109bdfnpn
+    followers: 38850
+    engagement: 1047
+    commentsToLikes: 0.033111
+    id: ck8wd9vehdju10j78j6wc1n39
     verified: false
-    hashtags: "#comedia, #diegooustin, #sue, #verano2019"
-  - username: "sarayatenas"
+    hashtags: "#reebook, #reebokperu, #publicidad, #peru"
+  - username: "maricieloeffio"
     fullname: >-
-      Sara y Atenas
+      Maricielo Effio
+    bio: >-
+      💜 Mama de Brissa 🎭Actriz Peru 🇵🇪 👉🏼Fanny en #DeVueltaAlBarrio📺 @americatelevision 💃Dancer 👼Ex paquita
     location: "Peru"
-    followers: 24456
-    engagement: 1494
-    commentsToLikes: 0.057668
-    id: ck5zzou86c58o0i14tip186tk
+    followers: 421511
+    engagement: 341
+    commentsToLikes: 0.037728
+    id: ck5bwfpzflm6s0i11qjclpbt8
     verified: false
-    hashtags: "#pride, #travel, #lgtb, #comedia"
+    hashtags: "#quedateencasa, #cuarentena, #fanny, #dancing"
 ---

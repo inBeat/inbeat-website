@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Montreal In 2020
 description: >-
-  Find top skincare Instagram influencers in Montreal in 2020. Most popular hashtags: #skincare #flattenthecurve #mothersday #beauty.
+  Find top skincare Instagram influencers in Montreal in 2020. Most popular hashtags: #skincare #thenoisetier #montreal.
 platform: Instagram
+hits: 26
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 26 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "thecityismineto"
+  - username: "working_chix"
     fullname: >-
-      The City Is Mine | Mili Jain
+      Anna Przezak
+    bio: >-
+      Fashion, Beauty & Lifestyle Blogger CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 6839
-    engagement: 422
-    commentsToLikes: 0.198824
-    id: ck6ttuhd0cnnl0j71ik2bmavx
+    followers: 35197
+    engagement: 172
+    commentsToLikes: 0.057500
+    id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#makeuplove, #caeserdrinks, #sundaymornings, #getinmybelly"
-  - username: "rosato"
+    hashtags: "#parisianchic, #toronto, #frenchvibes, #frenchgirlstyle"
+  - username: "anniitron"
     fullname: >-
-      Cristina Rosato
+      Anny Truong
+    bio: >-
+      📍 Montreal 🕶 Co-founder @parkandfinch 💼 Founder @aprilgoldbags 🚲 Ambassador @lespinmtl 💌 Anny.truong@hotmail.com
     location: "Canada"
-    followers: 11941
-    engagement: 481
-    commentsToLikes: 0.091233
-    id: ck6u2clq0r14d0j71e2irrdj3
-    verified: true
-    hashtags: "#staythefuckhome, #graphite, #canadiennesinla, #flattenthecurve"
-  - username: "hungry.jo"
-    fullname: >-
-      Jo (Toronto Food & Lifestyle)
-    location: "Canada"
-    followers: 18793
-    engagement: 277
-    commentsToLikes: 0.533714
-    id: ck5zs803wxzza0i14d5ekp97a
+    followers: 5139
+    engagement: 825
+    commentsToLikes: 0.256295
+    id: ck55mzoqf56650i11gfumsbqy
     verified: false
-    hashtags: "#tastethe6ix, #glam, #giveaway, #happythoughts"
-  - username: "florencemrtl"
+    hashtags: "#endypartner, #coffeebreak, #replicafragrances, #auratenewyork"
+  - username: "styled_by_seven"
     fullname: >-
-      FLORENCE MARTEL
+      CASSIDY NEVES
+    bio: >-
+      From Montreal Content Creator & Business student Podcast @extrareelpod ✉️ cassidyneves@outlook.com
     location: "Canada"
-    followers: 6413
-    engagement: 1242
-    commentsToLikes: 0.272789
-    id: ckapbmk5g0gfp0i7814gcjzli
+    followers: 19256
+    engagement: 316
+    commentsToLikes: 0.038519
+    id: ck134egyaw1v20i19hru90lv3
     verified: false
-    hashtags: "#spring, #moods, #skincare, #achatlocal"
-  - username: "davidkidd_portfolio"
+    hashtags: "#spcdeals, #dynamitestyle, #ad, #affordableskincare"
+  - username: "lolhamz"
     fullname: >-
-      🦉David Kidd | Photographer🦉
+      kalea noelani
+    bio: >-
+      lil’ dewy✨ • montréal #SEPHORASQUAD 💌: thelolhamz@hotmail.com
     location: "Canada"
-    followers: 6887
-    engagement: 471
-    commentsToLikes: 0.092888
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 5619
+    engagement: 1173
+    commentsToLikes: 0.041993
+    id: ck13bmxl1w79f0i19s63e6wge
     verified: false
-    hashtags: "#fire, #actionphotoshop, #family, #blackmen"
-  - username: "alexandrajaye"
+    hashtags: "#kushmascara, #superbrow, #glossier, #studiofam"
+  - username: "nikkibonair"
     fullname: >-
-      Alex Weinstein
+      Nikki Balch
+    bio: >-
+      Montreal |🎙Nikki & The Morning Show, every weekday morning @thebeat925 | Skincare, Self-Care and Curvy Fashion | Collabs: Nikkibonair@gmail.com
     location: "Canada"
-    followers: 18549
-    engagement: 188
-    commentsToLikes: 0.021571
-    id: ck5hhpd2y9f9h0i11b2sbxiui
+    followers: 6362
+    engagement: 703
+    commentsToLikes: 0.081285
+    id: ck138cviafmcn0i194j0d8jck
     verified: false
-    hashtags: "#liketkit, #backoncanadiansoil, #happyshopping, #quarantinebuddies"
-  - username: "monikachxpra"
+    hashtags: "#velashape3, #blacklivesmatter, #lovegoes, #samsmith"
+  - username: "instawanza"
     fullname: >-
-      MONIKA CHOPRA
+      Wided (instawanza)
+    bio: >-
+      📍Montréal 🇨🇦 🦸🏻‍♀️Motherhood, Self Care, Beauty & Lifestyle 🎥YouTube vidéos 👇🏼
     location: "Canada"
-    followers: 14181
-    engagement: 702
-    commentsToLikes: 0.046821
-    id: ck6u7w08qnyuj0j71yvbzxmbu
+    followers: 187835
+    engagement: 288
+    commentsToLikes: 0.025463
+    id: ckaoynl0si9f10i784lhe6n3y
     verified: false
-    hashtags: "#disneygram, #torontofashion, #citylove, #trueyorkcity"
-  - username: "malikaberube"
+    hashtags: "#momof3, #mylove, #fallvibes, #throback"
+  - username: "westmountfashionista"
     fullname: >-
-      Montreal Bridal Makeup Artist
+      Jessica 📍 Montreal Blogger
+    bio: >-
+      {Blogging since 2011} Montreal|Flowers| Fashion|Handbags|Travel|Beauty|Mum to #madamandme 💌:jessica@westmountfashionista.com
     location: "Canada"
-    followers: 12644
-    engagement: 148
-    commentsToLikes: 0.065657
-    id: ck15tuhxnjyro0i19kgiu5y6y
+    followers: 29716
+    engagement: 164
+    commentsToLikes: 0.097280
+    id: ck0tvzowhdhsy0i195evfsxa1
     verified: false
-    hashtags: "#beauty, #abhsultry, #makeuplover, #colorfulmakeup"
-  - username: "amyin613"
+    hashtags: "#wmftravels, #traveltuesday, #cccertified, #montrealjewelry"
+  - username: "mommy_and_mira"
     fullname: >-
-      Amy in 613 • blogger in Ottawa
+      Tahani.H🇨🇦🇮🇶Ottawa♡Canada
+    bio: >-
+      |Fashion& Beauty|Lifestyle|Travel| Mum to #mommyyandmira 📍Ottawa•Montreal | 📧 For Business inquiries | Beauty account: @withstyyle
     location: "Canada"
-    followers: 17123
-    engagement: 650
-    commentsToLikes: 0.381918
-    id: ck5pzkx451hac0i11twq5hqer
+    followers: 53414
+    engagement: 127
+    commentsToLikes: 0.291121
+    id: ck6u7w19snz1x0j71cpu5wk7j
     verified: false
-    hashtags: "#localdelivery, #barre, #beautyblogger, #traveltips"
-  - username: "alexandracos_"
+    hashtags: "#onemillionsheinbucks, #sheingals, #shein, #ad"
+  - username: "ariacalli"
     fullname: >-
-      ALEXANDRA COSENTINO
+      ARIA〰️fashion beauty lifestyle
+    bio: >-
+      montreal stylist / creative 🤠
     location: "Canada"
-    followers: 128071
-    engagement: 133
-    commentsToLikes: 0.024709
-    id: ck55mo0sd4dgw0i118b9bk8r2
+    followers: 3300
+    engagement: 1369
+    commentsToLikes: 0.250973
+    id: ck8tbksikw1420j78ip326zz7
     verified: false
-    hashtags: "#california, #happylife, #ohwell, #myjourney"
+    hashtags: "#productphotography, #beatthealgo, #andsave, #skinstagram"
+  - username: "petiteandbold"
+    fullname: >-
+      Josiane Konaté
+    bio: >-
+      Skincare Enthusiast & Visual Story Teller Maman Creative Agency @keurlule Founder @maisonpetiteandbold Curator @anothernarrativeofafrica
+    location: "Canada"
+    followers: 30136
+    engagement: 180
+    commentsToLikes: 0.069786
+    id: ck5hn83c3ndn40i11sj038xs2
+    verified: false
+    hashtags: "#howtobeparisian, #melaningold, #minimalstreetstyle, #thecreatorclass"
 ---

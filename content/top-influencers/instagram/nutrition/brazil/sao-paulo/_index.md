@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top nutrition Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #amor #blessed #motivation #love.
+  Find top nutrition Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #foco #gym #tbt #dieta.
 platform: Instagram
+hits: 7
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 7 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "joaorocco"
+  - username: "raf92felipe"
     fullname: >-
-      Joao Rocco
+      Rafael Oliveira
+    bio: >-
+      🙋🏽‍♂️28 years 👨🏽‍🎓nutrition 📍São Paulo, Brasil🇧🇷 📩 Parcerias/trabalhos direct
     location: "Brazil"
-    followers: 16854
-    engagement: 649
-    commentsToLikes: 0.022852
-    id: ck5hhceao7ich0i11c5ldcekj
+    followers: 265505
+    engagement: 102
+    commentsToLikes: 0.016479
+    id: ck5zrobzwwygo0i14oqjjyj3c
     verified: false
-    hashtags: "#ibirapuera, #orgulho, #medicina, #cardio"
-  - username: "deiadealmeida"
+    hashtags: "#gym, #after, #verao, #argentina"
+  - username: "cadubarretobr"
     fullname: >-
-      Andreia Almeida De Gino
+      Cadu Barreto
+    bio: >-
+      📍São Paulo #Globetrotter | #Fitness | #Travel | #Nutrition ✈️ 🌎 🏋🏻‍♀️🍗🏳️‍🌈 👑 Teste meus filtros! Try my Filters! 🤗
     location: "Brazil"
-    followers: 44438
-    engagement: 38
-    commentsToLikes: 0.394195
-    id: ck0vvy562raqt0i19zf0mt6ff
+    followers: 33495
+    engagement: 456
+    commentsToLikes: 0.046725
+    id: ck8t33zf51rjt0j78ptl521m2
     verified: false
-    hashtags: "#stayathome, #nature, #smoothiebowl, #feliznatal"
-  - username: "caamicavalcante"
+    hashtags: "#hairy, #bearded, #stud, #barbado"
+  - username: "_moorais"
     fullname: >-
-      CAMILA
+      Lucas Morais 
+    bio: >-
+      • Insta Oficial • Publicidade @colgatebrasil • Empresário @lustimport • São Paulo / • Taurino ⬇️Clique faça seu pedido via Whats⬇️
     location: "Brazil"
-    followers: 15620
-    engagement: 227
-    commentsToLikes: 0.076466
-    id: ck8td40do1s0r0j78a810u1t6
+    followers: 27958
+    engagement: 387
+    commentsToLikes: 0.023099
+    id: ck14i0ngfd2nm0i194lexn7vj
     verified: false
-    hashtags: "#paraiso, #mulheres, #quarentreina, #negocios"
-  - username: "danichavesrun"
+    hashtags: "#workout, #body, #sa, #gayboy"
+  - username: "braulioestima"
     fullname: >-
-      Daniel Chaves (No 🌳)
+      Braulio Estima
+    bio: >-
+      @graciebarra @jiujitsunutrition @noccouk @gbwear • BJJ (ADCC) multiple time World Champion • Black Belt 4th degree JIU JITSU NUTRITION
     location: "Brazil"
-    followers: 19784
-    engagement: 432
-    commentsToLikes: 0.027331
-    id: ck5q881fa4vwb0i11yd6nqito
-    verified: false
-    hashtags: "#disciplina, #ciclismo, #teambravo, #empatia"
-  - username: "kilianhagen"
+    followers: 114842
+    engagement: 111
+    commentsToLikes: 0.034037
+    id: ck55jj83px5710i11jq7kyfc4
+    verified: true
+    hashtags: "#bjj, #braulioestima, #gbathome, #repost"
+  - username: "dra_analia"
     fullname: >-
-      Kilian Hagen
+      ANÁLIA BARHOUCH
+    bio: >-
+      Nutricionista Mestre e Doutora Dietitian M.S. Ph.D 🇧🇷 living in NYC Observership in Obesity at Lenox Hill Hospital 🇺🇸 Agende a consulta online👇
     location: "Brazil"
-    followers: 17618
-    engagement: 945
-    commentsToLikes: 0.030053
-    id: ck6u6mupkgj4w0j71p47jkofg
-    verified: false
-    hashtags: "#teamhagen"
-  - username: "alessandradelduque"
+    followers: 199168
+    engagement: 73
+    commentsToLikes: 0.117302
+    id: ck0vvs89zqivc0i19af1hdphu
+    verified: true
+    hashtags: "#healthychoices, #weightloss, #draanalia, #nutricaocomamor"
+  - username: "dra.laisfuzetto"
     fullname: >-
-      Alessandra Delduque
+      Dra. Laís Fuzetto
+    bio: >-
+      Médica 📚 Saúde, esporte e arte 🧘🏼‍♀️ Rio Claro➡️ Av. 14, 1154 Limeira ➡️ Naturale Clínica: Av. Antônio Ometto, 525 Agendamentos ⬇️
     location: "Brazil"
-    followers: 26355
-    engagement: 326
-    commentsToLikes: 0.114151
-    id: ck6u6wsczi63l0j71mq2m35ud
+    followers: 22739
+    engagement: 480
+    commentsToLikes: 0.030345
+    id: ck14kkez7py1h0i19ih9pw72u
     verified: false
-    hashtags: "#coisasboasacontecem, #harmonizacaofacial, #treinao, #tbt"
-  - username: "carolwellnesspro"
+    hashtags: "#bikelove, #nutrologia, #exercise, #esporte"
+  - username: "marthinhabjj"
     fullname: >-
-      👸🏾CAROL CARDOSO WELLNESS🇧🇷
+      💎Marthinha Ferreira💎
+    bio: >-
+      “Tudo no tempo de Deus”🙏🏻✨ 1X Pan Kids IBJJF 1X Sul Americano IBJJF 1X Brasileiro CBJJ 2X Mundial CBJJE 3X Paulista FPJJ 4X Internacional Youth UAEJJF
     location: "Brazil"
-    followers: 93226
-    engagement: 227
-    commentsToLikes: 0.127229
-    id: ck139bk4hkhme0i194d36dqik
+    followers: 8648
+    engagement: 489
+    commentsToLikes: 0.047404
+    id: ckf5vnouqp95h0j2315apoc7b
     verified: false
-    hashtags: "#bikini, #tumblr, #motivation, #semana"
+    hashtags: "#jiujitsulifestyle, #patrocinado, #bjjgirls, #mktbrasil"
+  - username: "fabianoguigas"
+    fullname: >-
+      Fabiano Dantas Guigas
+    bio: >-
+      😷Dentista & Empreendedor CEO @centraldosuplemento @cdsdistribuidoraba @1pure_nutrition @coachsupplementbr @muscleprobr @elementox.energy Youtube
+    location: "Brazil"
+    followers: 57941
+    engagement: 1324
+    commentsToLikes: 8.516038
+    id: ck9wdedpof9j70j781dmzpt5e
+    verified: false
+    hashtags: "#tbt, #tiktok, #training, #lifestyle"
+  - username: "helenkamura"
+    fullname: >-
+      Helen Kamura
+    bio: >-
+      📍Alagoana 🛩 RJ 🎓Nutrição 🦁Leonina 👑Mãe da princesa Sophie 💍 Bruno Inglez 🏋🏻‍♀️@teamcarolvaz 💊@dcx.nutrition 💪🏼@mundomarombabr Cupom 10%: Helen01
+    location: "Brazil"
+    followers: 23503
+    engagement: 536
+    commentsToLikes: 0.067710
+    id: ckaov5rru36f60i78ddw9j1pm
+    verified: false
+    hashtags: "#exercise, #shape, #fitnessgirl, #fitstagram"
   - username: "taticoelhotati"
     fullname: >-
       Tati Coelho
+    bio: >-
+      RJ • SEIS PITS • VIDA SAUDÁVEL ⠀ 🌞✨ 🌊🧘🏻‍♀️🧿 ♌️ 🌻🐾 ⠀ 𝒆𝒎 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 ➜ @dcx.nutrition 🚀 ➜ @mundomarombabr 💥
     location: "Brazil"
-    followers: 15702
-    engagement: 561
-    commentsToLikes: 0.068958
+    followers: 29488
+    engagement: 1548
+    commentsToLikes: 0.030101
     id: ckaov5qtk36as0i78peoq4gp0
     verified: false
-    hashtags: "#blessed, #photoshoot, #waterfall, #inspiration"
-  - username: "jotta.mike"
-    fullname: >-
-      Jônatas Guimarães
-    location: "Brazil"
-    followers: 107825
-    engagement: 452
-    commentsToLikes: 0.023966
-    id: ckap7pai3kz2h0i78g6sgo95d
-    verified: false
-    hashtags: ""
-  - username: "maripsaad"
-    fullname: >-
-      🌻 MARIANA SAAD
-    location: "Brazil"
-    followers: 15255
-    engagement: 325
-    commentsToLikes: 0.092814
-    id: ckaov5sbo36ie0i784hkzihmm
-    verified: false
-    hashtags: "#flashbackfriday, #fbf, #crie, #inove"
+    hashtags: "#sejaobem, #ootd, #yogapractice, #inspire"
 ---

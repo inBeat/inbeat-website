@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Bali In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Bali in 2020. Most popular hashtags: #graphicdesign #bali #covid19 #dirumahaja.
+  Find top graphic-designers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #wowconcert #likeforlike #merawatsanggaruda.
 platform: Instagram
+hits: 5
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 5 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "rrveld"
-    fullname: >-
-      Designer | SMM
-    location: "Indonesia"
-    followers: 2021
-    engagement: 2976
-    commentsToLikes: 0.082941
-    id: ck8sya0n1k8hu0j78uddy7y5n
-    verified: false
-    hashtags: ""
-  - username: "irfan.nursahid08"
-    fullname: >-
-      irfan nursahid
-    location: "Indonesia"
-    followers: 29827
-    engagement: 374
-    commentsToLikes: 0.003322
-    id: ck9whliovyet70j789pvqd3f6
-    verified: false
-    hashtags: "#trip, #jogjakarta, #digitalart, #green"
   - username: "arifwhy"
     fullname: >-
       Bumbu Indomie
+    bio: >-
+      #Illustrator and #graphicdesigner Based in Bandung, West java - Indonesia 📩 rievwhy@gmail.com 📱 +6285352713234 #ripcreat #arifwhy
     location: "Indonesia"
     followers: 4935
     engagement: 413
     commentsToLikes: 0.027964
     id: ck13bdl1qux2u0i19gp4m087d
     verified: false
-    hashtags: "#mascott, #parasite, #barong, #artobiantoro"
+    hashtags: "#stayhealthy, #wecomeinpeace, #eazymoneyuniverse, #hoki"
+  - username: "shellamulia"
+    fullname: >-
+      Shella Mulia 🐈
+    bio: >-
+      A curious girl, a wanderer. 🎀 @coracraft.id 💁🏻 Graphic Designer 📮 shellamulia1705@gmail.com
+    location: "Indonesia"
+    followers: 3200
+    engagement: 999
+    commentsToLikes: 0.044840
+    id: ck1381cxbe0zt0i19of6q387f
+    verified: false
+    hashtags: "#liveauthentic, #likeforlike, #livefolk, #sunday"
+  - username: "michellindw"
+    fullname: >-
+      Mich
+    bio: >-
+      OPEN ENDORSEMENT | collab 📩 DM Fashion | Beauty | Lifestyle Makeup Artist @michellin.mua Graphic Designer
+    location: "Indonesia"
+    followers: 53930
+    engagement: 109
+    commentsToLikes: 0.075649
+    id: ck8sxwu5giymm0j78c6ro44am
+    verified: false
+    hashtags: "#fibrefirst, #merawatsanggaruda, #wowconcert, #twobecomeone"
   - username: "masjacob"
     fullname: >-
       Jacob Gatot Sura
+    bio: >-
+      a journey between @arcadia_architect | @umaseminyak | @mblocspace | @seminyakdesignweek
     location: "Indonesia"
     followers: 8535
     engagement: 374
     commentsToLikes: 0.054404
     id: ck5zim5rofyvy0i14im4bwgcf
     verified: false
-    hashtags: "#localwisdom, #talk, #wigwamtravels, #monez"
-  - username: "laparlagimakanlagi"
-    fullname: >-
-      Ridwan MD | Kuliner Surabaya
-    location: "Indonesia"
-    followers: 57426
-    engagement: 456
-    commentsToLikes: 0.029320
-    id: ck14la58ytm4x0i1917ja6uvc
-    verified: false
-    hashtags: "#karantina, #esbuah, #cekersurabaya, #lebaran2020"
+    hashtags: "#kreatifdisaatsulit, #mblocacademy, #dirumahaja, #seminyak"
   - username: "mindsetpebisnis"
     fullname: >-
       📖 Inspirasi Mindset Pebisnis
+    bio: >-
+      ⛩️ Gerbang Inspirasi 📝 Kisah Inspiratif ✒️ Inspirasi Harian Untuk Mengubah Mindset 💪 Business Motivation . 📩PP/Kontrak Kerjasama DM
     location: "Indonesia"
     followers: 64388
     engagement: 191
     commentsToLikes: 0.010915
     id: ck8tbk6lmvylo0j78b4twmigo
     verified: false
-    hashtags: "#motivasipebisnis, #mimpipengusaha, #lokerkalimantan, #bisnisdarirumah"
-  - username: "pesonapontianak"
-    fullname: >-
-      PONTIANAK
-    location: "Indonesia"
-    followers: 24399
-    engagement: 322
-    commentsToLikes: 0.021417
-    id: ck5zik7wnfv6f0i14h4rhy23c
-    verified: false
-    hashtags: "#moana, #mynikkor, #graphicdesign, #visualeditorid"
-  - username: "ekarock"
-    fullname: >-
-      𝕵𝖔𝖓 𝕰𝖐𝖆 𝕽𝖔𝖈𝖐 | ᴊᴏɴ ᴋʀᴇʙᴇᴋ
-    location: "Indonesia"
-    followers: 317833
-    engagement: 269
-    commentsToLikes: 0.007965
-    id: ck139vov7ncml0i19wxzz88vn
-    verified: false
-    hashtags: "#stayhealth, #punk, #lawancovid19, #art"
+    hashtags: "#bisnisonline, #peluangusaha, #peluangbisnis, #likeforlike"
   - username: "poseijon"
     fullname: >-
       John Matakena
+    bio: >-
+      Graphic Designer & Architect Pp/endorsement: Whatsapp 0817 9186580 (Natasha)
     location: "Indonesia"
-    followers: 3564
-    engagement: 1819
-    commentsToLikes: 0.079361
+    followers: 28977
+    engagement: 1764
+    commentsToLikes: 0.019086
     id: ckap1m824v58v0i788zgus23x
     verified: false
-    hashtags: "#throwback"
-  - username: "ulynovita"
+    hashtags: "#seminggujadisultan, #apreciationpost"
+  - username: "itofabians"
     fullname: >-
-      Uly Novita Siahaan
+      ITO
+    bio: >-
+      Photographer, Assist. Director, Graphic Designer. 🌐 : @pavementworldwide 🍜 : @bakmiesukaria
     location: "Indonesia"
-    followers: 63216
-    engagement: 1014
-    commentsToLikes: 0.050268
-    id: ck6u7x0lho5ir0j712o3w2czy
+    followers: 45119
+    engagement: 473
+    commentsToLikes: 0.011948
+    id: ck14iaccgeeyu0i191o9gmc19
     verified: false
-    hashtags: "#colorblock, #gloomy, #makeupremover, #dream"
+    hashtags: ""
+  - username: "michellindw"
+    fullname: >-
+      Mich
+    bio: >-
+      OPEN ENDORSEMENT | collab 📩 DM Fashion | Beauty | Lifestyle Makeup Artist @michellin.mua Graphic Designer
+    location: "Indonesia"
+    followers: 53930
+    engagement: 109
+    commentsToLikes: 0.075649
+    id: ck8sxwu5giymm0j78c6ro44am
+    verified: false
+    hashtags: "#fibrefirst, #merawatsanggaruda, #wowconcert, #twobecomeone"
+  - username: "adhityaprimadi_s"
+    fullname: >-
+      Lee Ruby
+    bio: >-
+      † 🎓Visual Communication Design ' 17 🎮 Valorant Id : LeeRuby#1999 🎮 Genshin Impact UID : 802067023 🌈 Pluviophile 🌧 ♂ 21 Tahun 🇮🇩 🎨 Graphic Designer
+    location: "Indonesia"
+    followers: 6358
+    engagement: 1200
+    commentsToLikes: 0.043227
+    id: ckap5cc4yb1800i78n5z13y9k
+    verified: false
+    hashtags: "#animeindo, #artanime, #animeartshelp, #animeartcollective"
+  - username: "leendoodles"
+    fullname: >-
+      Leenh
+    bio: >-
+      Graphic designer & Illustrator ⁝ Commission: OPEN, link in bio! ⁝ Ask for permission if u want to repost ⬇ STICKER SHOP, PATREON and other links
+    location: "Indonesia"
+    followers: 35870
+    engagement: 716
+    commentsToLikes: 0.028017
+    id: ckaou84tsz8660i78yx0nrwjz
+    verified: false
+    hashtags: "#commissions, #twitchcommissions, #commissionsopen, #artcommissions"
 ---

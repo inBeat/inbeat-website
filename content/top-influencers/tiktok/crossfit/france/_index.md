@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In France In 2020
 description: >-
-  Find top crossfit TikTok influencers in France in 2020. Most popular hashtags: #crossfit #sport #covid19 #amour.
+  Find top crossfit TikTok influencers in France in 2020. Most popular hashtags: #crossfit #foryou #pourtoi #tiktok.
 platform: TikTok
+hits: 21
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 21 TikTok influencers like this in France for you to contact.
 profiles:
+  - username: "oceaneb562"
+    fullname: >-
+      Oceaneb56🏋🏼‍♀️
+    bio: >-
+      Instagram 📷 oceaneb56 ↖️ 21 ans Crossfiteuse 💪🏻🏋🏼‍♀️
+    location: "France"
+    followers: 19600
+    engagement: 923
+    commentsToLikes: 0.046452
+    id: ckbl12xwexuxw0j23lz1mfgej
+    verified: false
+    hashtags: "#foryou, #soeur, #transition, #pourtoi"
   - username: "tonton_fit"
     fullname: >-
       Tonton Fit
+    bio: >-
+      🎉 Fun & Crossfit 🏋🏻 #tontonfit
     location: "France"
-    followers: 3053
-    engagement: 740
-    commentsToLikes: 0.053858
+    followers: 4772
+    engagement: 700
+    commentsToLikes: 0.050528
     id: ck9uw86tfuipj0j782ckesvl2
     verified: false
-    hashtags: "#musculation, #arethafranklin, #presentation, #covid"
-  - username: "gabinouvilla"
+    hashtags: "#fun, #confinement, #confinement2, #trentenaire"
+  - username: "madiy18"
     fullname: >-
-      Villarubias Gabin
+      madiy18
+    bio: >-
+      Lot of Fun & Good Vibes Only 🏋️‍♀️🤸‍♀️👪 Insta: @madiy18
     location: "France"
-    followers: 48259
-    engagement: 620
-    commentsToLikes: 0.050265
-    id: cka0pq1zj9e6y0i78a8sjufe2
+    followers: 42700
+    engagement: 924
+    commentsToLikes: 0.023712
+    id: ckbf1clfjndt80j239447m3us
     verified: false
-    hashtags: "#pourtapage, #epaule, #backday, #poulet"
+    hashtags: "#fyp, #crossfit, #foryourpage, #pourtoi"
+  - username: "thomashubener"
+    fullname: >-
+      Thomas Hubener
+    bio: >-
+      DM on Instagram☝🏼 Cirque du Soleil Artist Ninja Warrior 2🥈1🥉 🇫🇷French🇫🇷
+    location: "France"
+    followers: 396200
+    engagement: 1302
+    commentsToLikes: 0.008111
+    id: ck910eh66hbl50j78vf4qh5qy
+    verified: true
+    hashtags: "#gymnastics, #afondlaforme, #acrobatics, #ninjawarrior"
+  - username: "clochette6991"
+    fullname: >-
+      Clochette6991
+    bio: >-
+      ❤️Merci à tous💋 Carpe Diem 🌹
+    location: "France"
+    followers: 35100
+    engagement: 1925
+    commentsToLikes: 0.075049
+    id: ckc1sufwgx4sn0j23rgojysq0
+    verified: false
+    hashtags: "#tiktok, #muscu, #love, #halloween"
+  - username: "romanenzobl"
+    fullname: >-
+      Enzooo👌🏻👏🏻💪
+    bio: >-
+      Enzo le Petit Forain de Bordeaux 👍🏻👊🏽 #gitan #bordeaux 👊🏽🙃 #29ans #enzo
+    location: "France"
+    followers: 3892
+    engagement: 1178
+    commentsToLikes: 0.030995
+    id: ckbez3h2pk1rn0j23tlgmav3r
+    verified: false
+    hashtags: "#foryou, #abonnetoi, #tiktok, #voyageur"
   - username: "alvadi_officiel"
     fullname: >-
       alvadi_officiel
+    bio: >-
+      Insta ⚜ @alvadi_officiel ⚜ 🏋🏾‍♂️ Athlète 💪🏾gym 👟Fit 🏃🏾‍♂️Run 📍🇲🇫
     location: "France"
-    followers: 6814
-    engagement: 1025
-    commentsToLikes: 0.007195
+    followers: 6605
+    engagement: 964
+    commentsToLikes: 0.038816
     id: ck81s5acqq37h0j78935m4ukf
     verified: false
-    hashtags: "#gymselfie, #cookingram, #foodgram, #africanfood"
-  - username: "stevetigerland"
+    hashtags: "#sportlife, #fitnes, #calisthenics, #gymtime"
+  - username: "ropestylers"
     fullname: >-
-      stevetigerland
+      ropestylers
+    bio: >-
+      The Ropestylers Double Dutch 📩Business : theropestylers@gmail.com
     location: "France"
-    followers: 15112
-    engagement: 731
-    commentsToLikes: 0.056841
-    id: cka6oq95ugj7j0i78yfjk64pd
+    followers: 5091
+    engagement: 661
+    commentsToLikes: 0.041040
+    id: ckc82o34j3dd30j23jnv2bnxz
     verified: false
-    hashtags: "#the100acting, #elite, #parcours, #ninjawarrior"
-  - username: "lesinachevestiktok"
+    hashtags: "#slow, #vtep, #jumprope, #jumpropetraining"
+  - username: "racing.stripes"
     fullname: >-
-      Les inachevés
+      Racing stripes
+    bio: >-
+      𝟞𝟘.𝟘𝕂 ?? 𝔼́𝕕𝕚𝕥𝕤-𝕚𝕟𝕤𝕡𝕚𝕣𝕒𝕥𝕚𝕠𝕟𝕤 ♡︎💭
     location: "France"
-    followers: 149349
-    engagement: 1674
-    commentsToLikes: 0.010287
-    id: cka0l2efgp6fn0i781jcbb5mf
+    followers: 57800
+    engagement: 2160
+    commentsToLikes: 0.008504
+    id: ckdh40b48syo50j23kkwd9aqm
     verified: false
-    hashtags: "#jeudemots, #incroyable, #yoga, #pranks"
-  - username: "pure_outdoor"
+    hashtags: "#cute, #race, #first, #video"
+  - username: "remssbh1"
     fullname: >-
-      pure_outdoor
+      Rems
+    bio: >-
+      📲 Insta : remssbh abonne toi ⬆️😁🔥 🇫🇷🇨🇦
     location: "France"
-    followers: 2710
-    engagement: 1302
-    commentsToLikes: 0.033792
-    id: ck9fmso4juygx0j78t68zcbh6
+    followers: 15500
+    engagement: 598
+    commentsToLikes: 0.028822
+    id: ckbf1cktzndro0j23ygf6xgpm
     verified: false
-    hashtags: "#love, #courchevel, #valthorens, #freeride"
-  - username: "alexandreollier"
-    fullname: >-
-      Alexandre Ollier
-    location: "France"
-    followers: 227556
-    engagement: 1105
-    commentsToLikes: 0.017022
-    id: ck81syk6nu2460j78ev2qscwt
-    verified: true
-    hashtags: "#freerunning, #climbing, #gendarme, #parody"
-  - username: "luluandnani"
-    fullname: >-
-      🌹
-    location: "France"
-    followers: 101887
-    engagement: 1444
-    commentsToLikes: 0.010776
-    id: ck9v90vzcc0ln0j78pxqldz0p
-    verified: false
-    hashtags: "#covid19, #peur, #move, #soleil"
-  - username: "marseilleboxingclub"
-    fullname: >-
-      Marseilleboxingclub
-    location: "France"
-    followers: 6795
-    engagement: 748
-    commentsToLikes: 0.008877
-    id: ck9euk8bre4880j78zxdce73a
-    verified: false
-    hashtags: "#miketyson, #coach, #fitnesslife, #dontdothis"
-  - username: "maximesport"
-    fullname: >-
-      maximesport
-    location: "France"
-    followers: 9302
-    engagement: 837
-    commentsToLikes: 0.019332
-    id: ck9uy5t1r2xvg0j786d5je844
-    verified: false
-    hashtags: "#breakdance, #ninja, #gendarme, #poutoi"
+    hashtags: "#coronavirus, #militaire, #danse, #pourtoi"
 ---

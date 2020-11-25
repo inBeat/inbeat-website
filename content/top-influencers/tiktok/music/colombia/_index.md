@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Colombia In 2020
 description: >-
-  Find top music TikTok influencers in Colombia in 2020. Most popular hashtags: #baile #learnontiktok #coronavirus #eshoy.
+  Find top music TikTok influencers in Colombia in 2020. Most popular hashtags: #colombia #foryou #tiktok #viral.
 platform: TikTok
+hits: 117
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 117 TikTok influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "nanpabasicooficial"
+  - username: "yudysolangypalaci"
     fullname: >-
-      Nanpa Básico
+      Yudy Solangy Palacio
+    bio: >-
+      PASIÓN POR LA MÚSICA 🎸🎸🎸🎶 facebook Yudy.Rock2819@hotmail.com
     location: "Colombia"
-    followers: 165894
-    engagement: 1318
-    commentsToLikes: 0.022191
-    id: ckan2zqtt2tj00i78z53ee1no
-    verified: true
-    hashtags: "#esafeaeslacreida, #vivalasuya, #inedito, #yomequedoencasa"
-  - username: "eliabsandovalmusic"
-    fullname: >-
-      Eliab Sandoval
-    location: "Colombia"
-    followers: 16411
-    engagement: 1570
-    commentsToLikes: 0.020964
-    id: cka0kn0uknc400i78q7yicdfj
+    followers: 9064
+    engagement: 1409
+    commentsToLikes: 0.100788
+    id: ckan6d9oaj7lz0i78wej4m8ng
     verified: false
-    hashtags: "#queen, #bellaciao, #coldplay, #destacame"
-  - username: "susana_tunes"
-    fullname: >-
-      susana_tunes
-    location: "Colombia"
-    followers: 188575
-    engagement: 1448
-    commentsToLikes: 0.008239
-    id: ck8hkd3qbdfc00j78mm9umzkb
-    verified: false
-    hashtags: "#portadadealbum, #upanddown, #nonstop, #chachacha"
+    hashtags: "#rock, #buenamusicachallenge, #rockentiktok, #humor"
   - username: "dfurbanomusic"
     fullname: >-
       Danny Fernández 
+    bio: >-
+      Cantautor de Música Urbana ☝🏻- 🇨🇴 Www.facebook.com/dfurbanomusic
     location: "Colombia"
-    followers: 74551
-    engagement: 1024
-    commentsToLikes: 0.035239
+    followers: 89600
+    engagement: 1022
+    commentsToLikes: 0.042260
     id: cka6b5vlzz0pg0i78bp7dqd47
     verified: false
-    hashtags: "#shoeschallenge, #50cent, #videoviral, #bailechallenge"
+    hashtags: "#challenge, #voicelatin, #go, #tiktokmexico"
   - username: "djnayomzl"
     fullname: >-
       Dj Nayo 🎧
+    bio: >-
+      🔺Sígueme en Insta @djnayomz 📸 🔺Amo la Música 🎧 🔺Cree en Ti 🇨🇴 🌎👁
     location: "Colombia"
-    followers: 5606
-    engagement: 734
-    commentsToLikes: 0.054197
+    followers: 11700
+    engagement: 663
+    commentsToLikes: 0.051618
     id: ckan00io9o91b0i78jnwinb5z
     verified: false
-    hashtags: "#arab, #coronavirus, #nomames, #patron"
-  - username: "mattiasvga"
+    hashtags: "#parati, #foryou, #tiktok, #manizales"
+  - username: "wolfine98"
     fullname: >-
-      Mattiasvga
+      wolfine
+    bio: >-
+      Músico/Artista Urbano
     location: "Colombia"
-    followers: 116051
-    engagement: 1031
-    commentsToLikes: 0.008651
-    id: ck9gq595c85rb0j780846wtei
+    followers: 17400
+    engagement: 521
+    commentsToLikes: 0.014872
+    id: ckbaclbmi52b50j232fiogpyj
     verified: false
-    hashtags: "#singing, #maquinadeltiempo, #levelup, #trend"
+    hashtags: "#mexico, #quedateencasa, #colombia, #tiktok"
+  - username: "rolas_js"
+    fullname: >-
+      Rolas JS
+    bio: >-
+      Editor: @jhonatan.garcia.11 Música para tus historias 🎶 / Instagram: @rolas.js
+    location: "Colombia"
+    followers: 128900
+    engagement: 911
+    commentsToLikes: 0.002046
+    id: ckc8ald9f7aox0j23rd5cqee3
+    verified: false
+    hashtags: "#farruko, #parati, #badbunny, #greeicy"
+  - username: "enminota"
+    fullname: >-
+      ✭⋰꙰🎵EnmiNota🎶⋱꙰✭
+    bio: >-
+      Donde las palabras fallan, la música habla.🎶🎵
+    location: "Colombia"
+    followers: 12300
+    engagement: 739
+    commentsToLikes: 0.003607
+    id: cka9kqbyf0u9k0i78mgqh68ky
+    verified: false
+    hashtags: "#abrahammateo, #nickyjam, #maluma, #farruko"
+  - username: "reggaetoncolombiano"
+    fullname: >-
+      reggaetoncolombo
+    bio: >-
+      Música | Videos | Noticias | Género Urbano & Entretenimiento. @hildebrandoqq
+    location: "Colombia"
+    followers: 40900
+    engagement: 540
+    commentsToLikes: 0.003937
+    id: ckbfd70hd6ddr0j23dm5i7u5o
+    verified: false
+    hashtags: "#reggaetoncolombiano, #malumaworld, #reggaeton, #greeicy"
+  - username: "fontanamusic"
+    fullname: >-
+      FONTANA
+    bio: >-
+      F O N T A N A Artist Escucha mi música en YouTube y todas las plataformas.
+    location: "Colombia"
+    followers: 43800
+    engagement: 1821
+    commentsToLikes: 0.087093
+    id: ckbff3xla9i2x0j231c5e25ww
+    verified: false
+    hashtags: "#sabiausted, #metomolaleche, #lentochallenge, #notienepapatos"
+  - username: "f4st"
+    fullname: >-
+      F4ST
+    bio: >-
+      Fainal & SaraTunes Musicians / Music Producers / DJ’s / Artists
+    location: "Colombia"
+    followers: 10400
+    engagement: 12000
+    commentsToLikes: 0.014399
+    id: ck8hpau0yyqjw0j78jgd5ol2o
+    verified: true
+    hashtags: "#trndsttr, #miami, #f4st, #wegotus"
   - username: "elcartel8"
     fullname: >-
       El Cartel 8
+    bio: >-
+      Inspírate e inspira a los demás. Vive la pasión, vive musical.ly
     location: "Colombia"
-    followers: 30464
-    engagement: 2306
-    commentsToLikes: 0.004423
+    followers: 33100
+    engagement: 2126
+    commentsToLikes: 0.003153
     id: ck9n86b7y8b8e0j78fuls2mkw
     verified: false
-    hashtags: "#fyp, #desocupe, #elcartel8, #greenscreen"
-  - username: "michellemartinezo8"
-    fullname: >-
-      Michelle Bmmo⭐🌵
-    location: "Colombia"
-    followers: 3965
-    engagement: 1474
-    commentsToLikes: 0.049512
-    id: ck9kc9j98ok3o0j78gbtu3xtf
-    verified: false
-    hashtags: "#elizabethliones, #ranma1, #dianaxking, #ignaciaantonia"
-  - username: "sai_bu"
-    fullname: >-
-      Saibu
-    location: "Colombia"
-    followers: 923162
-    engagement: 1978
-    commentsToLikes: 0.016071
-    id: ck9gpqa6x661u0j78hefrstw6
-    verified: true
-    hashtags: "#magia, #mama, #dance, #waybackhome"
-  - username: "alvarocardenas76"
-    fullname: >-
-      Alvaro Cardenas
-    location: "Colombia"
-    followers: 7781
-    engagement: 1240
-    commentsToLikes: 0.057559
-    id: cka6m9v1s6ck90i78qp6i5q37
-    verified: false
-    hashtags: "#joven, #labios, #noalaviolencia, #1000razones"
+    hashtags: "#wow, #foryou, #zyxcba, #jajaja"
 ---

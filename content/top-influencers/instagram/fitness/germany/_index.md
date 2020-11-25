@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Germany In 2020
 description: >-
-  Find top fitness Instagram influencers in Germany in 2020. Most popular hashtags: #staypositive #summervibes #fashionblogger #hannover.
+  Find top fitness Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #style #fitnessmotivation.
 platform: Instagram
+hits: 2466
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 2466 Instagram influencers like this in Germany for you to pitch.
 profiles:
+  - username: "berma.fit"
+    fullname: >-
+      Fitness
+    bio: >-
+      Natural fitness, youtube: berma fit
+    location: "Germany"
+    followers: 10586
+    engagement: 1079
+    commentsToLikes: 0.033150
+    id: ck6tum2mph47f0j713g2vc5t2
+    verified: false
+    hashtags: "#gym, #workoutmotivation, #selfimprovement, #workout"
   - username: "filipexferreira"
     fullname: >-
       Fitness
+    bio: >-
+      🇧🇷 #lifestyle #fun #teambro #motivation #fitness
     location: "Germany"
-    followers: 44367
-    engagement: 736
-    commentsToLikes: 0.016554
+    followers: 51232
+    engagement: 669
+    commentsToLikes: 0.006444
     id: ck9hctx2cmyit0j78mqxuciyl
     verified: false
-    hashtags: ""
+    hashtags: "#halloween"
   - username: "jacki.byr"
     fullname: >-
       Jacki 🍍
+    bio: >-
+      FASHION | LIFESTYLE | FITNESS 📍NRW 🧳 Visual Merchandiser ...𝓂𝒶𝓀𝑒 𝒾𝓉 𝒽𝒶𝓅𝓅𝑒𝓃 ✨
     location: "Germany"
-    followers: 5042
-    engagement: 2098
-    commentsToLikes: 0.126161
+    followers: 5065
+    engagement: 2201
+    commentsToLikes: 0.136230
     id: ck8t8vsl9m0yx0j7850rvescv
     verified: false
-    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
-  - username: "iamjeannyguapa"
-    fullname: >-
-      TRAVEL | FASHION | INSPO
-    location: "Germany"
-    followers: 7028
-    engagement: 1813
-    commentsToLikes: 0.116143
-    id: ckap75goripgz0i78or915ml8
-    verified: false
-    hashtags: "#petal, #babygirl, #tattooed, #completefood"
-  - username: "louisa_rl"
-    fullname: >-
-      FITNESS |FOOD |MOTIVATION
-    location: "Germany"
-    followers: 14256
-    engagement: 1795
-    commentsToLikes: 0.094076
-    id: ckaozlmrcmet80i78msfszzbs
-    verified: false
-    hashtags: "#workoutplan, #workout, #hannover, #hannoverfitness"
-  - username: "vicivanilli"
-    fullname: >-
-      V I C T O R I A
-    location: "Germany"
-    followers: 13227
-    engagement: 1606
-    commentsToLikes: 0.172197
-    id: ck0twqwqjgh3k0i197rqeombt
-    verified: false
-    hashtags: "#happynewyear, #happyeaster, #kassel, #stolzaufmich"
+    hashtags: "#fashionlover, #fashionaddict, #fashionstyle, #outfitoftheday"
   - username: "burakdinc__"
     fullname: >-
       BURAK DINC
+    bio: >-
+      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ 📸 #fashion| #fitness| #travel |#lifestyle 📍 Augsburg/Cologne 📩 dinc.burak89@gmail.com 🔐 @me1isim 👇
     location: "Germany"
-    followers: 11027
-    engagement: 1388
-    commentsToLikes: 0.103672
+    followers: 10481
+    engagement: 1255
+    commentsToLikes: 0.103265
     id: ck0u1nqppxf210i19mljrs9l4
     verified: false
-    hashtags: "#pullandbear, #eltern, #couplegoals, #baby"
-  - username: "mariiisa_hofi"
+    hashtags: "#jackandjones, #jjambassador, #advertisement, #pregnancy"
+  - username: "slawomira_aldona"
     fullname: >-
-      HEALTHY FOOD I LIFESTYLE
+      🎀Slawomira Rykowska🎀
+    bio: >-
+      #33years🙆🏻 #polishgirl🇵🇱#Living in Germany🇩🇪 #Fitness 💪🏼🏋🏻‍♀️#Travel 🛩🌏#Enjoy my life 🦋🎊 📍 Wetzlar
     location: "Germany"
-    followers: 27554
-    engagement: 978
-    commentsToLikes: 0.067217
-    id: ck0txg2zcizdk0i19ulv1zs53
+    followers: 13334
+    engagement: 1281
+    commentsToLikes: 0.071702
+    id: ckap2k7mkz73a0i785t5iqpnk
     verified: false
-    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
-  - username: "marie_kroon"
+    hashtags: "#frankfurt, #me, #lifeisgood, #beautiful"
+  - username: "dbunny1703"
     fullname: >-
-      FITNESS | FOOD| FASHION👑
+      🦋D i a n a🦋
+    bio: >-
+      ✨🌺live the moment🌺✨📍Germany📍 👠💃🏻Fashion and fitnesslover💖🐰💋Singlegirl ☀️beginne jeden Tag mit einem Lächeln 😃
     location: "Germany"
-    followers: 5545
-    engagement: 3264
-    commentsToLikes: 0.179457
-    id: ck8t3uy124l9p0j78mv15gcyi
+    followers: 69401
+    engagement: 662
+    commentsToLikes: 0.049941
+    id: ck0w3x43zvqdx0i19ckbozuua
     verified: false
-    hashtags: "#stayathome, #starbucks, #brownhair, #bloggerstyle"
-  - username: "allaboutgiana"
+    hashtags: "#freitag, #picoftheday, #monday, #blueeyes"
+  - username: "lorina_s"
     fullname: >-
-      𝐆 𝐈 𝐀 𝐍 𝐀 🕊
+      INSPO | LIFESTYLE | OUTFITS
+    bio: >-
+      positive vibes 🌻 040 fashion.coffee.fitness.acting ✨ shoutout mit #lörsina
     location: "Germany"
-    followers: 3499
-    engagement: 2730
-    commentsToLikes: 0.385156
-    id: ckapbnc5g0k7g0i787wqugg6x
+    followers: 2727
+    engagement: 2896
+    commentsToLikes: 0.110602
+    id: ckaovcf4q3zdg0i78nvop5rhy
     verified: false
-    hashtags: "#bestie, #summervibes, #fashionblogger, #staymotivated"
-  - username: "eva_sporttorte"
+    hashtags: "#lo"
+  - username: "rafirachek"
     fullname: >-
-      𝐄𝐯𝐚 - 𝐅𝐢𝐭𝐧𝐞𝐬𝐬• 𝐅𝐨𝐨𝐝• 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
+      RAFI RACHEK 🌴
+    bio: >-
+      🌹🏳️‍🌈🏝 @bachelor.rtl ♻️we only have one World reduce plastic use • | Fitnesscoach 📍Köln | 🇩🇪 Management&Booking : contact@patricia-lessnerkraus.de
     location: "Germany"
-    followers: 5888
-    engagement: 1999
-    commentsToLikes: 0.079410
-    id: ck9hcgcmcl9940j78tetqo45p
+    followers: 60619
+    engagement: 1277
+    commentsToLikes: 0.045587
+    id: ck5zqt7edv91t0i14mvx3vvww
+    verified: true
+    hashtags: "#travelphotography, #fitnessmotivation, #bachelorinparadise, #travel"
+  - username: "giuljana.wolf"
+    fullname: >-
+      GIULJANA 🌸
+    bio: >-
+      •20|German|Augsburg •Fitness & Nutrition 🏃🏽‍♀️🍎 •I want to make memories all over the world•
+    location: "Germany"
+    followers: 6519
+    engagement: 1240
+    commentsToLikes: 0.090501
+    id: ckaoycklggxwq0i78x5l695ni
     verified: false
-    hashtags: "#bodygoals2020, #beautifulnature, #gutetat, #grow"
+    hashtags: "#loveyourself"
+  - username: "sarah.knsl"
+    fullname: >-
+      Sarah
+    bio: >-
+      Welcome to my life 🤞🏻 Lifestyle| Mindset |Fitness CGN📍 💌 SarahKnsl@t-online.de 🎓 Digital Marketing
+    location: "Germany"
+    followers: 10102
+    engagement: 1233
+    commentsToLikes: 0.124625
+    id: ckapah9uqw3jc0i787sl66q8i
+    verified: false
+    hashtags: "#instainspo, #lifestyleportraits, #cologneblogger, #discoverunder10k"
 ---

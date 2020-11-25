@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Toronto In 2020
 description: >-
-  Find top skincare Instagram influencers in Toronto in 2020. Most popular hashtags: #skincare #maccosmetics #beautyblogger #beauty.
+  Find top skincare Instagram influencers in Toronto in 2020. Most popular hashtags: #skincare #skincareroutine #toronto #makeup.
 platform: Instagram
+hits: 78
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 78 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "scott.h.photography"
+  - username: "klumsyclosett"
     fullname: >-
-      Scott H.    “Idol Maker”®️
+      A S H N A
+    bio: >-
+      🇨🇦 Toronto ✉️ klumsyclosett@hotmail.com 💪🏽 FITNESS @ashnaub 🎼 TikTok - Klumsyclosett 🎥 MY YOUTUBE CHANNEL (klumsyclosett)
     location: "Canada"
-    followers: 17751
-    engagement: 543
-    commentsToLikes: 0.024165
-    id: ck8syvurfm7m30j78qe1ik3tt
+    followers: 263073
+    engagement: 173
+    commentsToLikes: 0.012958
+    id: ck8t8fwvckbdq0j78iqrkhw2w
     verified: false
-    hashtags: "#lingerielover, #estilo, #boudoirportrait, #stockings"
-  - username: "nilaharan"
+    hashtags: "#glowymakeup, #skincare, #toronto, #makeuptutorial"
+  - username: "the_velvetlife"
     fullname: >-
-      Nila Haran
+      Preet | The Velvet Life
+    bio: >-
+      #LuxuryBeauty from the 'eye' and 'pen' of an IT nerd. Beauty Addict since 2014 Mom of 👫 Based in 🇨🇦 My website👇👇
     location: "Canada"
-    followers: 47687
+    followers: 40591
+    engagement: 147
+    commentsToLikes: 0.059315
+    id: ck5q11lu78tqz0i11roeszwno
+    verified: false
+    hashtags: "#skincaretreatment, #antiaging, #skincaremusthave, #luxurybeauty"
+  - username: "allinefeitosa"
+    fullname: >-
+      Alline Feitosa| no Canada📍🇨🇦
+    bio: >-
+      🌎 Brasileira morando fora. ✈️ Dou dicas de viagem 📚 Te ajudo a programar seu #intercâmbio ✨ Te motivo a realizar seus sonhos @estudandonocanada 🇨🇦
+    location: "Canada"
+    followers: 41094
+    engagement: 143
+    commentsToLikes: 0.080894
+    id: ckap4cqz86rdt0i780pfnt70u
+    verified: false
+    hashtags: "#canadaparabrasileiros, #brasileirosporai, #brasileirospelomundo, #interc"
+  - username: "matthew.giuffrida"
+    fullname: >-
+      Matthew Giuffrida
+    bio: >-
+      𝗣𝘂𝘁𝘁𝗶𝗻𝗴 𝘀𝗺𝗶𝗹𝗲𝘀 𝗼𝗻 𝗳𝗮𝗰𝗲𝘀 𝘀𝗶𝗻𝗰𝗲 𝟭𝟵𝟵𝟲! Tik Tok | Youtube | Facebook | Instagram •Email For Business/Collaboration Inquiries•
+    location: "Canada"
+    followers: 36514
+    engagement: 391
+    commentsToLikes: 0.082861
+    id: ck6ug7d0g1ceu0j71i3rml2sf
+    verified: false
+    hashtags: "#ottawa, #brudder, #codered, #montreal"
+  - username: "maisha667"
+    fullname: >-
+      Maisha C
+    bio: >-
+      🇨🇦🥊🖊❤️🌱 Snap👻- maisha667 📩- maisha.667@hotmail.com
+    location: "Canada"
+    followers: 107526
     engagement: 174
-    commentsToLikes: 0.050847
-    id: ck5hp2bnyqmu60i11cq7pd6xf
+    commentsToLikes: 0.044948
+    id: ck139to9ln26j0i1983r50zxp
     verified: false
-    hashtags: "#reallife, #saree, #chiffonsaree, #indianfashion"
+    hashtags: "#revolvesummer, #sports, #revolve, #sportsbetting"
   - username: "curls_n_tings"
     fullname: >-
       Abeer Mo
+    bio: >-
+      Natural hair. 3c Curls. Makeup. Skincare. 📍Toronto, Canada 📩 curlsntings@gmail.com #curlsntings Youtube
     location: "Canada"
-    followers: 22727
-    engagement: 241
-    commentsToLikes: 0.045297
+    followers: 22464
+    engagement: 210
+    commentsToLikes: 0.054753
     id: ck8svr2j0ce2i0j78lydbs7x6
     verified: false
-    hashtags: "#texturetuesday, #hairtrim, #covid, #toronto"
-  - username: "thecityismineto"
+    hashtags: "#washandgo, #curlsntings, #naturalhair, #curls"
+  - username: "skinbyjess"
     fullname: >-
-      The City Is Mine | Mili Jain
+      skinbyjess
+    bio: >-
+      Skincare • Beauty • Wellness 🤍 Think of me as your bff who tries a bunch of shit so you dont have to 🤍
     location: "Canada"
-    followers: 6839
-    engagement: 422
-    commentsToLikes: 0.198824
-    id: ck6ttuhd0cnnl0j71ik2bmavx
+    followers: 2518
+    engagement: 1048
+    commentsToLikes: 0.204314
+    id: ck6udx76anmsi0j71dlbddbw2
     verified: false
-    hashtags: "#makeuplove, #caeserdrinks, #sundaymornings, #getinmybelly"
-  - username: "guneetbenipal"
+    hashtags: "#intothegloss, #skincarejunkie, #skincareroutine, #drunkelephant"
+  - username: "kimberlyamy_"
     fullname: >-
-      RASMALAI
+      Kimberly ॐ
+    bio: >-
+      Caribbean Girl☀🌴 St.Lucia 🇱🇨, West Indies 🐠🏄 DM for promo 📥 #CaribbeanBeauties #WavemakerPhotography #WavemakerProductions #WavemakerBooth
     location: "Canada"
-    followers: 4096
-    engagement: 1219
-    commentsToLikes: 0.216098
-    id: ckap7d7injk6w0i78ee3qs4iu
+    followers: 12409
+    engagement: 1214
+    commentsToLikes: 0.026682
+    id: ck15takcmh58e0i19w4azyk6x
     verified: false
-    hashtags: "#recreation, #explorepage, #hudabeautyshop, #madhuridixit"
-  - username: "sammibarber"
+    hashtags: "#stlucia, #wavemakerphotography, #curlybeauties, #758naturals"
+  - username: "its_jennj"
     fullname: >-
-      Sammi Barber
+      Jenn | 4C Natural Hair
+    bio: >-
+      Hair + Beauty + Lifestyle I’ll help you live your best life while looking your best 👏🏽💃🏽 📍Canada 🎬YouTube: 110k Jenn@itsjennj.com ✨ #4chair Videos👇🏽✨
     location: "Canada"
-    followers: 24035
-    engagement: 302
-    commentsToLikes: 0.100589
-    id: ck5c8ww8iacz20i11dfma8gt6
+    followers: 26121
+    engagement: 500
+    commentsToLikes: 0.049188
+    id: ck14h8hhb92fw0i19a6im80f2
     verified: false
-    hashtags: "#coldpressedjuice, #unboxing, #herballifeexpress, #canadianvodka"
-  - username: "thatlookyoulove"
+    hashtags: "#blackhaircare, #protectivestyles, #4chair, #kinkycoily"
+  - username: "minaabeautyy"
     fullname: >-
-      Dhriti Bhanushali
+      Mina ♡ | Makeup & Hair Artist
+    bio: >-
+      ↓ Bookings / PR ↓ workyousufzai@gmail.com Offering 1-ON-1 Makeup Classes Toronto, Ontario
     location: "Canada"
-    followers: 9932
-    engagement: 498
-    commentsToLikes: 0.047332
-    id: ck8tck20pzomw0j78uyu0ng23
+    followers: 105203
+    engagement: 328
+    commentsToLikes: 0.106981
+    id: ck6tiby590fgg0j71al8habhx
     verified: false
-    hashtags: "#satisfying, #nofilter, #shotoniphone, #newtiktoker"
-  - username: "vivendonocanada"
-    fullname: >-
-      Clarissa Oliveira
-    location: "Canada"
-    followers: 13186
-    engagement: 582
-    commentsToLikes: 0.021645
-    id: ckap7dud0jn370i78fbxtzgv6
-    verified: false
-    hashtags: "#cherryblossoms, #highpark, #vivendonocanada, #fa"
-  - username: "mattredwards"
-    fullname: >-
-      Matt R Edwards
-    location: "Canada"
-    followers: 17775
-    engagement: 461
-    commentsToLikes: 0.033718
-    id: ck5hk2nilhok80i117ax826z8
-    verified: false
-    hashtags: "#video, #reaction, #kappakontroll, #guessoriginals"
-  - username: "monikachxpra"
-    fullname: >-
-      MONIKA CHOPRA
-    location: "Canada"
-    followers: 14181
-    engagement: 702
-    commentsToLikes: 0.046821
-    id: ck6u7w08qnyuj0j71yvbzxmbu
-    verified: false
-    hashtags: "#disneygram, #torontofashion, #citylove, #trueyorkcity"
+    hashtags: "#wakeupandmakeup, #benefitcosmetics, #eotd, #weddingmakeupartist"
 ---

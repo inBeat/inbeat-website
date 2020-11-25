@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Brazil In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Brazil in 2020. Most popular hashtags: #finelinetattoo #wolftattoo #reforma #skulltattoo.
+  Find top tattoo-artists Instagram influencers in Brazil in 2020. Most popular hashtags: #tattoo #blackwork #tatuagem.
 platform: Instagram
+hits: 370
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 370 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "jr_andr4rt"
+  - username: "fabitattoo"
     fullname: >-
-      Júnior Andrade tattoo
+      Fabi Ventura - Geek Tattoo
+    bio: >-
+      Tattoo Artist 💕🦄 🖤Black e fineline: @fabiventuratattoo 🖌Ilustrações: @fabiventuraart São Paulo - SP 011 Orçamentos pelo link abaixo:
     location: "Brazil"
-    followers: 16571
-    engagement: 787
-    commentsToLikes: 0.457180
-    id: ck8t5uaijba510j785zex67oq
+    followers: 23332
+    engagement: 325
+    commentsToLikes: 0.063112
+    id: ck8t8wfg4m3lo0j781seyif2p
     verified: false
-    hashtags: "#astronauta, #vipertattoo, #cine, #brasiltattoo"
-  - username: "marianariom_tattooartist"
-    fullname: >-
-      mariana rio
-    location: "Brazil"
-    followers: 2129
-    engagement: 1614
-    commentsToLikes: 0.322881
-    id: ck8t5sd04b2p20j780w26buly
-    verified: false
-    hashtags: "#hogwarts, #mythe4th, #misfitsbaby, #babymafalda"
-  - username: "viniciusbarnabetattoo"
-    fullname: >-
-      Vinicius Barnabé Tattoo
-    location: "Brazil"
-    followers: 46571
-    engagement: 284
-    commentsToLikes: 0.271242
-    id: ck601kw1ifogt0i146d8kclss
-    verified: false
-    hashtags: "#blessed, #cruztattoo, #vikingstattoo, #rastelado"
-  - username: "guialamino_"
-    fullname: >-
-      Gui Alamino 🔹
-    location: "Brazil"
-    followers: 42923
-    engagement: 274
-    commentsToLikes: 0.469776
-    id: ck8t1x1kmxdr40j78mm6y6u31
-    verified: false
-    hashtags: "#tattooguest, #wolftattoo, #statuetattoo, #lion"
-  - username: "lapeaudure"
-    fullname: >-
-      La Peau Dure • Tattooer
-    location: "Brazil"
-    followers: 73895
-    engagement: 417
-    commentsToLikes: 0.040017
-    id: ck5zvdhgg40x10i14nun1so0s
-    verified: false
-    hashtags: ""
+    hashtags: "#anime, #geek, #digitalillustration, #comissionsopen"
   - username: "rrezend"
     fullname: >-
       raphael rezend
+    bio: >-
+      Tattoo Artist - Ilustrator (Não trabalho com Maori) Por favor tenham calma nos directs Obrigado por escolherem meu trabalho. Feira de Santana - BA
     location: "Brazil"
-    followers: 33441
-    engagement: 1044
-    commentsToLikes: 0.522450
+    followers: 35668
+    engagement: 727
+    commentsToLikes: 0.542580
     id: ck5her07cuccb0i11hf6wp359
     verified: false
-    hashtags: "#agulhas, #winged, #blueeyes, #leopard"
+    hashtags: "#finelinetattoo, #blackwork, #l4l, #nature"
   - username: "r.korski"
     fullname: >-
       Ricardo G. Ciechorski
+    bio: >-
+      Tattoo artist ♉ 🇧🇷 🇪🇸 🇵🇹 🇬🇧 🇮🇹 Pro Team @tropicaldermoficial @carbynetattoo @colordragonneedles 📨rgctattoo@gmail.com AGENDA FECHADA
     location: "Brazil"
-    followers: 42540
-    engagement: 280
-    commentsToLikes: 0.040628
+    followers: 87783
+    engagement: 153
+    commentsToLikes: 0.049376
     id: ckaoy0ojhfkk20i789ute2g57
     verified: false
-    hashtags: "#coloredpencil, #animalstattoo, #besttattoos, #besttattoo"
+    hashtags: "#amazingtattoos, #colordragonneedles, #inkedmag, #tattoorealistic"
+  - username: "annielobt"
+    fullname: >-
+      Annie Lobt
+    bio: >-
+      Brazilian 🇧🇷 Based in Paris 🇫🇷 Tattoo Artist @annielobttattoo
+    location: "Brazil"
+    followers: 8542
+    engagement: 765
+    commentsToLikes: 0.046229
+    id: ckap4b7yw6krz0i78qiqhq40w
+    verified: false
+    hashtags: ""
+  - username: "bya.brasil"
+    fullname: >-
+      Bya Brasil 🦂
+    bio: >-
+      ✶ Tattoo artist & illustrator ✶ São Paulo - ateliê privado ✶ AGENDA 2020 - encerrada
+    location: "Brazil"
+    followers: 40163
+    engagement: 392
+    commentsToLikes: 0.027867
+    id: ck6u5sc1rbfz60j71l684uy9h
+    verified: false
+    hashtags: "#blkttt, #blackworkers, #blackworktattoo, #blackworkbrasil"
   - username: "mpac13"
     fullname: >-
       ࿇ ࿄ Marcos Costa ∴
+    bio: >-
+      ༻ @mpac13_flash ༻ Tattoo Artist - São Paulo ༻ WhatsApp: (11)99496.8778 ༻ Atendimento com hora marcada.
     location: "Brazil"
     followers: 26878
     engagement: 145
     commentsToLikes: 0.215581
     id: ck8t7n4wyheb70j78teblkh79
     verified: false
-    hashtags: "#fridakahlo, #patrickestrela, #senna, #formula1"
-  - username: "samanthasilvany"
+    hashtags: "#btattooing, #mpac13, #pontilhismo, #dotwork"
+  - username: "lobotattooart"
     fullname: >-
-      Samantha
+      Pedro Lobo 🌈
+    bio: >-
+      Tattoo artist São Paulo | Mantra Tattoo | Pinheiros Marque aqui um orçamento: (11) 9 7739 6227
     location: "Brazil"
-    followers: 42007
-    engagement: 446
-    commentsToLikes: 0.020942
-    id: ck14gxh4m7ipc0i19js92tpqg
+    followers: 30310
+    engagement: 551
+    commentsToLikes: 0.020159
+    id: ck5zue3i626sa0i1495jc89xy
     verified: false
-    hashtags: "#500diassemvoce, #bestseller, #ibiza, #eurosummer"
-  - username: "carlacrisper"
+    hashtags: ""
+  - username: "fernandotravis"
     fullname: >-
-      Carla Crisper
+      Fernando De Paiva
+    bio: >-
+      🇧🇷RN Brazilian Ilustrator,tattoo artist ARTIST: @sullenclothing @famousstarsandstraps @copicbrasil and @derwentpencils_brasil 🏆 winner copic Award 17
     location: "Brazil"
-    followers: 104362
-    engagement: 169
-    commentsToLikes: 0.039235
-    id: ck8sz0yvkmrs80j78mv580d8t
+    followers: 80065
+    engagement: 78
+    commentsToLikes: 0.048932
+    id: ck15q8mrq1md50i19tad2cty4
     verified: false
-    hashtags: "#pintura, #mylife, #tatuadores, #emcasa"
+    hashtags: "#lineart, #study, #flash, #black"
+  - username: "eron.freitas"
+    fullname: >-
+      Eron Freitas
+    bio: >-
+      ⚫ Tattoo Artist ⚫ Macaé e Rio de Janeiro Rj - 🇧🇷 ❌ NÃO RESPONDO ORÇAMENTOS POR DM ⚫ Orçamentos pelo link abaixo ⬇️
+    location: "Brazil"
+    followers: 10969
+    engagement: 523
+    commentsToLikes: 0.064771
+    id: ck8tcetyxz7yu0j78f9lqcb7q
+    verified: false
+    hashtags: "#1rl, #sketch, #3rl, #singleneedle"
+  - username: "lapeaudure"
+    fullname: >-
+      La Peau Dure
+    bio: >-
+      Thongsavanh | Happy Tattoo Artist | Owner @lapeaudurestudio • 🇫🇷 Paris 10ème • • 💌 Infos (tattoo request) :
+    location: "Brazil"
+    followers: 82528
+    engagement: 273
+    commentsToLikes: 0.019636
+    id: ck5zvdhgg40x10i14nun1so0s
+    verified: false
+    hashtags: "#lapeaudurestudio, #tatouageparis, #tatoueurparis, #tattooparis"
 ---

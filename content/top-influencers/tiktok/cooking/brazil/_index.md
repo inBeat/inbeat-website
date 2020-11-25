@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Brazil In 2020
 description: >-
-  Find top cooking TikTok influencers in Brazil in 2020. Most popular hashtags: #bolo #brigadeiro #cooking #stayhome.
+  Find top cooking TikTok influencers in Brazil in 2020. Most popular hashtags: #foryou #cooking #fyp #foryoupage.
 platform: TikTok
+hits: 28
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 28 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "mariloures_"
     fullname: >-
       Mariana Loures
+    bio: >-
+      
     location: "Brazil"
-    followers: 4645
-    engagement: 1165
-    commentsToLikes: 0.062592
+    followers: 6286
+    engagement: 1111
+    commentsToLikes: 0.057836
     id: ckaib6qo5f8v70i78uqh2dovf
     verified: false
-    hashtags: "#cook, #wine, #travel, #honey"
-  - username: "joriaaoliveira"
-    fullname: >-
-      ✨J O R I A ✨
-    location: "Brazil"
-    followers: 34288
-    engagement: 1340
-    commentsToLikes: 0.017845
-    id: ck9ng9kkpf2hg0j78ocxd4lqk
-    verified: false
-    hashtags: "#brushesclean, #stabilo, #annewithane, #lunch"
+    hashtags: "#tiktokfood, #quarantine, #foodlover, #cooking"
   - username: "flakesbrasil"
     fullname: >-
       flakeschocolateria
+    bio: >-
+      SINCE 2016 🍫 Chocolateria•Cursos•Consultorias 🇧🇷 PVH/RO IG: @flakesbrasil
     location: "Brazil"
-    followers: 12271
-    engagement: 2326
-    commentsToLikes: 0.018129
+    followers: 14400
+    engagement: 1546
+    commentsToLikes: 0.023846
     id: ck92xhs9uyr6m0j78swb5inpo
     verified: false
-    hashtags: "#tiktokgallery, #laka, #foodporn, #kinder"
-  - username: "vanessa_negri"
+    hashtags: "#yummy, #foodnetwork, #fyp, #tiktok"
+  - username: "karolromana"
     fullname: >-
-      Vanessa Negri
+      Karol Romana
+    bio: >-
+      Gestora Pública metida a chef 👩🏽‍🍳
     location: "Brazil"
-    followers: 82484
-    engagement: 1025
-    commentsToLikes: 0.026241
-    id: ck9r6trgp5ewe0j78n5lcwucw
+    followers: 12300
+    engagement: 804
+    commentsToLikes: 0.020024
+    id: ck9glceq5nk9y0j787s7qqu5p
     verified: false
-    hashtags: "#irmao, #receitapratica, #frio, #familia"
+    hashtags: "#receita, #receitasrapidas, #quarentena, #tiktok"
   - username: "eumonares"
     fullname: >-
       Lucas Monares
+    bio: >-
+      26, São Paulo - Br caí aqui de paraquedas e fiquei all together 🏳️‍🌈 (21k?)
     location: "Brazil"
-    followers: 15609
-    engagement: 857
-    commentsToLikes: 0.040544
+    followers: 21500
+    engagement: 833
+    commentsToLikes: 0.040815
     id: ck9r6t9kk5aca0j78ac58eqdx
     verified: false
-    hashtags: "#roupa, #thatsme, #uknowit, #lipsync"
-  - username: "leonardoflakes"
+    hashtags: "#challenge, #viral, #fu, #goviral"
+  - username: "jobsonamancio"
     fullname: >-
-      Leonardo Borges
+      Jobson Amancio 🥇
+    bio: >-
+      insta: @jobsonamancio ☝🏻 Receitas • DIY • Desenhos • Diversão 📍Florianópolis
     location: "Brazil"
-    followers: 81824
-    engagement: 1216
-    commentsToLikes: 0.016171
-    id: ck92xhncdypw80j786nuv3m6u
+    followers: 282800
+    engagement: 998
+    commentsToLikes: 0.013628
+    id: ckacs0uqu7xab0i78utm0w2fd
     verified: false
-    hashtags: "#iphone11, #couples, #gintonic, #disney"
-  - username: "panelando"
+    hashtags: "#receitasfitness, #receitafitness, #diet, #cooking"
+  - username: "seomichele"
     fullname: >-
-      Panelando
+      Michele Seo
+    bio: >-
+      venha assistir vídeos relacionados à gastronomia :)
     location: "Brazil"
-    followers: 47292
-    engagement: 436
-    commentsToLikes: 0.004263
-    id: ck9r6tei45bih0j78anh48evk
+    followers: 3022
+    engagement: 310
+    commentsToLikes: 0.011638
+    id: ck9gldezfns320j789t172iv2
     verified: false
-    hashtags: "#malandrinho, #stayathome, #tropa, #garlic"
-  - username: "ju4np137r0"
+    hashtags: "#comidacoreana, #camarao, #homemade, #risotto"
+  - username: "luasiberianhusky"
     fullname: >-
-      P137r0
+      L U A
+    bio: >-
+      
     location: "Brazil"
-    followers: 57456
-    engagement: 2254
-    commentsToLikes: 0.063892
-    id: cka0jztw4kfoq0i78qufsvm3a
+    followers: 5480
+    engagement: 2832
+    commentsToLikes: 0.015861
+    id: ckbf85832yd0j0j23qhnttk1g
     verified: false
-    hashtags: "#starwars, #comedy, #repost, #girls"
-  - username: "ed.prado"
+    hashtags: "#paravoce, #paravocepagina, #foryoupage, #dog"
+  - username: "isadoraoberg"
     fullname: >-
-      Eduardo Prado
+      Izumi-chii
+    bio: >-
+      art I guess¿ I'm 17 ayyy plz follow me on Twitter/Instagram @IsadoraOberg ♡
     location: "Brazil"
-    followers: 470008
-    engagement: 2494
-    commentsToLikes: 0.011506
-    id: ck92xhsp5yr9g0j78imfnl5ho
-    verified: true
-    hashtags: "#snapchat, #stayhome, #tbt, #manugavassi"
-  - username: "sofiamuller03"
-    fullname: >-
-      sofia muller
-    location: "Brazil"
-    followers: 26469
-    engagement: 1292
-    commentsToLikes: 0.029016
-    id: ck9r6tabb5aga0j784j1sp32j
+    followers: 12200
+    engagement: 2397
+    commentsToLikes: 0.011398
+    id: ckcdcl2dm54ks0j23qru8ej85
     verified: false
-    hashtags: "#brasil, #makeup, #capadoalbum, #friends"
+    hashtags: "#fyp, #drawing, #manga, #art"
+  - username: "joriaaoliveira"
+    fullname: >-
+      ✨J O R I A ✨
+    bio: >-
+      19y - Br •Uma tonta que ama aesthetic•
+    location: "Brazil"
+    followers: 39900
+    engagement: 1533
+    commentsToLikes: 0.021904
+    id: ck9ng9kkpf2hg0j78ocxd4lqk
+    verified: false
+    hashtags: "#skincare, #fyp, #accutane, #foryou"
+  - username: "lucasbrandao__"
+    fullname: >-
+      Lucas Brandão
+    bio: >-
+      quarantining...
+    location: "Brazil"
+    followers: 28800
+    engagement: 1233
+    commentsToLikes: 0.022750
+    id: ckb12a14cqj580j23m9x2ub7w
+    verified: false
+    hashtags: "#love, #fyp, #tiktok, #challenge"
 ---

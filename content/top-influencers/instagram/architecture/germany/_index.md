@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Germany In 2020
 description: >-
-  Find top architecture Instagram influencers in Germany in 2020. Most popular hashtags: #yellow #dogsofinstagram #tulips #architecture.
+  Find top architecture Instagram influencers in Germany in 2020. Most popular hashtags: #berlin #gramslayers #germany.
 platform: Instagram
+hits: 646
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 646 Instagram influencers like this in Germany for you to pitch.
 profiles:
   - username: "laracvic"
     fullname: >-
-      𝐋𝐀𝐑𝐀 Č𝐎𝐕𝐈Ć
+      𝐋.𝐂.
+    bio: >-
+      germany | hrvatska architecture student 𝐸𝒱
     location: "Germany"
-    followers: 3206
-    engagement: 4275
-    commentsToLikes: 0.085384
+    followers: 3468
+    engagement: 3776
+    commentsToLikes: 0.105297
     id: ck0tt8l061m780i199mz7v2cc
     verified: false
     hashtags: ""
   - username: "niklaskamp_"
     fullname: >-
       NIKLAS ©
+    bio: >-
+      ✖️Photographer, Berlin ✖️Portrait, Architecture ✖️DM for Collaborations
     location: "Germany"
     followers: 3781
     engagement: 2648
     commentsToLikes: 0.070410
     id: ck13bp6h2why60i1972swdjbc
     verified: false
-    hashtags: "#paris, #deutschrap, #parismodel, #soccerskills"
-  - username: "wohl.photography"
+    hashtags: "#heatercentral, #unknownperspectives, #mirrorlessgeeks, #thecreativeshots"
+  - username: "steph.ernst"
     fullname: >-
-      
+      𝑺𝒕𝒆𝒑𝒉𝒂𝒏𝒊𝒆 𝑬𝒓𝒏𝒔𝒕
+    bio: >-
+      journalist @ G+J fashion, architecture, lifestyle Germany / HH & DUS 🇩🇪🇮🇹
     location: "Germany"
-    followers: 3356
-    engagement: 2262
-    commentsToLikes: 0.074181
-    id: ck8t3qhnh43xp0j781yq0h9qx
+    followers: 10135
+    engagement: 562
+    commentsToLikes: 0.083321
+    id: ck14h3yj78fl40i19triqin3i
     verified: false
-    hashtags: "#conceptual, #asymetrical, #vectors, #poetry"
-  - username: "mlsacbc"
-    fullname: >-
-      Melisa Cebeci
-    location: "Germany"
-    followers: 161849
-    engagement: 768
-    commentsToLikes: 0.010734
-    id: ck0w57kxq2ago0i19n0ii7dqy
-    verified: false
-    hashtags: "#vintagelove, #sorrymama, #covid19"
+    hashtags: "#germanblogger, #bloggermode, #trendylook, #minimalista"
   - username: "madskarlsson84"
     fullname: >-
       Robert H.
+    bio: >-
+      architecture, dog, friends & me /// Berlin.
     location: "Germany"
-    followers: 36373
-    engagement: 567
-    commentsToLikes: 0.021814
+    followers: 41202
+    engagement: 594
+    commentsToLikes: 0.026415
     id: ck0tyirm3n0210i19mkdayuvx
     verified: false
-    hashtags: "#hotoutside, #newbalance, #rayban, #styleoftheday"
+    hashtags: "#happy, #weekend, #fall, #trees"
+  - username: "johana_majewsky"
+    fullname: >-
+      Jo.M 💋
+    bio: >-
+      Travel, books, architecture, food, art & whatever makes life amusing 61 countries visited + 14 cruise tours
+    location: "Germany"
+    followers: 24949
+    engagement: 261
+    commentsToLikes: 0.090152
+    id: ckapc5piq2krw0i78dcqqx7xd
+    verified: false
+    hashtags: "#travelphotography, #reisen, #wakacje2020, #italien"
   - username: "pssthannah"
     fullname: >-
       Hannah Schepmann
+    bio: >-
+      📍 cologne | siegen 🎧 voice actress 👩🏼 24 | 📐✂️📚architecture student 🌸 flowers | ☀️ summer | 🥑 avocado
     location: "Germany"
-    followers: 3529
-    engagement: 2952
-    commentsToLikes: 0.066461
+    followers: 6326
+    engagement: 971
+    commentsToLikes: 0.111315
     id: ck8tas5ussuej0j784tyxxobw
     verified: false
-    hashtags: "#coffeetime, #daisyflower, #fotoliebe, #coronatime"
-  - username: "makeupbydobreva"
+    hashtags: "#aesthetic, #vintageaesthetic, #sheisnotlost, #femmetravel"
+  - username: "julia.kammerer"
     fullname: >-
-      Maro 💄
+      Julia Kammerer
+    bio: >-
+      twenty3 | german | architecture | with @eastwestmodels |ma| @zone_models @damodelmanagement
     location: "Germany"
-    followers: 4617
-    engagement: 1259
-    commentsToLikes: 0.277965
-    id: ck6uf3xucuqx40j71npmhgih6
+    followers: 20475
+    engagement: 667
+    commentsToLikes: 0.024476
+    id: ck6tnq0xraca50j713c7uruno
     verified: false
-    hashtags: "#japanmakeup, #mineralmakeup, #peachymakeup, #ubcd"
-  - username: "_ines.maria"
-    fullname: >-
-      ines
-    location: "Germany"
-    followers: 6189
-    engagement: 2633
-    commentsToLikes: 0.158771
-    id: ck0vx0gmiwif00i19yyirftpv
-    verified: false
-    hashtags: "#creativecommune, #ines, #incedible, #explore"
-  - username: "sun_pitt"
+    hashtags: ""
+  - username: "wohl.photography"
     fullname: >-
       
+    bio: >-
+      French Photographer and digital artist. Between dance, architecture, conceptual and fine art photography. Based in Berlin.
     location: "Germany"
-    followers: 5891
-    engagement: 1634
-    commentsToLikes: 0.097747
-    id: ck0uaq4q7cv6b0i19tc837ojv
+    followers: 4752
+    engagement: 1657
+    commentsToLikes: 0.080390
+    id: ck8t3qhnh43xp0j781yq0h9qx
     verified: false
-    hashtags: "#strahlendsch, #wildblumen, #terrier, #veryniceview"
+    hashtags: "#professionaldancer, #geometry, #pointshoes, #perspective"
+  - username: "maronmr"
+    fullname: >-
+      Maro 💄
+    bio: >-
+      27 | 📍Berlin 🇩🇪 | 🇱🇧🇵🇸 | 🎓 architecture ✉ PR = makeupbydobreva@outlook.com 💸% use "GLAMFAM840" at @morphebrushes & "Breva" at @ttd_eye
+    location: "Germany"
+    followers: 5834
+    engagement: 647
+    commentsToLikes: 0.323964
+    id: ck6uf3xucuqx40j71npmhgih6
+    verified: false
+    hashtags: "#aestheticmakeup, #makeupdollz, #morphehalloween, #maquillajedeojos"
   - username: "charlinesofie"
     fullname: >-
-      charline
+      Charline Sofie
+    bio: >-
+      ⚡️dus | 🖇 T | 🪐 twenty ☁️ architecture & interior design ☁️
     location: "Germany"
-    followers: 2425
-    engagement: 5013
-    commentsToLikes: 0.040291
+    followers: 2879
+    engagement: 3206
+    commentsToLikes: 0.045015
     id: ck9whv2hkzlsb0j786xoayyrw
     verified: false
-    hashtags: "#photogram, #summershooting, #colognegraphy, #basketball"
+    hashtags: "#moodygrams, #moodyports, #greatshot, #portraitsmadeingermany"
 ---

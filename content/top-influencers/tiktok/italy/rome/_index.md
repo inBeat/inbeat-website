@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Rome In 2020
 description: >-
-  Find top TikTok influencers in Rome in 2020. Most popular hashtags: #greenscreen #nopressure #clonesquad #dance.
+  Find top TikTok influencers in Rome in 2020. Most popular hashtags: #duet #greenscreen #fyp.
 platform: TikTok
+hits: 91
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 91 TikTok influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "so.gian"
-    fullname: >-
-      Gianmarco Rottaro
-    location: "Italy"
-    followers: 2099549
-    engagement: 2010
-    commentsToLikes: 0.025754
-    id: ck83k4iae99h50j78rcfi1slf
-    verified: true
-    hashtags: "#problemicontutti, #ironia, #italy, #andratuttobene"
-  - username: "estxer"
-    fullname: >-
-      𝚎𝚜𝚝𝚑𝚎𝚛😸
-    location: "Italy"
-    followers: 11709
-    engagement: 1614
-    commentsToLikes: 0.073472
-    id: cka0xl2yy7k0f0i78c3o3fpcg
-    verified: false
-    hashtags: "#spagnolo, #fashiondisaster, #dita, #whatsappchats"
-  - username: "axelfield22"
-    fullname: >-
-      Alessandro Campo
-    location: "Italy"
-    followers: 2884
-    engagement: 1430
-    commentsToLikes: 0.146973
-    id: ck9e01ply46f40j7845gv28ac
-    verified: false
-    hashtags: "#parrucca, #perfetto, #schiumadabarba, #topo"
-  - username: "sajevaaa"
-    fullname: >-
-      Greta Sajeva 🏳️‍🌈
-    location: "Italy"
-    followers: 14039
-    engagement: 2500
-    commentsToLikes: 0.040105
-    id: ck9e0u3ig7org0j78n3oyifcc
-    verified: false
-    hashtags: "#transition, #dance, #studs, #reazione"
   - username: "noblethomas96"
     fullname: >-
       Noble Thomas
+    bio: >-
+      💪BEAST💪 ❤💚❤💚❤💚 🇮🇳EKM🇮🇹ROME
     location: "Italy"
-    followers: 2804
-    engagement: 4765
-    commentsToLikes: 0.502354
+    followers: 2909
+    engagement: 3134
+    commentsToLikes: 0.258550
     id: cka84abbfsr6e0i78jeiy2wuv
     verified: false
-    hashtags: "#100likes, #canonmirrorless, #maturare, #devilchallenge"
-  - username: "tucuginaincinta"
+    hashtags: "#beard, #pearl2060, #fitness, #mallu"
+  - username: "itsmearien"
     fullname: >-
-      sara 🏳️‍🌈
+      arianna.petricca
+    bio: >-
+      ☛ rome ☚ ✿ 22 yo ✿ ⭑cosplayer & actress⭑ » 10%off with *itsmearien* on @ttdeye «
     location: "Italy"
-    followers: 12006
-    engagement: 3595
-    commentsToLikes: 0.063422
-    id: ck9dtxr2ke1n80j78gv3xa13x
+    followers: 124700
+    engagement: 2034
+    commentsToLikes: 0.014592
+    id: ckbex3ivah2l50j23ueua8em2
     verified: false
-    hashtags: "#lesbin, #greenscreen, #pride, #chitarra"
-  - username: "lelegiaccari"
+    hashtags: "#unboxing, #halloween, #perte, #makeup"
+  - username: "gioiaxoxo1"
     fullname: >-
-      lelegiaccari
+      Gioiaxoxo1
+    bio: >-
+      rome 🇮🇹 🌟road to 900k🌟
     location: "Italy"
-    followers: 1104923
-    engagement: 2097
-    commentsToLikes: 0.015373
-    id: ck8z9zga6ztog0j785d4jxtrv
+    followers: 844700
+    engagement: 2174
+    commentsToLikes: 0.008365
+    id: ckbwbh1l60oty0j23bc3hhegm
     verified: false
-    hashtags: "#taritara"
-  - username: "lady_giorgia"
+    hashtags: "#harrypotter, #fyp, #dracotok, #dracomalfoy"
+  - username: "federica.tardia"
     fullname: >-
-      giorgia💛
+      Federica Tardia
+    bio: >-
+      📍Rome CURIOSITÀ NUOVE OGNI GIORNO📌 instagram: @federicatardia🌟⬇️ sun
     location: "Italy"
-    followers: 968423
-    engagement: 2268
-    commentsToLikes: 0.009325
-    id: ck8zbdu0251qs0j78v8jqqeps
+    followers: 401000
+    engagement: 1703
+    commentsToLikes: 0.057892
+    id: ckc82aeja32et0j23e1hwrzx8
     verified: false
-    hashtags: "#blooper, #imissthiscity, #thiscity, #imissrome"
+    hashtags: "#indovinello, #losapevi, #federicatardia, #impararediverte"
+  - username: "matteo.filipponi"
+    fullname: >-
+      Matteo Filipponi🦊
+    bio: >-
+      👉🏻17 y.o 👉🏻Rome 👉🏻Instagram: @matteofilipponii
+    location: "Italy"
+    followers: 37200
+    engagement: 2155
+    commentsToLikes: 0.013987
+    id: ck9v7hwmi63d10j786cwg5m11
+    verified: false
+    hashtags: "#foryoupage, #foryou, #duet, #greenscreen"
   - username: "babyy.yla"
     fullname: >-
       Ilaria Perfetti
+    bio: >-
+      canto sempre scusate 📍Rome, Italy 🇮🇹 instagram: baby.yla
     location: "Italy"
-    followers: 471302
-    engagement: 3013
-    commentsToLikes: 0.009653
+    followers: 745000
+    engagement: 2469
+    commentsToLikes: 0.005975
     id: ck8ttecjqruv40j78dzckxr92
     verified: false
-    hashtags: "#perte, #iorestoacasa, #duet, #romwe"
-  - username: "flaviadonnini"
+    hashtags: "#adv, #duet, #blooper, #perte"
+  - username: "matthewbolds"
+    fullname: >-
+      Matthew Bolds
+    bio: >-
+      Rome - Italy 🇮🇹 19y - Italian🚶🏻‍♂️ 📩matthewbolds.business@gmail.com📩
+    location: "Italy"
+    followers: 1100000
+    engagement: 1959
+    commentsToLikes: 0.009338
+    id: ck83k081i8ano0j78oxaq1xsc
+    verified: true
+    hashtags: "#doubleyourimpact, #foryou, #fyp, #foryoupage"
+  - username: "_labruni"
+    fullname: >-
+      Francesca Bruni Ercole
+    bio: >-
+      18 years old / Italy, Rome 🇮🇹 Singer,actress,painter collab. in DM
+    location: "Italy"
+    followers: 80300
+    engagement: 2240
+    commentsToLikes: 0.010039
+    id: ck9ey5u17ueo80j781aqix4nu
+    verified: false
+    hashtags: "#curvy, #duet, #halloween, #makeup"
+  - username: "benedettafortini"
+    fullname: >-
+      benedetta fortini
+    bio: >-
+      🖤 insta: benedettafortini rome📍
+    location: "Italy"
+    followers: 307000
+    engagement: 1986
+    commentsToLikes: 0.007679
+    id: ckbqc601cy9m10j23mw3q4hcb
+    verified: false
+    hashtags: "#greenscreen"
+  - username: "flaviaadonnini"
     fullname: >-
       Flavia Donnini
+    bio: >-
+      Rome, Italy❤️ collabs: flaviadonnini434@gmail.com
     location: "Italy"
-    followers: 104157
-    engagement: 1970
-    commentsToLikes: 0.018478
+    followers: 116200
+    engagement: 1961
+    commentsToLikes: 0.014206
     id: ck8w4nlw58swv0j78phvc68sb
     verified: false
-    hashtags: ""
+    hashtags: "#greenscreen, #duetto, #bulletproof"
 ---

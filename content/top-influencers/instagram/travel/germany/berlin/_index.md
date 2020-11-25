@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Berlin In 2020
 description: >-
-  Find top travel Instagram influencers in Berlin in 2020. Most popular hashtags: #travel #travelberlin #water #berlin.
+  Find top travel Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #travel #germany #happy.
 platform: Instagram
+hits: 647
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 647 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "lucassemm"
+  - username: "caona_m"
     fullname: >-
-      Lucas
+      ℝ𝕖𝕒𝕝𝕝𝕚𝕗𝕖➳𝔽𝕒𝕞𝕚𝕝𝕪➳𝔹𝕖𝕒𝕦𝕥𝕪➳𝔽𝕒𝕤𝕙𝕚𝕠𝕟
+    bio: >-
+      🤍 @leonard.freier ♡ 𝕄𝕠𝕞𝕞𝕪 𝕠𝕗 ⒶⓊⓇⓄⓇⒶ ▫️𝕎𝕖𝕣𝕓𝕦𝕟𝕘➳𝔾𝕖𝕨𝕚𝕟𝕟𝕤𝕡𝕚𝕖𝕝𝕖 📩 ℂ𝕒𝕠𝕟𝕒𝟛𝟘@𝕚𝕔𝕝𝕠𝕦𝕕.𝕔𝕠𝕞
     location: "Germany"
-    followers: 5546
-    engagement: 961
-    commentsToLikes: 0.082811
-    id: ck0tzcfmlpsk40i19gvzxnd31
+    followers: 19571
+    engagement: 454
+    commentsToLikes: 0.482237
+    id: ck5zs2eh9xoyw0i14gubdchvs
     verified: false
-    hashtags: "#berlin, #menfashion, #spotify, #producer"
-  - username: "rubensixxpaxx"
+    hashtags: "#sport, #fashion, #gewinn, #auslosung"
+  - username: "litaclips"
     fullname: >-
-      Ruby Rodriguez / SIXXPAXX
+      Lita🏳️‍🌈
+    bio: >-
+      6teen| 🇷🇺🇺🇸 ✈️ ——-> 📍 Near Munc & Bln Tiktok: literrrrrrrrrr Sry Mum I like Girls🌈
     location: "Germany"
-    followers: 8709
-    engagement: 763
-    commentsToLikes: 0.027088
-    id: ck5zpmmuksxm30i1428prgkyy
+    followers: 18040
+    engagement: 182
+    commentsToLikes: 0.115729
+    id: ckap8ju03omxy0i78596ycf8s
     verified: false
-    hashtags: "#model, #sophiatomalla, #venecia, #policia"
-  - username: "rebecca.ku"
+    hashtags: "#gay, #bodypositivity, #happy, #nike"
+  - username: "thesharks_"
     fullname: >-
-      Rebecca Kunikowski
+      Sarah Sharks
+    bio: >-
+      New account @sharko030
     location: "Germany"
-    followers: 62361
-    engagement: 249
-    commentsToLikes: 0.042158
-    id: ckap4jqj07odb0i78co87djgy
-    verified: true
-    hashtags: "#mercedesbenz, #cologne, #instylegermany, #instylemagazine"
-  - username: "viannefotografie"
-    fullname: >-
-      Vianne 🥀 Berlin
-    location: "Germany"
-    followers: 9843
-    engagement: 625
-    commentsToLikes: 0.011944
-    id: ck0tyoy5xnlc00i19s0fzlyxx
+    followers: 28130
+    engagement: 140
+    commentsToLikes: 0.016099
+    id: ck5qa8reff4zw0i112gmjtj9m
     verified: false
-    hashtags: "#poemsdaily, #schwangerschaft, #itsaselfie, #bathtubgoals"
-  - username: "newa.music"
+    hashtags: "#techno, #berlintechno, #girlswithtattoos, #love"
+  - username: "ymlevart"
     fullname: >-
-      Newa
+      Sabrina Empunkt
+    bio: >-
+      📍#Heidelberg 🇩🇪 📸 Sony A5000 Next stops: 🔜 Berlin 🇩🇪 🔜 Düsseldorf 🇩🇪 🔜 USA (West Coast) & Hawaii 🇺🇸
     location: "Germany"
-    followers: 7711
-    engagement: 879
-    commentsToLikes: 0.020204
-    id: ck0vxwoby141i0i1940xqjdw0
+    followers: 2053
+    engagement: 1843
+    commentsToLikes: 0.046512
+    id: ckaork0qonkxa0i78ye2ycgb5
     verified: false
-    hashtags: "#searching, #vilnius, #boilerroom, #taranto"
-  - username: "_polishot_"
+    hashtags: "#germanalphas, #mytinyatlas, #travelgermany, #hessentourismus"
+  - username: "fiona_berlin_based"
     fullname: >-
-      André Bachmann
+      Fiona Hirschmann
+    bio: >-
+      ©Fiona Hirschmann Impressum: www.fionahirschmann.de •freelance photographer for: hirschmannbrand.de •Admin: @urbanimpuls
     location: "Germany"
-    followers: 3542
-    engagement: 2776
-    commentsToLikes: 0.041915
-    id: ck15riez8839f0i19wsy20wkd
+    followers: 5725
+    engagement: 466
+    commentsToLikes: 0.073735
+    id: ck5zmwpbwnceq0i1491p6h1u5
     verified: false
-    hashtags: "#ektar100, #thankyouall, #brandenburggate, #schneegl"
-  - username: "dw_travel"
+    hashtags: "#cityview, #lowkey, #hellofrom, #blackandwhite"
+  - username: "ma_delina_"
     fullname: >-
-      DW Travel
+      Madeline Flierler | Fitness
+    bio: >-
+      📍 Magdeburg ♡ 🏋️‍♀️ Cheerleading | Fitness ❌ NO FAKE FOLLOWER THX 📩 for collab: flierler.madeline@gmx.de 🙌
     location: "Germany"
-    followers: 97731
-    engagement: 110
-    commentsToLikes: 0.018496
-    id: ck8t8mbuukz6r0j78q8s9wipy
-    verified: true
-    hashtags: "#towers, #weroamgermany, #castlelovers, #tiergarten"
-  - username: "nataszamaria"
-    fullname: >-
-      Natasza Maria Perzak 📷
-    location: "Germany"
-    followers: 5005
-    engagement: 755
-    commentsToLikes: 0.068795
-    id: ck8t6qwwbegj30j78xdzlj8q2
+    followers: 6454
+    engagement: 1370
+    commentsToLikes: 0.083757
+    id: ck5c3akacywxz0i11jnw6f6a9
     verified: false
-    hashtags: "#nowawarszawa, #capturestreet, #italianculture, #malemodeling"
-  - username: "deutschlandmylove"
+    hashtags: "#braunschweig, #outfitinspiration, #lookbook, #berlin"
+  - username: "patteswayze"
     fullname: >-
-      Germany 🇩🇪 VIATOR MUNDI
+      Patrick
+    bio: >-
+      Blogger, Photographer and content producer from Berlin. - - > DM or Mail for collaboration
     location: "Germany"
-    followers: 28075
-    engagement: 154
-    commentsToLikes: 0.013701
-    id: ck5he38sgqt7x0i1135zc1gak
+    followers: 17025
+    engagement: 175
+    commentsToLikes: 0.304065
+    id: ck14kxbgtrscn0i19lyptbo5j
     verified: false
-    hashtags: ""
-  - username: "juliasteyns"
+    hashtags: "#bl, #mendailyfashion, #berlin, #freitagstyle"
+  - username: "paninisfoodblog"
     fullname: >-
-      Julia Steyns
+      Mangia
+    bio: >-
+      Kochen per la Famila🙌👨‍👩‍👧‍👦☘️ Kommt mit in unsere Paniniwelt Es wird Multikulti 👌 Meine Bilder mache ich alle selber 🌸 Hannover / Niedersachsen
     location: "Germany"
-    followers: 74126
-    engagement: 106
-    commentsToLikes: 0.051107
-    id: ck14iy5i8hp910i19wosxvufe
-    verified: true
-    hashtags: "#homeshooting, #bathroominspo, #selfie, #coachellaoutfit"
+    followers: 5380
+    engagement: 857
+    commentsToLikes: 0.201956
+    id: ck9hc2t4pji580j78ysi4cs5k
+    verified: false
+    hashtags: "#breakfast, #mittagessen, #cheese, #hamburger"
+  - username: "simpalao"
+    fullname: >-
+      Giacomo Aguzzoni🗺
+    bio: >-
+      More Life » Canon ❂ Currently in Portugal 🇵🇹 ▵ Live, travel, adventure, bless and don't be sorry @giacomoaguzzoni for more Presets available here ↡
+    location: "Germany"
+    followers: 9185
+    engagement: 619
+    commentsToLikes: 0.138953
+    id: ck6tilqjr0yhy0j71x1g98qnk
+    verified: false
+    hashtags: "#thewanderer, #topspainphoto, #palermo, #dolomitidasogno"
+  - username: "berlinstyle"
+    fullname: >-
+      Berlin
+    bio: >-
+      🇩🇪 - Best places to go in Berlin ⭐️ - Inspiring people everyday 🔗 - branch of @cimmino
+    location: "Germany"
+    followers: 38466
+    engagement: 348
+    commentsToLikes: 0.015110
+    id: ck5hnjtzunwkt0i11cvhmc6ew
+    verified: false
+    hashtags: "#berlin, #berlinstyle, #germany, #diestadtberlin"
 ---

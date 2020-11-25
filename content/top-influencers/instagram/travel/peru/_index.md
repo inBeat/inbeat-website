@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Peru In 2020
 description: >-
-  Find top travel Instagram influencers in Peru in 2020. Most popular hashtags: #earthfocus #colombia #traveling #traveladdict.
+  Find top travel Instagram influencers in Peru in 2020. Most popular hashtags: #peru #travel #lima #visitperu.
 platform: Instagram
+hits: 130
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 130 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "elmelling"
+  - username: "saravcardenasa"
     fullname: >-
-      Emma Melling | Travel
+      𝗩𝗜𝗖𝗧𝗢𝗥𝗜𝗔🦋║Travel ✈ Adventure
+    bio: >-
+      ✤ Peruvian girl 🇵🇪 in a colorful canvas 🎨 ✤ Aspiring to inspire 💫 ✤ Doglover 🐕 + Positivity 💭 ☟ NEWEST TRAVEL APP JOIN ME THERE ☟
     location: "Peru"
-    followers: 5381
-    engagement: 2173
-    commentsToLikes: 0.172946
-    id: ck5ztevmf09w70i14vq4lap6o
+    followers: 8874
+    engagement: 1084
+    commentsToLikes: 0.069556
+    id: ck139ekh3kxfr0i1968gtpjlz
     verified: false
-    hashtags: "#travelspain, #salento, #sunsetoftheday, #under10k"
-  - username: "livewithoutshoes"
-    fullname: >-
-      Deborah&Ceghez | Travel Couple
-    location: "Peru"
-    followers: 24071
-    engagement: 826
-    commentsToLikes: 0.086820
-    id: ck5zw154g5a2d0i14j1br6hmn
-    verified: false
-    hashtags: "#thatothersmaylive"
-  - username: "oliviaheintz"
-    fullname: >-
-      ✰ O L I V I A  ✰
-    location: "Peru"
-    followers: 16503
-    engagement: 1304
-    commentsToLikes: 0.041102
-    id: ck0w5ynr862h10i19djczzy64
-    verified: false
-    hashtags: "#sprinkles, #pink, #special, #positive"
-  - username: "traveloveroma"
-    fullname: >-
-      Sandra℠
-    location: "Peru"
-    followers: 66462
-    engagement: 242
-    commentsToLikes: 0.054374
-    id: ck0u6gva120ht0i19m2dnegse
-    verified: false
-    hashtags: "#perutravel, #miraflores, #newyorknewyork, #cahuita"
+    hashtags: "#travelgirlshub, #millpu, #igersperu, #igersayacucho"
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
+    bio: >-
+      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle | MakeUp ✉ antonellaleguab@gmail.com 📌 Perú
     location: "Peru"
-    followers: 85116
-    engagement: 103
-    commentsToLikes: 0.094163
+    followers: 82062
+    engagement: 128
+    commentsToLikes: 0.179357
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#8m, #rainbowcake, #quedateencasa, #bffs"
-  - username: "elenaborsch"
+    hashtags: "#dknychallenge, #dknystories, #publicidad, #celebremostodo"
+  - username: "vane.cayo"
     fullname: >-
-      Elena | Peru & Latin America
+      Vanessa Cayo
+    bio: >-
+      Train your brain, body and mind! 📍Lima, Perú 🇵🇪 | ♎🌞🌺 🏋🏼‍♀️ Love to work out ✈️ Traveller
     location: "Peru"
-    followers: 42660
-    engagement: 391
-    commentsToLikes: 0.021463
-    id: ck0uelblcll120i196rdrw4gq
+    followers: 8307
+    engagement: 798
+    commentsToLikes: 0.102822
+    id: ckaoztdgsnbea0i78v9z9u985
     verified: false
-    hashtags: "#netherlands, #riodojaneiro, #barranco, #sanmartin"
+    hashtags: "#motivation, #stayhome, #workout, #fit"
   - username: "alessandra.salazar"
     fullname: >-
       Alessandra Salazar
+    bio: >-
+      Estudiante de publicidad📍Based in Lima 🎒 Travel | Reader | Fashion | Lifestyle
     location: "Peru"
-    followers: 6640
-    engagement: 659
-    commentsToLikes: 0.052772
+    followers: 7618
+    engagement: 602
+    commentsToLikes: 0.052222
     id: ck8t1m991w8eu0j78q7w267lq
     verified: false
     hashtags: "#bffs"
-  - username: "mariepier.bastien"
+  - username: "percyluzioruiz"
     fullname: >-
-      M A R I E P I E R
+      Percy Luzio
+    bio: >-
+      Traveler, Image Consultant, Crew Member, Pageant Coach , Personal Shopper , Asesor de Imagen
     location: "Peru"
-    followers: 7939
-    engagement: 645
-    commentsToLikes: 0.024682
-    id: ck0vz6sy87lhf0i196i6r3ez9
+    followers: 18151
+    engagement: 378
+    commentsToLikes: 0.026204
+    id: ck5zxf00l7vyj0i145uxc5dqj
     verified: false
-    hashtags: ""
-  - username: "travelmoregirl"
+    hashtags: "#verano, #relaxing, #behappy, #miami"
+  - username: "nikkooficial"
     fullname: >-
-      ᴢᴜʟᴍᴀ ♧ ʟᴏᴠᴇ ᴛʀᴀᴠᴇʟ ʟɪғᴇsᴛʏʟᴇ
+      Nikko Ponce 🇵🇪
+    bio: >-
+      🇵🇪🇮🇹 Actor || Músico || Songwriter Founder & CEO @peruaneandooficial 𝘔𝘢𝘯𝘢𝘨𝘦𝘳 @gabrielblancoi 📍Lima, Peru #travel #lifestyle 🤙🏼 CAPITULO #7 ⬇️
     location: "Peru"
-    followers: 10326
-    engagement: 1115
-    commentsToLikes: 0.142886
-    id: ck6txpbgez3ar0j715oa7qsqo
-    verified: false
-    hashtags: "#travelawesome, #traveler, #bbctravel, #bakpacker"
+    followers: 377588
+    engagement: 69
+    commentsToLikes: 0.073066
+    id: ck134qydsxrnx0i19ceoilbm3
+    verified: true
+    hashtags: "#vlog, #men, #peru, #mgperu"
   - username: "takeshionophoto"
     fullname: >-
       Takeshi Ono
+    bio: >-
+      Moda//Producto//Filmmaker//travel✈️ @takeshigamer 🎮 Lima🇵🇪 Fblive: takeshigame 🎮 @tropicana.brand Contacto@takeshiono.info 📩
     location: "Peru"
-    followers: 31132
-    engagement: 229
-    commentsToLikes: 0.015246
+    followers: 30177
+    engagement: 161
+    commentsToLikes: 0.019363
     id: ck14hu4g9c5h20i19cy2eba33
     verified: false
-    hashtags: "#pumacali, #tbt"
+    hashtags: "#merinonoesmipresidente"
+  - username: "tomilavignolle"
+    fullname: >-
+      • Tᴏᴍɪ Lᴀᴠɪɢɴᴏʟʟᴇ •
+    bio: >-
+      ᴛʀᴀᴠᴇʟ ᴛø ʟɪᴠᴇ @enjoy.the.pic #travel #travelphotography #photography #travelgram
+    location: "Peru"
+    followers: 4220
+    engagement: 1018
+    commentsToLikes: 0.047349
+    id: ck13d6uv63yzc0i1923mzq894
+    verified: false
+    hashtags: "#asia, #ecuador, #traveller, #instatravel"
+  - username: "jordantrek"
+    fullname: >-
+      JORDAN  CÁRDENAS | PERU
+    bio: >-
+      Engineer & Photographer/Nikon▪️Gopro▪️Drone 👑Founder of @thekingofperu 🌎Travel Addict ✉️Contacto y colaboraciones al DM
+    location: "Peru"
+    followers: 6384
+    engagement: 1099
+    commentsToLikes: 0.096355
+    id: ck139eatukvy90i19j3yix7lr
+    verified: false
+    hashtags: "#exploreperu, #ctperu, #paisaje, #sunset"
+  - username: "corsettbabe"
+    fullname: >-
+      🌈Adria Morales 🌙
+    bio: >-
+      🇵🇪’18’🇵🇦 Model / Traveller🚀 🥀tiktok: corsetbabe (+70k☄️) Quieres un corset? ⬇️⬇️⬇️❤️
+    location: "Peru"
+    followers: 14746
+    engagement: 491
+    commentsToLikes: 0.023745
+    id: ck6u7felbl6x70j715wc2n026
+    verified: false
+    hashtags: "#photoshoot, #modellife, #photography, #corona"
 ---

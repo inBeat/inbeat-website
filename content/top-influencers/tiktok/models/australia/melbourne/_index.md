@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Melbourne In 2020
 description: >-
-  Find top models TikTok influencers in Melbourne in 2020. Most popular hashtags: #model #duet #love #keepingactive.
+  Find top models TikTok influencers in Melbourne in 2020. Most popular hashtags: #fyp #melbourne #australia #model.
 platform: TikTok
+hits: 14
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 14 TikTok influencers like this in Melbourne, Australia for you to connect with.
 profiles:
-  - username: "damoanddougie"
+  - username: "blondejeff"
     fullname: >-
-      Damien & Dougie
+      Jeff Kissubi
+    bio: >-
+      PRISCILLAS AUS🇦🇺 IG: Jeffsterkiss_ #blacklivesmatter
     location: "Australia"
-    followers: 7428
-    engagement: 2748
-    commentsToLikes: 0.018161
-    id: ck9025usdc4zn0j78z2oio059
+    followers: 21200
+    engagement: 1978
+    commentsToLikes: 0.027802
+    id: ckcvidu3lveoy0j23beyibgez
     verified: false
-    hashtags: "#tiktokchallenge, #gonnabefriends, #dogmodel, #gotthisforyou"
-  - username: "jyotibajaj1"
-    fullname: >-
-      Jyoti Bajaj
-    location: "Australia"
-    followers: 265790
-    engagement: 728
-    commentsToLikes: 0.052991
-    id: ck81t0dluuham0j78phc6rxfr
-    verified: false
-    hashtags: "#smile, #oldpunjabisongs, #karanaujlamusic, #cute"
-  - username: "hope.ellennn"
-    fullname: >-
-      Hope Ellen
-    location: "Australia"
-    followers: 106467
-    engagement: 1040
-    commentsToLikes: 0.022269
-    id: ck9no2x96s4ek0j78d27iwqu1
-    verified: false
-    hashtags: "#outfit, #initials, #boyfriend, #school"
-  - username: "staceygrant"
-    fullname: >-
-      Stacey Grant
-    location: "Australia"
-    followers: 4504
-    engagement: 787
-    commentsToLikes: 0.038866
-    id: cka6knw89zqsz0i78bvqz3hul
-    verified: false
-    hashtags: "#vampire, #misheardlyrics, #america, #blonde"
+    hashtags: "#foryou, #model, #australia, #skincarebyhyram"
   - username: "circusozofficial"
     fullname: >-
       Circus Oz
+    bio: >-
+      Australia's iconic all-human circus. From Narrm (Melbourne) to the world.
     location: "Australia"
-    followers: 2627
-    engagement: 1525
-    commentsToLikes: 0.009168
+    followers: 3194
+    engagement: 1596
+    commentsToLikes: 0.008227
     id: cka0kfjklmfhg0i78w7x8tl3g
     verified: false
-    hashtags: "#office, #forypupage, #foryoupage, #fashion"
-  - username: "reemamallick"
+    hashtags: "#circusoz, #melbourne, #circuslife, #circus"
+  - username: "boyvsgod"
     fullname: >-
-      Reema Mallick
+      Harry
+    bio: >-
+      IG: @harrywallac.e Melbourne📍📡
     location: "Australia"
-    followers: 286168
-    engagement: 921
-    commentsToLikes: 0.023321
-    id: ck81t0h91ui250j78ky3wbyfh
+    followers: 11100
+    engagement: 933
+    commentsToLikes: 0.021050
+    id: ckcpff7lngrb60j230l31ulah
     verified: false
-    hashtags: "#gotthisforyou, #dancelover, #rotimaking, #homeroutine"
+    hashtags: "#tiktokcouple, #viral, #brand, #runway"
+  - username: "annaliesegann"
+    fullname: >-
+      Annaliese Gann
+    bio: >-
+      AUSSIE MODEL 🤪🇦🇺 IG 110K - FB 20K IG annaliesegann Account made 30.07.2020
+    location: "Australia"
+    followers: 20500
+    engagement: 472
+    commentsToLikes: 0.055032
+    id: ckdbwx6cje4ur0j23rfbbzhp4
+    verified: false
+    hashtags: "#foryoupage, #model, #dating, #australia"
+  - username: "jessraeking"
+    fullname: >-
+      Jess King
+    bio: >-
+      Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
+    location: "Australia"
+    followers: 8358
+    engagement: 510
+    commentsToLikes: 0.044921
+    id: ckdhgtydkxu6z0j23jn2d0wof
+    verified: false
+    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
+  - username: "simonleecowell"
+    fullname: >-
+      simonlee-cowell
+    bio: >-
+      Don't follow my insta I post half naked pics 26 Melbourne Sc - simonlee-cowell
+    location: "Australia"
+    followers: 71900
+    engagement: 951
+    commentsToLikes: 0.022717
+    id: ckbf8wmhhznn40j23r4929dri
+    verified: false
+    hashtags: "#melbourne, #australia, #joke, #aussie"
+  - username: "freshbeautyskin"
+    fullname: >-
+      freshbeautyskin
+    bio: >-
+      FRESH BEAUTY (Melbourne, Australia) Instagram @freshbeautyskin
+    location: "Australia"
+    followers: 51000
+    engagement: 878
+    commentsToLikes: 0.005203
+    id: ckbf4v2v4thch0j237rk0535n
+    verified: false
+    hashtags: "#foryoupage, #eyebrow, #laser, #deep"
+  - username: "southsidebikehire"
+    fullname: >-
+      SouthSideBikeHire
+    bio: >-
+      Weddings, formals, funerals, birthdays, chauffeured rides DM to book!
+    location: "Australia"
+    followers: 17200
+    engagement: 349
+    commentsToLikes: 0.006190
+    id: ck9n5600q6omz0j78b4ximpve
+    verified: false
+    hashtags: "#fyp, #foryourpage, #foryoupage, #foryou"
+  - username: "bfossy"
+    fullname: >-
+      Brandon Foster
+    bio: >-
+      OG content//Nothing but good vibes 🙌🏼
+    location: "Australia"
+    followers: 6313
+    engagement: 811
+    commentsToLikes: 0.055719
+    id: ck932oxxokdkc0j782vyq93m2
+    verified: false
+    hashtags: "#haha, #relatable, #adelaide, #xyzbca"
   - username: "rocketmae"
     fullname: >-
       mae
+    bio: >-
+      - steven universe - - evita - i met patti lupone i talk about my alters 🤷🏻‍♀️
     location: "Australia"
-    followers: 19062
-    engagement: 1932
-    commentsToLikes: 0.016890
+    followers: 19600
+    engagement: 2145
+    commentsToLikes: 0.018151
     id: ck83z8s1iypkw0j787bcuaxnz
     verified: false
-    hashtags: "#melbourne, #cartoonnetwork, #musicaltheatre, #friends"
-  - username: "ashdaviesoncars"
-    fullname: >-
-      Ash Davies
-    location: "Australia"
-    followers: 30380
-    engagement: 725
-    commentsToLikes: 0.011673
-    id: ck9m10qzqcym10j7852wdu1px
-    verified: false
-    hashtags: "#launchcontrol, #carolbaskin, #vlog, #ford"
-  - username: "harleyagsd"
-    fullname: >-
-      Harley a gsd 
-    location: "Australia"
-    followers: 332359
-    engagement: 3160
-    commentsToLikes: 0.119779
-    id: ck8tpd1hqpz7b0j78jmo3cha1
-    verified: false
-    hashtags: "#gonnabefriends, #vibewithme, #smile, #may4th"
-  - username: "lyndlkean"
-    fullname: >-
-      LyndlKean
-    location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
-    id: cka84t58ovid50i78rvcma8u1
-    verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
+    hashtags: "#australian, #multipleme, #eyesonme, #mentalhealth"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Canada In 2020
 description: >-
-  Find top rappers Instagram influencers in Canada in 2020. Most popular hashtags: #tracksuit #family #highfashion #rapper.
+  Find top rappers Instagram influencers in Canada in 2020. Most popular hashtags: #rap #rapper #hiphop #music.
 platform: Instagram
+hits: 34
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 34 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "16locs"
+  - username: "lowkeemtl"
     fullname: >-
-      LOC. 🔒🎤
+      LowkeeMTL⏱
+    bio: >-
+      •Montreal Artist/Rapper🎤🎤 •Videographer Life🎬🎬 •Photography Gang📸📸 •Barz On Barz Out Now!!🔥🔥
     location: "Canada"
-    followers: 3023
-    engagement: 1704
-    commentsToLikes: 0.089418
-    id: ck9we45jtii210j78bl5ajfil
+    followers: 9092
+    engagement: 1378
+    commentsToLikes: 0.097155
+    id: ckap1tuynw4ea0i78inu1b58u
     verified: false
-    hashtags: "#acousticmusic, #digitalartworks, #thebestfriends, #coronacation"
-  - username: "deepa_deemc"
-    fullname: >-
-      Deepa Unnikrishnan (Dee MC)
-    location: "Canada"
-    followers: 25937
-    engagement: 1028
-    commentsToLikes: 0.011326
-    id: ck8szmkb4p0940j78inbytd05
-    verified: false
-    hashtags: "#desifest, #pumaindia, #delhirap, #nykaa"
+    hashtags: "#newmusicalert, #rapgod, #rapper, #mixtape"
   - username: "snaktheripper"
     fullname: >-
       SNAK THE RIPPER
+    bio: >-
+      RAPPER. PRODUCER. WRITER. CEO AT @stealthbombrecords. THE GUY IN THE SKI MASK. YOUTUBE PIONEER. FROM THE DIRT.
     location: "Canada"
-    followers: 111594
-    engagement: 395
-    commentsToLikes: 0.108000
+    followers: 113191
+    engagement: 339
+    commentsToLikes: 0.144052
     id: ck5zof03lqezm0i14t1woykpu
     verified: true
-    hashtags: "#history, #covid19, #imgood, #aerialassault1"
-  - username: "alexander_panetta"
+    hashtags: "#outforaction, #snaktheripper, #brasstackz, #fuckinright"
+  - username: "deepa_deemc"
     fullname: >-
-      Alexander Panetta
+      Deepa Unnikrishnan (Dee MC)
+    bio: >-
+      Rapper, singer-song writer, story teller. #vivalahiphop 🎶✨ * #deemc #indianfemalerapper * 'Dee=MC²' ALBUM OUT * New Music Video "CONFESS" 👇
     location: "Canada"
-    followers: 56677
-    engagement: 335
-    commentsToLikes: 0.151795
-    id: ckaoz9jy3kymf0i78lw1pbpgc
+    followers: 27087
+    engagement: 1044
+    commentsToLikes: 0.020446
+    id: ck8szmkb4p0940j78inbytd05
     verified: false
-    hashtags: "#juliandeguzmanchoreography, #asapferg, #shayathome, #checkonme"
-  - username: "mellowdofficial"
-    fullname: >-
-      Mellow ⚡️
-    location: "Canada"
-    followers: 33394
-    engagement: 270
-    commentsToLikes: 0.029809
-    id: ck138o282h6890i19uaajc75x
-    verified: true
-    hashtags: "#stayhigh, #red, #swagdev, #instagood"
+    hashtags: "#linkinbio, #deemc, #womeninhiphop, #vivalahiphop"
   - username: "gaia_is_i"
     fullname: >-
       🌎 Gaiaisi - Gaia's Eye 🌍
+    bio: >-
+      Rapper, singer, comedian, and director. Support the 🎶🎙🎥📡, rock the gear: @v.gang.official 🎧 on Spotify: 📲 “Gaia’s Eye” Official Channel 🌿🌿🦏🦍🐘🌿🌿:
     location: "Canada"
     followers: 11161
     engagement: 642
     commentsToLikes: 0.034885
     id: ck0w1btcpik6v0i19v0olh5uz
     verified: false
-    hashtags: "#corona, #earth, #horses, #bears"
+    hashtags: "#burger, #vegansofinstagram, #plantbased, #bacon"
   - username: "aardeemusic"
     fullname: >-
       Aardee
+    bio: >-
+      Singer/Lyricst/Rapper #Aardee ‘2 Percent’ out on all streaming platforms click on the link below 👇🏽
     location: "Canada"
-    followers: 8695
-    engagement: 648
-    commentsToLikes: 0.039624
+    followers: 8397
+    engagement: 637
+    commentsToLikes: 0.042848
     id: ck0w1gwuujag10i19e60pnfkq
     verified: false
-    hashtags: "#singhsdoingthings, #aardee, #tracksuit, #channinattan"
-  - username: "microbrulant"
+    hashtags: "#2percent, #chaninattan, #aardee, #kiratgill"
+  - username: "indirozie"
     fullname: >-
-      MB 🇩🇿🇨🇦
+      ⚔️ 𝕴𝖓𝖉𝖎𝖌𝖔 𝕽𝖔𝖟𝖊 ⚔️
+    bio: >-
+      💎aka @djjoannacoelho @ynayogi @typebeatracks 💎 👠Co-Founder @clothesforrealwomen👠 Find me at @strainhunters_club 🌬️ 🌟 #beatmaker #singer #dj ⭐
     location: "Canada"
-    followers: 25501
-    engagement: 828
-    commentsToLikes: 0.023433
-    id: ck601tb7mg4ug0i14rzizumik
+    followers: 10570
+    engagement: 63
+    commentsToLikes: 0.132082
+    id: ck6u7kn12m2pw0j7124d2aoz9
+    verified: false
+    hashtags: "#fashionstyle, #producerlife, #lifestyle, #typebeat"
+  - username: "mec.artz"
+    fullname: >-
+      TÁ MEC 💎
+    bio: >-
+      Welcome 💎 DM for comission 💡 Depósito bancário 💸 e paypal 💳 @ferraz1one #vectorart
+    location: "Canada"
+    followers: 8873
+    engagement: 289
+    commentsToLikes: 0.038359
+    id: ck0vyv1yl5wwt0i19wy2cpdjr
+    verified: false
+    hashtags: "#vectorart, #designer, #arte, #drip"
+  - username: "stormimaya"
+    fullname: >-
+      Stormi Maya ™
+    bio: >-
+      Girly Rap 🎤 Actor/ Recording Artist/MC /Songwriter / Entrepreneur @hustlersmovie @shesgottahave @netflix Backup @stormimaya2 ɐʎɐɯıɯɹoʇs/ɯoɔ˙suɐɟʎluO
+    location: "Canada"
+    followers: 529822
+    engagement: 126
+    commentsToLikes: 0.049858
+    id: ck5bwmhcslzl40i11e3wa9a3d
     verified: true
-    hashtags: "#rap, #mtl, #toutpourlegang, #nouveauprojet"
-  - username: "derrelhoshingportraits"
+    hashtags: "#freestyle, #femalerapper, #fit, #music"
+  - username: "iamtiagz"
     fullname: >-
-      Derrel Ho-Shing - Toronto
+      TIAGZ ☁️ (tiago)
+    bio: >-
+      📱+1.9M on TikTok (iamtiagz) 📥 tiagzent@gmail.com “They Call Me Tiago EP” + Animated Video Out Now 👇
     location: "Canada"
-    followers: 20169
-    engagement: 315
-    commentsToLikes: 0.060463
-    id: ck5cfquvbngxr0i11x8jdb34u
+    followers: 33332
+    engagement: 371
+    commentsToLikes: 0.032410
+    id: ck8w3gwzg7kyw0j78y505mg3o
     verified: false
-    hashtags: "#family, #gamer, #vintage, #headwraps"
-  - username: "amiwnrk"
+    hashtags: "#memestar, #torontorappers, #rappersbelike, #trap"
+  - username: "tomeofficial_"
     fullname: >-
-      𝕬𝖒𝖎𝖓 𝕽𝕶
+      TÖME
+    bio: >-
+      22 I only sing on Wednesday’s 🤷🏾‍♀️ #BT4W ~ May 22nd 😈
     location: "Canada"
-    followers: 11908
-    engagement: 699
-    commentsToLikes: 0.097550
-    id: ck135nvxs2ce30i19n1m0nrwu
+    followers: 16824
+    engagement: 290
+    commentsToLikes: 0.160407
+    id: ck5c1h1hdv6dj0i111e480y4s
     verified: false
-    hashtags: "#musically, #rapper, #musicvideos, #instagram"
+    hashtags: "#atlanta, #instamusic, #rnbsinger, #musicproducer"
 ---

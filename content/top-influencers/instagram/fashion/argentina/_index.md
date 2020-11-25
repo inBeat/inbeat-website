@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Argentina In 2020
 description: >-
-  Find top fashion Instagram influencers in Argentina in 2020. Most popular hashtags: #makeup #yomequedoencasa #sundaymood #summervibes.
+  Find top fashion Instagram influencers in Argentina in 2020. Most popular hashtags: #sorteo #ootd #look.
 platform: Instagram
+hits: 355
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 355 Instagram influencers like this in Argentina for you to work with.
 profiles:
-  - username: "naramieres"
-    fullname: >-
-      Nara 🌾
-    location: "Argentina"
-    followers: 40083
-    engagement: 1620
-    commentsToLikes: 0.156485
-    id: ck6u60emfctfn0j71mbi9gqw1
-    verified: false
-    hashtags: "#pillowchallenge, #apoyalonacional, #modoroaming, #internationalwomensday"
   - username: "talibaron_"
     fullname: >-
       T A L I • B A R O N
+    bio: >-
+      [ Tali es mi nombre completo ] • Fashion designer • Content creator 𝗢𝗡𝗔 𝗦𝗔𝗘𝗭 𝗯𝘆 𝗠𝗘👇🏻 𝟭𝟱%𝗢𝗙𝗙 𝗖𝗢́𝗗𝗜𝗚𝗢 “𝗢𝗡𝗔𝗕𝗬𝗧𝗔𝗟𝗜“
     location: "Argentina"
-    followers: 15008
-    engagement: 1311
-    commentsToLikes: 0.046165
+    followers: 26100
+    engagement: 2219
+    commentsToLikes: 0.934708
     id: ck0w6hzhn8nmm0i19gt2f2cq1
     verified: false
-    hashtags: "#maybelline, #versaceeyewear, #sorteo, #tutorial"
+    hashtags: "#loungeunderwear, #72hs, #sorteo, #myloungelife"
+  - username: "naramieres"
+    fullname: >-
+      Nara 🌾
+    bio: >-
+      •owner @algodiferente1 @algodiferentestreet_ @algodiferenteshop 🇵🇾 Fashion-Lifestyle
+    location: "Argentina"
+    followers: 51592
+    engagement: 1503
+    commentsToLikes: 0.288708
+    id: ck6u60emfctfn0j71mbi9gqw1
+    verified: false
+    hashtags: "#tupelotueleccion"
+  - username: "agoscasavecchia"
+    fullname: >-
+      Agostina Casavecchia
+    bio: >-
+      ⭐️ ᴍᴀᴍᴀ́ ᴅᴇ ᴠɪɴᴄᴇɴᴢᴏ y αndrᴇ Lifestyle. Emprender en el fashion business. 👉🏻@casavecchiastudio ✨ Potenciamos talentos y generamos contenido y eventos.
+    location: "Argentina"
+    followers: 18885
+    engagement: 966
+    commentsToLikes: 1.193625
+    id: ck6ugmnlk3xc40j71z5u2xz6r
+    verified: false
+    hashtags: "#ss21, #sorteo, #style, #mom"
+  - username: "bassixs"
+    fullname: >-
+      Sol Bassi 🌴⛸
+    bio: >-
+      Mi nombre es Sol 🤍 Founder @murdastudio @murda.cosmetics @murda.store Content Creator Fashion Stylist Lash & brow artist
+    location: "Argentina"
+    followers: 18464
+    engagement: 930
+    commentsToLikes: 0.106879
+    id: ck0w60o6a6cjo0i19f37yev4s
+    verified: false
+    hashtags: "#airbarrage, #jordangirl, #sneakerhead, #jordan1"
   - username: "eunicefrancoblog"
     fullname: >-
       Eunice Franco
+    bio: >-
+      5️⃣4️⃣and fabulous 💕 Open heart surgery SURVIVOR 🙋🏼‍♀️❣️ Grey hair. Fashion lover and motivational words #lasde50tambiensomosfashion
     location: "Argentina"
-    followers: 4638
-    engagement: 1922
-    commentsToLikes: 0.392935
+    followers: 4718
+    engagement: 1909
+    commentsToLikes: 0.465656
     id: ckaouof7v15wz0i78g33onxpv
     verified: false
-    hashtags: "#mafalda, #momday, #mejor, #volver"
-  - username: "ohmytips.oficial"
+    hashtags: "#latina, #modamujer, #agelessbeauty, #grayhairmovement"
+  - username: "gsosatorras"
     fullname: >-
-      ANA • Youtuber 🎥
+      Gabi Sosa Torras
+    bio: >-
+      Fashion Designer • Comunicadora • ABC TV 📺 ABC Noticias Medio día• Ensiestados • Rock & Pop 📻 Ranking R&P • Rompiendo las Horas
     location: "Argentina"
-    followers: 20305
-    engagement: 641
-    commentsToLikes: 0.423338
-    id: ck137466w9oq40i19c7jbt6ye
+    followers: 13192
+    engagement: 951
+    commentsToLikes: 0.189960
+    id: ck5chjtquqwrh0i11a34kks4x
     verified: false
-    hashtags: "#chicfilters, #outfitoftheday, #trend, #hairturorial"
-  - username: "barbylaliter"
-    fullname: >-
-      Barby Laliter
-    location: "Argentina"
-    followers: 54477
-    engagement: 1863
-    commentsToLikes: 0.029158
-    id: ckaoy1it1fo890i785tugvsfs
-    verified: false
-    hashtags: "#sorteo, #sorteonavide, #alisados, #maquillarg"
-  - username: "ivolendranz"
-    fullname: >-
-      Ivo Lendranz
-    location: "Argentina"
-    followers: 75240
-    engagement: 413
-    commentsToLikes: 0.069532
-    id: ck13brhffwtk50i19uvjhxrds
-    verified: false
-    hashtags: "#aovportraits, #portraitsshotz, #makeportraits, #fineartphg"
-  - username: "lusedova"
-    fullname: >-
-      Lú Sedova 👽
-    location: "Argentina"
-    followers: 36542
-    engagement: 382
-    commentsToLikes: 0.060225
-    id: ck13d4een3mjm0i19kuhel935
-    verified: false
-    hashtags: "#112a, #yomequedoencasa, #picsartedit, #stayhome"
+    hashtags: "#abcnoticiasmediodi, #fashionnews, #moda, #diversity"
   - username: "que_monet"
     fullname: >-
       Qué Monet
+    bio: >-
+      🤳🏼 Brenda Gil Gorrías (Periodista) Beauty💄, fashion💃🏻 & lifestyle🍸 @johnfoosla ambassador 💻brendagilgorrias@gmail.com www.quemonet.com 📍Argentina
     location: "Argentina"
-    followers: 33303
-    engagement: 356
-    commentsToLikes: 0.614060
+    followers: 53587
+    engagement: 511
+    commentsToLikes: 0.803762
     id: ck5q38fn1jpvo0i113v5y1c5m
     verified: false
-    hashtags: "#ropainterior, #whitedress, #outfitoftheday, #nomakeup"
-  - username: "merygaravilla"
-    fullname: >-
-      Mery Garavilla
-    location: "Argentina"
-    followers: 55661
-    engagement: 275
-    commentsToLikes: 0.169911
-    id: ck602nfqli52q0i14393krnpt
-    verified: false
-    hashtags: "#galaxys20ar, #hagamosloimposiblejuntos, #tuprimeracasa"
+    hashtags: "#styleoftheday, #beauty, #lookoftheday, #sorteo"
   - username: "abrilcassella"
     fullname: >-
-      ABRIL
+      Abril
+    bio: >-
+      agency @multitalentoficial 🇦🇷 fashion stylist buenos aires | arg
     location: "Argentina"
-    followers: 10701
-    engagement: 1229
-    commentsToLikes: 0.045071
+    followers: 11577
+    engagement: 918
+    commentsToLikes: 0.125426
     id: ck5zwxx7d6yy90i14xvdhcwd4
     verified: false
-    hashtags: "#secondskin, #ss20, #summersweet, #summervibes"
+    hashtags: ""
+  - username: "pk.ph"
+    fullname: >-
+      Paula Kerbs Fotografía
+    bio: >-
+      Fashion & Lifestyle photographer + filmmaker Community Manager & Mkt Digital Contenido para marcas: @pk.brands Buenos Aires, Argentina @paulikerbs
+    location: "Argentina"
+    followers: 20342
+    engagement: 579
+    commentsToLikes: 0.890644
+    id: ck0w1c2zxilkz0i194shen5g5
+    verified: false
+    hashtags: "#taylornation, #oneheartmagazine, #lwymmd, #somewheremagazine"
+  - username: "karolinesmode"
+    fullname: >-
+      Carolina Berro Madero
+    bio: >-
+      Fashion Stylist 🏹 Karolinesmode@gmail.com
+    location: "Argentina"
+    followers: 92177
+    engagement: 402
+    commentsToLikes: 0.233231
+    id: ck6ti9kmg0aqj0j710ytmk41b
+    verified: false
+    hashtags: "#look, #ootd, #homedecor, #interiordesign"
 ---

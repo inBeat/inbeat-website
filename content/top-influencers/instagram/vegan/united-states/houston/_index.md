@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Houston In 2020
 description: >-
-  Find top vegan Instagram influencers in Houston in 2020. Most popular hashtags: #vegan #houston #burger #plantbased.
+  Find top vegan Instagram influencers in Houston in 2020. Most popular hashtags: #vegan #houston #foodie #plantbased.
 platform: Instagram
+hits: 41
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 41 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "mayrajleal"
-    fullname: >-
-      M A Y R A  L E A L
-    location: "United States"
-    followers: 12015
-    engagement: 908
-    commentsToLikes: 0.062792
-    id: ck15twyv7kbqh0i19kazqrh1n
-    verified: false
-    hashtags: "#larchmont, #lamarque, #adventure, #manifestation"
   - username: "theveggiepilot"
     fullname: >-
       Vegan Airline Pilot
+    bio: >-
+      As seen on N.P.R., The Boston Globe, Travel + Leisure Magazine, P.E.T.A., Metro U.K. 🎅🏻📚🧒🏻🧒🏽🧒🏿 Shriner’s Children’s Hospital Christmas Book Drive👇🏼
     location: "United States"
-    followers: 29046
-    engagement: 587
-    commentsToLikes: 0.034888
+    followers: 27588
+    engagement: 610
+    commentsToLikes: 0.042982
     id: ck0w63mxb6qry0i19pcn6dxqd
     verified: false
-    hashtags: "#vegandesserts, #hijodesumadre, #vegansushi, #veganegg"
-  - username: "isachandra"
+    hashtags: "#veganpilot, #vegantraveler, #veganmeal, #veganfoodporn"
+  - username: "houstonfoodbaby"
     fullname: >-
-      Eesie
+      Paige Ngo
+    bio: >-
+      Little person BIG appetite 🙌🏻😋.
     location: "United States"
-    followers: 80955
-    engagement: 284
-    commentsToLikes: 0.027649
-    id: ck5ciiu1vsq140i1126lwvpkm
+    followers: 4774
+    engagement: 823
+    commentsToLikes: 0.254917
+    id: ck0ue204pkbkw0i19h00w6yl7
     verified: false
-    hashtags: "#chickpeaomelet, #dotofu, #salamish, #fucshiaisaflavor"
-  - username: "abeeveryday"
+    hashtags: "#houstontxfood, #houstonfoodie, #tacos, #houstonblogger"
+  - username: "be_leaf_vegan"
     fullname: >-
-      Abraham | Donut Connoisseur
+      Be Leaf
+    bio: >-
+      Be Leaf is a vegan wholesale/ retail company of delicious plant-based products that are made from natural Ingredients. P: 626-346-3359
     location: "United States"
-    followers: 7136
-    engagement: 644
-    commentsToLikes: 0.146045
-    id: ck5pzsgf82iyd0i11bt9qj55g
+    followers: 24793
+    engagement: 115
+    commentsToLikes: 0.020154
+    id: ck5zjaegch8nq0i14ar7qwyc1
     verified: false
-    hashtags: "#lickyourphone, #drake, #safoodpics, #date"
+    hashtags: "#veganbreakfast, #veganrecipes, #vegandinner, #vegansofig"
+  - username: "mayrajleal"
+    fullname: >-
+      M A Y R A  L E A L
+    bio: >-
+      ↞ aiming true ↠ △ nourishing the mind, body and soul ▽ ✺ 07/17/14 ✺ 👩🏽‍✈️✈️ 🌍
+    location: "United States"
+    followers: 12396
+    engagement: 921
+    commentsToLikes: 0.061997
+    id: ck15twyv7kbqh0i19kazqrh1n
+    verified: false
+    hashtags: "#setlife, #flightattendantlife, #boulder, #playadelcarmen"
+  - username: "oliviahertzog"
+    fullname: >-
+      Olivia
+    bio: >-
+      Fruit based living! 🍌 🍉 🥭 Raw Vegan Coach & Personal Chef🌱 Full-time RVer! 🚐 Currently in Houston, TX! 7 Day Raw Vegan Meal Plan is HERE! Link ⬇️
+    location: "United States"
+    followers: 16382
+    engagement: 501
+    commentsToLikes: 0.087577
+    id: ck8t90f71mhzx0j78pnlhyzjg
+    verified: false
+    hashtags: ""
   - username: "jazz.elle"
     fullname: >-
       Jasmine Leatrice
+    bio: >-
+      Vegan | Avid Reader | 6’1 Stallion | Owner of @teapleasetea, the best damn flavored tea you’ve been craving. 📍Dallas, TX
     location: "United States"
-    followers: 7810
-    engagement: 229
-    commentsToLikes: 0.075791
+    followers: 7711
+    engagement: 232
+    commentsToLikes: 0.068883
     id: ck135b2250lpp0i19belx4x4d
     verified: false
-    hashtags: "#womenwhotea, #teadrinker, #watchthisspace, #lasvegas"
-  - username: "iamtabithabrown"
-    fullname: >-
-      Tabitha Brown
-    location: "United States"
-    followers: 1655936
-    engagement: 523
-    commentsToLikes: 0.028003
-    id: ck13c2mxlybn50i19ttur3jt3
-    verified: false
-    hashtags: "#happysunday, #jokes, #tabandchance, #siri"
-  - username: "moniquevictoria"
-    fullname: >-
-      Monique Victoria
-    location: "United States"
-    followers: 21190
-    engagement: 306
-    commentsToLikes: 0.037024
-    id: ck15qjgdv353f0i19nyuroppz
-    verified: false
-    hashtags: "#gratitude, #abundance, #friday, #happynewyear2020"
-  - username: "houstonfoodiess"
-    fullname: >-
-      Houston Food
-    location: "United States"
-    followers: 27204
-    engagement: 707
-    commentsToLikes: 0.444655
-    id: ck5q8sh3g7s230i116ttijkp6
-    verified: false
-    hashtags: "#hkfrenchtoast, #cincodemayo, #supportlocal, #toast"
+    hashtags: "#veganaf, #veganism, #plantbasedvegan, #vegansofdallas"
   - username: "forkdeep"
     fullname: >-
       Kosa
+    bio: >-
+      Eat all the things #ForkDeep 🌮 are my Love Language 📍: Houston 💌:nbambata@forkdeep.com @zipkick|@bestfoodhouston|@bestfoodseattle
     location: "United States"
-    followers: 6414
-    engagement: 769
-    commentsToLikes: 0.052361
+    followers: 6558
+    engagement: 654
+    commentsToLikes: 0.055294
     id: ck5cjadzyubi90i11q0jpg9r4
     verified: false
-    hashtags: "#foodpix, #homecookedmeal, #tabascosauce, #instabreakfast"
-  - username: "japanstylez"
+    hashtags: "#iifym, #houstonbloggers, #mexicancuisine, #houstonfoodie"
+  - username: "paolamena14"
     fullname: >-
-      🎎Japanese Hair Assassin🇳🇬
+      Paola Mena
+    bio: >-
+      Mexico City. Houston. ☆ overdressed and unbothered ☆ Tik tok @paolamena14 (10k+) ☆ Shop @sheinofficial with code Q4paolamena14 for 15% OFF
     location: "United States"
-    followers: 57375
-    engagement: 76
-    commentsToLikes: 0.027831
-    id: ck5hqpyfhtil70i11d6hd64kv
+    followers: 11599
+    engagement: 745
+    commentsToLikes: 0.122464
+    id: ck5q9rdrmclgh0i11kvhqnp9g
     verified: false
-    hashtags: "#curlyhairstyles, #frontalwig, #wigs, #newweeknewgoals"
+    hashtags: "#houstonfoodie, #houstonblogger, #houston, #ad"
+  - username: "moniquevictoria"
+    fullname: >-
+      Monique Victoria
+    bio: >-
+      LA, CA 🕉Yogi 🌱Vegan #Antm16 ma : @ottomodels.agency
+    location: "United States"
+    followers: 21102
+    engagement: 241
+    commentsToLikes: 0.047812
+    id: ck15qjgdv353f0i19nyuroppz
+    verified: false
+    hashtags: "#blacklivesmatter, #blackouttuesday, #equality, #happyhalloween"
+  - username: "fullyrawkristina"
+    fullname: >-
+      Kristina Carrillo-Bucaram
+    bio: >-
+      🇪🇨🇱🇧 Ecuadorian Lebanese 🐛🦋🌏 Health, Healing, Love, & Travel 🍉 #FullyRaw #Vegan 15 Years 🌴 My Recipe App & Online Programs:
+    location: "United States"
+    followers: 1054609
+    engagement: 163
+    commentsToLikes: 0.059305
+    id: ck137dfhsazqp0i19vuwm5835
+    verified: true
+    hashtags: "#app, #lebanon, #plantbased, #vegansofig"
 ---

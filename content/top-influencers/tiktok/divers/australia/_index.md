@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In Australia In 2020
 description: >-
-  Find top divers TikTok influencers in Australia in 2020. Most popular hashtags: #duet #diversity #2020 #girls.
+  Find top divers TikTok influencers in Australia in 2020. Most popular hashtags: #diversity #duet #diving #fyp.
 platform: TikTok
+hits: 22
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 22 TikTok influencers like this in Australia for you to contact.
 profiles:
-  - username: "thexhan"
-    fullname: >-
-      hannah
-    location: "Australia"
-    followers: 6310608
-    engagement: 1998
-    commentsToLikes: 0.008704
-    id: ck8aebbanbiqj0j78vtkv4bur
-    verified: true
-    hashtags: "#ad, #mulachallenge, #duet"
   - username: "aquariustraveller"
     fullname: >-
       Chris Fry
+    bio: >-
+      Chris Fry Creator, Travel Photo/Videographer & Diver IG: @Aquarius.traveller
     location: "Australia"
-    followers: 29449
-    engagement: 836
-    commentsToLikes: 0.062871
+    followers: 29000
+    engagement: 762
+    commentsToLikes: 0.074862
     id: ck977bnu23lx30j7889za75v1
     verified: false
-    hashtags: "#nightdiving, #rockpools, #unitedstates, #mantarays"
+    hashtags: "#travel, #australia, #adventure, #brisbane"
+  - username: "thexhan"
+    fullname: >-
+      Hannah Balanay
+    bio: >-
+      🇵🇭 ig: thexhan.official inquiries: diversity.perth@hotmail.com 19
+    location: "Australia"
+    followers: 13700000
+    engagement: 2209
+    commentsToLikes: 0.005017
+    id: ck8aebbanbiqj0j78vtkv4bur
+    verified: true
+    hashtags: "#thesero, #samsungpartner, #duet, #culturekings"
   - username: "samfrickerr"
     fullname: >-
       Sam Fricker 
+    bio: >-
+      Australian Diver 🇦🇺 🤙 More Than Just A Dream 💎
     location: "Australia"
-    followers: 247104
-    engagement: 1225
-    commentsToLikes: 0.018574
+    followers: 326300
+    engagement: 1089
+    commentsToLikes: 0.012211
     id: ck8f711ci2u5h0j78zgsuu7x0
     verified: false
-    hashtags: "#explore, #true, #single, #vibing"
+    hashtags: "#flips, #rockjumps, #diving, #wheatstraws"
   - username: "scott.creates"
     fullname: >-
       Scott Stuart
+    bio: >-
+      Bestselling Kids Author Support the "My Shadow is Pink" film at link below! 👇
     location: "Australia"
-    followers: 155770
-    engagement: 1561
-    commentsToLikes: 0.021569
+    followers: 285100
+    engagement: 1871
+    commentsToLikes: 0.019969
     id: ck977vvtk5plk0j78clftsuxd
     verified: false
-    hashtags: "#movie, #boys, #bully, #acceptance"
-  - username: "shadezahrai"
+    hashtags: "#kids, #fatherson, #beyourself, #parenting"
+  - username: "awh.issy"
     fullname: >-
-      Shade Zahrai
+      ♡︎9k children♡︎
+    bio: >-
+      User- AwhIssy I used to be “honexxi.rblx” Ameliah is mine
     location: "Australia"
-    followers: 77298
-    engagement: 847
-    commentsToLikes: 0.080061
-    id: cka0jyw6kk7qj0i78bikrbz17
-    verified: true
-    hashtags: "#dance, #professional, #tedtalk, #over30"
-  - username: "monalisatakwada"
+    followers: 9227
+    engagement: 2178
+    commentsToLikes: 0.164794
+    id: ckd6huaseae5c0j23uds6gxnb
+    verified: false
+    hashtags: "#foryoupage, #foryou, #roblox, #edit"
+  - username: "tarikfrimpongofficial"
     fullname: >-
-      Mona
+      tarikfrimpong
+    bio: >-
+      he/ him ❤️ Actor - Singer - Dancer 😊 Goal: 257BILLION
     location: "Australia"
-    followers: 8473
+    followers: 11400
     engagement: 1854
-    commentsToLikes: 0.025648
-    id: ck9dr1xdo29jt0j78ino3s0vq
+    commentsToLikes: 0.192791
+    id: ckbf7xzt8y5xd0j23r3a2kg1z
     verified: false
-    hashtags: "#foreigncheck, #savage, #diyvalentine, #valentines"
-  - username: "cryymiariver"
+    hashtags: "#johnlegend, #theatre, #johnlegendcover, #antiracism"
+  - username: "bodyblendz"
     fullname: >-
-      miaaora weed o
+      Bodyblendz
+    bio: >-
+      Australian Skincare Brand that Gets YOU! Reduces Breakouts & Stretch Marks
     location: "Australia"
-    followers: 4026
-    engagement: 1677
-    commentsToLikes: 0.023796
-    id: ck9dr1wrd29bb0j78b0nzeini
+    followers: 3964
+    engagement: 1541
+    commentsToLikes: 0.062152
+    id: ckbraukzkp37c0j23ucixrn8v
     verified: false
-    hashtags: "#mirror, #hungergames, #builder, #fixit"
-  - username: "madelinestuartmodel"
+    hashtags: "#selfcare, #selflove, #beauty, #bodyblendz"
+  - username: "ashe_media"
     fullname: >-
-      Madeline Stuart
+      ashe_media
+    bio: >-
+      Hi its Liam Business- liamashesocials@gmail.com Insta/snap- ashe_media
     location: "Australia"
-    followers: 46458
-    engagement: 943
-    commentsToLikes: 0.005233
-    id: ck8jaldkmsyco0j78ly0yeas7
+    followers: 103600
+    engagement: 1376
+    commentsToLikes: 0.011112
+    id: cka5z125uko3m0i78ew259dvp
     verified: false
-    hashtags: "#wearredday, #hairchallenge, #christmas, #coronavirus"
-  - username: "pamm.j"
+    hashtags: "#woolies, #diving, #duet, #tv"
+  - username: "jessraeking"
     fullname: >-
-      pam
+      Jess King
+    bio: >-
+      Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
     location: "Australia"
-    followers: 4015
-    engagement: 829
-    commentsToLikes: 0.027937
-    id: ck9dr1xqk29m20j78f5onnmsg
+    followers: 8358
+    engagement: 510
+    commentsToLikes: 0.044921
+    id: ckdhgtydkxu6z0j23jn2d0wof
     verified: false
-    hashtags: "#7rings, #clueless, #girls, #ifiwasaworm"
-  - username: "samicomparte"
+    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
+  - username: "sydneyspearos"
     fullname: >-
-      Sami 
+      sydney spearos
+    bio: >-
+      @sydney.spearos insta @Sydney spearos spearfishing f/b follow and comment
     location: "Australia"
-    followers: 651787
-    engagement: 1368
-    commentsToLikes: 0.011691
-    id: ck83zvr9z3j6h0j787erwhby9
-    verified: true
-    hashtags: "#effect, #newtrend, #beautiful, #boys"
+    followers: 217100
+    engagement: 449
+    commentsToLikes: 0.024532
+    id: ck83wz6byn75q0j78mjg27hju
+    verified: false
+    hashtags: "#oceanadict, #foryoupage, #theman, #ocean"
 ---

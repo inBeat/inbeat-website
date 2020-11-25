@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Miami In 2020
 description: >-
-  Find top christian TikTok influencers in Miami in 2020. Most popular hashtags: #christian #miami #duet #mycrib.
+  Find top christian TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #christian #greenscreen #miami.
 platform: TikTok
+hits: 18
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 18 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "yellayanny"
+  - username: "melspdx"
     fullname: >-
-      yellayanny
+      Melspdx
+    bio: >-
+      📍PNW Eat well, travel better, adventure often! ✈️ IG @melspdx Jesus 🙏🏼
     location: "United States"
-    followers: 31768
-    engagement: 784
-    commentsToLikes: 0.023768
-    id: cka7nihlnx7ga0i78oys1hrjs
+    followers: 2774
+    engagement: 641
+    commentsToLikes: 0.142869
+    id: ckc38aaqzx24y0j23yr24pa1i
     verified: false
-    hashtags: "#dominicana, #dothischallenge, #forfun, #boujee"
-  - username: "jess.haak99"
+    hashtags: "#upperleftusa, #portlandoregon, #foryou, #washingtoncheck"
+  - username: "coloredh0mo"
     fullname: >-
-      Jess.Haak99
+      goodforum
+    bio: >-
+      this planet gets more ghetto everyday 👙OF subscription ⬇️
     location: "United States"
-    followers: 82879
-    engagement: 1349
-    commentsToLikes: 0.010664
-    id: ck8vw20ggn45w0j78pwtw0dlg
+    followers: 66800
+    engagement: 2679
+    commentsToLikes: 0.022954
+    id: ckcjiw42gd0p60j23nr7l5zt0
     verified: false
-    hashtags: "#coolranchdance, #dogowner, #miami, #bestfriend"
-  - username: "miatrotta0"
-    fullname: >-
-      miamia
-    location: "United States"
-    followers: 14927
-    engagement: 1486
-    commentsToLikes: 0.019239
-    id: ck807dg60q2t80j78ccbtmnba
-    verified: false
-    hashtags: "#thisisquitting, #cleaningszn, #everydayheroes, #esportsforall"
-  - username: "eddiemarange"
-    fullname: >-
-      Eddie Marange
-    location: "United States"
-    followers: 5406
-    engagement: 921
-    commentsToLikes: 0.097272
-    id: ck9si827uxf4s0j78gad3l4li
-    verified: false
-    hashtags: "#toosieslide, #puppychallenge, #toiletpaper, #personalgrowth"
-  - username: "paulydtiktok"
-    fullname: >-
-      King Paul David
-    location: "United States"
-    followers: 39336
-    engagement: 794
-    commentsToLikes: 0.039317
-    id: ck8vw3dorncox0j78cskxlqjn
-    verified: false
-    hashtags: "#love, #rainbowlight, #dentist, #grace"
+    hashtags: "#native, #fyp, #justice, #foryou"
   - username: "alisonkay"
     fullname: >-
       Alison Kay Bowles
+    bio: >-
+      Follow my store @lacycoe Jesus Follower,Traveler&Model Get my preset FREE👇🏼
     location: "United States"
-    followers: 15227
-    engagement: 279
-    commentsToLikes: 0.071213
+    followers: 56000
+    engagement: 373
+    commentsToLikes: 0.051063
     id: ckai03mg661qr0i78oz1w9kcn
     verified: false
-    hashtags: "#baseball, #stlblues, #blogger, #founditonamazon"
-  - username: "darapayne1"
+    hashtags: "#mlbplayer, #engagementring, #mlbwife, #proposal"
+  - username: "gawviofficial"
     fullname: >-
-      DaraPayne1
+      GAWVI
+    bio: >-
+      Official GAWVI page. HEATHEN 🌐 now available on all platforms! Broward 🇸🇻🇩🇴
     location: "United States"
-    followers: 8406
-    engagement: 1135
-    commentsToLikes: 0.057242
-    id: ck9ncf2mabveo0j784wfkbye1
+    followers: 6093
+    engagement: 1518
+    commentsToLikes: 0.025846
+    id: ck963gbasuov70j78zkyouhg0
     verified: false
-    hashtags: "#30club, #biracialcouple, #danandshay, #whattimeisit"
-  - username: "leri_carilinda"
+    hashtags: "#dominican, #dominicano, #foryourpage, #latino"
+  - username: "dena_habboush"
     fullname: >-
-      Leri matos palmer
+      Dena
+    bio: >-
+      🇮🇶 Trying to hit 35K 🥰 Follow me on insta: @dena_habboush & YouTube
     location: "United States"
-    followers: 8536
-    engagement: 693
-    commentsToLikes: 0.063874
-    id: ck8vupyjpjisx0j78sx8kzwo3
+    followers: 32300
+    engagement: 457
+    commentsToLikes: 0.030377
+    id: ckbf8vw5wzkj00j23end8cpr4
     verified: false
-    hashtags: "#dominicanas, #naturaleza, #noracism, #oralandoflorida"
-  - username: "christianlamn"
+    hashtags: "#smallbite, #arab, #lebanon, #egyptian"
+  - username: "kristen.alexa"
     fullname: >-
-      Christian
+      kristen
+    bio: >-
+      18 miami, florida aYo PeT cHeCk
     location: "United States"
-    followers: 210496
-    engagement: 2408
-    commentsToLikes: 0.026669
-    id: ck8hpq1x50na10j78f47ai8gm
+    followers: 62300
+    engagement: 1926
+    commentsToLikes: 0.039873
+    id: ckbwb39of0lab0j23t1or3ftz
     verified: false
-    hashtags: "#promlook, #radiorebel, #netflix, #rexorangecounty"
-  - username: "christianmelloo"
+    hashtags: "#greenscreenvideo, #fyp, #greenscreen, #duet"
+  - username: "ashleystudioco"
     fullname: >-
-      Christian
+      SWAG MATS
+    bio: >-
+      Miami 🌴 I just enjoy making stuff 🤓 Click this link to shop my doormats ↙️
     location: "United States"
-    followers: 58218
-    engagement: 2226
-    commentsToLikes: 0.105486
-    id: ck8j5ywew7g3q0j782mnas79g
+    followers: 74800
+    engagement: 828
+    commentsToLikes: 0.019587
+    id: ck9r92o7qetec0j78b6n8x9ks
     verified: false
-    hashtags: "#yoplaitcuprelay, #celebratenurses, #music, #ownthecurve"
+    hashtags: "#fyp, #smallbusiness, #doormat, #foryoupage"
+  - username: "thejacobhaynes03"
+    fullname: >-
+      Jacob
+    bio: >-
+      17 Christian Best basketball tiktoker CEO of epic dunks
+    location: "United States"
+    followers: 137000
+    engagement: 1493
+    commentsToLikes: 0.045370
+    id: ckb165iihtkjy0j23erhqeqdq
+    verified: false
+    hashtags: "#greenscreen, #duet, #repost, #fyp"
+  - username: "thegayrepublican"
+    fullname: >-
+      The Gay Republican
+    bio: >-
+      Click the link below to donate to Trump's legal fund!
+    location: "United States"
+    followers: 172800
+    engagement: 2324
+    commentsToLikes: 0.080619
+    id: ck8qpxo9r5id70j789l5nbgbt
+    verified: false
+    hashtags: "#rondesantis2024, #gaysfortrump, #duet, #fl"
+  - username: "thelindseycarter12"
+    fullname: >-
+      Lindsey Carter✨
+    bio: >-
+      •SWFL• •living for the one true king🦋•
+    location: "United States"
+    followers: 285400
+    engagement: 1484
+    commentsToLikes: 0.019634
+    id: ckb9bpphsy17b0j235qs4f5t1
+    verified: false
+    hashtags: "#greenscreen, #relationship, #oikosonetrip, #christian"
 ---

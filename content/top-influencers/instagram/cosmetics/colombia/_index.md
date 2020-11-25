@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Colombia in 2020. Most popular hashtags: #cosmetics #cuarentena #makeupaddict #sorteo.
+  Find top cosmetics Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #makeupaddict #colombia.
 platform: Instagram
+hits: 38
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 38 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "pauenboga"
+  - username: "escobarnicole7"
     fullname: >-
-      Pau en boga.
+      ✨NICOLE ESCOBAR🍃
+    bio: >-
+      VIDA VIRTUAL, LA REAL ES DIFERENTE👌🏽 Creadora de @dolcevita.colombia @nicoletta.cosmetics Madre @escobarsophie7 Estudiante de Psicología🤓
     location: "Colombia"
-    followers: 12643
-    engagement: 560
-    commentsToLikes: 0.159980
-    id: ck6tuwarmisby0j71ulmausm1
+    followers: 105206
+    engagement: 130
+    commentsToLikes: 0.016993
+    id: ck5cf6h00mdd60i11mybd567j
     verified: false
-    hashtags: "#outfitoftheday, #colombianas, #ibagu, #makeuplook"
-  - username: "marianelamodel"
+    hashtags: ""
+  - username: "londono_smiles"
     fullname: >-
-      Marianela💋Ramos
+      PORCELAIN VENEERS Dr. LONDONO
+    bio: >-
+      W H E R E • S M I L E S • B E C O M E • A R T #Veneers #PorcelainVeneers #Smiledesign CONSULTATION / VALORACION ONLINE👇🏼
     location: "Colombia"
-    followers: 46488
-    engagement: 712
-    commentsToLikes: 0.048889
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 53408
+    engagement: 127
+    commentsToLikes: 0.019334
+    id: ck6ttx4j7d2lp0j71mxuyrarn
     verified: false
-    hashtags: "#gymtime, #fitnesswomen, #nice, #topmodel"
-  - username: "johannagodoymakeup"
-    fullname: >-
-      Johanna Godoy
-    location: "Colombia"
-    followers: 62928
-    engagement: 114
-    commentsToLikes: 0.121361
-    id: ck6uelmn7rns00j71kxo1dnsn
-    verified: false
-    hashtags: "#godoychallenge, #johannagodoymakeup, #lipsgloss, #eyesnude"
-  - username: "ag0nzphoto"
-    fullname: >-
-      A L B E R T O  G O N Z Á L E Z
-    location: "Colombia"
-    followers: 25291
-    engagement: 111
-    commentsToLikes: 0.093234
-    id: ck5cg1y6fo0xi0i11vy49gikn
-    verified: false
-    hashtags: "#ttswtrs, #fendi, #cabello, #ellebulgaria"
+    hashtags: "#lumineers, #chicago, #bogota, #nyc"
   - username: "estelamaca"
     fullname: >-
       Estela
+    bio: >-
+      ᴅᴇᴄᴏʀᴏ ᴘᴀʀᴀ ǫᴜᴇ ᴛú ᴅᴇᴄᴏʀᴇs Me apasiona la decoración, soy adicta al chocolate y creo en el amor sobre todas las cosas. 🔻 ᴛᴏᴅᴏs ᴍɪs ᴇɴʟᴀᴄᴇs ᴀǫᴜí 🔻
     location: "Colombia"
-    followers: 27447
-    engagement: 733
-    commentsToLikes: 0.065038
+    followers: 36383
+    engagement: 613
+    commentsToLikes: 0.123550
     id: ck6tsa9ns3mn20j71tjzqg63y
     verified: false
-    hashtags: "#estiloraw, #decorations, #cosmetics, #skincare"
+    hashtags: "#kitchen, #scandinavianstyle, #scandihome, #hogar"
+  - username: "mayitulena"
+    fullname: >-
+      Maria Alejandra Tulena Davila
+    bio: >-
+      ▪️Comunicadora Social ▪️Esp. Comunicación Política ⚜️Creadora @romabymt ⚜️Directora Comercial en @byperladavila 🙌🏻 Con Dios de socio
+    location: "Colombia"
+    followers: 45243
+    engagement: 164
+    commentsToLikes: 0.015915
+    id: ck5pwq1bgo0wh0i11z93lp0du
+    verified: false
+    hashtags: "#skincareroutine, #selfcare, #naturalskincare, #colombiasereactiva"
   - username: "lauritafitness"
     fullname: >-
       Lau Tamayo 🎀
+    bio: >-
+      Colombian 🇨🇴 Cat lover 😻 Fitness 🏋️‍♀️ Travel ✈️ Trading 📈 #BornToBeRealNotPerfect
     location: "Colombia"
     followers: 4189
     engagement: 1063
     commentsToLikes: 0.115666
     id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#tbt, #classy, #fashion, #photography"
-  - username: "kevincardona115"
+    hashtags: "#positiva, #verano, #model, #classy"
+  - username: "carolayalian"
     fullname: >-
-      kevin cardona ♥️
+      👸
+    bio: >-
+      Felizmente bailarina Cuentas de Netflix y más👉🏾@premiummaxonline Silvestrista❤️ @design_bycarolayalian
     location: "Colombia"
-    followers: 21837
-    engagement: 1366
-    commentsToLikes: 0.141747
-    id: ck6uchr04fo8x0j71dfgwscxy
+    followers: 58818
+    engagement: 701
+    commentsToLikes: 0.176661
+    id: ck5zvshwh4uas0i141da6i7fw
     verified: false
-    hashtags: "#jamescharlespalette, #nikitutorials, #makeupartis, #cosmoywanda"
-  - username: "mortianamakeup"
+    hashtags: "#jlochallenge"
+  - username: "makeupby.gisselle"
     fullname: >-
-      𝕿 𝖆 𝖙 𝖎 𝖆 𝖓 𝖆 🍒
+      Gisselle Elneser ✨ جيزيل النسر
+    bio: >-
+      Pro Makeup Artist & Beauty Educator. Cursos | Maquillaje Social | Novias. Collabs DM📥 Citas al: 3023315731 (Solo whatsapp) 📍Maicao - COLOMBIA✈️
     location: "Colombia"
-    followers: 13515
-    engagement: 828
-    commentsToLikes: 0.087110
-    id: ck6uapbio4v3x0j71591o9clh
+    followers: 11092
+    engagement: 954
+    commentsToLikes: 1.121768
+    id: ck5q3irqwkxfu0i11m3yog9xl
     verified: false
-    hashtags: "#curlygirl, #smokeyglitter, #sorteo, #spotlightmakeup"
-  - username: "_nekita_"
+    hashtags: "#makeupartist, #ofrabeauties, #colombia, #morpheglamfam"
+  - username: "jugomakeup"
     fullname: >-
-      𝕹𝖊𝖐𝖎𝖙𝖆 ƎA
+      Valentina Jugo
+    bio: >-
+      Pro mᥲkᥱᥙρ ᥲrtιst • Coᥒtᥱᥒt ᥴrᥱᥲtor 📍Neiva/Medellín🇨🇴 💌PR/Collabs: jugomakeupml@gmail.com 💄Cιtᥲs dᥱ mᥲqᥙιᥣᥣᥲjᥱ ყ ᥴᥙrsos 🎁 @jugogifts
     location: "Colombia"
-    followers: 8459
-    engagement: 866
-    commentsToLikes: 0.090610
-    id: ck55m09pb2w3f0i11ywg17up9
+    followers: 13407
+    engagement: 882
+    commentsToLikes: 0.166357
+    id: ck8tcdyegz58x0j78s97gf89y
     verified: false
-    hashtags: "#blue, #pinknails, #lions, #photography"
-  - username: "catart.bycatu"
+    hashtags: "#maquillajedehalloween, #amorus, #makeup, #maryandpalettes"
+  - username: "savafe_"
     fullname: >-
-      • C a t u   M o r a •
+      ⛓🕯🕷𝖘𝖆𝖗𝖆𝖍  𝕭𝖆𝖗𝖗𝖔𝖘🕷🕯⛓
+    bio: >-
+      🕯𝐦𝐚𝐤𝐞𝐮𝐩 🔗𝐨𝐮𝐭𝐟𝐢𝐭𝐬 🕯𝐭𝐢𝐤 𝐭𝐨𝐤: 𝐬𝐚𝐯𝐚𝐟𝐞 ⛓🦇𝖈𝖔𝖑𝖆𝖇𝖔𝖗𝖆𝖈𝖎𝖔𝖓𝖊𝖘 𝖕𝖔𝖗 𝖉𝖒 🦇⛓
     location: "Colombia"
-    followers: 6506
-    engagement: 796
-    commentsToLikes: 0.435711
-    id: ck5ztwkkp19290i144vctu9ak
+    followers: 8630
+    engagement: 2487
+    commentsToLikes: 0.041904
+    id: ckaoxo46re2wj0i78dmiok4id
     verified: false
-    hashtags: "#graphiceyeliner, #disney, #cutelips, #haircare"
+    hashtags: "#altgirl, #altfashion, #makeupoftheday, #darkness"
+  - username: "saracalderonmakeup"
+    fullname: >-
+      Maquillaje Cartagena
+    bio: >-
+      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+    location: "Colombia"
+    followers: 6466
+    engagement: 868
+    commentsToLikes: 0.118183
+    id: ckaoydrcxh39n0i78g1yu92pf
+    verified: false
+    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
 ---

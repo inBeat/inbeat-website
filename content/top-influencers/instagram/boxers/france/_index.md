@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In France In 2020
 description: >-
-  Find top boxers Instagram influencers in France in 2020. Most popular hashtags: #stayathome #coronavirus #training #2020.
+  Find top boxers Instagram influencers in France in 2020. Most popular hashtags: #boxing #boxeo #fight.
 platform: Instagram
+hits: 55
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 55 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "prism_wilson"
+  - username: "ninacherryoff"
     fullname: >-
-      Wilson «The Gladiator» Varela
+      T H A N I N A  C H E R R Y
+    bio: >-
+      📍 #dubai 🎥 Tiktok:NINACHERRYOFF( +600k) 💼 #entrepreneure & #mannequin 🥊 FRENCH CHAMPION BOXER 🥊 🍒 #mode #sport #voyage
     location: "France"
-    followers: 77631
-    engagement: 1197
-    commentsToLikes: 0.013001
-    id: ck9wgba8csnpe0j786x214dw5
+    followers: 110660
+    engagement: 538
+    commentsToLikes: 0.014289
+    id: ck14il5q5fyg00i192iqrftz8
     verified: false
-    hashtags: ""
-  - username: "jkitoubilel"
+    hashtags: "#weekend, #montpellier, #ninacherryoff, #drone"
+  - username: "virgil_les_anges_12"
     fullname: >-
-      Bilel Jkitou
+      Virgil Delcamp (LesAnges12) ❤️
+    bio: >-
+      👻vdelcamp20 📩partenariat ➡️virgil.events@gmail.com 🥊 Boxer / Influencer
     location: "France"
-    followers: 148386
-    engagement: 413
-    commentsToLikes: 0.146245
-    id: ck6tjyd2v3n7h0j71l09kvao8
-    verified: true
-    hashtags: "#jkitouart, #aware, #art, #antoine"
-  - username: "ahmedelmousaoui"
+    followers: 413505
+    engagement: 247
+    commentsToLikes: 0.009877
+    id: ck0w6a4257lbl0i19hyn5hzdu
+    verified: false
+    hashtags: "#natural, #lille, #photography, #lesanges12"
+  - username: "icejetaime"
     fullname: >-
-      Ahmed El Mousaoui | AEM BOXING
+      ice | boxer dog in Paris
+    bio: >-
+      ❤️|We bring Boxers into peoples hearts 🐶|Her name is ice, my name is @icemecri 🎂|December 2, 2019 ✨|Paris, France
     location: "France"
-    followers: 56883
-    engagement: 357
-    commentsToLikes: 0.027002
-    id: ck5hpeuj0r8ov0i11po23bqal
-    verified: true
-    hashtags: "#wilderfury2, #trainhard, #justinoshea, #pfw"
-  - username: "ice.icemecri"
-    fullname: >-
-      ice | Boxer dog in Paris
-    location: "France"
-    followers: 6179
-    engagement: 1427
-    commentsToLikes: 0.031427
+    followers: 7283
+    engagement: 1713
+    commentsToLikes: 0.035910
     id: ck9wehvyskce40j78zg37allc
     verified: false
-    hashtags: "#thisisparis"
-  - username: "mohamed_the_problem_mimoune"
-    fullname: >-
-      Mohamed Mimoune Officiel
-    location: "France"
-    followers: 21342
-    engagement: 422
-    commentsToLikes: 0.038909
-    id: ck5zkpy79jxze0i14frf9xv40
-    verified: true
-    hashtags: "#soon, #date, #coming, #contrat"
+    hashtags: ""
   - username: "charlesfrankham1"
     fullname: >-
       CHARLES_FRANKHAM
+    bio: >-
+      Euro🥇Commonwealth🥇 world🥉12 National titles professional boxer with @matchroomboxing 2 and 0 with 1 ko sign with @eddiehearn
     location: "France"
-    followers: 20768
-    engagement: 467
-    commentsToLikes: 0.032103
+    followers: 21246
+    engagement: 380
+    commentsToLikes: 0.031079
     id: ck0uerh31lywf0i19dwue820s
     verified: true
     hashtags: ""
-  - username: "mekhaled_elhem69"
-    fullname: >-
-      Elhem Mekhaled
-    location: "France"
-    followers: 10895
-    engagement: 431
-    commentsToLikes: 0.032576
-    id: ck6tvs8scnzdr0j71hfy5mmin
-    verified: false
-    hashtags: "#sportaddict, #indiefilmmaker, #rapfrancais, #lasertatto"
   - username: "souleycissokho"
     fullname: >-
       Souleymane Cissokho
+    bio: >-
+      ⏺️Olympic Medalist🏅#RIO2016 ⏺️Pro Boxer #TeamCissokho 🇸🇳 🇫🇷 🇺🇸 @underarmourfr Athlete #Iwill 💍
     location: "France"
     followers: 88903
     engagement: 388
     commentsToLikes: 0.015781
     id: ck0w4dmr8y2ao0i19urvjhlr8
     verified: true
-    hashtags: "#strength, #staysafe, #richardmille, #ballet"
+    hashtags: "#theonlywayisthrough, #boxing, #science, #teamcissokho"
+  - username: "mekhaled_elhem69"
+    fullname: >-
+      Elhem « Diamond »Mekhaled
+    bio: >-
+      📍Lyon / France 🇫🇷 💎Diamond boxer 🥊 🥊 14W💥2 KO 🏆WBC World Champ intérim 🔰 🥇EBU Champ + 3 x FRANCE Champ Determination🔷ambitious🔷solid mentally
+    location: "France"
+    followers: 11339
+    engagement: 381
+    commentsToLikes: 0.029078
+    id: ck6tvs8scnzdr0j71hfy5mmin
+    verified: false
+    hashtags: "#showtime, #boxinghype, #boxingmotivation, #boxingworkout"
   - username: "yurik_ozmanyan_mamedov"
     fullname: >-
       DON’T BE SORRY BE CAREFUL™️
+    bio: >-
+      🧿Founder of @dontbesorrybecareful @dbsbc_foundation @wadam_ivry 🥊Professional Boxer 12-1 🏆WBA FC champion🌎 🏆US Boxing Federation champion🇺🇸 #10🇫🇷
     location: "France"
     followers: 29780
     engagement: 349
     commentsToLikes: 0.024508
     id: ck0u0rf0luprz0i19h6axdy9t
     verified: false
-    hashtags: "#nycfashionblogger, #traveloutfit, #menstyles, #shoesforher"
-  - username: "kef_cay"
+    hashtags: "#noexcuses, #training, #yazidi, #4pointboxing"
+  - username: "jkitoubilel"
     fullname: >-
-      Cayrier Kevin
+      Bilel Jkitou
+    bio: >-
+      Boxer🥊 4xChampWBC 14-0🤷🏽‍♂️Pour les Sceptiques Je ne fait que m’échauffer / Bien Ou Foie ?! Contact: Ridajkitou@gmail.com #ALaFinJeVousExpliquerai💍
     location: "France"
-    followers: 23733
-    engagement: 475
-    commentsToLikes: 0.032680
-    id: ck5hjxgmghf4h0i11ap26eam5
-    verified: false
-    hashtags: "#soistoim, #straberry, #styleman, #bathroom"
+    followers: 164461
+    engagement: 375
+    commentsToLikes: 0.008544
+    id: ck6tjyd2v3n7h0j71l09kvao8
+    verified: true
+    hashtags: "#alafin, #motivation, #morningroutine, #bienoufoie"
+  - username: "arsen_feroz"
+    fullname: >-
+      Arsen’’FEROZ’’Goulamirian
+    bio: >-
+      🥊 Professionnal Boxer 🥊 WBA Cruiserweight World Champion 🌎 Team @univentboxing Promotion 🇫🇷 🌍 🇦🇲 📍Los Angeles, CA
+    location: "France"
+    followers: 26159
+    engagement: 659
+    commentsToLikes: 0.015580
+    id: ck6tyibsv3waa0j71wzr8cwnq
+    verified: true
+    hashtags: "#boxer, #armeniastrong, #family, #champions"
+  - username: "mohamed_the_problem_mimoune"
+    fullname: >-
+      Mohamed Mimoune Officiel
+    bio: >-
+      Superlightweight Boxer🥊 🇫🇷 |IBO WORLD CHAMPIONS/Champion EBU & UE 🇪🇺|french @footkornertoulouse @footkorner/Athléte:@myproteinfr. Code:MIMOUNE -38%
+    location: "France"
+    followers: 23105
+    engagement: 395
+    commentsToLikes: 0.043456
+    id: ck5zkpy79jxze0i14frf9xv40
+    verified: true
+    hashtags: "#world, #robbery, #vol, #fight"
 ---

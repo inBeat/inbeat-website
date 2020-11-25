@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In Austin In 2020
 description: >-
-  Find top home decor TikTok influencers in Austin in 2020. Most popular hashtags: #homedecor #quarantine #texas #cooking.
+  Find top home decor TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #foryou #homedecor #foryoupage.
 platform: TikTok
+hits: 27
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 27 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "realbeautyful"
+  - username: "nicolevictoriagomez"
     fullname: >-
-      beautifulwoahman
+      Nicole Victoria Gomez
+    bio: >-
+      28♍️🧿 Follow me on insta! ⬆️
     location: "United States"
-    followers: 12541
-    engagement: 976
-    commentsToLikes: 0.042850
-    id: ck9vf0z8v1ath0j78cwl7mja2
+    followers: 33700
+    engagement: 650
+    commentsToLikes: 0.035785
+    id: ck8nexq8kpbqj0j786lnsozjy
     verified: false
-    hashtags: "#icandoit, #doimakeyou, #rednoseday, #bestfriend"
-  - username: "swiftwellness"
+    hashtags: "#funny, #fyp, #grandpa, #southpadre"
+  - username: "courtners123"
     fullname: >-
-      swiftwellness
+      Courtknee
+    bio: >-
+      I got peas on my head but don’t call me a pea head
     location: "United States"
-    followers: 204135
-    engagement: 751
-    commentsToLikes: 0.063306
-    id: ck81q0y7qf2fw0j7865fjsj3q
+    followers: 7143
+    engagement: 1547
+    commentsToLikes: 0.035772
+    id: ck92srw92ev3u0j78jzk7kxe8
     verified: false
-    hashtags: "#myoutfit, #bodypositivity, #healthheroes, #shop"
-  - username: "austinfendler"
+    hashtags: "#jokes, #fyp, #foryoupage, #starbucks"
+  - username: "ninaberenato"
     fullname: >-
-      austinfendler
+      Nina Berenato
+    bio: >-
+      I own an all-girl jewelry studio in Austin 🛠 Handmade • Custom • One of a Kind
     location: "United States"
-    followers: 12219
-    engagement: 1042
-    commentsToLikes: 0.036780
-    id: ck964ogglzjzs0j78nw2qdmkd
+    followers: 116400
+    engagement: 1422
+    commentsToLikes: 0.016162
+    id: ck81s9n0nr1y10j785ei5mkqu
     verified: false
-    hashtags: "#savagebeyonce, #beyonce, #goodlighting, #savetheturtles"
-  - username: "dreambiglivetiny"
+    hashtags: "#fashion, #ootd, #smallbusiness, #smallbusinesscheck"
+  - username: "ashleythenoble"
     fullname: >-
-      Dream Big Live Tiny
+      Ashy
+    bio: >-
+      Venmo: ashleythenoble
     location: "United States"
-    followers: 69597
-    engagement: 896
-    commentsToLikes: 0.011107
-    id: cka0y0pzk9dkh0i780ao631n0
+    followers: 541500
+    engagement: 680
+    commentsToLikes: 0.039477
+    id: ckdhxf37p4hum0j23szk95k20
     verified: false
-    hashtags: "#goals, #aframe, #strengthtraining, #coffee"
-  - username: "customhomes"
+    hashtags: "#over30, #womenover30, #provewhatspossible, #spooktember"
+  - username: "ubaidy100"
     fullname: >-
-      Riverwood Building
+      Ubaidy
+    bio: >-
+      HTX🚀 👇CEO OF DONTSIMP © 👇
     location: "United States"
-    followers: 8112
-    engagement: 113
-    commentsToLikes: 0.028692
-    id: ck9rbs0gaqj2z0j787h9fvz3o
+    followers: 35900
+    engagement: 1601
+    commentsToLikes: 0.014688
+    id: ckavd0ch7kyq30j23ex3vwdal
     verified: false
-    hashtags: "#maketheleap, #tilefloor, #blue, #trending"
-  - username: "mariana.zarag"
+    hashtags: "#readinglist, #snoozzzapalooza, #lit, #viral"
+  - username: "kateaustin_"
     fullname: >-
-      Mariana Zaragoza
+      Kate Austin
+    bio: >-
+      she/her another vegan lesbian i’m better on instagram instagram: @kateaustinn
     location: "United States"
-    followers: 2383
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: cka6czpu362630i78a6or5cw4
+    followers: 144000
+    engagement: 954
+    commentsToLikes: 0.008597
+    id: ckd0kvsfag2nh0j23vk53dkhz
     verified: false
-    hashtags: "#homeactivities, #easy, #mealprep, #sharerecipes"
-  - username: "nickyschmaderer"
+    hashtags: "#provewhatspossible, #ghostphotoshoot, #fyp, #femme"
+  - username: "mslee34"
     fullname: >-
-      Nicky Schmaderer
+      Dopamine
+    bio: >-
+      This account has turned into shower thoughts and I’m not mad about it
     location: "United States"
-    followers: 46532
-    engagement: 330
-    commentsToLikes: 0.018849
-    id: ck9flp6ospce90j78w7jgsu7n
+    followers: 15600
+    engagement: 1844
+    commentsToLikes: 0.022206
+    id: ckcpe8cdrga0d0j2363cvvsjj
     verified: false
-    hashtags: "#justinbieber, #vibewithme, #travelthrowback, #tryon"
-  - username: "viri.taa"
+    hashtags: "#provewhatspossible, #fyp, #school, #xyzbca"
+  - username: "candis.bak"
     fullname: >-
-      Viridiana Carbajal
+      Candisbak
+    bio: >-
+      Subscribe to my YouTube channel👍🏽 Twitter: candisbak05 SC: candis19 BDW🔐❤️
     location: "United States"
-    followers: 17442
-    engagement: 403
-    commentsToLikes: 0.033104
-    id: ck9jxetha0eln0j788zvz3l88
+    followers: 13000
+    engagement: 1467
+    commentsToLikes: 0.018230
+    id: ck8z7pqopr3c90j7813vray6w
     verified: false
-    hashtags: "#woody, #scaredofdogs, #homedecor, #pancakes"
-  - username: "falenkdwb"
+    hashtags: "#duet, #magicmoment, #theoldguard, #soccer4life"
+  - username: "designbuildla"
     fullname: >-
-      FalenKDWB
+      DESIGNBUILDLA
+    bio: >-
+      INTERIOR + ARCHITECTURAL DESIGN 📍LOS ANGELES www.designbuild.LA
     location: "United States"
-    followers: 3411
-    engagement: 454
-    commentsToLikes: 0.027428
-    id: ck95z2grrcmug0j781dy0jywq
+    followers: 12000
+    engagement: 681
+    commentsToLikes: 0.012560
+    id: ckcp0ro2sawss0j231czyzz47
     verified: false
-    hashtags: "#genius, #thicc, #canttouch, #singtijingle"
-  - username: "styleandsociety"
+    hashtags: "#fashiontiktok, #kendalljenner, #interiordesigner, #interiordesign"
+  - username: "canned.gravy"
     fullname: >-
-      styleandsociety
+      canned.gravy
+    bio: >-
+      check the gram ^ dilf lover abstinence af
     location: "United States"
-    followers: 4226
-    engagement: 287
-    commentsToLikes: 0.063155
-    id: cka0mmhe8vywb0i78w6m1gidx
+    followers: 14700
+    engagement: 2190
+    commentsToLikes: 0.024707
+    id: ckavht5o3ptd50j23vtv09fnm
     verified: false
-    hashtags: "#everycolor, #makeupasmr, #shoppinghaul, #safehands"
+    hashtags: "#fyp, #thehighnote, #foryou, #yum"
 ---

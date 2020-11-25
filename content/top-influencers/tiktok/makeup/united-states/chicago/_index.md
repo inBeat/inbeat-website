@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Chicago In 2020
 description: >-
-  Find top makeup TikTok influencers in Chicago in 2020. Most popular hashtags: #makeup #keepingactive #goingpro #ownthecurve.
+  Find top makeup TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #makeup #chicago #foryou.
 platform: TikTok
+hits: 101
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 101 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "ninjew33"
+  - username: "jeanenesplitt"
     fullname: >-
-      j!
+      Jeanene
+    bio: >-
+      fancy seeing you here 20 🌼 follow my insta (:
     location: "United States"
-    followers: 2359
-    engagement: 1782
-    commentsToLikes: 0.043522
-    id: ckacdgsryiszc0i78wphqgus1
+    followers: 12800
+    engagement: 1037
+    commentsToLikes: 0.045627
+    id: ckc90i04opxr10j239wu5ijzw
     verified: false
-    hashtags: "#weknow, #imgettingbetter, #data, #breakfast"
-  - username: "lanoosh___"
+    hashtags: "#colorcustomizer, #fyp, #greenscreen, #10secondsvs"
+  - username: "pecaspecadas"
     fullname: >-
-      lana
+      B
+    bio: >-
+      25 Chicago Aquarius Latina Anxious
     location: "United States"
-    followers: 3411
-    engagement: 1336
-    commentsToLikes: 0.092528
-    id: ck9ely93jcv9q0j783iekzcow
+    followers: 111400
+    engagement: 1194
+    commentsToLikes: 0.006512
+    id: ckcdy555gggzd0j23oun215wo
     verified: false
-    hashtags: "#snow, #duet, #makeup, #fyp"
-  - username: "sierraxandrea"
+    hashtags: "#fy, #makeup, #foryou, #chicago"
+  - username: "maca_pospi"
     fullname: >-
-      sierra 
+      Maca Marcel
+    bio: >-
+      Hit me up on instagram and check out my links ⬇️🤪😈
     location: "United States"
-    followers: 179299
-    engagement: 1873
-    commentsToLikes: 0.031517
-    id: ck8vta2c4fkf70j78taf9keht
+    followers: 156100
+    engagement: 599
+    commentsToLikes: 0.043593
+    id: ckacs0m3m7v0s0i78stqtrb9r
     verified: false
-    hashtags: "#promplaylist, #bling, #xzyabc, #music"
-  - username: "madelineaford"
+    hashtags: "#dating, #instagram, #trending, #relationship"
+  - username: "paula.silva.artistry"
     fullname: >-
-      @madelineaford
+      Paula Silva Artistry
+    bio: >-
+      #PaulaSilvaArtistryCo 🎨👩🏻‍🎨💄 Makeup. Styling. Entertainment 📍Chicago
     location: "United States"
-    followers: 298391
-    engagement: 1975
-    commentsToLikes: 0.005854
-    id: ck83zea4zzzh90j78uwjp8x7n
+    followers: 3820
+    engagement: 625
+    commentsToLikes: 0.044927
+    id: ckb10r710pbl00j23xwkworqt
     verified: false
-    hashtags: "#witchtok, #butterglosspop, #coolranchdance, #tips"
-  - username: "soulssplay"
+    hashtags: "#feelinggood, #artober, #traveltiktok, #holiday"
+  - username: "901nm"
     fullname: >-
-      soulssplay
+      Nadine🌻💕
+    bio: >-
+      BLM 🇵🇸🇵🇸🇵🇸🇵🇸 19
     location: "United States"
-    followers: 26415
-    engagement: 2782
-    commentsToLikes: 0.028186
-    id: ck8hqxgjh66zy0j78upbwphou
+    followers: 13600
+    engagement: 594
+    commentsToLikes: 0.071384
+    id: ckcdrdqoncqj60j23dbwenvgv
     verified: false
-    hashtags: "#makeup, #billcipher, #ooc, #duet"
-  - username: "haleypresleymiller"
+    hashtags: "#palestinian, #funny, #foryou, #xyzbca"
+  - username: "dr.broke"
     fullname: >-
-      Haley Presley
+      Simply Broke Co.
+    bio: >-
+      📸 See You On YouTube 📸 CREATOR FUND KILLED MY TIKTOK 👻 Sc: low_pf 👻
     location: "United States"
-    followers: 18205
-    engagement: 1080
-    commentsToLikes: 0.029728
-    id: cka7nq2dny52q0i78mog2csu9
+    followers: 244700
+    engagement: 1215
+    commentsToLikes: 0.014239
+    id: ckbl44tny1jod0j23gxmau5p3
     verified: false
-    hashtags: "#mybaby, #marriagestory, #makeuphack, #thehustle"
-  - username: "sisoypetty"
+    hashtags: "#texas, #chicago, #downtown, #illinois"
+  - username: "orianasiphanoum"
     fullname: >-
-      Tracy
+      ORIANA
+    bio: >-
+      euphoria, dancing, nyu, blm link for nyc collabs! orianasiphanoum@gmail.com
     location: "United States"
-    followers: 3842
-    engagement: 677
-    commentsToLikes: 0.058774
-    id: ckac7yxwff4lb0i78toecyqeg
+    followers: 74800
+    engagement: 1870
+    commentsToLikes: 0.024911
+    id: ckbf3xa2hrydh0j236g9z8q6c
     verified: false
-    hashtags: "#asianamerican, #corona, #toosieslide, #zaza"
-  - username: "doseofdenah"
+    hashtags: "#nyc, #xyzbca, #modeling, #modelingtips"
+  - username: "natalie.banilbo"
     fullname: >-
-      Dee
+      nataliebanilbo
+    bio: >-
+      Insta : @𝙉𝙖𝙩𝙖𝙡𝙞𝙚𝙗𝙖𝙣𝙞𝙡𝙗𝙤 :) 𝟏𝟖 🤍🇵🇭
     location: "United States"
-    followers: 24337
-    engagement: 905
-    commentsToLikes: 0.081769
-    id: ck83zed2000dk0j78qv9jssfn
+    followers: 8532
+    engagement: 1220
+    commentsToLikes: 0.021080
+    id: cka9kyn0r15vs0i78s0jh68ev
     verified: false
-    hashtags: "#scoobdance, #homeproject, #fashion, #beberexha"
-  - username: "giinnaaa23"
+    hashtags: "#photography, #fyp, #florida, #poseathome"
+  - username: "jinathegorgeous"
     fullname: >-
-      G
+      jina the gorgeous
+    bio: >-
+      Tiktok LIVE M-F 11am or 9pm PST 💕Follow me on Instagram 💕 HUGE giveaway coming
     location: "United States"
-    followers: 3147
-    engagement: 963
-    commentsToLikes: 0.057563
-    id: ck94nrlip80h90j78rjpsdrnk
+    followers: 122500
+    engagement: 1500
+    commentsToLikes: 0.014605
+    id: ck9r6fsgs3oc90j783eqwvv98
     verified: false
-    hashtags: "#crazybit, #cutie, #watchyourmouth, #sister"
-  - username: "yulissa_9"
+    hashtags: "#weirdnotsoweird, #korean, #korea, #boba"
+  - username: "honeybmua"
     fullname: >-
-      Yulissa👑
+      Mua.Fatshionista
+    bio: >-
+      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
     location: "United States"
-    followers: 31246
-    engagement: 1709
-    commentsToLikes: 0.016820
-    id: cka0ke7y6m45i0i78h1tbttsv
+    followers: 8123
+    engagement: 2191
+    commentsToLikes: 0.094565
+    id: ckbqivjoh406z0j234lsd7dxx
     verified: false
-    hashtags: "#tiktokcovers, #giveaway, #eyeslipsface, #healthheroes"
+    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
 ---

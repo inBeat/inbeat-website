@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers TikTok Influencers In Australia In 2020
 description: >-
-  Find top barbers TikTok influencers in Australia in 2020. Most popular hashtags: #barber #music #vibewithme #aussie.
+  Find top barbers TikTok influencers in Australia in 2020. Most popular hashtags: #barber #fyp #foryoupage #foryou.
 platform: TikTok
+hits: 17
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 17 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "jyotibajaj1"
     fullname: >-
       Jyoti Bajaj
+    bio: >-
+      Model and lady barber Insta-jyoti.barber PB08🇮🇳 Adelaide, Australia🇦🇺
     location: "Australia"
-    followers: 265790
-    engagement: 728
-    commentsToLikes: 0.052991
+    followers: 271000
+    engagement: 428
+    commentsToLikes: 0.038923
     id: ck81t0dluuham0j78phc6rxfr
     verified: false
-    hashtags: "#smile, #oldpunjabisongs, #karanaujlamusic, #cute"
+    hashtags: "#tiktokpakistan, #pakistan, #timechakda, #adelaide"
+  - username: "top.kuts"
+    fullname: >-
+      top.kuts
+    bio: >-
+      barber shop located Hassall grove ,Bidwill squares and st johns park 👻top.kuts
+    location: "Australia"
+    followers: 228500
+    engagement: 522
+    commentsToLikes: 0.015958
+    id: ckdcjvqoqlvey0j23ojid3997
+    verified: false
+    hashtags: "#music, #jokes, #people, #boys"
   - username: "garvei"
     fullname: >-
       Gar  Vei
+    bio: >-
+      Barber hairdresser artwork artist Perth
     location: "Australia"
     followers: 237528
     engagement: 290
     commentsToLikes: 0.005710
     id: ck9a9trz2hpp10j78nfqwdfmk
     verified: false
-    hashtags: "#coronavirus, #artwork, #hoopsathome, #everydayscience"
-  - username: "phangydabarber"
+    hashtags: "#earthhour, #thedrop, #progamer, #happyeaster"
+  - username: "williambabylon"
     fullname: >-
-      Phangy
+      William Mikha
+    bio: >-
+      Barber💈Sydney Top kuts bidwill square Hassall grove St. John’s Park
     location: "Australia"
-    followers: 12895
-    engagement: 785
-    commentsToLikes: 0.007575
-    id: cka0ig9a6dkp30i7816dskdli
+    followers: 77000
+    engagement: 355
+    commentsToLikes: 0.014872
+    id: ckdcal8xfit0o0j23mtwwnws9
     verified: false
-    hashtags: "#writethelyrics, #barberlife, #staysafe, #thedrop"
-  - username: "aidendefranca"
+    hashtags: "#mcspicymoves, #interiordesign, #sydney, #hair"
+  - username: "fadi.bato"
     fullname: >-
-      Aiden De Franca
+      Fadibato
+    bio: >-
+      Instagram: @fadibato 📍 Melbourne 🇦🇺
     location: "Australia"
-    followers: 4748
-    engagement: 539
-    commentsToLikes: 0.025272
-    id: ck806xh2jmtde0j786rjh2r28
+    followers: 23000
+    engagement: 315
+    commentsToLikes: 0.010386
+    id: ckav66gp7cuoj0j23owmb2rk8
     verified: false
-    hashtags: "#fashion, #unlockmylikes, #lifeathome, #topdog"
-  - username: "ministrybarbers"
+    hashtags: "#barber, #barbershop, #foryou, #hairtutorial"
+  - username: "marcusmoxie"
     fullname: >-
-      MJ 👑
+      Marcus Mx
+    bio: >-
+      Aussie YouTuber 🇦🇺 Join the Moxie Mafia on Insta! 🔥 ⬇️ NEWEST YouTube vid ⬇️
     location: "Australia"
-    followers: 151962
-    engagement: 396
-    commentsToLikes: 0.004956
-    id: ck9aarijalqzn0j78o3sg1ef3
+    followers: 34000
+    engagement: 1494
+    commentsToLikes: 0.009664
+    id: ckb9ie80s8pv00j2315xf09ic
     verified: false
-    hashtags: "#beautyhaul, #everydayheroes, #heapsgood, #beard"
+    hashtags: "#publichallenge, #southaustralia, #nelk, #sendit"
   - username: "macpiper1"
     fullname: >-
       Macpiper
+    bio: >-
+      
     location: "Australia"
-    followers: 92164
-    engagement: 1290
-    commentsToLikes: 0.012691
+    followers: 91000
+    engagement: 1268
+    commentsToLikes: 0.012127
     id: ck9kcv5odr91p0j78mjbgt5ir
     verified: false
-    hashtags: "#fire, #latenight, #shovels, #alladin"
-  - username: "motzypoop"
+    hashtags: "#shovelknight, #oc, #aussietok, #duet"
+  - username: "itsyaboyjayyh"
     fullname: >-
-      Poopetyscoop
+      JadenHarris
+    bio: >-
+      18. Insta: @its_jayyh 🙌🏽 🇳🇿🇨🇰
     location: "Australia"
-    followers: 143033
-    engagement: 1168
-    commentsToLikes: 0.018092
-    id: ck9ntmwluj3gu0j78vy1ga635
+    followers: 5602
+    engagement: 1871
+    commentsToLikes: 0.022413
+    id: ckae1n2stpnov0i78oodaaus3
     verified: false
-    hashtags: "#sibling, #joke, #comedy, #freezeframe"
-  - username: "venusamore"
+    hashtags: "#fyp, #laugh, #jay, #foryou"
+  - username: "leightonelchapo"
     fullname: >-
-      VenusAmore
+      Leightonelchapo
+    bio: >-
+      😈🖕 Melbourne | Maori 🇳🇿
     location: "Australia"
-    followers: 4657
-    engagement: 770
-    commentsToLikes: 0.019014
-    id: ck9dsse339dj30j785o2mg0pv
+    followers: 43800
+    engagement: 1051
+    commentsToLikes: 0.041383
+    id: ckavb842qiul50j23v4e89kh3
     verified: false
-    hashtags: "#boysinmakeup, #original, #frenchbulldog, #duetthis"
-  - username: "glambyson"
+    hashtags: "#starwars, #foryoupage, #marvel, #duet"
+  - username: "siennakeera"
     fullname: >-
-      Sonali Kapoor
+      SiennaKeera
+    bio: >-
+      Sienna Keera & George Keywood 💖💍 PayPal: siennakeera@hotmail.com
     location: "Australia"
-    followers: 15938
-    engagement: 433
-    commentsToLikes: 0.024494
-    id: cka0rnodrhs320i78fc9bgoee
+    followers: 4274
+    engagement: 213
+    commentsToLikes: 0.081415
+    id: ckbfati3l2gpo0j23zl02ntzg
     verified: false
-    hashtags: "#tiktokmakeup, #music, #beauty, #coles"
-  - username: "ausclips"
-    fullname: >-
-      AusClips
-    location: "Australia"
-    followers: 11782
-    engagement: 1010
-    commentsToLikes: 0.007731
-    id: cka7oj9732q5x0i781fsgp8ca
-    verified: false
-    hashtags: "#lakemba, #america, #everydayscience, #primeminister"
+    hashtags: "#fyp, #adorable, #funnyvideos, #babiesoftiktok"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In United States In 2020
 description: >-
-  Find top barbers Instagram influencers in United States in 2020. Most popular hashtags: #thebarberpost # #barber #motivation.
+  Find top barbers Instagram influencers in United States in 2020. Most popular hashtags: #barber #barbershopconnect #barberlife #wahlpro.
 platform: Instagram
+hits: 887
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 887 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "thebritwilliams"
+  - username: "titan_barber"
     fullname: >-
-      Brittany Williams
+      John Carmona ✪
+    bio: >-
+      @wahlpro creative team 🌎 18 countries 🥇 @oneshothairawards winner ⛰ Denver Colorado .5 owner of @barber.theory 📬Email for education inquiries
     location: "United States"
-    followers: 15581
-    engagement: 1038
-    commentsToLikes: 0.039820
-    id: ck0w1e4beivxd0i193hrtfpxi
+    followers: 45128
+    engagement: 270
+    commentsToLikes: 0.087302
+    id: ck0w311lar39t0i19lxc6zeq7
     verified: false
-    hashtags: ""
-  - username: "xbigwesx"
+    hashtags: "#coloradobarber, #internationalbarbers, #cutjunkies, #barbertheory"
+  - username: "beniedei"
     fullname: >-
-      WES STAUCET
+      🍯 B E N I E G O R D E ÍII 🍯
+    bio: >-
+      Dancer||Muse||Choreographer||Fitness atl📍| 94’ • BAUDÍ MOVEMENT Wed, 8PM @rhythmastudios & Thurs, 9PM @siixdancestudio 💈barber: @beaucuts_
     location: "United States"
-    followers: 34099
-    engagement: 374
-    commentsToLikes: 0.061204
-    id: ck0w4qc2kzvff0i1911ve2kyh
+    followers: 11192
+    engagement: 1129
+    commentsToLikes: 0.044548
+    id: ckap6obk1gqu40i78552nm0dk
     verified: false
-    hashtags: "#beards, #lesbian, #salon, #pixie"
-  - username: "jaketurpin"
-    fullname: >-
-      Jake Turpin
-    location: "United States"
-    followers: 12932
-    engagement: 1650
-    commentsToLikes: 0.023899
-    id: ck6uecq8sq5ie0j71hsd3qirn
-    verified: false
-    hashtags: "#2k19, #ecosapartner, #sleepwithecosa"
-  - username: "tailorfade"
-    fullname: >-
-      Trevor Moots ✪
-    location: "United States"
-    followers: 43874
-    engagement: 256
-    commentsToLikes: 0.106975
-    id: ck5q1yu0cdg400i11wej4vfov
-    verified: false
-    hashtags: "#thebarberpost, #live, #loveyourself, #showcasebarbers"
-  - username: "jakeyjim"
-    fullname: >-
-      jacob tayler jimenez
-    location: "United States"
-    followers: 11858
-    engagement: 1742
-    commentsToLikes: 0.037359
-    id: ck0w4qdxtzvov0i19mcehvzdo
-    verified: false
-    hashtags: ""
-  - username: "dexgotit"
-    fullname: >-
-      Dex Got It 💼 Barber God💈229
-    location: "United States"
-    followers: 8531
-    engagement: 776
-    commentsToLikes: 0.063067
-    id: ckap335we1d1l0i7839zhlqlu
-    verified: false
-    hashtags: "#richoffgrass, #leaveacomment, #atlantabarber, #year2"
+    hashtags: "#beniedeichoreography, #baudimovement, #blackboimajik, #maledancer"
   - username: "basiccelebrity"
     fullname: >-
       BasicCelebrity
+    bio: >-
+      Barber For #1 show on MTV Wild N’ Out, VH1 Hip Hop Squares. Owner of @basiccelebrity_barbershop
     location: "United States"
-    followers: 6441
-    engagement: 708
-    commentsToLikes: 0.071893
+    followers: 6530
+    engagement: 666
+    commentsToLikes: 0.093953
     id: ck5zrbkspw9w70i14jre8ox24
     verified: false
-    hashtags: "#miami, #southbeach, #thecutlife, #blurryfades"
-  - username: "meganmariepowerss"
+    hashtags: "#barbershopconnect, #wahl, #babylisspro, #southplainfield"
+  - username: "xbigwesx"
     fullname: >-
-      Megan Powers
+      WES STAUCET 🇺🇸
+    bio: >-
+      ROOTS BARBER CO. 🌱 Clifton Park, NY @WAHLPRO SELECT BARBER BTC One Shot Fade Finalist Husband l Father l Hair l Photo
     location: "United States"
-    followers: 736827
-    engagement: 190
-    commentsToLikes: 0.027050
-    id: ck1390rodiyo10i19fqokfv1u
+    followers: 36567
+    engagement: 324
+    commentsToLikes: 0.054158
+    id: ck0w4qc2kzvff0i1911ve2kyh
     verified: false
-    hashtags: "#idontwearshorts, #thick, #tracksuit, #sunshine"
-  - username: "imvelvetbones"
+    hashtags: "#barber, #behindthechair, #model, #portrait"
+  - username: "jusdoesit_"
     fullname: >-
-      ♥ 𝓥𝓮𝓵𝓿𝓮𝓽 𝓑𝓸𝓷𝓮𝓼 ♥
+      Justin Paul
+    bio: >-
+      ☆ JusDoesIt ☆ nbjn86 Actor | Artist | Athlete | Barber Creative Director 🤘🏾-TOWN to 🚀 LAh
     location: "United States"
-    followers: 14233
-    engagement: 571
-    commentsToLikes: 0.059064
-    id: ck5pzvs7y2zq20i11oi0du2mr
+    followers: 11182
+    engagement: 468
+    commentsToLikes: 0.103802
+    id: ck5zsgz2iyh950i144arrawie
     verified: false
-    hashtags: "#tealhair, #browneyes, #lasenza, #fashionnova"
-  - username: "thompson.officialll"
+    hashtags: "#quarantine, #halloween, #buyblack, #blackmen"
+  - username: "lisa.jski"
     fullname: >-
-      Amber Thompson
+      Lisa J / Lishoo
+    bio: >-
+      💪Fitness 🎤Metal Vocals/Guitar 🎮Costume&Prop-Making 👔Brand Educator/BA 💈Barber/HMUA 📷 Photographer @lisaj.photo 🇺🇸 ᴄʜɪᴄᴀɢᴏ, ɪʟ 🇵🇱 ɪɴғᴊ
     location: "United States"
-    followers: 5698
-    engagement: 708
-    commentsToLikes: 0.059415
-    id: ck9h9zemcakz40j78di8ad89m
+    followers: 18142
+    engagement: 801
+    commentsToLikes: 0.048250
+    id: ck5ch56whq4rt0i11unrm56vf
     verified: false
-    hashtags: "#beyou, #newbeginnings, #grateful, #yolo"
+    hashtags: "#faceyourcosplay, #stylemore"
+  - username: "tailorfade"
+    fullname: >-
+      Trevor Moots ✪
+    bio: >-
+      Orlando | FL 🌴 ✈️ Travels ◽️ Haircuts 📷 Photographies ◽️ Traditions Barbershop 📲 Contact For Education
+    location: "United States"
+    followers: 46998
+    engagement: 261
+    commentsToLikes: 0.104403
+    id: ck5q1yu0cdg400i11wej4vfov
+    verified: false
+    hashtags: "#ukhairstyle, #mentalhealth, #wahlpro, #selfcare"
+  - username: "maywardjedi"
+    fullname: >-
+      MayWard Jedi
+    bio: >-
+      Photo and Video collection of MayWard @maymay + @edward_barber Est. May 2018
+    location: "United States"
+    followers: 6394
+    engagement: 1130
+    commentsToLikes: 0.023140
+    id: ck14j11bmi3a40i1932uwz6sf
+    verified: false
+    hashtags: "#mayward, #maymay, #maymayentrata, #edwardbarber"
+  - username: "allison_cuts"
+    fullname: >-
+      Allison Arvizu💈
+    bio: >-
+      World peace❤️ El Paso TX🛬 West Palm Beach 📍BlurryFades Barbershop 💈Haircuts $30+
+    location: "United States"
+    followers: 47989
+    engagement: 776
+    commentsToLikes: 0.017684
+    id: ck5hn34v3n4ax0i11ijc1dht9
+    verified: false
+    hashtags: "#lakeworth, #boynton, #floridabarber, #boyntonbeach"
+  - username: "jakeyjim"
+    fullname: >-
+      jacob tayler jimenez
+    bio: >-
+      liberal snowflake @jacobtaylermoodboard @dukes_barber_shop appointment only ny // nj, monmouth u alumni
+    location: "United States"
+    followers: 11394
+    engagement: 1047
+    commentsToLikes: 0.046776
+    id: ck0w4qdxtzvov0i19mcehvzdo
+    verified: false
+    hashtags: "#blackouttuesday, #fucktrump"
 ---

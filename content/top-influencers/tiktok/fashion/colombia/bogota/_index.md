@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Bogotá In 2020
 description: >-
-  Find top fashion TikTok influencers in Bogotá in 2020. Most popular hashtags: #maquillaje #makeup #travel #colores.
+  Find top fashion TikTok influencers in Bogotá in 2020. Most popular hashtags: #parati #colombia #viral #fyp.
 platform: TikTok
+hits: 6
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 6 TikTok influencers like this in Bogotá, Colombia for you to work with.
 profiles:
-  - username: "richboyhn"
+  - username: "circymoreno"
     fullname: >-
-      J TURCIOS
+      Circy Moreno
+    bio: >-
+      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ Nonolive @circy
     location: "Colombia"
-    followers: 16223
-    engagement: 492
-    commentsToLikes: 0.062663
-    id: ckamwqotw9q580i78ik2fegvw
+    followers: 15600
+    engagement: 1614
+    commentsToLikes: 0.031401
+    id: cka0q66t1bftm0i78cykwip6q
     verified: false
-    hashtags: "#guccicheck, #sunglasses, #diorama, #yeezy700"
-  - username: "alber_th_"
+    hashtags: "#viral, #backdoor, #straykids, #parati"
+  - username: "dreamerdave__"
     fullname: >-
-      Alberth C
+      DreamerDave
+    bio: >-
+      Ig: @dreamerdave__ CEO of random 🇨🇴
     location: "Colombia"
-    followers: 2091
-    engagement: 577
-    commentsToLikes: 0.046524
-    id: ckai19s5qawxq0i78lf8xredw
+    followers: 34300
+    engagement: 1868
+    commentsToLikes: 0.020470
+    id: ckacg1zqztegb0i78qddzc7m0
     verified: false
-    hashtags: "#ladea, #mujeres, #divorcio, #fama"
-  - username: "nailuce"
+    hashtags: "#fyp, #colombia, #radiorebel, #foryou"
+  - username: "jarlinsonphoto"
     fullname: >-
-      Nairem Ramirez
+      Jarlinsson Ramirez
+    bio: >-
+      📸más fotos, dinámicas y tips de fotografía en mi Inst: @jarlinsonramirezphoto👆
     location: "Colombia"
-    followers: 71809
-    engagement: 938
-    commentsToLikes: 0.023295
-    id: ckai6c7unvjx90i7855fpeesc
+    followers: 108200
+    engagement: 1086
+    commentsToLikes: 0.017512
+    id: ckd61lum31ish0j23c9kxb3qy
     verified: false
-    hashtags: "#princess, #consentida, #musica, #covid19"
-  - username: "joker_punkcosplay"
-    fullname: >-
-      Joker_punkcosplay
-    location: "Colombia"
-    followers: 28515
-    engagement: 746
-    commentsToLikes: 0.026520
-    id: ck8opwn2v51of0j7857jo28bl
-    verified: false
-    hashtags: "#cosplaycomics, #itay, #cookies, #polinesios"
-  - username: "richboyhn"
-    fullname: >-
-      J TURCIOS
-    location: "Colombia"
-    followers: 16223
-    engagement: 492
-    commentsToLikes: 0.062663
-    id: ckamwqotw9q580i78ik2fegvw
-    verified: false
-    hashtags: "#guccicheck, #sunglasses, #diorama, #yeezy700"
-  - username: "sofiamud"
-    fullname: >-
-      sofiamood
-    location: "Colombia"
-    followers: 2522
-    engagement: 1839
-    commentsToLikes: 0.109712
-    id: ckacs85eg8vjx0i78ts36p2hs
-    verified: false
-    hashtags: "#makeuptutorial, #music, #xyzabc, #novios"
-  - username: "sophiegiraldo.of"
-    fullname: >-
-      Sophie Giraldo 
-    location: "Colombia"
-    followers: 793333
-    engagement: 2014
-    commentsToLikes: 0.007340
-    id: cka7qgcgdap5d0i78ddrpazwv
-    verified: false
-    hashtags: "#makeup, #mirrorchallenge, #justakid, #diy"
-  - username: "el_chamo_"
-    fullname: >-
-      Carlos R. Gutiérrez
-    location: "Colombia"
-    followers: 8027
-    engagement: 923
-    commentsToLikes: 0.058940
-    id: ck9v57vxhx72o0j78k8kmvr3y
-    verified: false
-    hashtags: "#fypage, #elchavo, #glowup, #regia"
-  - username: "danielaferrerr"
-    fullname: >-
-      Daniela Ferrer
-    location: "Colombia"
-    followers: 18389
-    engagement: 480
-    commentsToLikes: 0.018432
-    id: ckai0oold8i930i78angs8vej
-    verified: false
-    hashtags: "#travel, #encasa, #fitness, #webdesign"
+    hashtags: "#photographer, #bogota, #parati, #yomequedoencasa"
   - username: "camilabarbosa_s"
     fullname: >-
       Camila
+    bio: >-
+      Colombiana 🇨🇴 Instagram: @camilabarbosa_s 💁🏼‍♀️
     location: "Colombia"
-    followers: 12713
-    engagement: 529
-    commentsToLikes: 0.028322
+    followers: 19200
+    engagement: 457
+    commentsToLikes: 0.029790
     id: cka0t0v7ynxul0i78u9fydqkr
     verified: false
-    hashtags: "#tutorial, #hidratante, #voiceover, #adormir"
+    hashtags: "#bronceado, #argentina, #healthy, #fyp"
+  - username: "camila.esguerra"
+    fullname: >-
+      Camila Esguerra
+    bio: >-
+      A veces canto, a besos escribo.
+    location: "Colombia"
+    followers: 56100
+    engagement: 1040
+    commentsToLikes: 0.010988
+    id: ck8hscaafco580j78lphztf2f
+    verified: false
+    hashtags: "#relaciones, #fail, #ventino, #amistad"
+  - username: "joker_punkcosplay"
+    fullname: >-
+      Joker_punkcosplay
+    bio: >-
+      Cosplayer 🃏🖤 🤡 Insta: @anarcosplay
+    location: "Colombia"
+    followers: 29000
+    engagement: 909
+    commentsToLikes: 0.024710
+    id: ck8opwn2v51of0j7857jo28bl
+    verified: false
+    hashtags: "#spiderman, #lipsync, #cosplay, #destacame"
+  - username: "fashionismylaw"
+    fullname: >-
+      Daniela Daza 
+    bio: >-
+      Estoy aquí para que te enamores de ti misma 💜 IG: @fashionismylaw
+    location: "Colombia"
+    followers: 197300
+    engagement: 1258
+    commentsToLikes: 0.016649
+    id: cka9nt5ir50op0i78ttoygomf
+    verified: false
+    hashtags: "#autoestima, #chiste, #motivacion, #amorpropio"
+  - username: "jturcios_official"
+    fullname: >-
+      J TURCIOS
+    bio: >-
+      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER HONDUREÑO 🇭🇳 📍🌎
+    location: "Colombia"
+    followers: 26400
+    engagement: 518
+    commentsToLikes: 0.055976
+    id: ckamwqotw9q580i78ik2fegvw
+    verified: false
+    hashtags: "#tiktokindia, #richboycheck, #tiktoklover, #viral"
+  - username: "vivitorresv"
+    fullname: >-
+      Vivi Torres
+    bio: >-
+      Beauty, Fashion, Mom, LifeStyle ⠀ Instagram: @ViviTorresv ⠀ YouTube ViviTorres
+    location: "Colombia"
+    followers: 21000
+    engagement: 463
+    commentsToLikes: 0.012208
+    id: ckb9brhpiy9ak0j23yep8v6im
+    verified: false
+    hashtags: "#tiktokfamily, #kitchen, #family, #parati"
+  - username: "nicoleglennon5"
+    fullname: >-
+      Nicole Glennon
+    bio: >-
+      Fashion/Styling🖤 23 y/o Colombia Follow me on Instagram💖 @nicoleglennon
+    location: "Colombia"
+    followers: 9888
+    engagement: 594
+    commentsToLikes: 0.011592
+    id: ckd6l7narewz20j23khf7qerf
+    verified: false
+    hashtags: "#fashion, #colombia, #aesthetic, #style"
 ---

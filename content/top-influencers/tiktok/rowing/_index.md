@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rowing TikTok Influencers In 2020
 description: >-
-  Find top rowing TikTok influencers in 2020. Most popular hashtags: #eatemup #inthehouseparty #may4th #leavingmybody.
+  Find top rowing TikTok influencers in 2020. Most popular hashtags: #fyp #rowing #foryoupage #foryou.
 platform: TikTok
+hits: 931
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database has 931 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "carterlaw7"
-    fullname: >-
-      Carter
-    location: "United States"
-    followers: 11616
-    engagement: 941
-    commentsToLikes: 0.047802
-    id: cka3vggvpy42m0i782f3cziyw
-    verified: false
-    hashtags: "#bedhead, #justforfun, #wheretheboysat, #gaysoftiktok"
-  - username: "haleyuliasz"
-    fullname: >-
-      haley
-    location: "United States"
-    followers: 3561
-    engagement: 806
-    commentsToLikes: 0.024789
-    id: ck9nh11nrfm8w0j78apexlw1v
-    verified: false
-    hashtags: "#tiktokcovers, #musiclives, #openfordelivery, #distancedance"
-  - username: "paigepittlerrrrr"
-    fullname: >-
-      paigepittlerrrrr
-    location: "United States"
-    followers: 4389
-    engagement: 744
-    commentsToLikes: 0.048957
-    id: ck8j7dg2odwi80j78jae3cy1b
-    verified: false
-    hashtags: "#albumchallenge, #singlecheck, #family, #gotthisforyou"
-  - username: "dukemensrowing"
-    fullname: >-
-      dukemensrowing
-    location: "United States"
-    followers: 2621
-    engagement: 908
-    commentsToLikes: 0.008339
-    id: ck977335n2feh0j78b9f4ho05
-    verified: false
-    hashtags: "#quarantine, #dukemensrowing, #row2k, #rowingcheck"
   - username: "litrowingmemes"
     fullname: >-
       LitRowingMemes
+    bio: >-
+      Welcome to rowing TikTok
     location: "United Kingdom"
-    followers: 2505
-    engagement: 911
-    commentsToLikes: 0.020631
+    followers: 4100
+    engagement: 1676
+    commentsToLikes: 0.035541
     id: ck9c3uyj8pumn0j78a3joocs2
     verified: false
-    hashtags: "#oneliners, #stayathome, #summer2k19, #differentpeople"
+    hashtags: "#rowinglife, #xyzbca, #foryoupage, #rowing"
+  - username: "carterlaw7"
+    fullname: >-
+      Carter
+    bio: >-
+      Just your average, everyday 6’5” laidback goofball 🤓 -Rowing coach- 📍CT 🏳️‍🌈
+    location: "United States"
+    followers: 14300
+    engagement: 844
+    commentsToLikes: 0.043488
+    id: cka3vggvpy42m0i782f3cziyw
+    verified: false
+    hashtags: "#gayboy, #gay, #gonnabefriends, #lgbt"
+  - username: "haleyuliasz"
+    fullname: >-
+      haley
+    bio: >-
+      follow my insta 🤩 Syracuse rowing
+    location: "United States"
+    followers: 3863
+    engagement: 908
+    commentsToLikes: 0.027936
+    id: ck9nh11nrfm8w0j78apexlw1v
+    verified: false
+    hashtags: "#xyzbca, #rowing, #fyp, #athlete"
+  - username: "paigepittlerrrrr"
+    fullname: >-
+      paigepittlerrrrr
+    bio: >-
+      20 ✰𝕊𝕒𝕟 𝔽𝕣𝕒𝕟𝕔𝕚𝕤𝕔𝕠 ✰Washington State Rowing
+    location: "United States"
+    followers: 4567
+    engagement: 662
+    commentsToLikes: 0.046374
+    id: ck8j7dg2odwi80j78jae3cy1b
+    verified: false
+    hashtags: "#duet, #foryoupage, #fypage, #summer2020"
+  - username: "dukemensrowing"
+    fullname: >-
+      dukemensrowing
+    bio: >-
+      Founded in 1978. The Official TikTok of the Duke University Men’s Rowing Team.
+    location: "United States"
+    followers: 2572
+    engagement: 874
+    commentsToLikes: 0.008246
+    id: ck977335n2feh0j78b9f4ho05
+    verified: false
+    hashtags: "#foryoupage, #fatergos, #herecomesduke, #dmr"
+  - username: "everythingisgonnabok"
+    fullname: >-
+      🅱️🆗 on 🔝
+    bio: >-
+      Aw shiiiii welcome to ma crib Harvard ‘23 Bay Area
+    location: "United States"
+    followers: 2955
+    engagement: 971
+    commentsToLikes: 0.084223
+    id: ckc2zsrntqmjx0j230xcx84du
+    verified: false
+    hashtags: "#foryoupage, #fyp, #college, #boys"
+  - username: "kennychase25"
+    fullname: >-
+      KENDALL
+    bio: >-
+      US National Team Rower • Certified w3iRd0 🏳️‍🌈🤘🏼🇺🇸 ✨she/her/tra$h✨
+    location: "United States"
+    followers: 27700
+    engagement: 1700
+    commentsToLikes: 0.024041
+    id: ckbwi6ddn32gr0j23eehg2hj9
+    verified: false
+    hashtags: "#foryou, #foryoupage, #fyp, #lesbian"
+  - username: "micthedick"
+    fullname: >-
+      hi
+    bio: >-
+      i’m just vibing :) spotify: micakesnew
+    location: "United States"
+    followers: 43100
+    engagement: 1461
+    commentsToLikes: 0.007770
+    id: ckcv1oi8mns2y0j238kn1wi0v
+    verified: false
+    hashtags: "#fyp, #lgbt, #workouttips, #gayng"
+  - username: "ballisticperformance"
+    fullname: >-
+      BP
+    bio: >-
+      📚12yr Exp, MS, CSCS, CF-L3, Pn1 💪🏻Training Programs + 🥗Nutrition Coaching ⬇️
+    location: "United States"
+    followers: 691400
+    engagement: 432
+    commentsToLikes: 0.030125
+    id: ck8z3geht9gye0j78ku93xw5r
+    verified: false
+    hashtags: "#sixpackabs, #gymlover, #coaching, #pushups"
   - username: "scottycockle"
     fullname: >-
       Scott Cockle
+    bio: >-
+      Below average content | Oxford 📍
     location: "United Kingdom"
-    followers: 3385
-    engagement: 703
-    commentsToLikes: 0.030800
+    followers: 3935
+    engagement: 561
+    commentsToLikes: 0.006233
     id: ck97738gf2gq60j789l02n8qn
     verified: false
-    hashtags: "#paincave, #football, #obubc, #coronavirus"
-  - username: "ariana.lorraine"
-    fullname: >-
-      Ariana
-    location: "United States"
-    followers: 3677
-    engagement: 600
-    commentsToLikes: 0.018408
-    id: ck97735nd2g3e0j780rb2k0jr
-    verified: false
-    hashtags: "#prison, #alabamacheck, #freespeed, #newzealand"
-  - username: "tooturntteebird"
-    fullname: >-
-      tooturntteebird
-    location: "United States"
-    followers: 94707
-    engagement: 1436
-    commentsToLikes: 0.029347
-    id: ck8fbxbx05b8m0j78l2oyefhq
-    verified: false
-    hashtags: "#momarm, #momsoftiktok, #got2bhome, #onecommunity"
-  - username: "itscnrr"
-    fullname: >-
-      connor
-    location: "United States"
-    followers: 5884
-    engagement: 1134
-    commentsToLikes: 0.053279
-    id: ckai9216a6jw80i789afw4zy0
-    verified: false
-    hashtags: "#morph, #bookclub, #athlete, #gta5"
-  - username: "jeremymassonjar"
-    fullname: >-
-      Jeremy
-    location: "United States"
-    followers: 8532
-    engagement: 998
-    commentsToLikes: 0.049673
-    id: ckajkuxsas5a90i78cb0znmir
-    verified: false
-    hashtags: "#rowing4ever, #wow, #yourewelcome, #golflefleur"
+    hashtags: "#obubc, #crew, #fyp, #brookes"
 ---

@@ -1,87 +1,106 @@
 ---
 title: Top 10 Graphic-Designers TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top graphic-designers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #poster #stayathome #coronavirus #illustrator.
+  Find top graphic-designers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #graphicdesign #fyp #art #foryoupage.
 platform: TikTok
+hits: 8
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "fcanimator"
+  - username: "hidearquincy"
     fullname: >-
-      FCAnimator
+      Quincy Okoye
+    bio: >-
+      i am a drama Queen A graphic designer A Wife A Mother of three IG: @dearquincy
     location: "United Kingdom"
-    followers: 19434
-    engagement: 1078
-    commentsToLikes: 0.005181
-    id: ck8adbruo4yjr0j78mwokwy03
+    followers: 13800
+    engagement: 721
+    commentsToLikes: 0.048934
+    id: ckbex3jjmh2pb0j230cb1prnu
     verified: false
-    hashtags: "#mbappe, #suarez, #danceawesome, #illustration"
+    hashtags: "#blmmovement, #god, #duet, #fyp"
   - username: "rebrandeverything"
     fullname: >-
       Rebrand Everything.
+    bio: >-
+      Design tips + fun. Type ‘logo redesign’ into YouTube - that’s me 👁👄👁
     location: "United Kingdom"
-    followers: 23049
-    engagement: 613
-    commentsToLikes: 0.052842
+    followers: 37600
+    engagement: 624
+    commentsToLikes: 0.045070
     id: ck9a6bpa42iqn0j78xm5sw8js
     verified: false
-    hashtags: "#adobefonts, #adobecc, #packaging, #tesco"
-  - username: "defacedstudio"
+    hashtags: "#adobeillustrator, #illustrator, #logodesigner, #adobeindesign"
+  - username: "studio_shangri_la"
     fullname: >-
-      Kane
+      Studio Shangri La
+    bio: >-
+      🔥🙏 5K? 🙏🔥 Send business/design enquires here:
     location: "United Kingdom"
-    followers: 7747
-    engagement: 1374
-    commentsToLikes: 0.057765
-    id: cka64ku4n91uj0i789g4ruh1i
-    verified: false
-    hashtags: "#artis, #photoshop, #dojacat, #designtips"
-  - username: "shirazkook"
-    fullname: >-
-      Shiraz Kook
-    location: "United Kingdom"
-    followers: 8226
-    engagement: 929
-    commentsToLikes: 0.010718
-    id: ck920j4o2edfk0j7801g0oddl
-    verified: false
-    hashtags: "#oldmemories, #layin, #itstricky, #queer"
-  - username: "stephy.fung"
-    fullname: >-
-      Stephanie Fung
-    location: "United Kingdom"
-    followers: 16572
-    engagement: 1263
-    commentsToLikes: 0.053319
-    id: ck9nb2w8qapyi0j78r6r2tb0x
-    verified: false
-    hashtags: "#editing, #renderweekly, #3dsmax, #render"
-  - username: "design_purcy"
-    fullname: >-
-      Daniel
-    location: "United Kingdom"
-    followers: 2152
-    engagement: 1080
-    commentsToLikes: 0.137989
+    followers: 2386
+    engagement: 999
+    commentsToLikes: 0.132394
     id: cka0hbuk88lgd0i78hmt5dav0
     verified: false
-    hashtags: "#logodesign, #avacodo, #coronavirus, #hypebeast"
-  - username: "filip.oo"
+    hashtags: "#fyp, #foryou, #logo, #houseoftiktok"
+  - username: "excelsiart"
     fullname: >-
-      filip
+      excelsiart
+    bio: >-
+      Amateur designer. Professional procrastinator. Art student in Belfast 😊 Prints:
     location: "United Kingdom"
-    followers: 99230
-    engagement: 427
-    commentsToLikes: 0.022102
-    id: ck7zp8g38ntsw0j78617vp7pk
+    followers: 8644
+    engagement: 1384
+    commentsToLikes: 0.013195
+    id: ckdhatxdevkfu0j239tsf7v65
     verified: false
-    hashtags: "#howto, #logos, #onlinemarketing, #memory"
-  - username: "demontosome"
+    hashtags: "#design, #fyp, #movie, #poster"
+  - username: "fcanimator"
     fullname: >-
-      demontosome
+      FCAnimator
+    bio: >-
+      ⚽ Making some ramdom designs of classic and modern football
     location: "United Kingdom"
-    followers: 4593
-    engagement: 1464
-    commentsToLikes: 0.023002
-    id: cka0hbs1r8kpu0i78k620trna
+    followers: 26100
+    engagement: 1006
+    commentsToLikes: 0.005488
+    id: ck8adbruo4yjr0j78mwokwy03
     verified: false
-    hashtags: "#look, #ramen, #glitch, #clothing"
+    hashtags: "#graphicdesign, #argentina, #fcb, #fyp"
+  - username: "rahmani.afg"
+    fullname: >-
+      Hassan Rah
+    bio: >-
+      Instagram Rahmani.afg 🇦🇫🇬🇧
+    location: "United Kingdom"
+    followers: 2524
+    engagement: 948
+    commentsToLikes: 0.082685
+    id: ckbkxxn1ztygw0j236yswtw7f
+    verified: false
+    hashtags: "#afghanistan, #stopkillingafghans, #peace, #afghan"
+  - username: "stephrsilva"
+    fullname: >-
+      Steph Silva 🌱
+    bio: >-
+      A little diary of my art and experiences in life! ✨
+    location: "United Kingdom"
+    followers: 19800
+    engagement: 1557
+    commentsToLikes: 0.022588
+    id: ckbwh66ur2q1k0j2348ca1npp
+    verified: false
+    hashtags: "#artist, #craft, #artistcheck, #cosplay"
+  - username: "londonsneakerschool"
+    fullname: >-
+      lss
+    bio: >-
+      Teaching you how to construct the classics. Means seized. Based in Hackney.
+    location: "United Kingdom"
+    followers: 9245
+    engagement: 586
+    commentsToLikes: 0.028193
+    id: ckc851efr4rhi0j2368rflnfc
+    verified: false
+    hashtags: "#sneakers, #shoemaking, #fashion, #customsneakers"
 ---

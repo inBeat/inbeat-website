@@ -1,82 +1,101 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In France In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in France in 2020. Most popular hashtags: #allwhite #cozy #wine #fashionstyle.
+  Find top graphic-designers Instagram influencers in France in 2020. Most popular hashtags: #portrait #style #fashion.
 platform: Instagram
+hits: 85
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 85 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "shootquality"
     fullname: >-
       S H O O T Q U A L I T Y 📸
+    bio: >-
+      𝐈𝐕𝐀𝐍 ⚡️⚡️ 𝕱𝖎𝖑𝖒𝖒𝖆𝖐𝖊𝖗 📽 Graphic Designer 🖥 work 📥 & 📩 @ivann_sevilla #shootquality apps edits ⬇️
     location: "France"
-    followers: 111220
-    engagement: 2321
-    commentsToLikes: 0.020002
+    followers: 132511
+    engagement: 1969
+    commentsToLikes: 0.030400
     id: ck6trap7gxwad0j71xh60gszb
     verified: false
-    hashtags: "#halloweeen, #halloween2019, #halloweenmakeup, #carnaval2020"
-  - username: "laperleocre"
-    fullname: >-
-      T A N I A
-    location: "France"
-    followers: 13678
-    engagement: 643
-    commentsToLikes: 0.043498
-    id: ck6tm6fjf79fp0j7165pzgi6r
-    verified: false
-    hashtags: "#colorful, #purity, #braunfamily, #crazyswag"
+    hashtags: "#bleachmyfilm, #kdpeoplegallery, #moodyports, #portrait"
   - username: "manon_duma"
     fullname: >-
       Manon
+    bio: >-
+      French model, graphic designer & mood lover 📍 @marcollectif __
     location: "France"
-    followers: 13724
-    engagement: 925
-    commentsToLikes: 0.022057
+    followers: 16501
+    engagement: 1079
+    commentsToLikes: 0.035947
     id: ck5pwxs6gp4p00i11gefiryye
     verified: false
-    hashtags: "#souslevent, #facetimeshooting, #huaweinextimage, #maldives"
+    hashtags: "#intimissimi, #princessdress, #weddingdress, #montpellier"
+  - username: "khosrowart"
+    fullname: >-
+      👑 KHOSRO PHOTOGRAPHY
+    bio: >-
+      📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
+    location: "France"
+    followers: 12620
+    engagement: 772
+    commentsToLikes: 0.033947
+    id: ck5zjpqupi0t70i14487e84xh
+    verified: false
+    hashtags: "#vscocam, #zhest, #artgraphy, #retouch"
+  - username: "michaelamani"
+    fullname: >-
+      MICHAEL AMANI
+    bio: >-
+      DEEJAY content creator graphic designer @thesocialjasper.jpg music – youtube and more ⤵
+    location: "France"
+    followers: 15263
+    engagement: 652
+    commentsToLikes: 0.022639
+    id: ck5qb6mf2k2oj0i114i74p9pc
+    verified: false
+    hashtags: ""
+  - username: "croquejuju"
+    fullname: >-
+      croquejuju
+    bio: >-
+      📸 YouTuber 49K 📍Paris 💼 MAKEUPARTIST / GRAPHIC DESIGNER TikTok : croqjuju ✉ croquejuju@soeuretteproductions.com ⬇ DERNIÈRE VIDÉO ⬇
+    location: "France"
+    followers: 42706
+    engagement: 626
+    commentsToLikes: 0.011851
+    id: ck5bxdaoani4j0i11v7gcm75i
+    verified: false
+    hashtags: "#halloweenmakeup, #31daysofhalloween, #horrormakeup, #makeupart"
   - username: "fabricefayal"
     fullname: >-
       Fabrice Fayal
+    bio: >-
+      Acteur • Model • Égérie • Graphic Designer 🇨🇻 🇸🇳 fabricefayal@gmail.com
     location: "France"
-    followers: 6873
-    engagement: 1619
-    commentsToLikes: 0.027419
+    followers: 7356
+    engagement: 1380
+    commentsToLikes: 0.026259
     id: ckap31cjq17aa0i78zyi683ib
     verified: false
-    hashtags: "#phone, #spot, #allwhite, #secretdefamille"
-  - username: "laurablue__"
+    hashtags: "#allblack, #modelife, #blue, #fashion"
+  - username: "gaelle_lamoureux"
     fullname: >-
-      L A U R A  B L U E
+      Maman|entrepreneur|famille
+    bio: >-
+      •Graphicdesigner• créative, good vibes, voyage 📍RENNES, France 📩gaelle.lamoureux@gmail.com 👇🏻 BLOG
     location: "France"
-    followers: 2947
-    engagement: 1796
-    commentsToLikes: 0.097836
-    id: ck0tvy4wpdard0i195007lwdu
+    followers: 41115
+    engagement: 437
+    commentsToLikes: 0.078932
+    id: ckf5oifz82dbu0j23e8yqpxcp
     verified: false
-    hashtags: "#gopro, #mapifulposter, #fashiongram, #baleares"
-  - username: "anneplln"
-    fullname: >-
-      🦋 Anne
-    location: "France"
-    followers: 10702
-    engagement: 1147
-    commentsToLikes: 0.117659
-    id: ck13cfq71049l0i19ehkltpzt
-    verified: false
-    hashtags: "#cluse, #cluseclub, #stylediaries, #postitfortheaesthetic"
-  - username: "ol_design"
-    fullname: >-
-      OLdesign - Ludo
-    location: "France"
-    followers: 4300
-    engagement: 1102
-    commentsToLikes: 0.089976
-    id: ck15se2kucjig0i19h5gpwfnh
-    verified: false
-    hashtags: "#spiderverse, #lightsaber, #bulma, #digirama"
+    hashtags: "#reels, #illustration, #love, #rennescity"
   - username: "abiparmenter"
     fullname: >-
       Abi
+    bio: >-
+      24 • Cambridgeshire, UK 🇬🇧 ✖️ Graphic Designer & Illustrator ✖️ Freelance Model – DM for dates & rates
     location: "France"
     followers: 2496
     engagement: 965
@@ -84,24 +103,28 @@ profiles:
     id: ck6tni2409vvj0j714h6rh592
     verified: false
     hashtags: ""
-  - username: "miss.lady.bug"
+  - username: "_stormae"
     fullname: >-
-      𝐑𝐞𝐚𝐥 𝐥𝐢𝐟𝐞 𝐏𝐢𝐧 𝐮𝐩 𝐠𝐢𝐫𝐥
+      🌻 stormy mae nesbit 🌻
+    bio: >-
+      Represented by - Jesus Christ ⋒ graphic designer by day + illustrator by night ⋒ french fry lover • MN - AZ ⋒ shop • services • inquiries ↓
     location: "France"
-    followers: 13151
-    engagement: 392
-    commentsToLikes: 0.048145
-    id: ck6u4arke2okb0j719qwj7r52
+    followers: 39519
+    engagement: 718
+    commentsToLikes: 0.033854
+    id: ck5zy0pk990nu0i1482ymz7eq
     verified: false
-    hashtags: "#retroaesthetic, #chalange, #curlywhitehair, #pinupdaily"
-  - username: "travel_with_style_ira"
+    hashtags: "#electionday, #papercrafts, #adobefresco, #recordstoreday"
+  - username: "laperleocre"
     fullname: >-
-      |𝑻𝒓𝒂𝒗𝒆𝒍 | 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 | 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆|
+      T A N I A
+    bio: >-
+      𝘽𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙠𝙞𝙣𝙙 𝙤𝙛 𝙖𝙢𝙖𝙯𝙞𝙣𝙜 ✨ BLACK LIVES MATTER 🇧🇯🇫🇷 | Creative Director | Graphic Designer |Content creator | Youtuber 📍Paris 💌 : taniatev@gmail.com
     location: "France"
-    followers: 9005
-    engagement: 836
-    commentsToLikes: 0.216590
-    id: ck5c09b4lsokh0i11smoehat0
+    followers: 15003
+    engagement: 350
+    commentsToLikes: 0.027431
+    id: ck6tm6fjf79fp0j7165pzgi6r
     verified: false
-    hashtags: "#ostanidoma, #najvecistol, #diyeggs, #istayhome"
+    hashtags: "#inspire, #look, #plt, #fashionista"
 ---

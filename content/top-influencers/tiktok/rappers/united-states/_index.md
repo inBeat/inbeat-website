@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In United States In 2020
 description: >-
-  Find top rappers TikTok influencers in United States in 2020. Most popular hashtags: #duet #inthehouseparty #jamsession #music.
+  Find top rappers TikTok influencers in United States in 2020. Most popular hashtags: #duet #greenscreen #jesus.
 platform: TikTok
+hits: 569
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 569 TikTok influencers like this in United States for you to contact.
 profiles:
-  - username: "ayhteecommunity"
+  - username: "youngmercfire"
     fullname: >-
-      AyhTee
+      Young Merc
+    bio: >-
+      -Young Merc Dope rapper and CEO of "ALL THE SMOKE!!💨" ☝🏾💥📲 #FlameOn🔥🔛
     location: "United States"
-    followers: 84729
-    engagement: 2108
-    commentsToLikes: 0.669303
-    id: ckacwsqz3u2720i78u0v2m3xi
+    followers: 81700
+    engagement: 2426
+    commentsToLikes: 0.068886
+    id: ckck2za28mmus0j23bntbbczd
     verified: false
-    hashtags: "#helpinghomeless, #happymothersday, #hype, #samemusic"
-  - username: "delawesst"
+    hashtags: "#iwantallthesmoke, #goofyoftheday, #proudboys, #ceoofallthesmoke"
+  - username: "realkennethking"
     fullname: >-
-      delawesst
+      Kenneth King (kenetic)
+    bio: >-
+      Yeshua follower/Minister Rapper & Producer Drummer Stream Music & Buy Merch ⬇️
     location: "United States"
-    followers: 314120
-    engagement: 2082
-    commentsToLikes: 0.026743
-    id: ck80nq8yqdwgd0j78w35wnm59
-    verified: false
-    hashtags: "#randomthings, #albumlookalike, #natureathome, #finalsathome"
-  - username: "kenetic"
-    fullname: >-
-      Kenetic
-    location: "United States"
-    followers: 6396
-    engagement: 1550
-    commentsToLikes: 0.076851
+    followers: 29200
+    engagement: 2160
+    commentsToLikes: 0.066753
     id: ck9nt8kwhh7kx0j78o8327pv0
     verified: false
-    hashtags: "#dadjoke, #gotosleep, #preaching, #realtalk"
+    hashtags: "#kennethking, #christiantiktok, #chrisriantiktok, #worshiprapremix"
+  - username: "tylerwatermelon"
+    fullname: >-
+      Shadowbanned cuh
+    bio: >-
+      Comethazine best rapper 📍Illinois 15yr
+    location: "United States"
+    followers: 44500
+    engagement: 2043
+    commentsToLikes: 0.060153
+    id: ckck42v41obba0j23advylmh9
+    verified: false
+    hashtags: "#greenscreen, #lilhuddyfan, #duet"
+  - username: "_kyngvirgo_"
+    fullname: >-
+      Kyng Virgo
+    bio: >-
+      18 Rapper 5k? CashApp: 209Virgo ♍️SoundCloud: “Kyng Virgo”♍️
+    location: "United States"
+    followers: 4055
+    engagement: 2121
+    commentsToLikes: 0.069716
+    id: ckbqwclk4gktm0j234ya0ybx1
+    verified: false
+    hashtags: "#duet, #xxxtentacion, #stitch, #greenscreenvideo"
+  - username: "jlaw"
+    fullname: >-
+      JLaw Austin ✪
+    bio: >-
+      This page is home to many personalities Christian Rapper ✝️ Power Ranger Fan
+    location: "United States"
+    followers: 417600
+    engagement: 2599
+    commentsToLikes: 0.078306
+    id: ck8qmxss9s4qd0j78x4xb2e2k
+    verified: false
+    hashtags: "#christianrap, #jesus, #christian, #fyp"
+  - username: "trpkaylotto"
+    fullname: >-
+      Trp Kaylotto
+    bio: >-
+      Rapper🎤 CEO OF LG4L 💛 Trust None But The Man Above🙏🏽 WELCOME🥰 100k ?
+    location: "United States"
+    followers: 52500
+    engagement: 1976
+    commentsToLikes: 0.088847
+    id: ckdckyc15n1e50j23h1vmhyea
+    verified: false
+    hashtags: "#fyp, #greenscreensticker, #makemeviral, #greenscreen"
+  - username: "mcbreeezy84"
+    fullname: >-
+      4pf Mar 💵
+    bio: >-
+      Comedian, dancer, rapper, trapper Sc: mcbreeezy84 That/ pretty mf man
+    location: "United States"
+    followers: 23000
+    engagement: 1903
+    commentsToLikes: 0.123458
+    id: ckd17b2deoi9w0j23f9754p3k
+    verified: false
+    hashtags: "#neonshadow, #fanedit, #iaintneverseentwoprettybestfriends, #unwrapthedeals"
+  - username: "beyondhymn"
+    fullname: >-
+      Beyond Hymn
+    bio: >-
+      Christian Rapper Peep the new single “Amen”🔥✝️👇
+    location: "United States"
+    followers: 106000
+    engagement: 1583
+    commentsToLikes: 0.081589
+    id: ck9jy0ewv30rc0j78fr4ycghq
+    verified: false
+    hashtags: "#beyondhymn, #duet, #jesus, #christianrap"
+  - username: "comikbook_cam"
+    fullname: >-
+      comikbook_cam
+    bio: >-
+      Rapper/Trumpet/Artist 🍄 Psychedelic Vibes 🍄
+    location: "United States"
+    followers: 2943
+    engagement: 1357
+    commentsToLikes: 0.086689
+    id: ckb10jr43p3c70j239i5y591q
+    verified: false
+    hashtags: "#vegetarian, #happyhalloween, #halloween, #greenscreen"
   - username: "skykatz"
     fullname: >-
       skykatz
+    bio: >-
+      rapper & tess on disney’s ravens home ッ🖤🦋 “back at it” out now!!
     location: "United States"
-    followers: 3847384
-    engagement: 2549
-    commentsToLikes: 0.009434
+    followers: 6800000
+    engagement: 2064
+    commentsToLikes: 0.008396
     id: ck83x2a0onnm80j78i4u28gu4
     verified: true
-    hashtags: "#indoorworkout, #mirrorchallenge, #disneywand"
-  - username: "ehani00"
-    fullname: >-
-      Ehani⁷
-    location: "United States"
-    followers: 367545
-    engagement: 2180
-    commentsToLikes: 0.040747
-    id: ck9e01i43445n0j78qizkwy2h
-    verified: false
-    hashtags: "#lipandhip, #dapperrappers, #chinese, #language"
-  - username: "minorityjames"
-    fullname: >-
-      $$$
-    location: "United States"
-    followers: 6487
-    engagement: 1152
-    commentsToLikes: 0.221953
-    id: cka0s36gzjmlu0i785k1c0btq
-    verified: false
-    hashtags: "#collegememories, #torylanez, #bluberryfaygo, #tyga"
-  - username: "kyronpollard"
-    fullname: >-
-      Kyron Pollard
-    location: "United States"
-    followers: 136096
-    engagement: 2132
-    commentsToLikes: 0.015493
-    id: ck9ek47o74tcs0j782zfrw00f
-    verified: false
-    hashtags: "#foryourpage, #6ix9nine, #duet"
-  - username: "hoodieallen"
-    fullname: >-
-      hoodie allen
-    location: "United States"
-    followers: 32862
-    engagement: 1149
-    commentsToLikes: 0.054613
-    id: ck9po1ag3hbon0j78602g7plf
-    verified: true
-    hashtags: "#nointerruption, #react, #zacefron, #imlonely"
-  - username: "uppercasman"
-    fullname: >-
-      Casey
-    location: "United States"
-    followers: 58447
-    engagement: 3219
-    commentsToLikes: 0.016639
-    id: ck9vef9vnytml0j78gzfafwu8
-    verified: false
-    hashtags: "#cartoon, #nonbinary, #scoobdance, #music"
-  - username: "nathanpiland"
-    fullname: >-
-      🎵Nathan Piland 🎵
-    location: "United States"
-    followers: 3792819
-    engagement: 2390
-    commentsToLikes: 0.006643
-    id: ck8kmvcypag500j78snzgj5a1
-    verified: true
-    hashtags: "#noquieronovio, #mothersday, #bodypositivity, #neverfitin"
+    hashtags: "#blooper"
 ---

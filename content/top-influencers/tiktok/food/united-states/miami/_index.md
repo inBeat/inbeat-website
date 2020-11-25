@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Miami In 2020
 description: >-
-  Find top food TikTok influencers in Miami in 2020. Most popular hashtags: #food #miami #coronavirus #breakfast.
+  Find top food TikTok influencers in Miami in 2020. Most popular hashtags: #miami #fyp #food #foryou.
 platform: TikTok
+hits: 91
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 91 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "berthadelina"
+  - username: "miamifoodstop"
     fullname: >-
-      Adelina
+      miamifoodstop
+    bio: >-
+      Follow me on insta @miamifoodstop for more delicious food!
     location: "United States"
-    followers: 5486
-    engagement: 711
-    commentsToLikes: 0.074619
-    id: ckai8ve165us00i788c2mmkag
+    followers: 4000
+    engagement: 735
+    commentsToLikes: 0.012412
+    id: ckbf0g2iim1vb0j2380whb0yz
     verified: false
-    hashtags: "#foodie, #donut, #pancake, #poutyface"
-  - username: "laurarosguer"
+    hashtags: "#foodie, #foodies, #food, #miami"
+  - username: "peanuttandjelly"
     fullname: >-
-      laurarosguer
+      peanuttandjelly
+    bio: >-
+      🙏 FOLLOW US on INSTAGRAM👆 🤩All Original Content 🚨Giveaway at 300k
     location: "United States"
-    followers: 115599
-    engagement: 1549
-    commentsToLikes: 0.015792
-    id: ck95xw6cw7m1s0j78995lsnvn
+    followers: 253200
+    engagement: 1091
+    commentsToLikes: 0.015814
+    id: ck81s3umypsos0j78pk5e81xf
     verified: false
-    hashtags: "#badbunny, #consejos, #promplaylist, #couples"
-  - username: "michelleposadaw"
+    hashtags: "#tasty, #gummybear, #tiktokfood, #chocolate"
+  - username: "_the_one_above_all_"
     fullname: >-
-      Michi
+      The One Above All
+    bio: >-
+      Follow me for my shitty videos. Tik tok is ass. Face reveal at 1M
     location: "United States"
-    followers: 8102
-    engagement: 462
-    commentsToLikes: 0.025280
-    id: ck900909ta0s80j78qqwkpro6
-    verified: true
-    hashtags: "#wine, #pancakecereal, #moodboost, #diet"
+    followers: 16600
+    engagement: 1718
+    commentsToLikes: 0.048185
+    id: ckb9h2xkg6ct90j23ij19mt93
+    verified: false
+    hashtags: "#help, #funny, #fun, #foryou"
   - username: "mr.eats305"
     fullname: >-
       Mr.Eats305
+    bio: >-
+      📸 IG = 76k ⤴️🍔 📍 Miami ☀️ | Original Content 🍪🍩 📩 George@MrEats305.com
     location: "United States"
-    followers: 56549
-    engagement: 1157
-    commentsToLikes: 0.026620
+    followers: 61000
+    engagement: 1255
+    commentsToLikes: 0.024990
     id: ckac9y4iwgjif0i78p9r5l1l5
     verified: false
-    hashtags: "#happyathome, #hungry, #biscuit, #italian"
-  - username: "sky_walker.88"
+    hashtags: "#foodies, #miami, #cookies, #dessert"
+  - username: "holyfitgym"
     fullname: >-
-      Sky_walker.88
+      holyfitgym
+    bio: >-
+      Latino, so I’m crazy Pranks My wife is hot Leave a prank idea in a comment
     location: "United States"
-    followers: 58445
-    engagement: 1695
-    commentsToLikes: 0.009525
-    id: cka617fe2u7th0i783j95126i
+    followers: 57800
+    engagement: 460
+    commentsToLikes: 0.016894
+    id: ckc8gm4zbaz4w0j23hmuhkit0
     verified: false
-    hashtags: "#split, #mother, #itsaremix, #food"
-  - username: "_kylekaufman"
+    hashtags: "#funny, #dog, #prank, #monkey"
+  - username: "don_oj"
     fullname: >-
-      _kylekaufman
+      OMARJ
+    bio: >-
+      I hate when people steal my food Based in Miami
     location: "United States"
-    followers: 17514
-    engagement: 1214
-    commentsToLikes: 0.039426
-    id: cka0p24hi6ew10i78vx6bqldx
+    followers: 2116
+    engagement: 299
+    commentsToLikes: 0.083083
+    id: ckb9l8brndoop0j23iaququ58
     verified: false
-    hashtags: "#longboarder, #longboarding, #travisscott, #sacai"
-  - username: "binkstube"
+    hashtags: "#foryou, #miami, #love, #fyp"
+  - username: "itsmarcobitches"
     fullname: >-
-      binkstube
+      MARCO
+    bio: >-
+      The Indisputable Queen 🏆 IG: itsmarcobitches
     location: "United States"
-    followers: 19725
-    engagement: 693
-    commentsToLikes: 0.027421
-    id: cka0jk2ztiggw0i78hv1u1nwa
+    followers: 5130
+    engagement: 1625
+    commentsToLikes: 0.079395
+    id: ckcdydnhtgl270j23iyhsibej
     verified: false
-    hashtags: "#keepingbusy, #catkitty, #kittenlover, #binkstube"
-  - username: "johndiddat"
+    hashtags: "#fun, #trump, #tiktok, #follow"
+  - username: "noesharose"
     fullname: >-
-      John Anagnostou
+      noesharose
+    bio: >-
+      RAPPER 🎶 IG: @NoeshaRose F L O R 🌴D A ⬇️ Listen to my music! ⬇️ ♥️
     location: "United States"
-    followers: 29806
-    engagement: 776
-    commentsToLikes: 0.030563
-    id: ck9jzjxgp91js0j78n7svsrk2
+    followers: 4075
+    engagement: 424
+    commentsToLikes: 0.063359
+    id: ck9vbcb07milo0j78jrv34hhc
     verified: false
-    hashtags: "#tiktokalgorithm, #florida, #puppy, #ravens"
-  - username: "jorgetorrealba90"
+    hashtags: "#rap, #fyp, #foryou, #rappergirl"
+  - username: "glaysonleroy"
     fullname: >-
-      Jorge Torrealba
+      Glayson The Curator
+    bio: >-
+      Curator of large murals. Galera Collective!!! Co producer of Wynwood Mural Fest
     location: "United States"
-    followers: 6175
-    engagement: 625
-    commentsToLikes: 0.023483
-    id: ck9exrqauslrh0j78k2yrh200
+    followers: 15000
+    engagement: 941
+    commentsToLikes: 0.171847
+    id: ckbl5uroj3eaz0j23f99f3oqw
     verified: false
-    hashtags: "#comer, #soyjesus, #art, #tomorrowland"
-  - username: "budarebistro"
+    hashtags: "#artbasel, #2020, #305, #wynwoodmuralfest"
+  - username: "_diane_0193"
     fullname: >-
-      Budare Bistro
+      _diane_0193
+    bio: >-
+      Travel Addict✈️ Wanderlust 🌎 Bird Mom🐦🐥🦜 Food🍫Wine Lover🍷 Miami🌴🇨🇺🇺🇸
     location: "United States"
-    followers: 91678
-    engagement: 560
-    commentsToLikes: 0.007748
-    id: ck9ep22xqqpqv0j7896htt5xe
+    followers: 22400
+    engagement: 511
+    commentsToLikes: 0.015840
+    id: ck90xzaxi8on10j78bc55qz7i
     verified: false
-    hashtags: "#fyp, #foryou, #perreosola, #lifeathome"
+    hashtags: "#fyp, #summerlove, #miami, #theweekndexp"
 ---

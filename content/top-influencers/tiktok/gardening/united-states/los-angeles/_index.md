@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top gardening TikTok influencers in Los Angeles in 2020. Most popular hashtags: #gardening #quarantine #keepingactive #losangeles.
+  Find top gardening TikTok influencers in Los Angeles in 2020. Most popular hashtags: #gardening #fyp #losangeles #plants.
 platform: TikTok
+hits: 7
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 7 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "watchmeedostuff"
+  - username: "bekawiththegoodplants"
     fullname: >-
-      WatchMeeDoStuff
+      🌻B E K A🌻
+    bio: >-
+      🌱Keeping plants alive day by day🌱 •DM or email on my Instagram• 📍LA/SD
     location: "United States"
-    followers: 116214
-    engagement: 809
-    commentsToLikes: 0.030864
-    id: ck8or4vkxags70j78yc0jlf6u
+    followers: 38500
+    engagement: 1265
+    commentsToLikes: 0.025932
+    id: ckfplwkmh10w10j23vnrv94bx
     verified: false
-    hashtags: "#puppies, #genz, #weekend, #hollywood"
-  - username: "hungryempire"
-    fullname: >-
-      hungryempire 
-    location: "United States"
-    followers: 2726
-    engagement: 411
-    commentsToLikes: 0.068810
-    id: ck9uyx9ju67450j78yk9z9yoj
-    verified: false
-    hashtags: "#hype, #wildlife, #italian, #foodfam"
+    hashtags: "#plantstuff, #happy, #planthelp, #plantmom"
   - username: "amarty310"
     fullname: >-
       Alex M.
+    bio: >-
+      Native Plant Farmer Los Angeles, California Founder: Nature Restoration Project
     location: "United States"
-    followers: 4156
-    engagement: 482
-    commentsToLikes: 0.030853
+    followers: 4596
+    engagement: 464
+    commentsToLikes: 0.029145
     id: ck8f6g2rs2n0i0j782o1nnzul
     verified: false
-    hashtags: "#weirdpets, #nature, #fortnite, #nativeplants"
-  - username: "friends_with_julian"
+    hashtags: "#california, #animals, #tortoise, #farmlife"
+  - username: "getwasteed"
     fullname: >-
-      Friends_with_julian
+      Waste Ed
+    bio: >-
+      Sustainability with a side of flavor 💁‍♀️🌍 ⬇️ Check out our new eco store ⬇️
     location: "United States"
-    followers: 7289
-    engagement: 379
-    commentsToLikes: 0.023655
-    id: ck9nhfgscg0zb0j788nq5m5qf
+    followers: 376500
+    engagement: 1928
+    commentsToLikes: 0.008850
+    id: ck81q5s8ig6it0j78qswjsf9o
     verified: false
-    hashtags: "#koreanlife, #kbeuty, #grocery, #houseplants"
+    hashtags: "#climatechange, #sustainable, #zerowaste, #recycle"
+  - username: "greg.rh"
+    fullname: >-
+      Greg
+    bio: >-
+      Art, furniture, fashion, and cooking g96harder@gmail.com
+    location: "United States"
+    followers: 2677
+    engagement: 776
+    commentsToLikes: 0.118627
+    id: ckcjhqtugceoo0j237jtjk2h3
+    verified: false
+    hashtags: "#modeling, #furniture, #photography, #malemodel"
+  - username: "brsweenx"
+    fullname: >-
+      bs
+    bio: >-
+      touching every dog i see since ‘93
+    location: "United States"
+    followers: 41100
+    engagement: 958
+    commentsToLikes: 0.022085
+    id: ckdt348q0sf5m0j23yb5i4adb
+    verified: false
+    hashtags: "#fyp, #la, #tv, #setlifechallenge"
+  - username: "emilywolfbeauty"
+    fullname: >-
+      Emily Wolf 🐺 
+    bio: >-
+      LOTS MORE ZIGGY ON IG↑ pups🐶plants🌵MUA💄random💩 emily@emilywolfbeauty.com
+    location: "United States"
+    followers: 116100
+    engagement: 1311
+    commentsToLikes: 0.028720
+    id: ckb9t7bvkqzlu0j23zpa3uksc
+    verified: false
+    hashtags: "#adoptdontshop, #vote, #planttiktok, #plantparent"
   - username: "tonytone1154"
     fullname: >-
       Antonio
+    bio: >-
+      
     location: "United States"
-    followers: 3160
-    engagement: 509
-    commentsToLikes: 0.022239
+    followers: 3163
+    engagement: 629
+    commentsToLikes: 0.024454
     id: ck9k0cga1cd6r0j78l3x6gcmp
     verified: false
-    hashtags: "#socute, #waittojavekids, #shesgonnabemad, #marriedcouples"
-  - username: "victorygardensrevival"
+    hashtags: "#quarantine, #tiktokbabies, #fy, #fyp"
+  - username: "growingthroughtheweeds"
     fullname: >-
-      Victory Gardens
+      Growing Through The Weeds 🍓
+    bio: >-
+      🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
     location: "United States"
-    followers: 2410
-    engagement: 1325
-    commentsToLikes: 0.147023
-    id: ckafu26818b0r0i78tz622c7k
+    followers: 6974
+    engagement: 2156
+    commentsToLikes: 0.248635
+    id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#weather, #damage, #bees, #yellowants"
-  - username: "haleyink"
+    hashtags: "#growingthroughtheweeds, #learnontiktok, #diy, #sewing"
+  - username: "minigarden_"
     fullname: >-
-      dirt eater
+      🌱🍄🌈🌻
+    bio: >-
+      blm she/her Gardening stuff 🍄🌱🌞🌿🧿 depop @franciefrickee
     location: "United States"
-    followers: 19176
-    engagement: 1961
-    commentsToLikes: 0.011929
-    id: ck9vett5a0gxk0j782a9919td
+    followers: 2038
+    engagement: 2085
+    commentsToLikes: 0.066653
+    id: ckbf7oxi4xqvf0j23k3fkne7a
     verified: false
-    hashtags: "#baking, #pilotpete, #mycrib, #diyproject"
+    hashtags: "#viral, #foryou, #botanistsoftiktok, #xyzbca"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
+    bio: >-
+      Homesteading, Gardening, Permaculture and more! LEARN TEACH GROW
     location: "United States"
-    followers: 10333
-    engagement: 1035
-    commentsToLikes: 0.039352
+    followers: 10600
+    engagement: 1440
+    commentsToLikes: 0.158028
     id: ck8vuqcv4jlc90j78gme30n29
     verified: false
-    hashtags: "#bottomwatering, #foyou, #gardentips, #inbloom"
-  - username: "cosgrome"
-    fullname: >-
-      Moira Cosgrove
-    location: "United States"
-    followers: 19753
-    engagement: 820
-    commentsToLikes: 0.018319
-    id: ck9rcjcbatppw0j78j6txlvp2
-    verified: false
-    hashtags: "#vegatables, #sunset, #vegan, #houseplantcare"
-  - username: "notjustafitmom.jackson"
-    fullname: >-
-      user4860259200556
-    location: "United States"
-    followers: 2097
-    engagement: 537
-    commentsToLikes: 0.068379
-    id: ck9tvli7sr4kr0j786ifkrjxh
-    verified: false
-    hashtags: "#genx, #over30, #healthyrecipe, #groundhogday"
+    hashtags: "#plants, #feelinggood, #houseplants, #wholesomeroots"
 ---

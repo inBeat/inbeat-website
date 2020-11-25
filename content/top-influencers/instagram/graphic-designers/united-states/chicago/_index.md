@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Chicago In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Chicago in 2020. Most popular hashtags: #kawhileonard #kawhi #kobe #graphicdesigner.
+  Find top graphic-designers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #losangeles #lakers #nba.
 platform: Instagram
+hits: 21
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "tahitian_treat"
-    fullname: >-
-      The Grand Tahiti
-    location: "United States"
-    followers: 3299
-    engagement: 1372
-    commentsToLikes: 0.120743
-    id: ck0twx2zvh4980i19vrbq9kfl
-    verified: false
-    hashtags: "#shemakeschicago, #veuveclicquot, #branding, #womenempowerment"
   - username: "hometown_designs"
     fullname: >-
       Jimmy Mitchell
+    bio: >-
+      Graphic Designer. Chicago, IL Creative Services Coordinator @chicagobulls
     location: "United States"
-    followers: 62066
-    engagement: 1951
-    commentsToLikes: 0.013340
+    followers: 59764
+    engagement: 2061
+    commentsToLikes: 0.014139
     id: ck5qb3owzjnt30i11pefzp2rk
     verified: false
-    hashtags: "#zach, #rodman, #curry, #laclippers"
-  - username: "ghosttraveler"
+    hashtags: "#basketball, #hometowndesigns, #losangeleslakers, #ballislife"
+  - username: "cathconofolio"
     fullname: >-
-      ↟ 𝗚𝗵𝗼𝘀𝘁𝘁𝗿𝗮𝘃𝗲𝗹𝗲𝗿 ↟
+      cath | commissions open
+    bio: >-
+      👋🏼 hiiii i’m cath!! i design + exist in atl 🌃 😋 dm me for commissions 💌 catherinegiacono@gmail.com 🎨 shop and etsy links below ↴
     location: "United States"
-    followers: 7663
-    engagement: 892
-    commentsToLikes: 0.037998
-    id: ck138t3nbhvom0i1928w0nzwy
+    followers: 43087
+    engagement: 375
+    commentsToLikes: 0.034952
+    id: ck9wd9a47eo3z0j78rc8f0j58
     verified: false
-    hashtags: "#pingame, #artvsartist, #animalcrossingart, #mothman"
+    hashtags: "#illustrator, #thankfulfolio, #customillustration, #fashionillustration"
+  - username: "martarasava"
+    fullname: >-
+      Marta
+    bio: >-
+      and graphic designer. Milwaukee | Chicago ✉️ w.marta.tarasava@gmail.com
+    location: "United States"
+    followers: 10541
+    engagement: 485
+    commentsToLikes: 0.039861
+    id: ck6tqcm72qoet0j711d4olz1s
+    verified: false
+    hashtags: "#diptyqueparis, #amika, #clarinsskincare, #guerlainforbees"
   - username: "catcybul"
     fullname: >-
       Venezuelan in Chicago📍
+    bio: >-
+      👁|CATHERINE CYBULKIEWICZ 🍋|Ácida + Capricorn + GraphicDesigner +Logo+WebDesign+Gifs+SocialMedia+Ads > DM✨ #CatEnChicago
     location: "United States"
-    followers: 30249
-    engagement: 169
-    commentsToLikes: 0.059777
+    followers: 29932
+    engagement: 148
+    commentsToLikes: 0.058252
     id: ck0u052q1slwo0i19u30xkquv
     verified: false
-    hashtags: "#paidadvertisement, #tiktok, #throwbackthursday, #makeup"
-  - username: "hawkedits_"
+    hashtags: "#newyork, #boston, #nyc, #catennewyork"
+  - username: "shotsbypaula"
     fullname: >-
-      JH
+      Paula Stopka
+    bio: >-
+      Philippians 4:13 #THINKER | #CREATOR | #HELPER — @paulastopka #GraphicDesigner and #Photographer
     location: "United States"
-    followers: 6497
-    engagement: 1358
-    commentsToLikes: 0.024629
-    id: ck14i3jeudgpd0i19x5n4pl7z
+    followers: 3198
+    engagement: 1304
+    commentsToLikes: 0.044064
+    id: ck6u9bj7zwl9p0j7127zhdb6y
     verified: false
-    hashtags: "#diakite, #braxtonkey, #nuggets, #brooklynnets"
-  - username: "jazzalba.jpg"
+    hashtags: "#citykillers, #igerschicago, #passionpassport, #chishooters"
+  - username: "thekylecyr"
     fullname: >-
-      Jazz Alba
+      Kyle Cyr 𓅓 | 20K 🔜
+    bio: >-
+      CT📍 | UMD ‘24 | Graphic Designer @eamaddennfl | Ambassador @seatgeek
     location: "United States"
-    followers: 9107
-    engagement: 1405
-    commentsToLikes: 0.077095
-    id: ck8sz93fmnjj30j78bvdck789
+    followers: 12276
+    engagement: 2741
+    commentsToLikes: 0.035471
+    id: ckapaohpewuv60i78m5xln6hr
     verified: false
-    hashtags: "#aarongordon, #orlandomagic, #choreography, #whoworeitbetter"
-  - username: "cottonwood312"
-    fullname: >-
-      Jane Wongjirad
-    location: "United States"
-    followers: 6456
-    engagement: 1032
-    commentsToLikes: 0.039379
-    id: ck9wd5mo4e5z30j78gf0fq1ls
-    verified: false
-    hashtags: "#ampersand, #motherslove, #showrespect, #flowers"
-  - username: "eg.studios"
-    fullname: >-
-      
-    location: "United States"
-    followers: 14211
-    engagement: 485
-    commentsToLikes: 0.028022
-    id: ck5qb37syjldq0i11d8szvwgz
-    verified: false
-    hashtags: "#houstonrockets, #sneaker, #houseofheat, #celtics"
-  - username: "bayareadesigns"
-    fullname: >-
-      Jeremy Jae Aguinaldo
-    location: "United States"
-    followers: 14767
-    engagement: 953
-    commentsToLikes: 0.044018
-    id: ck14lqe3tvys80i19o3vklwl6
-    verified: false
-    hashtags: ""
+    hashtags: "#graphicdesign, #lions, #steelersnation, #buccaneers"
   - username: "lv_visuals"
     fullname: >-
       LV | Sports Designer
+    bio: >-
+      20 | Aspiring Sports Graphic Designer | LeBron liked my designs 2x 👑 | Tag on reposts | Twitter: @LVvisualss
     location: "United States"
     followers: 5067
     engagement: 2864
     commentsToLikes: 0.020833
     id: ckap1kkiuuxjk0i786lejq4z2
     verified: false
-    hashtags: "#memphis, #apple, #cleveland, #brodie"
+    hashtags: "#thelastdance, #photoshop, #lebron, #kingjames"
+  - username: "cottonwood312"
+    fullname: >-
+      Jane Wongjirad
+    bio: >-
+      Graphic Designer || Handletterer || Jesus Follower || Animal Lover 📍 Chicago, IL 💌 jane@cottonwood312.com 👇 Shop
+    location: "United States"
+    followers: 6456
+    engagement: 1032
+    commentsToLikes: 0.039379
+    id: ck9wd5mo4e5z30j78gf0fq1ls
+    verified: false
+    hashtags: "#36days, #typography, #typespot, #goodtypetuesday"
+  - username: "eg.studios"
+    fullname: >-
+      
+    bio: >-
+      Graphic Designer / Philadelphia, PA / Available for freelance / 🌊✍🏼 /
+    location: "United States"
+    followers: 14211
+    engagement: 485
+    commentsToLikes: 0.028022
+    id: ck5qb37syjldq0i11d8szvwgz
+    verified: false
+    hashtags: "#zionwilliamson, #bball, #basketball, #dunk"
+  - username: "hawkedits_"
+    fullname: >-
+      JH
+    bio: >-
+      Graphic Design 📍Virginia 📩 hawkedits14@gmail.com Graphic designer for @wahoops_ and @boowilliamsaau Available for freelance!
+    location: "United States"
+    followers: 6429
+    engagement: 762
+    commentsToLikes: 0.026718
+    id: ck14i3jeudgpd0i19x5n4pl7z
+    verified: false
+    hashtags: "#hawkedits, #atlantahawks, #bubble, #nba"
 ---

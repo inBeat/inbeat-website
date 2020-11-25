@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In San Francisco In 2020
 description: >-
-  Find top food TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #food #coffee #greenscreen.
+  Find top food TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #food #foodie #fyp.
 platform: TikTok
+hits: 37
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 37 TikTok influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "dc.asteroid"
+  - username: "ven.ny"
     fullname: >-
-      (Titanus) Asteroid
+      Venny G
+    bio: >-
+      19 y/o ( follow my insta^ ) From LA 🌴
     location: "United States"
-    followers: 6991
-    engagement: 1288
-    commentsToLikes: 0.128848
-    id: ckachu7bt0r770i7868ikzc3a
+    followers: 7559
+    engagement: 900
+    commentsToLikes: 0.026956
+    id: ck83k2n528u160j782m6ks4w0
     verified: false
-    hashtags: "#blindinglights, #youtube, #wallpaper, #kongskullisland"
-  - username: "thefriendlyfashionistas"
+    hashtags: "#quarantine, #storytime, #food, #fyp"
+  - username: "lemaraisbakery"
     fullname: >-
-      ❤️❤️❤️
+      lemaraisbakery
+    bio: >-
+      San Francisco 🥐 Delivering to doorsteps across US
     location: "United States"
-    followers: 8598
-    engagement: 1314
-    commentsToLikes: 0.110242
-    id: cka0palkm7hwv0i78ezqsl0qo
+    followers: 26200
+    engagement: 816
+    commentsToLikes: 0.004888
+    id: ckb9b3fp7wo5f0j23c46dvf1n
     verified: false
-    hashtags: "#rating, #howto, #bvlgari, #photo"
-  - username: "fanatics"
+    hashtags: "#hungry, #breakfast, #fyp, #brunch"
+  - username: "fitchefmike"
     fullname: >-
-      Fanatics
+      Chef Mike
+    bio: >-
+      Cook & Eat Like Mike ChopstickGang 🥢🔥 CEO of Everybody Eats
     location: "United States"
-    followers: 232655
-    engagement: 1045
-    commentsToLikes: 0.021691
-    id: cka0hir2q9bb70i788kvs6x48
+    followers: 26900
+    engagement: 677
+    commentsToLikes: 0.037856
+    id: ckdt434znspap0j23aiq9boxr
+    verified: false
+    hashtags: "#noodle, #spicy, #cheese, #food"
+  - username: "mr.hot_mani"
+    fullname: >-
+      mr.hot_mani
+    bio: >-
+      I'm a Hyderabadi❤️ in California SF 🇺🇲Full Videos in Instagram with recipes
+    location: "United States"
+    followers: 2739
+    engagement: 234
+    commentsToLikes: 0.045122
+    id: ckcdrhkw3csv00j2355knq90l
+    verified: false
+    hashtags: "#tiktokchef, #chicken, #quarantine, #indian"
+  - username: "allie.eats"
+    fullname: >-
+      Allie Eats
+    bio: >-
+      🍴food | life | recipes👩🏻‍🍳 📍san francisco say hi on insta @allie.eats
+    location: "United States"
+    followers: 52200
+    engagement: 649
+    commentsToLikes: 0.034763
+    id: ckd6evi5r6jvm0j230rrgy6m3
+    verified: false
+    hashtags: "#tiktokfoodie, #learnontiktok, #sanfrancisco, #recipe"
+  - username: "jahnadinh"
+    fullname: >-
+      JAHNA DINH
+    bio: >-
+      i like clothes n stuff
+    location: "United States"
+    followers: 31800
+    engagement: 1221
+    commentsToLikes: 0.020297
+    id: ck9857ob2rfvd0j7859vsfbn9
+    verified: false
+    hashtags: "#foryou, #style, #family, #couple"
+  - username: "juliasinch23"
+    fullname: >-
+      Julia❤️
+    bio: >-
+      San Francisco, California Professional traveler 👣🧳🦅
+    location: "United States"
+    followers: 48900
+    engagement: 816
+    commentsToLikes: 0.057163
+    id: ck8fb1mhj52v40j78lohbfsaq
+    verified: false
+    hashtags: "#travelblogger, #disney, #california, #halloween"
+  - username: "eattravelrock"
+    fullname: >-
+      Kelly Rizzo
+    bio: >-
+      TV Host Food/Travel/Lifestyle Expert IG @eattravelrock Mrs. @bobsaget
+    location: "United States"
+    followers: 168200
+    engagement: 1023
+    commentsToLikes: 0.020429
+    id: ck80oq80jj7lk0j78wd2t1otg
     verified: true
-    hashtags: "#quarterback, #nickjonas, #atlantafalcons, #fazebanks"
-  - username: "beaucoffron"
+    hashtags: "#pumpkinrecipes, #airtravel, #covidsafety, #travelsafety"
+  - username: "mario0o0o0o0o0o"
     fullname: >-
-      Beau Coffron
+      Mario
+    bio: >-
+      Daily Vlog Eating hella vegan food ⬇️SS2021 Merch Available! ⬇️
     location: "United States"
-    followers: 6637
-    engagement: 528
-    commentsToLikes: 0.055297
-    id: ck8hk46b5c64f0j78djew3ds3
+    followers: 31200
+    engagement: 983
+    commentsToLikes: 0.030908
+    id: ck9fmcoylsnrp0j78anl0x3yk
     verified: false
-    hashtags: "#birthday, #coffee, #pumpkinparty, #cheese"
-  - username: "food_frenzy"
+    hashtags: "#dolorespark, #duet, #munchies, #sanfrancisco"
+  - username: "feedmeimei"
     fullname: >-
-      Food_Frenzy
+      feedmeimei
+    bio: >-
+      📍sf bay area ig: feedmeimei 👇 weekly food vlogs👇
     location: "United States"
-    followers: 66447
-    engagement: 528
-    commentsToLikes: 0.008191
-    id: ck8z2onf7688b0j78bxgugals
+    followers: 306500
+    engagement: 2573
+    commentsToLikes: 0.009480
+    id: ckbf1tckeo7e30j23fse38hhj
     verified: false
-    hashtags: "#hotpot, #london, #oddlysatisfying, #japan"
-  - username: "amazoncitysucks"
-    fullname: >-
-      Amazoncitysucks
-    location: "United States"
-    followers: 2379
-    engagement: 857
-    commentsToLikes: 0.081332
-    id: cka0ruzafik9k0i7833kv8qxg
-    verified: false
-    hashtags: "#hairgoals, #duetit, #paint, #checkthisout"
-  - username: "panderton"
-    fullname: >-
-      panderton
-    location: "United States"
-    followers: 5611
-    engagement: 747
-    commentsToLikes: 0.041121
-    id: ck9fmlru8u2vn0j78i61pjr0n
-    verified: false
-    hashtags: "#feels, #live, #onecommunity, #rant"
-  - username: "crave4more"
-    fullname: >-
-      Are you hungry?
-    location: "United States"
-    followers: 27834
-    engagement: 337
-    commentsToLikes: 0.021669
-    id: ck80oq4uvj6tp0j7815r5bk6r
-    verified: false
-    hashtags: "#seafood, #burger, #vegeterian, #primerib"
-  - username: "cian.dom"
-    fullname: >-
-      Cian Dominique
-    location: "United States"
-    followers: 4908
-    engagement: 467
-    commentsToLikes: 0.031755
-    id: ck9fpaybb6hop0j78uhr05yy9
-    verified: false
-    hashtags: "#alwayslearning, #alexademie, #minitutorials, #mexican"
-  - username: "sylusrothchild"
-    fullname: >-
-      Sylus Rothchild 
-    location: "United States"
-    followers: 11793
-    engagement: 1601
-    commentsToLikes: 0.045478
-    id: cka0r0kahf0ul0i783daut6hc
-    verified: false
-    hashtags: "#lastcall, #sylus2020, #newnormal, #deflategate"
+    hashtags: "#food, #bayarea, #drinks, #cute"
 ---

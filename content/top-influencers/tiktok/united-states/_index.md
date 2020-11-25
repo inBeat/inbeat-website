@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In United States In 2020
 description: >-
-  Find top TikTok influencers in United States in 2020. Most popular hashtags: # #snackbreak #foryou #ketodiet.
+  Find top TikTok influencers in United States in 2020. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
+hits: 130272
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 130272 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "ethannhughess"
+  - username: "jakechamseddine"
     fullname: >-
-      Ethan Hughes🌹
+      Jake Chamseddine 
+    bio: >-
+      Usually at a concert, always with a camera What’s up nerds
     location: "United States"
-    followers: 948885
-    engagement: 3944
-    commentsToLikes: 0.027963
-    id: ck8kklrpazwos0j78nprnkx8r
+    followers: 30900
+    engagement: 2417
+    commentsToLikes: 0.031167
+    id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: ""
-  - username: "raquelbagwell"
+    hashtags: "#travel, #photo, #xyzbca, #photography"
+  - username: "robrast"
     fullname: >-
-      💛Raquel💛
+      Rob Rast
+    bio: >-
+      Wild and Free in San Diego Insta & YT here 👆
     location: "United States"
-    followers: 2562773
-    engagement: 3543
-    commentsToLikes: 0.017487
-    id: ck8hpagvwyno40j781wkb5f12
+    followers: 20200
+    engagement: 681
+    commentsToLikes: 0.027534
+    id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#america, #lgbt, #lgbtq"
-  - username: "heidimichelleq"
+    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
+  - username: "amberscloset33"
     fullname: >-
-      ☆ Heidi Michelle ☆
+      AmbersCloset33
+    bio: >-
+      Just a weirdo from YouTube & IG @AmbersCloset
     location: "United States"
-    followers: 1353472
-    engagement: 3420
-    commentsToLikes: 0.022193
-    id: ck902d7i5cbov0j78fi1dbjc1
+    followers: 8505
+    engagement: 1246
+    commentsToLikes: 0.030018
+    id: ckbfens788w850j23trusgv3z
     verified: false
-    hashtags: "#distorted, #foryou, #cadavistacuenta, #tb"
-  - username: "klgregg03"
-    fullname: >-
-      Kati Gregg🐻✨
-    location: "United States"
-    followers: 599580
-    engagement: 3419
-    commentsToLikes: 0.084142
-    id: ck8w1bge41b7c0j78l0exn0aa
-    verified: false
-    hashtags: "#easter, #promplaylist, #neverfitin, #tossyourcap"
-  - username: "iamjordiofficial"
-    fullname: >-
-      iAmJordi
-    location: "United States"
-    followers: 5493329
-    engagement: 3408
-    commentsToLikes: 0.054371
-    id: ck8kdaihg4wob0j780t4ls400
-    verified: true
-    hashtags: "#seeyouchallange, #promo, #sonypartner, #spreadhope"
-  - username: "braydenledf"
-    fullname: >-
-      brayden ledford
-    location: "United States"
-    followers: 742732
-    engagement: 3361
-    commentsToLikes: 0.028574
-    id: ck9ek4u4o4z8e0j78zo4io7nm
-    verified: false
-    hashtags: ""
-  - username: "haileyevert"
-    fullname: >-
-      Hailey Evert
-    location: "United States"
-    followers: 1407660
-    engagement: 3304
-    commentsToLikes: 0.096818
-    id: ck8w2zxuo6va00j78v7nka7s9
-    verified: false
-    hashtags: "#pov"
-  - username: "imjessjackson"
-    fullname: >-
-      Jess Jackson
-    location: "United States"
-    followers: 707752
-    engagement: 3252
-    commentsToLikes: 0.030901
-    id: ck8oqwg4u9dma0j78w673g8w9
-    verified: true
-    hashtags: "#snackbreak, #ketorecipe, #howto, #ketodiet"
+    hashtags: "#moodflip, #lesbiantiktok, #vote, #inspirational"
   - username: "carolines_music"
     fullname: >-
       CAROLINE
+    bio: >-
+      My new song Against US is out now!! Click the link to listen💗
     location: "United States"
-    followers: 4201
-    engagement: 3239
-    commentsToLikes: 0.084453
+    followers: 6955
+    engagement: 5529
+    commentsToLikes: 0.251761
     id: ck978gs4l7x130j78o558uwsq
     verified: false
-    hashtags: "#onandoff, #tigerking, #foryoy, #makeup"
-  - username: "ruslanapopach"
+    hashtags: "#duet, #foryou, #fyp, #greenscreenvideo"
+  - username: "fieldmanworker"
     fullname: >-
-      ruslana popach
+      fieldmanworker
+    bio: >-
+      hi! P.O Box 771556 Coral Springs, FL 33077 Biz: Fieldmanworker@gmail.com Merch ↓
     location: "United States"
-    followers: 1056986
-    engagement: 3208
-    commentsToLikes: 0.039352
-    id: ck9324031huxi0j783t5cs6s1
+    followers: 220700
+    engagement: 4602
+    commentsToLikes: 0.054141
+    id: ckd0be632cb8b0j23s38t9s2y
     verified: false
-    hashtags: "#goingpsycho, #foryou, #hydrated"
+    hashtags: "#funnystory, #christianschoolstories, #greenscreenvideo, #expressieyourself"
+  - username: "sylusrothchild"
+    fullname: >-
+      Sylus Rothchild 
+    bio: >-
+      The news of the day. Patreon in link. Venmo @jeff-ahern-1 (Life is short,Laugh)
+    location: "United States"
+    followers: 27500
+    engagement: 3654
+    commentsToLikes: 0.071705
+    id: cka0r0kahf0ul0i783daut6hc
+    verified: false
+    hashtags: "#vote, #biden, #fyp, #sad"
+  - username: "mauiwaves"
+    fullname: >-
+      molly
+    bio: >-
+      15.1k ! so grateful, ily :) pinterest - mauiwavess mauiwaves13@gmail.com
+    location: "United States"
+    followers: 15100
+    engagement: 3639
+    commentsToLikes: 0.277073
+    id: ckc85eho04zeu0j23vto2avgt
+    verified: false
+    hashtags: "#fyp, #morningroutine, #vibes, #coffee"
+  - username: "alisonsaidno"
+    fullname: >-
+      What~is~Normal
+    bio: >-
+      💛 Venmo/alisonsaidno PayPal alison8029@gmail.com tOLeRaNcE OnLy
+    location: "United States"
+    followers: 526300
+    engagement: 3509
+    commentsToLikes: 0.023670
+    id: ck999uavheiat0j787tbe0iyh
+    verified: false
+    hashtags: "#girlmom, #anxiety, #momlife, #lipgloss"
+  - username: "zayaperysian"
+    fullname: >-
+      Zaya💕
+    bio: >-
+      Follow my IG✨ 📧: zperysian@viralnationtalent.com She/Her
+    location: "United States"
+    followers: 2500000
+    engagement: 3486
+    commentsToLikes: 0.019851
+    id: ckbkzhxuivwfz0j23mzsy9cps
+    verified: true
+    hashtags: "#greenscreen, #stitch, #bidenharris2020, #trans"
+  - username: "blewk_huston"
+    fullname: >-
+      luke huston 🥄
+    bio: >-
+      cruise the yt am angsty teen venmo: @lukehuston email: lukehustonart@gmail.com
+    location: "United States"
+    followers: 284800
+    engagement: 3399
+    commentsToLikes: 0.027445
+    id: ck81q0k8gezlo0j78xvt1kr5i
+    verified: false
+    hashtags: "#sad, #friends, #teen, #emotional"
 cities:
   - name: New York
     link: /tiktok/united-states/new-york

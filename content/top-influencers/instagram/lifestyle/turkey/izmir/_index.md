@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Izmir In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Izmir in 2020. Most popular hashtags: #stayhome #evdekal #23nisan #color.
+  Find top lifestyle Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #photooftheday #blogger #like4likes.
 platform: Instagram
+hits: 108
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 108 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
-  - username: "yoncacalli"
+  - username: "semaaydemirofficial"
     fullname: >-
-      Yonca Calli
+      SEMA AYDEMiR
+    bio: >-
+      Olimpic Games London🏃 🎥TV8 Reklam ve iş birliği TD İLETİŞİM: +905446772101 @essenorafitnessspa
     location: "Turkey"
-    followers: 21274
-    engagement: 854
-    commentsToLikes: 0.089152
-    id: ck8td7tch29060j78vzjlhh1g
-    verified: false
-    hashtags: "#pinkdress, #gucci, #fashionbag, #goldbracelet"
+    followers: 779172
+    engagement: 202
+    commentsToLikes: 0.037128
+    id: ck5c2owdlxojg0i11nh0058z6
+    verified: true
+    hashtags: "#maviserum, #sac, #semaaydemir, #moda"
   - username: "bengitheblogger"
     fullname: >-
       Bengi the Blogger 💞
+    bio: >-
+      💋 Makyaj & Bakım & Lifestyle 📍 İzmir 📩 PR & işbirliği & iletişim için DM ya da e-posta 🎥 YouTube 👇🏻
     location: "Turkey"
-    followers: 16270
-    engagement: 273
-    commentsToLikes: 0.081215
+    followers: 18826
+    engagement: 297
+    commentsToLikes: 0.091114
     id: ck15sub6ueu3h0i19jzemod3j
     verified: false
-    hashtags: "#dupe, #parlat, #kbeautyaddict, #ciltbakimi"
+    hashtags: "#neutrogena, #gratismoru, #skincareproducts, #avon"
+  - username: "pitikareee"
+    fullname: >-
+      
+    bio: >-
+      “aynı yerde değil, aynı gökteyiz!” •gezi | fotoğraf | kitap | dekor• 📍İzmir
+    location: "Turkey"
+    followers: 6754
+    engagement: 1463
+    commentsToLikes: 0.021341
+    id: ckaot2a4uu1yz0i783ux6fqsk
+    verified: false
+    hashtags: "#instalike, #catlovers, #follow, #likelike"
+  - username: "seelcanyvz"
+    fullname: >-
+      SELCAN YAVUZ
+    bio: >-
+      Lifestyle| H88🖤 İzmir 🇹🇷 Founder Of @shinehour.boutique
+    location: "Turkey"
+    followers: 187375
+    engagement: 587
+    commentsToLikes: 0.011454
+    id: ckf5v960snr1c0j23tqkgf88k
+    verified: false
+    hashtags: "#sundayfunday, #sunshine, #todayme, #tbt"
   - username: "guzellikmodu"
     fullname: >-
       Buse ⭐️ÇEKİLİŞ VAR
+    bio: >-
+      Makeup|Beauty|Lifestyle|Shopping✨ 📍İzmir 💌PR:DM//MAİL
     location: "Turkey"
-    followers: 33044
-    engagement: 119
-    commentsToLikes: 0.029598
+    followers: 31155
+    engagement: 148
+    commentsToLikes: 0.039099
     id: ck13cm47f10p40i199bxda3ru
     verified: false
-    hashtags: "#apieu, #5puantiyecom, #swatch, #retromatte"
-  - username: "dszgn"
+    hashtags: "#lipstick, #makeup, #instadaily, #follow4followback"
+  - username: "arzuu_toprakk"
     fullname: >-
-      Deniz Sezgin
+      Arzu Toprak
+    bio: >-
+      👗👠👛❣️🎈 Nişantaşi Üniversitesi.✏ Bankacılık ve Sigortacılık.💸 Reklam ve işbirliği için DM 💫 En mükemmel Adalet Vicdan'dır...
     location: "Turkey"
-    followers: 6371
-    engagement: 1140
-    commentsToLikes: 0.139959
-    id: ck9hbt3usibwo0j78r1etvy9n
+    followers: 18028
+    engagement: 613
+    commentsToLikes: 0.007642
+    id: ckf5m660lsftk0j234pason7w
     verified: false
-    hashtags: "#yeni, #visit, #haircolor, #girl"
-  - username: "pinklyvibes"
+    hashtags: "#style, #styleblogger, #photographer, #prettylittleliars"
+  - username: "nihanayanoglu"
     fullname: >-
-      ᴛ ᴜ ɢ̆ ᴄ̧ ᴇ
+      ℕ I H A ℕ
+    bio: >-
+      Lifestyle 🌟 Based in Izmir 📍 ELT | Translator 🇬🇧
     location: "Turkey"
-    followers: 4395
-    engagement: 2620
-    commentsToLikes: 0.060808
-    id: ck9hbt9tvicmb0j785k1dlw3b
+    followers: 11708
+    engagement: 473
+    commentsToLikes: 0.140268
+    id: ck13agb68q9710i19irrzsxis
     verified: false
-    hashtags: "#herg, #ikigai, #smile, #bookstagram"
-  - username: "leo_xandre"
+    hashtags: "#bloggerpost, #style, #fashion, #photooftheday"
+  - username: "korayozpalamutcu"
     fullname: >-
-      Leo Xandre
+      Koray Özpalamutçu
+    bio: >-
+      • Travel and Lifestyle Photographer • Based in Izmir • Official Ambassador @haidafilter • Ambassador @oppomobiletr
     location: "Turkey"
-    followers: 31571
-    engagement: 586
-    commentsToLikes: 0.004573
-    id: ck0tvya4xdbcm0i19cnqvfk0i
+    followers: 424097
+    engagement: 208
+    commentsToLikes: 0.021885
+    id: ck55kezv8z5ow0i11ahfdqezb
+    verified: false
+    hashtags: "#eclectic, #hellofrom, #sony, #moodygrams"
+  - username: "bysulekurtar"
+    fullname: >-
+      ŞULE KURTAR butik ✨
+    bio: >-
+      ♡ @sulekurtar ♡ Reklam ve İşbirliği için dm ♡ Değişim mevcut (3 gün) ♡ İndirimli ürünlerde değişim yoktur ♡ İade yoktur ♡ Ürün ayrımı yapamıyoruz 🖤
+    location: "Turkey"
+    followers: 114637
+    engagement: 156
+    commentsToLikes: 0.003016
+    id: ckf5lw2w7r9wi0j23p1zxa41y
     verified: false
     hashtags: ""
-  - username: "buketaus"
+  - username: "sevimlizadeblog"
     fullname: >-
-      Buket Suat SARAY
+      sevimlizadeblog
+    bio: >-
+      Dıy ✂️ #diylerkıskansın My home🍹 Coffee lovers ☕ amateur pics 🇹🇷 Travel 🚗 Benim objektifimden 📸 DM ❌
     location: "Turkey"
-    followers: 3743
-    engagement: 2560
-    commentsToLikes: 0.050915
-    id: ckapbbe37za4a0i78jsqp7q8p
+    followers: 24161
+    engagement: 340
+    commentsToLikes: 0.075447
+    id: ck8t95ojrmywe0j78rwd0g528
     verified: false
-    hashtags: "#ckmcmrtsitakipx, #kiloverme5500, #esenxc1, #ucak14fatma"
-  - username: "ozlem.ozaydiin"
-    fullname: >-
-      Ö 𝐙 𝐋 𝐄 𝐌   Ö 𝐙 𝐀 𝐘 𝐃 𝐈 𝐍
-    location: "Turkey"
-    followers: 14249
-    engagement: 1377
-    commentsToLikes: 0.112224
-    id: ck9wfl6vhpcc20j78ohgu3nuz
-    verified: false
-    hashtags: "#summervibes, #gezginstagram, #oodt, #thebest"
-  - username: "__belqin__"
-    fullname: >-
-      belgin kandemir | Denizli
-    location: "Turkey"
-    followers: 16204
-    engagement: 1051
-    commentsToLikes: 0.158336
-    id: ck13643re4o8s0i195eq3l821
-    verified: false
-    hashtags: "#camping, #pazar, #holiday, #papatya"
-  - username: "dilekadatepe"
-    fullname: >-
-      Dilek Adatepe🔹
-    location: "Turkey"
-    followers: 14208
-    engagement: 957
-    commentsToLikes: 0.157677
-    id: ck8tawooitdt30j78lbibrdai
-    verified: false
-    hashtags: "#sa, #travelbloggers, #turkey, #house"
+    hashtags: "#design, #photooftheday, #kahvekeyfi, #emin"
 ---

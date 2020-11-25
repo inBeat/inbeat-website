@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Argentina In 2020
 description: >-
-  Find top chefs Instagram influencers in Argentina in 2020. Most popular hashtags: #encasa #manzana #cakes #quedateencasa.
+  Find top chefs Instagram influencers in Argentina in 2020. Most popular hashtags: #tarta #chocolate #love.
 platform: Instagram
+hits: 75
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 75 Instagram influencers like this in Argentina for you to contact.
 profiles:
-  - username: "danielamcj7"
-    fullname: >-
-      Daniela MasterChef Junior 7
-    location: "Argentina"
-    followers: 38337
-    engagement: 1930
-    commentsToLikes: 0.022662
-    id: ck5hhs3b09sw90i11orsxiost
-    verified: false
-    hashtags: "#mcjunior, #semifinalista, #quedateencasa, #yomeapunto"
-  - username: "soledadfandino"
-    fullname: >-
-      Soledad Fandiño
-    location: "Argentina"
-    followers: 1007529
-    engagement: 361
-    commentsToLikes: 0.014575
-    id: ck13c4v87ymhq0i19488bic92
-    verified: true
-    hashtags: "#100diasparaenamorarnos, #shrek, #baby, #cumplea"
-  - username: "sabryrodriguezcuack"
-    fullname: >-
-      Sabry Rodriguez Cuack 🐥😝♐️💙💛💙
-    location: "Argentina"
-    followers: 18521
-    engagement: 439
-    commentsToLikes: 0.065389
-    id: ck5znhkd6oh6b0i14f0s1rra5
-    verified: false
-    hashtags: "#johndavis, #mintjulep, #yanoaguantomas, #djsession"
   - username: "jennipiccione"
     fullname: >-
       Jenni Piccione
+    bio: >-
+      𝐐𝐮𝐞𝐝𝐚𝐫𝐬𝐞 𝐝𝐨𝐧𝐝𝐞 𝐬𝐞 𝐞𝐬 𝐟𝐞𝐥𝐢𝐳 💫 Publicidad al DM 📩 Escuela de modelo @robertopiazzaartist Estudiante de psicología en UADE Chef👩🏼‍🍳 @iga_la
     location: "Argentina"
-    followers: 40363
-    engagement: 430
-    commentsToLikes: 0.017208
+    followers: 49281
+    engagement: 393
+    commentsToLikes: 0.414065
     id: ck5q1hx5jb2cx0i11wfr4xp89
     verified: false
     hashtags: ""
+  - username: "danielamcj7"
+    fullname: >-
+      Daniela MasterChef Junior 7
+    bio: >-
+      Cuenta oficial de Daniela, semifinalista de #MCJunior 7, Atleta 🏃🏽‍♀️ y futura chef 👩🏽‍🍳. (Cuenta supervisada por los padres de Daniela).
+    location: "Argentina"
+    followers: 38888
+    engagement: 2157
+    commentsToLikes: 0.024321
+    id: ck5hhs3b09sw90i11orsxiost
+    verified: false
+    hashtags: "#quedateencasa, #yomeapunto, #ad, #telodijeser"
+  - username: "antonia_cristal"
+    fullname: >-
+      Antonia Cristal Figueroa
+    bio: >-
+      🇨🇱 Estudio Ingeniería Civil Ambiental, participé en Master Chef Chile, en Miss Mundo 2016 y Miss Earth 2018. Me gusta el arte 👉🏾@todotipode_arte 🌊 👇🏾
+    location: "Argentina"
+    followers: 51487
+    engagement: 876
+    commentsToLikes: 0.013291
+    id: ck13bp4wjwhqo0i19ffrpeqbn
+    verified: true
+    hashtags: "#womanstyle, #missearth, #brunette, #messyhair"
   - username: "paolocasagrandetv"
     fullname: >-
       Paolo Casagrande
+    bio: >-
+      Chef Lasarte Restaurant 3*, by @martinberasategui. Sígueme también en @lasartebcn.
     location: "Argentina"
-    followers: 15372
-    engagement: 463
-    commentsToLikes: 0.022547
+    followers: 17243
+    engagement: 399
+    commentsToLikes: 0.020222
     id: ck5q69ddqwi9p0i1140rpwr68
     verified: false
-    hashtags: "#lasarteteam, #unopuntosiete, #familia, #cucina"
+    hashtags: "#michelinstar, #michelinguide, #gastronomia, #gastronomy"
+  - username: "soledadfandino"
+    fullname: >-
+      Fandiño
+    bio: >-
+      📍@theremakenet Actriz argentina Chef / Plant-based natural foods Chef
+    location: "Argentina"
+    followers: 1054002
+    engagement: 200
+    commentsToLikes: 0.009451
+    id: ck13c4v87ymhq0i19488bic92
+    verified: true
+    hashtags: ""
   - username: "vivre_la_patisserie"
     fullname: >-
       Agus Capelle🌷
+    bio: >-
+      Chef 🍰🧁 Pastelería, recetas y tips para crear en tu propia cocina✨ Recetas para guardar📔💗 #vivre_la_patisserie Tandil 🏠🇦🇷 Fotos 🙋🏻‍♀️
     location: "Argentina"
-    followers: 41626
-    engagement: 490
-    commentsToLikes: 0.130887
+    followers: 76229
+    engagement: 274
+    commentsToLikes: 0.046645
     id: ck8tdpptv4b8w0j789y9aoi51
     verified: false
-    hashtags: "#emprendedores, #panartesano, #labor, #amasar"
-  - username: "faccubulacio"
+    hashtags: "#coffee, #coffeetime, #postre, #torta"
+  - username: "lucasfuente"
     fullname: >-
-      F a 🎬 u
+      Lucas Fuente
+    bio: >-
+      Creador de @volverasamifactory Creador de @laobreria Tv Chef @canal4_uy Autor del libro “Simple” @planetadelibrosuy
     location: "Argentina"
-    followers: 15599
-    engagement: 229
-    commentsToLikes: 0.021513
-    id: ck6udu9yon6930j71qanxuyqo
+    followers: 58101
+    engagement: 256
+    commentsToLikes: 0.148709
+    id: ck0w1fsnjj4kk0i19qpjd9iok
     verified: false
-    hashtags: "#malemodel, #thinking, #magic, #roofshoot"
+    hashtags: ""
+  - username: "yaninablochpatissier"
+    fullname: >-
+      Yanina Bloch
+    bio: >-
+      Chef pastelera Clases grupales y personalizadas Consultoría y capacitación empresarial Chef Impulsora de Republica del Cacao y Valrhona
+    location: "Argentina"
+    followers: 71670
+    engagement: 237
+    commentsToLikes: 0.091125
+    id: ck5q1gs3rawp30i11md67zlho
+    verified: false
+    hashtags: "#minicake, #yaninabloch, #tarta, #joinlarepublicadelcacao"
   - username: "simonevillarc"
     fullname: >-
       sɪᴍᴏɴᴇ ᴠɪʟʟᴀʀ
+    bio: >-
+      Modelo Conductora de TV CAMPEONA FITNESS 2014 IFBB 🏅🇵🇾Chef👩‍🍳Conductora @nochedeshowpy @elgranshowpy @landerfitoficial #Bailarina
     location: "Argentina"
-    followers: 225999
-    engagement: 110
-    commentsToLikes: 0.019606
+    followers: 264968
+    engagement: 67
+    commentsToLikes: 0.016408
     id: ckap69v2pf0330i78rhhs1lzj
     verified: true
-    hashtags: "#motivacion, #love, #instagood, #quedateencasa"
-  - username: "gastonenria"
+    hashtags: "#verano, #art, #cute, #lunesdecolageno"
+  - username: "_simpleysaludable_"
     fullname: >-
-      𝗚𝗮𝘀𝘁𝗼́𝗻 𝗘𝗻𝗿𝗶𝗮 -𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗼 𝗩𝗶𝘀𝘂𝗮𝗹
+      Simple y Saludable
+    bio: >-
+      👨‍🍳Chef @juangdelbono 🥗Propietario @tagore.almacennatural 🥤Creador de @janabenatural 📩Contacto: simpleysaludablesj@gmail.com
     location: "Argentina"
-    followers: 29048
-    engagement: 320
-    commentsToLikes: 0.086917
-    id: ck5hcefyshn2z0i119xvw312g
+    followers: 63501
+    engagement: 179
+    commentsToLikes: 0.131383
+    id: ckap05fghotom0i78dd3r9v7z
     verified: false
-    hashtags: "#artistaadobe, #gintonic, #branding, #logotipo"
-  - username: "andregonzalezok"
-    fullname: >-
-      Andrea Gonzalez
-    location: "Argentina"
-    followers: 26290
-    engagement: 482
-    commentsToLikes: 0.056731
-    id: ck14lrl6nw55g0i1979us1x66
-    verified: false
-    hashtags: "#chocobai, #sweet, #frutales, #postre"
+    hashtags: "#cocinacasera, #postrescaseros, #ricota, #salmarina"
 ---

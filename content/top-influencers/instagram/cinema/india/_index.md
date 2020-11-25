@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In India In 2020
 description: >-
-  Find top cinema Instagram influencers in India in 2020. Most popular hashtags: #repost #happymothersday #cinematography #video.
+  Find top cinema Instagram influencers in India in 2020. Most popular hashtags: #photography #instagood #india #picoftheday.
 platform: Instagram
+hits: 909
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 909 Instagram influencers like this in India for you to connect with.
 profiles:
   - username: "lynncinema"
     fullname: >-
       Cinéma
+    bio: >-
+      One of the oldest cinema pages of instagram. You’ll find some personal reviews, facts, quotes and everything cinema-related.
     location: "India"
     followers: 124113
     engagement: 294
     commentsToLikes: 0.015809
     id: ck13440czulad0i19xnj7a4yv
     verified: false
-    hashtags: "#redweapon, #cameras, #camerasetup, #films"
+    hashtags: "#setlife, #spiritedaway, #redweapon, #animeart"
   - username: "chalta_firtaa"
     fullname: >-
       Chetan S Uike | NAGPUR📍
+    bio: >-
+      🛩️ Aerial Photographer | Cinematographer 🌎 Your world, My Perspective 📸 DM For Collabs & Paid shoots 📩 Chetanuk6@gmail.com 🎥 @uikefilms7
     location: "India"
-    followers: 6246
-    engagement: 1816
-    commentsToLikes: 0.082713
+    followers: 8051
+    engagement: 2076
+    commentsToLikes: 0.112352
     id: ck55lg1m01hdb0i11s28r5jew
     verified: false
-    hashtags: "#street, #dogsofinstagram, #pune, #35awards"
-  - username: "michawehbe"
+    hashtags: "#moodygrams, #shwetamalhotra03, #shotongopro, #kaminekalakar"
+  - username: "ashkan.hoorsun"
     fullname: >-
-      Michelle Wehbe  |   ميشال وهبه
+      اشكان هورسان🌀ASHKAN HOORSUN
+    bio: >-
+      #اشكان_هورسان Actor In Cinema,Tv&Teather Production Manager&Casting In Short Film جنگ،جنگ تا پيروزي؛حتي اگر سنگ هم از آسمان ببارد💪💪
     location: "India"
-    followers: 49365
-    engagement: 1022
-    commentsToLikes: 0.023243
-    id: ck5zy4mim98340i14xjb79guq
+    followers: 11649
+    engagement: 1329
+    commentsToLikes: 0.049786
+    id: ck60246cfgpcd0i145yia2tp7
     verified: false
-    hashtags: "#dalaa, #emotions, #iliveinmovies, #you"
-  - username: "_sunil_snk_sunil_"
+    hashtags: "#trophy, #cultfilm"
+  - username: "sabaizadpanah"
     fullname: >-
-      Sunil_Snk_Sunil_Fashion_Model✨
+      Saba Izadpanah | صبآ ایزدپناه
+    bio: >-
+      Tehran University of Art #Artist #actress #theatre #Researcher #cinema
     location: "India"
-    followers: 5701
-    engagement: 1284
-    commentsToLikes: 0.432675
-    id: ck8t78e3pfxrl0j78v9ipgun1
+    followers: 15307
+    engagement: 799
+    commentsToLikes: 0.062487
+    id: ck9wixl4j4dbq0j78oqe1d438
     verified: false
-    hashtags: "#classystyle, #fashionblogger, #influencer, #mensstyle"
+    hashtags: "#art, #artist, #theatre, #cinema"
+  - username: "wonder_kid__"
+    fullname: >-
+      ani mathew _ant of idukki
+    bio: >-
+      ഞാൻ ഇങ്ങനാണ് ഭായി!! Jesus said chill and I follow that 🤘 @de_roadrunners Idukkikkaran Kochi Uyir cinema 🎥 Biker Dreamer Party psy Fitnessfreak
+    location: "India"
+    followers: 4909
+    engagement: 2007
+    commentsToLikes: 0.058044
+    id: ckaoxiqdsdg120i78hmmxok3t
+    verified: false
+    hashtags: "#photography, #malayali, #sportsbike, #duke200"
+  - username: "miss_su_tales"
+    fullname: >-
+      Suvarna Benny
+    bio: >-
+      @key_a97 ✍️ Media Student📺🎥 Cinema💕 Music💕 Dance💕 Literature💕 Journalism💕 Nov 16🎂🥂
+    location: "India"
+    followers: 5885
+    engagement: 1064
+    commentsToLikes: 0.080377
+    id: ckap71zadialm0i78k96guz1r
+    verified: false
+    hashtags: "#art, #zodiacsigns, #photography, #relaxing"
   - username: "baka_pml"
     fullname: >-
       Bakhshish Singh | BAKA
+    bio: >-
+      🔻@prismmedialab 🎥 Cinematographer/Editor 👔 Entrepreneur 📽 Check Our Work ⬇
     location: "India"
-    followers: 5178
-    engagement: 1124
-    commentsToLikes: 0.074674
+    followers: 5283
+    engagement: 988
+    commentsToLikes: 0.078248
     id: ck6tte67ba4di0j713lrfszbb
     verified: false
-    hashtags: "#rajasthan, #punjabi, #decade, #scorpioseason"
+    hashtags: "#cinematographer, #streetstyle, #toronto, #pmltravels"
+  - username: "vink.photography"
+    fullname: >-
+      Vinay Kumar
+    bio: >-
+      A Seller of Vintage Moods. And Cinematic Reels. #Wevinked . Creative Visionary and Founder @KodeBlackCreative . Youtube channel at the link below ⬇️
+    location: "India"
+    followers: 23257
+    engagement: 568
+    commentsToLikes: 0.033205
+    id: ck14ih0j7fcpm0i197d3o1v3g
+    verified: false
+    hashtags: "#quarantineshoot, #blackandwhiteart, #cinematiclook, #keepkillingit"
   - username: "lavin_7513"
     fullname: >-
-      Pav Bhaji
+      Lavin
+    bio: >-
+      📢 Actor | Public Figure | Traveller , Cinema , Moviegeek !!!
     location: "India"
-    followers: 40494
-    engagement: 570
-    commentsToLikes: 0.031382
+    followers: 41536
+    engagement: 413
+    commentsToLikes: 0.032762
     id: ck0udvhwijwp90i19k5315n69
     verified: false
-    hashtags: "#homeworkout, #live, #livinginhome, #films"
-  - username: "bharath_kanth"
+    hashtags: "#actor, #actorslife, #quarantineandchill, #picoftheday"
+  - username: "samirahasanpur"
     fullname: >-
-      CRABS
+      Samira Hasanpour
+    bio: >-
+      Actor in cinema, television and theater
     location: "India"
-    followers: 38455
-    engagement: 1251
-    commentsToLikes: 0.013349
-    id: ck5c79e18737p0i11rl7rcboz
+    followers: 266961
+    engagement: 328
+    commentsToLikes: 0.020791
+    id: ck0w7aaencjix0i19mlyhpqg9
     verified: false
-    hashtags: "#white, #dancers, #cinematic, #missingyou"
-  - username: "joneskatru"
-    fullname: >-
-      Jones Katru
-    location: "India"
-    followers: 20313
-    engagement: 1300
-    commentsToLikes: 0.013346
-    id: ck14j3kcfigdt0i19xondw8to
-    verified: false
-    hashtags: "#yaradabeach, #repost, #mahathalli, #chilling"
-  - username: "stallone_the_greatest_legend"
-    fullname: >-
-      SYLVESTER😉👊💪STALLONE / Fanpage
-    location: "India"
-    followers: 18513
-    engagement: 1259
-    commentsToLikes: 0.013865
-    id: ck0w6bjon7shp0i19aql75ww3
-    verified: false
-    hashtags: "#celebritybhotos, #ivandrago, #beautifulactor, #hollywoodmodel"
-  - username: "roshni.prakash"
-    fullname: >-
-      Roshni Prakash
-    location: "India"
-    followers: 44727
-    engagement: 1097
-    commentsToLikes: 0.011783
-    id: ck0vvm9qnpqx30i190uaa127d
-    verified: false
-    hashtags: "#8yearsandhow, #bringingvishtogether, #quokka, #quarantinecravings"
+    hashtags: "#actress, #hbd, #saman, #samirahasanpour"
 ---

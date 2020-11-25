@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Medellín In 2020
 description: >-
-  Find top athletes Instagram influencers in Medellín in 2020. Most popular hashtags: #happiness #power #stayhome #love.
+  Find top athletes Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #fitness #colombia #love.
 platform: Instagram
+hits: 8
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
-  - username: "caro_toro"
+  - username: "orianavalenti89"
     fullname: >-
-      Carolina Toro Raigosa
+      Oriana Valenti | Dentist
+    bio: >-
+      ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
     location: "Colombia"
-    followers: 179998
-    engagement: 253
-    commentsToLikes: 0.015423
-    id: ck0w3tqyxv87p0i19cy9ozkrz
+    followers: 31551
+    engagement: 268
+    commentsToLikes: 0.051947
+    id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#yomequedoencasa, #stayhome, #tb"
-  - username: "kuhubhosle"
+    hashtags: "#poledance, #cuarentena, #itagui, #girls"
+  - username: "nataliafrancov"
     fullname: >-
-      Kuhu Bhosle
+      Natalia Franco Villegas
+    bio: >-
+      Medellín, Colombia 🇨🇴 Cyclist for @teamtwenty24 @gozwift 🚲 Soon 2B Mental Performance Consultant!🧠 naty-franco95@hotmail.com
     location: "Colombia"
-    followers: 7310
-    engagement: 874
-    commentsToLikes: 0.021578
-    id: ck6tsfsdk4isj0j71yy3w18e5
+    followers: 15350
+    engagement: 452
+    commentsToLikes: 0.024797
+    id: ck5cfv7nlnog70i11pvi71ey4
     verified: false
-    hashtags: "#womencrushwednesday, #rideordie, #love, #sheruclassiclatinamerica"
+    hashtags: "#athlos, #colombianpower, #outsideisfree, #weareamplified"
+  - username: "mariaclaraceballos89"
+    fullname: >-
+      Maria Clara Ceballos
+    bio: >-
+      Mamá de Vicente CrossFit Athlete 💼 @Soyhakuna 🔥@healthysportscolombia 🏋️‍♂️ @lycanfitnesscol 📧 mariaclaraceballos@gmail.com
+    location: "Colombia"
+    followers: 457574
+    engagement: 153
+    commentsToLikes: 0.012825
+    id: ck8sxh8y1hdyg0j78njfdve7w
+    verified: true
+    hashtags: "#cuarentena, #familiahakuna, #mariaclaraceballos, #vicentepalacioceballos"
+  - username: "davidgonzalez"
+    fullname: >-
+      David Gonzalez
+    bio: >-
+      SKATEBOARDER Athlete 🇨🇴 -> 🇺🇸 @rockstarenergy @globebrand @flipskateboards @independenttrucks
+    location: "Colombia"
+    followers: 605604
+    engagement: 162
+    commentsToLikes: 0.013668
+    id: ck0u93lz98uke0i19khys47hj
+    verified: true
+    hashtags: "#globeshoes, #ridethebest, #rockstarenergy, #rockstarenergydrink"
   - username: "yota_restrepo"
     fullname: >-
       Yonatan Restrepo
+    bio: >-
+      Co-owner and Head Coach en @NIFTYBOX Olympic weightlifter and Crossfitter 🏋3x CF regional athlete Coach Crossfit L1 Prof. en deporte Personal trainer
     location: "Colombia"
     followers: 27905
     engagement: 284
     commentsToLikes: 0.015865
     id: ck5znmtm1ore70i14b763p9gk
     verified: false
-    hashtags: "#snatch, #resistencia, #sdobrado, #mylegs"
+    hashtags: "#training, #enjoy, #yoentrenoencasa, #baby"
   - username: "bigjoseifbbpro"
     fullname: >-
       JOSE LUIS RODRIGUEZ OYOLA
+    bio: >-
+      🌍IFBB PRO @ifbb_pro_league 💪Menace team Athlete 💪🏾@bigdjames 🏆South American Champion 🇧🇷A.Classic Brasil 2014 Overall 🔬LANDERLAN @landerlanparaguay
     location: "Colombia"
     followers: 41026
     engagement: 165
     commentsToLikes: 0.029427
     id: ck5hrztlmvre90i11aj2tsice
     verified: false
-    hashtags: "#veins, #longhair, #repost, #salud"
-  - username: "kuhubhosle"
+    hashtags: "#jotapro, #sololosmejores, #tbt, #argimixpro"
+  - username: "danielrestrepogarcia"
     fullname: >-
-      Kuhu Bhosle
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+    bio: >-
+      Quiero transmitir mi filosofía olímpica 🇨🇴. Porque no solo se trata de ganar medallas, sino amistad, comprensión, y esfuerzo 🔜@tokyo2020 🎌
     location: "Colombia"
-    followers: 7310
-    engagement: 874
-    commentsToLikes: 0.021578
-    id: ck6tsfsdk4isj0j71yy3w18e5
+    followers: 10512
+    engagement: 1195
+    commentsToLikes: 0.012534
+    id: ck8sxy4w6j33z0j78bo5e1iqo
     verified: false
-    hashtags: "#womencrushwednesday, #rideordie, #love, #sheruclassiclatinamerica"
+    hashtags: "#me, #champion, #workout, #motivation"
+  - username: "miguelsquash"
+    fullname: >-
+      𝙈𝙄𝙂𝙐𝙀𝙇 𝘼𝙉𝙂𝙀𝙇 𝙍𝙊𝘿𝙍𝙄𝙂𝙐𝙀𝙕
+    bio: >-
+      📍 Colombian 🇨🇴 ⚫️ Professional Squash Player 🌎 World Top 10 🏆 British Open 2018 @sporadecolombia @tecnifibre @eyeracketsint @rowemotoroilofficial
+    location: "Colombia"
+    followers: 23732
+    engagement: 540
+    commentsToLikes: 0.013023
+    id: ck0w4iqi7yrg80i190ewn9hgk
+    verified: false
+    hashtags: "#911, #cairo, #miguelsquash, #bogota"
+  - username: "taneth.fit"
+    fullname: >-
+      Taneth Gimenez
+    bio: >-
+      DIOS todo ✝️ 🧩Proud Autism mom of 2 👧🏻👦🏻 🗣🇪🇸🇺🇸🇧🇷 🌟@bangenergy Elite 🐲@dragonpharma_llc Athlete 💟@jednorthwomen 👗@fashionnova AD
+    location: "Colombia"
+    followers: 1739559
+    engagement: 249
+    commentsToLikes: 0.022407
+    id: ck5c1098xu7230i11ee9zbtbu
+    verified: false
+    hashtags: "#workout, #bangrevolution, #motivation, #lovemybang"
   - username: "orianavalenti89"
     fullname: >-
       Oriana Valenti | Dentist
+    bio: >-
+      ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
     location: "Colombia"
-    followers: 31323
-    engagement: 322
-    commentsToLikes: 0.042083
+    followers: 31551
+    engagement: 268
+    commentsToLikes: 0.051947
     id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#gymnastics, #dentistgirl, #barcelona, #venezolana"
-  - username: "caro_toro"
-    fullname: >-
-      Carolina Toro Raigosa
-    location: "Colombia"
-    followers: 179998
-    engagement: 253
-    commentsToLikes: 0.015423
-    id: ck0w3tqyxv87p0i19cy9ozkrz
-    verified: false
-    hashtags: "#yomequedoencasa, #stayhome, #tb"
-  - username: "tatianaugirardi"
-    fullname: >-
-      Tatiana USSA GIRARDI
-    location: "Colombia"
-    followers: 1727380
-    engagement: 160
-    commentsToLikes: 0.011152
-    id: ck5znbvv9o5x70i143pee9whu
-    verified: true
-    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
-  - username: "londonotri"
-    fullname: >-
-      Eduardo Londoño Naranjo
-    location: "Colombia"
-    followers: 3194
-    engagement: 1496
-    commentsToLikes: 0.043627
-    id: ck5c0qpavtnxr0i11qtwulf91
-    verified: false
-    hashtags: "#specializedshivencartagena, #hermanoslondo, #bbvaresponsable, #deportistabbva"
-  - username: "danieladiez"
-    fullname: >-
-      Danii👑
-    location: "Colombia"
-    followers: 8027
-    engagement: 1105
-    commentsToLikes: 0.049720
-    id: ck8t2a6ieypcf0j784l1kegeh
-    verified: false
-    hashtags: "#bikinimodel, #monatskincare, #fitlife, #staysafe"
+    hashtags: "#poledance, #cuarentena, #itagui, #girls"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In San Francisco In 2020
 description: >-
-  Find top beauty TikTok influencers in San Francisco in 2020. Most popular hashtags: #beauty #sanfrancisco #makeup #littlethings.
+  Find top beauty TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #fyp #california #travel.
 platform: TikTok
+hits: 15
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 15 TikTok influencers like this in San Francisco, United States for you to work with.
 profiles:
+  - username: "wholeecow"
+    fullname: >-
+      WHOLeeCOW
+    bio: >-
+      whole-ecow.com All Natural Gourmet Beef & Vegan Jerky Handcrafted in Bay Area
+    location: "United States"
+    followers: 26000
+    engagement: 667
+    commentsToLikes: 0.015764
+    id: ck8nexkzgpaoq0j781bsvtyqa
+    verified: false
+    hashtags: "#4u, #wholeecow, #foryoupage, #jerky"
+  - username: "careerbabe"
+    fullname: >-
+      Cynthia Huang｜Career Advice✨
+    bio: >-
+      ⇧FOLLOW ME⇧ Marketing Manager CAREER | BUSINESS | COLLEGE Live: Thurs 8pm pst
+    location: "United States"
+    followers: 78500
+    engagement: 550
+    commentsToLikes: 0.037036
+    id: ckbf008u0le0h0j23ctr2nshm
+    verified: false
+    hashtags: "#inspiration, #tiktokfood, #inspirational, #relatable"
+  - username: "thebalabansf"
+    fullname: >-
+      Balaban
+    bio: >-
+      Welcome to my Tik Talk Sick play on words 👆🏼 San Francisco
+    location: "United States"
+    followers: 56800
+    engagement: 1456
+    commentsToLikes: 0.053959
+    id: ckbbci5931i3g0j23nj8hrqn1
+    verified: false
+    hashtags: "#dumptrump, #biden, #duet, #voteblue"
   - username: "whimsysoul"
     fullname: >-
-      ✨ Kara ✨
+      Whimsy Soul
+    bio: >-
+      just a Midwest gal who ran away to San Francisco
     location: "United States"
-    followers: 213658
-    engagement: 2524
-    commentsToLikes: 0.023060
+    followers: 233400
+    engagement: 1367
+    commentsToLikes: 0.023015
     id: ck84ma2klmmrn0j78282jzc4h
     verified: false
-    hashtags: "#gotthisforyou, #goldenhour, #adoption, #bohochic"
-  - username: "mslissy80"
+    hashtags: "#travel, #bigbearlake, #wine, #bayarea"
+  - username: "juliasinch23"
     fullname: >-
-      Melissa
+      Julia❤️
+    bio: >-
+      San Francisco, California Professional traveler 👣🧳🦅
     location: "United States"
-    followers: 9658
-    engagement: 1155
-    commentsToLikes: 0.179076
-    id: ckacw6dyrr17r0i78lfm63g6p
+    followers: 48900
+    engagement: 816
+    commentsToLikes: 0.057163
+    id: ck8fb1mhj52v40j78lohbfsaq
     verified: false
-    hashtags: "#cookinghacks, #blessedlife, #thanks, #showmeyourwalk"
-  - username: "jyo_shankar"
+    hashtags: "#travelblogger, #disney, #california, #halloween"
+  - username: "seeratsaini_"
     fullname: >-
-      Jyotsna Shankar
+      seeratsaini_
+    bio: >-
+      Punjabi 🇮🇳 X American 🇺🇸 Follow my IG: seeratsaini_ (for beauty & fashion)
     location: "United States"
-    followers: 8494
-    engagement: 642
-    commentsToLikes: 0.091457
-    id: ck8saa4l117bv0j78ade4z9vk
+    followers: 80600
+    engagement: 651
+    commentsToLikes: 0.022163
+    id: ck8hmxrpao86u0j78opaojyk3
     verified: false
-    hashtags: "#tiktokbeauty, #island, #cincodemayo, #fashioninspo"
-  - username: "nichole.ciotti"
+    hashtags: "#hairloss, #tiktok, #hairlossremedy, #india"
+  - username: "laurmallry"
     fullname: >-
-      Nichole Ciotti
+      laur
+    bio: >-
+      just enjoying life🤷🏼‍♀️ 19 • norcal ig: @laurmallry
     location: "United States"
-    followers: 496083
-    engagement: 736
-    commentsToLikes: 0.004675
-    id: ck7zorfqelgc50j78gkttwr7e
+    followers: 2767
+    engagement: 889
+    commentsToLikes: 0.029430
+    id: ckd6mut9oh2o70j23eqo4kjq8
     verified: false
-    hashtags: "#makeup, #jewelry, #style, #vlog"
-  - username: "historioso"
-    fullname: >-
-      Religion Boi
-    location: "United States"
-    followers: 177333
-    engagement: 993
-    commentsToLikes: 0.052258
-    id: ck8qhqhum632u0j78uva62iym
-    verified: false
-    hashtags: "#sami, #america, #espana, #thomasjefferson"
-  - username: "beautybychavonne"
-    fullname: >-
-      beautybychavonne
-    location: "United States"
-    followers: 5276
-    engagement: 353
-    commentsToLikes: 0.046365
-    id: ck8hmxf8go4uo0j78mlgwz3be
-    verified: false
-    hashtags: "#naturecheck, #glassskin, #facials, #bluehair"
+    hashtags: "#explore, #horsegirl, #boyfriend, #nature"
   - username: "hyphybabes"
     fullname: >-
       hyphyculture
+    bio: >-
+      Official Tiktok of HyphyBabes™️ BAY AREA CA. Glam | Fashion | Entertainment
     location: "United States"
-    followers: 13600
-    engagement: 586
-    commentsToLikes: 0.010526
+    followers: 16300
+    engagement: 549
+    commentsToLikes: 0.013585
     id: ck9fmcmcjsn170j781bb902si
     verified: false
-    hashtags: "#dance, #cutegirl, #bayareacheck, #tupac"
-  - username: "deepuma26"
-    fullname: >-
-      Dee Puma
-    location: "United States"
-    followers: 3395
-    engagement: 476
-    commentsToLikes: 0.028930
-    id: ck8hnfa0wqoai0j78t5c221wd
-    verified: false
-    hashtags: "#blindinglights, #ovni, #headligh, #anniversary"
-  - username: "tessplease"
-    fullname: >-
-      tessplease
-    location: "United States"
-    followers: 8925
-    engagement: 1118
-    commentsToLikes: 0.024884
-    id: ckai19oc1aw3k0i78tse8u2vk
-    verified: false
-    hashtags: "#storytime, #donuts, #mixedmedia, #toxic"
+    hashtags: "#hyphybabes, #sanfrancisco, #vallejo, #saweetie"
   - username: "jollygreen129"
     fullname: >-
       Brendan
+    bio: >-
+      Just a HH60 dude doing dude stuff
     location: "United States"
-    followers: 24462
-    engagement: 1259
-    commentsToLikes: 0.015628
+    followers: 28900
+    engagement: 1369
+    commentsToLikes: 0.015181
     id: cka0jre12jb230i78kl0jtyk0
     verified: false
-    hashtags: "#airforce, #callofduty, #aviation, #rescue"
+    hashtags: "#usaf, #helicopter, #keepingbusy, #military"
+  - username: "jahnadinh"
+    fullname: >-
+      JAHNA DINH
+    bio: >-
+      i like clothes n stuff
+    location: "United States"
+    followers: 31800
+    engagement: 1221
+    commentsToLikes: 0.020297
+    id: ck9857ob2rfvd0j7859vsfbn9
+    verified: false
+    hashtags: "#foryou, #style, #family, #couple"
 ---

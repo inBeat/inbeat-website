@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Singapore In 2020
 description: >-
-  Find top travel Instagram influencers in Singapore in 2020. Most popular hashtags: #sgunited #stayhomeforsg #staysafe #stayhome.
+  Find top travel Instagram influencers in Singapore in 2020. Most popular hashtags: #sgig #singapore #visitsingapore.
 platform: Instagram
+hits: 94
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 94 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "kennethseet"
+  - username: "travelinspiration360"
     fullname: >-
-      Kenneth Seet
+      Keith Yuen
+    bio: >-
+      🌏 Solo Traveler 🇸🇬 🛫 109 Countries 💻 Featured on Mediacorp TV, Radio, Newspaper, European Union , China Central TV & more... 👇🏻 Latest article
     location: "Singapore"
-    followers: 46086
-    engagement: 413
-    commentsToLikes: 0.039643
-    id: ck5hiz142fptd0i11ebg0lum6
+    followers: 38962
+    engagement: 203
+    commentsToLikes: 0.063196
+    id: ck136w0e68irj0i19fdi5vlyd
     verified: false
-    hashtags: "#abs, #sales, #sudio, #glutes"
+    hashtags: "#visitsingapore, #iluveu, #sailcation, #passionmadepossible"
   - username: "tylomere"
     fullname: >-
-      Tyler Koh 🌱
+      Tyler 🌱
+    bio: >-
+      Travel . Beauty . Lifestyle . Food #tylomeregreatescape 👷🏻 Physiotherapy student 💁🏻‍♂️TGY Finalist 📩 tylomere@yahoo.com.sg
     location: "Singapore"
-    followers: 19725
-    engagement: 686
-    commentsToLikes: 0.033101
+    followers: 20345
+    engagement: 398
+    commentsToLikes: 0.036206
     id: ck5cgzj3apu9c0i11ascv8ghh
     verified: false
-    hashtags: "#zalorasg, #thelittleprince, #mountbromo, #cottoncandyskies"
-  - username: "angeliqueteo"
+    hashtags: "#sp, #tylomeregreatescape, #partipost, #zinussg"
+  - username: "cpoyee"
     fullname: >-
-      Angelique Nicolette Teo
+      Poyee C | Content Creator
+    bio: >-
+      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO 📸新加坡Vlog Part 2 ⇩
     location: "Singapore"
-    followers: 18140
-    engagement: 659
-    commentsToLikes: 0.119655
-    id: ck5hnkcnnnxiw0i11iok283vh
+    followers: 19403
+    engagement: 403
+    commentsToLikes: 0.038067
+    id: ckaozf9h0lmlf0i78hys4dhue
     verified: false
-    hashtags: "#workhard, #celebrateyou, #earthhour2020, #solitude"
+    hashtags: "#poyeeslifestyle, #aroundtheworldwithdorsett, #sudiohk, #macfixplusvibes"
   - username: "shuutravels"
     fullname: >-
       Shu
+    bio: >-
+      💃 This Shu is made for walking (and dancing) 📍 Singapore 🌈 Travel colourfully
     location: "Singapore"
-    followers: 32743
-    engagement: 377
-    commentsToLikes: 0.051720
+    followers: 31534
+    engagement: 194
+    commentsToLikes: 0.035134
     id: ck138c7l7fiqz0i193nafgezj
     verified: false
-    hashtags: "#sgpaysitforward, #newspaperchallenge, #shuutravelsjp, #jbyjflower"
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw (程珮蕓)
-    location: "Singapore"
-    followers: 103365
-    engagement: 402
-    commentsToLikes: 0.023088
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#adidassg, #alphabounce, #ultraboost, #superdown"
-  - username: "willamazing"
-    fullname: >-
-      Willabelle Ong
-    location: "Singapore"
-    followers: 177154
-    engagement: 185
-    commentsToLikes: 0.026983
-    id: ck0tzltfnqtab0i191gu9eaqt
-    verified: true
-    hashtags: "#burberrysg, #babydior, #celinesg, #veryversace"
-  - username: "sharmila.logan"
-    fullname: >-
-      Sharmila Logan
-    location: "Singapore"
-    followers: 64931
-    engagement: 579
-    commentsToLikes: 0.009675
-    id: ck6ub2oth74c00j71nyzqq1tj
-    verified: false
-    hashtags: "#betterdaysarecoming, #velvetmattelipsticks, #smittenpr, #chantecaillesg"
+    hashtags: "#visitsingapore, #dressedinfayth, #vscosg, #sgig"
   - username: "craziben"
     fullname: >-
       Ben Siew 🇸🇬
+    bio: >-
+      Fitness | Food | Fashion | Travel 📬 Media/News: hello@craziben.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ 📩 Business: Sales@craziben.com ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀
     location: "Singapore"
-    followers: 29344
-    engagement: 360
-    commentsToLikes: 0.018651
+    followers: 28657
+    engagement: 379
+    commentsToLikes: 0.014217
     id: ck0w5dmvg34jj0i19bxuxh5no
     verified: false
-    hashtags: "#huatwithshopee, #sp, #lggram, #lggram17"
-  - username: "henrylawyh"
+    hashtags: "#gowalksmart, #savefnbsg, #lgtonefree, #neverstop"
+  - username: "sharmila.logan"
     fullname: >-
-      Henry 宇 恒
+      Sharmila Logan
+    bio: >-
+      Professional Makeup Artist ♍️ Owner of Mila Cosmetics®️ Singapore 🇸🇬🇮🇳 Traveller ✈️
     location: "Singapore"
-    followers: 12047
-    engagement: 822
-    commentsToLikes: 0.015128
-    id: ck5qd6typu3hj0i114qs6mdx5
+    followers: 65936
+    engagement: 351
+    commentsToLikes: 0.010084
+    id: ck6ub2oth74c00j71nyzqq1tj
     verified: false
-    hashtags: "#socialdistancing, #doggos, #foragoodcause, #taiga"
-  - username: "malenewaters"
+    hashtags: "#dobeautiful, #shiseidoprofessionalsg, #shiseidosg, #sublimicadenovital"
+  - username: "weiloongbrian"
     fullname: >-
-      M A L E N E | மா லி னி
+      Weiloongbrian | 伟龙
+    bio: >-
+      📻Radio DJ| Bilingual host| VO| Modelling| Acting 🎙UFM 100.3《下班Sing-a-Long》4-8PM Love sports, travel, music, fashion, happiness Wllow@sph.com.sg
     location: "Singapore"
-    followers: 26780
-    engagement: 408
-    commentsToLikes: 0.012645
-    id: ck136y1z38tmu0i19zs5hpsd1
+    followers: 11603
+    engagement: 641
+    commentsToLikes: 0.019693
+    id: ck138ds6ffqzj0i194wd3gepr
     verified: false
-    hashtags: "#malenewrites, #nenjilthunivirunthaal, #stayhomeforsg, #singaporeishome"
+    hashtags: "#blondehair, #wiwt, #outfitoftheday, #wlbrianootd"
+  - username: "denisekellerofficial"
+    fullname: >-
+      Denise Keller
+    bio: >-
+      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Under Armour Athlete Manduka Ambassador wellness@denisekeller.com
+    location: "Singapore"
+    followers: 55327
+    engagement: 257
+    commentsToLikes: 0.030596
+    id: ck0w5so1j58yz0i190lkimec3
+    verified: true
+    hashtags: "#yogaeverydamnday, #sgfashion, #yogapose, #fashionsg"
+  - username: "fionafussi"
+    fullname: >-
+      FIONA FUSSI 智欣
+    bio: >-
+      Austrian-Hongkie born in Singapore 🚀 modeling | acting | singing | travelling | training | eating 👤FB/YT: @fionafussi 📩contact@fionafussi.com 〰️
+    location: "Singapore"
+    followers: 141517
+    engagement: 228
+    commentsToLikes: 0.024279
+    id: ck15uj1rqneyp0i19v9m9hhk9
+    verified: true
+    hashtags: "#voguesingapore, #diorcapturetotale, #diorpartner, #adidassg"
+  - username: "awansauce"
+    fullname: >-
+      Alan Wan 溫家偉
+    bio: >-
+      Food lover | Fitness extraordinaire | Traveller | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
+    location: "Singapore"
+    followers: 79254
+    engagement: 237
+    commentsToLikes: 0.023193
+    id: ck5zveeg642tb0i14awwh1v4r
+    verified: true
+    hashtags: "#thecheatersapp, #sgfood, #manglacialessence, #beabea"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Berlin In 2020
 description: >-
-  Find top beauty TikTok influencers in Berlin in 2020. Most popular hashtags: #berlin #loredana #dance #shirindavid.
+  Find top beauty TikTok influencers in Berlin in 2020. Most popular hashtags: #foryou #berlin #beauty #fyp.
 platform: TikTok
+hits: 9
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "radiojamfm"
+  - username: "_amaya_beauty_ber"
     fullname: >-
-      JAM FM
+      _amaya_beauty_berlin
+    bio: >-
+      ▪️bbglow▪️lashes ▪️Microneedling ▪️Microblading ▪️Powderbrows ▪️Aquarelllips
     location: "Germany"
-    followers: 344031
-    engagement: 1759
-    commentsToLikes: 0.023791
-    id: ck8qej6jlsv2a0j78kdjkq363
+    followers: 17500
+    engagement: 275
+    commentsToLikes: 0.012371
+    id: ckbkop1puivmv0j23j1i9ovlz
+    verified: false
+    hashtags: "#shadow, #beauty, #yes, #feauterme"
+  - username: "melisa.alnkc"
+    fullname: >-
+      Melisa
+    bio: >-
+      17🏹 🇩🇪/🇹🇷 Snapchat: melisa6719
+    location: "Germany"
+    followers: 5384
+    engagement: 1371
+    commentsToLikes: 0.028506
+    id: ckbephft16dff0j23miyp5atv
+    verified: false
+    hashtags: "#fy, #edosaiya, #bestfriend, #fyp"
+  - username: "sophialuisa20"
+    fullname: >-
+      Sophia Luisa
+    bio: >-
+      Sophia 🌞 22 🌞 Munich, Germany Instagram: sophia_luisa
+    location: "Germany"
+    followers: 22200
+    engagement: 405
+    commentsToLikes: 0.018698
+    id: ckb99syycud6e0j23pkorctst
+    verified: false
+    hashtags: "#whatiwearfor, #germany, #fyp, #coronavirus"
+  - username: "lushdeutschland"
+    fullname: >-
+      LUSH Deutschland
+    bio: >-
+      Offizieller TikTok Account von Lush Deutschland Immer der Nase nach:
+    location: "Germany"
+    followers: 18900
+    engagement: 1592
+    commentsToLikes: 0.021591
+    id: ckbb6vkm2wwl80j23tcsjwa4s
+    verified: false
+    hashtags: "#whatthefact, #deo, #sommerferien, #teiledeinwissen"
+  - username: "sandra.winnik"
+    fullname: >-
+      Sandra
+    bio: >-
+      26 🤷🏻‍♀️ 🔥CEO of BERLIN🔥 🔥Instagram: sandramipw🔥
+    location: "Germany"
+    followers: 5020
+    engagement: 434
+    commentsToLikes: 0.072640
+    id: ckb8y2q6idaqf0j23kibkhr77
+    verified: false
+    hashtags: "#german, #fyp, #peopleofberlin, #mitte"
+  - username: "sophiasafiyaa"
+    fullname: >-
+      🕊   صوفيا
+    bio: >-
+      الحب الحقيقي يحمل 𝖻𝖺𝗌𝖾𝖽 𝗂𝗇 𝖡𝖾𝗋𝗅𝗂𝗇 Instagram-sophiasafiyaa
+    location: "Germany"
+    followers: 6007
+    engagement: 813
+    commentsToLikes: 0.026066
+    id: ckb99t0kjudcp0j23cajpbd1o
+    verified: false
+    hashtags: "#haul, #outfits, #berlin, #fyp"
+  - username: "aliciaawa"
+    fullname: >-
+      AliciaAwa
+    bio: >-
+      Singer🥰 instagram - aliciaawa ❤️
+    location: "Germany"
+    followers: 1200000
+    engagement: 1254
+    commentsToLikes: 0.007541
+    id: ckbl3hh4f0uv60j23r17hiooo
     verified: true
-    hashtags: "#quarant, #finchasozial, #alphabet, #schule"
-  - username: "laura.simon8"
-    fullname: >-
-      Laura Simon
-    location: "Germany"
-    followers: 52453
-    engagement: 1811
-    commentsToLikes: 0.033022
-    id: ck932ozdbkdyx0j78xa2xzoky
-    verified: false
-    hashtags: "#worldtravel, #vampirediaries, #stars, #dior"
-  - username: "nicolesto"
-    fullname: >-
-      Nicole Sto 🧿
-    location: "Germany"
-    followers: 1308229
-    engagement: 1341
-    commentsToLikes: 0.012390
-    id: ck81svhhxte600j78nd3ojij6
-    verified: true
-    hashtags: "#polishgirls, #kpop, #vorteile, #oceansapart"
-  - username: "laura.selinaaa"
-    fullname: >-
-      Laura Selina 
-    location: "Germany"
-    followers: 48658
-    engagement: 1365
-    commentsToLikes: 0.024979
-    id: ck8vuj1lxj15g0j78ettb6a2h
-    verified: false
-    hashtags: "#lashes, #hamburg, #insta, #shababsbotten"
-  - username: "louismast2.0"
-    fullname: >-
-      louismast2.0
-    location: "Germany"
-    followers: 107954
-    engagement: 1540
-    commentsToLikes: 0.007125
-    id: ck8w2kb2x5jsz0j78aj2lujvd
-    verified: false
-    hashtags: "#abfeiern, #maybegay, #upsi, #germany"
+    hashtags: "#foryou, #fyp, #comedy, #shuschneckewiegehs"
   - username: "masha"
     fullname: >-
       Masha 
+    bio: >-
+      Ich mag Mode, Sport und Politik. Klar geht das zusammen! 𝐼𝑛𝑠𝑡𝑎: @𝑚𝑎𝑠ℎ𝑎
     location: "Germany"
-    followers: 19644
-    engagement: 595
-    commentsToLikes: 0.016673
+    followers: 20500
+    engagement: 611
+    commentsToLikes: 0.017081
     id: ck9c08jbbo4500j785qcmh747
     verified: true
-    hashtags: "#happyathome, #quarantime, #myoutfit, #einrichtung"
-  - username: "isinordnung"
+    hashtags: "#vegan, #homeworkout, #workoutfromhome, #earthhour"
+  - username: "wilmargomez"
     fullname: >-
-      Isinordnung
+      Wilmar Gomez
+    bio: >-
+      
     location: "Germany"
-    followers: 4883
-    engagement: 476
-    commentsToLikes: 0.127680
-    id: cka0qzig5er8r0i78b9ovnls2
+    followers: 0
+    engagement: 657
+    commentsToLikes: 0.009048
+    id: ckdtktgfiyp1s0j231wa66rmw
     verified: false
-    hashtags: "#oldtimes, #magie, #ring, #skulptur"
-  - username: "webtalkshow"
+    hashtags: "#fun, #followme, #viral, #tango"
+  - username: "ijennyan"
     fullname: >-
-      webtalkshow
+      🌸 J E N 🌸
+    bio: >-
+      💖 𝐉𝐞𝐧 • 25 • 𝐋𝐞𝐢𝐩𝐳𝐢𝐠 💖 💕 Comedy | Realtalk | Motivation | Beauty 💕
     location: "Germany"
-    followers: 2650
-    engagement: 273
-    commentsToLikes: 0.033820
-    id: ck9m59v27kzar0j78i819vn6y
-    verified: false
-    hashtags: "#noangels, #treptow, #fabiankahl, #happyathome"
-  - username: "nele_chiara_"
-    fullname: >-
-      Nele & Chiara💘
-    location: "Germany"
-    followers: 2052
-    engagement: 2058
-    commentsToLikes: 0.119193
-    id: cka884oq39py50i78kktalk22
-    verified: false
-    hashtags: "#positive, #dardan, #bonez, #sxtn"
-  - username: "gamanderlopez"
-    fullname: >-
-      Gamander López
-    location: "Germany"
-    followers: 164142
-    engagement: 1991
-    commentsToLikes: 0.024980
-    id: ck9go7xfkzyyh0j78m4rnd4sa
-    verified: false
-    hashtags: "#iloveyoubaby, #artistcheck, #woods, #photograhy"
+    followers: 727700
+    engagement: 1621
+    commentsToLikes: 0.021885
+    id: ck99a2i6sfqg70j781vh0svbj
+    verified: true
+    hashtags: "#twitch, #makeup, #anime, #streamer"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Italy In 2020
 description: >-
-  Find top chefs Instagram influencers in Italy in 2020. Most popular hashtags: #andr #happy #rome #outfitoftheday.
+  Find top chefs Instagram influencers in Italy in 2020. Most popular hashtags: #foodporn #chef #adv.
 platform: Instagram
+hits: 363
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 363 Instagram influencers like this in Italy for you to work with.
 profiles:
+  - username: "knowpmw"
+    fullname: >-
+      💘⚡️🦋KNOWPMW🏋🏿‍♂️
+    bio: >-
+      BAMBINO NEGRO . ON GAS 🥩CHEF PMW TEE🍳 Acquista ora:
+    location: "Italy"
+    followers: 22291
+    engagement: 1899
+    commentsToLikes: 0.127427
+    id: ck1393ujijdq90i195l7v5311
+    verified: false
+    hashtags: ""
   - username: "giulialoscodalcollo"
     fullname: >-
       Giulia Losco Dal Collo
+    bio: >-
+      RIDE OR DIE #67 👊✊ braaap life 🇮🇹 Italy, Vicenza. 🎂 6 Luglio 2000 🍪 pastry chef 🔴 YT: 👇👇👇
     location: "Italy"
-    followers: 36521
-    engagement: 2189
-    commentsToLikes: 0.028616
+    followers: 35411
+    engagement: 1862
+    commentsToLikes: 0.028363
     id: ck600t3oze8080i14cit5ojk3
     verified: false
-    hashtags: "#quarantineandchill, #andr, #ocean, #quarantenachallenge"
-  - username: "notordinarychef"
-    fullname: >-
-      Roberto Valbuzzi
-    location: "Italy"
-    followers: 445914
-    engagement: 689
-    commentsToLikes: 0.016938
-    id: ck6tntyorakfq0j7144oq7l37
-    verified: true
-    hashtags: "#birretta, #trainyourtaste, #mesedellaleishmaniosi, #organicfarm"
+    hashtags: "#bike, #instamoto, #bikersofinstagram, #wmbootcamp"
   - username: "mattia_trani.official"
     fullname: >-
-      ᴍᴀᴛᴛɪᴀ ᴛʀᴀɴɪ
+      𝕄𝔸𝕋𝕋𝕀𝔸 𝕋R𝔸N𝕀
+    bio: >-
+      Famous Italian Techno Chef🇮🇹 Label Head of @pushmasterdiscs 💽 My new track “Quasistar” for @ninakraviz “Hot Steel vol.2”OUT NOW on трип Recordings ⬇️⏬
     location: "Italy"
-    followers: 30960
-    engagement: 361
-    commentsToLikes: 0.069890
+    followers: 31143
+    engagement: 311
+    commentsToLikes: 0.086458
     id: ck5qc5i62oydr0i11q1h3y2hc
     verified: true
-    hashtags: "#145bpm, #khidi, #tbilisi, #happy"
-  - username: "marcorissa"
+    hashtags: "#music, #djlife, #techno, #mattiatrani"
+  - username: "simonerugiati"
     fullname: >-
-      Marco RISSA!
+      Simone Rugiati
+    bio: >-
+      Italian Chef TV presenter Activist • Per collaborazioni: info@foodloft.it @foodloftmilano
     location: "Italy"
-    followers: 30925
-    engagement: 1898
-    commentsToLikes: 0.030275
-    id: ck0vvq0sdq8rg0i19pyxgzw4q
-    verified: false
-    hashtags: "#roma, #palacalafiore, #gibsonkebmo, #rome"
-  - username: "le_torte_di_renato"
-    fullname: >-
-      Renato Ardovino
-    location: "Italy"
-    followers: 366397
-    engagement: 274
-    commentsToLikes: 0.051971
-    id: ck6u6uf7ahsa70j71hwe1oqon
+    followers: 507980
+    engagement: 198
+    commentsToLikes: 0.043209
+    id: ck55opzoy8vlr0i11ydxtbms9
     verified: true
-    hashtags: "#andratuttobene, #pinupcake, #fruttidibosco, #cakedecorating"
-  - username: "alfio_rrotani"
-    fullname: >-
-      ALFIO RROTANI
-    location: "Italy"
-    followers: 42491
-    engagement: 798
-    commentsToLikes: 0.022310
-    id: ck6tlxzxy6ube0j7138cfveei
-    verified: true
-    hashtags: "#nofilter, #barbeque"
-  - username: "alessandracivilla"
-    fullname: >-
-      Alessandra
-    location: "Italy"
-    followers: 5913
-    engagement: 1806
-    commentsToLikes: 0.026833
-    id: ckaoxp4iye72n0i78woup79bn
-    verified: false
-    hashtags: "#smilealways, #todaymood, #tattoogirl, #myspecialplace"
+    hashtags: "#orata, #foodpornitaly, #foodporn, #nobelpeaceprize"
   - username: "monafstevens"
     fullname: >-
-      Mona Francesca Stevens
+      Mona Francesca | Pastry Chef
+    bio: >-
+      Patisserie Chef Model Zambian / Italian 🇿🇲🇮🇹 📍Amsterdam / Johannesburg 100% Hustle 0% Luck
     location: "Italy"
-    followers: 21103
-    engagement: 1527
-    commentsToLikes: 0.040473
+    followers: 20854
+    engagement: 778
+    commentsToLikes: 0.076928
     id: ck6tn9akw9dyt0j71latc7l3k
     verified: false
-    hashtags: "#zambiannaturals, #curlyblondehair, #curlyculture, #curlyblondes"
+    hashtags: "#scarlethillbeauty, #scarlethillbeautylaunch"
+  - username: "simofit_xw"
+    fullname: >-
+      Simona Bartolini | FITNESS
+    bio: >-
+      Allenamento Femminile e Dolci Fit 𝑀𝑒𝑔𝓁𝒾𝑜 𝓊𝓃𝒶 𝓋𝑒𝓇𝒾𝓉à 𝒸𝒽𝑒 𝒻𝑒𝓇𝒾𝓈𝒸𝑒 𝒹𝒾 𝓊𝓃𝒶 𝒷𝓊𝑔𝒾𝒶 𝒹𝒾 𝒸𝑜𝓂𝑜𝒹𝑜 XWoman Coach®️Chef Model @xwoman_nutrition -10% XWPRO119
+    location: "Italy"
+    followers: 13773
+    engagement: 352
+    commentsToLikes: 0.071804
+    id: ckaparbigx67u0i78bu1khe1b
+    verified: false
+    hashtags: "#dimagrire, #palestra, #blondiegirls, #mangiaresano"
+  - username: "frauknam"
+    fullname: >-
+      Frau Knam
+    bio: >-
+      Food blogger, Manager e Apprendista pasticcera. Il mio Maestro? Chef @ernstknam 👇🏻 Scopri il mio sito web 👇🏻
+    location: "Italy"
+    followers: 57660
+    engagement: 367
+    commentsToLikes: 0.021386
+    id: ck9wddz2xf7qd0j786k759iuw
+    verified: false
+    hashtags: "#yummy, #pastry, #instacake, #frauknam"
+  - username: "chiaracarcano"
+    fullname: >-
+      Chiara Carcano
+    bio: >-
+      GOOD VIBES INFLUENCER 😝 📩 chiara.carcano@newco-mgmt.com 🎓 Management 🎥 #cosifantutte3 📺 @cepostaperteufficiale @chefsavethefood 🎙💕 #30anniin1secondo
+    location: "Italy"
+    followers: 441886
+    engagement: 341
+    commentsToLikes: 0.008772
+    id: ck0vzejn18pu30i19wed8s5bv
+    verified: true
+    hashtags: "#zonarossa, #cosifantutte3, #kikibday, #milano"
   - username: "chefdiiorio"
     fullname: >-
       Chef Giuseppe Di Iorio
+    bio: >-
+      1 ⭐️ Michelin Executive Chef @aroma_restaurant - @palazzomanfredi Relais & Chateaux #Roma 🇮🇹
     location: "Italy"
-    followers: 21990
-    engagement: 390
-    commentsToLikes: 0.048182
+    followers: 22707
+    engagement: 235
+    commentsToLikes: 0.040098
     id: ck0u1lmoox5oy0i19kdugigto
     verified: false
-    hashtags: "#sslazio1900, #cantante, #pranzodamamma, #photographer"
-  - username: "simonetta_sommaruga"
+    hashtags: "#italianrestaurant, #work, #gamberorosso, #ottobre"
+  - username: "notordinarychef"
     fullname: >-
-      Simonetta Sommaruga
+      Roberto Valbuzzi
+    bio: >-
+      Varese,1.07.89 👨🏻‍🍳Owner and chef @crotto_valtellina 🥖Owner @laboratoriovalbuzzi 🍾@notordinarycatering ®️ 🍝Founder Oltregusto 📺#cortesiepergliospiti
     location: "Italy"
-    followers: 18284
-    engagement: 494
-    commentsToLikes: 0.026178
-    id: ck9wd4tu6e2fq0j78clqepp9y
-    verified: false
-    hashtags: "#lohngleichheit, #giornatadellabiodiversit, #coronainfoch, #wirbleibenzuhause"
+    followers: 521040
+    engagement: 497
+    commentsToLikes: 0.012064
+    id: ck6tntyorakfq0j7144oq7l37
+    verified: true
+    hashtags: "#cortesiepergliospiti, #chef, #adv, #valbuzzifarm"
 ---

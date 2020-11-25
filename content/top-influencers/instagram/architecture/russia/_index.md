@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Russia In 2020
 description: >-
-  Find top architecture Instagram influencers in Russia in 2020. Most popular hashtags: #landscape #sovietmosaic #brutgroup #photography.
+  Find top architecture Instagram influencers in Russia in 2020. Most popular hashtags: #architecture #photography #architecturephotography.
 platform: Instagram
+hits: 172
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 172 Instagram influencers like this in Russia for you to contact.
 profiles:
   - username: "kamillahanapova"
     fullname: >-
       Photographer/Collage Artist
+    bio: >-
+      @hasselblad Master 📍Saint-Petersburg/Moscow/Maykop 🔗 beauty, album covers, collages, architecture,retouch Personal @kamilla_hanapova portfolio📌
     location: "Russia"
-    followers: 18856
-    engagement: 504
-    commentsToLikes: 0.026565
+    followers: 22937
+    engagement: 815
+    commentsToLikes: 0.014961
     id: ck0u0e4uttj0r0i19kgezrncw
     verified: false
-    hashtags: "#canonru, #collagecollective, #thetaxcollection, #v93oo"
+    hashtags: ""
   - username: "nukeproofsuit"
     fullname: >-
       
+    bio: >-
+      🗺 Director of Architecture ⠀⠀⠀⠀⠀⠀ 🏢 #chasingstraightfacades 📬 nukeproofsuitIG@gmail.com 🎭 ArchDaily Top Inspirational Feed to Follow👇🏼
     location: "Russia"
-    followers: 23052
-    engagement: 356
-    commentsToLikes: 0.072166
+    followers: 22895
+    engagement: 342
+    commentsToLikes: 0.073359
     id: ck15t1pjnfwml0i192b0xj1n2
     verified: false
-    hashtags: "#reflectiongram, #artofvisuals, #flattenthecurve, #toneception"
-  - username: "sokolovvvaa"
-    fullname: >-
-      🦊R e g i n a🦊
-    location: "Russia"
-    followers: 5527
-    engagement: 1042
-    commentsToLikes: 0.028147
-    id: ckap0270loe7d0i78542xsmwx
-    verified: false
-    hashtags: ""
-  - username: "madebyvadim"
-    fullname: >-
-      Vadim Sherbakov
-    location: "Russia"
-    followers: 29917
-    engagement: 433
-    commentsToLikes: 0.041933
-    id: ck0u9obicacp20i19nbrq6x5o
-    verified: false
-    hashtags: "#dronepilot, #nature, #drone, #drones"
+    hashtags: "#archi, #sdmfeatures, #architecturephotography, #architecture"
   - username: "northern.friend"
     fullname: >-
       Arseniy Kotov
+    bio: >-
+      ☭ Architecture and life in post-soviet world ✉ DM for ad/collab/partnership 💌 @galleriartsight for prints
     location: "Russia"
-    followers: 98508
-    engagement: 773
-    commentsToLikes: 0.008014
+    followers: 152814
+    engagement: 834
+    commentsToLikes: 0.007358
     id: ck0uawwyidbij0i195coapz6g
     verified: false
-    hashtags: "#transdniestria, #darktourism, #ussr, #chernobyl"
-  - username: "trafartstickers"
+    hashtags: ""
+  - username: "meau"
     fullname: >-
-      Георгий
+      Meau | Minimal
+    bio: >-
+      Architecture, minimalism & Eastern Europe ⠀ You can see more @meau at @seemoremeau
     location: "Russia"
-    followers: 5405
-    engagement: 1430
-    commentsToLikes: 0.017595
-    id: ck9hbghlogqgl0j787s5s9qdh
+    followers: 6114
+    engagement: 975
+    commentsToLikes: 0.036530
+    id: ck9wd49mze0170j784h1fuoho
     verified: false
-    hashtags: "#cloudscapes, #oldchurches, #nikonrussia, #moscowstreets"
-  - username: "beton.7"
+    hashtags: "#ffa"
+  - username: "sokolovvvaa"
     fullname: >-
-      Beton.7
+      🦊
+    bio: >-
+      21 y.o 💄| 👩🏽‍🎓Student St.Petersburg State University of Architecture and Civil Engineering💁🏽Departament of Economic...SPBGASU
     location: "Russia"
-    followers: 8739
-    engagement: 868
-    commentsToLikes: 0.021859
-    id: ck8tb5ltpudo30j78odxm6djj
+    followers: 5361
+    engagement: 818
+    commentsToLikes: 0.019157
+    id: ckap0270loe7d0i78542xsmwx
     verified: false
-    hashtags: "#firenzepeople, #arttowers, #archsoviet, #revolutionsquaremetrostation"
+    hashtags: "#21"
   - username: "xenia_klassen"
     fullname: >-
       Xenia Klassen
+    bio: >-
+      | ARCHITECTURE • & • URBAN SKETCHING | | Tomsk • Russia |
     location: "Russia"
-    followers: 15053
-    engagement: 807
-    commentsToLikes: 0.013602
+    followers: 14691
+    engagement: 826
+    commentsToLikes: 0.015869
     id: ck0tyw9qsobvw0i19ckudfq3h
     verified: false
-    hashtags: "#portugal, #valenca, #archistudents, #goldfinch"
-  - username: "aysyluuu"
+    hashtags: "#archisketcher, #urbansketch, #urbansketchers, #architecture"
+  - username: "erfan.agazadeh.1997"
     fullname: >-
-      Айсылу Зарипова
+      💲  PAPANIN GUL BALASI 💲
+    bio: >-
+      iyi ki sevmişim seni e ❤ . ❄1376/10/05 . 🏛uni_azad . 📐architecture . 🥊 kickboxing
     location: "Russia"
-    followers: 40260
-    engagement: 587
-    commentsToLikes: 0.005751
-    id: ck6u7aamtkcq20j71fue94eqf
+    followers: 21767
+    engagement: 301
+    commentsToLikes: 0.069651
+    id: ck8t1kfq4w3zj0j78yezcgpm6
     verified: false
-    hashtags: "#3dfedor, #visualisation, #coronarender, #3dsmaxcorona"
+    hashtags: "#gangboy, #photography, #gangster, #zona"
+  - username: "madebyvadim"
+    fullname: >-
+      Vadim Sherbakov
+    bio: >-
+      🎥 Award winning aerial videographer 📸 Architecture & cityscape photographer 🎞 Work featured in HBO • Netflix • Showtime • DJI • Irix• PolarPro New 🎥↓
+    location: "Russia"
+    followers: 30392
+    engagement: 399
+    commentsToLikes: 0.042267
+    id: ck0u9obicacp20i19nbrq6x5o
+    verified: false
+    hashtags: "#liveinterview, #travel, #landscapephotography, #interview"
+  - username: "trafartstickers"
+    fullname: >-
+      Георгий
+    bio: >-
+      🌑 George. 1️⃣9️⃣ y. o. 📷 Take pictures.🔦 Urban explorer. ✏️ Studying architecture.📝 Writing & Poetry.
+    location: "Russia"
+    followers: 5185
+    engagement: 1263
+    commentsToLikes: 0.016201
+    id: ck9hbghlogqgl0j787s5s9qdh
+    verified: false
+    hashtags: "#msk, #moscowmoscow, #loves, #beautifuldestinations"
   - username: "think.differrent"
     fullname: >-
       Vlad Vinogradov
+    bio: >-
+      #Travels #Urbex #Architecture 🏠Russia, Samara 🚷Есть много других мест
     location: "Russia"
-    followers: 6201
-    engagement: 665
-    commentsToLikes: 0.036103
+    followers: 6233
+    engagement: 674
+    commentsToLikes: 0.034424
     id: ck14goxdq6bad0i199wcx9vrl
     verified: false
-    hashtags: "#urbexphoto, #bandorebelz, #sovietmosaic, #sovmod"
+    hashtags: "#sovietarchitecture, #abandoned, #nyc, #socialistmodernism"
 ---

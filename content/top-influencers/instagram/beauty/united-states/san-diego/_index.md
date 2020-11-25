@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In San Diego In 2020
 description: >-
-  Find top beauty Instagram influencers in San Diego in 2020. Most popular hashtags: #beauty #sandiego #selfcare #health.
+  Find top beauty Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #beauty #losangeles #travel.
 platform: Instagram
+hits: 156
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 156 Instagram influencers like this in San Diego, United States for you to connect with.
 profiles:
   - username: "erica_shawty"
     fullname: >-
       erica shutty
+    bio: >-
+      Food ﹒Travel ﹒Fashion ﹒Beauty San Diego, CA﹒ Fohr Verified shawtyerica@gmail.com
     location: "United States"
-    followers: 10743
-    engagement: 773
-    commentsToLikes: 0.128362
+    followers: 15236
+    engagement: 841
+    commentsToLikes: 0.128748
     id: ck9hc8fb1k89h0j78pvrujhbh
     verified: false
-    hashtags: "#ad, #thisiskirei, #mykireimoments"
+    hashtags: "#ad, #thecassaraexperience, #visitcarlsbad, #nerdscandyatkroger"
+  - username: "etoosaucy_"
+    fullname: >-
+      Erika Padilla
+    bio: >-
+      5’4 spicy mami🥀 CEO @sauceduplashes 💕
+    location: "United States"
+    followers: 8941
+    engagement: 1342
+    commentsToLikes: 0.013399
+    id: ckapc8a702sts0i78xjo4ict4
+    verified: false
+    hashtags: "#cargram, #disfruta, #explorepage, #cartheory"
+  - username: "johanaflo"
+    fullname: >-
+      Johana Flo
+    bio: >-
+      🥇 #ChristAmbassador 🗣johanaflo.ps@gmail.com 🎤 @wrshpmvmnt 🍋 @limonysalcreatives 🧸 @daniel_domm 👩‍👦‍👦 @callmetato Andy #fashionblogger #latinablogger
+    location: "United States"
+    followers: 18514
+    engagement: 563
+    commentsToLikes: 0.024558
+    id: ckap7rdall86n0i78n6909awj
+    verified: false
+    hashtags: "#fashioninspo, #styleinspo, #outfitinspiration, #bloggermom"
+  - username: "iambellaangelina"
+    fullname: >-
+      βΣLLΔ Δ₦GΣLI₦Δ 👑💅🏽🤑
+    bio: >-
+      always working🤍🇲🇽 Cali is my playground☀️ for booking info contact @bossman_kush Love bikinis? shop @bellaandbubbly Weed trays > BellaAndBubbly.com
+    location: "United States"
+    followers: 11080
+    engagement: 592
+    commentsToLikes: 0.043561
+    id: ckf5olp1z2sbq0j23ojyfn577
+    verified: false
+    hashtags: "#photooftheday, #model, #2020, #losangeles"
   - username: "kortneys_life"
     fullname: >-
-      Kortney | OOTD Life
+      Kortney | OOTD
+    bio: >-
+      please bear with me as i figure out my life. ☓ style + life + beauty ☓ san diego, ca
     location: "United States"
-    followers: 48486
-    engagement: 204
-    commentsToLikes: 0.061569
+    followers: 44886
+    engagement: 150
+    commentsToLikes: 0.064016
     id: ck14kxgbnrt2w0i19sj5y2rom
     verified: false
-    hashtags: "#strictlydecor, #itsmybirthday, #supportsmallbusiness"
-  - username: "dasjiaj"
+    hashtags: ""
+  - username: "stati.uniti.ontheroad"
     fullname: >-
-      𝔇𝔞𝔰’𝔍𝔦𝔞 𝔍𝔞𝔷𝔞𝔪𝔶𝔫 🔮
+      Stati Uniti On The Road | 🇺🇸🗽🌇
+    bio: >-
+      🇺🇸 USA On The Road 🇺🇸 seguici su Facebook! https://www.facebook.com/statiunitiamerica/
     location: "United States"
-    followers: 17972
-    engagement: 568
-    commentsToLikes: 0.039816
-    id: ck6uhd7cy8g200j717hlywldi
+    followers: 13698
+    engagement: 1141
+    commentsToLikes: 0.010216
+    id: ck14l5exgsy240i198nyg5r1d
     verified: false
-    hashtags: "#beauty, #sandiegohairstylist, #makeup, #losangelesmakeupartist"
-  - username: "amberpfister_"
+    hashtags: "#bhfyp, #florida, #autumn, #socal"
+  - username: "elieraadelie"
     fullname: >-
-      Amber Mesker Pfister
+      Elie Raad /Alen Raad
+    bio: >-
+      Owner of : Elie Raad beauty salon &spa -Celebrity makeup artist & hair dresser Based in Cali 6197292237 /6197295180
     location: "United States"
-    followers: 2339
-    engagement: 960
-    commentsToLikes: 0.073813
-    id: ck0vycv293cp60i194dtvxi7o
+    followers: 34206
+    engagement: 173
+    commentsToLikes: 0.039342
+    id: ck6tq3cf8p5e40j710w4f5hg2
     verified: false
-    hashtags: "#lifestyle, #kauai, #napalicoast, #bluespeedo"
-  - username: "two_platez"
+    hashtags: "#kimkardashian, #kyliejenner, #cateyemakeup, #cateye"
+  - username: "thealsayadifamily"
     fullname: >-
-      TWO_PLATEZ
+      The Alsayadi Family
+    bio: >-
+      Danika 🇺🇸👸🏻 Ahmed 🇸🇦🧔🏽 Baby Mohamed 👦🏻 📧Business: alsayadifamily@gmail.com Watch our new YouTube video!👇🏼
     location: "United States"
-    followers: 16077
-    engagement: 359
-    commentsToLikes: 0.218803
-    id: ck5c1q6gpvp7a0i1111wtiol6
+    followers: 44942
+    engagement: 499
+    commentsToLikes: 0.019960
+    id: ck8t473o15q5a0j78s1j2v6zy
     verified: false
-    hashtags: "#thaifood, #greatamericantakeout, #foodvlogger, #foodblogger"
-  - username: "organicoracle"
-    fullname: >-
-      Jeannine - Organic Oracle
-    location: "United States"
-    followers: 39725
-    engagement: 248
-    commentsToLikes: 0.172054
-    id: ck6u7nxmtmn300j719ran25gm
-    verified: false
-    hashtags: "#texturetuesday, #theoillab, #selfcaresaturday, #selfcaresanday"
-  - username: "jennwoehrle"
-    fullname: >-
-      Jenn Woehrle ✨
-    location: "United States"
-    followers: 9691
-    engagement: 740
-    commentsToLikes: 0.038832
-    id: ck8wczz9sd8er0j78y3bqw7sf
-    verified: false
-    hashtags: "#famous, #momsofinstagram, #glowingskin, #international"
+    hashtags: "#saudi, #saudis, #babyfever, #love"
   - username: "coffeewithjohanna"
     fullname: >-
       Johanna Hamilton ✨
+    bio: >-
+      Coffee with Johanna ☕️ | Beauty & Lifestyle 📍San Diego, CA ✉️ coffeewithjohanna@gmail.com 💻 www.coffeewithjohanna.com
     location: "United States"
-    followers: 156800
-    engagement: 79
-    commentsToLikes: 0.054944
+    followers: 146637
+    engagement: 72
+    commentsToLikes: 0.044226
     id: ck0ttz5zs4ygl0i19hhap81f8
     verified: false
-    hashtags: "#yomequedoencasa, #ootd, #marriedlife, #springtime"
+    hashtags: "#revolvesummer, #coffeeaesthetic, #revolveme, #falldecor"
   - username: "allixreyes"
     fullname: >-
       Allizeth Reyes
+    bio: >-
+      ✨ San Diego Beauty Artist ✂️ Salon Owner @a_squared_studio #2 🎓 Grad @pmtssd 222🤍
     location: "United States"
-    followers: 8212
-    engagement: 699
-    commentsToLikes: 0.025576
+    followers: 7901
+    engagement: 832
+    commentsToLikes: 0.023158
     id: ckap8rqevpkvm0i788yrj3q1r
     verified: false
-    hashtags: "#222, #newbeginnings"
-  - username: "madison89miller"
-    fullname: >-
-      Madison Miller
-    location: "United States"
-    followers: 118333
-    engagement: 246
-    commentsToLikes: 0.040713
-    id: ck5znutixp70q0i147n0jtgm5
-    verified: false
-    hashtags: "#waterbaby, #makeuplover, #tiedye, #granddelmar"
+    hashtags: "#sandiego, #hairtransformation, #colorcorrection, #asquaredstudio"
 ---

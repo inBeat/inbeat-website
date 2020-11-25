@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Australia In 2020
 description: >-
-  Find top cinema Instagram influencers in Australia in 2020. Most popular hashtags: #colorgrading #filmmaking #sunset #surf.
+  Find top cinema Instagram influencers in Australia in 2020. Most popular hashtags: #passionpassport #voyaged #hellofrom.
 platform: Instagram
+hits: 109
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 109 Instagram influencers like this in Australia for you to pitch.
 profiles:
   - username: "mandywalkerdp"
     fullname: >-
       Mandy Walker
+    bio: >-
+      ASC, ACS Cinematographer
     location: "Australia"
-    followers: 9575
-    engagement: 737
-    commentsToLikes: 0.061094
+    followers: 13448
+    engagement: 722
+    commentsToLikes: 0.051760
     id: ck5pws5m1obpb0i11wdijol1d
     verified: false
-    hashtags: "#panavisionwoodlandhills, #kodak, #kodakmotionpicturefilm, #kodakshootfilm"
+    hashtags: "#nytimes, #takeflight, #virtualreality, #mulan"
   - username: "zoewhite"
     fullname: >-
       Zoë White ACS
+    bio: >-
+      Cinematographer
     location: "Australia"
-    followers: 18989
-    engagement: 884
-    commentsToLikes: 0.021807
+    followers: 18818
+    engagement: 758
+    commentsToLikes: 0.019009
     id: ck0u0hzs9trod0i19d0or4q36
     verified: false
-    hashtags: "#scottmorrison, #dontletfreelancersfallthroughthecracks, #noworkerleftbehind, #wagesubsidyforall"
-  - username: "markhobz"
+    hashtags: "#noworkerleftbehind, #whoisinyourcrew, #daremetv, #hulufyc"
+  - username: "oztavio"
     fullname: >-
-      Mark Hobz
+      Octavio Arias
+    bio: >-
+      www.octavioarias.com Cinematographer
     location: "Australia"
-    followers: 13083
-    engagement: 944
-    commentsToLikes: 0.028180
-    id: ck5hgror14e330i113uhcuy30
+    followers: 3985
+    engagement: 1449
+    commentsToLikes: 0.063915
+    id: ck5zjgz5nhko50i14rqtiqg6h
     verified: false
-    hashtags: "#dubaifilm, #family, #babygirl, #astera"
-  - username: "akthamix"
+    hashtags: "#zeiss1, #arrialexamini, #cookeanamorphicsf, #leicasummilux"
+  - username: "benizzard"
     fullname: >-
-      Aktham Albulushi
+      Ben Izzard
+    bio: >-
+      Cinematographer Canberra, AUS ✉️ Enquiries: admin@benizzard.com
     location: "Australia"
-    followers: 17846
-    engagement: 448
-    commentsToLikes: 0.090585
-    id: ck5q2xrgfiait0i11ttku0bs7
+    followers: 5334
+    engagement: 1259
+    commentsToLikes: 0.064488
+    id: ck5hjxhfwhf5j0i11ke48hq36
     verified: false
-    hashtags: "#abqeducation, #oman, #bmpcc4k, #abqeducationgroup"
-  - username: "oli.coulthard"
+    hashtags: "#dronefromhomeffa, #stayathome"
+  - username: "scottwilsonimagery"
     fullname: >-
-      Occasionaly Do Cool Things
+      Scott Wilson
+    bio: >-
+      DOP @oceansoulsfilms cinematographer/photographer Expedition guide AIDA Freedive instructor
     location: "Australia"
-    followers: 20593
-    engagement: 521
-    commentsToLikes: 0.025471
-    id: ck0vwypycw91x0i1935bvnuys
+    followers: 43509
+    engagement: 388
+    commentsToLikes: 0.024140
+    id: ck0tzyhx6s05y0i19uwpn36y8
     verified: false
-    hashtags: "#getcreativewithporsche"
+    hashtags: "#greatbarrierreef, #byronbay, #goldcoast"
   - username: "danmacpherson"
     fullname: >-
       DANIEL MACPHERSON
+    bio: >-
+      ☠️⚡️🌊 #StrikeBack @cinemax @skytv // #BadMothers @sundancenow // #VitaminSea #UpUp #YNWA ♥️🌴🥃
     location: "Australia"
-    followers: 100312
-    engagement: 239
-    commentsToLikes: 0.055708
+    followers: 101256
+    engagement: 243
+    commentsToLikes: 0.046950
     id: ck15rjnke88wr0i19bwm5v54t
     verified: true
-    hashtags: "#selfisolation, #keepmovin, #boristheblade, #samanthagash"
-  - username: "jvke"
+    hashtags: "#beardsofinstagram, #strikeback, #running, #ironman"
+  - username: "kovenuk"
     fullname: >-
-      JAKE PIERRELEE
+      KOVEN
+    bio: >-
+      Award winning cinematic bass duo from London, UK. Bookings // EU/Aus/NZ: tom@gramagency.co.uk NA/Asia: saleem@amodeagency.com
     location: "Australia"
-    followers: 7529
-    engagement: 710
-    commentsToLikes: 0.053871
-    id: ck5bvhbjvjn7i0i11s3ywcf67
-    verified: false
-    hashtags: "#colorgrade, #filmmaking, #colorgrading, #cinematographer"
-  - username: "dom___west"
-    fullname: >-
-      Dom West
-    location: "Australia"
-    followers: 7149
-    engagement: 607
-    commentsToLikes: 0.032161
-    id: ck5pvaahvgwbp0i11ki5qkgno
-    verified: false
-    hashtags: "#lovetheleuser, #isolation, #africa, #surf"
-  - username: "lexcello"
-    fullname: >-
-      Alexandra Adoncello
-    location: "Australia"
-    followers: 7777
-    engagement: 495
-    commentsToLikes: 0.033499
-    id: ck5ztv8lx16r20i14bz2ry072
-    verified: false
-    hashtags: ""
-  - username: "abc4explore"
-    fullname: >-
-      ANDY BRANDY CASAGRANDE IV
-    location: "Australia"
-    followers: 130708
-    engagement: 216
-    commentsToLikes: 0.028758
-    id: ck0tv6jima5ly0i190jqd4wll
+    followers: 49727
+    engagement: 499
+    commentsToLikes: 0.032665
+    id: ck55odaxe852r0i11i40u3ozb
     verified: true
-    hashtags: "#makoshark, #natgeo, #superpride, #aquamonkey"
+    hashtags: "#weareviable, #letthemusicplay"
+  - username: "demas"
+    fullname: >-
+      Demas Rusli
+    bio: >-
+      Photographer/Designer - Sydney, AU 📮 hello@demasrusli.com 👥 @529podcast @globalnightsquad 👇🏻 Youtube: How to Create a CINEMAGRAPH
+    location: "Australia"
+    followers: 368554
+    engagement: 362
+    commentsToLikes: 0.025239
+    id: ck0tuggnm71p40i1930x0og6o
+    verified: true
+    hashtags: "#eclectic, #agameoftones, #streets, #designboom"
+  - username: "jamtuna"
+    fullname: >-
+      james | sydney, cinemagraphs
+    bio: >-
+      🍓 spreading motion 🍯 #cinemagraph 🐟 beginner tutorial below
+    location: "Australia"
+    followers: 39132
+    engagement: 524
+    commentsToLikes: 0.034258
+    id: ck5c0zah1u4xj0i11pzataqij
+    verified: false
+    hashtags: "#passionpassport, #puppetmaster, #ilovesydney, #sydneytrains"
+  - username: "jaxonfoale"
+    fullname: >-
+      Jek
+    bio: >-
+      Party til' you're farty 📺📽🆒🇦🇺 Cinematographer📍Perth/Goldcoast. Business: @dropmediacreative New Vlog¥¥
+    location: "Australia"
+    followers: 42133
+    engagement: 320
+    commentsToLikes: 0.017972
+    id: ck0tuyup599ro0i19hyz8tfru
+    verified: false
+    hashtags: "#christmasinaugust, #tiptopstheonegoodonyamum"
 ---

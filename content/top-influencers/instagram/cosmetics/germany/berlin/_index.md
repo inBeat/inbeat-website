@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Berlin In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Berlin in 2020. Most popular hashtags: #beauty #sunday #spring #stayhome.
+  Find top cosmetics Instagram influencers in Berlin in 2020. Most popular hashtags: #blogger #beauty #berlin #autumn.
 platform: Instagram
+hits: 82
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 82 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "beautypalmira"
+  - username: "cocoink"
     fullname: >-
-      Palmira Ruben Makeup Artist
+      Berlin 💒 | Techno 🏢
+    bio: >-
+      Maybe it is not about the happy ending. Maybe it is about the story.
     location: "Germany"
-    followers: 36895
-    engagement: 131
-    commentsToLikes: 0.049265
-    id: ck5q3lqg8lcfr0i11ku117ia8
+    followers: 68939
+    engagement: 132
+    commentsToLikes: 0.071767
+    id: ck6u72w79j5qs0j71l6ihsy47
     verified: false
-    hashtags: "#shimycatsmua, #depotting, #niloofarirani, #declutter"
-  - username: "lorii_lein"
+    hashtags: "#legtattoo, #sheingals, #zaraboots, #friseur"
+  - username: "karina_loves_life"
     fullname: >-
-      Lorena
+      Karina💕
+    bio: >-
+      German Model Based in Hannover Economics student 👩‍🎓 Freespirit. Doglover. Adventurer. Enthusiast. Hedonist and slightly sassy 💁‍♀️
     location: "Germany"
-    followers: 2637
-    engagement: 2884
-    commentsToLikes: 0.099570
-    id: ck5heqn4kuadc0i1115pbbsmj
+    followers: 21895
+    engagement: 241
+    commentsToLikes: 0.029456
+    id: ck5zqoby7uz5g0i14ko0w6mwn
     verified: false
-    hashtags: "#parfum, #lookofthenight, #nurgesundef, #healing"
-  - username: "tanja.hoe"
+    hashtags: "#natural, #modelagency, #shooting, #simplicity"
+  - username: "_anna_geddes_"
     fullname: >-
-      Tanja Hööö aus Köln
+      Anna Prohodski
+    bio: >-
+      #MRSDeutschland 2020/21🇩🇪🏆 #MRS.#sachsenanhalt 2019/2020⚜️💍 🇩🇪🇷🇺🇬🇧 #missdeutschland #influencer #model#travel#beauty#gourmet #business : direct 📩
     location: "Germany"
-    followers: 18973
-    engagement: 476
-    commentsToLikes: 0.120441
-    id: ck0w2jz42or4m0i1921cmmrcx
+    followers: 199205
+    engagement: 249
+    commentsToLikes: 0.108438
+    id: ckapckcwa468w0i78ywoyzusg
     verified: false
-    hashtags: "#kinderleicht, #maske, #beautyblogger, #skincare"
-  - username: "mademoiselle_pixie"
+    hashtags: "#mrsdeutschland2020, #mydubai, #staypositive, #smile"
+  - username: "annahiltrop"
     fullname: >-
-      ᴾᴵˣᴵᴱᶜᵁᵀ| ˁᴴᴼᴿᵀᴴᴬᴵᴿ | 𝙿𝚒𝚗𝚔ᴴᴬᴵᴿ
+      Anna Hiltrop🌹
+    bio: >-
+      🦋German Model @fordmodels @oxygen.models 🌍Sustainability & Fair Fashion Mgmt: marina.rudolph@together.partners
     location: "Germany"
-    followers: 41434
-    engagement: 145
-    commentsToLikes: 0.029955
-    id: ck6u8r1aet6260j717ipx0jb9
-    verified: false
-    hashtags: "#coffee, #lionshead, #beauty, #transforming"
-  - username: "pialorenaa"
+    followers: 34702
+    engagement: 119
+    commentsToLikes: 0.052808
+    id: ck0vyr1iq5d9b0i19ijgb3g6y
+    verified: true
+    hashtags: "#autumnoutfit, #centrooberhausen, #shooting, #ootd"
+  - username: "ciinderella_bln"
     fullname: >-
-      BEAUTY | TRAVEL | FASHION
+      Ciinde Rella
+    bio: >-
+      ❤️💍👰✝️🎗
     location: "Germany"
-    followers: 106140
-    engagement: 419
-    commentsToLikes: 0.055259
-    id: ck13cdguyzte80i19v54jfuzi
+    followers: 30581
+    engagement: 263
+    commentsToLikes: 0.060037
+    id: ck14ldf39u4680i19hfwp7x11
     verified: false
-    hashtags: "#douglasgeschenk, #festival, #sommer, #premiere"
-  - username: "liizley_"
+    hashtags: "#barbarabox, #degustabox, #interiordesign, #freshfoodanddrinks"
+  - username: "robinrayanian"
     fullname: >-
-      FASHION•LIFESTYLE•BEAUTY
+      Rayanian
+    bio: >-
+      Passion for Hair & Make-up & Fashion https://armeniafund.ejoinme.org/donate 📍Berlin🇩🇪 Los angeles 🇺🇸
     location: "Germany"
-    followers: 44075
-    engagement: 251
-    commentsToLikes: 0.049863
-    id: ck8t99xicncjn0j781uv04zwb
-    verified: false
-    hashtags: "#parfum, #couplefashion, #vatertag, #nakdfashion"
-  - username: "what_petra_lovesandlikes"
+    followers: 109564
+    engagement: 315
+    commentsToLikes: 0.043899
+    id: ck55lagyy153q0i117zvvzh6s
+    verified: true
+    hashtags: "#fyp, #rayanian, #fashionblogger, #instagood"
+  - username: "milenskaya"
     fullname: >-
-      Petra Bosch
+      Milena Glimbovski
+    bio: >-
+      🏹founder (she/her) of zero waste shop @originalunverpackt &@einguterplan 🏹 Berlin,Germany & Sweden🏹
     location: "Germany"
-    followers: 7588
-    engagement: 617
-    commentsToLikes: 0.073616
-    id: ck9haga0ecf8s0j788vukmf2u
+    followers: 26984
+    engagement: 263
+    commentsToLikes: 0.031328
+    id: ck14h46878gpm0i19fcdatw0q
     verified: false
-    hashtags: "#streetstyle, #vitaminc, #artwork, #reinigungs"
-  - username: "julianejuliie"
-    fullname: >-
-      👑 Miss Grand Germany 2017 🇩🇪
-    location: "Germany"
-    followers: 66574
-    engagement: 347
-    commentsToLikes: 0.046702
-    id: ck6u721w9j0rl0j71th3ddgy7
-    verified: false
-    hashtags: "#dress, #springbreak, #fashionblogger, #papayaplaya"
+    hashtags: "#netzstreikf, #elterninderkrise, #detoxdenim, #armedangels"
   - username: "mo.ciftci"
     fullname: >-
       Mo
+    bio: >-
+      23 years // beauty // fashion • Photographer 🏡Hannover | 📍currently in Hannover
     location: "Germany"
-    followers: 2239
-    engagement: 1313
-    commentsToLikes: 0.071436
+    followers: 2224
+    engagement: 1403
+    commentsToLikes: 0.064260
     id: ck5c196shup3d0i1107dd0vz0
     verified: false
-    hashtags: "#life, #natural, #likeforlikes, #beautyful"
-  - username: "mxs.cavallero"
+    hashtags: "#queen, #happiness, #picoftheday, #naturecosmetic"
+  - username: "maximgiacomo"
     fullname: >-
-      ❥  𝐆𝐈𝐑𝐋, 𝐂𝐀𝐋𝐋𝐄𝐃 𝓚𝐢𝐭𝐭𝐲𝐃𝐎𝐋𝐋 . 🇮🇹
+      MAXIM GIACOMO
+    bio: >-
+      🇮🇹🇩🇪 🎥 YouTube • Maxim Giacomo #GIACOMOARMY #BoysInMakeUp Dieses Profil enthält Werbung | Impressum via YouTube 📍 Berlin Meine Palette!!
     location: "Germany"
-    followers: 3475
-    engagement: 1833
-    commentsToLikes: 0.200863
-    id: ckaorf8gcmxyr0i783x46p6gn
+    followers: 39233
+    engagement: 727
+    commentsToLikes: 0.169319
+    id: ck5c18z24uomo0i11ism1tg34
     verified: false
-    hashtags: "#proud, #trap, #girls, #2000s"
+    hashtags: "#herbstliebe, #herbstdeko, #menstyle, #browsonfleek"
+  - username: "pialorenaa"
+    fullname: >-
+      LORENA TRAVEL FASHION BEAUTY
+    bio: >-
+      👸🏻LORENA ⚓️HH 💃🏻Latina 🔜 Berlin 👑⠀⠀⠀⠀⠀⠀⠀⠀⠀ contact 💌 lorena@insocial-media.com
+    location: "Germany"
+    followers: 104553
+    engagement: 387
+    commentsToLikes: 0.076582
+    id: ck13cdguyzte80i19v54jfuzi
+    verified: false
+    hashtags: "#verlosung, #sugarbearhair, #giveaway, #gewinnspiel"
 ---

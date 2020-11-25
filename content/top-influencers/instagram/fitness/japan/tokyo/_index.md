@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top fitness Instagram influencers in Tokyo in 2020. Most popular hashtags: #fitness #workout #fashion #stayhome.
+  Find top fitness Instagram influencers in Tokyo in 2020. Most popular hashtags: #fitness #model #fashion #tokyo.
 platform: Instagram
+hits: 61
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 61 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
-  - username: "yukachinmaru_golf"
+  - username: "miho_ishiguro"
     fullname: >-
-      ゆかちんまる☺︎
+      石黒 美帆  𝐌𝐢𝐡𝐨 𝐈𝐬𝐡𝐢𝐠𝐮𝐫𝐨
+    bio: >-
+      講談社 #VOCEST YouTube【ワタシコスメCh.】🎤♡
     location: "Japan"
-    followers: 45456
-    engagement: 295
-    commentsToLikes: 0.025371
-    id: ck0ucpdmchg4d0i195dyej5tc
+    followers: 62301
+    engagement: 111
+    commentsToLikes: 0.027937
+    id: ck6uglcva3pmc0j71huevljk7
     verified: false
-    hashtags: "#golfswing, #live, #youtube, #fujimi"
-  - username: "_rosemelle"
+    hashtags: "#ootd, #dailylook, #vocest, #fashiongram"
+  - username: "ayumihills"
     fullname: >-
-      Rose Melle
+      AYUMI HILLS
+    bio: >-
+      📍Japan / Tokyo ・Freelance ・Japan × Taiwan 🌍 ・Trilingual / 日中英 ・元ライジングプロダクション ・ #artlover ￼#earthlover 🕊 ▼My YouTube channel▼
     location: "Japan"
-    followers: 19668
-    engagement: 984
-    commentsToLikes: 0.014197
-    id: ck5zzwkhocjjd0i140q4r4dh8
+    followers: 16192
+    engagement: 253
+    commentsToLikes: 0.037920
+    id: ckf5u6bnojptt0j235jm0021u
     verified: false
-    hashtags: "#vietnam, #bikini, #wallart, #boootyyyfull"
-  - username: "shinjokun"
+    hashtags: "#art, #karuizawa, #nature, #trip"
+  - username: "amyypatton"
     fullname: >-
-      しんじょう君
+      Ami
+    bio: >-
+      Tokyo・Japan 📍 🇯🇵🇮🇹🇮🇪🇩🇪 Mix TikTok : ami.patton お仕事依頼はメールまで📩 Youtube Channel ↓
     location: "Japan"
-    followers: 15649
-    engagement: 1103
-    commentsToLikes: 0.018147
-    id: ck0u707443id60i19k07gn5bm
+    followers: 88514
+    engagement: 419
+    commentsToLikes: 0.022528
+    id: ckap2aj7qy10w0i7847sryioc
     verified: false
-    hashtags: "#foryou, #happynewyear, #happy, #behavewell"
-  - username: "kareniwadare"
-    fullname: >-
-      岩垂かれん
-    location: "Japan"
-    followers: 29128
-    engagement: 829
-    commentsToLikes: 0.008041
-    id: ck5bxbeg3nebq0i11m2nl1e7d
-    verified: false
-    hashtags: "#fitness, #kawabaski, #sorachi, #tokyocraft"
-  - username: "yuki_sato310"
-    fullname: >-
-      悠基 佐藤
-    location: "Japan"
-    followers: 18621
-    engagement: 1382
-    commentsToLikes: 0.007767
-    id: ck13c0p8xy2qc0i195fc5ksop
-    verified: false
-    hashtags: "#suguruosako, #mizuno, #spike, #hokkaido"
-  - username: "dary.rukawa"
-    fullname: >-
-      ダリ.... 𝐃𝐀𝐑𝐘
-    location: "Japan"
-    followers: 12042
-    engagement: 341
-    commentsToLikes: 0.010403
-    id: ck14jdq6ljtvo0i190qfl5d7i
-    verified: false
-    hashtags: "#model, #thescotchhouse, #mensfashion, #modellife"
+    hashtags: "#ishigakiisland, #biancaclinic, #japangram, #okinawa"
   - username: "amuaiamu"
     fullname: >-
       AMU
+    bio: >-
+      Tokyo🇯🇵←Gifu Youtuber/Designer 💟fitness cycling airsoft 🚲roadbike/LOOK765 '18.10- Ambassador #lookcycle #nextakasakabase Feel free to follow me☺️
     location: "Japan"
     followers: 10764
     engagement: 1591
     commentsToLikes: 0.009071
     id: ck9hap6rzdh270j784cpsjo99
     verified: false
-    hashtags: "#thanksfollowers, #solorider, #cyclingjapan, #smarttraining"
-  - username: "maripo_jp"
+    hashtags: "#kplus, #women, #bicycle, #indoorbike"
+  - username: "akio7040"
     fullname: >-
-      M A R I 🌐 神林真里
+      A K I O
+    bio: >-
+      #akio7040 📍: Tokyo 🇯🇵 💙: 💪 ✈️ 🎧 🎉 🤝 🍉 let me go my own way👣
     location: "Japan"
-    followers: 28583
-    engagement: 203
-    commentsToLikes: 0.012663
-    id: ck14i2zyrddu80i19pfnkl5to
+    followers: 15162
+    engagement: 970
+    commentsToLikes: 0.034990
+    id: ckapcnfpo4ggu0i78dx9q2bhh
     verified: false
-    hashtags: "#sunglassesstyle, #ignis, #hairtreatment, #mimc"
-  - username: "non_nonsummerjack"
+    hashtags: "#workout, #fitness, #workoutmotivation, #toobored"
+  - username: "_rosemelle"
     fullname: >-
-      non
+      Rose Melle
+    bio: >-
+      理想のボディを追い求める🌹 🇯🇵Tokyo Japan . 覆面MANIA/Round Girl Twitter☞@_RoseMelle
     location: "Japan"
-    followers: 152308
-    engagement: 1071
-    commentsToLikes: 0.007996
-    id: ck8sy7krjk00c0j78zk7cn31n
+    followers: 34104
+    engagement: 799
+    commentsToLikes: 0.009961
+    id: ck5zzwkhocjjd0i140q4r4dh8
     verified: false
-    hashtags: "#japanesezodiac, #oil, #non, #fgo"
-  - username: "aripi_06"
+    hashtags: "#shoot, #sexyhot, #onlyfan, #model"
+  - username: "sasuke_tokyo"
     fullname: >-
-      𝐀 𝐑 𝐈 𝐒 𝐀 🦡
+      SASUKE (佐助)
+    bio: >-
+      🗽LOVE is Fitness🗽 1.8m 0.1t 🇯🇵 want more..?↓
     location: "Japan"
-    followers: 117743
-    engagement: 144
-    commentsToLikes: 0.026621
-    id: ckap5d2x2b4se0i78k3ob0503
+    followers: 57110
+    engagement: 523
+    commentsToLikes: 0.017043
+    id: ck5hkgywfiegq0i11b1alb8ur
     verified: false
-    hashtags: "#lapis, #workout, #yukata, #acym"
+    hashtags: ""
+  - username: "anzu_akiba"
+    fullname: >-
+      🌹Anzu Akiba🌹
+    bio: >-
+      👸🏻 Miss Japan 🇯🇵 💃 Miss Asia 3rd 👯‍♀️ Best Body Japan Tokyo&Chiba GP 🧜🏻‍♀️ Model｜Editor｜Secretly｜Food analyst ❤️ travel｜food｜art｜fashion
+    location: "Japan"
+    followers: 9552
+    engagement: 813
+    commentsToLikes: 0.031950
+    id: ckap7wrqblwkw0i781qzx2ckb
+    verified: false
+    hashtags: "#fashiongram, #bikini, #hairstyle, #model"
+  - username: "elliottjeng"
+    fullname: >-
+      Elliott Eng
+    bio: >-
+      エリオット 📍Living in Tokyo Commissions available ⤵️ 📩ElliottJEng@gmail.com
+    location: "Japan"
+    followers: 13128
+    engagement: 454
+    commentsToLikes: 0.056437
+    id: ck6u28cjkqbp30j71fynfwrx5
+    verified: false
+    hashtags: "#portraitofjapan, #japan, #earth, #aovportraits"
+  - username: "mariko_jpn_531"
+    fullname: >-
+      Mariko Nakagawa/中川 真理子🇯🇵
+    bio: >-
+      💫︎Miss Supranational Japan 東東京代表💫 　∟1st runner up ☀︎ ヨガインストラクター｜📍Tokyo｜172cm 🥇MSJ関東大会grand prix 💠 Beauty Pageant Media model 2020
+    location: "Japan"
+    followers: 10971
+    engagement: 1152
+    commentsToLikes: 0.010517
+    id: ck8t2ycl8164t0j782ru7na7h
+    verified: false
+    hashtags: "#love, #healthybeauty, #happy, #smile"
 ---

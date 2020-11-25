@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top beauty Instagram influencers in San Antonio in 2020. Most popular hashtags: #glammakeup #beauty #ootd #euphoria.
+  Find top beauty Instagram influencers in San Antonio in 2020. Most popular hashtags: #makeup #fashionblogger #ootd.
 platform: Instagram
+hits: 22
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 22 Instagram influencers like this in San Antonio, United States for you to pitch.
 profiles:
   - username: "queenaa.h"
     fullname: >-
       M I N A
+    bio: >-
+      basically not basic Modesty | Fashion | Beauty San Antonio, TX 📧 minahamideh@gmail.com
     location: "United States"
-    followers: 20186
-    engagement: 619
-    commentsToLikes: 0.093614
+    followers: 21121
+    engagement: 490
+    commentsToLikes: 0.049083
     id: ck8tdfco235920j7849pz262e
     verified: false
-    hashtags: "#hijabilookbook, #ootd, #hijabneed, #corona"
-  - username: "lexalealiiee"
+    hashtags: "#muslimahfashion, #hijabdaily, #hijablove, #hijabootd"
+  - username: "brysanicks"
     fullname: >-
-      Lexa Lealiiee🇦🇸
+      Brysa Nicks
+    bio: >-
+      Fashion | Beauty | Lifestyle | Photography brysanicks@gmail.com 📨 Texas 📍
     location: "United States"
-    followers: 8701
-    engagement: 681
-    commentsToLikes: 0.028632
-    id: ck5pw62dula3i0i11w9vjw0nr
+    followers: 11855
+    engagement: 959
+    commentsToLikes: 0.071924
+    id: ckf5wms83skn30j23o004u0zm
     verified: false
-    hashtags: "#curls, #portrait, #beautifulballers, #willyscouts"
-  - username: "barelyblonde_"
+    hashtags: "#nursery, #bedroomdecor, #gifted, #sanantonioblogger"
+  - username: "john_rozco"
     fullname: >-
-      Christine L
+      John Rozco
+    bio: >-
+      I crash Pampered Chef parties😭 . Alegre Media Group . Sony FS7 II / A7R IV . Commercial / Film on Vimeo
     location: "United States"
-    followers: 32968
-    engagement: 283
-    commentsToLikes: 0.089524
-    id: ck5c46ofn0pok0i114nec5krx
+    followers: 6999
+    engagement: 800
+    commentsToLikes: 0.113993
+    id: ck55jy586y1hy0i11g1t7njjo
     verified: false
-    hashtags: "#thefrankeffect, #rdbabe, #ltkunder50, #ltkstyletip"
-  - username: "viviruth_"
+    hashtags: "#texasphotographer, #ourportraitsdays, #sonyimages, #fashion"
+  - username: "taylermalott"
     fullname: >-
-      Veronica 🌸
+      Tayler (Malott) Gilbert
+    bio: >-
+      Sharing life as a new mom. Fashion. Beauty. Home. & Travel 📍 HTX ✈️ San Antonio 💍 Wife to @hunterhgilbert 👶🏼💗Momma to Isla Grace
     location: "United States"
-    followers: 2138
-    engagement: 1214
-    commentsToLikes: 0.093061
-    id: ck6ty2ktm1blt0j71ftc9m8cg
+    followers: 28877
+    engagement: 93
+    commentsToLikes: 0.064778
+    id: ck5cctdrahzbx0i11i778nc0z
     verified: false
-    hashtags: "#hairgoals, #bluemoonpalette, #halloween2019, #sanantoniomua"
-  - username: "_maddiemason_cosplay"
+    hashtags: "#ltkgiftspo, #mintedholiday, #gifted, #unboxing"
+  - username: "dgafpanda"
     fullname: >-
-      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
+      Alex Lee Charles
+    bio: >-
+      🔹 San Antonio, TX 🤠 🔹 Freelance #MUA 💄 🔹 468k+ Views on Youtube 🎥
     location: "United States"
-    followers: 16311
-    engagement: 570
-    commentsToLikes: 0.051753
-    id: ck6ui5ku0d76g0j71ea21muiy
+    followers: 20104
+    engagement: 713
+    commentsToLikes: 0.016792
+    id: ck6toys5tguxm0j71s4gc4hbv
     verified: false
-    hashtags: "#japanesefashion, #promdress, #bodypainting, #fitnessmom"
-  - username: "msgoldgirl"
-    fullname: >-
-      Marnie Goldberg | MsGoldgirl®
-    location: "United States"
-    followers: 38540
-    engagement: 139
-    commentsToLikes: 0.045064
-    id: ck5zl449ckp250i14colea33w
-    verified: true
-    hashtags: "#emcosmetics, #giftideas, #plannerstickers, #plannerlife"
-  - username: "misssanantonious2020"
-    fullname: >-
-      Miss Guyana 2020 👑
-    location: "United States"
-    followers: 6046
-    engagement: 579
-    commentsToLikes: 0.070729
-    id: ck6u4j0sy3ztk0j710is8q2s2
-    verified: false
-    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
+    hashtags: "#blogger, #beautiful, #followme, #style"
   - username: "instasatx"
     fullname: >-
       San Antonio Adventures
+    bio: >-
+      Helping San Antonio discover & rediscover 300 years of history, culture, architecture, food, art, beauty, & people. #InstaSATX
     location: "United States"
-    followers: 18052
-    engagement: 232
-    commentsToLikes: 0.151978
+    followers: 21100
+    engagement: 208
+    commentsToLikes: 0.154349
     id: ck5q7af6y0m2p0i11ergzyk9l
     verified: false
-    hashtags: "#sanantoniostrong, #tacotuesday, #earthday, #stayhome"
+    hashtags: "#instasatx, #fallvibes, #staysafe"
   - username: "looksbysol"
     fullname: >-
       Makeup by Marisol
+    bio: >-
+      San Antonio, Texas *:･ﾟ✧ 🌷 Freelance Makeup Artist DM for makeup appointments with me!
     location: "United States"
-    followers: 68558
-    engagement: 274
-    commentsToLikes: 0.052680
+    followers: 62994
+    engagement: 283
+    commentsToLikes: 0.055334
     id: ck135h3zw1e0k0i19z6k4v69d
     verified: false
-    hashtags: "#meloncbd, #pinkandproud, #liner, #simpleglam"
-  - username: "beautyinamin"
+    hashtags: "#instamakeup, #discovervideos, #morpheglamfam, #milkmakeup"
+  - username: "barelyblonde_"
     fullname: >-
-      Dallas Photographer
+      Christine L
+    bio: >-
+      💋 Lawyer and BLOGGER 👜 Everyday Style • Beauty • Random Finds 🌺 Cheering on all women 🙌🏼 • 5’4” 💍 Wife |📍San Antonio ✈️ Stay Home SHOP MY POSTS
     location: "United States"
-    followers: 23244
-    engagement: 281
-    commentsToLikes: 0.089780
-    id: ck8t5ftv6a12c0j78ff4d6ha1
+    followers: 39576
+    engagement: 228
+    commentsToLikes: 0.065047
+    id: ck5c46ofn0pok0i114nec5krx
     verified: false
-    hashtags: "#mybn, #staytropical, #veganskincareproducts, #veganskincare"
+    hashtags: "#southern, #sanantonio, #2020, #blonde"
+  - username: "anapeli_"
+    fullname: >-
+      Ana | ATX Model & Blogger
+    bio: >-
+      ✨Sharin’ adventures & kindness✨ Beauty, fashion and lifestyle content creator @lillianelizabeth_tx @anaelizabethphoto UTSA Alum 📍Austin, Texas
+    location: "United States"
+    followers: 8038
+    engagement: 475
+    commentsToLikes: 0.057848
+    id: ck8syjs62l12a0j780ed09gnj
+    verified: false
+    hashtags: "#discoverunder10k, #austinblogger, #everydaymadewell, #austinwoman"
+  - username: "vanneochoa"
+    fullname: >-
+      Vanne Ochoa
+    bio: >-
+      More than just a fashion blog✨ 👩🏻‍💻 Mexicana en Cali & Texas ☯️♈️ • mental health • beauty • eats • tips • & lots of fun 😎
+    location: "United States"
+    followers: 20500
+    engagement: 102
+    commentsToLikes: 0.093535
+    id: ck134b53dvkvx0i19mz5un7ho
+    verified: false
+    hashtags: "#lamodel, #texasweather, #stylingideas, #outfitideas"
 ---

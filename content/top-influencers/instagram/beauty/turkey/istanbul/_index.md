@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top beauty Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #beauty #hairstyle #evdekal.
+  Find top beauty Instagram influencers in Istanbul in 2020. Most popular hashtags: #fashion #istanbul #beauty #photography.
 platform: Instagram
+hits: 220
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 220 Instagram influencers like this in Istanbul, Turkey for you to work with.
 profiles:
-  - username: "aycaydn"
-    fullname: >-
-      AYÇA - Camping & Nature
-    location: "Turkey"
-    followers: 12190
-    engagement: 1842
-    commentsToLikes: 0.039316
-    id: ck8sx61koga4u0j78lbol7cy6
-    verified: false
-    hashtags: "#camprail, #erzurum, #autumn, #photoholidayege"
-  - username: "utkuagagil"
-    fullname: >-
-      utku
-    location: "Turkey"
-    followers: 8966
-    engagement: 177
-    commentsToLikes: 0.015625
-    id: ck5cat3c0e2s30i114wwc1pvi
-    verified: false
-    hashtags: "#repost, #fashion, #model, #night"
-  - username: "dibaestetik"
-    fullname: >-
-      Diba Estetik&güzellik
-    location: "Turkey"
-    followers: 13262
-    engagement: 879
-    commentsToLikes: 0.001508
-    id: ck9ha47wjb2oi0j786aycm7dh
-    verified: false
-    hashtags: "#nemmaskesi, #koronat, #coronag, #pandemic"
   - username: "ceernkaya"
     fullname: >-
       Ceren Kaya ♡
+    bio: >-
+      Fashion, Lifestyle & Beauty Istanbul
     location: "Turkey"
-    followers: 173435
-    engagement: 763
-    commentsToLikes: 0.377940
+    followers: 196889
+    engagement: 484
+    commentsToLikes: 0.028223
     id: ck0u61xoo0qnj0i19w444z9wa
     verified: false
-    hashtags: "#cekilis, #cekilisvar, #evdekal, #wishlist"
-  - username: "karachka_magic"
-    fullname: >-
-      Karine Amatuni
-    location: "Turkey"
-    followers: 20709
-    engagement: 271
-    commentsToLikes: 0.036079
-    id: ck6u8ozxhsuqh0j71h67or8s9
-    verified: false
-    hashtags: "#suadiye, #hayatguzel, #mountains, #dior"
+    hashtags: "#speedpro, #ritminiyans, #reachlx300, #reachlx6000"
   - username: "dua.mnalla"
     fullname: >-
       Dua Mnalla Alrayess
+    bio: >-
+      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
     location: "Turkey"
-    followers: 50798
-    engagement: 463
-    commentsToLikes: 0.062506
+    followers: 53147
+    engagement: 508
+    commentsToLikes: 0.054479
     id: ckapaz0bay07a0i782q8gesvd
     verified: false
-    hashtags: "#healthylifestyle, #fashionnova, #hiamag, #fashionstyle"
-  - username: "katerinaprov"
+    hashtags: "#saudiarabia, #usa, #hijab, #iraq"
+  - username: "karachka_magic"
     fullname: >-
-      KATEŘINA PROVAZNÍKOVÁ    🇨🇿/🇹🇷
+      Karine Amatuni
+    bio: >-
+      Family it's not an IMPORTANT GIFT it's EVERYTHING 👦🏽👸🏽👯. second account @amatunimakeup 🚀Founder Beauty Lounge İstanbul @beautyloungeistanbul💄🌹
     location: "Turkey"
-    followers: 46728
-    engagement: 1384
-    commentsToLikes: 0.027270
-    id: ck0txr9gfk8lr0i19fqrq0zzc
+    followers: 20654
+    engagement: 277
+    commentsToLikes: 0.036117
+    id: ck6u8ozxhsuqh0j71h67or8s9
     verified: false
-    hashtags: "#elite, #black, #rabbit, #simple"
-  - username: "rotasizgurme"
+    hashtags: "#maxxroyalkemer, #maxxroyal, #istanbul, #brunette"
+  - username: "jessicaalvesuk"
     fullname: >-
-      Mekan/Otel/Restoran/Yemek
+      Jessica Alves
+    bio: >-
+      Television Personality📺Speak 6 languages🇩🇪🇪🇸🇫🇷🇧🇷🇮🇹🇬🇧Jetsetter🛰Fashionista👗Make up & Beauty lover🎉 📧 for collaborations jessicaalves2019@yahoo.com
     location: "Turkey"
-    followers: 53444
-    engagement: 221
-    commentsToLikes: 0.196679
-    id: ck15r6paz6esx0i19i0m04kkg
+    followers: 1201155
+    engagement: 106
+    commentsToLikes: 0.031697
+    id: ck5hclroiiqaq0i11xnk3l8h1
+    verified: true
+    hashtags: "#moda, #cappadocia, #fashion, #istanbul"
+  - username: "pinaroez_"
+    fullname: >-
+      FASHION X P I N A R 🧿
+    bio: >-
+      🌻 C | حب💍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💌pinaroez_@maxplusmgmt.de⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🌻#FASHION 🎥MY LATEST YOUTUBE VIDEO ⬇️⬇️⬇️ s7es5
+    location: "Turkey"
+    followers: 35396
+    engagement: 248
+    commentsToLikes: 0.018262
+    id: ckap5vri9ddiu0i784uqgtaax
     verified: false
-    hashtags: "#markadoktoru, #imzagunu, #foodstgram, #sishane"
+    hashtags: "#fashionblogger, #streetstyle, #ootd, #fashionista"
+  - username: "heefashy"
+    fullname: >-
+      Heef Ashy
+    bio: >-
+      Artist . JED , DXB 📷 Business inquiries & Creative collaborations: 📩 info@heefashy.art
+    location: "Turkey"
+    followers: 13678
+    engagement: 473
+    commentsToLikes: 0.045507
+    id: ck6tsziim7pq30j71igq5pkmy
+    verified: false
+    hashtags: "#dubaimodel, #fashionpost, #istanbul, #jeddahphotographer"
+  - username: "ezgimut"
+    fullname: >-
+      Ezgi Mut
+    bio: >-
+      Λrchitect┊Interior Λrchitect • Double major For #Architecture ★ #Travel ★ #Design • #istanbul
+    location: "Turkey"
+    followers: 5023
+    engagement: 1464
+    commentsToLikes: 0.031146
+    id: ck9we8cxuj3vf0j78arc1bnec
+    verified: false
+    hashtags: "#photography, #ootdfashion, #instagram, #fashion"
+  - username: "goktuggokhanyuksel"
+    fullname: >-
+      Göktuğ Gökhan Yüksel
+    bio: >-
+      Freelance Makeup Artist @nounchecom Owner n Founder 📩gokhanmakeup@gmail.com İstanbul
+    location: "Turkey"
+    followers: 21715
+    engagement: 318
+    commentsToLikes: 0.000083
+    id: ck5hkr0mwiwxm0i11skb1vpnn
+    verified: false
+    hashtags: "#makyaj, #makeup, #mua, #hair"
+  - username: "fidoo11"
+    fullname: >-
+      ⚜️ Fidan Rzayeva ⚜️ 🇦🇿 ⚜️
+    bio: >-
+      Founder and Owner @by_fidanrzayeva
+    location: "Turkey"
+    followers: 153029
+    engagement: 232
+    commentsToLikes: 0.019731
+    id: ck8t0ahj6rebt0j78mxtux2rw
+    verified: false
+    hashtags: "#stoparmenianaggression, #karabakhisazerbaijan, #stoparmenianterrorism, #openyoureyes"
   - username: "cerenkulahli"
     fullname: >-
       Ceren Külahlı
+    bio: >-
+      📸Makeup | Beauty | Lifestyle 📍İstanbul 🦆Twitter: cerenkulahli 📩PR: cerenkulahli2@gmail.com 〽️Ürünlerime ulaşmak için🔽
     location: "Turkey"
-    followers: 73044
-    engagement: 1438
-    commentsToLikes: 0.762949
+    followers: 63702
+    engagement: 104
+    commentsToLikes: 0.024012
     id: ck8t09eaxra4i0j78w6hhxucx
     verified: false
-    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
-  - username: "selinbalarisiii"
-    fullname: >-
-      Selin Yagcioglu Balarisi
-    location: "Turkey"
-    followers: 540852
-    engagement: 1032
-    commentsToLikes: 0.210227
-    id: ck8t09965r9j50j78tggl6z51
-    verified: true
-    hashtags: "#athomewithhm, #mood, #simple, #mustafakemalatat"
+    hashtags: ""
 ---

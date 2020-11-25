@@ -1,107 +1,130 @@
 ---
 title: Top 10 Olympian Athletes Instagram Influencers In Canada In 2020
 description: >-
-  Find top olympian athletes Instagram influencers in Canada in 2020. Most popular hashtags: #olympics #hometeam #internationalnursesday #readyforsport.
+  Find top olympian athletes Instagram influencers in Canada in 2020. Most popular hashtags: #teamcanada #canada #athlete.
 platform: Instagram
+hits: 34
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 34 Instagram influencers like this in Canada for you to pitch.
 profiles:
   - username: "marinarosauce1"
     fullname: >-
       Michael Marinaro
+    bio: >-
+      2018 Olympian 🇨🇦 Athlete Ambassador for NeuEnergy
     location: "Canada"
-    followers: 9078
-    engagement: 1400
-    commentsToLikes: 0.021791
+    followers: 8849
+    engagement: 1225
+    commentsToLikes: 0.020322
     id: ck5c9wgobc98h0i11nc546tms
     verified: true
-    hashtags: "#gpfigure, #nhktrophy, #mikeweir, #mentalhealth"
+    hashtags: "#pairsskating, #isu, #creatinghistory, #skatecanada"
   - username: "cbrown90kg__"
     fullname: >-
       Colton Brown
+    bio: >-
+      NJ. U.S. Olympian. NYAC Athlete. SJSU Alumni. More moves, less announcements. Jeremiah 29:11
     location: "Canada"
-    followers: 2653
-    engagement: 1519
-    commentsToLikes: 0.063247
+    followers: 3011
+    engagement: 1336
+    commentsToLikes: 0.060420
     id: ck138s8hghrps0i19d674da66
     verified: true
-    hashtags: "#annualfampic"
-  - username: "sagewatson"
+    hashtags: "#blackouttuesday"
+  - username: "therealmislawchuk"
     fullname: >-
-      Sage Watson
+      Tyler Mislawchuk
+    bio: >-
+      🇨🇦Olympian. @nike athlete @argon18bike rider
     location: "Canada"
-    followers: 57751
-    engagement: 547
-    commentsToLikes: 0.018246
-    id: ck0u9m9r5a3bk0i19qw7p3r3x
+    followers: 8979
+    engagement: 1303
+    commentsToLikes: 0.014532
+    id: ck5zql1eausmi0i14gq9tg64k
     verified: true
-    hashtags: "#indoortraining, #goats, #farming, #beef"
+    hashtags: "#tillthewheelsfalloff, #dayforit, #nike, #swim"
+  - username: "hughesteeple"
+    fullname: >-
+      Matt Hughes
+    bio: >-
+      Nike Athlete | 🇨🇦 Olympian
+    location: "Canada"
+    followers: 6384
+    engagement: 1050
+    commentsToLikes: 0.021631
+    id: ck0twbtl5esrt0i19nw69obq2
+    verified: false
+    hashtags: "#teamtotal, #flagstaff, #running, #nike"
   - username: "mcbride46"
     fullname: >-
       Brandon McBride
+    bio: >-
+      Canadian | Olympian | 800m | @Adidas Athlete | MSU bulldog | @mcbrideyouthunited | "The only time success comes before work is in the dictionary."
     location: "Canada"
-    followers: 30515
-    engagement: 1265
-    commentsToLikes: 0.007286
+    followers: 32806
+    engagement: 954
+    commentsToLikes: 0.014985
     id: ck5bzebrbqz6m0i11tk60i522
     verified: true
-    hashtags: "#createdwithadidas, #runhappy, #runfortheoceans, #teammcbride"
-  - username: "renatafast"
+    hashtags: "#ultraboost20, #createdwithadidas, #goodbyegravity, #hometeam"
+  - username: "jasonburnett_"
     fullname: >-
-      Renata Fast
+      Jason Burnett
+    bio: >-
+      🙋🏻‍♂️ Trampoline athlete 🇨🇦 3x Olympian (2008🥈2012, 2016) 🌎 2x World Record holder 🎥 Aspiring stuntman
     location: "Canada"
-    followers: 9921
-    engagement: 1109
-    commentsToLikes: 0.016862
-    id: ck0u2fqozztpy0i19vy5ig844
+    followers: 16871
+    engagement: 664
+    commentsToLikes: 0.010172
+    id: ck5q6d745wxj60i11l0wbgn1e
     verified: true
-    hashtags: "#nhlallstarweekend, #hometeam, #womensworlds, #internationalnursesday"
+    hashtags: "#canada, #athlete, #trampoline, #teamcanada"
   - username: "rjohnst6"
     fullname: >-
       Rebecca Johnston
+    bio: >-
+      Canadian National Women’s Team 🇨🇦🏒 3X Olympian- 🥇🥇🥈 @adidasca Athlete | Bauer Athlete KidSport Ambassador
     location: "Canada"
-    followers: 16821
-    engagement: 736
-    commentsToLikes: 0.009236
+    followers: 18083
+    engagement: 527
+    commentsToLikes: 0.008757
     id: ck5c6eg9959qq0i11q51buytu
     verified: true
-    hashtags: "#bethankful, #alphaedge4d, #nhl, #teamadidas"
+    hashtags: "#wearable, #flashbackfriday, #womeninsport, #adidasrdy"
   - username: "johnnymo_7"
     fullname: >-
       John Morris
+    bio: >-
+      Olympian, Firefighter, Outdoorsman, Nutritionist . Proud Athlete Role Model #Lausanne2020 🇨🇭 #YouthOlympics 📅 09-22.01.2020 ➡️ Follow @Lausanne2020
     location: "Canada"
     followers: 13067
     engagement: 671
     commentsToLikes: 0.019864
     id: ck5zmfkchmhef0i14mbv34e0j
     verified: true
-    hashtags: "#roadtotheolympics, #brothers, #stayhealthy, #family"
-  - username: "melissacorinneb"
+    hashtags: "#curling, #gamechangers, #lausanne2020, #familytime"
+  - username: "roselinefilion"
     fullname: >-
-      Melissa | Canadian Olympian
+      Roseline Filion
+    bio: >-
+      [3x Olympian 🇨🇦 ] Co fondatrice @immersia_jeuxdevasion 📻 chroniqueuse sports à @toutunmatin sur @icircpremiere
     location: "Canada"
-    followers: 35259
-    engagement: 650
-    commentsToLikes: 0.012775
-    id: ck5c6menp5qpp0i119fx01pp8
+    followers: 19640
+    engagement: 367
+    commentsToLikes: 0.035816
+    id: ck6udqew9mk720j71wujefgn7
     verified: true
-    hashtags: "#getoutside, #playfortheworld, #workfromhome, #summeriscoming"
-  - username: "msdscott"
+    hashtags: "#stayhome, #montreal, #radio, #oeufsatouteheure"
+  - username: "nursey16"
     fullname: >-
-      Desiree Scott
+      Sarah Nurse
+    bio: >-
+      Olympian • Silver Medalist 🇨🇦🥈 @adidasca & @CCMHockey Athlete I enjoy skincare, a good outfit & french fries @pwhpa • Wisconsin Badger Alum 👐🏽
     location: "Canada"
-    followers: 22803
-    engagement: 504
-    commentsToLikes: 0.020682
-    id: ck14jgnzek8yd0i196l9pm6q0
+    followers: 25209
+    engagement: 815
+    commentsToLikes: 0.026455
+    id: ck5zijek7ftla0i141b68j1xd
     verified: true
-    hashtags: "#onelove, #forthew, #legggoooooo, #tokyoonmymind"
-  - username: "julianyeeee"
-    fullname: >-
-      Julian Yee 茹自杰
-    location: "Canada"
-    followers: 46137
-    engagement: 657
-    commentsToLikes: 0.005939
-    id: ck0ubg503ej8s0i19an3no768
-    verified: true
-    hashtags: "#newyear, #fengshui, #isuawards, #parkinglot"
+    hashtags: "#ootd, #curlyhair, #instamood, #hockey"
 ---

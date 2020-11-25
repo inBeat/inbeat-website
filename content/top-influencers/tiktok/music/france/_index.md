@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In France In 2020
 description: >-
-  Find top music TikTok influencers in France in 2020. Most popular hashtags: #funny #pourtoii #foruyou #tiktok.
+  Find top music TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #fyp #humour #foryou.
 platform: TikTok
+hits: 324
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 324 TikTok influencers like this in France for you to collaborate.
 profiles:
+  - username: "liahail"
+    fullname: >-
+      Liahailmusic
+    bio: >-
+      ✨Music et Acting✨ Contact: lia@hotmango.fr Music:liahailmusic@yahoo.com
+    location: "France"
+    followers: 246000
+    engagement: 2387
+    commentsToLikes: 0.056138
+    id: ckc8h319cb8fs0j23lk8imbpa
+    verified: false
+    hashtags: "#foryoupage, #pourtoipage, #pourtoi, #enigme"
+  - username: "k_yyy7"
+    fullname: >-
+      Klervie🍃
+    bio: >-
+      18✨♍️ she/her Paris ✌🏻🇫🇷 Bring back Musical.ly Nothing to add🙂
+    location: "France"
+    followers: 12500
+    engagement: 2068
+    commentsToLikes: 0.042744
+    id: ck9v90hesbxt40j783dplwqlg
+    verified: false
+    hashtags: "#ddlg, #trend, #transition, #kinktok"
+  - username: "iceyesee"
+    fullname: >-
+      IC - Musique / Beatmaker
+    bio: >-
+      Je réponds sur INSTA👆🏽 Music-Creator 💫 ÉCOUTE mon mini ALBUM sur SPOTIFY👇🏽
+    location: "France"
+    followers: 160100
+    engagement: 2377
+    commentsToLikes: 0.064613
+    id: ck961dwipm5dk0j78hro99y76
+    verified: false
+    hashtags: "#musiquetiktok, #tiktokmusique, #duels, #remix"
   - username: "youngdragun"
     fullname: >-
       YoungDragun
+    bio: >-
+      17 yo Young Yellow Asian I love rice and music My Instagram: @youngdragun (13k)
     location: "France"
-    followers: 47358
-    engagement: 2791
-    commentsToLikes: 0.056497
+    followers: 55100
+    engagement: 2700
+    commentsToLikes: 0.060611
     id: ckacusdi6kfvq0i78hgnj1uzu
     verified: false
-    hashtags: "#classement, #timotheechalamet, #mouche, #duo"
-  - username: "iceyesee"
+    hashtags: "#humour, #pourtoi, #asian, #fyp"
+  - username: "mrdeadpo_sz1"
     fullname: >-
-      IC
+      mrdeadpo_sz
+    bio: >-
+      en couple 🇲🇫 conv: aucune music: synth et autre
     location: "France"
-    followers: 93865
-    engagement: 2335
-    commentsToLikes: 0.058864
-    id: ck961dwipm5dk0j78hro99y76
+    followers: 5920
+    engagement: 1192
+    commentsToLikes: 0.123363
+    id: ckb9pepenkblq0j230m3hzyds
     verified: false
-    hashtags: "#musicstudio, #foryoupage, #lauv, #blindinglights"
-  - username: "zakariameskar"
+    hashtags: "#cosplay, #anime, #manga, #humour"
+  - username: "chakeup"
     fullname: >-
-      zakariameskar
+      Charlène 🐾
+    bio: >-
+      ça a changé musical.ly une revenante de retour pour te donner le sourire ☀️
     location: "France"
-    followers: 114226
-    engagement: 1561
-    commentsToLikes: 0.038974
-    id: ck9eola1tp11v0j78p1u970ot
-    verified: false
-    hashtags: "#humour, #enquarantaine, #ninho, #zipette"
-  - username: "arthurbolzonella"
-    fullname: >-
-      Arthur Bolzonella
-    location: "France"
-    followers: 14440
-    engagement: 1975
-    commentsToLikes: 0.036029
-    id: ckacr8aaj49qk0i78wxhmk65o
-    verified: false
-    hashtags: "#xyzcba, #foruyou, #sundyjules, #compo"
-  - username: "ogee_off"
-    fullname: >-
-      oceane
-    location: "France"
-    followers: 154343
-    engagement: 2743
-    commentsToLikes: 0.010848
-    id: ckai40b4am0il0i78ilbtw2qv
-    verified: false
-    hashtags: "#pourtoii, #makeup, #pov, #duo"
-  - username: "im.amelle"
-    fullname: >-
-      Im.amelle
-    location: "France"
-    followers: 36802
-    engagement: 3583
-    commentsToLikes: 0.010588
-    id: ck90tqtabto3k0j781z83w1gl
-    verified: false
-    hashtags: "#princesse, #piano, #histoire, #music"
-  - username: "iamblackwomen"
-    fullname: >-
-      dance et comédie
-    location: "France"
-    followers: 7598
-    engagement: 1114
-    commentsToLikes: 0.137184
-    id: cka84125jrfia0i78tnhstowj
-    verified: false
-    hashtags: "#foru, #transition, #actingchallenge, #etranges"
+    followers: 136300
+    engagement: 2146
+    commentsToLikes: 0.010738
+    id: ck8p0fmj2gkrh0j78mw3mwv0l
+    verified: true
+    hashtags: "#dontrushchallenge, #freezeframe, #ootd, #look"
   - username: "dylan_le_blanc"
     fullname: >-
       Dylan Le Blanc
+    bio: >-
+      Je vous répond sur insta 👆🏻 YOUTUBE: Dylan Le Blanc CHAÎNE MUSIC: DLB MUSIC
     location: "France"
-    followers: 131781
-    engagement: 1734
-    commentsToLikes: 0.010009
+    followers: 218200
+    engagement: 2105
+    commentsToLikes: 0.006490
     id: cka7p1jg75cwm0i78rlqznnl5
     verified: false
-    hashtags: "#mercedes, #mirrochallenge, #planet, #rock"
-  - username: "misshtii_shona"
+    hashtags: "#foryou, #humour, #pourtoi, #rap"
+  - username: "im.amelle"
     fullname: >-
-      👩‍⚕️Shonaly💪
+      Im.amelle
+    bio: >-
+      Riding in music ! Insta: fakir_jarrouie im.amelle Snapchat :amelle.banane
     location: "France"
-    followers: 29081
-    engagement: 895
-    commentsToLikes: 0.075658
-    id: ck9sk50l573020j78ltpyimoh
+    followers: 36900
+    engagement: 2927
+    commentsToLikes: 0.007612
+    id: ck90tqtabto3k0j781z83w1gl
     verified: false
-    hashtags: "#vision, #friendsforever, #bollywood, #isqhbaaz"
-  - username: "keke_lpb1"
+    hashtags: "#love, #fyp, #cheval, #foryou"
+  - username: "leilaliloo"
     fullname: >-
-      ⚡️ keke_lpb sur snap⚡️
+      LeïLa Liloo
+    bio: >-
+      Qui est comme moi ? 🤣 Certifiée grâce à la 👑 de Musicaly ⬇️ Mon insta ⬇️
     location: "France"
-    followers: 605366
-    engagement: 1671
-    commentsToLikes: 0.008073
-    id: ck900p678alb40j78m2yf9rb7
+    followers: 39300
+    engagement: 1664
+    commentsToLikes: 0.040450
+    id: ckcugq223f9uh0j23k7jy1llf
     verified: true
-    hashtags: "#heuss, #ahah, #instagramers, #musically"
+    hashtags: "#maroc, #foryou, #monstre, #jnoun"
+  - username: "arthurblzo"
+    fullname: >-
+      Arthur Bolzonella
+    bio: >-
+      Arthur 16 ans Instagram : ↗️ Merci pour les 20K 🙏🏼❤️ Chanteur/musicien
+    location: "France"
+    followers: 21500
+    engagement: 1625
+    commentsToLikes: 0.020532
+    id: ckacr8aaj49qk0i78wxhmk65o
+    verified: false
+    hashtags: "#fyp, #foryou, #pourtoi, #dimidimitar"
 ---

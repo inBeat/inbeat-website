@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In 2020
 description: >-
-  Find top cyclists Instagram influencers in 2020. Most popular hashtags: #ciclista #ridewithus #2020 #cyclingshot.
+  Find top cyclists Instagram influencers in 2020. Most popular hashtags: #cycling #cyclinglife #cyclist.
 platform: Instagram
+hits: 962
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 962 Instagram influencers like this for you to connect with.
 profiles:
   - username: "tommeeusen"
     fullname: >-
       Tom Meeusen
-    location: "United States"
-    followers: 17509
-    engagement: 1561
-    commentsToLikes: 0.009372
+    bio: >-
+      Cyclist
+    location: "Netherlands"
+    followers: 17329
+    engagement: 1579
+    commentsToLikes: 0.009329
     id: ck5byx1v7q0p90i11b7qsnen5
     verified: false
-    hashtags: "#worldbicycleday, #mycanyon, #corendoncircus, #nothingtolose"
-  - username: "ami.redd"
+    hashtags: ""
+  - username: "dylangroenewegen"
     fullname: >-
-      ☆ ami bigler-redd ☆
-    location: "United States"
-    followers: 2384
-    engagement: 2658
-    commentsToLikes: 0.167208
-    id: ck6ua4fsy1fay0j71131dq90p
+      Dylan Groenewegen
+    bio: >-
+      Dylan Groenewegen 🇳🇱 - ❌❌❌ - Pro cyclist Jumbo-Visma - Twitter: @GroenewegenD - inquiries: @segcycling
+    location: "Netherlands"
+    followers: 303694
+    engagement: 570
+    commentsToLikes: 0.037441
+    id: ck0tw2ndidr6e0i19xiy48vah
     verified: false
-    hashtags: "#hoco2k19, #happygirls, #teamprepusa, #crashtestdummy"
-  - username: "iamicaniwillido"
-    fullname: >-
-      Christine D'Ercole
-    location: "United States"
-    followers: 72394
-    engagement: 478
-    commentsToLikes: 0.048199
-    id: ck1392t0tj8g10i19h8fq6h06
-    verified: true
-    hashtags: "#cooking, #makeshithappen, #feed, #wolf"
+    hashtags: "#coronahulp, #helpenmaaktjehappy, #samentegencorona, #blackandyellow"
   - username: "gloriavanmechelen"
     fullname: >-
       Gloria Van Mechelen
+    bio: >-
+      🇱🇹🇧🇪 Cyclist for @cannibalteam tiktok: fruitybae
     location: ""
-    followers: 2324
-    engagement: 2188
-    commentsToLikes: 0.210347
+    followers: 2351
+    engagement: 2060
+    commentsToLikes: 0.177057
     id: ckapckyky48w60i786b5rzcvn
     verified: false
-    hashtags: "#examsgotmelike"
+    hashtags: "#fuckerfits, #weekday, #examsgotmelike, #nature"
   - username: "jasperphilipsen"
     fullname: >-
       Jasper Philipsen
+    bio: >-
+      - Professional cyclist for @uae_team_emirates - Represented by @squadrasportsmanagement
     location: "United Kingdom"
-    followers: 12656
-    engagement: 1574
-    commentsToLikes: 0.038729
+    followers: 15930
+    engagement: 1438
+    commentsToLikes: 0.032565
     id: ck5qe0jr7y5a20i11miq9mp2f
     verified: false
-    hashtags: "#uaeteamemirates, #covid, #sunnydays, #2020"
-  - username: "wroblewski_cycling"
+    hashtags: "#bike, #uaeteamemirates, #ridetogether, #cyclinglife"
+  - username: "clippedinandfree"
     fullname: >-
-      ROBERT
-    location: "United States"
-    followers: 5035
-    engagement: 1384
-    commentsToLikes: 0.138632
-    id: ckap4toip8tv80i78uv2uu0jc
+      Alina Jäger
+    bio: >-
+      Cyclist. Sensitive & savage Creator @einmenschwiejeder Founder @agentur.authentisch 📍Germany ❤@mikula.thome
+    location: "Germany"
+    followers: 97432
+    engagement: 731
+    commentsToLikes: 0.018557
+    id: ck5zs18lrxmqn0i148cz2x1v8
     verified: false
-    hashtags: "#people, #velo, #wawel, #akcja"
-  - username: "leti_galva"
+    hashtags: "#rideyourbike, #clippedinandfree, #cycling, #vscocycling"
+  - username: "kelsey.mitchell9"
     fullname: >-
-      Letizia Galvani
-    location: "Italy"
-    followers: 10857
-    engagement: 1392
-    commentsToLikes: 0.037519
-    id: ck14k1z5pnbow0i194oav6afx
+      Kelsey Mitchell
+    bio: >-
+      🇨🇦 Team Canada 🚲 Track Cyclist 🌎 World Record Holder 🏆 PanAm Champion 🙌 @RBC #Tokyo2020 || CANFund #150women 📍ONTARIO
+    location: "Canada"
+    followers: 6727
+    engagement: 1918
+    commentsToLikes: 0.033535
+    id: ck5hndtdrnm010i11v8eoipby
     verified: false
-    hashtags: "#summerportrait, #sunsetlife, #valentinobags, #ritrattiamatita"
+    hashtags: "#trackcycling, #teamcanada, #rbctrainingground, #rbc"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
+    bio: >-
+      ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 52921
-    engagement: 369
-    commentsToLikes: 0.058152
+    followers: 60698
+    engagement: 462
+    commentsToLikes: 0.046698
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#almendras, #colombia, #postresaludable, #chocolate"
-  - username: "the_pedaleur"
+    hashtags: "#espnbiketeam, #gorigogo, #ciclismo, #cycling"
+  - username: "woutvanaert"
     fullname: >-
-      Belgian hobby cyclist
-    location: "Belgium"
-    followers: 6169
-    engagement: 1444
-    commentsToLikes: 0.077668
-    id: ck5c3lbl4zjy60i111izclrmy
-    verified: false
-    hashtags: "#trainingtips, #horseofinsta, #whereweride, #cyclingbuddies"
-  - username: "caroamayac"
+      Wout van Aert
+    bio: >-
+      💍 Sarah 🚴‍♂️ Cyclist @jumbovisma_road 🚀 @RedBullBE athlete #GivesYouWings ✌🏼 Godfather of @towalkagain 🗣 'Stilstaan is achteruitgaan' #All4Goolie
+    location: "United States"
+    followers: 375307
+    engagement: 1308
+    commentsToLikes: 0.014181
+    id: ck0tw2nspdr8w0i192v7k3gis
+    verified: true
+    hashtags: "#samenwinnen, #comeback, #corona, #socialdistancing"
+  - username: "mooooo000min"
     fullname: >-
-      C A R O L I N A  A M A Y A
-    location: "Colombia"
-    followers: 53119
-    engagement: 270
-    commentsToLikes: 0.064282
-    id: ck14hx0ntck8t0i191jawclxe
+      beki（ベキ/ムーミン）
+    bio: >-
+      【ONELAP ANGEL 】ワンラップエンジェル e-Sports BIKE 女子チームメンバー @esportsangel_jp ・福岡在住 JAPAN🇯🇵 ・cyclist ・愛車はTREK （Madone4.5とMadone9） ・ロードバイクは2010年からスタート
+    location: "Japan"
+    followers: 23913
+    engagement: 1196
+    commentsToLikes: 0.024189
+    id: ck0w0ickgeck70i19zoleh1zm
     verified: false
-    hashtags: "#40tena, #quedateencasa, #relaxday, #bike"
+    hashtags: "#moving2020, #coordinate, #trek, #fashion"
+  - username: "stefanoellea"
+    fullname: >-
+      Stefano LA
+    bio: >-
+      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
+    location: "Italy"
+    followers: 22303
+    engagement: 726
+    commentsToLikes: 0.044025
+    id: ck0vx12hnwlrl0i19zqu8qjap
+    verified: false
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top architecture TikTok influencers in United Kingdom in 2020. Most popular hashtags: #architecture #sunset #london #cooking.
+  Find top architecture TikTok influencers in United Kingdom in 2020. Most popular hashtags: #architecture #fyp #tfbornthisway #jdwonderland.
 platform: TikTok
+hits: 42
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 42 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "rionwillard"
     fullname: >-
       Rion Willard
+    bio: >-
+      ‘What they don’t tell you at architecture school’ 🎙 Podcaster - BoA 📐Architect
     location: "United Kingdom"
-    followers: 4143
-    engagement: 592
-    commentsToLikes: 0.096242
+    followers: 27600
+    engagement: 381
+    commentsToLikes: 0.044591
     id: ck81rzng6oxh30j78vkmasiux
     verified: false
-    hashtags: "#designprocess, #nature, #architecturenyc, #moderndesign"
+    hashtags: "#architectlife, #architecture, #londonarchitecture, #travelarchitecture"
   - username: "londonviewpoints"
     fullname: >-
       londonviewpoints
+    bio: >-
+      Michael Tomas 🇬🇧📸 Timelapse,architecture & travel IG: LondonViewpoints (137k)
     location: "United Kingdom"
-    followers: 19957
-    engagement: 689
-    commentsToLikes: 0.018563
+    followers: 23500
+    engagement: 677
+    commentsToLikes: 0.019429
     id: ck8f7f6f82xm80j78ybsz57eg
     verified: false
-    hashtags: "#foryoupagethis, #gamingloop, #micdrop, #space"
-  - username: "alannahff"
+    hashtags: "#timelapse, #targetpractice, #londonskyline, #london"
+  - username: "nadialshx"
     fullname: >-
-      Alannah
+      nadia A
+    bio: >-
+      just an architecture student 🤷🏻‍♀️
     location: "United Kingdom"
-    followers: 40590
-    engagement: 1810
-    commentsToLikes: 0.007050
-    id: ck9uxlrfy0lvt0j7820laasu1
+    followers: 18900
+    engagement: 1770
+    commentsToLikes: 0.009823
+    id: ckb9o60a6ibyk0j23ait2icsc
     verified: false
-    hashtags: "#asahi, #laughchallenge, #foryou, #chopchopslide"
-  - username: "martynwhitelondon"
+    hashtags: "#architecture, #travelbucketlist, #housetour, #travel"
+  - username: "aishsrk"
     fullname: >-
-      Martyn White
+      Aisha Usman
+    bio: >-
+      My world starts and ends with SRK🇮🇳🇦🇪🇬🇧
     location: "United Kingdom"
-    followers: 25156
-    engagement: 537
-    commentsToLikes: 0.027203
-    id: ck80oc1p7gp820j78aoj97k5k
+    followers: 2921
+    engagement: 1697
+    commentsToLikes: 0.227806
+    id: ckahx0dset91d0i78f3uqwzjq
     verified: false
-    hashtags: "#pond, #beauty, #masterpiece, #timothyoulton"
+    hashtags: "#kidsagain, #gimmesometruth, #oohah, #matchit"
+  - username: "thisislondon"
+    fullname: >-
+      LONDON
+    bio: >-
+      #thisislondon LONDON from a Londoner perspective. Discover hidden gems here👇🏽
+    location: "United Kingdom"
+    followers: 94700
+    engagement: 1321
+    commentsToLikes: 0.007820
+    id: ckb9k09ivbq070j237q2q5573
+    verified: false
+    hashtags: "#cityview, #tiktoklondon, #architecture, #foryou"
   - username: "minty_sainsbury"
     fullname: >-
       Minty Sainsbury
+    bio: >-
+      @minty_sainsbury: architectural artist living in London.
     location: "United Kingdom"
-    followers: 2548
-    engagement: 1615
-    commentsToLikes: 0.031268
+    followers: 2714
+    engagement: 1595
+    commentsToLikes: 0.030802
     id: ck8orfaocc25y0j78ljldwpto
     verified: false
-    hashtags: "#venice, #alps, #pen, #foryoupage"
-  - username: "dear_frances"
+    hashtags: "#fyp, #architecture, #pencil, #fineart"
+  - username: "livia_tov"
     fullname: >-
-      Dear Frances
+      Livia
+    bio: >-
+      Products You Absolutely Need✔ Mommy to Leo🥰 Business enq: LiviaTov@yahoo.com
     location: "United Kingdom"
-    followers: 11400
-    engagement: 1260
-    commentsToLikes: 0.122976
-    id: ck9n71jv97kyy0j78aotu4868
-    verified: true
-    hashtags: "#italy, #shoechallenge, #phtography, #droneshot"
-  - username: "alientango"
-    fullname: >-
-      Alien Tango
-    location: "United Kingdom"
-    followers: 52180
-    engagement: 1570
-    commentsToLikes: 0.013430
-    id: ck94gp9y2gmyr0j78jx49kgih
+    followers: 257700
+    engagement: 2457
+    commentsToLikes: 0.019061
+    id: ckav0ek1c65dl0j236qmsuxr6
     verified: false
-    hashtags: "#vegan, #mandms, #instagram, #endoftheworld"
-  - username: "abdu_nour_travels"
+    hashtags: "#momsoftiktok, #pregnant, #beinspired, #parentsoftiktok"
+  - username: "arnie_ak"
     fullname: >-
-      Abdu_nour_travels
+      ⒶⒺⓈⓉⒽⒺⓉⒾⒸ
+    bio: >-
+      idk. changing name asap 😭😭
     location: "United Kingdom"
-    followers: 11568
-    engagement: 1169
-    commentsToLikes: 0.024063
-    id: ck8adabsc4mrg0j78k79yqlkw
+    followers: 100000
+    engagement: 2908
+    commentsToLikes: 0.084819
+    id: ckd5qbhqgxra80j23v60cavwo
     verified: false
-    hashtags: "#foodie, #hike, #mosque, #asmr"
-  - username: "yasminabraham"
+    hashtags: "#greenscreen, #fu, #celebs, #viral"
+  - username: "glossyximi"
     fullname: >-
-      Yasmin Abraham
+      h a l l o o o💘
+    bio: >-
+      you look really lost so follow me😛🤠 i am also really cool😎💘
     location: "United Kingdom"
-    followers: 3172
-    engagement: 949
-    commentsToLikes: 0.024944
-    id: ck9r4q667w9mk0j78eed2kq8t
+    followers: 28900
+    engagement: 2564
+    commentsToLikes: 0.163877
+    id: ckc7gn42ep3eo0j236z6hkh4y
     verified: false
-    hashtags: "#cooking, #food, #accident, #chicago"
-  - username: "eash.suga"
+    hashtags: "#whatyouknowaboutlove, #throwitback, #traditiontales, #celebratingheroes"
+  - username: "avk_ldn"
     fullname: >-
-      eash
+      AVK
+    bio: >-
+      You look lost, so ↖️⬆️ Check out my YouTube 🎥 Make sure to follow my INSTA!!
     location: "United Kingdom"
-    followers: 29158
-    engagement: 1773
-    commentsToLikes: 0.009813
-    id: ck8z658tbkodp0j78757kjfmp
+    followers: 99200
+    engagement: 2901
+    commentsToLikes: 0.033212
+    id: ckdcmcydoomu10j235p8h4owz
     verified: false
-    hashtags: "#jimin, #pink, #drawing, #satisfying"
+    hashtags: "#jdwonderland, #glee, #tvd, #riverdale"
 ---

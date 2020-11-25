@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In San Diego In 2020
 description: >-
-  Find top beauty TikTok influencers in San Diego in 2020. Most popular hashtags: #beauty #duet #quarantine #hair.
+  Find top beauty TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #sandiego #beauty #foryou.
 platform: TikTok
+hits: 16
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 16 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "whimsysoul"
+  - username: "brittneybaldwinlarsen"
     fullname: >-
-      ✨ Kara ✨
+      Brittney Baldwin
+    bio: >-
+      San Diego 🌊 I’m cuter on the gram: @brittneybaldwin Venmo: @brittneylarsen
     location: "United States"
-    followers: 213658
-    engagement: 2524
-    commentsToLikes: 0.023060
-    id: ck84ma2klmmrn0j78282jzc4h
+    followers: 2222
+    engagement: 512
+    commentsToLikes: 0.006179
+    id: ckcdn063oaicy0j23cknmeils
     verified: false
-    hashtags: "#gotthisforyou, #goldenhour, #adoption, #bohochic"
-  - username: "lifeof.lori"
+    hashtags: "#healthyrecipe, #easyrecipe, #cocktail, #health"
+  - username: "courtknee_24"
     fullname: >-
-      Lori💖
+      Courtney Ilten
+    bio: >-
+      IG: courtknee_24 San Diego, CA
     location: "United States"
-    followers: 11994
-    engagement: 1683
-    commentsToLikes: 0.011602
-    id: ck92t6969gjy00j78c12ya34d
+    followers: 4544
+    engagement: 513
+    commentsToLikes: 0.063198
+    id: ckb9m7a7nf5py0j23q22nhhvp
     verified: false
-    hashtags: "#coffee, #strut, #friendcheck, #levelup"
-  - username: "adrianxortiz"
+    hashtags: "#girls, #california, #dance, #friends"
+  - username: "sheylaax3"
     fullname: >-
-      Adrian
+      Sheyla✨
+    bio: >-
+      Hi 🦋✨ San Diego, CA🌴☀️
     location: "United States"
-    followers: 1535939
-    engagement: 2916
-    commentsToLikes: 0.055293
-    id: ck7zohnffk4us0j78gnmsjcph
+    followers: 4016
+    engagement: 341
+    commentsToLikes: 0.067853
+    id: ckb9jh7laasl20j23llq22n07
     verified: false
-    hashtags: "#beauty, #stepchickens, #filipino, #boys"
-  - username: "xo_miss.sim_xo"
+    hashtags: "#justdancemoves, #sandiego, #latinathingz, #notiktok"
+  - username: "vaneberlin1"
     fullname: >-
-      Beeautiful You!🐝
+      Vanessa Berlin✨
+    bio: >-
+      Beauty Tips | Lifestyle Belleza en español👉🏻 @vanessa.berlin
     location: "United States"
-    followers: 27528
-    engagement: 1867
-    commentsToLikes: 0.189048
-    id: cka6kh3aiyz4c0i7854k42800
+    followers: 8661
+    engagement: 1332
+    commentsToLikes: 0.032511
+    id: cka0urg71vkij0i78111pt1ij
     verified: false
-    hashtags: "#cosmotology, #justthink, #dance, #lilz"
-  - username: "analorenza6"
+    hashtags: "#fyp, #beautytip, #beautytips, #skincare"
+  - username: "tailoredbytaylor.xo"
     fullname: >-
-      analorenza6
+      tailoredbytaylor.xo
+    bio: >-
+      All things lifestyle + faith + fashion + beauty Venmo: taylor-keightley
     location: "United States"
-    followers: 71023
-    engagement: 2691
-    commentsToLikes: 0.028992
-    id: ck8s83oitrulu0j78awgc8zfa
+    followers: 4563
+    engagement: 459
+    commentsToLikes: 0.088898
+    id: ckbf87ofxyoza0j23ffh9anh8
     verified: false
-    hashtags: "#dothescotts, #lifehack, #acrylic, #vibecheck"
-  - username: "robrast"
+    hashtags: "#realtalk, #sandiego, #realtalktho, #fyp"
+  - username: "skysugaring"
     fullname: >-
-      Rob Rast
+      skysugaring
+    bio: >-
+      SugaringArtist🎭Youtuber 😇ASMR 🤪Comedy👄Beauty🍌Gaysian🌈Funny Esthetician😝😜
     location: "United States"
-    followers: 20278
-    engagement: 570
-    commentsToLikes: 0.031544
-    id: cka0w9vew20gn0i784myx39ud
+    followers: 49000
+    engagement: 270
+    commentsToLikes: 0.048689
+    id: ckb9rqfiyojlv0j23vm8uu8gg
     verified: false
-    hashtags: "#turniton, #howto, #weird, #cash"
-  - username: "annayako_"
+    hashtags: "#fun, #pride, #pridemonth, #massage"
+  - username: "audreymcclelland"
     fullname: >-
-      Anna
+      Audrey
+    bio: >-
+      Mom of 5 🥰 who is style & beauty obsessed ❤️ Follow me on IG: @AudreyMcClellan
     location: "United States"
-    followers: 9393
-    engagement: 404
-    commentsToLikes: 0.079021
-    id: ckac370yyba3r0i78v12klyg8
+    followers: 79200
+    engagement: 566
+    commentsToLikes: 0.013988
+    id: ck8or5mrnaniw0j7820u5xzvw
     verified: false
-    hashtags: "#fashionnova, #message, #imasavage, #bellami"
-  - username: "tatiana_angel_"
+    hashtags: "#hair, #teenboy, #easyhairstyle, #parenting"
+  - username: "cocoabriel"
     fullname: >-
-      Tatiana Angel
+      CocoaBriel
+    bio: >-
+      Racially ambiguous enough to be the best friend in a Netflix show //CA🌴🌊
     location: "United States"
-    followers: 36808
-    engagement: 446
-    commentsToLikes: 0.025878
-    id: ckafttfgj6zud0i788ovh39j2
+    followers: 38000
+    engagement: 1605
+    commentsToLikes: 0.036402
+    id: ckav5dq8kbvu80j23z2pwnxqt
     verified: false
-    hashtags: "#hairchallange, #burgers, #latinos, #pushup"
-  - username: "beauty"
+    hashtags: "#desigirl, #lifehack, #ad, #nyc"
+  - username: "officialrambam"
     fullname: >-
-      beauty
+      Ofc. Al.B
+    bio: >-
+      Sharing my daily life ● 18+ Work ● Food ● Experiences ● Traveling 🇯🇴●🇺🇲
     location: "United States"
-    followers: 8933
-    engagement: 353
-    commentsToLikes: 0.013107
-    id: ck9ewzh7sp3lc0j786j4zba38
+    followers: 15000
+    engagement: 325
+    commentsToLikes: 0.011406
+    id: ckcpd8r17fx1t0j23x4nb02sn
     verified: false
-    hashtags: "#fashionhacks, #makeuphacks, #girls, #skincare"
-  - username: "blue_eyed_grl33"
+    hashtags: "#walk, #nature, #letsgo, #animal"
+  - username: "jadaagibson"
     fullname: >-
-      Blue eyed grl 
+      Slayjay🦋✨
+    bio: >-
+      Booking Personal Oracle Readings🦋Link in my bio ☼Gemini☼ BLM L.O.V.E💕 She/her
     location: "United States"
-    followers: 18498
-    engagement: 2094
-    commentsToLikes: 0.051995
-    id: ck9novgztvzq80j78ob4zrtjx
+    followers: 20300
+    engagement: 2335
+    commentsToLikes: 0.068460
+    id: ckb9lfa8kdtcn0j23mmp16y9s
     verified: false
-    hashtags: "#duet, #chipmunks, #blindedmybestie, #lovesmejustthewaythatiam"
+    hashtags: "#itbelikethat, #spirituality, #fyp, #greenscreen"
 ---

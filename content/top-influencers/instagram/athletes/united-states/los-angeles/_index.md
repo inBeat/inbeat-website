@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top athletes Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #athlete #video #california.
+  Find top athletes Instagram influencers in Los Angeles in 2020. Most popular hashtags: #model #fitness #training #fitnessmotivation.
 platform: Instagram
+hits: 155
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 155 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "tarinamodelina"
+  - username: "callahanvolleyball"
     fullname: >-
-      Tara Blanchard
+      Traci Callahan 🍀
+    bio: >-
+      Pro Beach Volleyball Player 🇺🇸🏝🏐 FIVB World Tour | AVP Tour “Elevate The Game. Elevate The Planet.”(™) @horsesoldierbourbon
     location: "United States"
-    followers: 16816
-    engagement: 254
-    commentsToLikes: 0.043584
-    id: ck5q663nbw3nl0i11kd9747kn
+    followers: 42233
+    engagement: 1480
+    commentsToLikes: 0.030443
+    id: ck5pzszow2m240i11wdfl79v4
     verified: false
-    hashtags: "#spring, #headshots, #backyard, #theempresseffect"
-  - username: "piotrowskapaulina"
+    hashtags: "#focus, #strongwomen, #happy, #beastmode"
+  - username: "jessepagz"
     fullname: >-
-      Paulina Piotrowska
+      Jesse Pagz
+    bio: >-
+      Mom of 2 ♥️ ONLY OTHER ACCOUNT ⬇️ Fitness @jessepagzfit 🔥 @mansports Athlete - Jesse20 ➕➕➕➕
     location: "United States"
-    followers: 9369
-    engagement: 714
-    commentsToLikes: 0.060358
-    id: ck134psdaxm3k0i19o7w2p9kw
+    followers: 138938
+    engagement: 197
+    commentsToLikes: 0.030750
+    id: ck138quwqhkca0i19iijsa83d
     verified: false
-    hashtags: "#bodytransformations, #workoutvideos, #malibu, #californiagirl"
+    hashtags: "#gym, #curvy, #model, #tattooed"
+  - username: "matttralli5"
+    fullname: >-
+      Matt Tralli
+    bio: >-
+      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 Los Angeles, CA📍 The “Ab” Guy 💪🏻
+    location: "United States"
+    followers: 42690
+    engagement: 503
+    commentsToLikes: 0.016395
+    id: ck55ofu1w89re0i11l91u94y4
+    verified: false
+    hashtags: "#core, #coreworkout, #bootyworkout, #model"
+  - username: "nate_weston"
+    fullname: >-
+      Nate Weston
+    bio: >-
+      @TempestFreerunning Pro Athlete 📍 Los Angeles 📺 YouTube⤵️
+    location: "United States"
+    followers: 61585
+    engagement: 890
+    commentsToLikes: 0.015032
+    id: ck14go0m966ih0i19w6tjsnli
+    verified: false
+    hashtags: "#la, #parkour, #freerunning, #vans"
+  - username: "victoria_magrini"
+    fullname: >-
+      • V I C T O R I A •
+    bio: >-
+      Actor | Model | Athlete | Traveler 🌴 Los Angeles | Represented by Daniel Hoff Agency
+    location: "United States"
+    followers: 92638
+    engagement: 746
+    commentsToLikes: 0.017391
+    id: ck8t8d218jzg80j78mjvhg04k
+    verified: false
+    hashtags: "#girlswhoskate, #travel, #emmawatson, #skatepark"
+  - username: "mercadelcameron2024"
+    fullname: >-
+      CAM The Ankle Collector
+    bio: >-
+      Basketball Athlete 🏀 #RoadToVarsity Los Angeles 🏙 G.P.A 4.0 Philippians 4:13 🙏🏻 Jesus Loves You👀 🏀Check out my New Youtube Video Below👍🏿
+    location: "United States"
+    followers: 194734
+    engagement: 81
+    commentsToLikes: 0.064690
+    id: ckap3s9vd4ce50i78tufr1lmh
+    verified: false
+    hashtags: "#repost, #trainwithpurpose, #handzofthefuture, #icompetewithme"
+  - username: "trainwithseanharris"
+    fullname: >-
+      Sean Harris
+    bio: >-
+      los angeles athlete | nasm cpt personal page @sean.lamont 8 week full body program ↙️
+    location: "United States"
+    followers: 29179
+    engagement: 545
+    commentsToLikes: 0.033266
+    id: ckap0qa25rehe0i7838sp9oce
+    verified: false
+    hashtags: "#quarantine, #trainwithseanharris, #fitnessmotivation, #mondaymotivation"
   - username: "pjfperformance"
     fullname: >-
       Paul J. Fabritz
+    bio: >-
+      NBA Performance Specialist|Building Explosive & Durable Athletes|Exercise Scientist|Los Angeles, Ca|Click Link👇 For Vert Code Online Programs + EdgeU
     location: "United States"
-    followers: 510861
-    engagement: 166
-    commentsToLikes: 0.013200
+    followers: 521496
+    engagement: 173
+    commentsToLikes: 0.009737
     id: ck0w3jlahtr0d0i19vr7z18ui
     verified: true
     hashtags: ""
-  - username: "mahadhiwalker"
+  - username: "piotrowskapaulina"
     fullname: >-
-      Mahadhi
+      Paulina Piotrowska
+    bio: >-
+      Strength and Conditioning COACH / AWF @ryderwear Athlete- code PAULINA Los Angeles, CA 🇵🇱🇺🇸 contact 📩 Piotrowskapaulinamedia@gmail.com
     location: "United States"
-    followers: 12761
-    engagement: 642
-    commentsToLikes: 0.038789
-    id: ck9wp710682v10j780gcfdgis
+    followers: 10111
+    engagement: 441
+    commentsToLikes: 0.060454
+    id: ck134psdaxm3k0i19o7w2p9kw
     verified: false
-    hashtags: "#mahadhi, #newtork, #athlete, #518"
-  - username: "maseratijay"
+    hashtags: "#coretraining, #weighttraining, #athomeworkout, #ryderwearwomen"
+  - username: "omarzaki0"
     fullname: >-
-      TSF Jay Rock
+      Omar Zaki
+    bio: >-
+      Striving to make my younger self proud 🎬 SAG Acting, Stunts, VO THE GEEK on @ultimatetagfox Agent: @cleartalentgroup ⬇️ “What If?” Action Comedy ⬇️
     location: "United States"
-    followers: 29075
-    engagement: 194
-    commentsToLikes: 0.097133
-    id: ck5zvy88q54x40i14574js9cl
+    followers: 9268
+    engagement: 563
+    commentsToLikes: 0.057590
+    id: ckf5q3fx282600j23dom1v5yb
     verified: false
-    hashtags: "#movie, #serious, #stuck, #music"
-  - username: "gokorchivichyan"
-    fullname: >-
-      Gokor Chivichyan
-    location: "United States"
-    followers: 6572
-    engagement: 680
-    commentsToLikes: 0.040813
-    id: ck8sy1661jdfo0j78kwq9y6e7
-    verified: false
-    hashtags: "#fitfam, #neverlift, #judo, #mma"
-  - username: "ehdeportes"
-    fullname: >-
-      Elmer Hernandez
-    location: "United States"
-    followers: 62967
-    engagement: 231
-    commentsToLikes: 0.013312
-    id: ck13c2oclybun0i19g4l4zihw
-    verified: false
-    hashtags: "#stmarysstadium, #nikemercurial, #pumafuture, #southampton"
-  - username: "jennavieve_"
-    fullname: >-
-      jenna crawford
-    location: "United States"
-    followers: 2429
-    engagement: 1567
-    commentsToLikes: 0.043266
-    id: ck8sx50iug6m40j78lmvcniez
-    verified: false
-    hashtags: "#karachiresearchcenter, #girlab, #tracktuesday, #runacrossmay"
-  - username: "_anthonycherrera"
-    fullname: >-
-      Anthony Herrera
-    location: "United States"
-    followers: 2468
-    engagement: 1184
-    commentsToLikes: 0.056266
-    id: ck6u87jospw0x0j712z4pbd8l
-    verified: false
-    hashtags: "#fitness, #cali, #olympichopefuls, #lifestyle"
-  - username: "corbin_reinhardt"
-    fullname: >-
-      Corbin Reinhardt
-    location: "United States"
-    followers: 56325
-    engagement: 932
-    commentsToLikes: 0.011634
-    id: ck13clkoc0xvo0i19j6zggtzf
-    verified: false
-    hashtags: "#attackinglove, #tfil, #quarantineparkourchallenge, #parkour"
+    hashtags: "#jump, #freerunner, #athlete, #traceur"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers TikTok Influencers In Chicago In 2020
 description: >-
-  Find top barbers TikTok influencers in Chicago in 2020. Most popular hashtags: #barber #love #chicago #distancedance.
+  Find top barbers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #barber #foryou #foryoupage.
 platform: TikTok
+hits: 16
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 16 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "littlemoefades"
     fullname: >-
       LittleMoeFades
+    bio: >-
+      Insta; @littlemoefades 🎈 20y barber from Chicago 🌃 Enjoy the ride🌌
     location: "United States"
-    followers: 38049
-    engagement: 331
-    commentsToLikes: 0.013513
+    followers: 41600
+    engagement: 1196
+    commentsToLikes: 0.043710
     id: ck9gkmg9nk1to0j78pgb5kidg
     verified: false
-    hashtags: "#skincare, #moodboost, #brokeboy, #quarantine"
-  - username: "issa_qt_pie"
+    hashtags: "#foryou, #xyzbca, #hair, #timewarpscan"
+  - username: "ogbarber"
     fullname: >-
-      Ahmed Issa
+      OriginalBarber
+    bio: >-
+      Professional Barber From Chicago
     location: "United States"
-    followers: 68179
-    engagement: 1984
-    commentsToLikes: 0.021268
-    id: ck8qmjifwqev70j78atexegpf
+    followers: 3361
+    engagement: 301
+    commentsToLikes: 0.019780
+    id: ckaux11ci2fai0j23plbyik8m
     verified: false
-    hashtags: "#newyork, #duet, #glowup, #fortniteclips"
-  - username: "benhui_benhui_benhui_ben"
+    hashtags: "#selfcut, #chicagobarbers, #consistency, #tiktok"
+  - username: "jesse.elite87"
     fullname: >-
-      Benhui
+      Jesseelite
+    bio: >-
+      Want to learn more visit my YouTube channel, same name.Also eliteproductline.com
     location: "United States"
-    followers: 2781
-    engagement: 1003
-    commentsToLikes: 0.075834
-    id: ck9r8iayycesi0j780jsri9yp
+    followers: 98200
+    engagement: 320
+    commentsToLikes: 0.004036
+    id: ckaux13ex2fpc0j23z2fxq1rl
     verified: false
-    hashtags: "#keepingactive, #foreal, #travelthrowback, #savage"
-  - username: "weheartleon"
+    hashtags: "#jesseelitehairdye, #jesseelite, #hairstyle, #cosmotology"
+  - username: "fidelpittss"
     fullname: >-
-      Leon Martmen
+      Fidelpittss
+    bio: >-
+      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴17🧞‍♂️🪐BARBER💈 👻@sniper.del
     location: "United States"
-    followers: 494449
-    engagement: 1712
-    commentsToLikes: 0.010695
-    id: ck83ze905zz2s0j78utm04ask
+    followers: 314400
+    engagement: 1795
+    commentsToLikes: 0.015204
+    id: ckac3lagfbml40i780iuj0xaa
     verified: false
-    hashtags: "#notfamous, #helpthem, #boredinthehouse, #beautiful"
-  - username: "pitufina.lina"
+    hashtags: "#viral, #duet, #fyp, #comment"
+  - username: "ttg13kant"
     fullname: >-
-      Angelina Jade
+      Anthony Laster
+    bio: >-
+      100k Followers By The End Of My Deployment!? +Snap 👻 okg_anthony 📍Chicago📍
     location: "United States"
-    followers: 7003
-    engagement: 658
-    commentsToLikes: 0.064500
-    id: cka9m3fli3nqr0i78p0txs26k
+    followers: 51500
+    engagement: 1126
+    commentsToLikes: 0.028244
+    id: ckaiieu8ua48o0i78tmeju6oh
     verified: false
-    hashtags: "#fireball, #earthday, #findthem, #levelup"
-  - username: "stoptrippindawg"
+    hashtags: "#life, #xyz, #smile, #usmilitary"
+  - username: "tinogoku"
     fullname: >-
-      Stoptrippindawg
+      TinoGoKu
+    bio: >-
+      TINOGOKU ON ALL SOCIAL MEDIA PLATFORMS Chicago📍 | 18
     location: "United States"
-    followers: 4738
-    engagement: 777
-    commentsToLikes: 0.013299
-    id: ck9n8rk2m8twj0j78qum2c5g1
+    followers: 37400
+    engagement: 1051
+    commentsToLikes: 0.012878
+    id: ckb10j9omp1ja0j23ubvescma
     verified: false
-    hashtags: "#damn, #menes, #kdot, #skateboard"
-  - username: "alisac_thebarber"
+    hashtags: "#tinogoku, #crazy, #speaker, #lilkeev"
+  - username: "slutzareus"
     fullname: >-
-      Alisac Nieves
+      Nadeem
+    bio: >-
+      Chicago Catching all these snakes in the grass
     location: "United States"
-    followers: 16188
-    engagement: 254
-    commentsToLikes: 0.007792
-    id: ck81s0pqap69o0j788tf2rsyw
+    followers: 176300
+    engagement: 1021
+    commentsToLikes: 0.006816
+    id: ckb9dxg081dp40j232b1zb9z4
     verified: false
-    hashtags: "#foryourpage, #chicagamer, #haircut, #babyliss"
-  - username: "shelly.makaveli"
+    hashtags: "#police, #cops, #chicago, #fy"
+  - username: "moeqaisi202"
     fullname: >-
-      shelly.makaveli
+      Mohammed Qaisi
+    bio: >-
+      Chicago 🌃 Follow the insta ❤️ 🇵🇸/ 🇯🇴 $MoeQaisi
     location: "United States"
-    followers: 2316
-    engagement: 1027
-    commentsToLikes: 0.018295
-    id: cka6f8ho4eo9v0i787y793xnw
+    followers: 59900
+    engagement: 1172
+    commentsToLikes: 0.014831
+    id: ckb9gmpjl5r0v0j2323mrob77
     verified: false
-    hashtags: "#thedrop, #duet, #mexican, #chicanomovie"
-  - username: "rockrollg1"
+    hashtags: "#foryoupage, #notforyou, #foryou, #xyzbca"
+  - username: "youssefbarber"
     fullname: >-
-      RockRollG
+      Youssef Barber
+    bio: >-
+      Dread Butcher CEO of Diamond Cuts & Curl Sponge www.curlsponge.com Follow on IG
     location: "United States"
-    followers: 40283
-    engagement: 471
-    commentsToLikes: 0.013056
-    id: ckad5o13zvmp20i78nlxj31sb
+    followers: 284100
+    engagement: 1585
+    commentsToLikes: 0.005819
+    id: ck8kd2u8o3y6k0j785rdosy38
     verified: false
-    hashtags: "#rockrollg, #sisepuede, #ballinthefamily, #magic"
-  - username: "jaidynbarber"
+    hashtags: "#haircut, #dreadbutcher, #hair, #barber"
+  - username: "realsircruse"
     fullname: >-
-      • J A I D Y N •
+      Sir Cruse
+    bio: >-
+      $30 Page Post. Cashapp $Sircruse27 Email: Kingcrusejr@icloud.com
     location: "United States"
-    followers: 44939
-    engagement: 2402
-    commentsToLikes: 0.081497
-    id: ck9m45cwvk5sh0j7863cyta3q
+    followers: 336000
+    engagement: 953
+    commentsToLikes: 0.011493
+    id: ckb9i53bi89sk0j23xheq9ck8
     verified: false
-    hashtags: "#animalsreact, #iswearimnotmean, #signingday, #justsoyouknowmom"
+    hashtags: "#sircruse, #fyp, #haircut, #360waves"
 ---

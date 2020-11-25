@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top fitness Instagram influencers in Bogotá in 2020. Most popular hashtags: #fitness #bogota #medellin #colombia.
+  Find top fitness Instagram influencers in Bogotá in 2020. Most popular hashtags: #bogota #fitness #colombia #fitnessmotivation.
 platform: Instagram
+hits: 52
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 52 Instagram influencers like this in Bogotá, Colombia for you to contact.
 profiles:
-  - username: "david_artpe"
+  - username: "cristianarangoo"
     fullname: >-
-      David Peñalver Art
+      Cristian Arango
+    bio: >-
+      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
     location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
+    followers: 55704
+    engagement: 473
+    commentsToLikes: 0.028478
+    id: ck8tc6vqoyhzc0j78e599429f
     verified: false
-    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
-  - username: "camilabedoyac1"
+    hashtags: "#workout, #guy, #progreso, #men"
+  - username: "davidcardenass230"
     fullname: >-
-      Camila Bedoya
+      David Cárdenas  🇨🇴
+    bio: >-
+      Escribo sobre desarrollo personal✍️Modelo Fifness💪Ambientalista🌍hago videos de comedia🤷‍♂️bailes🕺comunicador social en formación. Medellin-Colombia 🇨🇴
     location: "Colombia"
-    followers: 64009
-    engagement: 203
-    commentsToLikes: 0.054516
-    id: ck5zkdz4rjb0a0i14hc690twm
+    followers: 96938
+    engagement: 175
+    commentsToLikes: 0.199456
+    id: ck8t8swuwlom10j78zd0k6o6d
     verified: false
-    hashtags: "#pereira, #fashion, #beauty, #estetica"
+    hashtags: "#bogota, #cartagena, #fitness, #iphone11"
   - username: "fredd.linares"
     fullname: >-
       FREDD LINARES
+    bio: >-
+      | 🇨🇴 | 🇦🇷 | 🇨🇱 | 🇺🇾 | 🇧🇷 | |📍Bogotá, Colombia. | | Dancer | Fitness | Teacher | Traveller |
     location: "Colombia"
-    followers: 11985
-    engagement: 501
-    commentsToLikes: 0.012096
+    followers: 11519
+    engagement: 597
+    commentsToLikes: 0.014739
     id: ck13a5q5foqse0i192dpfi21f
     verified: false
-    hashtags: "#2020"
-  - username: "nanaarenalesbga"
+    hashtags: ""
+  - username: "alfredovilla06"
     fullname: >-
-      Nana Arenales
+      Alfredo Villamizar 
+    bio: >-
+      Si Barranquilla tiene a su Shakira, Valledupar tiene a su Alfredovilla Tengo cuerpo, actitud y mucho talento 🦖 Activación de marcas 📥
     location: "Colombia"
-    followers: 66153
-    engagement: 52
-    commentsToLikes: 0.026286
-    id: ck6udri35mqc20j710kcwubmo
+    followers: 22372
+    engagement: 703
+    commentsToLikes: 0.348751
+    id: ck6u834czp5s00j71r6la3znq
     verified: false
-    hashtags: "#cartagena, #fitness, #fitnessmotivation, #panama"
+    hashtags: ""
+  - username: "fancyfitfun"
+    fullname: >-
+      𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
+    bio: >-
+      ✩ 𝓜𝓸𝓶 ♙♟ ✩ ʜᴇᴀʟᴛʜʏ-ɪsʜ Fᴏᴏᴅɪᴇ ☜ ✩ ᴄʏɢʟᴏ ɪɴsᴛʀᴜᴄᴛᴏʀ ♬ ✩ ʙʟᴀᴄᴋʙᴏx ᴛʀᴀɪɴᴇʀ ۩ ✩ ʀᴜɴ 👣 \\ ɢᴏʟF ♩ ✩ ʟօʋɛʀ օʄ ʟɨʄɛ 🧿
+    location: "Colombia"
+    followers: 31181
+    engagement: 100
+    commentsToLikes: 0.006670
+    id: ck8t01ne6qj2w0j780tkp5wfu
+    verified: false
+    hashtags: "#yomequedoencasa, #foodie, #exercisemotivation, #sushi"
   - username: "jesus_danil"
     fullname: >-
       Jesus Daniel 🔱
+    bio: >-
+      🔞@soyjesusdaniel2 📍#bogotá 🇨🇴 Tratando de ser #fitness🏋
     location: "Colombia"
-    followers: 79502
-    engagement: 659
-    commentsToLikes: 0.013242
+    followers: 81728
+    engagement: 541
+    commentsToLikes: 0.015741
     id: ck6u5j2zr9xc90j71yx7bsull
     verified: false
-    hashtags: "#outfitoftheday, #cutecouples, #mequedoencasa, #likeforlikes"
-  - username: "bryanromerog"
+    hashtags: "#mequedoencasa, #folllow, #menstyle, #hairstyle"
+  - username: "michaell.bans"
     fullname: >-
-      Bryan Romero
+      •Golden Bans•
+    bio: >-
+      •Diseñador Gráfico• •Mis viñetas: @miale_ilustraciones• •Tiktok: michaell.bans•
     location: "Colombia"
-    followers: 9365
-    engagement: 780
-    commentsToLikes: 0.069723
-    id: ck5pziv9a16y70i110jfnb26s
+    followers: 12476
+    engagement: 886
+    commentsToLikes: 0.035363
+    id: ckap2amc5y1er0i78c3fjxe7c
     verified: false
-    hashtags: "#velez, #hairstyle, #korn, #workout"
-  - username: "elianadiosa"
+    hashtags: "#photography, #black, #cuarentena, #modelo"
+  - username: "juanda_aldana"
     fullname: >-
-      Ɛℓιαηα Ɗισѕα✌🌻💞
+      RECUERDO DE JUAN DAVID ALDANA
+    bio: >-
+      🎬 Actor & Modelo 🏋🏻‍♂️ Deportista y Entrenador 📌 Bogota/Colombia
     location: "Colombia"
-    followers: 19572
-    engagement: 428
-    commentsToLikes: 0.031236
-    id: ck55lt4112d2p0i117lndpnlq
+    followers: 369779
+    engagement: 803
+    commentsToLikes: 0.017825
+    id: ck5ci7d94s5ie0i11plstqfw8
     verified: false
-    hashtags: "#milktistle, #work, #friend, #workout"
-  - username: "catagomezpi"
+    hashtags: "#fitness, #leon, #bangenergy, #energydrink"
+  - username: "julianatomann"
     fullname: >-
-      𝙲𝚊𝚝𝚊 𝙶𝚘𝚖𝚎𝚣 𝙿𝚒𝚎𝚍𝚛𝚊𝚑𝚒𝚝𝚊
+      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
+    bio: >-
+      ¡𝗔𝘆𝘂𝗱𝗼 𝗮 𝗹𝗮𝘀 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘀 𝗮 𝗴𝗲𝗻𝗲𝗿𝗮𝗿 𝘃𝗮𝗿𝗶𝗮𝘀 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗱𝗲 𝗶𝗻𝗴𝗿𝗲𝘀𝗼! 👨‍👩‍👦‍👦|ƒαмιℓια 🌡|Eɴғᴇʀᴍᴇʀᴀ 🇨🇴|𝘽𝙊𝙂-𝘾𝙊𝙇 🙏🏻|𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜 #bogota #love #mujer #fuerza
     location: "Colombia"
-    followers: 794299
-    engagement: 56
-    commentsToLikes: 0.014432
-    id: ck5zqlj4yutpl0i14p64y3c36
-    verified: true
-    hashtags: "#bebe, #drenajelinfatico, #buenasnoches, #masdeloqueso"
-  - username: "patyxfit"
-    fullname: >-
-      ᑭᗩTᖇIᑕIᗩ ᒪᗩᖇᗩ
-    location: "Colombia"
-    followers: 28389
-    engagement: 180
-    commentsToLikes: 0.096215
-    id: ck8tan244sd4e0j78banzl4km
+    followers: 16266
+    engagement: 680
+    commentsToLikes: 0.111989
+    id: ck14ltbuxwdna0i19naqt0jed
     verified: false
-    hashtags: "#stayhome, #cozinhaterapia, #doubleunders, #nadaeimpossivel"
-  - username: "vero7c"
+    hashtags: "#beauty, #follow, #entrepreneur, #love"
+  - username: "kathecfit"
     fullname: >-
-      V E R Ó N I C A🤍C U É L L A R
+      Kathe Cruz
+    bio: >-
+      📌| Bogota- Colombia 📚| Entrenadora en formación CCAPF 🏋🏻‍♀️ 💥| Fitness life 🙈 🎓| Tecnóloga en gestión ambiental y servicios públicos UD.
     location: "Colombia"
-    followers: 10631
-    engagement: 735
-    commentsToLikes: 0.056069
-    id: ckap49ldg6d680i78u5pl08m9
+    followers: 25686
+    engagement: 708
+    commentsToLikes: 0.016115
+    id: ckap4egng703l0i78k3w2c4sb
     verified: false
-    hashtags: "#newyorkcity, #friends, #villavicencio, #fitness"
+    hashtags: "#fitness, #fit, #instafit, #results"
 ---

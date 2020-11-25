@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top rappers Instagram influencers in Brazil in 2020. Most popular hashtags: #ficaemcasa #quarentena #cerrado #diadamulher.
+  Find top rappers Instagram influencers in Brazil in 2020. Most popular hashtags: #model #rapnacional #corposaudavel.
 platform: Instagram
+hits: 104
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 104 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "mcbmooo"
-    fullname: >-
-      MC BMO
-    location: "Brazil"
-    followers: 664289
-    engagement: 1280
-    commentsToLikes: 0.025911
-    id: ck5hgprqc43gb0i112ypo3zkq
-    verified: false
-    hashtags: "#posedequebrada, #mcbmonobrbplay"
   - username: "coebuddy"
     fullname: >-
       BUDDY POKE
+    bio: >-
+      💙 Pai do Bernardo 🎤 Rapper RJ 🤪 REI DA GASTATIVIDADE! . ☎️: 21 98068-5040 (Shows e parcerias)
     location: "Brazil"
-    followers: 404488
-    engagement: 778
-    commentsToLikes: 0.027873
+    followers: 413416
+    engagement: 585
+    commentsToLikes: 0.030200
     id: ck6u5ukp5bu4a0j71x7cayreh
     verified: false
-    hashtags: ""
-  - username: "felicinharock"
+    hashtags: "#blackouttuesday"
+  - username: "matheusxcoringa"
     fullname: >-
-      Felícia Rock
+      Matheus Coringa
+    bio: >-
+      Desde 1995 o + sujo 🇧🇷 I’m not a Rapper 🏴‍☠️ COM TÍTULO no Youtube ⛩
     location: "Brazil"
-    followers: 81112
-    engagement: 811
-    commentsToLikes: 0.015752
-    id: ck8t9c9tunkks0j78ljbi1gwq
+    followers: 11297
+    engagement: 844
+    commentsToLikes: 0.127582
+    id: ckap4az906jna0i781ulg7gz3
     verified: false
-    hashtags: "#prior, #hairstyle, #kuudere, #kpop"
-  - username: "phoenix_rdc"
+    hashtags: "#hondapatrocinaobotafogo, #hondaparadecutcharra"
+  - username: "mcbmooo"
     fullname: >-
-      Vencedor
+      MC BMO
+    bio: >-
+      rapper, compositor, freestyle • shows: 011 941798066 cria de bsb
     location: "Brazil"
-    followers: 65658
-    engagement: 711
-    commentsToLikes: 0.010272
-    id: ck6u9srw7zfnd0j71c4mct80e
-    verified: true
-    hashtags: "#derek, #kevin, #kendrick"
+    followers: 814153
+    engagement: 900
+    commentsToLikes: 0.015014
+    id: ck5hgprqc43gb0i112ypo3zkq
+    verified: false
+    hashtags: ""
   - username: "juninhoandradi"
     fullname: >-
       Andradii
+    bio: >-
+      Modelo, rapper e criador de conteúdo⁣⁣⁣⁣ moda | lifestyle | vida fitness⁣ 💌 contatoandradi@outlook.com⁣.br 📍 RJ⁣ Assista ao clipe “Nosso Mundo”
     location: "Brazil"
-    followers: 23104
-    engagement: 259
-    commentsToLikes: 0.427404
+    followers: 23602
+    engagement: 316
+    commentsToLikes: 0.159205
     id: ck9we1weei7ww0j78ujl1ng1u
     verified: false
-    hashtags: "#masculino, #photooftheday, #covid, #influencer"
-  - username: "mczen_"
+    hashtags: "#lookpraia, #homematualizado, #modelosbr, #modelofotografico"
+  - username: "juniormcoficial"
     fullname: >-
-      MC ZEN
+      Júnior Mc / Faixa Preta
+    bio: >-
+      Rapper Integrante da @familiatriplice Lauro De Freitas BA Se inscreve lá
     location: "Brazil"
-    followers: 27839
-    engagement: 304
-    commentsToLikes: 0.042331
-    id: ck5c86dhm8v170i11glcd2d6c
+    followers: 13912
+    engagement: 813
+    commentsToLikes: 0.037973
+    id: ck5q1y76hdcwv0i1119ifmpeb
     verified: false
-    hashtags: "#vilaplanalto, #ficaemcasa, #natureza, #bike"
+    hashtags: "#model, #negrosnotopo, #cacheadas, #pretinhodopoder"
+  - username: "morcegoreal"
+    fullname: >-
+      MORCEGO
+    bio: >-
+      Rapper 👾 +100M 🌽VIEWS/PLAYS
+    location: "Brazil"
+    followers: 41836
+    engagement: 134
+    commentsToLikes: 0.058455
+    id: ck1357fob02sm0i19x9gtncof
+    verified: false
+    hashtags: "#tudubom, #nikeboys, #sant, #faveladochique"
+  - username: "flaviorenegado"
+    fullname: >-
+      Flávio Renegado
+    bio: >-
+      Cantor, Rapper, Compositor Colunista @midianinja Gestão @aprojetart 📩 pedro@projetar.art.br 👇🏾 Clipe “Negão Negra"
+    location: "Brazil"
+    followers: 35409
+    engagement: 125
+    commentsToLikes: 0.130519
+    id: ck9hc014vj6770j78giatvx2c
+    verified: true
+    hashtags: "#filhodorei, #caf, #elzasoares, #blackbody"
+  - username: "aulad7"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ D I E G O .
+    bio: >-
+      Rapper/Produtor — Astro Gang 🌠 📨: contatodalua@tatumedia.com.br Label: @tatu.midia | TimePRO! 🐙🕸 ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ “DIEGO” Out Now! ASSISTA AGORA‼️
+    location: "Brazil"
+    followers: 42783
+    engagement: 541
+    commentsToLikes: 0.028836
+    id: ck134qq1zxqj50i19sur5gue3
+    verified: false
+    hashtags: "#covid19"
   - username: "panterabl4ck"
     fullname: >-
       Bl4ckPanther
+    bio: >-
+      MC/RAPPER/NEGAÇA/MODELO Bela dona boladona na ilha de lost shit ✨💯🖕🏿 Real gangstar 👸🏿
     location: "Brazil"
-    followers: 3475
-    engagement: 822
-    commentsToLikes: 0.098225
+    followers: 3946
+    engagement: 895
+    commentsToLikes: 0.106503
     id: ck6ufyqhjzx030j71m7q82d5c
     verified: false
-    hashtags: "#woman, #afropunk, #queen, #africanhairstyles"
-  - username: "rod3030"
+    hashtags: "#afropunk, #blackquen, #jamaica, #narima"
+  - username: "mcsoffia"
     fullname: >-
-      Majin Boo
+      MC Soffia
+    bio: >-
+      *Rapper Teen *Publicidade: mcsoffia@mynd8.com.br *Contato shows: contatomcsoffia@hotmail.com
     location: "Brazil"
-    followers: 147178
-    engagement: 238
-    commentsToLikes: 0.030346
-    id: ck6tywtxi6bbl0j71nk0xi47o
+    followers: 314133
+    engagement: 151
+    commentsToLikes: 0.017117
+    id: ck0tzsgnwrfv00i199i2mlbxa
     verified: true
-    hashtags: "#quarentadiasentreoc, #rapnaquarentena, #desabafolirico, #oshowtemquecontinuar"
-  - username: "brunalys"
-    fullname: >-
-      Bruna Lys
-    location: "Brazil"
-    followers: 9301
-    engagement: 461
-    commentsToLikes: 0.047288
-    id: ck601daz0fa800i14o7oh2km5
-    verified: false
-    hashtags: "#thecoolestofficeintown, #tbt, #staytodayroartomorrow, #mychicagothursday"
-  - username: "k_vontae"
-    fullname: >-
-      R'odrigues 🤬🤘🏿🤬🤟🏿🤬
-    location: "Brazil"
-    followers: 154347
-    engagement: 500
-    commentsToLikes: 0.171988
-    id: ck6udssnymxpj0j71vbjj3zlf
-    verified: false
-    hashtags: "#sorteios, #sorteio"
+    hashtags: "#ceanothevoicebrasil, #empoderadachallenge, #ceamuitoeu, #publi"
 ---

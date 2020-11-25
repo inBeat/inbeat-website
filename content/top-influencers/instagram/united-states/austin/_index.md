@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Austin In 2020
 description: >-
-  Find top Instagram influencers in Austin in 2020. Most popular hashtags: #olfaallproteam #nbhd #constructionworkerofig #powertools.
+  Find top Instagram influencers in Austin in 2020. Most popular hashtags: #happy #instagood #newlyweds.
 platform: Instagram
+hits: 2889
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 2889 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "charles.reagan"
-    fullname: >-
-      Charles Reagan
-    location: "United States"
-    followers: 67414
-    engagement: 127
-    commentsToLikes: 0.028832
-    id: ck0tt0ysz0oph0i19fdvihlzo
-    verified: false
-    hashtags: "#mumfordandsons, #stvincent, #brandicarlile, #thestruts"
   - username: "cautiouslycareless"
     fullname: >-
       Austin
+    bio: >-
+      -Personal Account -@austin_nydam -Illinois -88/99 Comanche #TankTheComanche
     location: "United States"
-    followers: 8000
-    engagement: 1033
-    commentsToLikes: 0.014770
+    followers: 8125
+    engagement: 1118
+    commentsToLikes: 0.013562
     id: ck14hjxr9aotq0i19x01se58a
     verified: false
-    hashtags: "#psc, #flop, #manchemonday, #jkxca"
+    hashtags: "#comanche, #sandhollow, #moab, #rockcrawler"
   - username: "tools_at_work"
     fullname: >-
       Austin
+    bio: >-
+      Everything tools for residential home building . Check hashtag #austinstoolrevieworganizer for all reviews. Owner of @av_carpentry latest YouTube👇
     location: "United States"
-    followers: 35864
-    engagement: 106
-    commentsToLikes: 0.020103
+    followers: 37003
+    engagement: 82
+    commentsToLikes: 0.016446
     id: ck0uctqefhllh0i19qqvrj6uo
     verified: false
-    hashtags: "#design, #house, #keepcraftalive, #makita"
-  - username: "jessicaspomer"
+    hashtags: "#milwaukeetools, #constructionworkerofig, #wood, #handtools"
+  - username: "coricoffin"
     fullname: >-
-      Jessica Spomer
+      Cori Coffin NBC
+    bio: >-
+      Freelance Anchor @nbcnews @nbc_earlytoday 2x Emmy award winner Previously @fox5dc Washington DC, @kvuenews Austin TX
     location: "United States"
-    followers: 24182
-    engagement: 1628
-    commentsToLikes: 0.059886
-    id: ck0ua5slvbgd00i19ayxq2lzx
-    verified: false
-    hashtags: "#emotional, #helpmeoutplease, #mommyvlogger, #baby"
-  - username: "nicolemrauch"
-    fullname: >-
-      N I C O L E | workout with me
-    location: "United States"
-    followers: 20119
-    engagement: 850
-    commentsToLikes: 0.093393
-    id: ck8t6xak8ezc20j78ohef7l05
-    verified: false
-    hashtags: "#cardio, #cardioworkouts, #outdoorworkout, #fullbodyfriday"
-  - username: "britt_fishing"
-    fullname: >-
-      𝓑𝓻𝓲𝓽𝓽𝓪𝓷𝔂 𝓞𝓼𝓴𝓮𝔂
-    location: "United States"
-    followers: 96468
-    engagement: 578
-    commentsToLikes: 0.055458
-    id: ck5c9l820bmvl0i11rv8y0fhk
-    verified: false
-    hashtags: "#giveaways, #mondayblues, #toughertogether, #girlsjustwannahavefun"
+    followers: 6079
+    engagement: 1226
+    commentsToLikes: 0.090897
+    id: ck6tk14mn3st10j71mmn7mbp9
+    verified: true
+    hashtags: "#snl, #rescuepuppy, #firstdayoffall, #fall"
   - username: "malloryriddaugh"
     fullname: >-
       MALLORY PARHAM RIDDAUGH
+    bio: >-
+      I love Jesus a lot 🤍 Lifestyle || Simple Fashion || Teacher Charlotte, NC || Enneagram 7w8 || Christmas lover Wife to @austinriddaugh
     location: "United States"
-    followers: 7610
-    engagement: 1418
-    commentsToLikes: 0.059094
+    followers: 10909
+    engagement: 1019
+    commentsToLikes: 0.078135
     id: ckap3rf4p48id0i785tabh46v
     verified: false
-    hashtags: "#noexit, #balticborn, #comfysweater, #aeriereal"
-  - username: "champagneandchanel"
+    hashtags: "#teacheroutift, #charlotteblogger, #newlyweds, #liketkit"
+  - username: "megankovach"
     fullname: >-
-      Emily Herren
+      MEGAN KOVACH
+    bio: >-
+      “I’m a rocket, man” - Sir Elton John 😉 🧘‍♀️200 RYT 📍Austin mk@megankovach.com
     location: "United States"
-    followers: 1027257
-    engagement: 471
-    commentsToLikes: 0.056184
-    id: ck0tu6t7x5w2j0i19dife6b5o
+    followers: 67821
+    engagement: 672
+    commentsToLikes: 0.036990
+    id: ck6tvpbbmni5f0j719gtwx5t0
     verified: false
-    hashtags: "#nordstrom, #humnutrition, #guccibeauty, #brooklinen"
-  - username: "sarahpaullft"
+    hashtags: "#revolvesummer, #revolve, #revolveme, #ad"
+  - username: "duceygold"
     fullname: >-
-      Sarah Pauluk
+      Ducey Gold 🌩
+    bio: >-
+      ✌🏾🧑🏾‍🚀⚔️ Booking: Austin@beatgig.com PRE SAVE MOONLIGHT COMING 11/24💙
     location: "United States"
-    followers: 6751
-    engagement: 1465
-    commentsToLikes: 0.054015
-    id: ck8tcsoiy0iw30j78si8wfewi
+    followers: 21174
+    engagement: 674
+    commentsToLikes: 0.090146
+    id: ck5zk7v3xizj50i14bzdzg6s9
     verified: false
-    hashtags: "#fitgirlsinspire, #homeworkout, #fitnessjourney, #always"
-  - username: "rebeccaseals"
+    hashtags: "#quarantine, #tbt, #explore, #reels"
+  - username: "trishmahajan"
     fullname: >-
-      Rebecca Seals
+      Tri$h
+    bio: >-
+      Dallasss🖤 UT Austin ‘23 Snap: hayitstrish
     location: "United States"
-    followers: 128743
-    engagement: 414
-    commentsToLikes: 0.055788
-    id: ck15rdmg07elx0i19iacxrr1t
+    followers: 3428
+    engagement: 2967
+    commentsToLikes: 0.098703
+    id: ck8wgal1bh0fp0j78851ktixb
     verified: false
-    hashtags: "#christmasmakeup, #cherryblossoms, #koreanskincare, #daphneblake"
+    hashtags: "#19"
+  - username: "coleman"
+    fullname: >-
+      MATT
+    bio: >-
+      keep the faith | NorfolkVA. AustinTX. 🏀 @mnmtl.us | @mattyicecloset
+    location: "United States"
+    followers: 29646
+    engagement: 844
+    commentsToLikes: 0.040499
+    id: ck5q73l8mzuta0i1125wo670d
+    verified: true
+    hashtags: "#weareone"
+  - username: "hood_atx"
+    fullname: >-
+      Sean Hood
+    bio: >-
+      Austin, Texas ❌THIS IS MY ONLY ACCOUNT❌ Wifey 💍 @clarissahood Family 👨‍👩‍👦‍👦 / Faith 🙏🏼 Recovery 🙌 / Inspiration 💯Fitness 🏋🏻‍♂️ / Tattoos 💉
+    location: "United States"
+    followers: 28566
+    engagement: 776
+    commentsToLikes: 0.044295
+    id: ckap03rv2olja0i78giwn6rti
+    verified: false
+    hashtags: "#biceps, #gains, #dadlife, #happy"
+  - username: "carlos_truan"
+    fullname: >-
+      Carlos Truan
+    bio: >-
+      🎚COMMUNION🎚 🕷Austin,Texas 🕷truantattoo@gmail.com 🖤@cattackular 🖤
+    location: "United States"
+    followers: 15238
+    engagement: 1086
+    commentsToLikes: 0.044466
+    id: ck5qcxcqassao0i11mrf16dbv
+    verified: false
+    hashtags: "#2020, #communion"
 ---

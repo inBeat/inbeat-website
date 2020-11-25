@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Poland In 2020
 description: >-
-  Find top health TikTok influencers in Poland in 2020. Most popular hashtags: #dance #quarantine #trend #sport.
+  Find top health TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #fyp #dc #viral.
 platform: TikTok
+hits: 33
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 33 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "artybryja"
     fullname: >-
       Try Can Do
+    bio: >-
+      Motivation - Inspiration - Insight (Health Wealth Happiness)
     location: "Poland"
-    followers: 29212
-    engagement: 1104
-    commentsToLikes: 0.012476
+    followers: 28500
+    engagement: 1117
+    commentsToLikes: 0.011897
     id: ck9k5xoe7yjhv0j78d05oadmb
     verified: false
-    hashtags: "#makemefamous, #dontletitflop, #amazing, #casual"
+    hashtags: "#dlaciebie, #fyp, #dancing, #tiktok"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
+    bio: >-
+      Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 3727
-    engagement: 429
-    commentsToLikes: 0.032010
+    followers: 6289
+    engagement: 509
+    commentsToLikes: 0.020855
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#challange, #riseandshine, #haircare, #healthyrecipe"
-  - username: "wiktoriajaroniewska"
+    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
+  - username: "dominikaroszak"
     fullname: >-
-      Wiktoria Jaroniewska
+      Dominika Roszak
+    bio: >-
+      Instagram z przepisami : @healthy_bydominika 🍫🍭🥗
     location: "Poland"
-    followers: 248535
-    engagement: 1859
-    commentsToLikes: 0.032049
-    id: ck8nbfg7q9oli0j782g9m9vmv
+    followers: 4590
+    engagement: 641
+    commentsToLikes: 0.013695
+    id: ck9bxjriammqm0j78g9xlrqz3
     verified: false
-    hashtags: "#diet, #cute, #hot16challenge2, #healthydiet"
-  - username: "kvjkvmjvl"
+    hashtags: "#foryou, #zostanwdomu, #foryoupage, #dc"
+  - username: "barbara.ni"
     fullname: >-
-      kajakamilajulka
+      barbara
+    bio: >-
+      19, warsaw sprawdź nowości elektroniczne w Empiku klikając tu⬇️
     location: "Poland"
-    followers: 7193
-    engagement: 1157
-    commentsToLikes: 0.039479
-    id: ckachgbn6z9b50i788vnym45b
+    followers: 14600
+    engagement: 1246
+    commentsToLikes: 0.021378
+    id: ckdtenmivvrgm0j23s4xqpkxt
     verified: false
-    hashtags: "#rozdanie, #yummy, #eating, #nature"
+    hashtags: "#harrypotter, #foryoupage, #snapshot, #genz"
   - username: "exhto"
     fullname: >-
       Aga Exhuman
+    bio: >-
+      Artist and yoga freak 🧘🏻‍♀️🎨
     location: "Poland"
-    followers: 7083
-    engagement: 278
-    commentsToLikes: 0.024904
+    followers: 6864
+    engagement: 287
+    commentsToLikes: 0.026854
     id: ck8j8py0sjv7q0j78t27qhnzc
     verified: false
-    hashtags: "#malowanienosem, #yogachallenge, #savetheearth, #tiktokgaleria"
-  - username: "juliahajdenraich"
+    hashtags: "#dc, #forupage, #yoga, #dlaciebie"
+  - username: "gandi_thc"
     fullname: >-
-      Julia Hajdenraich
+      Gandi Nisha
+    bio: >-
+      ☁ sklep z ciuchami ig lovethcstore ☁ ⭐ ig gandi_th
     location: "Poland"
-    followers: 4443
-    engagement: 396
-    commentsToLikes: 0.017517
-    id: cka0jird0i55j0i78sy76zn2a
+    followers: 55200
+    engagement: 1877
+    commentsToLikes: 0.038185
+    id: ck9k7vy0b6hwn0j78th74fwsf
     verified: false
-    hashtags: "#pizza, #pictures, #joke, #duet"
-  - username: "0lbi"
-    fullname: >-
-      0lbi
-    location: "Poland"
-    followers: 8245
-    engagement: 1149
-    commentsToLikes: 0.091229
-    id: cka0hkam29nr80i78dx5docv6
-    verified: false
-    hashtags: "#freezechallange, #kwarantanna, #dieta, #futuregoals"
-  - username: "dietetyk_w_spodnicy"
-    fullname: >-
-      Dietetyk w spódnicy
-    location: "Poland"
-    followers: 4591
-    engagement: 1191
-    commentsToLikes: 0.023343
-    id: cka695w9trblg0i78z723qusj
-    verified: false
-    hashtags: "#dance, #love, #comedy, #studentslife"
-  - username: "karolina9871"
-    fullname: >-
-      Karolina9871
-    location: "Poland"
-    followers: 12522
-    engagement: 1362
-    commentsToLikes: 0.042346
-    id: ck8saajbz1aqv0j78mj2ck6gt
-    verified: false
-    hashtags: "#goviral, #coffee, #fryou, #foryoupgae"
+    hashtags: "#trend, #dc, #dlaciebie, #dlacb"
   - username: "irena.vass"
     fullname: >-
       irena
+    bio: >-
+      ✨🪐⚡️ follow my ig😋 @irenavass business email💌 imirenavass@gmail.com
     location: "Poland"
-    followers: 1762377
-    engagement: 1212
-    commentsToLikes: 0.010510
+    followers: 1700000
+    engagement: 1173
+    commentsToLikes: 0.009821
     id: ck97wpards3hg0j78a3qjkygw
     verified: false
-    hashtags: "#healthyrecipes, #easymeals, #slowmo, #love"
+    hashtags: "#ad, #makeup, #flattummyapp, #fyp"
+  - username: "mrs.upril"
+    fullname: >-
+      Aleksandra Kwiecień
+    bio: >-
+      Instagram: @mrs.upril ❤️ Współpraca 📩: kwiecien.wspolpraca@gmail.com
+    location: "Poland"
+    followers: 31000
+    engagement: 1383
+    commentsToLikes: 0.043707
+    id: ckaiggeco1cip0i78elni821e
+    verified: false
+    hashtags: "#dc, #bf, #viral, #challange"
+  - username: "borys.s"
+    fullname: >-
+      Borys
+    bio: >-
+      Brand Identity Designer 🖊 👇🏼 Currently booking new projects ⌛️
+    location: "Poland"
+    followers: 22600
+    engagement: 753
+    commentsToLikes: 0.041664
+    id: ck9nb2utrapo50j78qnkq5ykq
+    verified: false
+    hashtags: "#designer, #logodesign, #typography, #brandidentity"
+  - username: "kvjkvmjvl"
+    fullname: >-
+      kajakamilajulka
+    bio: >-
+      KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
+    location: "Poland"
+    followers: 12900
+    engagement: 1153
+    commentsToLikes: 0.043550
+    id: ckachgbn6z9b50i788vnym45b
+    verified: false
+    hashtags: "#dc, #cooking, #polska, #foryoupage"
 ---

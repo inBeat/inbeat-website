@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners Instagram Influencers In Austria In 2020
 description: >-
-  Find top runners Instagram influencers in Austria in 2020. Most popular hashtags: #mountains #stayathome #running #austria.
+  Find top runners Instagram influencers in Austria in 2020. Most popular hashtags: #running #runner #mountains #trailrunning.
 platform: Instagram
+hits: 18
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Austria for you to work with.
 profiles:
+  - username: "theflyingflip"
+    fullname: >-
+      PHIL AUSSERHOFER
+    bio: >-
+      Runner | Alpinist | Skier ✘ made in Ahrntal | South Tyrol ✘ actual homebase: IBK | Tyrol ✘ wild heart | deep mind | free soul ✘ since 92
+    location: "Austria"
+    followers: 9556
+    engagement: 1156
+    commentsToLikes: 0.024052
+    id: ck5bud3vphk9d0i114c6ydkdx
+    verified: false
+    hashtags: "#hike, #hiker, #stayhumble, #tirol"
   - username: "sophia.emma.run"
     fullname: >-
       Sophia
+    bio: >-
+      runner 🏃‍♀️ mountains ⛰ photography 📸 dog 🐕 therapist🌻 tyrol 🏡
     location: "Austria"
-    followers: 7397
-    engagement: 611
-    commentsToLikes: 0.045955
+    followers: 7083
+    engagement: 522
+    commentsToLikes: 0.035312
     id: ck0u0wl24v30r0i19usaznu3r
     verified: false
-    hashtags: "#lovemountains, #neverstopexploring, #positivevibes, #berge"
-  - username: "theflyingflip"
-    fullname: >-
-      Philipp | 🏔 | mountainlover
-    location: "Austria"
-    followers: 6759
-    engagement: 911
-    commentsToLikes: 0.042042
-    id: ck5bud3vphk9d0i114c6ydkdx
-    verified: false
-    hashtags: "#roots, #foodday, #lastsummer, #lockedin"
+    hashtags: "#whydoyourun, #asicsfrontrunneraustria, #garminbeatyesterday, #beatyesterday"
   - username: "elieberl"
     fullname: >-
       Christian Eli Eberl
+    bio: >-
+      Hope you like fresh Air! -outdoor enthusiast- -Photographer - Alpinist - Runner - Explorer-Freerider -
     location: "Austria"
-    followers: 6363
-    engagement: 834
-    commentsToLikes: 0.015505
+    followers: 8030
+    engagement: 1636
+    commentsToLikes: 0.017785
     id: ck0tzz9o5s3ue0i197lm6l6xb
     verified: false
-    hashtags: "#theoutbound, #thx, #sunny, #photooftheday"
-  - username: "premekvida"
+    hashtags: ""
+  - username: "debreczenidora"
     fullname: >-
-      Přemysl Vida
+      Debreczeni Dóra
+    bio: >-
+      🤍mom & wife ▫️model | trail runner | trainer 👙#DDFitt online program
     location: "Austria"
-    followers: 15593
-    engagement: 222
-    commentsToLikes: 0.022606
-    id: ck5cezcuum0n10i11xptyuim6
+    followers: 60643
+    engagement: 216
+    commentsToLikes: 0.010005
+    id: ckaovvloe6a190i78ehp6n2m1
     verified: false
-    hashtags: "#australianshepherd, #desertlife, #winterisback, #wildpark"
-  - username: "avramov.zoran"
+    hashtags: "#fitness, #rekl, #ddfitt, #runner"
+  - username: "frankortler"
     fullname: >-
-      ZORAN AVRAMOVIC
+      Frank
+    bio: >-
+      💙 Brooks Run Happy Team @brooksrunningde #runhappyteam 48 Years 👨/Austria 🇦🇹/❤Running 5km➡️42km/ 30 times Marathon 🏃‍♂️ ( PB 3:39:44 Linz 2013 )
     location: "Austria"
-    followers: 166230
-    engagement: 354
-    commentsToLikes: 0.038529
-    id: ck5bw3bemkwzn0i1166i6nno2
+    followers: 3808
+    engagement: 2007
+    commentsToLikes: 0.048309
+    id: ck13bgw8svc9b0i19h8cvjdjn
     verified: false
-    hashtags: "#menstylefashion, #eyeglasses, #stylish, #bespoke"
-  - username: "marinazechner"
+    hashtags: "#runtheday, #instarun, #runforfun, #running"
+  - username: "chris_trails81"
     fullname: >-
-      Marina Zechner
+      🅲🅷🆁🅸🆂
+    bio: >-
+      ℝ𝕦𝕟𝕟𝕚𝕟𝕘 ♤ 𝕊𝕜𝕚𝕥𝕠𝕦𝕣𝕚𝕟𝕘 ♡ 𝕄𝕠𝕦𝕟𝕥𝕒𝕚𝕟𝕤 @leki.ski.outdoor @silberpfeilenergydrink @orthomol_sport #trailrunning #mountains #skitouring #fitness #nature
     location: "Austria"
-    followers: 9843
-    engagement: 987
-    commentsToLikes: 0.012228
-    id: ck0u8wz0a8drd0i19w7tplez3
+    followers: 14926
+    engagement: 797
+    commentsToLikes: 0.022853
+    id: ck9wdv6rkheqd0j78uw2lh22n
     verified: false
-    hashtags: "#rideordie, #girly, #fun, #sunkissed"
-  - username: "misskaiser"
+    hashtags: "#gipfelst, #sunshine, #running, #bergzeit"
+  - username: "annaburgstaller"
     fullname: >-
-      Patricia Kaiser
+      Anna Maria Burgstaller
+    bio: >-
+      Active Lifestyle 🌿 Healthy Mind » Straight A⁺ Student » Somewhere between sportswear and bikini life
     location: "Austria"
-    followers: 17456
-    engagement: 225
-    commentsToLikes: 0.024805
-    id: ck1353n0lzja80i198oc83ahs
-    verified: true
-    hashtags: "#wingsforlifeworldrun, #daydream, #loveyourself, #chinup"
-  - username: "bachelotelli"
-    fullname: >-
-      Philipp B.
-    location: "Austria"
-    followers: 7474
+    followers: 11093
     engagement: 1095
-    commentsToLikes: 0.036701
-    id: ck0twrld6gjxt0i1979qbl6nr
+    commentsToLikes: 0.027840
+    id: ckaotbsitv7v20i78ecftme0u
     verified: false
-    hashtags: "#wymtm, #shineon, #visitaustria, #livewithoutlimits"
-  - username: "inn_sta_tinchen"
+    hashtags: "#healthylifestyle, #workout, #workoutmotivation, #travel"
+  - username: "running_ida"
     fullname: >-
-      ↟ Tina  ↟
+      Ida-Sophie Hegemann
+    bio: >-
+      𝗦𝗮𝗹𝗼𝗺𝗼𝗻 𝗔𝘁𝗵𝗹𝗲𝘁𝗲 𝗧𝗿𝗮𝗶𝗹𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝗧𝗲𝗮𝗺 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 📍IBK @salomonrunning @suunto @leki.ski.outdoor @julbo_eyewear @silberpfeilenergydrink @dassportlabor
     location: "Austria"
-    followers: 7159
-    engagement: 880
-    commentsToLikes: 0.041010
-    id: ck6ud3v4rizl80j71ybbvbiex
+    followers: 7291
+    engagement: 1568
+    commentsToLikes: 0.012395
+    id: ck0vv404infvz0i19fz0y3puz
     verified: false
-    hashtags: "#earnyourturns, #hinterstoder, #skitouring, #xeis"
-  - username: "ninsch.la"
+    hashtags: "#biggerthanlife, #salomon, #happyme, #walserspielziit"
+  - username: "davidsdietrich"
     fullname: >-
-      ᑎIᑎᗩ
+      David S. Dietrich 🇦🇹
+    bio: >-
+      A running mountaineer 💥🏃🏻‍♂️🧗‍♂️ 🔥Powered by @redbull @lasportivagram @grivel 🥇Ultra Andorra🇦🇩 🥇&🥈36h Survival Run🇨🇦&🇳🇮 🥉24h Spartan World Ch.🇮🇸
     location: "Austria"
-    followers: 6313
-    engagement: 1658
-    commentsToLikes: 0.023381
-    id: ck0w1o9vmkbgm0i19ryllmkvn
+    followers: 19661
+    engagement: 301
+    commentsToLikes: 0.034262
+    id: ck6tyybct6k6s0j71iloyco7k
     verified: false
-    hashtags: "#runnersofinstagram, #stayathome, #adventuregroup, #climbingtour"
+    hashtags: "#runrunrun, #mountainrunner, #bergsee, #runforlife"
+  - username: "lukas.duernegger"
+    fullname: >-
+      Lukas Dürnegger
+    bio: >-
+      PRO FILMMAKER | PHOTOGRAPHER #hundling 📍Innsbruck // Carinthia 🇦🇹 🎥 @visitaustria / @salomon / @dsv_biathlon 🎞 find my film portfolio here:
+    location: "Austria"
+    followers: 7157
+    engagement: 807
+    commentsToLikes: 0.010900
+    id: ck134dkkjvxa80i19qhtrvswu
+    verified: false
+    hashtags: "#mountainlove, #winter, #tirol, #nature"
 ---

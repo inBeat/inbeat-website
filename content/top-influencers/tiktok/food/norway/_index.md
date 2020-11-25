@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Norway In 2020
 description: >-
-  Find top food TikTok influencers in Norway in 2020. Most popular hashtags: #food #tiktok #norway #duet.
+  Find top food TikTok influencers in Norway in 2020. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
+hits: 36
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 36 TikTok influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "yasminsliebi"
+  - username: "arielandreassen"
     fullname: >-
-      Yasmin Sliebi
+      Ariel Andreassen
+    bio: >-
+      Hey I post workout videos, fitness and food<33 IG: arielandreassen
     location: "Norway"
-    followers: 58519
-    engagement: 519
-    commentsToLikes: 0.032997
-    id: ck9gmup5hu2v10j78p5gz0inm
+    followers: 106100
+    engagement: 553
+    commentsToLikes: 0.017470
+    id: ck8vusq9zjxl70j78t547igcq
     verified: false
-    hashtags: "#eggchallege, #stokholm, #skien, #challenge"
-  - username: "mariajoseefine"
+    hashtags: "#pushups, #fatloss, #glutes, #chestday"
+  - username: "mayantr"
     fullname: >-
-      MARIAJOSEEFINE 
+      May-An
+    bio: >-
+      Started as a joke, now im the joke Check out my yt & ig❤️
     location: "Norway"
-    followers: 32374
-    engagement: 1681
-    commentsToLikes: 0.062504
-    id: ck9rdbj55x82a0j78xpv3rz9g
+    followers: 512400
+    engagement: 2193
+    commentsToLikes: 0.016430
+    id: ckbqp2nck9w6j0j2389bpvq0n
     verified: false
-    hashtags: "#food, #snow, #17mai, #weekendvibes"
-  - username: "alanwalkermusic"
+    hashtags: "#food, #asian, #foryou, #workout"
+  - username: "dasheys"
     fullname: >-
-      Alan Walker
+      🦋 KARDASHIANS FANPAGE 🦋
+    bio: >-
+      𝗙𝗢𝗟𝗟𝗢𝗪 𝗙𝗢𝗥 𝗦𝗛𝗢𝗨𝗧𝗢𝗨𝗧 ⇣
     location: "Norway"
-    followers: 2399643
-    engagement: 1337
-    commentsToLikes: 0.019058
-    id: ck8kghxx8ik2e0j78wmigk6eb
+    followers: 137100
+    engagement: 1598
+    commentsToLikes: 0.024859
+    id: cka0r01f0ew4u0i78y60x8hhc
+    verified: false
+    hashtags: "#food, #celeb, #lol, #wap"
+  - username: "ellenaabol"
+    fullname: >-
+      Ellen Aabol
+    bio: >-
+      > Ellen Irene > Influencer 📸 > IG: @ellenaabol > Ginger from Norway ❤️
+    location: "Norway"
+    followers: 109700
+    engagement: 919
+    commentsToLikes: 0.026970
+    id: ckbkukmqepomi0j232rz7mxrr
     verified: true
-    hashtags: "#foodwehate, #wow, #japan, #walkers"
-  - username: "funnybubbledogs"
+    hashtags: "#fakta, #fyp, #norsk, #food"
+  - username: "darjyeetty"
     fullname: >-
-      Funnybubbledogs
+      Dark_yeet_YT
+    bio: >-
+      @eliasnjoten on Instagram
     location: "Norway"
-    followers: 22084
-    engagement: 1512
-    commentsToLikes: 0.037562
-    id: ck8klmqky4nh20j78fhoyh7kg
+    followers: 103300
+    engagement: 1653
+    commentsToLikes: 0.022080
+    id: ck8p0u73biepa0j78foie3p8y
     verified: false
-    hashtags: "#foruyou, #newbed, #foryourpage, #ifoundastick"
-  - username: "irlinradix"
+    hashtags: "#foryoupage, #food, #foru, #speed"
+  - username: "augustogmartin"
     fullname: >-
-      Irlin
+      August & Martin
+    bio: >-
+      FØLG OSS PÅ INSTAGRAM! 👆
     location: "Norway"
-    followers: 2777
-    engagement: 577
-    commentsToLikes: 0.058395
-    id: cka69dbnbs4a80i78otmy32ge
+    followers: 145300
+    engagement: 920
+    commentsToLikes: 0.016207
+    id: ckczulxhz5ka00j231q3rx3pr
     verified: false
-    hashtags: "#fruitloops, #challenge, #vogue, #washhand"
-  - username: "robbie_dior"
+    hashtags: "#foryounorge, #tiktokfood, #fyp, #norge"
+  - username: "mathildetellefsen"
     fullname: >-
-      Robert K
+      ChefMattis
+    bio: >-
+      Welcome to the happy place☁️ norway • 24 • veggie Insta: mathildetellefsen
     location: "Norway"
-    followers: 2643
-    engagement: 664
-    commentsToLikes: 0.086878
-    id: ck9n55yrg6obn0j78frziwk86
+    followers: 31100
+    engagement: 908
+    commentsToLikes: 0.021048
+    id: ckcjbgglw8xxk0j23fiziml4p
     verified: false
-    hashtags: "#isthisokey, #plussize, #tiktok, #gold"
-  - username: "mariam.morjan"
+    hashtags: "#frappuccino, #aesthetic, #pumpkin, #love"
+  - username: "silljeandersen"
     fullname: >-
-      Mariam Morjan
+      Silje Andersen
+    bio: >-
+      Hahahahah ka
     location: "Norway"
-    followers: 16870
-    engagement: 1502
-    commentsToLikes: 0.030772
-    id: ckafu294l8bw10i784sd4ctj5
+    followers: 12100
+    engagement: 730
+    commentsToLikes: 0.012923
+    id: ckbf62asavey00j23n9azjbug
     verified: false
-    hashtags: "#muslimmom, #arabparents, #food, #hacks"
-  - username: "lille_paulsen"
+    hashtags: "#viral, #food, #lol, #fyp"
+  - username: "noramonradsther"
     fullname: >-
-      Sander Paulsen
+      Nora Monrad Sæther
+    bio: >-
+      "live with passion, live musical.ly" Insta: nora_monrad
     location: "Norway"
-    followers: 12486
-    engagement: 796
-    commentsToLikes: 0.027260
-    id: cka5zn4fgnhci0i78kc9h5jzd
+    followers: 4240
+    engagement: 488
+    commentsToLikes: 0.014224
+    id: ckbwggeut2j8s0j238t9j4bmx
     verified: false
-    hashtags: "#skate3, #espanol, #ferrari, #rikkepus69"
-  - username: "henryvalentine"
+    hashtags: "#foryou, #viral, #makeitviral, #foruyou"
+  - username: "larsbryne"
     fullname: >-
-      Henry V
+      Larsbryne
+    bio: >-
+      
     location: "Norway"
-    followers: 71355
-    engagement: 465
-    commentsToLikes: 0.016205
-    id: cka0otx4a5esn0i78mggh0vfi
+    followers: 16900
+    engagement: 248
+    commentsToLikes: 0.015108
+    id: ckb9hw6w27vr90j23itclua7h
     verified: false
-    hashtags: "#workout, #getthis, #fish, #part1"
-  - username: "baby6lack"
-    fullname: >-
-      Baby Bl∆ck
-    location: "Norway"
-    followers: 5091
-    engagement: 665
-    commentsToLikes: 0.033940
-    id: ck9gmuop6u2px0j78n0qsr4xs
-    verified: false
-    hashtags: "#love, #yummychallenge, #godmakingme, #litty"
+    hashtags: "#foraging, #beite, #ice, #spise"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top beauty TikTok influencers in Los Angeles in 2020. Most popular hashtags: #beauty #coronavirus #covid19 #boredathome.
+  Find top beauty TikTok influencers in Los Angeles in 2020. Most popular hashtags: #beauty #fyp #losangeles #hair.
 platform: TikTok
+hits: 49
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 49 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "ohmymisty"
+  - username: "michellegimagestudio"
     fullname: >-
-      OhMyMisty
+      MichelleG
+    bio: >-
+      License esthetician & Cosmetologist certifies makeup artist
     location: "United States"
-    followers: 21030
-    engagement: 851
-    commentsToLikes: 0.022297
-    id: ck910ldl0i3800j78j62wqqka
+    followers: 779900
+    engagement: 699
+    commentsToLikes: 0.005580
+    id: ck7znzbu4gbn40j78pytevezy
     verified: false
-    hashtags: "#asiangirl, #asiancheck, #inthehouseparty, #selfies"
+    hashtags: "#hair, #salon, #satisfying, #spa"
+  - username: "cutafaca"
+    fullname: >-
+      SONCHOSS
+    bio: >-
+      My life is a thriller. Follow me on IG: @sonchoss
+    location: "United States"
+    followers: 262300
+    engagement: 613
+    commentsToLikes: 0.007649
+    id: ckdnd8rqpguh30j23vj07e29d
+    verified: false
+    hashtags: "#scary, #beauty, #funnyvideo, #losangeles"
   - username: "sonagasparian_"
     fullname: >-
       SonaGasparian
+    bio: >-
+      Beauty Obsessed living in Los Angeles
     location: "United States"
-    followers: 154185
-    engagement: 518
-    commentsToLikes: 0.009755
+    followers: 164400
+    engagement: 576
+    commentsToLikes: 0.014230
     id: ck7znzfn1gcnz0j78g6c0voll
     verified: true
-    hashtags: "#beauty, #tonguechallenge, #coronavirus, #whoeverhas"
-  - username: "russiaancream"
+    hashtags: "#makeuptutorial, #beauty, #howto, #makeup"
+  - username: "joseph.maine"
     fullname: >-
-      russian cream
+      Joseph Maine
+    bio: >-
+      Hairstylist - Brother - Dog Dad @josephmaine on Insta
     location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
-    verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "bergerweverything"
-    fullname: >-
-      Berger w Everything
-    location: "United States"
-    followers: 55006
-    engagement: 594
-    commentsToLikes: 0.010883
-    id: ck9k2mmu7kw730j7842lfmx0k
-    verified: false
-    hashtags: "#dance, #makeup, #harrypotter, #trick"
-  - username: "adrianxortiz"
-    fullname: >-
-      Adrian
-    location: "United States"
-    followers: 1535939
-    engagement: 2916
-    commentsToLikes: 0.055293
-    id: ck7zohnffk4us0j78gnmsjcph
-    verified: false
-    hashtags: "#beauty, #stepchickens, #filipino, #boys"
-  - username: "mireyarios"
-    fullname: >-
-      Mireya Rios 
-    location: "United States"
-    followers: 479684
-    engagement: 1877
-    commentsToLikes: 0.013993
-    id: ck7zp0w2emyx00j78gurb6lcg
+    followers: 34900
+    engagement: 675
+    commentsToLikes: 0.022010
+    id: cka0wotyu3njs0i780okcf7m3
     verified: true
-    hashtags: "#coolgirl, #esportsforall, #peppermint, #asmrtrigger"
-  - username: "maryamadiyeva_pho"
+    hashtags: "#hairstyle, #acupgrade, #wap, #updo"
+  - username: "savannasievers"
     fullname: >-
-      maryamadiyeva_photog
+      Sav
+    bio: >-
+      Just here for fun Savanna@musetheagency.com
     location: "United States"
-    followers: 24340
-    engagement: 1765
-    commentsToLikes: 0.007295
-    id: ck92t5ve3ggck0j78h0azjfov
+    followers: 207600
+    engagement: 894
+    commentsToLikes: 0.009937
+    id: ckbq8ldsbuxcq0j23b3cjomfq
     verified: false
-    hashtags: "#boobs, #spacethings, #lilac, #newborn"
-  - username: "sophhirose"
+    hashtags: "#forfun, #lol, #selflove, #tiktokfashion"
+  - username: "laurenyakima"
     fullname: >-
-      Sophie 
+      Lauren Yakima
+    bio: >-
+      19 NBC’s World of Dance Los Angeles insta: @laurenyakima snap: @laurenyakima
     location: "United States"
-    followers: 30457
-    engagement: 582
-    commentsToLikes: 0.057516
-    id: cka106q82ie6m0i780x8g8gml
+    followers: 131100
+    engagement: 1004
+    commentsToLikes: 0.013303
+    id: ckb1cjh9818sk0j237o0t18d4
     verified: false
-    hashtags: "#faketan, #instagram, #grwm, #exercise"
-  - username: "kimmymichellee"
+    hashtags: "#foryou, #readysetgo, #dancechallenge, #dancer"
+  - username: "thehairygodmotherr"
     fullname: >-
-      Kimberly
+      Amanda Lyberger
+    bio: >-
+      Los Angeles color specialist 27 🏳️‍🌈
     location: "United States"
-    followers: 8441
-    engagement: 361
-    commentsToLikes: 0.042794
-    id: ckamiaooojes70i787fk5231e
+    followers: 30300
+    engagement: 1850
+    commentsToLikes: 0.007862
+    id: cka0qsi0ldy9k0i78ku56x8sg
     verified: false
-    hashtags: "#selflove, #electricitygame, #savageremix, #greenscreen"
-  - username: "joshuacparker"
+    hashtags: "#losangeles, #fyp, #snickersfixtheworld, #thatswhatilike"
+  - username: "karen_qtip1"
     fullname: >-
-      Joshua C. Parker
+      karen_qtip
+    bio: >-
+      Licensed Esthetician. IG: @lashlove_bykq 😎💜 LOS ANGELES, Cali. ☀️🌴
     location: "United States"
-    followers: 30150
-    engagement: 504
-    commentsToLikes: 0.027016
-    id: ck9v6cqyu1qvl0j781c8wqv9e
+    followers: 6675
+    engagement: 717
+    commentsToLikes: 0.033123
+    id: ckbfis7x5es8m0j231sp4m7xq
     verified: false
-    hashtags: "#30andover, #donothing, #slave4uchallenge, #jlosuperbowlchallenge"
+    hashtags: "#tiktok, #eyelashextensions, #viral, #eyelashes"
+  - username: "dtmodelmgmt"
+    fullname: >-
+      DT Model Management
+    bio: >-
+      Los Angeles based Modeling Agency Send us your submission #dtscoutme
+    location: "United States"
+    followers: 27300
+    engagement: 528
+    commentsToLikes: 0.009662
+    id: ckba6xbl8023l0j2376m8npwn
+    verified: false
+    hashtags: "#mua, #gym, #dtmodelmanagement, #fy"
+  - username: "rissarecharged"
+    fullname: >-
+      Nerissa Stewart
+    bio: >-
+      #Beauty #Fitness #VSG How to lose 💯 pounds Grab my FREE cookbook ⤵️⤵️
+    location: "United States"
+    followers: 43700
+    engagement: 957
+    commentsToLikes: 0.059877
+    id: ck8qj4vldbvux0j78jrba0j4t
+    verified: false
+    hashtags: "#over30, #tulum, #blacklove, #vote2020"
 ---

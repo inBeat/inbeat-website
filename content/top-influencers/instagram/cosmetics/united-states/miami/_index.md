@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Miami In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Miami in 2020. Most popular hashtags: #skincare #cosmetics #lips #skincareproducts.
+  Find top cosmetics Instagram influencers in Miami in 2020. Most popular hashtags: #miami #cosmetics #beauty #makeup.
 platform: Instagram
+hits: 64
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 64 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
   - username: "mspriscillanyc"
     fullname: >-
       💄Priscilla DiStasio
+    bio: >-
+      🏆Celebrity💄MUA WWW.PRISCILLADISTASIO.COM PR & Partnership E:pr@priscilladistasio.com all other inquiries E:makeupbymspriscilla@gmail.com
     location: "United States"
     followers: 107302
     engagement: 94
     commentsToLikes: 0.062101
     id: ck6tqoy5xsunt0j716md397go
     verified: false
-    hashtags: "#lavalashes, #rainbowchallenge, #tiktok, #rhonjseason10"
-  - username: "shinobay"
+    hashtags: "#fyp, #makeupbymspriscilla, #mspriscillanyc, #makeupartistnyc"
+  - username: "itscidnee"
     fullname: >-
-      Dr Shino Bay Aguilera
+      Cidnee G.
+    bio: >-
+      I turn creative ideas into inspiring visuals. 5feet 10inches cidneegray@gmail.com South Florida 🌴
     location: "United States"
-    followers: 61928
-    engagement: 75
-    commentsToLikes: 0.150194
-    id: ck0w71uuybch40i1951bhpo3k
+    followers: 7974
+    engagement: 728
+    commentsToLikes: 0.118559
+    id: ck6tsn9c15q990j71fmljjsnw
     verified: false
-    hashtags: "#instagramlive, #noninvasive, #fitness, #gratitude"
-  - username: "drjanellevega"
+    hashtags: "#beautifulwomen, #poschemodels, #coffeevideo, #fashionweek"
+  - username: "geenafontanella"
     fullname: >-
-      Dr. Janelle Vega
+      G E E N A
+    bio: >-
+      Selling out the @staplescenterla in 3 years 🤘🏻 Artist 🎤 Pug Lover 🐶 ⭕️NEW SINGLE CIRCLES⭕️👇🏻👇🏻
     location: "United States"
-    followers: 114054
-    engagement: 64
-    commentsToLikes: 0.095828
-    id: ck5q7hbg71kd00i11f3hzpjz7
+    followers: 6495
+    engagement: 378
+    commentsToLikes: 0.077091
+    id: ck9wg0afyrbjb0j78wu05kwar
+    verified: false
+    hashtags: "#ootd, #streetstyle, #losangeles, #producer"
+  - username: "lil_ms.monroe"
+    fullname: >-
+      
+    bio: >-
+      Vh1 Cartel Crew 📺 🤩 First Lady of @pureblanco_brand Assistant2michaelblanco@gmail.com
+    location: "United States"
+    followers: 158972
+    engagement: 234
+    commentsToLikes: 0.029571
+    id: ck55nclk55x9t0i116eknirl9
     verified: true
-    hashtags: "#kysse, #glowup, #stress, #quarantini"
+    hashtags: "#beauty, #makeup, #beautiful, #miamonroebrand"
   - username: "coopaloop28"
     fullname: >-
       Garrett Cooper
+    bio: >-
+      Miami Marlins Former Auburn Tiger Manhattan Beach, CA | Miami, FL
     location: "United States"
-    followers: 10414
-    engagement: 869
-    commentsToLikes: 0.027050
+    followers: 10951
+    engagement: 905
+    commentsToLikes: 0.027305
     id: ck5c3higczc790i1191hiksvm
     verified: true
-    hashtags: "#yankees, #cosmeticdentist, #playersweekend, #franklinfamily"
-  - username: "gabyteemua"
+    hashtags: "#juntosmiami, #bottomfeeders, #brickell, #nyyankees"
+  - username: "doctor.q_"
     fullname: >-
-      Gabriela Trujillo
+      Student Dr.Q
+    bio: >-
+      @essentialtoothbrushco 📍Washington, DC 🦷 D.D.S Candidate 🎓 Howard U. Alum 📞 202.596.5563
     location: "United States"
-    followers: 56711
-    engagement: 468
-    commentsToLikes: 0.029422
-    id: ck6uh08j2682f0j71ntcb87ga
+    followers: 11666
+    engagement: 1075
+    commentsToLikes: 0.049834
+    id: ck15roakw8w890i19eyn4ntqc
     verified: false
-    hashtags: "#overlinedlips, #supportsmallbusiness, #nailrepair, #nye"
+    hashtags: "#hbcu, #dentist, #dental, #memphis"
   - username: "kravekay"
     fullname: >-
       ♡ KAY KAY ♡
+    bio: >-
+      Youtuber|Influencer|Hairstylist Certified Lace Specialist CEO of @kravekaykollection Click “BOOK” for appointments😍 YOUTUBE: Krave Kay
     location: "United States"
     followers: 121238
     engagement: 61
     commentsToLikes: 0.021990
     id: ck0w396a3s7q20i19k4pwgpui
     verified: false
-    hashtags: "#miamihair, #kravekaykollection, #atlvendor, #atlclosures"
-  - username: "islobodianik"
+    hashtags: "#frontalsewin, #atlhair, #squareshades, #pretty"
+  - username: "drjanellevega"
     fullname: >-
-      IVANA SLOBODIANIK (IVI)
+      Dr. Janelle Vega
+    bio: >-
+      Board-certified Dermatologist Co-founder: @mybialife Cosmetic dermatologist and #Skinhealth expert Miami, Fl 🔆 Family business 👩‍👧‍👧@mayoralderm
     location: "United States"
-    followers: 70254
-    engagement: 585
-    commentsToLikes: 0.220622
-    id: ck6ti489i00ab0j719uvih9j6
-    verified: false
-    hashtags: "#islomakeup, #jaclyncosmetics, #benefit, #colormakeup"
-  - username: "ablondebeyond"
+    followers: 114054
+    engagement: 64
+    commentsToLikes: 0.095828
+    id: ck5q7hbg71kd00i11f3hzpjz7
+    verified: true
+    hashtags: "#miami, #coronavirus, #bialife, #lipfiller"
+  - username: "mariagjieli"
     fullname: >-
-      𝐾 𝐴 𝑌 𝐿 𝐴
+      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
+    bio: >-
+      🇦🇱 🔺22 | NYC | Miami 📍 🔺Model | Foodie 🔺Brands/promos: mariagjielimgmt@gmail.com 🔺Backup: @mariagjielixo 🔺Twitter: @ mariagjielixo
     location: "United States"
-    followers: 29003
+    followers: 1064029
     engagement: 395
-    commentsToLikes: 0.084331
-    id: ck5zxx6jq8twr0i14b95q7x09
+    commentsToLikes: 0.020973
+    id: ckap4oi4a864k0i78h9xfuq4y
     verified: false
-    hashtags: "#fitnessinspo, #active, #athlete, #cheerleader"
-  - username: "ramsesbane"
+    hashtags: "#boutiquemodel, #style, #viral, #fashion"
+  - username: "andrewcarterbeauty"
     fullname: >-
-      ＲＡＭＳＥＳ ＢＡＮＥ
+      Andrew Carter - Beauty
+    bio: >-
+      Celeb Makeup Artist & Hairstylist Beauty Photographer 14 + years experience Cosmetics Owner & CEO #mua #fortlauderdale #extensions #glam #miami
     location: "United States"
-    followers: 5698
-    engagement: 967
-    commentsToLikes: 0.172379
-    id: ck138wle4iddi0i19k96bikuk
+    followers: 38035
+    engagement: 179
+    commentsToLikes: 0.020901
+    id: ck5q225wldwox0i11itad848q
     verified: false
-    hashtags: "#stupidlove, #makeupcolab, #cowmakeup, #stpatricksday"
-  - username: "pattyzrihenmakeup"
-    fullname: >-
-      MAKEUP ARTIST Patty Zrihen
-    location: "United States"
-    followers: 21615
-    engagement: 155
-    commentsToLikes: 0.066235
-    id: ck5hfcaq7wtay0i118tfrcx8y
-    verified: false
-    hashtags: "#blueeyedgirl, #metalicshadow, #drbaum, #rubias"
+    hashtags: "#businessheadshots, #andrewcarterbeautylashes, #sunnyisles, #greeneyes"
 ---

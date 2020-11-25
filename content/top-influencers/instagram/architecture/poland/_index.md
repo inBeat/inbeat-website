@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Poland In 2020
 description: >-
-  Find top architecture Instagram influencers in Poland in 2020. Most popular hashtags: #stayhome #interiordesign #beforeandafter #home.
+  Find top architecture Instagram influencers in Poland in 2020. Most popular hashtags: #warszawa #artystycznapodroz #stylizacja #igerspoland.
 platform: Instagram
+hits: 203
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 203 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "beata_walczynska"
     fullname: >-
       
+    bio: >-
+      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
     location: "Poland"
-    followers: 12062
-    engagement: 1537
-    commentsToLikes: 0.075752
+    followers: 11226
+    engagement: 1673
+    commentsToLikes: 0.066285
     id: ck13azgmrsy100i19khq0qwde
     verified: false
-    hashtags: "#flowers, #happytime, #naturephoto, #walk"
-  - username: "viva_a_viva"
-    fullname: >-
-      𝑲 𝑨 𝑹 𝑶 𝑳 𝑰 𝑵 𝑨   𝑾 𝑶 𝑱 𝑪 𝑰 𝑲
-    location: "Poland"
-    followers: 338513
-    engagement: 1192
-    commentsToLikes: 0.018548
-    id: ck55izqfqvvzh0i11x3suq10s
-    verified: false
-    hashtags: "#inspo, #dontrush, #reservedforme, #niedziela"
+    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
   - username: "tofje_"
     fullname: >-
-      T o f j e
+      Asia
+    bio: >-
+      Chyba fit 🤷🏼‍♀️ ▫️ #ArchitectureStudent & #gymlover ▫️ @yosiifit ➡️🤸🏼‍♀️🏋🏼‍♀️ ▫️ @gym_glamour GIRL✨ -10% -> tofje10 ▫️ 📥iwanney000@gmail.com
     location: "Poland"
-    followers: 322143
-    engagement: 969
-    commentsToLikes: 0.015462
+    followers: 384019
+    engagement: 724
+    commentsToLikes: 0.012825
     id: ck14hbedp9gzv0i19nr2hj4uc
     verified: false
-    hashtags: "#wielkanoc, #treningpo, #wlosy, #trenujewdomu"
-  - username: "madcardel"
+    hashtags: "#halloween, #gymgirl, #trening, #workout"
+  - username: "osipowiczka"
     fullname: >-
-      FASHION|BEAUTY|ARCHITECTURE
+      Kasia Osipowicz
+    bio: >-
+      fashion • beauty • architecture 📍Warszawa 🎬130k yt friends 📩 kontakt.osipowiczka@gmail.com
     location: "Poland"
-    followers: 5446
-    engagement: 1515
-    commentsToLikes: 0.216079
-    id: ckap3e2tv2ojl0i78cx12n2eg
+    followers: 39959
+    engagement: 1417
+    commentsToLikes: 0.038582
+    id: ck134tsyvy52i0i19bbzfzohz
     verified: false
-    hashtags: "#moonvibes, #poeticsouls, #softness, #facetoner"
+    hashtags: "#trends2020, #stro, #youtuberka, #styleinspo"
+  - username: "viva_a_viva"
+    fullname: >-
+      𝑲 𝑨 𝑹 𝑶 𝑳 𝑰 𝑵 𝑨
+    bio: >-
+      fashion, beauty, travel, architecture 40 million Youtube views & still counting🖤 ✉️ viva_a_viva@yahoo.com represented by @ivy_creativemanagement
+    location: "Poland"
+    followers: 399292
+    engagement: 1103
+    commentsToLikes: 0.002185
+    id: ck55izqfqvvzh0i11x3suq10s
+    verified: false
+    hashtags: "#ootd, #girl, #paris, #muaythai"
+  - username: "dariianka"
+    fullname: >-
+      𝐷𝐴𝑅𝐼𝐴 🤍
+    bio: >-
+      #Fashion | #Lifestyle | #Beauty ⭐️ Architecture student & Fashion lover Sochaczew ✉️dariiankaa@gmail.com/DM
+    location: "Poland"
+    followers: 28036
+    engagement: 319
+    commentsToLikes: 0.022943
+    id: ck5hq3gvssfjv0i119w6w2lvq
+    verified: false
+    hashtags: "#dodatki, #polishblogger, #torebka, #ootdpl"
   - username: "radkm"
     fullname: >-
       Radosław Kaźmierczak
+    bio: >-
+      Photographer. Based in Katowice, Cracow and Warsaw (Poland). Eclectic fine art. Portrait. Architecture. Strobist. Prints are available for sale.
     location: "Poland"
-    followers: 7395
-    engagement: 1528
-    commentsToLikes: 0.041643
+    followers: 7449
+    engagement: 1386
+    commentsToLikes: 0.040921
     id: ck5zka9thj3sp0i14c8q5lnyz
     verified: false
-    hashtags: "#rsplus, #covid19, #trojmiasto, #seascapes"
+    hashtags: "#polskajestpiekna, #dji, #friendsinperson, #isolation"
   - username: "philipiakamil"
     fullname: >-
       Kamil Philipiak - Architecture
+    bio: >-
+      · 👨🏼 I’m Kamil, but you can call me Philip · 🏙 Cracow · 💍 Married · 📸 Dreamy Architecture Interview 👇🏻
     location: "Poland"
-    followers: 3046
-    engagement: 2668
-    commentsToLikes: 0.073114
+    followers: 3224
+    engagement: 2400
+    commentsToLikes: 0.078016
     id: ck6u1j7qmm22j0j71mf4g7r7x
     verified: false
-    hashtags: "#brutal, #igerslublin, #minimalism, #igerspoland"
-  - username: "niteatday"
-    fullname: >-
-      niteatday
-    location: "Poland"
-    followers: 69391
-    engagement: 688
-    commentsToLikes: 0.016467
-    id: ck0tvk2jfbpmf0i198m3dvkey
-    verified: false
-    hashtags: "#contemporary, #artcollective, #pencil, #instaart"
+    hashtags: "#costhings, #tv, #lookingup, #rsa"
   - username: "modelsoutfit"
     fullname: >-
       Mo Home - Katarzyna Wietecha
+    bio: >-
+      #architekt #architekturawnętrz #domzdusza #domwparku interior designer & BLOGGER .Remontuję dom z duszą! Momof2 from Gdańsk[architecture].Mgr inż.
     location: "Poland"
-    followers: 22916
-    engagement: 343
-    commentsToLikes: 0.056673
+    followers: 24615
+    engagement: 341
+    commentsToLikes: 0.066149
     id: ck9we02kei1iq0j78t18i8z8d
     verified: false
-    hashtags: "#architect, #renowacja, #zostajemywdomu, #gzyms"
-  - username: "ms.ev"
+    hashtags: "#interi, #ogrodek, #wn, #plytki"
+  - username: "nagannapanna"
     fullname: >-
-      MS.EV
+      Panna
+    bio: >-
+      Creative mind | Architecture student | Illustrator ▫️Commissions ▫️Check out my YouTube channel
     location: "Poland"
-    followers: 15794
-    engagement: 284
-    commentsToLikes: 0.030236
-    id: ck6tomyoteyf10j71uurltnvh
+    followers: 10252
+    engagement: 1278
+    commentsToLikes: 0.023068
+    id: ckaovuz6i679c0i78epu9rkir
     verified: false
-    hashtags: "#beigelook, #travelgoals, #selfiemirror, #sundaystyle"
-  - username: "piotrzemlak"
+    hashtags: "#speedpaint, #illustration, #creative, #design"
+  - username: "art_brzo"
     fullname: >-
-      piotr zemlak
+      Artur Brzozowski
+    bio: >-
+      | Architecture student | | Warsaw | Poland 🇵🇱 |
     location: "Poland"
-    followers: 4528
-    engagement: 2288
-    commentsToLikes: 0.045087
-    id: ck6u1j5r4m1r30j71bw5pc2g2
+    followers: 4746
+    engagement: 1474
+    commentsToLikes: 0.032711
+    id: ck0vxpwaz04la0i194qcbspzh
     verified: false
-    hashtags: "#espacioenforma, #staircasefriday, #stairsandsteps, #austria"
+    hashtags: "#passionpassport, #vzcowarsaw, #symmetrykillers, #dreamermagzine"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Nigeria in 2020. Most popular hashtags: #quarantine #mensfashions #teamnaturalmercy #explore.
+  Find top lifestyle Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #naturallyshesdope #protectivestyles.
 platform: Instagram
+hits: 81
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 81 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
-  - username: "o.k.o.r.t.i.e"
+  - username: "itstomiwa"
     fullname: >-
-      Nancy Ayuk 💸
+      Tomiwa Talabi
+    bio: >-
+      media. fashion. lifestyle.
     location: "Nigeria"
-    followers: 30920
-    engagement: 1526
-    commentsToLikes: 0.060645
-    id: ck8t65a73c9j20j78getqwygm
+    followers: 28286
+    engagement: 1077
+    commentsToLikes: 0.068323
+    id: ck135zpyj41i10i19myizgh40
     verified: false
-    hashtags: "#stayhome, #dontrushchallenge"
-  - username: "emnzeribe"
+    hashtags: "#singletonplustwo, #ad, #amowambe, #thesocialmap"
+  - username: "thetosintoge"
     fullname: >-
-      Okegbue Nzeribe Emmanuel
+      Tosin Toge||Fashion||Blogger
+    bio: >-
+      Fashion|Travel|Lifestyle|Food Content Strategist||Pharmacist ||Social Media Manager 📩: info.thetosintoge@gmail.com
     location: "Nigeria"
-    followers: 3432
-    engagement: 2634
-    commentsToLikes: 0.092010
-    id: ck6tvgo4gm4mk0j71wrlw6c7f
+    followers: 6640
+    engagement: 839
+    commentsToLikes: 0.176589
+    id: ckf5t3jp2gula0j23ej9i7x5i
     verified: false
-    hashtags: "#staypostive, #stayproductive, #covid19, #covid19nigeria"
-  - username: "ogd_nsg"
-    fullname: >-
-      BILLIONAIRE OGD💰
-    location: "Nigeria"
-    followers: 55776
-    engagement: 740
-    commentsToLikes: 0.017114
-    id: ck6u81oq7owzm0j713r32ctvq
-    verified: true
-    hashtags: ""
-  - username: "tamara.aig"
-    fullname: >-
-      Tamara |The Beauty Guru🇳🇬
-    location: "Nigeria"
-    followers: 10144
-    engagement: 1133
-    commentsToLikes: 0.075664
-    id: ck5hdea8mmyju0i11dmzcoeux
-    verified: false
-    hashtags: "#quarantine2020, #4bhairstyles, #naijanaturals, #scarfstyles"
+    hashtags: "#ad, #blackbloggersclub, #explore, #nigerianfashionbloggers"
   - username: "lateefwahbson"
     fullname: >-
       Wahab Lateef
+    bio: >-
+      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
     location: "Nigeria"
-    followers: 8367
-    engagement: 592
-    commentsToLikes: 0.155410
+    followers: 9541
+    engagement: 823
+    commentsToLikes: 0.119459
     id: ck0tze8pyq0zm0i19kaytuda3
     verified: false
-    hashtags: "#soccerforlife, #footballz, #gloin60seconds, #goldmytv"
-  - username: "francestheodore"
+    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
+  - username: "_sunkissedcurls"
     fullname: >-
-      Frances Theodore
+      Kim 🌻
+    bio: >-
+      🙌🏽GOD 🌴Miami Natural Hair + Lifestyle Wife 💍 Mommy to @jaxsonmylo 👶🏽 📧 sunkissed.curls@yahoo.com for business LATEST VIDEO⤵️ #naturalhair
     location: "Nigeria"
-    followers: 43505
-    engagement: 836
-    commentsToLikes: 0.030216
-    id: ck6tjowkm350q0j71vi2pwmz8
+    followers: 43985
+    engagement: 438
+    commentsToLikes: 0.027535
+    id: ck5zjzxxeiknk0i141we5iwzb
     verified: false
-    hashtags: "#gemini, #theydontwork, #braids, #findyourbeautiful"
-  - username: "nnamdiiobi"
+    hashtags: "#curlyhairstyles, #naturallyshesdope, #naturalhairdoescare, #melanin"
+  - username: "armani4real"
     fullname: >-
-      Nnamdi Obi 🇳🇬
+      A R M À N I T Ò🦅
+    bio: >-
+      Chief Executive Buzz Barr Global 🇳🇬🇦🇪🇬🇧 Lifestyle Coordinator Life Is Beautiful 👻armani4real @mybuzzbarr
     location: "Nigeria"
-    followers: 16781
-    engagement: 340
-    commentsToLikes: 0.059663
-    id: ck6u5seaobgc50j71svwplrnx
+    followers: 16706
+    engagement: 355
+    commentsToLikes: 0.038446
+    id: ck0w4ph50zr2a0i19rhvke25k
     verified: false
-    hashtags: "#explore, #explorepage, #valentine2020, #bts"
-  - username: "jbums"
+    hashtags: "#tgif, #buzzbarrreopeningsoon, #endpolicebrutality, #leadgeneration"
+  - username: "ruqayyah_dp"
     fullname: >-
-      Mrs Black
+      #ENDSARS
+    bio: >-
+      Fashion Enthusiast Food || Lifestyle Founder @dreamwearsonline Stylist @stylebyruqayyah
     location: "Nigeria"
-    followers: 39944
-    engagement: 248
-    commentsToLikes: 0.041957
-    id: ck6tu8eqoew750j71srno3x1a
+    followers: 43809
+    engagement: 185
+    commentsToLikes: 0.029836
+    id: ck8t08bw7r64k0j78k8w1ater
     verified: false
-    hashtags: "#warriorprincess, #feastingathistable, #whoistheadulthere, #belongingtothekingoftheearth"
-  - username: "lolaomonaija"
+    hashtags: "#styleinfluencer, #modeststyleinfluencer, #styleinspiration, #modestbrandinflencer"
+  - username: "sumayyerh_atiku"
     fullname: >-
-      Lola.
+      ( SAM ) SUMMY ATIKU MEDIA 👑
+    bio: >-
+      Subsidiary of @rtagroupng : Lifestyle , Fashion , Vlogging , Infotainment , Product and Brand Influencer , Brand Ambassador ( Showcasing Arewa )
     location: "Nigeria"
-    followers: 37235
-    engagement: 329
-    commentsToLikes: 0.028599
-    id: ck0tt6co91cra0i19srzmg3ki
+    followers: 325401
+    engagement: 42
+    commentsToLikes: 0.023879
+    id: ck8tabwc3r5ey0j789o14u9f2
     verified: false
-    hashtags: "#essencestyle, #wocoutfit, #afro, #outfitlook"
+    hashtags: ""
   - username: "lovethkaykay"
     fullname: >-
       Ekwosiobi Loveth
+    bio: >-
+      📍 Lagos, Nigeria 🎥 Content creator/ Youtuber Beauty | Lifestyle Gemini ♊️ 📧 | lovethkaykay@gmail.com
     location: "Nigeria"
-    followers: 6696
-    engagement: 1012
-    commentsToLikes: 0.091953
+    followers: 6868
+    engagement: 1155
+    commentsToLikes: 0.097793
     id: ckap61lrre2od0i78c5t9su0q
     verified: false
-    hashtags: "#takemebacktodettydecember, #lockdowninlagos, #ifb, #quarantinediaries"
+    hashtags: "#exploremore, #explorepage, #explore, #nigerianyoutuber"
+  - username: "thelolawilliams"
+    fullname: >-
+      Lola Williams MD🇳🇬
+    bio: >-
+      Natural hair |Beauty| Lifestyle 👩🏾‍⚕️| Medical Doctor 📍| Abuja, Nigeria 🎥| Check out my Youtube👇🏾
+    location: "Nigeria"
+    followers: 28071
+    engagement: 550
+    commentsToLikes: 0.064190
+    id: ck5hixy3jfnwn0i11yrt0n301
+    verified: false
+    hashtags: "#4chairstyles, #healthyhairjourney, #strongnbeautiful, #protectivestyles"
+  - username: "blaqcoffeegram"
+    fullname: >-
+      Dozie
+    bio: >-
+      Blaqcoffee Lifestyle. Hospitality || Entertainment || Fitness.
+    location: "Nigeria"
+    followers: 3299
+    engagement: 1375
+    commentsToLikes: 0.067328
+    id: ckaoww97faqcg0i78lk9vp9rd
+    verified: false
+    hashtags: "#adventure, #blaqcoffee, #8bouts, #positivevibes"
 ---

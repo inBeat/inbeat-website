@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In Colombia In 2020
 description: >-
-  Find top TikTok influencers in Colombia in 2020. Most popular hashtags: #crush # #fail #parati.
+  Find top TikTok influencers in Colombia in 2020. Most popular hashtags: #greenscreen #colombia #parati #fyp.
 platform: TikTok
+hits: 1186
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 1186 TikTok influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "megumihasebeperdomo"
+    fullname: >-
+      Megumi Hasebe
+    bio: >-
+      🧡Lili en Noobees-Nickelodeon🧡 Actriz🎬Cantante🎤Bailarina💃
+    location: "Colombia"
+    followers: 583300
+    engagement: 1582
+    commentsToLikes: 0.007094
+    id: ckbkqtv5bl7780j234op0whpy
+    verified: false
+    hashtags: "#cartagena, #trend, #comedy, #fyp"
   - username: "marlongarzonn"
     fullname: >-
       Marlon Garzon
+    bio: >-
+      🇨🇴 Me hablas? Insta:@marlongarzonn🌪 📲Garzon6336@gmail.com📩
     location: "Colombia"
-    followers: 584512
-    engagement: 3219
-    commentsToLikes: 0.045289
+    followers: 2300000
+    engagement: 2383
+    commentsToLikes: 0.016014
     id: cka0h21iv76o80i78evuxrlw6
     verified: false
-    hashtags: "#peliculas, #si, #novias, #600k"
-  - username: "estebansossa"
+    hashtags: "#finales, #virales, #bromitas, #fans"
+  - username: "pionero91"
     fullname: >-
-      Esteban Sossa 
+      pionero91
+    bio: >-
+      si quieres marcar la diferencia. logra tus metas no importa la prueva que pases
     location: "Colombia"
-    followers: 335838
-    engagement: 2973
-    commentsToLikes: 0.046261
-    id: ck9fmchwwsm090j78iozgrh7f
+    followers: 14200
+    engagement: 5471
+    commentsToLikes: 0.080712
+    id: ckan0euveq9r60i78yawpggda
     verified: false
-    hashtags: "#fail"
-  - username: "valefails"
+    hashtags: "#maoyourserver, #fuerzalatina, #colombia91, #angel"
+  - username: "lily_gio"
     fullname: >-
-      Vale Fails
+      Lily Gio
+    bio: >-
+      Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🌹
     location: "Colombia"
-    followers: 156677
-    engagement: 2806
-    commentsToLikes: 0.032615
-    id: ck9r4xby9x6t90j78qq5lfbsw
+    followers: 4884
+    engagement: 3000
+    commentsToLikes: 0.365433
+    id: ckavsvzs65jgd0j23ybxuh7w9
     verified: false
-    hashtags: "#barbiecoste, #xyzbca, #comidasrapidas, #ayuda"
-  - username: "jorgesalazaryt"
+    hashtags: "#humor, #comedia, #italia, #amor"
+  - username: "juanda.gonzalez"
     fullname: >-
-      Jorge Salazar YT🍄
+      𝙅𝙪𝙖𝙣𝘿𝙖 ♚
+    bio: >-
+      ∞⓷∞⓼∞⑱∞ Ig: juandagonzalezzz Cuenta secundaria: @justjuanda
     location: "Colombia"
-    followers: 2242470
-    engagement: 2560
-    commentsToLikes: 0.015884
-    id: ck8qnjh7uusvu0j78cmf3wryg
+    followers: 1400000
+    engagement: 3000
+    commentsToLikes: 0.035660
+    id: ck9m0y2x4cbtn0j78z1hrwlr6
     verified: true
-    hashtags: "#parati"
-  - username: "saritadiaz000673"
+    hashtags: "#halloween, #duet"
+  - username: "davidgetial"
     fullname: >-
-      saritadiaz2685
+      Deivis
+    bio: >-
+      Sígueme en Instagram: davidgetial 💜 📩 soydavidgetial@gmail.com CLICK AQUÍ ⬇️
     location: "Colombia"
-    followers: 2093
-    engagement: 2537
-    commentsToLikes: 0.106131
-    id: cka66docqgl5h0i78zws00mzg
-    verified: false
-    hashtags: "#serpientessure, #itzy, #kimjisoo, #beronica"
-  - username: "jeison_giraldo"
+    followers: 5500000
+    engagement: 2829
+    commentsToLikes: 0.014782
+    id: ckbqfykyi1ics0j23ymzwe6og
+    verified: true
+    hashtags: "#greenscreen, #chicaidealyatra, #chicaideal, #yatra"
+  - username: "xx._.jirafita._.kawaiixx"
     fullname: >-
-      JeisonGiraldo
+      🍂.𝓂𝒶𝓎ℴ.🍂
+    bio: >-
+      //forever alone\\ ☕.✨.🍂
     location: "Colombia"
-    followers: 1868549
-    engagement: 2531
-    commentsToLikes: 0.020955
-    id: ck9enw8rklag80j78alx4zbvs
+    followers: 2303
+    engagement: 2777
+    commentsToLikes: 0.092360
+    id: ckc7k69ihrdq70j23eqdr3fal
     verified: false
-    hashtags: ""
-  - username: "vanesalinas_"
-    fullname: >-
-      vanessa salinas🦋
-    location: "Colombia"
-    followers: 38083
-    engagement: 2340
-    commentsToLikes: 0.043449
-    id: cka0gdxoi40st0i78r5a1j0dx
-    verified: false
-    hashtags: ""
-  - username: "miilorodriguez"
-    fullname: >-
-      Miilo Rodriguez
-    location: "Colombia"
-    followers: 85614
-    engagement: 2291
-    commentsToLikes: 0.039662
-    id: ck9r3mipvqk4q0j7864obsfyu
-    verified: false
-    hashtags: "#simetria, #miilorodriguez"
-  - username: "pepo_picapiedra"
-    fullname: >-
-      pepo_picapiedra🐾
-    location: "Colombia"
-    followers: 72095
-    engagement: 2287
-    commentsToLikes: 0.041436
-    id: ck81rzkb3ows50j78jyx7u0ja
-    verified: false
-    hashtags: "#parat, #foryou, #paratii, #faill"
+    hashtags: "#xyzbca, #fyp, #parati, #greenscreen"
   - username: "soybrandon01"
     fullname: >-
       Brandon Saavedra 
+    bio: >-
+      Pásate por mi Insta: soybrandon01 y te invito un helado❤️ 1.1M??
     location: "Colombia"
-    followers: 594239
-    engagement: 2229
-    commentsToLikes: 0.029330
+    followers: 1100000
+    engagement: 2748
+    commentsToLikes: 0.029401
     id: cka0knlnongz10i78iu95rd2b
     verified: false
-    hashtags: "#greenscreen"
+    hashtags: "#parati, #colombia, #foryou, #fyp"
+  - username: "juakin_saenz"
+    fullname: >-
+      🇨🇴Juakin Saenz👑
+    bio: >-
+      dale ❤️a mi ultima foto y comenta ya 🙊👇🏻
+    location: "Colombia"
+    followers: 3400000
+    engagement: 2640
+    commentsToLikes: 0.028482
+    id: ckd6yv73xx97r0j23j69dftmc
+    verified: true
+    hashtags: "#volveremosaflorecer, #feriadelasflores"
+  - username: "sun._.xcharli"
+    fullname: >-
+      charli doesn't notice me
+    bio: >-
+      52.1k en mi sótano 💗🥺
+    location: "Colombia"
+    followers: 52100
+    engagement: 2432
+    commentsToLikes: 0.105702
+    id: ckbah22tr8x9j0j23pscfzkhu
+    verified: false
+    hashtags: "#parati, #greenscreen, #xyzbc, #xyzbca"
 cities:
   - name: Bogotá
     link: /tiktok/colombia/bogota

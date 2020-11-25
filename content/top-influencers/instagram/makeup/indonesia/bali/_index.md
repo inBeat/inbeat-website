@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Bali In 2020
 description: >-
-  Find top makeup Instagram influencers in Bali in 2020. Most popular hashtags: #makeupbali #makeup #bali #designer.
+  Find top makeup Instagram influencers in Bali in 2020. Most popular hashtags: #makeupbali #bali #makeup #muabali.
 platform: Instagram
+hits: 139
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 139 Instagram influencers like this in Bali, Indonesia for you to pitch.
 profiles:
-  - username: "nutsdaria"
+  - username: "mells28"
     fullname: >-
-      BALI MODEL / INFLUENCER 🇲🇨
+      MELLS28
+    bio: >-
+      IMACULLATA JOSHUA RIA PAMELA 🛡 #mells28 For jobs or endorse contact via DM 🎓USD 015 ✝️Jesus bless me ²⁸.⁰².⁹⁸ 💕 anung s tyanova @anung_freakz 🏡 YK
     location: "Indonesia"
-    followers: 26595
-    engagement: 202
-    commentsToLikes: 0.041070
-    id: ck6tq2poxp2oi0j71gmr14jpq
+    followers: 43733
+    engagement: 249
+    commentsToLikes: 0.019130
+    id: ckaoxlst0dt9i0i78v4dwkzs6
     verified: false
-    hashtags: "#beachclubbali, #dayclubbali, #baliindonesia2020, #makeupbali"
-  - username: "ita_paidjan"
+    hashtags: "#jogjaputri, #weddingjogja, #wisudajogja, #makeupjogja"
+  - username: "bellabonita_r.a"
     fullname: >-
-      Natural makeup
+      BELLBON
+    bio: >-
+      💎AGEN RESMI @laskinofficial PERAWATAN BELLBON 🛍 @bellbonshop 📍Job model/ Endorse DM 📍solo-mdn-sby Pemesanan Laskin by WA/Shopee⬇️ 📲WA ‪082139087660‬
     location: "Indonesia"
-    followers: 17121
-    engagement: 149
-    commentsToLikes: 0.031618
-    id: ck15u62xxll7r0i19y626ufxi
+    followers: 24249
+    engagement: 421
+    commentsToLikes: 0.006849
+    id: ck6tqu9o2ucr60j71053ptlbr
     verified: false
-    hashtags: "#makeupjunkies, #braids, #bohostyle, #fiercesociety"
-  - username: "furiharun"
+    hashtags: "#photomakeup, #hijabfashion, #moslembride, #bridalparty"
+  - username: "leoafandi_makeup"
     fullname: >-
-      Furi Harun
+      Makeup Artist Jakarta
+    bio: >-
+      📍JAKARTA 📍Batam @dermalovebatam @dapurmamaleo 🏅WINNER @makeoverid MUAHUNT2019 📱 +6281372410673 📧 leoafandi9@gmail.com
     location: "Indonesia"
-    followers: 67917
-    engagement: 209
-    commentsToLikes: 0.037646
-    id: ck0vx52xux6jm0i19qqidxdk6
-    verified: true
-    hashtags: "#birthdaygift, #bajuboneka, #nightcream, #indigochild"
-  - username: "helodiyan"
-    fullname: >-
-      ℂ𝕠𝕟𝕥𝕖𝕟 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 & 𝕀𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣
-    location: "Indonesia"
-    followers: 41520
-    engagement: 139
-    commentsToLikes: 0.409601
-    id: ck9wh3f79w2js0j789yjd8w0p
+    followers: 15781
+    engagement: 171
+    commentsToLikes: 0.072306
+    id: ck8sxxf1qj0v70j78mu4geux1
     verified: false
-    hashtags: "#jualaplikasi, #jualaplikasimurah, #lipsyncwithhanum, #facepaitingdenpasar"
-  - username: "annisafawziyah"
+    hashtags: "#jakartamakeupartist, #makeupartistjakarta, #instamakeup, #jakartamua"
+  - username: "amospabali"
     fullname: >-
-      Annisa Al-hadist
+      Amo Spa Bali
+    bio: >-
+      Life. Style. Spa. #AMOSPA •Jl Batu Bolong 69 Canggu 📞 or WhatsApp +628113999806 9am - 9pm Resto.SPA.Sauna. 📞Call +62 361 9071146 Bookings
     location: "Indonesia"
-    followers: 6837
-    engagement: 519
-    commentsToLikes: 0.032993
-    id: ck9wgkxpotvcq0j78nzft8rad
+    followers: 25599
+    engagement: 192
+    commentsToLikes: 0.024037
+    id: ck5zq5ri7tzn10i1413tqhwy8
     verified: false
-    hashtags: "#ceritayuks, #ootdarmy, #ootdindo, #soflens"
-  - username: "dela_deni"
+    hashtags: "#balifood, #balispa, #quarantine, #amospa"
+  - username: "sarikayana_wedding"
     fullname: >-
-      D_d
+      Sarikayana Wedding Organizer
+    bio: >-
+      MAkeup&Kostum,Dekorasi,Catering, Kartu Undangan, Sovenir,foto&video. Info Price List: DESI : WA/Tlp 081338622030 BPK Wayan:08123640072 TIDAK❌BLS DM
     location: "Indonesia"
-    followers: 9890
-    engagement: 358
-    commentsToLikes: 0.079544
-    id: ck5zq9s9ju7bz0i148esrqe4c
+    followers: 50437
+    engagement: 64
+    commentsToLikes: 0.003669
+    id: ck5bzrjb8rplh0i11o7dbrbvv
     verified: false
-    hashtags: "#modellife, #womenfashion, #bianca, #pose"
-  - username: "blessedvenuss"
+    hashtags: "#makeupartist, #salondibali, #makeupartistbali, #makeupbali"
+  - username: "nabellethalib_"
     fullname: >-
-      Evgeniya Korchagina
+      MUA JAKARTA
+    bio: >-
+      Wedding Make Up Specialist — Owner : @nabellebbmix & @semuadijastipin Personal account : @nabelletlb — For PL and Booking : (click link down below)
     location: "Indonesia"
-    followers: 9612
-    engagement: 906
-    commentsToLikes: 0.044976
-    id: ck5zrjoo2wpid0i141nf39wfp
+    followers: 74600
+    engagement: 152
+    commentsToLikes: 0.011371
+    id: ck14j36oyieby0i19xe2ffmlm
     verified: false
-    hashtags: "#tumpaksewu, #waterfall, #underwear, #nature"
-  - username: "danellailene"
+    hashtags: ""
+  - username: "oping.wo.real"
     fullname: >-
-      ILENE | BALI MODEL | MUA BALI
+      Oping Wo Real
+    bio: >-
+      AKUN ASLI. Jl JA Suprapto no 25A Trenggalek. Akun lama dihack orang yg tdk bertanggung jwb, hati2 dg sgl bentuk penipuan. Info PL dll DILLA
     location: "Indonesia"
-    followers: 18863
-    engagement: 323
-    commentsToLikes: 0.017708
-    id: ck5hkl5ihimdu0i11injipbmy
+    followers: 20961
+    engagement: 227
+    commentsToLikes: 0.009768
+    id: ck9wd31x6dumu0j786wmb6i1d
     verified: false
-    hashtags: "#makeupinspiration, #tbt, #noneditedphotos, #awch"
-  - username: "zhukovanatasha"
+    hashtags: ""
+  - username: "felicianathalie_"
     fullname: >-
-      Tash✨
+      펠리시아🍑felicia nathalie
+    bio: >-
+      📍BALI | TNG UMN '19 #model | #dancer DM For #endorsement 📥 Part of @teen_management @chb_management CiaAgency BA @mamaleonofficial YTChannel👇🏻
     location: "Indonesia"
-    followers: 22615
-    engagement: 250
-    commentsToLikes: 0.026806
-    id: ck13951n6jk9p0i19czwqdg0b
+    followers: 18695
+    engagement: 698
+    commentsToLikes: 0.222421
+    id: ck9wgk3pjts0e0j78vcntnir1
     verified: false
-    hashtags: "#balibabes, #bali"
-  - username: "rachelgilbert"
+    hashtags: "#modelbali, #makeup, #fotograferbali, #model"
+  - username: "myanabananas"
     fullname: >-
-      Rachelgilbert
+      Lady Myana
+    bio: >-
+      Coconut Queen 👑 Ph.D. In Google 🥇 B.S. in Finance💰 💫Miss Universe 🇬🇺 2017 DM for inquiries
     location: "Indonesia"
-    followers: 2969
-    engagement: 1369
-    commentsToLikes: 0.104361
-    id: ckaoqokcvjmxg0i78cu4yfjf2
+    followers: 40066
+    engagement: 365
+    commentsToLikes: 0.033738
+    id: ck0udd3l9isxa0i19ds1m3fpi
     verified: false
-    hashtags: "#blondie, #islandlife, #dolly, #ootd"
+    hashtags: "#fitnessfashion, #lounge, #fitnessmodel, #goodmorning"
+  - username: "lianaarahmawati_"
+    fullname: >-
+      ʟɪɴ✨
+    bio: >-
+      🌙🌹
+    location: "Indonesia"
+    followers: 4613
+    engagement: 1825
+    commentsToLikes: 0.056940
+    id: ck5q7mc2927zl0i11qxcme7yt
+    verified: false
+    hashtags: "#paradise, #bali, #baliisland, #beach"
 ---

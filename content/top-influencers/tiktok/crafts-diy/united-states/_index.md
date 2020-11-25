@@ -1,97 +1,130 @@
 ---
 title: Top 10 Crafts And Diy TikTok Influencers In United States In 2020
 description: >-
-  Find top crafts and diy TikTok influencers in United States in 2020. Most popular hashtags: #creative #crafty #crafts #diyproject.
+  Find top crafts and diy TikTok influencers in United States in 2020. Most popular hashtags: #diy #fyp #foryou #crafts.
 platform: TikTok
+hits: 31
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 31 TikTok influencers like this in United States for you to pitch.
 profiles:
+  - username: "a_littles_dungeon"
+    fullname: >-
+      🎀ALittlesDungeon🎀
+    bio: >-
+      Crafts DIY Little stuff Please follow my Instagram 🦄🌈❤🧡💛💚💙💜🌈🦄
+    location: "United States"
+    followers: 55100
+    engagement: 1116
+    commentsToLikes: 0.011232
+    id: ck8vtj2vtgfhd0j7869blsd9l
+    verified: false
+    hashtags: "#little, #sparkle, #handmade, #resinart"
+  - username: "drooandaya"
+    fullname: >-
+      drooandaya
+    bio: >-
+      DROO & AYA || Crafts & DIY 🇵🇭🇯🇵
+    location: "United States"
+    followers: 40700
+    engagement: 776
+    commentsToLikes: 0.010689
+    id: ckbq74g4vti6l0j23anm030w5
+    verified: false
+    hashtags: "#christmas, #diy, #crafts, #ornaments"
   - username: "nissalynninteriors"
     fullname: >-
       Nissa-Lynn Interiors
+    bio: >-
+      An Interior Decorator who loves crafts & DIY projects! Check me out on Insta!
     location: "United States"
-    followers: 28853
-    engagement: 401
-    commentsToLikes: 0.014561
+    followers: 42400
+    engagement: 395
+    commentsToLikes: 0.011493
     id: ck8rof42ngtwc0j781pt01eb9
     verified: false
-    hashtags: "#good, #christmastree, #kitchenremodel, #woodcrafts"
-  - username: "artware"
+    hashtags: "#christmasdecor, #holidaydecorating, #tiktokpartner, #flowers"
+  - username: "quarantineparty101"
     fullname: >-
-      A craftsman
+      quarantine party <3
+    bio: >-
+      recipes, crafts, diys and things to pass time! join the party ☆
     location: "United States"
-    followers: 1155984
-    engagement: 2290
-    commentsToLikes: 0.003698
-    id: ck8sawflv42a10j78ht0b6osn
+    followers: 34000
+    engagement: 1707
+    commentsToLikes: 0.037226
+    id: ckbkn6fjgh5tn0j2359frecsp
     verified: false
-    hashtags: "#whatisthis, #resinaet, #jewellery, #woodworking"
-  - username: "solovelycreations"
+    hashtags: "#wallpaper, #skylight, #fyp, #fff"
+  - username: "gabby....b"
     fullname: >-
-      SoLovelyCreations
+      gabby
+    bio: >-
+      bay area @stix4covid
     location: "United States"
-    followers: 4513
-    engagement: 681
-    commentsToLikes: 0.074580
-    id: ck94kwzq8wvhm0j78c0e6bur6
+    followers: 69400
+    engagement: 2391
+    commentsToLikes: 0.015440
+    id: ckauzea3k4xjr0j23ob9g41is
     verified: false
-    hashtags: "#vote, #whippedcoffee, #sunset, #oops"
-  - username: "thecloakedfox"
+    hashtags: "#cds, #crafts, #diy, #cd"
+  - username: "theclaycroissant"
     fullname: >-
-      thecloakedfox
+      Meghan Elizabeth
+    bio: >-
+      Suggestions welcome! 💕
     location: "United States"
-    followers: 8692
-    engagement: 981
-    commentsToLikes: 0.016716
-    id: ckal661p89hxa0i788nkqytdw
+    followers: 130900
+    engagement: 2349
+    commentsToLikes: 0.012486
+    id: ckbqgd00o1rek0j23kjv1chq8
     verified: false
-    hashtags: "#yoda, #yerawizard, #thrifting, #handdyed"
-  - username: "gregory.joe1"
+    hashtags: "#tiktokpartner, #crafts, #diy, #kawaii"
+  - username: "dino_bird"
     fullname: >-
-      Greg Schaff
+      dino
+    bio: >-
+      artist I don't sleep is actually a raccoon dm me for commission info!
     location: "United States"
-    followers: 14567
-    engagement: 668
-    commentsToLikes: 0.028818
-    id: cka5xtrjdfd9z0i78x6dd6olk
+    followers: 53500
+    engagement: 1297
+    commentsToLikes: 0.017893
+    id: ck9c8icerszmq0j78gh1cf3x5
     verified: false
-    hashtags: "#justdiyit, #house, #sunset, #justwrapit"
-  - username: "fingertip.art"
+    hashtags: "#dinosquarantinecrafts, #asmr, #craft, #diy"
+  - username: "craftman66"
     fullname: >-
-      Fingertip Art
+      Resin draw
+    bio: >-
+      ✉️email:j@ucan.cn ❤️follow for more❤️
     location: "United States"
-    followers: 459917
-    engagement: 837
-    commentsToLikes: 0.005272
-    id: ck9a91xlgeft50j78bqx3qjpy
+    followers: 279100
+    engagement: 1412
+    commentsToLikes: 0.010245
+    id: ck9rgqq75c1c70j784tq1tobd
     verified: false
-    hashtags: "#gift, #plane, #pewpewpew, #rose"
-  - username: "storyofwood"
+    hashtags: "#fyp, #foryou, #craft, #diy"
+  - username: "ari___art"
     fullname: >-
-      Story Of Wood
+      ari
+    bio: >-
+      I do art 🎨 illustration, sculpting, n crafting I sell stuff 🖤
     location: "United States"
-    followers: 6605
-    engagement: 1920
-    commentsToLikes: 0.025526
-    id: cka6fmdcbg7g10i78w9d678dr
+    followers: 73400
+    engagement: 1476
+    commentsToLikes: 0.008646
+    id: ckc8c2juz876m0j23xy1bbqt2
     verified: false
-    hashtags: "#cute, #necklace, #craft, #diycraft"
-  - username: "_m.avelino"
+    hashtags: "#halloween, #artober, #zombie, #craft"
+  - username: "starrydoodle"
     fullname: >-
-      Magaly 💖
+      ⭐️ bethany ⭐️
+    bio: >-
+      wlw jamba 🌈 | 19 | she/her/hers ⬇️ use my code STAR10 for 10% off! ⬇️
     location: "United States"
-    followers: 6146
-    engagement: 551
-    commentsToLikes: 0.019584
-    id: ck9f81g8m0smt0j78cmcoef17
+    followers: 117600
+    engagement: 2487
+    commentsToLikes: 0.018240
+    id: ckcorm0op7n5i0j23zjbxykct
     verified: false
-    hashtags: "#funny, #cumbiasonidera, #mexicancouple, #makeup"
-  - username: "lindsayhammer"
-    fullname: >-
-      Lindsay Hammer
-    location: "United States"
-    followers: 6038
-    engagement: 417
-    commentsToLikes: 0.006953
-    id: ck9ff360pvml60j782jt5o6mh
-    verified: false
-    hashtags: "#thesearemycrocs, #quarantine, #imtoooldforthis, #collegelife"
+    hashtags: "#miniature, #foryou, #diy, #miniatures"
 ---

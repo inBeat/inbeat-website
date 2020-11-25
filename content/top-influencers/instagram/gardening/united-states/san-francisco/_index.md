@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top gardening Instagram influencers in San Francisco in 2020. Most popular hashtags: #gardening #sanfrancisco #mothersday #shelterinplace.
+  Find top gardening Instagram influencers in San Francisco in 2020. Most popular hashtags: #gardening #garden #nature #flowers.
 platform: Instagram
+hits: 14
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
-  - username: "kristywicks"
+  - username: "thesucculenthobbyist"
     fullname: >-
-      KRISTY • WICKS
+      Jean
+    bio: >-
+      Indulging my succulent obsession. San Francisco. 🌿 All 📷 by me. ✉️: thesucculenthobbyist@gmail.com My food/travel adventures: @lemonsandanchovies
     location: "United States"
-    followers: 411429
-    engagement: 412
-    commentsToLikes: 0.036344
-    id: ck0u0jg9atyqy0i19dm88fu8d
+    followers: 32926
+    engagement: 212
+    commentsToLikes: 0.031648
+    id: ck136o4wn7g4z0i197jrdr0wq
     verified: false
-    hashtags: "#gardenparty, #ltkspring, #chickensoup, #springstyle"
-  - username: "anettemarweld"
+    hashtags: "#jardines, #succulentaddict, #sukkulenten, #plantstagram"
+  - username: "jeanniedouglasart"
     fullname: >-
-      A N E T T E   M A R W E L D
+      Jeannie Douglas Colorful Art
+    bio: >-
+      🌻Acrylic Abstract Art Blooming with Joy! 🌻Floral & Landscape Paintings inspired by the beauty of nature #jeanniedouglasart ORIGINALS/PRINTS👇Dm/Email
     location: "United States"
-    followers: 5558
-    engagement: 461
-    commentsToLikes: 0.032766
-    id: ck0vzusw1b05t0i19cz9e5uxo
+    followers: 24597
+    engagement: 256
+    commentsToLikes: 0.087577
+    id: ck8tc138nxwnv0j78ihbokyhg
     verified: false
-    hashtags: "#contemplation, #roses, #nature, #pacificocean"
-  - username: "sfchronicle"
+    hashtags: "#abstractlandscape, #flowerart, #studioscenes, #californiaartist"
+  - username: "succielife"
     fullname: >-
-      San Francisco Chronicle
+      Succielife
+    bio: >-
+      🙋🏼‍♂️Full time succie addict 🌵Online Succulent Shop 🌱Instagram Live Sales 📍Berkeley, CA ☀️
     location: "United States"
-    followers: 108860
-    engagement: 84
-    commentsToLikes: 0.030567
-    id: ck5c10uulu89q0i11l1sq3g5a
-    verified: true
-    hashtags: "#garden, #gardening, #bayarea, #shelterinplace"
-  - username: "christiandawdesign"
-    fullname: >-
-      Christian Daw
-    location: "United States"
-    followers: 281380
-    engagement: 657
-    commentsToLikes: 0.022429
-    id: ck0w79duucey70i19750um17m
+    followers: 8049
+    engagement: 1225
+    commentsToLikes: 0.174482
+    id: ckaoyu6qaj3mk0i78db2mnzfh
     verified: false
-    hashtags: "#coastalcharm, #modernstyle, #loveforhome, #bathroom"
-  - username: "theestatedirector"
+    hashtags: "#sukulenty, #cuteplants, #succulents, #variegated"
+  - username: "passthepistil"
     fullname: >-
-      Scott Gorelick | TGG Principal
+      Emily Murphy
+    bio: >-
+      Author. Speaker. #GrowWhatYouLove Regenerative organic gardener/designer. Nature activist. Inspiring others to grow the change they want to see.
     location: "United States"
-    followers: 10048
-    engagement: 1548
-    commentsToLikes: 0.013686
-    id: ck136brxl5piw0i19qnecvdlg
+    followers: 28507
+    engagement: 183
+    commentsToLikes: 0.051622
+    id: ck6tpq3qslp9n0j71z9lo49tf
     verified: false
-    hashtags: "#florida, #compassopenhouse, #architecturaldigest, #igdaily"
-  - username: "heatherihnart"
+    hashtags: "#harvest, #healthyliving, #flowers, #california"
+  - username: "naomivandoren"
     fullname: >-
-      Heather Ihn (“een”)  Martin
+      Naomi VanDoren
+    bio: >-
+      Artist & Author | Adventure-inspired fantasy worlds 📘 #NaiyaAndTheFoxdragon Novel now in the shop! ♡ Indonesia/California
     location: "United States"
-    followers: 87265
-    engagement: 332
-    commentsToLikes: 0.008083
-    id: ck1358wrt0abs0i19gvh1qh29
+    followers: 62897
+    engagement: 576
+    commentsToLikes: 0.007783
+    id: ckap0pv95rcks0i789sd5n2qg
     verified: false
-    hashtags: "#strawberries, #berry, #picnic, #pencilsharpener"
-  - username: "ritemediagroup"
+    hashtags: "#watercolouring, #artsagram, #painteveryday, #bayareaartist"
+  - username: "jays.angle"
     fullname: >-
-      RiTE
+      Jay
+    bio: >-
+      for the love of clicking 📸 ☺️ 🌿🌻🌲🍁🍕🍃
     location: "United States"
-    followers: 26872
-    engagement: 283
-    commentsToLikes: 0.028599
-    id: ck0tujneq7gr00i1992okeyxc
+    followers: 9466
+    engagement: 754
+    commentsToLikes: 0.012558
+    id: ck5bxswmhocv00i11nhcul6nn
     verified: false
-    hashtags: "#jcole, #family, #49rs, #chiefs"
-  - username: "hanwestby"
+    hashtags: "#flowers, #pretty, #clouds, #leaves"
+  - username: "prestigetree"
     fullname: >-
-      Hannah Westby
+      Ty
+    bio: >-
+      Photography taken during work research and traveling tyclimbstrees
     location: "United States"
-    followers: 46539
-    engagement: 1125
-    commentsToLikes: 0.027252
-    id: ck135l57i1y7t0i19muvpwj2g
+    followers: 194726
+    engagement: 68
+    commentsToLikes: 0.001803
+    id: ck14j2dqfia8c0i19i6xf8k6v
     verified: false
-    hashtags: "#plantpowerineveryshower, #furbodognanny, #20weeks, #workingwithfracture"
-  - username: "faithfoxmama"
+    hashtags: "#inspirephotography, #birds, #travel, #instagood"
+  - username: "swenyly"
     fullname: >-
-      
+      Tomas
+    bio: >-
+      Trying to live my best🌱 -patisseur 🍰
     location: "United States"
-    followers: 23056
-    engagement: 171
-    commentsToLikes: 0.296186
-    id: ck6turib2hzj20j71vv26vxo1
+    followers: 8988
+    engagement: 591
+    commentsToLikes: 0.033405
+    id: ckap5zblcdsux0i78m02emwkl
     verified: false
-    hashtags: "#trueinnerself, #earlymornings, #borageflowers, #heatherrose"
-  - username: "ohoneycomb"
+    hashtags: "#selfie, #smile, #gaytravel, #instaman"
+  - username: "edwaardliang"
     fullname: >-
-      miss macy
+      Edwaard Liang
+    bio: >-
+      #Ballet #Choreographer #artisticdirector of @balletmet
     location: "United States"
-    followers: 86887
-    engagement: 491
-    commentsToLikes: 0.010311
-    id: ck1376ia7a16i0i19uj96ns5l
+    followers: 6300
+    engagement: 518
+    commentsToLikes: 0.029569
+    id: ck0u20o8byh8t0i195c1ogkrs
     verified: false
-    hashtags: "#motelrocks, #onda, #loradicarlopartner"
+    hashtags: "#worldwidedance, #pointeshoes, #edwaardliang, #worldwideballet"
+  - username: "cletabraham"
+    fullname: >-
+      Clet
+    bio: >-
+      Obeying is not a virtue
+    location: "United States"
+    followers: 69034
+    engagement: 774
+    commentsToLikes: 0.011308
+    id: ck0vv63d5npg10i19o4yetyv1
+    verified: false
+    hashtags: "#streetsign, #giletjaune, #cletabrahamfanpage, #streetart"
 ---

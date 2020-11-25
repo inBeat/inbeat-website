@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In India In 2020
 description: >-
-  Find top models Instagram influencers in India in 2020. Most popular hashtags: #nature #photography #travel #.
+  Find top models Instagram influencers in India in 2020. Most popular hashtags: #instagram #mumbai #keralagodsowncountry.
 platform: Instagram
+hits: 3849
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 3849 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "fashionarbaj"
+  - username: "lorenzodinatelle"
     fullname: >-
-      MODEL & fASHION PHOTOGRAPHY
+      Lorenzo Dinatelle 777
+    bio: >-
+      650,000+ volgers op Tiktok. 60,000 op Youtube. Model & Actor Samenwerken?: lorenzo@LJL-media.com
     location: "India"
-    followers: 4018
-    engagement: 2856
-    commentsToLikes: 0.562940
-    id: ckaowb49g85250i781g2y9w0k
+    followers: 144518
+    engagement: 919
+    commentsToLikes: 0.200205
+    id: ck8wf63lsf6r30j78fqoddsy2
     verified: false
-    hashtags: ""
-  - username: "hater_kid__"
+    hashtags: "#hetisokeeomnietokeetezijn, #vampire, #halloween, #blackouttuesday"
+  - username: "the_ladybug____"
     fullname: >-
-      A D i T h Y a N /| ADHi |\ 🦋✨️
+      LadyBug
+    bio: >-
+      I’m just being me 🇮🇳 indian Biker model 💃🏻 #Street #style #spotlight
     location: "India"
-    followers: 11072
-    engagement: 2799
-    commentsToLikes: 0.119190
-    id: ckaoskpdrrw750i78gpmid1kg
+    followers: 43406
+    engagement: 3335
+    commentsToLikes: 0.106601
+    id: ck14j4o6fim2q0i197dkonn0o
     verified: false
-    hashtags: "#kerala, #godsowncountry, #viratkohli, #covid19"
-  - username: "aprilia_maniac"
-    fullname: >-
-      SidHarth A S
-    location: "India"
-    followers: 4540
-    engagement: 2500
-    commentsToLikes: 0.299462
-    id: ck9whx132zv8s0j78644hu0g2
-    verified: false
-    hashtags: "#vishupic, #axor, #green, #greeny"
-  - username: "abu__omezz"
-    fullname: >-
-      💫__.ابو أوميز.__💫
-    location: "India"
-    followers: 2476
-    engagement: 5214
-    commentsToLikes: 0.257927
-    id: ck9whsom4zb7j0j78meagh5sy
-    verified: false
-    hashtags: "#mens, #edits, #will, #once"
+    hashtags: "#ride, #rider, #bikesofinstagram, #honda"
   - username: "mr_charmer_tejas"
     fullname: >-
       👑MR TEJA$ PANDHARE👑
+    bio: >-
+      • fashion blogger | influencer 📷 • dm for callab | promotions 📩 • mr.ahmednagar top class of the fasion 2k20🏆 | • Professional Model | • ahmednagar |
     location: "India"
-    followers: 2948
-    engagement: 3318
-    commentsToLikes: 0.175062
+    followers: 6020
+    engagement: 3171
+    commentsToLikes: 0.156977
     id: ck9wfpqdipyf10j78tfb8wr2k
     verified: false
-    hashtags: "#fashion, #nightphotoshoot, #sunday, #keepsupporting"
-  - username: "pa_ru_3"
+    hashtags: "#instadaily, #potrait, #swag, #fambruh"
+  - username: "_hasir_hashi_"
     fullname: >-
-      BIYA BABY /✿TD G
+      
+    bio: >-
+      SADAKATHULAI HASIR Her weirdo 🦄 Making every day magical ✨ Fashion/Model 🖤💫
     location: "India"
-    followers: 9825
-    engagement: 2873
-    commentsToLikes: 0.113272
-    id: ck9wisfyj3rla0j78e76d5qiv
+    followers: 3910
+    engagement: 2358
+    commentsToLikes: 0.184487
+    id: ckapboi2l0pat0i78zgty2ne9
+    verified: false
+    hashtags: "#thrivandrum, #kasarago, #palkad, #culture"
+  - username: "the_sto_ned_heart_"
+    fullname: >-
+      محمدشاميل. 
+    bio: >-
+      . 🏴Fashion model🌟 . ✨عدني بذلك, عِديني ألا, ـ عِدْنى إذن, لن تفعل معي 🔆 . 🦋motoaholic⚡️ . 💙photograpyicist🌈 . 💥Explorer💫 . 🎗Team..KALIYOSKI**🔫
+    location: "India"
+    followers: 5204
+    engagement: 1695
+    commentsToLikes: 0.144259
+    id: ck9hb3sn4fa700j78idb6eqc2
+    verified: false
+    hashtags: "#chennai, #keralam, #thrissurgram, #keralaphotography"
+  - username: "reshy_razz"
+    fullname: >-
+      Reshy Razz
+    bio: >-
+      𝗡𝗲𝘄 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 Model ~ fashionate ~ explorer ~ dreamer Dress how you want to be adressed ❤️ Model @fashion_modeling_company @razzclothing2020 𝗞𝗲𝗿𝗮𝗹𝗮 🌴
+    location: "India"
+    followers: 14145
+    engagement: 1659
+    commentsToLikes: 0.098277
+    id: ck9wipbgm3brj0j785m3gr7w3
     verified: false
     hashtags: ""
-  - username: "vinit_gujjar_sadopur"
+  - username: "akanksha.yv"
     fullname: >-
-      tiger🐅 | 👑     🌐
+      Ａｋａｎｋｓｈａ 🌸
+    bio: >-
+      ⚛️ Apothecary | Model | Artist | Life Enthusiast 🏆 National Record Holder 📍🇮🇳 Indian born & bred
     location: "India"
-    followers: 8317
-    engagement: 1790
-    commentsToLikes: 0.079816
-    id: ckap1zngvwqxq0i78lhvg74qg
+    followers: 7901
+    engagement: 1370
+    commentsToLikes: 0.095451
+    id: ckaoyohieidoa0i78j7tzu3fk
     verified: false
-    hashtags: ""
-  - username: "vis_hnu_emo_boy"
+    hashtags: "#myhair, #indianinfluencer, #highbun, #longhairstyles"
+  - username: "rojmira_india"
     fullname: >-
-      vís Hñū eMø bØy✳️❇️
+      Rose 🌷|rojmira|
+    bio: >-
+      Freelance Model 🌱 Plant based Soon Jaipur DM to collaborate /invite
     location: "India"
-    followers: 21104
-    engagement: 1735
-    commentsToLikes: 0.063749
-    id: ck8tcv1q60sit0j78uv8ybrx8
+    followers: 11307
+    engagement: 1106
+    commentsToLikes: 0.113918
+    id: ck8t9r205p16n0j78p112gy3i
     verified: false
-    hashtags: "#chennai, #malayalam, #kerala360, #kozhikoden"
-  - username: "vighnesh_vg_"
+    hashtags: "#tb, #pinkcityjaipur"
+  - username: "hussen_khan_"
     fullname: >-
-      ♛ 【GU 】V I G H N E S H  VG
+      Hussen khan -حسین خان
+    bio: >-
+      🎬 YouTuber / model Email for paid collaboration📥 📧Darkroomdm@gmail.com https://youtu.be/Eu6y9q61w44
     location: "India"
-    followers: 13465
-    engagement: 1635
-    commentsToLikes: 0.222587
-    id: ck9hb79r6folz0j781nzcl5bp
+    followers: 11967
+    engagement: 1025
+    commentsToLikes: 0.103482
+    id: ck9wp571d7uxz0j7884qln0vc
     verified: false
-    hashtags: "#modeling, #mensfashionblogger, #fashionblogger"
-  - username: "shanzz_shaza"
+    hashtags: "#modeling, #photography, #youtuber, #india"
+  - username: "jas00_"
     fullname: >-
-      ghost _queen shanzz_shaza❣️
+      Jas♠️
+    bio: >-
+      ||FASHION | MODEL | INFLUENCER || 🤟🏻Dream Big DM For queries Email👇🏻 Jas.ss@outlook.com📤 MY YOUTUBE CHANNEL 👇🏻
     location: "India"
-    followers: 27393
-    engagement: 1081
-    commentsToLikes: 0.086972
-    id: ckap88155n8ed0i780bhhwu1k
+    followers: 31601
+    engagement: 794
+    commentsToLikes: 0.048297
+    id: ck9wp12w57c7r0j78wdzdezy5
     verified: false
-    hashtags: "#love, #tiktok, #bhfyp, #tamil"
+    hashtags: "#menswear, #gqinsider, #photooftheday, #indianblogger"
 ---

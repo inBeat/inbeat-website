@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top rappers Instagram influencers in Switzerland in 2020. Most popular hashtags: #inlovewithswitzerland #switzerland #zurich #stayhome.
+  Find top rappers Instagram influencers in Switzerland in 2020. Most popular hashtags: #love #switzerland #rapperswil #happy.
 platform: Instagram
+hits: 24
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 24 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
+  - username: "louisantoniotattoo"
+    fullname: >-
+      Louis Antonio
+    bio: >-
+      Resident at: 🇨🇭Rapperswil @ornoirtattoogallery Check out my other account 👉🏻@louisantoniosgr👈🏻
+    location: "Switzerland"
+    followers: 7592
+    engagement: 1174
+    commentsToLikes: 0.047702
+    id: ck5c10snau86n0i110sbmlcdr
+    verified: false
+    hashtags: "#tattoorealistic, #dermalizepro, #stencilforte, #killerinktattoosupplies"
+  - username: "andrew_lead_"
+    fullname: >-
+      Andrew Lead
+    bio: >-
+      Resident at @ornoirtattoogallery St.Gallen - Rapperswil - Lugano 🇨🇭 Roma 🇮🇹 Berlin from 9 to 14/11/20 🇩🇪 ✉️ Leadtattoo@gmail.com
+    location: "Switzerland"
+    followers: 10377
+    engagement: 436
+    commentsToLikes: 0.047543
+    id: ck5ho6kwsp14m0i11z4scuqoc
+    verified: false
+    hashtags: "#tattooed, #inkedlife, #ornoirtattoororschach, #tattoos"
   - username: "milothasangjekaj"
     fullname: >-
       BIGEM  〽️
+    bio: >-
+      I’m not a rapper I’m entertainer❗️ Father of a Prince and a Princess👦👧& married to a Queen👸 •C⭕️ntact +38344224488 #BIGEM #youtube #song #music〽️🎶▶️👇🏼
     location: "Switzerland"
-    followers: 14853
-    engagement: 161
-    commentsToLikes: 0.045736
+    followers: 14505
+    engagement: 124
+    commentsToLikes: 0.047689
     id: ck0turbqq8diz0i19iplww7tr
     verified: false
-    hashtags: "#prishtina, #2vjet, #stayconnected, #picoftheday"
+    hashtags: "#2020, #family, #rebekahasangjekaj, #outnow"
+  - username: "thelifeofcurly"
+    fullname: >-
+      Curly
+    bio: >-
+      RAPPER , SINGER, 💿📀 Songwriter, Snack-Lover // WHATSAPP VIDEO OUT NOW 📟📟📟⤵️⤵️⤵️
+    location: "Switzerland"
+    followers: 11532
+    engagement: 364
+    commentsToLikes: 0.025392
+    id: ck6trmri1zvxv0j71ty7scqto
+    verified: true
+    hashtags: "#hiphop, #whatsapp, #throwback, #sehrangenehm"
   - username: "fsprodvinu"
     fullname: >-
       FSPROD VINU
+    bio: >-
+      | Tamil Rapper / Singer / Songwriter- FSPROD 🎤
     location: "Switzerland"
     followers: 10619
     engagement: 676
     commentsToLikes: 0.025154
     id: ck602lz97hx8b0i14gd3jiwfz
     verified: false
-    hashtags: "#trending, #aligatie, #tiktoktamil, #soon"
-  - username: "melaniepipi"
+    hashtags: "#tamilhiphop, #menstyle, #cannes, #love"
+  - username: "i_am_birebaumli"
     fullname: >-
-      Mélanie Vargas
+      
+    bio: >-
+      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
     location: "Switzerland"
-    followers: 2485
-    engagement: 1781
-    commentsToLikes: 0.073320
-    id: ckap5yziedrdn0i78gz9ba5e4
+    followers: 5800
+    engagement: 2017
+    commentsToLikes: 0.118826
+    id: ck13d3pg53irf0i190hd1hu57
     verified: false
-    hashtags: "#lesbiennesuisse, #lovemakeup, #lesbianstory, #singlelesbians"
-  - username: "_vikicka_"
+    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
+  - username: "hejitsmeela"
     fullname: >-
-      Viki 💪
+      D  a  n  i  e  l  a
+    bio: >-
+      stay tuned on my feed about ~fashion~lifestyle~travel ▪︎mom~wife~friend w/ german roots 📍Switzerland ▪︎email: hejitsmeela@gmail.com 🔜 #hejitsmeela
     location: "Switzerland"
-    followers: 7011
-    engagement: 1769
-    commentsToLikes: 0.009958
-    id: ck8t2ivqszo4p0j783hfphxed
+    followers: 6942
+    engagement: 665
+    commentsToLikes: 0.191942
+    id: ck1380bisdvxo0i19izgjiyt5
     verified: false
-    hashtags: "#nomuscles, #swissalps, #beautifulday, #quarantinebody"
-  - username: "drillito"
+    hashtags: "#happy, #lebensfreude, #rabattcode, #autumn"
+  - username: "svenepiney"
     fullname: >-
-      Drill
+      Sven Epiney
+    bio: >-
+      Swiss TV-Radio-Host SRF EVENTMODERATOR Booking: mail@svenepiney.ch Infos: www.svenepiney.ch Facebook: @svenepiney #svenepiney #svenepineykuchen
     location: "Switzerland"
-    followers: 13766
-    engagement: 1321
-    commentsToLikes: 0.004604
-    id: ck5hgmnhb3lr80i115ly5qf92
-    verified: false
-    hashtags: "#official, #cave, #ontheset, #dulesempler"
-  - username: "jonnys_galerie"
-    fullname: >-
-      LANDSCAPE & NATURE of my🌏
-    location: "Switzerland"
-    followers: 6227
-    engagement: 1102
-    commentsToLikes: 0.078078
-    id: ck0tu538j5ocd0i19eu42zj7c
-    verified: false
-    hashtags: "#glarus, #flussufer, #weekend, #vierwaldst"
-  - username: "danaverdene"
-    fullname: >-
-      DANA🇨🇭Zurich, Switzerland
-    location: "Switzerland"
-    followers: 2844
-    engagement: 1561
-    commentsToLikes: 0.043844
-    id: ck5hhmfbl8zo60i117bmcgi3g
-    verified: false
-    hashtags: "#pleasestayhome, #liguriancoast, #travelgirlsgo, #topzurichphoto"
-  - username: "1000schweizerorte"
-    fullname: >-
-      1000 Schweizer Orte
-    location: "Switzerland"
-    followers: 31761
-    engagement: 454
-    commentsToLikes: 0.004834
-    id: ck14kekmyp5430i1900eh4pol
-    verified: false
-    hashtags: "#gurtnellen, #glaris, #landwasser, #wallis"
-  - username: "visitzurich"
-    fullname: >-
-      Zürich Tourism
-    location: "Switzerland"
-    followers: 110651
-    engagement: 323
-    commentsToLikes: 0.010157
-    id: ck0tvs3pocmpb0i19rl9o9il2
+    followers: 18087
+    engagement: 587
+    commentsToLikes: 0.024580
+    id: ck6trm9lqzsyh0j71s36ia5g0
     verified: true
-    hashtags: "#visitz, #swisscities, #heimat, #towers"
-  - username: "adin_rs6"
+    hashtags: "#bern, #boot, #man, #weekend"
+  - username: "_marisaofficial_"
     fullname: >-
-      Audi RS6
+      Marisa Urbano🦋
+    bio: >-
+      Miss Fitness SNBF 2010 Makeup| Fashion| Fitness| Tanzen | Food| 🇧🇷 living in 🇨🇭 Collab ↘️📩marisaurbano@gmx.ch
     location: "Switzerland"
-    followers: 4242
-    engagement: 3151
-    commentsToLikes: 0.037644
-    id: ck9wcy2fad6d00j784tpc1iz1
+    followers: 16772
+    engagement: 177
+    commentsToLikes: 0.073224
+    id: ck5znr6gjp03w0i141vfumzjo
     verified: false
-    hashtags: "#mercedesamg, #mercedesbenz, #mercedes, #c63amg"
+    hashtags: "#love, #smile, #makeup, #instadaily"
+  - username: "kristin.atzeni"
+    fullname: >-
+      Kristin Atzeni
+    bio: >-
+      • passionated cyclist living in Switzerland 🚵🏼‍♀️ ✉︎ contact: hallo@routestudio.ch
+    location: "Switzerland"
+    followers: 103069
+    engagement: 262
+    commentsToLikes: 0.011175
+    id: ck0vz3cye73640i19fb5rnuzf
+    verified: false
+    hashtags: "#happycyclingwomen, #beautifulhome, #roadbikesdaily, #greatpicture"
 ---

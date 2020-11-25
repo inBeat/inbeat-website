@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Toronto In 2020
 description: >-
-  Find top gaming TikTok influencers in Toronto in 2020. Most popular hashtags: #gaming #anch #duet #onlyhuman.
+  Find top gaming TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
+hits: 14
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 14 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "cj.the.kid"
+  - username: "levon_mov"
     fullname: >-
-      CJTheKid
+      Levon Movsessian
+    bio: >-
+      Motivating daily 💰Blockchain consulting 🏡 Real estate 🦁 8 charities
     location: "Canada"
-    followers: 8268
-    engagement: 1824
-    commentsToLikes: 0.227561
-    id: ck8fbzuai5pvv0j78k9mqj8nb
+    followers: 40100
+    engagement: 550
+    commentsToLikes: 0.016817
+    id: ck8w5hmhp9zwe0j78j3b0pvv6
     verified: false
-    hashtags: "#gamer, #ninjamover, #skipthedishes, #celebratenurses"
-  - username: "canada_drew"
+    hashtags: "#foryoupage, #autopilot, #tesla, #golfing"
+  - username: "dani.famous"
     fullname: >-
-      Drew Barsness
+      Dani 
+    bio: >-
+      🇬🇷 🇨🇦 My main is @kimkardashian
     location: "Canada"
-    followers: 592912
-    engagement: 2188
-    commentsToLikes: 0.031054
-    id: ck8vyxncvvb040j780ij3kfj2
+    followers: 7512
+    engagement: 974
+    commentsToLikes: 0.027456
+    id: cka0saqlskj8a0i78lwuwosx1
     verified: false
-    hashtags: "#gamer, #ripmilk, #weyburn, #cheatingsucks"
-  - username: "josephfuoco"
+    hashtags: "#translation, #fyp, #interiordesign, #toronto"
+  - username: "glaedrik"
     fullname: >-
-      Joseph Fuoco
+      Glaedrik
+    bio: >-
+      You can do better but you’ve settled to following me 🇨🇦
     location: "Canada"
-    followers: 20430
-    engagement: 1154
-    commentsToLikes: 0.230770
-    id: cka0omybb4ne70i78b3m8h10g
+    followers: 15800
+    engagement: 945
+    commentsToLikes: 0.045427
+    id: ck9fdqxqvpsgn0j78mr9n7z8f
     verified: false
-    hashtags: "#support, #tylerthecreator, #dababybop, #xxxtentacion"
-  - username: "steven.van"
+    hashtags: "#twitchclips, #twitch, #fyp, #glaedrik"
+  - username: "wolfcritchlow"
     fullname: >-
-      Steven Van
+      WolfPaintball
+    bio: >-
+      Sub WOLF PAINTBALL on YOUTUBE
     location: "Canada"
-    followers: 22816
-    engagement: 781
-    commentsToLikes: 0.079522
-    id: ck9v272askd630j7868o56mq5
+    followers: 6554
+    engagement: 1654
+    commentsToLikes: 0.032278
+    id: ck9ad6a97vvew0j78dlz5wl85
     verified: false
-    hashtags: "#turks, #insatgram, #oddfuture, #edits"
-  - username: "vexssa"
+    hashtags: "#foryoupage, #cod, #funny, #sports"
+  - username: "sicko2005"
     fullname: >-
-      vexssa
+      Sicko
+    bio: >-
+      Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
     location: "Canada"
-    followers: 70126
-    engagement: 1357
-    commentsToLikes: 0.021580
-    id: ck8071dihnv1z0j78ybtgmc0x
-    verified: false
-    hashtags: "#glowup, #learnontiktok, #naakey, #vibes"
-  - username: "angelopace456"
+    followers: 244700
+    engagement: 1612
+    commentsToLikes: 0.122148
+    id: ck8fa2xv43zpq0j78kx3cdwrb
+    verified: true
+    hashtags: "#actor, #duet, #tutting, #canada"
+  - username: "coreytonge"
     fullname: >-
-      ang.....pace
+      coreytonge
+    bio: >-
+      🇨🇦Montréal 📷Insta: @CoreyTonge 💪🏼Comedy + Gaming 🤩70k?🤷🏻‍♂️
     location: "Canada"
-    followers: 3002
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: cka8e6hkcvzgh0i78do9u291u
+    followers: 68300
+    engagement: 1127
+    commentsToLikes: 0.033670
+    id: ckbf53t13tvnk0j23spclrfak
     verified: false
-    hashtags: "#celebratenurses, #cops, #sidehustle, #promdiy"
-  - username: "pokemontoronto"
+    hashtags: "#cosplay, #gamer, #mtl, #comedygaming"
+  - username: "itzlaibz"
     fullname: >-
-      PokemonToronto
+      L A I B Z
+    bio: >-
+      Toronto 🇨🇦 📍
     location: "Canada"
-    followers: 27065
-    engagement: 1259
-    commentsToLikes: 0.049816
-    id: cka9m2z923lkk0i789g6fpoug
+    followers: 8885
+    engagement: 1055
+    commentsToLikes: 0.029206
+    id: ckaih1u403zex0i78ioonnqd0
     verified: false
-    hashtags: "#gamingszn, #base, #teaparty, #break"
-  - username: "mrob29"
+    hashtags: "#pakistan, #foryou, #fyp, #duet"
+  - username: "andrewwgao"
     fullname: >-
-      Marissa Roberto
+      andrew
+    bio: >-
+      19, Toronto 🇨🇳🇯🇵 follow me if you hate Riot Games or idk
     location: "Canada"
-    followers: 18691
-    engagement: 996
-    commentsToLikes: 0.057700
-    id: ck8njn82eb58f0j7815ul8nz8
+    followers: 11100
+    engagement: 912
+    commentsToLikes: 0.034660
+    id: ckc7pmlejvbf60j23fms8euju
     verified: false
-    hashtags: "#homeroutine, #rockstarremix, #wethenorth, #seahawks"
-  - username: "lefdra"
+    hashtags: "#fyp, #foryou, #asian, #anime"
+  - username: "jeremydawson18"
     fullname: >-
-      Alfred Green
+      TheRealJerdaw
+    bio: >-
+      17 toronto,Canada FullSend
     location: "Canada"
-    followers: 2603
-    engagement: 598
-    commentsToLikes: 0.078727
-    id: ck961yp30ohsy0j78xlyono7q
+    followers: 2289
+    engagement: 969
+    commentsToLikes: 0.033398
+    id: ck92uyimio8230j78ged3i39t
     verified: false
-    hashtags: "#loop, #soccer, #handball, #canadiancheck"
-  - username: "blonde_vs_blonde"
+    hashtags: "#funny, #fyp, #trending, #foru"
+  - username: "julianosnuts"
     fullname: >-
-      Mr.Blonde
+      Julianosnuts
+    bio: >-
+      ❄️Follow me on Instagram @Julianosnuts❄️ ⚠️ Subscribe YouTube @Julianosnuts ⚠️
     location: "Canada"
-    followers: 6297
-    engagement: 368
-    commentsToLikes: 0.124227
-    id: ck9jxlnoy18rx0j78lu5aqk6e
+    followers: 73200
+    engagement: 921
+    commentsToLikes: 0.023100
+    id: ck83zs57c2kam0j78myddzlud
     verified: false
-    hashtags: "#duet, #couplegoals, #fy, #wreslemaniaentrance"
+    hashtags: "#fyp, #viral, #foryoupage, #modernwarfare"
 ---

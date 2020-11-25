@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top fashion Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #explorepage #ankara #qurantine.
+  Find top fashion Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #endsars #explorepage.
 platform: Instagram
+hits: 211
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 211 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
-  - username: "gramofeddie"
+  - username: "tas.sy_"
     fullname: >-
-      Edwin Ekwere
+      Tas
+    bio: >-
+      📣 Influencer Twin @kenie.x @thekaytwinss Fashion designer DM me for promotions and collaboration
     location: "Nigeria"
-    followers: 6691
-    engagement: 1535
-    commentsToLikes: 0.066502
-    id: ckap0l115qrra0i78rl9rjrwo
+    followers: 8043
+    engagement: 1023
+    commentsToLikes: 0.079598
+    id: ckf5mg8h7tni90j23ald3ihdr
     verified: false
-    hashtags: "#qurantine, #indaboski, #sky, #dreads"
-  - username: "the_florentyna"
+    hashtags: "#twins, #exploremore, #explorepage, #explore"
+  - username: "itstomiwa"
     fullname: >-
-      Love
+      Tomiwa Talabi
+    bio: >-
+      media. fashion. lifestyle.
     location: "Nigeria"
-    followers: 10376
-    engagement: 1033
-    commentsToLikes: 0.066204
-    id: ck5hosbiqq54c0i11jfitgfmo
+    followers: 28286
+    engagement: 1077
+    commentsToLikes: 0.068323
+    id: ck135zpyj41i10i19myizgh40
     verified: false
-    hashtags: "#boxbraids, #ankara, #beyonc, #weddingguest"
-  - username: "sonizyyy"
+    hashtags: "#singletonplustwo, #ad, #amowambe, #thesocialmap"
+  - username: "thetosintoge"
     fullname: >-
-      Sonia❤️
+      Tosin Toge||Fashion||Blogger
+    bio: >-
+      Fashion|Travel|Lifestyle|Food Content Strategist||Pharmacist ||Social Media Manager 📩: info.thetosintoge@gmail.com
     location: "Nigeria"
-    followers: 10224
-    engagement: 1401
-    commentsToLikes: 0.065616
-    id: ck8t0084aqedk0j78ivh4ah3j
+    followers: 6640
+    engagement: 839
+    commentsToLikes: 0.176589
+    id: ckf5t3jp2gula0j23ej9i7x5i
     verified: false
-    hashtags: "#trillervids, #dance, #explore, #explorepage"
-  - username: "glamprince"
-    fullname: >-
-      snap/skype/twitter @glamprince
-    location: "Nigeria"
-    followers: 2041
-    engagement: 1503
-    commentsToLikes: 0.183793
-    id: ck6tvg0z5m10k0j719qlnie68
-    verified: false
-    hashtags: "#bankheadentertainment, #grillatthepent, #skylounge, #abujafct"
-  - username: "__maleeyah"
-    fullname: >-
-      Best Girl 💫
-    location: "Nigeria"
-    followers: 16248
-    engagement: 1244
-    commentsToLikes: 0.054148
-    id: ck13666r74xxv0i19jy1rsj8s
-    verified: false
-    hashtags: "#makeupfanatic1, #melaninbeauitesunite, #ankarazone, #makeupaddiction"
-  - username: "cheeamaka_xx"
-    fullname: >-
-      🦄Chinedu Chiamaka🦄
-    location: "Nigeria"
-    followers: 58046
-    engagement: 488
-    commentsToLikes: 0.031199
-    id: ck5bxesc6nl3n0i11dwidntqr
-    verified: false
-    hashtags: "#siblings, #flashbackfriday"
-  - username: "jamie_ikiah"
-    fullname: >-
-      AMARACHI
-    location: "Nigeria"
-    followers: 31921
-    engagement: 531
-    commentsToLikes: 0.066546
-    id: ckap0kwtuqr7b0i78znoye4j6
-    verified: false
-    hashtags: "#glowup, #hair, #viral, #happy"
-  - username: "akowo_du"
-    fullname: >-
-      𝒜𝓀𝑜𝓌𝑜 𝒟𝒶𝓃~𝒰𝑔𝑜🤍
-    location: "Nigeria"
-    followers: 9250
-    engagement: 3145
-    commentsToLikes: 0.040604
-    id: ck5cgugo7pkhi0i11x1tnut78
-    verified: false
-    hashtags: "#simplyakowo, #outfitinspo, #birthdayqueen, #lanc"
+    hashtags: "#ad, #blackbloggersclub, #explore, #nigerianfashionbloggers"
   - username: "lateefwahbson"
     fullname: >-
       Wahab Lateef
+    bio: >-
+      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
     location: "Nigeria"
-    followers: 8367
-    engagement: 592
-    commentsToLikes: 0.155410
+    followers: 9541
+    engagement: 823
+    commentsToLikes: 0.119459
     id: ck0tze8pyq0zm0i19kaytuda3
     verified: false
-    hashtags: "#soccerforlife, #footballz, #gloin60seconds, #goldmytv"
-  - username: "glow_riiee"
+    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
+  - username: "thefrenchman__"
     fullname: >-
-      ⓖⓛⓞⓡⓨ 🇳🇬
+      DAVOU PWAJOK
+    bio: >-
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08089667871
     location: "Nigeria"
-    followers: 52526
-    engagement: 892
-    commentsToLikes: 0.028966
-    id: ck6tvfx94m0fv0j71uiqgj1sa
+    followers: 10444
+    engagement: 1145
+    commentsToLikes: 0.095972
+    id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#brunette, #deletingsoon, #portrait, #giveaway"
+    hashtags: "#fashion, #influencer, #explorepage, #davoupwajok"
+  - username: "glam_jayny"
+    fullname: >-
+      Jayny Pha
+    bio: >-
+      This is my only account I don’t have any backup page except my business account @glamjayny_empire BRAND INFLUENCER Fashionista
+    location: "Nigeria"
+    followers: 23786
+    engagement: 1434
+    commentsToLikes: 0.018594
+    id: ckapbevl6znz80i78iaq9jp9h
+    verified: false
+    hashtags: "#halfcastcream, #organicskincareproduct, #reels, #affordableskincareproducts"
+  - username: "jamie_ikiah"
+    fullname: >-
+      AMARACHI
+    bio: >-
+      God Fearing😊 My brand❤️ @jamies_fashionworld Brand ambassador❤️ @mag_hairs @pabs_collections
+    location: "Nigeria"
+    followers: 52591
+    engagement: 436
+    commentsToLikes: 0.033982
+    id: ckap0kwtuqr7b0i78znoye4j6
+    verified: false
+    hashtags: "#endsars, #endpolicebrutality, #endswat"
+  - username: "hameedah_xx"
+    fullname: >-
+      Hammed Hamidat Oyindamola
+    bio: >-
+      Fashion model video model commercial model Creative director/promotion manager Dm for bookings
+    location: "Nigeria"
+    followers: 7301
+    engagement: 1764
+    commentsToLikes: 0.056266
+    id: ck5q769s9057p0i116byq3ebi
+    verified: false
+    hashtags: "#africa, #blackbeautyqueens, #explrepage, #lacream"
+  - username: "thetailorblogger"
+    fullname: >-
+      FETUGA MOSOPE ITEOLUWAKIISHI
+    bio: >-
+      I make outfits look good ☺️ ————————————- FASHION, FASHION AND FASHION MOBILE PHOTOGRAHER/VIDEOGRAPHER COMMERCIAL MODEL TRAVEL ENTHUSIAST Lagos.
+    location: "Nigeria"
+    followers: 9859
+    engagement: 760
+    commentsToLikes: 0.118275
+    id: ck6tvfq9alza90j7131rxt44n
+    verified: false
+    hashtags: "#buydba, #dafribank, #dafrigroup, #nails"
+  - username: "ifedayo.x"
+    fullname: >-
+      Ifedayo | Lagos Photographer
+    bio: >-
+      Magazine-style Photos for ‘Everyday’ People. Portrait, Fashion & Events. Weddings/Events - @ifedayo.weddings 📩 - bookings@ifedayophotography.com
+    location: "Nigeria"
+    followers: 9436
+    engagement: 725
+    commentsToLikes: 0.046256
+    id: ck13456upurc60i199oezjdbt
+    verified: false
+    hashtags: "#lagosevent, #yorubaweddings, #bellanaijafashion, #lagosnigeria"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Canada In 2020
 description: >-
-  Find top models TikTok influencers in Canada in 2020. Most popular hashtags: #gonnabefriends #coronavirus #littlethings #canada.
+  Find top models TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
+hits: 207
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 207 TikTok influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "nehchalb"
+    fullname: >-
+      nehchal
+    bio: >-
+      model
+    location: "Canada"
+    followers: 30100
+    engagement: 875
+    commentsToLikes: 0.022786
+    id: ck8kg0kgfge5v0j78pxquufxj
+    verified: false
+    hashtags: "#pubjabi, #foryou, #model, #baddie"
   - username: "modelsforyou"
     fullname: >-
       Models
+    bio: >-
+      TikToks #1 Model Page! 🍑🍒 Dm for Business and Promotional Deals! 👍📈
     location: "Canada"
-    followers: 177091
-    engagement: 882
-    commentsToLikes: 0.008422
+    followers: 197500
+    engagement: 478
+    commentsToLikes: 0.007527
     id: ck9flmlmhopzz0j78yjgykhx9
     verified: false
-    hashtags: "#girl, #yovannaventura, #photography, #love"
-  - username: "juno.per"
+    hashtags: "#models, #modeling, #beauty, #fashion"
+  - username: "nicoleleblond"
     fullname: >-
-      Juno
+      nicoleleblond
+    bio: >-
+      28 female model fighting chronic illnesses 19+🏳️‍🌈 pan insta @nicoleleblond
     location: "Canada"
-    followers: 9263
-    engagement: 2913
-    commentsToLikes: 0.065721
-    id: ck8qixdp4ax0i0j7892uisrk4
+    followers: 29600
+    engagement: 1180
+    commentsToLikes: 0.070198
+    id: ckb9m6iglf1910j23qcyh2sjy
     verified: false
-    hashtags: "#transdating, #pronouns, #amab, #theythem"
-  - username: "benitajadah"
+    hashtags: "#outdoors, #dance, #canadian, #tattoos"
+  - username: "shelbyymaynard"
     fullname: >-
-      Benitajadah
+      Shelby
+    bio: >-
+      canadian model 🇨🇦|🇧🇷 modelo canadense email: shelbyjean1919@yahoo.com
     location: "Canada"
-    followers: 168373
-    engagement: 2045
-    commentsToLikes: 0.028316
-    id: ck8otirgmle5z0j7814smarpw
+    followers: 94900
+    engagement: 2326
+    commentsToLikes: 0.012640
+    id: ckd6d2qem583i0j23fkgxguo0
     verified: false
-    hashtags: "#pickaside, #skitcomedy, #myturnnow, #sweatshirt"
+    hashtags: "#pravoc, #gringos, #brasil, #gringa"
+  - username: "_maya44"
+    fullname: >-
+      M&M🍝
+    bio: >-
+      Actress | Singer | Model 🇨🇦 21
+    location: "Canada"
+    followers: 29500
+    engagement: 1675
+    commentsToLikes: 0.030706
+    id: ckbqgd7011sfy0j239mg2hop4
+    verified: false
+    hashtags: "#pov, #problemsolved, #didyouknow, #rareaesthetic"
+  - username: "downthealiway"
+    fullname: >-
+      Allison (Ali)😽
+    bio: >-
+      18👏🏼 Model💋 Canadian🇨🇦 Check my Insta and YouTube!?🤯🔥
+    location: "Canada"
+    followers: 2971
+    engagement: 1204
+    commentsToLikes: 0.062134
+    id: ckceknhbtu4b60j233b5j1en2
+    verified: false
+    hashtags: "#fyp, #inthegarden, #shareyourplaylist, #bunny"
+  - username: "mikemains"
+    fullname: >-
+      Mike Mains
+    bio: >-
+      🇨🇦 Canadian Model in 🇨🇦 🔜...🇹🇭 🇺🇸✈️ More content 👇
+    location: "Canada"
+    followers: 89500
+    engagement: 630
+    commentsToLikes: 0.120246
+    id: ckahx79ccu1kz0i78wtwx13ul
+    verified: false
+    hashtags: "#missisauga, #lightsabers, #ineedagopro, #qewhighway"
   - username: "shaquoneblake"
     fullname: >-
       𝐒𝐡𝐚𝐪¹
+    bio: >-
+      FOLLOWING ON IG: @onceaking__ Published Model🦋 Downloading 200K 46%👋🏾♥️
     location: "Canada"
-    followers: 24711
-    engagement: 1742
-    commentsToLikes: 0.157716
+    followers: 150400
+    engagement: 1284
+    commentsToLikes: 0.057948
     id: cka6j90wtttl10i78f49cq7e3
     verified: false
-    hashtags: "#transitions, #catfish, #dance, #notfunny"
-  - username: "iforaah"
+    hashtags: "#lgbtq, #shaquoneblake, #trend, #fyp"
+  - username: "hunnyhigh"
     fullname: >-
-      iforaah
+      Hunny
+    bio: >-
+      Insta : @emxtive - if you know me irl no you don’t ❤️ Part time model/clown
     location: "Canada"
-    followers: 51640
-    engagement: 1073
-    commentsToLikes: 0.051128
-    id: ck9r3n9ryquld0j7899wo97oc
+    followers: 6326
+    engagement: 915
+    commentsToLikes: 0.053778
+    id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#victoriaday, #storyofmylife, #fypforyoupage, #canadatiktok"
-  - username: "matt_cantin"
+    hashtags: "#fyp, #putafingerdown, #duet, #artistsoftiktok"
+  - username: "mina.lateef"
     fullname: >-
-      Matt Cantin
+      MINA LATEEF
+    bio: >-
+      🇮🇶🇨🇦 professional model Snapchat:mina.lateef Instagram:mina_lateef_model
     location: "Canada"
-    followers: 13954
-    engagement: 603
-    commentsToLikes: 0.055933
-    id: cka69d0bys2e10i7803gkxyst
+    followers: 319800
+    engagement: 1058
+    commentsToLikes: 0.033941
+    id: ckdntmohilswk0j236ilelcte
     verified: false
-    hashtags: "#earnextraincome, #sidehustle, #redbubble, #digitalmarketer"
-  - username: "ladylunablu"
-    fullname: >-
-      Luna Blu
-    location: "Canada"
-    followers: 6676
-    engagement: 1369
-    commentsToLikes: 0.027209
-    id: ck8tpr7l7qjda0j78g1rmjsrx
-    verified: false
-    hashtags: "#isitfatenough, #emogirls, #sideprofile, #tiktokcats"
-  - username: "tamara.lee13"
-    fullname: >-
-      Tamara Carter
-    location: "Canada"
-    followers: 3958
-    engagement: 857
-    commentsToLikes: 0.055879
-    id: ck9si7ol1xb8t0j78q74df284
-    verified: false
-    hashtags: "#keepingbusy, #positivechallenge, #nevertoold, #boredathome"
-  - username: "averyrose_"
-    fullname: >-
-      Avery Rose
-    location: "Canada"
-    followers: 32446
-    engagement: 1122
-    commentsToLikes: 0.025493
-    id: ck9fi4a9b91bk0j78jq28bygj
-    verified: false
-    hashtags: "#newdance, #randomthings, #arianagrande, #anch"
-  - username: "smileyychris"
-    fullname: >-
-      Christopher Côté
-    location: "Canada"
-    followers: 439013
-    engagement: 1161
-    commentsToLikes: 0.053036
-    id: ck8knw0ylf0540j789gs3b086
-    verified: true
-    hashtags: "#pushups, #duet, #friends, #ifiwasyourex"
+    hashtags: "#foryoupage, #funny, #foryou, #explore"
 ---

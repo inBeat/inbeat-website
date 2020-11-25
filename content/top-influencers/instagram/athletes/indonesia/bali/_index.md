@@ -1,102 +1,41 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Bali In 2020
 description: >-
-  Find top athletes Instagram influencers in Bali in 2020. Most popular hashtags: #athlete #bali #family #dirumahaja.
+  Find top athletes Instagram influencers in Bali in 2020. Most popular hashtags: #bali #beach #athlete.
 platform: Instagram
+hits: 26
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 26 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "harikadiputra"
-    fullname: >-
-      Komang Harik Adi Putra S.Pd
-    location: "Indonesia"
-    followers: 45904
-    engagement: 677
-    commentsToLikes: 0.012116
-    id: ck6ud452zj1ci0j71984i98bs
-    verified: true
-    hashtags: "#bestnine2019, #localan, #pencaksilatindonesia, #baktinegarabali"
-  - username: "elaynnnie"
-    fullname: >-
-      Eaynnie GaGa
-    location: "Indonesia"
-    followers: 7376
-    engagement: 1111
-    commentsToLikes: 0.015958
-    id: ck1347qogv4ny0i19a6f453em
-    verified: false
-    hashtags: "#girlpower, #balilife, #newyork, #happyhalloween"
-  - username: "vickovicko"
-    fullname: >-
-      A. Vicko H
-    location: "Indonesia"
-    followers: 24309
-    engagement: 263
-    commentsToLikes: 0.036945
-    id: ck14h16yh812k0i194bacvr1l
-    verified: false
-    hashtags: "#guilderton, #imlek, #coconut, #joke"
-  - username: "sisiliaora"
-    fullname: >-
-      Sisilia Agustiani Ora
-    location: "Indonesia"
-    followers: 22168
-    engagement: 733
-    commentsToLikes: 0.008723
-    id: ck13a44wcojfz0i19c1twjd06
-    verified: false
-    hashtags: "#denpasarfestival2019, #throwback, #fitnessgirl, #ciputra"
-  - username: "devibration"
-    fullname: >-
-      DEVI
-    location: "Indonesia"
-    followers: 44220
-    engagement: 1399
-    commentsToLikes: 0.009857
-    id: ck6tyhgov3r3h0j71z63kzoei
-    verified: false
-    hashtags: "#cultivtoimeme, #customaf1"
   - username: "yotiefish"
     fullname: >-
       
+    bio: >-
+      🐠Freediving + Yoga Instructor 🐠Oceaner + DiveR Sponsored Athlete 📍Currently: Bali, Indonesia
     location: "Indonesia"
-    followers: 12923
-    engagement: 996
-    commentsToLikes: 0.018266
+    followers: 12287
+    engagement: 1056
+    commentsToLikes: 0.017887
     id: ck6tmfu5t7rs60j717dihzwmu
     verified: false
-    hashtags: "#freediver, #oceaner, #onebreath, #freediving"
-  - username: "bobbyida"
-    fullname: >-
-      ⏩2Ninefit Indonesia⏪
-    location: "Indonesia"
-    followers: 245110
-    engagement: 215
-    commentsToLikes: 0.015575
-    id: ck5zkkpwyjno50i14s7rwxzhi
-    verified: true
-    hashtags: "#happybirthday, #blasteran, #lemon, #rolemodel"
-  - username: "charlietaylor"
-    fullname: >-
-      Charlie Taylor
-    location: "Indonesia"
-    followers: 393296
-    engagement: 343
-    commentsToLikes: 0.035308
-    id: ck5pzmkxc1pvb0i1148ww6s74
-    verified: true
-    hashtags: "#prankindonesia, #savageprank, #couplewar, #love"
+    hashtags: "#deepblue, #onebreath, #freediving, #oceaner"
   - username: "lerby12"
     fullname: >-
       lerby elyandri pong babu
+    bio: >-
+      Athlete Football player (striker) Bali united 🔴⚪⚫ I belong to jesus🙏😇 👰 risma, @30r12 📩 DM for business
     location: "Indonesia"
     followers: 118304
     engagement: 367
     commentsToLikes: 0.009844
     id: ck5cedoi9ktto0i11nn2pyg97
     verified: false
-    hashtags: "#loveyouboth, #unity, #selalubersyukur, #ibelongtojesus"
+    hashtags: "#pengharapan, #baliunitedjaya, #kasih, #nothingisimpossible"
   - username: "fitnessbymarko"
     fullname: >-
       Circus Performer 🎭🇬🇧🇷🇸
+    bio: >-
+      🔲Calisthenics athlete 🔳PT 🔲Seminyak bali📍 🔳Ketones 📥 🔲PR & collaborations 🔳Calisthenics ebooks 🌐 🔲Freelance model @mmodelsmanagement
     location: "Indonesia"
     followers: 34833
     engagement: 280
@@ -104,4 +43,88 @@ profiles:
     id: ckap0xcans8600i780ddtnlfz
     verified: false
     hashtags: ""
+  - username: "_lisetkoenjer"
+    fullname: >-
+      𝐋𝐈𝐒𝐄𝐓 𝐊𝐎𝐄𝐍𝐉𝐄𝐑
+    bio: >-
+      Owner of @bylisetkoenjer Fotograaf & conten creator, social media beheer Documenting memories through pictures📷
+    location: "Indonesia"
+    followers: 6453
+    engagement: 975
+    commentsToLikes: 0.074754
+    id: ck600rw7ie5ih0i14cbyxzrwt
+    verified: false
+    hashtags: "#bhfyp, #motivation, #food, #workout"
+  - username: "siobh.ohagan"
+    fullname: >-
+      Siobhan O'Hagan - OHFitness.ie
+    bio: >-
+      Living Differently 😎 @ohfitnessfurnace Online Coach 💪🏼🔥 PT CFL1 PN1 🤓 📍🇮🇪 in Bali 📩 @thecollaborationsagency 🔵 @myproteinuk Athlete (discount 👇🏼)
+    location: "Indonesia"
+    followers: 142369
+    engagement: 212
+    commentsToLikes: 0.018652
+    id: ck15sply4e6r40i19i7lro3dl
+    verified: true
+    hashtags: "#ba, #justgo, #ohfitnesstravels, #worldmentalhealthday"
+  - username: "marcklok"
+    fullname: >-
+      Marc Klok
+    bio: >-
+      Jakarta | Bali | Amsterdam 🇮🇩🇳🇱 “More than an athlete” MK™️ : @mk____thelabel #JaKlok .
+    location: "Indonesia"
+    followers: 464444
+    engagement: 493
+    commentsToLikes: 0.004992
+    id: ck6txlmd0yi9k0j71x3olxzbc
+    verified: true
+    hashtags: "#jaklok, #idulfitri, #humanity, #coronaout"
+  - username: "anthonyengelen"
+    fullname: >-
+      Anthony The Archangel Engelen
+    bio: >-
+      • ONE Championship Fighter • Team Bali MMA • Alliance BJJ Purple Belt • Personal trainer • Pawrent of @rolo.thedoggo • Owner of @balibeardcompany
+    location: "Indonesia"
+    followers: 19286
+    engagement: 287
+    commentsToLikes: 0.035298
+    id: ck0w3lunzu2d60i19u7udvoog
+    verified: true
+    hashtags: "#indonesia, #archangel, #beard, #bali"
+  - username: "danielhasulyo"
+    fullname: >-
+      Daniel Hasulyo - SUPBROz
+    bio: >-
+      🏆SUP World Champion 🇭🇺 Professional Athlete @starboardsup https://sup.star-board.com/ @compressport @timotrunks
+    location: "Indonesia"
+    followers: 10921
+    engagement: 379
+    commentsToLikes: 0.025971
+    id: ck0u8luc37p6a0i19jiynfink
+    verified: false
+    hashtags: "#surfphotography, #baby, #love, #surf"
+  - username: "vickovicko"
+    fullname: >-
+      A. Vicko H
+    bio: >-
+      📷 iPhone 11ProMax| Host Selebrita Trans 7 | MC | NGONDEK *NgeGOwesjarakpeNDEK 📍Bali X Jakarta
+    location: "Indonesia"
+    followers: 24293
+    engagement: 233
+    commentsToLikes: 0.027872
+    id: ck14h16yh812k0i194bacvr1l
+    verified: false
+    hashtags: "#australia, #balenciaga, #perth, #beach"
+  - username: "valerijaslapnik"
+    fullname: >-
+      VALERIJA SLAPNIK
+    bio: >-
+      🏋️‍♀️AFP CERTIFIED PERSONAL TRAINER 🔴 NPC bikini fitness athlete 🔵 NUTREND athlete 🔵 NEBBIA athlete ✉️valerijaslapnik@gmail.com
+    location: "Indonesia"
+    followers: 476349
+    engagement: 171
+    commentsToLikes: 0.010504
+    id: ck55o5fc47nr70i11bx0av85m
+    verified: false
+    hashtags: "#nebbiafamily, #yesyoucan, #nutrend, #nutrendteam"
 ---

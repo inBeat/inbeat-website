@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Bali In 2020
 description: >-
-  Find top christian Instagram influencers in Bali in 2020. Most popular hashtags: #bali #explorebali #wonderful #baliindonesia.
+  Find top christian Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #indonesia.
 platform: Instagram
+hits: 8
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 8 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "alongpao"
+  - username: "gracewohangara"
     fullname: >-
-      ALONG  d'touch of brides
+      Grace Wohangara
+    bio: >-
+      •NOTHING WITHOUT GOD• 👑 7ICONS 👑 Personal Manager : defholixmusic@gmail.com (@defholix ) Business inquiry : gce.icons@yahoo.com /DM
     location: "Indonesia"
-    followers: 44783
-    engagement: 454
-    commentsToLikes: 0.001694
-    id: ck0vz1t906v530i19aa55epwz
+    followers: 40064
+    engagement: 182
+    commentsToLikes: 0.087161
+    id: ck9wd3k33dww60j78cnsgmkft
     verified: false
-    hashtags: "#cny2020, #imlekmakeup2019"
+    hashtags: "#gracewohangara, #gce, #7icons1dekade, #bali"
+  - username: "chris.nugroho"
+    fullname: >-
+      Christian Nugroho
+    bio: >-
+      +62 🇮🇩 Collecting my travel memories here 🇮🇩🇸🇬🇲🇾🇹🇭🇻🇳🇲🇲🇮🇳🇳🇵🇧🇹🇨🇳🇯🇵🇹🇼🇨🇿🇦🇹🇸🇮🇩🇪🇹🇷🇨🇭🇮🇹🇬🇷🇭🇰🇵🇭🇭🇺🇦🇺
+    location: "Indonesia"
+    followers: 9934
+    engagement: 1833
+    commentsToLikes: 0.008261
+    id: ck137stehd72u0i19mwz6yv7j
+    verified: false
+    hashtags: "#bali, #philippines, #australia, #palawan"
   - username: "chrisloho"
     fullname: >-
       Christian Loho
+    bio: >-
+      CP: FM Mgt +6281288673363 (Job)
     location: "Indonesia"
-    followers: 30096
-    engagement: 544
-    commentsToLikes: 0.041787
+    followers: 33868
+    engagement: 408
+    commentsToLikes: 0.063107
     id: ck5zystsqagu20i14dwzkh8sm
     verified: false
-    hashtags: "#brodo, #brodofootwear, #tuxedo, #parangseries"
-  - username: "jakpostimages"
+    hashtags: "#brodofootwear, #wonderful, #calisthenics, #workout"
+  - username: "gandimoenthe"
     fullname: >-
-      The Jakarta Post
+      Gandi Moenthe
+    bio: >-
+      📍 Finland 🇫🇮 // Indonesian 🇮🇩 📖 Ephesians 3:20-21. 🎤 New Single: Terpusuh (Lagu Karo) NEW YOUTUBE VIDEO ↙️↙️
     location: "Indonesia"
-    followers: 54181
-    engagement: 60
-    commentsToLikes: 0.011489
-    id: ck15pskcnzfsw0i190mvilf2b
-    verified: true
-    hashtags: "#wearfacemask, #yogyakarta, #foodpackage, #eartoasia"
+    followers: 7113
+    engagement: 524
+    commentsToLikes: 0.029779
+    id: ck5hqbzv7sut00i110sfgmigo
+    verified: false
+    hashtags: "#cover, #helsinki, #indonesia, #song"
   - username: "christianals"
     fullname: >-
       Christian Als🇩🇰
+    bio: >-
+      Travel | Adventure | Landscape Photographer, filmmaker and YouTube ⬇️ Lightroom Presets & Prints ⬇️ Adventure Photography Workshops ⬇️ My channel!
     location: "Indonesia"
-    followers: 26653
-    engagement: 577
-    commentsToLikes: 0.043653
+    followers: 32569
+    engagement: 497
+    commentsToLikes: 0.029801
     id: ck0u0dh95tfzl0i19a4m4s8n7
     verified: false
-    hashtags: "#nature, #exploreeastjava, #primelenses, #longexposure"
+    hashtags: "#mynorthadventure, #natgeotravelpic, #takemoreadventures, #voyaged"
+  - username: "florachristin"
+    fullname: >-
+      Flora Christin Butarbutar
+    bio: >-
+      1st Indo female competitive longboard surfer 📍Bali
+    location: "Indonesia"
+    followers: 37130
+    engagement: 493
+    commentsToLikes: 0.019103
+    id: ck0uacy5ybycu0i19boqmv7jv
+    verified: false
+    hashtags: "#coronavirus, #prayforchina, #odyseaplank"
   - username: "christinadj_"
     fullname: >-
       Christina
+    bio: >-
+      📍Dps,Bali 💌Business: ydstmanagement@gmail.com
     location: "Indonesia"
-    followers: 123082
-    engagement: 642
-    commentsToLikes: 0.007474
+    followers: 168440
+    engagement: 530
+    commentsToLikes: 0.007219
     id: ck0vwlzz6ugk30i19fj5uwt1s
     verified: false
-    hashtags: "#baliunited2019, #liga1, #champions, #dirumahaja"
-  - username: "davechrs"
+    hashtags: "#dirumahaja, #bingungngapainenaknya, #stayhome, #beforecorona"
+  - username: "chriistiinagariyasa"
     fullname: >-
-      Dave Christiano
+      Titin🦋
+    bio: >-
+      Christina Gariyasa,S.M @jsca.shop Aquarian♒️
     location: "Indonesia"
-    followers: 11482
-    engagement: 922
-    commentsToLikes: 0.034946
-    id: ck0u0k2pbu1w20i19b16dibts
+    followers: 5081
+    engagement: 768
+    commentsToLikes: 0.040416
+    id: ck5pya25ev0ke0i11rbglp7u5
     verified: false
-    hashtags: "#pantiasuhansamaria, #teamnicholas, #gepeng, #mformieayam"
-  - username: "model_gadies"
+    hashtags: "#sunset, #tiedye, #graduation, #teamtotebag"
+  - username: "eatwithkoko"
     fullname: >-
-      Christina ❤
+      Christian
+    bio: >-
+      🍵@djamoe.co 🍜@nyswanlaksa.co 📸@christianian . 🎶TikTok : eatwithkoko . Whatsapp👇🏻
     location: "Indonesia"
-    followers: 36380
-    engagement: 1023
-    commentsToLikes: 0.028345
-    id: ckaotu3ubxj0m0i783wqmd88z
+    followers: 41243
+    engagement: 41
+    commentsToLikes: 0.147245
+    id: ck14iiu0jfmel0i197cu9vlzk
     verified: false
-    hashtags: "#cantikalami, #bandunghits, #senyum, #transisi"
-  - username: "x.t.i.n_m.i.l.a.n"
+    hashtags: "#mbventura, #kulogroup, #eatwithkoko, #grabfood"
+  - username: "hi.selinahalim"
     fullname: >-
-      Christin Wijaya
+      Baby Selina Halim 💖
+    bio: >-
+      First Daughter of Christian Halim & @Stella_Virgo 🌟 #SelinaHalim 🏡 JKT 👯 Lets be friends @ohanamanagement
     location: "Indonesia"
-    followers: 6865
-    engagement: 445
-    commentsToLikes: 0.058806
-    id: ck5q87wwv4v2i0i11xfedvjy3
+    followers: 64359
+    engagement: 364
+    commentsToLikes: 0.037029
+    id: ck9we48hoiih50j78moqixxft
     verified: false
-    hashtags: "#happyeaster, #nomake, #happysaturday, #sportenthusiast"
-  - username: "chefcristianmarino"
-    fullname: >-
-      Cristian Marino
-    location: "Indonesia"
-    followers: 19339
-    engagement: 383
-    commentsToLikes: 0.067868
-    id: ck14jgih2k84j0i19l3efh3zy
-    verified: false
-    hashtags: "#carciofi, #1maggio, #park, #cappuccino"
-  - username: "ameliamci6"
-    fullname: >-
-      Christina Amelia Chuatan 🐢
-    location: "Indonesia"
-    followers: 25258
-    engagement: 795
-    commentsToLikes: 0.011646
-    id: ck8swibg8e6oo0j78ghuoa9bo
-    verified: false
-    hashtags: "#flattenthecurve, #throwback, #nastarpremium, #kreasiichitan"
+    hashtags: "#selinahalim, #dirumahaja, #trackeasy, #psbb"
 ---

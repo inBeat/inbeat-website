@@ -1,107 +1,130 @@
 ---
 title: Top 10 Zumba Instagram Influencers In 2020
 description: >-
-  Find top zumba Instagram influencers in 2020. Most popular hashtags: #zumbaonline #zumbacommunity #dance #zumbawear.
+  Find top zumba Instagram influencers in 2020. Most popular hashtags: #zumba #zumbafitness #woman #fitness.
 platform: Instagram
+hits: 555
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 555 Instagram influencers like this for you to work with.
 profiles:
-  - username: "serbanlorena"
+  - username: "mammy.mon"
     fullname: >-
-      Serban Lorena
-    location: ""
-    followers: 92872
-    engagement: 583
-    commentsToLikes: 0.198276
-    id: ck5cfpcx7neau0i117i1m0e07
+      Monika
+    bio: >-
+      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland
+    location: "United Kingdom"
+    followers: 5447
+    engagement: 1166
+    commentsToLikes: 0.149544
+    id: ck8t3qc1z43820j78ino2x3z1
     verified: false
-    hashtags: "#stylevideo, #outfitvideo, #bloomhair, #bloomhairro"
-  - username: "alina.koeh"
+    hashtags: "#coreczkamamusi, #fitgirl, #babyboy, #coreczka"
+  - username: "monetasss"
     fullname: >-
-      fashion | fitness | lifestyle
-    location: "Germany"
-    followers: 2396
-    engagement: 2453
-    commentsToLikes: 0.144213
-    id: ckaos8gzuqkva0i785r8c9fla
+      moneta zumba
+    bio: >-
+      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
+    location: "Greece"
+    followers: 4414
+    engagement: 2231
+    commentsToLikes: 0.157875
+    id: ckap25faqxg9t0i78vz6cndj5
     verified: false
-    hashtags: "#savef"
-  - username: "christinasiulan"
-    fullname: >-
-      Christina (크리스티나)
-    location: ""
-    followers: 13413
-    engagement: 1266
-    commentsToLikes: 0.165211
-    id: ckap6fs9ufpuh0i78qpj16l59
-    verified: false
-    hashtags: "#happymothersday, #alor, #stayathome, #beauty"
+    hashtags: "#igers, #fashion, #fun, #photooftheday"
   - username: "saraloupee"
     fullname: >-
       Zumba with Sara-Loupée
+    bio: >-
+      My parents gave me a unique name📝➖creating a unique lifestyle ✨ Passionate&Self-Motivated 👯 Zumba® fitness instructor 🎬 RadioTV&Film 🛍 @chiccliquelb
     location: ""
-    followers: 8192
-    engagement: 1186
-    commentsToLikes: 0.074676
+    followers: 9062
+    engagement: 1273
+    commentsToLikes: 0.058602
     id: ck5zjd9r7hdmr0i14dzztisi7
     verified: false
-    hashtags: "#lebanon, #reggaeton, #blueyeliner, #glitterlips"
-  - username: "xoxoego"
+    hashtags: "#sistersquad, #zumbabeto, #letitmoveyou, #zumbafitness"
+  - username: "paz24sm"
     fullname: >-
-      PAPI🇽 🇴 🇽 🇴👽🇨🇴 El Anormal
-    location: "Colombia"
-    followers: 4610
-    engagement: 1793
-    commentsToLikes: 0.148772
-    id: ck6tl19zm5sf00j71ghsjxgi8
+      Marcela Paz 🇨🇱
+    bio: >-
+      📎Bailarina 💃 📌Instructor @zumba ZIN 🇨🇱 Pro skills 📎Instructor Strong Nation 📌Instructor zumba Kids+Kids jr/ Step 📎#juntassomosmas 📌 @mastyle.zw
+    location: "Chile"
+    followers: 9499
+    engagement: 744
+    commentsToLikes: 0.078633
+    id: ckf5riuuyctmi0j23vmh3k677
     verified: false
-    hashtags: "#nomasmujeresabusadas, #rapconciente, #niunamas, #fuckcancer"
-  - username: "iskenderyuksell"
+    hashtags: "#zumbalovers, #zumbachoreo, #zumbaindonesia, #zumbaclass"
+  - username: "henrycedeno"
     fullname: >-
-      iskender yüksel
-    location: "Turkey"
-    followers: 26833
-    engagement: 413
-    commentsToLikes: 0.281586
-    id: ckap1frpquesz0i7871u8eo8u
+      Henry Cedeño✨
+    bio: >-
+      🙋🏻‍♂️International Zumba® Instructor 🕺🏻Choreographer + Presenter 📩 HOST: HenryZEvents@gmail.com 🟢💻Virtual Zumba® Classes:
+    location: "United States"
+    followers: 39805
+    engagement: 316
+    commentsToLikes: 0.061330
+    id: ck5zmp7hemyw00i14t5x8acby
     verified: false
-    hashtags: "#ulricdevarens, #jacquessaintpres, #jsp, #parfum"
-  - username: "clari.dance"
-    fullname: >-
-      Clari Lehmkuhl
-    location: "South Africa"
-    followers: 6731
-    engagement: 847
-    commentsToLikes: 0.091501
-    id: ck8t5w5afbfvu0j7802j7ikiz
-    verified: false
-    hashtags: "#keeponmoving, #stayactive, #fitathome, #upsyndrome"
-  - username: "beata_b73"
+    hashtags: "#venezuelan, #guyswithtattoos, #zumbalovers, #venezuelaninmiami"
+  - username: "bbeata_3007"
     fullname: >-
       Beata
+    bio: >-
+      🎂 30.07.1973 🏠 Cracow/Poland ✨❤️I love my life❤️✨ #zumba #run COLLAB/DM 📥 #rekuperacja 📩biuro@klimap.com
     location: "Poland"
-    followers: 43323
-    engagement: 340
-    commentsToLikes: 0.080087
+    followers: 52633
+    engagement: 542
+    commentsToLikes: 0.045076
     id: ck8t5w4tpbfsu0j78emux1c9l
     verified: false
-    hashtags: "#chill, #music, #fitnessmodel, #mypic"
+    hashtags: "#blueeyes, #goodvibes, #naturalmakeup, #mytime"
   - username: "dianaserena_"
     fullname: >-
       Diana Serena
+    bio: >-
+      🏃‍♀️Lic. en Educación Física 💃ZES™ Zumba® Fitness 💪🏻Master Trainer STRONG NATION™ 📬diana.serena@zumbamail.com 🗣🇮🇹🇪🇸🇬🇧🇵🇹 🌟#dianaserena
     location: "Spain"
-    followers: 112501
-    engagement: 248
-    commentsToLikes: 0.112635
+    followers: 127890
+    engagement: 256
+    commentsToLikes: 0.135393
     id: ck15s66qxbf8k0i19ijdr4c6d
     verified: true
-    hashtags: "#potencial, #live, #cumplea, #felizcumplea"
-  - username: "eto.irinkabalerinka"
+    hashtags: "#sync, #strongnation, #pregnant, #quoteoftheday"
+  - username: "iskenderyuksell"
     fullname: >-
-      Irina Vologdina
-    location: "Russia"
-    followers: 19397
-    engagement: 346
-    commentsToLikes: 0.137327
-    id: ck5zvg3go462s0i14kc4rb05p
+      iskender yüksel
+    bio: >-
+      🐣 content creator for @trendyolcom 💥Zumba Instructor @zumbaisko 📍 Izmir 📷 Freelance photographer @iskoiskoisko #mensfashion #blogger
+    location: "Turkey"
+    followers: 26718
+    engagement: 301
+    commentsToLikes: 0.216198
+    id: ckap1frpquesz0i7871u8eo8u
     verified: false
-    hashtags: "#zin, #stayhome, #strongbyzumba, #zumbarussia"
+    hashtags: "#menstyle, #hoscos, #mensfashion, #bestcasualoutfit"
+  - username: "pinkfernandaa"
+    fullname: >-
+      Fernanda Pink
+    bio: >-
+      Fisioterapeuta, Pilates, Instrutora de Zumba, Fitdance e Ritmos,Modelo, Tatuadora e Piercer Parcerias via direct
+    location: "Brazil"
+    followers: 8891
+    engagement: 660
+    commentsToLikes: 0.749160
+    id: ckap43smo5puu0i78pfpb8dez
+    verified: false
+    hashtags: "#treinoedieta, #mulhermusculosas, #mulherquetreina, #serfeliz"
+  - username: "anapedrazaok"
+    fullname: >-
+      Ana Pedraza
+    bio: >-
+      👦🏻👦🏼 Mamá del Chino y el Colo 📺 Conductora 👩‍💼 @tvprensa10 📡 @canal10tucuman 💃🏻 Instructora @zumba
+    location: "Argentina"
+    followers: 52657
+    engagement: 563
+    commentsToLikes: 0.034614
+    id: ck5cf05n5m29t0i11l4hrwd2a
+    verified: false
+    hashtags: "#sermam, #sorteo, #diadelamadre, #gracias"
 ---

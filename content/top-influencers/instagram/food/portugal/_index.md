@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Portugal In 2020
 description: >-
-  Find top food Instagram influencers in Portugal in 2020. Most popular hashtags: #giveaway #quarantine #chocolate #homedecor.
+  Find top food Instagram influencers in Portugal in 2020. Most popular hashtags: #summer #ad #autumn #love.
 platform: Instagram
+hits: 112
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 112 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "lorys.story"
-    fullname: >-
-      Loredana Gavrila🇹🇩
-    location: "Portugal"
-    followers: 23074
-    engagement: 844
-    commentsToLikes: 0.410605
-    id: ck6tymwtr4ohc0j715m2bykgj
-    verified: false
-    hashtags: "#travelasia, #beachvibes, #nomadgirls, #giurgiu"
-  - username: "thetolerantcook"
-    fullname: >-
-      Kristína Suchánková
-    location: "Portugal"
-    followers: 12265
-    engagement: 944
-    commentsToLikes: 0.111573
-    id: ck15texg7hqu50i19oxcr63nh
-    verified: false
-    hashtags: "#family, #dnesjem, #spolupraca, #toothless"
-  - username: "golden.nico"
-    fullname: >-
-      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
-    location: "Portugal"
-    followers: 12783
-    engagement: 854
-    commentsToLikes: 0.137646
-    id: ck6ucvcowhold0j71e8oo86f3
-    verified: false
-    hashtags: "#24aartistpasspalette, #giveaway, #throwback, #p30pro"
   - username: "miss_tet"
     fullname: >-
       Teresa Lemos
+    bio: >-
+      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
     location: "Portugal"
-    followers: 16974
-    engagement: 1266
-    commentsToLikes: 0.031082
+    followers: 27624
+    engagement: 2192
+    commentsToLikes: 0.114470
     id: ck55oexap88090i11kxq4k55q
     verified: false
-    hashtags: "#doglover, #diasdechuva, #norteshopping, #dailycristina"
-  - username: "hungrymoey"
+    hashtags: "#sunnyday, #summer, #smile, #alegria"
+  - username: "inesdsimao"
     fullname: >-
-      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
+      Hey, it’s Inês
+    bio: >-
+      Travel & Food Enthusiast 🗺 (off to see the world) All Disney parks in the 🌏: check!! 📍Lisbon (home)
     location: "Portugal"
-    followers: 19354
-    engagement: 418
-    commentsToLikes: 0.079897
-    id: ck5cammu1dp6j0i11miv13rw6
+    followers: 12135
+    engagement: 859
+    commentsToLikes: 0.309347
+    id: ck14iqxnmgs420i19np23l7do
     verified: false
-    hashtags: "#marseille, #zomatolb, #dessert, #rome"
-  - username: "catarinaadeoliveira"
+    hashtags: "#pub, #bekind, #soubekind, #21dayskind"
+  - username: "thetolerantcook"
     fullname: >-
-      Catarina Oliveira
+      Kristína Suchánková
+    bio: >-
+      mom of a boy and one little babygirl | foodblogger | content creator | foodphoto | recipes for food intolerances | kristina.tomekova@gmail.com
     location: "Portugal"
-    followers: 3264
-    engagement: 1329
-    commentsToLikes: 0.251350
-    id: ck8ta8l7oqufk0j786xnzevvc
+    followers: 16058
+    engagement: 707
+    commentsToLikes: 0.060812
+    id: ck15texg7hqu50i19oxcr63nh
     verified: false
-    hashtags: "#topinfluencer, #sobachapt, #rouen, #influencerpt"
+    hashtags: "#slovakia, #mojezahrada, #bezlepku, #zastolom"
   - username: "jmigsimoes"
     fullname: >-
-      João Miguel Simões
+      João Miguel Simões
+    bio: >-
+      Creative Consultant & Content Creator (social media) | Based in Lisbon | Founder #addressbookbyjms | travel • food • design • menswear • arch
     location: "Portugal"
-    followers: 90433
-    engagement: 202
-    commentsToLikes: 0.102114
+    followers: 93217
+    engagement: 243
+    commentsToLikes: 0.086316
     id: ck5zzn4bvc1rj0i1453awqb62
     verified: false
-    hashtags: "#addressbookbyjms, #badhairday, #quarantine, #earthdayeveryday"
-  - username: "jessiekass"
+    hashtags: "#ad, #huawei, #appgallery, #huaweixtomtom"
+  - username: "diannamoraru"
     fullname: >-
-      Jessie Chanes |Seamsforadesire
+      Diana Moraru
+    bio: >-
+      🩺5/6 Medical student UMFCD 💪🏻42% Reducere Myprotein: DIANAMYP 🥞 Reducere Foodkit: DIANA5 ⬇️ LINK REDUCERE ⬇️ 🏋🏻‍♀️Certified PT & Nutritionist👩🏻‍⚕️
     location: "Portugal"
-    followers: 312810
-    engagement: 150
-    commentsToLikes: 0.033716
-    id: ck0w3pzk6uoe50i19q2ga0st1
-    verified: true
-    hashtags: "#pinkmood, #denim, #tavira, #vichyprint"
-  - username: "claudiadias.oficial"
-    fullname: >-
-      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
-    location: "Portugal"
-    followers: 34298
-    engagement: 1428
-    commentsToLikes: 0.002823
-    id: ck13bn882w8ri0i19lsl0rjse
+    followers: 23206
+    engagement: 1319
+    commentsToLikes: 0.019390
+    id: ck138jpkogk4u0i198acu6c8s
     verified: false
-    hashtags: ""
+    hashtags: "#succes, #igmoldova, #ig, #retete"
+  - username: "rafinhaaaaa"
+    fullname: >-
+      Rafinhaaaaa ✌🏽
+    bio: >-
+      Hey You! In love w/ my Frenchies🤍 Storyteller | Lifestyle | Business & Brands Travel | Culture | Tv | Food
+    location: "Portugal"
+    followers: 6489
+    engagement: 1090
+    commentsToLikes: 0.082579
+    id: ckaotdwnzvi7z0i78eazacr6i
+    verified: false
+    hashtags: "#nice, #photographer, #blogger, #happy"
   - username: "guga_blog"
     fullname: >-
       Guga || Lifestyle
+    bio: >-
+      Rui Almeida 📍Based in Portugal 🇵🇹 Content creator/Lifestyle/Fashion /Travel & Food
     location: "Portugal"
-    followers: 13935
-    engagement: 420
-    commentsToLikes: 0.060462
+    followers: 16725
+    engagement: 309
+    commentsToLikes: 0.064420
     id: ck55k2pjsybg90i11yg0tqwzh
     verified: false
-    hashtags: "#comamor, #artefloral, #bomdia, #chiuaualovers"
+    hashtags: "#men, #fashionistas, #fashionblogger, #menstreetstyle"
+  - username: "golden.nico"
+    fullname: >-
+      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
+    bio: >-
+      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Wanna Collab? Dm me! 🇧🇴 🇺🇸 🌎 Spanish • English • Portuguese.
+    location: "Portugal"
+    followers: 13967
+    engagement: 540
+    commentsToLikes: 0.053796
+    id: ck6ucvcowhold0j71e8oo86f3
+    verified: false
+    hashtags: "#makeup, #bolivia, #halloween, #yanbalbo"
+  - username: "horis_surya_golden"
+    fullname: >-
+      🐾 Horis & Surya 🐾💕
+    bio: >-
+      Twins. Golden Retriever 📍Portugal 🇵🇹 🐣|09.03.17 🏷 @delnatural.pt 5% DELHOR&SUR5 🏷 @natural.meow 10% HORIS10 🌱Foodlovers and Beachaholics 🌱#sury_horis
+    location: "Portugal"
+    followers: 6766
+    engagement: 1396
+    commentsToLikes: 0.160460
+    id: ckaox121ebapo0i78pgnh0sr9
+    verified: false
+    hashtags: "#pups, #goldenretrievers, #dogoftheday, #mydogiscutest"
+  - username: "belle_azzure"
+    fullname: >-
+      B E L L E    A Z Z U R E
+    bio: >-
+      Speaker & Digital Marketer @Google Positivity🧡 Wellness💙 Fitness, Food & Travel 🌎 2021 Bride🤞🏽💍 @thecollaborationsagency 💌belleazzureblog@gmail.com
+    location: "Portugal"
+    followers: 43966
+    engagement: 421
+    commentsToLikes: 0.059133
+    id: ckap5mij9cbxe0i78crp87bo9
+    verified: false
+    hashtags: "#staycation, #irish, #summer, #travel"
 ---

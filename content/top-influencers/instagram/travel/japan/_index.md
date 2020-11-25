@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Japan In 2020
 description: >-
-  Find top travel Instagram influencers in Japan in 2020. Most popular hashtags: #birthday #streetstyle #visitjapan #asiangirl.
+  Find top travel Instagram influencers in Japan in 2020. Most popular hashtags: #japan #travel #trip.
 platform: Instagram
+hits: 656
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 656 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "travelwithkwen"
-    fullname: >-
-      Kwen - Travel & Lifestyle
-    location: "Japan"
-    followers: 11524
-    engagement: 1440
-    commentsToLikes: 0.271691
-    id: ck14jebadjwb70i19j0zmu54p
-    verified: false
-    hashtags: "#travelpicture, #womensday, #travelstribe, #winmymicrogap"
-  - username: "yuki.linuma"
-    fullname: >-
-      Yuki ❄️ Finnair Cabin Crew
-    location: "Japan"
-    followers: 11285
-    engagement: 1420
-    commentsToLikes: 0.090888
-    id: ck0w1byh4ikxz0i1989vkx98w
-    verified: false
-    hashtags: "#lisbon, #nagoyatrip, #japanesedessert, #singaporeworld"
   - username: "katewigkeit"
     fullname: >-
       Katie in Tokyo💫Japan💫Travel
+    bio: >-
+      11+ years in Tokyo 👘🗼🌸 Travel | Lifestyle | Photography Japanologist🤓 Vladivostok, RU 🇷🇺 London, EN 🇬🇧 📍Tokyo, JP 🇯🇵日本語もok! Hawaii, US🌺🇺🇸
     location: "Japan"
-    followers: 19321
-    engagement: 960
-    commentsToLikes: 0.102414
+    followers: 19878
+    engagement: 892
+    commentsToLikes: 0.100939
     id: ck15rq1ij94d40i191zjn0a17
     verified: false
-    hashtags: "#sumo, #cherryblossoms, #goldenweek, #pandemicdreams"
-  - username: "life_in_tokyo"
+    hashtags: "#sunflowerfield, #shibuyasky, #sunflowers, #celosia"
+  - username: "yuki.linuma"
     fullname: >-
-      Japan & SG ✨ Япония и Сингапур
+      Yuki Finnair Flight Attendant
+    bio: >-
+      Japanese 🇯🇵 Cabin crew at Finnair 🇫🇮 ✈︎ #crewlife | #travel | #finland | @feelfinnair
     location: "Japan"
-    followers: 360839
-    engagement: 352
-    commentsToLikes: 0.056278
-    id: ck0ty0zg2l5du0i19lkxdkhgs
+    followers: 11347
+    engagement: 1430
+    commentsToLikes: 0.088163
+    id: ck0w1byh4ikxz0i1989vkx98w
+    verified: false
+    hashtags: "#visitsingapore, #cabincrew, #japanesegirl, #aviation"
+  - username: "hirokagei"
+    fullname: >-
+      Hiro Kagei
+    bio: >-
+      Japanese fella in Utah USU Alum | University of Utah Medical Coding 🏥 • Travel | Adventure “Full send or nothing” • 📍Currently: SLC Next: TBD
+    location: "Japan"
+    followers: 6664
+    engagement: 1763
+    commentsToLikes: 0.083258
+    id: ckf5ohh3q29x90j23o59rznzu
     verified: false
     hashtags: ""
-  - username: "ayagram_8924"
-    fullname: >-
-      𝐀𝐲𝐚𝐤𝐚
-    location: "Japan"
-    followers: 4191
-    engagement: 4269
-    commentsToLikes: 0.073256
-    id: ckaoyv2zvj7ty0i78rf2m2x5h
-    verified: false
-    hashtags: "#porschelife, #london, #germancar, #traveller"
   - username: "professioneviaggiatore"
     fullname: >-
       🌎 LORENZO | WORLD TRAVELER ✈︎
+    bio: >-
+      🇮🇹30yo, Travel Lover✈️🌎 🌎 45 Countries and Counting // 5 Continents 🗺 🔚 Argentina 🇦🇷, Japan 🇯🇵, Peru🇵🇪, 🔜 ??????
     location: "Japan"
-    followers: 8206
-    engagement: 832
-    commentsToLikes: 0.142735
+    followers: 7819
+    engagement: 1059
+    commentsToLikes: 0.161220
     id: ck5zry0atxgod0i147lgkqmbg
     verified: false
-    hashtags: "#italianfood, #copenaghen, #italyfood, #tourist"
+    hashtags: "#traveling, #italiainunoscatto, #neverstopexploring, #placetovisit"
+  - username: "shamovdmitry"
+    fullname: >-
+      Шамов Дмитрий | Япония, Токио
+    bio: >-
+      ロシア人です。今は日本で活動してます。Hello, I'm Shamov Dmitry. Traveler, blogger, journalist and writer. I live in Tokyo. For work: anchous.jp@gmail.com
+    location: "Japan"
+    followers: 97581
+    engagement: 679
+    commentsToLikes: 0.023758
+    id: ckap2qc3kzuzx0i78hhljiwbm
+    verified: false
+    hashtags: "#japan, #anime, #japanese, #tokyo"
+  - username: "life_in_tokyo"
+    fullname: >-
+      Japan & SG ✨ Япония и Сингапур
+    bio: >-
+      🌈 Creating travel & Lifestyle magic 📍 Застряла в Сингапуре 🎌 Влюбила Инстаграм в Японию #lit_navi 👇🏼 И написала книгу, ставшую бестселлером
+    location: "Japan"
+    followers: 419658
+    engagement: 303
+    commentsToLikes: 0.047753
+    id: ck0ty0zg2l5du0i19lkxdkhgs
+    verified: false
+    hashtags: ""
   - username: "jackiemcrae_xo"
     fullname: >-
       Jackie McRae 🌸Haruko🌸 Eurasian
+    bio: >-
+      Japanese/Scottish mix Canadian Model FL📍 🌿Spot6 - Toronto 🌱Urbn - Milan 🌱Quest - Hong Kong 🌱Chic models - Bangkok Traveling the world ✈️🐳🐬🐠🌴🥥 RU
     location: "Japan"
-    followers: 26831
-    engagement: 385
-    commentsToLikes: 0.070526
+    followers: 26967
+    engagement: 401
+    commentsToLikes: 0.065038
     id: ck6tr4qkfwx4k0j71vbwk3xc6
     verified: false
-    hashtags: "#dolphinsanctuary, #datingasagittarius, #sagittariuswoman, #birthdayinquarantine"
-  - username: "safvan_ikkaz"
+    hashtags: "#littlered, #travel, #halloween, #happyhalloween"
+  - username: "hollystarlight"
     fullname: >-
-      Сафван Икказ
+      ✨Miss Holly Starlight✨
+    bio: >-
+      Modern Pinup | Records | Illustrator 👗📀🖍 TALK TALK ・ Kate Bush ・ 80’s New Wave 🎶 Time travel with me 🧳 🧭 24 | 🇺🇸 living in 🇯🇵 💍
     location: "Japan"
-    followers: 2657
-    engagement: 2149
-    commentsToLikes: 0.109390
-    id: ckaovkpqo4zf00i78wverkumu
+    followers: 2986
+    engagement: 1521
+    commentsToLikes: 0.135530
+    id: ck9wotgob6jbp0j78mjf6c7h7
     verified: false
-    hashtags: "#sachintendulkar, #smile, #travellife, #brotherlove"
-  - username: "elliebearescapades"
+    hashtags: ""
+  - username: "noeliajustiniano"
     fullname: >-
-      Ellen | Expat Life & Travel
+      Noelia🏠🇧🇴➡️🇺🇸➡️🇹🇿➡️🇯🇵Japan
+    bio: >-
+      ❀ Party of 3 👨‍👩‍👧+ 2🐈 ✿ Travel & Daily Life in Japan ❀ J-Beauty & K-Beauty fan 🙋🏻‍♀️ 🇧🇴Bolivian #YourDailyJapanDose 📍Tokyo 🖊info@noeliajustiniano.com
     location: "Japan"
-    followers: 2991
-    engagement: 1496
-    commentsToLikes: 0.358523
-    id: ck8t9392xmt5u0j78wy0r08t8
+    followers: 24339
+    engagement: 411
+    commentsToLikes: 0.125049
+    id: ck5zxhctj80h70i149cvyt4sv
     verified: false
-    hashtags: "#azaleas, #instaholland, #passportable, #justtravel"
-  - username: "_icyphoto_"
+    hashtags: "#amazingjapan, #yourdailyjapandose, #discoverjapan, #timeoutlovesjapan"
+  - username: "sundailove"
     fullname: >-
-      Photographer in Tokyo ジュリア
+      Sundai love
+    bio: >-
+      Your Fashionable Traveling TV Model 🌎 Now In Japan こんにちは ! ANTM Cycle 13, Travel Channel, MTV MY SHOP @mood.global Business: sundaiklove@gmail.com
     location: "Japan"
-    followers: 18225
-    engagement: 981
-    commentsToLikes: 0.023141
-    id: ck5c1kyiive4i0i11svbdfe22
+    followers: 56124
+    engagement: 810
+    commentsToLikes: 0.019674
+    id: ck5c0qylitogn0i110hr7582q
     verified: false
-    hashtags: "#portraiture, #85mm, #asia, #sigmaphoto"
+    hashtags: "#kyoto, #travelkyoto, #arashiyama, #japan"
 ---

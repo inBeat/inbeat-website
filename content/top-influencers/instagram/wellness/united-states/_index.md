@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In United States In 2020
 description: >-
-  Find top wellness Instagram influencers in United States in 2020. Most popular hashtags: #cleanbeauty #greenbeauty #mothersday #stayhome.
+  Find top wellness Instagram influencers in United States in 2020. Most popular hashtags: #wellness #love #nature.
 platform: Instagram
+hits: 2619
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 2619 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "newtonbogue"
     fullname: >-
       Adam
+    bio: >-
+      NYC/LA restauranteur turned green bath, beauty & wellness brand Cofounder in the Ojai Valley, CA.
     location: "United States"
-    followers: 9492
-    engagement: 1654
-    commentsToLikes: 0.170403
+    followers: 13018
+    engagement: 1430
+    commentsToLikes: 0.123402
     id: ck8sx6wa3gcto0j78hijxj1jd
     verified: false
-    hashtags: "#socialdistancing, #dogsofinstagram, #takeadip, #ppe"
-  - username: "danikafieldsforever"
-    fullname: >-
-      DANIKA FIELDS🦋creative artist
-    location: "United States"
-    followers: 18025
-    engagement: 1004
-    commentsToLikes: 0.091307
-    id: ck0w4kxujz37l0i19rgu7r93n
-    verified: false
-    hashtags: ""
-  - username: "fit.full.life"
-    fullname: >-
-      Julie
-    location: "United States"
-    followers: 7589
-    engagement: 2381
-    commentsToLikes: 0.520398
-    id: ck6tukukugwtw0j718rwi641a
-    verified: false
-    hashtags: "#covi, #baree, #fitlife, #vacationmode"
-  - username: "chloe__chamberlain"
-    fullname: >-
-      Chloe Chamberlain
-    location: "United States"
-    followers: 55253
-    engagement: 909
-    commentsToLikes: 0.057106
-    id: ck0uav00bd2xv0i19127d3k1s
-    verified: false
-    hashtags: "#stayhome, #flattenthecurve"
-  - username: "kundaliniyoginiprasiddha"
-    fullname: >-
-      Prasiddha Ananda
-    location: "United States"
-    followers: 7471
-    engagement: 1262
-    commentsToLikes: 0.102476
-    id: ck9ha2pmsaw7d0j783nn2j00v
-    verified: false
-    hashtags: "#feelbetter, #divine, #howto, #vegetarian"
-  - username: "joeyzauzig"
-    fullname: >-
-      Joey Zauzig
-    location: "United States"
-    followers: 153976
-    engagement: 480
-    commentsToLikes: 0.046638
-    id: ck5c1dsy1uz3n0i11mp7y57c2
-    verified: false
-    hashtags: "#avioncollab, #soonenough, #cincowithavion"
-  - username: "vanessaferraiolo"
-    fullname: >-
-      Vanessa F | Philly Blogger
-    location: "United States"
-    followers: 5232
-    engagement: 1263
-    commentsToLikes: 0.096680
-    id: ck1386x53es5v0i19usyl94zp
-    verified: false
-    hashtags: "#vitalinfluencer, #isleepwithcoop, #followyourgut, #vitalprotiens"
-  - username: "kansaswife"
-    fullname: >-
-      Rachel
-    location: "United States"
-    followers: 6074
-    engagement: 1148
-    commentsToLikes: 0.229536
-    id: ck5zx9oyj7lw80i14q4bldg5p
-    verified: false
-    hashtags: "#familyreunion, #reallife, #wearethehomemakers, #thankful"
+    hashtags: "#staysafe, #elcapitan, #deepbreaths, #harper"
   - username: "_jasminvanessa"
     fullname: >-
       JΛSMIN ╳ VΛNESSΛ
+    bio: >-
+      ur virtual soul sis Unfiltered LA creative💃🏽 Life+CurvyStyle ✘ Wellness ✘ Advocacy join the fam #jasmINSPIRED jasminvanessa93@gmail.com TRAVEL W/ ME ↓
     location: "United States"
-    followers: 27975
-    engagement: 1779
-    commentsToLikes: 0.165785
+    followers: 30774
+    engagement: 1246
+    commentsToLikes: 0.172423
     id: ck55mxhoz51bd0i11q9fhs1x0
     verified: false
-    hashtags: "#headpeace, #pampasgrass, #fomo, #stircrazy"
-  - username: "allie_gooch"
+    hashtags: "#revolveme, #spookyszn, #fallootd, #31nightsofhalloween"
+  - username: "fit.full.life"
     fullname: >-
-      SIMPLY ALLIE • Youtube Mama
+      Julie
+    bio: >-
+      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
     location: "United States"
-    followers: 37741
-    engagement: 471
-    commentsToLikes: 0.057433
-    id: ck137kqv9c1e00i19p0q6bl9d
+    followers: 8757
+    engagement: 1973
+    commentsToLikes: 0.386816
+    id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#essentialoils, #oilylife, #knowyourfarmer, #spring2020"
+    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
+  - username: "chloe__chamberlain"
+    fullname: >-
+      Chloe Chamberlain
+    bio: >-
+      Owner + Designer @balanceathletica⁣⁣⁣⁣ @tolucaswim ⁣ 📚Purdue University Alumn ⁣⁣⁣ 📈 Business 🌿 Health 💋 Beauty ⚖️ Wellness⁣⁣⁣⁣⁣⁣⁣ ⁣
+    location: "United States"
+    followers: 71960
+    engagement: 1212
+    commentsToLikes: 0.088736
+    id: ck0uav00bd2xv0i19127d3k1s
+    verified: false
+    hashtags: "#stayhome, #flattenthecurve, #bywomxnforwomxn"
+  - username: "tayruths"
+    fullname: >-
+      Tay Ruth Welgoss
+    bio: >-
+      ⋒ hey, I’m tay! I’m goofy & encouraging 😊 I share about my lifestyle, faith & suffering. 🍁 ⋒home&wellness: @tayruthwel ✉️: tayruthblog@gmail.com
+    location: "United States"
+    followers: 13476
+    engagement: 1162
+    commentsToLikes: 0.121753
+    id: ck55jcu9qwrzh0i11jnqc3a25
+    verified: false
+    hashtags: ""
+  - username: "withashleykay"
+    fullname: >-
+      Ashley Kay, PA-C
+    bio: >-
+      📍ORL, FL 💉Vascular Surgery Physician Assistant⠀⠀⠀⠀⠀⠀⠀ 💍 Bride-to-be 🧠More Education, Health, & Wellness Here: http://www.withashleykay.com/
+    location: "United States"
+    followers: 35532
+    engagement: 684
+    commentsToLikes: 0.123323
+    id: ck5c4ae1p0xqz0i11daqs65ur
+    verified: false
+    hashtags: "#physicianassistant, #livebetterbycvshealth, #womeninmedicine, #linkinbio"
+  - username: "kundaliniyoginiprasiddha"
+    fullname: >-
+      PRASIDDHA🌿Health&Spirit Coach
+    bio: >-
+      Here to share authentic Yoga, Ayurveda & Hindu spirituality🧡💫 Certified Ayurvedic Wellness Counselor🌱 India 🕌 & LA 🌊 For free resources and booking👇🏻
+    location: "United States"
+    followers: 8814
+    engagement: 1122
+    commentsToLikes: 0.084211
+    id: ck9ha2pmsaw7d0j783nn2j00v
+    verified: false
+    hashtags: "#soul, #reflection, #cosmos, #heal"
+  - username: "lifewcasey_"
+    fullname: >-
+      Casey| Content Creator
+    bio: >-
+      Fashion, Fitness + Travel Enthusiast Skincare, Beauty + Wellness 🌿 Kennedy, Connor + @johnm0rg4n👨‍👩‍👧‍👦 Let’s work together 👉🏼💌lifewcasey@gmail.com
+    location: "United States"
+    followers: 6759
+    engagement: 939
+    commentsToLikes: 0.125655
+    id: ck5q272edekwl0i11sh9v8vvm
+    verified: false
+    hashtags: "#verbpartner, #weareveryougo, #gemmistbeauty, #granarolo"
+  - username: "niamhcullenx"
+    fullname: >-
+      Niamh Cullen
+    bio: >-
+      Fitness Coach | Fashion | Lifestyle Just me sharing 🕊 Wellness + Positivity ✨ •Big & Bright Ltd. •niamhpcullen@gmail.com Watch my latest Tik Tok👇🏼
+    location: "United States"
+    followers: 146046
+    engagement: 365
+    commentsToLikes: 0.078158
+    id: ck5zk76oriy770i14zlnweufv
+    verified: true
+    hashtags: "#friday, #ootd, #iworkwithprimark, #giveitatwirl"
+  - username: "jennamasar"
+    fullname: >-
+      j e n n a m a s a r
+    bio: >-
+      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
+    location: "United States"
+    followers: 7512
+    engagement: 973
+    commentsToLikes: 0.113646
+    id: ckaozs50jn5xc0i7844bpf7zw
+    verified: false
+    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
 ---

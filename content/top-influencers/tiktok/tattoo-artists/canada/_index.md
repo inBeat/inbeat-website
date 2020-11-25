@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists TikTok Influencers In Canada In 2020
 description: >-
-  Find top tattoo-artists TikTok influencers in Canada in 2020. Most popular hashtags: #tattooartist #tattoos #canada #foryoupage.
+  Find top tattoo-artists TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #tattoo #artist.
 platform: TikTok
+hits: 34
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 34 TikTok influencers like this in Canada for you to connect with.
 profiles:
-  - username: "betty_byford_22"
-    fullname: >-
-      Krista Byford
-    location: "Canada"
-    followers: 16047
-    engagement: 1295
-    commentsToLikes: 0.094292
-    id: ck9gpbtry4e1m0j78slw8ygwe
-    verified: false
-    hashtags: "#foryou, #angels, #torontomeetup2020, #foryoupage"
   - username: "foxy_boots"
     fullname: >-
       Foxyboots
+    bio: >-
+      🇨🇦 Tattoo artist / Liberal / Atheist 🏳️‍🌈 Ally / BLM. Trolls deleted.
     location: "Canada"
-    followers: 3878
-    engagement: 1111
-    commentsToLikes: 0.050404
+    followers: 10500
+    engagement: 1730
+    commentsToLikes: 0.102798
     id: ck9skix0v8z0r0j788n9r3406
     verified: false
-    hashtags: "#strongwomen, #girlswithtattoos, #puppylove, #femaletattooartist"
-  - username: "alex_robinz"
+    hashtags: "#femaletattooartist, #tattooeducation, #biden2020, #dumptrump2020"
+  - username: "betty_byford_22"
     fullname: >-
-      alex_robz
+      Krista Byford
+    bio: >-
+      Mom of 3🥓Cook🥓Tattoo Artist 🖤😈🖤 #qlms🧩🇨🇦🥓🖤📲 🇨🇦#LegendaryOutsiders🥓
     location: "Canada"
-    followers: 65728
-    engagement: 1660
-    commentsToLikes: 0.036133
-    id: ckae4h4vh2ej40i7869gfjtj8
+    followers: 16700
+    engagement: 918
+    commentsToLikes: 0.058271
+    id: ck9gpbtry4e1m0j78slw8ygwe
     verified: false
-    hashtags: "#acting, #badtemper, #iloveyou, #jack"
-  - username: "handpushed"
-    fullname: >-
-      melina
-    location: "Canada"
-    followers: 11484
-    engagement: 1123
-    commentsToLikes: 0.058591
-    id: ckahyq5cm0bp50i78q8ebs7o7
-    verified: false
-    hashtags: "#career, #handpokers, #selfportait, #inspiration"
+    hashtags: "#legendaryoutsiders, #duet, #ontario, #mcdonaldsmonopoly"
   - username: "tamiaoveres"
     fullname: >-
       Tamia 
+    bio: >-
+      Tattoo & Makeup Artist 🎨 Business Inquiries: info@pulsevancity.com SHOP ⬇️
     location: "Canada"
-    followers: 228735
-    engagement: 1892
-    commentsToLikes: 0.017373
+    followers: 249400
+    engagement: 2160
+    commentsToLikes: 0.017602
     id: ck8osvaarii1q0j78zbn12ijv
     verified: false
-    hashtags: "#minitutorials, #learnfromme, #keepingbusy, #edit"
+    hashtags: "#makeupartist, #storytime, #femaletattooist, #greenscreen"
+  - username: "handpushed"
+    fullname: >-
+      melina
+    bio: >-
+      • personal instagram @melinamans •
+    location: "Canada"
+    followers: 33400
+    engagement: 1266
+    commentsToLikes: 0.046605
+    id: ckahyq5cm0bp50i78q8ebs7o7
+    verified: false
+    hashtags: "#torontotattoo, #tattooartist, #handpoke, #teach"
   - username: "discoverthecanvas"
     fullname: >-
       DISCOVER THE CANVAS
+    bio: >-
+      tattoo studio based in ontario, canada discoverthecanvas.com
     location: "Canada"
-    followers: 6987
-    engagement: 790
-    commentsToLikes: 0.019290
+    followers: 11500
+    engagement: 932
+    commentsToLikes: 0.037468
     id: ck9fdr1lkptdv0j78wt6u60ft
     verified: false
-    hashtags: "#metal, #femaletattooer, #canadian, #tattootour"
-  - username: "dita_rose"
-    fullname: >-
-      Dita_VanRose
-    location: "Canada"
-    followers: 11555
-    engagement: 1416
-    commentsToLikes: 0.174317
-    id: ck9fpwg7p9fp90j78g3iprlq2
-    verified: false
-    hashtags: "#cool, #bbqszn, #bored, #mynameisjeff"
+    hashtags: "#trending, #xyzbca, #art, #artist"
   - username: "rhycouvreur18"
     fullname: >-
       Rhylee Couvreur 
+    bio: >-
+      24* Married 💕 Mama of ✌🏻 18 + please 😘
     location: "Canada"
-    followers: 2266
-    engagement: 910
-    commentsToLikes: 0.029941
+    followers: 2287
+    engagement: 928
+    commentsToLikes: 0.048709
     id: ck9k6pgt31nx10j78dq4vk15n
     verified: false
-    hashtags: "#tattooartist, #tattoos, #myking, #tattothirstisreal"
-  - username: "friisforge"
+    hashtags: "#foryou, #foryoupage, #fyp, #peoplesuck"
+  - username: "generouss"
     fullname: >-
-      Friis Forge
+      AK
+    bio: >-
+      TORONTO 25 ♊️ HUGE GIVEAWAY AT 50K!!! PRINTS/ PUZZLES/ STICKERS
     location: "Canada"
-    followers: 73632
-    engagement: 961
-    commentsToLikes: 0.091820
-    id: ck9bxqpqzmqvu0j786whdmqub
+    followers: 40800
+    engagement: 853
+    commentsToLikes: 0.013737
+    id: ck807cqdppw4v0j78b6e2j3ps
     verified: false
-    hashtags: "#norse, #odinist, #tiktok, #odinsravens"
-  - username: "savannahtav"
+    hashtags: "#fyp, #painting, #paint, #art"
+  - username: "slick.skills"
     fullname: >-
-      savannah
+      SLiCK
+    bio: >-
+      Follow my INSTAGRAM👆 drawings people in Halifax 🇨🇦 New vids at 2:00PM EST!
     location: "Canada"
-    followers: 4044
-    engagement: 316
-    commentsToLikes: 0.013688
-    id: ck9616j9cla3h0j78liepuhwr
+    followers: 223100
+    engagement: 2000
+    commentsToLikes: 0.019346
+    id: ck806wneimmf40j78fu9sztlz
     verified: false
-    hashtags: "#strangepets, #datingstorytime, #glee, #cheersquad"
+    hashtags: "#wholesome, #fyp, #artist, #foryou"
+  - username: "eyeamperiod"
+    fullname: >-
+      EyeAmPeriod
+    bio: >-
+      Art n shit Kinda weird but mEye intentions are good 💖
+    location: "Canada"
+    followers: 13400
+    engagement: 1883
+    commentsToLikes: 0.065258
+    id: ckcdcouty56iq0j239ekf7u2e
+    verified: false
+    hashtags: "#altart, #tattoo, #gothart, #gbc"
+  - username: "daythedogmom"
+    fullname: >-
+      Day The Dog Mom
+    bio: >-
+      🐾 Dogs are my Favourite People 🐾
+    location: "Canada"
+    followers: 12800
+    engagement: 1158
+    commentsToLikes: 0.018944
+    id: ck8ke4viw8ojm0j78hb32ry8i
+    verified: false
+    hashtags: "#dogmom, #fyp, #asmr, #funny"
 ---

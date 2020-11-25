@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Turkey In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Turkey in 2020. Most popular hashtags: #cosmetics #beauty #kozmetik #style.
+  Find top cosmetics Instagram influencers in Turkey in 2020. Most popular hashtags: #makeup #beauty #cosmetics #fashion.
 platform: Instagram
+hits: 109
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 109 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "emretunafarmasi"
     fullname: >-
       Emretunafarmasi
+    bio: >-
+      @emretunaa Farmasi Cosmetics Board 👋 #FarmasiRevolution 🚀 🌍 120+Countries 🌿20+ Brands ✌️MakeUp 💄MakeArt 💋 We Make You Beautiful 📌 Official Account
     location: "Turkey"
-    followers: 25328
-    engagement: 911
-    commentsToLikes: 0.408513
+    followers: 32249
+    engagement: 465
+    commentsToLikes: 0.149625
     id: ck0u61wmf0qkk0i19iq8cflyf
     verified: false
-    hashtags: "#bayram, #love, #summer, #celebration"
-  - username: "beg.y"
-    fullname: >-
-      BEGY
-    location: "Turkey"
-    followers: 18371
-    engagement: 372
-    commentsToLikes: 0.047985
-    id: ck13bwdgdxggi0i19oabcdu0i
-    verified: false
-    hashtags: "#7k, #ataturk, #horses, #bruxelles"
+    hashtags: "#makyaj, #success, #farmasiofficial, #farmasirevolution"
   - username: "drmirzafirat"
     fullname: >-
       Mirza Firat, MD
+    bio: >-
+      Cosmetic Surgery Center Istanbul / Turkey 🇬🇧 +905308571930 🇹🇷 +905353767530 🇸🇦 +905365163248
     location: "Turkey"
-    followers: 158322
-    engagement: 264
-    commentsToLikes: 0.023276
+    followers: 167138
+    engagement: 167
+    commentsToLikes: 0.021600
     id: ck6uf5abuuzrf0j712n1cvbok
     verified: false
-    hashtags: "#eyebrowlift, #qatar, #mirzaifratnoses, #stayhome"
+    hashtags: "#nosesurgery, #nosejob, #nasenkorrektur, #staysafe"
+  - username: "blog_kubist"
+    fullname: >-
+      
+    bio: >-
+      Kübra✌️ #skincare #cosmetics 💄 Uygun ve yüksek fiyatlı ürün inceleme 💥 TANITIM,REKLAM VE İŞBİRLİKLERİ için DM❣️
+    location: "Turkey"
+    followers: 15805
+    engagement: 466
+    commentsToLikes: 0.089137
+    id: ckaoveru14avm0i78chujci0j
+    verified: false
+    hashtags: "#ke, #farmasi, #denemeli, #kiehls"
+  - username: "denizlebak"
+    fullname: >-
+      Deniz
+    bio: >-
+      📍@sachane 📩denizlebak@gmail.com #cosmetics #skincare #healtyskin #beauty
+    location: "Turkey"
+    followers: 27082
+    engagement: 273
+    commentsToLikes: 0.085170
+    id: ck9hc53ocjtvw0j789s8zuixr
+    verified: false
+    hashtags: "#girl, #me, #style, #purse"
   - username: "yagmurkeskiiin"
     fullname: >-
-      Yağmur Keskin
+      Yağmur Keskin
+    bio: >-
+      💄 Mac Cosmetics Makeup Artist 💥 Events Team Member 📸 Spotlight Artist 👰🏻Gelin ve özel gün makyajları için DM 📩
     location: "Turkey"
-    followers: 33737
-    engagement: 666
-    commentsToLikes: 0.012968
+    followers: 30961
+    engagement: 481
+    commentsToLikes: 0.016099
     id: ck5zsltezyqu50i14rjvn6fzn
     verified: false
-    hashtags: "#foundation, #fakefreckles, #macfix, #makeupbyme"
+    hashtags: "#macloudandclear, #macartistchallenge, #maccosmeticsturkiye, #makeuptutorial"
+  - username: "ghaida_msy"
+    fullname: >-
+      
+    bio: >-
+      🇴🇲 Business WhatsApp : +968 71977189 ‏ @ghaida_cosmetics @shop.ghaida @chloe_msy1
+    location: "Turkey"
+    followers: 177175
+    engagement: 169
+    commentsToLikes: 0.013824
+    id: ck601raxgg1070i14qohyt3tx
+    verified: false
+    hashtags: "#narscosmetics, #makeup, #makeuplover, #makeupoftheday"
   - username: "dr.borakorkut"
     fullname: >-
       Dr. Bora Korkut, D.D.S., Ph.D.
+    bio: >-
+      🦷 Esthetic & Cosmetic Dentistry 🔘 Restorative Dentistry Specialist 🔹️ Certified Invisalign Provider 🎓 Academic 🔬Researcher 💻 Lecturer
     location: "Turkey"
-    followers: 42128
-    engagement: 67
-    commentsToLikes: 0.027145
+    followers: 42202
+    engagement: 54
+    commentsToLikes: 0.029241
     id: ck6u5dnj990xu0j71yzk4g0is
     verified: false
-    hashtags: "#11, #21, #stayathome, #essentialsindentistry"
-  - username: "bojnakova"
+    hashtags: "#justcomposite, #justalign, #estheticdentistry, #restorativedentistry"
+  - username: "ilahahajiyeva"
     fullname: >-
-      Naida Bojnakova
+      ILAHA HAJIYEVA
+    bio: >-
+      𝗜'𝗔𝗠 𝗡𝗢𝗧 𝗔𝗟𝗢𝗡𝗘, 𝗔𝗟𝗟𝗔𝗛 𝗜𝗦 𝗔𝗟𝗪𝗔𝗬𝗦 𝗪𝗜𝗧𝗛 𝗠𝗘 Founder @ilahahajiyeva_cosmetics ᴡᴡᴡ.ʏᴏᴜᴛᴜʙᴇ.ᴄᴏᴍ/ɪʟᴀʜᴀʜᴀᴊɪʏᴇᴠᴀ
     location: "Turkey"
-    followers: 122522
-    engagement: 835
-    commentsToLikes: 0.043804
-    id: ck15s9fgsbw510i19tq8htm2w
+    followers: 483255
+    engagement: 23
+    commentsToLikes: 0.028359
+    id: ck15rdn8z7eqx0i19fc4fehni
     verified: false
-    hashtags: "#sale, #babyboy, #lovetostayhome, #revolve"
-  - username: "betuulle"
+    hashtags: "#ilahahajiyevafoundation, #ilahahajiyevacosmetics, #ilahahajiyevamakeup, #ilahahajiyevalashes"
+  - username: "niranhurel"
     fullname: >-
-      Betül 💫💫
+      Niran Hürel Herder
+    bio: >-
+      🇹🇷🇺🇸👩🏻‍💻Freelance Marka İletişim Danışmanı&Etkinlik Yöneticisi 📬Isbirlikleri ➡️niran.hurel@gmail.com 🌿İletişim Müdürü @yvesrocherturkiye 2011-2020
     location: "Turkey"
-    followers: 5245
-    engagement: 1335
-    commentsToLikes: 0.100129
-    id: ck8tagdvzrn200j78yifuxvzl
+    followers: 16230
+    engagement: 1085
+    commentsToLikes: 0.434642
+    id: ck5hslyftwsyz0i11g27870d7
     verified: false
-    hashtags: "#shoes, #beautiful, #likemephoto, #quarantinedays"
-  - username: "candilekcci"
+    hashtags: "#look, #cosy, #lovehim, #makeup"
+  - username: "tzahivazana"
     fullname: >-
-      Can Dilekci
+      צחי ואזנה
+    bio: >-
+      Producer & Photographer
     location: "Turkey"
-    followers: 102340
-    engagement: 4184
-    commentsToLikes: 0.163008
-    id: ck8t2ae1myq920j78reg3dgh2
+    followers: 43506
+    engagement: 197
+    commentsToLikes: 0.060066
+    id: ck5c8wxjlad1y0i11i2n9k1zo
     verified: false
-    hashtags: "#easter, #ramadan2020, #itziaritu, #lacasadicarta"
-  - username: "the_queen_haarverlaengerung"
-    fullname: >-
-      BeautyQueen
-    location: "Turkey"
-    followers: 61209
-    engagement: 776
-    commentsToLikes: 0.150820
-    id: ck0txhuypj71s0i198k72hfyt
-    verified: false
-    hashtags: "#mutluluk, #echthhare, #groom, #haarverdichtung"
-  - username: "cigdemscagans"
-    fullname: >-
-      Ç İ Ğ D E M  G Ü N E R
-    location: "Turkey"
-    followers: 18016
-    engagement: 458
-    commentsToLikes: 0.101459
-    id: ckap7ydffm4bq0i78lh6pt614
-    verified: false
-    hashtags: "#flowerslovers, #bodrum, #beauty, #lastsummer"
+    hashtags: "#makeuptutorial, #cool, #beautyful, #beauty"
 ---

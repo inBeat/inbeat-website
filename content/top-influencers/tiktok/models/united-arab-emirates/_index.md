@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top models TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #duet #dubai #funny #transition.
+  Find top models TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #foryou #foryoupage #dubai #trending.
 platform: TikTok
+hits: 38
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform has 38 TikTok influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "shonidimpi"
+  - username: "sanasajad"
     fullname: >-
-      Dimps
+      Sana 🇮🇳🇦🇪
+    bio: >-
+      Gym trainer fineness model personal trainer level 3 ICF FROM DUBAI 🇦🇪🇦🇪
     location: "United Arab Emirates"
-    followers: 241502
-    engagement: 1735
-    commentsToLikes: 0.045678
-    id: ck8f82g0d3cn20j788bxihk2r
+    followers: 133000
+    engagement: 981
+    commentsToLikes: 0.110321
+    id: ckbenusr73kln0j23mktlwth1
     verified: false
-    hashtags: "#crazygirl, #padosi, #insipiration, #sachi"
+    hashtags: "#dubai, #nepalitiktok, #fitgirl, #xtremebodyfitnessdubai"
   - username: "oliverobeid"
     fullname: >-
       Oliver Obeid
+    bio: >-
+      Filmmaker/actor/model/weeb Instagram: oliverobeid
     location: "United Arab Emirates"
-    followers: 32446
-    engagement: 582
-    commentsToLikes: 0.091005
+    followers: 33100
+    engagement: 638
+    commentsToLikes: 0.130364
     id: ck8w3eiqc7et00j78wumhbeev
     verified: false
-    hashtags: "#emaardubai, #transitionking, #matingcall, #challenge"
-  - username: "yousifishere"
+    hashtags: "#armwrestligchallenge, #funny, #gym, #anime"
+  - username: "anthonymonika"
     fullname: >-
-      Yousif is here 🇦🇪
+      usermonikaanthony
+    bio: >-
+      Model/Actress/Dancer instructor 🇮🇳 🇦🇪 Feel free to follow me on Instagram
     location: "United Arab Emirates"
-    followers: 723069
-    engagement: 920
-    commentsToLikes: 0.021181
-    id: ck9rgqkxtc04s0j78bat54ef7
-    verified: true
-    hashtags: "#anker, #wakey, #honor9xpro, #london"
-  - username: "sadiq_ahmed007"
-    fullname: >-
-      Sadiq Ahmed 
-    location: "United Arab Emirates"
-    followers: 1158177
-    engagement: 1676
-    commentsToLikes: 0.015745
-    id: ck81qty6kjtor0j78xioxp45w
+    followers: 37400
+    engagement: 1504
+    commentsToLikes: 0.041579
+    id: ckbfgak4mbdkp0j23oiijgllw
     verified: false
-    hashtags: "#islamic, #eidprayer, #guroor, #ghamand"
-  - username: "mr_kareem"
-    fullname: >-
-      Kareem_afghani🇦🇪
-    location: "United Arab Emirates"
-    followers: 295797
-    engagement: 1066
-    commentsToLikes: 0.025915
-    id: ck9ekj83o6pna0j78tdkntmke
-    verified: false
-    hashtags: "#art, #burjkhalifa, #dubai, #arifin"
+    hashtags: "#foryou, #foryoupage, #dubai, #dramaqueen"
   - username: "esa_.a"
     fullname: >-
       Esa
+    bio: >-
+      Follow me Insta: Mohd_esa Snapchat: Esakhakhan86 Fb:Muhammad Esa •Model •Act
     location: "United Arab Emirates"
-    followers: 895576
-    engagement: 995
-    commentsToLikes: 0.032134
+    followers: 1200000
+    engagement: 1102
+    commentsToLikes: 0.044649
     id: ck9ejdker2ibn0j78yhlyzdm9
     verified: false
-    hashtags: "#honor, #dubai, #coronavirus, #tumhiaana"
-  - username: "sardarni_amritkaur"
+    hashtags: "#foryoupage, #duet, #trend, #fyp"
+  - username: "sadiq_ahmed007"
+    fullname: >-
+      Sadiq Ahmed 
+    bio: >-
+      📍🇦🇪 Model / Actor 🎬 Instagram : sadiqahmed0070 UAE influencer #omgsadiq
+    location: "United Arab Emirates"
+    followers: 1800000
+    engagement: 1322
+    commentsToLikes: 0.012536
+    id: ck81qty6kjtor0j78xioxp45w
+    verified: true
+    hashtags: "#tiktokarab, #dosti, #omgsadiq, #foryou"
+  - username: "leanneeverett"
+    fullname: >-
+      Leanne Everett
+    bio: >-
+      لِيان Fashion/Beauty/Lifestyle Creator/Model Follow all my social media😘
+    location: "United Arab Emirates"
+    followers: 70900
+    engagement: 560
+    commentsToLikes: 0.068721
+    id: ck81s14qwp99s0j78q7unea3a
+    verified: false
+    hashtags: "#fameopportunity, #thisstyle, #fyp, #tuckinyourshirt"
+  - username: "mr_kareem"
+    fullname: >-
+      Kareem_afghani
+    bio: >-
+      Dubai 🇦🇪Model TO KNOW ME FOLLOW ⤴️ME insta:-kareem_afghani Snap kareemafg447
+    location: "United Arab Emirates"
+    followers: 566800
+    engagement: 617
+    commentsToLikes: 0.025352
+    id: ck9ekj83o6pna0j78tdkntmke
+    verified: false
+    hashtags: "#kabul, #kareem, #afghanistan, #trending"
+  - username: "tiktokersardarni_amrit"
     fullname: >-
       AmritGill
+    bio: >-
+      DelhiGirl🇮🇳 In Dubai🇦🇪 Designer/Model Promotion/Shoot Contact on Instagram
     location: "United Arab Emirates"
-    followers: 58282
-    engagement: 886
-    commentsToLikes: 0.026130
+    followers: 178500
+    engagement: 989
+    commentsToLikes: 0.017437
     id: ck8fard4a4krp0j78rov69l1v
     verified: false
-    hashtags: "#message, #tiktokarab, #abaya, #couplegoals"
+    hashtags: "#message, #amritgil, #love, #pakistan"
+  - username: "hanzladubai"
+    fullname: >-
+      Hanzla
+    bio: >-
+      🤴Single🤴 👑Rajpoot👑 Dubai 🇦🇪 Model👨‍🎤, Photoghrapher📸, director🎥
+    location: "United Arab Emirates"
+    followers: 55400
+    engagement: 766
+    commentsToLikes: 0.027167
+    id: ckavim32qqw0n0j23k1ttztn1
+    verified: false
+    hashtags: "#lahore, #haha, #uae, #saudiarabia"
   - username: "ivanliana"
     fullname: >-
       Liana Ivon
+    bio: >-
+      Model 🍀 Designer 🍀 Mage 🌸 Instagram - ivanliana 🌸 🌼ivalianaa@gmail.com🌼
     location: "United Arab Emirates"
-    followers: 47524
-    engagement: 545
-    commentsToLikes: 0.010859
+    followers: 46300
+    engagement: 551
+    commentsToLikes: 0.011246
     id: ck8qex7nsuegm0j78s1xtq9vl
     verified: false
-    hashtags: "#physics, #ivanliana, #mus, #fingerdance"
-  - username: "divyamadhu13"
-    fullname: >-
-      Divyadharshini
-    location: "United Arab Emirates"
-    followers: 237410
-    engagement: 711
-    commentsToLikes: 0.007285
-    id: ck9gn82s3vk9y0j78snj4kzp9
-    verified: false
-    hashtags: "#poda, #tik, #bby, #djsuman"
-  - username: "annabell_newman"
-    fullname: >-
-      Annabell Newman
-    location: "United Arab Emirates"
-    followers: 30255
-    engagement: 933
-    commentsToLikes: 0.117804
-    id: ckaclkmzifxfw0i7893ub26ow
-    verified: false
-    hashtags: "#tommyhilfiger, #disneyworld, #outfit, #lowkey"
+    hashtags: "#foryou, #magician, #tiktok, #magic"
 ---

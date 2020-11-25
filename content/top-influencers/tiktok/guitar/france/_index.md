@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In France In 2020
 description: >-
-  Find top guitar TikTok influencers in France in 2020. Most popular hashtags: #guitar #guitare #france #cover.
+  Find top guitar TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #music.
 platform: TikTok
+hits: 41
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 41 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "_kerya_cosplay_"
     fullname: >-
       @_kerya_cosplay_
+    bio: >-
+      cosplayer👆 Draw🖍️ guitar player 🎸 Love japan🇯🇵
     location: "France"
-    followers: 5634
-    engagement: 2784
-    commentsToLikes: 0.058888
+    followers: 7936
+    engagement: 3056
+    commentsToLikes: 0.072890
     id: ck9sl4qy4c2wi0j78j4y7jv5j
     verified: false
-    hashtags: "#fanart, #saintseya, #mangacosplay, #animeguitarists"
-  - username: "sildamusique"
+    hashtags: "#erzascarlettcosplay, #erzascarletcosplay, #otaku, #duo"
+  - username: "bovvary"
     fullname: >-
-      Leana Silda
+      Bovvary
+    bio: >-
+      producteur et guitariste 🎹 🎸 Viens me parler sur Insta : Bovvary_
     location: "France"
-    followers: 6559
-    engagement: 2176
-    commentsToLikes: 0.016712
-    id: ckacuza5elbln0i787g0xtawe
+    followers: 201900
+    engagement: 1244
+    commentsToLikes: 0.031026
+    id: ckb0lgxtwc55t0j23tqkwggw2
     verified: false
-    hashtags: "#dommage, #cool, #francaise, #bigfloetoli"
-  - username: "lancelot.musique"
+    hashtags: "#beatmaker, #duo, #ableton, #abletonlive"
+  - username: "elfamosoflafla"
     fullname: >-
-      Lancelot
+      Flavie
+    bio: >-
+      Guitariste, insta : flavielj
     location: "France"
-    followers: 8021
-    engagement: 653
-    commentsToLikes: 0.114565
-    id: ck9eq1netv4ow0j78i3545zwh
+    followers: 2818
+    engagement: 1102
+    commentsToLikes: 0.048039
+    id: ckb9ed97z1wp40j23kcfbm7qw
     verified: false
-    hashtags: "#1234, #pourqui, #lettre, #hater"
+    hashtags: "#couple, #foryoupage, #amour, #pourtoipage"
   - username: "lucasgitanofamily"
     fullname: >-
       Lucas Goitia
+    bio: >-
+      YouTube : LucasGitanoFamily ✅⬇️ Leçon de guitare ⬇️✅
     location: "France"
-    followers: 3258
-    engagement: 346
-    commentsToLikes: 0.027662
+    followers: 3763
+    engagement: 388
+    commentsToLikes: 0.037303
     id: ckai0hrcy7r0t0i780ca8wsrb
     verified: false
-    hashtags: "#matador, #streetfighter, #buler, #drdre"
+    hashtags: "#bleach, #music, #guitarra, #foryou"
+  - username: "doc.smooth"
+    fullname: >-
+      Doc' Smooth
+    bio: >-
+      "Quelqu'un a vu mon médiator?" 🌌🌠
+    location: "France"
+    followers: 3816
+    engagement: 2052
+    commentsToLikes: 0.342948
+    id: ckd16pufcnqwc0j23tsfupiz1
+    verified: false
+    hashtags: "#drsmooth, #fast, #foryoupage, #chill"
   - username: "fripouilles"
     fullname: >-
       Fripouilles
+    bio: >-
+      Rhaa ouaisss
     location: "France"
-    followers: 12688
-    engagement: 1667
-    commentsToLikes: 0.058195
+    followers: 12300
+    engagement: 1750
+    commentsToLikes: 0.040602
     id: ck8sahv2o280b0j78cv4exefd
     verified: false
-    hashtags: "#pluie, #captionthis, #retrospection, #tutorial"
-  - username: "arthurbolzonella"
+    hashtags: "#foryou, #guitare, #fyp, #musique"
+  - username: "rebecca.officiel"
     fullname: >-
-      Arthur Bolzonella
+      Rebecca.officiel
+    bio: >-
+      🇫🇷 Singer, pianist 🌻 The Voice France 2018
     location: "France"
-    followers: 14440
-    engagement: 1975
-    commentsToLikes: 0.036029
-    id: ckacr8aaj49qk0i78wxhmk65o
+    followers: 95800
+    engagement: 1354
+    commentsToLikes: 0.029421
+    id: ckbepraip6z800j23hqo0yb6c
     verified: false
-    hashtags: "#xyzcba, #foruyou, #sundyjules, #compo"
-  - username: "ashuu_bless_u"
+    hashtags: "#femme, #fyp, #cover, #summer"
+  - username: "lancelot.musique"
     fullname: >-
-      Ash ✨
+      Lancelot
+    bio: >-
+      Feder 🍑 ➡️ 2 Au DD ➡️3 👏🏻 Maroon ➡️ 5 😏 Ne me quitte pas ➡️ 3
     location: "France"
-    followers: 63905
-    engagement: 2380
-    commentsToLikes: 0.021663
-    id: ck8qic8dk8gzk0j78edlyhyb6
+    followers: 15100
+    engagement: 803
+    commentsToLikes: 0.124042
+    id: ck9eq1netv4ow0j78i3545zwh
     verified: false
-    hashtags: "#hunterxhunter, #haikyuu, #ray, #spiritedaway"
-  - username: "tatan_._"
+    hashtags: "#compo, #musique, #blindtest, #test"
+  - username: "saults_music"
     fullname: >-
-      Tatan<3
+      Saultsmusic 
+    bio: >-
+      📍London 🇫🇷 Pop band 📀 Listen here 👇🏻
     location: "France"
-    followers: 21063
-    engagement: 2601
-    commentsToLikes: 0.024536
-    id: ck9fiq0fdc3ez0j788w7s5rxb
+    followers: 11200
+    engagement: 801
+    commentsToLikes: 0.074190
+    id: ckavc0tmmjs4e0j23avlf393v
     verified: false
-    hashtags: "#music, #enrush, #france, #clown"
-  - username: "thepunshliner"
+    hashtags: "#electricguitar, #guitarist, #livemusic, #pourtoi"
+  - username: "vincent_thevivi"
     fullname: >-
-      Baptiste
+      TheVivi
+    bio: >-
+      Vidéaste et Musicien, 20 yo Insta : TheVivi.offi Twitch : thevivistream
     location: "France"
-    followers: 10951
-    engagement: 836
-    commentsToLikes: 0.075784
-    id: ck83wto11m10g0j7845vqd50w
+    followers: 42500
+    engagement: 1240
+    commentsToLikes: 0.022300
+    id: ckcjbm0uy924c0j23soe8k1vx
     verified: false
-    hashtags: "#tapetesposes, #guitare, #whitehair, #moustache"
-  - username: "smolassboi"
-    fullname: >-
-      smol boi
-    location: "France"
-    followers: 3889
-    engagement: 1228
-    commentsToLikes: 0.055722
-    id: ck961e23bm6or0j787dh3onn3
-    verified: false
-    hashtags: "#woah, #angry, #money, #woahchallenge"
+    hashtags: "#music, #rap, #fy, #cover"
 ---

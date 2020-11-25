@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top home decor TikTok influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #losangeles #foryoupage #littlethings.
+  Find top home decor TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #homedecor #losangeles #foryou.
 platform: TikTok
+hits: 26
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 26 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "ruben_carrillo"
+  - username: "totallygio"
     fullname: >-
-      Ruben Carrillo
+      TotallyGio
+    bio: >-
+      I dunno.
     location: "United States"
-    followers: 25570
-    engagement: 848
-    commentsToLikes: 0.038740
-    id: ck9pmqunfazpa0j7827q8l6nw
+    followers: 23700
+    engagement: 571
+    commentsToLikes: 0.026156
+    id: ckblf1y3r90jq0j23hmv5y0t2
     verified: false
-    hashtags: "#realestate, #savethetrees, #love, #chirstmas"
-  - username: "paulinabuitrago"
+    hashtags: "#vegan, #dadjokes, #fyp, #vibewithus"
+  - username: "saratoufali"
     fullname: >-
-      Paulina Buitrago
+      Sara Toufali
+    bio: >-
+      los angeles, CA 🌴 ig @saratoufali
     location: "United States"
-    followers: 87070
-    engagement: 336
-    commentsToLikes: 0.010980
-    id: ck8hl5lcwgqzj0j78nx0sz5sj
+    followers: 9373
+    engagement: 651
+    commentsToLikes: 0.022758
+    id: ckavrnwkh3qid0j23i98c4ura
     verified: false
-    hashtags: "#travelthrowback, #barcart, #retroaesthetic, #makeyourbed"
-  - username: "housesgram"
+    hashtags: "#plantlady, #plantparent, #couplelife, #plantlover"
+  - username: "emantheegyptian"
     fullname: >-
-      HousesGram
+      Eman
+    bio: >-
+      professional hype woman always smiling ig: thedailyeman cash app: $ehass14
     location: "United States"
-    followers: 130025
-    engagement: 645
-    commentsToLikes: 0.034785
-    id: ck8w1andl16z40j78950alhbe
+    followers: 6482
+    engagement: 768
+    commentsToLikes: 0.012623
+    id: ckb9bhm9vxrwf0j235up6r0b3
     verified: false
-    hashtags: "#forsale, #suit, #home, #chandelier"
-  - username: "mimikickass82"
+    hashtags: "#glowup, #everydayscience, #fyp, #weightloss"
+  - username: "designbuildla"
     fullname: >-
-      Mimi
+      DESIGNBUILDLA
+    bio: >-
+      INTERIOR + ARCHITECTURAL DESIGN 📍LOS ANGELES www.designbuild.LA
     location: "United States"
-    followers: 24598
-    engagement: 963
-    commentsToLikes: 0.039301
-    id: ck9n4bhrz48080j781vmg9zxv
+    followers: 12000
+    engagement: 681
+    commentsToLikes: 0.012560
+    id: ckcp0ro2sawss0j231czyzz47
     verified: false
-    hashtags: "#foodlover, #boujee, #over35, #entrepreneur"
-  - username: "milliondollarslistings"
+    hashtags: "#fashiontiktok, #kendalljenner, #interiordesigner, #interiordesign"
+  - username: "probablyfromgoodwill"
     fullname: >-
-      Milliondollarlisting
+      bailey
+    bio: >-
+      ig: @probablyfromgoodwill
     location: "United States"
-    followers: 8867
-    engagement: 570
-    commentsToLikes: 0.018927
-    id: ck8hk4gtqc8id0j78hohb8xqv
+    followers: 15800
+    engagement: 1733
+    commentsToLikes: 0.012261
+    id: ckcj1qp0k3zrz0j23y2vohy84
     verified: false
-    hashtags: "#sidehustle, #makethemfamous, #babylove, #babyboy"
-  - username: "cheraleelyle"
+    hashtags: "#tinyapartment, #apartment, #diy, #foryourpage"
+  - username: "dababy_bossman"
     fullname: >-
-      Cheralee
+      Baby On Baby❤️
+    bio: >-
+      BillionDollarBabyEntertainmentCEO Official Tiktok of DaBaby Ran by management
     location: "United States"
-    followers: 13113
-    engagement: 535
-    commentsToLikes: 0.152206
-    id: ck806xeyxmsth0j788jvvtgsc
+    followers: 161400
+    engagement: 1488
+    commentsToLikes: 0.015695
+    id: ckbf3glcyr5s70j23nbvgnl03
     verified: false
-    hashtags: "#perfumeaddict, #homedecor, #pvchandbag, #homestyle"
-  - username: "tyfrench"
+    hashtags: "#viral, #foryoupage, #kirk, #dababy"
+  - username: "nicholalalaslim"
     fullname: >-
-      Ty French
+      Nicholas Lim
+    bio: >-
+      SG • CA 🇸🇬 🇺🇸 It’s just a joke
     location: "United States"
-    followers: 25601
-    engagement: 884
-    commentsToLikes: 0.042868
-    id: ck8p1ukrgn25y0j78kaf1ctpc
+    followers: 19200
+    engagement: 1160
+    commentsToLikes: 0.064647
+    id: ckbfabfvb1mwn0j23sw9ljvlj
     verified: false
-    hashtags: "#myaesthetic, #inspo, #vibecheck, #drag"
-  - username: "madienotmaddie"
+    hashtags: "#girlfriend, #love, #couplegoals, #spaceforcewalk"
+  - username: "rubysdurant"
     fullname: >-
-      madie
+      ruby simone 🥂
+    bio: >-
+      los angeles ig: @rubydurant ♏️🖤
     location: "United States"
-    followers: 2825
-    engagement: 1001
-    commentsToLikes: 0.027892
-    id: ckacco91si95r0i781atp64i3
+    followers: 14000
+    engagement: 822
+    commentsToLikes: 0.072963
+    id: ck8kksyiw0tg90j787wv1r7tp
     verified: false
-    hashtags: "#natureathome, #christianmingle, #ithinkimfunny, #werkitfromhome"
-  - username: "alexcosta"
+    hashtags: "#colorcustomizer, #fyp, #foryou, #indoorlooks"
+  - username: "wasiclothing"
     fullname: >-
-      Alex Costa
+      Wasi Clothing
+    bio: >-
+      🇧🇴 Small biz based in Los Angeles! Click link to check out shop!
     location: "United States"
-    followers: 176193
-    engagement: 777
-    commentsToLikes: 0.011012
-    id: ck9v50t29w8id0j78o2gbjyz6
-    verified: true
-    hashtags: "#mensfragrance, #sportscar, #fitness, #goingpro"
-  - username: "laura88lee"
+    followers: 75400
+    engagement: 2071
+    commentsToLikes: 0.038919
+    id: ckbf4mgp0t46m0j232lcn5438
+    verified: false
+    hashtags: "#familialatina, #fyp, #goodvibes, #dayinmylife"
+  - username: "norwegianwoodangie"
     fullname: >-
-      Laura88Lee
+      Angie Johnson
+    bio: >-
+      Los Angeles, Small Biz Owner, Dog Obsessed, Product Designer, DIY/Renos, Plants
     location: "United States"
-    followers: 402886
-    engagement: 1025
-    commentsToLikes: 0.005677
-    id: ckact0rj6clwz0i78o1cwbvw1
-    verified: true
-    hashtags: "#freezeframe, #werkitfromhome, #whatisthat, #couples"
+    followers: 8861
+    engagement: 608
+    commentsToLikes: 0.081645
+    id: ckcdmdchta42i0j239vzp8zs3
+    verified: false
+    hashtags: "#genx, #learnontiktok, #selfemployedlife, #manitoba"
 ---

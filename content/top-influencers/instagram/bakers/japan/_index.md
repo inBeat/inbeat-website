@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Japan In 2020
 description: >-
-  Find top bakers Instagram influencers in Japan in 2020. Most popular hashtags: #pr #black #takeout #white.
+  Find top bakers Instagram influencers in Japan in 2020. Most popular hashtags: #bread #pr #sourdough #bikersofinstagram.
 platform: Instagram
+hits: 69
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 69 Instagram influencers like this in Japan for you to contact.
 profiles:
   - username: "iamlilfroggy"
     fullname: >-
       🐸小青蛙
+    bio: >-
+      🇭🇰🇨🇳🇬🇧/LSE/Math major👩🏻‍🎓/amateur artist👩🏻‍🎨/ passionate baker👩🏻‍🍳⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ 💌puddingzmt@gmail.com for collaboration 📍currently in 🇭🇰
     location: "Japan"
-    followers: 272270
-    engagement: 291
-    commentsToLikes: 0.007869
+    followers: 303778
+    engagement: 232
+    commentsToLikes: 0.009945
     id: ck6uhnbkma4a20j71a8ukuxtx
     verified: false
-    hashtags: "#birthday, #pillowchallenge, #pillowdresschallenge, #edgii"
+    hashtags: "#filmphotography, #vogue, #cartier, #event"
   - username: "nov1966"
     fullname: >-
       E.nov
+    bio: >-
+      Self-taught baker Bread is art Japan niigata🇯🇵 La Boulangerie Richer
     location: "Japan"
     followers: 28003
     engagement: 316
     commentsToLikes: 0.010827
     id: ck8t2dd2gz1rt0j789d2atkyx
     verified: false
-    hashtags: "#kouignamann, #pistache, #baguette, #myrtille"
-  - username: "himemode"
+    hashtags: "#sourdough, #danois, #viennoiserie, #naturalyast"
+  - username: "konel_bread"
     fullname: >-
-      "野本愛＊Megumi Nomoto"
+      Ran
+    bio: >-
+      konel（こーねる） Bread artist！ Tokyo🇯🇵 著書📙「しあわせのイラストパン 」 切ると絵がでるパン、#イラストパン 考案者 “美味しくて可愛いパン”を色々作っています◎ 著書 📙「イラストパンレシピBOOK」 営利宣伝目的のデザインの模倣ご遠慮下さい！
     location: "Japan"
-    followers: 30604
-    engagement: 112
-    commentsToLikes: 0.081969
-    id: ck0w0q934ficl0i1919l64i06
+    followers: 331116
+    engagement: 189
+    commentsToLikes: 0.011614
+    id: ck5c4mstv1o720i11g4hivj64
     verified: false
-    hashtags: "#pudding, #naturalcosmetic, #japanesefashion, #myroom"
-  - username: "hijikimom"
+    hashtags: "#catstagram, #bear, #loafbread, #bread"
+  - username: "ennmoo1208"
     fullname: >-
-      Yuki
+      🌸emily❤︎asuna🌸
+    bio: >-
+      ASUƝA④
     location: "Japan"
-    followers: 6332
-    engagement: 1756
-    commentsToLikes: 0.057933
-    id: ck5zlnvg7l2lb0i14embxlcvz
+    followers: 34656
+    engagement: 250
+    commentsToLikes: 0.031998
+    id: ckap10tgbsmu30i7899a31kls
     verified: false
-    hashtags: "#happyeaster, #cccphotolifelab, #bobsredmill, #yukis"
-  - username: "twoplatesonespoon"
+    hashtags: "#justbaby, #pr, #urbancherry, #4bwatches"
+  - username: "_tomomi18"
     fullname: >-
-      Sydney Foodie | Jen
+      tomomi
+    bio: >-
+      👧 6y 👦 2y 👩母管理 いいね、コメント、フォローありがとうございます♡
     location: "Japan"
-    followers: 3733
-    engagement: 1530
-    commentsToLikes: 0.285889
-    id: ck0ttrk9m40hn0i197nb4pw8w
+    followers: 39212
+    engagement: 209
+    commentsToLikes: 0.016001
+    id: ck5hmi6pslzvx0i11788qlfnf
     verified: false
-    hashtags: "#dessertbae, #vscofood, #keepsafe, #instadrink"
-  - username: "chiakiinengland"
-    fullname: >-
-      🌸Chiaki🌸Lifestyle Influencer✈️
-    location: "Japan"
-    followers: 121420
-    engagement: 645
-    commentsToLikes: 0.016531
-    id: ck5cbh34dff190i11daf9qnw4
-    verified: false
-    hashtags: "#fasion, #lipstick, #chanelbag, #dancingontheinside"
+    hashtags: "#kidsfashion, #yuzuharu, #coordinate, #pr"
   - username: "mmm_09"
     fullname: >-
       minami
+    bio: >-
+      ありがとうございました 終 ↓ ↓
     location: "Japan"
-    followers: 26676
-    engagement: 282
-    commentsToLikes: 0.006977
+    followers: 25221
+    engagement: 302
+    commentsToLikes: 0.006465
     id: ckap8gl13o7xq0i7878odewyt
     verified: false
-    hashtags: "#bakery, #nomonday, #madeleine, #rollcake"
-  - username: "yumi.polish"
+    hashtags: "#room, #myroom, #apartment, #interior"
+  - username: "fumigrafico"
     fullname: >-
-      ❤︎Yumi❤︎
+      fumigrafico フミグラフィコ
+    bio: >-
+      Micro sourdough bakery in Tokyo. 火水金土 〜20時 フミグラフィコは店主がたった一人で営むマイクロベーカリーです。店舗を持たず、販売は夕方から、などご不便をおかけしますが、その分ていねいな仕事を心がけ、納得のできるパンだけを味わっていただけるように精進します。
     location: "Japan"
-    followers: 34965
-    engagement: 312
-    commentsToLikes: 0.051129
-    id: ck5cky6dqxumh0i11b1l9n3pj
+    followers: 27323
+    engagement: 324
+    commentsToLikes: 0.012682
+    id: ck15uaazfm6un0i19rjefuyrg
     verified: false
-    hashtags: "#tiktok, #bakerylaboquadrophenia, #nike, #okinawa"
-  - username: "__blooper_kid__"
+    hashtags: "#ilovebaking, #bread, #yoyogiuehara, #ubereats"
+  - username: "atsushi_kurumata"
     fullname: >-
-      💮jasiii💮
+      🇺🇸ATSUSHI KURUMATA🇯🇵
+    bio: >-
+      オーナーシェフ 🍔THE GREAT BURGER 🍔THE GREAT BURGER STAND 🍩GOOD TOWN DOUGHNUTS 🍕GOOD TOWN BAKEHOUSE 🍞THE LITTLE BAKERY TOKYO 🍚THE TEISYOKU SHOP が直営店 他プロデュース多数
     location: "Japan"
-    followers: 3640
-    engagement: 2102
-    commentsToLikes: 0.085197
-    id: ck9wicvzd1ra70j78e0ckt3w4
+    followers: 17473
+    engagement: 279
+    commentsToLikes: 0.006041
+    id: ckf5w0i64qh8u0j2339caemk3
     verified: false
-    hashtags: "#worldbestgram, #canon, #sundaypic, #liketolike"
-  - username: "adith_officiall"
+    hashtags: "#thelittlebakerytokyo, #ecobag, #thegreatburger, #thegreatburgerstand"
+  - username: "emo_thinker"
     fullname: >-
-      Adith
+      ابجت  🔴
+    bio: >-
+      ABhi (royalenfield) 🏍 . standard 350 . BikeR🌍 . Fitness model💪 . Modelling👕 . mechanical 🛠 . palakkad | kochi . powered by: @pvrwheelsroyalenfield
     location: "Japan"
-    followers: 37262
-    engagement: 498
-    commentsToLikes: 0.014012
-    id: ck5cchg2yhdbc0i11swel8lrz
-    verified: true
-    hashtags: "#school, #memoriesforlife, #naresh, #warriors"
+    followers: 7791
+    engagement: 1991
+    commentsToLikes: 0.054009
+    id: ckap2k38zz6e20i78aet83e5p
+    verified: false
+    hashtags: "#speed, #moto, #bikersaroundtheglobe, #entekeralam"
+  - username: "ca329ino"
+    fullname: >-
+      いちこ🌱Ichico
+    bio: >-
+      ちょっとだけバイクが好きなOL @xxmotoholicxx Born 🇺🇸 grew up🇨🇿 Z900/Daytona675/ksr110/serow on restore
+    location: "Japan"
+    followers: 21587
+    engagement: 1414
+    commentsToLikes: 0.030490
+    id: ck13ak7gzqrzi0i19cfkqoifg
+    verified: false
+    hashtags: "#kawasakigirl, #girlsbiker, #ss, #kawasakizclub"
 ---

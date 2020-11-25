@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In India In 2020
 description: >-
-  Find top illustrators Instagram influencers in India in 2020. Most popular hashtags: #nature #follow #logo #artist.
+  Find top illustrators Instagram influencers in India in 2020. Most popular hashtags: #illustration #digitalart #artist #art.
 platform: Instagram
+hits: 211
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 211 Instagram influencers like this in India for you to collaborate.
 profiles:
   - username: "artist_teju_jangid"
     fullname: >-
       Teju jangid (suthar)
+    bio: >-
+      Artist, Writer, illustrator DM for paid work Brand/collab/paid promotion - tejumsuthar818@gmail.com Featured on @thrive @medium Order on fiverr
     location: "India"
-    followers: 17765
-    engagement: 1864
-    commentsToLikes: 0.049511
+    followers: 22527
+    engagement: 1135
+    commentsToLikes: 0.035760
     id: ck0tuuj8g8q860i19oyrxs8q5
     verified: false
-    hashtags: "#gaminglogo, #logos, #riprishikapoor, #carryminati"
-  - username: "callmeimmmature"
+    hashtags: "#illustrationoftheday, #caricature, #illustrator, #conceptartist"
+  - username: "the_mandix_creation"
     fullname: >-
-      deepika shindey
+      vector / illustrator
+    bio: >-
+      ]Vector Art || illustrator ]I can Draw your Vector 🎨 ]💲[only paid] 💲 ]Book your order now..👇👇
     location: "India"
-    followers: 5439
-    engagement: 1322
-    commentsToLikes: 0.084655
-    id: ck8t4k7to723q0j78xyjhpukx
+    followers: 6155
+    engagement: 1324
+    commentsToLikes: 0.092759
+    id: ckap54j3ka6380i78ypt973um
     verified: false
-    hashtags: "#stylediaries, #stayhome, #covid, #stylinginspo"
-  - username: "tejas_illustrator"
+    hashtags: "#vectorxvexel, #vector, #vexelartwork, #artoninstagram"
+  - username: "dhwani09"
     fullname: >-
-      Tejas illustrator
+      D H W A N I I I I 🧿
+    bio: >-
+      📍Mumbai xx with xx tatts❗️ Founder: @queeninwithd ✨ influencer, business owner, illustrator, fashion designer for now🦋 Business/collaborations via 📧
     location: "India"
-    followers: 45875
-    engagement: 1579
-    commentsToLikes: 0.016233
-    id: ck9wh5hfmwcc70j78ux7w6mjj
+    followers: 118109
+    engagement: 557
+    commentsToLikes: 0.015699
+    id: ck15u4a4qlcv40i19w0p3hskm
     verified: false
-    hashtags: "#likeforfollow, #maharashtra, #mobile, #vijaymahar"
+    hashtags: "#influencers, #fashion, #indianinfluencer, #viral"
+  - username: "mamia.jsk"
+    fullname: >-
+      Mamia Shajaffar
+    bio: >-
+      It was meant be cute like "je vais te manger tout cru" etc you know. . Illustrator | dancer | model | writer | list goes on. Dm for orders.
+    location: "India"
+    followers: 19748
+    engagement: 754
+    commentsToLikes: 0.022765
+    id: ck5c1oo43vm2c0i11dy7zg17u
+    verified: false
+    hashtags: "#nofilter"
   - username: "illustrationsbyjyoti"
     fullname: >-
       Jyoti Saha
+    bio: >-
+      Fashion designer | Fashion illustrator | Artist Email for commission work and wedding e-invites Chhattisgarh, India 🇮🇳
     location: "India"
-    followers: 3227
-    engagement: 5505
-    commentsToLikes: 0.042488
+    followers: 7329
+    engagement: 2474
+    commentsToLikes: 0.037380
     id: ckap84es3msau0i789j8cfro2
     verified: false
-    hashtags: "#artist, #hairstrokes, #abayadubai, #joda"
-  - username: "mamia.jsk"
+    hashtags: "#fashiondesign, #artgram, #fashionillustrator, #illustration"
+  - username: "the_artrider"
     fullname: >-
-      Mamia Shajaffar Khan
+      Sagar | the_artrider 👽
+    bio: >-
+      I’M THE COMBO OF ART🎨&RIDE🏍 ➖ ILLUSTRATOR & DESIGNER☢️ ➖ MINE💞ZARIA ➖ Designer @custom_exoticz ➖ JST #artrider THINGS💥 ➖ Powered by @ktm_india
     location: "India"
-    followers: 9450
-    engagement: 752
-    commentsToLikes: 0.048880
-    id: ck5c1oo43vm2c0i11dy7zg17u
+    followers: 19407
+    engagement: 1450
+    commentsToLikes: 0.068357
+    id: ck0u6l0kc27z90i199cj326wx
     verified: false
-    hashtags: "#khaadi, #christmas2019, #facetime, #facetimeshooting"
-  - username: "v.i.k.r.a.m.a.n"
-    fullname: >-
-      vikraman
-    location: "India"
-    followers: 3059
-    engagement: 2664
-    commentsToLikes: 0.195741
-    id: ck9hcbv0mkokq0j78abpytfog
-    verified: false
-    hashtags: "#bajaj, #quarantine, #friendsforever, #keralawedding"
+    hashtags: "#ktmofficial, #bikergram, #bikersofinsta, #modifiedbikes"
   - username: "shyamli"
     fullname: >-
-      Art Burr Panda
+      Shyamli Panda
+    bio: >-
+      @devilztattooz * Graphic Artist/Illustrator / Tattoo Artist/Yoga Lover/ Chocolate Eater *
     location: "India"
-    followers: 11118
-    engagement: 803
-    commentsToLikes: 0.013719
+    followers: 11895
+    engagement: 721
+    commentsToLikes: 0.017601
     id: ck15qf0z52iz20i19ppeal5p1
     verified: false
-    hashtags: "#fossils, #dancertattoo, #freedomtattoo, #wacomcintiq"
-  - username: "stationery_hoe"
-    fullname: >-
-      Kasturi Roy
-    location: "India"
-    followers: 22687
-    engagement: 340
-    commentsToLikes: 0.081493
-    id: ck0u81lve67xg0i19pvwgf788
-    verified: false
-    hashtags: "#doodling, #covid19, #drawing, #galaxyart"
+    hashtags: "#devilztattooz, #wip, #artpanda, #wfh"
   - username: "muhammed__suhail_"
     fullname: >-
       muhammed suhail
+    bio: >-
+      • Artist • Illustrator Youtube:
     location: "India"
-    followers: 3461
-    engagement: 1927
-    commentsToLikes: 0.091895
+    followers: 3409
+    engagement: 2091
+    commentsToLikes: 0.087047
     id: ckaouz0xf2f5b0i7885zlhgc1
     verified: false
-    hashtags: "#conceptart, #sketching, #ghost, #instaart"
-  - username: "the_artrider"
+    hashtags: "#pencildrawing, #artist, #artwork, #peopleinframe"
+  - username: "ab_aspects"
     fullname: >-
-      Sagar | the_artrider
+      AB_aspects
+    bio: >-
+      artist,only when I get a free time🤠 Crazy illustrator🤪 Indian cinema lover🤩😍 Not for commercials 👋 Buddy 👬👫👭
     location: "India"
-    followers: 16073
-    engagement: 1082
-    commentsToLikes: 0.098992
-    id: ck0u6l0kc27z90i199cj326wx
+    followers: 21436
+    engagement: 2045
+    commentsToLikes: 0.013017
+    id: ck8syl2g2l58h0j78cs3nhv40
     verified: false
-    hashtags: "#autologuedesign, #ktmduke390, #moodygrams, #zaria"
+    hashtags: "#movieart, #illustration, #minimalillustration, #tributeillustration"
+  - username: "indian_illustrator"
+    fullname: >-
+      Uday Mohite
+    bio: >-
+      Samsung Galaxy Expert Illustrator from Mumbai
+    location: "India"
+    followers: 68324
+    engagement: 1237
+    commentsToLikes: 0.026178
+    id: ck8ta47iqqeqw0j78iefgek1n
+    verified: false
+    hashtags: "#work, #art, #coronawarriors, #devi"
 ---

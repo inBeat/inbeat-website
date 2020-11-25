@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Manchester In 2020
 description: >-
-  Find top fashion TikTok influencers in Manchester in 2020. Most popular hashtags: #fashion #lockdown #tiktokfashion #foryou.
+  Find top fashion TikTok influencers in Manchester in 2020. Most popular hashtags: #fyp #foryou #fashion #manchester.
 platform: TikTok
+hits: 19
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 19 TikTok influencers like this in Manchester, United Kingdom for you to work with.
 profiles:
   - username: "shaandar786"
     fullname: >-
       shaandar Jewellers 
+    bio: >-
+      shaandar Jewellers 341 cheetham hill road Manchester m80sf
     location: "United Kingdom"
-    followers: 103435
-    engagement: 366
-    commentsToLikes: 0.004896
+    followers: 136400
+    engagement: 352
+    commentsToLikes: 0.004644
     id: cka0nx2p714w40i78w3b4kq0q
     verified: false
-    hashtags: "#instagram, #ukjeweller, #jewellers, #stayhome"
-  - username: "beautyfulpeople_"
+    hashtags: "#pakistaniclothing, #jewellery, #jeweller, #scrapgoldbuyer"
+  - username: "mollhunterxoxo"
     fullname: >-
-      Michael Murphy
+      Molly Hunter 
+    bio: >-
+      𝑀𝑜𝓁𝓁𝓎 / 21 ⇾ Model / Influencer ⇾ Beauty Queen 👑 OF link in insta bio 🤫
     location: "United Kingdom"
-    followers: 11964
-    engagement: 357
-    commentsToLikes: 0.028380
-    id: cka5zg4a8mmj70i78bc8anlrv
+    followers: 17800
+    engagement: 407
+    commentsToLikes: 0.042814
+    id: ckbf62by7vf650j23ir724j7g
     verified: false
-    hashtags: "#aunty, #gcpride, #familyfued, #saturday"
-  - username: "jchristophertate"
+    hashtags: "#linkinmybio, #trend, #fyp, #boohoo"
+  - username: "josefmichael_"
     fullname: >-
-      J Christopher Tate
+      Joe Hall
+    bio: >-
+      Manchester lad
     location: "United Kingdom"
-    followers: 18425
-    engagement: 1039
-    commentsToLikes: 0.032339
-    id: ck80oczocgwp90j78zyxtablz
+    followers: 33700
+    engagement: 1022
+    commentsToLikes: 0.016494
+    id: ckblp4okagurq0j23srynax9j
     verified: false
-    hashtags: "#liverpool, #sunderland, #sneakers, #designer"
-  - username: "sarahismailll"
+    hashtags: "#fyp, #outfitinspiration, #autumnfashion, #tiktokfashion"
+  - username: "georgiablacklidge"
     fullname: >-
-      Sarah Ismail 
+      geee 🦋🤍
+    bio: >-
+      22 🦋 IG: georgia.blacklidge just don’t take me too seriously
     location: "United Kingdom"
-    followers: 2964
-    engagement: 888
-    commentsToLikes: 0.079834
-    id: cka6f0yo6du6r0i78bxk2zfie
+    followers: 5207
+    engagement: 601
+    commentsToLikes: 0.023401
+    id: ckbb79tgdx9um0j23jajpi3p8
     verified: false
-    hashtags: "#gfriend, #fashion, #viralvideo, #yummy"
-  - username: "aaaaaaaaaabi"
+    hashtags: "#fyp, #xyzbca, #foryou, #transformation"
+  - username: "groovycatgarms"
     fullname: >-
-      ABI ♡
+      Groovy Cat Garms
+    bio: >-
+      Groovy Garms for Groovy Cats 🤩 📍Manchester Depop @gr00vy_cat
     location: "United Kingdom"
-    followers: 82047
-    engagement: 2183
-    commentsToLikes: 0.047148
-    id: ck8ore7ggbtbk0j78oa0jts08
+    followers: 5077
+    engagement: 1337
+    commentsToLikes: 0.043146
+    id: ckd18y4pqqi890j23sug0oppn
     verified: false
-    hashtags: "#hairbun, #verucasalt, #fashionblogger, #peterpan"
-  - username: "newlook"
+    hashtags: "#groovy, #screenprinting, #halloween, #clothingbrand"
+  - username: "helenadarcykanee"
     fullname: >-
-      New Look
+      helenadarcykane ! 🦄🍓
+    bio: >-
+      🌈✨ 💌 🧚🏼‍♀️🦋i sing im bi <3 insta: helenadarcykane nineteen 💘 manchester
     location: "United Kingdom"
-    followers: 4395
-    engagement: 2166
-    commentsToLikes: 0.032565
-    id: ck9fpaeas6cn50j780ra1q5t5
+    followers: 6043
+    engagement: 1086
+    commentsToLikes: 0.043727
+    id: ckav0dwub622c0j23dzfb4q09
     verified: false
-    hashtags: "#fashion, #tiktok, #happyathome, #heels"
-  - username: "cristina_yin"
+    hashtags: "#uk, #halloween, #devil, #ariana"
+  - username: "mktheplug_"
     fullname: >-
-      ⍣ Cristina ✵ ﾟ⋆
+      Mktheplug
+    bio: >-
+      🇵🇰 | Manchester | 18 Black lives matter EVERYDAY
     location: "United Kingdom"
-    followers: 33351
-    engagement: 1824
-    commentsToLikes: 0.019378
-    id: ck9v8mr8kaf100j783bcs266p
+    followers: 7129
+    engagement: 1760
+    commentsToLikes: 0.046722
+    id: cka64zjvnav9w0i78q5clvmsg
     verified: false
-    hashtags: "#dessert, #hamandcheese, #aesthetics, #drinkaesthetic"
-  - username: "lagypsyqueen"
+    hashtags: "#hijabi, #xyzbca, #fyp, #viral"
+  - username: "faithinfashion"
     fullname: >-
-      LaGypsyQueen
+      Faith woodhall
+    bio: >-
+      FASHION INSPO Shein 15% code: FAITHINW15 All socials linked below⬇️⬇️
     location: "United Kingdom"
-    followers: 2056
-    engagement: 1126
-    commentsToLikes: 0.295599
-    id: ckahwtadcsewa0i7865oidxxa
+    followers: 24100
+    engagement: 510
+    commentsToLikes: 0.017206
+    id: ckamlx0fwy1mq0i78kci93exz
     verified: false
-    hashtags: "#modeljob, #tiktokfashion, #loungewear, #friendofdorothy"
-  - username: "naomijaneadams_"
+    hashtags: "#autumnfashion, #foryou, #mystyle, #boohoobabes"
+  - username: "imangadzhi"
     fullname: >-
-      Naomi Jane Adams
+      Iman Gadzhi
+    bio: >-
+      Founder - GrowYourAgency.com 🐳 On A Mission To Reform The Education System 📚
     location: "United Kingdom"
-    followers: 2929
-    engagement: 1401
-    commentsToLikes: 0.031662
-    id: cka0paawl7fy80i78ohqh4db5
-    verified: false
-    hashtags: "#zakynthos, #hotel, #ocean, #free"
-  - username: "theclassyman"
+    followers: 22900
+    engagement: 882
+    commentsToLikes: 0.121620
+    id: ckb9a10f1unud0j238mela4g7
+    verified: true
+    hashtags: "#entrepreneur, #business, #fashion, #mensfashion"
+  - username: "jasminwhelan_"
     fullname: >-
-      The Classy Man
+      jasminwhelan
+    bio: >-
+      @jasminwhelan 21buttons.com/jasminwhelan/
     location: "United Kingdom"
-    followers: 271090
-    engagement: 337
-    commentsToLikes: 0.030142
-    id: ck81qvrqmkafb0j78j7zf3a2p
+    followers: 6362
+    engagement: 1049
+    commentsToLikes: 0.029034
+    id: ckav1f8dm7fx20j23zsmrbqyl
     verified: false
-    hashtags: "#gianlucavacchi, #gentslounge, #hairstyle, #audrey"
+    hashtags: "#clothes, #houseoftiktok, #haul, #zara"
 ---

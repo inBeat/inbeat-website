@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Miami In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Miami in 2020. Most popular hashtags: #tattooartist #quarantine #skulltattoo #floridatattoo.
+  Find top tattoo-artists Instagram influencers in Miami in 2020. Most popular hashtags: #tattoo #miami #inked #tattoos.
 platform: Instagram
+hits: 47
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 47 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
+  - username: "tatubaby"
+    fullname: >-
+      Tatu Baby
+    bio: >-
+      ONLY other IG @TatuBabyTattoos Bookings ❌ email TatuBabyTattoo@gmail.com 🇨🇴 Owner of @TillTheEndTattoos Vh1 Cartel Crew 🎥 Proud Mom 👶🏽 YO REINARE👑
+    location: "United States"
+    followers: 1496821
+    engagement: 192
+    commentsToLikes: 0.009903
+    id: ck5bu7aiyha2s0i11zvlkgitr
+    verified: true
+    hashtags: "#tatubabytattoos, #tilltheendtattoogallery, #miamitattooartist, #balmtattooprotem"
   - username: "waz.art"
     fullname: >-
       WAZ
+    bio: >-
+      MIAMI TATTOO ARTIST @Equilattera 📩 appt@equilattera.com ❌ NO DM for tattoo inquiries 🔻YouTube🔻
     location: "United States"
-    followers: 67649
-    engagement: 165
-    commentsToLikes: 0.022206
+    followers: 66931
+    engagement: 158
+    commentsToLikes: 0.029079
     id: ck6tp4kp7hss80j71i58vmhps
     verified: false
-    hashtags: "#musictattoos, #matchingtattoos, #dotworktattoos, #seedoflife"
-  - username: "jordi_m4l"
+    hashtags: "#miamibeach, #minimaltattoo, #floridatattoo, #linestattoo"
+  - username: "lulutattooart"
     fullname: >-
-      Jordi Alejandro Pla
+      Lulu • Miami Tattoo Artist •
+    bio: >-
+      Tattoo Artist ❖@thegoldenneedle_tattoos❖ ProTeam @fytsupplies Sponsors: @balmtattoous & @viking_inks Booking: booking@lulutattoo.art | +17868654194
     location: "United States"
-    followers: 24865
-    engagement: 160
-    commentsToLikes: 0.044009
-    id: ck5hls9aekrjg0i11nlbovexf
+    followers: 41655
+    engagement: 192
+    commentsToLikes: 0.064847
+    id: ck6u738uyj7ss0j71buu8lb7o
     verified: false
-    hashtags: "#bostontattoos, #bromo, #miamj, #marked4life"
+    hashtags: "#miamitattoo, #wynwood, #owltattoo, #femaleartist"
+  - username: "indigofox__"
+    fullname: >-
+      #artangel
+    bio: >-
+      NEOHUMAN🌱Tatu Artist🌱Tech Architect 🌱Vegan🌱Lover🌱 @blackmedicinetatu.
+    location: "United States"
+    followers: 8470
+    engagement: 507
+    commentsToLikes: 0.050291
+    id: ck6u8ir47rtr00j71e56qbu9g
+    verified: false
+    hashtags: "#explore, #blacktatu, #tatu, #vegan"
+  - username: "strokin_dark"
+    fullname: >-
+      Dark Art
+    bio: >-
+      🇷🇺 🇯🇵 🇩🇪 🇮🇩 🇨🇿 🇮🇱 🇨🇳🇳🇴🇳🇱🇫🇷🇸🇪🇹🇷🇬🇷🇬🇧🇮🇪🇻🇦🇺🇸 🇵🇹🇹🇭 ✉️christapostol@gmail.com
+    location: "United States"
+    followers: 19360
+    engagement: 287
+    commentsToLikes: 0.009426
+    id: ck5bubcqihhe70i111v7gzss6
+    verified: false
+    hashtags: "#losangeles, #dark, #tat, #la"
   - username: "luisgil_art"
     fullname: >-
       Luis Gil
+    bio: >-
+      Miami, Florida 🇺🇸🇻🇪 🔹Tattoo artist and owner @mejorartestudio🔹 Sponsor: @viking_inks - @balm_tattoo Book now: 📆 Luisgil.citastattoo@gmail.com
     location: "United States"
     followers: 60637
     engagement: 147
     commentsToLikes: 0.172237
     id: ck5bw7luml5cv0i112rdaia3w
     verified: false
-    hashtags: "#repost, #concurso, #instagram, #giveaway"
-  - username: "lulutattooart"
+    hashtags: "#tattoodesign, #mundoskink, #305, #mejorartetattoostudio"
+  - username: "boloarttattoo"
     fullname: >-
-      Lulu
+      ᏴOᏞO
+    bio: >-
+      вoιoтaттoos@yaнoo.coм 📩 Studio•@thegoldenneedle_tattoos
     location: "United States"
-    followers: 40255
-    engagement: 180
-    commentsToLikes: 0.055488
-    id: ck6u738uyj7ss0j71buu8lb7o
+    followers: 229921
+    engagement: 270
+    commentsToLikes: 0.025110
+    id: ck0w1fxvrj5cq0i198e4vmoj1
     verified: false
-    hashtags: "#mariquita, #happy, #stitchtattoo, #surrealist"
-  - username: "rey_arttattoo"
+    hashtags: "#cuba, #tattooartist, #realistictattoo, #tattooedgirls"
+  - username: "nate_needles"
     fullname: >-
-      ⚜️Rey⚜️
+      Nate Needles
+    bio: >-
+      @highnoontattoofl @nate_needless @tattoo_yardist For appointments ⤵️ Dm or email
     location: "United States"
-    followers: 39101
-    engagement: 62
-    commentsToLikes: 0.114752
-    id: ck15tc8bbhdp80i191x22dk32
+    followers: 28466
+    engagement: 267
+    commentsToLikes: 0.038708
+    id: ck6tr03d5vxnx0j71y63g4ua8
     verified: false
-    hashtags: ""
-  - username: "ernee_"
+    hashtags: "#downtownmelbourne, #ink, #tattoomodel, #jacksonvilletattooartist"
+  - username: "marsinks"
     fullname: >-
-      
+      𝕸𝖆𝖗𝖘
+    bio: >-
+      ✨ Miami • Art • Tattoos • Anime ✨ Bright bold and cute 🌈 Tattoo artist @blackborneo.tattoostudio DM to book 💌 Serious inquires only Shop link below ⬋
     location: "United States"
-    followers: 31937
-    engagement: 353
-    commentsToLikes: 0.027051
-    id: ck15q5kpc17n60i198lavweh5
+    followers: 5049
+    engagement: 835
+    commentsToLikes: 0.056610
+    id: ckf5tv4gpiuys0j233xzmrq6k
     verified: false
-    hashtags: "#fatbob, #cafecitochallenge, #harleydavidson, #miami"
-  - username: "gabrielink_art"
+    hashtags: "#japan, #nerdytattoos, #miamitattoos, #miamitattooshop"
+  - username: "the_world_of_laeti"
     fullname: >-
-      Gabriel Gonzalez
+      Laëtitia Luccioni 🌪 From 🇫🇷 🌍
+    bio: >-
+      Blogger Welcome on my IG! Welcome in the world of realistic tattoo I'M NOT A TATTOO ARTIST ⚠️ Eu não sou uma artista tatuador⚠️
     location: "United States"
-    followers: 137961
-    engagement: 136
-    commentsToLikes: 0.030770
-    id: ck6tr014dvwyw0j712dhusv3t
+    followers: 81107
+    engagement: 143
+    commentsToLikes: 0.008779
+    id: ck0w2kuyeovdx0i19fp3gxmk6
     verified: false
-    hashtags: "#broward, #mermaidtattoos, #ocean, #newyorkcity"
-  - username: "andrezvizuals"
-    fullname: >-
-      𝐀𝐍𝐃𝐑𝐄𝐙
-    location: "United States"
-    followers: 6939
-    engagement: 552
-    commentsToLikes: 0.086785
-    id: ck15pbh1dx1r10i19xjfqpi9b
-    verified: false
-    hashtags: "#innerwork, #sunflare, #coffeetime, #palmtrees"
-  - username: "antoniomackotodisco"
-    fullname: >-
-      ANTONIO MACKO ™ TODISCO
-    location: "United States"
-    followers: 354530
-    engagement: 130
-    commentsToLikes: 0.013507
-    id: ck13b3bejtgqn0i19w6dnwpst
-    verified: false
-    hashtags: "#tattooist, #amazingink, #blackandgreytattoo, #bishopfamily"
-  - username: "kristeloreto"
-    fullname: >-
-      KRISTEL ORETO
-    location: "United States"
-    followers: 67788
-    engagement: 153
-    commentsToLikes: 0.040097
-    id: ck6tojllzefqe0j71fp9rxk2u
-    verified: false
-    hashtags: "#duet, #theartofonlinedating, #graffitipier, #quarantinelife"
+    hashtags: "#tattooed, #tattooist, #colortattoo, #tattoo"
 ---

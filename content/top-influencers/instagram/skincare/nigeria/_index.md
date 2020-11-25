@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top skincare Instagram influencers in Nigeria in 2020. Most popular hashtags: #skincare #skincareroutine #beauty #quarantine.
+  Find top skincare Instagram influencers in Nigeria in 2020. Most popular hashtags: #endsars #endpolicebrutality #endswat.
 platform: Instagram
+hits: 66
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 66 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
-  - username: "amara_okonkwo_"
+  - username: "nellyville01"
     fullname: >-
-      𝕍𝕙𝕚𝕫 𝕋𝕚𝕨𝕒
+      Nelly
+    bio: >-
+      CEO : @nellyville_beautyplace 💁 @nellyville_skincare @freshchills_treats Insist on urself, never imitate 😜 PROUDLY DELTA👍👍👍. snapchat: nellyville9
     location: "Nigeria"
-    followers: 182743
-    engagement: 116
-    commentsToLikes: 0.076687
-    id: ck5pvmmrbimaw0i11v0b8zf2l
+    followers: 9624
+    engagement: 918
+    commentsToLikes: 0.037623
+    id: ckap4v6rt90ql0i785au28lcb
     verified: false
-    hashtags: "#skincareowerri, #skincare, #amaraokonkwo, #skincareasaba"
+    hashtags: "#cappadocia, #loved, #cheers, #happynewmonth"
+  - username: "ikemeamara"
+    fullname: >-
+      Amara🌹
+    bio: >-
+      GREATNESS🇳🇬 EXTROVERT 🥰 HALA MADRID!⚽️ BRAND AMBASSADOR @marymic_organic_skincare_spa BRAND INFLUENCER! Chef 👩‍🍳
+    location: "Nigeria"
+    followers: 77397
+    engagement: 341
+    commentsToLikes: 0.049548
+    id: ck14lr89lw3aq0i19jrobt85w
+    verified: false
+    hashtags: "#endswat, #endeverything, #endsars, #endpolicebrutality"
   - username: "iamyeychii"
     fullname: >-
       Anozie Onyinyechi
+    bio: >-
+      Fashion| Skincare| Lifestyle Helping students become better creatives and own their passion. ✉️- Onyinye@iamyeychi.com
     location: "Nigeria"
-    followers: 12784
-    engagement: 643
-    commentsToLikes: 0.116808
+    followers: 15288
+    engagement: 678
+    commentsToLikes: 0.044310
     id: ckaorw78fp1100i78xx00y8fj
     verified: false
-    hashtags: "#canon, #denimstyle, #whattowear, #quaratine2020"
-  - username: "ama_burland"
-    fullname: >-
-      RICH AUNTY DEEYA
-    location: "Nigeria"
-    followers: 46258
-    engagement: 430
-    commentsToLikes: 0.055951
-    id: ck8tb3t33u5k60j78cti3uvku
-    verified: false
-    hashtags: "#lashes, #ghanahairstyles, #portrait, #diyskincare"
+    hashtags: "#jumianigeria, #endswat, #endpolicebrutality, #nigerianyoutuber"
   - username: "uzodinmaesther"
     fullname: >-
       Esther Uzodinma
+    bio: >-
+      ⬛️Angela In @africamagic MSI⬛️ ▫️TV Presenter▫️ ⬛️BRAND AMBASSADOR⬛️ @dandkenterprise @go_glow_skincare ▫️CONTENT CREATOR▫️ ⬛️Media personality🎥⬛️
     location: "Nigeria"
-    followers: 71568
-    engagement: 567
-    commentsToLikes: 0.078008
+    followers: 100111
+    engagement: 343
+    commentsToLikes: 0.071406
     id: ck15tqr7gjfqi0i19suus260m
     verified: false
-    hashtags: "#instagood, #actinglife, #creative, #promotion"
-  - username: "clinictheaesthetic"
+    hashtags: "#video, #explorepage, #repost, #acting"
+  - username: "chinjunwankwo"
     fullname: >-
-      The Aesthetic Clinic
+      CHINJU NWANKWO UDORA
+    bio: >-
+      Skincare | YOUNG LOVE | Entrepreneurship I make candles that smell @colfragrances YouTube with my husband @obinnaudora Check us out here ⬇️
     location: "Nigeria"
-    followers: 45091
-    engagement: 169
-    commentsToLikes: 0.127087
-    id: ck134gn44wbii0i19omkr8wvt
+    followers: 7107
+    engagement: 845
+    commentsToLikes: 0.111737
+    id: ck55q1zzybx200i11tcaenkoh
     verified: false
-    hashtags: "#beauty, #nonsurgical, #botox, #stayhome"
-  - username: "dfw_oma"
+    hashtags: "#nigerianskincareblogger, #healthyskin, #streetstyleblogger, #neutrogena"
+  - username: "taylercmone"
     fullname: >-
-      Alozie oma
+      Tayler Cmone LLC
+    bio: >-
+      AKA BLACKQUEEN Natural Hair + Skincare + Fashion💕 Vegan + Organic 🌱 61k+Tiktok: @taylercmone Blog @curlqueenuniversity DMV / #VSU ALMUNA 🧡💙🖤🤍
     location: "Nigeria"
-    followers: 24017
-    engagement: 1339
-    commentsToLikes: 0.067013
-    id: ck8syg97rkqnd0j78fjfmxwpz
+    followers: 12137
+    engagement: 326
+    commentsToLikes: 0.055445
+    id: ck9wdh7icfm2n0j78elx5o3gd
     verified: false
-    hashtags: "#skin, #picoftheday, #skincareroutine, #pool"
-  - username: "_kingnheeta"
+    hashtags: "#melaninqueen, #blackgirlhair, #naturalhaircommunity, #blackqueens"
+  - username: "officialadekemitaofeek"
     fullname: >-
-      𝐵𝑒𝓃𝒾𝓉𝒶♥
+      Taofeek Muyiba Adekemi
+    bio: >-
+      Nollywood Actor business pages @mat_divasclothing @omodudu_skincare @wine_affairsbymat
     location: "Nigeria"
-    followers: 13570
-    engagement: 1304
-    commentsToLikes: 0.050537
-    id: ck6tile7k0xtu0j71juxa4vc1
+    followers: 249621
+    engagement: 147
+    commentsToLikes: 0.014430
+    id: ck134jto2ws6s0i19axdb3oie
     verified: false
-    hashtags: "#selfie, #explorers, #bikini, #skincare"
-  - username: "nimiie_"
+    hashtags: ""
+  - username: "lyndaisika"
     fullname: >-
-      NIMI
+      Lynda Isika
+    bio: >-
+      Business Entrepreneur💪 Skincare Guru 👥, Interior Designer🏚,Fashion Stylist WhatsApp:+2348027535695 Snapchat :Mariolynns
     location: "Nigeria"
-    followers: 14322
-    engagement: 1526
-    commentsToLikes: 0.075383
-    id: ck9wfco1po9yk0j78qujg5a85
+    followers: 46580
+    engagement: 42
+    commentsToLikes: 0.048073
+    id: ck55p258f9nkz0i11aeqd1nhy
     verified: false
-    hashtags: "#eyes, #lips, #triller, #giveaway"
-  - username: "belove_falana"
+    hashtags: "#girls, #girlspower, #mariolynnsluxury, #authentic"
+  - username: "cassiedaves"
     fullname: >-
-      Ayanfe Falana
+      Cassandra Ikegbune
+    bio: >-
+      Heavy on feelings. Life | Style | Skincare | Travel Content + Comms @acegid_lab Blog better : @shopcassiedaves 👇🏽Blog + Cape Verde Guide
     location: "Nigeria"
-    followers: 7541
-    engagement: 903
-    commentsToLikes: 0.091715
-    id: ck5zwe33a5yw30i14zhlrnku5
+    followers: 49588
+    engagement: 177
+    commentsToLikes: 0.042726
+    id: ck5qb8mp1kd5h0i11ll7x2onk
     verified: false
-    hashtags: "#sweet16, #slayersonlyy, #christmas, #season"
-  - username: "tamara.aig"
+    hashtags: "#cassiedavesstyle, #osungroove, #endsars, #cassiedavestravels"
+  - username: "realsophy"
     fullname: >-
-      Tamara |The Beauty Guru🇳🇬
+      SHADES OF SOPHIA ♉️
+    bio: >-
+      👩‍🍳Chef @tastewithsophy ✈️Tourist 👻Real_sophy Twitter: Realsophy
     location: "Nigeria"
-    followers: 10144
-    engagement: 1133
-    commentsToLikes: 0.075664
-    id: ck5hdea8mmyju0i11dmzcoeux
+    followers: 72133
+    engagement: 616
+    commentsToLikes: 0.079455
+    id: ck5hrhn71uw9s0i11uinjrqi5
     verified: false
-    hashtags: "#quarantine2020, #4bhairstyles, #naijanaturals, #scarfstyles"
+    hashtags: "#video, #wig, #realsophy, #africa"
 ---

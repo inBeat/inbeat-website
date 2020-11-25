@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Ankara In 2020
 description: >-
-  Find top food TikTok influencers in Ankara in 2020. Most popular hashtags: #ankaral #dessert #ankara #istanbul.
+  Find top food TikTok influencers in Ankara in 2020. Most popular hashtags: #food #ke #yemek #tiktok.
 platform: TikTok
+hits: 5
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 5 TikTok influencers like this in Ankara, Turkey for you to contact.
 profiles:
-  - username: "ayhanmortepe"
+  - username: "alidayibalik"
     fullname: >-
-      ayhanmortepe
+      Ali Dayı 
+    bio: >-
+      🐟Sürgü🐟Malatya🐟Gaziantep🐟Adıyaman İNSTAGRAM 👉🏻 @alidayibalik
     location: "Turkey"
-    followers: 28848
-    engagement: 316
-    commentsToLikes: 0.011433
-    id: ck9f315izfn100j78qg2s3mje
+    followers: 118200
+    engagement: 350
+    commentsToLikes: 0.004626
+    id: ck8kf6no6cspn0j78kieq4ct2
     verified: false
-    hashtags: "#nohutd, #yuvalama, #sarma, #asianfood"
-  - username: "gurmebaba"
-    fullname: >-
-      Gurme Baba
-    location: "Turkey"
-    followers: 2367
-    engagement: 122
-    commentsToLikes: 0.026972
-    id: cka6bl91a0p4m0i78p0n0l9m5
-    verified: false
-    hashtags: "#ekmek, #banana, #boza, #track"
-  - username: "gulabikadayif"
-    fullname: >-
-      gulabikadayif
-    location: "Turkey"
-    followers: 3511
-    engagement: 307
-    commentsToLikes: 0.007794
-    id: ck9fxjtw16ycq0j78x5akz1dt
-    verified: false
-    hashtags: "#cznchallenge, #simit, #dondurma, #majdistanbuly"
-  - username: "zynp40zynp"
-    fullname: >-
-      zynp 
-    location: "Turkey"
-    followers: 188752
-    engagement: 1370
-    commentsToLikes: 0.106630
-    id: ck9fwqz222hnv0j78j5xtaiyy
-    verified: false
-    hashtags: "#ramazanh, #ramadan, #istanbul, #azerbeycan"
-  - username: "tahamerve80"
-    fullname: >-
-      Taha Yasin
-    location: "Turkey"
-    followers: 8743
-    engagement: 321
-    commentsToLikes: 0.060278
-    id: cka9lv2fv3bxz0i78hyo9fyfp
-    verified: false
-    hashtags: "#amazing, #oyuncu, #life, #doomsday"
-  - username: "enesfilm"
-    fullname: >-
-      ENESFİLM
-    location: "Turkey"
-    followers: 14225
-    engagement: 265
-    commentsToLikes: 0.026477
-    id: ck9f1grh47xz90j78fnsmius0
-    verified: false
-    hashtags: "#babyvideos, #foodlove, #evhan, #yemekyap"
+    hashtags: "#fish, #love, #istanbul, #malatya"
   - username: "tuzsuzbaharat"
     fullname: >-
       tuzsuz baharat
+    bio: >-
+      Restorantları gezip teker teker yorumluyoruz, detaylar instagram: @tuzsuzbaharat
     location: "Turkey"
-    followers: 60703
-    engagement: 180
-    commentsToLikes: 0.017333
+    followers: 59700
+    engagement: 178
+    commentsToLikes: 0.016286
     id: ck8kcvuj935a10j78rpco3w2q
     verified: false
-    hashtags: "#mersin, #tereya, #instagram, #ankaral"
+    hashtags: "#ekmek, #gurme, #ankara, #ankarag"
+  - username: "dunyanintadi"
+    fullname: >-
+      Dünyanın Tadı
+    bio: >-
+      Her Cumartesi 15.15’de Kanal7’de Yayınlanan Dünyanın Tadı Programı Resmî Hesabı
+    location: "Turkey"
+    followers: 7247
+    engagement: 254
+    commentsToLikes: 0.019131
+    id: ckbqjyri755vm0j23b2fzn55h
+    verified: false
+    hashtags: "#seyahat, #gezi, #yemektarifleri, #food"
   - username: "katmercibey"
     fullname: >-
       Katmercibey
+    bio: >-
+      İnstagram : katmercibey
     location: "Turkey"
-    followers: 33850
-    engagement: 445
-    commentsToLikes: 0.015127
+    followers: 32300
+    engagement: 443
+    commentsToLikes: 0.015312
     id: ck8kcvvu235n20j78tjmx6spd
     verified: false
-    hashtags: "#hashtag, #video, #eglen, #sislove"
-  - username: "ozanarasb"
+    hashtags: "#katmercibey, #food, #turkiye, #like"
+  - username: "meshuryemek"
     fullname: >-
-      Ozan Aras - Gezgin
+      meshuryemek
+    bio: >-
+      Gurmelik ne haddimize bizim ki "Yemek Aşk'ı"👍
     location: "Turkey"
-    followers: 15598
-    engagement: 179
-    commentsToLikes: 0.015369
-    id: ckacr1fj83e1g0i78ng88nkgr
+    followers: 48800
+    engagement: 359
+    commentsToLikes: 0.010645
+    id: ckbf5cw8ouc960j23q35argd0
     verified: false
-    hashtags: "#huzur, #bizimevdatca, #bansko, #dubai"
-  - username: "antepli.geziyor"
+    hashtags: "#ci, #kebap, #yemektarifleri, #me"
+  - username: "bryan.minaj"
     fullname: >-
-      antepligeziyor
+      Bryan Esquivel
+    bio: >-
+      Instagram: bryan_esquivel587 16 ✨Fast Food✨in the link below👇
     location: "Turkey"
-    followers: 8816
-    engagement: 1010
-    commentsToLikes: 0.007318
-    id: ck8kn2b6mba0x0j78gxhqxnm9
+    followers: 5731
+    engagement: 1268
+    commentsToLikes: 0.072298
+    id: ckb9sxyzqqiv40j23xco4e28x
     verified: false
-    hashtags: "#ankaral"
+    hashtags: "#xyzcba, #meme, #fyp, #ios"
+  - username: "onurgurler"
+    fullname: >-
+      Onur Gurler
+    bio: >-
+      coffee • tech • food • fun ig: monurgurler ⬇️kullandığım ürünler⬇️
+    location: "Turkey"
+    followers: 107700
+    engagement: 931
+    commentsToLikes: 0.014866
+    id: ckbqrizuxcd190j23y5truei4
+    verified: false
+    hashtags: "#sa, #kaps, #vlog, #starbucks"
+  - username: "tahaduymaz"
+    fullname: >-
+      tahaduymaz
+    bio: >-
+      INSTAGRAM Food yemek 🛑👆sayfa
+    location: "Turkey"
+    followers: 738800
+    engagement: 541
+    commentsToLikes: 0.018091
+    id: ckavpgb9n0k570j230vwfse5k
+    verified: true
+    hashtags: "#ke, #tahaduymaz, #fyp, #foryou"
+  - username: "mr.taster"
+    fullname: >-
+      mr.taster
+    bio: >-
+      Foodcritic loving food and travel😍❤️🕺🏾👌
+    location: "Turkey"
+    followers: 101800
+    engagement: 363
+    commentsToLikes: 0.010392
+    id: cka63t2ov5tz80i78dlb8v54n
+    verified: false
+    hashtags: "#iran, #food, #foodlover, #kebab"
+  - username: "aysegultekiner"
+    fullname: >-
+      aysegultekiner
+    bio: >-
+      Tariflerim İNSTAGRAM & YOUTUBE ⬆️
+    location: "Turkey"
+    followers: 24700
+    engagement: 909
+    commentsToLikes: 0.036229
+    id: ck9fwqxo42h840j78kpd8quhr
+    verified: false
+    hashtags: "#yemektarfleri, #food, #ke, #acayipiyi"
 ---

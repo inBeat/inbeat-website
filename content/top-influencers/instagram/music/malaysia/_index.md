@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top music Instagram influencers in Malaysia in 2020. Most popular hashtags: #love #happymothersday #f2fkaki #spicylookchallenge.
+  Find top music Instagram influencers in Malaysia in 2020. Most popular hashtags: #malaysiancover #ootd #cover.
 platform: Instagram
+hits: 101
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 101 Instagram influencers like this in Malaysia for you to work with.
 profiles:
+  - username: "kuangtian_00"
+    fullname: >-
+      Kuang Tian
+    bio: >-
+      Actor.Musician.
+    location: "Malaysia"
+    followers: 12611
+    engagement: 1433
+    commentsToLikes: 0.019326
+    id: ck6tvrfo3nuhs0j717tuomitu
+    verified: false
+    hashtags: "#coachss20, #ghostbride, #coachny, #netflixmy"
+  - username: "uriahsk"
+    fullname: >-
+      Uriah 徐凯
+    bio: >-
+      1 Corinthians 13:4-5 On a Journey 🇲🇾🇨🇳 Singer-songwriter • Actor Managed by Idea Music - 012-3118776 Watch this 👇🏻
+    location: "Malaysia"
+    followers: 78535
+    engagement: 660
+    commentsToLikes: 0.008414
+    id: ck5chxu5irnfp0i11jmpi9bbf
+    verified: true
+    hashtags: "#zenbook, #absoluteinfashion, #ootd, #clarinsmy"
+  - username: "chaleedaxgilbert"
+    fullname: >-
+      🦋Chaleeda🦋
+    bio: >-
+      19 Netflix Original, The Stranded as Arisa ‘ปล่อย (Ploi)’ Official Music Video🎵🎶 for work; @gushcloudth 🤍
+    location: "Malaysia"
+    followers: 236623
+    engagement: 822
+    commentsToLikes: 0.004352
+    id: ck0u137r5vnff0i19xpmk0jt4
+    verified: true
+    hashtags: "#kittykawaiixblogger, #v20series5g, #bethefocus"
   - username: "angelachingwan"
     fullname: >-
       許靖韻 Angela 小背心
+    bio: >-
+      EEG SINGER Music is life 💋 Job inquiry : angela.chingwan@gmail.com 《別為我好》《謝謝 對不起》￼👇🏻
     location: "Malaysia"
-    followers: 121132
-    engagement: 437
-    commentsToLikes: 0.021284
+    followers: 126371
+    engagement: 329
+    commentsToLikes: 0.013236
     id: ck0vxozc9005q0i19l9ph3w3d
     verified: true
-    hashtags: "#pumahk, #bestcrewpr, #avrillavigne, #marcjacobs"
-  - username: "chaleedaxgilbert"
-    fullname: >-
-      chaleeda
-    location: "Malaysia"
-    followers: 241025
-    engagement: 950
-    commentsToLikes: 0.006105
-    id: ck0u137r5vnff0i19xpmk0jt4
-    verified: true
-    hashtags: "#rocketfuelent, #drmartensmalaysia, #noir, #theguitarmagawards2020"
+    hashtags: "#my25, #cover"
   - username: "kayeepo"
     fullname: >-
       譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+    bio: >-
+      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella ☎️公司email : ella.heung@tvb.com.hk 🎥My Latest MV
     location: "Malaysia"
-    followers: 127950
-    engagement: 323
-    commentsToLikes: 0.018581
+    followers: 163791
+    engagement: 311
+    commentsToLikes: 0.013859
     id: ck5c5ipe33jpk0i1117y74mln
     verified: true
-    hashtags: "#loving, #selflove, #rememberwhoyouare, #13"
-  - username: "aiweihero"
+    hashtags: "#mv, #happynight, #loveit, #reallyhocheng1107"
+  - username: "tysnasaputra"
     fullname: >-
-      Aiwei Hero李藹蔚🇹🇼台北🇲🇾ipoh演出歌手
+      TYSNA SAPUTRA
+    bio: >-
+      nice clothing, good music & BTS songs make me happy PRELOVED at @lemari.tysna . 📩 hallo.tysnasaputra@hotmail.com
     location: "Malaysia"
-    followers: 114449
-    engagement: 295
-    commentsToLikes: 0.018963
-    id: ck8sxkbslhpka0j788fxz4u5h
+    followers: 178706
+    engagement: 329
+    commentsToLikes: 0.007469
+    id: ck0uad0pvbyor0i19xo0jz8sy
     verified: false
-    hashtags: "#gdlotto, #stayhome, #lockdown, #shobieyestw"
-  - username: "saminwhuut"
+    hashtags: "#antiputusnyambungterus, #tipsalatysna, #nonstopkreasiq"
+  - username: "shahazwani_nafisha"
     fullname: >-
-      SOMEAN K-CLIQUE
+      𝑩𝒖𝒅𝒂𝒌 𝑺𝒖𝒑𝒓𝒊𝒔𝒆🤪💥
+    bio: >-
+      |19| UPSI🦋 DIPLOMA IN MUSIC🎤
     location: "Malaysia"
-    followers: 166267
-    engagement: 1118
-    commentsToLikes: 0.007970
-    id: ck136pp9m7nly0i19onfci0bk
+    followers: 5780
+    engagement: 1264
+    commentsToLikes: 0.030196
+    id: ckap515xr9pz50i78bdnym3jh
     verified: false
-    hashtags: "#stonedandco, #jdsportsmy, #bagaimimpi, #kittamove"
-  - username: "chronfuying"
-    fullname: >-
-      Fuying Chronicles 王赴穎
-    location: "Malaysia"
-    followers: 35985
-    engagement: 509
-    commentsToLikes: 0.009778
-    id: ck5hnu8n5oeh30i11evuykgta
-    verified: false
-    hashtags: "#spicylookchallenge, #socialplaylist, #idontmindthough, #mambaforever"
-  - username: "stephyyiwen"
-    fullname: >-
-      STEPHY 郑意文
-    location: "Malaysia"
-    followers: 460435
-    engagement: 458
-    commentsToLikes: 0.003977
-    id: ck0vz393x72lz0i190xw0ysei
-    verified: false
-    hashtags: "#danielwellington, #prorenew, #4d, #alenstephy"
+    hashtags: "#malaysiancoversong, #coverlagu, #malaysiancover, #raya2020"
   - username: "karinahor"
     fullname: >-
       !             Karina🎀
+    bio: >-
+      Singer | Music | Travel 🎵 📩karinahor316@gmail.com ♥ 🎤 #Karina歌曲分享時間 💃🏻 #tripleHORdance ♥ Facebook🔍 www.facebook.com/karinahor ♥ YouTube頻道🎬
     location: "Malaysia"
-    followers: 63650
-    engagement: 185
-    commentsToLikes: 0.013175
+    followers: 63402
+    engagement: 170
+    commentsToLikes: 0.006145
     id: ck5q8bwfg5en20i11x293lypl
     verified: false
-    hashtags: "#wirelessheaphone, #foodie, #dumpling, #happymothersday"
-  - username: "palsinn"
+    hashtags: "#foodie, #travel, #streetstyle, #macau"
+  - username: "wafiyofficial._"
     fullname: >-
-      Pal Sinn
+      𝓜𝓾𝓱𝓪𝓶𝓶𝓪𝓭 𝔀𝓪𝓯𝓲𝔂🐼✨
+    bio: >-
+      •15||🇲🇾 paid / gift review dm ‼️ •ℙ𝕖𝕟𝕪𝕒𝕟𝕪𝕚 / ℙ𝕖𝕝𝕒𝕜𝕠𝕟 @star.musicrecords •𝕄𝕒𝕟𝕒𝕘𝕖𝕣 @wafiy_officialfans •𝕤𝕖𝕔 𝕒𝕔𝕔 @wafiyofficial.__
     location: "Malaysia"
-    followers: 107593
-    engagement: 278
-    commentsToLikes: 0.015877
-    id: ck5c5it7x3jyg0i11qb3zvfrm
+    followers: 127231
+    engagement: 976
+    commentsToLikes: 0.026394
+    id: ck8t45jru5kwg0j78ssxwlj58
     verified: false
-    hashtags: "#happybirthdayeveryone, #marshallmonitor, #crazyrunners"
-  - username: "winniek_my"
+    hashtags: "#explore, #covermalaysia, #brokenheart, #jiwang"
+  - username: "aisharetno02"
     fullname: >-
-      Winnie K
+      Sharifah Aisha Retno
+    bio: >-
+      🇲🇾🇮🇩 B.Econs UM Sony Music @sonymusicmy @sonymusic_malaysia VOTE AISHA RETNO FOR VOKAL MANIA!!link below For Enquiries: +60 10-773 3649 (Aimeil)
     location: "Malaysia"
-    followers: 215246
-    engagement: 167
-    commentsToLikes: 0.018642
-    id: ck5zotkhyraxs0i14pe1m3368
-    verified: true
-    hashtags: "#bppolo, #birthday, #chinesenewyear, #bdaycelebration"
+    followers: 13430
+    engagement: 1025
+    commentsToLikes: 0.041667
+    id: ck5cl4vc2y94t0i11lmy6mtrh
+    verified: false
+    hashtags: "#retnosings, #terimakasihaishayuka, #vokalmania, #2daystogo"
 ---

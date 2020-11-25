@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hair Dressers Instagram Influencers In Germany In 2020
 description: >-
-  Find top hair dressers Instagram influencers in Germany in 2020. Most popular hashtags: #beauty #fashioninspo #dresses #weekend.
+  Find top hair dressers Instagram influencers in Germany in 2020. Most popular hashtags: #hair #beauty #girl #instagood.
 platform: Instagram
+hits: 20
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 20 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "juliafratichelli.bridalstylist"
+  - username: "hairdressers_lookbook"
     fullname: >-
-      Julia Fratichelli | Stylistin
+      oliver sundermann
+    bio: >-
+      Virtuelles Frisurenbuch - Inspirationen für Friseure und ihre Kunden. Gratis-Webinar und Shop mit den aktuellen Aktionen jetzt hier ⬇️⬇️⬇️
     location: "Germany"
-    followers: 21019
-    engagement: 297
-    commentsToLikes: 0.032650
-    id: ck14kgi6zpen80i196p9dgl65
+    followers: 19011
+    engagement: 256
+    commentsToLikes: 0.025903
+    id: ck9wd0se0djm80j78wjbal9d9
     verified: false
-    hashtags: "#braut, #makeuplooks, #hudabeauty, #hairoftheday"
-  - username: "imafluffypuffykittycat"
-    fullname: >-
-      𝕍𝔼ℝ𝔼ℕ𝔸 - 𝗺𝗼𝘁𝗵𝗲𝗿 𝗼𝗳 𝗰𝗮𝘁𝘀 🌙
-    location: "Germany"
-    followers: 90625
-    engagement: 323
-    commentsToLikes: 0.021113
-    id: ck6u1ivvmlzwq0j71x8reyiuc
-    verified: false
-    hashtags: "#girls, #stayathome, #schuhsammlung, #shopping"
+    hashtags: "#kurzhaarschnitt, #silverhair, #haarschnitt, #style"
   - username: "christmais"
     fullname: >-
       Christian Maislinger
+    bio: >-
+      People/Fashion photographer
     location: "Germany"
-    followers: 10913
-    engagement: 682
-    commentsToLikes: 0.000824
+    followers: 10248
+    engagement: 720
+    commentsToLikes: 0.001234
     id: ck5hqphebthsq0i118jk1ski3
     verified: false
-    hashtags: "#friseursalzburg, #hairdressersalzburg, #schwarzkopfpro, #4blondes"
+    hashtags: "#4blondes, #tarquini, #friseursalzburg, #hairdressersalzburg"
   - username: "hairdreamsbyalice"
     fullname: >-
       Hairdreams by Alice 💇‍♀️💗💖💇‍♀️
+    bio: >-
+      Hairstylist 💖 @dmachtsgroup #1000orbust member Ambassador @celebluxury popular @olaplex Ambassador @sharkfinshears Balayage,Blonde,Vivids specials
     location: "Germany"
     followers: 15255
     engagement: 278
     commentsToLikes: 0.103106
     id: ck5cl4yv0y9bz0i1171kyclth
     verified: false
-    hashtags: "#keinehektik, #hairartist, #froheostern, #zugeil"
+    hashtags: "#blondebalayage, #diorembroidery, #louisvuittonjacket, #behindthechair"
   - username: "ang_i_e_"
     fullname: >-
       🅐🅝🅖🅘🅔 🏳️‍🌈
+    bio: >-
+      Follow @juwangie.world 👭 ᴍᴏᴅᴇʟ / ʟɪғᴇsᴛʏʟᴇ / ᴛʀᴀᴠᴇʟ ᴀɴғʀᴀɢᴇɴ: ᴀɢᴇɴᴄʏ @elenamodels.de @vidamodels @lachfaltenpeople
     location: "Germany"
-    followers: 15324
-    engagement: 492
-    commentsToLikes: 0.041422
+    followers: 15287
+    engagement: 478
+    commentsToLikes: 0.053467
     id: ck6u8q4irt0ds0j71end9zzu0
     verified: false
-    hashtags: "#wildhair, #lasvegasstrip, #hemd, #sunnyday"
+    hashtags: "#portrait, #loveislove, #tomboylifestyleig, #elenamodels"
+  - username: "esmeegriesheimer_"
+    fullname: >-
+      ESMÉE MARIA 🧡
+    bio: >-
+      MA @tulipmodels_amsterdam 📍 | @urbnmilan| @fordmodelsbrasil | @firstlondon | @metropolitanmodelsgroup | @thetribemodels | @fazemodels 🕊
+    location: "Germany"
+    followers: 2463
+    engagement: 1066
+    commentsToLikes: 0.104819
+    id: ck6u50xp56y5s0j71f91hovse
+    verified: false
+    hashtags: "#fendi"
+  - username: "nes.xs"
+    fullname: >-
+      Inés 🎬 Take me out 2020
+    bio: >-
+      Modeling 📸 Lifestyle 🍒 Fitness 🍑 DM ✉️ for collaboration 📸🎥
+    location: "Germany"
+    followers: 34857
+    engagement: 777
+    commentsToLikes: 0.039317
+    id: ck8t424wb58jv0j78newoxt36
+    verified: false
+    hashtags: "#nylon, #portraitsmadeingermany, #instagirl, #picoftheday"
   - username: "lelciaa"
     fullname: >-
       Michaela / Stuttgart /27
+    bio: >-
+      🇩🇪 German 🇵🇱 Polish 💌michaela93.kh@gmail.com 👗Kleiderkreisel: lela26
     location: "Germany"
-    followers: 42812
-    engagement: 361
-    commentsToLikes: 0.029244
+    followers: 40738
+    engagement: 386
+    commentsToLikes: 0.034071
     id: ck0w3c8kyso1t0i196snnj3v2
     verified: false
-    hashtags: "#beautiful, #happygirls, #shorthair, #travelpics"
-  - username: "marieke_ne"
+    hashtags: "#quietthechaos, #outfitterssite, #instapic, #beauty"
+  - username: "livadax3"
     fullname: >-
-      FASHION | INSPO | TRAVEL
+      𝐕𝐈𝐊𝐓𝐎𝐑𝐈𝐀 🕊 𝐋𝐈𝐕𝐀𝐃𝐀
+    bio: >-
+      » Germany [𝑫𝒓𝒆𝒔𝒅𝒆𝒏] » Beauty ┊ Fashion┊ Tattoo⠀⠀⠀⠀⠀ ⠀ ➳ Impressum: www.livadax3.net ➳ Account enthält Werbung ➳ management@livadax3.com
     location: "Germany"
-    followers: 25841
-    engagement: 407
-    commentsToLikes: 0.077224
-    id: ck0w4kr9sz2830i19td1s1q7q
+    followers: 155313
+    engagement: 605
+    commentsToLikes: 0.019077
+    id: ck5c3acl7ywi90i11cglipsuc
     verified: false
-    hashtags: "#girly, #homeoffice, #dreamer, #portrait"
-  - username: "ellegermany"
+    hashtags: "#city, #lights, #dresdengirl, #halloweenmakeupideas"
+  - username: "xoxo.sophie"
     fullname: >-
-      ELLE Germany
+      Sarah-Sophie
+    bio: >-
+      🦋 Sarah-Sophie 📍Germany | nrw 🌏 Travel • ✨ Lifestyle • 👙 Fashion 👡 @bonovashoes -10% CODE: xoxo.sophie10
     location: "Germany"
-    followers: 165910
-    engagement: 59
-    commentsToLikes: 0.018291
-    id: ck0u8fpyr7ag00i19bvzvfv9r
-    verified: true
-    hashtags: "#foxeyes, #beautytips, #fashioninspo, #schwa"
-  - username: "van_caro"
-    fullname: >-
-      GIRLSTALK | FASHION | BEAUTY
-    location: "Germany"
-    followers: 6548
-    engagement: 744
-    commentsToLikes: 0.145796
-    id: ck9h9q77t9is20j780xzl7i56
+    followers: 2617
+    engagement: 1431
+    commentsToLikes: 0.063749
+    id: ck15rabcj6xwa0i19hyzqnnf5
     verified: false
-    hashtags: "#blonde, #backtotheroots, #whatiworetoday, #girlsgirlsgirls"
-  - username: "elayworld_"
+    hashtags: "#ungarn, #body, #healthylifestyle, #travelphotography"
+  - username: "sophia.meilin"
     fullname: >-
-      Ela Akdag
+      ⚜️𝐅𝐈𝐓𝐍𝐄𝐒𝐒|𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄⚜️
+    bio: >-
+      🖤⚜️𝐒𝐌 ￼￼⚜️🖤 𝐜𝐨𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐬 𝐯𝐢𝐚 𝐦𝐚𝐢𝐥 𝐊ö𝐥𝐧/ 𝐃𝐄 𝐅𝐨𝐨𝐝 𝐩𝐚𝐠𝐞: @food_ideas_sophiameilin
     location: "Germany"
-    followers: 175413
-    engagement: 262
-    commentsToLikes: 0.062062
-    id: ck0u95p8094s10i19wz45tbw8
+    followers: 27944
+    engagement: 227
+    commentsToLikes: 0.025921
+    id: ckap4cspb6rnb0i78qv6g952v
     verified: false
-    hashtags: "#casualoutfit, #terlikmodelleri, #basicstyle, #keepsmiling"
+    hashtags: "#gym, #stylish, #girlswholift, #me"
 ---

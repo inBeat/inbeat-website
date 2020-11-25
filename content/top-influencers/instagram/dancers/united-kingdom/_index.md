@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top dancers Instagram influencers in United Kingdom in 2020. Most popular hashtags: # #dance #fashion #hackettxbritishgq.
+  Find top dancers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #dance #photoshoot #explore.
 platform: Instagram
+hits: 540
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 540 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "harryaalexander"
-    fullname: >-
-      Harry
-    location: "United Kingdom"
-    followers: 3406
-    engagement: 1199
-    commentsToLikes: 0.036514
-    id: ck6tppg03lhuy0j71paaczma5
-    verified: false
-    hashtags: "#caribbean, #timwalkerphotography, #menonpointe, #invisibleillness"
   - username: "alessandraferriofficial_"
     fullname: >-
       Alessandra Ferri
+    bio: >-
+      Dancer
     location: "United Kingdom"
-    followers: 40618
-    engagement: 688
-    commentsToLikes: 0.028766
+    followers: 42235
+    engagement: 635
+    commentsToLikes: 0.026554
     id: ck8szjs31opwd0j78kibhu0yj
     verified: true
-    hashtags: "#challengeaccepted, #stayonmytoes, #johnneumeier, #teatroallafenicevenezia"
-  - username: "heathermacfarlane"
+    hashtags: "#teatroallafenicevenezia, #mradamrcooper, #hamburgballet, #hamburgballett"
+  - username: "harryaalexander"
     fullname: >-
-      h
+      Harry Alexander
+    bio: >-
+      Dancer
     location: "United Kingdom"
-    followers: 5321
-    engagement: 2650
-    commentsToLikes: 0.433301
-    id: ckaowpv8a9x600i78tispqk8m
+    followers: 3673
+    engagement: 1147
+    commentsToLikes: 0.047189
+    id: ck6tppg03lhuy0j71paaczma5
     verified: false
-    hashtags: "#dancephotography, #lingerie, #peakdistrict, #wakeskincare"
+    hashtags: "#repost, #madammebutterfly, #birmingham, #denadadt"
+  - username: "amelia.cuth"
+    fullname: >-
+      amelia cuth️️️bert🦋
+    bio: >-
+      Thai/English|Pianist|Dancer|Netball Dm for Shoots&Rates 💌 Don’t use my images without permission Account monitored by mum 14🙈
+    location: "United Kingdom"
+    followers: 18997
+    engagement: 767
+    commentsToLikes: 0.200464
+    id: ckf5x2qinu4jy0j230b9bnm0t
+    verified: false
+    hashtags: "#explorepage, #photography, #thaimodel, #explore"
+  - username: "peanut.curls"
+    fullname: >-
+      🥜 PEE.A.NUT.🍑🥜
+    bio: >-
+      💌Follow for Curly hair Journey/tips 💌Dancer/Marketing|Influencer 💌BOOKING: peanutcurls02@gmail.com Blogger 🎓Brand Ambassador Model:@excellamodels
+    location: "United Kingdom"
+    followers: 23412
+    engagement: 554
+    commentsToLikes: 0.084690
+    id: ck5hqohtitfzq0i11bdlhg5ey
+    verified: false
+    hashtags: "#hairstyle, #saltresorts, #naturalhairjourney, #portrait"
   - username: "chloeferns"
     fullname: >-
       C H L O E  M C N I V E N
+    bio: >-
+      Property development company @yutooclub THE CHLOE METHOD - NLP practitioner - Professional Dancer
     location: "United Kingdom"
-    followers: 16065
-    engagement: 1044
-    commentsToLikes: 0.045441
+    followers: 16163
+    engagement: 978
+    commentsToLikes: 0.036877
     id: ck6tjuwxf3h000j71xk785xid
     verified: false
-    hashtags: "#jlosuperbowlchallenge, #pregnant, #mabel, #jingleball2019"
-  - username: "ameliebardsley"
+    hashtags: "#blackouttuesday, #coolofchallenge, #pregnancy, #pregnantworkout"
+  - username: "ameliakabath"
     fullname: >-
-      Amelie Bardsley💗
+      Amelia Bath
+    bio: >-
+      Actress/Dancer @collectiveagts Level 3 PT London Collaborations: katie@thebookingproject.com
     location: "United Kingdom"
-    followers: 6746
-    engagement: 2033
-    commentsToLikes: 0.050001
-    id: ck9hct44qmuxb0j78azfp2ygd
-    verified: false
-    hashtags: ""
-  - username: "leenaalfishawyofficial"
+    followers: 128702
+    engagement: 320
+    commentsToLikes: 0.046518
+    id: ck5bue9r6hmfh0i11bnrng59m
+    verified: true
+    hashtags: "#foreoufo2, #skintech, #ad, #foreo"
+  - username: "elizajanex"
     fullname: >-
-      LEENA FAROUK ALFISHAWY
+      E L I Z A  J A N E🇪🇸🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿
+    bio: >-
+      Singer-Dancer-Actress-Model Dm/email me for bookings📥 @akforevermodels @buzz_talent_ @sintillatetalent @bdentertainmentuk
     location: "United Kingdom"
-    followers: 42279
-    engagement: 490
-    commentsToLikes: 0.059927
-    id: ckap6agsvf2tq0i78hyrj98qg
+    followers: 5313
+    engagement: 1282
+    commentsToLikes: 0.091843
+    id: ck6tsyuy87lvp0j712s1fybqx
     verified: false
-    hashtags: "#reneezellweger, #ntu, #influencer, #creativity"
-  - username: "riahunte"
+    hashtags: "#modellife, #scoutmenemesis, #singer, #photooftheday"
+  - username: "aimee_batt"
     fullname: >-
-      Big batty girl
+      AIMEE BATT
+    bio: >-
+      Singer, Actress & Dancer Rep’d by @ttaadults DM/Email for Collaborations Depop: aimeebatt Head Gymnastics Coach
     location: "United Kingdom"
-    followers: 4318
-    engagement: 1818
-    commentsToLikes: 0.142655
-    id: ck0vvm020ppl40i195s4730la
+    followers: 24226
+    engagement: 408
+    commentsToLikes: 0.186749
+    id: ck14jlu65kztf0i19qaavie1n
     verified: false
-    hashtags: ""
-  - username: "xbeckycookex"
+    hashtags: "#pltstyle"
+  - username: "_naomimt"
     fullname: >-
-      BEXX🏁
+      Naomi Minott 🇯🇲🇩🇪
+    bio: >-
+      #MM⭕️ Dancer • Mentor • Actress • Investor #WhenTheWaistTakesOver 💎 #YourFaveBaddie Make 💰 online? 📲 DM ME WiFi MONEY
     location: "United Kingdom"
-    followers: 47004
-    engagement: 1163
-    commentsToLikes: 0.026239
-    id: ck8wfw8j2gcss0j78vnzumt46
+    followers: 18096
+    engagement: 469
+    commentsToLikes: 0.072922
+    id: ck5qb9853kg9q0i11mqi75prq
     verified: false
-    hashtags: ""
-  - username: "kerysnash.x"
+    hashtags: "#thickums, #whine, #success, #moneymoves"
+  - username: "swietyrachael"
     fullname: >-
-      Kerys💃🏽
+      swietyrachael
+    bio: >-
+      Dance Enthusiast/Team boondocks/professional dancer/Enquiries and Bookings 0742488283 Fashion♥️& entertainment @fridah_mueni_ke my happiness bloody💖😻
     location: "United Kingdom"
-    followers: 7439
-    engagement: 1541
-    commentsToLikes: 0.034385
-    id: ck6tik9pn0vkh0j71p4ddamq3
+    followers: 13918
+    engagement: 2323
+    commentsToLikes: 0.025362
+    id: ck9weilwikflq0j78ac6k9jnk
     verified: false
-    hashtags: "#ad"
-  - username: "jessica_amy01"
-    fullname: >-
-      ᒍᗴᔕᔕIᑕᗩ ᗩᗰY 🦋
-    location: "United Kingdom"
-    followers: 4345
-    engagement: 1370
-    commentsToLikes: 0.213532
-    id: ck9wekc2yknht0j78i8y6vztj
-    verified: false
-    hashtags: "#photooftheday, #outfits, #fashion, #lookoftheday"
+    hashtags: "#gainwithswietyrachael, #whip, #lunch, #dinner"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In United States In 2020
 description: >-
-  Find top crossfit Instagram influencers in United States in 2020. Most popular hashtags: #workoutathome #tbt #inspiration #tattoos.
+  Find top crossfit Instagram influencers in United States in 2020. Most popular hashtags: #crossfit #fitness #motivation.
 platform: Instagram
+hits: 882
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 882 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "fioredilascio"
+    fullname: >-
+      🧿
+    bio: >-
+      Bailarina. Coreografa en proceso. Crossfit. Derecho UNT. Emprendo desde casa con la mejor plataforma online. @beautycarebyfio 🦋
+    location: "United States"
+    followers: 17672
+    engagement: 1225
+    commentsToLikes: 0.683597
+    id: ck6ufuu7hz9g50j71rau3kh9k
+    verified: false
+    hashtags: ""
+  - username: "carlierayy"
+    fullname: >-
+      Carlie // Nue Society
+    bio: >-
+      your daily source of style inspo + good foods lover of neutrals, crossfit & rosé | currently: charleston all my links ↴
+    location: "United States"
+    followers: 13010
+    engagement: 1082
+    commentsToLikes: 0.092437
+    id: ckaot2lwfu3ly0i78h0xks0rk
+    verified: false
+    hashtags: "#hbs1012, #loveellie, #elliepartner, #liketkit"
   - username: "sean_c_larkin"
     fullname: >-
       Sean Larkin
+    bio: >-
+      Popo 👮🏻 Part time crossfitter Analyst on A&E TV’s hit show LivePD Host of A&E’s TV show PD CAM #BeAgeless Twitter: @sean_c_larkin
     location: "United States"
-    followers: 258186
-    engagement: 1201
-    commentsToLikes: 0.027978
+    followers: 251742
+    engagement: 1057
+    commentsToLikes: 0.026014
     id: ck55ojy938i1y0i11gp66rlq5
     verified: true
-    hashtags: "#murph, #jimwood, #crossfit, #livepdnation"
-  - username: "kayteejones_"
-    fullname: >-
-      Katie Jones
-    location: "United States"
-    followers: 180698
-    engagement: 763
-    commentsToLikes: 0.018153
-    id: ck0twfdezf4gr0i190fbl3tl0
-    verified: false
-    hashtags: "#rpstrength, #puppy, #glutes, #growgrowgrow"
-  - username: "dellespeegle"
-    fullname: >-
-      Dani Elle Speegle
-    location: "United States"
-    followers: 495276
-    engagement: 683
-    commentsToLikes: 0.015285
-    id: ck1354h1zznup0i19o6ibi95d
-    verified: false
-    hashtags: "#silverlining, #cantwaittogoback, #rehablife, #lifeisgood"
-  - username: "_brialee"
-    fullname: >-
-      Bria Lee
-    location: "United States"
-    followers: 81907
-    engagement: 566
-    commentsToLikes: 0.034713
-    id: ck1354hvrznx70i1955ojh1p3
-    verified: false
-    hashtags: "#rest, #mondayworkout, #shoulders, #crossfitchick"
-  - username: "thelma_christoforou"
-    fullname: >-
-      thelma christoforou
-    location: "United States"
-    followers: 31684
-    engagement: 470
-    commentsToLikes: 0.060336
-    id: ck6ubtj2mbm890j71rkgguq0y
-    verified: false
-    hashtags: "#trusttheprocess, #roadtothegames, #vullsport, #hellenergy"
-  - username: "okaprol"
-    fullname: >-
-      Onur
-    location: "United States"
-    followers: 8867
-    engagement: 3823
-    commentsToLikes: 0.027676
-    id: ck8td98582f080j78ajxulicr
-    verified: false
-    hashtags: "#lgbt, #love, #anniversary, #pink"
-  - username: "iamdapower"
-    fullname: >-
-      Lucas Cancelier
-    location: "United States"
-    followers: 107504
-    engagement: 888
-    commentsToLikes: 0.011487
-    id: ckap3445h1han0i78p3bhs04e
-    verified: false
-    hashtags: "#tbt"
-  - username: "kaipeirawrrr"
-    fullname: >-
-      KaiPeí Walls
-    location: "United States"
-    followers: 6507
-    engagement: 996
-    commentsToLikes: 0.104147
-    id: ck5c2sut4xwz20i11bpropvsw
-    verified: false
-    hashtags: "#swipeleft, #tbt, #tiktoktuesday, #savagechallenge"
+    hashtags: "#fitandfabulous, #1964cadillac, #theshowmustbepaused, #classof2020"
   - username: "fitmomof2whojeeps"
     fullname: >-
       Kristen
+    bio: >-
+      Aerial🎪Cooking🍲Comedy🤣Crossfit🏋️‍♀️Dobermans🐶FAMILY💗FRIENDS👭Jeeps🏔Mustangs🏎 Raptors🦖Surfing🏄🏽‍♀️ Snowboarding🏂 Use code: FITMOM20 @detailgarageraleigh
     location: "United States"
-    followers: 16492
-    engagement: 984
-    commentsToLikes: 0.036040
+    followers: 19548
+    engagement: 993
+    commentsToLikes: 0.035774
     id: ck0w59gty2k460i19g26xhiro
     verified: false
-    hashtags: "#f150chicks, #fordperformance, #f150nation, #ajax"
-  - username: "jared_p_smith"
+    hashtags: "#islandlife, #37s, #jeepwrangler, #tiffanyandco"
+  - username: "megg_a_tron"
     fullname: >-
-      Jared P-Smith
+      Meg Reardon
+    bio: >-
+      Owner of @wagsandweights 🐶 3x Crossfit Games Athlete
     location: "United States"
-    followers: 86600
-    engagement: 483
-    commentsToLikes: 0.019224
-    id: ck134feryw65m0i19h5qpqfr1
+    followers: 29448
+    engagement: 344
+    commentsToLikes: 0.058836
+    id: ck5q4h8k3p0ku0i11apz47mwh
     verified: false
-    hashtags: "#workoutathome, #jewishmom, #giveaway, #makingmovies"
+    hashtags: "#fitness, #crossfit, #crossfitgames, #forgedbyzeus"
+  - username: "thelma_christoforou"
+    fullname: >-
+      thelma christoforou
+    bio: >-
+      Crossfit Games2019/2020 Meridian Regionals2018 Fittest woman in Cyprus x5 🇨🇾 👉Crossfit/Fitness trainer 👉Personal Trainer 👉Online individual sessions
+    location: "United States"
+    followers: 50527
+    engagement: 768
+    commentsToLikes: 0.019284
+    id: ck6ubtj2mbm890j71rkgguq0y
+    verified: false
+    hashtags: ""
+  - username: "okaprol"
+    fullname: >-
+      Onur
+    bio: >-
+      Estrella de DivaDne ♾ Origin 🇹🇷 Live 🇺🇸 Love 🇪🇸 Work 💨👨🏻‍💻🤯 CrossFit🏋🏻‍♂️~ Be smart & global ~ Boston, MA
+    location: "United States"
+    followers: 8520
+    engagement: 2085
+    commentsToLikes: 0.029472
+    id: ck8td98582f080j78ajxulicr
+    verified: false
+    hashtags: "#gaylife, #baldgay, #summer, #tb"
+  - username: "kayteejones_"
+    fullname: >-
+      KT Jones
+    bio: >-
+      #strongisearned | 🌱 based Weightlifting|Crossfit @1stphorm |@rpstrength|@esc_sounds| @monsterhydro|@thebarbellcartel|@bornprimitive|@vigilantcbd Links
+    location: "United States"
+    followers: 240633
+    engagement: 695
+    commentsToLikes: 0.013555
+    id: ck0twfdezf4gr0i190fbl3tl0
+    verified: false
+    hashtags: "#beach, #outdoors, #strong, #bodypositivity"
+  - username: "_brialee"
+    fullname: >-
+      Bria Lee
+    bio: >-
+      🌎Denver, CO 😊Spread positivity & be kind 📸Health & Fitness Content Creator 💪🏽CrossFitter Marketing Manager for @macrostax 📧brialee3@gmail.com
+    location: "United States"
+    followers: 122325
+    engagement: 601
+    commentsToLikes: 0.022389
+    id: ck1354hvrznx70i1955ojh1p3
+    verified: false
+    hashtags: "#crossfitwoods, #girlswholift, #fullbodyworkout, #bodyweightworkout"
+  - username: "iamdapower"
+    fullname: >-
+      Lucas Cancelier
+    bio: >-
+      PAIN IS TEMPORARY Rugby - Crossfit 🇪🇸 🇦🇷 🇺🇸 📩cancelier.unlp@hotmail.com ———— @epifaniapatagonia
+    location: "United States"
+    followers: 130601
+    engagement: 867
+    commentsToLikes: 0.012174
+    id: ckap3445h1han0i78p3bhs04e
+    verified: false
+    hashtags: "#justcbd, #tbt, #pandemicshit"
 ---

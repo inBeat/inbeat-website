@@ -1,12 +1,17 @@
 ---
 title: Top 10 Food Instagram Influencers In New York In 2020
 description: >-
-  Find top food Instagram influencers in New York in 2020. Most popular hashtags: #food #mothersday #newyork #stayhome.
+  Find top food Instagram influencers in New York in 2020. Most popular hashtags: #newyork #food #love #foodie.
 platform: Instagram
+hits: 430
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 430 Instagram influencers like this in New York, United States for you to work with.
 profiles:
   - username: "family_newyork"
     fullname: >-
       Family New York
+    bio: >-
+      (2010-2018) Family is now @foodnewyork and @oooooana
     location: "United States"
     followers: 9646
     engagement: 599
@@ -14,94 +19,112 @@ profiles:
     id: ck6tiuhym1ge10j71g6435xqc
     verified: false
     hashtags: ""
-  - username: "mario_ramil"
+  - username: "cookiesofgram"
     fullname: >-
-      MARIO RAMIL | Miami Comedian
+      COOKIES OF GRAM
+    bio: >-
+      the most ELITE collection of coooookies🍪🤤🤩 #️⃣ #cookiesofgram 💌 cookiesofgram@gmail.com 🤝 dm or email for partnerships
     location: "United States"
-    followers: 33108
-    engagement: 486
-    commentsToLikes: 0.117015
-    id: ck55lcwcl1afw0i11lx7x9g9q
+    followers: 16917
+    engagement: 662
+    commentsToLikes: 0.165153
+    id: ckaosshg2sw5v0i7842r6x711
     verified: false
-    hashtags: "#stayhome, #safe, #zoom, #1950s"
-  - username: "bestislandfood"
+    hashtags: "#nyc, #newforkcity, #cookies, #cookiesofgram"
+  - username: "twobetchesonefork"
     fullname: >-
-      The Best Island Food
+      FOODIE BETCHES
+    bio: >-
+      💃 food bloggers & content creation 👯‍♀️ @twobetchesoneplane 📍 NYC 📷 iPhone 11 Max Pro (all original photos) 📩 DM FOR PERMISSION TO REPOST
     location: "United States"
-    followers: 57141
-    engagement: 191
-    commentsToLikes: 0.009272
-    id: ck0txu980kgcw0i19d4q0vbyo
+    followers: 19576
+    engagement: 457
+    commentsToLikes: 0.033520
+    id: ck5c155uyuhhw0i11p93mzkaa
     verified: false
-    hashtags: "#chicagorestaurants, #fish, #crab, #food"
-  - username: "maidomo"
+    hashtags: "#fitnessmotivation, #foodie, #instagood, #foodphotography"
+  - username: "thatxgirl_p"
     fullname: >-
-      Giovanni Bartocci
+      Mrs. Triple-X
+    bio: >-
+      American Made 🇺🇸 Brown like whiskey 🥃 Watch my Stories 📖 🅃🅁🄸🄿🄻🄴-🅇 🄼🄾🅃🄾🅁🅂🄿🄾🅁🅃🅂 This is my Only Page & Back up @thatxgirlp_backup
     location: "United States"
-    followers: 10936
-    engagement: 941
-    commentsToLikes: 0.030337
-    id: ck15u3ilsl9100i19m3x9rnp5
+    followers: 50291
+    engagement: 278
+    commentsToLikes: 0.144540
+    id: ck0vw4ul6s42m0i1946pih1qu
     verified: false
-    hashtags: "#branco, #atpfinals, #stiledivita, #urban"
+    hashtags: "#outfitinspiration, #mondaymood, #beautiful, #picoftheday"
   - username: "acausi"
     fullname: >-
       Anthony Causi
+    bio: >-
+      Sports / Portrait / Food Canon New York
     location: "United States"
-    followers: 21317
-    engagement: 1049
-    commentsToLikes: 0.028610
+    followers: 20458
+    engagement: 1104
+    commentsToLikes: 0.028380
     id: ck5qcqwt8rwo00i11jqj2kaoa
     verified: false
-    hashtags: "#worldseries, #knicks, #davidwright, #sanfrancisco"
+    hashtags: "#canon, #superbowlparty, #kansascitychiefs, #basketball"
   - username: "colorsofyu"
     fullname: >-
       Yu Yu
+    bio: >-
+      Motherhood •lifestyle• travel• food 📍New York City colorsofyu@yahoo.com
     location: "United States"
-    followers: 5002
-    engagement: 186
-    commentsToLikes: 0.137403
+    followers: 5020
+    engagement: 286
+    commentsToLikes: 0.164430
     id: ck14jhz1zkfw20i19xks529cr
     verified: false
-    hashtags: "#unforgettable, #imbored, #6monthsold, #yearofthepig"
-  - username: "5boroughfoodie"
-    fullname: >-
-      Alex
-    location: "United States"
-    followers: 225650
-    engagement: 733
-    commentsToLikes: 0.009392
-    id: ck0twfg1gf4qr0i19wtvtjxdo
-    verified: false
-    hashtags: "#fryday, #humpday, #sunday, #tacotuesday"
+    hashtags: "#instababy, #momsoftiktok, #weekendvibes, #shotoniphone"
   - username: "nessathecavalier"
     fullname: >-
       Nessa the Cavalier
+    bio: >-
+      The Tiniest Cavalier Favourite food: Cheerios New York City Check out the Q&A in my highlights for answers to popular questions about me!
     location: "United States"
-    followers: 212975
-    engagement: 1595
-    commentsToLikes: 0.008338
+    followers: 210051
+    engagement: 1546
+    commentsToLikes: 0.008224
     id: ck0u697hc1c220i19srl3l1f2
     verified: false
-    hashtags: "#tigerking, #postchristmasblues"
+    hashtags: "#postchristmasblues, #tigerking"
+  - username: "5boroughfoodie"
+    fullname: >-
+      Alex
+    bio: >-
+      👉 The BEST food from New York & beyond! 📍: Queens, NYC 🍔 Daily food pictures! 📷: @alexobed ALL original content
+    location: "United States"
+    followers: 277123
+    engagement: 518
+    commentsToLikes: 0.008693
+    id: ck0twfg1gf4qr0i19wtvtjxdo
+    verified: false
+    hashtags: "#fryday, #tacotuesday, #humpday, #sunday"
   - username: "chubbychinesegirleats"
     fullname: >-
       Cindy’s Food + Travel 🌎
+    bio: >-
+      Delicious wanderlust from a food obsessed travel addict. Art Director. Food photographer. New Yorker. Mama to 👶🏻 @chubbychinesebaby 📍NYC
     location: "United States"
     followers: 67904
     engagement: 258
     commentsToLikes: 0.032962
     id: ck5q14bj497jb0i11pf7w1iuh
     verified: false
-    hashtags: "#chimichurri, #branzino, #laab, #mint"
-  - username: "iamcoreyb"
+    hashtags: "#noodles, #quarantinelife, #traveltuesday, #sogood"
+  - username: "alexismanukure"
     fullname: >-
-      Corey B
+      
+    bio: >-
+      A. Phillips BSN,RN Pillars of Change NonProfit Organization 👩🏾‍🍳:@EatAlongWithLex
     location: "United States"
-    followers: 342330
-    engagement: 453
-    commentsToLikes: 0.025550
-    id: ck8wfyd98ggb50j78gzk50qfv
-    verified: true
-    hashtags: "#nyc, #ramen, #quarentine, #hack"
+    followers: 3576
+    engagement: 1210
+    commentsToLikes: 0.113502
+    id: ck5hrgw4iuv0a0i11yiqu2r77
+    verified: false
+    hashtags: "#readingisfundamental, #nonprofit, #charity, #yearofthereturn"
 ---

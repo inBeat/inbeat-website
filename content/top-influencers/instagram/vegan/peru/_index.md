@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Peru In 2020
 description: >-
-  Find top vegan Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #sinculpayconamor #vegan #vegano.
+  Find top vegan Instagram influencers in Peru in 2020. Most popular hashtags: #veganfood #vegan #halloween #food.
 platform: Instagram
+hits: 21
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 21 Instagram influencers like this in Peru for you to connect with.
 profiles:
   - username: "veggienazi"
     fullname: >-
       NAZARENA GARCÍA-RADA
+    bio: >-
+      • Real food has mud not blood •   Me dicen Nazi por Nazarena 🌼 Vegan | Sportaholic
     location: "Peru"
-    followers: 40683
-    engagement: 2173
-    commentsToLikes: 0.042279
+    followers: 43894
+    engagement: 1856
+    commentsToLikes: 0.097723
     id: ck6u7eyral4910j71g3r37h1k
     verified: false
-    hashtags: "#blankitosoutofcontext"
-  - username: "ceciliakatz"
-    fullname: >-
-      Cecilia Katz
-    location: "Peru"
-    followers: 25898
-    engagement: 327
-    commentsToLikes: 0.071735
-    id: ck0twjqqqfoye0i197c58iytx
-    verified: false
-    hashtags: "#parabenfree, #husbandandwife, #cocktailmakeup, #novias"
-  - username: "aguscosta7"
-    fullname: >-
-      A G U S T I N  C O S T A
-    location: "Peru"
-    followers: 22120
-    engagement: 1044
-    commentsToLikes: 0.038400
-    id: ck5zqhskqumjv0i14omd4rtxn
-    verified: false
-    hashtags: "#studio, #collabo, #dalex, #venezuela"
+    hashtags: "#chok"
   - username: "green.eats_"
     fullname: >-
-      Luciana Jáuregui
+      Luciana Jáuregui
+    bio: >-
+      Bienvenido a mi cocina👩🏻‍🍳! Acompáñame a crear recetas saludables, conscientes y deliciosas juntos💚 🌿Vegan 📍Lima-Perú 💌 lucianaajauregui@gmail.com
     location: "Peru"
-    followers: 2653
-    engagement: 1066
-    commentsToLikes: 0.191972
+    followers: 4463
+    engagement: 577
+    commentsToLikes: 0.164843
     id: ckaorhgr3n8hc0i78f88e2yct
     verified: false
-    hashtags: "#cocina, #cocinarencasa, #chocolate, #pancakes"
+    hashtags: "#food, #healthylifestyle, #veganfood, #whatveganseat"
+  - username: "aguscosta7"
+    fullname: >-
+      A G U S   C O S T A  🍃
+    bio: >-
+      • 23 🌀 • Vegano 🌱 • Bailarín 🌌 • Coreógrafo 🧠 • De la tierra 🌎 • Viajero ✈ • WeiBers 🐯 • SBX 🐍 • @sbx_convencion 💥
+    location: "Peru"
+    followers: 21119
+    engagement: 748
+    commentsToLikes: 0.041712
+    id: ck5zqhskqumjv0i14omd4rtxn
+    verified: false
+    hashtags: "#freestyle, #fuki, #uruguay, #zarpado"
   - username: "pallardelly"
     fullname: >-
       Fernando Pallardelly
+    bio: >-
+      🇵🇪 Lima 📍 Vegano 🌱 Dancer #Ferre33 ￼🎤 @yankenpo.m
     location: "Peru"
     followers: 25300
     engagement: 351
     commentsToLikes: 0.022462
     id: ck5zrcf59wbqk0i140z67ldju
     verified: false
-    hashtags: "#tuopinionesnecesaria, #graciasporleerme, #yomequedoencasa, #tiktok"
-  - username: "vegancatblog"
+    hashtags: "#elpoderdelahora, #quedateencasa, #graciasporleerme, #graciasportuaporte"
+  - username: "giulianavegana"
     fullname: >-
-      Daniela Lizárraga
+      GIULIANA
+    bio: >-
+      👩‍🍳 #Cocinera vegana hecha en casa 🎥 Hago recetas accesibles!!! 🌙 Informo e ilustro sobre #veganismo ❤️ Co-founder @muru_oficial & @fempira
     location: "Peru"
-    followers: 14252
-    engagement: 532
-    commentsToLikes: 0.032159
-    id: ck5zxeru07vge0i1467lqepmh
+    followers: 10453
+    engagement: 626
+    commentsToLikes: 0.083191
+    id: ckf5uem54kmbk0j23flrglwiv
     verified: false
-    hashtags: "#feriaecologicadebarranco, #medioambiente, #mequedoencasa, #marchaporeldiadelamujer"
+    hashtags: "#veganlife, #instamoment, #sweet, #comidavegana"
+  - username: "ceciliakatz"
+    fullname: >-
+      Cecilia Katz
+    bio: >-
+      Influencer Maquilladora/peinadora 🇦🇷 Dueña de CKM Makeup Youtube: #ceciliakatz Por cursos y productos: @ckmmakeup Animal Lover #VEGAN #CRUELTYFREE
+    location: "Peru"
+    followers: 29007
+    engagement: 231
+    commentsToLikes: 0.041259
+    id: ck0twjqqqfoye0i197c58iytx
+    verified: false
+    hashtags: "#ceciliakatz, #halfcutcrease, #maquillaje, #fullcolormakeup"
   - username: "napoligelato"
     fullname: >-
       Napoli Gelato & Waffles
+    bio: >-
+      #SinCulpayConAmor 🍦Gelatos + Waffles + Postres 🌱Opciones Veganas 📲 Take Out: 934 464 647 (Wpp) 🚲 Delivery: Rappi
     location: "Peru"
-    followers: 46249
-    engagement: 224
-    commentsToLikes: 0.029104
+    followers: 45482
+    engagement: 192
+    commentsToLikes: 0.031009
     id: ck5c5y06s4cui0i11xqtep6oa
     verified: false
-    hashtags: "#gelato, #napoli, #petfriendly, #limavegan"
-  - username: "elbebegourmet"
+    hashtags: "#waffles, #sinculpayconamor, #napoligelato, #encasayconamor"
+  - username: "vegancatblog"
     fullname: >-
-      El Bebe Gourmet
+      Daniela Lizárraga
+    bio: >-
+      🎙🌏🐷🙋🏻‍♀️💜 📍lima, perú danilizarraga06@gmail.com
     location: "Peru"
-    followers: 50129
-    engagement: 198
-    commentsToLikes: 0.151565
-    id: ck5btup60gn5q0i11ned3m4kh
+    followers: 14229
+    engagement: 621
+    commentsToLikes: 0.028596
+    id: ck5zxeru07vge0i1467lqepmh
     verified: false
-    hashtags: "#muffins, #cocinaencasa, #postresaludable, #veggierecipes"
-  - username: "nataduranv"
+    hashtags: "#vegancatblog, #goveganperu, #govegan, #veganrecipe"
+  - username: "saidasalcedoh"
     fullname: >-
-      Natalia Duran V
+      𝕾𝖆𝖎𝖉𝖆 𝕾𝖆𝖑𝖈𝖊𝖉𝖔 𝕳𝖊𝖗𝖒𝖔𝖟𝖆
+    bio: >-
+      📍Lima, Perú 🇵🇪 | Karate Athlete🥋 | Plant based 🌱 Collab ➡️ saidakarlen@gmail.com CEO @bkcperu 🥉 Panam Games 2019 🥇🥉K1 / Series A 🥇🥈🥉Sud/Pan Champ
     location: "Peru"
-    followers: 450194
-    engagement: 70
-    commentsToLikes: 0.030177
-    id: ck6u0s1s7hfab0j71z72znm8z
+    followers: 10548
+    engagement: 1079
+    commentsToLikes: 0.032600
+    id: ck8tau6bmt2pp0j78p9qx8oa6
     verified: false
-    hashtags: "#felidiachicxs, #sustentabilidad, #environment, #maestros"
-  - username: "reyesvilcarina"
+    hashtags: "#plantbased, #peruviangirl, #sportgirl, #trainingmotivation"
+  - username: "crudiperuanos"
     fullname: >-
-      😍😘
+      Crudiperuanos
+    bio: >-
+      Movimiento basado en plantas 🌎 #somosuniverso #crudiperuanos #elplatitofeliz VISITA LA WEB👇
     location: "Peru"
-    followers: 2290
-    engagement: 2644
-    commentsToLikes: 0.044179
-    id: ck9wen7chl0ik0j78esa32a3y
+    followers: 37090
+    engagement: 80
+    commentsToLikes: 0.054241
+    id: ck5hp9tx8qzvm0i115w566ejj
     verified: false
-    hashtags: "#diehesslischen, #limpiezafacial, #cumplea, #vidasaudavel"
+    hashtags: "#lima, #veganfood, #crudiperuanos, #vegan"
 ---

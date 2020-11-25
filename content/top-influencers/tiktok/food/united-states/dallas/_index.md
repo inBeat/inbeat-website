@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Dallas In 2020
 description: >-
-  Find top food TikTok influencers in Dallas in 2020. Most popular hashtags: #food #friends #gotthisforyou #dallas.
+  Find top food TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #foryoupage #food.
 platform: TikTok
+hits: 55
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 55 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "waleedeats"
+  - username: "paigealwayswright"
     fullname: >-
-      Waleed Maoed
+      Paige W.
+    bio: >-
+      A 20 sumn that mostly makes videos about food. Dallas IG: @paigealwayswright_
     location: "United States"
-    followers: 16453
-    engagement: 959
-    commentsToLikes: 0.036420
-    id: cka0i7kfrcgi30i78kf9tbtt9
+    followers: 16500
+    engagement: 1162
+    commentsToLikes: 0.012134
+    id: ckcpcatkpfjje0j23hwjzog88
     verified: false
-    hashtags: "#donuts, #buffet, #burrito, #tiktokarab"
-  - username: "milkytreatsicecream"
+    hashtags: "#cooking, #healthyfood, #whatieatinaday, #food"
+  - username: "morsagram"
     fullname: >-
-      milkytreats
+      Morsagram
+    bio: >-
+      Follow me on IG: @morsagram_
     location: "United States"
-    followers: 56433
-    engagement: 1399
-    commentsToLikes: 0.007620
-    id: ck9floc4sp50s0j786xuq7ekb
+    followers: 16600
+    engagement: 583
+    commentsToLikes: 0.056510
+    id: ckdsv9262q2cg0j235rjuoic4
     verified: false
-    hashtags: "#vibecheck, #munchies, #vday, #yummyyummy"
-  - username: "trainerkat"
+    hashtags: "#foryourpage, #camarozls, #viral, #1320"
+  - username: "stephancarrolldesigns"
     fullname: >-
-      TrainerKat
+      Stephan Carroll
+    bio: >-
+      Design solutions and content for teams Check me out on IG, Twitter, and Ejimoo
     location: "United States"
-    followers: 5222
-    engagement: 1073
-    commentsToLikes: 0.053273
-    id: ckae0xw0im6cl0i780ubyvqxq
+    followers: 6340
+    engagement: 530
+    commentsToLikes: 0.042990
+    id: ck9fmcpo9so0x0j783t05ruxt
     verified: false
-    hashtags: "#strong, #coffeeislife, #getsome, #notfortheweak"
-  - username: "originalgainsterr"
+    hashtags: "#nflplayoffs, #sports, #fyp, #nflvideos"
+  - username: "itsjazziejas"
     fullname: >-
-      originalgainsterrr
+      Jasmine💕🥳
+    bio: >-
+      CEO of We Got A Situation 21🍾SaTx🤠40k🥺 I lift🏋🏽‍♀️ Dreams to Reality
     location: "United States"
-    followers: 81440
-    engagement: 841
-    commentsToLikes: 0.016998
-    id: ck8kh4eirl9sa0j78m4na0x36
+    followers: 37500
+    engagement: 1659
+    commentsToLikes: 0.054799
+    id: ck9si0azswc3o0j78mepe17oz
     verified: false
-    hashtags: "#heysiri, #airforce, #texascheck, #barbershop"
-  - username: "itsmejjp"
+    hashtags: "#greenscreensticker, #halloween, #micellarrewind, #sanantonio"
+  - username: "vincentvannn"
     fullname: >-
-      Jessie
+      Vincent Doyle
+    bio: >-
+      Dallas Texas🤠 Youtuber/Photographer HUSLTE & MOTIVATE Instagram @VincentVannn
     location: "United States"
-    followers: 3675
-    engagement: 690
-    commentsToLikes: 0.051566
-    id: ckacffoibqqsi0i78s6bsuphw
+    followers: 3703
+    engagement: 795
+    commentsToLikes: 0.051420
+    id: ckbf1kskwnrav0j23gs3xu7hl
     verified: false
-    hashtags: "#tiktokfamous, #peanuttbutter, #exboyfriend, #dancechallenge"
-  - username: "juandaniielz"
+    hashtags: "#foryou, #dallas, #viral, #money"
+  - username: "chrisjohnny00"
     fullname: >-
-      Juan
+      Chris Johnny
+    bio: >-
+      I FOLLOW BACK ON INSTA⬆️⬆️
     location: "United States"
-    followers: 41577
-    engagement: 1028
-    commentsToLikes: 0.019748
-    id: ck8s8jkwsu2ve0j788qv6g81j
+    followers: 29500
+    engagement: 1764
+    commentsToLikes: 0.035113
+    id: ckdbbysqp6kuw0j23n3ed12zx
     verified: false
-    hashtags: "#imblind, #werkitfromhome, #butterglosspop, #color"
-  - username: "chefshivanipatel"
+    hashtags: "#lightskin, #fo, #love, #for"
+  - username: "taythesciencekid"
     fullname: >-
-      Shivani Patel
+      TayTheScienceKid
+    bio: >-
+      YT🎥: TayTheScienceKid tavionqc@gmail.com 📩 CEO: "They gone love this" 🦄🍟🐸
     location: "United States"
-    followers: 2240
-    engagement: 511
-    commentsToLikes: 0.096132
-    id: ckakodmk8azh70i78dq37epit
+    followers: 156500
+    engagement: 1993
+    commentsToLikes: 0.024019
+    id: ckb9pgixokkvm0j23zefit7ek
     verified: false
-    hashtags: "#finalsathome, #sparkling, #gotthisforyou, #healthheroes"
-  - username: "marthanle"
+    hashtags: "#texas, #coupledup, #foryou, #trending"
+  - username: "1129beto"
     fullname: >-
-      Martha Le
+      Beto
+    bio: >-
+      Houston👤 17
     location: "United States"
-    followers: 2484
-    engagement: 342
-    commentsToLikes: 0.053910
-    id: ckaicc31ljyfx0i78b4r4ov3y
+    followers: 12600
+    engagement: 1461
+    commentsToLikes: 0.014317
+    id: ckdnalihvg51y0j23zumvhvcm
     verified: false
-    hashtags: "#happyathome, #formyvalentine, #photoshoot, #randomthings"
-  - username: "jwitchytv"
+    hashtags: "#timewarpscan, #southeastbabyyy, #fyp, #houston"
+  - username: "stephenvtran"
     fullname: >-
-      jWitchy
+      stephenvtran
+    bio: >-
+      Discover Dallas with me 💎 Full episodes on IG: @stephenvtran
     location: "United States"
-    followers: 4443
-    engagement: 1032
-    commentsToLikes: 0.051695
-    id: ck9ej6pwv0y410j782z3wn09t
+    followers: 24600
+    engagement: 993
+    commentsToLikes: 0.037647
+    id: ckc7uqedyyjae0j23dw3s3m7r
     verified: false
-    hashtags: "#grading, #seniorcitzen, #hikes, #danzaazteca"
-  - username: "gabriellebleggi"
+    hashtags: "#dallasfood, #dallasfoodie, #dallas, #dallasdesserts"
+  - username: "cuzzoab"
     fullname: >-
-      Gabrielle Bleggi
+      Cuzzo
+    bio: >-
+      HER. YouTube: CUZZO AB www.cuzzoab.com FULL VIDEO 👇🏾👇🏾
     location: "United States"
-    followers: 23376
-    engagement: 1255
-    commentsToLikes: 0.011824
-    id: ck9dwocwtpv2j0j784n5zdwm1
+    followers: 532700
+    engagement: 1580
+    commentsToLikes: 0.014622
+    id: ck9floeapp5kt0j78v5zge3nr
     verified: false
-    hashtags: "#tuna, #catfish, #ribeyesteak, #gabi"
+    hashtags: "#cuzzoab, #seafood, #mukbang, #crawfish"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Birmingham In 2020
 description: >-
-  Find top food TikTok influencers in Birmingham in 2020. Most popular hashtags: #food #comedy #birmingham #foodie.
+  Find top food TikTok influencers in Birmingham in 2020. Most popular hashtags: #fyp #funny #birmingham #food.
 platform: TikTok
+hits: 15
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Birmingham, United Kingdom for you to connect with.
 profiles:
-  - username: "thqureshi1"
+  - username: "official__funny"
     fullname: >-
-      thqureshi1
+      Official__Funny
+    bio: >-
+      1000 ✅ 5000 ✅ 10,000✅
     location: "United Kingdom"
-    followers: 27417
-    engagement: 727
-    commentsToLikes: 0.018812
-    id: ck80oca8lgr4z0j78j6497jd9
+    followers: 12300
+    engagement: 992
+    commentsToLikes: 0.002827
+    id: ckbfdfwt96t5s0j23up39uyfr
     verified: false
-    hashtags: "#stayathome, #coronavirus, #toronto, #aquarium"
-  - username: "selfiequeen7868"
+    hashtags: "#legends, #viral, #fypage, #houseoftiktok"
+  - username: "jamal.greaves"
     fullname: >-
-      Sonia👑A♥️S
+      Jamal Greaves
+    bio: >-
+      ✨ Celebrity Blogger & Social Influencer ✨ ⚡️ YouTube series coming soon! ⚡️
     location: "United Kingdom"
-    followers: 37707
-    engagement: 1493
-    commentsToLikes: 0.016409
-    id: ck9nh7zxwfrwa0j78fbnjiujb
+    followers: 13700
+    engagement: 1377
+    commentsToLikes: 0.065093
+    id: ck8koi9wfhugv0j78lvtq5i8g
     verified: false
-    hashtags: "#pakistani, #masjidnabawi, #love, #titokpakistan"
-  - username: "charliehodgson34"
+    hashtags: "#funny, #gay, #love, #comedy"
+  - username: "ministryofmunch"
     fullname: >-
-      Charlie Hodgson
+      ministryofmunch
+    bio: >-
+      Street food, seafood or smoothie bowls... you can learn it all here!🍟
     location: "United Kingdom"
-    followers: 2241
-    engagement: 656
-    commentsToLikes: 0.008972
-    id: cka0gcqy83pe70i78gk6z2013
-    verified: false
-    hashtags: "#123go, #eurovieion, #song, #annoyed"
-  - username: "jamesstonhill"
+    followers: 17500
+    engagement: 903
+    commentsToLikes: 0.017354
+    id: ckb9s7ff4pb710j2379cvir26
+    verified: true
+    hashtags: "#healthy, #learnontiktok, #foryou, #munch"
+  - username: "justurlittleasianfriend"
     fullname: >-
-      James Stonhill
+      UrLittleAsianFriend
+    bio: >-
+      Click on the camera icon for a surprise 👆🏼 Follow me on Depop👇🏼💕
     location: "United Kingdom"
-    followers: 47938
-    engagement: 1193
-    commentsToLikes: 0.016569
-    id: ck8adjgqb6ohi0j78w0n9btcs
+    followers: 43300
+    engagement: 1529
+    commentsToLikes: 0.023060
+    id: ck92x2w5awxhf0j78ijyvn6ix
     verified: false
-    hashtags: "#couples, #trickshot, #beats, #diving"
-  - username: "willmcb"
+    hashtags: "#makeup, #sats, #tips, #studying"
+  - username: "jams_the_man"
     fullname: >-
-      Will McBride
+      Jam
+    bio: >-
+      Mixed videos enjoy 😉
     location: "United Kingdom"
-    followers: 750066
-    engagement: 3495
-    commentsToLikes: 0.013501
-    id: ck933wll6q4jq0j78rx96o2e9
+    followers: 12200
+    engagement: 383
+    commentsToLikes: 0.023890
+    id: ckcp23vbxbhbn0j235tk7q1f6
     verified: false
-    hashtags: "#itstoastietimebaby, #ikindawannalogintoanamericansnapchataccount, #idontevenlikechocolatethatmuch, #ithinkimjustgonnaselltheswitchonebay"
-  - username: "mangovibee"
+    hashtags: "#pakstani, #indian, #pak, #bradford"
+  - username: "tasmina_khan"
     fullname: >-
-      rosie 🧚🏻‍♀️
+      Tasmina Khan
+    bio: >-
+      📸 @tasmina_khan 👻 @tasmina_khan
     location: "United Kingdom"
-    followers: 10849
-    engagement: 2511
-    commentsToLikes: 0.128893
-    id: cka0zjv2wfr4i0i78zgiw1v0i
+    followers: 3859
+    engagement: 450
+    commentsToLikes: 0.038069
+    id: ckamyj9tshue40i78hp6rql3c
     verified: false
-    hashtags: "#april, #eastereggs, #followergain, #bujo"
-  - username: "s_tumpa"
+    hashtags: "#viral, #bengali, #trending, #friends"
+  - username: "padcast"
     fullname: >-
-      Sadia Tumpa 
+      Padcast
+    bio: >-
+      Insta:Padcastig Twitter:@padcast Have fun and let's enjoy tiktok Merch in store.
     location: "United Kingdom"
-    followers: 77921
-    engagement: 1241
-    commentsToLikes: 0.041837
-    id: ck9m0qjr6b9qk0j78s93jzat0
+    followers: 135100
+    engagement: 2390
+    commentsToLikes: 0.060582
+    id: cka65lhs5dmso0i78uyg56pso
     verified: false
-    hashtags: "#shoot, #london, #duet, #she"
-  - username: "mattadlard"
+    hashtags: "#fyp, #australia, #foryou, #fans"
+  - username: "ibabthekebab"
     fullname: >-
-      Matt Adlard 
+      Ibabthekebab
+    bio: >-
+      London Yuh Pakistani Yuh
     location: "United Kingdom"
-    followers: 73968
-    engagement: 2007
-    commentsToLikes: 0.011939
-    id: ck8adibkn6fvq0j78pblhnpyq
+    followers: 10100
+    engagement: 1435
+    commentsToLikes: 0.078488
+    id: ckdnbs1h9gfzg0j23synovgom
     verified: false
-    hashtags: "#psychopath, #food, #bread, #albumlookalike"
-  - username: "jamesbrooksco"
+    hashtags: "#trend, #dajjal, #makkah, #hijab"
+  - username: "landofthepakis"
     fullname: >-
-      James Brooks
+      Ya Pakistani ya
+    bio: >-
+      You probably know me ! 😎💕
     location: "United Kingdom"
-    followers: 118347
-    engagement: 1624
-    commentsToLikes: 0.040964
-    id: ck8oreutobygr0j78mg0l9bhd
+    followers: 4293
+    engagement: 1312
+    commentsToLikes: 0.093965
+    id: ckciv39sh0nf70j23m9wa7ect
     verified: false
-    hashtags: "#slowmo, #soda, #bread, #oreo"
-  - username: "maxim1111on"
+    hashtags: "#pakistanimemes, #ldn, #brixton, #pakistanimeme"
+  - username: "mrcourt90"
     fullname: >-
-      Max Hindle
+      Jay Court 🚑💙
+    bio: >-
+      30,Single,Brummie🇬🇧Xbox🎮NHS🚑💙 👻MrCourt90👻 Road to... Amarillo😂🤣 🔞
     location: "United Kingdom"
-    followers: 79129
-    engagement: 1412
-    commentsToLikes: 0.078570
-    id: ck8ouybrdrp610j78kebhdqq3
+    followers: 4680
+    engagement: 819
+    commentsToLikes: 0.088504
+    id: ckcp9jjmmedjk0j23p2b8r13m
     verified: false
-    hashtags: "#fitness, #lawofattraction, #money, #glowup"
+    hashtags: "#piercings, #foryou, #foru, #foryourpage"
 ---

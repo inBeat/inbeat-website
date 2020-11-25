@@ -1,87 +1,106 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top lingerie Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #model #explorepage #fashion.
+  Find top lingerie Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #explorepage #endsars #fashion.
 platform: Instagram
+hits: 8
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 8 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "isabella_georgewill"
+  - username: "yes_iam_vinah"
     fullname: >-
-      🌺ISABELLA GEORGEWILL🌺
+      Omo Calabar Toh Badt🇳🇬 🌈
+    bio: >-
+      NOT ON FACEBOOK❌ BEWARE 💰INFLUENCER 👩‍💻CEO @let_me_style_you_ @Vinahs_glow @scent_of_fame @vinahs_lingeries 👻Snap: Myzvinah8 Twitter: @vinahlam
     location: "Nigeria"
-    followers: 92167
-    engagement: 125
-    commentsToLikes: 0.039451
-    id: ck5hrhr9wuwha0i11f8cqkuk4
+    followers: 167398
+    engagement: 296
+    commentsToLikes: 0.013534
+    id: ck134mqc1x6yf0i197h09jeol
     verified: false
-    hashtags: "#stayhome, #what"
-  - username: "quick_steph"
+    hashtags: ""
+  - username: "realsophy"
     fullname: >-
-      QUEEN STEPHANIE 👑🇦🇺🇳🇬
+      SHADES OF SOPHIA ♉️
+    bio: >-
+      👩‍🍳Chef @tastewithsophy ✈️Tourist 👻Real_sophy Twitter: Realsophy
     location: "Nigeria"
-    followers: 20757
-    engagement: 1294
-    commentsToLikes: 0.033272
-    id: ck5hg8n5y1i6r0i11qldvz7qf
+    followers: 72133
+    engagement: 616
+    commentsToLikes: 0.079455
+    id: ck5hrhn71uw9s0i11uinjrqi5
     verified: false
-    hashtags: "#elegant, #crystalteeth, #influencer, #styleinspo"
-  - username: "kythegod__"
+    hashtags: "#video, #wig, #realsophy, #africa"
+  - username: "swinny_vanora"
     fullname: >-
-      𝑶𝒚𝒆𝒏𝒊𝒚𝒊 𝑲𝒆𝒍𝒍𝒚 {𝑲𝒀}
+      Vanora
+    bio: >-
+      Realist ..strong woman... M.A @modelacademyagency 🇮🇹 @loysmodels 🇿🇦 💌 swininga@gmail.com Art @melano_blvck @vanora_official @_vanoraa #swinny_vanora
     location: "Nigeria"
-    followers: 17131
-    engagement: 538
-    commentsToLikes: 0.047409
-    id: ck5hrhtjfuwl10i11tteb56zq
+    followers: 8287
+    engagement: 424
+    commentsToLikes: 0.098845
+    id: ck6tn2lf590bj0j71wboa9big
     verified: false
-    hashtags: "#model, #actor, #exploretocreate, #exploring"
+    hashtags: "#fashionmodel, #darknlovely, #blackgoddess, #darkskinwomen"
   - username: "__stephaaany"
     fullname: >-
       Stephanie Onyenso
+    bio: >-
+      🐣-@__Stephaaany 👻-mzz_steph98 •Brand influencer •Actress •Model •Vixen✨ Growing And Glowing at Godspeed🙏✨
     location: "Nigeria"
-    followers: 4616
-    engagement: 1473
-    commentsToLikes: 0.051503
+    followers: 5126
+    engagement: 880
+    commentsToLikes: 0.082112
     id: ck5hg5h6210rv0i11hvegsk2n
     verified: false
-    hashtags: "#beautifulangel, #gothic, #skinlikemilk, #queen"
-  - username: "frankiefrankphotos"
+    hashtags: "#wednesday, #braids, #mondaymotivation, #explorepage"
+  - username: "oduoladamola"
     fullname: >-
-      Frankie Frank Photography
+      Oduola Damola Photography
+    bio: >-
+      Portrait | Weddings Enquiries and Bookings 08125092910 Bookings@oduoladamola.com
     location: "Nigeria"
-    followers: 6424
-    engagement: 1016
-    commentsToLikes: 0.018476
-    id: ck5hdgxfcndko0i111kfnigjy
+    followers: 105015
+    engagement: 50
+    commentsToLikes: 0.025693
+    id: ck8tbliobw4f00j78iyajd3tm
     verified: false
-    hashtags: "#nigeria, #cardib, #emsho2020, #wizkid"
+    hashtags: "#weddingphotography, #photography, #wedding, #oduoladamola"
+  - username: "kythegod__"
+    fullname: >-
+      ★彡 𝐵𝒜𝑅𝐵𝐼𝐸 𝒟𝒪𝐿𝐿 彡★
+    bio: >-
+      𝟏𝟗 🤟 𝐂𝐞𝐥𝐞𝐛𝐫𝐢𝐭𝐲 𝐕𝐢𝐝𝐞𝐨 𝐕𝐢𝐱𝐞𝐧 𝐁𝐞𝐚𝐮𝐭𝐲•𝐅𝐚𝐬𝐡𝐢𝐨𝐧•𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞•𝐓𝐫𝐚𝐯𝐞𝐥 @faceofafricaorg @ky.closette @ky.beaute @kykorner @letusgain_ @kyinteriors.ng
+    location: "Nigeria"
+    followers: 17134
+    engagement: 552
+    commentsToLikes: 0.104996
+    id: ck5hrhtjfuwl10i11tteb56zq
+    verified: false
+    hashtags: "#skin, #roadtonigerianqueen2020, #skincare, #exploremore"
   - username: "elyeanur_"
     fullname: >-
       eleanor🌺
+    bio: >-
+      👻: elyeanor. 🐥: elyeanor1 . Learn to mind the business that pays you💆‍♀️⁉️. I am more than what you see here💯. 🇳🇬🇹🇭
     location: "Nigeria"
-    followers: 6389
-    engagement: 2957
-    commentsToLikes: 0.053259
+    followers: 6356
+    engagement: 2207
+    commentsToLikes: 0.060589
     id: ck6tvgnjum4im0j71wudsyvzx
     verified: false
-    hashtags: "#deleting"
-  - username: "t.lolo_"
+    hashtags: "#explore, #explorepage, #deletingsoon, #bodybuilding"
+  - username: "khrayyy"
     fullname: >-
-      LOLO 🌶
+      Khersie☁️
+    bio: >-
+      •Model •Brand Ambassador @luxebyglamoholic •Brand Influencer •Forex trader📈 Twitter :khrayyy 📍Italy🇮🇹/Nigeria🇳🇬
     location: "Nigeria"
-    followers: 28440
-    engagement: 405
-    commentsToLikes: 0.014324
-    id: ck15ptldlzk4p0i195oszzskq
+    followers: 25084
+    engagement: 820
+    commentsToLikes: 0.034678
+    id: ckf5m4z53s9mo0j23u8hj3w1p
     verified: false
-    hashtags: "#02, #tiktok, #stayathome, #athomewithme"
-  - username: "mychaskia"
-    fullname: >-
-      BARR. OMOREGIE PRECIOUS_O
-    location: "Nigeria"
-    followers: 21175
-    engagement: 213
-    commentsToLikes: 0.053304
-    id: ck8sy6zqhjxlu0j78wekn0ard
-    verified: false
-    hashtags: "#blessed, #ad, #stayayhome, #saturdayvibes"
+    hashtags: "#naturalhaircommunity, #waist, #naturalbodycare, #naturalhairjourney"
 ---

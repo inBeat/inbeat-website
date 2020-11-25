@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness TikTok Influencers In Canada In 2020
 description: >-
-  Find top wellness TikTok influencers in Canada in 2020. Most popular hashtags: #healthyrecipes #greenscreen #healthtips #duet.
+  Find top wellness TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #wellness #foryou #duet.
 platform: TikTok
+hits: 48
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 48 TikTok influencers like this in Canada for you to contact.
 profiles:
+  - username: "embarrassingteacher"
+    fullname: >-
+      A. Grace Martin
+    bio: >-
+      High school teacher, Mom, YA author ❤️ Positivity, Wellness, Self Love ❤️ 🇨🇦
+    location: "Canada"
+    followers: 5476
+    engagement: 831
+    commentsToLikes: 0.091529
+    id: ckdt4jkj3stlf0j2394vjykv0
+    verified: false
+    hashtags: "#wellness, #selfcare, #teachersoftiktok, #mindfulness"
+  - username: "ammmyy79"
+    fullname: >-
+      Ammy
+    bio: >-
+      Wellness Coach 💥 Contact me for Inquiries - ✨Weight Lose or Gain ✨Skin Issues
+    location: "Canada"
+    followers: 21900
+    engagement: 1381
+    commentsToLikes: 0.038878
+    id: ckbfga9ohbc0j0j2379xtlge4
+    verified: false
+    hashtags: "#edutok, #tiktok, #weightloss, #foryoupage"
   - username: "emilymparr"
     fullname: >-
       Emily Parr
+    bio: >-
+      Spirituality/Wellness Influencer ✨Stay Golden✨ EMpowering the Divine You ☁️
     location: "Canada"
-    followers: 2046
-    engagement: 854
-    commentsToLikes: 0.053917
+    followers: 62700
+    engagement: 912
+    commentsToLikes: 0.027729
     id: ckacfg21zqt000i788n329lm3
     verified: false
-    hashtags: "#yinyang, #dating, #meditation, #purplehair"
+    hashtags: "#levelup, #spiritualawakening, #mercuryretrograde, #mentalwellness"
+  - username: "thecrazydoggirl"
+    fullname: >-
+      Brianne Manuel
+    bio: >-
+      Animals. Photography. Mental wellness. Good vibes. ☮️
+    location: "Canada"
+    followers: 2772
+    engagement: 1389
+    commentsToLikes: 0.044409
+    id: ckdhpriu91hfs0j2393vf7rf5
+    verified: false
+    hashtags: "#myhobby, #myjob, #xyzcba, #canada"
+  - username: "dmkzy"
+    fullname: >-
+      Dmkzy
+    bio: >-
+      Published model Health and wellness coach Instagram @dmkzy
+    location: "Canada"
+    followers: 23400
+    engagement: 1141
+    commentsToLikes: 0.036252
+    id: ckceh0gr9ol2b0j23hmmodrpg
+    verified: false
+    hashtags: "#duetwithme, #duet, #endsars, #fyp"
   - username: "ana.erak"
     fullname: >-
       Ana E
+    bio: >-
+      Food - Fitness - Wellness ✨🖤
     location: "Canada"
-    followers: 11827
-    engagement: 627
-    commentsToLikes: 0.033965
+    followers: 12300
+    engagement: 572
+    commentsToLikes: 0.035735
     id: ck9flks5xoaut0j786priqtqf
     verified: false
-    hashtags: "#veganrecipe, #may4th, #throwback, #moveyourbody"
-  - username: "hannahmagee_rd"
+    hashtags: "#blonde, #fy, #toronto, #weightloss"
+  - username: "greenluxe"
     fullname: >-
-      Hannah Magee, RD
+      Greenluxetravel
+    bio: >-
+      Travel | Wellness | Sustainability Follow my Van Build & Come Along for the Ride
     location: "Canada"
-    followers: 7049
-    engagement: 687
-    commentsToLikes: 0.023322
-    id: ck8071elvnvdh0j78aztskv48
+    followers: 18000
+    engagement: 588
+    commentsToLikes: 0.054739
+    id: ck90r21i2kq560j78a5w6tnqv
     verified: false
-    hashtags: "#keepingbusy, #food, #vegetarian, #breakfast"
-  - username: "becka.crowe"
+    hashtags: "#treehouse, #traveldiaries, #jungle, #rainforestfacts"
+  - username: "katecraigwellness"
     fullname: >-
-      Becka
+      katecraigwellness
+    bio: >-
+      she/her practicing wellness, mindfulness & fitness ig @katecraigwellness
     location: "Canada"
-    followers: 18554
-    engagement: 607
-    commentsToLikes: 0.011581
-    id: ck8qixetxaxgo0j781z0mww5r
+    followers: 289600
+    engagement: 691
+    commentsToLikes: 0.007185
+    id: ckb9go89m5yu00j23k4ei8p5z
     verified: false
-    hashtags: "#tacos, #beauty, #healthyrecipes, #avocadotoast"
-  - username: "priscilla.ventura"
+    hashtags: "#wellnesstips, #fitness, #intuitiveeating, #fitnessgirls"
+  - username: "fitsara"
     fullname: >-
-      Priscilla Ventura
+      Sara Fiorvento
+    bio: >-
+      Fitness and wellness 🌿 Sharing what works for me ✌🏼 Bikini bodybuilder ⚡️
     location: "Canada"
-    followers: 52701
-    engagement: 589
-    commentsToLikes: 0.008189
-    id: ck83zdpgdztxe0j78nbacuey5
+    followers: 128200
+    engagement: 690
+    commentsToLikes: 0.008829
+    id: ckb9uxbnott2w0j231qas2bzz
     verified: false
-    hashtags: "#health, #skincareaddict, #amazonhome, #beautyroutine"
+    hashtags: "#foryou, #fitness, #gym, #foryoupage"
   - username: "tatted_mama81"
     fullname: >-
       Sheri Lafond
+    bio: >-
+      #sistersinhealing #projectsmilemore #thesherishow Self love always wins!
     location: "Canada"
-    followers: 4752
-    engagement: 2072
-    commentsToLikes: 0.137322
+    followers: 12900
+    engagement: 2060
+    commentsToLikes: 0.218935
     id: ckajax0vqkz5j0i783v40iann
     verified: false
-    hashtags: "#roadto5k, #beweird, #21questions, #boymom"
-  - username: "jon_inspires"
-    fullname: >-
-      Jon Hansen
-    location: "Canada"
-    followers: 8157
-    engagement: 1370
-    commentsToLikes: 0.109330
-    id: ck9k4yy18upvt0j78f4t79mn0
-    verified: false
-    hashtags: "#sefltalk, #gratitude, #music, #teacher"
-  - username: "michellejaelinrd"
-    fullname: >-
-      Michelle Jaelin, RD
-    location: "Canada"
-    followers: 2771
-    engagement: 501
-    commentsToLikes: 0.109994
-    id: ckaftsbg96px60i7840eamxrs
-    verified: false
-    hashtags: "#noodles, #asiansquat, #stirfry, #homemade"
-  - username: "tasteofnutrition"
-    fullname: >-
-      Katey Davidson, RD
-    location: "Canada"
-    followers: 53804
-    engagement: 874
-    commentsToLikes: 0.029678
-    id: ck8f933v73pon0j78o26s7d4f
-    verified: false
-    hashtags: "#tiktokwellness, #littlethings, #probiotics, #fitness"
-  - username: "eoin_carroll"
-    fullname: >-
-      Eoin Carroll.
-    location: "Canada"
-    followers: 42420
-    engagement: 352
-    commentsToLikes: 0.036409
-    id: ck81s3y8mptel0j781cnqbsry
-    verified: false
-    hashtags: "#quarantinehaircuts, #trf, #newhaircut, #immuneboost"
+    hashtags: "#workoutsnob, #wellnesscheck, #sistersoftheuniverse, #projectsmilemore"
 ---

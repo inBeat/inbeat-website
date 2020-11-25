@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Madrid In 2020
 description: >-
-  Find top nutrition Instagram influencers in Madrid in 2020. Most popular hashtags: #nutrition #madrid #healthy #barcelona.
+  Find top nutrition Instagram influencers in Madrid in 2020. Most popular hashtags: #fitness #nutrition #fit #workout.
 platform: Instagram
+hits: 34
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 34 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
-  - username: "calderonchris_oficial"
-    fullname: >-
-      Christopher calderon 🇪🇸 🇪🇺
-    location: "Spain"
-    followers: 36029
-    engagement: 143
-    commentsToLikes: 0.088437
-    id: ckap22yggx5it0i78gelwp0zs
-    verified: false
-    hashtags: "#merrychristmas, #valencia, #happy, #liketime"
-  - username: "borja_garcia.10"
-    fullname: >-
-      Borja Garcia Freire
-    location: "Spain"
-    followers: 5422
-    engagement: 2100
-    commentsToLikes: 0.025442
-    id: ckap0kr6eqqlq0i78lv2t79yp
-    verified: true
-    hashtags: "#pokebowl, #bienestar, #organiccoffee, #fitness"
-  - username: "artfox_official"
-    fullname: >-
-      Art Fox
-    location: "Spain"
-    followers: 46789
-    engagement: 493
-    commentsToLikes: 0.106495
-    id: ck14gxyg47keu0i19e165tict
-    verified: false
-    hashtags: "#spain2020, #crossfit, #biglittlelies, #nutrition"
-  - username: "druny.williams"
-    fullname: >-
-      Druny Williams
-    location: "Spain"
-    followers: 7654
-    engagement: 754
-    commentsToLikes: 0.031833
-    id: ck5pzmfi41p4b0i11xnupm86j
-    verified: false
-    hashtags: "#gayselfie, #movistaplus, #keepcalm, #gayworld"
-  - username: "alicia.landivar"
-    fullname: >-
-      Alicia M. Landivar
-    location: "Spain"
-    followers: 42930
-    engagement: 183
-    commentsToLikes: 0.026838
-    id: ck13d15ox353b0i19xhx3ve1t
-    verified: false
-    hashtags: "#puertorico, #bsas, #reflexion, #seguiradelante"
   - username: "newbody_fc"
     fullname: >-
       Javi New Body
+    bio: >-
+      ⚡️|¿Quieres transformar tu vida? Follow💪 📩|info@nbfitness.es 👨‍✈️|CEO & CO-FOUNDER @mytotemdff #comidafit a domicilio 😔|🤩¡Ell@s ya lo lograron!+info👇
     location: "Spain"
     followers: 45726
     engagement: 111
     commentsToLikes: 0.112663
     id: ck5bunv4ni4440i111upnu00l
     verified: false
-    hashtags: "#fitnessworkouts, #bookstagram, #rise, #vegan"
-  - username: "luisypedroj"
+    hashtags: "#corona, #instagram, #mentalidadmillonaria, #fitnessmotivation"
+  - username: "matiroure"
     fullname: >-
-      Luis Y Pedro
+      Matias Roure
+    bio: >-
+      .Follow your bliss .We are one .Sport Lover / PT .Vegetarian / Nutrition .Surf Lover / Surf Trips .Model / Actor .Barman @firstdates_tv .Madrid,Spain
     location: "Spain"
-    followers: 6227
-    engagement: 538
-    commentsToLikes: 0.083855
-    id: ck8t9ki0nofhy0j78tn76f658
+    followers: 52844
+    engagement: 364
+    commentsToLikes: 0.015979
+    id: ck6tw34fxpqpr0j71zdkqex4b
     verified: false
-    hashtags: "#cuarentenatime, #familiayamigos, #wish, #lovebooks"
-  - username: "daniegm27"
+    hashtags: "#sunday, #blackandwhite, #horizonte, #summer"
+  - username: "borja_garcia.10"
     fullname: >-
-      Dani Garcia
+      Borja Garcia Freire
+    bio: >-
+      Futbolista profesional @sdhuesca 🏡 Co-Founder of @sanumhealthyhouse Madrid (Villaverde)📍 Shelby 😺 Comprador de tiempo ♏️🔑
     location: "Spain"
-    followers: 13610
-    engagement: 815
-    commentsToLikes: 0.032670
-    id: ck8t6t5e1elxa0j78opsz9sy8
-    verified: false
-    hashtags: "#foodporn, #foodielove, #quedateencasa, #foodiegrammer"
-  - username: "tulipwonderland_"
+    followers: 6679
+    engagement: 2198
+    commentsToLikes: 0.031458
+    id: ckap0kr6eqqlq0i78lv2t79yp
+    verified: true
+    hashtags: "#alwaystogether, #orgullgiron, #girona, #gironafc"
+  - username: "sandrita_pm"
     fullname: >-
-      TulipWonderland
+      Ｓａｎｄｒｉｔａ
+    bio: >-
+      FITNESS|WORKOUT|FOOD ➖➖➖➖➖➖➖➖➖ 📍@snavteam ®️simplemente hazlo. 📩 snav@onlyfitnesslife.com 🔺 10% descuento @emfit_nutrition SANDRITA_PM
     location: "Spain"
-    followers: 12993
-    engagement: 584
-    commentsToLikes: 0.137394
-    id: ck8tcw34e0wpn0j78ji9gl0e9
+    followers: 12064
+    engagement: 459
+    commentsToLikes: 0.068158
+    id: ck8sxqnffib290j78t5uj0300
     verified: false
-    hashtags: "#pulsera, #cuidadodelapiel, #birra, #retrato"
-  - username: "franguilln"
+    hashtags: "#healthylifestyle, #fitness, #motivacion, #breakfast"
+  - username: "aesthetics.lion"
     fullname: >-
-      Fran LifeStyle📍Madrid • Spain
+      Leo “The Lion” Favaro
+    bio: >-
+      Personal and Online Coach 🖥 - 🇪🇸 🇮🇹 🇺🇸 IFBB PRO LEAGUE Men's Physique Fitness Model @yamamotonutrition TEAM @thegrimfrost athlete
     location: "Spain"
-    followers: 15883
-    engagement: 196
-    commentsToLikes: 0.044267
-    id: ckaotp82rwvkp0i78ueuky5na
+    followers: 10793
+    engagement: 96
+    commentsToLikes: 0.056073
+    id: ck0uaee1rc4uo0i19970n30uf
     verified: false
-    hashtags: "#mentalidad, #siguientefase, #nights, #empecemos"
+    hashtags: "#tattoo, #aesthetics, #ifbb, #mensphysique"
+  - username: "paulaellisfit"
+    fullname: >-
+      PAULA ELLIS
+    bio: >-
+      CEO @myfitlife.es 📲Asesorías Online Psicóloga Salud&Deporte🧠 Máster Nutrición-Entreno🍏 Máster Dirección Deportiva🏋🏼‍♀️ 💌paulaellisfit@gmail.com
+    location: "Spain"
+    followers: 61709
+    engagement: 191
+    commentsToLikes: 0.074041
+    id: ck5hcfoq0hu560i11nl5nt23b
+    verified: false
+    hashtags: "#goodmorning, #routine, #dreambig, #aesthetic"
+  - username: "blancanutri"
+    fullname: >-
+      B L A N C A nutricionista👩🏽‍⚕️
+    bio: >-
+      ✨📚El Intestino, nuestro 2do cerebro 🧠 Digestiva🌱 🏥Centro médico @clinicas.segura ☎️ 91 833 77 22 citas 👩🏽‍⚕️Consulta presencial y online 🎓Col MAD707
+    location: "Spain"
+    followers: 313239
+    engagement: 310
+    commentsToLikes: 0.028473
+    id: ck5hjjl7agqu90i11w1mndz7v
+    verified: true
+    hashtags: "#majadahonda, #comida, #bajardepeso, #healthylife"
+  - username: "daly_fit"
+    fullname: >-
+      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
+    bio: >-
+      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ #model Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
+    location: "Spain"
+    followers: 117536
+    engagement: 570
+    commentsToLikes: 0.007230
+    id: ck5q0rg697e720i11nf77u1ua
+    verified: false
+    hashtags: "#femalefitness, #fitfam, #fashion, #modelstyle"
+  - username: "beatrizchoco"
+    fullname: >-
+      𝑩 𝑬 𝑨 𝑻 𝑹 𝑰 𝒁
+    bio: >-
+      𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆𝒅 𝒊𝒏 𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒅𝒆 @ohmvalladolid ॐ 🏘𝘝𝘢𝘭𝘭𝘢𝘥𝘰𝘭𝘪𝘥, 𝘚𝘱𝘢𝘪𝘯
+    location: "Spain"
+    followers: 4516
+    engagement: 2020
+    commentsToLikes: 0.033787
+    id: ckf5mjviwu55n0j23gu6gg8zt
+    verified: false
+    hashtags: "#photooftheday, #girl, #follow, #fitnessgirl"
+  - username: "alicia.landivar"
+    fullname: >-
+      Alicia M. Landivar
+    bio: >-
+      Ed.D.NSC🍃EMDR Therapist☀️Author☀️ Mind, Brain & Education 🌿Parenting Resources 🕊 Teens Montessori Erdkinder🌸 Wellness 👣 #educarnosestransformarnos 🧡
+    location: "Spain"
+    followers: 42930
+    engagement: 183
+    commentsToLikes: 0.026838
+    id: ck13d15ox353b0i19xhx3ve1t
+    verified: false
+    hashtags: "#maracaibo, #vidauna, #juntospodemos, #amar"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Brazil In 2020
 description: >-
-  Find top fashion Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #summer #lookdodia #makeup.
+  Find top fashion Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #publi #challenge.
 platform: Instagram
+hits: 3946
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 3946 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "helenacoelhooo"
+  - username: "thamyscoelho_"
     fullname: >-
-      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+      Thamyres Coelho
+    bio: >-
+      •Não pare até se orgulhar!✨ @pfelipemotta❤️ fashion| beauty and makeup💄 🤝parceria via direct 🎥vídeo/ #challenge toda semana✨
     location: "Brazil"
-    followers: 455499
-    engagement: 2440
-    commentsToLikes: 1.664794
-    id: ck0u0az0ut4qf0i19ylg3kdyp
+    followers: 4305
+    engagement: 2204
+    commentsToLikes: 0.137660
+    id: ck8t8gailkd0h0j789c98fhqb
     verified: false
-    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
-  - username: "gabsxaviier"
+    hashtags: "#uauchallenge, #megustachallenge, #festaemipanemachallenge, #euphoriachallenge"
+  - username: "tai.antunes"
     fullname: >-
-      Gabriella
+      TAI | MODA PLUS & AUTOESTIMA
+    bio: >-
+      Ame-se sendo a mulher que você é! ✨ autoestima ・gorda fashionista・vida real ✉️ contato@taiantunes.com.br Tubarão, SC
     location: "Brazil"
-    followers: 10480
-    engagement: 2206
-    commentsToLikes: 0.079332
-    id: ck14j5f1nipvs0i19c2sna5h2
+    followers: 26596
+    engagement: 1800
+    commentsToLikes: 0.067539
+    id: ck0w2g0uro6ad0i19hjjvnkv1
     verified: false
-    hashtags: "#lookdodia, #blogueirinha, #goodvibes, #modafeminina"
+    hashtags: "#gordas, #modaplussize, #plussizebrasil, #gordofobia"
   - username: "wladyapinheiro_"
     fullname: >-
       W L A D Y A  P I N H E I R O
+    bio: >-
+      Lifestyle|Fashion|Fitness|Empresária BOSS: @mirlaconceito 👗 @pinheiro.acai 🍧 Modelo fotográfica📸 @leoninasfec 🦁 @ayrton_pinheiroo 😍❤️
     location: "Brazil"
-    followers: 19243
-    engagement: 1170
-    commentsToLikes: 0.072770
+    followers: 23682
+    engagement: 1409
+    commentsToLikes: 0.539445
     id: ck9wdwvc5hmpd0j788ol4m86j
     verified: false
-    hashtags: "#summer, #joseavelino, #laion, #lifestyle"
-  - username: "paulavaccari"
+    hashtags: "#inspiration, #instablog, #fotododia, #digitalinfluencer"
+  - username: "andre_rodrig"
     fullname: >-
-      Paula Vaccari
+      André Rodrigues 🇧🇷🇫🇷
+    bio: >-
+      📍Paris Fashion Designer -AR-
     location: "Brazil"
-    followers: 696731
-    engagement: 977
-    commentsToLikes: 0.089197
-    id: ck14gl4gz5r7d0i19ckwgyh9l
-    verified: true
-    hashtags: "#grupozanon, #riachuelovivaamusicaemcasa, #pietra3aninhos, #essaprincesaadisneyn"
-  - username: "tai.antunes"
-    fullname: >-
-      TAI ANTUNES
-    location: "Brazil"
-    followers: 19425
-    engagement: 932
-    commentsToLikes: 0.084472
-    id: ck0w2g0uro6ad0i19hjjvnkv1
+    followers: 10542
+    engagement: 1390
+    commentsToLikes: 0.076446
+    id: ckap68zwlewcy0i78omk37hj3
     verified: false
-    hashtags: "#esmaltesecores, #modaplussizebr, #carnaval2020, #fatfashion"
-  - username: "yasminlsilva"
+    hashtags: "#treeoflife, #gratida, #25yearsold, #maeepaiaomesmotempo"
+  - username: "ysagrilo"
     fullname: >-
-      YASMIN SILVA
+      Ysadora Grilo
+    bio: >-
+      Parte de mim é fashionista chic, outra parte tem um parafuso a menos, ou dois... ✌️🤪 📦 CX.P 19911971 n.517 📩contatoysadoragrilo@gmail.com VÍDEO NOVO👇
     location: "Brazil"
-    followers: 55529
-    engagement: 701
-    commentsToLikes: 0.254202
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 22041
+    engagement: 1371
+    commentsToLikes: 2.009608
+    id: ck6u8noujsmty0j71coushrn0
     verified: false
-    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
-  - username: "dapariz"
+    hashtags: "#tbt, #len, #tb, #girlsfashion"
+  - username: "euosol"
     fullname: >-
-      Dainara Pariz
+      ⠀⠀⠀S O L ☀️
+    bio: >-
+      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
     location: "Brazil"
-    followers: 3369950
-    engagement: 659
-    commentsToLikes: 0.250451
-    id: ck6u0v78uhx7k0j710h8lsfjp
-    verified: true
-    hashtags: "#sorteio, #sorteios"
-  - username: "marianamachado____"
-    fullname: >-
-      Mariana Machado
-    location: "Brazil"
-    followers: 118785
-    engagement: 647
-    commentsToLikes: 0.322100
-    id: ck0vv7g1fnvnc0i19u58h2uir
+    followers: 22411
+    engagement: 1190
+    commentsToLikes: 0.193451
+    id: ck8t5ckqu9ngl0j7824nwj8lj
     verified: false
-    hashtags: "#ring, #teatime, #cutephotography, #sunset"
-  - username: "ninabackes_"
+    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
+  - username: "olaju_"
     fullname: >-
-      NINA
+      julia gimenez
+    bio: >-
+      🔗21 | SP Políticas Públicas - UFABC Hair & Alternative Fashion #olajulook Assistam os stories!
     location: "Brazil"
-    followers: 6874
-    engagement: 1537
-    commentsToLikes: 0.629638
-    id: ck9wopaxn610v0j78oibu9671
+    followers: 26542
+    engagement: 1143
+    commentsToLikes: 0.090897
+    id: ck9hcj61flnwb0j7834ibf8bg
     verified: false
-    hashtags: "#maquiadoro, #visual, #allstar, #quarentine"
-  - username: "maabelcosta"
+    hashtags: ""
+  - username: "amandhasa"
     fullname: >-
-      MABEL COSTA 💕
+      Amanda Araújo
+    bio: >-
+      @lojasexclusivaa João Pessoa | Campina Grande 📩 amandhasaa@gmail.com Fashion | Travel | Business
     location: "Brazil"
-    followers: 43278
-    engagement: 964
-    commentsToLikes: 2.405081
-    id: ckaould2t0rr60i788x52fipz
+    followers: 106015
+    engagement: 948
+    commentsToLikes: 0.517423
+    id: ck14gnyo2668h0i19gbh4ddg9
     verified: false
-    hashtags: "#muscletee, #treinoemcasa, #movimentese, #vemparticipar"
+    hashtags: "#maisumaunidade, #exclusivacampina, #morrodosaopaulo, #bahia"
+  - username: "angelimarilia"
+    fullname: >-
+      Ângeli ♡
+    bio: >-
+      ASSISTA OS STORIES 💁🏽‍♀️ ▫️Beauty/Fashion ✨ lifestyle•cabelo•dicas•autocuidado 📩 angelimarilia@pgbagency.com 📌 Salvador - BA (Isaías 43:10-11).
+    location: "Brazil"
+    followers: 45207
+    engagement: 942
+    commentsToLikes: 0.067377
+    id: ck0w3f5k0t3e60i19990iou96
+    verified: false
+    hashtags: "#reelsinstagram, #publi, #explorar, #travel"
+  - username: "paranoiaviva"
+    fullname: >-
+      José Ferrero
+    bio: >-
+      Tattos/fashion Model and DJ 🎧 Sp/Rj, Brazil📍 @xparanoiavivax
+    location: "Brazil"
+    followers: 56457
+    engagement: 739
+    commentsToLikes: 0.120633
+    id: ck15t4p6fgc2g0i19t30nf0fm
+    verified: false
+    hashtags: ""
 ---

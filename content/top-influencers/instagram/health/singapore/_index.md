@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Singapore In 2020
 description: >-
-  Find top health Instagram influencers in Singapore in 2020. Most popular hashtags: #mothersday #circuitbreaker #staysafe #sunday.
+  Find top health Instagram influencers in Singapore in 2020. Most popular hashtags: #healthylifestyle #singapore #igsg #giveaway.
 platform: Instagram
+hits: 48
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 48 Instagram influencers like this in Singapore for you to contact.
 profiles:
-  - username: "fonekekho"
+  - username: "itsmjq_"
     fullname: >-
-      Foneke
+      𝐌𝐀𝐆𝐆𝐈𝐄 𝐌𝐉𝐐
+    bio: >-
+      🎗It’s always about health & beauty 🥇Content creator | Microbusiness mentor - 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 𝐎𝐅 𝐒𝐇𝐎𝐘𝐎™ 𝐒𝐈𝐍𝐆𝐀𝐏𝐎𝐑𝐄 @mizshoyo_official @candour.official.sg
     location: "Singapore"
-    followers: 38408
-    engagement: 630
-    commentsToLikes: 0.017517
-    id: ck5c1rmipvs9k0i11xuudp5qi
+    followers: 7161
+    engagement: 642
+    commentsToLikes: 0.037385
+    id: ck0w2p1bcph7d0i19dy7i8gd3
     verified: false
-    hashtags: "#friendship, #mask, #fashionista, #eightdegrees"
-  - username: "mirchelley"
+    hashtags: "#shoyosingapore, #mizshoyosingapore, #glowicofficial, #shoyosg"
+  - username: "aimeechengbradshaw"
     fullname: >-
-      MICHELLE TAN 💚
+      Aimee Cheng-Bradshaw
+    bio: >-
+      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠 👀WATCH: Behind-The-Scenes of my Her World SG Cover Shoot👇🏻
     location: "Singapore"
-    followers: 152334
-    engagement: 103
-    commentsToLikes: 0.010597
-    id: ck5cl54biy9ly0i11lek7l1mf
-    verified: false
-    hashtags: "#mood, #quarantine, #stayhome, #workoutchallenge"
-  - username: "chennaifoodtalkies"
-    fullname: >-
-      DEBHASRI VISVANANDAM
-    location: "Singapore"
-    followers: 14717
-    engagement: 1033
-    commentsToLikes: 0.057933
-    id: ck0ue2iyikdu50i19fosopd9r
-    verified: false
-    hashtags: "#bride, #makeup, #27042019, #makeuplooks"
-  - username: "applehong"
-    fullname: >-
-      Apple Hong 洪乙心
-    location: "Singapore"
-    followers: 54159
-    engagement: 117
-    commentsToLikes: 0.030998
-    id: ck5qd6r84u34r0i11u9fsig2r
+    followers: 111865
+    engagement: 230
+    commentsToLikes: 0.016061
+    id: ck55jn7nsxd3r0i11s2wl5m3n
     verified: true
-    hashtags: "#massivewine, #furryfriends, #2005, #avocado"
-  - username: "coolmommy_konnect"
+    hashtags: "#heatrdy, #adidassg, #apmmonaco, #tigercrystal"
+  - username: "jjkatherine"
     fullname: >-
-      Namita Sinha
+      Katherine Tan
+    bio: >-
+      🐳陈秋玲 🍁J.J. 🇹🇭TH | SG🇸🇬 🍳Homecook | Homecafe 🥬IG : jjkatherine | kt.juju 🥪#eatwithjjkatherine 🥘#cookingwithjjkatherine 🧁#homecafewithjjkatherine
     location: "Singapore"
-    followers: 6793
-    engagement: 1042
-    commentsToLikes: 0.109385
-    id: ck8syei3fkle90j78fr5e1273
+    followers: 41361
+    engagement: 227
+    commentsToLikes: 0.124447
+    id: ck5zkb3dwj5f40i14v96ewal9
     verified: false
-    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
-  - username: "rarecray"
+    hashtags: "#foodblogger, #cookingathome, #healthyliving, #cookingwithjjkatherine"
+  - username: "notveron"
     fullname: >-
-      Dan Ng
+      ♡ veronica ♡
+    bio: >-
+      ☀️🏖🥂🎉
     location: "Singapore"
-    followers: 56547
-    engagement: 902
-    commentsToLikes: 0.013544
-    id: ck6ugmdui3vpy0j71uhim1vdo
+    followers: 12960
+    engagement: 454
+    commentsToLikes: 0.022581
+    id: ck5py4mqeual70i11t3ma7vxt
     verified: false
-    hashtags: "#uncovertheultimate, #reno3pro, #clearineveryshot, #mentalhealthawareness"
-  - username: "sharamorr"
+    hashtags: "#healthylifestyle, #asiangirls, #sponsored, #ad"
+  - username: "iamchubbypotato"
     fullname: >-
-      Shara Maria Morada✨🌸
+      Chubby Potato
+    bio: >-
+      𝗙𝗼𝗼𝗱 𝗕𝗹𝗼𝗴－𝗥𝗲𝗰𝗶𝗽𝗲𝘀－𝗧𝗿𝗮𝘃𝗲𝗹－𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 Tinder🔥↦Dated💘↦Married💒 Cambodia🇰🇭↦India🇮🇳↦SG🇸🇬 New Recipe for KungPao Chicken
     location: "Singapore"
-    followers: 2834
-    engagement: 2513
-    commentsToLikes: 0.068178
-    id: ck6tyenya3a640j71fcw457q2
+    followers: 2975
+    engagement: 1098
+    commentsToLikes: 0.080222
+    id: ck136ffj168as0i19d532nyct
     verified: false
-    hashtags: "#takemebacktotaiwan, #fillicafedubai, #traveldubai, #igerdubai"
-  - username: "qinlovesmacaronsss"
+    hashtags: "#easyrecipe, #sgfood, #indianstreetfood, #togetherathome"
+  - username: "cravings4vegan"
     fullname: >-
-      мαʏα ʜᴀᴢᴇʟ ǫɪɴ マヤ • sɪɴɢᴀᴘᴏʀᴇ
+      Nisha🙏 Recipe Developer🥙🥗
+    bio: >-
+      Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 #detoxwithnish #rainbowrecipesbynish DM/email for collab
     location: "Singapore"
-    followers: 25141
-    engagement: 509
-    commentsToLikes: 0.105823
-    id: ck6ugweze5kk90j71irog1i1v
+    followers: 10459
+    engagement: 663
+    commentsToLikes: 0.513091
+    id: ck134qfltxp6r0i19bk4o1m7h
     verified: false
-    hashtags: "#sunblock, #aveenosg, #eczema, #mhrasia"
-  - username: "_mrschia_"
+    hashtags: "#navratri, #newparents, #glutenfreerecipes, #singaporehomecooks"
+  - username: "foodilicious_diva"
     fullname: >-
-      Cynthia Tee
+      Foodilicious Singapore
+    bio: >-
+      DM for Collabs / Invites Singapore Food/Beverage/Lifestyle Content Creator
     location: "Singapore"
-    followers: 7260
-    engagement: 546
-    commentsToLikes: 0.514206
-    id: ck5zlpshzl5qy0i14ewhorinm
+    followers: 10907
+    engagement: 492
+    commentsToLikes: 0.197497
+    id: ck8tawwsotetg0j78mfxpc1qf
     verified: false
-    hashtags: "#unwind, #sgeat, #reusing, #babyblanket"
-  - username: "lyzpopz"
+    hashtags: "#malayfood, #savefnbsg, #sgfoodporn, #sgrestaurant"
+  - username: "chiamhuiy"
     fullname: >-
-      Sherly Devonne Ng 黄艺萱
+      Celine Chiam
+    bio: >-
+      🍷🥩🍔💄💋 Chiamhuiy@gmail.com 📮
     location: "Singapore"
-    followers: 48334
-    engagement: 1014
-    commentsToLikes: 0.009045
-    id: ck5qapi5ohlpj0i11ku22z7uk
+    followers: 31482
+    engagement: 109
+    commentsToLikes: 0.103905
+    id: ck6uf0gp5u4ii0j71nav529hi
     verified: false
-    hashtags: "#spicybae, #nutritionhelper, #throwingitback, #staystrong"
+    hashtags: "#discoverhongkong, #wafoodmade, #nescafeicedcappuccino, #sp"
+  - username: "brittanysse"
+    fullname: >-
+      Brittany SSE
+    bio: >-
+      🇸🇬🇬🇧 · dm/email for collabs💌✨ @vintagesse.sg
+    location: "Singapore"
+    followers: 19391
+    engagement: 1800
+    commentsToLikes: 0.021994
+    id: ck5hhg2ck81d10i116rcw7qw9
+    verified: false
+    hashtags: "#miniso, #minisosingapore, #sp, #giveaway"
+  - username: "chloecloudy"
+    fullname: >-
+      chloe 🦋
+    bio: >-
+      come here often? ————— portfoliö @chlarte 👩🏻‍🎨 clothes @closetcloudy 🥵 tellonym @ostrichloe 🤫
+    location: "Singapore"
+    followers: 10803
+    engagement: 1056
+    commentsToLikes: 0.014799
+    id: ck8t04951qs6a0j78xwwog6fp
+    verified: false
+    hashtags: "#ezbuysg, #ezbuy, #mymgplook, #freeagentfeeforever"
 ---

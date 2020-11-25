@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Berlin In 2020
 description: >-
-  Find top rappers TikTok influencers in Berlin in 2020. Most popular hashtags: #tiktok #fypage #rapchallenge #alpagun.
+  Find top rappers TikTok influencers in Berlin in 2020. Most popular hashtags: #foryou #viral #rapper #berlin.
 platform: TikTok
+hits: 13
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "kingkaan545"
     fullname: >-
       kingkaan545
+    bio: >-
+      🎤Spotify: Kingkaan545🎤 LEBEN
     location: "Germany"
-    followers: 13186
-    engagement: 431
-    commentsToLikes: 0.032180
+    followers: 16600
+    engagement: 409
+    commentsToLikes: 0.024381
     id: ckamfe1eq7kxi0i78tgyhnnmm
     verified: false
-    hashtags: "#alpagun, #niceorscheiss, #pulverdichauf, #dankesagen"
-  - username: "lisatezlaw"
+    hashtags: "#goviral, #touchthis, #viral, #foryoupage"
+  - username: "janinarosee"
     fullname: >-
-      lisatezlaw
+      Janina Rose
+    bio: >-
+      mein insta: @janinarosee 🥰 schaffen wir 10k auf insta?🙏🏽 Bestellungen per DM
     location: "Germany"
-    followers: 7000
-    engagement: 820
-    commentsToLikes: 0.029671
-    id: ck9n54d9r6dg60j78prpmq7de
+    followers: 16600
+    engagement: 1528
+    commentsToLikes: 0.027645
+    id: cka84rfeuv2ri0i78efg99jhl
     verified: false
-    hashtags: "#schreinicht, #fewcha, #icon, #queenb"
-  - username: "21rap21"
+    hashtags: "#love, #trending, #germany, #smallbusiness"
+  - username: "jonathan.schoeck"
     fullname: >-
-      RapVideos
+      jonathan.schoeck
+    bio: >-
+      Fakten & Comedy 💯 Berlin 🐻 Antworte jedem auf Insta der folgt 😱
     location: "Germany"
-    followers: 2575
-    engagement: 787
-    commentsToLikes: 0.016983
-    id: ckaj8pd4wbb0o0i786p2sviku
+    followers: 501000
+    engagement: 1647
+    commentsToLikes: 0.018347
+    id: ck9ke2a9twz2d0j78dypqmqow
     verified: false
-    hashtags: "#veysel, #bushido, #farid, #yunghurn"
-  - username: "alirezafuntv_"
+    hashtags: "#viralvideo, #fakten, #fy, #fakt"
+  - username: "nataliabobrich"
     fullname: >-
-      Alirezafuntv
+      Naty
+    bio: >-
+      ❤️ LIVE ❤️ aus Berlin Games mo-do 19uhr
     location: "Germany"
-    followers: 2074
-    engagement: 615
-    commentsToLikes: 0.016788
-    id: ckahth7k7ed0a0i78h874po33
+    followers: 2763
+    engagement: 1574
+    commentsToLikes: 0.043551
+    id: ckcosq7tn82ss0j2318ji3r2d
     verified: false
-    hashtags: "#arabischer, #deutschland, #rapper, #eno"
-  - username: "fero47"
+    hashtags: "#challenge, #foryoupage, #fun, #foryou"
+  - username: "fero72_"
     fullname: >-
-      Fero47
+      Fero72
+    bio: >-
+      72 GANG 👻Kurdo.72
     location: "Germany"
-    followers: 386748
-    engagement: 1310
-    commentsToLikes: 0.021415
-    id: cka86wwro4ftk0i78s8gcaom4
-    verified: true
-    hashtags: "#family, #memories, #goodtimes, #paputsche"
-  - username: "hamidsalarri"
-    fullname: >-
-      Hamidsalarr 
-    location: "Germany"
-    followers: 15491
-    engagement: 583
-    commentsToLikes: 0.047944
-    id: ck81sxvs9tx820j7835g3adv3
+    followers: 3261
+    engagement: 1752
+    commentsToLikes: 0.044510
+    id: ckb8z6knueg460j23flygyvpe
     verified: false
-    hashtags: "#germany, #fyou, #paris, #popcorncchallenge"
-  - username: "kayefofficial"
+    hashtags: "#qdhfamily, #funny, #coronavirus, #mermiflow"
+  - username: "pavilionsexit"
     fullname: >-
-      kayefofficial
+      pavilions exit
+    bio: >-
+      Folgt mir auf Insta 🙏🏽 Und hört in meine Musik rein 🎶
     location: "Germany"
-    followers: 148050
-    engagement: 1462
-    commentsToLikes: 0.011097
-    id: ck9m4hrrkkc8v0j78put74nmu
-    verified: true
-    hashtags: "#coronavirus, #ichw, #teilvonmir, #warum"
-  - username: "loredanaofficial"
-    fullname: >-
-      loredanaofficial
-    location: "Germany"
-    followers: 1086697
-    engagement: 1082
-    commentsToLikes: 0.009949
-    id: ck8fc4ckc6h730j78cb5dcf1n
-    verified: true
-    hashtags: "#loredana, #nichtverdient, #beatthebeat, #traktor"
-  - username: "_robinwick"
-    fullname: >-
-      Robin Wick
-    location: "Germany"
-    followers: 32334
-    engagement: 1184
-    commentsToLikes: 0.013117
-    id: cka0on8g54pq00i78kol4zrj7
+    followers: 71400
+    engagement: 1590
+    commentsToLikes: 0.030039
+    id: ckb0edvjj6t010j23m8bm5ztl
     verified: false
-    hashtags: "#keinurlaubchallenge, #socialmedia, #song, #stayathome"
-  - username: "kingkaan545"
+    hashtags: "#deutschrapp, #cartoon, #youtube, #kunst"
+  - username: "zekikafras"
     fullname: >-
-      kingkaan545
+      Zeki Kafraś
+    bio: >-
+      Folgt mir auf Instagram 👉@Zekikafraş 👌👍
     location: "Germany"
-    followers: 13186
-    engagement: 431
-    commentsToLikes: 0.032180
-    id: ckamfe1eq7kxi0i78tgyhnnmm
+    followers: 6461
+    engagement: 456
+    commentsToLikes: 0.089948
+    id: ck9gkvvaelfno0j782d3h4i8h
     verified: false
-    hashtags: "#alpagun, #niceorscheiss, #pulverdichauf, #dankesagen"
+    hashtags: "#berlin, #foryou, #foryoupage, #kurdi"
+  - username: "kurdo18790"
+    fullname: >-
+      kurdo190
+    bio: >-
+      
+    location: "Germany"
+    followers: 9500
+    engagement: 498
+    commentsToLikes: 0.048572
+    id: ckc7byg9hlon30j23uc7vrfa2
+    verified: false
+    hashtags: "#follw, #like, #berlin, #2020"
+  - username: "markiermal"
+    fullname: >-
+      Markieren ❤️
+    bio: >-
+      Spotify Playlist: HYPED! https://sptfy.com/95MZ
+    location: "Germany"
+    followers: 4055
+    engagement: 619
+    commentsToLikes: 0.021874
+    id: ckbki111ua9io0j230j3kvop4
+    verified: false
+    hashtags: "#deutschrapmemes, #foryou, #deutschrap, #fyp"
+  - username: "thesisart"
+    fullname: >-
+      𝑻𝒉𝒆𝒓𝒆𝒔𝒂
+    bio: >-
+      Grias di🙋🏽‍♀️ 20.000 Spotzn🐥 Meace❤️ 📧: originalhabedere@gmx.de
+    location: "Germany"
+    followers: 20500
+    engagement: 1213
+    commentsToLikes: 0.054977
+    id: ckdtkufonyqr50j23p1snoinb
+    verified: false
+    hashtags: "#niederbayern, #dialekt, #bayern, #bayerisch"
 ---

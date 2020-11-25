@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Russia In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Russia in 2020. Most popular hashtags: #artwork #drawing #love #sketchbook.
+  Find top graphic-designers Instagram influencers in Russia in 2020. Most popular hashtags: #nature #wildlife #artwork.
 platform: Instagram
+hits: 43
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 43 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "nick.yuryev"
-    fullname: >-
-      Nick
-    location: "Russia"
-    followers: 31039
-    engagement: 712
-    commentsToLikes: 0.031684
-    id: ck5hmc2sdlor20i11b0enparj
-    verified: false
-    hashtags: "#brienzersee, #kleinescheidegg, #grindelwald, #raknye2020"
-  - username: "kristina.kimi"
-    fullname: >-
-      KRISTINA KIMI 🇷🇺
-    location: "Russia"
-    followers: 18145
-    engagement: 842
-    commentsToLikes: 0.039039
-    id: ck5zutk3m30iy0i14ylk1997e
-    verified: false
-    hashtags: "#vansdiy, #girlsshred, #handmade, #vanssnow"
   - username: "viktoriyabalkova"
     fullname: >-
       Viktoriya Balkova
+    bio: >-
+      • graphic designer • creative soul • vikabalkova@mail.ru 🥥 @vladbalkov • Moscow
     location: "Russia"
-    followers: 26791
-    engagement: 398
-    commentsToLikes: 0.021490
+    followers: 26593
+    engagement: 440
+    commentsToLikes: 0.026465
     id: ck6tipoat16ib0j71ynh2zt5l
     verified: false
-    hashtags: "#sudiomoments, #photography, #foodphotography, #loveletter"
+    hashtags: "#beigelife, #love, #picoftheday, #arsthetic"
+  - username: "kristina.kimi"
+    fullname: >-
+      Kristina Kimina
+    bio: >-
+      Life For Love 🌊 SNOWBOARDER / GRAPHIC DESIGNER 📍 Moscow, Russia 💥⬇️ My snowboard part is here
+    location: "Russia"
+    followers: 17534
+    engagement: 832
+    commentsToLikes: 0.047989
+    id: ck5zutk3m30iy0i14ylk1997e
+    verified: false
+    hashtags: "#artwork, #kimivibe, #digitalart, #vansrussia"
   - username: "nekrasova_evgenia"
     fullname: >-
       Model & Designer In Barcelona
+    bio: >-
+      Graphic designer/Графический дизайнер 🌟Победительница шоу «Топ-модель по-русски» ❤️From Russia (Kemerovo, Moscow, St Petersburg) 🇪🇸 Living in Spain
     location: "Russia"
-    followers: 5728
-    engagement: 591
-    commentsToLikes: 0.029185
+    followers: 5662
+    engagement: 495
+    commentsToLikes: 0.040905
     id: ck6ui97yxdss70j71oxc9vrwp
     verified: false
-    hashtags: "#christmasmanicure, #manicure"
-  - username: "a_helga14"
+    hashtags: "#sudiomoments, #sudio"
+  - username: "y.filonidova"
     fullname: >-
-      ↟Olga Petrova-Apostolova↟
+      Юля🤍
+    bio: >-
+      — творческие заметки ✨ content creator, graphic designer Создаю визуал и делюсь вдохновением💌
     location: "Russia"
-    followers: 5978
-    engagement: 1017
-    commentsToLikes: 0.031180
-    id: ck5hsoc1wwxd90i11vl6yybay
+    followers: 2412
+    engagement: 1253
+    commentsToLikes: 0.037588
+    id: ck9wdw7lmhjiy0j78yuix1i01
     verified: false
-    hashtags: "#leaveonlyleaves, #photorussia"
+    hashtags: ""
+  - username: "oksanalav"
+    fullname: >-
+      Oksana Lavrova 🖤
+    bio: >-
+      Beauty Addict / Graphic Designer @oneone_art 👩🏻‍🎤 @iamoksanalav Ekaterinburg, Russia
+    location: "Russia"
+    followers: 5995
+    engagement: 521
+    commentsToLikes: 0.014710
+    id: ck55mvcpd4wiv0i11an55ofcu
+    verified: false
+    hashtags: "#runwaymakeup, #tushmagazine, #inbeautmag, #streetwear"
   - username: "parkol_design"
     fullname: >-
       Nick Senin
+    bio: >-
+      Illustrator, graphic designer and musician based in Saint Petersburg, Russia Represented by @weareillustrationx The store
     location: "Russia"
-    followers: 38828
-    engagement: 404
-    commentsToLikes: 0.019773
+    followers: 38689
+    engagement: 384
+    commentsToLikes: 0.019976
     id: ck5cfy3jxnt050i1143dperlf
     verified: false
-    hashtags: "#leopard, #rainforest, #inspiration, #hippos"
-  - username: "martynmarin"
+    hashtags: "#bestvector, #wildlife, #graphicdesign, #illustrationartist"
+  - username: "a_helga14"
     fullname: >-
-      Marina Nikiforova
+      ↟Olga Petrova-Apostolova↟
+    bio: >-
+      ↟ Moscow, Russia ↟ Graphic designer ↟ Squirrel & nature lover
     location: "Russia"
-    followers: 33875
-    engagement: 354
-    commentsToLikes: 0.013215
-    id: ck13damar4hwa0i194oheg7un
+    followers: 5871
+    engagement: 796
+    commentsToLikes: 0.026546
+    id: ck5hsoc1wwxd90i11vl6yybay
     verified: false
-    hashtags: "#draw, #sketch, #top, #usk"
-  - username: "frm46"
-    fullname: >-
-      Evgeny Zubkov
-    location: "Russia"
-    followers: 25731
-    engagement: 978
-    commentsToLikes: 0.013490
-    id: ck0u7dka24iwr0i198ix3n845
-    verified: false
-    hashtags: "#creatingfromhome, #artvsartist, #artvsartist2020"
+    hashtags: ""
   - username: "nat_purple"
     fullname: >-
       Natalie Purple
+    bio: >-
+      Graphic designer & illustrator
     location: "Russia"
-    followers: 14605
-    engagement: 411
-    commentsToLikes: 0.017743
+    followers: 14154
+    engagement: 400
+    commentsToLikes: 0.027660
     id: ck8svvorfcvao0j78oql35jrm
     verified: false
-    hashtags: "#mood, #palette"
-  - username: "neven_invivo"
+    hashtags: "#mood, #palette, #freedomforbelarus, #inspiration"
+  - username: "vicky_od"
     fullname: >-
-      Neven Živančević
+      Vicky Od Illustration
+    bio: >-
+      artist | graphic designer works #vickyodillustration @radio_od based in Siberia collaboration/price/contact: vicky.punk.panda@gmail.com
     location: "Russia"
-    followers: 34101
-    engagement: 552
-    commentsToLikes: 0.005454
-    id: ck5qe3lmpyjwt0i11mm27t7bj
+    followers: 88400
+    engagement: 148
+    commentsToLikes: 0.011256
+    id: ck5hq2lt3se7t0i11192cymtw
     verified: false
-    hashtags: "#parnivaljak, #cover, #tbt, #godfather"
+    hashtags: "#vickyodillustration, #artprocess"
+  - username: "rafmagn"
+    fullname: >-
+      alan nekhay.
+    bio: >-
+      graphic designer.
+    location: "Russia"
+    followers: 6240
+    engagement: 2261
+    commentsToLikes: 0.035762
+    id: ck0vyoiu250jl0i19ncgdpw19
+    verified: false
+    hashtags: ""
 ---

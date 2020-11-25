@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In New York In 2020
 description: >-
-  Find top mothers TikTok influencers in New York in 2020. Most popular hashtags: #quarantine #mother #newyork #yearbook2020.
+  Find top mothers TikTok influencers in New York in 2020. Most popular hashtags: #newyork #fyp #foryou #nyc.
 platform: TikTok
+hits: 27
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 27 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "goodluckkarly"
+  - username: "msnbc"
     fullname: >-
-      karly
+      MSNBC
+    bio: >-
+      We’re that network with the anchor who provides legal analysis via rap lyrics.
     location: "United States"
-    followers: 3130
-    engagement: 1213
-    commentsToLikes: 0.058168
-    id: ckajk1773nvz10i78s9aueb0f
-    verified: false
-    hashtags: "#foryoupage, #areyoudumb, #keepingbusy, #makeupadvice"
-  - username: "mujjyfcrazyy"
+    followers: 23400
+    engagement: 754
+    commentsToLikes: 0.045517
+    id: ckceisporr8l50j234026g9y1
+    verified: true
+    hashtags: "#globalcitizen, #foryou, #withpod, #breakingnews"
+  - username: "queenrakiii"
     fullname: >-
-      Mejgan Sediqzadah
+      raquel laçaj ⚡️
+    bio: >-
+      NYC | 16 🇦🇱☦️ Snap: rocky_nutella
     location: "United States"
-    followers: 23855
-    engagement: 234
-    commentsToLikes: 0.000521
-    id: ckailsdl4phzw0i780ybxts4a
+    followers: 30600
+    engagement: 1409
+    commentsToLikes: 0.064246
+    id: ckb9kqc01cu730j23v3oraac2
     verified: false
-    hashtags: "#womanpower, #mylife, #matcha, #afghanfood"
-  - username: "nicki.boi"
-    fullname: >-
-      Nicholas
-    location: "United States"
-    followers: 51713
-    engagement: 2131
-    commentsToLikes: 0.018315
-    id: ck8qoxx0712eq0j78okcz8vgt
-    verified: false
-    hashtags: "#mafia, #momsoftiktok, #makebakeshake, #xuzbca"
-  - username: "queencescaa"
-    fullname: >-
-      bratty
-    location: "United States"
-    followers: 8812
-    engagement: 1017
-    commentsToLikes: 0.025165
-    id: ck9k743p43eey0j78glszk2vy
-    verified: false
-    hashtags: "#mingle, #littlethings, #foryourpage, #abworkout"
-  - username: "newyorknatalia"
-    fullname: >-
-      NewYorkNatalia
-    location: "United States"
-    followers: 177168
-    engagement: 701
-    commentsToLikes: 0.041472
-    id: ck7zp9vcso7gk0j78tvjx7c7t
-    verified: false
-    hashtags: "#show, #thisislove, #marine, #bison"
+    hashtags: "#albanian, #newyork, #thatwitch, #shqiptar"
   - username: "nickbogolepov"
     fullname: >-
       NICK B
+    bio: >-
+      IG : nickbogolepov Russian New Yorker MAMACITA OUT NOW ⬇
     location: "United States"
-    followers: 6916
-    engagement: 913
-    commentsToLikes: 0.057756
+    followers: 17300
+    engagement: 844
+    commentsToLikes: 0.038091
     id: ckacs8htx8ywl0i780z1ga13e
     verified: false
-    hashtags: "#fypge, #icandoit, #phone, #hewannafight"
-  - username: "mistymills5"
+    hashtags: "#greenscreen, #fyp, #nyc, #brighton"
+  - username: "a.d.woods"
     fullname: >-
-      Misty Mills
+      Dada&YaYa
+    bio: >-
+      Daddy&Daughter Life Aaliyah Rose & Andre D. Woods Daddy’s IG: @a.d.woods
     location: "United States"
-    followers: 48674
-    engagement: 1293
-    commentsToLikes: 0.021168
-    id: ck9si0jc0we1i0j788ynt1rvk
+    followers: 121300
+    engagement: 1370
+    commentsToLikes: 0.008994
+    id: ckacfuea7sinq0i78jg6lep8w
     verified: false
-    hashtags: "#cornishcross, #votenow, #help, #stoplying"
-  - username: "brooks080077"
+    hashtags: "#fyp, #daddysgirl, #father, #love"
+  - username: "chrisybobisy"
     fullname: >-
-      christina
+      Chris Michael
+    bio: >-
+      NY I’m 17, Mother of 5 A lot of people compare me to the rock Venmo- cmikes
     location: "United States"
-    followers: 3003
-    engagement: 830
-    commentsToLikes: 0.044277
-    id: cka62mfbd0jc80i7844v4yndv
+    followers: 16200
+    engagement: 1370
+    commentsToLikes: 0.112782
+    id: ckdtjty5ix8ai0j23vdf9wwd8
     verified: false
-    hashtags: "#billburr, #arguing, #lilsister, #women"
-  - username: "mirmermaid_rayne"
+    hashtags: "#dog, #funny, #trend, #duet"
+  - username: "mevidaloca"
     fullname: >-
-      Miranda_Rayne
+      LaLa
+    bio: >-
+      NY 🍎 T1D 💉 Mother of 👦🏻🐱 🐶 🐓 TRUMP ARMY 🇺🇸
     location: "United States"
-    followers: 9114
-    engagement: 520
-    commentsToLikes: 0.056469
-    id: ck9n8rf5d8t880j78r3h3qlno
+    followers: 2040
+    engagement: 1136
+    commentsToLikes: 0.080752
+    id: ckd6cu8mz54v50j23w4aeifte
     verified: false
-    hashtags: "#throwbacks, #90skid, #duetwithme, #sunburn"
-  - username: "just.a.regular.guy"
+    hashtags: "#votered, #trumptrain, #xyzbca, #democrats"
+  - username: "mykelovve"
     fullname: >-
-      Gaines
+      Myke love💖
+    bio: >-
+      Pretty mother’f💜 19🗽 👻-mykeal6
     location: "United States"
-    followers: 16105
-    engagement: 1353
-    commentsToLikes: 0.040468
-    id: ckad9a8d0cs0l0i78riqdrjhb
+    followers: 67200
+    engagement: 2017
+    commentsToLikes: 0.038225
+    id: cka7tobocoff40i78ki6zpaph
     verified: false
-    hashtags: "#mommasboy, #dababy, #yoursuperman, #king"
+    hashtags: "#brooklyn, #newyork, #statenisland, #nyc"
+  - username: "chanceislit3"
+    fullname: >-
+      Chanceislit
+    bio: >-
+      Mother Of Maylenn ♥️ 9k? ig: iifuckwomen my cash app below
+    location: "United States"
+    followers: 8199
+    engagement: 727
+    commentsToLikes: 0.039630
+    id: ckb95ogr1nq1h0j23tk7apqe8
+    verified: false
+    hashtags: "#les, #lgbtq, #4youpage, #lgbt"
+  - username: "nicolekonsta"
+    fullname: >-
+      Nicole Konsta
+    bio: >-
+      From mother Russia 🇷🇺 IG @nicolekonsta
+    location: "United States"
+    followers: 3083
+    engagement: 463
+    commentsToLikes: 0.020718
+    id: ck8qj4o0obu2l0j78dpr754bz
+    verified: false
+    hashtags: "#athlete, #foryoupage, #friends, #fyp"
+  - username: "girlwithadoge"
+    fullname: >-
+      Eva Yu
+    bio: >-
+      Proud Asian IG: Kittycateva IG: Skippytheshibainu Venmo: Eva-Yu
+    location: "United States"
+    followers: 18000
+    engagement: 677
+    commentsToLikes: 0.098861
+    id: ckcjffj7tb0np0j23szxfs901
+    verified: false
+    hashtags: "#chinese, #share, #trending, #shopping"
 ---

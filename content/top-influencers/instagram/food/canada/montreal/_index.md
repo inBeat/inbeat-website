@@ -1,22 +1,41 @@
 ---
 title: Top 10 Food Instagram Influencers In Montreal In 2020
 description: >-
-  Find top food Instagram influencers in Montreal in 2020. Most popular hashtags: #icecream #quarantine #pancakes #cake.
+  Find top food Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #foodstagram #mtlfoodie #mtlfood.
 platform: Instagram
+hits: 50
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 50 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "harleyplays"
+  - username: "amoula__style"
     fullname: >-
-      Harley Morenstein
+      Amal Lassoued | Lifestyle
+    bio: >-
+      🇨🇦 | 📍Montréal 🌎🦋📸 Modest Fashion | Beauty | Travel | Food #montreal 📧 for collabs: amelhope.inc@gmail.com
     location: "Canada"
-    followers: 509771
-    engagement: 164
-    commentsToLikes: 0.028391
-    id: ck5zok6dkqqd50i14erujlbde
-    verified: true
-    hashtags: "#crashteamracing, #crashontheshelf, #crash, #riseofskywalkerto"
+    followers: 20209
+    engagement: 257
+    commentsToLikes: 0.261554
+    id: ck0w0z38mgqtm0i19nkz6byk7
+    verified: false
+    hashtags: "#hijabfashionista, #ootdhijab, #hfinspo, #canadianbloggers"
+  - username: "miss_evycookies"
+    fullname: >-
+      Evelyne Caillé-Guibert
+    bio: >-
+      ✈️ Créatrice de contenu | Voyage et bouffe 🍰 Content creator | Travel and food 🇨🇦 Montréal 💌 DM for collaboration 🐈 Accro aux chats, livres et thés
+    location: "Canada"
+    followers: 6588
+    engagement: 3028
+    commentsToLikes: 0.281386
+    id: ck5ce14fjk4x40i1170cxpskn
+    verified: false
+    hashtags: "#canadaparadise, #travelblogger, #restaurant, #italy"
   - username: "tastemontreal"
     fullname: >-
       TasteMontreal
+    bio: >-
+      Revealing the best food in Montreal / Decouvrez la meilleure nourriture à Montréal ➥ Get Featured: #TasteMontreal ➥ Contact: info@tastemontreal.ca
     location: "Canada"
     followers: 158137
     engagement: 136
@@ -24,84 +43,88 @@ profiles:
     id: ck14i8g66e5ul0i19x21yljmj
     verified: true
     hashtags: "#tastemontreal"
-  - username: "fulltimefoooodie"
-    fullname: >-
-      Nath | Montreal Food Blogger
-    location: "Canada"
-    followers: 12400
-    engagement: 804
-    commentsToLikes: 0.255649
-    id: ck0u68j5b18vz0i19tdk9l14t
-    verified: false
-    hashtags: "#foodporn, #altaglio, #514eats, #pasta"
-  - username: "jeanniesfood"
-    fullname: >-
-      Jeannie | Montreal Food Blog 📸
-    location: "Canada"
-    followers: 2263
-    engagement: 878
-    commentsToLikes: 0.084264
-    id: ck55mdo9n3q0x0i11bxskwulj
-    verified: false
-    hashtags: "#supportlocal"
   - username: "feedmemontreal"
     fullname: >-
-      #FeedMeMontreal
+      FEEDMEMONTREAL
+    bio: >-
+      📍Montréal’s best food joints—upscale, street style & everything in between 👌🏼 Tag us or #feedmemontreal to be featured 💌feedmemontreal@gmail.com
     location: "Canada"
-    followers: 16872
-    engagement: 93
-    commentsToLikes: 0.066483
+    followers: 19519
+    engagement: 99
+    commentsToLikes: 0.168516
     id: ck8syr656loyy0j78ocpca8u5
     verified: false
-    hashtags: "#greek, #mangezlocal, #hummus, #syrian"
+    hashtags: "#foodblogger, #yummy, #hungry, #foodphotography"
   - username: "christopher_the_pig"
     fullname: >-
       Christopher the Pig
+    bio: >-
+      
     location: "Canada"
     followers: 80000
     engagement: 354
     commentsToLikes: 0.017621
     id: ck135rz2d2xiy0i19q8sd5mum
     verified: true
-    hashtags: "#newyearseve, #roarrr, #montr, #kombuchalove"
-  - username: "yingzge"
+    hashtags: "#hotel, #fun, #funtimes, #vegan"
+  - username: "fulltimefoooodie"
     fullname: >-
-      yιng ge ❥
+      Nath | Montreal Food Blogger
+    bio: >-
+      🍽Eat with me all over Montreal 📸Food Photographer⁣ ✨Content Creator 💌DM/email for collabs⁣/invites 😋Always hungry
     location: "Canada"
-    followers: 2965
-    engagement: 1485
-    commentsToLikes: 0.050106
-    id: ck8szdifknzzw0j78rz5dla3a
+    followers: 14997
+    engagement: 623
+    commentsToLikes: 0.497647
+    id: ck0u68j5b18vz0i19tdk9l14t
     verified: false
-    hashtags: ""
-  - username: "valleeduhamel"
+    hashtags: "#mtlresto, #montrealer, #sweets, #mtlfoodblog"
+  - username: "jeanniesfood"
     fullname: >-
-      Vallée Duhamel
+      Jeannie | Montreal Food Blog 📸
+    bio: >-
+      Small girl with a big appetite 🙋🏻‍♀️ Foodie 🍕 Sweets lover 🍰 Latte 🍵 Boba🥤 💌 DM for collab/invites :)
     location: "Canada"
-    followers: 27151
-    engagement: 296
-    commentsToLikes: 0.022766
-    id: ckap4r9fd8it50i786500p4fg
+    followers: 2426
+    engagement: 842
+    commentsToLikes: 0.072318
+    id: ck55mdo9n3q0x0i11bxskwulj
     verified: false
-    hashtags: "#chocolate, #magic, #valleeduhamel, #americanidol"
-  - username: "mtlfoodbuzz"
+    hashtags: "#supportlocal"
+  - username: "abelaslife"
     fullname: >-
-      MTL Food Buzz | Food Blogger
+      ABELA’S LIFE.🕊🤍
+    bio: >-
+      ⬗ Bacc en droit, Maîtrise en droit UdeM ⠀ ⠀ ⠀& créatrice de contenu ⚐ Montreal ↠ Fashion, Food & Lifestyle
     location: "Canada"
-    followers: 10297
-    engagement: 901
-    commentsToLikes: 0.445346
-    id: ckaotuhkxxksk0i78v064feku
+    followers: 30713
+    engagement: 245
+    commentsToLikes: 0.125113
+    id: ck5zmrplon3na0i1479y9ok0q
     verified: false
-    hashtags: "#smashcake, #toast, #sangria, #bananabread"
-  - username: "trangreeny"
+    hashtags: "#partenaire"
+  - username: "lebaneseyvr"
     fullname: >-
-      Trang | MTL Lifestyle
+      𝐌𝐎𝐄𝐄𝐍𝐊 | 🇨🇦 𝐕𝐚𝐧𝐜𝐨𝐮𝐯𝐞𝐫 𝐅𝐨𝐨𝐝𝐢𝐞
+    bio: >-
+      📍Vancouver, BC Canada 🇨🇦 📸 Beautiful spots & restaurants 🧑‍🍳 Home cooking and baking 📥 DM for collabs and reviews
     location: "Canada"
-    followers: 10074
-    engagement: 564
-    commentsToLikes: 0.059581
-    id: ckaorli1qnrcl0i782zrqeflr
+    followers: 119277
+    engagement: 54
+    commentsToLikes: 0.024306
+    id: ck9h9tnf59xas0j78xxnh7of5
     verified: false
-    hashtags: "#softserve, #flatlaystyle, #bouquet, #foodforlife"
+    hashtags: "#richmondbc, #halalvancity, #homefood, #yvreats"
+  - username: "jellybeaneats"
+    fullname: >-
+      Jellybeaneats (Alex) 🇨🇦🇵🇹🇮🇹
+    bio: >-
+      🏡 Home Cook 🐟 Pescatarian 💚 Eat well to live well 💭Follow for meal inspiration/recipes 🍽 Montreal restaurants 📸 Sonny a6000 +iPhone XR
+    location: "Canada"
+    followers: 8749
+    engagement: 434
+    commentsToLikes: 0.284207
+    id: ck8tb7ei0uldr0j78xsmsmyc3
+    verified: false
+    hashtags: "#mtlblog, #plantbasedrecipe, #food52, #foodphotographer"
 ---

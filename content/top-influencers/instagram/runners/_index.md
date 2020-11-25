@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners Instagram Influencers In 2020
 description: >-
-  Find top runners Instagram influencers in 2020. Most popular hashtags: #stayhome #runner #happygirl #covid.
+  Find top runners Instagram influencers in 2020. Most popular hashtags: #makeup #trailrunning #fitness.
 platform: Instagram
+hits: 3203
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 3203 Instagram influencers like this for you to contact.
 profiles:
   - username: "jonalbon"
     fullname: >-
       Jonathan Albon
-    location: "Italy"
-    followers: 23520
-    engagement: 663
-    commentsToLikes: 0.011757
+    bio: >-
+      Runner
+    location: "United States"
+    followers: 23397
+    engagement: 405
+    commentsToLikes: 0.007921
     id: ck1398ub1k3h70i19mezqsoxx
     verified: false
-    hashtags: ""
-  - username: "marina_grigoriou_"
+    hashtags: "#skyrunning, #obstaclecourseracing, #trailrunning, #thebestgripontheplanet"
+  - username: "devencp23"
     fullname: >-
-      1st RunnerUp MISS HELLAS 2018👑
-    location: "Greece"
-    followers: 70677
-    engagement: 1509
-    commentsToLikes: 0.063604
-    id: ck5chpx39r8mk0i11a0nhx6ln
-    verified: true
-    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
-  - username: "_sicht_weise"
-    fullname: >-
-      Kathrin | 📍Augsburg
-    location: "Germany"
-    followers: 11183
-    engagement: 1374
-    commentsToLikes: 0.085945
-    id: ck0tvvcizcy860i193wvocbnr
+      Deven Christiandi Putra
+    bio: >-
+      Managed by mom 1st Runner Up Ina Idol Junior 2018 Job: 081289589111 (@agungtrilegowo) PP/endorse: 081212909535/081289589111 (agung) Youtube Channel👇
+    location: "Indonesia"
+    followers: 460702
+    engagement: 639
+    commentsToLikes: 0.032761
+    id: ck0vwad7fst700i195gbfx29a
     verified: false
-    hashtags: "#easter, #tapering, #happyplace, #weightloss"
+    hashtags: "#indomusikgram, #vokalplus, #edisimerahputih, #hutri75"
+  - username: "sarahonthegoo"
+    fullname: >-
+      Sarah G. Francis
+    bio: >-
+      ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
+    location: ""
+    followers: 2597
+    engagement: 2981
+    commentsToLikes: 0.145833
+    id: ckf5vgt9dojx60j2308y28xod
+    verified: false
+    hashtags: "#riverside, #betterwhensmiling, #campfire, #sunsetphotography"
   - username: "sangster.real"
     fullname: >-
       Thomas Brodie Sangster
+    bio: >-
+      Fan Page | The Maze Runner | Game of Thrones Daily content of Thomas Sangster
     location: "United States"
-    followers: 220987
-    engagement: 1774
-    commentsToLikes: 0.036375
+    followers: 217938
+    engagement: 1836
+    commentsToLikes: 0.035478
     id: ck14iwb4ehgf30i19nzyttna5
     verified: false
     hashtags: "#themazerunner"
-  - username: "laurenalarocco"
+  - username: "fitfastfoods"
     fullname: >-
-      Lauren LaRocco
-    location: "United States"
-    followers: 12664
-    engagement: 1648
-    commentsToLikes: 0.056209
-    id: ck0w0l2dueqpw0i19zg3ko4a9
+      CAROLENA KOSTAS
+    bio: >-
+      Runner 🏃‍♀️ | Fit & Fast Recipes👩‍🍳 | Sydney 🇦🇺 | Digital Marketing & Communications👩‍💻 | 💌fitfastfoods@yahoo.com.au
+    location: "Australia"
+    followers: 30188
+    engagement: 698
+    commentsToLikes: 0.059334
+    id: ck5hn62z0n9y20i11te9pamgm
     verified: false
-    hashtags: "#sunglasses, #sundayvibes, #landscape, #injured"
+    hashtags: "#plantbased, #barillaaus, #gifted, #vegan"
+  - username: "catubonadeo"
+    fullname: >-
+      Catalina
+    bio: >-
+      Periodista ✨ @telenoche ✨ @todonoticias 🏃🏼‍♀️ Runner @asicsargentina @asics @multitalentoficial
+    location: "Argentina"
+    followers: 33101
+    engagement: 680
+    commentsToLikes: 0.188776
+    id: ck5zjbxd4hbhx0i141kuxpma7
+    verified: true
+    hashtags: "#amomigarmin, #importaquehagas, #forerunner645music, #healthylifestyle"
+  - username: "run4mh"
+    fullname: >-
+      MARK | Runner 🏃‍♂️
+    bio: >-
+      Runner, mental health🙌@runtalkrunsouthampton leader⁣, mh first aider⁣ 🔜 Edinburgh marathon @corosglobal @brooksrunninguk @gatosports @teamrunderwear⁣
+    location: "United Kingdom"
+    followers: 8208
+    engagement: 1143
+    commentsToLikes: 0.079710
+    id: ck5hpb46kr2ef0i11kk6afn4d
+    verified: false
+    hashtags: "#runner, #throwbackthursday, #depression, #fitness"
   - username: "riley_gaynor"
     fullname: >-
       Riley Gaynor
+    bio: >-
+      Fashion Model • Runner • Creator @heymantalentagency @dochertyagency @therockagency TikTok: riley_gaynor
     location: "United States"
-    followers: 19675
-    engagement: 788
-    commentsToLikes: 0.094334
+    followers: 24146
+    engagement: 868
+    commentsToLikes: 0.052173
     id: ck8wcyvwsd6ky0j78ut5b12nv
     verified: false
-    hashtags: "#lookingup, #runnerslife, #poseathome, #printmodel"
-  - username: "pedeaopai"
+    hashtags: "#zarafashion, #rileygaynor, #midwestmodel, #modelvideo"
+  - username: "isabella_radovan"
     fullname: >-
-      Inês Ribolhos
-    location: "Brazil"
-    followers: 11351
-    engagement: 1115
-    commentsToLikes: 0.127257
-    id: ck5c2h1bsx8wd0i11libm8yze
+      Isabella Radovan
+    bio: >-
+      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
+    location: "United States"
+    followers: 6783
+    engagement: 1064
+    commentsToLikes: 0.169038
+    id: ck5zsbcf2y6el0i143za2i7a8
     verified: false
-    hashtags: "#littlelove, #milestone, #babyroom, #motheroftwo"
-  - username: "berte.bob"
+    hashtags: "#quarantinelife, #makeup, #fashion, #glam"
+  - username: "myriamxn"
     fullname: >-
-      Bob Bertemes
-    location: ""
-    followers: 28789
-    engagement: 969
-    commentsToLikes: 0.042295
-    id: ck6u3umguzz8x0j71pf6x4o03
+      Miriam
+    bio: >-
+      Mrs.• Runner• 26 Plant Based 🌱 • Cruelty Free Beauty 🐇 Positive Vibes ~ ❤️💛💚
+    location: "United States"
+    followers: 20251
+    engagement: 958
+    commentsToLikes: 0.040670
+    id: ck15q1psn0ogt0i19s9x45y87
     verified: false
-    hashtags: "#giveaway, #bettertogether, #onemorelapn"
-  - username: "math_uwg"
-    fullname: >-
-      ᴍᴀᴛʜ
-    location: "France"
-    followers: 26463
-    engagement: 2185
-    commentsToLikes: 0.038978
-    id: ck8t61e7zbw8l0j78wod41y9o
-    verified: false
-    hashtags: "#sport, #menstyle, #monamour, #newbalance"
-  - username: "annarunny"
-    fullname: >-
-      Anna
-    location: "Italy"
-    followers: 4801
-    engagement: 1908
-    commentsToLikes: 0.135241
-    id: ck8tdnhdr41um0j78t0igsput
-    verified: false
-    hashtags: "#vo2maxers, #compleanno, #wind, #nonmifermo"
+    hashtags: "#makeup, #screenqueenfoundation, #crueltyfreebeauty, #50sfashion"
 ---

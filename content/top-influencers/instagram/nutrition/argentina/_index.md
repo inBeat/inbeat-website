@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Argentina In 2020
 description: >-
-  Find top nutrition Instagram influencers in Argentina in 2020. Most popular hashtags: #nutrition #quedateencasa #food #cardio.
+  Find top nutrition Instagram influencers in Argentina in 2020. Most popular hashtags: #nutrition #nutricion #fitness.
 platform: Instagram
+hits: 122
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 122 Instagram influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "maakiceballos"
+    fullname: >-
+      Mαqυι ✨
+    bio: >-
+      ⚪️ Seleccion argentina de Natación ⚪️Heracles team - ENA Sport nutrition - @gymnosrd ✨ Soñando con ser periodista deportiva ⏳
+    location: "Argentina"
+    followers: 18762
+    engagement: 892
+    commentsToLikes: 0.011853
+    id: ckf5pmc5s6j890j23jqjms25a
+    verified: false
+    hashtags: "#niveasiemprejuntoavos, #tatedeportes, #eldeportenosune, #tbt"
   - username: "anabt11"
     fullname: >-
       ANA HERNANDEZ💕
+    bio: >-
+      18. Venezolana🇻🇪/ Ex-gimnasta/ Crossfit athlete 🏋🏽‍♀️ TikTok: Anabt11 🎶 @rookiesathletes 🤸🏻‍♀️ @plcbox 🏠 @sp_nutrition @xnutrifit.vzla @adesinc.ve ⚡️
     location: "Argentina"
-    followers: 5982
-    engagement: 1213
-    commentsToLikes: 0.039052
+    followers: 6239
+    engagement: 1016
+    commentsToLikes: 0.041609
     id: ck8sx0wbxfucs0j78d6w3ov5s
     verified: false
     hashtags: ""
-  - username: "andreaberrino"
+  - username: "micamurua"
     fullname: >-
-      Andrea Berrino
+      
+    bio: >-
+      Latin Girl, From Arg🇦🇷 Student IIN @nutritionschool 📚 Model New York @emg_models CL @elitemodel_chile MEX @baxtmodels
     location: "Argentina"
-    followers: 25937
-    engagement: 1456
-    commentsToLikes: 0.006720
-    id: ck5qal2izgyl70i11dlizzn6g
+    followers: 20700
+    engagement: 495
+    commentsToLikes: 0.195166
+    id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#tbt, #panamericanos2019"
-  - username: "matiroure"
-    fullname: >-
-      Matias Roure
-    location: "Argentina"
-    followers: 53121
-    engagement: 527
-    commentsToLikes: 0.016476
-    id: ck6tw34fxpqpr0j71zdkqex4b
-    verified: false
-    hashtags: "#mbfwmadrid, #boat, #vikings, #stylinglove"
-  - username: "oscar_alonso1111"
-    fullname: >-
-      Oscar Alonso
-    location: "Argentina"
-    followers: 182927
-    engagement: 205
-    commentsToLikes: 0.021382
-    id: ck5c2y3vvy83u0i11o8z295tn
-    verified: false
-    hashtags: "#actor, #laveneno, #trowback, #magazine"
+    hashtags: "#empoweredwomenempowerwomen, #earthday, #blacklivesmatter, #challengeaccepted"
   - username: "chefdanielvargas"
     fullname: >-
       Daniel Vargas
+    bio: >-
+      @daniel_vargas_lifecoach •Precision Nutrition Coach •CF Level 1 •OPEX CCP Coach •Lic Nutrición en curso •Master PNL en curso •Le Cordon Bleu Madrid
     location: "Argentina"
-    followers: 100212
-    engagement: 119
-    commentsToLikes: 0.092236
+    followers: 102102
+    engagement: 130
+    commentsToLikes: 0.087037
     id: ck6tzgjcy9kh40j716txd2kt1
     verified: false
-    hashtags: "#si, #tiempos, #feelgood, #getsimple"
-  - username: "bio.natural_"
+    hashtags: "#fuerzadevoluntad, #wod, #wellness, #cambio"
+  - username: "nutritionist_monserratgg"
     fullname: >-
-      Caro Zabala
+      Monserrat González, BS, MS
+    bio: >-
+      Lic. en Nutrición & Maestría - BS, MS 🥑| Consultas Online y Presencial 👩🏽‍⚕️| Nutrióloga Funcional (IFM) 📧| info@nutresmg.com 🍎| Nutres®
     location: "Argentina"
-    followers: 12741
-    engagement: 442
-    commentsToLikes: 0.298661
-    id: ck6tnfitu9qjq0j71bx5k6rga
+    followers: 185159
+    engagement: 218
+    commentsToLikes: 0.017736
+    id: ck8tc2idsy1yt0j78ghor8t45
     verified: false
-    hashtags: "#sorteovegano, #muzarellademani, #salsasveganas, #dulcedebatatavegano"
-  - username: "danilapao"
+    hashtags: "#nutres, #bliss, #medicinafuncional, #reels"
+  - username: "martamchef6"
     fullname: >-
-      Danila Bp
+      Marta Verona
+    bio: >-
+      Ganadora de MasterChef 6 👩🏼‍⚕Dietista-Nutricionista 👩🏼‍🎓Máster cocina en el BCC 👩🏼‍🔬Investigadora en gastronomía UCM 👩🏼‍🍳Recetas ricas y saludables
     location: "Argentina"
-    followers: 5521
-    engagement: 1718
-    commentsToLikes: 0.047495
-    id: ck9hcjpi9lqbx0j78vhlm2sc9
-    verified: false
-    hashtags: "#instagram, #bienestar, #deportes, #inspiration"
-  - username: "ivanamedail"
+    followers: 146070
+    engagement: 332
+    commentsToLikes: 0.016325
+    id: ck5zt3nevzom30i14ndrhgc64
+    verified: true
+    hashtags: "#health, #healthy, #mito, #healthybreakfast"
+  - username: "nutricion_cm"
     fullname: >-
-      ɪᴠᴀɴᴀ  ᴍᴇᴅᴀɪʟ
+      Nutrición Carla Mazzocchi
+    bio: >-
+      🔆Est. Lic.en Nutrición 4to año. @universidad_isalud 🔆Chef profesional 🔆Certificación en Nutrición Deportiva FC Barça
     location: "Argentina"
-    followers: 40744
-    engagement: 257
-    commentsToLikes: 0.076026
-    id: ck0w60kd46c3h0i193fpjsby4
+    followers: 27432
+    engagement: 164
+    commentsToLikes: 0.026328
+    id: ckaov97qb3kwa0i78ebyjjkak
     verified: false
-    hashtags: "#quarentine, #amigos, #vidafit, #colombia"
-  - username: "rodricabre"
+    hashtags: "#fit, #fitness, #training, #delicious"
+  - username: "greenhabitshn"
     fullname: >-
-      🇦🇷 Rodrigo Cabrera
+      Andrea Palacios Sikaffy
+    bio: >-
+      -God❤️ - Founder @vivesanu @letsbeactiv -IIN Health Coach 🌸 -Healthy Recipe developer 🍪.
     location: "Argentina"
-    followers: 23553
-    engagement: 310
-    commentsToLikes: 0.238334
-    id: ck6tigfck0o500j7176ndvdy2
+    followers: 9124
+    engagement: 230
+    commentsToLikes: 0.041217
+    id: ck6tupr4fhpf20j71v3kgkbd7
     verified: false
-    hashtags: "#crueltyfree, #team, #meditacion, #cocinero"
-  - username: "juan_huidobro"
+    hashtags: "#fitness, #greenhabits, #greenlifestyle, #wellnessblog"
+  - username: "happyvegan.arg"
     fullname: >-
-      Huidobro Meritello
+      Ornela
+    bio: >-
+      🌱Vegana 👩🏻‍🎓Lic. en Calidad e Inocuidad de los Alimentos. Mis recetas saludables | Opciones libres de gluten.
     location: "Argentina"
-    followers: 5344
-    engagement: 764
-    commentsToLikes: 0.023503
-    id: ck0w5o1664lhq0i198hpq3gws
+    followers: 23858
+    engagement: 629
+    commentsToLikes: 0.027281
+    id: ckaowdr3o8hjx0i784rj6zxrb
     verified: false
-    hashtags: "#strongwomen, #crossfittraining, #hotelworkout, #hometraining"
+    hashtags: "#chocolate, #foodporn, #cook, #rico"
+  - username: "taylor__fitness"
+    fullname: >-
+      𝐓𝐚𝐲𝐥𝐨𝐫 𝐅𝐢𝐭𝐧𝐞𝐬𝐬
+    bio: >-
+      📚Licenciado en Educación Fisica 💻Entrenador Online 🔴👇🏾DIETA Y ENTRENAMIENTO ONLINE👇🏾🔴
+    location: "Argentina"
+    followers: 119649
+    engagement: 215
+    commentsToLikes: 0.018667
+    id: ck8tatsuat12i0j78fnsvp9gc
+    verified: false
+    hashtags: "#summervibes, #calories, #absworkout, #burncalories"
 ---

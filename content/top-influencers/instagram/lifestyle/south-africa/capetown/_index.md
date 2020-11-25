@@ -1,12 +1,65 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Capetown In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #selflove #lifestyle #selfisolation.
+  Find top lifestyle Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #lifestyle #photography.
 platform: Instagram
+hits: 36
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 36 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
+  - username: "ricky_schroeder"
+    fullname: >-
+      Ricky Schroeder
+    bio: >-
+      • Former Pro Rugby Player🏉 • Making Radio at @kfmza 📻 • @supersporttv Rugby Commentator🎙 • Making TV at #TussenOns 📺 • MC🎤 • @_rds_entertainment
+    location: "South Africa"
+    followers: 11841
+    engagement: 570
+    commentsToLikes: 0.037960
+    id: ckaotbsqzv7xk0i787hw9tj2z
+    verified: false
+    hashtags: "#smile, #trail, #running, #sunday"
+  - username: "mattsiebert_"
+    fullname: >-
+      matt ♎
+    bio: >-
+      •Creative direction ☕ •dm me⚡ •I like lifting weights 💪
+    location: "South Africa"
+    followers: 20926
+    engagement: 270
+    commentsToLikes: 0.029038
+    id: ck5c9ayn2b41f0i1121cg4xum
+    verified: false
+    hashtags: "#travelphotography, #photooftheday, #portrait, #lifestyle"
+  - username: "esson.create"
+    fullname: >-
+      esson
+    bio: >-
+      📜 Industrial Designer According To A Piece Of Paper ✏️Sketch🖥 3DModel🛠Prototype♻️ Repeat 💬Chasing the dream🏍 🚵🏻‍♂️🏁🏄‍♂️ 🏂🏊‍♂️
+    location: "South Africa"
+    followers: 13946
+    engagement: 281
+    commentsToLikes: 0.022413
+    id: ck6tntqeiajy80j71ixizuajg
+    verified: false
+    hashtags: "#industrialdesign, #sketch, #custombellsa, #troyleedesigns"
+  - username: "iamtevivo"
+    fullname: >-
+      Bryn Gibbons
+    bio: >-
+      💿 DJ/Producer 💻 Event Organizer 📱@secretsofsummernye Stage and Social Media Manager📱 🏝 @valleyoflight Stage Manager 🌴
+    location: "South Africa"
+    followers: 7668
+    engagement: 1478
+    commentsToLikes: 0.020150
+    id: ck6ufngqxy2180j71ynmcv2t2
+    verified: false
+    hashtags: "#friends, #motivation, #thebigboss, #musicfestival"
   - username: "capetownetc"
     fullname: >-
       Cape {Town} Etc
+    bio: >-
+      The Cape's favourite source of news, lifestyle news, reviews and entertainment. Hashtag #capetownetc
     location: "South Africa"
     followers: 83238
     engagement: 121
@@ -14,94 +67,64 @@ profiles:
     id: ck6tjp8n335ng0j71vxxivfq0
     verified: false
     hashtags: ""
-  - username: "mischkebosse"
+  - username: "tracymcgregor"
     fullname: >-
-      mischke bosse
+      Tracy McGregor
+    bio: >-
+      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
     location: "South Africa"
-    followers: 6531
-    engagement: 396
-    commentsToLikes: 0.027823
-    id: ck6u0k4ajg5ra0j713hceiqw2
+    followers: 27278
+    engagement: 355
+    commentsToLikes: 0.162121
+    id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#pjstopjs, #capetown, #feminism, #spirituality"
-  - username: "iamtevivo"
+    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
+  - username: "jessica_vanheerden"
     fullname: >-
-      Bryn Gibbons
+      Jessica van Heerden
+    bio: >-
+      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
     location: "South Africa"
-    followers: 7984
-    engagement: 1376
-    commentsToLikes: 0.016254
-    id: ck6ufngqxy2180j71ynmcv2t2
+    followers: 41896
+    engagement: 677
+    commentsToLikes: 0.029140
+    id: ck135ukud3bat0i199i7ol35t
     verified: false
-    hashtags: "#video, #sunset, #bokehphotography, #friends"
-  - username: "kissblushandtell"
+    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
+  - username: "withlovebloomingrose"
     fullname: >-
-      KISS, BLUSH & TELL
+      A M I N A H
+    bio: >-
+      Cape Town🇿🇦 Ambassador for the best! @sarahsglambar & @vitalbabysa Mom to doggos and 2 humans🤍 Garden Lover🌿 Fashion | Beauty | Mamahood | Lifestyle
     location: "South Africa"
-    followers: 37394
-    engagement: 254
-    commentsToLikes: 0.070006
-    id: ck5q8fzye5ztx0i11tha1d1zz
+    followers: 42147
+    engagement: 28
+    commentsToLikes: 0.136759
+    id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
-    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
-  - username: "justin_uncorked"
+    hashtags: "#fashionbloggers, #beautybloggers, #whatiwore, #fbloggers"
+  - username: "zandrijoubert"
     fullname: >-
-      J U S T I N _ U N C O R K E D
+      Z A N D R I  J O U B E R T 📍🇿🇦
+    bio: >-
+      For His glory! 💗 - Go find your adventure today 💫 - Nature-loving | adventure-seeking | goal-driven - FITNESS | FOOD | LIFESTYLE - Yes, I TikTok 👇🏼
     location: "South Africa"
-    followers: 5470
-    engagement: 985
-    commentsToLikes: 0.059925
-    id: ck5bymf2wpfes0i11rn0gt3mt
+    followers: 24169
+    engagement: 580
+    commentsToLikes: 0.008497
+    id: ckap8egwxnyss0i783o12c6p4
     verified: false
-    hashtags: "#beering, #instabirthday, #redheart, #harvest"
-  - username: "treven_moodley"
+    hashtags: "#gofindyouradventure, #wegotthis, #lockdown, #shootingrange"
+  - username: "natsfaydherbe96"
     fullname: >-
-      Treven Moodley
+      Nathalie Faydherbe
+    bio: >-
+      📍CT🇿🇦🇿🇼soon🇦🇺 Health•Fitness•Lifestyle @waterfronttheatreschool Dancer/Teacher🩰 @etacapetown 🎓 💗@mattyg_wp SocialMediaManager @lifehealthsa @laluciec
     location: "South Africa"
-    followers: 17995
-    engagement: 304
-    commentsToLikes: 0.040289
-    id: ck6u0k2klg5gz0j7150u2jdzy
+    followers: 10126
+    engagement: 1015
+    commentsToLikes: 0.028759
+    id: ck8t6fcp4dekb0j78r10bn6di
     verified: false
-    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
-  - username: "mariahmcalpin"
-    fullname: >-
-      Mariah Ezra | 🇺🇸 🇿🇦
-    location: "South Africa"
-    followers: 36663
-    engagement: 195
-    commentsToLikes: 0.097993
-    id: ck5ci8ds3s7e10i11tkv4cmm6
-    verified: false
-    hashtags: "#hawaii, #sheisnotlost, #30, #lomoinstant"
-  - username: "sothogirldiaries"
-    fullname: >-
-      African Print | Mapitso Thaisi
-    location: "South Africa"
-    followers: 6155
-    engagement: 503
-    commentsToLikes: 0.093151
-    id: ck5qdkvlcw2sj0i11h1d4h3hw
-    verified: false
-    hashtags: "#proteahotels, #stayindoors, #sunsets, #poolsidevibes"
-  - username: "nana.kwasi.wiafe"
-    fullname: >-
-      NANA•KWASI•WIAFE 🇬🇭
-    location: "South Africa"
-    followers: 12037
-    engagement: 721
-    commentsToLikes: 0.034641
-    id: ck55mkb0g45jm0i11430bi9dn
-    verified: false
-    hashtags: "#afisa, #beauty, #creativejourney, #eyewear"
-  - username: "amber_brits"
-    fullname: >-
-      A M B E R. BRITS.
-    location: "South Africa"
-    followers: 16410
-    engagement: 324
-    commentsToLikes: 0.075938
-    id: ck5c26a7twmdj0i11124h90ib
-    verified: false
-    hashtags: "#sexy, #retro, #supportlocal, #vogue"
+    hashtags: "#danceteacher, #daneswimwear, #ballerina, #nutrition"
 ---

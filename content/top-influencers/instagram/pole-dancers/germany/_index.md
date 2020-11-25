@@ -1,107 +1,130 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Germany In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Germany in 2020. Most popular hashtags: #poledance #polefitness #stayhome #backbend.
+  Find top pole dancers Instagram influencers in Germany in 2020. Most popular hashtags: #poledance #poledancer #dancer #photography.
 platform: Instagram
+hits: 51
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 51 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "lenanella"
-    fullname: >-
-      Lena Katharina 🌸
-    location: "Germany"
-    followers: 5127
-    engagement: 843
-    commentsToLikes: 0.017258
-    id: ckaozzgvko3xx0i78hdzbqdch
-    verified: false
-    hashtags: "#holidayvibes, #deutschesreitpony, #lastyear, #mexico"
-  - username: "yatzinkosom"
-    fullname: >-
-      Yatzin Kosom
-    location: "Germany"
-    followers: 20414
-    engagement: 265
-    commentsToLikes: 0.035653
-    id: ck6u2l1ewsf8i0j712zggoupx
-    verified: false
-    hashtags: "#balance, #19weekspregnant, #poleshapes, #polepose"
-  - username: "kali.polephysique"
-    fullname: >-
-      Kali Roy
-    location: "Germany"
-    followers: 79836
-    engagement: 584
-    commentsToLikes: 0.014057
-    id: ckap2l0i2zaon0i78v44bdxam
-    verified: false
-    hashtags: "#coronaphobia, #itsathing, #americannazi, #fuckhumanlife"
   - username: "pole_zerogravity_mia"
     fullname: >-
       POLE ARTIST - M I A  L A N G
+    bio: >-
+      🌎🥇 World Champion 2019 🥇🌎 PROFESSIONAL ARTIST & POLE DANCER 🇩🇪 🥇 NATIONALCHAMP 🥇🇩🇪 Ambassador: @dragonflybrand
     location: "Germany"
-    followers: 35905
-    engagement: 197
-    commentsToLikes: 0.028265
+    followers: 41844
+    engagement: 233
+    commentsToLikes: 0.018481
     id: ck55pss4gbas40i11rji1ja41
     verified: false
-    hashtags: "#loveyourself, #neverstoplearning, #pdhelix, #ellevateyourself"
-  - username: "veronicafritsch_"
+    hashtags: ""
+  - username: "rodeocowgirl2809"
     fullname: >-
-      ⚜️𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓕𝓻𝓲𝓽𝓼𝓬𝓱⚜️
+      Carina Hinsche
+    bio: >-
+      Mein Ponyhof ❤️ Ronja 🐴 Chipsy - Crispy 🐴 Miss Cody Sue🐴 Spirit Son Peppy🐴 Shakira Sierra Sue 🐴 DS Spotted Shadow 🐴 Oxygens Pole Dancer 🐴 Whisky 🐶
     location: "Germany"
-    followers: 9913
-    engagement: 572
-    commentsToLikes: 0.030457
-    id: ck8t3dj012uun0j787b4dte23
+    followers: 19310
+    engagement: 602
+    commentsToLikes: 0.008273
+    id: ck14h6gi28rvx0i19d5nrh15l
     verified: false
-    hashtags: "#polishartist, #spain, #wroclaw, #sexylady"
-  - username: "lisanatalina"
+    hashtags: "#dancer, #horsephotographer, #sonnenaufgang, #myhorse"
+  - username: "ch_art_photography"
     fullname: >-
-      Lisa Natalina Marcelli
+      Claudia Steck
+    bio: >-
+      📸 international Photographer Aerial Art & Poledance & Acrobatic 📖Author of Shapes of Pole 🌎 www.chart-photography.de 📩 info@chart-photography.de
     location: "Germany"
-    followers: 9767
-    engagement: 443
-    commentsToLikes: 0.004803
-    id: ck5hhdm057oix0i1126ztnvcl
+    followers: 6885
+    engagement: 839
+    commentsToLikes: 0.049099
+    id: ck8t4oeur7ipx0j783i3vg5rw
     verified: false
-    hashtags: "#35mmfilm, #staysafe, #poledancer, #stayhome"
-  - username: "lorenzholder"
+    hashtags: "#poisonivy, #poledance, #poledancerig, #aerialist"
+  - username: "janavaleria"
     fullname: >-
-      Lorenz Holder
+      Jana Keuchel
+    bio: >-
+      Hannover 💖💜💙 📷 #kollektiv051 🍑 @weare_thinq JANA10
     location: "Germany"
-    followers: 21273
-    engagement: 611
-    commentsToLikes: 0.012007
-    id: ck55jqgssxk4o0i11uuprcgf7
+    followers: 5818
+    engagement: 1030
+    commentsToLikes: 0.038156
+    id: ck8t5u1sub9720j78kbg5ttoi
     verified: false
-    hashtags: "#got, #berlin, #hotshower, #ridingthrones"
-  - username: "keycath"
+    hashtags: "#fitfamde, #gwl, #fitfam, #hannovergirl"
+  - username: "carsontuna"
     fullname: >-
-      Key Cath
+      Carsten Thun
+    bio: >-
+      PHOTOGRAPHER 📸 + GRAPHIC DESIGNER ✏️ HAMBURG / Olhão 🇵🇹 SECOND ACCOUNT: @roundtheworld_travels
     location: "Germany"
-    followers: 47496
-    engagement: 167
-    commentsToLikes: 0.080573
-    id: ck8t32q8x1mgl0j78jsv696ug
+    followers: 28619
+    engagement: 201
+    commentsToLikes: 0.011647
+    id: ck6u3sa18zl5k0j71imwjws3o
     verified: false
-    hashtags: "#latexfashion, #fashionista, #walk, #abendessen"
-  - username: "brennanfigari"
+    hashtags: "#acrobatic, #pole, #dancer, #qsystem"
+  - username: "latenighttalesphotography"
     fullname: >-
-      Brennan Figari
+      LATE NIGHT TALES Photography
+    bio: >-
+      📸 International Pole/Dance/Aerial Photographer 📚 Author of POLEDANCE PASSION The Book 🖤 Be who you are! 🌱Vegan 🖊️ DM for bookings and collaborations!
     location: "Germany"
-    followers: 14410
-    engagement: 709
-    commentsToLikes: 0.023185
-    id: ck5chx9kyrmnc0i11hczodt94
+    followers: 7430
+    engagement: 760
+    commentsToLikes: 0.039902
+    id: ck6tjs2033b7y0j71ibzmez1x
     verified: false
-    hashtags: "#cirque, #silkslove, #poledancersofig, #sunshine"
-  - username: "regulardebbie"
+    hashtags: "#marioncrampe, #gothicgirl, #circuseverydamnday, #pdtrick"
+  - username: "nadine_yvonne274"
     fullname: >-
-      DEBBIE
+      Nadine Yvonne
+    bio: >-
+      Let the sea set you free 🌊 🚒 🚑 👩🏼‍🚒 ❤ Pole dance ❤ Laufen ❤ 🏄🏼‍♀️⛵ 📍 Happy Place: Langeoog
     location: "Germany"
-    followers: 4024
-    engagement: 1284
-    commentsToLikes: 0.049596
-    id: ckap34veo1knf0i7889dddsu5
+    followers: 5161
+    engagement: 1902
+    commentsToLikes: 0.035720
+    id: ckap3p6ix3y8t0i78etltv976
     verified: false
-    hashtags: "#streetworkout, #handbalancer, #womenwhoexplore, #handstanding"
+    hashtags: "#bomberos, #photography, #cute, #poledancer"
+  - username: "polenick"
+    fullname: >-
+      Teacher & Trainer
+    bio: >-
+      📩for workshops/online-classes - Cologne - 🏳️‍🌈 17.10 @intl.pinup.competition 👨🏼‍⚖️ 24.10 @pole_passion_hannover 07.11 @aerialandverticalfloorofart
+    location: "Germany"
+    followers: 28273
+    engagement: 313
+    commentsToLikes: 0.035782
+    id: ck6tjrxfp3ayj0j71rjdu8lbj
+    verified: false
+    hashtags: "#polefun, #polemen, #poletrickoftheday, #poletraining"
+  - username: "scorpionmind"
+    fullname: >-
+      Tanja I Food & Lifestyle
+    bio: >-
+      ❊ Vegan in Berlin ◎ Photographer ◉ Pole/Silks ◎ Acrobat @scorpionshape ◉ @vegandogkiwi ☞ Newest YT video
+    location: "Germany"
+    followers: 39849
+    engagement: 247
+    commentsToLikes: 0.032096
+    id: ck0ttg5yu2kmi0i19houjjcc4
+    verified: false
+    hashtags: "#splits, #handstand, #porridge, #eatplantsnotfriends"
+  - username: "crazy.heels.de"
+    fullname: >-
+      Crazy-Heels
+    bio: >-
+      Tag us #pdheels4you Exotic Heels / Plateau Heels / High Heels 👉 Visit our shop DE, AT, CH, EU
+    location: "Germany"
+    followers: 6123
+    engagement: 506
+    commentsToLikes: 0.006630
+    id: ck9hbidefgyoh0j78ri2pi97c
+    verified: false
+    hashtags: "#pdheels4you, #poledancenation, #poledancer, #poledancefitness"
 ---

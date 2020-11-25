@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Brazil In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Brazil in 2020. Most popular hashtags: #hypebeast #fashion #photooftheday #nike.
+  Find top hypebeast Instagram influencers in Brazil in 2020. Most popular hashtags: #hypebeast #hype #nike #jordan.
 platform: Instagram
+hits: 33
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 33 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "yes_miney"
+  - username: "brunomedino"
     fullname: >-
-      Amor da vida do G1
+      Bruno Medino
+    bio: >-
+      Fotógrafo do #Basketball🏀 e #Streetwear 👕, Designer 🖥, Escrevo sobre #Sneakers 👟 e #Streetball ⛹🏻, #Gamer quando da 🎮 XboxLive: brunomedino
     location: "Brazil"
-    followers: 7008
-    engagement: 1489
-    commentsToLikes: 0.088152
-    id: ck8wekwpwe7jm0j7823qo8u0p
+    followers: 17105
+    engagement: 332
+    commentsToLikes: 0.256469
+    id: ck5hk0przhl1v0i113jkk70yo
     verified: false
-    hashtags: "#trending, #18, #hype, #hypebeast"
-  - username: "uelitonsants"
+    hashtags: "#kicks, #modernotoriety, #minimalmovement, #streetwear"
+  - username: "andrezinhudixx"
     fullname: >-
-      𝖚𝖊𝖑𝖎𝖙𝖔𝖓 𝖘𝖆𝖓𝖙𝖔𝖘 ✨
+      andrezinhu (dixx) 🧸
+    bio: >-
+      🤯 resenha e os carai 🚫 essa porra virou várzea 💣 insta normal: @andrelinss_ ⚡️💸❤️💎😈🔥🥳
     location: "Brazil"
-    followers: 10939
-    engagement: 1035
-    commentsToLikes: 0.058269
-    id: ck9ha8y16blyt0j78bgvapoo5
+    followers: 3768
+    engagement: 1660
+    commentsToLikes: 0.289097
+    id: ck8t1a136uyzp0j78olaiiw2d
     verified: false
-    hashtags: "#summer, #pantone, #like4likes, #repost"
-  - username: "brendagasparoto"
+    hashtags: ""
+  - username: "manoomaik"
     fullname: >-
-      Brenda Gasparoto
+      Manoo_Maik🏄🏼‍♂️
+    bio: >-
+      💎nunca foi sorte,sempre foi Deus!💎 𝔠𝔞𝔰𝔞𝔡𝔬: @anac.santoss ❤️💏 🛍𝔩𝔬𝔧𝔞: @mayconimportss ⚡️𝔞𝔰𝔰𝔦𝔰𝔱𝔞𝔪 𝔞𝔬𝔰 𝔰𝔱𝔬𝔯𝔶 📥𝔭𝔞𝔯𝔠𝔢𝔯𝔦𝔞𝔰 𝔳𝔦𝔞 𝔡𝔦𝔯𝔢𝔠𝔱
     location: "Brazil"
-    followers: 213913
-    engagement: 862
-    commentsToLikes: 0.009805
-    id: ck5hcby01h8wu0i113nrs6l0h
+    followers: 7771
+    engagement: 866
+    commentsToLikes: 0.023198
+    id: ckap2uaxh0cp10i78q32kgjva
     verified: false
-    hashtags: "#beach, #hypebeast, #sorris, #outfitmen"
-  - username: "higorsantiago8"
+    hashtags: "#dz7produ, #saopaulo, #fotohype, #hypebeastfoto"
+  - username: "alineleny"
     fullname: >-
-      Higor Santiago ®️
+      𝖆𝖑𝖎𝖓𝖊𝖑𝖊𝖓𝖞
+    bio: >-
+      ▪️ 𝔤𝔢𝔪𝔦𝔫𝔦 • 𝔰𝔦𝔫𝔠𝔢 𝔱𝔥𝔢 𝟡𝟘’𝔰 ▫️ @hellsinlounge ▫️ @monamuparty ▫️ @islinetrends
     location: "Brazil"
-    followers: 15543
-    engagement: 677
-    commentsToLikes: 0.188168
-    id: ck9whdt5mxeen0j78rsairfbg
+    followers: 4955
+    engagement: 1058
+    commentsToLikes: 0.066513
+    id: ck8t14docufep0j78v90t3o41
     verified: false
-    hashtags: "#photooftheday, #picoftheday, #summer, #followforfollowblack"
-  - username: "mcbraian_ofc"
+    hashtags: "#dicademoda, #dicadeedicao, #fotododia, #beigeaesthetic"
+  - username: "sneakerpixx"
     fullname: >-
-      Mc Braian ✪
+      
+    bio: >-
+      💥Team @the_sneaker_army ❗️best sneaker accessories: 🧼 @thepinkmiracle ⬇️The best sneaker accessories⬇️ ⬇️USE: SP20 for 20% discount⬇️
     location: "Brazil"
-    followers: 18791
-    engagement: 797
-    commentsToLikes: 0.061278
-    id: ck6tmquvi8cqi0j71xole74mr
+    followers: 17273
+    engagement: 910
+    commentsToLikes: 0.100933
+    id: ck8t92s5cmral0j78qm4wl7dn
     verified: false
-    hashtags: "#danca, #humildade, #parodia, #samp"
-  - username: "_hyzer_"
+    hashtags: "#sneakerfreakermag, #nationofsoles, #igsneakercommunity, #thesneakerarmy"
+  - username: "mk_o_terror_de_sp"
     fullname: >-
-      𝗛𝗬𝗭𝗘𝗥 𝗧𝗖
+      💯MK O MLK E BRABO❌
+    bio: >-
+      Dz7🤡 Sp/zn/Canindé🏄🏾‍♂️ Menor cheio de sonhos 🕺🏿❤️ Canal no YouTube,(maycki Anderson oficial) se inscrevam lá
     location: "Brazil"
-    followers: 19469
-    engagement: 426
-    commentsToLikes: 0.087903
-    id: ck55ovpjf98630i11hxqqb0zy
+    followers: 10735
+    engagement: 816
+    commentsToLikes: 0.108408
+    id: ckap85gp7mwn90i78436bbl3x
     verified: false
-    hashtags: "#whatthekicks, #stayathome, #reading, #books"
-  - username: "baconman.pk"
+    hashtags: "#passinhodorj, #puma, #estilodevida, #lacoste"
+  - username: "jessartes"
     fullname: >-
-      🇧🇷Vance Poubel 🦁
+      Jessé Manuel
+    bio: >-
+      🇦🇴📍Angola📍Lubango 🚙📷🎥 EKUMBI SQUAD - NÓS SOMOS O SOL
     location: "Brazil"
-    followers: 20004
-    engagement: 536
-    commentsToLikes: 0.027478
-    id: ck6u9dhncwxbu0j71pm0v3sz6
+    followers: 22589
+    engagement: 411
+    commentsToLikes: 0.024019
+    id: ck5pxd3ccr7g80i11mfllgfuw
     verified: false
-    hashtags: "#esmeraldatours, #visitperu, #trilhandoporai, #vegan"
-  - username: "juhutsumi"
+    hashtags: "#tonekillers, #irox, #aroundtheworldpix, #focalmarked"
+  - username: "some.noisee"
     fullname: >-
-      𝕵ú𝖑𝖎𝖆 𝖀𝖙𝖘𝖚𝖒𝖎 🔥
+      Some Noise
+    bio: >-
+      Lorem Ipsum bitc_. Based in 🇧🇷 Design Experimental Aberto para novos Trabalhos COMMISSIONS OPEN
     location: "Brazil"
-    followers: 5138
-    engagement: 1903
-    commentsToLikes: 0.060233
-    id: ckap3o00b3t4f0i78kec4p4lr
+    followers: 2484
+    engagement: 668
+    commentsToLikes: 0.086889
+    id: ck5q93lfh97to0i11tt8gqnif
     verified: false
-    hashtags: "#vintageclothing, #estilosasccb, #meuquarto, #soldetarde"
-  - username: "rafaablloog"
+    hashtags: "#motiondesign, #instaart, #hypebeast, #art"
+  - username: "bymorgz"
     fullname: >-
-      RAFAEL🧚🏽‍♂️
+      𝙈𝙊𝙍𝙂𝙕
+    bio: >-
+      🇧🇷 | MORGz Freelance Artist 📩💰 encomendas fechadas @ehssmorgado
     location: "Brazil"
-    followers: 3410
-    engagement: 1871
-    commentsToLikes: 0.254439
-    id: ckap67lfgeqk70i78770kynuo
+    followers: 7576
+    engagement: 1238
+    commentsToLikes: 0.046581
+    id: ckf5nhidiyant0j23h3azj2j0
     verified: false
-    hashtags: "#takitaki, #choquei, #roarchallenge, #colormakeup"
-  - username: "falatupaulinho"
+    hashtags: "#hypebeast, #photoshop, #trap, #hypebeastart"
+  - username: "sgshadowoficial"
     fullname: >-
-      o maior corno de recife 🤣
+      SHADOW GUARDIAN E-SPORTS
+    bio: >-
+      🎮| FREE FIRE | PUBG | COD | LOL 👩🏻| @sgirls.ofc 📍| BAHIA - BA | SÃO PAULO-SP 🏅| SEMI-FINALISTA DA 2ª FFPL 🇧🇷 🤝| PATROCÍNIO VIA DIRECT 👥| RECRUT. OFF
     location: "Brazil"
-    followers: 26207
-    engagement: 158
-    commentsToLikes: 0.803307
-    id: ck9wh8k9bwr670j78uav84o9l
+    followers: 16445
+    engagement: 283
+    commentsToLikes: 0.400133
+    id: ckapbak08z6ur0i78lcfpv58m
     verified: false
-    hashtags: "#gera, #coque, #crossfit, #pernambuco"
+    hashtags: "#nobrutv, #gosg, #brasil, #cod"
 ---

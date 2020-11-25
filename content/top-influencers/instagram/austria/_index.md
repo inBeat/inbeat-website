@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Austria In 2020
 description: >-
-  Find top Instagram influencers in Austria in 2020. Most popular hashtags: #italy #beautiful #model #phonecase.
+  Find top Instagram influencers in Austria in 2020. Most popular hashtags: #austria #ootd #love.
 platform: Instagram
+hits: 1811
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1811 Instagram influencers like this in Austria for you to contact.
 profiles:
-  - username: "linda.shr"
+  - username: "julija.zp"
     fullname: >-
-      Linda Seher
+      𝗝𝗨𝗟𝗜𝗝𝗔 🌹
+    bio: >-
+      📸 𝗼𝘂𝘁𝗳𝗶𝘁 • 𝘁𝗿𝗮𝘃𝗲𝗹 • 𝗹𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 ‎ 📍 Brčko 🇧🇦 25 🎓 Osijek 🇭🇷 dept. of Physics 5th 💍 𝘁𝗮𝗸𝗲𝗻 𝗯𝘆 𝗮𝗻 𝗮𝗻𝗴𝗲𝗹
     location: "Austria"
-    followers: 3717
-    engagement: 3610
-    commentsToLikes: 0.364708
-    id: ck9hbr7jli4r00j78ahowjuzz
+    followers: 3038
+    engagement: 4358
+    commentsToLikes: 0.361573
+    id: ckapc0lxo20ag0i78mmqyv6ym
     verified: false
-    hashtags: "#birthdayqueen, #linda, #dc, #allthewayup"
-  - username: "sassy_shinade"
+    hashtags: "#sandzak, #bosniaandherzegovina, #podgorica, #love"
+  - username: "simply_lenny"
     fullname: >-
-      Shinade Mc Lean
+      LENNY💋✌🏼
+    bio: >-
+      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
     location: "Austria"
-    followers: 2086
-    engagement: 3239
-    commentsToLikes: 0.152694
-    id: ckaoyk7kxhto10i78f5mehs7k
+    followers: 2474
+    engagement: 2945
+    commentsToLikes: 0.473416
+    id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#mountainlover, #familylove, #family, #goodvibes"
-  - username: "sweetlifefitlife"
+    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
+  - username: "hellinrojda"
     fullname: >-
-      SweetlifeFitlife
+      H E L L I N  R O J D A
+    bio: >-
+      
     location: "Austria"
-    followers: 17485
-    engagement: 3222
-    commentsToLikes: 0.096802
-    id: ckaovirdf4q6y0i7802di5s71
+    followers: 13429
+    engagement: 2945
+    commentsToLikes: 0.087757
+    id: ck9wdkanzg1f50j78zx2huuhl
     verified: false
-    hashtags: "#modelsearch, #tshirtoftheday, #moodday, #springdays"
+    hashtags: "#vienna, #ootd, #kosova, #zarawoman"
   - username: "ppprosi"
     fullname: >-
       Verena Prosenik 🌸
+    bio: >-
+      • based in Vienna 📍 • Volleyballplayer by ❤️ • Sports & Psychologie 📝📚
     location: "Austria"
-    followers: 5127
-    engagement: 2630
-    commentsToLikes: 0.174539
+    followers: 6185
+    engagement: 2772
+    commentsToLikes: 0.185280
     id: ck6u1ozbxn0pq0j71idobhimo
     verified: false
-    hashtags: "#igtravelworld, #vlog, #camelmarket, #charger"
-  - username: "jelenatdcx"
+    hashtags: "#styleinspiration, #discoverunder5k, #portrait, #bikini"
+  - username: "melamed_matan"
     fullname: >-
-      ! J E L E N A
+      MATAN MELAMED 🦍🌏
+    bio: >-
+      🤸🏾‍♂️ CALISTENICS ATHLETE 🎥 Photographer 🏅 18th Place SWWC2019 🇷🇺 🥈 2nd place in the Israel 🇮🇱 championship 🏆 Kevad Battles19 🇪🇪 1ST
     location: "Austria"
-    followers: 173780
-    engagement: 1270
-    commentsToLikes: 0.099808
-    id: ck14hhl86adcu0i19y5x4fv3m
+    followers: 2720
+    engagement: 2619
+    commentsToLikes: 0.133169
+    id: ck8wdepc7dqbq0j78ei7iqntg
     verified: false
-    hashtags: "#verlosen, #iphone11, #iphone, #iphonegive"
-  - username: "ayrukantv"
+    hashtags: "#fitness, #fitnessmodel, #airplanemode, #motivation"
+  - username: "linda.shr"
     fullname: >-
-      ayrukantv
+      Linda Seher
+    bio: >-
+      📍 AT | twenty-something | sunlover 🌺 | Live a life you will remember 💭 | Think Big
     location: "Austria"
-    followers: 160173
-    engagement: 997
-    commentsToLikes: 0.074574
-    id: ck6u723tsj11i0j710u7bupzq
+    followers: 4530
+    engagement: 2562
+    commentsToLikes: 0.124435
+    id: ck9hbr7jli4r00j78ahowjuzz
     verified: false
-    hashtags: "#2k19, #sonntag12uhr, #2020, #ayrukantvfamily"
-  - username: "yoga_lanie"
+    hashtags: "#sleevetattoo, #tattoolove, #inkedgirl, #dc"
+  - username: "tamaralukovics"
     fullname: >-
-      Yoga - Lanie
+      Tamara Lukovics
+    bio: >-
+      🖤 @basicbytamaralukovics ✉️ contact@tamaralukovics.com 🎥 youtube.com/tamaralukovics
     location: "Austria"
-    followers: 3392
-    engagement: 4741
-    commentsToLikes: 0.281057
-    id: ck5zofvkpqh5h0i14f56w5txw
+    followers: 70655
+    engagement: 1700
+    commentsToLikes: 0.092136
+    id: ck6ud9jorjtok0j71c8azepc9
     verified: false
-    hashtags: "#yogalove, #yogabeginner, #yogapractice, #split"
-  - username: "lisarie__"
+    hashtags: "#rekl, #rekla, #cottontouch, #johnsonsbaby"
+  - username: "annaprut"
     fullname: >-
-      🌸 Lisa
+      Anna 🦋
+    bio: >-
+      Simple like quantum physics
     location: "Austria"
-    followers: 14347
-    engagement: 3350
-    commentsToLikes: 0.105724
-    id: ck0w6s6fla1h80i19p1zndbpg
+    followers: 9845
+    engagement: 1284
+    commentsToLikes: 0.098351
+    id: ckf5r6un1bmzm0j23z07bcdsf
     verified: false
-    hashtags: "#europetravel, #nycdotgram, #rapeseedfield, #travlcouples"
-  - username: "lau13raa"
+    hashtags: "#girl, #quad, #fittness, #realtalk"
+  - username: "florianmacek"
     fullname: >-
-      CURVES • TRAVEL • FASHION
+      Florian Maček
+    bio: >-
+      Black lives matter. Co-founder @hostilecalifornia @talentmodelmgmt 🌐 Tiktok: florianmacek @florianmacekbackup 📧: fmacek@chello.at 📍 Vienna 🇦🇹
     location: "Austria"
-    followers: 51496
-    engagement: 1701
-    commentsToLikes: 0.053503
-    id: ck8t8qew4ldp60j78mfio58d4
+    followers: 804121
+    engagement: 812
+    commentsToLikes: 0.045892
+    id: ck14iuf6vh7vr0i19j8i99sgn
     verified: false
-    hashtags: "#romantic, #basicstyle, #neubeidm, #gewinnspiel"
-  - username: "roserlin_roellin"
+    hashtags: "#photos, #autumn, #london, #bts"
+  - username: "natalie___2017"
     fullname: >-
-      ROSY | Social Media ManagerIn
+      𝓝𝓪𝓽𝓪𝓵𝓲𝓮 | ناتالی
+    bio: >-
+      Iranian babygirl🕊دختر بچه ایرانی Lives in Austria 🇦🇹 ساکن اتریش تبلیغات نداریم❌ Mom @leila__sch
     location: "Austria"
-    followers: 8850
-    engagement: 1432
-    commentsToLikes: 0.094793
-    id: ck9hayh0aelbm0j78lllugbvg
+    followers: 66285
+    engagement: 738
+    commentsToLikes: 0.055458
+    id: ck13d7i2942fm0i19fo7gl5eo
     verified: false
-    hashtags: ""
+    hashtags: "#love, #nice, #kidsfashion, #pretty"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Italy In 2020
 description: >-
-  Find top travel TikTok influencers in Italy in 2020. Most popular hashtags: #nature #italy #dolomites #coronavirus.
+  Find top travel TikTok influencers in Italy in 2020. Most popular hashtags: #travel #fyp #italy #italia.
 platform: TikTok
+hits: 244
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 244 TikTok influencers like this in Italy for you to pitch.
 profiles:
-  - username: "sixthlens"
-    fullname: >-
-      Matteo Mangano
-    location: "Italy"
-    followers: 27013
-    engagement: 1518
-    commentsToLikes: 0.071355
-    id: ck9rhwugchbn00j78ni4vj1ev
-    verified: false
-    hashtags: "#wander, #horselover, #gocamping, #tiktokita"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
+    bio: >-
+      🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 1795572
-    engagement: 2449
-    commentsToLikes: 0.012062
+    followers: 2300000
+    engagement: 2312
+    commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#tuttifratelli, #valespo, #reazione, #problemicontutti"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+  - username: "warrior_singhni1984"
+    fullname: >-
+      WARRIOR_SINGHNI1984💙
+    bio: >-
+      traveling blooger🌍 🏕️HIMACHALI🏕️ “GREAT THINGS NEVER CAME FROM COMFORT ZONE"
+    location: "Italy"
+    followers: 9568
+    engagement: 1858
+    commentsToLikes: 0.028307
+    id: ckbl2eurrziz70j23m2ozx481
+    verified: false
+    hashtags: "#2percent, #tashusewgi, #warrior, #darbarsahibamritsar"
   - username: "vivereviaggiandoo"
     fullname: >-
       vivereviaggiandoo
+    bio: >-
+      Nic e Anna 🤍 Travel Content Creators 🎥 Viaggiamo 🌍 e Viviamo sostenibile 🌱
     location: "Italy"
-    followers: 37207
-    engagement: 1068
-    commentsToLikes: 0.058146
+    followers: 55900
+    engagement: 837
+    commentsToLikes: 0.045339
     id: ck90u6gbavh9g0j78lg8hys22
     verified: false
-    hashtags: "#snake, #consigli, #travelphoto, #rome"
-  - username: "silviadisanto"
-    fullname: >-
-      Silvia Di Santo
-    location: "Italy"
-    followers: 327117
-    engagement: 3048
-    commentsToLikes: 0.009173
-    id: ck83k4jkf99wf0j788sh6r9c5
-    verified: false
-    hashtags: "#missyou, #ironia, #comedy, #icoloniali"
-  - username: "eleutha"
-    fullname: >-
-      eleutha
-    location: "Italy"
-    followers: 2020
-    engagement: 710
-    commentsToLikes: 0.078279
-    id: ckacd2o0fijaz0i78dizvon5c
-    verified: false
-    hashtags: "#boredinthehouse, #italia, #nofilter, #bowlchallenge"
-  - username: "joe.henryy"
-    fullname: >-
-      Joe Henry
-    location: "Italy"
-    followers: 40200
-    engagement: 1538
-    commentsToLikes: 0.044866
-    id: cka6e70zmam910i78szk2jjym
-    verified: false
-    hashtags: "#castello, #panorama, #motoslitta, #coronavirus"
-  - username: "quelmeladoro"
-    fullname: >-
-      QuelMeladoro
-    location: "Italy"
-    followers: 20767
-    engagement: 723
-    commentsToLikes: 0.054214
-    id: ck9eukyureaek0j786cnf02c0
-    verified: true
-    hashtags: "#roma, #coronavirus, #timelapse, #tiktoktaac"
+    hashtags: "#toscana, #imparacontiktok, #traveltips, #falls"
   - username: "roccabrian"
     fullname: >-
       Brian Rocca
+    bio: >-
+      Photographer & Videomaker Youtube / Travel🌴
     location: "Italy"
-    followers: 11183
-    engagement: 657
-    commentsToLikes: 0.081593
+    followers: 12000
+    engagement: 1378
+    commentsToLikes: 0.033114
     id: ck8s7q7asq9do0j78k2c2kihx
     verified: false
-    hashtags: "#hotel, #tiktok, #monstertruck, #travellife"
-  - username: "davide.anzimanni"
+    hashtags: "#lake, #drone, #dayinmylife, #view"
+  - username: "michelangeloazzariti"
     fullname: >-
-      Davide Anzimanni
+      Michelangelo
+    bio: >-
+      TᖇᗩᐯEᒪ ᑕOᑎTEᑎT ᑕᖇEᗩTOᖇ Influencer & Traveller ✈️ 🌎 📸 Ig:@michelangeloazzariti
     location: "Italy"
-    followers: 19608
-    engagement: 1608
-    commentsToLikes: 0.024660
-    id: ck8vshinwdkrq0j78kba6o75j
-    verified: false
-    hashtags: "#resort, #wadirum, #motorbike, #midnightsun"
-  - username: "giovanniarena_"
+    followers: 13200
+    engagement: 1125
+    commentsToLikes: 0.086297
+    id: ck9fyk4j9b5il0j78ekh0615l
+    verified: true
+    hashtags: "#italy, #perte, #travel, #impariamocontiktok"
+  - username: "joe.henryy"
     fullname: >-
-      Giovanni Arena
+      Joe Henry
+    bio: >-
+      Traveller 🌅 Trieste/Italy 🧡 Seguimi su Instagram (20k) 🍹
     location: "Italy"
-    followers: 131799
-    engagement: 2520
-    commentsToLikes: 0.015117
-    id: ck8fby1iu5ef00j78hb10i74t
+    followers: 44200
+    engagement: 1471
+    commentsToLikes: 0.040602
+    id: cka6e70zmam910i78szk2jjym
     verified: false
-    hashtags: "#perte, #exchangestudent, #netflix, #italy"
+    hashtags: "#elefante, #riflesso, #mare, #foresta"
+  - username: "chiarasordi7"
+    fullname: >-
+      Chiara Sordi
+    bio: >-
+      Lawyer 🎓Traveller✈️❤️ 33💫❤️ Milan Italy🇮🇹 Never stop shining💫 IG: @dencs87
+    location: "Italy"
+    followers: 6698
+    engagement: 1040
+    commentsToLikes: 0.033363
+    id: cka0y1b8z9ihv0i78pu9cxf5s
+    verified: false
+    hashtags: "#travel, #portugal, #christmas, #tiktokitaly"
+  - username: "giacomopodetti"
+    fullname: >-
+      Giacomo Podetti
+    bio: >-
+      i can’t dance but travel quite often
+    location: "Italy"
+    followers: 2854
+    engagement: 1278
+    commentsToLikes: 0.020437
+    id: ck8qpxhs65gi90j783iuvs8wd
+    verified: false
+    hashtags: "#lapland, #xyzbca, #sunrise, #winter"
+  - username: "vologratis"
+    fullname: >-
+      ANDREA PETRONI travel blogger
+    bio: >-
+      ✈️ Travel Blogger VoloGratis.org 🌍 📷Instagram @vologratis +51k
+    location: "Italy"
+    followers: 16000
+    engagement: 686
+    commentsToLikes: 0.041308
+    id: ckbez22csjv070j23qzbke3kt
+    verified: false
+    hashtags: "#consiglidiviaggio, #impararecontiktok, #blogdiviaggi, #viaggi"
+  - username: "drewbinsky"
+    fullname: >-
+      Drew Binsky 🌏
+    bio: >-
+      I Travel and Tell Stories ✈️ 191/197 Countries IG: @DrewBinsky +1 310 349 3854
+    location: "Italy"
+    followers: 45200
+    engagement: 1268
+    commentsToLikes: 0.039673
+    id: ckamwjyrj8w110i78xv6ysp0t
+    verified: false
+    hashtags: "#tiktokafrique, #perte, #latin, #parati"
 ---

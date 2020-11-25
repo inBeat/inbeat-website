@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top yoga Instagram influencers in Las Vegas in 2020. Most popular hashtags: #yoga #summervibes #lasvegas #flowers.
+  Find top yoga Instagram influencers in Las Vegas in 2020. Most popular hashtags: #yoga #lasvegas #balance #california.
 platform: Instagram
+hits: 41
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 41 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
   - username: "anna_ivaseva"
     fullname: >-
       Anna Ivaseva
+    bio: >-
+      Circus performer handbalancing/hand to hand. Love life and love what I do❣️ 𝔹𝕠𝕠𝕜 𝕗𝕠𝕣 𝕙𝕒𝕟𝕕𝕤𝕥𝕒𝕟𝕕 𝕔𝕝𝕒𝕤𝕤𝕖𝕤🤸‍♀️ 📍Las Vegas
     location: "United States"
-    followers: 27511
-    engagement: 555
-    commentsToLikes: 0.015144
+    followers: 28917
+    engagement: 588
+    commentsToLikes: 0.020067
     id: ck8t0g926ryl50j78e5dubucd
     verified: false
-    hashtags: "#youandme, #headspace, #tourlife, #fineart"
-  - username: "soulmatesbroadcast"
+    hashtags: "#training, #circuseveryday, #yoga, #gym"
+  - username: "thedioneg"
     fullname: >-
-      Claudia & Abbey | Travel
+      Dione | Tennis Professional
+    bio: >-
+      | Tennis | Yoga | 📍Las Vegas
     location: "United States"
-    followers: 6148
-    engagement: 551
-    commentsToLikes: 0.049565
-    id: ckaorh6s5n77o0i78bywz4px0
+    followers: 13613
+    engagement: 849
+    commentsToLikes: 0.083827
+    id: ck8t91yfgmo1p0j7875bkcuzx
     verified: false
-    hashtags: "#jaspernationalpark, #canadianbloggers, #rockiemountains, #mauiphotographer"
-  - username: "alfonsoherrero"
+    hashtags: "#summer2020, #tennislife, #coachlife, #backyardlife"
+  - username: "robhallphoto"
     fullname: >-
-      Alfonso Herrero
+      Robert Hall Photography
+    bio: >-
+      Michigan Editorial Photographer YouTuber 1/2 of @highisopodcast
     location: "United States"
-    followers: 158225
-    engagement: 430
-    commentsToLikes: 0.015159
-    id: ck5pz1cfeys8s0i1126a11b1s
+    followers: 26197
+    engagement: 406
+    commentsToLikes: 0.027630
+    id: ck5cbx94qgbzg0i11ezpw7aov
     verified: false
-    hashtags: "#huaweiappjourney, #cake, #springvibes, #brownie"
-  - username: "thejordansoto"
+    hashtags: "#godoxad600, #lakemichigan, #softbox, #sonya7riv"
+  - username: "daddyslittlepeanut83"
     fullname: >-
-      Jordan Soto 🔵
+      Pamela Adams
+    bio: >-
+      You can find me outside doing outdoorsy things. 🧘🏻‍♀️🎨💪🏼🐾🎣🏃‍♀️🌵🏕🌲⛰ Lifeworker ✨ Visionary 👁 Be mindful of what makes your mind full. Be the change 🔮
     location: "United States"
-    followers: 15699
-    engagement: 315
-    commentsToLikes: 0.098722
-    id: ck8t8q5zklcmf0j78mn6ikgpr
+    followers: 2544
+    engagement: 1494
+    commentsToLikes: 0.104319
+    id: ckaos8e99qkg20i78evb8fj4e
     verified: false
-    hashtags: "#farmlife, #wildlife, #wipes, #country"
-  - username: "sunnylanelive"
+    hashtags: "#divine, #beon12, #adventure, #colorfulcolorado"
+  - username: "vanessahanson"
     fullname: >-
-      Sunny Lane
+      Vanessa Hanson
+    bio: >-
+      Model & @UFC Octagon Girl based in California🌞 LA/OC- @brand_models MIA- @cgmmodels Canada- @dulcedomodels 💌bookvanessahanson@gmail.com
     location: "United States"
-    followers: 182989
-    engagement: 162
-    commentsToLikes: 0.023860
-    id: ck8t0ksa8sedg0j788udjbcra
-    verified: false
-    hashtags: "#letsgo, #superheroday, #memorialdayweeken, #lovers"
-  - username: "nourishednatasha"
+    followers: 305516
+    engagement: 202
+    commentsToLikes: 0.011990
+    id: ck5qdaaapulb10i11sae0zu8q
+    verified: true
+    hashtags: "#ufc249, #mma, #ufc, #espn"
+  - username: "circus_lines"
     fullname: >-
-      The Nourishment Coach ✨
+      Circus_Lines
+    bio: >-
+      copyright (©) 🏷 If you share it, please tag @circus_lines 🎨DM for personalized tattoos/logos 📩circuslinescreation@gmail.com FB: Circus Lines
     location: "United States"
-    followers: 74062
-    engagement: 238
-    commentsToLikes: 0.031479
-    id: ck5ccf8xqh91d0i11uty4w4o0
+    followers: 5745
+    engagement: 439
+    commentsToLikes: 0.006582
+    id: ck0uc5zijg5tl0i19cz3w71f8
     verified: false
-    hashtags: "#breatheitin, #cyrvyblogger, #flexible, #fullmoonvibes"
-  - username: "rantnv"
+    hashtags: "#procreate, #duo, #tattoo, #pole"
+  - username: "criminally_coco"
     fullname: >-
-      Rick Anthony
+      Coco's Sassy Fangirl💋
+    bio: >-
+      All photos belong to respective owners. Just a FANPAGE. @coco @babychanelnicole @sassy_sheppard Business Inquires: criminallycoco@gmail.com
     location: "United States"
-    followers: 12737
-    engagement: 910
-    commentsToLikes: 0.045723
-    id: ck8syq6f2lkxr0j78vrsbassh
+    followers: 38850
+    engagement: 217
+    commentsToLikes: 0.017525
+    id: ck8t6ivo8dsyp0j78tunfuhca
     verified: false
-    hashtags: "#milkyway, #longexposure, #sincity, #vegasnightlife"
-  - username: "keytoyoga"
+    hashtags: "#iceandcoco, #stayhome, #criminallycoco, #stayhealthy"
+  - username: "newjohnnysins"
     fullname: >-
-      Key to Yoga🔑
+      Johnny Sins
+    bio: >-
+      New account!
     location: "United States"
-    followers: 39348
-    engagement: 205
-    commentsToLikes: 0.012539
-    id: ck6u7yq8zofn40j717glh77vz
+    followers: 144552
+    engagement: 1278
+    commentsToLikes: 0.042764
+    id: ck8wdh3nadtx10j78bng8sq4e
     verified: false
-    hashtags: "#yogagirls, #lockdowndiaries, #worldofyoga, #athomeyoga"
-  - username: "theblondetravelsx0"
+    hashtags: "#tiktok, #vinyasa, #tulum, #youtube"
+  - username: "lisamsanders"
     fullname: >-
-      JAMIE RIVERO  | Philly Blogger
+      Lisa Marie Sanders
+    bio: >-
+      #IFBBPRO #REALTOR #ARMY & AF #veteran #executiveprotection Ex-LEO, 50+ yrs old BHRC Ambassador Sandersbhrch2020 ProSport Nutrition Ambassador
     location: "United States"
-    followers: 20192
-    engagement: 308
-    commentsToLikes: 0.158448
-    id: ck6tvd4a1ljt30j71pwjlidnd
+    followers: 40157
+    engagement: 279
+    commentsToLikes: 0.024408
+    id: ckap3j5ko37pl0i78h7pg4w53
     verified: false
-    hashtags: "#briogeo, #yoga, #alpinebabes, #travelinspo"
-  - username: "haareozawa"
+    hashtags: "#texas, #love, #ifbbpro, #fbf"
+  - username: "natalietenerelli"
     fullname: >-
-      Krystal Ozawa💖小澤 晴☀️
+      Natalie Tenerelli
+    bio: >-
+      ‪PEACHES.LA 🍑|| SURVIVOR 22 Finalist || Former NBA Dancer || TNG Models Las Vegas || Brand Models & Talent OC‬ 🌼
     location: "United States"
-    followers: 2383
-    engagement: 864
-    commentsToLikes: 0.081809
-    id: ck8ta89qrqtfb0j780xtji2ye
+    followers: 24419
+    engagement: 351
+    commentsToLikes: 0.047949
+    id: ck13bs313wwg30i199ffcaobc
     verified: false
-    hashtags: "#goodvibes, #pink, #flowers, #beautyblog"
+    hashtags: "#womenempowerment, #california, #peaches, #venicebeachfarmersmarket"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Boston In 2020
 description: >-
-  Find top fitness TikTok influencers in Boston in 2020. Most popular hashtags: #fitness #workout #friends #levelup.
+  Find top fitness TikTok influencers in Boston in 2020. Most popular hashtags: #fitness #boston #fyp #massachusetts.
 platform: TikTok
+hits: 19
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 19 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
   - username: "joehadley96"
     fullname: >-
       Joseph JP Hadley
+    bio: >-
+      Instagram- Jphadley19 Twitter -Jphadley96 🏳️‍🌈🏳️‍🌈🇮🇹🇮🇹
     location: "United States"
-    followers: 6043
-    engagement: 976
-    commentsToLikes: 0.075831
+    followers: 8012
+    engagement: 709
+    commentsToLikes: 0.041930
     id: ck9tu8w7sk87z0j786zjpgboa
     verified: false
-    hashtags: "#dolantwins, #pride, #retweet, #mytype"
-  - username: "kingpinsla"
-    fullname: >-
-      Kingpinsla
-    location: "United States"
-    followers: 120571
-    engagement: 569
-    commentsToLikes: 0.017621
-    id: ckan3zs5c7prc0i7844t0d6u0
-    verified: false
-    hashtags: "#danceduo, #petsotiktok, #ohnanachallenge, #vira"
+    hashtags: "#gaykid, #equinox, #snapchat, #sexy"
   - username: "jamesdeveney"
     fullname: >-
       James Deveney
+    bio: >-
+      Hot-Takes | Always Yelling Co-Host of 🔥Raiders of the Lost Podcast🔥
     location: "United States"
-    followers: 66642
-    engagement: 1381
-    commentsToLikes: 0.041553
+    followers: 82900
+    engagement: 1286
+    commentsToLikes: 0.053873
     id: ck8hrxj8zaq0q0j78hi4qudcf
     verified: false
-    hashtags: "#addiction, #family, #workout, #england"
-  - username: "sydtheyogi"
-    fullname: >-
-      Sydney Boney
-    location: "United States"
-    followers: 244636
-    engagement: 1414
-    commentsToLikes: 0.008841
-    id: cka0o6jpy2gya0i783y87bz7v
-    verified: false
-    hashtags: "#shawnjohnsonchallenge, #piedialmurochallege, #sixpackabs, #workoutchallenge"
+    hashtags: "#cnn, #fox, #fyp, #boston"
   - username: "sophsmcgophs"
     fullname: >-
       sophia
+    bio: >-
+      teacher of small friends 🌼 📍boston, ma
     location: "United States"
-    followers: 6611
-    engagement: 985
-    commentsToLikes: 0.008784
+    followers: 6717
+    engagement: 1145
+    commentsToLikes: 0.005772
     id: ck83zu9p934k10j789mqdocie
     verified: false
-    hashtags: "#lifeathomequiz, #blanketlife, #healthy, #brazilian"
+    hashtags: "#decadesofhair, #fyp, #massachusetts, #teacher"
   - username: "chrystieeatscarbs"
     fullname: >-
       Chrystie
+    bio: >-
+      40 Something Fitness & Nutrition Coach 🍩💪🏻
     location: "United States"
-    followers: 56166
-    engagement: 498
-    commentsToLikes: 0.025597
+    followers: 55100
+    engagement: 478
+    commentsToLikes: 0.023852
     id: ck9si8vu0xni50j78etubrz37
     verified: false
-    hashtags: "#girlscoutcookies, #tiktokmoms, #howyoudoin, #guessmyage"
-  - username: "jimmypemberton"
+    hashtags: "#dyinginside, #quarantineinhome, #quarantine, #gymlife"
+  - username: "pleasemarrymeharrystyles"
     fullname: >-
-      Jimmy Pemberton
+      ksngkgkskst
+    bio: >-
+      
     location: "United States"
-    followers: 5929
-    engagement: 1445
-    commentsToLikes: 0.252268
-    id: ck9kdgouuu5y20j7878lmpc9k
-    verified: true
-    hashtags: "#drumlife, #tvshow, #business, #differentbreed"
-  - username: "djryno"
-    fullname: >-
-      rfournier89
-    location: "United States"
-    followers: 19885
-    engagement: 1382
-    commentsToLikes: 0.075015
-    id: cka9lutef3ate0i78nxss2mj6
+    followers: 0
+    engagement: 1310
+    commentsToLikes: 0.038069
+    id: ckd0yvdn9lgd50j23vqndqjtb
     verified: false
-    hashtags: "#newjersey, #home, #football, #bosco"
-  - username: "bmotheprince"
+    hashtags: "#zoom, #weightlossprogress, #onedirection, #harrystyles"
+  - username: "papipalmerofficial"
     fullname: >-
-      B Mo the Prince
+      Baby Oil Physique🥵
+    bio: >-
+      BOSTON ‼️21🇯🇲 YOUTUBER: @JUSTC.PALMER IG - C.Palmer_Fitness ⬇️Apparel website
     location: "United States"
-    followers: 285930
-    engagement: 1604
-    commentsToLikes: 0.028447
-    id: ck8z7wjsdrvy80j78hzjbprvy
+    followers: 122100
+    engagement: 1668
+    commentsToLikes: 0.042892
+    id: ckbawb0g1mrz10j23kph27p7h
     verified: false
-    hashtags: "#trends, #prosecco, #bills, #savage"
-  - username: "showtimeosa"
+    hashtags: "#greenscreen, #fyp, #fyppage, #motivation"
+  - username: "tylernilson8"
     fullname: >-
-      thatkid.0sa™️
+      Tyler N
+    bio: >-
+      semi-professional fitness-gram pacer tester oxford comma enthusiast
     location: "United States"
-    followers: 2041
-    engagement: 1368
-    commentsToLikes: 0.073544
-    id: ckaj9nt5ifenl0i78kx6vqahb
+    followers: 43100
+    engagement: 1324
+    commentsToLikes: 0.028113
+    id: ck9el4zep945p0j78jhm6cega
     verified: false
-    hashtags: "#nyctrainstation, #bostoncollege, #girlartist, #nigeriancomedy"
+    hashtags: "#college, #coronacation, #harvard, #collegereactions"
+  - username: "minamicheal78"
+    fullname: >-
+      Mina Micheal
+    bio: >-
+      Fitness💪🏼 | Photography 📸 | Engineer 🛠 Travel 🌎 🇪🇬 مصري | Boston📍
+    location: "United States"
+    followers: 3089
+    engagement: 732
+    commentsToLikes: 0.042580
+    id: ckdbjcify965m0j23uo2slipm
+    verified: false
+    hashtags: "#boston, #views, #mass, #travel"
+  - username: "onavacationfaraway"
+    fullname: >-
+      Josie Is
+    bio: >-
+      25 🦋 Fat to Fit 💪🏼 Boston📍 Big 🍑Bigger🧠 Follow me on IG😘 Venmo jbsosa32
+    location: "United States"
+    followers: 354000
+    engagement: 670
+    commentsToLikes: 0.023717
+    id: ckd0xl2lvkyla0j23ef0u96na
+    verified: false
+    hashtags: "#myhobby, #facereveal, #fanedit, #redbulldanceyourstyle"
+  - username: "tsl_highlights"
+    fullname: >-
+      TSL highlights
+    bio: >-
+      Hi
+    location: "United States"
+    followers: 2471
+    engagement: 1755
+    commentsToLikes: 0.072804
+    id: cka84a7drsq0p0i783qrehfbx
+    verified: false
+    hashtags: "#baseball, #nfl, #funny, #memes"
 ---

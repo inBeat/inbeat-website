@@ -1,22 +1,41 @@
 ---
 title: Top 10 Divers Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top divers Instagram influencers in Ukraine in 2020. Most popular hashtags: #riverside #forest #beauty #wood.
+  Find top divers Instagram influencers in Ukraine in 2020. Most popular hashtags: #ukraine #lviv #ukrainegirls.
 platform: Instagram
+hits: 10
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 10 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "anni_tett"
+  - username: "anton_maznyi"
     fullname: >-
-      Tania Yakunova
+      Anton Maznyi
+    bio: >-
+      Healer, Surfer, Skier, Businessman, Investor, Producer, Yogi, Captain, Diver, Skydiver ALOHA 🤙🏽 Co-founder/Owner @owntown_apart_hotel
     location: "Ukraine"
-    followers: 6016
-    engagement: 1565
-    commentsToLikes: 0.028249
-    id: ckaotc3ysv9i40i78j4dt2lav
+    followers: 30048
+    engagement: 60
+    commentsToLikes: 0.068874
+    id: ck5hceh45hn9k0i11agvc28cj
     verified: false
-    hashtags: "#leadership, #bookcoverdesign, #doodlesofinstagram, #womenillustrators"
+    hashtags: ""
+  - username: "liubovpogorelaphotography"
+    fullname: >-
+      Photographer Liubov Pogorela
+    bio: >-
+      beauty photographer and retoucher published in Vogue, Harper's Bazaar, Schön! Magazine 📍 Kyiv, Ukraine
+    location: "Ukraine"
+    followers: 20687
+    engagement: 557
+    commentsToLikes: 0.017927
+    id: ck15qkp163bka0i19k2oxkldo
+    verified: false
+    hashtags: "#warmlight, #profoto, #modelsearch, #highendretouch"
   - username: "more.kryma"
     fullname: >-
       КРЫМ |СИМФЕРОПОЛЬ |СЕВАСТОПОЛЬ
+    bio: >-
+      📷 Про море Крыма с душой 📝 Ставьте хэштег #морекрыма 📌 Отмечайте на фото и в сториз 📩 Реклама - в директ
     location: "Ukraine"
     followers: 64336
     engagement: 367
@@ -27,71 +46,85 @@ profiles:
   - username: "kremets_serhii"
     fullname: >-
       Kremets Serhii
+    bio: >-
+      ✖️#NOMOTORS RACE Corp.- Альтернативный дрифт-проект ✖️ Drivers: S. Kremets. 🏆 Чемпион Украины 2017 🏆Бронзовый призер Беларуси 2017 Видео 👇🏻
     location: "Ukraine"
-    followers: 8129
-    engagement: 491
-    commentsToLikes: 0.017424
+    followers: 8361
+    engagement: 421
+    commentsToLikes: 0.018126
     id: ck5zne6froag30i1491vyyvpk
     verified: false
-    hashtags: "#driftgp, #drift, #driftmasters, #europe"
-  - username: "lesta_ua"
+    hashtags: "#nmdg2020, #kremets, #drift, #nomotors"
+  - username: "sofiyababych"
     fullname: >-
-      Lesta and her adventures
+      Sofiya Babych🇺🇦🎾🇨🇦
+    bio: >-
+      👩‍🎓LNMU, dentistry 🦷 @_parodent_
     location: "Ukraine"
-    followers: 10211
-    engagement: 495
-    commentsToLikes: 0.027077
-    id: ck1381f33e1ba0i19hijy01a2
+    followers: 13804
+    engagement: 3071
+    commentsToLikes: 0.079507
+    id: ck13d2cta3bdy0i19lngria3o
     verified: false
-    hashtags: "#tarasovagora, #yellowleaf, #lady, #thecarpathians"
-  - username: "annyakovchuk21"
+    hashtags: "#ukrainegirls, #ukrainegrams, #ukrayna, #ukrainemodel"
+  - username: "k7777ll"
     fullname: >-
-      𝓐🖤
+      Артем Чеповий
+    bio: >-
+      BMW M4 stage 2 580hp🏁 sakhir orange🔥 BMW 335i stage 2+ 430hp 🇩🇪 sold. M4_7777🎵Music
     location: "Ukraine"
-    followers: 10225
-    engagement: 628
-    commentsToLikes: 0.023974
-    id: ck5q0cfbz5bie0i11wc264r5r
+    followers: 11330
+    engagement: 1141
+    commentsToLikes: 0.018561
+    id: ck9wfc6gso7kh0j784m2mltpd
     verified: false
-    hashtags: "#blossomseason, #masterdegree, #kyivgirls, #presents"
-  - username: "marinabugira"
+    hashtags: "#bmwmrepost, #bmwm4club, #bmwmperformance, #bmwclub"
+  - username: "sonya22.08"
     fullname: >-
-      young and in love
+      SONYA MODEL
+    bio: >-
+      ▪️Покажу мир моими глазами ▪️Туризм | Психология | Диетология ▪️ MA: @modelagentgroup @soldatovanastya @katevalatina 🇪🇸🇮🇹🇵🇱🇲🇪🇩🇪🇹🇷🇸🇬🇲🇾🇲🇨
     location: "Ukraine"
-    followers: 3476
-    engagement: 3477
-    commentsToLikes: 0.009103
-    id: ck8t4a3m260kx0j78x97xf57l
+    followers: 16003
+    engagement: 535
+    commentsToLikes: 0.100054
+    id: ck0tt4y9b16c40i1998ja5tza
     verified: false
-    hashtags: "#stayhome, #naturalbeauty, #beauty, #makeup"
-  - username: "aleksey_sobko"
-    fullname: >-
-      Aleksey Sobko
-    location: "Ukraine"
-    followers: 3831
-    engagement: 3382
-    commentsToLikes: 0.069939
-    id: ck15pov4ryxbq0i19r2v98xuw
-    verified: false
-    hashtags: "#summer2019, #crimea, #eternalholiday, #eveningyevpatoria"
+    hashtags: "#portraitmood, #instaphotography, #ootd, #whatiwore"
   - username: "ostrovski.official"
     fullname: >-
       Katya Ostrovski 🖤
+    bio: >-
+      DJ Ostrovski 🎧 Choreographer & Dancer 💃🏻 Booking 📌 +380939813663 WhatsApp, Telegram 📩
     location: "Ukraine"
-    followers: 19449
-    engagement: 323
-    commentsToLikes: 0.020597
+    followers: 17798
+    engagement: 294
+    commentsToLikes: 0.065588
     id: ck5hik3ladx850i116wj88v9t
     verified: false
-    hashtags: "#gjkiev, #coyoteuglykiev, #rust, #prague"
+    hashtags: "#katyaostrovski, #music, #ostrovski, #vocalhouse"
+  - username: "pilot_ehsan"
+    fullname: >-
+      Pilot Ehsan
+    bio: >-
+      👨‍✈️ #Pilot 🌍 #Traveler 🎥 #Videomaker ✈️ Boeing 737-300/400 First Officer ✨ Persian living in Ukraine 💯 Safety first 💯 ▶️ YouTube channel :
+    location: "Ukraine"
+    followers: 37356
+    engagement: 389
+    commentsToLikes: 0.108725
+    id: ck0vzea8n8oi00i19dy1xia93
+    verified: false
+    hashtags: "#instaaviation, #aircraft, #avgeek, #plane"
   - username: "nastiaslife"
     fullname: >-
       Nastya
+    bio: >-
+      Dreams come true🍀 Творчество, вдохновение, стихи💡 Веду проекты и инстаграм-страницы 👩🏼‍💻 Шарики🎈->@miballoons флорист🌿декоратор🎉->@milory_decor
     location: "Ukraine"
-    followers: 33894
-    engagement: 150
-    commentsToLikes: 0.047096
+    followers: 30861
+    engagement: 156
+    commentsToLikes: 0.017373
     id: ck8tbtoxjx3l10j78kp0y81vy
     verified: false
-    hashtags: "#liketime, #flowerslovers, #instakids, #nastiassport"
+    hashtags: "#instababygirl, #posing, #atthetop, #adidasoriginals"
 ---

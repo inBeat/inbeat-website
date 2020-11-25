@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Argentina In 2020
 description: >-
-  Find top TikTok influencers in Argentina in 2020. Most popular hashtags: #may4th #diadeltrabajo #greenscreen #.
+  Find top TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #fyp #foryou #xyzbca.
 platform: TikTok
+hits: 1765
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 1765 TikTok influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "lunamontes"
+  - username: "rochimusic17"
     fullname: >-
-      Luna Montes
+      Rochi Music
+    bio: >-
+      ✉️: rochicastagnomgmt@gmail.com 👇🏻👇🏻Pedi tu KIT ACA👇🏻👇🏻
     location: "Argentina"
-    followers: 1685629
-    engagement: 2412
-    commentsToLikes: 0.020784
-    id: ck9emqvuhg9df0j78b8hrayas
+    followers: 982800
+    engagement: 2382
+    commentsToLikes: 0.030903
+    id: ck9f3ftayhjpc0j78760cqxq5
     verified: true
-    hashtags: "#temporarlylover, #temporarylover"
-  - username: "abailarconmaga"
+    hashtags: "#tutorial, #amongus, #aprendeentiktok, #potatzio"
+  - username: "adrian_gusta"
     fullname: >-
-      A bailar con Maga
+      Adrian
+    bio: >-
+      🇦🇷 Buenos Aires, Mar del Plata,.#ESCUADRON_AVEFENIX🦅🦅🔥
     location: "Argentina"
-    followers: 4219390
-    engagement: 2402
-    commentsToLikes: 0.039214
-    id: ck9f1oial8zji0j78prulaqgt
-    verified: true
-    hashtags: "#resultado, #tutorial, #youtube, #sorpresa"
-  - username: "camilitamelo"
-    fullname: >-
-      Camilita Melo
-    location: "Argentina"
-    followers: 456896
-    engagement: 2210
-    commentsToLikes: 0.029466
-    id: ck8scan90aa0x0j78n8xk9a0y
+    followers: 5878
+    engagement: 5794
+    commentsToLikes: 0.624782
+    id: ckbbkh9de8ta00j23bux0ln4l
     verified: false
-    hashtags: "#reaccionar, #greenscreen, #dollsmemaquilla, #camilitahistorias"
-  - username: "maruumartinezz1"
+    hashtags: "#seguidores, #parati, #halloween, #diversion"
+  - username: "sandysantana0"
     fullname: >-
-      Maru
+      Sandy Santana
+    bio: >-
+      Quiero tener un millón de amigos y así más fuerte poder dar mis likes
     location: "Argentina"
-    followers: 80727
-    engagement: 2125
-    commentsToLikes: 0.037819
-    id: ck8schf49b1j10j78y9uqb7kp
+    followers: 8367
+    engagement: 3970
+    commentsToLikes: 0.329283
+    id: ckc8xcu02l8190j23p61rqfg2
     verified: false
-    hashtags: "#casiangeles, #floricienta, #castingpaulferreyra"
-  - username: "keito.___.loser"
+    hashtags: "#parecechiste, #cuarentenacheck, #parati, #foryou"
+  - username: "nicol_galeano___"
     fullname: >-
-      Voy a llorar :')💓💞
+      🔥🔥Nicolgaleano🔥🔥
+    bio: >-
+      𝐋𝐨𝐯𝐞 𝐲𝐨𝐮r𝐬𝐞𝐥𝐟🌙 𝕾𝖎𝖌𝖚𝖊𝖒𝖊 𝖕𝖆𝖗𝖆 𝖒𝖆𝖘 NO SPAM DE LIKES💥
     location: "Argentina"
-    followers: 12656
-    engagement: 3510
-    commentsToLikes: 0.071799
-    id: cka7r1vjld5os0i78f46pxsnq
+    followers: 87500
+    engagement: 3946
+    commentsToLikes: 0.045550
+    id: ckcpt1vzfnl4j0j23b8v4gvjw
     verified: false
-    hashtags: "#proximaparada, #destacameeee, #upanddown, #fypchallenge"
-  - username: "_f0ck.lucas_"
+    hashtags: "#btsarmy, #foryou, #armyxbts, #army"
+  - username: "luna_dog02"
     fullname: >-
-      iBuKi L0vE’s MiKaN
+      💜Luna💜
+    bio: >-
+      💜LUNA💜 META 10K MEJOS: JOCKER PEPPER GRIZZLY MARGO Y ZOE💜 💓INDIO💓
     location: "Argentina"
-    followers: 21954
-    engagement: 3179
-    commentsToLikes: 0.088904
-    id: ckan2sdyv1tue0i7887n8t3rs
+    followers: 7516
+    engagement: 3659
+    commentsToLikes: 0.168783
+    id: ckb9too1hrrx10j231yi6v2jb
+    verified: false
+    hashtags: "#foryourpage, #noalracismo, #fyp, #kwya"
+  - username: "yoongi.angxl"
+    fullname: >-
+      *ૢ✧다중 팬덤⸙͎
+    bio: >-
+      Instagram: @skzxbangtan_ @namjoon.angxl_ 난 너를 좋아해 ✨💗 🏳️‍🌈|🇦🇷
+    location: "Argentina"
+    followers: 16000
+    engagement: 3624
+    commentsToLikes: 0.082979
+    id: ckd6a53u44azc0j23ttctirvb
+    verified: false
+    hashtags: "#straykids, #fyp, #kpop, #skz"
+  - username: "ggguk._"
+    fullname: >-
+      @SOYLELJUNGKOOK 🍭
+    bio: >-
+      HOLAA ♡ AMO A MIA 10.0k😢 JISOOS ♡ 💗 gracias por los 10.0k 😢 meta 10.3k
+    location: "Argentina"
+    followers: 10000
+    engagement: 3600
+    commentsToLikes: 0.106433
+    id: ckd6wcsx8s03k0j23wf4jj7iq
+    verified: false
+    hashtags: "#oneloveoneheart"
+  - username: "sweet.millie.editx"
+    fullname: >-
+      ៩ᖱɨƬន
+    bio: >-
+      🥞ℳℰᝨᗅ:5K🥞 ❌ℕ⌾ Տℙᗅℳ ⅅℰ ℒⅈKℰ❌ 🐳millie🐳 🔮🎡ST Y IT🎃🔮
+    location: "Argentina"
+    followers: 4675
+    engagement: 3411
+    commentsToLikes: 0.174641
+    id: ckcd85gmd361o0j23o17r2z0o
     verified: false
     hashtags: ""
-  - username: "braian19998"
+  - username: "canelo_the_caniche1"
     fullname: >-
-      Braian Acuña
+      🧸𝐜𝐚𝐧𝐞𝐥𝐨🧸
+    bio: >-
+      🧸canelo🧸 ✨2 años✨ 🌻te sacare una sonrisa!🌻 37.6k____🚴‍♀️____37.5k
     location: "Argentina"
-    followers: 329344
-    engagement: 3069
-    commentsToLikes: 0.023799
-    id: cka8h2gy096fy0i78fe7388d2
+    followers: 43200
+    engagement: 3408
+    commentsToLikes: 0.123510
+    id: ckbbjb94w7q6x0j23f2aubww9
     verified: false
-    hashtags: ""
-  - username: "tudiabla._.07"
+    hashtags: "#canelo, #fyp, #parati, #canelovers"
+  - username: "geraldine_paciello"
     fullname: >-
-      ╰‿╯ ᎠᏆᎪᏴᏞᎪ
+      Geraldine Paciello
+    bio: >-
+      Sólo busco divertirme 😜🥰
     location: "Argentina"
-    followers: 2550
-    engagement: 3031
-    commentsToLikes: 0.153771
-    id: ckan6rnz0l8kt0i78k4xt1hr4
+    followers: 9478
+    engagement: 3313
+    commentsToLikes: 0.453590
+    id: cka6oxllohdhw0i78gxhls5ay
     verified: false
-    hashtags: "#fotos, #baile"
-  - username: "_onmydamelio_"
-    fullname: >-
-      Charlie D'amelio
-    location: "Argentina"
-    followers: 55768
-    engagement: 3030
-    commentsToLikes: 0.047684
-    id: cka7o5xch0ajx0i78mmaon9g9
-    verified: false
-    hashtags: "#diadelasmadres, #diadeltrabajo, #guets, #gachalif"
-  - username: "agusfalke"
-    fullname: >-
-      falkezito ⚡️
-    location: "Argentina"
-    followers: 227480
-    engagement: 3025
-    commentsToLikes: 0.029753
-    id: ckal8sa6rkwhd0i78voq30t4g
-    verified: false
-    hashtags: "#caradeshock, #coscuarmy, #agusfalke, #temporarylover"
+    hashtags: "#amigas, #fyp, #micumple, #gery429"
 ---

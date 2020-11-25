@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Izmir In 2020
 description: >-
-  Find top health Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #health #istanbul #healthy.
+  Find top health Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #health #istanbul #instalike.
 platform: Instagram
+hits: 28
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 28 Instagram influencers like this in Izmir, Turkey for you to contact.
 profiles:
-  - username: "demetkrtas"
+  - username: "basakbybeauty"
     fullname: >-
-      
+      Başak By Beauty Blog
+    bio: >-
+      İzmir/Turkey🇹🇷 Başak Makes You a Princess💋 Purple Love💜 PR&İş Birliği ve Özel gün makyajları İçin DM📩
     location: "Turkey"
-    followers: 24489
-    engagement: 2059
-    commentsToLikes: 0.053872
-    id: ck9havxlxedcd0j78wf5cu250
+    followers: 8341
+    engagement: 329
+    commentsToLikes: 0.139380
+    id: ckf5xk2pxvxk10j235bxu72uh
     verified: false
-    hashtags: "#beaut, #makyajfenomeni, #photoshoots, #nursing"
+    hashtags: "#basakbybeauty, #eye, #makeupartist, #eyemakeup"
+  - username: "gokhanbensiz"
+    fullname: >-
+      Gökhan Bensiz
+    bio: >-
+      Avrasya Consult & Survey Engineer BSc.
+    location: "Turkey"
+    followers: 70732
+    engagement: 516
+    commentsToLikes: 0.008736
+    id: ck5hsjrrhwpju0i117sbtozpi
+    verified: false
+    hashtags: "#mensstreetstyle, #mensoutfit, #sunnyday, #mensfashionpost"
   - username: "ssemaakbulut"
     fullname: >-
       Sema akbulut
+    bio: >-
+      📺CNNTURK🎤🎤Vicdanı olan bir insan, sonra haberci.🎥 Bir garip gezgin 🏃🏼‍♀️🏃🏼‍♀️🏃🏼‍♀️ 📣Kurumsal organizasyonlarda sunum 📲(DM)sema.akbulut@cnnturk.com.tr
     location: "Turkey"
-    followers: 6451
-    engagement: 1002
-    commentsToLikes: 0.018554
+    followers: 10449
+    engagement: 727
+    commentsToLikes: 0.015037
     id: ck8t5erco9wkq0j7871hkqo84
     verified: false
-    hashtags: "#smilemore, #hound, #selfies, #reminisce"
-  - username: "sevcannmutfagi"
-    fullname: >-
-      Sevcan Cengiz
-    location: "Turkey"
-    followers: 20836
-    engagement: 466
-    commentsToLikes: 0.035216
-    id: ck8t83fzziytv0j78pekpauy8
-    verified: false
-    hashtags: "#pancartur, #izmirbomba, #oreolumagnolia, #magnolia"
+    hashtags: "#tbt, #film, #izmir, #ilovemydog"
   - username: "aslidogruu"
     fullname: >-
-      Aslı Doğru
+      ASLI DOĞRU
+    bio: >-
+      Traveller & Discovery Anestezi / İESU / KOÜ Sakarya
     location: "Turkey"
-    followers: 34928
-    engagement: 659
-    commentsToLikes: 0.035172
+    followers: 38320
+    engagement: 548
+    commentsToLikes: 0.001706
     id: ck0ttn38h3fn30i19kfeeljun
     verified: false
-    hashtags: "#cekilis, #karadenizs, #otel, #tesettur"
-  - username: "nezyagci"
+    hashtags: "#hijab, #yes, #hijabfashion, #manzara"
+  - username: "erkantopuzofficial"
     fullname: >-
-      Nez Alin Yagci
+      Prof.Dr.Erkan Topuz
+    bio: >-
+      🖋İç Hastalıkları ve Tıbbi Onkoloji Uzmanı 🏨Yeni Yüzyıl Unv. Gop Hastanesi ☎️Randevü: 0(530)-9616228 🖥www.drerkantopuz.com 📺Youtube Kanalım ⬇️
     location: "Turkey"
-    followers: 63899
-    engagement: 198
-    commentsToLikes: 0.023550
-    id: ck15s8lksbrzn0i1932eip1a6
-    verified: false
-    hashtags: "#sunset, #plank, #mondaymood, #followersinstagram"
-  - username: "tintedtakes"
+    followers: 355308
+    engagement: 369
+    commentsToLikes: 0.046262
+    id: ck8tclkm5zu6y0j789zo37af3
+    verified: true
+    hashtags: "#sa, #19may, #coronavirus, #annes"
+  - username: "seymatan_collection"
     fullname: >-
-      Nihal
+      Şeyma Tantalkaya Büyükkuşoğlu
+    bio: >-
+      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
     location: "Turkey"
-    followers: 11801
-    engagement: 662
-    commentsToLikes: 0.033018
-    id: ck6tqpby1sxw10j71sizukhs3
+    followers: 12132
+    engagement: 779
+    commentsToLikes: 0.029987
+    id: ck15qpkgw40wk0i197f0lsby3
     verified: false
-    hashtags: "#moody, #lamborghinihuracan, #carporn, #writetotravel"
-  - username: "arzuyanardag"
+    hashtags: "#izmir, #bag, #paris, #crosstich"
+  - username: "boraguner35"
     fullname: >-
-      Arzu Yanardağ
+      Bora Guner
+    bio: >-
+      MİLLİ SPORCU 7X🇹🇷🇹🇷🇹🇷 BİLEK GÜREŞİ TÜRKİYE 1.🥇 STRICT CURL GPA 1.🥇 BİLEK GÜREŞİ AVRUPA 3.🥉 STRONGMAN TÜRKIYE 2.🥈 BİLEK GÜREŞİ DÜNYA 6.
     location: "Turkey"
-    followers: 48171
-    engagement: 192
-    commentsToLikes: 0.026166
-    id: ck5q7s0z82utv0i11vsrraqko
+    followers: 18062
+    engagement: 749
+    commentsToLikes: 0.014408
+    id: ck6typfnq53e70j718mawmlet
     verified: false
-    hashtags: "#coronavirus, #instadailyphoto, #tutku, #istanbuldayasam"
+    hashtags: "#strongmantraining, #ripped, #6pack, #sweat"
+  - username: "dr.cemkaras"
+    fullname: >-
+      Dr. Cem Karas
+    bio: >-
+      🔵 Rhinoplasty & ENT (KBB). 🧿 yüz plastik cerrahisi. 🏀 KSK basket
+    location: "Turkey"
+    followers: 89952
+    engagement: 363
+    commentsToLikes: 0.042984
+    id: ck8t6fehgdet20j78xngllr2z
+    verified: false
+    hashtags: "#gl, #rhinoplasty, #fitnessmotivation, #familygoals"
   - username: "dibaestetik"
     fullname: >-
       Diba Estetik&güzellik
+    bio: >-
+      Diba BARIŞAN Tel:0232 422 32 35 📞 507 291 01 48
     location: "Turkey"
     followers: 13262
     engagement: 879
     commentsToLikes: 0.001508
     id: ck9ha47wjb2oi0j786aycm7dh
     verified: false
-    hashtags: "#nemmaskesi, #koronat, #coronag, #pandemic"
-  - username: "dszgn"
+    hashtags: "#ipekkirpik, #vizonkirpik, #ka, #izmir"
+  - username: "dytcerennurturan"
     fullname: >-
-      Deniz Sezgin
+      Diyetisyen Cerennur Turan
+    bio: >-
+      Akhisar Fen Lisesi’15 👩🏻‍🎓 Afyon Kocatepe Üniversitesi’19 👩🏻‍🎓 #diyetidiyetisyenyazar 🍒🍋Sağlıklı Beslen,Hafif Yaşa 🍒🍋
     location: "Turkey"
-    followers: 6371
-    engagement: 1140
-    commentsToLikes: 0.139959
-    id: ck9hbt3usibwo0j78r1etvy9n
+    followers: 8912
+    engagement: 829
+    commentsToLikes: 0.002380
+    id: ck9hcji56lpkf0j78tebsxy52
     verified: false
-    hashtags: "#yeni, #visit, #haircolor, #girl"
-  - username: "trendyandmom"
-    fullname: >-
-      TRendyandmom
-    location: "Turkey"
-    followers: 5928
-    engagement: 1948
-    commentsToLikes: 0.105129
-    id: ck8td979h2ev80j78fee6zget
-    verified: false
-    hashtags: "#sweat, #hairstyle, #instapict, #lifestyle"
+    hashtags: "#like4likes, #liker, #tbt, #likelike"
 ---

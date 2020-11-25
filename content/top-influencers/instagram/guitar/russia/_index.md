@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Russia In 2020
 description: >-
-  Find top guitar Instagram influencers in Russia in 2020. Most popular hashtags: #guitardaily #spring #russiangirl #newmusic.
+  Find top guitar Instagram influencers in Russia in 2020. Most popular hashtags: #saxophone #coversong #snowbikegirls.
 platform: Instagram
+hits: 78
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 78 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "alyona.vargasova"
+  - username: "liheia_metzengerstein"
     fullname: >-
-      ALYONA VARGASOVA
+      Liheia
+    bio: >-
+      ⚔️Guitar siren⚔️ 🧨Death metal and all Patreon, YouTube - Liheia Metzengerstein Ad/collabs: liheia.metz.guitar@gmail.com Support me here👇🏻
     location: "Russia"
-    followers: 17344
-    engagement: 1052
-    commentsToLikes: 0.019548
-    id: ck0w0xlecgjcb0i19yb82jlvm
+    followers: 20547
+    engagement: 1025
+    commentsToLikes: 0.048868
+    id: ck0w0xm8ugjgo0i190vc3gfdc
     verified: false
-    hashtags: "#furry, #acousticguitar, #streetstyle, #dethklok"
-  - username: "tarasmetal"
-    fullname: >-
-      🌹💀Taras💀🌹
-    location: "Russia"
-    followers: 11224
-    engagement: 564
-    commentsToLikes: 0.028418
-    id: ck5hly5dgl2id0i11a5ej28dd
-    verified: false
-    hashtags: "#stigmata2019, #mercurialaudio, #amatory, #guitalchallenge"
-  - username: "sergey_ponkratyev"
-    fullname: >-
-      Сергей Понкратьев
-    location: "Russia"
-    followers: 10490
-    engagement: 864
-    commentsToLikes: 0.011581
-    id: ck5zlsfd7las80i143wxqjdh1
-    verified: false
-    hashtags: "#rocknroll, #catsofinstagram, #catslover, #patrick"
+    hashtags: ""
   - username: "hayrzamanov"
     fullname: >-
       🎹Альберт Хайрзаманов🎹
+    bio: >-
+      Albert | Professional Musician Booking: +7-919-322-03-42 Pianist🎹 Saxophonist 🎷 Guitar player🎸 Singer🎤
     location: "Russia"
-    followers: 5131
-    engagement: 713
-    commentsToLikes: 0.024368
+    followers: 7279
+    engagement: 618
+    commentsToLikes: 0.115601
     id: ck6u61dl0cz750j71q05buzr5
     verified: false
-    hashtags: "#covermusic, #musically, #guitar, #talant"
-  - username: "naishuller"
+    hashtags: "#tiktokrussia, #saxophone, #piano, #pianocover"
+  - username: "pollymodel_"
     fullname: >-
-      Ilya Naishuller
+      Полина
+    bio: >-
+      🇷🇺 Russia, Moscow💥 🔥 TOP 100 MAXIM magazine 📷 Photomodel 🎸 Guitar and 💪 GYM Lover ⭐ TOP 10% OnlyFans 🐰
     location: "Russia"
-    followers: 70322
-    engagement: 771
-    commentsToLikes: 0.022941
-    id: ck55mx0ka50c10i11adu043oh
-    verified: true
-    hashtags: "#alphabook, #alphabookmagazine, #editorial, #fallwinter2020"
-  - username: "jd_lascala"
-    fullname: >-
-      Petr Ezdakov
-    location: "Russia"
-    followers: 4996
-    engagement: 624
-    commentsToLikes: 0.050579
-    id: ck5hlxqbll1qf0i11scueaxtz
+    followers: 42649
+    engagement: 409
+    commentsToLikes: 0.043875
+    id: ck5zrhx46wm0l0i14xz4wgf0x
     verified: false
-    hashtags: "#agonia, #citystarwear, #malagaspain, #sgtpeppersbar"
+    hashtags: ""
+  - username: "tarasmetal"
+    fullname: >-
+      🌹💀Taras💀🌹
+    bio: >-
+      🔊 Producer & Guitarist for @stigmataworld 🔊 Producer & DJ for @TH3CATS 🌍stigmata.ru 🌍vk.com/Tarasmetal 🌍facebook.com/Tarasmetal
+    location: "Russia"
+    followers: 11066
+    engagement: 580
+    commentsToLikes: 0.027650
+    id: ck5hly5dgl2id0i11a5ej28dd
+    verified: false
+    hashtags: "#amatory, #stigmatalive, #stigmata2020, #medooza"
+  - username: "sergeymetel"
+    fullname: >-
+      СЕРГЕЙ МЕТЕЛЬ
+    bio: >-
+      💀 SMEX 💀 МЕТЕЛЬ 💀 ГВАLT 💀 💥GUITAR💥VOCAL💥DRUMS💥 🎶FARSH RECORD STUDIO🎶 👇🏼КЛИП МЕТЕЛЬ👇🏼
+    location: "Russia"
+    followers: 10566
+    engagement: 710
+    commentsToLikes: 0.013859
+    id: ck6tlkafw64zk0j711ruh14fd
+    verified: false
+    hashtags: "#smex, #allstartv"
   - username: "antkatya"
     fullname: >-
       Antonova Katerina
+    bio: >-
+      Supergirl💪Life❤️ sport ⛹ crossfit🏋🏻MMA🥊kite/wake/jet/surfing/🏄 sleds/snowbike❄️🗻🏍atv/dirtbikes 🏁 guitar🎸🎼🎤 reggaeton/dancehall🍑photo📷 @antkatyaphoto
     location: "Russia"
-    followers: 23223
-    engagement: 348
-    commentsToLikes: 0.015406
+    followers: 22598
+    engagement: 289
+    commentsToLikes: 0.017856
     id: ck6tntv1aak880j71yrkl5180
     verified: false
-    hashtags: "#russia, #followyourdreams, #spring, #arcticcircle"
+    hashtags: "#snowbike, #lakelife, #sledheadz, #snowbikegirls"
+  - username: "alisssushka"
+    fullname: >-
+      алиса павленко
+    bio: >-
+      «Look at the sky tonight, all little stars have a reason» ⠀ 🛹 skateboarding, travel & electric guitar 16 y.o.
+    location: "Russia"
+    followers: 8017
+    engagement: 1778
+    commentsToLikes: 0.033945
+    id: ck15slseadnma0i193vcfye2i
+    verified: false
+    hashtags: ""
+  - username: "jd_lascala"
+    fullname: >-
+      Petr Ezdakov
+    bio: >-
+      • @lascalaband: guitar & sound production • @thekontrabandz: producer • Endorsed by: AMT Electronics & Fokin 🔥 Новый альбом:
+    location: "Russia"
+    followers: 4883
+    engagement: 668
+    commentsToLikes: 0.047579
+    id: ck5hlxqbll1qf0i11scueaxtz
+    verified: false
+    hashtags: "#lascalaband, #agonia, #agoniatour, #lascala"
   - username: "rijaya.lisa"
     fullname: >-
       Рыжая Лиза
+    bio: >-
+      📍Moscow 🔺Model 🔺Musician: piano, guitar, vocal #rijayalisa_covers 🔺Artist: #rijayalisa_art
     location: "Russia"
-    followers: 5849
-    engagement: 694
-    commentsToLikes: 0.020229
+    followers: 6103
+    engagement: 652
+    commentsToLikes: 0.028107
     id: ck6u60y8qcwrp0j71nf8oq7rw
     verified: false
     hashtags: ""
-  - username: "angelvivaldiofficial"
+  - username: "roman_tovstik"
     fullname: >-
-      Angel Vivaldi
+      Roman Tovstik
+    bio: >-
+      🔳 NL 🔳 Play 🎹 & Guitar 🎸 🔳 IRONMAN 140.6 (3.8/180/42) 🔳 4 x Ironman 70.3 (1.9/90/21) 🔳 HAUTEROUTE🚴🏻‍♀️/832 km/🔝20km ❤Партнер @sgdeti
     location: "Russia"
-    followers: 97160
-    engagement: 447
-    commentsToLikes: 0.030111
-    id: ck0vvxtjzr98y0i19qlucv0ji
-    verified: true
-    hashtags: "#guitarhero, #dunlop, #throwback, #sadness"
-  - username: "sergeymetel"
-    fullname: >-
-      СЕРГЕЙ МЕТЕЛЬ
-    location: "Russia"
-    followers: 9864
-    engagement: 667
-    commentsToLikes: 0.031462
-    id: ck6tlkafw64zk0j711ruh14fd
+    followers: 112815
+    engagement: 165
+    commentsToLikes: 0.031696
+    id: ckap12hxrsu7s0i78ygztxkpt
     verified: false
-    hashtags: "#anakondaz, #41, #500000"
+    hashtags: ""
 ---

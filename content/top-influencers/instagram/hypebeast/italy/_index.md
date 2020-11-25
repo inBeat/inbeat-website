@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Italy In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Italy in 2020. Most popular hashtags: #hypebeast #fashion #milano #outfitoftheday.
+  Find top hypebeast Instagram influencers in Italy in 2020. Most popular hashtags: #hypebeast #artofvisuals #motivation #hypedstreets.
 platform: Instagram
+hits: 83
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 83 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "fortuthegamer"
-    fullname: >-
-      Lucas
-    location: "Italy"
-    followers: 10456
-    engagement: 938
-    commentsToLikes: 0.028580
-    id: ck8wdf5yfdr1f0j78s9uqgqpo
-    verified: false
-    hashtags: "#iorestoacasa, #yeezy, #black, #boost"
   - username: "mauriziopurificato"
     fullname: >-
       Maurizio Purificato
+    bio: >-
+      Co-Founder @antoniamilano Co-Founder @khrisjoy_official Exclusive Agency 🇮🇹 @hypebeast
     location: "Italy"
-    followers: 4889
-    engagement: 1201
-    commentsToLikes: 0.071316
+    followers: 4984
+    engagement: 1150
+    commentsToLikes: 0.077582
     id: ck6ts8mhs3cm20j71jdaljig4
     verified: false
-    hashtags: "#sferaebbasta, #mom, #daughter, #langosteriamilano"
-  - username: "hi.meth"
+    hashtags: "#mom, #daughter, #langosteriamilano, #stefanoroncato"
+  - username: "alessiogiffi"
     fullname: >-
-      Meth🐺
+      Alessio Giffi ✪
+    bio: >-
+      🇮🇹20 Italian #artist 📈Social media manager 👕Owner of @alessiogifficollection™ 1️⃣°profile @alessio_giffi 🎬YT:Alessio Giffi 📩Business enquiries mail me
     location: "Italy"
-    followers: 34959
-    engagement: 2161
-    commentsToLikes: 0.174766
-    id: ck8wftkthg8l40j78lwpjkuqa
+    followers: 80820
+    engagement: 438
+    commentsToLikes: 1.712995
+    id: ck8wdhk3iduqt0j78z1dt0l3h
     verified: false
-    hashtags: "#menfashion, #design, #zombie, #insta"
-  - username: "martasantandrea"
+    hashtags: "#nikedunk, #adv, #hypebeasts, #sneaker"
+  - username: "mauriis_"
     fullname: >-
-      Marta Santandrea🦋
+      𝙑𝙊𝙂𝙇𝙄𝙊 𝘿𝙄𝙑𝙀𝙉𝙏𝘼𝙍𝙀 𝙁𝘼𝙈𝙊𝙎𝙊
+    bio: >-
+      🚶🏽‍♂️ Sono più bello dal vivo. In realtà ho 19 anni 📍Villaricca (Napoli) 👟 Sneakers TikTok: mauriis_ (35k)
     location: "Italy"
-    followers: 14989
-    engagement: 679
-    commentsToLikes: 0.258444
-    id: ck6uew409tesf0j715oak0o9m
+    followers: 6941
+    engagement: 1637
+    commentsToLikes: 0.267183
+    id: ck8wdhi1kdun20j78eo3w749n
     verified: false
-    hashtags: "#supremelondon, #streetwear, #hypeoutfit, #balenciaga"
-  - username: "icontrendy"
+    hashtags: "#yeezyboosts, #boostvibes, #hypebeaststyle, #jordan"
+  - username: "stefanoellea"
     fullname: >-
-      Massimiliano
+      Stefano LA
+    bio: >-
+      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
     location: "Italy"
-    followers: 229843
-    engagement: 142
-    commentsToLikes: 0.074613
-    id: ck55nr3a36t1a0i11u4lt3py8
+    followers: 22303
+    engagement: 726
+    commentsToLikes: 0.044025
+    id: ck0vx12hnwlrl0i19zqu8qjap
     verified: false
-    hashtags: "#edeloptics, #bestof, #dope, #hypebeast"
-  - username: "bianca.lill"
+    hashtags: ""
+  - username: "gianlucostantino"
     fullname: >-
-      Bianca
+      Gianluca Costantino
+    bio: >-
+      🏋🏼‍♂️fitness addict online coach @dsquared2 model @fomomodels agency 💣Soon new revolutionary workout
     location: "Italy"
-    followers: 13009
-    engagement: 1932
-    commentsToLikes: 0.007891
-    id: ck15s99z8bvii0i19pccfekst
+    followers: 20152
+    engagement: 279
+    commentsToLikes: 0.164153
+    id: ck6tpqpzwlw840j71iy1ohhq8
     verified: false
-    hashtags: "#sail, #hbx, #sacai, #swimwear"
-  - username: "krukpiotrek"
+    hashtags: "#fitnessmotivation, #modaparahomens, #gym, #fitnessaddict"
+  - username: "nadia.runningqueen"
     fullname: >-
-      KRUK
+      NADIA | FITNESS HEDONIST 💙
+    bio: >-
+      🏃‍♀️ Polyglot running the world 💃 Ambassador of creativity & freedom Painting Account @nadias.artistry
     location: "Italy"
-    followers: 16215
-    engagement: 221
-    commentsToLikes: 0.085454
-    id: ck0uby7befl4h0i19uf895hru
+    followers: 10502
+    engagement: 1201
+    commentsToLikes: 0.026008
+    id: ck8t0y1ojtr910j782loo8zng
     verified: false
-    hashtags: "#createxploretakeover, #earth, #travel, #naturephotography"
-  - username: "saint__pedro"
+    hashtags: "#fempower, #fitnesshedonist, #befit, #girlswhorun"
+  - username: "iamdanielesferlazzo"
     fullname: >-
-      𝑷𝒆𝒅𝒓𝒐 𝑮𝒂𝒃𝒓𝒊𝒆𝒍
+      Daniele Sferlazzo 👽
+    bio: >-
+      @holy.garms
     location: "Italy"
-    followers: 2883
-    engagement: 1504
-    commentsToLikes: 0.436781
-    id: ck5q9bfwoa9oc0i11a461vzb2
+    followers: 19986
+    engagement: 574
+    commentsToLikes: 0.046877
+    id: ck0vy6dlf2g2a0i19l6atx9kv
     verified: false
-    hashtags: "#supercarspotter, #milanfashion, #dandyseyewear, #drappered"
-  - username: "giadas__"
+    hashtags: "#fashion, #cool, #cpcompany, #streetwearculture"
+  - username: "sabrinasalernoff"
     fullname: >-
-      Giada Sabellico
+      Sabrina Salerno
+    bio: >-
+      BE YOURSELF✨ 📍TURIN, ITALY 🇮🇹 📩E-mail: sabrina_salerno@icloud.com 👤 Facebook: Sabrina Salerno 🎥: TikTok: @sabrinasalerno2
     location: "Italy"
-    followers: 13964
-    engagement: 651
-    commentsToLikes: 0.315220
-    id: ck8t91pnfmn3c0j783abt9mor
+    followers: 28834
+    engagement: 185
+    commentsToLikes: 0.051522
+    id: ckf5suycbga3j0j23b6by382b
     verified: false
-    hashtags: "#fitness, #fotomodella, #corsa, #sole"
-  - username: "kunalrawaldstress"
+    hashtags: "#tumblrphoto, #vogue, #girl, #girlpower"
+  - username: "andrycurious"
     fullname: >-
-      Kunal Rawal
+      Andrea | Landscape | Italy
+    bio: >-
+      ⛰Landscape and nature 🇮🇹 Italy based 📷 Nikon Z Creator @nikoneurope 📬 Business: andrycurious@gmail.com
     location: "Italy"
-    followers: 25689
-    engagement: 471
-    commentsToLikes: 0.015823
-    id: ck6u23ct7ph5d0j71simb93rr
-    verified: true
-    hashtags: "#tbt, #happymonday, #missyou, #radhikaapte"
+    followers: 47660
+    engagement: 947
+    commentsToLikes: 0.043470
+    id: ck5q8itgq6e8h0i11d0ipx0fg
+    verified: false
+    hashtags: "#moodygrams, #discoverearth, #wildernessculture, #travelcommunity"
+  - username: "lightroom.tutorial"
+    fullname: >-
+      Tutorial lightroom Official
+    bio: >-
+      LIGHTROOM ©️ ▪️1𝒔𝒕 𝑳𝒊𝒈𝒉𝒕𝒓𝒐𝒐𝒎 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍 𝑾𝒐𝒓𝒍𝒅𝒘𝒊𝒅𝒆 📌Beli efek/preset premium di @kelaseditor (2nd acc) 🆓Giveaway ? Follow Business inquiry DM
+    location: "Italy"
+    followers: 170932
+    engagement: 453
+    commentsToLikes: 0.008477
+    id: ck13d766z40oi0i19i4eulug5
+    verified: false
+    hashtags: "#adobelightroom, #ootdkondangan, #localpride, #jakartainfo"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Sydney In 2020
 description: >-
-  Find top models TikTok influencers in Sydney in 2020. Most popular hashtags: #sydney #happyathome #model #minitutorials.
+  Find top models TikTok influencers in Sydney in 2020. Most popular hashtags: #sydney #fyp #model #foryou.
 platform: TikTok
+hits: 14
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 14 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
   - username: "harleyagsd"
     fullname: >-
       Harley a gsd 
+    bio: >-
+      Harley Workingline gsd Bday 14/1/18 Insta model Lives Sydney/Australia 🇦🇺
     location: "Australia"
-    followers: 332359
-    engagement: 3160
-    commentsToLikes: 0.119779
+    followers: 321200
+    engagement: 2464
+    commentsToLikes: 0.115389
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#gonnabefriends, #vibewithme, #smile, #may4th"
-  - username: "hepti"
-    fullname: >-
-      Hepti
-    location: "Australia"
-    followers: 207733
-    engagement: 351
-    commentsToLikes: 0.009129
-    id: ck8tq5q1cqqb80j78yaltcpfa
-    verified: false
-    hashtags: "#girl, #boredinthehouse, #howiwalk, #biceps"
+    hashtags: "#gsd, #petthings, #fyp, #foryou"
   - username: "lyndlkean"
     fullname: >-
       LyndlKean
+    bio: >-
+      Follow my IG LYNDLKEAN /🇦🇺/ Model / IMG Engage / Miss Earth Australia 2016
     location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
+    followers: 99600
+    engagement: 1479
+    commentsToLikes: 0.026252
     id: cka84t58ovid50i78rvcma8u1
     verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
+    hashtags: "#fashion, #thatshot, #ad, #doless"
+  - username: "annaliesegann"
+    fullname: >-
+      Annaliese Gann
+    bio: >-
+      AUSSIE MODEL 🤪🇦🇺 IG 110K - FB 20K IG annaliesegann Account made 30.07.2020
+    location: "Australia"
+    followers: 20500
+    engagement: 472
+    commentsToLikes: 0.055032
+    id: ckdbwx6cje4ur0j23rfbbzhp4
+    verified: false
+    hashtags: "#foryoupage, #model, #dating, #australia"
+  - username: "magicmensydney"
+    fullname: >-
+      Magic Men Sydney
+    bio: >-
+      Australia’s Number One Ladies Night www.magicmen.com.au/sydney
+    location: "Australia"
+    followers: 16000
+    engagement: 943
+    commentsToLikes: 0.022520
+    id: ckcel92lav0en0j23t3hmjx3x
+    verified: false
+    hashtags: "#viralvideo, #funny, #hotguys, #dancer"
+  - username: "bixiecolour"
+    fullname: >-
+      Bixiecolour
+    bio: >-
+      Hair salon in SYDNEY AUSTRALIA 🇦🇺 that does HOT HAIR -follow us on insta
+    location: "Australia"
+    followers: 12600
+    engagement: 350
+    commentsToLikes: 0.015249
+    id: ckc8e3q6f9ig00j23yjnrkkqv
+    verified: false
+    hashtags: "#maneaddicts, #sydneyhair, #hairwaves, #hairtransformation"
+  - username: "lucylanethegsd"
+    fullname: >-
+      Lucy the GSD 
+    bio: >-
+      NEW YOUTUBE VIDEO
+    location: "Australia"
+    followers: 1400000
+    engagement: 1951
+    commentsToLikes: 0.026246
+    id: ck9jvmlipsw040j78714ljocj
+    verified: true
+    hashtags: "#dogs, #gsd, #tiktokanimals, #petsoftiktok"
   - username: "7th.era"
     fullname: >-
       7th.era
+    bio: >-
+      My name is Liam and I take photos of things 😁 YouTube + Insta @7th.era
     location: "Australia"
-    followers: 94478
-    engagement: 1143
-    commentsToLikes: 0.005845
+    followers: 95300
+    engagement: 1133
+    commentsToLikes: 0.009938
     id: ck8fc1ijx5zeb0j78gm8124q3
     verified: false
-    hashtags: "#bored, #editing101, #rain, #sydney"
-  - username: "alexwest_photo"
+    hashtags: "#cameratrick, #bts, #sonycamera, #photooftheday"
+  - username: "wilsend"
     fullname: >-
-      Alex West
+      WILSEND
+    bio: >-
+      Thc most cooked channel 🇦🇺
     location: "Australia"
-    followers: 15575
-    engagement: 402
-    commentsToLikes: 0.014730
-    id: cka86bad41txk0i782wsvjijn
+    followers: 4436
+    engagement: 597
+    commentsToLikes: 0.037677
+    id: ckbkzaeb2voqe0j23ahl5fom4
     verified: false
-    hashtags: "#fitness, #heapsgood, #life, #live"
-  - username: "itchban"
+    hashtags: "#cooked, #fitness, #edm, #beinspired"
+  - username: "andyescapes"
     fullname: >-
-      itchban
+      Andrew
+    bio: >-
+      Videographer 📸 Always Adventuring | Syd 🇦🇺 Check the IG for the bangers 🔥
     location: "Australia"
-    followers: 47164
-    engagement: 1176
-    commentsToLikes: 0.013557
-    id: ck9fg870q0obu0j78kqhdrlex
-    verified: true
-    hashtags: "#shinkansen, #snow, #leavingmybody, #sydney"
-  - username: "jaymejomassoud"
-    fullname: >-
-      Jayme Jo Massoud
-    location: "Australia"
-    followers: 20185
-    engagement: 900
-    commentsToLikes: 0.012638
-    id: ckal66cts9kwv0i781rzq4l0b
+    followers: 79400
+    engagement: 816
+    commentsToLikes: 0.018667
+    id: ckbffu2t3apxc0j23ajpez8yv
     verified: false
-    hashtags: "#sister, #middleeastern, #curltypes, #realcurls"
-  - username: "harleyagsd"
+    hashtags: "#drone, #transition, #cinematic, #viral"
+  - username: "maria_aholelei"
     fullname: >-
-      Harley a gsd 
+      Maria Otulau Aholelei
+    bio: >-
+      GOD🙏🏼 FAMILY👨‍👩‍👧‍👦 SPORTS🏐 MUSIC🎵
     location: "Australia"
-    followers: 332359
-    engagement: 3160
-    commentsToLikes: 0.119779
-    id: ck8tpd1hqpz7b0j78jmo3cha1
+    followers: 23600
+    engagement: 754
+    commentsToLikes: 0.015586
+    id: ckae1m8c2pgh30i78ucet6tg1
     verified: false
-    hashtags: "#gonnabefriends, #vibewithme, #smile, #may4th"
-  - username: "lyndlkean"
-    fullname: >-
-      LyndlKean
-    location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
-    id: cka84t58ovid50i78rvcma8u1
-    verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
-  - username: "issy_dawson.official"
-    fullname: >-
-      Issy Dawson - Model
-    location: "Australia"
-    followers: 33287
-    engagement: 1744
-    commentsToLikes: 0.021194
-    id: ckaih1iu43w230i78yttb4955
-    verified: false
-    hashtags: "#lollipop, #hairgoals, #hairflip, #nature"
+    hashtags: "#fiji, #fyp, #samoa, #polynesian"
 ---

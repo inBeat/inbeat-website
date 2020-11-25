@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Seattle In 2020
 description: >-
-  Find top vegan Instagram influencers in Seattle in 2020. Most popular hashtags: #vegan #veganlife #seattle #christmas.
+  Find top vegan Instagram influencers in Seattle in 2020. Most popular hashtags: #vegan #seattle #love #plantbased.
 platform: Instagram
+hits: 35
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 35 Instagram influencers like this in Seattle, United States for you to work with.
 profiles:
+  - username: "mysweetlilcakes"
+    fullname: >-
+      Sweetcakes Catering
+    bio: >-
+      Savory & Sweet. Baked-on-a-Stick. Made with 💗 #1 Seattle Caterer. #1 New American Food Item. As seen on Buzzfeed & Evening Magazine. "🥞🍏🍋🍓🍌🍒🍗🥓🌽🥕🍅🌶🧀🍯👗🥞
+    location: "United States"
+    followers: 16254
+    engagement: 475
+    commentsToLikes: 0.010546
+    id: ck55m1w972zxt0i111st2mj1l
+    verified: false
+    hashtags: "#catering, #seattlecatering, #mysweetlilcakes, #waffleonastick"
   - username: "theallvegan"
     fullname: >-
       🌿 The All Vegan
+    bio: >-
+      Vegan Memes, questions, and activism. 🐐🐮🐣🐶🌎 Remember to follow👇👇👇
     location: "United States"
     followers: 35435
     engagement: 225
     commentsToLikes: 0.027008
     id: ck136ir976oqj0i19dpmu6crx
     verified: false
-    hashtags: "#vegansofny, #veganpastry, #veganman, #vegansnack"
+    hashtags: "#meatmonday, #vegangifts, #vegansofmanila, #meatards"
   - username: "naturalveganguy"
     fullname: >-
       NATURAL VEGAN GUY
+    bio: >-
+      Promoting Vegan Talent, Vegan Products, & Active Lifestyle World Class Vegan Lessons & Products DM for Collaborations
     location: "United States"
     followers: 29946
     engagement: 73
     commentsToLikes: 0.035274
     id: ck135f8s314dk0i19wrv9y7om
     verified: false
-    hashtags: "#vegansweets, #nicecreambowl, #veganuary, #vegancookiedough"
-  - username: "janina_reimann23"
+    hashtags: "#vegansofig, #veganfood, #vegan, #nicecream"
+  - username: "kaleintheclouds"
     fullname: >-
-      Janina Reimann
+      Rosie Tran
+    bio: >-
+      seattle based flight attendant, plant based (ish) human health, wellness, & sustainable livin’ at 33,000 ft. 🌿☁️
     location: "United States"
-    followers: 44924
-    engagement: 1033
-    commentsToLikes: 0.033137
-    id: ck15ttispjtmo0i19xr5qpwom
+    followers: 24272
+    engagement: 305
+    commentsToLikes: 0.148882
+    id: ck0w6d5j680kk0i19r44dy21u
     verified: false
-    hashtags: "#weekend, #happyhalloween, #playdate, #snow"
-  - username: "sweetnattydee"
+    hashtags: "#bonappetitmag, #shoplocal, #baking, #healthyfood"
+  - username: "refaubrey"
     fullname: >-
-      Sweet Natty Yoga
+      Aubrey Edwards
+    bio: >-
+      Referee at @allelitewrestling 💛🖤 Co-host of the #AEWUnrestricted podcast 🍆 Gearl Hebner ✌️😻 Feed me all the burritos 🌯
     location: "United States"
-    followers: 18294
-    engagement: 181
-    commentsToLikes: 0.121255
-    id: ck0txbw10innl0i1994iohz7e
+    followers: 78787
+    engagement: 570
+    commentsToLikes: 0.016619
+    id: ck0ucvx5rhvhi0i19ybug34e5
     verified: false
-    hashtags: "#denver, #sharingiscaring, #puppycheck, #transformations"
-  - username: "indi.willi"
+    hashtags: "#doubleornothing, #stayathome, #tntchampion, #aewdynamite"
+  - username: "sedonachristina"
     fullname: >-
-      I N D I
+      CHRISTIE 🦋 intentional living
+    bio: >-
+      vegan wellness | slow fashion | imperfectly low waste —— a youtubing (& podcasting) human ⁘ watch dog @tinykanga ☏ hello@sedonachristina.com 𖤥 seattle
     location: "United States"
-    followers: 15134
-    engagement: 684
-    commentsToLikes: 0.053354
-    id: ck0uequjilw370i19xx000rh1
+    followers: 46010
+    engagement: 819
+    commentsToLikes: 0.017120
+    id: ck9hchg84leu10j78oenfn1ro
     verified: false
-    hashtags: "#westworld, #maythe4th, #padme, #selfportrait"
-  - username: "styledictatornw"
+    hashtags: "#amplifymelanatedvoices, #amplifymelanatedvoiceschallenge"
+  - username: "seattlefoodieadventure"
     fullname: >-
-      Beauty & Lifestyle
+      Seattle Food 🍔🍲🍕 | Dumplings 🥟
+    bio: >-
+      Steven Ducky🍝| Seattle Food, Travel, & Beyond! 📺📻📰 Featured: @beardfoundation @seahawks I ❤ Food More Than People. 🏙💧Seattleite 25+ Years. 🍔🍕🥞🍣🍦🍩🥡
     location: "United States"
-    followers: 7751
-    engagement: 939
-    commentsToLikes: 0.362394
-    id: ck14ib7jfejn30i19okzlf7ud
+    followers: 97154
+    engagement: 575
+    commentsToLikes: 0.050065
+    id: ck14glyy15vih0i19nxwspfqr
     verified: false
-    hashtags: "#feuilleteskincaregiftedme, #diptyqueparis, #makeupgiveaway, #bringbackthelight"
-  - username: "erinjanus_"
-    fullname: >-
-      Erin Janus
-    location: "United States"
-    followers: 36505
-    engagement: 1254
-    commentsToLikes: 0.048565
-    id: ck0tt4ek313xe0i19n6zmxuni
-    verified: false
-    hashtags: "#vegansofig, #dairyfree4ever, #dynamiceyestudios, #veganthanksgiving"
+    hashtags: "#seattleliving, #dinner, #love, #thrillist"
   - username: "hungrycleo"
     fullname: >-
       CLEO | MINDSET | MENTOR
+    bio: >-
+      222 Cincy 〰️ Seattle Change your mindset, change your life Your vegan hair&skin care junkie Evolving into my higher self Be present #exjw
     location: "United States"
-    followers: 2640
-    engagement: 1136
-    commentsToLikes: 0.080910
+    followers: 2731
+    engagement: 993
+    commentsToLikes: 0.077254
     id: ck0vy9jsl2wbb0i19cd3pc9bq
     verified: false
-    hashtags: "#vintagestyle, #naturalmakeup, #candid, #filmphotography"
-  - username: "f00dprints"
-    fullname: >-
-      Suchita Kalele
-    location: "United States"
-    followers: 2458
-    engagement: 1626
-    commentsToLikes: 0.282799
-    id: ck55mwo3t4zpj0i11d23i9xmc
-    verified: false
-    hashtags: "#simplepleasures, #quarantinelife, #pastamaking, #asianfoodlovers"
+    hashtags: "#healthyhair, #travel, #model, #nature"
   - username: "cameliakatoozian"
     fullname: >-
       Camelia Katoozian
+    bio: >-
+      📍Seattle, WA Founder: @kateliabeauty Personal Account: @cameliakatz 💌Inquiries: info@cameliakatoozian.com
     location: "United States"
-    followers: 689153
-    engagement: 391
-    commentsToLikes: 0.017562
+    followers: 690847
+    engagement: 272
+    commentsToLikes: 0.120331
     id: ck135dfks0wez0i19whher5wv
     verified: true
-    hashtags: "#winterfashion, #braid, #vintagefashion, #tiktokvideo"
+    hashtags: "#crueltyfree, #reelsfeature, #instagramreels, #halloweenmakeup"
+  - username: "realandvibrant"
+    fullname: >-
+      Sapana / Real + Vibrant ™
+    bio: >-
+      Simple, everyday, vegetarian food 🥑 📖 Author of Plant Power Bowls cookbook 📍 Living in Seattle, WA
+    location: "United States"
+    followers: 147540
+    engagement: 100
+    commentsToLikes: 0.040957
+    id: ck0u89shq6we10i19tsmfewvz
+    verified: false
+    hashtags: "#sponsored, #ad, #avocado, #freezermeals"
 ---

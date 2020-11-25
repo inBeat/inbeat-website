@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Miami In 2020
 description: >-
-  Find top models Instagram influencers in Miami in 2020. Most popular hashtags: #stayhome #staysafe #fashion #ootd.
+  Find top models Instagram influencers in Miami in 2020. Most popular hashtags: #bodysuit #inkedmodel #legsleevetattoo.
 platform: Instagram
+hits: 777
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 777 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "mannycurb"
+  - username: "sarahmollica"
     fullname: >-
-      Manny Curbelo
+      Sarah Mollica
+    bio: >-
+      Select Models - LA Next Models - Miami Ford - Mother Agent
     location: "United States"
-    followers: 5709
-    engagement: 764
-    commentsToLikes: 0.086526
-    id: ck55nkxbi6f830i117wz5jos0
+    followers: 56492
+    engagement: 212
+    commentsToLikes: 0.049436
+    id: ck5hem9v8tnf80i11gff07wyn
     verified: false
-    hashtags: "#someoneneedssomeazucar, #dasit, #foreverinourhearts, #305"
-  - username: "celestebrightt"
-    fullname: >-
-      Celeste Bright
-    location: "United States"
-    followers: 671550
-    engagement: 427
-    commentsToLikes: 0.012460
-    id: ck0u76em03ypi0i199ppxm2nf
-    verified: true
     hashtags: ""
-  - username: "whitney_thornqvist"
-    fullname: >-
-      WHITNEY🇸🇪
-    location: "United States"
-    followers: 138881
-    engagement: 399
-    commentsToLikes: 0.016889
-    id: ck9hcyd21ngv50j78meeg19n9
-    verified: false
-    hashtags: "#bumblepartner, #bumble"
   - username: "nicole.langer"
     fullname: >-
       ✰ N I C O L E ✰
+    bio: >-
+      Next models Miami & NYC ☲ fsu engineering 👩🏼‍🔧
     location: "United States"
-    followers: 8031
-    engagement: 1288
-    commentsToLikes: 0.023617
+    followers: 8386
+    engagement: 1168
+    commentsToLikes: 0.023530
     id: ck8swj1rqe95t0j78wypci4uw
     verified: false
     hashtags: ""
-  - username: "yana_dubnik"
+  - username: "dpershina"
     fullname: >-
-      Yana Dubnik-Garcia
+      ｄａｒｉａ   ｐｅｒｓｈｉｎａ
+    bio: >-
+      Istanbul 📍 Bounty Models LA 🌴 Select Models Miami Chicago MGM Models Hamburg/Düsseldorf Flash Models Istanbul The Circle Models Cape Town
     location: "United States"
-    followers: 92895
-    engagement: 507
-    commentsToLikes: 0.027655
-    id: ck5cg1vtjo0t00i115u5uwk9t
+    followers: 37226
+    engagement: 171
+    commentsToLikes: 0.071429
+    id: ck55kp1bnzsj70i11efq3k34h
     verified: false
-    hashtags: "#seksi, #elegance, #gorgeous, #editorial"
-  - username: "andrea_stickel"
+    hashtags: ""
+  - username: "selenaweber"
     fullname: >-
-      Andrea Stickel
+      Sel Weber
+    bio: >-
+      NEXT Models Miami @weare_caringhearts
     location: "United States"
-    followers: 79239
-    engagement: 97
-    commentsToLikes: 0.035473
-    id: ck137zf3odrgn0i197e8ifvw4
+    followers: 71113
+    engagement: 99
+    commentsToLikes: 0.034952
+    id: ck5ci87ygs7430i11g7hv7ylr
     verified: false
-    hashtags: "#birthday, #pomeranian, #workoutvideo, #stayhome"
+    hashtags: ""
   - username: "yesyn13"
     fullname: >-
       Yesy Naya 💀💋
+    bio: >-
+      Published Model Miami📍Cuban 🇨🇺 Private page: @onlyfansyesy
     location: "United States"
-    followers: 1009917
-    engagement: 105
-    commentsToLikes: 0.038336
+    followers: 1144763
+    engagement: 186
+    commentsToLikes: 0.019378
     id: ck6tygc0e3kak0j717q2xpjlx
     verified: false
-    hashtags: "#fbf, #fashionnovapartner, #happymonday"
-  - username: "alejapineda1"
-    fullname: >-
-      ALEJANDRA PINEDA 🇨🇴
-    location: "United States"
-    followers: 477899
-    engagement: 86
-    commentsToLikes: 0.053347
-    id: ck5zno1aaotso0i14dihlm323
-    verified: false
-    hashtags: "#miamidistric, #styles, #getnastygal, #worldstar"
+    hashtags: ""
   - username: "tonyrodriguezzzz"
     fullname: >-
       Tony Rodriguez
+    bio: >-
+      -Fashion Model Miami | @nextmodels New York | @majormodelsny Milan | @dmanagementgroup Brussels | @immbxl -Investor 📈📊 GET 2 FREE STOCKS BELOW ⬇️
     location: "United States"
-    followers: 3142
-    engagement: 646
-    commentsToLikes: 0.089217
+    followers: 3306
+    engagement: 673
+    commentsToLikes: 0.096451
     id: ck5hrds0lupba0i11ry3fkls9
     verified: false
-    hashtags: "#retro1, #meinjd, #harleydavidson, #champion"
-  - username: "livinlavaedaloca"
+    hashtags: "#majormodels, #disney, #nextmodels, #tunnelvision"
+  - username: "marrs_the_martian"
     fullname: >-
-      Vaeda Mann
+      .::ᶜᴴᴿᴵˢᵀᴼᴾᴴᴱᴿ ᴹᴬᴿᴿˢ::.
+    bio: >-
+      Creative Being ✨ CHI || 10 MGMT LA || O Models LONDON || D1 Models MIAMI || CGM Models Creative Director - Obvious Magazine
     location: "United States"
-    followers: 19467
-    engagement: 363
-    commentsToLikes: 0.036716
-    id: ck55jys3xy32t0i11slhd5t0c
+    followers: 11257
+    engagement: 513
+    commentsToLikes: 0.015466
+    id: ck0uae8y6c48q0i193ae6igzw
     verified: false
-    hashtags: "#hotellife, #sundaycandyforever, #dealornodeal"
+    hashtags: "#vote"
+  - username: "liya_suicide"
+    fullname: >-
+      Liya Suicide
+    bio: >-
+      Tattooed Model. Miami Patreon.com/LiyaSuicide Twitter.com/LiyaSuicide Facebook.com/LiyaSuicide/
+    location: "United States"
+    followers: 122397
+    engagement: 101
+    commentsToLikes: 0.012094
+    id: ck5qe62s4yw7q0i112zhszucy
+    verified: false
+    hashtags: "#tattooed, #inkedmodels, #tattoos, #modelswithtattoos"
+  - username: "thealexishenry"
+    fullname: >-
+      Lex ⭐️
+    bio: >-
+      Fashunnnn. *two snaps* NYC: @yaniimodels @red_models MIAMI: @nextmodels SEATTLE:@heffnermanagement #MentalHealth is health 🧠 @theplusonepodcast 🌎❤️
+    location: "United States"
+    followers: 28209
+    engagement: 247
+    commentsToLikes: 0.026560
+    id: ck14iilrpfl690i19kq703u98
+    verified: false
+    hashtags: "#quarantine, #tiktok, #motherhood, #facetimephotoshoot"
+  - username: "rayne.gomez"
+    fullname: >-
+      MISS RAYNE ☔️
+    bio: >-
+      Miami, Fl 📍 Dominicana 🇩🇴 Gm of @Srkgirlz Hair • Psoriasis • Erotic Art🌹 #Model #miamimodel #AllThatHair #FreeSpirit #bodygoals
+    location: "United States"
+    followers: 6055
+    engagement: 469
+    commentsToLikes: 0.061049
+    id: ck6tt6tpe8xxr0j713nvdtj62
+    verified: false
+    hashtags: "#promo, #forbiddenfruit, #tb, #sheabutterbaby"
 ---

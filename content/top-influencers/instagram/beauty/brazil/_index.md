@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Brazil In 2020
 description: >-
-  Find top beauty Instagram influencers in Brazil in 2020. Most popular hashtags: #tutorial #tbt #sorteio #brabachallenge.
+  Find top beauty Instagram influencers in Brazil in 2020. Most popular hashtags: #publi #challenge #instagood.
 platform: Instagram
+hits: 3681
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 3681 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "maahway"
+  - username: "thamyscoelho_"
     fullname: >-
-      Matheus
+      Thamyres Coelho
+    bio: >-
+      •Não pare até se orgulhar!✨ @pfelipemotta❤️ fashion| beauty and makeup💄 🤝parceria via direct 🎥vídeo/ #challenge toda semana✨
     location: "Brazil"
-    followers: 2845
-    engagement: 2709
-    commentsToLikes: 0.373165
-    id: ck8t7jvsbh2wu0j78v69rjxuv
+    followers: 4305
+    engagement: 2204
+    commentsToLikes: 0.137660
+    id: ck8t8gailkd0h0j789c98fhqb
     verified: false
-    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
-  - username: "bstevanatto_"
+    hashtags: "#uauchallenge, #megustachallenge, #festaemipanemachallenge, #euphoriachallenge"
+  - username: "euosol"
     fullname: >-
-      Bᥲ́rbᥲrᥲ Stᥱvᥲᥒᥲtto
+      ⠀⠀⠀S O L ☀️
+    bio: >-
+      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
     location: "Brazil"
-    followers: 2482
-    engagement: 2645
-    commentsToLikes: 0.185050
-    id: ckapaoryvww6z0i78m55utwja
+    followers: 22411
+    engagement: 1190
+    commentsToLikes: 0.193451
+    id: ck8t5ckqu9ngl0j7824nwj8lj
+    verified: false
+    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
+  - username: "liberdadecrespa"
+    fullname: >-
+      GISELE MARTINS 🌸
+    bio: >-
+      Beauty Hair & Makeup 🤩 Crespa 3C 4A ✊🏾💕 TOP MIGS @salonlinebrasil 👸🏾❤ 💌contato: giselemartins@pgbagency.com USE #liberdadecrespa 💕
+    location: "Brazil"
+    followers: 29189
+    engagement: 914
+    commentsToLikes: 0.062019
+    id: ck8t3y3i34wwb0j784gqu002s
+    verified: false
+    hashtags: "#rizos, #btredrose, #makeuppelenegra, #todecacho"
+  - username: "sabriinareiis"
+    fullname: >-
+      SABRINA REIS ✨
+    bio: >-
+      🇧🇷🇺🇸 ▫️Lifestyle • Beauty • Dreamer 🌵Embaixadora @caqtoscosmeticos ✉️ Contact | Direct
+    location: "Brazil"
+    followers: 48004
+    engagement: 823
+    commentsToLikes: 0.066465
+    id: ckap7xv4hm1rz0i78to9p1zgz
+    verified: false
+    hashtags: "#capixabando, #soulcapixaba, #vitoriaes, #vistacapixaba"
+  - username: "thaylacalazans"
+    fullname: >-
+      Thayla Calazans
+    bio: >-
+      - modelo fotográfica e influencer - lifestyle - beauty - looks ✨ - nova friburgo, RJ 📍 - contato via direct
+    location: "Brazil"
+    followers: 88530
+    engagement: 725
+    commentsToLikes: 0.529733
+    id: ck6tr4y9iwygl0j71a0va76gp
     verified: false
     hashtags: ""
-  - username: "yasminlsilva"
-    fullname: >-
-      YASMIN SILVA
-    location: "Brazil"
-    followers: 55529
-    engagement: 701
-    commentsToLikes: 0.254202
-    id: ck6u8dc5sqwsj0j714efl18hg
-    verified: false
-    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
-  - username: "dapariz"
-    fullname: >-
-      Dainara Pariz
-    location: "Brazil"
-    followers: 3369950
-    engagement: 659
-    commentsToLikes: 0.250451
-    id: ck6u0v78uhx7k0j710h8lsfjp
-    verified: true
-    hashtags: "#sorteio, #sorteios"
-  - username: "ninabackes_"
-    fullname: >-
-      NINA
-    location: "Brazil"
-    followers: 6874
-    engagement: 1537
-    commentsToLikes: 0.629638
-    id: ck9wopaxn610v0j78oibu9671
-    verified: false
-    hashtags: "#maquiadoro, #visual, #allstar, #quarentine"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    location: "Brazil"
-    followers: 216196
-    engagement: 950
-    commentsToLikes: 0.036389
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#hairstyles, #hairvideos, #cas, #diadam"
-  - username: "albariquelme"
-    fullname: >-
-      Alba Riquelme
-    location: "Brazil"
-    followers: 76259
-    engagement: 666
-    commentsToLikes: 0.189044
-    id: ck5zjacbah8iq0i14imv5qxne
-    verified: true
-    hashtags: "#braids, #aldo, #tbt, #8m"
   - username: "_eugabialmeida"
     fullname: >-
       G A B I
+    bio: >-
+      🇧🇷 SP 👄 beauty influencer 🎨 Maquiadora @gabriellealmeidamakeup 💇🏾‍♀️ Embaixadora de cabelos @eudora 💌 contatogabriellealmeida@gmail.com
     location: "Brazil"
-    followers: 56458
-    engagement: 1457
-    commentsToLikes: 0.047399
+    followers: 70696
+    engagement: 694
+    commentsToLikes: 0.047955
     id: ckaosz305tniu0i78inrnrnz2
     verified: false
-    hashtags: "#ficaemcasa, #eudorasi, #curl, #si"
-  - username: "jamillerafic"
-    fullname: >-
-      Jamille Rafic
-    location: "Brazil"
-    followers: 17371
-    engagement: 846
-    commentsToLikes: 0.200654
-    id: ck0w6esn8881i0i19x2ta5b7t
-    verified: false
-    hashtags: "#gothicgirl, #makeupaddict, #goth, #selfie"
+    hashtags: "#curls, #afrohair, #cacheadas, #maquiagempelenegras"
   - username: "assisbea"
     fullname: >-
-      Gosto de fio terra
+      Beatriz Assis
+    bio: >-
+      Beauty | Fashion | Lifestyle Rio 📍 assessoria.assisbea@outlook.com 📩 Follow T!kT*k👇🏼
     location: "Brazil"
-    followers: 51518
-    engagement: 790
-    commentsToLikes: 0.051178
+    followers: 73210
+    engagement: 673
+    commentsToLikes: 0.438669
     id: ck6u5ti5obne90j71cwp5sgt1
     verified: false
-    hashtags: "#quarantine, #tbt"
+    hashtags: "#tbt"
+  - username: "maysaregio"
+    fullname: >-
+      +a
+    bio: >-
+      18, Estudante de Direito • JACUPIRANGA/SP fashion&beauty | dicas | mamãe da @pitchulalinda ✨ 📲 Parcerias | Permutas pelo link 👇🏻
+    location: "Brazil"
+    followers: 10742
+    engagement: 2087
+    commentsToLikes: 0.788094
+    id: ck8t3x3vs4t1s0j785xqvftki
+    verified: false
+    hashtags: "#lookinspiracao, #1peca3look, #amor, #challenge"
+  - username: "tustephaniy_"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀TUANE STEPHANIY ✨
+    bio: >-
+      ⇡ ASSISTA OS STORIES ⇡ Hair • Fashion • Beauty • Lifestyle 📍Guarulhos - Sp Contato Via e-mail ou direct 📥 Cupons ↓
+    location: "Brazil"
+    followers: 20961
+    engagement: 1408
+    commentsToLikes: 2.046570
+    id: ck9wfl9xvpcu30j78yt6m0eg1
+    verified: false
+    hashtags: "#glamboxcleanbeauty, #estuproculposonaoexiste, #justic, #halloweenchallenge"
+  - username: "irisleiasantos"
+    fullname: >-
+      Irisléia Santos
+    bio: >-
+      seja luz! ✨🌻 061 📍 22 anos, graduanda e criadora de conteúdo | ▫️Projeto DIA DE PRINCESA 👑 ▫️ @twins.tshirts ▫️parcerias no direct #LifeStyle #Beauty
+    location: "Brazil"
+    followers: 18127
+    engagement: 1390
+    commentsToLikes: 1.951506
+    id: ckf5oyt0s4c1d0j230m7thv18
+    verified: false
+    hashtags: "#piripiri, #blogueirando, #pirinopolis, #pirineus"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top makeup Instagram influencers in Tokyo in 2020. Most popular hashtags: #makeup #hairstyle #nails #cosmetics.
+  Find top makeup Instagram influencers in Tokyo in 2020. Most popular hashtags: #fashion #tokyo #makeup #japan.
 platform: Instagram
+hits: 115
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 115 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
-  - username: "yuichannel_"
+  - username: "rikariko_official"
     fullname: >-
-      ゆい🏍
+      りかりこ
+    bio: >-
+      Sony Music Artists 🇯🇵twinsmodel／creator 💻TikTok・YouTube 👧🏻りか @ichirika_62 りこ @riko_ichino ✉️sma@sma.co.jp
     location: "Japan"
-    followers: 3468
-    engagement: 1735
-    commentsToLikes: 0.076815
-    id: ck5zihl3vfppy0i14cv07ndr3
-    verified: false
-    hashtags: "#tokyostation, #makeup, #movie, #bestnine2019"
-  - username: "ohta_seiya"
+    followers: 65986
+    engagement: 684
+    commentsToLikes: 0.007017
+    id: ck13cipn10jky0i19009tudzj
+    verified: true
+    hashtags: "#instalike, #tiktok, #japan, #twins"
+  - username: "mamiset"
     fullname: >-
-      太田 晴也
+      瀬戸 麻実　セトマミ
+    bio: >-
+      🇯🇵 美容家 色×形×質感で無限大の #マミ様メイク #メイクアップのための色彩学 マミ様メイク書籍大人気爆走中📚
     location: "Japan"
-    followers: 70024
-    engagement: 415
-    commentsToLikes: 0.003492
-    id: ck5zvdnv741aw0i14qrb3q7tp
-    verified: false
-    hashtags: ""
-  - username: "juniwise"
+    followers: 83148
+    engagement: 157
+    commentsToLikes: 0.009347
+    id: ck0vwpyj1v0at0i19lj9aw76z
+    verified: true
+    hashtags: "#makeup, #cosmetics, #tokyo, #beauty"
+  - username: "lemipanna"
     fullname: >-
-      Juni Wise
+      れみぱん
+    bio: >-
+      見つけてくれてありがとう｝👼🏻 実在しません👼🏻 コスプレ👼🏻 follow me🌈 (お仕事以外のDMにはお返事出来ません)
     location: "Japan"
-    followers: 24432
-    engagement: 360
-    commentsToLikes: 0.006520
-    id: ck5cb54wfer570i118vhylzb5
-    verified: false
-    hashtags: "#mahagroup, #akagishrine, #bynaomiarifin, #darikeciludahgaya"
-  - username: "ayako__miyata"
-    fullname: >-
-      宮田綾子 Ayako Miyata
-    location: "Japan"
-    followers: 111797
-    engagement: 313
-    commentsToLikes: 0.043977
-    id: ck0w20nmgm2h50i190ajelphw
-    verified: false
-    hashtags: "#flowerpierced, #highheelslover, #fashionista, #iphone"
-  - username: "evilchocobunny"
-    fullname: >-
-      Jojo
-    location: "Japan"
-    followers: 23049
-    engagement: 437
-    commentsToLikes: 0.040921
-    id: ck0w6r3px9w7g0i19xlwqqoot
-    verified: false
-    hashtags: "#yelloshoes, #laforet, #punk, #sneakers"
-  - username: "128yukinco"
-    fullname: >-
-      yukiko kato
-    location: "Japan"
-    followers: 90817
-    engagement: 344
-    commentsToLikes: 0.032540
-    id: ck0w206yvlzxv0i19pmzztm7u
-    verified: false
-    hashtags: "#chill, #gelnails, #nagoya, #puma"
-  - username: "ciiinana"
-    fullname: >-
-      熙愛 Adrianna
-    location: "Japan"
-    followers: 24579
+    followers: 26346
     engagement: 275
-    commentsToLikes: 0.004278
-    id: ck5c8u09ya7x40i11tary6q7t
+    commentsToLikes: 0.027912
+    id: ck0vw638zs9vm0i197ktp2vez
     verified: false
-    hashtags: "#sher, #chanel, #tokyo, #ysl"
+    hashtags: "#cosplayer, #japan, #halloween, #fashion"
+  - username: "harukano1204"
+    fullname: >-
+      Haruka’20
+    bio: >-
+      Haruka Kano🦌tokyo🇯🇵168cm 事務💻モータースポーツ裏方🚙モデル📸 インフルエンサー･PR💄(お仕事依頼はDMへ📥) 💓)HELLO! PROJECT/beauty/sweets/trip/
+    location: "Japan"
+    followers: 11421
+    engagement: 472
+    commentsToLikes: 0.038896
+    id: ckaouzb012ga30i7849dou92d
+    verified: false
+    hashtags: "#dholic, #ig, #portrait, #portraitphotography"
+  - username: "anrinakajima"
+    fullname: >-
+      ANRI NAKAJIMA
+    bio: >-
+      📍𝕋𝕠𝕜𝕪𝕠 𝟙𝟝𝟞𝕔𝕞 '𝟡𝟝🇯🇵×🇵🇭 𝕥𝕣𝕒𝕧𝕖𝕝:𝕗𝕒𝕤𝕙𝕚𝕠𝕟:𝕞𝕒𝕜𝕖𝕦𝕡 ▼𝕐𝕠𝕦𝕋𝕦𝕓𝕖🎥
+    location: "Japan"
+    followers: 41467
+    engagement: 148
+    commentsToLikes: 0.012532
+    id: ck13c7lmaz0080i19s7nh9wcw
+    verified: false
+    hashtags: "#japan, #nail, #156cm, #fashion"
   - username: "henry_o5"
     fullname: >-
       anri
+    bio: >-
+      ' 01 (19) ≀osaka ❤︎
     location: "Japan"
-    followers: 9821
-    engagement: 1317
-    commentsToLikes: 0.010798
+    followers: 10141
+    engagement: 1304
+    commentsToLikes: 0.014141
     id: ck15uy66dp1z70i19bv54ifxu
     verified: false
-    hashtags: "#puppy, #emmydaily, #mimitoujours, #newnail"
-  - username: "seika_etoile__11"
+    hashtags: "#fashion, #disney, #mickeymouse, #code"
+  - username: "evilchocobunny"
     fullname: >-
-      🎀seika 🎀
+      Jojo
+    bio: >-
+      Jojo |10% sugar 💖90% spice 👻| Fashion, makeup & life in Tokyo📍 Lived 22 years in 🇳🇱 now 4 years 🇯🇵 Music enthusiast 🎶 Aspiring 🎤+🎸
     location: "Japan"
-    followers: 11065
-    engagement: 599
-    commentsToLikes: 0.012763
-    id: ck6tzgk419knp0j719fcswgw2
+    followers: 22978
+    engagement: 448
+    commentsToLikes: 0.039815
+    id: ck0w6r3px9w7g0i19xlwqqoot
     verified: false
-    hashtags: "#hairarrange, #bodycream, #innercolor, #alfredtearoomaoyama"
-  - username: "helena_0625"
+    hashtags: "#rogueandwolf, #halloween, #whatiworetoday, #witch"
+  - username: "juniwise"
     fullname: >-
-      𝑯 𝑬 𝑳 𝑬 𝑵 𝑨
+      Juni Wise
+    bio: >-
+      フリーランスメイクアップアーティスト Tokyo-based makeup artist - 📍Tokyo, Japan 📩 juniwise@gmail.com - 👽 @titipjunidong
     location: "Japan"
-    followers: 14714
-    engagement: 541
-    commentsToLikes: 0.027812
-    id: ck8t1oi7uwg0r0j78s1ix72o9
+    followers: 23964
+    engagement: 393
+    commentsToLikes: 0.004470
+    id: ck5cb54wfer570i118vhylzb5
     verified: false
-    hashtags: "#newin, #dayoff, #instabeauty, #popupstore"
+    hashtags: "#kengokuma, #bynaomiarifin, #darikeciludahgaya, #2020"
+  - username: "kumamotomiwa"
+    fullname: >-
+      kumamotomiwa
+    bio: >-
+      ☕️Akihabaraバックステ↔︎ジpass 🖤バクステ外神田一丁目 ♡所属 🎳ボウリング /ハイスコア300/Pリーガー/日本ボウリング大使 ♡ Twitter💙@miiinya_bcst
+    location: "Japan"
+    followers: 13538
+    engagement: 526
+    commentsToLikes: 0.075894
+    id: ck8t3cw0y2sc20j78ub3lxreq
+    verified: false
+    hashtags: "#japanesefood, #bowling, #japan, #tokyo"
+  - username: "shihoriiin49"
+    fullname: >-
+      ʂᴴᴵᴴᵒᴿᴵᴺ❤︎
+    bio: >-
+      @plume_mignon Producer 👗167cm 宝島社sweet official instagirl🍒 ❤︎disney❤︎fashion❤︎sweets❤︎cosme お仕事依頼→DMへお願いします💌
+    location: "Japan"
+    followers: 37730
+    engagement: 158
+    commentsToLikes: 0.006802
+    id: ck0tzgwv7qdsg0i19ph0woceo
+    verified: false
+    hashtags: "#casetify, #village, #shihorin, #makeup"
 ---

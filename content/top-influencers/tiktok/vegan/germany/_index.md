@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Germany In 2020
 description: >-
-  Find top vegan TikTok influencers in Germany in 2020. Most popular hashtags: #love #quarantine #meinramadan #beautymode.
+  Find top vegan TikTok influencers in Germany in 2020. Most popular hashtags: #vegan #foryou #fyp #foryoupage.
 platform: TikTok
+hits: 72
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 72 TikTok influencers like this in Germany for you to connect with.
 profiles:
-  - username: "lindermusic"
+  - username: "herrtierfreund"
     fullname: >-
-      lindermusic
+      Herr Tierfreund 🌱
+    bio: >-
+      Schreib mir auf Insta👆🏼 💚🐽Veganismus & Nachhaltigkeit🌱🌏 👩‍❤️‍👨 | L. 🔐💕
     location: "Germany"
-    followers: 194106
-    engagement: 1467
-    commentsToLikes: 0.037219
-    id: cka6mhchl77hr0i780fglaakm
-    verified: true
-    hashtags: "#foryoupage, #meintedtalk, #klavier, #gameface"
-  - username: "christina.mariaaaa"
-    fullname: >-
-      𝒞𝒽𝓇𝒾𝓈𝓉𝒾𝓃𝒶
-    location: "Germany"
-    followers: 843143
-    engagement: 1903
-    commentsToLikes: 0.020479
-    id: ck81svofvtfwz0j78dorq90vh
-    verified: true
-    hashtags: "#heathers, #dagibee, #julienbam, #tiktokdance"
-  - username: "waffle_brothers"
-    fullname: >-
-      Waffle Brothers
-    location: "Germany"
-    followers: 36276
-    engagement: 1395
-    commentsToLikes: 0.053858
-    id: ckamvrby154400i7813g5c880
+    followers: 29200
+    engagement: 1225
+    commentsToLikes: 0.146619
+    id: ckdnpaz32klgw0j23qtfxqgf3
     verified: false
-    hashtags: "#happy, #helftuns, #joke, #loredana"
-  - username: "kalaky"
+    hashtags: "#vegandeutschland, #landwirt, #herrtierfreund, #massentierhaltung"
+  - username: "brookemedusa"
     fullname: >-
-      K A L A K Y 💖
+      Brooke Medusa
+    bio: >-
+      •BabyWitch🧿 •Vegan 🌱 •Non Binary 🤍 •21🌙 •Pansexual
     location: "Germany"
-    followers: 15865
-    engagement: 978
-    commentsToLikes: 0.027973
-    id: ck8kltv7i5jwc0j78ivrgnqfq
+    followers: 5855
+    engagement: 1763
+    commentsToLikes: 0.061602
+    id: ckb0xm6esmne10j23m68hgfjl
     verified: false
-    hashtags: "#fy, #photograhy, #canoncamera, #model"
+    hashtags: "#foryoupage, #foryou, #vikingwitch, #loveandlight"
+  - username: "endlich_zufrieden"
+    fullname: >-
+      Jasmin Heider
+    bio: >-
+      Schaut gerne bei Insta vorbei 🥰 ❤️ hier gehts um ❤️ Veganismus & Selbstliebe 🌸
+    location: "Germany"
+    followers: 149200
+    engagement: 1127
+    commentsToLikes: 0.025252
+    id: ckdnulodonekq0j23p996ts5o
+    verified: false
+    hashtags: "#happy, #selflove, #birthday, #fyp"
+  - username: "heike_chien"
+    fullname: >-
+      delfinius36
+    bio: >-
+      ❤️Ich liebe alle Tiere ❤️ 🌱 Go Vegan 🌱 ❤️ Comedy ❤️
+    location: "Germany"
+    followers: 30300
+    engagement: 822
+    commentsToLikes: 0.130658
+    id: cka62tbe61d4h0i78ldqp0i9w
+    verified: false
+    hashtags: "#viralvideo, #veganteacher, #partner, #tierschutz"
+  - username: "pedrofonte6"
+    fullname: >-
+      Pedro Pereira
+    bio: >-
+      vegan 12 years in a row Vegan4life Zielsetzung 1M💚🌱 paypal.me/pedrof6nte
+    location: "Germany"
+    followers: 42700
+    engagement: 546
+    commentsToLikes: 0.056214
+    id: ckdnu6so1mr2j0j23o0axk32j
+    verified: false
+    hashtags: "#vegan, #parati, #yummyfeelgood, #dontsee"
   - username: "plantbasedcouple"
     fullname: >-
       Johanna & Lenni 🌻
+    bio: >-
+      a couple showing their love for vegan food💚 biz: plantbasedcouple@web.de
     location: "Germany"
-    followers: 46247
-    engagement: 995
-    commentsToLikes: 0.015290
+    followers: 105700
+    engagement: 1164
+    commentsToLikes: 0.017367
     id: ck7zog9knjrxw0j78gaxosdbh
     verified: false
-    hashtags: "#vegansnack, #heimspiel, #veganrecipes, #calories"
-  - username: "natalibrl"
+    hashtags: "#wholey, #couplegoals, #vegancouple, #veganfoodnews"
+  - username: "veganewunder"
     fullname: >-
-      Natalia ❤️
+      Chris Washington
+    bio: >-
+      SCHREIB MIR AUF INSTA 👆🏽 🌿CEO OF VEGAN RECIPES🌿 🐷🐮🐔💚
     location: "Germany"
-    followers: 7808
-    engagement: 731
-    commentsToLikes: 0.124672
-    id: ckai83jcl2tj60i78wh1ws6ww
+    followers: 153900
+    engagement: 986
+    commentsToLikes: 0.021343
+    id: ckbfcyo0860r90j239ft3rqzk
     verified: false
-    hashtags: "#france, #essen, #treptowerpark, #veganfood"
-  - username: "justbogdana"
-    fullname: >-
-      Just Bogdana
-    location: "Germany"
-    followers: 5784
-    engagement: 742
-    commentsToLikes: 0.037860
-    id: cka0x4n7m5i5t0i78lnikbyh9
-    verified: false
-    hashtags: "#ingermany, #beautyofnature, #beautyroutine, #imbored"
-  - username: "pedropereira957"
-    fullname: >-
-      Pedro Pereira
-    location: "Germany"
-    followers: 31357
-    engagement: 518
-    commentsToLikes: 0.125431
-    id: cka0gl8h34vw20i78mhcv6pel
-    verified: false
-    hashtags: "#reibekuchen, #forupage, #wieder, #21uhrlive"
-  - username: "bestformbene"
-    fullname: >-
-      bestFormBene
-    location: "Germany"
-    followers: 25747
-    engagement: 446
-    commentsToLikes: 0.067500
-    id: ckamdnwrt0f9f0i78eo6bnkz9
-    verified: false
-    hashtags: "#krebs, #fruit, #hormone, #4you"
+    hashtags: "#pommes, #vegan, #veganerezepte, #vegetarisch"
   - username: "esra.elbasan"
     fullname: >-
       Esra.Elbasan
+    bio: >-
+      Heal from inside👁 Healthy vegan life Inspo Natural Skin care 🌱🌞🪐💗✨🍀
     location: "Germany"
-    followers: 4432
-    engagement: 661
-    commentsToLikes: 0.041483
+    followers: 8163
+    engagement: 653
+    commentsToLikes: 0.045128
     id: ck80oqloojaw60j782kr35l53
     verified: false
-    hashtags: "#passion, #viral, #honigmaske, #proteinshake"
+    hashtags: "#detox, #spirituality, #healthyvegan, #reinehaut"
+  - username: "mariaclaragroppler"
+    fullname: >-
+      mariaclaragroppler
+    bio: >-
+      VEGAN STAND UP COMEDIENNE JUNGFRAU Insta: mariaclaragroppler Live - Shows 👇🏼
+    location: "Germany"
+    followers: 41300
+    engagement: 810
+    commentsToLikes: 0.007785
+    id: ck9gpc41v4gva0j78fbfmb6yg
+    verified: false
+    hashtags: "#quarantine, #sketch, #foryou, #fy"
+  - username: "patricia.kraft"
+    fullname: >-
+      patriciakraft 
+    bio: >-
+      Fitness ▲ BODY ⓛ ⓞ ⓥ ⓔ ▲ Vegan Insta: @patriciakraft Gymshark🦈 & Foodspring🌱
+    location: "Germany"
+    followers: 143500
+    engagement: 726
+    commentsToLikes: 0.008584
+    id: ckbl1blv7y73g0j230qffq4lg
+    verified: false
+    hashtags: "#foryou, #ocean, #lernenmittiktok, #fitness"
 ---

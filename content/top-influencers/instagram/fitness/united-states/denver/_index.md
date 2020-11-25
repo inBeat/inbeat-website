@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Denver In 2020
 description: >-
-  Find top fitness Instagram influencers in Denver in 2020. Most popular hashtags: #fitness #yoga #denver #stayhome.
+  Find top fitness Instagram influencers in Denver in 2020. Most popular hashtags: #fitness #denver #colorado #fitnessmotivation.
 platform: Instagram
+hits: 99
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 99 Instagram influencers like this in Denver, United States for you to pitch.
 profiles:
+  - username: "jennaleecole24"
+    fullname: >-
+      Jenna 🌱
+    bio: >-
+      MY ONLY ACCOUNT 👑 Fitness & Fast Cars 🏎 💪🏼 Muscle Girl 🏎 🌄 Denver, Co ♊️ Gemini
+    location: "United States"
+    followers: 17525
+    engagement: 1029
+    commentsToLikes: 0.027760
+    id: ck5zxrya98k2h0i1452w7v1d6
+    verified: false
+    hashtags: "#workout, #girlswholift, #weightlifting, #fitfam"
   - username: "sweatden"
     fullname: >-
       Kelsey Sheahan
+    bio: >-
+      ▫️Join Sweat Den Virtual Membership ▪️Trainer @nordictrack @ifit ▫️Pure Barre / Lagree Fitness ▪️Former @denverbroncoscheer ▫️Carbon 38: KELSEYSHE50
     location: "United States"
-    followers: 6001
-    engagement: 610
-    commentsToLikes: 0.111848
+    followers: 6962
+    engagement: 517
+    commentsToLikes: 0.082032
     id: ckap0kieuqpdj0i78tx5wf2bl
     verified: false
-    hashtags: "#heretocreate, #colorado, #ilysm, #heavenonearth"
+    hashtags: "#dengrl, #eachdayisabonus, #sweatden, #sweatdenfam"
+  - username: "jesenialis_fit"
+    fullname: >-
+      Jesenia
+    bio: >-
+      𝘓𝘢𝘵𝘪𝘯𝘢 🇵🇷 💫Lifting weights, food or a video game 💫Helping women discover their true potential when they work for themselves 𝐉𝐨𝐢𝐧 𝐓𝐡𝐞 𝐌𝐨𝐯𝐞𝐦𝐞𝐧𝐭:
+    location: "United States"
+    followers: 5898
+    engagement: 557
+    commentsToLikes: 0.304426
+    id: ck8t7ca04gak60j78do13v01e
+    verified: false
+    hashtags: "#1upnutrition, #fitmodels, #latina, #fashionnova"
   - username: "laurenlamp"
     fullname: >-
       lauren lamp
+    bio: >-
+      los angeles nta la @ntamodels wilhelmina denver @wilhelminadenver fitness & diet ↓
     location: "United States"
-    followers: 12251
-    engagement: 830
-    commentsToLikes: 0.050683
+    followers: 13229
+    engagement: 869
+    commentsToLikes: 0.057744
     id: ck0w187n9i1210i19m8i7epun
     verified: false
-    hashtags: "#fitness, #workoutmotivation, #stayhome"
-  - username: "maza.travel"
+    hashtags: "#fitness, #workoutmotivation, #stayhome, #theysharedapizza"
+  - username: "hello_healthnut"
     fullname: >-
-      Maza ☀️ Travel + Lifestyle
+      cealia | yogini 🌺
+    bio: >-
+      🧘🏽‍♀️ 200 RYT: yoga teacher + coach 🙏 venmo: CealiaJane 🤸🏽‍♂️ fitness coach @fitwall_denver 📱 social media manager
     location: "United States"
-    followers: 3148
-    engagement: 1624
-    commentsToLikes: 0.449029
-    id: ck9hbr7n7i4sd0j78m2qz7vz2
+    followers: 34448
+    engagement: 317
+    commentsToLikes: 0.045152
+    id: ck55mywdw54nm0i11y8hn11ea
     verified: false
-    hashtags: "#topusapics, #travelpage, #borntotravel, #nomadgirls"
-  - username: "mannykess"
-    fullname: >-
-      Manny Kess
-    location: "United States"
-    followers: 35345
-    engagement: 73
-    commentsToLikes: 0.107730
-    id: ck5hqgwq3t3dk0i11lduc2p0j
-    verified: false
-    hashtags: "#shave, #beardgame, #strongmind, #reading"
+    hashtags: "#yogalove, #yogainspiration, #yogagirl, #loveandalliscoming"
   - username: "kaileyykennedy"
     fullname: >-
       Kailey Kennedy
+    bio: >-
+      📍Denver, CO 🌱 Fitness, Health, and Wellness 💫 Certified Health Coach
     location: "United States"
-    followers: 2655
-    engagement: 4624
-    commentsToLikes: 0.034652
+    followers: 2732
+    engagement: 3958
+    commentsToLikes: 0.032027
     id: ck8t1l0mrw5wm0j78r6ubz8xm
     verified: false
-    hashtags: ""
-  - username: "seeleyfoto"
+    hashtags: "#blackouttuesday"
+  - username: "mshoneymarie"
     fullname: >-
-      Brett Seeley
+      ♡Aubri Marie♡
+    bio: >-
+      𝙰𝚕𝚕𝚘𝚌𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚕𝚏 𝚕𝚘𝚟𝚎 & 𝚍𝚒𝚟𝚒𝚗𝚎 𝚝𝚑𝚘𝚞𝚐𝚑𝚝𝚜 ❦ #PoetryByHoney ♎️ #mentalhealthawareness 💭 #supportblackownedbusinesses
     location: "United States"
-    followers: 64740
-    engagement: 170
-    commentsToLikes: 0.100425
-    id: ck15rtou49nii0i195wxku78x
+    followers: 21790
+    engagement: 591
+    commentsToLikes: 0.030977
+    id: ckap7ydxcm4cz0i78l7xi81c5
     verified: false
-    hashtags: "#fitnessgirl, #fitnessgoals, #glitter, #color"
-  - username: "1000thingstodoindenver"
+    hashtags: "#spiritualawakening, #poetsofinstagram, #healthylifestyle, #honey"
+  - username: "quinncidence8"
     fullname: >-
-      Denver📍Things To Do in Denver
+      Quinn B
+    bio: >-
+      ⚡️SURGE SUPPLEMENTS : Quinn20 💧@purekana CBD: QuinnPK @staix.co code: Quinncidence8 Amazon wishlist ⬇️⬇️⬇️
     location: "United States"
-    followers: 69753
-    engagement: 176
-    commentsToLikes: 0.115378
-    id: ck14iedh6f09e0i19yn8q4p4e
+    followers: 121665
+    engagement: 165
+    commentsToLikes: 0.034147
+    id: ck0vyhf5j40f30i19i8tkf72t
     verified: false
-    hashtags: "#1000thingstodoindenver"
-  - username: "j.scud"
+    hashtags: "#lifestyle, #model, #abs, #flex"
+  - username: "joshbluecomedy"
     fullname: >-
-      Justin Scudney
+      Josh Blue
+    bio: >-
+      Winner of Last Comic Standing￼! exParalympic Soccer player. Please check out my new special!￼
     location: "United States"
-    followers: 60946
-    engagement: 472
-    commentsToLikes: 0.020479
-    id: ck0txh143j3j30i1912nq3zk5
-    verified: false
-    hashtags: "#ad, #earthday, #cervezapatagonia, #thegreatindoors"
-  - username: "space.junkiee"
+    followers: 37625
+    engagement: 144
+    commentsToLikes: 0.044539
+    id: ck5q7d8600ze10i112kqa8guk
+    verified: true
+    hashtags: "#comedy, #colorado, #palsypower, #coloradofire"
+  - username: "jeffersonmason4"
     fullname: >-
-      Raechel Renae
+      Jefferson Mason
+    bio: >-
+      Hoops🏀 Travel✈️ Faith🙏🏽 📍Mpls | MN Retired Pro Athlete • Real Life Dad @drdishbball 🔥 #NBA #Europe #NCAA
     location: "United States"
-    followers: 10320
-    engagement: 554
-    commentsToLikes: 0.030401
-    id: ck6u5pl8xazv00j71yrg9edq7
+    followers: 26230
+    engagement: 136
+    commentsToLikes: 0.030826
+    id: ckaozui5lng600i78n903sq5h
     verified: false
-    hashtags: "#girlswholift, #pandemic, #moodyportraits, #babesofinsta"
-  - username: "military"
-    fullname: >-
-      MILITARY
-    location: "United States"
-    followers: 655598
-    engagement: 104
-    commentsToLikes: 0.007886
-    id: ck14j4usqimxz0i19n9t3z7cd
-    verified: false
-    hashtags: "#flag, #weightlifting, #speed, #armystrong"
+    hashtags: "#instapic, #blessed, #happy, #happiness"
 ---

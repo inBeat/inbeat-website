@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Sydney In 2020
 description: >-
-  Find top fitness TikTok influencers in Sydney in 2020. Most popular hashtags: #fitness #duet #foryou #workout.
+  Find top fitness TikTok influencers in Sydney in 2020. Most popular hashtags: #sydney #fitness #foryou #duet.
 platform: TikTok
+hits: 18
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "shak.tv"
+  - username: "missyleisha"
     fullname: >-
-      Shak.TV
+      Missy Leisha
+    bio: >-
+      Relatable content for women 🤍 Empowering Boss Babes Join me Live everyday
     location: "Australia"
-    followers: 133986
-    engagement: 1522
-    commentsToLikes: 0.009707
-    id: ck9n4wpmz624t0j784vbpn6so
+    followers: 75600
+    engagement: 655
+    commentsToLikes: 0.052169
+    id: ckae5wqir9idz0i78zz6wm2cz
     verified: false
-    hashtags: "#german, #skit, #doctor, #mobster"
-  - username: "alexwest_photo"
+    hashtags: "#fitness, #relationships, #sydney, #selflove"
+  - username: "wilsend"
     fullname: >-
-      Alex West
+      WILSEND
+    bio: >-
+      Thc most cooked channel 🇦🇺
     location: "Australia"
-    followers: 15575
-    engagement: 402
-    commentsToLikes: 0.014730
-    id: cka86bad41txk0i782wsvjijn
+    followers: 4436
+    engagement: 597
+    commentsToLikes: 0.037677
+    id: ckbkzaeb2voqe0j23ahl5fom4
     verified: false
-    hashtags: "#fitness, #heapsgood, #life, #live"
-  - username: "bakshipriyam"
+    hashtags: "#cooked, #fitness, #edm, #beinspired"
+  - username: "chongybrah"
     fullname: >-
-      priyambakshi
+      Chongy
+    bio: >-
+      Bris
     location: "Australia"
-    followers: 13904
-    engagement: 389
-    commentsToLikes: 0.014850
-    id: cka0jbplzhe5v0i782mrmmofi
+    followers: 34000
+    engagement: 1497
+    commentsToLikes: 0.016333
+    id: ck81swb9rtkv10j78pjbv5vy2
     verified: false
-    hashtags: "#sydney, #everydayscience, #blahblahblah, #oldskool"
+    hashtags: "#australia, #aussie, #ohno, #polynesian"
+  - username: "drcody_dc"
+    fullname: >-
+      Dr Cody
+    bio: >-
+      No bio yet
+    location: "Australia"
+    followers: 2500000
+    engagement: 638
+    commentsToLikes: 0.004252
+    id: ck83z3t8exgqq0j785313uo88
+    verified: true
+    hashtags: "#asmr, #chiropractor, #foryou, #drcrack"
   - username: "tokyozvalentino"
     fullname: >-
       Tokyoz Valentino
+    bio: >-
+      Sydney🇦🇺 Ig: tokyoz.val : tokiioz_le_fitness ⭐️Big thanks to 100k followers ✨
     location: "Australia"
-    followers: 100053
-    engagement: 519
-    commentsToLikes: 0.013568
+    followers: 100100
+    engagement: 540
+    commentsToLikes: 0.013041
     id: ck81szmpmuaxd0j78549heof4
     verified: false
-    hashtags: "#comedyskit, #writethelyrics, #motivation, #work"
-  - username: "alistairfawcus"
+    hashtags: "#workout, #tokyozvalentino, #foryoupage, #boo"
+  - username: "asaptuppy"
     fullname: >-
-      Alistair 
+      Tups
+    bio: >-
+      🇼🇸🇳🇿 📍Sydney ❤ L.D.N Check my IG for the Cultural Duets
     location: "Australia"
-    followers: 210919
-    engagement: 1805
-    commentsToLikes: 0.013905
-    id: ck921wr9xk09l0j78573id6lk
+    followers: 378000
+    engagement: 1066
+    commentsToLikes: 0.022131
+    id: cka3viip6yefv0i78jpk6lsct
     verified: false
-    hashtags: "#stealhislook, #theboys, #character, #conspiracy"
+    hashtags: "#mcspicymoves, #duet, #nz, #danceoff"
   - username: "pb08_ala"
     fullname: >-
       Vinay
+    bio: >-
+      GRATITUDE IS EVERYTHING PB08➡️AUSTRALIA LOVE YOU ALL FITNESS. MUSIC.FOOD
     location: "Australia"
-    followers: 7727
-    engagement: 766
-    commentsToLikes: 0.045672
+    followers: 8645
+    engagement: 426
+    commentsToLikes: 0.032557
     id: cka0xdcwk6lwv0i78bbeqvn7w
     verified: false
-    hashtags: "#akay, #duet, #aussiethings, #momsoftiktok"
+    hashtags: "#foryou, #harrispark, #balletbeatdrop, #twooptions"
   - username: "wellnesscoachbinal"
     fullname: >-
       Binal Chaudhari
+    bio: >-
+      Follow on insta @wellnesscoachbinal, on Facebook @wellnesscoachbinal for fitness
     location: "Australia"
     followers: 101123
     engagement: 567
     commentsToLikes: 0.004152
     id: ck7zoip26kem90j78rqluao7x
     verified: false
-    hashtags: "#1million, #enjoy, #2020, #training"
+    hashtags: "#trending, #indian, #wedding, #findyoursexy"
   - username: "henri_hay"
     fullname: >-
       Henri Hay
+    bio: >-
+      Lyon 🇫🇷 Sydney 🇦🇺 عبد الله
     location: "Australia"
-    followers: 169662
-    engagement: 403
-    commentsToLikes: 0.004231
+    followers: 227100
+    engagement: 310
+    commentsToLikes: 0.003624
     id: ck8fa2q0d3ysz0j78an9tl9g0
     verified: false
-    hashtags: "#skills, #goat, #tricks, #nike"
-  - username: "lyndlkean"
+    hashtags: "#acaibowl, #french, #trick, #france"
+  - username: "karimdaddyslim"
     fullname: >-
-      LyndlKean
+      Karim
+    bio: >-
+      your dad 📥 : Karimdaddyslim@gmail.com
     location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
-    id: cka84t58ovid50i78rvcma8u1
-    verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
-  - username: "tik_dox"
-    fullname: >-
-      mathewt_piukala
-    location: "Australia"
-    followers: 13108
-    engagement: 998
-    commentsToLikes: 0.073970
-    id: ck81qq6vxix990j786b1zoe3p
+    followers: 113000
+    engagement: 1903
+    commentsToLikes: 0.006682
+    id: cka0xd8w86kqv0i78mt9b95un
     verified: false
-    hashtags: "#fitness, #jasonderulo, #carpenter, #21district"
+    hashtags: "#haircut, #sydney, #vlog, #adventure"
 ---

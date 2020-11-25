@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Turkey In 2020
 description: >-
-  Find top fitness Instagram influencers in Turkey in 2020. Most popular hashtags: #corona #tbt #travel #styleblogger.
+  Find top fitness Instagram influencers in Turkey in 2020. Most popular hashtags: #fitness #turkey #fashion #summervibes.
 platform: Instagram
+hits: 333
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 333 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "agirsaglam_fitness"
     fullname: >-
-      AĞIRSAĞLAM
+      AĞIRSAĞLAM
+    bio: >-
+      Daha güçlü ol, daha iyi görün! Amacım Fitness’a bilimsel yaklaşarak tüm 🇹🇷 Türkiye’yi #ağırsağlam yapmak! Koçluk, program ve mağaza ürünleri için:
     location: "Turkey"
-    followers: 98812
-    engagement: 770
-    commentsToLikes: 0.051131
+    followers: 126541
+    engagement: 713
+    commentsToLikes: 0.037042
     id: ck6typgl253jp0j71sauzl4ld
     verified: false
-    hashtags: "#hiitworkout, #kasgeli, #thorchallenge, #musclememory"
+    hashtags: "#squat, #crossfit, #fitturkiye, #fitness"
+  - username: "sofe_bayaty"
+    fullname: >-
+      sofe Albayaty
+    bio: >-
+      ‏🇮🇶Wrestling champion Iraq🥊 ‏Fitness🏋🏻‍♀️💪🏻 SC:sofe0001👻 ‏Practical makeup💄 Age.25 I live in Turkey🇹🇷
+    location: "Turkey"
+    followers: 23807
+    engagement: 595
+    commentsToLikes: 0.225527
+    id: ckf5mjamou25e0j23iugsnz49
+    verified: false
+    hashtags: "#iraq, #entrepreneurlife, #basra, #iraqi"
+  - username: "ezgi.dogann"
+    fullname: >-
+      Ezgi Doğan
+    bio: >-
+      ’17Ankara bikini fitness champ🥇🏆 Erciyes University #influencer 📩reklam ve işbirliği için; contact: @mertyenice sponsored by @royaldermsosyal
+    location: "Turkey"
+    followers: 26131
+    engagement: 1204
+    commentsToLikes: 0.070191
+    id: ckaoykjswhv4c0i78hxx84fhx
+    verified: false
+    hashtags: "#karadeniz, #night, #girlstravel, #workout"
   - username: "iambasel"
     fullname: >-
-      MENFASHION | BASEL | باسل
+      BASEL ALAHMAD | باسل الأحمد
+    bio: >-
+      📍TURKEY 🇹🇷 • Menswear | Lifestyle • Architect | Fitness 📩 arch.basel994@gmail.com My work @echo__design
     location: "Turkey"
-    followers: 19493
-    engagement: 632
-    commentsToLikes: 0.237096
+    followers: 18529
+    engagement: 468
+    commentsToLikes: 0.191164
     id: ck13brx30wvnc0i19z6c0wcdx
     verified: false
-    hashtags: "#smilemore, #influencer, #mensfashiontips, #guyswithstyle"
-  - username: "merveokudan1"
+    hashtags: "#menwithstreetstyle, #casuallook, #menwithstyle, #architects"
+  - username: "ligidollha.official"
     fullname: >-
-      MerveNinja
+      LIGI DOLLHA🐆
+    bio: >-
+      Public figure 🎥Tv8 Acun Medya Influencer Fitness Model
     location: "Turkey"
-    followers: 23432
-    engagement: 1580
-    commentsToLikes: 0.033441
-    id: ck8tb2rpuu3fw0j78rzr6znxv
+    followers: 196741
+    engagement: 605
+    commentsToLikes: 0.012366
+    id: ckap0ll6bqu700i78qu9phvpi
     verified: false
-    hashtags: "#motorine, #zx6r, #ridergirl"
-  - username: "soldierofthewar"
-    fullname: >-
-      Ersin
-    location: "Turkey"
-    followers: 6881
-    engagement: 1960
-    commentsToLikes: 0.075575
-    id: ckap6la1qgcbv0i78h676x1od
-    verified: false
-    hashtags: "#canon, #aniyakala, #gezgin, #igers"
-  - username: "m.y.hulk_"
-    fullname: >-
-      MUSTAFA YILDIZ
-    location: "Turkey"
-    followers: 383385
-    engagement: 144
-    commentsToLikes: 0.109359
-    id: ck6u8r01nt5ul0j71nvz6k9hz
-    verified: false
-    hashtags: "#coronaturkiye, #fuckcorona, #sag, #bay"
-  - username: "eylmbc"
-    fullname: >-
-      Eylem Abacı
-    location: "Turkey"
-    followers: 181558
-    engagement: 137
-    commentsToLikes: 0.135090
-    id: ck0u9o1p0abgw0i19ghjtaxcb
-    verified: false
-    hashtags: "#nosugar, #allwhite, #corona, #brownies"
+    hashtags: ""
   - username: "aysegul.demirsoy"
     fullname: >-
       Aysegul Demirsoy
+    bio: >-
+      ⭐Fitness & healthy life style mentor ⭐Zumba presenter 🌟www.ayseguldemirsoy.com 🌟 info@ayseguldemirsoy.com ⭐ YouTube 👉@fitness.partnerim
     location: "Turkey"
-    followers: 155296
-    engagement: 128
-    commentsToLikes: 0.067619
+    followers: 154988
+    engagement: 185
+    commentsToLikes: 0.053008
     id: ck5q297dqevcq0i110yr2n5dm
     verified: false
-    hashtags: "#ayseguldemirsoy, #tb, #mutlubayramlar, #pilates"
-  - username: "gulcin_aytek"
+    hashtags: "#zumba, #tbt, #photo, #ayseguldemirsoy"
+  - username: "shahyad_khojandi"
     fullname: >-
-      Gülçin
+      shahyad.khojandi
+    bio: >-
+      🔷️Fitness 🔷️Boxing🥊 🔷️Height:194 🔷️(BE WITH GOD BE KING) . 𝐒 🇮🇷Live in Istanbul 🇹🇷
     location: "Turkey"
-    followers: 9809
-    engagement: 514
-    commentsToLikes: 0.096146
-    id: ckaox2uq2bj620i783vmkuevi
+    followers: 26668
+    engagement: 234
+    commentsToLikes: 0.178986
+    id: ck0vxfuh8yoxz0i194feiqrqr
     verified: false
-    hashtags: "#fashion, #oodt, #instadog, #ucak6kozmik"
-  - username: "samihamidi"
+    hashtags: "#boxing, #istanbul, #ufcfightnight, #boxingfight"
+  - username: "fatimaaahsn"
     fullname: >-
-      SAMİ HAMİDİ
+      Fatima Hasan
+    bio: >-
+      Humanitarian. Pseudo Philosopher. Ex-Development Professional. Occasional, sometimes full-time Model. Fitness Enthusiast. #FatimaHasan
     location: "Turkey"
-    followers: 75211
-    engagement: 304
-    commentsToLikes: 0.025917
-    id: ck1396pj0jt0e0i19ylrel33v
-    verified: true
-    hashtags: "#sh57, #tbt, #stayhome, #19may"
-  - username: "theprincemisugi"
-    fullname: >-
-      Serkan Akgün
-    location: "Turkey"
-    followers: 59980
-    engagement: 206
-    commentsToLikes: 0.069536
-    id: ck600jkjedq2m0i14bbpocb2n
+    followers: 44422
+    engagement: 829
+    commentsToLikes: 0.031617
+    id: ck15qlqiw3gcx0i199lhkj46v
     verified: false
-    hashtags: "#therock, #shishantash, #biceps, #mensfitnessuk"
+    hashtags: "#fatimahasan, #stylediaries, #tiktoktransition, #styleinspo"
+  - username: "ozgurcegezi"
+    fullname: >-
+      My family and me
+    bio: >-
+      Objektifin arkasında olmayı seviyorum 😊 #travel #traveller #gezi #gezgin #izmir #photography #nikon #d7000 #fitness #gym #doğa #animals #Galatasaray
+    location: "Turkey"
+    followers: 2592
+    engagement: 1082
+    commentsToLikes: 0.135643
+    id: ckf5xioo2vtfn0j23o3rqgae0
+    verified: false
+    hashtags: "#travelmore, #letsgosomewhere, #traveller, #ka"
+  - username: "pinars0ylu"
+    fullname: >-
+      Pınar
+    bio: >-
+      Kocaeli - İstanbul📍 Derin'in annesi👧🏻 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰
+    location: "Turkey"
+    followers: 30176
+    engagement: 311
+    commentsToLikes: 0.179991
+    id: ck9wfhzbqowah0j78mguj73sn
+    verified: false
+    hashtags: "#outfit, #turkey, #fashion, #hair"
 ---

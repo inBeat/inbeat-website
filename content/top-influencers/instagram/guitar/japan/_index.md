@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Japan In 2020
 description: >-
-  Find top guitar Instagram influencers in Japan in 2020. Most popular hashtags: #stayhome #sneakers #fender #doggy.
+  Find top guitar Instagram influencers in Japan in 2020. Most popular hashtags: #guitar #guitarist #heavymetal.
 platform: Instagram
+hits: 78
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 78 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "_chakixx_"
+    fullname: >-
+      SAKI(a.k.a Chucky)
+    bio: >-
+      A guitarist.Play for Mary's Blood,NEMOPHILA and @amahiru_official // AMAHIRU's MV ⇨ https://youtu.be/DTQjIjYvEM8
+    location: "Japan"
+    followers: 10931
+    engagement: 1544
+    commentsToLikes: 0.027732
+    id: ck6tj4id51zod0j71owe6sb1u
+    verified: false
+    hashtags: "#amahiru, #kreator, #nemophila, #marrionapparel"
   - username: "miyastagram__"
     fullname: >-
       MIYAKO
+    bio: >-
+      ♬Band : LOVEBITES (@lovebites_jp) 🎶Guitar and Piano player ♫Composer & Arranger ♬Japan Osaka→Tokyo #lovebites #miyako
     location: "Japan"
-    followers: 14251
-    engagement: 1697
-    commentsToLikes: 0.027115
+    followers: 18297
+    engagement: 1577
+    commentsToLikes: 0.019552
     id: ck1346u9guzyd0i19p9fmi3qx
     verified: false
-    hashtags: "#metallicaguitar, #doggy, #bloodstock, #metallica"
+    hashtags: "#deanguitar, #orangeamps, #daughtersofthedawn, #electricpentagram"
+  - username: "nagisa_gf_band"
+    fullname: >-
+      NAGISA(GIRLFRIEND)
+    bio: >-
+      GIRLFRIEND（@girlfriendjapan ） guitar.（19） ラストヒロイン出演→ 現在4人組バンドグループで活動中
+    location: "Japan"
+    followers: 16890
+    engagement: 1030
+    commentsToLikes: 0.019196
+    id: ck9hbdsu3ge270j78uuattbsq
+    verified: false
+    hashtags: "#zara, #fall, #fashion, #black"
   - username: "taikitotsuka"
     fullname: >-
       TAIKING
+    bio: >-
+      SUCHMOS GUITAR
     location: "Japan"
-    followers: 30406
-    engagement: 1177
-    commentsToLikes: 0.012730
+    followers: 29688
+    engagement: 1092
+    commentsToLikes: 0.014481
     id: ck5zlnsy9l2hc0i145sah37k1
     verified: true
-    hashtags: "#suchmos, #vulfpeck"
-  - username: "evilchocobunny"
-    fullname: >-
-      Jojo
-    location: "Japan"
-    followers: 23049
-    engagement: 437
-    commentsToLikes: 0.040921
-    id: ck0w6r3px9w7g0i19xlwqqoot
-    verified: false
-    hashtags: "#yelloshoes, #laforet, #punk, #sneakers"
-  - username: "sugi_coldrain"
-    fullname: >-
-      Kazuya "Sugi" Sugiyama
-    location: "Japan"
-    followers: 35248
-    engagement: 905
-    commentsToLikes: 0.006731
-    id: ck15qa2811tz40i19xvlwizms
-    verified: true
-    hashtags: "#drstrings, #kikutanimusic, #merryrockparade"
-  - username: "hirokikamemoto"
-    fullname: >-
-      亀本寛貴 GLIM SPANKY
-    location: "Japan"
-    followers: 18392
-    engagement: 789
-    commentsToLikes: 0.007295
-    id: ck5hiaws5ck0b0i118i9x7q6p
-    verified: true
-    hashtags: "#repost, #glimspanky, #earthquakerdevices, #vinyllover"
-  - username: "hotei_official"
-    fullname: >-
-      HOTEI Official
-    location: "Japan"
-    followers: 121894
-    engagement: 1019
-    commentsToLikes: 0.020040
-    id: ck8t7062jf85i0j78g29atc5y
-    verified: false
-    hashtags: "#househusband, #you, #blastcult, #glay"
+    hashtags: "#suchmos, #vulfpeck, #fcls"
   - username: "putchon"
     fullname: >-
       ぷっちょん
+    bio: >-
+      【@mfc_store】Store manager . rakuten CM 出演 . Street+fashion guitar sk8 hiphop #えーじぇーわんとぼく
     location: "Japan"
-    followers: 9965
-    engagement: 1020
-    commentsToLikes: 0.006271
+    followers: 11256
+    engagement: 1050
+    commentsToLikes: 0.009810
     id: ckaox96plcbxm0i78dnm1doml
     verified: false
-    hashtags: "#instahappy, #500px, #wine, #pinegreen"
-  - username: "akn_spicysol"
-    fullname: >-
-      AKUN🌞SPiCYSOL
-    location: "Japan"
-    followers: 12947
-    engagement: 773
-    commentsToLikes: 0.011431
-    id: ck5pz4zlaz8pz0i11qnmgmw7j
-    verified: true
-    hashtags: "#barasso, #spicysol, #flowback, #rude"
-  - username: "ryanroxie"
-    fullname: >-
-      Guitarist for Alice Cooper 🎸
-    location: "Japan"
-    followers: 68338
-    engagement: 529
-    commentsToLikes: 0.035647
-    id: ck14kmfc4q8j10i19a3g3ktbe
-    verified: false
-    hashtags: "#hanoirocks, #thestruts, #alicecooper, #interview"
+    hashtags: "#l4l, #instagram, #l4likeforlikesback, #street"
   - username: "kanami_bandmaid"
     fullname: >-
       BAND-MAID KANAMI
+    bio: >-
+      BAND-MAID Gt.KANAMI♫ #bandmaid #guitarlife #カフェ巡り USE➡︎#mesaboogie #PRS
     location: "Japan"
-    followers: 35572
-    engagement: 1323
-    commentsToLikes: 0.017296
+    followers: 38990
+    engagement: 1308
+    commentsToLikes: 0.021820
     id: ck8t3xps04vdc0j78xuscvqcz
     verified: true
-    hashtags: "#stayhome, #japanesecoffee, #mesaboogie, #linecubeshibuya"
+    hashtags: "#guitar, #coffeetime, #prsguitars, #custum24"
+  - username: "hotei_official"
+    fullname: >-
+      HOTEI Official
+    bio: >-
+      布袋寅泰　TOMOYASU HOTEI ギタリスト。Japanese legendary guitarist, songwriter, producer, & creator of the Kill Bill theme song. @hotei_official
+    location: "Japan"
+    followers: 138886
+    engagement: 944
+    commentsToLikes: 0.013965
+    id: ck8t7062jf85i0j78g29atc5y
+    verified: false
+    hashtags: "#guitarist, #bearbrick, #tomoyasuhotei, #clasiccivory"
+  - username: "fendergaichiban"
+    fullname: >-
+      RYU
+    bio: >-
+      Guitarist .ミュージシャン
+    location: "Japan"
+    followers: 18715
+    engagement: 608
+    commentsToLikes: 0.043997
+    id: ck6tvzmtpp6fg0j710uj0hjug
+    verified: false
+    hashtags: "#fender, #oldguitars, #vintageguitars, #bluesrock"
+  - username: "sugizo_official"
+    fullname: >-
+      SUGIZO
+    bio: >-
+      杉原有音 Composer, Guitarist, Violinist, Arranger, Producer. Member of LUNA SEA & X JAPAN. LUNA SEA Instagram @lunaseaofficial
+    location: "Japan"
+    followers: 117328
+    engagement: 981
+    commentsToLikes: 0.009557
+    id: ck13d0s6i33440i19vtbaecja
+    verified: true
+    hashtags: "#sugizo, #lunasea, #stayhome, #sgz"
+  - username: "kazuki_isogai"
+    fullname: >-
+      kazuki isogai 磯貝一樹 official
+    bio: >-
+      Guitarist / composer Tokyo Japan🇯🇵 YouTube channel↓↓
+    location: "Japan"
+    followers: 202956
+    engagement: 244
+    commentsToLikes: 0.016420
+    id: ck14jcvw3jpcy0i19iei5wiph
+    verified: false
+    hashtags: "#gt1000, #boss"
 ---

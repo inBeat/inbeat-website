@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Chicago In 2020
 description: >-
-  Find top TikTok influencers in Chicago in 2020. Most popular hashtags: #friends #cosplay #inthehouseparty #college.
+  Find top TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
+hits: 1158
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 1158 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "stonerrgirll"
-    fullname: >-
-      stonerrgirll
-    location: "United States"
-    followers: 3471
-    engagement: 792
-    commentsToLikes: 0.044546
-    id: cka0wxe0n4qwa0i78t6p6p3k9
-    verified: false
-    hashtags: "#blowup, #toomuch, #notajoke, #study"
   - username: "barreraodalys"
     fullname: >-
       barreraodalys
+    bio: >-
+      Chicago
     location: "United States"
-    followers: 2375
-    engagement: 2040
-    commentsToLikes: 0.032650
+    followers: 2622
+    engagement: 1547
+    commentsToLikes: 0.018335
     id: ckal46ewc1f8p0i78jp4hu7uf
     verified: false
-    hashtags: "#transformation, #harrystyles, #15, #viral"
+    hashtags: "#makeup, #foryoupage, #foryou, #fyp"
   - username: "bryannnn11"
     fullname: >-
       Bryan Wehde
+    bio: >-
+      Chicago
     location: "United States"
-    followers: 46794
-    engagement: 801
-    commentsToLikes: 0.018352
+    followers: 46500
+    engagement: 813
+    commentsToLikes: 0.014007
     id: ck9sionb1zx7r0j783xg8dg1k
     verified: false
-    hashtags: "#outdoors, #friends, #foryou, #zoom"
-  - username: "alyjaemua"
-    fullname: >-
-      Aly Jae
-    location: "United States"
-    followers: 39874
-    engagement: 2424
-    commentsToLikes: 0.066170
-    id: ckahxrsgywexa0i784lo10o7u
-    verified: false
-    hashtags: "#introvert, #endracism, #makeupartist, #soapbop"
-  - username: "lilmaisiemarie"
-    fullname: >-
-      Lilmaisiemarie 
-    location: "United States"
-    followers: 445068
-    engagement: 2777
-    commentsToLikes: 0.049840
-    id: ck933p4zsp29b0j783ep7c5ve
-    verified: false
-    hashtags: "#frostedfeelings, #dogschallenge, #perfectmeal, #doggo"
+    hashtags: "#army, #chillin, #outdoors, #friends"
   - username: "kenny.elrod"
     fullname: >-
       Kenny E.
+    bio: >-
+      BLM ✊🏾 Chicago IL 🏙
     location: "United States"
-    followers: 122264
-    engagement: 2732
-    commentsToLikes: 0.038463
+    followers: 193200
+    engagement: 3790
+    commentsToLikes: 0.042950
     id: ckacq17m2ykxx0i78diptcgkh
     verified: false
-    hashtags: "#happybday, #singing, #cartooncharacter, #scoobdance"
-  - username: "shreya.mergu"
+    hashtags: "#song, #fyp, #greenscreen, #duet"
+  - username: "haj.podge"
     fullname: >-
-      Shreya⁷ 🧸
+      Mr. Kamukura, Sir. ❤
+    bio: >-
+      ⛵ Chicago cosplayer ⛵ Ren 💚 ISTJ 5w6 he/him ✨ they/them 💍 @phantomferretcosp
     location: "United States"
-    followers: 2026
-    engagement: 1781
-    commentsToLikes: 0.101414
-    id: ck8fary8z4n9l0j78igdgt9sg
+    followers: 22700
+    engagement: 2892
+    commentsToLikes: 0.071670
+    id: ck9npnu0szshc0j7805qem1cx
     verified: false
-    hashtags: "#bestthingsince, #nosepainting, #bts, #covid19"
-  - username: "talldorkandhandsome"
+    hashtags: "#foryou, #pinkmaeda, #punkjime, #hajimehinata"
+  - username: "honeybmua"
     fullname: >-
-      The OOF in Goofy
+      Mua.Fatshionista
+    bio: >-
+      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
     location: "United States"
-    followers: 84142
-    engagement: 2088
-    commentsToLikes: 0.032231
-    id: ck80oa5xig9j30j78u2z94uco
+    followers: 8123
+    engagement: 2191
+    commentsToLikes: 0.094565
+    id: ckbqivjoh406z0j234lsd7dxx
     verified: false
-    hashtags: "#funko, #dadjokes, #bobross, #roguecosplay"
-  - username: "axandthehatchetmen"
+    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
+  - username: "raging__panda"
     fullname: >-
-      axandthehatchetmen
+      Lordbreeza 
+    bio: >-
+      ✨25✨ ||•Anime Princess•||•Harem No Jutsu Waifu•||•Honorary Senpai•|| Chicago
     location: "United States"
-    followers: 93712
-    engagement: 1864
-    commentsToLikes: 0.039582
-    id: ck9tut89inf130j7875j89c5r
+    followers: 105400
+    engagement: 2190
+    commentsToLikes: 0.041539
+    id: ckbkne6bphdo40j2378fgbtfo
     verified: false
-    hashtags: "#skincareroutine, #chicago, #tossyourcap, #homeroutine"
-  - username: "willthecleric"
+    hashtags: "#lov, #wewintogether, #sugarskull, #happyhalloween"
+  - username: "urinelover666"
     fullname: >-
-      ♡
+      liliana
+    bio: >-
+      chicago sc: gimmemcrback she/her im bi
     location: "United States"
-    followers: 4561
-    engagement: 2290
-    commentsToLikes: 0.049260
-    id: ck8sd2vcldu2u0j78k0vsssxq
+    followers: 392400
+    engagement: 2182
+    commentsToLikes: 0.038091
+    id: ckbbnsprtbsp60j2302pf6321
     verified: false
-    hashtags: "#travelthrowback, #lukeskwalker, #itthemusical, #spadeolay"
+    hashtags: ""
+  - username: "attentionwhore1234"
+    fullname: >-
+      stanley :)
+    bio: >-
+      hi lol 😁 chicagooo he/him
+    location: "United States"
+    followers: 5303
+    engagement: 2028
+    commentsToLikes: 0.091862
+    id: ckdhr5qef1zpw0j23a4fs5b1s
+    verified: false
+    hashtags: "#odette, #ripbryce, #vicepresidentialdebate, #generalconference"
+  - username: "ajstouffer"
+    fullname: >-
+      AJ Stouffer
+    bio: >-
+      28 Chicago IL Stay Strong Shine Bright Let NOBODY dim your light! 🤑 - stouffer4
+    location: "United States"
+    followers: 48800
+    engagement: 1990
+    commentsToLikes: 0.046891
+    id: ckc8uyhbhhihc0j23f28b1rmu
+    verified: false
+    hashtags: "#psa, #lgbtq, #unwrapthedeals, #lgbt"
+  - username: "officialexavier"
+    fullname: >-
+      Official Exavier
+    bio: >-
+      Chicago. 🌃 YouTube: Official Exavier Instagram: officialexavier 12K? 🤍
+    location: "United States"
+    followers: 11000
+    engagement: 2203
+    commentsToLikes: 0.070309
+    id: cka7otdh24bcq0i7816da1kd3
+    verified: false
+    hashtags: "#unpopularopinions, #foryou, #nfl, #football"
 ---

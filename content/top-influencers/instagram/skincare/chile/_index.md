@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Chile In 2020
 description: >-
-  Find top skincare Instagram influencers in Chile in 2020. Most popular hashtags: #skincare #love #chile #baby.
+  Find top skincare Instagram influencers in Chile in 2020. Most popular hashtags: #skincare #makeup #chile #makeupchile.
 platform: Instagram
+hits: 41
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 41 Instagram influencers like this in Chile for you to pitch.
 profiles:
   - username: "valemiaaaaau"
     fullname: >-
-      Valentina Leni 🔥Maquillaje 🇨🇱
+      Valentina 💕 ÚNICA CUENTA
+    bio: >-
+      ▫️Cosmetologa, MUA & Beauty Blogger 🇨🇱 ▫️Maquillaje, skincare & cabello 💕 ▫️Mami primeriza de Vicente 👶 ▫️valentina.leni@live.com 💌
     location: "Chile"
-    followers: 17751
-    engagement: 611
-    commentsToLikes: 0.397151
+    followers: 22264
+    engagement: 519
+    commentsToLikes: 0.448580
     id: ck1382qs7e85m0i19qjp0c1lo
     verified: false
-    hashtags: "#3inaencasa, #blog, #naturachile, #puentealto"
-  - username: "chilean.passport"
+    hashtags: "#muachilena, #makeupcommunity, #santiago, #nyxcosmeticschile"
+  - username: "marianna.gl"
     fullname: >-
-      CONI▪︎TRAVEL & SELFCARE
+      MariannaGL
+    bio: >-
+      𝕀’𝕞 𝕟𝕠𝕥 𝕒 𝕡𝕣𝕚𝕟𝕔𝕖𝕤𝕤, 𝕀’𝕞 𝕒 𝕤𝕙𝕚𝕖𝕝𝕕𝕞𝕒𝕚𝕕𝕖𝕟 🛡⚔️💎 𝕊𝕥𝕪𝕝𝕖 & 𝔹𝕖𝕒𝕦𝕥𝕪 𝕓𝕝𝕠𝕘𝕘𝕖𝕣 𝕊𝕜𝕚𝕟 𝕔𝕒𝕣𝕖 𝕒𝕕𝕕𝕚𝕔𝕥 ℍ𝕖𝕒𝕝𝕥𝕙𝕪 𝕝𝕚𝕗𝕖 𝕤𝕥𝕪𝕝𝕖 ℙ𝕖𝕥𝕚𝕥𝕖 𝕊𝕚𝕫𝕖 @mgl.skincare 🚩Chile
     location: "Chile"
-    followers: 6921
-    engagement: 646
-    commentsToLikes: 0.134457
-    id: ck8t7klmeh5s30j78x8ygr7ih
+    followers: 37914
+    engagement: 383
+    commentsToLikes: 0.074398
+    id: ck5can51odq970i11yyuee6no
     verified: false
-    hashtags: "#lookgalaxyzflip, #argentina, #workingholiday, #earthday"
-  - username: "nicoledegiorgis"
+    hashtags: "#makeup, #ootd, #todomodabeauty, #madonna"
+  - username: "eluniverso.defran"
     fullname: >-
-      ➖Nico DGR➖Maquillaje➖Peinados➖
+      ☆ FRAN ☆
+    bio: >-
+      YouTuber #beauty #skincare #vlogs 🇨🇱 ↳ ElUniversodeFRAN | Fran y Chris CEO @manevi.cl 🔮 👇🏻CÓMO COMPRAR AL EXTRANJERO?👇🏻
     location: "Chile"
-    followers: 102082
-    engagement: 317
-    commentsToLikes: 0.043021
-    id: ck5ccpgzehrwe0i1157acfpqw
+    followers: 45467
+    engagement: 849
+    commentsToLikes: 0.058372
+    id: ck15uhpufn8vk0i190wuu7ja5
     verified: false
-    hashtags: "#pregnant, #merrychristmas, #happybirthdaytome, #babyonboard"
+    hashtags: "#pug, #chile, #hacks, #makeuptrend"
   - username: "mrslana.banana"
     fullname: >-
-      ✿ C a t ✿ Makeup Artist
+      ✿ C a t a ✿ Makeup Artist
+    bio: >-
+      📍CHILE • 💋BeautyBlog 💖 Makeup Artist ✨ Skincare Lover Reseñas ✩ Tutoriales ✩ Makeup
     location: "Chile"
-    followers: 5562
-    engagement: 651
-    commentsToLikes: 0.172957
+    followers: 7762
+    engagement: 830
+    commentsToLikes: 0.189353
     id: ck8t9yqalpu4g0j78h1nok7j2
     verified: false
-    hashtags: "#mallplazaegan, #hair, #cutecouple, #shampoo"
+    hashtags: "#mua, #makeupglam, #launionhacelafuerzamakeup, #anastasiabeverlyhillscl"
   - username: "geekandchic"
     fullname: >-
       Geek and chic
+    bio: >-
+      Angélica angelica@Geekandchic.cl Amo lo geek y chic: tecnología,skincare #kbeauty, maquillaje GEEKANDCHIC®| #geekandchic
     location: "Chile"
-    followers: 29743
-    engagement: 182
-    commentsToLikes: 0.085733
+    followers: 35703
+    engagement: 265
+    commentsToLikes: 0.072325
     id: ck5znzy6rphct0i14gyknirp3
     verified: false
-    hashtags: "#remoto, #micuidado, #thatsthepoint, #urbandecaychile"
-  - username: "camila_marchantf"
-    fullname: >-
-      cami marchant 🌼
-    location: "Chile"
-    followers: 15096
-    engagement: 470
-    commentsToLikes: 0.005407
-    id: ck6u9nq5mykz10j71i0itekop
-    verified: false
-    hashtags: "#good, #video, #liketime, #deporte"
+    hashtags: "#maskne, #boostdehidrataci, #pielhidratadapielsaludable, #skincare"
   - username: "valerialunacs"
     fullname: >-
       Valeria Luna
+    bio: >-
+      “La Guía Para la Vida de las Amikas” ya en librerías✨ #ConLaAyudaDeMisAmikas #AlCineConLasAmikas #SkincareParaPrincipiantes y más!
     location: "Chile"
-    followers: 40812
-    engagement: 689
-    commentsToLikes: 0.040892
+    followers: 47146
+    engagement: 790
+    commentsToLikes: 0.044389
     id: ck15so06xdykx0i193ne9b4ig
     verified: false
-    hashtags: "#alcineconlasamikas, #todoesmejorfrito, #tbt, #pordiosquerecuerdos"
-  - username: "bambi_juju"
+    hashtags: "#lomography, #analoguephotography, #lomo, #lomographyfilm"
+  - username: "nicoledegiorgis"
     fullname: >-
-      Jürgen Preüss ✨
+      ➖Nico DGR➖Maquillaje➖Peinados➖
+    bio: >-
+      • #BeautyTips • #SkinCare • #Mamadesanti • #Godfirst • #Novias • #MyLife •🇨🇱 Para información de clases automaquillaje y reservar horas Whatssapp👇🏻
     location: "Chile"
-    followers: 2771
-    engagement: 1136
-    commentsToLikes: 0.066439
-    id: ck5zynda1a6rj0i1477hoyxym
+    followers: 105641
+    engagement: 266
+    commentsToLikes: 0.041013
+    id: ck5ccpgzehrwe0i1157acfpqw
     verified: false
-    hashtags: "#versace, #nudes, #nike, #cumfycushchile"
-  - username: "trinidad_nucera00"
+    hashtags: "#ndgmakeupstudioscl, #mua, #santiselmandegiorgis, #quedateencasa"
+  - username: "marianabacarreza_mbomakeup"
     fullname: >-
-      Trinidad Sol Nucera
+      MBO MAKEUP | Mariana Bacarreza
+    bio: >-
+      💄 Profesión actual Maquillaje y Pelo. 💆🏻‍♀️ Estudiante de Cosmetología. 🍔 Egresada de gastronomía. 🐶 #animallover
     location: "Chile"
-    followers: 166861
-    engagement: 5462
-    commentsToLikes: 1.373040
-    id: ck5hempkvtpm40i119o9sgt3s
+    followers: 20796
+    engagement: 469
+    commentsToLikes: 0.279065
+    id: ck6tzyzpacobz0j71v9jm7tiq
     verified: false
-    hashtags: "#skincare"
-  - username: "romiiventura"
+    hashtags: "#makeup, #skincare, #hairstyle, #skincareroutine"
+  - username: "natashaliramakeup"
     fullname: >-
-      Romina Constanza Ventura
+      NATASHA LIRA | MAQUILLAJE
+    bio: >-
+      Makeup Artist 💗 #maquillajechile Especialista en novias 👰 #noviaschile 💄capacitaciones #cursodemaquillaje Para inf de presupuesto⤵️
     location: "Chile"
-    followers: 28168
-    engagement: 961
-    commentsToLikes: 0.075695
-    id: ck8t0p5wfss2f0j78ss8g71vz
+    followers: 20339
+    engagement: 284
+    commentsToLikes: 0.077538
+    id: ck5zkg1hajewf0i14i9qpwhjm
     verified: false
-    hashtags: "#recetaf, #skincare, #chile, #brooklyn"
+    hashtags: "#maquillajeprofesional, #makeupchile, #makeupsocial, #santiagodechile"
+  - username: "mtgarcesimboden"
+    fullname: >-
+      María Trinidad Garcés Imboden
+    bio: >-
+      ⚡ @bonomodelos . 👕 @lagracia_cl . 📍 Stgo, Chile . . . 📧 mtgarcesimboden@gmail.com
+    location: "Chile"
+    followers: 18647
+    engagement: 435
+    commentsToLikes: 0.039480
+    id: ck5q12mzh8z1a0i11f5mii4en
+    verified: false
+    hashtags: "#skincare, #photooftheday, #beauty, #spring"
 ---

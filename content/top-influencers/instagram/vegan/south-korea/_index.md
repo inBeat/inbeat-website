@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In South Korea In 2020
 description: >-
-  Find top vegan Instagram influencers in South Korea in 2020. Most popular hashtags: #vegan #korea #travelblogger #korean.
+  Find top vegan Instagram influencers in South Korea in 2020. Most popular hashtags: #veganism #veganisthenewluxury #deardahlia.
 platform: Instagram
+hits: 19
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in South Korea for you to contact.
 profiles:
-  - username: "courtneytheexplorer"
-    fullname: >-
-      Courtney | Travel Blogger
-    location: "South Korea"
-    followers: 3327
-    engagement: 1181
-    commentsToLikes: 0.101494
-    id: ck8t1anriv1fk0j782gwqp1sc
-    verified: false
-    hashtags: "#veganjanuary, #cominghome, #nomadicnetwork, #veganbloggers"
-  - username: "sanga_yonini"
-    fullname: >-
-      상아 요니니
-    location: "South Korea"
-    followers: 322410
-    engagement: 283
-    commentsToLikes: 0.018046
-    id: ck8tc5vc2ye4q0j78sn46rtde
-    verified: false
-    hashtags: "#spring, #breathe"
-  - username: "ddweji"
-    fullname: >-
-      뙈지뙈윤ಣ🐽ഒ
-    location: "South Korea"
-    followers: 20701
-    engagement: 200
-    commentsToLikes: 0.043150
-    id: ckap1b86jtu1m0i788m2hrgxd
-    verified: false
-    hashtags: ""
   - username: "haruharu_us"
     fullname: >-
       Haruharu US Official
+    bio: >-
+      Haruharu = “everyday” in Korean 🌿 Vegan >>Tag us: #everydayWONDER 🔬 Ultra deep technology 🌾 Powered by Superfoods ✨ SHOP NOW:
     location: "South Korea"
-    followers: 7036
-    engagement: 904
-    commentsToLikes: 0.405404
+    followers: 6897
+    engagement: 522
+    commentsToLikes: 0.237464
     id: ckaoqwxc6ks4n0i78c0qzirbw
     verified: false
     hashtags: "#fridaywisdom, #haruharu, #journey, #supportthedoctors"
-  - username: "_elena0428_"
+  - username: "hyeggossi"
     fullname: >-
-      💜운동하는 엘💜
+      ᴊᴊɪɴsᴛᴀɢʀᴀᴍ___
+    bio: >-
+      - contact : dm or e-mail - iphone  - daily, cafe, beauty, fashion
     location: "South Korea"
-    followers: 4071
-    engagement: 2618
-    commentsToLikes: 0.050634
-    id: ck15uk0t7nk0v0i19vq2aqsq5
+    followers: 53317
+    engagement: 218
+    commentsToLikes: 0.026067
+    id: ck55ncv825xwr0i117er3etft
     verified: false
-    hashtags: "#glittermask, #tmi, #vegancosmetic, #lalarecipe"
+    hashtags: "#ck, #aestura, #lee, #410"
+  - username: "_inpink"
+    fullname: >-
+      다인
+    bio: >-
+      @_bluecoralreef
+    location: "South Korea"
+    followers: 118761
+    engagement: 280
+    commentsToLikes: 0.011808
+    id: ck0u1ociqxhv70i19am5x91dt
+    verified: false
+    hashtags: "#lgtonefree, #veganisthenewluxury, #veganism, #deardahlia"
   - username: "mirme_sudal"
     fullname: >-
-      미르메 장영근
+      미르메 장영근
+    bio: >-
+      mirme_sudal | 25.MAR.1998 #taekwondo 미르메 | @mirme_taekwondo #mirme 5th member
     location: "South Korea"
-    followers: 11348
-    engagement: 1851
-    commentsToLikes: 0.013570
+    followers: 10506
+    engagement: 756
+    commentsToLikes: 0.014257
     id: ck15q2fqd0rs40i19x7j3pyzd
     verified: false
-    hashtags: "#4tpfitness, #kpop, #yadah, #tutorial"
-  - username: "f1stfaloo"
+    hashtags: "#mma, #kickstagram, #running, #kickboxing"
+  - username: "bio_0hio"
     fullname: >-
-      !'  Panutchakorn
+      비오
+    bio: >-
+      내가 좋아하는 걸로 가득 채울래✨
     location: "South Korea"
-    followers: 43558
-    engagement: 253
-    commentsToLikes: 0.022173
-    id: ck6u0q3xxh54i0j71tnuowlt3
+    followers: 32218
+    engagement: 241
+    commentsToLikes: 0.017705
+    id: ck55o3m497kg10i11485qh7d7
     verified: false
-    hashtags: "#falooluvudon, #withgalaxy, #savechiangmai, #cookies"
-  - username: "nothing__a11"
+    hashtags: "#maxieyesofficial, #bnk, #dyson, #break"
+  - username: "2da5ni"
     fullname: >-
-      🧘🏻‍♂️ Yoga instructor ryt200
+      이다오니 ٩(•᎑•)✦✨
+    bio: >-
+      댕댕그라미🐶 @dd_grami 댕그라미 💍 @d_grami_ 세계여행✈️ 40개국 ing 🇰🇷🇺🇸🇨🇦🇬🇧🇩🇪🇳🇱🇬🇺🇪🇸🇧🇪🇦🇪🇦🇹🇨🇿🇭🇺🇫🇷🇮🇹🇹🇼🇭🇰🇲🇴🇯🇵🇨🇳🇸🇬🇲🇾🇹🇭🇱🇦🇻🇳🇲🇵🇷🇺🇵🇭🇳🇴🇸🇪🇩🇰🇫🇮🇹🇷🇪🇪🇲🇲🇲🇳🇵🇹🇲🇽🇨🇺🇻🇦 #나는부모님의자부심이다 #크리스찬
     location: "South Korea"
-    followers: 111698
-    engagement: 121
-    commentsToLikes: 0.023251
-    id: ck0w3zsfew36s0i192xlpgnwo
+    followers: 41849
+    engagement: 120
+    commentsToLikes: 0.029642
+    id: ck6uie0hxej9m0j71kfjk93ra
     verified: false
-    hashtags: "#dailylook, #latergram, #instadaily, #summernight"
-  - username: "raemi_lip"
+    hashtags: "#event, #dysondigitalslim, #hangten, #veganagain"
+  - username: "sisi_wonji"
     fullname: >-
-      래미 / RAEMI
+      Hasisi Park 🎗
+    bio: >-
+      A photographer @hasisipark_photo
     location: "South Korea"
-    followers: 187496
-    engagement: 384
-    commentsToLikes: 0.013968
-    id: ck0ttk92j33hk0i19x2b3hdei
+    followers: 151635
+    engagement: 346
+    commentsToLikes: 0.000230
+    id: ckf5ulf9rlbpw0j23jnm3xijq
     verified: false
-    hashtags: "#glowskin, #heralipsticks, #lipswatch, #foundationmakeup"
-  - username: "jaeyeong_choi_m"
+    hashtags: "#afewmonthsago, #home, #naukorea, #heartbonvie"
+  - username: "mong__bee"
     fullname: >-
-      미르메 주장 최재영
+      𝙢𝙤𝙣𝙜 𝙗𝙚𝙚 (달,애)
+    bio: >-
+      Don’t use my photo🚫
     location: "South Korea"
-    followers: 19313
-    engagement: 1137
-    commentsToLikes: 0.011619
-    id: ck0udexllj1gs0i190boml34j
+    followers: 70297
+    engagement: 289
+    commentsToLikes: 0.005074
+    id: ck15ry1xma9y30i19zwedbnfi
     verified: false
-    hashtags: "#taekwondotraining, #fithing, #new, #yadahcosmetics"
+    hashtags: "#strangerthingsxcasetify, #nike, #luckychouette, #esteelauder"
+  - username: "jyeonsogood"
+    fullname: >-
+      김지연
+    bio: >-
+      
+    location: "South Korea"
+    followers: 108140
+    engagement: 215
+    commentsToLikes: 0.009154
+    id: ck6u855hvphus0j71a9u0bvdb
+    verified: true
+    hashtags: "#wconceptkorea, #wdna, #savetheduck, #joorti"
+  - username: "morganalisonstewart"
+    fullname: >-
+      Morgan
+    bio: >-
+      Korean + American ✨ 550,000+ on The Beauty Breakdown Channel ✨Official Instagram ✨ moegeebear on Twitch ✨👇🎥 #thebeautybreakdown
+    location: "South Korea"
+    followers: 78072
+    engagement: 228
+    commentsToLikes: 0.014175
+    id: ck55j9taqwl0x0i11n9d4lden
+    verified: false
+    hashtags: "#kbeauty, #koreanskincare, #skincare, #koreanbeauty"
 ---

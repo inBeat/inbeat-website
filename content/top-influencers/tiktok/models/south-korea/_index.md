@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In South Korea In 2020
 description: >-
-  Find top models TikTok influencers in South Korea in 2020. Most popular hashtags: #fashion #model #duet #korean.
+  Find top models TikTok influencers in South Korea in 2020. Most popular hashtags: #fyp #model #korea #foryou.
 platform: TikTok
+hits: 26
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 26 TikTok influencers like this in South Korea for you to connect with.
 profiles:
+  - username: "iamjina_kim"
+    fullname: >-
+      Jina kim 김지나
+    bio: >-
+      MODEL
+    location: "South Korea"
+    followers: 420900
+    engagement: 647
+    commentsToLikes: 0.024393
+    id: ck8nbet0l9jop0j78u56elr2q
+    verified: true
+    hashtags: "#asian, #korea, #fyp, #korean"
+  - username: "jun.haem"
+    fullname: >-
+      정현 HYUN
+    bio: >-
+      2019 Mister international korea🇰🇷 fitness model DJ
+    location: "South Korea"
+    followers: 789400
+    engagement: 1199
+    commentsToLikes: 0.035546
+    id: ckbqloqlr6u6u0j23dirxgmzr
+    verified: true
+    hashtags: "#exercise, #fittok, #abs, #bts"
   - username: "hayoungbeen"
     fullname: >-
       Hayoung Been
+    bio: >-
+      Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
     location: "South Korea"
-    followers: 7721
-    engagement: 843
-    commentsToLikes: 0.215752
+    followers: 8658
+    engagement: 907
+    commentsToLikes: 0.130212
     id: ck9jzci2g84xk0j78b6giyzxt
     verified: false
-    hashtags: "#goodnight, #love, #loveislove, #dress"
-  - username: "stephany_official"
+    hashtags: "#singer, #girl, #dance, #youtuber"
+  - username: "evan185_"
     fullname: >-
-      💘김스테파니헤리💘
+      EVAN🧡
+    bio: >-
+      Korean model.🙌🏻🧡
     location: "South Korea"
-    followers: 1119824
-    engagement: 1037
-    commentsToLikes: 0.015006
-    id: ck9fpammx6ekr0j78zktn5aj7
-    verified: true
-    hashtags: "#sponsored, #waterbank, #wipeitdownchallenge, #wipeitdown"
+    followers: 134900
+    engagement: 1290
+    commentsToLikes: 0.032765
+    id: ckcofxaxn2z700j23dj5t0obl
+    verified: false
+    hashtags: "#model, #koreaman, #korea, #g9"
+  - username: "jack00426"
+    fullname: >-
+      jackson
+    bio: >-
+      황성현/ Jackson 🇰🇷/21 🇺🇸/19 model / hotelier 👫International couple💞
+    location: "South Korea"
+    followers: 34800
+    engagement: 1473
+    commentsToLikes: 0.032809
+    id: ckb18ycq1wxl30j23jrzlix6d
+    verified: false
+    hashtags: "#fyp, #bts, #dynamite, #duet"
+  - username: "itizwhvtitiz"
+    fullname: >-
+      역시는역시
+    bio: >-
+      KOREAN 🇰🇷 MODEL / DJ CONTACT DM 📩
+    location: "South Korea"
+    followers: 335100
+    engagement: 1391
+    commentsToLikes: 0.020362
+    id: ckbqnyoob8ojd0j23tx6qjyqy
+    verified: false
+    hashtags: "#krabbystep, #fyp, #trend, #pov"
+  - username: "nastya.jung"
+    fullname: >-
+      Nana
+    bio: >-
+      한국에 사는 나나에요 🌸 Russian model living in Korea Instagram:Nastya.jung
+    location: "South Korea"
+    followers: 127100
+    engagement: 617
+    commentsToLikes: 0.020821
+    id: ckb8ybc5edn270j233j1ywvbq
+    verified: false
+    hashtags: "#korea, #onemillionauditionkr, #foryou, #recomendation"
   - username: "ya.stacey"
     fullname: >-
       Stacey 🌻 스테이시
+    bio: >-
+      🇰🇷Korean Model🇰🇷 🐬 Capt. Levi wants to save the marine life 🐬 ↓ ↓ ↓ ↓ ↓
     location: "South Korea"
-    followers: 116747
-    engagement: 833
-    commentsToLikes: 0.019349
+    followers: 148700
+    engagement: 1019
+    commentsToLikes: 0.030474
     id: ck9fme4ebt1ev0j78nqod1xir
     verified: false
-    hashtags: "#transition, #animegirl, #sayso, #wipe"
+    hashtags: "#haikyuu, #fyp, #weeb, #anime"
+  - username: "ooohrena"
+    fullname: >-
+      Renata Uchôa
+    bio: >-
+      Model Seoul, Korea. From 🇧🇷 Brazil
+    location: "South Korea"
+    followers: 119600
+    engagement: 1002
+    commentsToLikes: 0.013603
+    id: ckbf9cjvx06xs0j234b4nc614
+    verified: false
+    hashtags: "#model, #brazilian, #korea, #dueto"
   - username: "itsleonardlim"
     fullname: >-
       Leonard Lim
+    bio: >-
+      Currently in: Seoul Model, Former Athlete, and Entrepreneur
     location: "South Korea"
     followers: 4486
     engagement: 674
     commentsToLikes: 0.022460
     id: ck9fq4cjqaiev0j78g02wzvah
     verified: false
-    hashtags: "#jerking, #everydayscience, #accentcheck, #mensfashion"
-  - username: "jiejie_seoul"
-    fullname: >-
-      首尔姐姐
-    location: "South Korea"
-    followers: 64353
-    engagement: 463
-    commentsToLikes: 0.026195
-    id: ck920job4ehg80j7839rxyklr
-    verified: false
-    hashtags: "#makeup, #foryourpage, #tiktokhair, #foruyou"
-  - username: "sanga_yonini"
-    fullname: >-
-      Sang-A
-    location: "South Korea"
-    followers: 478801
-    engagement: 588
-    commentsToLikes: 0.012104
-    id: ckaidb2wmntoq0i78ud359zp1
-    verified: false
-    hashtags: "#splits, #feelme, #running, #collaboration"
-  - username: "dewsisters"
-    fullname: >-
-      Dewsisters
-    location: "South Korea"
-    followers: 3101833
-    engagement: 1512
-    commentsToLikes: 0.017209
-    id: ck9euyutsfrzh0j78lcrsmfd1
-    verified: true
-    hashtags: "#fashion, #makeup, #korea, #diet"
-  - username: "harry_kor"
-    fullname: >-
-      이형주
-    location: "South Korea"
-    followers: 1065840
-    engagement: 1036
-    commentsToLikes: 0.013639
-    id: ck7zohwmyk6xj0j788mgm3aqw
-    verified: true
-    hashtags: "#bts, #chalange, #anysongchallenge, #ad"
-  - username: "sweetaj_"
-    fullname: >-
-      앶온니
-    location: "South Korea"
-    followers: 10850
-    engagement: 398
-    commentsToLikes: 0.024076
-    id: ckal6detzaecv0i78xu9dzwhy
-    verified: false
-    hashtags: "#cu, #koreanmodel, #model, #beautymodel"
-  - username: "korean.papa"
-    fullname: >-
-      박일서 - korean model
-    location: "South Korea"
-    followers: 240964
-    engagement: 583
-    commentsToLikes: 0.006037
-    id: ck9f2g6zqd2dt0j782u2w0l22
-    verified: false
-    hashtags: "#korean, #runple, #guy, #go"
+    hashtags: "#foryou, #justforyou, #fyp, #foryoupage"
 ---

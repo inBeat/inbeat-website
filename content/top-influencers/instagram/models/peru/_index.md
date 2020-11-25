@@ -1,102 +1,113 @@
 ---
 title: Top 10 Models Instagram Influencers In Peru In 2020
 description: >-
-  Find top models Instagram influencers in Peru in 2020. Most popular hashtags: #peruvian #libertad #bikini #tbt.
+  Find top models Instagram influencers in Peru in 2020. Most popular hashtags: #model #peru #photoshoot.
 platform: Instagram
+hits: 105
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 105 Instagram influencers like this in Peru for you to work with.
 profiles:
-  - username: "brisabraunl"
+  - username: "luana_huerta"
     fullname: >-
-      Brisa Braun Lara 🌞
+      Luana
+    bio: >-
+      📍Lima,Perú 〰️model of the year Perú 2018
     location: "Peru"
-    followers: 5563
-    engagement: 1590
-    commentsToLikes: 0.051986
-    id: ck6ti4oe401570j71jif3dfqp
+    followers: 12092
+    engagement: 868
+    commentsToLikes: 0.045006
+    id: ck0vyn0o54t4k0i19cqzthv99
     verified: false
-    hashtags: "#feelinggood, #tranquilidad, #amor, #silencio"
+    hashtags: ""
+  - username: "claudiamezarosas"
+    fullname: >-
+      CLAUDIA MEZA
+    bio: >-
+      Model Lifestyle Founder @morenabycm 📍Perú Colaboraciones al DM 📩
+    location: "Peru"
+    followers: 23213
+    engagement: 237
+    commentsToLikes: 0.328876
+    id: ck134l3hqwybc0i19te2gj1v2
+    verified: false
+    hashtags: "#publicidad, #peru, #model, #peruviangirl"
   - username: "alinavargasoficial"
     fullname: >-
       Alina Vargas
+    bio: >-
+      🎤Cantante 💁modelo 🎬🎥actriz. Singer, model and actress. @AlinaVargas1 #AlinaVargas. 📧Alinavargasactrizcantante@gmail.com
     location: "Peru"
-    followers: 55530
-    engagement: 145
-    commentsToLikes: 0.046003
+    followers: 55919
+    engagement: 142
+    commentsToLikes: 0.049595
     id: ck5hrz88ovqg20i117e157vdq
     verified: false
-    hashtags: "#hermanas, #dioslosbendiga, #negrura, #vida"
-  - username: "stephanniecarhuas"
+    hashtags: "#bendiciones, #amor, #cumplea, #alinavargas"
+  - username: "mollytuesta"
     fullname: >-
-      Stephannie Carhuas
+      Molly Tuesta
+    bio: >-
+      ⚡️CEO of @mtgmanagement @mtgmodelmaker ⚡️Designer/Brand Manager Elite Model Perú Peru's next top model We are magic ⚡️
     location: "Peru"
-    followers: 6760
-    engagement: 858
-    commentsToLikes: 0.033140
-    id: ck6ti4phc016g0j71k9bcpkg0
+    followers: 30903
+    engagement: 111
+    commentsToLikes: 0.101598
+    id: ck6ucv01hhmpi0j71kbwmwoyg
     verified: false
-    hashtags: ""
-  - username: "janetleyvany"
-    fullname: >-
-      Janet Leyva
-    location: "Peru"
-    followers: 16772
-    engagement: 564
-    commentsToLikes: 0.048349
-    id: ck5zxhxk481jx0i14zxx3e88l
-    verified: false
-    hashtags: "#vibes, #peruvian, #enjoylife, #throwback"
-  - username: "jesusbermudezz"
-    fullname: >-
-      Jesus Bermudez
-    location: "Peru"
-    followers: 47713
-    engagement: 504
-    commentsToLikes: 0.009534
-    id: ck9wggmlutbyf0j78hec3xqzk
-    verified: false
-    hashtags: "#casa, #hermosa, #billar, #playita"
-  - username: "x_haro_x"
-    fullname: >-
-      haro - kawaii fashion
-    location: "Peru"
-    followers: 21034
-    engagement: 222
-    commentsToLikes: 0.049254
-    id: ck8t5fys2a1mk0j782fr55o4r
-    verified: false
-    hashtags: "#spacebuns, #aliexpress, #piura, #innocentworld"
+    hashtags: "#nozoologicos, #goodwillhunting, #golden, #sunlight"
   - username: "dianasilvadelgado"
     fullname: >-
       D I A N A   S D
+    bio: >-
+      #MODEL | PERUVIAN 🇵🇪🔥 Don’t be shy, follow me ✨ 💄 Tips y tutoriales de maquillaje y modelaje 📸 🌺 Devota de Morfeo y de viajar a veces 🌴
     location: "Peru"
-    followers: 6536
-    engagement: 505
-    commentsToLikes: 0.052893
+    followers: 6738
+    engagement: 361
+    commentsToLikes: 0.120241
     id: ck134l5t5wyp30i19bof7s213
     verified: false
-    hashtags: "#cappadocia, #callmese, #quarantinelife, #turkey"
+    hashtags: "#tbt, #tb, #model, #tutorial"
+  - username: "bearodriguez2"
+    fullname: >-
+      Beatriz Rodríguez Aldaz
+    bio: >-
+      • Enjoy the little things🌻 • Lima-Perú | Marketing | 20 • Finalista en Model of the Year Perú ‘17
+    location: "Peru"
+    followers: 14475
+    engagement: 350
+    commentsToLikes: 0.054178
+    id: ck6u90ar3uqe00j719lzqtvbh
+    verified: false
+    hashtags: "#merinorenunciaya, #merinoasesino, #policiaasesina, #rutinaidealnivea"
   - username: "romilozano"
     fullname: >-
       Romina Lozano
+    bio: >-
+      MISS PERÚ UNIVERSO 2018 Fox Sports PE 2018 Elite Model Look 2016 📍 Lima, Perú
     location: "Peru"
-    followers: 361031
-    engagement: 310
-    commentsToLikes: 0.008481
+    followers: 348246
+    engagement: 271
+    commentsToLikes: 0.009588
     id: ck5q3jtc4l2rq0i1108tocg6e
     verified: true
-    hashtags: "#veaunasonrisaenv, #seeasmilesendasmile, #tb, #fintsperu"
-  - username: "cossmicgyal"
+    hashtags: "#beingstronger, #nohayexcusa, #publicidad, #veaunasonrisaenv"
+  - username: "janetleyvany"
     fullname: >-
-      𝕹𝖆𝖎𝖑𝖘, 𝕭𝖗𝖔𝖜𝖘 & 𝕸𝖆𝖐𝖊𝖚𝖕 247 🌹
+      Janet Leyva
+    bio: >-
+      From Perú 🇵🇪 / Currently in Lima 📍 Winner @wbotopmodel 2018 🏆🌏 Model Coach⚡️ 🇪🇬 🇨🇳 🇧🇷 🇺🇸 🇪🇸 Agency: @rdmodelosagencia
     location: "Peru"
-    followers: 17726
-    engagement: 293
-    commentsToLikes: 0.026430
-    id: ck5hry5mxvohr0i110a2t4tda
+    followers: 16870
+    engagement: 391
+    commentsToLikes: 0.064381
+    id: ck5zxhxk481jx0i14zxx3e88l
     verified: false
-    hashtags: "#goteo, #cossmicnailsgang, #yourfavouritenaildresser, #fullmoonvibes"
+    hashtags: "#quotes, #style, #latina, #yoelijo"
   - username: "angelicanicole157"
     fullname: >-
       Angelica Vargas Vasquez
+    bio: >-
+      - Finalista de model of the year 2017 @icebergmodelos - Estudiante de Medicina Humana ❤️ - Lima 🇵🇪 Dgo🇲🇽
     location: "Peru"
     followers: 4076
     engagement: 1313
@@ -104,4 +115,16 @@ profiles:
     id: ck0vymv764s8m0i19nhv07hv8
     verified: false
     hashtags: ""
+  - username: "corsettbabe"
+    fullname: >-
+      🌈Adria Morales 🌙
+    bio: >-
+      🇵🇪’18’🇵🇦 Model / Traveller🚀 🥀tiktok: corsetbabe (+70k☄️) Quieres un corset? ⬇️⬇️⬇️❤️
+    location: "Peru"
+    followers: 14746
+    engagement: 491
+    commentsToLikes: 0.023745
+    id: ck6u7felbl6x70j715wc2n026
+    verified: false
+    hashtags: "#photoshoot, #modellife, #photography, #corona"
 ---

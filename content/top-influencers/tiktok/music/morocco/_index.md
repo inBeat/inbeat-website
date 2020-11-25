@@ -1,97 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Morocco In 2020
 description: >-
-  Find top music TikTok influencers in Morocco in 2020. Most popular hashtags: #tiktok #music #algeria #india.
+  Find top music TikTok influencers in Morocco in 2020. Most popular hashtags: #music #maroc #tiktok #morocco.
 platform: TikTok
+hits: 19
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database has 19 TikTok influencers like this in Morocco for you to contact.
 profiles:
-  - username: "noya387"
+  - username: "hitradio.officiel"
     fullname: >-
-      Nø ya
+      HIT RADIO
+    bio: >-
+      1ère radio musicale au Maroc 🎶📻
     location: "Morocco"
-    followers: 67898
-    engagement: 1234
-    commentsToLikes: 0.031389
-    id: ck9evgpmxibnj0j78fslmp32b
+    followers: 48700
+    engagement: 431
+    commentsToLikes: 0.010278
+    id: ckbao1xocewj00j23tvgw4lwb
+    verified: true
+    hashtags: "#yassinejarram, #autoportrait, #hitradio, #bouchra"
+  - username: "moroccanshow"
+    fullname: >-
+      Moroccan Show
+    bio: >-
+      
+    location: "Morocco"
+    followers: 8925
+    engagement: 1024
+    commentsToLikes: 0.043828
+    id: ckb9lpstfeemq0j23qgzrwa76
     verified: false
-    hashtags: "#posechallenge, #morroco"
+    hashtags: "#marrakech, #maroc, #agadir, #fes"
+  - username: "lemhaddebnabil"
+    fullname: >-
+      Nabil Lemhaddeb 
+    bio: >-
+      Artist singer 🇲🇦🎶 🎤 Objectif 10k 🙏🏼❤️
+    location: "Morocco"
+    followers: 7557
+    engagement: 655
+    commentsToLikes: 0.048478
+    id: ckb9emnb52co20j23972briff
+    verified: false
+    hashtags: "#music, #challenge, #benguerir, #newsong"
   - username: "zineb_ess0"
     fullname: >-
       benizess
+    bio: >-
+      morocaine 🍒 insta : zei_essalmi
     location: "Morocco"
-    followers: 72738
-    engagement: 735
-    commentsToLikes: 0.033175
+    followers: 72100
+    engagement: 456
+    commentsToLikes: 0.033180
     id: ck9doy985tvtr0j782kqiuppa
     verified: false
-    hashtags: "#alger, #foyoupage, #tikttokers, #tunes"
-  - username: "patron02"
+    hashtags: "#maroc, #algerien, #algerie, #tik"
+  - username: "tareq.zayn"
     fullname: >-
-      PATRON 🥁🎻
+      👑 Ţhę ĶįñĞ 👑
+    bio: >-
+      📍City : Casablanca 📍 Instagram : Tareq_triller1 😍 41K 😍 ❤ Follow Me Please ❤
     location: "Morocco"
-    followers: 148153
-    engagement: 918
-    commentsToLikes: 0.007306
-    id: ck9enu0a0ksb30j78svtr2zwn
+    followers: 15400
+    engagement: 618
+    commentsToLikes: 0.035071
+    id: ckc7o3rh7u34m0j23j3ojmzhv
     verified: false
-    hashtags: "#musically, #molat"
+    hashtags: "#love, #italie, #tiktokarab, #music"
+  - username: "user34542583"
+    fullname: >-
+      user345425
+    bio: >-
+      
+    location: "Morocco"
+    followers: 16100
+    engagement: 1225
+    commentsToLikes: 0.004363
+    id: cka63te3t5wkh0i78nk6ofq67
+    verified: false
+    hashtags: "#gateau, #tiktokhot, #astuce, #kitchen"
+  - username: "nouhailaelkalai_official"
+    fullname: >-
+      Nouhaila Elkalai
+    bio: >-
+      Moroccan singer🎤 Fez , Morocco🇲🇦 20 yo🌚 IG : @Nouhailaelkalai_official ✅
+    location: "Morocco"
+    followers: 56900
+    engagement: 953
+    commentsToLikes: 0.010406
+    id: ckb9lpo1redw40j231dmvlnbu
+    verified: true
+    hashtags: "#arab, #fyp, #foryou, #foryoupage"
   - username: "rif9tv"
     fullname: >-
       RIF9 TV
+    bio: >-
+      ادعموني بالاشتراك في قناتي على اليوتيوب وشكراً لكم subscribing YouTube 👇
     location: "Morocco"
-    followers: 9862
-    engagement: 239
-    commentsToLikes: 0.016989
+    followers: 10900
+    engagement: 260
+    commentsToLikes: 0.010589
     id: cka9lig9829w00i78kt84g2yz
     verified: false
-    hashtags: "#642, #daym, #izran, #1888"
+    hashtags: "#alhoceima, #musicrif, #nador, #subscribe"
   - username: "sokolova.beauty.bar"
     fullname: >-
       sokolova.beauty.bar
+    bio: >-
+      💚 Cils / Brows/ Nail art studio 🇷🇺 Maîtres russes 🇲🇦 Morocco/Casablanca
     location: "Morocco"
-    followers: 23386
-    engagement: 205
-    commentsToLikes: 0.008325
+    followers: 22500
+    engagement: 286
+    commentsToLikes: 0.007596
     id: ck83z9rsryz4o0j78ooek5ayq
     verified: false
-    hashtags: "#girls, #india, #girl, #trending"
-  - username: "hasnaouazzanichahdi"
+    hashtags: "#makeup, #instagood, #hudabeauty, #cilsacils"
+  - username: "marwaa_official"
     fullname: >-
-      hasna ouazzani chahd
+      😈 شّيْطانة 😈
+    bio: >-
+      мαĸє єvєяyσиє fαℓℓ ɪи ℓσvє ωɪτн yσυ αиɒ ɒσиτ вє fσя єvєяyσиє 🤍 🇱🇾🇲🇦
     location: "Morocco"
-    followers: 10490
-    engagement: 314
-    commentsToLikes: 0.037889
-    id: cka0hj0zc9e2s0i784o7ksu34
+    followers: 285300
+    engagement: 1199
+    commentsToLikes: 0.020825
+    id: ck9enu1b0ksl10j7848impub1
     verified: false
-    hashtags: "#hajahamdaouia, #aicha, #ramadanvibes, #examen"
-  - username: "wissalandissam"
-    fullname: >-
-      les karmis
-    location: "Morocco"
-    followers: 42341
-    engagement: 772
-    commentsToLikes: 0.031023
-    id: cka0s3kbijq0z0i786edf5mmp
-    verified: false
-    hashtags: "#moroccan, #tutoriel, #lacacasadepapel, #tokyo"
-  - username: "aminelahziz"
-    fullname: >-
-      Aminelahziz
-    location: "Morocco"
-    followers: 12506
-    engagement: 570
-    commentsToLikes: 0.028510
-    id: ck9shsm74v6s40j783xnfahv8
-    verified: false
-    hashtags: "#haha, #like4like, #like, #bollywood"
-  - username: "statut_330"
-    fullname: >-
-      🅢🅣🅐🅣🅤🅣_➌➌⓿
-    location: "Morocco"
-    followers: 38048
-    engagement: 1061
-    commentsToLikes: 0.007418
-    id: ck9ejl30r37380j78hvamcqz5
-    verified: false
-    hashtags: "#cazablanka, #tlemcen, #tikt, #shamaxi"
+    hashtags: "#alg, #marooco, #maroc, #excelochallenge"
 ---

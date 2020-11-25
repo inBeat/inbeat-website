@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In New York In 2020
 description: >-
-  Find top photographers Instagram influencers in New York in 2020. Most popular hashtags: # #fivesixmag #7bnwcreation #blackmoms.
+  Find top photographers Instagram influencers in New York in 2020. Most popular hashtags: #naturalhair #littlebootiesmatter #melanin.
 platform: Instagram
+hits: 735
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 735 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "zaymaverick"
     fullname: >-
       zay maverick
+    bio: >-
+      God first. Film photographer. New York
     location: "United States"
-    followers: 19716
-    engagement: 1102
-    commentsToLikes: 0.084737
+    followers: 20944
+    engagement: 1259
+    commentsToLikes: 0.072351
     id: ck55lptus24n20i11fbbylx4p
     verified: false
-    hashtags: ""
+    hashtags: "#blacklivesmatter"
+  - username: "briangilbreath"
+    fullname: >-
+      Brian Gilbreath
+    bio: >-
+      ＳＴＲＥＥＴ ＰＨＯＴＯＧＲＡＰＨＥＲ ＮＥＷ ＹＯＲＫ ＣＩＴＹ
+    location: "United States"
+    followers: 6406
+    engagement: 681
+    commentsToLikes: 0.030513
+    id: ckap76u58iv9y0i7841n076q7
+    verified: false
+    hashtags: "#archive, #newyork, #streetphotography, #archivedive"
+  - username: "shesjac"
+    fullname: >-
+      Jaclyn
+    bio: >-
+      Photographer | New York
+    location: "United States"
+    followers: 29193
+    engagement: 201
+    commentsToLikes: 0.026949
+    id: ckf5soe0tfy6k0j233soq0nrk
+    verified: false
+    hashtags: "#tattedgirls, #ink, #challangeaccepted, #womansupportingwoman"
   - username: "brandonwoelfel"
     fullname: >-
       Brandon Woelfel
+    bio: >-
+      Photographer, New York 🎬 Personal Account- @bran.wolf 💫 Twitter/Snapchat/Youtube- Brandonwoelfel 🎨 My Photo Book Ultraviolet⇣
     location: "United States"
-    followers: 3084210
-    engagement: 374
-    commentsToLikes: 0.017096
+    followers: 2948865
+    engagement: 305
+    commentsToLikes: 0.005057
     id: ck0txiq5jjb300i19727ky25i
     verified: true
-    hashtags: "#nikkorz, #sponsored, #adobepartner, #photoshoponipad"
-  - username: "underground_nyc"
-    fullname: >-
-      Aaron
-    location: "United States"
-    followers: 278694
-    engagement: 164
-    commentsToLikes: 0.049611
-    id: ck0u0i7rgtsqv0i19romysrp5
-    verified: true
-    hashtags: "#quarantinevibes, #naturallight, #nytola, #earthday"
+    hashtags: "#adobemax, #adobepartner"
   - username: "patrickklinc"
     fullname: >-
       Patrick Klinc
+    bio: >-
+      Photographer New York
     location: "United States"
-    followers: 6772
-    engagement: 2134
-    commentsToLikes: 0.005863
+    followers: 6705
+    engagement: 2342
+    commentsToLikes: 0.010615
     id: ck5c62ik44l0p0i111e38su1i
     verified: false
-    hashtags: "#rosarioislands, #onlyinmymind, #newyearnewme, #blessed"
-  - username: "hughmorrisphotography"
-    fullname: >-
-      ¿Hugh Shot You? 📸
-    location: "United States"
-    followers: 10880
-    engagement: 719
-    commentsToLikes: 0.109710
-    id: ck5cjdq5nuilw0i116svdtbda
-    verified: false
-    hashtags: "#carnivaldm, #guyanacarnival, #fortheculture, #blackmodels"
+    hashtags: "#29palmsselfie, #thegreatestofalltime, #engaged"
   - username: "amardaved"
     fullname: >-
-      Amar Daved
+      A M A R
+    bio: >-
+      🇬🇧 Photographer New York - London - Los Angeles
     location: "United States"
-    followers: 9997
-    engagement: 498
-    commentsToLikes: 0.024437
+    followers: 10447
+    engagement: 456
+    commentsToLikes: 0.025904
     id: ck0tyvkero8o20i193td9jd8v
     verified: false
-    hashtags: "#outtake"
+    hashtags: ""
+  - username: "underground_nyc"
+    fullname: >-
+      Aaron ✊🏾
+    bio: >-
+      Photographer • New York To book your next photo shoot! ↙️
+    location: "United States"
+    followers: 276429
+    engagement: 162
+    commentsToLikes: 0.019146
+    id: ck0u0i7rgtsqv0i19romysrp5
+    verified: true
+    hashtags: "#manualfocusboyz"
   - username: "joethommas"
     fullname: >-
       Joe Thomas
+    bio: >-
+      Travel + Architecture Photographer 𖤥 New York ✉︎ joethomasphoto@gmail.com ↡ Prints
     location: "United States"
-    followers: 117223
-    engagement: 863
-    commentsToLikes: 0.023038
+    followers: 125480
+    engagement: 757
+    commentsToLikes: 0.021791
     id: ck0tul0u17n2f0i193mgf2u2u
     verified: false
-    hashtags: "#streeteasyfinds, #lightroompresets, #presets, #esbvip"
-  - username: "cameronleephan"
+    hashtags: "#presets, #esbvip, #lightroompresets"
+  - username: "dinokuznik"
     fullname: >-
-      Cameron Lee Phan
+      Dino Kužnik
+    bio: >-
+      Photographer. New York, California & Beyond. 〰️ work -> hello@dinokuznik.com scrapbook -> @allthe0thershit 〰️
     location: "United States"
-    followers: 13092
-    engagement: 555
-    commentsToLikes: 0.021952
-    id: ck0ucj9hth2d10i19oqtt7hh4
+    followers: 69372
+    engagement: 975
+    commentsToLikes: 0.013722
+    id: ck0ttv7bh4gd30i19ne0epa3a
     verified: false
-    hashtags: "#portrait"
-  - username: "lumino"
-    fullname: >-
-      ERIC GIOVON
-    location: "United States"
-    followers: 74772
-    engagement: 591
-    commentsToLikes: 0.029018
-    id: ck5ho8fb7p4ec0i11ewhd7vqs
-    verified: false
-    hashtags: "#boxspeedfeature, #minimalmag, #indiependentmag, #zeiss"
-  - username: "julespicturepalace"
-    fullname: >-
-      Julian Lennon
-    location: "United States"
-    followers: 225929
-    engagement: 163
-    commentsToLikes: 0.038412
-    id: ck9h9noam97pn0j78q4y83rii
-    verified: true
     hashtags: ""
+  - username: "hughmorrisphotography"
+    fullname: >-
+      ¿Hugh Shot You? 📸
+    bio: >-
+      Photographer | New York City | Brooklyn Lifestyle | Beauty | Lingerie Click link below to Book your “Dear Mom” portrait session:
+    location: "United States"
+    followers: 10887
+    engagement: 682
+    commentsToLikes: 0.120743
+    id: ck5cjdq5nuilw0i116svdtbda
+    verified: false
+    hashtags: "#naturalbodies, #melanin, #mocha, #naturalhair"
 ---

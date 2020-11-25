@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Colombia In 2020
 description: >-
-  Find top bakers Instagram influencers in Colombia in 2020. Most popular hashtags: #bakery #medellin #cuarentena #panaderia.
+  Find top bakers Instagram influencers in Colombia in 2020. Most popular hashtags: #bikersofinstagram #bikelife #bmwmotorrad #bikers.
 platform: Instagram
+hits: 25
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 25 Instagram influencers like this in Colombia for you to contact.
 profiles:
+  - username: "michellebessudo"
+    fullname: >-
+      Michelle Bessudo
+    bio: >-
+      Delicious easy recipes seeped with history | Historian turned pastry chef, turned blogger 👩‍🏫➡️👩‍🍳 Check out my latest blog post! ⬇️
+    location: "Colombia"
+    followers: 12624
+    engagement: 313
+    commentsToLikes: 0.065638
+    id: ck14l37clsmay0i19psasn317
+    verified: false
+    hashtags: "#thebakefeed, #bakestagram, #kitchn, #f52grams"
+  - username: "moirasigal"
+    fullname: >-
+      Moira Sigal
+    bio: >-
+      Chef, Publicitaria y emprendedora. Creadora de la Plataforma Online de pastelería emprendedora. Creadora del Método de 5 pasos de Moira Sigal:
+    location: "Colombia"
+    followers: 82013
+    engagement: 67
+    commentsToLikes: 0.063599
+    id: ck5cjj9cduu4g0i11qo8w8ccn
+    verified: false
+    hashtags: "#cocina, #pasteleria, #mesadulce, #vivideloqueamas"
   - username: "suevygramer"
     fullname: >-
-      Anabelle sᴜᴇᴠʏ
+      sᴜᴇᴠʏ
+    bio: >-
+      🏃🏼‍♀️Nike Athlete 🥑No meat athlete 🌱Plant mami @shelfiepot 🐱Cat mom AF @bakerandblair
     location: "Colombia"
-    followers: 59927
-    engagement: 140
-    commentsToLikes: 0.017490
+    followers: 58712
+    engagement: 132
+    commentsToLikes: 0.013457
     id: ck6u879q9pudr0j71zonz7f7s
     verified: false
-    hashtags: "#happybirthday, #teamo, #warmup, #yomequedoencasa"
+    hashtags: "#nikerunning, #anabellevisuetti, #runner, #indoorjungle"
+  - username: "francesca.calero"
+    fullname: >-
+      Francesca Calero Mendoza
+    bio: >-
+      Por aquí un poquito de mi vida 💛✨ @legare_bakery 👣Caleña en Bogotá
+    location: "Colombia"
+    followers: 22247
+    engagement: 224
+    commentsToLikes: 0.046476
+    id: ck6uhg7xs8y1r0j716vihkmsb
+    verified: false
+    hashtags: "#girlputyourrecordson, #girlputyourrecordsonchallenge, #reels, #publ"
   - username: "conscienteycongusto"
     fullname: >-
-      Odio
+      Alejandra Márquez | Medellín
+    bio: >-
+      ¡Bienvenido! 🍞@ccg.bakery ⬇️Blog y Canal de YouTube
     location: "Colombia"
-    followers: 45146
-    engagement: 250
-    commentsToLikes: 0.040428
+    followers: 50464
+    engagement: 247
+    commentsToLikes: 0.028074
     id: ck5bwvvyemimi0i11knwue5mn
     verified: false
-    hashtags: "#ccgpancakes, #ccgwaffles, #ccgarepas, #ccghummus"
+    hashtags: "#conscienteycongusto, #ccgsalty, #ccgsweet, #ccgvegano"
+  - username: "angelvargass"
+    fullname: >-
+      Angela Vargas 
+    bio: >-
+      🔸 COLOMBIANA 📍🇨🇴 🔸 BMW🔥S1000RR La Barbie
+    location: "Colombia"
+    followers: 126478
+    engagement: 305
+    commentsToLikes: 0.008111
+    id: ck6u6go18fhot0j71pwp0lkn0
+    verified: false
+    hashtags: "#s1000rr, #s1000rriders, #bikergirl, #amazing"
   - username: "mayitarojasb"
     fullname: >-
       Nini Mayerly
+    bio: >-
+      #ciclistamtb🚴🏻‍♀️... 👩🏻‍💻Ingeniera Mercados|Esp.Finanzas Marketing Digital|CM📲 Amor🌟Sueños🌟Fe Cree que es posible y sucederá!🧸 #mtbcolombia #bikegirl
     location: "Colombia"
-    followers: 17634
-    engagement: 500
-    commentsToLikes: 0.026603
+    followers: 17293
+    engagement: 352
+    commentsToLikes: 0.017241
     id: ck8sx53l0g6xh0j78mu15ib2a
     verified: false
-    hashtags: "#tunja, #mecuidoytecuido, #throwbackpic, #medellin"
-  - username: "johamendozar"
+    hashtags: "#mayitaenbici, #mtbphotos, #cyclingphotos, #cyclinglife"
+  - username: "cam_daza"
     fullname: >-
-      Joha Mendoza  🏍️ 🚀
+      Camilo Daza
+    bio: >-
+      Contacto comercial: ComercialCamDaza@gmail.com
     location: "Colombia"
-    followers: 49646
-    engagement: 442
-    commentsToLikes: 0.041631
-    id: ck6u3r9l9zf4s0j716f5xrzsg
+    followers: 34963
+    engagement: 383
+    commentsToLikes: 0.107338
+    id: ckap0l9poqsy40i78ipns054m
     verified: false
-    hashtags: "#freedom, #husqvarna, #scrambler, #barcelona"
-  - username: "kdekamilo"
+    hashtags: "#fazer600, #bike, #superbike, #biker"
+  - username: "erickenmoto"
     fullname: >-
-      🅺 🅳🅴 🅺🅰🅼🅸🅻🅾
+      ErickEnMoto
+    bio: >-
+      #ErickEnMoto 🇨🇴 Colombia, el único riesgo que tendrás, será querer quedarte. @heidenaucolombia @lamotoreria @djistorecolombia @n2suspensionwork
     location: "Colombia"
-    followers: 118471
-    engagement: 431
-    commentsToLikes: 0.013778
-    id: ck6ub4ho47et20j71gn0klo7z
+    followers: 12452
+    engagement: 851
+    commentsToLikes: 0.023337
+    id: ck6ufd1mzwbjh0j714psmb6l7
     verified: false
-    hashtags: "#fenavi, #revista, #colombia, #bakery"
-  - username: "willyvisuals"
+    hashtags: "#dualsportlife, #offroad, #erickenmoto, #motorcycle"
+  - username: "patricioescobar"
     fullname: >-
-      Wɪʟʟʏ ᴇʟɪᴀs ✞ Guatemala
+      Patricio Escobar
+    bio: >-
+      Guide n Adventure 🥈2nd place EWS2 2018 Master 🥇2017 Enduro Nal Champ Master 🏅15x Trials Nal Champion Fisherman🐟
     location: "Colombia"
-    followers: 10771
-    engagement: 650
-    commentsToLikes: 0.038479
-    id: ck15t0n50fr2o0i194m6ol8l6
+    followers: 7704
+    engagement: 681
+    commentsToLikes: 0.043675
+    id: ck5ciuce8tdzt0i11piar588t
     verified: false
-    hashtags: "#sonyportraits, #chilerograf, #medellin, #visitguatemala"
-  - username: "manuela.villada21"
-    fullname: >-
-      Manuela Villada
-    location: "Colombia"
-    followers: 5850
-    engagement: 1786
-    commentsToLikes: 0.057766
-    id: ck9hbib9kgyfv0j78wiqqsikx
-    verified: false
-    hashtags: "#plant, #cartoons, #alien, #inktoberweek19"
-  - username: "lucerovilchezcocina"
-    fullname: >-
-      Lucero Vilchez
-    location: "Colombia"
-    followers: 58107
-    engagement: 180
-    commentsToLikes: 0.115615
-    id: ck5q9f5usat9h0i11iui2hp3s
-    verified: false
-    hashtags: "#chicharr, #amococinar, #cocinacaracol, #bread"
-  - username: "danielfernandez18"
-    fullname: >-
-      danielfernandez18
-    location: "Colombia"
-    followers: 45108
-    engagement: 251
-    commentsToLikes: 0.023136
-    id: ck15qiyzn32nx0i19nokt3ihs
-    verified: false
-    hashtags: "#lubricantesparamotos, #detourcolombia, #motorcyclelife, #bikeporn"
-  - username: "juan_._ph"
-    fullname: >-
-      🔥J U A  N - P😍
-    location: "Colombia"
-    followers: 15520
-    engagement: 395
-    commentsToLikes: 0.008217
-    id: ck15s1pvhasp30i19thj4zmue
-    verified: false
-    hashtags: "#458spider, #fordcolombia, #ferraribogota, #400km"
+    hashtags: "#bikersofinstagram, #fuerzapatricio, #bikeride, #tbt"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Soccer-Players TikTok Influencers In United States In 2020
 description: >-
-  Find top soccer-players TikTok influencers in United States in 2020. Most popular hashtags: #soccer #soccerplayer #football #soccerskills.
+  Find top soccer-players TikTok influencers in United States in 2020. Most popular hashtags: #soccerplayer #soccer #soccergirl #fyp.
 platform: TikTok
+hits: 59
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 59 TikTok influencers like this in United States for you to work with.
 profiles:
+  - username: "ysl_gabe"
+    fullname: >-
+      Gabe Verona
+    bio: >-
+      Texas:) Soccer player ❤️snap: gabe.ellis❤️
+    location: "United States"
+    followers: 82100
+    engagement: 1497
+    commentsToLikes: 0.047104
+    id: ck910zqh8juud0j78ky6iez9g
+    verified: false
+    hashtags: "#football, #fyp, #greenscreen, #duet"
+  - username: "brittany1wilson"
+    fullname: >-
+      Brittany Wilson
+    bio: >-
+      Professional Soccer Player, Amateur TikTok Creator DM me on Insta
+    location: "United States"
+    followers: 102500
+    engagement: 1992
+    commentsToLikes: 0.015523
+    id: ckbrg8xwnrj0o0j23242sy8u2
+    verified: false
+    hashtags: "#nwsl, #studentathlete, #soccergirl, #soccer"
+  - username: "tanner.myers_"
+    fullname: >-
+      Tanner Myers
+    bio: >-
+      soccer player 👻barfallamue 📷tanner.myers_
+    location: "United States"
+    followers: 26300
+    engagement: 2157
+    commentsToLikes: 0.009524
+    id: ckcvjvld2xgip0j239ahpwdjt
+    verified: false
+    hashtags: "#foryoupage, #fyp, #foryou, #quickrecipes"
   - username: "wags_14"
     fullname: >-
       MattyWags
+    bio: >-
+      a soccer player who just wants good content. Venmo: Matthew-Wagoner-13
     location: "United States"
-    followers: 249256
-    engagement: 1417
-    commentsToLikes: 0.025311
+    followers: 243100
+    engagement: 1408
+    commentsToLikes: 0.022886
     id: ck904frlze7ig0j785lmdtotj
     verified: false
-    hashtags: "#greenscreenvideo, #comment, #fax, #relatable"
-  - username: "angelmira24"
+    hashtags: "#duet, #greenscreen, #foryou, #fortnite"
+  - username: "melissaortiz5"
     fullname: >-
-      angelmira24
+      melissaortiz5
+    bio: >-
+      FOLLOW my INSTAGRAM! ⬆️ Olympian 🇨🇴 ⚽️ Former Pro Soccer Player
     location: "United States"
-    followers: 12596
-    engagement: 1156
-    commentsToLikes: 0.054360
-    id: ck9a845ejai6o0j788j86933v
-    verified: false
-    hashtags: "#illinois, #zoommyface, #foruyou, #sports"
-  - username: "keelyamelia"
+    followers: 54700
+    engagement: 1526
+    commentsToLikes: 0.019458
+    id: ckbvyod5pvcee0j23rkn6513n
+    verified: true
+    hashtags: "#soccerskills, #soccerlife, #soccertiktok, #soccertime"
+  - username: "jona2santoss"
     fullname: >-
-      Keely
+      Jonathan Dos Santos
+    bio: >-
+      Soccer player 🇺🇸 LA Galaxy 🇲🇽 National Team
     location: "United States"
-    followers: 491068
-    engagement: 833
-    commentsToLikes: 0.005317
-    id: ck8hqbbmc3aiv0j787eer0z6z
+    followers: 148300
+    engagement: 768
+    commentsToLikes: 0.008025
+    id: ckcemduxcwn8o0j23mmcb4v58
     verified: false
-    hashtags: "#me, #lonelychair, #soccerchallenge, #tigerking"
-  - username: "troygirlssoccer"
+    hashtags: "#soccer, #life, #hityorolliechallenge, #getloosechallenge"
+  - username: "coach.ryan"
     fullname: >-
-      TroyGirlsSoccer
+      Daniel Ryan
+    bio: >-
+      ⚽️Head Coach Shrewsbury SC⚽️ TMT
     location: "United States"
-    followers: 36649
-    engagement: 1421
-    commentsToLikes: 0.015472
-    id: ck931pgdnfqvy0j787lqgspjm
+    followers: 27400
+    engagement: 1814
+    commentsToLikes: 0.055666
+    id: ckd080xw9azaz0j23qs2p1oqg
     verified: false
-    hashtags: "#mysoccerteam, #nwsl, #uswnt, #soccerfunny"
+    hashtags: "#fyp, #verifycoachryan, #soccer4life, #soccerworld"
+  - username: "danielgothits"
+    fullname: >-
+      ⚽️ Daniel Got Hits
+    bio: >-
+      SOCCER GANG ⚽️ we dumb and Ugly!! 😍💙 ⠀⠀⠀⠀ Can we be friends on Insta? 🥵😫
+    location: "United States"
+    followers: 256400
+    engagement: 1759
+    commentsToLikes: 0.075446
+    id: ckbqq869qb5st0j23riiw0pyq
+    verified: true
+    hashtags: "#soccerboy, #soccerinfluencer, #soccergirl, #ronaldo"
   - username: "dg3soccer"
     fullname: >-
       DG3 Soccer
+    bio: >-
+      Technical training specialist ✅ Trick shots ✅ Skill Tutorials ✅
     location: "United States"
-    followers: 141994
-    engagement: 977
-    commentsToLikes: 0.011581
+    followers: 156700
+    engagement: 922
+    commentsToLikes: 0.012047
     id: ck933htawo48m0j78twdatsn6
     verified: false
-    hashtags: "#streetsoccer, #footy, #freekicks, #tekkers"
+    hashtags: "#uswnt, #soccerplayer, #soccer, #soccertraining"
   - username: "refereepov"
     fullname: >-
       Referee POV
+    bio: >-
+      ⬇️ Contact ⬇️ refereepovsoccer@gmail.com
     location: "United States"
-    followers: 82744
-    engagement: 1165
-    commentsToLikes: 0.009411
+    followers: 237900
+    engagement: 1140
+    commentsToLikes: 0.008429
     id: ckamyizxwhryg0i78u4vmqusd
     verified: false
-    hashtags: "#soccercleats, #soccerball, #parttimejob, #soccerplayers"
-  - username: "dez.lina"
-    fullname: >-
-      ✨🧚🏽‍♀️💖🦋💗
-    location: "United States"
-    followers: 11259
-    engagement: 1777
-    commentsToLikes: 0.109026
-    id: ck9r37zbzolxv0j78mfgm5n0q
-    verified: false
-    hashtags: "#janevillanueva, #girlproblems, #boybesfriend, #latinomemes"
-  - username: "camarokeeper_usa"
-    fullname: >-
-      Carlos Amaro•
-    location: "United States"
-    followers: 75631
-    engagement: 2301
-    commentsToLikes: 0.030269
-    id: ck8qj59wobz8u0j78itu582ie
-    verified: false
-    hashtags: "#softboys, #aesthetic, #reggaeton, #icecube"
-  - username: "curlyheadmaui"
-    fullname: >-
-      Amarri Arguelles
-    location: "United States"
-    followers: 21709
-    engagement: 1403
-    commentsToLikes: 0.049293
-    id: cka0zyx5hhi3x0i78b5lddbgs
-    verified: false
-    hashtags: "#keepingbusy, #indoorlooks, #dinoday, #jumpman"
-  - username: "soccergrlprobss"
-    fullname: >-
-      SoccerGrlProbs
-    location: "United States"
-    followers: 35773
-    engagement: 2331
-    commentsToLikes: 0.007499
-    id: ck83ywer9wcf80j7878vpv9z7
-    verified: false
-    hashtags: "#football, #toosie, #blanketlife, #running"
+    hashtags: "#fyp, #refs, #yellowcard, #foryourpage"
 ---

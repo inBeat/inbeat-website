@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Canada In 2020
 description: >-
-  Find top makeup TikTok influencers in Canada in 2020. Most popular hashtags: #learnontiktok #victoriaday #skincareroutine #jamsession.
+  Find top makeup TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #happyhalloween #halloween2020 #halloween.
 platform: TikTok
+hits: 877
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 877 TikTok influencers like this in Canada for you to work with.
 profiles:
-  - username: "summerstockwell"
+  - username: "mariama.sahoneh"
     fullname: >-
-      summerstockwell
+      Mariama Sahoneh
+    bio: >-
+      55K? MAKEUP | FASHION | BEAUTY Let’s link👇🏾 😀
     location: "Canada"
-    followers: 340030
-    engagement: 1469
-    commentsToLikes: 0.028865
-    id: cka0kfk1emfm50i786eijlbiy
+    followers: 47400
+    engagement: 1953
+    commentsToLikes: 0.043296
+    id: ck961yrgmoiex0j78ejlg96ha
     verified: false
-    hashtags: "#hellokittycheck, #skincare, #mouthchallenge, #yearbook2020"
-  - username: "gucciganglover1234"
+    hashtags: "#muslimahhumour, #blackmuslimfemale, #muslimcomedy, #hijabitiktoks"
+  - username: "malikaberube"
     fullname: >-
-      sedonia🍓
+      Malika Bérubé
+    bio: >-
+      Learn to do makeup on my IG & more content! To book appointment MTL👇 5K ?💞
     location: "Canada"
-    followers: 14265
-    engagement: 2340
-    commentsToLikes: 0.021270
-    id: ck8osvpdailfj0j78b9mykes3
+    followers: 3556
+    engagement: 2252
+    commentsToLikes: 0.047142
+    id: ckbf8mvlvz5od0j23796jpa11
     verified: false
-    hashtags: "#hairdye, #unif, #depop, #fyp"
+    hashtags: "#halloweenlook, #it, #foryoupage, #makeuppage"
+  - username: "dinofam19"
+    fullname: >-
+      🖤💫Kayla💫🖤
+    bio: >-
+      🇨🇦🦅 I laugh. I swear. I do makeup. I lift others up. I do what I want🥰🤗🔞
+    location: "Canada"
+    followers: 33300
+    engagement: 2276
+    commentsToLikes: 0.329693
+    id: ckbepa27d62al0j23webotw91
+    verified: false
+    hashtags: "#foryou, #foryoupage, #myhobby, #duet"
+  - username: "adaelizabethh"
+    fullname: >-
+      Adannaya
+    bio: >-
+      I do hair! I do makeup! I do it all. INSTA @adaelizabethh
+    location: "Canada"
+    followers: 5984
+    engagement: 2507
+    commentsToLikes: 0.040758
+    id: ckb9e5uas1pka0j231tu72e8x
+    verified: false
+    hashtags: "#halloween, #happyhalloween, #makeup, #fyp"
   - username: "tamiaoveres"
     fullname: >-
       Tamia 
+    bio: >-
+      Tattoo & Makeup Artist 🎨 Business Inquiries: info@pulsevancity.com SHOP ⬇️
     location: "Canada"
-    followers: 228735
-    engagement: 1892
-    commentsToLikes: 0.017373
+    followers: 249400
+    engagement: 2160
+    commentsToLikes: 0.017602
     id: ck8osvaarii1q0j78zbn12ijv
     verified: false
-    hashtags: "#minitutorials, #learnfromme, #keepingbusy, #edit"
-  - username: "makeupbyrabe"
+    hashtags: "#makeupartist, #storytime, #femaletattooist, #greenscreen"
+  - username: "bftposts"
     fullname: >-
-      makeupbyrabe
+      BFTPOSTS
+    bio: >-
+      Makeup Enthusiast/Beauty Content Creator IG: @bftposts She/her
     location: "Canada"
-    followers: 205876
-    engagement: 2251
-    commentsToLikes: 0.018062
-    id: ck80npmhedsrz0j78knd7ypma
+    followers: 11800
+    engagement: 2254
+    commentsToLikes: 0.033614
+    id: ckb9p6sm8k2b70j23fsk3sp7m
     verified: false
-    hashtags: "#poutineday, #moon, #natureathome, #jamsession"
-  - username: "natalietikstoks"
+    hashtags: "#halloweenmakeup, #halloween, #fyp, #4u"
+  - username: "kandace.gagne"
     fullname: >-
-      Natalie Jarrett
+      kandacegagné
+    bio: >-
+      Living that wife life, dealing with that mom strife. Makeup and laughs yo
     location: "Canada"
-    followers: 54299
-    engagement: 1632
-    commentsToLikes: 0.043326
-    id: ck8f7vffw3am20j789r6ohcpo
+    followers: 2946
+    engagement: 1021
+    commentsToLikes: 0.105886
+    id: ck9k4yp91undk0j78ya93oupi
     verified: false
-    hashtags: "#retail, #homeproject, #parentsontiktok, #truth"
-  - username: "badassmommua"
+    hashtags: "#senegence, #veganbeauty, #getkandied, #kandiedkosmetix"
+  - username: "shadowshimmer"
     fullname: >-
-      Shinneen
+      Shannon Donnelly
+    bio: >-
+      Makeup artist, mama, wifey, 🇨🇦 IG - @shadowshimmershannon
     location: "Canada"
-    followers: 30780
-    engagement: 1349
-    commentsToLikes: 0.056327
-    id: ck7zp9trjo73a0j78x9vudp2f
+    followers: 12700
+    engagement: 1491
+    commentsToLikes: 0.061010
+    id: ckcvibh39vbnh0j23atar29zi
     verified: false
-    hashtags: "#raindrops, #bringit, #honest, #imokay"
-  - username: "dartthjader"
+    hashtags: "#halloweencountdown, #beetlejuicetiktok, #brokendoll, #halloweenathome"
+  - username: "j9homiemakeup"
     fullname: >-
-      Jade Giadressi
+      Celebrity Makeup & Hair Artist
+    bio: >-
+      🇨🇦Celebrity Makeup & Hair Artist, hop over & say hi on Insta 🙋🏼‍♀️ Xo J9
     location: "Canada"
-    followers: 12378
-    engagement: 2097
-    commentsToLikes: 0.032744
-    id: ckamrt9uon6wt0i78xaompuaz
+    followers: 230100
+    engagement: 1485
+    commentsToLikes: 0.019322
+    id: ckb9053ckfx1u0j23bnaax1ni
     verified: false
-    hashtags: "#avacado, #cookinghacks, #vlog, #look"
-  - username: "basicallyb3auty"
+    hashtags: "#specialfxmakeup, #skeletonmakeup, #halloweencountdown, #halloween2020"
+  - username: "olena_a"
     fullname: >-
-      ✨BasicallyB3auty✨
+      Olena.A
+    bio: >-
+      Jack of all trades: makeup, hair, painting. Toronto | ig: @olena.a
     location: "Canada"
-    followers: 3362
-    engagement: 1187
-    commentsToLikes: 0.094606
-    id: cka0r09grey410i78ubv4fi8j
+    followers: 9086
+    engagement: 1010
+    commentsToLikes: 0.048367
+    id: ck92uyo3vo9cj0j78nl4zkt6n
     verified: false
-    hashtags: "#makeup, #petpeeves, #toxicexcheck, #soannoying"
-  - username: "amandaboothtiktok"
-    fullname: >-
-      ✨Amanda Booth✨
-    location: "Canada"
-    followers: 14996
-    engagement: 1015
-    commentsToLikes: 0.047573
-    id: ck8kg0t91gfwz0j78bbv8a8di
-    verified: false
-    hashtags: "#quarentine, #canadalife, #shoppinghaul, #covid19"
-  - username: "michelle_emiliani"
-    fullname: >-
-      michelle_emiliani
-    location: "Canada"
-    followers: 2747
-    engagement: 391
-    commentsToLikes: 0.076176
-    id: ck9a8odv2cul30j78kbun57ds
-    verified: false
-    hashtags: "#combinationskin, #promportrait, #50sgirl, #goviral"
+    hashtags: "#duet, #jockermakeup, #wipechallengetiktok, #gosling"
 ---

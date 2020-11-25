@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Austin In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Austin in 2020. Most popular hashtags: #cosmetics #nyxcosmetics #beauty #nature.
+  Find top cosmetics Instagram influencers in Austin in 2020. Most popular hashtags: #makeup #cosmetics #beauty #art.
 platform: Instagram
+hits: 25
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 25 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "rebeccaseals"
+  - username: "nailed_by_becky"
     fullname: >-
-      Rebecca Seals
+      BECKY WITH THE GOOD NAILS™️
+    bio: >-
+      📍Austin, TX 💃🏼Celebrity Nail Artist💅🏻 💓Nail Mentor 🇺🇸 💌 Not taking any new clients at the moment 📩
     location: "United States"
-    followers: 128743
-    engagement: 414
-    commentsToLikes: 0.055788
-    id: ck15rdmg07elx0i19iacxrr1t
+    followers: 35471
+    engagement: 112
+    commentsToLikes: 0.040427
+    id: ck6tk5n3o41r70j71oizdxx9j
     verified: false
-    hashtags: "#christmasmakeup, #cherryblossoms, #koreanskincare, #daphneblake"
-  - username: "lovelyysamantha"
+    hashtags: "#beauty, #nail, #nailgirl, #nailart"
+  - username: "jannaortiz1"
     fullname: >-
-      Samantha Nguyen
+      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
+    bio: >-
+      Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
     location: "United States"
-    followers: 7072
-    engagement: 707
-    commentsToLikes: 0.213103
-    id: ck5pzv63a2wlv0i119dagil0g
+    followers: 2676
+    engagement: 1952
+    commentsToLikes: 0.080489
+    id: ck5q6e1jrx0dy0i11ssc44sp5
     verified: false
-    hashtags: "#underratedmua, #jamescharles, #haus, #nyxcosmetics"
+    hashtags: "#cosmetics, #moodygrams, #exploreeverything, #fashionblogger"
   - username: "kimono_kat"
     fullname: >-
-      Mina / มีน่า
+      Mina • มีน่า
+    bio: >-
+      📸 Skincare hobbyist// Flatlay Lover 📍 Austin, TX 💌 PR: kimonokat91@gmail.com
     location: "United States"
-    followers: 8459
-    engagement: 983
-    commentsToLikes: 0.286612
+    followers: 9017
+    engagement: 703
+    commentsToLikes: 0.323792
     id: ck5q8fc225wis0i11f20hbd2o
     verified: false
-    hashtags: "#poweredbyrose, #octoly, #soldejaneiro, #selfcarematters"
+    hashtags: "#beatthealgo, #selfcaresunday, #beatthealgorithm, #texturetuesday"
+  - username: "chelseasmakeup"
+    fullname: >-
+      Chelsea Tresidder
+    bio: >-
+      🇨🇦🇬🇾 🎥Youtube Channel 📍Toronto -> Austin, Texas Personal Insta: @chelstres
+    location: "United States"
+    followers: 202092
+    engagement: 118
+    commentsToLikes: 0.013770
+    id: ck5zz4w5lb32j0i14hqyeqe28
+    verified: false
+    hashtags: ""
+  - username: "bat.barbie"
+    fullname: >-
+      Britt Gorman
+    bio: >-
+      Look like a Slytherin, love like a Hufflepuff.🦇💖 Temp tattoo princess @seventhskin in Austin, TX | Mermaids | Illustration | Disney | Makeup
+    location: "United States"
+    followers: 14245
+    engagement: 745
+    commentsToLikes: 0.025479
+    id: ck5bvsamtkb420i11gxx478eo
+    verified: false
+    hashtags: "#painting, #acrylic, #art, #originalart"
   - username: "dopenail_galleria"
     fullname: >-
       DM FOR $10 PROMO
+    bio: >-
+      We post the dopest 💅🏿💅🏾💅🏼 artists on the 🌎🚨ALL ARTISTS ARE TAGGED🚨INSPO ONLY🚨 DM FOR $10 PROMO...👀 #dopenailgalleria...Austin📍
     location: "United States"
     followers: 70426
     engagement: 56
     commentsToLikes: 0.012190
     id: ck0vyj5j549aj0i19iu1nhnj2
     verified: false
-    hashtags: "#maccosmetics, #cosmetics, #nailartist, #nailartvideos"
-  - username: "flawlessbyamin"
+    hashtags: "#atlantanails, #charlottenails, #nailpromagazine, #makeupideas"
+  - username: "lovelyysamantha"
     fullname: >-
-      Amin Kabani
+      Samantha Nguyen
+    bio: >-
+      Austin, Tx My family are my world Owner: @shopaotg 🦋
     location: "United States"
-    followers: 17011
-    engagement: 311
-    commentsToLikes: 0.044573
-    id: ck0ucasligdk30i19piu3wxxt
+    followers: 7656
+    engagement: 777
+    commentsToLikes: 0.054452
+    id: ck5pzv63a2wlv0i119dagil0g
     verified: false
-    hashtags: "#nobrows, #indonesia, #ebonymodel, #eyefordesign"
-  - username: "victoriahenley"
-    fullname: >-
-      VICTORIA HENLEY
-    location: "United States"
-    followers: 26617
-    engagement: 213
-    commentsToLikes: 0.041262
-    id: ck6ufe1qdwhlr0j719pdgg1c0
-    verified: false
-    hashtags: "#believe, #80sfashion, #edgy, #ocean"
-  - username: "shotsbystoney"
-    fullname: >-
-      Shots by Stoney
-    location: "United States"
-    followers: 2459
-    engagement: 1177
-    commentsToLikes: 0.094256
-    id: ck14j9ipfj8il0i192q4opkfr
-    verified: false
-    hashtags: "#pinkphoto, #makeupideas, #freshlook, #naturalhair"
-  - username: "audreylittie"
-    fullname: >-
-      Audrey Littie 🖤
-    location: "United States"
-    followers: 215977
-    engagement: 151
-    commentsToLikes: 0.012346
-    id: ck13aza9msx170i191ln5zwsw
-    verified: true
-    hashtags: "#haircut, #makeupparty, #shopmylook, #igstyle"
+    hashtags: "#makeuplover, #benefitbrows, #lashes, #beauty"
   - username: "slokeone"
     fullname: >-
       
+    bio: >-
+      ATX Native...NBK,CBS,OTM,LAWS,LORDS,CREATURES CREWS. Stylizing letters and surfaces since 1990. DM for commissions. 👉🏼You can now shop for my art at
     location: "United States"
-    followers: 19636
-    engagement: 210
-    commentsToLikes: 0.033761
+    followers: 19942
+    engagement: 239
+    commentsToLikes: 0.037022
     id: ck13cxgxv2n8y0i19oiv40oeh
     verified: false
-    hashtags: "#silver, #rysta, #piece, #diamonds"
-  - username: "schaebreezy_"
+    hashtags: "#sloke, #abstract, #fuckcorona, #atxgraff"
+  - username: "angelabermudeza"
     fullname: >-
-      Schae G
+      Angela Bermúdez Art
+    bio: >-
+      🇨🇷 Costa Rican in LA | Self-taught Painter 📸 Modeling & Cosplay at @angelabermudezb 🎨 Creating at @brushesandkeys w/@a.wintory
     location: "United States"
-    followers: 2291
-    engagement: 1385
-    commentsToLikes: 0.106541
-    id: ck5pyl6xywjwv0i119cdpnaou
+    followers: 38979
+    engagement: 441
+    commentsToLikes: 0.020423
+    id: ck15r92h86rdn0i19gpfc81fh
     verified: false
-    hashtags: "#hudabeauty, #universomakeup, #beauty, #nudelip"
+    hashtags: "#stayhome, #quarantine, #musicandpainting, #cosplay"
+  - username: "jerichoalexanderdee"
+    fullname: >-
+      Jericho Alexander & Mommy Dee
+    bio: >-
+      莊聖凱 Part of @oninfluencer 💗 Managed by J’s mom #jdeempasi #jdeesharing #jdeetravelling #jdeeMilestone 💕💕💕
+    location: "United States"
+    followers: 83104
+    engagement: 117
+    commentsToLikes: 0.036295
+    id: ck9wh08uevnmd0j785swxpml4
+    verified: false
+    hashtags: "#jerichoalexanderdee, #bajurumah, #bajuanak, #frenchfood"
 ---

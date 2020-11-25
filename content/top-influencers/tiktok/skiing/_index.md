@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skiing TikTok Influencers In 2020
 description: >-
-  Find top skiing TikTok influencers in 2020. Most popular hashtags: #quarantine #foru #workout #utah.
+  Find top skiing TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #ski #skiing.
 platform: TikTok
+hits: 38
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 38 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "kiernanfagan"
+  - username: "marscho15"
     fullname: >-
-      Kiernan Fagan
+      Maria Schoening
+    bio: >-
+      ✝️A01✝️ 🇺🇸22🇮🇹 D1 nordic skier with a hobby vvvv LIT FOR JESUS PLAYLIST vvvv
     location: "United States"
-    followers: 105165
-    engagement: 1580
-    commentsToLikes: 0.022180
-    id: ck8sbp7h37k370j78m6i84el3
+    followers: 11600
+    engagement: 1324
+    commentsToLikes: 0.114421
+    id: ck9rmziws5cjp0j78tdybxwbt
     verified: false
-    hashtags: "#foryou, #corona, #full, #work"
-  - username: "lifeof.nate"
-    fullname: >-
-      NATE MICELI
-    location: "United States"
-    followers: 11045
-    engagement: 1151
-    commentsToLikes: 0.043619
-    id: ckaignja727ri0i78m7d100e3
-    verified: false
-    hashtags: "#dontletthisflop, #photographer, #yearbook2020, #makebakeshake"
+    hashtags: "#relationship, #prayer, #dance, #glorytogod"
   - username: "ryan_mcelmon"
     fullname: >-
       Ryan McElmon
+    bio: >-
+      -“Professional” Skier- -Follow/DM to collab- -Thx for 29K 🤍 30K soon?🙏🏽♥️-
     location: "United States"
-    followers: 15511
-    engagement: 1042
-    commentsToLikes: 0.047167
+    followers: 29700
+    engagement: 1601
+    commentsToLikes: 0.049654
     id: ckaicxbvam8rv0i78ad3k6a2a
     verified: false
-    hashtags: "#satisfying, #dream, #skifail, #brand"
-  - username: "oscarwester1"
+    hashtags: "#foryou, #fyp, #ski, #skiing"
+  - username: "florentdemaere"
     fullname: >-
-      Oscar Wester
-    location: "Sweden"
-    followers: 18307
-    engagement: 1063
-    commentsToLikes: 0.011605
-    id: ck8hqxow668xv0j78jmigtysq
+      Florent Demaere
+    bio: >-
+      Drone pilote 🚁 French skier 🎿
+    location: "France"
+    followers: 2103
+    engagement: 859
+    commentsToLikes: 0.038732
+    id: ckbfefbkc8jh20j238w7vztyp
     verified: false
-    hashtags: "#antwan, #spring, #czechrepublic, #sports"
+    hashtags: "#mountain, #foryour, #foryourpage, #tiktok"
+  - username: "lifeof.nate"
+    fullname: >-
+      NATE MICELI
+    bio: >-
+      [ Pro Skier ] [ Utah ] [ The goal is 20K🤍 ]
+    location: "United States"
+    followers: 17300
+    engagement: 848
+    commentsToLikes: 0.037268
+    id: ckaignja727ri0i78m7d100e3
+    verified: false
+    hashtags: "#for, #viral, #utah, #skiing"
+  - username: "zimmermannlisa"
+    fullname: >-
+      zimmermannlisa
+    bio: >-
+      professional skier hating the cold 🙃
+    location: "Austria"
+    followers: 9695
+    engagement: 986
+    commentsToLikes: 0.008955
+    id: ckbkvz3wmro3x0j23ho8wuukd
+    verified: true
+    hashtags: "#skiing, #skifahren, #austria, #fyp"
   - username: "rwallis"
     fullname: >-
       Reagan Wallis
+    bio: >-
+      Skier boi doing jony boi stuff INSTA: @reaganwallis
     location: "United States"
-    followers: 5946
-    engagement: 807
-    commentsToLikes: 0.012100
+    followers: 5837
+    engagement: 809
+    commentsToLikes: 0.011743
     id: ckad7969v33ch0i78expwohx9
     verified: false
-    hashtags: "#copper, #backflips, #grind, #likeachamp"
-  - username: "nicolasgygax"
+    hashtags: "#powder, #ski, #canada, #snow"
+  - username: "isaackosloskey"
     fullname: >-
-      gyx
-    location: "Switzerland"
-    followers: 13304
-    engagement: 1150
-    commentsToLikes: 0.009061
-    id: ck9aa79j2jd0l0j78hjfeypr0
-    verified: false
-    hashtags: "#skill, #goodmorning, #freestyle, #usa"
-  - username: "bigmcthottie"
-    fullname: >-
-      ava🏳️‍🌈🎿
+      Isaac Kosloskey
+    bio: >-
+      Skier Rider of Onewheels Montana
     location: "United States"
-    followers: 3721
-    engagement: 1208
-    commentsToLikes: 0.054031
-    id: ck97740l22ndj0j78iv44uuwf
+    followers: 3139
+    engagement: 1003
+    commentsToLikes: 0.018719
+    id: ckbl3hjmw0v770j23snhlk5gy
     verified: false
-    hashtags: "#bigirl, #butterglosspop, #alwayslearning, #liberallogic"
-  - username: "garethdix"
+    hashtags: "#fyp, #xyzcba, #backflip, #corona"
+  - username: "oscarwester1"
     fullname: >-
-      GarethDix
+      Oscar Wester
+    bio: >-
+      Pro Skier from Sweden! Follow me on instagram: @oscarwester
+    location: "Sweden"
+    followers: 18500
+    engagement: 1215
+    commentsToLikes: 0.014624
+    id: ck8hqxow668xv0j78jmigtysq
+    verified: false
+    hashtags: "#foryoupage, #golf, #fyp, #foryou"
+  - username: "sebastien.varlet"
+    fullname: >-
+      SébastienVarlet
+    bio: >-
+      Skier from 🇫🇷 Insta > @sebastienvarlet ⬆️
+    location: "France"
+    followers: 10900
+    engagement: 1253
+    commentsToLikes: 0.011729
+    id: ckbfefa3p8ja90j23nrg4xyax
+    verified: false
+    hashtags: "#canada, #mountain, #offpiste, #fyp"
+  - username: "thehartes"
+    fullname: >-
+      Taliaharte
+    bio: >-
+      Ex GB Skiers ⛷ Uk 📍 Bands & Workout Plans⬇️ www.trainlikethehartes.co.uk
     location: "United Kingdom"
-    followers: 9542
-    engagement: 1114
-    commentsToLikes: 0.042208
-    id: ck9616vlalcmo0j7882wmmat3
+    followers: 335900
+    engagement: 747
+    commentsToLikes: 0.004894
+    id: ckce7am77kzud0j23eude98ld
     verified: false
-    hashtags: "#sleddingfail, #fail, #britishhumour, #breakfastcheck"
-  - username: "tannerrblakely"
-    fullname: >-
-      Tanner 
-    location: "United States"
-    followers: 7416
-    engagement: 1216
-    commentsToLikes: 0.055468
-    id: ckai2n4w7gh2m0i784bobb6h7
-    verified: false
-    hashtags: "#dive, #freeski, #iphone, #corona"
-  - username: "skierscommunity"
-    fullname: >-
-      skierscommunity
-    location: "Denmark"
-    followers: 12558
-    engagement: 525
-    commentsToLikes: 0.022378
-    id: cka0w9e731wu30i78s93mkta0
-    verified: false
-    hashtags: "#faill, #freerideski, #fail, #girlchallenge"
+    hashtags: "#fyp, #learnontiktok, #workoutfinisher, #workoutroutine"
 ---

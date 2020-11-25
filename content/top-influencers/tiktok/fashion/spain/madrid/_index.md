@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Madrid In 2020
 description: >-
-  Find top fashion TikTok influencers in Madrid in 2020. Most popular hashtags: #style #fashion #makeup #model.
+  Find top fashion TikTok influencers in Madrid in 2020. Most popular hashtags: #fyp #fashion #foryou #viral.
 platform: TikTok
+hits: 9
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Madrid, Spain for you to contact.
 profiles:
   - username: "vanillaattack"
     fullname: >-
       Teresa Sala
+    bio: >-
+      Follow me on Instagram @vanillaattack
     location: "Spain"
-    followers: 29274
-    engagement: 516
-    commentsToLikes: 0.051270
+    followers: 28400
+    engagement: 501
+    commentsToLikes: 0.046469
     id: ck90267agc6lk0j784gec8o5n
     verified: false
-    hashtags: "#sushichallenge, #tiktokmadrid, #espa, #style"
-  - username: "omarelpretinho"
+    hashtags: "#pregnancy, #pregnancyannouncement, #barcelona, #embarazada"
+  - username: "nachogonzalezrico"
     fullname: >-
-      omarelpretinho
+      Nacho González Rico
+    bio: >-
+      IG: @nacho.gonzalezrico 🇪🇸 Madrid - Las Palmas 🇮🇨 El del #tikiejercito😜
     location: "Spain"
-    followers: 63906
-    engagement: 2028
-    commentsToLikes: 0.022806
-    id: ck9kdv5x0w2sf0j78q7b5q6gj
+    followers: 13100
+    engagement: 1188
+    commentsToLikes: 0.085470
+    id: ckdnv5dyjo7tg0j23kine0ivf
     verified: false
-    hashtags: "#happydance, #famouscheck, #pabloescobar, #fashion"
-  - username: "thuwedekind"
-    fullname: >-
-      Thu Wedekind
-    location: "Spain"
-    followers: 130940
-    engagement: 676
-    commentsToLikes: 0.018038
-    id: cka0hbsos8kvi0i78lwoiggv8
-    verified: false
-    hashtags: "#photocreative, #iphonecamera, #iphone11camera, #adobe"
-  - username: "anastasia_sax_mcqueen"
-    fullname: >-
-      Anastasia McQueen
-    location: "Spain"
-    followers: 14441
-    engagement: 444
-    commentsToLikes: 0.027245
-    id: ckac8656dfald0i78136x9zsp
-    verified: false
-    hashtags: "#quarantine, #yummychallenge, #vacationswitch, #catwalk"
+    hashtags: "#parati, #dance, #redbulldanceyourstyle, #fyp"
   - username: "sugardadyspain"
     fullname: >-
       Sugar Dady España
+    bio: >-
+      Chicas mente abierta ->📩 inbox 📸 Ig: sdxti Info ⤵️
     location: "Spain"
-    followers: 4474
-    engagement: 510
-    commentsToLikes: 0.027603
+    followers: 5132
+    engagement: 1052
+    commentsToLikes: 0.039659
     id: ckacajg6agzw00i78j6q9fep5
     verified: false
-    hashtags: "#fashion, #mequedoencasa, #foryoupage, #viajemosjuntos"
+    hashtags: "#dady, #murcia, #viajes, #sugarbabies"
+  - username: "mikhailcossi"
+    fullname: >-
+      MIKHAIL COSSI
+    bio: >-
+      🔥 INSTAGRAM +18K ⬆️ 📸 Artist 🎥 Actor ✈️ Traveller 🇪🇸 Spain ✉️ Direct IG
+    location: "Spain"
+    followers: 86700
+    engagement: 403
+    commentsToLikes: 0.036687
+    id: ckdsukdmzptjz0j23kfgfh6cx
+    verified: false
+    hashtags: "#acting, #chistes, #caracas, #florida"
+  - username: "mishoamoli"
+    fullname: >-
+      Mihail Amoli
+    bio: >-
+      Model / Stylist / YouTuber 📷 Instagram: @mishoamoli 🎥 YouTube: Misho Amoli
+    location: "Spain"
+    followers: 46100
+    engagement: 1060
+    commentsToLikes: 0.010387
+    id: ckd0h5sldef2v0j235jyluzdv
+    verified: false
+    hashtags: "#outfitchallenge, #madrid, #vintage, #estilo"
   - username: "brunosantos_official"
     fullname: >-
       Bruno Santos
+    bio: >-
+      MODELING TIPS / HOW TO POSE by www.brunosantosstudios.com
     location: "Spain"
-    followers: 4833
-    engagement: 247
-    commentsToLikes: 0.009852
+    followers: 6953
+    engagement: 131
+    commentsToLikes: 0.017907
     id: cka0r7v9ufw4n0i78q083oboz
     verified: false
-    hashtags: "#malaga, #organic, #nature, #shoting"
-  - username: "armandentreri"
+    hashtags: "#fashion, #travel, #spain, #viral"
+  - username: "anastasia_sax_mcqueen"
     fullname: >-
-      Armand Entreri
+      Anastasia McQueen
+    bio: >-
+      🎷International saxophonist 📸Model 🏄‍♀️Watersports & yachts 📍Ibiza
     location: "Spain"
-    followers: 15992
-    engagement: 1408
-    commentsToLikes: 0.018509
-    id: ckamnbnut47yf0i7890odg8rm
+    followers: 15300
+    engagement: 414
+    commentsToLikes: 0.018921
+    id: ckac8656dfald0i78136x9zsp
     verified: false
-    hashtags: "#dramatic, #covid19, #evil, #skinny"
-  - username: "emitaz"
+    hashtags: "#summertime, #saxophone, #superyacht, #formentera"
+  - username: "palomamobaile"
     fullname: >-
-      EMITAZ - EMELIE 🦋
+      user7550774254592
+    bio: >-
+      Decoradora de Interiores. Instagram @palomamobaile ¡Gracias a todos! 😘
     location: "Spain"
-    followers: 25851
-    engagement: 433
-    commentsToLikes: 0.017208
-    id: ck9vfmwcq3vhq0j78o6sznbl3
-    verified: true
-    hashtags: "#mylove, #musthave, #modellife, #mango"
-  - username: "bridalada"
-    fullname: >-
-      Carmen de la Cruz
-    location: "Spain"
-    followers: 16227
-    engagement: 243
-    commentsToLikes: 0.013207
-    id: cka0hrspoahb60i780dkvlxgf
-    verified: true
-    hashtags: "#delayed, #fashionchange, #artist, #recetafacil"
-  - username: "riumbaumarta"
-    fullname: >-
-      Riumbaumarta
-    location: "Spain"
-    followers: 48383
-    engagement: 549
-    commentsToLikes: 0.006021
-    id: ck806xnhqmv8e0j78d6g7yhni
+    followers: 24900
+    engagement: 436
+    commentsToLikes: 0.038995
+    id: ckb18jqkrwerz0j23m8qg33fb
     verified: false
-    hashtags: "#hairstyle, #smoothie, #beauty, #igloo"
+    hashtags: "#decoracion, #alicante, #palomaamo, #paraisoscercanos"
+  - username: "marlenemourreau"
+    fullname: >-
+      Marlène Perso
+    bio: >-
+      Artista espectáculo , actrice , vedette 🇫🇷 y 🇪🇸
+    location: "Spain"
+    followers: 9672
+    engagement: 259
+    commentsToLikes: 0.036998
+    id: ckck49vkkomoq0j23gwbz3sf4
+    verified: false
+    hashtags: "#piscina, #sketch, #humor, #marlenemourreau"
+  - username: "anutabelike"
+    fullname: >-
+      Annett
+    bio: >-
+      💜i'm 17💜 💄beauty and fashion🛍 ...☝🏻russian girl☝🏻...
+    location: "Spain"
+    followers: 17300
+    engagement: 1398
+    commentsToLikes: 0.046619
+    id: ck81s127zp8t00j78lanh49dt
+    verified: false
+    hashtags: "#outfits, #fyp, #fashion, #minecraft"
 ---

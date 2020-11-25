@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Montreal In 2020
 description: >-
-  Find top stylists Instagram influencers in Montreal in 2020. Most popular hashtags: #blackdress #trending #hair #yellow.
+  Find top stylists Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #mtl #style #fashionstyle.
 platform: Instagram
+hits: 12
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
-  - username: "lapetitevengeance"
+  - username: "ariacalli"
     fullname: >-
-      M a r i k a  D’ A u t e u i l
+      ARIA〰️fashion beauty lifestyle
+    bio: >-
+      montreal stylist / creative 🤠
     location: "Canada"
-    followers: 134572
-    engagement: 192
-    commentsToLikes: 0.027264
-    id: ck0ttuthi4ek60i197h03p64o
+    followers: 3300
+    engagement: 1369
+    commentsToLikes: 0.250973
+    id: ck8tbksikw1420j78ip326zz7
     verified: false
-    hashtags: "#makeupforever, #marikamoscow, #buttercupcake, #love"
-  - username: "eatwithjessie"
+    hashtags: "#productphotography, #beatthealgo, #andsave, #skinstagram"
+  - username: "annita_mompellert"
     fullname: >-
-      J e s s i c a  E m i n
+      Anne Laura
+    bio: >-
+      🕊Always be yourself & never stop dreaming! 📍Born HAV 🇨🇺 • Home MTL 🇨🇦 ♡ Fashion lover • Lifestyle • Fitness • Travel
     location: "Canada"
-    followers: 9185
-    engagement: 513
-    commentsToLikes: 0.055834
-    id: ck5zzbysrbgh00i14uckoa7ut
+    followers: 52019
+    engagement: 224
+    commentsToLikes: 0.080186
+    id: ck0w0jffuei2p0i19um5n3392
     verified: false
-    hashtags: "#icing, #foodporn, #parmesan, #eatermtl"
-  - username: "caillebot"
-    fullname: >-
-      Claire • FOOD & 📸
-    location: "Canada"
-    followers: 3870
-    engagement: 1474
-    commentsToLikes: 0.169335
-    id: ck5cezx50m1tj0i11hknvtool
-    verified: false
-    hashtags: "#coconut, #recipet, #veggiebagel, #glutenfree"
-  - username: "mariegabrielle.r"
-    fullname: >-
-      𝓜𝓪𝓻𝓲𝓮-𝓖𝓪𝓫𝓻𝓲𝓮𝓵𝓵𝓮
-    location: "Canada"
-    followers: 39651
-    engagement: 384
-    commentsToLikes: 0.109646
-    id: ckap8djm0nuss0i78ajf2m0sb
-    verified: false
-    hashtags: "#redwhiteandblue, #modellifestyle, #fypage, #niceview"
+    hashtags: "#mtlady, #walkonnow, #ad, #montreal"
   - username: "davidkidd_portfolio"
     fullname: >-
       🦉David Kidd | Photographer🦉
+    bio: >-
+      🌿@davidkidd 🌿 🌹Montreal,Canada 🌹 📍 now in montreal 📍 |199X|Dm📥| pour 🍇infos Et booking🍇 ✨Audition⬇️Iconly✨
     location: "Canada"
-    followers: 6887
-    engagement: 471
-    commentsToLikes: 0.092888
+    followers: 8079
+    engagement: 563
+    commentsToLikes: 0.075280
     id: ck5ciu4n9tdjh0i11bg2j10aa
     verified: false
-    hashtags: "#fire, #actionphotoshop, #family, #blackmen"
-  - username: "sherbatov"
+    hashtags: "#model, #montrealphotos, #hat, #tattoos"
+  - username: "minaj.mp"
     fullname: >-
-      Eliezer Sherbatov
+      ♏️inajmp💮
+    bio: >-
+      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
     location: "Canada"
-    followers: 29586
-    engagement: 491
-    commentsToLikes: 0.047912
-    id: ck5cgfgqyoqgj0i113j7go62b
+    followers: 59018
+    engagement: 273
+    commentsToLikes: 0.095481
+    id: ckaotndqcwn0x0i78myma80eh
     verified: false
-    hashtags: "#mustang, #findyourself, #challenge, #menshair"
-  - username: "justinebrouill"
+    hashtags: "#modeling, #fashionphotography, #love, #fashion"
+  - username: "diutoajoku"
     fullname: >-
-      JUSTINE BROUILLETTE
+      Diuto Ajoku (리아)
+    bio: >-
+      • 🙏🏾Jesus is my King❤️❤️ • @cocobayhair • Fashion/Hair stylist | Makeup Artist • Email👇🏾 • 🎥129k YT munchkins •📍Montreal🇨🇦 • New video👇🏾
     location: "Canada"
-    followers: 38372
-    engagement: 620
-    commentsToLikes: 0.092252
-    id: ck55mvs7w4xmt0i11ri5jgn7h
+    followers: 55214
+    engagement: 1392
+    commentsToLikes: 0.045004
+    id: ck6u0t4yihm150j713a6z3doq
     verified: false
-    hashtags: "#st1lite, #innerambitions, #giveaway, #lechateaustyle"
-  - username: "josiestevens"
+    hashtags: "#makeupforwoc, #melaningoddess, #leatherjackets, #montrealhairdresser"
+  - username: "caillebot"
     fullname: >-
-      Josie Stevens
+      Claire • FOOD & 📸
+    bio: >-
+      || Auteure du blog CAILLEBOT 👩🏻‍🍳👩🏻‍💻 || Créatrice de contenu, Styliste & Photographe culinaire 🌸 📍Montréal 🇨🇦 ⛵️From la Normandie & Paris 👩🏻‍🌾🇫🇷
     location: "Canada"
-    followers: 45532
-    engagement: 292
-    commentsToLikes: 0.062588
-    id: ck0vw9j9wspmu0i1933ue7baz
-    verified: true
-    hashtags: "#tbt, #2009vs2019, #fbcnip, #giddyup"
-  - username: "blondehanes"
-    fullname: >-
-      S A R A  W E L L S
-    location: "Canada"
-    followers: 5440
-    engagement: 811
-    commentsToLikes: 0.176184
-    id: ck14hujp9c7nx0i19asz7qr08
+    followers: 4648
+    engagement: 1266
+    commentsToLikes: 0.157723
+    id: ck5cezx50m1tj0i11hknvtool
     verified: false
-    hashtags: "#bumble, #f21xme, #styletip, #stylethebump"
-  - username: "shann.hardy"
+    hashtags: "#recettehealthy, #homemadefood, #foodphotography, #pumpkin"
+  - username: "nicolasdionstyle"
     fullname: >-
-      Shannon Hardy
+      Fashion | Oufit Inspiration
+    bio: >-
+      •Outfit Ideas | Fashion posts | Blogger •Casual Style | Street Style •Sneakers, shoes and accessories •Business owner | 📍Montreal🇨🇦
     location: "Canada"
-    followers: 2535
-    engagement: 1445
-    commentsToLikes: 0.363237
-    id: ck5zu70ma1sz10i14xj1wr3nm
+    followers: 147817
+    engagement: 261
+    commentsToLikes: 0.042510
+    id: ckapa03rru6bp0i78n4sfz2fq
     verified: false
-    hashtags: "#gifted, #caseapp"
+    hashtags: "#instastyle, #streetstyle, #mensfashion, #outfit"
+  - username: "lowkeemtl"
+    fullname: >-
+      LowkeeMTL⏱
+    bio: >-
+      •Montreal Artist/Rapper🎤🎤 •Videographer Life🎬🎬 •Photography Gang📸📸 •Barz On Barz Out Now!!🔥🔥
+    location: "Canada"
+    followers: 9092
+    engagement: 1378
+    commentsToLikes: 0.097155
+    id: ckap1tuynw4ea0i78inu1b58u
+    verified: false
+    hashtags: "#newmusicalert, #rapgod, #rapper, #mixtape"
+  - username: "maryem_wesleti"
+    fullname: >-
+      Mimi 🇹🇳🇨🇦
+    bio: >-
+      Half Tunisian, Half Canadian 📍Montreal, Sousse
+    location: "Canada"
+    followers: 56013
+    engagement: 234
+    commentsToLikes: 0.000509
+    id: ckap6vmsghj810i78wdxdslvm
+    verified: false
+    hashtags: "#pictureday, #instapic, #instamoment, #canada"
+  - username: "veveordie"
+    fullname: >-
+      Vincent 🌈| Montreal 🇨🇦
+    bio: >-
+      Travel Photographer 51 Countries Visited🌎 veveordie@gmail.com
+    location: "Canada"
+    followers: 9383
+    engagement: 572
+    commentsToLikes: 0.022928
+    id: ck14lit5buwa20i199kkgn9fb
+    verified: false
+    hashtags: "#architecture, #qc, #nature, #montreallife"
 ---

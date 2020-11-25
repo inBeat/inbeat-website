@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness TikTok Influencers In United States In 2020
 description: >-
-  Find top wellness TikTok influencers in United States in 2020. Most popular hashtags: #keepingactive #gonnabefriends #minitutorials #health.
+  Find top wellness TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #learnontiktok #foryoupage.
 platform: TikTok
+hits: 361
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 361 TikTok influencers like this in United States for you to pitch.
 profiles:
-  - username: "sassy_dianne"
+  - username: "jasonstotz"
     fullname: >-
-      wellnesswithsouthern
+      Jason Stotz
+    bio: >-
+      Wellness and Fitness Coach CEO of ‘The River’ Dance Sexy, Silly, Spiritual
     location: "United States"
-    followers: 7664
-    engagement: 1702
-    commentsToLikes: 0.142282
-    id: ck9si9aduxrkk0j78h09c4d7w
+    followers: 99700
+    engagement: 1975
+    commentsToLikes: 0.037503
+    id: ckc8ae8ak75te0j23dwky6hds
     verified: false
-    hashtags: "#aftermycoffee, #past, #lovethem, #bestfriends"
-  - username: "beenietv6"
+    hashtags: "#bluewave, #redbulldanceyourstyle, #byedon, #biden2020"
+  - username: "bridget_brady"
     fullname: >-
-      Beenie TV
+      Bridget Brady
+    bio: >-
+      Performance Coach Achieve Your Wildest Dreams Wellness Junkie + Author
     location: "United States"
-    followers: 4222
-    engagement: 1315
-    commentsToLikes: 0.089111
-    id: cka6m32i05m100i78lwjh04r1
+    followers: 26400
+    engagement: 1561
+    commentsToLikes: 0.445415
+    id: cka8e6ejpvyr30i78mw4cljz5
     verified: false
-    hashtags: "#keepingactive, #periodhacks, #fashion, #periodtalk"
-  - username: "drthierryjacquemin"
+    hashtags: "#jacksonholewy, #dontsettleladies, #duet, #bidenfraud"
+  - username: "mr.tracyb"
     fullname: >-
-      DrThierryJacquemin
+      Tracy J. Brown
+    bio: >-
+      Health&Wellness, Wisdom, Motivation, Justice & positive. linktr.ee/Mr.Tracy
     location: "United States"
-    followers: 65963
-    engagement: 876
-    commentsToLikes: 0.069456
-    id: ck9fx9k895jc70j78c92r6sun
+    followers: 27100
+    engagement: 1561
+    commentsToLikes: 0.104611
+    id: ckblka19dd4cc0j23zc2m2cwu
     verified: false
-    hashtags: "#immunity, #vitamind, #lipfiller, #imunidade"
-  - username: "imhereandcare"
+    hashtags: "#vote2020, #thefold, #duet, #fyp"
+  - username: "itsanewdawn4you"
     fullname: >-
-      Ro 💜
+      Lenora Colarusso
+    bio: >-
+      56 young/mom of five/ RN holistic health coach/ health and wellness🌈
     location: "United States"
-    followers: 45086
-    engagement: 1100
-    commentsToLikes: 0.036192
-    id: ck9kg8mrz6qif0j782z2md5hc
+    followers: 9313
+    engagement: 2141
+    commentsToLikes: 0.427941
+    id: ckcoqxpct7f270j235909ff39
     verified: false
-    hashtags: "#played, #brokenheart, #yearbook2020, #beyourself"
-  - username: "everariasmd"
+    hashtags: "#wip, #duet, #tessaarmy, #itsanewdawn"
+  - username: "anisabenitez"
     fullname: >-
-      Ever Arias, MD
+      Anisa Benitez
+    bio: >-
+      CREATIVE WELLNESS 🧘🏾‍♀️☁️ 🌿 From Google to 🎭 Podcast: No Starving Artist👇🏽
     location: "United States"
-    followers: 2617
-    engagement: 806
-    commentsToLikes: 0.067504
-    id: ckamlwyx2y1dx0i78x55ef5cl
+    followers: 27500
+    engagement: 1479
+    commentsToLikes: 0.059410
+    id: ckb9lfdk6dtx70j23786yeask
     verified: false
-    hashtags: "#spiritual, #duet, #bestfriend, #medstudents"
+    hashtags: "#duet, #creativewellness, #tiktokpartner, #wellnesstiktok"
   - username: "doctorrose"
     fullname: >-
       Dr. Rose
+    bio: >-
+      Eye doc loving all things dry eye and preventative wellness. 👁 ❤️
     location: "United States"
-    followers: 140161
-    engagement: 543
-    commentsToLikes: 0.032175
+    followers: 176300
+    engagement: 1089
+    commentsToLikes: 0.048837
     id: ck83z7wmsyhx60j78cbt3vtpx
     verified: false
-    hashtags: "#momsoftiktok, #dryeyes, #orthokeratology, #visiontherapy"
-  - username: "busybabeketo"
+    hashtags: "#dryeyes, #myopia, #meibomianglanddysfunction, #dryeye"
+  - username: "theallenye"
     fullname: >-
-      Meagan Anderson
+      Allen Ye
+    bio: >-
+      Come for looks, stay for knowledge Health/wellness/fitness LA ⬇️free workouts⬇️
     location: "United States"
-    followers: 79897
-    engagement: 458
-    commentsToLikes: 0.046720
-    id: ck8adaie14o6j0j78fc4yakmf
+    followers: 246500
+    engagement: 1969
+    commentsToLikes: 0.016050
+    id: ckb9ughdjt3y00j234lz9dsst
     verified: false
-    hashtags: "#workoutfromhome, #duet, #neverfitin, #littlethings"
-  - username: "abienergycrystals"
+    hashtags: "#duet, #greenscreen, #stitch, #fitness"
+  - username: "imhereandcare"
     fullname: >-
-      Juan Abi aka Juwan
+      Rohit Tigga 💜
+    bio: >-
+      You have a purpose 💜 Follow me on Insta SIGN UP FOR OUR WELLNESS APP 👇
     location: "United States"
-    followers: 9403
-    engagement: 362
-    commentsToLikes: 0.103307
-    id: cka0sk20oluyn0i78nmp9vqfo
+    followers: 102600
+    engagement: 1034
+    commentsToLikes: 0.046852
+    id: ck9kg8mrz6qif0j782z2md5hc
     verified: false
-    hashtags: "#over60, #jamsession, #redlight, #younger"
-  - username: "glamgram60"
+    hashtags: "#imhereandcare, #relationships, #mentalhealth, #relationshipgoals"
+  - username: "libra.moonstone"
     fullname: >-
-      Susan Korutz
+      ☽ Lynae ☾
+    bio: >-
+      ☽healer & chandler☽ ☼metaphysics & wellness ☼ ♡Welcome To My Healing Corner♡
     location: "United States"
-    followers: 3863
-    engagement: 808
-    commentsToLikes: 0.093561
-    id: ckaii1ljl8k870i78qhi6o6j5
+    followers: 11200
+    engagement: 1956
+    commentsToLikes: 0.030259
+    id: ckb9bf09qxg4x0j23dp62erhh
     verified: false
-    hashtags: "#friends, #nicetimeetyou, #schittscreek, #bringingtheboys"
-  - username: "courtandnate"
+    hashtags: "#mineraltok, #spiritualtiktok, #crystalhealing, #moonphases"
+  - username: "ashleyebrandon"
     fullname: >-
-      courtandnate
+      Ashley E Brandon
+    bio: >-
+      Wellness advocate Also super random Follow on FB for nontoxic tips
     location: "United States"
-    followers: 748986
-    engagement: 1939
-    commentsToLikes: 0.005618
-    id: ck81q9s9dh2hj0j78pea1k3hz
+    followers: 20500
+    engagement: 710
+    commentsToLikes: 0.061236
+    id: ck8qfq0gkxv310j782ot9tkcf
     verified: false
-    hashtags: "#organizehacks, #doberman, #homeproject, #hometour"
+    hashtags: "#coupledup, #ketoforbeginners, #christianwomen, #ketofastosis"
 ---

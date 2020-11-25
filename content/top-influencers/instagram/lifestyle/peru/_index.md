@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Peru In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Peru in 2020. Most popular hashtags: #tiktok #stayathome #summer #quedateencasa.
+  Find top lifestyle Instagram influencers in Peru in 2020. Most popular hashtags: #ootd #publicidad #girl #outfits.
 platform: Instagram
+hits: 100
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 100 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "oliviaheintz"
+  - username: "margotvaldez"
     fullname: >-
-      ✰ O L I V I A  ✰
+      🤍 𝕸𝖆𝖗𝖌𝖔𝖙 𝖁𝖆𝖑𝖉𝖊𝖟 🤍
+    bio: >-
+      YouTube ✨ Tiktok ✨ Lifestyle Tiktok: margocitavaldez (+86k) Cod Rappi: margotvaldez 🛵 STORE: @margotvaldez.store ⬇️ Donde compró mis ZAPATILLAS
     location: "Peru"
-    followers: 16503
-    engagement: 1304
-    commentsToLikes: 0.041102
-    id: ck0w5ynr862h10i19djczzy64
+    followers: 57569
+    engagement: 645
+    commentsToLikes: 0.156104
+    id: ck5bxst6yocqq0i117t7ri0l8
     verified: false
-    hashtags: "#sprinkles, #pink, #special, #positive"
-  - username: "alecabani"
+    hashtags: "#urbanstyle, #ootd, #converse, #mood"
+  - username: "brisabraunl"
     fullname: >-
-      𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐚 𝐂𝐚𝐛𝐚𝐧𝐢𝐥𝐥𝐚𝐬
+      Brisa Braun
+    bio: >-
+      <create your own happiness> 🌿 Healthy lifestyle 📍 Trujillo, Perú 💚 Feminista 💜 DM/Email for Collabs
     location: "Peru"
-    followers: 8475
-    engagement: 832
-    commentsToLikes: 0.137812
-    id: ckap4eoqc71bz0i78zsybyr8w
+    followers: 6979
+    engagement: 1486
+    commentsToLikes: 0.046136
+    id: ck6ti4oe401570j71jif3dfqp
     verified: false
-    hashtags: "#sorteo, #alecabani, #fashion, #moda"
+    hashtags: "#fitnessmotivation, #feelingblessed, #love, #nature"
   - username: "johanaadelacruz"
     fullname: >-
       Johanna De La Cruz
+    bio: >-
+      para el que cree, todo es posible ❤️ 🇵🇪 lima, peru 🎥 YouTuber 🙌🏼 18 años 🛍 @newbright.pe | 🍓 @johanna.lifestyle 📩 johanna03delacruz@gmail.com
     location: "Peru"
-    followers: 251487
-    engagement: 639
-    commentsToLikes: 0.038818
+    followers: 236504
+    engagement: 702
+    commentsToLikes: 0.012838
     id: ck15pnl2pyr6w0i19ki6mmn16
     verified: false
-    hashtags: "#summer, #yomequedoencasa, #tb"
-  - username: "valeryrevello"
-    fullname: >-
-      Valery Revello🐆
-    location: "Peru"
-    followers: 38627
-    engagement: 976
-    commentsToLikes: 0.011345
-    id: ck5q8otfm78u40i111b69mm1k
-    verified: false
-    hashtags: "#cookingtime, #cookies, #tbt, #tiktok"
-  - username: "sebaslizar"
-    fullname: >-
-      Sebastian Lizarzaburu
-    location: "Peru"
-    followers: 719686
-    engagement: 127
-    commentsToLikes: 0.037510
-    id: ck5zrcj62wbzb0i14n5zwo4x6
-    verified: true
-    hashtags: "#papafit, #fitness, #physique, #corona"
-  - username: "yisus_eat_world"
-    fullname: >-
-      Fotografo
-    location: "Peru"
-    followers: 15667
-    engagement: 300
-    commentsToLikes: 0.179083
-    id: ck13d1vnk38ul0i19b40pey7z
-    verified: false
-    hashtags: "#urbanportrait, #tumblrperu, #urban, #filmmaker"
+    hashtags: "#amigas, #bowldeavena, #oatmeal, #receta"
   - username: "pierina_dg"
     fullname: >-
       Pierina De La Borda Gotuzzo
+    bio: >-
+      Comunicadora Social Lifestyle Blogger 🍃 @qhalella.pe 🎭Actriz 📍Arequipeña en Lima 📩 pieri_dbg@hotmail.com AREQUIPA ❤️⬇️⬇️
     location: "Peru"
-    followers: 27955
-    engagement: 275
-    commentsToLikes: 0.047540
+    followers: 28511
+    engagement: 263
+    commentsToLikes: 0.082306
     id: ck0u81ats66gj0i19ly75nquv
     verified: false
-    hashtags: "#winelover, #love, #skincareroutine, #stayathome"
-  - username: "mafevillanueva19"
+    hashtags: "#lookoftheday, #girl, #ootd, #outfitoftheday"
+  - username: "claudiamezarosas"
     fullname: >-
-      MAFE VILLANUEVA 🌸
+      CLAUDIA MEZA
+    bio: >-
+      Model Lifestyle Founder @morenabycm 📍Perú Colaboraciones al DM 📩
     location: "Peru"
-    followers: 17298
-    engagement: 520
-    commentsToLikes: 0.034171
-    id: ck138u55ei1660i197uo03srr
+    followers: 23213
+    engagement: 237
+    commentsToLikes: 0.328876
+    id: ck134l3hqwybc0i19te2gj1v2
     verified: false
-    hashtags: "#yomequedoencasa, #howtobeparisian, #ma, #cuarentena"
+    hashtags: "#publicidad, #peru, #model, #peruviangirl"
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
+    bio: >-
+      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle | MakeUp ✉ antonellaleguab@gmail.com 📌 Perú
     location: "Peru"
-    followers: 85116
-    engagement: 103
-    commentsToLikes: 0.094163
+    followers: 82062
+    engagement: 128
+    commentsToLikes: 0.179357
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#8m, #rainbowcake, #quedateencasa, #bffs"
-  - username: "claudialb01"
+    hashtags: "#dknychallenge, #dknystories, #publicidad, #celebremostodo"
+  - username: "bocinsdemi"
     fullname: >-
-      Maria Claudia Lastarria
+      m e n e 🌿
+    bio: >-
+      Mamá de Abril maternidad • deco • lifestyle 📩 collabs: menebocinsdemi@gmail.com YouTube:
     location: "Peru"
-    followers: 506019
-    engagement: 511
-    commentsToLikes: 0.022188
-    id: ck8tczb9i19h00j785npmxguo
+    followers: 7905
+    engagement: 977
+    commentsToLikes: 0.033768
+    id: ckap2thx3095h0i780a6swlrh
     verified: false
-    hashtags: "#peru, #healthysnack, #stayathome, #gymoutfit"
+    hashtags: "#mamaprimeriza, #ajetreadaviida, #sorprendenteviida, #alittlebeautyeveryday"
+  - username: "marana.gm"
+    fullname: >-
+      Majo y Analu - Content Creator
+    bio: >-
+      Nos dicen chis Moda - lifestyle ♡ Fundadoras de @almarosa.pe ♡ Contact.marana@gmail.com
+    location: "Peru"
+    followers: 35884
+    engagement: 253
+    commentsToLikes: 0.042316
+    id: ck1397rc6jylw0i190heewaet
+    verified: false
+    hashtags: "#fashiontip, #looks, #ootd, #inspoun"
+  - username: "alessandra.salazar"
+    fullname: >-
+      Alessandra Salazar
+    bio: >-
+      Estudiante de publicidad📍Based in Lima 🎒 Travel | Reader | Fashion | Lifestyle
+    location: "Peru"
+    followers: 7618
+    engagement: 602
+    commentsToLikes: 0.052222
+    id: ck8t1m991w8eu0j78q7w267lq
+    verified: false
+    hashtags: "#bffs"
+  - username: "aleventuro"
+    fullname: >-
+      Alexandra Venturo
+    bio: >-
+      Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
+    location: "Peru"
+    followers: 45909
+    engagement: 458
+    commentsToLikes: 0.012655
+    id: ck6tisb7j1bsv0j718bgp7ozy
+    verified: false
+    hashtags: "#mybaby, #momlife, #babya, #babygirl"
 ---

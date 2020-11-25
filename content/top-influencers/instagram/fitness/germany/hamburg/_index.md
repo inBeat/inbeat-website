@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top fitness Instagram influencers in Hamburg in 2020. Most popular hashtags: #fitness #hamburg #nature #natur.
+  Find top fitness Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #fitness #fitnessmotivation #motivation.
 platform: Instagram
+hits: 344
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 344 Instagram influencers like this in Hamburg, Germany for you to pitch.
 profiles:
-  - username: "danielkbk_"
+  - username: "bayermaex"
     fullname: >-
-      Daniel Kubik
+      Max Bayer
+    bio: >-
+      ⚡️Founder of @BYMX.de 🇩🇪 MostWantedModels, McfitModels 💢 Athlet @prozis -10% bayermaex 🧉 Team @noccogermany Zum Shakebook
     location: "Germany"
-    followers: 60719
-    engagement: 457
-    commentsToLikes: 0.038673
-    id: ck5hn9dt5nfi10i11mggc6qxy
+    followers: 20087
+    engagement: 780
+    commentsToLikes: 0.087455
+    id: ck5qa1fpze22u0i114l2qgino
     verified: false
-    hashtags: "#3erbmw, #jeans, #zufriedenheit, #designerbar"
-  - username: "sanae.decker"
+    hashtags: "#blond, #style, #berlinmodel, #shooting"
+  - username: "coachhayk"
     fullname: >-
-      Yoga - Mindful Moves
+      COACH HAYK | ZERTIFIZIERT
+    bio: >-
+      ▪️Zertifizierter Personal Trainer ▪️Daily Workout-Tipps ▪️Marketing & Management i.A. ▪️ANFRAGEN: coachhayk@gmail.com
     location: "Germany"
-    followers: 7811
-    engagement: 937
-    commentsToLikes: 0.050098
-    id: ck8swofawepvm0j78mdg3uwat
+    followers: 20257
+    engagement: 651
+    commentsToLikes: 0.031746
+    id: ckap4sul18psq0i78tfj8wkpn
     verified: false
-    hashtags: "#planken, #yogalover, #tuwasduliebst, #veganeern"
+    hashtags: "#personaltrainerhamburg, #hamburgcity, #fitnessgermany, #fitwerden"
+  - username: "biniswelt"
+    fullname: >-
+      Benita🌹 | Fitness | Portraits
+    bio: >-
+      📍 Hamburg 📩 DM for shootings ➖21 years old ➖Fitness-Girl ➖Snap : benita_99
+    location: "Germany"
+    followers: 9175
+    engagement: 1137
+    commentsToLikes: 0.040042
+    id: ck9hasb79dwgm0j78ajzpmm6n
+    verified: false
+    hashtags: "#selbstbewusstsein, #fitnessgirl, #fitness, #portraitmood"
+  - username: "florianteatiu"
+    fullname: >-
+      Florian Teatiu
+    bio: >-
+      📍Hamburg • EXOS performance coach • Personal trainer / Athletic coach • Pro dancer / Rugby player • 📧florianteatiu@gmail.com • Trainer @theurbanheroes
+    location: "Germany"
+    followers: 10895
+    engagement: 757
+    commentsToLikes: 0.021525
+    id: ck8tcni6k01300j78sy1h4k2u
+    verified: false
+    hashtags: "#hh, #hamburgmeineperle, #hamburg, #holidays"
+  - username: "jennifer_prokopenkova"
+    fullname: >-
+      Jennifer Prokopenkova |Rostock
+    bio: >-
+      Für Selbstverwirklichung & Freiheit Kraftsport | Reisen | Gesundheit Inspiring healthy living around the world 🌍 LIVE INTERVIEW - MY STORY 👇🏽
+    location: "Germany"
+    followers: 27566
+    engagement: 176
+    commentsToLikes: 0.087785
+    id: ckap38pjt20pi0i789l7zj0m6
+    verified: false
+    hashtags: "#warnem, #binzaufr, #bewusstleben, #rostockerm"
+  - username: "roadtogloryjil"
+    fullname: >-
+      No 1 Fitness & Abnehmcoach 🏆
+    bio: >-
+      Fitness Online Coach, Mentor & Autor 🎥 Fitness Reality Checks ❤️ NO Fake Posts 💩 〰️ ⬇️ OUT NOW: Dein individueller Trainings & Ernährungsplan 🔽
+    location: "Germany"
+    followers: 180730
+    engagement: 171
+    commentsToLikes: 0.073012
+    id: ck14i33pudeew0i194p2f6tkm
+    verified: true
+    hashtags: "#muskelaufbau, #transformation, #hamburg, #ego"
+  - username: "iurydance"
+    fullname: >-
+      Iury Matheus 💥
+    bio: >-
+      • Dancer - Actor 🇧🇷🇩🇪🇵🇹🇨🇵🇬🇧🇪🇦🇮🇹🇨🇭🇧🇪🇮🇪🇨🇿🇦🇹🇳🇱🇱🇺🇫🇮🇩🇰🇸🇪 Shows: @bodyguardmusical @disneys_musical_tarzan @cavalluna.official @laflambeeproductions 👇🏾
+    location: "Germany"
+    followers: 25208
+    engagement: 506
+    commentsToLikes: 0.078290
+    id: ck8t9girvo04o0j78nxl1mm7o
+    verified: false
+    hashtags: "#maledancers, #metedan, #lisboando, #milfacesdeumhomemleal"
   - username: "petermatzner"
     fullname: >-
       Peter
+    bio: >-
+      Hamburg 🇩🇪 Fitness | Fashion | Finance
     location: "Germany"
-    followers: 32365
-    engagement: 1043
-    commentsToLikes: 0.043554
+    followers: 36971
+    engagement: 1085
+    commentsToLikes: 0.038799
     id: ck8t2c6vvyxf90j78k0370joq
     verified: false
-    hashtags: "#jointhemvmt"
-  - username: "pilot.flying_felix"
+    hashtags: "#powersystem, #powercommunity"
+  - username: "raechel_"
     fullname: >-
-      Felix✈|Airbus A32F Pilot
+      Raechel🌸
+    bio: >-
+      🖤| Lifestyle • Travel • Fitness 📍| Hamburg ✨| 23
     location: "Germany"
-    followers: 23985
-    engagement: 482
-    commentsToLikes: 0.021221
-    id: ck0w3rskyuy1m0i19r642es0z
+    followers: 4707
+    engagement: 1866
+    commentsToLikes: 0.065302
+    id: ckaor4dgblo9w0i78pu86c1tf
     verified: false
-    hashtags: "#aviationhumor, #covi"
-  - username: "marie_kroon"
+    hashtags: "#waves, #perfectweather, #takemeback, #saltyhair"
+  - username: "tabiiiiiiiiiiiiiiiiiiiiiiiiiii"
     fullname: >-
-      FITNESS | FOOD| FASHION👑
+      Tabea Schoe.📷🌸
+    bio: >-
+      • 📸 Anfragen per Dm •📍near Hamburg • privat @tabiiiiiiiiiiiiiifails • 🤍🔐
     location: "Germany"
-    followers: 5545
-    engagement: 3264
-    commentsToLikes: 0.179457
-    id: ck8t3uy124l9p0j78mv15gcyi
+    followers: 5711
+    engagement: 2113
+    commentsToLikes: 0.030747
+    id: ckap1go99uiq10i78gn211qj5
     verified: false
-    hashtags: "#stayathome, #starbucks, #brownhair, #bloggerstyle"
-  - username: "officialjulianschneider"
-    fullname: >-
-      Julian Schneider
-    location: "Germany"
-    followers: 20715
-    engagement: 1342
-    commentsToLikes: 0.018158
-    id: ck8t0mngsskxo0j7823mvuhdv
-    verified: false
-    hashtags: "#season, #stage, #tv, #film"
-  - username: "katerinagiannoglou"
-    fullname: >-
-      Katerina Giannoglou
-    location: "Germany"
-    followers: 16203
-    engagement: 263
-    commentsToLikes: 0.061232
-    id: ck5bvwca2kj5l0i11jnpocn92
-    verified: false
-    hashtags: "#yogalifestyle, #beach, #germany, #timeoff"
-  - username: "mischamars"
-    fullname: >-
-      Mischa Mars
-    location: "Germany"
-    followers: 4373
-    engagement: 1910
-    commentsToLikes: 0.034577
-    id: ck5hkvrcoj4cd0i11r1aost7c
-    verified: false
-    hashtags: "#walsrode, #dresslover, #hamburgliebe, #fitness"
-  - username: "itscelinely"
-    fullname: >-
-      celine ♛
-    location: "Germany"
-    followers: 6754
-    engagement: 614
-    commentsToLikes: 0.031865
-    id: ck5hp7667qv9x0i11y2bfcgmp
-    verified: false
-    hashtags: "#festderliebe, #sessionsstart, #domblick, #girlpower"
-  - username: "jan_koerbeeeer"
-    fullname: >-
-      Jan Körber
-    location: "Germany"
-    followers: 60546
-    engagement: 309
-    commentsToLikes: 0.033526
-    id: ck0tvq8x7cdqz0i19s1woqeee
-    verified: false
-    hashtags: "#roadtotokyo, #reifeleistung, #gesundeern, #gesundkochen"
+    hashtags: "#fitnessgirl, #shooting, #hamburg, #hamburgcity"
 ---

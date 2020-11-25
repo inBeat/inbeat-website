@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Colombia In 2020
 description: >-
-  Find top stylists Instagram influencers in Colombia in 2020. Most popular hashtags: #earthday #morning #stayhome #quarantinelife.
+  Find top stylists Instagram influencers in Colombia in 2020. Most popular hashtags: #ootd #fashion #publicidad.
 platform: Instagram
+hits: 24
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 24 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "nannamartinezp"
     fullname: >-
       Nanna Martínez
+    bio: >-
+      Freelance Fashion designer-Stylist Fashion tips, skincare @atypigal @thesecondchanceco 🌎👾🌻🐝🍒🌸🌈💚 “Progreso, no perfección” contacto@nannamartinezp.com
     location: "Colombia"
-    followers: 33962
-    engagement: 193
-    commentsToLikes: 0.125090
+    followers: 32866
+    engagement: 208
+    commentsToLikes: 0.081909
     id: ck602cvayh5bm0i14s0r0qinq
     verified: false
-    hashtags: "#healthysnacks, #recetascuarentena, #cuarentenacreativa, #peanutbutter"
-  - username: "vane_palacio19"
+    hashtags: "#instablogger, #fashionblog, #fashionpost, #theparisguru"
+  - username: "vale_gallego"
     fullname: >-
-      V A N E S S A ♡
+      V A L E R I A
+    bio: >-
+      Fashion Stylist #VGSTYLE Sneakers Addict @letkicks Creative Director at @vag_collection_ CEO @directmanager_ 📍COL
     location: "Colombia"
-    followers: 81188
-    engagement: 119
-    commentsToLikes: 0.051138
-    id: ck5hm2bmql9760i11yz33polh
+    followers: 19400
+    engagement: 153
+    commentsToLikes: 0.072506
+    id: ck5ch3emgq1d40i11ant1b80n
     verified: false
-    hashtags: "#tulum2020, #piscis, #pricelesstreasures, #morning"
+    hashtags: "#yoelijo, #publicidad, #sneakersaddict, #sneakerhead"
+  - username: "isabellavelez7"
+    fullname: >-
+      Isabella
+    bio: >-
+      fashion design student Co-Founder @isabellavelezatelier Personal stylist 🪐
+    location: "Colombia"
+    followers: 27086
+    engagement: 486
+    commentsToLikes: 0.021447
+    id: ckap1cfdptzl70i78zzakbvpo
+    verified: false
+    hashtags: "#tb"
   - username: "ossy_lion"
     fullname: >-
       O S S
+    bio: >-
+      Feminist 💚 Body positive Stylist @michelleforbadgirls ✨ Foodie wannabe 🍝
     location: "Colombia"
-    followers: 5881
-    engagement: 870
-    commentsToLikes: 0.021875
+    followers: 6319
+    engagement: 720
+    commentsToLikes: 0.046023
     id: ck5qd8roludd50i11r69qsa2n
     verified: false
-    hashtags: "#oss, #mood, #2018, #mixtoymixta"
-  - username: "catalinaramirezm"
+    hashtags: "#beauty, #makeup, #ojalaalgundia, #feminist"
+  - username: "laupantoja"
     fullname: >-
-      catalina ramírez m. 🦉
+      LAURA PANTOJA / MAKEUP & HAIR
+    bio: >-
+      ▫️ Makeup Artist ▫️ Hair Stylist ▫️ Beauty insider ✉️ Novias: Info por email o por @bridesbylaupantoja Únicamente ✨ ▫️ Owner @serendipityphotolove
     location: "Colombia"
-    followers: 30311
-    engagement: 167
-    commentsToLikes: 0.034115
-    id: ck13c5vunyrmd0i19ndylniml
+    followers: 39414
+    engagement: 209
+    commentsToLikes: 0.036848
+    id: ck13c5vlcyrim0i190ndyqzfl
     verified: false
-    hashtags: "#hateditorial, #boots, #claudiabahamon, #purse"
-  - username: "mafprada"
+    hashtags: "#hydroboost, #makeupbogota, #makeupeditorial, #makeupartistcolombia"
+  - username: "vane_palacio19"
     fullname: >-
-      SOY DE MAF PRADA
+      V A N E S S A ♡
+    bio: >-
+      Fashion Stylist♡ Administradora de negocios Owner of @utboutique @utboutiquelux
     location: "Colombia"
-    followers: 5325
-    engagement: 940
-    commentsToLikes: 0.051288
-    id: ck9wg0kv9rd0h0j78oei6whs1
+    followers: 82289
+    engagement: 119
+    commentsToLikes: 0.040749
+    id: ck5hm2bmql9760i11yz33polh
     verified: false
-    hashtags: "#sola, #loco"
+    hashtags: "#colombia, #ootd, #utbstyle, #tones"
+  - username: "nataliaolayan"
+    fullname: >-
+      Natalia Olaya 🧿
+    bio: >-
+      Brand Ambassador l Model l Fashion stylist “All you need is L♥ve is all you need” Agency @boobootalents Colombian ∞ Miami
+    location: "Colombia"
+    followers: 3373
+    engagement: 752
+    commentsToLikes: 0.178045
+    id: ck9hc2knvjh290j785cq3jiol
+    verified: false
+    hashtags: "#blacklivesmatter, #lunesdemotivacion, #weareone, #throwbackthursday"
   - username: "vaalenntiinoo"
     fullname: >-
       Valentino 🥊
+    bio: >-
+      Photographer . Fashion Producer . Stylist fut Model & natural Sciences ⚛️ 🔫 CEO @vaalenntino_studios
     location: "Colombia"
-    followers: 5742
-    engagement: 553
-    commentsToLikes: 0.023376
+    followers: 5967
+    engagement: 973
+    commentsToLikes: 0.031541
     id: ck5qbroeln2z70i111ufrb1oh
     verified: false
-    hashtags: "#lasolar, #analog, #kingkong"
+    hashtags: "#lasolar, #kingkong"
+  - username: "catalinaramirezm"
+    fullname: >-
+      catalina ramírez m. 🦉
+    bio: >-
+      ⇢ Fashion Producer & Stylist ⇢ Colombia
+    location: "Colombia"
+    followers: 30990
+    engagement: 108
+    commentsToLikes: 0.030791
+    id: ck13c5vunyrmd0i19ndylniml
+    verified: false
+    hashtags: "#fashionstyle, #backstage, #stylingbyme, #outfits"
   - username: "andresyepesd"
     fullname: >-
       A N D I E 🥀
+    bio: >-
+      🧜🏼‍♂️ Stylist - Creative Director - Visual storyteller @burnmag ★ BOG, Col.
     location: "Colombia"
-    followers: 23345
-    engagement: 535
-    commentsToLikes: 0.026165
+    followers: 26641
+    engagement: 493
+    commentsToLikes: 0.024801
     id: ck0udx9ezk51k0i19097hm65l
     verified: false
-    hashtags: "#earthday, #earthdayeveryday, #amigosdelconejo, #hechoencolombia"
-  - username: "daniellavillalba"
-    fullname: >-
-      • Daniella Villalba M •
-    location: "Colombia"
-    followers: 16767
-    engagement: 277
-    commentsToLikes: 0.042080
-    id: ck5cg63two86x0i1109otsyys
-    verified: false
-    hashtags: "#sunkissed, #caribbeanchic, #nudes, #makeup"
-  - username: "gopetergoblog"
-    fullname: >-
-      P E T E R  L E E 🧿
-    location: "Colombia"
-    followers: 19864
-    engagement: 235
-    commentsToLikes: 0.139726
-    id: ck5zwg95d62o00i14ekcc64ry
-    verified: false
-    hashtags: "#tbt, #noalaviolenciadegenero, #homesick, #41"
-  - username: "stephaniayepes"
-    fullname: >-
-      Stephania Yepes
-    location: "Colombia"
-    followers: 12101
-    engagement: 569
-    commentsToLikes: 0.018184
-    id: ck5q6znqszfhy0i11lyxql1et
-    verified: false
-    hashtags: "#louisepisselet"
+    hashtags: "#ootd, #love, #holareels, #outfits"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Berlin In 2020
 description: >-
-  Find top gardening Instagram influencers in Berlin in 2020. Most popular hashtags: #gardening #love #berlin #weekendmood.
+  Find top gardening Instagram influencers in Berlin in 2020. Most popular hashtags: #autumn #gardening #garden #summer.
 platform: Instagram
+hits: 7
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 7 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "timlabenda"
+  - username: "ankamaze"
     fullname: >-
-      TIM LABENDA
+      Anka🌱
+    bio: >-
+      Introvert. 📍#BERLIN• Urban Jungle & gardening 🌱 🌿Interior - Lifestyle annkathrin.mazal@gmail.com
     location: "Germany"
-    followers: 72774
-    engagement: 456
-    commentsToLikes: 0.008203
-    id: ck0vya9yq2zl70i19o7n1hj0c
+    followers: 14617
+    engagement: 254
+    commentsToLikes: 0.016412
+    id: ck6tpjdoxk73k0j71eo3ihvod
     verified: false
-    hashtags: "#sundaybreakfast, #morocco, #greenery, #macarons"
-  - username: "benchpillow"
+    hashtags: "#stayathome, #ospreyeurope, #pflanzenmuddi, #pflanzenliebe"
+  - username: "benjibie"
     fullname: >-
-      Benjamin Denkert
+      Benjamin Bieneck
+    bio: >-
+      ProSiebenSat1 TV Deutschland
     location: "Germany"
-    followers: 10570
-    engagement: 1544
-    commentsToLikes: 0.017893
-    id: ck14kssb4r4u80i19lepvuygn
+    followers: 7738
+    engagement: 583
+    commentsToLikes: 0.029806
+    id: ck13c4if3ykuf0i19e4p3n537
     verified: false
-    hashtags: "#evilspirits, #marvel, #fishinghook, #pierced"
-  - username: "sissihardenberg"
-    fullname: >-
-      Franzi Hardenberg
-    location: "Germany"
-    followers: 25548
-    engagement: 387
-    commentsToLikes: 0.024811
-    id: ck5zs2ifjxp8w0i14p5z40fw7
-    verified: true
-    hashtags: "#reducetothemax, #fathersday, #happymuttertag, #sundayfunday"
+    hashtags: "#sun, #happy, #fun, #tv"
   - username: "kateshyggehome"
     fullname: >-
       Kates Hygge Home
+    bio: >-
+      🛋 My hygge home in Berlin Neukölln ✉️ kateshyggehome@gmx.de 👩‍🌾 Gardening & renovating @kateshyggegarden
     location: "Germany"
-    followers: 56974
-    engagement: 302
-    commentsToLikes: 0.012110
+    followers: 56209
+    engagement: 253
+    commentsToLikes: 0.010974
     id: ck14kqsarqul20i19c0odb20w
     verified: false
-    hashtags: "#ikeadeutschland, #svaln, #bedroominspo, #flur"
-  - username: "evaimhof"
+    hashtags: "#germaninteriorbloggers, #bedroom, #bolig, #bedroominspo"
+  - username: "deutschland_de"
     fullname: >-
-      Eva Imhof
+      DEUTSCHLAND.de
+    bio: >-
+      Take a look #InsideGermany How do Germans live? What trends do they like? Insights into everyday life in Germany. bit.ly/impressumGER
     location: "Germany"
-    followers: 84927
-    engagement: 267
-    commentsToLikes: 0.054214
-    id: ck55nh4qz67dr0i11k9yoo5xv
-    verified: true
-    hashtags: "#elbepark, #geburtstag, #weekendmood, #familienliebe"
-  - username: "headofalittleunicorn"
-    fullname: >-
-      Esther-Klara Panter | 29 | 🤰🏼
-    location: "Germany"
-    followers: 22248
-    engagement: 727
-    commentsToLikes: 0.043363
-    id: ck6tu0rv9dnp20j71btpkdori
-    verified: false
-    hashtags: "#kinderspielzeug, #bakfiets, #momofthree, #newbeginnings"
-  - username: "sarahgronert"
-    fullname: >-
-      SARAH GRONERT
-    location: "Germany"
-    followers: 55145
-    engagement: 430
-    commentsToLikes: 0.031026
-    id: ck8t0eksxrswk0j78tmj1eco2
-    verified: true
-    hashtags: "#bikini2020, #hitthegym, #sunglasses, #eyebrows"
-  - username: "janhartmann_official"
-    fullname: >-
-      Jan Hartmann
-    location: "Germany"
-    followers: 31486
-    engagement: 358
-    commentsToLikes: 0.021668
-    id: ck134dpg8vxxz0i19fwep13qg
-    verified: true
-    hashtags: "#coldseason, #travel, #foodgram, #home"
-  - username: "vizemusicofficial"
-    fullname: >-
-      VIZE
-    location: "Germany"
-    followers: 27021
+    followers: 72885
     engagement: 241
-    commentsToLikes: 0.035898
-    id: ck55o6phj7r1c0i116nw89s28
+    commentsToLikes: 0.027073
+    id: ck5c6s1rk62qz0i11t47ofa7c
     verified: true
-    hashtags: "#traveltheworld, #djshows, #egglondon, #producer"
-  - username: "sinaensonadora"
+    hashtags: "#learngerman, #spring, #aprenderalem, #tv"
+  - username: "katrinsgarten"
     fullname: >-
-      ✮  🎀  𝒮𝒾𝓃𝒶  🎀  ✮
+      Katrin Iskam
+    bio: >-
+      Gartenliebe 🌺Dackelliebe🐶Autodidakt🍀no follow for follow🙄if you use my photos,please tag me in
     location: "Germany"
-    followers: 11417
-    engagement: 996
-    commentsToLikes: 0.111638
-    id: ck136gwg76fvx0i19ne3h4qba
+    followers: 39056
+    engagement: 855
+    commentsToLikes: 0.121342
+    id: ck0w0yahigmxv0i19lqclp4d7
     verified: false
-    hashtags: "#quoteoftheday, #angel, #goodvibes, #accessories"
+    hashtags: "#raureifzauber, #winteriscoming, #dekoracje, #jardin"
+  - username: "anna.culina"
+    fullname: >-
+      Anna 🌈 happy food
+    bio: >-
+      💌 hello.annaculina@gmail.com __ 15% off with “EveryXAnna15” (Delivery in 🇩🇪) ORDER MY HEALTHY BOWLS🥙👇🏼
+    location: "Germany"
+    followers: 53590
+    engagement: 278
+    commentsToLikes: 0.066370
+    id: ck13a14lpo3oz0i19i3rtcvip
+    verified: false
+    hashtags: "#food4thought, #autumn, #sustainability, #gardening"
+  - username: "dddomini"
+    fullname: >-
+      🌿D D D O M I N I   🌿🐾🍀
+    bio: >-
+      𝓐𝓻𝓽𝓲𝓼𝓽/ 𝕋ℝ𝔸𝕍𝔼𝕃𝔼ℝ /𝓥𝓮𝓰 📍#prague 🇨🇭#zurich 1-7.11 ❓❗️ 🇩🇪 #NRW 13-19.11 All my sites at one place click here👇🏻
+    location: "Germany"
+    followers: 72157
+    engagement: 204
+    commentsToLikes: 0.028336
+    id: ck5zsg7w5yfrk0i14s2wbk0xf
+    verified: false
+    hashtags: "#skincare, #france, #crueltyfree, #dovolena"
+  - username: "ankamaze"
+    fullname: >-
+      Anka🌱
+    bio: >-
+      Introvert. 📍#BERLIN• Urban Jungle & gardening 🌱 🌿Interior - Lifestyle annkathrin.mazal@gmail.com
+    location: "Germany"
+    followers: 14617
+    engagement: 254
+    commentsToLikes: 0.016412
+    id: ck6tpjdoxk73k0j71eo3ihvod
+    verified: false
+    hashtags: "#stayathome, #ospreyeurope, #pflanzenmuddi, #pflanzenliebe"
+  - username: "himlajord"
+    fullname: >-
+      Helena Holmgren
+    bio: >-
+      Lives near Umeå in Sweden. Loves gardening, yoga, cats and dogs. Vegan. Please, do not use pictures from my gallery without permission.
+    location: "Germany"
+    followers: 20979
+    engagement: 300
+    commentsToLikes: 0.046970
+    id: ckaoyad6dgo0t0i78958wtqaz
+    verified: false
+    hashtags: "#dahlia, #blommor, #tr, #imintr"
+  - username: "naturlandkind"
+    fullname: >-
+      Viktoria Heyn
+    bio: >-
+      slow living | gardening | nature | sustainability | diy Inspirieren statt Missionieren! 🌿
+    location: "Germany"
+    followers: 93820
+    engagement: 269
+    commentsToLikes: 0.015463
+    id: ck0tx5s3si1dw0i19fqp7qq61
+    verified: false
+    hashtags: "#landleben, #selbstversorgung, #landschaft, #natur"
 ---

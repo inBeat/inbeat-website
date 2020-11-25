@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Madrid In 2020
 description: >-
-  Find top Instagram influencers in Madrid in 2020. Most popular hashtags: # #folkmusic #quedateencasa #minovio.
+  Find top Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #art #photo.
 platform: Instagram
+hits: 2500
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 2500 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "alejaandrovl"
+  - username: "anasannzz"
     fullname: >-
-      𝐀𝐋𝐄𝐗
+      Ana Sanz
+    bio: >-
+      Madrid, 🇪🇸
     location: "Spain"
-    followers: 7198
-    engagement: 2102
-    commentsToLikes: 0.037081
-    id: ck6uaoho64q1f0j71mtpo9808
+    followers: 2302
+    engagement: 2693
+    commentsToLikes: 0.034494
+    id: ckf5nk6bgykm00j23qxcxqt3g
     verified: false
     hashtags: ""
   - username: "sakafotos"
     fullname: >-
       s ʌ κ ʌ⚡️🇻🇪
+    bio: >-
+      Madrid
     location: "Spain"
-    followers: 23918
-    engagement: 652
-    commentsToLikes: 0.023136
+    followers: 22609
+    engagement: 670
+    commentsToLikes: 0.023974
     id: ck602xmgcjvlj0i14mn9hz66f
     verified: false
     hashtags: ""
   - username: "sara.bartt"
     fullname: >-
       𝑆𝐵 🦓
+    bio: >-
+      madrid
     location: "Spain"
-    followers: 2673
-    engagement: 1677
-    commentsToLikes: 0.066851
+    followers: 2651
+    engagement: 1601
+    commentsToLikes: 0.073507
     id: ck5zzqsyic95n0i14uldk9e0f
     verified: false
     hashtags: ""
-  - username: "brobroch.tattoo"
+  - username: "emmarossello"
     fullname: >-
-      B R O B R O C H
+      EMMA ROSSELLÓ
+    bio: >-
+      Madrid 🇪🇸
     location: "Spain"
-    followers: 11067
-    engagement: 656
-    commentsToLikes: 0.020306
-    id: ck0w4an9wxmlf0i19x6hhsf95
+    followers: 8362
+    engagement: 567
+    commentsToLikes: 0.018811
+    id: ckap4jl2v7nmq0i7827p3gel1
     verified: false
-    hashtags: "#stayathome, #dotworktattoo, #eyetattoo, #madrid"
-  - username: "lazaro_juan_"
-    fullname: >-
-      Lázaro
-    location: "Spain"
-    followers: 6650
-    engagement: 1168
-    commentsToLikes: 0.024535
-    id: ckaotbq1lv7hk0i786w88mrgv
-    verified: false
-    hashtags: "#bohohome, #book, #boyswithplants, #deco"
+    hashtags: ""
   - username: "ysensato"
     fullname: >-
       Y S E N
+    bio: >-
+      MADRID
     location: "Spain"
-    followers: 6081
-    engagement: 708
-    commentsToLikes: 0.033889
+    followers: 6327
+    engagement: 680
+    commentsToLikes: 0.032378
     id: ck5caacqtd10n0i117ofy0bp4
     verified: false
-    hashtags: "#joe, #quedateencasa, #throwbacktuesday, #pion"
+    hashtags: "#joe"
+  - username: "lazaro_juan_"
+    fullname: >-
+      Lázaro
+    bio: >-
+      Madrid
+    location: "Spain"
+    followers: 7068
+    engagement: 913
+    commentsToLikes: 0.023745
+    id: ckaotbq1lv7hk0i786w88mrgv
+    verified: false
+    hashtags: "#decor, #arquitecture, #home, #autumninmadrid"
+  - username: "_saor_"
+    fullname: >-
+      Alejandro Sánchez
+    bio: >-
+      Ⓜ️adrid
+    location: "Spain"
+    followers: 104593
+    engagement: 106
+    commentsToLikes: 0.013058
+    id: ckf5ragcsbzkr0j23ia7rrdj9
+    verified: false
+    hashtags: "#needholidays"
   - username: "crisonaderra"
     fullname: >-
       ✨ Cris ⇢ The Traveler ✨
+    bio: >-
+      ✈️ Passionate World Traveler🌍 🤗 Sharing love ❤️ through my page 📷 💌 cristhetraveler@gmail.con 📍Based in Madrid, Spain
     location: "Spain"
-    followers: 5856
-    engagement: 2421
-    commentsToLikes: 0.099216
+    followers: 5801
+    engagement: 2405
+    commentsToLikes: 0.085705
     id: ck13azjm9syer0i19djxhaqt2
     verified: false
     hashtags: ""
-  - username: "sofiahamela2"
+  - username: "alexlopezl4"
     fullname: >-
-      Sofia Hamela
+      A L E J A N D R O  L O P E Z 🌹
+    bio: >-
+      𝑪𝒓𝒂𝒛𝒚 𝒃𝒐𝒚 𝒓𝒊𝒈𝒉𝒕 𝒉𝒆𝒓𝒆* MADRID20 📍United States🇺🇸 🇪🇸\🎵 +330k 👻 Snap: alexrivas.99. 📥Collab: alexlopezl4business@gmail.com
     location: "Spain"
-    followers: 33018
-    engagement: 2149
-    commentsToLikes: 0.191201
-    id: ck5zr1n9uvq2k0i14xrifjaor
+    followers: 43520
+    engagement: 2400
+    commentsToLikes: 0.051396
+    id: ck8wgds30h6050j7846mo12ig
     verified: false
-    hashtags: "#eleganza, #conunasonrisa, #fase1, #felisitaciones"
-  - username: "lorenafernandezzz_"
+    hashtags: "#piscina, #model, #usa, #tusmejoreschicos"
+  - username: "sifercypher"
     fullname: >-
-      Lorena Fernández 💖
+      SIFER
+    bio: >-
+      • Professional Dancer | Dance Teacher | Music ♥ • Lanzarote | Canarias | Madrid | Spain 📍 • Calima Team | Men Of Steel 👤 @sifercypherformacion 📚
     location: "Spain"
-    followers: 280623
-    engagement: 1957
-    commentsToLikes: 0.050076
-    id: ck5qbx3jlnstw0i112g1arozb
+    followers: 3120
+    engagement: 2381
+    commentsToLikes: 0.140318
+    id: ck55l71fk0wq70i11s77bh8cx
     verified: false
-    hashtags: "#donettestwisteat, #teamlorena"
-  - username: "sbenayas"
-    fullname: >-
-      Sara Benayas
-    location: "Spain"
-    followers: 6682
-    engagement: 1501
-    commentsToLikes: 0.083337
-    id: ck5hj6usxg40z0i112p7exbb0
-    verified: false
-    hashtags: ""
+    hashtags: "#event, #popping, #funk, #hiphop"
 ---

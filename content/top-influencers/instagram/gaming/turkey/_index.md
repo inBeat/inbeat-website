@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Turkey In 2020
 description: >-
-  Find top gaming Instagram influencers in Turkey in 2020. Most popular hashtags: #gaming #evdekal #japan #stayhome.
+  Find top gaming Instagram influencers in Turkey in 2020. Most popular hashtags: #gaming #gamer #game #csgo.
 platform: Instagram
+hits: 24
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 24 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "cosplay_mila"
-    fullname: >-
-      Almila Kekeç
-    location: "Turkey"
-    followers: 5089
-    engagement: 1692
-    commentsToLikes: 0.062294
-    id: ckaoyjqilhren0i78eowzieog
-    verified: false
-    hashtags: "#cute, #birdsofpreywig, #gamecosplay, #swimsuitdva"
-  - username: "mustafak"
-    fullname: >-
-      Mustafa Ak
-    location: "Turkey"
-    followers: 253950
-    engagement: 813
-    commentsToLikes: 0.027256
-    id: ck0txr86tk8fm0i19iqkl2qdj
-    verified: true
-    hashtags: "#10kas, #14, #evdekal, #pillowchallenge"
-  - username: "ibrahimkuzucuofficial"
-    fullname: >-
-      İbrahim Kuzucu
-    location: "Turkey"
-    followers: 9805
-    engagement: 1049
-    commentsToLikes: 0.011948
-    id: ck8t5qlo6awfh0j78b7qhwgru
-    verified: false
-    hashtags: "#iseeyou, #adorable, #tatli, #swag"
-  - username: "gizemmmblogg"
-    fullname: >-
-      H O M E B L O G I Z E M
-    location: "Turkey"
-    followers: 15471
-    engagement: 547
-    commentsToLikes: 0.045103
-    id: ck8td4lko1uiz0j78ec0vfash
-    verified: false
-    hashtags: "#yaprakf, #sufle, #gaming, #enjoy"
   - username: "risingamers"
     fullname: >-
       Rising Gamers
+    bio: >-
+      Rising Gamers Facebook Grubunun Resmi Instagram Sayfasıdır. %100 Özgün İçerik Facebook Grubumuz 🔽
     location: "Turkey"
-    followers: 13538
-    engagement: 1662
-    commentsToLikes: 0.059127
+    followers: 23401
+    engagement: 1727
+    commentsToLikes: 0.047749
     id: ckaoxl2n7dqcw0i780u6y6ffg
     verified: false
-    hashtags: "#epicgamest, #minecrafters, #minecraftonly, #mitchbruzzese"
-  - username: "enginozdemir0"
+    hashtags: "#oyuncular, #gamingmeme, #gamingpost, #gamersonly"
+  - username: "masterinsec"
     fullname: >-
-      Engin Özdemir
+      MASTER INSEC
+    bio: >-
+      🎭∣ Eğlenceli, Komik Paylaşımlar ve Dahası 👌 🚩∣ Epic Leesin Montage Parts
     location: "Turkey"
-    followers: 14967
-    engagement: 456
-    commentsToLikes: 0.043233
-    id: ck8t963tln0ae0j7891xxfl7g
+    followers: 12853
+    engagement: 465
+    commentsToLikes: 0.088846
+    id: ck9hbt3lzibu60j78kux1jf7c
     verified: false
-    hashtags: "#extremesports, #ekstremsporlar, #video, #funnyvideos"
-  - username: "gamezzersturkey"
+    hashtags: "#art, #loltr, #leagueoflegendsfanart, #fanart"
+  - username: "hz_yasuoloji"
     fullname: >-
-      ɢᴀᴍᴇᴢᴢᴇʀs ᴛᴜʀᴋᴇʏ
+      hazretiyasuo
+    bio: >-
+      💎 @hazretiyasuo Fan Sayfası 💎 📢Reklam vs için @hz.network 📢 👇👇Discord adresimiz 👇👇👇
     location: "Turkey"
-    followers: 185794
-    engagement: 218
-    commentsToLikes: 0.125360
-    id: ck8tb8dtrup8v0j78gtfd312v
+    followers: 29520
+    engagement: 723
+    commentsToLikes: 0.020568
+    id: ckap1bpmxtw8a0i789ux358il
     verified: false
-    hashtags: "#csgotr, #evdekal, #codmw, #forzahorizon"
-  - username: "bidolucizgi"
+    hashtags: "#twitcht, #hzyasuo, #csgo, #cs"
+  - username: "pubg___lovers__india"
     fullname: >-
-      Bi Dolu Çizgi
+      🔥𝐏𝐔𝐁𝐆_𝐋𝐎𝐕𝐄𝐑'𝐒_𝐈𝐍𝐃𝐈𝐀🔥||𝟕𝟎𝐊||
+    bio: >-
+      👉#𝐩𝐮𝐛𝐠__𝐥𝐨𝐯𝐞𝐫𝐬__𝐩𝐚𝐠𝐞😘 💥𝐃𝐚𝐢𝐥𝐲 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 & 𝐅𝐮𝐧𝐧𝐢𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬 𝐦𝐨𝐦𝐞𝐧𝐭𝐬🎬 👉𝐃𝐌 𝐟𝐨𝐫 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 𝐨𝐫 𝐏𝐨𝐬𝐭 𝐑𝐞𝐦𝐨𝐯𝐞𝐥✉️ 💰𝐃𝐌 𝐦𝐞 𝐟𝐨𝐫 𝐩𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧💰 👇 Click here👇
     location: "Turkey"
-    followers: 26108
-    engagement: 1437
-    commentsToLikes: 0.011030
-    id: ck8t95ibrmydn0j78ibwri9ly
+    followers: 70253
+    engagement: 389
+    commentsToLikes: 0.015511
+    id: ck14k2edpndze0i198ox9yult
     verified: false
-    hashtags: "#cartoon, #iftar, #steam, #korona"
-  - username: "muhammet.zeliha_2016"
+    hashtags: "#wtcnn, #pubgmobilekocak, #playerunknownsbattleground, #twitchfails"
+  - username: "counterstrike1.6tv"
+    fullname: >-
+      Counter Strike 1.6
+    bio: >-
+      Türkiye’nin En büyük CounterStrike1.6 Sayfasına Hoş geldiniz. Hedef 20k takip edelim.. ❤💪 #GEBZE41DOSTLAR PUB Server Adress ; 95.173.173.7
+    location: "Turkey"
+    followers: 19673
+    engagement: 187
+    commentsToLikes: 0.033735
+    id: ck9wdocd0gicq0j78um0ld8we
+    verified: false
+    hashtags: ""
+  - username: "boroda_master_"
     fullname: >-
       
+    bio: >-
+      Personal Bodybuilding Trainer 2016 Azerbaijan Championship 2🏆 2017 spain Championship Prize winner 2017 Azerbaijan Champ 4🏆 2018 Azerbaijan Champ 4🏆
     location: "Turkey"
-    followers: 9336
-    engagement: 641
-    commentsToLikes: 0.258615
-    id: ck8t2fwzczc890j78jxwmx11a
+    followers: 32466
+    engagement: 195
+    commentsToLikes: 0.012448
+    id: ck5hr200lu4jp0i116tm92x2b
     verified: false
-    hashtags: "#live, #kayd, #kesfetten, #catsofinstagram"
-  - username: "midyat_burada47"
+    hashtags: "#batman, #gymnastics, #boxing, #bodibildingfederation"
+  - username: "tech_raptor"
     fullname: >-
-      Midyat Tanıtım Platformu
+      Tech Raptor 🦖™
+    bio: >-
+      👇‼GIVEAWAY‼👇 DM for business
     location: "Turkey"
-    followers: 11194
-    engagement: 553
-    commentsToLikes: 0.020337
-    id: ck8tc4b7oy8g10j782o4t6my9
+    followers: 198545
+    engagement: 356
+    commentsToLikes: 0.005069
+    id: ck6tuwx5sivyr0j71dhiya912
     verified: false
-    hashtags: "#instafood, #amigurumi, #latepost, #roses"
+    hashtags: "#pcmods, #rgb, #gamingcommunity, #gamer"
+  - username: "cosplaymila"
+    fullname: >-
+      Almila Kekeç
+    bio: >-
+      🐼🦄 Cosplayer 🤷 The Last Rainbow Bender 🌈
+    location: "Turkey"
+    followers: 5437
+    engagement: 1667
+    commentsToLikes: 0.052231
+    id: ckaoyjqilhren0i78eowzieog
+    verified: false
+    hashtags: "#gamergirl, #leagueoflegendscosplay, #fashion, #dva"
+  - username: "fashionablover"
+    fullname: >-
+      Tuana Schumacher
+    bio: >-
+      Typical sagittarius thing😜♐️ All about trends 33 Countries📍🌎 To buy my epilady👇
+    location: "Turkey"
+    followers: 125276
+    engagement: 110
+    commentsToLikes: 0.095066
+    id: ck5q7sgbw2x4j0i11l90ooe69
+    verified: false
+    hashtags: "#fallfashion, #balay, #cappadociaturkey, #tarihiyolculuk"
+  - username: "mustafak"
+    fullname: >-
+      Mustafa Ak
+    bio: >-
+      Her gün video attığım kanalım
+    location: "Turkey"
+    followers: 264096
+    engagement: 1173
+    commentsToLikes: 0.022098
+    id: ck0txr86tk8fm0i19iqkl2qdj
+    verified: true
+    hashtags: "#pillowchallenge, #evdekal, #hayat5, #csgo"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top beauty Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #beauty #stayathome #beautyshooting.
+  Find top beauty Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #beauty #love #photography.
 platform: Instagram
+hits: 112
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 112 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
-  - username: "junjunsquare"
+  - username: "marina.rough"
     fullname: >-
-      Jun Jun Square
+      Marina Rough
+    bio: >-
+      lifestyle fashion & beauty San Francisco | HI📍 ✉️ roughing.m@gmail.com
     location: "United States"
-    followers: 24208
-    engagement: 695
-    commentsToLikes: 0.013914
-    id: ckap41xh05hhe0i780ivuyrd4
+    followers: 11022
+    engagement: 516
+    commentsToLikes: 0.051827
+    id: ckapa05n8u6jf0i78c6398f5o
     verified: false
-    hashtags: "#happymothersday, #throwback, #hawaii, #goyardalpinmini"
-  - username: "dgsc"
+    hashtags: "#lavibes, #ootdgals, #fashioninspo, #stylegoals"
+  - username: "lashgaloresf"
     fullname: >-
-      daniel gorostieta
+      LASHES • TRAINING • SUPPLIES
+    bio: >-
+      SHOP CLOSED UNTIL 6/1 | ONLINE ORDERS OPEN @esbeautysf • @lashingyourightsf •@lashedbykarlie SHOP SUPPLIES & TRAINING INFO ↴
     location: "United States"
-    followers: 55572
-    engagement: 680
-    commentsToLikes: 0.029893
-    id: ck0tt38xh0yqq0i19usw2plry
+    followers: 26118
+    engagement: 423
+    commentsToLikes: 0.074448
+    id: ck9h9slhz9svd0j78cdu73mul
     verified: false
-    hashtags: "#betterplanet, #boxedwater"
-  - username: "traciedang"
+    hashtags: "#wispy, #fluffylashes, #lashedup, #lashbeauty"
+  - username: "theanthonydangio"
     fullname: >-
-      MEDIA CEO⚡MODEL⚡ACTRESS
+      Anthony D'Angio
+    bio: >-
+      Official photo/video for @ericchurchmusic 🤘 United Kingdom🇬🇧+USA🇺🇸 Father. Photographer. Film maker. Wandering soul. Storyteller. Your world, my eyes.
     location: "United States"
-    followers: 3701
-    engagement: 533
-    commentsToLikes: 0.092790
-    id: ck15sok0me1gw0i197kowx64l
+    followers: 18811
+    engagement: 217
+    commentsToLikes: 0.075539
+    id: ck0ttfuok2jar0i199cxkrix2
     verified: false
-    hashtags: "#lamodelswomen, #directionsscout, #flowerdesigns, #tiburon"
-  - username: "twopeasinaprada"
+    hashtags: "#beautiful, #ecb, #goat, #leehendricks"
+  - username: "louisraphael"
     fullname: >-
-      Ashley Zeal & Emily Wieczorek
+      L o u i s R A P H A E L
+    bio: >-
+      🌁 𝕄𝕒𝕘𝕚𝕔𝕒𝕝 𝕊𝕒𝕟 𝔽𝕣𝕒𝕟𝕔𝕚𝕤𝕔𝕠 📸 in-house @onlyinsf 🖊 + 📸 @musicinsf 🌊 🏄 A Wave a Day in 2020
     location: "United States"
-    followers: 297508
-    engagement: 81
-    commentsToLikes: 0.232133
-    id: ck0w4dyeay3vs0i19wyu36zz8
+    followers: 45437
+    engagement: 298
+    commentsToLikes: 0.044715
+    id: ck5c5v27l47d40i11dqp43rwm
     verified: false
-    hashtags: "#ltkcurves, #ritualpartner, #scalpgoals, #ltkswim"
-  - username: "marie.louwes"
+    hashtags: "#westcoast, #beach, #sun, #art"
+  - username: "olgaesther.pinturas"
     fullname: >-
-      Marie Louwes
+      Olga Esther
+    bio: >-
+      I paint princesses who don't want to be princesses. ❤️no DM
     location: "United States"
-    followers: 2163
-    engagement: 1794
-    commentsToLikes: 0.027354
-    id: ck6ubh0o89is70j71qsxe8wp2
+    followers: 35336
+    engagement: 476
+    commentsToLikes: 0.026771
+    id: ck5bx6rp5n4050i11bwudxv9x
     verified: false
-    hashtags: "#crimpedhair, #shooting, #bnw, #fredericgeorges"
-  - username: "arinagri"
+    hashtags: "#art, #beautifulbizarre, #artoftheday, #melbourne"
+  - username: "ednacfree"
     fullname: >-
-      Arina Grishanina
+      Edna Freeman
+    bio: >-
+      Parenting • Beauty • Lifestyle Brazil🇧🇷 • San Francisco, CA USA🇺🇸 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱: PP Doula | NCS | ECE ⁣🍃“Be Strong be you.”🍃
     location: "United States"
-    followers: 5726
-    engagement: 1108
-    commentsToLikes: 0.015645
-    id: ck6tyomu54ygx0j71jz03kcj9
+    followers: 69720
+    engagement: 179
+    commentsToLikes: 0.343121
+    id: ckap3cdti2gx70i78phf1x9fx
     verified: false
-    hashtags: "#utah, #dancers, #professionals, #inspiration"
-  - username: "thebeautyvanity"
+    hashtags: "#momentsinmotherhood, #momstruggles, #beautyyouseek, #makeupislife"
+  - username: "sarahjeangirl"
     fullname: >-
-      ALYSON
+      Sarahjeangirl
+    bio: >-
+      💄Beauty blogger from San Francisco! 💌 email for collab requests 💖 check out my codes to save $$$!
     location: "United States"
-    followers: 28501
-    engagement: 131
-    commentsToLikes: 0.074194
-    id: ck6ufmto6xyhf0j717ulxutiq
+    followers: 17847
+    engagement: 330
+    commentsToLikes: 0.264661
+    id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#offtheshoulder, #tortoisenails, #apresfs, #auratenewyork"
-  - username: "gabrielarec"
+    hashtags: "#gifted, #greenfriday, #purcosmetics, #pinkwednesdaywithtania"
+  - username: "justine_vivian"
     fullname: >-
-      Gabriela Recalde
+      Justine
+    bio: >-
+      📍SF EMG Models | NYLO Model + Talent | Ravage Management Model | Actress | Stylist ✨ DM For Rates.
     location: "United States"
-    followers: 45134
-    engagement: 68
-    commentsToLikes: 0.117492
-    id: ck8wdel80dq5p0j78fxbk0pu2
+    followers: 4116
+    engagement: 882
+    commentsToLikes: 0.094636
+    id: ck14jyadamrw10i19107pn6bf
     verified: false
-    hashtags: "#quarantinenights, #uniformteeth, #beautyproductsshelflife, #sunset"
-  - username: "sarowly"
+    hashtags: "#scoutme, #sfcreate, #dalystudioseries, #audreyhepburn"
+  - username: "wanting__zhao"
     fullname: >-
-      Sarah Rzepka
+      WanTing Zhao / 赵婉婷
+    bio: >-
+      Principal dancer at San Francisco Ballet 📷 @wt_offsite
     location: "United States"
-    followers: 9614
-    engagement: 921
-    commentsToLikes: 0.065211
-    id: ck6u9bka1wlgh0j71mu8buhx6
+    followers: 16959
+    engagement: 801
+    commentsToLikes: 0.015863
+    id: ck15qwixd4zgu0i19ltwlb6u0
     verified: false
-    hashtags: "#cityscapes, #travelpassion, #polishexplorers, #damestravel"
-  - username: "nbcbayarea"
+    hashtags: "#dancephotography, #wantingzhao, #dancer, #pointe"
+  - username: "golden_orange_cattery"
     fullname: >-
-      NBC BAY AREA
+      Golden Orange Cattery
+    bio: >-
+      🌍🌎🌏 Elit Kedi Derneği (WCF)🐈 Felinoloji Derneği (TICA)🐈 Safkan Kedi Irkları Derneği (WACC)🐈 #lovebritish
     location: "United States"
-    followers: 62587
-    engagement: 95
-    commentsToLikes: 0.038362
-    id: ck6tpk911kc8r0j7153j662vp
-    verified: true
-    hashtags: "#stayathome, #zerowaste, #frontrow40, #hiking"
+    followers: 9007
+    engagement: 620
+    commentsToLikes: 0.099773
+    id: ckf5xa1awuxpd0j231snk8viw
+    verified: false
+    hashtags: "#chubbycats, #cutestkitty, #cutiecat, #fluffycat"
 ---

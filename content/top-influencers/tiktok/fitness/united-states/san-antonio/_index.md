@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In San Antonio In 2020
 description: >-
-  Find top fitness TikTok influencers in San Antonio in 2020. Most popular hashtags: #fitness #quarantine #sanantonio #covid19.
+  Find top fitness TikTok influencers in San Antonio in 2020. Most popular hashtags: #fyp #foryoupage #fitness #texas.
 platform: TikTok
+hits: 9
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 9 TikTok influencers like this in San Antonio, United States for you to contact.
 profiles:
+  - username: "thefirewizard"
+    fullname: >-
+      Josh Henney
+    bio: >-
+      Sign up for Robinhood to buy dodgecoin Use my link to get a free stock!!!
+    location: "United States"
+    followers: 4145
+    engagement: 772
+    commentsToLikes: 0.035423
+    id: ckculwrz3hf570j23tzxfh2v2
+    verified: false
+    hashtags: "#funny, #cute, #fyp, #challenge"
+  - username: "lupealsidez"
+    fullname: >-
+      Guadalupe Alsidez
+    bio: >-
+      San Antonio Chicano www.lupealsidez.com @lupealsidez on most sites even iTunes
+    location: "United States"
+    followers: 8456
+    engagement: 925
+    commentsToLikes: 0.066906
+    id: ckck4kr6dp2fx0j230e89fyrt
+    verified: false
+    hashtags: "#dumass2020, #bitches, #eatabagofdicks, #fucktrump"
   - username: "vivi_estrada"
     fullname: >-
       Vivi Estrada
+    bio: >-
+      Fitness Model Follow my IG @vivi__estrada Fitness IG @fitness_by_viviestrada
     location: "United States"
-    followers: 12180
-    engagement: 345
-    commentsToLikes: 0.072809
+    followers: 37500
+    engagement: 439
+    commentsToLikes: 0.039414
     id: ck8nf5ce8qbq90j782r6f282x
     verified: false
-    hashtags: "#eyes, #model, #comedia, #fliptheswitch"
+    hashtags: "#foryoupage, #lossweight, #fitness, #workoutwithvivi"
+  - username: "obiwankenobree"
+    fullname: >-
+      B
+    bio: >-
+      TX Twitter: @obiwankenobree IG: @obiwakenobree
+    location: "United States"
+    followers: 2502
+    engagement: 871
+    commentsToLikes: 0.045356
+    id: ckd0srgvxj0nj0j23axm9ow76
+    verified: false
+    hashtags: "#momsoftiktok, #texas, #fyp, #sanantonio"
+  - username: "userfitmexicanmami"
+    fullname: >-
+      user4146004567236
+    bio: >-
+      Texicana 🇲🇽🇨🇱 Bodybuilding, mommy and just a quirky person 🤷🏻‍♀️❤️
+    location: "United States"
+    followers: 11400
+    engagement: 504
+    commentsToLikes: 0.025961
+    id: ckcogus7s3hoy0j23w5vluc84
+    verified: false
+    hashtags: "#foryourpage, #duet, #mexicana, #fyp"
   - username: "miguel_bob"
     fullname: >-
       Miguel el cuhh
+    bio: >-
+      It’s only my third day here 🤷🏼‍♂️ Make me famous 🙏🏻 On the road to 20k
     location: "United States"
-    followers: 18274
-    engagement: 996
-    commentsToLikes: 0.024135
+    followers: 18000
+    engagement: 1052
+    commentsToLikes: 0.023726
     id: ck8kh4frdla040j78e4h59i43
     verified: false
-    hashtags: "#scary, #follow, #like, #noexcuses"
+    hashtags: "#fyp, #savetheworld, #sanantonio, #latino"
   - username: "modishchampagneclub"
     fullname: >-
       ModishChampagneClub
+    bio: >-
+      Modish Champagne Club 🍾 Primary Account: ModishChampagne
     location: "United States"
-    followers: 3834
-    engagement: 1120
-    commentsToLikes: 0.068366
+    followers: 3828
+    engagement: 1127
+    commentsToLikes: 0.069983
     id: ck8qic7um8gsp0j78mod4y8t6
     verified: false
-    hashtags: "#boredathome, #duet, #designerbelt, #carepackage"
-  - username: "bussdownthotihannah"
+    hashtags: "#streetwear, #foryoupage, #fyp, #foryou"
+  - username: "steph_anieee3"
     fullname: >-
-      Hannah Woeppel
+      Stephanieee
+    bio: >-
+      18+ 📍SA TX 26 ♏️ just having fun
     location: "United States"
-    followers: 24902
-    engagement: 986
-    commentsToLikes: 0.021302
-    id: ck81q0nejf0a90j782riksyfm
+    followers: 28100
+    engagement: 1641
+    commentsToLikes: 0.026181
+    id: ck92vczndpziv0j78j20i928v
     verified: false
-    hashtags: "#tattoo, #neverfitin, #yoplaitcuprelay, #pinkhair"
-  - username: "richydimov"
+    hashtags: "#fit, #gymlife, #moodboost, #razrfit"
+  - username: "dominicacunafitness"
     fullname: >-
-      Richy Dimov
+      Dominic Acuna
+    bio: >-
+      Personal/Online Trainer Want to get in the best shape of your life? DM m
     location: "United States"
-    followers: 105193
-    engagement: 1271
-    commentsToLikes: 0.047457
-    id: ck9rndpfd74tx0j78id9xevjg
-    verified: true
-    hashtags: "#fitness"
-  - username: "mikecarlucci_"
-    fullname: >-
-      Mike
-    location: "United States"
-    followers: 94757
-    engagement: 2049
-    commentsToLikes: 0.066301
-    id: ck9shzx4sw8cv0j780tl40ulg
+    followers: 30100
+    engagement: 383
+    commentsToLikes: 0.010826
+    id: ck8qhx4fh6se40j78e9jo4b1s
     verified: false
-    hashtags: "#dream, #storytime, #bo2, #6ix9ine"
-  - username: "lexdamon"
+    hashtags: "#healthy, #onlinetrainer, #quarantinelife, #howto"
+  - username: "fitness"
     fullname: >-
-      Alexis Damon
+      fitness
+    bio: >-
+      The official @fitness community!💪 Follow for more workouts!🏋️‍♂️ by @Squats
     location: "United States"
-    followers: 22058
-    engagement: 1595
-    commentsToLikes: 0.059038
-    id: ck9njith7hmr20j78izgy26et
+    followers: 246200
+    engagement: 505
+    commentsToLikes: 0.007495
+    id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
-    hashtags: "#sisterfights, #happymothersday, #workoutathome, #positivemessage"
-  - username: "fitkage"
-    fullname: >-
-      Hunter 
-    location: "United States"
-    followers: 237311
-    engagement: 1650
-    commentsToLikes: 0.025988
-    id: ck8owc35ax52b0j7857h7km6s
-    verified: false
-    hashtags: "#akatsuki, #fitness, #headband, #netero"
-  - username: "bigdarkness59"
-    fullname: >-
-      Michael Harris
-    location: "United States"
-    followers: 7590
-    engagement: 1196
-    commentsToLikes: 0.089322
-    id: ck9si9banxrwd0j78vtxfy9ow
-    verified: false
-    hashtags: "#weaintplayin, #tiktokfitness, #tictoc, #athlete"
-  - username: "avacashman"
-    fullname: >-
-      avacashman
-    location: "United States"
-    followers: 14938
-    engagement: 2120
-    commentsToLikes: 0.028372
-    id: ck9kfnp91499q0j78hhbrrb6i
-    verified: false
-    hashtags: "#wishmeluck, #nosepainting, #clonesquad, #sislove"
+    hashtags: "#foryou, #foryoupage, #fyp, #fitness"
 ---

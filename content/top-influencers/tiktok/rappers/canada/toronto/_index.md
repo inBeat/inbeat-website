@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Toronto In 2020
 description: >-
-  Find top rappers TikTok influencers in Toronto in 2020. Most popular hashtags: #toronto #rapper #covid19 #coronavirus.
+  Find top rappers TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
 platform: TikTok
+hits: 10
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "josephfuoco"
     fullname: >-
       Joseph Fuoco
+    bio: >-
+      🇨🇦/🇮🇹 17 Toronto
     location: "Canada"
-    followers: 20430
-    engagement: 1154
-    commentsToLikes: 0.230770
+    followers: 38300
+    engagement: 1729
+    commentsToLikes: 0.082572
     id: cka0omybb4ne70i78b3m8h10g
     verified: false
-    hashtags: "#support, #tylerthecreator, #dababybop, #xxxtentacion"
-  - username: "joshuasnow_"
+    hashtags: "#fyp, #emoji, #rap, #music"
+  - username: "aidan.weiss"
     fullname: >-
-      Joshua Snow
+      Aidan Weiss
+    bio: >-
+      18 | Toronto 🇦🇫🇨🇦 Email: aidanweiss86@gmail.com
     location: "Canada"
-    followers: 11080
-    engagement: 1698
-    commentsToLikes: 0.064911
-    id: ck9fhpc0z6y990j78c50jv99q
+    followers: 27800
+    engagement: 1068
+    commentsToLikes: 0.346142
+    id: ck9ndec10crli0j78k2jw127c
     verified: false
-    hashtags: "#albumlookalike, #beautyhaul, #mycrib, #yorkie"
+    hashtags: "#dominoes, #foryou, #greenscreenvideo, #series"
+  - username: "stlkurdi"
+    fullname: >-
+      Stlkurdi
+    bio: >-
+      LLG💙 LLA💙 Toronto 🇱🇧🇨🇦 Click the link and thank me later ‼️
+    location: "Canada"
+    followers: 7192
+    engagement: 964
+    commentsToLikes: 0.074959
+    id: ck9nu7xc6lvtz0j78jo2gt2tw
+    verified: false
+    hashtags: "#foryou, #viral, #morningboost, #comedy"
+  - username: "markiizzle"
+    fullname: >-
+      ✰ Markus ✰
+    bio: >-
+      Toronto | 20 | 🇯🇲🇵🇹
+    location: "Canada"
+    followers: 90900
+    engagement: 1254
+    commentsToLikes: 0.023540
+    id: ck8vy3uost52f0j78gd6o3xnr
+    verified: false
+    hashtags: "#golfr, #fyp, #cargirl, #foryou"
+  - username: "lil.pz"
+    fullname: >-
+      Lil.pz
+    bio: >-
+      🌟 I Follow back on ig (@lil.pz)❤️🙏🏽
+    location: "Canada"
+    followers: 50100
+    engagement: 1143
+    commentsToLikes: 0.070628
+    id: ck9m0ywc0cj4v0j78kflxq8di
+    verified: false
+    hashtags: "#lightskin, #quandorondo, #curlyhead, #kingvon"
   - username: "dylanhennessy"
     fullname: >-
       Dylan Hennessy
+    bio: >-
+      Rocker, skater, guitarist. Email for online lessons! dylanhennessymusic@gmailcom
     location: "Canada"
-    followers: 2943
-    engagement: 780
-    commentsToLikes: 0.082211
+    followers: 2993
+    engagement: 864
+    commentsToLikes: 0.051895
     id: ck900x3u7avii0j78el1l10wv
     verified: false
-    hashtags: "#acoustic, #canadalife, #kickflip, #game"
-  - username: "geurillat"
-    fullname: >-
-      tynanreyes
-    location: "Canada"
-    followers: 2444
-    engagement: 522
-    commentsToLikes: 0.067071
-    id: cka9m4m6q3u4m0i78fjzl2lvm
-    verified: false
-    hashtags: "#everydayscience, #indoorworkout, #randomthings, #jamaica"
-  - username: "his.story"
-    fullname: >-
-      Leo Current
-    location: "Canada"
-    followers: 10427
-    engagement: 1056
-    commentsToLikes: 0.042972
-    id: ck9vajj4ciw6o0j78m8dz4oap
-    verified: false
-    hashtags: "#liluzichallenge, #drakesong, #clothingbrands, #fashiondiy"
+    hashtags: "#metal, #cover, #guitarist, #coversong"
   - username: "domvallie"
     fullname: >-
       DOM VALLIE
+    bio: >-
+      spotify / apple music / instagram / twitter: @ dom vallie
     location: "Canada"
     followers: 59314
     engagement: 1102
     commentsToLikes: 0.019897
     id: cka8fno7o32fn0i78grk6si02
     verified: false
-    hashtags: "#coronavirus, #homeproject, #acnh, #quarantine"
-  - username: "gerrelramirez"
+    hashtags: "#foryou, #rapper, #duet, #splashfreestylechallenge"
+  - username: "sufyaanalii"
     fullname: >-
-      Gerrel Ramirez
+      Sufyan Ali
+    bio: >-
+      Dream big,work hard,be humble,stay focused. 🇨🇦🇵🇰
     location: "Canada"
-    followers: 2397
-    engagement: 1199
-    commentsToLikes: 0.042247
-    id: ck8vy2pr2syeu0j7819xwkgjh
+    followers: 4226
+    engagement: 388
+    commentsToLikes: 0.112866
+    id: ckb9o50iii6hz0j23wxk2gp09
     verified: false
-    hashtags: "#movies, #saintjhn, #nbaplayers, #foryoupage"
-  - username: "mightbeleo"
+    hashtags: "#fyp, #systemicracism, #policebrutality, #blacklivesmatter"
+  - username: "lildrizzy"
     fullname: >-
-      Might Be LEO.
+      LilDrizzy
+    bio: >-
+      Everything’s a joke😈 15k?👀 Get Me To 5k On Insta: @rafayraja 💙
     location: "Canada"
-    followers: 51802
-    engagement: 1326
-    commentsToLikes: 0.032342
-    id: ck9ngglqif8fa0j78nc2wifaw
+    followers: 13900
+    engagement: 994
+    commentsToLikes: 0.037888
+    id: ckbwaflet04b90j23ixzbu2rj
     verified: false
-    hashtags: "#livinlavish, #toronto, #finalsathome, #coronavirus"
-  - username: "christian.cal"
+    hashtags: "#comedy, #music, #nav, #viral"
+  - username: "waggy1"
     fullname: >-
-      christian
+      Waggy1
+    bio: >-
+      🇨🇦Wagwan🇨🇦 Trying to get to 100k follower ❤️CEO of liking comments❤️ 👁👄👁
     location: "Canada"
-    followers: 3195
-    engagement: 936
-    commentsToLikes: 0.056982
-    id: ck92uxqh6o1s60j78birfbj2b
+    followers: 22900
+    engagement: 428
+    commentsToLikes: 0.051352
+    id: ckc8hfm8abfz90j23jawcph1i
     verified: false
-    hashtags: "#whatthissays, #rapper, #kobe, #trending"
-  - username: "livii_loou"
-    fullname: >-
-      It’s Liv Bicth
-    location: "Canada"
-    followers: 8911
-    engagement: 467
-    commentsToLikes: 0.034924
-    id: ck8kg0fibgd2c0j78gvypzcb6
-    verified: false
-    hashtags: "#cupsong, #loml, #peacful, #girlscouts"
+    hashtags: "#fyp, #tiktok, #shark, #foryou"
 ---

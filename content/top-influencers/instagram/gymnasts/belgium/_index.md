@@ -1,107 +1,106 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Belgium In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Belgium in 2020. Most popular hashtags: #gymnastics #love #flexibility #stretching.
+  Find top gymnasts Instagram influencers in Belgium in 2020. Most popular hashtags: #love #gymnastics #photography #fitgirl.
 platform: Instagram
+hits: 8
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "jenthe.van.houdt"
-    fullname: >-
-      𝐅𝐢𝐭 & 𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞⁠
-    location: "Belgium"
-    followers: 11409
-    engagement: 867
-    commentsToLikes: 0.083590
-    id: ck5hg9gfe1mi50i118szsa0ld
-    verified: false
-    hashtags: "#acrobatics, #yogaeverywhere, #handbalancing, #handstandlove"
-  - username: "bramlouwije"
-    fullname: >-
-      Bram Louwije
-    location: "Belgium"
-    followers: 6033
-    engagement: 998
-    commentsToLikes: 0.020639
-    id: ck5zxm39589o60i1425xckq8h
-    verified: false
-    hashtags: "#bruges, #lille, #quarantine, #nr16"
-  - username: "girbe.thys"
-    fullname: >-
-      Girbe Thys
-    location: "Belgium"
-    followers: 5242
-    engagement: 3449
-    commentsToLikes: 0.036564
-    id: ck8t4hbve6tlc0j78yo7qvpeg
-    verified: false
-    hashtags: "#bandana, #longhair, #legday, #stronger"
-  - username: "doublelionface"
-    fullname: >-
-      Ambassador of smile 🤗
-    location: "Belgium"
-    followers: 15313
-    engagement: 817
-    commentsToLikes: 0.181216
-    id: ck5zuanfp20860i14wtkzw690
-    verified: false
-    hashtags: "#light, #shoppingtime, #smiletime, #positivemind"
-  - username: "loic_vanlang"
-    fullname: >-
-      Loic Van Lang
-    location: "Belgium"
-    followers: 32369
-    engagement: 208
-    commentsToLikes: 0.081389
-    id: ck6txv4o6013a0j71cdbx4z2e
-    verified: false
-    hashtags: "#saopaulo, #bodygoals, #jacuzzi, #ootdmens"
-  - username: "bavogk_fit"
-    fullname: >-
-      BAVO COENEN | BE
-    location: "Belgium"
-    followers: 8146
-    engagement: 1535
-    commentsToLikes: 0.129691
-    id: ckaowc35f89ks0i78rcrhl6cl
-    verified: false
-    hashtags: "#resistance, #baller, #footballboots, #soccerteam"
-  - username: "romyjacquet"
-    fullname: >-
-      romyjacquet
-    location: "Belgium"
-    followers: 2411
-    engagement: 2141
-    commentsToLikes: 0.026971
-    id: ckap0xqmxs9v40i78rg8fpaac
-    verified: false
-    hashtags: "#selflove, #thebrickantwerp, #goingout, #drinks"
   - username: "lindsaydcst"
     fullname: >-
-      🌏 🏋️‍♀️ L I N D S A Y
+      L I N D S A Y
+    bio: >-
+      Sport, Food & Travel 🌏 Crossfit 🏋🏻‍♀️ // LesMills™ instructor ☠️ @northernspiritcf 🎒🦍 @kingkongapparel : Lindsay15 🔥 @hipro.belgium 🇨🇵 🇧🇪
     location: "Belgium"
-    followers: 2156
-    engagement: 2096
-    commentsToLikes: 0.047176
+    followers: 2806
+    engagement: 930
+    commentsToLikes: 0.028982
     id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#sixpack, #mondaymood, #motivation, #reeboklesmills"
-  - username: "somers_yannick"
+    hashtags: "#mondaymood, #stronggirl, #kingkongbag, #abs"
+  - username: "art.roc"
     fullname: >-
-      Yannick Somers
+      Art of Roc
+    bio: >-
+      Aurélien Rocteur 🇧🇪 Orders temporarily open for 2020 😉 artrocdrawing@gmail.com #art #draw #dance #illustration
     location: "Belgium"
-    followers: 136968
-    engagement: 186
-    commentsToLikes: 0.182112
-    id: ck15rj52a86da0i19lujsntp4
+    followers: 81227
+    engagement: 320
+    commentsToLikes: 0.008046
+    id: ck15ulxcintmz0i19m7mgxeqs
     verified: false
-    hashtags: "#parkwalk, #tattooideas, #sundaymood, #chillday"
+    hashtags: "#rough, #danse, #drawingskills, #yoga"
   - username: "_acro.draws_"
     fullname: >-
       Acrobatic Draws
+    bio: >-
+      We make acrobatic drawings! ( ◠‿◠ ) • If you want one: dm📩 • check the 5th highlight ⚠️ • follow us for more @_acro.draws_ . . Since 17.05.19
     location: "Belgium"
     followers: 11780
     engagement: 1277
     commentsToLikes: 0.004573
     id: ckap4dl7c6vmu0i78gf15nnjv
     verified: false
-    hashtags: "#acrogymnastics, #flex, #gymnast, #flag"
+    hashtags: "#draw, #strongwomen, #win, #art"
+  - username: "aurore_el_minotaure"
+    fullname: >-
+      aurore mercier
+    bio: >-
+      🇧🇪| Mons ♉ 📚| bachelier en éducation physique -> Morlanwelz 🎁| 15% sur @foodspring_be avec mon code : AuroreFSG 📸| MYM ❤⬇️
+    location: "Belgium"
+    followers: 12712
+    engagement: 731
+    commentsToLikes: 0.128831
+    id: ckap51qcn9shx0i78npahhzp5
+    verified: false
+    hashtags: "#staymotivated, #beautiful, #citation, #basicfitbe"
+  - username: "simonhaerinck"
+    fullname: >-
+      Simon Haerinck
+    bio: >-
+      Belgium | read my body language | 📧 simonhaerinck@hotmail.com
+    location: "Belgium"
+    followers: 12271
+    engagement: 986
+    commentsToLikes: 0.019942
+    id: ck5hg977v1l8a0i11c8to1x5z
+    verified: false
+    hashtags: "#lensculture, #bnw, #hoscos, #shoot"
+  - username: "romyjacquet"
+    fullname: >-
+      romyjacquet
+    bio: >-
+      👓 During the day i dress up like an optician 📍Antwerp ❤️M 🏋🏻‍♀️ Lifting weights so i don’t need a man to carry my bags Repair : @muscle_essential
+    location: "Belgium"
+    followers: 2250
+    engagement: 1706
+    commentsToLikes: 0.025640
+    id: ckap0xqmxs9v40i78rg8fpaac
+    verified: false
+    hashtags: "#fitgirl, #fitlife, #healthylifestyle, #gymrat"
+  - username: "vrijsendanny"
+    fullname: >-
+      Danny Vrijsen
+    bio: >-
+      Belgian 🇧🇪 Acrobat/Amaluna/Cirque du Soleil
+    location: "Belgium"
+    followers: 8836
+    engagement: 891
+    commentsToLikes: 0.028599
+    id: ck14ksq3zr4k40i19g9rk6wxt
+    verified: false
+    hashtags: "#duo, #insidegym, #teeterboard, #handstand"
+  - username: "itsdaphnebitchhh"
+    fullname: >-
+      Daphné Huynh
+    bio: >-
+      Filthy feminist with acting and dancing skills.
+    location: "Belgium"
+    followers: 6167
+    engagement: 586
+    commentsToLikes: 0.050947
+    id: ck6tp2d1chg6r0j71cwu8ah9a
+    verified: false
+    hashtags: "#model, #beach, #contactspectacle, #moon"
 ---

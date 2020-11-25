@@ -1,107 +1,130 @@
 ---
 title: Top 10 Singers Instagram Influencers In 2020
 description: >-
-  Find top singers Instagram influencers in 2020. Most popular hashtags: #love # #vocal #safaghalycouture.
+  Find top singers Instagram influencers in 2020. Most popular hashtags: #music #live #coronavirus.
 platform: Instagram
+hits: 14465
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 14465 Instagram influencers like this for you to pitch.
 profiles:
+  - username: "hlaroushdy"
+    fullname: >-
+      Hla Roushdy | هلا رشدي
+    bio: >-
+      singer
+    location: ""
+    followers: 273309
+    engagement: 754
+    commentsToLikes: 0.008760
+    id: ck135p9922jvj0i19lwa90gjs
+    verified: true
+    hashtags: "#30thbirthday"
+  - username: "klebynholeone"
+    fullname: >-
+      KLEBYNHO LEONE ㉿
+    bio: >-
+      •Singer
+    location: "Brazil"
+    followers: 52634
+    engagement: 108
+    commentsToLikes: 0.077473
+    id: ck6u7y7n4od8e0j71sfolx20x
+    verified: false
+    hashtags: "#repertorionovo, #sofrencia, #arrocha, #sucesso"
+  - username: "robertmeyerofficial"
+    fullname: >-
+      Robert Meyer
+    bio: >-
+      Singer
+    location: "Germany"
+    followers: 2965
+    engagement: 1345
+    commentsToLikes: 0.088281
+    id: ck8sxn9ubhyul0j78vr06y1kd
+    verified: false
+    hashtags: "#tanzdervampire, #sweeneytodd, #tdv, #halloween"
   - username: "sabrinasalernofficial"
     fullname: >-
       SABRINA SALERNO OFFICIAL
+    bio: >-
+      Singer
     location: "Italy"
-    followers: 496824
-    engagement: 609
-    commentsToLikes: 0.025444
+    followers: 672580
+    engagement: 443
+    commentsToLikes: 0.021133
     id: ck6tqeug1r1nw0j713t025nq0
     verified: true
     hashtags: ""
   - username: "madhuradharatalluri"
     fullname: >-
       Madhura Dhara Talluri
+    bio: >-
+      Singer
     location: "India"
-    followers: 9067
-    engagement: 2734
-    commentsToLikes: 0.014740
+    followers: 10350
+    engagement: 2197
+    commentsToLikes: 0.011185
     id: ck9wghhwytfmn0j78gh05ta2z
     verified: false
-    hashtags: "#feminism, #notallfeminists, #photoshoot, #pjsalldayerrday"
-  - username: "hlaroushdy"
+    hashtags: "#madhuradharatalluri, #candid, #arrlive, #photobooth"
+  - username: "ferita_music"
     fullname: >-
-      Hla Roushdy | هلا رشدي
-    location: ""
-    followers: 228258
-    engagement: 815
-    commentsToLikes: 0.008774
-    id: ck135p9922jvj0i19lwa90gjs
-    verified: true
-    hashtags: "#ramadan, #amrdiab, #zeinaelnaggar, #safaghalycouture"
-  - username: "mrgarystringer"
-    fullname: >-
-      Gary Stringer
-    location: "United Kingdom"
-    followers: 6695
-    engagement: 786
-    commentsToLikes: 0.043781
-    id: ck15uzoqrp8g70i19fqnkhwf4
-    verified: false
-    hashtags: "#getloud, #downthefrontmedia, #wintersend, #pumptrack"
-  - username: "mohamad_khoramdare"
-    fullname: >-
-      محمد
+      Ferita
+    bio: >-
+      Singer
     location: "Iran"
-    followers: 63656
-    engagement: 975
-    commentsToLikes: 0.248544
-    id: ck13awp5esjop0i192qmhm83t
-    verified: false
-    hashtags: ""
-  - username: "vicky_nayaran"
-    fullname: >-
-      Vicky トリ
-    location: ""
-    followers: 2054
-    engagement: 1612
-    commentsToLikes: 0.056885
-    id: ck8swvfgvfduf0j78w043rmwa
-    verified: false
-    hashtags: "#dark, #singers, #confused, #girly"
-  - username: "parahat.purje"
-    fullname: >-
-      PARAHAT PURJAYEW
-    location: ""
-    followers: 40998
-    engagement: 239
-    commentsToLikes: 0.014747
-    id: ck5hr1k86u3p20i11o3em3s3f
-    verified: false
-    hashtags: "#parahatpurje, #mahripirkuliyeva, #2020, #mary"
-  - username: "fereshte.music"
-    fullname: >-
-      Fereshteh
-    location: "Iran"
-    followers: 7722
-    engagement: 1403
-    commentsToLikes: 0.083119
+    followers: 8409
+    engagement: 784
+    commentsToLikes: 0.096590
     id: ck9wi8lwn16nn0j78cezvcclo
     verified: false
-    hashtags: "#vokal, #guitarpop, #flamenco, #fusiommusic"
-  - username: "mohsenyaghmaeiofficial"
+    hashtags: "#flamenco, #instamusic, #studio, #musicrecord"
+  - username: "matinmt"
     fullname: >-
-      Mohsen Yaghmaei
+      Matin Mt
+    bio: >-
+      Singer
     location: "Iran"
-    followers: 3736
-    engagement: 2812
-    commentsToLikes: 0.065599
-    id: ck9wpat4d8jdu0j788baedo1w
+    followers: 7855
+    engagement: 1986
+    commentsToLikes: 0.025748
+    id: ck9whdon4xdrt0j78kefe4rbp
     verified: false
-    hashtags: "#elvis, #elvispresley, #valentine, #valentines"
+    hashtags: "#gemini, #luxurylifestyle, #iranmusic, #musicproducer"
+  - username: "valeriya"
+    fullname: >-
+      VALERIYA
+    bio: >-
+      Singer
+    location: "Russia"
+    followers: 2920016
+    engagement: 117
+    commentsToLikes: 0.022981
+    id: ck5ceun38lqnb0i11ej34um6p
+    verified: true
+    hashtags: "#75, #65"
+  - username: "singer"
+    fullname: >-
+      @SINGER
+    bio: >-
+      singers, dancing and drama 💋
+    location: ""
+    followers: 183434
+    engagement: 5733
+    commentsToLikes: 0.008077
+    id: ck6u61u39d22e0j713004c78b
+    verified: false
+    hashtags: ""
   - username: "monem.music"
     fullname: >-
       Mohammad Monem | محمد منعم
+    bio: >-
+      #Singer
     location: "Iran"
     followers: 2414
     engagement: 3288
     commentsToLikes: 0.060034
     id: ck9winydj35270j78hidi3mej
     verified: false
-    hashtags: "#azerbaycan, #sofyani, #hesab, #monem"
+    hashtags: "#hesab, #monem, #tabriz, #men"
 ---

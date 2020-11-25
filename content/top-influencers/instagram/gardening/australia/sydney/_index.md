@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Sydney In 2020
 description: >-
-  Find top gardening Instagram influencers in Sydney in 2020. Most popular hashtags: #gardening #hoselink #vegetables #southaustralia.
+  Find top gardening Instagram influencers in Sydney in 2020. Most popular hashtags: #gardening #australia #garden #sydney.
 platform: Instagram
+hits: 9
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 9 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "suzyroess"
+  - username: "mylesbaldwin"
     fullname: >-
-      Suzy
+      Myles Baldwin
+    bio: >-
+      Myles Baldwin is an Australian landscape designer, horticulturist, writer. Creative director of Myles Baldwin Design.
     location: "Australia"
-    followers: 6028
-    engagement: 3197
-    commentsToLikes: 0.031743
-    id: ck8t6uy2kes370j78mni7dahu
+    followers: 9129
+    engagement: 556
+    commentsToLikes: 0.017121
+    id: ck5zsvi14z9d50i14c8rokuqm
     verified: false
-    hashtags: "#peekaboo, #lineup, #stealth, #perch"
-  - username: "realkrissymarsh"
+    hashtags: "#perennialgarden, #landscape, #walling, #architecture"
+  - username: "gardentogut"
     fullname: >-
-      Krissy Marsh
+      Carol
+    bio: >-
+      Growing family, food and flowers. Easily distracted by: 🌱 🌲 🐝 🐓 ☕️ 🇦🇺: Western Sydney @hoselinkofficial ambassador
     location: "Australia"
-    followers: 24993
-    engagement: 154
-    commentsToLikes: 0.051349
-    id: ck5hky1iwj8a60i11fndx8gb7
-    verified: true
-    hashtags: "#playingcards, #mahimahi, #bushfires, #chinesenewyear"
-  - username: "chef.it_up"
-    fullname: >-
-      Maryam Mounajed
-    location: "Australia"
-    followers: 32226
-    engagement: 283
-    commentsToLikes: 0.398612
-    id: ck6u5vpqjc0wv0j71g6j17ktw
+    followers: 28658
+    engagement: 215
+    commentsToLikes: 0.019794
+    id: ckaor9zqtmcv70i78tkbl26nz
     verified: false
-    hashtags: "#chickensoup, #chefstyle, #carbfree, #nandos"
+    hashtags: "#gardening, #urbanpermaculture, #backyardchickens, #sydneymums"
+  - username: "timdraxl"
+    fullname: >-
+      Tim Draxl
+    bio: >-
+      Actor/Singer (a representation but by no means the definition)
+    location: "Australia"
+    followers: 29777
+    engagement: 697
+    commentsToLikes: 0.016236
+    id: ck6uer6m8sm880j71d7o3b9fj
+    verified: false
+    hashtags: "#stayhome, #isolation, #speedo, #travel"
   - username: "sammi_eatsalot"
     fullname: >-
       Sam Sanchez - Martin
+    bio: >-
+      📍Syd/Mel 💍mrs @issac_eatsalot 📸 @the_chew_crew media ©️ 📧ladyeatsalot@gmail.com
     location: "Australia"
-    followers: 24887
-    engagement: 271
-    commentsToLikes: 0.052323
+    followers: 24261
+    engagement: 123
+    commentsToLikes: 0.074299
     id: ck5btln8vg6m90i11p6iawzzk
     verified: false
-    hashtags: "#cake, #bestfoodinsydney, #cancersucks, #rainbow"
+    hashtags: "#foodporn, #sydney, #biscoff, #cancersucks"
+  - username: "kitavont"
+    fullname: >-
+      Nikita | Никита
+    bio: >-
+      💍 Life Partner 💕 🎮 Games & Gains 💪 🌈 Owner @lasherotica
+    location: "Australia"
+    followers: 64513
+    engagement: 106
+    commentsToLikes: 0.035651
+    id: ckaowwgqcarc00i78cvpmhfyp
+    verified: false
+    hashtags: "#girlswhosquat, #egirlaesthetic, #progress, #australia"
+  - username: "harrisonslandscaping"
+    fullname: >-
+      HARRISONS
+    bio: >-
+      HARRISONS | Landscape design + construction + pool building business. #landscapedesign #landscaping
+    location: "Australia"
+    followers: 53087
+    engagement: 133
+    commentsToLikes: 0.013269
+    id: ck0w2zywnqy200i193e7euaky
+    verified: false
+    hashtags: "#gardendesign, #horticulture, #gardenistagram, #infinityedge"
+  - username: "walt_collins"
+    fullname: >-
+      Walt Collins
+    bio: >-
+      Owner / TV host of Channel 10’s- Healthy Homes Australia series, Buy to Build series, Animal Extra series. Exec Producer | Animals | Boss | Building⚒️
+    location: "Australia"
+    followers: 23201
+    engagement: 395
+    commentsToLikes: 0.034314
+    id: ck137dn14b0s70i196rifcje9
+    verified: false
+    hashtags: "#building, #land, #carpenter, #tv"
+  - username: "lenkamusic"
+    fullname: >-
+      Lenka
+    bio: >-
+      Official Instagram for Lenka: • Aussie singer/songwriter 🎵 • Craft-nature-magic lover ✂️🌳🔮 • mama 👩‍👧‍👦• beekeeper 🐝 •
+    location: "Australia"
+    followers: 30161
+    engagement: 255
+    commentsToLikes: 0.020377
+    id: ck5pzgpie0wfn0i11el2x7f8i
+    verified: false
+    hashtags: "#agoodsign, #homestudio, #losangeles, #sak"
   - username: "goodnews_stories"
     fullname: >-
       #GoodNewsStories
+    bio: >-
+      dm me / tag me in any positive news or acts of kindness you think people should know about among current world events ❤️
     location: "Australia"
     followers: 7172
     engagement: 1437
     commentsToLikes: 0.016701
     id: ck5cg4l5mo5hq0i11mtmefq7i
     verified: false
-    hashtags: "#victoria, #koalas, #positivenews, #unitedstates"
+    hashtags: "#repost, #nswfires2019, #covid, #australianbushfires"
   - username: "insta.greener"
     fullname: >-
       Urban Food Garden
+    bio: >-
+      🌿 Peter | Melbourne | Australia 🥒 Growing Seasonal Veggies 🥦 Gardening Tips 🍏 Fruit Trees 🌱 Organic @hoselinkofficial Ambassador
     location: "Australia"
-    followers: 18054
-    engagement: 776
-    commentsToLikes: 0.042294
+    followers: 23973
+    engagement: 628
+    commentsToLikes: 0.046730
     id: ckaotic0fw1d10i78gehc6ee4
     verified: false
-    hashtags: "#freshgreens, #eatyourgreens, #throwback, #growyourownveg"
-  - username: "wattleflatfarm"
-    fullname: >-
-      Natasha
-    location: "Australia"
-    followers: 5344
-    engagement: 674
-    commentsToLikes: 0.146913
-    id: ck6u9mgh3ydco0j7128ytebsd
-    verified: false
-    hashtags: "#farmliving, #alfielamb, #noshit, #gettingold"
-  - username: "urbanveggiepatch"
-    fullname: >-
-      
-    location: "Australia"
-    followers: 113854
-    engagement: 314
-    commentsToLikes: 0.031619
-    id: ck136dzie60up0i191y6bjgfv
-    verified: false
-    hashtags: "#gardenglowup2020"
-  - username: "costasworld"
-    fullname: >-
-      Costa Georgiadis
-    location: "Australia"
-    followers: 64896
-    engagement: 214
-    commentsToLikes: 0.040593
-    id: ck0vw90nfsn9l0i19ab02il8i
-    verified: false
-    hashtags: "#portdouglas, #sydneycherryblossomfestival, #creative, #innovate"
-  - username: "urbanfarmer2570"
-    fullname: >-
-      Justin O'brien
-    location: "Australia"
-    followers: 24094
-    engagement: 280
-    commentsToLikes: 0.033844
-    id: ck8t9vxjbpjbl0j787b9z0muz
-    verified: false
-    hashtags: "#beekeeper, #organicgardener, #lemon, #sustainable"
+    hashtags: "#homegrownfood, #veggiegarden, #urbangardening, #veggiepatch"
 ---

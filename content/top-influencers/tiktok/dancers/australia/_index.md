@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Australia In 2020
 description: >-
-  Find top dancers TikTok influencers in Australia in 2020. Most popular hashtags: #foryou #thankyou #tiktok #bedroomcheck.
+  Find top dancers TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #duet #foryou #halloween.
 platform: TikTok
+hits: 70
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 70 TikTok influencers like this in Australia for you to connect with.
 profiles:
-  - username: "karenkaprot"
+  - username: "tarikfrimpongofficial"
     fullname: >-
-      karenkaprot
+      tarikfrimpong
+    bio: >-
+      he/ him ❤️ Actor - Singer - Dancer 😊 Goal: 257BILLION
     location: "Australia"
-    followers: 6265
-    engagement: 2061
-    commentsToLikes: 0.126008
-    id: ck9si8xn7xnxc0j78djh3v69c
+    followers: 11400
+    engagement: 1854
+    commentsToLikes: 0.192791
+    id: ckbf7xzt8y5xd0j23r3a2kg1z
     verified: false
-    hashtags: "#tiktokfamous, #albundy, #anythink, #birdsoftiktok"
-  - username: "sidneysdream"
-    fullname: >-
-      sidneysdream
-    location: "Australia"
-    followers: 154947
-    engagement: 1187
-    commentsToLikes: 0.034501
-    id: ck81t0i8yui960j7858s0qrkl
-    verified: false
-    hashtags: "#birthday, #whoa, #talktodirtytome, #oldtownroad"
+    hashtags: "#johnlegend, #theatre, #johnlegendcover, #antiracism"
   - username: "electrifyskrill"
     fullname: >-
       Skrill501
+    bio: >-
+      Level 18 💞Pgthesaltycosplayer💞 50%🇦🇺 50%🇮🇹. Cosplayer,Gamer,dancer
     location: "Australia"
-    followers: 69793
-    engagement: 1461
-    commentsToLikes: 0.032848
+    followers: 109400
+    engagement: 1711
+    commentsToLikes: 0.039333
     id: ck9nqni4i4k6i0j78pznl4rzj
     verified: false
-    hashtags: "#fakeguns, #r6ash, #kazotskykick, #fingerdance"
+    hashtags: "#thelegion, #dbdcosplay, #dbd, #insoukecosplay"
+  - username: "spurthi_raghu"
+    fullname: >-
+      Spurthi Raghu
+    bio: >-
+      Aus Indian❤from ACT. Classical Dancer, Content Creator, Married, Mum of 2😍😇
+    location: "Australia"
+    followers: 5585
+    engagement: 1313
+    commentsToLikes: 0.448287
+    id: ckd6yuq6zx8dw0j2337b9eokg
+    verified: false
+    hashtags: "#hungryjacksfreeglass, #bawa, #bawagaru, #spurthir"
+  - username: "karenkaprot"
+    fullname: >-
+      karenkaprot
+    bio: >-
+      Dancer • Teacher • Naturopath • Bunny Mummy IG: @karenkaprot
+    location: "Australia"
+    followers: 15500
+    engagement: 1759
+    commentsToLikes: 0.126730
+    id: ck9si8xn7xnxc0j78djh3v69c
+    verified: false
+    hashtags: "#funny, #fyp, #followforfollow, #over45"
   - username: "glennpaul0"
     fullname: >-
       Glenn Paul
+    bio: >-
+      Sydney 🇦🇺 Actor. + FOLLOW me on INSTA! 👋🏻 Loud car singer. Interp Dancer.
     location: "Australia"
-    followers: 16403
-    engagement: 1241
-    commentsToLikes: 0.105243
+    followers: 99700
+    engagement: 1406
+    commentsToLikes: 0.122896
     id: ck9sm4s28hf600j788369tcat
     verified: false
-    hashtags: "#hilarious, #thiscracksmeup, #chandlerbing, #crap"
+    hashtags: "#duet, #funny, #fyp, #cheeky"
+  - username: "almightyyeetston"
+    fullname: >-
+      Winston.Sky
+    bio: >-
+      contains swearing - mature audience only mate | CEO OF AUSTRALIA | pro dancer
+    location: "Australia"
+    followers: 296200
+    engagement: 1833
+    commentsToLikes: 0.009506
+    id: ckb98wi33srdv0j23vf6zwyx7
+    verified: false
+    hashtags: "#stitch"
+  - username: "sidneysaayman"
+    fullname: >-
+      sidneysaayman
+    bio: >-
+      MC / DANCER / CHOREOGRAPHER FB @sidney_saaymann
+    location: "Australia"
+    followers: 285000
+    engagement: 865
+    commentsToLikes: 0.021893
+    id: ck81t0i8yui960j7858s0qrkl
+    verified: false
+    hashtags: "#gitup, #sidneysaayman, #fyp, #menxclusive"
   - username: "rxme.v"
     fullname: >-
       r o m e
+    bio: >-
+      idk if I’m a softboi, a comedian or a dancer 20 | 🇵🇭 | AUS | NERVE dance crew
     location: "Australia"
-    followers: 127679
-    engagement: 2061
-    commentsToLikes: 0.011224
+    followers: 318700
+    engagement: 2739
+    commentsToLikes: 0.005153
     id: ck83zb5lszbyb0j78r34fo5kg
     verified: false
-    hashtags: "#thankyou, #fashion, #eyesonme, #blink"
-  - username: "bijju3210"
+    hashtags: "#kpop, #draft, #happyhalloween"
+  - username: "queenmercede"
     fullname: >-
-      Bijay baniya
+      Larna
+    bio: >-
+      pole fitness dancer 👅 aerialist 💪🏻 model 💃🏻 not a stripper 🤜🏻
     location: "Australia"
-    followers: 9260675
-    engagement: 1186
-    commentsToLikes: 0.004230
-    id: ck84mbqg1n0bo0j78ugfvlb3l
+    followers: 144000
+    engagement: 1119
+    commentsToLikes: 0.014614
+    id: ckbw2nobbwsgt0j23umjh6v0f
     verified: false
-    hashtags: "#tonykakkar, #purba, #bijjuslowmo, #chunrichunri"
-  - username: "rechellemansour"
+    hashtags: "#foryou, #fypg, #ios14, #foryoupage"
+  - username: "mikeyrobert_"
     fullname: >-
-      Rechelle Mansour
+      mikeyrobert_
+    bio: >-
+      • Dancer | DJ | & wannabe comedian 🤷🏾‍♂️ • MEL/SYD 🚩
     location: "Australia"
-    followers: 10757
-    engagement: 942
-    commentsToLikes: 0.012686
-    id: ck8njne41b6y20j78733hpems
+    followers: 37000
+    engagement: 693
+    commentsToLikes: 0.028986
+    id: ckavht308pt1q0j23nkldr8bt
     verified: false
-    hashtags: "#australia, #jlochallenge, #fail, #mycrib"
-  - username: "atulsinghthakuri"
-    fullname: >-
-      Atul Singh Thakuri
-    location: "Australia"
-    followers: 34863
-    engagement: 647
-    commentsToLikes: 0.015961
-    id: ck8qoqqu206i00j789peezm74
-    verified: false
-    hashtags: "#kadmomejahan, #nepsydmuser, #itaintme, #animationpoppin"
-  - username: "hu_jeffery"
-    fullname: >-
-      HU Jeffery
-    location: "Australia"
-    followers: 138723
-    engagement: 1189
-    commentsToLikes: 0.024678
-    id: ck9632neut2uo0j78hblmzfpw
-    verified: false
-    hashtags: "#runit, #torylanez, #cookout, #happydance"
-  - username: "claudiadeanworld"
-    fullname: >-
-      CLAUDIA DEAN WORLD
-    location: "Australia"
-    followers: 14018
-    engagement: 1489
-    commentsToLikes: 0.013897
-    id: ck9gkoa9fkipo0j78hwg3ygk6
-    verified: false
-    hashtags: "#resistance, #bands, #rockstar, #hiphop"
+    hashtags: "#sydney, #itbelikethat, #comedy, #tiktokaustralia"
 ---

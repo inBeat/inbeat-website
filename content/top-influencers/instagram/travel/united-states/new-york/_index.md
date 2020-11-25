@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In New York In 2020
 description: >-
-  Find top travel Instagram influencers in New York in 2020. Most popular hashtags: #stayhome #travel #newyorkcity #travelnewyork.
+  Find top travel Instagram influencers in New York in 2020. Most popular hashtags: #travel #newyork #nyc #newyorkcity.
 platform: Instagram
+hits: 1095
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 1095 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "asami812"
+  - username: "bridgerschow_"
     fullname: >-
-      nailedbyasami
+      Bridger | AMM 🦋
+    bio: >-
+      NYC 📍 Design • Gluten Free • Travel New York School of Interior Design Beauty & Social Media Mentor 🧖🏼‍♀️
     location: "United States"
-    followers: 17821
-    engagement: 320
-    commentsToLikes: 0.015789
-    id: ck15sr66weev10i196kg259qa
+    followers: 2790
+    engagement: 1293
+    commentsToLikes: 0.093309
+    id: ck6ua4hpe1fmx0j71o49871n4
     verified: false
-    hashtags: ""
-  - username: "natasha_ash_nyc"
+    hashtags: "#homewithmapiful, #nofilter, #mapifulfamily"
+  - username: "arley_us"
     fullname: >-
-      Natasha Ash | New York
+      ⚛A R L E Y⚛ U G A L D E
+    bio: >-
+      ⋙ T R A V E L • F A M I L Y • M U S I C ⋙ ⚐ 🇲🇽🇲🇽  F u t u r e • I n d u s t r i a l #engineer 💡 #fcbarcelona 💛💙 N e x t • p o s t 📸: #November 21
     location: "United States"
-    followers: 25716
-    engagement: 475
-    commentsToLikes: 0.058424
-    id: ck8tb4ldju8yb0j783m5irrfv
-    verified: false
-    hashtags: "#streets, #dad, #stayhomestaysafe, #detailsoftheday"
-  - username: "albertwears"
-    fullname: >-
-      Albert Groshenko
-    location: "United States"
-    followers: 25621
-    engagement: 227
-    commentsToLikes: 0.013598
-    id: ck6tjj58j2tjv0j710qvlom0t
-    verified: false
-    hashtags: "#furnituredesign, #decor, #malibuboats, #malibupier"
-  - username: "yorksgram"
-    fullname: >-
-      New York 🗽 |Travel 🛩|Visual 📸
-    location: "United States"
-    followers: 44282
+    followers: 7966
     engagement: 293
-    commentsToLikes: 0.016739
-    id: ck0vypn3w569k0i19pswgod5e
+    commentsToLikes: 0.062227
+    id: ckaoswwg8te030i78tk6ogd25
     verified: false
-    hashtags: "#dream, #igersofnyc, #mayday, #street"
-  - username: "picture_of_newyork"
+    hashtags: "#nyc, #mexico, #france, #europe"
+  - username: "amandabukobza"
     fullname: >-
-      new york City
+      𝙰𝚖𝚊𝚗𝚍𝚊 𝙱𝚞𝚔𝚘𝚋𝚣𝚊 𝚃𝚊𝚠𝚒𝚕
+    bio: >-
+      𝙶𝚕𝚘𝚋𝚎 𝚝𝚛𝚘𝚝𝚝𝚎𝚛 ✈️ 𝙼𝚊𝚔𝚎𝚞𝚙 𝚕𝚘𝚟𝚎𝚛💄 🔜 𝙱𝚊𝚕𝚒, 𝙽𝚎𝚠 𝚈𝚘𝚛𝚔 𝙵𝚘𝚛 𝚝𝚛𝚊𝚟𝚎𝚕 𝚙𝚊𝚛𝚝𝚗𝚎𝚛𝚜𝚑𝚒𝚙𝚜 𝙱𝚞𝚔𝚘𝚋𝚣𝚊@𝚊𝚘𝚕.𝚌𝚘𝚖
     location: "United States"
-    followers: 43609
-    engagement: 150
-    commentsToLikes: 0.010693
-    id: ck8t4r21y7r6g0j78was1fhqj
+    followers: 117429
+    engagement: 235
+    commentsToLikes: 0.056026
+    id: ck15uvj8lophr0i19kk7l7ena
     verified: false
-    hashtags: "#canonusa, #moodygrams, #igglobalclub, #travelnyc"
-  - username: "nyclivesnyc"
+    hashtags: "#flynyon, #bahamas, #exumabahamas, #santorinigreece"
+  - username: "ebonyanderberg"
     fullname: >-
-      New York City 📸 🌃❤️
+      Ebony Anderberg
+    bio: >-
+      NYC📍 Founder of: @ebony_bootcamp ☀️ International model 📷 @majormodelsny @elitemiami @lemanagement @immmodels @uniquemodelsdenmark
     location: "United States"
-    followers: 37192
-    engagement: 716
-    commentsToLikes: 0.007397
-    id: ck15r9pg06unm0i19evjtobo9
+    followers: 36116
+    engagement: 216
+    commentsToLikes: 0.052184
+    id: ck15pwos100ce0i19jpiun0qx
     verified: false
-    hashtags: "#goodmorning, #rooseveltisland, #queens, #longislandcity"
-  - username: "camrynbaylee"
+    hashtags: "#nyc, #happiness, #bikinilife, #fitnessjourney"
+  - username: "stevenlabrie"
     fullname: >-
-      Camryn Baylee Kinsey
+      Steven LaBrie
+    bio: >-
+      • opera singer 🎭 • fitness 🏋🏻‍♂️ 🇲🇽 🇺🇸
     location: "United States"
-    followers: 42475
-    engagement: 787
-    commentsToLikes: 0.023248
-    id: ck5cjhf83uq840i112skrayez
+    followers: 6107
+    engagement: 540
+    commentsToLikes: 0.053841
+    id: ckaouijfa0f5c0i78tjypm35o
     verified: false
-    hashtags: "#republicanparty, #workoutmotivation, #manhattan, #nycfashion"
-  - username: "christyy_k"
+    hashtags: "#mustache, #baritone, #pandemic, #friends"
+  - username: "julia_estonia"
     fullname: >-
-      ❥Christiana | Fashion & Travel
+      Julia
+    bio: >-
+      𝕄𝕪 𝕥𝕣𝕒𝕧𝕖𝕝 𝕒𝕟𝕕 𝕨𝕠𝕣𝕝𝕕 𝕒𝕖𝕤𝕥𝕖𝕥𝕚𝕔𝕤 💫 📍CT🇺🇸 🏡 Tallinn🇪🇪 🎓 @uni_mannheim🇩🇪 𝐿𝒾𝓋𝑒 𝓁𝒾𝒻𝑒 𝓉𝑜 𝓉𝒽𝑒 𝒻𝓊𝓁𝓁𝑒𝓈𝓉 𝒶𝓃𝒹 𝒻𝑜𝒸𝓊𝓈 𝑜𝓃 𝓅𝑜𝓈𝒾𝓉𝒾𝓋𝑒
     location: "United States"
-    followers: 6716
-    engagement: 585
-    commentsToLikes: 0.107234
-    id: ck9wezep3mkkm0j7846cdpmya
+    followers: 24754
+    engagement: 486
+    commentsToLikes: 0.064015
+    id: ck8ta4b3qqf680j78b1erplye
     verified: false
-    hashtags: "#outdoors, #bicycleride, #rainyday, #videogames"
-  - username: "karishkhan"
+    hashtags: "#ctviews, #nycphoto, #explore, #fallviews"
+  - username: "stati.uniti.ontheroad"
     fullname: >-
-      Karishma Khan
+      Stati Uniti On The Road | 🇺🇸🗽🌇
+    bio: >-
+      🇺🇸 USA On The Road 🇺🇸 seguici su Facebook! https://www.facebook.com/statiunitiamerica/
     location: "United States"
-    followers: 2455
-    engagement: 1947
-    commentsToLikes: 0.075079
-    id: ck5zpdoqsshj20i14q07ha1bf
+    followers: 13698
+    engagement: 1141
+    commentsToLikes: 0.010216
+    id: ck14l5exgsy240i198nyg5r1d
     verified: false
-    hashtags: "#ceviche, #bikini, #summervibes, #outfitoftheday"
-  - username: "stylemeblonde"
+    hashtags: "#bhfyp, #florida, #autumn, #socal"
+  - username: "pirlo_fu"
     fullname: >-
-      MEGAN  MCGEEHAN
+      Pirlo Fu  伏 照 輝
+    bio: >-
+      I am a backpacker 🎒🗺⛺️💵 Photographer📷 Sneakers👟 📍SH 🇨🇳 | HK 🇭🇰 ｜SF,CA 🇺🇸 weibo: Pirlo_Fu小輝輝啊
     location: "United States"
-    followers: 53176
-    engagement: 207
-    commentsToLikes: 0.144018
-    id: ck5c15kmuuibn0i1113jo601f
+    followers: 19377
+    engagement: 697
+    commentsToLikes: 0.006179
+    id: ckap17q9btevb0i78bsqwqfmu
     verified: false
-    hashtags: "#valleyoffire, #cheers, #denverstyle, #night"
+    hashtags: "#photography, #travel, #newyork, #hondatyper"
+  - username: "mokshini"
+    fullname: >-
+      MOKSHINI
+    bio: >-
+      Professional doodler 🎨 ohhey@mokshini.com Repped by @weareillustrationx @onemanagement
+    location: "United States"
+    followers: 7740
+    engagement: 603
+    commentsToLikes: 0.058676
+    id: ck5cbnr09fthv0i11mp052kaw
+    verified: false
+    hashtags: "#friends, #newyork, #lovers, #coronadiaries"
+  - username: "residentpublications"
+    fullname: >-
+      Resident magazine
+    bio: >-
+      Embodying the aspirational lifestyle. Covering the best in Travel, Dining, Real Estate, Celebrity News, Fashion & Events from around the world.
+    location: "United States"
+    followers: 22947
+    engagement: 232
+    commentsToLikes: 0.002918
+    id: ck5znjwb8om100i14j4z0ya9f
+    verified: false
+    hashtags: "#hyattregencycoconutpoint, #crown, #vacation, #homes"
 ---

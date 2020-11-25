@@ -1,22 +1,29 @@
 ---
 title: Top 10 Christian Instagram Influencers In Poland In 2020
 description: >-
-  Find top christian Instagram influencers in Poland in 2020. Most popular hashtags: #zostanwdomu #outfitoftheday #semilac #wiosennylook.
+  Find top christian Instagram influencers in Poland in 2020. Most popular hashtags: #poland #fashion #polskadziewczyna #autumn.
 platform: Instagram
+hits: 28
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 28 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "jakub_kucner"
+  - username: "lady_gumi"
     fullname: >-
-      Jakub Kucner
+      Karolina Wojciechowska
+    bio: >-
+      • 🇳🇴 🇵🇱 • @famme 10% -> lady_gumi-10 • #misjamotywator 💪🏼 • @christiannilsen_ ❣️
     location: "Poland"
-    followers: 309463
-    engagement: 210
-    commentsToLikes: 0.029175
-    id: ckap9fhi2sghk0i78v2i2gveg
-    verified: true
-    hashtags: "#siostra, #ktojakniemy, #polskieseriale, #sesjaaktorska"
+    followers: 24228
+    engagement: 204
+    commentsToLikes: 0.099611
+    id: ck6udr24emnsf0j718mz5093e
+    verified: false
+    hashtags: "#polska, #outfitters, #polskadziewczyna, #promocja"
   - username: "restless.arch"
     fullname: >-
       Architecture & Living
+    bio: >-
+      A digital publication restlessly dedicated to contemporary living. Founded by @christiantrampe. Subscribe to our Restless Living e-Magazine ↓
     location: "Poland"
     followers: 1605233
     engagement: 123
@@ -24,84 +31,100 @@ profiles:
     id: ck0tu213d5add0i19wkzrb8sd
     verified: false
     hashtags: ""
+  - username: "christianeckerlin"
+    fullname: >-
+      Christian Eckerlin
+    bio: >-
+      🇩🇪 Professionell MMA Fighter
+    location: "Poland"
+    followers: 50590
+    engagement: 778
+    commentsToLikes: 0.018864
+    id: ck55o3wdj7kzc0i11r5rxs6f8
+    verified: true
+    hashtags: "#frankfurt, #werbung, #mmaspirit, #together"
+  - username: "chrzescijanin"
+    fullname: >-
+      e-chrześcijanin
+    bio: >-
+      Bóg Ciebie Kocha
+    location: "Poland"
+    followers: 9176
+    engagement: 1643
+    commentsToLikes: 0.018067
+    id: ckf5wmp4kskaj0j23qrpu6i3u
+    verified: false
+    hashtags: "#divinemercy, #jesusismysavior, #francescoforgione, #padrepioshrine"
+  - username: "muapolina"
+    fullname: >-
+      Paulina Kozioł MAKEUP×BEAUTY
+    bio: >-
+      Tiktok: muapolina ❤️ Collaboration: paulina@spotlightagency.pl Śląsk, okolice Katowic ❤️ 🧿👄🧿
+    location: "Poland"
+    followers: 25457
+    engagement: 1294
+    commentsToLikes: 0.041757
+    id: ck0txx8ttkugo0i19gretv3gs
+    verified: false
+    hashtags: "#hbrowgame, #featuremuas, #polishmua, #ootdfashion"
   - username: "mlewartowska"
     fullname: >-
       
+    bio: >-
+      ✈️Somewhere in the air 💄Owner of @glamdolls_mlewartowska 👠👛Ambassador @szuszu_odnow_obuw 💌Collaboration m.lewartowskaa@gmail.com
     location: "Poland"
-    followers: 22879
-    engagement: 423
-    commentsToLikes: 0.122006
+    followers: 32407
+    engagement: 323
+    commentsToLikes: 0.124548
     id: ck5cka1j0wg4s0i11rs67b3up
     verified: false
-    hashtags: "#uterqueofficial, #valentinoheels, #friendstime, #oceandrivemiami"
+    hashtags: "#fashion, #classy, #vienna, #longhair"
+  - username: "prozacbeauty"
+    fullname: >-
+      κ  ι  и  g  α
+    bio: >-
+      𝕎𝕒𝕣𝕤𝕫𝕒𝕨𝕒 | 𝕞𝕘𝕣 𝕜𝕠𝕤𝕞𝕖𝕥𝕠𝕝𝕠𝕘 | 𝕓𝕖𝕒𝕦𝕥𝕪𝕓𝕝𝕠𝕘𝕘𝕖𝕣 | 𝕞𝕒𝕜𝕖-𝕦𝕡 𝕛𝕦𝕟𝕜𝕚𝕖 | 𝕤𝕖𝕝𝕗𝕔𝕒𝕣𝕖 | 𝕞𝕚𝕟𝕕𝕗𝕦𝕝𝕟𝕖𝕤𝕤 | 𝕡𝕠𝕤𝕚𝕥𝕚𝕧𝕖 𝕡𝕤𝕪𝕔𝕙𝕠𝕝𝕠𝕘𝕪 | 𝕒𝕣𝕥...🍁 kinga.kwiecien@icloud.com
+    location: "Poland"
+    followers: 3960
+    engagement: 2314
+    commentsToLikes: 0.054404
+    id: ckf5ozxlq4gqg0j23sc932guq
+    verified: false
+    hashtags: "#makeupartist, #autumnvibes, #spooky, #autumnmood"
   - username: "matt.szczepanski"
     fullname: >-
       Mateusz Szczepański
+    bio: >-
+      Fashion & Lifestyle Blogger | Based in Poland 9namarszalkowskiej@gmail.com
     location: "Poland"
-    followers: 44595
-    engagement: 260
-    commentsToLikes: 0.045705
+    followers: 47263
+    engagement: 266
+    commentsToLikes: 0.049068
     id: ck5zx2fjb77v40i14wgzfy9lz
     verified: false
-    hashtags: "#oxford, #mensworld, #slub, #ingersoll"
-  - username: "sarah_krupa"
+    hashtags: "#stylishman, #luxury, #watch, #tailor"
+  - username: "klaudiawisniowska"
     fullname: >-
-      TWÓJ PERSONALNY SHOPPER ONLINE
+      Klaudia Wiśniowska
+    bio: >-
+      @telewizja.polotv tv presenter Miss Poland Runner Up 2012 2nd Runner Up Miss Globe 2013 Miss Tourism International Poland 2015 @miss_warszawy producer
     location: "Poland"
-    followers: 17629
-    engagement: 284
-    commentsToLikes: 0.032239
-    id: ck14jia6tkhmk0i19qdlxidd0
+    followers: 14151
+    engagement: 708
+    commentsToLikes: 0.037503
+    id: ck6uen9m2rxwn0j710nn0tm0l
     verified: false
-    hashtags: "#blondehair, #babyblue, #wellcomespring, #baleyageombre"
-  - username: "jedno.spojrzenie"
+    hashtags: "#discovertunisia, #look, #production, #restaurant"
+  - username: "ivonagulbas"
     fullname: >-
-      beauty.photography.blog
+      🅘🅥🅞🅝🅐 🅖🅤🅛🅑🅐🅢
+    bio: >-
+      📆 6.08 bday ✍️ Professional Linergist @ivonagulbas__makeup 👩‍🎓 Permanent Make Up Trainer 💄 Make Up Artist 🌏Warsaw|Poland🗺
     location: "Poland"
-    followers: 8283
-    engagement: 1092
-    commentsToLikes: 0.096599
-    id: ck8t7yhdkifew0j78avm37xkt
+    followers: 20176
+    engagement: 115
+    commentsToLikes: 0.033777
+    id: ck14glkvk5thx0i19thqpe7nw
     verified: false
-    hashtags: "#sheetmaskkorea, #floralstyling, #skinfluencer, #flowerbeauty"
-  - username: "kaa.sia"
-    fullname: >-
-      Kasia Krzaczkowska
-    location: "Poland"
-    followers: 10419
-    engagement: 859
-    commentsToLikes: 0.078889
-    id: ck15siz61d8vm0i191fbgkufo
-    verified: false
-    hashtags: "#noblehealth, #erotyk, #photography, #haircareroutine"
-  - username: "melianisitisumartini"
-    fullname: >-
-      -𝖘𝖚𝖓𝖉𝖆𝖓𝖊𝖐𝖔-
-    location: "Poland"
-    followers: 76723
-    engagement: 642
-    commentsToLikes: 0.026602
-    id: ck0w0hlw3e8qe0i19s46zfj69
-    verified: true
-    hashtags: "#xtreme, #osakinana, #christiangrey, #boredalien"
-  - username: "kinga_zc"
-    fullname: >-
-      Kinga
-    location: "Poland"
-    followers: 15559
-    engagement: 436
-    commentsToLikes: 0.141088
-    id: ck9hae75bc7rx0j786ppfdmn1
-    verified: false
-    hashtags: "#zosta, #braun, #kosmetki, #kwiecie"
-  - username: "anechkayedynak"
-    fullname: >-
-      Anya Yedynak
-    location: "Poland"
-    followers: 9467
-    engagement: 701
-    commentsToLikes: 0.020461
-    id: ck0vw4g3ps26m0i195xbokgon
-    verified: false
-    hashtags: "#anyayedynak, #modeling, #lovesurf, #sunset"
+    hashtags: "#legstagram, #lv, #instafiltrypl, #louboutin"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top health Instagram influencers in Ukraine in 2020. Most popular hashtags: #stayhome #healthyfood #pizza #sunshine.
+  Find top health Instagram influencers in Ukraine in 2020. Most popular hashtags: #girl #healthylifestyle #beautiful.
 platform: Instagram
+hits: 72
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 72 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "solomiyavitvitska"
+  - username: "elena_mandziuk"
     fullname: >-
-      Solomiya Vitvitska
+      Lena Mandziuk 🇺🇦
+    bio: >-
+      fashion | healthy | business | mom my projects @boo.dni @dreamfit_you PR director @pr_mandziuk contact@elenamandziuk.com my YouTube👇
     location: "Ukraine"
-    followers: 205602
-    engagement: 154
-    commentsToLikes: 0.019509
-    id: ck6tytavq5q5s0j71waqcf3n1
-    verified: true
-    hashtags: "#newshost, #fashion, #yellow, #monday"
-  - username: "dara.avramenko"
-    fullname: >-
-      🔝Model ✈️Traveler💡SMM
-    location: "Ukraine"
-    followers: 31154
-    engagement: 211
-    commentsToLikes: 0.018731
-    id: ckapcg1xn3nte0i78zhj7akkl
+    followers: 1237091
+    engagement: 534
+    commentsToLikes: 0.035797
+    id: ck5cc784xgu9f0i11xsck4hy4
     verified: false
-    hashtags: "#lookylook, #ukraine, #gun, #montcalmparisjewelry"
-  - username: "just_a_bad_guy"
+    hashtags: "#rozetkapremium, #ad, #syoss, #allianceperfect"
+  - username: "maryna_lena"
     fullname: >-
-      Bohdan
+      Марина Лена
+    bio: >-
+      ▪️mom ▪️ lifestyle ▪️ Healthy Сотрудничество 📩
     location: "Ukraine"
-    followers: 6346
-    engagement: 579
-    commentsToLikes: 0.027515
-    id: ck5zy6tph9bxn0i14i9e0iigv
+    followers: 11062
+    engagement: 821
+    commentsToLikes: 0.119383
+    id: ckaosw6z9tagq0i780mpyisa3
     verified: false
-    hashtags: ""
+    hashtags: "#prilaga, #bloger, #youtube, #blogger"
+  - username: "kerolfox"
+    fullname: >-
+      𝐊𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐙𝐚𝐥𝐞𝐯𝐬𝐤𝐚𝐲𝐚
+    bio: >-
+      Twerk Lessons @silver.gym.skarzysko & @szkola_tanca_layla 🎥👩‍🎓Рассказываю о жизни в Польше 💚 Active & Healthy Lifestyle 🥗 💦 Fitness Trener💪 🗣🇺🇦🇵🇱🇺🇸🇷🇺
+    location: "Ukraine"
+    followers: 4944
+    engagement: 1033
+    commentsToLikes: 0.036505
+    id: ck6tjm8as2zls0j715b97dp4z
+    verified: false
+    hashtags: "#selfie, #polishboy, #gym, #ukraine"
   - username: "anastasia_balabash"
     fullname: >-
       Анастасія Балабаш
+    bio: >-
+      Тут корисно та спекотно🔥 🔗Nutritionist 🔗Insta influencer / model @healthcare_lutsk
     location: "Ukraine"
-    followers: 11915
-    engagement: 390
-    commentsToLikes: 0.011884
+    followers: 10343
+    engagement: 254
+    commentsToLikes: 0.011951
     id: ck5cawpvuea480i113o0f9bh9
     verified: false
-    hashtags: "#pillowchallenge, #happybirthdaytome, #april2020"
+    hashtags: "#talkswithmandarin, #92, #72, #107"
+  - username: "lyanka_verkhivska"
+    fullname: >-
+      Роксолана Верхівська💍
+    bio: >-
+      💇🏻‍♀️Hairstylist💄Makeupartist (Самбір та Львів- @salon_komilfo ) 💍get merried with @nazarko___ 👼🏻have a son Danylo 🥑🌽🥦healthy food lover 💪🏻🏋🏻‍♀️sport
+    location: "Ukraine"
+    followers: 24299
+    engagement: 284
+    commentsToLikes: 0.037007
+    id: ck5hshscawmgk0i11rl9hp740
+    verified: false
+    hashtags: "#cofeetime, #cofee, #lvivgirls, #lvivgram"
+  - username: "bondarenkobv"
+    fullname: >-
+      Bogdan Bondarenko
+    bio: >-
+      🎥 Training Video 🏃🏻Health & Fitness 🥇World Champion 🥉Rio Olympic Bronze 🇺🇦High Jumper, Athletics 💪PB&NR 242 cm
+    location: "Ukraine"
+    followers: 20046
+    engagement: 661
+    commentsToLikes: 0.012615
+    id: ck0w3jnf2trae0i19f0fm93k5
+    verified: false
+    hashtags: "#roadtotokyo, #xsportchallenge, #hometeam, #adidasteam"
   - username: "anyanabieva"
     fullname: >-
-      blogger’s diary 💄 🌷☕️
+      
+    bio: >-
+      Health Beauty Editor #beautybynabieva Kiev 💛 anyanabieva@gmail.com 💌
     location: "Ukraine"
-    followers: 16100
-    engagement: 429
-    commentsToLikes: 0.110137
+    followers: 15862
+    engagement: 252
+    commentsToLikes: 0.115378
     id: ck0w1ehsjixvb0i19k83am1fs
     verified: false
-    hashtags: "#caudalieukraine, #falconerikiev, #hwb, #maybelline"
-  - username: "vitsporter"
+    hashtags: "#lorealua, #14, #garnierbio, #hwb"
+  - username: "marifur_"
     fullname: >-
-      V.S.🏐
+      Maria F
+    bio: >-
+      Miss Moscow 2016 Healthy lifestyle 🧘‍♀️ Sport Travelling @skyclinic_kiev ❤️ Made in Ukraine:) 🇺🇦
     location: "Ukraine"
-    followers: 191113
-    engagement: 1082
-    commentsToLikes: 0.067878
-    id: ck8t95cgbmxwy0j788ztisp7q
+    followers: 67856
+    engagement: 39
+    commentsToLikes: 0.201794
+    id: ck6tq40dmp95u0j71utffr8xo
     verified: false
-    hashtags: "#horse, #carpatians, #lovepizza, #pets"
-  - username: "annagirm"
+    hashtags: ""
+  - username: "kseniya_turlai"
     fullname: >-
-      A.n.n.a G.i.r Malowany 🌺
+      Kseniya Turlai
+    bio: >-
+      FITNES/LIFESTYLE 📍Cancun,Mexico🛫now in Odessa🇺🇦 🏃‍♀️Пробежала марафон 42.2 км 🌱Отказалась от мяса 💫Живу в гармонии с душой и телом
     location: "Ukraine"
-    followers: 6122
-    engagement: 2006
-    commentsToLikes: 0.184386
-    id: ck0tyggvvmppp0i19v8scrgo5
+    followers: 22175
+    engagement: 232
+    commentsToLikes: 0.115207
+    id: ck6tvedcblrca0j7181zqt93l
     verified: false
-    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
-  - username: "dr.tolstikova"
+    hashtags: "#happiness, #fitnessmotivation, #healthylifestyle, #lifeisbeautiful"
+  - username: "dobraira"
     fullname: >-
-      DOCTOR TOLSTIKOVA
+      Візажист/Бровіст- Іра Добра
+    bio: >-
+      Візажист - Бровіст/ Make-Up & Brows artist Індивідуальні курси візажу Підвищення кваліфікації по візажу Базові курси бровіста 📲+380987751233
     location: "Ukraine"
-    followers: 42534
-    engagement: 440
-    commentsToLikes: 0.066344
-    id: ck0w79ktkcfx20i190bhksy6c
+    followers: 8397
+    engagement: 898
+    commentsToLikes: 0.034581
+    id: ck14iic4jfjqc0i19gzh10vi9
     verified: false
-    hashtags: "#2020, #bali, #science, #berry"
-  - username: "_antimodel_"
-    fullname: >-
-      Julia Peters
-    location: "Ukraine"
-    followers: 30077
-    engagement: 879
-    commentsToLikes: 0.095875
-    id: ck9hb9ozifxy70j78r8rpbt2q
-    verified: false
-    hashtags: "#projects, #zurichcity, #bookcommunity, #vienna"
-  - username: "pylypchuk_vasyl"
-    fullname: >-
-      Фотограф Василь Пилипчук
-    location: "Ukraine"
-    followers: 32919
-    engagement: 445
-    commentsToLikes: 0.061072
-    id: ck14iibdofjml0i19t6ig8np2
-    verified: false
-    hashtags: "#weddingstory, #christmas, #dubaimall, #easterdecor"
+    hashtags: "#sport, #makeupartist, #beautiful, #healthyfood"
 ---

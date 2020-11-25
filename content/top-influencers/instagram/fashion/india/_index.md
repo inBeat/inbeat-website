@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In India In 2020
 description: >-
-  Find top fashion Instagram influencers in India in 2020. Most popular hashtags: #ootd # #quarantinelife #weddingwear.
+  Find top fashion Instagram influencers in India in 2020. Most popular hashtags: #model #fashionstyle #instagood.
 platform: Instagram
+hits: 5908
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 5908 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "fashion_trends86"
+  - username: "ansu_emoboy"
     fullname: >-
-      ⒻⒶⓈⒽⒾⓄⓃ ⓉⓇⒺⓃⒹⓈ👗👜
+      Anshad_Ansu
+    bio: >-
+      DM 📩FOR PAID COLLABORATION SHOOT📸Working Manager 🔥 @fashion_modeling_company @akfashionmodelingcompany @cad_modeling_company 🎂 April 28 🎂
     location: "India"
-    followers: 189819
-    engagement: 136
-    commentsToLikes: 0.013542
-    id: ck0uc5hb9g3ee0i19s3nipfr1
+    followers: 10224
+    engagement: 2586
+    commentsToLikes: 0.089736
+    id: ck9whp5e7ywxw0j786tw6li19
     verified: false
-    hashtags: "#fashion"
+    hashtags: "#clk, #wrk"
   - username: "ourpassportstory_"
     fullname: >-
       Surbhi & Nehil | Travel Couple
+    bio: >-
+      TRAVEL IN STYLE ❥ #travelcouple made in #dubai Travel | Fashion | Food 📍Dubai 🇦🇪 | India 🇮🇳 🗺 13 countries and counting Chartered Accountants
     location: "India"
-    followers: 3829
-    engagement: 3113
-    commentsToLikes: 0.163963
+    followers: 5684
+    engagement: 2271
+    commentsToLikes: 0.093308
     id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#turkey, #quarantine, #home, #cappadocia"
-  - username: "fashionarbaj"
-    fullname: >-
-      MODEL & fASHION PHOTOGRAPHY
-    location: "India"
-    followers: 4018
-    engagement: 2856
-    commentsToLikes: 0.562940
-    id: ckaowb49g85250i781g2y9w0k
-    verified: false
-    hashtags: ""
-  - username: "harshitmittal15"
-    fullname: >-
-      HARSHIT MITTAL | MEN'S WEAR |
-    location: "India"
-    followers: 5664
-    engagement: 2781
-    commentsToLikes: 0.095980
-    id: ck8t4jupg70nt0j78yxv91uzz
-    verified: false
-    hashtags: "#mymyntralook, #manmatters, #mattersofman, #gogreen"
-  - username: "bhupinder_19"
-    fullname: >-
-      🌈Bhupinder Kaur🦄
-    location: "India"
-    followers: 6488
-    engagement: 2384
-    commentsToLikes: 0.089619
-    id: ckaov56z033sp0i78y2hqb5vd
-    verified: false
-    hashtags: "#pinkmakeuplooks, #instadailypost, #quarantinelife, #stylingvideo"
-  - username: "_ajju__masar"
-    fullname: >-
-      🔰  _angel_nanudi_  🔰
-    location: "India"
-    followers: 9766
-    engagement: 2106
-    commentsToLikes: 0.179813
-    id: ck9hab2qbbv100j782e9q2nl1
-    verified: false
-    hashtags: ""
+    hashtags: "#dubaibloggers, #dubai, #traveldeeper, #travelcouples"
   - username: "shalini_vishnoi"
     fullname: >-
       Shalini Vishnoi
+    bio: >-
+      👩‍💼 UX Designer | Fashion Enthusiast | Travel lover 📨 DM for Collaboration 🌍 Earn | Explore | Repeat
     location: "India"
-    followers: 7366
-    engagement: 1676
-    commentsToLikes: 0.152239
+    followers: 7087
+    engagement: 1803
+    commentsToLikes: 0.150197
     id: ck9wfajl3nz5s0j788hj5ng5n
     verified: false
-    hashtags: "#summervibes, #igersofindia, #babesofsbl, #casualoutfit"
-  - username: "taukeer_editz"
+    hashtags: "#delhiblogger, #indiafashionblogger, #indianoutfits, #portraitsindia"
+  - username: "shriyagothi"
     fullname: >-
-      T 🔥 U K E E R   E D I T Z  👑
+      Shriya Gothi// Artistry
+    bio: >-
+      Makeup, Beauty, Fashion💄👗 Visual Artist & Designer Living in the world of colour🌈 📩DM/Email to collab- shriyagothi@gmail.com
     location: "India"
-    followers: 202590
-    engagement: 1513
-    commentsToLikes: 0.040923
-    id: ck15r3put5zoz0i19o97av7e3
+    followers: 5242
+    engagement: 1684
+    commentsToLikes: 0.200465
+    id: ckaou5j03yw400i780gekzjst
     verified: false
-    hashtags: "#illustration, #artwork, #lockdown, #catsofinstagram"
-  - username: "_mack_1211"
+    hashtags: "#indianmakeupsociety, #bloggersofindia, #artisticmakeuplooks, #makeupbysg"
+  - username: "___manu_micko"
     fullname: >-
-      I M POOP
+      M A N U 🍁
+    bio: >-
+      Alhamdulillah Travelling 🌎 @hermanoo.__ @under_world_._ @hiphopz_fashionstore @hopes.onlinestore @hiphopz_pmna
     location: "India"
-    followers: 44686
-    engagement: 1216
-    commentsToLikes: 0.062336
-    id: ck14jttd0m5gn0i19adgzzjea
+    followers: 167546
+    engagement: 917
+    commentsToLikes: 0.136859
+    id: ck9wp9c0r8cky0j78rzntmxev
     verified: false
-    hashtags: "#vehicle, #luxury, #travelphoto, #cars"
-  - username: "_gargibiswas_"
+    hashtags: "#pologti, #wols"
+  - username: "yogita__gupta__"
     fullname: >-
-      GARGI | KOLKATA BLOGGER |
+      Yogita Gupta
+    bio: >-
+      Managed by @barcodeent Content creator 🔸Influencer 🔸| Beauty |Tech | Fashion | Lifestyle 💌 Email me for collabs Collab.inquiry007@gmail.com
     location: "India"
-    followers: 27692
-    engagement: 1143
-    commentsToLikes: 0.066937
-    id: ck9wggh1vtb9g0j78iyd4xebd
+    followers: 541941
+    engagement: 651
+    commentsToLikes: 0.165614
+    id: ck0ty0x1ql52l0i198adlw0fk
     verified: false
-    hashtags: "#kolkatafood, #havells, #pizzaislove, #safecravings"
+    hashtags: "#stayhome, #fashionstyle, #love, #danceandmusic"
+  - username: "mr_charmer_tejas"
+    fullname: >-
+      👑MR TEJA$ PANDHARE👑
+    bio: >-
+      • fashion blogger | influencer 📷 • dm for callab | promotions 📩 • mr.ahmednagar top class of the fasion 2k20🏆 | • Professional Model | • ahmednagar |
+    location: "India"
+    followers: 6020
+    engagement: 3171
+    commentsToLikes: 0.156977
+    id: ck9wfpqdipyf10j78tfb8wr2k
+    verified: false
+    hashtags: "#instadaily, #potrait, #swag, #fambruh"
+  - username: "manish____301"
+    fullname: >-
+      ♏anish 💲oni
+    bio: >-
+      FASHiON / LIFESTYLE / MODELING 🎈Level up 14/10 🎉 Mail for collaborations poser photographer 🕺
+    location: "India"
+    followers: 3758
+    engagement: 2447
+    commentsToLikes: 0.330569
+    id: ck9wh65euwfpv0j78fmzcijpw
+    verified: false
+    hashtags: ""
+  - username: "_hasir_hashi_"
+    fullname: >-
+      
+    bio: >-
+      SADAKATHULAI HASIR Her weirdo 🦄 Making every day magical ✨ Fashion/Model 🖤💫
+    location: "India"
+    followers: 3910
+    engagement: 2358
+    commentsToLikes: 0.184487
+    id: ckapboi2l0pat0i78zgty2ne9
+    verified: false
+    hashtags: "#thrivandrum, #kasarago, #palkad, #culture"
+  - username: "sejaltiwari3"
+    fullname: >-
+      seju,,,,,,,❤😘😘😘
+    bio: >-
+      Lifestyle / Fashion / Foodie Wish Me On 12 Dec🎂 I Love My Self Surat Smart City❤
+    location: "India"
+    followers: 3190
+    engagement: 2328
+    commentsToLikes: 0.150934
+    id: ckaou1twpyf8q0i78rmbq4fnb
+    verified: false
+    hashtags: ""
 ---

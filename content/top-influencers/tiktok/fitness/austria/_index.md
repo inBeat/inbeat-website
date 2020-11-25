@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Austria In 2020
 description: >-
-  Find top fitness TikTok influencers in Austria in 2020. Most popular hashtags: #fitness #corona #workout #tiktok.
+  Find top fitness TikTok influencers in Austria in 2020. Most popular hashtags: #fyp #fitness #viral #austria.
 platform: TikTok
+hits: 33
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 33 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "lukashaselberger"
     fullname: >-
-      Lukas Haselberger
+      LH - Abnehmen leicht gemacht!!
+    bio: >-
+      Ich helfe dir, dein Fitnessziel zu erreichen! 🔥 #lukisrezepte #lukistipps
     location: "Austria"
-    followers: 78374
-    engagement: 494
-    commentsToLikes: 0.044413
+    followers: 139900
+    engagement: 632
+    commentsToLikes: 0.031653
     id: ck9ej7bnf13k40j78lm8qy4uh
     verified: false
-    hashtags: "#muskelkater, #sport, #smoothiebowl, #eiscreme"
-  - username: "blanca_friedrich"
+    hashtags: "#lukistipps, #lernenmittiktok, #lukisrezepte, #ern"
+  - username: "growingannanas"
     fullname: >-
-      Blanca Friedrich
+      growingannanas
+    bio: >-
+      FITNESS RECIPES, HOME & GYM WORKOUTS 👉🏼 YOUTUBE & IG: growingannanas 👈🏼
     location: "Austria"
-    followers: 40672
-    engagement: 658
-    commentsToLikes: 0.009463
-    id: ck9fo3lg30w940j78sboe8kpe
+    followers: 63200
+    engagement: 437
+    commentsToLikes: 0.009093
+    id: ckcjc318f99mq0j23l99yr6qj
     verified: false
-    hashtags: "#hairstyle, #makefriends, #lori, #vital"
-  - username: "jab.manu"
+    hashtags: "#healthyrecipes, #fitnessfood, #lowcarb, #absaremadeinthekitchen"
+  - username: "gerid_rux"
     fullname: >-
-      Manu Jab Thaler
+      geridrux
+    bio: >-
+      Fitness · Travel · Acting IG ➡️ @gerid_rux From Austria 🇦🇹
     location: "Austria"
-    followers: 4395
-    engagement: 1227
-    commentsToLikes: 0.105379
-    id: cka65s1aieczf0i789w0ut66c
+    followers: 250148
+    engagement: 405
+    commentsToLikes: 0.008144
+    id: ckb0uvsztk9p00j23sxw4sgft
     verified: false
-    hashtags: "#homefitness, #painting, #drone, #bike"
+    hashtags: "#fitnesstips, #quarantine, #abs, #workout"
   - username: "aerialsea"
     fullname: >-
       aerialsea
+    bio: >-
+      Follow me on insta ✨ 🥰 . Instructor | Performer | Aerial | Seavibes #aerialsea
     location: "Austria"
-    followers: 53798
-    engagement: 2015
-    commentsToLikes: 0.005557
+    followers: 53000
+    engagement: 2096
+    commentsToLikes: 0.007811
     id: ck80cq38uagr00j78pyjfc1k8
     verified: false
-    hashtags: "#coronatime, #whereidratherbe, #danceoftiktok, #movement"
-  - username: "gabriel.hofi"
+    hashtags: "#fitnessmotivation, #dancetiktok, #aerial, #aerialsilk"
+  - username: "coloratoequestrian"
     fullname: >-
-      gabriel.hofi
+      Sabrina Kat
+    bio: >-
+      🎖️ Santo Cavallo Colorato - Deutscher Pinto Hunter 🐎 Equestrian Sabrina 🎖️
     location: "Austria"
-    followers: 23527
-    engagement: 1300
-    commentsToLikes: 0.015599
-    id: cka0k6gcbl5dn0i780z2jy807
+    followers: 32500
+    engagement: 2024
+    commentsToLikes: 0.011054
+    id: ckbvtl0vtscnj0j23ln96g9ki
     verified: false
-    hashtags: "#siblings, #verdammtlangher, #whenusmile, #comeheregirl"
-  - username: "janedelm"
+    hashtags: "#ups, #equestrian, #pferdeliebe, #travel"
+  - username: "nicole.saranto"
     fullname: >-
-      Jan Edelmüller🔥
+      Nicole
+    bio: >-
+      Go Beastmode 🔥💪🏽 🎥 https://youtu.be/Yq-Bp0oddMg Coaching ⬇️
     location: "Austria"
-    followers: 26571
-    engagement: 524
-    commentsToLikes: 0.118472
-    id: ck81s7m58qlry0j78xv2r2uin
+    followers: 3972
+    engagement: 602
+    commentsToLikes: 0.086867
+    id: ckbfgavn0bf3c0j23mzci8zr7
     verified: false
-    hashtags: "#photographer, #photoshooting, #erraten, #callofduty"
-  - username: "manuellessl"
+    hashtags: "#backday, #womenwholift, #fitinnwien, #pullups"
+  - username: "bio_lution"
     fullname: >-
-      Manuel Leßl
+      Bio_lution
+    bio: >-
+      70.000 I❤U Ig: bio_lution Biological Evolution 🐒🔜❓ ⬇️ (10% off) Code: BIO10
     location: "Austria"
-    followers: 8442
-    engagement: 379
-    commentsToLikes: 0.162839
-    id: ck910zgp3js560j78c7eur04g
+    followers: 78500
+    engagement: 140
+    commentsToLikes: 0.047739
+    id: ckbf3yairs4a10j23wrhk4pmo
     verified: false
-    hashtags: "#party, #fitness, #schlagerboy, #flachwitze"
-  - username: "vivianereinhardt"
+    hashtags: "#fortnite, #trend, #love, #comedy"
+  - username: "rebornforfitness"
     fullname: >-
-      Viviane Reinhardt
+      niki
+    bio: >-
+      Here to motivate you! 💪🏻
     location: "Austria"
-    followers: 21990
-    engagement: 633
-    commentsToLikes: 0.017940
-    id: cka0k7oiclg2z0i788fb0dcxu
+    followers: 18400
+    engagement: 714
+    commentsToLikes: 0.037501
+    id: ckbqv8lo2fhba0j23ukikiawn
     verified: false
-    hashtags: "#cardcollection, #pamelaxnakd, #travelbuddy, #cherryblossom"
-  - username: "lily_mony"
+    hashtags: "#fitness, #ausl, #fyp, #wien"
+  - username: "micajova_1"
     fullname: >-
-      LILY
+      Mica Jova
+    bio: >-
+      Come laugh with me! Follow me on instagram: micajova_ Youtube: Mica Jova ❤️
     location: "Austria"
-    followers: 19588
-    engagement: 443
-    commentsToLikes: 0.043316
-    id: cka65s29ped6k0i78jtorv6xt
+    followers: 8720
+    engagement: 247
+    commentsToLikes: 0.030322
+    id: ckd0xzwf7l3y60j239hxe0bgr
     verified: false
-    hashtags: "#castle, #nichtverdient, #clubs, #djadja"
-  - username: "freeride.inc.austria"
+    hashtags: "#foryourpage, #trend, #fy, #fun"
+  - username: "blanca_friedrich"
     fullname: >-
-      Freeride Inc. At
+      Blanca Friedrich
+    bio: >-
+      SMILE AND SHINE BRIGHT ✨ 📍 made in Austria 🇦🇹 📸 blanca_friedrich (instagram)
     location: "Austria"
-    followers: 5857
-    engagement: 961
-    commentsToLikes: 0.020673
-    id: ckacldgvuf3py0i78vrv5uvgm
+    followers: 49700
+    engagement: 591
+    commentsToLikes: 0.009706
+    id: ck9fo3lg30w940j78sboe8kpe
     verified: false
-    hashtags: "#forypu, #wandern, #schei, #work"
+    hashtags: "#fitness, #blonde, #workout, #todayilearned"
 ---

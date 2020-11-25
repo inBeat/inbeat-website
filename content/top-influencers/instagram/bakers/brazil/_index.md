@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top bakers Instagram influencers in Brazil in 2020. Most popular hashtags: #photooftheday #baker #desserts #quarentena.
+  Find top bakers Instagram influencers in Brazil in 2020. Most popular hashtags: #foodphotography #pastry #baker #instafood.
 platform: Instagram
+hits: 138
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 138 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "gilklan"
+  - username: "lindsey.ruel"
     fullname: >-
-      GILKLAN
+      Lindsey
+    bio: >-
+      Cookie baker & decorator. Wife & momma. ⬇️ Blog, e-courses, recipes, tutorials, & supplies, below. Contact via email. 📧
     location: "Brazil"
-    followers: 6319
-    engagement: 919
-    commentsToLikes: 0.031022
-    id: ck6u4snro5jtq0j71xkpsg1wd
+    followers: 26538
+    engagement: 311
+    commentsToLikes: 0.033563
+    id: ck5hl8ib5jrlr0i11205zr0a0
     verified: false
-    hashtags: "#abebebikila, #flowzidane, #traplife, #drip"
-  - username: "joaohskate"
+    hashtags: "#cookieoftheday, #cookiedecorating, #sugarcookie, #sugarcookies"
+  - username: "nat.mendonca"
     fullname: >-
-      ❄️🌹Joao Henrique🌹❄️
+      Natália Mendonça
+    bio: >-
+      I'll help you to become a better baker 🇬🇧 Students in 98 countries 🌏 Eu te ajudo a ser um confeiteiro melhor 🇧🇷 Alunos em 98 países 🌎
     location: "Brazil"
-    followers: 4199
-    engagement: 1852
-    commentsToLikes: 0.036536
-    id: ck5cbmyb8frpg0i11m146nkjm
+    followers: 141721
+    engagement: 57
+    commentsToLikes: 0.032485
+    id: ck15swve3f7kl0i19qovu1xbc
     verified: false
-    hashtags: "#skateinside, #stayhome, #staysafe, #skateordie"
+    hashtags: "#tbt"
+  - username: "rileyhawk"
+    fullname: >-
+      Riley Hawk
+    bio: >-
+      @bakerskateboards @lakailtd @brixton @steelmillcoffee @warish.usa
+    location: "Brazil"
+    followers: 327564
+    engagement: 458
+    commentsToLikes: 0.010398
+    id: ck0ty2s53ldgc0i19bvlqx08o
+    verified: false
+    hashtags: "#thps, #poodsforever"
+  - username: "malasnomundo"
+    fullname: >-
+      𝕄𝕒𝕝𝕒𝕤 𝕟𝕠 𝕞𝕦𝕟𝕕𝕠 🗺
+    bio: >-
+      Filipe e Gabriela 💑 🇧🇷 Compartilhando experiências de viagens 🛫
+    location: "Brazil"
+    followers: 6514
+    engagement: 2382
+    commentsToLikes: 0.058318
+    id: ck0ueaw9ul17i0i194u0demz2
+    verified: false
+    hashtags: "#uk, #discovereurope, #visithungary, #viajar"
+  - username: "chezmabi"
+    fullname: >-
+      O Quebra-Nozes Chez Mabi
+    bio: >-
+      #receitas #patisserie #foodfluffer Pâtisserie e outros contos 🇫🇷 Foodstyling | Recipe Developer 🍒
+    location: "Brazil"
+    followers: 6924
+    engagement: 617
+    commentsToLikes: 0.076055
+    id: ck8t8g3mekc720j783jigm1gr
+    verified: false
+    hashtags: "#bakeandshare, #foodlover, #createtoinspire, #chocolate"
+  - username: "turkyilmazresmi"
+    fullname: >-
+      Nihat Türkyılmaz 🇹🇷
+    bio: >-
+      Yeni Hesap 💯 İnternational Beting Editor 🔰 Ücretsiz Banko Kupon Paylaşımları İçin Takip Et & Mesaj At
+    location: "Brazil"
+    followers: 46135
+    engagement: 108
+    commentsToLikes: 0.055688
+    id: ck14k1fkmn8rw0i1973szycsq
+    verified: false
+    hashtags: "#liliankustercakedesigner, #fabind, #cakedesigner, #ballooncaketopper"
   - username: "gsolovidal"
     fullname: >-
       Gonzalo Vidal •cozinheiro•
+    bio: >-
+      @la_choriceriarj @74restaurant @casas_brancas_hotel
     location: "Brazil"
     followers: 7527
     engagement: 473
     commentsToLikes: 0.031842
     id: ck5pzfbjw0p2s0i11hasfpedm
     verified: false
-    hashtags: "#bubbagump, #eggs, #katsusando, #champagne"
-  - username: "kwakuzee"
+    hashtags: "#sweet, #lunch, #brasil, #top"
+  - username: "pratofundo"
     fullname: >-
-      Kwaku Zee | Videographer
+      PratoFundo por Vitor Hugo
+    bio: >-
+      🍪Comida + Ciência👨‍🔬 + Mercado 🛒 Vem comer um bolinho e fofocas do Maillard! 📩 contato@pratofundo.com ⬇︎RECEITAS⬇︎
     location: "Brazil"
-    followers: 28248
-    engagement: 156
-    commentsToLikes: 0.057090
-    id: ck15tyfvdkisu0i19e9bo6udz
+    followers: 33155
+    engagement: 299
+    commentsToLikes: 0.040230
+    id: ck5q1t6iucnlj0i113m4x1nwf
     verified: false
-    hashtags: "#marketingtips, #travel, #life, #rapper"
-  - username: "londresnalata"
+    hashtags: "#bakersofinstagram, #foodporn, #pastry, #buzzfeedfood"
+  - username: "padocadoalex"
     fullname: >-
-      Londres na Lata
+      🇧🇷 Padoca do Alex 😉🌾
+    bio: >-
+      🥖 Ensino fazer #Pães #Sourdough 👨🏼‍🍳 #Workshop mão na #massa #RJ e #SP 📡 #Curso #online 🌾 Vendo pães #fermentacaonatural #levain (+5521)98613-3683
     location: "Brazil"
-    followers: 24800
-    engagement: 490
-    commentsToLikes: 0.042822
-    id: ck0vxxjsq18gg0i19hj6f23w9
+    followers: 123027
+    engagement: 197
+    commentsToLikes: 0.026347
+    id: ck15rjcsz87e70i191l7wrb4e
     verified: false
-    hashtags: "#viagem, #londonlive, #park, #dicasdeviajem"
-  - username: "aydnerr"
+    hashtags: "#workshop, #pane, #bread, #naturallyleavened"
+  - username: "primechefbr"
     fullname: >-
-      Aydner Maltez
+      PRIME CHEF
+    bio: >-
+      Importadora e Distribuidora de Acessórios para Confeitaria, Padaria e Festa. ☎️ ZAP VENDA NO ATACADO: (11) 94102-9005 VENDA NO VAREJO: (11) 97367-3381
     location: "Brazil"
-    followers: 23991
-    engagement: 195
-    commentsToLikes: 0.147884
-    id: ck8tarangsr560j78vsorkdzp
+    followers: 133401
+    engagement: 60
+    commentsToLikes: 0.415175
+    id: ck6u9ljmcy7vr0j713t85sdqy
     verified: false
-    hashtags: "#risoprint, #destinosimperdiveis, #ilusaodeotica, #trilhandotrilhas"
-  - username: "cakes_ideas_videos"
-    fullname: >-
-      por Any de Lucca @belalu.bolos
-    location: "Brazil"
-    followers: 674677
-    engagement: 23
-    commentsToLikes: 0.004126
-    id: ck139oxn8mels0i19rhpd3v91
-    verified: false
-    hashtags: "#pinkandgold, #chantininhocremoso, #cakedecorators, #wiltoncakes"
-  - username: "aradiorock"
-    fullname: >-
-      89FM A RÁDIO ROCK
-    location: "Brazil"
-    followers: 557641
-    engagement: 47
-    commentsToLikes: 0.029897
-    id: ck0ttyo6d4w430i199rsq9uvy
-    verified: false
-    hashtags: "#pacman, #games, #mascara, #jethrotull"
-  - username: "leuzus"
-    fullname: >-
-      Leonardo Oliveira
-    location: "Brazil"
-    followers: 12065
-    engagement: 718
-    commentsToLikes: 0.055547
-    id: ck6u0t9i5hmsq0j71eby9x5q8
-    verified: false
-    hashtags: "#gqbrasil, #milanomodadonna, #pfw, #brunaludtke"
-  - username: "thamiresgarciaoficial"
-    fullname: >-
-      THAMIRES GARCIA 🇧🇷
-    location: "Brazil"
-    followers: 109853
-    engagement: 592
-    commentsToLikes: 0.107359
-    id: ck8syo5q7lf7f0j78fr4ytkit
-    verified: false
-    hashtags: "#birthdaygirl, #nadamaisimporta, #euvoc, #single"
+    hashtags: "#bolopersonalizados, #pastrylife, #primechefbr, #cakedesign"
 ---

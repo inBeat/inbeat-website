@@ -1,107 +1,130 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Canada In 2020
 description: >-
-  Find top outdoors Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #internationalwomensday #ontario #muledeer.
+  Find top outdoors Instagram influencers in Canada in 2020. Most popular hashtags: #canada #exploremore #stayandwander.
 platform: Instagram
+hits: 598
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 598 Instagram influencers like this in Canada for you to work with.
 profiles:
   - username: "daniellegraham"
     fullname: >-
       Danielle Graham
+    bio: >-
+      ▫️TV Host @etalkctv ▫️Mama to Bea @beatrixgraham 🐝 & Marigold 🌼 🎈Kitchen 🎈Cottage 🎈Garden 🎈Antiquing 🎈The Great Outdoors #TheFamilyGraham
     location: "Canada"
-    followers: 36120
-    engagement: 542
-    commentsToLikes: 0.041222
+    followers: 36800
+    engagement: 427
+    commentsToLikes: 0.061401
     id: ck14gyjzd7nlb0i19uctdihvx
     verified: true
-    hashtags: "#heymarigoldie, #internationalwomensday, #happiestbaby, #bewonderful"
+    hashtags: "#thefamilygraham, #sponsored, #heymarigoldie, #thebeanut"
+  - username: "reecejrowat"
+    fullname: >-
+      Reece Rowat
+    bio: >-
+      He/him Toronto/Vancouver Gay af Dance + Theatre + Fitness + Travel + Outdoors Repped by: @dacosta_talent, @quickballchange ✨💕✨
+    location: "Canada"
+    followers: 2180
+    engagement: 1860
+    commentsToLikes: 0.109727
+    id: ck6to6gz8cdct0j715digvwoo
+    verified: false
+    hashtags: "#gayboy, #gayselfie, #summergirl, #gaymuscle"
+  - username: "splorin.lauren"
+    fullname: >-
+      Lauren Meeker Canada Travel
+    bio: >-
+      ٭ Travel ٭ Ski ٭ Adventure ٭ Surf ٭ Sustainability 🛶 Always outdoors 💍 #engaged 📍Whistler BC ⛷🏔 🇨🇦 Free presets, blog, etc↡↡
+    location: "Canada"
+    followers: 98640
+    engagement: 108
+    commentsToLikes: 0.048283
+    id: ck13cpe2z1ie00i19eid5xmt7
+    verified: false
+    hashtags: "#earthoutdoors, #stayandwander, #keepitwild, #hiking"
   - username: "waderobinson_druryoutdoors"
     fullname: >-
       Wade Robinson
+    bio: >-
+      Husband/Bowhunter/Iowa/Drury Outdoors🎥🏹🦌🦃
     location: "Canada"
-    followers: 16911
-    engagement: 664
-    commentsToLikes: 0.017355
+    followers: 17734
+    engagement: 628
+    commentsToLikes: 0.020232
     id: ck5c1eehov0ks0i11b2nszrh6
     verified: false
-    hashtags: "#buck, #criticalmass, #bowhunting, #crashmyplaya2020"
+    hashtags: "#cabo, #dod, #deercast, #mexico"
+  - username: "bradflowerss"
+    fullname: >-
+      BRAD FLOWERDEW
+    bio: >-
+      outdoors | adventure whistler, canada
+    location: "Canada"
+    followers: 8227
+    engagement: 1423
+    commentsToLikes: 0.100705
+    id: ckaoqpqywjsjn0i78ne9fcw8b
+    verified: false
+    hashtags: ""
+  - username: "esawatzky75"
+    fullname: >-
+      Erdman
+    bio: >-
+      Non-profit page dedicated to the outdoors sharing some of my pic, and some of yours 🎣🦌🌅🏕 DM or tag 🏷 me @esawatzky75 for a chance to be featured.
+    location: "Canada"
+    followers: 23685
+    engagement: 483
+    commentsToLikes: 0.032005
+    id: ck5pvgq4vhswi0i1148px91fe
+    verified: false
+    hashtags: "#canada, #catchandrelease, #musky, #walleyewednesday"
   - username: "evelynbarkeyphoto"
     fullname: >-
       Evelyn Barkey 🌞
+    bio: >-
+      Hey, I’m Ev Photography + Brand Content for unrefined souls who feel deeply & love the outdoors↟☾ Home is 🇨🇦 Owner of @daughtersofindie + @therockpine
     location: "Canada"
-    followers: 7566
-    engagement: 483
-    commentsToLikes: 0.060894
+    followers: 12339
+    engagement: 486
+    commentsToLikes: 0.028751
     id: ck5hjfr8egjrm0i11gt9hk7ir
     verified: false
-    hashtags: "#internationalpuppyday, #icantwait, #stayhome"
-  - username: "hikingcorry"
-    fullname: >-
-      Corry
-    location: "Canada"
-    followers: 16023
-    engagement: 349
-    commentsToLikes: 0.018241
-    id: ck138ae9ofa850i19wosu5qir
-    verified: false
-    hashtags: "#hbtensorings, #selfisolation, #throwback, #forceforgood"
+    hashtags: "#paradisefound"
   - username: "thevicxen_huntress"
     fullname: >-
       Crystal
+    bio: >-
+      Sask 🇨🇦 @blackwidow_innovations @antlerobsessiontrophymix @rack_getter_scentsnlures @bushkingapparel Operating partner @wildside.outdoors
     location: "Canada"
     followers: 2648
     engagement: 1498
     commentsToLikes: 0.040173
     id: ck6tzsbu1bkgb0j71bwakftq3
     verified: false
-    hashtags: "#saskbeauty, #valemount, #bowandarrow, #outdoors"
+    hashtags: "#wildsideoutdoors, #bowhuntress, #saskatchewan, #canada"
+  - username: "lentaloutdoors"
+    fullname: >-
+      Len Talarico
+    bio: >-
+      Multi-species Angler 🎣 Always searching for a good walleye chop 🌊 Hunter/Outdoorsman 🛶🏕🏹 Will travel for fish 🌎 🚤 @legendboats
+    location: "Canada"
+    followers: 5260
+    engagement: 1586
+    commentsToLikes: 0.095109
+    id: ck6u1cnn0ky1k0j71cvntn0l3
+    verified: false
+    hashtags: ""
   - username: "victoraerden"
     fullname: >-
-      Victor Aerden 🇧🇪🇨🇦
+      Victor Aerden
+    bio: >-
+      I create Photo and Video assets for adventurous brands. Passionate about exploring the great outdoors & going further @melanielynnn_ @roamcreative.ca
     location: "Canada"
-    followers: 19059
-    engagement: 662
-    commentsToLikes: 0.070909
+    followers: 24825
+    engagement: 699
+    commentsToLikes: 0.084202
     id: ck0uel9t9lktk0i19ezf96bmz
     verified: false
-    hashtags: "#drone, #moltonbarn, #hawk, #freediving"
-  - username: "frankferragine"
-    fullname: >-
-      Frankie Flowers
-    location: "Canada"
-    followers: 42466
-    engagement: 440
-    commentsToLikes: 0.058000
-    id: ck5cduxm7jtpm0i11isipfje8
-    verified: true
-    hashtags: "#november, #happy, #smile, #annualplant"
-  - username: "chanythai"
-    fullname: >-
-      Chanel Taillefer | Québec 🇨🇦
-    location: "Canada"
-    followers: 11612
-    engagement: 488
-    commentsToLikes: 0.017322
-    id: ck0u68jru18yh0i19s85h925g
-    verified: false
-    hashtags: "#quarantineoutfit, #cafeglace, #coffeeaddict, #outaouaisfun"
-  - username: "bradflowerss"
-    fullname: >-
-      Brad Flowerdew
-    location: "Canada"
-    followers: 5680
-    engagement: 979
-    commentsToLikes: 0.089748
-    id: ckaoqpqywjsjn0i78ne9fcw8b
-    verified: false
-    hashtags: "#communityffa"
-  - username: "adventuresofmikeandlily"
-    fullname: >-
-      Mike & Betty
-    location: "Canada"
-    followers: 8212
-    engagement: 707
-    commentsToLikes: 0.076613
-    id: ck6u52hzz77ln0j71v6c9w02o
-    verified: false
-    hashtags: "#nature, #quarantine15, #spikies, #earthday"
+    hashtags: "#allaboutadventures, #pnwlife, #explorecanada, #borntoroam"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nail Artists TikTok Influencers In 2020
 description: >-
-  Find top nail artists TikTok influencers in 2020. Most popular hashtags: #nailschallenge #coronavirus #nailvideos #fypage.
+  Find top nail artists TikTok influencers in 2020. Most popular hashtags: #nails #nailtech #fyp #nailart.
 platform: TikTok
+hits: 262
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 262 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "chenailnail.og"
+    fullname: >-
+      Rachelle
+    bio: >-
+      💕Amateur nail artist💕 🥓 I love to cook🥑 #Nattynation #prodsquad
+    location: "United States"
+    followers: 47900
+    engagement: 1419
+    commentsToLikes: 0.015422
+    id: ckb9c9dmvyzok0j23wzg8etss
+    verified: false
+    hashtags: "#pumpkinseeds, #remotelearninglunches, #chenailnailcooks, #schoolfood"
+  - username: "michelleduron21"
+    fullname: >-
+      MichiDuron
+    bio: >-
+      Nail Artist Mom of 3 preemie boys 🌼Handmade Luxury Press on Nails🌼
+    location: "United States"
+    followers: 6152
+    engagement: 742
+    commentsToLikes: 0.193952
+    id: ckb9joztib1t30j23p1nbjl7v
+    verified: false
+    hashtags: "#parati, #xy, #presson, #pressonnails"
   - username: "thenailaddict"
     fullname: >-
       Devin Strebler
+    bio: >-
+      💅🏼NAIL ARTIST / OWNER OF NAIL ADDICTS💅🏼 🌴LARGO, FL🌴 🦋 @NAILZ_BY_DEV 🦋
     location: "United States"
-    followers: 153520
-    engagement: 1878
-    commentsToLikes: 0.008850
+    followers: 383000
+    engagement: 1522
+    commentsToLikes: 0.014189
     id: ckacg26y4tftm0i782gcohyvm
     verified: false
-    hashtags: "#covid19, #nailschallege, #myaesthetic, #thrift"
-  - username: "miriananailartist"
-    fullname: >-
-      Miriana Tria
-    location: "Italy"
-    followers: 30270
-    engagement: 756
-    commentsToLikes: 0.025278
-    id: ck8vshz1ddnla0j78p1xr9czv
-    verified: false
-    hashtags: "#fakelashes, #foryou, #satisfaction, #gelnail"
+    hashtags: "#halloween, #mycostume, #freebritney, #halloweennails"
   - username: "nailthoughts"
     fullname: >-
       nailthoughts
+    bio: >-
+      a nail artist & business owning beech named Katie Masters
     location: "United States"
-    followers: 356792
-    engagement: 1520
-    commentsToLikes: 0.002814
+    followers: 379700
+    engagement: 1639
+    commentsToLikes: 0.002981
     id: ck7zo0zb0gs8e0j78rq2f2q8t
     verified: false
-    hashtags: "#animalcrossing, #animalcrossingnewhorizons, #stupidlove, #entrpreneur"
-  - username: "ralirali131"
+    hashtags: "#entrepreneur, #pressons, #nails, #nailthoughts"
+  - username: "miriananailartist"
     fullname: >-
-      Ралица Николова
-    location: "Bulgaria"
-    followers: 4222
-    engagement: 476
-    commentsToLikes: 0.032869
-    id: cka7p1dok5bfz0i78soqih82g
+      Miriana Tria
+    bio: >-
+      Estetista-Onicotecnica Instagram—> miriana_nail_artist 📩mirianat2711@icloud.com
+    location: "Italy"
+    followers: 59200
+    engagement: 757
+    commentsToLikes: 0.019533
+    id: ck8vshz1ddnla0j78p1xr9czv
     verified: false
-    hashtags: "#icantdance, #tellmesomething, #ilove, #imnew"
-  - username: "khaystudio"
+    hashtags: "#estetista, #nailscheck, #unghie, #nailtutorial"
+  - username: "amariangelique"
     fullname: >-
-      Khay💅🏽
+      Amari Angelique
+    bio: >-
+      💘 Hi Babies 🦋 Nail Artist & I like to make things 🎨
     location: "United States"
-    followers: 19964
-    engagement: 590
-    commentsToLikes: 0.003776
-    id: ck83k15di8ibp0j78trje4j2u
+    followers: 30900
+    engagement: 1126
+    commentsToLikes: 0.012352
+    id: ckd66mu2738f20j236k3qbczt
     verified: false
-    hashtags: "#givemeasign, #coronavirus, #bored, #acrylicnails"
-  - username: "live_laugh_learn_nailart"
+    hashtags: "#cricut, #cricutmaker, #nailtech, #smallbusinesscheck"
+  - username: "p_inknails"
     fullname: >-
-      Live-Laugh-Learn
-    location: "Canada"
-    followers: 82051
-    engagement: 535
-    commentsToLikes: 0.003190
-    id: ck8osv2ziiggl0j781no07yvn
+      Alex Rose
+    bio: >-
+      Nail artist ⤵️ 🛑 YouTube Channel : P’InkNails 📸 IG : P_InkNails
+    location: ""
+    followers: 34900
+    engagement: 1131
+    commentsToLikes: 0.009935
+    id: ckcuhckiefkn30j23ipmj72tv
     verified: false
-    hashtags: "#nail, #stampingnailart, #sticker, #sephoracanada"
-  - username: "charm.nails"
+    hashtags: "#nail, #fakehand, #nailart, #rediguana"
+  - username: "thenaildesigner.cl"
     fullname: >-
-      charm.nails
-    location: "United Kingdom"
-    followers: 8967
-    engagement: 925
-    commentsToLikes: 0.003892
-    id: ck83k16c38iip0j78i7vzde5i
+      Fran Canessa ✨
+    bio: >-
+      Diseñadora y Nail Artist 💕 Sígueme en Instagram! @thenaildesigner.cl
+    location: "Chile"
+    followers: 137000
+    engagement: 1311
+    commentsToLikes: 0.005349
+    id: ckcek3v7htadu0j23g4r7a15c
     verified: false
-    hashtags: "#nailsvid, #houseoftiktok, #extention, #pressonnails"
-  - username: "la_fingers"
+    hashtags: "#chile, #covid19, #parati, #pressonnails"
+  - username: "spoiled_nailz"
     fullname: >-
-      LA-Fingers
-    location: "Germany"
-    followers: 29543
-    engagement: 534
-    commentsToLikes: 0.008521
-    id: ck81svs3vtgqn0j78vsp9h0fq
+      Zuri Christian
+    bio: >-
+      •Nail artist💅🏻•Medium-Long Nails • San Diego area!
+    location: "United States"
+    followers: 4300
+    engagement: 1036
+    commentsToLikes: 0.011345
+    id: ckdnfizkhhi8p0j2343c6dtab
     verified: false
-    hashtags: "#glimmer, #acryl, #fypage, #flexen"
-  - username: "shivani0812"
+    hashtags: "#fmp, #sandiegonails, #bestnails, #spoiledgirl"
+  - username: "nailedbycristy"
     fullname: >-
-      sweet shivani
-    location: "India"
-    followers: 4326
-    engagement: 481
-    commentsToLikes: 0.009444
-    id: ckamr132ujqgy0i78q2xdnx2t
+      Cristy
+    bio: >-
+      Celebrity Nail Artist Luxury Press On Nails 💅🏻✨ Custom Designs, Decals & more.
+    location: "United States"
+    followers: 49800
+    engagement: 970
+    commentsToLikes: 0.016247
+    id: ckai6iu1wwae80i7894nrvqop
     verified: false
-    hashtags: "#wowww, #nailtrends, #nailarr, #flowernails"
-  - username: "tanfastic_"
-    fullname: >-
-      kylie Saunders
-    location: "Canada"
-    followers: 8559
-    engagement: 564
-    commentsToLikes: 0.022475
-    id: ck8osv4oqigws0j78zxzy7uc5
-    verified: false
-    hashtags: "#quarentinecheck, #covid19, #adamdriveredit, #barbiegirl"
+    hashtags: "#business, #nailvideos, #pressonnails, #nailart"
 ---

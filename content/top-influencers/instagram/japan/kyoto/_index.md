@@ -1,12 +1,17 @@
 ---
 title: Top 10 Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top Instagram influencers in Kyoto in 2020. Most popular hashtags: #accessories #watch # #fujimi.
+  Find top Instagram influencers in Kyoto in 2020. Most popular hashtags: #japan #ootd #good.
 platform: Instagram
+hits: 490
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 490 Instagram influencers like this in Kyoto, Japan for you to collaborate.
 profiles:
   - username: "explorekyoto"
     fullname: >-
       KYOTO
+    bio: >-
+      Kyoto on instagram 📸 Use #explorekyoto to be featured.
     location: "Japan"
     followers: 36351
     engagement: 277
@@ -14,29 +19,11 @@ profiles:
     id: ck15rq66095220i19okgsadrr
     verified: false
     hashtags: ""
-  - username: "honoka_lol"
-    fullname: >-
-      honoka
-    location: "Japan"
-    followers: 51145
-    engagement: 879
-    commentsToLikes: 0.017323
-    id: ck5zscw1ty9gz0i14eopdxb4f
-    verified: true
-    hashtags: "#pluspumastyle, #volumeextensionmascara, #nanocrysphere, #eyelashserum"
-  - username: "buritei"
-    fullname: >-
-      buri_chan🦄🌈💕
-    location: "Japan"
-    followers: 44230
-    engagement: 259
-    commentsToLikes: 0.050060
-    id: ck138y1viikwq0i19qtl7tnic
-    verified: false
-    hashtags: "#aromaoil, #jewelrycastle, #muse, #orbis"
   - username: "y.t_photo71"
     fullname: >-
       ゆうたろう
+    bio: >-
+      🏠　Kyoto⛩ 👫🏻　@aya_photo918 Mod @season_girls_collection #season_girls_collection 🏷 #ぼくときみとの物語 🏷 #ど田舎ポートレート　 撮影等の依頼はDMへ📩
     location: "Japan"
     followers: 4974
     engagement: 1790
@@ -44,64 +31,100 @@ profiles:
     id: ck8t9i31ao6am0j78an51q6a3
     verified: false
     hashtags: ""
-  - username: "eikino.__"
+  - username: "akko1202akko"
     fullname: >-
-      hitomi☁︎ .｡•⁎
+      中村 晃子（Akiko Nakamura）
+    bio: >-
+      📍KYOTO, JAPAN﻿ ﻿ 👘MRS NADESHIKO NIPPON 2020 Finalist﻿ ﻿ ♡資格マニア♡﻿ 看護師 / 呼吸療法認定士 / 保健師 / 宅建士 風水鑑定士 /風水セラピスト﻿ ﻿﻿ お仕事のご依頼はDMへお願いします📩
     location: "Japan"
-    followers: 8664
-    engagement: 1205
-    commentsToLikes: 0.024871
-    id: ck8tdtxmw4r8c0j78iny8ulon
+    followers: 47749
+    engagement: 205
+    commentsToLikes: 0.057417
+    id: ck5zzwp8vcjtd0i1468pddvwd
     verified: false
-    hashtags: "#whim"
+    hashtags: "#cafe, #coordinate, #outletshoes, #mamagirl"
+  - username: "honoka_lol"
+    fullname: >-
+      honoka
+    bio: >-
+      honoka from Japanese Vocal & Dance Unit【lol】Twitter →@lol_honoka from Kyoto 1st 写真集『僾-ほのか-』7/28発売👇🏼💕
+    location: "Japan"
+    followers: 50432
+    engagement: 745
+    commentsToLikes: 0.012829
+    id: ck5zscw1ty9gz0i14eopdxb4f
+    verified: true
+    hashtags: "#halloweenmakeup"
+  - username: "buritei"
+    fullname: >-
+      buri_chan🦄🌈💕
+    bio: >-
+      22歳👱🏻‍♀️/1￼9歳👱🏻‍♀️/12歳👦🏽🏉3kidsmama Osaka⇔Kyoto お仕事の依頼はDMまで💌 身長160㌢
+    location: "Japan"
+    followers: 58808
+    engagement: 215
+    commentsToLikes: 0.034958
+    id: ck138y1viikwq0i19qtl7tnic
+    verified: false
+    hashtags: "#jg, #artesoie, #40, #shoesincloset"
   - username: "s.tocco"
     fullname: >-
       tocco golf
+    bio: >-
+      woodland🌳kyoto ゴルフとコーデが大好き⛳ @kansai_goljyo も宜しくお願いします✨ いつか自分が着たいゴルフウェアを作るのが夢🎠 age around50😝 half best:44/best score:94 オススメゴルフウェア載せてます❤️↓↓↓
     location: "Japan"
-    followers: 6085
-    engagement: 1483
-    commentsToLikes: 0.020870
+    followers: 8190
+    engagement: 1193
+    commentsToLikes: 0.019224
     id: ckaoux87927lz0i78oqr1rrn8
     verified: false
-    hashtags: "#vividgolf, #kyoto, #lecoqgolf"
-  - username: "rinsta_gram1002"
+    hashtags: "#golffashion, #golfstagram, #jackbunny, #golfwear"
+  - username: "geishakai"
     fullname: >-
-      Rintaro Oyaizu / 小柳津林太郎 バチェラー2
+      Geishakai
+    bio: >-
+      🐾 真莉どす♪ 👘GEISHAKAI.PL 💌 geishakagai@gmail.com 🌸🇵🇱/🇯🇵 🌸 🏡 Kyōto Gion Kōbu 京都 祇園甲部の金髪の子💕 🌙#祇園日記 ❌ NO REPOST
     location: "Japan"
-    followers: 73891
-    engagement: 325
-    commentsToLikes: 0.016170
-    id: ck6to52btc4z70j71oendh2pn
-    verified: true
-    hashtags: "#fukuoka, #hakata, #workation, #mamba"
-  - username: "akko1202akko"
-    fullname: >-
-      纐纈 敦子 （Atsuko Kohketsu）
-    location: "Japan"
-    followers: 37193
-    engagement: 128
-    commentsToLikes: 0.054513
-    id: ck5zzwp8vcjtd0i1468pddvwd
+    followers: 5556
+    engagement: 1349
+    commentsToLikes: 0.017281
+    id: ck0tyog2dnizb0i1999pxkpbh
     verified: false
-    hashtags: "#scarf, #louisvuitton, #oisix, #apuweiserriche"
-  - username: "yasuko751"
+    hashtags: ""
+  - username: "wawasewa"
     fullname: >-
-      康子
+      Sarah Hemi • セーラ not サラ
+    bio: >-
+      I write songs in my bedroom Maori + Japanese |📍Kyoto, Japan
     location: "Japan"
-    followers: 7099
-    engagement: 2310
-    commentsToLikes: 0.081302
-    id: ck9hax3o6ei9s0j780y7cjqr0
+    followers: 12460
+    engagement: 1099
+    commentsToLikes: 0.030472
+    id: ck55ombin8ncx0i11hmw9bcyl
     verified: false
-    hashtags: "#kyotostyle, #inspring, #special, #giapponizzati"
-  - username: "yoshihiko.f"
+    hashtags: "#sarahhemi, #japan, #lonely, #musicvideo"
+  - username: "_szh.bellleaf_"
     fullname: >-
-      よしひこ
+      Suzuha
+    bio: >-
+      嵯峨野→関西学院大学/法4🌙 (22) 『BLENDA Japan』レギュラーモデル 📍Kyoto 投稿更新率高めです
     location: "Japan"
-    followers: 32625
-    engagement: 648
-    commentsToLikes: 0.007446
-    id: ck0ua7e2pbnlh0i19ghkupk16
+    followers: 12674
+    engagement: 570
+    commentsToLikes: 0.031928
+    id: ckf5trp0eil3l0j231h8nuce8
     verified: false
-    hashtags: "#coregraphy"
+    hashtags: "#luna, #pr, #ootd, #emomiu"
+  - username: "eikino.__"
+    fullname: >-
+      hitomi☁︎ .｡•⁎
+    bio: >-
+      . 📍osaka/kyoto/japan . #愛おしい日々の足跡 ✖︎画像無断転載禁止 please dont use my pictures without permission . ☁︎⁎✶.｡•⁎ .｡•⁎
+    location: "Japan"
+    followers: 13415
+    engagement: 770
+    commentsToLikes: 0.016669
+    id: ck8tdtxmw4r8c0j78iny8ulon
+    verified: false
+    hashtags: "#ink361, #japan, #ig, #mycanon365"
 ---

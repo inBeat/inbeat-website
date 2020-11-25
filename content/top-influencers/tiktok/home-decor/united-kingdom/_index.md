@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top home decor TikTok influencers in United Kingdom in 2020. Most popular hashtags: #homedecor #brighterinside #houseplantclub #lockdownlife.
+  Find top home decor TikTok influencers in United Kingdom in 2020. Most popular hashtags: #homedecor #fyp #foryou #painting.
 platform: TikTok
+hits: 37
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 37 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "pintsizedbeauty"
+  - username: "forsaintclements"
     fullname: >-
-      pintsizedbeauty
+      FOR SAINT CLEMENTS
+    bio: >-
+      Home of satisfying resin pours✨ Shop our Etsy! All updates posted on our IG 🍊🤍
     location: "United Kingdom"
-    followers: 3805
-    engagement: 1742
-    commentsToLikes: 0.030932
-    id: ckahx0cv8t8sw0i78zp7oa7kz
+    followers: 54900
+    engagement: 1517
+    commentsToLikes: 0.018343
+    id: ckdsx07ncql3l0j23wuvt5y04
     verified: false
-    hashtags: "#ootd, #bread, #breadrecipes, #fort"
-  - username: "sharnshouse"
+    hashtags: "#smallbusinessuk, #christmasgiftideas, #giftideas, #fyp"
+  - username: "victoriagriffiths70"
     fullname: >-
-      Sharn Rayment
+      Victoria Griffiths-J
+    bio: >-
+      DIY enthusiast. Psychotherapist & writer from Essex, UK.
     location: "United Kingdom"
-    followers: 13186
-    engagement: 508
-    commentsToLikes: 0.023033
-    id: ckamq921rgeje0i787ams5ewt
+    followers: 7456
+    engagement: 800
+    commentsToLikes: 0.043229
+    id: ckbqgslbp279s0j23qf2hz9cq
     verified: false
-    hashtags: "#bedroomdecor, #facemorph, #simonscat, #earrings"
-  - username: "thewoodworks"
+    hashtags: "#diy, #quarantine, #momsoftiktok, #kidstiktok"
+  - username: "aj_painting"
     fullname: >-
-      The Wood Works
+      aj
+    bio: >-
+      Email: info@awspainting.com If you like my work, you can buy it here👇
     location: "United Kingdom"
-    followers: 4576
-    engagement: 448
-    commentsToLikes: 0.021188
-    id: ck8orda74bn7t0j78q104gtm4
+    followers: 65800
+    engagement: 1072
+    commentsToLikes: 0.021962
+    id: ckcowyfm39nm80j234l41iyu2
     verified: false
-    hashtags: "#luxuryhomes, #foryou, #pantry, #foryoupag"
-  - username: "photomum"
+    hashtags: "#tiktokart, #asosdaytofright, #painting, #homedecor"
+  - username: "kellyprincewright"
     fullname: >-
-      Photomum
+      Kelly Prince-Wright
+    bio: >-
+      kelly 💫 a little magic | home | travel links to outfits ⤵️
     location: "United Kingdom"
-    followers: 13090
-    engagement: 1901
-    commentsToLikes: 0.182686
-    id: ck8adbsf64ypv0j78ljyqg9h7
+    followers: 43700
+    engagement: 1706
+    commentsToLikes: 0.024840
+    id: ckcotyt5l8lb40j237ub9nf0g
     verified: false
-    hashtags: "#foryourself, #artiststudio, #homealone, #gamergirl"
-  - username: "tallys_art"
-    fullname: >-
-      TALLYS_ART
-    location: "United Kingdom"
-    followers: 3014
-    engagement: 1409
-    commentsToLikes: 0.099691
-    id: ckamyjbpwhup20i78m82iqvwf
-    verified: false
-    hashtags: "#taylorswift, #cats, #chicken, #tiktokartist"
-  - username: "yummy_mummy85"
-    fullname: >-
-      Oғғᴵᴄᴵᴬᴸ mummysquad
-    location: "United Kingdom"
-    followers: 11668
-    engagement: 1456
-    commentsToLikes: 0.061818
-    id: ck8ortoqrds5q0j788crpxfgj
-    verified: false
-    hashtags: "#parentchallenge, #savelives, #london, #bitemechallenge"
+    hashtags: "#homedecor, #wizardingworld, #autumn, #halloween"
   - username: "artistjessicasixsmith"
     fullname: >-
       Jessica Sixsmith Art
+    bio: >-
+      ✨Acrylic Artist from Manchester ✨ Shop Art / View My Christmas Plans ⬇️
     location: "United Kingdom"
-    followers: 45456
-    engagement: 1495
-    commentsToLikes: 0.049311
+    followers: 126000
+    engagement: 1328
+    commentsToLikes: 0.019403
     id: ck8adbysv501f0j78x9880fsb
     verified: false
-    hashtags: "#printing, #artprints, #saltflats, #breathewithme"
-  - username: "theblondeflamingo"
+    hashtags: "#foryou, #artistsoftiktok, #homedecor, #millennial"
+  - username: "moonlightdonkey"
     fullname: >-
-      theblondeflamingo
+      moonlightdonkey
+    bio: >-
+      ⬇️ Win a 1 of 1 porsche GT4 for £20!! ⬇️
     location: "United Kingdom"
-    followers: 192367
-    engagement: 912
-    commentsToLikes: 0.025671
-    id: ck80oeuekhe250j78snu7l74p
+    followers: 13700
+    engagement: 924
+    commentsToLikes: 0.019250
+    id: ckcpj8dd5i6li0j23ymqzfip8
     verified: false
-    hashtags: "#shootinhome, #selfisolate, #valentines, #desertlife"
-  - username: "buttonandblue"
+    hashtags: "#italian, #fiat126p, #cars, #gt4"
+  - username: "happybohohome"
     fullname: >-
-      Amy Louise Philip
+      Charlotte | Happy Boho Home☀️
+    bio: >-
+      Positivity from my bright yellow townhouse☀️ Insta - @happybohemianhome
     location: "United Kingdom"
-    followers: 5660
-    engagement: 751
-    commentsToLikes: 0.041910
-    id: ck9nczzdzcdw30j78iwcqa37j
+    followers: 30800
+    engagement: 1288
+    commentsToLikes: 0.021655
+    id: ckbw6wd3dymoq0j23fenjc219
     verified: false
-    hashtags: "#mumvibe, #foryourpage, #workfromhome, #jeanshack"
-  - username: "maxine_kendall89"
+    hashtags: "#roommakeover, #beforeandafter, #color, #happy"
+  - username: "wearefamalishop"
     fullname: >-
-      Maxine Kendall
+      WeAreFamali ✨
+    bio: >-
+      Personalised Bespoke Frames (based in London & ship internationally) ✨
     location: "United Kingdom"
-    followers: 2142
-    engagement: 507
-    commentsToLikes: 0.055180
-    id: cka6179evu6s20i787kicpp5d
+    followers: 136100
+    engagement: 790
+    commentsToLikes: 0.018757
+    id: ckbqjr6fw4yea0j23yjmvhxwx
     verified: false
-    hashtags: "#covidmademedoit, #sepsis, #lovingit, #homedecor"
+    hashtags: "#frame, #giftsforher, #packaging, #love"
+  - username: "paint_warrior"
+    fullname: >-
+      KJE painters
+    bio: >-
+      Another day on the brush add Instagram 👆🏽 @k.j.e.painters
+    location: "United Kingdom"
+    followers: 47800
+    engagement: 285
+    commentsToLikes: 0.030835
+    id: ck81q7qbfgm2m0j78x11s8ycz
+    verified: false
+    hashtags: "#homedecor, #xcyzba, #foryoupage, #painting"
+  - username: "homebyharry"
+    fullname: >-
+      Harry Hughes
+    bio: >-
+      Insta - @homebyharry
+    location: "United Kingdom"
+    followers: 8346
+    engagement: 600
+    commentsToLikes: 0.009509
+    id: ckb9hdlo26zi90j23rrgj9kb1
+    verified: false
+    hashtags: "#homedecor, #stayathome, #cleaning, #interiordecor"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #cinema #amorpropio #photooftheday #stayhome.
+  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #cine #photography.
 platform: Instagram
+hits: 31
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 31 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "filmbydave"
+  - username: "clara_segura_actriu"
     fullname: >-
-      fDave
+      Clara Segura
+    bio: >-
+      Actriu de cinema, teatre i televisió. #Cobertura a partir del 30/01 al @teatreromea 👇
     location: "Colombia"
-    followers: 6722
-    engagement: 703
-    commentsToLikes: 0.040035
-    id: ck6uh24dy6jp20j71mtx99cwo
+    followers: 11112
+    engagement: 1236
+    commentsToLikes: 0.029683
+    id: ck6tp1hmahb230j71uh0rslbi
     verified: false
-    hashtags: ""
-  - username: "juanesramirezg"
+    hashtags: "#coberturacomedia, #yomecorono, #santjustfever, #cobertura"
+  - username: "brayanyalejandro"
     fullname: >-
-      Juanes Ramirez ⚡️
+      Alejandro Sánchez (Lejo)
+    bio: >-
+      Artist / Film / Creative Direction / Designer #HistoriasSalvajes • #BrayanyAlejandro
     location: "Colombia"
-    followers: 20357
-    engagement: 932
-    commentsToLikes: 0.097197
-    id: ck5zko3hcju3t0i14le13xjxj
+    followers: 2847
+    engagement: 1025
+    commentsToLikes: 0.037727
+    id: ck13aawduphq20i1943st8aht
     verified: false
-    hashtags: "#ricardomilos, #bucaramanga, #colegios, #freedymercury"
-  - username: "by_andresaraujo"
+    hashtags: "#inspo, #brayanyalejandro, #art, #film"
+  - username: "elclubcinema"
     fullname: >-
-      Andres Araujo | Filmmaker
+      Club Cinema
+    bio: >-
+      ¡Bienvenidos al Club! 🎬 Cine y más cine ♦️YT: Películas de TERROR BASADAS en HECHOS REALES 😱
     location: "Colombia"
-    followers: 6976
-    engagement: 639
-    commentsToLikes: 0.034527
-    id: ck15t7p51gqh10i19snmny1h8
+    followers: 75506
+    engagement: 216
+    commentsToLikes: 0.014005
+    id: ckaowjk6x97gt0i78nd36t6kh
     verified: false
-    hashtags: "#plitvice, #serbiatourism, #belgrado, #visitbelgrade"
-  - username: "stevensalme"
+    hashtags: "#clubcinema, #peliculas, #terror, #cinefilos"
+  - username: "gomezart3d"
     fullname: >-
-      Steven Salme
+      ALEX GOMEZ 3D ARTIST
+    bio: >-
+      Welcome to my mind's world my creatures are made of caffeine 100% pure Colombian It's all about the journey!!!
     location: "Colombia"
-    followers: 66161
-    engagement: 232
-    commentsToLikes: 0.090394
-    id: ck6tvbmo0lark0j71e4tw3lsr
+    followers: 5567
+    engagement: 1000
+    commentsToLikes: 0.021900
+    id: ck9hcxlmbndu30j78z5pm466o
     verified: false
-    hashtags: "#vallenato, #amanecer, #bogota, #mateo"
-  - username: "elguamavlogs"
+    hashtags: "#maya, #zbrushtuts, #zbrush2020, #awesome"
+  - username: "la.negra.93"
     fullname: >-
-      ELGUAMA
+      Angela Cano
+    bio: >-
+      Actriz 🌙 Manager @mclmanager
     location: "Colombia"
-    followers: 14685
-    engagement: 1416
-    commentsToLikes: 0.102733
-    id: ck9h9yzyiaj3a0j785ls8qtyo
+    followers: 19128
+    engagement: 724
+    commentsToLikes: 0.032802
+    id: ck0w39koes9p70i197ny61rkv
     verified: false
-    hashtags: "#parchis, #canon, #mama, #todasmienten"
-  - username: "dianawiswell"
+    hashtags: "#angelicaliddell, #medellin, #cine, #loveislove"
+  - username: "tavodirector"
     fullname: >-
-      Diana Wiswell Cajigas
+      Gustavo Gallego
+    bio: >-
+      🎬💡 Director Audiovisual
     location: "Colombia"
-    followers: 91382
-    engagement: 313
-    commentsToLikes: 0.010353
-    id: ck5hozo4zqift0i110h2e53tm
-    verified: true
-    hashtags: "#estreno, #medell, #barranquilla, #claudia"
+    followers: 23616
+    engagement: 129
+    commentsToLikes: 0.188837
+    id: ck6uapcjj4vb70j71qdnqvl5j
+    verified: false
+    hashtags: "#videoclip, #aputure, #medellin, #photography"
+  - username: "mondodilaura"
+    fullname: >-
+      Laura Torres
+    bio: >-
+      Lucia, chamaca, mocosa unos años más grande! Actriz y fotógrafa🎬🎥 puntofocal.net Entra a mi canal de youtube!
+    location: "Colombia"
+    followers: 112823
+    engagement: 370
+    commentsToLikes: 0.011965
+    id: ck6txvfye02z60j71w5yrffxh
+    verified: false
+    hashtags: "#nycphotography, #photography, #blueangles, #selfportrait"
+  - username: "luis7lunes"
+    fullname: >-
+      Luis7Lunes
+    bio: >-
+      Pre-Save del próximo Single MAAT Bless 👇🏼👇🏼👇🏼
+    location: "Colombia"
+    followers: 13466
+    engagement: 771
+    commentsToLikes: 0.011163
+    id: ck6tremwyyjgd0j71l0tt38w0
+    verified: false
+    hashtags: "#viernes20denoviembre, #cinemamarginal, #hiphopenlacasa2, #soberano"
   - username: "dani.labelle"
     fullname: >-
       𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
+    bio: >-
+      𝓦𝓱𝓲𝓽𝓮 𝓵𝓲𝓰𝓱𝓽 𝓯𝓻𝓸𝓶 𝓪𝓷𝓸𝓽𝓱𝓮𝓻 𝓰𝓪𝓵𝓪𝔁𝔂 ✨ 𝚃𝚁𝙰𝙽𝚂𝙼𝚄𝚃𝙰𝙽𝙳𝙾 𝙼𝚒𝚜𝚜𝚒𝚘𝚗: 𝚏𝚛𝚎𝚎𝚍𝚘𝚖, 𝚙𝚕𝚊𝚗𝚎𝚝 𝚎𝚊𝚛𝚝𝚑.🌎
     location: "Colombia"
     followers: 12335
     engagement: 549
     commentsToLikes: 0.047535
     id: ck5c5ieb13iyz0i11g7jc49ac
     verified: false
-    hashtags: "#yellow, #reality, #model, #cigarette"
-  - username: "alejandrosanchezlejo"
+    hashtags: "#cityportrait, #labelleinspira, #tattoos, #photocinematic"
+  - username: "oyejhonky"
     fullname: >-
-      Brayan&Alejandro (Lejo)
+      Jhon Narváez
+    bio: >-
+      Agitador cultural. Creador de @capitancartagenaerestu Productor de @tornadocartagena Moisés en @pajarosdeverano
     location: "Colombia"
-    followers: 2537
-    engagement: 1091
-    commentsToLikes: 0.051120
-    id: ck13aawduphq20i1943st8aht
-    verified: false
-    hashtags: "#friends, #saturdaysnyc, #directors, #happy"
-  - username: "ojojhonky"
-    fullname: >-
-      Jhon Narváez
-    location: "Colombia"
-    followers: 2968
-    engagement: 696
-    commentsToLikes: 0.057556
+    followers: 3116
+    engagement: 635
+    commentsToLikes: 0.067900
     id: ck5c2745bwo640i11tsg1w0g7
     verified: false
-    hashtags: "#diasinmoto, #actitud, #abril, #meninuniform"
-  - username: "jesusbarrios12"
-    fullname: >-
-      Jesús Barrios
-    location: "Colombia"
-    followers: 12809
-    engagement: 448
-    commentsToLikes: 0.038671
-    id: ck5zvrfhz4sbg0i14zg3iflq8
-    verified: false
-    hashtags: "#gentleman, #maniqui, #luna, #modelworkshop"
+    hashtags: "#cuarentenaeterna, #relatosregionales, #independencia, #actorportrait"
 ---

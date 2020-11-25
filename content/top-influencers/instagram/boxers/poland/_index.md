@@ -1,107 +1,118 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Poland In 2020
 description: >-
-  Find top boxers Instagram influencers in Poland in 2020. Most popular hashtags: #friends #braids #redlips #cigarette.
+  Find top boxers Instagram influencers in Poland in 2020. Most popular hashtags: #boxerdog #dogstagram #boxerworld.
 platform: Instagram
+hits: 9
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "igorjakubowski_bb"
-    fullname: >-
-      Igor Jakubowski
-    location: "Poland"
-    followers: 90970
-    engagement: 322
-    commentsToLikes: 0.014455
-    id: ck5bw4k6pkzn80i11c51v5t3i
-    verified: true
-    hashtags: "#zosta, #coronavirus, #styl, #chill"
   - username: "maciej.sulecki"
     fullname: >-
-      Maciej Sulęcki
+      Maciej Sulęcki
+    bio: >-
+      Professional Polish boxer 👊 Boxing trainer, dumny tata małej Melanii, przyszły Mistrz Świata 🏆 Współpraca: kontakt@zeroszesc.pl
     location: "Poland"
-    followers: 21923
-    engagement: 281
-    commentsToLikes: 0.020982
+    followers: 22492
+    engagement: 310
+    commentsToLikes: 0.027372
     id: ck55j4rt6w9kc0i11zk2cjdmy
     verified: false
-    hashtags: "#koronawirus, #familytime, #kinderparty, #ramen"
+    hashtags: "#familytime, #kinderparty, #coreczkatatusia"
   - username: "artur_szpilka"
     fullname: >-
       Artur Szpilka
+    bio: >-
+      Professional Heavyweight boxer 🇵🇱📌🐗 Manager Katarzyna Stachura ☎️ +48 609 192 195 📩manager@arturszpilka.com
     location: "Poland"
-    followers: 202824
-    engagement: 354
-    commentsToLikes: 0.027857
+    followers: 211562
+    engagement: 255
+    commentsToLikes: 0.021189
     id: ck0vvst0kqlsc0i1972zgwxym
     verified: false
-    hashtags: "#hophopchallenge, #kacpiborutapomocyszuka"
-  - username: "klaudiibull"
+    hashtags: "#prawohandlowe, #prawogospodarcze, #prawopracy, #poste"
+  - username: "dimek.js"
     fullname: >-
-      Klaudia Pawicka
+      Wojciech | Web Developer
+    bio: >-
+      🌐 #BuildUpDevs 💻 #WebDeveloper 🕸️ #cybersecurity 🇵🇱 Poland ☕ Coffee Passionate 🐺 Dog Owner ⚔️ Norse 🎮 Gamer 🥊#boxer wannabe 👇My articles👇
     location: "Poland"
-    followers: 7112
-    engagement: 1231
-    commentsToLikes: 0.019051
-    id: ck5c3c903z0or0i11t7x8bfw8
+    followers: 9408
+    engagement: 567
+    commentsToLikes: 0.066077
+    id: ckap6i1cufxac0i78gqc3xsws
     verified: false
-    hashtags: "#psychopath, #back, #boxing, #baseballcap"
-  - username: "pastuszki"
-    fullname: >-
-      Cyga, Sparta & Kroshka
-    location: "Poland"
-    followers: 2161
-    engagement: 2498
-    commentsToLikes: 0.126265
-    id: ckaov6d4z392b0i78e648bazz
-    verified: false
-    hashtags: "#boxerdog, #catofinstagram, #psiafotografia, #weissersch"
+    hashtags: "#softwareengineer, #scss, #worldcode, #github"
   - username: "bobaandpiotr"
     fullname: >-
       Boba&Piotr
+    bio: >-
+      Adventures of Boba & Piotr ☀️🍕🥋🤼‍♀️🏖 🐾+👣=❤️❤️❤️ •••••• FB: boba&piotr #ilovemyboxer #brolove
     location: "Poland"
-    followers: 3256
-    engagement: 3031
-    commentsToLikes: 0.029378
+    followers: 3427
+    engagement: 1831
+    commentsToLikes: 0.028202
     id: ck8t6vbohetcm0j78acow434b
     verified: false
-    hashtags: "#brolove, #boxeraddicts, #boxerig, #cuteboxers"
-  - username: "nnaklicka_makeup"
+    hashtags: "#sleepingboxers, #mansbestfriend, #ilovedogs, #boxernation"
+  - username: "beata_walczynska"
     fullname: >-
-      𝒩𝒶𝓉𝒶𝓁𝒾𝒶
+      
+    bio: >-
+      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
     location: "Poland"
-    followers: 6817
-    engagement: 2318
-    commentsToLikes: 0.136916
-    id: ck8tbf9fmvf9n0j7816b172dq
+    followers: 11226
+    engagement: 1673
+    commentsToLikes: 0.066285
+    id: ck13azgmrsy100i19khq0qwde
     verified: false
-    hashtags: "#glow, #smokyeyes, #neongreen, #bohoglam"
-  - username: "paulina_pastuszak"
+    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
+  - username: "_marcinprokop_"
     fullname: >-
-      Paulina Pastuszak
+      Marcin Prokop
+    bio: >-
+      TVN
     location: "Poland"
-    followers: 33088
-    engagement: 260
-    commentsToLikes: 0.080896
-    id: ck5zphqu4sowx0i14019zsphi
+    followers: 575807
+    engagement: 209
+    commentsToLikes: 0.011896
+    id: ck5bw5ltml1gq0i11vpf6ymr4
     verified: false
-    hashtags: "#hybrydy, #rabat, #wolnyweekend, #biznes"
-  - username: "ashimonster"
+    hashtags: "#in, #empik, #sun, #my"
+  - username: "pastuszki"
     fullname: >-
-      𝕬𝖘𝖍𝖎 𝕸𝖔𝖓𝖘𝖙𝖊𝖗
+      Cyga, Sparta, Kroshka & Goose
+    bio: >-
+      Just three dogs living together but one of them is a Russian spy.
     location: "Poland"
-    followers: 7290
-    engagement: 546
-    commentsToLikes: 0.014534
-    id: ck0u0at41t4060i194onjtnd3
+    followers: 2747
+    engagement: 2083
+    commentsToLikes: 0.092980
+    id: ckaov6d4z392b0i78e648bazz
     verified: false
-    hashtags: "#redheadgirls, #inkedwomen, #lightandshadows, #bwportrait"
-  - username: "adam_kornacki"
+    hashtags: "#bestdog, #fluffykitten, #livelifeoffleash, #bestmeow10k"
+  - username: "ewa_dudala"
     fullname: >-
-      Adam Kornacki
+      Ewa Dudała
+    bio: >-
+      • ewa.dudalaa@gmail.com 📩 colab • model/commercial actress 💁🏻‍♀️ • sport addicted 💪🏼🥊🚴🏻‍♀️/ vege power 🌿 •👇🏼portfolio/commercials
     location: "Poland"
-    followers: 68651
-    engagement: 369
-    commentsToLikes: 0.022900
-    id: ck5qcuv7psfs10i117whpow84
+    followers: 11348
+    engagement: 550
+    commentsToLikes: 0.042060
+    id: ckaouwaf0236z0i78qlkdppoa
     verified: false
-    hashtags: "#heavymetal, #muzyka, #vwgarbus, #musician"
+    hashtags: "#fixiegirl, #streetstyle, #cyclingshots, #cyclingstories"
+  - username: "martapalucka"
+    fullname: >-
+      Miss World Poland 2015
+    bio: >-
+      Sharing with you my life full of horses, travels and adventures ✌️ Former #beautyqueen 👑 & #model 📍#Sopot, Poland
+    location: "Poland"
+    followers: 20067
+    engagement: 321
+    commentsToLikes: 0.024092
+    id: ck135hutw1i4f0i19b0u2q5yz
+    verified: false
+    hashtags: "#equestrian, #autumn, #je, #autumnvibes"
 ---

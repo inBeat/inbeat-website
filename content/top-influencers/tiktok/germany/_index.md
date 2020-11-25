@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In Germany In 2020
 description: >-
-  Find top TikTok influencers in Germany in 2020. Most popular hashtags: #friends #streamingyoga #lisaundlena #mamaistboss.
+  Find top TikTok influencers in Germany in 2020. Most popular hashtags: #foryou #fyp #foryoupage.
 platform: TikTok
+hits: 5136
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 5136 TikTok influencers like this in Germany for you to pitch.
 profiles:
-  - username: "alexa.herbst"
+  - username: "marina.sig"
     fullname: >-
-      ✨ Alexandra Herbst ✨
+      Marina
+    bio: >-
+      CEO OF STERNZEICHEN😎 Täglich neue TikToks💪🏽 Ich bin Wassermann ♒️
     location: "Germany"
-    followers: 65635
-    engagement: 2898
-    commentsToLikes: 0.065788
-    id: ck9vcmjksr97h0j78imt8264l
+    followers: 626200
+    engagement: 2575
+    commentsToLikes: 0.039898
+    id: ck8qi578g7sr30j78ugtlnn5m
     verified: false
-    hashtags: "#staffel5, #acting, #spreadlove, #emiliosakraya"
-  - username: "e.l.u.c.e.y"
+    hashtags: "#hubbabubba, #single, #sternzeichen, #humor"
+  - username: "skill.any"
     fullname: >-
-      Lucy🌸🍃
+      Kevin🤍
+    bio: >-
+      ❤️Folgt auf Insta für Kontakt 🦅Insta: skill_too 🤝Collab: kholas04@gmail.com
     location: "Germany"
-    followers: 2042125
-    engagement: 2611
-    commentsToLikes: 0.014663
-    id: ck7zofshyjnaf0j78tg4zsj5y
-    verified: true
-    hashtags: "#pyjamapants, #ohyeah, #happymothersday, #avamax"
-  - username: "enistelaa"
-    fullname: >-
-      @ enis telaa
-    location: "Germany"
-    followers: 15573
-    engagement: 2511
-    commentsToLikes: 0.078413
-    id: ck9m52xh9ktd90j78toprnze8
+    followers: 516900
+    engagement: 2356
+    commentsToLikes: 0.023235
+    id: ckbljp5xqcokt0j23nfnml217
     verified: false
-    hashtags: "#foryouppage, #foryourpage, #fypage, #enistelaa"
-  - username: "elvislamo"
+    hashtags: "#fy, #foryou, #foryoupage, #nutellabrot"
+  - username: "adrian.double.u"
     fullname: >-
-      Elvis 🏳️‍🌈
+      Adrian.double.u
+    bio: >-
+      📧adoubleu.de@gmail.com Grafiker/Illustrator 🤓✌🏼 ⬇️zu meinen Shop&Bilder⬇️
     location: "Germany"
-    followers: 222316
-    engagement: 2330
-    commentsToLikes: 0.026481
-    id: ck92z0o2556sa0j782f2yf6t7
+    followers: 385200
+    engagement: 2311
+    commentsToLikes: 0.084984
+    id: cka65knq8dfpb0i78lt70cbqp
     verified: false
-    hashtags: "#catwalk, #hate, #proteinfood, #netflix"
-  - username: "tom.wrn"
+    hashtags: "#boxing, #cartoon, #halloween, #zeichnen"
+  - username: "miti.gymnastics"
     fullname: >-
-      Tom Werner
+      𝕄𝕚𝕥𝕚
+    bio: >-
+      Mia 15y/o gymnastics @miti.gymnastix (insta)
     location: "Germany"
-    followers: 89457
-    engagement: 2328
-    commentsToLikes: 0.049543
-    id: ck9pmpxrraqxz0j78gy56ycqw
+    followers: 3186
+    engagement: 4676
+    commentsToLikes: 0.140649
+    id: ckbb6voxswx780j230d768hvs
     verified: false
-    hashtags: "#autsch, #whydididothis, #backfulls, #doublebackflip"
-  - username: "kirafin_"
+    hashtags: "#duett, #coupleontourreaktion"
+  - username: "jaaeel3026"
     fullname: >-
-      K I R Λ F I N
+      💜dieNiaaa💜
+    bio: >-
+      💝vertraue nicht jedem🥰 UND immer noch vergeben, egal wer fragt
     location: "Germany"
-    followers: 339966
-    engagement: 2304
-    commentsToLikes: 0.034346
-    id: ck8tqcqzwqr450j78boki1q3v
-    verified: true
-    hashtags: "#redbull, #game, #autos, #jamootv"
-  - username: "c4ner"
-    fullname: >-
-      Caner
-    location: "Germany"
-    followers: 525388
-    engagement: 2252
-    commentsToLikes: 0.041606
-    id: ck8ttzxq0s97t0j78mvjnfvbt
+    followers: 3419
+    engagement: 4604
+    commentsToLikes: 0.431308
+    id: ckc302ghkqtox0j234zmn1qcd
     verified: false
-    hashtags: "#streamingyoga"
+    hashtags: "#tiktokdeutschland, #everybodymakesmistakes, #lovethis, #redbulldanceyourstyle"
+  - username: "favourite_horse"
+    fullname: >-
+      Sophie💗
+    bio: >-
+      Thx für 12,4K🥺💗
+    location: "Germany"
+    followers: 12400
+    engagement: 4311
+    commentsToLikes: 0.129830
+    id: ckcvgi08kswaz0j23hbx6zado
+    verified: false
+    hashtags: "#ponyliebeeee, #fyp, #favourite, #foryoupage"
+  - username: "thataussiebenji"
+    fullname: >-
+      ZOOMA🥺💓
+    bio: >-
+      #LENJI🥺💓 💚💚I miss you mommas💚💚 🥺7 months old Aussie🥺
+    location: "Germany"
+    followers: 5265
+    engagement: 3846
+    commentsToLikes: 0.178735
+    id: ckcvispuaw00q0j23aqasmd28
+    verified: false
+    hashtags: "#duet, #lenji"
   - username: "junuu12"
     fullname: >-
       junu
+    bio: >-
+      ❤❤❤🇳🇵🇳🇵🇳🇵🇩🇪🇩🇪🇩🇪🙏🙏🙏🙏
     location: "Germany"
-    followers: 3806
-    engagement: 3535
-    commentsToLikes: 0.231925
+    followers: 3869
+    engagement: 3633
+    commentsToLikes: 0.172860
     id: ck9kd9okzta9c0j78lo0jk55v
     verified: false
-    hashtags: "#kuchkuchhotahai, #notsoperfect, #myculture, #walkinginnature"
-  - username: "_nilay_2245_"
+    hashtags: "#hairholiday, #germany, #tiktokdance, #jrstha"
+  - username: ".lqvlymills"
     fullname: >-
-      𝒩𝒾𝓁𝒶𝓎✨
+      😼😼😼😼😼😼😼
+    bio: >-
+      3k😺💖 NO CODES🥺💖 Love you all🐳💜 I was _svt.edits_ 2 fp💖
     location: "Germany"
-    followers: 3502
-    engagement: 3454
-    commentsToLikes: 0.198993
-    id: ckad9gqkfdi7u0i78c53q1ep9
+    followers: 3096
+    engagement: 3532
+    commentsToLikes: 0.102990
+    id: ckd6z2k2hxpfr0j23wu814gp2
     verified: false
-    hashtags: "#idol, #schule, #asmr, #coronaferien"
-  - username: "annikaschmir"
+    hashtags: "#kakashi, #edit, #mills, #anime"
+  - username: "flamingoprincess"
     fullname: >-
-      annikaaaa
+      flamingolove
+    bio: >-
+      ❤️Glücklichvergeben❤️@roman.17.09#dancemonkeys🐒#teamjustfriends #teamlebensfroh
     location: "Germany"
-    followers: 131161
-    engagement: 3408
-    commentsToLikes: 0.074578
-    id: ck8s5iftpfywd0j78bivsurlt
+    followers: 3354
+    engagement: 3405
+    commentsToLikes: 0.305747
+    id: ckan306vg2xtn0i78zos0icse
     verified: false
-    hashtags: "#girl, #immerwennwirunssehen, #cologne, #badchick"
+    hashtags: "#dancemonkeys, #hel, #teamjustfriends, #teamlebensfroh"
 cities:
   - name: Berlin
     link: /tiktok/germany/berlin

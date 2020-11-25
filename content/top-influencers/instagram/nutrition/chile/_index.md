@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Chile In 2020
 description: >-
-  Find top nutrition Instagram influencers in Chile in 2020. Most popular hashtags: #nutrition #cuarentena #healthyfood #frambuesas.
+  Find top nutrition Instagram influencers in Chile in 2020. Most popular hashtags: #chile #saludable #healthyfood.
 platform: Instagram
+hits: 33
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 33 Instagram influencers like this in Chile for you to collaborate.
 profiles:
+  - username: "vickybmolina"
+    fullname: >-
+      Vicky Betancourt
+    bio: >-
+      Venezolana Odontólogo Nutrition Science student 🌱 Curicó-Chile📍
+    location: "Chile"
+    followers: 57618
+    engagement: 200
+    commentsToLikes: 0.021467
+    id: ck8t0p6ssss510j784cx948fi
+    verified: false
+    hashtags: ""
   - username: "camichamy"
     fullname: >-
       Cami Chamy - HEALTH COACH 💕
+    bio: >-
+      •Cocina SALUDABLE ❤ •Instructora de Mindfuleating🧘🏻‍♀️🍓 •Personal trainer&Specialist Sports nutrition •Actriz •Coaching Online,Talleres y Charlas
     location: "Chile"
     followers: 33766
     engagement: 355
     commentsToLikes: 0.044273
     id: ck5ccq2x8hszd0i118g1yr5qg
     verified: false
-    hashtags: "#wellness, #salud, #peanutbutter, #manjaratesaludable"
+    hashtags: "#saludable, #nutritivo, #snacksaludable, #bycamichamy"
   - username: "marialagunafitness"
     fullname: >-
       Maria Laguna Fitness
+    bio: >-
+      ENTRENAMIENTOS GRATIS LUN A VIE 10:30 Fitness & Nutrition Coach Autora Fit a los 40 Mama 🦸🏽‍♀️ Creadora PROGRAMA MLF DESAFIOJUNIO👇🏼
     location: "Chile"
     followers: 79977
     engagement: 154
     commentsToLikes: 0.103333
     id: ck5zjfrlehidm0i14o15gj44f
     verified: false
-    hashtags: "#mimejorpartnerever, #fitness, #tabataworkout, #brownielovers"
-  - username: "pipe.maturanainfante.cf"
+    hashtags: "#fit, #equilibrio, #desafiomayo, #vidasana"
+  - username: "ignacio_casale"
     fullname: >-
-      Felipe Maturana Infante 🔹
+      Ignacio Casale
+    bio: >-
+      - Professional rally racer 🚘 🏍 - Red bull athlete - 3 time Dakar Rally Champ 💥🍾🎉 - @casale_motors
     location: "Chile"
-    followers: 18915
-    engagement: 417
-    commentsToLikes: 0.020694
-    id: ck5c4dn4q14pa0i11wv2jec4s
-    verified: false
-    hashtags: "#flow, #galaxys20, #summer, #zigkinetica"
-  - username: "memo_andres28"
+    followers: 111402
+    engagement: 314
+    commentsToLikes: 0.013940
+    id: ck5ho91cvp5jt0i1181ra6lwf
+    verified: true
+    hashtags: "#lubrax, #nutrici, #dakar2021, #mifo"
+  - username: "leslie.fredes"
     fullname: >-
-      𝗠𝗲𝗺𝗼 𝗔𝗻𝗱𝗿𝗲𝘀 
+      𝑳𝒆𝒔𝒍𝒊𝒆 𝑭𝒓𝒆𝒅𝒆𝒔 ❀
+    bio: >-
+      ➵ Stgo, Chile 🇨🇱 Ser genuinos es el camino para encontrar nuestra felicidad ♥️✨
     location: "Chile"
-    followers: 25422
-    engagement: 351
-    commentsToLikes: 0.011475
-    id: ck8tbl5d0w2s60j78te3pfkjk
-    verified: false
-    hashtags: "#fitlife, #foodblogger, #bestfriend, #gayspain"
-  - username: "nicolas.amigo"
-    fullname: >-
-      Nicolas Amigo Saavedra
-    location: "Chile"
-    followers: 32952
+    followers: 164352
     engagement: 261
-    commentsToLikes: 0.029734
-    id: ck5q12p5w8zc60i11n41ut1xh
+    commentsToLikes: 0.029301
+    id: ck15ucqhwmimn0i19jmkfeel1
     verified: false
-    hashtags: "#fuerzachile, #sport, #happymothersday, #happybirthday"
-  - username: "nutralicioso"
+    hashtags: "#loveyourself, #saludable, #look, #happymoments"
+  - username: "primos_grimalt"
     fullname: >-
-      Nutralicioso.com 🍓🍃🍎
+      Primos Grimalt
+    bio: >-
+      🇨🇱 WT🥇🥇🥇🥈🥈 JJOO Río 2016 JJPP🥇 JJSS 🥈🥉🥉 JJBB🥇🥇🥈 CT🥇X18 @colocolooficial @herbalifenutritioncl @oakley_chile @gatoradechile @clinicameds
     location: "Chile"
-    followers: 34307
-    engagement: 193
-    commentsToLikes: 0.099172
-    id: ck8t0p330srr50j78ek6ofq87
+    followers: 46842
+    engagement: 251
+    commentsToLikes: 0.013963
+    id: ck5pwlrwinfa40i11tklcsojk
     verified: false
-    hashtags: "#comidasana, #nutella, #garbanzos, #nutrici"
-  - username: "kristelkobrich"
+    hashtags: "#chile, #beachvolley, #fortheloveofsport, #lunes"
+  - username: "fitnesscornerperu"
     fullname: >-
-      Kristel Köbrich 🕉
+      The Fitness Corner
+    bio: >-
+      FITNESS FOR DUMMIES 🏳️‍🌈Proud Athlete: Team @reebokperu 💪🏽 Team @fbroperu 👊🏻Asesoría online solo para gente brava. #focusmierdafocus
     location: "Chile"
-    followers: 8760
-    engagement: 1204
-    commentsToLikes: 0.036430
-    id: ck5bx8sttn8av0i11bxo3fz6s
+    followers: 19992
+    engagement: 289
+    commentsToLikes: 0.098834
+    id: ck6uc7yn7e0pp0j71h14sww31
     verified: false
-    hashtags: "#huevitos, #felicespascuas, #chocolate, #ultraboost"
+    hashtags: "#cuarentena, #recetasfaciles, #vidafitness, #easyrecipes"
   - username: "barbarehlla_h"
     fullname: >-
       Bárbara Hernández H.
+    bio: >-
+      Psicóloga Mg #UChile #SirenaDelHielo #iceswimmer #Oceans7❄️🧜🏼‍♀️❤️ First Chilean #TripleCrown 👑👑👑🌊🏊‍♀️🇨🇱 #CatalinaChannel #EnglishChannel #Manhattan
     location: "Chile"
-    followers: 24044
-    engagement: 575
-    commentsToLikes: 0.050305
+    followers: 27900
+    engagement: 703
+    commentsToLikes: 0.056461
     id: ck5hs0mu7vsk60i11p9wvu213
     verified: false
-    hashtags: "#miguelpurcell, #constructivismo, #iloveswimming, #todosjuntos"
-  - username: "macarenareyesm"
+    hashtags: "#icemermaid, #ice, #patagoniachilena, #sirenadelhielo"
+  - username: "rosario_balma"
     fullname: >-
-      MACARENA REYES
+      Rosario Balmaceda 🚀
+    bio: >-
+      💠 Estudiante de nutrición📚🤓 💠 Jugadora de @santiagomorningfem ⚽💪 💠 Seleccionada chilena 🇨🇱 @laroja
     location: "Chile"
-    followers: 6270
-    engagement: 667
-    commentsToLikes: 0.041508
-    id: ck5znm4h1oqb10i14xnkrh538
+    followers: 11436
+    engagement: 888
+    commentsToLikes: 0.009500
+    id: ck5qb44ewjptp0i1142abfxbm
     verified: false
-    hashtags: "#temporada202, #tokyo2020, #sudaindoor, #heroesdelcambio"
-  - username: "camila_jaque1"
+    hashtags: "#playinside, #playfortheworld, #youcantstopus, #aburrida"
+  - username: "mjosefaj_"
     fullname: >-
-      Camila Jaque
+      Mαrία joѕeғα Jiménez
+    bio: >-
+      ☆ Be happy, it drives people crazy ☆ • • 🍉Nutricionista UC en formación @ohmnatural @ohmnatural_reposteria
     location: "Chile"
-    followers: 373418
-    engagement: 228
-    commentsToLikes: 0.009562
-    id: ck6ti8bq308ef0j7155p25oh4
+    followers: 5563
+    engagement: 1045
+    commentsToLikes: 0.032988
+    id: ckf5lpurbqitj0j238uhy8tix
     verified: false
-    hashtags: "#bodypossitive, #mesientobien, #quarantine, #actitudlibre"
+    hashtags: "#6months"
 ---

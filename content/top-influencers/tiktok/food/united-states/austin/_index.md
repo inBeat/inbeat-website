@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Austin In 2020
 description: >-
-  Find top food TikTok influencers in Austin in 2020. Most popular hashtags: #food #hoopsathome #keepingbusy #goingpro.
+  Find top food TikTok influencers in Austin in 2020. Most popular hashtags: #austin #texas #fyp #atx.
 platform: TikTok
+hits: 132
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 132 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "markallin"
+  - username: "staarlite"
     fullname: >-
-      Markallin
+      Staarlite
+    bio: >-
+      Food + Travel + Doberman = My Life ❤️ Austin/Houston Eats & Fun IG: staarlite
     location: "United States"
-    followers: 22704
-    engagement: 1332
-    commentsToLikes: 0.073782
-    id: ck9r4pqiiw47c0j787s24c2v2
+    followers: 54800
+    engagement: 637
+    commentsToLikes: 0.028015
+    id: ckb9doied10bl0j23pxaeuu0m
     verified: false
-    hashtags: "#healthtips, #safehands, #firstborn, #coronavirus"
-  - username: "andrew_thebrave93"
+    hashtags: "#travel, #halloween, #fyp, #over30"
+  - username: "austinfoodadventures"
     fullname: >-
-      Andrew Navarro
+      austinfoodadventures
+    bio: >-
+      My experiences as a foodie and more📍Austin, TX Insta: @austinfoodadventures
     location: "United States"
-    followers: 20901
-    engagement: 1038
-    commentsToLikes: 0.041315
-    id: ck85cq1d32xjs0j78ijvjhyr0
+    followers: 3271
+    engagement: 663
+    commentsToLikes: 0.016093
+    id: ckd6ae9p04e2s0j23se1inc0u
     verified: false
-    hashtags: "#foryou, #boat, #theboys, #over18"
-  - username: "foodies"
+    hashtags: "#noodles, #foodstagram, #cooking, #pasta"
+  - username: "feedmi"
     fullname: >-
-      Foodies
+      Mimi | Austin Food & Travel
+    bio: >-
+      just a girl trying to decide what to eat follow me on IG @feedmi_ 🍜🌎✈️
     location: "United States"
-    followers: 2684013
-    engagement: 1731
-    commentsToLikes: 0.007830
-    id: ck8f6fznl2mly0j7851a1tq86
+    followers: 51100
+    engagement: 887
+    commentsToLikes: 0.025995
+    id: ckb13n3gyrnij0j234wj5d1bz
     verified: false
-    hashtags: "#school, #starbuckshack, #howto, #breakfast"
-  - username: "waleedeats"
+    hashtags: "#texasfoodie, #austin, #utaustin, #austinfood"
+  - username: "xmeredithx5"
     fullname: >-
-      Waleed Maoed
+      𝓂𝑒𝓇𝑒𝒹𝒾𝓉𝒽 ✨
+    bio: >-
+      snap: meredith 1030 || fort worth tx
     location: "United States"
-    followers: 16453
-    engagement: 959
-    commentsToLikes: 0.036420
-    id: cka0i7kfrcgi30i78kf9tbtt9
+    followers: 2070
+    engagement: 1875
+    commentsToLikes: 0.009125
+    id: ckc7pcuquv31z0j23bk81ib9q
     verified: false
-    hashtags: "#donuts, #buffet, #burrito, #tiktokarab"
-  - username: "tastetherambo"
+    hashtags: "#christmas, #foryou, #disney, #foryoupage"
+  - username: "kaylachance_"
     fullname: >-
-      Austin Rambo
+      Kayla Chance
+    bio: >-
+      Food, Travel & Country stuff 🤠 Austin, Texas 🇺🇸 Roll Tide ♥️
     location: "United States"
-    followers: 2769
-    engagement: 1617
-    commentsToLikes: 0.065659
-    id: cka9m3pzr3p4h0i78hu0w1av8
+    followers: 11800
+    engagement: 416
+    commentsToLikes: 0.028097
+    id: ckamhilpgg7680i78unlsoypo
     verified: false
-    hashtags: "#bestson, #pleasant, #takeover, #shirt"
-  - username: "areallygoodjoke"
+    hashtags: "#austin, #country, #texas, #alanjackson"
+  - username: "aubzallday"
     fullname: >-
-      Ish
+      Aubrey Ann
+    bio: >-
+      I like drinking, cooking & boys. Texas State University Venmo: AAAubrey 21
     location: "United States"
-    followers: 18754
-    engagement: 972
-    commentsToLikes: 0.139949
-    id: ck9fllyunol9x0j78begceis6
+    followers: 49400
+    engagement: 1362
+    commentsToLikes: 0.009745
+    id: ck9r4pp20w3kz0j78pozrr993
     verified: false
-    hashtags: "#hungry, #ballislife, #mirrorchallenge, #transitions"
-  - username: "austineguia"
+    hashtags: "#makeadrink, #texas, #cooking, #atx"
+  - username: "chudsbbq"
     fullname: >-
-      Austin Eguia
+      Chuds bbq
+    bio: >-
+      Austin Tx based Pitmaster building smokers and cooking meats
     location: "United States"
-    followers: 44976
-    engagement: 602
-    commentsToLikes: 0.032173
-    id: ck9shj2pytnj50j781mrzc20m
+    followers: 34000
+    engagement: 1199
+    commentsToLikes: 0.010940
+    id: ckce0ooazhvft0j234qjnwtaw
     verified: false
-    hashtags: "#baking, #html, #lunges, #challenge"
-  - username: "juliejulez.jpg"
+    hashtags: "#bbq, #texas, #barbecue, #smoke"
+  - username: "thebrokitchenguy"
     fullname: >-
-      Julie Julez | HTX
+      Michael Harris
+    bio: >-
+      Living in Texas and I cook dope food for my friends. #veteran #thebrokitchen
     location: "United States"
-    followers: 17846
-    engagement: 1061
-    commentsToLikes: 0.018452
-    id: ck81s3ojzprci0j78bmvr6wif
+    followers: 16200
+    engagement: 1431
+    commentsToLikes: 0.070748
+    id: ckcpibh7ohucd0j23a77ns4o4
     verified: false
-    hashtags: "#tajin, #texasfood, #mintmojito, #randomthings"
-  - username: "theshayspence"
+    hashtags: "#love, #havefun, #veteranmusic, #xyzbca"
+  - username: "austinmart"
     fullname: >-
-      Shay Spence
+      Austin Martin
+    bio: >-
+      Michigan ♓️ Thank you for 30k 🙏🏻 Snap: austinrmartin1
     location: "United States"
-    followers: 10948
-    engagement: 736
-    commentsToLikes: 0.019438
-    id: cka66lo82hg7b0i78r7vk4q9t
+    followers: 34800
+    engagement: 1383
+    commentsToLikes: 0.046545
+    id: ckcv8oufeqhtn0j23h11yxg3z
     verified: false
-    hashtags: "#easyrecipe, #playcool, #pecanpie, #tiktokchef"
-  - username: "unclemeekscuisine"
+    hashtags: "#viral, #greenscreenvideo, #fyp, #foryou"
+  - username: "ketosnackz"
     fullname: >-
-      unclemeekscuisine
+      iRick
+    bio: >-
+      Keto enthusiast located in Austin, TX!
     location: "United States"
-    followers: 17737
-    engagement: 1125
-    commentsToLikes: 0.021400
-    id: ckai4l126odk90i78uzvul4mj
+    followers: 50600
+    engagement: 480
+    commentsToLikes: 0.034595
+    id: ckb9bp23yxyr20j23zdexbpii
     verified: false
-    hashtags: "#fypag, #fypforyoupage, #beefstock, #keepingbusy"
+    hashtags: "#ketosis, #type2diabetes, #ketodiet, #lowcarbdiet"
 ---

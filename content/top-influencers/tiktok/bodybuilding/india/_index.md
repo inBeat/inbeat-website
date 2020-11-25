@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding TikTok Influencers In India In 2020
 description: >-
-  Find top bodybuilding TikTok influencers in India in 2020. Most popular hashtags: #carryminati #duet #duets #tiktok.
+  Find top bodybuilding TikTok influencers in India in 2020. Most popular hashtags: #foryou #bodybuilding #tiktok #fitness.
 platform: TikTok
+hits: 169
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 169 TikTok influencers like this in India for you to collaborate.
 profiles:
-  - username: "arunamrit_"
+  - username: "poojagowda992"
     fullname: >-
-      arun amrit
+      Pooja gowda
+    bio: >-
+      Athlete💪 👉Passion💪BODYBUILDING Jalo mat barabari karo
     location: "India"
-    followers: 111770
-    engagement: 2204
-    commentsToLikes: 0.006402
-    id: ck9adyzjbzikg0j78vpth2nla
+    followers: 639500
+    engagement: 968
+    commentsToLikes: 0.021752
+    id: ck9kch24dpjiu0j78tbqu40ct
     verified: false
-    hashtags: "#help, #foryou, #cutybeauty, #coronavirus"
-  - username: "mr_umesh08"
+    hashtags: "#2021, #fitnessindia, #myfitness, #bodybuildingwomen"
+  - username: "supriemthakur"
     fullname: >-
-      umeshsuman08
+      Supriem Thakur
+    bio: >-
+      Mr.India / Mr.Delhi 🥇🥇🏆 Bodybuilding 💪 Instagram I’d(supriemthakur)
     location: "India"
-    followers: 119330
-    engagement: 1179
-    commentsToLikes: 0.023312
-    id: ck8z9sg5kz72f0j78bo6jekym
+    followers: 3923
+    engagement: 1283
+    commentsToLikes: 0.027500
+    id: ckbf53ndwtuka0j2318ygb3mb
     verified: false
-    hashtags: "#unicornmask, #carryminati, #couplegoals, #tiktoktravel"
-  - username: "taranjot_fitness"
+    hashtags: "#mast, #gymshark, #fitnesslover, #tree"
+  - username: "ironimranofficial01"
     fullname: >-
-      taranjot singh
+      imran khan
+    bio: >-
+      professional Bodybuilding coach Follow me on insta :-Ironimranofficial
     location: "India"
-    followers: 28385
-    engagement: 1050
-    commentsToLikes: 0.009614
-    id: cka0ou4sx5gg00i78jw5hx76u
+    followers: 29600
+    engagement: 1152
+    commentsToLikes: 0.028097
+    id: ckacstxnabrbx0i78mg74ci78
     verified: false
-    hashtags: "#posingchallenge, #spar, #rainyday, #weather"
-  - username: "lohiayash"
-    fullname: >-
-      powerlifter Yash
-    location: "India"
-    followers: 45177
-    engagement: 1670
-    commentsToLikes: 0.004441
-    id: ckahth3lrec950i78wdusj1g5
-    verified: false
-    hashtags: "#safehands, #mujhe, #benchlover, #aukaat"
+    hashtags: "#fitness, #tik, #foryou, #like"
   - username: "ingene_sportswear"
     fullname: >-
       InGene
+    bio: >-
+      An international bodybuilding apparel brand- Instagram- ingene_sportswear
     location: "India"
     followers: 9600
     engagement: 579
     commentsToLikes: 0.014120
     id: ck920jpacehoe0j78ythypsxd
     verified: false
-    hashtags: "#makesometiktok, #tiktok, #fashion, #smiledekedekho"
-  - username: "poojagowda992"
+    hashtags: "#video, #malemodels, #shoot, #model"
+  - username: "yarokayaar87"
     fullname: >-
-      Pooja gowda
+      Sunil Kumar
+    bio: >-
+      bodybuilding update pahchan insta ID ..sunil87500
     location: "India"
-    followers: 615365
-    engagement: 686
-    commentsToLikes: 0.013669
-    id: ck9kch24dpjiu0j78tbqu40ct
+    followers: 117200
+    engagement: 1076
+    commentsToLikes: 0.013244
+    id: ck94nkrgw77wp0j78pj8rh18h
     verified: false
-    hashtags: "#posinglover, #duet, #partnergoal"
-  - username: "ironimranofficial01"
+    hashtags: "#trend, #onvoice, #ownvoice, #foryoup"
+  - username: "mr_umesh08"
     fullname: >-
-      imran khan
+      umeshsuman08
+    bio: >-
+      bodybuilding dancing singing and acting my hoby.. rj_08 vale.. medical student 
     location: "India"
-    followers: 28404
-    engagement: 650
-    commentsToLikes: 0.008116
-    id: ckacstxnabrbx0i78mg74ci78
+    followers: 125800
+    engagement: 925
+    commentsToLikes: 0.011870
+    id: ck8z9sg5kz72f0j78bo6jekym
     verified: false
-    hashtags: "#performance, #instagram, #athlete, #jitegaindia"
-  - username: "nitesh491jadhav"
+    hashtags: "#fyp, #team08sanwar, #hadotiwale, #viral"
+  - username: "kaur_mandy0001"
     fullname: >-
-      Nitesh Jadhav
+      Mandy
+    bio: >-
+      Bodybuilding ♥️ Dentistry 💓 Peace Very new to TikTok
     location: "India"
-    followers: 3093
-    engagement: 2466
-    commentsToLikes: 0.022267
-    id: ckae7izzqhd400i78kl6y90xs
+    followers: 4505
+    engagement: 846
+    commentsToLikes: 0.018080
+    id: ckb9966tzt5390j23e3j8c0jq
     verified: false
-    hashtags: "#491, #momdad, #lovepublic, #foryoupage"
-  - username: "saurabhchaudhary_fitness"
+    hashtags: "#tiktokdiwali, #selfie, #tb, #gymlife"
+  - username: "chinu_ashwani"
     fullname: >-
-      SaurabhChaudhary 
+      Chinu ashwani
+    bio: >-
+      Bodybuilding Gym addict On instagram Chinu_ashwani
     location: "India"
-    followers: 9497
-    engagement: 2788
-    commentsToLikes: 0.011084
-    id: ck9k5qof2xrdy0j7863h9ell4
+    followers: 30300
+    engagement: 764
+    commentsToLikes: 0.009197
+    id: ckbfau6s72klt0j23urfhrfme
     verified: false
-    hashtags: "#herdedic, #tiktok"
-  - username: "mr.same02"
+    hashtags: "#sharethecare, #haintaiyaarhum, #shoulderworkout, #bodybuildingmotivation"
+  - username: "hemantbodybuildr"
     fullname: >-
-      samekhan
+      @official Hemant😎😎
+    bio: >-
+      Gym +Lover 💪💪 My Style is My Life 😎😎 Instagram + On + Hemantkumar4907💪💪😎
     location: "India"
-    followers: 12958
-    engagement: 1717
-    commentsToLikes: 0.015613
-    id: ckae8cuh6ldqu0i788ij942d6
+    followers: 11500
+    engagement: 1761
+    commentsToLikes: 0.012966
+    id: ckbf53nx1tuof0j23w14ur6sv
     verified: false
-    hashtags: "#champibeats, #gullyboy, #sixpackabs, #pubglover"
+    hashtags: "#tiktokti, #tik, #gymtime, #bodybuilding"
+  - username: "yagnapunjabi"
+    fullname: >-
+      Yagna 
+    bio: >-
+      Bodybuilder | model | businessman, follow on insta for training/ nutrition tips
+    location: "India"
+    followers: 11600
+    engagement: 1416
+    commentsToLikes: 0.041465
+    id: ck85cpykk2ww90j78uvga24yq
+    verified: false
+    hashtags: "#foryou, #bodybuilding, #fit, #fyp"
 ---

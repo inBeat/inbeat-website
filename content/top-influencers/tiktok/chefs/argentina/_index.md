@@ -1,87 +1,118 @@
 ---
 title: Top 10 Chefs TikTok Influencers In Argentina In 2020
 description: >-
-  Find top chefs TikTok influencers in Argentina in 2020. Most popular hashtags: #chef #viral #banana #cooking.
+  Find top chefs TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #fyp #viral #foryou.
 platform: TikTok
+hits: 9
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "javi.rosemberg"
+  - username: "nigellop"
     fullname: >-
-      Javi Rosemberg
+      Nigel
+    bio: >-
+      No soy Chef Seguime en Instagram: @nigellop
     location: "Argentina"
-    followers: 1955286
-    engagement: 1260
-    commentsToLikes: 0.003772
-    id: ck9f24ct4bnk50j788bjnyjeq
+    followers: 627800
+    engagement: 992
+    commentsToLikes: 0.007341
+    id: ckbawvvcznal20j232v9h43rw
     verified: false
-    hashtags: "#coronavirus, #coronatime, #chefchallenge, #cocinando"
-  - username: "foodtoker"
+    hashtags: "#parati, #recetas, #trucostiktok, #aprendeentiktok"
+  - username: "unadelicia"
     fullname: >-
-      Food toker
+      DELICIOSO
+    bio: >-
+      CEO de pie pie 🦶 Si te gusta comer!! sentite como en tu casa 😋
     location: "Argentina"
-    followers: 54868
-    engagement: 329
-    commentsToLikes: 0.003985
-    id: ck9jxtaew26s80j78k0kifhj6
+    followers: 1200000
+    engagement: 1005
+    commentsToLikes: 0.005777
+    id: ckbapskfugeqy0j23c67kiyyp
     verified: false
-    hashtags: "#paint, #glitter, #follow, #bread"
+    hashtags: "#rese, #amigos, #nutella, #kinderjoy"
   - username: "umibll"
     fullname: >-
       Kindafreshdoe
+    bio: >-
+      Cringy ass h0e me tienen re podrida con el pelotudo de candia callense, gracias.
     location: "Argentina"
     followers: 13991
     engagement: 1834
     commentsToLikes: 0.021913
     id: cka0nxyiw1bix0i781p5ox5yl
     verified: false
-    hashtags: "#gimmelove, #softgirl, #bungoustraydogs, #goviralviral"
-  - username: "instaladrando"
+    hashtags: "#trend, #weeb, #meme, #anime"
+  - username: "javi.rosemberg"
     fullname: >-
-      Leandro Emmanuel Rodriguez
+      Javi Rosemberg
+    bio: >-
+      Locutor y Cocinero (bastante inútil) 🤪 Todos se animan a cocinar 👨‍🍳🎤
     location: "Argentina"
-    followers: 4056
-    engagement: 1336
-    commentsToLikes: 0.015572
-    id: cka0k7e7uldrj0i78kknjun31
-    verified: false
-    hashtags: "#traveler, #bakery, #sing, #travaler"
-  - username: "valendiazz1"
+    followers: 2900000
+    engagement: 1436
+    commentsToLikes: 0.006479
+    id: ck9f24ct4bnk50j788bjnyjeq
+    verified: true
+    hashtags: "#baileayudin, #dulcedeleche, #receta, #recetafacil"
+  - username: "miss_garbitch"
     fullname: >-
-      Valen Diaz
+      Garbitch
+    bio: >-
+      🇦🇷 Argentina 📷 @internet_garbitch
     location: "Argentina"
-    followers: 554455
-    engagement: 1687
-    commentsToLikes: 0.005766
-    id: ck8qmqyyjrc8y0j78uiwbw7ql
+    followers: 25400
+    engagement: 580
+    commentsToLikes: 0.025068
+    id: ckbf1ctoxnfeq0j23xuiu97vm
     verified: false
-    hashtags: "#fideos, #trend, #helado, #tortaentaza"
-  - username: "caroyjules"
+    hashtags: "#tiktoklatino, #tiktokargentina, #cuarentena, #petcheck"
+  - username: "recreossaludables"
     fullname: >-
-      caro y jules
+      Recreos Saludables
+    bio: >-
+      Cocinar es divertirse, crear y dar amor 💕 || Instagram || @recreossaludables
     location: "Argentina"
-    followers: 87156
-    engagement: 1114
-    commentsToLikes: 0.008986
-    id: cka0hzntrbgsb0i78ihg9vokh
+    followers: 46300
+    engagement: 1006
+    commentsToLikes: 0.011537
+    id: ckb9mxrwbgcbu0j23vuozu5fp
     verified: false
-    hashtags: "#loserschallenge, #lalachallenge, #viral, #mentalbreakdown"
+    hashtags: "#viral, #chocolate, #recetafacil, #food"
+  - username: "dailywonderpics"
+    fullname: >-
+      Dailywonderpics
+    bio: >-
+      Dailywonder posts every day - Join us # Dailywonderpics IG to @dailywonderpics
+    location: "Argentina"
+    followers: 75800
+    engagement: 1140
+    commentsToLikes: 0.000000
+    id: ck9jxtaew26s80j78k0kifhj6
+    verified: false
+    hashtags: "#viralvideo, #dessert, #cook, #new"
   - username: "kat.romina"
     fullname: >-
       Katia🌱
+    bio: >-
+      🇦🇷 // + tips en ig ⬆️ . Recetas veggie🥬🥑 & Consciencia🌿♻️
     location: "Argentina"
-    followers: 5140
-    engagement: 572
-    commentsToLikes: 0.019744
+    followers: 10300
+    engagement: 517
+    commentsToLikes: 0.020754
     id: ck81q5t86g6t30j78y8xigful
     verified: false
-    hashtags: "#cats, #funnycat, #nightroutine, #parrilla"
+    hashtags: "#eco, #vegetariano, #yummy, #ecofriendly"
   - username: "camiparry3"
     fullname: >-
       Cami Parry
+    bio: >-
+      
     location: "Argentina"
     followers: 117387
     engagement: 404
     commentsToLikes: 0.008739
     id: cka0ss088mt420i78us1yqjnh
     verified: false
-    hashtags: "#covid19, #riki, #practice, #handschallenge"
+    hashtags: "#parati, #dog, #foryoupage, #dance"
 ---

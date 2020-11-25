@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dog Owners TikTok Influencers In United States In 2020
 description: >-
-  Find top dog owners TikTok influencers in United States in 2020. Most popular hashtags: #dogowner #dogs #puppy #doglover.
+  Find top dog owners TikTok influencers in United States in 2020. Most popular hashtags: #fyp #dogs #dogowner #dogsoftiktok.
 platform: TikTok
+hits: 68
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 68 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "loki_mitzi_thor"
+  - username: "gottatrain"
     fullname: >-
-      Loki The Husky
+      Gottatrain 
+    bio: >-
+      Here to help dog owners better communicate with their dogs @gottatrain
     location: "United States"
-    followers: 52764
-    engagement: 2920
-    commentsToLikes: 0.054811
+    followers: 609000
+    engagement: 757
+    commentsToLikes: 0.024801
+    id: ck92t6lnign1r0j78cf7uagph
+    verified: true
+    hashtags: "#stitch, #gottatrain, #fearfuldog, #fyp"
+  - username: "ukn714"
+    fullname: >-
+      Unknown
+    bio: >-
+      Huntington Beach! Mexican 🇲🇽 Barber Dog owner: Kaia & kora 🐺🐺
+    location: "United States"
+    followers: 2842
+    engagement: 690
+    commentsToLikes: 0.018645
+    id: ckbl76alb4vpf0j23zi6sa1ha
+    verified: false
+    hashtags: "#crusing, #crusin, #chicanoculture, #bags"
+  - username: "chef_nukka"
+    fullname: >-
+      Chef_nukka
+    bio: >-
+      Just a husky and its owner having fun 🖖🏻 Follow my INSTAGRAM 👆🏻
+    location: "United States"
+    followers: 36600
+    engagement: 2073
+    commentsToLikes: 0.037026
+    id: ckb9husdy7nv00j233nyub3hx
+    verified: false
+    hashtags: "#duet, #huskyowner, #husky, #fyp"
+  - username: "laurenandmitz"
+    fullname: >-
+      Lauren & The Pups
+    bio: >-
+      #FlyHighLoki 4.21.20❤️ Loki👼🏼 Thor🐾 Mitzi🐾 FOLLOW OUR INSTA :)
+    location: "United States"
+    followers: 60400
+    engagement: 2393
+    commentsToLikes: 0.033260
     id: ck9kc9emkoitz0j78z9r2w22w
     verified: false
-    hashtags: "#petvlog, #bored, #makebakeshake, #spacethings"
-  - username: "emwng"
+    hashtags: "#dogowner, #pet, #dogs, #gsdlove"
+  - username: "leticiaamar"
     fullname: >-
-      emwng
+      leticiaamar
+    bio: >-
+      just a happy mom love everyone. follow my 📸 IG. @Leticiaamar Venmo @Leticiaamar
     location: "United States"
-    followers: 40734
-    engagement: 1706
-    commentsToLikes: 0.033902
-    id: ck9r7kyvz8ms20j786hza13z5
-    verified: true
-    hashtags: "#fosterdog, #learnfromme, #foodfam, #birthday"
-  - username: "musher_girl86"
-    fullname: >-
-      Abigayil86 
-    location: "United States"
-    followers: 38929
-    engagement: 1515
-    commentsToLikes: 0.021647
-    id: ckahzbfwo2qte0i78fazmit3t
+    followers: 62200
+    engagement: 876
+    commentsToLikes: 0.051479
+    id: ckc7q5vlcvpcm0j23h19qsefs
     verified: false
-    hashtags: "#badmusher, #alaskanhusky, #howl, #aftermycoffee"
-  - username: "elvencynic"
+    hashtags: "#expressieyourself, #sometimesirun, #diet, #duet"
+  - username: "__jamilah8"
     fullname: >-
-      ElvenCynic
+      Jamilah
+    bio: >-
+      🇵🇸 🇧🇷 CA TY FOR 9K!❤️ Pray for Lebanon, free Palestine, BLM
     location: "United States"
-    followers: 116402
-    engagement: 2425
-    commentsToLikes: 0.014190
-    id: ck8132h66zg6l0j789tanw8qs
+    followers: 9265
+    engagement: 1503
+    commentsToLikes: 0.069373
+    id: ckcus0k0qjy6w0j23s96qa4u4
     verified: false
-    hashtags: "#couplegoals, #spendthenight, #thirsttrap, #thestruggle"
-  - username: "mateofrenchie"
+    hashtags: "#relatable, #heinzhalloween, #worldseries, #gaminglife"
+  - username: "marco.a.valdez"
     fullname: >-
-      Mateo
+      marcoavaldez
+    bio: >-
+      Products | Lifestyle | Photography Tutorials Follow my IG @marcoavaldez ⚡
     location: "United States"
-    followers: 3817
-    engagement: 2485
-    commentsToLikes: 0.024667
-    id: ck8khjbixn0au0j78fpwo6hpo
+    followers: 16500
+    engagement: 975
+    commentsToLikes: 0.032064
+    id: ckcphfy8yhh7p0j233726sune
     verified: false
-    hashtags: "#duet, #nailedit, #trend, #fitness"
-  - username: "russianspy__"
+    hashtags: "#cameralens, #lightroom, #photographer, #photography"
+  - username: "travelinmace"
     fullname: >-
-      Russian Spy
+      Macy Kornewald
+    bio: >-
+      Reseller, Traveler, Couch Potato I like bargains and food
     location: "United States"
-    followers: 4972
-    engagement: 896
-    commentsToLikes: 0.037862
-    id: ckac6evype3dx0i78o2cave6h
+    followers: 4380
+    engagement: 709
+    commentsToLikes: 0.044923
+    id: ckd0a85ywbuqt0j23mmf7loa1
     verified: false
-    hashtags: "#ad, #study, #water, #hair"
-  - username: "justmeljones"
+    hashtags: "#cosplay, #coupons, #stlouis, #fyp"
+  - username: "cali4niadayz"
     fullname: >-
-      Mel
+      Cali4niadayz
+    bio: >-
+      The Coldest Water
     location: "United States"
-    followers: 25846
-    engagement: 1054
-    commentsToLikes: 0.033173
-    id: ck92zz1v78vpc0j78vuj5py81
+    followers: 647100
+    engagement: 2046
+    commentsToLikes: 0.011327
+    id: ck9kcvgedrc3q0j78a8idqkbd
     verified: false
-    hashtags: "#littlethings, #neverfitin, #animals, #foryourpage"
+    hashtags: "#badneighbors, #holacholas, #conspiracy, #humor"
   - username: "the_dogumenter"
     fullname: >-
       Shadrach Webb
+    bio: >-
+      check out the gram! 👆 😉 I design & sell my own dog collars! 🐕 👇
     location: "United States"
-    followers: 20219
-    engagement: 1123
-    commentsToLikes: 0.028594
+    followers: 22400
+    engagement: 1348
+    commentsToLikes: 0.037749
     id: ck8ufuzmo37b50j78boe8dwru
     verified: false
-    hashtags: "#stpattysday, #dogwalking, #tips, #reuse"
-  - username: "naturewilderness"
-    fullname: >-
-      Nature
-    location: "United States"
-    followers: 4405
-    engagement: 640
-    commentsToLikes: 0.024323
-    id: ck9v9zf6ufnvl0j78586w0sq1
-    verified: false
-    hashtags: "#track, #trailrunners, #bikergirl, #foryou"
-  - username: "yvetteulloa"
-    fullname: >-
-      yvetteulloa
-    location: "United States"
-    followers: 7760
-    engagement: 471
-    commentsToLikes: 0.090049
-    id: ck90ykbi8aljs0j7840kyl52z
-    verified: false
-    hashtags: "#ownthecurve, #bikeride, #happysaturday, #encinitas"
+    hashtags: "#dogsoftiktok, #smallbusiness, #photography, #fyp"
 ---

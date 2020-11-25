@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top food TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #pasta #tigerking #icecream.
+  Find top food TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #duet #foryou #uk.
 platform: TikTok
+hits: 941
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 941 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
+  - username: "dobermans_of_tiktok"
+    fullname: >-
+      dobermans_of_tiktok
+    bio: >-
+      Not my dogs!!! Raw food, Dobermans and other amazing dogs 💗
+    location: "United Kingdom"
+    followers: 136300
+    engagement: 2212
+    commentsToLikes: 0.044207
+    id: ckcoxgpis9u2s0j23kv8yg5im
+    verified: false
+    hashtags: "#dobermanedit, #dobermansoftiktok, #apbt, #dobermans"
+  - username: "janetdevlinofficial"
+    fullname: >-
+      Janet Devlin
+    bio: >-
+      I’ve an album and a book out right now, please buy it so I can buy food 👀
+    location: "United Kingdom"
+    followers: 701600
+    engagement: 1718
+    commentsToLikes: 0.020681
+    id: ckb97tzg8qwl90j2321bykcvb
+    verified: true
+    hashtags: "#exists, #some, #wild, #ugly"
+  - username: "starholroyd"
+    fullname: >-
+      Star Holroyd
+    bio: >-
+      CEO OF EGG LANGUAGE🍳 Star.holroyd@outlook.com EATING ALL THE GROSS FOODS 🤮👇🏽
+    location: "United Kingdom"
+    followers: 454100
+    engagement: 2021
+    commentsToLikes: 0.031657
+    id: ck8ore28ebs2m0j78d273gel0
+    verified: false
+    hashtags: "#backslang, #gibberish, #egglanguage, #duet"
+  - username: "mangovibee"
+    fullname: >-
+      mangovibee
+    bio: >-
+      i like making videos 🌙 routines, food, hauls 🧚🏻‍♀️ thank you for 12k!💕
+    location: "United Kingdom"
+    followers: 15000
+    engagement: 2355
+    commentsToLikes: 0.095455
+    id: cka0zjv2wfr4i0i78zgiw1v0i
+    verified: false
+    hashtags: "#fyp, #fy, #boredvibes, #houseoftiktok"
   - username: "willmcb"
     fullname: >-
       Will McBride
+    bio: >-
+      MY FAVOURITE FOOD IS A BIG MAC
     location: "United Kingdom"
-    followers: 750066
-    engagement: 3495
-    commentsToLikes: 0.013501
+    followers: 779200
+    engagement: 3386
+    commentsToLikes: 0.010104
     id: ck933wll6q4jq0j78rx96o2e9
     verified: false
-    hashtags: "#itstoastietimebaby, #ikindawannalogintoanamericansnapchataccount, #idontevenlikechocolatethatmuch, #ithinkimjustgonnaselltheswitchonebay"
-  - username: "mangovibee"
-    fullname: >-
-      rosie 🧚🏻‍♀️
-    location: "United Kingdom"
-    followers: 10849
-    engagement: 2511
-    commentsToLikes: 0.128893
-    id: cka0zjv2wfr4i0i78zgiw1v0i
-    verified: false
-    hashtags: "#april, #eastereggs, #followergain, #bujo"
-  - username: "s_tumpa"
-    fullname: >-
-      Sadia Tumpa 
-    location: "United Kingdom"
-    followers: 77921
-    engagement: 1241
-    commentsToLikes: 0.041837
-    id: ck9m0qjr6b9qk0j78s93jzat0
-    verified: false
-    hashtags: "#shoot, #london, #duet, #she"
+    hashtags: "#wistuhouseisbetterthanthehypehouse, #swaggymechanicwill, #dontworrythisisntapaidad, #ilymcdonalds"
   - username: "mattadlard"
     fullname: >-
       Matt Adlard 
+    bio: >-
+      Judge on Food Network IG: @mattadlard
     location: "United Kingdom"
-    followers: 73968
-    engagement: 2007
-    commentsToLikes: 0.011939
+    followers: 212100
+    engagement: 2182
+    commentsToLikes: 0.009909
     id: ck8adibkn6fvq0j78pblhnpyq
     verified: false
-    hashtags: "#psychopath, #food, #bread, #albumlookalike"
-  - username: "jamesbrooksco"
+    hashtags: "#fyp, #baking, #chocolate, #ramsayreacts"
+  - username: "baldmuthatrucka"
     fullname: >-
-      James Brooks
+      Ryan
+    bio: >-
+      🔞 Adult Humour 🔞 A parody of myself Can Beer and Takeaway food = Love ❤️
     location: "United Kingdom"
-    followers: 118347
-    engagement: 1624
-    commentsToLikes: 0.040964
-    id: ck8oreutobygr0j78mg0l9bhd
+    followers: 11000
+    engagement: 1318
+    commentsToLikes: 0.189571
+    id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#slowmo, #soda, #bread, #oreo"
-  - username: "maxim1111on"
+    hashtags: "#friends, #tiktok, #bathroom, #joke"
+  - username: "jaybearalldis"
     fullname: >-
-      Max Hindle
+      Jay Alldis
+    bio: >-
+      Family, food and silly stuff.
     location: "United Kingdom"
-    followers: 79129
-    engagement: 1412
-    commentsToLikes: 0.078570
-    id: ck8ouybrdrp610j78kebhdqq3
+    followers: 13200
+    engagement: 1128
+    commentsToLikes: 0.049197
+    id: ckcj99aug7r1g0j23kf98tmqk
     verified: false
-    hashtags: "#fitness, #lawofattraction, #money, #glowup"
-  - username: "jalalsamfit"
+    hashtags: "#fyp, #nolstagia, #duet, #snowdonia"
+  - username: "mulgan"
     fullname: >-
-      Jalal
+      Logan
+    bio: >-
+      I’m just a hungry beggar dancing for food
     location: "United Kingdom"
-    followers: 82281
-    engagement: 602
-    commentsToLikes: 0.042358
-    id: ck9r6257720zb0j78fn86x6rr
+    followers: 3530
+    engagement: 1721
+    commentsToLikes: 0.024927
+    id: ckbfex10e9c7p0j2367yrjv33
     verified: false
-    hashtags: "#obliquesworkout, #posture, #breathewithme, #athomeworkout"
-  - username: "kateovens"
+    hashtags: "#foryou, #uk, #comedy, #fyp"
+  - username: "david"
     fullname: >-
-      Kate Ovens
+      David O
+    bio: >-
+      I pretend I’m allergic to food I don’t want to eat. 🏳️‍🌈
     location: "United Kingdom"
-    followers: 86427
-    engagement: 1640
-    commentsToLikes: 0.016626
-    id: ck9r3f5arpj5t0j78u5rxopo7
-    verified: false
-    hashtags: "#pineapple, #glitter, #cheesesteak, #jacuzzi"
-  - username: "missmpillow"
-    fullname: >-
-      missMpillow
-    location: "United Kingdom"
-    followers: 86265
-    engagement: 1553
-    commentsToLikes: 0.014503
-    id: ck7zofzwcjp6w0j78yop51ye9
-    verified: false
-    hashtags: "#transformation, #pokemon, #dreadlocks, #haircolour"
-  - username: "paulbrown_uk"
-    fullname: >-
-      Paul Brown
-    location: "United Kingdom"
-    followers: 2466
-    engagement: 317
-    commentsToLikes: 0.059090
-    id: cka0zjipufodq0i78f4wf7w7f
-    verified: false
-    hashtags: "#nhsheroes, #nand, #penzance, #natoora"
+    followers: 22800
+    engagement: 1254
+    commentsToLikes: 0.032648
+    id: cka6kgxcdyxnq0i78qop5kddy
+    verified: true
+    hashtags: "#pridevibes, #foryou, #dragrace, #fyp"
 ---

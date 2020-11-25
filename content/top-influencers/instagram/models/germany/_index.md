@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Germany In 2020
 description: >-
-  Find top models Instagram influencers in Germany in 2020. Most popular hashtags: #giveaway #pictureoftheday #sunshine #germany.
+  Find top models Instagram influencers in Germany in 2020. Most popular hashtags: #shooting #berlin #streetstyle #love.
 platform: Instagram
+hits: 2497
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 2497 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "iamjeannyguapa"
+  - username: "christian.ulmen"
     fullname: >-
-      TRAVEL | FASHION | INSPO
+      Christian Ulmen
+    bio: >-
+      Model
     location: "Germany"
-    followers: 7028
-    engagement: 1813
-    commentsToLikes: 0.116143
-    id: ckap75goripgz0i78or915ml8
-    verified: false
-    hashtags: "#petal, #babygirl, #tattooed, #completefood"
-  - username: "fotografie.manuel.pape"
+    followers: 120483
+    engagement: 545
+    commentsToLikes: 0.027013
+    id: ck0w4a6wlxk4q0i1900qn2blj
+    verified: true
+    hashtags: "#fanlove, #neuestaffel, #drehenwir2020, #abi95"
+  - username: "xhayleyfoster"
     fullname: >-
-      ＦＯＴＯＧＲＡＦＩＥ | ＭＡＮＵＥＬ ＰＡＰＥ
+      Hayley Foster
+    bio: >-
+      unapologetic JAG models NYC 📍 Natural models LA MiLK models LONDON Modelwerk GERMANY 💃🏽 dancer BUFFALO ->NYC
     location: "Germany"
-    followers: 7304
-    engagement: 1603
-    commentsToLikes: 0.095966
-    id: ck9hc88h2k7an0j78jf8eh2g6
+    followers: 34375
+    engagement: 717
+    commentsToLikes: 0.089960
+    id: ck0ttf1gi2fn60i19p1c9zsvg
     verified: false
-    hashtags: "#igportrait, #pictureoftheday, #raps, #sonnenblumen"
-  - username: "casperhightphotographie"
+    hashtags: "#hotforharris"
+  - username: "menina.woitalla"
     fullname: >-
-      𝒞𝒶𝓈𝓅𝑒𝓇 𝐻𝒾𝑔𝒽𝓉 𝒫𝒽𝑜𝓉𝑜𝑔𝓇𝒶𝓅𝒽𝒾𝑒®
+      🔆M e n i n a  W o i t a l l a
+    bio: >-
+      professional model / actress ♡ based in berlin | ffm mwoitalla@gmx.de
     location: "Germany"
-    followers: 7273
-    engagement: 1613
-    commentsToLikes: 0.082518
-    id: ck5q3vh8zmkl40i11ntqvydj5
+    followers: 75254
+    engagement: 696
+    commentsToLikes: 0.099335
+    id: ckf5m4epes7fd0j23kryvy7yo
     verified: false
-    hashtags: "#sonyalpha, #light, #sensualshot, #inkstagram"
-  - username: "mb7510"
+    hashtags: "#fashionshooting, #taifunfashion, #fashionphotography, #bruenette"
+  - username: "missjoleelove"
     fullname: >-
-      Marion Becker
+      Jolee Love
+    bio: >-
+      Model 📸 @bully_bubba2020 Berlin 🇩🇪 Germany Autogrammkarten
     location: "Germany"
-    followers: 9033
-    engagement: 1464
-    commentsToLikes: 0.134680
-    id: ckaowxbtvavhb0i78699lkqei
+    followers: 52632
+    engagement: 602
+    commentsToLikes: 0.057243
+    id: ck5bvd2chjf080i11gj9020al
     verified: false
-    hashtags: "#wedgesshoes, #muttertag, #homeshooting, #sommeroutfit"
-  - username: "reissmannevelyn"
+    hashtags: "#feelsexyeveryday, #beyourself, #hairstyle, #barcelona"
+  - username: "tim_rasch"
     fullname: >-
-      Evelyn Reißmann
+      TIM RASCH
+    bio: >-
+      📍Germany •model •actor •TV-Personality •TikTok (1.Mio) - timrasch •YouTube - Tim Rasch @vcom.thepeopleagency → tim@thepeopleagency.net
     location: "Germany"
-    followers: 21126
-    engagement: 1176
-    commentsToLikes: 0.068819
-    id: ck8t26tg1yctg0j78wfmfyfpy
-    verified: false
-    hashtags: "#dienstagmood, #womanover50, #imissmymom, #mittwochabend"
-  - username: "damianorgun"
+    followers: 355105
+    engagement: 568
+    commentsToLikes: 0.062449
+    id: ck8w3f8ir7j7a0j78f79jsvop
+    verified: true
+    hashtags: "#timisshow, #raschprotect, #fashionblogger, #timrasch"
+  - username: "sina.caro"
     fullname: >-
-      Hasan Damian Orgun
+      Sina Carolin ❤
+    bio: >-
+      NRW📍near Recklinghausen Fitness/ Swimming/ Gridgirl/ Motorsport/ Model 2nd Acc: @sina.caro_swim
     location: "Germany"
-    followers: 29259
-    engagement: 877
-    commentsToLikes: 0.068188
-    id: ck9hcgycylc6x0j78pb6b8n4a
+    followers: 7388
+    engagement: 1248
+    commentsToLikes: 0.109426
+    id: ckap3vvyl4pvr0i788pfvbp2z
     verified: false
-    hashtags: "#lockdown, #menstyle, #covid19, #view"
-  - username: "dana_natalli"
+    hashtags: "#blondhairgirl, #hobby, #photooftheday, #model"
+  - username: "pati_rose_"
     fullname: >-
-      Dana Natalli
+      Pati Rose
+    bio: >-
+      Curvy model, Height 180 cm, 124/90/118 📍Germany Tik Tok: pati_rose_ for chat and more pic´s check:
     location: "Germany"
-    followers: 161200
-    engagement: 718
-    commentsToLikes: 0.070713
-    id: ck8t49mxj5yvp0j78wq2ubfms
+    followers: 192074
+    engagement: 1065
+    commentsToLikes: 0.029743
+    id: ckap7muh5koa20i78uese671i
     verified: false
-    hashtags: "#free"
-  - username: "salomehaymanot"
+    hashtags: "#dirndlbeauties, #curvyreal, #curvesarebeautiful, #curvylove"
+  - username: "eduardscheafer"
     fullname: >-
-      ሶሎሜ
+      Eduard Schäfer Yousef Yaglo
+    bio: >-
+      🇹🇳🇹🇷🇰🇿.1.9.20.M+E ❤ 📍Sousse 🌴Tunis 💼Manager: 🎥YouTube 🏈Wide Receiver/Center Ks📍FFM/Kassel 🤳TikTok:@ eduardschaefer 👻:eduard.fb 📸Fotograf:Koch:Model
     location: "Germany"
-    followers: 8916
-    engagement: 1690
-    commentsToLikes: 0.061821
-    id: ck5q5eddhsife0i11ud6vnj02
+    followers: 49432
+    engagement: 634
+    commentsToLikes: 0.084071
+    id: ck6tjpdjl35x50j712h6mqmks
     verified: false
-    hashtags: "#motivation, #halfcast, #athlete, #photography"
-  - username: "ma_delina_"
+    hashtags: "#sousse, #sonnenschein, #eduardscheaferarmy, #etoiledusahel"
+  - username: "amelie_lammers"
     fullname: >-
-      Fitness | Fashion | Model
+      ᗩᗰEᒪIE 🖤
+    bio: >-
+      actress 🎬 : „Fünf Freunde 5“ 13yrs TikTok:amelie_lam ACCOUNT OWNED AND RUN BY MOM @ba_ro_la Model 📍from Germany Tennisplayer 🎾 Represented by agency
     location: "Germany"
-    followers: 5648
-    engagement: 1477
-    commentsToLikes: 0.113093
-    id: ck5c3akacywxz0i11jnw6f6a9
+    followers: 64598
+    engagement: 568
+    commentsToLikes: 0.090186
+    id: ck134wf4vyioe0i194hrg5wdm
     verified: false
-    hashtags: "#pullups, #photooftheday, #styling, #heyestrid"
-  - username: "sommer_marc"
+    hashtags: "#sonyportraits, #closeupportrait, #portraitureinspirations, #dream"
+  - username: "anike.official"
     fullname: >-
-      Marc Sommer | Köln
+      ANIKE EKINA
+    bio: >-
+      MUSIC | MODEL | ACTRESS | LIFESTYLE ◾️ MY SHOP @anikedesigns ◾️ LOVE TO INFINITY @gurujoshproject ◾️ BOOKING management@anikeekina.com
     location: "Germany"
-    followers: 80772
-    engagement: 711
-    commentsToLikes: 0.040332
-    id: ck0uavn4wd5zs0i19pwzs62lg
+    followers: 900690
+    engagement: 890
+    commentsToLikes: 0.023072
+    id: ck0w6k8it8yt70i19sczuwbo3
     verified: false
-    hashtags: "#friday, #happyfriday, #sharkcleande, #hoodielover"
+    hashtags: "#dialy, #djane, #ta, #producergirl"
 ---

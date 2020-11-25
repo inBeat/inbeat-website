@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #amor #quarentena #diadasmaes #life.
+  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #love #quarentena #beleza.
 platform: Instagram
+hits: 1505
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 1505 Instagram influencers like this in Brazil for you to pitch.
 profiles:
   - username: "driellydrudi"
     fullname: >-
       Drielly Drudi
+    bio: >-
+      📍Blogger, 21 @bangenergy Publicidade: 💌 driellydrudi@hotmail.com CANAL 👇🏼
     location: "Brazil"
-    followers: 960866
-    engagement: 1259
-    commentsToLikes: 1.043045
+    followers: 1320210
+    engagement: 650
+    commentsToLikes: 0.217237
     id: ck15r24pe5rib0i19d485722o
     verified: false
-    hashtags: "#familiadrudichallenge, #sorteio, #sorteios, #driellycomemuito"
-  - username: "rafaelmelok"
-    fullname: >-
-      𝐑𝐀𝐅𝐀𝐄𝐋 𝐌𝐄𝐋𝐎
-    location: "Brazil"
-    followers: 39825
-    engagement: 1892
-    commentsToLikes: 4.006697
-    id: ck9wh2edkvxvc0j78i5pt9dqj
-    verified: false
-    hashtags: "#socacompressao, #bregafunk, #throwback"
-  - username: "ncdutra"
-    fullname: >-
-      Nathalia Dutra
-    location: "Brazil"
-    followers: 67699
-    engagement: 1106
-    commentsToLikes: 0.046152
-    id: ck138et1ufw4r0i19luujcu5y
-    verified: false
-    hashtags: ""
+    hashtags: "#bangenergy, #energydrink, #ad, #sorteio"
   - username: "barbara_dayaana"
     fullname: >-
-      Bárbara Dayana
+      Bárbara Dayana
+    bio: >-
+      🌸 Insta blogger | Digital influencer 💋 📸 Modelo fotográfica / Aracaju-SE 📲 Parcerias e divulgações via direct 💄☀️🛍🍍📸👙🌴🌈🐶🍉🌻
     location: "Brazil"
-    followers: 84835
-    engagement: 660
-    commentsToLikes: 0.246821
+    followers: 86556
+    engagement: 647
+    commentsToLikes: 0.071923
     id: ck5q5d8l3scmr0i1126ox80bs
     verified: false
-    hashtags: "#looknight, #hair, #fashionstyle, #styleoftheday"
-  - username: "julia.ogusuku"
-    fullname: >-
-      Júlia Ogusuku
-    location: "Brazil"
-    followers: 31584
-    engagement: 593
-    commentsToLikes: 0.162252
-    id: ck0w18jooi2sx0i19bmlpg754
-    verified: false
-    hashtags: "#tenisdemenina, #diadasmaes2020, #outonoinverno, #hairclips"
-  - username: "bettiefromhell"
-    fullname: >-
-      É a Bettie
-    location: "Brazil"
-    followers: 40485
-    engagement: 757
-    commentsToLikes: 0.037631
-    id: ck14gw6o07c2z0i19n2es4tqp
-    verified: false
-    hashtags: "#tbt"
-  - username: "steffany_borges"
-    fullname: >-
-      Steffany Borges 🇧🇷
-    location: "Brazil"
-    followers: 1347689
-    engagement: 433
-    commentsToLikes: 0.281505
-    id: ck0u198ebw4xr0i19kixs6r69
-    verified: false
-    hashtags: "#cachos, #sapatinhodeluxo, #mantecorpskincare, #felizpascoa"
+    hashtags: "#make, #fashion, #praia, #blogger"
   - username: "lyviaroberta_"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀Lyvia Roberta 🦋
+      Lyvia Roberta ✨
+    bio: >-
+      🏡| Alagoana 🙌🏻| God is love 💍| Lucas Martins 📲| Aceito parcerias e jobs 📌| Dailylife-blogger-beauty-food 💕| Seja morada de sentimentos bons.
     location: "Brazil"
-    followers: 8473
-    engagement: 1674
-    commentsToLikes: 0.236941
+    followers: 8694
+    engagement: 1115
+    commentsToLikes: 0.210868
     id: ck8tauhayt3yc0j78f10meouk
     verified: false
-    hashtags: "#agradecer, #amor, #foto, #finalbbb"
+    hashtags: "#likes, #lightroompresets, #feedorganizado, #arapiraca"
+  - username: "hayanedarlley"
+    fullname: >-
+      Hayane Darlley
+    bio: >-
+      • Influencer / Blogger • Modelo • Contato: (85) 9 86156190 📲 • Fortaleza - Ce
+    location: "Brazil"
+    followers: 322266
+    engagement: 426
+    commentsToLikes: 0.380547
+    id: ck6tqjv2jrv9j0j71aj3oydkr
+    verified: false
+    hashtags: "#fimdesemana, #piscina, #fds, #mar"
+  - username: "biancadacias"
+    fullname: >-
+      bianca dacia
+    bio: >-
+      advogada com ascendente em blogger 📍Fortaleza | CE. Contato Assessoria ⤵️
+    location: "Brazil"
+    followers: 86893
+    engagement: 440
+    commentsToLikes: 0.242756
+    id: ck8sz0bmwmpg20j78hfoy1oob
+    verified: false
+    hashtags: "#ad, #mudeojogocomfila, #publi"
+  - username: "martaflores.oficial"
+    fullname: >-
+      MARTA FLORES MAKEUP & BELEZA
+    bio: >-
+      🌺 MARTA FLORES 🌺 Maquilhadora • Formadora Blogger • TV Host • YouTuber 💌 info.martaflores@gmail.com #maquilhaatuavida #bafonica #juntasnabeleza
+    location: "Brazil"
+    followers: 53599
+    engagement: 332
+    commentsToLikes: 0.129211
+    id: ck6twyl4puua70j712rdf0msy
+    verified: false
+    hashtags: "#maquilhagemprofissional, #lookoftheday, #bafonica, #video"
+  - username: "almeida.iasmin"
+    fullname: >-
+      IASMIN 🧿
+    bio: >-
+      Engenheira com ascendente em blogger 💗 Amo moda e beleza! ✨ Schütz Squad 👠 RJ 📍 Cupons: @descontinhosdaiasmin 👇🏻
+    location: "Brazil"
+    followers: 19138
+    engagement: 471
+    commentsToLikes: 0.100338
+    id: ckaotuv6txmj50i78xt7krzrf
+    verified: false
+    hashtags: "#arezzo, #zzmall, #vans, #anacapri"
   - username: "suelenmelloo"
     fullname: >-
       SUELEN MELLO
+    bio: >-
+      👩🏻‍💼 Empreendedora | Blogger | Master Trainer 📍Caxias do Sul, RS 🛍@shopsobrancelhas 👩🏻‍💻Consultoria Online para Designers de Sobrancelhas +800 alunas🚀
     location: "Brazil"
-    followers: 49951
-    engagement: 379
-    commentsToLikes: 0.253512
+    followers: 63033
+    engagement: 346
+    commentsToLikes: 0.155294
     id: ck0w3u050v9rz0i19kcyzqi7z
     verified: false
-    hashtags: "#cejasperfectas, #aerolook, #cursodesigndesobrancelhas, #marca"
-  - username: "evertonsiola"
+    hashtags: "#designerdesobrancelhas, #mulher, #sobrancelhasdesign, #sobrancelhasnaturais"
+  - username: "deboraportooficial"
     fullname: >-
-      𝐸𝓋𝑒𝓇𝓉𝑜𝓃𝒮𝒾𝑜𝓁𝒶
+      D É B O R Δ   P O R T O ®
+    bio: >-
+      JORNALISTA, DIGITAL INFLUENCER, MODELO ♡Travel, Moda, YouTuber, Blogger, Colunista, Rádio/TV CAPA da SEXY | MISS BUMBUM PARANÁ ⚠️ ASSISTA AOS STORIES
     location: "Brazil"
-    followers: 28697
-    engagement: 388
-    commentsToLikes: 0.655502
-    id: ck0ty0ockl3w30i19w48gcf3x
+    followers: 557517
+    engagement: 274
+    commentsToLikes: 0.038519
+    id: ckapc1zvj25ue0i78wtj8wxdl
+    verified: true
+    hashtags: "#motivation, #beleza, #summer, #deboraportooficial"
+  - username: "carol_felizardo"
+    fullname: >-
+      Carolzinha 🌻
+    bio: >-
+      • Caipira blogger 🤠 Aqui tem música, viagens e diquinhas 💛 📩 contato.carolfelizardo@gmail.com
+    location: "Brazil"
+    followers: 15085
+    engagement: 881
+    commentsToLikes: 0.065753
+    id: ckf5oq5uo3c0c0j23ekv7prpu
     verified: false
-    hashtags: "#makeuoboy, #makeneon, #friends, #saopaulo"
+    hashtags: "#latavelha, #araguaia, #goias, #motoesportiva"
 ---

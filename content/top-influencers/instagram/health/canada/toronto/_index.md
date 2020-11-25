@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Toronto In 2020
 description: >-
-  Find top health Instagram influencers in Toronto in 2020. Most popular hashtags: #health #workout #ad #cleanbeauty.
+  Find top health Instagram influencers in Toronto in 2020. Most popular hashtags: #fitness #toronto #health.
 platform: Instagram
+hits: 115
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 115 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "wakeupandsmelltherosay"
+  - username: "matthew.giuffrida"
     fullname: >-
-      Natalie Rosay🌹
+      Matthew Giuffrida
+    bio: >-
+      𝗣𝘂𝘁𝘁𝗶𝗻𝗴 𝘀𝗺𝗶𝗹𝗲𝘀 𝗼𝗻 𝗳𝗮𝗰𝗲𝘀 𝘀𝗶𝗻𝗰𝗲 𝟭𝟵𝟵𝟲! Tik Tok | Youtube | Facebook | Instagram •Email For Business/Collaboration Inquiries•
     location: "Canada"
-    followers: 64936
-    engagement: 567
-    commentsToLikes: 0.043020
-    id: ck0vv0bkwmyid0i19657gixxc
+    followers: 36514
+    engagement: 391
+    commentsToLikes: 0.082861
+    id: ck6ug7d0g1ceu0j71i3rml2sf
     verified: false
-    hashtags: "#mindbodyhealth, #eatthecookieifyouwantit, #glutenfree, #refinedsugarfree"
-  - username: "vivianwong_"
+    hashtags: "#ottawa, #brudder, #codered, #montreal"
+  - username: "ricardomarmitte"
     fullname: >-
-      V
+      Ricardo Marmitte
+    bio: >-
+      👦🏿Big hair, smile, heart & personality! ♥️Owner @dancepassionfitnessstudio 🎽Official distributor @zumbawearcanada 😁DM for collaborations #WhoDidItBest
     location: "Canada"
-    followers: 18279
-    engagement: 816
-    commentsToLikes: 0.031065
-    id: ck0vww6iuvvt90i19rap5fjx1
+    followers: 74798
+    engagement: 70
+    commentsToLikes: 0.050022
+    id: ck5zjcku9hcse0i141ocibu74
     verified: false
-    hashtags: "#igfit, #lifestyle, #noheavyperfume, #trip"
-  - username: "yayjoon"
-    fullname: >-
-      joon!
-    location: "Canada"
-    followers: 2112
-    engagement: 2782
-    commentsToLikes: 0.397448
-    id: ckaorspayol0x0i78xnu5d8er
-    verified: false
-    hashtags: "#cincodemayo, #quarantinekitchen, #quarantinedatenight, #pastalove"
-  - username: "thecityismineto"
-    fullname: >-
-      The City Is Mine | Mili Jain
-    location: "Canada"
-    followers: 6839
-    engagement: 422
-    commentsToLikes: 0.198824
-    id: ck6ttuhd0cnnl0j71ik2bmavx
-    verified: false
-    hashtags: "#makeuplove, #caeserdrinks, #sundaymornings, #getinmybelly"
-  - username: "ayenomz"
-    fullname: >-
-      Irene | Food & Lifestyle
-    location: "Canada"
-    followers: 3743
-    engagement: 2617
-    commentsToLikes: 0.532725
-    id: ck5zu6zoi1swj0i14dsezsu7h
-    verified: false
-    hashtags: "#globallylocal, #birthday, #chatimecanada, #sweatypic"
-  - username: "juliettelouie"
-    fullname: >-
-      Juliette Louie 雷莊𠒇
-    location: "Canada"
-    followers: 18203
-    engagement: 192
-    commentsToLikes: 0.037205
-    id: ck6u5j1s89x5q0j71sfyjp0dj
-    verified: false
-    hashtags: "#radio, #summer2017, #happymothersday, #happyearthday"
-  - username: "itscindym"
-    fullname: >-
-      🇨🇦 Cindy Marie
-    location: "Canada"
-    followers: 46288
-    engagement: 151
-    commentsToLikes: 0.075741
-    id: ck6u1lq1ymhz20j71yqgs32wh
-    verified: false
-    hashtags: "#torontomom, #boysandtoys, #kidapprovedfood, #endypartner"
+    hashtags: "#zeslife, #zumbawearcanada, #canada, #zumba"
   - username: "thefitfatale"
     fullname: >-
       Samantha E Cutler
+    bio: >-
+      🎙Award Winning Podcast @thefitfatalepodcast 🔮Female Tech Founder @clout.jam 🎥 TikTok (16k+) 🧘🏼‍♀️Guided Meditations 💪🏻Fitness & Health Coach 📍Toronto
     location: "Canada"
-    followers: 32937
-    engagement: 139
-    commentsToLikes: 0.103623
+    followers: 33599
+    engagement: 142
+    commentsToLikes: 0.090289
     id: ck5buoqlwi5na0i11i0026ejj
     verified: false
-    hashtags: "#ad, #bumblepartner, #championsofsinai, #cloutforgood"
-  - username: "xmaii.d"
+    hashtags: "#lesssugarsweetlife, #senokot, #liketkit, #reginageorge"
+  - username: "yayjoon"
     fullname: >-
-      Mai
+      joon!
+    bio: >-
+      〰 choosing health, wellness & joy 〰 toronto, canada
     location: "Canada"
-    followers: 20766
-    engagement: 1466
-    commentsToLikes: 0.055933
-    id: ckapasf0qxae60i78928qye0i
+    followers: 2398
+    engagement: 2138
+    commentsToLikes: 0.425022
+    id: ckaorspayol0x0i78xnu5d8er
     verified: false
-    hashtags: "#instagoo, #fabumakeup4u, #aritzia, #pheobebuffay"
-  - username: "ownitbabe"
+    hashtags: "#christmascountdown, #goodmoodfood, #grazingtables, #christmastree"
+  - username: "goodhealthprettylife"
     fullname: >-
-      Rini Frey
+      NICOLE.
+    bio: >-
+      #toronto blogger health . wellness . lifestyle {online hours 2-3pm est}
     location: "Canada"
-    followers: 171228
-    engagement: 536
-    commentsToLikes: 0.031547
-    id: ck5pxdi35r9jc0i1186hp3wt2
+    followers: 15143
+    engagement: 880
+    commentsToLikes: 0.316828
+    id: ckf5m1tv0rxyx0j23rd5kanul
+    verified: false
+    hashtags: "#vistaambassador, #partner, #vistamagcanada, #vistamagazine"
+  - username: "irina_fit"
+    fullname: >-
+      Irina Andreea BSc, RYT, CNP
+    bio: >-
+      Personal Trainer/Movement & Mobility Coach Holistic Wellness, Eco-Conscious, 🌏LOVE Group Fitness @sweatandtonic🎉🔥 Personal Training @physiodna Toronto
+    location: "Canada"
+    followers: 19174
+    engagement: 292
+    commentsToLikes: 0.140570
+    id: ck8t0p05bsrft0j78csr43eno
+    verified: false
+    hashtags: "#movementismedicine, #toronto, #irinafit, #workout"
+  - username: "d_little_tank"
+    fullname: >-
+      DILPREET BHATTAL
+    bio: >-
+      🔶Online Fitness Coach📧 🔶Founder: Little Tank Fitness 🔶For Health Sakes🎙 📍 Toronto ⚫️ @physiqueglobal ⚫️ @f45_training_torontodowntown ⚫️#IAM1STPHORM
+    location: "Canada"
+    followers: 17290
+    engagement: 347
+    commentsToLikes: 0.079849
+    id: ck8tcs2fc0gly0j78mk0r2umy
+    verified: false
+    hashtags: "#1stphorm, #punjabifitness, #thanksgiving, #toronto"
+  - username: "jogajana"
+    fullname: >-
+      Jana Webb
+    bio: >-
+      JOGA Creator: @joga_world ELITE Trainer: @fitplan_app MAMA: @will.__.webb
+    location: "Canada"
+    followers: 68082
+    engagement: 164
+    commentsToLikes: 0.031873
+    id: ck6tqy6cavfv90j714olugiwz
     verified: true
-    hashtags: "#bodyimage, #recovery, #selfcare, #stayhome"
+    hashtags: "#fitnessmotivation, #fitness, #jogajana, #fit"
+  - username: "taylorxcross"
+    fullname: >-
+      Taylor Cross
+    bio: >-
+      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
+    location: "Canada"
+    followers: 16548
+    engagement: 189
+    commentsToLikes: 0.111690
+    id: ck8syvtfdm7ft0j78ugrn2b83
+    verified: false
+    hashtags: ""
+  - username: "alizolfi.fitness"
+    fullname: >-
+      Alizolfi(AZfitness)
+    bio: >-
+      Toronto🇨🇦🇮🇷 Canadian National pro qualifier Health,Fitness,Nutrition Canadian diploma👨🏻‍🎓 Online Coaching 📝 مربى آنلاين
+    location: "Canada"
+    followers: 2803
+    engagement: 1547
+    commentsToLikes: 0.062888
+    id: ckf5nnrmyywli0j23gid2owm4
+    verified: false
+    hashtags: "#fitnessmodel, #gymmotivation, #trainer, #gymlife"
 ---

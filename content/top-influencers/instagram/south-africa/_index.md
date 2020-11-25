@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In South Africa In 2020
 description: >-
-  Find top Instagram influencers in South Africa in 2020. Most popular hashtags: # #lockdown #logicpro #workaholic.
+  Find top Instagram influencers in South Africa in 2020. Most popular hashtags: #model #capetown #modellife.
 platform: Instagram
+hits: 1719
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 1719 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "kylieshanay"
-    fullname: >-
-      𝐊𝐘𝐋𝐈𝐄 𝐒𝐇𝐀𝐍𝐀𝐘 | 𝐁𝐄𝐀𝐔𝐓𝐘 🤍
-    location: "South Africa"
-    followers: 6814
-    engagement: 1966
-    commentsToLikes: 0.762247
-    id: ck0vvdzuvopko0i19s0o59y26
-    verified: false
-    hashtags: "#loveguess, #maybelline, #maybellinemasterbronze, #proudsouthafrican"
   - username: "kurtapril_"
     fullname: >-
       Kurt April
+    bio: >-
+      Radio Personality | Musician | DJ/Producer | Sound Engineer |📍Cape Town, South Africa 🇿🇦 ‘Lost Together’ out now! 👇
     location: "South Africa"
-    followers: 5228
-    engagement: 1792
-    commentsToLikes: 0.142821
+    followers: 5197
+    engagement: 1929
+    commentsToLikes: 0.126993
     id: ck15tn2kqiwar0i19j2jpm4yj
     verified: false
-    hashtags: "#ilovestrettons, #myvans"
-  - username: "dataan.sisters"
-    fullname: >-
-      Christ • Consistency • Connect
-    location: "South Africa"
-    followers: 34873
-    engagement: 1340
-    commentsToLikes: 0.290251
-    id: ck0u03elbsejf0i19l6ul2wyx
-    verified: false
-    hashtags: "#giveaway, #mothersday, #soulfood, #sisternecklace"
-  - username: "billybrooks_"
-    fullname: >-
-      B I L L Y   B R O O K S
-    location: "South Africa"
-    followers: 2185
-    engagement: 2312
-    commentsToLikes: 0.161715
-    id: ckap01jehob8h0i78c2xq8l6b
-    verified: false
     hashtags: ""
-  - username: "siya_hashe"
+  - username: "real_mathira"
     fullname: >-
-      Siyamthanda Hashe
+      💁🏾‍♀️ thea 🧿
+    bio: >-
+      🇿🇼 Emotional Gangster 🇵🇰 50% Desi 50% African & a Blessed mom Snapchat👻mathiraofficial Tiktok 🍭 mathira_official Bigo 💙 Mathira
     location: "South Africa"
-    followers: 5591
-    engagement: 1804
-    commentsToLikes: 0.069504
-    id: ckaoziugtm2q40i78y3toxzf0
-    verified: false
-    hashtags: ""
-  - username: "prettyboydo"
-    fullname: >-
-      Prettyboy D-O 🌍
-    location: "South Africa"
-    followers: 44683
-    engagement: 1065
-    commentsToLikes: 0.041532
-    id: ck0vzbhnf89uf0i197e3nwhnw
+    followers: 395812
+    engagement: 673
+    commentsToLikes: 0.064434
+    id: ck5c1xf5gw44b0i11osuzeeqf
     verified: true
-    hashtags: "#quarantinefreestyle, #linkinbio"
+    hashtags: "#mybabies, #unbothered, #morning, #glassesgirl"
   - username: "ismaeelbagus"
     fullname: >-
-      Ishy | Men’s Style
+      Ismaeel Bagus
+    bio: >-
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📸 @flashmeishi 📨 ismaeelbagus@gmail.com ...🧵 Be part of the change ⤵️
     location: "South Africa"
-    followers: 3099
-    engagement: 2219
-    commentsToLikes: 0.152434
+    followers: 3847
+    engagement: 2504
+    commentsToLikes: 0.114857
     id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#mrpmystyle, #inspired"
-  - username: "mialerouxx"
+    hashtags: "#celebratemzansi, #bts, #supportlocalbusiness, #iykyk"
+  - username: "siya_hashe"
     fullname: >-
-      M I A  L U C I A 🐉
+      Siyamthanda Hashe 🤍
+    bio: >-
+      Beauty, Fashion & Lifestyle 📍Cape Town 📚👩🏽‍🎓 Chair: @amaqhawekazi_ec 💎
     location: "South Africa"
-    followers: 20655
-    engagement: 777
-    commentsToLikes: 0.072948
-    id: ck5c3pu29ztdn0i11pprd908a
+    followers: 6126
+    engagement: 1791
+    commentsToLikes: 0.083913
+    id: ckaoziugtm2q40i78y3toxzf0
     verified: false
-    hashtags: "#suchhardworkkk, #butsomeonesgottadoit, #goldenhour, #thelightofamillionstars"
+    hashtags: "#blackouttuesday"
+  - username: "loveslavephola"
+    fullname: >-
+      Phola Ayanda Gumede
+    bio: >-
+      🎈 DJ & co-founder of @homie.lover.friends 💌 hello@loveslavephola.com
+    location: "South Africa"
+    followers: 5309
+    engagement: 1439
+    commentsToLikes: 0.123240
+    id: ck6ue94z4pjh60j71frcj049g
+    verified: false
+    hashtags: "#go4th, #staysafe, #inspiredbythestreet, #beresponsible"
+  - username: "stillrainn"
+    fullname: >-
+      Rainn 👼🏼
+    bio: >-
+      Filmmaker & Digital creator for @skysins @teamskysins📍Cape Town, South Africa 🇿🇦
+    location: "South Africa"
+    followers: 30713
+    engagement: 1833
+    commentsToLikes: 0.052183
+    id: ckap7sii4ldcy0i78n04gwyk0
+    verified: false
+    hashtags: ""
+  - username: "ciara_tay_kruger"
+    fullname: >-
+      Ciara Taylor Kruger💋
+    bio: >-
+      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+    location: "South Africa"
+    followers: 5379
+    engagement: 1460
+    commentsToLikes: 0.142204
+    id: ckapbizlf021z0i78vsf48vsh
+    verified: false
+    hashtags: "#outfitoftheday, #fashionphotoshoot, #mothercity, #girlsswimwear"
   - username: "magaramirezz"
     fullname: >-
-      MARIA GABRIELA RAMIREZ 🦋
+      Maria Gabriela Ramirez 🦋
+    bio: >-
+      MADE IN 🇻🇪 Venezuela 🇿🇦 Currently in Cape Town, South Africa📍⚓️
     location: "South Africa"
-    followers: 6030
-    engagement: 1249
-    commentsToLikes: 0.086249
+    followers: 7322
+    engagement: 1548
+    commentsToLikes: 0.066614
     id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#mumbai, #losangeles, #hamburg, #ny"
-  - username: "moolattemusic"
+    hashtags: "#dubai, #hamburg, #model, #milan"
+  - username: "jamie_domburg"
     fullname: >-
-      Moo Latte
+      Jamie-Lee Domburg
+    bio: >-
+      God Fearing | Mom to Luca David 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Curvy Model @my_booker_models | TV presenter on @expressoshow on @sabc3
     location: "South Africa"
-    followers: 9214
-    engagement: 1170
-    commentsToLikes: 0.201726
-    id: ck6tj3jkj1xtv0j71exn2j5mx
+    followers: 8213
+    engagement: 1410
+    commentsToLikes: 0.069008
+    id: ck5c946w3ar020i11t2sy41yu
     verified: false
-    hashtags: "#jazzyguitar, #tidal, #jazzguitar, #logicpro"
+    hashtags: "#comebacktotown, #bodypositivity, #mombod, #effyourbeautystandards"
+  - username: "laraduplessis_x"
+    fullname: >-
+      Lara Du Plessis🦋
+    bio: >-
+      @kian_fourie_x 😽❤️ @lara.clarita_finsta :)
+    location: "South Africa"
+    followers: 2859
+    engagement: 2553
+    commentsToLikes: 0.099034
+    id: ckf5p6hq654zz0j230qfllqcp
+    verified: false
+    hashtags: ""
 cities:
   - name: Capetown
     link: /instagram/south-africa/capetown

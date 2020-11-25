@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top boxers Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #cutepatas5 #covid19 #petlicias3.
+  Find top boxers Instagram influencers in Brazil in 2020. Most popular hashtags: #dog #boxerlove #boxerdog #clubinhodosboxers.
 platform: Instagram
+hits: 49
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 49 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "monica_lagares"
+  - username: "leandrotorneiro"
     fullname: >-
-      Monica C Lagares 🇧🇷
+      Leandro Torneiro
+    bio: >-
+      919k no YouTube Patrocinadores:@lojadomecanico @boxersoldas @emasterelevadores Email Comercial: leandrotorneiro1@gmail.com
     location: "Brazil"
-    followers: 8037
-    engagement: 617
-    commentsToLikes: 0.116762
-    id: ckap8kd3dopjh0i78yzdyiikz
+    followers: 76819
+    engagement: 587
+    commentsToLikes: 0.017899
+    id: ck15rcxor7ayl0i19eo1g1jr4
     verified: false
-    hashtags: "#filhos, #cabelo, #augustocury, #trabaho"
+    hashtags: ""
   - username: "boxerboris_"
     fullname: >-
-      Boris🐾Itaúna/MG ⭐04/11/15🇧🇷
+      Boris 04/11/15⭐Shiro 07/01/18
+    bio: >-
+      Boris - Boxer, carinhoso e atrapalhado, embaixador @petmoove @labovetoficial @atelielacosdesol @dogtripbr Shiro - Akita, guloso e branquelo
     location: "Brazil"
-    followers: 12712
-    engagement: 865
-    commentsToLikes: 0.184999
+    followers: 13856
+    engagement: 768
+    commentsToLikes: 0.174989
     id: ck9we27ufi9kq0j78sqkxef6j
     verified: false
-    hashtags: "#ecpet2104, #cachorrosfofos, #millapetvip, #cookiebuccs3"
+    hashtags: "#akitaclub, #akitabranco, #atelielacosdesol, #boxerdog"
   - username: "peleantoniobb"
     fullname: >-
-      Pelé Antônio 🐾
+      ✨PELÉ ANTÔNIO ✨
+    bio: >-
+      •Boxer- adotado❤️ •Irmão da pretinha e tuca💜 •Porto Belo-SC📍 •Levando uma vida de cão🍃 •Paixão pelo mar⛵️ •Dieta biologicamente apropriada🥩 •Cupons⬇️📦
     location: "Brazil"
-    followers: 6104
-    engagement: 776
-    commentsToLikes: 0.325726
+    followers: 7556
+    engagement: 513
+    commentsToLikes: 0.284633
     id: ck9hbmfkahhoq0j784clte7us
     verified: false
-    hashtags: "#quatropatas, #3anos, #praias, #pets"
-  - username: "jonatanoliveira1989"
+    hashtags: "#boxersmile, #engajaamipets, #mar, #boxersofinstagram"
+  - username: "daniel_araujofg"
     fullname: >-
-      Jonatan “Maloqueiro"
+      DANIEL ARAÚJO 🇧🇷
+    bio: >-
+      "THE BRAZILIAN KING" 🇧🇷 Pro boxer: 3-0-0 (2 KO) 🏠 🇧🇷 BSB/MIAMI 🇺🇸
     location: "Brazil"
-    followers: 5085
-    engagement: 484
-    commentsToLikes: 0.022578
-    id: ck5hf7mdiw6cf0i11e9qqgkbl
+    followers: 2782
+    engagement: 1498
+    commentsToLikes: 0.128117
+    id: ck5qac7cpfmxq0i11rftsgxbt
     verified: false
-    hashtags: "#resili, #dartreinamento, #nakmuay, #repost"
+    hashtags: "#trabalho, #eua, #letsgo, #boxinglife"
   - username: "diariodeumtrio"
     fullname: >-
       Max,Sophie e Lucy 🐶
+    bio: >-
+      🧸 O mimado,a caçadora e a Godzilla 🐾 Somos 2 SRD e uma BOXER 👑 Emb.@madalojinhaoficial 🤝 Parc.@meuauau_oficial 🛍️ Cupons no link ↙️
     location: "Brazil"
-    followers: 10138
-    engagement: 663
-    commentsToLikes: 0.109415
+    followers: 11066
+    engagement: 732
+    commentsToLikes: 0.091573
     id: ck8t9uv2ppfwi0j78my50kbdl
     verified: false
-    hashtags: "#amepatas0204, #amepatas2904, #maxsophielucy, #amepatas0505"
-  - username: "daniel_araujofg"
-    fullname: >-
-      DANIEL ARAÚJO 🇧🇷
-    location: "Brazil"
-    followers: 2505
-    engagement: 1440
-    commentsToLikes: 0.117182
-    id: ck5qac7cpfmxq0i11rftsgxbt
-    verified: false
-    hashtags: "#familia, #winner, #campeao, #proboxing"
+    hashtags: "#eusouapequenasophie, #photooftheday, #ilovemydog, #eusouaboxerlucy"
   - username: "josecarlosmalato"
     fullname: >-
       josecarlosmalato
+    bio: >-
+      TV Host. RTP My Speaker’s Corner Pai de 2 boxers🐾 Reservado o direito de expulsão 7/3/64🐠 🌈👨‍❤️‍👨
     location: "Brazil"
-    followers: 46411
-    engagement: 173
-    commentsToLikes: 0.055933
+    followers: 49102
+    engagement: 208
+    commentsToLikes: 0.035835
     id: ck5zva5ql3uhg0i14b5fin58z
     verified: true
-    hashtags: "#pesamentospandemicos, #amoresdopai, #sinatra, #quarentena"
+    hashtags: "#tiobabado, #josecarlosmalato, #paideboxers, #gemeos"
+  - username: "bossmanvenom"
+    fullname: >-
+      Darren Venom Goodall
+    bio: >-
+      👊 Pro Boxer 5-0(4KO) 🐍 Owner Of @venomfitness_osprey 🐉 @dragonpharma_llc Bossman10 🥊 VIRTUAL PAD WEBSITE NOW LIVE!
+    location: "Brazil"
+    followers: 169448
+    engagement: 98
+    commentsToLikes: 0.029835
+    id: ck5hj0hyefsh90i11hxmggeby
+    verified: false
+    hashtags: "#boxing, #boxingtraining, #boxingworkout, #tips"
   - username: "patrickteixeiraboxing"
     fullname: >-
       Patrick Teixeira
+    bio: >-
+      Campeão Mundial / World Champ (WBO) 🌍 Numero #1 do 🇧🇷 Pro Boxer 31 -1 (KO 22) Signed to Golden Boy Promotions/ IBG Sombrio, SC / Oxnard,CA 🇧🇷🇺🇸
     location: "Brazil"
-    followers: 12217
-    engagement: 666
-    commentsToLikes: 0.027802
+    followers: 13277
+    engagement: 540
+    commentsToLikes: 0.044103
     id: ck5pxyahktg7i0i11kjgaj1vp
     verified: true
-    hashtags: "#wbokocovid19, #worldchampion, #brasil, #fiqueemcasa"
+    hashtags: "#teamteixeira, #ibgboxing, #repost, #goldenboyboxing"
   - username: "proper_alpha_boxers"
     fullname: >-
       Proper Alpha Boxers
+    bio: >-
+      Boxer dogs breeding 🐶🇵🇹 Usa o link para teres 25% de desconto no teu plano @barkyn ⬇️⬇️⬇️
     location: "Brazil"
     followers: 54900
     engagement: 127
     commentsToLikes: 0.007880
     id: ck136r2p37ubj0i19n17d6913
     verified: false
-    hashtags: "#coronaout, #thebeagleworld, #beaglelove, #beaglelover"
-  - username: "rogertfranco"
+    hashtags: "#boxerdog, #boxerlovers, #pet, #boxerdogfans"
+  - username: "os.boxers"
     fullname: >-
-      Roger Franco
+      ➤ ♀️ ʙᴇʟʟᴀ, ʙᴏʙʏ ᴇ ᴅᴜᴋᴇ ♂️
+    bio: >-
+      DESATIVADOS!! 💜| ʙᴇʟʟᴀ 🐶| ʙᴏxᴇʀ c/ ᴘʀᴏɢɴᴀᴛɪꜱᴍᴏ ɪɴꜰᴇʀɪᴏʀ ♀️| ꜰêᴍᴇᴀ 🎂| 26/11/18 . 💙| ʙᴏʙʏ 🐶| ʙᴏxᴇʀ ♂️| ᴍᴀᴄʜᴏ 🎂| 18/10/14 . 🌎| ʀꜱ 📦| ᴘᴀʀᴄᴇʀɪᴀꜱ ᴅᴅ/ᴇᴍᴀɪʟ
     location: "Brazil"
-    followers: 8084
-    engagement: 1182
-    commentsToLikes: 0.047150
-    id: ck5byspnnprp40i11yh54m389
+    followers: 9937
+    engagement: 1056
+    commentsToLikes: 0.107601
+    id: ckf5sgja3fgzy0j23jfxb8afm
     verified: false
-    hashtags: "#bodypositivity, #circuitx, #untiltomorrow, #circuitfestival"
+    hashtags: "#divulgaengajapets, #clubinhodosboxers, #amigosdakim, #quart"
 ---

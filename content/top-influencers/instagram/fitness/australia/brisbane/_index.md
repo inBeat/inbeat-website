@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top fitness Instagram influencers in Brisbane in 2020. Most popular hashtags: #fitness #style #brisbane #coffee.
+  Find top fitness Instagram influencers in Brisbane in 2020. Most popular hashtags: #fitness #motivation #australia #goldcoast.
 platform: Instagram
+hits: 55
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 55 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
-  - username: "tiahli.poelingoer"
+  - username: "masphoto.official"
     fullname: >-
-      T
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM or info@masphoto.com.au https://facebook.com/masphoto.official
     location: "Australia"
-    followers: 2966
-    engagement: 898
-    commentsToLikes: 0.082812
-    id: ck5bzhffnr5e90i1143hy6wua
+    followers: 5106
+    engagement: 553
+    commentsToLikes: 0.033931
+    id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: ""
+    hashtags: "#fit, #brisbaneboudoirphotographer, #fitnessgraphy, #vibes"
   - username: "rachelthaiday"
     fullname: >-
       Rachel Thaiday
+    bio: >-
+      RFT®️L2 Certified Enquires: contact@rachelthaiday.com Travel | Fitness | Lifestyle @brisbaneracingclub Ambassador 🐎
     location: "Australia"
     followers: 16317
     engagement: 185
     commentsToLikes: 0.038158
     id: ck5c5mwgv3s0y0i11ad78wen6
     verified: false
-    hashtags: "#throwbackthaiday, #dailyroutine, #cantwait, #goodhairday"
-  - username: "fitbae__"
+    hashtags: "#workout, #justmove, #pilates, #rehab"
+  - username: "wayannn26"
     fullname: >-
-      fitbae • Shea
+      Wayne | wayan26
+    bio: >-
+      Fashion | Fitness | Photography 📍Brisbane, Australia Tiktok: Wayan26 (490k+) @vpa_australia 15% off 📩: wayan26@outlook.com ⬇️All Links Below ⬇️
     location: "Australia"
-    followers: 2602
-    engagement: 900
-    commentsToLikes: 0.167076
-    id: ck5zsabm9y4640i142ygm2qdd
+    followers: 45172
+    engagement: 2540
+    commentsToLikes: 0.019613
+    id: ck8wgihpshfl80j78mukv02da
     verified: false
-    hashtags: "#lilybod, #lilybodbabe"
+    hashtags: "#single, #pov, #asian, #kabedon"
   - username: "raimeeleigh.fitfood"
     fullname: >-
       Raimee Leigh Brook
+    bio: >-
+      ADF Electrician ╳ Nutrition ╳ Fitness Foodie 🍌 ⇸ Brisbane, Australia 🍍 ❥ PB & Coffee Lover ! ☕️ 𖥸 @fitcoveraustralia d|c ~ RAIMEEB
     location: "Australia"
-    followers: 15716
-    engagement: 695
-    commentsToLikes: 0.698724
+    followers: 16217
+    engagement: 639
+    commentsToLikes: 0.714147
     id: ck13cn5e616ac0i19f96d4uj9
     verified: false
-    hashtags: "#auntbettys, #plantlifefoodco, #glutenfree, #magimix"
-  - username: "chelseamitchell_99x"
+    hashtags: "#auntbettys, #plantlifefoodco"
+  - username: "fitbae__"
     fullname: >-
-      CHELSEA MITCHELL
+      fitbae • Shea
+    bio: >-
+      Pro Soccer Player | NASM CPT ⁣⁣⁣ Workouts & Fitness Motivation ❣️⁣ Brisbane, Australia 📍⁣ ⁣ @sheaaaaa ⁣⁣ 💕⁣ ⁣
     location: "Australia"
-    followers: 32226
-    engagement: 177
-    commentsToLikes: 0.014226
-    id: ckaorou2no5zz0i789yvi2i6f
+    followers: 2700
+    engagement: 727
+    commentsToLikes: 0.127392
+    id: ck5zsabm9y4640i142ygm2qdd
     verified: false
-    hashtags: "#latte, #personalstyle, #minimalismo, #homestyling"
-  - username: "scottprince7"
+    hashtags: "#fitnessmotivation, #goldcoast, #absworkout, #fitgirls"
+  - username: "dralexhynes"
     fullname: >-
-      scottprince7
+      Dr Alex Hynes-Bondi Vet 🇦🇺
+    bio: >-
+      🐾 Veterinary Emergency📍AES Brisbane 🇦🇺 👊🏼Fitness|Motherhood| Mindset 🎥 Stories of critically ill pets @bondi_vet 🩺 Co-Fndr Vet Success Academy
     location: "Australia"
-    followers: 42470
-    engagement: 126
-    commentsToLikes: 0.019474
-    id: ck55n9n3l5r5e0i1192990dps
-    verified: true
-    hashtags: "#rugbyleague, #2007, #supersaturdaysession, #rebelrunning"
-  - username: "morgsfit"
-    fullname: >-
-      Morgan Dor | Fitness Model
-    location: "Australia"
-    followers: 5749
-    engagement: 1852
-    commentsToLikes: 0.086208
-    id: ck9haszqte0200j78nmeaj38h
+    followers: 30547
+    engagement: 318
+    commentsToLikes: 0.048352
+    id: ck5hgf5m72g0w0i11f5qxbf0z
     verified: false
-    hashtags: ""
-  - username: "jade.syrett"
+    hashtags: "#vettech, #veterinarian, #vetstudent, #vetlife"
+  - username: "jenniferchiuu"
     fullname: >-
-      JADE
+      JEN | Social Media + Mindset
+    bio: >-
+      👩🏻‍💻 Helping small businesses scale through strategic social media management @8xdigital_ 💡 TikTok 13k 💌 j.jennifer_c@outlook.com ⬇️ Book a call
     location: "Australia"
-    followers: 56325
-    engagement: 259
-    commentsToLikes: 0.061708
-    id: ck13a1y82o8060i19gci5msnb
+    followers: 6190
+    engagement: 615
+    commentsToLikes: 0.282753
+    id: ck0w4wcmv0qbw0i19xqq0drvb
     verified: false
-    hashtags: "#surf, #portraitpage, #aussiegirls, #selfietime"
-  - username: "islarosesinclair"
+    hashtags: "#businesschicks, #businesswomen, #frenchvibes, #reels"
+  - username: "cruzbriggs"
     fullname: >-
-      Isla Rose Sinclair
+      Cruz Briggs
+    bio: >-
+      🔹Muaythai and K1 Fighter 👉 @cruzbriggs_fitness 🥊 22f 17W 5L 11KO 🏅PRO ISKA K1 Aus champion 🏅PRO WKBF Aus champion 🏅Amateur WKBF world champion Z&H❤️
     location: "Australia"
-    followers: 21519
-    engagement: 487
-    commentsToLikes: 0.123222
-    id: ck6tmpuu88aql0j71a7h5ru4u
+    followers: 2583
+    engagement: 1123
+    commentsToLikes: 0.053265
+    id: ck8szeipto3mq0j78811i8gfp
     verified: false
-    hashtags: "#longhairstyles, #autumnfashion, #skates, #models"
-  - username: "lachlanfort"
+    hashtags: "#cruzbriggsfitness, #nakmuay, #muaythai, #family"
+  - username: "glamourgirl.xo"
     fullname: >-
-      LOCKY ZEE
+      Isabella Jones
+    bio: >-
+      ONE OF A KIND 🕊 ♦ Freelance Model • Content Creator ♦ ☆ Taurus • 23 • Gold Coast ☆ ⤷ Email/DM for Enquires
     location: "Australia"
-    followers: 2209
-    engagement: 1541
-    commentsToLikes: 0.080169
-    id: ckaoqq89njuy10i78l3a9soeh
+    followers: 9653
+    engagement: 534
+    commentsToLikes: 0.067745
+    id: ckf5odx3f1vau0j23b8531jhs
     verified: false
-    hashtags: "#flight, #wakeupcall, #breakfast, #energy"
+    hashtags: "#glamourgirl, #model, #beauty, #goldcoast"
+  - username: "apasionese"
+    fullname: >-
+      Justin Chong
+    bio: >-
+      Internationally Published Photographer Based in Singapore Taking a short break at the moment to get my life back together
+    location: "Australia"
+    followers: 65141
+    engagement: 187
+    commentsToLikes: 0.009276
+    id: ck5ca6fetcsfe0i1177qr7j80
+    verified: false
+    hashtags: "#shredded, #fitnessmodel, #classicphysique, #muscular"
 ---

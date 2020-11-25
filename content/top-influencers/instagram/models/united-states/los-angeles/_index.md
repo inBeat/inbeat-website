@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top models Instagram influencers in Los Angeles in 2020. Most popular hashtags: #quarantine #beautiful #family #smile.
+  Find top models Instagram influencers in Los Angeles in 2020. Most popular hashtags: #love #halloween #model.
 platform: Instagram
+hits: 976
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 976 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
+  - username: "paigewoolen"
+    fullname: >-
+      Paige Woolen
+    bio: >-
+      Essential Stay At Home Grass-Fed Model© // los angeles, california creator of @dudesinthedm
+    location: "United States"
+    followers: 209459
+    engagement: 465
+    commentsToLikes: 0.036485
+    id: ck0vuwe0gmgu50i190l1sp1wv
+    verified: false
+    hashtags: ""
   - username: "beaurose_"
     fullname: >-
       BO ROSE
+    bio: >-
+      FITNESS COACH 💪🏾 MODEL Los Angeles, CA 🌴
     location: "United States"
-    followers: 95357
-    engagement: 1189
-    commentsToLikes: 0.030610
+    followers: 118859
+    engagement: 944
+    commentsToLikes: 0.017389
     id: ck0w61jb76gvn0i19eghzqtub
     verified: false
-    hashtags: "#beclean, #becomenutrition, #ifeellikethesearedifferentmen, #dicksportinggoods"
-  - username: "taneemccall"
-    fullname: >-
-      Tanee
-    location: "United States"
-    followers: 6089
-    engagement: 890
-    commentsToLikes: 0.128377
-    id: ck5zvy66w54s40i142cn1i9ns
-    verified: false
-    hashtags: "#family, #butsoinlove, #sweetsixteen, #bliss"
-  - username: "jaygould_"
-    fullname: >-
-      Jay Gould
-    location: "United States"
-    followers: 301940
-    engagement: 688
-    commentsToLikes: 0.016218
-    id: ck0u2gr61zy9m0i199pgl29m6
-    verified: false
-    hashtags: "#forbetterrecovery, #hairgettinglong, #growth, #forbettereverything"
-  - username: "sidneynicolerogers"
-    fullname: >-
-      Sidney Nicole Rogers
-    location: "United States"
-    followers: 5270
-    engagement: 829
-    commentsToLikes: 0.101762
-    id: ckapa3p4dukzb0i78tvkq08wo
-    verified: false
-    hashtags: "#curl, #melanin, #curlynaturalhair, #afro"
+    hashtags: "#lostfiles, #throwbackmonday, #motivationmonday"
   - username: "ashbydrake"
     fullname: >-
       ashby
+    bio: >-
+      DJ & Dog mama Promoter of love, light and equal rights Yoga instructor @ashbyyoga NTA models • Los Angeles 🐾🎧🎨🧘‍♀️👽🌈
     location: "United States"
-    followers: 16261
-    engagement: 805
-    commentsToLikes: 0.044013
+    followers: 16563
+    engagement: 721
+    commentsToLikes: 0.053379
     id: ck5hmc06ulom20i11grhqpfkh
     verified: false
-    hashtags: "#malamutebaby, #edmevents, #zaful, #zafulbikini"
-  - username: "autumnaspires"
+    hashtags: "#babyboy, #louisville, #princetonlane, #merrychristmas"
+  - username: "sidneynicolerogers"
     fullname: >-
-      Autumn Grace
+      Sidney Nicole Rogers
+    bio: >-
+      Actress/Writer/Model Los Angeles, CA 1/2 of Mud Girls - @mudgirls on Tik Tok
     location: "United States"
-    followers: 40702
-    engagement: 308
-    commentsToLikes: 0.082136
-    id: ck5zse0usyboa0i14cnolt9bi
+    followers: 6569
+    engagement: 529
+    commentsToLikes: 0.089393
+    id: ckapa3p4dukzb0i78tvkq08wo
     verified: false
-    hashtags: "#fatpositive, #rolls, #socal, #gifted"
-  - username: "paigewoolen"
-    fullname: >-
-      Paige Uncaged
-    location: "United States"
-    followers: 171683
-    engagement: 415
-    commentsToLikes: 0.027919
-    id: ck0vuwe0gmgu50i190l1sp1wv
-    verified: false
-    hashtags: "#quarantitties, #daytimenightclub, #rockstarbabes, #thefacetimeseries"
-  - username: "valentinaruby"
+    hashtags: "#snr, #viaoils, #jbco, #probiotic"
+  - username: "mae.col"
     fullname: >-
       
+    bio: >-
+      next models · los angeles
     location: "United States"
-    followers: 31839
-    engagement: 401
-    commentsToLikes: 0.019609
-    id: ck0twanj8endt0i19uil94bhy
+    followers: 108918
+    engagement: 895
+    commentsToLikes: 0.006103
+    id: ck6tpg0j3jnlf0j71p8394r2w
     verified: false
     hashtags: ""
+  - username: "aliromo89"
+    fullname: >-
+      Martha Romo
+    bio: >-
+      Publish model. Los Angeles DM for shoots 📸🇫🇷🇲🇽 Mom 😇🐶 No Nudes Backup account: @aliromo.2
+    location: "United States"
+    followers: 135896
+    engagement: 239
+    commentsToLikes: 0.033047
+    id: ck6tlwa176r4a0j71vsh3tgth
+    verified: false
+    hashtags: "#model, #love, #staysafe, #fitmom"
+  - username: "contrashelby"
+    fullname: >-
+      Shelby
+    bio: >-
+      🇲🇽 Makeup artist/model Los Angeles, CA Business: contrashelby@gmail.com 🖤
+    location: "United States"
+    followers: 72579
+    engagement: 492
+    commentsToLikes: 0.015460
+    id: ck0txihgpj9wi0i19jiu00nk8
+    verified: false
+    hashtags: "#halloween, #colourpopme, #graphicliner, #makeupofinstagram"
   - username: "lynneasmitherzz"
     fullname: >-
       Lynnea Smith
+    bio: >-
+      🌻Real Estate Agent and Model 🏡 @listingwithlynnea //Ford Models Chicago // O Models Los Angeles//Osbrink Agency
     location: "United States"
-    followers: 12006
-    engagement: 648
-    commentsToLikes: 0.015704
+    followers: 11878
+    engagement: 553
+    commentsToLikes: 0.019907
     id: ck0w5aswa2qm50i19s4m1k496
     verified: false
-    hashtags: "#morebeachdays, #yogi"
-  - username: "aliromo89"
+    hashtags: "#wichita, #bookstagram, #whattoreadnext, #ictrealestate"
+  - username: "taneemccall"
     fullname: >-
-      Ali Romo
+      Tanee
+    bio: >-
+      she/her Actor/Dancer/O Models Los Angeles, CA
     location: "United States"
-    followers: 132878
-    engagement: 192
-    commentsToLikes: 0.038254
-    id: ck6tlwa176r4a0j71vsh3tgth
+    followers: 6168
+    engagement: 655
+    commentsToLikes: 0.126851
+    id: ck5zvy66w54s40i142cn1i9ns
     verified: false
-    hashtags: "#tattoo, #stayathome, #happy, #sexy"
+    hashtags: "#love, #newborn, #quarantinebaby, #baby"
+  - username: "katerinakraz"
+    fullname: >-
+      Katya♈️
+    bio: >-
+      Appreciate what you have. Nothing will be the same in a year. Model. Los Angeles. 📩 katerinakraz01@gmail.com
+    location: "United States"
+    followers: 218110
+    engagement: 222
+    commentsToLikes: 0.018742
+    id: ck8systg0lvg00j786llnldas
+    verified: false
+    hashtags: "#lamodel, #swimmo, #fun, #dance"
 ---

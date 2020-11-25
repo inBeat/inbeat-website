@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In New York In 2020
 description: >-
-  Find top health Instagram influencers in New York in 2020. Most popular hashtags: #health #newyorkcity #newyork #love.
+  Find top health Instagram influencers in New York in 2020. Most popular hashtags: #health #newyork #fitness.
 platform: Instagram
+hits: 348
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 348 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "benjiaus"
+  - username: "ruben_stouth"
     fullname: >-
-      BENJI
+      Ruben🇵🇷 | Fitness Coach
+    bio: >-
+      🙏Son of God 🏋🏾‍♂️Certified PT @rbfitness_ny 💎Inquiries: stouthfitness@gmail.com 💻Online Coach 👇🏾 Train With Me
     location: "United States"
-    followers: 80913
-    engagement: 610
-    commentsToLikes: 0.013171
-    id: ck600jxzwdqot0i14r8pcaybv
+    followers: 24490
+    engagement: 708
+    commentsToLikes: 0.020106
+    id: ckaoy2tunftri0i78gxn66z8d
     verified: false
-    hashtags: "#sweats, #block, #motivation, #sydneyharbour"
-  - username: "emilykellerockwell_np"
+    hashtags: "#motivaron, #instafit, #healthy, #gymmotivation"
+  - username: "_inspiredbykrys"
     fullname: >-
-      Emily Keller Rockwell | NP-C
+      Krys | Content Strategist
+    bio: >-
+      Gods plan, always. Owner of @cliquebait.creative — Helping brands tell their story on social + IRL 📍Brooklyn, NY
     location: "United States"
-    followers: 22690
-    engagement: 211
-    commentsToLikes: 0.215731
-    id: ck5c4b7ez0zhs0i11fremmik0
+    followers: 6731
+    engagement: 1033
+    commentsToLikes: 0.111872
+    id: ckaosw7p2takh0i78y5fr9t9d
     verified: false
-    hashtags: "#delawarejobs, #peace, #blogger, #covid"
+    hashtags: "#blackgirlmagic, #plantsofinstagram, #contentcreator, #inspiredbykrys"
   - username: "feedyourglow"
     fullname: >-
       Sua Park
+    bio: >-
+      nutrition || wellness || skin health ✨ new york city 🍃 mostly plant-based FREE skin superfoods guide, tips, and recipes
     location: "United States"
-    followers: 90497
-    engagement: 195
-    commentsToLikes: 0.035564
+    followers: 86715
+    engagement: 188
+    commentsToLikes: 0.036235
     id: ck5zyrq5oaeqp0i14b3ag8m36
     verified: false
     hashtags: "#feedyourglow, #ricemaderighter"
   - username: "benjaminjgoldman"
     fullname: >-
       ben goldman
+    bio: >-
+      hunter college masters candidate, mental health counseling • NEW YORK, NY • #stayhome
     location: "United States"
     followers: 23770
     engagement: 139
     commentsToLikes: 0.043055
     id: ck13b1ygytakj0i19vby0zdle
     verified: false
-    hashtags: "#mentalhealth, #attachmenttheory, #selflove, #knowthyself"
-  - username: "dandan.lee"
+    hashtags: "#inspiration, #mentalhealth, #attachmenttheory, #selflove"
+  - username: "daisy_robinton"
     fullname: >-
-      Danielle Wright 👑
+      Daisy Robinton, PhD
+    bio: >-
+      I delight in the unseen + unexpected wonders of the world ✨🌍 Molecular Biologist 🧬 Writer ✍🏼 Advocate ✊🏼 Science Communicator 👩🏼‍🔬 Watch my TEDx👇🏼
     location: "United States"
-    followers: 9855
-    engagement: 921
-    commentsToLikes: 0.063815
-    id: ck0w19ejyi7eo0i19s0y9owa6
+    followers: 11278
+    engagement: 793
+    commentsToLikes: 0.038325
+    id: ck8t2z2ks198p0j78jg2rxjgw
     verified: false
-    hashtags: "#bedstuy, #lifestyle, #filmphotography, #indigohouse"
-  - username: "alan_filauro"
+    hashtags: "#foodforthought, #womenempowerment, #wearamask, #breathe"
+  - username: "lyss"
     fullname: >-
-      Alan Filauro ༄
+      Lyss
+    bio: >-
+      Trust the process ❤️ Tiktok @Lyss Creator, singer, writer, traveler Hello@lyssboss.com ✨✨✨✨
     location: "United States"
-    followers: 20806
-    engagement: 244
-    commentsToLikes: 0.127668
-    id: ck8szjxkwoqh90j78i18t8hg9
-    verified: false
-    hashtags: "#instadaily, #food, #photooftheday, #trainhard"
-  - username: "al3xandrova"
-    fullname: >-
-      Al3xAndrovA
-    location: "United States"
-    followers: 17450
-    engagement: 931
-    commentsToLikes: 0.014604
-    id: ck0uekuu8livk0i193b01oqp3
-    verified: false
-    hashtags: "#femaledjs, #amazonfire, #isitpinkenough, #cupanifashion"
-  - username: "sunstatecustoms"
-    fullname: >-
-      Sun State Customs
-    location: "United States"
-    followers: 30079
-    engagement: 622
-    commentsToLikes: 0.017206
-    id: ck0ttcayg23lp0i19cv09bd0x
-    verified: false
-    hashtags: "#pretty, #stayhealthy, #bunny, #oceanview"
-  - username: "claudiasaezfromm"
-    fullname: >-
-      Claudia Saez-Fromm
-    location: "United States"
-    followers: 17454
-    engagement: 68
-    commentsToLikes: 0.073954
-    id: ck0w77882c40n0i19oexw1985
-    verified: false
-    hashtags: "#chelsea, #blairwaldorf, #monday, #replanoly"
-  - username: "felixfischerhair"
-    fullname: >-
-      BESPOKE FELIX FISCHER
-    location: "United States"
-    followers: 236145
-    engagement: 128
-    commentsToLikes: 0.002392
-    id: ck15r37kd5wz90i19bul49wvp
+    followers: 1766176
+    engagement: 101
+    commentsToLikes: 0.007368
+    id: ck0u87hng6m1w0i19aeu1nim9
     verified: true
-    hashtags: "#sayuribloom, #love, #healthylifestyle, #dontrepeatyourself"
+    hashtags: "#museumoficecream, #health, #vlog, #newyork"
+  - username: "ro54d"
+    fullname: >-
+      Rodrigo Garduño
+    bio: >-
+      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. @54d.us 🇺🇸/@54d.mx🇲🇽/@54d.col🇨🇴
+    location: "United States"
+    followers: 1025537
+    engagement: 247
+    commentsToLikes: 0.038116
+    id: ck5cf0o7tm3c40i11cmvoo431
+    verified: false
+    hashtags: "#rodrigogardu, #ny, #training, #miamiflorida"
+  - username: "love_yvettepriscilla"
+    fullname: >-
+      Yvette Priscilla 🍔
+    bio: >-
+      This is the part where everyone likes to flex their accomplishments. Alpha Woman Empowering women 💪🏻 🩺🔮 Stay the course
+    location: "United States"
+    followers: 11189
+    engagement: 753
+    commentsToLikes: 0.029209
+    id: ck6uchboefm0l0j714ii087gn
+    verified: false
+    hashtags: "#lasvegasblog, #lasvegasblogger, #colorado, #vegas"
+  - username: "chris_algieri"
+    fullname: >-
+      Chris Algieri
+    bio: >-
+      Former WBO World Boxing Champion and ISKA+WKA World Kickboxing Champion Author of The Fighter’s Kitchen #ChampionLifestyle Puchase my book 📚 👇🏼👇🏼
+    location: "United States"
+    followers: 74068
+    engagement: 146
+    commentsToLikes: 0.020034
+    id: ck14k5z8znwa50i190iks7rzd
+    verified: true
+    hashtags: "#quarantine, #motivation, #throwbackthursday, #ny"
+  - username: "khalidalbaih"
+    fullname: >-
+      @Khalidalbaih
+    bio: >-
+      ‘18 Guest artist of #CPH '18 Africa 100 Influential People ‘19 Soros Art Fellow ‘19 PEN FREEDOM Fellow. Founder: @getfadaa_ @dohafashionfridays
+    location: "United States"
+    followers: 30541
+    engagement: 232
+    commentsToLikes: 0.021632
+    id: ck5hsbwm6wbzr0i11d1ehb3ol
+    verified: false
+    hashtags: "#covid, #corona, #khartoon, #stencilart"
 ---

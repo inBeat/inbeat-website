@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Canada In 2020
 description: >-
-  Find top vegan TikTok influencers in Canada in 2020. Most popular hashtags: #coronavirus #coffee #vegan #love.
+  Find top vegan TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
 platform: TikTok
+hits: 128
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 128 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "elie.fourchette"
+  - username: "tania_heath"
     fullname: >-
-      elie.fourchette
+      Tania Heath
+    bio: >-
+      31. She/Her. 🏳️‍🌈 Newfoundland, Canada. 🇨🇦 Photographer. 📸 Baby vegan. 🌱
     location: "Canada"
-    followers: 19798
-    engagement: 1869
-    commentsToLikes: 0.048444
-    id: ck9bxqib3mq550j78sv5qhynv
+    followers: 8598
+    engagement: 1071
+    commentsToLikes: 0.109475
+    id: ckajk9kpqp6lp0i786mnykm3r
     verified: false
-    hashtags: "#mwah, #veganfood, #foodrecepie, #nofilter"
-  - username: "alexanderbischoff1"
-    fullname: >-
-      Alexander Bischoff
-    location: "Canada"
-    followers: 29290
-    engagement: 1983
-    commentsToLikes: 0.018986
-    id: ck807cmtgpvdw0j78unh4ff7v
-    verified: false
-    hashtags: "#allorganic, #familyday, #gymtime, #milk"
+    hashtags: "#femme, #over30, #gaytiktok, #lgbt"
   - username: "findbex"
     fullname: >-
       Bex 
+    bio: >-
+      Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
     location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
+    followers: 38500
+    engagement: 1636
+    commentsToLikes: 0.028580
     id: ck961zc8romyz0j78v1axqnn5
     verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "jon_thevegan"
+    hashtags: "#plasticfreejuly, #recipe, #foodblogger, #explorebclocal"
+  - username: "patrickaramouni"
     fullname: >-
-      Jonathan_Shopik
+      Patrick Aramouni
+    bio: >-
+      Vegan Athlete • Recipes • Workouts • Lifestyle 👇for online Coaching. 🇨🇦
     location: "Canada"
-    followers: 10334
-    engagement: 586
-    commentsToLikes: 0.062732
-    id: ck8074594ok6p0j78bktsw0lx
+    followers: 153300
+    engagement: 595
+    commentsToLikes: 0.058319
+    id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#lockdown, #feminst, #physio, #virus"
-  - username: "biggaywhalen"
+    hashtags: "#random, #masculine, #naked, #vegan"
+  - username: "jasonfonger"
     fullname: >-
-      Laura Whalen
+      Jason Fonger
+    bio: >-
+      The Vegan Champion Podcast 🎤🌱🏆🔈 👂Listen on Spotify👇
     location: "Canada"
-    followers: 58225
-    engagement: 1672
-    commentsToLikes: 0.013296
-    id: ck94l51z6xvxn0j78qlpry7ok
+    followers: 235400
+    engagement: 1027
+    commentsToLikes: 0.293234
+    id: ckbqtpc00ectg0j230q3ccn3a
     verified: false
-    hashtags: "#learnfromme, #snugs, #makeup, #cardi"
-  - username: "plantyou"
+    hashtags: "#animallover, #healthy, #veganactivist, #plantbased"
+  - username: "tushietweet"
     fullname: >-
-      Plant You
+      Jenna
+    bio: >-
+      artist 🎨 lesbian 🏳️‍🌈 canadian 🇨🇦 vegan 🌱
     location: "Canada"
-    followers: 21757
-    engagement: 697
-    commentsToLikes: 0.016106
-    id: ck8tu6tomsbzr0j78iaz87gjv
+    followers: 3033
+    engagement: 1342
+    commentsToLikes: 0.048247
+    id: ck80ob37ggi0a0j78dwgc0qsg
     verified: false
-    hashtags: "#smoothierecipe, #littlethings, #inthegarden, #gardenlife"
-  - username: "farmersean"
+    hashtags: "#fyp, #retailtherapy, #shrimptank, #foryoupage"
+  - username: "thiccvegan"
     fullname: >-
-      Farmer Sean
+      Adam
+    bio: >-
+      Vegan between meals, of course 🇨🇦
     location: "Canada"
-    followers: 118399
-    engagement: 928
-    commentsToLikes: 0.008024
-    id: ck9tujfphm4op0j787ithrrvs
+    followers: 2227
+    engagement: 526
+    commentsToLikes: 0.053516
+    id: ckc20crcd415s0j23o8w40qih
     verified: false
-    hashtags: "#pony, #shoecheck, #engeneering, #squishy"
-  - username: "cyleeide"
+    hashtags: "#dayschallenges, #foryoupage, #comedy, #funny"
+  - username: "alexanddouglas"
     fullname: >-
-      Cyle Eide
+      Alex Bischoff
+    bio: >-
+      Canadian 🍁Vegan 🌱 Digital artists📸 👬 IG @Alexbischoff Art @bischoffstudio
     location: "Canada"
-    followers: 7935
-    engagement: 441
-    commentsToLikes: 0.051625
-    id: ck8w487d187qi0j78aalqa21u
+    followers: 45100
+    engagement: 1161
+    commentsToLikes: 0.018060
+    id: ck807cmtgpvdw0j78unh4ff7v
     verified: false
-    hashtags: "#dance, #cleaningszn, #happyeaster, #dailystorytime"
-  - username: "gralynj.photography"
+    hashtags: "#vancouver, #lgbtq, #boyfriends, #gays"
+  - username: "charlesdesantis"
     fullname: >-
-      Gralyn J. Boyd
+      Charlesdesantis
+    bio: >-
+      On aime bin ça les smoothies 🥥 #vegan cooking 🧑‍🍳
     location: "Canada"
-    followers: 20707
-    engagement: 2269
-    commentsToLikes: 0.043758
-    id: ck976v7m91ez60j78tnoq5xli
+    followers: 18000
+    engagement: 707
+    commentsToLikes: 0.029185
+    id: ckd06a2w1a69x0j23jf7kdr8j
     verified: false
-    hashtags: "#lordhelpme, #anxiety, #open, #transfer"
-  - username: "manylights"
+    hashtags: "#smoothiebowl, #quebec, #foodtruck, #smoothiebowls"
+  - username: "by.andreja"
     fullname: >-
-      ManyLights
+      by.andreja
+    bio: >-
+      YouTube 🎥 By Andreja Vegan Baking | My Dog Charlie | New Mama IG | by.andreja
     location: "Canada"
-    followers: 14030
-    engagement: 676
-    commentsToLikes: 0.131493
-    id: cka0yv5ascs7c0i780czvub5n
+    followers: 8311
+    engagement: 709
+    commentsToLikes: 0.026242
+    id: ckauwtt9m25nj0j23p4nvnc6q
     verified: false
-    hashtags: "#food, #calisthenics, #southindia, #tamil"
+    hashtags: "#babyontheway, #fyp, #babygirl, #pregnant"
+  - username: "michelle.sargent"
+    fullname: >-
+      Michelle Sargent
+    bio: >-
+      Health, veganism and food videos 🌱 Insta & YouTube: PlantishDelights
+    location: "Canada"
+    followers: 2894
+    engagement: 897
+    commentsToLikes: 0.041727
+    id: ckfplcc86018s0j23s1u987th
+    verified: false
+    hashtags: "#vegans, #fyp, #plantbasedvegan, #govegan"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Sydney In 2020
 description: >-
-  Find top beauty Instagram influencers in Sydney in 2020. Most popular hashtags: #isolation #beauty #covid #home.
+  Find top beauty Instagram influencers in Sydney in 2020. Most popular hashtags: #beauty #australia #fashion #makeup.
 platform: Instagram
+hits: 130
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 130 Instagram influencers like this in Sydney, Australia for you to collaborate.
 profiles:
-  - username: "zarakhan"
+  - username: "sma.au"
     fullname: >-
-      Zara Khan
+      Striking Models Agency 🇦🇺
+    bio: >-
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
     location: "Australia"
-    followers: 86374
-    engagement: 216
-    commentsToLikes: 0.048758
-    id: ck0u2ewikzpv70i191fnn8x4g
-    verified: true
-    hashtags: "#omg, #tiktokdance, #loveyourself, #beauty"
+    followers: 91588
+    engagement: 9
+    commentsToLikes: 0.024599
+    id: ckaoxw09eezxz0i78z14ggye0
+    verified: false
+    hashtags: ""
+  - username: "picturesnme"
+    fullname: >-
+      Zubair Aslam
+    bio: >-
+      Photographer ➕ Instagram Mentor 📍Australia 📧 Email to book a shoot 📧 Email for 1 on 1 workshops COACHING⬇️
+    location: "Australia"
+    followers: 225117
+    engagement: 178
+    commentsToLikes: 0.018148
+    id: ck0vw7uvwshwi0i19r4vekv4d
+    verified: false
+    hashtags: "#ig, #portrait, #idealportrait, #seeaustralia"
+  - username: "matilda_murray_"
+    fullname: >-
+      Matilda Murray
+    bio: >-
+      beauty & biz (sydney based) co- owner @staxofficial_ podcast host @thesauce_withdonandtil
+    location: "Australia"
+    followers: 57705
+    engagement: 230
+    commentsToLikes: 0.094980
+    id: ck5pz74o1zjn60i11nv7j9bn9
+    verified: false
+    hashtags: "#psv3, #ootd"
   - username: "karimamckimmie"
     fullname: >-
       Karima Mckimmie
+    bio: >-
+      Sydney. Beauty. Youtube. Let’s be friends! ✉️ enquiries@shamelessfripperies.com
     location: "Australia"
-    followers: 72694
-    engagement: 234
-    commentsToLikes: 0.123563
+    followers: 73400
+    engagement: 193
+    commentsToLikes: 0.073354
     id: ck15qdnp32cuc0i199jk1lgiz
     verified: true
-    hashtags: "#smokeyeye, #nudebynature, #fentybeauty, #boostyourroots"
-  - username: "tompkin13"
+    hashtags: "#gallerywall, #chikuhodo, #blonde, #makeup"
+  - username: "jenwijayaphotography"
     fullname: >-
-      Jazzy&Di (Run By Mum)
+      Jen Wijaya 📷
+    bio: >-
+      Fashion & Beauty Photographer 📍Sydney / Canberra Other work: @jenniferchanphoto
     location: "Australia"
-    followers: 50480
-    engagement: 269
-    commentsToLikes: 0.048921
-    id: ck139fn3fl29j0i19bfbbitf1
+    followers: 7616
+    engagement: 300
+    commentsToLikes: 0.083688
+    id: ck0tw5jree44x0i193fi9zgsy
     verified: false
-    hashtags: "#dancemannequins, #moveyourbody, #flexiblepost, #amazing"
-  - username: "ali.baxter"
-    fullname: >-
-      ALI BAXTER
-    location: "Australia"
-    followers: 163901
-    engagement: 243
-    commentsToLikes: 0.054199
-    id: ck55p98zta30w0i1149zym1du
-    verified: false
-    hashtags: "#sunbaking, #zalaponytail, #isolife, #freestyle"
-  - username: "distan"
-    fullname: >-
-      Distan Bach
-    location: "Australia"
-    followers: 2961
-    engagement: 1665
-    commentsToLikes: 0.110712
-    id: ck15qr3wx48yl0i19y1xcyyhk
-    verified: false
-    hashtags: "#seesydney, #sydneycity, #skysultans, #sydneysunrise"
+    hashtags: ""
   - username: "dugongss"
     fullname: >-
-      DAWN 🦥🌿
+      D A W N ✨
+    bio: >-
+      ☾ all things #makeup & #beauty 💄 ☼ SYDNEY, AUSTRALIA ➵ @frmdusktildawn 🛩 ♡ Email/DM for collabs
     location: "Australia"
-    followers: 67640
-    engagement: 273
-    commentsToLikes: 0.009164
+    followers: 66732
+    engagement: 121
+    commentsToLikes: 0.020925
     id: ck14knjy7qegi0i19dp3hg94i
     verified: false
-    hashtags: "#macjunkies, #makeupmessp, #foundation, #travellife"
-  - username: "kukuwaassan"
+    hashtags: "#spectrum, #ausblogger, #makeupbrushes, #sephora"
+  - username: "sydneyfashionlife"
     fullname: >-
-      Kukuwa
+      Ayushi🌸🌸Sydney🌸🌸
+    bio: >-
+      Ms Queen of India Fin 👑 Mrs India Aus Fin Published #vogueaustralia 📨info@sydneyfashionlife.com TikTok @sydneyfashionlife PC @bishphotography
     location: "Australia"
-    followers: 3984
-    engagement: 1927
-    commentsToLikes: 0.098706
-    id: ck5q0boyv57st0i11wxh4i9u2
+    followers: 101672
+    engagement: 155
+    commentsToLikes: 0.054906
+    id: ckap72vnuieh50i78j3qdeb93
     verified: false
-    hashtags: "#icecream, #sheamoistureau, #trackies, #nymscoutingtour"
-  - username: "fatoscelikmakeup"
+    hashtags: "#outfitoftheday, #wiw, #fashionpost, #skincare"
+  - username: "thelashhause"
     fullname: >-
-      FC | SYDNEY MAKEUP & BEAUTY
+      LASH SUPPLIES AVAILABLE ONLINE
+    bio: >-
+      Carshalton 💕 Book now/buy lashes now ⬇️⬇️
     location: "Australia"
-    followers: 43916
-    engagement: 250
-    commentsToLikes: 0.037396
-    id: ck5cl1hcry24x0i11zbbk193m
+    followers: 22913
+    engagement: 258
+    commentsToLikes: 0.174342
+    id: ckaoyew15h88f0i78rzwhkjg9
     verified: false
-    hashtags: "#allmodernmakeip, #formalmakeup, #discover, #lashesonlashes"
-  - username: "happy_moji_moji"
+    hashtags: "#suttonlashes, #carshaltonlashes, #russianvolume, #spmu"
+  - username: "reanin.glah"
     fullname: >-
-      Mojgan_hairdresser
+      Makeup Hair & Brow Artist
+    bio: >-
+      ✖️Makeup, Hairstyling & Brows ✖️Fashion, Editorial, Commercial ✖️BNE & SYD 📍BNE Direct booking link below:
     location: "Australia"
-    followers: 79727
-    engagement: 488
-    commentsToLikes: 0.142125
-    id: ck6u9gwp3xhqg0j71gvydptv0
+    followers: 19580
+    engagement: 148
+    commentsToLikes: 0.038792
+    id: ck6uey2xytpuk0j71vt9axw6q
     verified: false
-    hashtags: "#australiaphotography, #aussiefood, #eyeshadow, #makeup"
-  - username: "jamieazzopardi"
+    hashtags: "#loosewaves, #makeuphowto, #diadebeaut, #brisbanephotoshoot"
+  - username: "moniquemorley"
     fullname: >-
-      Jamie Azzopardi
+      Monique Morley ✨
+    bio: >-
+      🌞Be the reason someone smiles today 📸@shotby_monique ✨@bymoniquemorley 📍Bondi 🚀TV personality 🇦🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🌶🧘‍♀️✈️🏄🏼‍♀️
     location: "Australia"
-    followers: 168690
-    engagement: 400
-    commentsToLikes: 0.009164
-    id: ck14l0irws96d0i19oitjaa2v
+    followers: 27158
+    engagement: 314
+    commentsToLikes: 0.064112
+    id: ck14h23ky85qi0i19yr212iny
     verified: false
-    hashtags: "#sydfest, #alanparkinson, #googlegames, #penation"
+    hashtags: "#sydney, #goldenhour, #loungewear, #happy"
 ---

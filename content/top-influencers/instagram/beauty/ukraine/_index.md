@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top beauty Instagram influencers in Ukraine in 2020. Most popular hashtags: #makeupideas #tiktok # #uzhgorod.
+  Find top beauty Instagram influencers in Ukraine in 2020. Most popular hashtags: #lookoftheday #odessa #lfc.
 platform: Instagram
+hits: 528
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 528 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
+  - username: "bloodymary013"
+    fullname: >-
+      Мария 🐱
+    bio: >-
+      💫Ambassador @miya.beauty.ukraine 🔗Miss Ukraine Universe Finalist ⚽️The most beautiful Liverpool fan by @eurosport
+    location: "Ukraine"
+    followers: 22797
+    engagement: 861
+    commentsToLikes: 0.050374
+    id: ck6tq3zl9p91s0j7150651t12
+    verified: false
+    hashtags: "#odessa, #liverpoolfans, #lfcfamily, #liverpoolfc"
+  - username: "lana_musienko"
+    fullname: >-
+      Лана Мусієнко
+    bio: >-
+      𝚒𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛 🌪aesthetics, beauty, lifestyle 🤍українка з грецьким профілем ✉️реклама - @pr_musienko/gmail.com
+    location: "Ukraine"
+    followers: 133486
+    engagement: 390
+    commentsToLikes: 0.183409
+    id: ck0ubfbkbefhs0i19o4omnxv6
+    verified: false
+    hashtags: ""
   - username: "__samburska"
     fullname: >-
       Танюша Самбурська🐻
+    bio: >-
+      🐒або Самбурятко ♥️кожний день з вами🤳🏻 ♥️happy wife 🥰 ♥️відкрила студію @samburska_beauty_bar у 18 років,дякуючи батькам♥️ ☺️обережно, багато сторі🙈
     location: "Ukraine"
-    followers: 1339301
-    engagement: 1655
-    commentsToLikes: 0.025092
+    followers: 1412648
+    engagement: 1044
+    commentsToLikes: 0.017713
     id: ck5zzi67ybrrq0i145ne594x2
     verified: false
     hashtags: ""
-  - username: "sulbieosmanova_makeup"
+  - username: "allabonya"
     fullname: >-
-      СУЛЬБИЕ ОСМАНОВА
+      Alla B.🕊
+    bio: >-
+      Купить новогодний бокс: @clipse.beautybox 📲 Старт продаж 5.11.2020💌
     location: "Ukraine"
-    followers: 29446
-    engagement: 635
-    commentsToLikes: 0.068737
-    id: ck0u70jhm3jwh0i195vfuqdxs
+    followers: 406777
+    engagement: 382
+    commentsToLikes: 0.034216
+    id: ck5c3cvqwz28b0i11835e8dzn
+    verified: true
+    hashtags: ""
+  - username: "christiniya_"
+    fullname: >-
+      ОБЗОР КОСМЕТИКИ💄BEAUTY БЛОГ💄
+    bio: >-
+      💁‍♀️Пишу отзывы о косметике 💯Честный обзор в сторис 💄#christiniya_beauty ♥️Каждый день лайк тайм 👇АКЦИИ И ПОДАРКИ ОТ HILLARY
+    location: "Ukraine"
+    followers: 12435
+    engagement: 828
+    commentsToLikes: 0.384655
+    id: ck9habv87byeu0j78n810ilgl
     verified: false
-    hashtags: "#dontrushchalleng, #qirimli, #dontrushchallenge, #ramadan2020"
-  - username: "mila_sivatskaya"
+    hashtags: "#ukraine, #lookoftheday, #liketimeukraine, #dnepr"
+  - username: "karyavlasova"
     fullname: >-
-      Мила Сивацкая
+      
+    bio: >-
+      @karryvl i’m surrounded by inner beauty portrait photographer, content creator future interior designer
     location: "Ukraine"
-    followers: 701974
-    engagement: 759
-    commentsToLikes: 0.018338
-    id: ck13db0d24jqi0i19hmui62ny
+    followers: 7124
+    engagement: 784
+    commentsToLikes: 0.107937
+    id: ckap1keepuwov0i78w31sow5v
     verified: false
     hashtags: ""
-  - username: "megan.4x"
+  - username: "anastasiiia.kos"
     fullname: >-
-      Ебало попроще🦊
+      𝒜𝓃𝒶𝓈𝓉𝒶𝓈𝒾𝒶 𝒦𝑜𝓈𝓉𝓎𝓊𝓀
+    bio: >-
+      Lifestyle. Pink mood. Beautymommy of #littleшвачка 💌anastasiiiakos@gmail.com 𝐕𝐋𝐎𝐆 𝓜𝓸𝓶 𝓽𝓸 𝓫𝓮:
     location: "Ukraine"
-    followers: 11709
-    engagement: 1682
-    commentsToLikes: 0.119426
-    id: ck8t2wgx40y8x0j780w6ujytk
+    followers: 54075
+    engagement: 263
+    commentsToLikes: 0.144497
+    id: ck0w1eh5yixs70i19slug998e
     verified: false
-    hashtags: "#blondehair, #like4likes, #hellokitty, #tattoo"
-  - username: "ann_luchkova"
-    fullname: >-
-      Ann Luchkova🌙
-    location: "Ukraine"
-    followers: 34187
-    engagement: 401
-    commentsToLikes: 0.077378
-    id: ck0vwpvcuuzxp0i19jbpawzpq
-    verified: false
-    hashtags: "#oludeniz, #genosus, #tahtali, #kemer"
-  - username: "roksolanalima"
-    fullname: >-
-      RoksolanaLima
-    location: "Ukraine"
-    followers: 55543
-    engagement: 1273
-    commentsToLikes: 0.025662
-    id: ck0u7d0fk4gh00i19vo4089y1
-    verified: false
-    hashtags: "#catsofinstagram, #catlife, #catlovers, #happyearthday"
-  - username: "taniaaboronok"
-    fullname: >-
-      Таня Аборонок▪️business girl▪️
-    location: "Ukraine"
-    followers: 65328
-    engagement: 348
-    commentsToLikes: 0.105426
-    id: ck0twgnm6fakm0i1916mce08r
-    verified: false
-    hashtags: "#syosscolor"
+    hashtags: "#little, #6months, #akos, #yvesrocher"
   - username: "mila_korneli"
     fullname: >-
       Людмила Корнелюк
+    bio: >-
+      Mommy #leia_korn Traveller Beauty & lifestyle Cooperation -@korneli.cooperation /📩 Youtube👇🏻
     location: "Ukraine"
-    followers: 106083
-    engagement: 1253
-    commentsToLikes: 0.015868
+    followers: 141429
+    engagement: 975
+    commentsToLikes: 0.014661
     id: ck5c2mseyxk5d0i114gpdout8
     verified: false
-    hashtags: "#switchchallenge, #pamperspartnership, #pampers, #lookoftheday"
-  - username: "viktoriya_nimets"
+    hashtags: "#halloween, #details, #lookoftheday"
+  - username: "dikushnir"
     fullname: >-
-      Дизайнер Одежды
+      Diana Kushnir
+    bio: >-
+      ◽️Одна серед трьох мужчин 🥰. ◽️Червоний диплом юриста 👩🏻‍🎓. ◽️Korean shop @diso_beauty 🧴
     location: "Ukraine"
-    followers: 23093
-    engagement: 380
-    commentsToLikes: 0.131124
-    id: ck5py86e3urn00i11wq6f2lfm
+    followers: 10787
+    engagement: 602
+    commentsToLikes: 0.153500
+    id: ck15tpmwoj9um0i19alk1gcf5
     verified: false
-    hashtags: "#homevibes, #makeupideas, #winterlook, #homephoto"
-  - username: "alona.panova"
+    hashtags: "#shopping, #shop, #stayhome, #vsco"
+  - username: "sashaabo"
     fullname: >-
-      Твій Онлайн Hairdresser
+      САША ПУСТОВІТ 🕊
+    bio: >-
+      ▫️Business & beautymama ▫️пішла з інтернатури➡️ відкрила салон @stories.by.sashaabo ▫️будую dream house 🏡 ▫️Influencer № 1 🇺🇦 ▫️📩@sashaabo.sashaabo
     location: "Ukraine"
-    followers: 40022
-    engagement: 552
-    commentsToLikes: 0.036611
-    id: ck0u2kgcn041w0i19pliwx7se
+    followers: 1950128
+    engagement: 506
+    commentsToLikes: 0.016984
+    id: ck1399zysk9io0i19nnsncju1
     verified: false
-    hashtags: "#vaskovska"
+    hashtags: "#iphone12, #halloweenmakeup, #halloween, #sashaabo"
 ---

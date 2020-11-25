@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture TikTok Influencers In Miami In 2020
 description: >-
-  Find top architecture TikTok influencers in Miami in 2020. Most popular hashtags: #foryoupage #dream #architecture #coronatime.
+  Find top architecture TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #architecture #miami #interiordesign.
 platform: TikTok
+hits: 5
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "missidaalexis"
+  - username: "debbieperez47"
     fullname: >-
-      Missidaalexis
+      Debbie Perez
+    bio: >-
+      cubana renaissance enthusiast harvard // gates scholar
     location: "United States"
-    followers: 19287
-    engagement: 640
-    commentsToLikes: 0.014650
-    id: ckajjtzxjmypa0i78mm19zns3
+    followers: 31600
+    engagement: 1898
+    commentsToLikes: 0.015261
+    id: ckbqq83l8b5n50j23xytitdt0
     verified: false
-    hashtags: "#alwayslearning, #miami, #architecture, #dance"
-  - username: "tommyjordanre"
-    fullname: >-
-      LuxuryHomesOnYouTube
-    location: "United States"
-    followers: 2841
-    engagement: 302
-    commentsToLikes: 0.131422
-    id: cka0r02qgewdf0i78iya1mnf4
-    verified: false
-    hashtags: "#dadlife, #gwagon, #boss, #drive"
+    hashtags: "#medieval, #europe, #davinci, #renaissance"
   - username: "karlapohlmann"
     fullname: >-
       Karla Pohlmann
+    bio: >-
+      kStudio Design Lab . Miami FL www.kstudio.co
     location: "United States"
     followers: 2074
     engagement: 282
     commentsToLikes: 0.013042
     id: ck9a4sawxvvsy0j78e1h4huss
     verified: false
-    hashtags: "#sttropez, #ontherunway, #missonihouse, #diyvalentine"
-  - username: "ourforeverhomeflip"
+    hashtags: "#dogsoftiktok, #myinstaxshoutout, #justaddglitter, #tiktoktraditions"
+  - username: "eamm97"
     fullname: >-
-      OurForeverHomeFlip
+      Ernesto Medina
+    bio: >-
+      Follow me on Instagram 👆🏻
     location: "United States"
-    followers: 82854
-    engagement: 471
-    commentsToLikes: 0.025877
-    id: ckacg21hnteqn0i783bdhw5mt
+    followers: 21200
+    engagement: 520
+    commentsToLikes: 0.066434
+    id: cka7p9dn66dwp0i78qgc543sx
     verified: false
-    hashtags: "#painting, #demo, #florida, #homeproject"
-  - username: "zack_hample"
+    hashtags: "#bidenharris2020, #bidenwon, #election, #funny"
+  - username: "missidaalexis"
     fullname: >-
-      Zack Hample
+      Missidaalexis
+    bio: >-
+      NYC🍎🗽
     location: "United States"
-    followers: 188144
-    engagement: 1284
-    commentsToLikes: 0.008583
-    id: ck9njbos1hg280j787s54rorx
+    followers: 20400
+    engagement: 649
+    commentsToLikes: 0.013347
+    id: ckajjtzxjmypa0i78mm19zns3
     verified: false
-    hashtags: "#texas, #atlanta, #oaklandcoliseum, #playingcatch"
-  - username: "pic_nick15"
+    hashtags: "#design, #helicopter, #fashion, #heels"
+  - username: "coleslawisthename"
     fullname: >-
-      Niqué
+      Alexander Locke
+    bio: >-
+      🛳Travel✈️ ➕ 🎞Video🎥
     location: "United States"
-    followers: 9706
-    engagement: 1464
-    commentsToLikes: 0.073476
-    id: ckaifghl3wsi30i78qnticgya
+    followers: 16000
+    engagement: 453
+    commentsToLikes: 0.024460
+    id: ckb9v65eyu82i0j23u2vmk7cs
     verified: false
-    hashtags: "#jumpman, #vibewithme, #natureathome, #cookinghacks"
-  - username: "tlmazer"
-    fullname: >-
-      Taylor Mazer
-    location: "United States"
-    followers: 15535
-    engagement: 1755
-    commentsToLikes: 0.022852
-    id: ck95xi2y060h80j78l90sodnc
-    verified: false
-    hashtags: "#artistsoftiktok, #perspective, #building, #streetsign"
+    hashtags: "#lol, #nyc, #friends, #bird"
   - username: "nicksaremi"
     fullname: >-
       Nick Saremi
+    bio: >-
+      Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 4695
-    engagement: 489
-    commentsToLikes: 0.112214
+    followers: 81700
+    engagement: 795
+    commentsToLikes: 0.028410
     id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#redsuit, #homebuyingtips, #kitchen, #mylove"
-  - username: "jonahtheog"
+    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
+  - username: "emilyrayna"
     fullname: >-
-      JonahM
+      Emily Shaw
+    bio: >-
+      Interior Design/Architecture emilyrayna@select.co Check out my YouTube and IG!
     location: "United States"
-    followers: 27943
-    engagement: 1167
-    commentsToLikes: 0.050315
-    id: ckamnpnbu5rfy0i78ud5t1q8h
-    verified: false
-    hashtags: "#idknever, #nocontent, #fortnite, #notathreat"
-  - username: "dkurland825"
+    followers: 3400000
+    engagement: 1177
+    commentsToLikes: 0.005788
+    id: ckbkvhpq2qyqb0j23um0ytaq8
+    verified: true
+    hashtags: "#artober, #ios14, #dayinmylife, #myart"
+  - username: "studiosaira.ph"
     fullname: >-
-      Danny Kurland
+      Architect Saira Margarita
+    bio: >-
+      Licensed Architect 🇵🇭 RISD’21 architecture@sairamargarita.com 👇FREE EBOOK!👇
     location: "United States"
-    followers: 6259
-    engagement: 533
-    commentsToLikes: 0.052699
-    id: ck8s8i1rctp8z0j78oigmr2lf
+    followers: 144500
+    engagement: 727
+    commentsToLikes: 0.022798
+    id: ckck2z8pummpj0j233qrlp8ov
     verified: false
-    hashtags: "#foryoupage, #schittscreek, #tiktokfamous, #lipsync"
+    hashtags: "#galingngpinoy, #architecture, #learnontiktok, #architecturestudent"
+  - username: "adventurousarchitect"
+    fullname: >-
+      AdventurousArchitect
+    bio: >-
+      Dream | travel vlog Daily inspo Travel, Quotes and Architecture
+    location: "United States"
+    followers: 49200
+    engagement: 731
+    commentsToLikes: 0.023620
+    id: cka6dzxfk9uaj0i78q1fgfyq8
+    verified: false
+    hashtags: "#adventurousarchitect, #foryou, #fyp, #architecture"
+  - username: "tlmazer"
+    fullname: >-
+      Taylor Mazer
+    bio: >-
+      Working Artist Adjunct Professor at Kendall College of Art taylordraws.com
+    location: "United States"
+    followers: 15900
+    engagement: 1859
+    commentsToLikes: 0.037283
+    id: ck95xi2y060h80j78l90sodnc
+    verified: false
+    hashtags: "#illustration, #penartwork, #carart, #artwork"
 ---

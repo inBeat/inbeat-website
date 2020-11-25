@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Australia In 2020
 description: >-
-  Find top makeup Instagram influencers in Australia in 2020. Most popular hashtags: #egirl #abeauty #collab #sandandsky.
+  Find top makeup Instagram influencers in Australia in 2020. Most popular hashtags: #makeup #fashion #love.
 platform: Instagram
+hits: 755
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 755 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "katie_michaelis46"
-    fullname: >-
-      • KATIE MICHAELIS •
-    location: "Australia"
-    followers: 61369
-    engagement: 836
-    commentsToLikes: 0.058424
-    id: ck0vz1x0o6vmk0i19juun2o96
-    verified: false
-    hashtags: "#ad, #abeauty, #sandandsky, #glowdownunder"
-  - username: "erika.dwyer"
-    fullname: >-
-      Erika Dwyer
-    location: "Australia"
-    followers: 5829
-    engagement: 1125
-    commentsToLikes: 0.111945
-    id: ck0w136qehc490i193p3vskwx
-    verified: false
-    hashtags: "#princesspolly"
   - username: "indiraekic"
     fullname: >-
       Indira Ekic
+    bio: >-
+      💄 Makeup artist & educator ◾️Ambassador @frezydermslovenija ❤️ The Biggest Loser finalist
     location: "Australia"
-    followers: 53956
-    engagement: 1020
-    commentsToLikes: 0.207894
+    followers: 61366
+    engagement: 972
+    commentsToLikes: 0.292172
     id: ck5bxqcj8o7u70i11kmn00rfd
     verified: false
-    hashtags: "#sportwatch, #active, #soniccleanser, #nature"
-  - username: "prettyprogress23"
+    hashtags: "#oglas, #instagood, #aboutyou, #crazybet"
+  - username: "katie_michaelis46"
     fullname: >-
-      🍉 Liz Claire • Sydney
+      • KATIE MICHAELIS •
+    bio: >-
+      × 23 | SYD, AUS × YouTube | +180k Subscribers ⇣ Freelance Makeup Artist
     location: "Australia"
-    followers: 24576
-    engagement: 973
-    commentsToLikes: 0.061405
-    id: ck0u7ooxg5a3a0i19fnsdctdj
+    followers: 62217
+    engagement: 1039
+    commentsToLikes: 0.034622
+    id: ck0vz1x0o6vmk0i19juun2o96
     verified: false
-    hashtags: "#sunshine, #zilchacne, #sheetmask, #socialmedia"
-  - username: "muayritta"
+    hashtags: ""
+  - username: "jade.syrett"
     fullname: >-
-      MUAY RITTAPOL
+      JADE
+    bio: >-
+      Royalle Models @royallemodelling (Sydney) Brisbane / Sunshine Coast/ Gold Coast 🇦🇺 Int. Published 🌏 💋MUA @jade.s.makeupartistry 👙@chixit.swim MODEL
     location: "Australia"
-    followers: 2626
-    engagement: 1585
-    commentsToLikes: 0.195032
-    id: ckapb0uk5y7hd0i78nqpny30c
+    followers: 63152
+    engagement: 401
+    commentsToLikes: 0.070596
+    id: ck13a1y82o8060i19gci5msnb
     verified: false
-    hashtags: "#hairbuns, #yee, #glitter, #dress"
-  - username: "makeupbyameliawebb"
+    hashtags: "#city, #influencer, #beach, #studio"
+  - username: "olaslifierska"
     fullname: >-
-      Amelia Webb
+      ALEKSANDRA MAKEUP
+    bio: >-
+      19 ☁️ makeup ☁️ Sydney ☁️ 💌 olaslifierska@gmail.com
     location: "Australia"
-    followers: 53562
-    engagement: 248
-    commentsToLikes: 0.078202
-    id: ck55n87j35o8b0i11jdb8me5n
+    followers: 6542
+    engagement: 920
+    commentsToLikes: 0.158531
+    id: ck15twzaikbu80i19tw1krvtw
     verified: false
-    hashtags: "#happyhealthybright, #collab, #makeuptutorial, #hairtutorial"
-  - username: "alexravyn"
+    hashtags: "#vintage, #blondehair, #quebo, #pinterest"
+  - username: "makeupbymyke"
     fullname: >-
-      𝖆𝖑𝖊𝖝 🖤
+      MAKEUP BY MYKE
+    bio: >-
+      👨🏻‍🎨 I create weird & colourful makeup 🌏 Brisbane, Australia 🖤 Proud Member of #TheList 💸 $5 off Morphe: GLAMFAM403 🗳 michael.republicdesign@gmail.com
     location: "Australia"
-    followers: 55513
-    engagement: 1548
-    commentsToLikes: 0.015927
-    id: ck8t3xxk54w9u0j78h20d7w4b
+    followers: 8278
+    engagement: 1228
+    commentsToLikes: 0.106833
+    id: ck5honwdnpwgw0i111y7i3xli
     verified: false
-    hashtags: "#facemask, #dancing, #punkoutfit, #darkkawaii"
-  - username: "lozpicartistry"
+    hashtags: "#makeuplook, #morphebrushes, #mehronmakeup, #undiscoveredmuas"
+  - username: "michellewicklandt"
     fullname: >-
-      Perth Makeup Artist
+      MICHELLE WICKLANDT
+    bio: >-
+      BRISBANE Makeup Artist Shoot + Event Makeup Μ Λ Κ Ξ U Ρ ◊ Λ R Τ Ι Ϟ Τ ALL Enquires - michellewicklandt@gmail.com @pnut330 @saintandbridge
     location: "Australia"
-    followers: 26218
-    engagement: 220
-    commentsToLikes: 0.144796
-    id: ck0tyg0almnpw0i19y02jd9zk
+    followers: 7626
+    engagement: 618
+    commentsToLikes: 0.097012
+    id: ck8tc3hudy5e10j78k38u822w
     verified: false
-    hashtags: "#mafs, #fluffybrow, #brisbanemua, #pertheveryday"
-  - username: "janellemyh"
+    hashtags: "#meccamax, #lancomelovers, #lancomejoy, #90s"
+  - username: "renatameins"
     fullname: >-
-      J A N E L L E   H A N
+      Renata Meins
+    bio: >-
+      Child of God Aus🇦🇺📍 MUA and Image Strategist Makeup Academy founder 🎓 @makeupacademy_renatameins Link pro Workshop 👇🏻 cadastre-se
     location: "Australia"
-    followers: 28530
-    engagement: 438
-    commentsToLikes: 0.035850
-    id: ck5q3zjaqn2av0i11mtyi1thv
+    followers: 1151891
+    engagement: 310
+    commentsToLikes: 0.024815
+    id: ck14gysg27otx0i1950s86haw
+    verified: true
+    hashtags: "#tbt, #makeupacademyrenatameins, #workshoponline, #3months"
+  - username: "jessicahazemua"
+    fullname: >-
+      J E S S I C A  H A Z E
+    bio: >-
+      Aussie 🐨 living in metro Detroit #Vegan + #CrueltyFree Makeup Artist Brows @jessicahazebrows Email jessicahazemua@gmail.com Watch Latest YouTube👇🏻
+    location: "Australia"
+    followers: 135368
+    engagement: 324
+    commentsToLikes: 0.032589
+    id: ck55ixs32vqeb0i11hrxp9sbd
     verified: false
-    hashtags: "#smokeyliner, #wingedliner, #cutemakeup, #fullglam"
+    hashtags: "#valleyeyewear, #crueltyfreebeauty, #anotherworldoctober, #indiefashion"
+  - username: "sarahjaneroza"
+    fullname: >-
+      SARAH ROZA
+    bio: >-
+      👇🏻COLLAB/MEDIA ENQUIRES📨 SarahRoza.Bookings@gmail.com #Hair #Beauty #Fashion #Makeup #Health TV + Radio Host 🌟 Influencer/Ambassador 📺YouTube Channel
+    location: "Australia"
+    followers: 363287
+    engagement: 158
+    commentsToLikes: 0.043110
+    id: ck5cl1ocoy2jm0i112ylzgnqh
+    verified: true
+    hashtags: "#face, #marriedatfirstsightaustralia, #health, #iloveyou"
   - username: "saira.95"
     fullname: >-
-      Saira Hrgić, 24, 🇧🇦 🇩🇪
+      Saira Hrgić, 24, 🇧🇦 🇩🇪
+    bio: >-
+      🌸 Bachelor of Health Science 🎓 🌸 Makeup Enthusiast 💄 🌸 17.07.2015. 🙈❤🔐
     location: "Australia"
-    followers: 7958
-    engagement: 1668
-    commentsToLikes: 0.013375
+    followers: 8717
+    engagement: 1566
+    commentsToLikes: 0.018898
     id: ckaox6v5nc1iy0i78rbeljqxc
     verified: false
-    hashtags: "#inspo, #unityclub, #whitedress, #herbst"
+    hashtags: "#germany, #makeup, #strumpfhosen, #nylons"
 ---

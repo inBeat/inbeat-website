@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Austria In 2020
 description: >-
-  Find top makeup TikTok influencers in Austria in 2020. Most popular hashtags: #austria #dance #makeup #food.
+  Find top makeup TikTok influencers in Austria in 2020. Most popular hashtags: #makeup #foryou #viral #fyp.
 platform: TikTok
+hits: 38
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 38 TikTok influencers like this in Austria for you to contact.
 profiles:
+  - username: "paulawwolf"
+    fullname: >-
+      Paula Wolf
+    bio: >-
+      Mehr Makeup Looks auf INSTAGRAM 💖 📍 Wien 🇦🇹 💌 business@paulawwolf.com
+    location: "Austria"
+    followers: 1200000
+    engagement: 2125
+    commentsToLikes: 0.009176
+    id: ck8vwbevnny1t0j78qx4byw75
+    verified: false
+    hashtags: "#gegenmobbing, #saucehalloweenlook, #halloweenlook, #halloweenathome"
   - username: "feuerpferd8"
     fullname: >-
       Feuerpferd
+    bio: >-
+      I love creating stuff! Costumes, Cosplay, Makeup ... preferably creepy :D
     location: "Austria"
-    followers: 5599
-    engagement: 705
-    commentsToLikes: 0.038410
+    followers: 5705
+    engagement: 689
+    commentsToLikes: 0.029182
     id: ckaij11b4cytf0i78yykqswda
     verified: false
-    hashtags: "#epicfight, #tarot, #love, #animalshelter"
-  - username: "glow.grwmm"
+    hashtags: "#cat, #thewitcher, #noonwraith, #catlover"
+  - username: "beelzepup"
     fullname: >-
-      anna✨
+      𝕽𝖔𝖘𝖈𝖔𝖊 🐺
+    bio: >-
+      🐺☥⚑ | they/them| 🇦🇹🏳️‍🌈 witch | goth punk bastard 🦇 spam: @pisscryptid
     location: "Austria"
-    followers: 39356
-    engagement: 2414
-    commentsToLikes: 0.030918
-    id: ckac9cqh2g1bi0i78kgveqaaa
+    followers: 11200
+    engagement: 1874
+    commentsToLikes: 0.024500
+    id: ckbf6brz8vwjj0j23tzg862p8
     verified: false
-    hashtags: "#draft, #idewcare, #foryoupage, #dayinmylife"
-  - username: "nanazadam"
+    hashtags: "#fyp, #goth, #lgbt, #tradgoth"
+  - username: "melifly"
     fullname: >-
-      Nanaz Adam
+      𝑀𝑒𝑙𝑖 𝑓𝑙𝑦
+    bio: >-
+      Just a 18 years old Girl from 🇦🇹 Instagram: Meli_Fly
     location: "Austria"
-    followers: 10443
-    engagement: 252
-    commentsToLikes: 0.038524
-    id: cka0ywfzad3hl0i78rbbq70ix
+    followers: 18400
+    engagement: 1080
+    commentsToLikes: 0.026581
+    id: ckbqaul33wtg70j231zcrggef
     verified: false
-    hashtags: "#photoshootideas, #mixedgirl, #spychallenge, #eyechallenge"
+    hashtags: "#austria, #funny, #makeup, #makeupchallenge"
+  - username: "melxble"
+    fullname: >-
+      ish ya girl mel
+    bio: >-
+      🇵🇭/🇦🇹 ˚✧₊⁎𝓶𝓮𝓵⁎⁺˳✧༚ ish ya fav loml ig: melxble sc: melani.eeeee
+    location: "Austria"
+    followers: 161900
+    engagement: 1553
+    commentsToLikes: 0.014419
+    id: ck9e31oi8hihd0j78i5yuqfpm
+    verified: false
+    hashtags: "#makeup, #longdistance, #bf, #intlcouple"
+  - username: "anesa_kvc"
+    fullname: >-
+      ANESA KOVACEVIC
+    bio: >-
+      alle die mir folgen sind Ehrenfrauen und Ehrenmänner🤓
+    location: "Austria"
+    followers: 4521
+    engagement: 1197
+    commentsToLikes: 0.035087
+    id: ckc7paoldv16i0j239reolujc
+    verified: false
+    hashtags: "#vienna, #foryoupage, #xycbca, #austria"
+  - username: "anna_strigl"
+    fullname: >-
+      (っ◔◡◔)っ ♥ Anna Lena Strigl ♥
+    bio: >-
+      Griaß di 🇦🇹 🦋Folgt mir auf Insta: anna_strigl⬆️⬆️ Zweitkanal = annastrigl
+    location: "Austria"
+    followers: 1400000
+    engagement: 1519
+    commentsToLikes: 0.008327
+    id: ck8nj8tzd9aed0j78mhyygzjs
+    verified: true
+    hashtags: "#experiment, #hintertuxergletscher, #xmas, #natureispalast"
   - username: "maqaroon"
     fullname: >-
       Maqaroon
+    bio: >-
+      🌸 Aesthetic Trends, Hacks & DIYs 🌸 Joanna Zhou 🇨🇳🇦🇹 YouTuber & Designer!
     location: "Austria"
-    followers: 124292
-    engagement: 1922
-    commentsToLikes: 0.009048
+    followers: 265700
+    engagement: 1599
+    commentsToLikes: 0.009225
     id: ck9c8wqkptcw70j78rth2qa3p
-    verified: false
-    hashtags: "#btsarmy, #roomdecor, #shiba, #acnh"
-  - username: "baby_scorpio.x"
-    fullname: >-
-      🎃Spooky bitch👻
-    location: "Austria"
-    followers: 7639
-    engagement: 1212
-    commentsToLikes: 0.013721
-    id: ck900b1h4ab220j784lc6kfl4
-    verified: false
-    hashtags: "#travel, #yurionice, #comedy, #nobrokenhearts"
-  - username: "officialempress"
-    fullname: >-
-      Laura Sophie🌙
-    location: "Austria"
-    followers: 63287
-    engagement: 1375
-    commentsToLikes: 0.037532
-    id: ck8nazd287jvz0j78yk5979ld
-    verified: false
-    hashtags: "#weliveincities, #aesthetic, #guessmyname, #dialektdienstag"
-  - username: "aminakarajol"
-    fullname: >-
-      Amina🌹
-    location: "Austria"
-    followers: 14571
-    engagement: 1192
-    commentsToLikes: 0.067565
-    id: ck9rnko8981xo0j785gw7m4l1
-    verified: false
-    hashtags: "#makeupchallege, #kurdish, #austria, #liebe"
-  - username: "anna_strigl"
-    fullname: >-
-      Insta: anna_strigl❤️
-    location: "Austria"
-    followers: 1000478
-    engagement: 1739
-    commentsToLikes: 0.017112
-    id: ck8nj8tzd9aed0j78mhyygzjs
     verified: true
-    hashtags: "#tb, #kamillentee, #illusion, #party"
-  - username: "ameliebrrr"
+    hashtags: "#polymerclay, #rocktumbler, #cute, #pig"
+  - username: "kaniswelt"
     fullname: >-
-      AMELIEBRRR🐣
+      Kanis welt
+    bio: >-
+      Let’s vibe together 💥💥💥
     location: "Austria"
-    followers: 428142
-    engagement: 1646
-    commentsToLikes: 0.010190
-    id: ck9m0p96pax040j78qt78ccz6
-    verified: true
-    hashtags: "#bruises, #cat, #funny, #fun"
-  - username: "laurafalquez"
-    fullname: >-
-      Laura Falquez
-    location: "Austria"
-    followers: 19321
-    engagement: 708
-    commentsToLikes: 0.058281
-    id: ckadb353el7oq0i78fc5gcfqw
+    followers: 2887
+    engagement: 1140
+    commentsToLikes: 0.027835
+    id: ckbfhn5p8d7dh0j23fjrhqhfn
     verified: false
-    hashtags: "#beautyfull, #godbless, #casadepapel, #disneychannel"
+    hashtags: "#home, #bored, #wien, #foryoupage"
+  - username: "janjan134"
+    fullname: >-
+      Jan jan
+    bio: >-
+      
+    location: "Austria"
+    followers: 0
+    engagement: 712
+    commentsToLikes: 0.030153
+    id: ckbr9h7bjo3520j23o1cj17hm
+    verified: false
+    hashtags: "#duet, #comedia, #dance, #tiktok"
 ---

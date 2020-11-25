@@ -1,107 +1,106 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Malaysia In 2020
 description: >-
-  Find top mothers TikTok influencers in Malaysia in 2020. Most popular hashtags: #malaysian #mothersday #happymothersday #foryoupage.
+  Find top mothers TikTok influencers in Malaysia in 2020. Most popular hashtags: #fyp #foryou #tamil #duet.
 platform: TikTok
+hits: 8
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "curlyboiiiivibes"
+  - username: "aidarazman"
     fullname: >-
-      DaAsian
+      ♡ aida razman ♡
+    bio: >-
+      Mother to @ayeeda.kl 🇲🇾 🤎
     location: "Malaysia"
-    followers: 459322
-    engagement: 2301
-    commentsToLikes: 0.035240
-    id: ckal45uoc1b040i7841pnmep2
+    followers: 60800
+    engagement: 772
+    commentsToLikes: 0.007094
+    id: ck9sjxpoc60nl0j78j3ras6md
     verified: false
-    hashtags: "#anime, #davinchi, #gamer, #zxycba"
-  - username: "malarskj"
+    hashtags: "#quarantine, #fyp, #foryou, #foryoupage"
+  - username: "____drk____"
     fullname: >-
-      Malarshiva
+      Dr. Kalai Vasuthev
+    bio: >-
+      TikTok Malaysia Representative TikTok Record / World Record Colab Thank you ❤💯
     location: "Malaysia"
-    followers: 14881
-    engagement: 1491
-    commentsToLikes: 0.167634
-    id: ck94e76aj6xkc0j78ini0vsbc
+    followers: 30500
+    engagement: 2382
+    commentsToLikes: 0.058425
+    id: ckbq4vsy7r24a0j23usmkkb6k
     verified: false
-    hashtags: "#vietnma, #thank, #lockdown, #teh"
-  - username: "rishaanryaan"
-    fullname: >-
-      Rishaan Ryan
-    location: "Malaysia"
-    followers: 214779
-    engagement: 1646
-    commentsToLikes: 0.054967
-    id: ckad7ux0m60y80i78klok9bwb
-    verified: false
-    hashtags: "#tamilsong, #nurseheros, #respect, #lifequotes"
+    hashtags: "#worldrecord, #fyp, #rekka, #viral"
   - username: "nrhijra.s"
     fullname: >-
       yourhamster_
+    bio: >-
+      IG : _nrhijra.s
     location: "Malaysia"
-    followers: 39752
-    engagement: 721
-    commentsToLikes: 0.042840
+    followers: 39100
+    engagement: 697
+    commentsToLikes: 0.031959
     id: ck8kmvbp4aftf0j78i20coj9d
     verified: false
-    hashtags: "#collagelife, #lastdancemove, #lastmovefirstmove, #coupleedition"
-  - username: "imquiteshushy"
+    hashtags: "#quarantine, #fy, #fyp, #foryoupage"
+  - username: "taneshh10"
     fullname: >-
-      Biith Siew
+      Taneshh
+    bio: >-
+      INSTAGRAM: @TANESHH10 🇲🇾
     location: "Malaysia"
-    followers: 26667
-    engagement: 656
-    commentsToLikes: 0.086387
-    id: ck9r3uo6nrurn0j78bly0ozdk
+    followers: 31500
+    engagement: 762
+    commentsToLikes: 0.008428
+    id: ckbkprjldk1om0j23dbi93gde
     verified: false
-    hashtags: "#chinesebanana, #pianofingers, #intheelevator, #foryoupage"
-  - username: "liveriyas7"
+    hashtags: "#tamilcomedy, #fyp, #foryou, #son"
+  - username: "_raven_nair_"
     fullname: >-
-      liveriyas7
+      _raven_nair_ 💙
+    bio: >-
+      Instagram : mr_raven_nair 🔥 Duet are most welcome 💙
     location: "Malaysia"
-    followers: 129664
-    engagement: 392
-    commentsToLikes: 0.036623
-    id: cka0q5mxgbasb0i788anxbbpo
+    followers: 15900
+    engagement: 866
+    commentsToLikes: 0.017550
+    id: ckbloxfg2gmw60j236m62wrpw
     verified: false
-    hashtags: "#wintamil, #nowork, #telugu, #momlove"
-  - username: "lofstedtdude"
+    hashtags: "#ggtamil99, #trending, #keepsupportingme, #malaysianmuser"
+  - username: "dr.shalzrc"
     fullname: >-
-      Eric Lau Lofstedt
+      Dr.shalzrc ❤️
+    bio: >-
+      Crown MRS Saree Malaysia 2019 Owner Aranda Clinic Founder of DrYDrS Fitness 
     location: "Malaysia"
-    followers: 567803
-    engagement: 1058
-    commentsToLikes: 0.022614
-    id: ck83zaqp1z7oq0j786yzfg0j4
+    followers: 38700
+    engagement: 448
+    commentsToLikes: 0.012403
+    id: ckcdij9p98btu0j23xv98t9e8
     verified: false
-    hashtags: "#fail, #magic, #dance, #meme"
-  - username: "jatt_mafia786"
+    hashtags: "#zumbalover, #thankful, #trending2020, #dr"
+  - username: "mehvivek"
     fullname: >-
-      Jatt.com
+      Vivek
+    bio: >-
+      In seeking happiness for others, you will find it in yourself 🇲🇾
     location: "Malaysia"
-    followers: 93545
-    engagement: 975
-    commentsToLikes: 0.032586
-    id: ck9a32hyroswk0j787n35asbl
+    followers: 9279
+    engagement: 1005
+    commentsToLikes: 0.049130
+    id: ckbkogxokiktf0j23cq8y5260
     verified: false
-    hashtags: "#operasi, #lockdown, #special, #finalsathome"
-  - username: "im_bernardd"
+    hashtags: "#love, #duetme, #sadness, #smile"
+  - username: "chyangba3817"
     fullname: >-
-      Lil Ber
+      Chyangba🙏🇳🇵💪
+    bio: >-
+      Respect Yourself And Other Will Respect You.❤️🤗🙏
     location: "Malaysia"
-    followers: 315256
-    engagement: 1189
-    commentsToLikes: 0.013033
-    id: ck81qq5eviwx10j787121zcp0
+    followers: 119300
+    engagement: 1082
+    commentsToLikes: 0.064261
+    id: ckbkdn0p13w4d0j23ek6vpdbu
     verified: false
-    hashtags: "#contractions, #johnnydepp, #mother, #chickennuggets"
-  - username: "id_error"
-    fullname: >-
-      Ah Qqiao💩
-    location: "Malaysia"
-    followers: 88306
-    engagement: 558
-    commentsToLikes: 0.012741
-    id: ck80odm23h2jt0j78it94uejn
-    verified: false
-    hashtags: "#cuteact, #taptaptap, #challenge, #breatheitout"
+    hashtags: "#comedynepal, #fyp, #foryou, #chyangba3817"
 ---

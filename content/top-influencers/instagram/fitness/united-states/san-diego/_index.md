@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In San Diego In 2020
 description: >-
-  Find top fitness Instagram influencers in San Diego in 2020. Most popular hashtags: #fitness #sandiegofitness #sandiego #happy.
+  Find top fitness Instagram influencers in San Diego in 2020. Most popular hashtags: #fitness #sandiego #love.
 platform: Instagram
+hits: 192
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 192 Instagram influencers like this in San Diego, United States for you to work with.
 profiles:
-  - username: "sweatinsd"
+  - username: "alishaweave"
     fullname: >-
-      arielle | san diego
+      Alisha  Weaver
+    bio: >-
+      Create a life you can be proud of💋 Neuro/Trauma ICU RN 💉
     location: "United States"
-    followers: 28015
-    engagement: 284
-    commentsToLikes: 0.090401
-    id: ck13clh4h0xbn0i19m98w66rn
+    followers: 2018
+    engagement: 1062
+    commentsToLikes: 0.062312
+    id: ckapax04yxsbh0i78lebizj4k
     verified: false
-    hashtags: "#letshearitfornewyork, #nycfoodguide, #manimonday, #biggerthanabar"
-  - username: "kcsince1987"
+    hashtags: "#california, #pacificbeach, #icu, #coronavirus"
+  - username: "karol_priscilla"
     fullname: >-
-      Kaycee Clark
+      KAROL PRISCILLA
+    bio: >-
+      FITNESS | FOOD | POSITIVITY Latina 🇲🇽 ▪️Model @sluagency @shamonfreitas ▪️Instructor @squeezefitnessoceanside ▪️Food lover @bikinisandburritos
     location: "United States"
-    followers: 321666
-    engagement: 199
-    commentsToLikes: 0.017664
-    id: ck6udbhzpk5ki0j710z22z2ef
-    verified: true
-    hashtags: "#dontbeshy, #riptomyidol, #disneyadventures, #tatted"
+    followers: 54432
+    engagement: 228
+    commentsToLikes: 0.030474
+    id: ck0vw9l0mspuc0i192vg0hep8
+    verified: false
+    hashtags: "#athlete, #trainhard, #halloween2020, #bodyfuel"
   - username: "codyfranchise"
     fullname: >-
       Cody Parker
+    bio: >-
+      Fitness | Architecture San Diego, CA
     location: "United States"
-    followers: 10680
-    engagement: 689
-    commentsToLikes: 0.025010
+    followers: 10613
+    engagement: 643
+    commentsToLikes: 0.029508
     id: ckap2gfe6ypsw0i78x0e3dxtj
     verified: false
-    hashtags: "#fit50, #fitathletic, #fitathleticlittleitaly"
+    hashtags: "#fitathleticlittleitaly, #fit50, #fitathletic"
   - username: "amyvsfood"
     fullname: >-
       Amy Tran
+    bio: >-
+      Food|Fitness|Fishing San Diego ✈️ Camas ☀️@johnskillerprotein
     location: "United States"
     followers: 5958
     engagement: 735
     commentsToLikes: 0.039723
     id: ckaot600vuj5g0i78voe196rx
     verified: false
-    hashtags: "#cordovacoolers, #sandiegofitness, #girlswhogrill, #myfabletics"
-  - username: "giovanni._.ciolino"
+    hashtags: "#longhairproblems, #girlswhogrill, #fableticspartner, #springsalmon"
+  - username: "lisadillon"
     fullname: >-
-      Giovanni Ciolino
+      Lisa Dillon 🌴
+    bio: >-
+      San Diego Livin ☀️ repped by @shamonfreitas SD @ottomodels.agency OC @cgmmodels MIA @astonmodels LA @saltmodel ATL @tngmodels LV @starsmanagement SF
     location: "United States"
-    followers: 8564
-    engagement: 946
-    commentsToLikes: 0.520816
-    id: ck6u1irqglz750j715d3xbmev
+    followers: 77311
+    engagement: 123
+    commentsToLikes: 0.041166
+    id: ck0vycjcs3b1l0i1903yttp2e
     verified: false
-    hashtags: "#nike, #icecream, #birthdayweekend, #toyota"
-  - username: "justinbritton"
+    hashtags: "#fitness, #yoga, #sandiego, #hylete"
+  - username: "timlambesis"
     fullname: >-
-      Justin Britton
+      Tim Lambesis
+    bio: >-
+      Starting over. 🎤 @asilaydying songwriter grateful person addiction recovery supporter mental health advocate fitness enthusiast ☀️ San Diego
     location: "United States"
-    followers: 11057
-    engagement: 574
-    commentsToLikes: 0.021856
-    id: ck0tzk80eqlp50i19jr3310ui
-    verified: false
-    hashtags: "#switzerland, #wesanderson, #europe, #veryunshaven"
-  - username: "sophiachamitoff"
-    fullname: >-
-      🇬🇷Sophia Anastasia Chamitoff🇷🇺
-    location: "United States"
-    followers: 68533
-    engagement: 443
-    commentsToLikes: 0.008743
-    id: ck6ugbp6q22fh0j71aie5aznb
-    verified: false
-    hashtags: "#roses, #goodtimes, #happy, #instasummer"
-  - username: "fitzpattymac21"
-    fullname: >-
-      Mason Leigh
-    location: "United States"
-    followers: 49431
-    engagement: 163
-    commentsToLikes: 0.018519
-    id: ck5hg0jw70a7j0i114xrj8wk1
-    verified: false
-    hashtags: "#love, #family, #bestdayever, #entrepreneur"
+    followers: 35647
+    engagement: 1604
+    commentsToLikes: 0.015513
+    id: ck5c93bgtapbc0i11gn1a0urn
+    verified: true
+    hashtags: "#4thofjuly"
   - username: "hmillerfit"
     fullname: >-
       Hannah Miller Gonzalez
+    bio: >-
+      Simplifying A Fitness Lifestyle™ 🌴 San Diego, CA 💪🏽 Personal Training & Online Coaching TikTok: @hmillerfitness
     location: "United States"
-    followers: 42171
-    engagement: 336
-    commentsToLikes: 0.045818
+    followers: 45890
+    engagement: 449
+    commentsToLikes: 0.040426
     id: ck15u8gjhlxlg0i19p4laa1j3
     verified: false
-    hashtags: "#lats, #abexercise, #athomefitness, #hiitworkout"
-  - username: "turnipvegan"
+    hashtags: "#gymtip, #bootybuilder, #quickworkout, #thethrustisamust"
+  - username: "seeleyfoto"
     fullname: >-
-      Turnip Vegan
+      Brett Seeley Photo
+    bio: >-
+      📍 Denver/San Diego 📸 Fitness Photog ✈️ San Diego Nov 14 ✈️ Vegas Dec 17-20 💰 Coaching group: @lfc_mobetta 👇🏽 Most recent video👇🏽
     location: "United States"
-    followers: 29967
-    engagement: 304
-    commentsToLikes: 0.052484
-    id: ck6txp1plz1ml0j71cngqzhxn
+    followers: 65871
+    engagement: 279
+    commentsToLikes: 0.037032
+    id: ck15rtou49nii0i195wxku78x
     verified: false
-    hashtags: "#2020, #veganiseasy, #vegans, #yogalife"
+    hashtags: "#fitnessphotograpy, #instafit, #fitness, #seeleyfit"
+  - username: "sophiachamitoff"
+    fullname: >-
+      🇬🇷Sophia Anastasia Chamitoff🇷🇺
+    bio: >-
+      •Los Angeles → San Diego •Fitness/Health Enthusiast •CEO @chamitography @rezenapp •Mazes @amazemesophie •Subscribe to My Blog Below ↓
+    location: "United States"
+    followers: 67492
+    engagement: 441
+    commentsToLikes: 0.009155
+    id: ck6ugbp6q22fh0j71aie5aznb
+    verified: false
+    hashtags: "#cabo, #vacation, #summer, #valentine"
+  - username: "jennamasar"
+    fullname: >-
+      j e n n a m a s a r
+    bio: >-
+      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
+    location: "United States"
+    followers: 7512
+    engagement: 973
+    commentsToLikes: 0.113646
+    id: ckaozs50jn5xc0i7844bpf7zw
+    verified: false
+    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In United States In 2020
 description: >-
-  Find top skincare TikTok influencers in United States in 2020. Most popular hashtags: #skincareroutine #skincaretips #acne #makeuphacks.
+  Find top skincare TikTok influencers in United States in 2020. Most popular hashtags: #skincare #fyp #aesthetic #grwm.
 platform: TikTok
+hits: 2682
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 2682 TikTok influencers like this in United States for you to connect with.
 profiles:
+  - username: "skinkick"
+    fullname: >-
+      SkinKick
+    bio: >-
+      Clean + Natural Skincare @target @macys @ulta
+    location: "United States"
+    followers: 17400
+    engagement: 2792
+    commentsToLikes: 0.103643
+    id: ckbbvssj9j3cp0j23bd8px10x
+    verified: false
+    hashtags: "#skinkicklove, #asthetics, #vsco, #skincare"
+  - username: "laynes.life"
+    fullname: >-
+      ✰ layne ✰
+    bio: >-
+      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+    location: "United States"
+    followers: 42400
+    engagement: 2550
+    commentsToLikes: 0.071745
+    id: ckfplcec901cu0j23yd02dkww
+    verified: false
+    hashtags: "#closeup, #xyzbca, #fall, #fyp"
   - username: "jc.dombrowski"
     fullname: >-
       J.C. Dombrowski
+    bio: >-
+      💦Cornell23 MarineBio Student🧬 🇵🇭Honest Skincare🏳️‍🌈 FakeNews-phobic 💅🏼
     location: "United States"
-    followers: 1996616
-    engagement: 2564
-    commentsToLikes: 0.018358
+    followers: 2900000
+    engagement: 2574
+    commentsToLikes: 0.013173
     id: ck80obynrgodq0j786z4nwcq0
     verified: true
-    hashtags: "#homeproject, #lgbt, #history, #littlethings"
-  - username: "idewcare"
+    hashtags: "#skincareroutine, #tiktokpartner, #edutok, #election"
+  - username: "bliss"
     fullname: >-
-      I Dew Care
+      Bliss
+    bio: >-
+      ✨Clean, Cruelty-Free Skincare Shop: @target @walmart @ultabeauty @cvs @walgreens
     location: "United States"
-    followers: 335793
-    engagement: 2578
-    commentsToLikes: 0.018346
-    id: ck8hp39u4xu430j78n2c207u3
-    verified: false
-    hashtags: "#asmr, #oddlysatisfying, #ultabeauty"
-  - username: "adaatude"
+    followers: 85400
+    engagement: 2014
+    commentsToLikes: 0.030622
+    id: ck8zb72ow4e090j78e2bos8cg
+    verified: true
+    hashtags: "#oddlysatisfying, #skincare, #aesthetic, #thisisbliss"
+  - username: "allthingscloseup"
     fullname: >-
-      Adaleta Avdić
+      <33
+    bio: >-
+      closeups + skincare biz: allthingscloseup@gmail.com backup @.allthingscloseup :)
     location: "United States"
-    followers: 393132
-    engagement: 1888
-    commentsToLikes: 0.049575
-    id: ck7zpa4o8oa160j78jtcdzt24
+    followers: 2874
+    engagement: 3020
+    commentsToLikes: 0.158353
+    id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#beautymode, #guacamole, #millennial, #raisingcanespartner"
+    hashtags: "#skincare, #upclose, #routine, #aesthetic"
   - username: "kidskinusa"
     fullname: >-
       Kidskin
+    bio: >-
+      Skincare line for pre-teens and teens Official account 💙🤍
     location: "United States"
-    followers: 6951
-    engagement: 3321
-    commentsToLikes: 0.365664
+    followers: 14900
+    engagement: 2791
+    commentsToLikes: 0.156769
     id: ck933afl0n66k0j78usl1zbsj
     verified: false
-    hashtags: "#teenager, #teen, #familytime, #healthheroes"
-  - username: "buzzfeed"
+    hashtags: "#kidskin, #hyram, #skincare, #grwm"
+  - username: "vicas.lifestyle"
     fullname: >-
-      BuzzFeed
+      V i c a
+    bio: >-
+      🌱skincare Finatticz🏹 📧PR/business email⬇️
     location: "United States"
-    followers: 240351
-    engagement: 2715
-    commentsToLikes: 0.014145
-    id: ck8hrciav87cm0j780krzpoxt
+    followers: 85600
+    engagement: 2197
+    commentsToLikes: 0.047920
+    id: ckcj5siym5wai0j23ftwpnzbc
+    verified: false
+    hashtags: "#roommakeover, #indie, #expressieyourself, #brandymelville"
+  - username: "realtortodd"
+    fullname: >-
+      @realtortodd
+    bio: >-
+      Mildly psychotic, somewhat enjoyable. 🏳️‍🌈 👇🏻 Makeup and skincare 👇🏻
+    location: "United States"
+    followers: 157300
+    engagement: 1312
+    commentsToLikes: 0.077319
+    id: ckafudggn9zkr0i78xk3scoxi
+    verified: false
+    hashtags: "#dorothy, #tiktok, #fyp, #lipsync"
+  - username: "idewcare"
+    fullname: >-
+      I Dew Care
+    bio: >-
+      CEO of Seriously Fun Skincare! 😜 Available @amazon + @ultabeauty + @target.com✨
+    location: "United States"
+    followers: 411700
+    engagement: 2346
+    commentsToLikes: 0.011462
+    id: ck8hp39u4xu430j78n2c207u3
     verified: true
-    hashtags: "#spidermanfarfromhome, #doncheadle, #beautyhacks, #5secondsofsummer"
-  - username: "yayayayoung"
+    hashtags: "#ulta, #skincare, #idewcare, #kbeauty"
+  - username: "skincarebyjoshua"
     fullname: >-
-      yayayayoung
+      joshua dinh : )
+    bio: >-
+      🧴 skincare junkie 🧼 ⬇️ Business/PR Email: ⬇️ skincarebyjoshua@gmail.com 📧
     location: "United States"
-    followers: 372040
-    engagement: 2517
-    commentsToLikes: 0.012304
-    id: ck8tpysp8qotm0j78czv42zq0
+    followers: 12400
+    engagement: 2456
+    commentsToLikes: 0.059118
+    id: ckcva67asr5120j23tjili7v1
     verified: false
-    hashtags: "#edutokskincare, #timemanagement, #cleansing, #acne"
-  - username: "ofracosmetics"
-    fullname: >-
-      Ofra Cosmetics
-    location: "United States"
-    followers: 17866
-    engagement: 1685
-    commentsToLikes: 0.031131
-    id: ck9c4m8lnq4t60j78g00u940a
-    verified: false
-    hashtags: "#easydance, #bored, #earthday2020, #whippedcoffee"
-  - username: "martousnaturals"
-    fullname: >-
-      martousnaturals
-    location: "United States"
-    followers: 2024
-    engagement: 1067
-    commentsToLikes: 0.071027
-    id: ckamyiesbhn4n0i78b6e0em49
-    verified: false
-    hashtags: "#soaproses, #will, #barsfordays, #aftermycoffee"
-  - username: "wildbiomeskinsens"
-    fullname: >-
-      wildbiomeskinsense
-    location: "United States"
-    followers: 3161
-    engagement: 773
-    commentsToLikes: 0.091072
-    id: ck9jw7jz3vasg0j78zar5e8nr
-    verified: false
-    hashtags: "#foodgrade, #soapunmolding, #chocolate, #exfoliate"
-  - username: "thefriendlyfashionistas"
-    fullname: >-
-      ❤️❤️❤️
-    location: "United States"
-    followers: 8598
-    engagement: 1314
-    commentsToLikes: 0.110242
-    id: cka0palkm7hwv0i78ezqsl0qo
-    verified: false
-    hashtags: "#rating, #howto, #bvlgari, #photo"
+    hashtags: "#xyzbca, #pr, #skincaretiktok, #treatyourself"
 ---

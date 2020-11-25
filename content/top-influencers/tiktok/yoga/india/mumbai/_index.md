@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Mumbai In 2020
 description: >-
-  Find top yoga TikTok influencers in Mumbai in 2020. Most popular hashtags: #love #smile #india #mumbai.
+  Find top yoga TikTok influencers in Mumbai in 2020. Most popular hashtags: #tiktok #trending #yoga #foryou.
 platform: TikTok
+hits: 11
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 11 TikTok influencers like this in Mumbai, India for you to work with.
 profiles:
   - username: "yogagurumansoor"
     fullname: >-
       Yogagurumansoor
+    bio: >-
+      Celebrity yoga trainer Mumbai Follow my Instagram page
     location: "India"
-    followers: 781638
-    engagement: 378
-    commentsToLikes: 0.000059
+    followers: 767600
+    engagement: 338
+    commentsToLikes: 0.000000
     id: ck80nsd4uede70j7825rvvm22
     verified: true
-    hashtags: "#mahrashtra, #fitgirl, #gocorona"
-  - username: "yashkaria0009"
+    hashtags: "#antirumors, #yogagrumansoorbaluch, #ttfitness, #nuagehotyoga"
+  - username: "maanjoshi"
     fullname: >-
-      yash
+      MAan Joshi
+    bio: >-
+      🎥Visual effect | motion graphics📸 Creative content creator for social media
     location: "India"
-    followers: 32220
-    engagement: 283
-    commentsToLikes: 0.008186
-    id: ckailsve8pmyz0i78nilvv3su
+    followers: 44600
+    engagement: 566
+    commentsToLikes: 0.010225
+    id: ck999vrg4ex860j78zsjvy6k3
     verified: false
-    hashtags: "#mumbai, #forever, #repost, #myself"
+    hashtags: "#oldwork, #upichalegachallenge, #follow, #vfx"
   - username: "yogasanjana"
     fullname: >-
       sanjana agrawal
+    bio: >-
+      follow me on 👍🏻🤗 *Instagram* @sanjana.karia 💕🥰🤟🤸‍♀ 12yrs professional yog
     location: "India"
     followers: 33742
     engagement: 262
     commentsToLikes: 0.007741
     id: ckaidb2eentiz0i78wbd944jt
     verified: false
-    hashtags: "#ttfitness, #postnatal, #40weekspregnant, #tasty"
+    hashtags: "#fun, #tiktoklover, #pregnant, #pregnancylife"
+  - username: "yogikomaleshwar"
+    fullname: >-
+      Komaleshwar Pal
+    bio: >-
+      Professional Yoga Instructor Acupressure Therapist Facebook-Komaleshwar Pal
+    location: "India"
+    followers: 35700
+    engagement: 1039
+    commentsToLikes: 0.010941
+    id: ckc8ilpajc50n0j23yczz9hrx
+    verified: false
+    hashtags: "#tiktokindia, #follow, #haridwar, #yoga"
+  - username: "yashkaria0009"
+    fullname: >-
+      yash
+    bio: >-
+      Yoga trainer Zumba official (Zin) trainer Follow me on Instagram mryash_0009
+    location: "India"
+    followers: 31900
+    engagement: 276
+    commentsToLikes: 0.008379
+    id: ckailsve8pmyz0i78nilvv3su
+    verified: false
+    hashtags: "#stayathome, #foryoupage, #parenting, #covid19"
+  - username: "missshrutiseth"
+    fullname: >-
+      Shruti Seth
+    bio: >-
+      Actor. Presenter.
+    location: "India"
+    followers: 98400
+    engagement: 324
+    commentsToLikes: 0.034444
+    id: ckbaatzgd3hp60j238e0e0xqa
+    verified: true
+    hashtags: "#yoga, #tiktok, #creator, #lifeunderlockdown"
+  - username: "dinkritsethi"
+    fullname: >-
+      Dinkrit Sethi
+    bio: >-
+      AUTHOR, LIFE COACH ACSM Certified Nutrition & Fitness Expert Insta @dinktionary
+    location: "India"
+    followers: 120100
+    engagement: 1285
+    commentsToLikes: 0.009217
+    id: ck8tq5pguqq790j78g0ziuynw
+    verified: false
+    hashtags: "#fitness, #staypositive, #hindi, #sharethecare"
   - username: "simran_sugarcoated"
     fullname: >-
       Simran Sugarcoated
+    bio: >-
+      Actress / Model in Bollywood, Sandalwood and Irani movies ...
     location: "India"
-    followers: 13459
-    engagement: 699
-    commentsToLikes: 0.041145
+    followers: 13400
+    engagement: 678
+    commentsToLikes: 0.037918
     id: ck9k6wu122k6q0j788ad4yoiy
     verified: false
-    hashtags: "#hair, #yaadpiyaki, #bikramyoga, #blue"
-  - username: "niteshsharmaa"
+    hashtags: "#foryoupage, #simranmishrikoti, #indeedpedhoondo, #smiledekedekho"
+  - username: "travelwithsearats"
     fullname: >-
-      Nitesh Sharma
+      Searats
+    bio: >-
+      RASHMEE & ANANT Follow us on Instagram @travelwithsearats
     location: "India"
-    followers: 80160
-    engagement: 917
-    commentsToLikes: 0.006555
-    id: ck81s4pj3pypp0j788hg2q8q5
+    followers: 10300
+    engagement: 448
+    commentsToLikes: 0.009810
+    id: ckbwkzqnd3vjq0j23vomu7gyj
     verified: false
-    hashtags: "#crossfit, #deepikapadukone, #tamilmemes, #instalike"
-  - username: "enaasharma"
+    hashtags: "#drone, #traveldiaries, #northeastindia, #andaman"
+  - username: "kuldeepfreeruner"
     fullname: >-
-      enaa💖
+      Kuldeep Rawat
+    bio: >-
+      Check out my new video on YouTube how to do back walkover
     location: "India"
-    followers: 104156
-    engagement: 1273
-    commentsToLikes: 0.040755
-    id: ck8ozllascnzv0j78g0vgu8kr
+    followers: 48700
+    engagement: 586
+    commentsToLikes: 0.011755
+    id: ckcd18i1izx0a0j23tn0im3si
     verified: false
-    hashtags: "#tredding, #kind, #smile, #foryourpage"
-  - username: "sunandasurkundu91"
-    fullname: >-
-      CatWoman
-    location: "India"
-    followers: 214079
-    engagement: 1403
-    commentsToLikes: 0.019851
-    id: ck8fb1k4w52ii0j78mnqyynrp
-    verified: false
-    hashtags: "#groom, #shadi, #mykaa, #ayiburovaatday"
-  - username: "anjalishukla43"
-    fullname: >-
-      Anjali Shukla
-    location: "India"
-    followers: 101258
-    engagement: 1464
-    commentsToLikes: 0.044330
-    id: ck80nsbffecw70j7804onmpfg
-    verified: false
-    hashtags: "#lovemymom, #thanksmaa, #itsme, #happy"
-  - username: "yogaurmi.india"
-    fullname: >-
-      URMI PANDYA
-    location: "India"
-    followers: 2561334
-    engagement: 725
-    commentsToLikes: 0.019500
-    id: ck80nsab0ecj20j78tnf7zzvw
-    verified: true
-    hashtags: "#20lakhcrorepackage, #blinkwithme, #daddy, #facechallenge"
-  - username: "padmapalraj"
-    fullname: >-
-      padmapalraj
-    location: "India"
-    followers: 7254
-    engagement: 1310
-    commentsToLikes: 0.022779
-    id: ckal8e4eej6in0i784gj91n8t
-    verified: false
-    hashtags: "#duet, #memoriesbringback"
+    hashtags: "#foryou, #sportlover, #handstand, #fitnessdance"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In United States In 2020
 description: >-
-  Find top bakers Instagram influencers in United States in 2020. Most popular hashtags: #mothersday #netflix #easter #puffpastry.
+  Find top bakers Instagram influencers in United States in 2020. Most popular hashtags: #tbt #blacklivesmatter #love.
 platform: Instagram
+hits: 3666
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 3666 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "simons_bread"
     fullname: >-
       Simon Bowden
+    bio: >-
+      Baker
     location: "United States"
-    followers: 7602
-    engagement: 764
-    commentsToLikes: 0.072450
+    followers: 8303
+    engagement: 860
+    commentsToLikes: 0.058190
     id: ck6u13xirjfly0j71bzfjd23x
     verified: false
-    hashtags: "#bakeathome, #wholegrainbread, #crackers, #focaccia"
-  - username: "thealexxvaldivia"
+    hashtags: "#sourdough, #yahoofood, #food52, #sourdoughbread"
+  - username: "bestobaker"
     fullname: >-
-      alex valdivia🪐
+      Giuseppe Besto Stella
+    bio: >-
+      I'm a Bearded baker in love with photography. 📍Milano 🇮🇹 🏳️‍🌈 |He/Him| The other side of me👇 @besto_stella
     location: "United States"
-    followers: 12599
-    engagement: 1578
-    commentsToLikes: 0.333588
-    id: ck14juiwem9a20i199jxh0l60
+    followers: 7268
+    engagement: 1351
+    commentsToLikes: 0.064616
+    id: ck6tyehy039k30j71pe2sx5np
     verified: false
-    hashtags: "#softboyaesthetic, #valentines2020, #tiktoks, #yup"
+    hashtags: "#art, #queer, #muscle, #pink"
   - username: "real_tim_othy"
     fullname: >-
       Tim Othy
+    bio: >-
+      From WI. Live in SF. Gym goer. Traveler. Baker. Dog lover. Needlepointer. Linguaphile, Golden Girls lunatic, and Oxford comma enthusiast.
     location: "United States"
-    followers: 17566
-    engagement: 1527
-    commentsToLikes: 0.045313
+    followers: 28743
+    engagement: 1015
+    commentsToLikes: 0.051472
     id: ck9hb12frexd20j7894363rx2
     verified: false
-    hashtags: "#winecountry, #peludo, #hotguys, #coronabop"
-  - username: "gemma_stafford"
-    fullname: >-
-      Gemma Stafford
-    location: "United States"
-    followers: 121567
-    engagement: 536
-    commentsToLikes: 0.036183
-    id: ck0w1xhqelmhc0i19k0tesijh
-    verified: true
-    hashtags: "#firsttimedad, #saintpatricksday, #babyshark, #newbaby"
-  - username: "parmezana"
-    fullname: >-
-      Natalia I
-    location: "United States"
-    followers: 10367
-    engagement: 1173
-    commentsToLikes: 0.034847
-    id: ck5zmhkcsml0y0i14ratdynvo
-    verified: false
-    hashtags: "#honeycake, #homemade"
-  - username: "runningwithmoxie"
-    fullname: >-
-      𝓐𝓶𝓫𝓮𝓻 🏃🏻‍♀️
-    location: "United States"
-    followers: 23682
-    engagement: 445
-    commentsToLikes: 0.055803
-    id: ck13544xbzlyl0i19o9elya71
-    verified: false
-    hashtags: "#irunwithmaud, #racialinjustice, #blackmenrun, #friyay"
+    hashtags: "#byedon2020, #proudboys, #vote, #bidenharris2020"
   - username: "biancavierra"
     fullname: >-
       b. 🐝
+    bio: >-
+      hot tub connoisseur 🛁 aspiring sourdough baker 👩🏻‍🍳 LA - @theindustryla francis@theindustrymodelmgmt.com
     location: "United States"
-    followers: 35450
-    engagement: 430
-    commentsToLikes: 0.075291
+    followers: 34689
+    engagement: 674
+    commentsToLikes: 0.033143
     id: ck1381wzie3wf0i196bq18n4u
     verified: true
-    hashtags: "#formalfriday"
-  - username: "graciethecosplaylass"
+    hashtags: ""
+  - username: "gemma_stafford"
     fullname: >-
-      GracieTheCosplayLass
+      Gemma Stafford
+    bio: >-
+      Host, Professional Chef, Bold Baker, Irish living in LA. Follow my baking @biggerbolderbaking. New baking recipes 4x per week on my website 👇
     location: "United States"
-    followers: 32979
-    engagement: 422
-    commentsToLikes: 0.033498
-    id: ck8szdfpfnzom0j78a2pw74z7
-    verified: false
-    hashtags: "#covid, #harleyquinn, #harleyquinshow, #quarantine"
-  - username: "marvelous.mrs.hufflepuff"
-    fullname: >-
-      Sabrina ⚯͛ | Witchy Lifestyle
-    location: "United States"
-    followers: 2786
-    engagement: 2649
-    commentsToLikes: 0.068384
-    id: ck6u49buk2fos0j71ucnfnzka
-    verified: false
-    hashtags: "#quarantinebaking, #magicherwaychallenge, #magicunderthestairschallenge, #cake"
+    followers: 131040
+    engagement: 332
+    commentsToLikes: 0.035423
+    id: ck0w1xhqelmhc0i19k0tesijh
+    verified: true
+    hashtags: "#newmom, #babyboy, #newparents, #fallbaking"
   - username: "thefunamentals"
     fullname: >-
       Funa Maduka
+    bio: >-
+      🚫 rarely on IG, pls direct all queries to funa.assistant@gmail.com filmmaker 👩🏾‍🎨 & aspiring vegan baker👩🏾‍🍳 tedx talk 🔻; film @waitingforhassana
     location: "United States"
-    followers: 10221
-    engagement: 437
+    followers: 10386
+    engagement: 430
     commentsToLikes: 0.088188
     id: ck8t00dozqexk0j78wk7x4dyg
     verified: false
-    hashtags: "#ladjly, #celinesciamma, #pedroalmodovar, #afterparty"
+    hashtags: "#badgleymischka, #luluwang, #pedroalmodovar, #bongjoonho"
+  - username: "__jennrivera"
+    fullname: >-
+      Jennifer Rivera
+    bio: >-
+      Valentina’s mama + Oscar’s wifey 💕 Built on love + faith ⋒ Bakersfield, CA 🍇
+    location: "United States"
+    followers: 24331
+    engagement: 1709
+    commentsToLikes: 0.007366
+    id: ck5hkpnwoiuci0i1129lpn87t
+    verified: false
+    hashtags: "#momlife, #babygirl, #bakersfield, #cliffordglover"
+  - username: "tarek1_1_1"
+    fullname: >-
+      tarek طارق
+    bio: >-
+      🇪🇬 egypshan 🗽New Yorker. nomad📍ahora (Bakersfield, CA)🏔 connection to Mother Earth first ☝🏽 🌍 everything els second ✌🏽 Work @tarekdesigns_
+    location: "United States"
+    followers: 47028
+    engagement: 214
+    commentsToLikes: 0.039118
+    id: ckapag30avyfi0i78ep74n3c1
+    verified: true
+    hashtags: "#spirtuality, #love, #spirtualawakening, #spirtualjourney"
+  - username: "greer_grammer"
+    fullname: >-
+      Greer Grammer
+    bio: >-
+      Hi! I’m Greer :) 🎥actress (awkward, the middle) 👸🏼disney nerd 🎄christmas obsessed ✝️Luke 1:45 🧁amateur baker 🤳🏻amateur instagrammer 🤷🏼‍♀️amateur adult
+    location: "United States"
+    followers: 167425
+    engagement: 269
+    commentsToLikes: 0.019157
+    id: ck14iopvbggkl0i19ay6gtcvg
+    verified: true
+    hashtags: "#disneyplusdrivein, #tbt, #blacklivesmatter, #happyearthday"
+  - username: "madscarroll2"
+    fullname: >-
+      Madeline Carroll
+    bio: >-
+      Actress - speaker - writer (Isaiah 43) Favs: iced tea,1995 Leonardo DiCaprio, n Forensic Files Mostly known as Julie baker but evry1 calls me Mads 💅
+    location: "United States"
+    followers: 86974
+    engagement: 480
+    commentsToLikes: 0.009268
+    id: ck0u28jm7z6zg0i19pt9jgsr9
+    verified: true
+    hashtags: "#photochallenge, #selfiechallenge, #throwbackkkkk"
 ---

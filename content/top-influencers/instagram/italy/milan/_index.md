@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Milan In 2020
 description: >-
-  Find top Instagram influencers in Milan in 2020. Most popular hashtags: #iostoacasa #iorestoacasa #coronavirus #morphebabe.
+  Find top Instagram influencers in Milan in 2020. Most popular hashtags: #makeup #makeuptutorial #halloweenmakeup.
 platform: Instagram
+hits: 3207
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 3207 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "angel.mcqueen"
     fullname: >-
       Angel McQueen
+    bio: >-
+      Milan
     location: "Italy"
-    followers: 26827
-    engagement: 1271
-    commentsToLikes: 0.016293
+    followers: 25559
+    engagement: 1222
+    commentsToLikes: 0.017150
     id: ckap1dgm1u4aa0i78c2mfpwxd
     verified: false
-    hashtags: "#irisvanherpen, #eyeliner, #umbreon, #espeon"
-  - username: "manuel.montanari"
+    hashtags: "#makeup, #eyeliner, #pokemon, #pokemonmakeup"
+  - username: "nicoleeceretta"
     fullname: >-
-      Manuel Montanari
+      Nicole Ceretta
+    bio: >-
+      🇿🇦🇮🇹 Milan
     location: "Italy"
-    followers: 6831
-    engagement: 933
-    commentsToLikes: 0.018499
-    id: ck5buouo4i5wq0i11pvau4s8e
+    followers: 13999
+    engagement: 612
+    commentsToLikes: 0.029460
+    id: ck8sxah0hgovr0j78zqdli67f
     verified: false
-    hashtags: "#armanisilos"
-  - username: "villarfa"
+    hashtags: "#unpublished, #day43, #facetimeshooting, #dgfamily"
+  - username: "silvio_tova"
     fullname: >-
-      Facundo
+      S I L V I O  T O V A G L I A
+    bio: >-
+      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com
     location: "Italy"
-    followers: 5295
-    engagement: 1183
-    commentsToLikes: 0.009089
-    id: ckap36a251qj30i78a7hxeblg
+    followers: 16967
+    engagement: 984
+    commentsToLikes: 0.193945
+    id: ck0u1mb6hx8ga0i19d9k1rvsb
     verified: false
-    hashtags: ""
-  - username: "gaiabegnis"
+    hashtags: "#insiemecelafaremo, #snipesknows, #supplied, #fratellipercaso"
+  - username: "ilaria.bertolasi"
     fullname: >-
-      Gaia Begnis
+      Ιlaria Bertolasi
+    bio: >-
+      📍Milan 🇮🇹 🎓 HR & Organizational Psychology 🔛 Stage @luca.mazzucchelli 🌍 visited 🇮🇹 🇬🇧 🇦🇹 🇩🇪 🇪🇸 🇫🇷 🇲🇨 🇸🇪 🇮🇪 🇭🇺🇨🇭🇺🇸 🇨🇦 🇹🇳 🇹🇷 🇪🇬 🇸🇨 🇨🇺 🇸🇲🇻🇦🇩🇴 🇸🇮 🇭🇷
     location: "Italy"
-    followers: 24186
-    engagement: 1567
-    commentsToLikes: 0.104119
-    id: ck0ty02inl0z30i19abgqhd4r
+    followers: 11777
+    engagement: 2891
+    commentsToLikes: 0.166018
+    id: ckf5uy081mppb0j23yby6tvyv
     verified: false
-    hashtags: "#eauthermaleuriage, #stateacasa, #zuegg, #uriagebebe"
-  - username: "chrislaway"
-    fullname: >-
-      Trap Player
-    location: "Italy"
-    followers: 54150
-    engagement: 1468
-    commentsToLikes: 0.071703
-    id: ckap5t4b9d2000i78e1fdqnz8
-    verified: false
-    hashtags: "#relaxingtime, #noalghe"
+    hashtags: "#siviaggiare, #paesaggiitaliani, #scatto, #italyviews"
   - username: "paolodebosio"
     fullname: >-
       Paolo
+    bio: >-
+      📍Based in Milan. 🤍 TikTok:paolodebosio (+480k) 💌COLLAB: paoloinstagramdebosio@yahoo.com
     location: "Italy"
-    followers: 50533
-    engagement: 1262
-    commentsToLikes: 0.111558
+    followers: 57555
+    engagement: 1933
+    commentsToLikes: 0.106893
     id: ck13atwtqs5za0i19x3yzvng3
     verified: false
-    hashtags: "#bershkastyle, #mugshotchallenge, #mugshot"
-  - username: "sante"
+    hashtags: "#mugshotchallenge, #mugshot, #coronavirus, #covid"
+  - username: "francescobertoli_music"
     fullname: >-
-      Luca Santeramo
+      FRANCESCO BERTOLI
+    bio: >-
+      📍Milano|24 MGMT:@isoladegliartisti ✉:Info@isoladegliartisti.it Fuori ora Carpe Diem ⬇️
     location: "Italy"
-    followers: 88353
-    engagement: 1189
-    commentsToLikes: 0.307308
-    id: ck0w21wwcm8mj0i190kg91h1o
+    followers: 123501
+    engagement: 1529
+    commentsToLikes: 0.046909
+    id: ckap0c627pp540i781pzbb0ph
+    verified: true
+    hashtags: "#mcdonalds, #musica, #iorestoacasa, #carpediem"
+  - username: "chrislaway"
+    fullname: >-
+      Trap Player
+    bio: >-
+      Milano 🇮🇹🇨🇭 Cantante Per info collaborazioni - bookinglaway@gmail.com 👇Video youtube👇
+    location: "Italy"
+    followers: 44284
+    engagement: 1339
+    commentsToLikes: 0.064364
+    id: ckap5t4b9d2000i78e1fdqnz8
     verified: false
-    hashtags: "#heritagepack, #lacostesneakers, #day23, #ginengine"
+    hashtags: "#relaxingtime"
+  - username: "la_snika"
+    fullname: >-
+      Federica Ricci
+    bio: >-
+      💫 MOTHER OF BICCIZ #biccizfam 📍 Milan, Italy 💄Certified Makeup Artist 💌 federicaricci966@icloud.com 🎬 YOUTUBE 👇🏼
+    location: "Italy"
+    followers: 20050
+    engagement: 1107
+    commentsToLikes: 0.148482
+    id: ck5c3to4l01ea0i11kixjuxq7
+    verified: false
+    hashtags: "#patmcgrath, #glammakeup, #halloweeninspo, #fentybeauty"
   - username: "liquorsbeauty"
     fullname: >-
       Luca 🐆🇮🇹
+    bio: >-
+      Beauty Lover👨🏼‍🎨 Milan 📩 lux.essposito90@gmail.com 👇🏼new YouTube video👇🏼
     location: "Italy"
-    followers: 27842
-    engagement: 1162
-    commentsToLikes: 0.162792
+    followers: 34029
+    engagement: 860
+    commentsToLikes: 0.102450
     id: ck138czq8fn0e0i19kkek2r3r
     verified: false
-    hashtags: "#flower, #manga, #bodypainting, #rainonme"
-  - username: "gabriele_anakin"
+    hashtags: "#falslashes, #makeuptutorial, #reel, #hudabeauty"
+  - username: "sespo"
     fullname: >-
-      AИAKIИ🦄
+      Edoardo Esposito 👼🏻
+    bio: >-
+      🇮🇹21.10.99 🏠Milan CLICCATE PER COMPRARE #VALESPO PER SEMPRE
     location: "Italy"
-    followers: 72096
-    engagement: 1145
-    commentsToLikes: 0.063054
-    id: ck5q93wfi99fu0i11nwxkvvve
-    verified: false
-    hashtags: "#iggy, #worldfamousink, #worldfamousfamily, #worldfamousforever"
-  - username: "vatalaromonica"
-    fullname: >-
-      Monica Vatalaro
-    location: "Italy"
-    followers: 22686
-    engagement: 905
-    commentsToLikes: 0.065678
-    id: ck9wdvymfhifj0j78lnpd1god
-    verified: false
-    hashtags: "#hair, #feetmodel, #piedini, #coronavirus"
+    followers: 1747596
+    engagement: 1064
+    commentsToLikes: 0.029150
+    id: ck5zrz3xcxitf0i14j92kyo1b
+    verified: true
+    hashtags: "#ad, #adv, #huaweivideo, #valespo"
 ---

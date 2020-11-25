@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Spain In 2020
 description: >-
-  Find top architecture Instagram influencers in Spain in 2020. Most popular hashtags: #sunset #stayathome #reflection #street.
+  Find top architecture Instagram influencers in Spain in 2020. Most popular hashtags: #spain #travel #barcelona #sunset.
 platform: Instagram
+hits: 256
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 256 Instagram influencers like this in Spain for you to collaborate.
 profiles:
   - username: "marcplam"
     fullname: >-
-      MARC PLÀ
+      Ｍａｒｃ  Ｐｌà
+    bio: >-
+      📍Barcelona 💡Designer / Actor Design•Architecture•Photography•Travels•Fashion•Creativity 🇪🇸 🇵🇹 🇦🇩 🇫🇷 🇮🇹 🇨🇭 🇩🇪 🇬🇧 🇧🇪 🇳🇱 🇬🇷 🇹🇷 🇪🇬 🇯🇴 🇻🇳 🇨🇳 🇵🇭 🇹🇭 🇸🇨 🇺🇸
     location: "Spain"
-    followers: 5552
-    engagement: 2184
-    commentsToLikes: 0.031052
+    followers: 5952
+    engagement: 1855
+    commentsToLikes: 0.038305
     id: ck15uzxdlp97j0i19rabrc07y
     verified: false
-    hashtags: "#stayathome, #tuesday"
+    hashtags: "#ootdfashion, #instagay, #gaystagram, #gay"
+  - username: "imigordaniel"
+    fullname: >-
+      Igor Daniel
+    bio: >-
+      art travel fashion architecture 📍 Barcelona contactigordaniel@gmail.com
+    location: "Spain"
+    followers: 13042
+    engagement: 1063
+    commentsToLikes: 0.026649
+    id: ckaox8rlbca0n0i78ax7igjz5
+    verified: false
+    hashtags: "#photooftheday, #malemodel, #menswear, #instaboy"
+  - username: "dennysmp"
+    fullname: >-
+      Dennys Martin Perez
+    bio: >-
+      . . . . . ⭐ . . . . . Diseñador y Fotógrafo ✈ Canario en Galicia 🏡 @lacarmonahouse Coming soon 🎥 @sch_lifestylephoto 📷 @sch_architecture
+    location: "Spain"
+    followers: 6399
+    engagement: 608
+    commentsToLikes: 0.040599
+    id: ck5zqui6hvbh90i14zx3omw3j
+    verified: false
+    hashtags: "#boiro, #galicia, #paraiso, #ribadavia"
   - username: "vanillaattack"
     fullname: >-
       Teresa Sala
+    bio: >-
+      ☼ Mama to Noah ☼ Owner of @vanilla.swim ☼ BA in Architecture 💌 hello@vanillaattack.com
     location: "Spain"
-    followers: 447502
-    engagement: 95
-    commentsToLikes: 0.030772
+    followers: 437598
+    engagement: 90
+    commentsToLikes: 0.021530
     id: ck5zspybgyz2m0i14ym83xmci
     verified: false
-    hashtags: "#posse, #pregnantbelly, #quarantinelife, #happyearthday"
-  - username: "pablito_pisa"
+    hashtags: "#jan, #bobbies, #bobbiespartner, #revolveme"
+  - username: "xuanyl7"
     fullname: >-
-      • Pablo García Pisa •
+      Xuan Yin
+    bio: >-
+      📐Architect in progress 👔Intern at @amb_metropolis 📷 Freelance Architectural Photographer #Architecture | #Landscape | #Portrait
     location: "Spain"
-    followers: 222249
-    engagement: 662
-    commentsToLikes: 0.192133
-    id: ck6twe0yfrh630j71wuk2652u
+    followers: 13593
+    engagement: 1551
+    commentsToLikes: 0.114601
+    id: ck5zrgjg8wje20i1419ezo7o3
     verified: false
-    hashtags: "#resistir, #loveguess, #guessjewellery"
-  - username: "naciahmoreira"
+    hashtags: "#minimal, #opengram20, #ohb20, #cityscape"
+  - username: "arqpatrimonial"
     fullname: >-
-      Naciah Moreira
+      A N D R É S | Chilean in Spain
+    bio: >-
+      📸 Urban | Architecture | Fisheye ©️ Founder of @castlesofspain 🇪🇸 Collaborated in @ok_spain 📍 Badajoz - Extremadura - Spain
     location: "Spain"
-    followers: 2792
-    engagement: 1228
-    commentsToLikes: 0.064830
-    id: ck5hptfqarxtm0i11uyo0onrk
+    followers: 7169
+    engagement: 1671
+    commentsToLikes: 0.151165
+    id: ck5zv3us93jlt0i14iqoyh7fw
     verified: false
-    hashtags: "#quarantine, #quarentena, #cycling, #nature"
-  - username: "franlopez_r"
-    fullname: >-
-      Francisca López
-    location: "Spain"
-    followers: 2890
-    engagement: 958
-    commentsToLikes: 0.063167
-    id: ck5pw75dvlfl90i11z33znrwl
-    verified: false
-    hashtags: "#best, #snatch, #training, #rave"
+    hashtags: "#castles, #lavera, #amar, #igersspain"
   - username: "gonaquerreta"
     fullname: >-
       Gonzalo Aquerreta
+    bio: >-
+      architecture and digital
     location: "Spain"
-    followers: 59329
-    engagement: 841
-    commentsToLikes: 0.008406
+    followers: 63577
+    engagement: 830
+    commentsToLikes: 0.008017
     id: ck0w10k4pgymk0i19qjs9nv3m
     verified: false
-    hashtags: "#larocavillage, #acquadigio, #armanibeauty, #birthdayboy"
-  - username: "peribet"
+    hashtags: ""
+  - username: "manhund"
     fullname: >-
-      Pedro
+      Manuel Gil | Valencia
+    bio: >-
+      City | Architecture | Some people framing Living in Bilbao 🇪🇸 Nuevo vídeo en YouTube👇🏻 📽️
     location: "Spain"
-    followers: 7347
-    engagement: 808
-    commentsToLikes: 0.055648
-    id: ck5q84wyj4gb00i117gwc8li4
+    followers: 3895
+    engagement: 1464
+    commentsToLikes: 0.129281
+    id: ck5hdrrrnp1j00i116ow8ov3i
     verified: false
-    hashtags: "#archdaily, #addicted, #geowt, #architecturenow"
-  - username: "lisetverberne"
-    fullname: >-
-      𝕋𝕙𝕖 𝕋𝕣𝕒𝕧𝕖𝕝 ℙ𝕙𝕠𝕥𝕠𝕘𝕣𝕒𝕡𝕙𝕖𝕣
-    location: "Spain"
-    followers: 12517
-    engagement: 468
-    commentsToLikes: 0.084813
-    id: ck5znaqpno3n90i14lzfc7a3c
-    verified: false
-    hashtags: "#waterval, #greecepix, #trikalagreece, #tulpenveld"
-  - username: "aitorfpar"
-    fullname: >-
-      Aitor Fernandez 📍 Bilbao 
-    location: "Spain"
-    followers: 21170
-    engagement: 474
-    commentsToLikes: 0.033234
-    id: ckap6yq7shx5v0i78k33v0n9k
-    verified: false
-    hashtags: "#puppybilbao, #manhattan, #highlinenyc, #chelseanyc"
+    hashtags: "#manhund, #theimaged, #exploreourearth, #streetsineurope"
   - username: "migmacia"
     fullname: >-
       Miguel
+    bio: >-
+      Burgos , lugares y el 🌍 alrededor. Travel....📸 Streets & Architecture.
     location: "Spain"
-    followers: 2172
-    engagement: 2041
-    commentsToLikes: 0.049448
+    followers: 2402
+    engagement: 2405
+    commentsToLikes: 0.063438
     id: ck8sywr4ambbr0j78pmhcrdub
     verified: false
-    hashtags: "#cherryblossom, #cathedral, #dresden, #atardecer"
+    hashtags: "#passionpassport, #visitportugal, #amar, #architecturephotography"
+  - username: "franlopez_r"
+    fullname: >-
+      Francisca López
+    bio: >-
+      🇨🇱 24 Last yr Architecture student || UVM Crossfit Bilingual (spanish/eng)
+    location: "Spain"
+    followers: 3260
+    engagement: 989
+    commentsToLikes: 0.062093
+    id: ck5pw75dvlfl90i11z33znrwl
+    verified: false
+    hashtags: "#sur, #chile, #photography, #carreteraaustral"
 ---

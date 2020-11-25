@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Finland In 2020
 description: >-
-  Find top home decor Instagram influencers in Finland in 2020. Most popular hashtags: #homedecor #arvonta #giveaway #vappu.
+  Find top home decor Instagram influencers in Finland in 2020. Most popular hashtags: #homedecor #olohuone #livingroom #scandinavianhome.
 platform: Instagram
+hits: 48
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 48 Instagram influencers like this in Finland for you to contact.
 profiles:
-  - username: "tuoksuajatunnelmaa"
+  - username: "suolamaella"
     fullname: >-
-      E M I L I A  🌸
+      Suolamäellä | Melanie Krysl
+    bio: >-
+      🌻 An eclectic, bohemian inspired apartment in Helsinki, Finland 🧡 Thrift finds, vintage, DIY, plants, Alvar 🐈 🌿 Big ideas, small budget DM to collab!
     location: "Finland"
-    followers: 5531
-    engagement: 1153
-    commentsToLikes: 0.172852
-    id: ck8tbockrwghh0j78dyri1tnf
+    followers: 6016
+    engagement: 1589
+    commentsToLikes: 0.032352
+    id: ck8tavujpta2z0j78zdnx2u1z
     verified: false
-    hashtags: "#puutarhael, #hankkija, #hedelma, #hedelm"
-  - username: "hhaanski"
+    hashtags: "#crashbangcolour, #plantsmakepeoplehappy, #myvintagehome, #homedecor"
+  - username: "marjawickman"
     fullname: >-
-      Hanna-Kerttu
+      MUSTA OVI
+    bio: >-
+      Art Director | Designer | Blogger ➕The Best Interior Design Blog 2016 and 2017✖️ Author @festive_book
     location: "Finland"
-    followers: 7613
-    engagement: 1917
-    commentsToLikes: 0.046278
-    id: ck136l70q718c0i19kj4qoo8d
+    followers: 33296
+    engagement: 276
+    commentsToLikes: 0.051774
+    id: ck0tumzey7tgw0i197y3omiio
     verified: false
-    hashtags: "#leopardprint, #hair, #boots, #camouflage"
-  - username: "innatahtinen"
+    hashtags: "#raami, #homedecor, #concretewall, #iittala"
+  - username: "piiatuuli"
     fullname: >-
-      Inna / Miss Helsinki 2020 ✨
+      Interior by Piia
+    bio: >-
+      interior | lifestyle home in Finland | 📧 piiatuuli@gmail.com
     location: "Finland"
-    followers: 6075
-    engagement: 1808
-    commentsToLikes: 0.024321
-    id: ck6u0faywfcll0j719xzdl4sz
+    followers: 83131
+    engagement: 172
+    commentsToLikes: 0.038960
+    id: ck14losg9vqgw0i19p5ki6pzb
     verified: false
-    hashtags: "#myself, #proteinbar, #riseandshine, #ylioppilas"
-  - username: "siljain"
+    hashtags: "#kitchen, #sisustusinspiraatio, #sisustus, #terrace"
+  - username: "suvim_valkoinenharmaja"
     fullname: >-
-      silja • lifestyle • motherhood
+      Valkoinen Harmaja - Suvi M
+    bio: >-
+      ▪️Finnish interior decoration influencer. Ambassador for Philips Hue. ▪️Love modern & cosy interior style. ▪️2nd home: @villa.fregatti Blog:
     location: "Finland"
-    followers: 2851
-    engagement: 1074
-    commentsToLikes: 0.232618
-    id: ck5zvzknk575a0i14x2u5p5nu
+    followers: 24871
+    engagement: 273
+    commentsToLikes: 0.052707
+    id: ck6tw0ogepbx50j71217fsc22
     verified: false
-    hashtags: "#stylish, #tuekotimaista, #lastenvaatteet, #koti"
-  - username: "laurasusannna"
+    hashtags: "#inredning, #piha, #terassi, #iittala"
+  - username: "mustapuutalo"
     fullname: >-
-      Laura 🌙
+      
+    bio: >-
+      | New home | interior | moments | Finland 🇫🇮
     location: "Finland"
-    followers: 2671
-    engagement: 1059
-    commentsToLikes: 0.183183
-    id: ck6tszvr97s000j71h2lbwwu6
+    followers: 14019
+    engagement: 468
+    commentsToLikes: 0.064124
+    id: ck13bpircwjq50i19mm9bo3pi
     verified: false
-    hashtags: "#olematsmart, #pellava, #mood, #izipizi"
-  - username: "lindaemiiliia"
+    hashtags: "#livingroomdecor, #lastenhuone, #softminimalism, #cosyhome"
+  - username: "unelmalandia"
     fullname: >-
-      Linda | Rauma, FIN
+      DORIS | Nordic interior & life
+    bio: >-
+      Perhearkea, jossa tasapainoillaan oman ajan sekä omakotitalon sisustuksen aallokossa✨ 🖌 Art Director 📍Turku Finland ✉️unelmalandia@gmail.com & DM
     location: "Finland"
-    followers: 3268
-    engagement: 876
-    commentsToLikes: 0.175967
-    id: ck55peb2jadm70i11c5mkdmle
+    followers: 3550
+    engagement: 892
+    commentsToLikes: 0.122085
+    id: ck8tbbqivv1oo0j78uqnam7dk
     verified: false
-    hashtags: "#plantstagram, #flowerbouquet, #homedecor, #bouquet"
-  - username: "nellynicola"
+    hashtags: "#baby, #bedroom, #ikea, #lastenhuoneensisustus"
+  - username: "keskipiste"
     fullname: >-
-      N E L L Y   N I C O L A
+      Jenni
+    bio: >-
+      From 🇫🇮 living in 🇺🇸 Interior | Lifestyle | Blog 📧keski.blogi@gmail.com My lifestyle @keski.living https://www.wescover.com/l/space/jennis-home
     location: "Finland"
-    followers: 7230
-    engagement: 1185
-    commentsToLikes: 0.017403
-    id: ck6uaahtv2gfa0j712aab6b89
+    followers: 49744
+    engagement: 160
+    commentsToLikes: 0.141323
+    id: ck8svuippcqq10j78bfb8l7vt
     verified: false
-    hashtags: "#decor, #32weekspregnant, #posterstore, #interiordesigner"
-  - username: "valentinaaiello"
+    hashtags: "#interior125, #interior123, #passionforinterior, #diningroomdecor"
+  - username: "anttiroikotona"
     fullname: >-
-      Sofia Aiello-Tikka
+      Heli | Nordic Home & Living ☕🌿
+    bio: >-
+      • @2xilo brand rep • Remontoitu omakotitalo | 100m² | DIY | • l i f e s t y l e | i n t e r i o r • Collab 》 DM | ✉
     location: "Finland"
-    followers: 31397
-    engagement: 1950
-    commentsToLikes: 0.010950
-    id: ck5qa5xlieply0i11oub9m0xa
+    followers: 5628
+    engagement: 727
+    commentsToLikes: 0.037270
+    id: ck6ttz953dep00j71c949oti4
     verified: false
-    hashtags: "#valmentaja, #tuesdaythoughts, #virtuaalivappu, #sistergoals"
-  - username: "mmarj00"
+    hashtags: "#koti, #simplicity, #nordicdesign, #neutralhome"
+  - username: "essipieces"
     fullname: >-
-      Interior | Nordic Home
+      Essi Vehkala
+    bio: >-
+      〰️ interiorlover | family | lifestyle ✍🏻 blogger & content creator ♡ mom of two & 👰🏻 7/2021 📍Finland | Jyväskylä ✉️ essi.vehkala@gmail.com
     location: "Finland"
-    followers: 27514
-    engagement: 581
-    commentsToLikes: 0.246981
-    id: ck0u6gy5020wt0i19873zezyl
+    followers: 13405
+    engagement: 602
+    commentsToLikes: 0.023954
+    id: ck8tavnrat97q0j7884iche8t
     verified: false
-    hashtags: "#shelfdecor, #hjemmehygge, #interior2you, #cornersofmyhome"
-  - username: "vintageinteriorxx"
+    hashtags: "#skandimodernit, #interiorinspo, #inredning, #kidspartyideas"
+  - username: "carolinagruner"
     fullname: >-
-      Keltainen Kahvipannu
+      Carolina Grunér
+    bio: >-
+      Painting landscapes of the soul. Writing stories of the heart. Self-taught. Hoping to empower you with vulnerability. Finland Shop: 👇🏽
     location: "Finland"
-    followers: 73280
-    engagement: 362
-    commentsToLikes: 0.054654
-    id: ck0w2dbkzns9u0i19xho81s55
+    followers: 33937
+    engagement: 327
+    commentsToLikes: 0.037265
+    id: ck8t6k3m7dxn90j78nesm19zx
     verified: false
-    hashtags: "#happycolors, #vetokiuas, #diyhome, #mygardentoday"
+    hashtags: "#abstractpainting, #paintinglandscapesofthesoul, #independentartist, #contemporarypainter"
 ---

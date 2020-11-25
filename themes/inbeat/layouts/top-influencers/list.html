@@ -1,7 +1,11 @@
 {{- define "main" -}}
 <section class="container mobile-adjusted page-top" id="top-profiles-header">
     <h1>{{ .Params.Title }}</h1>
+    {{- if isset .Params "text_top" -}}
+    <p>{{ .Params.text_top }}</p>
+    {{- else -}}
     <p>Identify the most popular {{ .Params.platform }} accounts on inBeat.</p>
+    {{- end -}}
     <a href="{{ $.Site.BaseURL -}}features/discover" class="btn btn-md btn-crazy" target="_blank">
         Find more influencers
     </a>
@@ -52,6 +56,11 @@
                     <p>{{- div (float (int (mul $e.commentsToLikes 10000))) 10 -}}</p>
                     <span>comments per 1000 likes</span>
                 </div>
+                {{- if not (eq $e.bio "") -}}
+                <div class="col-xs-12">
+                    <p class="bio">{{- $e.bio -}}</p>
+                </div>
+                {{- end -}}
                 {{- if not (eq $e.hashtags "") -}}
                 <div class="col-xs-12">
                     <p class="small"><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</p>
@@ -84,7 +93,11 @@
 <div class="container mobile-adjusted top-link-list" id="top-bottom-cta">
     <div class="col-xs-12">
         <h2>inBeat, for free</h2>
-        <h3>Get your Influencer campaign started.</h3>
+        {{- if isset .Params "text_bottom" -}}
+        <h4>{{ .Params.text_bottom }}</h4>
+        {{- else -}}
+        <h4>Get your Influencer campaign started.</h4>
+        {{- end -}}
         <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-lg" target="_blank">
             <span>Try it now</span> &#8212 it's free
         </a>

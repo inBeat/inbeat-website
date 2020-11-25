@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Greece In 2020
 description: >-
-  Find top photographers Instagram influencers in Greece in 2020. Most popular hashtags: #athens #lifestyle #photographer #smile.
+  Find top photographers Instagram influencers in Greece in 2020. Most popular hashtags: #fashion #greece #editorial #photoshoot.
 platform: Instagram
+hits: 202
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 202 Instagram influencers like this in Greece for you to contact.
 profiles:
   - username: "christos_predoulis"
     fullname: >-
       Christos Predoulis
+    bio: >-
+      Photographer
     location: "Greece"
-    followers: 14788
-    engagement: 303
-    commentsToLikes: 0.021237
+    followers: 14569
+    engagement: 254
+    commentsToLikes: 0.068042
     id: ck14khy8spkzz0i19x0qi6tnq
     verified: false
-    hashtags: "#advertising, #commerce, #ecommerce, #production"
+    hashtags: "#womenfashion, #editorial, #style, #womensfashion"
   - username: "skoulos"
     fullname: >-
       skoulos
+    bio: >-
+      Photographer
     location: "Greece"
-    followers: 119706
-    engagement: 484
-    commentsToLikes: 0.003984
+    followers: 117682
+    engagement: 381
+    commentsToLikes: 0.004565
     id: ck0vvx52kr5xi0i19b2us035w
     verified: false
-    hashtags: "#master, #hairstyles, #cover, #quarantinelife"
-  - username: "antonis_kanaris"
+    hashtags: "#women, #cover, #editorial, #photoshoot"
+  - username: "thanasis_bitzi"
     fullname: >-
-      Antonis Kanaris
+      Thanasis Bitzilis
+    bio: >-
+      •Portrait Photographer •Based In Athens/Greece •Food Profile:@foodlens.gr •Personal Profile:@thanasis.bitzilis
     location: "Greece"
-    followers: 8087
-    engagement: 859
-    commentsToLikes: 0.079321
-    id: ck5pvivxdi3gq0i115pydr8k0
+    followers: 5889
+    engagement: 1282
+    commentsToLikes: 0.094157
+    id: ck5q2nvzegxlp0i11fg05nm9x
     verified: false
-    hashtags: "#lifestyle, #roofrestaurant, #bars, #ermou"
+    hashtags: "#realismag, #instameetgrece, #portraitpage, #globalportraits"
   - username: "jim_kehagias"
     fullname: >-
       ᴊɪᴍ ᴋᴇʜᴀɢɪᴀs
+    bio: >-
+      📸 Photographer based in Athens Portrait | Fashion | Architecture | Food 📩 Dm for collaboration! Email: Dimkehagias@yahoo.gr
     location: "Greece"
-    followers: 10658
-    engagement: 1073
-    commentsToLikes: 0.083795
+    followers: 10889
+    engagement: 1684
+    commentsToLikes: 0.191912
     id: ckap6b08tf4ut0i782amr8h8v
     verified: false
-    hashtags: "#sunny, #summer2020, #palms, #sunsetlover"
-  - username: "sbingraphy"
-    fullname: >-
-      Safiye Bingöl
-    location: "Greece"
-    followers: 30515
-    engagement: 563
-    commentsToLikes: 0.031651
-    id: ck0vzrgefajq50i19ambrq32d
-    verified: false
-    hashtags: "#tb, #keepcreatingchallenge"
-  - username: "kosmaskoumianos"
-    fullname: >-
-      kosmas koumianos
-    location: "Greece"
-    followers: 39334
-    engagement: 969
-    commentsToLikes: 0.011309
-    id: ck0u2e4yizmkg0i196xy0usxq
-    verified: false
-    hashtags: "#saltlife, #merrychristmas, #stayinbed, #lips"
-  - username: "oskar_grfx"
-    fullname: >-
-      Yorgos Oskar | Photographer
-    location: "Greece"
-    followers: 16258
-    engagement: 909
-    commentsToLikes: 0.021671
-    id: ck5pvitaki3250i1139to7egc
-    verified: false
-    hashtags: "#athenslife, #fitness, #vscocam, #beachwear"
-  - username: "zissis_live"
-    fullname: >-
-      Zissis Tsoubos
-    location: "Greece"
-    followers: 6838
-    engagement: 1558
-    commentsToLikes: 0.004129
-    id: ckaoqu2j0kee50i78h7m08yya
-    verified: false
-    hashtags: "#realhiphop, #billytheta, #bwconcert, #stoner"
+    hashtags: "#islandvibes, #photooftheday, #instagood, #sunnyday"
   - username: "monetasss"
     fullname: >-
       moneta zumba
+    bio: >-
+      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
     location: "Greece"
-    followers: 3350
-    engagement: 1485
-    commentsToLikes: 0.158522
+    followers: 4414
+    engagement: 2231
+    commentsToLikes: 0.157875
     id: ckap25faqxg9t0i78vz6cndj5
     verified: false
-    hashtags: "#mykonos, #izmir, #body, #colorful"
-  - username: "evangelia_21.8"
+    hashtags: "#igers, #fashion, #fun, #photooftheday"
+  - username: "andreas_kamoutsis"
     fullname: >-
-      𝑬𝒗𝒂𝒏𝒈𝒆𝒍𝒊𝒂 𝑨𝒕𝒉𝒂𝒏𝒂𝒔𝒊𝒂𝒅𝒐𝒖
+      Andreas Kamoutsis
+    bio: >-
+      📷 Official Fujifilm X-Photographer 📌 candid/unposed 📌 no filters/no extreme editing/just my 📸 👉 Team @dreaminstreets 👉 Team @bnw_demand
     location: "Greece"
-    followers: 3961
-    engagement: 1388
-    commentsToLikes: 0.232716
-    id: ck5q06rkx4j110i119n060ez4
+    followers: 5732
+    engagement: 1751
+    commentsToLikes: 0.051242
+    id: ck6u7026jip1j0j71uk044sku
     verified: false
-    hashtags: "#simplicity, #pr0ject, #createyourlight, #model"
+    hashtags: ""
+  - username: "lookirev"
+    fullname: >-
+      Lilach Revivo
+    bio: >-
+      Traveler planner ✈️ Photographer 📷 Owner of @lookichic |home decor| Activities for kids ‘around the 🌏' מתכננת לכם טיול בהתאמה אישית 🤝
+    location: "Greece"
+    followers: 3525
+    engagement: 1154
+    commentsToLikes: 0.395725
+    id: ckapbjvhg05ex0i78xe3namq0
+    verified: false
+    hashtags: "#totravel, #instagramisrael, #deadsea, #thedeadsea"
+  - username: "sbingraphy"
+    fullname: >-
+      Safiye Bingöl
+    bio: >-
+      photographer of love / visual storyteller / educator bookings for 2021 + 2022 🧡
+    location: "Greece"
+    followers: 32864
+    engagement: 451
+    commentsToLikes: 0.036975
+    id: ck0vzrgefajq50i19ambrq32d
+    verified: false
+    hashtags: "#stayhome, #evdekal, #zoom, #keepcreatingchallenge"
+  - username: "afshinismaeli"
+    fullname: >-
+      Afshin Ismaeli
+    bio: >-
+      Journalist and photographer covering war & conflicts around the world. Try to give a voice to the voiceless. Journalist at @aftenposten
+    location: "Greece"
+    followers: 55741
+    engagement: 804
+    commentsToLikes: 0.011647
+    id: ck5c3zb4x0bsb0i11op3h5uio
+    verified: true
+    hashtags: ""
+  - username: "esther_makris"
+    fullname: >-
+      Esther Makris
+    bio: >-
+      Destination Photographer JW ♾ Infinite moments ♾ For Videos Visit @nik.moments For Santorini moments visit @infinite.santorini.moments
+    location: "Greece"
+    followers: 6518
+    engagement: 1386
+    commentsToLikes: 0.013551
+    id: ck6tvtr1mo8hl0j71cuzjrfyt
+    verified: false
+    hashtags: "#moments, #familygoals, #picoftheday, #wedding"
 ---

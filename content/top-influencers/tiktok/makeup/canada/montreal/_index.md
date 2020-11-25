@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Montreal In 2020
 description: >-
-  Find top makeup TikTok influencers in Montreal in 2020. Most popular hashtags: #makeup #quarantine #quebec #montreal.
+  Find top makeup TikTok influencers in Montreal in 2020. Most popular hashtags: #foryou #makeup #fyp #montreal.
 platform: TikTok
+hits: 34
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 34 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "myriamsmn"
+  - username: "krystelmary"
     fullname: >-
-      Myriam
+      Krystel ✨
+    bio: >-
+      Professional dancer, singer, performer 💃🏽 MTL 🇨🇦 IG: krystelassaf
     location: "Canada"
-    followers: 72792
-    engagement: 1006
-    commentsToLikes: 0.036115
-    id: ck83wvjotmeqk0j78oiblcah6
+    followers: 56400
+    engagement: 785
+    commentsToLikes: 0.039825
+    id: ckdcamt16itti0j23547trxcy
     verified: false
-    hashtags: "#meme, #pinkhair, #hairtutorial, #jojopose"
-  - username: "purnaah"
+    hashtags: "#fyp, #duet, #foryou, #dancer"
+  - username: "myriam_7201"
     fullname: >-
-      Sudeshna Haldar
+      Mimi mad
+    bio: >-
+      🇨🇦/🇭🇹
     location: "Canada"
-    followers: 44739
-    engagement: 1283
-    commentsToLikes: 0.013187
-    id: ck9818v4zauip0j78j0uog4eg
+    followers: 4171
+    engagement: 713
+    commentsToLikes: 0.043985
+    id: ckbkxybzzu1j80j23ns61p0x0
     verified: false
-    hashtags: "#foxyeye, #party, #shopaholic, #myoutfit"
-  - username: "koedeann"
+    hashtags: "#handmade, #montreal, #duo, #joueraveclavie"
+  - username: "katiekhaos"
     fullname: >-
-      Kekee
+      Katie Marie
+    bio: >-
+      /Lvl 31/ /🇨🇦Canada🇨🇦/ /Pansexual/
     location: "Canada"
-    followers: 19170
-    engagement: 861
-    commentsToLikes: 0.016228
-    id: ck9byp50mn9kd0j789rtsa6ex
+    followers: 50300
+    engagement: 1241
+    commentsToLikes: 0.038845
+    id: ck8oxyxjh4qna0j78n920i3sa
     verified: false
-    hashtags: "#tiktokcovers, #bestfandom, #djathome, #pourtoi"
-  - username: "ddkyu"
-    fullname: >-
-      🇨🇦Dan🖤Delisle🇨🇦
-    location: "Canada"
-    followers: 12782
-    engagement: 1091
-    commentsToLikes: 0.056244
-    id: ck94l57abxwwx0j78qmw10lmy
-    verified: false
-    hashtags: "#friends, #proverb, #clown, #duet"
-  - username: "nadiyuhz"
-    fullname: >-
-      nadia
-    location: "Canada"
-    followers: 110764
-    engagement: 1543
-    commentsToLikes: 0.009774
-    id: ck7zo5fv6hywu0j78wm80eeyu
-    verified: false
-    hashtags: "#makeuplook, #dayinthelife, #ootd, #loungewear"
-  - username: "audreyy_dx"
-    fullname: >-
-      Audrey-Ann
-    location: "Canada"
-    followers: 8425
-    engagement: 1282
-    commentsToLikes: 0.032515
-    id: ck80opy9lj59a0j7832bw0h1d
-    verified: false
-    hashtags: "#toosieslide, #minimumwage, #music, #coronavirus"
+    hashtags: "#viral, #spookytreats, #animalfriends, #medievaltiktok"
   - username: "annekrystelgoyerofficial"
     fullname: >-
       Anne Krystel
+    bio: >-
+      Créatrice de parfums haut de gamme, modèle et actrice.
     location: "Canada"
-    followers: 5078
-    engagement: 436
-    commentsToLikes: 0.039103
+    followers: 14700
+    engagement: 224
+    commentsToLikes: 0.047086
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#white, #80music, #mexico, #woman"
-  - username: "_annamarier"
+    hashtags: "#montreal, #sexy, #perfume, #makeup"
+  - username: "nicsa16"
     fullname: >-
-      annamarier
+      ON HIATUS
+    bio: >-
+      moved to @junkyardstrash
     location: "Canada"
-    followers: 51900
-    engagement: 583
-    commentsToLikes: 0.039024
-    id: ck90vwxt61pq80j78e3qosq12
+    followers: 10600
+    engagement: 1868
+    commentsToLikes: 0.021392
+    id: ckbqnrnzi8klj0j233z30cdkj
     verified: false
-    hashtags: "#peptalk, #bakingrecipe, #bootty, #womensbest"
-  - username: "ob1canoebee"
+    hashtags: "#kakeguruiyumekocosplay, #unbrellaacademy, #lischloe, #dokidokiliteratureclubcosplay"
+  - username: "rafaelleglx"
     fullname: >-
-      stephanie
+      Rafaelle Groulx
+    bio: >-
+      Merci pour 10K la gang !! 💗💗💗 MTL📍 🇨🇦 Polytechnique Mtl 🎓 IG rafaelleglx
     location: "Canada"
-    followers: 144749
-    engagement: 1795
-    commentsToLikes: 0.024794
-    id: ckacaxg56h8nw0i78lssdbcn7
+    followers: 10300
+    engagement: 1012
+    commentsToLikes: 0.025851
+    id: ckd0wgk1bkkf70j23n4o5yzav
     verified: false
-    hashtags: "#itsgonnabeok, #santa, #nowgetreadyfor, #superbowl"
+    hashtags: "#party, #quebec, #tiktokquebec, #comedie"
+  - username: "mtl.shay"
+    fullname: >-
+      Shay🦋
+    bio: >-
+      Montreal #ENDSARS🇳🇬 Kakashi Hatake’s Wife😌
+    location: "Canada"
+    followers: 41900
+    engagement: 2174
+    commentsToLikes: 0.047411
+    id: cka62m57g0hck0i787tpzrp3x
+    verified: false
+    hashtags: "#pain, #jokes, #jahkingguillory, #morningboost"
+  - username: "zabelleeee"
+    fullname: >-
+      Isabelle
+    bio: >-
+      22 📍singapore/montreal
+    location: "Canada"
+    followers: 27600
+    engagement: 2099
+    commentsToLikes: 0.024475
+    id: ckbl63sho3s8w0j23887with5
+    verified: false
+    hashtags: "#fyp, #halloween, #foryou, #fathersday"
   - username: "andalinaa"
     fullname: >-
       anda ✌︎('ω')✌︎
+    bio: >-
+      🍰Anda🍰 she/her | bi instagram: @andalina._ montreal | blm acab ⇩support me!
     location: "Canada"
-    followers: 20407
-    engagement: 2067
-    commentsToLikes: 0.014448
+    followers: 37400
+    engagement: 2504
+    commentsToLikes: 0.016901
     id: ck9euze0bfwru0j78oxncl1z1
     verified: false
-    hashtags: "#imintheghetto, #happynewyear, #ootd, #cartoon"
+    hashtags: "#outfit, #fashion, #pink, #harajukufashion"
+  - username: "rendezmoimonnom"
+    fullname: >-
+      Romy Victory
+    bio: >-
+      je suis ici pour reprendre possession de mon nom pris en otage / Montréal 📍
+    location: "Canada"
+    followers: 398700
+    engagement: 2486
+    commentsToLikes: 0.007641
+    id: ck806wzxumpgh0j78wf5iq9tp
+    verified: false
+    hashtags: "#fyp, #sunglassechallenge, #foryou, #romyvictory"
 ---

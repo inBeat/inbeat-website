@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Dallas In 2020
 description: >-
-  Find top models TikTok influencers in Dallas in 2020. Most popular hashtags: #model #dallas #quarantine #singing.
+  Find top models TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #model #dallas #foryou.
 platform: TikTok
+hits: 27
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 27 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "rowheimfarooqui"
+  - username: "theoriginalke"
     fullname: >-
-      Rowheim Farooqui
+      theoriginalke
+    bio: >-
+      I’m Kemarilyn Chanel Singer, Youtuber, Model Dallas / Houston 📍 CA💰$Kemarilyn
     location: "United States"
-    followers: 16494
-    engagement: 505
-    commentsToLikes: 0.053791
-    id: cka0m6byru12m0i78lmj1hfa3
+    followers: 329100
+    engagement: 1972
+    commentsToLikes: 0.011089
+    id: ckb0sb3cshwq10j2312v0rwr9
     verified: false
-    hashtags: "#spanishtunes, #fitchick, #supercharger, #hair"
-  - username: "averiebishop"
+    hashtags: "#vibewithus, #worldpeace, #blacktiktok, #hairtransformation"
+  - username: "glads44"
     fullname: >-
-      Aves
+      Silo like silhouette
+    bio: >-
+      22 Follow my insta^^ Only fans here vv
     location: "United States"
-    followers: 16589
-    engagement: 1289
-    commentsToLikes: 0.016078
-    id: ck92whk2suka90j782okyyury
+    followers: 3621
+    engagement: 837
+    commentsToLikes: 0.119658
+    id: ckdnubcftmx8d0j231etmi87q
     verified: false
-    hashtags: "#albumlookalike, #girlpower, #minority, #filipino"
-  - username: "juandaniielz"
+    hashtags: "#fyp, #viral, #money, #exoticdancer"
+  - username: "naomilissettee"
     fullname: >-
-      Juan
+      naomilissettee
+    bio: >-
+      im kinda boring but hey (:
     location: "United States"
-    followers: 41577
-    engagement: 1028
-    commentsToLikes: 0.019748
-    id: ck8s8jkwsu2ve0j788qv6g81j
+    followers: 398300
+    engagement: 2008
+    commentsToLikes: 0.017218
+    id: ck9epn7chtbuu0j78d1h6kvrc
     verified: false
-    hashtags: "#imblind, #werkitfromhome, #butterglosspop, #color"
-  - username: "myaghorbani"
+    hashtags: "#foryou, #dallas, #fyp, #model"
+  - username: "helloimmaverick"
     fullname: >-
-      mya👼🏼
+      Maverick
+    bio: >-
+      I like basketball tamu’22 business email: realhelloimmaverick@gmail.com
     location: "United States"
-    followers: 7781
-    engagement: 642
-    commentsToLikes: 0.026392
-    id: ck9vfmeha3qse0j788ibv93ox
+    followers: 354900
+    engagement: 1330
+    commentsToLikes: 0.009153
+    id: ck8hklc63efyz0j78ypqt0p6i
     verified: false
-    hashtags: "#anime, #model, #bff"
-  - username: "suggamonkey"
+    hashtags: "#lebron, #lakers, #luka, #giannis"
+  - username: "dtal"
     fullname: >-
-      Susan Curry
+      Dylan Talimoni🇹🇴
+    bio: >-
+      Photographer 📍HTX Follow me on insta 👆🏼
     location: "United States"
-    followers: 2983
-    engagement: 491
-    commentsToLikes: 0.035725
-    id: ck9v73wxe4mcw0j78xyu4wfai
+    followers: 43600
+    engagement: 2077
+    commentsToLikes: 0.019397
+    id: ckbfbzg9s4cx50j23ocz5a78i
     verified: false
-    hashtags: "#okc, #preshshop, #9to5, #lakelife"
-  - username: "georgemendezart"
+    hashtags: "#houstonphotography, #foryoupage, #photograhy, #photomagic"
+  - username: "djzetaofficial"
     fullname: >-
-      George Mendez
+      DJ ZETA OFFICIAL
+    bio: >-
+      DJs | Twins | Texas | Regios ⛰
     location: "United States"
-    followers: 98339
-    engagement: 1769
-    commentsToLikes: 0.017400
-    id: ck81qx9ynko5t0j78u0nfqtmj
+    followers: 185300
+    engagement: 748
+    commentsToLikes: 0.005566
+    id: ck9r4q7r3wa8m0j785exp8i93
     verified: false
-    hashtags: "#leonardodicaprio, #follow, #viral, #studio"
-  - username: "rolandsvp"
+    hashtags: "#funny, #quincea, #cowboys, #djzeta"
+  - username: "terjiah_loui"
     fullname: >-
-      Roland Pollard
+      terjiah_loui
+    bio: >-
+      📍DALLAS TX THE KING OF TIKTOK👑 I’ll just verify myself✅ DM FOR CHEAP PROMO💰
     location: "United States"
-    followers: 412282
-    engagement: 2144
-    commentsToLikes: 0.013769
-    id: ck8f7865n2vpx0j78h5s20p5m
+    followers: 1500000
+    engagement: 2723
+    commentsToLikes: 0.012944
+    id: ck8or5qgyaokv0j78p0t13tkq
     verified: false
-    hashtags: "#toddler, #dadlife, #randomthings, #goingpro"
-  - username: "enlightenedking"
+    hashtags: "#terjiah, #fyp, #fypchallenge, #greenscreenvideo"
+  - username: "alyssanicole.official"
     fullname: >-
-      enlightenedking
+      Alyssa Nicole✨
+    bio: >-
+      👻: alyssareed0012 SUB TO MY CHANNEL🌹 Join the Luxe Family✨ Dallas, TX
     location: "United States"
-    followers: 74708
-    engagement: 593
-    commentsToLikes: 0.032727
-    id: ck8fc3w026ev80j78dacz4dku
+    followers: 51900
+    engagement: 2356
+    commentsToLikes: 0.037300
+    id: ck9glefgdo0110j783y897lfs
     verified: false
-    hashtags: "#muaythai, #english, #arkansas, #mexican"
-  - username: "axelgramirez"
+    hashtags: "#fyp, #greenscreenvideo, #greenscreen, #photoshoot"
+  - username: "chasefelke"
     fullname: >-
-      Axel🇲🇽
+      Chase Felke
+    bio: >-
+      FOLLOW MY INSTAGRAM. 👆 @Chasefelke Dallas, Texas
     location: "United States"
-    followers: 6129
-    engagement: 1284
-    commentsToLikes: 0.034133
-    id: ckacfnhuprp0j0i780olg87dx
+    followers: 603900
+    engagement: 1466
+    commentsToLikes: 0.011094
+    id: ck9f9ylbv8zkx0j78zm4vp6oo
     verified: false
-    hashtags: "#elpaso, #puro956, #fxckice, #texas"
-  - username: "adrean_i"
+    hashtags: "#supercars, #dallastx, #senna, #pagani"
+  - username: "rockyourhair"
     fullname: >-
-      Adrean Indolos
+      rockyourhair
+    bio: >-
+      Are You the Next R💖CK Model? ✨
     location: "United States"
-    followers: 11439
-    engagement: 1054
-    commentsToLikes: 0.041216
-    id: ck8khqn6xnx9p0j78uauhpp1k
+    followers: 352900
+    engagement: 1156
+    commentsToLikes: 0.012887
+    id: ckbr7ijrqmo0d0j23yjrtrext
     verified: false
-    hashtags: "#model, #classof2020, #senior2020, #tutorial"
+    hashtags: "#rockyourhair, #rockmodel, #fyp, #cheerleader"
 ---

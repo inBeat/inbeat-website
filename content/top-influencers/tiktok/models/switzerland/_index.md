@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top models TikTok influencers in Switzerland in 2020. Most popular hashtags: #model #challenge #america #tiktok.
+  Find top models TikTok influencers in Switzerland in 2020. Most popular hashtags: #foryou #model #fyp #switzerland.
 platform: TikTok
+hits: 28
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 28 TikTok influencers like this in Switzerland for you to contact.
 profiles:
+  - username: "adrianamarques240"
+    fullname: >-
+      adrianamarques240
+    bio: >-
+      Model pro📸🇵🇹🇨🇭 IG @adri_ana_adia @adriana_marquescompte2 tiktok 🙏❤
+    location: "Switzerland"
+    followers: 108200
+    engagement: 1969
+    commentsToLikes: 0.021148
+    id: ckdhfvbuexi250j23o4lw70z1
+    verified: false
+    hashtags: "#jeuxdacteurenfrancais, #pourtoi, #tiktokfrance, #tiktokjapan"
+  - username: "marcoandredasilva"
+    fullname: >-
+      Marco Andre da Silva
+    bio: >-
+      Actor🎬Model🤵🏻Dancer🕺🏾 —————————— 📍Zürich / 🇨🇭 IG: @marcoandredasilva
+    location: "Switzerland"
+    followers: 584300
+    engagement: 1248
+    commentsToLikes: 0.031521
+    id: ck9c4zt7qqa5g0j78vvbm9o03
+    verified: false
+    hashtags: "#comedyskit, #foryou, #outfitchange, #fyp"
   - username: "stevenepprecht"
     fullname: >-
       Steven Epprecht
+    bio: >-
+      model & blogger IG @stevenepprecht 272K Everywhere you go, take a smile with you
     location: "Switzerland"
-    followers: 104381
-    engagement: 697
-    commentsToLikes: 0.040765
+    followers: 214900
+    engagement: 922
+    commentsToLikes: 0.030160
     id: cka85wri200ma0i78ffm00gw8
     verified: false
-    hashtags: "#sauer, #newtrend, #moodoftheday, #emojichallenge"
+    hashtags: "#howidressup, #whatiwearfor, #styleguide, #viral"
   - username: "flawentica"
     fullname: >-
       flawenty
+    bio: >-
+      Model and Motion Picture Character Follow me on IG: @flawenty 🌸
     location: "Switzerland"
-    followers: 75012
-    engagement: 1009
-    commentsToLikes: 0.009749
+    followers: 75100
+    engagement: 982
+    commentsToLikes: 0.010723
     id: ck8opwvcg539l0j78x97s83ne
     verified: false
-    hashtags: "#coronavirus, #outfitcheck, #christmas, #repost"
+    hashtags: "#foryou, #xyzcba, #fyp, #xyzbca"
+  - username: "bat.inked.girl"
+    fullname: >-
+      bat.inked.girl
+    bio: >-
+      📸 Tattoomodel 📍 Schweiz 🇨🇿 Tschechin Insta: bat.inked.girl
+    location: "Switzerland"
+    followers: 5905
+    engagement: 910
+    commentsToLikes: 0.021300
+    id: ckbkhzyuia38d0j23nun1br3a
+    verified: false
+    hashtags: "#modellife, #inkedgirl, #adventkalender, #czechgirl"
+  - username: "__mr.inked.zuerich94__"
+    fullname: >-
+      Niki
+    bio: >-
+      💉 TattooModel Follow me on Instagram 👌☺️ : __mr.inked.zuerich__
+    location: "Switzerland"
+    followers: 10500
+    engagement: 910
+    commentsToLikes: 0.020810
+    id: ckb9kqyv8cxmc0j232vwv96l0
+    verified: false
+    hashtags: "#smile, #new, #model, #mylife"
+  - username: "stepanida.sw"
+    fullname: >-
+      Stepanida
+    bio: >-
+      ⭐️ Insta: @stepanida.life • 📍 Living in Switzerland 🇨🇭
+    location: "Switzerland"
+    followers: 9521
+    engagement: 418
+    commentsToLikes: 0.056248
+    id: ckb0roj23h6d50j234mvszao3
+    verified: false
+    hashtags: "#face, #german, #deutsch, #trend"
+  - username: "greta_varlese"
+    fullname: >-
+      Greta Varlese
+    bio: >-
+      21 , living in🇨🇭(TI) 50% 🇩🇪 50% 🇮🇹 / just having fun
+    location: "Switzerland"
+    followers: 2458
+    engagement: 504
+    commentsToLikes: 0.031430
+    id: ckd0n0vlqgudd0j23mlnf3u3q
+    verified: false
+    hashtags: "#fy, #foryou, #switzerland, #tiktok"
   - username: "alexpohl_"
     fullname: >-
       Fotoartist Alex Pohl
+    bio: >-
+      Offizieller Account Photographer & Filmmaker Germany & Switzerland
     location: "Switzerland"
     followers: 60596
     engagement: 605
     commentsToLikes: 0.013475
     id: ck8hkkd4se97p0j787r3wjulc
     verified: false
-    hashtags: "#challenge, #fotomodel, #fotoshooting, #photoedit"
+    hashtags: "#tiktok, #photograhy, #tiktokgermay, #photoshoot"
   - username: "saidbahrii"
     fullname: >-
       Said Bahri
+    bio: >-
+      One million smile - Mixed - No risk No fun - Follow on inst
     location: "Switzerland"
-    followers: 18457
-    engagement: 561
-    commentsToLikes: 0.009734
+    followers: 18100
+    engagement: 525
+    commentsToLikes: 0.009033
     id: ck8vwl1gjor6c0j78e0gvh3l8
     verified: false
-    hashtags: "#zrcebeach, #elektrik, #minimal, #america"
-  - username: "luzpalokaj"
-    fullname: >-
-      luzpalokaj
-    location: "Switzerland"
-    followers: 59195
-    engagement: 457
-    commentsToLikes: 0.007822
-    id: ck9dpj2afw4ig0j780n9jw4rv
-    verified: false
-    hashtags: "#sister, #funny, #beauty, #albania"
-  - username: "marcoandredasilva"
-    fullname: >-
-      Marco Andre da Silva
-    location: "Switzerland"
-    followers: 84278
-    engagement: 807
-    commentsToLikes: 0.068588
-    id: ck9c4zt7qqa5g0j78vvbm9o03
-    verified: false
-    hashtags: "#tiktok, #catlwak, #1000ofme, #familyguy"
-  - username: "thibaud_emery"
-    fullname: >-
-      Thibaud_Emery
-    location: "Switzerland"
-    followers: 2635
-    engagement: 886
-    commentsToLikes: 0.028285
-    id: ckaign600240o0i78zzro1fiv
-    verified: false
-    hashtags: "#motivationmusic, #dolcegabana, #shootingtime, #luxurylife"
-  - username: "etrofficiel"
-    fullname: >-
-      elvir
-    location: "Switzerland"
-    followers: 4620
-    engagement: 456
-    commentsToLikes: 0.010410
-    id: ck9sjxiqs5yjn0j78ps5orb9d
-    verified: false
-    hashtags: "#confinement, #mydog, #hairstyle, #havana"
-  - username: "yannclu"
-    fullname: >-
-      Yannclu
-    location: "Switzerland"
-    followers: 2071
-    engagement: 449
-    commentsToLikes: 0.028079
-    id: ck8qgbyxi08tz0j78n8wulwzb
-    verified: false
-    hashtags: "#inspiration, #drawchallenge, #cars, #juventus"
-  - username: "aichakind"
-    fullname: >-
-      Aichakind
-    location: "Switzerland"
-    followers: 9372
-    engagement: 435
-    commentsToLikes: 0.025980
-    id: ck9n6gg1p75lw0j78co57a9n2
-    verified: false
-    hashtags: "#funny, #repost, #bestfriend, #facetracking"
+    hashtags: "#foryou, #fitnesstips, #ink, #style"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Portugal In 2020
 description: >-
-  Find top makeup TikTok influencers in Portugal in 2020. Most popular hashtags: #makeup #tiktok #tutorial #dueto.
+  Find top makeup TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #makeup #foryou #fy.
 platform: TikTok
+hits: 22
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in Portugal for you to work with.
 profiles:
-  - username: "nadinesilvaalmeida"
+  - username: "yasminlaleska"
     fullname: >-
-      Nadine Silva Almeida
+      Yasmin Laleska
+    bio: >-
+      Wait... I’m just finishing my makeup 💄💋 insta: @yasminlaleska
     location: "Portugal"
-    followers: 155885
-    engagement: 857
-    commentsToLikes: 0.012612
-    id: ck9ng9fdjf1qf0j78kb4qseaf
+    followers: 12700
+    engagement: 880
+    commentsToLikes: 0.028283
+    id: ckav8uiw8g5gf0j233fnteg6b
     verified: false
-    hashtags: "#looks, #foryou, #dueto, #fyp"
+    hashtags: "#makeover, #alexademielook, #maquilhagem, #fy"
+  - username: "mateus_soares1"
+    fullname: >-
+      🔥Mateus Soares🔥
+    bio: >-
+      ✨BLM✨ 29.5k ppl hate trump 🍊🔫
+    location: "Portugal"
+    followers: 30300
+    engagement: 1875
+    commentsToLikes: 0.056902
+    id: ckbqnz08z8qge0j233usbxrfd
+    verified: false
+    hashtags: "#dueto, #fy, #mateussoares1, #fyp"
   - username: "joanashino"
     fullname: >-
       𝕵𝖔𝖆𝖓𝖆𝕾𝖍𝖎𝖓𝖔
+    bio: >-
+      hi 👻
     location: "Portugal"
-    followers: 5993
-    engagement: 1428
-    commentsToLikes: 0.015167
+    followers: 6488
+    engagement: 1608
+    commentsToLikes: 0.016049
     id: ck9ej5zx60rjr0j78mtperz6h
     verified: false
-    hashtags: "#gothgf, #hairlesscats, #cats, #catvideos"
+    hashtags: "#goth, #gothgirl, #creepy, #alternative"
   - username: "irinamadaleno0"
     fullname: >-
       Irina Madaleno
+    bio: >-
+      Angolan🇦🇴 living in Portugal 🇵🇹
     location: "Portugal"
-    followers: 43239
-    engagement: 1100
-    commentsToLikes: 0.019491
+    followers: 46300
+    engagement: 1331
+    commentsToLikes: 0.017206
     id: ck83zbs86zhr80j783zvuks9a
     verified: false
-    hashtags: "#tutorial, #gibberish, #billieeilish, #eyeslipsface"
-  - username: "irisloveunicorns"
+    hashtags: "#fyp, #tiktokangola, #tiktokportugal, #dueto"
+  - username: "bibaaaaaaas"
     fullname: >-
-      Ines Silva
+      Beatriz Costa
+    bio: >-
+      from portugal 🇵🇹 📥 hi@saywe.pt beatrizrelvas@hotmail.com
     location: "Portugal"
-    followers: 33777
-    engagement: 934
-    commentsToLikes: 0.006104
-    id: cka6nwrfkd5ft0i782ax1h0xa
+    followers: 33900
+    engagement: 1570
+    commentsToLikes: 0.010210
+    id: ckcoy6jwsa2oi0j234vv7lue1
     verified: false
-    hashtags: "#food, #haircolor, #hairchange, #fashiondesigner"
-  - username: "constanzaariza"
-    fullname: >-
-      ❥Constanza Ariza❥
-    location: "Portugal"
-    followers: 618056
-    engagement: 2110
-    commentsToLikes: 0.017970
-    id: ck83zbke6zfil0j788ewd8cyv
-    verified: true
-    hashtags: "#horror, #makeup, #summer, #bikini"
-  - username: "danny_wh0"
-    fullname: >-
-      Danny_T
-    location: "Portugal"
-    followers: 9860
-    engagement: 953
-    commentsToLikes: 0.013143
-    id: ckachuiq40t5e0i78tm2e59im
-    verified: false
-    hashtags: "#baddie, #coronavirus, #scarf, #acting"
-  - username: "saratapes"
-    fullname: >-
-      Sara Tapes
-    location: "Portugal"
-    followers: 31902
-    engagement: 1029
-    commentsToLikes: 0.022129
-    id: cka0fojld0l440i78r3qd2zs4
-    verified: false
-    hashtags: "#perguntas, #madewithlove, #friendzone, #singwithme"
-  - username: "anabelasilva82"
-    fullname: >-
-      Anabela Silva
-    location: "Portugal"
-    followers: 12560
-    engagement: 375
-    commentsToLikes: 0.028128
-    id: ck9c1l069otod0j78gn45nf7u
-    verified: false
-    hashtags: "#partimearir, #ahhah, #meninodorico, #meninodopobre"
+    hashtags: "#fyp, #makeuphacks, #foryou, #parati"
   - username: "kapinhaoficial"
     fullname: >-
       Kapinha
+    bio: >-
+      Actor🎭TV Host📺Singer🎤 Thank you ❤️ 460k 🙏🏼 Next 465k😘 • 🤩MY CHALLENGE👇🏼
     location: "Portugal"
-    followers: 78820
-    engagement: 552
-    commentsToLikes: 0.011672
+    followers: 460500
+    engagement: 1286
+    commentsToLikes: 0.013395
     id: ck9glci1knl150j78kmvzjgzr
     verified: false
-    hashtags: "#party, #health, #treino, #canyoudoit"
-  - username: "sandywish"
+    hashtags: "#makeup, #couple, #comedia, #spooky"
+  - username: "irisloveunicorns"
     fullname: >-
-      Sandy Wish 
+      Ines Silva
+    bio: >-
+      Email: ines@musetheagency.com ♥️
     location: "Portugal"
-    followers: 38583
-    engagement: 464
-    commentsToLikes: 0.009154
-    id: ck9k4rn85tr110j78jp1u4xsn
+    followers: 238600
+    engagement: 1121
+    commentsToLikes: 0.005592
+    id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#pov, #literally, #funny, #homeless"
+    hashtags: "#anime, #outfits, #hisoka, #narcisamalfoy"
+  - username: "kimkardashian.westt"
+    fullname: >-
+      Kim Kardashian
+    bio: >-
+      
+    location: "Portugal"
+    followers: 385800
+    engagement: 726
+    commentsToLikes: 0.020679
+    id: ck9eqgv1gx58f0j788erj6xox
+    verified: false
+    hashtags: "#foryou, #fypage, #famous, #like"
+  - username: "betsaida_fonseca_rosa"
+    fullname: >-
+      betesaida_fonseca_rosa
+    bio: >-
+      Armenia e romona com muito orgulho✨,melhores bffs @melissa @kayla @levinya❤️✨
+    location: "Portugal"
+    followers: 9176
+    engagement: 2567
+    commentsToLikes: 0.174975
+    id: ck9ergvdt1pj70j78ct7jtot4
+    verified: false
+    hashtags: "#fyp, #fy, #paravoce, #lan"
+  - username: "kitcattycosplay"
+    fullname: >-
+      KitCattyCosplay
+    bio: >-
+      ✨ Please follow me on 1nst4 to help me reach 10K 🥺 @kitcattycosplay ✨
+    location: "Portugal"
+    followers: 16500
+    engagement: 2242
+    commentsToLikes: 0.035087
+    id: ck9kduryovyr50j78h0onwt79
+    verified: false
+    hashtags: "#starguardianahri, #jinxleagueoflegends, #foryou, #fyp"
 ---

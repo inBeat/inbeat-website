@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Turkey In 2020
 description: >-
-  Find top cinema Instagram influencers in Turkey in 2020. Most popular hashtags: #tb #tbt #atat #blackandwhite.
+  Find top cinema Instagram influencers in Turkey in 2020. Most popular hashtags: #tbt #photooftheday #photography.
 platform: Instagram
+hits: 251
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 251 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "1kadirercan"
-    fullname: >-
-      
-    location: "Turkey"
-    followers: 14026
-    engagement: 1308
-    commentsToLikes: 0.020761
-    id: ckaovvfpx69960i788j00o5vg
-    verified: false
-    hashtags: "#ozandolunay, #tbt, #baharsahin"
   - username: "semasarmis"
     fullname: >-
       JACKSON
+    bio: >-
+      İstanbul University ~ Cinema 🎬 🇹🇷 Heal the World 🌍 Yeni Video😌👇🏻
     location: "Turkey"
-    followers: 13690
-    engagement: 1326
-    commentsToLikes: 0.017685
+    followers: 15036
+    engagement: 1162
+    commentsToLikes: 0.017865
     id: ckap62uz7e5fb0i78gxrr96dy
     verified: false
-    hashtags: "#tb"
-  - username: "ozlemadasahin"
-    fullname: >-
-      Özlem Ada Sahin
-    location: "Turkey"
-    followers: 656541
-    engagement: 921
-    commentsToLikes: 0.005749
-    id: ck15u4bxmld540i19mo0zssmw
-    verified: false
-    hashtags: "#enerjinitemizle, #icindekicocugukaybetme, #19may, #myhappyplace"
-  - username: "lilasnassrat__"
-    fullname: >-
-      Lilas
-    location: "Turkey"
-    followers: 2391
-    engagement: 1688
-    commentsToLikes: 0.081675
-    id: ck9hawr5ceguf0j78t6vpw8d2
-    verified: false
-    hashtags: "#curvywomen, #curlyhair, #indoor, #corona"
+    hashtags: ""
   - username: "lorinleylas"
     fullname: >-
       Leyla Süner🌻
+    bio: >-
+      Tv&Cinema Makeup Artist 🎨
     location: "Turkey"
-    followers: 8457
-    engagement: 506
-    commentsToLikes: 0.057000
+    followers: 10761
+    engagement: 758
+    commentsToLikes: 0.052839
     id: ckaorgf12n3jk0i78kjfv6bct
     verified: false
-    hashtags: "#mutlubayramlar, #23nisanulusalegemenlikve, #8martd, #8marchwomensday"
-  - username: "volkankocaturk"
+    hashtags: "#kuzeyy, #aslihangunerteam, #kayd, #set"
+  - username: "1kadirercan"
     fullname: >-
-      Kocaturk A.Volkan
+      
+    bio: >-
+      Based in İstanbul Cinema-Tv series/Fashion
     location: "Turkey"
-    followers: 20979
-    engagement: 2353
-    commentsToLikes: 0.197236
-    id: ck5hkqxu2iwrd0i11z2xpi2qg
+    followers: 13664
+    engagement: 1198
+    commentsToLikes: 0.009589
+    id: ckaovvfpx69960i788j00o5vg
     verified: false
-    hashtags: "#sunset, #tbt, #karasevda, #cinematography"
-  - username: "burakcorum61"
+    hashtags: "#tbt, #baharsahin, #bluelight, #colored"
+  - username: "ozlemadasahin"
     fullname: >-
-      Burak Çorum
+      Özlem Ada Sahin
+    bio: >-
+      Arya & Zeynep Mira’s Mom🌞 Baby🐇Aria @babyariacom Yeditepe University Cinema Tv 📩 hiperaktifmenajerlik@gmail.com
     location: "Turkey"
-    followers: 6433
-    engagement: 718
-    commentsToLikes: 0.024295
-    id: ckap3hdyl30bx0i78z906u0ki
+    followers: 713064
+    engagement: 535
+    commentsToLikes: 0.011014
+    id: ck15u4bxmld540i19mo0zssmw
     verified: false
-    hashtags: "#menwithstyle, #vintagestyle, #businesslife, #black"
+    hashtags: "#kizlarim, #29ekimcumhuriyetbayram, #hppybdaytome, #cokkeyifli"
   - username: "duyguozlen1"
     fullname: >-
       Duygu Özlen
+    bio: >-
+      Manager: @selimakar Turvak Cinema- Theatre Model-Tv Host- Actress Reklam ve İş birlikleri Dm
     location: "Turkey"
-    followers: 89368
-    engagement: 185
-    commentsToLikes: 0.004624
+    followers: 83733
+    engagement: 153
+    commentsToLikes: 0.036894
     id: ckap2tz1c0b8s0i78dd78koxa
     verified: false
     hashtags: ""
-  - username: "tepesiatanadam"
+  - username: "burakcorum61"
     fullname: >-
-      Tahir Canlı
+      Burak Çorum
+    bio: >-
+      @acunmedya ~ @tv8 • 🎬 @khasedutr 📍| Cinema/Tv #photomodel 61 ⚓ / #socialmediamanager
     location: "Turkey"
-    followers: 48190
-    engagement: 303
-    commentsToLikes: 0.063731
-    id: ck1379izzag2n0i19ear4i6wu
+    followers: 7980
+    engagement: 956
+    commentsToLikes: 0.022402
+    id: ckap3hdyl30bx0i78z906u0ki
     verified: false
-    hashtags: "#afilia, #afiliaskfinal, #afiliask, #tb"
-  - username: "muhteberkitap"
+    hashtags: "#photooftheday, #menfashion, #masterchef, #mastercheftu"
+  - username: "volkankocaturk"
     fullname: >-
-      Bookdiary
+      Kocaturk A.Volkan
+    bio: >-
+      Director & Cinematographer
     location: "Turkey"
-    followers: 7109
-    engagement: 785
-    commentsToLikes: 0.104654
-    id: ckaoyawq4gqjj0i78ws2ortnu
+    followers: 20615
+    engagement: 2163
+    commentsToLikes: 0.181536
+    id: ck5hkqxu2iwrd0i11z2xpi2qg
     verified: false
-    hashtags: "#eroinledans, #ahmet, #librumkitap, #dawnfrench"
+    hashtags: "#azize, #zekoia, #directorofphotography, #tbt"
+  - username: "salvadormaliii"
+    fullname: >-
+      Muhammed Ali Arslan
+    bio: >-
+      -A man vanishes to find where he truly belongs. Cinematographer based in Istanbul Personal: @aliarslanfilms
+    location: "Turkey"
+    followers: 53833
+    engagement: 2013
+    commentsToLikes: 0.009429
+    id: ck0u2ksl005fw0i192tvf3xfj
+    verified: false
+    hashtags: "#vsco, #worldviewmag, #classicsmagazine, #moodygrams"
+  - username: "lilasnassrat__"
+    fullname: >-
+      Lilas
+    bio: >-
+      •An unoriginal Latina®️ •Based in Istanbul & Kuwait📍 •Cinema and Television🎓 •Email or Dm for modeling inquiries 📧
+    location: "Turkey"
+    followers: 2660
+    engagement: 1763
+    commentsToLikes: 0.078194
+    id: ck9hawr5ceguf0j78t6vpw8d2
+    verified: false
+    hashtags: "#shotoniphone, #summervibes, #plussize, #coronavirus"
+  - username: "aydavii"
+    fullname: >-
+      Ayda Dehnavi
+    bio: >-
+      studied cinema #Persian 🇮🇷
+    location: "Turkey"
+    followers: 15170
+    engagement: 483
+    commentsToLikes: 0.021656
+    id: ck9wi97g919iv0j78vggdd4vp
+    verified: false
+    hashtags: "#modeling, #model, #carefree, #ad"
 ---

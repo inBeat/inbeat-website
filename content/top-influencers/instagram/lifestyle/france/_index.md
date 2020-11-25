@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In France In 2020
 description: >-
-  Find top lifestyle Instagram influencers in France in 2020. Most popular hashtags: #giveaway #lookdujour #partenariat #london.
+  Find top lifestyle Instagram influencers in France in 2020. Most popular hashtags: #lookoftheday #fashion #concours #fashionstyle.
 platform: Instagram
+hits: 2277
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 2277 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "kassandra_smnt"
+  - username: "camisomc"
     fullname: >-
-      Kassandra Simonnet
+      ⚜️𝓒𝓪𝓶𝓲𝓼𝓸⚜️🅩🅞🅤🅗🅔🅘🅡⚜️
+    bio: >-
+      𝓐 𝓵𝓪 𝓻𝓮𝓬𝓱𝓮𝓻𝓬𝓱𝓮 𝓭𝓾 𝓫𝓸𝓷𝓱𝓮𝓾𝓻.. 🧗🏽‍♂️ In love 💎 @kassandra_smnt 🍒 Lifestyle • Travel • Model 🏝 Mandataire immo IAD🏡 STAFF Basic fit🏋🏽
     location: "France"
-    followers: 2413
-    engagement: 2497
-    commentsToLikes: 0.142723
-    id: ck6u08jdfe83n0j71ffn9otw5
+    followers: 2519
+    engagement: 2368
+    commentsToLikes: 0.286921
+    id: ck6u08k62e87m0j71hnk7y9dp
     verified: false
-    hashtags: "#equave, #londres, #selfie, #venise"
-  - username: "littlejustreview"
+    hashtags: "#lookoftheday, #tendance, #blackeyes, #goldenhour"
+  - username: "sarahbkl_"
     fullname: >-
-      JUSTINE | LITTLEJUSTREVIEW
+      𝓢𝓪𝓻𝓪𝓱
+    bio: >-
+      lifestyle, fashion, beauty collab: saarahh76210@gmail.com ✉️ 📍Le havre
     location: "France"
-    followers: 11278
-    engagement: 1746
-    commentsToLikes: 0.149110
-    id: ck5pwuzztoqo20i11lr2ikrt9
+    followers: 7081
+    engagement: 1502
+    commentsToLikes: 0.113658
+    id: ck8tcp6ws05il0j78u4yqmosc
     verified: false
-    hashtags: "#originsfrance, #alwaysfabulous, #outfitinspo, #yesiamchallenge"
-  - username: "alexfashionbreak"
+    hashtags: "#lehavre, #discoverunder5k, #picoftheday, #discoverunder20k"
+  - username: "sisiangelove"
     fullname: >-
-      Alex ❤️
+      S I S I 🎀 | BLOGGER&DREAMER
+    bio: >-
+      Travel • Fashion • Lifestyle 🌍Creator of #the12project2019 ✈️Exploring beautiful places around the world 📍Sofia, Bulgaria
     location: "France"
-    followers: 8469
-    engagement: 1418
-    commentsToLikes: 0.266400
-    id: ck5cjsdgqvejo0i119a6mls3o
+    followers: 9746
+    engagement: 1490
+    commentsToLikes: 0.199851
+    id: ck9hbpabohvg00j782prd70tu
     verified: false
-    hashtags: ""
-  - username: "sausau__"
+    hashtags: "#giveaway, #glutenfreebg, #bezglutenbulgaria, #balviten"
+  - username: "inessiadream"
     fullname: >-
-      Sausau
+      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 ♦ 𝕊𝕚𝕟𝕘𝕖𝕣 𝕞𝕒𝕜𝕖𝕦𝕡 𝕒𝕕𝕕𝕚𝕔𝕥
+    bio: >-
+      💙 Music ♦ Beauty ♦ Food ♦ Lifestyle 💌 inessiapro@gmail.com 💄 Conseils, avis, test, fun, concours et blabla 🎤 Je chante clique👇🏼 pour voir ma cover
     location: "France"
-    followers: 17694
-    engagement: 1365
-    commentsToLikes: 0.257143
-    id: ck5zkxelukcal0i14arveg083
+    followers: 18460
+    engagement: 1407
+    commentsToLikes: 0.454689
+    id: ck6u56g6m7v8e0j718uyyvz0f
     verified: false
-    hashtags: "#fashionweek, #foodporn, #travellover, #foodlover"
-  - username: "adele_tsy"
+    hashtags: "#frenchfashion, #frenchinfluencer, #frenchmodel, #champselysees"
+  - username: "coco_life18"
     fullname: >-
-      Adele 🌴
+      Coralie 🌸
+    bio: >-
+      ♡ Happy Mum♡ Clara & Calvin ♡ In love ♡ ☆ Lifestyle, Look, Food, Déco, Travel ☆
     location: "France"
-    followers: 55249
-    engagement: 1054
-    commentsToLikes: 0.051717
-    id: ck13604yb43nf0i19jlcwxc3o
+    followers: 6458
+    engagement: 1362
+    commentsToLikes: 0.394079
+    id: ckf5r3xhebc290j23x86qrar4
     verified: false
-    hashtags: "#maisjailaflemme, #iphone11pro, #zara, #gauffre"
+    hashtags: "#dailylook, #outfit, #fashion, #ootdshare"
   - username: "jodielapetitefrenchie"
     fullname: >-
       𝑱𝒐𝒅𝒊𝒆 𝒍𝒂 𝒑𝒆𝒕𝒊𝒕𝒆 𝒇𝒓𝒆𝒏𝒄𝒉𝒊𝒆
+    bio: >-
+      « A fashion lover à la française ♥ »  fashion, beauty, lifestyle ✉️ jodielapetitefrenchie.agent@gmail.com
     location: "France"
-    followers: 439363
-    engagement: 1052
-    commentsToLikes: 0.159711
+    followers: 460708
+    engagement: 789
+    commentsToLikes: 0.106693
     id: ck0tt93px1ok80i1985juiutd
     verified: false
-    hashtags: "#thebradery, #madeinfrance, #lepetitcartel, #walkwithminelli"
-  - username: "frenchstyle.agi"
+    hashtags: "#walkwithminelli, #minelli, #kaptenandson, #bekapten"
+  - username: "melissaswardrobe"
     fullname: >-
-      a g a 🕊
+      Melissa’s Wardrobe
+    bio: >-
+      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
     location: "France"
-    followers: 16922
-    engagement: 1052
-    commentsToLikes: 0.098000
-    id: ck5hjjrn7gr5m0i111cl5jhoo
+    followers: 183684
+    engagement: 784
+    commentsToLikes: 0.039895
+    id: ck0udxvovk7yj0i19uwfxckji
     verified: false
-    hashtags: "#silkblouse, #linenshorts, #matchapancakes, #simpleretro"
-  - username: "maggie_mccormack"
+    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
+  - username: "iman.karovic"
     fullname: >-
-      Maggie McCormack
+      iman | إيمان
+    bio: >-
+      Model • Lifestyle blogger • Law 👩🏽‍⚖️ • ♎️ • Beauty queen👸🏽 | Miss Tourism BiH 2015 👑 • Collabs 💌
     location: "France"
-    followers: 19327
-    engagement: 936
-    commentsToLikes: 0.095431
-    id: ck5zrcyrtwcon0i148romcrse
+    followers: 40826
+    engagement: 705
+    commentsToLikes: 0.120976
+    id: ck0tuu05q8np60i19au0pa7l4
     verified: false
-    hashtags: "#tulip, #modeaparis, #slipdress, #stylecollective"
-  - username: "alexandra__panagiotarou"
+    hashtags: "#grateful, #prugice, #tb, #canoeing"
+  - username: "chroniquebordelaise"
     fullname: >-
-      Αλεξάνδρα Παναγιώταρου
+      Chronique Bordelaise
+    bio: >-
+      → Creative Mind 💭 & Content Creator : Fashion, Lifestyle, Travel. ✨ #womenempowerment. 💛 LE BLOG + MES FORMATIONS 🌈 ✒️💛
     location: "France"
-    followers: 245318
-    engagement: 786
-    commentsToLikes: 0.477478
-    id: ck5zl0awnkhuw0i14oikiiafk
+    followers: 118539
+    engagement: 640
+    commentsToLikes: 0.066999
+    id: ck55omsmn8ohq0i11dzsqsc0r
     verified: false
-    hashtags: "#doglife, #myathens, #happymoments, #mypuppy"
-  - username: "nicolasstajic"
+    hashtags: "#mycocosummer, #bunq, #chroniquebordelaise, #agencedecommunication"
+  - username: "mlle.ap"
     fullname: >-
-      NICOLAS STAJIC
+      Mlle Ap 🎀
+    bio: >-
+      Lifestyle, Outfit & Travels 📍Marseille, Fr 💍 V 💌 mlleee.ap@gmail.com
     location: "France"
-    followers: 76930
-    engagement: 761
-    commentsToLikes: 0.091461
-    id: ck14i3gnydgbm0i19lsdg36op
+    followers: 2434
+    engagement: 2279
+    commentsToLikes: 0.230098
+    id: ckf5valrdnw370j23zua9j9p8
     verified: false
-    hashtags: "#partenariat, #myhelsinki, #allianztravel, #opentothenewshades"
+    hashtags: "#sneakersaddict, #outfitoftheday, #outfit, #fashionblogger"
 ---

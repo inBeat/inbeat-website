@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Portugal In 2020
 description: >-
-  Find top beauty TikTok influencers in Portugal in 2020. Most popular hashtags: #dueto #beauty #funny #comedy.
+  Find top beauty TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #foryoupage #foryou #portugal.
 platform: TikTok
+hits: 13
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 13 TikTok influencers like this in Portugal for you to work with.
 profiles:
-  - username: "irisloveunicorns"
+  - username: "diana13martins"
     fullname: >-
-      Ines Silva
+      Diana Martins
+    bio: >-
+      Instagram: @diana13martins
     location: "Portugal"
-    followers: 33777
-    engagement: 934
-    commentsToLikes: 0.006104
-    id: cka6nwrfkd5ft0i782ax1h0xa
+    followers: 46200
+    engagement: 324
+    commentsToLikes: 0.012695
+    id: ckdhdlft2wo490j23l8wvr9qr
     verified: false
-    hashtags: "#food, #haircolor, #hairchange, #fashiondesigner"
-  - username: "sergiobalanyuk"
+    hashtags: "#fyp, #beauty, #bread, #asmr"
+  - username: "theglitcharmy"
     fullname: >-
-      🔱 Sergio 🔱
+      Official Glitch Army
+    bio: >-
+      
     location: "Portugal"
-    followers: 6057
-    engagement: 837
-    commentsToLikes: 0.078086
-    id: cka0uiw86ug150i78zsfbeipi
+    followers: 18700
+    engagement: 1709
+    commentsToLikes: 0.126094
+    id: ck9e018wb41ac0j78o0fguuf5
     verified: false
-    hashtags: "#comedy, #iphone, #filipelima, #help"
-  - username: "emilysanches_"
+    hashtags: "#fyp, #followhim, #transition, #xcyzba"
+  - username: "mafi.o.t"
     fullname: >-
-      Emily Sanches
+      Mafiot✨
+    bio: >-
+      Ig: mafi.o.t Don’t forget to smile🌙
     location: "Portugal"
-    followers: 82763
-    engagement: 1258
-    commentsToLikes: 0.009920
-    id: cka0uj5squi6k0i78iau4zuig
+    followers: 3285
+    engagement: 1783
+    commentsToLikes: 0.026625
+    id: ckacaqocoh5780i78151002tw
     verified: false
-    hashtags: "#tiktokgrowth, #quarantine, #tiktok, #dublagemhumor"
+    hashtags: "#ft, #pv, #viral, #foryoupage"
   - username: "fabicardoso123"
     fullname: >-
       Fabi 
+    bio: >-
+      Sigammm :”)
     location: "Portugal"
-    followers: 103671
-    engagement: 838
-    commentsToLikes: 0.009495
+    followers: 102200
+    engagement: 865
+    commentsToLikes: 0.008995
     id: ck83zbjeczf950j78rp3wdw9x
     verified: false
-    hashtags: "#cara, #princess, #boys, #suacabra"
-  - username: "dianalucasmusic"
+    hashtags: "#school, #portugal, #destaque, #talent"
+  - username: "marlycosta"
     fullname: >-
-      Diana Lucas
+      Marly Costa
+    bio: >-
+      22, Fafe, Portugal 🙈
     location: "Portugal"
-    followers: 7130
-    engagement: 434
-    commentsToLikes: 0.010789
-    id: ck9c8ox4st2o60j78kvg330qt
+    followers: 12900
+    engagement: 713
+    commentsToLikes: 0.015265
+    id: ckb9atnxjw5b60j231vuc21ug
     verified: false
-    hashtags: "#noteupoema, #beautyandthebeast, #ladygaga, #casadepapel"
+    hashtags: "#brasil, #brazil, #tiktok, #comedy"
+  - username: "anafilipasilva"
+    fullname: >-
+      Ana Filipa Silva
+    bio: >-
+      19y Porto, Portugal 🤍
+    location: "Portugal"
+    followers: 14200
+    engagement: 774
+    commentsToLikes: 0.005643
+    id: ck9evgq2aibs20j784n2efgv2
+    verified: false
+    hashtags: "#foryou, #foryoupage, #fyp, #portugal"
+  - username: "kimkardashian.westt"
+    fullname: >-
+      Kim Kardashian
+    bio: >-
+      
+    location: "Portugal"
+    followers: 385800
+    engagement: 726
+    commentsToLikes: 0.020679
+    id: ck9eqgv1gx58f0j788erj6xox
+    verified: false
+    hashtags: "#foryou, #fypage, #famous, #like"
   - username: "mymig"
     fullname: >-
       MyMig
+    bio: >-
+      •XXV ♏ •Azores 📍 São Miguel 🇵🇹
     location: "Portugal"
-    followers: 3226
-    engagement: 843
-    commentsToLikes: 0.184416
+    followers: 3209
+    engagement: 648
+    commentsToLikes: 0.003564
     id: ckac415luc7fs0i78gp2kitep
     verified: false
-    hashtags: "#saomiguel, #foryoupage, #challengeidade, #foryourpage"
-  - username: "thethundergirl1"
+    hashtags: "#foryoupage, #copy, #quarantine, #dueto"
+  - username: "p.t__"
     fullname: >-
-      Rê Rôlo
+      Portugal aesthetic
+    bio: >-
+      🇵🇹
     location: "Portugal"
-    followers: 2281
-    engagement: 3679
-    commentsToLikes: 0.052369
-    id: ckan56rdidjml0i78fmrrauzh
+    followers: 38500
+    engagement: 1781
+    commentsToLikes: 0.036286
+    id: ckavdexhmlfj80j23js8vek2u
     verified: false
-    hashtags: "#omgwhatamidoing, #sorryzacky17, #toooldforthisshit, #fy"
-  - username: "numairiqbal"
+    hashtags: "#viral, #portugal, #brasil, #pt"
+  - username: "andreabiancak"
     fullname: >-
-      Numair Iqbal
+      Andrea Krișan
+    bio: >-
+      Andrea Krisan 🎀🌹 25 🌹 balanță ♎ Instagram-> andreabiancak
     location: "Portugal"
-    followers: 11672
-    engagement: 667
-    commentsToLikes: 0.052955
-    id: cka0md4apuoq60i78877ur2ct
+    followers: 13100
+    engagement: 1105
+    commentsToLikes: 0.035793
+    id: ckbeyf4xfiy8l0j23a7xoy84f
     verified: false
-    hashtags: "#iftarparty, #shadi, #stage, #painful"
-  - username: "officialharry06"
-    fullname: >-
-      Harry Singh
-    location: "Portugal"
-    followers: 26985
-    engagement: 764
-    commentsToLikes: 0.030050
-    id: ck83zbqanzh5b0j78ra7hyni8
-    verified: false
-    hashtags: "#merapind, #stressfree, #algarve, #dhup"
-  - username: "nobodysausage"
-    fullname: >-
-      nobody sausage
-    location: "Portugal"
-    followers: 205694
-    engagement: 828
-    commentsToLikes: 0.015393
-    id: ckan6risxl74t0i787coedr7r
-    verified: false
-    hashtags: "#release, #thriller, #laughing, #character"
+    hashtags: "#foryoupage, #sunset, #fy, #pentrutine"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top rappers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ad #lockdown #coronavirus #amsterdam.
+  Find top rappers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #queen #supportlocal #xxiimusic.
 platform: Instagram
+hits: 102
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 102 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "kieranharrisonofficial"
+  - username: "solomario10x"
     fullname: >-
-      Kieran Harrison
+      King Woosh 1st
+    bio: >-
+      🇳🇬🇬🇧 Designer Rapper @loosemade
     location: "United Kingdom"
-    followers: 26533
-    engagement: 468
-    commentsToLikes: 0.084211
-    id: ck5q9bmo4aao80i11ub55ec3p
+    followers: 5452
+    engagement: 735
+    commentsToLikes: 0.092963
+    id: ck5c2rtc2xuqw0i11lzbihhmn
     verified: false
-    hashtags: "#trackmusic, #trackrecord, #uv, #ironik"
-  - username: "official.saidu1"
+    hashtags: "#suitelife, #blackouttuesday, #wooshin, #nov10x"
+  - username: "xxiimusic"
     fullname: >-
-      Saidu
+      XXII
+    bio: >-
+      Model/Rapper/Singer/Full time go getter Power is taken, not given. • Subscribe to my YouTube channel • @stormmodels #ijthebarber
     location: "United Kingdom"
-    followers: 4050
-    engagement: 2873
-    commentsToLikes: 0.137745
-    id: ck15sioxed7cb0i19rm4zd5dn
+    followers: 14892
+    engagement: 183
+    commentsToLikes: 0.109997
+    id: ck0udc52miol40i19sz5n5rby
     verified: false
-    hashtags: "#noguidance, #oldschoolrnbvibes, #valentines, #partypopper"
-  - username: "itsmenace"
+    hashtags: "#22, #xxii, #xxiimusic, #covid"
+  - username: "princessmulaaaa"
     fullname: >-
-      Menace (Brotherhood)
+      Best To Ever Do It
+    bio: >-
+      God first CEO - @mulamodels29 Rapper - Send beats to email Model
     location: "United Kingdom"
-    followers: 8932
-    engagement: 1158
-    commentsToLikes: 0.198899
-    id: ck5zy5m1l99tc0i14zo50cdrg
+    followers: 4291
+    engagement: 1001
+    commentsToLikes: 0.090873
+    id: ck5ziiie8frty0i14bk64tpu9
     verified: false
-    hashtags: "#questioneverything, #coronavirus, #covid19, #defeattheevilinstagramalgorythms"
-  - username: "officialyizzy"
+    hashtags: "#idontlikeniggaswhocap, #sircapalot, #scaryassniggas, #explore"
+  - username: "skitsviciousofficial"
     fullname: >-
-      Yizzy Prince Of Grime
+      Skits Vicious
+    bio: >-
+      Rapper | Independent Artist | Buddah Blazer Founder of @dopedodofficial 🎃🦇GRAVEYARD SHIFT OUT NOW🎃🦇
     location: "United Kingdom"
-    followers: 39590
-    engagement: 782
-    commentsToLikes: 0.097785
-    id: ck6trj3bmz9yg0j71oi0cqlte
+    followers: 26287
+    engagement: 295
+    commentsToLikes: 0.021079
+    id: ck134gdyowa6o0i19hxrjygcy
+    verified: false
+    hashtags: "#familia, #dodarmy, #loveofmylife, #graveyardshift"
+  - username: "agsyworld"
+    fullname: >-
+      Mother OG
+    bio: >-
+      23. Rapper from India 🇮🇳 | MTv Hustle Business enquiries: @anantsharma.mgmt Mother to @jj.the.retriever 🐾
+    location: "United Kingdom"
+    followers: 104949
+    engagement: 1018
+    commentsToLikes: 0.021287
+    id: ck15sktbjdif90i19w3a65m8n
+    verified: false
+    hashtags: "#desihiphop, #sharetosupport, #noautotune, #womeninhiphop"
+  - username: "itsccane"
+    fullname: >-
+      C Cane 🇨🇩🇬🇧
+    bio: >-
+      Award winning Mc/Rapper Presenter: Reprezent Radio Cast member: BBC Galdem Sugar Voiceover Artist #JusticeForAnwaar #JuniorsWorld
+    location: "United Kingdom"
+    followers: 10002
+    engagement: 776
+    commentsToLikes: 0.104664
+    id: ck5zong4dqx0j0i14ze086vsf
     verified: true
-    hashtags: "#worldrecord, #thechequeup, #thewarisntover, #stayhomeanddraw"
-  - username: "therealrimzee"
+    hashtags: "#quarantineandchill, #pspleasestayathomethanksxoxo, #dontleavemechallenge, #cstyle"
+  - username: "sylvia_saru"
     fullname: >-
-      Rimzee
+      Ssaru🎶
+    bio: >-
+      Rapper | Singer | Songwriter | Entertainer FOR Booking & Enquiries Only: Call/WhatsApp:☎+254792665413 or 📧ewriter0@gmail.com #SWAGGER OUT ON YOUTUBE
     location: "United Kingdom"
-    followers: 46501
-    engagement: 1306
-    commentsToLikes: 0.043366
-    id: ck0u04by3siko0i199e0u61ug
+    followers: 77336
+    engagement: 492
+    commentsToLikes: 0.034821
+    id: ck5hi707pbz2a0i1186l85jzz
     verified: false
-    hashtags: "#grindingishardstuntingiseasy, #independant, #rimzee, #makeclaptongreatagain"
+    hashtags: "#gainwithmtaaraw, #wamanyaru, #gainwithmchina, #gainwithxtiandela"
   - username: "zubymusic"
     fullname: >-
       ZUBY:
+    bio: >-
+      Rapper | Author | Speaker | Coach 🎙️ Host of 'Real Talk with Zuby' Podcast 🎓 Oxford Uni Graduate 💪🏾 Fitness book 'Strong Advice' out now
     location: "United Kingdom"
-    followers: 45697
-    engagement: 307
-    commentsToLikes: 0.048090
+    followers: 71755
+    engagement: 303
+    commentsToLikes: 0.046071
     id: ckaosy4i0tjcr0i78kc4w0t30
     verified: true
-    hashtags: "#okdude, #realtalk, #fitness, #ad"
-  - username: "wallianape"
+    hashtags: "#strongadvice, #teamzuby, #okdude, #fitness"
+  - username: "th3saga"
     fullname: >-
-      Truthos Mufasa
+      Sensei Saga (415-843-7242)
+    bio: >-
+      #SenseiSzn 🙏🏽🐉🇵🇷 Christian Recording Artist ⛪️ @urltv — Christian Battle Rapper MERCH: @Th3Outsiders Business 📧: th3outsiders@gmail.com NEW CONTENT⬇️
     location: "United Kingdom"
-    followers: 6039
-    engagement: 770
-    commentsToLikes: 0.069990
-    id: ck5hjg1tegk9g0i11elzdl1j0
-    verified: false
-    hashtags: "#jesuschrist, #rap, #30, #young"
-  - username: "officialpaulchuckle"
+    followers: 38034
+    engagement: 115
+    commentsToLikes: 0.068753
+    id: ck13b0u2mt4wg0i19h5ub4nd6
+    verified: true
+    hashtags: "#th3cover, #senseiszn, #nbastreetvol2, #thelastride"
+  - username: "shakaboo2"
     fullname: >-
-      Paul Chuckle
+      🌈shaka bose 釈迦坊主🌻
+    bio: >-
+      Track maker,Rapper,Mix engineer / TOKIO SHAMAN
     location: "United Kingdom"
-    followers: 42373
-    engagement: 259
-    commentsToLikes: 0.042911
-    id: ck137h63ubipf0i19mluouxpo
+    followers: 33495
+    engagement: 963
+    commentsToLikes: 0.005096
+    id: ck5bucpqdhjmn0i11322dwq2t
     verified: false
-    hashtags: "#toolong, #missedaweek, #quiz, #lestweforget"
-  - username: "bradleyhuntuk"
-    fullname: >-
-      BRADLEY HUNT
-    location: "United Kingdom"
-    followers: 19038
-    engagement: 174
-    commentsToLikes: 0.088243
-    id: ck8wfe8tnflld0j780biyb1hf
-    verified: false
-    hashtags: "#gymthrowback, #6ix9ine, #6ix, #tekashi69"
-  - username: "loso.official"
-    fullname: >-
-      Loso
-    location: "United Kingdom"
-    followers: 24442
-    engagement: 321
-    commentsToLikes: 0.061435
-    id: ck6uhmmrea01y0j71ym2md082
-    verified: false
-    hashtags: "#losovstwork, #splash"
+    hashtags: ""
 ---

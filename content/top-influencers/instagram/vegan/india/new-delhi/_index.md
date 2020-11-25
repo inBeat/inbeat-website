@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top vegan Instagram influencers in New Delhi in 2020. Most popular hashtags: #india #vegan #dalalstreet #bollywood.
+  Find top vegan Instagram influencers in New Delhi in 2020. Most popular hashtags: #vegan #delhi #delhigram #sodelhi.
 platform: Instagram
+hits: 21
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in New Delhi, India for you to connect with.
 profiles:
-  - username: "ebgiii"
+  - username: "hot_for_food"
     fullname: >-
-      Edward B. Gieda III
+      Vidhi and Vibha
+    bio: >-
+      We recreate recipes from across the world and tell their stories! Learn how to cook and discover the best places to eat with us ❤️
     location: "India"
-    followers: 3935
-    engagement: 1156
-    commentsToLikes: 0.049323
-    id: ck5zqwb9kvf5n0i14boitpp94
+    followers: 68449
+    engagement: 70
+    commentsToLikes: 0.042898
+    id: ck0w41usewdss0i19sym1ygcd
     verified: false
-    hashtags: "#kaliyuga, #meditation, #indiarunning, #plantbased"
-  - username: "virus_sharma"
+    hashtags: "#homecooking, #hotforfood, #dimsum, #kolkatagram"
+  - username: "anushkamandal04"
     fullname: >-
-      Vikas Sharma - DELHI FOODIE 🇮🇳
+      ANUSHKA MANDAL🧿
+    bio: >-
+      LMG’15 | ECU’19 🇦🇺 | GNLU’20 Carpe Diem💫Wanderlust🌏 Lawyer | #type1diabetic 🩸 Less talk, more 𝓋𝒾𝒷𝑒✨ Pvt - @anushkamandal96
     location: "India"
-    followers: 38257
-    engagement: 197
-    commentsToLikes: 0.021412
-    id: ck8t2uger0qzv0j78wm98wp0y
+    followers: 12587
+    engagement: 512
+    commentsToLikes: 0.062182
+    id: ck8t9riusp2v40j78chkrnwpc
     verified: false
-    hashtags: "#coffee, #foodindia, #dessertheaven, #mountains"
-  - username: "justinpluslauren"
+    hashtags: "#aesthetics, #mumbai, #portrait, #bengali"
+  - username: "pragyasachdev"
     fullname: >-
-      Lauren | Travel | Vegan
+      Pragya | Design | Fashion
+    bio: >-
+      • پرگیہ • Nift New Delhi🎓 📍Delhi
     location: "India"
-    followers: 64025
-    engagement: 197
-    commentsToLikes: 0.037906
-    id: ck14juou8ma4u0i19hjri8fux
-    verified: true
-    hashtags: "#hudsonyards, #yurtliving, #acolorstory, #wildernessvibes"
-  - username: "thedelhifoodiecouple"
-    fullname: >-
-      thefoodiecouple
-    location: "India"
-    followers: 4065
-    engagement: 1249
-    commentsToLikes: 0.159299
-    id: ck8t1s7kkwtl50j78v2pwej5v
+    followers: 8301
+    engagement: 387
+    commentsToLikes: 0.165288
+    id: ckf5vglixoizy0j23l988q2mq
     verified: false
-    hashtags: "#imlovinit, #thurzzday2020, #indiandessert, #sundayspecial"
-  - username: "delhincrhangouts"
+    hashtags: "#highlighteronpoint, #myglammxobeautycreator, #lockdownmakeupfreeselfie, #loveformakeup"
+  - username: "the_ankita_gupta_"
     fullname: >-
-      DelhiNCR Hangouts
+      Ankita Gupta
+    bio: >-
+      NIFT, New Delhi. B.Des.🎓 Jewelry Designer @swarovski Professional Makeup Artist 💄@ankita_gupta_makeovers Kanpur🔃Delhi DM for paid promotions /collabs
     location: "India"
-    followers: 31034
-    engagement: 1607
-    commentsToLikes: 0.008988
-    id: ck8tdh60v3af40j78r4ly6ns1
+    followers: 11451
+    engagement: 907
+    commentsToLikes: 0.091880
+    id: ckaov5oul361p0i78o45c14hk
     verified: false
-    hashtags: "#gurgaon, #bombay, #sidedish, #amazingfood"
-  - username: "mrscookbook"
+    hashtags: "#nift, #photoshoot, #summeroutfitideas, #makeupblogger"
+  - username: "sumis_cookbook_18"
     fullname: >-
-      AnitaDas | Indian Food Blogger
+      Sumeet Kaur
+    bio: >-
+      Versatility is the key #foodstylist #foodphotographer #recipe developer Writer @alfazon_ki_minare DM for enquiries and collabs New Delhi, India 🇮🇳
     location: "India"
-    followers: 14053
-    engagement: 1219
-    commentsToLikes: 0.063401
-    id: ck8t85qmrj7fg0j78mzuddnt5
+    followers: 7411
+    engagement: 985
+    commentsToLikes: 0.238495
+    id: ckf5x0rwtty0f0j23k8xx44gt
     verified: false
-    hashtags: "#drinks, #ilish, #baking, #mangosmoothie"
-  - username: "ashmitpatel"
+    hashtags: "#heydelhi, #heresmyfood, #india, #delhigram"
+  - username: "ashwaryabhutani"
     fullname: >-
-      ÃŚHMÏT PÅTĘŁ
+      Aishwarya Bhutani
+    bio: >-
+      ;Model | Living&Loving ✨ •Fashion•Lifestyle•Travel 🌍 🎓Economics, Du 📍New Delhi
     location: "India"
-    followers: 88188
-    engagement: 258
-    commentsToLikes: 0.041504
-    id: ck5hmpzv5merf0i11m9fc5puv
-    verified: true
-    hashtags: "#gymlife, #truefitt, #netflix, #technomusic"
-  - username: "itisinthename"
-    fullname: >-
-      Prakriti Varshney 🇮🇳
-    location: "India"
-    followers: 52745
-    engagement: 464
-    commentsToLikes: 0.052368
-    id: ck601qf2ifz7w0i14tamj5fe3
+    followers: 4481
+    engagement: 1040
+    commentsToLikes: 0.050088
+    id: ck0uaq701cvhl0i19ov2abkwy
     verified: false
-    hashtags: "#bumpyride, #mountaindrive, #mountaindogs, #covid"
-  - username: "bijendra_s"
+    hashtags: "#blog, #yourebeautiful, #lifestyle, #model"
+  - username: "ksk1989_"
     fullname: >-
-      Bijendra Singh🇮🇳
+      _zindaginamilegidobara❤
+    bio: >-
+      Use #ksk1989_ Eat🍴Shoot 🎬 Ride 🛵 Your support is♥️ Love to try new places,Authentic food lover,Mad for photography 📸. 📧 kmlsingh92@gmail.com Delhi/Uk🥂
     location: "India"
-    followers: 23762
-    engagement: 2705
-    commentsToLikes: 0.031006
-    id: ck0w14l5ehj7n0i19rxwp6h2q
+    followers: 101323
+    engagement: 111
+    commentsToLikes: 0.136808
+    id: ck8td7sdu28v60j78tbhci0u4
     verified: false
-    hashtags: "#respect, #pulwama, #weareone, #india"
-  - username: "kuntalj"
+    hashtags: "#veg, #lunch, #somumbai, #desikhana"
+  - username: "thedivinedrug"
     fullname: >-
-      Kuntal A. Joisher
+      ✨Tanya arora🍒|FASHION & STYLE
+    bio: >-
+      Just a girl next door Content Creator • Coder • Cares for nature ♀ • Leo • New Delhi, India📍 Business enquires : thedivinedrug@gmail.com
     location: "India"
-    followers: 12303
-    engagement: 539
-    commentsToLikes: 0.078815
-    id: ck0vv0jv8mzfd0i19dqiakf3u
+    followers: 9554
+    engagement: 473
+    commentsToLikes: 0.158343
+    id: ck0ub2bfydlmk0i193ekbvvfh
     verified: false
-    hashtags: "#veganrunner, #veganclimbing, #veganmuscle, #veganchallenge"
+    hashtags: "#indianphotographyinc, #coronavaction, #reeltoreel, #indiannaturephotography"
+  - username: "buzzforfood"
+    fullname: >-
+      Tarang |Ritika |Nandini 🧿
+    bio: >-
+      • Eat 💯 • Explore 💪 • Express ❣️ Food Technologists on Work 💪 @tguptajii @me.ritika.chauhan @all_the_stars_xoxo DM for Reviews|Collabs|Invites 😉
+    location: "India"
+    followers: 41086
+    engagement: 623
+    commentsToLikes: 0.069145
+    id: ck5c4ny1l1qn30i11ip1ip8tz
+    verified: false
+    hashtags: "#delhistreetfood, #breakfastideas, #eatgood, #soulfood"
+  - username: "foodychinks"
+    fullname: >-
+      rakhi Chettri
+    bio: >-
+      FOOD & LIFESTYLE • explore👀 • eat👅 • click 📸 Zomato level : 🔟 DM for reviews | collabs 📧:foodychinks98@gmail.com 🎥 : YouTube 👇
+    location: "India"
+    followers: 6710
+    engagement: 797
+    commentsToLikes: 0.045020
+    id: ck1350qulz44o0i19rfubuee1
+    verified: false
+    hashtags: "#easyrecipes, #foodgasm, #delhiites, #mumbaifoodicious"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top bloggers Instagram influencers in Switzerland in 2020. Most popular hashtags: #makeup #stayhome #happy #stayathome.
+  Find top bloggers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #blogger #swissblogger #swissinfluencer.
 platform: Instagram
+hits: 118
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 118 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "thelittleblogpic"
-    fullname: >-
-      c a r o l i n e  👩🏻 🏹
-    location: "Switzerland"
-    followers: 5347
-    engagement: 734
-    commentsToLikes: 0.132401
-    id: ck8t73027fgwb0j78i6l8vh2x
-    verified: false
-    hashtags: "#cafe, #pink, #restezchezvous, #kays"
-  - username: "bella_zofia"
-    fullname: >-
-      Bella♡Fashion |Beauty |Travel
-    location: "Switzerland"
-    followers: 9662
-    engagement: 1103
-    commentsToLikes: 0.075172
-    id: ck15qksrl3c4a0i19iz9ozoai
-    verified: false
-    hashtags: "#fridayselfie, #ermannoscervino, #parisianvibes, #beautifulgeneva"
-  - username: "nettleskristina"
-    fullname: >-
-      Nettles Kristina
-    location: "Switzerland"
-    followers: 5870
-    engagement: 863
-    commentsToLikes: 0.316261
-    id: ck8ta6935qlbx0j785zn6xawy
-    verified: false
-    hashtags: "#ltkstyle, #dresslover, #santorini, #saturdaymood"
-  - username: "patricia.cori.na"
-    fullname: >-
-      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
-    location: "Switzerland"
-    followers: 22400
-    engagement: 454
-    commentsToLikes: 0.121407
-    id: ck5znr6vtp0550i14nyiskvyh
-    verified: false
-    hashtags: "#mittw, #instafashion, #iphone, #pusteblume"
   - username: "slavia_karlen"
     fullname: >-
       Slavia Karlen
+    bio: >-
+      Lifestyle-Blogger womentalk.ch Digital Entrepreneur Content Creator Tester ü40 / 🇨🇭 www.wo-men-talk.ch 📧 for collaboration: slavia@event-creator.ch
     location: "Switzerland"
-    followers: 33528
-    engagement: 420
-    commentsToLikes: 0.088774
+    followers: 40309
+    engagement: 493
+    commentsToLikes: 0.074877
     id: ck15u6q7alol00i19zder1ye4
     verified: false
-    hashtags: "#wellen, #olaplex, #enjoythesun, #roteskleid"
+    hashtags: "#lidlch, #gewinnspiel, #cheeselover, #swissinfluencer"
+  - username: "nettleskristina"
+    fullname: >-
+      Kristina Nettles
+    bio: >-
+      WHERE LUXURY MEETS STREET STYLE🛍 👗Fashion blogger | 🌏Travel | 💫Lifestyle 👸🏻Mom to a princess 🇨🇭#genevafashionblogger 🇦🇲#armenian
+    location: "Switzerland"
+    followers: 10774
+    engagement: 808
+    commentsToLikes: 0.283593
+    id: ck8ta6935qlbx0j785zn6xawy
+    verified: false
+    hashtags: "#chanel, #fashion, #fallfashion, #ltkunder100"
+  - username: "micalopezn"
+    fullname: >-
+      Mica | Switzerland ♡
+    bio: >-
+      ♡ Born in Buenos Aires 🇦🇷 | ⚐ Based in Switzerland 🇨🇭 ✈︎ Travel blogger & content creator ✎ @soyunaargentinaensuiza ↡ | Contest EF ↡
+    location: "Switzerland"
+    followers: 9883
+    engagement: 651
+    commentsToLikes: 0.054458
+    id: ckap6x95lhqkp0i78xdt7y6m0
+    verified: false
+    hashtags: "#travelvibes, #passionpassport, #swisslife, #wearetravelgirls"
+  - username: "patricia.cori.na"
+    fullname: >-
+      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
+    bio: >-
+      BEAUTY | CREATIVITY | FASHION Swiss Blogger - Content Creator 🇨🇭 Professional Makeup Artist Founder @daisysaccessoires Blog since 2012↓
+    location: "Switzerland"
+    followers: 22029
+    engagement: 452
+    commentsToLikes: 0.034260
+    id: ck5znr6vtp0550i14nyiskvyh
+    verified: false
+    hashtags: "#swissbeautyblogger, #franziskaelea, #bloggerlife, #fleektureme"
   - username: "juliacaroline_a"
     fullname: >-
       Julia Andersen 💥
+    bio: >-
+      Fashion blogger from Switzerland 🇨🇭 /contact & Collab: please DM or email me
     location: "Switzerland"
-    followers: 53112
-    engagement: 105
-    commentsToLikes: 0.045101
+    followers: 52428
+    engagement: 103
+    commentsToLikes: 0.076245
     id: ckaow4tbp7fkv0i78dkddlbuk
     verified: false
-    hashtags: ""
+    hashtags: "#neverbored, #insidejoke"
+  - username: "thelittleblogpic"
+    fullname: >-
+      c a r o l i n e  👩🏻 🏹
+    bio: >-
+      Lifestyle blogger 📍Genève Lausanne Switzerland 📩 thelittleblogpic@hotmail.com 📸All rights reserved by TLBP
+    location: "Switzerland"
+    followers: 5917
+    engagement: 660
+    commentsToLikes: 0.147364
+    id: ck8t73027fgwb0j78i6l8vh2x
+    verified: false
+    hashtags: "#couleursdautomne, #gastrotrip, #autumnvibes, #thelittleblogpic"
   - username: "nives_arrigoni"
     fullname: >-
       Nives Arrigoni
+    bio: >-
+      Fashion | Lifestyle | Blogger | Journalist & Host | YouTube: Nives Arrigoni 💌 nives.arrigoni@gmx.ch based in Switzerland, Zurich
     location: "Switzerland"
-    followers: 16591
-    engagement: 267
-    commentsToLikes: 0.089272
+    followers: 16208
+    engagement: 235
+    commentsToLikes: 0.083036
     id: ck55mm60e49e90i11ulno5wa3
     verified: false
-    hashtags: "#nintendoswitch, #hairscience, #dysoncorrale, #logitechpebblem350"
-  - username: "saturday.and.sunday"
+    hashtags: "#dysonairhair, #esteelauderswitzerland, #ultimateearsswitzerland, #carmexschweiz"
+  - username: "ready4meat"
     fullname: >-
-      Loredana und Kilian 🇨🇭
+      Patrick Manhard
+    bio: >-
+      🍴Passionated Food-Blogger 🥩Meat Specialist / Butcher 🇨🇭St. Gallen / Switzerland 📩Cooperation Requests / Mail 💯% Selfmade Content 📸Food Photographer
     location: "Switzerland"
-    followers: 19281
-    engagement: 835
-    commentsToLikes: 0.085074
-    id: ck8t72we7fggl0j787r915i66
+    followers: 9095
+    engagement: 1118
+    commentsToLikes: 0.103908
+    id: ckaorrt35ogm10i78pzf4t1f1
     verified: false
-    hashtags: "#gesundheit, #montebre, #mylife, #mamablog"
-  - username: "christarigozzi"
+    hashtags: "#bbqmaster, #dryagedsteak, #steaksandwich, #chefmode"
+  - username: "mercredie"
     fullname: >-
-      Christa Rigozzi
+      Priscilla Rossi | blogger
+    bio: >-
+      A Frenchie in #Geneva ✨ style & natural hair blogger since 2012 💡 strategy director @publicisgroupe 💌 priscilla@mercredie.com #blacklivesmatter✊🏽✊🏾✊🏿
     location: "Switzerland"
-    followers: 47021
-    engagement: 171
-    commentsToLikes: 0.039981
-    id: ck6tpm22bkn0x0j71mxk2scvu
-    verified: true
-    hashtags: "#vincere, #festadellamamma, #veganekosmetik, #interview"
-  - username: "womanfly.fit"
-    fullname: >-
-      🦋Fly.fit🦋
-    location: "Switzerland"
-    followers: 2937
-    engagement: 2243
-    commentsToLikes: 0.029222
-    id: ck9wfv9zbqnc90j7896zwhsla
+    followers: 29499
+    engagement: 194
+    commentsToLikes: 0.040572
+    id: ck6tp25ojhf210j71jjjdzmii
     verified: false
-    hashtags: "#missmygym, #swissnature, #goodmood, #attitude"
+    hashtags: "#naturalhairstyle, #swissblogger, #7forallmankind, #zalandostyle"
+  - username: "barannnck"
+    fullname: >-
+      Baran
+    bio: >-
+      -beauty blogger @beautysbaran 💄 - deaf drama 😛
+    location: "Switzerland"
+    followers: 112297
+    engagement: 1118
+    commentsToLikes: 0.042686
+    id: ckap8uzslq0j10i78zh354uh8
+    verified: false
+    hashtags: "#wshh, #explore, #joke, #best"
 ---

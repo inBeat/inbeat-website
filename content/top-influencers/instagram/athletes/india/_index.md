@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In India In 2020
 description: >-
-  Find top athletes Instagram influencers in India in 2020. Most popular hashtags: #happynewyear #throwback #homeworkout #beach.
+  Find top athletes Instagram influencers in India in 2020. Most popular hashtags: #fitness #fashion #ootd.
 platform: Instagram
+hits: 265
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 265 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "faraaz_zs"
+  - username: "vashu_jain_"
     fullname: >-
-      F A R A A Z   S A R A N G
+      Prince Jain
+    bio: >-
+      MULTI TALENT COMBAT🚩 ATHLETE|Fighter|Crazy Minded⚠️ ☆Artist🎬 NOT JUST A COMMON GUY🌟 🦁AAFATT🦁 You can call me crazy🤪 . BSP⭐BOM
     location: "India"
-    followers: 168501
-    engagement: 1495
-    commentsToLikes: 0.027543
-    id: ck5zya3z19i6c0i14cfbovk7x
+    followers: 5554
+    engagement: 2036
+    commentsToLikes: 0.062825
+    id: ck5pwbll3m1x00i11njswt9mz
     verified: false
-    hashtags: "#jummahmubarak, #pubgmobile, #chandmubarak, #mugshot"
-  - username: "alphayash"
-    fullname: >-
-      Yash Sharma
-    location: "India"
-    followers: 34774
-    engagement: 1192
-    commentsToLikes: 0.030653
-    id: ck8t0ziamtwq00j78vh1sdk7d
-    verified: false
-    hashtags: "#staystrong, #togetherathome"
+    hashtags: "#comedy, #funny, #vines, #instagram"
   - username: "nami_rai"
     fullname: >-
       Nami Rai
+    bio: >-
+      🏆World Record Holder In Deadlift U-56 🏅2xGolds AWPC ‘19 🏅International Power Lifter🇮🇳 🏃🏻‍♀️National Athlete 📧 Business Enquiry: namilifts@gmail.com
     location: "India"
-    followers: 47124
-    engagement: 1348
-    commentsToLikes: 0.019172
+    followers: 92733
+    engagement: 1337
+    commentsToLikes: 0.016048
     id: ck8szmon0p0n00j783rtftsg6
     verified: false
-    hashtags: "#beautiful, #picoftheday, #smile, #quarantine"
+    hashtags: "#stereotypes, #positivevibes, #strengthtraining, #powerlifting"
+  - username: "faraaz_zs"
+    fullname: >-
+      F A R A A Z   S A R A N G
+    bio: >-
+      • Athlete • Influencer Managed by - @celebistaan Dm or Email for collaboration​ ✉️ faraazzsarang@gmail.com
+    location: "India"
+    followers: 177179
+    engagement: 526
+    commentsToLikes: 0.023795
+    id: ck5zya3z19i6c0i14cfbovk7x
+    verified: false
+    hashtags: "#motivation, #takataktrending, #feelitreel, #fitness"
+  - username: "ashiquekuruniyan22"
+    fullname: >-
+      Ashique Kuruniyan
+    bio: >-
+      Professional footballer @bengalurufc Indian football team 🇮🇳 Keralite - Malappuram Managed by @quantumsportss @nike athlete
+    location: "India"
+    followers: 130749
+    engagement: 2056
+    commentsToLikes: 0.012857
+    id: ck6tmmwy985070j71nd5h7bhp
+    verified: true
+    hashtags: "#youcantstopus, #nikeindia, #wearebfc"
+  - username: "aishwaryasalviofficial"
+    fullname: >-
+      Aishwarya salvi
+    bio: >-
+      Miss Maharashtra’19 winner Model//Dancer//state athlete//fitness enthusiast Mumbai
+    location: "India"
+    followers: 34114
+    engagement: 1549
+    commentsToLikes: 0.016790
+    id: ck14jtnu6m4o20i190v262e6p
+    verified: false
+    hashtags: "#mumbai, #cute, #india, #reels"
+  - username: "kuntalj"
+    fullname: >-
+      Kuntal A. Joisher
+    bio: >-
+      #Vegan AF, Mountaineer, Programmer Summited #Everest twice - via North & South routes @Save_The_Duck athlete .
+    location: "India"
+    followers: 12618
+    engagement: 523
+    commentsToLikes: 0.090296
+    id: ck0vv0jv8mzfd0i19dqiakf3u
+    verified: false
+    hashtags: "#himalaya, #veganathlete, #mounteverestofficial, #trekkersofindia"
   - username: "tina_jain27"
     fullname: >-
       TINA JAIN 👑
+    bio: >-
+      Be a person you can be proud of ✨ Spiritual Butterfly 🦋 Athlete • Model • Aspiring Lawyer And sometimes, I write.✍🏻
     location: "India"
-    followers: 5128
-    engagement: 2174
-    commentsToLikes: 0.033669
+    followers: 7622
+    engagement: 1565
+    commentsToLikes: 0.052984
     id: ck8t7e3fhggsy0j78anny9ayr
     verified: false
-    hashtags: "#fightcorona, #bekind, #shirtstyle, #mentalhealth"
-  - username: "abhishekh_singh07"
-    fullname: >-
-      Abhishek Singh
-    location: "India"
-    followers: 6666
-    engagement: 1642
-    commentsToLikes: 0.023070
-    id: ck0w37etqryil0i19098p3kv9
-    verified: false
-    hashtags: "#homeworkout, #qurantinedays, #throwback, #hobby"
-  - username: "neeraj____chopra"
-    fullname: >-
-      Neeraj Chopra
-    location: "India"
-    followers: 64289
-    engagement: 1738
-    commentsToLikes: 0.011127
-    id: ck6tyzc9z6qla0j71nvjss368
-    verified: true
-    hashtags: "#proudlyindian, #amstrad, #believer, #oldmemories"
-  - username: "shabeer_dbz"
-    fullname: >-
-      shabeer_dbz
-    location: "India"
-    followers: 17167
-    engagement: 1299
-    commentsToLikes: 0.017098
-    id: ck55joobyxg4k0i113lqge2re
-    verified: false
-    hashtags: "#bajajdominar400, #stuntlife, #stuntrider, #deadlyriderz"
-  - username: "m.a.y_45.21"
-    fullname: >-
-      Muhammed Anas Yahiya
-    location: "India"
-    followers: 13148
-    engagement: 2624
-    commentsToLikes: 0.013732
-    id: ck0w6gxz08icf0i19c3x8l8ku
-    verified: false
-    hashtags: "#dedication, #nationalrecord, #jakarta, #meraki"
+    hashtags: "#instagood, #shine, #explorepage, #moodyports"
   - username: "arpinder_"
     fullname: >-
       Arpinder Singh
+    bio: >-
+      🇮🇳 Indian athlete 🏃 Triple jumper PB 17.17mts 🥉 CWG2014 Bronze Medalist 🥇Asian games 2018 gold medalist 👻 Snapchat : ArpinderSingh1
     location: "India"
-    followers: 28889
-    engagement: 1515
-    commentsToLikes: 0.013079
+    followers: 32263
+    engagement: 1009
+    commentsToLikes: 0.014323
     id: ck6tyzeh46qzv0j71bqgfu7u5
     verified: true
-    hashtags: "#healthylife, #funtime, #coronatime, #lifeofathlete"
-  - username: "siddhantraisikand"
+    hashtags: "#onthisday, #worldcontinentalcup2018, #blessed, #throwback"
+  - username: "dalesteyn"
     fullname: >-
-      Siddhant Rai Sikand | 🎥YouTube
+      🔘
+    bio: >-
+      Athlete / Fishing fanatic / Dog dad / Ocean dweller / Restless wanderer / Powered by salami / @newbalanceza @nbcricket @gopro @goproza @oakley
     location: "India"
-    followers: 8815
-    engagement: 1196
-    commentsToLikes: 0.031812
-    id: ck602my8vi2fq0i14qnn19kkn
-    verified: false
-    hashtags: "#sidfit, #happynewyear, #sleigh, #perspective"
+    followers: 1565776
+    engagement: 395
+    commentsToLikes: 0.015514
+    id: ck0tz0vbvopfy0i19xzehr9g0
+    verified: true
+    hashtags: "#gopro, #lockdown, #goldendorado, #salockdown"
+  - username: "neeraj____chopra"
+    fullname: >-
+      Neeraj Chopra
+    bio: >-
+      Indian Athlete 🇮🇳 Track & Field. Javelin thrower
+    location: "India"
+    followers: 67550
+    engagement: 1620
+    commentsToLikes: 0.010105
+    id: ck6tyzc9z6qla0j71nvjss368
+    verified: true
+    hashtags: "#nothingbeatsgatorade, #olympicday, #throwback, #oldmemories"
 ---

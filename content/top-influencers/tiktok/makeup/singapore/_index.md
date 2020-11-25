@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Singapore In 2020
 description: >-
-  Find top makeup TikTok influencers in Singapore in 2020. Most popular hashtags: #makeup #fashion #throwback #quarantine.
+  Find top makeup TikTok influencers in Singapore in 2020. Most popular hashtags: #tiktoksg #makeup #fyp #singapore.
 platform: TikTok
+hits: 17
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 17 TikTok influencers like this in Singapore for you to contact.
 profiles:
+  - username: "kelkeltan_"
+    fullname: >-
+      Kelkeltan
+    bio: >-
+      Makeup and all that jazz 🍒 cuter on IG & Youtube Biz: kelkeltansocial@gmail.com
+    location: "Singapore"
+    followers: 34500
+    engagement: 460
+    commentsToLikes: 0.051118
+    id: ckbqnzsi28ttk0j23saz46gsh
+    verified: false
+    hashtags: "#ios14ideas, #ios14setup, #ios14aesthetic, #widgetsmith"
+  - username: "livelaughenjoy"
+    fullname: >-
+      lakshmi
+    bio: >-
+      freelance Mua 🇸🇬 here to distress and enjoy... be kind do not hurt others!!!
+    location: "Singapore"
+    followers: 37400
+    engagement: 1278
+    commentsToLikes: 0.078647
+    id: ckb9i45hv84v30j23mmj0ic4j
+    verified: false
+    hashtags: "#glowup, #tiktoksg, #askgang, #tiktokindia"
+  - username: "ytsherine1010"
+    fullname: >-
+      🇸🇬🇲🇾虎牙妹子💄【230k】
+    bio: >-
+      📍🇸🇬YT🇲🇾IG↗️ 实力宠粉♥️有空会更新🌈 👘玩妆旅程开始💄喜欢百变🎭 #文家军#Redtyphoon联盟#Uniquirk
+    location: "Singapore"
+    followers: 230500
+    engagement: 1112
+    commentsToLikes: 0.058642
+    id: ck9r3ndu8qwhb0j783f7nmg3h
+    verified: false
+    hashtags: "#spidermakeuplook, #exploresingapore, #ravenclawmakeup, #spidermakeup"
   - username: "badgaldidiiii"
     fullname: >-
       𝖇𝖆𝖉𝖌𝖆𝖑𝖉𝖎𝖉𝖎
+    bio: >-
+      20✨ singapore 🇸🇬 make up tutorials on my instagram :))
     location: "Singapore"
-    followers: 52067
-    engagement: 738
-    commentsToLikes: 0.012857
+    followers: 84500
+    engagement: 1116
+    commentsToLikes: 0.011578
     id: ck9f22lzab8m10j78g01ey68h
     verified: false
-    hashtags: "#transformation, #dancehall, #rihanna, #ramadhan"
-  - username: "happygirlhaha"
+    hashtags: "#transition, #transformation, #duet, #glowup"
+  - username: "dearalyne"
     fullname: >-
-      Stephanie
+      Dear Alyne
+    bio: >-
+      Follow me on IG for a free unicorn 🦄 Sign up for our digital retreat👇🏼
     location: "Singapore"
-    followers: 194397
-    engagement: 573
-    commentsToLikes: 0.007164
-    id: ck9ekxcdq87k60j78kc10m9li
+    followers: 54800
+    engagement: 1634
+    commentsToLikes: 0.027953
+    id: ckb12op70qxxx0j23kq7gu0wl
     verified: false
-    hashtags: "#sweet, #eyemakeup, #maincure, #mangoseed"
-  - username: "graceglazee"
+    hashtags: "#travel, #muslim, #climatechange, #food"
+  - username: "yongjiahuiii"
     fullname: >-
-      Graceglazee
+      yongjiahuiii
+    bio: >-
+      CEO of science facts and microscope🤓 100k people with curious minds ;)
     location: "Singapore"
-    followers: 91462
-    engagement: 1695
-    commentsToLikes: 0.071034
-    id: ck9f22kubb8c40j78fz7g1zq6
+    followers: 121900
+    engagement: 1417
+    commentsToLikes: 0.025854
+    id: ckdc7qbp4huwo0j23ugbbmwxo
     verified: false
-    hashtags: "#beauty, #funkytown, #dothelifebuoysg, #extracleanfam"
+    hashtags: "#coolaf, #microscope, #microscopicview, #micro"
   - username: "crystabel_"
     fullname: >-
       С ʀ ʏ ƨ т α в ɛ ℓ 🌻
+    bio: >-
+      Chat with me @Crysta.bel on Instagram! ✨I’m sHy✨ AMONG US! ⬇️
     location: "Singapore"
-    followers: 223284
-    engagement: 1319
-    commentsToLikes: 0.027043
+    followers: 231000
+    engagement: 1395
+    commentsToLikes: 0.030008
     id: ck9f2mw6pdtcg0j788zjdwyd2
     verified: false
-    hashtags: "#20th, #guesstheword, #throwback, #cutehairstyle"
-  - username: "epicgamergirlx3"
+    hashtags: "#acting, #crystabel, #tiktoksg, #titan"
+  - username: "lordkimochi"
     fullname: >-
-      EpicGamerGirl60451
+      lord kimochi 💦
+    bio: >-
+      east side till i dię snapchat: lordkimochi faves personality
     location: "Singapore"
-    followers: 269426
-    engagement: 1040
-    commentsToLikes: 0.015043
-    id: cka7uoj9nsul00i78fiucv9vv
+    followers: 30400
+    engagement: 964
+    commentsToLikes: 0.048811
+    id: ckdnu5i2dmojb0j23x1nzffi0
     verified: false
-    hashtags: "#scary, #stayathome, #edgy, #mario"
-  - username: "piggift"
+    hashtags: "#anime, #singapore, #tiktoksg, #halloween"
+  - username: "cassandrastephanie"
     fullname: >-
-      Pig jewelry gift
+      Cassandra🙈
+    bio: >-
+      Sharing my life🌷 DM for collabs❤️
     location: "Singapore"
-    followers: 66840
-    engagement: 1007
-    commentsToLikes: 0.015487
-    id: cka0p2d3q6gyn0i78rp2g9pp5
+    followers: 3950
+    engagement: 337
+    commentsToLikes: 0.093185
+    id: ckdnu5bscmoa00j236w7wp3j3
     verified: false
-    hashtags: "#gift, #travelthrowback, #cute, #tiktok"
-  - username: "leon_gkr"
+    hashtags: "#foryou, #fyp, #tiktoksg, #singapore"
+  - username: "mooniechu"
     fullname: >-
-      leon_gkr
+      Moonie
+    bio: >-
+      Professional fencer 🤺 Sports & Beauty ig: @moonieckm
     location: "Singapore"
-    followers: 22785
-    engagement: 609
-    commentsToLikes: 0.067017
-    id: ckaijfionescv0i78j9wvszh2
+    followers: 23000
+    engagement: 455
+    commentsToLikes: 0.034943
+    id: ckcozbkm4ag390j23sbge85xo
     verified: false
-    hashtags: "#waitersbelike, #skincare, #makeup, #begreatersg"
-  - username: "melissackoh"
-    fullname: >-
-      Melissa C. Koh
-    location: "Singapore"
-    followers: 4470
-    engagement: 305
-    commentsToLikes: 0.032460
-    id: ckacco85ci91o0i78awinda89
-    verified: false
-    hashtags: "#mypetslife, #dadjokes, #bubbletea, #couplechallenge"
-  - username: "venusgwc"
-    fullname: >-
-      Venus Gwc
-    location: "Singapore"
-    followers: 63635
-    engagement: 423
-    commentsToLikes: 0.018073
-    id: ck80odtp1h4pk0j78u00n1ueq
-    verified: false
-    hashtags: "#petal, #penangkia, #aerial, #howichange"
-  - username: "buffbaby88"
-    fullname: >-
-      buff baby
-    location: "Singapore"
-    followers: 26299
-    engagement: 879
-    commentsToLikes: 0.011273
-    id: cka0w2eas15z90i78x89bhnu6
-    verified: false
-    hashtags: "#tiktokfashion, #foryourpage, #vintage, #film"
+    hashtags: "#staycation, #tiktokvie, #fencer, #hktiktok"
 ---

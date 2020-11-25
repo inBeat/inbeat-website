@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top travel Instagram influencers in Switzerland in 2020. Most popular hashtags: #sunday #covid19 #sunnyday #swiss.
+  Find top travel Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #swiss #fashion.
 platform: Instagram
+hits: 650
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 650 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "fleursnoir"
+    fullname: >-
+      Fleur
+    bio: >-
+      * Hello stranger :) * photographer, gamer, lover of animals, traveling, cosplay, a good wine with Damien rice music’s and @artur.noir
+    location: "Switzerland"
+    followers: 43327
+    engagement: 1248
+    commentsToLikes: 0.258550
+    id: ck15tmw04ivcw0i19nwamvzzb
+    verified: false
+    hashtags: "#netflix, #reels, #netflixcosplay, #ciri"
+  - username: "sausau__"
+    fullname: >-
+      Sausau
+    bio: >-
+      Lifestyle, travel 🇫🇷 Evian, Genève Tiktok : sauvanecarpentier 💌 Partnership
+    location: "Switzerland"
+    followers: 27753
+    engagement: 935
+    commentsToLikes: 0.187463
+    id: ck5zkxelukcal0i14arveg083
+    verified: false
+    hashtags: "#jeuconcours, #collaboration, #flowers, #pinterest"
   - username: "deliastefanii"
     fullname: >-
       DELIA STEFANI
+    bio: >-
+      Fashion & Travel Mind soaked in positivity. 🕊
     location: "Switzerland"
-    followers: 2390
-    engagement: 3971
-    commentsToLikes: 0.122752
+    followers: 2580
+    engagement: 2767
+    commentsToLikes: 0.123338
     id: ckap3amn528zq0i78t7igsxdt
     verified: false
-    hashtags: ""
+    hashtags: "#blackouttuesday"
   - username: "ana_carugati"
     fullname: >-
-      ⬜️◻️◽️▫️Ana Carugati ▫️◽️◻️⬜️
+      ◻️◽️▫️Ana Carugati ▫️◽️◻️
+    bio: >-
+      Serbian & Swiss married Sotl 🔸 Posts about cigars, food & beverage, travels, luxury and cars 🔸 English🇬🇧🇺🇸, Français🇫🇷🇨🇭, Srpski🇷🇸 🔸 #AnaCarugati
     location: "Switzerland"
-    followers: 9120
-    engagement: 1383
-    commentsToLikes: 0.087997
+    followers: 9090
+    engagement: 1465
+    commentsToLikes: 0.084781
     id: ck9hanl2rd92o0j781ai90s05
     verified: false
-    hashtags: "#japanesefood, #padr, #stayhome, #quarantine"
+    hashtags: "#cigarlady, #anacarugati, #tb, #tbt"
   - username: "raffy_h501"
     fullname: >-
       🎀Raffy🎀
+    bio: >-
+      Travel, shopping, music & gym addicted🛫🌍🛍🎧🏋 📍 From Rome, Italy 🇮🇹 📍Living in Lugano, Switzerland 🇨🇭 Spoken languages 🇪🇦🇬🇧🇫🇷 🙅🏻‍♀️All you can hate🙅🏻‍♀️
     location: "Switzerland"
-    followers: 32186
-    engagement: 1330
-    commentsToLikes: 0.053418
+    followers: 67197
+    engagement: 795
+    commentsToLikes: 0.047690
     id: ckap6xq5zhswx0i78xj85tbpd
     verified: false
-    hashtags: "#vallemaggia, #girl, #blackpink, #relax"
+    hashtags: "#colosseo, #tessin, #outfitkillers, #sealovers"
+  - username: "hildawestin"
+    fullname: >-
+      HILDA
+    bio: >-
+      TRAVEL | LIFESTYLE | FASHION 🇸🇪 → 🇺🇸→📍🇨🇭 15% OFF @mightysolo WITH MY CODE “HILDAWESTIN15”
+    location: "Switzerland"
+    followers: 3324
+    engagement: 2568
+    commentsToLikes: 0.090170
+    id: ckf5tdn15hjvk0j23ufl1q9z3
+    verified: false
+    hashtags: "#idealofsweden, #nakdfashion, #idealminibag, #bijouxcateringonground"
+  - username: "wanderlust_lauraaa"
+    fullname: >-
+      Laura ✨
+    bio: >-
+      🤍 Travel Girl & Fashion lover 📍 France based
+    location: "Switzerland"
+    followers: 6576
+    engagement: 924
+    commentsToLikes: 0.176138
+    id: ck8t1jmdrw0vo0j78r0y4opbn
+    verified: false
+    hashtags: "#travel, #globalwanderer, #bikinigirl, #kbmontour"
   - username: "delaine_mazenauer"
     fullname: >-
       ⚜️D E L A I N E⚜️
+    bio: >-
+      ▪️Travel & Fashion ▪️Proud Mom👦🏻❤️M 📍Switzerland | St.Gallen Swiss🇨🇭Filipina🇵🇭 Travel around the world✈️🌍
     location: "Switzerland"
-    followers: 10730
-    engagement: 1167
-    commentsToLikes: 0.117080
+    followers: 15611
+    engagement: 654
+    commentsToLikes: 0.106448
     id: ck13aiqtfqldv0i19kk4vm3c1
     verified: false
-    hashtags: "#health, #mostimportantthinginlife, #birthdaygirl, #bestrong"
-  - username: "cherryladyh"
+    hashtags: "#true"
+  - username: "witho_swizz"
     fullname: >-
-      💎🎀 ᎦɬєƿɧλᏁίє🎀💎
+      Tom
+    bio: >-
+      🇨🇭 Made in Switzerland 📍Based in Zurich ✈️Next stop:? 📩 witho_swizz@outlook.com #travel 🌍🏖️🏞️ #gym #tennis 🎾
     location: "Switzerland"
-    followers: 12907
-    engagement: 1115
-    commentsToLikes: 0.124529
-    id: ckaovyrss6oex0i781qwz0bvg
+    followers: 185740
+    engagement: 840
+    commentsToLikes: 0.018092
+    id: ck8t1v7i0x5x40j7897do8kxp
     verified: false
-    hashtags: "#curvy, #sad, #sunday, #changeyourlife"
-  - username: "swissvoyagers"
+    hashtags: "#swissdesign, #switzerland, #elegant, #klassisch"
+  - username: "vitorofficial9"
     fullname: >-
-      LUKE & MARTINA | TRAVEL + LIFE
+      Vitor Faria 🇵🇹🇨🇭
+    bio: >-
+      ✖️Fitness| Fashion| Travel 👫 XXXI.VII.MIMXIX 🔒 📱Huawei Ambassador @huaweimobilech 🔥Athlet @myproteinde 💙37% Rabatt :VITORMYP 🔥Athlet @tlfapparel
     location: "Switzerland"
-    followers: 23796
-    engagement: 753
-    commentsToLikes: 0.174733
-    id: ck6u9cb88wpz90j71xi7xtgek
+    followers: 15607
+    engagement: 575
+    commentsToLikes: 0.156293
+    id: ckf5vmtxhp5oe0j23wh21u964
     verified: false
-    hashtags: "#italianfood, #advertising, #juniqe, #juniqehome"
-  - username: "amelia.averescu"
-    fullname: >-
-      𝑨𝑴𝑬𝑳𝑰𝑨 𝑨𝑽𝑬𝑹𝑬𝑺𝑪𝑼
-    location: "Switzerland"
-    followers: 49499
-    engagement: 448
-    commentsToLikes: 0.059092
-    id: ck5bxe0fhnjj30i114pg1omyq
-    verified: false
-    hashtags: "#instagood, #goldenhour, #schwarzweiss, #earth"
-  - username: "travelwiththesoulmates"
-    fullname: >-
-      ANINA & RENÉ ✈️💏 TRAVEL COUPLE
-    location: "Switzerland"
-    followers: 6570
-    engagement: 1063
-    commentsToLikes: 0.122570
-    id: ck6uh1djy6f0e0j717caxcwdc
-    verified: false
-    hashtags: "#livingroom, #swisslake, #balconylife, #womanpower"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    location: "Switzerland"
-    followers: 29668
-    engagement: 406
-    commentsToLikes: 0.101853
-    id: ck6u3kk6tybjm0j71mr7mpp06
-    verified: false
-    hashtags: "#radicalskincare, #marrakech, #throwback, #ad"
-  - username: "itz_fabienne"
-    fullname: >-
-      FABIENNE
-    location: "Switzerland"
-    followers: 11645
-    engagement: 841
-    commentsToLikes: 0.480245
-    id: ck0u9tisean590i19onj5aj5i
-    verified: false
-    hashtags: "#hyggehome, #drmartens, #travelgirlsgo, #homedetails"
+    hashtags: "#workout, #machdichwahr, #teammyprotein, #zuerich"
 ---

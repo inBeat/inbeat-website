@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Houston In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Houston in 2020. Most popular hashtags: #houston #life #positivevibes #houstonbloggers.
+  Find top lifestyle Instagram influencers in Houston in 2020. Most popular hashtags: #houston #lifestyle #fashion.
 platform: Instagram
+hits: 197
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 197 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "pattytellsall"
+  - username: "karishmadawood"
     fullname: >-
-      Patty | Blogging HTX Babe
+      Karishma Dawood
+    bio: >-
+      your vibe attracts your tribe commercial realtor by day, blogger by night ✨ fashion + lifestyle houston, tx 💌 karishmadawood@me.com
     location: "United States"
-    followers: 11114
-    engagement: 363
-    commentsToLikes: 0.126347
-    id: ck0tx6bcui3zn0i19jqjyefrq
+    followers: 21020
+    engagement: 293
+    commentsToLikes: 0.168807
+    id: ck9wgee9dt23i0j7812nfuj7v
     verified: false
-    hashtags: "#stayhealthy, #earthday, #alieftx, #drivein"
-  - username: "iamjustinejustine"
+    hashtags: "#celsiusambassador, #celsiuslivefit, #liketkit"
+  - username: "brianna_elizabeth21"
+    fullname: >-
+      •𝙱 𝚁 𝙸 𝙰 𝙽 𝙽 𝙰    𝙶 𝙰 𝚁 𝙲 𝙸 𝙰•
+    bio: >-
+      Be the light ✨ fitness nutrition and lifestyle Houston 📍
+    location: "United States"
+    followers: 30597
+    engagement: 1219
+    commentsToLikes: 0.029354
+    id: ckap3s4if4bpu0i78rtvjny60
+    verified: false
+    hashtags: "#explore, #fitnessjourney, #fitness, #fitnessmotivation"
+  - username: "misstrangiee"
+    fullname: >-
+      Trang📍Houston/SETX Foodie
+    bio: >-
+      🥩🍣🥢 Texas girl born and raised💁🏻‍♀️ Foodie Biss for life🐷 #BitesWithMissTrangiee
+    location: "United States"
+    followers: 2114
+    engagement: 1328
+    commentsToLikes: 0.330869
+    id: ck5hnfa02noj50i11xeqw6mlo
+    verified: false
+    hashtags: "#foodilysm, #htxfoodie, #ube, #sweet"
+  - username: "kristinlavoiephoto"
+    fullname: >-
+      Kristin La Voie Photography
+    bio: >-
+      📷 Award-Winning Fine Art Weddings + Boudoir 𝒔𝒊𝒏𝒄𝒆 𝟐𝟎𝟎𝟗 📍 Austin | Chicago | wherever ♥️ is • 𝒇𝒊𝒍𝒎 • 𝒇𝒖𝒓 𝒃𝒂𝒃𝒊𝒆𝒔 • 𝒄𝒉𝒂𝒑𝒔𝒕𝒊𝒄𝒌 🏡 @mymodernfarmhousevilla
+    location: "United States"
+    followers: 34294
+    engagement: 65
+    commentsToLikes: 0.021153
+    id: ck5zo9httq26y0i145hln4yxn
+    verified: false
+    hashtags: "#chicagobotanicgardenwedding, #chicagoweddingphotographer, #soloverly, #strictlyweddings"
+  - username: "chicandlively"
+    fullname: >-
+      𝐑𝐨𝐱𝐢 | 𝐇𝐨𝐮𝐬𝐭𝐨𝐧 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+    bio: >-
+      𝐇𝐢, 𝐒𝐮𝐧𝐬𝐡𝐢𝐧𝐞! 👋 𝐂𝐨𝐦𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐜𝐡𝐞𝐞𝐫𝐟𝐮𝐥 𝐯𝐢𝐛𝐞𝐬 𝐒𝐭𝐚𝐲 𝐟𝐨𝐫 𝐚𝐟𝐟𝐨𝐫𝐝𝐚𝐛𝐥𝐞 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 💃🏻 𝐖𝐨𝐦𝐞𝐧 𝐄𝐦𝐩𝐨𝐰𝐞𝐫𝐦𝐞𝐧𝐭 | 𝐅𝐚𝐢𝐭𝐡-𝐛𝐚𝐬𝐞𝐝 💗 ⤵️ 𝐋𝐢𝐧𝐤 𝐭𝐨 𝐛𝐥𝐨𝐠 & 𝐝𝐞𝐚𝐥𝐬 𝐛𝐞𝐥𝐨𝐰
+    location: "United States"
+    followers: 5432
+    engagement: 1610
+    commentsToLikes: 0.626140
+    id: ck5zpfzpzslkj0i14oaz3whdt
+    verified: false
+    hashtags: "#casualchicstyle, #ootdideas, #inspofashion, #lookinspo"
+  - username: "mashforooz"
+    fullname: >-
+      Mash Forooz
+    bio: >-
+      💗 Fashion | Beauty | Travel | Lifestyle 📍Houston, TX 💫Spread love everywhere you go. 🛍Shop my looks👇🏻
+    location: "United States"
+    followers: 89314
+    engagement: 150
+    commentsToLikes: 0.149843
+    id: ck5zxzgnw8yc40i14gla49rhg
+    verified: false
+    hashtags: "#target, #liketkit, #brunette, #abercrombie"
+  - username: "jermanyonline"
     fullname: >-
       Content Creator
+    bio: >-
+      Jermany Content Creator + Lifestyle 📍Houston, TX collabs ✉️ jermany.coney@yahoo.com
     location: "United States"
-    followers: 64370
-    engagement: 142
-    commentsToLikes: 0.055262
-    id: ck5ccyvc7i8jn0i11ldsqiqsh
+    followers: 61596
+    engagement: 120
+    commentsToLikes: 0.081541
+    id: ck1397mjkjxue0i19g72cnzm0
     verified: false
-    hashtags: "#mood, #shoedazzle, #hairproducts, #flattummyco"
-  - username: "styledbynellikal"
+    hashtags: "#wcw, #ad, #lifestyleblogger, #naturalhair"
+  - username: "shardoll2k"
     fullname: >-
-      Nelli Kalinyuk
+      SADE Family❤️ Fun🎉 Fabulous💅🏾
+    bio: >-
+      Beauty | Fashion | Lifestyle 📍Houston, TX 👨‍👩‍👦‍👦 Wife & MOMshell 2 Kings @demniniboys 📧 shadesofsade@gmail.com 📹 YouTube - ShardollTV
     location: "United States"
-    followers: 17250
-    engagement: 238
-    commentsToLikes: 0.133083
-    id: ck8tbhanovo7u0j788he7trhd
+    followers: 8461
+    engagement: 695
+    commentsToLikes: 0.057200
+    id: ck6tj7arb25aa0j71rk5m306m
     verified: false
-    hashtags: "#mydsw, #thewoodlands, #florals, #leopardbag"
-  - username: "martigrizzle"
+    hashtags: "#1001kollective, #explorepage, #microinfluencer, #nigerianbarbie"
+  - username: "diego_djdgaf"
     fullname: >-
-      Marti Grizzle
+      Diego Elizarraras  ✪
+    bio: >-
+      •Owner @HOUSEOFFADE •CEO @STRANDTHEBRAND •Office @STRUCTUREDTLA •Education @THECONCEPTACADEMY
     location: "United States"
-    followers: 4968
-    engagement: 881
-    commentsToLikes: 0.344192
-    id: ck6tseyvb4dyf0j71lj1jc7yh
+    followers: 148082
+    engagement: 115
+    commentsToLikes: 0.054477
+    id: ck6tp1jkyhbfg0j71af8ewr3i
     verified: false
-    hashtags: "#valentines, #revolve, #ltkfashion, #riveroaks"
-  - username: "jessicamelgoza_"
+    hashtags: "#structuredtla, #portland, #grindmode, #newyork"
+  - username: "heyitshuyen"
     fullname: >-
-      𝐉 𝐄 𝐒 𝐒 𝐈 𝐂 𝐀
+      huyen ♡
+    bio: >-
+      LIFESTYLE | TRAVEL | FOOD houston • accountant 🍜 @onehungryasiangirl
     location: "United States"
-    followers: 12410
-    engagement: 556
-    commentsToLikes: 0.322708
-    id: ck14j9uovja5r0i19msnx1s88
+    followers: 3326
+    engagement: 2567
+    commentsToLikes: 0.278175
+    id: ck14grjti6o040i191rgmvsfu
     verified: false
-    hashtags: "#designerdupes, #tiedyefashion, #whiteteamoments, #cincodemayo"
-  - username: "lisamsanders"
-    fullname: >-
-      Lisa Marie Sanders
-    location: "United States"
-    followers: 42511
-    engagement: 282
-    commentsToLikes: 0.024020
-    id: ckap3j5ko37pl0i78h7pg4w53
-    verified: false
-    hashtags: "#proathlete, #indianbeach, #lasvegas, #life"
-  - username: "alandiseharris"
-    fullname: >-
-      Alandise Harris
-    location: "United States"
-    followers: 66880
-    engagement: 195
-    commentsToLikes: 0.082624
-    id: ck8tcw15n0wjd0j782rd9b9m5
-    verified: true
-    hashtags: "#recruitment, #quickworkout, #insta, #hoopmixtape"
-  - username: "heygabyarria"
-    fullname: >-
-      GABY | Beauty Blogger
-    location: "United States"
-    followers: 16621
-    engagement: 329
-    commentsToLikes: 0.077454
-    id: ck139h3h6l9k40i191had6cmk
-    verified: false
-    hashtags: "#eyeshadow, #beautybloggers, #nudemakeup, #outdoorspaces"
-  - username: "brendacubac"
-    fullname: >-
-      BRENDA CUBA
-    location: "United States"
-    followers: 7213
-    engagement: 1124
-    commentsToLikes: 0.040416
-    id: ck0w6b5x37qhz0i19pl3k1pd1
-    verified: false
-    hashtags: "#france98, #bocajr, #quedateencasa, #yankeeshat"
-  - username: "houstonaaronray"
-    fullname: >-
-      Houston Ray
-    location: "United States"
-    followers: 7890
-    engagement: 845
-    commentsToLikes: 0.065123
-    id: ck5cjdf9quhyd0i11jmavnlfo
-    verified: false
-    hashtags: "#charlottenc, #thenewnormal"
+    hashtags: "#happyhalloween"
 ---

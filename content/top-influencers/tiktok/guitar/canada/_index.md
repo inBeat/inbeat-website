@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In Canada In 2020
 description: >-
-  Find top guitar TikTok influencers in Canada in 2020. Most popular hashtags: #coronavirus #quarantine #covid19 #foryoupage.
+  Find top guitar TikTok influencers in Canada in 2020. Most popular hashtags: #guitar #fyp #music #foryou.
 platform: TikTok
+hits: 82
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 82 TikTok influencers like this in Canada for you to pitch.
 profiles:
-  - username: "thunder_struck_cunuck"
-    fullname: >-
-      stephanepitre
-    location: "Canada"
-    followers: 5693
-    engagement: 1589
-    commentsToLikes: 0.105876
-    id: ck9noo53juxq10j78sn3itjph
-    verified: false
-    hashtags: "#react, #yup, #goodmorning, #broke"
-  - username: "baenagalactic"
-    fullname: >-
-      Andrew Baena
-    location: "Canada"
-    followers: 81463
-    engagement: 775
-    commentsToLikes: 0.021507
-    id: ck8zae8o21d410j78xw3a9sbr
-    verified: false
-    hashtags: "#eminem, #hiphop, #punkgoespop, #coronavirus"
-  - username: "manelijamal"
-    fullname: >-
-      Maneli Jamal
-    location: "Canada"
-    followers: 5683
-    engagement: 1402
-    commentsToLikes: 0.174286
-    id: ckac5svbldkye0i78ggwin3bg
-    verified: false
-    hashtags: "#gypsyjazz, #bellaciao, #healing, #ambientguitar"
-  - username: "thedamntruth"
-    fullname: >-
-      TheDamnTruth
-    location: "Canada"
-    followers: 5598
-    engagement: 1329
-    commentsToLikes: 0.177893
-    id: ckammxtai2iqa0i78o9idzu4y
-    verified: false
-    hashtags: "#legend, #jonimitchell, #somebodytolove, #vintagelook"
-  - username: "joeachakji"
-    fullname: >-
-      Joe Achakji
-    location: "Canada"
-    followers: 4435
-    engagement: 1766
-    commentsToLikes: 0.205500
-    id: cka0hba0l8gho0i78om371daq
-    verified: false
-    hashtags: "#pianomusic, #repeatdaily, #goodvibes, #viralsounds"
   - username: "dylanhennessy"
     fullname: >-
       Dylan Hennessy
+    bio: >-
+      Rocker, skater, guitarist. Email for online lessons! dylanhennessymusic@gmailcom
     location: "Canada"
-    followers: 2943
-    engagement: 780
-    commentsToLikes: 0.082211
+    followers: 2993
+    engagement: 864
+    commentsToLikes: 0.051895
     id: ck900x3u7avii0j78el1l10wv
     verified: false
-    hashtags: "#acoustic, #canadalife, #kickflip, #game"
-  - username: "dreymorneau"
+    hashtags: "#metal, #cover, #guitarist, #coversong"
+  - username: "giovanniparmigiani"
     fullname: >-
-      Drey Morneau
+      Giovanni Parmigiani
+    bio: >-
+      👉🏻 Vocalist of Carcosa 🎤 👉🏻 Guitarist of Angelmaker 🎸 👉🏻 Youtuber 🎥
     location: "Canada"
-    followers: 5727
-    engagement: 1145
-    commentsToLikes: 0.055894
-    id: ck9flll70ohx60j78drkzx4d9
+    followers: 17800
+    engagement: 846
+    commentsToLikes: 0.039878
+    id: ckbqv10brfbdr0j23j3aocqgp
     verified: false
-    hashtags: "#billwithers, #guitarlove, #tswift, #recording"
-  - username: "amandreo"
+    hashtags: "#guitar, #singing, #fyp, #beard"
+  - username: "luketrepp"
     fullname: >-
-      Amandreo
+      LukeTrepp
+    bio: >-
+      Youtube: LukeTrepp Instagram: Luke_Trepp Twitch: LukeTreppOfficial
     location: "Canada"
-    followers: 11813
-    engagement: 1266
-    commentsToLikes: 0.043821
-    id: ck90vq6a410ve0j788v940uwe
+    followers: 872700
+    engagement: 1811
+    commentsToLikes: 0.029690
+    id: ck8qqbedf74ig0j78jatuzctw
     verified: false
-    hashtags: "#stopcorona, #nosepainting, #vibewithme, #mugshot"
+    hashtags: "#song, #music, #guitar, #singing"
+  - username: "manelijamal"
+    fullname: >-
+      Maneli Jamal
+    bio: >-
+      For full videos, music and FREE lessons please check my page above 👆🏼
+    location: "Canada"
+    followers: 8218
+    engagement: 1354
+    commentsToLikes: 0.178991
+    id: ckac5svbldkye0i78ggwin3bg
+    verified: false
+    hashtags: "#guitarcentral, #acoustic, #guit, #guitarra"
+  - username: "kevinfarmerdrums"
+    fullname: >-
+      Kevin Farmer
+    bio: >-
+      Drums, drums and more drums... Check out my IG
+    location: "Canada"
+    followers: 24900
+    engagement: 1493
+    commentsToLikes: 0.062578
+    id: cka9q9lej7spa0i788xuvpbu4
+    verified: false
+    hashtags: "#musician, #badday, #drumming, #drummer"
   - username: "aaronroymusic"
     fullname: >-
       Aaron Roy
+    bio: >-
+      Climbing the Mountain 🏔
     location: "Canada"
-    followers: 5621
-    engagement: 571
-    commentsToLikes: 0.085637
+    followers: 5619
+    engagement: 585
+    commentsToLikes: 0.099475
     id: ck9flli11oh1q0j7806eowbni
     verified: false
-    hashtags: "#withoutyou, #singingtheblues, #tiktok, #hilarious"
-  - username: "jauncydev"
+    hashtags: "#country, #guitarist, #picking, #blues"
+  - username: "dreymorneau"
     fullname: >-
-      jonny devaney
+      Drey Morneau
+    bio: >-
+      Expressing my self through sound🎼 Find me on Spotify&Applemusic @Drey Morneau
     location: "Canada"
-    followers: 307132
-    engagement: 1678
-    commentsToLikes: 0.014083
-    id: ck92whjm7uk5u0j789zki57pn
+    followers: 5687
+    engagement: 1041
+    commentsToLikes: 0.051614
+    id: ck9flll70ohx60j78drkzx4d9
     verified: false
-    hashtags: "#killyourvibe, #homeproject, #vibewithme, #wipechallenge"
+    hashtags: "#originalmusic, #pianist, #guitarsolo, #guitar"
+  - username: "lunaliband"
+    fullname: >-
+      LUNA LI
+    bio: >-
+      ur local moon fairy🦋✨ Luna Li on Spotify, Apple Music, etc. 💕
+    location: "Canada"
+    followers: 22500
+    engagement: 1437
+    commentsToLikes: 0.027167
+    id: ck8kexi01bg430j7844q9daor
+    verified: true
+    hashtags: "#instrumental, #cute, #fun, #fyp"
+  - username: "melinamellemusic"
+    fullname: >-
+      Melina Melle
+    bio: >-
+      singer - songwriter - canadian
+    location: "Canada"
+    followers: 10300
+    engagement: 1032
+    commentsToLikes: 0.162789
+    id: ckbl3wxzv1biz0j23sb0yz3ki
+    verified: false
+    hashtags: "#originalsong, #viral, #guitar, #fyp"
+  - username: "ronel_lupango"
+    fullname: >-
+      RL ✒️
+    bio: >-
+      Musician. Writer. Artist. Video Creator. Entrepreneur. Koreabo. Otaku. Gamer.
+    location: "Canada"
+    followers: 53600
+    engagement: 928
+    commentsToLikes: 0.030685
+    id: ck8z12jif03uj0j78shmyw052
+    verified: false
+    hashtags: "#fyp, #music, #foryou, #guitar"
 ---

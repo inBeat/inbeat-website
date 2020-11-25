@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Houston In 2020
 description: >-
-  Find top fitness Instagram influencers in Houston in 2020. Most popular hashtags: #fitness #houston #pitching #newyork.
+  Find top fitness Instagram influencers in Houston in 2020. Most popular hashtags: #fitness #houston #texas #fitfam.
 platform: Instagram
+hits: 189
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 189 Instagram influencers like this in Houston, United States for you to collaborate.
 profiles:
-  - username: "chauncyglover"
+  - username: "uc.camjam"
     fullname: >-
-      ChauncyOnTV
+      Cam-Jam™
+    bio: >-
+      DM ~ inquiry|shoots|collabs Houston,TX | Galveston,TX Published Model~Actress TrophiesTV-EMILY WE BlackOps Worlds🥈Medalist Nfinity Legend ❤️🔐
     location: "United States"
-    followers: 22683
-    engagement: 610
-    commentsToLikes: 0.024515
-    id: ck5q9r2j1cjus0i11ukcqz811
-    verified: true
-    hashtags: "#toughquestions, #blackboyjoy, #oscar2020, #christmas"
+    followers: 100373
+    engagement: 288
+    commentsToLikes: 0.055196
+    id: ck5bwobzhm37d0i11evxxdkey
+    verified: false
+    hashtags: "#potd, #instagood, #camjam, #beauty"
+  - username: "tylerdonatelli"
+    fullname: >-
+      Tyler Donatelli
+    bio: >-
+      Houston Ballet Soloist • hou.tx|hb.ca
+    location: "United States"
+    followers: 15822
+    engagement: 1000
+    commentsToLikes: 0.010433
+    id: ck55q9esmcg8b0i11kxnn810f
+    verified: false
+    hashtags: "#workout, #fitness, #houstonballet, #corona"
+  - username: "thestarsbarber"
+    fullname: >-
+      Barry Hairston /TheStarsBarber
+    bio: >-
+      🌟Exclusive🧳 #celebritybarber 🌟💪🏽 Junkie 🌟NBA🏀 /MLB⚾️ 💈 🌟@jetaime211 Wifey 👸 🌟 @schedulicity📲 Brand Ambassador 🌟 @gillette #BarberCouncil 📰Press👇🏽
+    location: "United States"
+    followers: 35176
+    engagement: 205
+    commentsToLikes: 0.006297
+    id: ck5q89pw353pb0i111ops9k9v
+    verified: false
+    hashtags: "#ringlight, #illuzien, #haircut, #gillettepartner"
+  - username: "victoriavilla__"
+    fullname: >-
+      Victoria Villa MUA
+    bio: >-
+      Lover of Christ Pro Makeup Artist | @victoriavillabeauty Plus Size Model | Influencer Houston | Miami @buffbunny_collection use code VICTORIA
+    location: "United States"
+    followers: 22266
+    engagement: 275
+    commentsToLikes: 0.044410
+    id: ck55ozizu9h040i11s14f4nld
+    verified: false
+    hashtags: "#plussizefashion, #blessed, #thick, #fashionnovacurve"
+  - username: "mariafit92_"
+    fullname: >-
+      Maria Rivera
+    bio: >-
+      •Only Acct. •Aiden&Mason❤️ @squeez_me_skinny MR92 @noquitsociety (MR92) •Team @hcfitness.texas •Team @1upnutrition
+    location: "United States"
+    followers: 19256
+    engagement: 439
+    commentsToLikes: 0.017864
+    id: ckap6dps5fgnd0i78cecdh21z
+    verified: false
+    hashtags: "#fitnessmotivation, #fitnessjourney, #happiness, #fitnessmodel"
+  - username: "selectbodydoc"
+    fullname: >-
+      Select Spine & Sports Medicine
+    bio: >-
+      📍Friendswood, TX Select Spine & Sports Medicine · Joe Denke, DC, CCSP · Joe Fuhrman, DC · Jerica Carlton, Ex. Phys. . Our Products⤵️ Selectbodydoc 20%
+    location: "United States"
+    followers: 56400
+    engagement: 190
+    commentsToLikes: 0.079740
+    id: ck9hbx4jiitrl0j78y7641n79
+    verified: false
+    hashtags: "#backpain, #backpainrelief, #sportsinjury, #fitness"
   - username: "tellittoyourneighbor"
     fullname: >-
       Erica Smith | Designer | HTX
+    bio: >-
+      Sharing discoveries & experiences! #tityndesign#tityntravel#titynquote BIG monthly GIVEAWAYS to share the things I ♥️ most with YOU!
     location: "United States"
     followers: 7334
     engagement: 244
     commentsToLikes: 0.189467
     id: ck134xuwayq2h0i196si7yua1
     verified: false
-    hashtags: "#notetoself, #tityneats, #thingsthatdisappear, #houstoncurbside"
+    hashtags: "#wfh, #tityn, #corona, #titynquote"
   - username: "brt.ann"
     fullname: >-
       BrittanyAnn
+    bio: >-
+      But GOD... ΔΣΘ @i_amlift Certified PT 📧 for inquiries 2x Overall NQ Bikini bodybuilder @snapkitchen $15 off CODE: brtann @stakkedcouture athlete
     location: "United States"
     followers: 5231
     engagement: 520
     commentsToLikes: 0.055619
     id: ck8sxf158h5un0j78ljk838bm
     verified: false
-    hashtags: "#watch, #shaketheroom, #faith, #purpose"
-  - username: "monicaalester"
+    hashtags: "#iamlift, #womenlift, #keepgoing, #actions"
+  - username: "ramyainti"
     fullname: >-
-      Monica Lester 💕
+      Ramya
+    bio: >-
+      Desi Girl📍Houston | Fitness | Fashion | Travel 🔥 DOWNLOAD MY APP FOR MORE 🔥 👇
     location: "United States"
-    followers: 23986
-    engagement: 194
-    commentsToLikes: 0.026618
-    id: ck8sypv26ljii0j78pvntwcua
+    followers: 392427
+    engagement: 451
+    commentsToLikes: 0.020497
+    id: ck8t8t4xqlpk00j78uclyox52
     verified: false
-    hashtags: "#dasies, #rainbow, #selenaquintanilla, #comolaflor"
-  - username: "jodywilliams007"
+    hashtags: "#fallstyle, #styleblogger, #girl, #croptop"
+  - username: "ll_fitcouple"
     fullname: >-
-      Jody Williams
+      Laura y Leiser/😀🏖💕🌊
+    bio: >-
+      -Más de 3 años de experiencia💃🏻 -Ayudamos a personas a vivir una mejor vida💕familia,amigos,negocio,estado físico,calidad de tiempo🏝😀 @healthylife.cm
     location: "United States"
-    followers: 4878
-    engagement: 2729
-    commentsToLikes: 0.169088
-    id: ckaowtqn7aewd0i783auhttrj
+    followers: 32601
+    engagement: 204
+    commentsToLikes: 0.031651
+    id: ck8wggxk4hc8z0j786f52uvum
     verified: false
-    hashtags: "#singingvideos, #viralvideos, #curlyhairboy, #musiccover"
-  - username: "jas_stayfit"
-    fullname: >-
-      Jasmin Santibanez
-    location: "United States"
-    followers: 207723
-    engagement: 679
-    commentsToLikes: 0.016767
-    id: ck8t2o4n405n00j7858gczm4r
-    verified: false
-    hashtags: "#alphalete, #houston, #fitchicks, #throwback"
-  - username: "jshep23"
-    fullname: >-
-      Jordan Shephard
-    location: "United States"
-    followers: 27179
-    engagement: 328
-    commentsToLikes: 0.027335
-    id: ck5hpm8e7rl9i0i112k42xqbg
-    verified: false
-    hashtags: "#paisley, #jonosbelizeitorknot, #owemethat, #scatpack"
-  - username: "houstoneateries"
-    fullname: >-
-      Houston Texas Food & Lifestyle
-    location: "United States"
-    followers: 21736
-    engagement: 481
-    commentsToLikes: 0.457565
-    id: ck0u9gqrb9rlg0i195i51vz5g
-    verified: false
-    hashtags: "#growthepeach, #stayinghomesaveslives, #turkeyfailed, #makethefirstmove"
-  - username: "emmietanner25"
-    fullname: >-
-      Emily Tanner️️️|Athlete|Coach
-    location: "United States"
-    followers: 36849
-    engagement: 488
-    commentsToLikes: 0.006306
-    id: ck6tmz92k8tgh0j71r5snmpjt
-    verified: false
-    hashtags: "#gymnastics, #garagegym, #liftheavy, #crossiftgames"
-  - username: "cnpitching"
-    fullname: >-
-      CN Pitching Performance
-    location: "United States"
-    followers: 6533
-    engagement: 820
-    commentsToLikes: 0.009889
-    id: ck8t636ihc30x0j787zpd54ty
-    verified: false
-    hashtags: "#changeupuniversity, #kansascity, #mind, #pitching"
+    hashtags: "#love, #tampa, #pregnant, #jacksonville"
 ---

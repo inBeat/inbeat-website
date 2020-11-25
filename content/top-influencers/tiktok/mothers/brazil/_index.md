@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Brazil In 2020
 description: >-
-  Find top mothers TikTok influencers in Brazil in 2020. Most popular hashtags: #mother #music #dueto #coronavirus.
+  Find top mothers TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #fy #tiktokbrasil.
 platform: TikTok
+hits: 34
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 34 TikTok influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "drikamarinhoof"
+  - username: "ilxbebella"
     fullname: >-
-      Drika Marinho
+      🎨💞
+    bio: >-
+      you are amazing! - monitored by the mother - ✉🛁🤍
     location: "Brazil"
-    followers: 56086
-    engagement: 931
-    commentsToLikes: 0.021043
-    id: ck8vypxm2uomc0j78al4wye7d
+    followers: 5480
+    engagement: 4119
+    commentsToLikes: 0.344820
+    id: ckcvj4g3awgpb0j239erh0yyw
     verified: false
-    hashtags: "#coronatime, #reagir, #powercouple, #tiktokdanceduet"
-  - username: "felipecastromelo"
+    hashtags: "#ohno, #fy, #fyp, #girlsjoalin2audicao"
+  - username: "lorenaescriche"
     fullname: >-
-      Felipe Castro Melo
+      Lorena Escriche
+    bio: >-
+      Mother 👩‍👧 firefighter 🚒, traveler ✈️
     location: "Brazil"
-    followers: 29228
-    engagement: 2840
-    commentsToLikes: 0.148062
-    id: ckahwm62frjqn0i78rmy24kyt
+    followers: 36800
+    engagement: 472
+    commentsToLikes: 0.009733
+    id: ckb9u6y4bsnnk0j233pstjhb4
     verified: false
-    hashtags: "#horse, #father, #enem, #enemtiktok"
-  - username: "leticiafabbri"
+    hashtags: "#tiktokviagem, #comedia, #challenge, #geracaotiktok"
+  - username: "lucasbrandao__"
     fullname: >-
-      leticiafabbri
+      Lucas Brandão
+    bio: >-
+      quarantining...
     location: "Brazil"
-    followers: 5076
-    engagement: 574
-    commentsToLikes: 0.028525
-    id: ck8f7mw5n32d40j78t1h44vae
+    followers: 28800
+    engagement: 1233
+    commentsToLikes: 0.022750
+    id: ckb12a14cqj580j23m9x2ub7w
     verified: false
-    hashtags: "#amputee, #duet, #time, #dance"
-  - username: "cris.urias"
+    hashtags: "#love, #fyp, #tiktok, #challenge"
+  - username: "naiumigoldoni"
     fullname: >-
-      Cristian Urias
+      naiumigoldoni
+    bio: >-
+      Atriz. Criadora de Conteúdo. Mãe. Super Mulher! 🤩😋 Insta: @naiumigoldoni
     location: "Brazil"
-    followers: 7008
-    engagement: 1554
-    commentsToLikes: 0.201652
-    id: ckacrfnmg59ep0i78l2i1bdk1
-    verified: false
-    hashtags: "#bono, #preguicinha, #china, #sandyejunior"
-  - username: "guicapivara_"
-    fullname: >-
-      Guicapivara
-    location: "Brazil"
-    followers: 2333292
-    engagement: 2685
-    commentsToLikes: 0.014298
-    id: ck81qzwfqlax60j78fvgfttmy
+    followers: 627400
+    engagement: 1481
+    commentsToLikes: 0.006391
+    id: ck8qgbxze08oz0j78wmc3t1i0
     verified: true
-    hashtags: "#tiktokdiy, #crayons, #watermelon, #glitter"
-  - username: "ju4np137r0"
+    hashtags: "#tiktokbrasil, #mom, #dublagem, #humor"
+  - username: "brenoferreira"
     fullname: >-
-      P137r0
+      Breno Ferreira 
+    bio: >-
+      Prazer, Breno! Jesus é bom :)
     location: "Brazil"
-    followers: 57456
-    engagement: 2254
-    commentsToLikes: 0.063892
-    id: cka0jztw4kfoq0i78qufsvm3a
+    followers: 138400
+    engagement: 2388
+    commentsToLikes: 0.019351
+    id: ckahwlrizrgr90i78dgxclcax
     verified: false
-    hashtags: "#starwars, #comedy, #repost, #girls"
-  - username: "darthjaq_"
+    hashtags: "#jesus, #amor, #deus, #devocional"
+  - username: "referreiracos"
     fullname: >-
-      JAQ
+      Rê Ferreira 🖤🌈
+    bio: >-
+      🖤💫Rê Ferreira💫💜 COSPLAY 🎭 RPG 🎲 NERDICES 🤓
     location: "Brazil"
-    followers: 22415
-    engagement: 1832
-    commentsToLikes: 0.060180
-    id: ckacws8ijtwvz0i784loodfqa
+    followers: 23700
+    engagement: 1529
+    commentsToLikes: 0.090420
+    id: ckc1o3tc5so930j23vivbdjyr
     verified: false
-    hashtags: "#coronavirus, #duetodublagem, #barneystinston, #heterotop"
-  - username: "laurinhau"
+    hashtags: "#arlequina, #druida, #bnha, #himikotoga"
+  - username: "pedrolomando"
     fullname: >-
-      Laura Viggiano
+      Pedro Lomando Rocha
+    bio: >-
+      Se vc se divertiu, meu dever foi cumprido
     location: "Brazil"
-    followers: 212044
-    engagement: 3722
-    commentsToLikes: 0.020459
-    id: ck8seualklh190j78s2c0q441
+    followers: 26600
+    engagement: 2487
+    commentsToLikes: 0.031237
+    id: ckc8yszxpnf260j239d86sz6s
     verified: false
-    hashtags: "#comedia, #mood, #smile, #clothes"
-  - username: "jonfaria2"
+    hashtags: "#fyp, #fy, #viral, #backtoschool"
+  - username: "pewilliancoutinho"
     fullname: >-
-      Jon Faria
+      Willian Coutinho
+    bio: >-
+      Era pra ter algo legal escrito aqui...To pensando ainda! Me segue lá no insta!
     location: "Brazil"
-    followers: 105798
-    engagement: 1369
-    commentsToLikes: 0.068944
-    id: ck8scwar4d2980j78ysljyasm
+    followers: 157500
+    engagement: 1398
+    commentsToLikes: 0.044500
+    id: ckcoxf3y19ti80j23hrue4uof
     verified: false
-    hashtags: "#thankyou, #ilustrator, #primaman, #atordenovela"
-  - username: "shinigami_002"
+    hashtags: "#padretiktoker, #funny, #tiktokbrasil, #church"
+  - username: "yue_10"
     fullname: >-
-      •Shinigami•
+      yue_10
+    bio: >-
+      ❤️👐👈(++) ;) "o"☺️😮 Obrigada por me seguir e da ❤️ 😮👈 da uma olhada 🤤🤙👇
     location: "Brazil"
-    followers: 35143
-    engagement: 2298
-    commentsToLikes: 0.020330
-    id: ck9r3vg6js2z80j78c1hqn48j
+    followers: 37900
+    engagement: 1401
+    commentsToLikes: 0.028537
+    id: ck982dozdfk6h0j784rdfhn32
     verified: false
-    hashtags: "#tetsuroukuroo, #personagem, #pov, #mother"
+    hashtags: "#thorfinn, #mydemons, #formy, #dark"
+  - username: "karenguilhen"
+    fullname: >-
+      Karen Mangini Guilhen
+    bio: >-
+      🏳️‍🌈 Instagram: _krnguilhen Twitter: krnguilhen Segue aí 🦋
+    location: "Brazil"
+    followers: 31300
+    engagement: 1867
+    commentsToLikes: 0.033607
+    id: ckdi8dc1gaswp0j236wutsebg
+    verified: false
+    hashtags: "#foryoupage, #comedia, #foryou, #humor"
 ---

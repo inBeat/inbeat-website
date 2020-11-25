@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Miami In 2020
 description: >-
-  Find top models TikTok influencers in Miami in 2020. Most popular hashtags: #miami #model #fashion #quarantine.
+  Find top models TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #foryou #miami #model.
 platform: TikTok
+hits: 86
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 86 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "____amays.officia"
-    fullname: >-
-      ____amays.official__
-    location: "United States"
-    followers: 23657
-    engagement: 888
-    commentsToLikes: 0.035357
-    id: ckacfmx5drkh30i78fojq0a4x
-    verified: false
-    hashtags: "#tiktokvirall, #modelo, #givenchy, #fallowmee"
-  - username: "mostwantedfineart"
-    fullname: >-
-      Most Wanted Fine Art
-    location: "United States"
-    followers: 5083
-    engagement: 733
-    commentsToLikes: 0.005282
-    id: ckad4xy86rgir0i78npi5nnfc
-    verified: false
-    hashtags: "#steelerseason, #slaps, #secretwalls, #supermodel"
-  - username: "brooke.castillo6"
-    fullname: >-
-      Brooke Castillo
-    location: "United States"
-    followers: 24423
-    engagement: 1147
-    commentsToLikes: 0.013618
-    id: ck9f1q6hn9bei0j78wpadvkx1
-    verified: false
-    hashtags: "#christmas, #iceskating, #modelchallenge, #foryoupage"
   - username: "opdubsss"
     fullname: >-
       Olivia Pascale
+    bio: >-
+      DM me on Instagram @oliviapw
     location: "United States"
     followers: 14616
     engagement: 512
     commentsToLikes: 0.021309
     id: ck8j6cupt94st0j78kvlbijsf
     verified: false
-    hashtags: "#sweatshirt, #xyzcba, #selfisolation, #fiance"
-  - username: "peach.martine"
+    hashtags: "#corona, #boyfriend, #couplegoals, #socialdistancing"
+  - username: "choleemo"
     fullname: >-
-      Peach Martine
+      cholee
+    bio: >-
+      Mom, Wife, Boss, Model (Elite Miami), Happy Camper Venmo @Cholee-Thompson
     location: "United States"
-    followers: 202339
-    engagement: 1713
-    commentsToLikes: 0.025099
-    id: ck8z6jufimbm50j78uiuq15gp
+    followers: 12900
+    engagement: 1077
+    commentsToLikes: 0.124629
+    id: ckacgut4twqnm0i78kpyo0nu5
     verified: false
-    hashtags: "#advice, #vapeno, #cleveland, #harrypotter"
-  - username: "inlinephotography"
+    hashtags: "#campingchannel, #momover40, #rv, #remotelearning"
+  - username: "____amays.officia"
     fullname: >-
-      inlinephotography
+      ____amays.official__
+    bio: >-
+      El tiempo de Dios es perfecto..🙏 @____amays.official____ Cubano🇨🇺 Miami Model
     location: "United States"
-    followers: 2860
-    engagement: 296
-    commentsToLikes: 0.025756
-    id: ck9ewrv9bo2zh0j787qmg6xzp
+    followers: 77800
+    engagement: 1135
+    commentsToLikes: 0.036702
+    id: ckacfmx5drkh30i78fojq0a4x
     verified: false
-    hashtags: "#shakira, #superbowl2020, #fitness, #resistancebandworkout"
-  - username: "marcbautistaa"
+    hashtags: "#tiktok, #love, #foryou, #paratii"
+  - username: "daria.koso.photo"
     fullname: >-
-      Marc Bautista
+      DARIA KOSO | photo
+    bio: >-
+      Miami Photographer 📷 IG: @daria.koso.photo
     location: "United States"
-    followers: 14309
-    engagement: 1275
-    commentsToLikes: 0.106600
-    id: ck8s8j9dktzth0j78ilyrs2qv
+    followers: 65800
+    engagement: 632
+    commentsToLikes: 0.017020
+    id: ckbwinvlt3d860j23r32z8was
     verified: false
-    hashtags: "#liluzivert, #xyzabc, #musicmatters, #model"
-  - username: "thesortarican"
+    hashtags: "#fashionphotographer, #miamiphotographer, #model, #shoot"
+  - username: "leidyamelia"
     fullname: >-
-      Matt Silva
+      Leidy Amelia
+    bio: >-
+      Wishing lots of love & good vibes to whoever is reading this 🦋
     location: "United States"
-    followers: 529007
-    engagement: 314
-    commentsToLikes: 0.004683
-    id: ck7znzaz5gbci0j78n7jdl14h
+    followers: 136400
+    engagement: 376
+    commentsToLikes: 0.021146
+    id: ck9kg90ys6ugg0j783pf85fo9
     verified: false
-    hashtags: "#lonley, #followmeh, #oops, #makup"
+    hashtags: "#foryoupage, #beach, #fyp, #foryou"
+  - username: "kari.nautique"
+    fullname: >-
+      kari.nautique
+    bio: >-
+      Author, Model, Mom 📍Miami Click my link for all my other sites
+    location: "United States"
+    followers: 68300
+    engagement: 942
+    commentsToLikes: 0.022352
+    id: ck9dz5xcf05o70j78kjgpmjh8
+    verified: false
+    hashtags: "#fyp, #singlelife, #dogsoftiktok, #studyhacks"
+  - username: "fitwithceli"
+    fullname: >-
+      Araceli Velazquez
+    bio: >-
+      FREELANCE MODEL CEO @shapeShifterofficial Miami 🏝
+    location: "United States"
+    followers: 137400
+    engagement: 723
+    commentsToLikes: 0.019050
+    id: ck8hq47tt2cby0j7834s5slt6
+    verified: false
+    hashtags: "#fitness, #fyp, #miami, #workout"
+  - username: "joehadley96"
+    fullname: >-
+      Joseph JP Hadley
+    bio: >-
+      Instagram- Jphadley19 Twitter -Jphadley96 🏳️‍🌈🏳️‍🌈🇮🇹🇮🇹
+    location: "United States"
+    followers: 8012
+    engagement: 709
+    commentsToLikes: 0.041930
+    id: ck9tu8w7sk87z0j786zjpgboa
+    verified: false
+    hashtags: "#gaykid, #equinox, #snapchat, #sexy"
+  - username: "rsjdesign"
+    fullname: >-
+      Robert Sepúlveda Jr.
+    bio: >-
+      📺🇵🇷🤴🏻🏳️‍🌈♒️ NYC Interior & Jewelry Designer | Activist | Actor
+    location: "United States"
+    followers: 101400
+    engagement: 621
+    commentsToLikes: 0.076678
+    id: ckdn82n2qf9e70j23yxvt30q6
+    verified: true
+    hashtags: "#asmr, #biden2020, #designideas, #menshair"
   - username: "ms.kimkong"
     fullname: >-
       Kim Kong
+    bio: >-
+      CEO of hair flipping Follow my ÏG for model shtuff 🌈✨ Miami 🌴
     location: "United States"
-    followers: 53935
-    engagement: 1537
-    commentsToLikes: 0.041238
+    followers: 68500
+    engagement: 1232
+    commentsToLikes: 0.033849
     id: ck8qe4gbyr3bj0j78a04o98kn
     verified: false
-    hashtags: "#sayso, #dreamgirl, #dababy, #savage"
-  - username: "hannahaalexandra"
-    fullname: >-
-      hannahaalexandra 
-    location: "United States"
-    followers: 36407
-    engagement: 1221
-    commentsToLikes: 0.024995
-    id: ck9e0n7ax6umn0j78ct1okcf7
-    verified: false
-    hashtags: "#homeroutine, #petvlog, #dothescotts, #cursedimages"
+    hashtags: "#witchtok, #halloween2020, #happyhalloween, #dancecostumes"
 ---

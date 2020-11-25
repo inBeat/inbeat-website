@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top food Instagram influencers in Philadelphia in 2020. Most popular hashtags: #mealprep #stayhome #comfortfood #tacos.
+  Find top food Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #philly #food.
 platform: Instagram
+hits: 38
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 38 Instagram influencers like this in Philadelphia, United States for you to contact.
 profiles:
-  - username: "eatswithjb"
+  - username: "davesherotski"
     fullname: >-
-      Philadelphia Food Blogger
+      🦄Food Porn Unicorn🦄
+    bio: >-
+      Your Philadelphia Food God Kitchen Villain & Food Porn Star⭐ #foodfetishfriday Creator I've been putting the PORN in #foodporn since 2017
     location: "United States"
-    followers: 3445
-    engagement: 1283
-    commentsToLikes: 0.283555
-    id: ckaor94k0m9060i78suz39gzn
+    followers: 6338
+    engagement: 1585
+    commentsToLikes: 0.435309
+    id: ck6tizjw71qan0j714dkfmbeo
     verified: false
-    hashtags: "#eatswithjb, #quarentinebeard, #cheers, #monstrosityshakes"
+    hashtags: "#foodfetishfriday, #foodpornunicorn, #crisp"
   - username: "josheatsphilly"
     fullname: >-
       Philadelphia Food & Lifestyle
+    bio: >-
+      👶🏾 Hungry since birth 📸 by @joshcmoore 🌈 #JoshEatsPhilly 📫 josheatsphilly@gmail.com
     location: "United States"
-    followers: 22043
-    engagement: 318
-    commentsToLikes: 0.101981
+    followers: 25591
+    engagement: 356
+    commentsToLikes: 0.113056
     id: ck0tyekujmhfy0i196kndu1er
     verified: false
-    hashtags: "#sushisunday, #bubblewaffle, #speculoos, #lovertm"
+    hashtags: "#icecream, #delivery, #topcitybites, #tbt"
+  - username: "eatswithjb"
+    fullname: >-
+      JB | Philadelphia Food Blogger
+    bio: >-
+      Hey! 👨🏻‍🍳 I’m JB • Your local Philly food guide Sharing all the best bites and 🍻 in the city! Check out my website at the link below ⬇️ 📸 All original
+    location: "United States"
+    followers: 3515
+    engagement: 547
+    commentsToLikes: 0.182255
+    id: ckaor94k0m9060i78suz39gzn
+    verified: false
+    hashtags: "#lancasterpa, #sponsored, #hempheals, #hempproducts"
   - username: "phlfoodstagram"
     fullname: >-
       Philadelphia Food & Lifestyle
+    bio: >-
+      Samantha Schwartz @ssschwartz 🙋🏽‍♀️ Philadelphia & beyond 📍 Tag #phlfoodstagram 📲 DM // Phlfoodstagram@gmail.com 💌
     location: "United States"
     followers: 16671
     engagement: 476
     commentsToLikes: 0.265088
     id: ck0w5u9pk5gyy0i19fczmow3h
     verified: false
-    hashtags: "#panchospartner, #bestdipontheplanet, #phillynightin, #brunchinphilly"
+    hashtags: "#poweruppartner, #panchospartner, #bestdipontheplanet, #phillynightin"
   - username: "phillyinsider"
     fullname: >-
       Michael Klein
+    bio: >-
+      I write about the Philadelphia-area #food & #restaurant scene at @phillyinquirer. Not a critic. Love my kids, espresso, dad jokes, & the Oxford comma.
     location: "United States"
     followers: 17422
     engagement: 191
     commentsToLikes: 0.027001
     id: ck8swn6hgelk70j788vy49p2o
     verified: false
-    hashtags: "#fishtown, #wings, #bakedgoods, #cake"
+    hashtags: "#pizza, #askchefsanything, #restaurant, #food"
   - username: "philadelphiapulse"
     fullname: >-
       Philadelphia Pulse
+    bio: >-
+      Philadelphia’s source for food, drinks, events and more. - Use #phillypulse for a chance to be featured.
     location: "United States"
     followers: 52391
     engagement: 201
     commentsToLikes: 0.012510
     id: ckap7rr5yl9t50i78ljhoy4sd
     verified: false
-    hashtags: "#phillypulse"
+    hashtags: ""
+  - username: "hudsontable"
+    fullname: >-
+      Hudson Table
+    bio: >-
+      Interactive Cooking & Event Space 📍Hoboken, NJ 📍Philadelphia, PA
+    location: "United States"
+    followers: 14559
+    engagement: 148
+    commentsToLikes: 0.059985
+    id: ck5q0min16pe50i11e5g91daq
+    verified: false
+    hashtags: "#foodpic, #foodstagram, #supportsmallbusiness, #cooking"
   - username: "food_ilysm"
     fullname: >-
       Devon Rushton • Philly based
+    bio: >-
+      FOOD I LOVE YOU SO MUCH 🍕 Philadelphia based 🥨 Featuring food around the 🌎 @devon_rushton 💁🏻‍♀️ #foodilysm 📱 devon@foodilysm.com 📧
     location: "United States"
-    followers: 241953
-    engagement: 137
-    commentsToLikes: 0.013816
+    followers: 243934
+    engagement: 144
+    commentsToLikes: 0.017311
     id: ck9h9tfwa9wf10j78e8z219jt
     verified: false
-    hashtags: ""
-  - username: "mad_about_food"
+    hashtags: "#ad"
+  - username: "phillyfoodgirl"
     fullname: >-
-      Madeline | Mad About Food
+      Philly Food Girl {Est. 2014}
+    bio: >-
+      Hi, I’m Kass! Mom + Wife + Home Cook + Authentic Influencer. FB/IG/Twit/YouTube/Snap/Pntrst/Tik 📧phillyfoodgirl@gmail.com #PhillyFoodGirl
     location: "United States"
-    followers: 135040
-    engagement: 124
-    commentsToLikes: 0.060032
-    id: ck13ax33islpb0i195b9q8ags
+    followers: 34019
+    engagement: 180
+    commentsToLikes: 0.031734
+    id: ck15qtgl14k5r0i19fa41ll88
     verified: false
-    hashtags: "#mothersday, #mealprepsunday, #giveaway, #avocado"
-  - username: "clint_lucas"
+    hashtags: "#phoodie, #gravy, #locatelli, #family"
+  - username: "danlikestoeat"
     fullname: >-
-      Clint Lucas
+      Dan DuPraw
+    bio: >-
+      NYC/PHL📍 • Here to inspire through food and travel 💜 • Fun Fact: I won $5k for cooking on a reality TV show🌈 hablo un poco Español 😁
     location: "United States"
-    followers: 54302
-    engagement: 470
-    commentsToLikes: 0.110626
-    id: ck0w55wwu21o40i19vqqljp9g
+    followers: 6422
+    engagement: 776
+    commentsToLikes: 0.075104
+    id: ck13cqkni1og60i19uxdx4his
     verified: false
-    hashtags: "#mensfashionph, #armoredge, #bullstrap, #fashionnova"
-  - username: "langernutrition"
-    fullname: >-
-      Abby Langer RD
-    location: "United States"
-    followers: 27196
-    engagement: 196
-    commentsToLikes: 0.080548
-    id: ck5hjrxjvh5bj0i11g9pjcrf4
-    verified: false
-    hashtags: "#lemon, #foodpics, #foodforthought, #ketofriendly"
-  - username: "erinliveswhole"
-    fullname: >-
-      Erin Lives Whole
-    location: "United States"
-    followers: 154658
-    engagement: 335
-    commentsToLikes: 0.054032
-    id: ck0tve9u4b2fy0i1934is6wpx
-    verified: false
-    hashtags: "#chickenpotpie, #comfortfoods, #teamself, #granolabars"
+    hashtags: "#travelinspiration, #travelblogger, #burlingtonvt, #nyc"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top rappers Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #tiktok #video #repost.
+  Find top rappers Instagram influencers in Turkey in 2020. Most popular hashtags: #rap #rapper #hiphop.
 platform: Instagram
+hits: 14
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "tarooq_official"
-    fullname: >-
-      T.M.X🦅
-    location: "Turkey"
-    followers: 112316
-    engagement: 701
-    commentsToLikes: 0.058052
-    id: ck8szgbmxoc2p0j7815s6vury
-    verified: false
-    hashtags: "#tmx, #soon, #tb, #lebanon"
   - username: "hamedfard"
     fullname: >-
       Hamed Fard
+    bio: >-
+      The Official Instagram Account Of Hamed Fard Iranian Rapper
     location: "Turkey"
-    followers: 152428
-    engagement: 975
-    commentsToLikes: 0.078468
+    followers: 191025
+    engagement: 1072
+    commentsToLikes: 0.080664
     id: ck9wi5xvq0vxl0j78chkqg10l
     verified: false
-    hashtags: "#homeworkout, #socialdistancing, #newday, #newworkout"
-  - username: "anitaofficialll"
+    hashtags: "#tiktok, #rap, #hiphop, #tehran"
+  - username: "tarooq_official"
     fullname: >-
-      ANITA | آنیتا
+      T.M.X🦅
+    bio: >-
+      سُوري🔱 #Rapper🎙 Dubai | Istanbul 📍 @shadler_production 🔻طيات الماضي 2🔻
     location: "Turkey"
-    followers: 464159
-    engagement: 1448
-    commentsToLikes: 0.042306
-    id: ck0u15ee7vxec0i19lnz9nvg9
+    followers: 117315
+    engagement: 595
+    commentsToLikes: 0.064450
+    id: ck8szgbmxoc2p0j7815s6vury
     verified: false
-    hashtags: "#birthdaygirl, #22, #anita, #anitaofficialll"
-  - username: "meduonline"
+    hashtags: "#sketch, #love, #fuck, #summervibes"
+  - username: "lalisfactstr"
     fullname: >-
-      Ayselin Arslan ° Medusa
+      lalisfactstr | ece
+    bio: >-
+      ♡ For BLACKPINK's Main Dancer, Lead Rapper, Sub Vocal aka YG's ACE&Global IT Girl Lalisa Manoban. [lisa's fan account]
     location: "Turkey"
-    followers: 15413
-    engagement: 374
-    commentsToLikes: 0.073407
-    id: ck5zw1p4u5b4j0i146g329dwt
+    followers: 8951
+    engagement: 2103
+    commentsToLikes: 0.734532
+    id: ckaou0b7sy8320i78qb2ozoqc
     verified: false
-    hashtags: "#denedim, #repost, #ayselinarslan, #tb"
-  - username: "mengelez"
+    hashtags: "#lalisamanoban, #blackpink, #howyoulikethat, #yg"
+  - username: "marijan_music69"
     fullname: >-
-      Mengelez  🔹
+      
+    bio: >-
+      I'm from Serbia 🇷🇸 Follow my private account: @__maki69_ Serbien rapper 🎶🎵
     location: "Turkey"
-    followers: 7317
-    engagement: 625
-    commentsToLikes: 0.025258
-    id: ck8tbggmnvkg30j78a7hh7i3i
+    followers: 4846
+    engagement: 4636
+    commentsToLikes: 0.009102
+    id: ckaot9krfux5b0i78nkigrove
     verified: false
-    hashtags: "#bart, #underground, #turkcerap, #pendik"
+    hashtags: "#suraiskenderli, #turk, #azerbaycan, #sonumuvar"
   - username: "lalisam.turkey"
     fullname: >-
       (Lisa Fan Account)
+    bio: >-
+      Main Dancer, Sub-Vocal, Lead Rapper @turkeyjanes`♡
     location: "Turkey"
     followers: 2726
     engagement: 1890
     commentsToLikes: 0.068728
     id: ckapa4ifluo5q0i78okwk1y7e
     verified: false
-    hashtags: "#lisadance, #lisacover, #blackpink, #attention"
-  - username: "jennielity"
+    hashtags: "#lalisablackpink, #nini, #blackpinklalisa, #lalisafancam"
+  - username: "jenniebilgi.tr"
     fullname: >-
-      1996
+      JENNIE KIM Fan acc 💕
+    bio: >-
+      —For BLACKPINK's Main Rapper,Lead Vocalist Center Number And fashion icon -ACE&Global IT Girl JENNIE KIM.💅👸 Her account:@jennierubyjane ♡
     location: "Turkey"
-    followers: 3308
-    engagement: 5694
-    commentsToLikes: 0.017254
-    id: ckaou09zqy7wt0i78wxpwgd0y
+    followers: 8988
+    engagement: 512
+    commentsToLikes: 0.032816
+    id: ckaou0biky86t0i78j9tf61c9
     verified: false
-    hashtags: "#jennie, #blackpink"
-  - username: "najmmohammadi"
+    hashtags: ""
+  - username: "mengelez"
     fullname: >-
-      Najm Mohammadi
+      Mengelez  🔹
+    bio: >-
+      Song Writer Rapper @musixonable "Boss" Yayında!!
     location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
-    id: ck5c8dp0m99fe0i11etkdgpg0
+    followers: 7317
+    engagement: 625
+    commentsToLikes: 0.025258
+    id: ck8tbggmnvkg30j78a7hh7i3i
     verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
-  - username: "salvodali"
+    hashtags: "#istanbul, #ankara, #hiphop, #sunny"
+  - username: "berkaydincc"
     fullname: >-
-      T a n a b a y  T o k g o z
+      Berkay DİNÇ (BD)
+    bio: >-
+      Marmaris-İstanbul 📧 info@berkaydinc.com 🐦 Twitter - Berkaydincbd 🎥 YouTube 🎧
     location: "Turkey"
-    followers: 61650
-    engagement: 768
-    commentsToLikes: 0.022629
-    id: ck6tyov9p4zyg0j71my97gn14
+    followers: 125316
+    engagement: 227
+    commentsToLikes: 0.022617
+    id: ck8t35fob1xvu0j78jo055qq3
     verified: false
-    hashtags: "#stayhome, #soka, #rapstar, #wear"
-  - username: "kadikoyacilofficial"
+    hashtags: "#instagood, #musica, #bd, #look"
+  - username: "efecanresmi_"
     fullname: >-
-      Kadıköy Acil
+      Efecan
+    bio: >-
+      Mürsel Nergiz 👇 #RaPBu Yayında👇
     location: "Turkey"
-    followers: 80802
-    engagement: 152
-    commentsToLikes: 0.010991
-    id: ck5bz4bibqf960i11fq1263e1
+    followers: 117365
+    engagement: 865
+    commentsToLikes: 0.036123
+    id: ckap5lul9c8xd0i78muzzu2g1
     verified: false
-    hashtags: "#coronadays, #koronag, #repost, #rock"
+    hashtags: "#rap, #diyarbakir, #rapbu, #efe"
+  - username: "geeflowofficial"
+    fullname: >-
+      GEEFLOW MUSAB
+    bio: >-
+      @vizyonorganizasyon (TR) +905442990222 . @srdrustn (DE) Obiefsa@hotmail.com
+    location: "Turkey"
+    followers: 46981
+    engagement: 256
+    commentsToLikes: 0.053535
+    id: ckapavuerxnma0i78ggczf3i1
+    verified: true
+    hashtags: "#kitap, #melankolik, #bestoftheday, #azerbaycan"
 ---

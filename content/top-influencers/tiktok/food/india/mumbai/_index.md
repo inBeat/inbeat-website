@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Mumbai In 2020
 description: >-
-  Find top food TikTok influencers in Mumbai in 2020. Most popular hashtags: #mumbai #food #icecream #love.
+  Find top food TikTok influencers in Mumbai in 2020. Most popular hashtags: #tiktokchef #mumbai #food #foodie.
 platform: TikTok
+hits: 43
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 43 TikTok influencers like this in Mumbai, India for you to work with.
 profiles:
-  - username: "foodiekashif1"
+  - username: "sayhitomg"
     fullname: >-
-      FOODIE KASHIF 🍔🍗🍰
+      MG
+    bio: >-
+      Food Blogger 🥙🌮🍝🍱 Dancer 🕺🏻 Follow me on Insta for more
     location: "India"
-    followers: 465852
-    engagement: 802
-    commentsToLikes: 0.017280
-    id: ck9v34t37ofqs0j78hcljw0se
+    followers: 125900
+    engagement: 489
+    commentsToLikes: 0.005563
+    id: ckb9rxqsgorec0j23bi3ud4uv
     verified: false
-    hashtags: "#burger, #cake, #carryminati, #icecream"
-  - username: "cluelesscompass"
-    fullname: >-
-      Clueless Compass
-    location: "India"
-    followers: 18766
-    engagement: 386
-    commentsToLikes: 0.003758
-    id: ck8qebpp1rym50j78oe2iwsob
-    verified: false
-    hashtags: "#onam, #happyonam, #indiatiktok, #waterfall"
-  - username: "livetoeatbombay"
-    fullname: >-
-      live to eat bombay 
-    location: "India"
-    followers: 257724
-    engagement: 246
-    commentsToLikes: 0.006349
-    id: ck9shqgzmumyn0j78isuolx34
-    verified: true
-    hashtags: "#dimsums, #puribhaji, #love, #chocolate"
-  - username: "shubhrapaul"
-    fullname: >-
-      gastronomicjournal 
-    location: "India"
-    followers: 64754
-    engagement: 465
-    commentsToLikes: 0.004400
-    id: ck8torb14nmjx0j78qchngl2f
-    verified: false
-    hashtags: "#petchallenge, #hair, #coronavirus, #indeedpedhoondo"
-  - username: "lavnisamrat"
-    fullname: >-
-      Lavni Samrat
-    location: "India"
-    followers: 13977
-    engagement: 903
-    commentsToLikes: 0.021345
-    id: cka7rg7shetue0i78v6t5o53r
-    verified: false
-    hashtags: "#makeover, #much, #fortuner, #popupking"
+    hashtags: "#wipeitdown, #delhi, #summerdrink, #whatieatinaday"
   - username: "swathivs"
     fullname: >-
       Swatz
+    bio: >-
+      
     location: "India"
     followers: 161524
     engagement: 415
     commentsToLikes: 0.004488
     id: ck80cr6hsap8p0j78zpnyachr
     verified: false
-    hashtags: "#tajhotel, #love, #foryourpage, #candid"
-  - username: "tarinishah"
+    hashtags: "#swathivs, #tiktokindia, #foryopage, #backbenchersonflipkart"
+  - username: "shubhrapaul"
     fullname: >-
-      Tarini Shah
+      gastronomicjournal 
+    bio: >-
+      follow my food journey on instagram- @gastronomicjournal to know all the details
     location: "India"
-    followers: 96642
-    engagement: 1191
-    commentsToLikes: 0.022201
-    id: ck9r30x8znrcm0j78x8qctchr
+    followers: 63600
+    engagement: 480
+    commentsToLikes: 0.004358
+    id: ck8torb14nmjx0j78qchngl2f
     verified: false
-    hashtags: "#bestfriends, #scorpio, #duets, #instagram"
-  - username: "justarjunsingh"
+    hashtags: "#tasteofindia, #coronavirus, #tiktokfoodchallenge, #foodbaby"
+  - username: "curiouscuisine"
     fullname: >-
-      Arjun singh
+      Aashna 
+    bio: >-
+      #curiouscuisine
     location: "India"
-    followers: 86065
-    engagement: 1205
-    commentsToLikes: 0.016773
-    id: ckaillkbboop60i78kyw8wcjz
+    followers: 4176
+    engagement: 701
+    commentsToLikes: 0.013544
+    id: ck8roctrsgcjz0j788y0qdvwj
     verified: false
-    hashtags: "#kerala, #tareekan, #iphone, #agrikoli"
-  - username: "abhinavjeswani"
+    hashtags: "#foodlover, #ramzan, #iftar, #quarantine"
+  - username: "gujjubhaifoodstories"
     fullname: >-
-      Abhinav jeswani 
+      gujjubhaifoodstories
+    bio: >-
+      Food blogger From Mumbai Follow me on Instagram @GujjuBhaiFoodStories
     location: "India"
-    followers: 1483107
-    engagement: 671
-    commentsToLikes: 0.005770
-    id: ck81q494kft2h0j78eiz4p7n3
+    followers: 200300
+    engagement: 483
+    commentsToLikes: 0.007539
+    id: ck9v3inbmq3b20j789f4m2nri
+    verified: false
+    hashtags: "#foodie, #pizza, #vodka, #drink"
+  - username: "thecrazyindianfoodie"
+    fullname: >-
+      Thecrazyindianfoodie
+    bio: >-
+      Top Food & Travel Influencer in Mumbai. 📧 : contact@thecrazyindianfoodie.com
+    location: "India"
+    followers: 106500
+    engagement: 360
+    commentsToLikes: 0.014980
+    id: ckbkxqi93tsyz0j23ij8xyk6t
     verified: true
-    hashtags: "#cheese, #nonveg, #streetfood, #samosa"
-  - username: "testyfoods"
+    hashtags: "#travelbucketlist, #recipe, #cooking, #tiktokfoodie"
+  - username: "aakashfoodlover"
     fullname: >-
-      Testy Food 🍹
+      Aakash food lover
+    bio: >-
+      Let’s move to my Instgram and see What’s new going on 🍔🌭🌭🥙🧆🌮🌯🥗🥘🥫🍝🍜🍲
     location: "India"
-    followers: 119629
-    engagement: 1261
-    commentsToLikes: 0.002043
-    id: ck94gpccngni60j78nkmr98zz
+    followers: 291692
+    engagement: 1100
+    commentsToLikes: 0.002378
+    id: ck81q8eqqgs030j78g6pcs21m
     verified: false
-    hashtags: "#indianfood, #southindian, #cool, #asli"
+    hashtags: "#tiktokfood, #yummy, #aakashfoodlover, #foodofindia"
+  - username: "foodreviewonline"
+    fullname: >-
+      Food Review Online
+    bio: >-
+      Kailash Shahani Exposure to Global Cuisine (30+ Countries)
+    location: "India"
+    followers: 4646
+    engagement: 687
+    commentsToLikes: 0.003872
+    id: ckav9fvjbgrxo0j237p1b8fmo
+    verified: false
+    hashtags: "#wow, #like, #indianfood, #review"
+  - username: "hogggitup"
+    fullname: >-
+      Charlotte Carneiro
+    bio: >-
+      Content Creator Instagram | Zomato | Twitter 📩 @hogggitup@gmail.com
+    location: "India"
+    followers: 6903
+    engagement: 529
+    commentsToLikes: 0.002730
+    id: cka620xrwxv910i78ydk1zy8l
+    verified: false
+    hashtags: "#whatieatinaday, #homemade, #foryourpage, #trending"
+  - username: "aroundtheworldinaplate"
+    fullname: >-
+      Mahek Khanna
+    bio: >-
+      Welcome to a Food Fiesta from around the world! IG : @aroundtheworldinaplate
+    location: "India"
+    followers: 10600
+    engagement: 440
+    commentsToLikes: 0.006676
+    id: ckavafktahyqv0j23zryirv3i
+    verified: false
+    hashtags: "#fypindia, #pizzalover, #desifood, #foodiesofindia"
 ---

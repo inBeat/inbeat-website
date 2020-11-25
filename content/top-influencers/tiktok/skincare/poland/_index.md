@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Poland In 2020
 description: >-
-  Find top skincare TikTok influencers in Poland in 2020. Most popular hashtags: #skincare #dance #quarantine #trend.
+  Find top skincare TikTok influencers in Poland in 2020. Most popular hashtags: #fyp #skincare #dc #foryou.
 platform: TikTok
+hits: 14
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 14 TikTok influencers like this in Poland for you to work with.
 profiles:
-  - username: "2kobietki"
-    fullname: >-
-      Dwiekobietki
-    location: "Poland"
-    followers: 20298
-    engagement: 272
-    commentsToLikes: 0.021413
-    id: ck9rnyxcma0d40j78kftub6fv
-    verified: false
-    hashtags: "#capsulewardrobe, #ulubione, #unboxing, #whitedress"
   - username: "martatazbir"
     fullname: >-
       Marta Tazbir
+    bio: >-
+      Jestem założycielką Kliniki Tazbir. Moja praca jest moją największą pasją. 🌹🕊
     location: "Poland"
-    followers: 22852
-    engagement: 259
-    commentsToLikes: 0.020479
+    followers: 38100
+    engagement: 328
+    commentsToLikes: 0.043600
     id: ck9dv46ifj8bn0j78wh4exdsa
     verified: false
-    hashtags: "#grazyna, #rejuvenate, #aestheticc, #zabiegi"
+    hashtags: "#aesthetic, #klinikatazbir, #dc, #mylevismyvibe"
+  - username: "_wybraniec_"
+    fullname: >-
+      GIULIETTA
+    bio: >-
+      🦋eighteen 🦋 together we can surf the waves of our awesomeness 👻 j.wybraniec
+    location: "Poland"
+    followers: 28600
+    engagement: 1310
+    commentsToLikes: 0.012622
+    id: ck9shrbgputqt0j78q75jsl4j
+    verified: false
+    hashtags: "#fyp, #comedy, #school, #fashion"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
+    bio: >-
+      Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 3727
-    engagement: 429
-    commentsToLikes: 0.032010
+    followers: 6289
+    engagement: 509
+    commentsToLikes: 0.020855
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#challange, #riseandshine, #haircare, #healthyrecipe"
-  - username: "reeesia"
+    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
+  - username: "aniakudasik"
     fullname: >-
-       Resia 
+      aniakudasik
+    bio: >-
+      Mam 21 lat Email: aniakudasik@gmail.com ig: aniakudasik
     location: "Poland"
-    followers: 1577346
-    engagement: 2660
-    commentsToLikes: 0.024364
-    id: ck8ke4jtc8m120j78qm4vvrsj
-    verified: true
-    hashtags: "#trend, #earthhour, #dlaciebie, #skincare"
-  - username: "indiana.liar"
-    fullname: >-
-      Paula Lupaya
-    location: "Poland"
-    followers: 42197
-    engagement: 1710
-    commentsToLikes: 0.044625
-    id: cka0wpt9a3wqz0i78ksniqzdr
+    followers: 75600
+    engagement: 1444
+    commentsToLikes: 0.011775
+    id: ck9n867bd8apj0j78ffqnan7g
     verified: false
-    hashtags: "#sanah, #musically, #speaker, #kulaar"
-  - username: "baganini"
+    hashtags: "#mylevismyvibe, #cleaning, #podhale, #organista"
+  - username: "alexxisola"
     fullname: >-
-      Żecoprosze
+      💛 Alexxis Ola 💛
+    bio: >-
+      I S L A N D G I R L 🦋
     location: "Poland"
-    followers: 46322
-    engagement: 1990
-    commentsToLikes: 0.022676
-    id: ck9n865sr8adk0j78zszslg4y
+    followers: 41300
+    engagement: 1243
+    commentsToLikes: 0.005275
+    id: ckbw4wgjqxr7i0j23gwxbzhb8
     verified: false
-    hashtags: "#may, #skincare, #dlaciebie, #tiktok"
-  - username: "rysiacelebryt"
+    hashtags: "#dance, #fyp, #dlaciebie, #dc"
+  - username: "inchidris"
     fullname: >-
-      rysiacelebrysia
+      inchidris
+    bio: >-
+      🏡 Olsztyn 💋 ig @inchidris 💄 #makeupartist ⬇️Zagłosuj na mnie ⬇️
     location: "Poland"
-    followers: 19949
-    engagement: 1625
-    commentsToLikes: 0.055647
-    id: ck9626ji3pfct0j78vci6uohc
+    followers: 45400
+    engagement: 1283
+    commentsToLikes: 0.016549
+    id: cka5zmq49nejf0i785zvlkw47
     verified: false
-    hashtags: "#foryou, #maxidress, #makeuplover, #britneyspears"
-  - username: "m_upnastus"
+    hashtags: "#pierrerene, #makijaz, #praca, #makeupartist"
+  - username: "klaudia.owczarek"
     fullname: >-
-      Anastazja Wilk
+      klaudia.owczarek
+    bio: >-
+      IG @klaudia.owczarek
     location: "Poland"
-    followers: 8041
-    engagement: 1099
-    commentsToLikes: 0.025736
-    id: cka6mh8ga76c50i786lu010cy
+    followers: 39600
+    engagement: 836
+    commentsToLikes: 0.007771
+    id: cka0p2kus6ilt0i78igj8f0mv
     verified: false
-    hashtags: "#quarantine, #polish, #lips, #falseeyelashes"
-  - username: "mcksiaze_"
+    hashtags: "#makeup, #foryou, #transition, #makeuptransformation"
+  - username: "julkabilska"
     fullname: >-
-      mcksiaze
+      Julia Bilska
+    bio: >-
+      17, model and a makeup lover Instagram: julkabilska
     location: "Poland"
-    followers: 122483
-    engagement: 1716
-    commentsToLikes: 0.018206
-    id: ck81qsocojj1t0j78o5rywp1u
+    followers: 26200
+    engagement: 1034
+    commentsToLikes: 0.014275
+    id: ckdc8fiawi2fc0j236pkkeoyn
     verified: false
-    hashtags: "#lanyponiedzia, #child, #sweetbutpsycho, #mommyissues"
-  - username: "mirluk"
+    hashtags: "#makeuptutorial, #viral, #dlaciebie, #makeup"
+  - username: "nkwapi"
     fullname: >-
-      Mirjana Łukowska
+      Any basic name
+    bio: >-
+      ⚡️⚡️⚡️
     location: "Poland"
-    followers: 5826
-    engagement: 695
-    commentsToLikes: 0.081494
-    id: ck9bxjp83mmg90j78ycjui55c
+    followers: 8225
+    engagement: 1235
+    commentsToLikes: 0.007328
+    id: ckdbv1da5des90j2300l3a55m
     verified: false
-    hashtags: "#tiktokpolska, #goviral, #zabawa, #excited"
+    hashtags: "#poland, #kam, #makeup, #foryoupage"
+  - username: "wowmaciej"
+    fullname: >-
+      Maciej Łagan
+    bio: >-
+      🌚
+    location: "Poland"
+    followers: 19800
+    engagement: 1187
+    commentsToLikes: 0.006789
+    id: ck85cry0x3fs20j787orkevbv
+    verified: false
+    hashtags: "#poland, #lato, #konie, #natura"
 ---

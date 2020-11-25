@@ -1,97 +1,130 @@
 ---
 title: Top 10 Divers Instagram Influencers In Norway In 2020
 description: >-
-  Find top divers Instagram influencers in Norway in 2020. Most popular hashtags: #sunset #sleep #spring #summer.
+  Find top divers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nofilter #nature.
 platform: Instagram
+hits: 17
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 17 Instagram influencers like this in Norway for you to contact.
 profiles:
+  - username: "minikim"
+    fullname: >-
+      Minikim
+    bio: >-
+      🇰🇷🇳🇴Pro Death Diver🦦 Supported by: @bulaeurope @citroennorge Diving n chill?💥↙️↙️ YT, 200k+ TikTok!
+    location: "Norway"
+    followers: 36466
+    engagement: 1113
+    commentsToLikes: 0.010546
+    id: ck0vyd5mo3e810i19vuikivs3
+    verified: false
+    hashtags: "#bulavantour, #chill, #ilovesurfing, #skillz"
+  - username: "mrlumeshot"
+    fullname: >-
+      Christian Mr LumeShot🔦 Kirkemo
+    bio: >-
+      Mr Lumeshot Only my pictures � Mostly lumeshots👍👍 RePost with credit 👍 #redbaroslo 📷 Pentax KP/OnePlus 7 Pro Nothing serious, just shooting ⌚ for fun.
+    location: "Norway"
+    followers: 6772
+    engagement: 890
+    commentsToLikes: 0.052290
+    id: ck5hio1lrei520i11rfe674t6
+    verified: false
+    hashtags: "#relojes, #uhren, #pickoftheday, #ablogtowatch"
+  - username: "garnsurr"
+    fullname: >-
+      Garnsurr
+    bio: >-
+      Former hand dying social integration company for refugee women. The company is under liquidation. Ravelry: ahelens
+    location: "Norway"
+    followers: 12849
+    engagement: 425
+    commentsToLikes: 0.037343
+    id: ck0w0nje3f3tb0i192e3mwpnp
+    verified: false
+    hashtags: "#barnestrikk, #babyknits, #spetter, #babystrikk"
   - username: "gunhild_stordalen"
     fullname: >-
       Gunhild A. Stordalen
+    bio: >-
+      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 182687
-    engagement: 346
-    commentsToLikes: 0.021107
+    followers: 185531
+    engagement: 368
+    commentsToLikes: 0.028644
     id: ck5zmq1uzn0kg0i147yvuqe2w
     verified: true
-    hashtags: "#newnormal, #foodismedicine, #bookstoread, #healthyeating"
-  - username: "annelieadventures"
+    hashtags: "#plantforward, #greatdanesofinstagram, #healthyfood, #betterfoodforall"
+  - username: "felicitysaxophonist"
     fullname: >-
-      Annelie Pompe
+      ♡ Ｆｅｌｉｃｉｔｙ
+    bio: >-
+      ⚜️ Professional saxophonist performing worldwide at the most exclusive events ⚜️ Based in Norway 🇳🇴
     location: "Norway"
-    followers: 50101
-    engagement: 219
-    commentsToLikes: 0.022895
-    id: ck0tth3vl2ou80i19aotrqc3n
-    verified: true
-    hashtags: "#olympusinspired, #trift, #createyourowntrail, #sudiomoments"
-  - username: "emilivers"
+    followers: 13267
+    engagement: 427
+    commentsToLikes: 0.076094
+    id: ck55k7o1pyofz0i11q77woac0
+    verified: false
+    hashtags: "#fashion, #summervibes, #slavikmusicstraps, #brunette"
+  - username: "pettermazzetta"
     fullname: >-
-      Emil Iversen
+      Petter Mazzetta
+    bio: >-
+      SKYDIVER-PILOT-WINDTUNNEL COACH /HOME RENOVATOR & INTERIOR CREATOR Made in Sweden 🇸🇪 @bodyflightswe 🧡 📍Swe atm🇸🇪 🎥- Freefly the world ⬇️
     location: "Norway"
-    followers: 99911
-    engagement: 1145
-    commentsToLikes: 0.003859
-    id: ck5btq9hdgemj0i117zxbr3gj
-    verified: true
-    hashtags: "#bonde, #juleferie, #wclhmr, #dsq"
+    followers: 19947
+    engagement: 225
+    commentsToLikes: 0.042885
+    id: ck5ztfsvm0bur0i14g96atkd8
+    verified: false
+    hashtags: "#vrgames, #gopromax, #purewildflight, #norwaytravel"
+  - username: "bestro_7r"
+    fullname: >-
+      Leon Bestro
+    bio: >-
+      Golf R MK7.5🇳🇴 @bestro3 - Owner @Asker_Autospa Ceramic Coating🇳🇴 PM for rabatterte priser
+    location: "Norway"
+    followers: 5444
+    engagement: 1184
+    commentsToLikes: 0.057181
+    id: ck6u6uc0chrqn0j71awface8f
+    verified: false
+    hashtags: "#motor, #mk7, #mk7r, #vwgolf"
   - username: "jamiiina"
     fullname: >-
       JAMINA BLIPP
+    bio: >-
+      📍 OSLO 💌 jamina.iversen@gmail.com 💻 Holzweiler 🎧 Babyboom podcast
     location: "Norway"
-    followers: 30374
-    engagement: 744
-    commentsToLikes: 0.022700
+    followers: 31605
+    engagement: 826
+    commentsToLikes: 0.025768
     id: ck5zrwmujxe3p0i14pnwhaidl
     verified: false
-    hashtags: "#smarthandel, #obs, #cosmicagang, #cosmicanorge"
+    hashtags: "#myoptimalprint, #smarthandel, #obs, #cosmica"
   - username: "mittlillehjerte"
     fullname: >-
       Janne Iversen | Norway
+    bio: >-
+      ◼️Vinner av Gullfjæren interior awards årets stue 2020 🏆 ◽️Finalist Gullfjæren 2019 ◾️Scandinavian interiorstyler ◽️Photo 📧 janne.iversen78@gmail.com
     location: "Norway"
-    followers: 146526
-    engagement: 84
-    commentsToLikes: 0.055659
+    followers: 146323
+    engagement: 85
+    commentsToLikes: 0.066040
     id: ck138p1gnhapa0i19j4rzi3g5
     verified: false
-    hashtags: "#byondesign, #hmhome, #summer, #bedroominspo"
-  - username: "afurulund"
+    hashtags: "#mittlillehjerte, #interiorwarrior, #mzintetior, #norgesinteri"
+  - username: "ottofrank"
     fullname: >-
-      🇸🇯Anita 🇸🇯
+      Frank Otto Pedersen
+    bio: >-
+      • Landscape and Astro Photographer • Kristiansand, Norway • fopede80@gmail.com
     location: "Norway"
-    followers: 5129
-    engagement: 1383
-    commentsToLikes: 0.115495
-    id: ck8t2xlu8135j0j78m4npr23f
+    followers: 10637
+    engagement: 980
+    commentsToLikes: 0.079127
+    id: ck0w1yb8elqip0i19ar60a9vd
     verified: false
-    hashtags: "#green, #flowerlover, #cemetary, #view"
-  - username: "fotovegard"
-    fullname: >-
-      Vegard Eggen
-    location: "Norway"
-    followers: 11714
-    engagement: 816
-    commentsToLikes: 0.063012
-    id: ck0w2lqjbp00q0i19p8fj23xq
-    verified: false
-    hashtags: "#traveller, #fjord, #sunrises, #goodevening"
-  - username: "teloch.mayhem"
-    fullname: >-
-      Morten Bergeton Iversen
-    location: "Norway"
-    followers: 44355
-    engagement: 601
-    commentsToLikes: 0.043345
-    id: ck5zj95unh65i0i142d852jh8
-    verified: true
-    hashtags: "#dunlopstrings, #covid19, #morteniversen, #rip"
-  - username: "perunoiversen"
-    fullname: >-
-      Per-Uno Iversen 🇳🇴
-    location: "Norway"
-    followers: 5390
-    engagement: 717
-    commentsToLikes: 0.027074
-    id: ckap43smo5puf0i780yumniz6
-    verified: false
-    hashtags: "#fjord, #footpath, #gardening, #slottsfjellet"
+    hashtags: "#autumnvibes, #milkyway, #planet, #landscapephotography"
 ---

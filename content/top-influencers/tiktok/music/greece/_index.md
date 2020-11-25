@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Greece In 2020
 description: >-
-  Find top music TikTok influencers in Greece in 2020. Most popular hashtags: #houseoftiktok #girls #music #girlfriend.
+  Find top music TikTok influencers in Greece in 2020. Most popular hashtags: #foryou #fyp #foryoupage #tiktok.
 platform: TikTok
+hits: 22
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 22 TikTok influencers like this in Greece for you to work with.
 profiles:
-  - username: "vasiasoto"
+  - username: "moonlight1132"
     fullname: >-
-      TheDcGirl🖤
+      MoonLight 11
+    bio: >-
+      I miss musical.ly 19k beautiful people 😊 Goal 20k 18 years old ✈️
     location: "Greece"
-    followers: 25422
-    engagement: 1502
-    commentsToLikes: 0.024045
-    id: ck8rofftpgwk40j783no64gn3
+    followers: 19400
+    engagement: 1731
+    commentsToLikes: 0.017282
+    id: ckd69tbch45vs0j23qamdpocs
     verified: false
-    hashtags: "#greekcomedy, #para5, #povs, #colourselector"
+    hashtags: "#fyp, #fy, #foryou, #mum"
+  - username: "mariliakontos"
+    fullname: >-
+      mariliakontos
+    bio: >-
+      ✩❣since 2015. U might know me from musical.ly🥺
+    location: "Greece"
+    followers: 139900
+    engagement: 822
+    commentsToLikes: 0.009743
+    id: ck999so51e2mf0j78acefh0te
+    verified: true
+    hashtags: "#foryoupage, #duet, #tiktoktraditions, #greece"
+  - username: "froso_pimenidou"
+    fullname: >-
+      Φροσούλα Τρ.
+    bio: >-
+      •Greece• Press •❤️• to my musical.lys Follow me🌟 👉Instagram:Froso_pimenidou
+    location: "Greece"
+    followers: 26300
+    engagement: 601
+    commentsToLikes: 0.017711
+    id: ckbf9vw9j17120j23twh7j17t
+    verified: false
+    hashtags: "#mybrother, #challenges, #summerlove, #wearefriends"
   - username: "mag_19"
     fullname: >-
       Maria Georvasaki
+    bio: >-
+      Music🎶 is my love Dance💃🏽 is my passion.. 🇬🇷
     location: "Greece"
-    followers: 32643
-    engagement: 919
-    commentsToLikes: 0.005783
+    followers: 36300
+    engagement: 838
+    commentsToLikes: 0.005557
     id: ck8qeblk9rxit0j78dwknh65c
     verified: false
-    hashtags: "#makeyourmove, #bellydance, #justforfun, #drum"
+    hashtags: "#oriental, #orient, #foryoupage, #dancelove"
   - username: "devilsnake95"
     fullname: >-
       Mike Mavrides
+    bio: >-
+      ~LISZTOMANIA~ -A need to listen to music all the time. Snapchat👻: devilsnake95
     location: "Greece"
-    followers: 15870
-    engagement: 492
-    commentsToLikes: 0.005853
+    followers: 18400
+    engagement: 670
+    commentsToLikes: 0.009325
     id: ck9dvijxkl1m80j78u8o25509
     verified: false
-    hashtags: "#ultra, #zouboulia, #otherhalf, #ntenimarkora"
+    hashtags: "#tiktok, #fyp, #tiktoktraditions, #gntm"
+  - username: "cobaltmusicgr"
+    fullname: >-
+      cobaltmusicgr
+    bio: >-
+      l ✖️🎵 COBALT MUSIC OFFICIAL ACCOUNT 🎤l #1️⃣ GREEK MUSIC CHANNEL ON YOUTUBE 🔥
+    location: "Greece"
+    followers: 4142
+    engagement: 479
+    commentsToLikes: 0.009684
+    id: ckbbsvmbrgec90j23adkau2qz
+    verified: false
+    hashtags: "#tiktok, #houseofdrama, #tiktokgreece2020, #eleftheriaeleftheriou"
   - username: "tustok"
     fullname: >-
       TUS
+    bio: >-
+      Singer 🎤 Musician 🎵 Songwriter OUT NOW ON YOUTUBE <ALE ALE> 👇🏻
     location: "Greece"
-    followers: 88295
-    engagement: 922
-    commentsToLikes: 0.009569
+    followers: 188900
+    engagement: 1054
+    commentsToLikes: 0.008933
     id: ck9euj0iedtm20j78g8mskv0s
     verified: false
-    hashtags: "#flexin, #funnymoments, #doglover, #sphynxcat"
-  - username: "cavotagoomykonos"
+    hashtags: "#tattoo, #karate, #gym, #fight"
+  - username: "vasiasoto"
     fullname: >-
-      Cavo Tagoo Mykonos
+      TheDcGirl🖤
+    bio: >-
+      here since Musically ✌️ Next goal 40K IG: vasia_soto Dancer 🎀 19 y. o✨ 🇬🇷
     location: "Greece"
-    followers: 74293
-    engagement: 808
-    commentsToLikes: 0.007346
-    id: ck8ae4taj9tta0j78aetarz7e
+    followers: 36900
+    engagement: 624
+    commentsToLikes: 0.022329
+    id: ck8rofftpgwk40j783no64gn3
     verified: false
-    hashtags: "#dance, #sunsets, #girls, #heart"
-  - username: "maria.iwannafwt_20"
+    hashtags: "#greeksounds, #dance, #greece, #foryoupage"
+  - username: "yia.yiannopoulos"
     fullname: >-
-      Μαρία-Ιωάννα Φωτιάδ
+      yia.yiannopoulos
+    bio: >-
+      
     location: "Greece"
-    followers: 2771
-    engagement: 1880
-    commentsToLikes: 0.074357
-    id: ckad3ru34m3hu0i78wa1ao8wv
+    followers: 3514
+    engagement: 741
+    commentsToLikes: 0.015810
+    id: ckcek399lt9ks0j23hjkzqjzn
     verified: false
-    hashtags: "#denexwsima, #s1ngles, #egirl, #lovermusic"
-  - username: "christosconstantopoulos"
+    hashtags: "#greekcomedy, #quarantine, #funny, #comedy"
+  - username: "alex.reber5567"
     fullname: >-
-      Christos Constantopo
+      damenek
+    bio: >-
+      follow me to see the real world
     location: "Greece"
-    followers: 2580
-    engagement: 812
-    commentsToLikes: 0.121694
-    id: cka85x3v804130i78vghy89rh
+    followers: 38600
+    engagement: 352
+    commentsToLikes: 0.007537
+    id: ckc8y112cmbow0j23tmg7wrry
     verified: false
-    hashtags: "#vougiouklaki, #nektarios, #india, #aspa"
-  - username: "_lunatic07"
-    fullname: >-
-      worshipRyomortals🌠
-    location: "Greece"
-    followers: 11245
-    engagement: 2035
-    commentsToLikes: 0.036646
-    id: ck8klmrhu4nqj0j78742m29ok
-    verified: false
-    hashtags: "#dancer, #arcticmonkeys, #gothgirl, #slytherinpride"
-  - username: "stratis_tournas"
-    fullname: >-
-      😎StrAtis_Tournas😎
-    location: "Greece"
-    followers: 15393
-    engagement: 1326
-    commentsToLikes: 0.031300
-    id: cka0ifg88de3y0i78xb43sym3
-    verified: false
-    hashtags: "#singles, #memories, #teacher, #tvseries"
-  - username: "anwarnzamba"
-    fullname: >-
-      Anwar N. Zamba
-    location: "Greece"
-    followers: 10197
-    engagement: 339
-    commentsToLikes: 0.191211
-    id: cka0wpy3i3xya0i7887jvvetx
-    verified: false
-    hashtags: "#train, #fire, #hack, #musictok"
+    hashtags: "#pyp, #trend, #typ, #girls"
 ---

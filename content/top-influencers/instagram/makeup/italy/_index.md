@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Italy In 2020
 description: >-
-  Find top makeup Instagram influencers in Italy in 2020. Most popular hashtags: #giveaway #nabla #graphicliner #fullfacemakeup.
+  Find top makeup Instagram influencers in Italy in 2020. Most popular hashtags: #makeup #makeupartist #makeuptutorial #halloweenmakeup.
 platform: Instagram
+hits: 1489
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 1489 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "adi__ina"
+  - username: "mehdiabazari.picto"
     fullname: >-
-      𝑨𝒅𝒊𝒏𝒂’𝒔 𝑴𝒂𝒈𝒊𝒄𝒂𝒍 𝑬𝒅𝒊𝒕𝒔 ✨
+      © MEHDI ABAZARI
+    bio: >-
+      Creating Portfolio For Makeup Artists Retoucher & Beauty Photographer • Contact Via Direct @belletza.studio
     location: "Italy"
-    followers: 8624
-    engagement: 1553
-    commentsToLikes: 0.237843
-    id: ck8t5ssvsb4am0j78mim6re1r
+    followers: 16199
+    engagement: 1312
+    commentsToLikes: 0.080586
+    id: ck0vzw7owb6r10i19n4b0rmqo
     verified: false
-    hashtags: "#beautygiveaway, #imaginative, #oradea, #instaromania"
-  - username: "danieledevitis_mua"
-    fullname: >-
-      Daniele De Vitis
-    location: "Italy"
-    followers: 9791
-    engagement: 1309
-    commentsToLikes: 0.067279
-    id: ck6u72esej2um0j71eql9kibw
-    verified: false
-    hashtags: "#posereference, #theartistssquad, #scruffygay, #portrait"
-  - username: "brix_bri"
-    fullname: >-
-      Sabrina Di Muro ✨
-    location: "Italy"
-    followers: 17242
-    engagement: 711
-    commentsToLikes: 0.215604
-    id: ck6u3kgx5yazv0j71shgldurr
-    verified: false
-    hashtags: "#alienmakeup, #makeuplook, #flatlaystyle, #sfxmakeup"
-  - username: "pmxbeauty"
-    fullname: >-
-      Paola E. Moné
-    location: "Italy"
-    followers: 21303
-    engagement: 609
-    commentsToLikes: 0.126911
-    id: ck9wf1jr7mvjd0j78072wplp2
-    verified: false
-    hashtags: "#elfingamazing, #jaclyn, #passthebrush, #carnivalxlpro"
+    hashtags: "#adobe, #moodyports, #portraitstream, #beautyeditorial"
   - username: "la_snika"
     fullname: >-
       Federica Ricci
+    bio: >-
+      💫 MOTHER OF BICCIZ #biccizfam 📍 Milan, Italy 💄Certified Makeup Artist 💌 federicaricci966@icloud.com 🎬 YOUTUBE 👇🏼
     location: "Italy"
-    followers: 19493
-    engagement: 1478
-    commentsToLikes: 0.084291
+    followers: 20050
+    engagement: 1107
+    commentsToLikes: 0.148482
     id: ck5c3to4l01ea0i11kixjuxq7
     verified: false
-    hashtags: "#runwaymakeup, #glitter, #astramakeup, #surrealism"
-  - username: "omar_turrini"
+    hashtags: "#patmcgrath, #glammakeup, #halloweeninspo, #fentybeauty"
+  - username: "danieledevitis_mua"
     fullname: >-
-      OMAR TURRINI
+      DANIELE DE VITIS
+    bio: >-
+      • Pro #Makeupartist 🇮🇹 Lecce 📍 • Beauty Trainer • Multi-Media Artist 📩DM or de.vitis.daniel@gmail.com also: @mesciudaniele
     location: "Italy"
-    followers: 19214
-    engagement: 913
-    commentsToLikes: 0.264210
-    id: ck15rg8747s040i19pabqwghk
+    followers: 15539
+    engagement: 1073
+    commentsToLikes: 0.134577
+    id: ck6u72esej2um0j71eql9kibw
     verified: false
-    hashtags: "#makeupstash, #makeuphoarder, #vibes, #makeupfollow"
-  - username: "annalaura.makeupartist"
+    hashtags: "#closeupmakeup, #wemakeup, #inssta, #bperfectcosmetics"
+  - username: "anjakolenc"
     fullname: >-
-      Anna Laura
+      Anja Kolenc
+    bio: >-
+      A.K. STUDIO Makeup Artist & Educator Certified by @plouise_makeup_academy, @isabelle.de.vries PR & Bookings: DM / anja.kolenc25@gmail.com
     location: "Italy"
-    followers: 8119
-    engagement: 966
-    commentsToLikes: 0.129618
-    id: ck9hc4axojpru0j780rnpkqjm
+    followers: 11664
+    engagement: 1862
+    commentsToLikes: 0.055130
+    id: ck15qhrio2wjk0i195jzw4mnr
     verified: false
-    hashtags: "#fucsia, #anger, #abibybox, #beautybox"
+    hashtags: "#orange, #summer, #horror, #venezia"
+  - username: "vittoriabenfenati"
+    fullname: >-
+      VITTORIA BENFENATI💄
+    bio: >-
+      📍Bologna, Italy @vittoria.makeupartist @vi.benfenati 🎥YOUTUBE: Vittoria Benfenati +11K 💌vittoriabenfe@yahoo.it ⬇️NUOVO VIDEO YOUTUBE⬇️
+    location: "Italy"
+    followers: 7505
+    engagement: 1374
+    commentsToLikes: 0.431155
+    id: ck13d7hh342d00i19p7kc8chi
+    verified: false
+    hashtags: "#makeup, #undiscovered, #plouise, #makeupitalia"
   - username: "alemoravoice"
     fullname: >-
       Alessio Morando
+    bio: >-
+      • MakeUp Artist 🎨 • Vocalist 🎤 • Performer 🎪 • Show Man 🎭 • Entertainer 🎼 TOP5 NYX FACEAWARDS ITALY 2018 My TikTok page ⬇️
     location: "Italy"
-    followers: 25112
-    engagement: 514
-    commentsToLikes: 0.096178
+    followers: 24908
+    engagement: 505
+    commentsToLikes: 0.100003
     id: ck6u1hnmrlsaj0j71pxsfea32
     verified: false
-    hashtags: "#kryolanofficial, #devilmask, #cospainting, #davidyarovesky"
-  - username: "jamescarp"
+    hashtags: "#elf, #mua, #makeuptutorial, #darkelf"
+  - username: "vlady_mua"
     fullname: >-
-      James Carp 🐷
+      Vladyslav Rotaru Makeup Artist
+    bio: >-
+      Makeup Artist | Hair Stylist Educator of university @scuola_victory Ambassador of @mumicosmetics 📍Milan #mua #makeupartist #makeupartistmilan
     location: "Italy"
-    followers: 33261
-    engagement: 419
-    commentsToLikes: 0.167921
-    id: ck602cxgxh5fh0i14wshg7ctn
+    followers: 41562
+    engagement: 436
+    commentsToLikes: 0.592098
+    id: ck5hpcqqvr52p0i11e6unhzhw
     verified: false
-    hashtags: "#generacionre, #makeup, #volar, #quarantine"
-  - username: "vanespada"
+    hashtags: "#my, #makeuptutorial, #procida, #gayitaly"
+  - username: "pmxbeauty"
     fullname: >-
-      VANESSA SPADA
+      Paola E. Moné
+    bio: >-
+      💄Makeup Artist ⁣⁣ 📍Bari, Italy ✉️ PR/Business: Pao.es26@gmail.com 🔥Peruvian living in Italy
     location: "Italy"
-    followers: 108130
-    engagement: 359
-    commentsToLikes: 0.060107
-    id: ck5pw5a6al63i0i116x058wf5
+    followers: 26408
+    engagement: 432
+    commentsToLikes: 0.240276
+    id: ck9wf1jr7mvjd0j78072wplp2
     verified: false
-    hashtags: "#outfit, #redskirt, #giveaway, #boots"
+    hashtags: "#kyliecosmetics, #everydaymakeup, #makeupmafia, #instamakeup"
+  - username: "inbeautyveritas"
+    fullname: >-
+      Alessandra ♍️🐱
+    bio: >-
+      👩🏻‍🎨 MakeUp Student at @mimua_accademia_di_trucco 🛍 ALESSANDRA10 -10% su @nevecosmetics 🌱🐰Green Life and Cruelty Free supporter ✨Yotube ⤵️
+    location: "Italy"
+    followers: 8579
+    engagement: 812
+    commentsToLikes: 0.234852
+    id: ck0u6n15m2hdc0i19oun95il1
+    verified: false
+    hashtags: "#makeupdupes, #lipstickaddict, #corazonabeauty, #wemakeup"
+  - username: "valentinomakeupartist"
+    fullname: >-
+      Valentino Nicolaou
+    bio: >-
+      Professional Makeup Artist 👩‍🎨 -Owner of the Makeup Project By Valentino Nicolaou-
+    location: "Italy"
+    followers: 23690
+    engagement: 458
+    commentsToLikes: 0.449730
+    id: ck5ckpvrzxdme0i11p61v5jhj
+    verified: false
+    hashtags: "#makeupbyvalentino, #cyprus, #inspiration, #valentinomakeupartist"
 ---

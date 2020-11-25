@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top bloggers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #travel #stayhome #quarantine #blogger.
+  Find top bloggers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #blogger #ootd #bookstagram.
 platform: Instagram
+hits: 223
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 223 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "beatrizadrianna_"
     fullname: >-
       BEATRIZ ADRIANNA
+    bio: >-
+      Digital Creator + Blogger || Los Angeles || Engaged 💍 || 💌: beatriz@livelovewearit.com My outfit details + blog👇👇
     location: "United States"
-    followers: 108290
-    engagement: 64
-    commentsToLikes: 0.070642
+    followers: 107345
+    engagement: 91
+    commentsToLikes: 0.039261
     id: ck5byv57fpwu00i11rc63d9p8
     verified: false
-    hashtags: "#btemptd, #quarantine, #2020vision, #liketkit"
+    hashtags: "#simplerecipes, #ootd, #cheers, #cocktailideas"
+  - username: "hautepinkpretty"
+    fullname: >-
+      An Dyer
+    bio: >-
+      Lifestyle Blogger | Los Angeles, CA Mrs. @supermandyer 💘 🐶 @dieseldyer Vietnamese-American ✊🏼 #blacklivesmatter
+    location: "United States"
+    followers: 186513
+    engagement: 49
+    commentsToLikes: 0.055260
+    id: ck0w3yx6dvzcg0i19q7a8yljx
+    verified: true
+    hashtags: "#thisisann, #hautepinkathome, #dieseldyer, #thedyerlove"
   - username: "prettylittlefawn"
     fullname: >-
       Courtney Halverson
+    bio: >-
+      Actress + Blogger Los Angeles courtney@prettylittlefawn.com
     location: "United States"
-    followers: 262204
-    engagement: 193
-    commentsToLikes: 0.024968
+    followers: 284036
+    engagement: 182
+    commentsToLikes: 0.026436
     id: ck0ttlrii39nx0i19htkv6vf1
     verified: true
-    hashtags: "#moimirae, #travel, #haircolor, #hair"
-  - username: "canonsawyer"
+    hashtags: "#sezanelovers, #gifted, #beigeaesthetic, #sponsored"
+  - username: "juliamindar"
     fullname: >-
-      Canon Elizabeth Sawyer
+      LA PHOTOGRAPHER & MODEL
+    bio: >-
+      🇺🇦🇵🇱🇺🇸⁣ 5’9”⁣⁣⁣ ᴘʜᴏᴛᴏ ᴡᴏʀᴋ:⁣ @juliamindarphoto 📸ᴊᴜʟɪᴀᴍɪɴᴅᴀʀ.ᴘʜᴏᴛᴏ⁣⁣⁣ @ᴊᴍ_ᴘᴏʀᴛʀᴀɪᴛ ᴋɪᴅs ⁣ #ᴍᴏᴅᴇʟɪɴɢ #ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ #ᴀᴄᴛɪɴɢ⁣ #ғᴀsʜɪᴏɴ⁣⁣ #ʜᴀʀʟᴇʏs #ᴄᴀʀs
     location: "United States"
-    followers: 5236
-    engagement: 1472
-    commentsToLikes: 0.024881
-    id: ck0tul7jh7nz10i1934alkn73
+    followers: 97652
+    engagement: 154
+    commentsToLikes: 0.124908
+    id: ck5q5sq1puf1q0i11pjj46aml
     verified: false
-    hashtags: "#howheasked, #honeymoon, #stlucia, #newlyweds"
-  - username: "erineemiller"
+    hashtags: "#warsawgirl, #portrait, #portraitsquad, #styleinspo"
+  - username: "iamsage08"
     fullname: >-
-      Erin-Elizabeth Miller
+      Sage Mayer 🤸🏿‍♂️
+    bio: >-
+      🏆Telling Stories. Dancing 🎬😄🎤🎸✈️ Adventurer. Traveler. Coder. RPG. Chess. Collector.
     location: "United States"
-    followers: 18946
-    engagement: 365
-    commentsToLikes: 0.088155
-    id: ck5hg509i0y950i118rr11piz
+    followers: 15751
+    engagement: 224
+    commentsToLikes: 0.039797
+    id: ckf5mup3zvhwt0j234t4p1etc
     verified: false
-    hashtags: "#greenbeauty, #cabinlife, #veganbeauty, #homedecor"
-  - username: "makingitmoore"
+    hashtags: "#tbt, #truthplaymakers, #playmakers, #afternoonvibes"
+  - username: "curlsoneonone"
     fullname: >-
-      J.J. 〽️OORE
+      CurlsOneOnOne
+    bio: >-
+      Naturally Curly Beautiful 8383 Wilshire Blvd, suite 101 Beverly Hills, California (Inside Salon Republic suite 101 ) 📞310-873-8200
     location: "United States"
-    followers: 89437
-    engagement: 205
-    commentsToLikes: 0.042542
-    id: ck5zobiexq6v60i14ks2y24ma
+    followers: 17725
+    engagement: 158
+    commentsToLikes: 0.044298
+    id: ck5zvnilu4kle0i14prnxr9i5
     verified: false
-    hashtags: "#wellness, #brazil, #supra, #life"
+    hashtags: "#curly, #pinturahighlights, #curlscurlscurls, #beautiful"
   - username: "brittsbookclub"
     fullname: >-
       BrittsBookClub
+    bio: >-
+      2️⃣6️⃣ Book Blogger 📚 Los Angeles 🌇 NICU Nurse💉 Opie 🐶🐾 @BookSparks #BookSharks @onceuponabookclubbox code: BRITTSBOOKCLUB10
     location: "United States"
     followers: 2381
     engagement: 1664
     commentsToLikes: 0.315059
     id: ck8t8mdstkze90j78gez4wtmg
     verified: false
-    hashtags: "#greek, #ghosts, #ghoststory, #romanticcomedy"
-  - username: "ajmilammdphd"
+    hashtags: "#bookpics, #booksofinstagram, #losangelesbooks, #bookstagramit"
+  - username: "printedalphabet"
     fullname: >-
-      Adam Jeraldo Milam, MD, PhD
+      Sandra | printedalphabet
+    bio: >-
+      Los Angeles, CA ———— I N Q U I R I E S printedatoz@gmail.com
     location: "United States"
-    followers: 9476
-    engagement: 1024
-    commentsToLikes: 0.113621
-    id: ckap135nbsx7t0i783mju408q
+    followers: 10153
+    engagement: 498
+    commentsToLikes: 0.115430
+    id: ck5zxawnu7o650i148ybcqoad
     verified: false
-    hashtags: "#norush, #california, #ripnip, #blackjoy"
-  - username: "luxury_travelmate"
+    hashtags: "#bookstagram, #yabookstagram, #booksofinstagram, #shadesofmagic"
+  - username: "iamlp.blog"
     fullname: >-
-      Luxury VS Style
+      LP Blog Official
+    bio: >-
+      The ultimate source for @iamlpofficial fans! Officially approved by LP❣️ @AnnaElfka interviews with LP at LP Blog YouTube For Website click here ↙️
     location: "United States"
-    followers: 78887
-    engagement: 60
-    commentsToLikes: 0.021105
-    id: ck1383m7nec760i19228xxr0v
+    followers: 14530
+    engagement: 479
+    commentsToLikes: 0.034234
+    id: ck15u9m78m3lb0i19a69w0p3h
     verified: false
-    hashtags: "#netflix, #bohofarmhouse, #feedyoursoul, #supercar"
-  - username: "bohobeachbungalow"
+    hashtags: "#la, #iamlp, #iamlpfan, #lpfamily"
+  - username: "home"
     fullname: >-
-      Megan Martinez
+      Home 🔑
+    bio: >-
+      ❖ Home of showcasing luxury houses & real estate ❖ Best-rated for architecture inspiration ❖ Buy | Sell | Promote ❖ #stayhome 🏠
     location: "United States"
-    followers: 23704
-    engagement: 266
-    commentsToLikes: 0.035814
-    id: ck0tyqezlns3y0i19jo5fx9mb
+    followers: 163010
+    engagement: 262
+    commentsToLikes: 0.004633
+    id: ck13618mv495o0i19yivhdf0f
     verified: false
-    hashtags: "#flowersonthefly, #bohobeacheats, #covid19, #weareinthistogether"
-  - username: "simplytandya"
-    fullname: >-
-      Tandya
-    location: "United States"
-    followers: 79857
-    engagement: 166
-    commentsToLikes: 0.040956
-    id: ck5c84rso8rqb0i11s255ood2
-    verified: false
-    hashtags: "#verishop, #afterpay, #saferathome, #celine"
+    hashtags: "#homeinspo, #realtor, #luxurylifestyle, #mansion"
 ---

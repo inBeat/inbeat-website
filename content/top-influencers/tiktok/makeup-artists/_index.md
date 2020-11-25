@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Artists TikTok Influencers In 2020
 description: >-
-  Find top makeup artists TikTok influencers in 2020. Most popular hashtags: #duet #love #foryou #makeup.
+  Find top makeup artists TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #makeup #halloween.
 platform: TikTok
+hits: 301
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 301 TikTok influencers like this for you to contact.
 profiles:
-  - username: "bitchieasian"
+  - username: "alyjae4real"
     fullname: >-
-      Bitchieasian
-    location: "Netherlands"
-    followers: 280291
-    engagement: 3448
-    commentsToLikes: 0.037552
-    id: ck83ypb3auid40j78rxdbllf0
+      Aly Jae
+    bio: >-
+      👑Storyteller/Actress/Makeup Artist 📧 alyjaemua@gmail.com “However, Comma” ♊️
+    location: "United States"
+    followers: 137400
+    engagement: 2389
+    commentsToLikes: 0.046685
+    id: ckahxrsgywexa0i784lo10o7u
     verified: false
-    hashtags: "#duet, #uzumaki, #pastelboy, #outofcosplay"
-  - username: "albysaurrawr"
+    hashtags: "#greenscreen, #stitch, #greenscreenvideo, #duet"
+  - username: "angelaardz"
     fullname: >-
-      AlbysaurRAWR
+      Angela Rodríguez
+    bio: >-
+      ✨No permitas que tú brillo se apague ✨ MAKEUP ARTIST💄 CHEER🎀
     location: "Mexico"
-    followers: 182142
-    engagement: 2911
-    commentsToLikes: 0.036874
-    id: ck931pic3frkr0j78k352om43
-    verified: true
-    hashtags: "#denki, #cosplay, #felizcumplea, #slime"
-  - username: "livvybean_"
-    fullname: >-
-      Liv 
-    location: "United States"
-    followers: 40182
-    engagement: 1957
-    commentsToLikes: 0.047595
-    id: ck8kd9v2w4ruo0j78ntlcb8aa
+    followers: 404800
+    engagement: 2200
+    commentsToLikes: 0.026969
+    id: ck9m0yl7qcgbr0j786ordbm9w
     verified: false
-    hashtags: "#greenscreen, #yearbook2020, #corona, #verucasalt"
-  - username: "annersite"
+    hashtags: "#fashionbootcamp, #tutorial, #catrinamiamor, #diademuertos"
+  - username: "parameswaransivakumar"
     fullname: >-
-      ANNERSITE
+      பரமேஸ்வரன் சிவகுமார்
+    bio: >-
+      You must do the things you think you cannot do. MAKEUP ARTIST
+    location: "Malaysia"
+    followers: 15200
+    engagement: 2087
+    commentsToLikes: 0.081958
+    id: ckbf8g46xz14p0j23uy4sohla
+    verified: false
+    hashtags: "#parameswaransivakumar, #beurself, #makeupartist, #loveurself"
+  - username: "mo0nliet"
+    fullname: >-
+      🦋lawliet🦋
+    bio: >-
+      makeup artist 🤍follow my instagram; mo0nliet🤍 collab; moonliet.light@gmail.com
     location: "Spain"
-    followers: 280308
-    engagement: 2672
-    commentsToLikes: 0.034808
-    id: ck904fvc3e8110j78ehh8w2o5
+    followers: 12600
+    engagement: 2745
+    commentsToLikes: 0.060160
+    id: ckbw28qlvwjbt0j23ik396g0q
+    verified: false
+    hashtags: "#makeupartist, #makeuptutorial, #fyp, #parati"
+  - username: "pauliesfx"
+    fullname: >-
+      Paulie
+    bio: >-
+      Makeup artist Instagram: paulie_sfx YouTube/SC pauliesfx Email for inquiries
+    location: "United States"
+    followers: 1700000
+    engagement: 1939
+    commentsToLikes: 0.021396
+    id: ck8oqpbyc8h7z0j78m1ttyse0
     verified: true
-    hashtags: "#lasirenita, #tipsdemaquillaje, #pocahontas, #trucosdemaquillaje"
-  - username: "bani_angel0"
+    hashtags: "#foryou, #tutorial, #scary, #foryoupage"
+  - username: "aliciatoolemua"
     fullname: >-
-      @Bani Angel 🖤
-    location: "Bangladesh"
-    followers: 7169
-    engagement: 1991
-    commentsToLikes: 0.070425
-    id: ck9ewywc1oy0i0j78aed4jqb3
-    verified: false
-    hashtags: "#thelirycs, #angrybird, #aditude, #coronavirusuk"
-  - username: "dej_bear"
-    fullname: >-
-      DeJah Lewis
+      Alicia Toole
+    bio: >-
+      FT Mom & Creative Makeup Artist that enjoys LIFE! Follow me on IG for more looks
     location: "United States"
-    followers: 3433
-    engagement: 1684
-    commentsToLikes: 0.059394
-    id: ckahzbkir2rkb0i78gxw7ugbg
+    followers: 36500
+    engagement: 1815
+    commentsToLikes: 0.091502
+    id: ckc928q53soni0j231xdy9m4z
     verified: false
-    hashtags: "#instagram, #powerpuffsgirls, #avatarthelastairbander, #chipchallenge"
-  - username: "frowniethekillerclown"
+    hashtags: "#creative, #fun, #tiktok, #beauty"
+  - username: "sacrecoeur96"
     fullname: >-
-      Frownietheclown
+      Courtney🦇
+    bio: >-
+      Arx Mortis 🎃 Makeup Artist 🎨 Spooky 24/7 👻 Viewers Beware 👹 ⚠️18+⚠️
     location: "United States"
-    followers: 85704
-    engagement: 1918
-    commentsToLikes: 0.025507
-    id: cka0me191uwl70i78zxembie3
+    followers: 253200
+    engagement: 1715
+    commentsToLikes: 0.030790
+    id: ckb9l09b5ddnw0j234rw4l4v9
     verified: false
-    hashtags: "#dyinginyourarms, #bigdealtho, #outofmyleague, #maneater"
-  - username: "aaliyahjamil"
+    hashtags: "#voodoo, #demon, #witch, #haunt"
+  - username: "phinamua"
     fullname: >-
-      - A✨
-    location: "United Kingdom"
-    followers: 85992
-    engagement: 2164
-    commentsToLikes: 0.031730
-    id: ck961739lle9o0j78lobdp2qm
+      phina M.U.A
+    bio: >-
+      MAKEUP ARTIST you tube :-phinamua Instagram:-phina_mua
+    location: "India"
+    followers: 27700
+    engagement: 2672
+    commentsToLikes: 0.338526
+    id: ckck26365lgvz0j236wulqf3q
     verified: false
-    hashtags: "#barbie, #bulletsdo, #duet, #makeupfanatic"
-  - username: "supershoujo"
+    hashtags: "#tiktokindia, #sharethecare, #phinamua, #trending"
+  - username: "canassavictor"
     fullname: >-
-      pixie ✨
+      Victor Canassa
+    bio: >-
+      Makeup artist/ Singer Insta: @canassavictor Contato: vicanassa09@gmail.com
+    location: "Brazil"
+    followers: 82800
+    engagement: 2615
+    commentsToLikes: 0.026098
+    id: ckcps74rjmbpf0j23946vmcb1
+    verified: false
+    hashtags: "#makeup, #maquiagem, #maquiagemartistica, #make"
+  - username: "kennidimonroe"
+    fullname: >-
+      Kennidi Monroe
+    bio: >-
+      Trans Recording & Makeup Artist PO Box 2811, Cypress, TX 77410 ⬇️Merch🔸Links⬇️
     location: "United States"
-    followers: 17596
-    engagement: 2271
-    commentsToLikes: 0.021306
-    id: ck9elxk7vcov60j78rvghfeku
+    followers: 16800
+    engagement: 3394
+    commentsToLikes: 0.136294
+    id: ckb8zope7fbbc0j238bappgww
     verified: false
-    hashtags: "#clarionfey, #foryoupage, #rubyrose, #urarakaochako"
-  - username: "geekyshleycosplay"
-    fullname: >-
-      Shley 
-    location: "United States"
-    followers: 6133
-    engagement: 1711
-    commentsToLikes: 0.042286
-    id: ck9ne5fvsd9um0j78o3g8g1if
-    verified: false
-    hashtags: "#ember, #dance, #soapbop, #mobboss"
+    hashtags: "#comingofage, #brideofchucky, #meleaving, #welldone"
 ---

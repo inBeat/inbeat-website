@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2020
 description: >-
-  Find top tattoo-artists TikTok influencers in United States in 2020. Most popular hashtags: #tattoos #tattooartist #quarantine #tattoocheck.
+  Find top tattoo-artists TikTok influencers in United States in 2020. Most popular hashtags: #duet #tattooartist #fyp #tattoo.
 platform: TikTok
+hits: 316
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database has 316 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "alimarie.art.lady"
     fullname: >-
       AliMarie
+    bio: >-
+      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
     location: "United States"
-    followers: 39884
-    engagement: 2174
-    commentsToLikes: 0.031880
+    followers: 94300
+    engagement: 2384
+    commentsToLikes: 0.037701
     id: ck9c01pwio0rs0j78l3br6yxf
     verified: false
-    hashtags: "#stevensshield, #radiodemon, #youreadorable, #quarantineart"
+    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
+  - username: "poppyrose783"
+    fullname: >-
+      poppyrose783
+    bio: >-
+      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
+    location: "United States"
+    followers: 5457
+    engagement: 2624
+    commentsToLikes: 0.113685
+    id: cka68dhzmodjh0i78a4v7pinx
+    verified: false
+    hashtags: "#us, #home, #stemlife, #lesbianlife"
   - username: "gabby_gh0ul"
     fullname: >-
       Gabby Gh0ul
+    bio: >-
+      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
     location: "United States"
-    followers: 6422
-    engagement: 1983
-    commentsToLikes: 0.031202
+    followers: 9135
+    engagement: 2867
+    commentsToLikes: 0.039269
     id: cka6lvfjn4pbv0i7816mezidx
     verified: false
-    hashtags: "#dontletthisflop, #curlyhaircheck, #witchywoman, #devil"
-  - username: "alien_artist_"
+    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
+  - username: "artofjondump"
     fullname: >-
-      alien_artist_
+      Jonathan Dump
+    bio: >-
+      North Carolina tattoo artist Shop-Best Ink of Fayetteville 🗺 IG: @artofjondump
     location: "United States"
-    followers: 29363
-    engagement: 1723
-    commentsToLikes: 0.026818
-    id: ck9gsj8viip0d0j78omjuj595
+    followers: 441700
+    engagement: 1514
+    commentsToLikes: 0.026855
+    id: ckbb0mbv4r15u0j23k28pm7x2
     verified: false
-    hashtags: "#love, #foryoupage, #crunchyroll, #keepingactive"
+    hashtags: "#stitch, #duet"
+  - username: "bluerosetattoo"
+    fullname: >-
+      LilBlueRose
+    bio: >-
+      ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
+    location: "United States"
+    followers: 69700
+    engagement: 2261
+    commentsToLikes: 0.022784
+    id: ckd5ljrnqvu7n0j23z4jclhy9
+    verified: false
+    hashtags: "#happyhalloween, #tattooartist, #tattooedpeopleoftiktok, #myhobby"
+  - username: "eli_jorgensen"
+    fullname: >-
+      eli_jorgensen
+    bio: >-
+      33 | Tattoo artist, illustrator, emotional about everything. They/Them
+    location: "United States"
+    followers: 12500
+    engagement: 1189
+    commentsToLikes: 0.092186
+    id: ckcjibry2cq620j23eicft11r
+    verified: false
+    hashtags: "#seattle, #pnw, #movies, #spooky"
+  - username: "ceciliamarietattoos"
+    fullname: >-
+      Cecilia Marie
+    bio: >-
+      🌙Tattoo Artist 🌌Future Tattoo Therapist ✨Army Combat Veteran 💕Bi 🕸Witchy
+    location: "United States"
+    followers: 14800
+    engagement: 1427
+    commentsToLikes: 0.060298
+    id: ckd6wvwcjt4x60j23lbbo8d09
+    verified: false
+    hashtags: "#tattoos, #757, #tattooartist, #tattooshop"
+  - username: "alastorwrath"
+    fullname: >-
+      Noel Garcia
+    bio: >-
+      They/them Makeup/tattoo artists Brooklyn NYC
+    location: "United States"
+    followers: 18500
+    engagement: 1951
+    commentsToLikes: 0.020971
+    id: ck9fi3raq8w400j7804zh7zgj
+    verified: false
+    hashtags: ""
   - username: "pennylanetattoos"
     fullname: >-
       Penny
+    bio: >-
+      tattoo artist business IG: @pennylanetattoos 23 ♈ NY->VA
     location: "United States"
-    followers: 37375
-    engagement: 1866
-    commentsToLikes: 0.020725
+    followers: 39000
+    engagement: 1728
+    commentsToLikes: 0.024807
     id: ck9nrgfa58msd0j78dxubkenb
     verified: false
-    hashtags: "#bakingrecipe, #sound, #zodiacsign, #twinning"
-  - username: "alena_tattooart"
+    hashtags: "#foryou, #duet, #fyp, #tattoos"
+  - username: "pencillion"
     fullname: >-
-      Alena W
+      ashton
+    bio: >-
+      27/enby/tattoo artist/clown casual cosplayer & cat dad
     location: "United States"
-    followers: 7054
-    engagement: 1855
-    commentsToLikes: 0.018939
-    id: ckafu3b628mrq0i787pxaltvu
+    followers: 19800
+    engagement: 1634
+    commentsToLikes: 0.027578
+    id: ckd0749mfalmm0j23wqsad6s2
     verified: false
-    hashtags: "#portrait, #tiktokart, #blowup, #viral"
-  - username: "alexisblasko"
-    fullname: >-
-      Alexis Blasko
-    location: "United States"
-    followers: 65192
-    engagement: 1139
-    commentsToLikes: 0.017117
-    id: ck8f6ecyk2fzf0j78ollpe8l3
-    verified: false
-    hashtags: "#legsleeve, #chinchilla, #scaredcat, #whatareyoudoing"
-  - username: "faetattoos"
-    fullname: >-
-      faetattoos
-    location: "United States"
-    followers: 20584
-    engagement: 1250
-    commentsToLikes: 0.015811
-    id: ck8qhc7854ezu0j78qd7h62ic
-    verified: false
-    hashtags: "#peterparker, #intotheunknown, #ariastark, #iloveyou"
-  - username: "jakekaramol"
-    fullname: >-
-      Jake Karamol
-    location: "United States"
-    followers: 895241
-    engagement: 1936
-    commentsToLikes: 0.003886
-    id: ck8w37b4278wj0j7837h878r5
-    verified: true
-    hashtags: "#tattoos, #bloopers, #memes"
-  - username: "tri.nitey"
-    fullname: >-
-      trinitey
-    location: "United States"
-    followers: 37160
-    engagement: 1299
-    commentsToLikes: 0.014082
-    id: ck7znz017g8ju0j78dp03hync
-    verified: false
-    hashtags: "#gamingszn, #leavingmybody, #playdate, #imauditioning"
-  - username: "babyttattoos"
-    fullname: >-
-      Babyyyyyt
-    location: "United States"
-    followers: 11938
-    engagement: 686
-    commentsToLikes: 0.013604
-    id: ck9m138vudjv20j78ukrfjmyw
-    verified: false
-    hashtags: "#magiceyes, #jewelry, #levelup, #cutebaby"
+    hashtags: "#clowncosplay, #tattooartist, #happyhalloween, #arthurfleck"
 ---

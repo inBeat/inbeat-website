@@ -1,12 +1,17 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top architecture Instagram influencers in Ukraine in 2020. Most popular hashtags: #architecture #travelblog #happybirthday #fashion.
+  Find top architecture Instagram influencers in Ukraine in 2020. Most popular hashtags: #architecture #city #kyiv #ukraine.
 platform: Instagram
+hits: 38
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 38 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
   - username: "ukrainianmodernism"
     fullname: >-
       Ukrainian Modernism
+    bio: >-
+      Documenting, preserving, and glorifying the modern architecture of Ukraine. 1960-1991 Founder @dmytrosolovyov DM for collaboration #ukrainianmodernism
     location: "Ukraine"
     followers: 14300
     engagement: 1078
@@ -17,91 +22,109 @@ profiles:
   - username: "alexander_zhidkov_"
     fullname: >-
       ALEXANDER  ZHIDKOV  ARCHITECT
+    bio: >-
+      Architecture ✪ Interiors ✪ Planning ✉ zhydkov.aleksandr@gmail.com tel.: +380956031005
     location: "Ukraine"
-    followers: 17289
-    engagement: 741
-    commentsToLikes: 0.017007
+    followers: 18214
+    engagement: 388
+    commentsToLikes: 0.021276
     id: ck0vx422jx1g10i191fqm0wse
     verified: false
-    hashtags: ""
+    hashtags: "#alicante, #valencia, #minecrafthouse, #spain"
   - username: "svoyastudio"
     fullname: >-
       SVOYA studio
+    bio: >-
+      🔝Architecture 🔝Interior design 🔝Product design
     location: "Ukraine"
     followers: 21249
     engagement: 220
     commentsToLikes: 0.020460
     id: ck13bru9twv9d0i19v1e4w2s9
     verified: false
-    hashtags: "#star, #prototype, #archimatika, #bathroomdesign"
+    hashtags: "#design, #style, #hello, #family"
   - username: "archimatika"
     fullname: >-
       archimatika
+    bio: >-
+      #Architecture #Engineering #ProjectManagement For business offers mail us offers@archimatika.com
     location: "Ukraine"
-    followers: 7685
-    engagement: 481
-    commentsToLikes: 0.004957
+    followers: 8371
+    engagement: 432
+    commentsToLikes: 0.008870
     id: ck8sxd7i9gypy0j78bn4n6p3y
     verified: false
-    hashtags: "#schoolaplus, #arkitektur, #archcontest, #urbandesign"
-  - username: "annagirm"
+    hashtags: "#architecturelovers, #archdaily, #architecture, #exterior"
+  - username: "godsend_v"
     fullname: >-
-      A.n.n.a G.i.r Malowany 🌺
+      𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪
+    bio: >-
+      🇺🇦Ukrainian. Nectar&Pulse member 📍Dubai, United Arab Emirates 💫Young, wild and free).
     location: "Ukraine"
-    followers: 6122
-    engagement: 2006
-    commentsToLikes: 0.184386
-    id: ck0tyggvvmppp0i19v8scrgo5
+    followers: 12648
+    engagement: 643
+    commentsToLikes: 0.056859
+    id: ckap10zn3sno00i78rc9obysd
     verified: false
-    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
-  - username: "_yuliya_stasyuk_"
+    hashtags: "#mydubai, #likeit, #ukrainiangirl, #dubaiblog"
+  - username: "dima_trionix"
     fullname: >-
-      Yuliya Stasyuk/Mandzii
+      Dima Trionix
+    bio: >-
+      🇺🇦 I have no time to hate people who hate me, because I am too busy loving people who love me. Admin @bangkokspirit 🇹🇭 Bangkok/Khmelnytskyy based
     location: "Ukraine"
-    followers: 39495
-    engagement: 222
-    commentsToLikes: 0.070274
-    id: ck5c3m6yazlu00i118y680i72
+    followers: 17322
+    engagement: 551
+    commentsToLikes: 0.056193
+    id: ck0u1tu8rxx1d0i19nbopd9oy
     verified: false
-    hashtags: "#handinhand, #readme, #ternopiljewelry, #handmade"
-  - username: "yelizavetushka"
+    hashtags: "#streetphotography, #travelanddestinations, #citykillerz, #lifequote"
+  - username: "milketly"
     fullname: >-
-      Моє золотко ❤️
+      ,,,vika
+    bio: >-
+      ♡ 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍^^ 私はあなたを愛している🏁 [☕;🏷]05’line (♡ ㅅ ♡) подружка Хечи ~ @ymmiv ♡ <𝙸 𝚕𝚘𝚟𝚎 𝚠𝚎 𝚋𝚊𝚛𝚎 𝚋𝚎𝚊𝚛𝚜 𝚊𝚗𝚍 𝚢𝚘𝚞> 𝚜𝚎𝚌 𝚊𝚌𝚌~ @macuterk 🖇
     location: "Ukraine"
-    followers: 5826
-    engagement: 1973
-    commentsToLikes: 0.013077
-    id: ck8t3q8z742u70j78m8y5skwh
+    followers: 2085
+    engagement: 1905
+    commentsToLikes: 0.040907
+    id: ck0vwkuzmuaps0i196ufm1xr9
     verified: false
-    hashtags: "#kyivcity, #godislove, #itsme, #behappy"
-  - username: "avi___girl"
+    hashtags: "#aesthetic, #empathy, #soft, #shine"
+  - username: "alexey_gulesha"
     fullname: >-
-      Алиса Бондарь
+      Alexey Gulesha
+    bio: >-
+      SDA Co-owner at @sivakpartners Chief interior architect and the most interesting Alexey in the world.
     location: "Ukraine"
-    followers: 29942
-    engagement: 230
-    commentsToLikes: 0.007171
-    id: ckaozjbdvm4xv0i78ljmj0do2
+    followers: 10819
+    engagement: 590
+    commentsToLikes: 0.025934
+    id: ckaorld1inqnl0i78llvk2zth
     verified: false
-    hashtags: "#travel, #architecture, #loves, #blackandwhitephotography"
-  - username: "iryna_popovich"
+    hashtags: "#modernhome, #minimalism, #architecturefactor, #moderninterior"
+  - username: "lviv1256"
     fullname: >-
-      𝙄𝙧𝙮𝙣𝙖
+      Так люблю той Львів,
+    bio: >-
+      що бракує ми слів :) #lviv1256
     location: "Ukraine"
-    followers: 2104
-    engagement: 2128
-    commentsToLikes: 0.088458
-    id: ck0vww0d9vuyq0i19mdag92zv
+    followers: 81958
+    engagement: 332
+    commentsToLikes: 0.004651
+    id: ck13d29yf3ayy0i19b84e8t7s
     verified: false
-    hashtags: "#urbanstreet, #tulipfestival, #forestflowers, #autumnlook"
-  - username: "mykulynka_"
+    hashtags: "#europe, #urban, #architecture, #church"
+  - username: "child_of_socialism"
     fullname: >-
-      𝑀𝓎𝓀𝓊𝓁𝓎𝓃 𝒜𝓃𝒹𝓇𝒾𝒶𝓃𝒶 ♥
+      Child of Socialism
+    bio: >-
+      Show you paradise on Earth
     location: "Ukraine"
-    followers: 5945
-    engagement: 637
-    commentsToLikes: 0.022753
-    id: ckaozfmcslo2s0i78by1ifyc8
+    followers: 11526
+    engagement: 630
+    commentsToLikes: 0.013750
+    id: ckaoqp2ybjpj80i78g8bmxox7
     verified: false
-    hashtags: "#interior, #liketeam, #likeall, #liked"
+    hashtags: "#desovmodisation, #brutopolis, #brutgroup, #ukrainiansovietmosaics"
 ---

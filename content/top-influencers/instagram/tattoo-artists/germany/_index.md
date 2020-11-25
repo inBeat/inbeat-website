@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Germany In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Germany in 2020. Most popular hashtags: #stayhome #tattooartist #blackwork #quarantine.
+  Find top tattoo-artists Instagram influencers in Germany in 2020. Most popular hashtags: #tattoo #inked #girlswithtattoos.
 platform: Instagram
+hits: 257
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 257 Instagram influencers like this in Germany for you to pitch.
 profiles:
+  - username: "vendlertattoo"
+    fullname: >-
+      Kristian Vendler
+    bio: >-
+      ✦ International Tattoo Artist ✦ DECEMBER 2020 NYC 🇺🇸 BOOKINGS OPEN
+    location: "Germany"
+    followers: 110668
+    engagement: 579
+    commentsToLikes: 0.015133
+    id: ck0vz3zzb76qa0i194hpgkuti
+    verified: false
+    hashtags: "#vendlertattoo, #kristianvendler, #germany, #stuttgart"
   - username: "itsmemogli"
     fullname: >-
-      ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ М O G L I
+      ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ M O G L I
+    bio: >-
+      @moglitattoo • TATTOO artist 💉 • DREAD maker✨ • fashion designer & tailor ✂️ • FREEDOM-loving ॐ ⠀ • Dm/Mail for collabs
     location: "Germany"
-    followers: 31700
-    engagement: 1060
-    commentsToLikes: 0.013046
+    followers: 32555
+    engagement: 1079
+    commentsToLikes: 0.007986
     id: ck5q7vyw33b0c0i11q2sztnxe
     verified: false
-    hashtags: "#selftattoo, #blackwork, #quarantine, #catmom"
-  - username: "koray_karagozler"
+    hashtags: "#inkedgirls, #dreadhead, #mydreadslife, #dreadlockstyles"
+  - username: "daisydattler"
     fullname: >-
-      KORAY • KARAGÖZLER
+      𝕯𝖆𝖎𝖘𝖞 𝕯𝖆𝖙𝖙𝖑𝖊𝖗
+    bio: >-
+      🏁berlin 💘CEO @starstruck.agency 💖tattoo artist
     location: "Germany"
-    followers: 196259
-    engagement: 276
-    commentsToLikes: 0.022031
-    id: ck0u1vnmoy5q40i19ff777usb
+    followers: 10585
+    engagement: 659
+    commentsToLikes: 0.048191
+    id: ck6u72y1pj61l0j713j5dayat
     verified: false
-    hashtags: "#abstractworld, #star, #universe, #drawings"
+    hashtags: "#fashion, #dailyinsta, #tattoo, #inkedmodel"
+  - username: "max.solarink"
+    fullname: >-
+      ❊ Max Becker | Tattoo Artist ❊
+    bio: >-
+      🏠Solar Ink Tattoo Shop (Koblenz) Fineline Tattoo Artist ✍🏻 Open Mind | 22 | Traveller | Vegan 🌱 @kayjaykay_33 🔒 📩CONTACT: via DM
+    location: "Germany"
+    followers: 11894
+    engagement: 971
+    commentsToLikes: 0.019253
+    id: ck6tmst3f8grp0j71jkd42zjd
+    verified: false
+    hashtags: "#koblenz, #bonn, #peonytattoos, #germantattooer"
   - username: "unclea"
     fullname: >-
       unclea
+    bio: >-
+      Tattoo artist and photo geek. Danish but living in Berlin, Germany. Www.YouTube.com/user/theuncleallan uaphoto.blogspot.com onkelallan@gmail.com
     location: "Germany"
-    followers: 47233
+    followers: 47064
     engagement: 251
-    commentsToLikes: 0.023562
+    commentsToLikes: 0.024069
     id: ck134pkj7xkzc0i19zcpjpszz
     verified: false
-    hashtags: "#motorcycle, #blackmetalgirl, #witchtattoo, #harleydavidson"
-  - username: "gullsahkaraca"
+    hashtags: "#germantattooers, #tatoweirmagazine, #noonetrickpony, #traditionaltattoo"
+  - username: "pixs30"
     fullname: >-
-      •Gülşah KARACA•
+      PiXs ^-^~
+    bio: >-
+      German, 23 y/o 👾 Art, Rave, Game!👾💜 ~Tattoo Artist~ #gamergirl #ravergirl #artist Twitch: PiXs30 ✨❤️ Twitter: pixs30 My Links:
     location: "Germany"
-    followers: 60319
-    engagement: 245
-    commentsToLikes: 0.022965
-    id: ck6ubk32ta1ny0j71yt21h3b4
+    followers: 16300
+    engagement: 615
+    commentsToLikes: 0.040873
+    id: ck5zkvjrbk8lb0i14dainkzx5
     verified: false
-    hashtags: "#brussels, #motiongraphic, #olive, #child"
-  - username: "bea_fu"
+    hashtags: "#edgy, #grungegirl, #scenegirl, #scenehair"
+  - username: "dotstolines"
     fullname: >-
-      Bea Fu
+      Chaim Machlev
+    bio: >-
+      Tattoo Artist • Designer Berlin • Los Angeles
     location: "Germany"
-    followers: 39437
-    engagement: 432
-    commentsToLikes: 0.010721
-    id: ck0u9hwpg9x2a0i1947ma6wry
-    verified: false
-    hashtags: "#tattoed, #mmxx, #moody, #inked"
-  - username: "vivvy.ink"
+    followers: 502609
+    engagement: 75
+    commentsToLikes: 0.025322
+    id: ck6tp4lyzht040j71iarm4dm9
+    verified: true
+    hashtags: "#oldnewspaper, #art, #tattoo, #girlswithtattoos"
+  - username: "samantha_justus"
     fullname: >-
-      Vivvy | Tattoo Artist
+      Samantha
+    bio: >-
+      𝙴𝚗𝚎𝚛𝚐𝚢 𝚗𝚎𝚟𝚎𝚛 𝚕𝚒𝚎𝚜🪐 ∴ Tattoo Artist @justsamantha.tattoo ∴ • Imprint •
     location: "Germany"
-    followers: 7313
-    engagement: 666
-    commentsToLikes: 0.026693
-    id: ck8t3mhjd3qe80j7855r85r8b
-    verified: false
-    hashtags: "#feelfarbigmalzeit, #stayhome, #quarantinebuddy, #homeoffice"
+    followers: 93836
+    engagement: 540
+    commentsToLikes: 0.014547
+    id: ckaov78ad3d1i0i784xenirup
+    verified: true
+    hashtags: "#quoteoftheday, #ootd, #fashion, #selflove"
   - username: "mischa.tattoo"
     fullname: >-
       mischa • tattoo
+    bio: >-
+      🖤 TATTOO ARTIST ▪️ Shop in Stuttgart: @bagatelle.tattoo ▪️ Blackwork, Floral, Mandala, Fineline ▪️ +49-176-24843248 ◾️ 𝗧𝗘𝗥𝗠𝗜𝗡𝗘: 𝗮𝗻𝗿𝘂𝗳𝗲𝗻 📞👇🏻
     location: "Germany"
-    followers: 11803
-    engagement: 568
-    commentsToLikes: 0.024431
+    followers: 13554
+    engagement: 484
+    commentsToLikes: 0.021856
     id: ck5zze36hbkay0i14wsl0lel1
     verified: false
-    hashtags: "#smalltattoos, #dragontattoo, #geometrytattoo, #germantattooers"
-  - username: "nicole_sketch_art"
+    hashtags: "#moderntattoo, #hiptattoo, #floraltattoo, #tattooed"
+  - username: "vivvy.ink"
     fullname: >-
-      Nicole Eckstein
+      Vivvy | Tattoo Artist
+    bio: >-
+      Hamburg, Germany Tattoo artist @schwarzodergold Books closed 💌 for appointments: vivvy.ink@gmail.com Corgi mom @dubbythefluffycorgi 🍑
     location: "Germany"
-    followers: 19060
-    engagement: 549
-    commentsToLikes: 0.023421
-    id: ck0u223ubynkh0i19lenj2zzv
+    followers: 7474
+    engagement: 532
+    commentsToLikes: 0.024684
+    id: ck8t3mhjd3qe80j7855r85r8b
     verified: false
-    hashtags: "#sunnyday, #jakegyllenhaal, #instadaily, #artaccount"
-  - username: "bianca__stefanie"
-    fullname: >-
-      Steffi♡Take me out 2020♡🖌♡
-    location: "Germany"
-    followers: 7171
-    engagement: 835
-    commentsToLikes: 0.033322
-    id: ck0vvihy5paip0i195rj0c1n3
-    verified: false
-    hashtags: "#bodylove, #garden, #monday, #tattooideas"
-  - username: "galaundbubi"
-    fullname: >-
-      🦄𝐹𝑢𝑐ℎ𝑠𝑝𝑜𝑤𝑒𝑟🦄
-    location: "Germany"
-    followers: 7907
-    engagement: 2374
-    commentsToLikes: 0.138662
-    id: ck8tc6phtyh730j78ycyyrr2j
-    verified: false
-    hashtags: "#throwback, #giveaway, #dankesch, #freude"
+    hashtags: ""
 ---

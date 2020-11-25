@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In Argentina In 2020
 description: >-
-  Find top djs Instagram influencers in Argentina in 2020. Most popular hashtags: #summer #yomequedoencasa #cuarentena #music.
+  Find top djs Instagram influencers in Argentina in 2020. Most popular hashtags: #music #dj #argentina #techno.
 platform: Instagram
+hits: 53
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 53 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "kevin_kopp"
     fullname: >-
       Kevin Kopp
+    bio: >-
+      🎧Resident DJ @ottojueves 🍺Embajador @budargentina 🔨@koppamoblamientos_ 📱@appleliferosario 🎚@nk.djs
     location: "Argentina"
-    followers: 18857
-    engagement: 446
-    commentsToLikes: 0.047738
+    followers: 16826
+    engagement: 493
+    commentsToLikes: 0.043562
     id: ck5cdtbrljqif0i11ewt2gggi
     verified: false
     hashtags: ""
-  - username: "djlefrak"
+  - username: "lebray.ar"
     fullname: >-
-      LEFRAK (Lula y Flor Fracchia)
+      L͎e͎b͎r͎a͎y͎ ⚡👽
+    bio: >-
+      H A C E L O B B ! ☎️ CONTACTO: lebray.info@gmail.com ⏳ "JAQUE MATE" FT EL VILLANO ACAPELLA PARA DJS👇👇👇👇
     location: "Argentina"
-    followers: 40131
-    engagement: 218
-    commentsToLikes: 0.042991
-    id: ck0u6u8ha32tp0i19fa1k1pek
+    followers: 11568
+    engagement: 500
+    commentsToLikes: 0.057369
+    id: ck5cepq4algoe0i11t1bboole
     verified: false
-    hashtags: "#festival, #onesunday, #turismo, #villagesell"
+    hashtags: "#westside, #dembowyreggaeton, #lamatanza, #urbano"
+  - username: "tomorrowlandismydream"
+    fullname: >-
+      Tomorrowland is my dream 🎧❤
+    bio: >-
+      •Memes de Música Electrónica. •Tambien me podes seguir en ➡ @djsoundgrave •Mi Música 🎧👇
+    location: "Argentina"
+    followers: 43449
+    engagement: 170
+    commentsToLikes: 0.009921
+    id: ckapavrw4xnd70i78i3pb3jkc
+    verified: false
+    hashtags: "#edmfamily, #martingarrix, #edm, #musicaelectronica"
   - username: "parador_santafe"
     fullname: >-
       Parador Santa Fe
+    bio: >-
+      ⏰ Horarios , Lun, Mar, Mier: 10hs a 00hs Jue, Vie, Sab,Dom 10hs a 02hs 🏝Todos los Viernes #AfterBeach Servicio de playa y Dj’s en vivo 🔊
     location: "Argentina"
     followers: 9292
     engagement: 453
     commentsToLikes: 0.092387
     id: ck6u0xxj9ie3h0j71cn2yofi0
     verified: false
-    hashtags: "#art, #vos, #musica, #unico"
-  - username: "djyayo"
+    hashtags: "#afterbeach, #verano, #paradorsantafe, #santafe"
+  - username: "boythecollector"
     fullname: >-
-      DJ YAYO 🎶
+      Boy Kortekaas
+    bio: >-
+      A n t w e r p - B e l g i u m All images © Boy Kortekaas
     location: "Argentina"
-    followers: 31023
-    engagement: 389
-    commentsToLikes: 0.043039
-    id: ck5znak45o3810i1482ot41oe
+    followers: 18533
+    engagement: 459
+    commentsToLikes: 0.010570
+    id: ck5caugupe5gc0i11xtzq7bhu
     verified: false
-    hashtags: "#definitivamente, #studio, #remix, #2020"
-  - username: "thiagolivemusic"
+    hashtags: "#top100, #ibiza, #dimitrivegas, #tomorrowland"
+  - username: "beico_ok"
     fullname: >-
-      𝗧𝗛𝗜𝗔𝗚𝗢
+      B E I C O
+    bio: >-
+      TERMINAL M - FILTH ON ACID - KRAFTEK🇦🇷 𝗪𝗪: Lars@myfavouritefreaks.com 𝗙𝗥: William@no-hour.com 𝗟𝗔𝗧𝗔𝗠: Bookings@omniaproducciones.com
     location: "Argentina"
-    followers: 32209
-    engagement: 139
-    commentsToLikes: 0.138570
-    id: ck13990n0k4dx0i19r9i649pn
-    verified: true
-    hashtags: "#djremixpack, #youtube, #musicanueva, #boxeo"
-  - username: "sabryrodriguezcuack"
-    fullname: >-
-      Sabry Rodriguez Cuack 🐥😝♐️💙💛💙
-    location: "Argentina"
-    followers: 18521
-    engagement: 439
-    commentsToLikes: 0.065389
-    id: ck5znhkd6oh6b0i14f0s1rra5
+    followers: 31243
+    engagement: 282
+    commentsToLikes: 0.081764
+    id: ck5cdtalajqgs0i11wn74smrs
     verified: false
-    hashtags: "#johndavis, #mintjulep, #yanoaguantomas, #djsession"
-  - username: "arielo.amaro"
+    hashtags: "#dj, #djset, #party, #technodj"
+  - username: "manuwahr"
     fullname: >-
-      Arielo
+      Manu Rodriguez
+    bio: >-
+      La Plata, Bs As. Disfrutando de ser efímero y mortal. @wahrmusic owner Escuchá mi radioshow ‘just a ride’ en @gravityradiook martes de 18 a 20
     location: "Argentina"
-    followers: 27503
-    engagement: 292
-    commentsToLikes: 0.040655
-    id: ck8szkim1osoz0j7889tttcms
+    followers: 2171
+    engagement: 1125
+    commentsToLikes: 0.095882
+    id: ck6tn10nr8x4w0j71xepv6qwj
     verified: false
-    hashtags: "#partyideas, #summer, #dope, #neuquen"
-  - username: "alangjerloff"
-    fullname: >-
-      Alan Gjerloff
-    location: "Argentina"
-    followers: 2522
-    engagement: 1100
-    commentsToLikes: 0.061104
-    id: ck5pzfjeh0q9f0i11bnfoe7gh
-    verified: false
-    hashtags: "#lecharlatan, #happyness, #quarentine, #blackandwhite"
+    hashtags: "#podcast, #techno, #electronicmusic, #buenosaires"
   - username: "djjuandiegoml"
     fullname: >-
       Juan Diego Martinez Larrea
+    bio: >-
+      Co Founder @sarapuradjs - 🎧 DJ 🎧 - Emprendedor➕Productor - Buenos Aires 🇦🇷 🔛 👇🏻👇🏻👇🏻Balcony y Living DJ Sets
     location: "Argentina"
-    followers: 46570
-    engagement: 426
-    commentsToLikes: 0.072656
+    followers: 43254
+    engagement: 208
+    commentsToLikes: 0.063431
     id: ck9hancbyd7va0j78errsfwzw
     verified: false
-    hashtags: "#graciasportodo, #balcony, #djtime, #musica"
-  - username: "jusslombardi"
+    hashtags: "#argentina, #music, #djs, #musica"
+  - username: "lucy_snake"
     fullname: >-
-      𝓙𝓾𝓼𝓽𝓲𝓷𝓪
+      Lucy Snake 💖🐍
+    bio: >-
+      🖤 DJ | 777 @ivannaturyk_dj ➕ BOOKING: lucysnakedj@gmail.com
     location: "Argentina"
-    followers: 3159
-    engagement: 3054
-    commentsToLikes: 0.049425
-    id: ck5zzuo9hcg760i14j4n3w909
+    followers: 11576
+    engagement: 734
+    commentsToLikes: 0.057742
+    id: ck6tie1lz0jgw0j71y1icyb02
     verified: false
-    hashtags: "#badanceexperience, #tyga, #dancing, #justinbieber"
+    hashtags: "#pioneerddj, #techouse, #party, #cdj"
+  - username: "sergiosaffe"
+    fullname: >-
+      Sergio Saffe
+    bio: >-
+      Bookings:@unique.communityba Labels:@deeperfect 🇮🇹 |@undernoillusion 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | @roushlabel | @lemon_aidmusic 🇪🇸|@santosmusiclabel MUSICA & MAS👇🏼
+    location: "Argentina"
+    followers: 29801
+    engagement: 110
+    commentsToLikes: 0.109412
+    id: ck5znhplmohho0i14cysvlpvf
+    verified: false
+    hashtags: "#music, #instagood, #cuarentena, #dancefloor"
 ---

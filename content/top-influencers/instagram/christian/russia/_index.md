@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Russia In 2020
 description: >-
-  Find top christian Instagram influencers in Russia in 2020. Most popular hashtags: #happy #happybirthday #studio #portrait.
+  Find top christian Instagram influencers in Russia in 2020. Most popular hashtags: #love #beautiful #happy.
 platform: Instagram
+hits: 76
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 76 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "dyuchkovy"
+  - username: "ariunamunku"
     fullname: >-
-      Anya Dyuchkova (Mom)
+      арюна.
+    bio: >-
+      18|christian|singer|creator ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ телеграм канал
     location: "Russia"
-    followers: 5373
-    engagement: 1254
-    commentsToLikes: 0.157012
-    id: ck6tyhnik3s9b0j71b5dwi761
+    followers: 21070
+    engagement: 1410
+    commentsToLikes: 0.050443
+    id: ck5q7b5a40pdd0i11paixrg3v
     verified: false
-    hashtags: "#weareallone, #ilgufoss2020, #takkokinder, #photographer"
-  - username: "vlad_samokatchik"
+    hashtags: "#andro, #se, #shawnmendes, #camillacabello"
+  - username: "makarychevaar"
     fullname: >-
-      Влад Самокатчик
+      𝗺𝘆 𝗻𝗮𝗺𝗲 𝗔𝗿𝗶𝗻𝗮 𝗠𝗮𝗸𝗮𝗿𝘆𝗰𝗵𝗲𝘃𝗮
+    bio: >-
+      content creator | fashion | christian Петербургские дребезги 🏛 О размеренном образе жизни 💬 @arlette.management @yavleniechurch
     location: "Russia"
-    followers: 97423
-    engagement: 860
-    commentsToLikes: 0.084931
-    id: ck5cb99lcezd30i11yb461zn7
+    followers: 3125
+    engagement: 907
+    commentsToLikes: 0.083420
+    id: ckap1mqkqv7qx0i7844uw9h3l
     verified: false
-    hashtags: "#doskishop, #undialedtv"
+    hashtags: "#soularmak, #thenoisetier"
+  - username: "anaslastya"
+    fullname: >-
+      - АНАСТАСИЯ РОГОВА -
+    bio: >-
+      💎 Здесь твои уши отдохнут ⠀ 💟 Christian Моя песня «ВИРУС» на радио 102.8 и площадках👇🏻 ⠀ 🎶 С музыкой на ТЫ или просто учусь на дирижерском @rogova_pr
+    location: "Russia"
+    followers: 48084
+    engagement: 345
+    commentsToLikes: 0.071268
+    id: ckaou6ldnz0w50i782i5vimwb
+    verified: false
+    hashtags: "#anaslastya, #rucover, #musicallycover, #tiktokrussia"
+  - username: "marishaivit"
+    fullname: >-
+      Мой Уютный Мир
+    bio: >-
+      ~ М а р и а н н а ~ 🏰Создаю теплый уют в нашем #vm_home ☕Люблю свою #vm_kitchen Врач, который "Сам себе дизайнер"👌 Обо всём что люблю 📖 Christian
+    location: "Russia"
+    followers: 16903
+    engagement: 388
+    commentsToLikes: 0.035526
+    id: ck0vy3f0921ku0i19f1r8i0gx
+    verified: false
+    hashtags: "#coronarendererer, #vm, #happyfamilyvitamins, #3dsmaxcorona"
+  - username: "yannissinger"
+    fullname: >-
+      𝕐𝕒𝕟𝕟𝕚𝕤
+    bio: >-
+      christian singer humorist
+    location: "Russia"
+    followers: 20096
+    engagement: 522
+    commentsToLikes: 0.019932
+    id: ckap30phr14rs0i78qv4awpk1
+    verified: false
+    hashtags: ""
   - username: "innavladam"
     fullname: >-
       📖ЗАГЛЯНИ В СВОЁ СЕРДЦЕ🌷
+    bio: >-
+      Инна🙋‍♀️Orthodox Christian🕊 ЧЕСТНО О ГЛАВНОМ🌿 - о жизни и вере ⛪️ - семейные зарисовки👨‍👩‍👧 -педагог, гид-международник🌏 -эфиры о православии🎥 -📚📚📚
     location: "Russia"
-    followers: 12056
-    engagement: 1029
-    commentsToLikes: 0.126863
+    followers: 12584
+    engagement: 646
+    commentsToLikes: 0.071325
     id: ck15qf3i12jcc0i192szas933
     verified: false
-    hashtags: "#innavladam"
-  - username: "christiane_blg"
-    fullname: >-
-      🖤CHRISTIANE
-    location: "Russia"
-    followers: 46126
-    engagement: 79
-    commentsToLikes: 0.181281
-    id: ck14ixpg7hmxp0i190jn1rj8j
-    verified: false
-    hashtags: "#mufe, #samplesotiety, #aderma, #glambox"
-  - username: "marishaivit"
-    fullname: >-
-      Наш ДОМ 🔹Уют 🔹Декор🔹️Семья
-    location: "Russia"
-    followers: 17482
-    engagement: 362
-    commentsToLikes: 0.030802
-    id: ck0vy3f0921ku0i19f1r8i0gx
-    verified: false
-    hashtags: "#spaceschoolspb, #coronarender, #happyfamilyvitamins, #3dsmax"
+    hashtags: "#innavladam, #autumnmood"
   - username: "alexei_mel7"
     fullname: >-
       Алексей Рябчиков
+    bio: >-
+      🎤Stand Up комик🎙,🔝Christian🔝,, Открытый микрофон ТНТ🎤🎬, 🔝StandUp Цимермана🔝, ОРГАНИЗАЦИЯ StandUp шоу, предложения, сотрудничество в direct⬆️
     location: "Russia"
     followers: 5345
     engagement: 511
     commentsToLikes: 0.067430
     id: ck5ccqwazhue10i11v7w2segb
     verified: false
-    hashtags: "#90, #underground, #standupcomedy"
-  - username: "baigali_astudio"
+    hashtags: "#standup, #comedy, #moscow, #90"
+  - username: "christiane_blg"
     fullname: >-
-      @astudio_group @the_jigits
+      🖤CHRISTIANE
+    bio: >-
+      🔮РАЗНЫЕ ЖЕНСКИЕ ШТУЧКИ 🧜‍♀️буду твоей бьюти-подружкой 💌collab: pronina_kristina@mail.ru/direct 🔥коробочки NEWBEAUTYBOX🔻
     location: "Russia"
-    followers: 59573
-    engagement: 147
-    commentsToLikes: 0.023342
-    id: ck5buvx6xiiyy0i11z7jy0x9o
+    followers: 45398
+    engagement: 111
+    commentsToLikes: 0.129854
+    id: ck14ixpg7hmxp0i190jn1rj8j
     verified: false
-    hashtags: "#lax, #studio, #newtrack, #lucasrecords"
-  - username: "kadmir_music"
+    hashtags: "#christiane, #glamboxrussia, #faberlicinfluencer, #glamour"
+  - username: "tanymarble"
     fullname: >-
-      Артём Кадмир
+      Tatyana/Татьяна
+    bio: >-
+      Женщина-Личность Красивой,стильной,модной можно быть всегда и в любом возрасте 📍Beauty•Makeup•Nails•Parfum 📍Lifestyle
     location: "Russia"
-    followers: 11342
-    engagement: 813
-    commentsToLikes: 0.018880
-    id: ck5c5dkql39n10i112zp7869e
+    followers: 6660
+    engagement: 1192
+    commentsToLikes: 0.112213
+    id: ckf5p2ao94p8o0j236x9rp3s7
     verified: false
-    hashtags: "#portrait, #likeforlike, #blogger, #vocal"
-  - username: "sushil.shamlal.wadhwa"
+    hashtags: "#chantecaille, #chanellove, #beautiful, #chanelholiday2019"
+  - username: "ekaterina7semenchuk"
     fullname: >-
-      Sushil Shamlal Wadhwa
+      EKATERINA SEMENCHUK
+    bio: >-
+      OPERA SINGER Seven Romances on Poems by Alexander Blok from the New #Shostakovich Album @harmoniamundi_inter ⤵️
     location: "Russia"
-    followers: 81927
-    engagement: 429
-    commentsToLikes: 0.080751
-    id: ck6uen9bbrxvd0j71n9ozvyq6
+    followers: 7143
+    engagement: 990
+    commentsToLikes: 0.056993
+    id: ck5c1mr7tvhvu0i11jilqwd8q
     verified: false
-    hashtags: "#hotels, #elegantweddings, #relax, #fashion"
-  - username: "gataki13"
-    fullname: >-
-      Elena, Siberia Russia 🇷🇺
-    location: "Russia"
-    followers: 3345
-    engagement: 1236
-    commentsToLikes: 0.224030
-    id: ck8tctfnc0lz50j78b1dibke7
-    verified: false
-    hashtags: "#happybirthday, #dioressence, #toyboy, #toy2"
+    hashtags: "#theatre, #yusifeyvazov, #life, #world"
 ---

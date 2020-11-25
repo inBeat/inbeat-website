@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In Portugal In 2020
 description: >-
-  Find top TikTok influencers in Portugal in 2020. Most popular hashtags: #trend #desafiodos6s #wheneveryoureready #quarentena.
+  Find top TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #fy #foryou.
 platform: TikTok
+hits: 455
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 455 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "davidbras03"
     fullname: >-
       👑 David Brás 👑
+    bio: >-
+      hi stalker 👋🏻 ig: davidjbras Work: info.davidbras@gmail.com
     location: "Portugal"
-    followers: 191447
-    engagement: 2941
-    commentsToLikes: 0.052843
+    followers: 249000
+    engagement: 1651
+    commentsToLikes: 0.016604
     id: ck8sfm1njoqjp0j78vdrj4qlp
     verified: false
-    hashtags: "#orgulhosamentesumol, #skinroutine, #emcass, #pub"
-  - username: "aaatchim"
+    hashtags: "#foryoupage, #fyp, #davidbras, #trend"
+  - username: "naosouoclaudex"
     fullname: >-
-      margarida
+      🖤Claudexter2💔
+    bio: >-
+      Não sou o claudex Mas sigam aqui em baixo 👇🏻
     location: "Portugal"
-    followers: 301311
-    engagement: 2799
-    commentsToLikes: 0.026749
-    id: ck8ttzv9ts8w80j78hgzaal24
+    followers: 183500
+    engagement: 2199
+    commentsToLikes: 0.064948
+    id: ckav8ujdyg5kd0j23rfdrmy9j
     verified: false
-    hashtags: "#brasi, #forayoupage, #pov, #funny"
-  - username: "diianamonteiro_"
+    hashtags: "#linhacongelante"
+  - username: "opps_.editsx"
     fullname: >-
-      ✨Diiana Monteiro✨
+      "Scared Potter"😌🙌
+    bio: >-
+      Alight Motion Pro😌🙌 Slytherin🐍 FF:Harry Potter🧹⚗ PF:Siruis Black🚬🍷
     location: "Portugal"
-    followers: 459959
-    engagement: 2429
-    commentsToLikes: 0.033739
-    id: ck8ozsl3ldivn0j78dkco2tgr
-    verified: true
-    hashtags: "#transition, #renegade, #fyp, #desafiodos6s"
-  - username: "dente_amarelo"
-    fullname: >-
-      Dente Amarelo
-    location: "Portugal"
-    followers: 50782
-    engagement: 1972
-    commentsToLikes: 0.056311
-    id: cka65l4zrdjfh0i780whyfsjs
+    followers: 13300
+    engagement: 4574
+    commentsToLikes: 0.391203
+    id: ckdtkjqh4ycnq0j23kzqiusxa
     verified: false
-    hashtags: "#coronamask, #quarentena, #euficoemcasa, #anima"
-  - username: "leonorfilipaa"
+    hashtags: "#bts, #parkjimin, #valorizaedits, #jimin"
+  - username: "ops..finnie"
     fullname: >-
-      Leonor 😝💗
+      Wolfie e Bubba
+    bio: >-
+      1 fc🥰 More than 4k to smile Amp(alight motion pro) fillie shipper
     location: "Portugal"
-    followers: 654486
-    engagement: 3649
-    commentsToLikes: 0.087890
-    id: ck83zbp6yzgu70j78gy6fv7cd
-    verified: true
-    hashtags: "#shuffle, #stuckwithu, #dueto, #outfit"
-  - username: "imverapinhal"
-    fullname: >-
-      Vera Pinhal
-    location: "Portugal"
-    followers: 118102
-    engagement: 2551
-    commentsToLikes: 0.090819
-    id: ck8ts75g2r31b0j78hbta65mz
+    followers: 4180
+    engagement: 3334
+    commentsToLikes: 0.124040
+    id: ckdtljtqkzrrv0j23hraql5t1
     verified: false
-    hashtags: "#desafiodos6s"
-  - username: "jessieriibeiro"
+    hashtags: "#foryou, #fy, #finnwolfhard, #fyp"
+  - username: "its.grils.power0"
     fullname: >-
-      🦋 𝓙𝓮𝓼𝓼𝓲𝓮 🦋
+      🍓⃤meta as 7000
+    bio: >-
+      😌 seguindo de volta
     location: "Portugal"
-    followers: 70363
-    engagement: 2185
-    commentsToLikes: 0.056743
-    id: ck83zbpqozh0b0j78xe3d7htu
-    verified: false
-    hashtags: "#castinghypetuga, #family, #espa, #lorenziko"
-  - username: "a_noiva_do_breno"
-    fullname: >-
-      Breno Gonzalez
-    location: "Portugal"
-    followers: 3222
-    engagement: 2065
-    commentsToLikes: 0.077056
+    followers: 6090
+    engagement: 3056
+    commentsToLikes: 0.074278
     id: ckaiiexpja57s0i78foktk7nw
     verified: false
-    hashtags: "#capadoalbum, #tristerealidade"
-  - username: "betsaida1011"
+    hashtags: "#fyp, #dueto"
+  - username: "leonorfilipaa"
     fullname: >-
-      betesaida10
+      Leonor Filipa😝💗
+    bio: >-
+      Follow me on instagram👆🏻😝 Portuguese dancer🇵🇹💃🏻 PR & Brands: @thisisluvin
     location: "Portugal"
-    followers: 8219
-    engagement: 2733
-    commentsToLikes: 0.056407
+    followers: 697100
+    engagement: 2914
+    commentsToLikes: 0.038792
+    id: ck83zbp6yzgu70j78gy6fv7cd
+    verified: true
+    hashtags: "#dance, #tiktokportugal, #trend, #orgulhosamentesumol"
+  - username: "debora.ramiress"
+    fullname: >-
+      ✰ Débora Ramirez ✰
+    bio: >-
+      Instagram: debora.ramiress ☝🏼☝🏼 + de 100K motivos para não desistir ❤️🧚🏼
+    location: "Portugal"
+    followers: 130900
+    engagement: 2750
+    commentsToLikes: 0.038360
+    id: ckbrc8gxlq5jv0j230twtdmvm
+    verified: false
+    hashtags: "#xmas, #sumol, #cocreatorsbysumol, #orgulhosamentesumol"
+  - username: "_omeunomeewybie_"
+    fullname: >-
+      𝐖𝐲𝐛𝐢𝐞
+    bio: >-
+      ➪🏳️‍🌈 ➪16𝐲 ➪𝐓𝐫𝐚𝐧𝐬/𝐏𝐚𝐧 ➪𝐄𝐥𝐞/𝐃𝐞𝐥𝐞 ➪𝐢𝐧𝐬𝐭𝐚:_𝐰𝐲𝐛𝐢𝐞𝐞_
+    location: "Portugal"
+    followers: 83400
+    engagement: 2659
+    commentsToLikes: 0.045962
+    id: ck9kenm8ozna80j78xea4ai6s
+    verified: false
+    hashtags: "#alvineosesquilos, #simoncosplay, #foryou, #dueto"
+  - username: "betsaida_fonseca_rosa"
+    fullname: >-
+      betesaida_fonseca_rosa
+    bio: >-
+      Armenia e romona com muito orgulho✨,melhores bffs @melissa @kayla @levinya❤️✨
+    location: "Portugal"
+    followers: 9176
+    engagement: 2567
+    commentsToLikes: 0.174975
     id: ck9ergvdt1pj70j78ct7jtot4
     verified: false
-    hashtags: "#balan, #coronavirus, #transi, #dancingchallenge"
-  - username: "nowbeauany"
+    hashtags: "#fyp, #fy, #paravoce, #lan"
+  - username: "uniter.vinesx_"
     fullname: >-
-      🖤Beauany🖤
+      Now united💘
+    bio: >-
+      6049 razões do pk eu sou flopada;-;(brunks obg)
     location: "Portugal"
-    followers: 5437
-    engagement: 2461
-    commentsToLikes: 0.061620
-    id: ckahwt073sd840i78d216fz5x
+    followers: 5885
+    engagement: 2121
+    commentsToLikes: 0.114037
+    id: ckbwife6p350a0j236js7uheq
     verified: false
-    hashtags: "#novatelaverde, #foryoupage, #mexico, #america"
+    hashtags: "#nu, #fy, #fypg, #foryoupage"
 cities:
   - name: Lisbon
     link: /tiktok/portugal/lisbon

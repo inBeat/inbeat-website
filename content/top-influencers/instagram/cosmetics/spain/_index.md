@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Spain In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Spain in 2020. Most popular hashtags: #cosmetics #sorteo #makeup #stayathome.
+  Find top cosmetics Instagram influencers in Spain in 2020. Most popular hashtags: #cosmetics #beauty #makeup #skincare.
 platform: Instagram
+hits: 234
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 234 Instagram influencers like this in Spain for you to collaborate.
 profiles:
-  - username: "felixadergold"
+  - username: "curly.azahara"
     fullname: >-
-      Felix Adergold
+      Hacia una vida  +consciente🌍
+    bio: >-
+      Vegan recipes👩🏼‍🌾🌱 Natural cosmetic🌿 Slow fashion 🌻🌎 👧🏻Natura👶🏼Delmar🐕Guakamole 🐶🖤🌈 @juanma_furio💘 @lamardebienmalaga🏄🏼‍♂️ @lamardebienvalencia🏄🏻‍♀️
     location: "Spain"
-    followers: 72073
-    engagement: 379
-    commentsToLikes: 0.021534
-    id: ck0u629uz0s3x0i19kidtckqp
+    followers: 601206
+    engagement: 226
+    commentsToLikes: 0.345734
+    id: ck0w05upjcixy0i19ie74697f
+    verified: true
+    hashtags: "#familylove, #family, #recetasveganasfaciles, #vegan"
+  - username: "baltasaroficial"
+    fullname: >-
+      Baltasar González Pinel
+    bio: >-
+      Director of Makeup Artistry M•A•C Cosmetics Europe, Mid. East, Africa, India, Russia Co-Founder of @bogartmakeup Makeup and Science of Beauty Academy
+    location: "Spain"
+    followers: 41586
+    engagement: 334
+    commentsToLikes: 0.050625
+    id: ck5zjcheghckw0i14y3a16d7z
+    verified: true
+    hashtags: "#powderkissliquidlipcolour, #acrilico, #baltasargonzalezpinel, #cinderella"
+  - username: "alejandradominguezgila"
+    fullname: >-
+      Alejandra Domínguez Gila ♏🧿
+    bio: >-
+      I’m not perfect, nor I wish to be. My imperfections define me and make me unique. 🌄#nature #landscape #scenography 👠#fashion 💄#cosmetics #scorpio
+    location: "Spain"
+    followers: 13743
+    engagement: 400
+    commentsToLikes: 0.066793
+    id: ck5zyx75oaoq90i14oimrbsan
     verified: false
-    hashtags: "#vonanfangan, #gucci, #vegan, #lifeisabeach"
+    hashtags: "#sezanelovesmadrid, #missoni, #greece, #portugal"
   - username: "tuasmakeup"
     fullname: >-
       DREW TUÁ
+    bio: >-
+      💞 Main account: @drewtua (50k) 🎥 Youtuber (+265k): Drew Tuá 💅🏻 MUA at M•A•C Cosmetics 💄 Face Awards Finalist
     location: "Spain"
-    followers: 7218
-    engagement: 2061
-    commentsToLikes: 0.022220
+    followers: 8757
+    engagement: 2011
+    commentsToLikes: 0.021886
     id: ck6uda2rbjwwk0j714v2tee5j
     verified: false
-    hashtags: "#cosplay, #venus2palette, #makeupchallenge, #aliencosmetics"
-  - username: "curly.azahara"
+    hashtags: "#jeffreestarcosmetics, #jeffreestarprlist, #makeupart, #anastasiabeverlyhills"
+  - username: "mami_enapuros"
     fullname: >-
-      aZahAra 👩🏼‍🦱🌱
+      ↬ 𝓡𝓪𝓺𝓾𝓮𝓵 ↫
+    bio: >-
+      𝙼𝚊𝚝𝚎𝚛𝚗𝚒𝚝𝚢 | 𝙱𝚎𝚊𝚞𝚝𝚢 | 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 🏙| 𝙲𝚘𝚛𝚞𝚗̃𝚊 🇪🇸 👦🏻| ℳ𝒶𝓂𝒾 𝒹𝑒 ℳ𝒶𝓇𝓉𝒾𝓃 |𝟙𝟞-𝟘𝟜-𝟚𝟘𝟙𝟠| 📩| rsotbar@gmail.com ✨𝚀𝚞𝚒𝚎𝚗 𝚗𝚘 𝚊𝚛𝚛𝚒𝚎𝚜𝚐𝚊 𝙽𝚘 𝚐𝚊𝚗𝚊✨
     location: "Spain"
-    followers: 579059
-    engagement: 230
-    commentsToLikes: 0.140436
-    id: ck0w05upjcixy0i19ie74697f
-    verified: true
-    hashtags: "#reusa, #vegano, #eticalfashion, #followsiria"
-  - username: "baltasaroficial"
-    fullname: >-
-      Baltasar González Pinel
-    location: "Spain"
-    followers: 40307
-    engagement: 495
-    commentsToLikes: 0.043722
-    id: ck5zjcheghckw0i14y3a16d7z
-    verified: true
-    hashtags: "#macseniorartist, #illustration, #halloweenmakeup, #watercolors"
-  - username: "ladomadesandra"
-    fullname: >-
-      Sandra García
-    location: "Spain"
-    followers: 23037
-    engagement: 973
-    commentsToLikes: 0.053051
-    id: ck8t7kjvnh5kk0j78azqnrzso
+    followers: 25058
+    engagement: 730
+    commentsToLikes: 1.113308
+    id: ckap9alakruuk0i78wpus7ika
     verified: false
-    hashtags: "#simof, #vivir, #serumiluminador, #pormi"
-  - username: "laurabudo"
+    hashtags: "#maternidad, #makeupideas, #beauty, #kids"
+  - username: "gsusserranomua"
     fullname: >-
-      L A B Ú 🌱
+      ⚜ 🅙🅔🅢🅤🅢 🅢🅔🅡🅡🅐🅝🅞 ⚜
+    bio: >-
+      🎨ᕈRO MΔKE-Uᕈ ΔRΓISΓ 🖌 💄 MaQuiLLaNDo La ViDa 💋 🎵𝙔𝙖 𝙨𝙤𝙢𝙤𝙨➕𝙙𝙚 280𝙆 #gusiernagas ⬇️ 📍Madrid, Spain 🇪🇸
     location: "Spain"
-    followers: 37047
-    engagement: 576
-    commentsToLikes: 0.115413
-    id: ckaovk41r4wun0i787xihzx2v
+    followers: 19217
+    engagement: 612
+    commentsToLikes: 0.230138
+    id: ck5pzczpe0d9q0i119k6g7a23
     verified: false
-    hashtags: "#watercolor, #artistatwork, #covid19, #eyeshadow"
-  - username: "eirebrush"
+    hashtags: "#gloss, #carnivalxlpro, #outfit, #mascara"
+  - username: "make_baby_up"
     fullname: >-
-      𝐼𝓇𝑒𝓃𝑒 𝓂𝑜𝓃𝓉𝑒𝓈
+      🦄 🌈 babyCris 🌈🦄
+    bio: >-
+      ⏬C O L A B O R A C I O N E S ⏬ 📍Valladolid @sheinofficial 15% dto MAKEBABYUP15 @rotita_official http://www.rotita.com/?lkid=35129 #rotita
     location: "Spain"
-    followers: 5496
-    engagement: 1422
-    commentsToLikes: 0.307348
-    id: ck6u3iftixz0t0j714yh7nlkd
+    followers: 22010
+    engagement: 319
+    commentsToLikes: 0.296688
+    id: ck9weydcemf1k0j78fssy2fip
     verified: false
-    hashtags: "#blazin, #puzzlemakeup, #featuringmuas, #feministmakeup"
-  - username: "teresa_g.zman"
+    hashtags: "#promociones, #bloggervalladolid, #free, #shein"
+  - username: "miaupotingues"
     fullname: >-
-      Teresa Guzman
+      ѕαи∂яα▫ мιαυρσтιиgυєѕ.¢σм▫
+    bio: >-
+      мαкєυρ | вєαυту | fαѕнισи & ℓιfєѕтуℓє 📍🇪🇸gαℓι¢ια 👇🏻 иєω ρσѕт!
     location: "Spain"
-    followers: 22080
-    engagement: 637
-    commentsToLikes: 0.235174
-    id: ck5zm41lgluwd0i14uoahtfo0
+    followers: 16549
+    engagement: 316
+    commentsToLikes: 0.261715
+    id: ck0u6ksim26z00i19of57efar
     verified: false
-    hashtags: "#pillow, #patinar, #primark, #labialrojo"
-  - username: "mom.aroundtheworld"
+    hashtags: "#makeupartist, #eyeshadowpalette, #vegan, #makeup"
+  - username: "missmayparis"
     fullname: >-
-      Denitsa Stoyanova
+      María Joya
+    bio: >-
+      🏠Jerez-Paris-London-Bogotá-Lisboa 👗#moda ✈️ #viajes 🙋🏼‍♀️ #missmayparis 📩Colaboraciones email o DM
     location: "Spain"
-    followers: 22610
-    engagement: 613
-    commentsToLikes: 0.261509
-    id: ck139mwtam3r60i19a3r1vgon
+    followers: 49970
+    engagement: 143
+    commentsToLikes: 0.111855
+    id: ck55mtadp4qon0i11rbzo9npd
     verified: false
-    hashtags: "#catalunya, #gettyimages, #beautycontest, #littlefighters"
-  - username: "chabelseijo"
+    hashtags: "#birchboxes, #chile, #mascarilla, #amordemivida"
+  - username: "mybeautrip"
     fullname: >-
-      Chabel Seijo
+      Marjorie
+    bio: >-
+      Fashion / Beauty / Travel ✉: mybeautrip@mybeautrip.com
     location: "Spain"
-    followers: 32982
-    engagement: 471
-    commentsToLikes: 0.088432
-    id: ck13bpzy1wmaq0i19duu56lbq
+    followers: 65837
+    engagement: 124
+    commentsToLikes: 0.185153
+    id: ck5px2vcgptv00i11w9zwsb8o
     verified: false
-    hashtags: "#todopasara, #aussie, #teddycoat, #todopasa"
+    hashtags: "#fashiongram, #beauty, #instafashion, #cosmetics"
 ---

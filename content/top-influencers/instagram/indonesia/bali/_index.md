@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Bali In 2020
 description: >-
-  Find top Instagram influencers in Bali in 2020. Most popular hashtags: # #beach #bliss #selebgram.
+  Find top Instagram influencers in Bali in 2020. Most popular hashtags: #bali #freedomthinkers #amexambassador.
 platform: Instagram
+hits: 2522
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 2522 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
+  - username: "maia_rose_x"
+    fullname: >-
+      Maia Rose
+    bio: >-
+      🌏 living in Bali 🏹 fashion, beauty, travel 💌 m.koumis@hotmail.co.uk
+    location: "Indonesia"
+    followers: 41143
+    engagement: 217
+    commentsToLikes: 0.038292
+    id: ckap3hnx831cn0i78qohzqlfi
+    verified: false
+    hashtags: "#bali"
+  - username: "patty_searle"
+    fullname: >-
+      Patty Dungca-Searle
+    bio: >-
+      Bali based || Let’s work together | hey@passionsxpatty.com all around creative | @passionsxpatty @kohei.island.co @black_book_fashion @urbankissed
+    location: "Indonesia"
+    followers: 16191
+    engagement: 441
+    commentsToLikes: 0.319377
+    id: ck6tucm78fkfd0j71iwh1nrm4
+    verified: false
+    hashtags: "#bali"
   - username: "engelhardtlund"
     fullname: >-
       Simone Engelhardt
+    bio: >-
+      Bali
     location: "Indonesia"
-    followers: 5091
-    engagement: 1238
-    commentsToLikes: 0.038272
+    followers: 6938
+    engagement: 994
+    commentsToLikes: 0.036817
     id: ck5zygcaj9u270i14hom1z5yh
     verified: false
-    hashtags: "#bliss, #beachbum, #acro, #blendingin"
-  - username: "kayu__"
-    fullname: >-
-      kayu
-    location: "Indonesia"
-    followers: 13707
-    engagement: 555
-    commentsToLikes: 0.015396
-    id: ck5cjg385unnq0i11fc9zi1mv
-    verified: false
-    hashtags: ""
+    hashtags: "#sacredfeminine, #bali, #balance, #canggu"
   - username: "explorebali"
     fullname: >-
       BALI
+    bio: >-
+      Sharing experience of Bali’s diversity. Tag your Bali Experience #explorebali to give us permission to repost. 📩 explorebali.traveling@gmail.com
     location: "Indonesia"
     followers: 487413
     engagement: 123
     commentsToLikes: 0.013980
     id: ck0tymxg5nbp20i19tvm05xp1
     verified: false
-    hashtags: "#explorebali, #stayathome, #dirumahaja, #explorebalihandinhand"
-  - username: "keanucampora"
+    hashtags: "#stayathome, #dirumahaja, #explorebalihandinhand, #explorebali"
+  - username: "kamilasikl"
     fullname: >-
-      Keanu Campora
+      KAMILA SIKL KRECKOVA
+    bio: >-
+      Naše cesta kolem světa @thesikls 🌎 📍Bali🐲🌊 BoysMama 🛹🪁 Elliot & Levi Tvoříme @siklsskirt • @wewillsee_jewelry 🌙 📮sikls@sikls.com
     location: "Indonesia"
-    followers: 39424
-    engagement: 1040
-    commentsToLikes: 0.072409
-    id: ck5c2ldsyxhcg0i1169ue65bh
+    followers: 132500
+    engagement: 587
+    commentsToLikes: 0.115361
+    id: ck9wfvtzbqpst0j78s6pr516h
     verified: false
-    hashtags: "#stainedwithintention"
+    hashtags: "#prvninocvnovembyte, #travelkids, #nutrilon, #nutriloncz"
+  - username: "jerwahyu"
+    fullname: >-
+      Jerwah.
+    bio: >-
+      Bali, Indonesia🇮🇩 Traveling and business @jerproject || @hypebali.sply My travel agency⬇️
+    location: "Indonesia"
+    followers: 3498
+    engagement: 2086
+    commentsToLikes: 0.238925
+    id: ck8t0dk1yrpin0j78xd33le27
+    verified: false
+    hashtags: "#igersworldwide, #stayandwander, #awesomeearth, #peoplescreatives"
+  - username: "eltonandersonjr"
+    fullname: >-
+      ELTON ANDERSON, JR
+    bio: >-
+      Life is good... constantly making it better. ⚡️ 📍Bali, Indonesia 🌍 81 Countries Podcast @detroitchopra Founder @CreatorsofColor Host @lensofculture
+    location: "Indonesia"
+    followers: 40924
+    engagement: 891
+    commentsToLikes: 0.046050
+    id: ck0vw7he5sg250i19v404rzfp
+    verified: false
+    hashtags: "#sheamoisturepartner, #deltaamex, #yearofreturn, #beautyatitsroots"
+  - username: "kiranaekaputrii"
+    fullname: >-
+      Ida Ayu Kirana Eka Putri
+    bio: >-
+      ₁₄ | 📩 𝚙𝚙/𝚎𝚗𝚍𝚘𝚛𝚜𝚎 @stars_management._ @qrraana 🌙 putri bali👇🏼
+    location: "Indonesia"
+    followers: 8868
+    engagement: 2476
+    commentsToLikes: 0.054290
+    id: ckapbbzyizcej0i78qk2aox6b
+    verified: false
+    hashtags: "#musergeneration, #muserindo, #tiktokbali, #muserindonesia"
+  - username: "karennijsen"
+    fullname: >-
+      Karen Nijsen
+    bio: >-
+      💌 knijsen@gmail.com 📍Bali, Indonesia
+    location: "Indonesia"
+    followers: 73161
+    engagement: 434
+    commentsToLikes: 0.044158
+    id: ck14i7huce0yd0i195flsdzh9
+    verified: false
+    hashtags: ""
   - username: "sakharova.md"
     fullname: >-
-      ДИАНА | КЛИНИЧЕСКИЙ ПСИХОЛОГ
+      ДИАНА | КЛИНИЧЕСКИЙ ПСИХОЛОГ
+    bio: >-
+      Найти себя невозможно — себя можно только создать! ⠀ 🎥Снимаю антидепрессивные сторис ⠀ 🇲🇨 Live in Indonesia, Bali ⬇️Терапия, статьи, лекции
     location: "Indonesia"
-    followers: 42711
-    engagement: 724
-    commentsToLikes: 0.064992
+    followers: 40863
+    engagement: 464
+    commentsToLikes: 0.068560
     id: ck5ceuufmlr4c0i119imzvi6c
     verified: false
     hashtags: "#sakharova, #dianalyse"
-  - username: "novitaa_nopp"
-    fullname: >-
-      nopp.
-    location: "Indonesia"
-    followers: 3429
-    engagement: 2482
-    commentsToLikes: 0.131832
-    id: ck6u0s140hf7i0j71ckiwjf0n
-    verified: false
-    hashtags: "#adi, #selebgrambali, #cantikbalii, #baliindonesia"
-  - username: "magdasyoga"
-    fullname: >-
-      Magda | Yoga
-    location: "Indonesia"
-    followers: 16652
-    engagement: 798
-    commentsToLikes: 0.081266
-    id: ck5hpgzjnrcek0i1118fids11
-    verified: false
-    hashtags: ""
-  - username: "eltonandersonjr"
-    fullname: >-
-      Elton Anderson, Jr.
-    location: "Indonesia"
-    followers: 38151
-    engagement: 761
-    commentsToLikes: 0.045538
-    id: ck0vw7he5sg250i19v404rzfp
-    verified: false
-    hashtags: "#burmaboy, #detroitchopra, #amexambassador, #visitbarbados"
-  - username: "gelgasairlangga"
-    fullname: >-
-      Photographer Bali
-    location: "Indonesia"
-    followers: 10771
-    engagement: 1744
-    commentsToLikes: 0.056694
-    id: ck8t2nmyw03vt0j78xas8qnk1
-    verified: false
-    hashtags: "#tiktokindonesia, #tumblrlove, #creativemakeup, #photoshoot"
-  - username: "thewayfaress"
-    fullname: >-
-      Alexandra Saper | Travel&Life
-    location: "Indonesia"
-    followers: 107000
-    engagement: 495
-    commentsToLikes: 0.049017
-    id: ck0w1lom8jyqe0i198rkg3j0p
-    verified: false
-    hashtags: "#ad, #indoorsurvivalguide, #likewiseapp"
 ---

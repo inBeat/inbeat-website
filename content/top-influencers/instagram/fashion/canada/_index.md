@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Canada In 2020
 description: >-
-  Find top fashion Instagram influencers in Canada in 2020. Most popular hashtags: #ootd #fashion #fashiongram #stylepost.
+  Find top fashion Instagram influencers in Canada in 2020. Most popular hashtags: #fashionblogger #ootd #torontoblogger.
 platform: Instagram
+hits: 1229
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 1229 Instagram influencers like this in Canada for you to collaborate.
 profiles:
   - username: "xox.loveandfashion"
     fullname: >-
       𝐆𝐥𝐞𝐧𝐧 & 𝐊𝐡𝐚𝐲 | Fashion 🇵🇭🇨🇦
+    bio: >-
+      Mr. Hugs & Mrs. Kisses #love ▪︎ #fashion ▪︎ #lifestyle 18 Years & 10 months IN L❤VE #matchingcouple 𝒔𝒊𝒏𝒄𝒆 𝟐𝟎𝟎𝟏 We have a YouTube ⬇️ Channel!
     location: "Canada"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.123654
+    followers: 16394
+    engagement: 392
+    commentsToLikes: 0.082821
     id: ck55ja79lwlq60i11r5nr177w
     verified: false
-    hashtags: "#couplesconnect, #vancitywears, #coupleselfie, #sneakers"
-  - username: "sofsenisi"
+    hashtags: "#vancouverbc, #vancouver, #dailyhivestyle, #xoxloveandfashion"
+  - username: "joeliegamatero"
     fullname: >-
-      Sof senisi👑💖✨
+      Joelie Jane
+    bio: >-
+      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
     location: "Canada"
-    followers: 5384
-    engagement: 2239
-    commentsToLikes: 0.247767
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 7176
+    engagement: 2333
+    commentsToLikes: 0.272646
+    id: ckf5s50lfeqxv0j23s9pw9dxh
     verified: false
-    hashtags: "#collab, #goldenhour, #glowingskin, #ootd"
-  - username: "alicedlee"
-    fullname: >-
-      𝓐𝓵𝓲𝓬𝓮
-    location: "Canada"
-    followers: 35171
-    engagement: 757
-    commentsToLikes: 0.102569
-    id: ck1364tzc4r480i19wyysbfic
-    verified: false
-    hashtags: "#monamourflowers, #fashionnovaambassador, #liketkit, #ootd"
-  - username: "lenswithoutacause"
-    fullname: >-
-      Styles, Outfits, Fashion 👓
-    location: "Canada"
-    followers: 6715
-    engagement: 1221
-    commentsToLikes: 0.129228
-    id: ckapa03rru6bp0i78n4sfz2fq
-    verified: false
-    hashtags: "#selfiemen, #streetstyleman, #fashionforman, #greenshirts"
-  - username: "shalini_matt"
-    fullname: >-
-      Shaluuu🌹
-    location: "Canada"
-    followers: 2746
-    engagement: 2812
-    commentsToLikes: 0.087200
-    id: ck6uernicsp5o0j71ntftvyov
-    verified: false
-    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
-  - username: "vanora.lo"
-    fullname: >-
-      VANORA LO | Vancouver
-    location: "Canada"
-    followers: 2376
-    engagement: 2039
-    commentsToLikes: 0.187076
-    id: ck6u7woqbo3bo0j71tq5w83f0
-    verified: false
-    hashtags: "#skincarereviews, #whatiwore, #goldenhour, #aestheticpost"
-  - username: "becrayonized"
-    fullname: >-
-      Patricia-Ann Que
-    location: "Canada"
-    followers: 2938
-    engagement: 3084
-    commentsToLikes: 0.086967
-    id: ck5ceykr7lyxw0i11v8xy3e0x
-    verified: false
-    hashtags: "#mood, #headwear, #pursuepretty, #longshorts"
+    hashtags: "#mykindofsilk, #mykaseme"
   - username: "beingjulia_"
     fullname: >-
       Julia
+    bio: >-
+      🎃 pre-teen teaching, hat wearing, fashion loving Canadian gal 💌 beingjuliablog@gmail.com 🤍 See my latest blog post below!
     location: "Canada"
-    followers: 6077
-    engagement: 2391
-    commentsToLikes: 0.198815
+    followers: 6885
+    engagement: 2180
+    commentsToLikes: 0.280734
     id: ck0vw213arr0n0i19hh5r731e
     verified: false
-    hashtags: "#myanthropologie, #anthropartner, #mejuri, #ltkunder100"
-  - username: "mr_romeo._07"
+    hashtags: "#gigipip, #hmxme, #liketkit, #ltkunder100"
+  - username: "sofsenisi"
     fullname: >-
-      Matthew James Warris
+      Sof senisi👑💖✨
+    bio: >-
+      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
     location: "Canada"
-    followers: 5481
-    engagement: 2283
-    commentsToLikes: 0.099175
-    id: ck8wfvl3fgbur0j78bynvwz1t
+    followers: 5984
+    engagement: 1955
+    commentsToLikes: 0.268103
+    id: ckap0fxu8q3qd0i781qxasrxq
     verified: false
-    hashtags: "#funny, #youtube, #halifax, #tiktokpakistan"
-  - username: "samhz"
+    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
+  - username: "aslam_azzi"
     fullname: >-
-      SAM HOSHIZAKI
+      R ⭕ W D Y
+    bio: >-
+      . ALHAMDULLILAAH 💯 . FASHION BLOGGER . KEEP SMILING 🥀 . ."𝖠𝗅𝗅 𝗆𝗒 𝗁𝖺𝗍𝖾𝗋𝗌 , 𝖠𝗌𝗌𝖾𝗆𝖻𝗅𝖾 𝗁𝖾𝗋𝖾 "🚀 🍃..
     location: "Canada"
-    followers: 11276
-    engagement: 2224
-    commentsToLikes: 0.043842
-    id: ck5q1x1uld76n0i11nycgzmfr
+    followers: 6794
+    engagement: 1897
+    commentsToLikes: 0.198088
+    id: ck9wi95sx19bv0j78s3u61tjk
     verified: false
-    hashtags: "#stayhome"
+    hashtags: "#instagram, #thrissur, #mallugram, #instagoodl"
+  - username: "melissalandry04"
+    fullname: >-
+      Mélissa Landry
+    bio: >-
+      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
+    location: "Canada"
+    followers: 5416
+    engagement: 1823
+    commentsToLikes: 0.151679
+    id: ck8talf48s8yo0j78f1l6fjr9
+    verified: false
+    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
+  - username: "harleens3khon"
+    fullname: >-
+      Harleen Sekhon
+    bio: >-
+      Toronto | @artbyharleensekhon Beauty • Fashion • Art Collab/PR 📧 harleensekhonofficial@gmail.com
+    location: "Canada"
+    followers: 2652
+    engagement: 2026
+    commentsToLikes: 0.135663
+    id: ckf5o291c0m3d0j232y4q9oxq
+    verified: false
+    hashtags: "#revolveme, #outfitideas, #fashionblogger, #mirrorselfie"
+  - username: "megmedeiros"
+    fullname: >-
+      Megan Medeiros
+    bio: >-
+      Unapologetic Fashion Enthusiast | Montréal
+    location: "Canada"
+    followers: 6478
+    engagement: 1149
+    commentsToLikes: 0.211934
+    id: ck9wfce55o8qs0j787h4x2c66
+    verified: false
+    hashtags: "#ardenelove, #ardenebabe, #mejuri, #mejuripartner"
+  - username: "rachelsavaunnah"
+    fullname: >-
+      RAE SAVAUNNAH • T.O BLOGGER
+    bio: >-
+      Lifestyle • Beauty • Fashion 📍🇨🇦 Let’s Collab👉🏿 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #beauty #fashion #lifestyle #boymom ⇣✨👇🏿👀👇🏿✨⇣
+    location: "Canada"
+    followers: 6256
+    engagement: 1151
+    commentsToLikes: 0.574121
+    id: ck5zz5d5vb4450i140detajo0
+    verified: false
+    hashtags: "#prettylittlething, #faith, #plt, #pltstyle"
+  - username: "where.is.naomi"
+    fullname: >-
+      Naomi Montgomery
+    bio: >-
+      Snaps of my Loves & Life✨ Floral Designer + Fashion + Interior Design + Lover of Travel. Figuring out my next steps as I go along🌸
+    location: "Canada"
+    followers: 6366
+    engagement: 1034
+    commentsToLikes: 0.231905
+    id: ck8t29jggyne00j781fsun3hq
+    verified: false
+    hashtags: ""
 ---

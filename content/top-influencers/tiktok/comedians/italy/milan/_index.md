@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Milan In 2020
 description: >-
-  Find top comedians TikTok influencers in Milan in 2020. Most popular hashtags: #greenscreen #comedy #challenge #bachata.
+  Find top comedians TikTok influencers in Milan in 2020. Most popular hashtags: #perte #foryou #comedia #duetto.
 platform: TikTok
+hits: 4
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "aurora.sheaves"
+  - username: "depetos"
     fullname: >-
-      aurora.sheaves
+      DePetos
+    bio: >-
+      🧞‍♀️DONA & LU 🧞 📍MILANO 🥵
     location: "Italy"
-    followers: 440015
-    engagement: 2674
-    commentsToLikes: 0.006087
-    id: ck9gtxf1eosi50j78dfdq9k4f
+    followers: 4596
+    engagement: 609
+    commentsToLikes: 0.010699
+    id: ckbf6j215w3vx0j23fif8b5on
     verified: false
-    hashtags: "#duetto, #comedia, #miamiafregene, #foryoupage"
-  - username: "antonrodriguezvas"
+    hashtags: "#foryou, #perte, #couple, #babycheneso"
+  - username: "eicharly1983"
     fullname: >-
-      Anton Rodriguez Vasquez
+      Ei Charly 🇵🇪🇮🇪
+    bio: >-
+      RICORDATE che essere DIVERSI non vuol di essere STRANI MA UNICI🍭 🌟BRILLA💯PRE☆
     location: "Italy"
-    followers: 2368
-    engagement: 873
-    commentsToLikes: 0.104868
-    id: ck9fyk2fhb4wa0j78p3zwig0v
+    followers: 5229
+    engagement: 630
+    commentsToLikes: 0.053735
+    id: ckcovwvlg9aqq0j23km5kzibf
     verified: false
-    hashtags: "#cocacola, #reaccionar, #crazy, #barcelona"
+    hashtags: "#latinoamerica, #crispychallenge, #respondiendocomentarios, #foryou"
   - username: "jenniferquijada1"
     fullname: >-
       Jennifer Quijada
+    bio: >-
+      🇸🇻🇮🇹 Latina Ridi che fa bene 🤗💕 GRACIAS POR 200K!✨ Follow me on IG 😘
     location: "Italy"
-    followers: 24536
-    engagement: 477
-    commentsToLikes: 0.026004
+    followers: 200400
+    engagement: 1158
+    commentsToLikes: 0.005876
     id: ckan2zt0m2u2i0i78cpvd3vpf
     verified: false
-    hashtags: "#quemepreguntan, #makeup, #clonesquad, #tiktoklatinos"
-  - username: "enmanuelfiguera"
+    hashtags: "#acne, #relaciones, #ragazze, #chirurgiaplastica"
+  - username: "nymo_"
     fullname: >-
-      Enmanuel Rafael Figuera Ruzza
+      🐼 𝓝𝓲𝓬𝓸𝓵𝓸’ 🐼
+    bio: >-
+      “Naimo”, non “Nimo”❗️ 👉🏼Instagram: mo_nico99👈🏼 GHESBORO🇮🇹 nymo@dreamerz.it
     location: "Italy"
-    followers: 4063
-    engagement: 369
-    commentsToLikes: 0.034115
-    id: ck85cqguw30vq0j78mlfdqkcu
+    followers: 148900
+    engagement: 2035
+    commentsToLikes: 0.016201
+    id: ckbl1zikqz0670j23n11ep1ty
     verified: false
-    hashtags: "#merdaaa, #restoacasa, #shrek, #pranks"
-  - username: "shoaib_jin"
+    hashtags: "#veneto, #fun, #sos, #funny"
+  - username: "naikeorilio"
     fullname: >-
-      shoaib_jin
+      naike
+    bio: >-
+      Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
     location: "Italy"
-    followers: 624880
-    engagement: 1160
-    commentsToLikes: 0.005351
-    id: ck97ymgdc06dp0j788xj4zcxb
+    followers: 44500
+    engagement: 550
+    commentsToLikes: 0.020430
+    id: ckbf2ror4pxe90j23nf0rp3ke
     verified: false
-    hashtags: "#difrent, #dance, #editing101, #likeforlike"
-  - username: "paolopeejay"
+    hashtags: "#gigieross, #fyp, #comedians, #parati"
+  - username: "sebastiangayicon"
     fullname: >-
-      paolopeejay
+      Gabriele Cantando Pascali
+    bio: >-
+      Attore, coreografo, NO OMOFOBIA 🌈 🌈 🌈🌈🌈 Instagram @gabrielecantandopas
     location: "Italy"
-    followers: 9077
-    engagement: 772
-    commentsToLikes: 0.022502
-    id: cka0l2u9mpamn0i78aspe631k
+    followers: 17500
+    engagement: 1920
+    commentsToLikes: 0.064601
+    id: ck9du54r6f06l0j78jnpgc6sp
     verified: false
-    hashtags: "#grigliata, #tvshow, #dogcat, #omgchallenge"
+    hashtags: "#lgbtcommunity, #scemenzatime, #discriminazione, #perte"
+  - username: "meriamamarir"
+    fullname: >-
+      Meriam Amarir
+    bio: >-
+      Certe volte sono simpatica🙁 📍Rome,Italy 9000? 🇲🇦🇮🇹🇩🇿 IG:meriam.amarir
+    location: "Italy"
+    followers: 8720
+    engagement: 1947
+    commentsToLikes: 0.036124
+    id: ckd193k3bqp9f0j238j2tscba
+    verified: false
+    hashtags: "#funny, #fun, #funnyvideos, #series"
+  - username: "yamadayoko"
+    fullname: >-
+      Yoko Yamada
+    bio: >-
+      provo a farti ridere 😁 standup comedy follow me on Ig 😎 if you want 🥺🌈
+    location: "Italy"
+    followers: 10600
+    engagement: 1133
+    commentsToLikes: 0.010248
+    id: ckb10jscdp3h40j232twgvhno
+    verified: false
+    hashtags: "#comingout, #standupcomedy, #giapponese, #quarantena"
+  - username: "treviso"
+    fullname: >-
+      André Custodio
+    bio: >-
+      Diversão, comédia, entretenimento confira nossos vídeos
+    location: "Italy"
+    followers: 1
+    engagement: 1166
+    commentsToLikes: 0.004822
+    id: ckc7q3mkyvnkc0j23j1nefeo8
+    verified: false
+    hashtags: "#lush, #lushitalia, #bathbomb, #lushtreviso"
   - username: "jhonnyhuamani84"
     fullname: >-
       Jhonny Huamani
+    bio: >-
+      🇮🇹 italia peru 🇵🇪 ❤
     location: "Italy"
-    followers: 2303
-    engagement: 629
-    commentsToLikes: 0.060707
+    followers: 3075
+    engagement: 459
+    commentsToLikes: 0.098849
     id: ckacifucj387v0i7812d0aqhd
     verified: false
-    hashtags: "#challenge, #bachatachallege, #bounce, #futbol"
-  - username: "nathalyhteran"
-    fullname: >-
-      Nathaly Terán
-    location: "Italy"
-    followers: 104577
-    engagement: 2567
-    commentsToLikes: 0.089771
-    id: ckan4zkutckjd0i78lloaxd9s
-    verified: false
-    hashtags: "#estate2020, #shein, #disney, #tiktochallenge"
-  - username: "antonrodriguezvas"
-    fullname: >-
-      Anton Rodriguez Vasquez
-    location: "Italy"
-    followers: 2368
-    engagement: 873
-    commentsToLikes: 0.104868
-    id: ck9fyk2fhb4wa0j78p3zwig0v
-    verified: false
-    hashtags: "#cocacola, #reaccionar, #crazy, #barcelona"
-  - username: "jhonnyhuamani84"
-    fullname: >-
-      Jhonny Huamani
-    location: "Italy"
-    followers: 2303
-    engagement: 629
-    commentsToLikes: 0.060707
-    id: ckacifucj387v0i7812d0aqhd
-    verified: false
-    hashtags: "#challenge, #bachatachallege, #bounce, #futbol"
+    hashtags: "#duetto, #duos, #tiktokitaly, #humor"
 ---

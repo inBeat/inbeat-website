@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Montreal In 2020
 description: >-
-  Find top architecture Instagram influencers in Montreal in 2020. Most popular hashtags: #architecture #sunset #space #canada.
+  Find top architecture Instagram influencers in Montreal in 2020. Most popular hashtags: #architecture #montreal #mtlmoments #quebec.
 platform: Instagram
+hits: 26
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 26 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "lashedarchitecture"
     fullname: >-
       la SHED architecture
+    bio: >-
+      Architecture - Montréal Facebook : la SHED architecture
     location: "Canada"
     followers: 11523
     engagement: 524
     commentsToLikes: 0.009384
     id: ck5qbsn39n7p80i11s7jhsjy2
     verified: false
-    hashtags: "#habitat67, #architecturepatrimoine, #ilesdelamadelaine, #fousdesiles"
+    hashtags: "#lashedarchitecture, #archdaily, #architecturelovers, #architecture"
+  - username: "tomstockdale48"
+    fullname: >-
+      tom stockdale
+    bio: >-
+      Montreal Arch 📷...photos are mine...if you're not checking my STORIES then you're only getting half the story☕☕😁 thomas.stockdale@sympatico.ca
+    location: "Canada"
+    followers: 15104
+    engagement: 286
+    commentsToLikes: 0.039918
+    id: ck13b1pg1t9a60i19ouz9oxgz
+    verified: false
+    hashtags: "#montr, #jj, #minimal, #ig"
   - username: "adrienwilliamsphotos"
     fullname: >-
       Adrien Williams
+    bio: >-
+      Architecture photographer From Montreal but now based in BC for ⛷ #adrienwilliams #architecturephotography
     location: "Canada"
     followers: 5884
     engagement: 445
     commentsToLikes: 0.008703
     id: ck5caj5lzdi9o0i1141pmt06f
     verified: false
-    hashtags: "#concreteandwood, #artiststudio, #woodstructure, #interiordesign"
+    hashtags: "#rogertaillibert, #quebec, #architecturephotography, #design"
+  - username: "veveordie"
+    fullname: >-
+      Vincent 🌈| Montreal 🇨🇦
+    bio: >-
+      Travel Photographer 51 Countries Visited🌎 veveordie@gmail.com
+    location: "Canada"
+    followers: 9383
+    engagement: 572
+    commentsToLikes: 0.022928
+    id: ck14lit5buwa20i199kkgn9fb
+    verified: false
+    hashtags: "#architecture, #qc, #nature, #montreallife"
+  - username: "levieuxmontreal"
+    fullname: >-
+      Le Vieux-Montréal
+    bio: >-
+      Quartier historique de Montréal | Compte officiel de la Société de développement commercial du Vieux-Montréal #vieuxmontreal #oldmontreal #gensduvieux
+    location: "Canada"
+    followers: 42893
+    engagement: 143
+    commentsToLikes: 0.010821
+    id: ck5bz7ul3qm0l0i115hqkxqk3
+    verified: false
+    hashtags: "#vieuxmontreal, #exploremontreal, #vieuxmtl, #montrealphoto"
   - username: "inayali"
     fullname: >-
       Ali
+    bio: >-
+      Montreal as-is: Architecture, travel and daily life ☕️ @mtlcafecrawl hi@inayali.com
     location: "Canada"
-    followers: 78717
-    engagement: 166
-    commentsToLikes: 0.008506
+    followers: 77035
+    engagement: 141
+    commentsToLikes: 0.008661
     id: ck5henpantvci0i11ob3kupjy
     verified: false
-    hashtags: "#shotoniphone11pro, #lincolnicehotel, #lincolnquebecescapade, #mkz"
+    hashtags: "#mkz, #shotoniphone11pro, #lincolnicehotel, #lincolnquebecescapade"
+  - username: "yyzreflections"
+    fullname: >-
+      Kristel
+    bio: >-
+      ⁣Aviation & travel content creator ✈️ 🧳⁣⁣⁣ 📍YYZ⁣⁣⁣ 📩kristel@yyzreflections.com
+    location: "Canada"
+    followers: 8475
+    engagement: 647
+    commentsToLikes: 0.148504
+    id: ck5ckdv4xwo3d0i11zjctno7v
+    verified: false
+    hashtags: "#instaplane, #aircraft, #planespotting, #spotting"
+  - username: "emmalindsayyy"
+    fullname: >-
+      Emma Lindsay
+    bio: >-
+      Artist & plant lover 🌿 #NaturalRedhead 25 📍 Montreal @emmalindsayart @gingerweddings @emma.vintagestudio www.emmalindsayartist.com
+    location: "Canada"
+    followers: 12284
+    engagement: 748
+    commentsToLikes: 0.015262
+    id: ck9wdoqwtgke20j78r8nc642b
+    verified: false
+    hashtags: "#redhairgirl, #summerbod, #plants, #redhead"
   - username: "melika.dez"
     fullname: >-
       MELIKA DEZ
+    bio: >-
+      MTL based international Photographer & Art Director DM or Email to buy prints. . . @fubizstudio Talent @plieproject Photographer 📍MONTREAL
     location: "Canada"
-    followers: 16455
-    engagement: 562
-    commentsToLikes: 0.028585
+    followers: 21541
+    engagement: 434
+    commentsToLikes: 0.020895
     id: ck14l4t7qsuv00i19uaiyk1zb
     verified: false
-    hashtags: "#portrait, #freedoflondon, #alonzoking, #architecture"
-  - username: "prissworldwide"
-    fullname: >-
-      Prisselda Voltaire
-    location: "Canada"
-    followers: 2503
-    engagement: 1770
-    commentsToLikes: 0.078441
-    id: ck8swql75ewbw0j785kkimjt2
-    verified: false
-    hashtags: "#bathroom, #facepaint, #voiceofhair, #face"
+    hashtags: "#maledancer, #melikadezphotography, #fashionshoot, #giambattistavalli"
   - username: "travel_with_steve"
     fullname: >-
       Steve Pépin
+    bio: >-
+      All pics shot by me, or of me. 🏠 Montréal, Canada. Work in advertising. Don’t look at this profile if you hate turquoise lakes😬
     location: "Canada"
-    followers: 11650
-    engagement: 1181
-    commentsToLikes: 0.168841
+    followers: 11804
+    engagement: 1108
+    commentsToLikes: 0.215406
     id: ck5ce14rik4yj0i11pll4cuxx
     verified: false
-    hashtags: "#bushwick, #manateesprings, #newyorkarea, #cobreart"
-  - username: "quentingreco"
-    fullname: >-
-      Quentin Greco
-    location: "Canada"
-    followers: 12143
-    engagement: 1486
-    commentsToLikes: 0.017005
-    id: ck5q5evwhskkh0i11x458cdr2
-    verified: false
-    hashtags: "#actor, #trust, #stallfull, #cironatime"
-  - username: "kamouchefly"
-    fullname: >-
-      Cαmille ♡
-    location: "Canada"
-    followers: 19947
-    engagement: 982
-    commentsToLikes: 0.012656
-    id: ckaoxzwdhfgyp0i78uocdov14
-    verified: false
-    hashtags: "#umithesam, #idealofsweden, #thankful, #instatravel"
-  - username: "contrailsphotography"
-    fullname: >-
-      Matthew Lee
-    location: "Canada"
-    followers: 76640
-    engagement: 449
-    commentsToLikes: 0.014291
-    id: ck14klj2oq3rc0i19d2x5yi9x
-    verified: false
-    hashtags: "#evening, #midcentury, #e175, #minneapolis"
-  - username: "allo.melo"
-    fullname: >-
-      Mélodie Bouchard
-    location: "Canada"
-    followers: 6257
-    engagement: 861
-    commentsToLikes: 0.060797
-    id: ck5zxc8t07qnd0i142l9xzqgd
-    verified: false
-    hashtags: "#feminist, #loveyourself, #optimistic, #flower"
+    hashtags: "#montrealcity, #latergram, #nature, #traveling"
 ---

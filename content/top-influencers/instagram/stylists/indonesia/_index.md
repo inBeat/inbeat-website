@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top stylists Instagram influencers in Indonesia in 2020. Most popular hashtags: # #stayhome #bali #balilife.
+  Find top stylists Instagram influencers in Indonesia in 2020. Most popular hashtags: #ootd #bali #aesthetics.
 platform: Instagram
+hits: 99
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 99 Instagram influencers like this in Indonesia for you to work with.
 profiles:
+  - username: "yanastrizhh"
+    fullname: >-
+      Яна Стриж
+    bio: >-
+      PHOTOGRAPHER/VIDEO MAKER/STYLIST Now in Bali 📿 Моя работа проста, я смотрю на Свет.
+    location: "Indonesia"
+    followers: 19308
+    engagement: 558
+    commentsToLikes: 0.028831
+    id: ck6tubu8ffg0u0j7119yx4mmc
+    verified: false
+    hashtags: "#balimodelagency, #baliphotographers"
+  - username: "sveta_varganova"
+    fullname: >-
+      Светлана Варганова
+    bio: >-
+      💎Эксперт по красоте💄@varganova_stylist 💎Путешественник 🌎✈ 💎 Модель 💋 💎 Организатор девичников по всему миру🎀 📍BALI 💬 Пишите WhatsApp +7 906 194 39 09
+    location: "Indonesia"
+    followers: 18136
+    engagement: 385
+    commentsToLikes: 0.031820
+    id: ck15s4hjib6ks0i19a6rmvlu5
+    verified: false
+    hashtags: "#bali, #baliphotography, #balilife, #baliubud"
+  - username: "ijulianmatthew"
+    fullname: >-
+      Julian | Men’s OOTD 🕶
+    bio: >-
+      🇮🇩 | #urbanstylegents A guy who gave retro urban style tips 🕶 Insta stylist 🎥TikTok: @ijulianmattheww 🎙Anchor.fm: JulianUncensored ▶️NEW VIDEO 👇🏻
+    location: "Indonesia"
+    followers: 19820
+    engagement: 266
+    commentsToLikes: 0.188707
+    id: ck5chgeuxqq740i11p6ooozaw
+    verified: false
+    hashtags: "#folkaland, #buylocal, #localbrandindonesia, #menwithstyle1"
   - username: "nova.arioo"
     fullname: >-
-      nova ario 📍 MLG
+      nova ario
+    bio: >-
+      Journey trough on odyssey of fashion & food stylist Business Inquiries Only DM📌 MLG
     location: "Indonesia"
-    followers: 32480
-    engagement: 224
-    commentsToLikes: 0.242680
+    followers: 79868
+    engagement: 284
+    commentsToLikes: 0.033238
     id: ck9wd95dwendd0j78uy3n422r
     verified: false
-    hashtags: "#dirumahaja"
-  - username: "polisandraa"
-    fullname: >-
-      Polina Bokova
-    location: "Indonesia"
-    followers: 20040
-    engagement: 124
-    commentsToLikes: 0.081744
-    id: ck13cx8hd2m170i19z6m8oy66
-    verified: false
-    hashtags: "#catalogue, #bali, #jupiter, #balilife"
-  - username: "pashnevaeo"
-    fullname: >-
-      Evgenia Pashneva
-    location: "Indonesia"
-    followers: 24872
-    engagement: 500
-    commentsToLikes: 0.015459
-    id: ck55ody1o86310i11hg1fk03o
-    verified: false
-    hashtags: "#nike, #ubudbali, #balilivin, #baliblogger"
-  - username: "bhavyagowda.07"
-    fullname: >-
-      Bhavya gowda
-    location: "Indonesia"
-    followers: 63841
-    engagement: 387
-    commentsToLikes: 0.003669
-    id: ck0vwa15esrqi0i19rowzzaq6
-    verified: false
-    hashtags: "#dedication, #fashionista, #throwback, #consistancy"
-  - username: "lelliksolnce"
-    fullname: >-
-      lelliksolnce
-    location: "Indonesia"
-    followers: 2980
-    engagement: 2059
-    commentsToLikes: 0.122836
-    id: ckaoz26p6k1vw0i78013zuwsc
-    verified: false
-    hashtags: ""
+    hashtags: "#antiribet, #brandambasadoryamaha, #brandambasador, #yamahafreego"
   - username: "brigidalourdes"
     fullname: >-
       🌈 Welcome to my dreamy world 🌈
+    bio: >-
+      Founder @iwearlourdes Creative Director🌻Fashion Stylist @misslourdes_portfolio Set Designer 🌸 Buy or Rental : @missaudrey_wardrobe 🌼 Work: Email/DM
     location: "Indonesia"
-    followers: 26515
-    engagement: 326
-    commentsToLikes: 0.027031
+    followers: 26138
+    engagement: 87
+    commentsToLikes: 0.109162
     id: ck0tvg84tb7tf0i19npgjwh98
     verified: false
-    hashtags: "#jogjawithdp, #instadaily, #bestieforlife, #eiffeltower"
+    hashtags: "#fashiondesigner, #interior, #wanderlust, #hotelreviewer"
   - username: "genunerd"
     fullname: >-
       W I S N U  G E N U
+    bio: >-
+      My Androgynous Quirky Rebellious Chic Visual Diary's ★ Fashion & Lifestyle - Stylist VIVA LA TAUREAN! ♉ 📩 gnugyness@gmail.com
     location: "Indonesia"
-    followers: 41210
-    engagement: 141
-    commentsToLikes: 0.031832
+    followers: 40342
+    engagement: 175
+    commentsToLikes: 0.018123
     id: ck139fhrjl1hk0i197v73j2xs
     verified: false
-    hashtags: "#architecture, #outfit, #tiktok, #shotoniphone"
-  - username: "adimasreynard"
+    hashtags: "#tbt, #labuanbajo, #bali, #shotoniphone"
+  - username: "rizkyadityarahmad"
     fullname: >-
-      Adimas Reynard
+      Rizky Aditya Rahmad
+    bio: >-
+      (Thnx guys for following me this myreal account) Fashion Designer, fashion stylist ,
     location: "Indonesia"
-    followers: 5769
-    engagement: 520
-    commentsToLikes: 0.014838
-    id: ckaornlydo0x30i785owiy0fg
+    followers: 39462
+    engagement: 199
+    commentsToLikes: 0.012829
+    id: ck15rk0uh8avu0i19otfteq3j
     verified: false
-    hashtags: ""
-  - username: "_ekajamaludin"
+    hashtags: "#luvs, #huekkssss, #oplaschallenge, #mood"
+  - username: "bellyiverzon"
     fullname: >-
-      Eka Jamaludin
+      Belly Iverzon 벨리 이벌존
+    bio: >-
+      Fashion Stylist 📲Endrose/Pp 👉🏻 Line : belly_iverzon | follow 👉🏻 @temsi.id @bellzinstyle @feminice.id
     location: "Indonesia"
-    followers: 29402
-    engagement: 217
-    commentsToLikes: 0.019080
-    id: ck0tw8aqdecd70i19x100i4dz
+    followers: 214485
+    engagement: 128
+    commentsToLikes: 0.047376
+    id: ck13902wniv7z0i19xdwwy945
     verified: false
-    hashtags: "#hijablookbook, #majorthrowback, #rmoday18, #bucket"
-  - username: "hijabii.tikky"
+    hashtags: "#workftomhome, #virtualphotoshoot, #stayathome, #fdphotography2020"
+  - username: "christiotanada"
     fullname: >-
-      Hijab stylist   ʕ•ᴥ•ʔ
+      𝐭𝐢𝐨.
+    bio: >-
+      fashion stylist @bprod_jkt @portiofolio / #portiofolio
     location: "Indonesia"
-    followers: 21240
-    engagement: 239
-    commentsToLikes: 0.002132
-    id: ck5zimnv3fzty0i14eanb4bv9
+    followers: 23236
+    engagement: 568
+    commentsToLikes: 0.006988
+    id: ck0w6q9059sb30i194417s023
     verified: false
-    hashtags: ""
+    hashtags: "#ootd, #bali, #tripbarengtio, #storyaboutselfhealing"
+  - username: "saviragunawan"
+    fullname: >-
+      Savira Gunawan
+    bio: >-
+      I‘m a fashion stylist / muse TiKtok @dancesistright @styledbyraa @ohbeachpls 🌟✨⭐️ Managed by @hashnetwork.co (+62)87888017977 (Chentya)
+    location: "Indonesia"
+    followers: 14509
+    engagement: 502
+    commentsToLikes: 0.061823
+    id: ck0vv4vgenk3x0i19p8rhiqpy
+    verified: false
+    hashtags: "#fashion, #lookbookindonesia, #softgirlaesthetic, #amongus"
 ---

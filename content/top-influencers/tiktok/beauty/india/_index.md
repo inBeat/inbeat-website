@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In India In 2020
 description: >-
-  Find top beauty TikTok influencers in India in 2020. Most popular hashtags: #duet #foryoupage #doubleexposure #cookathome.
+  Find top beauty TikTok influencers in India in 2020. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
 platform: TikTok
+hits: 1044
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 1044 TikTok influencers like this in India for you to collaborate.
 profiles:
-  - username: "ss_sonu751"
+  - username: "ss_smita751"
     fullname: >-
       s_smita
+    bio: >-
+      🔥jajpur🔥 beauty is not important bt beautiful heart ❤is most important😊
     location: "India"
-    followers: 33671
-    engagement: 2583
-    commentsToLikes: 0.046927
+    followers: 37900
+    engagement: 2242
+    commentsToLikes: 0.057170
     id: ckae5ai666gxo0i78iby7v0mp
     verified: false
-    hashtags: "#duet, #foryoupage, #doubleexposure"
+    hashtags: "#foryoupage, #foryou, #jajpur, #odisha"
+  - username: "swatiswati910"
+    fullname: >-
+      Swati Swati
+    bio: >-
+      I'm simple girl.simplicity is my beauty secret.plz support me❤️love you all❤️😘
+    location: "India"
+    followers: 9182
+    engagement: 4227
+    commentsToLikes: 0.131686
+    id: ckbbmtjf9ax330j236cxnaquz
+    verified: false
+    hashtags: "#foryoupage, #supportplz, #tiktokindia, #tiktok"
+  - username: "ritusharma8748"
+    fullname: >-
+      Ritu Sharma
+    bio: >-
+      Himachal...place of natural beauty 😍
+    location: "India"
+    followers: 23700
+    engagement: 2514
+    commentsToLikes: 0.110717
+    id: ckbboz4ewcw6x0j23199o8jhm
+    verified: false
+    hashtags: ""
+  - username: "radhikasaxena_official6"
+    fullname: >-
+      Radhika Saxena
+    bio: >-
+      Model & Actress | Win maximum no of beauty titles,Official Account radhikasaxena
+    location: "India"
+    followers: 263700
+    engagement: 1429
+    commentsToLikes: 0.034582
+    id: ckbljif6wckdr0j233z5ogx1f
+    verified: false
+    hashtags: ""
+  - username: "bhagyashriraut143"
+    fullname: >-
+      👑Bhagyashri Raut👑
+    bio: >-
+      Beauty is not important but beautiful heart is most important ❤
+    location: "India"
+    followers: 6131
+    engagement: 3880
+    commentsToLikes: 0.028496
+    id: ckbbg7oww4vj90j2326nkb0d2
+    verified: false
+    hashtags: "#sad, #indiatiktok, #my, #tiktokindia"
   - username: "grisha92"
     fullname: >-
       Greeshma Nair
+    bio: >-
+      live n let live❤️❤️ not at all a beauty queen😎
     location: "India"
-    followers: 4464
-    engagement: 1820
-    commentsToLikes: 0.040540
+    followers: 4450
+    engagement: 1813
+    commentsToLikes: 0.038007
     id: ck8rr42gisvuc0j781qxs5hzg
     verified: false
-    hashtags: "#nazriya, #dimplelove, #ezhimalapoonchola, #kalippu"
-  - username: "aisuksd"
+    hashtags: "#advait, #thirunelveli, #youthwing, #gullyboy"
+  - username: "myself_riya"
     fullname: >-
-      kunjuss
+      RiyaBardhan
+    bio: >-
+       Beauty wid Brain 😇 #KOLKATA #BENGALI do follow on Instagram n You Tube😎
     location: "India"
-    followers: 42797
-    engagement: 2836
-    commentsToLikes: 0.019477
-    id: cka6i8moyprjk0i78mj4vyvuu
+    followers: 357800
+    engagement: 974
+    commentsToLikes: 0.036395
+    id: ckbknllukhkrr0j23xnpx8km8
     verified: false
-    hashtags: "#kl14, #kasrod, #sparklingmemories, #doubleexposure"
-  - username: "renurathod30"
-    fullname: >-
-      Renu Rathod
-    location: "India"
-    followers: 401959
-    engagement: 2001
-    commentsToLikes: 0.019886
-    id: ckad7nggo50zj0i78etxz5smo
-    verified: false
-    hashtags: "#attitiude, #confusion, #duet, #azadi"
+    hashtags: "#myselfriya, #foryourpage, #tiktokindia, #voiceeffects"
   - username: "prachimaulingker"
     fullname: >-
       Prachi Maulingker
+    bio: >-
+      Fashion, Beauty & Lifestyle blogger👗👡👜 Instagram 👉Prachi_maulingker
     location: "India"
-    followers: 3678
-    engagement: 1769
-    commentsToLikes: 0.088989
+    followers: 3742
+    engagement: 1404
+    commentsToLikes: 0.083413
     id: ck9ev0095g1dy0j78sh3zvlvg
     verified: false
-    hashtags: "#tiktok, #payal, #sareechallenge, #sareelook"
-  - username: "shaiknazzu"
+    hashtags: "#viral, #switchmusic, #sharethecare, #champibeats"
+  - username: "poonamchekhaliya6"
     fullname: >-
-      ❤nazzu❤
+      poonamchekhaliya
+    bio: >-
+      ❤ poonam ❤ beauty 👸heir 💇makeup💄😍Artist 😍🎂 15 August 🎂
     location: "India"
-    followers: 34244
-    engagement: 1415
-    commentsToLikes: 0.099583
-    id: ck9r3n5r8qt590j78lgjkce4z
+    followers: 23000
+    engagement: 1894
+    commentsToLikes: 0.022866
+    id: ckbrb8fifpdvu0j23ipy20eab
     verified: false
-    hashtags: "#maheshbabu, #clearingdrafts, #pelliendha, #photogallery"
-  - username: "nehaupadhyay4083"
+    hashtags: "#poonam, #fakesmile, #fakechat, #fakelove"
+  - username: "arati_hirakki"
     fullname: >-
-      Neha Upadhyay
+      A@ru
+    bio: >-
+      Belgaum Beauty🧚 Instagram: @arati_hirakki Belgaum Karnataka
     location: "India"
-    followers: 1510643
-    engagement: 870
-    commentsToLikes: 0.021078
-    id: ck8ttzog0s7ry0j782qnsedwn
+    followers: 58400
+    engagement: 1458
+    commentsToLikes: 0.065467
+    id: ckbeosszl55gb0j23nhwurxnr
     verified: false
-    hashtags: "#cameracontrol, #duet, #coolgirl"
-  - username: "madhumitabasak3"
-    fullname: >-
-      Madhumita Basak
-    location: "India"
-    followers: 138624
-    engagement: 1309
-    commentsToLikes: 0.035815
-    id: ck8ncnkn2f6gk0j78ux1lnn49
-    verified: false
-    hashtags: "#comment, #lovinghusband, #husbandwife, #lovebirds"
-  - username: "charumistry28"
-    fullname: >-
-      charumistry ❤
-    location: "India"
-    followers: 177540
-    engagement: 3576
-    commentsToLikes: 0.012044
-    id: ck9pmi7oj9mlg0j784tm3eb4b
-    verified: false
-    hashtags: "#cookathome, #artchallege, #thankyou, #favour"
-  - username: "gymgirls_88"
-    fullname: >-
-      miss u jass/maan
-    location: "India"
-    followers: 93424
-    engagement: 1840
-    commentsToLikes: 0.018340
-    id: ck8fb1jji52eg0j78fwlyq5yb
-    verified: false
-    hashtags: "#tiktokpunjab, #usa, #maanboy, #funnyvideos"
+    hashtags: "#15svines, #1million, #foryoupage, #fun"
 ---

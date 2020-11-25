@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Medellín In 2020
 description: >-
-  Find top fitness Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #fitness #bogota #fashion.
+  Find top fitness Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #fitness #colombia #fitnessmotivation.
 platform: Instagram
+hits: 54
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 54 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
-  - username: "estefigomez11"
+  - username: "carolinagiraldofitness"
     fullname: >-
-      Estefania Gomez Actriz
+      Caro ♥ ᶫᵒᵛᵉ
+    bio: >-
+      🧎🏽‍♀️|God's warrior 👏🏼 👩🏼‍🎓|Business administrator 🏋🏼‍♂️|Fitness woman 🍑 🏆|Embassador @megaplexstars ✰ 🛍| @carofit_tips_store 🛒 👙|@carola__swimwear
     location: "Colombia"
-    followers: 1291321
-    engagement: 216
-    commentsToLikes: 0.007074
-    id: ck6ub5afg7jsm0j71nm0m1zrp
-    verified: true
-    hashtags: "#healthylifestyle, #medelli, #mujer, #like4like"
-  - username: "marrana.eats"
-    fullname: >-
-      MARRANA Eats
-    location: "Colombia"
-    followers: 21232
-    engagement: 490
-    commentsToLikes: 0.539433
-    id: ck5ch6qvwq7de0i11f0c2mnfo
+    followers: 44459
+    engagement: 137
+    commentsToLikes: 0.010608
+    id: ck9wg45rgrtg50j78f4bdue94
     verified: false
-    hashtags: "#frenchtoast, #foodaholic, #marrana, #alitas"
-  - username: "danicalo19"
+    hashtags: "#balenciaga, #woman, #bodybuilding, #yomequedoencasa"
+  - username: "melissalopez302"
     fullname: >-
-      Fitfitfit
+      Melylopez
+    bio: >-
+      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
     location: "Colombia"
-    followers: 200802
-    engagement: 141
-    commentsToLikes: 0.025997
-    id: ck5qck0ebqyis0i11qv5ut1pj
+    followers: 7273
+    engagement: 2360
+    commentsToLikes: 0.027460
+    id: ck5c7ld9p7qsh0i11qryq9pd1
     verified: false
-    hashtags: "#monday, #sabado, #picoftheday, #food"
-  - username: "david_artpe"
+    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
+  - username: "yo_soyandre"
     fullname: >-
-      David Peñalver Art
+      Andrea Zapata
+    bio: >-
+      🇨🇴medellin-colombia Venta de ropa deportiva 🏋🏻‍♀️#procesofitness 👠#Model 📈#coworking 📱#entretenimiento De la vida solo espero poder disfrutarla
     location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
+    followers: 22654
+    engagement: 293
+    commentsToLikes: 0.048783
+    id: ckf5pq8526xrn0j23sie432uk
     verified: false
-    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
-  - username: "catagomezpi"
+    hashtags: "#gym, #medellin, #sabanetaantioquia, #sabaneta"
+  - username: "rolando_posada"
     fullname: >-
-      𝙲𝚊𝚝𝚊 𝙶𝚘𝚖𝚎𝚣 𝙿𝚒𝚎𝚍𝚛𝚊𝚑𝚒𝚝𝚊
+      Rolando A. Posada F.
+    bio: >-
+      Medicina Interna. Nutrición/Farmacología/Fisiología . rolandoposada2004@gmail.com . @sindy_mena 👰🏻💍 .
     location: "Colombia"
-    followers: 794299
-    engagement: 56
-    commentsToLikes: 0.014432
-    id: ck5zqlj4yutpl0i14p64y3c36
-    verified: true
-    hashtags: "#bebe, #drenajelinfatico, #buenasnoches, #masdeloqueso"
-  - username: "steffyofficial"
-    fullname: >-
-      Steffy Moreno
-    location: "Colombia"
-    followers: 374862
-    engagement: 398
-    commentsToLikes: 0.027847
-    id: ck6udohjom9rk0j71tlc3a4qe
+    followers: 9580
+    engagement: 515
+    commentsToLikes: 0.053613
+    id: ck5c102oqu6nm0i11nt7jqqw1
     verified: false
-    hashtags: "#tbt, #practicesocialdistancing, #practicadistanciamientosocial"
-  - username: "caro_toro"
+    hashtags: "#expofitness, #fitness, #farmacolog, #fitnesslife"
+  - username: "varillastrainer"
     fullname: >-
-      Carolina Toro Raigosa
+      Lic. Andres Varillas ♾💚
+    bio: >-
+      Nutricionista- Dietista | Mi meta es que aprendas a comer para toda la vida. Embajador @action.fitness 🍳Asesorias online: andresvarillas19@gmail.com
     location: "Colombia"
-    followers: 179998
-    engagement: 253
-    commentsToLikes: 0.015423
-    id: ck0w3tqyxv87p0i19cy9ozkrz
+    followers: 185803
+    engagement: 136
+    commentsToLikes: 0.030628
+    id: ck13a54ypooiw0i19227mdwpq
     verified: false
-    hashtags: "#yomequedoencasa, #stayhome, #tb"
-  - username: "alejo_arse"
+    hashtags: "#medellin, #pesas, #nutricionista, #fitness"
+  - username: "cristianarangoo"
     fullname: >-
-      Alejandro Ramirez 케빈
+      Cristian Arango
+    bio: >-
+      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
     location: "Colombia"
-    followers: 5882
-    engagement: 794
-    commentsToLikes: 0.010973
-    id: ck15u0bc2kskd0i19j38kqe3o
+    followers: 55704
+    engagement: 473
+    commentsToLikes: 0.028478
+    id: ck8tc6vqoyhzc0j78e599429f
     verified: false
-    hashtags: "#chevy, #gymlife, #landscape, #iloveyou"
+    hashtags: "#workout, #guy, #progreso, #men"
+  - username: "jhulianaorozcog"
+    fullname: >-
+      Jhuliana Orozco💟
+    bio: >-
+      🗣🎥Comunicación social Model - Gym lover💪🏼 P O S I T I V E👀 M I N D🧠✨ 🇨🇴Medellín
+    location: "Colombia"
+    followers: 51317
+    engagement: 412
+    commentsToLikes: 0.024490
+    id: ckf5mh82wtsk40j23oph0ln3h
+    verified: false
+    hashtags: "#modelo, #photography, #instagram, #mujer"
+  - username: "nanaarenalesbga"
+    fullname: >-
+      Nana Arenales
+    bio: >-
+      Amante al Deporte - Mami😇 - Bianco 🐶 Propietaria de @narenabynana1 Influencer BGA Embajadora @honda_dream_ @spinningcentergym
+    location: "Colombia"
+    followers: 66153
+    engagement: 52
+    commentsToLikes: 0.026286
+    id: ck6udri35mqc20j710kcwubmo
+    verified: false
+    hashtags: "#barranquilla, #colombia, #nanaarenales, #homeworkout"
   - username: "justincaruso"
     fullname: >-
       Justin Caruso
+    bio: >-
+      Over a decade teaching AcroYoga, Thai massage & yoga intensives, retreats and teacher trainings around the world. Founder @modernthaischool 📍Medellin
     location: "Colombia"
-    followers: 21045
-    engagement: 204
-    commentsToLikes: 0.064485
+    followers: 20469
+    engagement: 189
+    commentsToLikes: 0.065966
     id: ck5hggcoe2mgy0i11ypi3zbuh
     verified: false
-    hashtags: "#happybirthday, #together, #riodejaneiro, #brazil"
-  - username: "boykaortiz"
+    hashtags: "#brasil, #acroyoga, #medellin, #yogacolombia"
+  - username: "dr.tonni"
     fullname: >-
-      BOYKA ORTIZ®
+      GORDO PERO CHIMBA MI AMOR
+    bio: >-
+      🎥 Travel | Comedy | Lifestyle Toditos ▶️ Tik Tok: dr.tonni 2.2 M ❌ NO Twitter 📍 Medellin, Colombia ❤️🇨🇴 📩 dr.tonni.publicidad@gmail.com
     location: "Colombia"
-    followers: 70786
-    engagement: 194
-    commentsToLikes: 0.029804
-    id: ck55prkpcb7jh0i11lmkmku91
-    verified: true
-    hashtags: "#control, #superball, #japon, #lower"
+    followers: 1483203
+    engagement: 762
+    commentsToLikes: 0.009014
+    id: ck8wg6z05gu3j0j78mcrw9qau
+    verified: false
+    hashtags: "#medellin, #gains, #abs, #training"
 ---

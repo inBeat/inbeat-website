@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top fitness TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #stayhome #challenge #dance #quarantine.
+  Find top fitness TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fitness #fyp #foryou #dubai.
 platform: TikTok
+hits: 38
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 38 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "bodybuilder1061"
     fullname: >-
       🇦🇪Salman1061🇧🇩
+    bio: >-
+      gym life fitness I am from Bangladesh now I am in Dubai 💪🇧🇩🇧🇩🇧🇩🇧🇩💪💪💪
     location: "United Arab Emirates"
-    followers: 59478
-    engagement: 1821
-    commentsToLikes: 0.038221
+    followers: 97300
+    engagement: 1439
+    commentsToLikes: 0.037453
     id: cka6oq110gh7p0i78i5zjee0q
     verified: false
-    hashtags: "#bondhumoholuae"
-  - username: "sonimehta43"
+    hashtags: "#bangladesh, #lebanonbd, #dubaitiktokgirlx5, #pepsichallenge"
+  - username: "kriskrsticfit"
     fullname: >-
-      soni mehta
+      Kristina Krstic
+    bio: >-
+      Certified Fitness Trainer 📍 Abu Dhabi 🇦🇪
     location: "United Arab Emirates"
-    followers: 34653
-    engagement: 1785
-    commentsToLikes: 0.045898
-    id: ckaclzcb5hnws0i78fao02xg2
+    followers: 3944
+    engagement: 1246
+    commentsToLikes: 0.054452
+    id: ckav3sshka5bx0j23ub63259j
     verified: false
-    hashtags: "#howtodresslike, #enisonibanke, #misspooja, #partnerdancing"
+    hashtags: "#abs, #fatloss, #personaltrainerabudhabi, #fitness"
+  - username: "wenjiajess"
+    fullname: >-
+      Jessica
+    bio: >-
+      🇦🇪🇦🇺🇨🇳 Travel | Fitness | Fashion IG: WENJIAJESSICA
+    location: "United Arab Emirates"
+    followers: 22800
+    engagement: 649
+    commentsToLikes: 0.037463
+    id: ckbqintsr3se20j23v6v7w46d
+    verified: false
+    hashtags: "#fitness, #healthy, #firgirl, #stayhealthy"
+  - username: "hulken_loui"
+    fullname: >-
+      Aneesh P Louiz
+    bio: >-
+      തൃശൂർക്കാരൻ 😎 Certified Fitness trainer Level 2&3 UAE 🇦🇪 A❤A
+    location: "United Arab Emirates"
+    followers: 191600
+    engagement: 770
+    commentsToLikes: 0.086176
+    id: ckcei4d95q6o80j23k4twk3kv
+    verified: false
+    hashtags: "#tiktok, #foryoupage, #ipl, #tamil"
   - username: "yogeshsawant2406"
     fullname: >-
       Yogesh Sawant
+    bio: >-
+      Fitness is Motivation For Better Life #fitness #teamindia #teamdubai Be Your Se
     location: "United Arab Emirates"
-    followers: 11825
-    engagement: 814
-    commentsToLikes: 0.020099
+    followers: 11800
+    engagement: 1273
+    commentsToLikes: 0.020904
     id: ck9feiy5ft6w70j7850io3c2t
     verified: false
-    hashtags: "#fitnessindia, #viralvideo, #tiktoklover, #youtube"
-  - username: "marijanikolicmari"
+    hashtags: "#foryoupage, #everydayme, #homeworkout, #wipeitdown"
+  - username: "sonimehta43"
     fullname: >-
-      Marija Nikolic Mariz
+      soni mehta
+    bio: >-
+      Choreographer, Fitness Instructor & ZinSoni DM for collaborations In Dubai🇦🇪
     location: "United Arab Emirates"
-    followers: 2032
-    engagement: 428
-    commentsToLikes: 0.090033
-    id: ckamrtnpmn9ea0i78g7q6bqoi
+    followers: 114600
+    engagement: 1095
+    commentsToLikes: 0.018835
+    id: ckaclzcb5hnws0i78fao02xg2
     verified: false
-    hashtags: "#inthehousebored, #legsworkout, #absworkouts, #abschallenge"
-  - username: "lanabeautyicon"
+    hashtags: "#punjaban, #foryourpage, #foryou, #foryouall"
+  - username: "robjsharpe"
     fullname: >-
-      Lanabeautyicon
+      Robert Sharpe
+    bio: >-
+      Fitness | fashion | Lifestyle ⬇️FREE Train Plan ⬇️
     location: "United Arab Emirates"
-    followers: 2222
-    engagement: 763
-    commentsToLikes: 0.031564
-    id: ckacb4952hbru0i78e7ltkhfa
+    followers: 19300
+    engagement: 343
+    commentsToLikes: 0.015058
+    id: ckbfgat83bevo0j23ueqingf2
     verified: false
-    hashtags: "#carlover, #home, #goodnight, #tiffani"
-  - username: "hambees__143"
+    hashtags: "#fitnesstips, #challenge, #tiktokuk, #trainingtips"
+  - username: "diimmi"
     fullname: >-
-      Fitness Freak
+      Di Immi
+    bio: >-
+      Uzbekistan 🇺🇿 x UAE 🇦🇪 للإعلانات Aeebeh@Trifidmedia.ae 📧 Snap: di_immi
     location: "United Arab Emirates"
-    followers: 2214
-    engagement: 1009
-    commentsToLikes: 0.003361
-    id: ck8qh5id53ok00j78reeafkcv
-    verified: false
-    hashtags: "#corona, #vacationmood, #missing, #personaltrainer"
-  - username: "coachnic_"
+    followers: 705700
+    engagement: 947
+    commentsToLikes: 0.024284
+    id: ckd177o3dodwf0j230jo0j3sc
+    verified: true
+    hashtags: "#fitness, #diimmi, #fyp, #foryou"
+  - username: "cronygirl0"
     fullname: >-
-      Nicolas St-Maurice
+      @cronygirl
+    bio: >-
+      music lover ❤️
     location: "United Arab Emirates"
-    followers: 21205
-    engagement: 143
-    commentsToLikes: 0.013594
-    id: ck9fwsgiy2x2f0j7881rn2fvn
+    followers: 2868
+    engagement: 1552
+    commentsToLikes: 0.033281
+    id: ckdcedfdvk3200j23u8u7rb30
     verified: false
-    hashtags: "#benmendy, #start, #england, #explosive"
-  - username: "syedthegreat786"
+    hashtags: "#fun, #energetic, #dancechallenge, #fitnessworkout"
+  - username: "train_with_dmac"
     fullname: >-
-      Syed
+      Dave McCall
+    bio: >-
+      I help people get the body they’ve always wanted
     location: "United Arab Emirates"
-    followers: 13158
-    engagement: 1815
-    commentsToLikes: 0.105260
-    id: ckaif9ingvxo30i783z6q3a2j
+    followers: 6389
+    engagement: 940
+    commentsToLikes: 0.085302
+    id: ckavpv03k15ir0j23a5tfundq
     verified: false
-    hashtags: "#stayhome, #fitness, #tiktokindia, #punjabi"
-  - username: "annabell_newman"
-    fullname: >-
-      Annabell Newman
-    location: "United Arab Emirates"
-    followers: 30255
-    engagement: 933
-    commentsToLikes: 0.117804
-    id: ckaclkmzifxfw0i7893ub26ow
-    verified: false
-    hashtags: "#tommyhilfiger, #disneyworld, #outfit, #lowkey"
-  - username: "mr_sawroj"
-    fullname: >-
-      Saroj
-    location: "United Arab Emirates"
-    followers: 18115
-    engagement: 2055
-    commentsToLikes: 0.037142
-    id: ck8qoc4zgycsb0j78gcb21n9c
-    verified: false
-    hashtags: "#kharab, #nepaliboy, #fitness, #phone"
+    hashtags: "#fitness, #fyp, #gym, #gymmotivation"
 ---

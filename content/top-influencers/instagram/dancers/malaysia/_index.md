@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top dancers Instagram influencers in Malaysia in 2020. Most popular hashtags: #dancer #repost #stayhome #ootd.
+  Find top dancers Instagram influencers in Malaysia in 2020. Most popular hashtags: #tiktok #dancer #throwback #malaysia.
 platform: Instagram
+hits: 17
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 17 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "jolynnnz_"
-    fullname: >-
-      琳.
-    location: "Malaysia"
-    followers: 4439
-    engagement: 3196
-    commentsToLikes: 0.031733
-    id: ck14jo0avlbex0i19kzt1on8q
-    verified: false
-    hashtags: "#everglowadiosdancecover, #blackpinkdance, #rose, #everglow"
   - username: "mabel_goo"
     fullname: >-
       💓MabeL。
+    bio: >-
+      Dancer 💃🏻 ∥ Business 🎓 ∥ Flight Attendant 🛫 Chinese - Christian ✞ For work : ✉ mabelgoo24@gmail.com
     location: "Malaysia"
-    followers: 224630
-    engagement: 490
-    commentsToLikes: 0.008402
+    followers: 234148
+    engagement: 336
+    commentsToLikes: 0.009752
     id: ck5c8ka579o5n0i110szvm3hw
     verified: false
-    hashtags: "#puretouchclinicbangsarsouth, #missingtheoutsideworld, #lifeintheskies, #claudebernardmy"
+    hashtags: "#throwback, #shopeemy, #shopeebrandsfestival, #shooting"
+  - username: "rajaaizureen"
+    fullname: >-
+      Raja NurAizureen
+    bio: >-
+      Performer | Dancer | Diver | Leo
+    location: "Malaysia"
+    followers: 11351
+    engagement: 634
+    commentsToLikes: 0.017388
+    id: ck5qajrcugrj50i11u8pha4s7
+    verified: false
+    hashtags: "#tiomancabana, #tiktokmalaysia, #pulaukitaday, #tiktok"
   - username: "joycebii"
     fullname: >-
       yangyang
+    bio: >-
+      #YouTuber #Actress #beauty #Dancer Sponsorship / collaboration kindly DM insta 🎬 YouTube - - joycebii My Latest video
     location: "Malaysia"
-    followers: 41921
-    engagement: 557
-    commentsToLikes: 0.010474
+    followers: 41238
+    engagement: 343
+    commentsToLikes: 0.007347
     id: ck5zvth3p4vn00i14uxdu939n
     verified: false
-    hashtags: "#dance, #nattacosmemy, #tiktokhot, #wannabe"
-  - username: "wincyychua"
-    fullname: >-
-      WINCY 🌐💛 WONDER 授权经销商
-    location: "Malaysia"
-    followers: 21473
-    engagement: 423
-    commentsToLikes: 0.019147
-    id: ck5zowifrrhsw0i145uydjpy7
-    verified: false
-    hashtags: "#girlquotes, #flowers, #terengganu, #eyeslandlens"
+    hashtags: "#joycebii, #lijinghere, #joycebiitiktok, #watsonsmalaysia"
   - username: "kyufy"
     fullname: >-
       Emma Lia
+    bio: >-
+      No Game No Life ~ Gamer 🎮 | Youtuber 💻 | Caster 🎧 | Dancer 💃 Email : arctic.kyufy@gmail.com Link Youtube🔽
     location: "Malaysia"
-    followers: 3683
-    engagement: 2120
-    commentsToLikes: 0.111579
+    followers: 5258
+    engagement: 1825
+    commentsToLikes: 0.121821
     id: ckap5jrnrbzxn0i78babthv9s
     verified: false
-    hashtags: "#giveaway, #mawar, #viral, #emoji"
+    hashtags: "#mobilelegends, #cute, #niconiconii, #zoommyface"
+  - username: "mariannnela"
+    fullname: >-
+      MARIANNELA CATAÑO
+    bio: >-
+      🎭Actress & Tv host 📿Bikram, Ashtanga & Vinyasa lover 🧘🏻‍♀️Joyoga® founder @joyogamx 💻Youtube Content Creator #mexicanactress #dancer #yogini
+    location: "Malaysia"
+    followers: 17292
+    engagement: 2058
+    commentsToLikes: 0.069782
+    id: ck5pvnw09isl90i11eydxy2uh
+    verified: false
+    hashtags: "#cdmxlife, #mariannelacata, #reelsinstagram, #igersmexico"
+  - username: "abhishek_vernekar"
+    fullname: >-
+      A B H I S H E K
+    bio: >-
+      • Dancer | Choreographer | Influencer • Bangalore📍 •✉️ abhishekvernekar00@gmail.com •DM/Mail for Collaboration ⭐️
+    location: "Malaysia"
+    followers: 44433
+    engagement: 1666
+    commentsToLikes: 0.022431
+    id: ck14hcifj9mrl0i19c0qroz6x
+    verified: false
+    hashtags: "#deepikapadukone, #feelkaroreelkaro, #tamasha, #agartumsaathho"
+  - username: "kishan_jay"
+    fullname: >-
+      Kishan Jay
+    bio: >-
+      FB ID: Kishan Jay Dance Page: KJ Dancers Dance Choreographer
+    location: "Malaysia"
+    followers: 30557
+    engagement: 174
+    commentsToLikes: 0.107410
+    id: ck5c282s6wq970i114szgpmm4
+    verified: false
+    hashtags: "#choreography, #kishanjay, #yenathuyirehalbum, #dancer"
+  - username: "catbryant_"
+    fullname: >-
+      𝘾 𝘼 𝙏 𝘾 𝘼 𝙏 • 𝘽 𝙍 𝙔 𝘼 𝙉 𝙏
+    bio: >-
+      — DANCER 98’s🐯 • ✖️@omgdancecrewofficial ✖️ 🇲🇾 . 🔆🔆 大量招收薯片代理 & 批發 🔥🔥 < 16 種 超 級 無 敵 好 吃 的 薯 片 • 熱 賣 中 🔥> 🛒 SHOPEE 貓不膩薯片商店 ⏬⏬
+    location: "Malaysia"
+    followers: 2699
+    engagement: 1511
+    commentsToLikes: 0.053078
+    id: ckf5mhh7utts00j230aknxep6
+    verified: false
+    hashtags: "#itzy, #kpop, #ilikethat, #missthem"
   - username: "armani_kowachee"
     fullname: >-
       ARMANI KOWACHEE こわち
+    bio: >-
+      YOUNG DANCER FROM 🇲🇾 PETITE BUT I ROAR STRONGER THAN LION FOREVER MOMMY's BABY👧🏼 #kowachee #kuacilittledancer #kowacheeXjdsportsmy
     location: "Malaysia"
     followers: 32824
     engagement: 289
     commentsToLikes: 0.011205
     id: ck5zpqestt59i0i14kk46afcx
     verified: false
-    hashtags: "#ceriaonlinestar, #cegahviruscovid19, #reinventlearning, #didiandfriends"
-  - username: "hanlibubu"
+    hashtags: "#dudukrumahchallenge, #kowacheexjdsportsmy, #spectrumoutdoormarketing, #jangankeluar"
+  - username: "yyongezz"
     fullname: >-
-      Hanlibubu | 🇲🇾
+      
+    bio: >-
+      22 | Degree In Business Administration | BKI son of @zkdlin 🐻 @twicetagram 🍭 DM FOR STORY / GIFT REVIEW 📩
     location: "Malaysia"
-    followers: 54292
-    engagement: 218
-    commentsToLikes: 0.074889
-    id: ck0vy58c32am90i192780f20n
+    followers: 28071
+    engagement: 483
+    commentsToLikes: 0.022933
+    id: ck14jo0xelbjx0i19xnnow2gj
     verified: false
-    hashtags: "#heavenonearth, #smilemakeover, #siblingslove, #salvation"
-  - username: "litx2"
-    fullname: >-
-      FAFA 🦋
-    location: "Malaysia"
-    followers: 124747
-    engagement: 214
-    commentsToLikes: 0.027219
-    id: ckap219fawy1e0i789qp54wj7
-    verified: false
-    hashtags: "#savageremixchallenege, #beyhive, #theshaderoom, #deletingsoon"
-  - username: "hawarizwana"
-    fullname: >-
-      HAWA RIZWANA REDZUAN
-    location: "Malaysia"
-    followers: 467055
-    engagement: 179
-    commentsToLikes: 0.007732
-    id: ck14l16a7scns0i19o9bt1oov
-    verified: true
-    hashtags: "#ohmostwanted, #ohmostwantedlook, #anxiety, #mentalhealthawareness"
-  - username: "hobartkho"
-    fullname: >-
-      Hobart Kho
-    location: "Malaysia"
-    followers: 10406
-    engagement: 497
-    commentsToLikes: 0.009538
-    id: ck6twhwuis2u30j71sg9fm8zu
-    verified: false
-    hashtags: "#stayathome, #thevisualcollective, #shopeemyrayaphsa, #japanese"
+    hashtags: "#dynamite, #dontforgetmask, #blackpink, #ootd"
 ---

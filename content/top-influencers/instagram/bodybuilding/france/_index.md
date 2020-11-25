@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In France In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in France in 2020. Most popular hashtags: #bodybuilding #motivation #france #fitness.
+  Find top bodybuilding Instagram influencers in France in 2020. Most popular hashtags: #fitness #bodybuilding #gym #workout.
 platform: Instagram
+hits: 159
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 159 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "maggy_allmusculation"
+    fullname: >-
+      Maggy Allmusculation 🇫🇷🇺🇸🇦🇺
+    bio: >-
+      Préparation compétition bodybuilding bikini ⁣ ▪️Online coach⁣ 🍏⁣ ▪️Musculation, nutrition, santé ⁣ 🏋🏼‍♂️⁣ ▪️@maggys.heart⁣ 🎨⁣ YouTube‼️@allmusculation
+    location: "France"
+    followers: 8578
+    engagement: 1393
+    commentsToLikes: 0.034028
+    id: ck5q7vxhz3asq0i1187h94axf
+    verified: false
+    hashtags: "#teamallmusculation, #musculation, #fitwoman, #gymlife"
+  - username: "sonnentazz"
+    fullname: >-
+      𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗵𝗲𝗿𝗮𝗽𝘆 ★
+    bio: >-
+      •France 🇫🇷 •Bodybuilding⚡️Bikini Fitness 2019/20 •Powerlifting 2020/21 ∙IT management 📚
+    location: "France"
+    followers: 18138
+    engagement: 336
+    commentsToLikes: 0.143390
+    id: ckf5qnxl5a0240j2321b76xhj
+    verified: false
+    hashtags: "#basicfit, #gorillawearusa, #musculation, #france"
   - username: "alex_ornq"
     fullname: >-
       Alex
+    bio: >-
+      🏴 Team Fake Natty 🏆 Bodybuilding 🥇1st place Body junior NFR 2018 🧷 Coach Sportif Diplômé 📨 Online coaching 📊 Programme /Diète /Suivi Personnalisé
     location: "France"
-    followers: 2355
-    engagement: 2947
-    commentsToLikes: 0.037121
+    followers: 2816
+    engagement: 2079
+    commentsToLikes: 0.059732
     id: ckap5v52fdasj0i78gl8bag0m
     verified: false
-    hashtags: "#fitfrance, #train, #classicphysique, #myprotein"
+    hashtags: "#diet, #teamfakenatty, #motivation, #training"
   - username: "petitpatapon_nunchaku"
     fullname: >-
       Petit PatapOn Nunchaku
+    bio: >-
+      👉🏻 Nunchaku Performer🥋 👉🏻 🏆 FFK 2019 🥇 👉🏻 Nunchaku Instructor 👉🏻 Bodybuilding 🏋️‍♀️ @ninja_fitgirl_ 👇🏻 Online Course 👇🏻
     location: "France"
-    followers: 44401
-    engagement: 995
-    commentsToLikes: 0.040492
+    followers: 49305
+    engagement: 712
+    commentsToLikes: 0.041517
     id: ck15reqik7kg50i1932axptcx
     verified: false
-    hashtags: "#model, #determination, #tattoo, #lightsaber"
-  - username: "carine.workout"
+    hashtags: "#ninjitsu, #ninja, #kobudo, #juggling"
+  - username: "claudiapersonaltrainer"
     fullname: >-
-      Carine ~ Girl on bike
+      Claudia Modica
+    bio: >-
+      💪Coach sportive & mental🧠 Diplômée d'Etat Certified Bayesian Bodybuilding🎓 🧐Evidence Based📖 🍳Passionnée du métabolisme ⚽️Ex sportive de haut niveau
     location: "France"
-    followers: 7304
-    engagement: 1601
-    commentsToLikes: 0.082812
-    id: ckapaq3tax1u70i78w4belqnw
+    followers: 45024
+    engagement: 231
+    commentsToLikes: 0.027222
+    id: ckf5w8j5lr8nz0j239gbwrj6o
     verified: false
-    hashtags: "#discount, #lagosbabes, #birthday, #cycle"
-  - username: "axelwino"
+    hashtags: ""
+  - username: "maevaa_fit"
     fullname: >-
-      La Win
+      🌺 Maëva
+    bio: >-
+      💛⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ❝ Be positive, be yourself ❞
     location: "France"
-    followers: 36803
-    engagement: 1260
-    commentsToLikes: 0.042752
-    id: ck9hcvy4rn6zm0j78rcfpcbec
+    followers: 16771
+    engagement: 1276
+    commentsToLikes: 0.141168
+    id: ck13c1yjqy86z0i19hw0sh1rj
     verified: false
-    hashtags: "#couple, #menstyle, #overboard, #poidsdecorps"
-  - username: "maximeklinger"
+    hashtags: "#outfit, #instagram, #instadaily, #workout"
+  - username: "daiarunner"
     fullname: >-
-      Maxime Klinger
+      Daiane Milani
+    bio: >-
+      • SCS - RS 🇧🇷/UNISC ⚖️/@milani_daiane • @kaisanbrasil cupom: daiarunner • @boldsnacks cupom: #daiarunner • Você atrai aquilo que transmite 💛
     location: "France"
-    followers: 2724
-    engagement: 1953
-    commentsToLikes: 0.161521
-    id: ck6tkmg3a4zuu0j719pt8frxu
+    followers: 5789
+    engagement: 2120
+    commentsToLikes: 0.337266
+    id: ck8t8v7hzlyhl0j78zqpllz02
     verified: false
-    hashtags: "#bodybuilding, #fhmencollection, #styledevie, #mannequinhead"
-  - username: "erwix_jvn"
+    hashtags: "#smile, #beastmode, #fitfam, #fitnessbody"
+  - username: "alexandra_maia19"
     fullname: >-
-      Erwan
+      Alexandra Maia 🇫🇷
+    bio: >-
+      ❤Boxing 🥊Boxe Anglaise🐝 💘Savate Boxe française👊 🧚‍♀️💃 Pôle dance 💪Fitness🏋️‍♀️ Educateur sportif SBF🥊 Prépa éducateur SF🌞 💑
     location: "France"
-    followers: 18082
-    engagement: 586
-    commentsToLikes: 0.091432
-    id: ck6ttwnk1czxc0j71jmlfvqvo
+    followers: 10012
+    engagement: 1576
+    commentsToLikes: 0.075288
+    id: ck8t3yj7z4yew0j78vxrsns3q
     verified: false
-    hashtags: "#audi, #performance, #training, #playinside"
-  - username: "fitclaire"
+    hashtags: "#lavieestbelle, #nolimit, #musculation, #nevergiveup"
+  - username: "velina_n"
     fullname: >-
-      CLAIRE - fitness & lifestyle
+      Velina Nenova 💎
+    bio: >-
+      Bulgaria 🇧🇬 UK Journalism Graduate 🇬🇧
     location: "France"
-    followers: 102902
-    engagement: 703
-    commentsToLikes: 0.021365
-    id: ck0vwijkktyuv0i190puduh8z
+    followers: 18163
+    engagement: 944
+    commentsToLikes: 0.060541
+    id: ckapb0wvly7o60i78vobkkkvs
     verified: false
-    hashtags: "#acidesamin, #parisienne, #stetch, #healthyfood"
-  - username: "claire__alx"
+    hashtags: "#pulseandyou, #lifestylephotography, #pulsefitness, #bestoftheday"
+  - username: "fit_gass"
     fullname: >-
-      CAL
+      FIT_GASS
+    bio: >-
+      
     location: "France"
-    followers: 3789
-    engagement: 4658
-    commentsToLikes: 0.067641
-    id: ck8tahzzyru9s0j78fnal4vxz
+    followers: 4991
+    engagement: 1263
+    commentsToLikes: 0.168817
+    id: ckapc30dg29v00i78dso84w62
     verified: false
-    hashtags: "#aussie, #natur, #drawing, #coronavirus"
-  - username: "guillaume_rouux"
-    fullname: >-
-      Guillaume Roux  🇫🇷
-    location: "France"
-    followers: 6249
-    engagement: 1815
-    commentsToLikes: 0.031992
-    id: ckapc58hf2iou0i78uzk096s5
-    verified: false
-    hashtags: "#forearms, #legs, #fctwitter, #fitnessing"
-  - username: "lydia.befit"
-    fullname: >-
-      🎀 𝑳𝒚𝒅𝒊𝒂 🎀
-    location: "France"
-    followers: 29690
-    engagement: 301
-    commentsToLikes: 0.095039
-    id: ckap51qmy9skf0i78l56b4pu1
-    verified: false
-    hashtags: "#shape, #ideerepas, #reequilibrage, #mangerequilibre"
+    hashtags: "#fitnesspark, #fit, #fitguys, #frenchfitness"
 ---

@@ -1,87 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top wellness Instagram influencers in Ukraine in 2020. Most popular hashtags: #freedom #luxury #covid19 #wellness.
+  Find top wellness Instagram influencers in Ukraine in 2020. Most popular hashtags: #wellness #relax #health.
 platform: Instagram
+hits: 12
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "olesyabulletka"
     fullname: >-
       OlesyaBulletka
+    bio: >-
+      Pole Dancer - Olesya Tyurkina Stream Travel Wellness Sport
     location: "Ukraine"
-    followers: 25578
-    engagement: 347
-    commentsToLikes: 0.034911
+    followers: 25706
+    engagement: 261
+    commentsToLikes: 0.037342
     id: ck15rz0anaer50i19xjik4xax
     verified: false
     hashtags: ""
   - username: "nadiadamkovskaya"
     fullname: >-
-      Event Producer Надя Дамковская
+      EQ Producer Надя Дамковская
+    bio: >-
+      International продюсер эмоциональных проектов, #WELLNESS мотиватор, бизнесмен, эстет. #ЧУВСТВЕННОСТЬ 🖤ОСОЗНАННОСТЬ 🖤РАЗВИТИЕ 🌚ЭМОЦИОНАЛЬНЫЙ МАРКЕТИНГ
     location: "Ukraine"
-    followers: 25148
-    engagement: 132
-    commentsToLikes: 0.049510
+    followers: 24369
+    engagement: 168
+    commentsToLikes: 0.026284
     id: ck5ccn1dihnpu0i11s0c3w7ie
     verified: false
-    hashtags: "#proudofyou, #lifestyle, #covid, #digital"
-  - username: "anna_life_journey"
-    fullname: >-
-      Anna Moro
-    location: "Ukraine"
-    followers: 19659
-    engagement: 247
-    commentsToLikes: 0.085540
-    id: ck6ttdnp1a1cz0j71n3t3ffmy
-    verified: false
-    hashtags: "#foreverlove, #yogainspiration, #organic, #choreographer"
+    hashtags: "#wellness, #health, #mindfullness, #woman"
   - username: "santadimopulos"
     fullname: >-
       𝐒𝐚𝐧𝐭𝐚 ❤️ 𝐃𝐢𝐦𝐨𝐩𝐮𝐥𝐨𝐬
+    bio: >-
+      Trendsetter, Wellness and Beauty expert, Traveller, Kerastas Ambassador 🔹@wellnessbar_official 🔹@goldvintage2 Cooperation: +38(068)6095809 Vadim
     location: "Ukraine"
-    followers: 867724
-    engagement: 156
-    commentsToLikes: 0.009812
+    followers: 879405
+    engagement: 155
+    commentsToLikes: 0.014602
     id: ckap58c3oamk50i785e0hysiz
     verified: true
-    hashtags: "#chloegirl, #chloe, #staysafe"
-  - username: "victoriavalerievna"
+    hashtags: "#womensupportingwomen, #chloegirl, #chloe, #staysafe"
+  - username: "anna_life_journey"
     fullname: >-
-      Виктория 🙋🏻‍♀️ ⠀
+      Anna Moro
+    bio: >-
+      🧘🏽‍♀️ Yoga Instructor & wellness expert 📩 DM for collaboration 📍 Kiev Check my yoga promo 👇
     location: "Ukraine"
-    followers: 56845
-    engagement: 289
-    commentsToLikes: 0.139035
-    id: ck0w1ejiaiy310i19bd34ff1j
+    followers: 19230
+    engagement: 107
+    commentsToLikes: 0.123538
+    id: ck6ttdnp1a1cz0j71n3t3ffmy
     verified: false
-    hashtags: "#honeycake, #cookingtime, #tastyphotography, #foodphoto"
+    hashtags: "#lovestory, #mauritius, #quarantine, #helthylifestyle"
+  - username: "nataliiakrasii"
+    fullname: >-
+      НАТАЛІЯ КРАСІЙ
+    bio: >-
+      ❤️ Любляча дружина, мама, бабуся ⭐️ GOLDEN EXECUTIVE Міжнародної компанії @coralclub ▪️17 років у бізнесі 🌎Команда в 20 країнах 🔥ОТРИМАЙ -20%⬇️
+    location: "Ukraine"
+    followers: 11371
+    engagement: 717
+    commentsToLikes: 0.020411
+    id: ck6tv3f8yjy690j717v6yse7p
+    verified: false
+    hashtags: "#relax, #turkey, #coralclub, #health"
+  - username: "mvk.ua"
+    fullname: >-
+      MVK
+    bio: >-
+      OPEN Mon-Fri: 9-23* Бронируйте свою запись ⬇️
+    location: "Ukraine"
+    followers: 82276
+    engagement: 323
+    commentsToLikes: 0.020219
+    id: ck5q0hsnd62660i11p589wwvk
+    verified: false
+    hashtags: "#nailsmag, #nailsmagazines, #nailsofinstagram, #ukraine"
   - username: "olka__seraya"
     fullname: >-
-      𝓞𝓵𝓴𝓪 𝓢𝓮𝓻𝓪𝔂𝓪🦁
+      Olka Seraya🦁
+    bio: >-
+      👑 𝙈𝙞𝙨𝙨 𝙏𝙤𝙪𝙧𝙞𝙨𝙢 𝙐𝙠𝙧𝙖𝙞𝙣𝙚 2020 ⚡️𝚄𝚔𝚛𝚊𝚒𝚗𝚎, 𝙾𝚍𝚎𝚜𝚜𝚊 ⚡️𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚗𝚊𝚖𝚎𝚍 𝙺.𝙵.𝙳𝚊𝚗𝚔𝚎𝚟𝚒𝚌𝚑 ⚡️𝙳𝚊𝚗𝚌𝚎𝚛 ⚡️𝙼𝚘𝚍𝚎𝚕
     location: "Ukraine"
-    followers: 7157
-    engagement: 697
-    commentsToLikes: 0.016153
+    followers: 6937
+    engagement: 656
+    commentsToLikes: 0.018648
     id: ck14k57auns7e0i19ehzn7pu0
     verified: false
-    hashtags: "#provocative, #songoftheday, #placeofbusiness, #graphics"
-  - username: "popova_lubov_ifbb"
+    hashtags: "#fun, #face, #lady, #happy"
+  - username: "borodina"
     fullname: >-
-      Любовь Попова
+      🌿Lera Borodina®🍃
+    bio: >-
+      Делай это так, как будто у тебя получится❤️ Owner @ohmylook & @lavla.official Co-owner @g.bar.kiev & @sododo.official
     location: "Ukraine"
-    followers: 7616
-    engagement: 729
-    commentsToLikes: 0.033793
-    id: ck5hna7cmnghp0i11hz446s4v
+    followers: 261449
+    engagement: 588
+    commentsToLikes: 0.006619
+    id: ck15t1ou3fwhl0i19xv6gqdwe
     verified: false
-    hashtags: "#fitnessmotivation, #men, #vasilevskiyteam, #personaltrainer"
-  - username: "nata_bench"
+    hashtags: "#np, #vichy, #juniorbank, #mastercard"
+  - username: "v.zadiraka"
     fullname: >-
-      Ведуча NATA BENCH
+      Vladimir Zadiraka
+    bio: >-
+      Co-founder @oneloveespressobar @city.coffee.guide @winelove.restaurant
     location: "Ukraine"
-    followers: 22987
-    engagement: 163
-    commentsToLikes: 0.048789
-    id: ck15ryqm3adgs0i19xykxredz
+    followers: 10046
+    engagement: 739
+    commentsToLikes: 0.017231
+    id: ck5zvstw74uxv0i14atl31ojv
     verified: false
-    hashtags: "#coronavirusstop"
+    hashtags: "#feelingofunity, #onelove, #citycoffeeguide, #onelovecoffee"
+  - username: "marysyagorobets"
+    fullname: >-
+      Marysya Gorobets
+    bio: >-
+      🧚богиня нетворкінгу 🎬15 років у showbiz&fashion 🎤провела 3000 світських заходів 🌏відвідала 75країн 👭об’єдную жіночу бізнес еліту @mgvisionclub
+    location: "Ukraine"
+    followers: 75719
+    engagement: 265
+    commentsToLikes: 0.022762
+    id: ck0ucccaggl2r0i199ogpq8hf
+    verified: false
+    hashtags: "#marysyagorobets, #mgvc, #host, #connectingvisions"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #diet #happy #prozis #homeworkout.
+  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #fitness #fitnessmotivation #bodybuilding.
 platform: Instagram
+hits: 4820
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 4820 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "yazdan_rahmatabadi"
+  - username: "sadeq__yosefi"
     fullname: >-
-      Yazdan
+      🇮🇷صادق یوسفی🇮🇷
+    bio: >-
+      ✌kurd✌ 🥇Classic Bodybuilding and Physical Body Gold🥇 🏠Life in Ravansar ⛔no entry
     location: "Iran"
-    followers: 19248
-    engagement: 1692
-    commentsToLikes: 0.071868
-    id: ck9wp9d218cqs0j78zdx3h57f
+    followers: 3047
+    engagement: 2745
+    commentsToLikes: 0.200195
+    id: ckaoysqppiwsd0i78w8mkri04
     verified: false
-    hashtags: "#mrolmpia, #iranian, #gold, #goodfriday"
-  - username: "ifbb_pro_samanolfati_"
+    hashtags: ""
+  - username: "marzkiphysique"
     fullname: >-
-      ✏مربی آنلاین
+      ᎷariaZ
+    bio: >-
+      🇲🇽 Los Angeles✈️Utah ~Bodybuilding @sethelabel @angelcompetitionbikinis ~ Code : MARZ 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯🔮Eclectic witch 🌻Hippie✨Gypsy 🌛🌕🌜 ✨🌿🌊💨🔥
+    location: "United States"
+    followers: 6307
+    engagement: 2171
+    commentsToLikes: 0.150886
+    id: ck8td71jn25oi0j78nxvvsdrk
+    verified: false
+    hashtags: "#hotsprings, #nature, #utah, #lakersnation"
+  - username: "tammy_bellabae_fitness"
+    fullname: >-
+      Tammy 🎀🌴👙💪
+    bio: >-
+      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
+    location: "United States"
+    followers: 11354
+    engagement: 1451
+    commentsToLikes: 0.087957
+    id: ckf5pez4b5ukz0j2385upfgyk
+    verified: false
+    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
+  - username: "aliki_grunewald"
+    fullname: >-
+      Aliki Susi G.
+    bio: >-
+      💪🏻 Bodybuilding & Powerlifting ✉️ aliki@steinkraussmanagement.de 🎗#fitsoldier in #Berlin
+    location: "Germany"
+    followers: 9223
+    engagement: 1106
+    commentsToLikes: 0.089852
+    id: ck8t4udno7ykh0j78u0so3rv1
+    verified: false
+    hashtags: "#bootyworkout, #girlswithtattoos, #wednesday, #girlswithmuscle"
+  - username: "ifbbpro_samanolfati_"
+    fullname: >-
+      ✏مربی بدنسازی
+    bio: >-
+      In❤S IranQimia🇮🇷 athlete 🥇Iranian bodybuilding champion 🥇Champion&overal of bodybuilding world 🥇champion classicWorld ✏برنامه تمرینی و تغذیه
     location: "Iran"
-    followers: 34953
-    engagement: 900
-    commentsToLikes: 0.050470
+    followers: 39394
+    engagement: 1002
+    commentsToLikes: 0.038249
     id: ck5bxf98unlze0i11ucjov8gz
     verified: false
-    hashtags: "#clasic"
-  - username: "martini_puti"
-    fullname: >-
-      Martini.Puti
-    location: "Germany"
-    followers: 2284
-    engagement: 2179
-    commentsToLikes: 0.122919
-    id: ck13895b6f3k40i19j2s7a9h3
-    verified: false
-    hashtags: "#gymtime, #shoulderkiller, #beinpresse, #happysunday"
-  - username: "mohammad.karimi289"
-    fullname: >-
-      
-    location: "Iran"
-    followers: 8309
-    engagement: 1184
-    commentsToLikes: 0.080200
-    id: ck9wgrfqkunxg0j78yqrfwsf0
-    verified: false
     hashtags: ""
-  - username: "pumping_steffi"
+  - username: "marc__hector"
     fullname: >-
-      🔵☆𝓢 𝓽 𝓮 𝓯 𝓪 𝓷 𝓲 𝓮☆ 🔵
-    location: "Germany"
-    followers: 13058
-    engagement: 1021
-    commentsToLikes: 0.074891
-    id: ck55ngfln65sk0i11v39wioa9
-    verified: false
-    hashtags: "#happy, #nature"
-  - username: "keaton_fit"
-    fullname: >-
-      K E A T O N
+      Marc Hector - IFBB PRO
+    bio: >-
+      2018 Amateur ⭕️lympia Overall Bodybuilding Champion🇬🇧🗡 🔴Online coach 🌍 🔴@eazyegguk Marc10 🔴Team @abdullah_fs_alotaibi 🔴BSc(Hons)Sports Science
     location: "United Kingdom"
-    followers: 5325
-    engagement: 1201
-    commentsToLikes: 0.097626
-    id: ckaos1g2qpq4f0i78dbwenfsq
+    followers: 39256
+    engagement: 757
+    commentsToLikes: 0.040512
+    id: ck5zua4hg1z1i0i14ida9l2nt
     verified: false
-    hashtags: ""
-  - username: "alimansory_"
+    hashtags: "#thebritishgrandprix"
+  - username: "rezaghasemi_1376"
     fullname: >-
-      Ali Mansour
+      Reza Ghasemi
+    bio: >-
+      Champion of three bodybuilding courses in Iran🏅 Champion of two bodybuilding courses in Tehran 🏅 Champion of two wrestling courses in Tehran🏅
+    location: "Iran"
+    followers: 7710
+    engagement: 1014
+    commentsToLikes: 0.099221
+    id: ck9wi1p4v0fyw0j78lpofx95j
+    verified: false
+    hashtags: "#fitness"
+  - username: "svenjah.94"
+    fullname: >-
+      𝐒𝐯𝐞𝐧𝐣𝐚
+    bio: >-
+      🇩🇪 Nbg, 25, Bodybuilding
     location: "Germany"
-    followers: 10514
-    engagement: 977
-    commentsToLikes: 0.090866
-    id: ckaoybs6bgueb0i78ejoujesq
+    followers: 5421
+    engagement: 1169
+    commentsToLikes: 0.129618
+    id: ck8t9to5bpbg80j78mv8d9h4n
     verified: false
-    hashtags: "#darmstadt, #aesthetics, #snack, #bigarms"
-  - username: "valentina.fitmum"
+    hashtags: "#asstograss, #bodypositivity, #backday, #womensphysique"
+  - username: "niko_stil"
     fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
-    location: "Italy"
-    followers: 6468
-    engagement: 1900
-    commentsToLikes: 0.244250
-    id: ck5zshjxzyibf0i14l9nnc87z
-    verified: false
-    hashtags: "#viaggio, #sportgirl, #fitbreakfast, #mare"
-  - username: "vanessaapopp"
-    fullname: >-
-      Vanessa Popp
+      Niko
+    bio: >-
+      Fitness 🏋🏻‍♂️ Natural Bodybuilding💪🏻 Twitch: Niko_Stil 👣 @jana_stil #NikoStil #Keller
     location: "Germany"
-    followers: 5928
-    engagement: 1066
-    commentsToLikes: 0.101381
-    id: ck8t5w9pwbgak0j78dkola8x4
+    followers: 64368
+    engagement: 2263
+    commentsToLikes: 0.085224
+    id: ck5c635e34mce0i1130oqfsp7
     verified: false
-    hashtags: "#ludwigsburg, #behinderung, #hamburg, #grow"
-  - username: "lissannee"
+    hashtags: "#kellerfamily, #kellergmbh, #kelleristmacht, #keller"
+  - username: "jblary"
     fullname: >-
-      LISANNE MOL
-    location: "Netherlands"
-    followers: 12930
-    engagement: 889
-    commentsToLikes: 0.091340
-    id: ck6u4fd1j3e8x0j71mwknnyr3
+      L A R Y . J B💕
+    bio: >-
+      🔥FITMOM| BODYBUILDING|MOTIVATION🔥 Freedom.Love.Time.Death. Impressum/Datenschutz/Werbung
+    location: "Germany"
+    followers: 47309
+    engagement: 430
+    commentsToLikes: 0.064684
+    id: ck5zrd10jwctn0i14lb21z3m2
     verified: false
-    hashtags: "#homeworkout, #datbepaalikzelfwel, #zoafgezaagd, #throwback"
+    hashtags: "#sixpack, #fitandhealthy, #firegirl, #fights"
 ---

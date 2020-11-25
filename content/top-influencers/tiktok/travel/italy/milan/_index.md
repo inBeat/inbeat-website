@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Milan In 2020
 description: >-
-  Find top travel TikTok influencers in Milan in 2020. Most popular hashtags: #travel #milano #milan #quarantine.
+  Find top travel TikTok influencers in Milan in 2020. Most popular hashtags: #travel #milano #italy #perte.
 platform: TikTok
+hits: 23
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 23 TikTok influencers like this in Milan, Italy for you to connect with.
 profiles:
+  - username: "senzatruccoyoutube"
+    fullname: >-
+      Senza Trucco
+    bio: >-
+      YouTuber +260K ⭐⭐⭐⭐⭐ 🔥 IG ➡️ @senzatruccoyoutube LAST VIDEO ⛔🎥⛔
+    location: "Italy"
+    followers: 155100
+    engagement: 1977
+    commentsToLikes: 0.008882
+    id: ck9aarkwxlrdb0j78csy8yjjt
+    verified: false
+    hashtags: "#cosmetics, #neiperte, #beauty, #divertente"
   - username: "xserena182"
     fullname: >-
       Serena 
+    bio: >-
+      Just a girl who loves traveling (and music!) 🌻💜✈️🌍
     location: "Italy"
-    followers: 3564
-    engagement: 929
-    commentsToLikes: 0.056418
+    followers: 3798
+    engagement: 890
+    commentsToLikes: 0.051905
     id: ck9dw9v1qo2b20j78ufguibw2
     verified: false
-    hashtags: "#incanto, #2020, #happy, #tizianoferro"
-  - username: "vanityfairitalia"
+    hashtags: "#trip, #prague, #city, #travel"
+  - username: "foxsbackpack"
     fullname: >-
-      Vanity Fair Italia
+      Elisabetta Fox
+    bio: >-
+      🏳️‍🌈 🇮🇹 🇺🇸 📸 🎬 Photo: @foxsbackpack Personal: @foxsdarkside
     location: "Italy"
-    followers: 61941
-    engagement: 797
-    commentsToLikes: 0.010296
-    id: ck97ylpk700jw0j78en8r3k4o
-    verified: true
-    hashtags: "#natale, #tiktok, #paparazzi, #megxit"
-  - username: "lalalalalexaa"
-    fullname: >-
-      Alexa Portoraro
-    location: "Italy"
-    followers: 2135
-    engagement: 338
-    commentsToLikes: 0.025870
-    id: ck8vsi9vndpd80j78877buqhh
+    followers: 16400
+    engagement: 1246
+    commentsToLikes: 0.017362
+    id: ck8qdixgiom620j780nm16sem
     verified: false
-    hashtags: "#love, #lockdown, #dishes, #coronatime"
-  - username: "mattenry.raw"
+    hashtags: "#dreamjob, #winter, #neiperte, #xyzbca"
+  - username: "gigifarne"
     fullname: >-
-      Matteo Enrico
+      gigif_62
+    bio: >-
+      Fitness & Personal Trainer Model over 58 📸 enjoy life Live and let live ❤️ 📬
     location: "Italy"
-    followers: 19140
-    engagement: 830
-    commentsToLikes: 0.038053
-    id: cka874hnc5dsc0i78ofbpoiiu
+    followers: 2901
+    engagement: 853
+    commentsToLikes: 0.001755
+    id: ckcuzcxtjmqoj0j23nhqxhmtb
     verified: false
-    hashtags: "#studio, #trend, #mountains, #mountain"
+    hashtags: "#personaltrainer, #over58model, #modelagency, #healthylifestyle"
   - username: "basilgreenpencil"
     fullname: >-
       Basil Green Pencil
+    bio: >-
+      Design Inspirations & Blog #DesignTastesGood BasilGreenPencil.com
     location: "Italy"
-    followers: 2106
-    engagement: 686
-    commentsToLikes: 0.009264
+    followers: 2115
+    engagement: 590
+    commentsToLikes: 0.047039
     id: ck8s5js7ug7m50j78yg9xatf4
     verified: false
-    hashtags: "#stringart, #interiordecor, #workshop, #fashion"
+    hashtags: "#design, #diy, #interiordesign, #styling"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
+    bio: >-
+      🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 1795572
-    engagement: 2449
-    commentsToLikes: 0.012062
+    followers: 2300000
+    engagement: 2312
+    commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#tuttifratelli, #valespo, #reazione, #problemicontutti"
-  - username: "jonnycloud_"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+  - username: "chiarasordi7"
     fullname: >-
-      Jonny!!... 👁‍🗨
+      Chiara Sordi
+    bio: >-
+      Lawyer 🎓Traveller✈️❤️ 33💫❤️ Milan Italy🇮🇹 Never stop shining💫 IG: @dencs87
     location: "Italy"
-    followers: 7285
-    engagement: 1574
-    commentsToLikes: 0.019652
-    id: ck9a7biiv6wf10j785ommc6e9
+    followers: 6698
+    engagement: 1040
+    commentsToLikes: 0.033363
+    id: cka0y1b8z9ihv0i78pu9cxf5s
     verified: false
-    hashtags: "#star, #dancer, #cosplayers, #boys"
-  - username: "kalobagli85"
-    fullname: >-
-      kalobagli85
-    location: "Italy"
-    followers: 3158
-    engagement: 658
-    commentsToLikes: 0.012608
-    id: ck97ym5xd04by0j7874thbl6q
-    verified: false
-    hashtags: "#488spider, #greece, #812superfast, #swiss"
+    hashtags: "#travel, #portugal, #christmas, #tiktokitaly"
   - username: "dj_eva_fiesta"
     fullname: >-
       Dj_eva_fiesta
+    bio: >-
+      DJ from Milan🖤 Fun, Trend, Fashion
     location: "Italy"
-    followers: 3148
-    engagement: 316
-    commentsToLikes: 0.051280
+    followers: 3671
+    engagement: 467
+    commentsToLikes: 0.068693
     id: ck9du4xezeyo80j7845ilgxyo
     verified: false
-    hashtags: "#italianfood, #crazy, #dancechallenge, #senorit"
-  - username: "whereispiccio"
+    hashtags: "#fashiongoals, #djevafiesta, #savege, #djane"
+  - username: "kalobagli85"
     fullname: >-
-      Alessio Picciolo
+      kalobagli85
+    bio: >-
+      RENT LUXURY CARS MILAN SUPERCARS LOVER INSTAGRAM @kalobagli85
     location: "Italy"
-    followers: 2546
-    engagement: 825
-    commentsToLikes: 0.025098
-    id: ck8f8o8k13k240j78o6mqa03g
+    followers: 5114
+    engagement: 765
+    commentsToLikes: 0.014616
+    id: ck97ym5xd04by0j7874thbl6q
     verified: false
-    hashtags: "#sunset, #schloss, #5terre, #chinachallenge"
+    hashtags: "#carlover, #ferrari, #lifestyle, #supercar"
+  - username: "leodonofrio"
+    fullname: >-
+      Leonardo D’Onofrio
+    bio: >-
+      Milano, Italy 🇮🇹⚽️🔥 Instagram: @leodonofrio_
+    location: "Italy"
+    followers: 18200
+    engagement: 878
+    commentsToLikes: 0.019986
+    id: ckb93jpemkey80j23jhl7hd53
+    verified: false
+    hashtags: "#universita, #milan, #ronaldo, #seriea"
 ---

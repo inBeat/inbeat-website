@@ -1,107 +1,106 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Finland In 2020
 description: >-
-  Find top illustrators Instagram influencers in Finland in 2020. Most popular hashtags: #illustrator #easter #2danimation #framebyframe.
+  Find top illustrators Instagram influencers in Finland in 2020. Most popular hashtags: #illustration #procreate #drawing.
 platform: Instagram
+hits: 8
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 8 Instagram influencers like this in Finland for you to work with.
 profiles:
   - username: "toikkanentommi"
     fullname: >-
       TOMMI TOIKKANEN
+    bio: >-
+      Artist / Illustrator / Visual Designer 👦🏻 27 🇫🇮 Finland | JKL ❤️ =🎨🎮💪🏽🍫
     location: "Finland"
-    followers: 19450
-    engagement: 2015
-    commentsToLikes: 0.039199
+    followers: 18662
+    engagement: 1787
+    commentsToLikes: 0.027341
     id: ck15t1h1ofvjx0i19r3sop70u
     verified: false
-    hashtags: "#valkoinen, #omakuva, #foodart, #cupcake"
+    hashtags: "#hogwarts, #mekko, #muoti, #coloredpencils"
   - username: "jirkavinse"
     fullname: >-
       Jirka Vinse Jonatan Väätäinen
+    bio: >-
+      Graphic Designer // Illustrator // Art Director 📍Helsinki based 📩 jirka.vaatainen@gmail.com
     location: "Finland"
-    followers: 211920
-    engagement: 197
-    commentsToLikes: 0.009703
+    followers: 204946
+    engagement: 120
+    commentsToLikes: 0.011196
     id: ck13a6rztow950i19sef5muk1
     verified: true
-    hashtags: "#potaytopotahto, #mooninaquarius, #contepartiro, #nonononesistonopiu"
+    hashtags: "#ad, #vapaudenvaatekaappi, #advertisement, #vapausolla"
   - username: "natalipopova.photography"
     fullname: >-
       P  O  P  O  V  A
+    bio: >-
+      photographer / graf. designer / illustrator📍Helsinki @natalipopova.design @natalipopova.stories
     location: "Finland"
-    followers: 44247
-    engagement: 104
-    commentsToLikes: 0.015437
+    followers: 42271
+    engagement: 119
+    commentsToLikes: 0.020595
     id: ck0uc69sog74k0i19ypdv0exk
     verified: false
-    hashtags: ""
-  - username: "_kaisajr"
-    fullname: >-
-      K a is a  R a n t a
-    location: "Finland"
-    followers: 5785
-    engagement: 1189
-    commentsToLikes: 0.017343
-    id: ck55k32lmycbm0i11mnd2takg
-    verified: false
-    hashtags: "#sword, #bubbles, #lake, #drawwithheikala"
+    hashtags: "#natalipopova, #fineartphotography, #taistella, #artofvisuals"
   - username: "aguirrefirth"
     fullname: >-
       Anson Aguirre Firth
+    bio: >-
+      TRADITIONAL INK + BRUSH ILLUSTRATOR Sci-fi fan DON'T USE WORK WITHOUT MY CONSENT. Commissions, sales, prints: DM or aguirrefirth@gmail.com SHOP ⬇
     location: "Finland"
-    followers: 17356
-    engagement: 352
-    commentsToLikes: 0.022248
+    followers: 18304
+    engagement: 329
+    commentsToLikes: 0.018189
     id: ck9hch0ojlciw0j78ghlzo295
     verified: false
-    hashtags: "#monster, #clevergirl, #fossil, #pensketch"
+    hashtags: "#jurassicart, #tyrannosaurusrex, #raptor, #monster"
   - username: "noonamariaa"
     fullname: >-
-      Kuvittaja ✏️ Noona
+      Noona Vinogradoff | kuvittaja
+    bio: >-
+      ✍🏻💭☕️ ↟ Children’s book illustrator / based in Finland. Always carrying a sketchbook. Contact : ✉️ noona@refer.fi Shop Stationery 👇🏽
     location: "Finland"
-    followers: 10787
-    engagement: 533
-    commentsToLikes: 0.036305
+    followers: 11200
+    engagement: 345
+    commentsToLikes: 0.021283
     id: ck8t3gjqx37jo0j78xog70yhz
     verified: false
-    hashtags: "#kahvila, #suunnittelu, #tavoitteet, #thesmileo"
+    hashtags: "#midsummermagicmonth, #midsummermagicmonth2020, #imnotcryingyouare"
   - username: "salmi_anna"
     fullname: >-
       Anna Salmi
+    bio: >-
+      Illustrator, animator and GIF enthusiast from Finland✨ Open for commissions. Contact: anna.aleksandra.salmi@gmail.com ✨
     location: "Finland"
-    followers: 5634
-    engagement: 624
-    commentsToLikes: 0.025526
+    followers: 5596
+    engagement: 618
+    commentsToLikes: 0.025096
     id: ck55o8o5d7uwh0i11nkr7nobr
     verified: false
-    hashtags: "#holidays, #holidayillustration, #animationdaily, #holidayseason"
-  - username: "viswilly"
+    hashtags: "#framebyframeanimation, #illustrationdaily, #painting, #digitalillustration"
+  - username: "_kaisajr"
     fullname: >-
-      Illustrator
+      K a is a  R a n t a
+    bio: >-
+      Illustrating thoughts ✏ Catching memories 📷 Illustrator & 2D animator Helsinki, Finland 🏠
     location: "Finland"
-    followers: 9559
-    engagement: 1276
-    commentsToLikes: 0.032223
-    id: ck8t0hh6ws2qo0j784ifvip0e
+    followers: 5722
+    engagement: 1218
+    commentsToLikes: 0.017154
+    id: ck55k32lmycbm0i11mnd2takg
     verified: false
-    hashtags: "#illustragram, #illustrationow, #mulan, #illustrations"
-  - username: "i.id.a"
+    hashtags: "#digitaldrawing, #dtiys, #drawthisinyourstyle, #drawing"
+  - username: "framesequence"
     fullname: >-
-      i i d a
+      Petter Pentilä
+    bio: >-
+      🇫🇮 Åbo, Finland Motion designer/Animator Turn on post notifications 🛎 Framesequence plushie in the link below! 🐑
     location: "Finland"
-    followers: 14816
-    engagement: 1092
-    commentsToLikes: 0.052886
-    id: ck5hm6thvlfqn0i113t5shwnc
+    followers: 115339
+    engagement: 749
+    commentsToLikes: 0.021851
+    id: ck55kkokbzjh70i11wunufms6
     verified: false
-    hashtags: "#queenssupportingqueens, #monsunspa, #makingmoments, #illustrator"
-  - username: "iidajuttuja"
-    fullname: >-
-      Iida Hakala
-    location: "Finland"
-    followers: 2349
-    engagement: 2349
-    commentsToLikes: 0.024572
-    id: ck5q15mtj9ee60i11olb67w32
-    verified: false
-    hashtags: "#maja, #scandinaviandesign, #illustrator, #hima"
+    hashtags: "#motionaep, #weloveanimations, #funny, #digital"
 ---

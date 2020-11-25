@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In France In 2020
 description: >-
-  Find top gaming Instagram influencers in France in 2020. Most popular hashtags: #nintendoswitch #instagram #sunset #concours.
+  Find top gaming Instagram influencers in France in 2020. Most popular hashtags: #gaming #twitch #gamer #france.
 platform: Instagram
+hits: 193
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 193 Instagram influencers like this in France for you to contact.
 profiles:
-  - username: "shineez_olt"
+  - username: "shineez_queen"
     fullname: >-
-      🖤 𝙎𝙝𝙞𝙣𝙚𝙚𝙯 𝙊𝙡𝙩 🇻🇳
+      🌙🇻🇳𝙎𝗵𝗶𝗻𝗲𝗲𝘇 𝗦𝗵𝘆 🖤[🃏]
+    bio: >-
+      ⓁⒾⒶⓂ︎🍼♥️ •🆂🅰︎🅸🆈🅰︎🅽🄶🄰🄼🄴🅄🅂🄴 •𝗫𝗯𝗼𝘅/𝗣𝘀𝟰🎮 📍#toulouse | #saigon •Égérie : @le_gaming_au_feminin 🌸 •Wife of @joksadcompteofficiel 💍 ⬇️✨ Mes réseaux ✨⬇️
     location: "France"
-    followers: 6419
-    engagement: 2304
-    commentsToLikes: 0.085133
+    followers: 8038
+    engagement: 1604
+    commentsToLikes: 0.078774
     id: ck6tls2ui6jc30j71po5f1o2r
     verified: false
-    hashtags: "#airsoft, #confinement, #warframe, #frenchgirl"
-  - username: "k4t3x_onlin3"
-    fullname: >-
-      Kate | 🎮 | 🖱️ French gamer
-    location: "France"
-    followers: 3685
-    engagement: 3211
-    commentsToLikes: 0.082308
-    id: ck9h9wxwmaa6j0j78k2o3zt6z
-    verified: false
-    hashtags: "#ff7remake, #rdr2, #zelda, #switch"
+    hashtags: "#paris, #dbztattoo, #geekette, #setupgaming"
   - username: "ayternel"
     fullname: >-
-      
+      Ayternel
+    bio: >-
+      👨‍👩‍👦‍👦 ¦ Ma famille @poi.family 🎮 ¦ Gaming, High-tech & Photographie ✉️ ¦ Ayternel@gmail.com ••• Pour suivre mes Stream Twitch 👇🏻
     location: "France"
-    followers: 12487
-    engagement: 2117
-    commentsToLikes: 0.030540
+    followers: 14538
+    engagement: 1616
+    commentsToLikes: 0.026708
     id: ck6tvrp0lnw250j71bybyi74s
     verified: false
-    hashtags: "#papa, #popculture, #pokefan, #warzone"
-  - username: "arrrrow_off"
+    hashtags: "#pokefan, #pokemon, #travel, #amazing"
+  - username: "dalohim"
     fullname: >-
-      Christophe
+      ⛓️Dalo⛓️
+    bio: >-
+      Just a kiddo, no lewd content or weird comments! 🇩🇪German Girl 🖤Slipknot | SLAYER | Rusty Cage 🕷️Music | Art | Gaming 🕸️German | English | French
     location: "France"
-    followers: 77210
-    engagement: 1639
-    commentsToLikes: 0.008890
-    id: ck9hculcln1dc0j7851epnk7g
+    followers: 36013
+    engagement: 259
+    commentsToLikes: 0.110521
+    id: ckf5r6a7qbl6p0j23q19n9b1j
     verified: false
-    hashtags: "#travelphotography, #instagood, #summer, #instamoment"
-  - username: "kai2music"
+    hashtags: ""
+  - username: "c__islander"
     fullname: >-
-      KAI
+      Kalie🌺
+    bio: >-
+      🔗From Reunion Island 🇷🇪 📍Based in Paris 🇫🇷 28 _______ DM FOR COLLAB_______________ Sport ~ Music ~ Fashion ~ Gaming [COD] psn: c__islander
     location: "France"
-    followers: 6541
-    engagement: 1149
-    commentsToLikes: 0.025624
-    id: ck5hgzam35ku00i112uivdxyx
+    followers: 18390
+    engagement: 1003
+    commentsToLikes: 0.019145
+    id: ckaoujte10kun0i78lwu338sn
     verified: false
-    hashtags: "#videoclip, #fokuza, #wine, #soiree"
-  - username: "maniraj_gaming"
+    hashtags: "#igersfrance, #lareunion, #curves, #bodyshape"
+  - username: "emiietv"
     fullname: >-
-      Maniraj Gaming
+      
+    bio: >-
+      🎥 Content creator YouTube & Twitch • FPS lover 🧡 Streamer for @Fnatic 🎙 Host @laprovence Gaming ✉️ Contact : emiietv.pro@gmail.com
     location: "France"
-    followers: 15303
-    engagement: 1231
-    commentsToLikes: 0.054033
-    id: ck9hczjjwnkl50j781b8gd13a
+    followers: 20449
+    engagement: 624
+    commentsToLikes: 0.011795
+    id: ck139nt9hm8kc0i19kjq8d6bl
     verified: false
-    hashtags: "#bambi, #happy, #legends, #gta5"
-  - username: "mythixtrinity"
-    fullname: >-
-      Trinity
-    location: "France"
-    followers: 20240
-    engagement: 573
-    commentsToLikes: 0.011254
-    id: ck14gemvj4u070i19hxhp4f2n
-    verified: false
-    hashtags: "#nara, #globetrotter, #luxe, #thailand"
+    hashtags: "#gamer, #streamer, #twitch, #twitchfr"
   - username: "charlyportocarrero"
     fullname: >-
       Carlos Portocarrero
+    bio: >-
+      🎮🏳️‍🌈🇲🇽 #Gaymer 🔸YouTube Next Up Gaming 1st gen. 🔸Partner de LoL ✉️Contacto: charlygaymers.contacto@gmail.com Suscríbete a mi canal de YouTube aquí👇🏻
     location: "France"
-    followers: 112721
-    engagement: 317
-    commentsToLikes: 0.005717
+    followers: 114912
+    engagement: 336
+    commentsToLikes: 0.006968
     id: ck14jmo5zl4f00i19gfsak0zs
     verified: false
-    hashtags: "#rogfest2019, #guardianaestelar, #starguardians, #leagueofstarguardians"
-  - username: "darkghoulx"
+    hashtags: "#reels, #explorar, #fyp, #gaymers"
+  - username: "mythixtrinity"
     fullname: >-
-      Marco R.
+      Trinity
+    bio: >-
+      🎮Professional streamer | twitch.tv/trinity 🌍Traveler 📺Former host and Author for #Arte and #Playstation 🇫🇷 ✉ trinity-gaming@outlook.fr
     location: "France"
-    followers: 11813
-    engagement: 1830
-    commentsToLikes: 0.020993
-    id: ck14ka0xxoi3s0i19xu77nuk4
+    followers: 21418
+    engagement: 695
+    commentsToLikes: 0.015909
+    id: ck14gemvj4u070i19hxhp4f2n
     verified: false
-    hashtags: "#nintendoswitch, #gamer, #pokemonpearl, #teamrocket"
-  - username: "bysankahofficiel"
+    hashtags: "#trinitrip, #foodphotography, #live, #travelphotography"
+  - username: "_nahomay"
     fullname: >-
-      bySankah
+      Naho May
+    bio: >-
+      🦊 Mother of Fox | Gaming & Lifestyle ✨Modern Witch & Spiritual Girlboss 🌈 🎮 Twitch | 🎥 YouTube | 🎙Podcast 📌 Lille, France ✉️ nahocollab@outlook.fr
     location: "France"
-    followers: 83506
-    engagement: 927
-    commentsToLikes: 0.176613
-    id: ck5zk8vxoj1jy0i14o5x1i96o
+    followers: 8581
+    engagement: 655
+    commentsToLikes: 0.015394
+    id: ckap7gghpjyv20i7883i14ys6
     verified: false
-    hashtags: "#chat, #catoftheday, #agvhelmet, #dainesecrew"
+    hashtags: "#gaming, #sorciere, #rousse, #streameuse"
+  - username: "qqchana"
+    fullname: >-
+      Chana Chiang 紗那醬
+    bio: >-
+      ᴹᴼᴰᴱᴸ+ᴾᴴᴼᵀᴼᴳᴿᴬᴾᴴᴱᴿ+ᵀᴿᴬᵛᴱᴸᴳᴱᴱᴷ ᶠᴿᴼᴹ ᵀᴬᴵᵂᴬᴺ ᵀᴼ ᴼᵁᵀᴱᴿ ˢᴾᴬᶜᴱ👾 ©紗那醬本人 #photographer 攝影號➜ @chanachiang 💬𝙲𝙷🇹🇼/𝙴𝙽🇺🇸/𝙴𝚂 模特x攝影師x電玩宅x旅遊控x👙 #travel #gaming #food
+    location: "France"
+    followers: 27523
+    engagement: 277
+    commentsToLikes: 0.029547
+    id: ck0ty4j7mllio0i19hf3shu4m
+    verified: false
+    hashtags: "#hot, #halloween2020, #selfies, #cosplaygirl"
+  - username: "maniraj_officiel"
+    fullname: >-
+      Maniraj
+    bio: >-
+      Tiktok "maniraj_officiel" 1M Tiktok gaming "maniraj_gaming" 810K 📩 Mail pro manirajalarage@gmail.com 👻 Snap manirajalarage
+    location: "France"
+    followers: 29694
+    engagement: 641
+    commentsToLikes: 0.045829
+    id: ck9hczjjwnkl50j781b8gd13a
+    verified: false
+    hashtags: "#valorant, #apexlegends, #apex, #xbox"
 ---

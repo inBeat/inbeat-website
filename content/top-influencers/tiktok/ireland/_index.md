@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Ireland In 2020
 description: >-
-  Find top TikTok influencers in Ireland in 2020. Most popular hashtags: #duet #trend #river #leavingcert2020.
+  Find top TikTok influencers in Ireland in 2020. Most popular hashtags: #fyp #foryoupage #foryou.
 platform: TikTok
+hits: 616
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 616 TikTok influencers like this in Ireland for you to work with.
 profiles:
-  - username: "chrisisainmdom"
+  - username: "kyaslife"
     fullname: >-
-      Chris Murphy
+      k͏y͏l͏a͏ ☆
+    bio: >-
+      𝐞𝐬𝐭. 𝟏𝟏/𝟎𝟑/𝟐𝟎 new post @7pm gmt everyday! biz: kyasxlife@gmail.com💌
     location: "Ireland"
-    followers: 38632
-    engagement: 2020
-    commentsToLikes: 0.051743
-    id: ck9tubfj5ky5l0j78d2gtuf5g
+    followers: 41600
+    engagement: 2183
+    commentsToLikes: 0.068312
+    id: ckb9jy1u5bght0j23nikmocau
     verified: false
-    hashtags: "#irishhumour, #irishoral, #fatherted, #irishjoke"
-  - username: "starbear_.addi"
+    hashtags: "#foryoupage, #summer, #style, #tppaudition2big"
+  - username: "whitesnek01"
     fullname: >-
-      Abi + Kate=Mine🧸🦋
+      WhiteSnek01
+    bio: >-
+      🇮🇪 19 she/her anime merch site linked below
     location: "Ireland"
-    followers: 3848
-    engagement: 3763
-    commentsToLikes: 0.322633
-    id: ckacqtq712a6n0i78igdmv61r
+    followers: 135800
+    engagement: 3361
+    commentsToLikes: 0.035746
+    id: ck8p07zrsfk1t0j78y0yjencg
     verified: false
-    hashtags: "#follow, #nice, #zonuts, #growingup"
-  - username: "not.very.princely"
+    hashtags: "#pov, #alt, #foryoupage, #queer"
+  - username: "albvrts.pumpkin"
     fullname: >-
-      Ash 💥
+      🕸🐀8k felipes!🐀🕸
+    bio: >-
+      -hiya!😈 -follow meee!👻 -8k🎃 -spooky season!🕷🕸 -buy alberts merch!💀⬇️
     location: "Ireland"
-    followers: 16695
-    engagement: 2903
-    commentsToLikes: 0.057908
-    id: ck8w1qcz22rt70j78ein7l78c
+    followers: 8149
+    engagement: 2952
+    commentsToLikes: 0.283068
+    id: ckdbiu4k690g80j23xfizbnsv
     verified: false
-    hashtags: "#klance, #catradora, #keith, #skincare"
-  - username: "briano988"
+    hashtags: "#foryoupage, #foryou, #ilyasm, #fyp"
+  - username: "80srae"
     fullname: >-
-      Mackie
+      era
+    bio: >-
+      𝙜𝙤𝙩 €60 𝙢𝙚𝙧𝙘𝙝 😀 - 𝙞 𝙡𝙤𝙫𝙚 𝙮𝙤𝙪 - 𝙫𝙞𝙙𝙚𝙤 𝙨𝙩𝙖𝙧 𝙛𝙧𝙚𝙚 👂
     location: "Ireland"
-    followers: 134518
-    engagement: 2432
-    commentsToLikes: 0.035945
+    followers: 13000
+    engagement: 2618
+    commentsToLikes: 0.073826
+    id: ckck4hxrcoy7h0j23e2wr61qf
+    verified: false
+    hashtags: "#coloringsbygabby, #kittykatmbl"
+  - username: "itsbrianmcbride"
+    fullname: >-
+      Brian McBride
+    bio: >-
+      attractive, tall, talented, funny
+    location: "Ireland"
+    followers: 155300
+    engagement: 2558
+    commentsToLikes: 0.070974
     id: ck8ae2ipk98j90j78sfym8eoy
     verified: false
-    hashtags: ""
-  - username: "lukeroe34"
+    hashtags: "#babyface"
+  - username: "wolfieroe34"
     fullname: >-
-      Luke W. Roe 34🐺💙
+      Luke Roe 💙💙
+    bio: >-
+      21 Irish boi 🇮🇪 Just a goofball 🤪 I have Aspergers 💚 18+ only, NO SPAMMING!
     location: "Ireland"
-    followers: 81999
-    engagement: 2280
-    commentsToLikes: 0.042516
+    followers: 197400
+    engagement: 2465
+    commentsToLikes: 0.059280
     id: ck9flloafoipg0j78ffe4x53j
     verified: false
-    hashtags: "#adamdriver, #marriagestory, #deepthoughts, #iamme"
-  - username: "simphyper"
+    hashtags: "#himbo, #tkn, #fyp, #bass"
+  - username: "ruaarandtiktok"
     fullname: >-
-      Hello I’m ur dad
+      Rua
+    bio: >-
+      Rua is my best friend ❤️😘🐶
     location: "Ireland"
-    followers: 2820
-    engagement: 2112
-    commentsToLikes: 0.165922
-    id: ck9rllcykyk7r0j78ucg8l6za
+    followers: 202500
+    engagement: 2345
+    commentsToLikes: 0.070827
+    id: ckbw3wyyxxf6i0j23dwjg8d29
     verified: false
-    hashtags: "#duet"
-  - username: "cailinrua"
+    hashtags: "#pls, #plsfollow, #rua, #plslike"
+  - username: "meganoconnnor"
     fullname: >-
-      Sól Bán
+      Megan O’ Connor 🌸
+    bio: >-
+      I just draw on my face Inquires @meganoconnormakeup002@gmail.com
     location: "Ireland"
-    followers: 3442
-    engagement: 1879
-    commentsToLikes: 0.087539
-    id: ckafurbirbmhg0i78rc3v0lvf
+    followers: 106300
+    engagement: 2326
+    commentsToLikes: 0.048763
+    id: ck9tubo3xl0od0j78ccgnegn8
     verified: false
-    hashtags: "#duet, #celticcastles, #witchtips, #irishwitchcraft"
-  - username: "stokesy79"
+    hashtags: "#irishmua, #makeup, #justlikeandfollowme, #halloweenlook"
+  - username: "siimply_puppy"
     fullname: >-
-      Ryan Stokes
+      🐶Puppy Squad🐶
+    bio: >-
+      Hey Siimpy Puppies hope ur having a good day!✨🐶Love yall🐶✨
     location: "Ireland"
-    followers: 10461
-    engagement: 1823
-    commentsToLikes: 0.150408
-    id: cka9lw1pr3h2q0i78bkvm8jmc
+    followers: 46900
+    engagement: 2233
+    commentsToLikes: 0.108732
+    id: ckanjmfxb11w60i78j568n4b2
     verified: false
-    hashtags: "#franklins, #spicebag, #michaeldhiggins, #golf"
-  - username: "travisleon1"
+    hashtags: "#ragdollengineroblox, #friends, #timewarpscan, #fun"
+  - username: "jack_hyena22"
     fullname: >-
-      Travis Leon
+      Jack Hyena
+    bio: >-
+      Irish Furry 🇮🇪 he/him 22 YEEN BEAN! 👇MERCH👇
     location: "Ireland"
-    followers: 62005
-    engagement: 1846
-    commentsToLikes: 0.082144
-    id: ck8qpq4q14ip40j785kka4589
+    followers: 24900
+    engagement: 2220
+    commentsToLikes: 0.083414
+    id: ckavsogyy58860j23aiv2wun9
     verified: false
-    hashtags: "#phobia, #nature, #normalpeople, #tayto"
-  - username: "dysphoriablues"
-    fullname: >-
-      DysphoriaBlues
-    location: "Ireland"
-    followers: 25013
-    engagement: 2594
-    commentsToLikes: 0.040407
-    id: ckacd9mbrintn0i781ni1vgkl
-    verified: false
-    hashtags: "#classwar, #duet, #thesquad, #middleclass"
+    hashtags: "#fursuiter, #fyp, #furryart, #furries"
 ---

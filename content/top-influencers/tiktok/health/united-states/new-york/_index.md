@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In New York In 2020
 description: >-
-  Find top health TikTok influencers in New York in 2020. Most popular hashtags: #newyork #health #alwayslearning #itsaremix.
+  Find top health TikTok influencers in New York in 2020. Most popular hashtags: #fyp #health #duet #learnontiktok.
 platform: TikTok
+hits: 73
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 73 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "mandyansari"
+  - username: "diego.j.rivas"
     fullname: >-
-      mandy ansari
+      Diego Rivas
+    bio: >-
+      CEO of Gibberish Interesting things you’ve never heard of Come learn with me 🌎
     location: "United States"
-    followers: 42857
-    engagement: 614
-    commentsToLikes: 0.064368
-    id: ck900x70mavuv0j78q5upz3je
+    followers: 125900
+    engagement: 1028
+    commentsToLikes: 0.036482
+    id: ck8qj596fbz3f0j78uqgujo6l
     verified: false
-    hashtags: "#traderjoes, #immigrant, #work, #socialmediatips"
-  - username: "kaylyn_burroughs"
+    hashtags: "#learn, #religion, #french, #hispanic"
+  - username: "dr.scaligiuri"
     fullname: >-
-      Kaylyn Burroughs 
+      Dr. Stephanie, PhD
+    bio: >-
+      Nutrition & Addiction Neuroscientist👩‍🔬 The People’s Scientist podcast🎧 NYC🍎
     location: "United States"
-    followers: 30286
-    engagement: 286
-    commentsToLikes: 0.030882
-    id: cka89t3wpgg6e0i78fadmhntl
+    followers: 3587
+    engagement: 729
+    commentsToLikes: 0.026888
+    id: ckcjgyucibvn20j23c0y9k81h
     verified: false
-    hashtags: "#florida, #gotthisforyou, #nurse, #healthheroes"
-  - username: "drybarcomedy"
+    hashtags: "#fyp, #mentalhealth, #addictionawareness, #neuroscience"
+  - username: "maudylo"
     fullname: >-
-      dry bar comedy
+      Ahmadjg
+    bio: >-
+      Content Creator ❗️Mental Health is #1 Here to make you smile ❗️ Road to 100k
     location: "United States"
-    followers: 366506
-    engagement: 1744
-    commentsToLikes: 0.003877
-    id: ck9e3mvb5k8b70j783ecpifq4
+    followers: 70400
+    engagement: 1753
+    commentsToLikes: 0.108296
+    id: ckc8uoakgh4cf0j230euxm4kn
     verified: false
-    hashtags: "#disabilitycheck, #grandpa, #queer, #firefighters"
-  - username: "ashley.talbott88"
+    hashtags: "#foryoupage, #fup, #duet, #foryoupagethis"
+  - username: "tay_nic_fit"
     fullname: >-
-      Ashley.....ME
+      Taylor Nicole
+    bio: >-
+      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
     location: "United States"
-    followers: 6161
-    engagement: 671
-    commentsToLikes: 0.058647
-    id: ck9noo78wuydj0j78i7es5vqp
+    followers: 11400
+    engagement: 1264
+    commentsToLikes: 0.029339
+    id: ckcpt5i2dnqgf0j2303pqodpw
     verified: false
-    hashtags: "#oklahoma, #goingpro, #randomthings, #deaths"
-  - username: "gregccgutierrez"
+    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
+  - username: "sophianikki"
     fullname: >-
-      Greg Gutierrez
+      Sophia Nichole
+    bio: >-
+      Fitness & Health Coach in NYC⚡️ What’s up guys?! @AARMY Coach | NASM Trainer
     location: "United States"
-    followers: 5689
-    engagement: 794
-    commentsToLikes: 0.137963
-    id: ckamr8im5km2q0i7815agghca
+    followers: 11700
+    engagement: 600
+    commentsToLikes: 0.057542
+    id: ckb9bg5mqxlj70j23g5hkv3aq
     verified: false
-    hashtags: "#singing, #coffee, #manscaped, #bigboss"
-  - username: "drtess90210"
-    fullname: >-
-      Tess Washington, MD
-    location: "United States"
-    followers: 37708
-    engagement: 1155
-    commentsToLikes: 0.040147
-    id: ck9fx9ddj5h2o0j783xki4q8b
-    verified: false
-    hashtags: "#itsaremix, #saturday, #praying, #depression"
-  - username: "caitybegg"
-    fullname: >-
-      Caity Begg
-    location: "United States"
-    followers: 3495
-    engagement: 519
-    commentsToLikes: 0.086267
-    id: ck9dwo9cypubj0j78n22mqy39
-    verified: false
-    hashtags: "#oldtweet, #elonmusk, #culturalreset, #harvard"
+    hashtags: "#tiktokpartner, #selflove, #learnontiktok, #oneminutefitness"
   - username: "newyorkeyedoc"
     fullname: >-
       newyorkeyedoc
+    bio: >-
+      NYC Eye Doc • Eye Health Tips • 👩🏻‍⚕️🇺🇸🇵🇪
     location: "United States"
-    followers: 2352
-    engagement: 672
-    commentsToLikes: 0.124452
+    followers: 2955
+    engagement: 659
+    commentsToLikes: 0.103972
     id: ck9v10sznf00v0j78uvf9ikm2
     verified: false
-    hashtags: "#premed, #optical, #threading, #newyork"
-  - username: "monavand"
+    hashtags: "#doctor, #eyedoctor, #optometry, #dayinmylife"
+  - username: "doctor.jarrett"
     fullname: >-
-      Mona Vand
+      Dr. Jarrett Schanzer
+    bio: >-
+      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
     location: "United States"
-    followers: 362656
-    engagement: 951
-    commentsToLikes: 0.010600
-    id: ck8hmxil3o5nn0j78rspmjvsd
-    verified: true
-    hashtags: "#vibewithme, #weightloss, #poseathome, #itsaremix"
-  - username: "aziacelestino"
-    fullname: >-
-      News | TV Host
-    location: "United States"
-    followers: 3542
-    engagement: 709
-    commentsToLikes: 0.052868
-    id: cka0i80gack870i78mdwr3ihr
+    followers: 150900
+    engagement: 846
+    commentsToLikes: 0.030527
+    id: ckdbs9wzgcgxv0j23tvaoyutk
     verified: false
-    hashtags: "#newtotiktok, #sumidaaquarium, #joebiden2020, #unemployed"
+    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
+  - username: "oliviavoz"
+    fullname: >-
+      olivia voz
+    bio: >-
+      Olivia Voz Instagram oliviavoz Twitter thevoz4real www.voznews.com
+    location: "United States"
+    followers: 14200
+    engagement: 347
+    commentsToLikes: 0.083837
+    id: ckbqe3bcdzxqg0j23n5nc9jfe
+    verified: false
+    hashtags: "#money, #politics, #funny, #trending"
+  - username: "bettyimages"
+    fullname: >-
+      ✊🏾 ☭
+    bio: >-
+      ⭐️ HI MOM 💖⭐️ reading list linked below ⭐️
+    location: "United States"
+    followers: 96700
+    engagement: 2501
+    commentsToLikes: 0.020024
+    id: ckbrfnmlnr9sy0j23cv7blmwl
+    verified: false
+    hashtags: "#leftist, #vegan, #health, #braids"
+  - username: "j.ooniiz"
+    fullname: >-
+      Evan Goodman
+    bio: >-
+      Just posting things I think need a highlight.
+    location: "United States"
+    followers: 22400
+    engagement: 744
+    commentsToLikes: 0.051460
+    id: ckbw4b6bhxjhz0j230opnhqgq
+    verified: false
+    hashtags: "#quarentine, #5d, #science, #fyp"
 ---

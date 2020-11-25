@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top nutrition Instagram influencers in Philadelphia in 2020. Most popular hashtags: #stayhome #corona #mindset #covid19.
+  Find top nutrition Instagram influencers in Philadelphia in 2020. Most popular hashtags: #fitnessmotivation #nfl #personaltrainer.
 platform: Instagram
+hits: 5
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 5 Instagram influencers like this in Philadelphia, United States for you to pitch.
 profiles:
-  - username: "langernutrition"
-    fullname: >-
-      Abby Langer RD
-    location: "United States"
-    followers: 27196
-    engagement: 196
-    commentsToLikes: 0.080548
-    id: ck5hjrxjvh5bj0i11g9pjcrf4
-    verified: false
-    hashtags: "#lemon, #foodpics, #foodforthought, #ketofriendly"
   - username: "livwell_nutrition"
     fullname: >-
       LivWell Nutrition
+    bio: >-
+      Artisan cold-crafted protein made from plants 💪🌱 🚀We ship worldwide // Philadelphia, USA🌎
     location: "United States"
-    followers: 41685
-    engagement: 140
-    commentsToLikes: 0.410372
+    followers: 41692
+    engagement: 132
+    commentsToLikes: 0.411531
     id: ck5cgydt4przy0i113o7qi453
     verified: false
-    hashtags: "#fiber, #protein"
+    hashtags: ""
   - username: "clayharbs82"
     fullname: >-
       Clay Harbor
+    bio: >-
+      ▪️9 year NFL vet ▪️Chicagoan ▪️2 Timothy 1:7 Team Optimum Nutrition Contact: clayharboronline@gmail.com
     location: "United States"
-    followers: 262134
-    engagement: 352
-    commentsToLikes: 0.013699
+    followers: 253364
+    engagement: 320
+    commentsToLikes: 0.012890
     id: ck0w0lei2eskx0i19jgicaqdq
     verified: true
-    hashtags: "#saturdayvibes, #readysetavail, #bearup, #socialdistancing"
-  - username: "syngin_colchester"
+    hashtags: "#istanbul, #constantinople, #fitnessmotivation, #nfl"
+  - username: "jfraank"
     fullname: >-
-      Syngin
+      Jes Franklin 🦊
+    bio: >-
+      I’m 5’7 @unitedlifters | @lyftrx | @rpstrength | @progenex | @p3__nutrition | @bornprimitive | @movefastliftheavy | JFRAANK 💸
     location: "United States"
-    followers: 167851
-    engagement: 269
-    commentsToLikes: 0.076928
-    id: ck6txx8mb0dsw0j71rnibvfgk
+    followers: 51525
+    engagement: 617
+    commentsToLikes: 0.011806
+    id: ck6uhmijz9zbj0j71u1o0bo1j
     verified: false
-    hashtags: "#ecolife, #loveearth, #chess, #insidefun"
+    hashtags: "#rpdietapp, #teambornprimitive, #athletedrivenpatriotinspired, #rpstrength"
+  - username: "jordynhnasko"
+    fullname: >-
+      Trainer & Nutritionist
+    bio: >-
+      Staying fit & living a healthy life without over-restricting and helping others do the same! ✖️Creator of @theslfmethod ✖️Weylyn Apparel: JORDYN🐺 📍PHL
+    location: "United States"
+    followers: 11778
+    engagement: 280
+    commentsToLikes: 0.069185
+    id: ck5c989o6aymc0i1185gdw9rg
+    verified: false
+    hashtags: "#personaltraining, #slf, #fitnessmotivation, #philly"
   - username: "willina.rodriguez"
     fullname: >-
-      👑𝙒𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 💋𝙈𝙤𝙙𝙚𝙡
+      🦋𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 👑💋🏋🏽‍♀️𝙈𝙤𝙙𝙚𝙡
+    bio: >-
+      💗𝘏𝘪, 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 🥰 💗𝘗𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘔𝘰𝘥𝘦𝘭 𝟧’𝟨” 💗𝘽𝙤𝙤𝙠 𝙢𝙚 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 @vi3ions 💗𝘓𝘦𝘢𝘥 𝘮𝘰𝘥𝘦𝘭 𝘰𝘧 @vi3ions 💗𝘍𝘢𝘤𝘦 𝘰𝘧 @the_biagoddess 💗𝘗𝘏𝘐𝘓𝘈𝘋𝘌𝘓𝘗𝘏𝘐𝘈📍
     location: "United States"
-    followers: 5419
-    engagement: 504
-    commentsToLikes: 0.106957
+    followers: 6140
+    engagement: 568
+    commentsToLikes: 0.119546
     id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
-    hashtags: "#videomusical, #gracioso, #nosalgasdecasa, #ecuador"
+    hashtags: "#willowmodels, #omgscouting, #abundance, #blackowned"
+  - username: "daniellebredenhof"
+    fullname: >-
+      Danielle Bredenhof | Fitness
+    bio: >-
+      🦋 20 | Fitness & Nutrition 🤍 @foodspring athlete Founder @fit.andfeminine Train with me! 👇🏼 Booty building program
+    location: "United States"
+    followers: 22458
+    engagement: 1148
+    commentsToLikes: 0.077520
+    id: ck8t2wmkk0yww0j78l7t8y7i6
+    verified: false
+    hashtags: ""
   - username: "fit.full.life"
     fullname: >-
       Julie
+    bio: >-
+      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
     location: "United States"
-    followers: 7589
-    engagement: 2381
-    commentsToLikes: 0.520398
+    followers: 8757
+    engagement: 1973
+    commentsToLikes: 0.386816
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#covi, #baree, #fitlife, #vacationmode"
-  - username: "hannah_hussein13"
+    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
+  - username: "tammy_bellabae_fitness"
     fullname: >-
-      Hannah Hussein
+      Tammy 🎀🌴👙💪
+    bio: >-
+      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
     location: "United States"
-    followers: 20690
-    engagement: 924
-    commentsToLikes: 0.064458
-    id: ckap1bjpptvj70i78055lxwck
+    followers: 11354
+    engagement: 1451
+    commentsToLikes: 0.087957
+    id: ckf5pez4b5ukz0j2385upfgyk
     verified: false
-    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
-  - username: "jamesissmiling"
+    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
+  - username: "jessicabickling"
     fullname: >-
-      James Rose ✨ they/them
+      JessB Fitness
+    bio: >-
+      @ptulaactive | JESSB @bowmar_nutrition | JESSB @luvfitt bands | JESSB Wifey @james_bickling23🧡
     location: "United States"
-    followers: 8581
-    engagement: 1204
-    commentsToLikes: 0.079771
-    id: ck5qc2aaxoir60i11zpinn8pz
+    followers: 42599
+    engagement: 933
+    commentsToLikes: 0.085003
+    id: ck8tdeyc433eh0j785dnf5jjz
     verified: false
-    hashtags: "#100happydates, #cov, #singer, #gohome"
+    hashtags: "#bowmarnutrition, #ptulaactive, #ptula"
   - username: "giannafae"
     fullname: >-
       Gianna Vassilakos
+    bio: >-
+      ❥ 🇬🇷🇵🇭🇨🇳 ⚐: nyc ↠ la ↠ mia ✗ private trainer ✗ online coach ☾reiki practitioner ☽ IIN holistic nutrition coach
     location: "United States"
-    followers: 12070
-    engagement: 1138
-    commentsToLikes: 0.102544
+    followers: 13113
+    engagement: 1139
+    commentsToLikes: 0.092910
     id: ck5zp1w7frtwm0i149rjeefd1
     verified: false
-    hashtags: "#nutrafolpartner, #holidayseason, #wellnesswednesday, #miamimarathon"
-  - username: "michellkaylee"
-    fullname: >-
-      Michell Kaylee 🇨🇭
-    location: "United States"
-    followers: 271046
-    engagement: 565
-    commentsToLikes: 0.037543
-    id: ckaovf9ax4cxk0i78yt3my5b4
-    verified: false
-    hashtags: "#happiness, #life, #power, #nutrition"
+    hashtags: "#leoseason, #nutrafolpartner, #nutrafol, #goat"
 ---

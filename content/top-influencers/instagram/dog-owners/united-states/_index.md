@@ -1,72 +1,41 @@
 ---
 title: Top 10 Dog Owners Instagram Influencers In United States In 2020
 description: >-
-  Find top dog owners Instagram influencers in United States in 2020. Most popular hashtags: #stunning #hinchedhome #homemade #beautyblender.
+  Find top dog owners Instagram influencers in United States in 2020. Most popular hashtags: #selfie #featurewall #bookstack.
 platform: Instagram
+hits: 144
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 144 Instagram influencers like this in United States for you to connect with.
 profiles:
-  - username: "thealexjay"
-    fullname: >-
-      Alex Jay
-    location: "United States"
-    followers: 19851
-    engagement: 938
-    commentsToLikes: 0.048400
-    id: ck136zzcf93wx0i198w9jblr2
-    verified: false
-    hashtags: "#coachella, #beautyblender, #brighteyes, #lemonhead"
   - username: "emilyhatfield"
     fullname: >-
       Emily Hatfield
+    bio: >-
+      Austin, TX hairstylist with an adorable dog / Owner and BossLady- VAIN Salon @vainaustin
     location: "United States"
-    followers: 10699
-    engagement: 698
-    commentsToLikes: 0.013105
+    followers: 11245
+    engagement: 652
+    commentsToLikes: 0.013190
     id: ck5zrnfdbwwre0i14wcpfu7mw
     verified: false
-    hashtags: "#nationalbulldogsarebeautifulday, #starwarsday, #maythe4thbewithyou, #repost"
-  - username: "rochelles_canterbury"
+    hashtags: "#austin, #austinblonde, #austinhairstylist, #austinhair"
+  - username: "carleemcdot"
     fullname: >-
-      Rochelle Tollervey
+      Carlee McDot
+    bio: >-
+      Wife. Daughter. Friend. Runner. Michigan/Detroit Sports Fan. Plant-Based. Dog Owner. Change Maker. Sunshine Lover. World Wanderer. Oceanside, CA
     location: "United States"
-    followers: 5176
-    engagement: 1122
-    commentsToLikes: 0.389643
-    id: ckaow7fg67qzm0i78k39jncnz
+    followers: 38930
+    engagement: 90
+    commentsToLikes: 0.083259
+    id: ckap7k4ezkevh0i78k32ozpn0
     verified: false
-    hashtags: "#planter, #coronavirus, #roominspiration, #checkitout"
-  - username: "therealenver"
-    fullname: >-
-      Enver Gjokaj
-    location: "United States"
-    followers: 19105
-    engagement: 1368
-    commentsToLikes: 0.020991
-    id: ck6tz16cc71yz0j71e9jk5vgd
-    verified: true
-    hashtags: "#mutt, #happyeaster, #fall, #fireindreamland"
-  - username: "brianposehn"
-    fullname: >-
-      Brian Posehn
-    location: "United States"
-    followers: 57458
-    engagement: 474
-    commentsToLikes: 0.029203
-    id: ck6ucxp38i0a90j71rmjz69sc
-    verified: false
-    hashtags: "#mrshowlive, #bigbangtheory, #bert, #washyourhands"
-  - username: "aw"
-    fullname: >-
-      Allison Williams
-    location: "United States"
-    followers: 893210
-    engagement: 463
-    commentsToLikes: 0.010674
-    id: ck0vwoab0urwg0i19plm1fp2y
-    verified: true
-    hashtags: "#moxiesayshi, #shoulderpads, #thisisalmost30, #asoue"
+    hashtags: "#optoutside, #dogood, #helpothers, #payitforward"
   - username: "caseyhphotos"
     fullname: >-
       Casey Hendrickson
+    bio: >-
+      New mom + traveler + obsessed dog owner ❤️ Follow @ourlittlebrowniebites for family updates 2020 ✈️ Norway + Portugal
     location: "United States"
     followers: 29163
     engagement: 10
@@ -74,34 +43,88 @@ profiles:
     id: ck14huexfc7060i1916qd8x1s
     verified: false
     hashtags: "#cincodemayo"
-  - username: "valentimes"
-    fullname: >-
-      Amanda Valentine
-    location: "United States"
-    followers: 41967
-    engagement: 237
-    commentsToLikes: 0.031517
-    id: ckap95lxlr91e0i78d8e8cgrq
-    verified: true
-    hashtags: "#youngestchild, #ilysm4artists, #4creativesbycreatives, #ilysm4artistsweek3"
-  - username: "carleemcdot"
-    fullname: >-
-      Carlee McDot
-    location: "United States"
-    followers: 39675
-    engagement: 134
-    commentsToLikes: 0.053553
-    id: ckap7k4ezkevh0i78k32ozpn0
-    verified: false
-    hashtags: "#herocksmysocks, #found, #eastcoastvswestcoast, #covid"
   - username: "govmlg"
     fullname: >-
       Gov. Michelle Lujan Grisham
+    bio: >-
+      Mother, grandmother, dog owner and New Mexican. 32nd Governor of the State of New Mexico. Statewide COVID-19 testing sites linked below:
     location: "United States"
     followers: 8324
     engagement: 870
     commentsToLikes: 0.164551
     id: ckap0h7zzq9zw0i787ra3zcy5
     verified: true
-    hashtags: "#istayhomefor, #nationalsiblingsday, #internationalwomensday"
+    hashtags: "#stayhomesavelives, #covid19, #alltogethernm, #istayhomefor"
+  - username: "valentimes"
+    fullname: >-
+      Amanda Valentine
+    bio: >-
+      I make clothes and dress people in clothes. Loser of Project Runway Seasons 11, 13 and All Stars 6. Stylist to zee stars. Gemini dog owner.
+    location: "United States"
+    followers: 41308
+    engagement: 355
+    commentsToLikes: 0.035110
+    id: ckap95lxlr91e0i78d8e8cgrq
+    verified: true
+    hashtags: "#youngestchild, #ilysm4artists, #4creativesbycreatives, #ilysm4artistsweek3"
+  - username: "rochelles_canterbury"
+    fullname: >-
+      Rochelle Tollervey
+    bio: >-
+      Decor & Cleaning🏡 Mummy to 3 💙🌸🌸 Engaged 💍 Dog owner 🐶 🖤Owner @canterbury_crafts 🖤 ☆★☆★☆★☆★☆★☆★☆★☆
+    location: "United States"
+    followers: 6076
+    engagement: 480
+    commentsToLikes: 0.241579
+    id: ckaow7fg67qzm0i78k39jncnz
+    verified: false
+    hashtags: "#mumlife, #gardendecor, #hinchedhome, #hinched"
+  - username: "kimrysstad"
+    fullname: >-
+      K I M  R Y S S T A D
+    bio: >-
+      • Booking: inger@killerinc.no • Organdonor, singer, husband, knitter & dog owner! #StangeVestbygd 🇳🇴 #mangskog 🇸🇪 • My music @spotify ⬇️
+    location: "United States"
+    followers: 5163
+    engagement: 585
+    commentsToLikes: 0.034277
+    id: ck5zrxounxg1v0i14tbqy6y4z
+    verified: false
+    hashtags: "#myview, #selfie, #brightlineeating, #nofilter"
+  - username: "jsliceanimation"
+    fullname: >-
+      Joshua Slice
+    bio: >-
+      -Animator -Dog Owner -Creator of Lucas the Spider
+    location: "United States"
+    followers: 174303
+    engagement: 626
+    commentsToLikes: 0.005842
+    id: ck15ugaubn1lz0i19beew9qs7
+    verified: true
+    hashtags: ""
+  - username: "thealexjay"
+    fullname: >-
+      Alex Jay
+    bio: >-
+      Creative Director, Celebrity Makeup Artist, Stylist, Philanthropist, Dog Owner, Homo, Writer, Traveler. Follow me. You. Won't. Be. Sorry.
+    location: "United States"
+    followers: 19188
+    engagement: 765
+    commentsToLikes: 0.090518
+    id: ck136zzcf93wx0i198w9jblr2
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "greerhendricks"
+    fullname: >-
+      Greer Hendricks
+    bio: >-
+      Mother, wife, dog-owner, runner, multitasker. #1 NYT Bestselling co-author www.greerhendricks.com
+    location: "United States"
+    followers: 4182
+    engagement: 561
+    commentsToLikes: 0.083327
+    id: ck6uajkyr3xdq0j71f266d3wk
+    verified: true
+    hashtags: "#greerhendricks, #tgif, #thegetaway, #authorsofinstagram"
 ---

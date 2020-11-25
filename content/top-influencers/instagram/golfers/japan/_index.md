@@ -1,62 +1,101 @@
 ---
 title: Top 10 Golfers Instagram Influencers In Japan In 2020
 description: >-
-  Find top golfers Instagram influencers in Japan in 2020. Most popular hashtags: #youtube #golf #stayhome #callaway.
+  Find top golfers Instagram influencers in Japan in 2020. Most popular hashtags: #golf #golfswing #golfstagram #golfwear.
 platform: Instagram
+hits: 27
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 27 Instagram influencers like this in Japan for you to connect with.
 profiles:
-  - username: "kawamotoyui_official"
-    fullname: >-
-      河本 結 / Yui Kawamoto
-    location: "Japan"
-    followers: 65026
-    engagement: 1198
-    commentsToLikes: 0.011016
-    id: ckapbaai1z5uc0i78jy1kyavr
-    verified: true
-    hashtags: "#kose, #sportsbeauty, #lovegolf, #albachallenge"
   - username: "sakura_yokomine"
     fullname: >-
       横峯さくら/Sakura Yokomine
+    bio: >-
+      プロゴルファー / professional golfer LPGA 1985.12.13 鹿児島出身 アメリカツアー転戦中
     location: "Japan"
-    followers: 26152
-    engagement: 976
-    commentsToLikes: 0.013657
+    followers: 27970
+    engagement: 1062
+    commentsToLikes: 0.026510
     id: ck5zvzuzi57n00i14hs4zeqg0
     verified: false
-    hashtags: "#callawaygolf, #totojapanclassic, #ogio, #vicopen"
+    hashtags: "#sc, #lpgatour, #callaway, #toto"
+  - username: "golfer_mini"
+    fullname: >-
+      Anna Minami/Minami Levonowich
+    bio: >-
+      The running pro golfer ⛳️ 🏃🏻‍♀️ - KU alumni ❤️💙 - 2019 W.Angle Xtreme Golf World Champion🏆🇯🇵 - FT Entertainment 🎬 Check out my YouTube channel ↓ ↓
+    location: "Japan"
+    followers: 3991
+    engagement: 1202
+    commentsToLikes: 0.043885
+    id: ckaotm7n9wh2v0i78lkgxxq9p
+    verified: false
+    hashtags: "#golfswing, #winwinstyle, #annaminami, #progolfer"
   - username: "yuchiki309"
     fullname: >-
       yuki
+    bio: >-
+      best score 🔴86(half41) OL golfer👩‍💼 ✴︎ 🏌️‍♂️⛳️🧘‍♀️💅🍔🍥♨️✈️👙👗…❤︎ #rizap に通っていました☺️紹介希望はDMください❤︎
     location: "Japan"
-    followers: 9916
-    engagement: 1247
-    commentsToLikes: 0.059378
+    followers: 10998
+    engagement: 1403
+    commentsToLikes: 0.051224
     id: ck8tdl9ih3s2g0j788mf3s9z6
     verified: false
-    hashtags: "#par5, #par3, #stayhome, #malaysia"
-  - username: "1_rikako"
-    fullname: >-
-      森田理香子/Rikako Morita
-    location: "Japan"
-    followers: 25841
-    engagement: 1088
-    commentsToLikes: 0.016262
-    id: ck8t7hyqogvfe0j78326t5xw4
-    verified: false
-    hashtags: "#10, #prgr, #smith, #running"
+    hashtags: "#golfwear, #golflife, #1w, #golf"
   - username: "asuka_____official"
     fullname: >-
       Asuka Kashiwabara
+    bio: >-
+      #柏原明日架 official instagram Fujitsu 🔥 jlpga professional golfer. 96’
     location: "Japan"
-    followers: 52989
-    engagement: 817
-    commentsToLikes: 0.008150
+    followers: 63767
+    engagement: 841
+    commentsToLikes: 0.010482
     id: ckap18s34tji20i78js0otzam
     verified: true
-    hashtags: "#mananails, #buzzgolf, #gle, #descentegolf"
+    hashtags: "#descentegolf, #jlpga, #golf, #2020"
+  - username: "1_rikako"
+    fullname: >-
+      森田理香子/Rikako Morita
+    bio: >-
+      Professional golfer 2013賞金女王 お仕事のお問い合わせなどは下記メールへ。 株式会社アールアソシエイツ #prgr#smith#colmargolf#albertogolf#espoir
+    location: "Japan"
+    followers: 29856
+    engagement: 995
+    commentsToLikes: 0.010131
+    id: ck8t7hyqogvfe0j78326t5xw4
+    verified: false
+    hashtags: "#golf, #prgr, #albertogolf, #colmergolf"
+  - username: "ayaka.nakayama.japan"
+    fullname: >-
+      中山 綾香　Ayaka Nakayama
+    bio: >-
+      ⭐️: GOLFER ⛳️: ベスト64！奮闘中🤨 👩🏻‍🎓: セントラルフロリダ大学(USA)・日大日吉 🌈: Japan 🇯🇵 / Orlando, FL 🇺🇸 / Bangkok 🇹🇭 お問い合わせはDMください📩💘 よろしくお願いします💜 #golf #ゴルフ
+    location: "Japan"
+    followers: 8498
+    engagement: 1017
+    commentsToLikes: 0.019614
+    id: ckap0b7ehpkg50i78a5iv4w80
+    verified: false
+    hashtags: "#jackbunny, #golf, #golfstagram, #golflife"
+  - username: "kawamotoyui_official"
+    fullname: >-
+      河本 結 / Yui Kawamoto
+    bio: >-
+      Professional golfer 🇯🇵 🖥 YouTube channel↓
+    location: "Japan"
+    followers: 85022
+    engagement: 1098
+    commentsToLikes: 0.023349
+    id: ckapbaai1z5uc0i78jy1kyavr
+    verified: true
+    hashtags: "#uslpga, #golf, #golfswing, #aigwomensopen"
   - username: "sj31ahn"
     fullname: >-
       안선주(安ちゃん)
+    bio: >-
+      golfer(アンソンジュ)ゴルファー
     location: "Japan"
     followers: 11721
     engagement: 654
@@ -64,44 +103,28 @@ profiles:
     id: ckap27ukhxr500i78ppaxl1om
     verified: false
     hashtags: ""
-  - username: "822meg822"
+  - username: "seeeeiiiiraaaa"
     fullname: >-
-      golf❁⃘めたん☺︎︎✲*ﾟ
+      岩崎静羅 美容/プチプラコーデ/ゴルフ/旅行
+    bio: >-
+      36歳 155cm XS〜Sサイズ WEB広告に多数出演中 ◾️趣味 ⛳️ BEST:78🔴 86⚪️ Cosme Attendant 1期生 ◾️資格 宅地建物取引士、フードアナリスト、パーソナルカラーアドバイザーなど
     location: "Japan"
-    followers: 20706
-    engagement: 734
-    commentsToLikes: 0.010320
-    id: ck8t8zufnmfny0j78h0plrffq
+    followers: 26791
+    engagement: 382
+    commentsToLikes: 0.032341
+    id: ckf5uukuome850j23xokhvqy8
     verified: false
-    hashtags: "#nikeairmax, #muscle, #golflife, #makeup"
-  - username: "hidetotanihara"
+    hashtags: "#155cm, #makeup, #aimantgolf, #golf"
+  - username: "s.tocco"
     fullname: >-
-      Hideto Tanihara
+      tocco golf
+    bio: >-
+      woodland🌳kyoto ゴルフとコーデが大好き⛳ @kansai_goljyo も宜しくお願いします✨ いつか自分が着たいゴルフウェアを作るのが夢🎠 age around50😝 half best:44/best score:94 オススメゴルフウェア載せてます❤️↓↓↓
     location: "Japan"
-    followers: 10145
-    engagement: 781
-    commentsToLikes: 0.008016
-    id: ck15s4p9cb7ow0i1922tak55f
+    followers: 8190
+    engagement: 1193
+    commentsToLikes: 0.019224
+    id: ckaoux87927lz0i78oqr1rrn8
     verified: false
-    hashtags: "#wagyumafia, #newera, #legolanddubai, #masters"
-  - username: "chanyuri_024_jane"
-    fullname: >-
-      YuriOnishi
-    location: "Japan"
-    followers: 2982
-    engagement: 1461
-    commentsToLikes: 0.049521
-    id: ckapa2gqcugdr0i78v0gfitbu
-    verified: false
-    hashtags: "#lovemyfamily, #us, #tumonbeach, #instaguam"
-  - username: "makototakemura_golf"
-    fullname: >-
-      竹村真琴 Makoto Takemura
-    location: "Japan"
-    followers: 26645
-    engagement: 830
-    commentsToLikes: 0.026608
-    id: ck0vvwuzmr4mx0i19vd80v6nf
-    verified: false
-    hashtags: "#fashion, #cake, #swing, #diet"
+    hashtags: "#golffashion, #golfstagram, #jackbunny, #golfwear"
 ---

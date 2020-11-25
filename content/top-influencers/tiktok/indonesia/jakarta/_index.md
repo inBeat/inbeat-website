@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Jakarta In 2020
 description: >-
-  Find top TikTok influencers in Jakarta in 2020. Most popular hashtags: #duet #comedy #dirumahaja #drama.
+  Find top TikTok influencers in Jakarta in 2020. Most popular hashtags: #fyp #duet #zoommyface.
 platform: TikTok
+hits: 117
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 117 TikTok influencers like this in Jakarta, Indonesia for you to pitch.
 profiles:
-  - username: "cuma.kang.ojol"
+  - username: "imho_deep"
     fullname: >-
-      💫DOTI_OJOL JAKTIM💫
+      𝐓𝐰𝐢𝐧 🌖𝐈𝐦𝐡𝐨_𝐃𝐞𝐞𝐩🌹
+    bio: >-
+      imho deep ❤️ 💙 🇮🇩 Jakarta Barat 🇮🇩💚❤️
     location: "Indonesia"
-    followers: 11350
-    engagement: 1980
-    commentsToLikes: 0.109417
-    id: ckaig2bymzltc0i78dyc8mnqd
+    followers: 3299
+    engagement: 5551
+    commentsToLikes: 0.300417
+    id: ckcp4ioukce2s0j23kjjqlokh
     verified: false
-    hashtags: "#loveyou, #masakdirumah, #duet, #comedy"
-  - username: "ramabarbie00"
+    hashtags: "#tiktok, #twin, #foryoupage, #duet"
+  - username: "wahyu.wg16"
     fullname: >-
-      Ramabarbie00
+      Wahyu Gunawan✨
+    bio: >-
+      Jakarta,Indonesia🇮🇩 Intagram : wahyu.wg16
     location: "Indonesia"
-    followers: 90678
-    engagement: 1009
-    commentsToLikes: 0.079023
-    id: cka6dzqfl9syl0i78k0vm4yvd
+    followers: 58900
+    engagement: 1250
+    commentsToLikes: 0.064929
+    id: cka6nb6icaop60i78816ojw1p
     verified: false
-    hashtags: "#transformasi, #gamers, #jelekbodoamat, #followme"
-  - username: "syahrull_gyan"
+    hashtags: "#fyp, #epyepe, #zoommyface, #duet"
+  - username: "kevin.koloay"
     fullname: >-
-      syahrullgyan
+      Kevin Petterson
+    bio: >-
+      💫IG @Kevinkoloay 📍Jakarta - Manado 📩 DM for Business / PP FANBOY BTS
     location: "Indonesia"
-    followers: 300147
-    engagement: 679
-    commentsToLikes: 0.019866
-    id: ck8ae3ra59k920j782qry5ooz
+    followers: 96100
+    engagement: 1172
+    commentsToLikes: 0.041668
+    id: ckd0gi7eae58k0j23efuy8ugu
     verified: false
-    hashtags: "#tiktokindo, #madhuridixit, #ranimukherjee, #diltopagalhai"
-  - username: "benjamin.masteradhisurya"
+    hashtags: "#kpopers, #bts, #kpoper, #foryoupage"
+  - username: "melanirachmah"
     fullname: >-
-      Benjamin M.A.
+      🎭FAMILIAR™Cimel
+    bio: >-
+      NR : 001 - Tangerang/Jakarta ig. @cimel.meela
     location: "Indonesia"
-    followers: 175883
-    engagement: 503
-    commentsToLikes: 0.025237
-    id: ck8kfdgqhdke50j78ek4iydso
+    followers: 20700
+    engagement: 1638
+    commentsToLikes: 0.085371
+    id: ck9eujbledw880j78dzuw1ybt
     verified: false
-    hashtags: "#nbaallstar, #couplegoals, #xyzcba, #prayforme"
-  - username: "bastien.scheunemann"
+    hashtags: "#benyaminsueb, #indonesia, #familyfamiliar, #duet"
+  - username: "juhanah123"
     fullname: >-
-      Bastien Scheunemann
+      @Anah-Oktoviani✨💛
+    bio: >-
+      Bantu Follow 30.k Nyah Yah Jakarta Barat ❤️☺️
     location: "Indonesia"
-    followers: 159761
-    engagement: 597
-    commentsToLikes: 0.018670
-    id: ck90u68mnvg070j78axvdbq4d
+    followers: 5245
+    engagement: 1491
+    commentsToLikes: 0.196306
+    id: ckck2n99om57b0j235nnpe0dn
     verified: false
-    hashtags: "#dirumahaja, #eyeschallenge, #mbok, #indomie"
-  - username: "rachelngg"
+    hashtags: "#fyp, #fyporyoupage, #tiktokers, #slomotion"
+  - username: "jessicaputeri"
     fullname: >-
-      Rachel Ng🦋
+      jessicaputeri
+    bio: >-
+      orang malang tinggal di jakarta
     location: "Indonesia"
-    followers: 9034
-    engagement: 369
-    commentsToLikes: 0.085340
-    id: ck8vvexirlknb0j78u4tdf998
+    followers: 1300000
+    engagement: 1712
+    commentsToLikes: 0.012480
+    id: ckbaxvi4nobyn0j23fqoansu2
     verified: false
-    hashtags: "#mcflurry, #fypchchallenge, #comedy, #shopee"
-  - username: "anjelrecingteam"
+    hashtags: "#stitch, #duet, #racunintiktok, #dermasterindonesia"
+  - username: "pangeranipam"
     fullname: >-
-      🇲🇨
+      pangeran ipam
+    bio: >-
+      follow IG ku @pangeranipam 📍jakarta, indonesia
     location: "Indonesia"
-    followers: 5471
-    engagement: 372
-    commentsToLikes: 0.010676
-    id: ckamdus6e18ra0i78cul433cv
+    followers: 214400
+    engagement: 1429
+    commentsToLikes: 0.044935
+    id: ckc1ygmay2a470j23vyuxkolb
     verified: false
-    hashtags: "#06, #bhogeleche, #anjelrecingteam, #91"
-  - username: "mzhirui"
+    hashtags: "#duetbarengoppoa53, #kpop, #kpopers, #viral"
+  - username: "nengrizmaaa27"
     fullname: >-
-      Mat Bat
+      EFCTI🦅OWNER-RIZMA PRAJA👑
+    bio: >-
+      Bollywood Mania🔥 IG ME:@nengrizmaaa27 Jakarta, 27 Mei 1992 👑Ristafa👑 Nayselaa
     location: "Indonesia"
-    followers: 23207
-    engagement: 1564
-    commentsToLikes: 0.023004
-    id: cka0pp9fu98100i785g43dgmt
+    followers: 6330
+    engagement: 6318
+    commentsToLikes: 0.000000
+    id: ckdtjzsrdxi3s0j2382q7d13g
     verified: false
-    hashtags: "#jaksel, #fingerboard, #fyp"
-  - username: "keoshachavhan"
+    hashtags: "#foryou, #fypdongggggggg, #storywa, #storywhatssapp"
+  - username: "nchozaffandy"
     fullname: >-
-      Keosha🥀
+      GOLDEN💫AFFANDY👑
+    bio: >-
+      ผมรักคุณ 🇹🇭 Majalengka - Jakarta 🇮🇩 Bantu Follow IG: @nchozaffandy
     location: "Indonesia"
-    followers: 4995
-    engagement: 1074
-    commentsToLikes: 0.050615
-    id: cka0ppfx499dc0i78lgiztgfr
+    followers: 58400
+    engagement: 1085
+    commentsToLikes: 0.048642
+    id: ck9ews2ido4sp0j78lzmg557w
     verified: false
-    hashtags: "#kageyama, #haikyuu, #anime, #hinata"
-  - username: "dannysreza"
+    hashtags: "#fyp, #tiktok, #zoommyface, #muslim"
+  - username: "dwynnawin"
     fullname: >-
-      𝔡𝔞𝔫𝔫𝔶
+      Dwynna Win
+    bio: >-
+      a 21yo wahmen in a 16yo body 📍jakarta🇮🇩 sec acc: @dahyunlokal
     location: "Indonesia"
-    followers: 3966
-    engagement: 968
-    commentsToLikes: 0.071057
-    id: cka65zgowf99g0i78xyxxi9y9
+    followers: 377100
+    engagement: 1617
+    commentsToLikes: 0.015032
+    id: ckbklk9b2et8p0j23rhv58ahj
     verified: false
-    hashtags: "#tiktokindon, #relationship, #theatrekid, #coffee"
+    hashtags: "#duet, #mikasa, #cosplay, #attackontitan"
 ---

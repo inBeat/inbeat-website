@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Barcelona In 2020
 description: >-
-  Find top makeup TikTok influencers in Barcelona in 2020. Most popular hashtags: #makeup #travel #love #viral.
+  Find top makeup TikTok influencers in Barcelona in 2020. Most popular hashtags: #makeup #halloween #fyp #makeupartist.
 platform: TikTok
+hits: 5
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "basirp"
-    fullname: >-
-      Basilio f Romero
-    location: "Spain"
-    followers: 14745
-    engagement: 689
-    commentsToLikes: 0.031790
-    id: ck90168znbagu0j78ej2ep1pa
-    verified: false
-    hashtags: "#travel, #misviajes2020, #regalo, #halloweekend"
-  - username: "umbrahatzlertv"
-    fullname: >-
-      Ümbra Hatzler
-    location: "Spain"
-    followers: 6150
-    engagement: 1151
-    commentsToLikes: 0.060107
-    id: ckan2zrj02tni0i78jh61lxwd
-    verified: false
-    hashtags: "#hola, #numetal, #instrument, #canto"
-  - username: "itspaulareiz"
-    fullname: >-
-      itspaulareiz
-    location: "Spain"
-    followers: 189389
-    engagement: 1910
-    commentsToLikes: 0.006077
-    id: ck9f23naabgr70j78cmf12419
-    verified: false
-    hashtags: "#onedirection, #coronavirus, #makeup, #espa"
-  - username: "emitaz"
-    fullname: >-
-      EMITAZ - EMELIE 🦋
-    location: "Spain"
-    followers: 25851
-    engagement: 433
-    commentsToLikes: 0.017208
-    id: ck9vfmwcq3vhq0j78o6sznbl3
-    verified: true
-    hashtags: "#mylove, #musthave, #modellife, #mango"
-  - username: "jordi.koalitic"
-    fullname: >-
-      @Jordi.koalitic 
-    location: "Spain"
-    followers: 15146828
-    engagement: 1711
-    commentsToLikes: 0.005583
-    id: ck7zo60rii4vv0j78t6a3c47i
-    verified: true
-    hashtags: "#sparkle, #beats, #pool, #catalunya"
-  - username: "vanillaattack"
-    fullname: >-
-      Teresa Sala
-    location: "Spain"
-    followers: 29274
-    engagement: 516
-    commentsToLikes: 0.051270
-    id: ck90267agc6lk0j784gec8o5n
-    verified: false
-    hashtags: "#sushichallenge, #tiktokmadrid, #espa, #style"
-  - username: "sugardadyspain"
-    fullname: >-
-      Sugar Dady España
-    location: "Spain"
-    followers: 4474
-    engagement: 510
-    commentsToLikes: 0.027603
-    id: ckacajg6agzw00i78j6q9fep5
-    verified: false
-    hashtags: "#fashion, #mequedoencasa, #foryoupage, #viajemosjuntos"
-  - username: "vanessaduquer14"
-    fullname: >-
-      Vanessa Duque
-    location: "Spain"
-    followers: 107437
-    engagement: 222
-    commentsToLikes: 0.010504
-    id: ck9v0fkd5ci630j78j3g42ivb
-    verified: false
-    hashtags: "#facemix, #zundada, #cuarentenatime, #makeup"
   - username: "annersite"
     fullname: >-
       ANNERSITE
+    bio: >-
+      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
     location: "Spain"
-    followers: 280308
-    engagement: 2672
-    commentsToLikes: 0.034808
+    followers: 410700
+    engagement: 2535
+    commentsToLikes: 0.016004
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#lasirenita, #tipsdemaquillaje, #pocahontas, #trucosdemaquillaje"
-  - username: "nadina_ioana"
+    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
+  - username: "humor.de.ary"
     fullname: >-
-      Nadina Ioana
+      ARY
+    bio: >-
+      🎭 ESTAMOS DE COÑA 🎭 💕Desde Barcelona 💕 💕Fabricada en 1985💕
     location: "Spain"
-    followers: 334667
-    engagement: 568
-    commentsToLikes: 0.007995
-    id: cka637f4a34p40i787pow9lle
+    followers: 7505
+    engagement: 1612
+    commentsToLikes: 0.090996
+    id: ck9ejdcxz2gxr0j7848tfh35u
     verified: false
-    hashtags: "#lipinjetions, #coverage, #edgesonfleek, #weird"
+    hashtags: "#humordeary, #fyp, #comedia, #amigosconderecho"
+  - username: "mariinacano"
+    fullname: >-
+      Marina Cano 🕊
+    bio: >-
+      📍From Barcelona,🇪🇸 👄Lipsing videos 💃🏻 Dancer https://peoople.app/mariinac
+    location: "Spain"
+    followers: 65700
+    engagement: 1225
+    commentsToLikes: 0.011946
+    id: ck900y5w1azje0j785ph9699g
+    verified: false
+    hashtags: "#entucuerpo, #comedia, #jeans, #victoria"
+  - username: "emitaz"
+    fullname: >-
+      EMITAZ - EMELIE 🦋
+    bio: >-
+      Fashion & A little bit of my life 💃🏽 Barcelona - London
+    location: "Spain"
+    followers: 40600
+    engagement: 523
+    commentsToLikes: 0.008611
+    id: ck9vfmwcq3vhq0j78o6sznbl3
+    verified: true
+    hashtags: "#tiktokfashion, #outfit, #outfits, #haul"
+  - username: "vanillaattack"
+    fullname: >-
+      Teresa Sala
+    bio: >-
+      Follow me on Instagram @vanillaattack
+    location: "Spain"
+    followers: 28400
+    engagement: 501
+    commentsToLikes: 0.046469
+    id: ck90267agc6lk0j784gec8o5n
+    verified: false
+    hashtags: "#pregnancy, #pregnancyannouncement, #barcelona, #embarazada"
+  - username: "mo0nliet"
+    fullname: >-
+      🦋lawliet🦋
+    bio: >-
+      makeup artist 🤍follow my instagram; mo0nliet🤍 collab; moonliet.light@gmail.com
+    location: "Spain"
+    followers: 12600
+    engagement: 2745
+    commentsToLikes: 0.060160
+    id: ckbw28qlvwjbt0j23ik396g0q
+    verified: false
+    hashtags: "#makeupartist, #makeuptutorial, #fyp, #parati"
+  - username: "annersite"
+    fullname: >-
+      ANNERSITE
+    bio: >-
+      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
+    location: "Spain"
+    followers: 410700
+    engagement: 2535
+    commentsToLikes: 0.016004
+    id: ck904fvc3e8110j78ehh8w2o5
+    verified: true
+    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
+  - username: "heyeiko"
+    fullname: >-
+      Hey! Eiko!
+    bio: >-
+      🏝 #GranCanaria 🇮🇨 👑 #DragQueen 👠 💄#MakeUpArtist 💀
+    location: "Spain"
+    followers: 119500
+    engagement: 887
+    commentsToLikes: 0.083289
+    id: ckbezzvh7lby50j23bvmxjn18
+    verified: false
+    hashtags: "#dragqueen, #grancanaria, #trend, #challenge"
+  - username: "nobodisugly"
+    fullname: >-
+      Camila @nobodisugly
+    bio: >-
+      💋 Makeup y un poquito de todo 💌 nobodisugly@bushidotalent.com
+    location: "Spain"
+    followers: 736000
+    engagement: 2115
+    commentsToLikes: 0.012805
+    id: ck9jx0p4iyqvo0j78mb08gfu8
+    verified: false
+    hashtags: "#maquillaje, #aprendecontiktok, #halloween, #makeup"
+  - username: "latoxi"
+    fullname: >-
+      Latoxi
+    bio: >-
+      🌈🇪🇸🇨🇱 200k?? 😳😳😳🙏🏻 Valeeeee goordaaaas☝🏻 Makeup artist Follow 👇🏻
+    location: "Spain"
+    followers: 104500
+    engagement: 2082
+    commentsToLikes: 0.018816
+    id: ckceip5tdr3cy0j232ihwg10a
+    verified: false
+    hashtags: "#halloween2020, #makeup, #maquillaje, #undiaenmivida"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Manchester In 2020
 description: >-
-  Find top fashion Instagram influencers in Manchester in 2020. Most popular hashtags: #fashion #manchester #quarantine #orange.
+  Find top fashion Instagram influencers in Manchester in 2020. Most popular hashtags: #fashion #manchester #instagood.
 platform: Instagram
+hits: 122
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 122 Instagram influencers like this in Manchester, United Kingdom for you to collaborate.
 profiles:
-  - username: "heathermacfarlane"
+  - username: "leotobyandme"
     fullname: >-
-      h
+      🌟Kayleigh, Leo & Toby🌟
+    bio: >-
+      Kayleigh- Mama to Leo&Toby 🦁🐥 Family | Home | Fashion #Manchester Uk🌎 Dm or email for Collaborations✉️
     location: "United Kingdom"
-    followers: 5321
-    engagement: 2650
-    commentsToLikes: 0.433301
-    id: ckaowpv8a9x600i78tispqk8m
+    followers: 5158
+    engagement: 518
+    commentsToLikes: 0.055976
+    id: ck9h9tdkp9w420j78qzvl6ug7
     verified: false
-    hashtags: "#dancephotography, #lingerie, #peakdistrict, #wakeskincare"
-  - username: "dominiquebinns"
+    hashtags: ""
+  - username: "socialbeingz"
     fullname: >-
-      Dominique Binns🖖🏽
+      Social Beingz
+    bio: >-
+      SOCIAL SEASON @joshsosocial & @rysosocial NEW MERCH STORE on socialbeingz.com/store PROPANE ft @jonkeith OUT NOW👇🏻
     location: "United Kingdom"
-    followers: 39504
-    engagement: 195
-    commentsToLikes: 0.060204
-    id: ck55q9fr1cgmu0i11oh0dgsws
+    followers: 16927
+    engagement: 336
+    commentsToLikes: 0.077852
+    id: ck5bunpeei3rt0i11xq4ze5rp
     verified: false
-    hashtags: "#lockdownlife, #skiing, #saturday, #firstworldprobs"
+    hashtags: "#rapitaliano, #independentartistatl, #rappers, #rapnacional"
+  - username: "beckyloubutton"
+    fullname: >-
+      Becky Lou Button
+    bio: >-
+      be kinder than necessary 🌱 (she / her) 14-16 midsize fashion 🤍 manchester 📍🏳️‍🌈 beckyloubutton@gmail.com ✉️
+    location: "United Kingdom"
+    followers: 52236
+    engagement: 277
+    commentsToLikes: 0.054171
+    id: ck5c0vmm7txfa0i11qgnosg5c
+    verified: false
+    hashtags: "#nastygalsdoitbetter, #babesofmissguided, #gosh, #spritzofcolour"
   - username: "ellenbrockygirl"
     fullname: >-
       Ellen Brockbank
+    bio: >-
+      📍Manchester. Fashion with a hint of beauty and interior. Interior account: @ellenbrockyhome. @bloklondon ambassador. Contact: ellen@live.co.uk
     location: "United Kingdom"
-    followers: 50582
-    engagement: 235
-    commentsToLikes: 0.056621
+    followers: 72041
+    engagement: 289
+    commentsToLikes: 0.038919
     id: ck5zoywb4rnc90i14ua9qlhfl
     verified: false
-    hashtags: "#beautybay, #desenio, #housegoals, #competition"
-  - username: "revkarthi.aj"
+    hashtags: "#outfit, #brunettebalayage, #fashionblogger, #picoftheday"
+  - username: "gracehargs"
     fullname: >-
-      Revathi
+      Grace Hargreaves
+    bio: >-
+      nineteen 📍midlands/manchester fashion buying student @ mmu 🛍 outfit links ➡️ 21 buttons: @gracehargs click the link for my blog 💕
     location: "United Kingdom"
-    followers: 113313
-    engagement: 207
-    commentsToLikes: 0.022208
-    id: ckap7vd2slq360i78ya1a8m3s
+    followers: 3523
+    engagement: 1238
+    commentsToLikes: 0.102780
+    id: ckf5lees4pabg0j23m7yxi9wq
     verified: false
-    hashtags: "#fendibag, #guccigirl, #stayathome, #manoloblahnikheels"
-  - username: "amirrsofficial"
+    hashtags: "#fashion, #cute, #photooftheday, #selfie"
+  - username: "llexiloo"
     fullname: >-
-      ☁️AMIR NEMBHARD☁️
+      
+    bio: >-
+      Dance & Fashion 2001 Manchester
     location: "United Kingdom"
-    followers: 13934
-    engagement: 537
-    commentsToLikes: 0.014423
-    id: ck13976x7jvnc0i19y8rjnfcz
+    followers: 2222
+    engagement: 1177
+    commentsToLikes: 0.095227
+    id: ck5zupqz62tig0i14vtd8cc7x
     verified: false
-    hashtags: "#idealofsweden, #fashion, #wherewasi, #manchester"
-  - username: "justleftmyforties_"
+    hashtags: "#puttuporshutup"
+  - username: "jamesharrisondone"
     fullname: >-
-      My Daily Fashion/beauty
+      James Harrison-Done
+    bio: >-
+      🏡 Manchester jecdone@gmail.com
     location: "United Kingdom"
-    followers: 9626
-    engagement: 475
-    commentsToLikes: 0.572289
-    id: ck0vzqhn8aej20i199f57tn5n
+    followers: 4710
+    engagement: 452
+    commentsToLikes: 0.049732
+    id: ckapa1llpuccu0i78fo55d5fe
     verified: false
-    hashtags: "#summervibes, #snakeprint, #ukinstablogger, #adidas"
+    hashtags: "#lockdown, #gucci, #instagay, #tanned"
+  - username: "adamleatherland"
+    fullname: >-
+      Adam Leatherland 🌝
+    bio: >-
+      Fashion buyer @nastygal MCR
+    location: "United Kingdom"
+    followers: 2559
+    engagement: 1411
+    commentsToLikes: 0.075276
+    id: ckap6yo8bhwvn0i785q9tdz0m
+    verified: false
+    hashtags: "#repost, #clean, #simple, #minimalism"
   - username: "itsbenwalker"
     fullname: >-
       𝐁𝐄𝐍 𝐖𝐀𝐋𝐊𝐄𝐑
+    bio: >-
+      📍 24 | ♌︎ | Manchester ⛓ Fashion | Travel | Lifestyle 📩 benw_alker@live.co.uk
     location: "United Kingdom"
-    followers: 2382
-    engagement: 1726
-    commentsToLikes: 0.046929
+    followers: 4224
+    engagement: 1005
+    commentsToLikes: 0.048303
     id: ckaosazikqx180i78t9l373r5
     verified: false
-    hashtags: "#thebodyshopuk, #farfetchfind, #workfromhomefits, #thebodyshop"
-  - username: "lucy_may_ireland"
+    hashtags: "#topmanstyle, #gifted, #ad, #braun"
+  - username: "atiekomerc"
     fullname: >-
-      Lucy May Ireland
+      KATIE COMER
+    bio: >-
+      🌻Model and History Student 🌸MA @jadoremodelsmcr 🍄MIAMI @nextmodels keshia@jadoremodels.co.uk
     location: "United Kingdom"
-    followers: 6206
-    engagement: 565
-    commentsToLikes: 0.031485
-    id: ckaowrg0ra48m0i78lj1fepi2
+    followers: 8571
+    engagement: 1210
+    commentsToLikes: 0.036942
+    id: ck14jbn82jiv30i19j81el2z6
     verified: false
-    hashtags: "#babiesofinstagram, #hazelnut, #treat, #pregnant"
-  - username: "rosiefinlan"
-    fullname: >-
-      Make Up Artist In Manchester
-    location: "United Kingdom"
-    followers: 25237
-    engagement: 278
-    commentsToLikes: 0.105823
-    id: ck5hrofdfv7gh0i11nundz43x
-    verified: false
-    hashtags: "#love, #cosmetics, #makeupart, #maccosmetics"
-  - username: "x_trintrinbaby"
-    fullname: >-
-      
-    location: "United Kingdom"
-    followers: 7684
-    engagement: 650
-    commentsToLikes: 0.075488
-    id: ckaoz2kr2k3s00i78t3bjuwx9
-    verified: false
-    hashtags: "#sunglasses, #natural, #braids, #hairjourney"
+    hashtags: "#makeup, #hair, #mermaidwaves, #model"
 ---

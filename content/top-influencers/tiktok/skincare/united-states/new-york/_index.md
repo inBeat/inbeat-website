@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In New York In 2020
 description: >-
-  Find top skincare TikTok influencers in New York in 2020. Most popular hashtags: #randomthings #learnontiktok #beautyroutine #newyork.
+  Find top skincare TikTok influencers in New York in 2020. Most popular hashtags: #fyp #skincare #foryou #newyork.
 platform: TikTok
+hits: 62
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 62 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "shinnersss"
+  - username: "daniellemareka"
     fullname: >-
-      Rebecca
+      Danielle Mareka
+    bio: >-
+      🧚🏾‍♀️🤍✌🏾😗 IG: @daniellemareka muse 🧝🏽‍♀️ artist supermodel in the making
     location: "United States"
-    followers: 4263
-    engagement: 656
-    commentsToLikes: 0.024692
-    id: cka0jyx2gk80q0i78ixmt1frp
+    followers: 66100
+    engagement: 2195
+    commentsToLikes: 0.011089
+    id: ckbwjn2u03nsv0j23iu2a27o7
     verified: false
-    hashtags: "#celebritycheck, #governorcuomo, #skincare, #majors"
-  - username: "josetty1"
+    hashtags: "#learnontiktok, #fashion, #pose, #trending"
+  - username: "ialfarog_"
     fullname: >-
-      Josetty1
+      Inés Alfaro
+    bio: >-
+      Skincare | Makeup | review Latina viviendo en NY ✨
     location: "United States"
-    followers: 35047
-    engagement: 245
-    commentsToLikes: 0.024049
-    id: ck9epncistd760j78uq4e3qc9
+    followers: 21100
+    engagement: 514
+    commentsToLikes: 0.052641
+    id: ckbfat1nq2ecs0j23v8xned1n
     verified: false
-    hashtags: "#frenchies, #inthecrowd, #couplegoals, #latina"
-  - username: "eshita_st"
+    hashtags: "#beauty, #tips, #fyp, #boxycharm"
+  - username: "jaretbates"
     fullname: >-
-      Eshita S
+      Jaret Bates
+    bio: >-
+      18 AL BHS 20 / USA 24
     location: "United States"
-    followers: 2585
-    engagement: 419
-    commentsToLikes: 0.048325
-    id: ckams7skfozzm0i78j7xte29i
+    followers: 50200
+    engagement: 1460
+    commentsToLikes: 0.042278
+    id: ckbl31qi80b9y0j23bpp8y2qu
     verified: false
-    hashtags: "#baking, #dessert, #wavyhair, #maltese"
-  - username: "mireyarios"
+    hashtags: "#south, #school, #greenscreen, #foryoupage"
+  - username: ".peachbun"
     fullname: >-
-      Mireya Rios 
+      peachbun
+    bio: >-
+      BLACK LIVES MATTER!! sorry for being inactive 🥺
     location: "United States"
-    followers: 479684
-    engagement: 1877
-    commentsToLikes: 0.013993
-    id: ck7zp0w2emyx00j78gurb6lcg
-    verified: true
-    hashtags: "#coolgirl, #esportsforall, #peppermint, #asmrtrigger"
-  - username: "nicolconcilio"
-    fullname: >-
-      NICOL CONCILIO
-    location: "United States"
-    followers: 141762
-    engagement: 889
-    commentsToLikes: 0.022260
-    id: ck8nbubr4bigw0j7897w1l1h6
-    verified: true
-    hashtags: "#paint, #minitutorials, #randomthings, #itsaremix"
-  - username: "martousnaturals"
-    fullname: >-
-      martousnaturals
-    location: "United States"
-    followers: 2024
-    engagement: 1067
-    commentsToLikes: 0.071027
-    id: ckamyiesbhn4n0i78b6e0em49
+    followers: 8346
+    engagement: 1650
+    commentsToLikes: 0.037285
+    id: ckc7rlbmcwroo0j23dk26redn
     verified: false
-    hashtags: "#soaproses, #will, #barsfordays, #aftermycoffee"
-  - username: "innahershko"
+    hashtags: "#foryoupage, #aesthetic, #myskinandme, #newroom"
+  - username: "juliettesxlife"
     fullname: >-
-      Inna Hershko
+      Juliette🍓🌵
+    bio: >-
+      70K❤️ Email: jpropp@tahlpropp.com
     location: "United States"
-    followers: 2118
-    engagement: 412
-    commentsToLikes: 0.058694
-    id: ckai2mrcygej60i78ua82pjgm
+    followers: 70700
+    engagement: 2442
+    commentsToLikes: 0.037958
+    id: ck932w4cwlblj0j78bdho499f
     verified: false
-    hashtags: "#happyeaster, #lifeathome, #trend, #heartbeenbroke"
-  - username: "jenniferrant"
+    hashtags: "#fyp, #foryou, #indie, #avotoast"
+  - username: "olgaavezbakiev"
     fullname: >-
-      jenniferrant
+      Olga Avezbakiev
+    bio: >-
+      Thank You all for love and support! Check out my daughter's cosmetic business!
     location: "United States"
-    followers: 514914
-    engagement: 810
-    commentsToLikes: 0.007195
-    id: ck9bywe6knf5k0j78vn512nf0
+    followers: 2662
+    engagement: 1232
+    commentsToLikes: 0.084778
+    id: ckcdf7ezy6hix0j23fjpaow61
     verified: false
-    hashtags: "#randomthings, #bath, #isolationmoves, #penguin"
-  - username: "blissfulrain"
+    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
+  - username: "beautiful_wreck_"
     fullname: >-
-      blissfulrain
+      Today’sTrends
+    bio: >-
+      fashion🤍glam✨aesthetic☁️
     location: "United States"
-    followers: 31783
-    engagement: 2139
-    commentsToLikes: 0.059010
-    id: ck9ewd398m6t20j781nuy2v75
+    followers: 9656
+    engagement: 1730
+    commentsToLikes: 0.006476
+    id: ckbwimmx437p40j23iz8bfov1
     verified: false
-    hashtags: "#loungewear, #tatemcrae, #shoppinghaul, #room"
-  - username: "krity_s"
+    hashtags: "#shopping, #streetwear, #london, #home"
+  - username: "abbyspauldingg"
     fullname: >-
-      krity
+      abigail
+    bio: >-
+      16 New York snap: abbythedancer6
     location: "United States"
-    followers: 2076
-    engagement: 454
-    commentsToLikes: 0.148309
-    id: ckahycdfpysld0i78i64p5bmn
+    followers: 47000
+    engagement: 1542
+    commentsToLikes: 0.015870
+    id: ckbr1w3msirxv0j23muljvala
     verified: false
-    hashtags: "#ilovered, #girlyfashion, #vitaminac, #closettour"
+    hashtags: "#word, #dance, #foryou, #beatsdaisychallenge"
+  - username: "tourdelust"
+    fullname: >-
+      Christine Tran
+    bio: >-
+      New York things, travel, photography & just having fun. Follow me on IG
+    location: "United States"
+    followers: 105700
+    engagement: 784
+    commentsToLikes: 0.026124
+    id: ck8qoxda80x640j78hv2la75o
+    verified: false
+    hashtags: "#hellofall, #fallfoliage, #autumn, #tiktokpartner"
+  - username: "scoutthecity"
+    fullname: >-
+      scoutthecity
+    bio: >-
+      Cool mom from New York. Fashion tips, How to’s & funny content.
+    location: "United States"
+    followers: 88400
+    engagement: 732
+    commentsToLikes: 0.013779
+    id: ck9ke226nwwk30j78zwx0j5ta
+    verified: false
+    hashtags: "#tiktokfashion, #fyp, #comedy, #styletips"
 ---

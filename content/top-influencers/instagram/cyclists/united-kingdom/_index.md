@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top cyclists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #teamwork #tourdefrance #ad #tbt.
+  Find top cyclists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ad #womenscycling #cycling.
 platform: Instagram
+hits: 72
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 72 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "jasperphilipsen"
     fullname: >-
       Jasper Philipsen
+    bio: >-
+      - Professional cyclist for @uae_team_emirates - Represented by @squadrasportsmanagement
     location: "United Kingdom"
-    followers: 12656
-    engagement: 1574
-    commentsToLikes: 0.038729
+    followers: 15930
+    engagement: 1438
+    commentsToLikes: 0.032565
     id: ck5qe0jr7y5a20i11miq9mp2f
     verified: false
-    hashtags: "#uaeteamemirates, #covid, #sunnydays, #2020"
-  - username: "tompidcock"
+    hashtags: "#bike, #uaeteamemirates, #ridetogether, #cyclinglife"
+  - username: "caro_sbx"
     fullname: >-
-      ᵀᴼᴹ ᴾᴵᴰᶜᴼᶜᴷ
+      Caroline Soubayroux
+    bio: >-
+      Cyclist living by #rule5 🔥 Busy banker 👩🏻‍💻 Ultra-distance geek🤘🏻 🚴🏻‍♀️ @leavalleycc • @velociposse 🤝@monument_hq • @universal.colours • @wilma.cc
     location: "United Kingdom"
-    followers: 80084
-    engagement: 1129
-    commentsToLikes: 0.007938
-    id: ck0vxmcu6zmiz0i19oahzixvw
-    verified: true
-    hashtags: "#championsrace, #fuckoffcorona, #sramdayofpower, #gravelbike"
-  - username: "aby_mae"
-    fullname: >-
-      Abby Mae Parkinson
-    location: "United Kingdom"
-    followers: 17799
-    engagement: 988
-    commentsToLikes: 0.006351
-    id: ck135ff9715ck0i19adgu1lya
+    followers: 5462
+    engagement: 1193
+    commentsToLikes: 0.031689
+    id: ckf5l8dqyooi10j23y8h6jfic
     verified: false
-    hashtags: "#wahooligan, #inmyelemnt, #belgium, #mapiful"
-  - username: "elinorbarker"
+    hashtags: "#universalcolours, #tgif, #notapn20, #mad"
+  - username: "ginger_biskwit"
     fullname: >-
-      Elinor Barker
+      Keira McVitty
+    bio: >-
+      Ex-pro cyclist turned Youtuber 📽 Watch my youtube channel 👇👀 Supported by: ▪️@canyon ▪️@aftershokzuk▪️@we_are_sungod ▪️@maximuscle
     location: "United Kingdom"
-    followers: 31964
-    engagement: 641
-    commentsToLikes: 0.010416
-    id: ck5bv0tl2is9g0i1171z3wquj
-    verified: true
-    hashtags: "#trainingreactiontimes, #tokyo2020, #tokyo2021, #stayhome"
-  - username: "cfhagen"
-    fullname: >-
-      Carl Fredrik Hagen
-    location: "United Kingdom"
-    followers: 7672
-    engagement: 1538
-    commentsToLikes: 0.017898
-    id: ck0w1fhizj2wm0i197i6pi58o
+    followers: 38768
+    engagement: 489
+    commentsToLikes: 0.020108
+    id: ck14isocyh0080i19wemnm3kn
     verified: false
-    hashtags: "#lottosoudalfamily, #sykkellandslaget, #atletfysio, #bakernordby"
-  - username: "laura_scott"
-    fullname: >-
-      Laura Scott
-    location: "United Kingdom"
-    followers: 19495
-    engagement: 326
-    commentsToLikes: 0.025950
-    id: ck6tzq7ezb78g0j71qfu4ua9w
-    verified: false
-    hashtags: "#stayathome, #fullmooninessex, #deathbeforedecaf, #coffeedrunk"
+    hashtags: "#womens100, #ad, #tourdefrance, #redbulltimelaps"
   - username: "l_deignan"
     fullname: >-
       Lizzie D
+    bio: >-
+      🇬🇧 Professional Cyclist @treksegafredo 👩🏽‍🎤 Wearing and designing @santini_cycling 👨🏽‍💻 Coached by @philipdeignan83 👨‍👩‍👧 Mum 📩 Contact @bespoke_m
     location: "United Kingdom"
-    followers: 88534
-    engagement: 326
-    commentsToLikes: 0.009209
+    followers: 94661
+    engagement: 546
+    commentsToLikes: 0.010350
     id: ck0w242xnmivy0i196wjyy2xm
     verified: true
-    hashtags: "#tenerife, #trekemonda, #cycling, #ledolcevita"
-  - username: "lukas_poestlberger"
+    hashtags: "#santinipeople, #santiniwomen, #womenscycling, #family"
+  - username: "elinorbarker"
     fullname: >-
-      Lukas Pöstlberger
+      Elinor Barker
+    bio: >-
+      🚲 Cyclist for GB and @tekkerzcc 🇬🇧 Olympic champion, 5x world champion 📩 emma@bespoke-m.com @specialized_uk and @rapha athlete
     location: "United Kingdom"
-    followers: 18619
-    engagement: 866
-    commentsToLikes: 0.008325
-    id: ck14h7sj88yt60i197vi8g93l
+    followers: 34026
+    engagement: 586
+    commentsToLikes: 0.011532
+    id: ck5bv0tl2is9g0i1171z3wquj
+    verified: true
+    hashtags: "#trackisback, #didnotwakeuplikethis, #raphawomens100, #ad"
+  - username: "whatkathydidnext"
+    fullname: >-
+      Kathy Frankland
+    bio: >-
+      Style|travel|beauty|teacher|cyclist|runner|sharing my adventures|dreaming of our next stop🌍|Email for collabs 📨kathfrankland@hotmail.com 📍Cheshire
+    location: "United Kingdom"
+    followers: 34108
+    engagement: 223
+    commentsToLikes: 0.256220
+    id: ck0vzqj35aers0i19ony6i0o2
     verified: false
-    hashtags: "#cyclingphotographer, #digitalswiss5, #austriangang, #grandtour"
+    hashtags: "#whiteboots, #mididress, #styleitmyway, #hmxme"
+  - username: "aby_mae"
+    fullname: >-
+      Abby Mae Parkinson
+    bio: >-
+      Yorkshire Girl Living Abroad🇬🇧🇫🇷 Cyclist for @lotto_soudal 🚲
+    location: "United Kingdom"
+    followers: 18297
+    engagement: 828
+    commentsToLikes: 0.008034
+    id: ck135ff9715ck0i19adgu1lya
+    verified: false
+    hashtags: "#healthyfood, #healthy, #allnuts, #jevoudraisunebaguettesilvousplait"
+  - username: "deansherwood"
+    fullname: >-
+      Dean Sherwood
+    bio: >-
+      📷 Photographer & Filmmaker for @TheVamps⠀ 🌱 Plant based cyclist & runner⠀ 💊 @Strong.Supplies Ambassador
+    location: "United Kingdom"
+    followers: 152026
+    engagement: 328
+    commentsToLikes: 0.007632
+    id: ck5q8p22j7a480i113n6e961s
+    verified: false
+    hashtags: "#milesformovember, #weneedcrew, #veganfood, #plantbasedgang"
   - username: "graceygarner"
     fullname: >-
       Grace Garner
+    bio: >-
+      Ex professional cyclist 🚴🏽‍♂️ Living in Yorkshire 🌿 Owner of @_lavendergrace nails 💅🏻
     location: "United Kingdom"
-    followers: 6596
-    engagement: 612
-    commentsToLikes: 0.011149
+    followers: 6671
+    engagement: 505
+    commentsToLikes: 0.014855
     id: ckap6ku39ga5j0i78g14dgyrs
     verified: false
-    hashtags: "#cyclingshots, #criterium, #mtbgirl, #enjoytheview"
+    hashtags: "#uciwomencycling, #womenscycling, #autumnbikerides, #outsideisfree"
   - username: "arthur.phat"
     fullname: >-
       Arthur Franks
+    bio: >-
+      18 Music: @arfasounds @team_phat @cyclist_91 ❤️ “FRANK10” in the @breachgram store for a 10% discount.
     location: "United Kingdom"
-    followers: 8209
-    engagement: 1985
-    commentsToLikes: 0.021993
+    followers: 8234
+    engagement: 1795
+    commentsToLikes: 0.021119
     id: ck5q634bfvqqn0i11qyp3x7i2
     verified: false
-    hashtags: "#parkourculture, #muvmag"
+    hashtags: ""
 ---

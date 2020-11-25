@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Dallas In 2020
 description: >-
-  Find top beauty TikTok influencers in Dallas in 2020. Most popular hashtags: #beauty #quarantine #dallas #tiktok.
+  Find top beauty TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #beauty #greenscreen.
 platform: TikTok
+hits: 21
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 21 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "thecurlybeviie"
+  - username: "bloop053"
     fullname: >-
-      Auntie Bev
+      B-Loop
+    bio: >-
+      I came here to laugh. ——> add me on insta IG- bloop053
     location: "United States"
-    followers: 67813
-    engagement: 1342
-    commentsToLikes: 0.009515
-    id: cka0sk1ivlusq0i78dfut0k6k
+    followers: 11800
+    engagement: 1811
+    commentsToLikes: 0.024840
+    id: ckcu6trxsbmz40j23j16hvam5
     verified: false
-    hashtags: "#glowup, #learnfromme, #bighair, #makeup"
-  - username: "puma._.curry"
+    hashtags: "#fup, #comedy, #funny, #fyp"
+  - username: "alexiabreceda"
     fullname: >-
-      Pooma🖤
+      ✨ Alexia ✨
+    bio: >-
+      21 💋 Giveaway at 100k 🙏✨ Dallas, Tx 📍 Dm for promo/collabs
     location: "United States"
-    followers: 229312
-    engagement: 1289
-    commentsToLikes: 0.017986
-    id: ckan2081my3k60i78smw6l9m0
+    followers: 77100
+    engagement: 1823
+    commentsToLikes: 0.014013
+    id: ckb9bf37zxgm50j23hbsfqjws
     verified: false
-    hashtags: "#momsoftiktok, #tiktokwellness, #foryoupage, #beauty"
-  - username: "akinerakcam6"
-    fullname: >-
-      AkiNerakCam
-    location: "United States"
-    followers: 19102
-    engagement: 534
-    commentsToLikes: 0.028400
-    id: ck9r4pxfaw6iv0j78m3hhu6u6
-    verified: false
-    hashtags: "#millon, #ingles, #trendy, #shop"
-  - username: "stlsparkle"
-    fullname: >-
-      Heather Stafford
-    location: "United States"
-    followers: 11773
-    engagement: 1245
-    commentsToLikes: 0.095510
-    id: ck9nq93ht2mus0j784l2yau7y
-    verified: false
-    hashtags: "#nailsonfleek, #prettynails, #hiddentalent, #shuffling"
-  - username: "michele.bell"
-    fullname: >-
-      Michele
-    location: "United States"
-    followers: 3597
-    engagement: 798
-    commentsToLikes: 0.120468
-    id: cka9m605n428g0i78g7rob77e
-    verified: false
-    hashtags: "#therapydog, #musicmatters, #viralvideo, #coockapoo"
-  - username: "statickiss"
-    fullname: >-
-      ⚡️💋Statickiss
-    location: "United States"
-    followers: 2622
-    engagement: 812
-    commentsToLikes: 0.056304
-    id: ck8key137bkvl0j78fmbdikhb
-    verified: false
-    hashtags: "#tiktok, #walk, #trees, #fangs"
-  - username: "jpeebis"
-    fullname: >-
-      JacobRacette
-    location: "United States"
-    followers: 2018
-    engagement: 2709
-    commentsToLikes: 0.403964
-    id: ckaj9gngdei4v0i78t03vlyoy
-    verified: false
-    hashtags: "#fresh, #funny, #ifyouseethisonyourfypimsorryyoucanignoreit, #letthatsinkin"
+    hashtags: "#wewintogether, #makeup, #welldone, #expressieyourself"
   - username: "trainerkat"
     fullname: >-
       TrainerKat
+    bio: >-
+      Boy mom👩‍👦First Responder🚑,Texan Will definitely reply back,might take a bit
     location: "United States"
-    followers: 5222
-    engagement: 1073
-    commentsToLikes: 0.053273
+    followers: 5200
+    engagement: 1063
+    commentsToLikes: 0.045121
     id: ckae0xw0im6cl0i780ubyvqxq
     verified: false
-    hashtags: "#strong, #coffeeislife, #getsome, #notfortheweak"
-  - username: "shutupiris"
+    hashtags: "#duet, #texas, #saturday, #ownthecurve"
+  - username: "theabbyparker"
     fullname: >-
-      iris 🥳
+      Abs 
+    bio: >-
+      Jesus above all Follow me on insta 🌸
     location: "United States"
-    followers: 3162
-    engagement: 1395
-    commentsToLikes: 0.048381
-    id: ck9grjbs5e9670j78z786oeyo
+    followers: 26200
+    engagement: 905
+    commentsToLikes: 0.053470
+    id: ckb9dh02t0sps0j23vcycnxvr
     verified: false
-    hashtags: "#corona, #fliptheswitch, #musiclives, #bestfandom"
-  - username: "sincerelyshelby"
+    hashtags: "#duet, #diy, #greenscreen, #fyp"
+  - username: "lamiazuberi"
     fullname: >-
-      shelby
+      Lamia
+    bio: >-
+      sixty seconds to spread awareness A human simply being⚡️ Dallas| Speaker
     location: "United States"
-    followers: 328641
-    engagement: 1657
-    commentsToLikes: 0.004185
-    id: ck8rrba9gtrsw0j78lx84ijrl
+    followers: 56600
+    engagement: 1970
+    commentsToLikes: 0.058141
+    id: ckaci8u8g2fn60i78ma8urdyj
     verified: false
-    hashtags: "#levelup, #decadesofhair, #strangernow, #alyaskin"
+    hashtags: "#school, #yellow, #foryou, #girls"
+  - username: "_evelynjuarez16"
+    fullname: >-
+      _evelynjuarez16
+    bio: >-
+      PO Box: 1408 N. Riverfront Blvd 504 Dallas, Tx 75207 Venmo/cashapp @EvelynLIT
+    location: "United States"
+    followers: 861100
+    engagement: 1871
+    commentsToLikes: 0.035014
+    id: ck8khiu1lmwe90j78bp7tkptg
+    verified: false
+    hashtags: "#fyp, #nails, #beauty, #storytime"
+  - username: "jaychenart"
+    fullname: >-
+      jaychenart
+    bio: >-
+      IG @jaychenart. LSU 2020. | Photoshop | Visual development artist Dallas
+    location: "United States"
+    followers: 96200
+    engagement: 2153
+    commentsToLikes: 0.011802
+    id: ck8sefnwnjih40j783bfh2cmu
+    verified: false
+    hashtags: "#paint, #art, #conceptart, #characterdesign"
+  - username: "thecurlybeviie"
+    fullname: >-
+      Auntie Bev
+    bio: >-
+      Auntie Bev 🍷 CEO of NeoCurly Dallas, Tx 25 ♎️
+    location: "United States"
+    followers: 110700
+    engagement: 1785
+    commentsToLikes: 0.012878
+    id: cka0sk1ivlusq0i78dfut0k6k
+    verified: false
+    hashtags: "#naturalhair, #fyp, #foryou, #hitdifferent"
+  - username: "_mariaa.elenaa_"
+    fullname: >-
+      _MARIAA.ELENAA_
+    bio: >-
+      24 🇲🇽🇺🇸 📍Dallas, TX 📸 IG: @_MARIAA.ELENAA_ 🎥 YT: _Mariaa Elenaa_
+    location: "United States"
+    followers: 113400
+    engagement: 1841
+    commentsToLikes: 0.019786
+    id: ckbkdv46e46qd0j236xu3s7a4
+    verified: false
+    hashtags: "#halloween, #nyxcosmeticspartner, #makeup, #nyxcosmetics"
+  - username: "bridalightskin"
+    fullname: >-
+      Brianna Velasquez
+    bio: >-
+      Dallas, Tx 👻: mixed.gal22 Business: Michael.a.velasquez@gmail.com
+    location: "United States"
+    followers: 200400
+    engagement: 1598
+    commentsToLikes: 0.014974
+    id: ck8ozec95bpne0j78leezry3s
+    verified: false
+    hashtags: "#broken, #dallas, #boy, #gotplayed"
 ---

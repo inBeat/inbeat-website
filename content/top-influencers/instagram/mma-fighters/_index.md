@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mma Fighters Instagram Influencers In 2020
 description: >-
-  Find top mma fighters Instagram influencers in 2020. Most popular hashtags: #mma #mmafighter #exercise #bjj.
+  Find top mma fighters Instagram influencers in 2020. Most popular hashtags: #mma #ufc #abudhabi.
 platform: Instagram
+hits: 247
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 247 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "amiraliakbari60"
+  - username: "sashka_stone"
     fullname: >-
-      Amirali Akbari
-    location: "Iran"
-    followers: 1910317
-    engagement: 1929
-    commentsToLikes: 0.017394
-    id: ck5zl0z2gkj3b0i14qqq4kvp9
-    verified: true
-    hashtags: "#fights, #bellator, #iran, #ufc"
-  - username: "milos_petrasek"
-    fullname: >-
-      Miloš Petrášek
-    location: ""
-    followers: 41227
-    engagement: 1136
-    commentsToLikes: 0.075762
-    id: ck6tpt8wzmonq0j710viacg34
+      Aleksandr Zarubin
+    bio: >-
+      MMA FIGHTER🥊 Blogger🎥 4-x Russia Champion🥇 4-x World Champion🏆 Реклама +7 906 019-20-91
+    location: "Russia"
+    followers: 2125818
+    engagement: 499
+    commentsToLikes: 0.037584
+    id: ck5c1b5tiutjz0i115h345mb5
     verified: false
-    hashtags: "#abs, #win, #vanocnidarek, #smile"
+    hashtags: "#marvel, #video, #rap, #vine"
   - username: "kennethberghmma"
     fullname: >-
       Kenneth Bergh
+    bio: >-
+      Pro LHW MMA Fighter Viasat sports commentator ▪️ @juicery ▪️ @njienorge ▪️ @tights_no
     location: "United States"
-    followers: 21736
-    engagement: 903
-    commentsToLikes: 0.034968
+    followers: 22395
+    engagement: 889
+    commentsToLikes: 0.044249
     id: ck6u4m9z64j1c0j71h29sz821
     verified: false
-    hashtags: "#njie, #juicery, #viaplay, #gamebred"
-  - username: "eslemesovmma_09"
+    hashtags: "#abudhabi, #ufc, #ufceurope, #yasiland"
+  - username: "kintaroumasakari"
     fullname: >-
-      Arslan Eslemesov
-    location: "Russia"
-    followers: 6192
-    engagement: 920
-    commentsToLikes: 0.093665
-    id: ck5cec1fhkqx40i11g9iwdr34
+      金太郎［Kintarou Masakari］
+    bio: >-
+      🇯🇵MMA Fighter🇯🇵 プロ総合格闘家 OSAKA🏯 PANCRASE bantam weight ⚡️RIZIN bantam weight ⚡️ @masakari.channel ｱﾊﾟﾚﾙﾌﾞﾗﾝﾄﾞ#BROADAXE YouTube #マサカリチャンネル
+    location: "Japan"
+    followers: 34097
+    engagement: 978
+    commentsToLikes: 0.036489
+    id: ck6ug73051ar30j71z2pbmj5f
     verified: false
-    hashtags: "#counterstrike, #mma, #mmarussia"
-  - username: "jayde_sheeley"
-    fullname: >-
-      Jayde Raquel
-    location: "United States"
-    followers: 17382
-    engagement: 977
-    commentsToLikes: 0.028042
-    id: ck6trqjk50i5w0j7130cmbxrt
-    verified: false
-    hashtags: "#photography, #overtherhine, #productivity, #iam1stphorm"
+    hashtags: "#rizinff, #rizin, #broadaxe, #youtube"
   - username: "alyseanderson21"
     fullname: >-
       Alyse Anderson
+    bio: >-
+      Pro MMA fighter 👊🏼 Motocross #284🤘🏼 @perfectsportstm @grrrl_clothing @sevenmx_ MNGT: @suckerpunchent
     location: "United States"
-    followers: 27287
-    engagement: 578
-    commentsToLikes: 0.056107
+    followers: 35150
+    engagement: 706
+    commentsToLikes: 0.033992
     id: ck9hcy0vtnfky0j78psob87mn
     verified: false
-    hashtags: "#amazhang, #mmagirls, #graffiti, #mmatraining"
-  - username: "abubakarov155"
+    hashtags: "#mxgirls, #motocross, #sevenmx, #dieselprotein"
+  - username: "syrym_bektursyn"
     fullname: >-
-      Ibragim Abubakarov (Нохчо)
+      Сырым "БАТЫР" Бектурсынов
+    bio: >-
+      Professional MMA Fighter "Alem fighters 🎖Чемпион мира по панкратиону 🎖Чемпион Казахстана по Рукопашному бою 🎖Мастер спорта по боевому самбо
     location: "Russia"
-    followers: 5363
-    engagement: 1360
-    commentsToLikes: 0.063734
-    id: ck0vzx32ibbag0i19u5oxatfn
+    followers: 33390
+    engagement: 401
+    commentsToLikes: 0.059722
+    id: ck6tz5ni57rhf0j71tlv95rzg
     verified: false
-    hashtags: ""
-  - username: "karol_bomby_rysavy"
+    hashtags: "#trendi, #baittytabis, #tabislikecom, #jigiiter"
+  - username: "laura_sanko"
     fullname: >-
-      Karol Bomby Ryšavý
-    location: ""
-    followers: 29083
-    engagement: 532
-    commentsToLikes: 0.054085
-    id: ck0vyitg347jv0i19cztmiq2x
-    verified: false
-    hashtags: "#my, #staffbull, #oktagonmma, #korzocaffe"
-  - username: "nurullo_aliev"
+      Laura Sanko
+    bio: >-
+      🎥UFC on ESPN & DWCS Reporter 🇺🇸Former Pro MMA Fighter 💦Drink HRW code FANCY 🌱DirectHemp.com code FANCY 👇🏼
+    location: "United States"
+    followers: 157960
+    engagement: 522
+    commentsToLikes: 0.034444
+    id: ck6tt37q58cb70j71950pw833
+    verified: true
+    hashtags: "#ufc252, #ufc254"
+  - username: "grzebyk_mma"
     fullname: >-
-      Nurullo.Aliev 🦅
-    location: "Russia"
-    followers: 58609
-    engagement: 1032
-    commentsToLikes: 0.019164
-    id: ck5zmxhkandta0i14u0olbw30
+      Andrzej Grzebyk
+    bio: >-
+      Official Profile ⭐️ KSW MMA Fighter 👑 DOUBLE CHAMPION 👑 Record 17:3:0 Brown Belt BJJ🥋 Legion Team Tarnów/Rzeszów
+    location: "Poland"
+    followers: 15202
+    engagement: 1122
+    commentsToLikes: 0.027970
+    id: ck5cd5arwike20i113s1utzep
     verified: false
-    hashtags: "#gfc24, #soon, #alhamdulillah, #moscow"
+    hashtags: "#53, #double, #mytime, #champ"
   - username: "pantoja_oficial"
     fullname: >-
       Alexandre Pantoja
+    bio: >-
+      Family first MMA Fighter - Brazilian Fighter UFC flyweight division @pantojamma #arraialdocabo www.alexandrepantoja.com.br
     location: "Brazil"
-    followers: 11661
-    engagement: 691
-    commentsToLikes: 0.069124
+    followers: 13822
+    engagement: 610
+    commentsToLikes: 0.069154
     id: ck5c9718uawb60i11rx56w96w
     verified: true
-    hashtags: "#jiujitsu, #family, #focused, #power"
+    hashtags: "#arraialdocabo, #ufcfighter, #muaythai, #mma"
+  - username: "christianeckerlin"
+    fullname: >-
+      Christian Eckerlin
+    bio: >-
+      🇩🇪 Professionell MMA Fighter
+    location: "Poland"
+    followers: 50590
+    engagement: 778
+    commentsToLikes: 0.018864
+    id: ck55o3wdj7kzc0i11r5rxs6f8
+    verified: true
+    hashtags: "#frankfurt, #werbung, #mmaspirit, #together"
+  - username: "ali___70"
+    fullname: >-
+      "Счастливчик"D" "70 🦍"
+    bio: >-
+      📍Professional MMA fighter 📍coach mma!
+    location: "Russia"
+    followers: 7714
+    engagement: 1394
+    commentsToLikes: 0.025827
+    id: ck6u031crdcr00j71xwfzl4jv
+    verified: false
+    hashtags: "#10, #legion, #brothers, #london"
 ---

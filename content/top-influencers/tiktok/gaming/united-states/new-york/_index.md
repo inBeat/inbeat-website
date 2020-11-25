@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In New York In 2020
 description: >-
-  Find top gaming TikTok influencers in New York in 2020. Most popular hashtags: #newyork #quarantine #gaming #coronavirus.
+  Find top gaming TikTok influencers in New York in 2020. Most popular hashtags: #fyp #foryou #gaming #newyork.
 platform: TikTok
+hits: 43
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 43 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "michaelkoenigs"
+  - username: "mattduckettcomedy"
     fullname: >-
-      Michael Koenigs
+      Matt Duckett
+    bio: >-
+      26 Half Black Comedian. BLM. Thanks for 40K!
     location: "United States"
-    followers: 99593
-    engagement: 1442
-    commentsToLikes: 0.009287
-    id: ck80oowahiw700j78i9y8v12l
+    followers: 40300
+    engagement: 1764
+    commentsToLikes: 0.010716
+    id: ckcv8ys9vqlzo0j23fd7nt5hb
     verified: false
-    hashtags: "#goviral, #coronavirus, #peace, #lifting"
-  - username: "tonythetoxicowl"
+    hashtags: "#maga, #lol, #fyp, #college"
+  - username: "laineybear004"
     fullname: >-
-      Tony The Toxic Owl
+      ☞ Elaine ☜
+    bio: >-
+      ~•★ Sarcasm is the best medicine ★ •~ ~•↓ social media ↓•~
     location: "United States"
-    followers: 341546
-    engagement: 2043
-    commentsToLikes: 0.046022
-    id: ck9gl4zodmqbx0j785dmg75qz
+    followers: 7269
+    engagement: 1689
+    commentsToLikes: 0.149807
+    id: ckbalx4zocwqu0j2322x4a787
     verified: false
-    hashtags: "#newyork, #thoughts, #money, #switch"
-  - username: "ongodpreston"
+    hashtags: "#minecraft, #fyp, #hamilton, #duet"
+  - username: "_lil_silly_"
     fullname: >-
-      𝓟𝓻𝓮𝓼𝓽𝓸𝓷
+      Lil silly
+    bio: >-
+      Do it for the tok
     location: "United States"
-    followers: 8883
-    engagement: 934
-    commentsToLikes: 0.036550
-    id: ck8ovd96nteld0j78r0j2aul8
+    followers: 45400
+    engagement: 1759
+    commentsToLikes: 0.038999
+    id: cka0urnflvmjl0i78ezguqjnw
     verified: false
-    hashtags: "#mrkrabs, #minitutorials, #fastfood, #wnba"
-  - username: "kclap"
+    hashtags: "#fyp, #funny, #foryou, #meme"
+  - username: "annavasiliev23"
     fullname: >-
-      KCLAP
+      Anna vasiliev 
+    bio: >-
+      Theeesse is a dIIsaSTAAAAR Insta: anna_vasiliev 18 👽
     location: "United States"
-    followers: 44951
-    engagement: 474
-    commentsToLikes: 0.079435
-    id: ck9m12gmodcw70j78qg6frr3x
+    followers: 24800
+    engagement: 1151
+    commentsToLikes: 0.035663
+    id: ckc324avlse2f0j237ee7h1nn
     verified: false
-    hashtags: "#standingbroomchallenge, #utahcheck, #wakeup, #react"
-  - username: "mirmermaid_rayne"
+    hashtags: "#greenscreen, #fyp, #makeup, #foryou"
+  - username: "hoodvineunrated"
     fullname: >-
-      Miranda_Rayne
+      Hoodvine by RAPTV
+    bio: >-
+      🚀1M+ Followers On Instagram⬆️ 📥Email For Promo Pricing ⬇️Follow our Spotif
     location: "United States"
-    followers: 9114
-    engagement: 520
-    commentsToLikes: 0.056469
-    id: ck9n8rf5d8t880j78r3h3qlno
+    followers: 217300
+    engagement: 1748
+    commentsToLikes: 0.009063
+    id: ckc30zed6rkzu0j23skz2hsnx
     verified: false
-    hashtags: "#throwbacks, #90skid, #duetwithme, #sunburn"
-  - username: "emmdotfrisk"
+    hashtags: "#hiphop, #fyp, #raptv, #newyork"
+  - username: "blainemcintosh77"
     fullname: >-
-      Emmdotfrisk 💬
+      Blaine_MC
+    bio: >-
+      Professional Baseball Player New York Mets #LGM Nashville, Tennessee 150k??❗️
     location: "United States"
-    followers: 28539
-    engagement: 1196
-    commentsToLikes: 0.011632
-    id: cka9ljsmt2hme0i78vrhjufc7
-    verified: false
-    hashtags: "#newyorkcity, #astros, #golf, #kith"
-  - username: "631anti"
+    followers: 130000
+    engagement: 1403
+    commentsToLikes: 0.011412
+    id: ckb99j9l0tu4l0j238afu8p98
+    verified: true
+    hashtags: "#theboys, #nymets, #xyzbca, #foryou"
+  - username: "pr0gamerzach"
     fullname: >-
-      ANTi
+      Pro Gamer Zach
+    bio: >-
+      Pro Gamer / Influencer / Compulsive Liar CEO of Cloning Myself Feet reveal at 1M
     location: "United States"
-    followers: 3240
-    engagement: 901
-    commentsToLikes: 0.074718
-    id: ckammwxqd2axu0i78xxno418d
+    followers: 6950
+    engagement: 1620
+    commentsToLikes: 0.084000
+    id: ck9ror8c6dvdj0j78nrqokadd
     verified: false
-    hashtags: "#clonesquad, #joebiden, #beesting, #quarantine"
-  - username: "sloppymadden"
+    hashtags: "#fantasyfootball, #fyp, #strapback, #stitch"
+  - username: "stephhsicilian"
     fullname: >-
-      SLOPPY MADDEN
+      steph
+    bio: >-
+      
     location: "United States"
-    followers: 38225
-    engagement: 1710
-    commentsToLikes: 0.030023
-    id: ck9rihlvljvk60j78btdyij0o
+    followers: 11000
+    engagement: 1144
+    commentsToLikes: 0.082223
+    id: ckb0siezpi45a0j23vzj9brix
     verified: false
-    hashtags: "#chargers, #buccaneers, #giants, #chiefs"
-  - username: "mattykash"
+    hashtags: "#foryou, #foryoupage, #greenscreen, #coranavirus"
+  - username: "cybercoastal"
     fullname: >-
-      Zuniga
+      Cyber Coastal
+    bio: >-
+      Data Analytics Data Visualizations Data Science
     location: "United States"
-    followers: 10584
-    engagement: 1217
-    commentsToLikes: 0.057449
-    id: ck8fc2m7466jl0j78hdibst3y
+    followers: 10800
+    engagement: 1177
+    commentsToLikes: 0.035095
+    id: ckbqexz6z0qo20j237vcopfwc
     verified: false
-    hashtags: "#ps4vsxbox, #scrabble, #deaths, #gaming"
-  - username: "royal_penguinxx"
+    hashtags: "#dataviz, #datavisualisation, #dataisbeautiful, #covid19"
+  - username: "aboudyonduty"
     fullname: >-
-      Royal_Penguinxx
+      Abdullah🇵🇸
+    bio: >-
+      Snapchat: lolsmg New York🗽 18
     location: "United States"
-    followers: 6464
-    engagement: 1116
-    commentsToLikes: 0.047408
-    id: ck9kbvgr0mwlq0j78vu01uw3q
+    followers: 6899
+    engagement: 1310
+    commentsToLikes: 0.072852
+    id: ckbqvw61og3kv0j23cv12xdnz
     verified: false
-    hashtags: "#troll, #esports, #zoomchallenge, #modernwarfare"
+    hashtags: "#meme, #fyp, #foryoupage, #funny"
 ---

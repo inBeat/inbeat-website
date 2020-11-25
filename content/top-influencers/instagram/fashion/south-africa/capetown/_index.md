@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Capetown In 2020
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2020. Most popular hashtags: #beauty #selfisolation #capetown #fashion.
+  Find top fashion Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #fashion #photooftheday #summer.
 platform: Instagram
+hits: 45
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 45 Instagram influencers like this in Capetown, South Africa for you to work with.
 profiles:
-  - username: "treven_moodley"
-    fullname: >-
-      Treven Moodley
-    location: "South Africa"
-    followers: 17995
-    engagement: 304
-    commentsToLikes: 0.040289
-    id: ck6u0k2klg5gz0j7150u2jdzy
-    verified: false
-    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
   - username: "amber_brits"
     fullname: >-
-      A M B E R. BRITS.
+      A M B E R. BRITS. OFFICIAL 💥
+    bio: >-
+      Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
     location: "South Africa"
-    followers: 16410
-    engagement: 324
-    commentsToLikes: 0.075938
+    followers: 17269
+    engagement: 335
+    commentsToLikes: 0.061279
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#sexy, #retro, #supportlocal, #vogue"
-  - username: "iamtevivo"
+    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
+  - username: "marcbermanphotography"
     fullname: >-
-      Bryn Gibbons
+      Marc Berman | Photographer
+    bio: >-
+      #photographer 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
     location: "South Africa"
-    followers: 7984
-    engagement: 1376
-    commentsToLikes: 0.016254
-    id: ck6ufngqxy2180j71ynmcv2t2
+    followers: 15887
+    engagement: 256
+    commentsToLikes: 0.022283
+    id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#video, #sunset, #bokehphotography, #friends"
-  - username: "fashionbreed"
+    hashtags: "#canonphotography, #fitgirls, #dailypost, #brazil"
+  - username: "darkprince_david"
     fullname: >-
-      Aqeelah Harron Ally
+      David Bowz
+    bio: >-
+      God over everything👑 African giant 🦅 🇳🇬
     location: "South Africa"
-    followers: 65225
-    engagement: 412
-    commentsToLikes: 0.045530
-    id: ck6u4nqzg4s110j713ik5e211
-    verified: true
-    hashtags: "#homewithcanalwalk, #hmxme, #fashionbreedtravel, #socialdistancing"
-  - username: "lindylin.mua"
-    fullname: >-
-      Lindy Lin
-    location: "South Africa"
-    followers: 88338
-    engagement: 689
-    commentsToLikes: 0.029241
-    id: ck6u4o7hw4uru0j71p6lnmht1
+    followers: 2156
+    engagement: 2022
+    commentsToLikes: 0.062886
+    id: ckaorxq4lp8oe0i78qob8mdk5
     verified: false
-    hashtags: "#yardley, #itsyourtime, #yardleylondonsa, #sponsored"
-  - username: "mariahmcalpin"
+    hashtags: "#icegenetics, #capetownmodel, #darkskin, #malemodel"
+  - username: "mischkebosse"
     fullname: >-
-      Mariah Ezra | 🇺🇸 🇿🇦
+      mischke bosse
+    bio: >-
+      photographer, writer, traveler 📍 cape town
     location: "South Africa"
-    followers: 36663
-    engagement: 195
-    commentsToLikes: 0.097993
-    id: ck5ci8ds3s7e10i11tkv4cmm6
+    followers: 6935
+    engagement: 416
+    commentsToLikes: 0.044600
+    id: ck6u0k4ajg5ra0j713hceiqw2
     verified: false
-    hashtags: "#hawaii, #sheisnotlost, #30, #lomoinstant"
-  - username: "nana.kwasi.wiafe"
+    hashtags: "#southafrica, #travelgram, #adventure, #africa"
+  - username: "nontando58"
     fullname: >-
-      NANA•KWASI•WIAFE 🇬🇭
+      Nontando [Sunrise] Mposo 🌞
+    bio: >-
+      @glamour_sa Editor-in-chief 📧 nontando@condenast.co.za
     location: "South Africa"
-    followers: 12037
-    engagement: 721
-    commentsToLikes: 0.034641
-    id: ck55mkb0g45jm0i11430bi9dn
+    followers: 31512
+    engagement: 87
+    commentsToLikes: 0.078424
+    id: ck600ua0qea650i14uyzpz6bc
     verified: false
-    hashtags: "#afisa, #beauty, #creativejourney, #eyewear"
-  - username: "diariesofanislandergirl"
+    hashtags: "#runway, #fashion, #fashionweek, #glamour"
+  - username: "yannickbandora"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      Yannick Bandora
+    bio: >-
+      For bookings: hugo@immbruxelles.com D1 Models London🇬🇧 IMM Brussel🇧🇪 Why not models milan🇮🇹 Boss models Capetown🇿🇦
     location: "South Africa"
-    followers: 8945
-    engagement: 828
-    commentsToLikes: 0.029388
-    id: ck5hqose9tghk0i11u4gxah0n
+    followers: 12782
+    engagement: 712
+    commentsToLikes: 0.025488
+    id: ck6u9au89wh1t0j71y1xvfgyb
     verified: false
-    hashtags: "#threadingeyebrows, #facialrazor, #skincareaddict, #egglessmarblecake"
-  - username: "alwynuys"
+    hashtags: "#zalandoman, #editorial, #blacklivesmatter, #capetown"
+  - username: "kellarr_"
     fullname: >-
-      Alwyn Uys
+      KLR
+    bio: >-
+      Stylist | Interior Architect & Designer @kellarrstudio | @kfportfolio ❤ OCRG | 🇬🇧 🇿🇦
     location: "South Africa"
-    followers: 13512
-    engagement: 648
-    commentsToLikes: 0.133659
-    id: ck6ue92jdpj2m0j71uc1bfje4
+    followers: 5736
+    engagement: 1348
+    commentsToLikes: 0.026999
+    id: ck8sxnrjyi0jr0j78brpenh8f
     verified: false
-    hashtags: "#winning, #level4, #expectations, #happy"
-  - username: "seangoesnatural"
+    hashtags: "#instatravelling, #postcardsfromtheworld, #picoftheday, #writetotravel"
+  - username: "pashalife7"
     fullname: >-
-      Hair,Skin+Kinda Adulting|Sean
+      Pasha Life
+    bio: >-
+      Chris & Kayla Just your ordinary couple👫 Step into our world of life, fashion, travel and love 💙🌍 #wanderlust 📍#southafrica ☀️
     location: "South Africa"
-    followers: 2717
-    engagement: 1189
-    commentsToLikes: 0.216280
-    id: ck6u39s65wk240j71e8ku32l4
+    followers: 22094
+    engagement: 1014
+    commentsToLikes: 0.083755
+    id: ck8t241tky2my0j78xi2b0950
     verified: false
-    hashtags: "#plants, #skincare, #bossbabe, #heforshe"
+    hashtags: "#blog, #forever, #greece, #bestfriends"
+  - username: "jessica_vanheerden"
+    fullname: >-
+      Jessica van Heerden
+    bio: >-
+      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
+    location: "South Africa"
+    followers: 41896
+    engagement: 677
+    commentsToLikes: 0.029140
+    id: ck135ukud3bat0i199i7ol35t
+    verified: false
+    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
+  - username: "the_girl_in_the_bikini"
+    fullname: >-
+      Katelyn
+    bio: >-
+      🌞FOREVER CHASING SUMMER🌞 •MODEL👱🏼‍♀️ @icemodelsjhb •DESIGNER/OWNER🧵 @missktb_fashion •TRAVELLER 🌍 •MOM OF @gigi_the_toy 🐩
+    location: "South Africa"
+    followers: 27739
+    engagement: 354
+    commentsToLikes: 0.041946
+    id: ck8t6fp6sdg760j78cygld5w6
+    verified: false
+    hashtags: "#fitnessmotivation, #waterfall, #bali, #beachbabe"
 ---

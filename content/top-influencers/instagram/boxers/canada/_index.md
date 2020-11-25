@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Canada In 2020
 description: >-
-  Find top boxers Instagram influencers in Canada in 2020. Most popular hashtags: #repost #eidmubarak #kobebryant #montreal.
+  Find top boxers Instagram influencers in Canada in 2020. Most popular hashtags: #boxing #canada #boxer #montreal.
 platform: Instagram
+hits: 34
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 34 Instagram influencers like this in Canada for you to contact.
 profiles:
   - username: "_steverolls"
     fullname: >-
       Steve Rolls
+    bio: >-
+      Professional Boxer 20-1 (11KOs) For business and sponsorship inquiries contact: team.mrrolls@gmail.com
     location: "Canada"
-    followers: 5970
-    engagement: 1068
-    commentsToLikes: 0.071276
+    followers: 5643
+    engagement: 571
+    commentsToLikes: 0.042598
     id: ck5qac8itfn520i1152gthjmd
     verified: false
-    hashtags: "#work, #nyc, #italiancuisine, #backtowork"
-  - username: "neeraj_goyat"
-    fullname: >-
-      Neeraj Goyat
-    location: "Canada"
-    followers: 24766
-    engagement: 940
-    commentsToLikes: 0.019693
-    id: ck136e5n161py0i19paocvu8w
-    verified: true
-    hashtags: "#jetblue, #jaatlife, #pistol, #repost"
-  - username: "artem_oganesyan001"
-    fullname: >-
-      Artem Oganesyan
-    location: "Canada"
-    followers: 48170
-    engagement: 964
-    commentsToLikes: 0.016339
-    id: ck8sxfoh3h8510j789ssmk0x0
-    verified: false
-    hashtags: "#quarantine, #hungry, #anyone, #whenever"
-  - username: "abedelsafadi"
-    fullname: >-
-      A B E D
-    location: "Canada"
-    followers: 2376
-    engagement: 1810
-    commentsToLikes: 0.037851
-    id: ck601tcd3g4vt0i14dqtejepg
-    verified: false
-    hashtags: "#trainning, #lifestyle, #bodygoals, #karate"
-  - username: "arturbeterbiev"
-    fullname: >-
-      Artur Beterbiev
-    location: "Canada"
-    followers: 236902
-    engagement: 235
-    commentsToLikes: 0.206553
-    id: ck13aynggstud0i19egn1s9qv
-    verified: true
-    hashtags: "#fights, #punch, #ramadanmubarak, #remparts"
+    hashtags: "#letsgetit, #teamrolls, #boxing, #toronto"
   - username: "khan01_01"
     fullname: >-
       𝐀𝐛𝐥𝐚𝐢𝐤𝐡𝐚𝐧 𝐊𝐡𝐮𝐬𝐬𝐚𝐢𝐧𝐨𝐯
+    bio: >-
+      Follow me through my journey to World Titles ☝️ 🥊Professional Boxer NBA international champion 🏆 📋Record 11-0-0 (8KOs) 🇺🇸Los Angeles 🇰🇿Kazakhstan
     location: "Canada"
     followers: 8917
     engagement: 1147
     commentsToLikes: 0.038311
     id: ck5hp9hfjqz710i11lzyo72ou
     verified: false
-    hashtags: "#wba, #wbc, #amerika, #alhamdulilah"
+    hashtags: "#allahuakbar, #boxing, #la, #alhamdulillah"
   - username: "arslanbek_mahmudov"
     fullname: >-
       Arslanbek Lion Makhmudov
+    bio: >-
+      ▪️Professional Boxer 🥊 ▪️Eye Of The Tiger Management and Golden Boy Promotion ▪️Record: 11-0 11Ko💥 ▪️WBC Continental Americas Champion; NABF Champion
     location: "Canada"
-    followers: 87426
-    engagement: 157
-    commentsToLikes: 0.124486
+    followers: 161752
+    engagement: 176
+    commentsToLikes: 0.078990
     id: ck6txn6jvyqjp0j71ollgmzzk
     verified: false
-    hashtags: "#management, #makhmudov, #rival, #year"
+    hashtags: "#last, #week, #man, #safari"
   - username: "erikbzo"
     fullname: >-
       Erik Bazinyan
+    bio: >-
+      Professional Boxer 25-(19ko)-0-0 WBO Youth world champion,WBO(Nabo)champion,WBA(naba)champion 🇦🇲🇨🇦
     location: "Canada"
-    followers: 19992
-    engagement: 332
-    commentsToLikes: 0.042496
+    followers: 20387
+    engagement: 372
+    commentsToLikes: 0.031414
     id: ck0ttzphm50zu0i19ohxqvfik
     verified: true
-    hashtags: "#february21, #onamission, #25, #hardwork"
-  - username: "reee887"
-    fullname: >-
-      Ree
-    location: "Canada"
-    followers: 4635
-    engagement: 3113
-    commentsToLikes: 0.039689
-    id: ckapb5pnlyo4y0i78w3rln30n
-    verified: false
-    hashtags: "#instalike, #cuddles, #bikeride, #instagrammers"
+    hashtags: "#cavabienaller, #haveablessedday, #stayactive, #25"
   - username: "mirage.boxing"
     fullname: >-
       سراب - Mirage
+    bio: >-
+      Amateur boxer 🥊 Hard Work▪️Dedication▪️Relentless 📍🇨🇦/ 🇱🇧
     location: "Canada"
     followers: 49667
     engagement: 217
     commentsToLikes: 0.033051
     id: ck0twiunbfkw60i19bwnlh637
     verified: false
-    hashtags: "#weight, #boxingworld, #boxingworkout, #ladder"
+    hashtags: "#dedication, #ring, #shadowboxing, #covid19"
+  - username: "sadriddin_____soq"
+    fullname: >-
+      SOLDIER OF QAZAQ(S.O.Q)
+    bio: >-
+      WBC Youth Super Welterweight World Champion🇰🇿🇨🇦🇺🇸🥊 professional boxer |11-0|10KO’s| Сотрудничество: . Арман:8(707)-616-63-53 . @akbotazh_ ❤️ .
+    location: "Canada"
+    followers: 144428
+    engagement: 684
+    commentsToLikes: 0.008656
+    id: ck9whkyjlycdd0j786awjo8cl
+    verified: true
+    hashtags: "#lamborghini, #soldierofqazaq, #boxing, #qazaq"
+  - username: "reee887"
+    fullname: >-
+      Ree
+    bio: >-
+      💕MY BOXER BOY💕⭐️KANE Born 06-01-16 💕 Lives in Alberta, Canada 🐾 loves his bacon 🥓🐾 ❤️🐾❤️🐾🐾❤️🐾 MOMMY SAYS IM PAWFECT
+    location: "Canada"
+    followers: 4890
+    engagement: 1699
+    commentsToLikes: 0.051177
+    id: ckapb5pnlyo4y0i78w3rln30n
+    verified: false
+    hashtags: "#instaboxer, #instagood, #pets, #love"
+  - username: "abedelsafadi"
+    fullname: >-
+      T E A M A B E D🦁
+    bio: >-
+      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 -What doesn't kill you makes you stronger-👑
+    location: "Canada"
+    followers: 2353
+    engagement: 1428
+    commentsToLikes: 0.038805
+    id: ck601tcd3g4vt0i14dqtejepg
+    verified: false
+    hashtags: "#boxingday, #gym, #fitnessmotivation, #mixedmartialarts"
+  - username: "lexsonmathieu"
+    fullname: >-
+      Lexson Mathieu
+    bio: >-
+      Pro boxer🥊. NABF Champion
+    location: "Canada"
+    followers: 5517
+    engagement: 360
+    commentsToLikes: 0.016515
+    id: ck6ubrursbcca0j71vhkxbosd
+    verified: false
+    hashtags: "#lexson, #montreal, #quebec, #eottm"
+  - username: "neeraj_goyat"
+    fullname: >-
+      Neeraj Goyat
+    bio: >-
+      Professional Boxer 🇮🇳
+    location: "Canada"
+    followers: 25636
+    engagement: 720
+    commentsToLikes: 0.017696
+    id: ck136e5n161py0i19paocvu8w
+    verified: true
+    hashtags: "#training, #motivation, #lifestyle, #gangster"
 ---

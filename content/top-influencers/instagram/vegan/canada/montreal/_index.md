@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Montreal In 2020
 description: >-
-  Find top vegan Instagram influencers in Montreal in 2020. Most popular hashtags: #vegan #winelover #montreal #healthy.
+  Find top vegan Instagram influencers in Montreal in 2020. Most popular hashtags: #vegan #montreal #instafood #feedfeed.
 platform: Instagram
+hits: 30
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 30 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
   - username: "ehvegan"
     fullname: >-
       Vic and Chris
+    bio: >-
+      ✌️ foodies & travelers ❤️ vegan for the animals 🌱 let's work together ↠ vicandchris@ehvegan.com 🔰 new on the blog:
     location: "Canada"
-    followers: 41805
-    engagement: 168
-    commentsToLikes: 0.055238
+    followers: 39914
+    engagement: 166
+    commentsToLikes: 0.052379
     id: ck0w2oggcpejw0i19gbu2hfsd
     verified: false
-    hashtags: "#cottoncandysky, #maplesyrupseason, #giraffes, #spiritanimal"
-  - username: "bylauragdiaz"
+    hashtags: "#feedfeed, #mtlvegan, #veganquebec, #veganbaking"
+  - username: "jellybeaneats"
     fullname: >-
-      Laura Ⓥ Conscious Lifestyle
+      Jellybeaneats (Alex) 🇨🇦🇵🇹🇮🇹
+    bio: >-
+      🏡 Home Cook 🐟 Pescatarian 💚 Eat well to live well 💭Follow for meal inspiration/recipes 🍽 Montreal restaurants 📸 Sonny a6000 +iPhone XR
     location: "Canada"
-    followers: 2553
-    engagement: 1173
-    commentsToLikes: 0.252800
-    id: ck13bok3gwepl0i19265dty97
+    followers: 8749
+    engagement: 434
+    commentsToLikes: 0.284207
+    id: ck8tb7ei0uldr0j78xsmsmyc3
     verified: false
-    hashtags: "#dametraveler, #fvmtl, #mtlvegan, #veganbeautyblogger"
+    hashtags: "#mtlblog, #plantbasedrecipe, #food52, #foodphotographer"
+  - username: "phcantin"
+    fullname: >-
+      PH Cantin
+    bio: >-
+      29 ans, Montréal 🌱 @sansfiltrepodcast @veganemaispasplate Podcast avec @leaclermontdion ⬇️ ph@kovalmarketing.com
+    location: "Canada"
+    followers: 118849
+    engagement: 141
+    commentsToLikes: 0.074159
+    id: ck6uidzr1ej5h0j71wflwbdur
+    verified: true
+    hashtags: "#vmpp, #podcast, #sansfiltre, #balado"
   - username: "fulltimefoooodie"
     fullname: >-
       Nath | Montreal Food Blogger
+    bio: >-
+      🍽Eat with me all over Montreal 📸Food Photographer⁣ ✨Content Creator 💌DM/email for collabs⁣/invites 😋Always hungry
     location: "Canada"
-    followers: 12400
-    engagement: 804
-    commentsToLikes: 0.255649
+    followers: 14997
+    engagement: 623
+    commentsToLikes: 0.497647
     id: ck0u68j5b18vz0i19tdk9l14t
     verified: false
-    hashtags: "#foodporn, #altaglio, #514eats, #pasta"
-  - username: "odilejp"
+    hashtags: "#mtlresto, #montrealer, #sweets, #mtlfoodblog"
+  - username: "sugaredcoconut"
     fullname: >-
-      Odile aka Pretty Small Vegan
+      Steph ✻  Sugared Coconut
+    bio: >-
+      ✻ sharing allergy-friendly vegan recipes ✻ always gluten-free and nut-free ✻ 80% food | 20% sustainable + clean living ✻ based in Montreal go↧
     location: "Canada"
-    followers: 35289
-    engagement: 154
-    commentsToLikes: 0.134633
-    id: ck5hle6enk2380i117h5ibfiu
+    followers: 34877
+    engagement: 135
+    commentsToLikes: 0.138223
+    id: ck0u0uxejuvmt0i19ys5qt2mt
     verified: false
-    hashtags: "#kimchi, #tofuscramble, #theperfectloaf, #breakfastofchampions"
-  - username: "justgreen_904"
+    hashtags: "#grainfree, #nutfree, #glutenfree, #oilfree"
+  - username: "tamara.kb"
     fullname: >-
-      💚Justin Vachon💚
+      Tamara Kristen Balazsovits
+    bio: >-
+      Owner - @urthbrand Content creator - @streetsoftoronto ⠀⠀⠀⠀ Model 📸✈🌏 🔹️Toronto - Sutherland 🔹️Miami - CGM 🔹️Montreal - Folio ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     location: "Canada"
-    followers: 2156
-    engagement: 1771
-    commentsToLikes: 0.036368
-    id: ckaoydz6gh4360i78cq5w3gtc
+    followers: 42437
+    engagement: 247
+    commentsToLikes: 0.055447
+    id: ck139hfpslbg40i19m43xt0as
     verified: false
-    hashtags: "#catpeople, #biodiversity, #plantaddiction, #aroidsofinstagram"
+    hashtags: "#nothingnew, #supportlocal, #toronto, #toreats"
+  - username: "zakatuche"
+    fullname: >-
+      兎 EL CONEJO REY 🐇
+    bio: >-
+      Zacatuche. del náhuat "zacatl",zacate, y "tochtli", conejo. Especie única encontrada en México. Diseñador Web | Yoga | Geek | Pokémon Trainer | Vegan
+    location: "Canada"
+    followers: 17948
+    engagement: 549
+    commentsToLikes: 0.004846
+    id: ckap27w8dxrdv0i783phl10kl
+    verified: false
+    hashtags: "#geek, #travel, #rabbit, #foot"
+  - username: "lu.cha.biao"
+    fullname: >-
+      JADE 🇿🇦/🇨🇳
+    bio: >-
+      MGMT: • @foliosociety_ @foliomontreal 💌booking: marine@foliomontreal.com 📍Montreal DISCOUNT @yesstyle : LUCHA17
+    location: "Canada"
+    followers: 2646
+    engagement: 1287
+    commentsToLikes: 0.044354
+    id: ck5zpbr4psdkd0i14zqrnz4v1
+    verified: false
+    hashtags: "#style, #sunny, #like4follow, #fashion"
   - username: "sherbatov"
     fullname: >-
       Eliezer Sherbatov
+    bio: >-
+      Professional Hockey Player - (Polska) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
     location: "Canada"
-    followers: 29586
-    engagement: 491
-    commentsToLikes: 0.047912
+    followers: 28665
+    engagement: 408
+    commentsToLikes: 0.044338
     id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#mustang, #findyourself, #challenge, #menshair"
-  - username: "the_dailyjules"
+    hashtags: "#covid19, #poland, #coronavirus, #ootd"
+  - username: "justgreen_904"
     fullname: >-
-      Julie Petry
+      💚Justin Vachon💚
+    bio: >-
+      🌱Passion for plants,green living 🦋Animals and Nature 🎨Arts and Design 📸All pictures are my own (iPhone7) 👬@john.oue 🇨🇦 From Montreal, Quebec
     location: "Canada"
-    followers: 7649
-    engagement: 680
-    commentsToLikes: 0.037488
-    id: ck5cey69xlydd0i11vtz2jowg
+    followers: 2356
+    engagement: 1294
+    commentsToLikes: 0.048188
+    id: ckaoydz6gh4360i78cq5w3gtc
     verified: false
-    hashtags: "#italianfood, #healthy, #salad, #hope"
-  - username: "vegan__as__fvck"
-    fullname: >-
-      Donny Ⓥ 🌱
-    location: "Canada"
-    followers: 14514
-    engagement: 460
-    commentsToLikes: 0.095607
-    id: ck8sxgp5yhbu00j78ot5vw3qb
-    verified: false
-    hashtags: "#positiveenergy, #agriculture, #loveanimals, #covid"
-  - username: "therubygore"
-    fullname: >-
-      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
-    location: "Canada"
-    followers: 41710
-    engagement: 74
-    commentsToLikes: 0.019214
-    id: ck55klzwezmq90i112lqh2ibz
-    verified: false
-    hashtags: "#manicpanicnyc, #magnoliatattoo, #colortattoos, #weddinginspiration"
-  - username: "thechicacademic"
-    fullname: >-
-      Dr. Mary M. | Ottawa 🇨🇦
-    location: "Canada"
-    followers: 18960
-    engagement: 460
-    commentsToLikes: 0.264447
-    id: ck5zv1sil3fqm0i14favxtahy
-    verified: false
-    hashtags: "#thirstythursday, #wineglass, #winepassion, #lessonlearned"
+    hashtags: "#plantcollection, #aroidsofinstagram, #plantdecor, #plants"
 ---

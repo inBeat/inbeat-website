@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top vegan Instagram influencers in Bangkok in 2020. Most popular hashtags: #vegan #plantbased #thaifood #food.
+  Find top vegan Instagram influencers in Bangkok in 2020. Most popular hashtags: #vegan #plantbased #bangkok.
 platform: Instagram
+hits: 5
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 5 Instagram influencers like this in Bangkok, Thailand for you to contact.
 profiles:
-  - username: "tayastarling"
+  - username: "noodi_vanessa"
     fullname: >-
-      Taya Rogers
+      Vanessa Race
+    bio: >-
+      FB:อัจฉริยะสร้างได้ Youtube :Noodee BrainWorks โรงเรียนวนิษาสุขุมวิท 👉 www.vanessa.ac.th ติดต่องานทางอีเมลเท่านั้น 😁 ที่ NoodeeBrainWorks@gmail.com
     location: "Thailand"
-    followers: 362884
-    engagement: 94
-    commentsToLikes: 0.007285
-    id: ck5hl0f6rjchp0i11n589zt5h
+    followers: 108626
+    engagement: 58
+    commentsToLikes: 0.018319
+    id: ck6u78tb4k4hl0j715vj5idvj
+    verified: false
+    hashtags: "#eatplantsfortheplanet, #goodsoulskitchenbkk, #plantpowered, #bkk"
+  - username: "mymeatlessmeals"
+    fullname: >-
+      Vegan Food Tales by a Thai 🌱🇹🇭
+    bio: >-
+      THE Bangkok-Based Black Sheep vegan who creates original recipes, colorful videos, and homemade memes.‬ Fighting my demons while trying to cook.
+    location: "Thailand"
+    followers: 86937
+    engagement: 246
+    commentsToLikes: 0.032383
+    id: ck5hoog7npxh10i11n5zv2zpg
+    verified: false
+    hashtags: "#veganfoods, #vegancommunity, #recipes, #veganfoodporn"
+  - username: "gainmadeline"
+    fullname: >-
+      Personal Trainer / Athlete
+    bio: >-
+      Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
+    location: "Thailand"
+    followers: 8355
+    engagement: 348
+    commentsToLikes: 0.019032
+    id: ck55ox92q9bfr0i11nn8p3w63
+    verified: false
+    hashtags: "#athlete, #diet, #bangkok, #healthylifestyle"
+  - username: "migrationology"
+    fullname: >-
+      Mark Wiens
+    bio: >-
+      🍽 Full-Time Eater 🌶 Restaurant: @phedmarkbkk 👇 Watch latest video :
+    location: "Thailand"
+    followers: 1250690
+    engagement: 258
+    commentsToLikes: 0.015262
+    id: ck0uesdtsm2zi0i196x7wfkv2
     verified: true
-    hashtags: "#nationalmargaritaday, #classpasscrew, #runbkk, #istayhomefor"
-  - username: "mymeatlessmeals"
+    hashtags: "#tijuana, #markwiens, #jamaicanfood, #thaifood"
+  - username: "sononui"
     fullname: >-
-      Vegan Food Tales by a Thai 🌱🇹🇭
+      Keira Phitchakorn Balla
+    bio: >-
+      Beauty Within Line: @Sononui 🇮🇹AFS Italy
     location: "Thailand"
-    followers: 88332
-    engagement: 240
-    commentsToLikes: 0.032354
-    id: ck5hoog7npxh10i11n5zv2zpg
+    followers: 243622
+    engagement: 110
+    commentsToLikes: 0.010299
+    id: ck55n1jau5a640i11p9mrkhuj
     verified: false
-    hashtags: "#plantbased, #vegancooking, #veganrecipes, #kimchi"
-  - username: "pang.saifon"
-    fullname: >-
-      Pang HealthyRoutine
-    location: "Thailand"
-    followers: 27394
-    engagement: 111
-    commentsToLikes: 0.031547
-    id: ck5zkbfezj64g0i14gtq5brqw
-    verified: false
-    hashtags: "#veganwrap, #valentines, #restaurant, #fitnessgirl"
-  - username: "iankittichai"
-    fullname: >-
-      Pongtawat Chalermkittichai
-    location: "Thailand"
-    followers: 211130
-    engagement: 88
-    commentsToLikes: 0.003481
-    id: ck0w3aqkbsfrf0i1993riqqo5
-    verified: false
-    hashtags: "#issaya, #travelling, #asias50best, #namsaahbottlingtrust"
-  - username: "whanpavarisa"
-    fullname: >-
-      whanpavarisa
-    location: "Thailand"
-    followers: 413657
-    engagement: 43
-    commentsToLikes: 0.003570
-    id: ck14kn3wdqc300i195elwrf7w
-    verified: false
-    hashtags: "#postingpic, #img112, #labelgiquegourmande, #swipeleft"
-  - username: "jeena_adcharaporn"
-    fullname: >-
-      Jeena Adcharaporn
-    location: "Thailand"
-    followers: 30991
-    engagement: 97
-    commentsToLikes: 0.025732
-    id: ck0w354ygrnn10i19fp5atqqa
-    verified: false
-    hashtags: "#biscuitthecorgi, #beautylegend2020, #missthailand2013, #gorgeous"
-  - username: "mymeatlessmeals"
-    fullname: >-
-      Vegan Food Tales by a Thai 🌱🇹🇭
-    location: "Thailand"
-    followers: 88332
-    engagement: 240
-    commentsToLikes: 0.032354
-    id: ck5hoog7npxh10i11n5zv2zpg
-    verified: false
-    hashtags: "#plantbased, #vegancooking, #veganrecipes, #kimchi"
+    hashtags: "#tcm, #sono, #beauty, #quarantinelife"
   - username: "popcorndouce"
     fullname: >-
       Pop Corn
+    bio: >-
+      🌱 Vegan. 🧘‍♀️ Baby yogi. 👯‍♀️ Aerialist.
     location: "Thailand"
-    followers: 19685
-    engagement: 380
-    commentsToLikes: 0.024391
+    followers: 19136
+    engagement: 583
+    commentsToLikes: 0.021241
     id: ck6ueypnlttb00j71p7bmnwo1
     verified: false
-    hashtags: "#cats, #jungle, #doggo, #aerialdance"
-  - username: "pang.saifon"
+    hashtags: "#thailand, #phuket, #cat, #oddeyedcat"
+  - username: "takiatto"
+    fullname: >-
+      Tak sawasdibood
+    bio: >-
+      Vegan Wizard
+    location: "Thailand"
+    followers: 7155
+    engagement: 718
+    commentsToLikes: 0.027066
+    id: ckap1l096uzt80i78zfy6qq0s
+    verified: false
+    hashtags: "#oskn17"
+  - username: "jeena_adcharaporn"
+    fullname: >-
+      Jeena Adcharaporn
+    bio: >-
+      จีน่า อัจฉราภรณ์😙💕 นางสาวไทย 2556👸🏼 Miss Thailand 2013 Actress,TV Host,MC 💥True4U,True Inside #For work‭ 091-541-6463 #Vegangirl🍎🌽🥑 @biscuitthecorgi_
+    location: "Thailand"
+    followers: 30929
+    engagement: 81
+    commentsToLikes: 0.022185
+    id: ck0w354ygrnn10i19fp5atqqa
+    verified: false
+    hashtags: "#noojeeinphuket, #noojeemakemerit, #missuniversethailand2020, #joeyjeenamissthailand"
+  - username: "mymeatlessmeals"
+    fullname: >-
+      Vegan Food Tales by a Thai 🌱🇹🇭
+    bio: >-
+      THE Bangkok-Based Black Sheep vegan who creates original recipes, colorful videos, and homemade memes.‬ Fighting my demons while trying to cook.
+    location: "Thailand"
+    followers: 86937
+    engagement: 246
+    commentsToLikes: 0.032383
+    id: ck5hoog7npxh10i11n5zv2zpg
+    verified: false
+    hashtags: "#veganfoods, #vegancommunity, #recipes, #veganfoodporn"
+  - username: "pang.edener"
     fullname: >-
       Pang HealthyRoutine
+    bio: >-
+      God’s favorite daughter❣️ 🍎 Founder of @edenerjuice 🌿 Obsessed with HousePlants 📚 Integrative Health Coach 💋 DM for work 🐱Tabby is on Tiktok 🔽
     location: "Thailand"
-    followers: 27394
-    engagement: 111
-    commentsToLikes: 0.031547
+    followers: 27557
+    engagement: 100
+    commentsToLikes: 0.035508
     id: ck5zkbfezj64g0i14gtq5brqw
     verified: false
-    hashtags: "#veganwrap, #valentines, #restaurant, #fitnessgirl"
-  - username: "tayastarling"
-    fullname: >-
-      Taya Rogers
-    location: "Thailand"
-    followers: 362884
-    engagement: 94
-    commentsToLikes: 0.007285
-    id: ck5hl0f6rjchp0i11n589zt5h
-    verified: true
-    hashtags: "#nationalmargaritaday, #classpasscrew, #runbkk, #istayhomefor"
+    hashtags: "#cacao, #coldpressedjuice, #panghealthyroutine, #plantbased"
 ---

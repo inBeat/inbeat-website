@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Dallas In 2020
 description: >-
-  Find top health TikTok influencers in Dallas in 2020. Most popular hashtags: #dance #dallas #duet #friends.
+  Find top health TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #dallas #health.
 platform: TikTok
+hits: 24
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 24 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "doctorcheema"
+  - username: "sumnerhaye"
     fullname: >-
-      Hina J. Cheema MD
+      sumnerhaye
+    bio: >-
+      Professional Amateur Strongman Official GASP Ambassador
     location: "United States"
-    followers: 220557
-    engagement: 584
-    commentsToLikes: 0.014500
-    id: ck8j6do6e9ebt0j78hibr78ze
+    followers: 35600
+    engagement: 1227
+    commentsToLikes: 0.042557
+    id: ck9fm3kaer6gy0j78ctnobyv7
     verified: false
-    hashtags: "#happyathome, #momlife, #momcheck, #foryou"
-  - username: "jreclips247"
+    hashtags: "#friday, #viral, #motivation, #strength"
+  - username: "chefmimij"
     fullname: >-
-      JRE Clips
+      Meika Johnson
+    bio: >-
+      I admire Food, how it makes us FEEL, memories it CREATES & bonds that FORM.
     location: "United States"
-    followers: 51144
-    engagement: 961
-    commentsToLikes: 0.009876
-    id: cka8e7iarw7qr0i782ksr5myv
+    followers: 50500
+    engagement: 1104
+    commentsToLikes: 0.032641
+    id: ckbw9m9gbzrvj0j23mm1qzq1c
     verified: false
-    hashtags: "#dallas, #forreal, #homeschoolmom, #elonmusk"
-  - username: "michele.bell"
+    hashtags: "#blacktiktok, #xyzbca, #food, #foodtiktok"
+  - username: "stephenvtran"
     fullname: >-
-      Michele
+      stephenvtran
+    bio: >-
+      Discover Dallas with me 💎 Full episodes on IG: @stephenvtran
     location: "United States"
-    followers: 3597
-    engagement: 798
-    commentsToLikes: 0.120468
-    id: cka9m605n428g0i78g7rob77e
+    followers: 24600
+    engagement: 993
+    commentsToLikes: 0.037647
+    id: ckc7uqedyyjae0j23dw3s3m7r
     verified: false
-    hashtags: "#therapydog, #musicmatters, #viralvideo, #coockapoo"
-  - username: "dallascowboys"
+    hashtags: "#dallasfood, #dallasfoodie, #dallas, #dallasdesserts"
+  - username: "absanders101"
     fullname: >-
-      Dallas Cowboys
+      Adam Sanders
+    bio: >-
+      My IG @absanders101
     location: "United States"
-    followers: 690462
-    engagement: 1249
-    commentsToLikes: 0.017492
-    id: ck8rraq7rtmih0j78e69ouhwg
-    verified: true
-    hashtags: "#hoopsathome, #hairtutorial, #makemomsmile, #pictures"
-  - username: "stanleycpanther"
-    fullname: >-
-      StanleyC.Panther
-    location: "United States"
-    followers: 31134
-    engagement: 1616
-    commentsToLikes: 0.037016
-    id: ck9fpav5q6guu0j78ea0f9qfc
-    verified: true
-    hashtags: "#flattenthecurve, #princessbelle, #nojoke, #hockeyfights"
-  - username: "itshaywood"
-    fullname: >-
-      Haywood
-    location: "United States"
-    followers: 3524
-    engagement: 1195
-    commentsToLikes: 0.036864
-    id: ck9njbr19hgc20j78bggl1x8t
+    followers: 4092
+    engagement: 1514
+    commentsToLikes: 0.055819
+    id: ckcjh5h6sc18q0j23zdctpowc
     verified: false
-    hashtags: "#nike, #shoes, #love, #arrow"
-  - username: "young_rari"
+    hashtags: "#menfashion, #cheflife, #sleflove, #blm"
+  - username: "joshpray239"
     fullname: >-
-      Young_rari
+      Josh Pray
+    bio: >-
+      I’m funny everywhere else so let’s try it here 🙃 @joshpray on IG/YT/FB
     location: "United States"
-    followers: 403584
-    engagement: 2753
-    commentsToLikes: 0.024517
-    id: ck83wwz4tmngj0j78eo9izp7u
+    followers: 75200
+    engagement: 863
+    commentsToLikes: 0.043205
+    id: ck9c7im9as0jr0j789emvkhrl
     verified: false
-    hashtags: "#poseathome, #duet, #bedroomcheck"
-  - username: "pamperingwithaleshia"
+    hashtags: "#fyp, #comedy, #women, #over30"
+  - username: "thevonandmommyshow"
     fullname: >-
-      Aleshia Wisch
+      iamnitaab
+    bio: >-
+      Mental Health Awareness and spreading love is our thing! BLM✊🏾🖤❤️💚
     location: "United States"
-    followers: 14698
-    engagement: 2578
-    commentsToLikes: 0.138983
-    id: ckaijeusgeljw0i78dgyrfs3r
+    followers: 78100
+    engagement: 1247
+    commentsToLikes: 0.043375
+    id: ckb9l7f9zdk7b0j2343p6zq3s
     verified: false
-    hashtags: "#resistthebeat, #wine, #safety, #dance"
-  - username: "jezus.official"
+    hashtags: "#explorepage, #blktiktok, #explore, #duet"
+  - username: "jennahrenee88"
     fullname: >-
-      Jezus
+      Jennah Przybiski
+    bio: >-
+      Female Taxidermist/Nurse/Mental Health Advocate ⬇️⬇️
     location: "United States"
-    followers: 47702
-    engagement: 2337
-    commentsToLikes: 0.044380
-    id: ckaikss33kyxd0i78wo306iph
+    followers: 132500
+    engagement: 1242
+    commentsToLikes: 0.012120
+    id: cka3vg6uyy1mc0i78bbzpou3w
     verified: false
-    hashtags: "#demonslayer, #overflow, #vibe, #animelist"
-  - username: "the_situasian"
+    hashtags: "#nurselife, #foryoupage, #fyp, #nurse"
+  - username: "scottfreda"
     fullname: >-
-      Fit_Dad_Bod
+      Scott Freda
+    bio: >-
+      👨🏻‍💼Health 🤵🏻Model 🗣Comedian 🥃Alcoholic🦸‍♂️World Class Sprinter
     location: "United States"
-    followers: 2774
-    engagement: 2181
-    commentsToLikes: 0.224716
-    id: cka6qkf62nxsb0i780yxzs9bq
+    followers: 95700
+    engagement: 312
+    commentsToLikes: 0.410069
+    id: ckd6kc6ewdrb00j23wfmra84z
     verified: false
-    hashtags: "#sharingiscaring, #momsoftiktok, #hairband, #spreadlovegang"
+    hashtags: "#marriage, #single, #mom, #soouse"
+  - username: "davisonabrantes"
+    fullname: >-
+      Davison Abrantes
+    bio: >-
+      ⬆️follow me on here & IG⬆️ Just trying to make you laugh venmo:@davison-abrantes
+    location: "United States"
+    followers: 43900
+    engagement: 2022
+    commentsToLikes: 0.033220
+    id: ck81t23qwuvky0j78av0e1n3l
+    verified: false
+    hashtags: "#travel, #fyp, #nba, #life"
+  - username: "naivivx"
+    fullname: >-
+      Naiviv
+    bio: >-
+      💫✨Come with me...I'll show you the way ✨💫🎡 IG: @naivivlift
+    location: "United States"
+    followers: 5817
+    engagement: 1214
+    commentsToLikes: 0.035920
+    id: ckc1rcmzzvs6z0j23ni941t3l
+    verified: false
+    hashtags: "#positive, #latina, #foryou, #foryoupage"
 ---

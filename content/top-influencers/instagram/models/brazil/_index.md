@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Brazil In 2020
 description: >-
-  Find top models Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #blue #make #hairstyle.
+  Find top models Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #beyonce #challenge.
 platform: Instagram
+hits: 4656
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 4656 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "elenanjoss"
     fullname: >-
       Princesa
+    bio: >-
+      independent model |Digital influencer ✨ Brasil , Ssa 🇧🇷 parcerias: direct 📥 Fui hackeada e tinha 37k , Recomeçando ❤️
     location: "Brazil"
-    followers: 14920
-    engagement: 2329
-    commentsToLikes: 0.077906
+    followers: 19997
+    engagement: 2416
+    commentsToLikes: 0.066943
     id: ck5zycc279mgc0i145m5wtv0q
     verified: false
-    hashtags: "#riodejaneiro, #tbt, #carnavaldesalvador, #fiqueemcasa"
-  - username: "carolinaalmeida.0"
+    hashtags: "#bondedasmaravilhas, #temquerexpeitar, #tocahit, #salvador"
+  - username: "talitamoura._"
     fullname: >-
-      𝑪𝒂𝒓𝒐𝒍𝒊𝒏𝒂 𝑨𝒍𝒎𝒆𝒊𝒅𝒂
+      Talita Moura
+    bio: >-
+      • 🎓Acadêmica em Fisioterapia 🎓 • 📸 Photographic model • 📲 Parcerias via direct
     location: "Brazil"
-    followers: 10226
-    engagement: 2199
-    commentsToLikes: 1.563346
-    id: ck6tw2cbjplzh0j71y5g6gsln
+    followers: 14990
+    engagement: 1746
+    commentsToLikes: 0.088726
+    id: ckf5nuo2yzqze0j23on6jaakg
     verified: false
-    hashtags: "#makeupartist, #challengeamigas, #araci, #blue"
-  - username: "victorinh4"
+    hashtags: "#beach, #tbt, #formandasnatalrn, #cursodepenteadosnatal"
+  - username: "orricodan"
     fullname: >-
-      V I C T O R I N H 4
+      DARLAN ORRICO
+    bio: >-
+      Model • Dancer • Coreographer Tec em Dança/FUNCEB Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta. 🌹☕ BA
     location: "Brazil"
-    followers: 316160
-    engagement: 1217
-    commentsToLikes: 0.218133
-    id: ck6u5tb5ibm3t0j718vmpku9z
+    followers: 5430
+    engagement: 1526
+    commentsToLikes: 0.146273
+    id: ck5c05idbshhr0i111j3xherx
     verified: false
-    hashtags: "#1mdajupxt, #dontrushchallenge, #tbt"
-  - username: "izabella.aguiar_"
+    hashtags: "#beydancer, #dance, #beyonce, #tbt"
+  - username: "raqueljmendes"
     fullname: >-
-      • IZA•
+      Quel
+    bio: >-
+      É SOBRE ISSO ✨ • Model | Cabelo | Autoajuda • @raquelmassessoria • Publicidade e propaganda • SSA 🔁 SP
     location: "Brazil"
-    followers: 2384
-    engagement: 2713
-    commentsToLikes: 0.248419
-    id: ckapbap00z7e20i78zbw9m19a
+    followers: 89573
+    engagement: 1351
+    commentsToLikes: 0.057266
+    id: ck14jbyr4jkgo0i1945n8rai5
     verified: false
-    hashtags: "#model, #marketingdigital, #digitalinfluencers, #make"
-  - username: "vinilobo_"
+    hashtags: "#mudeicomcoreton"
+  - username: "raquellynef"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ V工れ工匚工Uち ’ ㄥ口乃口
+      Raquellyne Francielly 🦄🧜🏻‍♀️
+    bio: >-
+      🇧🇷🇨🇦 Parcerias via direct 📥 Divulgação/ Provador/ Model make Leonina ♌ | 2.3 Engenharia de Produção 📚📊 VÍDEO NOVO 👇🏼
     location: "Brazil"
-    followers: 12998
-    engagement: 1884
-    commentsToLikes: 0.101707
-    id: ck9whluubygig0j78vqmxyph9
+    followers: 6360
+    engagement: 1345
+    commentsToLikes: 0.609651
+    id: ckf5r2ax7b68k0j23mu39quc4
     verified: false
-    hashtags: "#magro, #mundo, #gordinho, #fama"
-  - username: "leal.guilherme"
+    hashtags: "#challengemakeup, #challenger, #makeup, #23anos"
+  - username: "_maisabel"
     fullname: >-
-      Guilherme Leal 🎯
+      Isabel Santos
+    bio: >-
+      Model @elomanagement - SP📍 2° lugar no Miss Brasil 2018 🇧🇷 Miss Bahia 2018 👑 ✉️ mi203544@gmail.com Meu Canal no Youtube 🎬
     location: "Brazil"
-    followers: 6455
-    engagement: 1698
-    commentsToLikes: 0.084815
-    id: ck8ta6w81qo7t0j789u03bf6m
+    followers: 16259
+    engagement: 1242
+    commentsToLikes: 0.194353
+    id: ck5qbrfvhn1ns0i11mmypn3sp
     verified: false
-    hashtags: "#tbt, #bbb20, #foraprior"
-  - username: "andryazevedoo"
+    hashtags: "#posesparafoto, #tbt, #inlove, #beauty"
+  - username: "andressasuita"
     fullname: >-
-      Andry Azevedo
+      Andressa Suita
+    bio: >-
+      Brazilian Model 🇧🇷 Lifestyle | Mãe de dois 👶🏻💙👶🏻 💌 contato@andressasuita.com.br
     location: "Brazil"
-    followers: 16211
-    engagement: 1299
-    commentsToLikes: 0.704161
-    id: ck9wfuwpiqljl0j78e8uwxlkg
-    verified: false
-    hashtags: ""
-  - username: "cindyrosendo_"
-    fullname: >-
-      Cindy Rosendo
-    location: "Brazil"
-    followers: 255667
-    engagement: 1040
-    commentsToLikes: 0.288017
-    id: ck5zyvrjqamde0i14qo12prj9
-    verified: false
-    hashtags: ""
-  - username: "motta.di"
-    fullname: >-
-      Diogo Motta
-    location: "Brazil"
-    followers: 56320
-    engagement: 904
-    commentsToLikes: 0.104004
-    id: ck8t7thoxhxs10j78gpaklr8a
-    verified: false
-    hashtags: "#actors, #100mil, #blue, #menstyle"
-  - username: "albariquelme"
-    fullname: >-
-      Alba Riquelme
-    location: "Brazil"
-    followers: 76259
-    engagement: 666
-    commentsToLikes: 0.189044
-    id: ck5zjacbah8iq0i14imv5qxne
+    followers: 13988505
+    engagement: 907
+    commentsToLikes: 0.017825
+    id: ck0tx3la5hrmw0i19wgcfctxf
     verified: true
-    hashtags: "#braids, #aldo, #tbt, #8m"
+    hashtags: "#afmood, #so, #ad, #trusshair"
+  - username: "paranoiaviva"
+    fullname: >-
+      José Ferrero
+    bio: >-
+      Tattos/fashion Model and DJ 🎧 Sp/Rj, Brazil📍 @xparanoiavivax
+    location: "Brazil"
+    followers: 56457
+    engagement: 739
+    commentsToLikes: 0.120633
+    id: ck15t4p6fgc2g0i19t30nf0fm
+    verified: false
+    hashtags: ""
+  - username: "thitadiogo"
+    fullname: >-
+      Thita Diogo
+    bio: >-
+      Model| #redhead | ⚖️ MG🔁SP “To shine on the outside you better care for your inside.” João 3:30
+    location: "Brazil"
+    followers: 5764
+    engagement: 1557
+    commentsToLikes: 0.102667
+    id: ckap1kswiuymz0i78rtblvfrj
+    verified: false
+    hashtags: "#ruivante, #ruivanatural, #pordosol, #redhair"
+  - username: "mariabezbatti"
+    fullname: >-
+      𝓜𝓪𝓻𝓲𝓪 𝓒𝓵𝓪𝓻𝓪
+    bio: >-
+      Modelo brasileira e mineira 🤍 • 𝔇𝔦𝔞 𝔞 𝔡𝔦𝔞, 𝔠𝔲𝔦𝔡𝔞𝔡𝔬𝔰 𝔢 𝔠𝔞𝔯𝔯𝔢𝔦𝔯𝔞 • @elleemodelmg @alluremgt @azure.models SP/MG 📍
+    location: "Brazil"
+    followers: 14049
+    engagement: 1463
+    commentsToLikes: 0.081010
+    id: ck6tytiow5rib0j71w4xzb5th
+    verified: false
+    hashtags: "#kapadokya, #capadocia, #turquia"
 ---

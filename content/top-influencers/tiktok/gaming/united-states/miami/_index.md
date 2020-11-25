@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Miami In 2020
 description: >-
-  Find top gaming TikTok influencers in Miami in 2020. Most popular hashtags: #gaming #miami #healthheroes #randomthings.
+  Find top gaming TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #viral #foryou #foryoupage.
 platform: TikTok
+hits: 21
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 21 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
+  - username: "mrcobas"
+    fullname: >-
+      Javi
+    bio: >-
+      🎥 Vlogs 🎮 Gaming 🌴23 Miami, Fl He/him | LatinX | Catholic ⬇️ LINKS
+    location: "United States"
+    followers: 151600
+    engagement: 1341
+    commentsToLikes: 0.035905
+    id: ck8nbuz6ibp2c0j78xaxookvh
+    verified: false
+    hashtags: "#blackopscoldwar, #coldwar, #gaminglife, #valorantclips"
+  - username: "thelogocombiner"
+    fullname: >-
+      Christian LoBello
+    bio: >-
+      I combine sports logos and more 😀👍🏼 📧 lobello043@gmail.com (BUSINESS)
+    location: "United States"
+    followers: 55600
+    engagement: 990
+    commentsToLikes: 0.124344
+    id: ckb978f49pnp70j234l1tpkg7
+    verified: false
+    hashtags: "#duet, #nba, #notonething, #viral"
+  - username: "curatedheat"
+    fullname: >-
+      Jordan Harris
+    bio: >-
+      ⬇️ Vintage & Content ⬇️ Instagram: @curatedheat www.curatedheat.shop FL🏝
+    location: "United States"
+    followers: 10900
+    engagement: 704
+    commentsToLikes: 0.092482
+    id: ckblrh6ymit3m0j23q39yks37
+    verified: false
+    hashtags: "#foryour, #hype, #tiktok, #notforyou"
+  - username: "305.mallu"
+    fullname: >-
+      💸
+    bio: >-
+      all my 4096 followers stay chillin 💯 Miami🌴🎯 17
+    location: "United States"
+    followers: 4096
+    engagement: 1278
+    commentsToLikes: 0.027191
+    id: ckbq6ptxyt5kv0j23w9t9zu4z
+    verified: false
+    hashtags: "#rdcworld1, #thisisquitting, #playbyplay, #thesongofus"
   - username: "meyers.leonard"
     fullname: >-
       Meyers Leonard
+    bio: >-
+      🏀 Miami Heat 💛 Husband of @elleleonardofficial 🎮 Twitch Gamer
     location: "United States"
-    followers: 14940
-    engagement: 1430
-    commentsToLikes: 0.027173
+    followers: 39100
+    engagement: 1384
+    commentsToLikes: 0.016410
     id: ck8j9ko4anute0j78f7ppf28h
     verified: true
-    hashtags: "#icecream, #miamiheat, #safehands, #ultrasmoothmoves"
-  - username: "2ndtramiam"
+    hashtags: "#miamiheat, #dogsoftiktok, #fyp, #reallifeathome"
+  - username: "_the_one_above_all_"
     fullname: >-
-      Laney T.
+      The One Above All
+    bio: >-
+      Follow me for my shitty videos. Tik tok is ass. Face reveal at 1M
     location: "United States"
-    followers: 31350
-    engagement: 463
-    commentsToLikes: 0.016699
-    id: cka0zb4oweqk90i78e8u07p35
+    followers: 16600
+    engagement: 1718
+    commentsToLikes: 0.048185
+    id: ckb9h2xkg6ct90j23ij19mt93
     verified: false
-    hashtags: "#grandma, #howtoadult, #insidetheirhead, #family"
-  - username: "brandonlacayo5"
-    fullname: >-
-      Brandon Lacayo
-    location: "United States"
-    followers: 11451
-    engagement: 920
-    commentsToLikes: 0.052603
-    id: ck8j6cxkg95wd0j787py37a9e
-    verified: false
-    hashtags: "#lowes, #gaming, #obama, #closed"
-  - username: "sloppymadden"
-    fullname: >-
-      SLOPPY MADDEN
-    location: "United States"
-    followers: 38225
-    engagement: 1710
-    commentsToLikes: 0.030023
-    id: ck9rihlvljvk60j78btdyij0o
-    verified: false
-    hashtags: "#chargers, #buccaneers, #giants, #chiefs"
+    hashtags: "#help, #funny, #fun, #foryou"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola
+    bio: >-
+      Real Estate 🏡 Naples, FL 🌴 @hellonaples
     location: "United States"
-    followers: 2678
-    engagement: 585
-    commentsToLikes: 0.074391
+    followers: 2782
+    engagement: 647
+    commentsToLikes: 0.079172
     id: ck8tst70vrjgq0j78rrd9f67g
     verified: false
-    hashtags: "#earthday, #fratlife, #got2bhome, #coachella2020"
-  - username: "modelsensation"
+    hashtags: "#fyp, #modernwarfare, #ultramusic, #florida"
+  - username: "fajahuno"
     fullname: >-
-      ModelSensation
+      Fajah Uno
+    bio: >-
+      YouTube: FajahUno Twitch: FajahUno Insta: FajahUno GiveAway King!
     location: "United States"
-    followers: 99946
-    engagement: 735
-    commentsToLikes: 0.012867
-    id: ck90xzwp88t5y0j786i0dlv5e
+    followers: 176800
+    engagement: 1005
+    commentsToLikes: 0.030181
+    id: ck8kd9xi24sfu0j78fiqzk84o
     verified: false
-    hashtags: "#xbox, #nature, #forthephoto, #fearless"
-  - username: "its_b3an"
+    hashtags: "#amongusgame, #win, #fortnite, #twitchstreamer"
+  - username: "nessconsuegra"
     fullname: >-
-      ITS_B3AN
+      Nestor Consuegra Ponce
+    bio: >-
+      Entérate de todo lo qué pasa en mis redes sociales toca aquí arriba 👆
     location: "United States"
-    followers: 6055
-    engagement: 1136
-    commentsToLikes: 0.050479
-    id: ck8j9zh36pvj60j786gm6wv4t
+    followers: 28900
+    engagement: 629
+    commentsToLikes: 0.040214
+    id: ckbl1j6c7yejm0j2390s70sw5
     verified: false
-    hashtags: "#baseball, #duet, #rayallenchallenge, #love"
-  - username: "marcbautistaa"
+    hashtags: "#foryoupage, #cuba, #tiktokreviews, #foyoupage"
+  - username: "jessik9204"
     fullname: >-
-      Marc Bautista
+      Torres92
+    bio: >-
+      I can't find my talent🥺 📍305 🇨🇺🌸 🇺🇸🏖
     location: "United States"
-    followers: 14309
-    engagement: 1275
-    commentsToLikes: 0.106600
-    id: ck8s8j9dktzth0j78ilyrs2qv
+    followers: 20400
+    engagement: 429
+    commentsToLikes: 0.026709
+    id: ckcpfpfxygvvv0j230h1opb6z
     verified: false
-    hashtags: "#liluzivert, #xyzabc, #musicmatters, #model"
-  - username: "raulencio"
-    fullname: >-
-      Raul
-    location: "United States"
-    followers: 62645
-    engagement: 1493
-    commentsToLikes: 0.032404
-    id: ck8hs5292bpz20j78wr0qqr3e
-    verified: false
-    hashtags: "#artistsoftiktok, #werkitfromhome, #break, #valorant"
-  - username: "ceauz"
-    fullname: >-
-      Marceauz
-    location: "United States"
-    followers: 27326
-    engagement: 1331
-    commentsToLikes: 0.039502
-    id: ckamj2lxnmlgp0i780zpkt5mo
-    verified: false
-    hashtags: "#warzone, #whitepeople, #vibes, #blackparents"
+    hashtags: "#foryou, #2020, #tiktokindia, #tiktoker"
 ---

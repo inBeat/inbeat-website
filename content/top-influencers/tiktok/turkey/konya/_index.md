@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Konya In 2020
 description: >-
-  Find top TikTok influencers in Konya in 2020. Most popular hashtags: #beni #konya #yemek #eskiramazanlar.
+  Find top TikTok influencers in Konya in 2020. Most popular hashtags: #ke #konya #beni #tiktok.
 platform: TikTok
+hits: 188
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 188 TikTok influencers like this in Konya, Turkey for you to connect with.
 profiles:
+  - username: "q1sheytan"
+    fullname: >-
+      ÖMER
+    bio: >-
+      Konya
+    location: "Turkey"
+    followers: 18700
+    engagement: 866
+    commentsToLikes: 0.039726
+    id: cka0q5vl2bd010i78nsp6xj8e
+    verified: false
+    hashtags: "#funny, #pubmobile, #pubgturkey, #devamke"
   - username: "enessr"
     fullname: >-
       Enes Sarı
+    bio: >-
+       Konya
     location: "Turkey"
-    followers: 3890
-    engagement: 1255
-    commentsToLikes: 0.023062
+    followers: 3669
+    engagement: 1200
+    commentsToLikes: 0.022942
     id: ck8kfeghbdsf60j78adumb37w
     verified: false
-    hashtags: "#ejyteam, #slovmotion, #1myetenek, #evrim"
-  - username: "muhammeddindar"
+    hashtags: "#konya, #tiktokt, #tiktokbenione, #ke"
+  - username: "mehmetcecenn"
     fullname: >-
-      Muhammed Dindar
+      🔥💥 MEHMET ÇEÇEN 💥🔥
+    bio: >-
+      🇹🇷Konya🇹🇷
     location: "Turkey"
-    followers: 25230
-    engagement: 374
-    commentsToLikes: 0.022683
-    id: cka0q5vyvbd3h0i78x3lububm
+    followers: 23800
+    engagement: 286
+    commentsToLikes: 0.039529
+    id: ckdt24cj1s3o80j23lg4yychw
     verified: false
-    hashtags: "#konya"
-  - username: "teknisyen_bey42"
+    hashtags: "#bedel, #unalbaba, #cecen, #kesfettik"
+  - username: "yavuz_ozyer"
     fullname: >-
-      ONUR AYDOĞDU
+      Yavuz özyer
+    bio: >-
+      🇹🇷KONYA🇹🇷
     location: "Turkey"
-    followers: 6311
-    engagement: 1051
-    commentsToLikes: 0.110445
-    id: ck9fyyjk6coo70j78wn415k0a
+    followers: 8714
+    engagement: 566
+    commentsToLikes: 0.014533
+    id: ckbevlonvf68v0j23qipq71ed
     verified: false
-    hashtags: "#zikir, #beyaz, #olmuyor, #iftar"
-  - username: "malicimresmi"
+    hashtags: "#jcb, #nowaterchallenge, #konya, #yuksekgerilim"
+  - username: "ylmaz.tugce"
     fullname: >-
-      Mehmet Ali Akgün
+      Tuğçe 
+    bio: >-
+      Konya
     location: "Turkey"
-    followers: 4226
-    engagement: 1051
-    commentsToLikes: 0.054276
-    id: cka0q5uqobcru0i78errh1uzx
+    followers: 17600
+    engagement: 1592
+    commentsToLikes: 0.017221
+    id: ckc7h7fnlplzf0j23qof1fu1j
     verified: false
-    hashtags: "#feneralay, #eskiyenifotoak, #candy, #coronavirus"
-  - username: "ahucantutuncu"
+    hashtags: "#acayipiyi, #kule, #konyaa, #konya42"
+  - username: "ilknurrr_1903"
     fullname: >-
-      AHUCAN👑 #teamahucan
+      ilknur_1903
+    bio: >-
+      konya-ankara buraya kadar geldin takip edersin 🇹🇷🇦🇿
     location: "Turkey"
-    followers: 39966
-    engagement: 1225
-    commentsToLikes: 0.049182
-    id: cka7o6uxo0j6e0i78eu9nnq2o
+    followers: 5107
+    engagement: 2489
+    commentsToLikes: 0.033571
+    id: ckbq8du9jurh10j23iy3bu2av
     verified: false
-    hashtags: "#obak, #loveyou, #bisikletci, #kesvetteyiz"
-  - username: "elif_naz_tas"
+    hashtags: "#ke, #capcut, #tiktok"
+  - username: "19dilekarslan"
     fullname: >-
-      EFO_BASKAN_42
+      Dilek Arslan
+    bio: >-
+      Konya da bir Çorum lu 😉
     location: "Turkey"
-    followers: 4253
-    engagement: 1656
-    commentsToLikes: 0.018731
-    id: cka7o70oh0kqh0i78oo7gsnv5
+    followers: 3156
+    engagement: 2200
+    commentsToLikes: 0.030625
+    id: ckd66jxau37ru0j23spm0m7ul
     verified: false
-    hashtags: "#42, #kesfet, #konyaaa, #kardesim"
-  - username: "batuhan.2121"
+    hashtags: "#konyaa, #ke, #konyal, #elaz"
+  - username: "koreli._.xx2"
     fullname: >-
-      SURUÇLUYUM BEN 🙏
+      Miraç Konyalı
+    bio: >-
+      KONYA BOXNG CLUP
     location: "Turkey"
-    followers: 3018
-    engagement: 992
-    commentsToLikes: 0.024431
-    id: ckac5e9mod78e0i784wbyc6so
+    followers: 34200
+    engagement: 1069
+    commentsToLikes: 0.065703
+    id: ck8kfeiledt1x0j78cjag1lh2
     verified: false
-    hashtags: "#ahmetkayam, #instegram, #lifefoy, #alartikke"
-  - username: "bahattinemekli"
+    hashtags: "#be, #begeninlutfen, #btsfan, #vivacutapp"
+  - username: "serpil.bugday"
     fullname: >-
-      KAPICI BABA OĞUL 🤣
+      3 prenses annesiyim
+    bio: >-
+      konya 42 @serpilbugday takip edin bu hesabimida
     location: "Turkey"
-    followers: 43536
-    engagement: 739
-    commentsToLikes: 0.022939
-    id: ck8kfejymdtfe0j78h9nnjedd
+    followers: 9662
+    engagement: 1009
+    commentsToLikes: 0.082489
+    id: ckdi7kqtr9jem0j237odox3j6
     verified: false
-    hashtags: "#evdekalt, #beni, #ejderhayad"
-  - username: "chefharun"
+    hashtags: "#meyvechallenge, #teamezgizem, #kesfetalbeni, #ke"
+  - username: "hasanyavuz3442"
     fullname: >-
-      Harun Reşit Tatlı
+      hasanyavuz3442
+    bio: >-
+      Bozuk bir karakterle kalbime oturma 12.12.1986 🎂 İstanbul 👍 konya👍
     location: "Turkey"
-    followers: 250460
-    engagement: 629
-    commentsToLikes: 0.015481
-    id: ck8kfefhjds6e0j78dmobix8q
+    followers: 11200
+    engagement: 893
+    commentsToLikes: 0.091014
+    id: ckbqd00n9z05r0j23wn2by7et
     verified: false
-    hashtags: "#konya, #42konya, #konyaa"
-  - username: "grip.xx"
-    fullname: >-
-      Ali Önoğlu
-    location: "Turkey"
-    followers: 3016
-    engagement: 668
-    commentsToLikes: 0.071809
-    id: ckad3racklyee0i78due6t0kc
-    verified: false
-    hashtags: "#evdefest, #konya42, #melek, #okulda"
+    hashtags: "#istanbul, #zeytinburnu, #canl, #sompo"
 ---

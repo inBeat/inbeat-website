@@ -1,107 +1,130 @@
 ---
 title: Top 10 Theater TikTok Influencers In 2020
 description: >-
-  Find top theater TikTok influencers in 2020. Most popular hashtags: #duet #japan #quarantine #coronavirus.
+  Find top theater TikTok influencers in 2020. Most popular hashtags: #duet #fyp #foryou #dance.
 platform: TikTok
+hits: 1059
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 1059 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "cornfedsass"
+    fullname: >-
+      Cassie Hohn
+    bio: >-
+      Sassy girl, torch singer and theater nerd. Venmo Cassie-cornfedsass
+    location: "United States"
+    followers: 25000
+    engagement: 1595
+    commentsToLikes: 0.101697
+    id: ckbfiiodpe9b20j23o3it4x3e
+    verified: false
+    hashtags: "#pandammit, #election, #duet, #sasshunter"
+  - username: "tania_mony07"
+    fullname: >-
+      Tania Rahman (Mony)
+    bio: >-
+      Ex Theater artist of ❤️Nattyajon💙উদীচি শিল্পীগোষ্ঠী💜
+    location: "Bangladesh"
+    followers: 7337
+    engagement: 5714
+    commentsToLikes: 0.413717
+    id: ckd1aegrfseit0j23trgjnmbd
+    verified: false
+    hashtags: "#fyp, #goodnight, #dance, #duet"
   - username: "matpatgt"
     fullname: >-
       MatPat
+    bio: >-
+      A musical theater nerd who makes a living overthinking video games and movies.
     location: "United States"
-    followers: 475087
-    engagement: 1587
-    commentsToLikes: 0.026156
+    followers: 492800
+    engagement: 1572
+    commentsToLikes: 0.025287
     id: ck8klteap5gea0j78f4mn2axv
     verified: true
-    hashtags: "#stanleyparable, #nintendo, #dna, #beatsaber"
-  - username: "curlybluex_"
+    hashtags: "#puzzle, #riddle, #gametheory, #ad"
+  - username: "tessie_tess_"
     fullname: >-
-      vo imbora fdc
-    location: "Brazil"
-    followers: 71435
-    engagement: 2624
-    commentsToLikes: 0.016797
-    id: ck9333fkomb7m0j78rwe35059
-    verified: false
-    hashtags: "#juntosvamosvencer, #foryou, #dontrushchallenge"
-  - username: "trev.p667"
-    fullname: >-
-      Trevor Patchen
+      Tessie Kate Violet
+    bio: >-
+      Taken-Poly-Demi Trans MTF 🏳️‍🌈 Theater 17 I Have A YouTube @me #tessie_tess_
     location: "United States"
-    followers: 29599
-    engagement: 1705
-    commentsToLikes: 0.038744
-    id: ck9fx8gmt59es0j78nusbfzkt
+    followers: 28300
+    engagement: 2902
+    commentsToLikes: 0.025757
+    id: ckb9t7i1br0q10j23sudhgn6d
     verified: false
-    hashtags: "#musicmatters, #joeynero, #catholicschool, #lgbtqa"
-  - username: "starcaptainyork"
+    hashtags: "#trans, #lgbtq, #lgbtqia, #homophobia"
+  - username: "shaunlandry"
     fullname: >-
-      starcaptainyork
+      Shaun Landry
+    bio: >-
+      Level 55, Game almost over. Actor, teacher Pack Theater L.A. IMDB
     location: "United States"
-    followers: 47245
-    engagement: 1998
-    commentsToLikes: 0.015423
-    id: ck83zg23n0fqf0j782zxaqt0n
+    followers: 23400
+    engagement: 1726
+    commentsToLikes: 0.051203
+    id: ckbl07s0lwykj0j23iqb95vr9
     verified: false
-    hashtags: "#oregon, #nathandrake, #drarry, #nathandrakecosplay"
-  - username: "starblaze4"
+    hashtags: "#comedy, #tiktok, #improv, #duet"
+  - username: "kay_didz"
     fullname: >-
-      Derek
+      Kayla💛🎤✌🏼
+    bio: >-
+      18•bi•NY•she/her 💛BLM💛 pov’s & theater 🇮🇹Ik I have a big nose🇮🇹
     location: "United States"
-    followers: 23579
-    engagement: 753
-    commentsToLikes: 0.055230
-    id: ck8p1ugk0n10a0j78vb1gmqvp
+    followers: 27900
+    engagement: 1638
+    commentsToLikes: 0.050588
+    id: ckblra1gdimka0j23zo55q75v
     verified: false
-    hashtags: "#workdistractions, #cursedimages, #gotthisforyou, #got2bhome"
-  - username: "iamalika3"
+    hashtags: "#greenscreen, #greenscreenvideo, #duet, #shera"
+  - username: "muffinnugget"
     fullname: >-
-      Malika Vasishth 
-    location: "India"
-    followers: 7819
-    engagement: 1702
-    commentsToLikes: 0.055031
-    id: cka9lj5nn2ecd0i78wbsa0vrn
-    verified: false
-    hashtags: "#photoshot, #viralvideo, #virel, #trend"
-  - username: "kelvinmarc7"
-    fullname: >-
-      🇮🇳 KELVIN MARC🇮
-    location: "India"
-    followers: 126178
-    engagement: 1466
-    commentsToLikes: 0.046831
-    id: cka9on17l5ysf0i7851c06vnx
-    verified: false
-    hashtags: "#mothersday, #alone, #baapbeti, #riteshdeshmukh"
-  - username: "bicsmallngon"
-    fullname: >-
-      ビックスモールン ゴン
-    location: "Japan"
-    followers: 259615
-    engagement: 763
-    commentsToLikes: 0.030739
-    id: ck8sffbbunwyv0j78v05bvmzu
-    verified: true
-    hashtags: "#stop, #tiktokjapan, #567challenge, #animejapan"
-  - username: "swiggityswooty69"
-    fullname: >-
-      Halle Bratvold
+      Muffinnugget
+    bio: >-
+      She/her Chaotic Neutral Theater kid from hell
     location: "United States"
-    followers: 4956
-    engagement: 1484
-    commentsToLikes: 0.026160
-    id: ck8knwdyuf25w0j78obym99q1
+    followers: 33300
+    engagement: 2817
+    commentsToLikes: 0.022868
+    id: ck9gq569u84yz0j78lligmji7
     verified: false
-    hashtags: "#seeyallinhell, #queensofcomedy, #nerd, #formyvalentine"
-  - username: "abominablemovie"
+    hashtags: "#theatre, #foryoupage, #urinetown, #karen"
+  - username: "dales_drama"
     fullname: >-
-      Abominable 
+      Dale
+    bio: >-
+      Musical theater kid Please don’t spam like!! 15+ ship She/Her 17
     location: "United States"
-    followers: 31645
-    engagement: 1855
-    commentsToLikes: 0.012998
-    id: ck8tu7ap1sev90j78z6sl2kxs
-    verified: true
-    hashtags: "#abominablemovie, #duet"
+    followers: 27900
+    engagement: 2574
+    commentsToLikes: 0.017893
+    id: ckbbm1cjxa8520j23q1u5p136
+    verified: false
+    hashtags: "#wip, #lilyevanscosplay, #glinda, #annabethchase"
+  - username: "hannahfields17"
+    fullname: >-
+      Hannah Fields
+    bio: >-
+      Hannah She/Her 18 A musical theater dork Insta: @miss.b.natural
+    location: "United States"
+    followers: 59000
+    engagement: 2579
+    commentsToLikes: 0.028926
+    id: ckacg1dlqtags0i78isqqjigy
+    verified: false
+    hashtags: "#wewintogether, #singer, #fyp, #musicaltheatre"
+  - username: "avivazafrin"
+    fullname: >-
+      avivazafrin
+    bio: >-
+      If Doja Cat was a theater kid NYU Tisch ‘23 🧚🏼‍♀️
+    location: "United States"
+    followers: 174800
+    engagement: 2134
+    commentsToLikes: 0.018427
+    id: ck8f6fvca2lya0j78qvx0jebr
+    verified: false
+    hashtags: "#fyp, #cover, #singing, #someonepleasecastmeicantpayfornyu"
 ---

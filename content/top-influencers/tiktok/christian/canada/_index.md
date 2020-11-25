@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Canada In 2020
 description: >-
-  Find top christian TikTok influencers in Canada in 2020. Most popular hashtags: #duet #wipeitdown #salvation #funny.
+  Find top christian TikTok influencers in Canada in 2020. Most popular hashtags: #duet #fyp #greenscreen #jesus.
 platform: TikTok
+hits: 134
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 134 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "christianlandryd"
+  - username: "ready4anarchy"
     fullname: >-
-      ChristianLandryD
+      Charlie Franko
+    bio: >-
+      Political/religious opinion 25\💍\any pronouns Christian\Anarchist 🔞my DMs🔞
     location: "Canada"
-    followers: 7852
-    engagement: 1356
-    commentsToLikes: 0.082053
-    id: ck9fhwtiv7z1k0j78re9xuz6d
+    followers: 5162
+    engagement: 1014
+    commentsToLikes: 0.184911
+    id: ckb98lyxrs72z0j23cyw8yzto
     verified: false
-    hashtags: "#tiktokcanada"
-  - username: "itslukeidk"
+    hashtags: "#rapbattlewithafriend, #greenscreen, #stitch, #duet"
+  - username: "purple.fettucine"
+    fullname: >-
+      Olivia 
+    bio: >-
+      Christian Conservative ✝️ 💕 i’m 16! Jesus is Lord 🥺✝️
+    location: "Canada"
+    followers: 43700
+    engagement: 965
+    commentsToLikes: 0.104803
+    id: ckbbjp5ka83eu0j232h5daytw
+    verified: false
+    hashtags: "#jesus, #jesusisking, #duet, #conservative"
+  - username: "its_lukeidk"
     fullname: >-
       Luke
+    bio: >-
+      Christian 🙏
     location: "Canada"
-    followers: 4377
-    engagement: 985
-    commentsToLikes: 0.038071
+    followers: 4881
+    engagement: 1107
+    commentsToLikes: 0.055079
     id: ck9r3moygqmff0j78prwoo6uh
     verified: false
-    hashtags: "#rudy, #lebron, #checkthisout, #charlidamelio"
+    hashtags: "#fyp, #xyzbca, #funny, #foryou"
+  - username: "christianrenaud"
+    fullname: >-
+      Christian Renaud 😈
+    bio: >-
+      Backup account , Main account Christianrenaud_ 😈 500+ follow my Instagram 😌
+    location: "Canada"
+    followers: 265900
+    engagement: 1381
+    commentsToLikes: 0.030228
+    id: ckdi6mypx865l0j232ge49mks
+    verified: false
+    hashtags: "#hey, #fyp, #duet, #lol"
+  - username: "lunar_moon_witch"
+    fullname: >-
+      Neoma
+    bio: >-
+      Christian Lunar witch🌙🧜🏼‍♀️ Dog mom 🐶 I’m funny sometimes🤷🏽‍♀️ 🇨🇦
+    location: "Canada"
+    followers: 40900
+    engagement: 1280
+    commentsToLikes: 0.029527
+    id: ckbas5fjkiqg80j23qralrytz
+    verified: false
+    hashtags: "#squishmallows, #witchtok, #candles, #witchesoftiktok"
   - username: "jane._.ryan"
     fullname: >-
       Jane._.Ryan
+    bio: >-
+      Québécoise!!! I dare you to... Hum okay I’ll try! A good Christian girl! 😇
     location: "Canada"
-    followers: 19555
-    engagement: 966
-    commentsToLikes: 0.025058
+    followers: 20100
+    engagement: 962
+    commentsToLikes: 0.017403
     id: ck80oq0ckj5vh0j78od5x1fpn
     verified: false
-    hashtags: "#weird, #movie, #grass, #amiistewart"
-  - username: "lil.wagon"
+    hashtags: "#duet, #student, #expressionquebecoise, #foryouquebec"
+  - username: "aronpipersgirlfriend"
     fullname: >-
-      lil.wagon
+      nyah
+    bio: >-
+      white💪🏻 sexy😩 hot🥵 loner💔🥀 pro dancer🩰 beware⚠️ attractive povs! she/her
     location: "Canada"
-    followers: 9833
-    engagement: 581
-    commentsToLikes: 0.041342
-    id: ck92uxzx2o3u50j7806ibn5dy
+    followers: 15600
+    engagement: 2685
+    commentsToLikes: 0.061929
+    id: ckfplkjq20cgw0j234xby9c8g
     verified: false
-    hashtags: "#hardwork, #quarantine, #yummy, #chooseone"
-  - username: "katyy.patyy"
-    fullname: >-
-      Katy
-    location: "Canada"
-    followers: 17331
-    engagement: 2085
-    commentsToLikes: 0.067656
-    id: ck9tvlpv8r6pf0j78pz5rfy6e
-    verified: false
-    hashtags: "#worth, #homeroutine, #scoobdance, #hair"
-  - username: "translatingchrist"
-    fullname: >-
-      translatingchrist
-    location: "Canada"
-    followers: 32865
-    engagement: 2014
-    commentsToLikes: 0.146559
-    id: ck8owk6ebyasu0j783n3oxu6v
-    verified: false
-    hashtags: "#straighttohell, #salvation, #freedom, #christiantiktok"
+    hashtags: "#emotional, #christiangirlautumn, #colorcustomizer, #dance"
   - username: "llianagordanya"
     fullname: >-
-      Liana ♡
+      ✧･ﾟ: liana*✧･ﾟ:*
+    bio: >-
+      17 ✧ WARRIOR FOR CHRIST ✧ apologetics/theology
     location: "Canada"
-    followers: 32963
-    engagement: 1928
-    commentsToLikes: 0.219295
+    followers: 64100
+    engagement: 2061
+    commentsToLikes: 0.066696
     id: ck9fdqucsprr80j78bakbwle8
     verified: false
-    hashtags: "#godisgood, #politics, #socialconstruct, #democrat"
+    hashtags: "#jesus, #god, #christian, #vlog"
   - username: "zacchaeustheginge"
     fullname: >-
       Zacc Burke
+    bio: >-
+      Youth Pastor 🙏🏻 Just tryna lol Brother’s twitch: https://twitch.tv/lilburkey
     location: "Canada"
-    followers: 25973
-    engagement: 1606
-    commentsToLikes: 0.095106
+    followers: 29700
+    engagement: 1872
+    commentsToLikes: 0.087354
     id: ckaftummv7bdz0i78z45f1wol
     verified: false
-    hashtags: "#doyouworkhere, #tingeofginge, #teddy, #marriage"
-  - username: "iamrobinskies"
+    hashtags: "#greenscreen, #facts, #christian, #zaccfacts"
+  - username: "calebaitken"
     fullname: >-
-      iamrobinskies 
+      Caleb Aitken
+    bio: >-
+      17 from Canada
     location: "Canada"
-    followers: 11469
-    engagement: 1484
-    commentsToLikes: 0.164536
-    id: ck92uy64ko58i0j78jj787ecx
+    followers: 15100
+    engagement: 1935
+    commentsToLikes: 0.048362
+    id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#itsalllove, #canada, #favoritememories, #withmyfamily"
-  - username: "mrhot"
-    fullname: >-
-      MrHot
-    location: "Canada"
-    followers: 66124
-    engagement: 2178
-    commentsToLikes: 0.091759
-    id: ck80719g9nu290j78bmwznfih
-    verified: false
-    hashtags: "#funny, #miracle, #xyxbca, #4youpage"
+    hashtags: "#jesus, #christian, #duet, #god"
 ---

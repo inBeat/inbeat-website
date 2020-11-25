@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Spain In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Spain in 2020. Most popular hashtags: #bodybuilding #quedateencasa #love #yomequedoencasa.
+  Find top bodybuilding Instagram influencers in Spain in 2020. Most popular hashtags: #bodybuilding #gym #fitness #workout.
 platform: Instagram
+hits: 120
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 120 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "kevinhernandezifbb"
+  - username: "kevinhernandeznb"
     fullname: >-
       KEVIN HERNÁNDEZ
+    bio: >-
+      🇪🇸 🇮🇨 💠 NATURAL ATHLETE 🏆 Campeón de España Games Classic Bodybuilding 💥Suplementación @muscleforce_canarias 🌐 FITNESS MODEL @powerbuilding_oficial
     location: "Spain"
-    followers: 7868
-    engagement: 1105
-    commentsToLikes: 0.023051
+    followers: 9081
+    engagement: 986
+    commentsToLikes: 0.026003
     id: ck6trbj5ly18x0j71oetgm3vv
     verified: false
-    hashtags: "#noexcuses, #holidays, #exclusive, #copadeespa"
-  - username: "brainbuilder"
+    hashtags: "#gamesclassicbodybuilding, #marcuseaustralia, #kevinhernandez, #instaphoto"
+  - username: "emy_fit7"
     fullname: >-
-      Iván Alonso 》Psicólogo Fitness
+      N. C
+    bio: >-
+      📍Tuscany 🏋🏻‍♀️ bodybuilding addicted 📌Personal Trainer & Online Coach 🌱 @greentheoryfitness Ambassador 💊 @Bpr_nutrition discount code “EMY10”
     location: "Spain"
-    followers: 25778
-    engagement: 841
-    commentsToLikes: 0.118500
-    id: ck6tkpybr56vw0j71nommr2id
+    followers: 26884
+    engagement: 406
+    commentsToLikes: 0.048652
+    id: ck0u0gr3utm1v0i19zc7cbzzv
     verified: false
-    hashtags: "#teammyprotein, #yomequedoencasa, #transformaci, #entrenarencasa"
-  - username: "alegnaslife"
+    hashtags: "#arifamolo, #tbt, #12weeksfemalerevolutionmethod, #dontdothisathome"
+  - username: "catalin_dobrescu6"
     fullname: >-
-      Angiie
+      Catalin Dobrescu
+    bio: >-
+      🏋🏻‍♀️personal trainer 🥗Fitness & Culturism nutrition specialist 100% natural bodybuilding💪💪💪
     location: "Spain"
-    followers: 11181
-    engagement: 1073
-    commentsToLikes: 0.089014
-    id: ck5hp3szwqpj90i110u60i0k0
+    followers: 11025
+    engagement: 268
+    commentsToLikes: 0.006029
+    id: ck6ufumjiz86p0j71n9l46pza
     verified: false
-    hashtags: "#autumn, #brown, #fashion, #stayhome"
-  - username: "metab0lika"
+    hashtags: ""
+  - username: "alarssson"
     fullname: >-
-      Diego Salas
+      Andreas Larsson
+    bio: >-
+      💯@awarenutrition Code ”Andreas15” 🎞YouTube 👇👇👇
     location: "Spain"
-    followers: 3993
-    engagement: 2573
-    commentsToLikes: 0.078292
-    id: ck5ciun5ftemq0i11rnkmswu8
+    followers: 15526
+    engagement: 1037
+    commentsToLikes: 0.048585
+    id: ck8td774n26e60j78ulmka56a
     verified: false
-    hashtags: "#pullandbeer, #todoir, #hemosvenidoajugar, #altorendimiento"
-  - username: "mikaboms"
+    hashtags: "#gymshark, #keepgoing, #gymsharktrain, #fit"
+  - username: "rahelanastasia_ifbbpro"
     fullname: >-
-      💣Mika Boms💣
+      Rahel Cucchia IFBB PRO
+    bio: >-
+      🌐 IFBB FIGURE PRO ▪️ @hd.muscle | Code: Rahel ▪️ @ironbullstrength | Code: Rahel ▪️ @noccoswitzerland ▪️ @team1stcallout 📧 rahel.cucchia@outlook.com
     location: "Spain"
-    followers: 73320
-    engagement: 761
-    commentsToLikes: 0.019181
-    id: ck14lo3lovmu80i19v86kt1me
+    followers: 16431
+    engagement: 1190
+    commentsToLikes: 0.097376
+    id: ck5hn9j4infqs0i11gmg4n0u1
     verified: false
-    hashtags: "#bodybuilding, #fuego, #papelhigienico, #deporte"
-  - username: "lady.loah"
+    hashtags: "#girl, #progress, #noccoswitzerland, #picoftheday"
+  - username: "yetifit__"
     fullname: >-
-      Lorena Alvarez • Active Living
+      Yeтι 🇫🇷
+    bio: >-
+      Valencia 🇪🇸 • 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗹𝗼𝘃𝗲𝗿 🏋️‍♂️ • 𝗣𝗼𝘀𝗶𝘁𝗶𝘃𝗲 𝘃𝗶𝗯𝗲𝘀 🌴
     location: "Spain"
-    followers: 18750
-    engagement: 784
-    commentsToLikes: 0.087431
-    id: ck5c3lahazjwv0i11uaxqcuv9
+    followers: 459625
+    engagement: 592
+    commentsToLikes: 0.021188
+    id: ck15szkaefm080i19z82am8sn
     verified: false
-    hashtags: "#zerowastelife, #athomefitness, #bodybuilding, #foodie"
-  - username: "casdoyfe"
+    hashtags: ""
+  - username: "martabisshopp"
     fullname: >-
-      CASANDRA DODERO
+      M A R T A  B I S S H O P P
+    bio: >-
+      ▫️ Fitness&Health ▫️ Médica👩🏽‍⚕️🩺 #MIR2021 ▫️ IFBB Bikini Fitness 🥇 ▫️ @myproteines : BISSHOPP #naturalbodybuilding
     location: "Spain"
-    followers: 94058
-    engagement: 215
-    commentsToLikes: 0.163927
-    id: ck6u5lqtaaczl0j715609o03f
+    followers: 10643
+    engagement: 922
+    commentsToLikes: 0.064342
+    id: ck8talv1osaqn0j780xyqs5v2
     verified: false
-    hashtags: "#riadmarrakech, #regalo, #sorteoropa, #swimming"
-  - username: "bananiita_"
+    hashtags: "#health, #medicine, #strong, #bodybuilding"
+  - username: "guillemcb88"
     fullname: >-
-      Daniela Mazorra 💖🍌
+      Guillem Clave
+    bio: >-
+      1x🥇MP Universe 2x🥇+ 1🥈MM Europe 1x🥈+1🥉MM World @musclemania PRO 💳 @noccospain ambassador 💪🏿Online Diet + Training Plan
     location: "Spain"
-    followers: 8599
-    engagement: 1205
-    commentsToLikes: 0.149262
-    id: ck8t5313u8nqg0j78yuzeljfy
+    followers: 36941
+    engagement: 652
+    commentsToLikes: 0.029805
+    id: ck5c3gkxqza480i11pqf0h6y1
     verified: false
-    hashtags: "#mygirls, #hairstyle, #parquelenin, #nakedplanet"
-  - username: "adriel_cobra"
+    hashtags: "#fitness, #fitspo, #shredded, #instafit"
+  - username: "primal_fitness"
     fullname: >-
-      Adriel Francois (法艾迪) COBRA
+      Rafael Motloch
+    bio: >-
+      ⚜️ONLINE WORKOUT PLAN ⚜️ONLINE COACHING ⚜️CROSSFIT ATHLETE ⚜️ELITE PERSONAL TRAINER ⚜️FOUNDER @reebokhybrid ⚜️NUTRITION ⚜️ELEIKO CERT. ⚜️ 🇵🇱 🇬🇧 🇸🇪
     location: "Spain"
-    followers: 13688
-    engagement: 1231
-    commentsToLikes: 0.031117
-    id: ck6uam7x94c0m0j715npmwsmh
+    followers: 5015
+    engagement: 1396
+    commentsToLikes: 0.122888
+    id: ck5q5h1rpsu9y0i116mk1jzdo
     verified: false
-    hashtags: "#beachvybes, #cobraquotes, #mapeggy, #buffdudes"
-  - username: "alef.cero"
+    hashtags: "#fitness, #nevergiveup, #selflove, #happy"
+  - username: "akandreska"
     fullname: >-
-      José Martínez
+      Andrés Castellón 🧬
+    bio: >-
+      🐺 Be your own motivation 🦍 @powerbuilding_oficial TEAM 🕑 18 years old 🎬YouTube | Andrés Castellón⬇️
     location: "Spain"
-    followers: 37800
-    engagement: 567
-    commentsToLikes: 0.032631
-    id: ck6u6hpujfnlo0j71jpmnyxl0
+    followers: 4785
+    engagement: 2749
+    commentsToLikes: 0.032357
+    id: ck6tkqxum58fg0j71gmjhumeg
     verified: false
-    hashtags: "#love, #bikinimodel, #heurebleue, #gymbody"
+    hashtags: "#motivacion, #training, #workout, #powerlifting"
 ---

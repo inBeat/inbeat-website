@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Russia In 2020
 description: >-
-  Find top dancers TikTok influencers in Russia in 2020. Most popular hashtags: #parkjimin #itzy #trend #straykids.
+  Find top dancers TikTok influencers in Russia in 2020. Most popular hashtags: #kpop #blackpink #bts #dance.
 platform: TikTok
+hits: 31
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 31 TikTok influencers like this in Russia for you to connect with.
 profiles:
-  - username: "marhibye"
-    fullname: >-
-      ugh [23K]
-    location: "Russia"
-    followers: 23381
-    engagement: 2890
-    commentsToLikes: 0.043192
-    id: ck9nv0to0pqyu0j78r3lgxgcb
-    verified: false
-    hashtags: "#loveyourself, #filter, #lauv, #jhope"
   - username: "mc.vishenkadance"
     fullname: >-
       Лерик🍒💣
+    bio: >-
+      Dancer💥😻 Сотрудничеств в Директ❤️💋👇 Instagram: Mc.vishenka🍒
     location: "Russia"
-    followers: 46191
-    engagement: 2095
-    commentsToLikes: 0.035808
+    followers: 47800
+    engagement: 2519
+    commentsToLikes: 0.037049
     id: ck9gmg5mis84v0j78thz6k3l9
     verified: false
-    hashtags: "#blackpinkdance, #fakelove, #dancer, #superm"
+    hashtags: "#kpop, #koreanboy, #bangtanboys, #bts"
+  - username: "waterman108"
+    fullname: >-
+      Kirill Dzyuin
+    bio: >-
+      Dancer 28 Have a nice day 🔥
+    location: "Russia"
+    followers: 70900
+    engagement: 1559
+    commentsToLikes: 0.049545
+    id: ck8ql66x2kect0j78nn3xz8se
+    verified: false
+    hashtags: "#duet"
+  - username: "passifflora"
+    fullname: >-
+      plesni_cvet
+    bio: >-
+      Russian girl 🕊 ✨19 years✨ dancer instagram: plesni_cvet
+    location: "Russia"
+    followers: 5070
+    engagement: 1386
+    commentsToLikes: 0.146820
+    id: ckbf7888xx4qp0j23og8q5c80
+    verified: false
+    hashtags: "#loveiz, #dance, #tinilin, #blackpink"
+  - username: "mioleee"
+    fullname: >-
+      《°•Jay•°》
+    bio: >-
+      °•3к💛•° °•Jay•° °•Intern•° °•cover dancer•° °•inst: park_s07•°
+    location: "Russia"
+    followers: 3287
+    engagement: 2437
+    commentsToLikes: 0.038345
+    id: ckc82t8ps3ifm0j23dfbq4fdf
+    verified: false
+    hashtags: "#kpoper, #kpopfan, #edit, #kpop"
+  - username: "aleksandrseremin"
+    fullname: >-
+      Александр Еремин
+    bio: >-
+      Circus artist Dancer Neon/Fire show #aerialist #Ерёмас inst @aleksandreremins
+    location: "Russia"
+    followers: 4021
+    engagement: 1184
+    commentsToLikes: 0.069486
+    id: ckbexbjxqhfml0j23mp0e4ev4
+    verified: false
+    hashtags: "#circus, #aerialist, #circusartist, #aerialskills"
+  - username: "iamalyonalee"
+    fullname: >-
+      Alyona Lee
+    bio: >-
+      Алена 20 y.o♎️ Blogger 120 000+ Dancer Inst: alyona._.lee YouTube:Alyona Lee👇🏼
+    location: "Russia"
+    followers: 247300
+    engagement: 2849
+    commentsToLikes: 0.008436
+    id: cka0q64s6bfb80i78njhlpfa3
+    verified: false
+    hashtags: "#asia, #asian, #trend, #bts"
+  - username: "nst_yao.jpg"
+    fullname: >-
+      jk
+    bio: >-
+      nastya, 17 y.o. cover-dancer @bread__ducks 🔥INST: nst_yao.jpg🔥 rzn
+    location: "Russia"
+    followers: 361300
+    engagement: 2602
+    commentsToLikes: 0.005522
+    id: ckavjfhiks1zh0j23kllzaucc
+    verified: false
+    hashtags: ""
+  - username: "melannieyoo"
+    fullname: >-
+      Сверхонутый маньяк
+    bio: >-
+      👽inst:@yoomelannie👽 dancer 🌞пижамы на каждый день🌞 ❄Якт 🥶
+    location: "Russia"
+    followers: 5812
+    engagement: 1919
+    commentsToLikes: 0.016217
+    id: ckbwhrtna2xuw0j239nngcbmy
+    verified: false
+    hashtags: "#supernatural, #blackpink, #kpop, #sam"
   - username: "egorsimachev"
     fullname: >-
       EgorSimachev
+    bio: >-
+      BOLSHOI BALLET dancer, acter director of @masterskayabaleta Father of 5children
     location: "Russia"
-    followers: 16920
-    engagement: 957
-    commentsToLikes: 0.022252
+    followers: 30800
+    engagement: 1149
+    commentsToLikes: 0.016948
     id: ck9gkodb5kjh00j78tdj2b0h7
     verified: false
-    hashtags: "#kjerag, #kjeragbolten, #insect, #norway"
-  - username: "vens_brend"
+    hashtags: "#ballet, #bolshoi, #ballerina, #redbulldanceyourstyle"
+  - username: "just_2alina"
     fullname: >-
-      VENS
+      Dance_Alina
+    bio: >-
+      Cover Dancer 🧸 Instagram 🔸️ just_2a fandom name 🔹️ LiNKi 🥳
     location: "Russia"
-    followers: 640991
-    engagement: 1312
-    commentsToLikes: 0.007875
-    id: cka7tgq85nenn0i78nmqlayn8
+    followers: 37800
+    engagement: 1666
+    commentsToLikes: 0.021836
+    id: ckbl2fb6gzlh30j23v1p98csx
     verified: false
-    hashtags: "#goody, #jastinbiber, #dance, #vens"
-  - username: "katushaadushkina"
-    fullname: >-
-      Катя Адушкина Katya Adushkina
-    location: "Russia"
-    followers: 3734594
-    engagement: 1380
-    commentsToLikes: 0.005081
-    id: ck9rk7791rkhs0j78uu5g2czc
-    verified: true
-    hashtags: ""
-  - username: "lunarrrr8"
-    fullname: >-
-      🌙Alina🌙
-    location: "Russia"
-    followers: 36301
-    engagement: 1198
-    commentsToLikes: 0.009975
-    id: ck9gmg52ks7ye0j78d4v8hxe8
-    verified: false
-    hashtags: "#mamamoo, #workacholic, #gidle, #micdrop"
-  - username: "nikdotrick"
-    fullname: >-
-      nikdotrick
-    location: "Russia"
-    followers: 20274
-    engagement: 1285
-    commentsToLikes: 0.010487
-    id: ck8tt7e77rrs90j78uh4yciu0
-    verified: false
-    hashtags: "#canyoumakeit20, #travel, #flexibility, #experimental"
-  - username: "kawaii_fox_tyan"
-    fullname: >-
-      Kawaii_fox_tyan
-    location: "Russia"
-    followers: 1126495
-    engagement: 1625
-    commentsToLikes: 0.016222
-    id: ck8qd4wern1fu0j784jk9qo1u
-    verified: true
-    hashtags: "#makeup, #goth, #hair, #love"
-  - username: "karinakross"
-    fullname: >-
-      Карина 
-    location: "Russia"
-    followers: 5873618
-    engagement: 1802
-    commentsToLikes: 0.003596
-    id: ck9ff39orvn7h0j78p2ubkh3n
-    verified: true
-    hashtags: "#lovestory, #country"
-  - username: "bukholts"
-    fullname: >-
-      Юлиана Бухольц 
-    location: "Russia"
-    followers: 84703
-    engagement: 460
-    commentsToLikes: 0.015044
-    id: ck8kg28hpgpm90j7850jw7ht3
-    verified: true
-    hashtags: "#skibidichalleng, #freshmydance, #mood"
+    hashtags: "#dance, #monbebe, #ateez, #kpop"
 ---

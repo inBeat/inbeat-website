@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In United States In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in United States in 2020. Most popular hashtags: # #supportlocal #lol #kingleonard.
+  Find top graphic-designers Instagram influencers in United States in 2020. Most popular hashtags: #halloween #evaaphrodite #shootout.
 platform: Instagram
+hits: 1140
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 1140 Instagram influencers like this in United States for you to connect with.
 profiles:
+  - username: "amberbjel"
+    fullname: >-
+      Amber Bjel
+    bio: >-
+      🇵🇭+🇸🇰 🖥 Graphic Designer 💃🏻 My closet is 99% thrifted 🏠 Code AMBERB for $250 off @avantstay
+    location: "United States"
+    followers: 8220
+    engagement: 1189
+    commentsToLikes: 0.199875
+    id: ckf5wbm3criul0j23jaz58ilg
+    verified: false
+    hashtags: "#supportblackownedbusinesses, #nojusticenopeace, #ripsummer2020"
   - username: "kathy_vu"
     fullname: >-
       𝐤 𝐚 𝐭 𝐡 𝐲  𝐯 𝐮  //  CREATIVE
+    bio: >-
+      vietnamese, she/her » photographer + graphic designer + content creator » 𝕟𝕖𝕩𝕥 𝕤𝕥𝕠𝕡 ⤃ TBA ☆ ——— business inquiries » kvthyvu@gmail.com 💌
     location: "United States"
-    followers: 14670
-    engagement: 1285
-    commentsToLikes: 0.071224
+    followers: 18876
+    engagement: 724
+    commentsToLikes: 0.077364
     id: ck135xsyp3s230i19s7fy9wkm
     verified: false
-    hashtags: "#supportlocal, #peacefulkristin, #myeotd, #hapakristin"
+    hashtags: "#tblcollection, #ad, #oatmilkeverything, #laneigegiftedme"
   - username: "red_infected"
     fullname: >-
       AACHU 👑
+    bio: >-
+      Professional Graphic Designer Trivandrum 💫 Bangalore MOTOHOLIC || MM93 ❤️ Adrenaline junkie 🌀 Not an EXPERT rider 🙉 Powered by @mypulsarofficial
     location: "United States"
-    followers: 9054
-    engagement: 1529
-    commentsToLikes: 0.044663
+    followers: 7996
+    engagement: 1637
+    commentsToLikes: 0.052846
     id: ck6u2d966r55m0j7158f23w12
     verified: false
-    hashtags: "#vibes, #nature, #wanderlust, #instagood"
-  - username: "kaylynwebb"
+    hashtags: "#xbhp, #bikefamily, #wheelie, #picoftheday"
+  - username: "lifebyelliejune"
     fullname: >-
-      Kaylyn Webb
+      Ellie June ✨
+    bio: >-
+      finding & creating the beauty in life 📍UT | vlogger + graphic designer + donut fanatic 🖥elliejuneblog.com 💌elliejunelifestyle@gmail.com team ben 💍
     location: "United States"
-    followers: 6460
-    engagement: 916
-    commentsToLikes: 0.082085
-    id: ck5c7gri77i8i0i11hddzbzk9
+    followers: 16471
+    engagement: 1948
+    commentsToLikes: 0.033400
+    id: ck5c6raap61260i11yll0eh8d
     verified: false
-    hashtags: "#revolvearoundtheworld, #photoshoot, #life, #portraitsquad"
+    hashtags: "#nationaldonutday, #endhumantrafficking, #hearhim, #becauseofhim"
   - username: "paigeforrest"
     fullname: >-
       Paige Martindell
+    bio: >-
+      Dallas | Fueled by His strength† Fitness Instructor & Graphic Designer Co-Owner + Creative: @class_studios @lululemon ambassador
     location: "United States"
-    followers: 11045
-    engagement: 773
-    commentsToLikes: 0.070908
+    followers: 10955
+    engagement: 691
+    commentsToLikes: 0.118136
     id: ck0ucamt0gcsl0i199uow2uol
     verified: false
-    hashtags: "#psadventuring, #spreadlove, #lovefromclass, #coolcats"
-  - username: "anyasiberia"
+    hashtags: "#shinethatlight, #sponsored, #getyourasstoclass, #myable"
+  - username: "evaaphrodite"
     fullname: >-
-      Anya, an actress from New York
+      Eva Aphrodite Katerina
+    bio: >-
+      - Fine Artist, Graphic Designer, Illustrator - PhD Central Saint Martins, University of the Arts - My Art PRINTED on various products @REDBUBBLE
     location: "United States"
-    followers: 11531
-    engagement: 1480
-    commentsToLikes: 0.026904
-    id: ck5hjzcyhhin00i113idjhk3h
+    followers: 9675
+    engagement: 699
+    commentsToLikes: 0.086234
+    id: ck14lj4mruy2v0i19vqh2i2w2
     verified: false
-    hashtags: "#anyatakeone, #siberiaaboutacting"
-  - username: "idcforyooou"
-    fullname: >-
-      Ky Be Tha Name 🌼
-    location: "United States"
-    followers: 10174
-    engagement: 933
-    commentsToLikes: 0.073031
-    id: ckap1dwptu6950i78qg9w7afp
-    verified: false
-    hashtags: "#famu, #degreeloading, #blackgirlmajic, #2020"
+    hashtags: "#acrylicpaints, #lovebutterflies, #abstractartistsofinstagram, #selfportraits"
   - username: "jimmyschleisman"
     fullname: >-
       Jimmy
+    bio: >-
+      Lvl. 26 writer 🖊@blackkeyincubus gamer 🎮 (jimbaby on Twitch) artist/graphic designer👩🏻‍🎨 This is my only account ✌🏻 Check out my comic! ⬇️⬇️⬇️
     location: "United States"
-    followers: 37705
-    engagement: 880
-    commentsToLikes: 0.019417
+    followers: 36893
+    engagement: 1308
+    commentsToLikes: 0.017460
     id: ck5hix6sqfmkm0i1168cp7uv2
     verified: false
-    hashtags: "#pokemonart, #blackkeyincubus, #huskylove, #streamer"
-  - username: "bayareadesigns"
+    hashtags: "#streamer, #pokemon, #gay, #lgbtq"
+  - username: "diegocpreciado"
     fullname: >-
-      Jeremy Jae Aguinaldo
+      Diego Preciado🇵🇦
+    bio: >-
+      I love Jesus and Football Estánfor ‘23 🌲 WR/K/Graphic Designer
     location: "United States"
-    followers: 14767
-    engagement: 953
-    commentsToLikes: 0.044018
-    id: ck14lqe3tvys80i19o3vklwl6
+    followers: 6180
+    engagement: 1669
+    commentsToLikes: 0.023082
+    id: ck8wgacs7h0230j78jeha45x5
     verified: false
-    hashtags: ""
-  - username: "type1livabetic"
+    hashtags: "#brownboysforever, #beansandrice, #blackouttuesday, #year2"
+  - username: "kelseylipsz"
     fullname: >-
-      DAVID :: T1D
+      Kelsey
+    bio: >-
+      For the love of lipstick 💋🇺🇲 Lip artist. Graphic designer. Army girl
     location: "United States"
-    followers: 16555
-    engagement: 323
-    commentsToLikes: 0.112796
-    id: ck5q9pqnaccqw0i1183trbnxz
+    followers: 14970
+    engagement: 414
+    commentsToLikes: 0.089540
+    id: ck9hbixduh19s0j78snmo4bon
     verified: false
-    hashtags: "#caninecancer, #whippedcoffee, #sponsored, #cancersucks"
-  - username: "_sheidabarati_"
+    hashtags: "#pr, #hauslabs, #lipmodel, #lipstickmodel"
+  - username: "siermond"
     fullname: >-
-      sheida
+      PASQUALE AUTORINO
+    bio: >-
+      銀 | VISIONARY OF THE UNCONSCIOUS #photographer • #graphicdesigner • #artdirector Female version @nicholas.fols
     location: "United States"
-    followers: 3296
-    engagement: 2017
-    commentsToLikes: 0.080783
-    id: ck9whvikezo3k0j78so8twagm
+    followers: 41741
+    engagement: 1634
+    commentsToLikes: 0.012183
+    id: ck0vxrz9z0f2m0i19sxttwu2z
     verified: false
     hashtags: ""
 ---

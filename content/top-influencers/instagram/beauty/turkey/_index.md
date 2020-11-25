@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Turkey In 2020
 description: >-
-  Find top beauty Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #cekilis #evdekalt #kad.
+  Find top beauty Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #turkey #makeup.
 platform: Instagram
+hits: 1111
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 1111 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "izgisimal"
+  - username: "gizemuzel_"
     fullname: >-
-      Şimal İzgi 🍒
+      Gizem Üzel
+    bio: >-
+      Beauty • Fashion • Lifestyle gomlekterujizi@gmail.com
     location: "Turkey"
-    followers: 2764
-    engagement: 2747
-    commentsToLikes: 0.133969
-    id: ckaot27amu1im0i78imlj088h
+    followers: 392534
+    engagement: 837
+    commentsToLikes: 0.129574
+    id: ck15r5qwm69ma0i197i2vtfss
     verified: false
-    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
-  - username: "cerenkulahli"
-    fullname: >-
-      Ceren Külahlı
-    location: "Turkey"
-    followers: 73044
-    engagement: 1438
-    commentsToLikes: 0.762949
-    id: ck8t09eaxra4i0j78w6hhxucx
-    verified: false
-    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
-  - username: "selinbalarisiii"
-    fullname: >-
-      Selin Yagcioglu Balarisi
-    location: "Turkey"
-    followers: 540852
-    engagement: 1032
-    commentsToLikes: 0.210227
-    id: ck8t09965r9j50j78tggl6z51
-    verified: true
-    hashtags: "#athomewithhm, #mood, #simple, #mustafakemalatat"
+    hashtags: ""
   - username: "busrayurtgul"
     fullname: >-
-      Büşra Yurtgül Neziroglulari
+      Büşra Yurtgül Neziroğluları
+    bio: >-
+      Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
     location: "Turkey"
-    followers: 249644
-    engagement: 590
-    commentsToLikes: 0.178358
+    followers: 270101
+    engagement: 476
+    commentsToLikes: 0.052961
     id: ck139k5xplpjy0i19x6soai4b
     verified: false
-    hashtags: "#styleoftheday, #today, #poolchallenge, #homeoutfit"
-  - username: "burcucanuysal"
+    hashtags: "#reelsinstagram, #couple, #couplereels, #ipekyoldenim"
+  - username: "dua.mnalla"
     fullname: >-
-      Burcu 🖤 Can
+      Dua Mnalla Alrayess
+    bio: >-
+      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
     location: "Turkey"
-    followers: 99120
-    engagement: 552
-    commentsToLikes: 0.099057
-    id: ck14jyytlmvkz0i19p0x6sawx
+    followers: 53147
+    engagement: 508
+    commentsToLikes: 0.054479
+    id: ckapaz0bay07a0i782q8gesvd
     verified: false
-    hashtags: "#tbt, #surprise, #amsterdam, #34weekspregnant"
-  - username: "dilekadatepe"
+    hashtags: "#saudiarabia, #usa, #hijab, #iraq"
+  - username: "ilknurozdemir61"
     fullname: >-
-      Dilek Adatepe🔹
+      İlknur Özdemir
+    bio: >-
+      Lifestyle • Travel • Beauty • Hotel💫 📍İstanbul • Türkiye ozdemirilknur95@gmail.com PR 📩 Marka ve Mekan Tanıtımı✨
     location: "Turkey"
-    followers: 14208
-    engagement: 957
-    commentsToLikes: 0.157677
-    id: ck8tawooitdt30j78lbibrdai
+    followers: 33405
+    engagement: 430
+    commentsToLikes: 0.084648
+    id: ck8t3cgp12qtl0j78glw4h0kg
     verified: false
-    hashtags: "#sa, #travelbloggers, #turkey, #house"
-  - username: "ezgikasapoglu"
-    fullname: >-
-      Ezgi Kasapoğlu
-    location: "Turkey"
-    followers: 60467
-    engagement: 337
-    commentsToLikes: 0.327148
-    id: ck14i1kxcd7k70i193ihucwkk
-    verified: false
-    hashtags: "#loccitane, #sonsuzadeka, #womensday, #unochallange"
-  - username: "julidekir"
-    fullname: >-
-      Jülide Kır
-    location: "Turkey"
-    followers: 60693
-    engagement: 263
-    commentsToLikes: 0.180765
-    id: ck15subf3eu5z0i1942fumqkc
-    verified: false
-    hashtags: "#cekilisvar, #braunbeauty, #ad, #24"
+    hashtags: "#objektifimdenyansiyanlar, #bestoftheday, #view, #qualifiedclub"
   - username: "ozcelikgiz"
     fullname: >-
       Gizem Özçelik
+    bio: >-
+      #Influencer Fashion | Beauty •Life Style ✉️ ozcelikgiz@gmail.com
     location: "Turkey"
-    followers: 53259
-    engagement: 217
-    commentsToLikes: 0.249812
+    followers: 61587
+    engagement: 354
+    commentsToLikes: 0.253578
     id: ck5cbkutwfmu30i110te98pj8
     verified: false
-    hashtags: "#stayhome, #kad, #quarantinedays, #civcivlerya"
-  - username: "ranasworldoffashion"
+    hashtags: "#fashion, #style, #blogger, #infl"
+  - username: "elnara_nakhmedova"
     fullname: >-
-      Rana
+      Elnara Nakhmedova-Selfmade
+    bio: >-
+      🇦🇿CEO @Beauttech Beauty Salon 📍7 Premium Beauty Branches 👩🏼‍🏫 Beauttech Professional School 🙋🏼‍♀️Your comments are important
     location: "Turkey"
-    followers: 76071
-    engagement: 209
-    commentsToLikes: 0.333592
-    id: ck0w0tnaafz1g0i1952ye5jae
+    followers: 39107
+    engagement: 352
+    commentsToLikes: 0.132886
+    id: ckap2qkmzzw1n0i787dk2p1bc
     verified: false
-    hashtags: "#poppybouquet, #summervibes, #springwelcoming, #renaopeople"
+    hashtags: "#azerbaijan, #womanpower, #istanbul, #stoparmenianaggression"
+  - username: "gamzeebaykall"
+    fullname: >-
+      Gamze Baykal
+    bio: >-
+      Makeup Artist Beauty Vlogger İletişim💌 gamzebaykal90@gmail.com Youtube 🎥🎬
+    location: "Turkey"
+    followers: 54108
+    engagement: 318
+    commentsToLikes: 0.270867
+    id: ck8t09eq1ra5r0j78z371tb2j
+    verified: false
+    hashtags: "#cekilis, #newpost, #youtube, #makeup"
+  - username: "zarasfx"
+    fullname: >-
+      
+    bio: >-
+      FX Film & Television makeup artist in Turkey, Istanbul. 🇹🇷 I do Beauty Make-Up, SFX, Prosthetics, Masks, Face & Body paint.
+    location: "Turkey"
+    followers: 43278
+    engagement: 519
+    commentsToLikes: 0.050437
+    id: ck8szger4ochm0j78q4qqb5t3
+    verified: false
+    hashtags: "#art, #cosplay, #specialeffectsmakeup, #bennye"
+  - username: "muhendisbirkadin"
+    fullname: >-
+      Ayça Aydın 🧿
+    bio: >-
+      📌Lifestyle | Food | Travel | Beauty 👷🏻‍♀️İnşaat Mühendisi 👩🏻‍💻 Inf.Mark. & Event Hosting 📍İzmir Pr&Mekan Tanıtımları: Mail/Dm
+    location: "Turkey"
+    followers: 78560
+    engagement: 269
+    commentsToLikes: 0.217945
+    id: ck8t3fiwe32ch0j786o58wssv
+    verified: false
+    hashtags: "#bucayikesfet, #izmirblogger, #kahvalt, #izmirdeyasam"
+  - username: "ezgikasapoglu"
+    fullname: >-
+      Ezgi Kasapoğlu
+    bio: >-
+      🏡 #London | #Istanbul 🇹🇷 💌 ezgi@imagean.com 🎙TV Presenter @tv.100 | Ezgi ile Şehrin Renkleri 👩🏼‍💻Content Creator Fashion|Beauty|Lifestyle|Travel
+    location: "Turkey"
+    followers: 69322
+    engagement: 249
+    commentsToLikes: 0.208508
+    id: ck14i1kxcd7k70i193ihucwkk
+    verified: false
+    hashtags: "#lgmobileglobal, #eidmubarak, #lgvelvet, #happybirthdaytome"
 ---

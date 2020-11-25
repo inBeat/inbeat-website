@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top bakers Instagram influencers in Turkey in 2020. Most popular hashtags: #bayram #evdekal #eidmubarak #iyibayramlar.
+  Find top bakers Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #turkey #food #foodporn.
 platform: Instagram
+hits: 110
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 110 Instagram influencers like this in Turkey for you to contact.
 profiles:
   - username: "hatibon"
     fullname: >-
       Hatibon
+    bio: >-
+      Food Blogger • Baker • Traveller • Sweet life in TR🇹🇷 IT🇮🇹 UK🇬🇧
     location: "Turkey"
-    followers: 36855
-    engagement: 247
-    commentsToLikes: 0.072439
+    followers: 38271
+    engagement: 201
+    commentsToLikes: 0.053800
     id: ck8tavbnft7tk0j788agqqthr
     verified: false
-    hashtags: "#coronadays, #petitspotsdecremeauchocolat, #eskitarifleri, #roastpumpkinsoup"
+    hashtags: "#can, #creamtart, #artizanf, #eatslow"
   - username: "barisdirbali"
     fullname: >-
       Barış Dırbalı
+    bio: >-
+      Tane Gurme Turkish Culinary Team Baker Chef, fırıncılık okulu eğitmen chef Turkish do&co executive Çırağan place kenpinski
     location: "Turkey"
-    followers: 5222
+    followers: 5385
     engagement: 585
-    commentsToLikes: 0.198955
+    commentsToLikes: 0.168303
     id: ckap959zzr7gu0i783eclk6d8
     verified: false
-    hashtags: "#sourdoughbread, #ekmektarifi, #decorationbread, #karak"
+    hashtags: "#barisdirbali, #breads, #ekmek, #tanegurme"
   - username: "gimezkuzu"
     fullname: >-
       ☼ Gizem Kuzu / Bakery
+    bio: >-
+      Baker • Sculptor • Postcard Designer @postcardsbeyond Çarşamba-Cuma 09:00-18:00 Cumartesi-Pazar 10:00-15:00 Pazartesi-Salı KAPALI
     location: "Turkey"
     followers: 53115
     engagement: 168
     commentsToLikes: 0.020290
     id: ck9wfcsp4oahj0j781h4x00l6
     verified: false
-    hashtags: "#chocolate, #quarantinelife, #whitechocolatebrownies, #feedfeedbaking"
-  - username: "muhendisbirkadin"
-    fullname: >-
-      Ayça Aydın 🧿
-    location: "Turkey"
-    followers: 42562
-    engagement: 662
-    commentsToLikes: 0.516393
-    id: ck8t3fiwe32ch0j786o58wssv
-    verified: false
-    hashtags: "#kadirgecesimu, #tiramisu, #breakfast, #bugu"
+    hashtags: "#brownie, #quarantinelife, #whitechocolatebrownies, #feedfeedbaking"
   - username: "bakershamdeen"
     fullname: >-
       Beko Mc | بكر شمدين
+    bio: >-
+      #بيكو_ام_سي #الخال_سيستم كاتب ملحن و مغني . .................18 . 9 . 20 . 1 . 10 ♾ ✨.دمشق🎤
     location: "Turkey"
     followers: 57135
     engagement: 523
     commentsToLikes: 0.032233
     id: ck8szgd78oca50j78a3lzu7g4
     verified: false
-    hashtags: "#syr, #klshi, #arabic, #songs"
-  - username: "esennella"
+    hashtags: "#2020, #thesystem, #damascus, #turkey"
+  - username: "realweak"
     fullname: >-
-      E s e n  🌸
+      Violent Weak
+    bio: >-
+      Graffiti & Visual Artist 🇹🇷
     location: "Turkey"
-    followers: 42115
-    engagement: 353
-    commentsToLikes: 0.019588
-    id: ckaovy4fw6lct0i78h147s09c
+    followers: 17340
+    engagement: 382
+    commentsToLikes: 0.031350
+    id: ck15qtxrc4mld0i1958n8bwkl
     verified: false
-    hashtags: "#ramadanmubarak, #hijabdaily, #happyeid, #indirim"
-  - username: "sinocan2134"
+    hashtags: "#flow, #violentweak, #retro, #muralart"
+  - username: "chefmehmetgok"
     fullname: >-
-      👑 ŞinocaN 👑
+      Mehmet Gök
+    bio: >-
+      President of Bocuse d'Or Turkey Restaurant Entrepreneur, chef owner Reserved Cappadocia Turkey @reservedcappadocia
     location: "Turkey"
-    followers: 8888
-    engagement: 1656
-    commentsToLikes: 0.136103
-    id: ck5q0vgyk7yzx0i111n2mj53t
+    followers: 7791
+    engagement: 502
+    commentsToLikes: 0.052487
+    id: ck6ue52heov6u0j71fmkb5399
     verified: false
-    hashtags: "#salon, #halkoyunalar, #oyunhavasikursu, #izmit"
-  - username: "yuxkitchen"
+    hashtags: "#oliveoil, #vegetables, #homestyle, #instagood"
+  - username: "hellrosagrau"
     fullname: >-
-      Yüksel Çağıl
+      H E L L R O S A G R A U
+    bio: >-
+      MILENA.Textil-Designerin. Waldorf-Lehrerin. Mama. 🥨Dinkelvollkorn-Backrezepte 🎪Familienzirkus in Hamburg 🧡post@hellrosagrau.de
     location: "Turkey"
-    followers: 38752
-    engagement: 532
-    commentsToLikes: 0.352666
-    id: ck0ua0f0zb5bv0i19u43t8p3b
+    followers: 20141
+    engagement: 263
+    commentsToLikes: 0.023283
+    id: ckap6ka5lg7g90i78q4cz55lr
     verified: false
-    hashtags: "#tektabaktaher, #tartkek, #turkishbagel, #gateau"
-  - username: "tekteker.turkiye_"
+    hashtags: "#selbstgemacht, #wolle, #familie, #vollkorn"
+  - username: "ahmed_muhnad"
     fullname: >-
-      TEKTEKER.TURKİYE_
+      AHMEDⓂMUHNAD-احمد مهند
+    bio: >-
+      🔴Official Account فنان عراقي⚫️ (اعتزمْ وكدَّ فإِن مضيتَ فلا تقفْ. .. واصبرْ وثابرْ فالنجاحُ محققُ)
     location: "Turkey"
-    followers: 53854
-    engagement: 1290
-    commentsToLikes: 0.011114
-    id: ck9hcipa4lliq0j78vd6e6hsf
+    followers: 12494
+    engagement: 196
+    commentsToLikes: 0.022936
+    id: ck8szgepiocfo0j78ibpheva8
     verified: false
-    hashtags: "#tektekerturkiye"
-  - username: "ebruerke"
+    hashtags: "#baghdad, #explorepage, #music, #iraq"
+  - username: "sokak_insan"
     fullname: >-
-      Ebru Erke
+      Sokak ve İnsan
+    bio: >-
+      🌸Nature & Street & Portrait 🌸 tag us #sokak_insan @sokak_insan founder & admin :👉@ymk_photo 🗣
     location: "Turkey"
-    followers: 38098
-    engagement: 185
-    commentsToLikes: 0.038287
-    id: ck8syus47m39k0j7805ulvgrt
+    followers: 23417
+    engagement: 393
+    commentsToLikes: 0.009940
+    id: ck14ld58nu2lz0i19r8fdhhtd
     verified: false
-    hashtags: "#instago, #tayvan, #kalite, #matchatea"
+    hashtags: "#eyes, #baby, #bw, #love"
+  - username: "eraykilic"
+    fullname: >-
+      Eray Kılıç🍴Yemek & Gastronomi
+    bio: >-
+      😋 Lokanta ~ Restoran “YE-RİM” 🇹🇷 Yeni Lezzetler İçin “SEYYAH” 🍽 Gastro “PR” | “JÜRİ” | “YAZAR”
+    location: "Turkey"
+    followers: 151424
+    engagement: 116
+    commentsToLikes: 0.033552
+    id: ck0vzprmhaajg0i19u3648hjf
+    verified: false
+    hashtags: "#lezzet, #food, #eraykilic, #kad"
 ---

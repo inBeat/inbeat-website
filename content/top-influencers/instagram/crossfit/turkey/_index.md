@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Turkey In 2020
 description: >-
-  Find top crossfit Instagram influencers in Turkey in 2020. Most popular hashtags: #crossfit #motivation #travel #fitnessmodel.
+  Find top crossfit Instagram influencers in Turkey in 2020. Most popular hashtags: #crossfit #fitness #workout #motivation.
 platform: Instagram
+hits: 42
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 42 Instagram influencers like this in Turkey for you to contact.
 profiles:
+  - username: "saradelavarii"
+    fullname: >-
+      Sara Delavari
+    bio: >-
+      🔸Former Iran National Badminton Player 🇮🇷 🔸West Asian Championship🥇 🔸Crossfitter 🔸Functional trainer ♥️Married to @mohammad_khamseh93 💍
+    location: "Turkey"
+    followers: 26741
+    engagement: 1249
+    commentsToLikes: 0.043669
+    id: ck8tdcl202t9w0j787se2wonn
+    verified: false
+    hashtags: "#girl, #instagram, #workout, #crossfit"
   - username: "kiarash_fathii"
     fullname: >-
       Kiarash Modarres Fathi
+    bio: >-
+      #fitnesstrainer GRADE A #crossfit Trainer #trx Kiafitclub.com مدرس بين المللى و فدراسيون همگانى #married 💍 📍istanbul برنامه تمرين و تغذيه دايركت دهيد📥
     location: "Turkey"
     followers: 203961
     engagement: 335
     commentsToLikes: 0.018656
     id: ck6tks2mu5aol0j71ug2lcqnq
     verified: false
-    hashtags: "#devileyes, #turkey, #beach, #subscribe"
+    hashtags: "#fitness, #qarantine, #coronavirus, #gym"
   - username: "neyranguneli"
     fullname: >-
       Neyran Güneli
+    bio: >-
+      CF Games 2018/19 Fittest in Turkey🇹🇷 Crossfit Games'19 Athlete Coach @CrossFitSkylight Nutritionist of Myself Psychologist @athletetrainingtr
     location: "Turkey"
     followers: 6108
     engagement: 550
     commentsToLikes: 0.027086
     id: ck15tu56ojwxf0i199rpmpg1n
     verified: false
-    hashtags: "#evantrenmanlar, #weightwest, #antrenman, #sal"
-  - username: "iamhamed.gh"
+    hashtags: "#evdehareket, #athletetrainingtr, #justdoit, #30dayabschallenge"
+  - username: "agirsaglam_fitness"
     fullname: >-
-      𝙎𝙪𝙘𝙘𝙚𝙨𝙨? 𝙇𝙤𝙖𝙙𝙞𝙣𝙜...
+      AĞIRSAĞLAM
+    bio: >-
+      Daha güçlü ol, daha iyi görün! Amacım Fitness’a bilimsel yaklaşarak tüm 🇹🇷 Türkiye’yi #ağırsağlam yapmak! Koçluk, program ve mağaza ürünleri için:
     location: "Turkey"
-    followers: 17425
-    engagement: 2095
-    commentsToLikes: 0.132805
-    id: ck5zsqzs8z1830i14ea5hngx9
+    followers: 126541
+    engagement: 713
+    commentsToLikes: 0.037042
+    id: ck6typgl253jp0j71sauzl4ld
     verified: false
-    hashtags: "#ootd, #outfitinspo, #commercialmodel, #casualstyle"
-  - username: "emrekeskin"
+    hashtags: "#squat, #crossfit, #fitturkiye, #fitness"
+  - username: "cerenkurumoglu"
     fullname: >-
-      Emre Keskin
+      Ceren Kurumoğlu
+    bio: >-
+      Kızlarla tanışmak için 👇
     location: "Turkey"
-    followers: 73448
-    engagement: 336
-    commentsToLikes: 0.054944
-    id: ck5hsmy20wus40i11s4p8cbf9
+    followers: 10261
+    engagement: 553
+    commentsToLikes: 0.094533
+    id: ckf5lvyzar9ev0j23ar64y2w0
     verified: false
-    hashtags: "#film, #vizyon, #pegasus, #tb"
-  - username: "theprincemisugi"
+    hashtags: "#fitness, #motivasyon, #explore, #gym"
+  - username: "radmehrbrothers"
     fullname: >-
-      Serkan Akgün
+      Mobin_mohamad
+    bio: >-
+      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion 🔴 Kişisel ders ve online koçluk
     location: "Turkey"
-    followers: 59980
-    engagement: 206
-    commentsToLikes: 0.069536
-    id: ck600jkjedq2m0i14bbpocb2n
+    followers: 17945
+    engagement: 887
+    commentsToLikes: 0.119018
+    id: ck1399rmkk8at0i19eybkxyr1
     verified: false
-    hashtags: "#therock, #shishantash, #biceps, #mensfitnessuk"
+    hashtags: "#legendary, #muaythai, #onechampion, #onechampionship"
+  - username: "mmehmmety"
+    fullname: >-
+      MEHMET YÜKSEL | ONLİNE COACH
+    bio: >-
+      🇹🇷 National Team @mrtsupplement07 MY10 🏋🏻‍♂️ UZAKTAN EĞİTİM / PT 📲 📞 05078228747 Anabolic steroid wholesale trade
+    location: "Turkey"
+    followers: 32766
+    engagement: 359
+    commentsToLikes: 0.032152
+    id: ck6u8r10mt5zj0j714t8jkod9
+    verified: false
+    hashtags: "#strong, #training, #follow, #gymmotivation"
   - username: "fikriarican"
     fullname: >-
       Fikri Arıcan
+    bio: >-
+      4 kez Kickboks Dünya Şampiyonu, 4 kez Avrupa Şampiyonu, 31 kez Türkiye Şampiyonu
     location: "Turkey"
-    followers: 6387
-    engagement: 825
-    commentsToLikes: 0.026273
+    followers: 6367
+    engagement: 595
+    commentsToLikes: 0.019305
     id: ck5c2osepxo9t0i11r1gq3c92
     verified: false
-    hashtags: "#mersindesagl, #sareegarden, #boks, #koronavir"
-  - username: "zzehraozbey"
+    hashtags: "#fitness, #mersinsahil, #kickboks, #fikriar"
+  - username: "utkanso"
     fullname: >-
-      Zehra Özbey
+      U t k a n  E Y Ü B O Ğ L U💠
+    bio: >-
+      📙MUSTAFA KEMAL ÜNİVERSİTESİ ANADOLU ÜNİ. 📘İZMİR K.ÇELEBİ ÜNİ. İSTANBUL ÜNİ. 🧘🏻‍♂️PİLATES-BİSİKLET-KOŞU-YÜZME •for Contact:⬇️ utkaneyuboglu@gmail.com
     location: "Turkey"
-    followers: 7253
-    engagement: 1977
-    commentsToLikes: 0.012139
-    id: ck8t9745nn3na0j780rfa57aq
+    followers: 3236
+    engagement: 2679
+    commentsToLikes: 0.037682
+    id: ck6ubf6s697lm0j719vzi1yfm
     verified: false
-    hashtags: "#motivation, #eidmubarak, #crossfit, #girls"
-  - username: "abaciogluburak"
+    hashtags: "#italy, #milano, #beach, #turkeyday"
+  - username: "dmytrochaplinskyi"
     fullname: >-
-      Burak Abacıoğlu
+      Дмитрий Чаплинський
+    bio: >-
+      🇺🇦🇷🇺🇧🇾🇹🇷🇨🇳🇻🇳🇲🇾 🇧🇳 🇪🇬 "Україна Має Талант 7" 🛑🛑YouTube🛑🛑 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️
     location: "Turkey"
-    followers: 11018
-    engagement: 525
-    commentsToLikes: 0.015601
-    id: ck13cx6uv2lsg0i195khcy74a
+    followers: 10998
+    engagement: 687
+    commentsToLikes: 0.044965
+    id: ck6tum02jh3qo0j71arkohvm1
     verified: false
-    hashtags: "#steptember, #sosyalsorumluluk, #crossfitmotivation, #evdehareket"
-  - username: "irfan.mertdogdu"
-    fullname: >-
-      İrfan Mertdoğdu
-    location: "Turkey"
-    followers: 19754
-    engagement: 501
-    commentsToLikes: 0.012054
-    id: ckapchrpl3uve0i78t4bv1etq
-    verified: false
-    hashtags: "#fitfam, #kyrenia, #bodyart, #quad"
-  - username: "bartopk"
-    fullname: >-
-      Barış Erdoğan
-    location: "Turkey"
-    followers: 45457
-    engagement: 851
-    commentsToLikes: 0.015203
-    id: ck602h8owhdyp0i14uddxzjvt
-    verified: false
-    hashtags: "#power, #stayhome, #trickshot, #yujirohanma"
+    hashtags: "#dmytrochaplinskyi, #fullplanche, #crossfit, #fitness"
 ---

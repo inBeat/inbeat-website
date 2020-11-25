@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top painters Instagram influencers in Switzerland in 2020. Most popular hashtags: #staypositive #staysafe #coronavirus #painter.
+  Find top painters Instagram influencers in Switzerland in 2020. Most popular hashtags: #contemporaryart #abstractart #abstractpainting #abstractartist.
 platform: Instagram
+hits: 24
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 24 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "josualai.miniatures"
-    fullname: >-
-      Josua Lai
-    location: "Switzerland"
-    followers: 8625
-    engagement: 1114
-    commentsToLikes: 0.033332
-    id: ck13d283r3aoy0i19oygr6se9
-    verified: false
-    hashtags: "#bestfive"
-  - username: "lynneahw"
-    fullname: >-
-      LYNNEA HOLLAND WEISS
-    location: "Switzerland"
-    followers: 5618
-    engagement: 627
-    commentsToLikes: 0.039968
-    id: ck0w1nm8bk8280i19w454gwzu
-    verified: false
-    hashtags: "#thisisfair, #support, #alinaperez, #innovategrant"
   - username: "anett.climbing"
     fullname: >-
       Climber⭐travel with dogs🐾🐾👣
+    bio: >-
+      🧗‍♂️ Rock climber and 👩‍🎨painter @aye_aye.store 🏆 Fit influencer Shape Magazin 🐾 Rollo Swiss Shepherd
     location: "Switzerland"
-    followers: 37096
-    engagement: 330
-    commentsToLikes: 0.042236
+    followers: 35319
+    engagement: 324
+    commentsToLikes: 0.044825
     id: ck5hhx8nbaivd0i11qqjexow6
     verified: false
-    hashtags: "#izolacja, #europetravel, #smilegirl, #milo"
-  - username: "michaelmejiaart"
+    hashtags: "#dutchpour, #naszapolska, #izery, #bialywilk"
+  - username: "kalepipe"
     fullname: >-
-      Michael Mejia (Meh’-Hee-Uh)
+      Nae 🥬
+    bio: >-
+      visual artist photographer, illustrator, painter dm or mail for creative collaborations.
     location: "Switzerland"
-    followers: 34353
-    engagement: 353
-    commentsToLikes: 0.025398
-    id: ck6tuwbj0isgb0j71lrjmpgkj
+    followers: 39225
+    engagement: 1328
+    commentsToLikes: 0.006373
+    id: ckf5rmr9xd8fr0j23md5kl0z9
     verified: false
-    hashtags: "#muachallenge, #mikeruiz, #colombiano, #ganesha"
+    hashtags: "#lascauxcolours"
+  - username: "josualai.miniatures"
+    fullname: >-
+      Josua Lai
+    bio: >-
+      Figure painter/creator Miniature enthusiast 📍 Bern/Switzerland
+    location: "Switzerland"
+    followers: 10175
+    engagement: 1159
+    commentsToLikes: 0.032674
+    id: ck13d283r3aoy0i19oygr6se9
+    verified: false
+    hashtags: "#bestfive, #faceyourart"
+  - username: "anne_marie_fischer"
+    fullname: >-
+      Anne-Marie Fischer
+    bio: >-
+      Artist | Zürich | Switzerland
+    location: "Switzerland"
+    followers: 8804
+    engagement: 1404
+    commentsToLikes: 0.035048
+    id: ck8t4e3ba6g9a0j78lz5acgui
+    verified: false
+    hashtags: "#contemporaryartcollectors, #atelier, #exhibition, #interiorinspo"
   - username: "dario_desiena"
     fullname: >-
       Painting🎨Artist🖌
+    bio: >-
+      Dario De Siena - 🇨🇭 Swiss 34 🎨 My Artwork Gallery 📩 Request desired 📽 My Videos @desiena.art . #abstractportrait #art #paintingartist
     location: "Switzerland"
     followers: 29300
     engagement: 559
     commentsToLikes: 0.046081
     id: ck0w6hlir8lqj0i19c7zbr1dw
     verified: false
-    hashtags: "#limited, #arttohelp, #swissartwork, #maskedgirl"
+    hashtags: "#creative, #igtvart, #portraitpainting, #contemporarypainting"
+  - username: "yyyaaannnnnniiiccckkk"
+    fullname: >-
+      
+    bio: >-
+      Cardi P(ikachu)
+    location: "Switzerland"
+    followers: 34422
+    engagement: 316
+    commentsToLikes: 0.006933
+    id: ck0vxe1rayfv70i19hqowpu8i
+    verified: false
+    hashtags: "#procreate, #contemporaryart, #abstractpainting, #blinddrawing"
+  - username: "miss_shortly"
+    fullname: >-
+      Bikergirl
+    bio: >-
+      21 | 🇨🇭 Aargau Kawasaki Ninja 650 ♥️
+    location: "Switzerland"
+    followers: 13318
+    engagement: 1933
+    commentsToLikes: 0.018941
+    id: ck6ubb1yr8jhc0j719cch40dm
+    verified: false
+    hashtags: "#ridersofinstagram, #kawasakischweiz, #riderchicks, #motorcyclesofinstagram"
   - username: "queen_isabelle8"
     fullname: >-
       👑 Hanna Isabelle 👑
+    bio: >-
+      Based in Switzerland 🇨🇭 Pinterest: Queen_isabelle8 Curator of @swiss_streetstyle #queen_isabelle8
     location: "Switzerland"
-    followers: 139920
-    engagement: 118
-    commentsToLikes: 0.030512
+    followers: 146279
+    engagement: 106
+    commentsToLikes: 0.030360
     id: ck5q64yjvvyrv0i11qirwmt5w
     verified: false
-    hashtags: "#chaneladdicted, #birthdaypresent, #swissblog, #purseblog"
-  - username: "travelwiththesoulmates"
+    hashtags: "#chanel, #chanelbag, #boptalk, #swissblog"
+  - username: "sausau__"
     fullname: >-
-      ANINA & RENÉ ✈️💏 TRAVEL COUPLE
+      Sausau
+    bio: >-
+      Lifestyle, travel 🇫🇷 Evian, Genève Tiktok : sauvanecarpentier 💌 Partnership
     location: "Switzerland"
-    followers: 6570
-    engagement: 1063
-    commentsToLikes: 0.122570
-    id: ck6uh1djy6f0e0j717caxcwdc
+    followers: 27753
+    engagement: 935
+    commentsToLikes: 0.187463
+    id: ck5zkxelukcal0i14arveg083
     verified: false
-    hashtags: "#livingroom, #swisslake, #balconylife, #womanpower"
-  - username: "jess_de_nigro"
+    hashtags: "#jeuconcours, #collaboration, #flowers, #pinterest"
+  - username: "schimoni_art"
     fullname: >-
-      ➖ Jessica ➖
+      Monica Schick
+    bio: >-
+      🎨Swiss Artist 🌿Nature Lover 🌱 Plant-Based 🧑🏼‍🎨BA @artphilosophyco 🖌Get Schimoni Art Brushes👇🏻 (tap link) 🌎Shipping worldwide!
     location: "Switzerland"
-    followers: 8481
-    engagement: 1088
-    commentsToLikes: 0.204530
-    id: ck1380bj3dvy60i19k8lvq87p
+    followers: 77662
+    engagement: 342
+    commentsToLikes: 0.035267
+    id: ck5zsp6muyxd50i144e7igkfi
     verified: false
-    hashtags: "#lookperfeito, #bottle, #highheels, #lecker"
-  - username: "crisa.filip"
-    fullname: >-
-      Crisa Filip
-    location: "Switzerland"
-    followers: 8043
-    engagement: 861
-    commentsToLikes: 0.036404
-    id: ck0vva1qro7lv0i196wolsd3n
-    verified: false
-    hashtags: "#giveawayro, #workshops, #medicalworkshop, #swimming"
-  - username: "felakan"
-    fullname: >-
-      Phil M
-    location: "Switzerland"
-    followers: 4431
-    engagement: 3095
-    commentsToLikes: 0.090648
-    id: ck15t0tjnfs0f0i19uivhaisd
-    verified: false
-    hashtags: "#sculpture, #citykillers, #archishooters, #interior4inspo"
+    hashtags: "#waterblog, #maketimeforart, #watercolorsketch, #watercolour"
 ---

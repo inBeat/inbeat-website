@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top divers Instagram influencers in Turkey in 2020. Most popular hashtags: #instanature #ocean #riverside #beach.
+  Find top divers Instagram influencers in Turkey in 2020. Most popular hashtags: #photography #nature #istanbul.
 platform: Instagram
+hits: 23
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform has 23 Instagram influencers like this in Turkey for you to connect with.
 profiles:
+  - username: "matthew_dixon19"
+    fullname: >-
+      Matthew Dixon
+    bio: >-
+      ◾️ ◽️GBR Diver ◾️x2 Commonwealth Medalist 🥈🥈 ◽️Looking for management! ◾️Plymouth
+    location: "Turkey"
+    followers: 27752
+    engagement: 943
+    commentsToLikes: 0.009042
+    id: ck6u0es3ff9oz0j71tzcy61gg
+    verified: true
+    hashtags: "#quarantine, #blackouttuesday, #tbt"
+  - username: "dr_denizdemirhan"
+    fullname: >-
+      Deniz Demirhan
+    bio: >-
+      havadoktoru 😉 İTÜ meteoroloji.müh. böl. öğretim üyesi PADI Advanced Open Water Diver
+    location: "Turkey"
+    followers: 25934
+    engagement: 119
+    commentsToLikes: 0.066580
+    id: ckaoyjfv8hq1u0i78etj1wqtu
+    verified: false
+    hashtags: "#istanbul, #havadoktoru, #iklim, #denizdemirhan"
+  - username: "ridvanmekik"
+    fullname: >-
+      Rıdvan Mekik
+    bio: >-
+      🪂 Yamaç Paraşüt Pilot / Paragliding Pilot ⭐️ Dalgıç / Diver 👇🏻 Bilgi ve Rezervasyon / Information and Reservation
+    location: "Turkey"
+    followers: 72471
+    engagement: 37
+    commentsToLikes: 0.039016
+    id: ck5q4jxa7pa6r0i11ip2qhr46
+    verified: false
+    hashtags: "#anadolufotograf, #objektifimden, #kadraj, #gencgezginler"
   - username: "boyverenadam"
     fullname: >-
       Boyverenadam
+    bio: >-
+      Scuba Diver💧 Free Diver🏊🏼‍♂️ Underwaterphotographer📸 Traveller 🗺 Cam: Sjcam 5000x Elite/Gopro Hero 7 Drone: DJI Mavic Mini Padi Advanced Diver İzmir📍
     location: "Turkey"
-    followers: 16206
-    engagement: 739
-    commentsToLikes: 0.018701
+    followers: 18062
+    engagement: 755
+    commentsToLikes: 0.018088
     id: ckapbn8xi0jsc0i78lxp20hk4
     verified: false
-    hashtags: "#underwaterworld, #cavediving, #dronefly, #discover"
+    hashtags: "#underwaterworld, #scuba, #underwater, #underwaterphoto"
   - username: "dogukan_benli"
     fullname: >-
-      ＤＯĞＵＫＡＮ ＢＥＮＬİ
+      Doğukan Benli
+    bio: >-
+      #Photography and #outdoor enthusiastic The #adventure is just beginning #explorer and #rider 📩dogukanbenli@pm.me
     location: "Turkey"
-    followers: 16552
-    engagement: 1053
-    commentsToLikes: 0.027671
+    followers: 20461
+    engagement: 538
+    commentsToLikes: 0.022504
     id: ckap4w1ko95300i78ww5gb194
     verified: false
-    hashtags: "#instalike, #diversa, #theimaged, #photooftheday"
+    hashtags: "#paisagem, #ver, #dbpturkey, #instatravel"
   - username: "makkahmedinaah"
     fullname: >-
-      MAKKAH | MADİNAH |İSLAM ﷽
+      harameyn
+    bio: >-
+      "Resûlullahı kim severse ziyaret icab eder. Hak; Habibini seven kuluna, Zatını ahbab eder."
     location: "Turkey"
-    followers: 311218
-    engagement: 155
-    commentsToLikes: 0.007594
+    followers: 304602
+    engagement: 172
+    commentsToLikes: 0.007545
     id: ck8t4ozls7kpy0j78zu3lq8tz
     verified: false
-    hashtags: "#yetimhane, #ramazan, #mekkemedine, #yetim"
-  - username: "sirinkilavuzsevinc"
-    fullname: >-
-      Şirin Kılavuz Sevinç
-    location: "Turkey"
-    followers: 28038
-    engagement: 670
-    commentsToLikes: 0.019496
-    id: ck0w1g76jj6p90i19v57rvrq0
-    verified: false
-    hashtags: "#kedilera, #ekim, #ipekdargailesnowyoga, #treepose"
+    hashtags: "#kabe, #mekke, #hijab, #dua"
   - username: "deryacanofficial"
     fullname: >-
       Derya Can
+    bio: >-
+      Serbest Dalış Dünya Rekortmeni Milli Sporcu&Antrenör Tek nefesle -112m @poyrazhelen annesi💙❤️ Eğitimler için👇🏻 @deryacandiveacademy deryacan.com.tr
     location: "Turkey"
-    followers: 60284
-    engagement: 1140
-    commentsToLikes: 0.023304
+    followers: 62372
+    engagement: 604
+    commentsToLikes: 0.025617
     id: ck9we3l4cifjm0j7873d55woa
     verified: true
-    hashtags: "#perviz, #elifg, #aycanyanac, #sercany"
-  - username: "ayamadani98"
+    hashtags: "#atamizindeyiz, #deryacan, #survivor2020, #saldag"
+  - username: "seyyahinseyirdefteri"
     fullname: >-
-      Aya Madani ☤🇱🇧
+      Ayşe Nur
+    bio: >-
+      Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could R.FROST
     location: "Turkey"
-    followers: 2289
-    engagement: 1024
-    commentsToLikes: 0.060986
-    id: ck55oqsp08xc10i119qycl737
+    followers: 10226
+    engagement: 902
+    commentsToLikes: 0.047769
+    id: ck139kxlyltq50i19g3ju44rr
     verified: false
-    hashtags: "#naturephotography, #hellooctober, #lebanese, #visualart"
-  - username: "tekbasinadaolur"
+    hashtags: "#wanderer, #wanderlust, #travelaround, #gezgin"
+  - username: "godgal"
     fullname: >-
-      Gökhan Konaş - Blogger
+      Güneş Gürbüz
+    bio: >-
+      Sen ne dilersen gerçek olur 🛸Istanbul,Turkey 💌 fgunesgurbuz@gmail.com 👩🏻‍🎓 Physiotherapist IMZALA ⬇️
     location: "Turkey"
-    followers: 67037
-    engagement: 483
-    commentsToLikes: 0.125956
-    id: ck0w5jsvb3zjq0i19iggs1ok9
+    followers: 2261
+    engagement: 3008
+    commentsToLikes: 0.155914
+    id: ckap4kyui7rap0i78ttgrv5t0
     verified: false
-    hashtags: "#snowphotography, #kampmerkezi, #yasaklar, #porsuk"
-  - username: "ssemaakbulut"
+    hashtags: "#halloweenmakeup, #avantgardemakeup, #makyaj, #pastelmakeup"
+  - username: "saeid.esmailzadeh"
     fullname: >-
-      Sema akbulut
+      ﮼سعید‌ | saeid esmailzadeh 🌐
+    bio: >-
+      Truck driver's 🇮🇷 ‌ Pv Page🔒👇 @saeid.esmailzadeh.pv Youtube Channel 🎥👇
     location: "Turkey"
-    followers: 6451
-    engagement: 1002
-    commentsToLikes: 0.018554
-    id: ck8t5erco9wkq0j7871hkqo84
+    followers: 43966
+    engagement: 1502
+    commentsToLikes: 0.011557
+    id: ckap4t2xv8qxp0i78tjs2d6ir
     verified: false
-    hashtags: "#smilemore, #hound, #selfies, #reminisce"
-  - username: "styleofitaly"
-    fullname: >-
-      Emir Alsancak
-    location: "Turkey"
-    followers: 10217
-    engagement: 703
-    commentsToLikes: 0.090119
-    id: ck6u8faycr99k0j71zs9zyz3z
-    verified: false
-    hashtags: "#natureshots, #trees, #treestagram, #horizon"
-  - username: "wallpapers.jpeg"
-    fullname: >-
-      Wallpapers.jpeg
-    location: "Turkey"
-    followers: 6252
-    engagement: 718
-    commentsToLikes: 0.026441
-    id: ckap9zhk7u48y0i78ot9z7awm
-    verified: false
-    hashtags: "#televizyon, #iloveart, #artistlife, #capture"
+    hashtags: ""
 ---

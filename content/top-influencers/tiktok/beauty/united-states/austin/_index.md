@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Austin In 2020
 description: >-
-  Find top beauty TikTok influencers in Austin in 2020. Most popular hashtags: #music #beautyhack #keepingbusy #beauty.
+  Find top beauty TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #beauty #foryou #austin.
 platform: TikTok
+hits: 48
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 48 TikTok influencers like this in Austin, United States for you to pitch.
 profiles:
   - username: "swiftwellness"
     fullname: >-
       swiftwellness
+    bio: >-
+      fashion + affordable beauty reviews + Amazon finds in Austin TX Links here 👇🏻
     location: "United States"
-    followers: 204135
-    engagement: 751
-    commentsToLikes: 0.063306
+    followers: 206900
+    engagement: 726
+    commentsToLikes: 0.031344
     id: ck81q0y7qf2fw0j7865fjsj3q
     verified: false
-    hashtags: "#myoutfit, #bodypositivity, #healthheroes, #shop"
-  - username: "mariana.zarag"
+    hashtags: "#amazonfashion, #amazonhaul, #founditonamazon, #amazonfinds2020"
+  - username: "ninaberenato"
     fullname: >-
-      Mariana Zaragoza
+      Nina Berenato
+    bio: >-
+      I own an all-girl jewelry studio in Austin 🛠 Handmade • Custom • One of a Kind
     location: "United States"
-    followers: 2383
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: cka6czpu362630i78a6or5cw4
+    followers: 116400
+    engagement: 1422
+    commentsToLikes: 0.016162
+    id: ck81s9n0nr1y10j785ei5mkqu
     verified: false
-    hashtags: "#homeactivities, #easy, #mealprep, #sharerecipes"
+    hashtags: "#fashion, #ootd, #smallbusiness, #smallbusinesscheck"
+  - username: "amykristine27"
+    fullname: >-
+      AmyKristine
+    bio: >-
+      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
+    location: "United States"
+    followers: 13100
+    engagement: 621
+    commentsToLikes: 0.051960
+    id: ck9k2n6dll0e40j78ez8l5xog
+    verified: false
+    hashtags: "#horrortok, #texas, #halloween, #winter"
+  - username: "vcboudoir"
+    fullname: >-
+      user1502462802788
+    bio: >-
+      I help women get their sexy back 📸 Insta for 🔥: @vcboudoir Austin, TX + travel
+    location: "United States"
+    followers: 213500
+    engagement: 706
+    commentsToLikes: 0.011756
+    id: ckc7pcf4rv2e80j23z6wucru9
+    verified: false
+    hashtags: "#trending, #photographer, #momsoftiktok, #fy"
   - username: "nitabita94"
     fullname: >-
       Nitabita94
+    bio: >-
+      Beauty is in the eye of the beholder IG: Nitabita94 💕
     location: "United States"
-    followers: 13610
-    engagement: 1955
-    commentsToLikes: 0.015406
+    followers: 14300
+    engagement: 1842
+    commentsToLikes: 0.017892
     id: ck9nidra1gs5k0j78szeq55bh
     verified: false
-    hashtags: "#fyp, #rollers, #pinkpanther, #styling"
-  - username: "stlsparkle"
+    hashtags: "#fyp, #60s, #hairtutorial, #hair"
+  - username: "rockyl_87"
     fullname: >-
-      Heather Stafford
+      Rocky L
+    bio: >-
+      I Love💞The🌙Intellect🧠Birthdays🥳Beauty🥀Music🎶and Tacos🌮 Follow my Journey!
     location: "United States"
-    followers: 11773
-    engagement: 1245
-    commentsToLikes: 0.095510
-    id: ck9nq93ht2mus0j784l2yau7y
+    followers: 4547
+    engagement: 566
+    commentsToLikes: 0.024854
+    id: ckdbya503elga0j236wlnsmiz
     verified: false
-    hashtags: "#nailsonfleek, #prettynails, #hiddentalent, #shuffling"
-  - username: "hollywoodlife"
+    hashtags: "#chemicalhearts, #playball, #readysetgo, #mommyordaddychallenge"
+  - username: "the_lochness_jonster"
     fullname: >-
-      HollywoodLife
+      jon Prichard
+    bio: >-
+      My names not actually Ryan Make sure to follow my Instagram for more content!
     location: "United States"
-    followers: 263012
-    engagement: 990
-    commentsToLikes: 0.022251
-    id: ck961kvc0n1vc0j78bchy6uq7
-    verified: true
-    hashtags: "#powercouple, #moana, #jbalvin, #lizakoshy"
-  - username: "trini180528"
-    fullname: >-
-      Maria Roman
-    location: "United States"
-    followers: 26139
-    engagement: 343
-    commentsToLikes: 0.020963
-    id: ck9eocrw3nn1m0j78biactf4u
+    followers: 15300
+    engagement: 1269
+    commentsToLikes: 0.029410
+    id: ckcuhqoohfr4z0j23iveab25o
     verified: false
-    hashtags: "#cuban, #team, #espontaneo, #open"
-  - username: "lunagreyflame"
+    hashtags: "#cliffs, #amazing, #backflip, #deathdive"
+  - username: "sharkeisha_da_god"
     fullname: >-
-      thelunagrey 🌙💕
+      Zack
+    bio: >-
+      I am a vape farmer, these are my crops. ADD MY INSTA!
     location: "United States"
-    followers: 24646
-    engagement: 697
-    commentsToLikes: 0.057394
-    id: ck8ufvd1v3ajp0j78qn3g408l
+    followers: 260400
+    engagement: 1837
+    commentsToLikes: 0.008683
+    id: ckbqmq6c47ork0j23aketf41m
     verified: false
-    hashtags: "#tricky, #shine, #beauty, #singsong"
+    hashtags: "#pink, #build, #foryou, #insane"
+  - username: "literallytrashy"
+    fullname: >-
+      Kelly
+    bio: >-
+      23 Bisexual 🏳️‍🌈 Body Positive ✨ Idahome 5K? 🥺
+    location: "United States"
+    followers: 2066
+    engagement: 1898
+    commentsToLikes: 0.037686
+    id: ckc7cctanm0q20j23e76aws4t
+    verified: false
+    hashtags: "#fyp, #humor, #flirt, #bisexual"
   - username: "shutupiris"
     fullname: >-
       iris 🥳
+    bio: >-
+      Treat people with kindness dude. - 20, ATX 🤠
     location: "United States"
-    followers: 3162
-    engagement: 1395
-    commentsToLikes: 0.048381
+    followers: 3307
+    engagement: 1766
+    commentsToLikes: 0.053294
     id: ck9grjbs5e9670j78z786oeyo
     verified: false
-    hashtags: "#corona, #fliptheswitch, #musiclives, #bestfandom"
-  - username: "trevaunhughes"
-    fullname: >-
-      TRayVon
-    location: "United States"
-    followers: 3914
-    engagement: 1084
-    commentsToLikes: 0.062638
-    id: ck8qkynyvjegb0j7874kovp8m
-    verified: false
-    hashtags: "#mechanic, #retailtherapy, #2020, #mycrib"
-  - username: "jennyzigrino"
-    fullname: >-
-      JennyZigrino
-    location: "United States"
-    followers: 25336
-    engagement: 1196
-    commentsToLikes: 0.017299
-    id: ck8zazs7s3m670j78b28a88u7
-    verified: false
-    hashtags: "#everydayheroes, #lifeathomequiz, #freezeframe, #levelup"
+    hashtags: "#college, #summer2020, #favoritememories, #foryoupage"
 ---

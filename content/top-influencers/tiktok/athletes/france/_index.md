@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In France In 2020
 description: >-
-  Find top athletes TikTok influencers in France in 2020. Most popular hashtags: #flip #athlete #confinement #fun.
+  Find top athletes TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #sport.
 platform: TikTok
+hits: 12
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in France for you to collaborate.
 profiles:
-  - username: "iamjoaskills"
-    fullname: >-
-      JOACHIM 🎈
-    location: "France"
-    followers: 617297
-    engagement: 1915
-    commentsToLikes: 0.029244
-    id: ck9ng9lcaf2lb0j78qcmc51l0
-    verified: true
-    hashtags: "#pourtoi, #oups, #commeunninja, #malade"
-  - username: "ibra_acro_boy"
-    fullname: >-
-      Ibra Acro Boy
-    location: "France"
-    followers: 26309
-    engagement: 1606
-    commentsToLikes: 0.016522
-    id: ck910siwyj01z0j78dietopb2
-    verified: false
-    hashtags: "#newyork, #follow, #follome, #fitnness"
   - username: "alvadi_officiel"
     fullname: >-
       alvadi_officiel
+    bio: >-
+      Insta ⚜ @alvadi_officiel ⚜ 🏋🏾‍♂️ Athlète 💪🏾gym 👟Fit 🏃🏾‍♂️Run 📍🇲🇫
     location: "France"
-    followers: 6814
-    engagement: 1025
-    commentsToLikes: 0.007195
+    followers: 6605
+    engagement: 964
+    commentsToLikes: 0.038816
     id: ck81s5acqq37h0j78935m4ukf
     verified: false
-    hashtags: "#gymselfie, #cookingram, #foodgram, #africanfood"
+    hashtags: "#sportlife, #fitnes, #calisthenics, #gymtime"
+  - username: "iamjoaskills"
+    fullname: >-
+      JOACHIM 🎈
+    bio: >-
+      Les résultats c’est sur insta👆🏻 📩 cabra.joachim2000@gmail.com ⚽️Speen Athlète
+    location: "France"
+    followers: 1000000
+    engagement: 1321
+    commentsToLikes: 0.009450
+    id: ck9ng9lcaf2lb0j78qcmc51l0
+    verified: true
+    hashtags: "#llegatenet, #tenet, #wbpartner, #timefortenet"
+  - username: "ibra_acro_boy"
+    fullname: >-
+      Ibra Acro Boy
+    bio: >-
+      🏃🏾‍♂️Pro Flipper Athlete Montpellier, France 🇫🇷 IG : @ibra_acro_boy
+    location: "France"
+    followers: 28800
+    engagement: 1721
+    commentsToLikes: 0.015731
+    id: ck910siwyj01z0j78dietopb2
+    verified: false
+    hashtags: "#flips, #tiktok, #followme, #acrobatics"
+  - username: "lestwixs_"
+    fullname: >-
+      Les Twixs
+    bio: >-
+      Duo athletes 👇🏼 Nos INSTA 👇🏼 gael_margaine & zaccoletti_aurelien 20k 🔜💎
+    location: "France"
+    followers: 15700
+    engagement: 1220
+    commentsToLikes: 0.020084
+    id: ckbktiwz4oog80j236z7ie8pi
+    verified: false
+    hashtags: "#sport, #foryou, #gymnastique, #workout"
+  - username: "cgreg_sw"
+    fullname: >-
+      Greg
+    bio: >-
+      👊🏼Street workout athlete👊🏼 Sharing my passion 🔥freestyle🔥 Insta: @cgreg_sw
+    location: "France"
+    followers: 4604
+    engagement: 2220
+    commentsToLikes: 0.311347
+    id: ckbffd3b09yw20j234516cl4k
+    verified: false
+    hashtags: "#sports, #fyp, #streetworkout, #freestyle"
   - username: "mathieu_bru"
     fullname: >-
       Mathieu
+    bio: >-
+      Cliff diving, parkour athlete Team : wizzy gang YouTube : wizzy gang
     location: "France"
-    followers: 16531
-    engagement: 736
-    commentsToLikes: 0.021915
+    followers: 35500
+    engagement: 807
+    commentsToLikes: 0.017051
     id: ck920j7lredzj0j78h7rvcrzt
     verified: false
-    hashtags: "#abandoned, #montsaintmichel, #bretagne, #gap"
-  - username: "alexandreollier"
-    fullname: >-
-      Alexandre Ollier
-    location: "France"
-    followers: 227556
-    engagement: 1105
-    commentsToLikes: 0.017022
-    id: ck81syk6nu2460j78ev2qscwt
-    verified: true
-    hashtags: "#freerunning, #climbing, #gendarme, #parody"
+    hashtags: "#tiktok, #rennes, #france, #cliff"
   - username: "conmika"
     fullname: >-
       Con Mika
+    bio: >-
+      Professional Rugby League player. Insta - conmika | fb - Con Mika
     location: "France"
-    followers: 3081
+    followers: 3074
     engagement: 506
-    commentsToLikes: 0.026926
+    commentsToLikes: 0.025673
     id: ck9016yvqbe0k0j781ghjnhvo
     verified: false
-    hashtags: "#snow, #pyrenees, #roxanne, #samoan"
-  - username: "seanfreestyle"
+    hashtags: "#athletes, #preseason, #foryou, #foyou"
+  - username: "nabil_hadim"
     fullname: >-
-      Séan Garnier
+      nabil_hadim
+    bio: >-
+      My INSTAGRAM : @nabil_hadim
     location: "France"
-    followers: 2841041
-    engagement: 892
-    commentsToLikes: 0.006204
-    id: ck81s5yuxq7y20j788b5wvqs4
-    verified: true
-    hashtags: "#philadelphia, #boxe, #rockystairs, #dubai"
-  - username: "d.lhommeoff"
-    fullname: >-
-      D.lHommeoff
-    location: "France"
-    followers: 6242
-    engagement: 1278
-    commentsToLikes: 0.049512
-    id: ck9gtqcjsnxab0j78n6seta2d
+    followers: 55500
+    engagement: 785
+    commentsToLikes: 0.006428
+    id: ckbfbj4943o7q0j23xau1p57j
     verified: false
-    hashtags: "#postbad, #couple, #sports, #wipeitdown"
-  - username: "ben.cante"
+    hashtags: "#french, #mission, #freerunning, #fyp"
+  - username: "dasilva.cedric"
     fullname: >-
-      Ben.cante
+      Cedric Da Silva
+    bio: >-
+      Mon insta ↗️ Pro Volley-ball player 💪🏽🏐 Nancy ⚪️🔵 👩‍❤️‍👨 @lifeaspires
     location: "France"
-    followers: 5334
-    engagement: 1369
-    commentsToLikes: 0.010656
-    id: ckajkvanys93x0i7863agci3z
+    followers: 3453
+    engagement: 929
+    commentsToLikes: 0.111822
+    id: ckc7hsxyfq0hd0j23efeo5xl6
     verified: false
-    hashtags: "#amazing, #musique, #remix, #confinement"
-  - username: "felipefitness"
+    hashtags: "#errea, #spike, #fitness, #musculation"
+  - username: "overtime_elias"
     fullname: >-
-      FELIPE
+      OvertimeElias
+    bio: >-
+      @overtimefr
     location: "France"
-    followers: 68443
-    engagement: 882
-    commentsToLikes: 0.012051
-    id: cka0tnhl4qm4v0i78rwkxewkw
+    followers: 7217
+    engagement: 1093
+    commentsToLikes: 0.020480
+    id: ck9vdmpj4vhwc0j785qcdnbfp
     verified: false
-    hashtags: "#eddiehall, #weight, #athelete, #athlete"
+    hashtags: "#dunk, #viral, #fran, #nba"
 ---

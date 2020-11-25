@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Nigeria In 2020
 description: >-
-  Find top TikTok influencers in Nigeria in 2020. Most popular hashtags: #tiktok #happymothersday #love #15sfitness.
+  Find top TikTok influencers in Nigeria in 2020. Most popular hashtags: #foryou #foryoupage #fyp #duet.
 platform: TikTok
+hits: 175
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database has 175 TikTok influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "tylerperry3333"
+  - username: "bro_shakurr"
     fullname: >-
-      TYLER PERRY
+      Abdulshakur Bn Ameen
+    bio: >-
+      🇳🇬 Spread the deen Qur'an reciter❤ CEO keeping it HALAL Servant of Allah!
     location: "Nigeria"
-    followers: 9576
-    engagement: 1263
-    commentsToLikes: 0.078803
-    id: ck9npgztjyxjf0j78v07ucn24
+    followers: 137200
+    engagement: 1618
+    commentsToLikes: 0.036488
+    id: ckcjjdpuvdbes0j233x5n4ydn
     verified: false
-    hashtags: "#kids, #safety, #tiktikcomedy, #movies"
-  - username: "officialreeves"
-    fullname: >-
-      official Keanu
-    location: "Nigeria"
-    followers: 4726
-    engagement: 868
-    commentsToLikes: 0.071142
-    id: cka9s34c09r0l0i78n8dgst7r
-    verified: false
-    hashtags: "#mr, #keanu, #www, #goodevening"
-  - username: "flossynaci"
-    fullname: >-
-      Flossynaci
-    location: "Nigeria"
-    followers: 324936
-    engagement: 1875
-    commentsToLikes: 0.029913
-    id: ck8qpcd862vv10j78u0sz141i
-    verified: true
-    hashtags: "#greenscreenvideo, #kid, #makeup"
-  - username: "geraldbutlerofficial"
-    fullname: >-
-      Gerald Butler
-    location: "Nigeria"
-    followers: 37711
-    engagement: 1441
-    commentsToLikes: 0.037307
-    id: cka8f63b710ww0i78ctogwt0j
-    verified: false
-    hashtags: "#angelhasfallen, #staysafe, #oscars2020, #howtotrainadragon"
-  - username: "osamabin_nadine"
-    fullname: >-
-      A Nubian Goddess👑
-    location: "Nigeria"
-    followers: 11725
-    engagement: 1593
-    commentsToLikes: 0.036284
-    id: cka0nhpj9zq830i78shgprej1
-    verified: false
-    hashtags: "#makeitmakesense, #bantu, #3ahair, #ibetyouwont"
+    hashtags: "#fyp, #duet, #quran, #muslimtiktok"
   - username: "bint_mufadil"
     fullname: >-
       🥀
+    bio: >-
+      Every Soul Shall Taste Death! 19
     location: "Nigeria"
-    followers: 20252
-    engagement: 1221
-    commentsToLikes: 0.043688
+    followers: 91600
+    engagement: 1384
+    commentsToLikes: 0.048384
     id: ck9v2r8vlmtok0j78ics2k2ii
     verified: false
-    hashtags: "#tiktokaddict, #bestfriend, #dawah, #4chair"
+    hashtags: "#quraan, #hausa, #hijabi, #african"
+  - username: "tylerperry_official"
+    fullname: >-
+      TYLER PERRY
+    bio: >-
+      Actor, Film producer & comedian. contact: PERRYTYLER.COM@Gmail.com
+    location: "Nigeria"
+    followers: 27400
+    engagement: 1279
+    commentsToLikes: 0.055573
+    id: ck9npgztjyxjf0j78v07ucn24
+    verified: false
+    hashtags: "#madea, #tiktok, #usa, #tylerthecreator"
   - username: "koredebello"
     fullname: >-
       Korede Bello
+    bio: >-
+      CHECK THIS OUT 🔥
     location: "Nigeria"
-    followers: 283351
-    engagement: 1307
-    commentsToLikes: 0.022915
+    followers: 587600
+    engagement: 1281
+    commentsToLikes: 0.023611
     id: ck9nnhqs0pcpq0j786ph5gc7k
     verified: true
-    hashtags: "#30in30, #foryoupage, #knowyou, #fyp"
-  - username: "cyrilna_n"
+    hashtags: "#micasasucasa, #morire, #foryou, #micasachallenge"
+  - username: "ayeesha._8"
     fullname: >-
-      cyrilna_n
+      𝐀𝐲𝐞𝐞𝐬𝐡𝐚 ✨🦋🍯
+    bio: >-
+      13 turning 18 Snap:Ayeesha_89
     location: "Nigeria"
-    followers: 15739
-    engagement: 1282
-    commentsToLikes: 0.074008
-    id: ck9107jtvgpcc0j78dusyp47q
+    followers: 4354
+    engagement: 1980
+    commentsToLikes: 0.027147
+    id: ckcpqtxkrke5l0j23spgzlfq4
     verified: false
-    hashtags: "#outfitchallenge, #15sfitness, #transformation, #eyeshadow"
-  - username: "obiekwe_retta"
+    hashtags: "#endpolicebrutality, #greenscreenvideo, #amoungus, #lowkeyfk2020"
+  - username: "danchizi_"
     fullname: >-
-      Loretta
+      Chris Daniel
+    bio: >-
+      It all started at 12😌
     location: "Nigeria"
-    followers: 8991
-    engagement: 1187
-    commentsToLikes: 0.057696
-    id: ck9116r1wkmyt0j78ro6muq33
-    verified: false
-    hashtags: "#savage, #singing, #afrobeat, #odumeje"
-  - username: "toni.olagunju"
+    followers: 218000
+    engagement: 1903
+    commentsToLikes: 0.108834
+    id: ckc7c5d8ilups0j23yvtzoqni
+    verified: true
+    hashtags: "#viral, #meme, #foryoupage, #funny"
+  - username: "mtnnigeria"
     fullname: >-
-      Toni_Katherine
+      mtnng
+    bio: >-
+      Finally Here JustForYou IG: @mtnng
     location: "Nigeria"
-    followers: 5453
-    engagement: 2253
-    commentsToLikes: 0.033794
-    id: ckacgggz2v2tn0i78yajeru7f
+    followers: 3663
+    engagement: 995
+    commentsToLikes: 0.165397
+    id: ck9eyd9xpvdcl0j78tro91y5e
+    verified: true
+    hashtags: "#meetthehosts, #yellostarinmechallenge, #mtnyellostar, #foryou"
+  - username: "wendyliam0"
+    fullname: >-
+      Wendy Liam
+    bio: >-
+      Gold, silver and diamond lover 💛
+    location: "Nigeria"
+    followers: 2705
+    engagement: 2658
+    commentsToLikes: 0.025409
+    id: ckcjdgw2wa18b0j23z7xgy29z
     verified: false
-    hashtags: "#idol, #hobi, #infiniteclone, #actor"
+    hashtags: "#goldinvestor, #goldinvestment, #quarantine, #goldlover"
+  - username: "blacck_kelvin"
+    fullname: >-
+      blacck_kelvin💙✌🏽
+    bio: >-
+      FOLLOW MY SOCIALS⬇️ TRILLER-bacck_kelvin SNAPCHAT-blacck_kelvin Goal:10k Ilysm💙
+    location: "Nigeria"
+    followers: 9587
+    engagement: 2188
+    commentsToLikes: 0.053916
+    id: ckb9broo6yajr0j23shtu6nt4
+    verified: false
+    hashtags: "#riptoaking, #can2020beover, #fyp, #ripchadwickboseman"
+  - username: "tiktokmovieshowtime"
+    fullname: >-
+      🎥MovieMania🍿
+    bio: >-
+      Movie trailer🎥Movie clips🎞Tv show 🎬Movies scene🍿Big Surprise @ 1m & giveaway
+    location: "Nigeria"
+    followers: 622500
+    engagement: 2412
+    commentsToLikes: 0.017607
+    id: ckdn995vbfoee0j23v0akburh
+    verified: false
+    hashtags: "#fy, #viral, #foryoupage, #omg"
 ---

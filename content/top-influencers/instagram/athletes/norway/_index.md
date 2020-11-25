@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Norway In 2020
 description: >-
-  Find top athletes Instagram influencers in Norway in 2020. Most popular hashtags: #workout #health #lifestyle #fitnesstips.
+  Find top athletes Instagram influencers in Norway in 2020. Most popular hashtags: #gym #fitness #muscle.
 platform: Instagram
+hits: 62
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 62 Instagram influencers like this in Norway for you to collaborate.
 profiles:
   - username: "back.guy"
     fullname: >-
       Anders Gjellan
+    bio: >-
+      21 🇧🇻 Powerlifter wannabe @vqfit Athlete @gorilla_mind "Back" for 10% off 140k+ on YouTube 💻
     location: "Norway"
-    followers: 19733
-    engagement: 1358
-    commentsToLikes: 0.073041
+    followers: 30646
+    engagement: 1120
+    commentsToLikes: 0.043651
     id: ck8t7j7djh0du0j78qojlblsn
     verified: false
-    hashtags: "#gym, #homegymworkout, #backaesthetics, #hammerstrength"
-  - username: "abdouharroui"
+    hashtags: ""
+  - username: "jeanette.astor"
     fullname: >-
-      Abdou Harroui
+      Jeanette Astor 🐺 Fitness Coach
+    bio: >-
+      ▫️ Norway | Mama x3 🤍 ▫️ PT, nutritionist & coach 🔥 @ryderwear athlete - ‘ASTOR’
     location: "Norway"
-    followers: 5524
-    engagement: 1832
-    commentsToLikes: 0.064163
-    id: ck139qqwqmo8z0i19zqshi5kx
-    verified: true
-    hashtags: "#vrct, #eredivisie, #spartarotterdam, #jongoranje"
+    followers: 20734
+    engagement: 1015
+    commentsToLikes: 0.065728
+    id: ck8takllts5s90j78bjb1deuw
+    verified: false
+    hashtags: ""
+  - username: "remetelionorsvedin"
+    fullname: >-
+      𝖱𝖤𝖬𝖤𝖳 𝖤𝖫𝖨𝖮𝖭𝖮𝖱 𝖲𝖵𝖤𝖣𝖨𝖭
+    bio: >-
+      IFBB bikinifitness 🏆 𝟤𝗑 𝖭𝗈𝗋𝗐𝖾𝗀𝗂𝖺𝗇 𝗈𝗏𝖾𝗋𝖺𝗅𝗅 𝖼𝗁𝖺𝗆𝗉 𝟣𝟪, 𝟣𝟫 ▫️Jan Tana Athlete ▫️ @bootybuilder.official
+    location: "Norway"
+    followers: 25941
+    engagement: 497
+    commentsToLikes: 0.061365
+    id: ck5hn9u2qng100i11z45l7jbp
+    verified: false
+    hashtags: "#tb"
   - username: "haakonevjen"
     fullname: >-
       Håkon Evjen👌🏻
+    bio: >-
+      Football player 🇳🇴 AZ Alkmaar Nike Athlete
     location: "Norway"
-    followers: 6613
-    engagement: 2859
-    commentsToLikes: 0.029026
+    followers: 7515
+    engagement: 2777
+    commentsToLikes: 0.024441
     id: ck6uf7a99vbzf0j71bwtojg22
     verified: true
-    hashtags: "#opp, #spill, #playinside, #playfortheworld"
-  - username: "beatewibe"
-    fullname: >-
-      Beate Wibe | FITNESS
-    location: "Norway"
-    followers: 20758
-    engagement: 867
-    commentsToLikes: 0.040484
-    id: ck5zo7idlpxod0i14hu15ynlx
-    verified: false
-    hashtags: "#jean, #hiit, #workoutvideos, #upperbodywork"
-  - username: "elisabethsletten"
-    fullname: >-
-      Elisabeth Sletten
-    location: "Norway"
-    followers: 133491
-    engagement: 501
-    commentsToLikes: 0.044243
-    id: ck5hlbu26jxwi0i11fvabbqji
-    verified: false
-    hashtags: "#strongbodyfamilien, #tbt, #bombshellsportswear, #teamstrongbody"
-  - username: "graham95"
-    fullname: >-
-      Caroline Graham Hansen
-    location: "Norway"
-    followers: 66212
-    engagement: 1006
-    commentsToLikes: 0.009719
-    id: ck13a9m8npayj0i19ebzas88s
-    verified: true
-    hashtags: "#godstartp, #deilig, #takesocialresponsibility, #grandeequipo"
-  - username: "hogberglukas"
-    fullname: >-
-      Lukas | Crossfit | Athlete
-    location: "Norway"
-    followers: 105514
-    engagement: 434
-    commentsToLikes: 0.023073
-    id: ck5cjzv5gvtyr0i11gfkd3cp1
-    verified: true
-    hashtags: "#gymnasty, #garagegym, #liftingweights, #jumptraining"
-  - username: "synnekrokstad"
-    fullname: >-
-      Synne Krokstad
-    location: "Norway"
-    followers: 58888
-    engagement: 494
-    commentsToLikes: 0.022491
-    id: ck0u6azjw1klm0i19ys5kwh1n
-    verified: false
-    hashtags: "#endurance, #weightlifting, #gaitline, #sundayvibes"
+    hashtags: "#opp, #playinside, #playfortheworld, #youcantstopus"
   - username: "kolbruntholl"
     fullname: >-
-      Kolbrún Þöll Þorradóttir
+      Kolbrún Þöll Þorradóttir
+    bio: >-
+      • Teamgym 🇮🇸 @womensteam_iceland • @noccoiceland athlete • Team Under Armour snap: kolbruntholl
     location: "Norway"
-    followers: 5601
-    engagement: 1887
-    commentsToLikes: 0.014848
+    followers: 5506
+    engagement: 1927
+    commentsToLikes: 0.016751
     id: ck8sze5pvo2620j787y0sdlgv
     verified: false
     hashtags: "#teamgym2020"
-  - username: "kjetilborch"
+  - username: "sarahschollathlete"
     fullname: >-
-      Kjetil Borch
+      Sarah Scholl ATHLETE and COACH
+    bio: >-
+      🇺🇸Strength Coach/Nutrition Coach Crossfit Games Athlete MastersDegree in Sport Psychology Track&Field All-American@Georgetown U @myathleticadvantage
     location: "Norway"
-    followers: 14415
-    engagement: 1248
-    commentsToLikes: 0.020320
-    id: ck0w55j8i1zyh0i19tk5pceuk
+    followers: 99781
+    engagement: 258
+    commentsToLikes: 0.036902
+    id: ck5hcjprvifb00i11nkwb3cnn
     verified: false
-    hashtags: "#qicraft, #wakeboarding, #carantine, #norway"
+    hashtags: "#fit, #fitness, #coach, #strong"
+  - username: "andrealowing"
+    fullname: >-
+      Andrea Løwing 👑
+    bio: >-
+      IFBB bikini athlete Online coach COACHING INFO ⬇️
+    location: "Norway"
+    followers: 13194
+    engagement: 663
+    commentsToLikes: 0.057358
+    id: ck8t6pi6led900j7848rkv3h0
+    verified: false
+    hashtags: "#bikinifitness, #gym, #workout, #jeans"
+  - username: "olekristianvaaga_ifbbpro"
+    fullname: >-
+      Ole Kristian Vaaga
+    bio: >-
+      Norwegian made || Team Stones athlete || @gorillawearusa || @spisriktig
+    location: "Norway"
+    followers: 124186
+    engagement: 321
+    commentsToLikes: 0.027013
+    id: ck134qj4vxpgz0i19jrf843xy
+    verified: false
+    hashtags: "#teamnoneck"
+  - username: "aktivmamma"
+    fullname: >-
+      Cathrine 🇳🇴
+    bio: >-
+      •CF Athlete •Mom and wife @petterkmortvedt •Web coach👉🏻 @elitept.no •@dirt.norge - use Cathrine25 •@heartoflule- use cath20 for a discount
+    location: "Norway"
+    followers: 22787
+    engagement: 423
+    commentsToLikes: 0.062111
+    id: ck5q44os5nqso0i11w2n0z62s
+    verified: false
+    hashtags: "#healthy, #runners, #instagram, #workoutmotivation"
+  - username: "trevornyakane"
+    fullname: >-
+      Trevor Nyakane
+    bio: >-
+      Bushbuckridge born. Springbok 🇿🇦 and blue bulls prop🔵 Daughter: @babyskylar.12 Twitter: @NtandoTrevor @pumasouthafrica Athlete @landroversa Ambassador
+    location: "Norway"
+    followers: 38483
+    engagement: 447
+    commentsToLikes: 0.009802
+    id: ck5capu4qdw740i11lv6aiy0p
+    verified: false
+    hashtags: "#newdefender, #above, #onecupofpap, #discovery"
 ---

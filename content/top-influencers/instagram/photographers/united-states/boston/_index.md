@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Boston In 2020
 description: >-
-  Find top photographers Instagram influencers in Boston in 2020. Most popular hashtags: # #covid19 #covid #boston.
+  Find top photographers Instagram influencers in Boston in 2020. Most popular hashtags: #photoshoot #photooftheday #photographer.
 platform: Instagram
+hits: 111
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 111 Instagram influencers like this in Boston, United States for you to pitch.
 profiles:
+  - username: "raniamatar"
+    fullname: >-
+      Rania Matar
+    bio: >-
+      2018 Guggenheim Fellow • Artist/Photographer • Boston/NYC/Beirut • Family/Work 🌸🌼🌺 ✨Forthcoming book SHE with Radius Books in 2021✨
+    location: "United States"
+    followers: 14464
+    engagement: 447
+    commentsToLikes: 0.038811
+    id: ckaor92yhm8tp0i78j9ixc5vb
+    verified: false
+    hashtags: "#blue, #she, #raniamatar, #galerietanit"
   - username: "lady.e.photography"
     fullname: >-
-      Enerlin
+      📸 LADY E 📸
+    bio: >-
+      Photographer Boston, NYC #nycphotographer #massachusettsphotographer #bostonphotographer #mainephotographer
     location: "United States"
-    followers: 19194
-    engagement: 106
-    commentsToLikes: 0.075091
+    followers: 21056
+    engagement: 317
+    commentsToLikes: 0.055978
     id: ck0w6c0727uyj0i19umid4uep
     verified: false
-    hashtags: ""
+    hashtags: "#voguechallenge, #essencechallenge, #essence, #vogue"
   - username: "jasonbakerphotography"
     fullname: >-
       Jason Baker
+    bio: >-
+      Published Photographer Boston, MA Historic and Abandoned Places DM for Collabs
     location: "United States"
-    followers: 16012
-    engagement: 387
-    commentsToLikes: 0.017451
+    followers: 17759
+    engagement: 319
+    commentsToLikes: 0.015860
     id: ck9h9nb7v96280j78hvlciwxx
     verified: false
     hashtags: ""
-  - username: "francesca_stoico_official_page"
+  - username: "ericsnyderphotography"
     fullname: >-
-      💎 IFBB BIKINI PRO💎
+      ERIC SNYDER
+    bio: >-
+      PHOTOGRAPHER 📍Boston | NYC | LA • Tiktok eric.snyder/content creator Contact 👇🏼
     location: "United States"
-    followers: 51355
-    engagement: 167
-    commentsToLikes: 0.028278
-    id: ck5hoq0f5q0kn0i11g165hs8z
+    followers: 44422
+    engagement: 116
+    commentsToLikes: 0.035868
+    id: ck13c8el0z3en0i19g3r2m8nm
     verified: false
-    hashtags: "#cheescake, #abbraccifit, #motivationgirl, #foodporn"
+    hashtags: "#modernboudoir, #fallvibes, #photography, #beauty"
   - username: "alexireibman"
     fullname: >-
       Алексей
+    bio: >-
+      creating positive environments that enable you to do your best work | full service producer | published commercial photographer | nyc | boston | 🏳️‍🌈
     location: "United States"
-    followers: 12334
-    engagement: 2800
+    followers: 12220
+    engagement: 2733
     commentsToLikes: 0.000000
     id: ck6tvmqmln3bk0j71rf30bd78
     verified: false
-    hashtags: "#annaniemancouture, #thevoice, #whoisalarie"
-  - username: "smcc_photography"
-    fullname: >-
-      Shannon
-    location: "United States"
-    followers: 7060
-    engagement: 1395
-    commentsToLikes: 0.075034
-    id: ck134y3b1yr2q0i19n1v1wln3
-    verified: false
-    hashtags: "#createexplore, #iris, #boston2020, #zakimbridge"
-  - username: "sdamiani"
-    fullname: >-
-      Sveta 🌿 travel + lifestyle
-    location: "United States"
-    followers: 94961
-    engagement: 303
-    commentsToLikes: 0.043712
-    id: ck0ucguuugr200i19u7r0o8pr
-    verified: false
-    hashtags: "#fromwhereistand, #paris, #athomewithdecoy, #seville"
-  - username: "supercars__boston"
-    fullname: >-
-      Ward Doornbos
-    location: "United States"
-    followers: 11180
-    engagement: 722
-    commentsToLikes: 0.049605
-    id: ck5pvwul0k0mz0i11taa8guiv
-    verified: false
-    hashtags: ""
+    hashtags: "#annaniemancouture"
   - username: "fuscoa23"
     fullname: >-
       Anthony Fusco
+    bio: >-
+      • Boston Photographer •
     location: "United States"
     followers: 2205
     engagement: 1893
     commentsToLikes: 0.078677
     id: ck5cd3fu5igtf0i117dpykcy2
     verified: false
-    hashtags: "#aura, #bestbees, #bostonpride, #bostonprideparade"
-  - username: "ajaiwithaneye"
+    hashtags: ""
+  - username: "carlymphotography"
     fullname: >-
-      A J A I
+      Carly Michelle
+    bio: >-
+      Wedding Photographer + Business Coach ✈︎ Boston + Worldwide 2020 Best of Boston Wedding Photographer Seen in➵PEOPLE, Martha Stewart, BRIDES PRESETS!↓
     location: "United States"
-    followers: 2761
-    engagement: 1804
-    commentsToLikes: 0.111429
-    id: ck6toq8oqfhjc0j71rcnghw09
+    followers: 33236
+    engagement: 161
+    commentsToLikes: 0.033085
+    id: ck0w0zo3jgtx80i19tajp3s29
     verified: false
-    hashtags: "#boston, #corona, #coronavirus, #bostonglobe"
-  - username: "robcollinsphoto"
+    hashtags: ""
+  - username: "paulhenrystudios"
     fullname: >-
-      Rob Collins
+      Paul Henry Collins
+    bio: >-
+      - photojournalism & b&w major from Boston - stylist / fashion editorial photographer / model scout - Boston Bruins 🏒 BoSox ⚾️ - plant based
     location: "United States"
-    followers: 6305
-    engagement: 460
-    commentsToLikes: 0.024874
-    id: ck5cbgdiufdk50i11ls8s6pn2
+    followers: 6216
+    engagement: 172
+    commentsToLikes: 0.092569
+    id: ck0w0rjr8foms0i19rade3y11
     verified: false
-    hashtags: "#raneyberes"
+    hashtags: "#model, #miamibeach, #photographerinmiami, #weugenesmith"
+  - username: "renak_photography"
+    fullname: >-
+      Renak | Photographer🥇
+    bio: >-
+      🔘Portrait Photographer 🔘Worcester || Boston Ma📍 🔘 Anointing ft Deon is OUT NOW ( @renakmusic ) 🎧🔻 STREAM NOW 🔻
+    location: "United States"
+    followers: 19742
+    engagement: 292
+    commentsToLikes: 0.029873
+    id: ck0vwphijuy1v0i1977ow0u8s
+    verified: false
+    hashtags: "#krymi, #flashpointxplor400pro, #renakmedia, #portraitphotographer"
+  - username: "maddiemeyer2"
+    fullname: >-
+      Maddie Meyer
+    bio: >-
+      Getty Sport photographer based in Boston, MA.
+    location: "United States"
+    followers: 7994
+    engagement: 439
+    commentsToLikes: 0.015636
+    id: ck6tnmxfna5z90j71yxpy0v5t
+    verified: false
+    hashtags: "#gettysport, #gettyimages"
 ---

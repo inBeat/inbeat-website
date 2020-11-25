@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top architecture Instagram influencers in Barcelona in 2020. Most popular hashtags: #architecture #barcelona #stayathome #italy.
+  Find top architecture Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #architecture #visitbarcelona #ig.
 platform: Instagram
+hits: 77
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 77 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
+  - username: "imigordaniel"
+    fullname: >-
+      Igor Daniel
+    bio: >-
+      art travel fashion architecture 📍 Barcelona contactigordaniel@gmail.com
+    location: "Spain"
+    followers: 13042
+    engagement: 1063
+    commentsToLikes: 0.026649
+    id: ckaox8rlbca0n0i78ax7igjz5
+    verified: false
+    hashtags: "#photooftheday, #malemodel, #menswear, #instaboy"
+  - username: "raul.alvarado23"
+    fullname: >-
+      Raul Eduardo
+    bio: >-
+      📐Architect 🇵🇦 Panama 📍 Barcelona
+    location: "Spain"
+    followers: 8666
+    engagement: 1376
+    commentsToLikes: 0.016061
+    id: ckf5q7lql8fla0j23zhat373d
+    verified: false
+    hashtags: "#barcelona, #architecture, #hoscos, #smile"
+  - username: "boluddha"
+    fullname: >-
+      BOLUDDHA The Enlightened Idiot
+    bio: >-
+      Check out Prints at:
+    location: "Spain"
+    followers: 34864
+    engagement: 399
+    commentsToLikes: 0.020105
+    id: ck0txfmhxixfk0i191gcd1kto
+    verified: false
+    hashtags: "#symmetricalmonsters, #sunrisephotography, #symmetrykillers, #catalunya"
+  - username: "joanoriolfibla"
+    fullname: >-
+      Joan Oriol Fibla
+    bio: >-
+      Soy producto de la cultura occidental. Politólogo, catalán, republicano y europeo. Critico cuanto conozco, pero no conozco tanto. #barcelona #plants
+    location: "Spain"
+    followers: 7664
+    engagement: 1264
+    commentsToLikes: 0.008079
+    id: ck5zvf8f744gm0i145gkzxudr
+    verified: false
+    hashtags: "#stayhome, #barcelona, #architecture, #plants"
   - username: "yamildoval"
     fullname: >-
       Yamil Doval
+    bio: >-
+      ⚓️ Galego 📍 Based in Barcelona 📷 Architecture • Lifestyle • Travel ✉️ yamildoval@gmail.com ⬇️ Prints & presets ⬇️
     location: "Spain"
     followers: 3609
     engagement: 1629
     commentsToLikes: 0.041195
     id: ck6u7v27fnt470j718mz0eoun
     verified: false
-    hashtags: "#bestcommunity, #hiddengarden, #parcguell, #gironamenamora"
-  - username: "djlopau"
+    hashtags: "#gglocalgems, #bitsofbuildings, #europedestinations, #departuresmag"
+  - username: "josepferrando_architecture"
     fullname: >-
-      Pau Iglesias
+      Josep Ferrando
+    bio: >-
+      BARCELONA BASED ARCHITECTURE STUDIO
     location: "Spain"
-    followers: 13653
-    engagement: 648
-    commentsToLikes: 0.071956
-    id: ck6tlrnvq6imf0j71icc9j82y
+    followers: 32451
+    engagement: 302
+    commentsToLikes: 0.035994
+    id: ck0uc68eug6vj0i19ppcwutpv
     verified: false
-    hashtags: "#coderch"
-  - username: "peribet"
+    hashtags: ""
+  - username: "jirkanovosad"
     fullname: >-
-      Pedro
+      Jirka Novosád
+    bio: >-
+      Freelance photographer and videographer 📷🎥 📩 novosad.ji@gmail.com 📍Prague, Czech Republic 📷 Nikon Z6 @nikon_cz_sk
     location: "Spain"
-    followers: 7347
-    engagement: 808
-    commentsToLikes: 0.055648
-    id: ck5q84wyj4gb00i117gwc8li4
+    followers: 17081
+    engagement: 600
+    commentsToLikes: 0.013976
+    id: ck5zipwqhg5xd0i143p7xv0z8
     verified: false
-    hashtags: "#archdaily, #addicted, #geowt, #architecturenow"
-  - username: "adriagoulaphoto"
+    hashtags: "#fromwhereidrone, #czechroamers, #beanoutsider, #dnescestujem"
+  - username: "nil.monro"
     fullname: >-
-      Adria Goula Photo
+      Nil Monró 😎
+    bio: >-
+      👨🏻‍💻 creativo 📩 info@nilmonro.com
     location: "Spain"
-    followers: 26333
-    engagement: 291
-    commentsToLikes: 0.015942
-    id: ck0uc6b2bg7a30i19ct5lcc37
+    followers: 60796
+    engagement: 76
+    commentsToLikes: 0.033531
+    id: ckf5n5h81wtrv0j2317p3t71z
     verified: false
-    hashtags: "#archilover"
-  - username: "parisianfloors"
-    fullname: >-
-      Parisian floors
-    location: "Spain"
-    followers: 166640
-    engagement: 278
-    commentsToLikes: 0.007334
-    id: ck5c4fepn18m80i114sxwm7yf
-    verified: true
-    hashtags: "#montmartre, #quedatencasa, #hemmingway, #cementtiles"
-  - username: "baasarch"
-    fullname: >-
-      BAAS arquitectura
-    location: "Spain"
-    followers: 32626
-    engagement: 166
-    commentsToLikes: 0.004140
-    id: ck6u8at53qgp80j71lpgkffti
-    verified: false
-    hashtags: "#concrete, #singlehouse, #architecturehouses, #competition"
-  - username: "pinelopi_papanikolaou"
-    fullname: >-
-      my_fashion_moment
-    location: "Spain"
-    followers: 12546
-    engagement: 826
-    commentsToLikes: 0.296448
-    id: ck0txg97kj05u0i19lsjgv097
-    verified: false
-    hashtags: "#spain, #party, #quarantine, #statue"
+    hashtags: "#barcelona, #tb, #architecture, #fashionblogger"
   - username: "maksimslavin"
     fullname: >-
       M A K S I M    S L A V I N
+    bio: >-
+      Interior designer Owner of @maksimslavininteriors
     location: "Spain"
     followers: 7936
     engagement: 633
     commentsToLikes: 0.018731
     id: ck6ucb0uhejre0j71tc2mkwqq
     verified: false
-    hashtags: "#memories, #barcelona, #travel, #interiors"
-  - username: "marcplam"
+    hashtags: "#travel, #favoritethings, #casabatll, #hermes"
+  - username: "barcelona.travelers"
     fullname: >-
-      MARC PLÀ
+      Barcelona Travelers
+    bio: >-
+      ✭ The Biggest Community of Barcelona Travelers ↣ Join our #TravelFromHome Community👇🏼
     location: "Spain"
-    followers: 5552
-    engagement: 2184
-    commentsToLikes: 0.031052
-    id: ck15uzxdlp97j0i19rabrc07y
+    followers: 36537
+    engagement: 268
+    commentsToLikes: 0.012236
+    id: ck139lrp7lyc70i19pu5ck0ag
     verified: false
-    hashtags: "#stayathome, #tuesday"
-  - username: "mcristinastyling"
-    fullname: >-
-      cristina gomes
-    location: "Spain"
-    followers: 7633
-    engagement: 581
-    commentsToLikes: 0.306679
-    id: ck5zxexvg7vu90i14wawi521w
-    verified: false
-    hashtags: "#aestheticphotos, #watchjewelry, #inspointerior, #sundayvibes"
+    hashtags: "#barcelonastreets, #lasagradafamilia, #roamtheplanet, #stars"
 ---

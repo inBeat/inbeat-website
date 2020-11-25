@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics TikTok Influencers In 2020
 description: >-
-  Find top cosmetics TikTok influencers in 2020. Most popular hashtags: #freezeframe #musiclives #greenscreen #earthday.
+  Find top cosmetics TikTok influencers in 2020. Most popular hashtags: #fyp #duet #skincare #lipgloss.
 platform: TikTok
+hits: 373
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 373 TikTok influencers like this for you to contact.
 profiles:
   - username: "lipfix_cosmetics"
     fullname: >-
       ✨Lipgloss Business✨
+    bio: >-
+      ✊🏻✊🏼✊🏽✊🏾✊🏿 Giveaway at 150k💖 Insta⬆️ YouTube: Lipfix Cosmetics
     location: "United States"
-    followers: 127151
-    engagement: 2250
-    commentsToLikes: 0.031364
+    followers: 123400
+    engagement: 2121
+    commentsToLikes: 0.028002
     id: ck9pm9m3k88ze0j784ceyaswn
     verified: false
-    hashtags: "#gloss, #lipoil, #partone, #coronavirus"
-  - username: "heliocosmetics"
+    hashtags: "#fun, #smallbusiness, #lipgloss, #lipfix"
+  - username: "shaniii888"
     fullname: >-
-      helio cosmetics
+      shaniii 888
+    bio: >-
+      Lhr yatem khana markit khalid and fazi cosmetics
+    location: "Pakistan"
+    followers: 141500
+    engagement: 1368
+    commentsToLikes: 0.036301
+    id: ckbepj07j6lvc0j23zi14p1qo
+    verified: false
+    hashtags: "#millionveiws, #whatanimalareyou"
+  - username: "joycetse"
+    fullname: >-
+      Joyce Tse
+    bio: >-
+      Cosmetic chemist/formulator I think I've been shadowbanned 😳🥺😢
+    location: "Canada"
+    followers: 16500
+    engagement: 1617
+    commentsToLikes: 0.049558
+    id: ckbw5pi11y2ik0j23t223aukp
+    verified: false
+    hashtags: "#acne, #skincare, #sunburn, #kbeauty"
+  - username: "marieclaire.popernik"
+    fullname: >-
+      Marieclaire Popernik
+    bio: >-
+      shop the link below! go follow my business page @marieclaire.cosmetics
     location: "United States"
-    followers: 205042
-    engagement: 2379
-    commentsToLikes: 0.050170
-    id: ck83wxokvmtkm0j78itef8w18
+    followers: 88600
+    engagement: 2192
+    commentsToLikes: 0.013943
+    id: ck8z8ny64uwv30j78aal4fkes
     verified: false
-    hashtags: "#gymrush, #holidayovertime, #lovemybffbut, #bookclub"
-  - username: "lagirlcosmetics"
-    fullname: >-
-      L.A. Girl Cosmetics
-    location: "United States"
-    followers: 9780
-    engagement: 1822
-    commentsToLikes: 0.142948
-    id: ck8w5alsr9s8g0j78eg967opq
-    verified: false
-    hashtags: "#musiclives, #gonnabefriends, #gelpolishnails, #lipessentials"
-  - username: "pinksaladldn"
-    fullname: >-
-      Vegan Lipgloss 🌸
-    location: "United Kingdom"
-    followers: 955280
-    engagement: 2077
-    commentsToLikes: 0.017840
-    id: ck9k4dimzs1dl0j78x1rpf3c2
-    verified: false
-    hashtags: "#lipgloss, #guess, #oil, #barbiegirl"
+    hashtags: "#tiktoktaughtme, #foryoupage, #theoldguard, #fyp"
   - username: "ofracosmetics"
     fullname: >-
       Ofra Cosmetics
+    bio: >-
+      OFRA Cosmetics 🇺🇸Made in the USA 🐰Cruelty-Free Cosmetics 💗Makeup & Skincare
     location: "United States"
-    followers: 17866
-    engagement: 1685
-    commentsToLikes: 0.031131
+    followers: 20300
+    engagement: 1563
+    commentsToLikes: 0.076807
     id: ck9c4m8lnq4t60j78g00u940a
     verified: false
-    hashtags: "#easydance, #bored, #earthday2020, #whippedcoffee"
-  - username: "bperfectcosmetics"
+    hashtags: "#lipstick, #ghostphotoshoot, #amazonprime, #dayinmylife"
+  - username: "nina.ceo"
     fullname: >-
-      BPerfect Cosmetics
-    location: "United Kingdom"
-    followers: 9497
-    engagement: 1443
-    commentsToLikes: 0.101138
-    id: ck8nh6dlozdvh0j780g0kwjkj
+      Nina 💄Ceo
+    bio: >-
+      CEO Colourette Cosmetics 💄 Fresh Formula 🧴 IG @theninaellaine
+    location: "Philippines"
+    followers: 887800
+    engagement: 985
+    commentsToLikes: 0.021120
+    id: ckbqns2b68mav0j238zdjttji
     verified: false
-    hashtags: "#tanning, #housepftiktok, #cheekylipkit, #getreadywithbp"
-  - username: "cleanbychristine"
+    hashtags: ""
+  - username: "olgaavezbakiev"
     fullname: >-
-      Christine Lan
-    location: "Canada"
-    followers: 18911
-    engagement: 1627
-    commentsToLikes: 0.027528
-    id: ck8nc232rcmw80j788vzg6hil
+      Olga Avezbakiev
+    bio: >-
+      Thank You all for love and support! Check out my daughter's cosmetic business!
+    location: "United States"
+    followers: 2662
+    engagement: 1232
+    commentsToLikes: 0.084778
+    id: ckcdf7ezy6hix0j23fjpaow61
     verified: false
-    hashtags: "#diydeodorant, #homemademask, #detox, #diyfacemask"
-  - username: "dr_rubinshtein"
+    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
+  - username: "waykint"
     fullname: >-
-      Dr. Daniel 
+      kayla
+    bio: >-
+      24 | OH | waykintcustoms on Etsy | waykint cosmetics on facebook 🥰
     location: "United States"
-    followers: 469560
-    engagement: 784
-    commentsToLikes: 0.024944
-    id: ck8j7y2hgggnr0j78wtm4ej3j
-    verified: true
-    hashtags: "#earthday, #tossyourcap, #eatemup, #progamer"
-  - username: "benefitcosmetics"
+    followers: 5566
+    engagement: 1170
+    commentsToLikes: 0.053336
+    id: ckc7wx75azvsc0j23igkzuus3
+    verified: false
+    hashtags: "#unitedwedance, #browneyes, #fyp, #hi"
+  - username: "stryx_official"
     fullname: >-
-      Benefit Cosmetics
+      Stryx
+    bio: >-
+      CEO of Handsome Men’s Cosmetics & Skincare USE CODE ‘TIKTOK’ for 15% off! ⬇️ ⬇️
     location: "United States"
-    followers: 39645
-    engagement: 1440
-    commentsToLikes: 0.017959
-    id: ck8owrpebz9670j78df3yz5bp
-    verified: true
-    hashtags: "#organiztion, #lonelychair, #artchallenge, #timmytrend"
-  - username: "maccosmetics"
+    followers: 41400
+    engagement: 658
+    commentsToLikes: 0.053284
+    id: ck8khqmk3nx490j78dbyiza1t
+    verified: false
+    hashtags: "#menwhowearmakeup, #mensskincare, #realmenwearmakeup, #duet"
+  - username: "askdrjason"
     fullname: >-
-      maccosmetics
+      askdrjason
+    bio: >-
+      Cosmetic/Medical Board Certified Derm Be kind!!! @askdrjason NJ
     location: "United States"
-    followers: 38703
-    engagement: 1376
-    commentsToLikes: 0.017874
-    id: ck8ae9y8zb5mv0j78sr6v1xdo
-    verified: true
-    hashtags: "#skincare, #makeuphacks, #eatingwithlipstickon, #macholiday"
+    followers: 72300
+    engagement: 564
+    commentsToLikes: 0.050149
+    id: ckcdtc8c8dtcz0j23cjgc6877
+    verified: false
+    hashtags: "#skin, #duet, #dermatology, #nyc"
 ---

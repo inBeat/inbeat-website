@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top mothers TikTok influencers in Switzerland in 2020. Most popular hashtags: #comedy #coronavirus #quarantine #mothersday.
+  Find top mothers TikTok influencers in Switzerland in 2020. Most popular hashtags: #foryou #fyp #foryoupage #viral.
 platform: TikTok
+hits: 11
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "corinne_zhh"
+  - username: "intothewild_ch"
     fullname: >-
-      Corinne / 36years✨
+      intothewild_ch
+    bio: >-
+      #InLoveWithSwitzerland 🇨🇭 and inspired by Mother Nature
     location: "Switzerland"
-    followers: 418659
-    engagement: 2007
-    commentsToLikes: 0.007981
-    id: ck9n54hu46edf0j78m0s78q3d
+    followers: 6266
+    engagement: 925
+    commentsToLikes: 0.024392
+    id: ckcv5jhjrp9xh0j23x6ykjk5m
     verified: false
-    hashtags: "#question, #loveyou, #brokenheart, #stars"
-  - username: "ladymysterie88"
+    hashtags: "#ticino, #swiss, #brienz, #switzerlandtourism"
+  - username: "david.grieder"
     fullname: >-
-      💜🌸Nadine🌸💜
+      DAVID GRIEDER
+    bio: >-
+      swiss boy just for fun
     location: "Switzerland"
-    followers: 125528
-    engagement: 1495
-    commentsToLikes: 0.055379
-    id: ck8qobuvfy9w50j78vbrsetpg
+    followers: 7890
+    engagement: 1712
+    commentsToLikes: 0.022778
+    id: ckamvqdnr4vl80i78yeggztr7
     verified: false
-    hashtags: "#bengalcats, #mami, #tiktokeranalysieren, #ghost"
-  - username: "pinupmom_"
+    hashtags: "#justforfun, #swiss, #foryou, #funny"
+  - username: "maijuush"
     fullname: >-
-      Kali Anaïs Badoux
+      Maijush
+    bio: >-
+      24 🇨🇭Swiss ☆ Inked 🖤 🏳️‍🌈🏳 LoveIsLove
     location: "Switzerland"
-    followers: 8052
-    engagement: 1079
-    commentsToLikes: 0.057595
-    id: cka0nhqrlzqhe0i78sockg9qp
+    followers: 22700
+    engagement: 1921
+    commentsToLikes: 0.014845
+    id: ck8ncv247g3iv0j78qtyjav7j
     verified: false
-    hashtags: "#humourmaman, #naturel, #maternite, #maison"
-  - username: "younessaggara"
+    hashtags: "#equestrian, #4you, #horseriding, #slowmo"
+  - username: "vivi__mausii"
     fullname: >-
-      Younes Saggara
+      Vivi Schwizgebel
+    bio: >-
+      Snapchat: 🌸__vivi__🌸 Swiss 🇨🇭 💗 Love Life And Enjoy It ❤️
     location: "Switzerland"
-    followers: 274219
-    engagement: 1498
-    commentsToLikes: 0.013321
-    id: ck84mbf83mwwh0j78izm10i4u
+    followers: 24600
+    engagement: 1215
+    commentsToLikes: 0.044448
+    id: ckbf86968yit20j238r444yb6
+    verified: false
+    hashtags: "#transformation, #foryoupage, #dance, #trend"
+  - username: "mrkvicaajvaric"
+    fullname: >-
+      MrkvicaAjvaric
+    bio: >-
+      I komme von Balkan in Schwiz #balkan #schweiz #integration #deutschesprache
+    location: "Switzerland"
+    followers: 8304
+    engagement: 341
+    commentsToLikes: 0.049526
+    id: ckcv4z11tp25h0j23br5fvrew
+    verified: false
+    hashtags: "#integration, #hvala, #jugo, #standupcomedy"
+  - username: "don_stupido"
+    fullname: >-
+      Crazy comedian
+    bio: >-
+      😆🤪Fun and crazyness.🤔🙄🤦‍♀️Keep smiling. 🙈😹👌👨‍👩‍👧
+    location: "Switzerland"
+    followers: 7781
+    engagement: 432
+    commentsToLikes: 0.147836
+    id: ckck6lownrxpb0j23c0c58xv4
+    verified: false
+    hashtags: "#monday, #wive, #cat, #trump"
+  - username: "globalshaperscommunity"
+    fullname: >-
+      GlobalShapers
+    bio: >-
+      We believe in a 🌎 where young people are central to lasting change.
+    location: "Switzerland"
+    followers: 2335
+    engagement: 559
+    commentsToLikes: 0.033300
+    id: cka617kg3u8cd0i78031xwg20
     verified: true
-    hashtags: "#statueofliberty, #guessthegibberish, #purplefilter, #grandcentral"
-  - username: "stevenepprecht"
+    hashtags: "#coronavirus, #healthheroes, #healthyathome, #globalshapers"
+  - username: "olf.memes"
     fullname: >-
-      Steven Epprecht
+      olf.memes✓
+    bio: >-
+      Memez for everybody
     location: "Switzerland"
-    followers: 104381
-    engagement: 697
-    commentsToLikes: 0.040765
-    id: cka85wri200ma0i78ffm00gw8
+    followers: 3889
+    engagement: 1230
+    commentsToLikes: 0.020340
+    id: ckb9d6s8d09600j2399h61h69
     verified: false
-    hashtags: "#sauer, #newtrend, #moodoftheday, #emojichallenge"
-  - username: "boccalino.lana"
+    hashtags: "#viral, #makeitviral, #damn, #foryou"
+  - username: "iamcreativeofficial"
     fullname: >-
-      boccalino.lana 🇨🇭
+      I AM CREATIVE
+    bio: >-
+      Sharing our DIY products and ideas ✂️ Get 10% off with TIKTOK10 🎉
     location: "Switzerland"
-    followers: 5289
-    engagement: 533
-    commentsToLikes: 0.073926
-    id: ckamm3qgcyt3r0i78luxbyfnl
+    followers: 9257
+    engagement: 1056
+    commentsToLikes: 0.009981
+    id: ck81s83zsqq420j78nhczdtyo
     verified: false
-    hashtags: "#adventure, #health, #foryouppage, #woahchallenge"
-  - username: "refugees"
+    hashtags: "#doityourself, #handcrafted, #idea, #craft"
+  - username: "izabel.philippa"
     fullname: >-
-      We help refugees
+      Izabel Philippa
+    bio: >-
+      𖤥 Switzerland ✈︎ Wanderlust soul | 유 Daydreamer Instagram: @izabel.philippa
     location: "Switzerland"
-    followers: 495652
-    engagement: 318
-    commentsToLikes: 0.017554
-    id: ck9616v0hlcfv0j782ggiwwgq
-    verified: true
-    hashtags: "#tiktoklive, #ghana, #miasanmia, #cateblanchett"
-  - username: "arrzzii"
-    fullname: >-
-      🇦🇱🇹🇷ArrzziiⓂ️
-    location: "Switzerland"
-    followers: 268103
-    engagement: 3044
-    commentsToLikes: 0.000049
-    id: ck8ncv8nwg4iq0j780k0ckwnm
+    followers: 4257
+    engagement: 504
+    commentsToLikes: 0.022878
+    id: cka62t23d1buq0i78jgw6rhin
     verified: false
-    hashtags: "#animals, #biscuit, #rainbow, #colored"
-  - username: "rock_sharan"
-    fullname: >-
-      rock_sharan
-    location: "Switzerland"
-    followers: 418775
-    engagement: 953
-    commentsToLikes: 0.020014
-    id: ck84mbap7mvh50j78e8hdkqh7
-    verified: false
-    hashtags: "#emotional, #balkan, #stayhome, #switzerland"
-  - username: "tokyo_pom"
-    fullname: >-
-      Tokyo StarPomeranian
-    location: "Switzerland"
-    followers: 48411
-    engagement: 1598
-    commentsToLikes: 0.011281
-    id: ckamssu8rrnqv0i78dtxyupm7
-    verified: false
-    hashtags: "#duet, #iphone, #behindthescenes, #dogchchallenge"
+    hashtags: "#foryoupage, #fy, #summermodeon, #foryou"
 ---

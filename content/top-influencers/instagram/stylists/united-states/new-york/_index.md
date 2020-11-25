@@ -1,92 +1,125 @@
 ---
 title: Top 10 Stylists Instagram Influencers In New York In 2020
 description: >-
-  Find top stylists Instagram influencers in New York in 2020. Most popular hashtags: #stylist #newyork #newyorkcity #style.
+  Find top stylists Instagram influencers in New York in 2020. Most popular hashtags: #newyork #stylist #losangeles.
 platform: Instagram
+hits: 236
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 236 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "binababic"
-    fullname: >-
-      BinaBabic • Makeup Artist 💄
-    location: "United States"
-    followers: 46060
-    engagement: 149
-    commentsToLikes: 0.019972
-    id: ck0vz9lpt801u0i19234katzs
-    verified: false
-    hashtags: "#makeuptutorial, #badbitchesonly, #valentines, #sheawholevibe"
   - username: "marinaingvarsson"
     fullname: >-
       Marina Ingvarsson
+    bio: >-
+      Stylist, New York. 📮marina@bonaupetite.com
     location: "United States"
-    followers: 112119
-    engagement: 123
-    commentsToLikes: 0.014689
+    followers: 112136
+    engagement: 154
+    commentsToLikes: 0.012233
     id: ck0vy5pny2d110i19y51ztofh
     verified: false
-    hashtags: "#instyle, #quarantine, #nyfwgoescommando, #cuffbag"
-  - username: "victor.nadolsky"
+    hashtags: "#quarantine, #stayhome, #cuffbag, #ad"
+  - username: "holmarmusik"
     fullname: >-
-      Victor Nadolsky
+      Hólmar “Acid Tourist”
+    bio: >-
+      ⥃ Purveyor of good times ⥂ ↓ AGENTS ↓ N/S America: gunita@listedbookings.com Europe : yvetta@thealtitude.agency #Holmar #AcidTourist @theacidtourist
     location: "United States"
-    followers: 21740
-    engagement: 281
-    commentsToLikes: 0.010991
-    id: ck15rr1as99ly0i19xuq8fnop
+    followers: 18641
+    engagement: 185
+    commentsToLikes: 0.065434
+    id: ck0vz0e626o3u0i19v8o6htwd
     verified: false
-    hashtags: "#hairbrained, #olaplex, #loreal, #maneinterest"
-  - username: "clarissareyesbeauty"
-    fullname: >-
-      Clarissa Reyes Makeup Artist
-    location: "United States"
-    followers: 25308
-    engagement: 201
-    commentsToLikes: 0.048137
-    id: ckaor6a23lwh90i7895xftlfl
-    verified: false
-    hashtags: "#patrickta, #patricktabeauty, #nymakeupartist, #tbt"
-  - username: "instylewithmeera"
-    fullname: >-
-      MEERA DIWAN
-    location: "United States"
-    followers: 13266
-    engagement: 495
-    commentsToLikes: 0.117947
-    id: ck13afakwq4760i19v662twjw
-    verified: false
-    hashtags: "#zarafashion, #jewelrydesign, #rougebyroojamir, #streetstyle"
-  - username: "michaelraveney"
-    fullname: >-
-      MICHAEL RAVENEY
-    location: "United States"
-    followers: 18862
-    engagement: 230
-    commentsToLikes: 0.040601
-    id: ck5hiwvbbflwr0i11hj41ent6
-    verified: false
-    hashtags: "#montauk, #assistant, #centralpark, #dumbobrooklyn"
-  - username: "deviate_fashion"
-    fullname: >-
-      Deviate
-    location: "United States"
-    followers: 24631
-    engagement: 357
-    commentsToLikes: 0.033085
-    id: ck5zsmrroysv00i14zrnq73ud
-    verified: false
-    hashtags: "#sustainablefashion, #detroithighfashion, #artistsoninstagram, #fashionkorea"
+    hashtags: "#djlifestyle, #quarantine, #electronicmusic, #afterparty"
   - username: "hybridhues"
     fullname: >-
       Reva Bhatt
+    bio: >-
+      creative director and stylist 📍 new york + los angeles 💌 hybridhueSs@gmail.com
     location: "United States"
-    followers: 9558
-    engagement: 854
-    commentsToLikes: 0.024320
+    followers: 11174
+    engagement: 527
+    commentsToLikes: 0.029976
     id: ck0ubn61nf09k0i19ghvxgdmh
+    verified: false
+    hashtags: "#rajasthan, #sustainablefashion"
+  - username: "victor.nadolsky"
+    fullname: >-
+      Victor Nadolsky
+    bio: >-
+      Hair Stylist. Colourist New York, New York
+    location: "United States"
+    followers: 21179
+    engagement: 289
+    commentsToLikes: 0.011574
+    id: ck15rr1as99ly0i19xuq8fnop
+    verified: false
+    hashtags: ""
+  - username: "ostliza"
+    fullname: >-
+      Liza Ostanina
+    bio: >-
+      @systemagency Miln @thewall.agency Paris @lebureaubooking
+    location: "United States"
+    followers: 14647
+    engagement: 320
+    commentsToLikes: 0.019777
+    id: ck5zpk705ssy90i14nxikioot
+    verified: false
+    hashtags: "#setdesign, #studio, #spring, #editorial"
+  - username: "cheekymaa"
+    fullname: >-
+      
+    bio: >-
+      Multitalented Freak. NYC stylist at @prema.newyork for booking @cheekymaahair BLACK LIVES MATTER
+    location: "United States"
+    followers: 19643
+    engagement: 352
+    commentsToLikes: 0.016604
+    id: ck0w3cz06srh10i19u1b6jagv
+    verified: false
+    hashtags: ""
+  - username: "koreankandy"
+    fullname: >-
+      Rebecca Lee Artistry
+    bio: >-
+      Bridal✨Celebrity MU✨TV✨Education✨Appts On location or ✈️ MU/Hair Team 📧 Info.RebeccaLeeArtistry@gmail.com 🎥💄Seen on VH1,MTV,BRAVO,CBS,WWE & More
+    location: "United States"
+    followers: 25600
+    engagement: 344
+    commentsToLikes: 0.040093
+    id: ck13apvztrkxb0i197qmmust2
+    verified: false
+    hashtags: "#njmua, #koparibeauty, #glam, #luxurylifestyle"
+  - username: "officialbigpun"
+    fullname: >-
+      BIG PUNISHER™
+    bio: >-
+      Business Never Personal BIG PUN 33HI👇🏼
+    location: "United States"
+    followers: 20516
+    engagement: 612
+    commentsToLikes: 0.020429
+    id: ck0vxnrjcztip0i194fhe4pq3
+    verified: false
+    hashtags: "#bigpunisher, #hiphop, #goat, #punisher"
+  - username: "tingsquarepants"
+    fullname: >-
+      TING-TING
+    bio: >-
+      📍new yerrrr, new york ▪️model • stylist • producer • social media manager 📬: tingtingzhao0604@gmail.com
+    location: "United States"
+    followers: 3277
+    engagement: 1563
+    commentsToLikes: 0.071225
+    id: ck15putgfzqio0i197srdc1bl
     verified: false
     hashtags: ""
   - username: "colinking"
     fullname: >-
       Colin King
+    bio: >-
+      arranging things. new york based stylist & designer represented by @edgereps
     location: "United States"
     followers: 86383
     engagement: 297
@@ -94,14 +127,4 @@ profiles:
     id: ck0tv2oqr9oet0i195ro0kl1g
     verified: false
     hashtags: "#stayhomestilllife, #bts"
-  - username: "madmamanyc"
-    fullname: >-
-      Alexandra Kohan
-    location: "United States"
-    followers: 82233
-    engagement: 168
-    commentsToLikes: 0.051877
-    id: ck5zsgnidygnk0i142lmam9ow
-    verified: false
-    hashtags: "#mindfulliving, #bodypositive, #babor, #showerandtell"
 ---

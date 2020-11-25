@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Canada In 2020
 description: >-
-  Find top athletes Instagram influencers in Canada in 2020. Most popular hashtags: #canada #motivation #instafit #giveaway.
+  Find top athletes Instagram influencers in Canada in 2020. Most popular hashtags: #hometeam #ootd #montreal.
 platform: Instagram
+hits: 249
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 249 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "steph_seguinn"
-    fullname: >-
-      Stephanie
-    location: "Canada"
-    followers: 6759
-    engagement: 1601
-    commentsToLikes: 0.045627
-    id: ckap69u7cezy20i78w8bqtjzs
-    verified: false
-    hashtags: "#giveawaycontest, #giveawaytime, #livefitfoods, #peachy"
-  - username: "jmlgold"
-    fullname: >-
-      James-Michael Lavigne
-    location: "Canada"
-    followers: 27670
-    engagement: 884
-    commentsToLikes: 0.034677
-    id: ck15tdyz8hm4e0i19su2qhjs2
-    verified: false
-    hashtags: "#abouttorelax, #lookoutshark, #jamesbond, #happynewyear"
   - username: "veronicawangco"
     fullname: >-
       v e r o n ι c a · w a n g
+    bio: >-
+      Toronto 🇨🇦🇬🇷🇨🇳 amateur cook at best👨🏻‍🍳 adhd child. @BangEnergy Athlete CODE [VER25]⚡️ ✨ 𝘺𝘰𝘶 𝘸𝘪𝘯 𝘴𝘶𝘮 𝘺𝘰𝘶 𝘥𝘪𝘮 𝘴𝘶𝘮 ✨🧿⛰ 1.73 @baddiefoodies on yt ·
     location: "Canada"
-    followers: 176915
-    engagement: 654
-    commentsToLikes: 0.031627
+    followers: 197298
+    engagement: 613
+    commentsToLikes: 0.027520
     id: ck13ayin4st6m0i19rq47dnep
     verified: false
-    hashtags: "#ad, #trulocal, #scottishfold, #catsofinstagram"
-  - username: "jacobshaff"
+    hashtags: "#ad, #churchschickenwhitby, #blm, #geminiseason"
+  - username: "janellefaithill"
     fullname: >-
-      Jacob Shaffelburg
+      Janelle Hill 🇨🇦 Fitness
+    bio: >-
+      ✖️ AC♡ ✖️ @ryderwear athlete ✨ ✖️ @peachbands | @beaybl ✖️ @tc.nutrition | @popeyeswinnipeg ✖️ @swishmodels | @jed_north ✖️ Kinesiology 📚 ✖️ LINKS⤵️
     location: "Canada"
-    followers: 5099
-    engagement: 3041
-    commentsToLikes: 0.037166
-    id: ck0w09maxd32c0i19ho8y8t5a
-    verified: true
-    hashtags: "#allforone, #thanksgiving, #hometeam, #createdwithadidas"
+    followers: 25268
+    engagement: 680
+    commentsToLikes: 0.078797
+    id: ck5hlc0uxjy7v0i11cj8b3up1
+    verified: false
+    hashtags: "#dailygymfits, #ryderwear, #teamryderwear, #winnipeg"
+  - username: "brooke.antonsen"
+    fullname: >-
+      Brooke Antonsen
+    bio: >-
+      Calgary, AB✨ Published Model, Lifestyle, Fitness @fitarmyofficial Athlete🏆
+    location: "Canada"
+    followers: 9281
+    engagement: 3310
+    commentsToLikes: 0.052745
+    id: ck5hjlstsguoe0i11mydyh2jo
+    verified: false
+    hashtags: "#empoweredescape, #godsplan, #cheese, #throwbackthursday"
+  - username: "jmlgold"
+    fullname: >-
+      James-Michael Lavigne
+    bio: >-
+      Sports Coach to Olympic & elite athletes/ Strength & Physique Trainer/Half Century Man/ Loving my fifties/“Daddy”/Cigar Enthusiast/ Montréal, CANADA🇨🇦
+    location: "Canada"
+    followers: 32014
+    engagement: 721
+    commentsToLikes: 0.033064
+    id: ck15tdyz8hm4e0i19su2qhjs2
+    verified: false
+    hashtags: "#cigarman, #victory, #mensfashion, #cigardaddy"
   - username: "samuelpiette"
     fullname: >-
       Samuel Piette
+    bio: >-
+      @impactmontreal #6 | Adidas Athlete ||| Proud ambassador of; • @videotron • @denisbretonchevroletbuickgmc
     location: "Canada"
-    followers: 27080
-    engagement: 888
-    commentsToLikes: 0.023363
+    followers: 27069
+    engagement: 856
+    commentsToLikes: 0.025880
     id: ck5c45lnv0nlx0i11wk3qsch2
     verified: true
-    hashtags: "#canmnt, #nachopiatti, #createdwithadidas, #6months"
-  - username: "djessicabuettner"
+    hashtags: "#imfc, #sccl, #hometeam, #mlsisback"
+  - username: "steph_seguinn"
     fullname: >-
-      Jessica Buettner
+      Stephanie
+    bio: >-
+      ▫️ Do what makes you happiest ▫️⁣⁣⁣⁣⁣ ⁣⁣⁣⁣ ▫️ @fitarmyofficial Athlete - Code “Steph”⁣⁣⁣⁣⁣
     location: "Canada"
-    followers: 121294
-    engagement: 716
-    commentsToLikes: 0.014863
-    id: ck15srelzeg2s0i19e081lg8m
+    followers: 8544
+    engagement: 1486
+    commentsToLikes: 0.030293
+    id: ckap69u7cezy20i78w8bqtjzs
     verified: false
-    hashtags: "#riseandgrind, #instafit, #icecrystals, #mobility"
-  - username: "george_ahhh"
+    hashtags: "#hemprove, #cbdoil, #positivemind, #selfcare"
+  - username: "nursey16"
     fullname: >-
-      Georgia Ellenwood
+      Sarah Nurse
+    bio: >-
+      Olympian • Silver Medalist 🇨🇦🥈 @adidasca & @CCMHockey Athlete I enjoy skincare, a good outfit & french fries @pwhpa • Wisconsin Badger Alum 👐🏽
     location: "Canada"
-    followers: 328574
-    engagement: 1228
-    commentsToLikes: 0.011676
-    id: ck0vvscydqjkc0i198hfdkgl4
+    followers: 25209
+    engagement: 815
+    commentsToLikes: 0.026455
+    id: ck5zijek7ftla0i141b68j1xd
     verified: true
-    hashtags: "#underarmourcanada"
-  - username: "cor_kashif"
+    hashtags: "#ootd, #curlyhair, #instamood, #hockey"
+  - username: "mcbride46"
     fullname: >-
-      Corey Kashif
+      Brandon McBride
+    bio: >-
+      Canadian | Olympian | 800m | @Adidas Athlete | MSU bulldog | @mcbrideyouthunited | "The only time success comes before work is in the dictionary."
     location: "Canada"
-    followers: 6898
-    engagement: 1634
-    commentsToLikes: 0.026141
-    id: ck55kp7bfzsuo0i11pkveqewo
-    verified: false
-    hashtags: "#miami, #served, #tueaday, #motivation"
-  - username: "brady.oliveira"
-    fullname: >-
-      Brady Oliveira
-    location: "Canada"
-    followers: 9021
-    engagement: 1846
-    commentsToLikes: 0.021848
-    id: ck6u1drxel4uo0j718df1e6tm
+    followers: 32806
+    engagement: 954
+    commentsToLikes: 0.014985
+    id: ck5bzebrbqz6m0i11tk60i522
     verified: true
-    hashtags: "#forthew, #204, #greycup, #adoptdontshop"
-  - username: "jagmanpreetsinghnagra"
+    hashtags: "#ultraboost20, #createdwithadidas, #goodbyegravity, #hometeam"
+  - username: "shaksz_3"
     fullname: >-
-      ‼️JAGMANPREET  SINGH  NAGRA‼️
+      Ahmed Mesallati
+    bio: >-
+      ▫Mens Physique 🏆 ▫️Actor | Athlete | Architect ▫Toronto | Abu Dhabi | Gold Coast ✖️ 決して満足しない
     location: "Canada"
-    followers: 2040
-    engagement: 2252
-    commentsToLikes: 0.076681
-    id: ckap7fzp3jwma0i78yeg1tjzn
+    followers: 38753
+    engagement: 479
+    commentsToLikes: 0.033904
+    id: ck14jig87kikb0i19w6no7dxd
     verified: false
-    hashtags: "#paggawalemunde, #ustaadbande, #turbantor, #turbansquad"
+    hashtags: "#candy, #hollywoodnorth, #motivation, #hulu"
+  - username: "jacobshaff"
+    fullname: >-
+      Jacob Shaffelburg
+    bio: >-
+      • @torontofc • @adidasfootball athlete • Nova Scotia • Berkshire School
+    location: "Canada"
+    followers: 5252
+    engagement: 2879
+    commentsToLikes: 0.024860
+    id: ck0w09maxd32c0i19ho8y8t5a
+    verified: true
+    hashtags: "#thanksgiving, #tfc, #hometeam, #createdwithadidas"
 ---

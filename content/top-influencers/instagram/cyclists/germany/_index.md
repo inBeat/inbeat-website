@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Germany In 2020
 description: >-
-  Find top cyclists Instagram influencers in Germany in 2020. Most popular hashtags: #stayhome #cyclingshots #bikelife #cycling.
+  Find top cyclists Instagram influencers in Germany in 2020. Most popular hashtags: #cycling #cyclinglife #bike #bikelife.
 platform: Instagram
+hits: 55
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 55 Instagram influencers like this in Germany for you to contact.
 profiles:
-  - username: "justcapturethelife"
-    fullname: >-
-      Franz Hüttner
-    location: "Germany"
-    followers: 6646
-    engagement: 1418
-    commentsToLikes: 0.034779
-    id: ck14lk6jzv3pa0i19fzc66vao
-    verified: false
-    hashtags: "#2wie3, #amberg, #moodygrams, #winterliebe"
   - username: "clippedinandfree"
     fullname: >-
-      Alina Jäger
+      Alina Jäger
+    bio: >-
+      Cyclist. Sensitive & savage Creator @einmenschwiejeder Founder @agentur.authentisch 📍Germany ❤@mikula.thome
     location: "Germany"
-    followers: 73263
-    engagement: 573
-    commentsToLikes: 0.021088
+    followers: 97432
+    engagement: 731
+    commentsToLikes: 0.018557
     id: ck5zs18lrxmqn0i148cz2x1v8
     verified: false
-    hashtags: "#flattenthecurve, #pancakesunday, #throwback, #goldilocksrule"
-  - username: "_pascal_ackermann_"
+    hashtags: "#rideyourbike, #clippedinandfree, #cycling, #vscocycling"
+  - username: "miriamwelte"
     fullname: >-
-      Pascal Ackermann 🇩🇪
+      Miriam Welte
+    bio: >-
+      Olympic Champion London 🥇 🇬🇧 Olympic Bronze Medalist Rio 🥉🇧🇷, 6x World Champion 🌈 , German Track Cyclist 🚴🏻‍♀️🇩🇪 Police Officer RLP 👮🏻‍♀️
     location: "Germany"
-    followers: 55220
-    engagement: 907
-    commentsToLikes: 0.007016
-    id: ck0tvgfhlb8px0i192fmv1bdf
+    followers: 14192
+    engagement: 662
+    commentsToLikes: 0.021326
+    id: ck6twmxudsxg30j71re9np1zy
     verified: true
-    hashtags: "#radklassikerdaheim, #stagewin, #rainorshine, #covid"
-  - username: "geradeaus.at"
+    hashtags: "#pfalzliebe, #sporthilfe, #switzerland, #pf"
+  - username: "liane_lippert"
     fullname: >-
-      geradeaus - cycling blog
+      ᴸᴵᴬᴺᴱ ᴸᴵᴾᴾᴱᴿᵀ
+    bio: >-
+      🇩🇪 Pro Cyclist @teamsunweb 𝒩💞
     location: "Germany"
-    followers: 6041
-    engagement: 869
-    commentsToLikes: 0.033105
-    id: ck8t06a2nqxos0j7862z2l6x4
+    followers: 12604
+    engagement: 1302
+    commentsToLikes: 0.007925
+    id: ck14kg8nspdbi0i19co518oud
     verified: false
-    hashtags: "#zwiftsetup, #schauaufdich, #indoorparty, #ridetogether"
-  - username: "_michael.schwarzmann_"
-    fullname: >-
-      Michael Schwarzmann
-    location: "Germany"
-    followers: 6713
-    engagement: 1431
-    commentsToLikes: 0.007272
-    id: ck5qa7uacezzg0i11vnw7ah0h
-    verified: false
-    hashtags: "#australia, #italy, #adelaide, #giro"
-  - username: "mgconfa"
-    fullname: >-
-      MARIA GIULIA CONFALONIERI
-    location: "Germany"
-    followers: 5186
-    engagement: 1166
-    commentsToLikes: 0.014519
-    id: ck6tynulh4tle0j71o82wvgg6
-    verified: false
-    hashtags: "#orbeachallenges2020, #partnerincrime, #iorestoacasa, #distantimauniti"
-  - username: "martialzi13"
-    fullname: >-
-      Martina Alzini
-    location: "Germany"
-    followers: 14497
-    engagement: 853
-    commentsToLikes: 0.009457
-    id: ck55lpj52242m0i11r80y5rmb
-    verified: false
-    hashtags: "#tappadopotappa, #brisbane, #worldcup, #teampursuit"
-  - username: "maschamulder"
-    fullname: >-
-      Mascha Mulder
-    location: "Germany"
-    followers: 6134
-    engagement: 660
-    commentsToLikes: 0.027013
-    id: ckaoyomvjiedc0i782i1vrfyp
-    verified: false
-    hashtags: "#cyclades, #soonplease, #bikergirl, #friends"
+    hashtags: "#girorosa, #wirsindteamsunweb, #keepchallenging, #creatingmemories"
   - username: "emma_hinzee"
     fullname: >-
       Emma Hinze
+    bio: >-
+      German track cyclist | Olympian | Track Team Brandenburg | 🌈 3x Elite World Champion | 🌈 4x Junior World Champion | 🕒@tissot_official | 🚲@ride_bmc
     location: "Germany"
-    followers: 10414
-    engagement: 1123
-    commentsToLikes: 0.016876
+    followers: 11013
+    engagement: 961
+    commentsToLikes: 0.013716
     id: ck5bv0xk2ishq0i115a1eepah
     verified: true
-    hashtags: "#hirzlgloves, #ridebmc, #hirzlgrippp, #wirbleibenzuhause"
-  - username: "jamesl_w"
+    hashtags: "#reifeleistung, #wirundjetztfu, #teamdeutschland, #wirfuerd"
+  - username: "permuenstermann"
     fullname: >-
-      James Lowsley-Williams
+      Per Christian Münstermann
+    bio: >-
+      Cyclist for Team SKS Germany 🇩🇪
     location: "Germany"
-    followers: 20548
-    engagement: 875
-    commentsToLikes: 0.014160
-    id: ck134mu0px7j70i19f2ceh0y2
+    followers: 22971
+    engagement: 371
+    commentsToLikes: 0.006699
+    id: ckf5p21zt4ono0j23mk88erl2
     verified: false
-    hashtags: "#donttrythisathome, #cycling, #getoutstayout, #quarantine"
+    hashtags: "#madeingermany, #sks, #rideon, #skswash"
+  - username: "i608m"
+    fullname: >-
+      Christopher Haas
+    bio: >-
+      Cyclist 🚴🏼. ⠀⠀⠀⠀ 📍@bayern 🇩🇪. "Get a bicycle. You will not regret it. If you live." Mark Twain
+    location: "Germany"
+    followers: 10031
+    engagement: 658
+    commentsToLikes: 0.004312
+    id: ck15q62ce1a5e0i19mdk5shlk
+    verified: false
+    hashtags: "#openbikes, #oneobsession, #bike, #openbike"
+  - username: "maschamulder"
+    fullname: >-
+      Mascha Mulder
+    bio: >-
+      🇳🇱 Dutch cyclist 📍Founder @amarrowwheels 🚴🏼‍♀️ Cx team @hensmaescxteam ⚡️@duursportnl 💥@gripgrab
+    location: "Germany"
+    followers: 9708
+    engagement: 400
+    commentsToLikes: 0.016834
+    id: ckaoyomvjiedc0i782i1vrfyp
+    verified: false
+    hashtags: "#cyclist, #cyc, #cyclocross, #cyclinglife"
+  - username: "kathrinschafbauer"
+    fullname: >-
+      Kathrin Schafbauer
+    bio: >-
+      Passionate photographer, cyclist, life lover, traveller. 🚴🏽‍♀️ @bikeonscott // @maap.cc 💛📸 @nikondach Based in Bavaria, Germany
+    location: "Germany"
+    followers: 25756
+    engagement: 809
+    commentsToLikes: 0.017197
+    id: ck5zivfyngg400i14pka19he9
+    verified: false
+    hashtags: "#scottaddictrc, #outdoor, #velo, #scottaddict"
+  - username: "nimrakhalid15"
+    fullname: >-
+      Nimragram
+    bio: >-
+      Hijab Fashionist23’ 🇶🇦🇵🇰 Lifestyle Influencer 🍁 Dm for PR/Paid promo/Collab/food tasting. Cyclist, dreamer and DPT✨ Wanna goto Bavaria by Scoty🛵
+    location: "Germany"
+    followers: 135426
+    engagement: 397
+    commentsToLikes: 0.052670
+    id: ck14gsq416u4e0i19jpr1ek9c
+    verified: false
+    hashtags: "#ootd, #modestfashion, #instagram, #modest"
+  - username: "mango.mamaa"
+    fullname: >-
+      Nadja Tröger⚡️
+    bio: >-
+      📍 SW, Germany 🌱 Plant-based cyclist 🧡 Strava: Nadja Tröger @biehlercycling | @tribikecoachkagie
+    location: "Germany"
+    followers: 18175
+    engagement: 503
+    commentsToLikes: 0.040000
+    id: ck0u609o90j6y0i1926ba9fd2
+    verified: false
+    hashtags: "#redaxs, #roadslikethese, #mtb, #zipp302"
 ---

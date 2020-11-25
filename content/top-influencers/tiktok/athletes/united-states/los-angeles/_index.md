@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top athletes TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #athlete #golf #finalsathome.
+  Find top athletes TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #losangeles #duet #dance.
 platform: TikTok
+hits: 26
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 26 TikTok influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "lunathenoodle"
+  - username: "saramaew"
     fullname: >-
-      Luna 🥨
+      Sara Mae
+    bio: >-
+      I spend a lot of my time upside down 🙃
     location: "United States"
-    followers: 33327
-    engagement: 407
-    commentsToLikes: 0.050875
-    id: ck9jw7bjgv8tm0j78dy6grupv
+    followers: 37900
+    engagement: 938
+    commentsToLikes: 0.013931
+    id: ck8qcy0qbm9220j78p7br257q
     verified: false
-    hashtags: "#onecommunity, #goingpro, #train, #baldgirl"
-  - username: "pjfperformance"
+    hashtags: "#dance, #trapeze, #doublestar, #silks"
+  - username: "steviothememeio"
     fullname: >-
-      pjfperformance
+      user846347574608
+    bio: >-
+      Spiderman: Into the Spider-Verse 15:23
     location: "United States"
-    followers: 52817
-    engagement: 1146
-    commentsToLikes: 0.010954
-    id: ck978h5ne80on0j78afqgw6l9
+    followers: 10700
+    engagement: 1442
+    commentsToLikes: 0.164774
+    id: ckd1a7g6ns5xi0j23gb73hm1r
     verified: false
-    hashtags: "#highschool, #footwork, #jumping, #lebron"
+    hashtags: "#dontletthisflop, #fyp, #duet, #christmas"
+  - username: "kys9000"
+    fullname: >-
+      🍃
+    bio: >-
+      Los Angeles Depop: skylerjc Bigballerclaire’s #1 fan
+    location: "United States"
+    followers: 45700
+    engagement: 2276
+    commentsToLikes: 0.023102
+    id: cka0pag4y7goh0i78whk2zq2s
+    verified: false
+    hashtags: "#gymnastics, #foryou, #dormlife, #foryoupage"
+  - username: "kimmymichellee"
+    fullname: >-
+      Kimberly
+    bio: >-
+      Los Angeles BLACK LIVES MATTER Insta @kim.perl Swimwear line: @kimmyskinis
+    location: "United States"
+    followers: 10200
+    engagement: 527
+    commentsToLikes: 0.061517
+    id: ckamiaooojes70i787fk5231e
+    verified: false
+    hashtags: "#fashionessentials, #barb, #duet, #planttips"
+  - username: "novaakan3"
+    fullname: >-
+      Novian Cherry
+    bio: >-
+      🏀Pro Athlete ♦️NUPE 🏠 San Diego, CA Follow me on IG —> @Novaakan3 BLM ✊🏿
+    location: "United States"
+    followers: 349100
+    engagement: 1739
+    commentsToLikes: 0.098973
+    id: ckb0zdez3o43y0j23zi0dkijf
+    verified: true
+    hashtags: "#biden2020, #blm, #fyp, #trump"
+  - username: "jon_koury"
+    fullname: >-
+      Jon Koury
+    bio: >-
+      ⚡️Calisthenics Athlete / Physicist 🔥 IG - @jon_koury Thanks for 65k! 🙏🏼
+    location: "United States"
+    followers: 66000
+    engagement: 2025
+    commentsToLikes: 0.025074
+    id: ck8khiw4lmwts0j78lreffo7e
+    verified: false
+    hashtags: "#venicebeach, #handstand, #backflip, #handstandpushup"
+  - username: "fatitpm"
+    fullname: >-
+      Fatima Martinez
+    bio: >-
+      athlete & college student ✨ follow me on insta @fatimatpm 🥰
+    location: "United States"
+    followers: 2587
+    engagement: 1160
+    commentsToLikes: 0.044780
+    id: ckb9i3h1v81v20j23mcgkvi3s
+    verified: false
+    hashtags: "#parati, #hedgehog, #fyp, #levitating"
+  - username: "derektpratt"
+    fullname: >-
+      derektpratt
+    bio: >-
+      📍LA Kano from Mortal Kombat 11 🎮 Actor/Model/Athlete ⬇️ SUBSCRIBE ⬇️
+    location: "United States"
+    followers: 23900
+    engagement: 936
+    commentsToLikes: 0.065814
+    id: ckb97tezzqthn0j23sq4231l5
+    verified: false
+    hashtags: "#abs, #foryou, #linkinbio, #talkshow"
+  - username: "poplikecorn_"
+    fullname: >-
+      Andrew Friedman
+    bio: >-
+      📍LA 📍 🔥 Flipping athlete 🔥 📧 Andrew@poplikecorn.com 📧 📸 IG-poplikecorn 📸
+    location: "United States"
+    followers: 47800
+    engagement: 1765
+    commentsToLikes: 0.016189
+    id: ck8rpyzronwln0j78j6km1222
+    verified: false
+    hashtags: "#trick, #fyp, #bergtoys, #view"
   - username: "zyrken"
     fullname: >-
       zyrken
+    bio: >-
+      Pro parkour athlete and cinematographer. IG for photo & video content @zyrken
     location: "United States"
-    followers: 39048
-    engagement: 584
-    commentsToLikes: 0.022243
+    followers: 39300
+    engagement: 615
+    commentsToLikes: 0.019136
     id: ck7zoheqck2lb0j78bb9c4alp
     verified: true
-    hashtags: "#dtla, #balance, #hungry, #fast"
-  - username: "pjballa"
-    fullname: >-
-      pjb customs
-    location: "United States"
-    followers: 13868
-    engagement: 549
-    commentsToLikes: 0.020134
-    id: ck8s75a9snp2o0j7813lqspik
-    verified: false
-    hashtags: "#bucket, #nbamoments, #tictokartist, #coolranchdance"
-  - username: "rivalsdotcom"
-    fullname: >-
-      Rivals
-    location: "United States"
-    followers: 13097
-    engagement: 719
-    commentsToLikes: 0.006667
-    id: ck8vuqxvkjooy0j78bdhpr7w6
-    verified: false
-    hashtags: "#morph, #pregame, #floridagators, #tiktokfootball"
-  - username: "nick_knows"
-    fullname: >-
-      Nick
-    location: "United States"
-    followers: 58661
-    engagement: 1541
-    commentsToLikes: 0.048266
-    id: ckai8vait5u1h0i78vv47bqv4
-    verified: false
-    hashtags: "#superbowl, #hulkhogan, #goat, #dinoday"
-  - username: "lifepurposecheerleader"
-    fullname: >-
-      Amber  Valdez
-    location: "United States"
-    followers: 3477
-    engagement: 689
-    commentsToLikes: 0.092227
-    id: ck8oydy1z6s470j78ao5r9b4f
-    verified: false
-    hashtags: "#lightworker, #kidsgotjokes, #californiagirls, #animals"
-  - username: "mattpare"
-    fullname: >-
-      Matt Paré
-    location: "United States"
-    followers: 37707
-    engagement: 1214
-    commentsToLikes: 0.031049
-    id: ck96326a8syma0j78t8tbhaam
-    verified: true
-    hashtags: "#celebritylookalike, #lookalike, #neverfitin, #perfectloop"
-  - username: "tylerpersichini"
-    fullname: >-
-      TIGER
-    location: "United States"
-    followers: 5336
-    engagement: 770
-    commentsToLikes: 0.055869
-    id: ck9k2mnyakwh10j78lxui3kcy
-    verified: false
-    hashtags: "#anklebreaker, #soundon, #crush, #cars"
-  - username: "domitrick"
-    fullname: >-
-      Dom Lewis
-    location: "United States"
-    followers: 548418
-    engagement: 1559
-    commentsToLikes: 0.008100
-    id: ck80ot1cyjtkt0j78q4ex7sko
-    verified: false
-    hashtags: "#competition, #healthheroes, #thatonefriend, #lake"
+    hashtags: "#crazy, #fyp, #parkour, #tiktok"
 ---

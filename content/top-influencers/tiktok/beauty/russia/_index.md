@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Russia In 2020
 description: >-
-  Find top beauty TikTok influencers in Russia in 2020. Most popular hashtags: #shopping #dance #school #lips.
+  Find top beauty TikTok influencers in Russia in 2020. Most popular hashtags: #beauty #makeup #look.
 platform: TikTok
+hits: 63
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 63 TikTok influencers like this in Russia for you to work with.
 profiles:
-  - username: "five2ten"
-    fullname: >-
-      Anastasia
-    location: "Russia"
-    followers: 26016
-    engagement: 920
-    commentsToLikes: 0.019318
-    id: cka0s3s2bjs5h0i78u1gjkkxo
-    verified: false
-    hashtags: "#mugshot, #motd, #rare, #selenagomez"
   - username: "av.coleman"
     fullname: >-
       av.coleman
+    bio: >-
+      Speak 🇷🇺🇬🇧 Beautyblogger/Бьютиблогер 23 y.o.
     location: "Russia"
-    followers: 3380
-    engagement: 666
-    commentsToLikes: 0.037354
+    followers: 3318
+    engagement: 1226
+    commentsToLikes: 0.040922
     id: ck8j96nvom35j0j784teynr92
     verified: false
-    hashtags: "#makeuphome, #oops, #aesthetic, #nameoutfit"
-  - username: "timmy_team"
+    hashtags: "#pov, #makeup, #stayhome, #beauty"
+  - username: "five2ten"
     fullname: >-
-      Timmy Team
+      Anastasia
+    bio: >-
+      Снято на Netflix 🔥INST: Five2ten.beauty 45k+
     location: "Russia"
-    followers: 355971
-    engagement: 2082
-    commentsToLikes: 0.018246
-    id: ck8qfbmssw6xs0j789powpcpz
+    followers: 67200
+    engagement: 1081
+    commentsToLikes: 0.013936
+    id: cka0s3s2bjs5h0i78u1gjkkxo
     verified: false
-    hashtags: "#musiclives, #acnh, #mycrib, #spacethings"
-  - username: "thayers_x_routines"
+    hashtags: "#halloween, #wednesdayaddams, #halloweencountown, #helloween"
+  - username: "dr.beautysense"
     fullname: >-
-      ★ 𝔱𝔥𝔞𝔶𝔢𝔯𝔰 ★
+      ТВОЙ КОСМЕТОЛОГ
+    bio: >-
+      Твой личный врач-косметолог 🌟 Стань лучшей версией СЕБЯ! Инст: dr.beautysense
     location: "Russia"
-    followers: 8008
-    engagement: 1911
-    commentsToLikes: 0.019168
-    id: ckaftrkj86jex0i786oywfdfe
+    followers: 88200
+    engagement: 594
+    commentsToLikes: 0.018884
+    id: ckd175qd0obj40j23f98iecov
     verified: false
-    hashtags: "#serial, #workroutine, #shadowhunters, #cosmetics"
+    hashtags: ""
+  - username: "moon.waterrr"
+    fullname: >-
+      moon.waterrr
+    bio: >-
+      🍂Aesthetic 🍂 🍪Beauty blogger🍪 ✨Angel✨ ☕️📔🍂🧦
+    location: "Russia"
+    followers: 132100
+    engagement: 1942
+    commentsToLikes: 0.007216
+    id: ckd0lfvbvgbwa0j23pth5m1rg
+    verified: false
+    hashtags: "#foryoupage, #look, #vsco, #viral"
+  - username: "christina_gubanova"
+    fullname: >-
+      christina_gubanova
+    bio: >-
+      🔥TOP BEAUTYMAKER🔥 Лайфхаки и прикольчики😍 подпишись😘
+    location: "Russia"
+    followers: 95900
+    engagement: 334
+    commentsToLikes: 0.018317
+    id: ckbepqmak6v6j0j23gd7b7xrr
+    verified: false
+    hashtags: "#makeuptutorials, #makeupartist, #makeup, #hairstyle"
+  - username: "bogdanovich.elena"
+    fullname: >-
+      Bogdanovich Elena
+    bio: >-
+      Beauty & Make-Up ♥️ Instagram 152k YouTube 202k
+    location: "Russia"
+    followers: 64600
+    engagement: 474
+    commentsToLikes: 0.014559
+    id: ckc90fd2vpt400j23kyuphvey
+    verified: false
+    hashtags: ""
+  - username: "simply.and.beauty"
+    fullname: >-
+      Simply & Beauty
+    bio: >-
+      Ногти для $учек / МОСКВА INSTAGRAM : SIMPLY.AND.BEAUTY
+    location: "Russia"
+    followers: 65700
+    engagement: 674
+    commentsToLikes: 0.007138
+    id: ckblhkd99b05n0j23qni2qws0
+    verified: false
+    hashtags: "#fyp, #top, #lilpeep"
   - username: "mixit_ru"
     fullname: >-
       MIXIT
+    bio: >-
+      
     location: "Russia"
-    followers: 9710
-    engagement: 1545
-    commentsToLikes: 0.014465
+    followers: 9607
+    engagement: 1195
+    commentsToLikes: 0.067058
     id: ckacvkphko55o0i78lhbmaomp
     verified: false
-    hashtags: "#makeu, #cosmetic, #toptiktok, #bamboo"
-  - username: "jagermiss"
+    hashtags: "#beaty, #stayhome, #mixit, #challenge"
+  - username: "sufarigo"
     fullname: >-
-      user1654667513542
+      SUFARIGO
+    bio: >-
+      💎 INST: sufarigo 💎 🌸Не воспринимайте все в серьез🌸
     location: "Russia"
-    followers: 2838
-    engagement: 1130
-    commentsToLikes: 0.019286
-    id: ck9euik41dpmk0j78aihweodt
+    followers: 3638
+    engagement: 1288
+    commentsToLikes: 0.040069
+    id: cka0w1d1n0x9x0i78hbye8jjk
     verified: false
-    hashtags: "#makeuplook, #witch, #mask, #neon"
-  - username: "fashion.world"
+    hashtags: "#me, #colour, #friends, #beauty"
+  - username: "annakalash47"
     fullname: >-
-      Fashion
+      Анна Калашникова
+    bio: >-
+      Певица 🎤 Телеведущая 📺 Актриса 🎬 Бьюти-блогер 💞 Insta - 1.5 🍋 @annakalash
     location: "Russia"
-    followers: 63675
-    engagement: 796
-    commentsToLikes: 0.007096
-    id: ck81t1eahup4e0j781b67x2yq
-    verified: false
-    hashtags: "#dancer, #dancelife, #hiphop, #moda"
-  - username: "elka_singer"
-    fullname: >-
-      Ёлка
-    location: "Russia"
-    followers: 24476
-    engagement: 1151
-    commentsToLikes: 0.053765
-    id: ckan20pgmy9680i78cnyxxyp4
+    followers: 41000
+    engagement: 493
+    commentsToLikes: 0.112675
+    id: ckbfew4o7985w0j23cployyhn
     verified: true
-    hashtags: "#mymakeup, #fun, #selfisolation, #sportchallenge"
-  - username: "e.alyona"
-    fullname: >-
-      ALYONK
-    location: "Russia"
-    followers: 14823
-    engagement: 1443
-    commentsToLikes: 0.038685
-    id: ck9fmsiq1uwz00j786tffce3h
-    verified: false
-    hashtags: "#armosphere, #eyemakeup, #makeuptutorial, #aesthetic"
-  - username: "vsco_giirrll"
-    fullname: >-
-      aesthetic
-    location: "Russia"
-    followers: 6060
-    engagement: 2285
-    commentsToLikes: 0.016535
-    id: ckaftri1d6ip20i788efupe8y
-    verified: false
-    hashtags: "#beauty, #sport, #time, #beautiful"
+    hashtags: "#beauty, #fashion, #spiderman, #irobot"
 ---

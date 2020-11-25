@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In France In 2020
 description: >-
-  Find top gardening Instagram influencers in France in 2020. Most popular hashtags: #gardening #garden #flowerstagram #green.
+  Find top gardening Instagram influencers in France in 2020. Most popular hashtags: #garden #gardening #flowers #nature.
 platform: Instagram
+hits: 65
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 65 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "hvittogslitt"
+    fullname: >-
+      TMN
+    bio: >-
+      •Based in Norway. •House from 1920 •Stylist, decorator & vintage dealer •Gardening •Vanlifer
+    location: "France"
+    followers: 2289
+    engagement: 1063
+    commentsToLikes: 0.064189
+    id: ck8tddano2wh30j78ebzjoj59
+    verified: false
+    hashtags: "#vintage, #styling, #patina, #pets"
   - username: "belles_decos"
     fullname: >-
       🌸🐰🌿🌸🐰🌿🌸🐰🌿🌸🐰🌿🌸
+    bio: >-
+      Enchanted By Traditional Decoration, Gardening And Luxury. From Paris With Love 📧 belles.decos.info@gmail.com
     location: "France"
-    followers: 87288
-    engagement: 259
-    commentsToLikes: 0.006400
+    followers: 86485
+    engagement: 192
+    commentsToLikes: 0.004476
     id: ck15u2dhml3200i19nems3vqd
     verified: false
-    hashtags: "#gardenstyle, #beautifulgardens, #gardenlove, #visitlondon"
-  - username: "doctomax"
+    hashtags: "#buxus, #gardeninspiration, #decor, #homedecor"
+  - username: "flowers_are_coming"
     fullname: >-
-      Doctomax
+      Yann Lelièvre
+    bio: >-
+      France 🇫🇷 Capturing the diversity of flowers and colors All photos were taken by me.
     location: "France"
-    followers: 4996
-    engagement: 2192
-    commentsToLikes: 0.044366
-    id: ck9hc83kgk6p00j78gv562vt8
+    followers: 10030
+    engagement: 2389
+    commentsToLikes: 0.085183
+    id: ck0w5w93r5qfj0i199k319l63
     verified: false
-    hashtags: "#animals, #coronavirus, #freckles, #sunday"
-  - username: "its.baptiste"
+    hashtags: "#instaflower, #flower, #botanical, #photographer"
+  - username: "timothycorrigan"
     fullname: >-
-      BAPTISTE GARON 🙏🏼
+      Timothy Corrigan
+    bio: >-
+      Interior and Product design with offices in Los Angeles and Paris. ElleDecor A-List, AD Top 100, Luxe Gold List, Robb Report Top 40.
     location: "France"
-    followers: 8753
-    engagement: 1029
-    commentsToLikes: 0.070262
-    id: ck5zmozibmyea0i14rta6zpm3
+    followers: 36869
+    engagement: 738
+    commentsToLikes: 0.087880
+    id: ck0vy8wlq2sth0i196e7cojv6
     verified: false
-    hashtags: "#cluseclub, #collab, #gardening, #confinement"
-  - username: "lapetiteblesoise"
+    hashtags: "#renovation, #trees, #interiors, #paint"
+  - username: "emmanuel_tarpin"
     fullname: >-
-      La petite Blésoise
+      Emmanuel Tarpin
+    bio: >-
+      • One-of-a-kind high jewelry • Paris • Please email Contact@emmanueltarpin.com for inquiries
     location: "France"
-    followers: 8659
-    engagement: 611
-    commentsToLikes: 0.529252
-    id: ckap4ynnr9ea70i78bzr83jio
+    followers: 19337
+    engagement: 891
+    commentsToLikes: 0.047851
+    id: ck5qc261ooi050i11uvjl7vel
     verified: false
-    hashtags: "#interiordesign, #streetstyle, #confinement, #concoursdeco"
+    hashtags: "#flower, #naturelovers, #jewelry, #plant"
+  - username: "thecashells"
+    fullname: >-
+      Jason + Casey Cashell
+    bio: >-
+      🔸Behind the Scenes Living @MayhurstEstate 🔸Behind the Scenes Bed & Breakfast 🥞 🔸Artisan Kids⚒️ + HOMESTEAD👩🏼‍🌾 🔸French Country Lifestyle 🧡Gospel Hope
+    location: "France"
+    followers: 5305
+    engagement: 667
+    commentsToLikes: 0.108341
+    id: ck9wd2hebdryh0j78z327y3yk
+    verified: false
+    hashtags: "#goldenhourphotography, #fallisintheair, #gardenideas, #countrysidelife"
+  - username: "danieladrescher_studio"
+    fullname: >-
+      Daniela Drescher
+    bio: >-
+      children's book author & illustrator fabric, ceramic & paper design 🌿 mail@danieladrescher.com
+    location: "France"
+    followers: 13075
+    engagement: 669
+    commentsToLikes: 0.042027
+    id: ck5hpagqlr13a0i11icod6wef
+    verified: false
+    hashtags: "#gartenliebe, #education, #outdoor, #gardening"
+  - username: "seb_gardener"
+    fullname: >-
+      Sébastien Deboudt
+    bio: >-
+      Head gardener, 16th arrondissement, Paris 🌿🌿🌿
+    location: "France"
+    followers: 5768
+    engagement: 792
+    commentsToLikes: 0.020751
+    id: ck55lyk5t2rf50i11otjwqd8s
+    verified: false
+    hashtags: "#gardenersofinstagram, #giardino, #tuin, #gardens"
+  - username: "vincentcallebautarchitectures"
+    fullname: >-
+      Vincent Callebaut Archibiotect
+    bio: >-
+      Green & Smart Archibiotics Inspired By Biomimicry to Build Together a Sustainable Future 🌿🌱🍃
+    location: "France"
+    followers: 71413
+    engagement: 212
+    commentsToLikes: 0.011586
+    id: ck0u8lxy67pma0i19xijms7le
+    verified: false
+    hashtags: "#crosslaminatedtimber, #paris, #canal, #solidarity"
   - username: "thomasroguet"
     fullname: >-
       To
+    bio: >-
+      22 yo, Saint-Rémy-de-Provence 🇫🇷 «If u don’t know my story, you’re about to»
     location: "France"
-    followers: 7001
-    engagement: 2542
-    commentsToLikes: 0.018324
+    followers: 8047
+    engagement: 2395
+    commentsToLikes: 0.016335
     id: ck8tcwis10ycm0j78nnefo2sv
     verified: false
-    hashtags: "#soiree, #gaycute, #exchangeoficial, #passthebrush"
-  - username: "morgan.grigoris"
-    fullname: >-
-      Krash Doll🤙
-    location: "France"
-    followers: 7483
-    engagement: 878
-    commentsToLikes: 0.050777
-    id: ck5zkfy0yjepy0i14n3q8uyo8
-    verified: false
-    hashtags: "#riding, #theshowmustgoon, #lemmykilmister, #sunnywinter"
-  - username: "ga.hia"
-    fullname: >-
-      
-    location: "France"
-    followers: 15384
-    engagement: 379
-    commentsToLikes: 0.194488
-    id: ck0vyoyme52ul0i195ma587n6
-    verified: false
-    hashtags: "#fitness, #bougie, #homestayhome, #fleursdeschamps"
-  - username: "traumer_music"
-    fullname: >-
-      Traumer
-    location: "France"
-    followers: 27838
-    engagement: 431
-    commentsToLikes: 0.031676
-    id: ck0vw17p3rnc40i19uo2ikwrh
-    verified: false
-    hashtags: "#release, #adakaleh, #spotify, #yesorno"
-  - username: "alexebriand"
-    fullname: >-
-      A L E X A N D R A
-    location: "France"
-    followers: 7394
-    engagement: 532
-    commentsToLikes: 0.038926
-    id: ck5zx0og8744m0i1455li9c65
-    verified: false
-    hashtags: "#explore, #23monthsold, #mother, #familytravel"
-  - username: "maptiotte"
-    fullname: >-
-      ✨Sylvie✨
-    location: "France"
-    followers: 10365
-    engagement: 1215
-    commentsToLikes: 0.172975
-    id: ck9wec1erjma60j78n41l3dpg
-    verified: false
-    hashtags: "#gardening, #spring, #detox, #champagne"
+    hashtags: "#confinement, #tbt, #gay, #gayman"
 ---

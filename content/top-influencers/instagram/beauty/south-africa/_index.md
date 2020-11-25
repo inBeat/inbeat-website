@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In South Africa In 2020
 description: >-
-  Find top beauty Instagram influencers in South Africa in 2020. Most popular hashtags: #giveaway #lockdown #styleinspo #tiktok.
+  Find top beauty Instagram influencers in South Africa in 2020. Most popular hashtags: #ootd #fashionblogger #styleinspo #styleblogger.
 platform: Instagram
+hits: 295
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 295 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "kylieshanay"
-    fullname: >-
-      𝐊𝐘𝐋𝐈𝐄 𝐒𝐇𝐀𝐍𝐀𝐘 | 𝐁𝐄𝐀𝐔𝐓𝐘 🤍
-    location: "South Africa"
-    followers: 6814
-    engagement: 1966
-    commentsToLikes: 0.762247
-    id: ck0vvdzuvopko0i19s0o59y26
-    verified: false
-    hashtags: "#loveguess, #maybelline, #maybellinemasterbronze, #proudsouthafrican"
   - username: "siya_hashe"
     fullname: >-
-      Siyamthanda Hashe
+      Siyamthanda Hashe 🤍
+    bio: >-
+      Beauty, Fashion & Lifestyle 📍Cape Town 📚👩🏽‍🎓 Chair: @amaqhawekazi_ec 💎
     location: "South Africa"
-    followers: 5591
-    engagement: 1804
-    commentsToLikes: 0.069504
+    followers: 6126
+    engagement: 1791
+    commentsToLikes: 0.083913
     id: ckaoziugtm2q40i78y3toxzf0
     verified: false
-    hashtags: ""
-  - username: "nicole.gibbons"
+    hashtags: "#blackouttuesday"
+  - username: "lechellealdridge"
     fullname: >-
-      NICOLE T. GIBBONS
+      Le’Chelle Aldridge
+    bio: >-
+      Your very normal friend who always keeps it real, honest & fun. Midsize style | Beauty | Body Positivity | Lifestyle Lechelle@taylormde.com
     location: "South Africa"
-    followers: 12505
-    engagement: 744
-    commentsToLikes: 0.136125
-    id: ck9wfav3fo0v00j782q0ik9xq
+    followers: 17211
+    engagement: 509
+    commentsToLikes: 0.088208
+    id: ckapcqsbg4tl20i78yw9yay1a
     verified: false
-    hashtags: "#2020, #healthyathome, #lovetolounge, #lawstudent"
-  - username: "cindy_nell"
+    hashtags: "#eucerinsunmythbuster, #hmxme, #hmsouthafrica, #eucerinsunsafety"
+  - username: "jessica_vanheerden"
     fullname: >-
-      Cindy Nell-Roberts
+      Jessica van Heerden
+    bio: >-
+      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
     location: "South Africa"
-    followers: 50448
-    engagement: 253
-    commentsToLikes: 0.054636
-    id: ck0w5vsud5nwv0i192cbxhgra
-    verified: true
-    hashtags: "#beautyqueens, #lookgoodfeelbetter, #internationalmodels, #tvpresenters"
-  - username: "kissblushandtell"
-    fullname: >-
-      KISS, BLUSH & TELL
-    location: "South Africa"
-    followers: 37394
-    engagement: 254
-    commentsToLikes: 0.070006
-    id: ck5q8fzye5ztx0i11tha1d1zz
+    followers: 41896
+    engagement: 677
+    commentsToLikes: 0.029140
+    id: ck135ukud3bat0i199i7ol35t
     verified: false
-    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
-  - username: "rochelle_vv"
+    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
+  - username: "mspaulabee"
     fullname: >-
-      Rochelle van Vuuren
+      Ms Paula Bee
+    bio: >-
+      Curly-Headed Brown Girl 🦋 Daughter of the King ✨🇿🇦 Married to @lowdl 👰🏽🤵🏽 I create fashion, beauty & lifestyle content! #CWSquad @canalwalk
     location: "South Africa"
-    followers: 19007
-    engagement: 788
-    commentsToLikes: 0.089776
-    id: ck5hhf70v7wkh0i11u0bw6tpu
+    followers: 50164
+    engagement: 419
+    commentsToLikes: 0.034196
+    id: ck5hkoywvit0w0i11ghe3b4ww
     verified: false
-    hashtags: "#ifbbsa, #5coursemeal, #photoinspo, #healthy"
-  - username: "lerato_seuoe"
+    hashtags: "#foschiniallwoman, #labello111years, #cwsquad, #sponsored"
+  - username: "fashionfundi"
     fullname: >-
-      Lerato Seuoe
+      Tarryn Candice Els
+    bio: >-
+      South African Award Winning Content Creator & Blogger Fashion | Beauty | Travel | Lifestyle 💌 fashionfundiblog@gmail.com
     location: "South Africa"
-    followers: 51813
-    engagement: 457
-    commentsToLikes: 0.033366
-    id: ck6tu97h8f0kc0j71bf3m9ucj
+    followers: 24086
+    engagement: 201
+    commentsToLikes: 0.145856
+    id: ck6u3mc62ylxs0j717hq7pfg0
     verified: false
-    hashtags: "#wcw, #davidtlalexavon, #clicksbeauty, #veuverichxnomzamo"
-  - username: "nikitajoshua"
+    hashtags: "#instareels, #summer2020, #highendfashion, #instafashion"
+  - username: "sayladean"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      S A Y L A 🇿🇦
+    bio: >-
+      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 ❤️ NEW WEEKLY VLOG⤵️
     location: "South Africa"
-    followers: 29546
-    engagement: 538
-    commentsToLikes: 0.025717
-    id: ck5q1k1wmbddf0i113a465475
+    followers: 38996
+    engagement: 569
+    commentsToLikes: 0.050090
+    id: ck0u21mp5ylih0i19wt4gk04m
     verified: false
-    hashtags: "#obedient, #ilovethelot, #fyp, #beautymode"
-  - username: "meranda_meerra"
+    hashtags: "#prosanahair, #realgirlsofbody, #mycottonon, #loccitaneimmortelle"
+  - username: "fabulousoverfifty_"
+    fullname: >-
+      Diana Bellingan🇿🇦
+    bio: >-
+      BREAST CANCER SURVIVOR 💗•50+ INFLUENCER • MOTIVATIONAL SPEAKER •Sharing my love of fashion&beauty with women over 50! DM for collabs 📍South Africa
+    location: "South Africa"
+    followers: 37383
+    engagement: 113
+    commentsToLikes: 0.066551
+    id: ck14jt8lsm2g50i19yzhj6fmg
+    verified: false
+    hashtags: "#confidentwomen, #lookoftheday, #strongwomen, #fitover50"
+  - username: "merandapillay"
     fullname: >-
       Meranda Pillay
+    bio: >-
+      Welcome to a glimpse of my creations 📎 life, style, beauty, creative 📍 Cape Town 🇿🇦 🎬 YouTube: Latest video ⬇️
     location: "South Africa"
-    followers: 7134
-    engagement: 557
-    commentsToLikes: 0.097356
+    followers: 8195
+    engagement: 418
+    commentsToLikes: 0.095342
     id: ck6to4q7pc2yq0j718rh58n8p
     verified: false
-    hashtags: "#glam, #sweats, #positivevibes, #facial"
-  - username: "her.scattered.petals"
+    hashtags: "#crueltyfree, #motd, #thebodyshopsouthafrica, #hairstyles"
+  - username: "withlovebloomingrose"
     fullname: >-
-      Loren Best | Content Creator
+      A M I N A H
+    bio: >-
+      Cape Town🇿🇦 Ambassador for the best! @sarahsglambar & @vitalbabysa Mom to doggos and 2 humans🤍 Garden Lover🌿 Fashion | Beauty | Mamahood | Lifestyle
     location: "South Africa"
-    followers: 6704
-    engagement: 461
-    commentsToLikes: 0.239296
-    id: ck6u2dkpzr77g0j71ew4vlafs
+    followers: 42147
+    engagement: 28
+    commentsToLikes: 0.136759
+    id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
-    hashtags: "#lockdown, #gift, #onlinestore, #naturalbeauty"
+    hashtags: "#fashionbloggers, #beautybloggers, #whatiwore, #fbloggers"
+  - username: "ruthxfolarin"
+    fullname: >-
+      Ruth Oyindamola Folarin 🦋
+    bio: >-
+      Boss babe 🤍 @molamgmt @molaonline —— fashion • style • beauty —— johannesburg, South Africa —— business: info@ruthxfolarin.com
+    location: "South Africa"
+    followers: 11408
+    engagement: 632
+    commentsToLikes: 0.041448
+    id: ck14jt9dom2in0i19y2mbyqpi
+    verified: false
+    hashtags: "#fashion, #mycottonon, #ruthfolarinwears, #cottononcrew"
 ---

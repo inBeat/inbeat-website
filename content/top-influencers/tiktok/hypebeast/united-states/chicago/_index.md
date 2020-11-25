@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast TikTok Influencers In Chicago In 2020
 description: >-
-  Find top hypebeast TikTok influencers in Chicago in 2020. Most popular hashtags: #offwhite #asmr #nike #michaeljordan.
+  Find top hypebeast TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
 platform: TikTok
+hits: 6
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 6 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "kicksinthe216"
+  - username: "hirizekickz"
     fullname: >-
-      kicksinthe216
+      Hi-Rizekickz
+    bio: >-
+      Typical Sneakerhead🔥 FB: Hi-rizekickz IG: Hirizekickz Worldwide shipping✈️
     location: "United States"
-    followers: 16446
-    engagement: 772
-    commentsToLikes: 0.006505
-    id: ck9a6qmzr4ctg0j78hkkitflu
+    followers: 7082
+    engagement: 1393
+    commentsToLikes: 0.041047
+    id: cka9lauph1zti0i7867da44uh
     verified: false
-    hashtags: "#voiceover, #stockx, #legend, #3vetsdance"
-  - username: "stevenatto24"
+    hashtags: "#thesongofus, #duet, #nike, #travisscott"
+  - username: "colehosman"
     fullname: >-
-      Steve Natto
+      Cole Hosman
+    bio: >-
+      Chicago Use code: cole ⬇️
     location: "United States"
-    followers: 18243
-    engagement: 792
-    commentsToLikes: 0.035010
-    id: ck83ywh9jwd510j7855ysoyks
+    followers: 346300
+    engagement: 755
+    commentsToLikes: 0.007792
+    id: ck9773pkf2kl50j789rrhxdlc
     verified: false
-    hashtags: "#nba2k, #jordan4s, #royaltoe1, #chicago1s"
-  - username: "hypebeast"
+    hashtags: "#skateboarding, #foryoupage, #skaterboy, #fyp"
+  - username: "officialenvyhype"
     fullname: >-
-      HYPEBEAST
+      EnvyHype
+    bio: >-
+      Your Favourite Reseller 😱 Instagram: @EnvyHype
     location: "United States"
-    followers: 645331
-    engagement: 1353
-    commentsToLikes: 0.013838
-    id: ck80crnnyat9w0j782gds869q
-    verified: true
-    hashtags: "#goals, #yummy, #chef, #hack"
+    followers: 2641
+    engagement: 1082
+    commentsToLikes: 0.066425
+    id: ckd0k4ysmfrne0j23623j08u3
+    verified: false
+    hashtags: "#adidas, #shoes, #sneakers, #customshoes"
+  - username: "getgulley"
+    fullname: >-
+      Tabrin Gulley
+    bio: >-
+      I LIKE MAKIN STUFF... Oh yea! And shoes! 11K ? 😂 Check the IG
+    location: "United States"
+    followers: 11000
+    engagement: 1655
+    commentsToLikes: 0.032064
+    id: ck9ohnc42c1g00j78xnym8uvw
+    verified: false
+    hashtags: "#lakers, #foryou, #sneakers, #sneakerhead"
+  - username: "sneakervideos"
+    fullname: >-
+      HYPEBEAST SNEAKERS
+    bio: >-
+      🔥SNEAKER CONTENT🔥 Follow👉 @hypehuddle on Instagram! Credit to original owner!
+    location: "United States"
+    followers: 7496
+    engagement: 1744
+    commentsToLikes: 0.055646
+    id: ck9eo4w3lmgpg0j78n4mhg7hg
+    verified: false
+    hashtags: "#sneakerlover, #af1, #xyzbca, #yeezy"
   - username: "benhui_benhui_benhui_ben"
     fullname: >-
       Benhui
+    bio: >-
+      I’m smoking tooka so I’m lookin like a Asian
     location: "United States"
-    followers: 2781
-    engagement: 1003
-    commentsToLikes: 0.075834
+    followers: 3392
+    engagement: 994
+    commentsToLikes: 0.018360
     id: ck9r8iayycesi0j780jsri9yp
     verified: false
-    hashtags: "#keepingactive, #foreal, #travelthrowback, #savage"
-  - username: "desert_drinks"
-    fullname: >-
-      Desert Drinks
-    location: "United States"
-    followers: 24718
-    engagement: 1405
-    commentsToLikes: 0.013380
-    id: ck8vw3eu3ncz40j78gbrhvfov
-    verified: false
-    hashtags: "#chicago, #supportlocal, #supreme, #childhood"
-  - username: "royalartdesign21"
-    fullname: >-
-      Royal Art & Design
-    location: "United States"
-    followers: 3652
-    engagement: 837
-    commentsToLikes: 0.013488
-    id: ck8f9vag63vr70j78l5sylao8
-    verified: false
-    hashtags: "#covid19, #satisfyingvideo, #michaeljordan, #fullhouse"
-  - username: "gigamas"
-    fullname: >-
-      Gig P
-    location: "United States"
-    followers: 30567
-    engagement: 950
-    commentsToLikes: 0.045542
-    id: ck80crqpratyf0j783wzak8gw
-    verified: false
-    hashtags: "#greenscreen, #jordan, #putafingerdown, #unboxing"
-  - username: "sheikhscloset"
-    fullname: >-
-      Sheikhs Closet
-    location: "United States"
-    followers: 16479
-    engagement: 1209
-    commentsToLikes: 0.078964
-    id: ck8z7bubspi2z0j78q6qb6lat
-    verified: false
-    hashtags: "#natureathome, #sneakerunboxing, #homeproject, #girlfriend"
+    hashtags: "#neverfitin, #eatemup, #duet, #youngthug"
   - username: "ashdiamond"
     fullname: >-
       ash
+    bio: >-
+      Sacramento’s Biggest Hypebeast
     location: "United States"
-    followers: 45855
-    engagement: 1061
-    commentsToLikes: 0.013326
+    followers: 46600
+    engagement: 1081
+    commentsToLikes: 0.018371
     id: ck8vwdgn2o6us0j78syt8r3c7
     verified: false
-    hashtags: "#reality, #animalsreact, #lamborgini, #firechallenge"
+    hashtags: "#foryouppage, #lambo, #exotic, #fyp"
+  - username: "andihyll"
+    fullname: >-
+      alyson yates
+    bio: >-
+      chaotic good hypebeast twitter and the gram @andihyll
+    location: "United States"
+    followers: 52900
+    engagement: 1209
+    commentsToLikes: 0.007935
+    id: ckbkwm2qxscol0j23xjvo5dx1
+    verified: false
+    hashtags: "#imbaby, #viralvibes, #justdancemoves, #fyp"
   - username: "hypebeast"
     fullname: >-
       HYPEBEAST
+    bio: >-
+      CEO of Culture
     location: "United States"
-    followers: 645331
-    engagement: 1353
-    commentsToLikes: 0.013838
+    followers: 887400
+    engagement: 1526
+    commentsToLikes: 0.010076
     id: ck80crnnyat9w0j782gds869q
     verified: true
-    hashtags: "#goals, #yummy, #chef, #hack"
+    hashtags: "#diyproject, #howto, #foryou, #ig"
+  - username: "adrianthedipper"
+    fullname: >-
+      Adrianthedipper
+    bio: >-
+      I hydro dip stuff & post random videos! Comment say hi 😃
+    location: "United States"
+    followers: 89700
+    engagement: 2208
+    commentsToLikes: 0.023176
+    id: ckanlzi4cb46c0i78b6h5zrb6
+    verified: false
+    hashtags: "#hypebeast, #hydrodipping, #magnetfishing, #picker"
 ---

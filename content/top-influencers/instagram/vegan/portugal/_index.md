@@ -1,62 +1,77 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Portugal In 2020
 description: >-
-  Find top vegan Instagram influencers in Portugal in 2020. Most popular hashtags: #vegansofig #veganrecipe #veganfoodshare #giveaway.
+  Find top vegan Instagram influencers in Portugal in 2020. Most popular hashtags: #mentalhealth #protein #plantbased.
 platform: Instagram
+hits: 34
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 34 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "florindalopes"
+  - username: "thefruitgoddesss"
     fullname: >-
-      FLO | LIFESTYLE BLOGGER
+      Andrea | 📍Spain🌴
+    bio: >-
+      Vegan Travel Girl🌸 Eat more plants & travel often 🌎 Say hi💌 thefruitgoddess1@gmail.com Travel Guides & Lightroom Presets⬇️
     location: "Portugal"
-    followers: 6651
-    engagement: 1104
-    commentsToLikes: 0.080495
-    id: ck0u8yved8msd0i19xe8fbdjx
-    verified: false
-    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
-  - username: "inkofjulie"
-    fullname: >-
-      𝒥𝓊𝓁𝒾𝑒 • 𝐿𝒾𝓈𝒷𝑜𝓃 𝒯𝒶𝓉𝓉𝑜𝑜
-    location: "Portugal"
-    followers: 37369
-    engagement: 1235
-    commentsToLikes: 0.304676
-    id: ck8swzeowfpz60j78arqvwa7t
-    verified: false
-    hashtags: "#tatto, #t2me, #tattoodo"
-  - username: "nour.livia"
-    fullname: >-
-      Nour Livia
-    location: "Portugal"
-    followers: 22691
-    engagement: 338
-    commentsToLikes: 0.036845
-    id: ck55pxkgebllf0i11njkvzarr
+    followers: 79540
+    engagement: 152
+    commentsToLikes: 0.193235
+    id: ck55ltvvc2f5o0i11rdq905c2
     verified: false
     hashtags: ""
-  - username: "thecristinamantas_"
+  - username: "jonvenus"
     fullname: >-
-      Cristina Margarida Mantas 𓂀 ☾
+      Jon Venus
+    bio: >-
+      My mission is to help you THRIVE🌱✨ 🔸Health🔸Nutrition🔸Mindset 👇🏼Coaching, Vegan Plans & eBooks
     location: "Portugal"
-    followers: 25998
-    engagement: 208
-    commentsToLikes: 0.017630
-    id: ck55pz81kbpu20i11dv7obsp0
-    verified: false
-    hashtags: ""
-  - username: "beatrizmoliz"
+    followers: 182882
+    engagement: 111
+    commentsToLikes: 0.035711
+    id: ck0u8sdvb86vc0i19svaj0t0s
+    verified: true
+    hashtags: "#dateswithdates, #itsoktochangeyourmind, #veganbodybuilding, #easiersaidthandone"
+  - username: "susannameeow"
     fullname: >-
-      Beatriz Moliz 🌿
+      susanna
+    bio: >-
+      vegan✖️edge| |cats and plants 🐱🌱| |anti animal cruelty🐥|ocean addicted🌊| work: @_susannapaul 💌 susannameeow@gmail.com
     location: "Portugal"
-    followers: 30494
-    engagement: 301
-    commentsToLikes: 0.124512
-    id: ck14ho9w7bbpc0i19b4fpbxyk
+    followers: 120268
+    engagement: 631
+    commentsToLikes: 0.003898
+    id: ck5q7vthl3a7n0i112ywil7um
     verified: false
-    hashtags: "#batidora, #batchcooking, #escueladecocinaonline, #recetasveganasfacil"
+    hashtags: "#girlswithink, #ink, #tattoo, #travel"
+  - username: "sunchasingtravelers"
+    fullname: >-
+      Eco Lifestyle & Travel
+    bio: >-
+      Lea & Stefan 🌿 Mindful & Sustainable Living ✨ Eco Travel | Vegan | Sustainability Blog Check out our blog to read more:
+    location: "Portugal"
+    followers: 42482
+    engagement: 557
+    commentsToLikes: 0.180565
+    id: ck0ue9bsqktr30i19nvwyqvo4
+    verified: false
+    hashtags: "#inspiredtravelcouples, #portugaltravel, #ecotravel, #lisbonportugal"
+  - username: "lucas_rays"
+    fullname: >-
+      Lucas
+    bio: >-
+      Vegan🍀 Artist 🎨🎨🖌 Product Designer🍥 Architecture 👨‍💼🌆
+    location: "Portugal"
+    followers: 12410
+    engagement: 803
+    commentsToLikes: 0.023073
+    id: ckaoze1iolgn30i786s2yi0j0
+    verified: false
+    hashtags: "#greektemple, #sicily, #agrigento, #fallen"
   - username: "sofiadinis.sheisart"
     fullname: >-
       S O F I A   D I N I S
+    bio: >-
+      SHE IS ART | private tattoo studio | vegan tattoo 🌿 Lisboa, Portugal AGENDA ENCERRADA vamos tatuar? • contacto | 914119097 •
     location: "Portugal"
     followers: 96103
     engagement: 437
@@ -64,44 +79,52 @@ profiles:
     id: ck8syzilammls0j78ghzny9g6
     verified: false
     hashtags: "#mesasbohemiaemcasa, #mesabohemiaemcasa, #pub, #sejarespons"
-  - username: "cozinhalternativa"
+  - username: "ana_marta_dias"
     fullname: >-
-      Van Machado
+      Ana Marta
+    bio: >-
+      ⋒ 𝘁𝗿𝘂𝘀𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗳𝗹𝗼𝘄 𝗼𝗳 𝗹𝗶𝗳𝗲 ⋒ ‣ video, photography, art love our mama 🌍 ∴ vegan ∴ plants heal ☽ for the right to explore our consciousness work ↡ ↡ ↡
     location: "Portugal"
-    followers: 32272
-    engagement: 320
-    commentsToLikes: 0.017115
-    id: ck6ub844b81a50j71zmt7s6tr
+    followers: 7087
+    engagement: 986
+    commentsToLikes: 0.022005
+    id: ck5cd09bdib020i119tvn4adz
     verified: false
-    hashtags: "#compassion, #talklessdomore, #randomfood, #happynewyear"
-  - username: "awle"
-    fullname: >-
-      Andreia Coutinho️️️️
-    location: "Portugal"
-    followers: 22834
-    engagement: 589
-    commentsToLikes: 0.017010
-    id: ck135h53r1e600i19av6un5px
-    verified: false
-    hashtags: "#euzinhos, #80s, #artsyfartsy, #backinblack"
+    hashtags: "#elements, #35mm, #light, #mystic"
   - username: "miguelthevegan"
     fullname: >-
       Miguel
+    bio: >-
+      👨‍🎓 | Certified Personal Trainer & Vegan Nutritionist 💪 | 1-on-1 Coaching 🌊 | Vegan Surf Retreat @green_waves_portugal 🌱 | MIGUEL10 @vivolife 10% OFF
     location: "Portugal"
     followers: 21677
     engagement: 253
     commentsToLikes: 0.058523
     id: ck8t1d3xjvb1t0j78hu95cydr
     verified: false
-    hashtags: "#covid, #emotions, #fridaymotivation, #carbup"
-  - username: "dearviola"
+    hashtags: "#quarantineworkout, #coffee, #nutrition, #plantprotein"
+  - username: "adrianhowellcoaching"
     fullname: >-
-      Travel | Lifestyle | Inspo
+      Adrian Howell
+    bio: >-
+      ⛰ Holistic Health Coach⁣⁣⁣ 🏃‍♂️ Endurance Athlete ⁣⁣ 🌱 Vegan supported by @plantathletic @envecomposites @we_are_sungod
     location: "Portugal"
-    followers: 20156
-    engagement: 1327
-    commentsToLikes: 0.382635
-    id: ck15r5t5969xj0i19nqtgf3vh
+    followers: 10753
+    engagement: 552
+    commentsToLikes: 0.015042
+    id: ck6tjjwbm2uwz0j71gws7hqdv
     verified: false
-    hashtags: "#pinklove, #skinfood, #podroze, #travelblogger"
+    hashtags: "#catdad"
+  - username: "cozinhalternativa"
+    fullname: >-
+      Van Machado
+    bio: >-
+      Offline ❌ Vegan Recipes & more ⬇️
+    location: "Portugal"
+    followers: 31044
+    engagement: 340
+    commentsToLikes: 0.017277
+    id: ck6ub844b81a50j71zmt7s6tr
+    verified: false
+    hashtags: "#vegangirl, #slowblogging, #climatechange, #offline"
 ---

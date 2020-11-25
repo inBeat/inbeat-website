@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In New York In 2020
 description: >-
-  Find top makeup Instagram influencers in New York in 2020. Most popular hashtags: #makeup #newyork #stayhome #timessquare.
+  Find top makeup Instagram influencers in New York in 2020. Most popular hashtags: #makeup #newyork #love #photography.
 platform: Instagram
+hits: 551
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 551 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "maite.mua"
+  - username: "not.srry"
     fullname: >-
-      M Λ I T E
+      سيده
+    bio: >-
+      I don’t smoke blunts I smoke cars 💨 // #f83 Ⓜ️4️⃣ 🏎 ✨
     location: "United States"
-    followers: 10692
-    engagement: 650
-    commentsToLikes: 0.077364
-    id: ck6tlqbhr6g2w0j718ihaldtp
+    followers: 4348
+    engagement: 2389
+    commentsToLikes: 0.026550
+    id: ck15svq53f1iq0i19f9enocx4
     verified: false
-    hashtags: "#redlips, #veganmakeup, #veganburgers, #muanyc"
-  - username: "ka_jamie"
+    hashtags: "#fashion, #m4, #m2, #f83"
+  - username: "kaitytong"
     fullname: >-
-      
+      Kaity
+    bio: >-
+      Emmy Award-winning anchor, formerly for Eyewitness News, now PIX11. Currently anchor of 5 and 10 @pix11news weekend edition.Proud Mom of Philip Long.
     location: "United States"
-    followers: 2140
-    engagement: 1475
-    commentsToLikes: 0.040979
-    id: ck8svzjx3da7j0j78a18yee30
-    verified: false
-    hashtags: "#challenge, #ticha, #fashiongirls, #summerdress"
-  - username: "_curlsandroses"
+    followers: 8411
+    engagement: 426
+    commentsToLikes: 0.092361
+    id: ck5hmklnam4lt0i11hdzn402t
+    verified: true
+    hashtags: "#staysafe, #anchorlife, #makeup, #newyork"
+  - username: "marcomaranghello"
     fullname: >-
-      Geralyn Cecilia 🌹
+      Marco Maranghello
+    bio: >-
+      Creative Director Hair Couture, hair stylist Producing Partner Ithaka films. Art is the Greatest Legacy.
     location: "United States"
-    followers: 2486
-    engagement: 1609
-    commentsToLikes: 0.048627
-    id: ck5bzq79drmvl0i11zp9tykfi
+    followers: 19119
+    engagement: 171
+    commentsToLikes: 0.038437
+    id: ck6u6bkfhen4a0j71judht9oj
     verified: false
-    hashtags: "#newyorkmodels, #abercrombie, #makeup, #newyork"
-  - username: "nataliiamakeupartist"
+    hashtags: "#canon, #instaphoto, #singersongwriter, #sonjastyle"
+  - username: "hexhillstudiosfx"
     fullname: >-
-      Nataliia Nosokas
+      HEXHILL STUDIOS
+    bio: >-
+      OFFICIAL INSTAGRAM ACCOUNT OF HEXHILL STUDIOS •JP SIMON PRODUCTIONS • MONSTER | ZOMBIE FX STUDIO • LOS ANGELES 🇺🇸
     location: "United States"
-    followers: 14922
-    engagement: 154
-    commentsToLikes: 0.368588
-    id: ck14kyxbps0yi0i19qxl5xwsi
+    followers: 20880
+    engagement: 340
+    commentsToLikes: 0.010485
+    id: ck15rzcgwaghe0i19fdy519zr
     verified: false
-    hashtags: "#food, #makeupblogger, #glammakeup, #colorfullmakeup"
+    hashtags: "#movies, #tokyo, #shopping, #makeuptutorial"
+  - username: "tinasokolovskaya"
+    fullname: >-
+      PHOTOGRAPHER NEW YORK
+    bio: >-
+      📸Award-winning photographer 📸Original author of photo “On the wave” 📸Professional consultant 📌 Ukrainian 🇺🇦 Living in New York City 🇺🇸
+    location: "United States"
+    followers: 63179
+    engagement: 136
+    commentsToLikes: 0.016637
+    id: ck5hqrxbutmax0i11kqvbdqry
+    verified: false
+    hashtags: "#nyc, #portraitphotography, #model, #photographernyc"
+  - username: "kentoutsubo"
+    fullname: >-
+      KENTO UTSUBO
+    bio: >-
+      🗽NYC🚕 💄Make-up artist 🎨for booking DM me. 🧵Creative Director/Designer @kentina_official 👖 📺Youtube @teamkento📺 👇👇youtube video🎥チャンネル登録はコチラ👇👇
+    location: "United States"
+    followers: 19260
+    engagement: 442
+    commentsToLikes: 0.007580
+    id: ck0ucj37ih1js0i19mfcx0518
+    verified: false
+    hashtags: "#thankyou, #happy, #fashion, #makeupartist"
+  - username: "skybeadsonline"
+    fullname: >-
+      Sky Beads
+    bio: >-
+      Life could always use a little sparkle, and at Sky Beads, we’re here to supply you with the authentic Swarovski crystals you need for some extra glam.
+    location: "United States"
+    followers: 43569
+    engagement: 90
+    commentsToLikes: 0.036134
+    id: ckaoqtofgkc870i78mi06hm8o
+    verified: false
+    hashtags: "#cutenails, #coffinnails, #ombrenails, #nails"
   - username: "christina_vannuis"
     fullname: >-
       Christina Van Nuis
+    bio: >-
+      ATLien 👽 @selectmodelparis • @milkmodelmanagement • @lamodels • @selectmodelmilano • @chadwickmodels • @model_mgmt
     location: "United States"
-    followers: 5423
-    engagement: 1072
-    commentsToLikes: 0.026393
+    followers: 6343
+    engagement: 832
+    commentsToLikes: 0.025525
     id: ck5bud5owhkda0i11ozxbdq5s
     verified: false
-    hashtags: "#deciosantos, #mfw, #capricornseason, #nofilter"
+    hashtags: "#swipe, #deciosantos, #mfw, #capricornseason"
+  - username: "makeupbymurry"
+    fullname: >-
+      Marisabel Van Der Biest | MUA
+    bio: >-
+      Pro MUA Certified in Makeup Designory, New York. Bride specialist ✨ Content creator 💫 ✉️ Makeupbymurry@gmail.com
+    location: "United States"
+    followers: 15917
+    engagement: 1021
+    commentsToLikes: 0.194264
+    id: ck5hjpbahh0x70i111sy5wocl
+    verified: false
+    hashtags: "#clownmakeup, #halloween, #ttdeye, #31daysofmehronhalloween"
   - username: "pattielepugh"
     fullname: >-
       Patrice Pugh
+    bio: >-
+      Makeup artist | New York BLACK LIVES MATTER ✊🏾
     location: "United States"
-    followers: 7309
-    engagement: 724
-    commentsToLikes: 0.060089
+    followers: 7535
+    engagement: 761
+    commentsToLikes: 0.069870
     id: ck0w14awzhhqm0i191dir5j0y
     verified: false
-    hashtags: "#ecofriendlyfashion, #solangeknowles, #bts, #nicolebus"
-  - username: "freak_a_leekvegas"
-    fullname: >-
-      Leeka 🎀
-    location: "United States"
-    followers: 16099
-    engagement: 290
-    commentsToLikes: 0.102440
-    id: ck5q6rnc4ykvb0i11ul54wcc8
-    verified: false
-    hashtags: "#barbie, #antigua, #bedazzled, #darkblonde"
-  - username: "sammyrubin"
-    fullname: >-
-      Samantha Rubin
-    location: "United States"
-    followers: 50729
-    engagement: 593
-    commentsToLikes: 0.023578
-    id: ck14jbfpvjhr80i191o6pnz7p
-    verified: false
-    hashtags: "#witcher3, #captainmarvel, #calm, #outtakes"
-  - username: "sohotsomealex"
-    fullname: >-
-      ALEXA CAROLINA
-    location: "United States"
-    followers: 287400
-    engagement: 169
-    commentsToLikes: 0.015016
-    id: ck5cenorclckt0i11vq1a1z03
-    verified: true
-    hashtags: "#matteinklover, #makeup, #redlips, #newyork"
-  - username: "mooistemooi_"
-    fullname: >-
-      Marí Conradie
-    location: "United States"
-    followers: 7402
-    engagement: 449
-    commentsToLikes: 0.028381
-    id: ck0w3oxuluisb0i19gwiu0kan
-    verified: false
-    hashtags: "#makeup, #manhattan, #newyorkcity, #44thstreet"
+    hashtags: "#metgalachallenge, #vogue, #tiktok, #newspaperchallenge"
 ---

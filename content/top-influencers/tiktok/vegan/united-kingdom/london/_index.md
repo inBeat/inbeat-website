@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In London In 2020
 description: >-
-  Find top vegan TikTok influencers in London in 2020. Most popular hashtags: #vegan #coronavirus #newyork #funny.
+  Find top vegan TikTok influencers in London in 2020. Most popular hashtags: #fyp #vegan #london #food.
 platform: TikTok
+hits: 22
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 22 TikTok influencers like this in London, United Kingdom for you to contact.
 profiles:
-  - username: "tallys_art"
+  - username: "thelittlelondonvegan"
     fullname: >-
-      TALLYS_ART
+      thelittlelondonvegan
+    bio: >-
+      🍔Food blogger & restaurant reviewer 📸104k IG @thelittlelondonvegan
     location: "United Kingdom"
-    followers: 3014
-    engagement: 1409
-    commentsToLikes: 0.099691
-    id: ckamyjbpwhup20i78m82iqvwf
+    followers: 7659
+    engagement: 777
+    commentsToLikes: 0.052864
+    id: ckd0z2veoljnk0j23lmmwb23w
     verified: false
-    hashtags: "#taylorswift, #cats, #chicken, #tiktokartist"
-  - username: "just__jodie"
+    hashtags: "#vegantok, #foodlover, #vegansoftiktok, #veganssupportingvegans"
+  - username: "cookingmummi"
     fullname: >-
-      Just Jodie 🙌🏼
+      gabrielle
+    bio: >-
+      I like to cook. Sometimes I film it and you get to watch. Recipes on my Insta.
     location: "United Kingdom"
-    followers: 37631
-    engagement: 850
-    commentsToLikes: 0.023656
-    id: ck8j41g7j0juh0j7834yr7vz3
+    followers: 65300
+    engagement: 690
+    commentsToLikes: 0.009057
+    id: ckcejgd50s99d0j23ai6to99p
     verified: false
-    hashtags: "#nerfgun, #racecar, #gemmacollins, #donkey"
-  - username: "abdu_nour_travels"
+    hashtags: "#cooking, #fyp, #foryoupage, #foryou"
+  - username: "yviescarlet"
     fullname: >-
-      Abdu_nour_travels
+      🦋𝔂𝓿𝓲𝓮🦋
+    bio: >-
+      instagram and youtube ↑ ↑ ↑ collabs: g@musetheagency.com💌 @diaryofadumbslut
     location: "United Kingdom"
-    followers: 11568
-    engagement: 1169
-    commentsToLikes: 0.024063
-    id: ck8adabsc4mrg0j78k79yqlkw
+    followers: 79300
+    engagement: 1623
+    commentsToLikes: 0.016436
+    id: ck8ouya2vroo90j78jopqv9em
     verified: false
-    hashtags: "#foodie, #hike, #mosque, #asmr"
+    hashtags: "#lgbtq, #glowup, #makeup, #fashion"
+  - username: "jojoslipzz_"
+    fullname: >-
+      !JѲJѲ! ®
+    bio: >-
+      London📍🇬🇧 @instagram Ambassador PR Enquiries: jojoslipzz@gmail.com
+    location: "United Kingdom"
+    followers: 49400
+    engagement: 1834
+    commentsToLikes: 0.016532
+    id: ckbqdvfvhzrm80j23kshq3qz3
+    verified: false
+    hashtags: "#london, #vegitarian, #foodporn, #healthyfood"
+  - username: "ibabthekebab"
+    fullname: >-
+      Ibabthekebab
+    bio: >-
+      London Yuh Pakistani Yuh
+    location: "United Kingdom"
+    followers: 10100
+    engagement: 1435
+    commentsToLikes: 0.078488
+    id: ckdnbs1h9gfzg0j23synovgom
+    verified: false
+    hashtags: "#trend, #dajjal, #makkah, #hijab"
   - username: "the_vibey_vegan"
     fullname: >-
       the_vibey_vegan
+    bio: >-
+      RORO | 22 | TRAVEL FOLLOW MY VIBALICIOUS INSTA FOR MORE FUN! @the_vibey_vegan
     location: "United Kingdom"
-    followers: 8735
-    engagement: 902
-    commentsToLikes: 0.039929
+    followers: 8597
+    engagement: 974
+    commentsToLikes: 0.039378
     id: ck80oevdmhecx0j78kvzci6a8
     verified: false
-    hashtags: "#sunrise, #avocado, #canyouliftit, #baking"
-  - username: "noanastacia"
-    fullname: >-
-      noanastacia
-    location: "United Kingdom"
-    followers: 11207
-    engagement: 720
-    commentsToLikes: 0.037979
-    id: ck900ashsaa740j78kyld1nqc
-    verified: false
-    hashtags: "#goldenhour, #feminism, #blueeyes, #siblingsbelike"
+    hashtags: "#bali, #vegan, #adventure, #travel"
   - username: "theimperfectnutritionist"
     fullname: >-
       Jennifer Medhurst
+    bio: >-
+      Registered Nutritionist London and virtual clinic Contact@jennifermedhurst.com
     location: "United Kingdom"
-    followers: 5902
-    engagement: 424
-    commentsToLikes: 0.003957
+    followers: 93200
+    engagement: 464
+    commentsToLikes: 0.011222
     id: ck9844lzrn0010j78stjuo5aq
     verified: false
-    hashtags: "#nutritionfacts, #happiness, #coronafacts, #coronaupdate"
+    hashtags: "#fyp, #healthyrecipe, #learnontiktok, #vegan"
   - username: "monikasimla"
     fullname: >-
       Monika Simla
+    bio: >-
+      London Follow me on Instagram: ninja_foodi
     location: "United Kingdom"
-    followers: 6427
-    engagement: 309
-    commentsToLikes: 0.022074
+    followers: 7957
+    engagement: 381
+    commentsToLikes: 0.015522
     id: cka0rgla7h0p20i78m2uvqv8k
     verified: false
-    hashtags: "#bird, #satisfying, #home, #hungry"
-  - username: "sleepingbunny_"
+    hashtags: "#desi, #food, #desifood, #foryoupage"
+  - username: "sirenstore"
     fullname: >-
-      BUNNY
+      Siren Store
+    bio: >-
+      Sustainably made goods 〰️ Vegan & plastic free CANDLE RESTOCK COMING SOON
     location: "United Kingdom"
-    followers: 7089
-    engagement: 948
-    commentsToLikes: 0.123485
-    id: ckacegxjcmqqm0i78ze0nbm8h
+    followers: 12600
+    engagement: 1612
+    commentsToLikes: 0.016701
+    id: ckd0adrpuby3a0j23ji4kpq3u
     verified: false
-    hashtags: "#hijabi, #egirl, #annoying, #anime"
-  - username: "gambinoakuboy"
+    hashtags: "#smallbusiness, #witchtok, #cottagecore, #candlebusiness"
+  - username: "bolt.beauty"
     fullname: >-
-      Gambino Akuboy
+      Bolt Beauty
+    bio: >-
+      Beauty made easy (wherever you are). Biodegradable, vegan, super cute 🌏💙⚡️
     location: "United Kingdom"
-    followers: 145005
-    engagement: 1058
-    commentsToLikes: 0.032718
-    id: ck982tfhihpb50j782kf4y7k0
-    verified: false
-    hashtags: "#workout, #episode, #amazing, #newrules"
-  - username: "aliciasstuff"
-    fullname: >-
-      alicia
-    location: "United Kingdom"
-    followers: 10390
-    engagement: 1080
-    commentsToLikes: 0.049822
-    id: cka0w12gd0uwk0i781sdx1nwe
-    verified: false
-    hashtags: "#singing, #viral, #nyc, #alwayslearning"
+    followers: 43000
+    engagement: 1544
+    commentsToLikes: 0.034828
+    id: ck92u6361ku0n0j78bz7e9v1x
+    verified: true
+    hashtags: "#biodegradable, #myskin, #myskincare, #asmrs"
 ---

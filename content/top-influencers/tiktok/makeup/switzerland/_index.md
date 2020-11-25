@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top makeup TikTok influencers in Switzerland in 2020. Most popular hashtags: #coronavirus #makeup #crush #covid19.
+  Find top makeup TikTok influencers in Switzerland in 2020. Most popular hashtags: #makeup #fyp #foryou #viral.
 platform: TikTok
+hits: 56
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 56 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "suchaprettylie"
+  - username: "raheldiscovers"
     fullname: >-
-      Kim 🐉
+      Rahel Discovers
+    bio: >-
+      🇨🇭Swiss🇨🇭 👑King of Cringe👑 👩‍👦‍👦Married Mom👨‍👦 💄Crueltyfree Makeup💄
     location: "Switzerland"
-    followers: 94279
-    engagement: 1703
-    commentsToLikes: 0.020614
-    id: ck8nfkdw2sa4o0j78yeb2h2g6
+    followers: 22300
+    engagement: 926
+    commentsToLikes: 0.167438
+    id: ck9fm3ylqra850j78qti0ksa5
     verified: false
-    hashtags: "#zoom, #chicken, #littlegirl, #makeup"
-  - username: "fanyartl"
+    hashtags: "#schminken, #singen, #makeup, #stolzsein"
+  - username: "miasw0nderl4nd"
     fullname: >-
-      Fanyart
+      miaswonderland.mua
+    bio: >-
+      MUA and makeup content creator 💓
     location: "Switzerland"
-    followers: 2260
-    engagement: 1869
-    commentsToLikes: 0.047343
-    id: ck9euinamdqei0j78itghy7y7
+    followers: 18100
+    engagement: 1481
+    commentsToLikes: 0.031713
+    id: ckbw8aauyz5c30j23ml7ddyph
     verified: false
-    hashtags: "#cielcosplay, #corona, #blackbutler, #ghost"
+    hashtags: "#31daysofhalloween, #fyp, #foryou, #mua"
+  - username: "leane.cvr"
+    fullname: >-
+       ♡☆𝕃𝔼𝔸ℕ𝔼☆♡
+    bio: >-
+      ♊️ •Suisse •15yo •21k🤭love uu☺️ •snap/f3:leanette05 👉🏻👈🏻
+    location: "Switzerland"
+    followers: 21400
+    engagement: 2045
+    commentsToLikes: 0.043405
+    id: ckbkeutco5u8f0j2334oor958
+    verified: false
+    hashtags: "#pourtoi, #makeup, #nones, #fyp"
+  - username: "_mikiimikii"
+    fullname: >-
+      Mikii Minaj
+    bio: >-
+      She/ her 🇧🇦🇨🇭 🤡I think I’m a clown🤡
+    location: "Switzerland"
+    followers: 3056
+    engagement: 1969
+    commentsToLikes: 0.029706
+    id: ckbf7gmt7xfrp0j23t6xh7gsn
+    verified: false
+    hashtags: "#lipsing, #fyp, #makeup, #foryou"
   - username: "pinupmom_"
     fullname: >-
-      Kali Anaïs Badoux
+      Pinupmom_
+    bio: >-
+      Maman 3x, créatrice de contenu sur YouTube 📽️ et Instagram 📱 photographe 📸
     location: "Switzerland"
-    followers: 8052
-    engagement: 1079
-    commentsToLikes: 0.057595
+    followers: 42600
+    engagement: 1182
+    commentsToLikes: 0.027530
     id: cka0nhqrlzqhe0i78sockg9qp
     verified: false
-    hashtags: "#humourmaman, #naturel, #maternite, #maison"
+    hashtags: "#maman, #humour, #enfant, #famille"
   - username: "asjjaaa"
     fullname: >-
       asjadueJ
+    bio: >-
+      BLACK LIVES MATTER sc: asjjjaaa ig: asjjjaaa
     location: "Switzerland"
-    followers: 2230
-    engagement: 1430
-    commentsToLikes: 0.042003
+    followers: 3008
+    engagement: 1443
+    commentsToLikes: 0.041585
     id: cka6d6m0y6rpu0i78f5sykykf
     verified: false
-    hashtags: "#fakelove, #boys, #nails, #dubai"
-  - username: "jessicamaiapinto"
+    hashtags: "#tiktok, #switzerland, #viral, #fyp"
+  - username: "_aurorab.x_"
     fullname: >-
-      jessicamaiapinto
+      👑Aurora👑
+    bio: >-
+      Aurora, 19 y/o 🧨Trend maker 🧨 Stay ready😍 Road to 18k?😍 IG: _aurorab.x_
     location: "Switzerland"
-    followers: 20328
-    engagement: 1062
-    commentsToLikes: 0.032705
-    id: ck80opsotj3s60j78vmv45gvu
+    followers: 17100
+    engagement: 1432
+    commentsToLikes: 0.040147
+    id: ckcvgj6jrsxxb0j23up6uh9jv
     verified: false
-    hashtags: "#guacamole, #superstar, #ratatouille, #summer2020"
+    hashtags: "#perte, #hair, #trending, #dancing"
+  - username: "gi0rgiapiazza"
+    fullname: >-
+      gio
+    bio: >-
+      follow me on the gram 🤩 new acc hehehe :) 16 | near basel <3 old acc: @giopix
+    location: "Switzerland"
+    followers: 21
+    engagement: 1375
+    commentsToLikes: 0.028002
+    id: ck9royl8cexhz0j78vi1kux3d
+    verified: false
+    hashtags: "#fyp, #foryou, #italy, #switzerland"
+  - username: "neinicolee"
+    fullname: >-
+      nicole
+    bio: >-
+      she/her it izzz whut it izzz insta neinicole
+    location: "Switzerland"
+    followers: 19700
+    engagement: 1401
+    commentsToLikes: 0.017687
+    id: ck9m10egecvpo0j78t4bmgh68
+    verified: false
+    hashtags: "#fyp, #customs, #makeup, #fy"
   - username: "fynxfynx"
     fullname: >-
       ITS FYNX
+    bio: >-
+      relatable, fashionable, annoying - follow me anyway
     location: "Switzerland"
-    followers: 4142
-    engagement: 734
-    commentsToLikes: 0.018432
+    followers: 6594
+    engagement: 687
+    commentsToLikes: 0.015890
     id: ckacklngjc0qk0i78y5cjmqyr
     verified: false
-    hashtags: "#nonecked, #flirt, #summer, #covid19"
-  - username: "kaansu_"
-    fullname: >-
-      族  Kaansu
-    location: "Switzerland"
-    followers: 7788
-    engagement: 598
-    commentsToLikes: 0.045259
-    id: ck9rdb01ex4m70j7868vzfksg
-    verified: false
-    hashtags: "#challenge, #kimkardashian, #dhanush, #likeforlike"
-  - username: "mb_inspo"
-    fullname: >-
-      MARI JANA 💍
-    location: "Switzerland"
-    followers: 2106
-    engagement: 370
-    commentsToLikes: 0.036644
-    id: ck9ra1jyqj0ni0j785n7b68mq
-    verified: false
-    hashtags: "#beautyhacks, #spring, #homehack, #unterhaltenuns"
-  - username: "quarantena_house"
-    fullname: >-
-      Hype house ticino
-    location: "Switzerland"
-    followers: 9328
-    engagement: 1981
-    commentsToLikes: 0.048720
-    id: ck9025vf9c53n0j78nbdi8fjp
-    verified: false
-    hashtags: "#neiperte, #charli, #clowncheck, #youtube"
-  - username: "minus10degreesc"
-    fullname: >-
-      Minus
-    location: "Switzerland"
-    followers: 2955
-    engagement: 1529
-    commentsToLikes: 0.067337
-    id: ckaiksfonkvbg0i78u50m9okw
-    verified: false
-    hashtags: "#cosplaymakeup, #dbdcosplay, #theythem, #outtake"
+    hashtags: "#beauty, #fashiontiktok, #dance, #couples"
 ---

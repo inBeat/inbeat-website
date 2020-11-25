@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Peru In 2020
 description: >-
-  Find top christian TikTok influencers in Peru in 2020. Most popular hashtags: #cuarentena #simetria #cristiano #covid19.
+  Find top christian TikTok influencers in Peru in 2020. Most popular hashtags: #parati #peru #fyp #viral.
 platform: TikTok
+hits: 28
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 28 TikTok influencers like this in Peru for you to connect with.
 profiles:
-  - username: "kurtbuquich"
+  - username: "jackeline_v05"
     fullname: >-
-      Kurt Buquich
+      Jackeline Vargas
+    bio: >-
+      "Dignidad" saliendo del chat 🤡
     location: "Peru"
-    followers: 20101
-    engagement: 978
-    commentsToLikes: 0.070477
-    id: cka0u3bwisj4c0i78hpinnkhg
+    followers: 3978
+    engagement: 1755
+    commentsToLikes: 0.051156
+    id: ckb9nxufjhzo30j23c9diy019
     verified: false
-    hashtags: "#fail, #christian, #fotos, #christianboy"
-  - username: "locoiori"
+    hashtags: "#parati, #viral, #comedia, #fyp"
+  - username: "jerry8036"
     fullname: >-
-      LocoIORI
+      Gerardo Sanchez
+    bio: >-
+      41 Años en Modo Relax Simplemente 😷✌
     location: "Peru"
-    followers: 67220
-    engagement: 763
-    commentsToLikes: 0.015087
-    id: ck8s9i6yxy02q0j78cge53od7
+    followers: 4247
+    engagement: 399
+    commentsToLikes: 0.062159
+    id: ckd19z6vjrv120j233to6unpl
     verified: false
-    hashtags: "#mascotacheck, #risasjajajaja, #caos, #telenovelas"
-  - username: "christiannova.tv"
+    hashtags: "#oficina, #jaja, #tuneldeltiempo, #proyectodrywall"
+  - username: "cuysitotiktoker"
     fullname: >-
-      Christian Gonzalez
+      Cuytiktoker #HechoenPerú
+    bio: >-
+      Peruanadas 🇵🇪, rajes , mundo chollywood y más 😚 Aportes al DM
     location: "Peru"
-    followers: 79779
-    engagement: 419
-    commentsToLikes: 0.029051
-    id: ck9e1u5qqcb7l0j78gu4jc9rk
+    followers: 5285
+    engagement: 496
+    commentsToLikes: 0.042082
+    id: ckbfbrnxb43tm0j237tn8c10e
     verified: false
-    hashtags: "#cuarentena, #tehasenamorado, #coronaviruss, #teamoamor"
-  - username: "leandrocajado"
+    hashtags: "#parati, #viral, #fyp, #peru"
+  - username: "milagrosadiazfdez"
     fullname: >-
-      😎 ⓛ𝔼σ 𝐂ⓐ𝐉ᵃｄỖ 😎
+      Milagros A Diaz Fdez
+    bio: >-
+      Ámame con locura y quiereme con ternura 💓😚😚😚😚😚
     location: "Peru"
-    followers: 18922
-    engagement: 857
-    commentsToLikes: 0.056385
-    id: cka6cezaa3xb30i78113qy5xo
+    followers: 5432
+    engagement: 437
+    commentsToLikes: 0.014970
+    id: cka0px3eja66w0i78na72rlhn
     verified: false
-    hashtags: "#terror, #yoenlafiesta, #cruelrealidad, #quedateencasa"
-  - username: "momasoslatinos"
+    hashtags: "#risas, #cancion, #novias, #peluchin"
+  - username: "alfredtiktoc"
     fullname: >-
-      MomasosLatinos
+      Alfred DC
+    bio: >-
+      La vida es una, solo ve, disfruta y Vive.!!!
     location: "Peru"
-    followers: 15811
-    engagement: 1190
-    commentsToLikes: 0.059852
-    id: ckai3fd3zjn8e0i78mrtiaitz
+    followers: 35200
+    engagement: 452
+    commentsToLikes: 0.009029
+    id: ckdbgbneo87ue0j236s3uii94
     verified: false
-    hashtags: "#baile, #fifa, #party, #kratos"
-  - username: "farrukopr"
-    fullname: >-
-      🌴FARRUKO🌴🐊
-    location: "Peru"
-    followers: 175667
-    engagement: 883
-    commentsToLikes: 0.019842
-    id: cka6jfxjuujob0i78ijfrg9co
-    verified: false
-    hashtags: "#yoperreoencasa, #farruko, #tiburonesremixvideo, #quehaydemalo"
-  - username: "allaboutfutbol"
-    fullname: >-
-      Fabián Tarazona
-    location: "Peru"
-    followers: 22250
-    engagement: 1301
-    commentsToLikes: 0.102685
-    id: cka9m5t4r418f0i783rzo2qnt
-    verified: false
-    hashtags: "#terstegen, #chile, #milan, #futbolchallenge"
-  - username: "ed.anxel"
-    fullname: >-
-      ED ÁNXEL 
-    location: "Peru"
-    followers: 47022
-    engagement: 1192
-    commentsToLikes: 0.027785
-    id: ck9k3si37pni70j783js3cbmd
-    verified: false
-    hashtags: "#bendiciones, #53aniversario, #perdoname, #barak"
-  - username: "jesusma25"
-    fullname: >-
-      Jesus manuel
-    location: "Peru"
-    followers: 27235
-    engagement: 876
-    commentsToLikes: 0.020379
-    id: ck81t2z7sv3h10j78yo0w1wbg
-    verified: false
-    hashtags: "#esposos, #solidaridad, #amen, #emprende"
+    hashtags: "#alfredtiktoc, #latinos, #arenahash, #monologo"
   - username: "anunciase"
     fullname: >-
       anunciase tiktok
+    bio: >-
+      Entretenimiento Sigueme en Instagram y YouTube
     location: "Peru"
-    followers: 10462
-    engagement: 433
-    commentsToLikes: 0.029193
+    followers: 18000
+    engagement: 426
+    commentsToLikes: 0.023734
     id: ckad63s9wxx6r0i78lb7ipzsf
     verified: false
-    hashtags: "#trend, #boredathome, #chinos, #conejo"
+    hashtags: "#1000razones, #afhs, #melaniaurbina, #peru"
+  - username: "tonadilla"
+    fullname: >-
+      🎶
+    bio: >-
+      Ayer y Hoy Recordar es volver a vivir!
+    location: "Peru"
+    followers: 2849
+    engagement: 539
+    commentsToLikes: 0.007720
+    id: ckbepqu776wnj0j23zdnv8wh8
+    verified: false
+    hashtags: "#pop, #videoviral, #xyzbca, #tiktokper"
+  - username: "anasofslr"
+    fullname: >-
+      Ana Sofía López
+    bio: >-
+      I sing but one day I filmed a seal and that got me followers @anasofialopezr29
+    location: "Peru"
+    followers: 4402
+    engagement: 1535
+    commentsToLikes: 0.002754
+    id: ckbl31ykq0dkx0j23k1q6bmnq
+    verified: false
+    hashtags: "#jesusfreaks, #comedy, #cabosanlucas, #seal"
+  - username: "christiannova.tv"
+    fullname: >-
+      Christian Gonzalez
+    bio: >-
+      Por aquí viendo qué fluye y subo cualquier cosa así que sigale no más😎
+    location: "Peru"
+    followers: 79500
+    engagement: 412
+    commentsToLikes: 0.043669
+    id: ck9e1u5qqcb7l0j78gu4jc9rk
+    verified: false
+    hashtags: "#venezuela, #paratiiiiiiiiii, #tiktoktrucos, #ense"
+  - username: "christianarakakis"
+    fullname: >-
+      Christian Arakaki So
+    bio: >-
+      🇯🇵 🇵🇪 Full joda 🤪
+    location: "Peru"
+    followers: 126000
+    engagement: 881
+    commentsToLikes: 0.017296
+    id: ckb9pyqfdlgx20j23hposxxvy
+    verified: false
+    hashtags: "#hechapamichallenge, #salsa, #peru, #besocnco"
 ---

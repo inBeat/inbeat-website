@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In 2020
 description: >-
-  Find top guitar Instagram influencers in 2020. Most popular hashtags: #stratocaster #stayhome #epiphone #musicians.
+  Find top guitar Instagram influencers in 2020. Most popular hashtags: #guitarist #guitar #guitarsolo.
 platform: Instagram
+hits: 6854
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 6854 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "guitarporn"
-    fullname: >-
-      𝙶𝚞𝚒𝚝𝚊𝚛𝙿𝚘𝚛𝚗®
-    location: "United Kingdom"
-    followers: 15047
-    engagement: 233
-    commentsToLikes: 0.005804
-    id: ck5zp8kios7780i14reoeo49b
-    verified: false
-    hashtags: "#vox, #stratocaster, #lespaul, #vintage"
   - username: "guitar"
     fullname: >-
       Guitar.com
+    bio: >-
+      The world’s leading authority and resource for all things #guitar. Follow us for photos, videos, breaking news, features and more.
     location: "United States"
     followers: 78153
     engagement: 238
     commentsToLikes: 0.008852
     id: ck14gpbir6de50i190u5jemgs
     verified: false
-    hashtags: "#joebonamassa, #folkmusic, #precbsfender, #voxguitars"
-  - username: "soroushmostafaei"
+    hashtags: "#musician, #offsetguitarsofinstagram, #tweedamp, #guitarstagram"
+  - username: "khashayar_jozi"
     fullname: >-
-      SOROUSH️💎
+      Khashayar jozi
+    bio: >-
+      Guitarist Songwriter Singer
     location: "Iran"
-    followers: 6426
-    engagement: 2232
-    commentsToLikes: 0.083816
-    id: ck9wj15ur4u5c0j78eazlwbuv
+    followers: 18565
+    engagement: 2075
+    commentsToLikes: 0.087831
+    id: ck0w6ipfe8r0s0i19kg3b3nn2
     verified: false
-    hashtags: "#baran, #chord, #amirazimi, #soroush"
-  - username: "deleogt"
+    hashtags: "#gibson, #lespaul, #telecaster, #fender"
+  - username: "jewels_1022"
     fullname: >-
-      
-    location: "Brazil"
-    followers: 52403
-    engagement: 1785
-    commentsToLikes: 0.134125
-    id: ck6016uxwey4a0i14o16qpf8z
+      Julie
+    bio: >-
+      “Sing a song, play guitar, make it snappy...” 🎶🎵🎸
+    location: "United States"
+    followers: 27892
+    engagement: 1148
+    commentsToLikes: 0.083350
+    id: ck0tvbjdtapgw0i19704hzdi9
     verified: false
-    hashtags: ""
+    hashtags: "#guitar, #folk, #rocklegend, #acousticguitar"
+  - username: "adr6strings"
+    fullname: >-
+      Anna Della Ragione
+    bio: >-
+      Guitarist, composer, arranger, director... musician 🐬
+    location: "Italy"
+    followers: 11608
+    engagement: 1148
+    commentsToLikes: 0.105681
+    id: ckaospznoskes0i78dlefd6d0
+    verified: false
+    hashtags: "#guitarstagram, #guitarplayer, #campiflegrei, #instamusicians"
   - username: "experience_jimi"
     fullname: >-
       experience_jimi
-    location: "Italy"
-    followers: 12731
-    engagement: 1291
-    commentsToLikes: 0.073245
+    bio: >-
+      I love music ... rock .... blues ... hard .... heavy ....art.... and the #guitar ...🎸🇮🇹 Carlo 😎🎸♊
+    location: "United States"
+    followers: 15364
+    engagement: 1054
+    commentsToLikes: 0.065347
     id: ck0w622b46jpz0i19nnykqx1o
     verified: false
-    hashtags: "#hardrock, #slash, #guitarporn, #europeband"
-  - username: "annie_foxy_"
+    hashtags: "#rock, #blues, #rockblues, #riff"
+  - username: "crimson_shelby"
     fullname: >-
-      Annie ♡
-    location: "Ukraine"
-    followers: 169881
-    engagement: 752
-    commentsToLikes: 0.029665
-    id: ck137k9kcbyur0i19qz15c4mp
+      Shelby Benson
+    bio: >-
+      Guitarist / Big Sis 🍎 / 🍜 🌵 🐌 💜 1/4 of @CRIMSONAPPLE 💜 Pre-save our new single ⚔️🦋🧠 ↓
+    location: "United States"
+    followers: 18692
+    engagement: 1263
+    commentsToLikes: 0.053867
+    id: ck15rdkek7ed60i19hbql8yab
     verified: false
-    hashtags: ""
-  - username: "moolattemusic"
+    hashtags: "#fender, #guitarist, #guitargirls, #fenderguitars"
+  - username: "simonasansovini"
     fullname: >-
-      Moo Latte
-    location: "South Africa"
-    followers: 9214
-    engagement: 1170
-    commentsToLikes: 0.201726
-    id: ck6tj3jkj1xtv0j71exn2j5mx
+      Simona Sansovini
+    bio: >-
+      ✨⚡️Electric Soul⚡️✨ Guitarist 🇮🇹 Touring musician Model Blues addicted Endorsed by @daddarioandco Business inquiries 📩
+    location: "Italy"
+    followers: 160123
+    engagement: 503
+    commentsToLikes: 0.039842
+    id: ck0tzzp0js5uw0i19jrejhow7
     verified: false
-    hashtags: "#jazzyguitar, #tidal, #jazzguitar, #logicpro"
-  - username: "wirmansyah"
-    fullname: >-
-      Wirmansyah Mustafa
-    location: ""
-    followers: 30756
-    engagement: 1171
-    commentsToLikes: 0.036447
-    id: ckaouwoa324z90i789a5aa97k
-    verified: false
-    hashtags: "#lambofgod, #brodofootwear, #parasytethemaxim, #lambofgodband"
+    hashtags: "#guitardaily, #guitarist, #guitar, #guitarsarebetter"
   - username: "stevelukatherofficial"
     fullname: >-
       Steve Lukather
+    bio: >-
+      Official Instagram of Steve Lukather. Guitarist of Toto and @ringostarrmusic All Starr Band. Author of the bestseller The Gospel According to Luke
     location: "United States"
-    followers: 46349
-    engagement: 1234
-    commentsToLikes: 0.033461
+    followers: 74239
+    engagement: 1403
+    commentsToLikes: 0.038340
     id: ck0ucbkaugha60i19i6glkfq2
     verified: false
-    hashtags: "#awareness, #stayhome, #enjoyyourfamily"
-  - username: "joewalshofficial"
+    hashtags: "#awareness, #stayhome, #enjoyyourfamily, #goodmorningsunshine"
+  - username: "nixenomorph"
     fullname: >-
-      Joe Walsh
-    location: ""
-    followers: 119760
-    engagement: 718
-    commentsToLikes: 0.027593
-    id: ck15pgqydxsq80i19tk2ewhpm
-    verified: true
-    hashtags: "#houston, #khou, #fbf, #tbt"
+      Martina Nixe Riva 🎸
+    bio: >-
+      Guitar Player from Italy! 🇮🇹 Killin’ it in @killinbaudelaire 🧛🏻‍♀️ BUFFY METAL VERSION ⬇️
+    location: "Italy"
+    followers: 19604
+    engagement: 1402
+    commentsToLikes: 0.052072
+    id: ck8syt1rplwcv0j78q6yo4n1p
+    verified: false
+    hashtags: "#musicgear, #femalemusicians, #ltdguitars, #girlswithguitars"
+  - username: "nickhipa"
+    fullname: >-
+      Nick Hipa
+    bio: >-
+      Pretty Deece Dude Guitarist Motion Designer
+    location: "India"
+    followers: 30101
+    engagement: 1152
+    commentsToLikes: 0.048752
+    id: ck0w37lmyrzhe0i193inphxxk
+    verified: false
+    hashtags: ""
 ---

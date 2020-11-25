@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Australia In 2020
 description: >-
-  Find top health TikTok influencers in Australia in 2020. Most popular hashtags: #heapsgood #keepingactive #livingtogether #aussiethings.
+  Find top health TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #mentalhealthmatters #duet #mentalhealth.
 platform: TikTok
+hits: 221
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 221 TikTok influencers like this in Australia for you to contact.
 profiles:
+  - username: "mattcama23"
+    fullname: >-
+      Matt Cama
+    bio: >-
+      Mental Health | Trauma Healing | Psychology 👇 Want Coaching? Click Below👇
+    location: "Australia"
+    followers: 320600
+    engagement: 1546
+    commentsToLikes: 0.033879
+    id: ckavi067yq1p20j23hox0vemc
+    verified: false
+    hashtags: "#spiritualtiktok, #shadowwork, #lifetruth, #psychology"
   - username: "life_of_carolyn"
     fullname: >-
       life_of_carolyn
+    bio: >-
+      Your mental health cheerleader ❤️ #motherhoodsquad #alwaysenoughsquad
     location: "Australia"
-    followers: 35434
-    engagement: 1470
-    commentsToLikes: 0.071542
+    followers: 50100
+    engagement: 1110
+    commentsToLikes: 0.049750
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#homeroutine, #sidehustle, #shuffle, #over30club"
+    hashtags: "#mentalhealth, #mentalhealthmatters, #momsoftiktok, #youwantmore"
+  - username: "sonalisharma7513"
+    fullname: >-
+      Sonali Sharma
+    bio: >-
+      Perth,WA🇦🇺 Delhigirl Healthcareworker✌🏻 Insta- sonali_sharma3 RN✌🏻😍
+    location: "Australia"
+    followers: 6788
+    engagement: 1396
+    commentsToLikes: 0.042279
+    id: ckb9exiyz2zx60j23e796wa34
+    verified: false
+    hashtags: "#perth, #bdaygirl, #dayforit, #holidaytiktok"
   - username: "mz_zarah"
     fullname: >-
       ZARAH ROSE 💕
+    bio: >-
+      🍽 HEALTHY RECIPES ON @MZ_KETO ✨ - 🐾 IG @MZ_ZARAH_ANIMALS 😻 - 💖🌈🦄💎
     location: "Australia"
-    followers: 21957
-    engagement: 1127
-    commentsToLikes: 0.063344
+    followers: 24500
+    engagement: 1175
+    commentsToLikes: 0.039461
     id: ck80oqmtujb7w0j78pvg8jh8k
     verified: false
-    hashtags: "#nails, #maythe4th, #hairinspo, #foryou"
-  - username: "josephjwhitehall"
+    hashtags: "#catlover, #cat, #cats, #love"
+  - username: "kathryn.cakes"
     fullname: >-
-      Joseph J Whitehall
+      Kathryn w
+    bio: >-
+      Just me doin what I love ❤️ Thank you for all the support, stay healthy
     location: "Australia"
-    followers: 19272
-    engagement: 987
-    commentsToLikes: 0.043293
-    id: ckacfg32tqtbs0i78egeceh6x
+    followers: 34900
+    engagement: 1998
+    commentsToLikes: 0.007377
+    id: ckb9b5mi1x08r0j23qzg9b41t
     verified: false
-    hashtags: "#thirdeye, #godsplan, #intuition, #health"
-  - username: "_kim_lawless_"
+    hashtags: "#cake, #fy, #decorating, #fyp"
+  - username: "gemanais"
     fullname: >-
-      Kim
+      Gem Anais
+    bio: >-
+      Mental Health Awareness & a little crazy
     location: "Australia"
-    followers: 42746
-    engagement: 916
-    commentsToLikes: 0.057669
-    id: cka7o7mp10qyp0i78xk1mluw6
+    followers: 69500
+    engagement: 1821
+    commentsToLikes: 0.031197
+    id: ckdmt788cafyo0j23wofw6rqf
     verified: false
-    hashtags: "#agechalange, #sundayvibes, #becreative, #momof3"
+    hashtags: "#mentalhealthmatters, #mentalillness, #duet, #mentalhealthawareness"
+  - username: "nofom0"
+    fullname: >-
+      Olivia
+    bio: >-
+      Welcome to husky and women’s health tok. I’ll be your conductor this evening.
+    location: "Australia"
+    followers: 42000
+    engagement: 1015
+    commentsToLikes: 0.029003
+    id: ck9rk7azcrlos0j7859hrp9vn
+    verified: false
+    hashtags: "#husky, #myperson, #dogsoftiktok, #putafingerdown"
   - username: "jassturka4"
     fullname: >-
       Jass Turka
+    bio: >-
+      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
     location: "Australia"
-    followers: 55264
-    engagement: 417
-    commentsToLikes: 0.026408
+    followers: 75500
+    engagement: 336
+    commentsToLikes: 0.031642
     id: ckai3fp8wjp9s0i78tydhilnp
     verified: false
-    hashtags: "#arms, #homeworkout, #tiktokindia, #shoppingcart"
+    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
   - username: "kim_kine"
     fullname: >-
       Kim Kine
+    bio: >-
+      Chiropractor Making health and wellness FUN! IG: @kim_kine
     location: "Australia"
-    followers: 53566
-    engagement: 851
-    commentsToLikes: 0.030167
+    followers: 134700
+    engagement: 1017
+    commentsToLikes: 0.032393
     id: ck931pligfsl30j784zufx9ds
     verified: false
-    hashtags: "#whereiwork, #holistichealing, #idontunderstand, #confidenceboost"
-  - username: "b.humphris.physiotherapy"
+    hashtags: "#beinspired, #myjourney, #asian, #getfit"
+  - username: "_kim_lawless_"
     fullname: >-
-      The Physio Wizard
+      Kim
+    bio: >-
+      •Fitness•health lifestyle• Instagram- kimlawless_fitness
     location: "Australia"
-    followers: 222763
-    engagement: 374
-    commentsToLikes: 0.010842
-    id: ck9rc5y16s5ly0j782nkzl58k
+    followers: 47700
+    engagement: 851
+    commentsToLikes: 0.044897
+    id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#manualtherapy, #bruised, #backcrack, #spinal"
-  - username: "officialsarahs_day"
-    fullname: >-
-      Sarahs_day
-    location: "Australia"
-    followers: 73949
-    engagement: 953
-    commentsToLikes: 0.007743
-    id: ck8w4ufmo923d0j78ujg1ddcp
-    verified: true
-    hashtags: "#hottest100, #badguy, #yummy, #foryou"
-  - username: "isthatmikey"
-    fullname: >-
-      Mikey
-    location: "Australia"
-    followers: 192314
-    engagement: 2435
-    commentsToLikes: 0.022724
-    id: ck8scof5zbxed0j78lmj2yuo9
-    verified: false
-    hashtags: "#djathome, #greenvspurple, #happyeaster, #lifeathomequiz"
-  - username: "willpowerchallenge"
-    fullname: >-
-      Will Power Challenge
-    location: "Australia"
-    followers: 39895
-    engagement: 1156
-    commentsToLikes: 0.048240
-    id: ck9by4eqomy1b0j78uwcac55s
-    verified: false
-    hashtags: "#heapsgood, #mentalhealth, #greenscreen, #perspective"
+    hashtags: "#duet, #fyp, #hi, #lockdown"
 ---

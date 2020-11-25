@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Milan In 2020
 description: >-
-  Find top beauty Instagram influencers in Milan in 2020. Most popular hashtags: #beauty #milano #life #model.
+  Find top beauty Instagram influencers in Milan in 2020. Most popular hashtags: #beauty #love #fashion #model.
 platform: Instagram
+hits: 463
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 463 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "letwins__"
+  - username: "francesca_artifoni"
     fullname: >-
-      LeTwins-Ylenia e Nicole Burato
+      Francesca Artifoni
+    bio: >-
+      🇮🇹 Milan, Italy 📚biotecnologie 📲 collaborations in DM 👕 @thisisvan__ 🍲 Ambassador @ilfortinomilano
     location: "Italy"
-    followers: 128116
-    engagement: 234
-    commentsToLikes: 0.207570
-    id: ck5zp8rxas7l30i14g29ntwrh
+    followers: 8358
+    engagement: 1783
+    commentsToLikes: 0.035004
+    id: ck9hay5t4ekc00j78bbimjxu2
     verified: false
-    hashtags: "#aestheticoutfit, #90svintage, #longcurlyhair, #revival"
-  - username: "alenareysh"
+    hashtags: "#fitnessgirl, #blonde, #legsfordays, #instagram"
+  - username: "fabiana_cantanteofficial"
     fullname: >-
-      Reysh Alena
+      🎶🌸Fabyana_official90
+    bio: >-
+      🌸29 years old🌸made in Italy🏡🌸 love shopping👠 👛 to traveler 🏝🌍🌸animols🐾🐼 🌿🌸sport💪🌸food🍡🍏🌸 film 🎬🌸 music🎶🌸🎤sing🎼🌸 nails💅🌸
     location: "Italy"
-    followers: 8983
-    engagement: 835
-    commentsToLikes: 0.074889
-    id: ck0vw2h07rsxi0i19igz2hdda
+    followers: 19060
+    engagement: 340
+    commentsToLikes: 0.044241
+    id: ck9h9xsy7adqp0j78ztmb0zt5
     verified: false
-    hashtags: "#coolkidsbrands, #ceremony, #elegance, #backstagephoto"
+    hashtags: "#outfitoftheday, #beauty, #milano, #bhfyp"
+  - username: "dayanemelloreal"
+    fullname: >-
+      Dayane Mello
+    bio: >-
+      Made in Brazil 🇧🇷 For info & booking contact paola@benegasmanagement.com
+    location: "Italy"
+    followers: 158550
+    engagement: 390
+    commentsToLikes: 0.015855
+    id: ck0u1tdgzxv0u0i19gv9hal2y
+    verified: false
+    hashtags: "#home, #photoshoot, #dayane, #grandefratellovip"
+  - username: "stefyna_"
+    fullname: >-
+      Stefania
+    bio: >-
+      Collaboration: stefania.galli@hotmail.com 🎓 Economist 📽 TV presenter ⭐️ Influencer & traveler 🍌 #ciaodarwin8
+    location: "Italy"
+    followers: 26588
+    engagement: 452
+    commentsToLikes: 0.040062
+    id: ckf5pqfzv6y9e0j230hipois3
+    verified: false
+    hashtags: "#salento, #dubai, #happy, #love"
   - username: "salvettisonia"
     fullname: >-
       𝓢𝓪𝓵𝓿𝓮𝓽𝓽𝓲 𝓢𝓸𝓷𝓲𝓪
+    bio: >-
+      📍 𝙱𝚎𝚛𝚐𝚊𝚖𝚘 —>> 𝙼𝚊𝚗𝚊𝚛𝚘𝚕𝚊 💌 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 𝚎𝚖𝚊𝚒𝚕
     location: "Italy"
-    followers: 60385
-    engagement: 146
-    commentsToLikes: 0.134325
+    followers: 58425
+    engagement: 149
+    commentsToLikes: 0.120929
     id: ck14k97y6odsf0i1936ga7fqe
     verified: false
-    hashtags: "#nomoney, #sanpellegrinoinlove2020, #restaurant, #italianmood"
-  - username: "maria_angela_galizia"
-    fullname: >-
-      Maria Angela Galizia
-    location: "Italy"
-    followers: 29990
-    engagement: 268
-    commentsToLikes: 0.341334
-    id: ck15s4cpvb5ta0i193jimbkgl
-    verified: false
-    hashtags: "#cremavisogiorno, #cremavisonotte, #poster, #styles"
-  - username: "irenardella"
-    fullname: >-
-      🦄 theblondeunicorn®
-    location: "Italy"
-    followers: 17532
-    engagement: 262
-    commentsToLikes: 0.191858
-    id: ck5zzdhfmbj6y0i14xq8scwl0
-    verified: false
-    hashtags: "#jewelry, #watch, #voogue, #experiences"
-  - username: "napoletanopasquale79"
-    fullname: >-
-      ∞ ᑭαᔕɊμα⍳ξ  ᑎα⍴㋡⍳ξ☂α⋒⍟  ♔☈ξα⍳
-    location: "Italy"
-    followers: 62610
-    engagement: 291
-    commentsToLikes: 0.254638
-    id: ck6u6mbb1gfl50j714wpriydh
-    verified: false
-    hashtags: "#igers, #quarantine, #giveawaytime, #iosononapoli"
+    hashtags: "#christmas, #yoinsstyle, #yoins, #liviacorsetty"
   - username: "veronicafalco"
     fullname: >-
       Veronica | Fashion & Lifestyle
+    bio: >-
+      Milan 🇮🇹 Beauty, Fashion & Design addicted. Design lover at @gmfthehome (my home) Business: mngmt.veronicafalco@gmail.com
     location: "Italy"
-    followers: 97894
-    engagement: 87
-    commentsToLikes: 0.046982
+    followers: 94867
+    engagement: 96
+    commentsToLikes: 0.023827
     id: ck0vz610q7hfy0i19h5e05dlt
     verified: false
-    hashtags: "#mondaymood, #girlsgoneloavies, #stoacasa, #stateacasa"
-  - username: "nata_a_luglio"
+    hashtags: "#tuesday, #invitedby, #perfectcouple, #couplestravel"
+  - username: "silvanauchiha"
     fullname: >-
-      Giusy Loddo
+      Silvana Uchiha 🌹
+    bio: >-
+      Bohemian spirit📖 🌒 Always smile, even if it's a sad one, for sadder that a sad smile is only the sadness of not knowing how to smile. Jim Morrison
     location: "Italy"
-    followers: 6571
-    engagement: 819
-    commentsToLikes: 0.054162
-    id: ck8sw0nbnde9t0j78ffyq61bx
+    followers: 38329
+    engagement: 404
+    commentsToLikes: 0.030051
+    id: ck5q91crj8x950i11v4oaaxbo
     verified: false
-    hashtags: "#photodark, #beachlover, #style, #sardegnapics"
-  - username: "noi_siamo_trash"
+    hashtags: "#quarantine, #travel, #nature, #smile"
+  - username: "anastasia_pellegrino"
     fullname: >-
-      NOI SIAMO TRASH
+      𝑨𝒏𝒂𝒔𝒕𝒂𝒔𝒊𝒂 𝑷𝒆𝒍𝒍𝒆𝒈𝒓𝒊𝒏𝒐🌹
+    bio: >-
+      📍Sicily 📸 Model for @tobemodelmanagement 👑 Prefinalista Nazionale @missitalia 2019 🇮🇹 🌍 Prefinalista Nazionale @missuniverseitaly 2020
     location: "Italy"
-    followers: 12491
-    engagement: 1687
-    commentsToLikes: 0.084961
-    id: ck8t9rscep3yv0j78qqskzwn7
+    followers: 3092
+    engagement: 1327
+    commentsToLikes: 0.025947
+    id: ckf5szt8kgk2k0j23mrxf180a
     verified: false
-    hashtags: "#celafaremo, #influencer, #paolacaruso, #andreazelletta"
-  - username: "tg1_rai_official"
+    hashtags: "#model, #summer, #milan, #costume"
+  - username: "alessandraricchizzi"
     fullname: >-
-      Tg1 Rai
+      Facialist
+    bio: >-
+      MyManualLifting® Founder @almarobyar @arbeautykit Press & collaborazioni 📧 info.ricchizzi@gmail.com Contacts on
     location: "Italy"
-    followers: 89270
-    engagement: 191
-    commentsToLikes: 0.020934
-    id: ck8szoyn2p6wc0j78744rk0m3
+    followers: 62616
+    engagement: 112
+    commentsToLikes: 0.056167
+    id: ck0uavr4ud6l10i19geyzok6i
     verified: false
-    hashtags: "#soul, #africa, #falconeeborsellino, #china"
+    hashtags: "#fashion, #skincare, #alessandraricchizzi, #facialist"
+  - username: "dariomonfort"
+    fullname: >-
+      Dario Monforté
+    bio: >-
+      ‎اتبع أسلوبي، اتبع حياتي! 跟着我，跟着我的生活 ！ 🇮🇹Digital Lover❤️ Since 2012 Globe Trotter 🌎 📍Milan/NYC/Palermo
+    location: "Italy"
+    followers: 107694
+    engagement: 123
+    commentsToLikes: 0.014737
+    id: ckf5ofk2b22c30j230d4hef6g
+    verified: false
+    hashtags: "#italy, #beauty, #adv, #milano"
 ---

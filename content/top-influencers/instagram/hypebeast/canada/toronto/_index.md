@@ -1,52 +1,125 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Toronto In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Toronto in 2020. Most popular hashtags: #hypebeast #trending #quarantine #explorecanada.
+  Find top hypebeast Instagram influencers in Toronto in 2020. Most popular hashtags: #hypebeast #toronto #instagood #agameoftones.
 platform: Instagram
+hits: 16
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "olivier_nadrin"
+  - username: "rajeevkugan"
     fullname: >-
-      Olivier Nadrin 🇧🇪
+      Rajeev Kugan 📸🎥🎬 Storyteller
+    bio: >-
+      Brand Slayer + Content Hustler + Tech Junkie 𝘊𝘳𝘦𝘢𝘵𝘰𝘳 𝘪𝘴 𝘫𝘶𝘴𝘵 𝘢 Title. 𝘗𝘢𝘴𝘴𝘪𝘰𝘯 𝘪𝘴 𝘵𝘩𝘦 Hustle 💼: @froznmedia 🔌: @ownthe6 @whistleadimedia 🎧: @icykle
     location: "Canada"
-    followers: 2263
-    engagement: 1426
-    commentsToLikes: 0.110406
-    id: ck5bvgjkfjlr40i11qxvzczxd
+    followers: 7626
+    engagement: 658
+    commentsToLikes: 0.150349
+    id: ck13aja6kqn9m0i19k674hc7v
     verified: false
-    hashtags: "#citykillers, #folknature, #discoverearth, #exploremore"
-  - username: "ggclx"
+    hashtags: "#toneception, #landscape, #curiocitytoronto, #portraitmood"
+  - username: "hungry.jo"
     fullname: >-
-      Gaby
+      Jo (Lifestyle Foodie🇨🇦Toronto)
+    bio: >-
+      For collaborations email: itshungryjo@gmail.com Yelp Elite 2020 Google Reviews Level 6 Follow me on my new venture @eventswithjo
     location: "Canada"
-    followers: 13459
-    engagement: 603
-    commentsToLikes: 0.065943
-    id: ck0uesx3nm5a00i19do5i46n4
+    followers: 20425
+    engagement: 220
+    commentsToLikes: 0.412722
+    id: ck5zs803wxzza0i14d5ekp97a
     verified: false
-    hashtags: "#happyvalentinesday, #valentinesday2020, #stayhome, #staysafe"
+    hashtags: "#markhameats, #cravethesix, #blogto, #hungryjo"
+  - username: "johannarosec"
+    fullname: >-
+      Johanna Rose Cabildo
+    bio: >-
+      🇵🇭🇨🇦TORONTO | NY Shop @ladiesnation •@shewants2move • @producthubofficial - @dropptv now available on the Apple App Store‼️
+    location: "Canada"
+    followers: 16760
+    engagement: 204
+    commentsToLikes: 0.134055
+    id: ck0w70nqbb64l0i19iuamgx5b
+    verified: false
+    hashtags: "#shewants2move, #shewantstomove, #toronto, #throwback"
+  - username: "tomeofficial_"
+    fullname: >-
+      TÖME
+    bio: >-
+      22 I only sing on Wednesday’s 🤷🏾‍♀️ #BT4W ~ May 22nd 😈
+    location: "Canada"
+    followers: 16824
+    engagement: 290
+    commentsToLikes: 0.160407
+    id: ck5c1h1hdv6dj0i111e480y4s
+    verified: false
+    hashtags: "#atlanta, #instamusic, #rnbsinger, #musicproducer"
+  - username: "sneakertalkca"
+    fullname: >-
+      Christian Cantelon ✪
+    bio: >-
+      Sneaker, Steetwear & Travel Vlogger on YouTube 📍Based in Toronto, Canada Sneaker Page ➡️ @sneakertalk365
+    location: "Canada"
+    followers: 36366
+    engagement: 239
+    commentsToLikes: 0.038199
+    id: ck6tr4rlbwxc40j712p3elo58
+    verified: false
+    hashtags: "#ootd, #sneakerhead, #jordan1mid, #adidas"
+  - username: "leezavitz"
+    fullname: >-
+      Lee Zavitz
+    bio: >-
+      Photographer | DP | Youtuber in Toronto, ON 🇨🇦 Lightroom Presets @classicportspresets
+    location: "Canada"
+    followers: 11649
+    engagement: 339
+    commentsToLikes: 0.042745
+    id: ck14jii61kit20i19iaf9ev7f
+    verified: false
+    hashtags: "#djironin, #instagood, #staycinematic, #5dmkii"
+  - username: "rezagilani.ca"
+    fullname: >-
+      Reza
+    bio: >-
+      Toronto, Canada 🇨🇦 Media bawse @thejibfestweekender @bestkindbbq Podcast @creativestalkshoppodcast
+    location: "Canada"
+    followers: 14804
+    engagement: 132
+    commentsToLikes: 0.073755
+    id: ck5qdaq5yunq10i11ku1v10c1
+    verified: false
+    hashtags: "#earthpix, #igtoronto, #torontolifestyle, #ftwotw"
   - username: "ryan.geric"
     fullname: >-
       
+    bio: >-
+      📍Toronto Cityscapes & Sneakers 🇨🇦🇩🇪🇸🇮 Portrait Account - @ryangeric.portraits DM to shoot/prints 📩 Quality photos live on forever
     location: "Canada"
     followers: 6230
     engagement: 493
     commentsToLikes: 0.057110
     id: ck5hk2mkshoiz0i11cprcthsr
     verified: false
-    hashtags: "#turbogreen1s, #zara, #offwhitedunk, #bikelife"
-  - username: "sneakertalkca"
+    hashtags: "#torontoclx, #6ixwalks, #complex, #justgoshoot"
+  - username: "canoopsy"
     fullname: >-
-      Christian Cantelon ✪
+      Canoopsy
+    bio: >-
+      Hi, I’m Isaac. Tech YouTuber - Student - Artist 🌱@plantbasedisaac 🇨🇦@torontoshotoniphone 🥡@kitchenrobbery
     location: "Canada"
-    followers: 38104
-    engagement: 265
-    commentsToLikes: 0.042755
-    id: ck6tr4rlbwxc40j712p3elo58
+    followers: 21489
+    engagement: 743
+    commentsToLikes: 0.024478
+    id: ck0u0603esq8k0i19cbgm0bb9
     verified: false
-    hashtags: "#jordan1, #housewarming, #airjordan, #noah"
+    hashtags: "#ad, #desksetup, #apple, #applewatch"
   - username: "halfbearhalfamazing"
     fullname: >-
       THE FURRIEST HYPEBEAST
+    bio: >-
+      Bear 🐻 5 year old Chow Chow. Luna 🐺 1 year old Siberian Husky. Toronto 📍
     location: "Canada"
     followers: 46565
     engagement: 379
@@ -54,54 +127,4 @@ profiles:
     id: ck9ha5mh1b90d0j78nkaqtu2c
     verified: false
     hashtags: "#crownandpaw"
-  - username: "wizardof32oz"
-    fullname: >-
-      Wiz
-    location: "Canada"
-    followers: 5654
-    engagement: 542
-    commentsToLikes: 0.054049
-    id: ck15t8gecgudp0i19kxc66k4k
-    verified: false
-    hashtags: "#goodyearwelt, #combs, #locojacket, #akubra"
-  - username: "prestigiousoul"
-    fullname: >-
-      Official Sasha Khanna
-    location: "Canada"
-    followers: 10483
-    engagement: 239
-    commentsToLikes: 0.090219
-    id: ck134n94dx8rx0i19t2fhhyxl
-    verified: false
-    hashtags: "#armani, #styleblogger, #story, #bloggergoals"
-  - username: "bmcgannphotos"
-    fullname: >-
-      Brendan McGann
-    location: "Canada"
-    followers: 6076
-    engagement: 481
-    commentsToLikes: 0.064302
-    id: ck5hf8zylwd880i118gy98y9e
-    verified: false
-    hashtags: "#lambo, #kaws, #hondacivic, #lamborghini"
-  - username: "vishakha_sodha"
-    fullname: >-
-      Vishakha Sodha Khakhar
-    location: "Canada"
-    followers: 46280
-    engagement: 290
-    commentsToLikes: 0.078275
-    id: ck5q4xd6uqlz90i11knuentpj
-    verified: false
-    hashtags: "#beautyobsessed, #bedroom, #indialove, #moodyports"
-  - username: "rajeevkugan"
-    fullname: >-
-      ʀᴀᴊᴇᴇᴠᴋᴜɢᴀɴ
-    location: "Canada"
-    followers: 7888
-    engagement: 745
-    commentsToLikes: 0.094299
-    id: ck13aja6kqn9m0i19k674hc7v
-    verified: false
-    hashtags: "#foodies, #creative, #moodyfilm, #colors"
 ---

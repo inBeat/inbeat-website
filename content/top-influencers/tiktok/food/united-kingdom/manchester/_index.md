@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Manchester In 2020
 description: >-
-  Find top food TikTok influencers in Manchester in 2020. Most popular hashtags: #food #manchester #coronavirus #corona.
+  Find top food TikTok influencers in Manchester in 2020. Most popular hashtags: #fyp #foryou #food #foryoupage.
 platform: TikTok
+hits: 28
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 28 TikTok influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
-  - username: "beybo123"
+  - username: "eiad_d"
     fullname: >-
-      ❤Ashi❤
+      Eiad
+    bio: >-
+      Cant even say corona made me do it😬 🇸🇾🇬🇧
     location: "United Kingdom"
-    followers: 4343
-    engagement: 1136
-    commentsToLikes: 0.051514
-    id: ck83wxcajmqkv0j784yid8gce
+    followers: 4578
+    engagement: 1775
+    commentsToLikes: 0.153464
+    id: ckbw8lpk0z9vx0j23t8xb5cwc
     verified: false
-    hashtags: "#handichicken, #memories, #greenscreen, #bhaibehn"
-  - username: "manchesterlifestyle"
+    hashtags: "#arabfyp, #duet, #freepalestine, #muslimtiktok"
+  - username: "life.of.ty"
     fullname: >-
-      Manchesterlifestyle
+      Life Of Ty
+    bio: >-
+      Professional ginger, with to much free time... find me on cameo @NotEdSheeran
     location: "United Kingdom"
-    followers: 31139
-    engagement: 1202
-    commentsToLikes: 0.090883
-    id: cka0r8dzwg09d0i78oulgapy7
+    followers: 76900
+    engagement: 529
+    commentsToLikes: 0.030093
+    id: ckbqmxir97uri0j23j9zs2gdk
     verified: false
-    hashtags: "#houseoftiktok"
-  - username: "nicolabutler845"
+    hashtags: "#comedy, #edsheeran, #edit, #food"
+  - username: "novustory"
     fullname: >-
-      💕Nicola💕
+      Novustory
+    bio: >-
+      Uk Rock Band🇬🇧 4 best mates making videos Find us on YouTube?😍🙏 🏳️‍🌈❤️
     location: "United Kingdom"
-    followers: 6456
-    engagement: 1399
-    commentsToLikes: 0.116311
-    id: ckan3lc1q5sx10i78x1lmpmah
+    followers: 4484
+    engagement: 1560
+    commentsToLikes: 0.131781
+    id: ckb9q95xym3540j23relpj81b
     verified: false
-    hashtags: "#angels, #turnaround, #myfav, #pullup"
-  - username: "mktheplug_"
+    hashtags: "#halloween, #covers, #fyp, #singing"
+  - username: "baldmuthatrucka"
     fullname: >-
-      Mktheplug
+      Ryan
+    bio: >-
+      🔞 Adult Humour 🔞 A parody of myself Can Beer and Takeaway food = Love ❤️
     location: "United Kingdom"
-    followers: 5540
-    engagement: 858
-    commentsToLikes: 0.050356
-    id: cka64zjvnav9w0i78q5clvmsg
+    followers: 11000
+    engagement: 1318
+    commentsToLikes: 0.189571
+    id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#perfect, #indian, #mosque, #bleach"
-  - username: "thqureshi1"
+    hashtags: "#friends, #tiktok, #bathroom, #joke"
+  - username: "thelifeofbako"
     fullname: >-
-      thqureshi1
+      The Life Of Bako
+    bio: >-
+      🇦🇫 Your Daily Dose of Happiness! 🇳🇱🇬🇧 Manchester
     location: "United Kingdom"
-    followers: 27417
-    engagement: 727
-    commentsToLikes: 0.018812
-    id: ck80oca8lgr4z0j78j6497jd9
+    followers: 4849
+    engagement: 1011
+    commentsToLikes: 0.027519
+    id: ckb9kplh0cqmz0j23o7x4gaoz
     verified: false
-    hashtags: "#stayathome, #coronavirus, #toronto, #aquarium"
+    hashtags: "#haha, #jokes, #thelifeofbako, #humour"
+  - username: "trainwithadby"
+    fullname: >-
+      Adby Twins
+    bio: >-
+      👬 FITNESS TWINS 💪🏼Jon & Eddie 🏴󠁧󠁢󠁥󠁮󠁧󠁿Manchester 📲INSTA 📸
+    location: "United Kingdom"
+    followers: 281400
+    engagement: 785
+    commentsToLikes: 0.017361
+    id: ckav6epozd7an0j23k1ze9fxu
+    verified: false
+    hashtags: "#foryou, #personaltrainer, #fitness, #twins"
+  - username: "ministryofmunch"
+    fullname: >-
+      ministryofmunch
+    bio: >-
+      Street food, seafood or smoothie bowls... you can learn it all here!🍟
+    location: "United Kingdom"
+    followers: 17500
+    engagement: 903
+    commentsToLikes: 0.017354
+    id: ckb9s7ff4pb710j2379cvir26
+    verified: true
+    hashtags: "#healthy, #learnontiktok, #foryou, #munch"
+  - username: "uszyy2k"
+    fullname: >-
+      Uszyyy
+    bio: >-
+      Manchester 📍
+    location: "United Kingdom"
+    followers: 4494
+    engagement: 678
+    commentsToLikes: 0.026746
+    id: cka0r8bhifzpe0i782pcpd5qw
+    verified: false
+    hashtags: "#viral, #manchester, #freestyledance, #trending"
   - username: "jordanrtw"
     fullname: >-
       Jordan Scott
+    bio: >-
+      🙎🏼‍♂️Jordan🙎🏼‍♂️ 📍Manchester, UK📍 🌍 Travelling the world 🌍 💍 @Samm6794
     location: "United Kingdom"
-    followers: 5475
-    engagement: 319
-    commentsToLikes: 0.028656
+    followers: 5300
+    engagement: 346
+    commentsToLikes: 0.026669
     id: ck80oe0abh6hk0j78zu7llw7p
     verified: false
-    hashtags: "#6sblinktest, #ibiza, #finishthesong, #likeforlike"
-  - username: "beautyfulpeople_"
+    hashtags: "#couplegoals, #phiphi, #animals, #australia"
+  - username: "famz7991"
     fullname: >-
-      Michael Murphy
+      Fahima
+    bio: >-
+      Here to have fun and be creative Insta: fa_bakes Thank you for 13k 💕 Link👇🏽
     location: "United Kingdom"
-    followers: 11964
-    engagement: 357
-    commentsToLikes: 0.028380
-    id: cka5zg4a8mmj70i78bc8anlrv
+    followers: 13700
+    engagement: 1146
+    commentsToLikes: 0.058257
+    id: ckb9pel7ekawi0j23jlt8sua8
     verified: false
-    hashtags: "#aunty, #gcpride, #familyfued, #saturday"
-  - username: "jamiefreestyle"
-    fullname: >-
-      Jamie MacDonald
-    location: "United Kingdom"
-    followers: 461023
-    engagement: 1318
-    commentsToLikes: 0.029865
-    id: ck8z66dhrkwr10j7899v1jogb
-    verified: true
-    hashtags: "#freestylefootball, #triceptesters, #littlethings, #tekkers"
-  - username: "sabzkhanjee"
-    fullname: >-
-      Sabz Khan
-    location: "United Kingdom"
-    followers: 12724
-    engagement: 481
-    commentsToLikes: 0.071758
-    id: ck81q00qpeur00j78v53k7plh
-    verified: false
-    hashtags: "#darryljason, #punjabi, #mixed, #power"
-  - username: "jadenugentnugs"
-    fullname: >-
-      Jade Nugent
-    location: "United Kingdom"
-    followers: 5563
-    engagement: 973
-    commentsToLikes: 0.022296
-    id: ck900p3agal0t0j788e7mth2x
-    verified: false
-    hashtags: "#clubbinglife, #sleep, #sims, #marigold"
+    hashtags: "#food, #foodie, #smallbusiness, #cake"
 ---

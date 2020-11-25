@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Seoul In 2020
 description: >-
-  Find top skincare Instagram influencers in Seoul in 2020. Most popular hashtags: #skincare #kbeauty #ad #giveaway.
+  Find top skincare Instagram influencers in Seoul in 2020. Most popular hashtags: #skincare #kbeauty #seoul #makeup.
 platform: Instagram
+hits: 11
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Seoul, South Korea for you to pitch.
 profiles:
-  - username: "ascia"
+  - username: "come2david"
     fullname: >-
-      Ascia • آسيا
+      정준구
+    bio: >-
+      ⚡️브이크림 2차 OPEN⚡️한정수량⬇️⬇️⬇️
     location: "South Korea"
-    followers: 2713620
-    engagement: 129
-    commentsToLikes: 0.011855
-    id: ck0u6lb5j29c00i19e2bsbsa0
-    verified: true
-    hashtags: "#openup, #nonstopentertainment, #momscan, #quarantine"
+    followers: 289638
+    engagement: 264
+    commentsToLikes: 0.006728
+    id: ck0w1k4lvjqz90i19vph5do8v
+    verified: false
+    hashtags: "#preweddingphoto, #kbrandlive, #makeup, #kwedding"
+  - username: "d2nasoaring"
+    fullname: >-
+      Dina 디나 Mujanović
+    bio: >-
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
+    location: "South Korea"
+    followers: 7855
+    engagement: 1165
+    commentsToLikes: 0.068807
+    id: ck6tvpzpwnm7r0j718srk9qrl
+    verified: false
+    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
   - username: "lapaisible_ss"
     fullname: >-
       라파지블 플로리스트 자매 Florist sisters
+    bio: >-
+      플라워 디자인 라파지블 Florist @lapaisible_sh @lapaisible_sm KakaoID : lapaisible 2, Ogin 3-gil, Jongno-gu, Seoul, Korea 02 734 1205 lapaisibleflower@gmail.com
     location: "South Korea"
-    followers: 27266
-    engagement: 253
-    commentsToLikes: 0.016652
+    followers: 34928
+    engagement: 199
+    commentsToLikes: 0.021245
     id: ck14grffa6ndm0i190n7yseu8
     verified: false
-    hashtags: "#repost, #10, #fresh, #musical"
-  - username: "shawn_issure"
-    fullname: >-
-      
-    location: "South Korea"
-    followers: 42982
-    engagement: 512
-    commentsToLikes: 0.042376
-    id: ck0w30nxbr1du0i19btqzux0p
-    verified: false
-    hashtags: "#koreabeauty, #mensmakeup, #insta, #time2mini"
-  - username: "so_beauty0501"
-    fullname: >-
-      진율♥️
-    location: "South Korea"
-    followers: 45001
-    engagement: 74
-    commentsToLikes: 0.035081
-    id: ck136f9ld67h60i19ugb5dz8x
-    verified: false
-    hashtags: "#ootdfashion, #bobbibrownlipstick, #pinkpinkpink, #20"
-  - username: "byjeannine"
-    fullname: >-
-      JEANNINE
-    location: "South Korea"
-    followers: 484677
-    engagement: 609
-    commentsToLikes: 0.033975
-    id: ck135e2am0ypn0i19495uu3c4
-    verified: false
-    hashtags: "#skincaregiveaway, #dontrushchallenge, #xmasgiveaway, #makeupgiveaways"
-  - username: "koreanboywoogie"
-    fullname: >-
-      Woogie 🇰🇷🇬🇧
-    location: "South Korea"
-    followers: 12631
-    engagement: 467
-    commentsToLikes: 0.033836
-    id: ck5hkmtokipn30i11hn6b414f
-    verified: false
-    hashtags: "#kbeauty, #supermlondon, #londonexo, #yourcity"
+    hashtags: "#lapaisibleflower, #florist, #lapaisible, #advancednightrepair"
   - username: "teoyang"
     fullname: >-
       Teo Yang 양태오
+    bio: >-
+      TeoYang Design Studio & EATH Library Skincare for work please contact teoyang.studio@gmail.com
     location: "South Korea"
-    followers: 70475
-    engagement: 168
-    commentsToLikes: 0.021315
+    followers: 76498
+    engagement: 195
+    commentsToLikes: 0.014059
     id: ck5zwlc7j6brv0i145d16j0s3
     verified: false
-    hashtags: "#cutnessoverload, #happiness, #puppylove, #danielboyd"
-  - username: "ascia"
+    hashtags: "#ugorondinone, #loeweperfumes, #offwhite, #bonestfurniture"
+  - username: "darcie.j"
     fullname: >-
-      Ascia • آسيا
+      달씨 Darcie
+    bio: >-
+      ✨SEOUL, KOREA ✨TFLHS 21th ✨SKKU ‘20
     location: "South Korea"
-    followers: 2713620
-    engagement: 129
-    commentsToLikes: 0.011855
-    id: ck0u6lb5j29c00i19e2bsbsa0
-    verified: true
-    hashtags: "#openup, #nonstopentertainment, #momscan, #quarantine"
-  - username: "kjin_717"
-    fullname: >-
-      Kwang Jin
-    location: "South Korea"
-    followers: 25873
-    engagement: 1114
-    commentsToLikes: 0.027042
-    id: ck0w2jcbqonqf0i19vm1d7lb2
+    followers: 51871
+    engagement: 1818
+    commentsToLikes: 0.006522
+    id: ckap7h5ock20k0i78d0s1zjv7
     verified: false
-    hashtags: "#oldfacechallenge, #yoalos80, #26, #antara"
-  - username: "byjeannine"
+    hashtags: "#seoul, #korea, #skku, #sungkyunkwan"
+  - username: "morganalisonstewart"
     fullname: >-
-      JEANNINE
+      Morgan
+    bio: >-
+      Korean + American ✨ 550,000+ on The Beauty Breakdown Channel ✨Official Instagram ✨ moegeebear on Twitch ✨👇🎥 #thebeautybreakdown
     location: "South Korea"
-    followers: 484677
-    engagement: 609
-    commentsToLikes: 0.033975
-    id: ck135e2am0ypn0i19495uu3c4
+    followers: 78072
+    engagement: 228
+    commentsToLikes: 0.014175
+    id: ck55j9taqwl0x0i11n9d4lden
     verified: false
-    hashtags: "#skincaregiveaway, #dontrushchallenge, #xmasgiveaway, #makeupgiveaways"
+    hashtags: "#kbeauty, #koreanskincare, #skincare, #koreanbeauty"
+  - username: "welcometothepanoptico"
+    fullname: >-
+      세바 ~ (SHIPPO-YO) 📽️
+    bio: >-
+      [국] ing . . [×] S to the N #TRASH [위치] 서울
+    location: "South Korea"
+    followers: 56436
+    engagement: 1357
+    commentsToLikes: 0.011777
+    id: ck5pw4bzyl1bn0i11a94fpj2o
+    verified: false
+    hashtags: "#vsco, #life, #snow, #summer"
+  - username: "hanna.co.kr"
+    fullname: >-
+      Hanna Kim 김한나
+    bio: >-
+      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
+    location: "South Korea"
+    followers: 18777
+    engagement: 321
+    commentsToLikes: 0.016405
+    id: ck5zm77ftm18b0i145hym7m16
+    verified: false
+    hashtags: "#brunch, #work, #dogsofinstagram, #radio"
+  - username: "2.rosie"
+    fullname: >-
+      Rosie
+    bio: >-
+      
+    location: "South Korea"
+    followers: 13991
+    engagement: 414
+    commentsToLikes: 0.020267
+    id: ckaoznypgmmcz0i783rrvts5o
+    verified: false
+    hashtags: "#newvideo, #seoul, #vlog, #linkinbio"
+  - username: "funskincare"
+    fullname: >-
+      Claudia Christin
+    bio: >-
+      MBBS, Dermatology Ph.D. 🇲🇨 - 🇰🇷 . More link and articles down below✨
+    location: "South Korea"
+    followers: 78629
+    engagement: 356
+    commentsToLikes: 0.034453
+    id: ck0u2jw7601hw0i19mynry23z
+    verified: false
+    hashtags: "#selfcare, #skinstagram, #selflove, #instaskin"
 ---

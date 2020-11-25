@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Milan In 2020
 description: >-
-  Find top nutrition Instagram influencers in Milan in 2020. Most popular hashtags: #nutrition #healthyfood #workout #milan.
+  Find top nutrition Instagram influencers in Milan in 2020. Most popular hashtags: #milano #fitnessgirl #fitness #nutrition.
 platform: Instagram
+hits: 22
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 22 Instagram influencers like this in Milan, Italy for you to connect with.
 profiles:
-  - username: "lahilary__"
+  - username: "nicolepaccagnella"
     fullname: >-
-      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
+      Nicole Paccagnella
+    bio: >-
+      👗 @nicoledirossi Founder 📍 Venice 🍱 Asian Food Lover 🔹 Facebook.com/nicolepaccagnellaofficial 💌 info@nicolepaccagnella.com 💻 www.nicolepaccagnella.com
     location: "Italy"
-    followers: 7211
-    engagement: 842
-    commentsToLikes: 0.106370
-    id: ck5c0s71dtr490i11ku0zhjsc
+    followers: 51002
+    engagement: 236
+    commentsToLikes: 0.074371
+    id: ck55ohpp48dnr0i11oydychn7
     verified: false
-    hashtags: "#ragazze, #rules, #meal, #dayoff"
+    hashtags: "#motivation, #ootd, #fitnessmotivation, #outfit"
+  - username: "kickandpunch"
+    fullname: >-
+      Angelo Valente
+    bio: >-
+      🥊4x World Champion Kick Boxing WKA WKPC WFC 🥊Italian Champion Full Contact🥊Italian Champion Savate @kickandpunch_milano via Vivaio 1 Milano
+    location: "Italy"
+    followers: 43247
+    engagement: 118
+    commentsToLikes: 0.070557
+    id: ck6tyhzsq3u9a0j718k4z0iy0
+    verified: true
+    hashtags: "#kickandpunch, #kickboxing, #milano, #bjj"
   - username: "giulia_peroni"
     fullname: >-
       Giulia Peroni
+    bio: >-
+      📍 Milan, Italy 📚 Biotecnologie 📲 Collaborations in DM 🍕 Ambassador @beatotemilano 🍔 Ambassador @mamma_milano
     location: "Italy"
-    followers: 6739
-    engagement: 2246
-    commentsToLikes: 0.031237
+    followers: 10499
+    engagement: 1523
+    commentsToLikes: 0.020501
     id: ck8t1re9mwqh40j78khs4tgix
     verified: false
-    hashtags: "#venice, #boxing, #diet, #inspiration"
-  - username: "jimmy.spagnesi"
+    hashtags: "#followme, #amazing, #life, #moda"
+  - username: "____helios____"
     fullname: >-
-      Gianmarco Spagnesi
+      Elisa Hélios Priano
+    bio: >-
+      📩 elisapriano97@gmail.com ♫ #Singer/#Actress • @sdmlascuoladelmusical 📍 Milano - 🏡 Genova 🇮🇹 & I’m a #Photographer! ⇨ @helios_ph ⇩ SPOTIFY ⇩
     location: "Italy"
-    followers: 7578
-    engagement: 704
-    commentsToLikes: 0.008231
-    id: ck6u5x1jcc8ws0j71xre41ie1
+    followers: 14509
+    engagement: 273
+    commentsToLikes: 0.017365
+    id: ck6u3ktytyd100j71cukkev5t
     verified: false
-    hashtags: "#wave, #foodporn, #design, #view"
-  - username: "claudiaserrano"
+    hashtags: "#babygirl, #valentino, #swedishgirl, #prada"
+  - username: "simofit_xw"
     fullname: >-
-      𝑐𝑙𝑎𝑢𝑑𝑖𝑎 𝑠𝑒𝑟𝑟𝑎𝑛𝑜✨
+      Simona Bartolini | FITNESS
+    bio: >-
+      Allenamento Femminile e Dolci Fit 𝑀𝑒𝑔𝓁𝒾𝑜 𝓊𝓃𝒶 𝓋𝑒𝓇𝒾𝓉à 𝒸𝒽𝑒 𝒻𝑒𝓇𝒾𝓈𝒸𝑒 𝒹𝒾 𝓊𝓃𝒶 𝒷𝓊𝑔𝒾𝒶 𝒹𝒾 𝒸𝑜𝓂𝑜𝒹𝑜 XWoman Coach®️Chef Model @xwoman_nutrition -10% XWPRO119
     location: "Italy"
-    followers: 7082
-    engagement: 585
-    commentsToLikes: 0.036945
-    id: ck9hbpsdjhy2o0j78cel4ox5u
+    followers: 13773
+    engagement: 352
+    commentsToLikes: 0.071804
+    id: ckaparbigx67u0i78bu1khe1b
     verified: false
-    hashtags: "#carrotcake, #healthyfoodporn, #milandiaries, #chapulines"
+    hashtags: "#dimagrire, #palestra, #blondiegirls, #mangiaresano"
+  - username: "benedettapettinari"
+    fullname: >-
+      
+    bio: >-
+      🎤| Tv presenter - Actress 🎥| @sportitalia_official ⚽️🏎 | @virginactiveit ambassador | 📍| #milano 📩| social sonia@tobemgmt.com
+    location: "Italy"
+    followers: 62571
+    engagement: 811
+    commentsToLikes: 0.017480
+    id: ck13644v24ods0i19bctzwdkb
+    verified: false
+    hashtags: "#fitnessgirl, #training, #amala, #lagodigarda"
+  - username: "xristinabourdi"
+    fullname: >-
+      𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒏𝒂 ♡ 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆
+    bio: >-
+      • 📍 Based in Greece • • 🎓 Bsc in Food Technology and Nutrition • • 🔬 Quality Control Analyst • • 📸 Photography lover • • ✎ xrist_bou@hotmail.com •
+    location: "Italy"
+    followers: 6759
+    engagement: 990
+    commentsToLikes: 0.011457
+    id: ckap1j4zouquv0i78l0frx28w
+    verified: false
+    hashtags: "#girlsthatwander, #budapesthungary, #greece, #greektravelblogger"
   - username: "cristinachirichella10"
     fullname: >-
       Cristina Chirichella
+    bio: >-
+      Professional Volleyball Player •Igor Volley Novara #10 •Italian National Team🇮🇹 •Nike Athlete •#TeamLGS,@lgssportlab •📚Università Cattolica Milano
     location: "Italy"
     followers: 144763
     engagement: 388
     commentsToLikes: 0.005745
     id: ck13cndhy17i30i19qrqkoi14
     verified: true
-    hashtags: "#power, #happiness, #breath, #ricerche"
-  - username: "xristinabourdi"
-    fullname: >-
-      𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒏𝒂 ♡ 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆
-    location: "Italy"
-    followers: 6473
-    engagement: 1034
-    commentsToLikes: 0.009258
-    id: ckap1j4zouquv0i78l0frx28w
-    verified: false
-    hashtags: "#ighungary, #hungariangirl, #wonderful, #travelgram"
+    hashtags: "#athletelife, #nike, #empoweryourbeauty, #iorestoacasa"
   - username: "soulfood_fitmind"
     fullname: >-
       Dott.ssa Alice Carnevale
+    bio: >-
+      NUTRIZIONISTA🍎 *VISITO A MILANO E VIA SKYPE👩🏻‍⚕️ Info visite:alicecarnevalenutri@gmail.com Info collab: Alicecarnevale.business@gmail.com
     location: "Italy"
-    followers: 37762
-    engagement: 498
-    commentsToLikes: 0.039135
+    followers: 42969
+    engagement: 509
+    commentsToLikes: 0.029441
     id: ck6tlnng36an80j71vt4449hg
     verified: false
-    hashtags: "#fetaalforno, #biscottihomade, #bloating, #totalbody"
-  - username: "marineuses"
+    hashtags: "#ricettesane, #healthy, #dietasana, #ricette"
+  - username: "nutrizionista.carracillo"
     fullname: >-
-      Sara Marinaccio
+      Dott.ssa Federica Carracillo
+    bio: >-
+      Consulenze nutrizionali Laurea in Dietistica Laurea in scienze della nutrizione umana Iscritta ONB Cibo sano, ricette, pensieri positivi Milano
     location: "Italy"
-    followers: 18982
-    engagement: 289
-    commentsToLikes: 0.031805
-    id: ck8t34h1z1tmc0j7885xqgxk9
+    followers: 3752
+    engagement: 804
+    commentsToLikes: 0.106156
+    id: ck9wf9g9hntmt0j78go055grc
     verified: false
-    hashtags: "#breathedeep, #portraitlovers, #gratefullness, #milano"
-  - username: "domenicocamarda_"
-    fullname: >-
-      DOMENICO | PERSONAL TRAINER
-    location: "Italy"
-    followers: 11617
-    engagement: 1134
-    commentsToLikes: 0.655745
-    id: ck8t45qff5lmx0j78grye67of
-    verified: false
-    hashtags: "#ptonline, #natale2019, #milanomoda, #cute"
-  - username: "francescodellavedova__"
-    fullname: >-
-      Francesco Della Vedova
-    location: "Italy"
-    followers: 133849
-    engagement: 262
-    commentsToLikes: 0.143464
-    id: ck5byynu9q41q0i11ov59zwv1
-    verified: false
-    hashtags: "#travel, #sport, #gymmotivation, #elevatorshoes"
+    hashtags: "#fitfoodnoi2, #recipe, #nutrizionista, #hofameistheway"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top beauty Instagram influencers in Bogotá in 2020. Most popular hashtags: #beauty #colombia #bogota #model.
+  Find top beauty Instagram influencers in Bogotá in 2020. Most popular hashtags: #beauty #makeup #makeupartist.
 platform: Instagram
+hits: 45
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 45 Instagram influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
+  - username: "rafaellamusik"
+    fullname: >-
+      RAFAELLA ⭐️
+    bio: >-
+      Beauty. ✨ @rafaella.beauty_ Bogotá | Col
+    location: "Colombia"
+    followers: 914540
+    engagement: 206
+    commentsToLikes: 0.005800
+    id: ck8sxajkzgp4n0j78e8qdbi4h
+    verified: false
+    hashtags: ""
   - username: "nataliagw"
     fullname: >-
       
+    bio: >-
+      also at @rio_representa btá, colombia
     location: "Colombia"
-    followers: 6116
-    engagement: 745
-    commentsToLikes: 0.080136
+    followers: 7162
+    engagement: 752
+    commentsToLikes: 0.067563
     id: ck0w38bhrs3au0i19wtad8pnd
     verified: false
-    hashtags: "#colombiamoda2019, #mulierruniverse, #mlrrgirls, #lookbook"
-  - username: "jessica.zabala"
+    hashtags: "#puppies, #madeincolombia, #dogsofinstagram, #hechoencolombia"
+  - username: "valerialruiz"
     fullname: >-
-      Jessica Zabala
+      Valeria Lizarralde Ruiz
+    bio: >-
+      📷 @inactph Artes Escénicas - Comunicación Social. | Lifestyle & Music | 📩: valerializarralde@hotmail.
     location: "Colombia"
-    followers: 59094
-    engagement: 1461
-    commentsToLikes: 0.029326
-    id: ck9wghcvxtf430j788scdohfk
+    followers: 10667
+    engagement: 920
+    commentsToLikes: 0.028846
+    id: ckap2ifi0yz3c0i78ysqnkp4q
     verified: false
-    hashtags: ""
-  - username: "camilabedoyac1"
-    fullname: >-
-      Camila Bedoya
-    location: "Colombia"
-    followers: 64009
-    engagement: 203
-    commentsToLikes: 0.054516
-    id: ck5zkdz4rjb0a0i14hc690twm
-    verified: false
-    hashtags: "#pereira, #fashion, #beauty, #estetica"
-  - username: "grow.hair_colombia"
-    fullname: >-
-      GROW HAIR COLOMBIA💚
-    location: "Colombia"
-    followers: 23725
-    engagement: 7
-    commentsToLikes: 0.085704
-    id: ck0ubkc9qena70i19wctswqq3
-    verified: false
-    hashtags: "#sweepstakes, #cabellomaltratados, #skin, #treatments"
+    hashtags: "#photo, #art, #model, #vscocam"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
+    bio: >-
+      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
     location: "Colombia"
-    followers: 37964
-    engagement: 847
-    commentsToLikes: 0.111113
+    followers: 46541
+    engagement: 761
+    commentsToLikes: 0.037433
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
-  - username: "vaneperegrina"
+    hashtags: "#fotografia, #foto, #reels, #zombie"
+  - username: "jessica.zabala"
     fullname: >-
-      Vanessa Nieto - Escritora
+      Jessica Zabala
+    bio: >-
+      📍Bogotá Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
     location: "Colombia"
-    followers: 20482
-    engagement: 332
-    commentsToLikes: 0.056724
-    id: ckapa0su0u9jf0i78hrsu5scq
+    followers: 89469
+    engagement: 1163
+    commentsToLikes: 0.149957
+    id: ck9wghcvxtf430j788scdohfk
     verified: false
-    hashtags: "#denimjacket, #felizlunes, #mujereslatinas, #portaretrato"
-  - username: "maye_valencia"
+    hashtags: "#blackouttuesday"
+  - username: "saracalderonmakeup"
     fullname: >-
-      Mayerly Valencia
+      Maquillaje Cartagena
+    bio: >-
+      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
     location: "Colombia"
-    followers: 2428
-    engagement: 2290
-    commentsToLikes: 0.078866
-    id: ckap1llflv2k30i7869m18ry5
+    followers: 6466
+    engagement: 868
+    commentsToLikes: 0.118183
+    id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
-    hashtags: "#instalove, #instagood, #beauty, #like4likes"
+    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
+  - username: "julianatomann"
+    fullname: >-
+      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
+    bio: >-
+      ¡𝗔𝘆𝘂𝗱𝗼 𝗮 𝗹𝗮𝘀 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘀 𝗮 𝗴𝗲𝗻𝗲𝗿𝗮𝗿 𝘃𝗮𝗿𝗶𝗮𝘀 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗱𝗲 𝗶𝗻𝗴𝗿𝗲𝘀𝗼! 👨‍👩‍👦‍👦|ƒαмιℓια 🌡|Eɴғᴇʀᴍᴇʀᴀ 🇨🇴|𝘽𝙊𝙂-𝘾𝙊𝙇 🙏🏻|𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜 #bogota #love #mujer #fuerza
+    location: "Colombia"
+    followers: 16266
+    engagement: 680
+    commentsToLikes: 0.111989
+    id: ck14ltbuxwdna0i19naqt0jed
+    verified: false
+    hashtags: "#beauty, #follow, #entrepreneur, #love"
+  - username: "adribeautyartist"
+    fullname: >-
+      ✨Adri Beauty Artist✨
+    bio: >-
+      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje y Cursos👇🏻
+    location: "Colombia"
+    followers: 13381
+    engagement: 852
+    commentsToLikes: 0.137053
+    id: ckaoyngqii8us0i78s7n5ut7m
+    verified: false
+    hashtags: "#maquillajebarranquilla, #makeupartist, #maquilladora, #maquillaje"
   - username: "tatiana_romero11"
     fullname: >-
       Tatiana Romero
+    bio: >-
+      😍🌸 @taked_storee @laagenciabatallademodelos #2019 🇨🇴 M O D E L O Bogota @grupo4co Cali @elmolinoagencia 22 Arquitectura 😍 🔨🔧🏢
     location: "Colombia"
-    followers: 22123
-    engagement: 329
-    commentsToLikes: 0.045414
+    followers: 21152
+    engagement: 370
+    commentsToLikes: 0.047657
     id: ck5zzyi59cmwl0i14c11dq376
     verified: false
-    hashtags: "#mode, #negra, #beauty, #shine"
-  - username: "luisaperezm10"
+    hashtags: "#misstopontheworld, #mode, #girl, #vida"
+  - username: "enrique_penha"
     fullname: >-
-      Luisa Pérez
+      Enrique Peña
+    bio: >-
+      Bogotá 📍
     location: "Colombia"
-    followers: 13074
-    engagement: 744
-    commentsToLikes: 0.040315
-    id: ck8sz2hpxmxcn0j78lcczzygw
+    followers: 6206
+    engagement: 656
+    commentsToLikes: 0.045941
+    id: ck5zkdylfjaz10i141ir9dcwg
     verified: false
-    hashtags: "#nomakeup, #bathroomdesign, #swimwear, #chill"
-  - username: "grecia.viloria31"
-    fullname: >-
-      MARICAAAA YAAA
-    location: "Colombia"
-    followers: 10650
-    engagement: 713
-    commentsToLikes: 0.028254
-    id: ck9hcbayfkm2s0j786i6g2dp4
-    verified: false
-    hashtags: "#schnauzer, #pillowchallenge, #mood, #petlovers"
+    hashtags: "#portrait, #magazine, #editorial, #photoshoot"
 ---

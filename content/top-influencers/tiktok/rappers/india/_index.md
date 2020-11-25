@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In India In 2020
 description: >-
-  Find top rappers TikTok influencers in India in 2020. Most popular hashtags: #tiktok #trend #viralvideo #playathome.
+  Find top rappers TikTok influencers in India in 2020. Most popular hashtags: #foryou #fyp #trending #duet.
 platform: TikTok
+hits: 69
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 69 TikTok influencers like this in India for you to pitch.
 profiles:
-  - username: "nippunepewala83"
-    fullname: >-
-      Nippu Nepewala
-    location: "India"
-    followers: 53034
-    engagement: 2092
-    commentsToLikes: 0.012221
-    id: cka88x54acztt0i78rtmmdyag
-    verified: false
-    hashtags: "#croud, #desivillager, #viralvideo, #timepass"
-  - username: "rdrdesirapperrajat"
-    fullname: >-
-      Desi Rapper Rajat
-    location: "India"
-    followers: 6542
-    engagement: 1964
-    commentsToLikes: 0.016904
-    id: ckafurntxbq7e0i78jhgtuna0
-    verified: false
-    hashtags: "#sadshayari, #loveyou, #fory, #attitude"
-  - username: "rishubawa420"
-    fullname: >-
-      ℝ𝕚𝕤𝕙𝕦𝕓𝕒𝕨𝕒420
-    location: "India"
-    followers: 61273
-    engagement: 1854
-    commentsToLikes: 0.015522
-    id: ckaftty0j74xj0i78kdxl7448
-    verified: false
-    hashtags: "#san, #ji, #rdr, #samajh"
   - username: "venkyprinceak89"
     fullname: >-
       ❤👑venky_prince👑89❤
+    bio: >-
+      welcome😜👉to🙇My World wishe me on 5th March ❤89dz..... Editor n Rapper Artists
     location: "India"
-    followers: 250231
-    engagement: 1264
-    commentsToLikes: 0.045205
+    followers: 254100
+    engagement: 1308
+    commentsToLikes: 0.039092
     id: ck9ohn0dyby0r0j78l37lboxq
     verified: false
-    hashtags: "#love, #tiktok, #khwaja, #raghavalawrence"
+    hashtags: "#goviral, #foryou, #tidelagaodaaghatao, #bollywood"
+  - username: "ud.raaz"
+    fullname: >-
+      🔲🔲 U.D_raaz 🔲🔲
+    bio: >-
+      SINGER&RAPPER New Song 👇🏻👇🏻👇🏻
+    location: "India"
+    followers: 129200
+    engagement: 1420
+    commentsToLikes: 0.014902
+    id: cka0wxrml4tld0i78vzmbnwep
+    verified: false
+    hashtags: "#machayenge, #brother, #myntraeorschallenge, #schoollove"
+  - username: "nippunepewala83"
+    fullname: >-
+      Nippu Nepewala
+    bio: >-
+      Lyricst, Rapper, Singer, (Haryanvi, Hindi ) Instagram,nippunepewalaofficial
+    location: "India"
+    followers: 71700
+    engagement: 1780
+    commentsToLikes: 0.010708
+    id: cka88x54acztt0i78rtmmdyag
+    verified: false
+    hashtags: "#duet, #degree, #sharethecare, #nippunepewala83"
+  - username: "deepakbundela57"
+    fullname: >-
+      The Royal DaDa_Sa
+    bio: >-
+      Actor/Director/Writer/Rapper Used #DaDaSa
+    location: "India"
+    followers: 262700
+    engagement: 1009
+    commentsToLikes: 0.018250
+    id: ckbqt9pk9e0sq0j23o3miubox
+    verified: false
+    hashtags: "#swag, #foruyoupage, #foruyou, #tidelagaodaaghatao"
   - username: "desiking777"
     fullname: >-
       Desi King 
+    bio: >-
+      Rapper | Singer | Music Director @ I am Desi World Instagram - desikingofficial
     location: "India"
-    followers: 153751
-    engagement: 1573
-    commentsToLikes: 0.024365
+    followers: 157400
+    engagement: 1426
+    commentsToLikes: 0.016721
     id: ck8rqnnzbqz4l0j78i1u29q5s
     verified: true
-    hashtags: "#divine, #dosti, #criminal, #rateyourlooks"
-  - username: "ud.razz"
-    fullname: >-
-      ud_raaz.yt
-    location: "India"
-    followers: 125621
-    engagement: 1546
-    commentsToLikes: 0.012084
-    id: cka0wxrml4tld0i78vzmbnwep
-    verified: false
-    hashtags: "#punjabimusic, #punjabimuser, #fambruhh, #hiphope"
+    hashtags: "#slowmo, #desi, #foryou, #desiking"
   - username: "mrinal33"
     fullname: >-
-      Mrinu Star 🤴🏻⭐⭐
+      Dj Mrinal Rapper
+    bio: >-
+      #Djmrinal #rapper #International_rapper My YouTube Link click here 👇🏻👇🏻👇
     location: "India"
-    followers: 51174
-    engagement: 348
-    commentsToLikes: 0.060989
+    followers: 55800
+    engagement: 413
+    commentsToLikes: 0.054941
     id: ckafukeddatda0i78mxtx7o6z
     verified: false
-    hashtags: "#fashionpose, #coolboy, #lovethissong, #rapschool"
-  - username: "sirphirarohitkapoor666"
+    hashtags: "#trending, #djmrinal, #tiktok, #visitmyyoutubechannel"
+  - username: "desirockkd"
     fullname: >-
-      Sirphira Rohit
+      KD
+    bio: >-
+      RAPPER / SINGER / LYRICIST / ACTOR / DIRECTOR
     location: "India"
-    followers: 3892
-    engagement: 840
-    commentsToLikes: 0.042237
-    id: ck9go9nes0dq00j780fl8p7co
+    followers: 222400
+    engagement: 1428
+    commentsToLikes: 0.004425
+    id: ckbapzoz9gmeh0j23j1lhlmiu
     verified: false
-    hashtags: "#comed, #artist, #road, #swagger"
-  - username: "gurmeetbhadana7"
+    hashtags: "#tiktokindia, #kddesirock, #tashan, #kd"
+  - username: "rishubawa420"
     fullname: >-
-      Gurmeet Bhadana
+      🤟Rishu Bawa 420⚡
+    bio: >-
+      ♥️ Bohemia Fan🧑 🗣️ Himachali Rapper🌀 🔥Phadiye Bure🤟
     location: "India"
-    followers: 118285
-    engagement: 1355
-    commentsToLikes: 0.007307
-    id: ck9sjqbwu4xd50j78s8jradsd
-    verified: true
-    hashtags: "#bhadana, #gurjar, #champion, #gocoronago"
-  - username: "luckyyadavartist"
-    fullname: >-
-      Lucky Yadav
-    location: "India"
-    followers: 366494
-    engagement: 1197
-    commentsToLikes: 0.007092
-    id: ck9m3r0ggjs5v0j78vcnebudf
+    followers: 66300
+    engagement: 1595
+    commentsToLikes: 0.012743
+    id: ckaftty0j74xj0i78kdxl7448
     verified: false
-    hashtags: "#mycrush, #myntrachallenge, #arishfakhan, #lovegoal"
+    hashtags: "#viral, #bole, #bawa, #phadiyebure"
+  - username: "inzyinzyinzy"
+    fullname: >-
+      Inzamam Ul Huq 
+    bio: >-
+      #Singer #Rapper #Dancer #Gamer Visit my insta to see more work of mine 👆 
+    location: "India"
+    followers: 36300
+    engagement: 744
+    commentsToLikes: 0.039080
+    id: ckbvv7fqhtnhi0j231tqy1urt
+    verified: false
+    hashtags: "#singer, #tamil, #inzyinzyinzy, #talent"
+  - username: "ukrapiboy"
+    fullname: >-
+      Ukrapiboy
+    bio: >-
+      Using tik tok for fun ❤️ by the way my name is " Ukrapiboy " & iam a rapper 
+    location: "India"
+    followers: 76300
+    engagement: 792
+    commentsToLikes: 0.013605
+    id: ckbez3ju6k1yu0j23d1javgka
+    verified: false
+    hashtags: "#foryou, #socialdistancing, #stayathome, #hindirap"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Brazil In 2020
 description: >-
-  Find top music TikTok influencers in Brazil in 2020. Most popular hashtags: #quarentena #coronavirus #juntosvamosvencer #amor.
+  Find top music TikTok influencers in Brazil in 2020. Most popular hashtags: #foryou #foryoupage #dueto #comedia.
 platform: TikTok
+hits: 846
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat has 846 TikTok influencers like this in Brazil for you to pitch.
 profiles:
+  - username: "hmagal"
+    fullname: >-
+      Henrique
+    bio: >-
+      Comédia e música🎭 Postei e saí correndo Publis: anticomediante@gmail.com insta:
+    location: "Brazil"
+    followers: 345900
+    engagement: 2472
+    commentsToLikes: 0.030956
+    id: ckb9r7c42nj9v0j23dk6dzoye
+    verified: false
+    hashtags: "#gift, #vocesabia, #salvearmonca, #comedia"
+  - username: "marlysousa64"
+    fullname: >-
+      user5722531671465
+    bio: >-
+      Música, Dueto , Comédia meu Instagram 👉@marlly.sousa Sigo todos de Volta!
+    location: "Brazil"
+    followers: 6761
+    engagement: 5150
+    commentsToLikes: 0.149480
+    id: ckdnveuozojnu0j235p08jcy8
+    verified: false
+    hashtags: "#dueto, #reagir, #foryoupage, #arraialtiktok"
+  - username: "alexsenna74"
+    fullname: >-
+      Ale Senna
+    bio: >-
+      46 BADBOY🏋️💪🥋 GOOD VIBES ONLY TIKTOKER MUSICAL 🇧🇷 DUETOS Insta alexsenna3
+    location: "Brazil"
+    followers: 6651
+    engagement: 3776
+    commentsToLikes: 0.895655
+    id: ckbwa1pye00ut0j23k0hwzske
+    verified: false
+    hashtags: "#maisde40, #fyp, #quarent, #foryoupage"
   - username: "itsbrunico"
     fullname: >-
-      Brunico 🤘🏻
+      Brunico ⚡️
+    bio: >-
+      Cantor, ator, atleta, músico, escritor e mentiroso 📬 brunico1d@hotmail.com
     location: "Brazil"
-    followers: 968028
-    engagement: 2866
-    commentsToLikes: 0.022037
+    followers: 1500000
+    engagement: 2490
+    commentsToLikes: 0.021044
     id: ck9ep8zlurjhh0j78zr37rrwi
     verified: true
-    hashtags: "#amizade, #trollagem, #paiefilha, #quarentena"
+    hashtags: "#signos, #foryou, #comedia, #daumcroc"
+  - username: "polaralho"
+    fullname: >-
+      Polaris
+    bio: >-
+      💖spammou eh block💖 ⬇️link da musica nova⬇️ meu conteudo eh um microondas
+    location: "Brazil"
+    followers: 12900
+    engagement: 2181
+    commentsToLikes: 0.058199
+    id: ck9fjboa5f1yx0j78moegayxz
+    verified: false
+    hashtags: "#fy, #fyp, #pobremaceo, #quarantine"
+  - username: "ninho"
+    fullname: >-
+      Ninho
+    bio: >-
+      Comédia, Memes e Músicas 😜 Curitiba / Baln. Camboriú 🇧🇷 Instagram @ninho 🔥
+    location: "Brazil"
+    followers: 1000000
+    engagement: 1903
+    commentsToLikes: 0.020595
+    id: ck9eq20nlv8c90j78znjccit1
+    verified: false
+    hashtags: "#resso, #ads, #paid, #fusioninfluencers"
+  - username: "zenaideribeirooo"
+    fullname: >-
+      zenardesouza@hotmail
+    bio: >-
+      Amooo as amizades que tenho Aqui ❤️❤️❤️ Frases motivacionais trecho de músicas .
+    location: "Brazil"
+    followers: 29200
+    engagement: 1678
+    commentsToLikes: 0.432543
+    id: cka64kvfb924n0i78s90uzqcl
+    verified: false
+    hashtags: "#deus, #fotos, #reflexaododia, #musicatop"
   - username: "kelvinbohm"
     fullname: >-
       Kelvin Bohm
+    bio: >-
+      21 anos amando música 📀 Ouça a música que eu fiz quando meu cachorro morreu ⬇️
     location: "Brazil"
-    followers: 9669
-    engagement: 1462
-    commentsToLikes: 0.197217
+    followers: 14600
+    engagement: 1600
+    commentsToLikes: 0.148404
     id: ck92z0n2856gs0j78stn3id0x
     verified: false
-    hashtags: "#aquario, #minhaidade, #finneas, #albumcover"
-  - username: "apollooficial"
+    hashtags: "#cachorro, #musicaautoral, #spotify, #cachorrosdotiktok"
+  - username: "81rosane"
     fullname: >-
-      Apollo 🦁
+      81rosane
+    bio: >-
+      Vamos de TikTok! Infos, música e distração! #Cuidem-se
     location: "Brazil"
-    followers: 1158193
-    engagement: 2517
-    commentsToLikes: 0.012204
-    id: ck94g4lxvealj0j780jzpxc5o
-    verified: true
-    hashtags: "#diferentedasfotos, #trabalhoemcasa, #robertocarlosemcasa, #100ways"
-  - username: "rodrigoalves107"
-    fullname: >-
-      Rodrigo Alves
-    location: "Brazil"
-    followers: 17621
-    engagement: 2458
-    commentsToLikes: 0.299130
-    id: ckaigg3zj19ia0i78t9exwnea
+    followers: 5850
+    engagement: 1487
+    commentsToLikes: 0.114559
+    id: ckb9g5w3e534d0j23i12l4n9k
     verified: false
-    hashtags: "#anos70, #capadoalbum, #livesdoisaque, #bondebrisa"
-  - username: "thassiooliveiraoficial"
+    hashtags: "#recife, #et, #cafe, #coleguinhas"
+  - username: "augustus_marx.1972"
     fullname: >-
-      Thássio Oliveira
+      J Augusto Campos
+    bio: >-
+      Taurino♉com muito orgulho.Carioca,48 anos,fã de música e amante da Sétima Arte😘
     location: "Brazil"
-    followers: 144160
-    engagement: 1588
-    commentsToLikes: 0.056804
-    id: ckan3ekdc4vvr0i7829g0kvmj
-    verified: true
-    hashtags: "#liberdade, #ninachallenge, #minhabocanasua, #vaqueiro"
-  - username: "vincynite"
-    fullname: >-
-      Vincy 
-    location: "Brazil"
-    followers: 1314074
-    engagement: 2343
-    commentsToLikes: 0.010132
-    id: ck8schd6db0zn0j78jzmbxekb
-    verified: true
-    hashtags: "#dublagem, #diy, #coronavirus, #curiosidades"
-  - username: "mundodasarmys63"
-    fullname: >-
-      Mundo das armys
-    location: "Brazil"
-    followers: 62228
-    engagement: 3175
-    commentsToLikes: 0.015975
-    id: ckac48c8ccdu80i784f1eo5xr
+    followers: 19400
+    engagement: 2639
+    commentsToLikes: 0.663419
+    id: ckc7sdiikx7d80j236u4mqdno
     verified: false
-    hashtags: "#tiktok, #btsdebut, #btsjin, #btsnamjoon"
-  - username: "sergioviolinist"
-    fullname: >-
-      Sérgio Neto
-    location: "Brazil"
-    followers: 21184
-    engagement: 1822
-    commentsToLikes: 0.072491
-    id: ck8s5b74nf32b0j78a19k11cx
-    verified: false
-    hashtags: "#confian, #4y, #dueto, #ajeitaacoluna"
-  - username: "renata.c.schneider"
-    fullname: >-
-      Renata Schneider 
-    location: "Brazil"
-    followers: 395617
-    engagement: 2561
-    commentsToLikes: 0.009791
-    id: ck9gko78dkhva0j78g2lc0dte
-    verified: false
-    hashtags: "#pov, #jojo, #dancemoms, #dance"
-  - username: "erickurzeda"
-    fullname: >-
-      Erick Urzeda
-    location: "Brazil"
-    followers: 17520
-    engagement: 1683
-    commentsToLikes: 0.084321
-    id: ck9fipl10bzel0j78irgcdn16
-    verified: false
-    hashtags: "#galopeira, #reagir, #thevoice, #trollagem"
+    hashtags: "#fyp, #musicaromantica, #viral, #dublagemengra"
 ---

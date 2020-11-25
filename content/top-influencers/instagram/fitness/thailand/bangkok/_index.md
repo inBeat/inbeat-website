@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top fitness Instagram influencers in Bangkok in 2020. Most popular hashtags: #bangkok #nature #swimming #redwalls.
+  Find top fitness Instagram influencers in Bangkok in 2020. Most popular hashtags: #fitness #thailand #bangkok #workout.
 platform: Instagram
+hits: 12
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 12 Instagram influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
+  - username: "djming_efm"
+    fullname: >-
+      Thatsaphon Ruangkitrattanakun
+    bio: >-
+      • DJ EFM94 @efm_station l HomeRecords • @scorpio.artist • 📲 A-Time : 065-229-6888 ( K.Golf ) • 📲 Manager : 062-373-7564 ( K.Waiging )
+    location: "Thailand"
+    followers: 4188
+    engagement: 641
+    commentsToLikes: 0.034399
+    id: ck0w56qa825zc0i19tbf0ccau
+    verified: false
+    hashtags: "#korea, #dj, #artist, #efm"
+  - username: "orav.angel"
+    fullname: >-
+      Angelica Orav
+    bio: >-
+      From Estonia, live in Bangkok 173cm ‌Fitness/Modeling/Positivity For ADs/Collabs/Shoutouts: contact@angelorav.com
+    location: "Thailand"
+    followers: 33339
+    engagement: 292
+    commentsToLikes: 0.060753
+    id: ckapb8122yxbe0i78welwauad
+    verified: false
+    hashtags: "#animals, #poledancer, #safariworldbangkok, #teengirl"
+  - username: "k_one_muaythai_gym"
+    fullname: >-
+      K.ONE MUAY THAI GYM
+    bio: >-
+      Welcome to K_One Muay Thai gym Iranian gym in Bangkok🇹🇭🇮🇷 Owner of gym @keivan.soleimani باشگاه کیوان سلیمانی قهرمان نامدار موی تای ایران
+    location: "Thailand"
+    followers: 7823
+    engagement: 878
+    commentsToLikes: 0.011098
+    id: ck5zjlfr1hspt0i14z619ie45
+    verified: false
+    hashtags: "#kicking, #muaythaifight, #nevergiveup, #iranianathlete"
+  - username: "anitabye"
+    fullname: >-
+      Anita Bye/อันนิต้า บี Thailand
+    bio: >-
+      📍Bangkok ✖️Thai/Norwegian 💪🏼Personal trainer @thecubicfitness 🥊@knockoutbkk 💕Brand ambassador @barebells.thailand
+    location: "Thailand"
+    followers: 39475
+    engagement: 222
+    commentsToLikes: 0.057508
+    id: ck8taypvztmid0j7889mj9a69
+    verified: false
+    hashtags: "#activewear, #stayhome, #proteinbar, #bangkok"
   - username: "kwan_phuwamet"
     fullname: >-
       Personal Trainer
+    bio: >-
+      Personal Trainer Fitness สอนออกกำลังกาย ⭕️รับรีวิวสินค้า Line : phuwamet_19
     location: "Thailand"
-    followers: 104921
-    engagement: 327
-    commentsToLikes: 0.005283
+    followers: 105789
+    engagement: 231
+    commentsToLikes: 0.006766
     id: ckaoyt076ixwj0i78j5yp1a6w
     verified: false
-    hashtags: ""
-  - username: "tayastarling"
+    hashtags: "#issuethailand, #issuexbagitall, #dappereveryday, #dappereverymen"
+  - username: "newwy_official"
     fullname: >-
-      Taya Rogers
+      Be Humble🌸💓
+    bio: >-
+      🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 363779
-    engagement: 102
-    commentsToLikes: 0.008603
-    id: ck5hl0f6rjchp0i11n589zt5h
+    followers: 56839
+    engagement: 143
+    commentsToLikes: 0.025051
+    id: ck55oxbb99boi0i11sdxrlv2b
+    verified: false
+    hashtags: "#travel, #photooftheday, #pics, #photography"
+  - username: "attila_arthur"
+    fullname: >-
+      Attila GAGNAUX
+    bio: >-
+      อติล่า อาร์เธอร์ Actor base in Bangkok For work please contact 088-528-8980 / Line Id : anondc (คุณดุ๊ก)
+    location: "Thailand"
+    followers: 198329
+    engagement: 321
+    commentsToLikes: 0.002339
+    id: ck0vx5ywdxb400i19fh524rv5
+    verified: false
+    hashtags: "#workout, #bodyweight, #healthylifestyle, #wellness"
+  - username: "thisisbebe"
+    fullname: >-
+      🌱BEBE🤸🏻‍♀️
+    bio: >-
+      ACE Certified Personal Trainer aerial•pilates•boxing•fitness ไลน์ boombavornvanich 0804446777 fitroutineproduction@gmail.com YT:BEBE FIT ROUTINE
+    location: "Thailand"
+    followers: 2554138
+    engagement: 63
+    commentsToLikes: 0.002916
+    id: ckap94pvnr5250i789ayqzj9r
     verified: true
-    hashtags: "#aloyoga, #plantforward, #earthmonth, #orderin"
-  - username: "orav.angel"
+    hashtags: "#sportutilitywear, #uniqlodryex, #uniqloultrastretch, #uniqloairism"
+  - username: "felix.turem"
     fullname: >-
-      Angelica Orav
+      Felix Turem
+    bio: >-
+      👋 Cypriot/Japanese 🤙 From sydney 👊 Love muay thai 👌 Travel for growth 👉 Model for work ✌ Pursuit of happiness 📍 Palawan 🎬 Reco modeling
     location: "Thailand"
-    followers: 34713
-    engagement: 280
-    commentsToLikes: 0.062430
-    id: ckapb8122yxbe0i78welwauad
+    followers: 9555
+    engagement: 678
+    commentsToLikes: 0.017382
+    id: ck134iekiwkuh0i19uagdb429
     verified: false
-    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
-  - username: "bomskeet"
+    hashtags: "#waterfall, #nature, #mountains, #blue"
+  - username: "pascal_the_german_schroth"
     fullname: >-
-      🖤 B O M S Y 🖤
+      Pascal "The German" Schroth 🇩🇪
+    bio: >-
+      💎Daddy, Fighter, Family Man💎 📍German, based in Phuket🌴 🥊 @tigermuaythai 🇹🇭 | @steko_s 🇩🇪 🏆K1 & Muay Thai World-champion🏆
     location: "Thailand"
-    followers: 6515
-    engagement: 534
-    commentsToLikes: 0.057023
-    id: ckaow9rgv7z7z0i78q5qht8gs
+    followers: 11789
+    engagement: 552
+    commentsToLikes: 0.028292
+    id: ck8szf9cko7v90j78l50b3dhe
     verified: false
-    hashtags: "#takeabreak, #queen, #shadesofpurple, #summer2020"
-  - username: "saharat_k"
-    fullname: >-
-      ▪️SAHARAT KLUABMAS▪️
-    location: "Thailand"
-    followers: 30606
-    engagement: 163
-    commentsToLikes: 0.009507
-    id: ck55oxajl9blz0i11cg8s1hfr
-    verified: false
-    hashtags: "#saharatjeju, #mensportphysique, #bangkokthonburiuniversity, #hvd"
-  - username: "fah_jilamika"
-    fullname: >-
-      Fah  : 💖
-    location: "Thailand"
-    followers: 123804
-    engagement: 138
-    commentsToLikes: 0.012925
-    id: ckap7egt5jq3e0i7885smdc0g
-    verified: false
-    hashtags: "#fahhandstand, #aerialist, #sportbra, #top"
-  - username: "yuvalohayonn"
-    fullname: >-
-      𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
-    location: "Thailand"
-    followers: 13507
-    engagement: 2076
-    commentsToLikes: 0.086233
-    id: ck14lovy8vqz90i192uov048r
-    verified: false
-    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
-  - username: "daniella_shoot"
-    fullname: >-
-      daniella❤️shutov
-    location: "Thailand"
-    followers: 68666
-    engagement: 1070
-    commentsToLikes: 0.018998
-    id: ck8tcmf40zxdh0j78yptvq0yc
-    verified: false
-    hashtags: "#like, #shadowbox, #warmup, #sparing"
-  - username: "orav.angel"
-    fullname: >-
-      Angelica Orav
-    location: "Thailand"
-    followers: 34713
-    engagement: 280
-    commentsToLikes: 0.062430
-    id: ckapb8122yxbe0i78welwauad
-    verified: false
-    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
-  - username: "warriorstyle"
-    fullname: >-
-      Warrior Style
-    location: "Thailand"
-    followers: 22669
-    engagement: 448
-    commentsToLikes: 0.082801
-    id: ck0u6xrau37290i197l57u0dk
-    verified: false
-    hashtags: "#brucelee, #sawadeekrap, #hudsonriver"
+    hashtags: "#poweredbybooster, #thailand, #island, #thaiboxing"
 ---

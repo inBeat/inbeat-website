@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Argentina In 2020
 description: >-
-  Find top skincare Instagram influencers in Argentina in 2020. Most popular hashtags: #skincare #sorteo #quedateencasa #makeupaddict.
+  Find top skincare Instagram influencers in Argentina in 2020. Most popular hashtags: #skincare #makeup #sorteo.
 platform: Instagram
+hits: 74
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 74 Instagram influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "antobonazzola"
+    fullname: >-
+      Ms. Antonela
+    bio: >-
+      Photographer & Content Creator «skincare & fashion» ★ info@antobonazzola.com.ar ● @chiliagency ● @abb_brand ● Co-Owner @champsmediaagency
+    location: "Argentina"
+    followers: 67947
+    engagement: 293
+    commentsToLikes: 0.136828
+    id: ck0w60lmg6c7y0i19rz3w6fex
+    verified: false
+    hashtags: "#ootd, #goodmorning, #skincare, #beautytips"
+  - username: "javdiazdevaldes"
+    fullname: >-
+      Javiera Díaz De Valdés
+    bio: >-
+      Actriz. Fundadora y directora creativa de @libra_skincare ⚖️
+    location: "Argentina"
+    followers: 283381
+    engagement: 93
+    commentsToLikes: 0.057152
+    id: ck0u67d9b13j20i19onjurj2q
+    verified: true
+    hashtags: "#adoptaunperro, #levedad, #blackberry, #tanfreak"
+  - username: "aylenmilla"
+    fullname: >-
+      Aylén
+    bio: >-
+      Love moves the world ♥️ #GIRLPOWER 🌱 Plant Based Diet ✨ Maktub 🕊 Free Spirit ➕Love My brand @the.amilla SkinCare @a.pro.beauty MY APP 👇🏼
+    location: "Argentina"
+    followers: 996430
+    engagement: 267
+    commentsToLikes: 0.013593
+    id: ck0w3b6njsi810i197za0mhqa
+    verified: true
+    hashtags: "#diorcapturetotale, #lrplover, #larocheposay, #larocheposaychile"
   - username: "byantofazio"
     fullname: >-
       Antonella Fazio
+    bio: >-
+      Arg. - C.A.B.A Content creator - Makeup Artist Makeup - Skincare - Lifestyle
     location: "Argentina"
-    followers: 22690
-    engagement: 1067
-    commentsToLikes: 0.777851
+    followers: 30196
+    engagement: 264
+    commentsToLikes: 0.592654
     id: ckapcgeid3pg70i78dc8prm2g
     verified: false
-    hashtags: "#streamer, #hydrating, #makeupoftheday, #outdoor"
-  - username: "aylenmilla"
+    hashtags: "#makeuplook, #dise, #cuidadodelapiel, #feriaprimavera"
+  - username: "cata_arancibias"
     fullname: >-
-      Aylén Milla
+      Cata
+    bio: >-
+      🇨🇱 v e g a n 🌱 Datos, recetas y más en historias | Skincare CF en reels 👩🏼‍💻 Licenciada en Psicología 📩 catalina.arancibias@mail.udp.cl
     location: "Argentina"
-    followers: 968644
-    engagement: 272
-    commentsToLikes: 0.010335
-    id: ck0w3b6njsi810i197za0mhqa
-    verified: true
-    hashtags: "#skinmatters, #520, #mequedoencasa, #stayhome"
-  - username: "anitacavazzabeauty"
-    fullname: >-
-      Anita Cavazza Beauty
-    location: "Argentina"
-    followers: 25570
-    engagement: 226
-    commentsToLikes: 0.260578
-    id: ck0w5as5t2qi70i19b64hom5a
+    followers: 21421
+    engagement: 320
+    commentsToLikes: 0.046295
+    id: ck5cg28pao1i20i119bowcj2l
     verified: false
-    hashtags: "#ootd, #favorite, #recomendadoanita, #quarantine"
+    hashtags: "#crueltyfree, #skincareroutine, #2minutossonicare, #laparrillaveggie"
   - username: "kathypimpa"
     fullname: >-
       Kathy Pimpa
+    bio: >-
+      🇧🇷🇦🇷 skinfluencer! 🍍Anama Ferreira del Skincare ❤ Reseñas de skincare y makeup todos los dias 💥 Muchas locuras por Stories 📧Kastryzak@gmail.com
     location: "Argentina"
-    followers: 66936
-    engagement: 214
-    commentsToLikes: 0.429327
+    followers: 106913
+    engagement: 219
+    commentsToLikes: 0.979088
     id: ck8sz2ca9mwqm0j78fhmbv8vp
     verified: false
-    hashtags: "#ojeras, #vitaminac, #dermocosmeticos, #aveneargentina"
-  - username: "que_monet"
+    hashtags: "#cuidadosfaciales, #sorteos, #sorteoargentina, #participaygana"
+  - username: "natysanchez05"
     fullname: >-
-      Qué Monet
+      Naty Sánchez
+    bio: >-
+      📌Aux. Servicios Aéreos-Comunicadora Corporativa-Modelo 👩‍👧‍👧Mamá -👫Esposa -🤘🏼Me gusta el rock @rituall_skincare - Revitaliza tu ser 💫
     location: "Argentina"
-    followers: 33303
-    engagement: 356
-    commentsToLikes: 0.614060
-    id: ck5q38fn1jpvo0i113v5y1c5m
+    followers: 183572
+    engagement: 181
+    commentsToLikes: 0.016733
+    id: ck600z2zuejm30i14rgxcky02
     verified: false
-    hashtags: "#ropainterior, #whitedress, #outfitoftheday, #nomakeup"
-  - username: "antodemar"
+    hashtags: "#avril, #retodelchocolate, #chocolatechallenge, #publicidad"
+  - username: "ninaamateis"
     fullname: >-
-      𝖺𝗇𝗍𝗈𝗇𝖾𝗅𝗅𝖺
+      ＮＩＮＡ
+    bio: >-
+      ✨Ｂｅａｕｔｙ & ｍａｋｅｕｐ✨ Acá van a encontrar muchos tips de Skincare y Makeup💗 Maquilladora y Lic. En diseño textil e indumentaria📍B.A 🇦🇷
     location: "Argentina"
-    followers: 23464
-    engagement: 482
-    commentsToLikes: 0.282378
-    id: ck8wga5upgzpl0j78lirdqh9c
+    followers: 130750
+    engagement: 82
+    commentsToLikes: 0.116370
+    id: ck135o6vd2e270i190esdj630
     verified: false
-    hashtags: "#parisfrance, #bikini, #paris, #sorteo"
-  - username: "joaquinlpatterson"
+    hashtags: "#ninamakeup, #makeup, #makeupdedia, #nina"
+  - username: "yourself.arg"
     fullname: >-
-      Joaquin Lopez Patterson
+      
+    bio: >-
+      ✰ 01.01.20 🦋 ✰ selfcare y skincare ✨ ✰ estudio cosmetología 🤍 ✰ Mdz, Arg 🇦🇷 ✰ by: @martu.ski
     location: "Argentina"
-    followers: 30851
-    engagement: 324
-    commentsToLikes: 0.124044
-    id: ck5q37t6jjmov0i117h0urd59
+    followers: 39306
+    engagement: 173
+    commentsToLikes: 0.026688
+    id: ckf5ly7g1rhz10j23r0ijzacp
     verified: false
-    hashtags: "#whitedress, #beachvibes, #coppereyeshadow, #oscarsmakeup"
-  - username: "josematafotografia"
+    hashtags: ""
+  - username: "lucasponti"
     fullname: >-
-      Jose Mata & Samuel Betancourt
+      ⓁⓊⓆⓊⒾ
+    bio: >-
+      Médico Dermatólogo en @acneba Comunicador Rita 🐕💚 PR @rosariolcok No me gusta el sushi y odio el stevia —La piel en historias— #Spotify 👇🏼
     location: "Argentina"
-    followers: 37684
-    engagement: 691
-    commentsToLikes: 0.038004
-    id: ck0tuoqa881gw0i19gd9j8er6
-    verified: false
-    hashtags: "#white, #boys, #bikini, #tanlines"
-  - username: "cocoomolina"
-    fullname: >-
-      • 𝐂𝐎𝐍𝐒𝐓𝐀𝐍𝐙𝐀 •
-    location: "Argentina"
-    followers: 8213
-    engagement: 1329
-    commentsToLikes: 0.091799
-    id: ck5ztn3tx0qvg0i14b7h4uovc
-    verified: false
-    hashtags: "#nuskin, #argentina, #plata925, #diadelamujer"
-  - username: "florazet"
-    fullname: >-
-      #tipsflorazet by Flor Zidar
-    location: "Argentina"
-    followers: 35258
-    engagement: 249
-    commentsToLikes: 0.492430
-    id: ck6uacxpf2uxk0j714hvgekl5
-    verified: false
-    hashtags: "#pielatopica, #actitud, #sorteo, #sabado"
+    followers: 109171
+    engagement: 840
+    commentsToLikes: 0.450499
+    id: ck603074lkai10i14nrmfbgf4
+    verified: true
+    hashtags: "#beautycare, #luqui, #skincare, #skin"
 ---

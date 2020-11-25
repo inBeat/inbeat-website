@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In South Korea In 2020
 description: >-
-  Find top fashion Instagram influencers in South Korea in 2020. Most popular hashtags: #ad #lottedutyfree #if #afterjerkoff.
+  Find top fashion Instagram influencers in South Korea in 2020. Most popular hashtags: #kstyle #ad #koreanbeauty.
 platform: Instagram
+hits: 213
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 213 Instagram influencers like this in South Korea for you to work with.
 profiles:
-  - username: "kky_.s2"
-    fullname: >-
-      김경윤 (+🇰🇷)
-    location: "South Korea"
-    followers: 2940
-    engagement: 1992
-    commentsToLikes: 0.177293
-    id: ck8t65y2uccba0j78s46u4oj8
-    verified: false
-    hashtags: "#freshantiyouth, #fray, #charms"
   - username: "easy__bear"
     fullname: >-
-      민쥬/1994
+      민쥬/1994
+    bio: >-
+      Fashion Influencer🦋 ✨Konkuk Graduate School✨ International Student 🇨🇳-->🇰🇷 ♡愛 @lee0920min 小红书🍠敏珠🌞
     location: "South Korea"
-    followers: 8654
-    engagement: 1062
-    commentsToLikes: 0.072199
+    followers: 14311
+    engagement: 653
+    commentsToLikes: 0.109702
     id: ck5qcm5axr92x0i11gt6ivd7e
     verified: false
-    hashtags: "#100, #rustyrobot, #wspaforwomen, #261eui"
-  - username: "baebenji92"
+    hashtags: "#20, #ad, #modestykr, #modestykorea"
+  - username: "eilerchoi"
     fullname: >-
-      Benji 벤지
+      Eric Choi
+    bio: >-
+      Contact : Dm Youtube : Gentle ERIC 젠틀 에릭 Hongik Univ MDes Fashion design / Fine art
     location: "South Korea"
-    followers: 99058
-    engagement: 888
-    commentsToLikes: 0.033610
-    id: ck8sxjlvzhmv30j7892hxgldf
-    verified: true
-    hashtags: "#benji, #feekatime, #hopethatsright, #help"
+    followers: 96931
+    engagement: 269
+    commentsToLikes: 0.044467
+    id: ck14hwm5pci3b0i19ge5al32x
+    verified: false
+    hashtags: "#ad, #koreanmalemodel, #koreanmodel, #holloweencostume"
   - username: "one_the_girl"
     fullname: >-
       원도연
+    bio: >-
+      #Lifestyle & #Travel & #Fashion 🇦🇺🇹🇭🇯🇵🇩🇪🇳🇱🇧🇪🇬🇧🇪🇸🇫🇷🇨🇿🇭🇺🇦🇹🇮🇹🇨🇭🇭🇰🇺🇸
     location: "South Korea"
-    followers: 5328
-    engagement: 1294
-    commentsToLikes: 0.042255
+    followers: 5835
+    engagement: 852
+    commentsToLikes: 0.054632
     id: ck5c06a1gsj0p0i110bh44otb
     verified: false
-    hashtags: "#akiiiclassic, #brandi, #cafetour, #akiii"
-  - username: "stellakim516"
+    hashtags: "#mtl, #halloween, #disney, #covernat"
+  - username: "gngz_kvn_sky"
     fullname: >-
-      Stella kim 스텔라🌟김가람
+      강건 KangKun 姜乾
+    bio: >-
+      HONGIK UNIV. FASHION DESIGN
     location: "South Korea"
-    followers: 11994
-    engagement: 732
-    commentsToLikes: 0.034791
-    id: ck6u7g21zlat80j71nan7e2jc
+    followers: 6911
+    engagement: 1371
+    commentsToLikes: 0.037503
+    id: ck8tdavwv2m0w0j785bc2z436
     verified: false
-    hashtags: "#adrianalicea, #pier59studios, #nyfw20, #nyfw2020fw"
+    hashtags: "#spleopardfleecezipup"
+  - username: "sojuinyourheart"
+    fullname: >-
+      sojuinyourheart
+    bio: >-
+      🌸Korean fashion
+    location: "South Korea"
+    followers: 70285
+    engagement: 720
+    commentsToLikes: 0.006796
+    id: ck6tuyhhij5bn0j71qut2o2r5
+    verified: false
+    hashtags: ""
+  - username: "rosetea.kr"
+    fullname: >-
+      Korean Fashion 🇰🇷
+    bio: >-
+      Daily Korean Fashion pics <3 Pics not owned by us Dm for credit/removal 💞
+    location: "South Korea"
+    followers: 13886
+    engagement: 2598
+    commentsToLikes: 0.004428
+    id: ckf5mol4mus1m0j231ctztm5v
+    verified: false
+    hashtags: ""
   - username: "hyeggossi"
     fullname: >-
       ᴊᴊɪɴsᴛᴀɢʀᴀᴍ___
+    bio: >-
+      - contact : dm or e-mail - iphone  - daily, cafe, beauty, fashion
     location: "South Korea"
-    followers: 37451
-    engagement: 241
-    commentsToLikes: 0.039316
+    followers: 53317
+    engagement: 218
+    commentsToLikes: 0.026067
     id: ck55ncv825xwr0i117er3etft
     verified: false
-    hashtags: "#danielwellington, #add, #sanpellegrino, #essenza"
-  - username: "polinaband"
-    fullname: >-
-      polina | 폴리나
-    location: "South Korea"
-    followers: 21142
-    engagement: 389
-    commentsToLikes: 0.031810
-    id: ck8sxhmc6hfgk0j78en8d4lnw
-    verified: false
-    hashtags: "#stayhome"
-  - username: "dooice"
-    fullname: >-
-      강두형  dooice
-    location: "South Korea"
-    followers: 36938
-    engagement: 471
-    commentsToLikes: 0.013211
-    id: ck5q2550nebge0i11tloacp7l
-    verified: false
-    hashtags: "#mlbcap, #cp77, #mlbkorea, #mlbcrew"
-  - username: "graypelvis"
-    fullname: >-
-      현환
-    location: "South Korea"
-    followers: 34415
-    engagement: 594
-    commentsToLikes: 0.007084
-    id: ck135v6ui3e460i194rlaqh30
-    verified: false
-    hashtags: "#everyday, #toothgem, #toothfairy, #toothgemkorea"
+    hashtags: "#ck, #aestura, #lee, #410"
   - username: "cornu_ryu"
     fullname: >-
-      패션 크리에이터 류경아 : 류스펜나
+      류경아(류스펜나)
+    bio: >-
+      삶을 여행하는 패션크리에이터 *DM은 확인이 엄청 늦으니 비즈니스는 메일로* 👾 IM YOUTUBER 👾 [SUB] Fashion Influencer • Creator • model @breathsilver_kr Ambassador
     location: "South Korea"
-    followers: 48026
-    engagement: 414
-    commentsToLikes: 0.011086
+    followers: 48494
+    engagement: 360
+    commentsToLikes: 0.012464
     id: ck8t7c01bg9m30j789rv1p086
     verified: false
-    hashtags: "#if, #pillowchallenge, #mct, #eco"
+    hashtags: ""
+  - username: "stellakim516"
+    fullname: >-
+      Stella kim🌟김가람
+    bio: >-
+      Fashion Model Casting Director Ballet/Contemporary Dancer Ballet Instructor 🇺🇸Chicago Joffrey Ballet 🇨🇦RWBallet, UofW Collegiate 🇰🇷 SunHwa Arts
+    location: "South Korea"
+    followers: 12243
+    engagement: 634
+    commentsToLikes: 0.021029
+    id: ck6u7g21zlat80j71nan7e2jc
+    verified: false
+    hashtags: "#newyorkfashionweek, #adrianalicea, #magazine, #beforesunset"
+  - username: "graypelvis"
+    fullname: >-
+      현환/정도
+    bio: >-
+      FASHION MODEL CONTACT DM
+    location: "South Korea"
+    followers: 31757
+    engagement: 541
+    commentsToLikes: 0.006413
+    id: ck135v6ui3e460i194rlaqh30
+    verified: false
+    hashtags: ""
 ---

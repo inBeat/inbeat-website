@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Austin In 2020
 description: >-
-  Find top yoga TikTok influencers in Austin in 2020. Most popular hashtags: #yoga #duet #workfromhome #throwback.
+  Find top yoga TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
 platform: TikTok
+hits: 8
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "heyplayers"
+  - username: "austinmahone"
     fullname: >-
-      J.Play
+      Austin Mahone
+    bio: >-
+      New single “SUMMER LOVE”💙out now :: business email : mgmt@chaseent.com
     location: "United States"
-    followers: 33183
-    engagement: 689
-    commentsToLikes: 0.010927
-    id: ck9glesyqo2md0j78eb1ucwin
-    verified: false
-    hashtags: "#goals, #strength, #randomthings, #funathome"
-  - username: "omandthecity"
-    fullname: >-
-      Jules Acree
-    location: "United States"
-    followers: 14945
-    engagement: 803
-    commentsToLikes: 0.024351
-    id: ck8hndzqfqdms0j78rk8gbzxw
-    verified: false
-    hashtags: "#verticalgarden, #movingtogether, #dogsoftiktok, #austintx"
-  - username: "ninjachong"
-    fullname: >-
-      NINJACHONG | VIBE🎋
-    location: "United States"
-    followers: 551018
-    engagement: 1900
-    commentsToLikes: 0.008122
-    id: ck9drmtiw4nov0j781qxzd0w9
+    followers: 778800
+    engagement: 934
+    commentsToLikes: 0.020491
+    id: ck8njnna0b8rg0j78k7qr2c62
     verified: true
-    hashtags: "#dimsum, #friend, #reaction, #chinese"
-  - username: "peppapigalphaphi"
+    hashtags: "#fyp, #foryou, #halloweenlook, #foryoupage"
+  - username: "luckylott"
     fullname: >-
-      peppapigalphaphi
+      Lucky Lott
+    bio: >-
+      Weddings/ Portraits 📸🎥 Brooklyn 📍 Book me Below ⬇️
     location: "United States"
-    followers: 34583
-    engagement: 855
-    commentsToLikes: 0.030419
-    id: ck96jiystp0150j78bkcl5pyo
+    followers: 70600
+    engagement: 1252
+    commentsToLikes: 0.054483
+    id: ckcj3x6rb4zux0j23sztrr34i
     verified: false
-    hashtags: "#today, #dress, #funkyflyingcrow, #covid19"
-  - username: "justusdomenic"
+    hashtags: "#funny, #photoshoot, #photoshootidea, #behindthescenes"
+  - username: "sorablu"
     fullname: >-
-      Justus Delgado
+      Sora 
+    bio: >-
+      Filmmaker & Medicine Woman. 30 @sora.blu | Apothecary: @earth.habit
     location: "United States"
-    followers: 113081
-    engagement: 2250
-    commentsToLikes: 0.012608
-    id: ck80nsfgiedya0j783ae2chbd
+    followers: 263900
+    engagement: 1422
+    commentsToLikes: 0.014895
+    id: ck80osb6tjpgx0j78vbh4viz4
     verified: false
-    hashtags: "#momsoftiktok, #creepy, #cops, #cholo"
-  - username: "nateoffersbz"
+    hashtags: "#washington, #foryoupage, #witchtok, #calm"
+  - username: "codiemarie86"
     fullname: >-
-      nate the turnupking
+      Coddie Adams
+    bio: >-
+      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
     location: "United States"
-    followers: 7791
-    engagement: 625
-    commentsToLikes: 0.105837
-    id: cka0n2f3rxw9i0i787dayvlxj
+    followers: 11600
+    engagement: 1454
+    commentsToLikes: 0.095631
+    id: ckb9alh4avtva0j23iv10d3o7
     verified: false
-    hashtags: "#keepingbusy, #yoga, #boxingchallenge, #relationship"
-  - username: "stephoneallen"
+    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
+  - username: "elilavie"
     fullname: >-
-      Stephone Allen
+      Eli
+    bio: >-
+      New on TikTok & love it 😍 Instagram: Life_is_always_sobeautiful Living in L.A
     location: "United States"
-    followers: 58706
-    engagement: 1083
-    commentsToLikes: 0.024530
-    id: ck90uxtgsy7jg0j78cdf4qqt7
+    followers: 5715
+    engagement: 610
+    commentsToLikes: 0.048840
+    id: ckbfdosqp77up0j23icpw3glf
     verified: false
-    hashtags: "#levelup, #positivevibes, #puppy, #justinbieber"
-  - username: "jessicagolich"
+    hashtags: "#friends, #california, #gumball, #yoga"
+  - username: "rachelebrooksmith"
     fullname: >-
-      JessicaGolich
+      Rachele Brooke Smith
+    bio: >-
+      Actress from Bring it On, Center Stage, Scream Queens, Atomic Shark, etc 😘
     location: "United States"
-    followers: 44633
-    engagement: 375
-    commentsToLikes: 0.021060
-    id: ck8hk5rm6cjeo0j78s2q7szjd
-    verified: false
-    hashtags: "#love, #funny, #editing, #guitar"
-  - username: "divinepriestess"
+    followers: 633200
+    engagement: 975
+    commentsToLikes: 0.018011
+    id: ck9a6qtlm4ebf0j78xi47jnn2
+    verified: true
+    hashtags: "#dancechallenge, #dance, #couplesgoals, #dancevideo"
+  - username: "davidmfklein"
     fullname: >-
-      Divine Priestess
+      David Klein
+    bio: >-
+      absurdly funny 🤪
     location: "United States"
-    followers: 13617
-    engagement: 1196
-    commentsToLikes: 0.068269
-    id: cka6qzl0mpndr0i78as1q4rkh
+    followers: 143900
+    engagement: 1577
+    commentsToLikes: 0.059008
+    id: ckauz06854jjz0j23zh4u95lj
     verified: false
-    hashtags: "#camera, #honey, #read, #yoga"
-  - username: "bailey.nomi"
+    hashtags: "#comedy, #disney, #pov, #disneyreviews"
+  - username: "shannon_favia"
     fullname: >-
-      Bailey
+      Shannon Favia
+    bio: >-
+      Makin’ art in Chicago.
     location: "United States"
-    followers: 15717
-    engagement: 1077
-    commentsToLikes: 0.219339
-    id: cka0zzm6qhoe80i78xvrjbnwc
+    followers: 75900
+    engagement: 619
+    commentsToLikes: 0.035735
+    id: ck9euit62drp00j780cwmzicc
     verified: false
-    hashtags: "#lounge, #flyingsplits, #shqiptar, #easyyoga"
+    hashtags: "#sports, #boxinggloves, #fila, #art"
+  - username: "embermusic452"
+    fullname: >-
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
+    location: "United States"
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
+    verified: false
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
+  - username: "katiecapecod"
+    fullname: >-
+      katiecapecod🧜🏻‍♀️
+    bio: >-
+      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
+    location: "United States"
+    followers: 7738
+    engagement: 1623
+    commentsToLikes: 0.129260
+    id: ck87u29o14tty0j78453egpae
+    verified: false
+    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
 ---

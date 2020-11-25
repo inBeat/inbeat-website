@@ -1,107 +1,130 @@
 ---
 title: Top 10 Performing Artists Instagram Influencers In India In 2020
 description: >-
-  Find top performing artists Instagram influencers in India in 2020. Most popular hashtags: #quarantine #throwback #bollywood #lockdown.
+  Find top performing artists Instagram influencers in India in 2020. Most popular hashtags: #performingartist #mumbai #india #performer.
 platform: Instagram
+hits: 15
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "siddhishahofficial"
-    fullname: >-
-      Siddhi Shah
-    location: "India"
-    followers: 3809
-    engagement: 1328
-    commentsToLikes: 0.046326
-    id: ckap4e6te6yoc0i78uyoo3zf4
-    verified: false
-    hashtags: "#neverstop, #spookyedits, #scaryclown, #drumlife"
   - username: "sandeepkhareofficial"
     fullname: >-
       Sandeep Khare
+    bio: >-
+      Marathi poet, actor, performing Artist, singer-songwriter, copywriter.
     location: "India"
-    followers: 13889
-    engagement: 1026
-    commentsToLikes: 0.018974
+    followers: 20409
+    engagement: 974
+    commentsToLikes: 0.017537
     id: ck0vv1gosn3sy0i19qaij11mo
     verified: false
     hashtags: ""
-  - username: "snehaworld"
+  - username: "piasutaria"
     fullname: >-
-      go corona go
+      Pia Sutaria
+    bio: >-
+      Performing Artist. @icmdindia Founder/ Artistic Director. @royalacademyofdance Professional Dancers’ Teaching Diploma, Registered Teacher Status.
     location: "India"
-    followers: 31295
-    engagement: 611
-    commentsToLikes: 0.037839
-    id: ck6ui5nqid7q50j71y5nvnile
+    followers: 46509
+    engagement: 1270
+    commentsToLikes: 0.019649
+    id: ck14lto6gwfhs0i19vunm9ghv
     verified: false
-    hashtags: "#anitta, #victoriamonet, #gloriaestefan, #ysabellecaps"
-  - username: "nikitha_krishnan"
+    hashtags: "#beccaxindia, #ad, #beccapartner, #beccaglow"
+  - username: "v.k.d.k.v"
     fullname: >-
-      Nikitha Krishnan
+      VKDKV  വികടകവി
+    bio: >-
+      Rapper | Performing Artist | Co-Founder & Artist @mixmostudios For bookings: vkdkvrapper@gmail.com VKDKV INTRO Video Out Now 👇
     location: "India"
-    followers: 7816
-    engagement: 530
-    commentsToLikes: 0.075767
-    id: ck8t62vitc1uf0j78v6keptx4
+    followers: 4561
+    engagement: 1812
+    commentsToLikes: 0.086652
+    id: ck9wgh2u9tdua0j78zhijvqsx
     verified: false
-    hashtags: "#anshikamishra, #qurantine, #balampichkari, #quarantine"
+    hashtags: "#malayalamrap, #artists, #malayalamhiphop, #bangers"
+  - username: "siddhishahofficial"
+    fullname: >-
+      Siddhi Shah
+    bio: >-
+      Performing Artist • Tutor • Freelance Drummer🥁 📍 Dubai 🇦🇪 Founder @dreamcatchersindia @clapbox.music Artist Influencer @zildjianindia & @daddarioindia
+    location: "India"
+    followers: 4246
+    engagement: 813
+    commentsToLikes: 0.059490
+    id: ckap4e6te6yoc0i78uyoo3zf4
+    verified: false
+    hashtags: "#hybridsetup, #drummer, #buglife, #syncopation"
   - username: "irudini_umali_thilakarathna"
     fullname: >-
       UMALI
+    bio: >-
+      Actor / Dancer / Performing Artist BA in Cinema-Acting Reading for MA 日本語能力試験 N1合格 日本大学芸術学部卒業 連続受賞者
     location: "India"
     followers: 238459
     engagement: 111
     commentsToLikes: 0.025028
     id: ck9wdkyveg4xz0j7886wcrzfz
     verified: false
-    hashtags: "#peaceandlove, #inthetimesofcorona, #manipulatedart, #original"
-  - username: "sandhyamuralidharan117"
-    fullname: >-
-      SANDHYA MURALIDHARAN
-    location: "India"
-    followers: 8356
-    engagement: 803
-    commentsToLikes: 0.016933
-    id: ck9hcgbhyl9440j78qc1yovdh
-    verified: false
-    hashtags: "#motivated, #motivation, #mindfulness, #2019bride"
+    hashtags: "#muchlove, #staysafe, #stayblessed, #original"
   - username: "iswaryajayakumar"
     fullname: >-
-      • I S W A R Y A  J K •
+      Iswarya Jayakumar
+    bio: >-
+      Choreographer | Performing Artiste | Avid traveler Dream it. Believe it. Build it✨ @sudio~ 15% Discount (Promo code ‘Iswarya’)
     location: "India"
-    followers: 18142
-    engagement: 577
-    commentsToLikes: 0.017381
+    followers: 19620
+    engagement: 549
+    commentsToLikes: 0.021840
     id: ck6014gshetj10i146mmn4z9c
     verified: false
-    hashtags: "#southindian, #northindia, #traveldiaries, #contemporary"
-  - username: "daphisha_kharbani"
+    hashtags: "#sudio, #rajasthan, #dance, #jaipur"
+  - username: "mishal.raheja"
     fullname: >-
-      Daphisha(Proud khasi girl)
+      Mishal.Raheja
+    bio: >-
+      Music video released : https://youtu.be/Qg_uAf8C73A
     location: "India"
-    followers: 43564
-    engagement: 715
-    commentsToLikes: 0.024073
-    id: ck602netqi4wv0i14eea6kify
-    verified: false
-    hashtags: "#improvised, #photography, #khasidancers, #memes"
-  - username: "sushanttanwar9"
+    followers: 365844
+    engagement: 157
+    commentsToLikes: 0.044838
+    id: ck0tu32t25f3d0i190izvfbda
+    verified: true
+    hashtags: "#fitness, #mumbai, #fitwithmish, #mishalraheja"
+  - username: "baddraa"
     fullname: >-
-      S U S H A N T
+      Baddraa
+    bio: >-
+      Circus Performer Specialized in Fire & Flow Art , Object Manipulation , Hulahoop Based in Goa
     location: "India"
-    followers: 42118
-    engagement: 1693
-    commentsToLikes: 0.031601
-    id: ck8t1izzevyhc0j78bbg1dko5
+    followers: 16905
+    engagement: 451
+    commentsToLikes: 0.024025
+    id: ck8tcbtnlyz2u0j78q7d9j6pu
     verified: false
-    hashtags: "#ishachawla, #sharmanjoshi, #performing, #chetnapande"
-  - username: "aasa.sing"
+    hashtags: "#doublehoops, #flowartist, #fire, #hulahoop"
+  - username: "akshayanaik12"
     fullname: >-
-      Aasa Singh
+      Akshaya Naik
+    bio: >-
+      #OfArtAndDreams Lover of Stage, Art, Momos, Chai and Cakes ❤️ Actor | Influencer | Body Positive 🎭🎥 Mtv bigf Episode👇
     location: "India"
-    followers: 20927
-    engagement: 438
-    commentsToLikes: 0.025834
-    id: ck5zvbqxm3xkm0i14pyh9rxoh
+    followers: 68874
+    engagement: 118
+    commentsToLikes: 0.060879
+    id: ck6uauluv5r8b0j71b8i37y9z
     verified: false
-    hashtags: "#brown, #kuchnahi, #city, #denim"
+    hashtags: "#artistsoninstagram, #ipreview, #influencer, #communityfirst"
+  - username: "dennis_dannz"
+    fullname: >-
+      Alexander Dannis Anthony
+    bio: >-
+      Animator | Creator | MJ5 | Dancer 🥉Dance Champions - @starplus Reality exists beyond existence! 🤔 Delhi 🔄 Mumbai 🇮🇳 YouTube :- @dennis_dannz
+    location: "India"
+    followers: 16598
+    engagement: 340
+    commentsToLikes: 0.035208
+    id: ck15uohhoo5q50i19atk5y8k7
+    verified: false
+    hashtags: "#urban, #dance, #choreography, #quarantine"
 ---

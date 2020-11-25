@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening TikTok Influencers In 2020
 description: >-
-  Find top gardening TikTok influencers in 2020. Most popular hashtags: #keepingactive #quarantine #forage #cooking.
+  Find top gardening TikTok influencers in 2020. Most popular hashtags: #fyp #gardening #plants #garden.
 platform: TikTok
+hits: 1028
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 1028 TikTok influencers like this for you to work with.
 profiles:
-  - username: "victorygardensrevival"
+  - username: "growingthroughtheweeds"
     fullname: >-
-      Victory Gardens
+      Growing Through The Weeds 🍓
+    bio: >-
+      🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
     location: "United States"
-    followers: 2410
-    engagement: 1325
-    commentsToLikes: 0.147023
-    id: ckafu26818b0r0i78tz622c7k
+    followers: 6974
+    engagement: 2156
+    commentsToLikes: 0.248635
+    id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#weather, #damage, #bees, #yellowants"
-  - username: "ourlittlegardens"
+    hashtags: "#growingthroughtheweeds, #learnontiktok, #diy, #sewing"
+  - username: "minigarden_"
     fullname: >-
-      Chantelle
-    location: "Australia"
-    followers: 2807
-    engagement: 1645
-    commentsToLikes: 0.107247
-    id: ck81s77y3qidd0j78pyytploi
-    verified: false
-    hashtags: "#mitre10, #foryoupage, #trending, #thanksdad"
-  - username: "haleyink"
-    fullname: >-
-      dirt eater
+      🌱🍄🌈🌻
+    bio: >-
+      blm she/her Gardening stuff 🍄🌱🌞🌿🧿 depop @franciefrickee
     location: "United States"
-    followers: 19176
-    engagement: 1961
-    commentsToLikes: 0.011929
-    id: ck9vett5a0gxk0j782a9919td
+    followers: 2038
+    engagement: 2085
+    commentsToLikes: 0.066653
+    id: ckbf7oxi4xqvf0j23k3fkne7a
     verified: false
-    hashtags: "#baking, #pilotpete, #mycrib, #diyproject"
+    hashtags: "#viral, #foryou, #botanistsoftiktok, #xyzbca"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
+    bio: >-
+      Homesteading, Gardening, Permaculture and more! LEARN TEACH GROW
     location: "United States"
-    followers: 10333
-    engagement: 1035
-    commentsToLikes: 0.039352
+    followers: 10600
+    engagement: 1440
+    commentsToLikes: 0.158028
     id: ck8vuqcv4jlc90j78gme30n29
     verified: false
-    hashtags: "#bottomwatering, #foyou, #gardentips, #inbloom"
-  - username: "cosgrome"
+    hashtags: "#plants, #feelinggood, #houseplants, #wholesomeroots"
+  - username: "nirianvigora"
     fullname: >-
-      Moira Cosgrove
+      Nirian Vigora
+    bio: >-
+      You may call me Steph cottagecore gardening and travel ‼️Taxidermist‼️
     location: "United States"
-    followers: 19753
-    engagement: 820
-    commentsToLikes: 0.018319
-    id: ck9rcjcbatppw0j78j6txlvp2
+    followers: 2904
+    engagement: 2096
+    commentsToLikes: 0.031008
+    id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#vegatables, #sunset, #vegan, #houseplantcare"
-  - username: "notjustafitmom.jackson"
+    hashtags: "#aesthetic, #closedecosystem, #plants, #fish"
+  - username: "levelupirl"
     fullname: >-
-      user4860259200556
+      levelupirl
+    bio: >-
+      Anime Computers Cooking Gardening Photography
     location: "United States"
-    followers: 2097
-    engagement: 537
-    commentsToLikes: 0.068379
-    id: ck9tvli7sr4kr0j786ifkrjxh
+    followers: 2873
+    engagement: 928
+    commentsToLikes: 0.094752
+    id: cka0kuku7o7l20i78ksst02ak
     verified: false
-    hashtags: "#genx, #over30, #healthyrecipe, #groundhogday"
-  - username: "umbotaniconoapartamento"
+    hashtags: "#timewarpscan, #naruto, #gardentour, #sasukeuchiha"
+  - username: "haleyink"
     fullname: >-
-      Samuel Gonçalves
-    location: "Brazil"
-    followers: 27827
-    engagement: 1266
-    commentsToLikes: 0.017347
-    id: ck8s84i72s2fw0j782mktdq72
-    verified: false
-    hashtags: "#desafio, #succulent, #suculenta, #plantar"
-  - username: "ishaazzz"
-    fullname: >-
-      Ishazz mom😍
-    location: "India"
-    followers: 45525
-    engagement: 838
-    commentsToLikes: 0.011469
-    id: ck9fxy3pz8kpf0j78j8k127ya
-    verified: false
-    hashtags: "#gardeningchallenge, #uppooppa, #hubbywifey, #loveforever"
-  - username: "tylerblackmorehughes"
-    fullname: >-
-      TylerBlackmoreHughes
+      dirt eater
+    bio: >-
+      🌱💫 she/her, 18, atx 💫🌱 currently asleep, gardening, or eating dirt!!!
     location: "United States"
-    followers: 20894
-    engagement: 807
-    commentsToLikes: 0.028148
-    id: ck99agm99hghh0j7823hf7u8i
+    followers: 18500
+    engagement: 1971
+    commentsToLikes: 0.015603
+    id: ck9vett5a0gxk0j782a9919td
     verified: false
-    hashtags: "#loot, #treasure, #fake, #moose"
-  - username: "homestead.honey"
+    hashtags: "#vintage, #art, #fyp, #wlw"
+  - username: "gardeningwithtara"
     fullname: >-
-      noelle
+      Tara Ratcliffe
+    bio: >-
+      mostly gardening + critters. ↟☼ northern ca • zone 9.
     location: "United States"
-    followers: 9088
-    engagement: 437
-    commentsToLikes: 0.017177
-    id: ckaclsa7cgtpv0i78c4sk80j9
+    followers: 28100
+    engagement: 1431
+    commentsToLikes: 0.031336
+    id: ckdn8tz3gfhyo0j23x5lf0pue
     verified: false
-    hashtags: "#beekeepers, #natural, #historylesson, #metalart"
+    hashtags: "#chickens, #backyardfarm, #gardening, #growyourown"
+  - username: "urbanfarmstead"
+    fullname: >-
+      kylethagerty
+    bio: >-
+      Be sure to follow on 👆INSTAGRAM 👆 and 👇 YouTube 👇 for all my gardening tips!
+    location: "United States"
+    followers: 205500
+    engagement: 1137
+    commentsToLikes: 0.019677
+    id: ck95z2qyycphe0j78ctyuczdr
+    verified: false
+    hashtags: "#gardeningtips, #homegrown, #vegan, #plants"
+  - username: "mtplanters"
+    fullname: >-
+      MT Planters
+    bio: >-
+      Welcome Planters 💚 Houseplants 🌿 Gardening 🌿 Tips 🌿 Plant Giveaways!!
+    location: "United States"
+    followers: 151500
+    engagement: 1093
+    commentsToLikes: 0.018403
+    id: ckfpm1ge61a910j23fbkzfag5
+    verified: false
+    hashtags: "#lemontree, #planttips, #gardening, #plantcare"
+  - username: "gardentribe"
+    fullname: >-
+      Mignonette Bailey
+    bio: >-
+      Garden Evangelist 🌱 Edible gardening tips for beginners! Growing organic.🐞
+    location: "United States"
+    followers: 10400
+    engagement: 594
+    commentsToLikes: 0.034667
+    id: ckdnup9upnkgk0j2324bm4l8r
+    verified: false
+    hashtags: "#gardentribe, #organicgarden, #fyp, #growfood"
 ---

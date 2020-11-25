@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In South Africa In 2020
 description: >-
-  Find top travel Instagram influencers in South Africa in 2020. Most popular hashtags: #ootd #stayhome #coupletravels #safari.
+  Find top travel Instagram influencers in South Africa in 2020. Most popular hashtags: #capetown #southafrica #travel #photography.
 platform: Instagram
+hits: 273
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 273 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "janwillemplug"
+  - username: "mistrudy"
     fullname: >-
-      the Instatripper
+      Miss Trudy.
+    bio: >-
+      Africa's hottest Travel Vlogger! I'm Simple But Sweet! 📍🇰🇪 My YouTube Channel
     location: "South Africa"
-    followers: 90108
-    engagement: 431
-    commentsToLikes: 0.097037
-    id: ckaox7lexc5070i78xy0a6bkf
+    followers: 29071
+    engagement: 865
+    commentsToLikes: 0.065239
+    id: ck600abbbd8790i14f6va765p
     verified: false
-    hashtags: "#mountainview, #zuidafrika, #penang, #positiveenergy"
-  - username: "katjab0810"
+    hashtags: "#fashion, #fashionphotography, #photography, #ghanastyle"
+  - username: "ashley_rothman"
     fullname: >-
-      ꧁Style•Photography•Travel꧂
+      Ashley Rothman
+    bio: >-
+      ✈️ travel addict 🌱 adventure lover 🍉 health + fitness enthusiast I want to make memories all over the world 🌍
     location: "South Africa"
-    followers: 6733
-    engagement: 1108
-    commentsToLikes: 0.078038
-    id: ck0w0idktecpu0i1904ma5akc
+    followers: 24156
+    engagement: 453
+    commentsToLikes: 0.063608
+    id: ckaowktx19d380i78yhvj56zi
     verified: false
-    hashtags: "#motherkindcares, #mycottonon"
-  - username: "katlego_masupa"
+    hashtags: "#blowwave, #happysunday, #quarantinelife, #takemeback"
+  - username: "mirah_aamirah"
     fullname: >-
-      Katlego Masupa
+      اميرة
+    bio: >-
+      •Premium 💫 •Well travelled Princess 👑 •Proudly South African 🇿🇦 📍🇳🇬 @am_vitality19
     location: "South Africa"
-    followers: 69806
-    engagement: 245
-    commentsToLikes: 0.081537
-    id: ck5btyb4agtpq0i113f18sbs4
+    followers: 26828
+    engagement: 600
+    commentsToLikes: 0.052415
+    id: ck0txqa5tk4l40i19tkzdtz1c
     verified: false
-    hashtags: "#treatyourself, #nodebate, #babysoft, #throwbackthursday"
-  - username: "candy_and_the_king"
+    hashtags: "#wce, #throwbackthursday, #nigeria, #wcw"
+  - username: "tailsofamermaid"
     fullname: >-
-      CANDY & JONTY | JOY | LAOS 🇱🇦
+      Natalie Roos
+    bio: >-
+      🤓 Influencer Relations Director 🇿🇦 South African 📷 Travel Blogger & Photographer 🏠 Cape Town/Nairobi 👩🏼‍💻Travel inspo & more:
     location: "South Africa"
-    followers: 10065
-    engagement: 720
-    commentsToLikes: 0.112207
-    id: ck6u0k1cvg58t0j71yc3ide1k
+    followers: 23705
+    engagement: 355
+    commentsToLikes: 0.134745
+    id: ck55j0i1pvyjp0i11bmfh9euj
     verified: false
-    hashtags: "#adventuregram, #positivepeople, #girlpowertravel, #wanderlove"
-  - username: "skylar__allan"
-    fullname: >-
-      S K Y E
-    location: "South Africa"
-    followers: 2374
-    engagement: 2219
-    commentsToLikes: 0.101364
-    id: ck6u88k98q2ae0j71i638fe88
-    verified: false
-    hashtags: ""
-  - username: "claudiaboyo"
-    fullname: >-
-      Claudia Boyo 🌺
-    location: "South Africa"
-    followers: 33849
-    engagement: 265
-    commentsToLikes: 0.106552
-    id: ck6uf9mnavqoz0j71i16u1me1
-    verified: false
-    hashtags: "#skydiving"
-  - username: "saskiatopp"
-    fullname: >-
-      Saskia Jordyn Topp
-    location: "South Africa"
-    followers: 30060
-    engagement: 260
-    commentsToLikes: 0.075074
-    id: ck6u2s7s2tmls0j71eprx8zjp
-    verified: false
-    hashtags: "#vacationmood, #vacationmodeon, #health, #carltonhair"
-  - username: "senz_m"
-    fullname: >-
-      TRAVEL & LIFESTYLE
-    location: "South Africa"
-    followers: 5617
-    engagement: 1283
-    commentsToLikes: 0.105114
-    id: ck6to4ihic1yv0j71t7n9wy4h
-    verified: false
-    hashtags: "#solotravel, #stayhome, #localbrands, #airbnb"
+    hashtags: "#capetown, #nairobinationalpark, #safari, #villarosakempinski"
   - username: "themarriedwanderers"
     fullname: >-
       Jen & Rudolph
+    bio: >-
+      South African #TravelCouple ☼ Join our pursuit to wander, ☽ and find extraordinary dates! ☞︎ us@themarriedwanderers.com _ Latest travel features ☟︎
     location: "South Africa"
-    followers: 18218
-    engagement: 345
-    commentsToLikes: 0.082140
+    followers: 18794
+    engagement: 331
+    commentsToLikes: 0.080366
     id: ck55q8m13c5180i112vj06y5u
     verified: false
-    hashtags: "#paarl, #travlcouple, #quarantinedate, #keepitwild"
-  - username: "travelwithmila_"
+    hashtags: "#franschhoek, #couplestravelgoals, #proteahotelkrugergate, #travelafrica"
+  - username: "caitlindeville"
     fullname: >-
-      𝐌 𝐈 𝐋 𝐀
+      Caitlin De Ville
+    bio: >-
+      🎻 Electric Violinist 🎻 Turisas ✈️ World Traveler 🇿🇲 Proudly Zambian 🎧 Check out my DJ/Violin act @deville_live 🇿🇦 Cape Town based
     location: "South Africa"
-    followers: 2558
-    engagement: 1849
-    commentsToLikes: 0.099384
-    id: ck8t3vgwg4n4q0j78wjnqep7t
+    followers: 36216
+    engagement: 1111
+    commentsToLikes: 0.029120
+    id: ck137r0mycy5r0i19l71k78ku
     verified: false
-    hashtags: "#jumeirahhotels, #ootdguide, #mydubai, #dubaimarina"
+    hashtags: "#electricviolin, #haveviolinwilltravel, #youtube, #capetown"
+  - username: "the_girl_in_the_bikini"
+    fullname: >-
+      Katelyn
+    bio: >-
+      🌞FOREVER CHASING SUMMER🌞 •MODEL👱🏼‍♀️ @icemodelsjhb •DESIGNER/OWNER🧵 @missktb_fashion •TRAVELLER 🌍 •MOM OF @gigi_the_toy 🐩
+    location: "South Africa"
+    followers: 27739
+    engagement: 354
+    commentsToLikes: 0.041946
+    id: ck8t6fp6sdg760j78cygld5w6
+    verified: false
+    hashtags: "#fitnessmotivation, #waterfall, #bali, #beachbabe"
+  - username: "laurasidestreet"
+    fullname: >-
+      Laura 🌵 Side Street
+    bio: >-
+      South African in Wales 🌈 Adventure | Skate | Family Travel Outdoors | Mountains | Seas Feminist raising boys (she/her)
+    location: "South Africa"
+    followers: 17675
+    engagement: 254
+    commentsToLikes: 0.131297
+    id: ckaoy3l84fwzh0i78h5wgilhv
+    verified: false
+    hashtags: "#ukparentbloggers, #welshlockdown, #treasurethetime, #explorelocal"
+  - username: "fashionfundi"
+    fullname: >-
+      Tarryn Candice Els
+    bio: >-
+      South African Award Winning Content Creator & Blogger Fashion | Beauty | Travel | Lifestyle 💌 fashionfundiblog@gmail.com
+    location: "South Africa"
+    followers: 24086
+    engagement: 201
+    commentsToLikes: 0.145856
+    id: ck6u3mc62ylxs0j717hq7pfg0
+    verified: false
+    hashtags: "#instareels, #summer2020, #highendfashion, #instafashion"
+  - username: "caley.jack"
+    fullname: >-
+      Caley Jäck
+    bio: >-
+      @lesmills ✖️ @Reebok - Global Brand Ambassador s o u t h • a f r i c a n | fitness . travel . Wife . Mumma🤰🏼to Ella + 🐶🐶| ✝️ FREE 🏠WORKOUTS👇🏼
+    location: "South Africa"
+    followers: 58673
+    engagement: 944
+    commentsToLikes: 0.021700
+    id: ck14khpvkpjs00i19y064z4ey
+    verified: false
+    hashtags: "#newborn, #exercisemotivation, #babygirl, #grateful"
 ---

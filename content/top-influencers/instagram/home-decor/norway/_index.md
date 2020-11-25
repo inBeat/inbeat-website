@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Norway In 2020
 description: >-
-  Find top home decor Instagram influencers in Norway in 2020. Most popular hashtags: #homedecor #livingroomdecor #homeinspo #livingroominspo.
+  Find top home decor Instagram influencers in Norway in 2020. Most popular hashtags: #interi #interior #livingroom #homedecor.
 platform: Instagram
+hits: 58
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 58 Instagram influencers like this in Norway for you to pitch.
 profiles:
   - username: "anettevs"
     fullname: >-
       Anette Veronica 🇳🇴
+    bio: >-
+      💗HomeDecor💗God💗Lifestyle💗Family💗Pets💗Health💗 Posterstore- Code Anettevs30 = 30% discount Bubbleroom- Code ANE10 = 10% discount
     location: "Norway"
     followers: 12021
     engagement: 405
     commentsToLikes: 0.399633
     id: ck0ty9wkwm3230i19mrwfkgyc
     verified: false
-    hashtags: "#candleholder, #interiorinspiration, #homestyling, #whiteflowers"
-  - username: "_helenahansen_"
-    fullname: >-
-      Helena Hansen
-    location: "Norway"
-    followers: 8336
-    engagement: 1504
-    commentsToLikes: 0.037283
-    id: ck0vxqqmi08f50i19t1kfpogp
-    verified: false
-    hashtags: "#thenaplab, #zerowaste, #babyshop, #liewood"
-  - username: "jilanbaker"
-    fullname: >-
-      J I L A N B A K E R ⋒
-    location: "Norway"
-    followers: 8274
-    engagement: 991
-    commentsToLikes: 0.413230
-    id: ck55pam67a5zj0i11vbur9u2c
-    verified: false
-    hashtags: "#happybirthday, #fashiongoals, #kappahl, #childrensdecor"
-  - username: "mitt_landlige_hjem"
-    fullname: >-
-      Linda🇳🇴
-    location: "Norway"
-    followers: 2789
-    engagement: 1830
-    commentsToLikes: 0.128712
-    id: ck5bwjvuclua20i11g8qfj8qa
-    verified: false
-    hashtags: "#sommerblomster, #countrygarden, #lysp, #yellowdecor"
+    hashtags: "#outfitinspo, #fashiongirls, #stueinspo, #cabinet"
   - username: "funkis_tina"
     fullname: >-
-      funkis_tina
+      Funkis tina
+    bio: >-
+      ▪️Bergen/ Norway ▪️New house 2018 ▪️Home and interior 📩 funkistina@gmail.com
     location: "Norway"
-    followers: 8491
-    engagement: 824
-    commentsToLikes: 0.139748
+    followers: 30296
+    engagement: 782
+    commentsToLikes: 0.079143
     id: ck8swvd4cfdmn0j782jhsxxtq
     verified: false
-    hashtags: "#spisestue, #interior2you, #interi, #fireplace"
-  - username: "homebygard"
+    hashtags: "#funkis, #scandinaviandesign, #boligmagasinet, #boliginspo"
+  - username: "elinhjemli"
     fullname: >-
-      Interior Inspiration
+      ELIN HJEMLI 🌿
+    bio: >-
+      ➳ Interiør ❀ Prematurmamma ♡ Gillis 260619 ❀ Collab • ᴰᴹ
     location: "Norway"
-    followers: 35555
-    engagement: 232
-    commentsToLikes: 0.089940
-    id: ck8sw06uqdcmm0j78ge7bkrj6
+    followers: 16274
+    engagement: 853
+    commentsToLikes: 0.303939
+    id: ck55of7hc88ib0i11ve4e8ogj
     verified: false
-    hashtags: "#mydarkhome, #home, #deco, #hjemmehosmeg"
-  - username: "tove.klevjer"
+    hashtags: "#boysroomdecor, #gullfj, #myhome, #whiteinterioryes"
+  - username: "byphiamarie"
     fullname: >-
-      𝗧𝗢𝗩𝗘 𝗞𝗟𝗘𝗩𝗝𝗘𝗥
+      Phia Andersson ~ #ByPhiaMarie
+    bio: >-
+      RETAIL DESIGNER/VM ◇Styling & Interiør i to Hjem ◇Hage & Blomster og Lys ◇Tanker & Øyeblikk der hjerte er med🧡 ◇Finalist Årets @gullfjaeren -19 og -20
     location: "Norway"
-    followers: 3046
-    engagement: 1185
-    commentsToLikes: 0.266128
-    id: ck8sylnfwl76x0j78iozp81t7
+    followers: 3391
+    engagement: 1401
+    commentsToLikes: 0.315068
+    id: ck6tp7dw5i8ml0j71g6zk6n8u
     verified: false
-    hashtags: "#bunad, #antiques, #tradisjon, #contry"
+    hashtags: "#livingroom, #bakgl, #hageliv, #landligehjem"
+  - username: "skavangergaard"
+    fullname: >-
+      Interiør • Styling • Bolig
+    bio: >-
+      • Anne Bergem Ruud 👩🏼‍⚕️ • Småbruk i Kongsberg 🌾 • Interiørfrelst 🍂 • Boligdrøm oktober 2019 🤎
+    location: "Norway"
+    followers: 4390
+    engagement: 1100
+    commentsToLikes: 0.238138
+    id: ck14ib4ufej980i19ze4uvajm
+    verified: false
+    hashtags: "#maisoninteri, #carisma, #ninacindydeler, #whiteinterioryes"
+  - username: "sheidas_interiorstyle"
+    fullname: >-
+      🅰️LiN🅰️
+    bio: >-
+      ﷽🕊 Interior & Decor🤎 Secretary and Accounting 📚📝📈
+    location: "Norway"
+    followers: 70498
+    engagement: 162
+    commentsToLikes: 0.075777
+    id: ck8syloeal7bx0j789ejciuq0
+    verified: false
+    hashtags: "#design, #interiordesign, #interior123, #inspiredaily"
   - username: "kinegjermstad"
     fullname: >-
       Kine Gjermstad
+    bio: >-
+      Interior •Stjørdal, Norway. •Collaboration? Email: Kine.gjermstad@outlook.com /DM •Repost #kinegjermstad + @kinegjermstad
     location: "Norway"
-    followers: 19306
-    engagement: 528
-    commentsToLikes: 0.155157
+    followers: 18868
+    engagement: 542
+    commentsToLikes: 0.154852
     id: ck55k6o9aylp30i11q8xjez9r
     verified: false
-    hashtags: "#interior4all, #tipstilhjemmet, #heymat, #finahem"
-  - username: "cathrinedoreen"
+    hashtags: "#cozyminimalist, #maisoninterior, #nordicinterior, #designletters"
+  - username: "nyquist_home"
     fullname: >-
-      Cathrine Doreen® 🇳🇴
+      Lill-Anita Nyquist
+    bio: >-
+      Gift og mamma til 3 gutter 🤍 Fotograf 📸 Byggestart høsten 2020 av vårt råkule funkishus ved Oslofjorden 🌊🌅 TAG #delmeg Owner of @funkisbloggen
     location: "Norway"
-    followers: 162584
-    engagement: 137
-    commentsToLikes: 0.058487
-    id: ck15tgk5lhz3s0i19pahjg2i9
+    followers: 81472
+    engagement: 127
+    commentsToLikes: 0.248487
+    id: ck0uajdd2cdhe0i19jo1to3yj
     verified: false
-    hashtags: "#exteriordesign, #ladelle, #ceilingdesign, #interior"
-  - username: "holstedhanne"
+    hashtags: "#modernehjem, #bolig, #house, #modernhouse"
+  - username: "lauvhaug"
     fullname: >-
-      Hanne & Rune
+      Anne Liv F. Lauvhaug✌🏽
+    bio: >-
+      27 | Occupational Therapist | Interior enthusiast | Oslo, Norway |
     location: "Norway"
-    followers: 22701
-    engagement: 476
-    commentsToLikes: 0.157760
-    id: ck6ucagsyegfl0j71fhyhm7ut
+    followers: 94602
+    engagement: 98
+    commentsToLikes: 0.051357
+    id: ck0udp0t8jikz0i19lcrwy8ns
     verified: false
-    hashtags: "#nordiskehjem, #myhome, #verticalgarden, #interiordecor"
+    hashtags: "#scandinavianstyle, #livingroom, #hem, #interior"
+  - username: "housebythefjord"
+    fullname: >-
+      House by the fjord
+    bio: >-
+      Interior • lifestyle • coffee • ♻️ from our house by one of the most Beautiful Fjords in NORWAY. Founder of @vfjorden
+    location: "Norway"
+    followers: 7250
+    engagement: 590
+    commentsToLikes: 0.072032
+    id: ck9wfmsj6pjl20j78kh7img0w
+    verified: false
+    hashtags: "#interiors, #norway, #interiordesign, #livingroom"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In Canada In 2020
 description: >-
-  Find top painters TikTok influencers in Canada in 2020. Most popular hashtags: #positivevibes #canadalife #duet #tiktok.
+  Find top painters TikTok influencers in Canada in 2020. Most popular hashtags: #painter #artist #art #fyp.
 platform: TikTok
+hits: 98
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 98 TikTok influencers like this in Canada for you to work with.
 profiles:
-  - username: "seerat.kaila"
-    fullname: >-
-      seer.art
-    location: "Canada"
-    followers: 2856
-    engagement: 1102
-    commentsToLikes: 0.046445
-    id: ckac8k7gufj5d0i78v3msgout
-    verified: false
-    hashtags: "#littlethings, #likethis, #colours, #boredvibes"
   - username: "alexandriawebber"
     fullname: >-
       Alexandria Webber
+    bio: >-
+      ❤20 year old self-taught artist❤
     location: "Canada"
-    followers: 2504
-    engagement: 1966
-    commentsToLikes: 0.042518
+    followers: 2433
+    engagement: 1924
+    commentsToLikes: 0.045278
     id: ck8vy4t8ltaxy0j78qzwkz17u
     verified: false
-    hashtags: "#foryoupage, #picasso, #orange, #fromontario"
+    hashtags: "#art, #painting, #drawing, #sketch"
+  - username: "mistryart"
+    fullname: >-
+      Bhavini Mistry
+    bio: >-
+      Artist & Designer 🇨🇦 I like to say hello! link to my Etsy + ways to help BLM ⬇
+    location: "Canada"
+    followers: 14300
+    engagement: 1869
+    commentsToLikes: 0.071048
+    id: ckdc0mme6fe730j232uy44qpo
+    verified: false
+    hashtags: "#art, #fyp, #dracomalfoy, #browngirl"
+  - username: "queenlillix"
+    fullname: >-
+      Lillix
+    bio: >-
+      Just your friendly neighbourhood spooky artist 🖤💀🇨🇦
+    location: "Canada"
+    followers: 9320
+    engagement: 2286
+    commentsToLikes: 0.044395
+    id: cka0jr4zvj8ww0i78kaeo2tkw
+    verified: false
+    hashtags: "#spooktok, #draw, #artskills, #spookyart"
+  - username: "black_kat.art"
+    fullname: >-
+      Black_Kat.Art
+    bio: >-
+      Artist 👩‍🎨 Coffee lover Level 100 procrastinator
+    location: "Canada"
+    followers: 2286
+    engagement: 2315
+    commentsToLikes: 0.041211
+    id: ckcur9bkejm6w0j23kdvxj08t
+    verified: false
+    hashtags: "#digitalartist, #painter, #viral, #artist"
   - username: "djkellyart"
     fullname: >-
       David Kelly 
+    bio: >-
+      Toronto based artist!
     location: "Canada"
-    followers: 2780
-    engagement: 862
-    commentsToLikes: 0.097088
+    followers: 3615
+    engagement: 528
+    commentsToLikes: 0.220084
     id: cka7vvf49xyy50i78pbyml7tl
     verified: false
-    hashtags: "#lockdownlife, #haircut, #fitness, #crazy"
-  - username: "queenlillix"
+    hashtags: "#abstractart, #foryoupage, #art, #artist"
+  - username: "carlieartist"
     fullname: >-
-      Lily Yearwood
+      Carlie Pearce
+    bio: >-
+      The lesbian artist side of TikTok 🇨🇦 🏳️‍🌈 Instagram: @carlieartist
     location: "Canada"
-    followers: 8401
-    engagement: 2228
-    commentsToLikes: 0.034078
-    id: cka0jr4zvj8ww0i78kaeo2tkw
+    followers: 34800
+    engagement: 1098
+    commentsToLikes: 0.025364
+    id: ck806uypmm7xw0j783qdsdyic
     verified: false
-    hashtags: "#harleyquinn, #digitaldrawing, #darknight, #starwars"
-  - username: "mabelm00n"
+    hashtags: "#lgbt, #fyp, #art, #artist"
+  - username: "sashanicolerose"
     fullname: >-
-      Mabel Moon
+      SashaNicoleRose
+    bio: >-
+      It’s ok, I was weird before this IG: sashanicolerose Live at 10k Made in 🇨🇦
     location: "Canada"
-    followers: 14879
-    engagement: 1061
-    commentsToLikes: 0.029857
-    id: cka67dgv4klh40i78f32anbyh
+    followers: 6120
+    engagement: 764
+    commentsToLikes: 0.083751
+    id: cka69jz7ysry40i78fuik2de9
     verified: false
-    hashtags: "#artistsoftiktok, #alwayscreative, #painters, #canadalife"
+    hashtags: "#art, #canadianartist, #over30, #lipsync"
+  - username: "lynethmorgan"
+    fullname: >-
+      Lyneth Morgan
+    bio: >-
+      Artist 🇨🇦🎨 prints and custom paintings available ⬇️check my site for info⬇️
+    location: "Canada"
+    followers: 22500
+    engagement: 1092
+    commentsToLikes: 0.037636
+    id: ckdc0n8s9ff1a0j234g6m1kml
+    verified: false
+    hashtags: "#create, #foryou, #foryoupage, #portrait"
   - username: "dopechief"
     fullname: >-
       Dope Chief
+    bio: >-
+      How to Artist 🇨🇦
     location: "Canada"
-    followers: 39047
-    engagement: 1633
-    commentsToLikes: 0.015246
+    followers: 38500
+    engagement: 1604
+    commentsToLikes: 0.016728
     id: ck8qhxhw16vyc0j780b52kb8v
     verified: false
-    hashtags: "#happyathome, #animations, #whenyourealize, #creative"
-  - username: "derkz_"
+    hashtags: "#animate, #trippy, #paint, #corona"
+  - username: "streetartspraydrzky"
     fullname: >-
-      DERKZ Graffiti 🇨🇦
+      Graffiti and Murals!
+    bio: >-
+      Professional muralist! Painting for 5 years Turned a hobby into a career
     location: "Canada"
-    followers: 66145
-    engagement: 1379
-    commentsToLikes: 0.012322
+    followers: 94200
+    engagement: 1565
+    commentsToLikes: 0.010267
     id: ck8vtj5yogfzp0j78nr2kxdgz
     verified: false
-    hashtags: "#portait, #painting, #logo, #colour"
-  - username: "saidowalia123"
-    fullname: >-
-      Saidowalia123
-    location: "Canada"
-    followers: 348275
-    engagement: 314
-    commentsToLikes: 0.001666
-    id: cka0omr3e4lv70i78sej0lno6
-    verified: false
-    hashtags: "#khan, #leapday, #canada, #help"
-  - username: "jennsartofficial"
-    fullname: >-
-      jennsartofficial
-    location: "Canada"
-    followers: 21378
-    engagement: 1551
-    commentsToLikes: 0.061648
-    id: cka69kjxvsxmq0i78rxh1elz2
-    verified: false
-    hashtags: "#losangeles, #artchallege, #acrylicpaint, #ironman"
-  - username: "shawnalynn89"
-    fullname: >-
-      Shawnanagins 💚
-    location: "Canada"
-    followers: 4920
-    engagement: 1799
-    commentsToLikes: 0.079733
-    id: cka6k960rxym60i782og616p7
-    verified: false
-    hashtags: "#snackbreak, #weirdo, #djathome, #levelup"
+    hashtags: "#mural, #painter, #oddlysatisfying, #art"
 ---

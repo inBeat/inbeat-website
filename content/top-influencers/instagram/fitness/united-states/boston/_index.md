@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Boston In 2020
 description: >-
-  Find top fitness Instagram influencers in Boston in 2020. Most popular hashtags: #fitness #boston #workout #lifestyle.
+  Find top fitness Instagram influencers in Boston in 2020. Most popular hashtags: #fitness #boston #bostonfitness #mondaymotivation.
 platform: Instagram
+hits: 130
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 130 Instagram influencers like this in Boston, United States for you to work with.
 profiles:
-  - username: "cmooch"
+  - username: "bspokestudios"
     fullname: >-
-      MOOCH
+      B/SPOKE Studios
+    bio: >-
+      Boston | CAPE HOUSE | Wellesley | @dripcafebos Created To Improve Life Streaming ON DEMAND and LIVE Classes
     location: "United States"
-    followers: 14901
-    engagement: 539
-    commentsToLikes: 0.069585
-    id: ck8syvg2um6330j78rwlkxf5k
+    followers: 28046
+    engagement: 90
+    commentsToLikes: 0.032475
+    id: ck55lj7wt1p6v0i11fjwc7avl
     verified: false
-    hashtags: "#movewithmm, #barrysboston, #lemmeupgradeya, #strikeoutals"
-  - username: "katyathedancer"
+    hashtags: "#dayinthelife, #cycling, #mindfulness, #bspokelife"
+  - username: "barley__thegolden"
     fullname: >-
-      katya
+      Barley 🎾
+    bio: >-
+      🌾Barley ☀️Goldiva Golden 🏆AKC Certified Golden: Sail Away Goldiva 📍Boston, MA 🎈4/4/2018 Hobbies: Beach Bum, Chasing Squirrels & Eating Treats
     location: "United States"
-    followers: 136900
-    engagement: 411
-    commentsToLikes: 0.021179
-    id: ck136akc05k6r0i19dg8v7d0l
+    followers: 2780
+    engagement: 1360
+    commentsToLikes: 0.075141
+    id: ck8szvglspv2x0j78kgtqm5d8
     verified: false
-    hashtags: "#thebox, #sunmi, #dalladalla, #kpopclass"
-  - username: "charlie_bartley"
+    hashtags: "#goldensofinstagram, #instadogsfeature, #dogsofcalifornia, #maine"
+  - username: "africarubiop"
     fullname: >-
-      CHARLES BARTLEY
+      Africa Rubio / Health Coach
+    bio: >-
+      Health Coach @nutritionschool Co-Founder @bostonwomensmarket - @namastaywell.co YSTT~RYTT 200~GFI~YIN NAMASTAY HOME WORKOUTS™ SIGN UP HERE⬇️
     location: "United States"
-    followers: 17450
-    engagement: 547
-    commentsToLikes: 0.033446
-    id: ck5cf6p1xmdsu0i112ozo9deo
+    followers: 11224
+    engagement: 393
+    commentsToLikes: 0.040329
+    id: ck14jacm1jby30i194h487oqj
     verified: false
-    hashtags: "#brandy, #mmllaunch, #tourist, #magicmikelive"
-  - username: "mikaela_ambrosini"
+    hashtags: "#movedaily, #healthandwellness, #namastayhomeworkouts, #eatwell"
+  - username: "tolakinyo54"
     fullname: >-
-      ℳɪƙɑℰℓɑ
+      Tola Morakinyo
+    bio: >-
+      Fitness|Food|Naps🔄 @nobullproject @invictusboston @properfuel IF3|GRID|CF
     location: "United States"
-    followers: 39359
-    engagement: 231
-    commentsToLikes: 0.045209
-    id: ckapboigl0pdf0i78gumyuzjl
+    followers: 23155
+    engagement: 473
+    commentsToLikes: 0.021300
+    id: ck5zua9vz1zdy0i14eqz5kvab
     verified: false
-    hashtags: "#bikinis, #goldenhour, #puppies, #summervibes"
-  - username: "jamiejcurrie"
+    hashtags: "#invictusathlete, #nobull, #oly, #tbt"
+  - username: "patreck257"
     fullname: >-
-      JAMIE J
+      Patrick Reckner
+    bio: >-
+      Temple Alum BS Kinesiology CPT and Sports Performance Coach Apparel @tlaathletics Supplements @questnutrition
     location: "United States"
-    followers: 5392
-    engagement: 869
-    commentsToLikes: 0.049133
-    id: ck5px46zjq0jx0i11d4q69dn1
+    followers: 20864
+    engagement: 233
+    commentsToLikes: 0.059386
+    id: ckap85vc1myo90i78gapi431d
     verified: false
-    hashtags: "#newenglandmodel, #moodyportrait, #progresspic, #liftingheavy"
-  - username: "nicky.szn"
+    hashtags: "#npcbodybuilding, #sponsor, #tlaathletics, #sponsored"
+  - username: "niaraijezie"
     fullname: >-
-      NICKY SZN 👽| YOUTUBER 🛸
+      NiARA IJEZIE
+    bio: >-
+      Welcome to my world 😌💅🏾✨ Boss Beauty | Spiritual | Traveler | Real Estate Agent ~ Lifestyle page @bostonloftyliving Click the link to see more 👇🏾
     location: "United States"
-    followers: 2996
-    engagement: 1195
-    commentsToLikes: 0.175273
-    id: ckap1x91qwgpq0i78y64tqwn1
+    followers: 3514
+    engagement: 706
+    commentsToLikes: 0.161989
+    id: ck6tifle60mhs0j711ru3rnsr
     verified: false
-    hashtags: "#legacy, #222szn, #waaaaaaaaybeforequarantinerelax, #222"
-  - username: "lifewithlibby"
+    hashtags: "#blackbloggers, #selflove, #love, #thebloggerpoint"
+  - username: "jetkotee"
     fullname: >-
-      Libby Vilner | ליבי וילנר
+      JET 💎• 🌍
+    bio: >-
+      Boston | @FitnessByJet (fitness programs below ↓)
     location: "United States"
-    followers: 32031
-    engagement: 199
-    commentsToLikes: 0.080218
-    id: ck5cja6fmub490i11n076dcpj
+    followers: 27485
+    engagement: 1057
+    commentsToLikes: 0.035517
+    id: ckap5d823b5h80i78uc1w7axc
     verified: false
-    hashtags: "#catgrooming, #stayhomenyc, #covid19, #greenandgrowing"
-  - username: "dre_livefitarmy"
+    hashtags: "#explore, #jetfit, #abschallenge, #fitnesschallenge"
+  - username: "provisionsbypaige"
     fullname: >-
-      THE YEAR OF GREATNESS
+      PAIGE HEMMEN
+    bio: >-
+      22 📍stl, boulder, boston food | fitness | all the things that make me :)
     location: "United States"
-    followers: 8002
-    engagement: 584
-    commentsToLikes: 0.091793
-    id: ck6tsszx96oq10j71obj6so86
+    followers: 4349
+    engagement: 913
+    commentsToLikes: 0.139488
+    id: ckaorrruiogfs0i784ukczyv9
     verified: false
-    hashtags: "#mothersday, #taurus, #encoreboston, #chest"
-  - username: "ashley15c"
+    hashtags: "#provisionsplates, #spring, #sorrynotsorry"
+  - username: "irun26point2__"
     fullname: >-
-      Ashley Cunningham
+      Patrick Cutter
+    bio: >-
+      🏃🏻‍♂️| 🏋🏻‍♂️ Weight Lifting |🗽NY | 585 | 26.2 x 22⌚️2:34 | 13.1 x 18⌚️1:12 Go One More☝🏼 #teambpn Use code: Cutter Run Coach @mckirdytrained
     location: "United States"
-    followers: 23192
-    engagement: 413
-    commentsToLikes: 0.046899
-    id: ck5zo02w4phkj0i14ngq5281w
+    followers: 52956
+    engagement: 524
+    commentsToLikes: 0.044310
+    id: ck5zsuultz84b0i14mom50fdw
     verified: false
-    hashtags: "#familytime, #daughter, #mentalhealth, #hockey"
-  - username: "tjdoheny"
+    hashtags: "#irun, #cardio, #runner, #runningcommunity"
+  - username: "jessicagcookmusicc"
     fullname: >-
-      TJ Doheny
+      Jessica Glynn Cook
+    bio: >-
+      Will sing for burgers 🎙 🍔 🖤 ABA Therapist, grad student, educator, singer, 🌈 DM for business inquiries!
     location: "United States"
-    followers: 6448
-    engagement: 854
-    commentsToLikes: 0.035544
-    id: ck5py05wdtpav0i11v4pstwll
-    verified: true
-    hashtags: "#opportunity, #getpaid, #chicago, #teammtkglobal"
+    followers: 16736
+    engagement: 212
+    commentsToLikes: 0.090662
+    id: ck136amh55kgv0i19di5h6gsm
+    verified: false
+    hashtags: "#bestsingers, #perfectvocalz, #songwriters, #musicianlife"
 ---

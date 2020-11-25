@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In San Diego In 2020
 description: >-
-  Find top vegan Instagram influencers in San Diego in 2020. Most popular hashtags: #quarantine #earthday #vegan #sandiego.
+  Find top vegan Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #vegan #foodie #foodporn.
 platform: Instagram
+hits: 44
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 44 Instagram influencers like this in San Diego, United States for you to connect with.
 profiles:
   - username: "turnipvegan"
     fullname: >-
       Turnip Vegan
+    bio: >-
+      🎥 #Videographer | 🌱 | San Diego Founder of @chickpeasxturnips Co-Founder of @spoiledvegans cafe
     location: "United States"
     followers: 29967
     engagement: 304
     commentsToLikes: 0.052484
     id: ck6txp1plz1ml0j71cngqzhxn
     verified: false
-    hashtags: "#2020, #veganiseasy, #vegans, #yogalife"
-  - username: "missaliciam"
+    hashtags: "#delicious, #cookies, #vegancommunity, #veganism"
+  - username: "ashleysprankles"
     fullname: >-
-      ✺ ᗩᒪᎥᑕᎥᗩ ᗰ ✺
+      Ashley Sprankles
+    bio: >-
+      Portraits • Food • Landscape 📸 𝕍𝕖𝕘𝕒𝕟 𝕘𝕚𝕣𝕝 🐷 ☀️🌈 [she/her] Dog Mom T💓Z • Donut Connoisseur 🍩
     location: "United States"
-    followers: 18577
-    engagement: 402
-    commentsToLikes: 0.022544
-    id: ck6ttfi8lac350j714jw3sgc6
+    followers: 86203
+    engagement: 120
+    commentsToLikes: 0.050632
+    id: ck13d2c203ba70i19cv94n42v
     verified: false
-    hashtags: "#petstagram, #disneycastle, #dtla, #stayhome"
-  - username: "nintendough84"
-    fullname: >-
-      Larone
-    location: "United States"
-    followers: 32387
-    engagement: 489
-    commentsToLikes: 0.009709
-    id: ck0u271ngyzk90i19k326qaz7
-    verified: false
-    hashtags: "#gyro, #orangecounty, #cheatmeal, #forkyeah"
+    hashtags: "#sandiegovegan, #food, #ourplanetdaily, #portrait"
   - username: "stephenland89"
     fullname: >-
       Stephen Land
+    bio: >-
+      📒Author🙆🏻‍♂️Public Speaker🙋🏻‍♂️Activist🎙Singer🕺🏼Gay Nightlife Personality🇺🇸San Diego🍌Vegan🐒Volunteer @mostly.monkeys
     location: "United States"
-    followers: 64146
-    engagement: 98
-    commentsToLikes: 0.017807
+    followers: 62522
+    engagement: 54
+    commentsToLikes: 0.035080
     id: ckap8xgcbqb200i78l5cwqi7y
     verified: false
-    hashtags: "#daddy, #memorialday, #leather, #graffitiart"
-  - username: "barrettpall"
+    hashtags: "#thinkpink, #mom, #love, #lovemusic"
+  - username: "eatwithnorma"
     fullname: >-
-      LIFE COACH + ADVOCATE
+      Norma
+    bio: >-
+      OC/ LA and Beyond Camera ALWAYS eats before I do! Food Photographer📸 Content Creator 🎥 Social Media Management 👩‍💻 Influencer 🙋🏻‍♀️ ⬇ Visit my blog!
     location: "United States"
-    followers: 277616
-    engagement: 278
-    commentsToLikes: 0.041195
-    id: ck0txi8usj8rl0i19m38x9pfw
-    verified: true
-    hashtags: "#vision, #inspo, #election, #feelings"
-  - username: "eat_whatcha_like"
-    fullname: >-
-      Erwin
-    location: "United States"
-    followers: 7822
-    engagement: 557
-    commentsToLikes: 0.181775
-    id: ck6u9tgxxzk0v0j71tew39mwn
+    followers: 21647
+    engagement: 171
+    commentsToLikes: 0.105593
+    id: ck0ucb2s9gey30i196ighqhbc
     verified: false
-    hashtags: "#youstaythirstysd, #jennerousworld, #wafflewednesday, #discovernorthpark"
-  - username: "geenathelatina"
+    hashtags: "#ocfoodie, #dtla, #santaana, #stanton"
+  - username: "araalnaiem"
     fullname: >-
-      Geena The Latina Channel 933
+      Ara Alnaiem 🧿♡
+    bio: >-
+      San Diego #BenefitClubPink TikTok: @araalnaiem PR : aalnaiem1994@gmail.com
     location: "United States"
-    followers: 26286
-    engagement: 381
-    commentsToLikes: 0.055316
-    id: ck5bvh0n4jmoa0i11v7ppm1k9
+    followers: 22479
+    engagement: 378
+    commentsToLikes: 0.085241
+    id: ck15rdosa7ezo0i190muzg17k
     verified: false
-    hashtags: "#doctors, #24hourfitnessdj, #events, #ectwins"
-  - username: "tarahsweeney"
+    hashtags: "#halloween, #anastasiabeverlyhills, #precislymybrowpencil, #benefitcosmetics"
+  - username: "melissajane_fit"
     fullname: >-
-      tarah sweeney 🌊san diego
+      Melissa Jane | Fitness Coach
+    bio: >-
+      💪🏽 i help women look & feel their best, find balance, & live with confidence ✨ CEO: @alignmentathletics 🌊 san diego 🎥 YT: Melissa Jane ⬇️ shop!
     location: "United States"
-    followers: 43619
-    engagement: 238
-    commentsToLikes: 0.037727
-    id: ck0ty1m51l80u0i19vjbuzmvq
+    followers: 42435
+    engagement: 189
+    commentsToLikes: 0.080720
+    id: ck8t1j7xsvzcx0j783o7qke9n
     verified: false
-    hashtags: "#kellymoorebag, #tspvibes"
-  - username: "liz_luna664"
+    hashtags: "#iam1stphorm, #newtofitness, #workoutideas, #athleisure"
+  - username: "danielleskyeee"
     fullname: >-
-      Liz Luna
+      Danielle Skye
+    bio: >-
+      San Diego🦋 Books closed Danielle_tattoo@yahoo.com
     location: "United States"
-    followers: 5167
-    engagement: 1114
-    commentsToLikes: 0.033492
-    id: ckaozicypm0pl0i7812kr4e3k
+    followers: 80808
+    engagement: 419
+    commentsToLikes: 0.043102
+    id: ck1398rvqk33c0i19j7y7tw7t
     verified: false
-    hashtags: "#bodybuilding, #fitnessmodel, #lyrics, #quarantine"
-  - username: "hannah.guthman"
+    hashtags: "#tattooideas, #tattooartist, #customtattoo, #peony"
+  - username: "antonio_eats_la"
     fullname: >-
-      Hannah Guthman
+      Antonio Malik
+    bio: >-
+      📍Los Angeles📍San Diego Food | Fitness | Travel Collab/promotions? DM/ 📧: antonioeatsla@gmail.com As seen on @abc7la @abc7community @foodnetwork
     location: "United States"
-    followers: 29794
-    engagement: 687
-    commentsToLikes: 0.181175
-    id: ck15srdbpefva0i19kb9mjkl7
+    followers: 136150
+    engagement: 204
+    commentsToLikes: 0.066020
+    id: ck0u9zqpjb25v0i19j1ysui88
     verified: false
-    hashtags: "#avocado, #pesto, #beans, #tomatoes"
+    hashtags: "#instagood, #shrimp, #foodie, #tijuana"
+  - username: "mrsdeependa"
+    fullname: >-
+      Food Agenda w/ Mrs. Dee Penda
+    bio: >-
+      👉Content Creator~YouTuber👈 🙌900k on Tiktok🎶 23k on YouTube📺 📍San Diego,Ca☀️ DM for Collab😀 🇵🇭Self-taught Home cook🥘 💁‍♀️Easy Recipes🍳#doggymom🐶
+    location: "United States"
+    followers: 42393
+    engagement: 608
+    commentsToLikes: 0.023958
+    id: ck5hkpuljiunl0i11iei0hcmq
+    verified: false
+    hashtags: "#milso, #recipeoftheday, #navywife, #kusina"
+  - username: "alexafuelednaturally"
+    fullname: >-
+      Alexa Soto
+    bio: >-
+      Plant Recipes 🌱 Latina 🇲🇽 Rescue Dog Mama 🐾 Mental health advocate San Diego ☀️ Recipes & videos linked below ✨
+    location: "United States"
+    followers: 218467
+    engagement: 261
+    commentsToLikes: 0.035072
+    id: ck0ty1taul8xc0i19d944lh7p
+    verified: false
+    hashtags: "#vegetarian, #veganfoodporn, #comfortfood, #whatveganseat"
 ---

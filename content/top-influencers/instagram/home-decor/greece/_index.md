@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Greece In 2020
 description: >-
-  Find top home decor Instagram influencers in Greece in 2020. Most popular hashtags: #homedecor #homesweethome #flowers #home.
+  Find top home decor Instagram influencers in Greece in 2020. Most popular hashtags: #homedecor #greece #giveaway #fashion.
 platform: Instagram
+hits: 34
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 34 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "__mathild3__"
+  - username: "b.a.b.i.k.a"
     fullname: >-
-      M α т н ι ℓ ∂ ɛ   ➰
+      MICHAELA LEITNEROVÁ
+    bio: >-
+      📍PRAGUE 🇨🇿 29 y.o. 💙SIMONEK💙25.1.2019 🗺 Travel family 👪 Prevence stárnutí, antiage technologie @babikabeauty
     location: "Greece"
-    followers: 5179
-    engagement: 1904
-    commentsToLikes: 0.140406
-    id: ck13colwq1e620i19jd2lidmz
+    followers: 59271
+    engagement: 247
+    commentsToLikes: 0.013422
+    id: ck5cedz8yku920i11b9agq7tr
     verified: false
-    hashtags: "#newhome, #viedemaman, #home, #happyday"
-  - username: "nana_petraki"
+    hashtags: "#bonprixitsme, #bonprix, #zante, #zakynthos"
+  - username: "keelies.journey"
     fullname: >-
-      Nana Petraki
+      𝙺 𝚎 𝚎 𝚕 𝚒 𝚎
+    bio: >-
+      𝙷𝚘𝚖𝚎 | 𝚂𝚝𝚢𝚕𝚎 | 𝚃𝚛𝚊𝚟𝚎𝚕 | 𝙻𝚒𝚏𝚎
     location: "Greece"
-    followers: 24942
-    engagement: 976
-    commentsToLikes: 0.596754
-    id: ck6tsp8vw61pj0j717llaw30g
+    followers: 69075
+    engagement: 280
+    commentsToLikes: 0.251442
+    id: ck0vznwhha17j0i19f92h5yhz
     verified: false
-    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
-  - username: "elena_anagn"
+    hashtags: "#scandicinterior, #scandiliving, #myinspiringinterior, #autumndecor"
+  - username: "berenata"
     fullname: >-
-      ᴇʟᴇɴᴀ ᴀɴᴀɢɴᴏsᴛᴏᴘᴏᴜʟᴏᴜ®️
+      Natasha Berekou
+    bio: >-
+      👉🏽Beauty editor @tlifegr 🖤 👉🏽Skincare addict 💪🏽 👉🏽Take care of your body’s largest organ 🧖🏼‍♀️ 👉🏽 Team Batiste member 🌎 👉🏽 #Vanity episodes 👇🏽
     location: "Greece"
-    followers: 12339
-    engagement: 1188
-    commentsToLikes: 0.125945
-    id: ck5q8mf246wkz0i11q2xitwzq
+    followers: 25927
+    engagement: 464
+    commentsToLikes: 0.183352
+    id: ck0vzvnr6b4de0i197xfwbkzb
     verified: false
-    hashtags: "#positivevibes, #homestyle, #pink, #sporty"
-  - username: "zoevassileiou"
+    hashtags: "#skincare, #beautyroom, #mood, #home"
+  - username: "mylovelymoments_"
     fullname: >-
-      Zoi Vasileiou
+      by E L I S A V E T.
+    bio: >-
+      ~ 𝐡𝐞𝐫𝐞’𝐬 𝐦𝐲 𝐥𝐨𝐯𝐞𝐥𝐲 𝐦𝐨𝐦𝐞𝐧𝐭𝐬 •wife |mother of 2 |doglover •photography |content creator •GR ~ •Cosatto All in All Rotate:⬇️
     location: "Greece"
-    followers: 127819
-    engagement: 332
-    commentsToLikes: 1.084230
-    id: ck8tdo1is442u0j788sk3slkp
+    followers: 10900
+    engagement: 932
+    commentsToLikes: 0.220368
+    id: ck5q4057rn5ki0i1153w04mv1
     verified: false
-    hashtags: "#setup, #blush, #summervibes, #makeup"
-  - username: "oannapopa_"
+    hashtags: "#myhavendays, #mybeautifulsimplicity, #visualstoryteller, #holdthemoments"
+  - username: "archi_memes7"
     fullname: >-
-      Oanna Fashion Simbol
+      #archimemes7
+    bio: >-
+      
     location: "Greece"
-    followers: 45942
-    engagement: 322
-    commentsToLikes: 0.264299
-    id: ck55p8unwa2290i11tbfvp2ab
+    followers: 11009
+    engagement: 767
+    commentsToLikes: 0.008225
+    id: ck9wfjxz8p61s0j78ztyquypa
     verified: false
-    hashtags: "#sunnygreece, #likestyle, #paintart, #sansalsstyle"
-  - username: "argiris_aggelou_official"
+    hashtags: "#contractor, #thikedaar, #thikedaardotcom, #archi"
+  - username: "vaso_petrou"
     fullname: >-
-      Argiris Aggelou Official
+      Vaso Petrou
+    bio: >-
+      💪🏽ᴘᴇʀsᴏɴᴀʟ ᴛʀᴀɪɴᴇʀ 🔹ғɪᴛɴᴇss ɪɴsᴛʀᴜᴄᴛᴏʀ 🥊ғɪᴛʙᴏx ʟᴏᴠᴇʀ 🔸ᴛʀx ᴍᴀɴɪᴀᴄ @legacy.cy
     location: "Greece"
-    followers: 99079
-    engagement: 662
-    commentsToLikes: 0.008017
-    id: ck15sovvhe2ze0i193batt4h6
+    followers: 54447
+    engagement: 553
+    commentsToLikes: 0.265433
+    id: ck5ckpuj3xdjo0i11bzercw37
     verified: false
-    hashtags: "#icantwait, #soon, #happyface, #pastryporn"
-  - username: "nenatsim"
+    hashtags: "#outfit, #style, #lidlcyprus, #ootd"
+  - username: "ele_xtz"
     fullname: >-
-      ❤︎ ℕ𝕖𝕟𝕒 ❤︎
+      𝑬𝑳𝑬𝑭𝑻𝑯𝑬𝑹𝑰𝑨 🍍 𝑪𝑯𝑨𝑱𝑰𝑫𝑰𝑴𝑰𝑻𝑹𝑰𝑶𝑼
+    bio: >-
+      𝗚𝗿𝗲𝗲𝗰𝗲🌎 • 𝗹𝗲𝗳𝗶𝟭@𝘄𝗶𝗻𝗱𝗼𝘄𝘀𝗹𝗶𝘃𝗲.𝗰𝗼𝗺📩 • 𝗝𝘂𝗻𝗲, 𝟭𝟳🎂
     location: "Greece"
-    followers: 11350
-    engagement: 724
-    commentsToLikes: 0.273959
-    id: ck6tl04uh5qdv0j71w4hreb2m
+    followers: 7994
+    engagement: 830
+    commentsToLikes: 0.511467
+    id: ckf5nf0lkxzfx0j2313dqx41d
     verified: false
-    hashtags: "#breakfastinbed, #girlstoptravel, #opus4jewelry, #street"
-  - username: "elenamadness"
+    hashtags: "#nails, #giveaway, #fashion, #jewellery"
+  - username: "pigi_devetzi"
     fullname: >-
-      Έ Λ Ė N Α * Ξ Ύ Τ Σ A 🧿
+      Πηγή Δεβετζή Official
+    bio: >-
+      Olympic champion 🏆medalist in Triple Jump Athens 2004 Beijing 2008 P.B 15.32 🥇🥈🥉sports psychology,professional athlete,physiotherapist KOLITES 🤪🤪🤪
     location: "Greece"
-    followers: 17762
-    engagement: 407
-    commentsToLikes: 0.579616
-    id: ck9wotd856j1l0j78hxxnz54n
-    verified: false
-    hashtags: "#manikur, #home, #jeanjacket, #photography"
-  - username: "anastasefi"
+    followers: 43642
+    engagement: 331
+    commentsToLikes: 0.209217
+    id: ck5znqqvhozbb0i146jkg7fe7
+    verified: true
+    hashtags: "#greekbrand, #happy, #amazing, #fantastic"
+  - username: "viktwria_"
     fullname: >-
-      Efi Anastasopoulou
+      Viktoria K. Vasilopoulou
+    bio: >-
+      One light beer and one dark beer with raspberry syrup 🦋 Content creator ✨ PR/Collab Friendly 📍Athens, Greece / Wroclaw 🇵🇱
     location: "Greece"
-    followers: 47703
-    engagement: 235
-    commentsToLikes: 0.105947
-    id: ck8tccnmvz1om0j78eq70crrp
+    followers: 15737
+    engagement: 921
+    commentsToLikes: 0.325312
+    id: ck5znqkswoz3a0i14zs7yctjo
     verified: false
-    hashtags: "#srilankabeach, #mykonos, #memories, #bikinitop"
-  - username: "con_ev"
+    hashtags: "#cleanbeauty, #greekblogger, #fashionblog, #summeroutfit"
+  - username: "danae_panayiotou"
     fullname: >-
-      Constantina Evripidou
+      Danae
+    bio: >-
+      🇿🇼+🇨🇾 LLB Graduate 👩🏽‍🎓 Owner of @for_panda_dreams 🐼 YouTube Videos: ⬇️
     location: "Greece"
-    followers: 93418
-    engagement: 405
-    commentsToLikes: 0.114989
-    id: ck5ckq9smxeax0i11187lanxn
+    followers: 12925
+    engagement: 1649
+    commentsToLikes: 0.021555
+    id: ck0txbggfilvi0i19zs1x0wy2
     verified: false
-    hashtags: "#38weekspregnant, #modernfamily, #babycorner, #mondays"
+    hashtags: "#vacation, #instamood, #parklane, #naxos"
 ---

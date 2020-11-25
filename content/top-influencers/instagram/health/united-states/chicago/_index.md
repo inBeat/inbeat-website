@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Chicago In 2020
 description: >-
-  Find top health Instagram influencers in Chicago in 2020. Most popular hashtags: #health #chicago #fitness #blackgirlmagic.
+  Find top health Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #health #fashion.
 platform: Instagram
+hits: 149
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 149 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "sandiego.city"
+  - username: "serenityane"
     fullname: >-
-      Official San Diego Page
+      Serenity Rogers !
+    bio: >-
+      ⚡️💥⭐️ @wilhelminamodels chicago mental health advocate #breakthestigma diary of a wimpy kid stan
     location: "United States"
-    followers: 134159
-    engagement: 200
-    commentsToLikes: 0.016912
-    id: ck5pvukg1jpio0i11o1rgzzx5
+    followers: 14646
+    engagement: 1240
+    commentsToLikes: 0.039542
+    id: ck8wdhi5sduob0j78kxbf0z3n
     verified: false
-    hashtags: "#food, #coastline, #rutadelvino, #sdsu"
-  - username: "theintercept"
+    hashtags: "#makeinstagramcasualagain"
+  - username: "connorcarrick"
     fullname: >-
-      The Intercept
+      Connor Carrick
+    bio: >-
+      • New Jersey Devils #5 • Curious Competitor Podcast • Husband @lexiicarrick   • @hoagiethefrenchie • Mental Health Advocate • Native Chicagoan
     location: "United States"
-    followers: 134262
-    engagement: 72
-    commentsToLikes: 0.029118
-    id: ck0u6m09d2cn60i19rrowpn4q
+    followers: 49887
+    engagement: 293
+    commentsToLikes: 0.014639
+    id: ck14lbe9btt0n0i19tsl5cogk
     verified: true
-    hashtags: "#unemployment, #election, #surveillance, #wuhan"
-  - username: "love.carrington"
+    hashtags: "#njdevils, #ccpod, #mentalhealthmonday, #workingsmartisimplied"
+  - username: "heyclairewyckoff"
     fullname: >-
-      ᴄᴀʀʀɪɴɢᴛᴏɴ ғʀᴀɴᴋʟɪɴ-ɴᴀᴋᴡᴀᴀsᴀʜ💕
+      Claire Wyckoff
+    bio: >-
+      Comedy writer. Sometimes performer. Inventor of Dickrunning. Lets get weird Tiktok: @claire_wyckoff Twitter: @clairewyckoff
     location: "United States"
-    followers: 58104
-    engagement: 1252
-    commentsToLikes: 0.015101
-    id: ck5ho5ji1oz3o0i11y4x0fuhc
+    followers: 15564
+    engagement: 676
+    commentsToLikes: 0.088802
+    id: ck1360j9045m20i19y15hq3vi
     verified: false
-    hashtags: "#jordan1, #inmyjs, #baylor, #sicem"
-  - username: "bond_jonathan"
+    hashtags: "#nike, #workout, #covid19, #nikeplus"
+  - username: "fromeast2west_"
     fullname: >-
-      Jonathan Bond
+      Danielle & Rachael
+    bio: >-
+      CT > SF > Chicago Petite • Travel • Health • Sustainable Lifestyle • CPAs • Shop looks here! 👇🏻
     location: "United States"
-    followers: 3504
-    engagement: 1924
-    commentsToLikes: 0.040282
-    id: ckap9dl8us8al0i78iup9kg8j
+    followers: 6362
+    engagement: 590
+    commentsToLikes: 0.102844
+    id: ck6tmz4uv8t8v0j71b2h0r0k9
     verified: false
-    hashtags: "#exclusive, #miami, #la, #publishedstylist"
+    hashtags: "#petitestyle, #streetstyle, #aesthetic, #minimalism"
   - username: "diamondsdosage"
     fullname: >-
       The Dosage Brand 💎
+    bio: >-
+      📍Chicago, IL Mental Health Specialist •Writer • Personality Diamond’s Dosage Podcast available on SoundCloud, Apple Podcasts & Spotify!
     location: "United States"
-    followers: 5461
-    engagement: 594
-    commentsToLikes: 0.171264
+    followers: 5477
+    engagement: 718
+    commentsToLikes: 0.100789
     id: ck5pvt5zljig30i11i6a0jd5m
     verified: false
-    hashtags: ""
-  - username: "jessica.c156"
+    hashtags: "#thebadbitchebook, #badbitchreleasetomorrow"
+  - username: "saskiatopp"
     fullname: >-
-      Jessica Castañeda
+      Saskia Jordyn Topp
+    bio: >-
+      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
     location: "United States"
-    followers: 148151
-    engagement: 187
-    commentsToLikes: 0.052288
-    id: ck6tqmudrsbeo0j71n1budqz1
+    followers: 30833
+    engagement: 188
+    commentsToLikes: 0.058819
+    id: ck6u2s7s2tmls0j71eprx8zjp
     verified: false
-    hashtags: "#mothersontime, #sponsored, #premierprotein, #mom"
+    hashtags: "#stronger, #chicagohair, #chicago, #beautyaesthetics"
+  - username: "jizzymack"
+    fullname: >-
+      Ray  Sadeghi
+    bio: >-
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
+    location: "United States"
+    followers: 212389
+    engagement: 139
+    commentsToLikes: 0.015024
+    id: ck0vx1u47wpyl0i19oypik8rj
+    verified: false
+    hashtags: "#ufc, #fitness, #bible, #chicago"
   - username: "msmarjorieann"
     fullname: >-
-      Marjorie Ann
+      Marjorie l Style & Positivity
+    bio: >-
+      Fashion ✨ Style ✨ Positive Vibes 💫 🍋 Zest for life📍Chicago Always in need of a mani and more sleep Collab 💌 mssmarjorieann@gmail.com
     location: "United States"
-    followers: 11408
-    engagement: 725
-    commentsToLikes: 0.306340
+    followers: 14571
+    engagement: 746
+    commentsToLikes: 0.215007
     id: ck8tcdkksz4730j78v5sqvrvj
     verified: false
-    hashtags: "#snacking, #selftanner, #cleanbeauty, #casualstyle"
-  - username: "drkiarraking"
+    hashtags: "#ltkstyletip, #boutique, #friday, #fallfashion"
+  - username: "officialzoeenyc"
     fullname: >-
-      Dr. Kiarra King MD OB/Gyn
+      Zoe RoseGold 🇭🇹🇺🇸
+    bio: >-
+      Digital Curator @rnhmagazine Visual Podcast: DreamHustleWin/The Parle Podcast @iheartradio
     location: "United States"
-    followers: 34924
-    engagement: 183
-    commentsToLikes: 0.258911
-    id: ck0w37tfos0m90i19ukojo06c
+    followers: 6055
+    engagement: 1568
+    commentsToLikes: 0.037939
+    id: ck6trtg330zp10j71sakwh64w
     verified: false
-    hashtags: "#melaningram, #melaninbloggers, #homebaked, #beautyforashes"
-  - username: "fccincinnati"
+    hashtags: "#worldstarhiphop, #unsignedhiphop, #baddie, #queen"
+  - username: "chickpeainthecity"
     fullname: >-
-      FC Cincinnati
+      addie martanovic
+    bio: >-
+      looking for light in pretty much everything. health, wellness, movement. all good things. 📍chicago
     location: "United States"
-    followers: 98377
-    engagement: 196
-    commentsToLikes: 0.008691
-    id: ck13bjr8gvqv70i19uglg6ca5
-    verified: true
-    hashtags: "#cincinnati, #nationalnursesday, #allinchallenge, #maythe4thbewithyou"
-  - username: "jzpthomas"
-    fullname: >-
-      JP | Fashion & Fitness
-    location: "United States"
-    followers: 15654
-    engagement: 385
-    commentsToLikes: 0.178233
-    id: ck8t3z3o950dg0j78vy93iljh
+    followers: 52317
+    engagement: 119
+    commentsToLikes: 0.056398
+    id: ck0uen3x3ltlu0i19rs6zyp6k
     verified: false
-    hashtags: "#jpspinterest, #melaninrich, #strongmoms, #healthyliving"
+    hashtags: "#mindfulness, #chickpeainthecity, #partner, #wfmhomeec365"
 ---

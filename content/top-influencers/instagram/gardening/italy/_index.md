@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Italy In 2020
 description: >-
-  Find top gardening Instagram influencers in Italy in 2020. Most popular hashtags: #gardening #passion #iorestoacasa #freedom.
+  Find top gardening Instagram influencers in Italy in 2020. Most popular hashtags: #gardening #giardino #garden #flowers.
 platform: Instagram
+hits: 55
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 55 Instagram influencers like this in Italy for you to contact.
 profiles:
   - username: "ville_e_casali"
     fullname: >-
       Ville&Casali
+    bio: >-
+      Ogni mese, sulle nostre pagine, un ampio ventaglio di idee di architettura, di interior design, gardening e una vetrina immobiliare di prestigio.
     location: "Italy"
     followers: 20202
     engagement: 318
     commentsToLikes: 0.011045
     id: ck6u77ex7jwmp0j71vixklf5q
     verified: false
-    hashtags: "#doccia, #luxuryvillas, #naturelovers, #instagarden"
+    hashtags: "#ambiente, #houseofinstagram, #arredamento, #progettistainterni"
+  - username: "conlemaninpasta"
+    fullname: >-
+      Manuela Conti
+    bio: >-
+      Food writer | Home grower | Mom Cookbook author ▪️ Con Le Mani In Pasta 👩‍🍳 @agriturismolacosta ✉ info@conlemaninpasta.com ★ I T A L Y ★
+    location: "Italy"
+    followers: 21560
+    engagement: 318
+    commentsToLikes: 0.059422
+    id: ck6tjh8kc2pnt0j711n71lzxu
+    verified: false
+    hashtags: "#green, #homecooking, #organic, #breadbosses"
+  - username: "francescarchibugi"
+    fullname: >-
+      Francesca Archibugi
+    bio: >-
+      Sto marcendo con un certo stile
+    location: "Italy"
+    followers: 5954
+    engagement: 768
+    commentsToLikes: 0.026122
+    id: ck5c0te2ltt6n0i11xqicduz7
+    verified: false
+    hashtags: "#quarantine, #pofaulle, #gardening, #tuscanygram"
+  - username: "toto_bergamo_rossi"
+    fullname: >-
+      Toto Bergamo Rossi
+    bio: >-
+      https://www.homofaberguide.com/en/ambassador/ambassadors-toto-bergamo-rossi
+    location: "Italy"
+    followers: 7163
+    engagement: 706
+    commentsToLikes: 0.058109
+    id: ck5bzkt8yrcft0i11jm2bltsw
+    verified: false
+    hashtags: "#share, #nobodywillstopme, #venice, #valorizzazione"
+  - username: "rosannacastrinigardens"
+    fullname: >-
+      Rosanna Castrini-Garden Design
+    bio: >-
+      🌳🌹Landscape&garden designer pro 📷 One of Italy's top garden photographers 💚Keen plantswoman&gardener @igpoty 7overall winner 🍃IGPOTY 9-11-12 finalist
+    location: "Italy"
+    followers: 4520
+    engagement: 1331
+    commentsToLikes: 0.066297
+    id: ck8t7brg4g8qt0j78f0ghbkzu
+    verified: false
+    hashtags: "#flowerstalking, #flowerphotography, #bloomingnow, #springbulbs"
+  - username: "raw_milano"
+    fullname: >-
+      
+    bio: >-
+      RAW&co Cabinet de curiosités ~ c.so Magenta 10 ~ via Palermo 1 MILANO #RawMilano
+    location: "Italy"
+    followers: 39782
+    engagement: 254
+    commentsToLikes: 0.021824
+    id: ck5zszd84zgnt0i14g2py5ozv
+    verified: false
+    hashtags: "#gardening, #rawandco, #patina, #vintagefurniture"
+  - username: "gardenia_magazine"
+    fullname: >-
+      Gardenia
+    bio: >-
+      Spunti e racconti dalla redazione di Gardenia: cultura botanica, novità dai vivai, mostre. Per condividere la passione del giardinaggio. 🌱🇮🇹🌺🌷
+    location: "Italy"
+    followers: 12538
+    engagement: 435
+    commentsToLikes: 0.010329
+    id: ck6u7tia0nkw00j714q3e7rnz
+    verified: false
+    hashtags: "#fioritura, #giardinaggiochepassione, #parcomilano, #uptownmilano"
+  - username: "husqvarna_italy"
+    fullname: >-
+      Husqvarna Italy
+    bio: >-
+      👋 Benvenuto! Non perderti neanche un aggiornamento 📸 Canale Ufficiale Instagram Husqvarna Bosco e Giardino 🇮🇹
+    location: "Italy"
+    followers: 20869
+    engagement: 158
+    commentsToLikes: 0.002141
+    id: ck5zovfejrf7b0i14157fiu37
+    verified: false
+    hashtags: "#husqvarnaprofessional, #treework, #trees, #arboricoltoreprofessionista"
   - username: "liciafertz"
     fullname: >-
       Buongiorno Nonna
+    bio: >-
+      🦖Accidentally Aged Model & Influencer 🍝 #Aginggracefully since 1930 ⏳ NO TIME TO BE SAD 💕 My incredible life with grandson @elousai 👇Leggi il libro
     location: "Italy"
-    followers: 89828
-    engagement: 842
-    commentsToLikes: 0.057907
+    followers: 105765
+    engagement: 662
+    commentsToLikes: 0.062517
     id: ck0udckjriqkd0i194s5mm8ad
     verified: false
-    hashtags: "#stronggirls, #nurse, #omosessuale, #ageless"
-  - username: "francescabelussitv"
+    hashtags: "#happylife, #vintagelife, #advancedstyle, #over50andfabulous"
+  - username: "clara_bona"
     fullname: >-
-      francesca belussi
+      Clara Bona
+    bio: >-
+      Architect and Journalist
     location: "Italy"
-    followers: 73444
-    engagement: 272
-    commentsToLikes: 0.082150
-    id: ck6ualfql47qi0j71mtlbt5na
+    followers: 28205
+    engagement: 581
+    commentsToLikes: 0.074042
+    id: ck5hi0086axty0i11mh8o9r44
     verified: false
-    hashtags: "#domenica, #mother, #freedom, #cybexchallenge"
-  - username: "giselladonadoni"
-    fullname: >-
-      Gisella Donadoni
-    location: "Italy"
-    followers: 145835
-    engagement: 176
-    commentsToLikes: 0.119087
-    id: ck15rpvgr93h30i19ctw6rlkm
-    verified: false
-    hashtags: "#albumfoto, #feetselfie, #tutorialhair, #modafashion"
-  - username: "fabiodevivo"
-    fullname: >-
-      Fabio De Vivo
-    location: "Italy"
-    followers: 140221
-    engagement: 110
-    commentsToLikes: 0.056609
-    id: ck0txn0z5jp7y0i19g5m72os1
-    verified: true
-    hashtags: "#bicycle, #primopiano, #sandiego, #tommycaldwell"
-  - username: "kiramarcocristoferi"
-    fullname: >-
-      Kira Marco Cristoferi
-    location: "Italy"
-    followers: 6700
-    engagement: 1030
-    commentsToLikes: 0.019147
-    id: ck5zy1yzr92ww0i14as1f76y0
-    verified: false
-    hashtags: "#mind, #grazie, #puntaserauta, #stupid"
-  - username: "giuseppe_pintoo"
-    fullname: >-
-      Giuseppe Pinto
-    location: "Italy"
-    followers: 7316
-    engagement: 607
-    commentsToLikes: 0.120977
-    id: ck8tav2kmt6o30j78pu942dvs
-    verified: false
-    hashtags: "#shirtstyle, #argentina, #modelitalia, #iorestoacasa"
-  - username: "s.t.e_f.a_n.o"
-    fullname: >-
-      Stefano Mazzoli
-    location: "Italy"
-    followers: 21664
-    engagement: 719
-    commentsToLikes: 0.019675
-    id: ck5bwkitclvmv0i11fj52t0lo
-    verified: false
-    hashtags: "#scarletmacaw, #arenadiverona, #shootingday, #alanpasotti"
-  - username: "carolyneroehm"
-    fullname: >-
-      Carolyne Roehm
-    location: "Italy"
-    followers: 43661
-    engagement: 636
-    commentsToLikes: 0.078587
-    id: ck5qd0lept8wc0i116sogqfo6
-    verified: true
-    hashtags: "#orchard, #goodluckcharm, #butterfly, #rome"
-  - username: "_ludovicavaccari_"
-    fullname: >-
-      𝖫𝗎𝖽𝗈𝗏𝗂𝖼𝖺🐒 𝖳𝗋𝖺𝗏𝖾𝗅 𝗍𝗁𝖾 𝖶𝗈𝗋𝗅𝖽✈
-    location: "Italy"
-    followers: 5340
-    engagement: 1343
-    commentsToLikes: 0.106612
-    id: ck6toswklfxe90j71tuczb2y1
-    verified: false
-    hashtags: "#mantovaeventi, #girltravelling, #earth, #rhodesoldtown"
+    hashtags: "#mystyle, #home, #decor, #interiordesign"
 ---

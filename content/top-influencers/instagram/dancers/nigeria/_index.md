@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top dancers Instagram influencers in Nigeria in 2020. Most popular hashtags: #melaninpoppin #quarantine #corona #mtnyellowstar.
+  Find top dancers Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #endsars #explorepage.
 platform: Instagram
+hits: 34
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 34 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
-  - username: "_tiwapearl"
+  - username: "kleenton_"
     fullname: >-
-      TIWAPEARL
+      18o9
+    bio: >-
+      # WhiteAngel # |Model|Brand Influencer|Dancer Dm for business and collaborations Virgo🥵. #September18 Ambassador for @apparelsbyddavid 💯❤️🥊🍇♥🥈🚺
     location: "Nigeria"
-    followers: 42807
-    engagement: 424
-    commentsToLikes: 0.048302
-    id: ck5hoaoy0p8ji0i114iws99rv
+    followers: 12567
+    engagement: 763
+    commentsToLikes: 0.101675
+    id: ck5hobohmpaaf0i11qtheqdik
     verified: false
-    hashtags: "#picturekodakliveson, #bumper, #blacklove, #nwe"
-  - username: "omolola_unbothered"
-    fullname: >-
-      KING Olabiyi Omolola !!!
-    location: "Nigeria"
-    followers: 15874
-    engagement: 268
-    commentsToLikes: 0.118014
-    id: ck6tx9mx1wm130j71zuh6vz9g
-    verified: false
-    hashtags: "#chef, #happychild, #musicartist, #roddyricch"
+    hashtags: "#sars, #sarsmustend, #reformthesystem, #endsarsbrutalityinnigeria"
   - username: "o_okaforblessing"
     fullname: >-
       Queen Okafor Blessing
+    bio: >-
+      5’9.5 MA- @pagesmodels 🇳🇬 Miss Intellects Universe 2018👑 Miss FOBSSA UNN👑 Dancer💃
     location: "Nigeria"
-    followers: 4414
-    engagement: 1143
-    commentsToLikes: 0.084997
+    followers: 4606
+    engagement: 1394
+    commentsToLikes: 0.139748
     id: ck5hlgdsdk6d20i11wc8dsghk
     verified: false
-    hashtags: "#fashionmodel, #explorepage, #queen, #beauty"
-  - username: "simeonskye"
+    hashtags: "#staysafe, #tallmodel, #model, #runwaymodel"
+  - username: "sonizyyy"
     fullname: >-
-      SIMI SKYE
+      Sonia❤️
+    bio: >-
+      VIBE QUEEN👑 Sneakers lover model dancer Dm @sonizyyyvibes 29/07/2018💔
     location: "Nigeria"
-    followers: 145114
-    engagement: 532
-    commentsToLikes: 0.037200
-    id: ck5c57zol2xer0i114dn7pld3
+    followers: 34434
+    engagement: 736
+    commentsToLikes: 0.039116
+    id: ck8t0084aqedk0j78ivh4ah3j
     verified: false
-    hashtags: "#simeonskye, #trend, #bubbydanceisolation, #tiktok"
-  - username: "celestialsteppers"
+    hashtags: "#nizzybraids, #basedonwhat, #explore, #explorepage"
+  - username: "shivolski"
     fullname: >-
-      🌈Celestial Steppers 🤸‍♀️💃
+      Noluthando
+    bio: >-
+      HALLS OMFCC| 2X NMU 👩‍🎓| AN ENTIRE MOOD 💃💃 FOR BOOKINGS: sikhakhane8@gmail.com DANCER | CHOREOGRAPHER | DM FOR PROMO video out now!!
     location: "Nigeria"
-    followers: 19103
-    engagement: 423
-    commentsToLikes: 0.065047
-    id: ck8tbzbukxroy0j783j63xruq
+    followers: 6486
+    engagement: 1376
+    commentsToLikes: 0.035090
+    id: ck5cgd18folcp0i11ueey4u4z
     verified: false
-    hashtags: "#whyenvy, #mafamafa, #happypalmsunday, #celestories"
-  - username: "nawtywizzy"
-    fullname: >-
-      Wisdom Paul
-    location: "Nigeria"
-    followers: 5405
-    engagement: 745
-    commentsToLikes: 0.224439
-    id: ck5hoscfrq55l0i11n4nkiyt8
-    verified: false
-    hashtags: "#ongod, #fineblaqboy, #flipchallenge, #theboyiscute"
+    hashtags: "#bantuknots, #dripdrip, #naturalhaircommunity, #dancersofinstagram"
   - username: "nenenwanyo"
     fullname: >-
       Nene Nwanyo
+    bio: >-
+      THESPIAN Voiceover Artist Voice Actor Commercial Model Kinda a dancer Funny girl Click link in bio
     location: "Nigeria"
-    followers: 2370
-    engagement: 1339
-    commentsToLikes: 0.148563
+    followers: 2444
+    engagement: 1340
+    commentsToLikes: 0.130849
     id: ckap88c8hn9sj0i78sb04g5ok
     verified: false
-    hashtags: "#melaninqueen, #firstimemom, #theoriginal, #charlesuwagbaimonologuechallenge"
-  - username: "itsthatezi"
-    fullname: >-
-      Ezinne Chukwu
-    location: "Nigeria"
-    followers: 10922
-    engagement: 1291
-    commentsToLikes: 0.068955
-    id: ck0w27rjjn0e60i19rl0waq62
-    verified: false
-    hashtags: "#beautymode, #dancing, #music, #africancomedy"
-  - username: "seunpizzle_"
-    fullname: >-
-      OLUWASEUN
-    location: "Nigeria"
-    followers: 357642
-    engagement: 260
-    commentsToLikes: 0.024511
-    id: ck5c9ri31bz790i11lkfywjks
-    verified: false
-    hashtags: "#kelegbe, #arena, #odumeje, #moneytalks"
+    hashtags: "#repost, #stageactor, #figurek8, #tvactor"
   - username: "queenadamma__"
     fullname: >-
       ADA EBUTA AYUK 👑👑
+    bio: >-
+      Dancer | Choreographer | Promoter💫 God First✨ 📩 Adanaomia@gmail.com LU’18🇺🇸🇳🇬 ••👻 nancee90••
     location: "Nigeria"
-    followers: 47692
-    engagement: 943
-    commentsToLikes: 0.024627
+    followers: 52346
+    engagement: 620
+    commentsToLikes: 0.029651
     id: ck0w2ht96ofnx0i190tu9ff4l
     verified: false
-    hashtags: "#nigeriamusic, #ownit, #throwback, #kompa"
+    hashtags: "#afrobeats, #afrodance, #nweworldwide, #chopdaily"
+  - username: "celestialsteppers"
+    fullname: >-
+      🌈Celestial Steppers 🤸‍♀️💃
+    bio: >-
+      Celestial Church of Christ Dancers 💃🕺 #Celestialsteppers For Booking/ Sponsorship/ Videoshoots/ Adverts/ Enquiries 💰💵 📞💬Call/WhatsApp +2348089242021
+    location: "Nigeria"
+    followers: 22795
+    engagement: 344
+    commentsToLikes: 0.127128
+    id: ck8tbzbukxroy0j783j63xruq
+    verified: false
+    hashtags: "#truelovechallenge, #kojodancechallenge, #bbnlockdown2020, #whattypeofdance"
+  - username: "thelearobinson"
+    fullname: >-
+      LeA Robinson
+    bio: >-
+      🌻 PRIVATE DANCER 🌻 ON ALL PLATFORMS MGMT: @britt.nay_ SHOP @peopleblockers @thelsrcollection . . 🎤 Singer/Songwriter/Engineer 🌱 Fly Ass #Vegan
+    location: "Nigeria"
+    followers: 97695
+    engagement: 103
+    commentsToLikes: 0.067553
+    id: ck5q9qhj2cgr30i119ijgikgs
+    verified: true
+    hashtags: "#happymothersday, #learobinson, #dancer, #geminiseason"
+  - username: "seunpizzle_"
+    fullname: >-
+      OLUWASEUN🌍
+    bio: >-
+      Dancer/Influencer @pizzle_luxury 👟 For Bookings ☎️ 0906 924 8434 @philz_emp
+    location: "Nigeria"
+    followers: 449331
+    engagement: 236
+    commentsToLikes: 0.017094
+    id: ck5c9ri31bz790i11lkfywjks
+    verified: false
+    hashtags: "#marliansprecident, #odumeje, #zttw, #endsars"
+  - username: "itsthatezi"
+    fullname: >-
+      Ezinne Chukwu
+    bio: >-
+      Jesus❤️ Natural Hair 💁🏾 Dancer/singer🙈 Co-founder of @nkitidesigns Use link below to get 5% off your first nkiti purchase!
+    location: "Nigeria"
+    followers: 14202
+    engagement: 571
+    commentsToLikes: 0.082673
+    id: ck0w27rjjn0e60i19rl0waq62
+    verified: false
+    hashtags: "#melaninqueen, #healthyhairjourney, #kinkychicks, #4c"
 ---

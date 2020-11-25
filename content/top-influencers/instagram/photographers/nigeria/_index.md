@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top photographers Instagram influencers in Nigeria in 2020. Most popular hashtags: #style #staysafe #explore #nude.
+  Find top photographers Instagram influencers in Nigeria in 2020. Most popular hashtags: #portrait #lagosphotographer #abujaphotographer #lagos.
 platform: Instagram
+hits: 65
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 65 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
+  - username: "soyomboemanuel"
+    fullname: >-
+      EMMY
+    bio: >-
+      Photographer
+    location: "Nigeria"
+    followers: 31091
+    engagement: 267
+    commentsToLikes: 0.045189
+    id: ckf5l27z7o43i0j236hmykyhl
+    verified: false
+    hashtags: "#endsarsnow, #stoppolicebrutality, #carpediem, #legend"
   - username: "colormanola"
     fullname: >-
-      𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣
+      𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣 🇨🇦
+    bio: >-
+      𝕲𝖊𝖒𝖎𝖓𝖎 🐐| Photographer: @ola_specter orange🧡 | you should check my highlights🧚🏽‍♂️ Paris❔
     location: "Nigeria"
-    followers: 6338
-    engagement: 1421
-    commentsToLikes: 0.094346
+    followers: 6067
+    engagement: 1612
+    commentsToLikes: 0.102817
     id: ck6u80kxqoqha0j714ny48adf
     verified: false
-    hashtags: "#dubai, #deleted, #explore, #roomdecor"
-  - username: "emmanuel_king__"
+    hashtags: "#stayhealthy, #repost, #explore, #stayhome"
+  - username: "e.mmanuelking"
     fullname: >-
       Emmanuel-king Itegboje
+    bio: >-
+      📽director /📸photographer YOUTUBE EMAILS ARE FASTER THAN DM'S #nigerianphotographer #nigerianfilmmaker #nigeriancinematographer #musicvideodirector
     location: "Nigeria"
-    followers: 22308
-    engagement: 1147
-    commentsToLikes: 0.040958
+    followers: 22198
+    engagement: 1102
+    commentsToLikes: 0.041081
     id: ck15us3pqobfb0i19o05f8v6z
     verified: false
-    hashtags: "#filmmakersworld, #slog2, #setlife, #filmmakinglife"
-  - username: "khaleegraphy"
+    hashtags: "#nigerianphotographer, #captured, #abujaphotographer, #canon5d"
+  - username: "fortunateumunname"
     fullname: >-
-      DaNLaDi
+      FORTUNATE
+    bio: >-
+      Happiness is free | expensive Photographer @fortune.shotz @davido
     location: "Nigeria"
-    followers: 7921
-    engagement: 777
-    commentsToLikes: 0.082998
-    id: ck8szwbstpyde0j78f92o27na
+    followers: 57349
+    engagement: 745
+    commentsToLikes: 0.013937
+    id: ck0w0b7mqdbo20i19404jbfvb
     verified: false
-    hashtags: "#muslimwedding, #colour, #eidmubarak, #arewailorinpple"
-  - username: "stephen.tayo"
+    hashtags: "#socrazy, #blessed, #thebaddest, #endsars"
+  - username: "tosin.akinyemiju"
     fullname: >-
-      Stephen Tayo
+      Tosin Akinyemiju
+    bio: >-
+      Fashion Photographer. I’m inspired by color, light and story. All rights reserved. Email: tosin.akinyemiju@my.com
     location: "Nigeria"
-    followers: 29000
-    engagement: 1014
-    commentsToLikes: 0.038578
-    id: ck55jk2nnx6w40i118clb7kn1
-    verified: true
-    hashtags: "#withfarfetch, #supportboutiques, #selfportrait, #thriving"
+    followers: 5333
+    engagement: 545
+    commentsToLikes: 0.084048
+    id: ck5q3e7fokdhx0i11x05jqtjj
+    verified: false
+    hashtags: ""
+  - username: "andikanedwin"
+    fullname: >-
+      andikan
+    bio: >-
+      📨 andikanstudios@yahoo.com photographer + colorist in training*
+    location: "Nigeria"
+    followers: 6907
+    engagement: 830
+    commentsToLikes: 0.065398
+    id: ck5hha2ub76g50i11oqki9mn3
+    verified: false
+    hashtags: "#lagos, #portrait, #nigeria, #andikan"
   - username: "yomi.visuals"
     fullname: >-
       FINE BOY PHOTOGRAPHER😎🇳🇬
+    bio: >-
+      Celebrity Photographer🤤 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
     location: "Nigeria"
-    followers: 10022
-    engagement: 925
-    commentsToLikes: 0.125689
+    followers: 11269
+    engagement: 599
+    commentsToLikes: 0.031051
     id: ck8t6bjezczgq0j78wjy57fs5
     verified: false
-    hashtags: "#adire, #hijabmodel, #muslim, #gain"
-  - username: "ifedayo.x"
+    hashtags: "#vogueeko, #nigerian, #celebrityphotographer, #birthday"
+  - username: "arshavinjohn"
     fullname: >-
-      Lagos Photographer 📸
+      photographer in abuja
+    bio: >-
+      Wedding/ portrait photographer Wedding page @arshavinjohn_weddings Personal handle @arshavin__7 08085521009
     location: "Nigeria"
-    followers: 9061
-    engagement: 856
-    commentsToLikes: 0.035748
-    id: ck13456upurc60i199oezjdbt
+    followers: 32748
+    engagement: 390
+    commentsToLikes: 0.012580
+    id: ck5hg5y5o139l0i11g8nr9xkj
     verified: false
-    hashtags: "#style, #lagosmua, #mensfashion, #harvardlaw"
-  - username: "podimagery"
+    hashtags: "#flawlessskin, #bellanaijaweddings, #arshavinjohn, #fashionfreak"
+  - username: "khaleegraphy"
     fullname: >-
-      𝐎𝐍𝐋𝐘 𝐎𝐍𝐄 𝐏𝐎𝐃
+      DaNLaDi
+    bio: >-
+      Portrait + Wedding Photographer We burn incense, drink tea and create beautiful portraits of people! @khaleegraphyweddings
     location: "Nigeria"
-    followers: 10936
-    engagement: 1095
-    commentsToLikes: 0.066880
-    id: ck5zzjrmmbv120i14121y7czs
+    followers: 8095
+    engagement: 437
+    commentsToLikes: 0.048369
+    id: ck8szwbstpyde0j78f92o27na
     verified: false
-    hashtags: "#color, #online, #photo, #skintoner"
-  - username: "nnamdiiobi"
+    hashtags: "#nigerianphotographer, #portraitmood, #arewa, #colour"
+  - username: "stephen.tayo"
     fullname: >-
-      Nnamdi Obi 🇳🇬
+      Stephen Tayo
+    bio: >-
+      Photographer Lagos, Nigeria Email | Tayoajibare@gmail.com
     location: "Nigeria"
-    followers: 16781
-    engagement: 340
-    commentsToLikes: 0.059663
-    id: ck6u5seaobgc50j71svwplrnx
-    verified: false
-    hashtags: "#explore, #explorepage, #valentine2020, #bts"
-  - username: "visualsbyuche"
-    fullname: >-
-      Uche Odoh
-    location: "Nigeria"
-    followers: 32364
-    engagement: 337
-    commentsToLikes: 0.070063
-    id: ck5ho9kfxp6gl0i1101dsywc0
+    followers: 36535
+    engagement: 750
+    commentsToLikes: 0.047927
+    id: ck55jk2nnx6w40i118clb7kn1
     verified: true
-    hashtags: "#uchebaby2019, #lagosisland, #enjoylife, #lagos"
-  - username: "daviduzochukwu"
-    fullname: >-
-      David Uzochukwu
-    location: "Nigeria"
-    followers: 93159
-    engagement: 563
-    commentsToLikes: 0.011009
-    id: ck55k60aoyjth0i11wl2lj9r8
-    verified: true
-    hashtags: ""
+    hashtags: "#stephentayo, #printisgood, #endsars, #fujifilm"
 ---

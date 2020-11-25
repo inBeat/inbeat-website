@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Croatia In 2020
 description: >-
-  Find top TikTok influencers in Croatia in 2020. Most popular hashtags: #duet #hrvatska #balkan #foodwehate.
+  Find top TikTok influencers in Croatia in 2020. Most popular hashtags: #fyp #foryoupage #foryou.
 platform: TikTok
+hits: 149
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 149 TikTok influencers like this in Croatia for you to connect with.
 profiles:
-  - username: "lorenaaxc"
+  - username: "familymalfoy"
     fullname: >-
-      🦋Lorena C🦋
+      𝘿𝙧𝙖𝙘𝙤• { 19.9k! }
+    bio: >-
+      𝚝𝚘𝚖/𝚍𝚛𝚊𝚌𝚘꒱✨ • 𝙝𝙤𝙜𝙬𝙖𝙧𝙩𝙨 𝙞𝙨 𝙢𝙮 𝙝𝙤𝙢𝙚꒱🏰 • sytherin꒱🐍
     location: "Croatia"
-    followers: 139498
-    engagement: 2134
-    commentsToLikes: 0.052189
-    id: ck83z5u72xz7v0j789cdj5v73
+    followers: 19900
+    engagement: 3710
+    commentsToLikes: 0.154552
+    id: ckcioymk2w1qi0j23tylez2zd
     verified: false
-    hashtags: "#bestmom, #girlproblems, #eyeschallenge, #summer2020"
-  - username: "_a.n.a.h.e.r.e_"
+    hashtags: "#foryou, #fy, #draco, #foodwehate"
+  - username: "notanna._"
     fullname: >-
-      4.k pls?❤💫
+      4.k__________🚗_3.k
+    bio: >-
+      ✨nez sta da mi bude bio✨ e daa snep: not.anna11
     location: "Croatia"
-    followers: 2428
-    engagement: 3227
-    commentsToLikes: 0.205360
+    followers: 3329
+    engagement: 2774
+    commentsToLikes: 0.286143
     id: ckae3o1j1yll10i78mjgj75x1
     verified: false
     hashtags: ""
+  - username: "its.becky1"
+    fullname: >-
+      FOLLOWING TOO FAST
+    bio: >-
+      IM BACK! HIII♡ ♡f4f♡ Goal:10.7k followers Mia here🖤
+    location: "Croatia"
+    followers: 10600
+    engagement: 2588
+    commentsToLikes: 0.071849
+    id: ckb979o1fpswx0j23rdbz9qbz
+    verified: false
+    hashtags: "#10kfollowers, #fyp, #9k, #blacklivesmatter"
+  - username: "mikomikic5"
+    fullname: >-
+      Pogodikosam
+    bio: >-
+      Na 10.000 pratioca pokazuje lice
+    location: "Croatia"
+    followers: 8556
+    engagement: 1881
+    commentsToLikes: 0.103161
+    id: ckbeu4esld9bt0j23ztcrfhh5
+    verified: false
+    hashtags: "#fyp, #balkantiktok, #notfyp, #duet"
   - username: "evozmaj"
     fullname: >-
-      💞🍭27.k🍭💞
+      💕🍭
+    bio: >-
+      💕Ellu💅🏼 🥵Bedzavin na aparatima🥵 Its the✨gaser✨ for me🧚🏻‍♀️ 💗•24.7k•🍭
     location: "Croatia"
-    followers: 26961
-    engagement: 3142
-    commentsToLikes: 0.142105
+    followers: 24700
+    engagement: 1828
+    commentsToLikes: 0.119119
     id: ckae6ic6hcaz50i78hspzhnym
     verified: false
-    hashtags: "#fyp, #zmaji"
-  - username: "ivaanaaax"
+    hashtags: "#fyp, #zmaji, #foodwehate"
+  - username: "heloouu_u12"
     fullname: >-
-      🖤🖤love you all🖤🖤
+      hi
+    bio: >-
+      
     location: "Croatia"
-    followers: 2025
-    engagement: 2473
-    commentsToLikes: 0.139486
-    id: ckacrg0xv5d7b0i780w3lod9n
-    verified: false
-    hashtags: "#foryou, #foryoupag"
-  - username: "paulaxnoel"
-    fullname: >-
-      flw for flw💕💕😊
-    location: "Croatia"
-    followers: 3121
-    engagement: 1846
-    commentsToLikes: 0.084088
+    followers: 3119
+    engagement: 1824
+    commentsToLikes: 0.088242
     id: ck9m52ua7ksoq0j781scvtryd
     verified: false
-    hashtags: "#blooper, #xyzbca, #duet, #foodwehate"
+    hashtags: "#blooper, #haikyuu, #anime, #webm"
+  - username: "emmakrusec"
+    fullname: >-
+      emma🖇
+    bio: >-
+      sc: emmakrusec ✨🦋
+    location: "Croatia"
+    followers: 19300
+    engagement: 1673
+    commentsToLikes: 0.068068
+    id: ckcdi5pje84gf0j23etjce8ho
+    verified: false
+    hashtags: "#foryou, #foryoupage, #fyp, #greenscreen"
   - username: "lamon.leonardo"
     fullname: >-
       Leonardo Lamon
+    bio: >-
+      reši
     location: "Croatia"
-    followers: 167202
-    engagement: 2026
-    commentsToLikes: 0.062878
+    followers: 342300
+    engagement: 1711
+    commentsToLikes: 0.041426
     id: ck81q03wzevj60j78ol5h95m5
     verified: false
     hashtags: ""
-  - username: "olyasookie"
+  - username: "ivaanaaax"
     fullname: >-
-      Olya Sookie
+      🐝ivana🐝
+    bio: >-
+      •hiii•🛹 •12•🐍 •Croatia•🇭🇷 •ly all•🧡
     location: "Croatia"
-    followers: 6335
-    engagement: 1619
-    commentsToLikes: 0.092248
-    id: cka0murbkwzva0i78mp093chm
+    followers: 1912
+    engagement: 2077
+    commentsToLikes: 0.043424
+    id: ckacrg0xv5d7b0i780w3lod9n
     verified: false
-    hashtags: "#happy, #swimsuit, #dancechallenge, #sailormoon"
-  - username: "emaluketin"
-    fullname: >-
-      Ema Luketin
-    location: "Croatia"
-    followers: 127514
-    engagement: 1704
-    commentsToLikes: 0.031164
-    id: cka0l2a9ep5du0i78ex9vtlw9
-    verified: false
-    hashtags: "#schoollifehack, #stayhome, #easy, #balkan"
+    hashtags: "#foryou, #fyp, #foryoupage, #myall"
   - username: "tiktokbalkan.pro"
     fullname: >-
       TikTokBalkan
+    bio: >-
+      😍 Vaši najdraži TikTokeri 😍 ❤️ Pratimo vaše duete ❤️ 📸 Pogledaj naš Insta 📸
     location: "Croatia"
-    followers: 37444
-    engagement: 1956
-    commentsToLikes: 0.060205
+    followers: 112800
+    engagement: 2023
+    commentsToLikes: 0.039929
     id: ck9f2n91ndx1b0j78i8esdskl
     verified: false
-    hashtags: "#brighterinside, #foru, #chocolate, #homefood"
-  - username: "irma.pandzo"
-    fullname: >-
-      Irma
-    location: "Croatia"
-    followers: 20917
-    engagement: 3161
-    commentsToLikes: 0.191454
-    id: ckac9c8deg0750i784rlqi9kp
-    verified: false
-    hashtags: "#foodwehate, #rain, #duet"
+    hashtags: "#lalicmilos, #foryoupage, #balkan, #eldin"
 ---

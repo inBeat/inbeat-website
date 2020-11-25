@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Turkey In 2020
 description: >-
-  Find top skincare Instagram influencers in Turkey in 2020. Most popular hashtags: #skincare #evdekal #cekilisvar #ciltbak.
+  Find top skincare Instagram influencers in Turkey in 2020. Most popular hashtags: #skincare #skincareroutine #ciltbak #avon.
 platform: Instagram
+hits: 102
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 102 Instagram influencers like this in Turkey for you to contact.
 profiles:
+  - username: "blog_kubist"
+    fullname: >-
+      
+    bio: >-
+      Kübra✌️ #skincare #cosmetics 💄 Uygun ve yüksek fiyatlı ürün inceleme 💥 TANITIM,REKLAM VE İŞBİRLİKLERİ için DM❣️
+    location: "Turkey"
+    followers: 15805
+    engagement: 466
+    commentsToLikes: 0.089137
+    id: ckaoveru14avm0i78chujci0j
+    verified: false
+    hashtags: "#ke, #farmasi, #denemeli, #kiehls"
+  - username: "denizlebak"
+    fullname: >-
+      Deniz
+    bio: >-
+      📍@sachane 📩denizlebak@gmail.com #cosmetics #skincare #healtyskin #beauty
+    location: "Turkey"
+    followers: 27082
+    engagement: 273
+    commentsToLikes: 0.085170
+    id: ck9hc53ocjtvw0j789s8zuixr
+    verified: false
+    hashtags: "#girl, #me, #style, #purse"
   - username: "sevdeyes"
     fullname: >-
-      Sevda | skinfluencer
+      Sevda
+    bio: >-
+      lifestyle & skincare 🐰 Ankara, Hacettepe sevdeyesblog@gmail.com
     location: "Turkey"
-    followers: 14659
-    engagement: 746
-    commentsToLikes: 0.131617
+    followers: 12971
+    engagement: 723
+    commentsToLikes: 0.015882
     id: ck14gozks6bme0i19bt8kwcrm
     verified: false
-    hashtags: "#avonmaskara, #ootdstyle, #bookstagram, #cekilisvar"
-  - username: "makeartrend"
+    hashtags: "#sunshine, #skinfluencer, #skincarejunkie, #hijabfashion"
+  - username: "handeilemakyaj"
     fullname: >-
-      RABİA
+      Handeilemakyaj
+    bio: >-
+      🍃Makyaj ✨ Bakım 💕 #makeupaddict #skincareaddict çekiliş var ⬇️Story makyajları ☀️ Gardrops: @handeilemakyaj görsellerimi izinsiz kullanmayınız 😫 🦁
     location: "Turkey"
-    followers: 8949
-    engagement: 1145
-    commentsToLikes: 0.135015
-    id: ck8tdc0u62qrc0j787yb0uxpw
+    followers: 34396
+    engagement: 213
+    commentsToLikes: 0.190902
+    id: ck0u0cbtyta9u0i19dtdfzf5p
     verified: false
-    hashtags: "#skincare, #likefollow, #thebalm, #bloggerlife"
+    hashtags: "#makeup, #maccosmetics, #indirim, #bak"
   - username: "guzelliginesintisi"
     fullname: >-
       Gözde's Blog 💎
+    bio: >-
+      Tekirdağ 📍 #makeup#skincare#beauty#güzellik#bakim#makyaj#ciltbakim#lifestyle#kozmetik#indirimliürünler #alisveris
     location: "Turkey"
     followers: 21134
     engagement: 285
     commentsToLikes: 0.008381
     id: ck8taiquirxjh0j78nsxg8g3r
     verified: false
-    hashtags: "#naol, #makeuptutoria, #tren9778, #dupealert"
-  - username: "farahkleinx"
+    hashtags: "#kozmetik, #likeforlike, #girls, #makyaj"
+  - username: "its_fama"
     fullname: >-
-      Farah Klein 🧿
+      Fatima
+    bio: >-
+      PhD in SE👩‍🎓 | Doll's Mom 🤱 Traveler✈️ | Foodie🌮 | Makeup Lover💄 Follow for daily stories 🎥 Pakistani based in Istanbul 🇵🇰 🇹🇷 DM for collaboration
     location: "Turkey"
-    followers: 11037
-    engagement: 1226
-    commentsToLikes: 0.072373
-    id: ck8t67ximcl6i0j78aoicw7by
+    followers: 16676
+    engagement: 195
+    commentsToLikes: 0.115854
+    id: ck8t4eqqz6iuu0j78g7tw59ry
     verified: false
-    hashtags: "#creativemakeup, #xiaomi, #trixiecosmetics, #renklisa"
-  - username: "niranhurel"
+    hashtags: "#multan, #malaysia, #istanbulturkey, #pakistan"
+  - username: "elifsafak_"
     fullname: >-
-      Niran Hürel Herder
+      Elif Safak
+    bio: >-
+      lifestyle • fitness • music 📩 elfsafak@hotmail.com
     location: "Turkey"
-    followers: 16505
-    engagement: 1269
-    commentsToLikes: 0.523820
-    id: ck5hslyftwsyz0i11g27870d7
+    followers: 31845
+    engagement: 208
+    commentsToLikes: 0.031943
+    id: ckap9fs2oshro0i78tyx4x89l
     verified: false
-    hashtags: "#henna, #comfy, #chic, #wedding"
-  - username: "janjanliblog"
+    hashtags: "#stayhome, #ahava, #19may, #oysho"
+  - username: "clbblog"
     fullname: >-
-      Janset Kardaş
+      Gülce Erek
+    bio: >-
+      24 👩🏻‍⚖️ İstanbul #gulceninazsekerlieyelineri #gulceninkasurunu
     location: "Turkey"
-    followers: 20386
-    engagement: 509
-    commentsToLikes: 0.077231
-    id: ck5chrov3rc110i11ljfl18lj
+    followers: 37434
+    engagement: 174
+    commentsToLikes: 0.021321
+    id: ck14jgp73k9430i198cok56jy
     verified: false
-    hashtags: "#hygiene, #ramazanbayram, #avonparfum, #protein"
-  - username: "duygusapayer"
+    hashtags: "#igtv, #igtvchannel, #eyes, #makeupmess"
+  - username: "bengitheblogger"
     fullname: >-
-      Duygu Sapayer Sönmezay
+      Bengi the Blogger 💞
+    bio: >-
+      💋 Makyaj & Bakım & Lifestyle 📍 İzmir 📩 PR & işbirliği & iletişim için DM ya da e-posta 🎥 YouTube 👇🏻
     location: "Turkey"
-    followers: 25312
-    engagement: 572
-    commentsToLikes: 0.057493
-    id: ck8tahct8rraz0j78r1grt99o
+    followers: 18826
+    engagement: 297
+    commentsToLikes: 0.091114
+    id: ck15sub6ueu3h0i19jzemod3j
     verified: false
-    hashtags: "#redrose, #amour, #evdekal, #coffee"
-  - username: "betuulle"
+    hashtags: "#neutrogena, #gratismoru, #skincareproducts, #avon"
+  - username: "makyajkelebegiblog"
     fullname: >-
-      Betül 💫💫
+      makyajkelebegiblog
+    bio: >-
+      🌸 B L O G G E R ‘ 2 0 1 2 🌸 T E A C H E R 🌸 T R A V E L L O V E R
     location: "Turkey"
-    followers: 5245
-    engagement: 1335
-    commentsToLikes: 0.100129
-    id: ck8tagdvzrn200j78yifuxvzl
+    followers: 69435
+    engagement: 156
+    commentsToLikes: 0.060218
+    id: ck5c8d78h98jb0i11j84shtry
     verified: false
-    hashtags: "#shoes, #beautiful, #likemephoto, #quarantinedays"
-  - username: "ojemrujumrimelim"
-    fullname: >-
-      Nihal Kanık
-    location: "Turkey"
-    followers: 163196
-    engagement: 144
-    commentsToLikes: 0.158591
-    id: ck8t91bqqmlhq0j78ie2isgu5
-    verified: false
-    hashtags: "#foreo, #quarantinedays, #isve, #oriflameturkiye"
-  - username: "_sassafrass"
-    fullname: >-
-      𝐉𝐄𝐒𝐒𝐈𝐂𝐀 𝐋𝐄𝐄 ♡
-    location: "Turkey"
-    followers: 143324
-    engagement: 232
-    commentsToLikes: 0.023713
-    id: ck5c0nfz8thja0i11ni2v3j1d
-    verified: false
-    hashtags: "#nomakeupmakeup, #platinumblonde, #freckles, #foxyeyes"
+    hashtags: "#avonturkiye, #homesweethome, #lorealmakeup, #marakozmetik"
 ---

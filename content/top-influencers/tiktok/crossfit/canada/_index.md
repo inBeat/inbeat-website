@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In Canada In 2020
 description: >-
-  Find top crossfit TikTok influencers in Canada in 2020. Most popular hashtags: #crossfit #motivation #strong #workout.
+  Find top crossfit TikTok influencers in Canada in 2020. Most popular hashtags: #crossfit #foryou #fitness #fyp.
 platform: TikTok
+hits: 12
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "alexxmont"
     fullname: >-
       Alexx
+    bio: >-
+      I'm crossfitter 🏋🏼♂️ ig: Alexanderjmm_ 👻: alexcf_19
     location: "Canada"
-    followers: 2942
-    engagement: 1191
-    commentsToLikes: 0.048101
+    followers: 3002
+    engagement: 1139
+    commentsToLikes: 0.048313
     id: ck9nczmcecbza0j789zyhwn8f
     verified: false
-    hashtags: "#viralvideo, #pourtoi, #keepingactive, #spacethings"
+    hashtags: "#foryou, #perfectasiam, #latino, #latinoamerica"
+  - username: "izzy42hotmom"
+    fullname: >-
+      Isabelle O’Brien
+    bio: >-
+      Empowerment through healthy lifestyle
+    location: "Canada"
+    followers: 15400
+    engagement: 369
+    commentsToLikes: 0.053048
+    id: ckcpu43wnp1010j23k8qt2ymf
+    verified: false
+    hashtags: "#summer2020, #mmodels, #body, #love"
   - username: "natalieallport"
     fullname: >-
       Natalie Allport
+    bio: >-
+      Former Team 🇨🇦 Athlete 🏂 Host: All In w. Natalie Allport podcast 🏋🏻‍♀️🧠💛
     location: "Canada"
-    followers: 15247
-    engagement: 932
-    commentsToLikes: 0.039603
+    followers: 36200
+    engagement: 1078
+    commentsToLikes: 0.017769
     id: ck8qe3whcqx7a0j787aanljr4
     verified: false
-    hashtags: "#relatable, #coreworkout, #workout, #lakelife"
+    hashtags: "#athletetraining, #workoutroutine, #athlete, #crossfit"
   - username: "supersingh1crossfitter"
     fullname: >-
       Super Singh 
+    bio: >-
+      Certified Fitness Trainer and nutritionist
     location: "Canada"
-    followers: 54986
-    engagement: 753
-    commentsToLikes: 0.016594
+    followers: 133100
+    engagement: 436
+    commentsToLikes: 0.022879
     id: ck8qe3x02qxdo0j7868r8y6kh
     verified: false
-    hashtags: "#redwater, #challenge, #leanbody, #tiktokti"
-  - username: "justget.fit"
-    fullname: >-
-      Nikki
-    location: "Canada"
-    followers: 28990
-    engagement: 279
-    commentsToLikes: 0.010184
-    id: ck81qyz1ol2q60j784iak0ua4
-    verified: false
-    hashtags: "#hamstring, #stronggirl, #deadlift, #stepup"
+    hashtags: "#crossfitter, #viral, #mumbai, #supersinghfitness"
   - username: "pulsephysioptbo"
     fullname: >-
       Pulse Physiotherapy
+    bio: >-
+      Thanks for 100K 💯 Your fave Canadian physio 🇨🇦
     location: "Canada"
-    followers: 83192
-    engagement: 338
-    commentsToLikes: 0.004008
+    followers: 109700
+    engagement: 402
+    commentsToLikes: 0.005964
     id: ck806y1jamyt00j782diosnb2
     verified: false
-    hashtags: "#covid19virus, #olympiclifter, #hamstrings, #lifting"
-  - username: "justin_agustin"
+    hashtags: "#fit, #yoga, #barbell, #fypchallenge"
+  - username: "opinionhated"
     fullname: >-
-      Justin Agustin
+      Richard Brayshaw
+    bio: >-
+      @flippin4alivin on YouTube / Insta Edutainment at its best If you feel it say it
     location: "Canada"
-    followers: 15988
-    engagement: 512
-    commentsToLikes: 0.050551
-    id: cka6nwq5td58v0i78zmwhtvtw
+    followers: 17800
+    engagement: 1117
+    commentsToLikes: 0.143265
+    id: ck9k4yhrpul1v0j78d5wsqn4u
     verified: false
-    hashtags: "#calm, #workouttips, #crossfit, #flexibiltiy"
+    hashtags: "#biden2020, #xyzbca, #biden, #arizona"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
+    bio: >-
+      43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3082
-    engagement: 665
-    commentsToLikes: 0.088788
+    followers: 3139
+    engagement: 653
+    commentsToLikes: 0.084134
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#waterfall, #thatssotiktok, #nomodel, #highlightreel"
-  - username: "stephgowie"
+    hashtags: "#yoga, #foryou, #travel, #foryoupage"
+  - username: "kingofthelifts"
     fullname: >-
-      StephGowie
+      King Of The Lifts
+    bio: >-
+      The Voice Of Powerlifting Powerlifting Videos Daily! Podcast on all platforms!
     location: "Canada"
-    followers: 28362
-    engagement: 887
-    commentsToLikes: 0.022666
-    id: ck9jxlmpj18hf0j78k5fk8b6q
+    followers: 22100
+    engagement: 727
+    commentsToLikes: 0.026920
+    id: ck8tq5lmpqphc0j782qtlwc2m
     verified: false
-    hashtags: "#bestie, #fancy, #blindinglights, #bekind"
-  - username: "paivajulia"
+    hashtags: "#squats, #deadlift, #kotl, #squatchallange"
+  - username: "chantellebeez"
     fullname: >-
-      Julia Paiva 
+      Chantelle Beez
+    bio: >-
+      Just a business owner with no business during Covid-19. What else am I gonna do?
     location: "Canada"
-    followers: 99069
-    engagement: 797
-    commentsToLikes: 0.011320
-    id: ck9k8iur299m40j78tkn3ki62
+    followers: 3263
+    engagement: 497
+    commentsToLikes: 0.043247
+    id: ckbf2k89fpnus0j233dfnd3bk
     verified: false
-    hashtags: "#bakingrecipe, #greenscreen, #leavingmybody, #mealprep"
-  - username: "slugbrothers"
+    hashtags: "#thicc, #foryoupage, #fyp, #crossfit"
+  - username: "joey_hornyak"
     fullname: >-
-      SlugBrothers
+      Joey Hornyak
+    bio: >-
+      MONTREAL, 🇨🇦 IG: @J_HORNYAK ATHLETE @doyouevenofficial 15+ Million Views 👀🎥
     location: "Canada"
-    followers: 2344
-    engagement: 503
-    commentsToLikes: 0.061017
-    id: ck8tnf8f1iruv0j78xb7lzgry
+    followers: 146700
+    engagement: 745
+    commentsToLikes: 0.006348
+    id: ck8qh5j843ow30j781kgp93vo
     verified: false
-    hashtags: "#storytime, #buddy, #coincollection, #fory"
+    hashtags: "#burnfat, #sixpackabs, #training, #workout"
 ---

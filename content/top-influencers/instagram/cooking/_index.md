@@ -1,12 +1,17 @@
 ---
 title: Top 10 Cooking Instagram Influencers In 2020
 description: >-
-  Find top cooking Instagram influencers in 2020. Most popular hashtags: #quarantinelife # #streetfashion #longhair.
+  Find top cooking Instagram influencers in 2020. Most popular hashtags: #ootd #hunting #food.
 platform: Instagram
+hits: 7182
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 7182 Instagram influencers like this for you to contact.
 profiles:
   - username: "cooking"
     fullname: >-
       Cooking
+    bio: >-
+      🍥 The official Instagram cooking page! 🍥 Posting super yummy food daily!
     location: ""
     followers: 120900
     engagement: 264
@@ -17,91 +22,109 @@ profiles:
   - username: "helia_saffar"
     fullname: >-
       هلیا صفار🍝
+    bio: >-
+      🍃💛 Cooking Is My Therapy💜🍃 👩🏻‍🍳👩🏻‍🍳Graduated in culinary👩🏻‍🍳👩🏻‍🍳 💙فارغ التحصیل رشته آشپزی 💙
     location: "United States"
-    followers: 61626
-    engagement: 881
-    commentsToLikes: 0.043306
+    followers: 75823
+    engagement: 1076
+    commentsToLikes: 0.059387
     id: ck0w6s02ja0k60i19p5r9sb6h
     verified: false
     hashtags: ""
-  - username: "mii_raja"
-    fullname: >-
-      mii
-    location: "Japan"
-    followers: 10797
-    engagement: 1717
-    commentsToLikes: 0.056925
-    id: ck0w2psf8pkwy0i194dlivzka
-    verified: false
-    hashtags: "#petstagra, #turtles, #bambooforest, #instacat"
   - username: "stereolady"
     fullname: >-
       StereoLady 🎧❤️
-    location: ""
-    followers: 16259
-    engagement: 1683
-    commentsToLikes: 0.055481
+    bio: >-
+      Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
+    location: "Italy"
+    followers: 30960
+    engagement: 880
+    commentsToLikes: 0.079902
     id: ck8tahj87rs2p0j78rh1p3ygr
     verified: false
-    hashtags: "#barefootgirl, #flateric, #collantneri, #ragazzaromana"
-  - username: "erinnobrienn"
+    hashtags: "#almenotunelluniverso"
+  - username: "t_a_p_u_h_i"
     fullname: >-
-      Erin O'Brien
-    location: "United States"
-    followers: 6576
-    engagement: 1172
-    commentsToLikes: 0.174783
-    id: ck8t9mbj5oltr0j78mbxfc0tq
+      Dudi Tapuhi 🍏
+    bio: >-
+      Modi'in, Israel🇮🇱 My Family👨‍👩‍👧‍👧 People👩🏼‍🦰👨🏽‍🦲 Cooking👨🏻‍🍳 & More Stuff Nikon D850📷 /Fuji X-E3📷 /GoPro Hero 7📷/iPhone 8+📱 החיים ברזולוציה גבוהה
+    location: ""
+    followers: 3398
+    engagement: 2165
+    commentsToLikes: 0.454826
+    id: ckf5p4zqv4zxu0j2300voqw7u
     verified: false
-    hashtags: "#planters, #pastalover, #funnystory, #giveawaytime"
-  - username: "tamarawebb_"
+    hashtags: ""
+  - username: "sarah_hsiao"
     fullname: >-
-      TAMARA WEBB 💫
-    location: "India"
-    followers: 48725
-    engagement: 753
-    commentsToLikes: 0.036356
-    id: ck8tavj66t8pm0j7872g8sxdw
+      Sarah Hsiao
+    bio: >-
+      Craving for a traveling life✨ ⬇️More about my blog 🆕【JIFS Cooking Salon】台中最美古董私宅餐廳(讀者優惠)
+    location: ""
+    followers: 36095
+    engagement: 534
+    commentsToLikes: 0.065990
+    id: ck5c1jynlvbvz0i11py9jevto
     verified: false
-    hashtags: "#healthycarrotcake, #healthybrownie, #lifestyle, #love"
+    hashtags: "#hualientravel, #mountains, #traveltheworld, #halloweenmakeup"
   - username: "trout_in_the_valley"
     fullname: >-
       Hook Em' And Cook Em'
+    bio: >-
+      Lehigh Valley,Pa📌Fishing,Hunting,Cooking,and Everything Outdoors. 🎣🏹🦌🦃🌄Page Owner:@g__achi.
     location: "United States"
-    followers: 9301
-    engagement: 1153
-    commentsToLikes: 0.106815
+    followers: 8966
+    engagement: 1165
+    commentsToLikes: 0.093059
     id: ck6tzs7i7bjt80j71u8rqddde
     verified: false
-    hashtags: "#smokedfoods, #goodtimes, #fishpa, #hunter"
-  - username: "ksalom"
+    hashtags: "#hunting, #fishing, #fisherman, #outdoors"
+  - username: "luke_spongo"
     fullname: >-
-      Katherine Salom
+      Luke Spong
+    bio: >-
+      Venatic | Decent Angler | Cooking | Cant sing | Can’t dance @livinwithmb🤞
     location: "United States"
-    followers: 513818
-    engagement: 692
-    commentsToLikes: 0.019599
-    id: ck0w10b8agx790i193kdh84mj
+    followers: 24258
+    engagement: 989
+    commentsToLikes: 0.051960
+    id: ckap8vrwuq4130i78uyucz87f
     verified: false
-    hashtags: "#ad, #nationalunicornday, #grabawineski, #flattenthecurve"
-  - username: "paula_roide"
+    hashtags: "#turkeyhunting, #cantstoptheflop, #fueledbynature, #appareldesign"
+  - username: "emily.fauver"
     fullname: >-
-      Paula
-    location: "France"
-    followers: 5777
-    engagement: 1615
-    commentsToLikes: 0.057195
-    id: ck5hmhfidlyh10i11byu8tn33
-    verified: false
-    hashtags: "#jordan1, #shorthaircut, #streetwears, #hotgirlsummer"
-  - username: "xo.zahriaaa"
-    fullname: >-
-      Z A H R I A
+      ✖️ E M I L Y   F A U V E R ✖️
+    bio: >-
+      #POSTPARTUM Fitness 👶🏼 Mama to A Miracle ✈️ Mil Spouse 👩‍🍳 Big Bow Cooking Show Producer ✉️ emilyfauver3@gmail.com CHANGE YOUR LIFE HERE👇🏼
     location: "United States"
-    followers: 6080
-    engagement: 2013
-    commentsToLikes: 0.045080
-    id: ck5c2cnniwzpe0i11xn5x72kj
+    followers: 114928
+    engagement: 830
+    commentsToLikes: 0.031575
+    id: ck5pykyf3wiqr0i11ovkjll74
     verified: false
-    hashtags: "#dcnightlife, #midnightsnack, #vooguemeglasses, #21stbirthday"
+    hashtags: "#bigbowcookingshow, #thisismycircle, #thebigbowcookingshow, #humblebrag"
+  - username: "payydayyy"
+    fullname: >-
+      Payton Stumbaugh Chadwick
+    bio: >-
+      @asics Athlete @captathletics || Arkansas Alumni || USA 🥈|| 💍 || Cooking❤️ @traegergrills || Fayetteville, AR || @macrostax discount code: PAYTON10
+    location: "United States"
+    followers: 8415
+    engagement: 1360
+    commentsToLikes: 0.051963
+    id: ck6ttzvwrdif40j71zt7z25ev
+    verified: false
+    hashtags: "#track, #foodie, #athletics, #training"
+  - username: "tamarawebb_"
+    fullname: >-
+      TAMARA WEBB 💫
+    bio: >-
+      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
+    location: "India"
+    followers: 53255
+    engagement: 805
+    commentsToLikes: 0.078111
+    id: ck8tavj66t8pm0j7872g8sxdw
+    verified: false
+    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
 ---

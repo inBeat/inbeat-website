@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Toronto In 2020
 description: >-
-  Find top bloggers Instagram influencers in Toronto in 2020. Most popular hashtags: #mood #giveaways #caribbean #giveawaycontest.
+  Find top bloggers Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #blogger #canada #explore.
 platform: Instagram
+hits: 129
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 129 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "theeverydayfoodie"
+  - username: "reem_al_malaika"
     fullname: >-
-      The Everyday Foodie
+      Reem Al Malaika ريم الملائكه
+    bio: >-
+      📍Canada(Mississauga)🇨🇦 from‏ 🇮🇶. ًً1992🎀...married and have 1 👶 .من أقارب الشاعره الراحله نازك الملائكه ❤️. Cosmetician at @shoppersbeauty
     location: "Canada"
-    followers: 31068
-    engagement: 125
-    commentsToLikes: 0.187478
-    id: ck15rvkqn9xlm0i190btp6lna
+    followers: 72465
+    engagement: 95
+    commentsToLikes: 0.034348
+    id: ckaosk5kxru5r0i782pnppy55
     verified: false
-    hashtags: "#lonestartexasgrill, #lonestarcaesars, #tefdoesrecipes, #chatimecanada"
-  - username: "thesporadictraveler"
+    hashtags: "#canadian, #ontario, #mississauga, #blogger"
+  - username: "prestigiousoul"
     fullname: >-
-      Silent Agitator 🛫
+      Sasha Khanna
+    bio: >-
+      DEL🇮🇳➰YYZ🇨🇦📍 Life is a book 📖 that you keep writing on, only those books are read which are counted in History, the rest are shuffled in a library🤘🏻
     location: "Canada"
-    followers: 2065
-    engagement: 1016
-    commentsToLikes: 0.162634
-    id: ck9wenhrjl2240j78l61ib6ax
+    followers: 19326
+    engagement: 443
+    commentsToLikes: 0.107629
+    id: ck134n94dx8rx0i19t2fhhyxl
     verified: false
-    hashtags: "#travellingram, #globetrotter, #mood, #travelbug"
-  - username: "munchiescure"
+    hashtags: "#pink, #love, #instadaily, #serenity"
+  - username: "_chrissmedina"
     fullname: >-
-      Zeem 🇨🇦🇦🇫
+      chris medina | bussines woman
+    bio: >-
+      ~ beauty | fashion | lifestyle | blogger 💫 💌 let’s collab👉🏻 chrisventas94@gmail.com 👁 eyelash serum&skin care @medinacloset_boutique 📍🇨🇦 👇🏻 contact
     location: "Canada"
-    followers: 30135
-    engagement: 293
-    commentsToLikes: 0.079888
-    id: ck6tzi7p59uv60j719tqro32t
+    followers: 244643
+    engagement: 94
+    commentsToLikes: 0.013001
+    id: ckap8jswvomrp0i783v9e4n59
     verified: false
-    hashtags: "#forkyeah, #foodlife, #nutellapancake, #ketodiet"
+    hashtags: "#travel, #emprendedora, #torontoblogger, #love"
+  - username: "goodhealthprettylife"
+    fullname: >-
+      NICOLE.
+    bio: >-
+      #toronto blogger health . wellness . lifestyle {online hours 2-3pm est}
+    location: "Canada"
+    followers: 15143
+    engagement: 880
+    commentsToLikes: 0.316828
+    id: ckf5m1tv0rxyx0j23rd5kanul
+    verified: false
+    hashtags: "#vistaambassador, #partner, #vistamagcanada, #vistamagazine"
+  - username: "justinpluslauren"
+    fullname: >-
+      Lauren | Travel | Vegan
+    bio: >-
+      Outdoor Adventures & Kind Travel Full-time travel blogger in Toronto Sustainability & Eco | Founder of @ontariohiking 📍Toronto
+    location: "Canada"
+    followers: 62376
+    engagement: 172
+    commentsToLikes: 0.049377
+    id: ck14juou8ma4u0i19hjri8fux
+    verified: true
+    hashtags: "#thevisualscollective, #theearthoutdoors, #architecturedaily, #sheisnotlost"
   - username: "cheskieeats"
     fullname: >-
       ✨ Cheskie ✨
+    bio: >-
+      🧁Beauty comes from within, so eat beautiful food 🌻 Blogger for @torontodateideas 🌞 Sharing my spiritual journey @cheskielives
     location: "Canada"
     followers: 5542
     engagement: 420
     commentsToLikes: 0.064762
     id: ck6tic0ny0flh0j71ghph2pog
     verified: false
-    hashtags: "#charcuterie, #torontovegan, #dinnerinspo, #leerestaurant"
-  - username: "cansu.sef"
+    hashtags: "#toronto, #datenight, #torontodateideas, #quarantinelife"
+  - username: "zaheee22"
     fullname: >-
-      İç Mimar | Cansu Aksoy
+      ظهيرة Zaheera Mohammed
+    bio: >-
+      Personal Blog&Fashion Mom&Stylist Eat~Pray~Love 🕋🧕🏼🍝🇨🇦🇹🇹 Wife of 19 years,Mom of 3 Zayn 17,Tas 16,A’ishah 7.
     location: "Canada"
-    followers: 7916
-    engagement: 601
-    commentsToLikes: 0.004792
-    id: ckaov2qxz2viu0i7804g2gf9e
+    followers: 141595
+    engagement: 159
+    commentsToLikes: 0.038138
+    id: ck14l0023s6fd0i19xhp8dibi
     verified: false
-    hashtags: "#decorative, #interiorismo, #italy, #mimarliktarihi"
-  - username: "vishakha_sodha"
+    hashtags: "#fashionblogger, #beoakandfort, #oakandfort, #toronto"
+  - username: "chahat.arora.528"
     fullname: >-
-      Vishakha Sodha Khakhar
+      Chahat Arora
+    bio: >-
+      Fashion Influencer 📍Toronto For collaboration: chahatarora2306@gmail.com
     location: "Canada"
-    followers: 46280
-    engagement: 290
-    commentsToLikes: 0.078275
-    id: ck5q4xd6uqlz90i11knuentpj
+    followers: 122873
+    engagement: 119
+    commentsToLikes: 0.041951
+    id: ck15rdmjm7en60i19oqukyeof
     verified: false
-    hashtags: "#beautyobsessed, #bedroom, #indialove, #moodyports"
-  - username: "theprdiva"
+    hashtags: "#fun, #instablogger, #happiness, #blushmarksquad"
+  - username: "chic_mamma"
     fullname: >-
-      #DivaIsAFemaleVersionOfAHustla
+      Pina Crispo ♥ ChicMamma.ca
+    bio: >-
+      ♥ Chic Mamma of 3 ♥ Radio Host of "The Parenting Show" @AM640 ♥ Author ♥ Content Creator ♥ College Prof ♥ Voice Actor ♥ Music Lover 📍T.O.
     location: "Canada"
-    followers: 7334
-    engagement: 988
-    commentsToLikes: 0.180549
-    id: ck15tfkb1hu3r0i19umea88te
+    followers: 19968
+    engagement: 150
+    commentsToLikes: 0.165309
+    id: ck0w09fn4d21k0i1976chtlpk
     verified: false
-    hashtags: "#africanqueen, #pulseghana, #goal, #prdivatakesatl"
-  - username: "eat.with.evie"
+    hashtags: "#parentlife, #momblogger, #blogger, #staysafe"
+  - username: "natashaahuja"
     fullname: >-
-      Evie | Toronto Blogger
+      Natasha | Beauty + Self Care
+    bio: >-
+      If no one told you today, you matter ♡ Founder of @BeaudefyTheOdds As seen in: @yahoofinance @businessinsider
     location: "Canada"
-    followers: 5582
-    engagement: 1252
-    commentsToLikes: 0.744623
-    id: ckaor4892lnko0i789faij58s
+    followers: 53938
+    engagement: 341
+    commentsToLikes: 0.149372
+    id: ck5c6oq5h5vn40i11619eva0c
     verified: false
-    hashtags: "#throwback, #teamipartner, #gifted, #ad"
-  - username: "joecyzhang"
-    fullname: >-
-      Joecy Zhang📍Toronto Blogger
-    location: "Canada"
-    followers: 49193
-    engagement: 116
-    commentsToLikes: 0.327678
-    id: ck5hk2tozhowq0i11ucrjamzm
-    verified: false
-    hashtags: "#corona, #beautyblogger, #landscape, #ocean"
-  - username: "barleelounge"
-    fullname: >-
-      Paola Barron | Toronto Blogger
-    location: "Canada"
-    followers: 5604
-    engagement: 1330
-    commentsToLikes: 0.727123
-    id: ck5cal2grdm270i110zdzxeuc
-    verified: false
-    hashtags: "#chineseseafood, #cadburyminieggs, #giveaway, #giveawaycanada"
+    hashtags: "#styleblog, #selfcaredaily, #positivevibes, #selfcarecoach"
 ---

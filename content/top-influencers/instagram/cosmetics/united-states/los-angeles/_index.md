@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Los Angeles in 2020. Most popular hashtags: #beauty #eyebrows #lipstick #lipgloss.
+  Find top cosmetics Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #beauty #cosmetics #makeup.
 platform: Instagram
+hits: 102
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 102 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "victoriasophiarn"
+  - username: "zakhordental"
     fullname: >-
-      Nurse Victoria Sophia
+      DR. MANSOUR ZAKHOR & CO.
+    bio: >-
+      🦷 LOS ANGELES COSMETIC DENTIST 🦷 PORCELAIN VENEERS & INVISALIGN 🦷 FULL MOUTH SMILE MAKEOVER 🦷 IMPLANT & ROOT CANAL SPECIALISTS ☎️ (310)208-0811
     location: "United States"
-    followers: 49875
-    engagement: 257
-    commentsToLikes: 0.057791
-    id: ckap8scvvpnyo0i78vdft93i0
+    followers: 26914
+    engagement: 344
+    commentsToLikes: 0.041011
+    id: ck8t8gpifkezu0j78wi8xppim
     verified: false
-    hashtags: "#russianliplift, #lipfillers, #fixhipdips, #buttimplantsurgery"
-  - username: "bestofprosth"
+    hashtags: "#cosmeticdentistry, #porcelainveneers, #losangeles, #veneers"
+  - username: "drchrisgojdz"
     fullname: >-
-      The Best Of Prosth
+      Krzysztof Gojdź MD, PHD
+    bio: >-
+      🎓Board Certified/Faculty American Academy Aesthetic Medicine 📍Miami Beach 👩‍💻@reviveclinic_official 📺Host Discovery TV Shows ⭐️Celebrity/Philantropist
     location: "United States"
-    followers: 89366
-    engagement: 132
-    commentsToLikes: 0.009583
-    id: ck0tvpx17cc7z0i190m3dm1kh
-    verified: false
-    hashtags: "#healthyteeths, #prosth, #auriculartherapy, #carillas"
-  - username: "anyabenton"
+    followers: 82335
+    engagement: 129
+    commentsToLikes: 0.040994
+    id: ck8t89jpzjkvj0j78hlmxg5se
+    verified: true
+    hashtags: "#beautyexpert, #aestheticmedicine, #massageclinic, #drgojdz"
+  - username: "drmattasaro"
     fullname: >-
-      𝐀𝐍𝐘𝐀 𝐁𝐄𝐍𝐓𝐎𝐍
+      Los Angeles Cosmetic Dentist
+    bio: >-
+      🦷 Natural Smile Expert 💎 Porcelain Veneers & Smile Makeovers 📲 323-653-7500 —> to schedule a consultation
     location: "United States"
-    followers: 301999
-    engagement: 160
-    commentsToLikes: 0.032181
-    id: ck6tocz19ddly0j71i80pssey
+    followers: 42149
+    engagement: 249
+    commentsToLikes: 0.046921
+    id: ck8svzl7sdacj0j781ohulpk7
     verified: false
-    hashtags: "#aprilfoolsday, #eyes, #revolve, #beauty"
-  - username: "eexla"
+    hashtags: "#porcelainveneers, #smile, #dentist, #smilemakeover"
+  - username: "tatevik.terteryan"
     fullname: >-
-      Alexander
+      TATEVIK, RN, MSN
+    bio: >-
+      •FNP-S •MSN •Advanced Cosmetic Injector •Injections follow @nareandtatevik •Los Angeles
     location: "United States"
-    followers: 40141
-    engagement: 374
-    commentsToLikes: 0.047251
-    id: ck0ub1tfddjdb0i19x44nntay
+    followers: 30882
+    engagement: 252
+    commentsToLikes: 0.033053
+    id: ck5ckxwshxu3x0i11t6wooocb
     verified: false
-    hashtags: ""
-  - username: "glamboyjay"
+    hashtags: "#skincare, #nurseinjector, #quarantinelife, #pillowdresschallenge"
+  - username: "mariagjieli"
     fullname: >-
-      ✧ 𝐆𝐋𝐀𝐌 𝐁𝐎𝐘 𝐉𝐀𝐘 ✧
+      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
+    bio: >-
+      🇦🇱 🔺22 | NYC | Miami 📍 🔺Model | Foodie 🔺Brands/promos: mariagjielimgmt@gmail.com 🔺Backup: @mariagjielixo 🔺Twitter: @ mariagjielixo
     location: "United States"
-    followers: 78151
-    engagement: 167
-    commentsToLikes: 0.074947
-    id: ck5q81hxu41f10i11luax9izn
+    followers: 1064029
+    engagement: 395
+    commentsToLikes: 0.020973
+    id: ckap4oi4a864k0i78h9xfuq4y
     verified: false
-    hashtags: "#artistcouture, #dontrushchallange, #kvdbeauty, #lolababe"
-  - username: "lovemicorazon"
+    hashtags: "#boutiquemodel, #style, #viral, #fashion"
+  - username: "slokeone"
     fullname: >-
-      CORA KIM
+      
+    bio: >-
+      ATX Native...NBK,CBS,OTM,LAWS,LORDS,CREATURES CREWS. Stylizing letters and surfaces since 1990. DM for commissions. 👉🏼You can now shop for my art at
     location: "United States"
-    followers: 323179
-    engagement: 112
-    commentsToLikes: 0.050202
-    id: ck0vvilnqpayy0i193d8b1wwl
+    followers: 19942
+    engagement: 239
+    commentsToLikes: 0.037022
+    id: ck13cxgxv2n8y0i19oiv40oeh
     verified: false
-    hashtags: "#chefsforamerica, #tb, #revolvearoundthehouse, #tbt"
-  - username: "nikkiparisi"
+    hashtags: "#sloke, #abstract, #fuckcorona, #atxgraff"
+  - username: "torylynnbrows"
     fullname: >-
-      Nikki Parisi
+      TORY-LYNN WILLIAMS
+    bio: >-
+      Celebrity Brow Stylist || Los Angeles, CA ✉️Training: info.torylynnbrows@gmail.com •(310)-877-4090• #torylynnbrows Book Your Appointment!⤵️
     location: "United States"
-    followers: 15569
-    engagement: 235
-    commentsToLikes: 0.124589
-    id: ck0w5jdzd3x9e0i19rdg7nd5g
+    followers: 59294
+    engagement: 168
+    commentsToLikes: 0.025046
+    id: ck15ugiwsn2oq0i192g6u5jl3
     verified: false
-    hashtags: "#contest, #edgesonfleek, #furmomlife, #cincodemayo"
-  - username: "chrismychael"
+    hashtags: "#postmalone, #browshaping, #makeup, #mua"
+  - username: "rebelfaces_"
     fullname: >-
-      ✨💋 The Chris Mychael 💋✨
+      Traveling Celebrity MUA 🛩
+    bio: >-
+      ▪️Ta’Juan ♠️ Rebel ▫️Beauty Influencer ▫️LA/NYC/ATL/OH 📍 📋 Email- RebelFaces1@gmail.com
     location: "United States"
-    followers: 41696
-    engagement: 277
-    commentsToLikes: 0.036891
-    id: ck5hngumgnrcd0i11ag61u4q0
+    followers: 71486
+    engagement: 135
+    commentsToLikes: 0.118889
+    id: ck6tisie21c7v0j71p395lgy5
     verified: false
-    hashtags: "#glambychrismychael, #throwbackglam, #chrismychaelvibe"
-  - username: "makeupbyshanshan"
+    hashtags: "#celebrity, #makeupaddict, #celebritymakeupartist, #kyliecosmetics"
+  - username: "thebeautyjunkee"
     fullname: >-
-      Shannon Smart
+      Martha Sta.Barbara- Villarama
+    bio: >-
+      💄🏋🏽‍♀️✈️🍔 Use my code MARTHA and get 10% disc at sephora.ph 📧 martha.stabarbara@gmail.com Youtube: therealbeautyjunkee 🔵 Facebook.com/TheBeautyJunkee
     location: "United States"
-    followers: 18452
-    engagement: 407
-    commentsToLikes: 0.095475
-    id: ck15rxkwla7ey0i19h12p5cwx
+    followers: 32495
+    engagement: 103
+    commentsToLikes: 0.086196
+    id: ck6ubw0j0c12d0j71un0xj4fn
     verified: false
-    hashtags: "#gifted, #lipgloss, #kbeautyaddict, #kkwbeauty"
-  - username: "aloveaffairblog"
+    hashtags: "#makeup, #thebeautyjunkee, #coronavirus, #covid19ph"
+  - username: "shamelesslydia"
     fullname: >-
-      Sofia
+      Lydia Moreno 👽
+    bio: >-
+      Los Angeles 📍| Libra ♎️ | Content Creator 💄 PR/ Collabs email 💌 : morenolydia22@yahoo.com
     location: "United States"
-    followers: 54803
-    engagement: 48
-    commentsToLikes: 0.113244
-    id: ck55ol5hg8knz0i11eigu2ev6
+    followers: 126333
+    engagement: 480
+    commentsToLikes: 0.033715
+    id: ck15rs9a59fwf0i19gyjkozt8
     verified: false
-    hashtags: "#parisjetaime, #summerstyles, #superbloom2019, #luxyhairlove"
+    hashtags: "#anastasiabeverlyhills, #maybelline, #halloween, #theartistedit"
 ---

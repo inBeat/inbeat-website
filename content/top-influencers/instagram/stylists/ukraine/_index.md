@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top stylists Instagram influencers in Ukraine in 2020. Most popular hashtags: #lvilgram #tulipia #muawedding #styleoutfit.
+  Find top stylists Instagram influencers in Ukraine in 2020. Most popular hashtags: #quarantine #fashion #makeup.
 platform: Instagram
+hits: 69
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 69 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "anishchenko_leyla"
+    fullname: >-
+      Лейла
+    bio: >-
+      @anishchenko_store @_levline_ Designer Stylist Married Clever boy’s mom Sport girl
+    location: "Ukraine"
+    followers: 37469
+    engagement: 383
+    commentsToLikes: 0.035600
+    id: ckf5n1ed0wbwt0j23rjzd4lku
+    verified: false
+    hashtags: "#100, #instagram, #backstage, #ftv"
+  - username: "linakhrystoforova"
+    fullname: >-
+      Лина Христофорова
+    bio: >-
+      • Speaker & Founder @f_lab_official • Founder @bagpack_official • Stylist @shopping_with_lina Contact me 📩: l.khrystoforova@gmail.com YOUTUBE канал⬇️
+    location: "Ukraine"
+    followers: 33658
+    engagement: 371
+    commentsToLikes: 0.027993
+    id: ck15rmpdf8o3c0i1973r9x1rc
+    verified: false
+    hashtags: "#umka, #paris, #missyou, #12"
   - username: "sulbieosmanova_makeup"
     fullname: >-
       СУЛЬБИЕ ОСМАНОВА
+    bio: >-
+      MAKEUP STYLIST Founder @so_beauty_lab💅🏻@so_wedding_dress👗 @sulbieosmanova_school Запись по номеру: +7(978)022-25-25
     location: "Ukraine"
-    followers: 29446
-    engagement: 635
-    commentsToLikes: 0.068737
+    followers: 31084
+    engagement: 520
+    commentsToLikes: 0.009591
     id: ck0u70jhm3jwh0i195vfuqdxs
     verified: false
-    hashtags: "#dontrushchalleng, #qirimli, #dontrushchallenge, #ramadan2020"
-  - username: "tania_dudu"
+    hashtags: "#weddingmakeup, #makeup, #makeupartist, #makeupsimferopol"
+  - username: "fffetisova"
     fullname: >-
-      Personal & Fashion Stylist
+      🔪 FETISA
+    bio: >-
+      MODEL ACTOR STYLIST @fffetishop @fffetishclo ORG @kyiv.reborn.production @oblava.party DJ
     location: "Ukraine"
-    followers: 40692
-    engagement: 398
-    commentsToLikes: 0.056759
-    id: ck5px31rzpusm0i11q1dyc8bn
-    verified: false
-    hashtags: "#stayathome, #needtochange, #takeit, #happybirthday"
-  - username: "nikahuk"
-    fullname: >-
-      Nika Huk • Stylist
-    location: "Ukraine"
-    followers: 100940
-    engagement: 254
-    commentsToLikes: 0.017768
-    id: ck55j3v77w79u0i111omnag61
-    verified: false
-    hashtags: "#withgalaxy, #newin, #fashionagony, #nikahuk"
-  - username: "suda4ka"
-    fullname: >-
-      Аннушка
-    location: "Ukraine"
-    followers: 124581
-    engagement: 312
-    commentsToLikes: 0.026104
-    id: ck0w14qfvhjvf0i19amlrukkc
+    followers: 30253
+    engagement: 802
+    commentsToLikes: 0.009132
+    id: ck5c2wgk3y4kk0i11ghdbgh1s
     verified: false
     hashtags: ""
-  - username: "_aprilblog_"
+  - username: "vikatemnova"
     fullname: >-
-      Anna Mitnitskaja
+      
+    bio: >-
+      digital/film photographer stylist 📍now in Kyiv For ordering photoshooting - contact me via DM Feel free to contact with me
     location: "Ukraine"
-    followers: 6361
-    engagement: 420
-    commentsToLikes: 0.043029
-    id: ck0w1q7qsklgc0i19xej9xrck
+    followers: 19709
+    engagement: 563
+    commentsToLikes: 0.009566
+    id: ck13c7d6eyytl0i19kgrowb2b
     verified: false
-    hashtags: "#styleguide, #paris, #myaesthetic, #fuckcovid"
-  - username: "krist__elle"
+    hashtags: "#film, #35mm, #minolta"
+  - username: "sashavdovinaa"
     fullname: >-
-      Krist Elle ( Kristina Doli )
+      Aleksandra Vdovina
+    bio: >-
+      Visual artist / stylista humonista / psychological view Art director @brua_jewellery 📩 sashavdovina98@gmail.com / direct / WhatsApp +38 093 741 95 82
     location: "Ukraine"
-    followers: 286918
-    engagement: 209
-    commentsToLikes: 0.006866
-    id: ck0w4xub90xws0i19j42ecy13
+    followers: 8059
+    engagement: 579
+    commentsToLikes: 0.021360
+    id: ck0w5ygbz61dc0i19uhwride0
     verified: false
-    hashtags: "#bottegaveneta, #rebelgal, #prada, #balenciaga"
+    hashtags: "#quarantine"
   - username: "ivannamamchuk"
     fullname: >-
       Ivanna Mamchuk
+    bio: >-
+      Makeup artist Hair stylist Art
     location: "Ukraine"
-    followers: 5441
-    engagement: 568
-    commentsToLikes: 0.026142
+    followers: 5780
+    engagement: 534
+    commentsToLikes: 0.033437
     id: ck6tv2omyjtw40j7114q01vwn
     verified: false
-    hashtags: "#tigi, #beutywomen, #mualviv, #muanude"
-  - username: "mi_wtf"
+    hashtags: "#lvivgirls, #lvivgram, #lvivmakeup, #ivannamamchuk"
+  - username: "tattybohdan"
     fullname: >-
-      YasMi
+      Tatyana Bohdan
+    bio: >-
+      Model, stylist, TV host 👠. Fashion, beauty, travel, lifestyle...
     location: "Ukraine"
-    followers: 5380
-    engagement: 832
-    commentsToLikes: 0.001941
-    id: ck6tmuw248ksx0j71xf6jsdrw
+    followers: 24881
+    engagement: 250
+    commentsToLikes: 0.031697
+    id: ck6tyt5z95pb60j71gvm7gu4t
     verified: false
-    hashtags: "#solomkolookssogood, #yasmi"
-  - username: "stasyamonastyrskaya"
+    hashtags: "#quarantine, #photo, #quarantinelife, #motherofdragons"
+  - username: "krist__elle"
     fullname: >-
-      Стася Монастырская
+      Krist Elle ( Kristina Doli )
+    bio: >-
+      📍Odessa. 19.07. 1995 -👗👠 Fashion blogger & stylist - Inquiries 📩 kristina@futurmgmt.com
     location: "Ukraine"
-    followers: 16626
-    engagement: 204
-    commentsToLikes: 0.025999
-    id: ck5cgbilroild0i118sjdra9s
+    followers: 280333
+    engagement: 141
+    commentsToLikes: 0.005926
+    id: ck0w4xub90xws0i19j42ecy13
     verified: false
-    hashtags: "#daughter, #shorthairidontcare, #styledealers, #our"
-  - username: "beeembiii"
+    hashtags: "#prada"
+  - username: "suda4ka"
     fullname: >-
-      Besha✨
+      Аннушка
+    bio: >-
+      Стиль - это способ сказать, кто ты есть, без слова #suda4ka 🖤 •Founder @anybyanny 💓 •Stylist •Fashion blogger •Insta influencer
     location: "Ukraine"
-    followers: 29470
-    engagement: 194
-    commentsToLikes: 0.043771
-    id: ck5cjwtq1vnwt0i11i0xy5atw
+    followers: 135867
+    engagement: 243
+    commentsToLikes: 0.006497
+    id: ck0w14qfvhjvf0i19amlrukkc
     verified: false
-    hashtags: "#strawberry, #yeezyazael"
+    hashtags: ""
 ---

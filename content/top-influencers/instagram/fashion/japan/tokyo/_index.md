@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top fashion Instagram influencers in Tokyo in 2020. Most popular hashtags: #fashion #tokyo #repost #hermes.
+  Find top fashion Instagram influencers in Tokyo in 2020. Most popular hashtags: #fashion #tokyo #ootd #japan.
 platform: Instagram
+hits: 390
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 390 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
-  - username: "mensfudge"
-    fullname: >-
-      men'sFUDGE／メンズファッジ
-    location: "Japan"
-    followers: 132246
-    engagement: 183
-    commentsToLikes: 0.000970
-    id: ck136bzuh5qmh0i19omr4ptse
-    verified: false
-    hashtags: "#streetsnap, #setupwear, #agnesbjeans, #newstandard"
-  - username: "hoshinoko728"
-    fullname: >-
-      𝕙𝕠𝕤𝕙𝕚𝕟𝕠𝕜𝕠
-    location: "Japan"
-    followers: 107585
-    engagement: 505
-    commentsToLikes: 0.012423
-    id: ck6ugjknq3ek20j71ex306fes
-    verified: false
-    hashtags: "#coordinate, #instafashion, #fashion, #tokyodisneysea"
-  - username: "tokyofashion"
-    fullname: >-
-      Harajuku Japan
-    location: "Japan"
-    followers: 778249
-    engagement: 179
-    commentsToLikes: 0.004161
-    id: ck15uvnpwoq5m0i198kqeptrb
-    verified: false
-    hashtags: ""
-  - username: "shizunan"
-    fullname: >-
-      shizuna
-    location: "Japan"
-    followers: 52107
-    engagement: 152
-    commentsToLikes: 0.008570
-    id: ck5qc5lf7oysb0i111ntb80zi
-    verified: false
-    hashtags: "#mothersday, #shizunascoordinateathome, #very, #hermes"
-  - username: "ayaaa0707"
-    fullname: >-
-      ayakaneko
-    location: "Japan"
-    followers: 142975
-    engagement: 147
-    commentsToLikes: 0.002624
-    id: ck134x22lylyc0i197ev8c69o
-    verified: false
-    hashtags: "#happymothersday, #macphee"
-  - username: "chinenmikako"
-    fullname: >-
-      chinenmikako
-    location: "Japan"
-    followers: 41039
-    engagement: 152
-    commentsToLikes: 0.011393
-    id: ck6tu4a4we7zy0j71tkfnd2mc
-    verified: false
-    hashtags: "#newhair, #newnail, #stylist, #ootm"
   - username: "aaxxy2"
     fullname: >-
       ユウ
+    bio: >-
+      ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ ・▷ Directer ⇨ @lill_official ・▷ 182cm ・▷Fashion ・▷ Tokyo ・▷シンプル ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ ▼LILL ZOZOTOWNページ▼
     location: "Japan"
-    followers: 103194
-    engagement: 258
-    commentsToLikes: 0.011929
+    followers: 101050
+    engagement: 159
+    commentsToLikes: 0.010950
     id: ck15q8w4h1nr50i1992s18exi
     verified: false
-    hashtags: "#alustandard, #converse, #fila, #music"
-  - username: "ippei.ds"
+    hashtags: "#ootd, #gu, #lill, #uniqlo"
+  - username: "haruka__sakamoto"
     fullname: >-
-      Ippei Sawamura
+      EMODA／ 遥香 (おはる)
+    bio: >-
+      #EMODA official influencer #SHIBUYA109 STAFF 【 EMODA公式 RUNWAY channel 】 👇🏻私の着ているコーデ詳細はこちら🛒💓
     location: "Japan"
-    followers: 5352
-    engagement: 928
-    commentsToLikes: 0.005346
-    id: ck55m8dq33fvu0i11h3kcg8z3
+    followers: 19749
+    engagement: 494
+    commentsToLikes: 0.003379
+    id: ck13c7n1sz0a80i19mpwupjjr
     verified: false
-    hashtags: "#musicinsta, #zeppdivercitytokyo, #hiphop, #veatsshibuya"
-  - username: "ami_s_t"
+    hashtags: "#autumnfashion, #ootd, #emoda, #aw"
+  - username: "mgmilk___"
     fullname: >-
-      ᴀᴍɪ sᴜᴢᴜᴋɪ
+      め ぐ み る く
+    bio: >-
+      ̵ ̗̀ 𝑚𝑦 𝑑𝑎𝑖𝑙𝑦 𝑚𝑒𝑚𝑜𝑟𝑖𝑒𝑠 ̖́ ̶﻿ ﻿ ﻿ ______________________ 𝐷𝑒𝑖𝑠𝑦𝑙𝑜𝑡𝑡𝑒 𝑎𝑙𝑙 𝑝𝑟𝑜𝑑𝑢𝑐𝑒 @deisylotte_official 🛒 𓈒𓏸
     location: "Japan"
-    followers: 161248
-    engagement: 359
-    commentsToLikes: 0.008663
-    id: ck0w53ai91od80i19kyya11wi
+    followers: 85533
+    engagement: 303
+    commentsToLikes: 0.001896
+    id: ck5hrnc3ev5nu0i11e94efuzm
     verified: false
-    hashtags: "#casita, #celford, #fendi, #etoupe"
-  - username: "_turner___"
+    hashtags: "#tokyo, #oosaka, #kobe, #trip"
+  - username: "summersloanalvey"
     fullname: >-
-      DAISUKE TANAKA 🇯🇵for the world
+      Summer Alvey
+    bio: >-
+      📍Salt Lake City, Utah @uptownsojo ♻️ @aaronalvey9 💍 @irohthegreatdane 🐕‍🦺
     location: "Japan"
-    followers: 51449
-    engagement: 95
-    commentsToLikes: 0.005162
-    id: ck8t50xby8h9u0j78yapdbzx6
+    followers: 8920
+    engagement: 657
+    commentsToLikes: 0.020732
+    id: ck6u4r2t85awa0j71h3y340u8
     verified: false
-    hashtags: "#1000, #aktrsportssupply, #basketball, #lifestyle"
+    hashtags: "#tokyodisneyresort, #disney, #utahisrad, #model"
+  - username: "honokamoriyama_official"
+    fullname: >-
+      Honoka Moriyama🇯🇵
+    bio: >-
+      Honoka Moriyama｜森山 穂乃花 From Tokyo Japan👸🏻⛩⚔️ DANCE ARTIST MY BLACK LONG HAIR IS REAL🖤 TikTok🎵honoka_moriyama Booking📩 honokamoriyama1224@gmail.com
+    location: "Japan"
+    followers: 30203
+    engagement: 325
+    commentsToLikes: 0.016010
+    id: ck0txrlbeka0z0i19qrmsa3fq
+    verified: true
+    hashtags: "#anime, #fashion, #tokyo, #dance"
+  - username: "osayo_osayo"
+    fullname: >-
+      尾崎紗代子🆎Sayoko Ozaki
+    bio: >-
+      Tokyo🇯🇵Mom&Model.follow me お仕事は osayoworks@gmail.com まで📩 【MONE】やってます↓ → @mone_official_account ←
+    location: "Japan"
+    followers: 315555
+    engagement: 159
+    commentsToLikes: 0.002252
+    id: ck0w6lv6b97c40i192bo9uej2
+    verified: false
+    hashtags: "#ring, #basic, #accessory, #makeup"
+  - username: "ko365d"
+    fullname: >-
+      KO  karin
+    bio: >-
+      趣味は洋服。365日同じコーディネートはしません？
+    location: "Japan"
+    followers: 10409
+    engagement: 576
+    commentsToLikes: 0.003594
+    id: ckapcnrrp4hq70i78dyp3v4zy
+    verified: false
+    hashtags: "#ootd, #cordinate, #fashion, #tokyofashion"
+  - username: "suzuno_sakon"
+    fullname: >-
+      Suzuno Sakon
+    bio: >-
+      ′95 | Osaka 💋 OZOCとのコラボアイテムは こちらからご覧いただけます❤︎
+    location: "Japan"
+    followers: 97928
+    engagement: 164
+    commentsToLikes: 0.006482
+    id: ck55m6jc43bzs0i112burxwq3
+    verified: false
+    hashtags: "#ootd, #viage, #outfit, #lian"
+  - username: "masatoshiyamashiro"
+    fullname: >-
+      Photographer_tokyo 📸
+    bio: >-
+      PHOTOGRAPHER in Tokyo Founder/Creative Director - NO magazine @no_magazine_tokyo
+    location: "Japan"
+    followers: 49438
+    engagement: 120
+    commentsToLikes: 0.014208
+    id: ck5cd9boxirhk0i118730rfpz
+    verified: false
+    hashtags: "#tokyophotographers, #photographerintokyo, #parallelfifth, #photographertokyo"
+  - username: "golf_yoshimi"
+    fullname: >-
+      YOSHIMI（よしし）
+    bio: >-
+      Golf / Fitness / Trip / Beauty ... ⛳️ 2years（❤️79 🤍82） 🌏 tokyo, japan 会社員とフリーランスモデルしております☺︎ ※お仕事依頼以外のDM/メールは対応できません🙏💦
+    location: "Japan"
+    followers: 47420
+    engagement: 417
+    commentsToLikes: 0.025187
+    id: ckf5ntckyzm8g0j23irayw85j
+    verified: false
+    hashtags: "#golfer, #golfwear, #golflife, #healthy"
 ---

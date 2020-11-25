@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In 2020
 description: >-
-  Find top athletes TikTok influencers in 2020. Most popular hashtags: #duet #backflip #boredinthehouse #greenscreen.
+  Find top athletes TikTok influencers in 2020. Most popular hashtags: #fyp #viral #foryoupage #foryou.
 platform: TikTok
+hits: 1237
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 1237 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "vikashkandola16"
+    fullname: >-
+      Vikash kandola 88
+    bio: >-
+      Athlete
+    location: "India"
+    followers: 12500
+    engagement: 1752
+    commentsToLikes: 0.006596
+    id: ckb17qyssveoi0j238eniqmcj
+    verified: false
+    hashtags: "#pubg"
   - username: "rcfitnessworld73"
     fullname: >-
-      Rcfitnessworld 
+      Rahul Chauhan
+    bio: >-
+      Athlete
     location: "India"
-    followers: 59621
-    engagement: 1551
-    commentsToLikes: 0.019178
+    followers: 58800
+    engagement: 1300
+    commentsToLikes: 0.018710
     id: ckamslkq9qotn0i78ocb3d9sh
     verified: false
-    hashtags: "#shoulder, #haryana, #restinpeace, #tigerkingdom"
+    hashtags: "#rcfitnessworld, #trending, #foryoupage, #india"
   - username: "sadikfitness"
     fullname: >-
       Sadik Hadzovic
+    bio: >-
+      Athlete
     location: "United States"
-    followers: 21596
-    engagement: 524
-    commentsToLikes: 0.023698
+    followers: 36600
+    engagement: 640
+    commentsToLikes: 0.020144
     id: ck9kegkrwysvx0j78zzeuzoaf
     verified: false
-    hashtags: "#pose, #lifestyle, #aesthetics, #hustle"
+    hashtags: "#fitness, #bodybuilding, #sadikhadzovic, #motivation"
+  - username: "nasandino"
+    fullname: >-
+      nasandino
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 7302
+    engagement: 868
+    commentsToLikes: 0.034122
+    id: ckcejgzats9sp0j23f7uqraaa
+    verified: false
+    hashtags: "#fyp, #foryou, #basketball, #viral"
   - username: "tee_higgins5"
     fullname: >-
       Tee Higgins
+    bio: >-
+      Athlete
     location: "United States"
-    followers: 49336
-    engagement: 1199
-    commentsToLikes: 0.016026
+    followers: 60200
+    engagement: 1170
+    commentsToLikes: 0.015078
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#hypemeup, #bringitback, #toosieslide, #duet"
-  - username: "kaoticmovement"
+    hashtags: "#foryoupage, #fyp, #foryou, #viral"
+  - username: "dylan_lambert"
     fullname: >-
-      kaoticmovement
-    location: "United Kingdom"
-    followers: 37164
-    engagement: 1952
-    commentsToLikes: 0.045479
-    id: cka0yn7i2bx3t0i78l7cms4oy
-    verified: false
-    hashtags: "#cartwheels, #sunshine, #fake, #forwardroll"
-  - username: "mathys_lm"
-    fullname: >-
-      mathys
-    location: "Canada"
-    followers: 20869
-    engagement: 2013
-    commentsToLikes: 0.041650
-    id: cka0me7snuy820i78qgrt8e1o
-    verified: false
-    hashtags: "#partygirl, #naturalcurls, #soccerboys, #squadchallenge"
-  - username: "iamjoaskills"
-    fullname: >-
-      JOACHIM 🎈
-    location: "France"
-    followers: 617297
-    engagement: 1915
-    commentsToLikes: 0.029244
-    id: ck9ng9lcaf2lb0j78qcmc51l0
-    verified: true
-    hashtags: "#pourtoi, #oups, #commeunninja, #malade"
-  - username: "hennyseroeyen"
-    fullname: >-
-      henny seroeyen
-    location: "Belgium"
-    followers: 108236
-    engagement: 2217
-    commentsToLikes: 0.022229
-    id: ck920jmkeegyi0j784bjdvbq5
-    verified: true
-    hashtags: "#sport, #thedrop, #stories, #fithome"
-  - username: "bennettmlittle"
-    fullname: >-
-      Bennett Little
+      Dylanlambert
+    bio: >-
+      Athlete
     location: "United States"
-    followers: 10853
-    engagement: 2015
-    commentsToLikes: 0.074706
-    id: ckajkoat1re7m0i782zm5fo33
+    followers: 17300
+    engagement: 763
+    commentsToLikes: 0.025142
+    id: ckcpf2fk9gkln0j23kglvznrf
     verified: false
-    hashtags: "#greenscreen, #kehlani, #outerbanks, #corona"
-  - username: "christianscalhoun"
+    hashtags: "#trackandfield, #foryoupage, #running, #fyp"
+  - username: "mouseketeerjonathan"
     fullname: >-
-      Christian Calhoun
+      Jonathan
+    bio: >-
+      The official account of MouseketeerJonathan. Athlete, Zumba Instructor, Teacher
     location: "United States"
-    followers: 92530
-    engagement: 2294
-    commentsToLikes: 0.021306
-    id: ck8kjj18huzcc0j78oqgorqcj
+    followers: 294800
+    engagement: 1955
+    commentsToLikes: 0.028324
+    id: ckcpttx2lonxr0j23bwxwpowe
     verified: false
-    hashtags: ""
-  - username: "timstuh"
+    hashtags: "#duet, #mouseketeerjonathan, #acting, #fyp"
+  - username: "neeekaa_"
     fullname: >-
-      Timothy Campbell 🚀
+      NEEK MILLY
+    bio: >-
+      T&F ATHLETE I make custom wigs [ IG @unitsbyneek ] Personal IG @neeekaa_ 💕
     location: "United States"
-    followers: 97535
-    engagement: 1361
-    commentsToLikes: 0.109293
-    id: cka0la3msq3zr0i789la6x6ay
+    followers: 29900
+    engagement: 1629
+    commentsToLikes: 0.075513
+    id: ckbeq6w8c7jgo0j23c3xmg9h7
     verified: false
-    hashtags: "#killerinstinct, #vibewithme, #awol, #mixer"
+    hashtags: "#motivationmonday, #fyp, #unitsbyneek, #xyzbca"
+  - username: "armon.figs"
+    fullname: >-
+      Randynyc💫
+    bio: >-
+      yung_obj13👻 Athlete 📍 nycthelabel 🗽
+    location: "United States"
+    followers: 2267
+    engagement: 2364
+    commentsToLikes: 0.134219
+    id: ckbw82wpoz1r90j23yost3ai2
+    verified: false
+    hashtags: "#gardenproject, #stemlife, #10secondsvs, #viral"
+  - username: "danger_racer__"
+    fullname: >-
+      ⚔️ Aᴿᴹᵞ    LØᵛᴱᴿ ⚔️
+    bio: >-
+      ༒ĐΔ₦G€Řシ Athlete 1500m Iᴹ.. iᴺᶜᴼᴹᴾᴸᴱᵀᴱ.. Wiᵀᴴᴼᵁᵀ... Yøᵁ. ..Aᴿᴹᵞ.
+    location: "India"
+    followers: 2790
+    engagement: 2355
+    commentsToLikes: 0.081473
+    id: ckbqsucjjdn6c0j23uk5ny2d3
+    verified: false
+    hashtags: "#jaihind, #photomagic, #army, #ilovemyindia"
 ---

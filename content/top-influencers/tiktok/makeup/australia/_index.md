@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Australia In 2020
 description: >-
-  Find top makeup TikTok influencers in Australia in 2020. Most popular hashtags: #randomthings #heapsgood #keepingactive #keepingbusy.
+  Find top makeup TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
 platform: TikTok
+hits: 374
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 374 TikTok influencers like this in Australia for you to connect with.
 profiles:
-  - username: "duchess_of_tiktok"
+  - username: "sam.b.perry"
     fullname: >-
-      Duchess of Tiktok
+      sam.b.perry
+    bio: >-
+      💖20💖 🇦🇺 Aussie 🇦🇺 Makeup, art & life Born Bred Talent
     location: "Australia"
-    followers: 2336
-    engagement: 1157
-    commentsToLikes: 0.102981
-    id: ckal7zgafhdtl0i78cz81eo8r
-    verified: false
-    hashtags: "#open, #believe, #public, #foryourpage"
-  - username: "liahmorley"
+    followers: 677700
+    engagement: 2016
+    commentsToLikes: 0.019897
+    id: ck9k4demvs0by0j78u1wfd7d2
+    verified: true
+    hashtags: "#ad, #anime, #homeoffice, #foryou"
+  - username: "deadawaken"
     fullname: >-
-      liah
+      💀Deadawaken💀
+    bio: >-
+      🥀🖤gothic🖤🥀❤️Insta❤️👣auzzie👣🔥SFX makeup artist🔥🕸Patreon🕸
     location: "Australia"
-    followers: 39979
-    engagement: 1682
-    commentsToLikes: 0.034682
-    id: ck8nl2f6xi14q0j78x0w1grs9
+    followers: 14500
+    engagement: 1921
+    commentsToLikes: 0.032785
+    id: ck9e3895ui99a0j78fa9mikgi
     verified: false
-    hashtags: "#artist, #earthday, #acnh, #fluttereye"
+    hashtags: "#fyp, #gothic, #punk, #goth"
+  - username: "sophiegmakeup"
+    fullname: >-
+      Soph
+    bio: >-
+      ✨16✨ Instagram: @sophh.makeupp Love you all! 🥳
+    location: "Australia"
+    followers: 15200
+    engagement: 2041
+    commentsToLikes: 0.018626
+    id: ckb9rxz03osbf0j23xgkcaqnp
+    verified: false
+    hashtags: "#fyp, #foryou, #creative, #1d"
   - username: "makeupbymyke"
     fullname: >-
       Makeup By Myke
+    bio: >-
+      Just a boy who loves makeup. ❤️ 25, 6”2, AU 🇦🇺 Support in any way you can!👇🏼
     location: "Australia"
-    followers: 63441
-    engagement: 2411
-    commentsToLikes: 0.027072
+    followers: 63500
+    engagement: 2473
+    commentsToLikes: 0.026361
     id: ck8nitp74791v0j78rw1i3ja7
     verified: false
-    hashtags: "#onlineclass, #blanketlife, #bookclub, #beautyhaul"
-  - username: "livingskull"
+    hashtags: "#foryoupage, #makeuptutorial, #fyp, #beautyhaul"
+  - username: "reddelicious000"
     fullname: >-
-      💀LivingSkull💀
+      Kellie Smith
+    bio: >-
+      📸 IG: @reddelicious000 🎥 YouTube: reddelicious000 Kmart | Makeup | Curves
     location: "Australia"
-    followers: 14120
-    engagement: 1906
-    commentsToLikes: 0.015168
-    id: ck9e3895ui99a0j78fa9mikgi
+    followers: 3846
+    engagement: 1128
+    commentsToLikes: 0.111218
+    id: ckbrcfl0iqbks0j23ap5qmsul
     verified: false
-    hashtags: "#haru, #digital, #duet, #dance"
-  - username: "anishasharma1931"
+    hashtags: "#over40s, #momsoftiktok, #over30s, #aussiethings"
+  - username: "venus.amore"
     fullname: >-
-      Anisha Sharma
+      🏳️‍🌈 Venus Amoré 🏳️‍🌈
+    bio: >-
+      ☀️ GOLD COAST, AU ☀️ Makeup, life, love and fun! 👇🏽👇🏽INSTA LINKED 👇🏽👇🏽
     location: "Australia"
-    followers: 71769
-    engagement: 477
-    commentsToLikes: 0.047961
-    id: ck9c4zr6cq9y20j78qltcbs4g
+    followers: 30000
+    engagement: 1131
+    commentsToLikes: 0.065119
+    id: ck9dsse339dj30j785o2mg0pv
     verified: false
-    hashtags: "#nepali, #selfcare, #wipeitdown, #makeuphashtag"
+    hashtags: "#follow, #funny, #forupage, #tiktok"
+  - username: "samjtodd"
+    fullname: >-
+      💓 sam todd 💓
+    bio: >-
+      fashion/makeup/DIY’s owner/designer @the.volt 💞 bris, AU 💌 samtodd@hotmail.com
+    location: "Australia"
+    followers: 11600
+    engagement: 955
+    commentsToLikes: 0.046536
+    id: ckbqej5b40dxh0j235h9iab39
+    verified: false
+    hashtags: "#brisbane, #festivalfashion, #handmadefashion, #thevolt"
+  - username: "thefauxchanel"
+    fullname: >-
+      TheFauxChanel
+    bio: >-
+      🇦🇺🇳🇿🇵🇭 Hi, I’m Cat! Makeup Illusionist thefauxchanel@gmail.com
+    location: "Australia"
+    followers: 139500
+    engagement: 1663
+    commentsToLikes: 0.022099
+    id: ck94lj4f2zf5o0j78f9cbrkke
+    verified: false
+    hashtags: "#makeup, #foryou, #creepy, #fyp"
   - username: "ains_mua"
     fullname: >-
       Ainsley
+    bio: >-
+      🎉 22 | passion for makeup 💄| Victoria, Aus 🇦🇺 | Follow me on Instagram ⬇️
     location: "Australia"
-    followers: 7912
-    engagement: 1195
-    commentsToLikes: 0.029969
+    followers: 76800
+    engagement: 1630
+    commentsToLikes: 0.021557
     id: ckacvdkh0n86g0i78i70ejx48
     verified: false
-    hashtags: "#tuktokart, #tiktokreviews, #bookclub, #datingstorytime"
-  - username: "ke_ke_makeup"
+    hashtags: "#foryou, #orange, #art, #paint"
+  - username: "ozbeautyexpert"
     fullname: >-
-      Keylee Cochrane 
+      OzBeautyExpert
+    bio: >-
+      Have you got me on insta too? @ozbeautyexpert See my makeup brand in this link
     location: "Australia"
-    followers: 13073
-    engagement: 1106
-    commentsToLikes: 0.009517
-    id: cka0hzpthbhb00i78bz5tdmpo
+    followers: 7487
+    engagement: 285
+    commentsToLikes: 0.048138
+    id: ckdhy2hyf4pjf0j23mlzccuyf
     verified: false
-    hashtags: "#cowboys, #cheshirecat, #artchallenges, #footy"
-  - username: "makeupwithjah"
-    fullname: >-
-      Jah
-    location: "Australia"
-    followers: 12701
-    engagement: 877
-    commentsToLikes: 0.016600
-    id: cka0s3tq6jsoa0i78yzyfk3fj
-    verified: false
-    hashtags: "#polynesian, #heapsgood, #blueeyes, #randomthings"
-  - username: "swetasingh_87"
-    fullname: >-
-      Sweta Singh 🥰
-    location: "Australia"
-    followers: 89803
-    engagement: 463
-    commentsToLikes: 0.029733
-    id: ck81q4k8gfw010j78m71ewatw
-    verified: false
-    hashtags: "#howmanylikes, #toning, #like, #eid"
-  - username: "muafjryan"
-    fullname: >-
-      Finlea Ryan 
-    location: "Australia"
-    followers: 18107
-    engagement: 1035
-    commentsToLikes: 0.016451
-    id: ck91003vyfvbl0j78etf0swr5
-    verified: false
-    hashtags: "#pinkhair, #makeuphacks, #acting, #tomyvalentine"
+    hashtags: "#fyp, #foryou, #friday, #lol"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers TikTok Influencers In India In 2020
 description: >-
-  Find top barbers TikTok influencers in India in 2020. Most popular hashtags: #barber #haircut #doubleexposure #hairstyle.
+  Find top barbers TikTok influencers in India in 2020. Most popular hashtags: #tiktok #tiktokindia #barber #foryou.
 platform: TikTok
+hits: 12
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in India for you to contact.
 profiles:
+  - username: "romimp_95"
+    fullname: >-
+      Romi Mp
+    bio: >-
+      1 Million 🤗likes Fan Sidhu_Moose_Wale da Barber_life✂️
+    location: "India"
+    followers: 3089
+    engagement: 1288
+    commentsToLikes: 0.141011
+    id: ckbqtq082eefd0j23kjjwg5hi
+    verified: false
+    hashtags: "#bambihabole, #geetazaildar, #romimp, #hairstyle"
+  - username: "upstairsalon"
+    fullname: >-
+      Man Preet
+    bio: >-
+      
+    location: "India"
+    followers: 9728
+    engagement: 1678
+    commentsToLikes: 0.051353
+    id: ckbqtpxkxee250j23lnusxxz4
+    verified: false
+    hashtags: "#viral, #salonlife, #tiktok, #funnyvideo"
   - username: "mani_barber"
     fullname: >-
       🅼A🅽I   🅱A🆁🅱E🆁
+    bio: >-
+      ✂️appointment insta only ‼️ Follow me on insta 🙏🙏
     location: "India"
     followers: 98909
     engagement: 1075
     commentsToLikes: 0.013726
     id: ck81s0rdfp6kf0j78yfyzxczw
     verified: false
-    hashtags: "#skin, #barber, #barberia, #skinroutine"
-  - username: "puneetsachdeva16"
+    hashtags: "#barberlife, #tiktokindia, #india, #tiktok"
+  - username: "jaydiprajgor7706"
     fullname: >-
-      puneetsachdeva16
+      Jaydip Rajgor
+    bio: >-
+      The Most Interesting || Facts ||
     location: "India"
-    followers: 4981
-    engagement: 1743
-    commentsToLikes: 0.037434
-    id: ckan3e44m4rd60i78x5kj1jiw
+    followers: 29600
+    engagement: 945
+    commentsToLikes: 0.009899
+    id: ck9eiy6x0zudb0j786yyouavv
     verified: false
-    hashtags: "#cleaning, #sweet, #tommorowland, #lover"
-  - username: "sj_official_111"
+    hashtags: "#foryou, #foryourpage, #tiktokindia, #tiktok"
+  - username: "raj_sen_31"
     fullname: >-
-      SHAHID JAMAL SJ
+      Rajsen Indore
+    bio: >-
+      
     location: "India"
-    followers: 107051
-    engagement: 874
-    commentsToLikes: 0.046204
-    id: ck81qvr8dka9e0j78t3v8sokn
+    followers: 9655
+    engagement: 820
+    commentsToLikes: 0.004071
+    id: ck8p006dbeik00j78v8sowgfj
     verified: false
-    hashtags: "#asim, #followme, #beautiful, #sjsalon"
+    hashtags: "#tiktok, #hiarstyle, #kya, #full"
+  - username: "_shajus"
+    fullname: >-
+      shajahan_shajus_
+    bio: >-
+      ❤️ഞാനൊരാളുടെയുംഫാനല്ലഎന്‍റെനേതാവ്മക്കയിലുള്ളരാജകുമാരനാണ് മുഹമ്മദ് മുസ്തഫ [സ്വ
+    location: "India"
+    followers: 26400
+    engagement: 1215
+    commentsToLikes: 0.004507
+    id: ckcd0fltnzio50j2388hrjc03
+    verified: false
+    hashtags: "#dute, #speed, #kerela, #2020"
+  - username: "ashik_sparrow"
+    fullname: >-
+      __𝕾𝖕𝖆𝖗𝖗𝖔𝖜__
+    bio: >-
+      NS 200💥 Bike lover 💕 Smule singer 🎤 Born to 🔥Live🔥 to ride😍
+    location: "India"
+    followers: 2764
+    engagement: 760
+    commentsToLikes: 0.017155
+    id: ckbq8t7f1v6140j23xlr03677
+    verified: false
+    hashtags: "#love, #joker, #valentinorossi, #tamilmuser"
   - username: "khatiswag786"
     fullname: >-
       KHATI_SWAG__
+    bio: >-
+      Khati_Swag_Bole_To_Baba_S**
     location: "India"
-    followers: 28078
-    engagement: 751
-    commentsToLikes: 0.014350
+    followers: 39800
+    engagement: 716
+    commentsToLikes: 0.009695
     id: ck931ihg4eu4p0j78vtp72wyr
     verified: false
-    hashtags: "#kgf2, #lifebuoykarona, #nocoronavirus, #swagat"
-  - username: "telugu__officials"
+    hashtags: "#khatiswag786, #sharethecare, #khatiswag, #myntraeorschallenge"
+  - username: "111sj"
     fullname: >-
-      Telugu __officials🕉
+      user2468338617204
+    bio: >-
+      
     location: "India"
-    followers: 139757
-    engagement: 1368
-    commentsToLikes: 0.006945
-    id: ckan10msbt8nr0i78aeqpaogl
+    followers: 1
+    engagement: 528
+    commentsToLikes: 0.000000
+    id: ck81qvr8dka9e0j78t3v8sokn
     verified: false
-    hashtags: "#pspk, #redthefilm, #tiktoktollywood, #support"
-  - username: "riyalove64"
+    hashtags: "#love, #sjofficial111, #viral, #longhair"
+  - username: "shambhavi_singh"
     fullname: >-
-      ranilove64
+      SHAMBHAVI🌻
+    bio: >-
+      Follow me on 🌸 Instagram- Shambhavi1997
     location: "India"
-    followers: 273264
-    engagement: 960
-    commentsToLikes: 0.009549
-    id: ckaij13anczeh0i78wrur4xfi
+    followers: 445300
+    engagement: 722
+    commentsToLikes: 0.007511
+    id: ckbwh628y2pdm0j232d2aw5mt
     verified: false
-    hashtags: "#chone, #viral, #yesa, #mujhe"
-  - username: "aajtak"
-    fullname: >-
-      Aajtak
-    location: "India"
-    followers: 526270
-    engagement: 712
-    commentsToLikes: 0.009065
-    id: ck8qncjfku0h40j78o0u5wauo
-    verified: true
-    hashtags: "#cleanliness, #animal, #delhi, #indianarmy"
-  - username: "onepersentclub"
-    fullname: >-
-      OnePersent Club
-    location: "India"
-    followers: 2844690
-    engagement: 1167
-    commentsToLikes: 0.001883
-    id: ck7zo13rwgtic0j78dx00tm89
-    verified: false
-    hashtags: "#findyoursexy, #thankyou, #sadlife, #1minmovie"
-  - username: "sneha_rahaman05"
-    fullname: >-
-      ❤️Tiyasha❤️
-    location: "India"
-    followers: 135121
-    engagement: 2040
-    commentsToLikes: 0.037717
-    id: ck9glnml0p6ch0j789hcri487
-    verified: false
-    hashtags: "#lipcolourchalle, #funny, #fantasyeyes, #funnymemes"
-  - username: "maxbhoriaofficial"
-    fullname: >-
-      MAX Bhoria
-    location: "India"
-    followers: 2007
-    engagement: 1438
-    commentsToLikes: 0.017808
-    id: cka106zb9igly0i781renecs8
-    verified: false
-    hashtags: "#thanksmaa, #happyholi2020, #hindimotivation, #realyl"
+    hashtags: "#sharethecare, #follow, #trending, #swagstepchallenge"
 ---

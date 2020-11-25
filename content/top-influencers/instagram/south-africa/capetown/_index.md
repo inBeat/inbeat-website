@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Capetown In 2020
 description: >-
-  Find top Instagram influencers in Capetown in 2020. Most popular hashtags: #getfit #motivation #lockdown #selfisolation.
+  Find top Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #model #love.
 platform: Instagram
+hits: 255
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 255 Instagram influencers like this in Capetown, South Africa for you to collaborate.
 profiles:
   - username: "capetown"
     fullname: >-
       Cape Town
+    bio: >-
+      #️⃣cptmx | @capetown |
     location: "South Africa"
     followers: 23440
     engagement: 230
     commentsToLikes: 0.012114
     id: ck5hn5mrxn8yu0i11u1sibgrn
     verified: false
-    hashtags: "#yzerfontein, #lionshead, #nsri, #campsbay"
+    hashtags: "#amazingcapetown, #ig, #southafricaza, #instagramcapetown"
   - username: "audrey_lunda"
     fullname: >-
       MENS STYLE DESTINATION
+    bio: >-
+      Inspiring guys to dress better Freelance Model | Menswear | Photographer 📩 : audreylunda1@gmail.com 📍 :CapeTown 🇿🇦 New Day New Wave ...
     location: "South Africa"
-    followers: 34483
-    engagement: 1484
-    commentsToLikes: 0.053699
+    followers: 117689
+    engagement: 831
+    commentsToLikes: 0.026527
     id: ck5caa309d0du0i11f2eppcjt
     verified: false
-    hashtags: "#menscasualwear, #blackmen, #mycottonon, #classymen"
-  - username: "themarriedwanderers"
+    hashtags: "#menfashionreview, #ootdmen, #capetownblogger, #manfashionpost"
+  - username: "carissaswart"
     fullname: >-
-      Jen & Rudolph
+      Rissa
+    bio: >-
+      Model based in Capetown📍📍 MA:@syncmodels_
     location: "South Africa"
-    followers: 18218
-    engagement: 345
-    commentsToLikes: 0.082140
-    id: ck55q8m13c5180i112vj06y5u
+    followers: 4907
+    engagement: 1490
+    commentsToLikes: 0.073638
+    id: ckf5o137d0ih40j23h5hkt3vo
     verified: false
-    hashtags: "#paarl, #travlcouple, #quarantinedate, #keepitwild"
+    hashtags: "#music, #photooftheday, #instagram, #photography"
   - username: "marcbuckner"
     fullname: >-
       Marc Buckner
+    bio: >-
+      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
     location: "South Africa"
-    followers: 84205
-    engagement: 526
-    commentsToLikes: 0.054334
+    followers: 105527
+    engagement: 464
+    commentsToLikes: 0.031676
     id: ck5qeisvd0p580i11yvigwyqx
     verified: true
-    hashtags: "#jawline, #ladies, #nutriwellsa, #lies"
+    hashtags: "#motivation, #chest, #work, #arms"
+  - username: "travspringer"
+    fullname: >-
+      TRAV SPRINGER | Tropical
+    bio: >-
+      ATTACHED TO @kinseygolden ♡ #videographer / #photographer @thetropicaltaste #Smoothiebowl #capetown @tropicalglamping #Bali #glamping Big dreamer
+    location: "South Africa"
+    followers: 78373
+    engagement: 381
+    commentsToLikes: 0.010531
+    id: ck5c1igfcv8o80i11fibfaca0
+    verified: false
+    hashtags: "#maldivesislands, #capetown, #maldives, #smoothies"
+  - username: "aubreyngoma"
+    fullname: >-
+      Aubrey Ngoma
+    bio: >-
+      Professional Footballer Player of @capetowncityfc #10🇿🇦 Nike Ambassador “The future belongs to those who believe in the beauty of their dreams”
+    location: "South Africa"
+    followers: 34245
+    engagement: 319
+    commentsToLikes: 0.018456
+    id: ck0vyfw7i3s6h0i19nle0iqxc
+    verified: false
+    hashtags: "#premiersoccerleague, #southafrica, #football, #athlete"
+  - username: "amber_brits"
+    fullname: >-
+      A M B E R. BRITS. OFFICIAL 💥
+    bio: >-
+      Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
+    location: "South Africa"
+    followers: 17269
+    engagement: 335
+    commentsToLikes: 0.061279
+    id: ck5c26a7twmdj0i11124h90ib
+    verified: false
+    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
+  - username: "yannickbandora"
+    fullname: >-
+      Yannick Bandora
+    bio: >-
+      For bookings: hugo@immbruxelles.com D1 Models London🇬🇧 IMM Brussel🇧🇪 Why not models milan🇮🇹 Boss models Capetown🇿🇦
+    location: "South Africa"
+    followers: 12782
+    engagement: 712
+    commentsToLikes: 0.025488
+    id: ck6u9au89wh1t0j71y1xvfgyb
+    verified: false
+    hashtags: "#zalandoman, #editorial, #blacklivesmatter, #capetown"
   - username: "marcbermanphotography"
     fullname: >-
       Marc Berman | Photographer
+    bio: >-
+      #photographer 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
     location: "South Africa"
-    followers: 15993
-    engagement: 241
-    commentsToLikes: 0.070445
+    followers: 15887
+    engagement: 256
+    commentsToLikes: 0.022283
     id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#sports, #girls, #beta, #indoors"
-  - username: "treven_moodley"
+    hashtags: "#canonphotography, #fitgirls, #dailypost, #brazil"
+  - username: "agichristine"
     fullname: >-
-      Treven Moodley
+      𝐀𝐆𝑵𝐄𝑺
+    bio: >-
+      Model 💙 Mountains MA @icemodelscpt 📍CapeTown 🇿🇦 SportySpice @swissalpinegirls 👯‍♀️ #StrongKneesWithAgi
     location: "South Africa"
-    followers: 17995
-    engagement: 304
-    commentsToLikes: 0.040289
-    id: ck6u0k2klg5gz0j7150u2jdzy
+    followers: 17460
+    engagement: 203
+    commentsToLikes: 0.049942
+    id: ck5busxzhidu30i1148g98kmn
     verified: false
-    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
-  - username: "kundaimurapa"
-    fullname: >-
-      Kundai Murapa
-    location: "South Africa"
-    followers: 16817
-    engagement: 245
-    commentsToLikes: 0.046234
-    id: ck15qf8zc2k2p0i19u271pu15
-    verified: false
-    hashtags: "#dubaifitfam, #animalflow, #mindbody, #healthychoices"
-  - username: "oliver.sutton"
-    fullname: >-
-      Oliver Sutton
-    location: "South Africa"
-    followers: 4391
-    engagement: 793
-    commentsToLikes: 0.056209
-    id: ck6toqt7ofl0c0j713akfrhu5
-    verified: false
-    hashtags: "#tanzania, #capetown, #corsica, #yoga"
-  - username: "doc.beats"
-    fullname: >-
-      Dr. B. Buchzik
-    location: "South Africa"
-    followers: 17025
-    engagement: 219
-    commentsToLikes: 0.105362
-    id: ckaovkrsl4zmb0i78smbhj569
-    verified: false
-    hashtags: "#medicalstuff, #paradise, #telemedizin, #westerncape"
-  - username: "capetown.southafrica"
-    fullname: >-
-      CAPE TOWN 🇿🇦
-    location: "South Africa"
-    followers: 50849
-    engagement: 494
-    commentsToLikes: 0.031708
-    id: ck5qc8a91pbsq0i11zobtzzu2
-    verified: false
-    hashtags: ""
+    hashtags: "#zara, #hiking, #scarborough, #westerncape"
 ---

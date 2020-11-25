@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In 2020
 description: >-
-  Find top gymnasts Instagram influencers in 2020. Most popular hashtags: #gymnastics #squat #stretching #garden.
+  Find top gymnasts Instagram influencers in 2020. Most popular hashtags: #gym #instagood #outfitoftheday.
 platform: Instagram
+hits: 2489
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 2489 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "yasminmasri1998"
-    fullname: >-
-      Yasmin Mussallam Al Masri
-    location: ""
-    followers: 7887
-    engagement: 1783
-    commentsToLikes: 0.114272
-    id: ck6u6ay32ejfo0j71d0tqzrcn
-    verified: false
-    hashtags: ""
   - username: "jade.marie.wadman"
     fullname: >-
       Jade Marie Wadman ✨
+    bio: >-
+      • ￼Brighton • Owner of Stars Gymnastics Club 🌟 • Gym girl 🏋🏻‍♀️ Equestrian￼ 🏇🏻 ￼
     location: "United Kingdom"
-    followers: 7578
-    engagement: 2432
-    commentsToLikes: 0.118457
+    followers: 10380
+    engagement: 1570
+    commentsToLikes: 0.223700
     id: ck6uh4bbv6wye0j71vrdlo1zc
     verified: false
-    hashtags: "#workingprogress, #champagne, #blackcar, #undergroundgym"
-  - username: "bli28zia"
+    hashtags: "#woods, #gym, #fitfam, #outfitoftheday"
+  - username: "alena_n_star"
     fullname: >-
-      Anastasia Bliznyuk
+      Alena ✖️😼✖️Nazarova
+    bio: >-
+      Rhythmic gymnastics 🤸🏼‍♀️ Represented by 💌 @selectmodellosangeles
+    location: "United States"
+    followers: 224795
+    engagement: 534
+    commentsToLikes: 0.054693
+    id: ck0tuy1zr96fo0i19aaaik2k4
+    verified: false
+    hashtags: "#linkinbio, #film"
+  - username: "_alicia_ore"
+    fullname: >-
+      Ali
+    bio: >-
+      | 20 Yo | Gymnaste TikTok: aliciaore (18.5k)✨ Ambassadrice —> @dgn.power 👊🏼
+    location: "France"
+    followers: 3308
+    engagement: 1976
+    commentsToLikes: 0.142035
+    id: ck8wf0493ewfw0j78c2lk3dj7
+    verified: false
+    hashtags: "#look, #mademoiselleparisienne49, #mode, #lifestyle"
+  - username: "dudacarvalho25"
+    fullname: >-
+      Duda Carvalho
+    bio: >-
+      Rhythmic Gymnastic 🇧🇷🇪🇸🇮🇹
+    location: "Brazil"
+    followers: 3443
+    engagement: 1947
+    commentsToLikes: 0.127431
+    id: ckaow0oqd6wqf0i78xsbtc53m
+    verified: false
+    hashtags: "#vita, #rhytmicgymnastic, #teamduda, #sports"
+  - username: "soldy21"
+    fullname: >-
+      Alexsandra Soldatova.
+    bio: >-
+      Russian National Team of Rhythmic Gymnastics. World and European champion.
     location: "Russia"
-    followers: 8155
-    engagement: 1805
-    commentsToLikes: 0.106483
-    id: ckap5qx3gcsa40i78l8nuushb
-    verified: false
-    hashtags: "#me, #fashion, #sailormoon, #moskomsport"
-  - username: "jellexvdb"
-    fullname: >-
-      𝙅𝙚𝙡𝙡𝙚 𝙑𝙖𝙣 𝙙𝙚𝙣 𝘽𝙤𝙨𝙘𝙝
-    location: "Indonesia"
-    followers: 14732
-    engagement: 1284
-    commentsToLikes: 0.381732
-    id: ck9wgsr6zutoo0j78073618v0
-    verified: false
-    hashtags: ""
-  - username: "tessaleconge"
-    fullname: >-
-      TESSA LE CONGE🦋
-    location: "Netherlands"
-    followers: 8260
-    engagement: 1318
-    commentsToLikes: 0.234688
-    id: ck6tk1bt53t810j710anw6eik
-    verified: false
-    hashtags: "#happykingsday, #lorealparis, #lorealpartner, #dreamlengths"
-  - username: "samanehyariyan"
-    fullname: >-
-      SamanehYariyan/ سمانه ياريان
-    location: "Iran"
-    followers: 7735
-    engagement: 1314
-    commentsToLikes: 0.102046
-    id: ck6tkx9bc5l1d0j7110qa2n3m
-    verified: false
-    hashtags: "#gymlife, #dokhtaroone, #safe, #famous"
+    followers: 442956
+    engagement: 626
+    commentsToLikes: 0.021052
+    id: ck0vwg35mtiqw0i19hmsmeln1
+    verified: true
+    hashtags: "#teamsoldy"
   - username: "loliklondon"
     fullname: >-
       Lola
+    bio: >-
+      👩🏼59y.y. happily married mum of 2👧🏻👧🏻 🧘‍♀️former rhythmic gymnast 🇷🇺🇬🇧 age is just a number ✉️ for collabs: loliklondon@gmail.com
     location: "United Kingdom"
-    followers: 159019
-    engagement: 559
-    commentsToLikes: 0.056358
+    followers: 184662
+    engagement: 433
+    commentsToLikes: 0.048333
     id: ck5pwzfn7pct30i114zv86phw
     verified: false
-    hashtags: "#agepositive, #moschino, #quarantine, #grandma"
-  - username: "fitness__kaykay"
-    fullname: >-
-      KATHRIN 🇩🇪
-    location: "Germany"
-    followers: 134022
-    engagement: 524
-    commentsToLikes: 0.041768
-    id: ck6twlxxysrp80j71i8fyzlzv
-    verified: false
-    hashtags: "#dynamic, #wallhold, #happysaturday, #eistee"
+    hashtags: "#highheels, #classywomen, #elegant, #smilemore"
   - username: "kyla_bryant"
     fullname: >-
       Kyla Bryant ♕
+    bio: >-
+      psalms 23 ✞ || stanford gymnastics '21 || ATH || always be pure. kind. & honest.
     location: "United States"
-    followers: 7547
-    engagement: 1666
-    commentsToLikes: 0.054733
+    followers: 7646
+    engagement: 1565
+    commentsToLikes: 0.063026
     id: ck5hovjhnqb630i11v4yf3jbl
     verified: false
-    hashtags: "#juniorszn"
-  - username: "janine_berger96"
+    hashtags: "#juniorszn, #blackouttuesday, #22"
+  - username: "_victorianguyen"
     fullname: >-
-      Olympic gymnast 🇩🇪
+      
+    bio: >-
+      ・2x us national team member ・UGA gymnastics ‘24🐾 ・student athlete
+    location: "United States"
+    followers: 16155
+    engagement: 973
+    commentsToLikes: 0.048341
+    id: ck0w01wxxbzgb0i19rd2vn1kx
+    verified: false
+    hashtags: "#sorrynotsorry, #nli, #2020, #19"
+  - username: "olimpia_noa"
+    fullname: >-
+      Olimpia Noa Pietras
+    bio: >-
+      #model // #actress //#dancer //#gymnast #lifestyle #travel #beauty #healthylifestyle
+    location: "France"
+    followers: 55057
+    engagement: 858
+    commentsToLikes: 0.034842
+    id: ck14k0oedn4m30i19mfmgtg22
+    verified: false
+    hashtags: "#teen, #weekend, #summer, #girl"
+  - username: "tumbling_kira"
+    fullname: >-
+      Kira ♡
+    bio: >-
+      ➳ seventeen🌸 ➳ gymnast💕 ➳ germany, baltic sea🌊
     location: "Germany"
-    followers: 42992
-    engagement: 465
-    commentsToLikes: 0.070507
-    id: ck8szih9aokmn0j781umj8jjk
-    verified: true
-    hashtags: "#friday, #missit, #stretching, #push"
+    followers: 6081
+    engagement: 1004
+    commentsToLikes: 0.087768
+    id: ck15sxuq8fcuw0i19r88uammr
+    verified: false
+    hashtags: "#bendy, #power, #yoga, #split"
 ---

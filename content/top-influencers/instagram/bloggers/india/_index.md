@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In India In 2020
 description: >-
-  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #kerala #influencer #india #kochi.
+  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #fashion #instagram #love #fashionblogger.
 platform: Instagram
+hits: 2733
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 2733 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "popy.__"
-    fullname: >-
-      وشنُ🦋
-    location: "India"
-    followers: 8227
-    engagement: 1528
-    commentsToLikes: 0.164624
-    id: ck9wgp8i1udha0j78pjte341g
-    verified: false
-    hashtags: "#trivandrum, #keralatourism, #kannur, #malayali"
   - username: "mr_charmer_tejas"
     fullname: >-
       👑MR TEJA$ PANDHARE👑
+    bio: >-
+      • fashion blogger | influencer 📷 • dm for callab | promotions 📩 • mr.ahmednagar top class of the fasion 2k20🏆 | • Professional Model | • ahmednagar |
     location: "India"
-    followers: 2948
-    engagement: 3318
-    commentsToLikes: 0.175062
+    followers: 6020
+    engagement: 3171
+    commentsToLikes: 0.156977
     id: ck9wfpqdipyf10j78tfb8wr2k
     verified: false
-    hashtags: "#fashion, #nightphotoshoot, #sunday, #keepsupporting"
-  - username: "ansu_emoboy"
+    hashtags: "#instadaily, #potrait, #swag, #fambruh"
+  - username: "ali_ansari_02"
     fullname: >-
-      🤘Anshad_Ansu🤪🤙
+      Call Me Ali✴️
+    bio: >-
+      BLOGGER | FASHION Managed by @gaurav_shendge_2828_ DM Collaboration/Paid Promotion DM for Paid Editing/Photoshoot PUNE📍2Dec🎂 Owner @aliphotography_02
     location: "India"
-    followers: 7182
-    engagement: 2858
-    commentsToLikes: 0.087437
-    id: ck9whp5e7ywxw0j786tw6li19
+    followers: 70967
+    engagement: 1419
+    commentsToLikes: 0.041395
+    id: ckf5od5u01s7a0j23szl85043
     verified: false
-    hashtags: "#mideling"
-  - username: "thakku__zayn"
+    hashtags: ""
+  - username: "simon_sava"
     fullname: >-
-      Aju is great
+      Simon Sava
+    bio: >-
+      • Travel Blogger & Lifestyle • Doctor 📩 savvasimon@gmail.com
     location: "India"
-    followers: 11325
-    engagement: 1777
-    commentsToLikes: 0.107407
-    id: ck9wganbmskvu0j78uhinj6fk
+    followers: 207481
+    engagement: 485
+    commentsToLikes: 0.035239
+    id: ck0vzfq5k8vyy0i19d8atzj2a
     verified: false
-    hashtags: "#instavibes, #keralafood, #quarantine, #hijqbiblogger"
+    hashtags: ""
+  - username: "nikita_kanwar"
+    fullname: >-
+      shiny..seashells ..!
+    bio: >-
+      MODEL•FASHION BLOGGER•ARTIST DM for paid shoots only ..!! . . Born to be Himachali (Shimla) current city - Dil walo ka Sher Delhi ♥️
+    location: "India"
+    followers: 46504
+    engagement: 1424
+    commentsToLikes: 0.037638
+    id: ck6twsj7otubj0j71b9hdk446
+    verified: false
+    hashtags: "#boldncurvy, #fashiondesign, #lovemyself, #boldfashion"
+  - username: "belikehira"
+    fullname: >-
+      Hira Ahmed | Content Creator
+    bio: >-
+      Food•Fashion•Beauty Owns @thefantasypr Lifestyle Blogger 🦋 DM for PR & Collab. Lahore.
+    location: "India"
+    followers: 5267
+    engagement: 1323
+    commentsToLikes: 0.177364
+    id: ck6ty2upw1d040j71b4ssdzsm
+    verified: false
+    hashtags: "#modestfashion, #quarntine, #belikehira, #supportsmallbusiness"
   - username: "mr_maji_4.12"
     fullname: >-
       𝐏𝐚𝐫𝐭𝐡 𝐌𝐚𝐣𝐢𝐰𝐚𝐥𝐚 💖
+    bio: >-
+      • Fashion Blogger | Influencer 📷 • Managed By : @puneetsharma.in_ 👨‍💻 • Mail for Business Enquiries 📨 • Surat #majifam Subscribe To My YouTube👇
     location: "India"
-    followers: 75489
-    engagement: 1424
-    commentsToLikes: 0.048508
+    followers: 126532
+    engagement: 1348
+    commentsToLikes: 0.029704
     id: ck9wg2dfhrlbk0j78wq0hmz56
     verified: false
-    hashtags: "#bloggerlife, #newlook, #look, #fashion"
-  - username: "aamir_khhan"
+    hashtags: "#majifam, #forever, #keepsupporting, #coffeeskincare"
+  - username: "dimitra__zaf"
     fullname: >-
-      AAMIR KHAN  Men's fashion
+      dimitra_zaf
+    bio: >-
+      Angelo's wife 👦💑👩 Josephine 👧, baby Apostolos 👶 & Jendai's 🐕 Mum 💗 Mini blogger 👑 Living in Greece 🇬🇷 but 50% Indian
     location: "India"
-    followers: 25193
-    engagement: 726
-    commentsToLikes: 0.123717
-    id: ck8t7gnatgq7a0j7803v0m16d
+    followers: 7425
+    engagement: 1093
+    commentsToLikes: 0.731605
+    id: ck5q409lxn62p0i11z1lnhv6l
     verified: false
-    hashtags: "#covid, #facewash, #quarantinelife, #socialawareness"
-  - username: "mayank_1o"
+    hashtags: "#babygirl, #kidzfashion, #kidsmodel, #babymodel"
+  - username: "ka_chu_kashif"
     fullname: >-
-      Use me 😁 🌙
+      كاشف منحاجً 
+    bio: >-
+      ▪️Tiktoker | Actor ▫️FreeLance Model | Fashion Blogger | Influencer ▪️Kerala 📍 ▫️📧 E-mail me For collab enquiries// ▪️ @kachukashif32@gmail.com📧
     location: "India"
-    followers: 33696
-    engagement: 1136
-    commentsToLikes: 0.054154
-    id: ck14jtur8m5o50i19g2m49ori
+    followers: 51103
+    engagement: 870
+    commentsToLikes: 0.034346
+    id: ckaotstz2xcv60i78wd15srr5
     verified: false
-    hashtags: "#corona"
-  - username: "raizy_hasan"
+    hashtags: ""
+  - username: "s___h___a___r___u"
     fullname: >-
-      RaizY_JunaiD
+      🔘خان
+    bio: >-
+      ° Fashion | personal style blogger ° ° Working👔 @cad_modeling_company Si tu amor es verdadero, definitivamente te esperaré #🐀💖 مشى الله 🤲الحمد لله🖤
     location: "India"
-    followers: 84738
-    engagement: 1028
-    commentsToLikes: 0.037300
-    id: ckapby3o31q7d0i787wgpkxd6
+    followers: 6843
+    engagement: 1686
+    commentsToLikes: 0.157528
+    id: ck9whsperzba50j78zp1hw94k
     verified: false
-    hashtags: "#model, #dubaimodel, #keepsmile, #pet"
-  - username: "komalvermaofficial"
+    hashtags: "#nanban, #like4follow, #bloggers, #mallus"
+  - username: "anjalivasava7"
     fullname: >-
-      @KomalVerma
+      𝘼𝙣𝙟𝙖𝙡𝙞 𝙫𝙖𝙨𝙖𝙫𝙖
+    bio: >-
+      Working on making my dreams come true. One bad chapter doesn’t mean your story is over 💓 fashion blogger |
     location: "India"
-    followers: 18796
-    engagement: 795
-    commentsToLikes: 0.073450
-    id: ck136dy8e60n70i19deinga64
+    followers: 62903
+    engagement: 724
+    commentsToLikes: 0.061886
+    id: ck14lprhpvvhj0i192r2hloc8
     verified: false
-    hashtags: "#newmommy, #fabuloussong, #fishingaddict, #fashiongirl"
-  - username: "thebuddingtraveler"
-    fullname: >-
-      Pooja Yadav
-    location: "India"
-    followers: 11909
-    engagement: 1911
-    commentsToLikes: 0.048922
-    id: ck0w0ispkef390i19xrdhw48d
-    verified: false
-    hashtags: "#contentcreator, #chhoriionroad, #instapic, #roadtrippin"
+    hashtags: "#geometric, #lineart, #blackandwhite, #artist"
 ---

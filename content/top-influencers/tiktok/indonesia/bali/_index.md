@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Bali In 2020
 description: >-
-  Find top TikTok influencers in Bali in 2020. Most popular hashtags: #traveldiaries #blackpink #covid19 #coronavirus.
+  Find top TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #duet #foryoupage #bali.
 platform: TikTok
+hits: 112
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 112 TikTok influencers like this in Bali, Indonesia for you to work with.
 profiles:
-  - username: "ketua_raffa"
+  - username: "shantyjuliyani07"
     fullname: >-
-      KETUA_KTG_M.Raffa
+      TTCS/THC.founder shanty
+    bio: >-
+      like aku pasti aku like balik
     location: "Indonesia"
-    followers: 2734
-    engagement: 4075
-    commentsToLikes: 0.100619
-    id: ck9ev19q5gcfr0j785o9jdalt
+    followers: 7270
+    engagement: 4757
+    commentsToLikes: 0.200257
+    id: ckcpukc4fpqjf0j2377hnvw6z
     verified: false
-    hashtags: "#silaturahmisetiaphari, #im3ooredoo, #foryoupagechallenge, #ramadhandapatapa"
-  - username: "yellow_alien"
+    hashtags: ""
+  - username: "akuocha"
     fullname: >-
-      𝖆 𝖗 𝖎 📷
+      ocha
+    bio: >-
+      19 balinese business inq @ochamg (on line) 📩 ochamega03@gmail.com
     location: "Indonesia"
-    followers: 2646
-    engagement: 1140
-    commentsToLikes: 0.121014
-    id: cka6iukdss6q10i78thme6g4w
-    verified: false
-    hashtags: "#duet, #bosen, #itzy, #komentarnetizen"
-  - username: "camandkels"
+    followers: 2900000
+    engagement: 1988
+    commentsToLikes: 0.013997
+    id: ckc1u5vjzydwb0j23n9nf4pcw
+    verified: true
+    hashtags: "#transition, #ichiocha, #transitioner, #effort"
+  - username: "tyoragil1904"
     fullname: >-
-      Cam and Kels 
+      Tyo Ragil🇮🇩
+    bio: >-
+      📍Badung, BALI🌴 FOR MORE 👉DM Grub Wa 👇
     location: "Indonesia"
-    followers: 7412
-    engagement: 554
-    commentsToLikes: 0.037063
-    id: ck9fme94ft2n40j78bx0jig2x
+    followers: 24800
+    engagement: 1784
+    commentsToLikes: 0.072456
+    id: ckavp1wmkzzdf0j23zm3r2qbo
     verified: false
-    hashtags: "#periodproblems, #reallifeathome, #breakfast, #koalachallenge"
-  - username: "positivlytunes"
+    hashtags: "#winwithasmile, #jadiawsem, #awesomeisus, #foryoupage"
+  - username: "ngakanbonchell"
     fullname: >-
-      Tooneytunes 
+      AJIK KABE🏝
+    bio: >-
+      🏠Gianyar, Bali Help 1K instagram Bantu 100k ges😭 ↘️Donasi seikhlasnya Bund↙️
     location: "Indonesia"
-    followers: 7305
-    engagement: 273
-    commentsToLikes: 0.063936
-    id: ck81quvick2130j78sg350vg3
+    followers: 85200
+    engagement: 911
+    commentsToLikes: 0.053486
+    id: ckcopxcil72iq0j23fwmlyjzd
     verified: false
-    hashtags: "#futuretech, #sharpie, #adventure, #strawberies"
-  - username: "backpackertampan"
+    hashtags: "#mobilelegends, #mobilelegendindonesia, #ngakanbonchell, #kaguratiktok"
+  - username: "typmeup"
     fullname: >-
-      tampan
+      Typo Queeen🎀
+    bio: >-
+      bALi h03/crackhead no in between For fun only<3
     location: "Indonesia"
-    followers: 114272
-    engagement: 835
-    commentsToLikes: 0.019899
-    id: ck8kjxev8wpgy0j78iidyn8n7
+    followers: 39200
+    engagement: 1623
+    commentsToLikes: 0.022425
+    id: ckbqdfnm2zf5q0j23afdlpsho
     verified: false
-    hashtags: "#keren, #orangkaya, #boyfriend, #girlfriend"
-  - username: "whatsthevideo"
+    hashtags: "#duet, #gabutdoang"
+  - username: "ayusheilani"
     fullname: >-
-      whatsthehelen
+      Ayu Sheilani
+    bio: >-
+      📍Bali
     location: "Indonesia"
-    followers: 24677
-    engagement: 909
-    commentsToLikes: 0.022654
-    id: ck84m700gm14p0j781g5zlb4y
+    followers: 12300
+    engagement: 505
+    commentsToLikes: 0.083850
+    id: ckceiw74ardvs0j23zgf3fhvj
     verified: false
-    hashtags: "#seaplane, #traveltiktok, #snow, #yummychallenge"
-  - username: "workout_calisthenics"
+    hashtags: "#duet, #fyp, #boyfriendday"
+  - username: "erilegas"
     fullname: >-
-      J O O B A Y • 🇮🇩
+      Chill-Kid
+    bio: >-
+      Bali kid🏝 Just to busy having fun
     location: "Indonesia"
-    followers: 57793
-    engagement: 315
-    commentsToLikes: 0.028226
-    id: ck83wyynyn59j0j78613dw8il
+    followers: 38100
+    engagement: 421
+    commentsToLikes: 0.070399
+    id: ckc8iwpqfcfqf0j232nib7qvg
     verified: false
-    hashtags: "#justforfun, #pushups, #tutorial, #quarantine"
-  - username: "alanmaulana542"
+    hashtags: "#sign, #aries, #foryou, #omnibuslaw"
+  - username: "sptrakori_"
     fullname: >-
-      ITP ADM_Alan Maulana
+      sptrakori_
+    bio: >-
+      Bali🇮🇩 NANYAK LAGI LU! QNA NGAKAKK!!😭🤣 ⬇️Buruan cek sekarang⬇️
     location: "Indonesia"
-    followers: 3010
-    engagement: 4759
-    commentsToLikes: 0.219855
-    id: ck9ex6livpyvv0j78imt5yaan
+    followers: 1600000
+    engagement: 1889
+    commentsToLikes: 0.012450
+    id: ckc8vz2mzj5nd0j230vzcn62m
     verified: false
-    hashtags: "#teafamily, #vira, #kaltim, #tiktokvirall"
-  - username: "pinkpinkstella"
+    hashtags: "#canrelate, #fyp, #foryou, #foryoupage"
+  - username: "dikaagans__"
     fullname: >-
-      Stella
+      Dikaaaa
+    bio: >-
+      Gianyar-Bali 🇮🇩 ig :: @Dika_958
     location: "Indonesia"
-    followers: 52590
-    engagement: 822
-    commentsToLikes: 0.047702
-    id: ck9k7hxp04z0r0j78tezdkyw7
+    followers: 18800
+    engagement: 1342
+    commentsToLikes: 0.054982
+    id: ckbkpyramk6vh0j23wna6izbq
     verified: false
-    hashtags: "#instagram, #partofyourworld, #pinkpajamas, #superhero"
-  - username: "ayambakar69"
+    hashtags: "#fypbali, #zoommyface, #dc, #dct"
+  - username: "dr.mariojohan"
     fullname: >-
-      Kryannedayee
+      dr.Joee
+    bio: >-
+      🇮🇩 Bali Health & Relationship Business Inquiry DM IG @joeandzie
     location: "Indonesia"
-    followers: 7777
-    engagement: 709
-    commentsToLikes: 0.039521
-    id: ck8kfdneidm1a0j78o1xm3p5o
+    followers: 145800
+    engagement: 840
+    commentsToLikes: 0.028421
+    id: ckc3dxkofz6bv0j231wxmgj9k
     verified: false
-    hashtags: "#foryoupag, #bananachallenge, #miniheartattack, #thebox"
+    hashtags: "#samasamabelajar, #duet, #tiktokpintar, #kisahmistis"
 ---

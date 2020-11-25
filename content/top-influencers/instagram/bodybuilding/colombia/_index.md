@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Colombia in 2020. Most popular hashtags: #bodybuilding #fitness #lifestyle #body.
+  Find top bodybuilding Instagram influencers in Colombia in 2020. Most popular hashtags: #bodybuilding #fitness #workout #gym.
 platform: Instagram
+hits: 34
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 34 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "andreitamtb"
+  - username: "lilkim_arias"
     fullname: >-
-      🚵ANDREITA💣
+      K I M
+    bio: >-
+      📍From Adz. 👩🏼‍🎓Marketing. Gym Lover🏋🏼‍♀️Healthylifestyle💪🏽 Owner @adzfitmarket 🌴@theblacklion30 🖤 🐾Kina, Brownie, lucky & Nala🐾
     location: "Colombia"
-    followers: 50074
-    engagement: 563
-    commentsToLikes: 0.039105
-    id: ck138u2fli0r60i19nx75j4z0
+    followers: 6760
+    engagement: 1165
+    commentsToLikes: 0.057399
+    id: ckap19d0rtlwd0i78j2da9aoi
     verified: false
-    hashtags: "#girlgamer, #cuarentena, #powergirl, #mtbcolombia"
-  - username: "jean._.duque"
+    hashtags: "#bikinigirl, #gymlove, #caribbeangirl, #naturalbodybuilding"
+  - username: "maleja__fitness"
     fullname: >-
-      Jean Carlos Duque
+      ✨MalejaFitness✨
+    bio: >-
+      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Creadora @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
     location: "Colombia"
-    followers: 28162
-    engagement: 1134
-    commentsToLikes: 0.019667
-    id: ck6u9es5rx57v0j71vm3pz27a
+    followers: 52587
+    engagement: 185
+    commentsToLikes: 0.202511
+    id: ck6ub52tt7ihr0j71agebuhxm
     verified: false
-    hashtags: "#sports, #instagram, #bope, #dress"
-  - username: "michi_bsa"
+    hashtags: "#fitgirls, #fitnessmotivation, #healthy, #powergirl"
+  - username: "marianelamodel"
     fullname: >-
-      Javier Barsi 🇨🇴
+      Marianela💋Ramos
+    bio: >-
+      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
     location: "Colombia"
-    followers: 42666
-    engagement: 428
-    commentsToLikes: 0.047798
-    id: ck5hmy2szmuei0i11u9dub8el
+    followers: 62036
+    engagement: 608
+    commentsToLikes: 0.034867
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#relax, #chill, #positivevibes, #strong"
-  - username: "dahiabetancur"
+    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
+  - username: "fuqueneifbbpro1"
     fullname: >-
-      DaHiAnA BeTaNcUr  🌸 👀
+      Esteban Fuquene | IFBB PRO🇨🇴
+    bio: >-
+      💍@valeriapinzon ONLINE COACH: @team__bully ATLHETE: @mhpstrongusa | @teamdbss | @landerlanamerica #TEAMTUOR🖤 Youtube 👇🏻🎥
     location: "Colombia"
-    followers: 21358
-    engagement: 281
-    commentsToLikes: 0.114714
-    id: ck5zpekqcsj620i14rtne7liv
+    followers: 30601
+    engagement: 223
+    commentsToLikes: 0.028068
+    id: ck5hryp1avpgq0i11k77ehskm
     verified: false
-    hashtags: "#cuerpower, #trensuperior, #abrilview, #positivelife"
-  - username: "martalopezalamo"
+    hashtags: "#lean, #bodybuilders, #walkergroupfamily, #mhpstrong"
+  - username: "yermahin_balance7"
     fullname: >-
-      MARTA LÓPEZ ÁLAMO
+      Yermahin Solorzano
+    bio: >-
+      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
     location: "Colombia"
-    followers: 160044
-    engagement: 269
-    commentsToLikes: 0.034894
-    id: ck5zvpp4g4ooo0i1444p6ti33
-    verified: true
-    hashtags: "#prozis, #selfie, #prettylittlething, #facetimeshoot"
-  - username: "taritarodriguez"
-    fullname: >-
-      T A R A  R O D R Í G U E Z 🔷
-    location: "Colombia"
-    followers: 37091
-    engagement: 151
-    commentsToLikes: 0.149754
-    id: ck6ub53z17ipy0j71z79hildu
+    followers: 10815
+    engagement: 543
+    commentsToLikes: 0.025440
+    id: ckf5ptix078d40j2303t8diff
     verified: false
-    hashtags: "#quedateencasa, #sinestereotipos, #tallasplus, #sinbullying"
-  - username: "karinagrau"
+    hashtags: "#city, #goals, #artist, #dance"
+  - username: "carlosalix"
     fullname: >-
-      Karina Grau
+      Carlos Alix
+    bio: >-
+      🔬Investigando sobre ejercicio y🧠 🎓BSc & MSc in Sport Sciences 🤓PhD student 🧬LifePro Scientific Advisor 🎧AudioFit & BazmanTeam 🔴YouTube:Carlos Alix ⬇️
     location: "Colombia"
-    followers: 86068
-    engagement: 112
-    commentsToLikes: 0.165884
-    id: ck15r9ref6uws0i19yhyahfp9
+    followers: 14122
+    engagement: 635
+    commentsToLikes: 0.037961
+    id: ck0vwxbc8w1lj0i19pirq40b3
     verified: false
-    hashtags: "#sololosmejores, #mrolympia, #womensphysique, #stayfit"
-  - username: "suzanne_tr"
+    hashtags: "#carlosalix, #fatiga, #aprendizaje, #fitness"
+  - username: "yeimiserrano1"
     fullname: >-
-      Susana Tapias Restrepo
+      YEIMY SERRANO✨
+    bio: >-
+      MAMÁ BLOGUERA | 25 TikTok [+2.1] Ing. Civil Esp. Gerencia e Interventoria. Entrenadora Atleta crossfit Publicidades al DM @elbauldemarialucia
     location: "Colombia"
-    followers: 5707
-    engagement: 1248
-    commentsToLikes: 0.052380
-    id: ck6u7o4aamo8z0j71uphym2qm
+    followers: 119581
+    engagement: 250
+    commentsToLikes: 0.046191
+    id: ck6uf4c0sutfk0j71puap3er4
     verified: false
-    hashtags: "#positive, #goodenergy, #loveyourlife, #hustle"
-  - username: "maxmurillopro"
+    hashtags: "#photooftheday, #instahealth, #igbabies, #fitnessmodel"
+  - username: "lulubarrera13"
     fullname: >-
-      Natural PRO Athlete/Coach 🇨🇷
+      🌟LULU🌟MaZeL ToV❤️🐱
+    bio: >-
+      🇨🇴DEPORTISTA⚽️🏃🏼‍♀️🥏❤️.Embajadora: @divas_rubenecheverry @smartnutritioncolombia @rippedstorecolombia @fitness24seven_colombia
     location: "Colombia"
-    followers: 120303
-    engagement: 387
-    commentsToLikes: 0.010352
-    id: ck5bybwwtov8l0i11l5dok634
+    followers: 171600
+    engagement: 183
+    commentsToLikes: 0.015702
+    id: ck5qchn9cqm4z0i11rtgkcgof
     verified: false
-    hashtags: "#quarantineprogress, #fitness, #naturalproathlete, #chill"
-  - username: "kuhubhosle"
+    hashtags: "#workout, #relaxtime, #loveyourself, #girl"
+  - username: "carolinagiraldofitness"
     fullname: >-
-      Kuhu Bhosle
+      Caro ♥ ᶫᵒᵛᵉ
+    bio: >-
+      🧎🏽‍♀️|God's warrior 👏🏼 👩🏼‍🎓|Business administrator 🏋🏼‍♂️|Fitness woman 🍑 🏆|Embassador @megaplexstars ✰ 🛍| @carofit_tips_store 🛒 👙|@carola__swimwear
     location: "Colombia"
-    followers: 7310
-    engagement: 874
-    commentsToLikes: 0.021578
-    id: ck6tsfsdk4isj0j71yy3w18e5
+    followers: 44459
+    engagement: 137
+    commentsToLikes: 0.010608
+    id: ck9wg45rgrtg50j78f4bdue94
     verified: false
-    hashtags: "#womencrushwednesday, #rideordie, #love, #sheruclassiclatinamerica"
+    hashtags: "#balenciaga, #woman, #bodybuilding, #yomequedoencasa"
+  - username: "brianaceros"
+    fullname: >-
+      Brian Aceros
+    bio: >-
+      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
+    location: "Colombia"
+    followers: 17575
+    engagement: 189
+    commentsToLikes: 0.014863
+    id: ckf5uc22akc360j23mvemqqlo
+    verified: false
+    hashtags: "#motivation, #getfit, #fitnessgirl, #gymlife"
 ---

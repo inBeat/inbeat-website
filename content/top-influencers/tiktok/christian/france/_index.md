@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In France In 2020
 description: >-
-  Find top christian TikTok influencers in France in 2020. Most popular hashtags: #dance #challenge #christiangrey #love.
+  Find top christian TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #duo #love.
 platform: TikTok
+hits: 32
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 32 TikTok influencers like this in France for you to contact.
 profiles:
-  - username: "pdg_225"
+  - username: "sarai_riou"
     fullname: >-
-      Pdg_225
+      sarai_riou
+    bio: >-
+      19 ✝️ Réseaux dans mon linktree ⬇️⬇️⬇️
     location: "France"
-    followers: 10202
-    engagement: 1519
-    commentsToLikes: 0.079432
-    id: cka0hj02m9dtf0i786w0u5hw2
+    followers: 117200
+    engagement: 1296
+    commentsToLikes: 0.032927
+    id: ck81qvabik5ue0j785wd82xjr
     verified: false
-    hashtags: "#star, #bazzichallenge, #pourtoupage, #fastfood"
-  - username: "blackiemeit_"
+    hashtags: ""
+  - username: "zeytooun"
     fullname: >-
-      blackie
+      Disciple de Dieu
+    bio: >-
+      ✨ JÉSUS FIRST ✨ Ambassadeur de @elevated_cross (insta) Suis moi sur instagram ⏬
     location: "France"
-    followers: 39517
-    engagement: 1744
-    commentsToLikes: 0.039020
-    id: cka0fvapa1asz0i78rzvsnok7
+    followers: 108900
+    engagement: 1275
+    commentsToLikes: 0.153892
+    id: ckavclmh2kgua0j23gnukodp1
     verified: false
-    hashtags: "#couplegoals, #mere, #blindinglights, #traduisca"
-  - username: "nisskissbih"
+    hashtags: "#reponseauxcomms, #chretien, #jesus, #jesuschrist"
+  - username: "rusalka77"
     fullname: >-
-      Its3nissa❤️
+      rusalka77
+    bio: >-
+      𝔄𝔯𝔱, 𝔪𝔲𝔰𝔦𝔠, 𝔞𝔫𝔡 𝔪𝔢𝔪𝔢𝔰. 🥀 Jojo ruined me Instagram: ru.sa.lka
     location: "France"
-    followers: 49294
-    engagement: 970
-    commentsToLikes: 0.050594
-    id: ckamszw06sk2m0i78xorwaywb
+    followers: 14500
+    engagement: 1994
+    commentsToLikes: 0.022439
+    id: ckb9bfaxhxhkx0j23n4sb1d17
     verified: false
-    hashtags: "#blebekblebek, #latino, #christianity, #tutorial"
+    hashtags: "#lesbian, #cursed, #cursedmeme, #4u"
+  - username: "unmecjaune"
+    fullname: >-
+      Dymi
+    bio: >-
+      suivez-moi si vous l'osez ! on monte aux 5k doucement mais sûrement les potes
+    location: "France"
+    followers: 3281
+    engagement: 1064
+    commentsToLikes: 0.101382
+    id: ckbf94n8lzy280j23kfrwnodt
+    verified: false
+    hashtags: "#acteur, #hxh, #drole, #acting"
+  - username: "mathildecmr"
+    fullname: >-
+      Mathilde Cmr
+    bio: >-
+      Jésus Christ ou rien ✝️ Je vous aime mais Christ plus que moi ☺️❤️
+    location: "France"
+    followers: 33900
+    engagement: 1601
+    commentsToLikes: 0.020036
+    id: cka0mdvnuuvg50i784mpysvfe
+    verified: false
+    hashtags: "#foryou, #fyp, #jesus, #bible"
+  - username: "mllemilleet1couleurs"
+    fullname: >-
+      Une fille simple
+    bio: >-
+      Believer 🤲🏻
+    location: "France"
+    followers: 22900
+    engagement: 974
+    commentsToLikes: 0.178726
+    id: ckcpa9yqrepqv0j23a11xuos1
+    verified: false
+    hashtags: "#pourtoi, #reponse, #homme, #duo"
   - username: "latino_kabyle"
     fullname: >-
       Nas
+    bio: >-
+      
     location: "France"
-    followers: 8082
-    engagement: 621
-    commentsToLikes: 0.060359
+    followers: 9107
+    engagement: 633
+    commentsToLikes: 0.052949
     id: cka0hjtr99kla0i789wjybp27
     verified: false
-    hashtags: "#beurette, #love, #comedia, #foryoup"
-  - username: "karinelouane"
+    hashtags: "#fitness, #arab, #menstyle, #tiktok"
+  - username: "allocine"
     fullname: >-
-      Team 80/90
+      AlloCiné
+    bio: >-
+      Ne restez pas simple spectateur. 🍿 #horaires #trailers #cinema #serie
     location: "France"
-    followers: 4328
-    engagement: 907
-    commentsToLikes: 0.118333
-    id: cka0fw0ax1hno0i7826e05i0j
-    verified: false
-    hashtags: "#termine, #allonsy, #nerispas, #gloss"
-  - username: "ragnar59440"
+    followers: 528700
+    engagement: 1465
+    commentsToLikes: 0.006567
+    id: ck999tza7ef2f0j78go481vsk
+    verified: true
+    hashtags: "#fauxraccord, #micheletmichel, #cinema, #pierreniney"
+  - username: "worldofcynthi_"
     fullname: >-
-      Ragnar59440
+      Worldofcynthi_
+    bio: >-
+      I love this app a little more every day This is where the fun stuff happen 😘
     location: "France"
-    followers: 12180
-    engagement: 1058
-    commentsToLikes: 0.050468
-    id: cka7r9auxe2wa0i78a6se4r6p
+    followers: 18900
+    engagement: 568
+    commentsToLikes: 0.099143
+    id: ckbf45m9hsbzd0j232nmbi69h
     verified: false
-    hashtags: "#starwars, #apero, #pumpchallange, #beforeandafter"
-  - username: "marvine131920"
-    fullname: >-
-      Irvine Amberto
-    location: "France"
-    followers: 7529
-    engagement: 417
-    commentsToLikes: 0.045989
-    id: cka0yvuw2cyjq0i78rjern3h9
-    verified: false
-    hashtags: "#poubelle, #tenues, #short, #brunette"
-  - username: "lauracourtine81"
-    fullname: >-
-      Laura 🌸
-    location: "France"
-    followers: 5083
-    engagement: 1095
-    commentsToLikes: 0.017975
-    id: ck9fc81t8inz70j78s8lyir96
-    verified: false
-    hashtags: "#oiseauchallenge, #decoupage, #model, #scoth"
-  - username: "inspiretoici"
-    fullname: >-
-      Inspire-toi ici
-    location: "France"
-    followers: 11857
-    engagement: 168
-    commentsToLikes: 0.025057
-    id: ckai0hpv27qsh0i78frt6oe09
-    verified: false
-    hashtags: "#eyeshadow, #sneakers, #nike, #princess"
+    hashtags: "#pourtoi, #tiktokfrance, #klausmikaelson, #tvdposts"
   - username: "_childoflord_"
     fullname: >-
       _childoflord_
+    bio: >-
+      AFRICA TO THE WORLD🌍 CHAÎNE YOUTUBE : ZIA SL Instagram: @_childoflord_
     location: "France"
-    followers: 13864
-    engagement: 1023
-    commentsToLikes: 0.021747
+    followers: 43800
+    engagement: 1497
+    commentsToLikes: 0.013239
     id: ckad46bminzwe0i78v4b2knte
     verified: false
-    hashtags: "#smart, #africainfier, #paris, #nigerian"
+    hashtags: "#onfleek, #getback, #selflove, #viral"
 ---

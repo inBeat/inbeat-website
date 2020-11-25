@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top fashion Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fashion #losangeles #love #model.
+  Find top fashion Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fashion #losangeles #model #style.
 platform: Instagram
+hits: 1166
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 1166 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "dreamoflondon"
+  - username: "lisslobos"
     fullname: >-
-      emilio romero
+      Lissette 🇲🇽
+    bio: >-
+      ✈️ Commercial/Instrument rated Pilot 📍Los Angeles-San Diego
     location: "United States"
-    followers: 19911
-    engagement: 1067
-    commentsToLikes: 0.022621
-    id: ck14gz1c97q660i19e3nhckmg
+    followers: 28931
+    engagement: 947
+    commentsToLikes: 0.026554
+    id: ck137zt27dtf70i195jn1qrkf
     verified: false
-    hashtags: ""
-  - username: "megan.costley"
+    hashtags: "#sandiego, #canon, #playa, #pilots"
+  - username: "lenoxknightofficial"
     fullname: >-
-      Megan Costley
+      Lenox Knight
+    bio: >-
+      ⭐️ Los Angeles, CA 🎭 SAG-AFTRA Actor 🎶 Singer 💃 Dancer 🎤 Host Agent @ctatheatrical Manager @angela_durden Personal @lenoxknightlife
     location: "United States"
-    followers: 33047
-    engagement: 188
-    commentsToLikes: 0.034106
-    id: ck0uapntzcsx30i194ldnavh4
+    followers: 45381
+    engagement: 462
+    commentsToLikes: 0.031242
+    id: ck5zn0a0knj7u0i14nxgwmuoj
     verified: false
-    hashtags: "#pandalny, #igkpartner, #ad, #igkhair"
-  - username: "michaelvincentacademy"
+    hashtags: "#fall, #halloween, #fashion, #losangeles"
+  - username: "emyreyes"
     fullname: >-
-      MVA- Adv Makeup, Hair
+      E M Y  R  E Y E S 🇩🇴
+    bio: >-
+      Work hard & be kind. 🦋
     location: "United States"
-    followers: 192864
-    engagement: 96
-    commentsToLikes: 0.011423
-    id: ck5bxawrand8n0i11qyy9i0mv
+    followers: 28280
+    engagement: 445
+    commentsToLikes: 0.102679
+    id: ck0tzqnzdr7r00i19cyunjzit
     verified: false
-    hashtags: "#students, #prayers, #keepthefaithalive, #dtla"
-  - username: "justbryang"
+    hashtags: "#collabs, #outfits, #photography, #blogger"
+  - username: "brendahuertaa_"
     fullname: >-
-      BRYAN
+      Brenda Huerta
+    bio: >-
+      💖 @bodiesbybrenda 📍LA | Chicago 👻Snapchat | brenda8299 💌DM or Email for collabs 🎥Youtube Channel👇🏼
     location: "United States"
-    followers: 7488
-    engagement: 2664
-    commentsToLikes: 0.046588
-    id: ck8wevs1ieogx0j78fh9ee0t4
+    followers: 4286
+    engagement: 756
+    commentsToLikes: 0.184693
+    id: ck5qb3gw2jmol0i11zdvt6kak
     verified: false
-    hashtags: "#streetwear, #pretty, #foryou, #modeling"
-  - username: "tylerjacobofficial"
+    hashtags: "#stylegram, #lookbook, #cute, #sections"
+  - username: "shotbyana"
     fullname: >-
-      TYLER JACOB
+      LA Photographer | Ana Ochoa 📷
+    bio: >-
+      Fashion, Lifestyle & Brand Photographer📸 Social Media Manager 👑 Monthly Content Creation & Website Design ✨ www.glowyour.com 💕
     location: "United States"
-    followers: 33657
-    engagement: 227
-    commentsToLikes: 0.080195
-    id: ck5zrevapwgg10i148rp2j77i
-    verified: true
-    hashtags: "#freestyle, #love, #sun, #keepgoing"
-  - username: "ace.trizz"
-    fullname: >-
-      A-Trizz
-    location: "United States"
-    followers: 7095
-    engagement: 907
-    commentsToLikes: 0.014035
-    id: ck6012j0peq1j0i14krm483h7
+    followers: 89937
+    engagement: 66
+    commentsToLikes: 0.053701
+    id: ck1349cs9vctt0i1949cex247
     verified: false
-    hashtags: "#rap, #hiphopartist, #jewelry, #lit"
-  - username: "sophiefergi"
+    hashtags: "#blacklivesmatter, #vitiligobeauty, #lamodel, #portrait"
+  - username: "theohypefilms"
     fullname: >-
-      Sophie Fergi
+      Theo Hype™
+    bio: >-
+      Director // DOP 🎥 #losangeles 🌴 #iconic #prolific #vision
     location: "United States"
-    followers: 1633272
-    engagement: 692
-    commentsToLikes: 0.024520
-    id: ck0vvbyevoggf0i19agqgacwf
+    followers: 12906
+    engagement: 298
+    commentsToLikes: 0.030948
+    id: ck0vzy2grbg1y0i19j570byew
     verified: false
-    hashtags: "#streetstyle, #squad, #masks, #stayhealthy"
-  - username: "hayleycphoto"
+    hashtags: "#cinematography, #lafw, #alexamini, #joshuatree"
+  - username: "amberlijahn"
     fullname: >-
-      Hayley Costey
+      Λ . JΛHN
+    bio: >-
+      ———————————— God is good خلق بنفسك 𝟲 ᴡᴇᴇᴋ ʙᴏᴏᴛʏ ɢᴜɪᴅᴇ Arbonne Area Manager
     location: "United States"
-    followers: 91695
-    engagement: 719
-    commentsToLikes: 0.014414
-    id: ck0w49j8qxgpi0i19v8fmp65q
+    followers: 14655
+    engagement: 314
+    commentsToLikes: 0.110387
+    id: ck9hbjaxth2zd0j7863barltq
     verified: false
-    hashtags: "#covid, #staycreative, #stayhealthy, #neighborlylove"
-  - username: "nima_photographyy"
+    hashtags: "#fit, #follow, #clothing, #influencer"
+  - username: "samanthacaudle9"
     fullname: >-
-      
+      DANCER CHOREOGRAPHER YOUTUBER
+    bio: >-
+      J Balvin, Wiz Kid, Jason Derulo, Pia Mia, Eric Bellinger, Sage the Gemini, Kalin White BOOKINGS: samanthacaudle9@gmail.com NEW FREE DANCE TUTORIAL 🔥⬇️
     location: "United States"
-    followers: 8572
-    engagement: 595
-    commentsToLikes: 0.017678
-    id: ck8tbcopnv58i0j78bvh0qo84
+    followers: 102069
+    engagement: 239
+    commentsToLikes: 0.017348
+    id: ck55ms7kz4nhm0i11nthkqf2s
     verified: false
-    hashtags: "#photoshop, #jeniferaniston, #fashion, #losangeles"
-  - username: "sunny_dais"
+    hashtags: "#hiphop, #style, #la, #dancing"
+  - username: "vc_makeupartist"
     fullname: >-
-      Daisy Torres
+      VALENTINA COSTA 𝗛𝗔𝗜𝗥 & 𝗠𝗔𝗞𝗘𝗨𝗣
+    bio: >-
+      𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹.𝗧𝗩.𝗙𝗶𝗹𝗺.𝗖𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲.𝗘𝗱𝗶𝘁𝗼𝗿𝗶𝗮𝗹.𝗥𝗲𝗱𝗖𝗮𝗿𝗽𝗲𝘁 Miami LA NYC Orlando I.A.T.S.E. 798 Licensed @WWE @FullSail Bookings + Brand Partnerships ⤵️
     location: "United States"
-    followers: 7566
-    engagement: 896
-    commentsToLikes: 0.077790
-    id: ck5bzuunxrvrq0i11efv6ug47
+    followers: 8006
+    engagement: 496
+    commentsToLikes: 0.031218
+    id: ck15u9r4qm4a50i19kwtf1pp7
     verified: false
-    hashtags: "#coachella2019, #fentybeautyfestival, #happinesseverywhere, #happysocks"
+    hashtags: "#celebritymakeupartist, #makeupartistworldwide, #redcarpet, #fashion"
+  - username: "surfwaveaton"
+    fullname: >-
+      surfwav.eatn
+    bio: >-
+      the waviest creature 3K🏄🏽‍♂️🌊
+    location: "United States"
+    followers: 3589
+    engagement: 1042
+    commentsToLikes: 0.085182
+    id: ck6tkmidy4zzi0j71hc1eiyiy
+    verified: false
+    hashtags: "#dankmemes, #corona, #fashion, #losangeles"
 ---

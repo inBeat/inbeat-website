@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top models Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubailife #dubaimodel #nature #positivevibes.
+  Find top models Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #model #dubai #fashion #dubaifashion.
 platform: Instagram
+hits: 242
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 242 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "azlam_ny"
+  - username: "mohd__esa"
     fullname: >-
-      Azlam NY
+      𝕸𝖔𝖍𝖉 𝖊𝖘𝖆
+    bio: >-
+      Model|Tiktoker|Businessman 🎓 - WUC 📗📍Dubai 🇦🇪 ⚠️ I'm addiction. closness can be dangerous ⚡ 💌 DM- paid collaborations ✍️ TikTok=Esa_.a 👻=Esakhakhan86
     location: "United Arab Emirates"
-    followers: 7637
-    engagement: 1437
-    commentsToLikes: 0.030603
-    id: ck8tbqkqzwq5u0j78kg2lffvt
-    verified: false
-    hashtags: "#rayban, #vansdubai, #manutd, #drone"
-  - username: "model_athraa"
-    fullname: >-
-      عذراءالـعبيدي||Athraa alobide
-    location: "United Arab Emirates"
-    followers: 145685
-    engagement: 458
-    commentsToLikes: 0.026223
-    id: ck5zt38v9znuj0i14mrnpvzms
+    followers: 35296
+    engagement: 926
+    commentsToLikes: 0.036882
+    id: ck9wp1u9g7fnu0j78c1qts05p
     verified: false
     hashtags: ""
-  - username: "lenaluneva_dxb"
+  - username: "therjacobs"
     fullname: >-
-      𝐿𝑒𝓃𝒶 𝐿𝓊𝓃𝑒𝓋𝒶
+      RHEA JACOBS 🧿
+    bio: >-
+      🍀Artist•Model•Creative 📩rhea_jacob@hotmail.co.uk 💡100 most influential Asians‘19‘17 💕Cosmo rising star 🔶Grazia Digital star nominee 🎓BA Fashion Hons
     location: "United Arab Emirates"
-    followers: 77528
-    engagement: 195
-    commentsToLikes: 0.094442
-    id: ck6u0g8ivfimt0j7184dhbs3n
+    followers: 30875
+    engagement: 328
+    commentsToLikes: 0.123863
+    id: ck0ub2c2odlp20i19ze9b7cxq
+    verified: true
+    hashtags: "#watsonsgcc, #30daysofbooks, #lookgoodfeelgreat, #thebeautifulgeneration"
+  - username: "shamss_model"
+    fullname: >-
+      شمس مودل shams model
+    bio: >-
+      Model,blogger Miss Iraq emigrant2019 Miss Arab Top Model .2020 Miss Arab Iraq 2020 📍dubai ‭+971 55 313 6843‬ @shams_hair_extensions ‭
+    location: "United Arab Emirates"
+    followers: 545488
+    engagement: 221
+    commentsToLikes: 0.034568
+    id: ckf5mv12pvj710j23w0oo2xh7
     verified: false
-    hashtags: "#dubaimodel, #sheinhaul, #burjalarab, #sunsetlover"
+    hashtags: "#bahrain, #black, #fashionstyle, #style"
+  - username: "yazxan"
+    fullname: >-
+      Yazz 🕴
+    bio: >-
+      Dubai 📍/ 🇹🇷 📽Tiktok : yazxan(200k+) ~ Model 🕴 Dm for promos 📥 👻Sc: yazan.mp
+    location: "United Arab Emirates"
+    followers: 10964
+    engagement: 1966
+    commentsToLikes: 0.060102
+    id: ckf5nzfh60cgk0j23ywi7o61s
+    verified: false
+    hashtags: "#men, #hotguys, #model, #likeforlikes"
+  - username: "cristini.janaina"
+    fullname: >-
+      Jana 🌸🇧🇷 🌎✈️ 🇦🇪
+    bio: >-
+      RV&CO Model: @rvandco_management Wanderlust🌟💫✈️🛫 I am discovering myself everyday so don’t be surprised and don’t label me 😜☺️
+    location: "United Arab Emirates"
+    followers: 17099
+    engagement: 346
+    commentsToLikes: 0.280619
+    id: ck8t3hvas3cz80j78qegya2b4
+    verified: false
+    hashtags: "#cartier, #look, #blonde, #model"
+  - username: "raizy_hasan"
+    fullname: >-
+      🙌JR💪
+    bio: >-
+      🚼SINCE 1998 FEB 1 MODEL🕺🏻 | BLOGGER🗣| ENTERTAINER🙋🏻‍♂️ LIVING AT DUBAI🇦🇪 | THE CITY OF DREAMS🌃
+    location: "United Arab Emirates"
+    followers: 88820
+    engagement: 783
+    commentsToLikes: 0.032110
+    id: ckapby3o31q7d0i787wgpkxd6
+    verified: false
+    hashtags: "#dubaimodel, #raizy, #dxbmodel, #uaemodel"
   - username: "misss_marlen"
     fullname: >-
       Professional Model in Dubai
+    bio: >-
+      🎬📽 Model for jewellery hairstyle, fashion UAE 🇦🇪👗👙💇‍♀️💍 Natural face🌸 ♊️ 🏃‍♀️Sport 👠Fashion 🎬Actress
     location: "United Arab Emirates"
-    followers: 34243
-    engagement: 210
-    commentsToLikes: 0.076470
+    followers: 46384
+    engagement: 203
+    commentsToLikes: 0.067852
     id: ck15q7ncx1h980i19vqik8bme
     verified: false
-    hashtags: "#visitdubai, #dubailife, #dubaishopping, #travelblogger"
+    hashtags: "#dubaimodels, #mydubai, #dubaifashion, #dubaiblogger"
+  - username: "azar_shazz"
+    fullname: >-
+      Azar
+    bio: >-
+      🇦🇪UAE🇦🇪 Influencer 🤙 Model & business KL14 💪
+    location: "United Arab Emirates"
+    followers: 67126
+    engagement: 304
+    commentsToLikes: 0.041322
+    id: ck9wg4tmtrwcw0j78886tei1n
+    verified: false
+    hashtags: "#dubaiburjkhalifa, #dubai, #casrodian, #fastionblogger"
   - username: "dudasilveira07"
     fullname: >-
       Maria Eduarda💋
+    bio: >-
+      • For work Enquiries contact me(DM) colabs • MODEL •ɑҍմ ժհɑҍí / Dubai 🇦🇪🐪 • • model | make up💄💋 | fashion • • Watch the stories😜 #model #fashion
     location: "United Arab Emirates"
-    followers: 5875
-    engagement: 1072
-    commentsToLikes: 0.104931
+    followers: 6150
+    engagement: 909
+    commentsToLikes: 0.105454
     id: ck15ulwhnntkd0i19u6a82rai
     verified: false
-    hashtags: "#collections, #makeupoftheday, #jalaba, #abudhabifoodies"
-  - username: "deakedinakarina"
+    hashtags: "#dubai, #modeling, #dubaimodels, #makeup"
+  - username: "josephinelecar"
     fullname: >-
-      Travel | Fashion | Hotels
+      JOSEPHINE
+    bio: >-
+      Dubai 📍 Model Digital marketing manager For social media inquiries : josephine@daze-mgmt.com
     location: "United Arab Emirates"
-    followers: 18506
-    engagement: 255
-    commentsToLikes: 0.104931
-    id: ck8ta1m8fq4bc0j78x4apok15
+    followers: 36801
+    engagement: 697
+    commentsToLikes: 0.019141
+    id: ck0vzq8d7ad310i191nwg3gb9
     verified: false
-    hashtags: "#prom, #canggulife, #bathroomdesign, #exploretheworld"
-  - username: "lolitabunyaeva"
-    fullname: >-
-      Lolita Bunyaeva. Dubai Model
-    location: "United Arab Emirates"
-    followers: 36309
-    engagement: 317
-    commentsToLikes: 0.037975
-    id: ckap05qi9ouya0i78r9b7cz3o
-    verified: false
-    hashtags: "#birthdaygirl, #modeling, #modeldubai, #justsmile"
-  - username: "irina_garasymiv"
-    fullname: >-
-      
-    location: "United Arab Emirates"
-    followers: 149385
-    engagement: 105
-    commentsToLikes: 0.098086
-    id: ckap53rvea2pm0i782ak93akf
-    verified: false
-    hashtags: "#meditation, #orange, #fashionweek, #misseurope2019"
-  - username: "samoylens"
-    fullname: >-
-      KSENIIA SAMOILENKO
-    location: "United Arab Emirates"
-    followers: 368586
-    engagement: 94
-    commentsToLikes: 0.043815
-    id: ck15rt43b9kg30i19ohk9waad
-    verified: false
-    hashtags: "#askchines, #covid19, #usesanitizer, #fashiononquqrantine"
-  - username: "mlkellyyy"
-    fullname: >-
-      Mary-Louise Kelly (MLK)
-    location: "United Arab Emirates"
-    followers: 17388
-    engagement: 359
-    commentsToLikes: 0.050163
-    id: ck6ub05f36prx0j711ffrbln3
-    verified: false
-    hashtags: "#extensions, #ginlover, #messer, #ponytail"
+    hashtags: "#freeuyghurs"
 ---

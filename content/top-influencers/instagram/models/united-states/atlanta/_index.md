@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top models Instagram influencers in Atlanta in 2020. Most popular hashtags: #model #film #atlanta #.
+  Find top models Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #fashion #model #models.
 platform: Instagram
+hits: 384
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 384 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
   - username: "elizabetholiverr"
     fullname: >-
       ELIZABETH OLIVER
+    bio: >-
+      uga x adpi img models worldwide select models atlanta & chicago
     location: "United States"
-    followers: 4455
-    engagement: 2184
-    commentsToLikes: 0.039487
+    followers: 4788
+    engagement: 2300
+    commentsToLikes: 0.042618
     id: ck0w0rjtqfooz0i1940h20ctu
     verified: false
-    hashtags: ""
-  - username: "iamgraceleann"
+    hashtags: "#awwburn"
+  - username: "sirenethereal"
     fullname: >-
-      Grace Evans
+      Astrid (she/her)
+    bio: >-
+      Chameleon Model Atlanta, USA @miles_models Contact 👇🏻
     location: "United States"
-    followers: 3518
-    engagement: 1617
-    commentsToLikes: 0.065347
-    id: ck5zpt0r4taku0i140gxbtqfe
+    followers: 25197
+    engagement: 321
+    commentsToLikes: 0.025630
+    id: ck0vz2r8e6zxi0i194rf3z6xx
     verified: false
-    hashtags: "#atlmodels, #atlmodel, #photography, #model"
-  - username: "model.bellabella"
+    hashtags: "#allthebeautifulthings, #adventure, #artphotography, #wanderlust"
+  - username: "hai_itscourtney"
     fullname: >-
-      🎬💞𝓑𝓮𝓵𝓵𝓪 𝓣𝓱𝓮 𝓜𝓸𝓭𝓮𝓵 & 𝓐𝓬𝓽𝓻𝓮𝓼𝓼 💞🎬
+      Courtney Monaé
+    bio: >-
+      Spread luv 💗| Singer 🎤| Model 👩🏾‍🦲| Vegan 🌱| Photographer 📸| Chains for sale ⛓ Curator of COLLECTIVES LINK 💫🦋🦄#COLLECTIVESLINK @collectiveslink 🧚🏾‍♀️
     location: "United States"
-    followers: 16487
-    engagement: 590
-    commentsToLikes: 0.025609
-    id: ck5bwngfmm19m0i110p5jd958
+    followers: 7861
+    engagement: 604
+    commentsToLikes: 0.125839
+    id: ck8t0nfmysnhc0j78o7mtauce
     verified: false
-    hashtags: "#california, #castingdirectors, #discoverpage, #filmfestival"
-  - username: "msgreekgoddess"
+    hashtags: "#fashion, #chicago, #clothing, #chitown"
+  - username: "drew_kendrick"
     fullname: >-
-      Christina Zangas
+      𝐃𝐫𝐞𝐰 | Content Creator + Model
+    bio: >-
+      #𝘍𝘢𝘴𝘩𝘪𝘰𝘯 + #𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 + #𝘍𝘪𝘵𝘯𝘦𝘴𝘴 | #𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘦𝘊𝘰𝘯𝘵𝘦𝘯𝘵 Creating professional content for brands and businesses✨ 📧: Kendrickenterprisesllc@gmail.com
     location: "United States"
-    followers: 16691
-    engagement: 254
-    commentsToLikes: 0.082930
-    id: ck5zk4oteisyw0i14ebgibbmr
+    followers: 29538
+    engagement: 130
+    commentsToLikes: 0.074307
+    id: ck5zk5nnkiuxs0i14m0b0d2r6
     verified: false
-    hashtags: "#love, #toddlerlife, #patiencechallenge, #atlantacasting"
-  - username: "nicole.nailyl"
+    hashtags: "#styleaddicted, #fashion, #swimsuitfashion, #shopmylook"
+  - username: "bigbossblossom"
     fullname: >-
-      🌿Nicole Nailyl🌸🌿
+      📍Atlanta , GA
+    bio: >-
+      HMU (515)209-9228 IF YOU NEED BEATS 🎶. Photogragher 📸 A Model 🌺 Or A Brand Ambassador 🎀Follow My PhotographyPage : @bigbphotos_
     location: "United States"
-    followers: 14068
-    engagement: 979
-    commentsToLikes: 0.038393
-    id: ck5zqw6ifvewo0i14301vie5k
+    followers: 24999
+    engagement: 243
+    commentsToLikes: 0.035981
+    id: ckap7whrtlvc30i787jymllox
     verified: false
-    hashtags: ""
-  - username: "jacklynvilichka__"
+    hashtags: "#brandambassador, #atlphotographer, #atlhair, #ladyphotographer"
+  - username: "reelrodman"
     fullname: >-
-      JACKLYN VILICHKA️
+      Rodman Randolph
+    bio: >-
+      SAG ‘Brock’ from @cwlegacies Actor @landrumartsla @ursulawiedmanntalent Modeling @ngmmodeling @ursulawiedmannmodels C/O- @3kings.atl @russ NewVideo👇🏽
     location: "United States"
-    followers: 4862
-    engagement: 1950
-    commentsToLikes: 0.055854
-    id: ck0tznbqmr0bb0i1937sikeaq
+    followers: 6225
+    engagement: 445
+    commentsToLikes: 0.151353
+    id: ck8tdrj8p4iia0j78oalebhat
     verified: false
-    hashtags: "#bloggerstyle, #monstergirl, #style, #ootdshare"
-  - username: "hairbylilliandion"
+    hashtags: "#businessowner, #atlfashion, #debargefamily, #atlanta"
+  - username: "pinkraye"
     fullname: >-
-      Lillian Dion
+      Raven Alyssia Brown
+    bio: >-
+      24 ♓️ Dreamer. Creator. Fashion Designer. Model. CAU Alumna. Atlanta @_thepinkrayeaffect
     location: "United States"
-    followers: 2233
-    engagement: 605
-    commentsToLikes: 0.177406
-    id: ck15q054x0hi00i19g97seuff
+    followers: 8489
+    engagement: 327
+    commentsToLikes: 0.050541
+    id: ck602j07jhhsc0i1413d54819
     verified: false
-    hashtags: "#makeawig, #filmstar, #marcelwavess, #hollywoodwaves"
-  - username: "silverandsmiling"
+    hashtags: "#hollywood, #atlantamodels, #hollywoodstudios, #customdesigns"
+  - username: "ladynikoru"
     fullname: >-
-      Mitzie McDonnell
+      LADY ♡ NIKORU
+    bio: >-
+      🎮 | Model • Gamer • Cosplayer 👩🏻‍🎓 | Doctorate Degree Student
     location: "United States"
-    followers: 7291
-    engagement: 2532
-    commentsToLikes: 0.051457
-    id: ckaosdd59r62i0i78f8fpl5ly
+    followers: 107096
+    engagement: 300
+    commentsToLikes: 0.028077
+    id: ckap8y20eqdx10i78logi4wqa
     verified: false
-    hashtags: ""
-  - username: "moncherielle"
+    hashtags: "#otaku, #cosplaygirl, #modeling, #cosplayersofinstagram"
+  - username: "amiraliakbari60"
     fullname: >-
-      Ariel Yasmine
+      Amirali Akbari
+    bio: >-
+      World Champion Wrestler 10-1 @onechampionship Heavyweight Fighting out of Tehran🇮🇷 For all business inquiries, email: mis@pridelandmanagement.com
     location: "United States"
-    followers: 152793
-    engagement: 597
-    commentsToLikes: 0.010291
-    id: ck13cx4kt2lgp0i19enq93dqv
+    followers: 2064130
+    engagement: 1724
+    commentsToLikes: 0.020195
+    id: ck5zl0z2gkj3b0i14qqq4kvp9
     verified: true
-    hashtags: "#nationalgreenjuiceday, #imjokingplzloveme"
-  - username: "julianacifuentesofficial"
+    hashtags: "#one, #mixedmartialarts, #fights, #fighter"
+  - username: "_erinsnow"
     fullname: >-
-      Juliana Cifuentes
+      ERIN SNOW
+    bio: >-
+      📍Atlanta health account: @wellnessandwine_ The Block Agency Sherri Hill Monster Energy
     location: "United States"
-    followers: 23733
-    engagement: 2399
-    commentsToLikes: 0.002513
-    id: ck0vxvope0ywr0i19h088zeuy
+    followers: 20978
+    engagement: 657
+    commentsToLikes: 0.020690
+    id: ck6u6c3tweqfz0j71s21ic5q3
     verified: false
-    hashtags: "#lovehonortrust, #timessquare, #acting, #brenauuniversity"
+    hashtags: "#bridalmodel, #yikes, #model, #atlantamodel"
 ---

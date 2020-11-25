@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Miami In 2020
 description: >-
-  Find top bloggers Instagram influencers in Miami in 2020. Most popular hashtags: #quarantine #miami #blogger #staysafe.
+  Find top bloggers Instagram influencers in Miami in 2020. Most popular hashtags: #blogger #miami #makeup #miamiinfluencer.
 platform: Instagram
+hits: 202
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 202 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "natalie.engelbrecht"
+    fullname: >-
+      ＮＡＴＡＬＩＥ  ＥＮＧＥＬＢＲＥＣＨＴ
+    bio: >-
+      𝒻𝒶𝓈𝒽𝒾𝑜𝓃 • 𝓁𝓊𝓍𝓊𝓇𝓎 • 𝓁𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 • 𝓉𝓇𝒶𝓋𝑒𝓁 house wife + full time blogger #miami // #knoxville
+    location: "United States"
+    followers: 10066
+    engagement: 261
+    commentsToLikes: 0.297836
+    id: ck8t0ni8tsnrc0j784pgw0rqy
+    verified: false
+    hashtags: "#happystreaming, #ad, #rokuos"
   - username: "nandaquero"
     fullname: >-
       Nanda Quero
+    bio: >-
+      Makeup Artist Youtuber Beauty Blogger Miami 📍/ LA / NY Bookings - nanda@nandaquero.com www.nandaquero.com #makeupbynandaquero
     location: "United States"
-    followers: 34370
-    engagement: 324
-    commentsToLikes: 0.079968
+    followers: 34909
+    engagement: 250
+    commentsToLikes: 0.051610
     id: ck0w76yd2c2fd0i19f3ztzb5i
     verified: false
-    hashtags: "#gimmebrow, #quarantinemood, #props, #editorialmakeup"
-  - username: "danilabory"
+    hashtags: "#creativemakeup, #makeup, #garnierpartner, #makeupartist"
+  - username: "mariandre_vs"
     fullname: >-
-      Dani | Lifestyle Blogger
+      МARIA ANDREINA VERA
+    bio: >-
+      •MD. Ophthalmologist👁&Neurology Resident🧠 •Cleveland Clinic. PGY-2 & Researcher. •Fashion• Beauty• Med Life 👩🏼‍⚕️🇻🇪 •Miami, FL📍
     location: "United States"
-    followers: 28683
-    engagement: 410
-    commentsToLikes: 0.133185
-    id: ck55o5l197o7k0i112p0u34hd
+    followers: 36973
+    engagement: 477
+    commentsToLikes: 0.036404
+    id: ck5q90ek48srj0i11fvsx0eik
     verified: false
-    hashtags: "#beachwear, #workingfromhome, #latinablogger, #pompanobeach"
-  - username: "melanie_ortz"
+    hashtags: "#blogger, #miamiblogger, #medicaldoctorlife, #miamilifestyle"
+  - username: "juliamarrero"
     fullname: >-
-      ♥Melanie♥
+      J U L I A • M A R R E R O
+    bio: >-
+      Mother #Beauty | #Fashion | #Lifestyle Entrepreneur 🎥 On-Air beauty expert @ladivadelabelleza YouTube.com/juliamarrerotv 📩 Juliamarrero8@gmail.com
     location: "United States"
-    followers: 136785
-    engagement: 330
-    commentsToLikes: 0.062366
-    id: ck5c31rciyfix0i113s4ifc2f
+    followers: 83979
+    engagement: 158
+    commentsToLikes: 0.047627
+    id: ck13d5uew3tjd0i19e2691qk7
     verified: false
-    hashtags: "#blogger, #miamibloggers, #tbt, #fthecorona"
-  - username: "nstantremedy"
+    hashtags: "#influencer, #foodblogger, #miamifashionblogger, #scoop"
+  - username: "dgaycia"
     fullname: >-
-      VI.XXIV.MMXIV
+      ꧁ DANNY ꧂
+    bio: >-
+      
     location: "United States"
-    followers: 2695
-    engagement: 1971
-    commentsToLikes: 0.049189
-    id: ck5cd42sfii1i0i11q5clbph1
+    followers: 2976
+    engagement: 1418
+    commentsToLikes: 0.057434
+    id: ckaowg5jo8sbo0i78aw621nxj
     verified: false
-    hashtags: "#godneverfails, #bars, #weddingszn, #getintoit"
+    hashtags: "#downtownmiami, #newyork, #skincareproducts, #beautyconpop"
+  - username: "theamlook_"
+    fullname: >-
+      Ashly P
+    bio: >-
+      Makeup Artist➕ Brides.Social.Editorial PR/INQUIRIES theamlookinquiries@gmail.com #theamlook @theamstore_ 🔜
+    location: "United States"
+    followers: 6391
+    engagement: 439
+    commentsToLikes: 0.091545
+    id: ck9h9ssaa9toq0j7828nxy6jn
+    verified: false
+    hashtags: "#spookyseason, #bperfectcosmetics, #carnivalxlpro, #blushlighter"
+  - username: "theawkwardbloggers"
+    fullname: >-
+      Miami Living
+    bio: >-
+      Just ✌🏻 awkward peeps 🤓 trying to capture delicious food & magical places Sheila 💁🏼‍♀️💉💊 Victor 💁🏻‍♂️🧬😀
+    location: "United States"
+    followers: 4365
+    engagement: 871
+    commentsToLikes: 0.207063
+    id: ckapcpnw84p4u0i78e8rendom
+    verified: false
+    hashtags: "#instafood, #eat, #foodporn, #food"
+  - username: "shirleydadiva_ffaceit"
+    fullname: >-
+      Miami Makeup Artist 💄💋🎨
+    bio: >-
+      Shirley St.Fort #MiamiMakeupArtist @divaartistry #CelebrityMua#beautybyteknique HBO TvOne, Vh1 WeTv Enhancing beauty is my specialty▶VIP ☆Service
+    location: "United States"
+    followers: 30276
+    engagement: 283
+    commentsToLikes: 0.023933
+    id: ck55mz4lj551l0i11fslxhn0x
+    verified: false
+    hashtags: "#southfloridamua, #miamimakeupartist, #familykarma, #bridalmakeupartist"
+  - username: "corinthsuarez"
+    fullname: >-
+      CORINTH SUAREZ
+    bio: >-
+      🇵🇭 BEAUTY, LIFESTYLE, & MAMA BLOGGER IN MIAMI, FL ✨ IG FILTER CREATOR • email me for custom filters 🌴 @corinthpresets 💌 hello@corinthsuarez.com
+    location: "United States"
+    followers: 32185
+    engagement: 180
+    commentsToLikes: 0.045109
+    id: ck5znjmj2olj20i145z58rt08
+    verified: false
+    hashtags: "#reel, #howto, #igreels, #reels"
   - username: "theworld_ofalice"
     fullname: >-
-      Alice In the Real Wonderland🦋
+      Alice In the Real Wonderland🦋🧿
+    bio: >-
+      Cuban Girl🇨🇺 Blogger📍Miami Fashion 👛 Finance Student 👩🏻‍🎓 Makeup Lover 💄 Traveling ✈️
     location: "United States"
-    followers: 5582
-    engagement: 498
-    commentsToLikes: 0.034484
+    followers: 6218
+    engagement: 245
+    commentsToLikes: 0.052958
     id: ck9hb9syzfyi70j78lubl4uka
     verified: false
-    hashtags: "#trendingphoto, #curvegirl, #naturegeography, #stateofmind"
-  - username: "linet_inspirations"
-    fullname: >-
-      CLEAN BEAUTY•LIFESTYLE•FASHION
-    location: "United States"
-    followers: 5783
-    engagement: 781
-    commentsToLikes: 0.349877
-    id: ckapbx2wk1m7h0i78spz9dfwg
-    verified: false
-    hashtags: "#thecloud, #bloggerstyle, #pendantlights, #contests"
-  - username: "sonikhanem"
-    fullname: >-
-      Sonia Sani D.O.
-    location: "United States"
-    followers: 38048
-    engagement: 357
-    commentsToLikes: 0.046058
-    id: ck6uax43p66ie0j71y5iv3imn
-    verified: false
-    hashtags: "#whoamiforgetting, #avgeek, #doctorlife, #wingviewwednesday"
-  - username: "jlondonostyle"
-    fullname: >-
-      Juanita Londono
-    location: "United States"
-    followers: 97588
-    engagement: 287
-    commentsToLikes: 0.058173
-    id: ck0udwvmvk3b20i19tswvpc6y
-    verified: false
-    hashtags: "#beautytips, #nycblogger, #dress, #balance"
-  - username: "nishpan"
-    fullname: >-
-      Nisha Panjabi
-    location: "United States"
-    followers: 5427
-    engagement: 1745
-    commentsToLikes: 0.109471
-    id: ck8t491cm5x080j78qaep3fnb
-    verified: false
-    hashtags: "#quarantinelife, #makeupvideox, #sneakerheads, #fashionaddict"
-  - username: "dj_sarcastic"
-    fullname: >-
-      💣
-    location: "United States"
-    followers: 20371
-    engagement: 176
-    commentsToLikes: 0.049519
-    id: ck5zxpfhn8f5z0i14ff4r7btv
-    verified: false
-    hashtags: "#babyhair, #beauty, #djsarcastic, #artist"
+    hashtags: "#styleoftheday, #fashionable, #travelblogger, #stylediary"
 ---

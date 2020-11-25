@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Poland In 2020
 description: >-
-  Find top gardening Instagram influencers in Poland in 2020. Most popular hashtags: #gardening #homesweethome #polska #spring.
+  Find top gardening Instagram influencers in Poland in 2020. Most popular hashtags: #gardening #gardeninspiration #gardendesign #garden.
 platform: Instagram
+hits: 81
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 81 Instagram influencers like this in Poland for you to work with.
 profiles:
-  - username: "reniasz_94"
+  - username: "aga_i_dom"
     fullname: >-
-      Renata Szeliga
+      
+    bio: >-
+      *pieczenie *gotowanie *dom *ogród *cooking *baking *home *gardening *England in my ❤️🇬🇧. Don’t copy my pics. Agnieszka, Poland📩 redmore@poczta.onet.pl
     location: "Poland"
-    followers: 2389
-    engagement: 4748
-    commentsToLikes: 0.077713
-    id: ckap7czlkjj5o0i78masxebc8
+    followers: 27739
+    engagement: 276
+    commentsToLikes: 0.034299
+    id: ckf5oqo9j3ech0j233us8cf4p
     verified: false
-    hashtags: "#spring, #womanstyle, #sesjawrzepaku, #etuo"
-  - username: "ania.szlezak"
+    hashtags: "#cake, #mie, #yummy, #kuchnia"
+  - username: "grembosiowo"
     fullname: >-
-      Anna Szlęzak
+      Marlena 🙋🏼‍♀️
+    bio: >-
+      Udostępniam ogród do sesji zdjęciowych 📸 Okolice Szczecina🍃 marlena.grembowska@onet.pl Szczecin, Poland
     location: "Poland"
-    followers: 76674
-    engagement: 680
-    commentsToLikes: 0.022972
-    id: ck0vw1ueqrq950i19ih07gvr3
+    followers: 28469
+    engagement: 1055
+    commentsToLikes: 0.026594
+    id: ck14i6w9mdxzp0i19pq76v1ne
     verified: false
-    hashtags: "#staypositive, #adraticsea, #colourful, #springtime"
-  - username: "patabloguje"
+    hashtags: "#gardens, #mygarden, #homedesign, #cottagehome"
+  - username: "twojediy"
     fullname: >-
-      Patrycja Kierońska
+      Kasia Ogórek
+    bio: >-
+      Jestem autorką największego i najpopularniejszego bloga DIY w Polsce twojediy.pl. #diy #diyhome #zrobtosam #zróbtosam #interior #summerhouse
     location: "Poland"
-    followers: 40095
-    engagement: 315
-    commentsToLikes: 0.099390
-    id: ck6trk5n8zggy0j717fnz0ewd
+    followers: 52611
+    engagement: 277
+    commentsToLikes: 0.053744
+    id: ck15p9hmtwrh70i195wpvs1wi
     verified: false
-    hashtags: "#kitchen, #carebase, #hometime, #bukiet"
-  - username: "typowa.k"
+    hashtags: "#gardendesign, #gardening, #domoweinspiracje, #dzia"
+  - username: "garden_by_marta"
     fullname: >-
-      K
+      garden_by_marta
+    bio: >-
+      Ogrodniczka pasjonatka🌱 📩gardenbymarta@gmail.com #mójogród #zielonapasja #mygarden #greenpassion #myphotos #gardendesign
     location: "Poland"
-    followers: 25634
-    engagement: 860
-    commentsToLikes: 0.022834
-    id: ck6tplfyskj8n0j710nywsd85
+    followers: 27933
+    engagement: 533
+    commentsToLikes: 0.040191
+    id: ckaozu7ilneoq0i78kxedv3xd
     verified: false
-    hashtags: "#tiktokerka, #mirroreffect, #floraltattoos, #lustro"
-  - username: "paula_jagodzinska"
+    hashtags: "#havedesign, #birch, #mygardentoday, #homegarden"
+  - username: "magic_moment_elisse"
     fullname: >-
-      Paula Jagodzińska
+      Eliza 🌸
+    bio: >-
+      O wszystkim co kocham i co jest bliskie mojemu sercu, o marzeniach, które się spełniają 📍4 psy 📍4 koty 📍Dom i ogród 📩 utkanezmarzen@gmail.com
     location: "Poland"
-    followers: 322051
-    engagement: 430
-    commentsToLikes: 0.021799
-    id: ck13bt723x1pz0i19dhdi2jqd
+    followers: 3815
+    engagement: 1667
+    commentsToLikes: 0.089391
+    id: ck6ttwzerd1rc0j71cv96c165
     verified: false
-    hashtags: "#holidaylook, #dressoftheday, #mondaymorning, #springiscoming"
-  - username: "segritta"
+    hashtags: "#diy, #werandacountry, #countrystyle, #wianek"
+  - username: "mk3ania"
     fullname: >-
-      Matylda Kozakiewicz
+      Ania Walczak
+    bio: >-
+      @mk3ania
     location: "Poland"
-    followers: 22377
-    engagement: 431
-    commentsToLikes: 0.043567
-    id: ck0w02nkpc2zu0i19y89ncuwn
+    followers: 30300
+    engagement: 345
+    commentsToLikes: 0.034658
+    id: ck0tzx8rartwy0i19y9ev9e2g
     verified: false
-    hashtags: "#nawilzajacekrople, #nomakeup, #gardening, #recenzjaseg"
-  - username: "kuferekczekolady"
+    hashtags: "#rhododendrons, #flowerslovers, #rabata, #bratki"
+  - username: "myhygge.living.blog"
     fullname: >-
-      KUFEREKCZEKOLADY
+      Gabinet Gin-Poł🖤INTERIOR🖤life
+    bio: >-
+      Work :Gabinet Gin-Poł . 🤰🏼🤰🏽🤰🏾 Hobby:Flower maniac ,Interior lover , skycatcher
     location: "Poland"
-    followers: 12539
-    engagement: 683
-    commentsToLikes: 0.030942
-    id: ck14hqhsfbmd10i19zb5m31pc
+    followers: 2277
+    engagement: 1193
+    commentsToLikes: 0.068230
+    id: ckaos2lo3pvo90i78h8quhevn
     verified: false
-    hashtags: "#apple, #bathroom, #perfect, #caseapp"
-  - username: "pawlak_noemi"
+    hashtags: "#gardendesign, #taras, #garden, #ogr"
+  - username: "martashomegarden"
     fullname: >-
-      Matka Prezesa
+      Marta Potoczek - Home&Garden
+    bio: >-
+      Ogrodniczka, autorka bloga Leniwa niedziela - na stories znajdziesz mnóstwo porad, jak stworzyć ogród podobny do mojego. 🌸🌺🌹Gotuję na @martapotoczek
     location: "Poland"
-    followers: 21107
-    engagement: 302
-    commentsToLikes: 0.041894
-    id: ck0tzdz72pzqm0i193j4un5j9
+    followers: 11385
+    engagement: 605
+    commentsToLikes: 0.025299
+    id: ck9wfj3ehp1fh0j78upvkq479
     verified: false
-    hashtags: "#niemowle, #weso, #homegoods, #pinkobag"
-  - username: "olagie"
+    hashtags: "#ogr, #englishgarden, #tulipsofinstagram, #inmygarden"
+  - username: "bozenowelove"
     fullname: >-
-      Ola Garus
+      @JoannaFotografuje
+    bio: >-
+      🐾 Bożena 🐾 Wanda 🐾 Stefan 📷 @joannafotografuje
     location: "Poland"
-    followers: 38890
-    engagement: 180
-    commentsToLikes: 0.072887
-    id: ck9we1lrbi6cv0j78prqaoq6o
+    followers: 2642
+    engagement: 1091
+    commentsToLikes: 0.057642
+    id: ck5cd5wqxilft0i11y925kw8s
     verified: false
-    hashtags: "#roadrrip, #beachvibes, #mybirthday, #aktywnie"
-  - username: "_katarzyna_g_a"
+    hashtags: "#grumpydog, #legowiskodlapsa, #littlepieceofhappiness, #iloveyouspring"
+  - username: "klaudia.w00"
     fullname: >-
-      Kasia G - a
+      Klaudia Wieczorek
+    bio: >-
+      "Przyszłość należy do tych, którzy wierzą w swoje marzenia" Śląsk ... Kod rabatowy "profashion15" do @sheinofficial na każde zamówienie
     location: "Poland"
-    followers: 4990
-    engagement: 2311
-    commentsToLikes: 0.156029
-    id: ck8t1eu27vhtd0j78cwd59mxf
+    followers: 36316
+    engagement: 314
+    commentsToLikes: 0.046130
+    id: ck5hh3dsw66d30i11g7zom3hd
     verified: false
-    hashtags: "#relaxtime, #pieknekwiaty, #kwiat, #chill"
+    hashtags: "#minimalfashion, #dienstag, #wiwtoday, #summerstyles"
 ---

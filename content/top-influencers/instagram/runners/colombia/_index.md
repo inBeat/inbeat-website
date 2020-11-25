@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners Instagram Influencers In Colombia In 2020
 description: >-
-  Find top runners Instagram influencers in Colombia in 2020. Most popular hashtags: #cuarentena #picoftheday #quedateencasa #photography.
+  Find top runners Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #love #picoftheday.
 platform: Instagram
+hits: 29
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 29 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "cindynordmann"
     fullname: >-
-      ᑕIᑎᗪY ᑎOᖇᗪᗰᗩᑎᑎ ᗩᖇIᗩᔕ
+      Cindy
+    bio: >-
+      Miss Grand Paraguay16 3rd runner up Miss Teen Universe13 ✨- Authentically Paraguayan -✨ ___ Creadora y dueña @tiari_py Propietaria del @efw_py
     location: "Colombia"
-    followers: 25188
-    engagement: 358
-    commentsToLikes: 0.151674
+    followers: 25707
+    engagement: 411
+    commentsToLikes: 0.948914
     id: ck5chkbnyqxvv0i119im1z2n9
     verified: false
-    hashtags: "#grace, #pomerania, #pomeranialovers, #soloencines"
-  - username: "violestruvay"
-    fullname: >-
-      Violeta Struvay
-    location: "Colombia"
-    followers: 34474
-    engagement: 246
-    commentsToLikes: 0.077976
-    id: ck6tk6d4x434m0j71atx1jy9y
-    verified: false
-    hashtags: "#carbon, #maternidad, #pregnancypics, #mamaspandemia"
+    hashtags: "#blessed, #gracepom, #grace, #fueramalaonda"
   - username: "ticamartinez"
     fullname: >-
       TICA
+    bio: >-
+      Tv Host Srta Atlantico 2017 Miss colombia @misssupranational 1rst runner up 2017
     location: "Colombia"
-    followers: 92181
-    engagement: 328
-    commentsToLikes: 0.023019
+    followers: 105517
+    engagement: 386
+    commentsToLikes: 0.068218
     id: ck15rg5967rjv0i19minttddo
     verified: true
-    hashtags: "#metroconciertohistorico, #takeme, #metroconciertohist, #paquelovivalagente"
-  - username: "danielmendezmu"
+    hashtags: "#tbt, #beforequarantine, #notyet, #challengeaccepted"
+  - username: "jc_gmz"
     fullname: >-
-      Daniel Mendez
+      The Julián Best Experiences 🌎
+    bio: >-
+      Content Creator /Runner / Brand Consultant and PR🇨🇴🇵🇹 | Travel • Luxury • Fashion |Ambassador @kevins_joyeros @gcaairlines Equality advocate 🏳️‍🌈✈️
     location: "Colombia"
-    followers: 179059
-    engagement: 105
-    commentsToLikes: 0.131988
-    id: ck6ub4s237gny0j71mdm6ipuv
+    followers: 30761
+    engagement: 526
+    commentsToLikes: 0.030620
+    id: ck5q6avj6wnpz0i11wjzba1z9
     verified: false
-    hashtags: "#adidasrunners, #yomequedoencasa, #quedateencasa, #tbt"
-  - username: "madisonandersonberrios"
+    hashtags: "#cartagenacolombia, #curazao, #mugcakenescafe, #luxury"
+  - username: "violestruvay"
     fullname: >-
-      Madis🦋n
+      Violeta Struvay
+    bio: >-
+      🎖SuperHumana 2018 🏋🏼‍♀️Crossfit/Runner #TeamReebok 🎧DJ 🤟🏻 Good Vibes/Buena Vibra 👑@violetacollaresyaccesorios 🎈Colombia #LoveAlwaysLove ®❣
     location: "Colombia"
-    followers: 244550
-    engagement: 477
-    commentsToLikes: 0.017078
-    id: ck0w1911ui5ch0i19xmz03m93
-    verified: true
-    hashtags: "#prima, #actress, #galaxys20, #samsungzflip"
-  - username: "lauraolayam"
-    fullname: >-
-      Laura Olaya
-    location: "Colombia"
-    followers: 18939
-    engagement: 264
-    commentsToLikes: 0.060006
-    id: ck5c27c4hwoom0i11p7bx6ok6
+    followers: 33872
+    engagement: 151
+    commentsToLikes: 0.087471
+    id: ck6tk6d4x434m0j71atx1jy9y
     verified: false
-    hashtags: "#instagood, #mood, #cuarentena, #natural"
+    hashtags: "#love, #5meses, #mama2020, #matildeazcaratestruvay"
   - username: "ogualteros"
     fullname: >-
       🎻Olga Gualteros🎻
+    bio: >-
+      Colombia my Country 🇨🇴 //Violinist🎻 // Runner🏃 // Enterprising 👜// and lover of good books 📚📚 My beginning and my ending are you MY GOD!!!💘😘
     location: "Colombia"
-    followers: 6587
-    engagement: 581
-    commentsToLikes: 0.055538
+    followers: 7106
+    engagement: 596
+    commentsToLikes: 0.083056
     id: ck0vuyhf8mq4u0i19z8lm1ofp
     verified: false
-    hashtags: "#padre, #encasa, #piensaengrande, #esmejor"
-  - username: "jesusbarrios12"
+    hashtags: "#dios, #crecer, #mygod, #pensamientos"
+  - username: "danielmendezmu"
     fullname: >-
-      Jesús Barrios
+      Daniel Mendez
+    bio: >-
+      ✖️Capitan Adidas Runners Bogota @adidasrunners ✖️Embajador @adidasco ✖️1xMarathon✖️ 1x70.3 Ironman ✖️Athlete @pedialytecol ✖️Water Sports ✖️ARC
     location: "Colombia"
-    followers: 12809
-    engagement: 448
-    commentsToLikes: 0.038671
-    id: ck5zvrfhz4sbg0i14zg3iflq8
+    followers: 172180
+    engagement: 48
+    commentsToLikes: 0.018835
+    id: ck6ub4s237gny0j71mdm6ipuv
     verified: false
-    hashtags: "#gentleman, #maniqui, #luna, #modelworkshop"
+    hashtags: "#adabbott, #pedialyte30, #hidrataci, #adidasrunnersbogota"
+  - username: "lauraolayam"
+    fullname: >-
+      Laura Olaya
+    bio: >-
+      💣/Comunicadora social y periodista 🤓/Content manager-Directora de proyectos✨ 🔥/Colombian model @Grupo4co 🏃🏼‍♀️/Runner 💙/Just... Love God
+    location: "Colombia"
+    followers: 18961
+    engagement: 214
+    commentsToLikes: 0.054751
+    id: ck5c27c4hwoom0i11p7bx6ok6
+    verified: false
+    hashtags: "#picoftheday, #sunday, #instagood, #lookoftheday"
+  - username: "arantzaruiz_"
+    fullname: >-
+      Arantza Ruiz
+    bio: >-
+      爱 Dios te abrirá el camino| actress- dancer - singer - runner| 🇲🇽 🇪🇸 Astróloga ♈️ La Bandida/ Juana Inés/ LMDD/ QueridaDC Mngmt: @talentontheroad
+    location: "Colombia"
+    followers: 86069
+    engagement: 239
+    commentsToLikes: 0.016034
+    id: ck6u9axl5whmg0j71dh05e6s1
+    verified: true
+    hashtags: "#challenge, #dance, #dancersofinstagram, #bomb"
   - username: "gatoderisa"
     fullname: >-
       Jonathan Gato
+    bio: >-
+      Comediante de @comedycentralla Improvisador de moda de famosos Salgo en fotos con famosos pero no soy famoso Runner novato Se parte del #teamgato
     location: "Colombia"
-    followers: 41686
-    engagement: 488
-    commentsToLikes: 0.044156
+    followers: 42855
+    engagement: 441
+    commentsToLikes: 0.052919
     id: ck0vy0lyt1neh0i19kgpjrjvx
     verified: false
-    hashtags: "#halloween, #queen, #marcha, #beach"
-  - username: "leonardoc01"
+    hashtags: "#teamgato, #quedateencasa, #comedia, #stage"
+  - username: "jesusbarrios12"
     fullname: >-
-      Leonardo Carrero
+      Jesús Barrios
+    bio: >-
+      #Wanderlust 🌎 Creado a propósito y con propósito ✨🌱 #runner 5🔓 21🔓 42🔓 🏃 IRONMAN 70.3 🔐 Génesis 12:2 🚀 Josue 1:9 💪🏽 🇨🇴 @savantsmodel
     location: "Colombia"
-    followers: 16264
-    engagement: 549
-    commentsToLikes: 0.026149
-    id: ck55li0m11ma50i11k6o7xej3
+    followers: 12398
+    engagement: 369
+    commentsToLikes: 0.032244
+    id: ck5zvrfhz4sbg0i14zg3iflq8
     verified: false
-    hashtags: "#covid, #following, #happyday, #life"
+    hashtags: "#aftereffects, #photoshoot, #model, #me"
 ---

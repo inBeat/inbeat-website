@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top fitness Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fitness #losangeles #workout #quarantine.
+  Find top fitness Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fitness #fitnessmotivation #losangeles #artist.
 platform: Instagram
+hits: 649
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 649 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
   - username: "inspire_people"
     fullname: >-
       Jonathan Albrecht
+    bio: >-
+      Director of RE & Operations, Orangetheory Fitness Los Angeles | Silicon Valley | Melbourne, AUS “How you do anything is how you do everything.”
     location: "United States"
-    followers: 3714
-    engagement: 1486
-    commentsToLikes: 0.059872
+    followers: 3761
+    engagement: 1443
+    commentsToLikes: 0.061116
     id: ck5c8j0sw9leo0i11rvdu3tuk
     verified: false
-    hashtags: "#jonathangetsyounger, #orangetheoryfitness"
+    hashtags: "#mlk, #jonathangetsyounger, #orangetheoryfitness, #74"
   - username: "boldaslauren"
     fullname: >-
       lauren trenkle
+    bio: >-
+      yoga sculpt instructor 🤘🏼 health enthusiast | real food | fitness | los angeles boldaslauren@gmail.com
     location: "United States"
-    followers: 5302
-    engagement: 743
-    commentsToLikes: 0.051429
+    followers: 5151
+    engagement: 763
+    commentsToLikes: 0.053040
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#stayvital"
-  - username: "angelapaul"
+    hashtags: "#sponsored, #ad, #vitalinfluencer, #blackouttuesday"
+  - username: "deborahkolb"
     fullname: >-
-      angelapaul
+      Deborah Kolb
+    bio: >-
+      Los Angeles based Photographer Let me Capture your Vision!! Bookings: Pictures@DeborahKolb.net 818 999 9891
     location: "United States"
-    followers: 91999
-    engagement: 227
-    commentsToLikes: 0.053217
-    id: ck8t8eerlk56z0j78h85qjwhw
+    followers: 31108
+    engagement: 370
+    commentsToLikes: 0.011010
+    id: ck135xfva3q7m0i190xe1cf5c
     verified: false
-    hashtags: "#feminine, #myhappyplace, #mybeautyroutine, #goldenhour"
-  - username: "joemode"
+    hashtags: "#internationalwomensday, #pnw, #losangelesrealestate, #brokerlady"
+  - username: "shezapk40"
     fullname: >-
-      JOEMODE
+      SERGEI SHEZA® 🏴‍☠️
+    bio: >-
+      📍Los Angeles ⛩ Chiropractor-Samurai
     location: "United States"
-    followers: 11543
-    engagement: 504
-    commentsToLikes: 0.049871
-    id: ck5q7s3692v2k0i11nv8zxal7
+    followers: 36656
+    engagement: 456
+    commentsToLikes: 0.017615
+    id: ck5c7zq5h8hng0i110j5nn4qm
     verified: false
-    hashtags: "#vibing, #press, #bh, #ysl"
+    hashtags: "#sergeisheza, #ocean, #malemodel, #shezamood"
+  - username: "amallagrace"
+    fullname: >-
+      Amalla Okaro, BSN, RN ❤️
+    bio: >-
+      Nigeria / USA 🇳🇬🇺🇸 Neurosurgery RN 🧠💉 RageTalentAgency
+    location: "United States"
+    followers: 6145
+    engagement: 1279
+    commentsToLikes: 0.044945
+    id: ckf5uv5jxmgrs0j23kk7ymx1d
+    verified: false
+    hashtags: "#model, #la, #actress, #lv"
+  - username: "jasonshanescott"
+    fullname: >-
+      Jason-Shane Scott
+    bio: >-
+      Actor 🎭 Writer 📝 Football Junkie🏈🏈
+    location: "United States"
+    followers: 10063
+    engagement: 919
+    commentsToLikes: 0.098409
+    id: ck5btt11zgjv70i11g1e04skz
+    verified: false
+    hashtags: "#hollywood, #fitness, #losangeles, #fitnessmotivation"
+  - username: "eqvisions"
+    fullname: >-
+      Edgar Quevedo
+    bio: >-
+      🎥 DP|Creator 🎬 Co-Owner of @bluelabelproductions 👨‍👩‍👦 Familia DM ME TO BOOK YOUR SHOOTS!
+    location: "United States"
+    followers: 3589
+    engagement: 760
+    commentsToLikes: 0.055718
+    id: ck6tvzf3rp53g0j71166gqob6
+    verified: false
+    hashtags: "#nyvideodirector, #fitness, #losangelesdirector, #nyvideographer"
+  - username: "slaywithateia"
+    fullname: >-
+      TIA 🇹🇹🇬🇾
+    bio: >-
+      Model | Coach Jesus follower ❤️ TikTok - SlaywithAteia Get FIT | Work from home ⤵️ SlaywithAteia.goherbalife.com 🎦 YouTube - SlaywithAteia
+    location: "United States"
+    followers: 10309
+    engagement: 776
+    commentsToLikes: 0.046249
+    id: ck55lmfss1x0l0i11apisv46n
+    verified: false
+    hashtags: "#modellife, #modeling, #fitgirls, #fashionbloggers"
+  - username: "jordy_runs"
+    fullname: >-
+      Jordynn West
+    bio: >-
+      🏃🏾‍♀️ Atletismo | 13y/o 🇺🇸 Youth Runner Blogger 📝 Humble 🐝 Trusting My Process 🔑 #Believe #TrackGirlVibes
+    location: "United States"
+    followers: 19297
+    engagement: 1490
+    commentsToLikes: 0.042651
+    id: ck8tdvmpm4vfl0j78il78rnh9
+    verified: false
+    hashtags: "#runningmotivation, #athleticwear, #nikerunning, #resistancebands"
   - username: "ro54d"
     fullname: >-
-      Rodrigo Garduño
+      Rodrigo Garduño
+    bio: >-
+      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. @54d.us 🇺🇸/@54d.mx🇲🇽/@54d.col🇨🇴
     location: "United States"
-    followers: 769763
-    engagement: 429
-    commentsToLikes: 0.034895
+    followers: 1025537
+    engagement: 247
+    commentsToLikes: 0.038116
     id: ck5cf0o7tm3c40i11cmvoo431
     verified: false
-    hashtags: "#brazil, #italy, #rescilience, #brazilianmodel"
-  - username: "sarah_allthingsoutdoors"
-    fullname: >-
-      S A R A H️️
-    location: "United States"
-    followers: 42267
-    engagement: 509
-    commentsToLikes: 0.053467
-    id: ck0vvwfj1r2lr0i19i5dtm7ug
-    verified: false
-    hashtags: "#newkitday, #selfquarantine, #mondaymotivation, #takeadeepbreath"
-  - username: "beyondcasualb"
-    fullname: >-
-      Bianca Cortez ❥
-    location: "United States"
-    followers: 199790
-    engagement: 169
-    commentsToLikes: 0.041637
-    id: ck14jsgw7ly9n0i1912qbl2wa
-    verified: false
-    hashtags: "#ad, #wecreateitforward, #sheingals, #soapandgloryusa"
-  - username: "mrkmai"
-    fullname: >-
-      Kevin Mai
-    location: "United States"
-    followers: 5611
-    engagement: 616
-    commentsToLikes: 0.072320
-    id: ck5c80b278izd0i11lx2y5pxf
-    verified: false
-    hashtags: "#thebigpicture, #alberteinstein, #thicc, #tbt"
-  - username: "brrrit"
-    fullname: >-
-      Lesbian Jew 🏳️‍🌈🤟🏽🇮🇱 Brit
-    location: "United States"
-    followers: 10148
-    engagement: 351
-    commentsToLikes: 0.067496
-    id: ck0w5xsvd5yky0i1997m1k0ph
-    verified: false
-    hashtags: "#wcw, #sorrynotsorry, #bossmom, #malibulife"
-  - username: "danielricefitness"
-    fullname: >-
-      Daniel Rice
-    location: "United States"
-    followers: 31310
-    engagement: 493
-    commentsToLikes: 0.024957
-    id: ck6ui6a8kdbf60j71uhh81sjo
-    verified: false
-    hashtags: "#sponsored, #selfcarechallenge, #danielricefitness, #halfthebattle"
+    hashtags: "#rodrigogardu, #ny, #training, #miamiflorida"
 ---

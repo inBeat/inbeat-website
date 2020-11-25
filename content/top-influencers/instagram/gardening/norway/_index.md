@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Norway In 2020
 description: >-
-  Find top gardening Instagram influencers in Norway in 2020. Most popular hashtags: #gardening #garden #gardeninspo #hagedesign.
+  Find top gardening Instagram influencers in Norway in 2020. Most popular hashtags: #gardeninspiration #garden #gardendesign #interiordesign.
 platform: Instagram
+hits: 21
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "tomhowse_"
+  - username: "hovelsrudhagen"
     fullname: >-
-      Tom Howse
+      Hovelsrud gård på Helgøya
+    bio: >-
+      Historical garden and farm with organic fruit, berries and chicken. Winner of Europa Nostra Award.
     location: "Norway"
-    followers: 9951
-    engagement: 1282
-    commentsToLikes: 0.038841
-    id: ck1383gp1ebkc0i19vdx55tjt
+    followers: 16725
+    engagement: 542
+    commentsToLikes: 0.024361
+    id: ck14ldy0wu72j0i19hf5n2krl
     verified: false
-    hashtags: "#people, #artfair, #bats, #neanderthal"
+    hashtags: "#dji, #mj, #farmtofork, #edibleflowers"
+  - username: "benedictehn"
+    fullname: >-
+      🌵Nordic Interior & DIY 📍Bergen
+    bio: >-
+      ▪️My DIY projects: #DIYwithbenedictehn ▪️Tag me in your DIYs #BHNmademeDIY • Finalist Gullfjæren 2019 & 2020 • Semifinalist VIXEN 2019
+    location: "Norway"
+    followers: 42208
+    engagement: 285
+    commentsToLikes: 0.178004
+    id: ck5bvb66ojbis0i113m9mdvmn
+    verified: false
+    hashtags: "#interior4inspo, #outdoordesign, #diywithbenedictehn, #garden"
   - username: "marmeladedamen"
     fullname: >-
       Fatima Maria Lavoll
+    bio: >-
+      Jeg vil inspirere til å sanke, konservere, og skape mat av naturens råvarer. Bli med og ta del i min matglede gjennom alle årstider. Velbekomme !
     location: "Norway"
-    followers: 5480
-    engagement: 715
-    commentsToLikes: 0.160835
+    followers: 5980
+    engagement: 583
+    commentsToLikes: 0.138989
     id: ckap8y8tvqesu0i78yd5eyzud
     verified: false
-    hashtags: "#wildgarlicoil, #morshjemmebakte, #constitutionday, #matentusiast"
-  - username: "studiolindhjem"
+    hashtags: "#frukt, #levlandlig, #godtno, #tr"
+  - username: "cathrinedoreen"
     fullname: >-
-      Kristin & Borgar
+      𝗖𝗮𝘁𝗵𝗿𝗶𝗻𝗲
+    bio: >-
+      ⋒ Interior & garden 𓎖 ⋒ My art @inzpero ✍🏽 ⋒ Finalist Gullfjæren 2020 «Årets moderne profil» ⋒ Klikk her for å handle bildene mine 👇🏽
     location: "Norway"
-    followers: 39807
-    engagement: 173
-    commentsToLikes: 0.121925
-    id: ck5hjdqltgg700i1116ezqrjx
+    followers: 161182
+    engagement: 109
+    commentsToLikes: 0.081397
+    id: ck15tgk5lhz3s0i19pahjg2i9
     verified: false
-    hashtags: "#rubyelise, #inspire, #blommor, #hallway"
-  - username: "laura_dahlmeier"
+    hashtags: "#hmhome, #teppe, #elledecor, #rotting"
+  - username: "gaiadottir"
     fullname: >-
-      Laura_Dahlmeier
+      🌱 Kama Sofie Gaiadóttir 🌱
+    bio: >-
+      Storyteller from the Norwegian Woods 🌲 Intersectional environmentalist 🌳 Activist and artist 🕊️ Nature | Folklore | Magic 🍃💚🍃
     location: "Norway"
-    followers: 164852
-    engagement: 664
-    commentsToLikes: 0.004418
-    id: ck14krwdbr09x0i19t65cqfur
-    verified: true
-    hashtags: "#zugspitze, #urlaubsreif, #scottsports, #klimagang"
+    followers: 13048
+    engagement: 725
+    commentsToLikes: 0.054441
+    id: ck6uc8u8ue67w0j71vi946twz
+    verified: false
+    hashtags: "#witchesofinstsgram, #museum, #enchantedforest, #fairy"
   - username: "perunoiversen"
     fullname: >-
       Per-Uno Iversen 🇳🇴
+    bio: >-
+      Takk til alle som følger meg, for alle "likes" og hyggelige kommentarer. Dette er mitt liv. Nyter naturen hele året. Ha en fin dag! ☺
     location: "Norway"
     followers: 5390
-    engagement: 717
-    commentsToLikes: 0.027074
+    engagement: 752
+    commentsToLikes: 0.031074
     id: ckap43smo5puf0i780yumniz6
     verified: false
-    hashtags: "#fjord, #footpath, #gardening, #slottsfjellet"
-  - username: "stinegskjerveggen"
-    fullname: >-
-      Stine Gundersen Skjerveggen
-    location: "Norway"
-    followers: 34505
-    engagement: 156
-    commentsToLikes: 0.450306
-    id: ck5q9v996d67o0i11pqqwfqos
-    verified: false
-    hashtags: "#barneforografering, #uderom, #gardeningtips, #celebrate"
+    hashtags: "#colour, #walking, #eating, #trees"
   - username: "lenespedersen"
     fullname: >-
       Lene S. Pedersen
+    bio: >-
+      🔹Interiør og hage🏡🌿 🔹Renovating house and garden in Sandefjord🔨 🔹2.pl in Norway's inpiring IG awards 2017🎉 🔹Finalist Gullfjæren 2018, 2019 and 2020🎉
     location: "Norway"
     followers: 49092
     engagement: 153
     commentsToLikes: 0.129855
     id: ck6u9f7ckx7rw0j71ubtvgeai
     verified: false
-    hashtags: "#asak, #designinspiration, #tapwellnorge, #fotokunst"
-  - username: "mrsteinarehansen"
+    hashtags: "#livingroomdecor, #inspirasjonsguidennorge, #rom123, #by"
+  - username: "tonekrok"
     fullname: >-
-      Stein Are Hansen
+      Tone Kroken
+    bio: >-
+      Stylist & Int. Ark Founder of KrokenogWilhelmsen.no Freelance i @the.film.agency.oslo Er m @herligehjem sesong 5 Jury medlem Gullfjæren 2018 & 19
     location: "Norway"
-    followers: 6588
-    engagement: 615
-    commentsToLikes: 0.023288
-    id: ck6tovnkngcxd0j71y3wyckmh
+    followers: 61833
+    engagement: 98
+    commentsToLikes: 0.134333
+    id: ck6twaz7yqzek0j71lal8z7ot
     verified: false
-    hashtags: "#cornus, #coronatimes, #natur, #kortreist"
-  - username: "interiormypassion"
+    hashtags: "#eclectic, #outdoor, #interior123, #decor"
+  - username: "gro.osterhus"
     fullname: >-
-      Sadia Aslam [Interior inspo]
+      Gro, Southern Norway
+    bio: >-
+      Architect-designed house & cottages: Nordic style, nice view, garden love. Welcome to visit: @gro_painting to see my art.
     location: "Norway"
-    followers: 24499
-    engagement: 861
-    commentsToLikes: 0.098604
-    id: ck134wk0wyjen0i19klycucp1
+    followers: 9210
+    engagement: 475
+    commentsToLikes: 0.123747
+    id: ck14h5ghn8mmd0i193ivg4smy
     verified: false
-    hashtags: "#kidsroominspo, #hagedesign, #uteinspirasjon, #gardenfurniture"
-  - username: "camillaabry"
+    hashtags: "#interior, #chaletdemontagne, #moderngarden, #chalet"
+  - username: "holstedhanne"
     fullname: >-
-      CAMILLA ABRY
+      Hanne Hage uterom interiør
+    bio: >-
+      Award winning influencer Årets uteplass 2018 For repost:#dittuterom Garden🌿uterom🌿interior Epost:holstedhanne@gmail.com
     location: "Norway"
-    followers: 24584
-    engagement: 243
-    commentsToLikes: 0.036971
-    id: ck0w1k6tbjr8j0i190uq9hkjk
+    followers: 25250
+    engagement: 370
+    commentsToLikes: 0.112545
+    id: ck6ucagsyegfl0j71fhyhm7ut
     verified: false
-    hashtags: "#whenstayinghome, #hallwaydecor, #hydration, #bedroom"
+    hashtags: "#nordichome, #patio, #whiteinterioryes, #interiormagasinet"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Germany In 2020
 description: >-
-  Find top bakers Instagram influencers in Germany in 2020. Most popular hashtags: #easter #breakfastideas #baker #stayhome.
+  Find top bakers Instagram influencers in Germany in 2020. Most popular hashtags: #bakersgonnabake #thebakefeed #bakersofinstagram #backenistliebe.
 platform: Instagram
+hits: 537
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 537 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "lifeisbetterwithbuttercream"
+  - username: "john_whaite"
     fullname: >-
-      Vanessa - Vegan Cake Artist
+      John Whaite
+    bio: >-
+      📚 Cookery writer and baker. 🏆 #gbbo #gbbs winner 2012. 📺 @packedlunchc4 🏫 cookery school: @johnwhaiteskitchen 🏳️‍🌈
     location: "Germany"
-    followers: 8261
-    engagement: 994
-    commentsToLikes: 0.039083
-    id: ck6u72zzij6d70j71qx3wtbyj
-    verified: false
-    hashtags: "#cupcakes, #vegankarlsruhe, #buntmalanders, #staytuned"
-  - username: "anywayani"
-    fullname: >-
-      Ani
-    location: "Germany"
-    followers: 2530
-    engagement: 1020
-    commentsToLikes: 0.327919
-    id: ck5c75o5j6v5n0i11bl2b7bn0
-    verified: false
-    hashtags: "#quarkkn, #sundaymood, #donutlover, #snackideas"
+    followers: 87398
+    engagement: 251
+    commentsToLikes: 0.027703
+    id: ck6ttzuuvdi8i0j71tf290vbw
+    verified: true
+    hashtags: "#bakersofinstagram, #bakersgonnabake, #pastry, #homebaker"
   - username: "katjas_tortenfabrik"
     fullname: >-
       
+    bio: >-
+      Hobby baker Mom of 2 Fragen gern per pn
     location: "Germany"
-    followers: 2435
-    engagement: 1323
-    commentsToLikes: 0.092652
+    followers: 2685
+    engagement: 1136
+    commentsToLikes: 0.082362
     id: ck6tt9vjt9fjh0j71j6dhc6wa
     verified: false
-    hashtags: "#macaronsshell, #chocolate, #cookies, #erdbeertorte"
-  - username: "rice.isnice"
-    fullname: >-
-      Kat Boytsova
-    location: "Germany"
-    followers: 6615
-    engagement: 687
-    commentsToLikes: 0.028642
-    id: ck5c48tvb0uae0i11m3jdn4qb
-    verified: false
-    hashtags: "#beans, #noms, #tomatoes, #summerproduce"
-  - username: "dianakaloev"
-    fullname: >-
-      Diana Kaloev🐒
-    location: "Germany"
-    followers: 147911
-    engagement: 1365
-    commentsToLikes: 0.010362
-    id: ck5zz2we1azb90i14x6jvnu43
-    verified: false
-    hashtags: "#cuddle, #spring, #mentalbreakdown, #mothersday"
+    hashtags: "#stripedcake, #faultlinecake, #cupcakesofinstagram, #foodblogliebebacken"
   - username: "cloedis_sweet_corner"
     fullname: >-
       Claudia
+    bio: >-
+      Weekendbaker and hobby-photographer from Niedersachsen / Germany 🍦🍰🍨📸📷
     location: "Germany"
-    followers: 2915
-    engagement: 2681
-    commentsToLikes: 0.129002
+    followers: 4044
+    engagement: 2405
+    commentsToLikes: 0.191051
     id: ck55mjmn844420i1194i1932l
     verified: false
-    hashtags: "#kaffeeeis, #thyme, #moonmilk, #coffeelover"
-  - username: "tomasbabek"
+    hashtags: "#myfoodpics, #bakersgonnabake, #bakingfromscratch, #cakestagram"
+  - username: "homenherbs"
     fullname: >-
-      Tomas Babek
+      Home and Herbs
+    bio: >-
+      Stefanie Stephan | Content Creator | #foodphotography | #foodstylist | #diy | #interior | #recipes | 3fach-Mama 📍Schwäbisch Gmünd/Baden Württemberg
     location: "Germany"
-    followers: 5478
-    engagement: 879
-    commentsToLikes: 0.016664
-    id: ck6tmk9kl7zt40j71pzx5e4b9
+    followers: 7531
+    engagement: 876
+    commentsToLikes: 0.129415
+    id: ck13550yvzqpb0i19pwgs9vyu
     verified: false
-    hashtags: "#stayhome, #familytime, #prada, #kilo"
-  - username: "diejungskochenundbacken"
+    hashtags: "#ilovebaking, #herbstliebe, #foodforfoodies, #einfacherezepte"
+  - username: "kitchenversity"
     fullname: >-
-      Foodblog | Travelbog 📍Köln
+      •Nadine•
+    bio: >-
+      Willkommen- viel Spaß beim Stöbern🔎 👩🏼‍🍳based in Austria🇦🇹 🌺Passion|Kochen und Backen🥨 🍓Quer durch die Geschmackswelt🌶 🌱Rezepte mit|ohne Thermomix®️
     location: "Germany"
-    followers: 21888
-    engagement: 331
-    commentsToLikes: 0.062926
-    id: ck0vw610bs9kd0i19jwr7ff48
+    followers: 11057
+    engagement: 767
+    commentsToLikes: 0.101767
+    id: ck8tacm53r81x0j78j6dvnbrr
     verified: false
-    hashtags: "#grillen, #grillenmachtgl, #healthybrownies, #wanderlust"
-  - username: "loxchatterbox"
+    hashtags: "#backenistliebe, #yummyyummy, #yummilicious, #dinnerideas"
+  - username: "zuckerzimtundliebe"
     fullname: >-
-      Lox Chatterbox
+      Zuckerzimtundliebe
+    bio: >-
+      Virginia Horstmann / cookbook author, blogger and culinary traveller 📍Bremen/Germany. #zuckerzimtundliebe 🍰 Alle Rezepte und Impressum auf:
     location: "Germany"
-    followers: 12367
-    engagement: 833
-    commentsToLikes: 0.084525
-    id: ck8sxzy5wj9b50j78n8moczrx
+    followers: 119436
+    engagement: 327
+    commentsToLikes: 0.040683
+    id: ck134cgm1vrpr0i19stvzztwd
     verified: false
-    hashtags: "#tribaltrap, #rapcity, #fishnet, #bakersfieldshit"
-  - username: "mit_liebe_gemacht_by_kerstin"
+    hashtags: "#imsomartha, #wsbakeclub, #altesland, #eatcaptureshare"
+  - username: "frau_gold"
     fullname: >-
-      Kerstin Seifert
+      Frau Gold
+    bio: >-
+      Was man macht, soll man schön machen. Shop und Blog:
     location: "Germany"
-    followers: 3136
-    engagement: 963
-    commentsToLikes: 0.160486
-    id: ckaoy7waigdbq0i78omkoz3hu
+    followers: 16902
+    engagement: 533
+    commentsToLikes: 0.075967
+    id: ck6ugo8hb46470j717imr81a8
     verified: false
-    hashtags: "#supper, #krautsalat, #sefmade, #asia"
+    hashtags: "#ihavethisthingwithcolours, #supportsmallbusiness, #imakerainbows, #bakersgonnabake"
+  - username: "nicestthingscom"
+    fullname: >-
+      Vera Wohlleben | Nicest Things
+    bio: >-
+      36, Neustadt an der Weinstraße. Bloggerin, Fotografin, Stylistin für Food & Stills. Kreative Rezepte & Food Fotografie 🍒📷 Blogposts & Infos: ⠀ ⠀ ⠀ ⠀
+    location: "Germany"
+    followers: 32854
+    engagement: 289
+    commentsToLikes: 0.062135
+    id: ck0vv9ct7o4ji0i19agn6md17
+    verified: false
+    hashtags: "#backrezepte, #diamantzucker, #sweettooth, #foodblogeats"
+  - username: "klaraslife"
+    fullname: >-
+      Klaraslife Foodblog
+    bio: >-
+      Kathrin Salzwedel & Ramin Madani Fotografie & Food Styling Vegetarische Rezepte 🍂 Süddeutschland E-Mail: Klaraslife@gmx.de Blog/Rezepte
+    location: "Germany"
+    followers: 125101
+    engagement: 162
+    commentsToLikes: 0.052910
+    id: ck0u9mhdea4bt0i196xercs1f
+    verified: false
+    hashtags: "#thebakefeed, #brownies, #foodlover, #food"
+  - username: "mariaplusvier"
+    fullname: >-
+      Maria
+    bio: >-
+      Mom of 3 boys 💙💙💙 Austria 🇦🇹 familylife ⭐️️ DIY ⭐️ #mariaplusvierbäckt #mariaplusvierplottet #mariaplusviermachtparty #mariaplusvieraufreisen
+    location: "Germany"
+    followers: 31337
+    engagement: 546
+    commentsToLikes: 0.023697
+    id: ck6twqvp3tkux0j715oks63cc
+    verified: false
+    hashtags: "#werbungwegenmarkierung, #ilovebaking, #instabake, #instabaker"
 ---

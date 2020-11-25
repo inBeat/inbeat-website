@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Ankara In 2020
 description: >-
-  Find top models Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #instagram #model #photooftheday.
+  Find top models Instagram influencers in Ankara in 2020. Most popular hashtags: #model #istanbul #ankara #likeforlikes.
 platform: Instagram
+hits: 38
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 38 Instagram influencers like this in Ankara, Turkey for you to collaborate.
 profiles:
+  - username: "_ishakkaynak_"
+    fullname: >-
+      Hamarat  Bey Dersiniz 🤗
+    bio: >-
+      '06 📍Chef of the future 🍽 📍 Kitchen life 🔪
+    location: "Turkey"
+    followers: 10588
+    engagement: 1331
+    commentsToLikes: 0.011140
+    id: ck9h9zxzran5l0j78ecf6w9ou
+    verified: false
+    hashtags: "#krep, #mutfaks, #emek, #yemektarifleri"
+  - username: "pinaroez_"
+    fullname: >-
+      FASHION X P I N A R 🧿
+    bio: >-
+      🌻 C | حب💍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💌pinaroez_@maxplusmgmt.de⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🌻#FASHION 🎥MY LATEST YOUTUBE VIDEO ⬇️⬇️⬇️ s7es5
+    location: "Turkey"
+    followers: 35396
+    engagement: 248
+    commentsToLikes: 0.018262
+    id: ckap5vri9ddiu0i784uqgtaax
+    verified: false
+    hashtags: "#fashionblogger, #streetstyle, #ootd, #fashionista"
+  - username: "igne_askii"
+    fullname: >-
+      𝓲𝓰𝓷𝓮_𝓪𝓼𝓴𝓲𝓲 ღ
+    bio: >-
+      Bismillahirrahmanirrahimღ Hepsi kendi el emegimdirღ siparis almıyorumღ Reklam ve iş birlikleri için dm💌 Konya&istanbul ツ Oyalarimin yapim aşamalari
+    location: "Turkey"
+    followers: 111200
+    engagement: 142
+    commentsToLikes: 0.015322
+    id: ck14irlwzgvlv0i197uba9lvr
+    verified: false
+    hashtags: "#tarif, #gelin, #indirim, #instagram"
   - username: "ozlemkaftan"
     fullname: >-
       Özlem Kaftan
+    bio: >-
+      All pictures are mine.. DM🚫 Sadece fotoğraf.. Fotoğraf hayattır,oda an'dır...
     location: "Turkey"
     followers: 2008
     engagement: 1224
     commentsToLikes: 0.050334
     id: ckaor6vp3lz5z0i780impqo10
     verified: false
-    hashtags: "#streetphotos, #goldenhour, #scenery, #streetstorytelling"
-  - username: "gocebey"
-    fullname: >-
-      Batın Özen
-    location: "Turkey"
-    followers: 11464
-    engagement: 1585
-    commentsToLikes: 0.287659
-    id: ck6uaeufn35u50j71my0iy42d
-    verified: false
-    hashtags: "#portugal, #aksaray, #stayhome, #mountaincoaster"
-  - username: "sabirliebeveynler_pedagoganne"
-    fullname: >-
-      Pedagog/Aile dan. Gül ÖZTÜRK
-    location: "Turkey"
-    followers: 22026
-    engagement: 288
-    commentsToLikes: 0.018508
-    id: ck13c5jxhypws0i19sormwuz4
-    verified: false
-    hashtags: "#inat, #felsefe, #karikat, #okuloncesi"
-  - username: "najmmohammadi"
-    fullname: >-
-      Najm Mohammadi
-    location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
-    id: ck5c8dp0m99fe0i11etkdgpg0
-    verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
-  - username: "kate.xeeva"
-    fullname: >-
-      Kate Alexeeva
-    location: "Turkey"
-    followers: 92922
-    engagement: 543
-    commentsToLikes: 0.039735
-    id: ck5hskkqhwqs90i11zzuejemu
-    verified: true
-    hashtags: "#saapiobeauty, #staypositive, #pillowchallenge, #turkey"
-  - username: "p_i__x__e_l"
-    fullname: >-
-      Sezer Sahinoglu
-    location: "Turkey"
-    followers: 50364
-    engagement: 343
-    commentsToLikes: 0.235578
-    id: ck5qcr1xerxfk0i11bi2zcetv
-    verified: false
-    hashtags: "#japan, #yourmannheim, #turkiyevizor, #zamanidurdur"
-  - username: "ebruli_lif_dunyasi"
-    fullname: >-
-      Ebru
-    location: "Turkey"
-    followers: 18594
-    engagement: 202
-    commentsToLikes: 0.090526
-    id: ck9we060fi1wx0j78ak7dxyj9
-    verified: false
-    hashtags: "#handmade, #kendinyap, #gancillo, #crochetlove"
+    hashtags: "#ic, #bw, #turklikeben, #kadikoystreetphotography"
   - username: "sudesudemirelofficial"
     fullname: >-
       sudesu demirel
+    bio: >-
+      Model&koreograf&oyuncu:03haziran: ikizler ::: https://youtu.be sudesudemirel reklam&işbirliği&DM
     location: "Turkey"
-    followers: 31277
-    engagement: 219
-    commentsToLikes: 0.092713
+    followers: 31618
+    engagement: 301
+    commentsToLikes: 0.085808
     id: ck5ca2qshcl140i11atatabbq
     verified: false
-    hashtags: "#fashion, #urfa, #corona, #instagoods"
+    hashtags: "#instagramers, #istanbul, #manken, #bodrum"
+  - username: "kreaplin"
+    fullname: >-
+      Oğuzhan Göncü
+    bio: >-
+      Travel•Lifestyle•Fashion Founder&Creative Director of @meandmo.co METU•ODTÜ 👨🏻‍🔬 📍Ankara,Turkey ◾️Content creator ◾️Social media manager
+    location: "Turkey"
+    followers: 37381
+    engagement: 289
+    commentsToLikes: 0.394580
+    id: ck8t099d1r9ke0j785jy0tnj2
+    verified: false
+    hashtags: "#manfashion, #coffee, #outfitoftheday, #dressedup"
+  - username: "radmehrbrothers"
+    fullname: >-
+      Mobin_mohamad
+    bio: >-
+      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion 🔴 Kişisel ders ve online koçluk
+    location: "Turkey"
+    followers: 17945
+    engagement: 887
+    commentsToLikes: 0.119018
+    id: ck1399rmkk8at0i19eybkxyr1
+    verified: false
+    hashtags: "#legendary, #muaythai, #onechampion, #onechampionship"
   - username: "mrvozubek"
     fullname: >-
       Merve Özübek
+    bio: >-
+      Fashion•Travel •Life Style Founder& Creative Director of @meandmo.co 🖤 METU Aerospace Engineering 👩🏻‍🎓 📍Ankara, TURKEY Yeni Vlog👇🏼📸
     location: "Turkey"
-    followers: 25838
-    engagement: 207
-    commentsToLikes: 0.118634
+    followers: 30153
+    engagement: 292
+    commentsToLikes: 0.239245
     id: ck0vuyq12mra70i19is6hxfsx
     verified: false
-    hashtags: "#chocolate, #giveaway, #chocolaterie, #dutchoven"
+    hashtags: "#lifestyle, #alacati, #istanbulturkey, #galatatower"
+  - username: "abdullah_caliskanli"
+    fullname: >-
+      Abdullah Çalışkanlı
+    bio: >-
+      🇹🇷 🏠 Ankara 🚘 06 AC 3250
+    location: "Turkey"
+    followers: 6846
+    engagement: 1161
+    commentsToLikes: 0.029528
+    id: ck0w2tnzdq4k50i19lvc20gpr
+    verified: false
+    hashtags: "#nissan, #wolkswagen, #ford, #vtec"
   - username: "_sunumzade_busra_"
     fullname: >-
-      🧿BÜŞRA_KAYA🧿👰❣️👮‍♂️💍 🇹🇷🇹🇷
+      🧿BÜŞRA_KAYA🧿👰👮‍♂️ 🇹🇷
+    bio: >-
+      👩‍🍳🇹🇷 Pastary chef🔪 Akademi Şanlıurfa🎑Ankara Gezgin🇹🇷anne Photo🎬
     location: "Turkey"
-    followers: 3600
-    engagement: 952
-    commentsToLikes: 0.163100
+    followers: 6355
+    engagement: 440
+    commentsToLikes: 0.271675
     id: ckaosbibxqz1c0i78l6uaabmr
     verified: false
-    hashtags: "#english, #sunsetlover, #homesweethome, #kahvekeyfi"
+    hashtags: "#like, #si, #mardi, #101"
 ---

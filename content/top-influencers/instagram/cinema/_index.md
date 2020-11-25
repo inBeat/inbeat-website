@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In 2020
 description: >-
-  Find top cinema Instagram influencers in 2020. Most popular hashtags: # #drawnfromhere #covid #wonderfulgirls.
+  Find top cinema Instagram influencers in 2020. Most popular hashtags: #cinema #travelphotography #indiaclicks.
 platform: Instagram
+hits: 9267
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 9267 Instagram influencers like this for you to work with.
 profiles:
-  - username: "nimbus_independent"
-    fullname: >-
-      Nimbus Independent
-    location: ""
-    followers: 31253
-    engagement: 290
-    commentsToLikes: 0.012753
-    id: ck55q0qnvbtyw0i11cmq96akx
-    verified: false
-    hashtags: "#drawfromhere, #drawnfromhere"
   - username: "lynncinema"
     fullname: >-
       Cinéma
+    bio: >-
+      One of the oldest cinema pages of instagram. You’ll find some personal reviews, facts, quotes and everything cinema-related.
     location: "India"
     followers: 124113
     engagement: 294
     commentsToLikes: 0.015809
     id: ck13440czulad0i19xnj7a4yv
     verified: false
-    hashtags: "#redweapon, #cameras, #camerasetup, #films"
+    hashtags: "#setlife, #spiritedaway, #redweapon, #animeart"
   - username: "chalta_firtaa"
     fullname: >-
       Chetan S Uike | NAGPUR📍
+    bio: >-
+      🛩️ Aerial Photographer | Cinematographer 🌎 Your world, My Perspective 📸 DM For Collabs & Paid shoots 📩 Chetanuk6@gmail.com 🎥 @uikefilms7
     location: "India"
-    followers: 6246
-    engagement: 1816
-    commentsToLikes: 0.082713
+    followers: 8051
+    engagement: 2076
+    commentsToLikes: 0.112352
     id: ck55lg1m01hdb0i11s28r5jew
     verified: false
-    hashtags: "#street, #dogsofinstagram, #pune, #35awards"
-  - username: "daniele.davi"
+    hashtags: "#moodygrams, #shwetamalhotra03, #shotongopro, #kaminekalakar"
+  - username: "angelo_conforti"
     fullname: >-
-      Daniele Daví
+      Angelo Conforti
+    bio: >-
+      𝑷𝒆𝒓 𝒂𝒔𝒑𝒆𝒓𝒂 𝒂𝒅 𝒂𝒔𝒕𝒓𝒂✨ •Mister Italia Forever Cinema 👑🇮🇹🎬 •I love theater and cinema 🎭 •Contact and booking in D.M. •📩 angconforti97@gmail.com
     location: "Italy"
-    followers: 465559
-    engagement: 1397
-    commentsToLikes: 0.025062
-    id: ck8wescqdejjx0j78e46z11c8
+    followers: 8137
+    engagement: 1482
+    commentsToLikes: 0.085695
+    id: ckap8fjzco3ga0i78m3q64grk
     verified: false
-    hashtags: ""
-  - username: "greenfolk_girl"
+    hashtags: "#odoredimare, #summervibes, #wonderfulsea, #puglia"
+  - username: "toktam_akhjavani1313"
     fullname: >-
-      EXPLORER🌍
-    location: ""
-    followers: 21694
-    engagement: 735
-    commentsToLikes: 0.079291
-    id: ck5c5uip046760i11l8ltyibi
+      TOKTAM AKHJAVANI
+    bio: >-
+      A C T R E S S theater🎭 Cinema📽
+    location: "Iran"
+    followers: 2558
+    engagement: 2392
+    commentsToLikes: 0.143489
+    id: ck9wj0xhv4t1u0j78mm009neq
     verified: false
-    hashtags: "#wanderwomeninc, #travelsrilanka, #urbanexplorer, #explorervibes"
-  - username: "shotbyalberto"
+    hashtags: "#women, #fuji, #cinema, #mashhad"
+  - username: "thomas_camorani"
     fullname: >-
-      
-    location: "United States"
-    followers: 7960
-    engagement: 1181
-    commentsToLikes: 0.118324
-    id: ck6u3u0d9zvfd0j71eqvmtbek
+      Thomas Camorani
+    bio: >-
+      🇮🇹/🇺🇸 Sotto Il sole di Riccione on @netflixit SUMMERTIME on @netflixit Digital ~ @wannabemgmt Cinema ~ ?? 🥊 🥊
+    location: "Italy"
+    followers: 67461
+    engagement: 1233
+    commentsToLikes: 0.087189
+    id: ckap520cm9tu80i78qw5rjc7s
     verified: false
-    hashtags: "#valentinesday, #newyorktough"
-  - username: "wonder_kid__"
+    hashtags: "#adv, #suppliedby, #halloween, #vampire"
+  - username: "adriano.occulto"
     fullname: >-
-      ani mathew _ant of idukki
-    location: ""
-    followers: 5513
-    engagement: 2132
-    commentsToLikes: 0.055056
-    id: ckaoxiqdsdg120i78hmmxok3t
-    verified: false
-    hashtags: "#yamaha, #keralablasters"
-  - username: "kh1i1i"
+      Adriano Occulto
+    bio: >-
+      Italy 🇮🇹 Agenzia cinema: @cdastudiodinardo 📈📈: adrianoocculto@cdastudiodinardo.com
+    location: "Brazil"
+    followers: 369989
+    engagement: 1238
+    commentsToLikes: 0.030136
+    id: ck0w70msab5zt0i19kbqcw87x
+    verified: true
+    hashtags: "#barcelona, #spain, #madrid, #bodytransformation"
+  - username: "gabi.lvss"
     fullname: >-
-      alkhalili
-    location: ""
-    followers: 27634
-    engagement: 1147
-    commentsToLikes: 0.038563
-    id: ck5hpqlysrt660i11ugkm4zdq
+      𝙂𝙖𝙗𝙧𝙞𝙚𝙡𝙡𝙖 𝙎𝙞𝙡𝙫𝙖 ✨
+    bio: >-
+      Apaixonada por séries e cinema. 🎬 @dwe_maciel 💍 📍 𝔅𝔯𝔞𝔰í𝔩𝔦𝔞, DF | 19 𝓎 ☼ Libra ↟ Peixes ☾ Aquário
+    location: "Brazil"
+    followers: 6491
+    engagement: 1232
+    commentsToLikes: 0.193655
+    id: ck9we26v2i9gv0j784zfko45e
     verified: false
-    hashtags: "#vine, #quarantine, #coronavirus, #covid"
-  - username: "sabaizadpanah"
+    hashtags: "#makeup, #ginger, #redhair, #ruivasbrasil"
+  - username: "mfm_ihsan"
     fullname: >-
-      Saba Izadpanah | صبآ ایزدپناه
-    location: "United States"
-    followers: 16356
-    engagement: 1122
-    commentsToLikes: 0.044440
-    id: ck9wixl4j4dbq0j78oqe1d438
+      Mfauzi M ihsan
+    bio: >-
+      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - @gu_cinema 🎬 - @locatara.photo 🎬 - sentul 📍 -muhamadfauzi906@gmail.com - design graphic 👨‍💻 - smariah25♡
+    location: "Indonesia"
+    followers: 6475
+    engagement: 1770
+    commentsToLikes: 0.066709
+    id: ck15sz332fjgw0i19rijp5ayq
     verified: false
-    hashtags: "#rumihandcraft, #jewelrug, #rug, #necklace"
-  - username: "theweddingstoriesuk"
+    hashtags: "#bogorpisan, #editorestid, #indovisualgram, #womenesia"
+  - username: "ashkan.hoorsun"
     fullname: >-
-      The Wedding Stories
-    location: "United Kingdom"
-    followers: 12075
-    engagement: 1376
-    commentsToLikes: 0.040424
-    id: ck5zmfslcmhuw0i14ahgyp1l1
+      اشكان هورسان🌀ASHKAN HOORSUN
+    bio: >-
+      #اشكان_هورسان Actor In Cinema,Tv&Teather Production Manager&Casting In Short Film جنگ،جنگ تا پيروزي؛حتي اگر سنگ هم از آسمان ببارد💪💪
+    location: "India"
+    followers: 11649
+    engagement: 1329
+    commentsToLikes: 0.049786
+    id: ck60246cfgpcd0i145yia2tp7
     verified: false
-    hashtags: ""
+    hashtags: "#trophy, #cultfilm"
+  - username: "amandawolf_"
+    fullname: >-
+      Amanda Wolf
+    bio: >-
+      ★ creator ★ fashion & lifestyle ★ vinte e dois, cinema e audiovisual and social media assistant at @redeangeloni
+    location: "Brazil"
+    followers: 7215
+    engagement: 1083
+    commentsToLikes: 0.084659
+    id: ck5zkm1pajq140i14dlimpiw7
+    verified: false
+    hashtags: "#fashion, #foryou, #ootd, #teambasico"
 ---

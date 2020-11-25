@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Norway In 2020
 description: >-
-  Find top beauty TikTok influencers in Norway in 2020. Most popular hashtags: #beauty #trending #fashion #boyfriend.
+  Find top beauty TikTok influencers in Norway in 2020. Most popular hashtags: #fyp #foryoupage #viral #foryou.
 platform: TikTok
+hits: 20
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 20 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "dasheys"
     fullname: >-
-      ✨ DASHEYS ✨
+      🦋 KARDASHIANS FANPAGE 🦋
+    bio: >-
+      𝗙𝗢𝗟𝗟𝗢𝗪 𝗙𝗢𝗥 𝗦𝗛𝗢𝗨𝗧𝗢𝗨𝗧 ⇣
     location: "Norway"
-    followers: 97425
-    engagement: 1244
-    commentsToLikes: 0.016429
+    followers: 137100
+    engagement: 1598
+    commentsToLikes: 0.024859
     id: cka0r01f0ew4u0i78y60x8hhc
     verified: false
-    hashtags: "#hotpink, #laflame, #champagnepapi, #pingpong"
-  - username: "equevloggers"
+    hashtags: "#food, #celeb, #lol, #wap"
+  - username: "renzate"
     fullname: >-
-      Equestrian squad 
+      renate
+    bio: >-
+      I do makeup 🥰 Instagram @renzate
     location: "Norway"
-    followers: 197452
-    engagement: 2429
-    commentsToLikes: 0.009218
-    id: ck83z7ha9ydw70j78cg2g48cq
+    followers: 3574
+    engagement: 807
+    commentsToLikes: 0.017624
+    id: ck8ae956laxv90j783kmavi4p
     verified: false
-    hashtags: "#norway, #horseriding, #palomino, #eventer"
-  - username: "tsutsumihoang"
+    hashtags: "#makeup, #beauty, #fyp, #foryoupage"
+  - username: "mathiasrytter"
     fullname: >-
-      Tsutsumi Hoang
+      Mathias Rytter
+    bio: >-
+      Love and laugh
     location: "Norway"
-    followers: 25782
-    engagement: 506
-    commentsToLikes: 0.019541
-    id: cka6malor6iz50i7825802yvm
+    followers: 26900
+    engagement: 784
+    commentsToLikes: 0.014766
+    id: ckbqmiof07i7m0j236dfs57zh
     verified: false
-    hashtags: "#hairtutorial, #alicemccall, #beautytips, #chubbycheekscheck"
-  - username: "linnealotvedt"
+    hashtags: "#4u, #tiktok, #foryou, #happy"
+  - username: "queenidz"
     fullname: >-
-      Linnealotvedt
+      Ida Ekker
+    bio: >-
+      Follow my makeup page on Instagram! Link👆🏻✨💄
     location: "Norway"
-    followers: 131723
-    engagement: 963
-    commentsToLikes: 0.022318
-    id: cka0fmwdz063b0i784wmotrdu
+    followers: 43500
+    engagement: 1045
+    commentsToLikes: 0.019377
+    id: ck81sbf3nrg2t0j78d094b618
     verified: false
-    hashtags: "#terding, #puppy, #funnyvideos, #beauty"
-  - username: "facebymalin"
+    hashtags: "#behindthescenes, #foryoupage, #halloweenmakeup, #looklikeart"
+  - username: "mimidevine1"
     fullname: >-
-      facebymalin
+      user534861943249
+    bio: >-
+      For fun and creativity❤️🇳🇴🏳️‍🌈 Instagram: It’smimidevine💋
     location: "Norway"
-    followers: 5813
-    engagement: 857
-    commentsToLikes: 0.036292
-    id: ck9epn7tdtbzx0j78v1kj69ap
+    followers: 64800
+    engagement: 1094
+    commentsToLikes: 0.033071
+    id: ckcdecc1q61p20j23tzincmo6
     verified: false
-    hashtags: "#skincare, #beautymode, #cursedtiktoks, #tiktok"
+    hashtags: "#tiktoknorge, #norge, #norgestiktok, #4u"
+  - username: "mainecoonqueens"
+    fullname: >-
+      mainecoonqueens
+    bio: >-
+      Follow us on instagram ☝🏻 Three maine coon girls from Norway 🇳🇴
+    location: "Norway"
+    followers: 433400
+    engagement: 1913
+    commentsToLikes: 0.008523
+    id: ck9rgxmt4cvwc0j78z9jiynsl
+    verified: true
+    hashtags: "#kitty, #aww, #fyp, #foryoupage"
   - username: "nubbsofchubb"
     fullname: >-
       Chubbnubb
+    bio: >-
+      he told me do so
     location: "Norway"
-    followers: 2476
-    engagement: 405
-    commentsToLikes: 0.064451
+    followers: 2424
+    engagement: 445
+    commentsToLikes: 0.067414
     id: ck9fm3e0qr4um0j78qn5jkl68
     verified: false
-    hashtags: "#picnic, #steaklove, #yoga, #riyaz"
-  - username: "itspetertime"
+    hashtags: "#wholesome, #feet, #thisistheway, #diy"
+  - username: "snurresprett2020"
     fullname: >-
-      itspetertime
+      Jostein
+    bio: >-
+      snap Jostein.n
     location: "Norway"
-    followers: 2353
-    engagement: 341
-    commentsToLikes: 0.017952
-    id: cka0tfn2wpoca0i788371psqo
+    followers: 11500
+    engagement: 299
+    commentsToLikes: 0.023411
+    id: ckd6ep1x36bdn0j23x8dsqvr3
     verified: false
-    hashtags: "#staringproblem, #homeworkout, #dirtybastard, #werkit"
-  - username: "beautiful_journeys"
+    hashtags: "#peace, #norge, #fortheboys, #mdg"
+  - username: "sindrefortnite"
     fullname: >-
-      Christoffer & Dersim
+      ᅠᅠᅠ
+    bio: >-
+      need a duo snap: sindreglo psn: SindreTheBotYT 4k?
     location: "Norway"
-    followers: 4897
-    engagement: 511
-    commentsToLikes: 0.012979
-    id: cka0ifebzddw70i78tpz4xv60
+    followers: 3861
+    engagement: 1465
+    commentsToLikes: 0.164827
+    id: ckd18r2mxqaeg0j23r4k7t1ss
     verified: false
-    hashtags: "#forypupage, #cheers, #love, #coupletravel"
-  - username: "knucklebros_"
+    hashtags: "#timewrapscan, #stitch"
+  - username: "eat._.soup"
     fullname: >-
-      knucklebros
+      gEt nOOb-🍜💛🐛
+    bio: >-
+      𝑎𝑠ℎ is a 👞 pfp made by @.sanya.chan 👑 fact: ur beautiful💛 s0up#7187
     location: "Norway"
-    followers: 7583
-    engagement: 587
-    commentsToLikes: 0.038858
-    id: ckadzyi3ih2tw0i78cm85tr6w
+    followers: 278300
+    engagement: 2127
+    commentsToLikes: 0.103300
+    id: ckbbv7zvgimgt0j23huc2rv22
     verified: false
-    hashtags: "#footballgolf, #leftfoot, #trickshot, #trickshots"
-  - username: "piotrkindafunny"
-    fullname: >-
-      Shrek is my daddy😍
-    location: "Norway"
-    followers: 2686
-    engagement: 1070
-    commentsToLikes: 0.080666
-    id: ck9ngnchcfcs40j78nfsf6sg7
-    verified: false
-    hashtags: "#scary, #facebookmemes, #dark, #muchappreciated"
+    hashtags: "#gachalife, #viralfornoreason, #hi, #xyzbca"
 ---

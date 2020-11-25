@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians Instagram Influencers In India In 2020
 description: >-
-  Find top comedians Instagram influencers in India in 2020. Most popular hashtags: #tiktokindia #comedy #tiktok #friendship.
+  Find top comedians Instagram influencers in India in 2020. Most popular hashtags: #comedy #love #tiktok.
 platform: Instagram
+hits: 97
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 97 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "inaginasethi"
+  - username: "ritik_bboyrocket"
     fullname: >-
-      Nagina Sethi Vines
+      𝐑𝐢𝐭𝐢𝐤 𝐃𝐢𝐰𝐚𝐤𝐚𝐫 (𝐁 𝐁𝐨𝐲 𝐑𝐨𝐜𝐤𝐞𝐭)🇮🇳
+    bio: >-
+      कलाकार [ iamhiphopkids ] Official Account Runner Up Of Super Dancer 2 SET Global award🏆 @gcpawards Comedian🎭 For Event's @diegoeventofficial YouTube 👇
     location: "India"
-    followers: 60079
-    engagement: 1571
-    commentsToLikes: 0.022423
-    id: ck8weqbcjeg8i0j78jitfvqp2
+    followers: 81192
+    engagement: 192
+    commentsToLikes: 0.034775
+    id: ck8wf7k05f9jl0j780adlb0n0
     verified: false
-    hashtags: "#tiktokdance, #tiktokroast, #moustache, #tiktokvsyoutube"
-  - username: "wrennwoods"
+    hashtags: "#ritikdiwakar, #ritik, #ritikbboyrocket, #ruelhiphopchoreography"
+  - username: "adarshanand111"
     fullname: >-
-      Wrenn Woods
+      Your Adarsh Anand
+    bio: >-
+      📩 teamAdarshanand@gmail.com • MXTakatak : https://usr.mxtakatak.com/vQZT/5d210f6a • Comedian • Voice over Artist • Dancer • Anchor कुछ भी करवा लो 😀
     location: "India"
-    followers: 14961
-    engagement: 250
-    commentsToLikes: 0.057524
-    id: ck14hnqc9b8vh0i1959799kn5
+    followers: 48836
+    engagement: 866
+    commentsToLikes: 0.023415
+    id: ck8wf1z8bezpa0j78ps6u7fw9
     verified: false
-    hashtags: "#stayinside"
-  - username: "eddiebcomedy"
+    hashtags: "#funnyboy, #instagramreels, #funnygirljiya, #instagram"
+  - username: "adarsh_adj"
     fullname: >-
-      Eddie B
+      ADARSH ADJ
+    bio: >-
+      🎬Actor | 🎤Beatboxer | 🎛️DJ | 🎭Comedian ♦U see thousand of faces make sure I'm one of them ♦ For Booking 📲 : 8943192489
     location: "India"
-    followers: 156952
-    engagement: 660
-    commentsToLikes: 0.067945
-    id: ck0w003s1bq8l0i19kubyy4rb
-    verified: true
-    hashtags: "#teacherlife, #zoommeeting, #corona, #orangetx"
-  - username: "i_kamal_boss"
-    fullname: >-
-      Kamal Boss 👨🏼‍💻
-    location: "India"
-    followers: 17592
-    engagement: 493
-    commentsToLikes: 0.029975
-    id: ck8wf3efpf2b00j78gktxpynm
+    followers: 6709
+    engagement: 1256
+    commentsToLikes: 0.041015
+    id: ck6ugybeg5w3t0j71ft8ccqp5
     verified: false
-    hashtags: "#friendship, #jattwaad, #nice, #chandigarh"
-  - username: "nikhilxlx"
+    hashtags: "#liproll, #music, #malayalam, #beat"
+  - username: "majidshahriarii"
     fullname: >-
-      SmileInHardTime🦁♥️
+      MAJID SHAHRIARI NIA
+    bio: >-
+      Official Instagram account of Majid Shahriari Iranian Actor TV/Theater/Cinema Comedian Actor #مجید_شهریاری
     location: "India"
-    followers: 35156
-    engagement: 2046
-    commentsToLikes: 0.021714
-    id: ck8wf2z0ef1mk0j78eyjrjsfx
+    followers: 14176
+    engagement: 813
+    commentsToLikes: 0.047376
+    id: ck6ug1gdx0e230j71b5yq4n1q
     verified: false
-    hashtags: "#realtionship, #btstiktok, #bollywood, #comedyvideo"
-  - username: "iam_johnylever"
+    hashtags: ""
+  - username: "prashastisingh"
     fullname: >-
-      Johny Lever
+      Prashasti Singh
+    bio: >-
+      Comedian For Bookings contact: rupika@oml.in
     location: "India"
-    followers: 68577
-    engagement: 1098
-    commentsToLikes: 0.015901
-    id: ck15q0ly20iyc0i19ehzx1oyd
+    followers: 91532
+    engagement: 724
+    commentsToLikes: 0.010616
+    id: ck0tuscsq8iep0i19qq5vdjdz
     verified: false
-    hashtags: "#poojahegde, #mehmood, #spreadingjoy, #coronavirusinindia"
-  - username: "shivneel_dotcom"
-    fullname: >-
-      Shivneel
-    location: "India"
-    followers: 30555
-    engagement: 897
-    commentsToLikes: 0.018744
-    id: ck5cfr6minhdd0i112psbz2w0
-    verified: false
-    hashtags: "#rotorua, #magicmac, #couplegoals, #sponsored"
-  - username: "ambareesh_ps_"
-    fullname: >-
-      Ambareesh Ps
-    location: "India"
-    followers: 65503
-    engagement: 1805
-    commentsToLikes: 0.014561
-    id: ck9wik9fm2mv20j78qqzey5fv
-    verified: false
-    hashtags: "#tiktoktelugu, #kazargod, #malayalamcomedy, #comedyvideo"
+    hashtags: "#comedy, #ickystickymonologues, #ladiesup, #ad"
   - username: "therealscruncho"
     fullname: >-
       Anthony B “SCRUNCHO” McKinely
+    bio: >-
+      Actor / Comedian “All I Needed Was A Hug” Heavy Head in @igotthehookuptwo Appeared in “How High” @hbo’s “1st Amendment Standup” @bet’s Comic View
     location: "India"
-    followers: 36177
-    engagement: 184
-    commentsToLikes: 0.116065
+    followers: 36799
+    engagement: 149
+    commentsToLikes: 0.102137
     id: ck5q37s1mjmj80i11d7fs7nan
     verified: false
-    hashtags: "#classic, #kids, #prison, #crime"
+    hashtags: "#nellie, #moms, #rip, #porsche"
   - username: "its_jamielever"
     fullname: >-
       Jamie Lever
+    bio: >-
+      Comedian/Actor ~Phil 4:13~ Business enquires Email: radhika@tulsea.com
     location: "India"
-    followers: 87717
-    engagement: 787
-    commentsToLikes: 0.025100
+    followers: 202629
+    engagement: 1032
+    commentsToLikes: 0.016104
     id: ck6twgkgyrv860j71nf4as7cj
     verified: true
-    hashtags: "#biggboss13, #sidnaaz, #socialmedialife, #chotachatri"
+    hashtags: "#jamielever, #throwback, #leverfam, #andhrastyle"
+  - username: "shivneel_dotcom"
+    fullname: >-
+      Shivneel
+    bio: >-
+      Cougar Boys 📹 Fijian/Indian 🇫🇯 Crossfit 🏋🏽‍♂️ Foodie 🍔🍟🥤 Comedian 🤔🤔🤔
+    location: "India"
+    followers: 28392
+    engagement: 635
+    commentsToLikes: 0.019978
+    id: ck5cfr6minhdd0i112psbz2w0
+    verified: false
+    hashtags: "#fireemoji, #pinnaclesnationalpark, #livetotheultimate, #onlyonmybreaksthough"
+  - username: "mamadebi"
+    fullname: >-
+      ﮼محمدإبی
+    bio: >-
+      🕋 ﷽ 🕋 🇮🇷﮼پسر﮼شرق ﮼طهرون🇮🇷 ⚜️﮼يك ﮼آذر🌛 ﮼خوش ﮼قلب⚜️ 🎭Teatr 🤹🏻‍♂️actor 🎬comedian امنیت پیج رضاروث🖥 ⚖️رفاقت هم مثل سیبیل به بعضیانمیاد+آرهوالا⚖️
+    location: "India"
+    followers: 77081
+    engagement: 105
+    commentsToLikes: 0.168353
+    id: ckaoslxzps1bv0i784nh88slm
+    verified: false
+    hashtags: "#video, #tiktok, #likeeapp, #likee"
+  - username: "skater_rahul"
+    fullname: >-
+      Skater Rahul🇮🇳
+    bio: >-
+      ♥️सबका प्यारा, उभरता सितारा♥️ Skater⛸️ /Writer✍️ /Comedian👻 Dm/Mail For Collaborations & Promotions (paid) New Video👇
+    location: "India"
+    followers: 138882
+    engagement: 818
+    commentsToLikes: 0.015841
+    id: ck9wg5sozs0wm0j786ups0mpy
+    verified: false
+    hashtags: "#shayari, #takataktrending, #haryanvipoem, #haryanvivideos"
 ---

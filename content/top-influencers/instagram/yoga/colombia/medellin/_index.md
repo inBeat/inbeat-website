@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Medellín In 2020
 description: >-
-  Find top yoga Instagram influencers in Medellín in 2020. Most popular hashtags: #yoga #colombia #quedateencasa #cuarentena.
+  Find top yoga Instagram influencers in Medellín in 2020. Most popular hashtags: #yoga #colombia #medellin #travel.
 platform: Instagram
+hits: 12
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
+  - username: "susanatorres.a"
+    fullname: >-
+      Susana Torres Arenas
+    bio: >-
+      👩🏻‍💻 Comunicación & Mercadeo ⚡️ Co-founder @vamoscontoda.co 🏅 Triatleta y aprendiz de yoga 🇨🇴 Medellín
+    location: "Colombia"
+    followers: 3602
+    engagement: 871
+    commentsToLikes: 0.068309
+    id: ck6u37jjew6pe0j7114ep0uvd
+    verified: false
+    hashtags: "#teamvamoscontoda, #yogacontoda, #yogainspiration, #yogaposes"
+  - username: "justincaruso"
+    fullname: >-
+      Justin Caruso
+    bio: >-
+      Over a decade teaching AcroYoga, Thai massage & yoga intensives, retreats and teacher trainings around the world. Founder @modernthaischool 📍Medellin
+    location: "Colombia"
+    followers: 20469
+    engagement: 189
+    commentsToLikes: 0.065966
+    id: ck5hggcoe2mgy0i11ypi3zbuh
+    verified: false
+    hashtags: "#brasil, #acroyoga, #medellin, #yogacolombia"
+  - username: "layogini"
+    fullname: >-
+      𓋹 SOY ALEXANDRA 𓂀
+    bio: >-
+      🔮 Desmitifico la Espiritualidad Mi misión es inspirarte a vivir una vida auténtica, llena de magia y buena vibra! Maestría Online de Yoga 🌺 ⏬
+    location: "Colombia"
+    followers: 50467
+    engagement: 119
+    commentsToLikes: 0.034980
+    id: ck600z4kkejop0i14pdbrfv7o
+    verified: false
+    hashtags: "#viajes, #colombiatravel, #travel, #santander"
+  - username: "manuelauribef"
+    fullname: >-
+      Manuela Uribe Franco 🐯
+    bio: >-
+      📍Medellín, Colombia 🇨🇴 🧘🏽‍♀️Yôginí ⚡️La energía no miente
+    location: "Colombia"
+    followers: 11380
+    engagement: 935
+    commentsToLikes: 0.023170
+    id: ckf5n1vdswdn00j230m4hs10k
+    verified: false
+    hashtags: "#viajama, #viajam, #janushirshasana, #yoga"
   - username: "jacobofranco"
     fullname: >-
       Jacobo Franco | Lifestyle
+    bio: >-
+      📍Medellin 🔥 Pasión por las películas, series, música y yoga @codiscos | Caza talentos 🌈 #loveislove
     location: "Colombia"
     followers: 18069
     engagement: 238
     commentsToLikes: 0.169579
     id: ck55klcw4zkxq0i11389cxfwv
     verified: false
-    hashtags: "#electronicmusic, #insomnio, #medellincolombia, #gammer"
-  - username: "justincaruso"
-    fullname: >-
-      Justin Caruso
-    location: "Colombia"
-    followers: 21045
-    engagement: 204
-    commentsToLikes: 0.064485
-    id: ck5hggcoe2mgy0i11ypi3zbuh
-    verified: false
-    hashtags: "#happybirthday, #together, #riodejaneiro, #brazil"
-  - username: "susanatorres.a"
-    fullname: >-
-      Susana Torres Arenas
-    location: "Colombia"
-    followers: 2954
-    engagement: 943
-    commentsToLikes: 0.080609
-    id: ck6u37jjew6pe0j7114ep0uvd
-    verified: false
-    hashtags: "#coronamarketing, #cocinacontoda, #livcycling, #yogacontoda"
-  - username: "verospinalife"
-    fullname: >-
-      Verónica Ospina
-    location: "Colombia"
-    followers: 45265
-    engagement: 358
-    commentsToLikes: 0.043663
-    id: ck136gciz6d2g0i19pezkgsqq
-    verified: false
-    hashtags: "#meditar, #cuarentena, #guatape, #vino"
+    hashtags: "#musica, #fotografia, #salsa, #covid"
   - username: "sarahschmidtinside"
     fullname: >-
       INSIDE BY SARAH
+    bio: >-
+      Diseñadora de Espacios Escenario Maestra de Vinyasa Krama Yoga Líder en Mindfulness Plant based 🌱 Contenido exclusivo aquí
     location: "Colombia"
     followers: 125573
     engagement: 124
     commentsToLikes: 0.017098
     id: ck6u9fctbx8na0j71f6b9i5nw
     verified: false
-    hashtags: "#mentespoderosas, #vegano, #todossomosuno, #colectivo"
-  - username: "elianadiosa"
+    hashtags: "#newage, #onelove, #tattoo, #encasa"
+  - username: "dondeesta_kelly"
     fullname: >-
-      Ɛℓιαηα Ɗισѕα✌🌻💞
+      Kelly 🐿 Just A Travel Squirrel
+    bio: >-
+      #traveller #travelgirl ✦ Visual Storyteller ☼ Travel ~ Photography 📸 ✈ Viajes | 🌈Creatividad | Buena Vibra ✌🏼 💌 Dondeestakelly@gmail.com
     location: "Colombia"
-    followers: 19572
-    engagement: 428
-    commentsToLikes: 0.031236
-    id: ck55lt4112d2p0i117lndpnlq
+    followers: 18559
+    engagement: 1193
+    commentsToLikes: 0.080579
+    id: ck0w5qet44x4b0i19672e02td
     verified: false
-    hashtags: "#milktistle, #work, #friend, #workout"
-  - username: "chispastrack"
+    hashtags: "#minca, #travellife, #lovetotravel, #ilovetravel"
+  - username: "melissalopez302"
     fullname: >-
-      Fabian Puerta
+      Melylopez
+    bio: >-
+      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
     location: "Colombia"
-    followers: 26710
-    engagement: 636
-    commentsToLikes: 0.036420
-    id: ck5pwqnpgo3zr0i11owei079t
-    verified: true
-    hashtags: "#familia, #juegoscentroamericanos, #powerclub, #juegosolimpicos"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
+    followers: 7273
+    engagement: 2360
+    commentsToLikes: 0.027460
+    id: ck5c7ld9p7qsh0i11qryq9pd1
     verified: false
-    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
-  - username: "zuzana_klingrova"
+    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
+  - username: "marianelamodel"
     fullname: >-
-      Zuzana Klingrova
+      Marianela💋Ramos
+    bio: >-
+      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
     location: "Colombia"
-    followers: 27207
-    engagement: 600
-    commentsToLikes: 0.027077
-    id: ck14ilv5yg22q0i19wu5yhqi6
+    followers: 62036
+    engagement: 608
+    commentsToLikes: 0.034867
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#myyoga, #joga, #yogatime, #yogamat"
-  - username: "deluzsemilla"
+    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
+  - username: "plant.vibrations"
     fullname: >-
-      c y a n  🌙ॐ
+      Devin Wallien
+    bio: >-
+      Plants bring Life #plantvibrations Plant Promoter on TV for @robertasgardens Informative YouTube Videos 👇
     location: "Colombia"
-    followers: 3150
-    engagement: 1148
-    commentsToLikes: 0.176203
-    id: ck6u1ajahkl4f0j7175jmootb
+    followers: 13047
+    engagement: 606
+    commentsToLikes: 0.031555
+    id: ckaossqdrsx630i78g9yb6rix
     verified: false
-    hashtags: "#sue, #aceitedecococolombiano, #aceitedecoco, #esmalteecologico"
+    hashtags: "#plantsplantsplants, #flowers, #plantblog, #succulentlove"
 ---

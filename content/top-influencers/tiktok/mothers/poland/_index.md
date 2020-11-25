@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Poland In 2020
 description: >-
-  Find top mothers TikTok influencers in Poland in 2020. Most popular hashtags: #dance #trend #foryoupage #funny.
+  Find top mothers TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #trend #foryou #dance.
 platform: TikTok
+hits: 16
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Poland for you to connect with.
 profiles:
-  - username: "zaparty69"
+  - username: "navrockaaa"
     fullname: >-
-      zaparty
+      Patrycja Nawrocka
+    bio: >-
+      🇵🇱21 y.old Mother of 2 🐈
     location: "Poland"
-    followers: 352340
-    engagement: 1762
-    commentsToLikes: 0.009273
-    id: ck9aeygs04ca90j784e4nv379
+    followers: 67400
+    engagement: 1315
+    commentsToLikes: 0.016489
+    id: ckbqvvnkmg2jc0j23uwt7yf60
     verified: false
-    hashtags: "#savage, #drunk, #mugshot, #mugshotchallenge"
+    hashtags: "#fyp, #dc, #dzien1, #neonshadow"
   - username: "just.oleg"
     fullname: >-
       Oleh Riashentsev
+    bio: >-
+      I will make you laugh mother fathers 👌🏻😄
     location: "Poland"
-    followers: 39312
-    engagement: 1135
-    commentsToLikes: 0.006879
+    followers: 51100
+    engagement: 1045
+    commentsToLikes: 0.005832
     id: ck8j85c4bhdmh0j78zyxge1nd
     verified: false
-    hashtags: "#fory, #report, #dancechallenge, #handsome"
+    hashtags: "#dance, #foryoupage, #trend, #dlaciebie"
+  - username: "agamilagros"
+    fullname: >-
+      agamilagros
+    bio: >-
+      ZAWSZE POZDRAWIAM SERDECZNIE 🤘🏻 Insta: agamilagros 🤗
+    location: "Poland"
+    followers: 105500
+    engagement: 1581
+    commentsToLikes: 0.007452
+    id: ck8oshgvtgwz50j78nhvez2oo
+    verified: false
+    hashtags: "#foryoupage, #fun, #parentsoftiktok, #covid19"
   - username: "karogrudniak"
     fullname: >-
       Karolina Grudniak
+    bio: >-
+      Leniwa Pani Domu! 26L ❤ 3 chłopaków w domu!🤯
     location: "Poland"
-    followers: 17160
-    engagement: 1035
-    commentsToLikes: 0.079755
+    followers: 19800
+    engagement: 1037
+    commentsToLikes: 0.065295
     id: ck9n866sq8aln0j78hqevzy3n
     verified: false
-    hashtags: "#buntdwulatka, #dzi, #najprostszytaniec, #zr"
-  - username: "radziohere96"
+    hashtags: "#duet, #niemowlak, #vlogzdomu, #duetthis"
+  - username: "fituniaa"
     fullname: >-
-      nothing
+      Nikola Fita {77k}
+    bio: >-
+      Ig: fituniaa Warszawa🔥 17yo
     location: "Poland"
-    followers: 3335
-    engagement: 1911
-    commentsToLikes: 0.062207
-    id: cka8ee3k6wwaq0i78j1lshuwi
+    followers: 77100
+    engagement: 1820
+    commentsToLikes: 0.027717
+    id: ck9ae5reb0d7l0j783nfrihda
     verified: false
-    hashtags: "#singing, #2020, #arizonatea, #muzics"
+    hashtags: "#trend, #przefiolkowalas, #dance, #girl"
+  - username: "rixalla_"
+    fullname: >-
+      Rixalla
+    bio: >-
+      ❤️ Instagram: rixalla_ ❤️ 🏡 Wadowice/Kraków 🏡 17
+    location: "Poland"
+    followers: 281100
+    engagement: 2179
+    commentsToLikes: 0.015171
+    id: ckai832qp2q620i78pwyi7hpa
+    verified: false
+    hashtags: "#si, #dlaciebie, #trend, #comedy"
+  - username: "discoruda"
+    fullname: >-
+      Discoruda
+    bio: >-
+      Rocznik '92 Szczęśliwa kobieta 🧡 Muzyka 🎶 Śpiew 🎤 Taniec 💃
+    location: "Poland"
+    followers: 193700
+    engagement: 603
+    commentsToLikes: 0.070670
+    id: ckbq8dwfwus0c0j23gq1sxgou
+    verified: false
+    hashtags: "#game, #club, #smile, #party"
   - username: "szumczi"
     fullname: >-
       Klaudia
+    bio: >-
+      📷Insta: triftle
     location: "Poland"
-    followers: 8077
-    engagement: 1194
-    commentsToLikes: 0.028830
+    followers: 7891
+    engagement: 801
+    commentsToLikes: 0.025316
     id: cka6i8karpqwu0i78kpwkgyc5
     verified: false
-    hashtags: "#canttouchthis, #chocolate, #diet, #newyear"
-  - username: "neko_decim"
+    hashtags: "#foru, #couple, #foodlover, #dlaciebie"
+  - username: "sijkakornelia"
     fullname: >-
-      NekoDecim
+      IG: korneliasijka_
+    bio: >-
+      18,🇵🇱 ✖️sc:nellacoookies✖️ ✖️WBIJAJ NA INSTA✖️ 🔜500k
     location: "Poland"
-    followers: 10495
-    engagement: 365
-    commentsToLikes: 0.087214
-    id: ck83zqclm22p80j78c5c1xqlb
-    verified: false
-    hashtags: "#event, #quit, #nature, #yummi"
-  - username: "proosiak"
+    followers: 502100
+    engagement: 1942
+    commentsToLikes: 0.006628
+    id: ck9kbvhxgmwx50j78ptfdvgka
+    verified: true
+    hashtags: "#dlaciebie, #poland, #viral, #fyp"
+  - username: "crueltyfreeann"
     fullname: >-
-      Olivia Rosiak
+      crueltyfreeann
+    bio: >-
+      Wegan kapyl. Po więcej wpadaj na insta poniżej. 🌸crueltyfreeann🌸
     location: "Poland"
-    followers: 78888
-    engagement: 1994
-    commentsToLikes: 0.010027
-    id: ck9nggoc2f8nc0j78drnszzty
+    followers: 6076
+    engagement: 663
+    commentsToLikes: 0.025565
+    id: ckav7ma1tendu0j23yp0wn11c
     verified: false
-    hashtags: "#period, #comedy, #duet, #momsoftiktok"
-  - username: "adelards"
-    fullname: >-
-      Tom
-    location: "Poland"
-    followers: 0
-    engagement: 1320
-    commentsToLikes: 0.033199
-    id: ck9rlecm7xmni0j78u33oj2qg
-    verified: false
-    hashtags: "#vine, #vineenergy, #mentalhealth, #failedaboriton"
-  - username: "mateusz_strelau"
-    fullname: >-
-      Mateusz Strelau
-    location: "Poland"
-    followers: 51238
-    engagement: 1298
-    commentsToLikes: 0.011361
-    id: ck8z1i9jz1olr0j784x130ice
-    verified: false
-    hashtags: "#10minut, #photoshootday, #siostra, #motocross"
-  - username: "be.your.mom"
-    fullname: >-
-      be.your.mom
-    location: "Poland"
-    followers: 28818
-    engagement: 907
-    commentsToLikes: 0.032470
-    id: ck97wp4wts29r0j78c8g5cgmg
-    verified: false
-    hashtags: "#tiktorviral, #motherandson, #duet, #motyl"
+    hashtags: "#weganizm, #komedia, #para, #nyf"
 ---

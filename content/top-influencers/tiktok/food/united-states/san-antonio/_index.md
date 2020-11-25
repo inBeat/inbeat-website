@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In San Antonio In 2020
 description: >-
-  Find top food TikTok influencers in San Antonio in 2020. Most popular hashtags: #food #sanantonio #mexican #gonnabefriends.
+  Find top food TikTok influencers in San Antonio in 2020. Most popular hashtags: #texas #sanantonio #fyp #food.
 platform: TikTok
+hits: 22
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 22 TikTok influencers like this in San Antonio, United States for you to connect with.
 profiles:
   - username: "sanantoniomunchies"
     fullname: >-
       Alex
+    bio: >-
+      SA’s best food blogger! Insta: SanAntonioMunchies FaceBK: San Antonio Munchies
     location: "United States"
-    followers: 2233
-    engagement: 392
-    commentsToLikes: 0.051368
+    followers: 4581
+    engagement: 490
+    commentsToLikes: 0.020155
     id: cka8dxu11utso0i78mptr257f
     verified: false
-    hashtags: "#vacationmode, #keepingactive, #gonnabefriends, #mycrib"
-  - username: "waleedeats"
+    hashtags: "#sanantoniotexas, #homemade, #210, #sanantonio"
+  - username: "tonyduran711"
     fullname: >-
-      Waleed Maoed
+      Tony Duran
+    bio: >-
+      Tony Duran from New Braunfels, Tx. Decorative concrete IG: lawscreationsdc
     location: "United States"
-    followers: 16453
-    engagement: 959
-    commentsToLikes: 0.036420
-    id: cka0i7kfrcgi30i78kf9tbtt9
+    followers: 4098
+    engagement: 319
+    commentsToLikes: 0.023547
+    id: ckb9pzezplkmy0j23huic58d5
     verified: false
-    hashtags: "#donuts, #buffet, #burrito, #tiktokarab"
-  - username: "zuperzaiyan"
+    hashtags: "#garage, #flooring, #epoxy, #newbraunfels"
+  - username: "glennshares"
     fullname: >-
-      ZᵤₚₑᵣZₐᵢyₐₙ
+      AKtoTX
+    bio: >-
+      Jesus follower, husband, dad of 8, goofball. Follow on insta @Glennshares
     location: "United States"
-    followers: 7533
-    engagement: 752
-    commentsToLikes: 0.071901
-    id: ck9flm490omoe0j78yvsizvo5
+    followers: 12500
+    engagement: 1156
+    commentsToLikes: 0.158183
+    id: ckdc7hffxhry00j233alc37ub
     verified: false
-    hashtags: "#cartoon, #naruto, #hisoka, #killua"
+    hashtags: "#travel, #humor, #food, #missouri"
+  - username: "jameswopo2x"
+    fullname: >-
+      James Perez
+    bio: >-
+      SAN ANTONIO TEXAS📍
+    location: "United States"
+    followers: 15300
+    engagement: 853
+    commentsToLikes: 0.022283
+    id: ckbf4oad6tdwq0j23yjhttn62
+    verified: false
+    hashtags: "#coronavirus, #fyp, #greenscreen, #friends"
+  - username: "kynthos18"
+    fullname: >-
+      Cinthya Ruiz 💕
+    bio: >-
+      Titan Factory Direct 📍1950 SW Loop 410, San Antonio, Texas 78227 🇺🇸
+    location: "United States"
+    followers: 3676
+    engagement: 554
+    commentsToLikes: 0.014455
+    id: ck982luyfgo4x0j7883ch2su6
+    verified: false
+    hashtags: "#hawaii, #vacation, #sanantonio, #housechallenge"
+  - username: "kaylachance_"
+    fullname: >-
+      Kayla Chance
+    bio: >-
+      Food, Travel & Country stuff 🤠 Austin, Texas 🇺🇸 Roll Tide ♥️
+    location: "United States"
+    followers: 11800
+    engagement: 416
+    commentsToLikes: 0.028097
+    id: ckamhilpgg7680i78unlsoypo
+    verified: false
+    hashtags: "#austin, #country, #texas, #alanjackson"
+  - username: "siempre_sanantonio"
+    fullname: >-
+      Siempre 💖 SA
+    bio: >-
+      Follow me on IG @siempre_sanantonio 💖 😃 Thanks for 30k 🎉
+    location: "United States"
+    followers: 31500
+    engagement: 978
+    commentsToLikes: 0.015387
+    id: ckdt9p3tzuc170j23izns9znl
+    verified: false
+    hashtags: "#tiktoksanantonio, #sanantoniofoodie, #tiktokfoodie, #sanantoniocheck"
+  - username: "officialhypehousetexas"
+    fullname: >-
+      HHT✔︎
+    bio: >-
+      𝕥𝕙𝕖 𝕠𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝕥𝕖𝕩𝕒𝕤 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 𝕙𝕠𝕦𝕤𝕖
+    location: "United States"
+    followers: 73400
+    engagement: 1887
+    commentsToLikes: 0.070519
+    id: ckbf5tow6v2560j23uky0rmc1
+    verified: false
+    hashtags: "#texas, #foryou, #food, #texascheck"
+  - username: "itsjazziejas"
+    fullname: >-
+      Jasmine💕🥳
+    bio: >-
+      CEO of We Got A Situation 21🍾SaTx🤠40k🥺 I lift🏋🏽‍♀️ Dreams to Reality
+    location: "United States"
+    followers: 37500
+    engagement: 1659
+    commentsToLikes: 0.054799
+    id: ck9si0azswc3o0j78mepe17oz
+    verified: false
+    hashtags: "#greenscreensticker, #halloween, #micellarrewind, #sanantonio"
   - username: "monicalicea7"
     fullname: >-
       Monica Licea
+    bio: >-
+      Trying to raise money for a car to get to work and take my dad to the doctor
     location: "United States"
-    followers: 2332
-    engagement: 700
-    commentsToLikes: 0.055556
+    followers: 2319
+    engagement: 681
+    commentsToLikes: 0.057572
     id: cka8dxwpduuk50i7824ddyuwa
     verified: false
-    hashtags: "#bloopers, #pitbull, #food, #brother"
-  - username: "fullnelsoneats"
-    fullname: >-
-      Full Nelson
-    location: "United States"
-    followers: 5815
-    engagement: 438
-    commentsToLikes: 0.027206
-    id: cka0n9oxyyqlu0i783stv48hb
-    verified: false
-    hashtags: "#gamer, #pizza, #nike, #salsa"
-  - username: "cortneyvillarreal"
-    fullname: >-
-      Cortney Villarreal
-    location: "United States"
-    followers: 2175
-    engagement: 585
-    commentsToLikes: 0.015887
-    id: cka6bl4ez0oa30i78e8jm85nd
-    verified: false
-    hashtags: "#fridaythe13th, #tiktokreviews, #cool, #yourturnchallenge"
-  - username: "realbeautyful"
-    fullname: >-
-      beautifulwoahman
-    location: "United States"
-    followers: 12541
-    engagement: 976
-    commentsToLikes: 0.042850
-    id: ck9vf0z8v1ath0j78cwl7mja2
-    verified: false
-    hashtags: "#icandoit, #doimakeyou, #rednoseday, #bestfriend"
-  - username: "johnkneekushami"
-    fullname: >-
-      Johnknee Kushami
-    location: "United States"
-    followers: 10932
-    engagement: 841
-    commentsToLikes: 0.039041
-    id: ck8kh4c8pl9920j78keruh6ko
-    verified: false
-    hashtags: "#youtube, #franksinatra, #lonestarbeer, #ripvine"
-  - username: "originalgainsterr"
-    fullname: >-
-      originalgainsterrr
-    location: "United States"
-    followers: 81440
-    engagement: 841
-    commentsToLikes: 0.016998
-    id: ck8kh4eirl9sa0j78m4na0x36
-    verified: false
-    hashtags: "#heysiri, #airforce, #texascheck, #barbershop"
-  - username: "suertebargrill"
-    fullname: >-
-      Suerte Bar Grill
-    location: "United States"
-    followers: 10948
-    engagement: 389
-    commentsToLikes: 0.006785
-    id: ckacusah7kevq0i78x3eko6i5
-    verified: false
-    hashtags: "#safaera, #eloteman, #ffa, #drinks"
+    hashtags: "#covid19, #4u, #foryoupage, #fyp"
 ---

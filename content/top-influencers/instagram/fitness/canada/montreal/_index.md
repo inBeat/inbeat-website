@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Montreal In 2020
 description: >-
-  Find top fitness Instagram influencers in Montreal in 2020. Most popular hashtags: #fitness #montreal #sport #yoga.
+  Find top fitness Instagram influencers in Montreal in 2020. Most popular hashtags: #fitness #montreal #canada #fitnessmotivation.
 platform: Instagram
+hits: 64
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 64 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "corinnelaframboise"
+  - username: "thefitballerina"
     fullname: >-
-      Corinne Laframboise
+      MAUDE SABOURIN
+    bio: >-
+      🇨🇦 • Ballerina • Fitness coach • Founder of @theballetcure
     location: "Canada"
-    followers: 5745
-    engagement: 564
-    commentsToLikes: 0.057139
-    id: ck6tszr917r670j718v1nbq8n
+    followers: 12641
+    engagement: 368
+    commentsToLikes: 0.021797
+    id: ck6tpzhm2ojk50j71rn06kqqv
     verified: false
-    hashtags: "#champion, #version2, #quarantine, #confinement"
-  - username: "thechicacademic"
+    hashtags: "#throwback, #balletlove, #pointeshoes, #alamaison"
+  - username: "jean.phil.l"
     fullname: >-
-      Dr. Mary M. | Ottawa 🇨🇦
+      Jean-Philip / JP
+    bio: >-
+      Montréal 🇨🇦 Doctor | Fitness | Travel | Good vibes 👨🏼‍⚕️🏋🏼‍♂️🌎😇 In a world where you can be anything, be kind 🌈
     location: "Canada"
-    followers: 18960
-    engagement: 460
-    commentsToLikes: 0.264447
-    id: ck5zv1sil3fqm0i14favxtahy
+    followers: 90114
+    engagement: 608
+    commentsToLikes: 0.019277
+    id: ckap7uq39lnay0i780rancqgx
     verified: false
-    hashtags: "#thirstythursday, #wineglass, #winepassion, #lessonlearned"
+    hashtags: "#throwback, #canada, #vacation, #mykonos"
+  - username: "ahmedkarim94"
+    fullname: >-
+      Ahmed Karim/ احمد كريم
+    bio: >-
+      Cairo 🇪🇬/ Mtl 🇨🇦 Fitness As a Lifestyle ➡️“Run Your Own Race” The body achieves what the mind beleives⚡️ Online Coaching & Fitness Programs👇
+    location: "Canada"
+    followers: 10504
+    engagement: 770
+    commentsToLikes: 0.025571
+    id: ckap3d96x2kpy0i780nzhdp8z
+    verified: false
+    hashtags: "#onlinecoaching, #healthy, #egypt, #stayhealthy"
+  - username: "yvensb"
+    fullname: >-
+      Ｙｖｅｎｓ Ｂ.
+    bio: >-
+      Montreal Father, Sports, Fitness & Portrait Photographer, YouTuber ⬇️⬇️ Latest updates👇👇
+    location: "Canada"
+    followers: 34355
+    engagement: 336
+    commentsToLikes: 0.024209
+    id: ck6trlm7azowz0j71wwyhsbib
+    verified: false
+    hashtags: "#studio, #paulcbuff, #torontophotographer, #dailygrind"
+  - username: "ksfitness1"
+    fullname: >-
+      K r y s t l e 🖤S p e n c e🍑
+    bio: >-
+      PERSONAL TRAINER / ONLINE COACH 📍Canada based Lead with passion ♥️ and good intention 🙏🏼 Train like me ! FIT&FIRM program +Meal plan 🍎 👇🏼
+    location: "Canada"
+    followers: 44862
+    engagement: 119
+    commentsToLikes: 0.042933
+    id: ck6tui5kzggyw0j71ev8zgtsm
+    verified: false
+    hashtags: "#smile, #girlswholift, #fitbykrystle, #magic"
+  - username: "gab_bergeron"
+    fullname: >-
+      Gab
+    bio: >-
+      People will stare... Make it worth their while. 🇨🇦 montreal 👬 @subrosaeric
+    location: "Canada"
+    followers: 3842
+    engagement: 2183
+    commentsToLikes: 0.037770
+    id: ckaou3882ylg00i78we5uzr2v
+    verified: false
+    hashtags: "#vacation, #throwback, #gayscruff, #gayfitness"
+  - username: "caemckay"
+    fullname: >-
+      Caeli McKay
+    bio: >-
+      Team 🇨🇦 Diver Pan Am Gold 🥇 Silver 🥈 Commonwealth Silver 🥈 Inquiries: caeli@dulcedo.com 🍁canfund recipient
+    location: "Canada"
+    followers: 9028
+    engagement: 1062
+    commentsToLikes: 0.021215
+    id: ck6udqcr5mjyd0j71zv6cfi1o
+    verified: false
+    hashtags: "#quarentine, #montrealgirl, #sunshine, #diving"
   - username: "tnt__mma"
     fullname: >-
       Nordine taleb
+    bio: >-
+      Athlete UFC Pro Fighter My countries: 🇨🇦 🇫🇷 🇩🇿 Fighting out of TRISTAR GYM MONTREAL TIGER MUAYTHAI PHUKET Proud father and husband
     location: "Canada"
     followers: 13680
     engagement: 318
     commentsToLikes: 0.023968
     id: ck135cmcl0t1q0i19xz5d7f4w
     verified: true
-    hashtags: "#baseblocks, #wrestling, #yoga, #fitness"
-  - username: "beautybycarlydara"
+    hashtags: "#usa, #canada, #calisthenics, #bjjlifestyle"
+  - username: "woody_belfort"
     fullname: >-
-      Carly Dara 🦋 LIVE GIVEAWAYS 🎉
+      Montreal’s finest ♿️
+    bio: >-
+      • Living outside my comfort zone ✨ • Making the best with what I got 🔥 • New Month, New challenge : Slacklining DM me new challenges 🙏🏾
     location: "Canada"
-    followers: 13409
-    engagement: 551
-    commentsToLikes: 0.512203
-    id: ckap3770h1u6z0i78g1580xik
-    verified: false
-    hashtags: "#vitamiccday"
-  - username: "candied_chocolate"
-    fullname: >-
-      BRENDA 📍Montreal 🇨🇦
-    location: "Canada"
-    followers: 31683
-    engagement: 189
-    commentsToLikes: 0.204782
-    id: ck13bs4y0wwou0i19gdpg4i2k
-    verified: false
-    hashtags: "#teepeetent, #momsofinstagram, #momtog, #momtruths"
-  - username: "cp0031"
-    fullname: >-
-      Carey Price
-    location: "Canada"
-    followers: 231407
-    engagement: 1269
-    commentsToLikes: 0.009125
-    id: ck0uabddxbr7c0i19i6r8055r
+    followers: 59486
+    engagement: 224
+    commentsToLikes: 0.025322
+    id: ck5q4esw5ot350i11ox0ttfje
     verified: true
-    hashtags: "#allout, #girldad, #bellletstalk, #feedkidsnow"
-  - username: "caylinleia"
+    hashtags: "#fitness, #slackline, #bodybuilding, #wheelchairathlete"
+  - username: "abedelsafadi"
     fullname: >-
-      Caylin Leia
+      T E A M A B E D🦁
+    bio: >-
+      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 -What doesn't kill you makes you stronger-👑
     location: "Canada"
-    followers: 7404
-    engagement: 1005
-    commentsToLikes: 0.080957
-    id: ck8t688fxcml10j78e4g9wkj5
+    followers: 2353
+    engagement: 1428
+    commentsToLikes: 0.038805
+    id: ck601tcd3g4vt0i14dqtejepg
     verified: false
-    hashtags: "#worldcircusday, #planche, #deutschland, #visitbavaria"
-  - username: "vinceriendeau"
-    fullname: >-
-      Vincent Riendeau
-    location: "Canada"
-    followers: 17025
-    engagement: 1115
-    commentsToLikes: 0.010377
-    id: ck6udqdv6mk4e0j71wb856oav
-    verified: true
-    hashtags: "#beach, #studentathelte, #matching, #workout"
-  - username: "mariegabrielle.r"
-    fullname: >-
-      𝓜𝓪𝓻𝓲𝓮-𝓖𝓪𝓫𝓻𝓲𝓮𝓵𝓵𝓮
-    location: "Canada"
-    followers: 39651
-    engagement: 384
-    commentsToLikes: 0.109646
-    id: ckap8djm0nuss0i78ajf2m0sb
-    verified: false
-    hashtags: "#redwhiteandblue, #modellifestyle, #fypage, #niceview"
-  - username: "princess_jade_"
-    fullname: >-
-      Princess Jade
-    location: "Canada"
-    followers: 59371
-    engagement: 133
-    commentsToLikes: 0.038245
-    id: ck5cfcz8gmpjq0i11t1b2jp4s
-    verified: false
-    hashtags: "#stayactive, #thailandtravel, #uluwatu, #sanurhotel"
+    hashtags: "#boxingday, #gym, #fitnessmotivation, #mixedmartialarts"
 ---

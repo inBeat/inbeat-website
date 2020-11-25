@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Australia In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Australia in 2020. Most popular hashtags: #babygirl #mumlife #pregnancyhormones #nofilter.
+  Find top cosmetics Instagram influencers in Australia in 2020. Most popular hashtags: #beforeandafter #sydneymua #graphicliner.
 platform: Instagram
+hits: 142
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 142 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "misszedd"
+  - username: "recdedmond"
     fullname: >-
-      Bibles Of Truth 🙌🏾
+      Declan Redmond
+    bio: >-
+      @force_element_performance @james_cosmetics
     location: "Australia"
-    followers: 41283
-    engagement: 167
-    commentsToLikes: 0.119710
-    id: ck6trekr4yj2v0j71ebfe4iki
+    followers: 40503
+    engagement: 955
+    commentsToLikes: 0.028982
+    id: ck136fdfu68010i193es5uwhw
     verified: false
-    hashtags: "#bossbabe, #porcelainpicasso, #katthelabel, #faceliposuction"
+    hashtags: "#fridaynightsaredifferentnow, #daddysgirl, #familyiseverything"
   - username: "nurse_dior"
     fullname: >-
       NURSE DIOR
+    bio: >-
+      🤍 Cosmetic Nurse 💕 Contour Connoisseur 📍 Brisbane, Australia
     location: "Australia"
-    followers: 7675
-    engagement: 527
-    commentsToLikes: 0.081380
+    followers: 11265
+    engagement: 515
+    commentsToLikes: 0.218130
     id: ck8t3y5va4x3u0j788ha4pnzv
     verified: false
-    hashtags: ""
-  - username: "kayleighdouglas"
+    hashtags: "#weddinganniversary"
+  - username: "bellastonegardner"
     fullname: >-
-      Kayleigh Douglas
+      BELLA S♱ONE
+    bio: >-
+      Cosmetic Tattooist 💉 Founder&CEO Vegan Lash & Brow serum @bellastonelash @bellastonelashresults for longer #lashes & fuller #brows results in 28days!
     location: "Australia"
-    followers: 102536
-    engagement: 229
-    commentsToLikes: 0.036114
-    id: ckaorg6wxn2hm0i78xwq18v6e
+    followers: 35607
+    engagement: 431
+    commentsToLikes: 0.001996
+    id: ck8swjh66eano0j78elyobncs
     verified: false
-    hashtags: "#flashback, #gymwear, #gym, #blackonblack"
-  - username: "brooklynkellyy"
+    hashtags: "#moveinbamboo, #bamboo, #activewear"
+  - username: "linda_mua"
     fullname: >-
-      BROOKLYN KELLY
+      Linda Tran
+    bio: >-
+      @itsabeauulife ▫️SYD / MAKE-UP ARTIST / BRIDAL / SHOOTS / LESSONS / COSMETIC TATTOO ▫️ ✉️ info@lindamua.com.au
     location: "Australia"
-    followers: 387747
-    engagement: 144
-    commentsToLikes: 0.020132
-    id: ck0ucavo3gdz30i197ht6shix
+    followers: 41888
+    engagement: 146
+    commentsToLikes: 0.071980
+    id: ck5q0a40t4zyi0i11byerc21r
     verified: false
-    hashtags: "#glassons, #presetsbybrooklyn"
-  - username: "ashleyhooverx"
-    fullname: >-
-      Ashley Hoover
-    location: "Australia"
-    followers: 8710
-    engagement: 865
-    commentsToLikes: 0.019148
-    id: ck13a5viaorjv0i191dntespq
-    verified: false
-    hashtags: "#stage10clinger, #twomonthsold, #babygirl, #lydiarose"
-  - username: "suziemcintosh"
-    fullname: >-
-      Suzie Mcintosh Brows ®
-    location: "Australia"
-    followers: 43549
-    engagement: 109
-    commentsToLikes: 0.092189
-    id: ck14hxh8acmnr0i19dysbyjo8
-    verified: false
-    hashtags: "#wowbrows, #glowup, #bosslady, #bootybuilding"
+    hashtags: "#makeup, #sydneymua, #lindamua, #bridalmakeup"
   - username: "emilyskyefit"
     fullname: >-
       ᗴᗰIᒪY ᔕKYᗴ | 𝘍𝘪𝘵𝗇𝖾𝗌𝗌 + 𝖧𝖾𝖺𝗅𝗍𝗁
+    bio: >-
+      🖤 @james_cosmetics Co Founder 💖 @womensbest 💄 @emilyskyebeauty 📲 Train with me for FREE for 7 days on my FIT APP here ⬇️
     location: "Australia"
-    followers: 2579872
-    engagement: 238
-    commentsToLikes: 0.028582
+    followers: 2587367
+    engagement: 293
+    commentsToLikes: 0.014419
     id: ck136fczj67xj0i19enbq3wrk
     verified: true
-    hashtags: "#pregnancysafeexercises, #strongwomenlifteachotherup, #32weekspregnant, #30weekspregnant"
+    hashtags: "#postpartumbody, #postpartum, #womensbest, #babyboy"
+  - username: "liahmorley"
+    fullname: >-
+      liah morley
+    bio: >-
+      19 | Perth, AUS | self taught | she/her @laroc_cosmetics code: LIAHMORLEY25 twitter and tiktok: liahmorley codes to save ⬇️
+    location: "Australia"
+    followers: 235901
+    engagement: 462
+    commentsToLikes: 0.022973
+    id: ck0w6mz7g9cb50i19qwdygm7c
+    verified: false
+    hashtags: "#100daysofmakeup, #colourpopcosmetics, #cutcrease, #makeuptutorials"
+  - username: "donnrobertson"
+    fullname: >-
+      Don Vido ♛
+    bio: >-
+      A catalogue of my work. Designer, Photographer, Creative Director, Founder: @staxofficial_ @vido___official @fille.cosmetics @thesauce_withdonandtil
+    location: "Australia"
+    followers: 41165
+    engagement: 182
+    commentsToLikes: 0.075076
+    id: ck5pz75g1zjrc0i11u1ixx0cs
+    verified: false
+    hashtags: "#stax, #vido, #psv3, #dressesbydon"
   - username: "dr.dee_official"
     fullname: >-
       dr.deepan duraisamy (dr.dee)
+    bio: >-
+      Cosmetic Dentist Founder- Vogue Dental Studios Melbourne, Australia
     location: "Australia"
-    followers: 120195
-    engagement: 192
-    commentsToLikes: 0.008981
+    followers: 125437
+    engagement: 178
+    commentsToLikes: 0.013084
     id: ck0ubn97vf0ok0i19g9tarlh3
     verified: false
-    hashtags: "#proud, #throwback, #repost, #stopgrowing"
-  - username: "donnrobertson"
+    hashtags: "#veneers, #smilemakeover, #newsmile, #picassoporcelainveneers"
+  - username: "misszedd"
     fullname: >-
-      Don Robertson ♛
+      Bibles Of Truth 🙌🏾
+    bio: >-
+      👸🏽@bridezillaevents @misszeddshop 📍Melbs 💉@cosmetic_avenue 🦷@dr.dee_official #operationbratzdoll #bigbootybarbie ⬇️55K YT Schnacks
     location: "Australia"
-    followers: 33632
-    engagement: 140
-    commentsToLikes: 0.070327
-    id: ck5pz75g1zjrc0i11u1ixx0cs
+    followers: 58251
+    engagement: 78
+    commentsToLikes: 0.067965
+    id: ck6trekr4yj2v0j71ebfe4iki
     verified: false
-    hashtags: "#vogue, #dadhat, #cap, #paris"
-  - username: "nanamirdad_"
+    hashtags: "#misszedd, #misszeddpresets, #misszeddshop, #chanel"
+  - username: "super_kana_"
     fullname: >-
-      Nana Mirdad
+      Japanese World Traveller✈︎
+    bio: >-
+      🌸Japan/FUK🇯🇵→AUS🇦🇺→QR🇶🇦→DXB🇦🇪⇆🌍 🌸外資系客室乗務員✈︎ 51countries 🌸Makeup 美容| cosmetics lover💄 🌸Workout🏋️‍♀️ 🌸象使い | elephant license🐘
     location: "Australia"
-    followers: 2844095
-    engagement: 130
-    commentsToLikes: 0.005015
-    id: ck13caa0nzd740i19iagnha23
-    verified: true
-    hashtags: "#byengilu, #staminaprimatubuhtetapfitterjaga, #teatime, #mumlife"
+    followers: 8887
+    engagement: 408
+    commentsToLikes: 0.022963
+    id: ck9wdq8k7grho0j78r9jie15v
+    verified: false
+    hashtags: "#cappadocia, #dubai, #turkey, #crewlife"
 ---

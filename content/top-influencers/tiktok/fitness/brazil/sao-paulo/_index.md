@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Sao Paulo In 2020
 description: >-
-  Find top fitness TikTok influencers in Sao Paulo in 2020. Most popular hashtags: #fitness #coronavirus #saopaulo #dance.
+  Find top fitness TikTok influencers in Sao Paulo in 2020. Most popular hashtags: #saopaulo #brasil #riodejaneiro #fitness.
 platform: TikTok
+hits: 16
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "ocaetanno"
+  - username: "sabonetesarte"
     fullname: >-
-      CAETANNO
+      sabonetes_artecomamo
+    bio: >-
+      ❤ SABONETES ARTESANAIS!!🧼 👇PEGUE SUA RECEITA AQUI 👇
     location: "Brazil"
-    followers: 5057
-    engagement: 831
-    commentsToLikes: 0.080909
-    id: ck94g4ojdebcx0j78qg0p1mey
+    followers: 3741
+    engagement: 737
+    commentsToLikes: 0.020285
+    id: ckd0iipwdf0nm0j23fdh24goz
     verified: false
-    hashtags: "#tiktokemcasa, #cuarentena, #standupbrasil, #minhamentira"
+    hashtags: "#rendaextra, #mulheres, #sabonete, #diadamulher"
+  - username: "gil.e.cia"
+    fullname: >-
+      Gil Rafael
+    bio: >-
+      São Paulo -SP Instagram @pequeno.gil e @marciliowtiha 💦
+    location: "Brazil"
+    followers: 5557
+    engagement: 525
+    commentsToLikes: 0.009471
+    id: ckb9r7b02nj290j23x918swfv
+    verified: false
+    hashtags: "#gatinho, #cute, #quarentena, #dance"
+  - username: "miranda65fitness"
+    fullname: >-
+      Dani Miranda
+    bio: >-
+      ✨@miranda65fitness. Vou compartilhar minha experiências gravadas em vídeo aqui!
+    location: "Brazil"
+    followers: 2256
+    engagement: 3861
+    commentsToLikes: 0.019553
+    id: ckcv7ef7rpzu80j23qsd55aq8
+    verified: false
+    hashtags: "#blogueira, #fozdoigua, #pomerania, #saopaulo"
+  - username: "premiojovem"
+    fullname: >-
+      @premiojovem
+    bio: >-
+      
+    location: "Brazil"
+    followers: 20300
+    engagement: 665
+    commentsToLikes: 0.075393
+    id: ckcptx61dorrm0j23zazq6rlf
+    verified: true
+    hashtags: "#premiojovem, #riodejaneiro, #music, #gera"
   - username: "vivienandrade"
     fullname: >-
       Vivien Andrade
+    bio: >-
+      Follow me too on Instagram @vivienandrade Me siga tb no Instagram @vivienandrade
     location: "Brazil"
-    followers: 52835
-    engagement: 579
-    commentsToLikes: 0.038733
+    followers: 56800
+    engagement: 758
+    commentsToLikes: 0.039911
     id: ck9gnt7xjy0a70j78fz465dg8
     verified: false
-    hashtags: "#fergie, #boredinthehouse, #pushups, #pushupchallenge"
-  - username: "pradorobi"
+    hashtags: "#riodejaneiro, #workout, #makemefamous, #fortnite"
+  - username: "pgmorfina"
     fullname: >-
-      Andressa Prado Robi
+      Programa Morfina
+    bio: >-
+      Porque rir sempre foi o melhor remédio 🤣 insta: @pgmorfina
     location: "Brazil"
-    followers: 4851
-    engagement: 501
-    commentsToLikes: 0.044038
-    id: ck8s84l4js3n30j78xpgypug9
+    followers: 17100
+    engagement: 1548
+    commentsToLikes: 0.028559
+    id: ckcpef5fugc6j0j23vuzc8quh
     verified: false
-    hashtags: "#kungfufighting, #musculacao, #precisodemais, #amotreinar"
+    hashtags: "#funny, #smile, #comedia, #meme"
+  - username: "rivanildoatitude"
+    fullname: >-
+      Rivanildo Camilo Diniz
+    bio: >-
+      
+    location: "Brazil"
+    followers: 5311
+    engagement: 773
+    commentsToLikes: 0.063700
+    id: ckc8bdc4n7s2u0j23hay9zrbq
+    verified: false
+    hashtags: "#boy, #viral, #ri, #pandemia"
+  - username: "janainasampaio09"
+    fullname: >-
+      Janaína Sampaio
+    bio: >-
+      Me sigam no Instagram @Janainasampaio09
+    location: "Brazil"
+    followers: 21700
+    engagement: 786
+    commentsToLikes: 0.019625
+    id: ckd61tt8u1ln10j23s7sw0yeu
+    verified: false
+    hashtags: "#saopaulo, #morena, #riodejaneiro, #boatarde"
+  - username: "drmaurocasanova"
+    fullname: >-
+      Mauro Casanova
+    bio: >-
+      instagram:@drmaurocasanovaoficial Ginecologia Sexologia Obstetra US Crosfitter
+    location: "Brazil"
+    followers: 105900
+    engagement: 644
+    commentsToLikes: 0.017431
+    id: ckc8avlsa7i9o0j23aj88u26r
+    verified: false
+    hashtags: "#casais, #ribeiraopreto, #trendingtopic, #informacaoimportante"
   - username: "abrantesoficial"
     fullname: >-
       Abrantes Júnior
+    bio: >-
+      
     location: "Brazil"
-    followers: 18356
-    engagement: 169
-    commentsToLikes: 0.014427
+    followers: 18200
+    engagement: 206
+    commentsToLikes: 0.011114
     id: ckacj1brr5ppb0i78q8tpaa0u
     verified: false
-    hashtags: "#milagre, #assalto, #igreja, #ceara"
-  - username: "deboramanfronn"
-    fullname: >-
-      Débora Manfron
-    location: "Brazil"
-    followers: 3071
-    engagement: 809
-    commentsToLikes: 0.028949
-    id: ck9glce8vnk6u0j78s150m4o0
-    verified: false
-    hashtags: "#treino, #brasilia, #curitiba, #havingfun"
-  - username: "allanxau"
-    fullname: >-
-      Allan Schau
-    location: "Brazil"
-    followers: 30014
-    engagement: 1142
-    commentsToLikes: 0.027161
-    id: ck8w3f6xj7j5p0j78lsdtukst
-    verified: false
-    hashtags: "#mugshot, #cradles, #love, #marshmello"
-  - username: "desimpedidos"
-    fullname: >-
-      Desimpedidos
-    location: "Brazil"
-    followers: 340129
-    engagement: 1059
-    commentsToLikes: 0.006722
-    id: ck9aekcrw2eu10j78lts5h32u
-    verified: true
-    hashtags: "#bicicleta, #parkour, #line, #bbb20"
-  - username: "livreborges"
-    fullname: >-
-      Jean Borges
-    location: "Brazil"
-    followers: 122176
-    engagement: 654
-    commentsToLikes: 0.033406
-    id: ck83wyy6fn54v0j789m8qll5b
-    verified: true
-    hashtags: "#surf, #fitcouplegoals, #saude, #coronavirus"
-  - username: "lidiamub"
-    fullname: >-
-      Lidia Mub
-    location: "Brazil"
-    followers: 145332
-    engagement: 396
-    commentsToLikes: 0.032646
-    id: ck930juqsb4be0j788zcpnjgm
-    verified: false
-    hashtags: "#girlpower, #couplefit, #ballerinacheck, #tutorialtiktok"
-  - username: "gabikarasek"
-    fullname: >-
-      Gabriela Karasek
-    location: "Brazil"
-    followers: 6038
-    engagement: 522
-    commentsToLikes: 0.032290
-    id: ck92trhltj40b0j78j6qvy1eh
-    verified: false
-    hashtags: "#tagdecasal, #meerra, #sovacotemcura, #fitness"
+    hashtags: "#manaus, #saopaulo, #recordtv, #humorchalllenge"
 ---

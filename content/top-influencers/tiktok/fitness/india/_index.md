@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In India In 2020
 description: >-
-  Find top fitness TikTok influencers in India in 2020. Most popular hashtags: #workout #love #doubleexposure #pushups.
+  Find top fitness TikTok influencers in India in 2020. Most popular hashtags: #fyp #tidelagaodaaghatao #tiktok #foryoupage.
 platform: TikTok
+hits: 803
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 803 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "insidefitness"
     fullname: >-
       Fitness
+    bio: >-
+      Fitness, Influencer Thank you for 1 Million ❤️
     location: "India"
-    followers: 70884
-    engagement: 1375
-    commentsToLikes: 0.010091
+    followers: 69800
+    engagement: 1121
+    commentsToLikes: 0.011140
     id: ckacstltubo080i78gn4zdffv
     verified: false
-    hashtags: "#helpme, #follow, #cuteornot, #download"
+    hashtags: "#foryourpage, #staypositive, #like, #eidmubarak"
+  - username: "iammonarajput420"
+    fullname: >-
+      Mona Rajput
+    bio: >-
+      RAJPUT GIRL(fitness inst.) Need diet chart(paid) Dm- Instagram🤘 #Jerksstayaway
+    location: "India"
+    followers: 33000
+    engagement: 4889
+    commentsToLikes: 0.053983
+    id: ckbqsugfvdnit0j23asmz83rs
+    verified: false
+    hashtags: "#tiktokindia, #fitgirl, #viral, #comedy"
   - username: "artidangwalss"
     fullname: >-
       Arti Dangwalss
+    bio: >-
+      zumba n Aerobics instructor 💪💃🏋️,REEBOK certified fitness instructor
     location: "India"
-    followers: 3452
-    engagement: 4140
-    commentsToLikes: 0.068622
+    followers: 3416
+    engagement: 2391
+    commentsToLikes: 0.039728
     id: ck9ejlcbt39am0j78onk0vcxn
     verified: false
-    hashtags: "#holidaymode, #luvher, #luvtomakevideos, #butitstrue"
-  - username: "amithooda_thebeast"
-    fullname: >-
-      Amit Hooda
-    location: "India"
-    followers: 16177
-    engagement: 1852
-    commentsToLikes: 0.094016
-    id: ck9f2mvs3dt8b0j78davvfcyo
-    verified: false
-    hashtags: "#tiktoktindia, #jaatni, #fitness, #dance"
+    hashtags: "#buggi, #haryanvisong, #happysoul, #adss"
   - username: "pardeeprawat91"
     fullname: >-
       pradeep rawat
+    bio: >-
+      Fitness ka Pagalpun💪🏻 Insta fitnesslover 💪🏻 Fitness coach Love only👉Phadi
     location: "India"
-    followers: 12890
-    engagement: 1654
-    commentsToLikes: 0.055673
+    followers: 12800
+    engagement: 2086
+    commentsToLikes: 0.029094
     id: ck83k3eh8908e0j78w9080ypp
     verified: false
-    hashtags: "#sadsongpunjabi, #diwanapan, #protein, #chestworkout"
-  - username: "arun_pandito2"
+    hashtags: "#stayhom, #stayhome, #fitness, #fitnessindia"
+  - username: "dheerajsharma147"
     fullname: >-
-      Arun_pandit
+      Dheeraj sharma💪
+    bio: >-
+      fitness freak...., #fitness trainer #fitx gym model 😘 #motivator
     location: "India"
-    followers: 44026
-    engagement: 2155
-    commentsToLikes: 0.036297
-    id: cka0o6ho82gg60i78d2v3jrdi
+    followers: 4496
+    engagement: 3372
+    commentsToLikes: 0.027713
+    id: ckbrd09qzqpgu0j23ve8ccrb0
     verified: false
-    hashtags: "#gymworkout, #attitude, #wipeitdown, #bhole"
+    hashtags: "#doubleexposure, #angerchallenge, #workoutathome, #quarentinelife"
+  - username: "lovesumit0"
+    fullname: >-
+      Love Sumit
+    bio: >-
+      FITNESS MODEL
+    location: "India"
+    followers: 28400
+    engagement: 2095
+    commentsToLikes: 0.051938
+    id: ckbb3qzisu2440j23noirsido
+    verified: false
+    hashtags: "#tidelagaodaaghatao, #foryourpage, #fitnessindia"
+  - username: "sassyme1112"
+    fullname: >-
+      Tanvii Chandna
+    bio: >-
+      Love dancing Fitness freak Positive attitude
+    location: "India"
+    followers: 2131
+    engagement: 1624
+    commentsToLikes: 0.102971
+    id: ckbqoecwd93860j23nu6kpvbg
+    verified: false
+    hashtags: "#women, #curvygirl, #comedyact, #trending"
+  - username: "amithooda_thebeast"
+    fullname: >-
+      Amit Hooda
+    bio: >-
+      Beast mode always on🤫 Certified fitness trainer Insta: Beast_007_mode
+    location: "India"
+    followers: 18200
+    engagement: 1592
+    commentsToLikes: 0.083976
+    id: ck9f2mvs3dt8b0j78davvfcyo
+    verified: false
+    hashtags: "#foryou, #fyp, #trending, #duet"
+  - username: "commando.21"
+    fullname: >-
+      RD hooda 👮
+    bio: >-
+      follow on insta for best fitness tips 💪👈 IG:- cammando_07 IG: @vashisthfitness
+    location: "India"
+    followers: 38400
+    engagement: 2762
+    commentsToLikes: 0.034088
+    id: ck9fhpoj071rr0j78mfrdwe08
+    verified: false
+    hashtags: "#happydance, #expressionchallenge, #tidelagaodaaghatao, #bellaciao"
   - username: "olympia3233"
     fullname: >-
       Sardarni💪
+    bio: >-
+      Fitness freak💪❤️
     location: "India"
-    followers: 54312
-    engagement: 1884
-    commentsToLikes: 0.104828
+    followers: 53000
+    engagement: 1538
+    commentsToLikes: 0.088392
     id: ck9eukia1e6f10j78ss4mdf8m
     verified: false
-    hashtags: "#biecepsworkout, #missyougym, #absworkout, #gymworkoutsong"
-  - username: "fitnesslover50"
-    fullname: >-
-      fitness lover
-    location: "India"
-    followers: 6100
-    engagement: 2276
-    commentsToLikes: 0.018594
-    id: ck9ke9adrxv8q0j78bl8ij1v1
-    verified: false
-    hashtags: "#bollywoodlove, #doubleexposure"
-  - username: "ruvaizsultan"
-    fullname: >-
-      Ruvaiz Sultan
-    location: "India"
-    followers: 11593
-    engagement: 1268
-    commentsToLikes: 0.037321
-    id: ck9tu95qkkaqm0j789jnowpde
-    verified: false
-    hashtags: "#samjhe, #jaan, #gymnastics, #dekhna"
-  - username: "saurabhchaudhary_fitness"
-    fullname: >-
-      SaurabhChaudhary 
-    location: "India"
-    followers: 9497
-    engagement: 2788
-    commentsToLikes: 0.011084
-    id: ck9k5qof2xrdy0j7863h9ell4
-    verified: false
-    hashtags: "#herdedic, #tiktok"
-  - username: "faizraja330"
-    fullname: >-
-      Faiz Raja
-    location: "India"
-    followers: 451253
-    engagement: 1540
-    commentsToLikes: 0.023275
-    id: cka0o6i5v2gmt0i788rki7630
-    verified: false
-    hashtags: "#doubleexposure"
+    hashtags: "#cardioworkout, #strong, #viralvideo, #missyougym"
 ---

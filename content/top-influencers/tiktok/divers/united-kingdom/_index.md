@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top divers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #dance #viral #coronavirus.
+  Find top divers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
+hits: 49
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database has 49 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "yonakw"
-    fullname: >-
-      Yona Knight-Wisdom
-    location: "United Kingdom"
-    followers: 27251
-    engagement: 902
-    commentsToLikes: 0.029648
-    id: cka0livkvr9p70i781b9p8vcn
-    verified: false
-    hashtags: "#england, #commonwealth, #aitch, #michaeljordan"
   - username: "diversityofficial"
     fullname: >-
       “We are Diversity.”
+    bio: >-
+      https:/www.ticketmaster.co.uk/diversity-connected www.20dv.co.uk BLM👇🏽
     location: "United Kingdom"
-    followers: 53777
-    engagement: 844
-    commentsToLikes: 0.018569
+    followers: 67000
+    engagement: 972
+    commentsToLikes: 0.019994
     id: cka0lit71r91i0i78kve30p45
     verified: false
-    hashtags: "#20dv, #adobe, #stayinside, #covid19"
+    hashtags: "#diversityjuniors, #dvfam, #dv, #dvj"
+  - username: "diversityfan"
+    fullname: >-
+      Diversity ❤️
+    bio: >-
+      A fan for diversity :)
+    location: "United Kingdom"
+    followers: 19500
+    engagement: 1038
+    commentsToLikes: 0.020489
+    id: ckbkrqqvlmgzp0j23dxwb3aqs
+    verified: false
+    hashtags: "#20dv, #bgt, #perrikiely, #samcraske"
+  - username: "yonakw"
+    fullname: >-
+      Yona Knight-Wisdom
+    bio: >-
+      🇯🇲 Diver CEO of dipping the board Here for the good, the bad and the ugly
+    location: "United Kingdom"
+    followers: 112100
+    engagement: 895
+    commentsToLikes: 0.013318
+    id: cka0livkvr9p70i781b9p8vcn
+    verified: false
+    hashtags: ""
   - username: "rosshaslam"
     fullname: >-
       Ross Haslam
+    bio: >-
+      22•🇬🇧•Diver Insta: @rosshaslam 🙏
     location: "United Kingdom"
-    followers: 13993
-    engagement: 1376
-    commentsToLikes: 0.014646
+    followers: 27000
+    engagement: 1461
+    commentsToLikes: 0.011342
     id: ck8z6rcfnn9010j787uqk4koy
     verified: false
-    hashtags: "#worldchamps, #teamwork, #soundon, #brother"
-  - username: "jessgreenash"
+    hashtags: "#viral, #slowmotion, #wipeout, #foru"
+  - username: "sambuca54"
     fullname: >-
-      jezza
+      Sam Buca
+    bio: >-
+      CEO of not adding anything to the video Diverse Content from Comedy😂 to Horror?
     location: "United Kingdom"
-    followers: 71260
-    engagement: 1090
-    commentsToLikes: 0.015189
-    id: cka6inge0rew30i78x1limqxg
+    followers: 8175
+    engagement: 1005
+    commentsToLikes: 0.012135
+    id: ckb9bqjxdy57o0j23u6pffm22
     verified: false
-    hashtags: "#absoul, #makeitred, #imbackbaby, #periodproblems"
+    hashtags: "#foryou, #kidsoftiktok, #tiktoktraditions, #comedy"
   - username: "jordbanjo"
     fullname: >-
       Jordan Banjo
+    bio: >-
+      Dad, dancer, presenter. Diversity. Novice tiktoker.
     location: "United Kingdom"
-    followers: 163836
-    engagement: 835
-    commentsToLikes: 0.008073
+    followers: 244600
+    engagement: 981
+    commentsToLikes: 0.006960
     id: ck8ae3iwa9hvn0j78g8v874of
     verified: true
-    hashtags: "#lionking, #houseoftiktok, #boredchallange, #inthecrowd"
-  - username: "tomdaley"
+    hashtags: "#foryou, #fyp, #foryourpage, #kids"
+  - username: "jackdlaugher"
     fullname: >-
-      Tom Daley
+      JackDLaugher
+    bio: >-
+      🥇OLYMPIC GOLD MEDALIST🥇 🇬🇧BRITISH DIVER🇬🇧
     location: "United Kingdom"
-    followers: 280704
-    engagement: 798
-    commentsToLikes: 0.008010
-    id: ck81s8lkmqu3u0j78yonjeh3u
+    followers: 71100
+    engagement: 642
+    commentsToLikes: 0.012669
+    id: ckbw73iw7you50j231941tvhj
     verified: true
-    hashtags: "#stairchallenge, #hashtag, #help, #babyshark"
-  - username: "garethandkiruna"
+    hashtags: "#foryou, #xyzbca, #fyp, #motivation"
+  - username: "thebookmarvel"
     fullname: >-
-      GarethandKiruna
+      Ethan
+    bio: >-
+      He/him 21 TikToks about books because that’s the content we need📚🏳️‍🌈📖
     location: "United Kingdom"
-    followers: 7803
-    engagement: 266
-    commentsToLikes: 0.016863
-    id: cka0liu4ar9dz0i78mx5zdmmj
+    followers: 14800
+    engagement: 1852
+    commentsToLikes: 0.066568
+    id: ckd096wwibgi30j23sr4ifb2c
     verified: false
-    hashtags: "#difference, #standupcomedy, #representation, #billyjean"
-  - username: "hadealspeaks"
+    hashtags: "#diversebooks, #books, #bookunboxing, #bookhumor"
+  - username: "princecosplay"
     fullname: >-
-      Haddy 💗
+      Princecosplay
+    bio: >-
+      Unapologetically black Safe space for women, LGBTQ and POC 102k IG : eyes1898
     location: "United Kingdom"
-    followers: 13457
-    engagement: 2299
-    commentsToLikes: 0.091889
-    id: ck9f9quhz7y500j78qdwjisd1
+    followers: 23100
+    engagement: 2045
+    commentsToLikes: 0.083512
+    id: ckd6wfycts7g50j2326azu3pd
     verified: false
-    hashtags: "#pride, #world, #beauty, #empowerment"
-  - username: "heyyyhoeeeee"
+    hashtags: "#snowbunny, #duet, #karen, #darkskin"
+  - username: "torie_snelvis"
     fullname: >-
-      Heyyyyhoe
+      Victoria Snell
+    bio: >-
+      Also on Instagram as torie_snelvis
     location: "United Kingdom"
-    followers: 5446
-    engagement: 1426
-    commentsToLikes: 0.049241
-    id: ck92x2pwxww110j784pfxfc5l
+    followers: 2560
+    engagement: 758
+    commentsToLikes: 0.065972
+    id: ckdbs11z4ccx90j23qggeemrl
     verified: false
-    hashtags: "#history, #quarantine, #collection, #remix"
-  - username: "official_gamer_jay"
-    fullname: >-
-      🤩🤩JAY🤩🤩
-    location: "United Kingdom"
-    followers: 5428
-    engagement: 856
-    commentsToLikes: 0.065771
-    id: ck9ey64eruhkc0j78ypmltdf1
-    verified: false
-    hashtags: "#fiance, #togetherforever, #draftclearout, #mybabygirl"
+    hashtags: "#amputeelife, #voiceeffects, #disabledtiktok, #greysanatomy"
 ---

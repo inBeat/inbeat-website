@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top makeup Instagram influencers in Indonesia in 2020. Most popular hashtags: #makeupyouaja #stayathome #makeupsimple #passthebrush.
+  Find top makeup Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #ootdwithnuabee #nuabee #supportlocalbrand.
 platform: Instagram
+hits: 1480
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 1480 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "charance_c"
+  - username: "karinporavne"
     fullname: >-
-      OPEN COLLABS & ENDORSEMENT 🧡
+      MAKEUP & LASH FILLER 🤍
+    bio: >-
+      • Makeup artist | Bridal & beauty •Certified by @makeupbymario @belamakeuplada @ana.minic • Lash filler by @inlei_italy 📍Ljubljana, Slovenia
     location: "Indonesia"
-    followers: 9579
-    engagement: 1597
-    commentsToLikes: 0.226606
-    id: ck9wgi12nti6c0j78h8ke1sqd
+    followers: 14913
+    engagement: 1327
+    commentsToLikes: 0.090320
+    id: ck6tuqz0uhwdy0j71pn10zbsd
     verified: false
-    hashtags: "#quarantinelife, #cutcrease, #quarantine, #ootdinspo"
-  - username: "indah.faaz"
+    hashtags: "#lashfiller, #ad, #muabykarin, #nudestix"
+  - username: "irmafrz"
     fullname: >-
-      🄸🄽🄳🄰🄷 🄵🄰🅃🄸🄼🄰🄷 🄰🅉🄽🄸🅃🄰
+      Irma Farez
+    bio: >-
+      💄makeup artist x beauty vlogger Wa : 081703003833 (nia ) Email : irmafarez14@gmail.com MyYoutubechannel ⬇️⬇️⬇️
     location: "Indonesia"
-    followers: 10508
-    engagement: 1295
-    commentsToLikes: 0.679209
-    id: ck9whrv6iz7h60j7893xlzn8j
+    followers: 85084
+    engagement: 711
+    commentsToLikes: 0.050132
+    id: ck5ce8jq9kjwx0i112dzmoy74
     verified: false
-    hashtags: "#catatanindahhariini"
+    hashtags: "#facepaint, #facepainting, #disney, #tiktokindonesia"
   - username: "srisuhe"
     fullname: >-
       sri andriyani
+    bio: >-
+      스리 앤 리야 니 🏡 Sumedang city Makeup 💄💋 Coffee ☕
     location: "Indonesia"
-    followers: 4456
-    engagement: 2021
-    commentsToLikes: 0.231242
+    followers: 5146
+    engagement: 1722
+    commentsToLikes: 0.209513
     id: ck9wh5p9awdhh0j782hd230rh
     verified: false
-    hashtags: "#jatigede, #bendunganjatigede, #inimahsumedang, #lingkartimurwadukjatigede"
-  - username: "nadyaaqilla"
+    hashtags: "#lingkartimurwadukjatigede, #pajagan, #jatigede, #sumedanghijab"
+  - username: "dilaprilyanii"
     fullname: >-
-      NADYA AQILLA
+      Dila Aprilyani
+    bio: >-
+      perfection belongs only to Allah💫 @minithrifts29 @dilaprilyani_makeup @bridal_yulianaakbar
     location: "Indonesia"
-    followers: 113697
-    engagement: 350
-    commentsToLikes: 0.041889
-    id: ck13b81e2u5dj0i19kuyuqkqy
+    followers: 7469
+    engagement: 1212
+    commentsToLikes: 0.085187
+    id: ck9wh5smswdy90j78yjxsyiv4
     verified: false
-    hashtags: "#eminabeautybestie, #innisfreeindonesia, #abcdailyserum, #virtualphotoshoot"
-  - username: "liviasugondo08"
+    hashtags: "#pengantinpontianak, #stayhome, #dirumahaja, #lfl"
+  - username: "angelineay"
     fullname: >-
-      OPEN EDORSE, COLLABS, & PP
+      Angeline Yapto🦋
+    bio: >-
+      of me doing makeups🧝🏻‍♀️🧚🏻‍♀️🧟‍♀️
     location: "Indonesia"
-    followers: 9897
-    engagement: 904
-    commentsToLikes: 0.079531
-    id: ck9who291yriv0j78ypsp8539
+    followers: 7196
+    engagement: 876
+    commentsToLikes: 0.087487
+    id: ck5c52j6e2lnf0i11i523gsj9
     verified: false
-    hashtags: "#indomusikgram, #vocalplus"
-  - username: "lailauul"
+    hashtags: "#makeupartist, #makeupideas, #coretanangel, #makeuptutorial"
+  - username: "niaingrid"
     fullname: >-
-      Uul ✨ || makeup tutorial 🎨
+      Balik lagi bersama NIAINGRID 😜
+    bio: >-
+      🎨FaceArt & Foodies🍳#NomNomNiaingrid 🧠#MakeupSpeakup 🇲🇨Indonesian MUA &Content Creator 📞Business Inquiries: 0857 7770 8854 (Cia) 💄@byniaingrid
     location: "Indonesia"
-    followers: 26348
-    engagement: 1201
-    commentsToLikes: 0.027840
-    id: ck15tfetqhtf20i19c2oshmti
+    followers: 34258
+    engagement: 2365
+    commentsToLikes: 0.046884
+    id: ckaor3c3qljn20i78peotnxhu
     verified: false
-    hashtags: "#presspowder, #youmakeup, #makeupfantastis, #glowinharmony"
-  - username: "graceharlequin"
+    hashtags: "#artmakeup, #faceart, #creativemakeup, #makeupspeakup"
+  - username: "riismanita"
     fullname: >-
-      BEAUTY | FASHION | LIFESTYLE
+      Virgo♍️
+    bio: >-
+      Kristiadi🖤 •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
     location: "Indonesia"
-    followers: 19333
-    engagement: 323
-    commentsToLikes: 0.210464
-    id: ck5chnwytr4s30i11mtt9k1u3
+    followers: 5601
+    engagement: 1365
+    commentsToLikes: 0.046864
+    id: ckap2m2yszfj20i787zhl15zt
     verified: false
-    hashtags: "#soothingemulsion, #gilla8, #cicacleanser, #peeloffmask"
-  - username: "anggitaeget"
-    fullname: >-
-      Anggita Slinger
-    location: "Indonesia"
-    followers: 34600
-    engagement: 195
-    commentsToLikes: 0.136020
-    id: ck5bzrlowrpr50i11y5onncqc
-    verified: false
-    hashtags: "#miyakocookware, #autofreshhair, #sleekbabyalamimelindungi, #akucantik"
+    hashtags: "#makeuptiktokchallenge, #makeupcollection, #tutorialmakeupsimple, #makeuplooks"
   - username: "farasyahid"
     fullname: >-
-      ғaraн ѕyaнιda anggraιnι
+      ꧁ 𝓕𝓪𝓻𝓼𝔂𝓪 𝓛𝓾𝓺𝓶𝓪𝓷 ꧂
+    bio: >-
+      𝗙𝗮𝘀𝗵𝗶𝗼𝗻 & 𝗯𝗲𝗮𝘂𝘁𝘆 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 Line@ : @ytt2851z for any inq #farasthriftideas #makeupbyfarasyahid Qa,GAL
     location: "Indonesia"
-    followers: 15419
-    engagement: 350
-    commentsToLikes: 0.151474
+    followers: 18879
+    engagement: 312
+    commentsToLikes: 0.073775
     id: ckaoslom3s05e0i78hv93uoyg
     verified: false
-    hashtags: "#yogurttanparibet, #juaranyamiekorea, #lapiskukuspahlawan, #lapissurabaya"
-  - username: "blessedvenuss"
+    hashtags: "#1tetes3xlebihcerah, #youtheradiancewhite, #youmakeups, #triplebrightactivator"
+  - username: "ay_akm"
     fullname: >-
-      Evgeniya Korchagina
+      𝙲𝚊𝚕𝚕 𝙼𝚎 𝙰𝚢💖𝙽𝚞𝚛𝚜𝚎💉
+    bio: >-
+      𝐇𝐞𝐚𝐥𝐭𝐡|𝐁𝐞𝐚𝐮𝐭𝐲|𝐅𝐚𝐬𝐡𝐢𝐨𝐧 BUSINESS INQUIRIES👇 Whatsapp 087708701556 Owner @ay_makeup26 @ay_fashion26
     location: "Indonesia"
-    followers: 9612
-    engagement: 906
-    commentsToLikes: 0.044976
-    id: ck5zrjoo2wpid0i141nf39wfp
+    followers: 15422
+    engagement: 1635
+    commentsToLikes: 0.046261
+    id: ck9whwt8ozu4l0j787jqs090m
     verified: false
-    hashtags: "#tumpaksewu, #waterfall, #underwear, #nature"
+    hashtags: "#nonstopkreasiq, #lfl, #supportlocalbrand, #lflf"
+  - username: "triayudmynt"
+    fullname: >-
+      Tri Ayu Damayanti
+    bio: >-
+      Akun MUA @makeuptad_ PP & Endorsement : @ourteam_management Part of @chayrahijabers 📍cirebon ~ bekasi ⬇️subscribe⬇️
+    location: "Indonesia"
+    followers: 5146
+    engagement: 1101
+    commentsToLikes: 0.119826
+    id: ck9wh67qewg1c0j788cruoavt
+    verified: false
+    hashtags: "#outfisimple, #dailymakeup, #fashioninspiration, #hijabers"
 ---

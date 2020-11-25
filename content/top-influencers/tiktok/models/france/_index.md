@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In France In 2020
 description: >-
-  Find top models TikTok influencers in France in 2020. Most popular hashtags: #challenge #dance #love #modeling.
+  Find top models TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #love.
 platform: TikTok
+hits: 107
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 107 TikTok influencers like this in France for you to collaborate.
 profiles:
-  - username: "kate.aristov"
-    fullname: >-
-      ⭐️Kate Aristov⭐️
-    location: "France"
-    followers: 2343
-    engagement: 1454
-    commentsToLikes: 0.405608
-    id: ckams7nkqoz2a0i7893bhpvkn
-    verified: false
-    hashtags: "#bluelagoon, #bikini, #challenge, #fashionblogger"
   - username: "zachkitorogoff86"
     fullname: >-
       Zach 🌹👭
+    bio: >-
+      Model photo 🏳️‍🌈 Insta: zach_kitorogoff📸 👻zach_kitorogoff
     location: "France"
-    followers: 41974
-    engagement: 2292
-    commentsToLikes: 0.021505
+    followers: 42600
+    engagement: 2272
+    commentsToLikes: 0.031963
     id: ck8s4wivid7qe0j7866sj5evu
     verified: false
-    hashtags: "#photographe, #mannequin, #color, #model"
-  - username: "icimel"
+    hashtags: "#genderfluid, #foryou, #agenre, #pourtoi"
+  - username: "charly_poirier"
     fullname: >-
-      melaniecastaing 
+      Charly Poirier
+    bio: >-
+      MODEL 🇫🇷 IG : @charly_poirier « The purpose of our lives is to be happy »
     location: "France"
-    followers: 45682
-    engagement: 1814
-    commentsToLikes: 0.044039
-    id: ck9v90wfuc0r50j78wfbi9sjw
+    followers: 561500
+    engagement: 1257
+    commentsToLikes: 0.036748
+    id: ckb9gfhld5krw0j23m8u073c1
     verified: false
-    hashtags: "#coronavirus, #makeup, #acting, #live"
-  - username: "imgmodels.jenirose"
+    hashtags: "#friends, #shooting, #fun, #goodwinsmith"
+  - username: "robertino"
     fullname: >-
-      imgmodels.JENI ROSE
+      Roberto
+    bio: >-
+      🏳️‍🌈🇫🇷🇮🇹 10k ?🙏🏽💖 Insta robertozito_ Tv show 📺 Model-Mannequin-Dance
     location: "France"
-    followers: 3007
-    engagement: 709
-    commentsToLikes: 0.082724
-    id: ck9kgu5eg9kib0j78ckcwx3fg
+    followers: 8970
+    engagement: 945
+    commentsToLikes: 0.117363
+    id: ckbfhfezwcxgv0j23pi4znygp
     verified: false
-    hashtags: "#imgscoutestories, #as, #weloveyourgenes"
-  - username: "kennyscandal"
+    hashtags: "#roberto, #gay, #duo, #humour"
+  - username: "justpyramidofficiel"
     fullname: >-
-      Kennyscandall
+      Justpyramidofficiel
+    bio: >-
+      Instagram: justpyramidofficiel 🃏 Fitness | Model 🃏🇫🇷 Snapchat : ijustpyramid
     location: "France"
-    followers: 119718
-    engagement: 2566
-    commentsToLikes: 0.006803
-    id: ck9vctlzss2o80j783h93hqzv
+    followers: 144100
+    engagement: 807
+    commentsToLikes: 0.060985
+    id: ckb9onqrvj4so0j239kj2zb19
     verified: false
-    hashtags: "#fail"
-  - username: "jules.trass"
+    hashtags: "#lgbt, #moto, #pov, #fyp"
+  - username: "paoloborle"
     fullname: >-
-      Jules Trass
+      paoloborle
+    bio: >-
+      03 model happy kid 🏄‍♀️✨💗
     location: "France"
-    followers: 165142
-    engagement: 815
-    commentsToLikes: 0.038994
-    id: ck95wdmxr1ko50j78il5edcdu
+    followers: 142600
+    engagement: 1931
+    commentsToLikes: 0.013020
+    id: ckblhdr16awzn0j23snu3mnhk
     verified: false
-    hashtags: "#vlogging, #amazingview, #beautifulview, #hiteverybeat"
-  - username: "raphaelsay"
+    hashtags: "#model, #duo, #fyp, #boomer"
+  - username: "sweetlouchie"
     fullname: >-
-      Raphael Say
+      Sweet Louchie
+    bio: >-
+      🎨Artiste amatrice🎨 💕Roller Derby💕 Half-Blood Queen #10 💞 📸Model photo📸
     location: "France"
-    followers: 135730
-    engagement: 1125
-    commentsToLikes: 0.013359
-    id: ck9fc83o9iodv0j78m0ocddxm
+    followers: 39000
+    engagement: 1461
+    commentsToLikes: 0.019561
+    id: cka63f4me43ez0i7853avgvk7
     verified: false
-    hashtags: "#dance, #sayso, #beyourself, #malemodel"
+    hashtags: "#sports, #tatouage, #motivation, #tattoogirl"
+  - username: "vallcharles"
+    fullname: >-
+      vallcharles
+    bio: >-
+      MODEL 🇫🇷 20% BRAUN720 jusqu’au 30/11/20 https://amzn.to/34TSiyM
+    location: "France"
+    followers: 30800
+    engagement: 921
+    commentsToLikes: 0.076822
+    id: ckbf9ctp508jk0j231fge4whz
+    verified: false
+    hashtags: "#fyp, #me, #regardmannequin, #france"
   - username: "inkeddead_manu"
     fullname: >-
       inkeddead_manu
+    bio: >-
+      25🎂 lyon 🇨🇵 tattoo💉 modèl tatouer ⬇️follow my instagram⬇️
     location: "France"
-    followers: 32488
-    engagement: 476
-    commentsToLikes: 0.058498
+    followers: 75100
+    engagement: 1030
+    commentsToLikes: 0.069442
     id: cka0r086cexuf0i789vbaum7u
     verified: false
-    hashtags: "#tattoos, #french, #dysney, #viral"
-  - username: "malcolmtheakita"
+    hashtags: "#tiktok, #pourtoi, #boy, #lumieresur"
+  - username: "imgmodels.jenirose"
     fullname: >-
-      MALCOLM THE AKITA
+      imgmodels.JENI ROSE
+    bio: >-
+      Senior Vice President, IMG MODELS
     location: "France"
-    followers: 19074
-    engagement: 1077
-    commentsToLikes: 0.011844
-    id: ck9enulrpkx2p0j785tcdg2ju
+    followers: 4261
+    engagement: 628
+    commentsToLikes: 0.062180
+    id: ck9kgu5eg9kib0j78ckcwx3fg
     verified: false
-    hashtags: "#malcolmtheakita, #plage, #pup, #akitaamericano"
-  - username: "opheliehim"
+    hashtags: "#wlyg, #imgmodels, #imgscoutedstories, #imgscoutestories"
+  - username: "timmmuller_"
     fullname: >-
-      opheliehim
+      timmmuller_
+    bio: >-
+      French model ❣️ 👇Follow me! 👇 Insta: @timmmuller_ Snap: timouss69 👻
     location: "France"
-    followers: 7082
-    engagement: 1814
-    commentsToLikes: 0.022771
-    id: ck9fc8534ior80j781ewntq9s
+    followers: 22700
+    engagement: 1569
+    commentsToLikes: 0.032495
+    id: ckc8ycr0fmt930j23d53q34j6
     verified: false
-    hashtags: "#ootd, #paillettes, #quarantaine, #hsm"
+    hashtags: "#pourtoi, #model, #fyp, #foryou"
 ---

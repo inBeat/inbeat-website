@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Sydney In 2020
 description: >-
-  Find top beauty TikTok influencers in Sydney in 2020. Most popular hashtags: #beauty #sydney #quarantine #duet.
+  Find top beauty TikTok influencers in Sydney in 2020. Most popular hashtags: #foryoupage #fyp #beauty #sydney.
 platform: TikTok
+hits: 15
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "patriciakatss"
+  - username: "danmeet.singh"
     fullname: >-
-      Patricia Katrakilis
+      Meet singh
+    bio: >-
+      Faith in God love sydney 🇦🇺 follow me on instagram 👆🏻👆🏻😇
     location: "Australia"
-    followers: 7262
-    engagement: 986
-    commentsToLikes: 0.167993
-    id: ck8z66e0lkwvk0j78vekkf3xx
+    followers: 22500
+    engagement: 481
+    commentsToLikes: 0.000000
+    id: ckbkpcyfojomi0j23b6hbeilk
     verified: false
-    hashtags: "#greek, #mycrib, #gotthisforyou, #familyphoto"
+    hashtags: "#love, #perth, #blacktownsydney, #foryou"
+  - username: "sandhyapoudel4"
+    fullname: >-
+      Sandhya Poudel
+    bio: >-
+      
+    location: "Australia"
+    followers: 44100
+    engagement: 538
+    commentsToLikes: 0.045654
+    id: ck84mbyz4n37w0j78y5fctedx
+    verified: false
+    hashtags: "#nepalisong, #bollywood, #coronatime, #foryoupage"
+  - username: "dino.serrao"
+    fullname: >-
+      Dino Serrao™
+    bio: >-
+      📸 No matter what, somehow Ordinary People are Extraordinary! ♥️
+    location: "Australia"
+    followers: 805300
+    engagement: 1199
+    commentsToLikes: 0.011497
+    id: ckcdyio2wgovi0j23ogmx7n6v
+    verified: false
+    hashtags: "#portrait, #fyp, #skate, #sony"
+  - username: "envybyjosie"
+    fullname: >-
+      Envybyjosie
+    bio: >-
+      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
+    location: "Australia"
+    followers: 3237
+    engagement: 281
+    commentsToLikes: 0.015183
+    id: ckdn5fqxregem0j23dudwkvcp
+    verified: false
+    hashtags: "#blonde, #tiktokartists, #hairstyles, #sydneyhair"
+  - username: "nicolekennedy24"
+    fullname: >-
+      Nicole Kennedy 🇦🇺
+    bio: >-
+      IG: everygirlsdreammini SYDNEY, AUSTRALIA
+    location: "Australia"
+    followers: 144700
+    engagement: 1080
+    commentsToLikes: 0.016594
+    id: ckb0x1a9am6ir0j23ztlvrbu2
+    verified: false
+    hashtags: "#pony, #hair, #hoof, #satisfying"
   - username: "stephhodges1994"
     fullname: >-
       Steph Hodges
+    bio: >-
+      Wife & Mum of 2 boys! 👨‍👩‍👦‍👦 2 dogs 🐶🐕 Sydney, Australia 🇦🇺
     location: "Australia"
-    followers: 9665
-    engagement: 933
-    commentsToLikes: 0.025762
+    followers: 12200
+    engagement: 783
+    commentsToLikes: 0.024527
     id: cka0p1gbn692d0i7868891c0n
     verified: false
-    hashtags: "#overthinker, #gamer, #lionking, #australia"
+    hashtags: "#butterfly, #trending, #food, #foryoupage"
   - username: "parbellabeauty"
     fullname: >-
       Par Bella Beauty
+    bio: >-
+      💅 10 Century Circuit, Norwest SYDNEY 📞8850 7834 🌐 www.parbellabeauty.com.au
     location: "Australia"
-    followers: 44251
-    engagement: 665
-    commentsToLikes: 0.005010
+    followers: 139000
+    engagement: 715
+    commentsToLikes: 0.004130
     id: ck84mbvmfn2670j78aq7hi1f7
     verified: false
-    hashtags: "#gotolook, #wakeupandmakeup, #tint, #booknow"
-  - username: "vikramjeetsingh321"
+    hashtags: "#hennabrows, #eyebrows, #love, #trend"
+  - username: "kayywuerf"
     fullname: >-
-      Vikramjeet Singh
+      Kaymie Wuerfel
+    bio: >-
+      American in Syd🇦🇺 Be Kind 🌸 Get Your PJs👇🏻
     location: "Australia"
-    followers: 5703
-    engagement: 1207
-    commentsToLikes: 0.030890
-    id: ck9gqxtu3blhk0j78q74pkygb
-    verified: false
-    hashtags: "#beauty, #bapu, #lifebuoykarona, #maharaj"
-  - username: "thebasicviet"
+    followers: 108800
+    engagement: 1578
+    commentsToLikes: 0.029163
+    id: cka0haxnz8drw0i78fudcrv75
+    verified: true
+    hashtags: "#america, #aussie, #sydney, #foryou"
+  - username: "nikeshshres"
     fullname: >-
-      Jessica Nguyen
+      NikeshShrestha
+    bio: >-
+      r33 , rb gt86 bagged 🇳🇵 🇦🇺 Ig@whoismikelarry
     location: "Australia"
-    followers: 10610
-    engagement: 1022
-    commentsToLikes: 0.014625
-    id: cka6d6pn26sj90i786c1grot2
+    followers: 9708
+    engagement: 1423
+    commentsToLikes: 0.020107
+    id: ckb9pqhzll56t0j23ha7cr49w
     verified: false
-    hashtags: "#protection, #rice, #tea, #cleanyourfeet"
-  - username: "thisizmal"
+    hashtags: "#foryoupage, #fyp, #rocketbunny, #4wd"
+  - username: "neharamtasunshine"
     fullname: >-
-      Mal
+      Sunshine🌞 ♥️
+    bio: >-
+      Insta Id : Sunshinerockx007 ♥️👸♀️Pahadan❤ 🇮🇳 IN 🇦🇺
     location: "Australia"
-    followers: 2506
-    engagement: 321
-    commentsToLikes: 0.006862
-    id: cka0jbp4ghe1d0i782nf2rvnr
+    followers: 33600
+    engagement: 896
+    commentsToLikes: 0.030202
+    id: ckb9s69s7p48x0j23v4zqv1tf
     verified: false
-    hashtags: "#trending, #bigbrother, #taxi, #problem"
-  - username: "thatgirlfaf"
-    fullname: >-
-      Thatgirlfaf
-    location: "Australia"
-    followers: 2068
-    engagement: 267
-    commentsToLikes: 0.033843
-    id: cka0vl5iuyzno0i78jpctlwhg
-    verified: false
-    hashtags: "#eyebrows, #sydney, #arab, #versace"
-  - username: "dailyxgrwm"
-    fullname: >-
-      ✰ ✰ ✰
-    location: "Australia"
-    followers: 12160
-    engagement: 3021
-    commentsToLikes: 0.052695
-    id: ckacn5ympmiuj0i78vguakdnw
-    verified: false
-    hashtags: "#ledstriplights, #onlineshopping, #dayinalife, #food"
-  - username: "ozsun2000"
-    fullname: >-
-      ozsun2000
-    location: "Australia"
-    followers: 174682
-    engagement: 1148
-    commentsToLikes: 0.008558
-    id: cka884a739loc0i78e2mcazfu
-    verified: false
-    hashtags: ""
-  - username: "chelsrandall"
-    fullname: >-
-      Chels Randall
-    location: "Australia"
-    followers: 2776
-    engagement: 786
-    commentsToLikes: 0.036213
-    id: ck8adem8s5mi60j78v8peh2dh
-    verified: false
-    hashtags: "#notbad, #fashion, #aussie, #cheeseboard"
+    hashtags: "#tiktoksydney, #duet, #viralvideo, #tiktokindia"
 ---

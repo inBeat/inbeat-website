@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #fiqueemcasa # #metedan #tbt.
+  Find top dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #dance #foto #dancer.
 platform: Instagram
+hits: 673
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 673 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "tonza_batedeira"
+  - username: "orricodan"
     fullname: >-
-      SWING DE RUA
+      DARLAN ORRICO
+    bio: >-
+      Model • Dancer • Coreographer Tec em Dança/FUNCEB Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta. 🌹☕ BA
     location: "Brazil"
-    followers: 400982
-    engagement: 800
-    commentsToLikes: 0.168129
-    id: ck5cgnzu3p7ig0i11u8y7xibt
+    followers: 5430
+    engagement: 1526
+    commentsToLikes: 0.146273
+    id: ck5c05idbshhr0i111j3xherx
     verified: false
-    hashtags: "#euteprometo, #coronavirus, #fiqueemcasa, #juntossomosmaisfortes"
+    hashtags: "#beydancer, #dance, #beyonce, #tbt"
+  - username: "vinnisan_"
+    fullname: >-
+      Vinni San
+    bio: >-
+      Profissional Dancer TikTok: Vinnisan_ Gaúcho 22yrs
+    location: "Brazil"
+    followers: 6823
+    engagement: 1368
+    commentsToLikes: 0.083477
+    id: ck5zyjcu09zty0i1497bzbezt
+    verified: false
+    hashtags: "#dance, #brasil, #funk, #ohjulianachallenge"
+  - username: "saabrinarocha"
+    fullname: >-
+      Sabrina Rocha
+    bio: >-
+      Dancer | Singer | Capoeira 📺 Bailarina do Faustão 2017|2019 📍SJRP x SP ⬇️ASSISTA Levo Aonde eu vou feat. Dani Alves
+    location: "Brazil"
+    followers: 77948
+    engagement: 985
+    commentsToLikes: 0.086697
+    id: ck15qyxvd5ayq0i19ftjcam5l
+    verified: false
+    hashtags: "#photoshoot, #girl, #challenge, #dance"
+  - username: "ivan_tremedeira"
+    fullname: >-
+      MISERÊ BRABO
+    bio: >-
+      FÉ! 🙌🏾 "O medo de arriscar é oque te impede de evoluir! " Recife -pe 📍 Dancer - @pnprodutora 🕺🏽 Assessoria: +55 081995075424
+    location: "Brazil"
+    followers: 88229
+    engagement: 685
+    commentsToLikes: 0.043916
+    id: ck5znprndoxhl0i14gzq2ln8k
+    verified: false
+    hashtags: ""
+  - username: "victorinh4"
+    fullname: >-
+      V I C T O R I N H 4 🔥
+    bio: >-
+      youtuber | actress | dancer atriz em formação: @teatrotablado Publicidade: contato@srdigi.com.br 20y, Brasil, RJ 🇧🇷 owner- @victorinh4store
+    location: "Brazil"
+    followers: 425147
+    engagement: 671
+    commentsToLikes: 0.076153
+    id: ck6u5tb5ibm3t0j718vmpku9z
+    verified: false
+    hashtags: "#vidasaudavel, #qualidadedevida, #queimadiaria, #fitness"
+  - username: "jvmartinsa"
+    fullname: >-
+      João Martins
+    bio: >-
+      📷| Fotógrafo das pole dancer e retratos 📍| Rio de Janeiro, RJ ✉️| Orçamento por DM ou e-mail
+    location: "Brazil"
+    followers: 6180
+    engagement: 2060
+    commentsToLikes: 0.244986
+    id: ck8sybbqikcca0j78yljcv3r1
+    verified: false
+    hashtags: "#arraialdo, #arraialdocabo, #riodejaneiro"
   - username: "eduardo.ofcl_"
     fullname: >-
-      Carlos Eduardo
+      Eduardo
+    bio: >-
+      Felipe Guerra-RN🌎 Dancer: @heullinhooficial1 ⬇️Link Do Canal da banda⬇️
     location: "Brazil"
-    followers: 9716
-    engagement: 1706
-    commentsToLikes: 0.205817
+    followers: 11952
+    engagement: 1708
+    commentsToLikes: 0.632598
     id: ck9wh4p0lw8i10j7847tsrg1q
     verified: false
-    hashtags: "#coreografia, #photography, #fiqueemcasa, #covid"
-  - username: "nettosoares"
+    hashtags: "#bregafunk, #aleoliveira, #bregafunkchallenge, #selfie"
+  - username: "klebeer.andrade"
     fullname: >-
-      Netto Soares
+      Gato Moreno Do Passinho 🐈🔥
+    bio: >-
+      🕺 DANCER : @tropaadobrega SERGIPANO COM ORGULHO 🏜️ EM MUDANÇAS 🙏♥️
     location: "Brazil"
-    followers: 42298
-    engagement: 670
-    commentsToLikes: 0.099345
-    id: ck5hn27tpn2gu0i112ttuubqg
+    followers: 23167
+    engagement: 752
+    commentsToLikes: 0.513475
+    id: ck9wh63mewfi50j78z5cfaxa2
     verified: false
-    hashtags: "#dancers, #encena, #sorteio, #danc"
-  - username: "juamorim.r"
+    hashtags: "#bloggers, #fototumblr, #explore, #marketingdigital"
+  - username: "victor.goesx"
     fullname: >-
-      Juliana Amorim 🌻
+      PRINCIPE DO BREGAFUNK🕺🏼👑
+    bio: >-
+      📽| ASSISTA OS STORIES🌻☝️ 🕺🏼| dancer influencer 📲| parceiras via @centralvictorecleison PRIMEIRO CLIP DO CASAL👇🏻
     location: "Brazil"
-    followers: 17424
-    engagement: 661
-    commentsToLikes: 0.167636
-    id: ck8t5eywu9xje0j78o03bfx3i
-    verified: false
-    hashtags: "#tbt"
-  - username: "renatacerqueira__"
-    fullname: >-
-      •            Renata Cerqueira
-    location: "Brazil"
-    followers: 55070
-    engagement: 446
-    commentsToLikes: 0.300164
-    id: ck6u7h39zlh860j71bf5ooda5
-    verified: false
-    hashtags: "#metedanca, #carnaval, #sqn, #pirraca"
-  - username: "araujosabrii"
-    fullname: >-
-      sasa
-    location: "Brazil"
-    followers: 18332
-    engagement: 1841
-    commentsToLikes: 0.125810
-    id: ck8wf0w57exs90j78gky81seu
-    verified: false
-    hashtags: "#nusinadeinertpictures, #facetimephotoshoot, #inmyblood, #sinadeinertedit"
-  - username: "gabriel_kiomi"
-    fullname: >-
-      Gabriel Kiomi きおみ
-    location: "Brazil"
-    followers: 14840
-    engagement: 821
-    commentsToLikes: 0.095406
-    id: ck9we61dmirjb0j78f68lhgq6
-    verified: false
-    hashtags: "#bts, #btsarmy, #blackswan, #jungkook"
-  - username: "nataliaferttinaly"
-    fullname: >-
-      Ferttinaly 🔥
-    location: "Brazil"
-    followers: 75370
-    engagement: 417
-    commentsToLikes: 0.053299
-    id: ckap67ht8eq4h0i7846vx9wnc
+    followers: 40577
+    engagement: 1112
+    commentsToLikes: 0.050760
+    id: ck9wh30ziw0rl0j78b43ucums
     verified: false
     hashtags: ""
-  - username: "micadfuego"
+  - username: "tamysilva.ofc"
     fullname: >-
-      MicaDfuego
+      Tamy 🌸
+    bio: >-
+      Parcerias via direct 📱 Proprietaria @macarraodatamy 🍝 Proprietária @studiobelezaft Maquiadora 💋💄 Dancer 👯‍♀️ Assistam os story 🤳🏼🌸❤️ 𝑆𝑎̃𝑜 𝑃𝑎𝑢𝑙𝑜 ✨
     location: "Brazil"
-    followers: 308098
-    engagement: 954
-    commentsToLikes: 0.017031
-    id: ck6ty7awe22ep0j71or3jdtc3
+    followers: 65374
+    engagement: 576
+    commentsToLikes: 0.953920
+    id: ck6u7yb1hodvd0j71fo0e39qw
     verified: false
-    hashtags: "#disney, #style, #curvas, #pietrodancer"
-  - username: "_dream_0o0"
-    fullname: >-
-      驥: 𝚌𝚘𝚏𝚏𝚎.𝚎 🎨໑
-    location: "Brazil"
-    followers: 8645
-    engagement: 2076
-    commentsToLikes: 0.036137
-    id: ck9wgsl90uszp0j785ltdg2zx
-    verified: false
-    hashtags: ""
+    hashtags: "#tran, #mar, #viajar, #foto"
 ---

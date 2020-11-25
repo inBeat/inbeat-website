@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top dancers Instagram influencers in Argentina in 2020. Most popular hashtags: #dancer #challenge #argentina #model.
+  Find top dancers Instagram influencers in Argentina in 2020. Most popular hashtags: #dancer #dance #dancers.
 platform: Instagram
+hits: 169
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 169 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "lupejelena"
-    fullname: >-
-      Lupe Jelena
-    location: "Argentina"
-    followers: 20535
-    engagement: 390
-    commentsToLikes: 0.036559
-    id: ck6031e63kgku0i14ihaxj0qa
-    verified: false
-    hashtags: "#thoughts, #balance, #swan, #legsfordays"
-  - username: "florpaludiok"
-    fullname: >-
-      FLORENCIA PALUDI
-    location: "Argentina"
-    followers: 16748
-    engagement: 368
-    commentsToLikes: 0.050734
-    id: ck5zs6fu6xx2k0i14dynxqm5n
-    verified: false
-    hashtags: "#annita, #dancerlife, #model, #tufabulosofinde"
   - username: "allymade"
     fullname: >-
-      Rubia oxigenada
+      Alιηα✨
+    bio: >-
+      Dancer | Tucumán-Argentina ᴡʜɪᴛᴇ ᴀɴᴅ ᴘᴜʀᴇ ʟɪᴋᴇ ᴄᴏᴄᴀɪɴᴇ.🖕🏻
     location: "Argentina"
-    followers: 18649
-    engagement: 795
-    commentsToLikes: 0.013513
+    followers: 18619
+    engagement: 758
+    commentsToLikes: 0.014828
     id: ckap4ugdq8xcg0i78oyso0q6e
     verified: false
     hashtags: "#upd, #7d"
-  - username: "belupouchan"
+  - username: "nelson.gall"
     fullname: >-
-      Belen🦋
+      NELSON GALL
+    bio: >-
+      🇦🇷Correntino DANCER (ISA Teatro Colón) Teacher - Coreographer B-ARMY - Veggie 🌱 - Pizza lover 🍕 💚 ♋❤
     location: "Argentina"
-    followers: 369198
-    engagement: 228
-    commentsToLikes: 0.013002
-    id: ck5zy005e8zan0i14cp558uu1
-    verified: true
-    hashtags: "#cuarentena, #challenge, #aerialstraps"
-  - username: "laraamorales"
-    fullname: >-
-      Lari
-    location: "Argentina"
-    followers: 2893
-    engagement: 1173
-    commentsToLikes: 0.068639
-    id: ck5c7dgcu7bqi0i11qtzdo9es
+    followers: 25586
+    engagement: 139
+    commentsToLikes: 0.112673
+    id: ck0w4i6pyyots0i19h5w76kvj
     verified: false
-    hashtags: "#parrislive"
-  - username: "ampipenia"
+    hashtags: "#nature, #photography, #boy, #love"
+  - username: "julisegura_"
     fullname: >-
-      Amparo Peña
+      JULIETA
+    bio: >-
+      DANCER Choreographer🇦🇷 Docente 📍San Juan, Arg.
     location: "Argentina"
-    followers: 35493
-    engagement: 805
-    commentsToLikes: 0.047313
-    id: ck6tvhg4km9250j71dbaw2bqh
+    followers: 2901
+    engagement: 1145
+    commentsToLikes: 0.076630
+    id: ck602v6gtjduh0i142t2uyr4d
     verified: false
-    hashtags: "#cazzu, #daddyyankee, #elalfaeljefe, #vot1"
-  - username: "beltran_h"
+    hashtags: "#dance, #dancers, #enjoythemoment, #femmestyle"
+  - username: "georginatirotta"
     fullname: >-
-      Beltran Horisberger
+      Georgina Tirotta
+    bio: >-
+      🇦🇷Artist/Choreographer/Director/Dancer/ CAPACITACIÓN PARA ARTISTAS EN FORMACIÓN 👇🏻
     location: "Argentina"
-    followers: 20198
-    engagement: 819
-    commentsToLikes: 0.013054
-    id: ck5hpx9res4n90i1177utfjg5
+    followers: 37892
+    engagement: 88
+    commentsToLikes: 0.095661
+    id: ck6015shqew030i144mrd5fhq
     verified: false
-    hashtags: "#pink, #plussizefashion, #portrait, #drawing"
-  - username: "delgadolourdes1"
+    hashtags: "#dancers, #theatre, #2020, #zoom"
+  - username: "damiangar"
     fullname: >-
-      Lourdes Delgado Niglia 🐍
+      Damián García
+    bio: >-
+      - Dancer, Aerialist, Veggie, Human - Work in 🇦🇷🇮🇹🇲🇽🇩🇪🇺🇾🇦🇪 - Director & coreographer of @seproduc 📺 SHOWMATCH 2018/2019
     location: "Argentina"
-    followers: 112871
-    engagement: 343
-    commentsToLikes: 0.013201
-    id: ck5zkuh1hk6ge0i14y0ar81pp
+    followers: 38899
+    engagement: 329
+    commentsToLikes: 0.025866
+    id: ck5c7clob79zk0i110z278rmw
     verified: false
-    hashtags: "#iguazsomostodos, #cataratastodoela"
+    hashtags: "#tattoo, #dancer, #pose, #photoshoot"
+  - username: "lupejelena"
+    fullname: >-
+      Lupe Jelena
+    bio: >-
+      Photographer, balletomane, dancer, youtuber, polerina, vegan, educator, TKD ITF From BA🇦🇷 see me dancing at @balletographer 📧 info@lupejelena.com.ar
+    location: "Argentina"
+    followers: 20265
+    engagement: 231
+    commentsToLikes: 0.025673
+    id: ck6031e63kgku0i14ihaxj0qa
+    verified: false
+    hashtags: "#halloween, #pleasershoes, #poleoutfit, #iphonevideo"
+  - username: "facundomachado._"
+    fullname: >-
+      𝗙𝗔𝗖𝗨𝗡𝗗𝗢 𝗠𝗔𝗖𝗛𝗔𝗗𝗢 •
+    bio: >-
+      23 Años Bailarín Pole Dancer Buenos Aires, Argentina • CLASES ONLINE 👇🏻
+    location: "Argentina"
+    followers: 12303
+    engagement: 595
+    commentsToLikes: 0.122421
+    id: ck0vw9g6psp8i0i19e80b4yos
+    verified: false
+    hashtags: "#polecombo, #polecontrol, #polefitnation, #poleartist"
+  - username: "rodrichazarreta"
+    fullname: >-
+      Rodri Chazarreta
+    bio: >-
+      20. ◾️ Dancer ◾️ Laferrere - Bs As
+    location: "Argentina"
+    followers: 6094
+    engagement: 673
+    commentsToLikes: 0.168642
+    id: ck6u9yfjf0ei60j716plu2x9g
+    verified: false
+    hashtags: "#velitas"
   - username: "isisfloresoficial"
     fullname: >-
       Isis Flores
+    bio: >-
+      🎙 Pop-Rock Singer 📝 Songwriter 👠 Dancer 📸 Model
     location: "Argentina"
-    followers: 4007
-    engagement: 2022
-    commentsToLikes: 0.122752
+    followers: 12781
+    engagement: 781
+    commentsToLikes: 0.044959
     id: ck9wds159h0h10j78ei5mi891
     verified: false
-    hashtags: "#latintrap, #hearthismusic, #masticaytraga, #rhlm"
-  - username: "claudiozabala.dancer"
+    hashtags: "#locohumildeyreal, #beautiful, #tusupite, #alofokemusic"
+  - username: "ivannasalas_"
     fullname: >-
-      Claudio Zabala
+      Ivanna Salas 🇦🇷
+    bio: >-
+      𝗖𝗼𝗿𝗲𝗼𝗴𝗿𝗮𝗳𝗮 • 𝗖𝗘𝗢 𝗱𝗲 💣 | @bomb.squad_oficial • Dance Crew Argentina 🇦🇷 • Dancer @papichamp • Contacto 📩 🔻| Canal de YouTube
     location: "Argentina"
-    followers: 6815
-    engagement: 1077
-    commentsToLikes: 0.112601
-    id: ckaov6xbf3bku0i78mce1uo1g
+    followers: 79876
+    engagement: 667
+    commentsToLikes: 0.022142
+    id: ck5cj0xr3trgo0i11ftttjltf
     verified: false
-    hashtags: "#challenge, #wherecanidance, #dancer, #salsa"
+    hashtags: "#coreografia, #reggaetonbyivy, #dance, #reggaeton"
 ---

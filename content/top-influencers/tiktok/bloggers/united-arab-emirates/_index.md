@@ -1,87 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top bloggers TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #healthyathome #love #staysafe #foryoupage.
+  Find top bloggers TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #foryoupage #dubai #fyp #foryou.
 platform: TikTok
+hits: 12
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in United Arab Emirates for you to contact.
 profiles:
-  - username: "ajmal_khan_"
+  - username: "zapy_zaps"
     fullname: >-
-      ajmal khan
+      Zapy_zaps
+    bio: >-
+      📍🇦🇪𝙄𝙣𝙨𝙩𝙖 𝙞𝙙 : 𝐙𝐀𝐩𝐲_𝐳𝐚𝐩𝐲 Influencer_fashion blogger 【H】【R】【K】
     location: "United Arab Emirates"
-    followers: 1167688
-    engagement: 1243
-    commentsToLikes: 0.016607
-    id: ck9ez5qzhyvlp0j78lnn99f8r
-    verified: true
-    hashtags: "#you, #carparking, #oppoaeabia, #snake"
-  - username: "sha3zking"
-    fullname: >-
-      Sha3zKing👑
-    location: "United Arab Emirates"
-    followers: 96793
-    engagement: 829
-    commentsToLikes: 0.038155
-    id: ck9rlzm7v0hp40j78locrhgcx
+    followers: 35400
+    engagement: 1242
+    commentsToLikes: 0.109243
+    id: ckbav445wlows0j23w99e4gz1
     verified: false
-    hashtags: "#wewillrockyou, #writethelyrics, #staysafe, #bpraak"
-  - username: "satisfieddubai"
+    hashtags: "#kl14, #love, #slowmoo, #kasaragod"
+  - username: "oftravelsandtales"
     fullname: >-
-      Satisfied Dubai
+      Delaine + Jack | Travel & Food
+    bio: >-
+      IG: 108K ↗️ travel bloggers & foodies sharing epic places & plates ✈🍴 📍UAE
     location: "United Arab Emirates"
-    followers: 13971
-    engagement: 368
-    commentsToLikes: 0.059674
-    id: ck9eo59wvmk890j78r60oypbn
+    followers: 12000
+    engagement: 318
+    commentsToLikes: 0.064485
+    id: ckai927yt6l9i0i7805gh2s40
     verified: false
-    hashtags: "#pampertime, #holiday, #duet, #thriller"
+    hashtags: "#dessertlovers, #uaefood, #hungryaf, #krispykremedonuts"
+  - username: "dameshandbook"
+    fullname: >-
+      Rukku Sumayya
+    bio: >-
+      Message me on Insta.. lifestyle blogger www.adameshandbook.com
+    location: "United Arab Emirates"
+    followers: 5033
+    engagement: 1492
+    commentsToLikes: 0.032232
+    id: ckb9lh0fae2120j23yq3625mc
+    verified: false
+    hashtags: "#coronatime, #dubaiblogger, #coronam, #happyonam"
   - username: "nashwakhurram"
     fullname: >-
       Nashwa Khurram
+    bio: >-
+      Content creator Food and travel blogger @peplumandpineapples
     location: "United Arab Emirates"
-    followers: 2814
-    engagement: 671
-    commentsToLikes: 0.046154
+    followers: 4278
+    engagement: 641
+    commentsToLikes: 0.060235
     id: ck8oq49qa62d90j784lepo9vh
     verified: false
-    hashtags: "#healthyathome, #beanburds, #beachvibes, #pizza"
+    hashtags: "#xyzbca, #trending, #recipe, #foryoupage"
+  - username: "ajmal_khan_"
+    fullname: >-
+      ajmal khan
+    bio: >-
+      Insta : ajmal_khan_ Style blogger | Influencer https://bit.ly/330FDe5
+    location: "United Arab Emirates"
+    followers: 1200000
+    engagement: 745
+    commentsToLikes: 0.016342
+    id: ck9ez5qzhyvlp0j78lnn99f8r
+    verified: true
+    hashtags: "#blackandwhite, #rolla"
   - username: "the_style_choreo"
     fullname: >-
       thestylechoreo
+    bio: >-
+      Filipino Blogger Dressing up is like dance choreography! ig: @thestylechoreo
     location: "United Arab Emirates"
-    followers: 2453
-    engagement: 357
-    commentsToLikes: 0.025966
+    followers: 2442
+    engagement: 386
+    commentsToLikes: 0.028424
     id: ck9euzu4ufzx30j78h3o53i71
     verified: false
-    hashtags: "#brstyle, #brunomars, #dalgonacoffee, #inabudhabi"
-  - username: "tamarafarra"
+    hashtags: "#tiktokfashion, #foryoupage, #thestylechoreo, #fashion"
+  - username: "shamsudheen_nellara"
     fullname: >-
-      TamaraFarra
+      Saif Al Shamsi
+    bio: >-
+      Multipreneur l Travel Blogger MD @ Nellara Group l CMD @ Address Apparel
     location: "United Arab Emirates"
-    followers: 52994
-    engagement: 397
-    commentsToLikes: 0.009892
-    id: cka63enrz405m0i78g2ahch1u
+    followers: 229200
+    engagement: 775
+    commentsToLikes: 0.016680
+    id: ckcdrwi3yd2nt0j236insdlxl
     verified: false
-    hashtags: "#filter, #bridelook, #dance, #funny"
-  - username: "surbhiwaliqueen"
+    hashtags: "#throwback, #foryoupage, #dubai, #kerala"
+  - username: "satisfieddubai"
     fullname: >-
-      Surbhi Wali
+      Satisfied Dubai
+    bio: >-
+      Follow me on instagram ⬆️ @satisfieddubai Food & travel blogger Why so serious🤡
     location: "United Arab Emirates"
-    followers: 77430
-    engagement: 2460
-    commentsToLikes: 0.118105
-    id: ck903lnntdgy50j78s348zws1
+    followers: 87700
+    engagement: 413
+    commentsToLikes: 0.027272
+    id: ck9eo59wvmk890j78r60oypbn
     verified: false
-    hashtags: "#raddubunny, #comedyhogaya, #premikanepyarse, #ilovethissong"
-  - username: "mkb_dxb"
+    hashtags: "#holiday, #dubai, #trending, #breakfast"
+  - username: "simarnkaur3"
     fullname: >-
-      Musthak
+      Sim Kor
+    bio: >-
+      Chef by passion.. Health blogger👩🏻‍💻,recipe developer ,MOM of 2...🚁🙏🏼
     location: "United Arab Emirates"
-    followers: 245438
-    engagement: 549
-    commentsToLikes: 0.053478
-    id: ck9ejdeue2h460j78ac1gq4mr
+    followers: 14900
+    engagement: 459
+    commentsToLikes: 0.016653
+    id: ckbwfmt4g259s0j23n26jgmgu
     verified: false
-    hashtags: "#honor9xpro, #honorcares, #noway, #yatch"
+    hashtags: "#tiktokdubai, #canadapunjabi, #uae, #newzealand"
+  - username: "munshimona"
+    fullname: >-
+      M O N A  M U N S H I
+    bio: >-
+      Follow my Instagram 👆🏽 Photographer based in 🇦🇪
+    location: "United Arab Emirates"
+    followers: 4377
+    engagement: 734
+    commentsToLikes: 0.063417
+    id: ckd17n3mtoyg00j23odald8dn
+    verified: false
+    hashtags: "#blogger, #dubai, #bollywood, #photoshoot"
 ---

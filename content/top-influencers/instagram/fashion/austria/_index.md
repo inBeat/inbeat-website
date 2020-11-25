@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Austria In 2020
 description: >-
-  Find top fashion Instagram influencers in Austria in 2020. Most popular hashtags: #mothersday #fashioninspo #makeup #safira.
+  Find top fashion Instagram influencers in Austria in 2020. Most popular hashtags: #vienna #ootd #fashion #streetstyle.
 platform: Instagram
+hits: 324
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 324 Instagram influencers like this in Austria for you to collaborate.
 profiles:
-  - username: "caroemilie"
+  - username: "simply_lenny"
     fullname: >-
-      Caroline
+      LENNY💋✌🏼
+    bio: >-
+      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
     location: "Austria"
-    followers: 5774
-    engagement: 1200
-    commentsToLikes: 0.083549
-    id: ck9wfk15cp6iq0j78dt1jo1zc
+    followers: 2474
+    engagement: 2945
+    commentsToLikes: 0.473416
+    id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#happymothersday, #beauty, #beautybloggers, #lacetop"
-  - username: "pineapplesandwine"
-    fullname: >-
-      ANA🌈|daily dose of positivity
-    location: "Austria"
-    followers: 16149
-    engagement: 704
-    commentsToLikes: 0.130341
-    id: ck0vvga9bp0cf0i19a3nzit57
-    verified: false
-    hashtags: "#lovemylife, #idealofsweden, #softaesthetics, #babyblue"
-  - username: "mizzchrissi"
-    fullname: >-
-      ©️h ®️issi
-    location: "Austria"
-    followers: 60950
-    engagement: 277
-    commentsToLikes: 0.059496
-    id: ck5zp0b3nrqjl0i141kfftvbp
-    verified: false
-    hashtags: "#jederz, #fitness, #freachly, #freachlyvienna"
-  - username: "geniakleinerfisch"
-    fullname: >-
-      Genia Karasek
-    location: "Austria"
-    followers: 3830
-    engagement: 1338
-    commentsToLikes: 0.265021
-    id: ck13d9zlx4eog0i19y7mi35jm
-    verified: false
-    hashtags: "#homesweethome, #laugh, #home, #adventures"
+    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
   - username: "ela__1308"
     fullname: >-
       Ela 🕊
+    bio: >-
+      FITNESS ▫️ FOOD ▫️ FASHION 📩 ela_1308@gmx.at 📍 Austria 🇦🇹
     location: "Austria"
-    followers: 21363
-    engagement: 730
-    commentsToLikes: 0.126362
+    followers: 23685
+    engagement: 784
+    commentsToLikes: 0.192541
     id: ckap6ynovhwt50i78koinlnp4
     verified: false
-    hashtags: "#dekoideen, #sundayfunday, #leatherleggings, #vogove"
-  - username: "corinna.schober"
+    hashtags: "#sexy, #blondie, #fitgirls, #makeup"
+  - username: "viktoria_ath"
     fullname: >-
-      TRAVEL | LIFESTYLE | VEGAN
+      Victoria Athanasiou 🧿
+    bio: >-
+      •Content creator •Fashion•Beauty•Travel •Engagement 👰🏼•Maltese mommy🐩 📩viktoriaath@yahoo.com 📍𝐁𝐚𝐬𝐞𝐝 𝐢𝐧 𝐀𝐭𝐡𝐞𝐧𝐬
     location: "Austria"
-    followers: 6855
-    engagement: 695
-    commentsToLikes: 0.098630
-    id: ck6txyj710lcq0j716ap5m5s5
+    followers: 34483
+    engagement: 558
+    commentsToLikes: 0.623202
+    id: ck5q40zn2n9940i119lzk0g4j
     verified: false
-    hashtags: "#selflove, #blueeyes, #mondays, #travelling"
+    hashtags: "#streetstyle, #giveawaygr, #giveawaygreece, #giveaway"
+  - username: "philippgelter"
+    fullname: >-
+      Philipp Gelter
+    bio: >-
+      | •Lifestyle •Fitness •Fashion | Austrian 🇦🇹 📍Vienna ELITE| @elitemiami 🇺🇸 📩 phil@philippgelter.com
+    location: "Austria"
+    followers: 131882
+    engagement: 577
+    commentsToLikes: 0.025797
+    id: ck0ucvwonhvdr0i19y27a26ks
+    verified: false
+    hashtags: "#vienna, #vibe, #mind, #autumn"
+  - username: "isabella_leeb_"
+    fullname: >-
+      🌺 ISABELLA 🌺
+    bio: >-
+      Hey I‘m Bella💋 🇦🇹 #Austria/#graz 🌺 21 yrs 💌 Cooperation: isabellaleeb@icloud.com #makeup | #fashion | #happy
+    location: "Austria"
+    followers: 175802
+    engagement: 1284
+    commentsToLikes: 0.040878
+    id: ck6ui8a6idmtf0j71cwijzpwz
+    verified: false
+    hashtags: "#igersaustria, #fashion, #happy, #quotes"
+  - username: "catharina_rf"
+    fullname: >-
+      Catharina
+    bio: >-
+      1994 Vienna Mama Fashion Beauty
+    location: "Austria"
+    followers: 74198
+    engagement: 342
+    commentsToLikes: 0.158222
+    id: ck13a1b3ro4my0i19uee3uvef
+    verified: false
+    hashtags: "#halloweenmakeup, #lifestyle, #momanddaughter, #vienna"
+  - username: "anjelasgallery"
+    fullname: >-
+      𝑨𝒏𝒋𝒆𝒍𝒂 🕊
+    bio: >-
+      Passion for Fashion & Interior 𝚖𝚘𝚖 𝚘𝚏 𝚝𝚠𝚘 ✌🏻 📍Austria 💌 egallerye@gmail.com
+    location: "Austria"
+    followers: 29840
+    engagement: 319
+    commentsToLikes: 0.128574
+    id: ck8t8oedjl4sn0j78im03mvf7
+    verified: false
+    hashtags: "#franziskaelea, #homeluxury, #wien, #nakd"
+  - username: "alisapekic"
+    fullname: >-
+      Alisa ♡
+    bio: >-
+      🤍 architect and fashion lover 📍 based in Vienna, Austria 💌 alisa.pekic@hotmail.com
+    location: "Austria"
+    followers: 9805
+    engagement: 671
+    commentsToLikes: 0.121000
+    id: ck55on5zp8pcn0i11di55we2b
+    verified: false
+    hashtags: "#colorfulrebel, #loavies, #girlsgoneloavies, #nakdfashion"
+  - username: "sheri_show"
+    fullname: >-
+      🤍SHERI🤍
+    bio: >-
+      Beauty | Fashion | Lifestyle | Travel —————————————————— 📍 V I E N N A 📩 sheri.show.01@gmail.com
+    location: "Austria"
+    followers: 61341
+    engagement: 259
+    commentsToLikes: 0.069202
+    id: ck8ta6eejqlzf0j78zskkwc4n
+    verified: false
+    hashtags: "#girls, #vienna, #makeupartist, #makeup"
   - username: "ich_verstehe_es_blog"
     fullname: >-
       ELISABETH KLOPF
+    bio: >-
+      Fashion / Lifestyle / Food / Travel / Mum / Traditions Contact cooperation: ek@ich-verstehe-es.com
     location: "Austria"
-    followers: 7085
-    engagement: 665
-    commentsToLikes: 0.134058
+    followers: 6980
+    engagement: 675
+    commentsToLikes: 0.140447
     id: ck0w2k0g3orc90i19qiuq8p37
     verified: false
-    hashtags: "#nature, #animals, #kunst, #zeitgen"
-  - username: "isabella_leeb_"
-    fullname: >-
-      ISABELLA🌸
-    location: "Austria"
-    followers: 40382
-    engagement: 1766
-    commentsToLikes: 0.039156
-    id: ck6ui8a6idmtf0j71cwijzpwz
-    verified: false
-    hashtags: "#blue, #vibes, #fashioninspo, #sports"
-  - username: "alisapekic"
-    fullname: >-
-      Alisa 🕊
-    location: "Austria"
-    followers: 9076
-    engagement: 591
-    commentsToLikes: 0.132917
-    id: ck55on5zp8pcn0i11di55we2b
-    verified: false
-    hashtags: "#safirashine, #victoriahyde, #vhlondon, #motelrocks"
-  - username: "eleniintokou"
-    fullname: >-
-      E L E N I   N T O K O U
-    location: "Austria"
-    followers: 46858
-    engagement: 495
-    commentsToLikes: 0.439288
-    id: ck55p8vfza23m0i11qxi8jb4k
-    verified: false
-    hashtags: "#ootd, #streetstyle, #vacay, #barcelona"
+    hashtags: "#lookoftheday, #ootd, #photooftheday, #kosmetik"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top health Instagram influencers in Switzerland in 2020. Most popular hashtags: #life #music #friends #nature.
+  Find top health Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #zurich #healthylifestyle.
 platform: Instagram
+hits: 165
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 165 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
+  - username: "i_am_birebaumli"
+    fullname: >-
+      
+    bio: >-
+      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
+    location: "Switzerland"
+    followers: 5800
+    engagement: 2017
+    commentsToLikes: 0.118826
+    id: ck13d3pg53irf0i190hd1hu57
+    verified: false
+    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
   - username: "massixda"
     fullname: >-
       Massimo
+    bio: >-
+      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
     location: "Switzerland"
-    followers: 29668
-    engagement: 406
-    commentsToLikes: 0.101853
+    followers: 30809
+    engagement: 390
+    commentsToLikes: 0.097360
     id: ck6u3kk6tybjm0j71mr7mpp06
     verified: false
-    hashtags: "#radicalskincare, #marrakech, #throwback, #ad"
-  - username: "ewaszabatin"
+    hashtags: "#ad, #huaweifreebudspro, #sonicescapes, #radicalskincare"
+  - username: "friedahodel"
     fullname: >-
-      Ewa Szabatin | FitFashionFreak
+      F R I E D A   H O D E L
+    bio: >-
+      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹TV • Influencer
     location: "Switzerland"
-    followers: 57028
-    engagement: 97
-    commentsToLikes: 0.111543
-    id: ck5c35fgvymva0i11e9p6muyf
+    followers: 35906
+    engagement: 293
+    commentsToLikes: 0.059642
+    id: ckap0qb07rejq0i78ud5qp3yk
     verified: true
-    hashtags: "#getoutdoors, #livestreaming, #yogalovers, #hereandnow"
+    hashtags: "#matterhorn, #swissalps, #travelgram, #travelblogger"
   - username: "angiemilano"
     fullname: >-
       
+    bio: >-
+      serbian blood, swiss made 💛health IG: @guidedbyangie @amanagementde "never a failure, always a lesson!"
     location: "Switzerland"
-    followers: 30566
-    engagement: 363
-    commentsToLikes: 0.027492
+    followers: 40840
+    engagement: 733
+    commentsToLikes: 0.022698
     id: ck6u4hi8i3r2n0j718254bruh
     verified: false
-    hashtags: "#sisters, #confidence, #facetimephotoshoot, #views"
-  - username: "lizzie_outside"
+    hashtags: "#precovid"
+  - username: "ewaszabatin"
     fullname: >-
-      Lizzie Inside
+      Ewa Szabatin | FitFashionFreak
+    bio: >-
+      @iboost.lab 💃7 x Polish Dance Champion ☀️ Summer/travel girl 🤸‍♂️Fit & healthy 🌱 🍓KUP EBOOKA ⬇️
     location: "Switzerland"
-    followers: 39126
-    engagement: 239
-    commentsToLikes: 0.058667
-    id: ck0vxeeg6yhnb0i19gxf2e615
+    followers: 62100
+    engagement: 106
+    commentsToLikes: 0.075237
+    id: ck5c35fgvymva0i11e9p6muyf
     verified: true
-    hashtags: "#life, #globalwarming, #climatechange, #mentalhealth"
-  - username: "vivipao_"
-    fullname: >-
-      Viviana 👑
-    location: "Switzerland"
-    followers: 3007
-    engagement: 1156
-    commentsToLikes: 0.088228
-    id: ck8t17r1euq210j78ia3qiv9r
-    verified: false
-    hashtags: "#igers, #andratuttobene, #love, #style"
-  - username: "seraplicious"
-    fullname: >-
-      Serap Yavuz
-    location: "Switzerland"
-    followers: 15893
-    engagement: 306
-    commentsToLikes: 0.070395
-    id: ck9hcgsotlbfb0j78qodignbk
-    verified: false
-    hashtags: "#love, #trust, #coronavirus, #music"
+    hashtags: "#wolno, #switzerland, #strajkkobiet, #tojestwojna"
   - username: "melissa_ts_fitness"
     fullname: >-
       MELISSA
+    bio: >-
+      📍Zurich | Backup @melissa_ts_fit PERSONAL TRAINER | TransGirl🏳️‍🌈 Fitness | Nutrition | Healthy 100% natural body real stuff👇
     location: "Switzerland"
-    followers: 12424
-    engagement: 1191
-    commentsToLikes: 0.061545
+    followers: 25312
+    engagement: 668
+    commentsToLikes: 0.078364
     id: ckaos0lhupm630i78m43ahae8
     verified: false
-    hashtags: "#lgbt, #transgender, #transmodel, #transisbeautiful"
-  - username: "cyril_henry"
+    hashtags: "#transbeauty, #transandproud, #transisbeautiful, #boytogirl"
+  - username: "maria_bruggner"
     fullname: >-
-      Cyril Henry® 🇨🇭🇫🇷
+      Maria Bruggner
+    bio: >-
+      🏃🏻‍♀️ #running 🌱 #healthyfood @nu3_de 15% sparen Rabattcode: 🇩🇪MARIA15DE 🇨🇭MARIA15CH 🇦🇹MARIA15AT
     location: "Switzerland"
-    followers: 126107
-    engagement: 123
-    commentsToLikes: 0.110628
-    id: ck5hnp10ro5bx0i11tf3z0otq
+    followers: 27225
+    engagement: 156
+    commentsToLikes: 0.084989
+    id: ck14jq9hmlni80i19r2hho9z8
     verified: false
-    hashtags: "#goals, #fitnessblogger, #vibez, #fitmotivation"
-  - username: "chandoerikluna"
+    hashtags: "#foodporn, #fitnessmodel, #love, #healthyfood"
+  - username: "cbezerraphotos"
     fullname: >-
-      𝐂𝐇𝐀𝐍𝐃𝐎 𝐄𝐑𝐈𝐊 𝐋𝐔𝐍𝐀
+      Claudio Bezerra - 🇧🇷🇺🇸
+    bio: >-
+      🌍World Travel Photographer 🏡 Stay happy, stay healthy, stay safe 📍Currently- South Florida 📩cbezerraphotos@gmail.com
     location: "Switzerland"
-    followers: 39874
-    engagement: 125
-    commentsToLikes: 0.374301
-    id: ck5hk1f43hmdp0i11i818lxtq
+    followers: 408957
+    engagement: 307
+    commentsToLikes: 0.043500
+    id: ck0tuyl9x98so0i196meqcwh1
     verified: false
-    hashtags: "#barber, #crossfit, #blog, #babe"
-  - username: "satyaoblette"
+    hashtags: "#jungfrauregion, #grindelwald, #inlovewithswitzerland, #interlaken"
+  - username: "bymelaniec"
     fullname: >-
-      SATYA OBLETTE
+      Fashion • Lifestyle • Geneva
+    bio: >-
+      🦷 | Health student 📍 | Geneva 📩 | Pro: cotovio.melanie@gmail.com ⬇️ | Mon blog + Shop mes looks
     location: "Switzerland"
-    followers: 6010
-    engagement: 682
-    commentsToLikes: 0.104576
-    id: ck6tv1xqejpix0j716dqkfkfn
+    followers: 5186
+    engagement: 882
+    commentsToLikes: 0.022689
+    id: ck0w1heiejcxl0i198yz31zku
     verified: false
-    hashtags: "#happyfriday, #modelphoto, #gulfstreamg650, #fashionblogger"
+    hashtags: "#wanderlust, #covid2019, #stayathome, #restezchezvous"
+  - username: "mowgli_travels"
+    fullname: >-
+      Andrea Martens | De 🇵🇪pal 🌎
+    bio: >-
+      Travelling since 2015 ✈️🚌🚊⛵️ 🌱 Vegan: Animals 🐄 + Planet 🌍 + Health 💕 🎬IKIGAI: Tu Razón de Ser
+    location: "Switzerland"
+    followers: 21813
+    engagement: 233
+    commentsToLikes: 0.082768
+    id: ck6uapeoo4vp20j71vwjw725t
+    verified: false
+    hashtags: "#swiss, #vegan, #switzerland, #cuarentena"
 ---

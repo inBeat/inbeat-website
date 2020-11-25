@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Italy In 2020
 description: >-
-  Find top stylists Instagram influencers in Italy in 2020. Most popular hashtags: #milano #fashionstyle #model #igers.
+  Find top stylists Instagram influencers in Italy in 2020. Most popular hashtags: #milan #fashion #makeuptutorial.
 platform: Instagram
+hits: 423
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 423 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "simonafloresta"
-    fullname: >-
-      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚✨|𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐈𝐧𝐬𝐩𝐨
-    location: "Italy"
-    followers: 26620
-    engagement: 358
-    commentsToLikes: 0.097887
-    id: ck13anyzorbj00i19iew4d4pd
-    verified: false
-    hashtags: "#songofstyle, #blackootd, #style, #aesthetically"
   - username: "alessandrobenvenuti"
     fullname: >-
       Alessandro Benvenuti
+    bio: >-
+      STYLIST AND CONTENT CREATOR
     location: "Italy"
-    followers: 20266
-    engagement: 1047
-    commentsToLikes: 0.024902
+    followers: 20178
+    engagement: 924
+    commentsToLikes: 0.043000
     id: ck138lmgugtzi0i19x68ej7cu
     verified: false
-    hashtags: "#together, #moose7ds, #ellessecurator"
-  - username: "micheladan"
+    hashtags: "#together, #mksurfrodeo, #ellessecurator"
+  - username: "aimeewilkinson"
     fullname: >-
-      Michela D'Angelo
+      🦋AIMZ🦋
+    bio: >-
+      FASHION STYLIST @boohoo @stylingbyaimz ⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ collabs: aimeewilkinsonoxgmail.com
     location: "Italy"
-    followers: 102354
-    engagement: 187
-    commentsToLikes: 0.045695
-    id: ck5ck6nwtw8xl0i118txo8ixq
+    followers: 16502
+    engagement: 631
+    commentsToLikes: 0.228538
+    id: ckaorf54fmxjp0i78gw1ftizy
     verified: false
-    hashtags: "#passavopercaso, #borninroma, #johnbaldessari, #georgecondo"
-  - username: "amirjamshidiii"
+    hashtags: ""
+  - username: "simonafloresta"
     fullname: >-
-      amir jamshidi
+      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚
+    bio: >-
+      𝗖𝗿𝗲𝗱𝗲𝗻𝗱𝗼 𝘃𝗶𝗱𝗲𝘀 ☉libra ↑libra ☾pisces 📍Milan 𝐛𝐮𝐭 𝐰𝐢𝐭𝐡 𝐦𝐢𝐧𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐦𝐨𝐨𝐧 🌙 @naba Fashion Stylist @revolve Ambassador 💌 simoflore.sf@gmail.com
     location: "Italy"
-    followers: 10291
-    engagement: 1111
-    commentsToLikes: 0.042983
-    id: ck5ck940cwe5w0i119obz7ml4
+    followers: 27290
+    engagement: 439
+    commentsToLikes: 0.099312
+    id: ck13anyzorbj00i19iew4d4pd
     verified: false
-    hashtags: "#spain"
-  - username: "angela_saccone"
-    fullname: >-
-      𝓐𝓷𝓰𝓮𝓵𝓪 𝓢𝓪𝓬𝓬𝓸𝓷𝓮
-    location: "Italy"
-    followers: 11196
-    engagement: 1037
-    commentsToLikes: 0.079018
-    id: ck9hbruiki5t70j78atdktb7u
-    verified: false
-    hashtags: "#crystalgem, #altar, #vibes, #sweetdreams"
+    hashtags: "#nudefeed, #revolveambassador, #revolvesummer, #vintageoutfit"
   - username: "vlady_mua"
     fullname: >-
       Vladyslav Rotaru Makeup Artist
+    bio: >-
+      Makeup Artist | Hair Stylist Educator of university @scuola_victory Ambassador of @mumicosmetics 📍Milan #mua #makeupartist #makeupartistmilan
     location: "Italy"
-    followers: 23406
-    engagement: 639
-    commentsToLikes: 0.394588
+    followers: 41562
+    engagement: 436
+    commentsToLikes: 0.592098
     id: ck5hpcqqvr52p0i11e6unhzhw
     verified: false
-    hashtags: "#teatroallascala, #vintage, #josquillotv, #suite"
-  - username: "dace.aleksandravica"
-    fullname: >-
-      Dace Aleksandravica
-    location: "Italy"
-    followers: 63553
-    engagement: 719
-    commentsToLikes: 0.029214
-    id: ck5hsd65aweek0i11m4syozpg
-    verified: false
-    hashtags: "#fromdwwithlove, #earth, #air, #fire"
-  - username: "styleisnecessity"
-    fullname: >-
-      Samantha Francis Baker |DXB/NL
-    location: "Italy"
-    followers: 33716
-    engagement: 172
-    commentsToLikes: 0.078624
-    id: ck13bc483upr10i192a2hxwmb
-    verified: false
-    hashtags: "#cosy, #thereturnoftheshoulderpad, #alittlesparkleneverhurtnobody, #dadjoke"
-  - username: "martinazonco"
-    fullname: >-
-      ⓏⓄⓃⒸⓄ
-    location: "Italy"
-    followers: 8873
-    engagement: 1759
-    commentsToLikes: 0.013693
-    id: ck6u3ku18yd290j71h0aegz2f
-    verified: false
-    hashtags: "#fitnessgirl, #tiktok, #glamour, #amolingerie"
+    hashtags: "#my, #makeuptutorial, #procida, #gayitaly"
   - username: "beafagerholt"
     fullname: >-
       Bea Fagerholt
+    bio: >-
+      • Co-founder of @tothemoon_honey • Beauty lover💋 • Stylist • Mother to Frank & Woody🍀
     location: "Italy"
-    followers: 7200
-    engagement: 748
-    commentsToLikes: 0.074698
+    followers: 8023
+    engagement: 762
+    commentsToLikes: 0.083436
     id: ck5hog88zpiai0i11q0zojwgv
     verified: false
-    hashtags: ""
+    hashtags: "#sharingiscaring"
+  - username: "marialudovicacampana"
+    fullname: >-
+      𝐌𝐀𝐑𝐈𝐀 𝐋𝐔𝐃𝐎𝐕𝐈𝐂𝐀 𝐂𝐀𝐌𝐏𝐀𝐍𝐀
+    bio: >-
+      Fashion Stylist from Istituto Marangoni Founder & Stylist @amoure_swimwear 🕊 Based in Milan
+    location: "Italy"
+    followers: 44320
+    engagement: 454
+    commentsToLikes: 0.051318
+    id: ckaotob5cwre70i78i0ljm4je
+    verified: false
+    hashtags: "#sardinia"
+  - username: "styleisnecessity"
+    fullname: >-
+      Samantha Francis Baker |DXB/NL
+    bio: >-
+      LIVING FOR THE STORIES 👆🏼 GRAZIA instastar of the year award winner Past: Harvey Nichols Stylist Creative director ACES OF SPACE STUDIOS👇🏼
+    location: "Italy"
+    followers: 34235
+    engagement: 277
+    commentsToLikes: 0.102625
+    id: ck13bc483upr10i192a2hxwmb
+    verified: false
+    hashtags: "#togo, #bohobaby, #2weekscountdown, #maluma"
+  - username: "horodynska_"
+    fullname: >-
+      Joanna💥Roda💥Horodynska
+    bio: >-
+      STYLIST |fashion journalist |tv host |Warsaw 📩horodynska@horodynska.com
+    location: "Italy"
+    followers: 55183
+    engagement: 672
+    commentsToLikes: 0.034803
+    id: ck5c2hnsjxa5x0i1108lb7sv0
+    verified: true
+    hashtags: "#editorialphotography, #designer, #ginorossi, #streetstyle"
+  - username: "ashplumplum"
+    fullname: >-
+      Joanna
+    bio: >-
+      Blogger and Personal Stylist / Warsaw / Contact: ashplumplum@gmail.com / YouTube: ashplumplum
+    location: "Italy"
+    followers: 68263
+    engagement: 487
+    commentsToLikes: 0.026093
+    id: ck134trydy4xi0i19vedyspze
+    verified: false
+    hashtags: "#mo, #inspo, #styleblogger, #basiakaszuba"
+  - username: "clascutti"
+    fullname: >-
+      Claudia Scutti
+    bio: >-
+      Stylist Costume designer Mother of Ben
+    location: "Italy"
+    followers: 19754
+    engagement: 321
+    commentsToLikes: 0.101169
+    id: ck137pqatcr7o0i199bagcxay
+    verified: false
+    hashtags: "#colours, #reflectionsofme, #happymothersday, #girlupchallenge"
 ---

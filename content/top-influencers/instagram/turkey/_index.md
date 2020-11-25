@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In Turkey In 2020
 description: >-
-  Find top Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #happymothersday #baby #tb.
+  Find top Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #evdekal #evdekalt.
 platform: Instagram
+hits: 15318
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 15318 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "nbuseyildiz"
+  - username: "damlaaltun"
     fullname: >-
-      Buse Neslihan Yıldız
+      Damla Altun
+    bio: >-
+      📩 damla@51digital.com 📌 Y O U T U B E
     location: "Turkey"
-    followers: 17918
-    engagement: 3481
-    commentsToLikes: 0.199389
-    id: ck8t45y1v5mg00j78790d2a6x
+    followers: 568246
+    engagement: 3914
+    commentsToLikes: 1.053829
+    id: ck0ttwrdn4ndu0i19p2ej0mv4
     verified: false
-    hashtags: "#familyfirst, #donutgirl, #bablove, #donutmonster"
-  - username: "elifbbc"
-    fullname: >-
-      Cristina Elif Boboc 🤡
-    location: "Turkey"
-    followers: 211690
-    engagement: 2884
-    commentsToLikes: 0.552525
-    id: ck139k7k8lpug0i19m8udu3ca
-    verified: false
-    hashtags: "#23nisan, #elifdaniwedding"
-  - username: "izgisimal"
-    fullname: >-
-      Şimal İzgi 🍒
-    location: "Turkey"
-    followers: 2764
-    engagement: 2747
-    commentsToLikes: 0.133969
-    id: ckaot27amu1im0i78imlj088h
-    verified: false
-    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+    hashtags: "#xo, #xoparfumdeo, #temizkeng, #gu"
   - username: "berkriptepe"
     fullname: >-
       Berk Tepe
+    bio: >-
+      Professional Valorant player for @sangalgg
     location: "Turkey"
-    followers: 180049
-    engagement: 2639
-    commentsToLikes: 0.229496
+    followers: 173887
+    engagement: 3193
+    commentsToLikes: 0.300126
     id: ck15r51zv66so0i19cm463bfq
     verified: false
-    hashtags: "#faceoffrocks, #gist2019, #fullperformans"
-  - username: "ahmetkerem.photogallery"
+    hashtags: "#fullperformans, #amazontrprime"
+  - username: "elifbbc"
     fullname: >-
-      Ahmet Kerem
+      Cristina Elif Boboc 🤡
+    bio: >-
+      📩 boboc_cristina@hotmail.com Founder @bobocevent & @fruitto.co #iyilikkazanacak 🔻 Y O U T U B E 🔻
     location: "Turkey"
-    followers: 5176
-    engagement: 2552
-    commentsToLikes: 0.095872
-    id: ck5cbjiqxfk3a0i113csc24f6
+    followers: 266127
+    engagement: 3156
+    commentsToLikes: 1.204316
+    id: ck139k7k8lpug0i19m8udu3ca
     verified: false
-    hashtags: "#evindekalt, #kula, #cappadocia"
-  - username: "pqueen92"
-    fullname: >-
-      Pelin "Pqueen" Baynazoğlu
-    location: "Turkey"
-    followers: 130481
-    engagement: 2413
-    commentsToLikes: 0.081830
-    id: ckap8hq5vocr90i784pnsmncw
-    verified: false
-    hashtags: "#forglory, #steelseriestr, #steelseries, #tb"
+    hashtags: "#reelsinstagram, #hairstyle, #hair, #longhair"
   - username: "asliarslaan"
     fullname: >-
       Aslı Arslan
+    bio: >-
+      Twitter: asliarslaan İletişim: asliraslaan@gmail.com Wattpad: asliaarslan
     location: "Turkey"
-    followers: 26628
-    engagement: 2348
-    commentsToLikes: 0.191849
+    followers: 32179
+    engagement: 2490
+    commentsToLikes: 0.101364
     id: ck5c86h4p8v8g0i11zpfkcvlz
     verified: false
-    hashtags: "#imzag, #emarets, #sokakn, #stayhome"
-  - username: "busrasaricayilmz"
+    hashtags: "#sokakn, #stayhome"
+  - username: "sezinkaramese"
     fullname: >-
-      BÜŞRA YILMAZ
+      Sezin Erkek
+    bio: >-
+      🪐 sezinkaramese@gmail.com
     location: "Turkey"
-    followers: 5578
-    engagement: 2218
-    commentsToLikes: 0.269443
-    id: ck8t5dp4r9s6p0j787zw7b1yn
+    followers: 110551
+    engagement: 2369
+    commentsToLikes: 0.152659
+    id: ck55jgpbiwzvc0i11dujt28q0
     verified: false
-    hashtags: "#babyroom, #hayateves, #babygirl, #momlife"
-  - username: "seda.erdim"
+    hashtags: "#getreadywithme, #crush, #foreoufo, #ak"
+  - username: "ozgeyagizz"
     fullname: >-
-      Seda Erdim
+      Özge Yağız
+    bio: >-
+      
     location: "Turkey"
-    followers: 371118
-    engagement: 2162
-    commentsToLikes: 0.077837
-    id: ck136k37f6w0o0i19rl1ptxoz
-    verified: true
-    hashtags: "#hikayedekalmas, #hayateves, #tb, #monkey"
+    followers: 1030290
+    engagement: 2360
+    commentsToLikes: 0.027997
+    id: ck13bdcj6uvxc0i19ilsg6h7l
+    verified: false
+    hashtags: "#mood, #26eyl, #solyan"
+  - username: "m.rise_"
+    fullname: >-
+      M. RISE
+    bio: >-
+      Mürvet Kıbrıslıgil. AV , Çaylak, Avcı Sesini Duyur Zamansız✍🏼
+    location: "Turkey"
+    followers: 23340
+    engagement: 2342
+    commentsToLikes: 0.150499
+    id: ck5c86i8y8vac0i11krx8hi9c
+    verified: false
+    hashtags: ""
   - username: "gokberkdemirci"
     fullname: >-
       Gökberk Demirci
+    bio: >-
+      @semabekmezmanagement
     location: "Turkey"
-    followers: 322950
-    engagement: 2151
-    commentsToLikes: 0.060044
+    followers: 632297
+    engagement: 2071
+    commentsToLikes: 0.055045
     id: ck13bdc6juvuu0i19ymq1gb9i
     verified: false
-    hashtags: "#yemin, #bestfriend, #blackandwhite, #wedding"
+    hashtags: "#style, #evdekal, #stayhome, #blue"
+  - username: "cydworld"
+    fullname: >-
+      Ceyda Yıldız🌍
+    bio: >-
+      U.ü/marketing 👩🏻‍💻 Hayatıma dair her şey🎈 Hayatını gez gör yaşa paylaş 😉📸 @cydyildiz🦁
+    location: "Turkey"
+    followers: 6856
+    engagement: 2012
+    commentsToLikes: 0.080425
+    id: ckaoyf7yzh9s50i78fl0s5fg3
+    verified: false
+    hashtags: "#turkblogger, #tbt, #blogger, #kedi"
+  - username: "ezgi_gor"
+    fullname: >-
+      Ezgi Gör
+    bio: >-
+      @icontalentofficial
+    location: "Turkey"
+    followers: 171682
+    engagement: 1942
+    commentsToLikes: 0.054580
+    id: ck0vvl4xhplq00i19g7iedta4
+    verified: false
+    hashtags: "#stayhome, #olddays, #challengeaccepted, #birlikteg"
 cities:
   - name: Istanbul
     link: /instagram/turkey/istanbul

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Dallas In 2020
 description: >-
-  Find top travel Instagram influencers in Dallas in 2020. Most popular hashtags: #quarantine #cincodemayo #sponsored #ltkbaby.
+  Find top travel Instagram influencers in Dallas in 2020. Most popular hashtags: #liketkit #dallas #ltkstyletip #ltkunder50.
 platform: Instagram
+hits: 197
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 197 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "anabeth.jpg"
     fullname: >-
-      Anabeth.jpg
+      anabeth.jpg
+    bio: >-
+      COLORFULLY BOLD🌈💃🏽 Fashion. Design. Travel. Dallas. Plus Size. Avocado. Margaritas. What? Oh, I was just naming things🤗 ⬜️Enjoy my life in squares⬜️
     location: "United States"
-    followers: 20857
-    engagement: 269
-    commentsToLikes: 0.076748
+    followers: 27269
+    engagement: 164
+    commentsToLikes: 0.105838
     id: ck5q8s75i7qp00i11ivduhogc
     verified: false
-    hashtags: "#nataliesoj, #stylevideo, #stopsign, #hutchdesign"
-  - username: "cosignkg"
+    hashtags: "#liketkit, #ltkcurves, #plussize, #ltksalealert"
+  - username: "southern_belle_living"
     fullname: >-
-      K.G. | COSIGN 🇵🇦
+      L A U R A  B E L L E
+    bio: >-
+      | Georgia | • Choose Happy 💗 • #PowerYourPlatform 👗 • Travel Blogger sharing Fashion, Relationship, Lifestyle & Positivity
     location: "United States"
-    followers: 5837
-    engagement: 317
-    commentsToLikes: 0.121469
-    id: ck5pydfl9vha40i11tiki9bd9
+    followers: 20495
+    engagement: 386
+    commentsToLikes: 0.109917
+    id: ck5c07swqslrq0i11shut3acb
     verified: false
-    hashtags: "#hennessybhmdallas, #thelastdance, #lifeisgood, #community"
-  - username: "everything_ravish"
+    hashtags: "#leopard, #love, #liketoknowit, #amazon"
+  - username: "queyoun"
     fullname: >-
-      Ravishing.ravish
+      Q. | Liberian-American🇱🇷🇺🇸
+    bio: >-
+      For business inquiries please email: queyoun.makor@gmail.com @wilhelminamodels #willysocial 📍Dallas, Texas
     location: "United States"
-    followers: 87236
-    engagement: 413
-    commentsToLikes: 0.098707
-    id: ck13cieil0i200i19qxnhzinu
+    followers: 100651
+    engagement: 464
+    commentsToLikes: 0.028171
+    id: ck13d0yks340q0i19yw7xovk6
     verified: false
-    hashtags: "#kkwbeauty, #ootdfashion, #dallascowboys, #newyorkgirl"
-  - username: "katnazz001"
+    hashtags: "#expressmen, #fashion, #potd, #style"
+  - username: "sydneycroft_"
     fullname: >-
-      Kat D-Villano
+      S Y D N E Y
+    bio: >-
+      MA: @dmm.management RGA | RealStyle DET- @cocorochamodelcamp alumni
     location: "United States"
-    followers: 32813
-    engagement: 109
-    commentsToLikes: 0.293939
-    id: ck15shvfbd30g0i19t7jbnc05
+    followers: 2150
+    engagement: 978
+    commentsToLikes: 0.076668
+    id: ckaozoj4vmoxn0i78px36066o
     verified: false
-    hashtags: "#cleanscent, #may3rd, #skincareblogger, #womenwholift"
-  - username: "bishopandholland"
+    hashtags: "#detroit, #editorial, #fashion, #dallasblogger"
+  - username: "rushent_trail"
     fullname: >-
-      Stia, Jean & Katherine
+      Celebrity Booking Agent
+    bio: >-
+      @luxexoticrentals YouTube: Rushent Trail
     location: "United States"
-    followers: 42927
-    engagement: 86
-    commentsToLikes: 0.123275
-    id: ck9wol3bz5l1n0j788vss715h
+    followers: 17677
+    engagement: 497
+    commentsToLikes: 0.051091
+    id: ck5hourkmq9u70i119w5bcm0g
     verified: false
-    hashtags: "#ltkstyletip, #memorialday, #stripes, #anthropologie"
-  - username: "dallasfoodwanderer"
+    hashtags: "#luxurylifestyle, #rushent, #dallasclubs, #dallasnights"
+  - username: "hectormeza.z"
     fullname: >-
-      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
+      Hector Meza
+    bio: >-
+      ♥️Dallas, TX 🐶Foster Dad 🔍Apartment Locator DM me if you need an apartment or puppy!
     location: "United States"
-    followers: 12632
-    engagement: 334
-    commentsToLikes: 0.143952
-    id: ck0w3er8vt17z0i19w116309e
+    followers: 3670
+    engagement: 2928
+    commentsToLikes: 0.023359
+    id: ckap1uxrww9av0i78wx868kiq
     verified: false
-    hashtags: "#savelives, #foodcoma, #arabicfood, #cheesepie"
+    hashtags: "#southafrica, #love, #capetown, #travel"
   - username: "carly_mc"
     fullname: >-
       Carly McDowell
+    bio: >-
+      life + style + travel ☆ dallas, tx ✉️ carly.a.mcdowell@gmail.com shop my amazon finds ↓
     location: "United States"
-    followers: 19080
-    engagement: 571
-    commentsToLikes: 0.108306
+    followers: 25990
+    engagement: 466
+    commentsToLikes: 0.254392
     id: ck0vxid2pz1iw0i19u3g539cd
     verified: false
-    hashtags: "#projectsocialt, #strongersweden, #whereplayhappens, #madeinla"
-  - username: "blondeswhoeat"
+    hashtags: "#lifeartois, #shopadeline, #stellapartner, #liketkit"
+  - username: "katnazz001"
     fullname: >-
-      Blondes Who Eat
+      Kat D-Villano
+    bio: >-
+      🌸 fashion/travel 📍Dallas based 📩 let's connect DM @Katnazz001 💻 blog is live⬇️ 💍@ciachef35 Email for collab: katiedo97@gmail.com
     location: "United States"
-    followers: 102723
-    engagement: 111
-    commentsToLikes: 0.138255
-    id: ck0vzarbf865u0i19mg815rmr
+    followers: 33580
+    engagement: 187
+    commentsToLikes: 0.149759
+    id: ck15shvfbd30g0i19t7jbnc05
     verified: false
-    hashtags: "#featurefriday, #sandiego, #takeout, #tequila"
-  - username: "sosageblog"
+    hashtags: "#sheinpartner, #liketkit, #gifted, #sheingals"
+  - username: "msashleydevonna"
     fullname: >-
-      Sage Coralli Wilson
+      ASHLEY DEVONNA
+    bio: >-
+      beauty • fashion • lifestyle • travel 📍dallas, tx ✉️: collab@houseofarnat.com join the a-list ↓
     location: "United States"
-    followers: 97534
-    engagement: 390
-    commentsToLikes: 0.012623
-    id: ck5zu32dg1l8i0i143fi9hbot
+    followers: 86251
+    engagement: 605
+    commentsToLikes: 0.022132
+    id: ck0w5vpuo5ni40i19zclncqgl
     verified: false
-    hashtags: "#babyshower, #maternity, #sundayfunday, #floraldesign"
-  - username: "aditik_sheetall"
+    hashtags: "#ad, #astoldbyashley, #crimeandwine, #gifted"
+  - username: "bishopandholland"
     fullname: >-
-      DailyDiva  l  Petite Style
+      Stia, Jean & Katherine
+    bio: >-
+      Fashion|Travel|Baby Dallas, TX | Mom, daughter + daughter-in-law 💌: hello@bishopandholland.com 📍: Dallas, TX
     location: "United States"
-    followers: 25111
-    engagement: 280
-    commentsToLikes: 0.265833
-    id: ck55mpa194ge90i11yd4rquzw
+    followers: 42803
+    engagement: 61
+    commentsToLikes: 0.123255
+    id: ck9wol3bz5l1n0j788vss715h
     verified: false
-    hashtags: "#bunintheoven, #hairmazing, #momlife, #happyfridayeveryone"
+    hashtags: "#ltkunder50, #ltksalealert, #fashionblogger, #ltkspring"
 ---

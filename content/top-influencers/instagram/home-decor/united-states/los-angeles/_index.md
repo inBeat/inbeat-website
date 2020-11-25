@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top home decor Instagram influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #losangeles #quarantinelife #mothersday.
+  Find top home decor Instagram influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
 platform: Instagram
+hits: 115
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 115 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "clevver"
+  - username: "mibellephotographers"
     fullname: >-
-      Clevver
+      Wedding Photography
+    bio: >-
+      Now booking 2021 weddings & events 🌎 wide!
     location: "United States"
-    followers: 234484
-    engagement: 107
-    commentsToLikes: 0.008105
-    id: ck5ccft5sha0y0i118g55kgfp
-    verified: true
-    hashtags: "#martineztwins, #mensstyle, #redcarpet, #psistillloveyou"
+    followers: 7084
+    engagement: 72
+    commentsToLikes: 0.040777
+    id: ck0w23a6omex60i19up2g3wge
+    verified: false
+    hashtags: "#michellebellerphoto, #photobooth, #photoboothrental, #bestcoast"
+  - username: "seva_ceramics"
+    fullname: >-
+      Natalya Seva🔥Raku Queen
+    bio: >-
+      🌿 Ceramics Inspired by Nature 🌅 Los Angeles 10%off code: INSTAGRAM ⬇️ _ LINK TO SHOP_ ⬇️
+    location: "United States"
+    followers: 102399
+    engagement: 200
+    commentsToLikes: 0.012375
+    id: ck139vakwnaid0i19iepsgowv
+    verified: false
+    hashtags: "#barktexture, #unique, #losangelesartists, #natureinspiration"
+  - username: "dannywangdesign"
+    fullname: >-
+      DANNY WANG DESIGN BUILD
+    bio: >-
+      We design and/or build pretty things 📞1-888-896-9168‬ 📧 ig@dannywang.com
+    location: "United States"
+    followers: 584319
+    engagement: 187
+    commentsToLikes: 0.071898
+    id: ck5cc57rngqtb0i115oeqvhes
+    verified: false
+    hashtags: "#interior, #realestate, #renovation, #newportbeach"
+  - username: "ashleydaneclark"
+    fullname: >-
+      Ashley Dane Clark
+    bio: >-
+      Canada Born Currently in Los Angeles @ntamodels @ntatalent Style • Interior Design • Dad Jokes • DIY
+    location: "United States"
+    followers: 70816
+    engagement: 73
+    commentsToLikes: 0.036399
+    id: ck5q5sqyduf4h0i114tyjp551
+    verified: false
+    hashtags: "#ootd, #fashion, #accessories, #purse"
+  - username: "sulheejessica"
+    fullname: >-
+      Jessica Woo
+    bio: >-
+      Bento Box Kween ❤️ Refined and unruly. P.O. Box 370784 Las Vegas, NV 89137 @packmylunchmom for lunch ideas
+    location: "United States"
+    followers: 171415
+    engagement: 607
+    commentsToLikes: 0.020496
+    id: ck8wgf582h8ie0j78rmr9w5mt
+    verified: false
+    hashtags: "#fyp, #bentoboxlunchmom, #sulheejessica, #ad"
   - username: "themaryfitzgerald"
     fullname: >-
       Mary Fitzgerald
+    bio: >-
+      Realtor & Cast of “Selling Sunset” PR/Press inquiries: Jane@janeowenpr.com Collab offers: samantha@stargazer.co Cameo: https://v.cameo.com/toQk3AYA06
     location: "United States"
-    followers: 127842
-    engagement: 414
-    commentsToLikes: 0.038140
+    followers: 964628
+    engagement: 447
+    commentsToLikes: 0.025973
     id: ck0w5knto43xn0i19rp1fcmzv
     verified: true
-    hashtags: "#photooftheday, #inescrow, #realityshow, #quarantine"
-  - username: "dilekstudzinski"
+    hashtags: "#behindthescenes, #realestate, #luxurylifestyle, #comingsoon"
+  - username: "real_estate_inspiration_com"
     fullname: >-
-      Dilek Oluklu Studzinski
+      Luxury Mansions & Homes
+    bio: >-
+      🏘️Beautiful Mansion 🌇 📩DM for business 📩 💲Luxury inspiration QEDbew
     location: "United States"
-    followers: 37355
-    engagement: 309
-    commentsToLikes: 0.037819
-    id: ck15t35qog44s0i19hp31whxy
+    followers: 15842
+    engagement: 472
+    commentsToLikes: 0.022790
+    id: ckap2zzb211rf0i78vdf6oh16
     verified: false
-    hashtags: "#monday, #zarapants, #simplepleasures, #cosmeticlovers"
-  - username: "aliciabrujita"
+    hashtags: "#exteriors, #homebuilders, #houseaddictive, #luxurylistings"
+  - username: "exclusiverarity"
     fullname: >-
-      𝖆𝖑𝖎𝖈𝖎𝖑𝖎𝖙𝖍 𖤐
+      Exclusive Rarity
+    bio: >-
+      Following Fashion, Tech & Luxury. #exclusiverarity
     location: "United States"
-    followers: 14673
-    engagement: 672
-    commentsToLikes: 0.017939
-    id: ck0txgxgbj32u0i19fytsqdmy
+    followers: 89286
+    engagement: 101
+    commentsToLikes: 0.011888
+    id: ck0tw8lkmeduy0i19230wguau
     verified: false
-    hashtags: "#illustrationart, #witchyvibes, #witchcraft, #toonme"
-  - username: "sergibarnet"
+    hashtags: "#billionaire, #california, #exteriordesign, #californiarealestate"
+  - username: "victoria_magrini"
     fullname: >-
-      Sergi Barnet
+      • V I C T O R I A •
+    bio: >-
+      Actor | Model | Athlete | Traveler 🌴 Los Angeles | Represented by Daniel Hoff Agency
     location: "United States"
-    followers: 7505
-    engagement: 753
-    commentsToLikes: 0.033961
-    id: ck5q1gf7pauv60i11pp09qysm
+    followers: 92638
+    engagement: 746
+    commentsToLikes: 0.017391
+    id: ck8t8d218jzg80j78mjvhg04k
     verified: false
-    hashtags: "#architecture, #santjordi2020, #odio, #manteles"
-  - username: "ccmasonrlly"
+    hashtags: "#girlswhoskate, #travel, #emmawatson, #skatepark"
+  - username: "abstractshares"
     fullname: >-
-      CC Mason
+      Abstract Share Page® 🎨🖌
+    bio: >-
+      🎨|Sharing the best Abstract Art by Plogix 🔸|Join Plogix Gallery Today! 👇
     location: "United States"
-    followers: 248148
-    engagement: 114
-    commentsToLikes: 0.051783
-    id: ck6tt4et78jdt0j71oai9eks9
-    verified: true
-    hashtags: "#hairgoals, #lookinggood, #colorchange, #delias"
-  - username: "thatrestlessredhead"
-    fullname: >-
-      Rachel 💋
-    location: "United States"
-    followers: 20283
-    engagement: 464
-    commentsToLikes: 0.024687
-    id: ck0w3vtc6vjgv0i19i94uxuba
+    followers: 24432
+    engagement: 549
+    commentsToLikes: 0.022273
+    id: ckaos98a1qoeg0i78whkxw84m
     verified: false
-    hashtags: "#amelie, #perelachaise, #hallowedquiets, #harrypotterfan"
-  - username: "deluxeversionmagazine"
-    fullname: >-
-      Deluxe Version Magazine®️
-    location: "United States"
-    followers: 52325
-    engagement: 202
-    commentsToLikes: 0.002144
-    id: ck0vv554onlcy0i197dl8g0bf
-    verified: false
-    hashtags: "#cosmeticsurgery, #summerready, #breastaugmentation, #happybirthday"
-  - username: "devynhoward"
-    fullname: >-
-      Devyn Howard
-    location: "United States"
-    followers: 19770
-    engagement: 1141
-    commentsToLikes: 0.066723
-    id: ck9wdmqi0gdro0j784bibmwr8
-    verified: false
-    hashtags: "#quarantinelife, #collagenpowder, #amazinggrass, #dreamkitchen"
-  - username: "missenocha"
-    fullname: >-
-      Miss Enocha
-    location: "United States"
-    followers: 117103
-    engagement: 189
-    commentsToLikes: 0.041626
-    id: ck5bygm5jp3y80i113ks4pgxi
-    verified: false
-    hashtags: "#lipstickaddict, #happyplace, #babyshower, #maternityshoot"
+    hashtags: "#abstractartorg, #artgallery, #interiorart, #abstraction"
 ---

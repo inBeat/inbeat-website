@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top health Instagram influencers in Malaysia in 2020. Most popular hashtags: #covid19 #throwback #indonesia #food.
+  Find top health Instagram influencers in Malaysia in 2020. Most popular hashtags: #healthylifestyle #malaysia #selflove.
 platform: Instagram
+hits: 112
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 112 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "nikitamenonv"
-    fullname: >-
-      nikita ☀️
-    location: "Malaysia"
-    followers: 26237
-    engagement: 1005
-    commentsToLikes: 0.016862
-    id: ck15sqjuxebls0i1990xy9eaw
-    verified: false
-    hashtags: "#day55, #downsyndrome, #culturalchallenge, #desi"
-  - username: "drkaylateh"
-    fullname: >-
-      Dr. Kayla Teh
-    location: "Malaysia"
-    followers: 31695
-    engagement: 512
-    commentsToLikes: 0.031854
-    id: ck15t2goag0fj0i19vfi3ldr6
-    verified: false
-    hashtags: "#giantlifeisthuglife, #dentists, #kitajagakita, #selamathariraya"
   - username: "isabelleman2"
     fullname: >-
       Isabelle Man
+    bio: >-
+      Travel•Lifestyle•Fashion•Positivity•Health❤️HomeChef @bellebellebite/BeautyQueen/Biotech/Model/Influencer❤️Sponsorship:isabelleman78@gmail.com
     location: "Malaysia"
-    followers: 9704
-    engagement: 421
-    commentsToLikes: 0.092717
+    followers: 10481
+    engagement: 235
+    commentsToLikes: 0.075642
     id: ck0tyggo2mpog0i191owr96k3
     verified: false
-    hashtags: "#video, #morning, #luck, #sweating"
-  - username: "saroop_roshi"
+    hashtags: "#babe, #selfie, #positivevibesonly, #malaysia"
+  - username: "ismailroslyy"
     fullname: >-
-      S A R O O P   R O S H I
+      TOP LEADER SNOVVHITE KL 🔥
+    bio: >-
+      stay lowkey My baby @skinbyir Healthy skin 🥰👇🏻
     location: "Malaysia"
-    followers: 5457
-    engagement: 585
-    commentsToLikes: 0.041267
-    id: ckaoykag0hu0r0i7822vsaa3u
+    followers: 64642
+    engagement: 348
+    commentsToLikes: 0.034485
+    id: ck5hd8vjpm4r10i11zggibbmo
     verified: false
-    hashtags: "#sunkissed, #nofoundationmakeup, #eidmubarak, #summerglow"
-  - username: "roshan_rb"
+    hashtags: "#garminmalaysia, #beatyesterdaymy, #garminvenusq, #smellynomore"
+  - username: "may8572fit"
     fullname: >-
-      Roshan Basheer
+      May Liu
+    bio: >-
+      Taipei/ Food & Fitness Lover 熱愛健身&料理的吃貨女孩💖 Founder of @may_u_fit Healthy recipes #mayfitbowl Youtube 🔍May Fit ✉️mayfit8572@gmail.com . May力居家八週課表⬇️
     location: "Malaysia"
-    followers: 123767
-    engagement: 940
-    commentsToLikes: 0.007232
-    id: ck13ae1yipxka0i1970tmkm7f
-    verified: true
-    hashtags: "#happymothersday, #getbacktoitsoon, #carbonblackandwhite, #bnw"
-  - username: "goldisenna"
-    fullname: >-
-      Goldi Senna Prabowo
-    location: "Malaysia"
-    followers: 15840
-    engagement: 410
-    commentsToLikes: 0.049500
-    id: ck9wha7gywzln0j78pawveg3m
+    followers: 259788
+    engagement: 241
+    commentsToLikes: 0.013062
+    id: ck5pzlzzo1mw90i113hejzlsc
     verified: false
-    hashtags: "#stopbullying, #passthetowelchallenge, #instagram, #indonesianidolathome"
-  - username: "sereneclaire_"
+    hashtags: "#healthyrecipes, #mayfitbowl, #healthyfood, #healthylifestyle"
+  - username: "__aaamie"
     fullname: >-
-      Serene Claire 蔡咏彬
+      AMIE 🇲🇾
+    bio: >-
+      Healthy food & fitness enthusiasts Powered by @chocnut_ "Remain calm,because peace equals power” 📩 DM/Email for collab/review As_zffqh08@yahoo.com
     location: "Malaysia"
-    followers: 53682
-    engagement: 143
-    commentsToLikes: 0.015825
-    id: ck5q25az2ec9u0i11dax8gnxl
+    followers: 23022
+    engagement: 182
+    commentsToLikes: 0.062182
+    id: ck8t3rcrf47bh0j78q6rn8gk0
     verified: false
-    hashtags: "#malaysia, #universeunited, #value, #covid19malaysia"
+    hashtags: "#loveyourself, #eatcleanmalaysia, #bentobox, #ramadhantiba"
+  - username: "femislay"
+    fullname: >-
+      Femislay (she/her)
+    bio: >-
+      Social Worker. Feminist. Unlearner. Self Care / Mental Health / Recovery @muslimwomenyoushouldknow Venmo: @femislay Vush Fam 💕| @vush_official
+    location: "Malaysia"
+    followers: 158144
+    engagement: 259
+    commentsToLikes: 0.080269
+    id: ck5zmhcatmkjc0i148vrpnp18
+    verified: false
+    hashtags: "#boysmells, #naturalbeauty, #naturalskincare, #facemask"
+  - username: "say_shazril"
+    fullname: >-
+      Dr Shazril Shaharuddin
+    bio: >-
+      • Medical Doctor • Daddy to Aezriel • Hubby to Dr Azura • Parenting, Fitness & Health
+    location: "Malaysia"
+    followers: 273509
+    engagement: 260
+    commentsToLikes: 0.015622
+    id: ck0w05qxycif70i19ljie6dya
+    verified: false
+    hashtags: "#amazingnanoe, #qualityairwithpanasonic, #finestprobiotic, #bifidobacterium"
+  - username: "drkaylateh"
+    fullname: >-
+      Dr. Kayla Teh
+    bio: >-
+      The dentist you can ask anything!🤗 @thatdentalpage 🦷Dentist • BDS (UM) 👩‍⚕️TV Host • TV3 Helo Doktor 💪🏻 Health & Fitness More Dental videos here 🦷!🔽
+    location: "Malaysia"
+    followers: 41429
+    engagement: 449
+    commentsToLikes: 0.015651
+    id: ck15t2goag0fj0i19vfi3ldr6
+    verified: false
+    hashtags: "#smilemakeover, #aesthetic, #aestheticdentistry, #compositeinjection"
+  - username: "debhasrilife"
+    fullname: >-
+      DEBHASRI VISVANANDAM
+    bio: >-
+      தமிழ் | Law (LL.B) | Blogger | Tutor Kuala Lumpur, MY 📍 Advocacy | Foodie | Mental Health | Lifestyle I do not influence, I hope to inspire. Real.
+    location: "Malaysia"
+    followers: 17200
+    engagement: 651
+    commentsToLikes: 0.077243
+    id: ck0ue2iyikdu50i19fosopd9r
+    verified: false
+    hashtags: "#chennai, #dbotava, #indianfood, #tamil"
   - username: "adelinetsen"
     fullname: >-
       Barbie Tsen
+    bio: >-
+      @mikogalere @atta.apparel @healthlandmy @julietevehq ♥️ Malaysian Actress & Singer 🎬🎤 Mix blood Sabahan Jobs (Adelinetsenbusiness@gmail.com)
     location: "Malaysia"
     followers: 820538
     engagement: 98
     commentsToLikes: 0.009369
     id: ck5zu0xcl1h7b0i1400hepbm5
     verified: true
-    hashtags: "#mom, #mydashingdiva, #jamu, #kitajagakita"
-  - username: "auliyati.rahmi"
+    hashtags: "#selflove, #icingsharetips2020, #icingraya2020, #selfie"
+  - username: "mr.jay.rosly"
     fullname: >-
-      KELAS DIET SPESIAL RAMADHAN
+      Kurus Dengan Makan Nasi 🇲🇾
+    bio: >-
+      HEALTH ° FITNESS ° NUTRITION 🤳🏼Kurus Fit Online Coaching 🤿 #SDiDivers 🛵 #Biker 📲 #CoachJay KLIK LINK UNTUK JOIN CABARAN BUANG LEMAK 👇🏼⬇️👇🏼
     location: "Malaysia"
-    followers: 23185
-    engagement: 5
-    commentsToLikes: 0.021334
-    id: ck0w0qn6xfkff0i19jxmkz14h
+    followers: 60671
+    engagement: 175
+    commentsToLikes: 0.012304
+    id: ckf5rcfr7c6fz0j23hs7obhow
     verified: false
-    hashtags: "#iedwithklamby2020, #raflesiadress, #malaysia, #bugar"
-  - username: "meddy_bear"
-    fullname: >-
-      Meddy Bear - Medical Community
-    location: "Malaysia"
-    followers: 258893
-    engagement: 78
-    commentsToLikes: 0.014664
-    id: ck5che9l6qlu60i11kz8ejvnx
-    verified: false
-    hashtags: "#medicastudents, #pediatrics, #criticalcare, #flightmedicine"
+    hashtags: "#alhamdulillah, #syukur, #malaysia, #borderbilabukakek"
 ---

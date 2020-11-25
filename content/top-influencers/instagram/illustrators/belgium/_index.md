@@ -1,62 +1,65 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Belgium In 2020
 description: >-
-  Find top illustrators Instagram influencers in Belgium in 2020. Most popular hashtags: #drawing #digitalart #book #mind.
+  Find top illustrators Instagram influencers in Belgium in 2020. Most popular hashtags: #illustration #illustrationnow #print #graphicdesign.
 platform: Instagram
+hits: 18
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "tijanadraws"
     fullname: >-
       Tijana Lukovic
+    bio: >-
+      Belgium based illustrator and painter Inspired by motherhood, folklore, nature and waldorf 🌿lukovictijana@gmail.com
     location: "Belgium"
-    followers: 10403
-    engagement: 849
-    commentsToLikes: 0.072630
+    followers: 19545
+    engagement: 786
+    commentsToLikes: 0.070344
     id: ck15qiwhk32co0i19drd663iv
     verified: false
-    hashtags: "#marchmeetthemaker, #mentalhealthawarenessweek"
-  - username: "marie.illustrations"
-    fullname: >-
-      Marie Vanderbemden
-    location: "Belgium"
-    followers: 21360
-    engagement: 874
-    commentsToLikes: 0.018072
-    id: ck5qan6iuh9m70i11ma54t4kd
-    verified: false
-    hashtags: "#castle, #childhood, #mermaychallenge, #snow"
+    hashtags: "#livethelittlethings, #darlingmovement, #mentalhealthawarenessweek, #childhoodunplugged"
   - username: "sphantasy_art"
     fullname: >-
       Gumiho Artist Stéphanie Paquot
+    bio: >-
+      📍 Belgium, Français/English ✏ Digital Artist - Illustrator 👩‍🎨 Follow me too on @steph.gumiho 🤚 Don't steal ©All artworks are mine
     location: "Belgium"
     followers: 28871
     engagement: 312
     commentsToLikes: 0.061080
     id: ck14l0j8ns98v0i19uc8b51k1
     verified: false
-    hashtags: "#ladybug, #stayhome, #marketing, #animal"
-  - username: "benbauchau"
+    hashtags: "#xceptionaledits, #creativeoptic, #nature, #thegraphicspr0ject"
+  - username: "emim.k"
     fullname: >-
-      Ben Bauchau
+      Emilie Muszczak
+    bio: >-
+      ▪ Freelance Illustrator | Art director | Animator | 🇨🇵~🇨🇦~🇪🇺~Brussels ▪ Work, print or commission > emilie@emimk.com🌞🌿
     location: "Belgium"
-    followers: 10666
-    engagement: 693
-    commentsToLikes: 0.012173
-    id: ck0w1bqimijp10i19wxk4tq8p
+    followers: 5258
+    engagement: 584
+    commentsToLikes: 0.024876
+    id: ckaos05hwpjyt0i785pecfd6g
     verified: false
-    hashtags: "#monkey, #intercultural, #landscape, #tiger"
+    hashtags: "#christmascard, #triptych, #print, #illustration"
   - username: "midamartwork"
     fullname: >-
       Midam
+    bio: >-
+      Belgian painter, cartoonist, writer and illustrator.#kidpaddle #illustrator #watercolorartist #streetartistry #comics #painting #contemporaryart
     location: "Belgium"
     followers: 6442
     engagement: 518
     commentsToLikes: 0.022621
     id: ck5hm9u59lkdd0i11o3n3mdjv
     verified: false
-    hashtags: "#gold, #artel, #artfair, #newblorkcity"
+    hashtags: "#sculpture, #contemporarypainting, #painting, #blork"
   - username: "kitagar"
     fullname: >-
       Kit Agar
+    bio: >-
+      🦢 artist & illustrator 🏹 hello@kitagar.com 🤍 prints available from link below
     location: "Belgium"
     followers: 158498
     engagement: 150
@@ -64,44 +67,64 @@ profiles:
     id: ck0tx9n89ido00i19jok3las6
     verified: false
     hashtags: ""
+  - username: "studiolisa"
+    fullname: >-
+      Visual Concept Developer
+    bio: >-
+      I am a versatile illustrator living in Gent and a fulltime creative entrepreneur💫 ☕️Let’s work together! lisa@studiolisa.nl #editorialillustration
+    location: "Belgium"
+    followers: 3594
+    engagement: 1419
+    commentsToLikes: 0.209912
+    id: ck0ucco5tgmnf0i19grv953if
+    verified: false
+    hashtags: "#digitalillustration, #procreateapp, #powerfulwomenweek2020, #illustrationartist"
   - username: "lindavandenmooter"
     fullname: >-
       Lindavandenmooter
+    bio: >-
+      🇧🇪 Belgian artist, graphic designer and illustrator
     location: "Belgium"
-    followers: 7298
-    engagement: 480
-    commentsToLikes: 0.013220
+    followers: 7296
+    engagement: 449
+    commentsToLikes: 0.014474
     id: ck8t8hqbbkiw50j78t9aagsqu
     verified: false
-    hashtags: "#moere, #antwerpen, #oudenburg, #molen"
-  - username: "the.7th.sister"
+    hashtags: "#mill, #crayon, #westflanders, #watercolour"
+  - username: "benbauchau"
     fullname: >-
-      The Seventh Sister
+      Ben Bauchau
+    bio: >-
+      Freelance illustrator from Brussels. Side project @aplaceformydarkthoughts
     location: "Belgium"
-    followers: 4362
-    engagement: 3609
-    commentsToLikes: 0.080038
-    id: ck13c1amny4sh0i19gac4nhcy
+    followers: 10738
+    engagement: 565
+    commentsToLikes: 0.008983
+    id: ck0w1bqimijp10i19wxk4tq8p
     verified: false
-    hashtags: "#makeupartist, #deathwatch, #3dprinting, #mandalorian"
-  - username: "frankdaenen"
+    hashtags: "#grimdark, #illustrationnow, #knight, #medieval"
+  - username: "marie.illustrations"
     fullname: >-
-      Frank Daenen Kids Illustration
+      Marie Vanderbemden
+    bio: >-
+      Marie 🌿🦕 • Belgian 🇧🇪 Illustrator • Concept artist • Character Design ✨Any questions? Contact me via e-mail ✨ marievanderbemden@gmail.com
     location: "Belgium"
-    followers: 13345
-    engagement: 826
-    commentsToLikes: 0.037895
-    id: ck8t5iglia7xb0j78btfjugj8
+    followers: 21167
+    engagement: 837
+    commentsToLikes: 0.016913
+    id: ck5qan6iuh9m70i11ma54t4kd
     verified: false
-    hashtags: "#illustreren, #cutebears, #voorlezen, #picturebook"
-  - username: "neyawen.art"
+    hashtags: "#childrenillustration, #conceptart, #childhoodweek, #naturelovers"
+  - username: "sebastianpren"
     fullname: >-
-      Neyawen
+      Sebastian Pren
+    bio: >-
+      Graphic Designer & Illustrator
     location: "Belgium"
-    followers: 7480
-    engagement: 913
-    commentsToLikes: 0.036134
-    id: ck137gljzbflb0i198ao06e7e
+    followers: 6888
+    engagement: 498
+    commentsToLikes: 0.017951
+    id: ck5zsw06hza9j0i14atfbsraj
     verified: false
-    hashtags: "#therose, #jhope, #inktoberday31, #jhopeart"
+    hashtags: "#graphicdesign, #type, #typographicposter, #sebastianpren"
 ---

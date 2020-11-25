@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Turkey In 2020
 description: >-
-  Find top travel TikTok influencers in Turkey in 2020. Most popular hashtags: #travel #italy #gezi #sunset.
+  Find top travel TikTok influencers in Turkey in 2020. Most popular hashtags: #travel #seyahat #turkey #ke.
 platform: TikTok
+hits: 50
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 50 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "tiebowtie"
     fullname: >-
       Viktoriya Sener
+    bio: >-
+      Photographer and traveller ✨ 150K on Instagram @tiebowtie 📍Istanbul
     location: "Turkey"
-    followers: 2203
-    engagement: 244
-    commentsToLikes: 0.044339
+    followers: 24600
+    engagement: 720
+    commentsToLikes: 0.053542
     id: ckai28p2het2p0i78so6rdrf9
     verified: false
-    hashtags: "#terrace, #seaside, #seagulls, #wisteria"
+    hashtags: "#cavehotel, #gezgin, #sunrise, #travel2020"
   - username: "kapadokya_cappadocia"
     fullname: >-
-      kapadokya_50
+      Kapadokya_Cappadocia
+    bio: >-
+      ÜRGÜP📍KAPADOKYA📍TOUR 🌎TRAVEL🌎GEZİ ⛺️KAMP 📸FOTOĞRAF 📲information 📩
     location: "Turkey"
-    followers: 3328
-    engagement: 588
-    commentsToLikes: 0.027020
+    followers: 3555
+    engagement: 822
+    commentsToLikes: 0.037771
     id: ck9n4iqqc4iei0j78qqh045nf
     verified: false
-    hashtags: "#geziyor, #ankara, #geziyorum, #tiktoktravel"
-  - username: "kyrenian"
+    hashtags: "#kapadokya, #rehber, #manzara, #ihlaravadisi"
+  - username: "amandine_daily"
     fullname: >-
-      Altug Galip
+      Amandine
+    bio: >-
+      Fashion, travel, lifestyle - Instagram : @lesberlinettes
     location: "Turkey"
-    followers: 15582
-    engagement: 407
-    commentsToLikes: 0.026769
-    id: ck8qp522n1yn70j7875gm38pe
-    verified: true
-    hashtags: "#russia, #cliff, #bromo, #holiday"
-  - username: "gacemerburak"
-    fullname: >-
-      Burak Gacemer
-    location: "Turkey"
-    followers: 69142
-    engagement: 322
-    commentsToLikes: 0.007974
-    id: ck902drpwcdmx0j7801iwp68u
-    verified: true
-    hashtags: "#sunset, #lapland, #icechallenge, #airbus"
-  - username: "joehattab"
-    fullname: >-
-      JoeHattab
-    location: "Turkey"
-    followers: 773751
-    engagement: 719
-    commentsToLikes: 0.010283
-    id: ck80oq8vcj7sv0j7864hgyejf
-    verified: true
-    hashtags: "#japan, #africa, #foryoupage, #china"
-  - username: "mr.taster"
-    fullname: >-
-      mr.taster
-    location: "Turkey"
-    followers: 64695
-    engagement: 223
-    commentsToLikes: 0.007835
-    id: cka63t2ov5tz80i78dlb8v54n
+    followers: 4942
+    engagement: 790
+    commentsToLikes: 0.058219
+    id: ckb9m6mydf22i0j23emiu2in1
     verified: false
-    hashtags: "#desifood, #pizza, #mashhad, #baklava"
-  - username: "dunyaalemgeziyorum"
+    hashtags: "#berlin, #makeup, #berlinfood, #berlintips"
+  - username: "ugurcan0744"
     fullname: >-
-      Suzet
+      by_çamur
+    bio: >-
+      ÇAMUR TOURİSM TRAVEL'DE Firma Sahibi MALATYA-ANTALYA🇹🇷
     location: "Turkey"
-    followers: 6654
-    engagement: 313
-    commentsToLikes: 0.023237
-    id: ck9f1gq2u7xkw0j78ha509yvn
+    followers: 6118
+    engagement: 605
+    commentsToLikes: 0.025762
+    id: cka7th04onhls0i78jv2y6ol0
     verified: false
-    hashtags: "#karides, #seafood, #seyahat, #bereket"
+    hashtags: "#kimseanlamaz, #kundu, #boncukg, #kay"
   - username: "nazliozgur"
     fullname: >-
       Nazliozgur
+    bio: >-
+      Travel blogger Instagram 👉🏻 @nazliozgur
     location: "Turkey"
-    followers: 5553
-    engagement: 193
-    commentsToLikes: 0.019369
+    followers: 10200
+    engagement: 172
+    commentsToLikes: 0.018845
     id: ck9f1gt1y7yfe0j78bipf3z1v
     verified: false
-    hashtags: "#kedia, #tiktokparis, #imbored, #venice"
-  - username: "dunyayigeziyorum"
+    hashtags: "#ke, #ala, #eyl, #seyahat"
+  - username: "mr.taster"
     fullname: >-
-      Dunyayi Geziyorum
+      mr.taster
+    bio: >-
+      Foodcritic loving food and travel😍❤️🕺🏾👌
     location: "Turkey"
-    followers: 62816
-    engagement: 487
-    commentsToLikes: 0.004488
-    id: ck9f1gp5u7xhi0j783dv0qzpf
-    verified: true
-    hashtags: "#bolu, #manzara, #afyonkarahisar, #adrenalin"
-  - username: "kesfedenler_kulubu"
-    fullname: >-
-      Keşfedenler Kulübü
-    location: "Turkey"
-    followers: 90938
-    engagement: 283
-    commentsToLikes: 0.010381
-    id: cka0olwon4et70i783bnnnmky
+    followers: 101800
+    engagement: 363
+    commentsToLikes: 0.010392
+    id: cka63t2ov5tz80i78dlb8v54n
     verified: false
-    hashtags: "#muhlama, #kuyukebabi, #evdeyiz, #omlet"
+    hashtags: "#iran, #food, #foodlover, #kebab"
+  - username: "muratdagaslan"
+    fullname: >-
+      Murat Dağaslan
+    bio: >-
+      Photographer | Videographer | Traveler Turkey 🇹🇷
+    location: "Turkey"
+    followers: 2175
+    engagement: 729
+    commentsToLikes: 0.034372
+    id: ckc1t8k1pxk2g0j239icqgtwi
+    verified: false
+    hashtags: "#istanbul, #tiktoktravel, #rize, #nature"
+  - username: "jesus4033"
+    fullname: >-
+      Gezgin 🇹🇷
+    bio: >-
+      🚑🚑🚑 gezgin🏊🏄🏂 çekimler bana aittir 🪂 yeni yerler için takip edin 🏊
+    location: "Turkey"
+    followers: 5833
+    engagement: 661
+    commentsToLikes: 0.042711
+    id: ckcdmtcypaety0j234z025z4y
+    verified: false
+    hashtags: "#kesfet, #travel, #erdemli, #silifkeliyim"
+  - username: "elvin"
+    fullname: >-
+      elvin levinler
+    bio: >-
+      
+    location: "Turkey"
+    followers: 342900
+    engagement: 756
+    commentsToLikes: 0.008514
+    id: ckbwbhef80qj10j23g6xou7cs
+    verified: true
+    hashtags: "#ramazanmen, #seyahat, #norway, #evdeyiz"
+  - username: "ssk.o"
+    fullname: >-
+      NoNo HadiHadi
+    bio: >-
+      Reklam için DM Instagram:ssko01
+    location: "Turkey"
+    followers: 52100
+    engagement: 303
+    commentsToLikes: 0.015301
+    id: ckbbvf7eqitkr0j23hwa6hqcy
+    verified: false
+    hashtags: "#kesfettv, #satisfiying, #carslover, #vip"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top divers Instagram influencers in Switzerland in 2020. Most popular hashtags: #staythefuckhome #forest #2020 #flowers.
+  Find top divers Instagram influencers in Switzerland in 2020. Most popular hashtags: #love #switzerland #swiss #amazing.
 platform: Instagram
+hits: 29
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
+  - username: "divetascha"
+    fullname: >-
+      Natascha Leisi
+    bio: >-
+      🌊 Water Adventures 🖤 Master Scuba Diver Trainer 🧜🏼‍♀️ PADI Freediver Instructor Ⓥ Plant powered ➳ Switzerland OrcaTorch Ambassador
+    location: "Switzerland"
+    followers: 6875
+    engagement: 1132
+    commentsToLikes: 0.034714
+    id: ckap2r8lpzywx0i78cmh175qi
+    verified: false
+    hashtags: "#nobluenogreen, #waterlovers, #waterworld, #marinedebris"
+  - username: "itsmarionreber"
+    fullname: >-
+      M A R I O N
+    bio: >-
+      TikTok @ marionreber YouTube @ itsmarionreber your future Actress, digital entrepreneur and diverse clothing hanger
+    location: "Switzerland"
+    followers: 50305
+    engagement: 233
+    commentsToLikes: 0.100588
+    id: ck5zu9dni1xee0i14mh59gylk
+    verified: false
+    hashtags: "#lovewhatyoudo, #mixedgirlsdoitbetter, #swissmodel, #mixedgirl"
+  - username: "sarah_underwater"
+    fullname: >-
+      S A R A H | سارة🇨🇭
+    bio: >-
+      Scuba Diving Instructor 🐙| Wanderess🧭 | Aqaba, Jordan🇯🇴 @diverse_divers __________________________________ 《Stay wild, ocean child》 🌊
+    location: "Switzerland"
+    followers: 7248
+    engagement: 801
+    commentsToLikes: 0.017916
+    id: ck15u9445m0yp0i19xkejgtit
+    verified: false
+    hashtags: "#travelgram, #dametraveler, #wander, #girlsthatscuba"
   - username: "garinho_photography"
     fullname: >-
       Role
+    bio: >-
+      🇨🇭 Berne Loving nature, music and travelling! My specialty: Diversity! 🌱🌻🌅🛫⛳️ All pics by myself (Iphone Xs / Lumix DC-FZ82)
     location: "Switzerland"
-    followers: 11908
-    engagement: 1563
-    commentsToLikes: 0.042987
+    followers: 11840
+    engagement: 967
+    commentsToLikes: 0.042964
     id: ck9haylzrelxg0j787px0k6ly
     verified: false
-    hashtags: "#jungfrauregion, #portugal, #perfect, #bernihadigern"
-  - username: "sarah_underwater"
+    hashtags: "#getoutstayout, #myswitzerland, #passionpassport, #inlovewithswitzerland"
+  - username: "vedralan"
     fullname: >-
-      S A R A H | ساره🇨🇭
+      Anna Vedralová
+    bio: >-
+      Education-Animals-Entomology veg food🌱 free/scuba-diver💙 Biology student🦂 Roller derby Traveler[Philipphines,Srilanka,Hawaii, Indonesia,Seychelles]
     location: "Switzerland"
-    followers: 6660
-    engagement: 730
-    commentsToLikes: 0.015611
-    id: ck15u9445m0yp0i19xkejgtit
+    followers: 17804
+    engagement: 1095
+    commentsToLikes: 0.005537
+    id: ck0ub9zdke6a90i19kl5uwjvc
     verified: false
-    hashtags: "#roadtrip, #homesick, #amman, #wander"
-  - username: "princeofkwok"
+    hashtags: "#interesting, #mermaid, #naturelover, #zvire"
+  - username: "itz_fabienne"
     fullname: >-
-      Kenny K
+      FABIENNE
+    bio: >-
+      📍Basel 💍Wifey 🧩 #autismmom 👱🏼‍♀️👦🏼 Mom of two 2005/2017 ⚪️Momlife,Travel,Fashion 💌 itzfabienne@gmail.com 6
     location: "Switzerland"
-    followers: 10611
-    engagement: 919
-    commentsToLikes: 0.011792
-    id: ck134eu2xw3pc0i19jbff16az
+    followers: 13162
+    engagement: 693
+    commentsToLikes: 0.248298
+    id: ck0u9tisean590i19onj5aj5i
     verified: false
-    hashtags: "#prep, #happynewyear, #memes, #wpbkk"
+    hashtags: "#swissblogger, #americanstyle, #ig, #momswithcameras"
+  - username: "callherpaprika"
+    fullname: >-
+      PAPRIKA | Drag Queen
+    bio: >-
+      👑 Miss HEAVEN 💞 Miss CONGENIALITY 🇨🇭 based in SWITZERLAND 📩 BOOKINGS: callherpaprika@gmail.com 📰 Media ⬇️
+    location: "Switzerland"
+    followers: 2791
+    engagement: 2319
+    commentsToLikes: 0.065476
+    id: ck6tuh73mgbl20j71w8u3houw
+    verified: false
+    hashtags: "#dragmakeup, #instadrag, #astronaut, #gaypride"
   - username: "swiss_made_obsession"
     fullname: >-
       Swiss Made Obsession
+    bio: >-
+      Mr. and Mrs. totally obsessed with Swiss made timepieces. 🇺🇸 living in 🇳🇱 ⌚️ #Rolex ⌚️ #Tudor ⌚️ #Omega ⌚️ #Breitling ⌚️ #Panerai
     location: "Switzerland"
-    followers: 5236
-    engagement: 864
-    commentsToLikes: 0.070695
+    followers: 7329
+    engagement: 668
+    commentsToLikes: 0.085536
     id: ck8t8nbhal2n70j78f094m2r1
     verified: false
-    hashtags: "#bluedial, #tachymeter, #amstelriver, #diver"
+    hashtags: "#wristwatchcheck, #toolwatchfriday, #watchfan, #travelingtimepiece"
   - username: "jonny__fischer"
     fullname: >-
       Jonny Fischer
+    bio: >-
+      Comedian @cabaretdivertimento 🎭 CEO @zenmove_official 💪🏽
     location: "Switzerland"
     followers: 73613
     engagement: 752
     commentsToLikes: 0.018006
     id: ck6trmkkkzutq0j712z7rbuoq
     verified: true
-    hashtags: "#face, #headache, #expectations, #romantic"
-  - username: "eddymarkaj"
+    hashtags: "#relax, #gaycouple, #capetown, #stayathome"
+  - username: "redbullbe"
     fullname: >-
-      Eddy Markaj | BBOY | TRAVEL
+      Red Bull Belgium
+    bio: >-
+      #GivesYouWings
     location: "Switzerland"
-    followers: 39616
-    engagement: 322
-    commentsToLikes: 0.012897
-    id: ck5catsj5e48w0i11t17d3eey
-    verified: false
-    hashtags: "#forest, #dank, #drone, #wife"
-  - username: "cabaretdivertimento"
-    fullname: >-
-      DivertiMento
-    location: "Switzerland"
-    followers: 129358
-    engagement: 672
-    commentsToLikes: 0.010062
-    id: ck6trml1yzuwz0j71c0l4b3m1
+    followers: 47297
+    engagement: 110
+    commentsToLikes: 0.009080
+    id: ck0u9gi9v9qg70i191gwm2doa
     verified: true
-    hashtags: "#arosa, #weihnachten, #humaneffect, #weloveourjob"
-  - username: "airgrabbers27"
-    fullname: >-
-      Airgrabbers
-    location: "Switzerland"
-    followers: 65452
-    engagement: 769
-    commentsToLikes: 0.027177
-    id: ck5q5fhamsnjz0i11duy0qh1w
-    verified: false
-    hashtags: "#catchmeoutside, #stuntwork, #tattoo, #diveroll"
-  - username: "nelsonphotography115"
-    fullname: >-
-      Nelson Photography
-    location: "Switzerland"
-    followers: 2047
-    engagement: 2196
-    commentsToLikes: 0.047738
-    id: ck8t54ecy8qea0j780siltea1
-    verified: false
-    hashtags: "#xscarnight, #golf, #lowcar, #e21club"
-  - username: "max.iris.pk"
-    fullname: >-
-      Maxime Renaud
-    location: "Switzerland"
-    followers: 2254
-    engagement: 2024
-    commentsToLikes: 0.054607
-    id: ck5hctme2jwsu0i11r39r6898
-    verified: false
-    hashtags: "#virus, #geneva, #ornot, #dayafterday"
+    hashtags: "#stayfit, #motorsports, #redbullracing, #redbull"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Canada In 2020
 description: >-
-  Find top music TikTok influencers in Canada in 2020. Most popular hashtags: #canada #homeroutine #positivevibes #may4th.
+  Find top music TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
+hits: 987
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 987 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "uncle.tomm"
+  - username: "angeingell"
     fullname: >-
-      Tomii
+      Ange Ingell
+    bio: >-
+      animal and music lover 🇨🇦
     location: "Canada"
-    followers: 38242
-    engagement: 1952
-    commentsToLikes: 0.044229
-    id: ck9fln9pjovmf0j78kb52gi81
+    followers: 6004
+    engagement: 2242
+    commentsToLikes: 0.168716
+    id: ckb9rha8yo56a0j23in4gd9xe
     verified: false
-    hashtags: "#blm, #nickelodeon, #disney, #storytime"
-  - username: "tatted_mama81"
+    hashtags: "#0324mytest"
+  - username: "haileyb114"
     fullname: >-
-      Sheri Lafond
+      Hailey Benedict
+    bio: >-
+      🇨🇦 18 follow my ig & yt ^🤍 & check out my spotify for more music :)
     location: "Canada"
-    followers: 4752
-    engagement: 2072
-    commentsToLikes: 0.137322
-    id: ckajax0vqkz5j0i783v40iann
+    followers: 199400
+    engagement: 2182
+    commentsToLikes: 0.053640
+    id: ckcui5zzefyha0j23aj9glky0
     verified: false
-    hashtags: "#roadto5k, #beweird, #21questions, #boymom"
-  - username: "foodologist"
+    hashtags: "#cover, #mashup, #singer, #fyp"
+  - username: "347aidan"
     fullname: >-
-      Foodologist
+      347aidan
+    bio: >-
+      347AIDAN all platforms✨🦋 NEW MUSIC OUT NOW
     location: "Canada"
-    followers: 51156
-    engagement: 2357
-    commentsToLikes: 0.032225
-    id: ck8uflvm629xl0j78h0z1jtcc
-    verified: false
-    hashtags: "#pastrychef, #poutineday, #cupcakes, #foodart"
+    followers: 294900
+    engagement: 1733
+    commentsToLikes: 0.038824
+    id: ckd1a1pnbryv50j23iq8e5rg3
+    verified: true
+    hashtags: "#fyp, #parrot"
   - username: "iamrobinskies"
     fullname: >-
       iamrobinskies 
+    bio: >-
+      Robin Skies - Musician - VAN BC!! 🇨🇦 CEO of honesty, even if I get in trouble!
     location: "Canada"
-    followers: 11469
-    engagement: 1484
-    commentsToLikes: 0.164536
+    followers: 25200
+    engagement: 1667
+    commentsToLikes: 0.129265
     id: ck92uy64ko58i0j78jj787ecx
     verified: false
-    hashtags: "#itsalllove, #canada, #favoritememories, #withmyfamily"
-  - username: "manelijamal"
+    hashtags: "#canada, #bc, #music, #thinkaboutit"
+  - username: "freeyonc"
     fullname: >-
-      Maneli Jamal
+      Freeyon 鍾君揚
+    bio: >-
+      🇨🇦🇭🇰 🔮 Music, Magnus & More 🎵 New Original Song is on YouTube! 👇🏻
     location: "Canada"
-    followers: 5683
-    engagement: 1402
-    commentsToLikes: 0.174286
-    id: ckac5svbldkye0i78ggwin3bg
-    verified: false
-    hashtags: "#gypsyjazz, #bellaciao, #healing, #ambientguitar"
-  - username: "cj.the.kid"
+    followers: 65900
+    engagement: 2096
+    commentsToLikes: 0.057696
+    id: ck80oeam2h8xz0j78wyb1gs1m
+    verified: true
+    hashtags: "#themortalinstruments, #spooktober, #magnusbane, #mycostume"
+  - username: "singingrat"
     fullname: >-
-      CJTheKid
+      JacobHayden
+    bio: >-
+      Send me a DM on Instagram❤️ 🇨🇦 Music coming soon..
     location: "Canada"
-    followers: 8268
-    engagement: 1824
-    commentsToLikes: 0.227561
-    id: ck8fbzuai5pvv0j78k9mqj8nb
+    followers: 368900
+    engagement: 2090
+    commentsToLikes: 0.016581
+    id: ck8kk55u0xpc00j787yheoo9f
     verified: false
-    hashtags: "#gamer, #ninjamover, #skipthedishes, #celebratenurses"
-  - username: "musicbykade"
-    fullname: >-
-      KADE
-    location: "Canada"
-    followers: 7348
-    engagement: 1280
-    commentsToLikes: 0.236512
-    id: ck8qeboqhrydy0j78xm8fy7s6
-    verified: false
-    hashtags: "#lovechallenge, #drake, #dancemusic, #mamacita"
+    hashtags: "#foryoupage, #highnote, #4u, #billieeilish"
   - username: "djdoubledutch"
     fullname: >-
       djdoubledutch
+    bio: >-
+      Music,Positivity#Sayno2h8 ⭐️ xtonetone⭐️ 💥instagram-djdoubledutch💥
     location: "Canada"
-    followers: 44355
-    engagement: 1413
-    commentsToLikes: 0.063202
+    followers: 44400
+    engagement: 1510
+    commentsToLikes: 0.115357
     id: ck9flo57np39w0j78bxfu138b
     verified: true
-    hashtags: "#fabfitfun, #gotthisforyou, #vibewithme, #promlook"
-  - username: "vialsss"
+    hashtags: "#ohcanada, #hospital, #lol, #hahaha"
+  - username: "manelijamal"
     fullname: >-
-      vialsss
+      Maneli Jamal
+    bio: >-
+      For full videos, music and FREE lessons please check my page above 👆🏼
     location: "Canada"
-    followers: 311175
-    engagement: 2248
-    commentsToLikes: 0.011361
-    id: ck806vfacmbi60j78rd32tq4e
+    followers: 8218
+    engagement: 1354
+    commentsToLikes: 0.178991
+    id: ckac5svbldkye0i78ggwin3bg
     verified: false
-    hashtags: "#vacation, #littlethings, #coronavirus, #tiktokcovers"
-  - username: "cubie1"
+    hashtags: "#guitarcentral, #acoustic, #guit, #guitarra"
+  - username: "uncle.tomm"
     fullname: >-
-      sailorgirl
+      Tomisin
+    bio: >-
+      God First Dm me on IG^ Music coming🎶 Snap:trockk2 Tomisinadeleye@yahoo.com
     location: "Canada"
-    followers: 17324
-    engagement: 1100
-    commentsToLikes: 0.056335
-    id: cka0tn4b4qjdz0i783ss97z0x
+    followers: 58300
+    engagement: 1747
+    commentsToLikes: 0.036442
+    id: ck9fln9pjovmf0j78kb52gi81
     verified: false
-    hashtags: "#justkeepsmiling, #kitchenparty, #duet, #goodenough"
+    hashtags: "#endsars, #africaisbleeding, #nigeria, #endswat"
+  - username: "rolandtheprince"
+    fullname: >-
+      Roland Prince
+    bio: >-
+      Music: Roland Prince
+    location: "Canada"
+    followers: 26800
+    engagement: 1597
+    commentsToLikes: 0.050212
+    id: ck92uxut8o2uj0j78ozj1oz9u
+    verified: false
+    hashtags: "#fork, #summerworkout, #perfectasiam, #foryou"
 ---

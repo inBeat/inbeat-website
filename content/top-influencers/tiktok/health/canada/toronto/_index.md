@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Toronto In 2020
 description: >-
-  Find top health TikTok influencers in Toronto in 2020. Most popular hashtags: #health #india #toronto #quarantine.
+  Find top health TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #toronto #foryoupage #canada.
 platform: TikTok
+hits: 25
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 25 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "djkellyart"
+  - username: "fuegotom"
     fullname: >-
-      David Kelly 
+      tom
+    bio: >-
+      i feel like twitter kanye
     location: "Canada"
-    followers: 2780
-    engagement: 862
-    commentsToLikes: 0.097088
-    id: cka7vvf49xyy50i78pbyml7tl
+    followers: 51200
+    engagement: 1566
+    commentsToLikes: 0.022633
+    id: ck961ymkkoh6j0j78tm6bve37
     verified: false
-    hashtags: "#lockdownlife, #haircut, #fitness, #crazy"
-  - username: "kapillnagpal"
+    hashtags: "#fyp, #foryoupage, #greenscreen, #vibewithme"
+  - username: "dr.naheedd"
     fullname: >-
-      Kapil Nagpal
+      Dr Naheed Dosani🇨🇦
+    bio: >-
+      Palliative Care Doctor 👨🏽‍⚕️ Health Justice Activist ✊🏽 Instagram: @NaheedD
     location: "Canada"
-    followers: 14602
-    engagement: 359
-    commentsToLikes: 0.015856
-    id: ck81s0pb8p6710j78htkq1y8z
+    followers: 11700
+    engagement: 1475
+    commentsToLikes: 0.128328
+    id: ckbf228pqoo3a0j23yvlu4av3
     verified: false
-    hashtags: "#dope, #highlight, #lifesgood, #joblessme"
-  - username: "thehistorybounder"
+    hashtags: "#doctiktok, #doctor, #blacklivesmatter, #fyp"
+  - username: "thaisquintino2"
     fullname: >-
-      thehistorybounder
+      Thais Quintino
+    bio: >-
+      insta; @thaisquintiino Health• Lifestyle • Fashion 😆
     location: "Canada"
-    followers: 30031
-    engagement: 839
-    commentsToLikes: 0.018557
-    id: ckace9mellu800i78ed352u1v
+    followers: 31600
+    engagement: 646
+    commentsToLikes: 0.021787
+    id: ck9flmiibopac0j78zyc7qfw9
     verified: false
-    hashtags: "#hufflepuff, #styletips, #fujoshi, #help"
-  - username: "tianatait"
+    hashtags: "#fyp, #foryoupage, #makeitviral, #viral"
+  - username: "0ditte"
     fullname: >-
-      Tiana 💗
+      oditte
+    bio: >-
+      Health is our greatest possession. 📍6ix
     location: "Canada"
-    followers: 2642
-    engagement: 640
-    commentsToLikes: 0.084893
-    id: cka61erqrv3vc0i780gx1sbx6
+    followers: 36000
+    engagement: 682
+    commentsToLikes: 0.014125
+    id: ckbqkdaug5gz60j23f5w6ufek
     verified: false
-    hashtags: "#homemade, #itsaremix, #tiktokfashion, #downtowntoronto"
-  - username: "manylights"
-    fullname: >-
-      ManyLights
-    location: "Canada"
-    followers: 14030
-    engagement: 676
-    commentsToLikes: 0.131493
-    id: cka0yv5ascs7c0i780czvub5n
-    verified: false
-    hashtags: "#food, #calisthenics, #southindia, #tamil"
+    hashtags: "#inhomeworkout, #bodygoalz, #summerbody, #abs"
   - username: "mayobros"
     fullname: >-
       John and Brad
+    bio: >-
+      We’ll teach you to be fit and flexible! Link below with a video with more info!
     location: "Canada"
-    followers: 618354
-    engagement: 1797
-    commentsToLikes: 0.010693
+    followers: 618700
+    engagement: 1718
+    commentsToLikes: 0.009820
     id: ck806y32qmz7i0j78c1ni1arg
     verified: false
-    hashtags: "#daredevil, #ladygaga, #falling, #biohack"
+    hashtags: "#fail, #workout, #tiktokcanada, #cold"
+  - username: "caracho_"
+    fullname: >-
+      Cara 🍓
+    bio: >-
+      we'll figure it out on the way 🎶
+    location: "Canada"
+    followers: 10000
+    engagement: 1718
+    commentsToLikes: 0.114922
+    id: ckc8vugrtiyzp0j23d19flnsm
+    verified: false
+    hashtags: "#girl, #joke, #lol, #millennial"
+  - username: "manylights"
+    fullname: >-
+      ManyLights
+    bio: >-
+      ~ flow 🌊 share love in all you do • instagram @manylights •
+    location: "Canada"
+    followers: 24800
+    engagement: 494
+    commentsToLikes: 0.143394
+    id: cka0yv5ascs7c0i780czvub5n
+    verified: false
+    hashtags: "#toronto, #disco, #dance, #film"
   - username: "ana.erak"
     fullname: >-
       Ana E
+    bio: >-
+      Food - Fitness - Wellness ✨🖤
     location: "Canada"
-    followers: 11827
-    engagement: 627
-    commentsToLikes: 0.033965
+    followers: 12300
+    engagement: 572
+    commentsToLikes: 0.035735
     id: ck9flks5xoaut0j786priqtqf
     verified: false
-    hashtags: "#veganrecipe, #may4th, #throwback, #moveyourbody"
-  - username: "jasjeetkhairafitness"
+    hashtags: "#blonde, #fy, #toronto, #weightloss"
+  - username: "jcmillmill"
     fullname: >-
-      Jasjeetkhairafitness
+      jULES
+    bio: >-
+      Media grad trying to make it🥺 Check out my latest YouTube video⬇️
     location: "Canada"
-    followers: 14032
-    engagement: 244
-    commentsToLikes: 0.024817
-    id: ckacq194hylbh0i78cnwmcok5
+    followers: 5309
+    engagement: 1451
+    commentsToLikes: 0.033435
+    id: ckb9h3c8j6ell0j23xgm0z590
     verified: false
-    hashtags: "#wife, #gamenight, #pullups, #mycrib"
-  - username: "imelevated__"
+    hashtags: "#fyp, #vancouver, #harrystyles, #mammamia"
+  - username: "wearemarlow"
     fullname: >-
-      imelevated
+      Marlow
+    bio: >-
+      
     location: "Canada"
-    followers: 29681
-    engagement: 1021
-    commentsToLikes: 0.014259
-    id: ck92uxyz3o3o00j78lok6wo66
+    followers: 6151
+    engagement: 1772
+    commentsToLikes: 0.020822
+    id: ckdhk4pfzzb620j23o31uwd44
     verified: false
-    hashtags: "#bollywood, #newname, #tiktoklover, #health"
-  - username: "forbiddenfrosting2.0"
-    fullname: >-
-      ForbiddenFrosting
-    location: "Canada"
-    followers: 415269
-    engagement: 712
-    commentsToLikes: 0.008847
-    id: ck806ziswncwo0j78oxzimsme
-    verified: false
-    hashtags: "#china, #health, #condiment, #fastfood"
+    hashtags: "#menstruation, #periods, #foryou, #tampons"
 ---

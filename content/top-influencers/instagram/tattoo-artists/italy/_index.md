@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Italy In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Italy in 2020. Most popular hashtags: #tattoo #farfallatradizionale #alwaysandforever #heartneotraditional.
+  Find top tattoo-artists Instagram influencers in Italy in 2020. Most popular hashtags: #hairmenstyle #fashionmenswear #menwithstreetstyle.
 platform: Instagram
+hits: 206
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 206 Instagram influencers like this in Italy for you to pitch.
 profiles:
+  - username: "andrea_kroki"
+    fullname: >-
+      Andrea Kroki
+    bio: >-
+      On the road Tattoo Artist🎨 Based in Catania🇮🇹 Regular guest Spain🇪🇸 France🇫🇷 •3891060663 andreaenigma1@gmail.com Personal page @andrea_lombardo.k
+    location: "Italy"
+    followers: 10318
+    engagement: 720
+    commentsToLikes: 0.136193
+    id: ck5qeaoi9zj9k0i11m5nt70ii
+    verified: false
+    hashtags: "#tattoomagazine, #inksubmission, #catania, #abstracttattoo"
   - username: "fabrizioaldobelfiore"
     fullname: >-
-      Fabrizio
+      Fabrizio Aldo
+    bio: >-
+      • Fashion creator ~ tattoo artist @inkfab • 📍 Turin, Italy • 📩 Fabrizioaldobelfiore@gmail.com
     location: "Italy"
-    followers: 298320
-    engagement: 184
-    commentsToLikes: 0.055520
+    followers: 294470
+    engagement: 156
+    commentsToLikes: 0.047956
     id: ck13bszhlx0sl0i19imuyatqb
     verified: false
-    hashtags: "#tommyhilfiger, #tommyjeans, #hilfigerdenim, #affascinante"
+    hashtags: "#fashionmenswear, #mensfashion, #classmen, #menwithstreetstyle"
   - username: "biancavitalex"
     fullname: >-
       Bianca Vitale
+    bio: >-
+      I am more than what you see. • TATTOO ARTIST at @ethereatattoo. 💉 • Real life profile @loosingconnections
     location: "Italy"
-    followers: 26164
-    engagement: 866
-    commentsToLikes: 0.015997
+    followers: 27340
+    engagement: 1107
+    commentsToLikes: 0.013570
     id: ck0w5v3q65klu0i19j64j711u
     verified: false
-    hashtags: ""
-  - username: "mersia_fiore"
-    fullname: >-
-      𝐌𝐞𝐫𝐬𝐢𝐚
-    location: "Italy"
-    followers: 11499
-    engagement: 1394
-    commentsToLikes: 0.013031
-    id: ck9wgrzlyuq9r0j78qzx4ff8n
-    verified: false
-    hashtags: "#raggidisole"
-  - username: "valentinorusso_90"
-    fullname: >-
-      📸Valentino russo📸
-    location: "Italy"
-    followers: 38108
-    engagement: 557
-    commentsToLikes: 0.018491
-    id: ck5q940bi9a3y0i11z7egawkb
-    verified: false
-    hashtags: "#repost, #glccoup, #mercedes"
-  - username: "_zvejka"
-    fullname: >-
-      Ells Villnerova
-    location: "Italy"
-    followers: 6626
-    engagement: 1642
-    commentsToLikes: 0.006677
-    id: ck0tutsp78mpu0i19tt83o0tz
-    verified: false
-    hashtags: "#weareallstars, #createathome, #converse"
-  - username: "maya_tattooer"
-    fullname: >-
-      Maya_tattooer
-    location: "Italy"
-    followers: 19551
-    engagement: 350
-    commentsToLikes: 0.040294
-    id: ck6ude89skl7l0j71lu90rc8l
-    verified: false
-    hashtags: "#coverupcolor, #milanocity, #farfallatradizionale, #onlysolidtattoo"
-  - username: "julioloureiro_art"
-    fullname: >-
-      🔸JÚLIO LOUREIRO ART🔸
-    location: "Italy"
-    followers: 160262
-    engagement: 463
-    commentsToLikes: 0.009152
-    id: ck9ha5nnxb96m0j78u41bplhk
-    verified: false
-    hashtags: "#turmadochaves, #anjo, #blackandgrey, #chespirito"
-  - username: "dmitriy.tkach"
-    fullname: >-
-      Dmitriy Tkach
-    location: "Italy"
-    followers: 169779
-    engagement: 546
-    commentsToLikes: 0.006822
-    id: ck6tk4wps40h20j71b80wbwe6
-    verified: false
-    hashtags: "#dragon, #duomo, #dragontattoo, #spain"
-  - username: "gracesmorgan"
-    fullname: >-
-      𝐆𝐑𝐀𝐂𝐄 𝐌𝐎𝐑𝐆𝐀𝐍
-    location: "Italy"
-    followers: 72088
-    engagement: 1154
-    commentsToLikes: 0.009879
-    id: ck5zzrcypca8k0i141xr4bo19
-    verified: false
-    hashtags: "#halloweenmakeup, #halloween, #billieeilish, #billieeilishmakeup"
+    hashtags: "#selflove, #sailorsaturn, #flashwarning"
   - username: "_pink_sg"
     fullname: >-
       Giada
+    bio: >-
+      "NATURAL BORN PINKERS" •Suicidegirl 🔞 •Freelance Model 💟 •Tattoo artist at @sorry_mum_tattoo_shop ℹContacts;Giadacaliandro@libero.it
     location: "Italy"
-    followers: 90387
-    engagement: 357
-    commentsToLikes: 0.020792
+    followers: 99647
+    engagement: 368
+    commentsToLikes: 0.019794
     id: ck5hd5c47lkph0i11vez9jk9b
     verified: false
-    hashtags: "#sunset, #altgirl, #launischberlin, #preview"
+    hashtags: "#reelsinstagram, #potrait, #photooftheday, #pinkers"
+  - username: "valentinorusso_90"
+    fullname: >-
+      📸Valentino russo📸
+    bio: >-
+      🇮🇹ITALIAN TATTOO ARTIST🇮🇹 . Valentino tattoo studio💉🖌️🎨 ⚡@valentinorussotattoo⚡
+    location: "Italy"
+    followers: 37723
+    engagement: 495
+    commentsToLikes: 0.015931
+    id: ck5q940bi9a3y0i11z7egawkb
+    verified: false
+    hashtags: "#nopainnogain, #goodmorning, #workoutathome"
+  - username: "maya_tattooer"
+    fullname: >-
+      Maya_tattooer
+    bio: >-
+      ⚡️•TATTOO ARTIST•⚡️ 🏚Resident at @cattivi_maestri 🇮🇹 🖍COLOR TATTOO🩸 Collab or tattoo👇🏻 DM o what's up:327/1092757
+    location: "Italy"
+    followers: 19087
+    engagement: 232
+    commentsToLikes: 0.059437
+    id: ck6ude89skl7l0j71lu90rc8l
+    verified: false
+    hashtags: "#milanotattooartist, #italiantattooers, #summervibes, #colortattoo"
+  - username: "mersia_fiore"
+    fullname: >-
+      Mersia
+    bio: >-
+      Lascia correre.. inciamperanno -TATTOO ARTIST -DIGITAL ACTRESS -NETWORKER per info: @mersia.business
+    location: "Italy"
+    followers: 15212
+    engagement: 987
+    commentsToLikes: 0.009590
+    id: ck9wgrzlyuq9r0j78qzx4ff8n
+    verified: false
+    hashtags: "#adv, #teamstratton"
+  - username: "gracesmorgan"
+    fullname: >-
+      𝐆𝐑𝐀𝐂𝐄 𝐌𝐎𝐑𝐆𝐀𝐍
+    bio: >-
+      Tattoo Artist based in Rome ☹ 𝙈𝙔 𝙅𝙊𝘽: @gracemorgantattooer LG(B)T • Activist • Kinda Singer CENERE prod. @yuks.wav 🥀⇩
+    location: "Italy"
+    followers: 69067
+    engagement: 1131
+    commentsToLikes: 0.010282
+    id: ck5zzrcypca8k0i141xr4bo19
+    verified: false
+    hashtags: "#blackouttuesday, #theshowmustbepaused"
+  - username: "valentinorussotattoo"
+    fullname: >-
+      ☆☆☆Valentino Tattoo Studio☆☆☆
+    bio: >-
+      Italian tattoo artist🇮🇹 (Grosseto)"Tuscany" ☎️⚡3296484692⚡☎️ Email: Valentino_96@live.it ⚓ Fb: Valentino Russo Tattoo
+    location: "Italy"
+    followers: 67881
+    engagement: 375
+    commentsToLikes: 0.073344
+    id: ck5q93vp299at0i117g07w2ii
+    verified: false
+    hashtags: ""
+  - username: "_zvejka"
+    fullname: >-
+      eliška.
+    bio: >-
+      TATTOO ARTIST . PRAGUE @tetovackyzezvejkacky kdyby jsi chtěl/a něco vyžvejknout 🤪 @converseallstars ✨🖤
+    location: "Italy"
+    followers: 6552
+    engagement: 1290
+    commentsToLikes: 0.002647
+    id: ck0tutsp78mpu0i19tt83o0tz
+    verified: false
+    hashtags: "#analogphotography, #analog, #mju, #mjui"
 ---

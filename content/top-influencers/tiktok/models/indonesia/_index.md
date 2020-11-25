@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Indonesia In 2020
 description: >-
-  Find top models TikTok influencers in Indonesia in 2020. Most popular hashtags: #funny #coronavirus #photoshoot #model.
+  Find top models TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #model #fashion #style.
 platform: TikTok
+hits: 23
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "rafiprachaya.tiktok"
+  - username: "ss_mhian"
     fullname: >-
-      TMCI•RAFI
+      Queen_MHIAN 👑
+    bio: >-
+      since 2017 Model 👑 Owner @maskerwajahbymhian ▪️ENDORSE & PP (DM)
     location: "Indonesia"
-    followers: 231173
-    engagement: 234
-    commentsToLikes: 0.027144
-    id: ck9dquyrm1h5g0j789ofo7jks
+    followers: 1100000
+    engagement: 435
+    commentsToLikes: 0.017380
+    id: ckan570mbdmem0i78lsmdbgpl
     verified: false
-    hashtags: "#buddy, #kpopdance, #kissmebaby, #kpopdancecover"
+    hashtags: ""
   - username: "mathwang.kie"
     fullname: >-
       Mathwang Kie
+    bio: >-
+      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
     location: "Indonesia"
-    followers: 34374
-    engagement: 377
-    commentsToLikes: 0.030484
+    followers: 40900
+    engagement: 421
+    commentsToLikes: 0.035091
     id: ckail07c0lyx00i78wuwl72p7
     verified: false
-    hashtags: "#foryourpage, #mudikonline, #treasure, #pasukankembar"
-  - username: "itsadaeze_"
+    hashtags: "#inibeneranlive, #tiktokindonesia, #tiktok, #foryoupage"
+  - username: "pmanagement"
     fullname: >-
-      Adaeze
+      P Management
+    bio: >-
+      Model Management Model avaible for photoshoot, endorse and commercials
     location: "Indonesia"
-    followers: 78612
-    engagement: 1240
-    commentsToLikes: 0.023158
-    id: ck8kfdl26dljb0j78qxvufrkx
+    followers: 2918
+    engagement: 366
+    commentsToLikes: 0.025557
+    id: ckd0p4uq4hmoy0j232hpl5lit
     verified: false
-    hashtags: "#xyzcba, #tiktokindo, #fashion, #bible"
-  - username: "furryvid"
+    hashtags: "#fyp, #pmanagement, #newnormalnewyou, #beranda"
+  - username: "aditya_iskandar"
     fullname: >-
-      furryvid
+      𝐀𝐝𝐢𝐭𝐲𝐚 𝐈𝐬𝐤𝐚𝐧𝐝𝐚𝐫
+    bio: >-
+      Di follow yah IG Saya🤗🙏 :@Adityaiskandar_v3 asli:BEKASI TIMUR MENIKAH:icha🥰😘
     location: "Indonesia"
-    followers: 12525
-    engagement: 396
-    commentsToLikes: 0.003068
-    id: ck83x2u8snskf0j783qqnks7m
+    followers: 130000
+    engagement: 1094
+    commentsToLikes: 0.064406
+    id: ckc8xwc76m3pe0j23utu6kj1b
     verified: false
-    hashtags: "#igdaily, #igers, #smile, #instasize"
+    hashtags: "#stlye, #fyp, #tiktoker, #model"
+  - username: "dayatt_photography"
+    fullname: >-
+      Dayatt Photography
+    bio: >-
+      foto sama aku, yuk cek igku dayattphotography
+    location: "Indonesia"
+    followers: 3941
+    engagement: 693
+    commentsToLikes: 0.088934
+    id: ckbqktmmf5yck0j23wa14ildl
+    verified: false
+    hashtags: "#follow4follow, #likes, #musically, #instapic"
   - username: "bilyniagarawann"
     fullname: >-
       Bily Niagarawan
+    bio: >-
+      Follow me on Instagram : Bilyniagarawan 🥀
     location: "Indonesia"
-    followers: 74024
-    engagement: 647
-    commentsToLikes: 0.024470
+    followers: 92500
+    engagement: 608
+    commentsToLikes: 0.025622
     id: ck83k438f96040j78la34c9xh
     verified: false
-    hashtags: "#modelshoot, #partydance, #nightclub, #catsoftiktok"
-  - username: "zilmizola"
+    hashtags: "#model, #fitness, #morning, #bareface"
+  - username: "furryvid"
     fullname: >-
-      zilmizola
+      furryvid
+    bio: >-
+      Instagam : furryvid Facebook FP : furryvid Youtube : Furry Vid
     location: "Indonesia"
-    followers: 56082
-    engagement: 457
-    commentsToLikes: 0.065197
-    id: cka6lohnx3zhw0i787r6iwxxc
+    followers: 22900
+    engagement: 461
+    commentsToLikes: 0.003995
+    id: ck83x2u8snskf0j783qqnks7m
     verified: false
-    hashtags: "#labuanbajo, #friend, #dirumahaja, #corona"
-  - username: "mrindradika"
+    hashtags: "#followme, #pink, #picoftheday, #yummy"
+  - username: "deni.basoeki"
     fullname: >-
-      Dika
+      Deni Basoeki
+    bio: >-
+      Do something today that your future self will thank you for
     location: "Indonesia"
-    followers: 32802
-    engagement: 392
-    commentsToLikes: 0.022005
-    id: ck9gkos05kn1f0j78qoasf935
+    followers: 71500
+    engagement: 284
+    commentsToLikes: 0.000000
+    id: ckcp2e4p9bl2v0j23g177yujk
     verified: false
-    hashtags: "#naruto, #mugchallenge, #fashion, #muscle"
-  - username: "syafatasyasalsabila"
+    hashtags: "#fyp, #kulinerindonesia, #model, #interview"
+  - username: "nunik254"
     fullname: >-
-      syafa tasya✨
+      Nunik Harianti
+    bio: >-
+      lhttps://m.youtube.com/channel/UCVL2xhJRM-UixK-qVeZmCgw
     location: "Indonesia"
-    followers: 43095
-    engagement: 220
-    commentsToLikes: 0.012517
-    id: ck90u67tevft90j78f3xdlr19
+    followers: 2208
+    engagement: 1572
+    commentsToLikes: 0.011905
+    id: ckcp4dtkdccc70j231is75kjl
     verified: false
-    hashtags: "#callyoumine, #forfun, #model, #gerakdirumah"
-  - username: "clarissamatahari"
+    hashtags: "#kpopedit, #amazingsaturday, #jungsister, #cenimagraph"
+  - username: "littletalker_"
     fullname: >-
-      𝙧𝙞𝙨
+      heylouie_
+    bio: >-
+      Instagram : heylouie_ Drama hidup lebih dari sinetron & suka ngeracunin orang 🌼
     location: "Indonesia"
-    followers: 5758
-    engagement: 914
-    commentsToLikes: 0.013206
-    id: ckacdgjr0is1n0i781qipjwwv
+    followers: 227100
+    engagement: 846
+    commentsToLikes: 0.048051
+    id: ckbl6jz4m4d9p0j2332zm183p
     verified: false
-    hashtags: "#lighting, #skin, #facial, #2000s"
-  - username: "backpackertampan"
-    fullname: >-
-      tampan
-    location: "Indonesia"
-    followers: 114272
-    engagement: 835
-    commentsToLikes: 0.019899
-    id: ck8kjxev8wpgy0j78iidyn8n7
-    verified: false
-    hashtags: "#keren, #orangkaya, #boyfriend, #girlfriend"
+    hashtags: "#kisahku, #racuntiktok, #aneh, #gila"
 ---

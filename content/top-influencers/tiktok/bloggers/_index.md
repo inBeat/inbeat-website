@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In 2020
 description: >-
-  Find top bloggers TikTok influencers in 2020. Most popular hashtags: #foryou #quarantinelife #selfcare #blacktiktok.
+  Find top bloggers TikTok influencers in 2020. Most popular hashtags: #fyp #duet #quarantinelife #petsoftiktok.
 platform: TikTok
+hits: 565
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 565 TikTok influencers like this for you to work with.
 profiles:
-  - username: "jakejamiebeauty"
-    fullname: >-
-      Jake-Jamie 
-    location: "United Kingdom"
-    followers: 71497
-    engagement: 2393
-    commentsToLikes: 0.041811
-    id: ck8addqh75f1v0j78kzwbn9lf
-    verified: true
-    hashtags: "#trolls, #speakyourmind, #hudabeauty, #26jumps"
-  - username: "akiadanielle_"
-    fullname: >-
-      Akia Danielle
-    location: "United States"
-    followers: 4232
-    engagement: 2154
-    commentsToLikes: 0.085806
-    id: ck85cprvf2vae0j78qlnnrxwy
-    verified: false
-    hashtags: "#selfmotivation, #happymom, #marriedlife, #husbandandwife"
-  - username: "imgabycontre"
-    fullname: >-
-      Hi! I'm Gaby Contre
-    location: "Mexico"
-    followers: 8662
-    engagement: 2595
-    commentsToLikes: 0.049847
-    id: ck9dqnnkq0ne10j783nss1wp1
-    verified: false
-    hashtags: "#yolo, #estoy, #haciendosereno, #bananachallenge"
-  - username: "crutches_and_spice"
-    fullname: >-
-      Crutches&Spice ♿️ : 
-    location: "United States"
-    followers: 2333
-    engagement: 3553
-    commentsToLikes: 0.049325
-    id: ckamt730eth740i782nias5ka
-    verified: false
-    hashtags: "#pandemic, #imblackandimproud, #politicaltiktok, #question"
   - username: "sumidoll36"
     fullname: >-
       👑💕sumi doll36💕👑
+    bio: >-
+      like id sumidoll36 hOst+bloGger+youtube❤ Fam let's talk on insta Sumidoll36😘
     location: "Pakistan"
-    followers: 330500
-    engagement: 1729
-    commentsToLikes: 0.034850
+    followers: 724400
+    engagement: 2342
+    commentsToLikes: 0.037987
     id: cka8furqy3wm90i780nn4dh4b
     verified: false
-    hashtags: "#ghanitiger"
-  - username: "kindasortateacher"
+    hashtags: "#ryksquad, #sumifam, #love, #follow"
+  - username: "mitalisharma0"
     fullname: >-
-      Ty Tiger
-    location: "United States"
-    followers: 2575
-    engagement: 1139
-    commentsToLikes: 0.073871
-    id: cka6d7bm36wkn0i783g11fs06
-    verified: false
-    hashtags: "#kidsbelike, #teachertip, #itsaremix, #imissmystudents"
-  - username: "giomadonna_official"
-    fullname: >-
-      Giò Madonna
-    location: "Italy"
-    followers: 4687
-    engagement: 1056
-    commentsToLikes: 0.096906
-    id: ckaciug794xm90i78rgf1reku
-    verified: false
-    hashtags: "#greece, #green, #news, #skill"
-  - username: "prachimaulingker"
-    fullname: >-
-      Prachi Maulingker
+      Mitali Sharma
+    bio: >-
+      👑HTC 2017 ◾BLOGGER & INFLUENCER ◾Instagram =mitali6225official ◾Like,Share,Cmt
     location: "India"
-    followers: 3678
-    engagement: 1769
-    commentsToLikes: 0.088989
-    id: ck9ev0095g1dy0j78sh3zvlvg
+    followers: 8184
+    engagement: 3844
+    commentsToLikes: 0.060470
+    id: ckb9t6p10qvzs0j23h1etudd7
     verified: false
-    hashtags: "#tiktok, #payal, #sareechallenge, #sareelook"
-  - username: "420emotions"
+    hashtags: "#tiktokgood, #viralchallenge, #tiktokers, #video2020"
+  - username: "theitmom"
     fullname: >-
-      𝔤𝔞𝔟𝔯𝔦𝔢𝔩𝔩𝔞 ⚢
+      Daisy Teh
+    bio: >-
+      👩🏻‍💻Blogger/Amazon Seller 🇵🇭Former teen mom 🎉Family fun 👰🏻My BFF 📍Vegas
     location: "United States"
-    followers: 10016
-    engagement: 2781
-    commentsToLikes: 0.056885
-    id: ckamwjv5c8v8k0i78wqsq5oke
+    followers: 550300
+    engagement: 1817
+    commentsToLikes: 0.025931
+    id: ckbqjjg5p4qnx0j234n7ohj93
     verified: false
-    hashtags: "#xyzbca, #racist, #response, #dragqueen"
-  - username: "aestheticallycate"
+    hashtags: "#babyturtle, #gimmelove, #turtlesoftiktok, #tortoise"
+  - username: "fatoom.dababneh"
     fullname: >-
-      Aesthetic Cate🐥
+      Fatoom Dababneh
+    bio: >-
+      🇯🇴Age "19" ▫️Youtuber ▫️Singer ▫️Fashion blogger
+    location: "Jordan"
+    followers: 397900
+    engagement: 1525
+    commentsToLikes: 0.025812
+    id: ckcv0c0r7n4wq0j233lxnozlp
+    verified: true
+    hashtags: "#army, #jungkook, #jordan, #arabarmy"
+  - username: "alyssatabit"
+    fullname: >-
+      alyssa
+    bio: >-
+      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
     location: "United States"
-    followers: 117838
-    engagement: 1945
-    commentsToLikes: 0.038079
-    id: ck81qwwl5kkw90j78g28ooylz
+    followers: 26000
+    engagement: 1418
+    commentsToLikes: 0.065475
+    id: ckbkt2nxko44z0j23uxvlyfak
     verified: false
-    hashtags: "#twilight, #relationship, #clown, #foryourpage"
+    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+  - username: "pellokilapenjelajah"
+    fullname: >-
+      Ombabang
+    bio: >-
+      A travel blogger who do love traveling Indonesia and the world
+    location: "Indonesia"
+    followers: 8690
+    engagement: 1319
+    commentsToLikes: 0.085467
+    id: ckd0thzxajco80j23fl1supwp
+    verified: false
+    hashtags: "#fyp, #tiktokindonesia, #pellokilapenjelajah, #forfriendstravels"
+  - username: "evenangelsfall"
+    fullname: >-
+      Emma-Louise
+    bio: >-
+      Lifestyle blogger, just a small town girl, love a good lipsync... 🥂
+    location: "United Kingdom"
+    followers: 17200
+    engagement: 1174
+    commentsToLikes: 0.068075
+    id: ckb9abj70vbqg0j239xyix3tr
+    verified: false
+    hashtags: "#happyhalloween2020, #halloween2020, #americanhorrorstoryedits, #friendstvshow"
+  - username: "mrmoodydresser"
+    fullname: >-
+      Mike Jones
+    bio: >-
+      40+ Fashion influencer and blogger! #mrmoodydresser
+    location: "United States"
+    followers: 7772
+    engagement: 1041
+    commentsToLikes: 0.075983
+    id: ckb9l759odil60j23jr58e09v
+    verified: false
+    hashtags: "#weightlossjourney, #fitover40, #blackmenwithstyle, #tiktokover40"
+  - username: "carissa.stephens"
+    fullname: >-
+      Carissa Stephens
+    bio: >-
+      Lifestyle Blogger + Wine Maker Making life magical. Join me for the ride 🦄💫💕
+    location: "United States"
+    followers: 4184
+    engagement: 1560
+    commentsToLikes: 0.058850
+    id: cka6b5e26ywxe0i78kkfffqh8
+    verified: false
+    hashtags: "#fypage, #winelovers, #over30, #momsoftiktok"
+  - username: "thetravelingwhites"
+    fullname: >-
+      Nick + Angelica
+    bio: >-
+      Traveled to 36 countries & counting🗺 💫Come be inspired 📍NJ 🛫Travel bloggers
+    location: "United States"
+    followers: 8111
+    engagement: 951
+    commentsToLikes: 0.077369
+    id: ckbfi3ce0dsb40j23obzl21qg
+    verified: false
+    hashtags: "#travel, #throwbacktravel, #rhodeislandcheck, #travelcouple"
 ---

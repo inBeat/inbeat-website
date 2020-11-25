@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast TikTok Influencers In Canada In 2020
 description: >-
-  Find top hypebeast TikTok influencers in Canada in 2020. Most popular hashtags: #hypebeast #shoes #sneakers #coronavirus.
+  Find top hypebeast TikTok influencers in Canada in 2020. Most popular hashtags: #hypebeast #sneakers #fyp #nike.
 platform: TikTok
+hits: 35
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 35 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "yvngrice"
     fullname: >-
       🍚 yvngrice 🍚
+    bio: >-
+      🔥 ¥YC’s HYPEBEAST 🔥 310K!?⛽🔥🤯🙏 | MISSION TO 1M ☝️😁 FREE 👟’s ON IG 😤💯
     location: "Canada"
-    followers: 41558
-    engagement: 1331
-    commentsToLikes: 0.013193
+    followers: 316200
+    engagement: 1892
+    commentsToLikes: 0.006124
     id: ck8f7ukwk37gt0j7865h6i8pw
     verified: false
-    hashtags: "#greenscreen, #supreme"
-  - username: "his.story"
-    fullname: >-
-      Leo Current
-    location: "Canada"
-    followers: 10427
-    engagement: 1056
-    commentsToLikes: 0.042972
-    id: ck9vajj4ciw6o0j78m8dz4oap
-    verified: false
-    hashtags: "#liluzichallenge, #drakesong, #clothingbrands, #fashiondiy"
-  - username: "gerrelramirez"
-    fullname: >-
-      Gerrel Ramirez
-    location: "Canada"
-    followers: 2397
-    engagement: 1199
-    commentsToLikes: 0.042247
-    id: ck8vy2pr2syeu0j7819xwkgjh
-    verified: false
-    hashtags: "#movies, #saintjhn, #nbaplayers, #foryoupage"
-  - username: "theplug.to"
-    fullname: >-
-      The Plug 🔌
-    location: "Canada"
-    followers: 5469
-    engagement: 275
-    commentsToLikes: 0.036151
-    id: ck8f7uls537nu0j78o36zl0bl
-    verified: false
-    hashtags: "#ceoof, #rip, #kobe, #hustler"
+    hashtags: "#learnontiktok, #fashion101, #jumpman, #notfyp"
   - username: "skyproness"
     fullname: >-
       skyproness
+    bio: >-
+      YYC🇨🇦 Sneakerhead/Hypebeast Quest to 10k🙏🏻🙏🏻
     location: "Canada"
-    followers: 2681
-    engagement: 1293
-    commentsToLikes: 0.004580
+    followers: 3600
+    engagement: 1350
+    commentsToLikes: 0.004404
     id: ckac5t0sodlqq0i78mzjbtf6w
     verified: false
-    hashtags: "#quaratine, #shoes, #nike, #xyzbca"
+    hashtags: "#boredathome, #sneakers, #nike, #sneakerhead"
+  - username: "thewashedmarket"
+    fullname: >-
+      THEWASHEDMARKET
+    bio: >-
+      GROUP OF GUYS SELLING SNEAKERS FOLLOW OUR IG
+    location: "Canada"
+    followers: 13800
+    engagement: 1446
+    commentsToLikes: 0.076789
+    id: ck8fa2unv3zae0j78oc64h3ty
+    verified: false
+    hashtags: "#onmyway, #xyzbca, #4upage, #sneakermeetup"
+  - username: "lqmnahmed"
+    fullname: >-
+      Luqman
+    bio: >-
+      Go follow my Instagram ⬆️ @lqmnahmed Soleistermgnt@gmail.com 🇨🇦 Toronto
+    location: "Canada"
+    followers: 50700
+    engagement: 1232
+    commentsToLikes: 0.037784
+    id: ckcjczohy9swl0j23a0yy16bm
+    verified: false
+    hashtags: "#sneakerhead, #nike, #jordan1, #snkrs"
   - username: "kristophercarrillo"
     fullname: >-
       Kris Carrillo
+    bio: >-
+      I try to make sneakerhead content when I can 🇨🇦🇵🇭 ‘02 LLCB 🕊✊🏽
     location: "Canada"
-    followers: 76865
-    engagement: 1299
-    commentsToLikes: 0.042993
+    followers: 72800
+    engagement: 1359
+    commentsToLikes: 0.029667
     id: ck8tprcnpqk4w0j78axn3eblk
     verified: false
-    hashtags: "#bedroomcheck, #guessmyprovince, #gta5, #greenvspurple"
-  - username: "kolton117"
+    hashtags: "#xyzbca, #streetwear, #nike, #yyc"
+  - username: "paintplugz"
     fullname: >-
-      KOLTON
+      Paintplugz
+    bio: >-
+      Bringing you wearable art 🎨 Custom shoes 👟 Dm on IG to make a purchase!
     location: "Canada"
-    followers: 37484
-    engagement: 2479
-    commentsToLikes: 0.017222
-    id: ck806wb6gmj4z0j78mnf8ce8g
+    followers: 26300
+    engagement: 1491
+    commentsToLikes: 0.013402
+    id: ckcowlot49ivg0j23fiwvh757
     verified: false
-    hashtags: "#artist, #callofduty, #soldier, #nelk"
-  - username: "dangfamtv"
+    hashtags: "#louisvuitton, #burberry, #customshoes, #airforce1"
+  - username: "abi.sals"
     fullname: >-
-      Andy Miruna & Marcus
+      Abs😇
+    bio: >-
+      Only my shoes go viral
     location: "Canada"
-    followers: 57833
-    engagement: 1304
-    commentsToLikes: 0.018203
-    id: ck8faaxhw46p30j7834n8zn8p
+    followers: 7544
+    engagement: 875
+    commentsToLikes: 0.029450
+    id: ck9dx92mcsa1i0j780cixc623
     verified: false
-    hashtags: "#nastychallenge, #bestfriends, #chowchows, #castaway"
-  - username: "surprisinglysteve"
+    hashtags: "#shoes, #euphoria, #hypebeast, #canada"
+  - username: "austinottone"
     fullname: >-
-      Steve Surprenant
+      Austin Ottone
+    bio: >-
+      🇨🇦 - 22 ⬇️FALL 2020⬇️
     location: "Canada"
-    followers: 2389
-    engagement: 792
-    commentsToLikes: 0.035427
-    id: ck9c7axujrqcj0j78j70hb9uf
+    followers: 199900
+    engagement: 947
+    commentsToLikes: 0.015506
+    id: ck806zm4rndor0j78p6bgjsh2
     verified: false
-    hashtags: "#eyes, #xycba, #xyzcba, #foruyou"
-  - username: "duaneshootstoys"
+    hashtags: "#oneofone, #upcycledfurniture, #vancitystreet, #vancityst"
+  - username: "rozkicks"
     fullname: >-
-      Duane Shoots Toys
+      Rozkicks
+    bio: >-
+      Canada📍 Insta - @Rozkickz
     location: "Canada"
-    followers: 862072
-    engagement: 1656
-    commentsToLikes: 0.006165
-    id: ck806yfa3n2lv0j78sbt9f56y
+    followers: 3513
+    engagement: 1244
+    commentsToLikes: 0.011125
+    id: ck8f82ju53csm0j78882yd7iz
     verified: false
-    hashtags: "#retailtherapy, #garyvee, #jiffpom, #90skids"
+    hashtags: "#greenscreen, #fy, #customshoes, #jordan"
+  - username: "cainbeaudoin"
+    fullname: >-
+      Cain Beaudoin
+    bio: >-
+      Artist & Sneakerhead checkout my friends store
+    location: "Canada"
+    followers: 8575
+    engagement: 1143
+    commentsToLikes: 0.033660
+    id: ckcp3xunvc4yn0j23bfxk4qau
+    verified: false
+    hashtags: "#sneakerhead, #shoe, #jordan, #ooh"
 ---

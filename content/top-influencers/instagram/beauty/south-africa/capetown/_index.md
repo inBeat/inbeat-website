@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Capetown In 2020
 description: >-
-  Find top beauty Instagram influencers in Capetown in 2020. Most popular hashtags: #beauty #capetown #life #skincare.
+  Find top beauty Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #beauty #southafrica #style.
 platform: Instagram
+hits: 37
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 37 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
-  - username: "chimocollate"
+  - username: "daniella_thibault"
     fullname: >-
-      Vina .W 🌹CHIMOCOLLATE BLOG🌹🧿
+      Daniella Zainette Thibault
+    bio: >-
+      🌹#TheBachelorSA S2 👑@donline.co.za My Business 👑My page is to inspire & entertain
     location: "South Africa"
-    followers: 6143
-    engagement: 702
-    commentsToLikes: 0.030938
-    id: ck1363j3j4l4l0i19pf7hq0r0
+    followers: 27322
+    engagement: 122
+    commentsToLikes: 0.764314
+    id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
-    hashtags: "#stayhealthy, #boomerang, #whatsinmyglass, #mondaymotivation"
-  - username: "lukemaximobell"
+    hashtags: "#lockdown2020, #capetown, #unitedwomansquad, #thebachelorsa"
+  - username: "official_misssa"
     fullname: >-
-      Luke Bell
+      Miss South Africa
+    bio: >-
+      The official account of Miss South Africa, presented by Weil Entertainment in association with @suninternationalza and @mnettv @mzansimagic
     location: "South Africa"
-    followers: 8500
-    engagement: 542
-    commentsToLikes: 0.025036
-    id: ck5cg2haeo1zj0i11vlylnng0
-    verified: false
-    hashtags: "#castlesofscotland, #visitsvalbard, #snow, #unlimitediceland"
-  - username: "kissblushandtell"
-    fullname: >-
-      KISS, BLUSH & TELL
-    location: "South Africa"
-    followers: 37394
-    engagement: 254
-    commentsToLikes: 0.070006
-    id: ck5q8fzye5ztx0i11tha1d1zz
-    verified: false
-    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
-  - username: "fashionbreed"
-    fullname: >-
-      Aqeelah Harron Ally
-    location: "South Africa"
-    followers: 65225
-    engagement: 412
-    commentsToLikes: 0.045530
-    id: ck6u4nqzg4s110j713ik5e211
+    followers: 185768
+    engagement: 334
+    commentsToLikes: 0.034078
+    id: ck0u04ha1sj9o0i192v1a5ttz
     verified: true
-    hashtags: "#homewithcanalwalk, #hmxme, #fashionbreedtravel, #socialdistancing"
-  - username: "lindylin.mua"
+    hashtags: "#shudufhadzomusida, #misssa2020, #faceyourpower, #embraceyourfuture"
+  - username: "withlovebloomingrose"
     fullname: >-
-      Lindy Lin
+      A M I N A H
+    bio: >-
+      Cape Town🇿🇦 Ambassador for the best! @sarahsglambar & @vitalbabysa Mom to doggos and 2 humans🤍 Garden Lover🌿 Fashion | Beauty | Mamahood | Lifestyle
     location: "South Africa"
-    followers: 88338
-    engagement: 689
-    commentsToLikes: 0.029241
-    id: ck6u4o7hw4uru0j71p6lnmht1
+    followers: 42147
+    engagement: 28
+    commentsToLikes: 0.136759
+    id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
-    hashtags: "#yardley, #itsyourtime, #yardleylondonsa, #sponsored"
-  - username: "mariahmcalpin"
+    hashtags: "#fashionbloggers, #beautybloggers, #whatiwore, #fbloggers"
+  - username: "shawnee_reid"
     fullname: >-
-      Mariah Ezra | 🇺🇸 🇿🇦
+      Shawnee Reid
+    bio: >-
+      Fitness|Funster|Businesswoman|God ✝️ Sub to my YT,click link⏬ Model @icemodelsjhb 🔸 @metalabofficial 📧shawnee@sreid.co.za LVW♥️
     location: "South Africa"
-    followers: 36663
-    engagement: 195
-    commentsToLikes: 0.097993
-    id: ck5ci8ds3s7e10i11tkv4cmm6
+    followers: 30066
+    engagement: 422
+    commentsToLikes: 0.058248
+    id: ck15tn2y6iwd90i198x1nvvko
     verified: false
-    hashtags: "#hawaii, #sheisnotlost, #30, #lomoinstant"
-  - username: "seangoesnatural"
+    hashtags: "#love, #clouds, #style, #outfit"
+  - username: "frema.mensah"
     fullname: >-
-      Hair,Skin+Kinda Adulting|Sean
+      🇬🇭Frema Mensah🇬🇭
+    bio: >-
+      Stay patient and trust your journey Say no to skin bleaching @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 2717
-    engagement: 1189
-    commentsToLikes: 0.216280
-    id: ck6u39s65wk240j71e8ku32l4
+    followers: 5572
+    engagement: 1104
+    commentsToLikes: 0.078287
+    id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: "#plants, #skincare, #bossbabe, #heforshe"
+    hashtags: "#blackisbeautiful, #melaninmagic, #blackisking, #blackandyellow"
+  - username: "theminimalblogger"
+    fullname: >-
+      THE MINIMAL BLOGGER
+    bio: >-
+      السَّلَامُ عَلَيْكُمْ Wijdan Arendse-Hendricks a minimalist curating considered content co-founder of @leuniforme — Cape Town, South Africa
+    location: "South Africa"
+    followers: 19765
+    engagement: 385
+    commentsToLikes: 0.031834
+    id: ck0w12wnthase0i192cft2xs6
+    verified: false
+    hashtags: "#hmxme, #narcisorodriguezparfums, #puremusc, #hmconscious"
+  - username: "jessica_vanheerden"
+    fullname: >-
+      Jessica van Heerden
+    bio: >-
+      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
+    location: "South Africa"
+    followers: 41896
+    engagement: 677
+    commentsToLikes: 0.029140
+    id: ck135ukud3bat0i199i7ol35t
+    verified: false
+    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
+  - username: "fabulousoverfifty_"
+    fullname: >-
+      Diana Bellingan🇿🇦
+    bio: >-
+      BREAST CANCER SURVIVOR 💗•50+ INFLUENCER • MOTIVATIONAL SPEAKER •Sharing my love of fashion&beauty with women over 50! DM for collabs 📍South Africa
+    location: "South Africa"
+    followers: 37383
+    engagement: 113
+    commentsToLikes: 0.066551
+    id: ck14jt8lsm2g50i19yzhj6fmg
+    verified: false
+    hashtags: "#confidentwomen, #lookoftheday, #strongwomen, #fitover50"
+  - username: "aly_bux"
+    fullname: >-
+      A A L I Y A H - B U X
+    bio: >-
+      Redefining the beauty industry 1 eyeliner at a time. Enemies of the heir, beware 🐍 Pro Makeup Artist | Content Creator Co-Partner at @bmups_ Academy
+    location: "South Africa"
+    followers: 13976
+    engagement: 708
+    commentsToLikes: 0.109319
+    id: ck15t918jgxbk0i19avy1pp4f
+    verified: false
+    hashtags: "#creative, #womenempowerment, #durbansouthafrica, #fashion"
   - username: "amber_brits"
     fullname: >-
-      A M B E R. BRITS.
+      A M B E R. BRITS. OFFICIAL 💥
+    bio: >-
+      Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
     location: "South Africa"
-    followers: 16410
-    engagement: 324
-    commentsToLikes: 0.075938
+    followers: 17269
+    engagement: 335
+    commentsToLikes: 0.061279
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#sexy, #retro, #supportlocal, #vogue"
-  - username: "diariesofanislandergirl"
-    fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
-    location: "South Africa"
-    followers: 8945
-    engagement: 828
-    commentsToLikes: 0.029388
-    id: ck5hqose9tghk0i11u4gxah0n
-    verified: false
-    hashtags: "#threadingeyebrows, #facialrazor, #skincareaddict, #egglessmarblecake"
-  - username: "alwynuys"
-    fullname: >-
-      Alwyn Uys
-    location: "South Africa"
-    followers: 13512
-    engagement: 648
-    commentsToLikes: 0.133659
-    id: ck6ue92jdpj2m0j71uc1bfje4
-    verified: false
-    hashtags: "#winning, #level4, #expectations, #happy"
+    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
 ---

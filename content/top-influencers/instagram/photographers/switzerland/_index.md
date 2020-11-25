@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top photographers Instagram influencers in Switzerland in 2020. Most popular hashtags: #summer #sunset #portrait #lingerie.
+  Find top photographers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #creative #photography #creativephotography.
 platform: Instagram
+hits: 250
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 250 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "yh_pixelation"
+  - username: "fleursnoir"
     fullname: >-
-      Photographer
+      Fleur
+    bio: >-
+      * Hello stranger :) * photographer, gamer, lover of animals, traveling, cosplay, a good wine with Damien rice music’s and @artur.noir
     location: "Switzerland"
-    followers: 5853
-    engagement: 828
-    commentsToLikes: 0.033122
-    id: ck0tu118355uv0i19j35ficzj
+    followers: 43327
+    engagement: 1248
+    commentsToLikes: 0.258550
+    id: ck15tmw04ivcw0i19nwamvzzb
     verified: false
-    hashtags: "#owncar, #diffusor, #location, #teamyido"
+    hashtags: "#netflix, #reels, #netflixcosplay, #ciri"
   - username: "massiahzavahir"
     fullname: >-
       MassiahZavahir
+    bio: >-
+      ..creating.. ▪️Dancer | Choreographer 📸Photographer - DM for bookings ▪️Credits: Kanye West - Honor Up, MCM, Puma, Braun, Swatch, UO, Nike 📍Basel 🇨🇭
     location: "Switzerland"
-    followers: 5910
-    engagement: 780
-    commentsToLikes: 0.103157
+    followers: 6130
+    engagement: 799
+    commentsToLikes: 0.154916
     id: ck5qcjwa7qxxx0i112ynf2ikk
     verified: false
-    hashtags: "#dearmama, #iansdanceloopz"
-  - username: "giomaphoto"
+    hashtags: "#instagood, #gqstyle, #berlin, #oassismag"
+  - username: "kalepipe"
     fullname: >-
-      Giovanni Malandrino
+      Nae 🥬
+    bio: >-
+      visual artist photographer, illustrator, painter dm or mail for creative collaborations.
     location: "Switzerland"
-    followers: 37848
-    engagement: 656
-    commentsToLikes: 0.029355
-    id: ck8t2694jyavx0j7822lrusse
+    followers: 39225
+    engagement: 1328
+    commentsToLikes: 0.006373
+    id: ckf5rmr9xd8fr0j23md5kl0z9
     verified: false
-    hashtags: "#balletto, #bologna, #bailarina"
-  - username: "fredvaudroz"
+    hashtags: "#lascauxcolours"
+  - username: "michelvongerges"
     fullname: >-
-      Fred Vaudroz
+      Michel Von Gerges
+    bio: >-
+      #bnwmood #fineartphotography Visual artist and a watch photographer. 🎥🎬📷 Free spirit, motorcyclist and a dreamer!
     location: "Switzerland"
-    followers: 13086
-    engagement: 1295
-    commentsToLikes: 0.023036
-    id: ck0vuvc5mmbzi0i19bppich89
+    followers: 32756
+    engagement: 71
+    commentsToLikes: 0.092661
+    id: ck5hpplytrrfj0i116re6dqwu
     verified: false
-    hashtags: "#hollowback, #standingsplit, #snowday, #pointe"
-  - username: "merveavcii"
+    hashtags: "#zurich, #portraitgames, #creativeportrait, #godox"
+  - username: "richardjuilliart"
     fullname: >-
-      HUNTERSWORD
+      Richard juilliart
+    bio: >-
+      Photographer based in Switzerland
     location: "Switzerland"
-    followers: 6275
-    engagement: 758
-    commentsToLikes: 0.073050
-    id: ck6ue6nffp4fj0j71az49v6dx
+    followers: 18385
+    engagement: 1064
+    commentsToLikes: 0.004741
+    id: ck6udq8bvmj7v0j71a9skrd48
     verified: false
-    hashtags: "#evdeyiz, #cokgezenlerkulubu"
-  - username: "shunsukecos"
+    hashtags: "#covid, #moment, #documentaryphotography, #onassignment"
+  - username: "josevitari"
     fullname: >-
-      Shunsuke
+      Josevi Tari
+    bio: >-
+      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩 Hextie Code: josevi25 (25%)
     location: "Switzerland"
-    followers: 129802
-    engagement: 999
-    commentsToLikes: 0.006400
-    id: ck6twj3c2sa8p0j71w4rrad8q
+    followers: 31359
+    engagement: 278
+    commentsToLikes: 0.382741
+    id: ck5hjldijgtwo0i114h28ac9n
     verified: false
-    hashtags: "#shellxone, #workout, #kkslider, #haruxmako"
-  - username: "stefanrappo"
-    fullname: >-
-      Stefan Rappo
-    location: "Switzerland"
-    followers: 58231
-    engagement: 411
-    commentsToLikes: 0.022646
-    id: ck0ub9vf8e5ri0i19s87r1b92
-    verified: false
-    hashtags: "#newyork, #protectwildlife, #lingerie, #desert"
-  - username: "raluca.antuca"
-    fullname: >-
-      Raluca | Basel Photographer
-    location: "Switzerland"
-    followers: 7273
-    engagement: 663
-    commentsToLikes: 0.058459
-    id: ckapas44vx98a0i78c9z78zl3
-    verified: false
-    hashtags: ""
-  - username: "elianocd"
-    fullname: >-
-      ELIANO DAVIDE|WEDDING PHOTO🇨🇭
-    location: "Switzerland"
-    followers: 44892
-    engagement: 308
-    commentsToLikes: 0.025810
-    id: ckap7aksoj8y70i78o62fqzos
-    verified: false
-    hashtags: "#huffpostido, #covidwedding, #firstdance, #milano"
+    hashtags: "#reels, #ootd, #moda, #outfitgrids"
   - username: "miniundstil"
     fullname: >-
       Mini & Stil
+    bio: >-
+      ♥ isabelle | zurich | mom of three girls | visual storyteller | photographer @isabellekadefotografie ♥ ♥ read my blog:
     location: "Switzerland"
-    followers: 23007
-    engagement: 269
-    commentsToLikes: 0.062012
+    followers: 26028
+    engagement: 258
+    commentsToLikes: 0.046680
     id: ck0vwwhcwvxea0i19ybtz8rou
     verified: false
-    hashtags: "#stadtlandkind, #nurserydecor, #fotografz, #letsallbewell"
+    hashtags: "#farrowandball, #kidsdesign, #kidsroom, #boliginter"
+  - username: "nicischindler"
+    fullname: >-
+      Nicolas Schindler
+    bio: >-
+      Film photographer _ On #35mm & #mediumformat In Switzerland.
+    location: "Switzerland"
+    followers: 6802
+    engagement: 873
+    commentsToLikes: 0.027935
+    id: ckaoug7l404ur0i78i89ugauf
+    verified: false
+    hashtags: "#nightwalkermagazine, #120film, #cinestill800t, #imaginarymagnitude"
+  - username: "florenceurban"
+    fullname: >-
+      Florence U. Photography 📸©️
+    bio: >-
+      Other account: @_portraits_photographer Professional photographer DM for shooting SonyA7rii, Zeiss & Sony lenses captures are mine©️
+    location: "Switzerland"
+    followers: 4991
+    engagement: 1961
+    commentsToLikes: 0.208597
+    id: ckaoy7kjsgbx50i78jzrnptcc
+    verified: false
+    hashtags: "#allkindofnature, #igersflowers, #macro, #flower"
+  - username: "travel_photos_stone"
+    fullname: >-
+      Steen🤙🤣✈️
+    bio: >-
+      Passionate hobby photographer 🌍Travel, nature, culture 📷 Nikon D750, IPhone X 😉 All photos taken by me©️
+    location: "Switzerland"
+    followers: 2780
+    engagement: 2518
+    commentsToLikes: 0.126107
+    id: ckap1f3bsubsi0i78lklqnms7
+    verified: false
+    hashtags: "#bnw, #fujilove, #simplicity, #stilllife"
 ---

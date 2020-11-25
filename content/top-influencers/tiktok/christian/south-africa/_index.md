@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In South Africa In 2020
 description: >-
-  Find top christian TikTok influencers in South Africa in 2020. Most popular hashtags: #christian #jesus #foryoupage #trend.
+  Find top christian TikTok influencers in South Africa in 2020. Most popular hashtags: #christian #fyp #jesus #foryou.
 platform: TikTok
+hits: 41
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 41 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "stellaboo_xoxo"
     fullname: >-
       stellaboo_xoxo
+    bio: >-
+      Christian girl 💛 - videos about my life & Faith -fitness , Coffee lover
     location: "South Africa"
-    followers: 5963
-    engagement: 1535
-    commentsToLikes: 0.034136
+    followers: 6197
+    engagement: 1789
+    commentsToLikes: 0.035458
     id: ck9kcnzq0qcsp0j78amqiltkq
     verified: false
-    hashtags: "#whatieatinaday, #ilooklikeaclown, #dailyreminder, #germanshepperd"
-  - username: "kaylaroodt8"
+    hashtags: "#jesusisking, #bible, #christiantiktok, #christianlife"
+  - username: "nina7justme"
     fullname: >-
-      Kayla Roodt
+      Nina
+    bio: >-
+      Brand Ambassador for Jesus💜 Princess cos my Father is The King👑 JesusisKing✝️
     location: "South Africa"
-    followers: 2737
-    engagement: 907
-    commentsToLikes: 0.037355
-    id: ck9c8ig50t07j0j780buq9fzg
+    followers: 31200
+    engagement: 1952
+    commentsToLikes: 0.137149
+    id: ck9sjxe0e5wxy0j78ftmh64gw
     verified: false
-    hashtags: "#notfyp, #friend, #test, #phonecase"
-  - username: "itsme_vioane"
+    hashtags: "#makejesusviral, #faith, #jesussaves, #kingdomminded"
+  - username: "pilot_kelvin"
     fullname: >-
-      Vio-ané Bezuidenhout
+      Kelvin Venter
+    bio: >-
+      ✳️ME IR CPL 🛩️ Free registration, earn play your favorite games 👇👇👇👇👇👇
     location: "South Africa"
-    followers: 4719
-    engagement: 2175
-    commentsToLikes: 0.068994
-    id: ckad5g6smuiqx0i78xvnn6izl
+    followers: 3362
+    engagement: 1722
+    commentsToLikes: 0.077968
+    id: ck9649xc4xymy0j78xe9u7ltv
     verified: false
-    hashtags: "#love, #popcornsocks, #4k, #christiangirls"
-  - username: "dianaotto8"
+    hashtags: "#comment, #foryou, #christian, #viralvideo"
+  - username: "koning_se_kind"
     fullname: >-
       Diana Otto
+    bio: >-
+      Proud mum Founder of #ottobunch 🎼⛲🐺 LOVE&Supp 💞MIx Contents BUT✝️LOVE GOD ✝️
     location: "South Africa"
-    followers: 8682
-    engagement: 2020
-    commentsToLikes: 0.240890
+    followers: 15300
+    engagement: 1559
+    commentsToLikes: 0.208739
     id: ck9skjeq293ld0j78flrexpqq
     verified: false
-    hashtags: "#guardian, #funnyvideos, #laugh, #please"
-  - username: "zakirahshah"
+    hashtags: "#viral, #christian, #hoofmerrie, #otblue"
+  - username: "nadiabouwer"
     fullname: >-
-      Zakirah shah
+      Nadia Bouwer
+    bio: >-
+      Hi :) POV acc : @notnownads
     location: "South Africa"
-    followers: 7108
-    engagement: 1008
-    commentsToLikes: 0.074510
-    id: ck9f1u70ba3c10j78ix34gwoi
+    followers: 53700
+    engagement: 1983
+    commentsToLikes: 0.029728
+    id: ckb9pxdssl9ie0j238ex1g925
     verified: false
-    hashtags: "#jannah, #foryoupage, #delicious, #islamic"
-  - username: "darrienlukesamuel"
+    hashtags: "#christiantiktok, #twobestfriends, #greenscreen, #fyp"
+  - username: "ninaoosthuizen4"
     fullname: >-
-      DarrienLukeSamuel
+      Nina Oosthuizen
+    bio: >-
+      God chose me long before I chose Him ❤️ Give me a follow on the gram 🇿🇦
     location: "South Africa"
-    followers: 28243
-    engagement: 969
-    commentsToLikes: 0.085307
-    id: ck9sjqavz4x1f0j78tw9t5nxt
+    followers: 15900
+    engagement: 938
+    commentsToLikes: 0.053333
+    id: ckauqlobtvpi40j238t6mjxpx
     verified: false
-    hashtags: "#singer, #dogsounds, #exercise, #youaremysoniya"
-  - username: "courtnallskosan"
+    hashtags: "#gimmelove, #tiktoksouthafrica, #afrikaans, #love"
+  - username: "theclairerose"
     fullname: >-
-      courtnallskosan
+      TheClaireRose
+    bio: >-
+      📍South Africa 🇿🇦 Follow this link 👇
     location: "South Africa"
-    followers: 243834
-    engagement: 860
-    commentsToLikes: 0.016690
-    id: ck81s4nswpyg80j788bi7y1df
-    verified: true
-    hashtags: "#happyathome, #lemon, #foamcupstack, #truth"
-  - username: "daniel.ribeiro1990"
-    fullname: >-
-      Daniel Ribeiro
-    location: "South Africa"
-    followers: 52161
-    engagement: 482
-    commentsToLikes: 0.033014
-    id: ck94k3vmstmfb0j78akqlquzt
+    followers: 80600
+    engagement: 1213
+    commentsToLikes: 0.039620
+    id: ckd6xanxgtytm0j23moeaf2rp
     verified: false
-    hashtags: "#mourinho, #liverpool, #china, #africa"
-  - username: "aviation_geek157"
+    hashtags: "#christian, #duet, #revivalstartsnow, #southafrica"
+  - username: "courtneyjacobs07"
     fullname: >-
-      Donald Meyer
+      Court@J
+    bio: >-
+      🇿🇦 God 1st 🙏 GOAL: 20k 😇 IG: @ms.courtney.jacobs
     location: "South Africa"
-    followers: 3758
-    engagement: 1036
-    commentsToLikes: 0.031999
-    id: ck9f1uccda4da0j783csed0rj
+    followers: 19500
+    engagement: 1172
+    commentsToLikes: 0.047628
+    id: ckbb5wnpaw32t0j23fupizok5
     verified: false
-    hashtags: "#rage, #familyguy, #funnyvideos, #gottogo"
-  - username: "lengend323"
+    hashtags: "#foryoupage, #tiktoksa, #christian, #jesus"
+  - username: "iamcelinebneto"
     fullname: >-
-      LEGEND
+      Main Celine
+    bio: >-
+      More active on my Insta: @iamcelinebneto ❤️🙏🏼
     location: "South Africa"
-    followers: 2324
-    engagement: 830
-    commentsToLikes: 0.013347
-    id: cka9l0j3y1ds30i784rcsijnn
+    followers: 170200
+    engagement: 1469
+    commentsToLikes: 0.017560
+    id: ckc8vpbnviq8t0j23siq9209n
     verified: false
-    hashtags: "#yourl, #glowupforreal, #50follows, #comments"
+    hashtags: "#foryoupage, #christiangirl, #worship, #praise"
+  - username: "emeldahmillicent0612_"
+    fullname: >-
+      Emeldah Millicent
+    bio: >-
+      Boss Mom In Corporate The hustler Queen to a prince 👑
+    location: "South Africa"
+    followers: 3749
+    engagement: 1380
+    commentsToLikes: 0.034115
+    id: ckbqj3zvr4byd0j23tw3qrs7k
+    verified: false
+    hashtags: "#worshipmusic, #fortyoupage, #funtimewithtiktok, #christian"
 ---

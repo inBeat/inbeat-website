@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Belgium In 2020
 description: >-
-  Find top vegan Instagram influencers in Belgium in 2020. Most popular hashtags: #vegan #throwback #mothersday #idealofsweden.
+  Find top vegan Instagram influencers in Belgium in 2020. Most popular hashtags: #vegan #belgium #plantbased.
 platform: Instagram
+hits: 35
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 35 Instagram influencers like this in Belgium for you to contact.
 profiles:
+  - username: "jottiverbruggen"
+    fullname: >-
+      ♥ JOTTI VERBRUGGEN
+    bio: >-
+      🍂 Freelance Professional Model 🎃 Antwerp, Belgium 🍁 Plant based #vegan 🧡 Contact: verbruggenjotti@gmail.com
+    location: "Belgium"
+    followers: 21655
+    engagement: 510
+    commentsToLikes: 0.147870
+    id: ck5py0gootqr30i1112cyzzpw
+    verified: false
+    hashtags: "#crazyaboutstevemadden, #energydrink, #bloggers, #sharesomesunshine"
+  - username: "jirkobruyninckxphotography"
+    fullname: >-
+      Belgian Model Photographer
+    bio: >-
+      Internationally published Belgian #photographer with a passion for urbex and model #photography. 📸 #vegan 🌱 #Aalst hometown DM for new collaboration
+    location: "Belgium"
+    followers: 39794
+    engagement: 441
+    commentsToLikes: 0.041339
+    id: ckf5lcb0vp23z0j23fndgrwm8
+    verified: false
+    hashtags: "#bleachmyfilm, #endlessfaces, #artofvisuals, #portrait"
   - username: "lexharlee"
     fullname: >-
       alexis
+    bio: >-
+      LA DJ•Producer•Fitness•Vegan Panamanian & Belgian
     location: "Belgium"
-    followers: 46083
-    engagement: 503
-    commentsToLikes: 0.019088
+    followers: 53235
+    engagement: 670
+    commentsToLikes: 0.019830
     id: ck5hf8yliwd0b0i118glo6s22
     verified: false
-    hashtags: "#vegan"
-  - username: "jelkalepever"
-    fullname: >-
-      JELKA LEPEVER
-    location: "Belgium"
-    followers: 18455
-    engagement: 226
-    commentsToLikes: 0.083747
-    id: ck14hlad3avwr0i19zu8at26i
-    verified: false
-    hashtags: "#gratefulheart, #throwback, #mentalwellness, #zerowaste"
-  - username: "ari_amaru"
-    fullname: >-
-      Ariana • あり
-    location: "Belgium"
-    followers: 2821
-    engagement: 859
-    commentsToLikes: 0.045405
-    id: ck9ha5dxub8000j78tr889vck
-    verified: false
-    hashtags: "#gothiclolita, #lafore, #livingdoll, #dryad"
-  - username: "les.biscuits.d.eden"
-    fullname: >-
-      𝕃𝕖𝕤 𝔹𝕚𝕤𝕔𝕦𝕚𝕥𝕤 𝕕’𝔼𝕕𝕖𝕟 🍃
-    location: "Belgium"
-    followers: 8741
-    engagement: 492
-    commentsToLikes: 0.070878
-    id: ck5byk6y4pb410i11agrwnvq1
-    verified: false
-    hashtags: "#birthdaycookies, #christening, #sabl, #safaricookies"
-  - username: "celinemaufor"
-    fullname: >-
-      Céline Maufor
-    location: "Belgium"
-    followers: 13162
-    engagement: 885
-    commentsToLikes: 0.179380
-    id: ck14gsa5r6rv10i198hq8u1pl
-    verified: false
-    hashtags: "#concours, #signenature, #liptonbe, #paulhewitt"
-  - username: "nathaliemeskensofficial"
-    fullname: >-
-      Nathalie Meskens
-    location: "Belgium"
-    followers: 213658
-    engagement: 1139
-    commentsToLikes: 0.018728
-    id: ck15q8ikm1ls10i1929c6dm67
-    verified: false
-    hashtags: "#deeplove, #tourneeminerale, #blijmetmijnkot, #floradixijzer"
+    hashtags: ""
   - username: "thisischaris"
     fullname: >-
       CHARIS
+    bio: >-
+      ✖️ On a quest to sustainability ✖️ ♥️ Fashion, Beauty & Travel ✖️ 🐰Crueltyfree ✖️🌱vegan life ✖️📍#Antwerp ✖️🌍 Next:Boedapest ✖️Blog 👇🏻
     location: "Belgium"
-    followers: 2775
-    engagement: 2180
-    commentsToLikes: 0.239135
+    followers: 2976
+    engagement: 1314
+    commentsToLikes: 0.219305
     id: ck8tagk70rnuf0j780zj4pscq
     verified: false
-    hashtags: "#happyeaster, #giftidea, #veganlife, #pinkhouse"
-  - username: "veedici"
+    hashtags: "#newblogpost, #plantbased, #traveldestination, #pinktrotters"
+  - username: "freeoversea"
     fullname: >-
-      𝓥𝓮𝓮𝓻𝓵𝓮 𝓟𝓮𝓮𝓽𝓮𝓻𝓼-
+      céline
+    bio: >-
+      being kind is cool ☽ belgian based in barcelona vegan for the animals ॐ founder of @irisretreat
     location: "Belgium"
-    followers: 18663
-    engagement: 304
-    commentsToLikes: 0.185097
-    id: ck9wdvwh9hi310j78zesjfr29
+    followers: 3340
+    engagement: 539
+    commentsToLikes: 0.044983
+    id: ck13692ep5cji0i19u4ps4dn1
     verified: false
-    hashtags: "#belgiumgirl, #bettertimeswillcome, #tiktokchallenge, #mombodytransformation"
-  - username: "coleenaupresent"
+    hashtags: "#sunset, #yoga, #vegan, #barcelona"
+  - username: "les.biscuits.d.eden"
     fullname: >-
-      COLEEN ♥
+      𝕃𝕖𝕤 𝔹𝕚𝕤𝕔𝕦𝕚𝕥𝕤 𝕕’𝔼𝕕𝕖𝕟 🍃
+    bio: >-
+      ✧ Sablés & sucettes personnalisés ✧ Delivery : Europe ✧ #vegan & #glutenfree sur demande🍃 📧 biscuits.d.eden@gmail.com 📍 Belgium
     location: "Belgium"
-    followers: 9187
-    engagement: 513
-    commentsToLikes: 0.112122
-    id: ckaotohaawsbv0i78eba8dnm6
+    followers: 16987
+    engagement: 333
+    commentsToLikes: 0.059737
+    id: ck5byk6y4pb410i11agrwnvq1
     verified: false
-    hashtags: "#mangerequilibre, #naturopathie, #stayathome, #girlinbath"
-  - username: "pomshine"
+    hashtags: "#royalicingcookies, #lesbiscuitsdeden, #biscuitpersonnalis, #madeinbelgium"
+  - username: "lafilleagateaux"
     fullname: >-
-      Pom
+      Kristel - Travel Blogger
+    bio: >-
+      Travel, lifestyle & food blogger 🌍 Content Creator 💫 Story Teller 💫 Book writer 📍Bxl but wanderlust spirit 🗺 🔜 Italy 👇🏻
     location: "Belgium"
-    followers: 27114
-    engagement: 368
-    commentsToLikes: 0.038326
-    id: ck5zs3x8gxrz90i14v0t1uq4w
+    followers: 33395
+    engagement: 137
+    commentsToLikes: 0.066121
+    id: ck13anyz9rbif0i198idr8gqq
     verified: false
-    hashtags: "#veal, #introvert, #rabbits, #milk"
+    hashtags: "#ootdfashion, #food, #vegan, #foodie"
+  - username: "naturellebynatalia"
+    fullname: >-
+      Naturelle by Natalia
+    bio: >-
+      ♡Recipe developer ♡freelance food stylist ♡ceramics, soaps, props ♡traveller naturellebynatalia.com Belgium
+    location: "Belgium"
+    followers: 10207
+    engagement: 590
+    commentsToLikes: 0.215281
+    id: ck5c0dklqsxlt0i115g2doh5u
+    verified: false
+    hashtags: "#myquietbeauty, #gloobyfood, #veganfood, #firstweeat"
+  - username: "glenn.wrl"
+    fullname: >-
+      Glenn W. R. L. [He/Him]
+    bio: >-
+      “Let kindness be the language of our hearts.” Founder of @animalresistance. Total liberation | 🏳️‍🌈 | Radical empath
+    location: "Belgium"
+    followers: 2533
+    engagement: 771
+    commentsToLikes: 0.041180
+    id: ck0w3ff17t4ou0i19vqcbftvt
+    verified: false
+    hashtags: "#rescueismyfavoritebreed, #easter, #blm, #meatlover"
+  - username: "pinklollypops"
+    fullname: >-
+      Joyce, 𝐌𝐨𝐦𝐦𝐲 𝐨𝐟 𝐋𝐞𝐱 & 𝐉𝐞𝐚𝐧𝐞 🍭
+    bio: >-
+      Puur en eerlijk moederschap, zonder fabeltjes, besprenkeld met een goede dosis roze lekstok humor. 🇧🇪🌱 Plant etende superheld 💌Joyce@pinklollypops.be
+    location: "Belgium"
+    followers: 8769
+    engagement: 1203
+    commentsToLikes: 0.674934
+    id: ck6tuvziniqgs0j71ayu7cg9g
+    verified: false
+    hashtags: "#derozelekstok, #jeanemachine, #mamablogger, #dezekanjewinnen"
 ---

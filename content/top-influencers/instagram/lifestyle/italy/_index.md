@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Italy In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #eyes #classy #instagram.
+  Find top lifestyle Instagram influencers in Italy in 2020. Most popular hashtags: #photography #italia #fashionstyle #sunset.
 platform: Instagram
+hits: 1395
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 1395 Instagram influencers like this in Italy for you to contact.
 profiles:
   - username: "gaiabegnis"
     fullname: >-
       Gaia Begnis
+    bio: >-
+      Family • Lifestyle • Travel 👱🏼‍♀️ Mamma single di 20 anni 🎀 Vittoria, 4 anni 📚 Paleocapa, informatica 📩 Collab: begnis.gaia@gmail.com 📍 Bergamo
     location: "Italy"
-    followers: 24186
-    engagement: 1567
-    commentsToLikes: 0.104119
+    followers: 26639
+    engagement: 1068
+    commentsToLikes: 0.098120
     id: ck0ty02inl0z30i19abgqhd4r
     verified: false
-    hashtags: "#eauthermaleuriage, #stateacasa, #zuegg, #uriagebebe"
-  - username: "pilotasoglu"
+    hashtags: "#scotchtape, #ad, #huawei, #huaweip30pro"
+  - username: "bealinardi"
     fullname: >-
-      Ahmet Asoğlu Official | Cadet
+      Beatrice Linardi ✨
+    bio: >-
+      🤱🏻 Leo’s mommy 📸 Lifestyle & outfits 💌 bealinardi@icloud.com
     location: "Italy"
-    followers: 52000
-    engagement: 1108
-    commentsToLikes: 0.063158
-    id: ck5hh6x0e6oze0i11qh60msgv
+    followers: 34457
+    engagement: 757
+    commentsToLikes: 0.059756
+    id: ck8t3fg9632180j78mf8jh0qo
     verified: false
-    hashtags: "#insta360go"
-  - username: "stefypeaceandlove"
-    fullname: >-
-      Stefania🌷
-    location: "Italy"
-    followers: 120101
-    engagement: 925
-    commentsToLikes: 0.056465
-    id: ck8t4hl996uib0j78buj58lfg
-    verified: false
-    hashtags: "#classystyle, #keepsmiling, #relaxyourmind, #nomakeuplook"
-  - username: "nerinafrancesca"
-    fullname: >-
-      Francesca Nerina 💎
-    location: "Italy"
-    followers: 249928
-    engagement: 710
-    commentsToLikes: 0.037159
-    id: ck8t5753n90v00j78mkte5hhx
-    verified: false
-    hashtags: "#nature, #moon, #cute, #sexy"
+    hashtags: "#pillowchallenge, #reel, #emmamaterasso, #dontworrysleephappy"
   - username: "_sara.grossi_"
     fullname: >-
       Sara Grossi
+    bio: >-
+      SALUTE🍓/FITNESS🍑/LIFESTYLE💫 Seguitemi su TikTok: https://vm.tiktok.com/Gw1hVh/
     location: "Italy"
-    followers: 3326
-    engagement: 2557
-    commentsToLikes: 0.120389
+    followers: 3298
+    engagement: 2316
+    commentsToLikes: 0.116052
     id: ck8tb53ltubc50j782zij5rdn
     verified: false
-    hashtags: "#nature, #verdenatura, #sperlonga, #lovophotography"
-  - username: "giorgiaceci_"
-    fullname: >-
-      Giorgia Ceci 🎠
-    location: "Italy"
-    followers: 29240
-    engagement: 986
-    commentsToLikes: 0.052196
-    id: ck0vwv952vrm40i19udrzeo2o
-    verified: false
-    hashtags: "#momtobe, #homeinspo, #myequait, #acasaconbottegaverde"
-  - username: "jessicaazannoni"
-    fullname: >-
-      J E S S I CA  Z.
-    location: "Italy"
-    followers: 48280
-    engagement: 650
-    commentsToLikes: 0.057283
-    id: ck8wgc1lch2yx0j785styl98l
-    verified: false
-    hashtags: "#elegantoutfit, #photoshoot, #modeling, #inspostyle"
-  - username: "omarspaneshi"
-    fullname: >-
-      𝗠𝗘𝗡'𝗦 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 | 𝗢𝗠𝗔𝗥 🇦🇱🇮🇹
-    location: "Italy"
-    followers: 96174
-    engagement: 631
-    commentsToLikes: 0.075593
-    id: ck14h3ixq8d9v0i19sh0wqibt
-    verified: false
-    hashtags: "#outfitvideo, #hardwork, #floralshirt, #mensfashion"
-  - username: "fabbroguarnieri"
-    fullname: >-
-      𝘽𝙚𝙖𝙧𝙙 • 𝙂𝙧𝙤𝙤𝙢𝙞𝙣𝙜 • 𝙎𝙩𝙮𝙡𝙚
-    location: "Italy"
-    followers: 2895
-    engagement: 2951
-    commentsToLikes: 0.116339
-    id: ckaos23hipt160i78fs4tolh2
-    verified: false
-    hashtags: "#beardseason, #beardporno, #coronabeard, #beardyman"
+    hashtags: "#selfie, #beuty, #girlstyle, #picoftheday"
   - username: "joellenakad"
     fullname: >-
       J o W e L
+    bio: >-
+      Lifestyle | Travel | Nature 🏕️ @the.campers 🥄 @thefluffyspoon "Go where you feel the most alive"
     location: "Italy"
-    followers: 6941
-    engagement: 1491
-    commentsToLikes: 0.107974
+    followers: 9141
+    engagement: 1258
+    commentsToLikes: 0.102498
     id: ck14k5bl3nsv50i19ripyz4d9
     verified: false
-    hashtags: "#ischia, #pillowchallenge, #bcharre, #ootd"
+    hashtags: "#lebanoninstagram, #autumncolors, #beiruting, #livelovebeirut"
+  - username: "remalda"
+    fullname: >-
+      Travel/Fashion/motherhood🇦🇱🇮🇹
+    bio: >-
+      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 Watch my stories 🙏 ✝️=💜 📨livetoinspireblog@gmail.com
+    location: "Italy"
+    followers: 12106
+    engagement: 931
+    commentsToLikes: 0.099789
+    id: ck5zmzotkni710i1426xyuqcp
+    verified: false
+    hashtags: "#momswhotravel, #polignanoamare, #perugia, #pugliabella"
+  - username: "mireastellato"
+    fullname: >-
+      MIREA FLAVIA STELLATO
+    bio: >-
+      ⬇️ ⬆️ ⬇️ POSITIVA💡 COMUNICAZIONE/SPETTACOLO🗞🎭🎬📺 +CENTRIFUGATO DI LIFESTYLE 🥤 www.mireaflaviastellato.it 🖥
+    location: "Italy"
+    followers: 13089
+    engagement: 916
+    commentsToLikes: 0.149972
+    id: ck8t8ky8zkul50j78ddxcqrug
+    verified: false
+    hashtags: "#napoletanoefammenapizza, #vincenzosalemme, #salemme, #shop"
+  - username: "chiara.busetti"
+    fullname: >-
+      Chiara 🦋
+    bio: >-
+      #model #photo #lifestyle Half Italian 🇮🇹 half Belgian 🇧🇪 📍Based in Milan 🇮🇹 @pop_models_milano
+    location: "Italy"
+    followers: 21119
+    engagement: 608
+    commentsToLikes: 0.131955
+    id: ck6uenubys1qq0j71r8otrodg
+    verified: false
+    hashtags: "#model, #chiarabusettimodel, #photography, #fashionaddict"
+  - username: "olimpietta"
+    fullname: >-
+      Maria Elena Di Gregorio
+    bio: >-
+      Milano, Italy🇮🇹 Web Influencer 💄👠 Fashion, travel and beauty✈️ Lifestyle👗👙 🌺BLOG⬇️
+    location: "Italy"
+    followers: 109329
+    engagement: 404
+    commentsToLikes: 0.063216
+    id: ckap355nv1lux0i78wdtutdxp
+    verified: false
+    hashtags: "#apmmonaco, #gifted, #autumnmood, #style"
+  - username: "nerinafrancesca"
+    fullname: >-
+      💎 Francesca Nerina 💎
+    bio: >-
+      HEALTH | FITNESS | LIFESTYLE 💪 Brand Ambassador My only backup @francescanerinaa
+    location: "Italy"
+    followers: 419505
+    engagement: 377
+    commentsToLikes: 0.040970
+    id: ck8t5753n90v00j78mkte5hhx
+    verified: false
+    hashtags: "#sea, #sun, #mirror, #night"
+  - username: "masciadottore"
+    fullname: >-
+      Mascia Dottore
+    bio: >-
+      Blog personale Mom of @asia.fedele italian rythmic gymnast 🌸Fashion 🌸Lifestyle🌸Beauty Italy 🇮🇪 📩Dm/ Mail for collabs dottoremascia@gmail.com
+    location: "Italy"
+    followers: 55258
+    engagement: 407
+    commentsToLikes: 0.290415
+    id: ck5hrvmi1vjyn0i11785b9vp9
+    verified: false
+    hashtags: "#influenceritalia, #collaboration, #pescara, #vaguedamour"
 ---

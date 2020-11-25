@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema TikTok Influencers In Canada In 2020
 description: >-
-  Find top cinema TikTok influencers in Canada in 2020. Most popular hashtags: #keepingbusy #earthday #mycrib #tiktokcovers.
+  Find top cinema TikTok influencers in Canada in 2020. Most popular hashtags: #cinematics #fyp #foryou #canada.
 platform: TikTok
+hits: 95
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 95 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "kiersten.annee"
     fullname: >-
       kiersten :)
+    bio: >-
+      KIERSTEN ANNE ottawa ON- seventeen photography/ cinematography 📸
     location: "Canada"
-    followers: 24698
-    engagement: 2339
-    commentsToLikes: 0.050352
+    followers: 24900
+    engagement: 2284
+    commentsToLikes: 0.053759
     id: ckac5t4ysdm8j0i78jpf2uiu0
     verified: false
-    hashtags: "#travelthrowback, #young, #tesla, #pretty"
+    hashtags: "#iphone, #photomagic, #photograhy, #photo"
   - username: "sebpic_"
     fullname: >-
       sebpic
+    bio: >-
+      Follow my insta👆🏽 Lets explore 🗺 Cinematographer🎥 Munich🇩🇪 - Vancouver🇨🇦
     location: "Canada"
-    followers: 35533
-    engagement: 909
-    commentsToLikes: 0.066296
+    followers: 62800
+    engagement: 1020
+    commentsToLikes: 0.056871
     id: ck94l5h9pxzc10j78qzv2pp5j
     verified: false
-    hashtags: "#castle, #thankyou, #airplane, #zugspitze"
+    hashtags: "#mountains, #hiking, #travel, #morning"
+  - username: "vladasedova"
+    fullname: >-
+      vladasedova
+    bio: >-
+      life as a cinematic experience
+    location: "Canada"
+    followers: 12800
+    engagement: 1060
+    commentsToLikes: 0.027358
+    id: ckcphhec5hiq30j23pyyrgyej
+    verified: false
+    hashtags: "#calgary, #sunset, #fyp, #travelalberta"
   - username: "j.3.p"
     fullname: >-
       James Hall
+    bio: >-
+      Insta: @J3P.CINEMA
     location: "Canada"
-    followers: 40113
-    engagement: 737
-    commentsToLikes: 0.014426
+    followers: 39800
+    engagement: 808
+    commentsToLikes: 0.012523
     id: ck8w37g8x79jv0j78h1a4g8ol
     verified: false
     hashtags: ""
-  - username: "ap_bhinder"
+  - username: "jene_theepan"
     fullname: >-
-      ap bhinder
+      __SimplyJene
+    bio: >-
+      ; Tamil Birthday👶🏻: June 8 Snapchat: Jenesa.J
     location: "Canada"
-    followers: 3847
-    engagement: 582
-    commentsToLikes: 0.030768
-    id: ck8qixm4mazsg0j78qaarw02b
+    followers: 5438
+    engagement: 2503
+    commentsToLikes: 0.073744
+    id: ckcd5pp3z1yfr0j23t9tz9hqc
     verified: false
-    hashtags: "#panmasala, #punjab, #cinematic, #slippers"
+    hashtags: "#tamilmuser, #l4l, #tiktoktamil, #canada"
+  - username: "judah.makes.videos"
+    fullname: >-
+      JM Videos
+    bio: >-
+      🇨🇦 It’s true. I make videos.
+    location: "Canada"
+    followers: 26600
+    engagement: 1929
+    commentsToLikes: 0.052022
+    id: ckc8vkapaihcz0j23rue8dzpc
+    verified: false
+    hashtags: "#foryou, #vfx, #edit, #cinematic"
   - username: "stephenkortzman"
     fullname: >-
       Stephen Kortzman
+    bio: >-
+      🗺 have camera; will travel 🌲 adventure & nature 🇨🇦 Winnipeg, Canada
     location: "Canada"
-    followers: 3344
-    engagement: 1586
-    commentsToLikes: 0.154906
+    followers: 3399
+    engagement: 1794
+    commentsToLikes: 0.234024
     id: ck8f7uve738e50j78xuxikxb5
     verified: false
-    hashtags: "#aftereffects, #filmmaking, #jellyfish, #bealpha"
+    hashtags: "#madeincanada, #photography101, #cinematics, #gottacatchemall"
   - username: "cherry8aby"
     fullname: >-
       paige 💌✨
+    bio: >-
+      #acab #blm canada baby! ✨🌈 paypal.me/cherry8aby
     location: "Canada"
-    followers: 55336
-    engagement: 1918
-    commentsToLikes: 0.016944
+    followers: 54300
+    engagement: 1877
+    commentsToLikes: 0.019830
     id: ck9byp73hn9th0j78pj68xnru
     verified: false
-    hashtags: "#toosieslide, #favoriteartist, #selfcare, #makeitadress"
-  - username: "cmooremovies"
+    hashtags: "#foryoupage, #colorcustomizer, #cinematics, #foryou"
+  - username: "danielkrakan"
     fullname: >-
-      cmooremovies
+      dkphotography
+    bio: >-
+      Photographer IG : @danielkrakan (70k) PRESETS👇🏼
     location: "Canada"
-    followers: 56129
-    engagement: 705
-    commentsToLikes: 0.047347
-    id: ck920jqceehum0j78vwr9h1a6
+    followers: 33400
+    engagement: 838
+    commentsToLikes: 0.056714
+    id: ckcel8dqxuz700j237hu339gl
     verified: false
-    hashtags: "#comedy, #brains, #mycrib, #beach"
-  - username: "kaosanarchi"
+    hashtags: "#wow, #tiktokartist, #creative, #viralvideo"
+  - username: "nickynonis"
     fullname: >-
-      randomactsof
+      Nicky Nonis
+    bio: >-
+      Photographer 📸 INSTA @nicky_nonis 📍 Vancouver Island 🍁 🇨🇦
     location: "Canada"
-    followers: 684133
-    engagement: 1504
-    commentsToLikes: 0.012208
-    id: ck8vy3x3xt5ii0j78g7yugfa7
+    followers: 2356
+    engagement: 625
+    commentsToLikes: 0.038546
+    id: ckcprllnulgtx0j231v5luom5
     verified: false
-    hashtags: "#morph, #joker, #givemeasign, #bigair"
-  - username: "joshticsay"
-    fullname: >-
-      joshua ticsay
-    location: "Canada"
-    followers: 39279
-    engagement: 2354
-    commentsToLikes: 0.012463
-    id: ck9byopyln7ev0j78tpb26qqm
-    verified: false
-    hashtags: "#positivevibes, #musicvideo, #itwentlike, #baby"
-  - username: "taylorgareau"
-    fullname: >-
-      Taylor
-    location: "Canada"
-    followers: 7228
-    engagement: 1048
-    commentsToLikes: 0.023139
-    id: ck8tprik7ql3p0j78un6zaoyo
-    verified: false
-    hashtags: "#party, #nhlallstar, #gonnabefriends, #shecandoit"
+    hashtags: "#foryou, #cinematics, #sony, #videography"
 ---

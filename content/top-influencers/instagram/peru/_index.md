@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Peru In 2020
 description: >-
-  Find top Instagram influencers in Peru in 2020. Most popular hashtags: #tulummexico #italia # #yomequedoencasa.
+  Find top Instagram influencers in Peru in 2020. Most popular hashtags: #latina #peru #publicidad.
 platform: Instagram
+hits: 1184
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1184 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "elmelling"
+  - username: "angachinita"
     fullname: >-
-      Emma Melling | Travel
+      🌈💜Anga Ng🌸🦄
+    bio: >-
+      👉🏻Mi tienda @chaii.pe 🎋💚 God 💕✨ 📩 angangvlogger@gmail.com ✨ 📍🇵🇪 Perú 👉🏻 YouTube 💖
     location: "Peru"
-    followers: 5381
-    engagement: 2173
-    commentsToLikes: 0.172946
-    id: ck5ztevmf09w70i14vq4lap6o
+    followers: 100189
+    engagement: 1444
+    commentsToLikes: 0.076422
+    id: ck5bxsrv6ocp30i116mlbjm8z
     verified: false
-    hashtags: "#travelspain, #salento, #sunsetoftheday, #under10k"
+    hashtags: "#aesthetic, #kuromi, #minisoperu, #quedateencasa"
+  - username: "luudelaguila"
+    fullname: >-
+      Lu Del Aguila
+    bio: >-
+      
+    location: "Peru"
+    followers: 169805
+    engagement: 1266
+    commentsToLikes: 0.071452
+    id: ck5c5y4jy4d3x0i118px882rl
+    verified: false
+    hashtags: "#publicidad, #callitspring, #callitvegan, #merinonoesmipresidente"
   - username: "claudialorena_"
     fullname: >-
-      ＣＬＡＵＤＩＡ ＬＯＲＥＮＡ
+      ℂ𝕝𝕒𝕦𝕕𝕚𝕒 𝕃𝕠𝕣𝕖𝕟𝕒 ℂ𝕒𝕣𝕣𝕚𝕝𝕝𝕠 🦋
+    bio: >-
+      📍PER🇵🇪 𝐶𝑜𝑚𝑢𝑛𝑖𝑐𝑎𝑑𝑜𝑟𝑎 ✨𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚𝑒𝑟 ✨ 𝐴𝑒𝑠𝑡𝑒𝑡ℎ𝑖𝑐 𝑖𝑛𝑠𝑝𝑖𝑟𝑒 * @baddiefacts_ Colabs al DM 📈
     location: "Peru"
-    followers: 35607
-    engagement: 1215
-    commentsToLikes: 0.158160
+    followers: 91564
+    engagement: 1166
+    commentsToLikes: 0.068562
     id: ck8t5fz9qa1nt0j78h33lb9z1
     verified: false
-    hashtags: "#quemadordegrasa, #publicidad"
-  - username: "sabbmontes"
+    hashtags: ""
+  - username: "criesinquechua"
     fullname: >-
-      ♡SABB♡✖️ 🐇𝕭𝖚𝖓𝖓𝖞🐇
+      w(end)y – 💐
+    bio: >-
+      ~ Perú 🇵🇪 Full time idiota, part time youtuber 🤓 ✨take some time to take care of yourself like cats do!
     location: "Peru"
-    followers: 27371
-    engagement: 986
-    commentsToLikes: 0.264781
-    id: ck6u60nl7cv3h0j71wrauk9lh
+    followers: 132802
+    engagement: 2201
+    commentsToLikes: 0.042912
+    id: ck5zxi1ic81q60i14d2bh8ykn
     verified: false
-    hashtags: "#rankinghei"
-  - username: "fercho_me"
+    hashtags: "#congresoverguenzanacional, #artappreciation, #sheingals, #sheinofficial"
+  - username: "veggienazi"
     fullname: >-
-      Fernando Mendoza
+      NAZARENA GARCÍA-RADA
+    bio: >-
+      • Real food has mud not blood •   Me dicen Nazi por Nazarena 🌼 Vegan | Sportaholic
     location: "Peru"
-    followers: 236747
-    engagement: 2728
-    commentsToLikes: 0.031825
-    id: ck9wg96s2sdr30j78bpw6ooq7
+    followers: 43894
+    engagement: 1856
+    commentsToLikes: 0.097723
+    id: ck6u7eyral4910j71g3r37h1k
+    verified: false
+    hashtags: "#chok"
+  - username: "leonardoegaray"
+    fullname: >-
+      Leonardo Garay
+    bio: >-
+      Lima📍 Tienda virtual: @garlopstore.pe Colaboraciones/DM👇🏻🇵🇪 Tiktok: +130k
+    location: "Peru"
+    followers: 15229
+    engagement: 1834
+    commentsToLikes: 0.105157
+    id: ck6u7evh5l3nw0j715ohii21m
     verified: false
     hashtags: ""
-  - username: "saravcardenasa"
+  - username: "margotvaldez"
     fullname: >-
-      Sara Victoria 🦋
+      🤍 𝕸𝖆𝖗𝖌𝖔𝖙 𝖁𝖆𝖑𝖉𝖊𝖟 🤍
+    bio: >-
+      YouTube ✨ Tiktok ✨ Lifestyle Tiktok: margocitavaldez (+86k) Cod Rappi: margotvaldez 🛵 STORE: @margotvaldez.store ⬇️ Donde compró mis ZAPATILLAS
     location: "Peru"
-    followers: 5768
-    engagement: 1621
-    commentsToLikes: 0.077514
-    id: ck139ekh3kxfr0i1968gtpjlz
+    followers: 57569
+    engagement: 645
+    commentsToLikes: 0.156104
+    id: ck5bxst6yocqq0i117t7ri0l8
     verified: false
-    hashtags: "#couchsurfing, #yomequedoencasa, #chorrillos, #rutadelsillar"
-  - username: "camposlolita"
+    hashtags: "#urbanstyle, #ootd, #converse, #mood"
+  - username: "lolii_ta3"
     fullname: >-
-      L O L I T À
+      ✨𝒮𝒶𝒹𝐿𝑜𝓁𝒾𝓉𝒶🍓
+    bio: >-
+      🐦Twitter: Lolii_ta3 🤪Finsta: @aguacateokk 🤪 🇵🇪Perú
     location: "Peru"
-    followers: 37976
-    engagement: 909
-    commentsToLikes: 0.049335
-    id: ck6uh20eu6izx0j710ntrkyoe
+    followers: 34598
+    engagement: 633
+    commentsToLikes: 0.189006
+    id: ck6u7expjl4360j714qxwo4fl
     verified: false
-    hashtags: "#bylolita, #bylolit, #peritosdeunafuga, #28rulemanes"
-  - username: "livewithoutshoes"
+    hashtags: "#teamjuki, #donato, #jdpantoja, #jukilop"
+  - username: "iambrigittecenteno"
     fullname: >-
-      Deborah&Ceghez | Travel Couple
+      Brigitte Gianella
+    bio: >-
+      👑-BRIGITTE CENTENO SALAS-👑 El Cielo es el límite♥️ IMAGEN DE @nuurcolagenoperu 🇵🇪 PERUANA 💄 ANFITRIONA-MODELO 👷🏻‍♀ ING. CIVIL 💌 CONTRATOS AL DM
     location: "Peru"
-    followers: 24071
-    engagement: 826
-    commentsToLikes: 0.086820
-    id: ck5zw154g5a2d0i14j1br6hmn
+    followers: 13095
+    engagement: 1649
+    commentsToLikes: 0.066397
+    id: ckaoyen1kh72p0i78t0p2c2au
     verified: false
-    hashtags: "#thatothersmaylive"
-  - username: "natytarmezzano"
+    hashtags: "#modelosperuanas, #beautifuldays, #latinaspower, #curlyhair"
+  - username: "tatianadiaz.29"
     fullname: >-
-      NATY TARMEZZANO⚡️
+      Tatiana Díaz
+    bio: >-
+      Tatiana Diaz 💎👩‍⚕️👩‍⚕️ TikTok @tatianadiaz.29
     location: "Peru"
-    followers: 173558
-    engagement: 632
-    commentsToLikes: 0.203619
-    id: ck15pvoc3zv4y0i19jk520mo3
+    followers: 29625
+    engagement: 1289
+    commentsToLikes: 0.054635
+    id: ck13azijgsy9r0i19la6qx3la
     verified: false
-    hashtags: "#songs, #omgvoices, #fuck, #mirrorselfie"
-  - username: "matt.ruiiz"
-    fullname: >-
-      Matias Ruiz
-    location: "Peru"
-    followers: 6466
-    engagement: 1293
-    commentsToLikes: 0.106762
-    id: ck139lijelwwu0i19d5l8agyy
-    verified: false
-    hashtags: ""
-  - username: "medicentatssss"
-    fullname: >-
-      Tatiana Ciprian❣️
-    location: "Peru"
-    followers: 16336
-    engagement: 2504
-    commentsToLikes: 0.053585
-    id: ck8wexam4erca0j780k8t9pn1
-    verified: false
-    hashtags: "#huaylarsh, #yomequedoencasa, #cuarentenacoronavirus, #marinera"
+    hashtags: "#paisajes, #abrigos, #viajaresvivir, #cuarentena"
 ---

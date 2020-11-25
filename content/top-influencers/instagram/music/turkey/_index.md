@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Turkey In 2020
 description: >-
-  Find top music Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #summer #love #halloween.
+  Find top music Instagram influencers in Turkey in 2020. Most popular hashtags: #saz #youtube #summervibes.
 platform: Instagram
+hits: 787
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 787 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "massakaofficial"
-    fullname: >-
-      MASSAKA
-    location: "Turkey"
-    followers: 416073
-    engagement: 1223
-    commentsToLikes: 0.044553
-    id: ck6ubr9hmb8n90j717bfrmf6t
-    verified: true
-    hashtags: "#eskiyadunyayahukumdarolmaz, #7g, #amerika, #tarz"
-  - username: "osmanyildizofficial"
-    fullname: >-
-      Osman Yildiz
-    location: "Turkey"
-    followers: 69438
-    engagement: 239
-    commentsToLikes: 0.075175
-    id: ck5znvl9ip8ai0i14bj6k1v41
-    verified: false
-    hashtags: "#todayimwearing, #beautiful, #ootd, #style"
   - username: "atliemree"
     fullname: >-
       Emre Atlı
+    bio: >-
+      Music Management : @ilkayakcakoca Basın & Radyo PR : @habilceyhan_ İnfo : İlkay@novalunaevent.com 🔥Yakıyorlar YAYINDA👇
     location: "Turkey"
-    followers: 34567
-    engagement: 891
-    commentsToLikes: 0.017776
+    followers: 36987
+    engagement: 1423
+    commentsToLikes: 0.045356
     id: ck14hxki2cn3w0i19p6uyac0o
     verified: false
-    hashtags: "#yak, #halloween"
-  - username: "deryaulugg"
+    hashtags: "#halloween"
+  - username: "alishahgholi_music"
     fullname: >-
-      Derya ULUĞ
+      👑ALi Shahgholi👑 🇮🇷🧿
+    bio: >-
+      Musician_percussionist...
     location: "Turkey"
-    followers: 779831
-    engagement: 388
-    commentsToLikes: 0.012114
-    id: ck14hxl49cn6e0i198rb5w9y5
-    verified: true
-    hashtags: "#mervekenanwedding, #10toqueschallenge, #quarantinedays, #nofilter"
+    followers: 14373
+    engagement: 957
+    commentsToLikes: 0.068172
+    id: ck5ck8hbswctv0i11zoubfr74
+    verified: false
+    hashtags: "#artist, #arabic, #solo, #bango"
+  - username: "beeguum"
+    fullname: >-
+      begüm
+    bio: >-
+      Beykent University Fashion and Textile Designer, Music Planner & @tolgayofficial ‘s staff . @denizlidjperkusyon @maskelibandoo
+    location: "Turkey"
+    followers: 10859
+    engagement: 985
+    commentsToLikes: 0.032302
+    id: ck601kkqwfnu00i14k2pvzayy
+    verified: false
+    hashtags: "#baby, #tbt, #deniz, #boy"
   - username: "chrischavezyoga"
     fullname: >-
       Chris Chavez
+    bio: >-
+      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth Master Practice Intensive Dec 4-6👇
     location: "Turkey"
-    followers: 18973
-    engagement: 374
-    commentsToLikes: 0.038567
+    followers: 19702
+    engagement: 420
+    commentsToLikes: 0.048317
     id: ck14hs24fbucv0i1936c7z32v
     verified: false
-    hashtags: "#trust, #positivevibes, #onearmhandstand, #yogapose"
-  - username: "handesubasicom"
+    hashtags: "#homepractice, #liveyourtruth, #yoga, #love"
+  - username: "berkcan"
     fullname: >-
-      Hande Subaşı
+      💠begefendi💠
+    bio: >-
+      founder of @lnc.music @lincsquad486 HARMAN YAYINDA!!
     location: "Turkey"
-    followers: 167843
-    engagement: 368
-    commentsToLikes: 0.013667
-    id: ck5hsjvhzwpq70i111ix7etml
+    followers: 2981095
+    engagement: 1489
+    commentsToLikes: 0.010653
+    id: ck0u1almswbec0i1984548vtc
     verified: true
-    hashtags: "#kuzen, #kaan, #londra, #evdekal"
+    hashtags: "#wintericons, #24, #qarantinebirthday, #begefend"
+  - username: "kolerap"
+    fullname: >-
+      ...Kolo...
+    bio: >-
+      www.elessarmuzik.com 💎 Ｄağ Gibi (Music Video) 🌋 OUT NOW!🔥🔥🔥
+    location: "Turkey"
+    followers: 123744
+    engagement: 408
+    commentsToLikes: 0.037084
+    id: ckap0mzx1r0kr0i7884zc8lhy
+    verified: true
+    hashtags: "#dilemmaep, #umudunukaybetme, #youtube, #kolera"
   - username: "djkbilly"
     fullname: >-
       Onur Kaymak
+    bio: >-
+      ▪️DJ, Music Producer & Radio Personality of Power Group ▪️‘’Ederlezi’’ OUT NOW⬇️
     location: "Turkey"
-    followers: 10986
-    engagement: 538
-    commentsToLikes: 0.060334
+    followers: 10799
+    engagement: 493
+    commentsToLikes: 0.064089
     id: ck5zsqxhtz11u0i144vv6dn1z
     verified: false
-    hashtags: "#summer, #summer19, #weekendvibes, #stayhome"
-  - username: "kozmos.35"
+    hashtags: "#ederlezi, #summervibes, #djkbilly, #djlife"
+  - username: "therealbaneva"
     fullname: >-
-      K 0 Z M 0 S
+      Baneva
+    bio: >-
+      Management: @ulas_demiroz Hiçbiri (Official Music Video) ÇIKTI!
     location: "Turkey"
-    followers: 10595
-    engagement: 939
-    commentsToLikes: 0.018788
-    id: ck5hsn6xiwv950i11c2kbnt6m
+    followers: 74884
+    engagement: 1994
+    commentsToLikes: 0.013371
+    id: ck15rzkj3aho00i199j4thmbi
     verified: false
-    hashtags: "#heykozinthegame"
+    hashtags: ""
+  - username: "serhanilbeyi"
+    fullname: >-
+      Serhan İlbeyi
+    bio: >-
+      Musician ❤️ Band: Serhan ilbeyi ve ekibi 🎹🎤🎸 Facebook & Youtube: Serhan ilbeyi Organizeler için 📞 0031 6 41 84 44 13 www.serhan-ilbeyi.com
+    location: "Turkey"
+    followers: 27609
+    engagement: 672
+    commentsToLikes: 0.030363
+    id: ck6u9i819xpqx0j71fh0yuwxi
+    verified: false
+    hashtags: "#serhanilbeyi, #potpori, #clipshoot, #baglama"
   - username: "deliseyyahra"
     fullname: >-
       Rıza 🇹🇷
+    bio: >-
+      Musician Founder: @deliseyyahhdr All the photos and videos on this page are mine. VIP: 4 Ⓜ️ 9 My YouTube Channel 👇👇👇
     location: "Turkey"
-    followers: 2681
-    engagement: 2729
-    commentsToLikes: 0.254169
+    followers: 2623
+    engagement: 2817
+    commentsToLikes: 0.251897
     id: ck5q498xno8z20i11uhgefqrs
     verified: false
-    hashtags: ""
-  - username: "karadumanmusic"
-    fullname: >-
-      Emrah Karaduman
-    location: "Turkey"
-    followers: 210721
-    engagement: 638
-    commentsToLikes: 0.083501
-    id: ck5hpm0mlrkx00i11l2pqf0ix
-    verified: true
-    hashtags: "#eastvillage, #ben, #bombarduman, #dmc"
+    hashtags: "#great, #worldwide, #fx, #tudo"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Miami In 2020
 description: >-
-  Find top fashion TikTok influencers in Miami in 2020. Most popular hashtags: #fashion #miami #florida #covid19.
+  Find top fashion TikTok influencers in Miami in 2020. Most popular hashtags: #miami #fashion #makeup #fyp.
 platform: TikTok
+hits: 91
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 91 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "alissiasaquer"
+  - username: "victoriagkremer"
     fullname: >-
-      Alissia Saquer
+      victoriagkremer
+    bio: >-
+      Believer of Christ 🤍 victoriagabriella.com 🤍 IG: @victoriagkremer
     location: "United States"
-    followers: 40373
-    engagement: 1364
-    commentsToLikes: 0.057305
-    id: ck8nfrv9it7ln0j78jlbvuknx
+    followers: 2098
+    engagement: 397
+    commentsToLikes: 0.050391
+    id: ckdhomie40zxd0j23npz4uixt
     verified: false
-    hashtags: "#masks, #treanding, #eatemup, #johnb"
-  - username: "forbecks"
+    hashtags: "#mood, #pumpkinspice, #ootd, #miamiblogger"
+  - username: "esdayrabby"
     fullname: >-
-      forBecks
+      DAYRA
+    bio: >-
+      FASHUN IG - @es.dayra IG brand - @dayra.studio
     location: "United States"
-    followers: 14759
-    engagement: 1168
-    commentsToLikes: 0.016924
-    id: ck9dv3u4rj5tz0j78ig8pc3om
+    followers: 2620
+    engagement: 377
+    commentsToLikes: 0.019556
+    id: ckcpa5bkden4o0j23f7u3nsgs
     verified: false
-    hashtags: "#earthday, #happyeaster, #fashion, #shecandoit"
-  - username: "lizbeautystyle"
+    hashtags: "#mexico, #fyp, #xyzbca, #foryou"
+  - username: "cozyrosati"
     fullname: >-
-      Lizbeautystyle🧿
+      Cosette Rosati
+    bio: >-
+      True Life: I’m an influencer Model BTS | Health & Wellness | Avid Thrifter
     location: "United States"
-    followers: 6036
-    engagement: 450
-    commentsToLikes: 0.024147
-    id: ck9go0zpvz4y00j78z51xgh2d
+    followers: 88500
+    engagement: 460
+    commentsToLikes: 0.029975
+    id: ckacfmt0yrjis0i787jm6lk9x
     verified: false
-    hashtags: "#style, #noproblem, #queheavy, #video"
-  - username: "www.hotmiamistyles.com"
-    fullname: >-
-      HotMiamiStyles
-    location: "United States"
-    followers: 88613
-    engagement: 1033
-    commentsToLikes: 0.011268
-    id: ckan0m4d5r9mg0i78l2lx7zjt
-    verified: false
-    hashtags: "#got2bhome, #natureathome, #leavingmybody, #killyourvibe"
-  - username: "justralfyy"
-    fullname: >-
-      D.Vice
-    location: "United States"
-    followers: 29109
-    engagement: 482
-    commentsToLikes: 0.020785
-    id: cka0wpa0t3r300i78uh441dea
-    verified: false
-    hashtags: "#singing, #relationship, #blonde, #mood"
-  - username: "flip4realz"
-    fullname: >-
-      Ryan Chua
-    location: "United States"
-    followers: 225671
-    engagement: 617
-    commentsToLikes: 0.015405
-    id: ck9rgy1d1czg80j78ch1zsp0l
-    verified: false
-    hashtags: "#milktea, #hack, #malibu, #squats"
-  - username: "celinefarach"
-    fullname: >-
-      CelineFarach
-    location: "United States"
-    followers: 105328
-    engagement: 406
-    commentsToLikes: 0.031039
-    id: ck8w4fmr68em10j78t4zlyfmv
-    verified: true
-    hashtags: "#crazy, #crazyman, #celine, #sushichallenge"
+    hashtags: "#vegan, #bts, #model, #foodie"
   - username: "ericasgirlyworld"
     fullname: >-
       Ericasgirlyworld
+    bio: >-
+      Luxury Fashion Youtuber ❤️ Fashion with sass Orlando/Miami 🌴 Chemical Engineer
     location: "United States"
-    followers: 183270
-    engagement: 646
-    commentsToLikes: 0.018370
+    followers: 312100
+    engagement: 922
+    commentsToLikes: 0.011960
     id: ck8z48bf5cr0y0j7815enb04c
     verified: false
-    hashtags: "#fragrance, #coffee, #outfit, #stylehack"
-  - username: "michaelanakash94"
+    hashtags: "#tiktokfashion, #shopping, #fashion, #hermes"
+  - username: "angielandaburu"
     fullname: >-
-      Michaela Nakash
+      Angie Landaburu
+    bio: >-
+      Angie Landaburu | IG @angelitalc @elitemodelworld @lomanagment
     location: "United States"
-    followers: 8302
-    engagement: 629
-    commentsToLikes: 0.092617
-    id: ck8tn7tdghylh0j78p6jvmnvs
+    followers: 43500
+    engagement: 85
+    commentsToLikes: 0.025450
+    id: ckb9ookyfj9co0j23nuhnicl9
     verified: false
-    hashtags: "#wallart, #shoes, #lakewood, #family"
-  - username: "danidiamondphotography"
+    hashtags: "#argentina, #viral, #espa, #fashiontips"
+  - username: "mizzblossom"
     fullname: >-
-      Dani Diamond
+      👑 Mizz Blossom 🤍
+    bio: >-
+      Bethsaïda ♑️ ~ Multipotentialite 👸🏾 ~ #BLOOMERZGANG 🥀
     location: "United States"
-    followers: 293758
-    engagement: 1496
-    commentsToLikes: 0.010297
-    id: ck8j6d7t5997x0j78qx48k3yb
+    followers: 83000
+    engagement: 1471
+    commentsToLikes: 0.024245
+    id: ck8f8nz663jba0j78jz0gqvbe
     verified: false
-    hashtags: "#lazy, #editing, #foryoupage, #greenwich"
+    hashtags: "#doitbold, #dialitforward, #fyp, #lmao"
+  - username: "shopnessaxvs"
+    fullname: >-
+      NESSA
+    bio: >-
+      Latina-Owned Boutique✨ Use code TIKTOK for 10% OFF
+    location: "United States"
+    followers: 13500
+    engagement: 620
+    commentsToLikes: 0.021812
+    id: ckcp0s5n4axj20j23hyxaecqm
+    verified: false
+    hashtags: "#style, #smallbizowner, #smallbiztips, #smallbusiness"
+  - username: "mirandagracemassey"
+    fullname: >-
+      mirandagracemassey
+    bio: >-
+      this ginger snapped actress🍒19 IG: @mirandagracemassey LA
+    location: "United States"
+    followers: 29300
+    engagement: 1491
+    commentsToLikes: 0.037314
+    id: ckb9dgeb20pxa0j23lm9mkxoa
+    verified: false
+    hashtags: "#cosplay, #harrypotter, #fyp, #makeup"
+  - username: "laurapalaciosphoto"
+    fullname: >-
+      Laura Palacios | Photographer
+    bio: >-
+      ✨Follow on Insta↑ Photographing stories Florida Based. Will Travel Romans 10:9
+    location: "United States"
+    followers: 90200
+    engagement: 1410
+    commentsToLikes: 0.012504
+    id: ckc2ze7qzqcjl0j23zhxyr1y0
+    verified: false
+    hashtags: "#littlevoice, #beverlyhills, #anniversaryphotoshoot, #greenscreen"
+  - username: "leeeethebumblebee"
+    fullname: >-
+      Lee
+    bio: >-
+      ✨🧿🦋 Florida/Israel 🦋🧿✨
+    location: "United States"
+    followers: 5387
+    engagement: 736
+    commentsToLikes: 0.039939
+    id: ck8z4lutreap10j78rj9jip63
+    verified: false
+    hashtags: "#fyp, #minions, #cityofdreams, #aliciakeys"
 ---

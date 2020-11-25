@@ -1,107 +1,130 @@
 ---
 title: Top 10 Journalists TikTok Influencers In 2020
 description: >-
-  Find top journalists TikTok influencers in 2020. Most popular hashtags: #coronavirus #love #foryoupage #disney.
+  Find top journalists TikTok influencers in 2020. Most popular hashtags: #biden #nepali #duet.
 platform: TikTok
+hits: 117
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 117 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "pallavijaiswal28"
     fullname: >-
       Pallavi Jaiswal
+    bio: >-
+      Journalist 
     location: "India"
-    followers: 298272
-    engagement: 484
-    commentsToLikes: 0.014490
+    followers: 302100
+    engagement: 560
+    commentsToLikes: 0.015251
     id: ck9c7wn61sdhl0j78otjq8d0v
     verified: false
-    hashtags: "#maa, #sasural, #tiktok, #lavukhush"
-  - username: "gaga_gaga_"
+    hashtags: "#funnyvideos, #nanilove, #china, #tomandjerry"
+  - username: "ahmadelhajj007"
     fullname: >-
-      okokamere💥
-    location: "Serbia"
-    followers: 2173
-    engagement: 477
-    commentsToLikes: 0.009831
-    id: cka6eep8kbhjx0i78a2aqj78h
+      Ahmad El Hajj
+    bio: >-
+      Journalist
+    location: "Lebanon"
+    followers: 25800
+    engagement: 573
+    commentsToLikes: 0.040537
+    id: ckdncnl5lgo7h0j23boaemqkk
     verified: false
-    hashtags: "#time, #tvhost, #pig, #sanset"
+    hashtags: "#earth, #sky, #funny, #ksa"
+  - username: "nikothec"
+    fullname: >-
+      🅝🅘🅚🅞
+    bio: >-
+      ⭐️ CEO of Tiktok NEWS ⭐️ Journalist & Lehrer aus Berlin . 📧 niko@btstrm.com
+    location: "Germany"
+    followers: 784600
+    engagement: 2005
+    commentsToLikes: 0.034660
+    id: ck9bx5lcimcxk0j780c982j40
+    verified: true
+    hashtags: "#tiktokschule, #schule, #news, #tiktoknews"
   - username: "alejandrademg"
     fullname: >-
       ale_worldfantasy 
+    bio: >-
+      creative person 23 lv Spain Cosplay and journalist 9.000 please ?
     location: "Spain"
-    followers: 6136
-    engagement: 1974
-    commentsToLikes: 0.068741
+    followers: 8512
+    engagement: 1984
+    commentsToLikes: 0.059537
     id: cka6maaqw6gal0i78d104i08x
     verified: false
-    hashtags: "#seguidores, #akiracosplay, #regalo, #teammortifago"
+    hashtags: "#raquellapin, #colegioispanya, #ispanyacm, #musicaespa"
+  - username: "jonathangio"
+    fullname: >-
+      Jonathan Gio 
+    bio: >-
+      social media personality and journalist in los angeles all socials: jonathangioo
+    location: "United States"
+    followers: 233400
+    engagement: 1600
+    commentsToLikes: 0.083786
+    id: ck933w0crpy8y0j789zq9dvey
+    verified: false
+    hashtags: "#foryoupage, #foryou, #tiktok, #girls"
+  - username: "lisaremillard"
+    fullname: >-
+      📺The News Girl 📰
+    bio: >-
+      🎙 TV Journalist for 20 years 📺 Host #CarlosandLisa 👩🏼‍💻 Co-Founder @BeondTV
+    location: "United States"
+    followers: 613600
+    engagement: 1600
+    commentsToLikes: 0.030985
+    id: ckb9kzuucdbhk0j239h8uapqy
+    verified: true
+    hashtags: "#amyconeybarrett, #stimulus, #election2020, #scotus"
+  - username: "bhagyaneupane1"
+    fullname: >-
+      Bhagya Neupane
+    bio: >-
+      Journalist, Youtubers, Social Wokers
+    location: "Nepal"
+    followers: 386500
+    engagement: 1837
+    commentsToLikes: 0.018191
+    id: ckbbpygxzds0u0j23mduo1oap
+    verified: false
+    hashtags: "#bhagyaneupanehelp, #help, #tattatokhabar, #bhagyaneupane"
   - username: "lokjung"
     fullname: >-
       lokjung official👑👑
+    bio: >-
+      जमाना लातको छ, म फुल हातमा लिएर के गरुँ 💔 journalist,social worker
     location: "Nepal"
-    followers: 3538
-    engagement: 4188
-    commentsToLikes: 0.081705
+    followers: 4502
+    engagement: 3144
+    commentsToLikes: 0.050008
     id: ckafukmfxavr20i78cbdgwrfa
     verified: false
-    hashtags: "#solomochallenge, #sistergoals, #withmyownvoice, #nepalisong"
-  - username: "_gurpreetwalia"
+    hashtags: "#keepsuporting, #withrapkeepsupportinggyes, #surkhet, #heartbroken"
+  - username: "eelsii"
     fullname: >-
-      Gurpreet Garry Walia
-    location: "India"
-    followers: 13166
-    engagement: 2016
-    commentsToLikes: 0.102273
-    id: ck9m52w4zkt0u0j78z4utxvul
-    verified: true
-    hashtags: "#magic, #cutekid, #biwi, #news"
-  - username: "danqdao"
-    fullname: >-
-      ✧ 𝓭𝓪𝓷𝓺𝓭𝓪𝓸 ✧
-    location: "United States"
-    followers: 2348
-    engagement: 988
-    commentsToLikes: 0.095269
-    id: ck9r4q3j5w8ma0j78fzy6nllo
+      EeLsi👑🖤
+    bio: >-
+      FB-ელი სო❤️ Journalist 🎤💥 Goal:♾
+    location: "Georgia"
+    followers: 215100
+    engagement: 968
+    commentsToLikes: 0.047028
+    id: ckck2vn34mhvn0j23nc3uc039
     verified: false
-    hashtags: "#interiordesign, #g6challenge, #lifeathome, #maxandruby"
-  - username: "artist_aashish"
+    hashtags: "#blooper, #duet"
+  - username: "sonikaaryal1"
     fullname: >-
-      Aashish Adhikari
+      Sonika Aryal
+    bio: >-
+      Journalist by profession TikTok is for fun :)
     location: "Nepal"
-    followers: 6787
-    engagement: 2002
-    commentsToLikes: 0.036990
-    id: ckae0e12fj0ja0i78eefvf90l
+    followers: 10300
+    engagement: 1439
+    commentsToLikes: 0.041341
+    id: ckcei8cm4qd3n0j23j1ltre0c
     verified: false
-    hashtags: "#part4, #backofindia, #foryoupage, #kati"
-  - username: "thejanellemarie"
-    fullname: >-
-      Janelle Marie
-    location: "United States"
-    followers: 33776
-    engagement: 1033
-    commentsToLikes: 0.044152
-    id: ck8nlh2bcjt1m0j78z0bpopf8
-    verified: true
-    hashtags: "#xwing, #mentalhealth, #snackbreak, #enews"
-  - username: "sophiasmithgaler"
-    fullname: >-
-      Sophia Smith Galer
-    location: "United Kingdom"
-    followers: 82337
-    engagement: 1203
-    commentsToLikes: 0.035968
-    id: ck8za721n0mon0j788ik3drlz
-    verified: false
-    hashtags: "#inothernews, #gardening, #languages, #youalreadyknow"
-  - username: "jameelhassan32"
-    fullname: >-
-      Jameel Hassan
-    location: "Pakistan"
-    followers: 62454
-    engagement: 837
-    commentsToLikes: 0.027187
-    id: ck9dye9jrwwcw0j78k9fmgkng
-    verified: false
-    hashtags: "#worldtour, #coronavirus, #peshawarzalmi, #tiktokpakistan"
+    hashtags: "#nature, #duet, #hike, #himalayatv"
 ---

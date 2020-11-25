@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers TikTok Influencers In Canada In 2020
 description: >-
-  Find top bakers TikTok influencers in Canada in 2020. Most popular hashtags: #baker #food #happyathome #boredathome.
+  Find top bakers TikTok influencers in Canada in 2020. Most popular hashtags: #cake #baker #fyp #foryou.
 platform: TikTok
+hits: 91
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 91 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "letterpressbakery"
     fullname: >-
       Kylie Mangles
+    bio: >-
+      Baker - Designer - Creator Insta @letterpressbakery
     location: "Canada"
-    followers: 105541
-    engagement: 2296
-    commentsToLikes: 0.005082
+    followers: 102400
+    engagement: 2261
+    commentsToLikes: 0.004725
     id: ckactzn5ogk3g0i78e5aj34k9
     verified: false
-    hashtags: "#valentinesday, #couch, #disney, #eleven"
+    hashtags: "#modelling, #cakevideo, #tiktokbakeoff, #artclub"
   - username: "thelovelybaker43"
     fullname: >-
       thelovelybaker43
+    bio: >-
+       Cake YouTuber and professional cat holder. Free tutorials @ The Lovely Baker 
     location: "Canada"
-    followers: 19773
-    engagement: 1166
-    commentsToLikes: 0.010577
+    followers: 19700
+    engagement: 1378
+    commentsToLikes: 0.016717
     id: ck83zpstg1xq60j78l4mbityw
     verified: false
-    hashtags: "#dinosaurs, #unikitty, #lego, #babyyoda"
+    hashtags: "#food, #artober, #buttercream, #ilovemyjob"
+  - username: "wildflourfields"
+    fullname: >-
+      Courtney 🌸
+    bio: >-
+      Cookies, cakes and mental health tips! Therapist by day, baker at night.
+    location: "Canada"
+    followers: 41800
+    engagement: 512
+    commentsToLikes: 0.010924
+    id: ckb9b5n24x0a80j23upk0qv1s
+    verified: false
+    hashtags: "#learnfromme, #cakedecorating, #bakingrecipe, #bakersoftiktok"
   - username: "sweetafternoon"
     fullname: >-
       Karen Nguyen
+    bio: >-
+      I bake sweet treats & cakes 🍰 IG: @sweetafternoon
     location: "Canada"
-    followers: 21395
-    engagement: 910
-    commentsToLikes: 0.012182
+    followers: 74800
+    engagement: 869
+    commentsToLikes: 0.014082
     id: ck8uflh9l26ux0j788bak4nn2
     verified: false
-    hashtags: "#cakevideo, #cupcake, #smallbusiness, #timelapse"
-  - username: "foodologist"
+    hashtags: "#brownies, #baking, #sweetandsalty, #chips"
+  - username: "cocoaberry_"
     fullname: >-
-      Foodologist
+      Cocoa Berry
+    bio: >-
+      Toronto Bake Shop 🍪🎂🧁 7181 Yonge Street WWW.COCOABERRY.CA Info@cocoaberry.ca
     location: "Canada"
-    followers: 51156
-    engagement: 2357
-    commentsToLikes: 0.032225
-    id: ck8uflvm629xl0j78h0z1jtcc
+    followers: 18000
+    engagement: 740
+    commentsToLikes: 0.007385
+    id: ckbf1d8m0nhu10j23u6fl7gsk
     verified: false
-    hashtags: "#pastrychef, #poutineday, #cupcakes, #foodart"
-  - username: "katesearly"
+    hashtags: "#toronto, #torontotiktok, #happybirthday, #viral"
+  - username: "cakebythepound_"
     fullname: >-
-      Kate Earley
+      CakebythePound
+    bio: >-
+      Custom cakes!! Follow me on Instagram&check out my website www.cakebythepound.ca
     location: "Canada"
-    followers: 26079
-    engagement: 482
-    commentsToLikes: 0.037853
-    id: ck8qixg6naxz40j786qbyy7mo
+    followers: 11400
+    engagement: 672
+    commentsToLikes: 0.007963
+    id: ckcej1ximrnrd0j23h76zy1gv
     verified: false
-    hashtags: "#ditl, #gotthisforyou, #mcmaster, #carelton"
-  - username: "boscobbq"
+    hashtags: "#baker, #foryou, #foryoupage, #quarantine"
+  - username: "jenniferv82"
     fullname: >-
-      boscobbq
+      Jennifer🌻
+    bio: >-
+      FB & IG Diaper cakes, gift baskets, and more. Virtual Assistant. 🇨🇦🇵🇹
     location: "Canada"
-    followers: 28363
-    engagement: 487
-    commentsToLikes: 0.023349
-    id: ckafu2vo48i8u0i78a1exeete
+    followers: 4200
+    engagement: 1335
+    commentsToLikes: 0.066257
+    id: ckcpqycnqkkiv0j23zodhm0kn
     verified: false
-    hashtags: "#chickenshit, #sharp, #japaneseknives, #foodforyou"
-  - username: "klutchphotography"
+    hashtags: "#comedy, #myrecommendation, #holidaytiktok, #momsoftiktok"
+  - username: "mackenzie_tomlin"
     fullname: >-
-      Klutch Photography
+      Mackenzie
+    bio: >-
+      She/her ns 🇨🇦 Yoohoo big summer blowout! The vibes are immaculate 🙌🥳
     location: "Canada"
-    followers: 12605
-    engagement: 969
-    commentsToLikes: 0.031059
-    id: ck9glni62p5b70j78l72dsjzl
+    followers: 27300
+    engagement: 2333
+    commentsToLikes: 0.007776
+    id: ck8uflk4i27dy0j786avpwivs
     verified: false
-    hashtags: "#fitnessfreak, #tiktok, #gangster, #vancouver"
+    hashtags: "#positivevibes, #foryoupage, #voiceover, #fyp"
   - username: "cakes.bynav_abbotsford"
     fullname: >-
       Cakesbynav 
+    bio: >-
+      Cakesbynav instagram Abbotsford Canada
     location: "Canada"
-    followers: 3338
-    engagement: 351
-    commentsToLikes: 0.064546
+    followers: 5313
+    engagement: 322
+    commentsToLikes: 0.088187
     id: ck9pn1rzbcerj0j78hldb2smc
     verified: false
-    hashtags: "#viral, #lovebaking, #baker, #karanaujla"
-  - username: "lapetitebette"
+    hashtags: "#tiktok, #canada, #karanaujla, #cakesbynav"
+  - username: "aimeedmc12"
     fullname: >-
-      La petite bette
+      Aims
+    bio: >-
+      just for fun 📍Nova Scotia 🇨🇦
     location: "Canada"
-    followers: 51453
-    engagement: 727
-    commentsToLikes: 0.009569
-    id: ck97xntlfw2jy0j78r9bbl2bg
+    followers: 5565
+    engagement: 612
+    commentsToLikes: 0.021676
+    id: ckb9fnnm544wh0j23b0j0961o
     verified: false
-    hashtags: "#cuisine, #artisanbread, #dontmessup, #dogchallenge"
-  - username: "limelifemama27"
-    fullname: >-
-      Leslie Baker
-    location: "Canada"
-    followers: 2461
-    engagement: 619
-    commentsToLikes: 0.073697
-    id: ckamj295pmill0i78t7j5ir15
-    verified: false
-    hashtags: "#midrisejeans, #superpower, #cottagecheese, #hiking"
+    hashtags: "#dance, #girls, #fyp, #covid19"
 ---

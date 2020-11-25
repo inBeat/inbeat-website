@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In France In 2020
 description: >-
-  Find top stylists Instagram influencers in France in 2020. Most popular hashtags: #giveaway #summer #tbt #streetstyle.
+  Find top stylists Instagram influencers in France in 2020. Most popular hashtags: #fashionstyle #coat #fashionblogger.
 platform: Instagram
+hits: 450
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 450 Instagram influencers like this in France for you to contact.
 profiles:
   - username: "___rrxii"
     fullname: >-
       Kira the alchemist
+    bio: >-
+      Stylist
     location: "France"
-    followers: 73983
-    engagement: 192
-    commentsToLikes: 0.024140
+    followers: 71531
+    engagement: 154
+    commentsToLikes: 0.025763
     id: ck5bv4h4piz990i113kim25q2
     verified: false
-    hashtags: "#freekodak"
-  - username: "nicolasdureau"
+    hashtags: "#freekodak, #nofakefriends"
+  - username: "ramonatabita"
     fullname: >-
-      Nicolas Dureau
+      Ramona Tabita
+    bio: >-
+      Stylist
     location: "France"
-    followers: 6753
-    engagement: 820
-    commentsToLikes: 0.025837
-    id: ck5qe1dwfy94a0i11zlz99u6g
+    followers: 37679
+    engagement: 267
+    commentsToLikes: 0.023138
+    id: ck0vvqiasqb5p0i19ek09becl
     verified: false
-    hashtags: "#tbt, #styledbynicolasdureau, #tbt2018, #nicolasdureau"
+    hashtags: "#saintlaurentrivedroite, #defuera, #fw20, #fearofgodzegna"
   - username: "dannistylist"
     fullname: >-
       StyledByDanni
+    bio: >-
+      STYLIST
     location: "France"
-    followers: 16310
-    engagement: 230
-    commentsToLikes: 0.058503
+    followers: 16435
+    engagement: 174
+    commentsToLikes: 0.068677
     id: ck135tzeh38aq0i199g303s02
     verified: false
-    hashtags: "#paristhrowback, #bfa2019, #nyfwstreetstyle, #cannesfilmfestival2019"
-  - username: "clementinemacneice"
-    fullname: >-
-      Clémentine MacNeice
-    location: "France"
-    followers: 51175
-    engagement: 285
-    commentsToLikes: 0.071437
-    id: ck5cfimz5n18q0i11xqyjrwhg
-    verified: false
-    hashtags: "#hmxme, #makeup, #looks, #suit"
-  - username: "dressingleeloo"
-    fullname: >-
-      Leeloo
-    location: "France"
-    followers: 123950
-    engagement: 280
-    commentsToLikes: 0.054986
-    id: ck0ttqc593uke0i19mknlunnf
-    verified: false
-    hashtags: "#sunsetlover, #sezaneathome, #springtime, #dysoncorrale"
-  - username: "carnetsauvage"
-    fullname: >-
-      CARNET  SAUVAGE - Vanessa
-    location: "France"
-    followers: 31647
-    engagement: 272
-    commentsToLikes: 0.162676
-    id: ck0tzjaqzqhfq0i19eiyk1aox
-    verified: false
-    hashtags: "#bananasmoothie, #blogvoyage, #canarias, #blondhairstyle"
+    hashtags: "#streetstyle, #londonfashionweek, #bottegaveneta, #styledbydanni"
   - username: "bylauralayton"
     fullname: >-
-      Laura
+      Laura  KOryn Layton
+    bio: >-
+      —————————— Stylist
     location: "France"
-    followers: 46980
-    engagement: 466
-    commentsToLikes: 0.028770
+    followers: 46836
+    engagement: 435
+    commentsToLikes: 0.027169
     id: ck6u65clvdm9l0j71pfncxtnx
     verified: false
-    hashtags: "#chelsea, #paris, #the, #imcrying"
-  - username: "lapetitestyliste"
+    hashtags: "#afrolatina, #havana, #cuba, #latina"
+  - username: "melissaswardrobe"
     fullname: >-
-      ASHLEY | FASHION BLOGGER
+      Melissa’s Wardrobe
+    bio: >-
+      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
     location: "France"
-    followers: 30494
-    engagement: 189
-    commentsToLikes: 0.080587
-    id: ck6tvacqul31l0j71re1g60k2
+    followers: 183684
+    engagement: 784
+    commentsToLikes: 0.039895
+    id: ck0udxvovk7yj0i19uwfxckji
     verified: false
-    hashtags: "#stayhome, #pradabag, #corona, #missyempire"
-  - username: "mides_touch"
+    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
+  - username: "justinebrouill"
     fullname: >-
-      Olamide Titiloye Adedeji
+      JUSTINE BROUILLETTE
+    bio: >-
+      Canada Styliste/Blogueuse Collaboratrice pour @lookdujour_ca & @fromrachel justine.brouillette@gmail.com
     location: "France"
-    followers: 2314
-    engagement: 1931
-    commentsToLikes: 0.128873
-    id: ck5hlgj78k6oj0i118a9h1cjs
+    followers: 45126
+    engagement: 639
+    commentsToLikes: 0.199287
+    id: ck55mvs7w4xmt0i11ri5jgn7h
     verified: false
-    hashtags: "#proudparents, #disciplinarians, #god, #royalty"
-  - username: "be_merveilles_paris"
+    hashtags: "#giveaway, #partenaire, #yellowamespieds, #pub"
+  - username: "hayerelola"
     fullname: >-
-      be merveilles paris
+      𝕃𝕒𝕝𝕠
+    bio: >-
+      fashion addict 💋 Not your girl gang Rennes 📍 Diplômée : styliste / modéliste 21 buttons : lolahyr 📩 : lola.hyr@gmail.com
     location: "France"
-    followers: 10403
-    engagement: 556
-    commentsToLikes: 0.481141
-    id: ckap89c51ndzb0i78quj4ehb6
+    followers: 7503
+    engagement: 925
+    commentsToLikes: 0.109542
+    id: ck136lb4d71tt0i19m5crkyeq
     verified: false
-    hashtags: "#shoeslovers, #shoesaddict, #shoestyle, #shoeporn"
+    hashtags: "#fashionstyle, #love, #discoverunder10k, #shooting"
+  - username: "gelixr"
+    fullname: >-
+      Angelina Texier
+    bio: >-
+      ✧ CA | Styliste, Rennes - Paris 🐻 ✉️ contact - at.gelixr@outlook.com
+    location: "France"
+    followers: 44231
+    engagement: 314
+    commentsToLikes: 0.154146
+    id: ck0vvadtzo94v0i19ykue94r5
+    verified: false
+    hashtags: "#ikksofficial, #ikks, #concours, #nakdfashion"
+  - username: "mcristinastyling"
+    fullname: >-
+      cristina gomes
+    bio: >-
+      Stylist/ Image Consultant⚡ Barcelona /Bordeaux 📍 cristina.fonseca.gomes@gmail.com 📩
+    location: "France"
+    followers: 9837
+    engagement: 699
+    commentsToLikes: 0.201017
+    id: ck5zxexvg7vu90i14wawi521w
+    verified: false
+    hashtags: "#stun02, #weekendfitss, #knitt, #aestheticgrls"
+  - username: "its.pariyaa"
+    fullname: >-
+      pariyasmd
+    bio: >-
+      💊PhD Condidate(Pharmaceutical subset) 👗Freelance stylist (School of style/🇺🇸) ✂️Fashion Designer Founder of @psworldcollection
+    location: "France"
+    followers: 31321
+    engagement: 315
+    commentsToLikes: 0.082130
+    id: ck602s7f7iv1h0i14h3g5rmee
+    verified: false
+    hashtags: "#blackandwhite, #officialkavyar, #fashionmagazin, #photooftheday"
 ---

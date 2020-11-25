@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Poland In 2020
 description: >-
-  Find top travel TikTok influencers in Poland in 2020. Most popular hashtags: #slowmo #quarantine #tiktok #kwarantanna.
+  Find top travel TikTok influencers in Poland in 2020. Most popular hashtags: #polska #dc #podr #tiktoktravel.
 platform: TikTok
+hits: 75
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 75 TikTok influencers like this in Poland for you to pitch.
 profiles:
-  - username: "samaprzezswiat"
+  - username: "its.me.to.be"
     fullname: >-
-      Sama przez świat
+      itsmetobe
+    bio: >-
+      Agnes. 🇵🇱 Love travel/Photo Good vibes 💜. Enjoy life No hate! Only love! ❤️
     location: "Poland"
-    followers: 31473
-    engagement: 647
-    commentsToLikes: 0.047128
-    id: ck8135xcx01yl0j78l1oq0ed3
-    verified: true
-    hashtags: "#madeira, #single, #howtoflirt, #covid19"
+    followers: 11400
+    engagement: 1878
+    commentsToLikes: 0.077861
+    id: ckbabt75q4cqe0j23y9tk2w2a
+    verified: false
+    hashtags: "#halloween, #jimin, #bts, #kpop"
   - username: "johnny_music"
     fullname: >-
       Jonatan Chmielewski
+    bio: >-
+      📸 ZAPRASZAM NA IG: @miyo_johny 🎹 Music /🌴Travels
     location: "Poland"
-    followers: 63629
-    engagement: 1633
-    commentsToLikes: 0.012621
+    followers: 64500
+    engagement: 1584
+    commentsToLikes: 0.011527
     id: ck8f8uz883lea0j788cl3iemb
     verified: false
-    hashtags: "#koronawirus, #summer, #lalala, #masno"
+    hashtags: "#ableton, #producer, #music, #remix"
+  - username: "samaprzezswiat"
+    fullname: >-
+      Sama przez świat
+    bio: >-
+      Landscape Photographer. Nomad, fulltime traveler 📍69 📸instagram:samaprzezswiat
+    location: "Poland"
+    followers: 32300
+    engagement: 817
+    commentsToLikes: 0.026571
+    id: ck8135xcx01yl0j78l1oq0ed3
+    verified: true
+    hashtags: "#kobietydoobiektyw, #tiktoktravel, #podr, #wakacje2020"
   - username: "martynasoul"
     fullname: >-
       Martyna Soul
+    bio: >-
+      Martyna Soul Travel | Outdoor Ig @martynasoul 📧 martynasoul@gmail.com 📍Poland
     location: "Poland"
-    followers: 5593
-    engagement: 832
-    commentsToLikes: 0.029251
+    followers: 8309
+    engagement: 717
+    commentsToLikes: 0.031818
     id: ck80oectsh9ix0j78kzineveo
     verified: true
-    hashtags: "#outdoors, #wroc, #edutiktok, #forest"
-  - username: "michal.sadowski"
+    hashtags: "#dark, #tatry, #tiktokpolska, #dc"
+  - username: "bykovayana11"
     fullname: >-
-      Michal Sadowski
+      Yana Bykova
+    bio: >-
+      Travel videos 🧡
     location: "Poland"
-    followers: 55102
-    engagement: 1518
-    commentsToLikes: 0.008947
-    id: ck9a6xh4257540j785njz41l9
-    verified: true
-    hashtags: "#zdrowenawyki, #droneview, #wroclaw, #sardegna"
+    followers: 4084
+    engagement: 873
+    commentsToLikes: 0.024184
+    id: ckce0tui8hxik0j23kdnd0xxf
+    verified: false
+    hashtags: "#sea, #italy, #erasmus, #poland"
+  - username: "monikasoporowska"
+    fullname: >-
+      Monika Soporowska
+    bio: >-
+      fanciful 🦄 vegetarian 🌱 aperol lover 🍸 book addicted 📚 travel enthusias 🌍
+    location: "Poland"
+    followers: 5023
+    engagement: 384
+    commentsToLikes: 0.038205
+    id: ckaurd66dwggu0j238cwhsz7v
+    verified: false
+    hashtags: "#fyp, #comedy, #dlaciebie, #italianboy"
   - username: "bienvoyager"
     fullname: >-
       Bienvoyager
+    bio: >-
+      🇫🇷 🇵🇱 guy | ❤ #travel #mountains Insta|Ytube : BienVoyager
     location: "Poland"
-    followers: 5768
-    engagement: 763
-    commentsToLikes: 0.055517
+    followers: 5692
+    engagement: 742
+    commentsToLikes: 0.052915
     id: ck83z3km4xeh40j78gdxhr6jn
     verified: false
-    hashtags: "#tyrol, #tiktoktravel, #tatras, #renne"
-  - username: "karry.official"
-    fullname: >-
-      Katia Dubitska
-    location: "Poland"
-    followers: 47770
-    engagement: 972
-    commentsToLikes: 0.019996
-    id: ck8j854b5hc030j789htc179k
-    verified: false
-    hashtags: "#tiktokpoll, #luxurylife, #maldiveslove, #mcdonalds"
-  - username: "wiola_wiolka"
-    fullname: >-
-      Wiola Kamińska
-    location: "Poland"
-    followers: 7311
-    engagement: 394
-    commentsToLikes: 0.038894
-    id: ckach20xfxkd30i78wg1dhkmx
-    verified: false
-    hashtags: "#jedzenie, #psikus, #running, #zdrowie"
+    hashtags: "#maurice, #ete, #montagne, #vacances"
   - username: "magdasteczkowska"
     fullname: >-
       magdasteczkowska
+    bio: >-
+      🎤Singer 🌏Traveller 👨‍👩‍👧‍👦Mom ⭐instagram: @magdasteczkowska
     location: "Poland"
-    followers: 7677
-    engagement: 750
-    commentsToLikes: 0.017223
+    followers: 47400
+    engagement: 823
+    commentsToLikes: 0.026735
     id: ck9ey68equijm0j780ie42ag4
     verified: true
-    hashtags: "#challenge, #sweden, #friend, #quarantine"
-  - username: "nikamelody"
+    hashtags: "#cojestgrane, #trend, #autumn, #duet"
+  - username: "balaczka"
     fullname: >-
-      nikamelody
+      Insta Balaczka zapraszam:)
+    bio: >-
+      Travel Lifestyle Instagram: @balaczka (145k) Mail: balaczka.blog@gmail.com
     location: "Poland"
-    followers: 6276
-    engagement: 1203
-    commentsToLikes: 0.035742
-    id: ck9009xvua5t10j78ccy2dekz
+    followers: 11900
+    engagement: 499
+    commentsToLikes: 0.053896
+    id: ckavafibdhygf0j23ncus7ipc
     verified: false
-    hashtags: "#berlin, #house, #slowmo, #aesthetic"
-  - username: "queenmaggiemaslowska"
+    hashtags: "#halloween2020, #magicznes, #ohno, #strasznehistorie"
+  - username: "fingers_crossed_travels"
     fullname: >-
-      Queen Maggie 👸
+      Fingerscrossedtravel
+    bio: >-
+      Robię podróże✈️🏝 Zapraszam na IG Fingers_crossed_travels 🤞 Alfabet Świata🎥🌍
     location: "Poland"
-    followers: 23933
-    engagement: 1125
-    commentsToLikes: 0.065664
-    id: ck9enunyikxjo0j78pzudhgjj
+    followers: 7666
+    engagement: 507
+    commentsToLikes: 0.041537
+    id: ckb0sp2vyi8iw0j23v0sfu6eh
     verified: false
-    hashtags: "#swaywithme, #znakizodiaku, #lacasadepapel, #tvseries"
+    hashtags: "#pytaniedo, #polskiememy, #krosno, #dlawas"
 ---

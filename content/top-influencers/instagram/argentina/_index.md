@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Argentina In 2020
 description: >-
-  Find top Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #comedia #crucedecampeones #elpeorsorteodelmundo.
+  Find top Instagram influencers in Argentina in 2020. Most popular hashtags: #sorteo #argentina #forgirlsbygirls.
 platform: Instagram
+hits: 7933
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 7933 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "daraxito"
+  - username: "stephaniedemner"
     fullname: >-
-      Mathías Rivas
+      Stephanie Demner
+    bio: >-
+      💁🏼‍♀️Modelo y emprendedora❤️ Brand Ambassador @theofficialpandora @swatch @chiaraferragnicollection @sweetvictorian 💌🧸Representante @pili.enrich
     location: "Argentina"
-    followers: 2264
-    engagement: 3587
-    commentsToLikes: 0.258485
-    id: ck5zjhyoohmm30i14uas3osfq
-    verified: false
-    hashtags: "#elpeorsorteodelmundo, #cruceencasa, #crucedecampeones"
+    followers: 1244059
+    engagement: 2727
+    commentsToLikes: 6.884859
+    id: ck0tualdw6cb40i19qs03sh2l
+    verified: true
+    hashtags: "#isdinargentina, #fusionwaterurban, #pandoraargentina, #somethingaboutyou"
   - username: "morebello_"
     fullname: >-
-      
+      More
+    bio: >-
+      Parana, Entre Rios 🇦🇷 contacto: bellom.mgmt@gmail.com Rep: @trendsetters.ok Tiktok:morenbello Tw:morenbello3 @m0r3b3
     location: "Argentina"
-    followers: 262314
-    engagement: 2801
-    commentsToLikes: 0.076883
+    followers: 313756
+    engagement: 2608
+    commentsToLikes: 0.075502
     id: ck8wgmp5zhnpb0j78lmhd44s4
     verified: false
-    hashtags: "#seremix"
+    hashtags: ""
   - username: "lucas_nardella05"
     fullname: >-
-      Lucas🖤
+      Lucas Nardella😼
+    bio: >-
+      ~ cantante, actor ~ Contacto: lnardella.mgmt@gmail.com Rep: @trendsetters.ok
     location: "Argentina"
-    followers: 84674
-    engagement: 2650
-    commentsToLikes: 0.053552
+    followers: 87965
+    engagement: 2454
+    commentsToLikes: 0.099262
     id: ck8wg34njgnrs0j78ajvijkl9
     verified: false
-    hashtags: "#hastama"
-  - username: "yeslinap"
+    hashtags: "#flynnpaff, #gomitasflynnpaffparty"
+  - username: "mia_carpinetti"
     fullname: >-
-      Y E S L I N
+      𝙼𝙸𝙰 𝙲𝙷𝙸𝙰𝚁𝙰
+    bio: >-
+      •𝙴𝚕 𝚌𝚊𝚖𝚒𝚗𝚘 𝚊𝚕 é𝚡𝚒𝚝𝚘 𝚎𝚜 𝚕𝚊 𝚊𝚌𝚝𝚒𝚝𝚞𝚍✨ •𝙿𝚎𝚛𝚜𝚒𝚐𝚞𝚒𝚎𝚗𝚍𝚘 𝚎𝚕 𝚜𝚞𝚎ñ𝚘 𝚍𝚎 𝚖𝚘𝚍𝚎𝚕𝚘 •𝚂𝚝𝚛𝚎𝚊𝚖𝚎𝚛
     location: "Argentina"
-    followers: 8917
-    engagement: 2125
-    commentsToLikes: 0.214659
-    id: ck5c0tz85tucs0i11bpeu5dlx
+    followers: 2660
+    engagement: 2332
+    commentsToLikes: 0.158882
+    id: ckf5q6hf08btr0j23lnqzvr9n
     verified: false
-    hashtags: "#pafueralajunta, #latinogang"
-  - username: "moreeandrade1"
+    hashtags: "#model, #dreams, #inspiration, #modelo"
+  - username: "talibaron_"
     fullname: >-
-      𝓐𝓝𝓓𝓡𝓐𝓓𝓔!!!
+      T A L I • B A R O N
+    bio: >-
+      [ Tali es mi nombre completo ] • Fashion designer • Content creator 𝗢𝗡𝗔 𝗦𝗔𝗘𝗭 𝗯𝘆 𝗠𝗘👇🏻 𝟭𝟱%𝗢𝗙𝗙 𝗖𝗢́𝗗𝗜𝗚𝗢 “𝗢𝗡𝗔𝗕𝗬𝗧𝗔𝗟𝗜“
     location: "Argentina"
-    followers: 105518
-    engagement: 1909
-    commentsToLikes: 0.068462
-    id: ckaoxsy79elxy0i78zn2llctg
+    followers: 26100
+    engagement: 2219
+    commentsToLikes: 0.934708
+    id: ck0w6hzhn8nmm0i19gt2f2cq1
     verified: false
-    hashtags: "#yomequedoencasa, #separadas, #novela"
-  - username: "nahuelpietraszek"
+    hashtags: "#loungeunderwear, #72hs, #sorteo, #myloungelife"
+  - username: "fuckisra"
     fullname: >-
-      Nahuel Pietraszek
+      I S R A 🌹
+    bio: >-
+      📍 Madrid 🌈 No tengas miedo a ser distinto ✉ contactwithisra@gmail.com
     location: "Argentina"
-    followers: 516508
-    engagement: 1707
-    commentsToLikes: 0.080114
-    id: ck1384etreg330i19wf972eci
+    followers: 13463
+    engagement: 2201
+    commentsToLikes: 0.111017
+    id: ck5ci915ms8050i11nzlfgdec
     verified: false
-    hashtags: "#tiktok, #comedia, #humor, #hermanos"
-  - username: "naramieres"
+    hashtags: "#kvdveganbeauty"
+  - username: "agchapa_"
     fullname: >-
-      Nara 🌾
+      andrea chapa
+    bio: >-
+      Mty XVIII tt: andreagchapa(1.5M+) Código @sheinofficial: Q3agchapa (15% adicional) colabs : andreachapa@peachmx.com
     location: "Argentina"
-    followers: 40083
-    engagement: 1620
-    commentsToLikes: 0.156485
-    id: ck6u60emfctfn0j71mbi9gqw1
+    followers: 177839
+    engagement: 2174
+    commentsToLikes: 0.139495
+    id: ck9hcpsb5mi960j78mmmpk048
     verified: false
-    hashtags: "#pillowchallenge, #apoyalonacional, #modoroaming, #internationalwomensday"
-  - username: "nathancastroe"
+    hashtags: "#shein, #sheingals, #skincareroutine, #pondsfruity"
+  - username: "curciomiaa"
     fullname: >-
-      NATHAN Castro
+      M I A   C U R C I O  | 🇦🇷
+    bio: >-
+      Focus ✨
     location: "Argentina"
-    followers: 652564
-    engagement: 1586
-    commentsToLikes: 0.113216
-    id: ck6tm6juo79pp0j71a0da3gig
+    followers: 88076
+    engagement: 1963
+    commentsToLikes: 0.548994
+    id: ck5hg0vjr0c2v0i11pvbiqqkq
     verified: false
-    hashtags: "#cuarentena, #quedateencasa"
-  - username: "amirachediak"
+    hashtags: "#giveaway, #trendalert, #polaroid, #revolve"
+  - username: "xeniaparedes2"
     fullname: >-
-      • A M I R A •
+      • Xe
+    bio: >-
+      La Rioja - Argentina
     location: "Argentina"
-    followers: 766975
-    engagement: 1479
-    commentsToLikes: 0.046593
-    id: ck5c67amn4ve20i11av745kx3
-    verified: true
-    hashtags: "#dato, #lacasadefido, #mcdelivery, #plankchallenge"
-  - username: "lesamateurss"
-    fullname: >-
-      LESA
-    location: "Argentina"
-    followers: 61593
-    engagement: 1417
-    commentsToLikes: 0.084265
-    id: ckaoxugfaesxd0i78zyzbrs38
+    followers: 13158
+    engagement: 1943
+    commentsToLikes: 0.244143
+    id: ck6ua3x6c1c6w0j71e5o50ugk
     verified: false
-    hashtags: "#almirantebrown, #cuarentena, #telos, #conurbano"
+    hashtags: ""
+  - username: "biancafarriol11"
+    fullname: >-
+      Bianca 💘
+    bio: >-
+      Jugadora de voley Seleccion Argentina 🇦🇷 Beziers Angels 🇫🇷
+    location: "Argentina"
+    followers: 23260
+    engagement: 1778
+    commentsToLikes: 0.062136
+    id: ck5hlp1b5klag0i11x2r4llnj
+    verified: false
+    hashtags: "#voleyargentino, #cuarentena, #tbt, #argentina"
 ---

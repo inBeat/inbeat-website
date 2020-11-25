@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Austin In 2020
 description: >-
-  Find top makeup TikTok influencers in Austin in 2020. Most popular hashtags: #makeup #austinpowers #greenscreen #friends.
+  Find top makeup TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #makeup #foryoupage #foryou.
 platform: TikTok
+hits: 127
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 127 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "anaselenag"
+  - username: "hannahstiktokaccount"
     fullname: >-
-      anaselenag
+      Hannah
+    bio: >-
+      venmo: @hannahcat8 for the cowch funds🐮 BLM Insta/YT: @hannahcat0
     location: "United States"
-    followers: 2861
-    engagement: 871
-    commentsToLikes: 0.031235
-    id: cka0nq5920t670i78unywrlso
+    followers: 50000
+    engagement: 1670
+    commentsToLikes: 0.027219
+    id: ck8semkkokbvp0j7810xo27m9
     verified: false
-    hashtags: "#quarantena, #petty, #firsttiktok, #sisters"
-  - username: "zzomommaa"
+    hashtags: "#halloween, #fyp, #wewintogether, #halloweencostume"
+  - username: "westcoast_kassy"
     fullname: >-
-      Zoë Fortson
+      westcoast_kassy
+    bio: >-
+      Artist✨ Website👇🏼 https://kassandragarcia999.wixsite.com/website
     location: "United States"
-    followers: 9098
-    engagement: 900
-    commentsToLikes: 0.037487
-    id: ckacr898p49ey0i78xw50zwfv
+    followers: 48300
+    engagement: 1356
+    commentsToLikes: 0.011916
+    id: ck8s6jorlktw90j78uxxlkw0u
     verified: false
-    hashtags: "#gonnabefriends, #greenscreen, #eatemup, #foryou"
-  - username: "michelerothstein"
+    hashtags: "#fyp, #howto, #tiktokartist, #resin"
+  - username: "monitoocrazy"
     fullname: >-
-      Vegas Michele
+      Monica💗
+    bio: >-
+      CEO of Ayyyyyy and Marisaaaaa!✨ Mexican American 🇲🇽 Insta: Monitoocrazy Dtx🤠
     location: "United States"
-    followers: 178859
-    engagement: 412
-    commentsToLikes: 0.011689
-    id: cka0xsybf8g0i0i78142h689f
+    followers: 635300
+    engagement: 2370
+    commentsToLikes: 0.011225
+    id: ck8qkrfnqiiy90j786q2x1eh7
     verified: false
-    hashtags: "#impersonation, #graffitimansion, #likeariver, #coronavirus"
+    hashtags: "#candy, #snack, #foryou, #mexican"
   - username: "nitabita94"
     fullname: >-
       Nitabita94
+    bio: >-
+      Beauty is in the eye of the beholder IG: Nitabita94 💕
     location: "United States"
-    followers: 13610
-    engagement: 1955
-    commentsToLikes: 0.015406
+    followers: 14300
+    engagement: 1842
+    commentsToLikes: 0.017892
     id: ck9nidra1gs5k0j78szeq55bh
     verified: false
-    hashtags: "#fyp, #rollers, #pinkpanther, #styling"
-  - username: "iamaustinlum"
+    hashtags: "#fyp, #60s, #hairtutorial, #hair"
+  - username: "ashhthedancerrr"
     fullname: >-
-      Austin Lum 
+      ✨🌴ASHLEY 🌴✨
+    bio: >-
+      💘Austin James 💘 venmo: ashleyy-Francis P.O BOX 678840 Orlando FL 32867
     location: "United States"
-    followers: 5752
-    engagement: 2089
-    commentsToLikes: 0.020377
-    id: ck9nrg2198ifp0j78cht0ayw7
+    followers: 22800
+    engagement: 1334
+    commentsToLikes: 0.063106
+    id: ckcczrr2wz5fy0j23q752udsy
     verified: false
-    hashtags: "#sadness, #teaxscheck, #spoiled, #transformation"
-  - username: "journsays7"
+    hashtags: "#wewintogether, #militarygf, #unwrapthedeals, #disneyworld"
+  - username: "josigreen"
     fullname: >-
-      Journey Sais
+      Josi Green
+    bio: >-
+      Any pronouns are fine Links in bio❤️ P.O.Box 170046 Austin Tx 78717 Engaged💍
     location: "United States"
-    followers: 5140
-    engagement: 1268
-    commentsToLikes: 0.020673
-    id: ck9fmcbivsk6f0j78hz3j59yw
+    followers: 517100
+    engagement: 1824
+    commentsToLikes: 0.015882
+    id: ck8kkd50eyqg10j78rn266xx2
     verified: false
-    hashtags: "#that70sshow, #thisisquitting, #fliptheswitch, #tumblr"
-  - username: "gingersnapsburlesque"
+    hashtags: "#pastelgoth, #bobsburgers, #trending, #duet"
+  - username: "sassystephxoxo"
     fullname: >-
-      Ginger Snaps
+      sassystephxoxo
+    bio: >-
+      Polyamorous ❤ Bisexual ❤ Hair and makeup artist ❤ Fur Mama
     location: "United States"
-    followers: 5635
-    engagement: 625
-    commentsToLikes: 0.043984
-    id: cka0hc8568o5r0i780n85oio6
+    followers: 52300
+    engagement: 603
+    commentsToLikes: 0.020029
+    id: ckc7pccfpv2a90j233pfhd47e
     verified: false
-    hashtags: "#weirdmakeup, #whoneedsarecipe, #skycandyaustin, #stretch"
-  - username: "kel_morgan"
+    hashtags: "#ethicalnonmonagomy, #polyamory, #adult, #duet"
+  - username: "amykristine27"
     fullname: >-
-      Kel_Morgan
+      AmyKristine
+    bio: >-
+      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
     location: "United States"
-    followers: 14784
-    engagement: 703
-    commentsToLikes: 0.025265
-    id: ck9n4whyr60rn0j78tqualtui
+    followers: 13100
+    engagement: 621
+    commentsToLikes: 0.051960
+    id: ck9k2n6dll0e40j78ez8l5xog
     verified: false
-    hashtags: "#axefingersdown, #marathon, #1406, #gaysoftiktok"
-  - username: "kylieehernandez"
+    hashtags: "#horrortok, #texas, #halloween, #winter"
+  - username: "kendallwannabejenner"
     fullname: >-
-      ky
+      Kendall
+    bio: >-
+      23, Austin, Tx Idk, it’s just me.... cheers!! Instagram - kendallegray
     location: "United States"
-    followers: 40719
-    engagement: 1532
-    commentsToLikes: 0.030467
-    id: ck8qj4ulbbvom0j78vlg0prgr
+    followers: 2818
+    engagement: 246
+    commentsToLikes: 0.046670
+    id: ckcvjxpt3xjub0j2362mhqpen
     verified: false
-    hashtags: "#relatable, #madisonbeer, #blooper, #brandymelville"
-  - username: "holofox"
+    hashtags: "#boredathome, #xyzbca, #foryoupage, #viral"
+  - username: "abbywrenartistry"
     fullname: >-
-      holofox
+      abbywrenartistry
+    bio: >-
+      Pro Makeup Artist + Digital Creator 💥 Alopecia Baldy 👽
     location: "United States"
-    followers: 38737
-    engagement: 1706
-    commentsToLikes: 0.077774
-    id: ckae6qbx9dk0n0i78qsxavog0
+    followers: 103700
+    engagement: 1666
+    commentsToLikes: 0.020575
+    id: ckbbodup4ccqh0j23iutrhgc8
     verified: false
-    hashtags: "#game, #viral, #foryoupagw, #forypupage"
+    hashtags: "#halloween2020, #halloweenmakeup, #ghostmode, #halloweenideas"
 ---

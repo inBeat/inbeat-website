@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top makeup Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #makeup #birthday #selfcare.
+  Find top makeup Instagram influencers in San Francisco in 2020. Most popular hashtags: #makeup #sanfrancisco #fashion #beauty.
 platform: Instagram
+hits: 54
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 54 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
-  - username: "melu103"
+  - username: "nikohlspearman"
     fullname: >-
-      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+      𝕹𝖎𝖐𝖔𝖍𝖑
+    bio: >-
+      Repped by @slaymodelsla 🦋Live life to the fullest🦋 Actress/model
     location: "United States"
-    followers: 10003
-    engagement: 545
-    commentsToLikes: 0.166779
-    id: ck6ua4ehe1f2h0j719d0ie3wx
+    followers: 6109
+    engagement: 1142
+    commentsToLikes: 0.041875
+    id: ck6u47fla24ft0j71wwe35ap3
     verified: false
-    hashtags: "#sport, #acne, #fitfam, #papasteves"
-  - username: "candicexx_"
+    hashtags: "#justiceforgeorgefloyd, #redhead, #hair, #athleticgrunge"
+  - username: "vicensfornsphotography"
     fullname: >-
-      🦋 Miss Ocean USA 2018, PhD 🎓
+      Miami Photographer
+    bio: >-
+      #fineartweddingphotographer #miami #miami photographer #weddings #destinationsweddings #miamiweddings #familyphotos #engagement #maternity
     location: "United States"
-    followers: 25071
-    engagement: 316
-    commentsToLikes: 0.029774
-    id: ck6tt5bxc8oxk0j716vaknc6v
+    followers: 9008
+    engagement: 194
+    commentsToLikes: 0.067851
+    id: ck9wh0fqwvogv0j78u7f8jrab
     verified: false
-    hashtags: "#lifeisgood, #loveyourself, #funnymemes, #blackandwhite"
-  - username: "sarahjeangirl"
+    hashtags: "#miamidestinationweddingphotographer, #miamiphotographer, #miamiweddingvenue, #bridemiami"
+  - username: "the_skinedit"
     fullname: >-
-      Sarahjeangirl
+      Lindsey
+    bio: >-
+      🙂 skin care, self care, and minimal makeup are my jam 🦢 san francisco ✉️ pr/collabs | LCtheskinedit@gmail.com
     location: "United States"
-    followers: 17664
-    engagement: 347
-    commentsToLikes: 0.245120
-    id: ck13c6zd4yww10i19grm8jaba
+    followers: 2854
+    engagement: 1301
+    commentsToLikes: 0.220066
+    id: ckf5tx0a5iyqp0j235uaslwr9
     verified: false
-    hashtags: "#beautyjunkies, #makeupbrushes, #balayage, #dewymakeup"
+    hashtags: "#careforyourplanet, #texturetuesday, #typeapartner, #farmacyskincare"
+  - username: "justine_vivian"
+    fullname: >-
+      Justine
+    bio: >-
+      📍SF EMG Models | NYLO Model + Talent | Ravage Management Model | Actress | Stylist ✨ DM For Rates.
+    location: "United States"
+    followers: 4116
+    engagement: 882
+    commentsToLikes: 0.094636
+    id: ck14jyadamrw10i19107pn6bf
+    verified: false
+    hashtags: "#scoutme, #sfcreate, #dalystudioseries, #audreyhepburn"
   - username: "alleyesonmax"
     fullname: >-
-      Max Showalter
+      Max Showalter • Makeup Artist
+    bio: >-
+      📍 San Francisco,CA🌉 💄 Makeup Artist 🌳 Tree Hugger 🌌 Universe Lover ✌🏻 Positive Energy and Good Vibes 📧 : maxshowalter@yahoo.com 🎞 YouTube👇🏻
     location: "United States"
-    followers: 6616
-    engagement: 889
-    commentsToLikes: 0.091201
+    followers: 6389
+    engagement: 468
+    commentsToLikes: 0.104049
     id: ck14iq1zrgnr10i195eyvrknp
     verified: false
-    hashtags: "#pridemonth, #morphe35b, #inspired, #trip"
-  - username: "jazlmao"
+    hashtags: "#tatchaskincare, #31daysofhalloween, #specialfxmakeup, #morphebrushes"
+  - username: "fredericaspiras"
     fullname: >-
-      Jazzi 🌻 Manalo Sullivan
+      FREDERIC ASPIRAS
+    bio: >-
+      HAIRSTYLIST & WIG ART DESIGNER #FredericAspirasHair HAÜS OF GAGA The Only Agency / (212)924-4046 @joico Ambassador
     location: "United States"
-    followers: 16571
-    engagement: 484
-    commentsToLikes: 0.031934
-    id: ck6tq4pgipdja0j71ch1q3vus
-    verified: false
-    hashtags: "#acneskincare, #cutcrease, #digitalillustration, #makeupvideo"
-  - username: "nishpan"
+    followers: 107278
+    engagement: 457
+    commentsToLikes: 0.024443
+    id: ck0vw2t19ruj90i19p5sp4bs7
+    verified: true
+    hashtags: "#pinkhair, #hauslabs, #joicodefydamage, #rainonme"
+  - username: "prasilassi"
     fullname: >-
-      Nisha Panjabi
+      Prasiddha
+    bio: >-
+      You only see what I choose to show 🙃 📍San Francisco 🇺🇸
     location: "United States"
-    followers: 5427
-    engagement: 1745
-    commentsToLikes: 0.109471
-    id: ck8t491cm5x080j78qaep3fnb
+    followers: 5740
+    engagement: 2023
+    commentsToLikes: 0.004500
+    id: ck5qc95vcpfrp0i11crby36bp
     verified: false
-    hashtags: "#quarantinelife, #makeupvideox, #sneakerheads, #fashionaddict"
-  - username: "makeupby.karishma"
+    hashtags: "#weddingdiaries, #pellikuthuru, #teampixel, #roamtheplanet"
+  - username: "rainbowchatman"
     fullname: >-
-      Karishma | MUA | Hair Stylist
+      RAINBOW
+    bio: >-
+      🏳️‍🌈 Queer (They/She) ⠀ Serving Lewks | +Size Style ⠀⠀ @Effyourbeautystandards Admin⠀⠀ 📍San Francisco, CA
     location: "United States"
-    followers: 3008
-    engagement: 1391
-    commentsToLikes: 0.130758
-    id: ck6tksisz5bmg0j71rdk2mfse
+    followers: 15611
+    engagement: 412
+    commentsToLikes: 0.056724
+    id: ck15pieagy1cz0i19iiytoyig
     verified: false
-    hashtags: "#makeupbrushchallenge, #sanfrancisco, #yslbeautyrouge, #beautyblogger"
-  - username: "salcincotta"
+    hashtags: "#gifted, #psblogger, #plussize, #psfashion"
+  - username: "amare_media"
     fullname: >-
-      Sal Cincotta
+      Amāre Media
+    bio: >-
+      Fashion and Lifestyle Media Producer based out of San Francisco. Thanks for looking🙏🏼
     location: "United States"
-    followers: 32535
-    engagement: 303
-    commentsToLikes: 0.025178
-    id: ck5c19dy4uphb0i1198ay687k
+    followers: 4365
+    engagement: 1144
+    commentsToLikes: 0.094709
+    id: ckaozupsnnhbm0i7812jlstbe
     verified: false
-    hashtags: "#hssenior, #teenstyle, #canon4life, #headshot"
-  - username: "tinasbeautytips"
+    hashtags: "#agameoftones, #silhouette, #abstract, #ig"
+  - username: "petitetammie"
     fullname: >-
-      Tina Le
+      Tammie | petite style & beauty
+    bio: >-
+      5'1 | San Francisco PR / Collab via email 📩 DM @versed skin team / 20%off @lilahbeauty tammie20 🛍 more code in below link 🐶 @poodlekiwi420sf
     location: "United States"
-    followers: 84196
-    engagement: 273
-    commentsToLikes: 0.006931
-    id: ck0udcymuis9j0i19ysnl52ii
+    followers: 12947
+    engagement: 603
+    commentsToLikes: 0.254876
+    id: ck5c5ur1d46mf0i111fea4grc
     verified: false
-    hashtags: "#misssaigon, #staystrong, #tinabeautytips, #refa"
-  - username: "zee.ohhh.mu"
-    fullname: >-
-      Xio ( Zee-ohhh )
-    location: "United States"
-    followers: 24056
-    engagement: 321
-    commentsToLikes: 0.053163
-    id: ck9ha7xbobivf0j782kmzrwkf
-    verified: false
-    hashtags: "#cowmakeup, #cowprintmakeup, #shootingstar"
+    hashtags: "#skincare, #beautygiveaway, #liketkit, #skincarecommunity"
 ---

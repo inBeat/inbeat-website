@@ -1,107 +1,130 @@
 ---
 title: Top 10 Marathon TikTok Influencers In 2020
 description: >-
-  Find top marathon TikTok influencers in 2020. Most popular hashtags: #duet #running #greenscreen #marathon.
+  Find top marathon TikTok influencers in 2020. Most popular hashtags: #fyp #runner #foryou #duet.
 platform: TikTok
+hits: 130
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 130 TikTok influencers like this for you to work with.
 profiles:
+  - username: "shakeercheerayi"
+    fullname: >-
+      Shakeer Cheerayi
+    bio: >-
+      shakeer cheerayi. Am Marathon Runner #Qatar #Doha#Running my passion #🥰🥰🥰🥰😍
+    location: "Qatar"
+    followers: 6129
+    engagement: 2108
+    commentsToLikes: 0.298576
+    id: ckdbg53cp85id0j238v7blxfr
+    verified: false
+    hashtags: "#viral, #bahrain, #doh, #kind"
+  - username: "mrs.space.cadet"
+    fullname: >-
+      Mrs. Space Cadet
+    bio: >-
+      Captain of Team Struggle Run; Training for 1st marathon Venmo @MrsSpaceCadet
+    location: "United States"
+    followers: 407500
+    engagement: 2045
+    commentsToLikes: 0.010013
+    id: ck7zpacuroc8e0j7862bhjfu9
+    verified: false
+    hashtags: "#vibes, #photoshoot, #nature, #runner"
+  - username: "sovietrunner"
+    fullname: >-
+      Pierchik
+    bio: >-
+      Je t'aide à préparer ton premier MARATHON. 🏆
+    location: "France"
+    followers: 8377
+    engagement: 520
+    commentsToLikes: 0.141052
+    id: ckbkiye3abn1d0j2325u229qr
+    verified: false
+    hashtags: "#side, #puma, #galatasaray, #bosphore"
+  - username: "oneleggger"
+    fullname: >-
+      Deepak Saini
+    bio: >-
+      Amputee | Marathoner | Motivator Motivational Speaker
+    location: "India"
+    followers: 10900
+    engagement: 1466
+    commentsToLikes: 0.044903
+    id: ckbwdg0xb17210j238nho7vnh
+    verified: false
+    hashtags: "#oneleggger, #life, #fyp, #fitness"
+  - username: "caitsouthkeen"
+    fullname: >-
+      Cait
+    bio: >-
+      27 with a subpar instagram aesthetic 2020 Olympic Trials Marathon Qualifier ⚡️
+    location: ""
+    followers: 8757
+    engagement: 371
+    commentsToLikes: 0.041786
+    id: ckbwdfyob16oy0j23lrvgs0pb
+    verified: false
+    hashtags: "#marathon, #quarantine, #over25, #athlete"
+  - username: "brecarperuns"
+    fullname: >-
+      Brendan Carpenter
+    bio: >-
+      I lost over 160lbs and now a marathon runner inspiring others! -Saucony Athlete
+    location: "Canada"
+    followers: 53400
+    engagement: 765
+    commentsToLikes: 0.039583
+    id: ckb9kqhfncuya0j23ro8kbvi9
+    verified: false
+    hashtags: "#weightlossprogress, #weightlossadvice, #wls, #weightlossfood"
+  - username: "ichriskee"
+    fullname: >-
+      Chris Liew
+    bio: >-
+      ♍️ IG: iChrisKee Marathoner 🏃🏻 + ChefWannaBe 👨🏻‍🍳 + Traveller ✈️ from 🇲🇾
+    location: "Malaysia"
+    followers: 58500
+    engagement: 546
+    commentsToLikes: 0.038288
+    id: ckb0yzid0ns7x0j23bw7kq9th
+    verified: false
+    hashtags: "#smile, #foryoupage, #foryourpage, #tiktokmalaysia"
+  - username: "jacqueseawright"
+    fullname: >-
+      Jacqueline Seawright
+    bio: >-
+      👨🏻‍🚒👬#firewife #boymom 🍎🏃🏼‍♀️ # teachersoftiktok #marathoningmakeupmom
+    location: "United States"
+    followers: 10300
+    engagement: 471
+    commentsToLikes: 0.013195
+    id: ck9rgjo58b6d10j78tqysvpcp
+    verified: false
+    hashtags: "#teachersoftiktok, #preschool, #time, #floridacheck"
   - username: "antmirrr"
     fullname: >-
       Antmirrr
+    bio: >-
+      Here lies all my hopes and dreams SoundCloud: @marathondayinn
     location: "United States"
-    followers: 44169
-    engagement: 524
-    commentsToLikes: 0.026563
+    followers: 43800
+    engagement: 527
+    commentsToLikes: 0.025721
     id: ckad89frv7w5y0i78c8sqce8u
     verified: false
-    hashtags: "#slayer, #mortalkombat, #puppy, #scorpion"
-  - username: "emmadilemmas"
+    hashtags: "#foryoupage, #celebrity, #foryou, #funny"
+  - username: "fitnessavior"
     fullname: >-
-      Emma 🤠
-    location: "United States"
-    followers: 6859
-    engagement: 1596
-    commentsToLikes: 0.093803
-    id: cka7nhhzpwzid0i78xxvuevhb
+      Fitnessavior
+    bio: >-
+      🎙Fitness Savior Podcast 🏃 Ran a Marathon for Charity ❤️Fitnessavior Merch!!👇
+    location: "Canada"
+    followers: 3551
+    engagement: 350
+    commentsToLikes: 0.034548
+    id: ckdnimljkihbg0j23crattisn
     verified: false
-    hashtags: "#missle, #dojacat, #nikkiminaj, #redhead"
-  - username: "andy_venture"
-    fullname: >-
-      ANDYVENTURE
-    location: "Slovenia"
-    followers: 2205
-    engagement: 568
-    commentsToLikes: 0.177026
-    id: cka0guctj67ld0i78sntfayxu
-    verified: false
-    hashtags: "#birthday, #dankmemes, #sadstory, #avengersendgame"
-  - username: "vader.my.dad"
-    fullname: >-
-      Vader.my.dad
-    location: "United States"
-    followers: 17526
-    engagement: 1403
-    commentsToLikes: 0.030129
-    id: ck932wso4li6x0j78lbtts392
-    verified: false
-    hashtags: "#hope, #starwarsday, #almostdone, #lukeskwalker"
-  - username: "runnergursewak913"
-    fullname: >-
-      runnergursewaksingh
-    location: "India"
-    followers: 3075
-    engagement: 1190
-    commentsToLikes: 0.009407
-    id: ck9m11rqzd71k0j78x4azv25q
-    verified: false
-    hashtags: "#born2run, #bhangra, #harmaidanfateh, #style"
-  - username: "jacquelineseawrig"
-    fullname: >-
-      Jacqueline Seawright
-    location: "United States"
-    followers: 7276
-    engagement: 276
-    commentsToLikes: 0.007789
-    id: ck9rgjo58b6d10j78tqysvpcp
-    verified: false
-    hashtags: "#highschoollife, #dontwaste, #otters, #icecream"
-  - username: "maxmun8"
-    fullname: >-
-      Mente Atleta
-    location: "Argentina"
-    followers: 5430
-    engagement: 789
-    commentsToLikes: 0.003351
-    id: ck9m11nb9d5w10j78eavlk2cd
-    verified: false
-    hashtags: "#instrunners, #workout, #plyometrics, #fitnnes"
-  - username: "carew_ellington"
-    fullname: >-
-      carew ellington
-    location: "United States"
-    followers: 192794
-    engagement: 2635
-    commentsToLikes: 0.020524
-    id: ck9nrmxai9fkj0j78gs8o2j06
-    verified: false
-    hashtags: "#greenscreen, #sb2020, #marathon"
-  - username: "moonbaby1620_.m_"
-    fullname: >-
-      #ImReal🙏💯🔥♥️
-    location: "United States"
-    followers: 7242
-    engagement: 1987
-    commentsToLikes: 0.042105
-    id: ck9r4ixjbvajb0j786f5d2mtk
-    verified: false
-    hashtags: "#wisconsincheck, #heartless, #victorious, #monsters"
-  - username: "domodollarbaby"
-    fullname: >-
-      DomoYoMaddy
-    location: "United States"
-    followers: 4348
-    engagement: 1600
-    commentsToLikes: 0.055012
-    id: ck9duq047hhig0j78lbnn98e7
-    verified: false
-    hashtags: "#classmates, #kind, #coemdyindia, #duetthisguys"
+    hashtags: "#fitnesshumor, #garyv, #millenial, #motivation"
 ---

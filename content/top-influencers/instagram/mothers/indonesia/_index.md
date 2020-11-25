@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top mothers Instagram influencers in Indonesia in 2020. Most popular hashtags: #ootd #bali #stayhome #happymothersday.
+  Find top mothers Instagram influencers in Indonesia in 2020. Most popular hashtags: #tiktokindonesia #fashion #dirumahaja.
 platform: Instagram
+hits: 370
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 370 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
+  - username: "yennikristiani"
+    fullname: >-
+      Jouw Yenni Kristiani
+    bio: >-
+      Mother of two @babyjouw 👶🏻👶🏻 Walking in God’s grace. @lifeofpure @cremejkt @cashlessss
+    location: "Indonesia"
+    followers: 42265
+    engagement: 711
+    commentsToLikes: 0.092331
+    id: ck5zskiabyo6p0i14hrvnjpwm
+    verified: false
+    hashtags: "#ootdasian, #simplefits, #flackhofemales, #urbansneakersociety"
   - username: "arumi_ningsih1"
     fullname: >-
-      Arumi ningsih
+      GIVEAWAY - Arumi ningsih
+    bio: >-
+      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com @sociolla disc voucher 50k --> SBN043157
     location: "Indonesia"
-    followers: 34433
-    engagement: 249
-    commentsToLikes: 0.324942
+    followers: 44773
+    engagement: 439
+    commentsToLikes: 0.053561
     id: ck6u0t59qhm2e0j71fn9u5vls
     verified: false
-    hashtags: "#sharingiscaring, #clothes, #acneserum, #aveeno"
-  - username: "dewimarlon"
+    hashtags: "#mynudemood, #beautyblogger, #clozetteid, #mominfluencer"
+  - username: "abigailclie"
     fullname: >-
-      Dewi Sari
+      AURA Clarri
+    bio: >-
+      Game Shoutcaster The Queen Mother of @auraesports
     location: "Indonesia"
-    followers: 166480
-    engagement: 163
-    commentsToLikes: 0.040662
-    id: ck13alfwuqydm0i19pnozexic
+    followers: 36736
+    engagement: 950
+    commentsToLikes: 0.026784
+    id: ck5hhrszj9rg10i11vi8kcnhl
     verified: false
-    hashtags: "#waktuitu, #donat, #masker, #skincareroutine"
-  - username: "hany.sabri"
+    hashtags: "#weekenddealduniagames, #bethefirst, #predatorgaming, #jadilahyangpertama"
+  - username: "emma.1905"
     fullname: >-
-      Hany Sabri
+      Umamul Husen wife 👫
+    bio: >-
+      Mother Of Ammar Zain Husen👶 🌄 Bogor, Indonesia Fabbiayi aala 'i rabbikumaa tukadzdzibaan Channel Youtube Jangan lupa Subcribe ya teman 😍 😎⬇️
     location: "Indonesia"
-    followers: 7198
-    engagement: 1799
-    commentsToLikes: 0.014098
-    id: ck5hd8sfsm48y0i112drlo7bw
+    followers: 8952
+    engagement: 911
+    commentsToLikes: 0.049140
+    id: ckf5nfeyny1hq0j23hryjyuoc
     verified: false
-    hashtags: "#morehambarplease, #justforfunguys, #repostcausewhynot, #sisbudaktiktok"
+    hashtags: ""
   - username: "jaydekemp12"
     fullname: >-
       jaydekemp12
+    bio: >-
+      •I collect tattoos & lingerie •@stronglifter😻💕 •Mother of @happybluestaffy🐶 •🆕 @happyshq •Aspiring lingerie designer💋 • BIKINIS 👙⤵️
     location: "Indonesia"
-    followers: 9303
-    engagement: 743
-    commentsToLikes: 0.033644
+    followers: 9000
+    engagement: 778
+    commentsToLikes: 0.040087
     id: ck5hjgegdgkxt0i11fwbj91ae
     verified: false
-    hashtags: "#gymdaily, #allblackeverything, #luxuryhotel, #ithinkimturningjapanese"
+    hashtags: "#weekendgym, #gymdaily, #allblackoutfit, #sushitime"
   - username: "tiffofili"
     fullname: >-
       Tiffany Porter
+    bio: >-
+      Christian. Wife. Mother. 2 x Olympian (#TeamAdidas ///). Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
     location: "Indonesia"
-    followers: 25274
-    engagement: 176
-    commentsToLikes: 0.060052
+    followers: 26256
+    engagement: 148
+    commentsToLikes: 0.084052
     id: ck5qeiv2b0ph90i115lq1vpx7
     verified: true
-    hashtags: "#motownmuseum, #weareinthistogether, #firstmothersday, #teamporter"
-  - username: "traveltoescapes"
+    hashtags: "#mommyandme, #tokyo2021, #teamadidas, #chichimama"
+  - username: "oliastepanenco"
     fullname: >-
-      ~Travel
+      Olia Stepanenco
+    bio: >-
+      📍🄱🄰🄻🄸 🌕🌖🌗🌘🌑 MOTHER OF👉@style_retreat_bali_shop 🅢🅣🅨🅛🅘🅢🅣 🅟🅔🅡🅢🅞🅝🅐🅛 🅢🅗🅞🅟🅟🅔🅡 🅒🅞🅝🅣🅔🅝🅣 🅜🅐🅝🅐🅖🅔🅡
     location: "Indonesia"
-    followers: 23460
-    engagement: 232
-    commentsToLikes: 0.046660
-    id: ck5zu2ibg1k5f0i14id81i7c8
+    followers: 32387
+    engagement: 206
+    commentsToLikes: 0.051865
+    id: ck6tv2kzujtba0j71qzwqcl2v
     verified: false
-    hashtags: "#beautifuldestinations, #bloggertravel, #blacktravels, #photography"
-  - username: "jazzy.la.travel.mama"
+    hashtags: ""
+  - username: "stephbaier"
     fullname: >-
-      Travel and Motherhood
+      Steph Baier | Bali Model
+    bio: >-
+      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
     location: "Indonesia"
-    followers: 18064
-    engagement: 285
-    commentsToLikes: 0.204407
-    id: ck5ci1zvprv0c0i11a9vh22wt
+    followers: 6001
+    engagement: 642
+    commentsToLikes: 0.045244
+    id: ck8syl5qql5jw0j781h8foqv1
     verified: false
-    hashtags: "#hotelreview, #styleinspo, #toddlerdrinks, #muminspo"
-  - username: "agathasahell"
+    hashtags: ""
+  - username: "alandakariza"
     fullname: >-
-      Ａｇａｔｈａ☽
+      
+    bio: >-
+      mother // @bearrito.jkt // @advis.lab // @amameicecream
     location: "Indonesia"
-    followers: 20839
-    engagement: 426
-    commentsToLikes: 0.018027
-    id: ck6uca1hfedrv0j71wwi2biq3
+    followers: 25252
+    engagement: 299
+    commentsToLikes: 0.028253
+    id: ck15tgs3ni07e0i19zlw2oru0
     verified: false
-    hashtags: "#earthday, #haveagoodweekend, #quarantineandchill, #eidmubarak"
-  - username: "farwalikazmi"
+    hashtags: "#sennapartydisenoparty, #acesemarakakhirtahun, #tbt, #belanjatenang"
+  - username: "yasminehany"
     fullname: >-
-      Farwa Ali
+      YASMINE HANY
+    bio: >-
+      Better oops than what if Mother agency @unnmodels Founder of @shopthesol 📍Cairo, Egypt
     location: "Indonesia"
-    followers: 32307
-    engagement: 148
-    commentsToLikes: 0.030868
-    id: ck0w2bv48nktp0i19wtcdverb
+    followers: 14996
+    engagement: 992
+    commentsToLikes: 0.009910
+    id: ck600rh0ve4t50i14zgbarfzh
     verified: false
-    hashtags: "#bali, #meat20challenge, #savage, #staypositive"
-  - username: "tantrinamirah"
-    fullname: >-
-      Tantri Namirah
-    location: "Indonesia"
-    followers: 391760
-    engagement: 259
-    commentsToLikes: 0.008450
-    id: ck5hprqb2ruzy0i116j0e2dyw
-    verified: true
-    hashtags: "#yukminumteh, #loveinspades, #lumineathome, #semangatramadan"
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2020
 description: >-
-  Find top home decor TikTok influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #amazonfinds #happyathome #may4th.
+  Find top home decor TikTok influencers in Las Vegas in 2020. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
 platform: TikTok
+hits: 11
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 11 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
-  - username: "macy.blackwell"
+  - username: "anastasiacro"
     fullname: >-
-      macy.blackwell
+      Anastasia Strizhanova
+    bio: >-
+      Handbalancer🤸Circus child🎪📍Las Vegas, NV📍 Business: anastasiastrij@gmail.com
     location: "United States"
-    followers: 39659
-    engagement: 342
-    commentsToLikes: 0.025485
-    id: ck81q7z0tgo6f0j782ck64wyv
-    verified: false
-    hashtags: "#renegadedance, #nightout, #princessparty, #weightloss"
-  - username: "chelseyswesternvibes"
+    followers: 747000
+    engagement: 1508
+    commentsToLikes: 0.014074
+    id: ck81s8e99qsc50j78exn7o8xx
+    verified: true
+    hashtags: "#dance, #foryou, #feature, #recommendations"
+  - username: "jessiethomasdesigns"
     fullname: >-
-      chelseyswesternvibes
+      DIY & Design
+    bio: >-
+      🌷Everything Home🌷 DIY’s•HomeDecor•Garden To shop my home clink the link below
     location: "United States"
-    followers: 10804
-    engagement: 644
-    commentsToLikes: 0.020177
-    id: ck9n95jxm96kr0j788wxg78cq
+    followers: 26900
+    engagement: 459
+    commentsToLikes: 0.045099
+    id: ckb9j7spiacq80j23qrxld8wr
     verified: false
-    hashtags: "#amazonmusthaves, #utahliving, #makeupchallenge, #countrygirl"
-  - username: "falenkdwb"
+    hashtags: "#beforeandafter, #halloweendecorations, #halloween2020, #halloweencountdown"
+  - username: "michiventures"
     fullname: >-
-      FalenKDWB
+      michiventures
+    bio: >-
+      Traveler, comedian, hiker, the whole package
     location: "United States"
-    followers: 3411
-    engagement: 454
-    commentsToLikes: 0.027428
-    id: ck95z2grrcmug0j781dy0jywq
+    followers: 16400
+    engagement: 1405
+    commentsToLikes: 0.029858
+    id: ck8w3021b6w5j0j78navygw2h
     verified: false
-    hashtags: "#genius, #thicc, #canttouch, #singtijingle"
-  - username: "timmyhanlon"
+    hashtags: "#foryou, #fyp, #lasvegas, #vegas"
+  - username: "dongkyuverymuch"
     fullname: >-
-      Timmy Hanlon
+      dongkyuverymuch
+    bio: >-
+      🦷DS2 at UNLV School of Dental Medicine Follow me on IG: @dongkyuverymuch
     location: "United States"
-    followers: 4800
-    engagement: 806
-    commentsToLikes: 0.028422
-    id: ck8f8vyvn3orc0j7831ayl1ob
+    followers: 17800
+    engagement: 637
+    commentsToLikes: 0.016818
+    id: cka0n9mc8yq4n0i784nef2n0t
     verified: false
-    hashtags: "#supalonely, #diyshelf, #homedesign, #goldendoodles"
-  - username: "pawcreate"
+    hashtags: "#foodie, #vegasfood, #kingcrab, #lasvegas"
+  - username: "mollyannhouston"
     fullname: >-
-      PawCreate
+      mollyannhouston
+    bio: >-
+      Just a mom , escaping facebook & instagram
     location: "United States"
-    followers: 16109
-    engagement: 2314
-    commentsToLikes: 0.040179
-    id: ck8hrxp9fargu0j787p57ln5n
+    followers: 7709
+    engagement: 948
+    commentsToLikes: 0.061556
+    id: ckb9hdpq26zsp0j23gtvmrvm1
     verified: false
-    hashtags: "#happymothersday, #doglover, #portrait, #petlove"
-  - username: "keepitpushinwoodwork"
+    hashtags: "#doitbold, #inspo, #lol, #decor"
+  - username: "suhenna_creations"
     fullname: >-
-      KeepItPushinWoodwork
+      suhenna_creations
+    bio: >-
+      weekly ig giveaways just for following @suhenna_creations // suhenna.com shop ⬇️
     location: "United States"
-    followers: 8570
-    engagement: 1961
-    commentsToLikes: 0.103614
-    id: ck8sawf5r42650j78w0qkfdtm
+    followers: 282000
+    engagement: 2294
+    commentsToLikes: 0.011285
+    id: ckbw3nxaux85a0j235kvsvmbu
     verified: false
-    hashtags: "#keeppushing, #chef, #almostdone, #happyathome"
-  - username: "wildandfreepeople"
+    hashtags: "#bartender, #draw, #yum, #fresh"
+  - username: "itsagracebigworld"
     fullname: >-
-      Madi Diesel
+      Grace Zantua
+    bio: >-
+      Filipina California B.S. Hospitality Management DIY Enthusiast
     location: "United States"
-    followers: 214102
-    engagement: 1696
-    commentsToLikes: 0.038144
-    id: ck90xyynx8lii0j788yym9qmn
+    followers: 12600
+    engagement: 1000
+    commentsToLikes: 0.038925
+    id: ckbfgr4luc1ja0j23rdvi34bs
     verified: false
-    hashtags: "#tigereye, #labradorite, #crystalhearts, #coffeetime"
-  - username: "kevskrafts.com"
+    hashtags: "#filipino, #diyproject, #fyp, #tiktokartist"
+  - username: "rolitacouture"
     fullname: >-
-      kevskrafts
+      Rolita Couture
+    bio: >-
+      SEXY HAS NO SIZE 💃🏽 ✂️Rave Fashion & body positivity 🛍 Shop⬇️
     location: "United States"
-    followers: 2452
-    engagement: 1134
-    commentsToLikes: 0.074408
-    id: ck8vuszs9jyz20j78tn6m1ogq
+    followers: 46800
+    engagement: 1482
+    commentsToLikes: 0.030948
+    id: ck8qnxy4fwk480j78h5eek76h
     verified: false
-    hashtags: "#cuda, #chevyc10, #husky, #projecttruck"
-  - username: "melissafrusco"
+    hashtags: "#streetwear, #ravewear, #sewing, #streetfashion"
+  - username: "dawsonwilldoit"
     fullname: >-
-      Melissa Frusco
+      Dawson Featherstone
+    bio: >-
+      Originally knows as CovidBoys Venmo - DawsonFeather
     location: "United States"
-    followers: 164780
-    engagement: 1041
-    commentsToLikes: 0.030405
-    id: ck8kewn6tb9ei0j7897digvla
+    followers: 3584
+    engagement: 1044
+    commentsToLikes: 0.050019
+    id: ckbezsujtl5qm0j235xnmkwel
     verified: false
-    hashtags: "#loungewear, #howtocurlhair, #howtowear, #alwayslearning"
-  - username: "chloesdesign"
+    hashtags: "#tubing, #covid19, #cliffjumping, #trump2020"
+  - username: "tictoclikeaclock"
     fullname: >-
-      chloe's design
+      Michael 
+    bio: >-
+      can we get to 40K? Leave a comment, I’ll reply:)
     location: "United States"
-    followers: 483613
-    engagement: 1548
-    commentsToLikes: 0.020029
-    id: ck81q7rl2gmgw0j78v3nbglas
+    followers: 35700
+    engagement: 700
+    commentsToLikes: 0.024949
+    id: cka89q4xyg0060i78bbotaurp
     verified: false
-    hashtags: "#greenvspurple, #bedroomdesign, #studyroom, #bathroom"
+    hashtags: "#f150, #makemoney, #foryou, #money"
 ---

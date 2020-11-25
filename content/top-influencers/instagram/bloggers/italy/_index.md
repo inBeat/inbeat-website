@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Italy In 2020
 description: >-
-  Find top bloggers Instagram influencers in Italy in 2020. Most popular hashtags: #nature #blogger #quarantinelife #viaggiare.
+  Find top bloggers Instagram influencers in Italy in 2020. Most popular hashtags: #italy #travelblogger #memories.
 platform: Instagram
+hits: 933
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 933 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "adi__ina"
-    fullname: >-
-      𝑨𝒅𝒊𝒏𝒂’𝒔 𝑴𝒂𝒈𝒊𝒄𝒂𝒍 𝑬𝒅𝒊𝒕𝒔 ✨
-    location: "Italy"
-    followers: 8624
-    engagement: 1553
-    commentsToLikes: 0.237843
-    id: ck8t5ssvsb4am0j78mim6re1r
-    verified: false
-    hashtags: "#beautygiveaway, #imaginative, #oradea, #instaromania"
-  - username: "vatalaromonica"
-    fullname: >-
-      Monica Vatalaro
-    location: "Italy"
-    followers: 22686
-    engagement: 905
-    commentsToLikes: 0.065678
-    id: ck9wdvymfhifj0j78lnpd1god
-    verified: false
-    hashtags: "#hair, #feetmodel, #piedini, #coronavirus"
   - username: "bonaldiconcetta"
     fullname: >-
       Concetta Bonaldi
+    bio: >-
+      •Journalist •TV•Beauty&Fashion Blogger • 📍Alta Badia - Milano • @luiespresso ambassador • @beatotemilano ambassador
     location: "Italy"
-    followers: 79007
-    engagement: 1067
-    commentsToLikes: 0.064535
+    followers: 140086
+    engagement: 781
+    commentsToLikes: 0.062114
     id: ckaoyj912hp6o0i78d6n73bt3
     verified: false
-    hashtags: "#fase3, #alliesoftheplanet, #ichbleibezuhause, #mochi"
+    hashtags: ""
+  - username: "inshitamittal"
+    fullname: >-
+      Inshita Mittal
+    bio: >-
+      Dental surgeon & Cosmetologist 👩‍⚕️ Insta blogger Email for collaboration/promotion 📧📩 New Delhi,India 📍
+    location: "Italy"
+    followers: 93569
+    engagement: 617
+    commentsToLikes: 0.078596
+    id: ck137psmbcrix0i198ex2bnvw
+    verified: false
+    hashtags: "#indiafightscorona, #coronatime, #is, #positivevibes"
   - username: "cinzia_bernasconi"
     fullname: >-
       Wanderlust-Connection
+    bio: >-
+      Travel blogger 🧳 38 Countries 🌏 4 Continents ❌ Photography lover 📸 Want to travel more? ✈️
     location: "Italy"
-    followers: 5034
-    engagement: 3094
-    commentsToLikes: 0.068655
+    followers: 9814
+    engagement: 1793
+    commentsToLikes: 0.056554
     id: ck0w7231ebdqw0i198cyaqvh0
     verified: false
-    hashtags: "#colorful, #colors, #springiscoming, #landscapehunter"
+    hashtags: "#visitperu, #discoverperu, #lagotiticaca, #inkaddict"
+  - username: "_alessiodinapoli_"
+    fullname: >-
+      Alessio Di Napoli
+    bio: >-
+      Vivi la vita sorridendo💡🗝 #blogger #actor #lovetattoo 📍 roma , italy 🇮🇹 📧: alessiodinapoli27@libero.it
+    location: "Italy"
+    followers: 52065
+    engagement: 3121
+    commentsToLikes: 0.037305
+    id: ck9wgsdclus5x0j78ieil73gs
+    verified: false
+    hashtags: "#sempreuniti"
+  - username: "barbarapipino_official"
+    fullname: >-
+      BARBARA PIPINO 𝗙𝗮𝘀𝗵𝗶𝗼𝗻 𝘀𝘁𝘆𝗹𝗲
+    bio: >-
+      🌁 📍 Based in Milan 🛍️✈️ Fashion & travel blogger 🧵🧷 Style consultant 🖊️📸 Un blog, tante idee 🗃️💍 Collaborazione con @missunoshop
+    location: "Italy"
+    followers: 9971
+    engagement: 995
+    commentsToLikes: 0.749294
+    id: ckf5x14wktzl20j23f8ztg7ms
+    verified: false
+    hashtags: ""
   - username: "alessandrabuonamici"
     fullname: >-
       Alessandra | Travel Blogger
+    bio: >-
+      Looking for new talents #humanresources 💼 Looking for new adventures #travel 🌎 💻 Travel blogger: @mytraveleatrepeat 💌 alessandra.buonamici@hotmail.it
     location: "Italy"
-    followers: 13679
-    engagement: 968
-    commentsToLikes: 0.103981
+    followers: 15014
+    engagement: 824
+    commentsToLikes: 0.134408
     id: ck14i3phwdhn40i19int756xe
     verified: false
-    hashtags: "#immuderm, #andr, #iorestoacasa, #andratuttlbene"
-  - username: "vcrocitti"
+    hashtags: "#lasvegasstrip, #passportlife, #sicilia, #alohacare"
+  - username: "robipetrus"
     fullname: >-
-      Veronica Crocitti
+      Roby🍝|Puglia Foodie |Tours🇮🇹®️
+    bio: >-
+      Airbnb Experience Host 😎🍕🍷🚘🏖️ Tour guide by day 🛵 Blogger at night🌜 Cook always 👨🏻‍🍳 Travel South Italy |Eat Good Food|Take Fun Photos @pugliain500
     location: "Italy"
-    followers: 32135
-    engagement: 513
-    commentsToLikes: 0.180199
-    id: ckaozmz7ymkio0i78xzf26jnc
+    followers: 10742
+    engagement: 1431
+    commentsToLikes: 0.087467
+    id: ck9wf3eu1n3zu0j786zu0aft4
     verified: false
-    hashtags: "#wadirumdesert, #portogallo, #amazzonia, #stayhealth"
-  - username: "valentina.fitmum"
+    hashtags: "#instasouth, #italians, #monopoli, #puglialovers"
+  - username: "fede_miceli"
     fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
+      Federica Miceli
+    bio: >-
+      ☀️ Siciliana innamorata del mondo 💙 Amo il mare, i viaggi, il caffè Social Media Strategist & Travel Blogger Progetti @igers_sicilia_ @italiaintavola
     location: "Italy"
-    followers: 6468
-    engagement: 1900
-    commentsToLikes: 0.244250
-    id: ck5zshjxzyibf0i14l9nnc87z
+    followers: 11111
+    engagement: 733
+    commentsToLikes: 0.115509
+    id: ck138xqjwijjk0i193hm071lr
     verified: false
-    hashtags: "#viaggio, #sportgirl, #fitbreakfast, #mare"
-  - username: "suarezmodel"
+    hashtags: "#iamatraveller, #browsingitaly, #siciliabedda, #blogdiviaggi"
+  - username: "sasssa90"
     fullname: >-
-      PAOLA SUAREZ 👗💄👠
+      Alessandra | Easy Girl
+    bio: >-
+      📸 Content creator 🌺 Fashion | Beauty| Lifestyle 🏠 Home Decor Lover 🇮🇹 #Reggiocalabria 📖 Blogger coming soon..
     location: "Italy"
-    followers: 14856
-    engagement: 805
-    commentsToLikes: 0.950289
-    id: ck138c5g5fifp0i19q6jmoekv
+    followers: 31575
+    engagement: 383
+    commentsToLikes: 0.096763
+    id: ck6tqw9ccuwww0j71bguvmdbi
     verified: false
-    hashtags: "#giveaway, #giveawaycontest, #givemeagive, #giveawayitalia"
-  - username: "ll_smart_rahul_1581_ll"
+    hashtags: "#ootdfashioninspiration, #inspogoalsz, #ootdfashionista, #ootdinspiration"
+  - username: "charlotte_m_29"
     fullname: >-
-      🔹🔷🔴Rahul Chaudhari🔵🔶🔸
+      Charlotte M.🌸
+    bio: >-
+      •Influencer💘tik tok:charlottebbasta •Model🌹charlotte@the-talent-lab.com •Blogger📷730k subscribers ULTIMO VIDEO⬇️YouTube:Charlotte M.
     location: "Italy"
-    followers: 16434
-    engagement: 1957
-    commentsToLikes: 0.077381
-    id: ck9hbo8ebhq070j78cpvoyqat
+    followers: 94088
+    engagement: 1237
+    commentsToLikes: 0.019312
+    id: ck8t352pp1w8v0j786765bkgn
     verified: false
-    hashtags: "#blacklover, #blue, #eveningclick, #follow"
-  - username: "grace_theamazing"
-    fullname: >-
-      Grace ⭐ Instagram strategist
-    location: "Italy"
-    followers: 24218
-    engagement: 1006
-    commentsToLikes: 0.572301
-    id: ck600qp25e3bj0i14aa8p76d8
-    verified: false
-    hashtags: "#scriverechepassione, #imprenditricifelici, #coraggio, #scrittura"
+    hashtags: "#lolsurpriseremix, #adv, #manicure, #sjever"
 ---

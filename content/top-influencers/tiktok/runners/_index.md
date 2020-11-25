@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners TikTok Influencers In 2020
 description: >-
-  Find top runners TikTok influencers in 2020. Most popular hashtags: #inthehouseparty #littlethings #viral #may4th.
+  Find top runners TikTok influencers in 2020. Most popular hashtags: #duet #fyp #tiktok #foryou.
 platform: TikTok
+hits: 316
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 316 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "chadddyboi"
+  - username: "nativewomanruns"
     fullname: >-
-      Chad Hughes
+      NativeWomanRuns
+    bio: >-
+      Navajo, Runner, Nature Seeker, MMIW advocate. Wandering on TikTok😂 $VV7400
     location: "United States"
-    followers: 20229
-    engagement: 2487
-    commentsToLikes: 0.047286
-    id: ck92tyw8jjzz80j78cj8s5esy
+    followers: 120200
+    engagement: 2232
+    commentsToLikes: 0.047058
+    id: ckbqudw5peufv0j238rg7bn4w
     verified: false
-    hashtags: "#thinking, #homeroutine, #meme, #gotthisforyou"
-  - username: "lucieng4"
+    hashtags: "#nativetiktoks, #bidenharris2020, #navajoforbiden, #nativeamericanheritagemonth"
+  - username: "ana_mana_pia"
     fullname: >-
-      Lucien G
+      Anna Banana
+    bio: >-
+      Mom. Wife. Runner. True crime enthusiast and wine consumer Anjcainer@gmail.com
     location: "United States"
-    followers: 112854
-    engagement: 3628
-    commentsToLikes: 0.024785
-    id: ck8p00izielhw0j789kd949kj
+    followers: 75200
+    engagement: 1565
+    commentsToLikes: 0.075500
+    id: ckb9v6l5puaqp0j2329aw7f5t
     verified: false
-    hashtags: "#yearbook2020, #alwayslearning, #littlethings, #apush"
-  - username: "pritipriyapritipr"
+    hashtags: "#duet, #over30, #botabox, #momsoftiktok"
+  - username: "shakeercheerayi"
     fullname: >-
-      Pritipriya Pritipriy
-    location: "India"
-    followers: 434048
-    engagement: 1671
-    commentsToLikes: 0.015299
-    id: ck9tu9abykc1q0j78t2yqe8br
+      Shakeer Cheerayi
+    bio: >-
+      shakeer cheerayi. Am Marathon Runner #Qatar #Doha#Running my passion #🥰🥰🥰🥰😍
+    location: "Qatar"
+    followers: 6129
+    engagement: 2108
+    commentsToLikes: 0.298576
+    id: ckdbg53cp85id0j238v7blxfr
     verified: false
-    hashtags: "#god, #jete, #drafts, #dharm"
-  - username: "avedarave"
+    hashtags: "#viral, #bahrain, #doh, #kind"
+  - username: "user2448southerngal"
     fullname: >-
-      Avery Bartlett
+      Michelle Campos
+    bio: >-
+      Runner, conservationist. Facebook and Instagram as Michelle Campos
     location: "United States"
-    followers: 108966
-    engagement: 2141
-    commentsToLikes: 0.005282
-    id: ck9fowg9b4my10j78ups4xozo
+    followers: 5019
+    engagement: 1390
+    commentsToLikes: 0.163689
+    id: ckdck9civmabq0j230vmhjzcr
     verified: false
-    hashtags: "#homeworkout, #fashion, #espn, #teamusa"
-  - username: "bark__"
-    fullname: >-
-      bark
-    location: "United States"
-    followers: 88239
-    engagement: 1174
-    commentsToLikes: 0.063120
-    id: cka0vd9lvxzil0i78gooqroyy
-    verified: false
-    hashtags: "#satisfya, #keepingbusy, #vote, #golftrickshot"
+    hashtags: "#duet, #biden2020, #greenscreensticker, #greenscreen"
   - username: "that1haleygirl"
     fullname: >-
       That1Haleygirl
+    bio: >-
+      18+ Down188 lbs Runner ❤️ Cat lady 🐾 Arkansas
     location: "United States"
-    followers: 32734
-    engagement: 1096
-    commentsToLikes: 0.027395
+    followers: 41500
+    engagement: 1750
+    commentsToLikes: 0.045338
     id: ck9r3vqccs5pn0j78x3eo4z4g
     verified: false
-    hashtags: "#socialanxiety, #goalcrusher, #guilty, #cats"
-  - username: "dyetta"
+    hashtags: "#sahm, #boymom, #momlife, #millennial"
+  - username: "tylergabrielle22"
     fullname: >-
-      Donyetta Edwards
+      Cool Mom
+    bio: >-
+      Actor, Mom, Hiker, Animal lover, Runner Venmo @Tyler-Gabrielle22
     location: "United States"
-    followers: 7478
-    engagement: 929
-    commentsToLikes: 0.089143
-    id: cka9m457h3ram0i78lv3uvff2
+    followers: 22300
+    engagement: 1094
+    commentsToLikes: 0.062401
+    id: ckamqn5koi4fc0i78zo7p3y5x
     verified: false
-    hashtags: "#makeover, #rude, #workbestie, #viral"
-  - username: "mahalaxmi2241"
+    hashtags: "#fyp, #together, #lgbt, #duet"
+  - username: "chadddyboi"
     fullname: >-
-      mahalaxmi
-    location: "India"
-    followers: 4520
-    engagement: 1669
-    commentsToLikes: 0.011706
-    id: ck933w6xwq08n0j78lhoi2lp0
-    verified: false
-    hashtags: "#foryoupage, #champibeats, #mahalakshmi, #repost"
-  - username: "greatguynumber1"
-    fullname: >-
-      Ryan Parmenter 
+      Chad Hughes
+    bio: >-
+      🌲Oregon🌲 Runner/Hooper Jus tryna get hype 30k?
     location: "United States"
-    followers: 148858
-    engagement: 1024
-    commentsToLikes: 0.182889
-    id: ck981sy64d2v60j78ebcgtya8
-    verified: true
-    hashtags: "#duetcomedy, #scavengerhunt, #killallmen, #valariahearts"
-  - username: "life_full_of_lemon"
-    fullname: >-
-      Maura Lemon
-    location: "United States"
-    followers: 2748
-    engagement: 725
-    commentsToLikes: 0.039247
-    id: ckaiat0omdn2a0i78ge4916eh
+    followers: 25700
+    engagement: 2679
+    commentsToLikes: 0.048787
+    id: ck92tyw8jjzz80j78cj8s5esy
     verified: false
-    hashtags: "#lemon, #notforyou, #classroom, #storytime"
+    hashtags: "#summerofgaming, #girls, #fyp, #cutie"
+  - username: "nancykas"
+    fullname: >-
+      Nancy  Kas
+    bio: >-
+      Hola, soy Nancy 🍎 Mtra, Runner y Divertida👌 Sígueme en instagram @nancy_kas
+    location: "Mexico"
+    followers: 33800
+    engagement: 2222
+    commentsToLikes: 0.042640
+    id: ck9ev8bfxh5f50j7836puagci
+    verified: false
+    hashtags: "#covid19, #diademuertos, #edutok, #parati"
+  - username: "beatles_queen1"
+    fullname: >-
+      Saya (Yarbo) 🍞🐢💖
+    bio: >-
+      Ringo Starr cosplay✌️💖 The Beatles, Queen, Maze Runner, Haikyuu meh 😩😂
+    location: "United States"
+    followers: 8271
+    engagement: 1697
+    commentsToLikes: 0.041377
+    id: ckb9sgxnwpsa40j23npfpgb0b
+    verified: false
+    hashtags: "#haikyuu, #anime, #dance, #johnlennon"
+  - username: "thephilstubbs"
+    fullname: >-
+      phil
+    bio: >-
+      ceo of being late to trends 📉 runner 🏃‍♂️ web developer 👩‍💻 christian ✝️
+    location: "United States"
+    followers: 5113
+    engagement: 1291
+    commentsToLikes: 0.065659
+    id: cka0ppxc29d610i787bqpz4q7
+    verified: false
+    hashtags: "#halloween, #programmerlife, #spookyseason, #nflmemes"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Greece In 2020
 description: >-
-  Find top food TikTok influencers in Greece in 2020. Most popular hashtags: #food #greek #funny #houseoftiktok.
+  Find top food TikTok influencers in Greece in 2020. Most popular hashtags: #fyp #tiktok #food #greece.
 platform: TikTok
+hits: 18
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 18 TikTok influencers like this in Greece for you to work with.
 profiles:
-  - username: "__annaaaa_"
+  - username: "grigoris.apostolou"
     fullname: >-
-      _Annaaaa_
+      Γρηγόρης Αποστόλου
+    bio: >-
+      Private Chef 👨‍🍳 Menu Developer 📜 Food Blogger 🍽 Sushi 🍣 Italian 🍝
     location: "Greece"
-    followers: 3727
-    engagement: 3688
-    commentsToLikes: 0.065378
-    id: cka9lhnlg253w0i784zo7tjqw
+    followers: 2590
+    engagement: 626
+    commentsToLikes: 0.042303
+    id: ckb9kyvp6d73h0j23r46aw7mx
     verified: false
-    hashtags: "#lacacasadepapel, #challenge, #gilbertblythe, #bestfriend"
+    hashtags: "#houseoftiktok, #menoumekouzina, #foodporn, #menoumespiti"
   - username: "akis_petretzikis"
     fullname: >-
       Akis Petretzikis
+    bio: >-
+      Greek chef addicted to food and fun 😎
     location: "Greece"
-    followers: 134777
-    engagement: 712
-    commentsToLikes: 0.014355
+    followers: 155800
+    engagement: 780
+    commentsToLikes: 0.013943
     id: ckafud5vn9wye0i787geov7ga
     verified: true
-    hashtags: "#oldme, #thesquad, #tiktokpoll, #santa"
+    hashtags: "#christmas, #video, #funny, #chef"
   - username: "faymantzik"
     fullname: >-
       Fay Mantzika
+    bio: >-
+      I mainly obsess over car rides, dogs, skies, the moon and food.
     location: "Greece"
-    followers: 2210
-    engagement: 648
-    commentsToLikes: 0.020037
+    followers: 2335
+    engagement: 694
+    commentsToLikes: 0.016956
     id: ck9euj2kodu6a0j78l9bg0vdj
     verified: false
-    hashtags: "#greekislands, #snowboard, #colors, #summer"
-  - username: "lennertwolfs"
+    hashtags: "#athens, #viral, #foryou, #fyp"
+  - username: "limechili"
     fullname: >-
-      DJ Lennert Wolfs 
+      Prammatias_Ck
+    bio: >-
+      🌶 GreekChef 🌶 ASMR videos CEO OF This is the result! ⬇️ SUB to my YT
     location: "Greece"
-    followers: 9361
-    engagement: 1140
-    commentsToLikes: 0.063023
-    id: ck8ae2u5k9bn10j78tewnsm1r
+    followers: 185000
+    engagement: 996
+    commentsToLikes: 0.017184
+    id: ckauptv6zuxg50j23k71ny0k6
     verified: false
-    hashtags: "#90schallenge, #smartschool, #fliptheswitch, #dog"
-  - username: "alexiaaxb"
+    hashtags: "#saladtime, #cookme, #uk, #24"
+  - username: "chloexlifestyle"
     fullname: >-
-      Λέξιι <3
+      𝔠 𝔥 𝔩 𝔬 𝔢 🐉
+    bio: >-
+      stay positive bro :) 📧chloexlifestyle@gmail.com only for business collabs👆🏻
     location: "Greece"
-    followers: 7505
-    engagement: 1987
-    commentsToLikes: 0.027323
-    id: ck9euj13ldtrz0j78kfuzkx88
+    followers: 2693
+    engagement: 3440
+    commentsToLikes: 0.179115
+    id: ckbabf7fe40gn0j231a599f8n
     verified: false
-    hashtags: "#allergies, #funny, #zycxba, #lmao"
-  - username: "chriskogias"
+    hashtags: "#houseoftiktok, #viral, #closeup, #glossier"
+  - username: "eleonora_gk"
     fullname: >-
-      kogiasxristos
+      🏝 Eleonora 🏝
+    bio: >-
+      🇬🇷 Greek 🐶 Mother of Romeo Instagram • @eleonora_gk Youtube • Eleonora 💜_💜
     location: "Greece"
-    followers: 60533
-    engagement: 1116
-    commentsToLikes: 0.028504
-    id: ckafu2dkq8d4n0i78u2y1mqpq
+    followers: 51100
+    engagement: 1769
+    commentsToLikes: 0.016484
+    id: ckcp8xffbe4u00j23hp4ea068
     verified: false
-    hashtags: "#diet, #hiitworkout, #nutrition, #sideeffects"
+    hashtags: "#comedy, #happy, #greektv, #dogsoftiktok"
   - username: "anwarnzamba"
     fullname: >-
       Anwar N. Zamba
+    bio: >-
+      Natural born Dreamer Lucid Lifestyle 👨🏾‍🎨•|•🧙🏾‍♂️
     location: "Greece"
-    followers: 10197
-    engagement: 339
-    commentsToLikes: 0.191211
+    followers: 11200
+    engagement: 456
+    commentsToLikes: 0.133562
     id: cka0wpy3i3xya0i7887jvvetx
     verified: false
-    hashtags: "#train, #fire, #hack, #musictok"
-  - username: "katemeets"
+    hashtags: "#questiontok, #zambamedia, #zamba, #raptok"
+  - username: "loukiasioupi"
     fullname: >-
-      Catherine Livieratos
+      Loukia Sioupi
+    bio: >-
+      Fashion design-styling
     location: "Greece"
-    followers: 11773
-    engagement: 1080
-    commentsToLikes: 0.031372
-    id: ck9dwvntfqrqx0j784cqfsf11
+    followers: 11300
+    engagement: 596
+    commentsToLikes: 0.030806
+    id: cka84j8bdu2vk0i78vm9fmjkd
     verified: false
-    hashtags: "#visitgreece, #thermalspa, #100k, #foryoupge"
-  - username: "fosbloque"
+    hashtags: "#iliaspsinakis, #funny, #psinakis, #fanislabropoulos"
+  - username: "lennertwolfs"
     fullname: >-
-      FOSBLOQUE
+      DJ Lennert Wolfs 
+    bio: >-
+      DJ / VLOGGER from🇧🇪 🔥🎧 played at Tomorrowland NIEUWE VLOG ONLINE:
     location: "Greece"
-    followers: 26057
-    engagement: 1486
-    commentsToLikes: 0.015993
-    id: ck9e3fiodj7sh0j78ym6vli5y
+    followers: 11200
+    engagement: 1045
+    commentsToLikes: 0.035804
+    id: ck8ae2u5k9bn10j78tewnsm1r
     verified: false
-    hashtags: "#coronatime, #sketch, #tiktokgreece, #foodies"
-  - username: "arvaofficial"
+    hashtags: "#belgie, #djmix, #dj, #remix"
+  - username: "fipsterr"
     fullname: >-
-      ARVA
+      Fipsterr
+    bio: >-
+      I don’t know what I’m doing here! 🤷🏼‍♂️ From Greece🇬🇷
     location: "Greece"
-    followers: 32411
-    engagement: 968
-    commentsToLikes: 0.018558
-    id: ck9jx7oyuzjot0j789h58357i
+    followers: 15300
+    engagement: 753
+    commentsToLikes: 0.015324
+    id: ckb9iwggy9m8i0j2389675xhj
     verified: false
-    hashtags: "#rooftop, #porsche, #piano, #sushi"
+    hashtags: "#greektiktok, #fyp, #foru, #forupage"
 ---

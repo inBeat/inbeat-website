@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers TikTok Influencers In Vancouver In 2020
 description: >-
-  Find top photographers TikTok influencers in Vancouver in 2020. Most popular hashtags: #earthday #covid19 #positivevibes #waterfall.
+  Find top photographers TikTok influencers in Vancouver in 2020. Most popular hashtags: #canada #photographer #fyp #vancouver.
 platform: TikTok
+hits: 16
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 16 TikTok influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
   - username: "itsbigben"
     fullname: >-
       Ben Prescott
+    bio: >-
+      Adventure lifestyle photographer Vancouver BC Canada IG: @itsbigben 415k
     location: "Canada"
-    followers: 16861
-    engagement: 1242
-    commentsToLikes: 0.015580
+    followers: 18500
+    engagement: 1239
+    commentsToLikes: 0.017031
     id: ck8f7uvyj38he0j786408yee9
     verified: false
-    hashtags: "#landrover, #iceland, #missionbc, #fypchallenge"
+    hashtags: "#canada, #vancouver, #britishcolumbia, #foryou"
+  - username: "jasminmccarthyy"
+    fullname: >-
+      Jasmin McCarthy
+    bio: >-
+      IG: @jasminmccarthyy ♡ Inquiries → jasmin.mccarthy3@gmail.com Travel/Lifestyle
+    location: "Canada"
+    followers: 57400
+    engagement: 1056
+    commentsToLikes: 0.051674
+    id: ck9k8ip7098kx0j78ne1rqwrk
+    verified: false
+    hashtags: "#banff, #canadian, #alberta, #canadiangirl"
   - username: ".tyler.mckay"
     fullname: >-
       Tyler McKay
+    bio: >-
+      Photographer // Having fun 📍Vancouver, Canada 🇨🇦 ⬇️My better account ⬇️
     location: "Canada"
-    followers: 191079
-    engagement: 1059
-    commentsToLikes: 0.008526
+    followers: 256800
+    engagement: 1495
+    commentsToLikes: 0.008637
     id: ck8072997o35j0j78evg2tncw
     verified: false
-    hashtags: "#creative, #cleaningszn, #carphoto, #ride"
-  - username: "ben.glassco"
-    fullname: >-
-      Ben Glassco Photo
-    location: "Canada"
-    followers: 7279
-    engagement: 979
-    commentsToLikes: 0.046141
-    id: ckammxh502g7q0i78cua0ypgg
-    verified: false
-    hashtags: "#seatosky, #surprise, #reflection, #fishing"
-  - username: "joshmcca"
-    fullname: >-
-      Josh Mccabe
-    location: "Canada"
-    followers: 2912
-    engagement: 1036
-    commentsToLikes: 0.044111
-    id: ck9rgyu1wd5ji0j7851tdfzzj
-    verified: false
-    hashtags: "#hikechallenge, #morainelake, #bucketlist, #ocean"
+    hashtags: "#banff, #dohashtagsevenwork, #sideoftiktok, #nofilter"
   - username: "therichardkelly"
     fullname: >-
       Richard Kelly
+    bio: >-
+      Tiktok bio
     location: "Canada"
-    followers: 32100
-    engagement: 1106
-    commentsToLikes: 0.034148
+    followers: 34400
+    engagement: 1097
+    commentsToLikes: 0.037314
     id: ck9gklkp7jtmj0j78lvgbgs7d
     verified: false
-    hashtags: "#sidehustle, #boredathome, #calm, #summertime"
-  - username: "cole.lundberg"
+    hashtags: "#christian, #christiantiktok, #canada, #duet"
+  - username: "nickynonis"
     fullname: >-
-      Cole Lundberg
+      Nicky Nonis
+    bio: >-
+      Photographer 📸 INSTA @nicky_nonis 📍 Vancouver Island 🍁 🇨🇦
     location: "Canada"
-    followers: 18695
-    engagement: 1179
-    commentsToLikes: 0.024984
-    id: ck8fc5efd6m9b0j78bshh7g1f
+    followers: 2356
+    engagement: 625
+    commentsToLikes: 0.038546
+    id: ckcprllnulgtx0j231v5luom5
     verified: false
-    hashtags: "#photomagic, #xyzcba, #dazz, #howtoadult"
-  - username: "keatonharaga"
+    hashtags: "#foryou, #cinematics, #sony, #videography"
+  - username: "joshmcca"
     fullname: >-
-      Keaton Haraga
+      Josh Mccabe
+    bio: >-
+      Vancouver, Canada based full time adventure photographer IG: @joshmcca
     location: "Canada"
-    followers: 3791
-    engagement: 762
-    commentsToLikes: 0.045489
-    id: ck9ad5y2jvryg0j78h8e0kt27
+    followers: 3714
+    engagement: 1018
+    commentsToLikes: 0.038973
+    id: ck9rgyu1wd5ji0j7851tdfzzj
     verified: false
-    hashtags: "#abandoned, #trampoline, #duet, #macbook"
+    hashtags: "#lakelouise, #canada, #outdoors, #britishcolumbia"
+  - username: "jimy233"
+    fullname: >-
+      Jim Yang
+    bio: >-
+      INTERVIEW+PHOTO 📸 Photographer 📍YYC 🇨🇦 Insta: hlgclphoto DM me
+    location: "Canada"
+    followers: 24300
+    engagement: 788
+    commentsToLikes: 0.050862
+    id: ckbbd34gv1zw80j236ymx5w48
+    verified: false
+    hashtags: "#photoshoot, #getmicrowavy, #photographer, #photography101"
+  - username: "ben.glassco"
+    fullname: >-
+      Ben Glassco Photo
+    bio: >-
+      Quit the 9-5, now full-time travel photographer. 🇨🇦 Go follow my real shit👇
+    location: "Canada"
+    followers: 11800
+    engagement: 1155
+    commentsToLikes: 0.030137
+    id: ckammxh502g7q0i78cua0ypgg
+    verified: false
+    hashtags: "#alberta, #vancouverbc, #vancouver, #vancouverlife"
+  - username: "jumistory"
+    fullname: >-
+      JuMi Story Vancouver
+    bio: >-
+      🇨🇦 Millennial 𝐡𝐮𝐬𝐛𝐚𝐧𝐝 & 𝐰𝐢𝐟𝐞 Wedding Photographers📸 click⬇️
+    location: "Canada"
+    followers: 26300
+    engagement: 1560
+    commentsToLikes: 0.024337
+    id: ckb9cqc9fzmrp0j233vvlma8d
+    verified: false
+    hashtags: "#funnytiktok, #marriedlife, #myhusband, #tiktokcouple"
   - username: "errincasa"
     fullname: >-
       Errin Casano
+    bio: >-
+      Canadian travel & adventure photographer IG: @errincasa (166K)
     location: "Canada"
-    followers: 12095
-    engagement: 1068
-    commentsToLikes: 0.020959
+    followers: 12400
+    engagement: 1194
+    commentsToLikes: 0.024039
     id: ck80orbbnjhes0j78cavnzeer
     verified: false
-    hashtags: "#magic, #views, #keepingbusy, #sowholesome"
-  - username: "aaronlugassy"
-    fullname: >-
-      Aaron Lugassy
-    location: "Canada"
-    followers: 31271
-    engagement: 754
-    commentsToLikes: 0.020860
-    id: ck80ofw85hn7t0j78804wau0i
-    verified: false
-    hashtags: "#covid19, #winterbreak, #sunrise, #jasper"
-  - username: "cringekev"
-    fullname: >-
-      Cringe Kev
-    location: "Canada"
-    followers: 6896
-    engagement: 905
-    commentsToLikes: 0.070620
-    id: ck90r2c2kktgx0j78fv2tcwgq
-    verified: false
-    hashtags: "#spooky, #impersonation, #sith, #family"
+    hashtags: "#canada, #naturalwonders, #adventure, #travel"
 ---

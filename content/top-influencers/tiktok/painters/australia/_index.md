@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In Australia In 2020
 description: >-
-  Find top painters TikTok influencers in Australia in 2020. Most popular hashtags: #gotthisforyou #levelup #withmyfamily #leavingmybody.
+  Find top painters TikTok influencers in Australia in 2020. Most popular hashtags: #art #fyp #foryou #artist.
 platform: TikTok
+hits: 35
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 35 TikTok influencers like this in Australia for you to contact.
 profiles:
-  - username: "gamegrl64"
+  - username: "rebeccakateartist"
     fullname: >-
-      🖌💕 Game.grl 💕🖌
+      rebeccakateartist
+    bio: >-
+      🇦🇺 artist / mum hoping to inspire others to create insta - @rebeccakateartist
     location: "Australia"
-    followers: 40438
-    engagement: 2138
-    commentsToLikes: 0.016174
-    id: ck83ypj31ukkb0j781mq5robx
+    followers: 15000
+    engagement: 1438
+    commentsToLikes: 0.073856
+    id: ckavp9a0i0axp0j23si1kpcox
     verified: false
-    hashtags: "#lofi, #japan, #canberra, #gamingroom"
-  - username: "doris.swart.art"
+    hashtags: "#artaddiction, #abstractartwork, #botanicalart, #artist"
+  - username: "zachampson"
     fullname: >-
-      D O R I S  S W A R T
+      Zac Hampson
+    bio: >-
+      🔥australian professional artist🔥 🌏 documenting the come up 🌏 check YT & IG
     location: "Australia"
-    followers: 7319
-    engagement: 1223
-    commentsToLikes: 0.036124
-    id: ckacg9o9vubyr0i78k340h4ys
+    followers: 6647
+    engagement: 1704
+    commentsToLikes: 0.059233
+    id: ckbl07kbewx360j230o5t4zga
     verified: false
-    hashtags: "#18carat, #sphinxcat, #fliptheswitch, #paintingprocess"
-  - username: "basicboba"
+    hashtags: "#artist, #fy, #painting, #foryou"
+  - username: "waifu_bb4"
     fullname: >-
-      🍥basicboba🍥
+      Wai
+    bio: >-
+      anime, k-pop and crack 16 :0
     location: "Australia"
-    followers: 28294
-    engagement: 2426
-    commentsToLikes: 0.033481
-    id: cka0vl6ylz02v0i78orxcjql7
+    followers: 5852
+    engagement: 2599
+    commentsToLikes: 0.020513
+    id: ckc8ylww5n5d90j23zbowx3y8
     verified: false
-    hashtags: "#animeboys, #kageyama, #oikawa, #oikawatooru"
+    hashtags: "#duet, #manga, #ashlynx, #eijiokumura"
+  - username: "livkiria.art"
+    fullname: >-
+      liv
+    bio: >-
+      ˚✧₊⁎ 17 ⁎⁺˳✧༚. i do art and paint art ig: livkiria.art she/they
+    location: "Australia"
+    followers: 47900
+    engagement: 1614
+    commentsToLikes: 0.006871
+    id: ckb97tliequp00j2316mmrxbb
+    verified: false
+    hashtags: "#artsy, #acrylicpaint, #artist, #acrylic"
+  - username: "tahliastanton"
+    fullname: >-
+      🌸Tahlia🌸
+    bio: >-
+      ✨You’re so amazing just be yourself✨ 🌸🛍20% OFF ALL PRINTS🛍🌸 👇👇👇
+    location: "Australia"
+    followers: 259400
+    engagement: 1843
+    commentsToLikes: 0.011430
+    id: ckammx0e12bo50i78co217g3l
+    verified: true
+    hashtags: "#artober, #painting, #arttiktok, #paintersoftiktok"
   - username: "navimultani2"
     fullname: >-
       Navi Multani
+    bio: >-
+      Navpreet singh Multani India 🇮🇳to✈️✈️Australia 🇦🇺🇦🇺city Melbourne
     location: "Australia"
-    followers: 13111
-    engagement: 706
-    commentsToLikes: 0.014854
+    followers: 20100
+    engagement: 614
+    commentsToLikes: 0.015809
     id: cka0rnfsjhq2y0i78iwj6dnd9
     verified: false
-    hashtags: "#navimultani, #cronavirus, #naag, #musiclives"
-  - username: "whatsupimgabe"
+    hashtags: "#melboune, #australia, #oneminutevlog, #streetfashion"
+  - username: "kingofduelss"
     fullname: >-
-      Gabe
+      alicia
+    bio: >-
+      21 • JOJO/HXH lover cosplay IG: @kingofduels art IG: @aliciarose_art
     location: "Australia"
-    followers: 3840
-    engagement: 1917
-    commentsToLikes: 0.187816
-    id: ck9k9hue2d8et0j78l8wl4564
+    followers: 13600
+    engagement: 2511
+    commentsToLikes: 0.036904
+    id: ckb9jfjxoakez0j23dy8uj5rz
     verified: false
-    hashtags: "#classiclit, #dancer, #theatrekid, #modernlit"
-  - username: "par0xysm.art"
+    hashtags: "#jjba, #art, #kurapika, #hxh"
+  - username: "sky2e"
     fullname: >-
-      par0xysm
+      skye
+    bio: >-
+      ♀• i draw (procreate, ipad pro) ENG/中文/日本語 OK more active on IG: @_seitens
     location: "Australia"
-    followers: 80313
-    engagement: 2078
-    commentsToLikes: 0.032583
-    id: cka0z3s41dyyt0i78te0q18gz
+    followers: 103500
+    engagement: 2701
+    commentsToLikes: 0.017625
+    id: ckc7onx2buj600j23gkug6rqi
     verified: false
-    hashtags: "#fail, #coronavirusart, #gemini, #artistrelate"
-  - username: "incinders"
+    hashtags: "#kageyamatobio, #kpop, #animeart, #fy"
+  - username: "findmeafoxx"
     fullname: >-
-      inCinders
+      🇯🇵🇲🇲🇦🇺
+    bio: >-
+      yuzu 🍜🥢✨ 17歳
     location: "Australia"
-    followers: 77162
-    engagement: 3342
-    commentsToLikes: 0.010135
-    id: ck9nv0nulpp7z0j78pzim2qrh
+    followers: 45800
+    engagement: 1772
+    commentsToLikes: 0.043300
+    id: ck90028wm9y990j78nh8x76ec
     verified: false
-    hashtags: "#deku, #izukumidoriya, #digitalart, #todoroki"
-  - username: "manepainters"
+    hashtags: "#weeb, #bananafish, #animerecommendations, #fyp"
+  - username: "crazy_camera"
     fullname: >-
-      MANE PAINTERS
+      Crazy Camera📸👨‍🎤
+    bio: >-
+      Go Around The World With My iPhone🚶‍♀️🚗✈️🧳🎈🎸🌍📺🇦🇺🇬🇧🇰🇷🇺🇸📱☎️👈😂
     location: "Australia"
-    followers: 215137
-    engagement: 980
-    commentsToLikes: 0.007853
-    id: ck84mbqzon0jo0j788a9mg3x4
+    followers: 290100
+    engagement: 672
+    commentsToLikes: 0.014961
+    id: ck8oxl67g30zv0j78sjl19t9h
     verified: false
-    hashtags: "#puppylove, #beforeandafter, #cavoodlepuppy, #sydneyhair"
-  - username: "waltoncakeboutique"
-    fullname: >-
-      katherinewalton
-    location: "Australia"
-    followers: 50283
-    engagement: 1263
-    commentsToLikes: 0.005702
-    id: cka63t37x5u650i784xi2pn9r
-    verified: false
-    hashtags: "#sweettooth, #pink, #mothersday, #delish"
-  - username: "winniefarry"
-    fullname: >-
-      Winnie Farry
-    location: "Australia"
-    followers: 10538
-    engagement: 1030
-    commentsToLikes: 0.021193
-    id: ck9flnliioyg00j78chp9gow5
-    verified: false
-    hashtags: "#indie, #levelup, #stories, #crab"
+    hashtags: "#chinese, #dog, #car, #prank"
 ---

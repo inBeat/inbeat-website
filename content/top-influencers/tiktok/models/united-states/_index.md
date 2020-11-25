@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In United States In 2020
 description: >-
-  Find top models TikTok influencers in United States in 2020. Most popular hashtags: #duet #mycrib #may4th #keepingactive.
+  Find top models TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 2384
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 2384 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "monicaaksamit"
+  - username: "mod3ls"
     fullname: >-
-      Monica Aksamit
+      models
+    bio: >-
+      models videos & music belong to respected copyright owners
     location: "United States"
-    followers: 4017
-    engagement: 2017
-    commentsToLikes: 0.203591
-    id: ck9v184ynfxrk0j78ifbsdru8
+    followers: 103200
+    engagement: 2067
+    commentsToLikes: 0.009789
+    id: ckcuwqrt2lsj60j23jlnxbvb0
+    verified: false
+    hashtags: "#fashion, #foryou, #bellahadid, #runway"
+  - username: "angelbhagat"
+    fullname: >-
+      angelbhagat
+    bio: >-
+      Model
+    location: "United States"
+    followers: 88800
+    engagement: 689
+    commentsToLikes: 0.016096
+    id: ckc8znaabopaf0j23vk9o3mcw
+    verified: false
+    hashtags: "#foryoupage, #tiktokindia, #teamromeo09, #foryou"
+  - username: "carltone"
+    fullname: >-
+      CarlTone
+    bio: >-
+      No🔞and under Actor/Model In my dreams 🔥Tonevids🔥 S. Carolina
+    location: "United States"
+    followers: 29600
+    engagement: 2463
+    commentsToLikes: 0.177369
+    id: ckan0ehehq5iu0i78p1wp9jlc
+    verified: false
+    hashtags: "#tonevids, #comedy, #vampires, #actingwars"
+  - username: "mj.media"
+    fullname: >-
+      MJ
+    bio: >-
+      LLHH💚🕊 Female Car Enthusiast Model Car Builder 1954 Chevrolet 210 "Lightning"
+    location: "United States"
+    followers: 41200
+    engagement: 2373
+    commentsToLikes: 0.085131
+    id: ckb94zxgumpfc0j238sb6oy5n
+    verified: false
+    hashtags: "#carfanatic, #halloween, #cars, #showupshowoff"
+  - username: "sheltercatmell"
+    fullname: >-
+      Michelle Pierce
+    bio: >-
+      18+ Full time parent, artist, musician and model; just sharing what I love.
+    location: "United States"
+    followers: 62600
+    engagement: 2335
+    commentsToLikes: 0.142351
+    id: ckavo28jhyo4z0j23p7jrv1g7
+    verified: false
+    hashtags: "#dark, #harmony, #singer, #duetit"
+  - username: "carrotlmao"
+    fullname: >-
+      carrot
+    bio: >-
+      new jersey elite model management Follow my insta!
+    location: "United States"
+    followers: 2900000
+    engagement: 2245
+    commentsToLikes: 0.015791
+    id: ck83zut9439zq0j78ypxk4v59
     verified: true
-    hashtags: "#makija, #wanderlust, #homeproject, #postmalone"
-  - username: "minniethecorgo"
+    hashtags: "#euskara, #foryou, #fyp, #foryoupage"
+  - username: "ohdamnjam"
     fullname: >-
-      minniethecorgo
+      TOAST with JAM
+    bio: >-
+      30-something | PNW I never said I was a role model
     location: "United States"
-    followers: 253377
-    engagement: 2418
-    commentsToLikes: 0.028909
-    id: ck8kdqnak6zl70j78zb07smjv
+    followers: 49300
+    engagement: 2218
+    commentsToLikes: 0.132984
+    id: ck8tue76qshew0j78w4qjoj7l
     verified: false
-    hashtags: "#superlatives, #duet, #tiktokrestarea, #randomthings"
-  - username: "_.mildredddd._"
-    fullname: >-
-      Mildred (200k!!?🖤)
-    location: "United States"
-    followers: 192502
-    engagement: 2355
-    commentsToLikes: 0.034054
-    id: ck92v69q3p8mj0j78uc21s4gd
-    verified: false
-    hashtags: "#mycrib, #spacethings, #greenvspurple, #greenscreen"
+    hashtags: "#uselections2020, #dumptrump, #unwrapthedeals, #decision2020"
   - username: "josheeirl"
     fullname: >-
       Joshee, In Real Life
+    bio: >-
+      Accidental icon. LGBTQ+ role model. A bit confused. Featured Creator at WoahX
     location: "United States"
-    followers: 71637
-    engagement: 2114
-    commentsToLikes: 0.040733
+    followers: 132500
+    engagement: 2147
+    commentsToLikes: 0.070687
     id: ck932hxi5jj170j78ab706tfh
     verified: false
-    hashtags: "#likeforthering, #putaringonit, #momsoftiktok, #covid"
-  - username: "vittoriald"
+    hashtags: "#therealogs, #josheesbishes, #goldengays, #rbgday2020"
+  - username: "shamaineholman"
     fullname: >-
-      vittoriald
+      Shamaine Holman
+    bio: >-
+      Plus model/college student and mom .follow instagram @ladybrooklyn11 Queen bk
     location: "United States"
-    followers: 9612
-    engagement: 1887
-    commentsToLikes: 0.088691
-    id: ckacvl92poalu0i782j8o6f1e
+    followers: 6823
+    engagement: 2058
+    commentsToLikes: 0.263208
+    id: ck9flng3gox940j78ybffc259
     verified: false
-    hashtags: "#life, #moreyouknow, #2ndamendment, #trumptrain"
-  - username: "a.sher"
+    hashtags: "#greenscreenvideo, #fyp, #stitch, #election2020"
+  - username: "ikenwin"
     fullname: >-
-      Asher Sheets
+      Kenny Nguyen
+    bio: >-
+      150k❗️ ‘97 liner Actor/Foodie/Model Be a #Winner Spam likes will get you blocked
     location: "United States"
-    followers: 271943
-    engagement: 2172
-    commentsToLikes: 0.024590
-    id: ck9n4v5gw5rsd0j78vp9ps513
+    followers: 117600
+    engagement: 2614
+    commentsToLikes: 0.033164
+    id: ckcegf7panp9a0j232mohslnl
     verified: false
-    hashtags: "#pov"
-  - username: "marcandrew00"
-    fullname: >-
-      Marc Andrew
-    location: "United States"
-    followers: 13589
-    engagement: 1716
-    commentsToLikes: 0.085419
-    id: cka85x0he02xy0i7865u74lae
-    verified: false
-    hashtags: "#positivevibes, #partner, #inthehouseparty, #duet"
-  - username: "laazysusan"
-    fullname: >-
-      laazysusan
-    location: "United States"
-    followers: 5576
-    engagement: 1604
-    commentsToLikes: 0.120047
-    id: ckace1n4fkt5p0i7813i8cmfg
-    verified: false
-    hashtags: "#stereotypes, #history, #ghosting, #friends"
-  - username: "lilythebigreddog"
-    fullname: >-
-      Lily Elizabeth
-    location: "United States"
-    followers: 8896
-    engagement: 1572
-    commentsToLikes: 0.101805
-    id: ck8jalef5syih0j78e424iyqe
-    verified: false
-    hashtags: "#coffee, #retailtherapy, #finals, #bff"
-  - username: "xepherwolf"
-    fullname: >-
-      𝖃𝖆𝖉𝖉𝖞
-    location: "United States"
-    followers: 388286
-    engagement: 2863
-    commentsToLikes: 0.018913
-    id: ck7zohy25k7ac0j78i1anjagv
-    verified: false
-    hashtags: "#duet, #aesthetic, #makeup, #anime"
+    hashtags: "#duet, #myhobby, #couplegoals, #fyp"
 ---

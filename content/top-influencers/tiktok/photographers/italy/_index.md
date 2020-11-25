@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers TikTok Influencers In Italy In 2020
 description: >-
-  Find top photographers TikTok influencers in Italy in 2020. Most popular hashtags: #dolomites #nature #adventure #mountain.
+  Find top photographers TikTok influencers in Italy in 2020. Most popular hashtags: #italy #travel #photographer #sunset.
 platform: TikTok
+hits: 44
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 44 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "sixthlens"
-    fullname: >-
-      Matteo Mangano
-    location: "Italy"
-    followers: 27013
-    engagement: 1518
-    commentsToLikes: 0.071355
-    id: ck9rhwugchbn00j78ni4vj1ev
-    verified: false
-    hashtags: "#wander, #horselover, #gocamping, #tiktokita"
-  - username: "gnencio_ph"
-    fullname: >-
-      gerenencio
-    location: "Italy"
-    followers: 21832
-    engagement: 1935
-    commentsToLikes: 0.150487
-    id: ck8w2zv5m6upm0j78oa1f2tk9
-    verified: false
-    hashtags: "#perte, #bodyshaming, #tutorial, #photography"
-  - username: "angiewtf_"
-    fullname: >-
-      Angela Proto
-    location: "Italy"
-    followers: 18052
-    engagement: 1350
-    commentsToLikes: 0.073393
-    id: ck8vv7kqgl09j0j78d34vjwcn
-    verified: false
-    hashtags: "#offwhite, #iltrechallenge, #dior, #thenorthface"
-  - username: "dennibabi"
-    fullname: >-
-      💎●-Denni-●💎
-    location: "Italy"
-    followers: 9727
-    engagement: 870
-    commentsToLikes: 0.060454
-    id: ck8zadyrc1a6s0j78amwww2so
-    verified: false
-    hashtags: "#duetto"
   - username: "roccabrian"
     fullname: >-
       Brian Rocca
+    bio: >-
+      Photographer & Videomaker Youtube / Travel🌴
     location: "Italy"
-    followers: 11183
-    engagement: 657
-    commentsToLikes: 0.081593
+    followers: 12000
+    engagement: 1378
+    commentsToLikes: 0.033114
     id: ck8s7q7asq9do0j78k2c2kihx
     verified: false
-    hashtags: "#hotel, #tiktok, #monstertruck, #travellife"
-  - username: "davide.anzimanni"
+    hashtags: "#lake, #drone, #dayinmylife, #view"
+  - username: "brunelucas"
     fullname: >-
-      Davide Anzimanni
+      🌈Lucas Bruno🌈
+    bio: >-
+      🇮🇹 🇧🇷 Road to 15K?😍 forza!!!!! 🏐 📸 photographer 📸 Bi🏳️‍🌈
     location: "Italy"
-    followers: 19608
-    engagement: 1608
-    commentsToLikes: 0.024660
-    id: ck8vshinwdkrq0j78kba6o75j
+    followers: 12400
+    engagement: 1457
+    commentsToLikes: 0.060031
+    id: ckcpt26rrnly00j23h53eylm2
     verified: false
-    hashtags: "#resort, #wadirum, #motorbike, #midnightsun"
-  - username: "francescabrunierc"
+    hashtags: "#foryou, #italy, #viral, #followers"
+  - username: "ilariaeandrea"
     fullname: >-
-      Francesca Bruni Erco
+      Fotografi matrimonio
+    bio: >-
+      ✨Italian wedding photographers✨ 🎥Youtubers&educators ↓ Follow us on INSTAGRAM ↓
     location: "Italy"
-    followers: 37643
-    engagement: 2091
-    commentsToLikes: 0.009709
-    id: ck9ey5u17ueo80j781aqix4nu
+    followers: 14700
+    engagement: 909
+    commentsToLikes: 0.041053
+    id: ckbl5vci33gkh0j23xpjkjg8k
     verified: false
-    hashtags: "#teatro, #lucywestenra, #bodyshaming, #minamurray"
-  - username: "giuligartner"
+    hashtags: "#fotografo, #slomo, #tutorial, #photomagic"
+  - username: "joe_wink"
     fullname: >-
-      giuligartner
+      joewink
+    bio: >-
+      🎥 Photographer & Video creator 🇮🇹 from the Dolomites, Italy
     location: "Italy"
-    followers: 55512
-    engagement: 1262
-    commentsToLikes: 0.040103
-    id: ck8j488tq18210j78ycgwsc88
-    verified: true
-    hashtags: "#namibia, #supermoon, #mothernature, #storytime"
-  - username: "mattenry.raw"
-    fullname: >-
-      Matteo Enrico
-    location: "Italy"
-    followers: 19140
-    engagement: 830
-    commentsToLikes: 0.038053
-    id: cka874hnc5dsc0i78ofbpoiiu
+    followers: 30400
+    engagement: 1031
+    commentsToLikes: 0.022465
+    id: ckacsfid69uq90i78e22wuzcl
     verified: false
-    hashtags: "#studio, #trend, #mountains, #mountain"
+    hashtags: "#beautifuldestinations, #cinematicfpv, #bts, #photographytricks"
+  - username: "dennibabi"
+    fullname: >-
+      💎●-Denni-●💎
+    bio: >-
+      《❤ Denise • Italy ❤》 ⚠️IG: @callmebabi26⚠️ ●Biker•Photographer•Graphic Designer●
+    location: "Italy"
+    followers: 9713
+    engagement: 621
+    commentsToLikes: 0.136152
+    id: ck8zadyrc1a6s0j78amwww2so
+    verified: false
+    hashtags: "#duetto, #challenge, #covid19, #lockdown"
+  - username: "gianspe"
+    fullname: >-
+      Gian
+    bio: >-
+      📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
+    location: "Italy"
+    followers: 7949
+    engagement: 954
+    commentsToLikes: 0.017172
+    id: ckbqionll3wdj0j2300k8cemq
+    verified: false
+    hashtags: "#shooting, #tutorial, #sunset, #sea"
+  - username: "angiewtf_"
+    fullname: >-
+      Angela Proto
+    bio: >-
+      Road to 170k 🥺🥺🥺 Ceo delle notizie sulle Jordan photographer
+    location: "Italy"
+    followers: 166700
+    engagement: 1737
+    commentsToLikes: 0.011524
+    id: ck8vv7kqgl09j0j78d34vjwcn
+    verified: false
+    hashtags: "#viral, #jordan, #perte, #hypebeast"
   - username: "filippobellisola"
     fullname: >-
       Filippo Bellisola
+    bio: >-
+      🙋🏻‍♂️ Hello! I'm an Italian Photographer Instagram @sheck
     location: "Italy"
-    followers: 7845
-    engagement: 1223
-    commentsToLikes: 0.032125
+    followers: 7998
+    engagement: 1230
+    commentsToLikes: 0.030260
     id: ck8qh5foi3ns80j78q769vxpj
     verified: false
-    hashtags: "#italy, #driving, #trecime, #lagodibled"
+    hashtags: "#alba, #photography, #reflections, #dolomiti"
+  - username: "metvideo"
+    fullname: >-
+      metvideo
+    bio: >-
+      🌲Insta 10K @metvideo🌲 📽️Videomaker/photographer 🚀YOUTUBE 👇👇👇
+    location: "Italy"
+    followers: 19500
+    engagement: 870
+    commentsToLikes: 0.028986
+    id: cka0y8v7aadw70i78pwdl2kxm
+    verified: false
+    hashtags: "#fotografocheck, #fotografo, #traveltok, #natura"
+  - username: "davide.anzimanni"
+    fullname: >-
+      Davide Anzimanni
+    bio: >-
+      Travel Photographer 🇮🇹 Insta : davide.anzimanni ( 102k )
+    location: "Italy"
+    followers: 46500
+    engagement: 1107
+    commentsToLikes: 0.016070
+    id: ck8vshinwdkrq0j78kba6o75j
+    verified: false
+    hashtags: "#roma, #venice, #fyp, #dolomites"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Dallas In 2020
 description: >-
-  Find top gardening Instagram influencers in Dallas in 2020. Most popular hashtags: #gardening #mothersday #garden #colorado.
+  Find top gardening Instagram influencers in Dallas in 2020. Most popular hashtags: #gardening #flowers #kids #dallas.
 platform: Instagram
+hits: 9
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 9 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "victoriabirch1"
+  - username: "thepeppywings"
     fullname: >-
-      Victoria Birch
+      ᴀᴀɴᴄʜᴀʟ ᴊᴀɪɴ
+    bio: >-
+      Fashion,Travel,Lifestyle @liketoknow.it THEPEPPYWINGS Fashion Designer @pastelsbyaj Cake Designer @dallascakery @clarinsusa👇🏼
     location: "United States"
-    followers: 28667
-    engagement: 422
-    commentsToLikes: 0.017174
-    id: ck14l14xrscf10i193tqlste1
+    followers: 15106
+    engagement: 453
+    commentsToLikes: 0.203230
+    id: ck6tpgn2xjrib0j71tzrdx3ec
     verified: false
-    hashtags: "#cavapoolove, #easterdecor, #estespark, #casita"
-  - username: "victoriavixx"
+    hashtags: "#reelsvideo, #kids, #browngirlbloggers, #sheingals"
+  - username: "livingwithheart"
     fullname: >-
-      Victoria 💄
+      Susan Webster (Heart)
+    bio: >-
+      🌿Home & Garden 🌿 All things beautiful! Mom to 2 & Heart to 4 Dallas, Texas For inquiries DM me @livingwithheart Antique Candle Company Partner
     location: "United States"
-    followers: 5542
-    engagement: 882
-    commentsToLikes: 0.085394
-    id: ck8t7duv8gfyl0j78btstqim1
+    followers: 26018
+    engagement: 298
+    commentsToLikes: 0.235671
+    id: ck6u41kjv15lq0j712quuq4ct
     verified: false
-    hashtags: "#downtowndallas, #makeup, #sephora, #tiger"
-  - username: "marcosal85"
-    fullname: >-
-      Marco
-    location: "United States"
-    followers: 99301
-    engagement: 427
-    commentsToLikes: 0.021042
-    id: ckaoujcuc0iy50i78ms1a6005
-    verified: false
-    hashtags: "#isladepascua, #machupicchu, #backyard, #architecture"
+    hashtags: "#blogger, #candle, #teasippin, #love"
   - username: "just_looks_jadore"
     fullname: >-
       Jordan Botzong | Dallas Style
+    bio: >-
+      ʙʏ ɢʀᴀᴄᴇ ᴛʜʀᴏᴜɢʜ ғᴀɪᴛʜ⁣ ⁣𝗼𝘂𝘁𝗳𝗶𝘁 𝗶𝗻𝘀𝗽𝗼 // 𝗱𝗮𝗶𝗹𝘆 𝗹𝗼𝗼𝗸𝘀⁣ ⁣Sharing my fav fashion finds & a little bit of Tim🐾
     location: "United States"
-    followers: 2888
-    engagement: 1051
-    commentsToLikes: 0.177753
+    followers: 3075
+    engagement: 901
+    commentsToLikes: 0.107365
     id: ck6tsz78h7nv20j71018rbreu
     verified: false
-    hashtags: "#animalprintlook, #cityliving, #workwearfashion, #tiedye"
-  - username: "life_as_alexandra"
-    fullname: >-
-      Alexandra Birch
-    location: "United States"
-    followers: 38372
-    engagement: 688
-    commentsToLikes: 0.017843
-    id: ck14l13vhsca10i198iiznrzx
-    verified: false
-    hashtags: "#throwback, #businessowner, #easterbasket, #easterdecor"
-  - username: "adeinaanderson"
-    fullname: >-
-      Creative Lifestyles W/ Adeina
-    location: "United States"
-    followers: 5383
-    engagement: 582
-    commentsToLikes: 0.028386
-    id: ck5bud6lkhkep0i113ybqgl5k
-    verified: false
-    hashtags: "#breakfastfood, #bettycrocker, #roadtripfood, #backyard"
-  - username: "sweetlittlesmithfarm"
-    fullname: >-
-      MIRANDA-CottageBohoFarmhouse
-    location: "United States"
-    followers: 11751
-    engagement: 483
-    commentsToLikes: 0.162389
-    id: ck0w2vxasqfgl0i1900tz2wl5
-    verified: false
-    hashtags: "#pantry, #cozyporch, #verandamag, #myinstafarmhouse"
+    hashtags: "#fashionlover, #frenchiesofinstagram, #justlooks, #jadore"
   - username: "nicknash_music"
     fullname: >-
       N I C K  N A S H
+    bio: >-
+      UT - TN - TX
     location: "United States"
-    followers: 9351
-    engagement: 95
-    commentsToLikes: 0.058500
+    followers: 9117
+    engagement: 105
+    commentsToLikes: 0.056416
     id: ck6tvuzs7ofcj0j71j4e47r9t
     verified: false
-    hashtags: "#likeforlikes, #wedding, #stories, #dumbanddumber"
-  - username: "hanwestby"
+    hashtags: "#spotify, #saltlakecity, #songs, #covid19"
+  - username: "prestigetree"
     fullname: >-
-      Hannah Westby
+      Ty
+    bio: >-
+      Photography taken during work research and traveling tyclimbstrees
     location: "United States"
-    followers: 46539
-    engagement: 1125
-    commentsToLikes: 0.027252
-    id: ck135l57i1y7t0i19muvpwj2g
+    followers: 194726
+    engagement: 68
+    commentsToLikes: 0.001803
+    id: ck14j2dqfia8c0i19i6xf8k6v
     verified: false
-    hashtags: "#plantpowerineveryshower, #furbodognanny, #20weeks, #workingwithfracture"
-  - username: "faithfoxmama"
+    hashtags: "#inspirephotography, #birds, #travel, #instagood"
+  - username: "thekiwihome"
     fullname: >-
-      
+      Mi & Ales
+    bio: >-
+      home & garden enthusiasts | global nomads | learning to live slowly pictures of our own home & garden projects or from our travels.
     location: "United States"
-    followers: 23056
-    engagement: 171
-    commentsToLikes: 0.296186
-    id: ck6turib2hzj20j71vv26vxo1
+    followers: 5811
+    engagement: 1103
+    commentsToLikes: 0.058049
+    id: ck9wdg745fhoe0j78mexq467l
     verified: false
-    hashtags: "#trueinnerself, #earlymornings, #borageflowers, #heatherrose"
+    hashtags: "#flowersofinstagram, #kalesalad, #gardeninglife, #thekiwihome"
+  - username: "christiandawdesign"
+    fullname: >-
+      Christian Daw
+    bio: >-
+      Former attorney with a passion for beautiful homes... and a little design firm. 💁🏻‍♂️ Follow along! #christiandawdesign 👇🏻Connect for services.
+    location: "United States"
+    followers: 311742
+    engagement: 530
+    commentsToLikes: 0.023131
+    id: ck0w79duucey70i19750um17m
+    verified: false
+    hashtags: "#newconstruction, #beachhouse, #renovationproject, #housetour"
+  - username: "parrygripp"
+    fullname: >-
+      Parry Gripp
+    bio: >-
+      I’m Parry Gripp!
+    location: "United States"
+    followers: 6836
+    engagement: 421
+    commentsToLikes: 0.053378
+    id: ck15q3kv30xeo0i191ss0cu7f
+    verified: false
+    hashtags: "#shredding, #hummingbirdsofinstagram, #spaceunicorn, #catsofinstagram"
+  - username: "gilleanmcleod"
+    fullname: >-
+      Gillean McLeod
+    bio: >-
+      Model | Stylist
+    location: "United States"
+    followers: 8617
+    engagement: 534
+    commentsToLikes: 0.108391
+    id: ck5hkyul1j9ti0i11ounm6bun
+    verified: false
+    hashtags: "#modellife, #socalgardens, #mtwashington, #mygarden"
+  - username: "seldabelda"
+    fullname: >-
+      anna aromin | ↟ pnw ↟
+    bio: >-
+      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+    location: "United States"
+    followers: 34042
+    engagement: 337
+    commentsToLikes: 0.098448
+    id: ck14kkiiwpyiz0i19q3we0t10
+    verified: false
+    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
 ---

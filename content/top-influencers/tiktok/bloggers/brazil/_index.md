@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In Brazil In 2020
 description: >-
-  Find top bloggers TikTok influencers in Brazil in 2020. Most popular hashtags: #fashion #fiqueemcasa #bomdia #blogger.
+  Find top bloggers TikTok influencers in Brazil in 2020. Most popular hashtags: #tiktok #blogger #foryou #fyp.
 platform: TikTok
+hits: 12
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 12 TikTok influencers like this in Brazil for you to work with.
 profiles:
-  - username: "mariaaaah5"
-    fullname: >-
-      maria verçosa
-    location: "Brazil"
-    followers: 7449
-    engagement: 302
-    commentsToLikes: 0.062261
-    id: ckaib6p14f88y0i78kirrk3mz
-    verified: false
-    hashtags: "#desafiofitness, #happydance, #todegraca, #tiktokblogger"
   - username: "deboramanfronn"
     fullname: >-
       Débora Manfron
+    bio: >-
+      Blogger - Travel - Adventure - outdoor Curitiba | PR | Brasil
     location: "Brazil"
-    followers: 3071
-    engagement: 809
-    commentsToLikes: 0.028949
+    followers: 3284
+    engagement: 943
+    commentsToLikes: 0.030375
     id: ck9glce8vnk6u0j78s150m4o0
     verified: false
-    hashtags: "#treino, #brasilia, #curitiba, #havingfun"
-  - username: "essemundoenosso"
+    hashtags: "#natureza, #tiktoktravel, #trilha, #foryoubrasil"
+  - username: "oiiantonellaa"
     fullname: >-
-      Esse Mundo É Nosso
+      oiiantonellaa
+    bio: >-
+      Mini Fashion Blogger | Maternidade Real | Dicas Instagram - @oiiantonella ✨
     location: "Brazil"
-    followers: 13966
-    engagement: 998
-    commentsToLikes: 0.016045
-    id: ck8hsc836cndx0j782oxhyg9q
+    followers: 100500
+    engagement: 1488
+    commentsToLikes: 0.011566
+    id: ckbf859wkydeo0j233y048th5
     verified: false
-    hashtags: "#bali, #noronha, #sunday, #felizpascoa"
+    hashtags: "#foryou, #chupetamania, #oiiantonella, #maeefilha"
   - username: "karinechilomer"
     fullname: >-
       Karine Chilomer
+    bio: >-
+      Amante da natureza! 💛⛰⛺️ Quer ver mais? Segue lá Instagram : @karinechilomer
     location: "Brazil"
-    followers: 7175
-    engagement: 893
-    commentsToLikes: 0.015699
+    followers: 16900
+    engagement: 1200
+    commentsToLikes: 0.013376
     id: cka0qk9fncxi80i78efed8t7q
     verified: false
-    hashtags: "#amor, #animais, #natureza, #tiktokbrasil"
+    hashtags: "#natureza, #nature, #brazil, #trilhas"
+  - username: "leboutiquebrasil"
+    fullname: >-
+      user9276450140144
+    bio: >-
+      WWW.LEBOUTIQUEBRASIL.COM.BR instagram @leboutiquebrasil
+    location: "Brazil"
+    followers: 6336
+    engagement: 366
+    commentsToLikes: 0.009160
+    id: ckbf855fsyci90j23kupqn483
+    verified: false
+    hashtags: "#blogdemoda, #modaparamulheres, #cute, #tbt"
   - username: "clubedamoda"
     fullname: >-
       @clubedamoda
+    bio: >-
+      👩🏻‍💻By: @melissacalistri Moda e afins Sigam nosso instagram @clubedamoda_ig
     location: "Brazil"
-    followers: 12767
-    engagement: 465
-    commentsToLikes: 0.014384
+    followers: 12600
+    engagement: 412
+    commentsToLikes: 0.015960
     id: ck9nde6tjcqxm0j78h16ozq94
     verified: false
-    hashtags: "#trendinggirls, #modapraia, #lingeriefashion, #tiktokmulheres"
-  - username: "vivienandrade"
+    hashtags: "#modafeminina, #looks, #lookdodia, #brasil"
+  - username: "erik.martins"
     fullname: >-
-      Vivien Andrade
+      Erik Martins
+    bio: >-
+      Modelo 📺 @recordtv 📺 👮‍♂️ MOÇO @Multishow insta : erik_fashion_style
     location: "Brazil"
-    followers: 52835
-    engagement: 579
-    commentsToLikes: 0.038733
-    id: ck9gnt7xjy0a70j78fz465dg8
+    followers: 40900
+    engagement: 1490
+    commentsToLikes: 0.118191
+    id: ck9a64avn1jgi0j78ggdco6f5
     verified: false
-    hashtags: "#fergie, #boredinthehouse, #pushups, #pushupchallenge"
-  - username: "modafemininaafins"
+    hashtags: "#tiktok, #videoviral, #viral, #comedia"
+  - username: "levelup_007"
     fullname: >-
-      Moda Feminina Afins
+      levelup_007
+    bio: >-
+      Instagram & Twitter: @Levelup_007 ✅
     location: "Brazil"
-    followers: 9650
-    engagement: 316
-    commentsToLikes: 0.016926
-    id: cka0qs659dv520i784y9qfse0
+    followers: 673000
+    engagement: 1480
+    commentsToLikes: 0.012633
+    id: ck9fbgnp9f97a0j78kxubfe4r
+    verified: true
+    hashtags: "#blog, #tiktok, #tiktokbrasil, #youtube"
+  - username: "kaholandaa"
+    fullname: >-
+      Ka Holanda
+    bio: >-
+      Inst4 ✨ @kaholandaa (me segue) COMO CRESCER SEU INSTA👇🏻
+    location: "Brazil"
+    followers: 21500
+    engagement: 1007
+    commentsToLikes: 0.030819
+    id: ckc8gjfgqaxeg0j23u4jeggu3
     verified: false
-    hashtags: "#inspiracao, #makeup, #outfitideas, #makemefamous"
+    hashtags: "#tiktokbabies, #storyideas, #maedemenino, #fyp"
   - username: "glaycehemerly"
     fullname: >-
       user8063773324402
+    bio: >-
+      Não sei como veio parar aqui, mas te digo uma coisa: Vc é especial !!!
     location: "Brazil"
-    followers: 23531
-    engagement: 312
-    commentsToLikes: 0.013579
+    followers: 144900
+    engagement: 558
+    commentsToLikes: 0.011504
     id: cka0whub42xtd0i78o5rwh2np
     verified: false
-    hashtags: "#auau, #outon, #maedecachorro, #rosa"
-  - username: "michele_adventurous"
+    hashtags: "#kk, #dog, #life, #cachorrofofo"
+  - username: "jemariano"
     fullname: >-
-      Michele Dias
+      decamariano
+    bio: >-
+      GRATIDÃO Vem pro instagram @je_jemariano
     location: "Brazil"
-    followers: 5454
-    engagement: 641
-    commentsToLikes: 0.008131
-    id: ck9v8mmjgaebw0j781skjdvj5
+    followers: 20900
+    engagement: 294
+    commentsToLikes: 0.021251
+    id: ckbkxpnoxtog90j23p6m8ghfx
     verified: false
-    hashtags: "#sunsetlover, #trickshot, #blogger, #viagem"
-  - username: "rique_telles"
-    fullname: >-
-      HenriqueTelles
-    location: "Brazil"
-    followers: 11825
-    engagement: 650
-    commentsToLikes: 0.021890
-    id: cka0vlgrrz2sk0i78htn24rt1
-    verified: false
-    hashtags: "#samara, #mulher, #covid19, #blogger"
+    hashtags: "#gera, #araraquara, #moda, #festa"
 ---

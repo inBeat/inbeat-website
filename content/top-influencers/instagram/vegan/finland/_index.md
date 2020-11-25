@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Finland In 2020
 description: >-
-  Find top vegan Instagram influencers in Finland in 2020. Most popular hashtags: #vappu #vegan #korvapuusti #arvonta.
+  Find top vegan Instagram influencers in Finland in 2020. Most popular hashtags: #vegaani #vegan #arvonta #finland.
 platform: Instagram
+hits: 33
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 33 Instagram influencers like this in Finland for you to pitch.
 profiles:
   - username: "jorikotis"
     fullname: >-
       J O R I   K O T A - A H O 🇫🇮
+    bio: >-
+      ◾ Coach ◾ Known from TV ◾ @ritakotis & Jare ◾ All kinds of movement ◾ Vegan for the animals
     location: "Finland"
-    followers: 10251
-    engagement: 621
-    commentsToLikes: 0.045035
+    followers: 10663
+    engagement: 1067
+    commentsToLikes: 0.029342
     id: ck6trctegy98e0j71oijjv64x
     verified: false
-    hashtags: "#lecturer, #verkkokauppa, #moveyourbody, #arpajaiset"
+    hashtags: "#photooftheday, #yoga, #personaltrainer, #family"
   - username: "siirisuurvisiiri"
     fullname: >-
       Siiri Partanen
+    bio: >-
+      Actor-Musician🎭🥁🎶 Vegan🥑
     location: "Finland"
-    followers: 20326
-    engagement: 210
-    commentsToLikes: 0.015583
+    followers: 20090
+    engagement: 196
+    commentsToLikes: 0.006790
     id: ckaozfv7tlpa60i78bkxjcw3f
     verified: false
-    hashtags: "#kiitollisuus, #kirjat, #lenkkikaveri, #eifiltterii"
-  - username: "veganminna"
+    hashtags: "#actress, #ulkonaperill, #arctichill, #mets"
+  - username: "solku_art"
     fullname: >-
-      Minna
+      Solku
+    bio: >-
+      Original realistic hobbyhorses Trans non-binary vegan artist from Ikaalinen Finland @4hsuomi Yrittäjä They/Them Since 2006
     location: "Finland"
-    followers: 2311
-    engagement: 1580
-    commentsToLikes: 0.303425
-    id: ck6uhifw49ax10j7183cu5d71
+    followers: 18026
+    engagement: 1297
+    commentsToLikes: 0.027221
+    id: ck5hmxiusmt840i11yontvllu
     verified: false
-    hashtags: "#sundaymorning, #joulu, #veganblogger, #talvipuutarha"
+    hashtags: "#steckenpferd, #arttoy, #modelhorse, #tehtysuomessa"
   - username: "chocochili"
     fullname: >-
       Elina Innanen
+    bio: >-
+      ✖ Vegan food blogger & cookbook author ✖ Helsinki, Finland ✖ elina@chocochili.net ⏩ My newest blog post
     location: "Finland"
-    followers: 24107
-    engagement: 314
-    commentsToLikes: 0.065376
+    followers: 24840
+    engagement: 325
+    commentsToLikes: 0.070851
     id: ck5hrhfeyuvx40i11jskgl9cp
     verified: false
-    hashtags: "#seasonal, #breadrolls, #apteekinainoa, #ravintolis"
+    hashtags: "#vegaani, #vegan, #chocochili, #summer"
   - username: "minnihei"
     fullname: >-
       Minni
+    bio: >-
+      Helsinki sustainable wannabe | rescue dogs | vegan food • Youtube @psolenvegaani 💌 minni.vaara@hotmail.com
     location: "Finland"
     followers: 11965
     engagement: 1112
     commentsToLikes: 0.037663
     id: ck5zwv1px6thg0i1475w84vo4
     verified: false
-    hashtags: "#buddhabowl, #treeni, #uutuus, #vastuullisuus"
+    hashtags: "#vegaaninen, #pysykotona, #flattenthecurve, #vegaani"
   - username: "maijuline"
     fullname: >-
       Maiju Laine
+    bio: >-
+      28 🌲 Finland 🇫🇮 Milliner 👒 Vintage & Victorian inspired 🕯️ Dressmaking 👗Vegan 🌱 My handmade @sylviaquaint 🕊️
     location: "Finland"
-    followers: 7889
-    engagement: 591
-    commentsToLikes: 0.023601
+    followers: 7900
+    engagement: 561
+    commentsToLikes: 0.024167
     id: ck138old7h91u0i19kdderx67
     verified: false
-    hashtags: "#memade, #vintageillustration, #muoditjamuodot, #1900"
-  - username: "piajoann"
+    hashtags: "#1890s, #lolitafashion, #ootd, #vintagestyle"
+  - username: "veganminna"
     fullname: >-
-      Tattooed ⚡️ Mom ⚡️
+      Minna | Vegan lifestyle 🌱
+    bio: >-
+      Blogger from Helsinki Bride to be 2021 💍 @icaniwill ”MINNAR20” -20 %
     location: "Finland"
-    followers: 10869
-    engagement: 946
-    commentsToLikes: 0.037894
-    id: ck5py57fuudf50i1195oiyea4
+    followers: 2348
+    engagement: 1313
+    commentsToLikes: 0.190074
+    id: ck6uhifw49ax10j7183cu5d71
     verified: false
-    hashtags: "#pirkkala, #instafriends, #estrid, #shaving"
-  - username: "vilmabergenheim"
+    hashtags: "#idealofsweden, #luonnonkosmetiikka, #luonnonkosmetiikkap, #summermemories"
+  - username: "tuuliatalvio"
     fullname: >-
-      Vilma Bergenheim
+      TUULIA TALVIO
+    bio: >-
+      healthy living ✵✧✵ good vibes Helsinki, Finland hello@tuulia.co
     location: "Finland"
-    followers: 7970
-    engagement: 606
-    commentsToLikes: 0.059361
-    id: ck15rhcxs7xtu0i1950h06xcx
+    followers: 23612
+    engagement: 263
+    commentsToLikes: 0.027239
+    id: ck55k2sv7ybmu0i11n435241o
     verified: false
-    hashtags: "#maidoton, #luomua, #tgif, #newproject"
-  - username: "alinavoronkova_"
+    hashtags: "#foodin, #vegan, #tuuliablog, #nourish"
+  - username: "tarukatarina"
     fullname: >-
-      ALINA VORONKOVA
+      Taru Kallionpää | FINLAND
+    bio: >-
+      made to make + loved to love wife & mama to carlos podcast host @mamcastpodi team @vitaminwellsuomi
     location: "Finland"
-    followers: 34919
-    engagement: 853
-    commentsToLikes: 0.017265
-    id: ck135z4iu3y9r0i1951du2ppr
+    followers: 11066
+    engagement: 1303
+    commentsToLikes: 0.039361
+    id: ck14lqhh5vz9q0i191rkmk9dk
     verified: false
-    hashtags: "#vapunviettoon, #rawmixblenders, #alina, #perlage"
-  - username: "missparaskeva"
+    hashtags: "#perfumefree, #babyboy, #newbornbaby, #pregnancy"
+  - username: "maijuriskala"
     fullname: >-
-      PASHA | Model From Finland 🇫🇮
+      MAIJU RISKALA
+    bio: >-
+      🏋🏾‍♀️ PT @bealivehealthclub | @mybnb_suomi 🖤 team @gymnation | 10 % off MAIJU 🌸 Ambassador @foodin | maiju15 🎙 @omantienkulkijapodcast
     location: "Finland"
-    followers: 1010979
-    engagement: 388
-    commentsToLikes: 0.015579
-    id: ck8t38xe62dbs0j78sxv2jj0g
+    followers: 11635
+    engagement: 1124
+    commentsToLikes: 0.045192
+    id: ck55k2jm4yazs0i11jci1ify8
     verified: false
-    hashtags: "#vegan, #photooftheday, #zodiacsign, #forestwalk"
+    hashtags: "#omantienkulkijapodcast, #wellness, #podcast, #giveaway"
 ---

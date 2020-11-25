@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In New York In 2020
 description: >-
-  Find top athletes TikTok influencers in New York in 2020. Most popular hashtags: #newyork #athlete #quarantine #love.
+  Find top athletes TikTok influencers in New York in 2020. Most popular hashtags: #fyp #newyork #sports #athlete.
 platform: TikTok
+hits: 22
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 22 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "overtimewbb"
+  - username: "4guysinabush"
     fullname: >-
-      Overtimewbb
+      Tik Toker
+    bio: >-
+      We are the freshest men to ever walk this Earth. You best believe it foo
     location: "United States"
-    followers: 961854
-    engagement: 2171
-    commentsToLikes: 0.006140
-    id: ck7zo3o85hhup0j78fsebvau5
+    followers: 31800
+    engagement: 1635
+    commentsToLikes: 0.046665
+    id: ck9sih7j0yvvd0j7837mpna08
+    verified: false
+    hashtags: "#animals, #jets, #football, #nfl"
+  - username: "steviothememeio"
+    fullname: >-
+      user846347574608
+    bio: >-
+      Spiderman: Into the Spider-Verse 15:23
+    location: "United States"
+    followers: 10700
+    engagement: 1442
+    commentsToLikes: 0.164774
+    id: ckd1a7g6ns5xi0j23gb73hm1r
+    verified: false
+    hashtags: "#dontletthisflop, #fyp, #duet, #christmas"
+  - username: "jakekulakowski"
+    fullname: >-
+      jake
+    bio: >-
+      new york ig: @jakekulakowski get your vibz merch now
+    location: "United States"
+    followers: 1300000
+    engagement: 2151
+    commentsToLikes: 0.056148
+    id: ck8f6fq8v2la40j78cpir1pds
+    verified: false
+    hashtags: "#showupshowoff, #fyp, #basketball, #viral"
+  - username: "nyctraveller"
+    fullname: >-
+      NYC and beyond
+    bio: >-
+      New York and so much more ✅
+    location: "United States"
+    followers: 186200
+    engagement: 681
+    commentsToLikes: 0.036800
+    id: ck7zp9vcso7gk0j78tvjx7c7t
+    verified: false
+    hashtags: "#art, #pa, #manhattan, #whatisthat"
+  - username: "nyclouthousee"
+    fullname: >-
+      New York Gang wya
+    bio: >-
+      Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
+    location: "United States"
+    followers: 26000
+    engagement: 1620
+    commentsToLikes: 0.070280
+    id: cka9kz60b17ur0i782wbhmp7m
+    verified: false
+    hashtags: "#foryou, #xyzbca, #518, #607"
+  - username: "nypost"
+    fullname: >-
+      New York Post
+    bio: >-
+      Your source for breaking news, gossip, sports, opinion, entertainment, and more.
+    location: "United States"
+    followers: 22100
+    engagement: 825
+    commentsToLikes: 0.036016
+    id: ckan4zo82clj60i78shg7wodm
     verified: true
-    hashtags: "#crysh, #quincy, #woah, #basketballgirl"
-  - username: "mgmmalcolm"
+    hashtags: "#fyp, #newyork, #ny, #update"
+  - username: "tay_nic_fit"
     fullname: >-
-      Mike
+      Taylor Nicole
+    bio: >-
+      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
     location: "United States"
-    followers: 3045
-    engagement: 354
-    commentsToLikes: 0.034399
-    id: ck9go9jx70cob0j78gq8ykc1s
+    followers: 11400
+    engagement: 1264
+    commentsToLikes: 0.029339
+    id: ckcpt5i2dnqgf0j2303pqodpw
     verified: false
-    hashtags: "#coorslight, #fastcar, #staysafe, #specialeffects"
-  - username: "sammyyyt"
+    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
+  - username: "doctor.justin"
     fullname: >-
-      Sammy Thayer
+      Doctor Justin
+    bio: >-
+      LA | NYC
     location: "United States"
-    followers: 6631
-    engagement: 964
-    commentsToLikes: 0.114708
-    id: ck9fmlqkru2ju0j78ehqjyfv5
+    followers: 34600
+    engagement: 1043
+    commentsToLikes: 0.037275
+    id: ckbfaciwk1s670j23nno31ibq
     verified: false
-    hashtags: "#travel, #laketahoe, #got2bhome, #eastcoast"
-  - username: "sportsmemers"
+    hashtags: "#doctor, #newyork, #medicine, #wewintogether"
+  - username: "nicolekonsta"
     fullname: >-
-      SportsMemes
+      Nicole Konsta
+    bio: >-
+      From mother Russia 🇷🇺 IG @nicolekonsta
     location: "United States"
-    followers: 2475
-    engagement: 1769
-    commentsToLikes: 0.040216
-    id: cka84a7drsq0p0i783qrehfbx
+    followers: 3083
+    engagement: 463
+    commentsToLikes: 0.020718
+    id: ck8qj4o0obu2l0j78dpr754bz
     verified: false
-    hashtags: "#rubberlegs, #hockeycheck, #sack, #boxing"
-  - username: "tia_getsfit"
+    hashtags: "#athlete, #foryoupage, #friends, #fyp"
+  - username: "josh24barry24"
     fullname: >-
-      Tia Gets Fit
+      Josh
+    bio: >-
+      Sports Pittsburgh Twitter: Josh24barry Insta: Josh24barry Snap:josh_isawesome2
     location: "United States"
-    followers: 7432
-    engagement: 1004
-    commentsToLikes: 0.027757
-    id: cka0n29k9xv570i78yg7bb73b
+    followers: 2390
+    engagement: 1029
+    commentsToLikes: 0.015544
+    id: ckdms7i4ma3sb0j23w8ej19k1
     verified: false
-    hashtags: "#momsoftiktok, #blacktiktok, #godcreatingme, #popsmoke"
-  - username: "groovydhruvy97"
-    fullname: >-
-      groovydhruvy97
-    location: "United States"
-    followers: 8605
-    engagement: 703
-    commentsToLikes: 0.013952
-    id: ck90xzn8v8rfz0j78n0v6fkmf
-    verified: false
-    hashtags: "#vlog, #concert, #playbyplay, #maketheleap"
-  - username: "adamkrimmel"
-    fullname: >-
-      Adam Krimmel
-    location: "United States"
-    followers: 20457
-    engagement: 2242
-    commentsToLikes: 0.021769
-    id: ck9n8rki38tyw0j78wisvoqau
-    verified: false
-    hashtags: "#animals, #dogs, #hungary, #music"
-  - username: "lang_ston"
-    fullname: >-
-      Laanngstonn 
-    location: "United States"
-    followers: 4650
-    engagement: 2031
-    commentsToLikes: 0.055365
-    id: cka7ng8dfwnne0i78ihwph0os
-    verified: false
-    hashtags: "#nowandthen, #hair, #drama, #fine"
-  - username: "zach.chin"
-    fullname: >-
-      ZACH & THERESA
-    location: "United States"
-    followers: 13789
-    engagement: 776
-    commentsToLikes: 0.117683
-    id: ck9k46jlnr6to0j78cvsg5yco
-    verified: false
-    hashtags: "#asiancouple, #hardwork, #asianathlete, #nikegang"
-  - username: "swiperightonlife"
-    fullname: >-
-      SwipeRightOnLife
-    location: "United States"
-    followers: 5018
-    engagement: 1994
-    commentsToLikes: 0.018586
-    id: ckacq8cm9zi190i78y5pduqkm
-    verified: false
-    hashtags: "#dandelion, #tomboy, #views, #hotdogchallenge"
+    hashtags: "#oof, #dinger, #baseballszn, #baseball"
 ---

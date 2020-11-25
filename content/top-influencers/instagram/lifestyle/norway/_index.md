@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Norway In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Norway in 2020. Most popular hashtags: #tights #happyplace #breakfast #strong.
+  Find top lifestyle Instagram influencers in Norway in 2020. Most popular hashtags: #hiking #visitnorway #naturephotography.
 platform: Instagram
+hits: 81
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 81 Instagram influencers like this in Norway for you to pitch.
 profiles:
   - username: "saumiya"
     fullname: >-
       MIYA T. 🦋
+    bio: >-
+      🙋🏾‍♀️ Dark Skin South Asian Fashion | Lifestyle 📧 saumiyainq@hotmail.com
     location: "Norway"
-    followers: 25810
-    engagement: 1112
-    commentsToLikes: 0.065007
+    followers: 107075
+    engagement: 1911
+    commentsToLikes: 0.023033
     id: ck8swuknrfagc0j7874qbjzbg
     verified: false
-    hashtags: "#pakistani, #femalefamily, #okaytoslay, #desi"
+    hashtags: "#desi, #tamil, #srilankan, #southasian"
   - username: "aanjaha"
     fullname: >-
       Anja Hansen
+    bio: >-
+      🇧🇻...🇧🇻...🇧🇻 🌼Active lifestyle🤸‍♀️ 🌼Trening/ Workout🏋️‍♀️ 🌼Friluftsliv/Hiking 🏇 🌼 🌼Collab: DM/email 🌼
     location: "Norway"
-    followers: 9701
-    engagement: 839
-    commentsToLikes: 0.435804
+    followers: 11232
+    engagement: 698
+    commentsToLikes: 0.422305
     id: ck9wevvp8m2fe0j78xx2c8c8x
     verified: false
-    hashtags: "#delicious, #ramnfloget, #viewpoint, #morning"
-  - username: "ingridkristiansen_"
+    hashtags: "#blond, #norging, #ocr, #utno"
+  - username: "michellebettina"
     fullname: >-
-      INGRID KRISTIANSEN
+      🦋Storyteller🦋 📍Norway
+    bio: >-
+      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
     location: "Norway"
-    followers: 3840
-    engagement: 1487
-    commentsToLikes: 0.226074
-    id: ck8t68e32cn750j78d0yv667f
+    followers: 39947
+    engagement: 481
+    commentsToLikes: 0.063986
+    id: ckaoz3jbjk7ne0i78aulzu91d
     verified: false
-    hashtags: "#heavylifting, #firgirl, #clothing, #hjemmetrening"
+    hashtags: ""
   - username: "juliebjanes"
     fullname: >-
       Julie Bjanes | NORWAY
+    bio: >-
+      👨‍👩‍👧 Family first 🤰🏽 🤸🏽‍♂️Personal Trainer 🏆Doing all the things they said I couldn’t ⛰Active lifestyle=makes me happy 🌍 travel
     location: "Norway"
-    followers: 15457
-    engagement: 513
-    commentsToLikes: 0.126739
+    followers: 15128
+    engagement: 336
+    commentsToLikes: 0.137986
     id: ck15qhvuk2x4x0i198u4yylk7
     verified: false
-    hashtags: "#oslo, #mammut, #possibilities, #sunrise"
+    hashtags: "#outdoorlife, #mother, #training, #mittfriluftsliv"
+  - username: "evelinekarlsen"
+    fullname: >-
+      Eveline Karlsen
+    bio: >-
+      Norway YouTuber, Beauty and lifestyle influencer Live and breathe Makeup 💄 Check out my YouTube-channel👇🏼
+    location: "Norway"
+    followers: 73469
+    engagement: 664
+    commentsToLikes: 0.009036
+    id: ck13c53ufynrz0i19n7mrbo8q
+    verified: false
+    hashtags: "#alwaysarden, #yesnakd, #nakdfashion, #wearecaia"
+  - username: "kamisaaurora"
+    fullname: >-
+      K A M I S A
+    bio: >-
+      Lifestyle |Motivation | Fitness ♡ TEAM NOCCO | TEAM BAREBELLS NY YOUTUBE VIDEO
+    location: "Norway"
+    followers: 3079
+    engagement: 1230
+    commentsToLikes: 0.111330
+    id: ck5bwq7eum74i0i11v5lwi1y0
+    verified: false
+    hashtags: "#melodigrandprix, #igtv, #blm, #reklame"
   - username: "anneliaaland"
     fullname: >-
-      ANNELI AALAND
+      ANNELI AALAND 🐬
+    bio: >-
+      oslo, norway fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
     location: "Norway"
-    followers: 6344
-    engagement: 539
-    commentsToLikes: 0.104416
+    followers: 7383
+    engagement: 473
+    commentsToLikes: 0.071035
     id: ck15r51nm66qx0i19agkwr2l9
     verified: false
-    hashtags: "#details, #coffee, #jewelry, #food"
-  - username: "runilandmark"
+    hashtags: "#zalandostyle, #outfit, #interior, #ootd"
+  - username: "typical.doctor"
     fullname: >-
-      🔮 Runi
+      Patrycja J.
+    bio: >-
+      Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
     location: "Norway"
-    followers: 39493
-    engagement: 730
-    commentsToLikes: 0.019549
-    id: ck5hn9sobnfyi0i11cqb8boan
+    followers: 6684
+    engagement: 964
+    commentsToLikes: 0.022930
+    id: ck8t1d2f5vavk0j78vrj3625b
     verified: false
-    hashtags: "#training, #fitfam, #legs, #glutes"
-  - username: "andrealowing"
-    fullname: >-
-      Andrea Lowing 👑 IFBB Bikini
-    location: "Norway"
-    followers: 12698
-    engagement: 762
-    commentsToLikes: 0.069578
-    id: ck8t6pi6led900j7848rkv3h0
-    verified: false
-    hashtags: "#squats, #girlswholift, #stayhome, #longtimenogym"
-  - username: "macerlyofficial"
-    fullname: >-
-      Macerly | Madeleine
-    location: "Norway"
-    followers: 23164
-    engagement: 849
-    commentsToLikes: 0.016949
-    id: ck6006jahd1is0i143mxpqitq
-    verified: false
-    hashtags: "#growingupwithsiblings, #dormroom, #university, #who"
+    hashtags: "#hike, #northnorway, #fall, #travelphotography"
   - username: "woicefu"
     fullname: >-
-      Kjærsti 🇧🇻
+      Kjærsti
+    bio: >-
+      I reeeally love food 🦋 Front-end developer 🦋 Fitness & Lifestyle
     location: "Norway"
-    followers: 2007
-    engagement: 1523
-    commentsToLikes: 0.086897
+    followers: 2110
+    engagement: 1211
+    commentsToLikes: 0.082200
     id: ckap2tdqr08lh0i78w6rnzmpt
     verified: false
-    hashtags: "#jagharviljan, #photoshopcc, #sprekeremeg, #treningsjenter"
+    hashtags: "#fitnessaddict, #motivasjon, #homeworkout, #homegymlife"
   - username: "zimmerchristina"
     fullname: >-
       🇳🇴 Christina Zimmer ❆
+    bio: >-
+      ↟ Photography ↟ Lifestyle ↟ Nature Karmøy / Alta #SonyA6500
     location: "Norway"
-    followers: 2067
-    engagement: 2789
-    commentsToLikes: 0.150813
+    followers: 2287
+    engagement: 2704
+    commentsToLikes: 0.153962
     id: ckaoubbhczm8u0i78xurqtttk
     verified: false
-    hashtags: "#weaddnature, #arctic, #naturelovers, #bunad"
+    hashtags: "#nordnorge, #thegreatplanet, #turjenter, #outdoorlife"
 ---

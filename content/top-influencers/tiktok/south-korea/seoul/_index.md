@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Seoul In 2020
 description: >-
-  Find top TikTok influencers in Seoul in 2020. Most popular hashtags: #yummy #latte #plankchallenge #travel.
+  Find top TikTok influencers in Seoul in 2020. Most popular hashtags: #seoul #korea #kpop #bts.
 platform: TikTok
+hits: 37
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 37 TikTok influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
-  - username: "bgreazy"
+  - username: "visitseoul"
     fullname: >-
-      Brett Gray
+      Visit Seoul
+    bio: >-
+      Seoul Tourism Organization Official Account Your favorite moments of Seoul 📹💙
     location: "South Korea"
-    followers: 1990760
-    engagement: 1837
-    commentsToLikes: 0.008349
-    id: ck8hrqm849wba0j7822fwtf2a
+    followers: 201600
+    engagement: 1406
+    commentsToLikes: 0.013512
+    id: ckc7l9bnps4xo0j23hd80rreu
     verified: true
-    hashtags: "#neverfitin, #onmyblock, #onmyblockseason3, #foryouppage"
+    hashtags: "#bts, #iseoulu, #visitseoul, #see"
+  - username: "jonghyuw"
+    fullname: >-
+      jonghyuw
+    bio: >-
+      Seoul based #wine lover Follow me on Instagram @jonghyuw
+    location: "South Korea"
+    followers: 17000
+    engagement: 235
+    commentsToLikes: 0.053920
+    id: ckcpdngotg1f30j23skmkmwzf
+    verified: false
+    hashtags: "#hanwoo, #wine, #champagne, #omakase"
+  - username: "out_of_manaa"
+    fullname: >-
+      out_of_mana
+    bio: >-
+      🌸 リサ | Lisa | 리사 🌸 (K-)Beauty • Make Up • Fashion Seoul 📍 my socials🔽
+    location: "South Korea"
+    followers: 31900
+    engagement: 1197
+    commentsToLikes: 0.015260
+    id: ckb9qgaxgm9680j23bazbl0u1
+    verified: false
+    hashtags: "#btsxarmy, #hongdae, #koreatravel, #lifeinkorea"
+  - username: "ooohrena"
+    fullname: >-
+      Renata Uchôa
+    bio: >-
+      Model Seoul, Korea. From 🇧🇷 Brazil
+    location: "South Korea"
+    followers: 119600
+    engagement: 1002
+    commentsToLikes: 0.013603
+    id: ckbf9cjvx06xs0j234b4nc614
+    verified: false
+    hashtags: "#model, #brazilian, #korea, #dueto"
   - username: "cury07"
     fullname: >-
       큐리Cury
+    bio: >-
+      From KOREA🇰🇷 SEOUL 지금 올리는 클럽영상들은 전부 코로나 전 영상입니다😊😊
     location: "South Korea"
-    followers: 10625
-    engagement: 502
-    commentsToLikes: 0.022694
+    followers: 16100
+    engagement: 651
+    commentsToLikes: 0.022909
     id: ck94o64rn9u7l0j78iffkidfy
     verified: false
-    hashtags: "#thailand, #tiktokcambodia, #phnomphen"
-  - username: "mudoctor"
-    fullname: >-
-      MUDOCTOR (뮤닥터 아카데미)
-    location: "South Korea"
-    followers: 118701
-    engagement: 861
-    commentsToLikes: 0.007453
-    id: ck9gmg6k1s8de0j78x0hpsega
-    verified: false
-    hashtags: "#blackpink, #fire, #siren, #kpopidol"
+    hashtags: "#dart"
   - username: "itsleonardlim"
     fullname: >-
       Leonard Lim
+    bio: >-
+      Currently in: Seoul Model, Former Athlete, and Entrepreneur
     location: "South Korea"
     followers: 4486
     engagement: 674
     commentsToLikes: 0.022460
     id: ck9fq4cjqaiev0j78g02wzvah
     verified: false
-    hashtags: "#jerking, #everydayscience, #accentcheck, #mensfashion"
+    hashtags: "#foryou, #justforyou, #fyp, #foryoupage"
   - username: "kcdf"
     fullname: >-
-      moonpd
+      kpop cocerdance festival
+    bio: >-
+      
     location: "South Korea"
-    followers: 133239
-    engagement: 4743
-    commentsToLikes: 0.011060
+    followers: 134100
+    engagement: 4629
+    commentsToLikes: 0.010734
     id: ck9gmg37ts7l20j780kqka10z
     verified: true
-    hashtags: "#freethrow, #basketball, #topgirlgroup, #seventeen"
-  - username: "_da.rae_"
+    hashtags: "#dreamconcert, #gfriend, #kpopcoverdancefestival, #kpopconcert"
+  - username: "robyninsk"
     fullname: >-
-      다래카페🏡
+      robyn 
+    bio: >-
+      23, she/her. living in south korea. 안녕하세요 학생 여러분 🙄 insta: robyn.faith
     location: "South Korea"
-    followers: 2261
-    engagement: 1042
-    commentsToLikes: 0.050459
-    id: ck9v6cvnz1rev0j78f2hccbms
+    followers: 10300
+    engagement: 1700
+    commentsToLikes: 0.033701
+    id: ckc8bpatt80090j23e8w0n51e
     verified: false
-    hashtags: "#toast, #tart, #coffeetime, #kiwi"
-  - username: "drharang"
+    hashtags: "#suga, #jhope, #rm, #yoongi"
+  - username: "jkqueen11"
     fullname: >-
-      강남허준 박용환
+      JK❄️
+    bio: >-
+      ♛⁷🇰🇷 03 ʟɪɴᴇ 어서와 이런 틱톡은 처음이지 ig : @jkqueen11 🌟
     location: "South Korea"
-    followers: 501779
-    engagement: 593
-    commentsToLikes: 0.023288
-    id: ck9eiy7h1zukc0j78ker5u11i
-    verified: true
-    hashtags: "#0415, #sore, #travel, #snack"
-  - username: "kangwon94"
-    fullname: >-
-      최강원
-    location: "South Korea"
-    followers: 72451
-    engagement: 1147
-    commentsToLikes: 0.020395
-    id: ck9n4kky94uyo0j78y23qo1ib
+    followers: 115700
+    engagement: 1638
+    commentsToLikes: 0.035089
+    id: ckbfe49ve7ryt0j23z1pvmskz
     verified: false
-    hashtags: "#my2019, #hello2020, #autumnvlog"
-  - username: "belbaseraj26"
+    hashtags: "#kpop, #taehyung, #trend, #korean"
+  - username: "hello_dongwon"
     fullname: >-
-      Amb25
+      hello_dongwon
+    bio: >-
+      instagram @hello_dongwon
     location: "South Korea"
-    followers: 387898
-    engagement: 462
-    commentsToLikes: 0.012792
-    id: ckan0lsxdr6jt0i78ox4zz1zx
+    followers: 384900
+    engagement: 1603
+    commentsToLikes: 0.009816
+    id: ckcdugqjxejtj0j23q1hw5kh7
     verified: false
-    hashtags: "#vietnam, #butwal, #nepal, #kmcc"
-  - username: "raisingheart"
-    fullname: >-
-      Autumn ♡
-    location: "South Korea"
-    followers: 6606
-    engagement: 1143
-    commentsToLikes: 0.015389
-    id: ck9nhfga4g0v50j78knf79x3i
-    verified: false
-    hashtags: "#yummy, #peppa, #china, #adventure"
+    hashtags: "#seoul, #southkorea, #seoultravel, #autumn"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In India In 2020
 description: >-
-  Find top vegan TikTok influencers in India in 2020. Most popular hashtags: #tiktokfood #vegan #tiktok #chai.
+  Find top vegan TikTok influencers in India in 2020. Most popular hashtags: #vegan #love #fyp #tiktokchef.
 platform: TikTok
+hits: 18
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 18 TikTok influencers like this in India for you to collaborate.
 profiles:
-  - username: "indian.food"
+  - username: "acharya.prashant.english"
     fullname: >-
-      माँ की रसोई
+      Acharya Prashant
+    bio: >-
+      Author and Vedanta Teacher
     location: "India"
-    followers: 77646
-    engagement: 820
-    commentsToLikes: 0.001531
-    id: cka0yv3zhcrvg0i78cv9c9ekl
+    followers: 46400
+    engagement: 397
+    commentsToLikes: 0.026867
+    id: ckbfikoufejeb0j23u8f2p3ix
     verified: false
-    hashtags: ""
+    hashtags: "#acharyaprashant, #spiritual, #life, #suffering"
+  - username: "ginniskitchen"
+    fullname: >-
+      Ginni’s Kitchen
+    bio: >-
+      Cooking life 🥘 Followme
+    location: "India"
+    followers: 30000
+    engagement: 702
+    commentsToLikes: 0.018644
+    id: ckbkqlp4tkx1i0j2334s0qafe
+    verified: false
+    hashtags: "#aj, #desi, #viral, #icecream"
   - username: "zomatoindia"
     fullname: >-
       Zomato
+    bio: >-
+      For all things related to food 😍
     location: "India"
-    followers: 14617
-    engagement: 143
-    commentsToLikes: 0.003977
+    followers: 14600
+    engagement: 144
+    commentsToLikes: 0.003996
     id: ck8z9zc8azsj80j78ek5784ol
     verified: true
-    hashtags: "#tiktokstory, #wintervibes, #instant, #shillong"
+    hashtags: "#saveouroceans, #happynewyear, #mysingingtalent, #explained"
+  - username: "rohilla.dad.n.son"
+    fullname: >-
+      माँ की रसोई
+    bio: >-
+      Chote Miya Bde Miya Content
+    location: "India"
+    followers: 76200
+    engagement: 807
+    commentsToLikes: 0.001418
+    id: cka0yv3zhcrvg0i78cv9c9ekl
+    verified: false
+    hashtags: "#quickbite, #indianfood, #vegan, #dcboyskl"
   - username: "popskitchen"
     fullname: >-
       chikufood
+    bio: >-
+      wanna talk 😆 come on Instagram How the food world is 😎🔥
     location: "India"
-    followers: 293423
-    engagement: 732
-    commentsToLikes: 0.005552
+    followers: 475900
+    engagement: 618
+    commentsToLikes: 0.005621
     id: ck80nr99ae4nj0j78hbohzpqv
     verified: false
-    hashtags: "#foodlovers, #revipes, #avacado, #foodrecupe"
-  - username: "akashgolu309"
-    fullname: >-
-      Chef's Choice
-    location: "India"
-    followers: 437876
-    engagement: 751
-    commentsToLikes: 0.002947
-    id: ck7zo2q0ph8gy0j787fy23a7s
-    verified: false
-    hashtags: "#roti, #lachaparatha, #panipuri, #burgerking"
+    hashtags: "#fyp, #tiktokfoodie, #popskitchen, #tiktokchef"
   - username: "sauravsonisocial"
     fullname: >-
       Saurav soni official
+    bio: >-
+      🥰 Keep Loving 🥰 Food Lovers ❤️ For More Tips Clik follow on insta 👇
     location: "India"
-    followers: 69168
-    engagement: 389
-    commentsToLikes: 0.002387
+    followers: 179200
+    engagement: 355
+    commentsToLikes: 0.003702
     id: cka0yv2decrqi0i78e8tuvb2t
     verified: false
-    hashtags: "#dahi, #tiktokfodiea, #chailovers"
-  - username: "omgnaina"
+    hashtags: "#tidelagaodaaghatao, #viral, #fyp, #foryoupage"
+  - username: "sujith_kannappan"
     fullname: >-
-      Naina Redhu
+      Sujith_Kannappan
+    bio: >-
+      passion proffession ആക്കാൻ ഒരു യോഗം ഒക്കെ വേണം..😎🙏💕 Insta ➡ sujith_kannappan
     location: "India"
-    followers: 4655
-    engagement: 421
-    commentsToLikes: 0.039159
-    id: ck9eukdore5bx0j78z3sadvjs
+    followers: 30100
+    engagement: 2354
+    commentsToLikes: 0.056653
+    id: ckblg0vr19t160j2322m60b0p
     verified: false
-    hashtags: "#haircolor, #doordie, #omgnaima, #hairgoals"
-  - username: "giakashyap"
+    hashtags: "#duet, #favourite, #acting, #malayalam"
+  - username: "harshit_verma_"
     fullname: >-
-      Gia Kashyap
+      Harshit 
+    bio: >-
+      😎😎follow me on instagram please😎😎
     location: "India"
-    followers: 70481
-    engagement: 557
-    commentsToLikes: 0.020523
-    id: ckai9neb38z3p0i78vak0gdc7
-    verified: true
-    hashtags: "#neverfitin, #selfiegame, #truestory, #indoorshoot"
-  - username: "chefkelvincheung"
-    fullname: >-
-      Kelvin Cheung
-    location: "India"
-    followers: 7588
-    engagement: 624
-    commentsToLikes: 0.020766
-    id: cka0x4nrz5ic60i78dqweoclk
-    verified: true
-    hashtags: "#banana, #smoothie, #bacon, #sugar"
-  - username: "vicky.ratnani"
-    fullname: >-
-      vicky.ratnani
-    location: "India"
-    followers: 90996
-    engagement: 400
-    commentsToLikes: 0.002549
-    id: ck94o609u9skt0j78cyrbqpeq
-    verified: true
-    hashtags: "#chilli, #bepositive, #sufi, #doubleaged"
-  - username: "foodreviewskochi"
-    fullname: >-
-      foodreviewskochi
-    location: "India"
-    followers: 169660
-    engagement: 755
-    commentsToLikes: 0.003315
-    id: ck9ey5qazudvy0j78hhmrpet6
+    followers: 4617
+    engagement: 2863
+    commentsToLikes: 0.044611
+    id: ckbkt2c33o2jx0j230ig6v5r5
     verified: false
-    hashtags: "#halwa, #tiktokkerala, #barbecue, #mandhi"
+    hashtags: "#art, #beautiful, #color, #fallow"
+  - username: "sharn1998"
+    fullname: >-
+      sharn1998
+    bio: >-
+      modling
+    location: "India"
+    followers: 2739
+    engagement: 2294
+    commentsToLikes: 0.040125
+    id: ckb9m7g6kf6ri0j23b03pmbrk
+    verified: false
+    hashtags: "#sajnadeb, #doubleexposure, #trending, #teramerarishta"
+  - username: "dilshadkhan3435"
+    fullname: >-
+      Dilshad Khan
+    bio: >-
+      
+    location: "India"
+    followers: 4792
+    engagement: 5647
+    commentsToLikes: 0.035916
+    id: ckb9f6l2w3gi00j23l9dt3onv
+    verified: false
+    hashtags: "#tumblr, #nosering, #bestoftheday, #love"
 ---

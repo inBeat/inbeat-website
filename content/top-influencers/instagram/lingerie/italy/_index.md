@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Italy In 2020
 description: >-
-  Find top lingerie Instagram influencers in Italy in 2020. Most popular hashtags: #lingerie #quarantine #portrait #pink.
+  Find top lingerie Instagram influencers in Italy in 2020. Most popular hashtags: #lingerie #lingerielove #fashion #intimo.
 platform: Instagram
+hits: 182
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 182 Instagram influencers like this in Italy for you to pitch.
 profiles:
+  - username: "elenorash"
+    fullname: >-
+      Ele Norash | Cantante | Model
+    bio: >-
+      Curvy model Glamour & Lingerie 👙 👇 TUTTE LE FOTO LE TROVATE SUL SITO MYM👇 Info & Collaborazioni 📧: elenorash.info@gmail.com
+    location: "Italy"
+    followers: 37521
+    engagement: 444
+    commentsToLikes: 0.070544
+    id: ck9hb6nwkfm180j78uif3dtmt
+    verified: false
+    hashtags: "#hotcosplay, #sexycosplayer, #castelfiorentino, #cosplaygirl"
   - username: "cuordibambola"
     fullname: >-
       🎀 Irene Manco
+    bio: >-
+      📷 @corpupae 👙 @coeurdepoupee art model and lingerie designer based in Florence, Italy
     location: "Italy"
-    followers: 10081
-    engagement: 1348
-    commentsToLikes: 0.012163
+    followers: 10771
+    engagement: 1364
+    commentsToLikes: 0.011076
     id: ck0w2anlinejh0i19l42zxin9
     verified: false
     hashtags: ""
   - username: "karinagiada"
     fullname: >-
       K A R I N A  G I A D A
+    bio: >-
+      FASHION & LINGERIE Illustrator Based in Italy 📍 Email for Custom Orders 📩 I.D. Sarrieri | Elma Lingerie | Sofía Luzón | StelaVitsu | Pierre Noire
     location: "Italy"
-    followers: 8377
-    engagement: 654
-    commentsToLikes: 0.052203
+    followers: 12560
+    engagement: 809
+    commentsToLikes: 0.036897
     id: ck9wf91b0nrap0j78zz2p9zds
     verified: false
-    hashtags: ""
-  - username: "gcolasante"
+    hashtags: "#fashionillustration, #fashionillustrated, #lingerielovers, #fashionfeature007"
+  - username: "brokenmirror._"
     fullname: >-
-      GRACIELLA
+      Claudia Campani
+    bio: >-
+      Modella Alternativa 🖤 Attrice 🎬 Cantante 🎤 @charliez__angelz @charliezangelzitaly ⠀ Manager: 👉🏻 @lexius_official ⠀ 📍 Milano ⠀ Richiesta shooting:👇🏻
     location: "Italy"
-    followers: 23507
-    engagement: 608
-    commentsToLikes: 0.064826
-    id: ck6ubvakpbwpt0j71e7s6e5no
+    followers: 32539
+    engagement: 562
+    commentsToLikes: 0.069858
+    id: ckapcko2m47qf0i78qgjri9zc
     verified: false
-    hashtags: "#quedateencasa, #cuarentena, #brothers, #natural"
-  - username: "ari.annina90"
+    hashtags: "#blonde, #inkedgirls, #tattoo, #inkedmodel"
+  - username: "over50_yo"
     fullname: >-
-      Arianna Locatelli
+      M. Di Costanzo
+    bio: >-
+      🇮🇪 Italy ECLECTIC ARTIST -PAINTER 🎨 MODEL y WINEINFLUENCER 🍷@marina_arteyvino @best_models_over Info.08.dicostanzo@gmail.com ⬇️PATREON⬇️
     location: "Italy"
-    followers: 15107
-    engagement: 1662
-    commentsToLikes: 0.098982
-    id: ck6u3dzo3x9vf0j71vim7zz4p
+    followers: 251889
+    engagement: 396
+    commentsToLikes: 0.036477
+    id: ckaoxtvl1eq8z0i78xpcbzxxl
     verified: false
-    hashtags: "#vascadabagno, #cucina, #mybag, #mytattoo"
-  - username: "agnesemarceline"
+    hashtags: "#shootmode, #shootingtime, #intimo, #intimosexy"
+  - username: "simonafloresta"
     fullname: >-
-      Linda Antonioni
+      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚
+    bio: >-
+      𝗖𝗿𝗲𝗱𝗲𝗻𝗱𝗼 𝘃𝗶𝗱𝗲𝘀 ☉libra ↑libra ☾pisces 📍Milan 𝐛𝐮𝐭 𝐰𝐢𝐭𝐡 𝐦𝐢𝐧𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐦𝐨𝐨𝐧 🌙 @naba Fashion Stylist @revolve Ambassador 💌 simoflore.sf@gmail.com
     location: "Italy"
-    followers: 3489
-    engagement: 1751
-    commentsToLikes: 0.305778
-    id: ck6tzxdzecfj10j718ex27kw9
+    followers: 27290
+    engagement: 439
+    commentsToLikes: 0.099312
+    id: ck13anyzorbj00i19iew4d4pd
     verified: false
-    hashtags: "#valentine, #chevita, #unity, #rickemorty"
-  - username: "jessjcajayreal"
+    hashtags: "#nudefeed, #revolveambassador, #revolvesummer, #vintageoutfit"
+  - username: "madeleinemajdal"
     fullname: >-
-      👑 JESSICA GIOVANE 👑 JessjcaJay
+      Madeleine
+    bio: >-
+      Beauty canons change feminity stays. Eco-friendly Brandbassador 🦢 Follow me also here @maddiemajdal Based in Roma
     location: "Italy"
-    followers: 141443
-    engagement: 326
-    commentsToLikes: 0.064570
-    id: ck8t0ct95rmn00j787p8jy0em
+    followers: 101095
+    engagement: 714
+    commentsToLikes: 0.025308
+    id: ck6uav7a85uuz0j713111dnv0
     verified: false
-    hashtags: "#birthday, #torredimanfria, #april, #nostalgica"
-  - username: "federicamicoli"
+    hashtags: "#summer, #skin, #repost, #nomakeup"
+  - username: "myriamdicarlo"
     fullname: >-
-      Closette | Content Creator
+      ᴍɪʀɪᴀᴍ ᴅɪ ᴄᴀʀʟᴏ | ɪɴꜰʟᴜᴇɴᴄᴇʀ
+    bio: >-
+      ♎️ ʟɪʙʀᴀ ᴀꜱᴄᴇɴᴅɪɴɢ ꜱᴀɢɪᴛᴛᴀʀɪᴜꜱ ♐️ 🌟 22, ɪɴfʟᴜᴇɴᴄᴇʀ ⚖️-12 ᴋɢ 🌋 ʙᴏʀɴ ɪɴ Sɪᴄɪʟʏ 📨 miriamdicarlo98@gmail.com 🎶 ᴛɪᴋᴛᴏᴋ ⬇️
     location: "Italy"
-    followers: 71064
-    engagement: 338
-    commentsToLikes: 0.281688
-    id: ck5c4lhez1lfk0i11b3pvhm01
+    followers: 26127
+    engagement: 416
+    commentsToLikes: 0.166369
+    id: ck9hc44c5jotv0j784t6udr54
     verified: false
-    hashtags: "#jeanslook, #braph, #floralportrait, #velvetskirt"
-  - username: "whoisdesi_"
+    hashtags: "#bloggerlife, #blogdemoda, #tflers, #mtfollowelike"
+  - username: "steph.tya"
     fullname: >-
-      Desirèe ♎
+      ★𝕊𝕋𝔼ℙℍ𝔸ℕ𝕀𝔼 𝔼 𝕋𝕐𝔸ℕ𝔸★
+    bio: >-
+      𝕄𝕠𝕞 𝕠𝕗 @vida.de.tyana ♕♡ 𝕀𝕥𝕒𝕝𝕪 🇮🇹 𝔻𝕞/𝕄𝕒𝕚𝕝 𝕗𝕠𝕣 𝕔𝕠𝕝𝕝𝕒𝕓𝕤 📩 stephanieagata93@gmail.com
     location: "Italy"
-    followers: 9513
-    engagement: 2583
-    commentsToLikes: 0.030253
-    id: ck9habs7kbxzq0j7803m0va2o
+    followers: 78773
+    engagement: 330
+    commentsToLikes: 0.092026
+    id: ck136wfyp8l3e0i193ps2v7hx
     verified: false
-    hashtags: "#sexywoman, #ladies, #pantyhosesexy, #egyptiangirl"
-  - username: "lahilary__"
+    hashtags: "#black, #babies, #io, #blond"
+  - username: "cattivipensieri_"
     fullname: >-
-      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
+      Sabina Sirianni
+    bio: >-
+      My life is a great passion. Wine taster🍷Food 🍴Beauty&Make-up💄Lifestyle 🌺Books📖Cats😺 Varese, Italy 🇮🇹 Only my photos 📷 Collaboration: direct or email
     location: "Italy"
-    followers: 7211
-    engagement: 842
-    commentsToLikes: 0.106370
-    id: ck5c0s71dtr490i11ku0zhjsc
+    followers: 17406
+    engagement: 436
+    commentsToLikes: 0.179721
+    id: ck5zxt4618m3g0i14loj16x9q
     verified: false
-    hashtags: "#ragazze, #rules, #meal, #dayoff"
-  - username: "franceskapepe"
-    fullname: >-
-      𝐅𝐫𝐚𝐧𝐜𝐞𝐬𝐜𝐚 𝐏𝐞𝐩𝐞
-    location: "Italy"
-    followers: 43762
-    engagement: 297
-    commentsToLikes: 0.103331
-    id: ckaoxg9ocd47p0i78pfhukik1
-    verified: false
-    hashtags: "#cheek, #goodmorning, #skatergirl, #foodporn"
+    hashtags: "#mylife, #lovemyself, #over40style, #donnaitaliana"
 ---

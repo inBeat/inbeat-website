@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Austin In 2020
 description: >-
-  Find top skincare TikTok influencers in Austin in 2020. Most popular hashtags: #finalsathome #skincare #music #coronavirus.
+  Find top skincare TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #greenscreen #skincare #duet.
 platform: TikTok
+hits: 40
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 40 TikTok influencers like this in Austin, United States for you to pitch.
 profiles:
-  - username: "swiftwellness"
+  - username: "leonamarlene"
     fullname: >-
-      swiftwellness
+      leona ✨
+    bio: >-
+      nomad life • travel + more sharing influencer resources ✨ FOLLOW ALONG ON IG 🌸
     location: "United States"
-    followers: 204135
-    engagement: 751
-    commentsToLikes: 0.063306
-    id: ck81q0y7qf2fw0j7865fjsj3q
+    followers: 38300
+    engagement: 731
+    commentsToLikes: 0.048813
+    id: ckbqf509e0uvj0j23pjhrbgyx
     verified: false
-    hashtags: "#myoutfit, #bodypositivity, #healthheroes, #shop"
-  - username: "newmanparkerr"
+    hashtags: "#socialmediatips, #workwithbrands, #influencer101, #tipsbyleona"
+  - username: "heyitsfiza"
     fullname: >-
-      newmanparkerr
+      Fiza
+    bio: >-
+      follow/subscribe ❤️ 🎃
     location: "United States"
-    followers: 11425
-    engagement: 361
-    commentsToLikes: 0.029983
-    id: ck9flm2eiom7c0j78ykktas1o
+    followers: 22100
+    engagement: 1091
+    commentsToLikes: 0.036367
+    id: ck8z1pjmh2f740j78xkbwpu5u
     verified: false
-    hashtags: "#gucci, #closet, #foodie, #zoom"
-  - username: "officialmikedrop"
+    hashtags: "#foreignexchange, #duet, #fyp, #phrog"
+  - username: "its_taceyman"
     fullname: >-
-      Michael Brent
+      Its_Taceyman
+    bio: >-
+      Austin Tacey if you wanna know my name 😘 AMOS~Tacey2000 20
     location: "United States"
-    followers: 68735
-    engagement: 1385
-    commentsToLikes: 0.022134
-    id: cka0iny9hehpc0i78jqnbyn66
+    followers: 31900
+    engagement: 2662
+    commentsToLikes: 0.021108
+    id: ckaiaf07wc0nw0i78rqow35na
     verified: false
-    hashtags: "#guitar, #conversations, #audio, #losangeles"
-  - username: "guacamolethong"
+    hashtags: "#onlyfanpage, #fy, #michigan, #greenscreen"
+  - username: "gay4plants"
     fullname: >-
-      justin english
+      Gay4Plants
+    bio: >-
+      She/Her & They/Them PO Box 140101, Austin TX, USA Venmo: Gretasaur BLM✊🏿 ✊🏾
     location: "United States"
-    followers: 100186
-    engagement: 2490
-    commentsToLikes: 0.029329
-    id: ckacw6oj0r43j0i78u71bl4xw
+    followers: 64400
+    engagement: 1455
+    commentsToLikes: 0.037182
+    id: ck81s78kjqikc0j78dq2yjczq
     verified: false
-    hashtags: "#venmo, #mishap, #pepethefrog, #shelleyduvall"
-  - username: "justinemarjan"
+    hashtags: "#plantmom, #houseplants, #iloveplants, #queer"
+  - username: "hailiebarberr"
     fullname: >-
-      Justine Marjan
+      Hailie Barber
+    bio: >-
+      ☁️ 24 Austin, TX
     location: "United States"
-    followers: 52568
-    engagement: 708
-    commentsToLikes: 0.044670
-    id: ck93ovw3p6r0j0j78gw5hh38i
-    verified: true
-    hashtags: "#beautyhaul, #hairtutorial, #inthehouseparty, #arrowchallenge"
-  - username: "darapayne1"
-    fullname: >-
-      DaraPayne1
-    location: "United States"
-    followers: 8406
-    engagement: 1135
-    commentsToLikes: 0.057242
-    id: ck9ncf2mabveo0j784wfkbye1
+    followers: 45300
+    engagement: 1564
+    commentsToLikes: 0.014523
+    id: ckbqglj5d248z0j23gno2752y
     verified: false
-    hashtags: "#30club, #biracialcouple, #danandshay, #whattimeisit"
-  - username: "justinlee617"
+    hashtags: "#greenscreen, #ad, #snoozzzapalooza, #asos"
+  - username: "em.arz"
     fullname: >-
-      Justin Lee
+      emily
+    bio: >-
+      Austin, TX 🇮🇷
     location: "United States"
-    followers: 13972
-    engagement: 1464
-    commentsToLikes: 0.006577
-    id: ck9kd2fu7s9fu0j78znm9w5un
+    followers: 30000
+    engagement: 925
+    commentsToLikes: 0.017636
+    id: ckc7t7yutxoh20j23o8rgnb22
     verified: false
-    hashtags: "#namegame, #designerbag, #boba, #accutanecheck"
-  - username: "mireyarios"
+    hashtags: "#fyp, #relationship, #duet, #coffee"
+  - username: "austinkalama0"
     fullname: >-
-      Mireya Rios 
+      Austin Kalama
+    bio: >-
+      Professional big wave surfer Maui Hawai’i 22 IG @austinkalama
     location: "United States"
-    followers: 479684
-    engagement: 1877
-    commentsToLikes: 0.013993
-    id: ck7zp0w2emyx00j78gurb6lcg
-    verified: true
-    hashtags: "#coolgirl, #esportsforall, #peppermint, #asmrtrigger"
-  - username: "cosmopolitan"
-    fullname: >-
-      Cosmopolitan 
-    location: "United States"
-    followers: 361213
-    engagement: 1291
-    commentsToLikes: 0.013023
-    id: ck80706b2njhh0j78n8cok61i
-    verified: true
-    hashtags: "#eyeshadow, #docsoftiktok, #makeuptutorial, #relationship"
-  - username: "208skindoc"
-    fullname: >-
-      Dr Dustin Portela
-    location: "United States"
-    followers: 235540
-    engagement: 937
-    commentsToLikes: 0.024117
-    id: ck8z9e7pkxrzo0j78teqeawdk
+    followers: 9633
+    engagement: 665
+    commentsToLikes: 0.020861
+    id: ckdc9s27oijcm0j23ggu14r7a
     verified: false
-    hashtags: "#facechallenge, #homeroutine, #productreviews, #5gcrazy"
+    hashtags: "#foryoupage, #hawaii, #airheadsditchchallenge, #fyp"
+  - username: "amykristine27"
+    fullname: >-
+      AmyKristine
+    bio: >-
+      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
+    location: "United States"
+    followers: 13100
+    engagement: 621
+    commentsToLikes: 0.051960
+    id: ck9k2n6dll0e40j78ez8l5xog
+    verified: false
+    hashtags: "#horrortok, #texas, #halloween, #winter"
+  - username: "tbish99"
+    fullname: >-
+      Thomas Bishop
+    bio: >-
+      Follow if you think I’m mildly funny Thanks for 10k😤
+    location: "United States"
+    followers: 14400
+    engagement: 809
+    commentsToLikes: 0.036202
+    id: ckdn1oambd8oh0j23tel8ekaw
+    verified: false
+    hashtags: "#duet, #quarantine, #xbox, #iowa"
+  - username: "_danikathehermit_"
+    fullname: >-
+      Danika
+    bio: >-
+      I have a sock collection Proud Step-Chicken🐓 ✨18✨
+    location: "United States"
+    followers: 107600
+    engagement: 2245
+    commentsToLikes: 0.013048
+    id: ck8ourb7tqx1b0j789mu0h6ef
+    verified: false
+    hashtags: "#collegelife, #foryoupage, #algorithm, #walmart2hrexpress"
 ---

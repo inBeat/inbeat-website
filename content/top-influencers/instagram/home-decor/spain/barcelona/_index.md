@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top home decor Instagram influencers in Barcelona in 2020. Most popular hashtags: #homedecor #decoracion #design #homedesign.
+  Find top home decor Instagram influencers in Barcelona in 2020. Most popular hashtags: #homedecor #home #barcelona #igersbcn.
 platform: Instagram
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "pilar_ohmyblog"
+  - username: "nuria_tomas"
     fullname: >-
-      Pilar OhMyBlog 💋
+      Núria Tomás
+    bio: >-
+      BCN - MAD 🚀 Founder & CEO @apoloxcommunication 🥚 Founder and Designer @eggsoeggso 🎬 Actress @macutotalent
     location: "Spain"
-    followers: 47461
-    engagement: 245
-    commentsToLikes: 0.125788
-    id: ck5zt4jwxzq530i14quw018q7
+    followers: 44663
+    engagement: 169
+    commentsToLikes: 0.035100
+    id: ck5cfqfuvng4u0i115i3gwy2q
     verified: false
-    hashtags: "#novia, #escotecuadrado, #rojo, #outfitverano"
+    hashtags: "#pregnancy, #pregnant, #pregnantstyle, #fotografiaembarazo"
+  - username: "soyunmix"
+    fullname: >-
+      Mechi Lozada 🎀 Lifestyle
+    bio: >-
+      Mi vida en Francia sin edición. 🎀 Embajadora @shesmercedescolcar Me gusta verle el lado positivo a todo lo que pasa en la vida. Comprá mis productos!
+    location: "Spain"
+    followers: 172953
+    engagement: 267
+    commentsToLikes: 0.141719
+    id: ck5hibvxgcpe80i11vvwx4fdm
+    verified: true
+    hashtags: "#abmtravelbug, #loves, #soyunmixfeliz, #abmlifeiscolorful"
   - username: "dalmauvives"
     fullname: >-
       Dalmau Vives 🚶🏻‍♀️bARTcelona
+    bio: >-
+      All pictures taken by me with my iPhone. 🚶🏻Art🚶🏻Streetart🚶🏻Travel🚶🏻Culture🚶🏻Architecture🚶🏻Advertising🚶🏻Lifestyle🚶🏻Nature🚶🏻Barcelona 🚶🏻‍♀️🚶🏻
     location: "Spain"
     followers: 2214
     engagement: 1315
     commentsToLikes: 0.077438
     id: ck8t5b8729hr20j78aezg5zkw
     verified: false
-    hashtags: "#mountain, #travelingram, #exposicion, #ginorubert"
-  - username: "cuentimarina"
+    hashtags: "#barcelonalife, #sport, #mural, #art"
+  - username: "anne.arte"
     fullname: >-
-      Marina Martín✖️Bodas de Cuento
+      Ana Clerici
+    bio: >-
+      Argentinian artist ⓓⓘⓖⓘⓣⓐⓛ ⓐⓡⓣ & ⓟⓐⓘⓝⓣⓘⓝⓖ anaclerici90@gmail.com
     location: "Spain"
-    followers: 15800
-    engagement: 197
-    commentsToLikes: 0.077437
-    id: ck5c63xsm4o530i11lyflohul
+    followers: 27429
+    engagement: 177
+    commentsToLikes: 0.015198
+    id: ck5cf40k3m8mj0i11suu2vjn7
     verified: false
-    hashtags: "#home, #sunday, #homedecor, #boda"
-  - username: "dontworrybecamper"
+    hashtags: ""
+  - username: "alexanderap94"
     fullname: >-
-      Eric & Mari ✱ Travel Couple
+      A L E X A N Ð E R
+    bio: >-
+      📍 Granada, Spain 🇪🇸 🚨 Critical Care Nurse
     location: "Spain"
-    followers: 23445
-    engagement: 586
-    commentsToLikes: 0.048723
-    id: ck5qegsce0evv0i11xl9jepwu
+    followers: 12889
+    engagement: 777
+    commentsToLikes: 0.013378
+    id: ck15twfg1k8x40i197d218jte
     verified: false
-    hashtags: "#cityscape, #vacationmode, #travelbloggers, #santjordi"
+    hashtags: "#boy, #amazing, #menswear, #cute"
+  - username: "thegoldlipstick"
+    fullname: >-
+      Mireia from The Gold Lipstick
+    bio: >-
+      ▪️fashion & self-care blogger 📍Barcelona ✉️thegoldlipstick@gmail.com ✨love and lipstick ▫️www.thegoldlipstick.com
+    location: "Spain"
+    followers: 3558
+    engagement: 1687
+    commentsToLikes: 0.350036
+    id: ck0tyj2kvn1ds0i19upv4nd49
+    verified: false
+    hashtags: "#frenchvibes, #parismood, #outfitselfie, #styledetails"
   - username: "iraloginova"
     fullname: >-
-      irina  loginova 📍 barcelona
+      irina  loginova
+    bio: >-
+      ▪️don’t just exist, live and make money 📍 Barcelona | Spain 🇪🇸
     location: "Spain"
-    followers: 6541
-    engagement: 231
-    commentsToLikes: 0.128388
+    followers: 31016
+    engagement: 66
+    commentsToLikes: 0.166545
     id: ck1397toljyye0i191ejr8204
     verified: false
-    hashtags: "#spain, #yomequedoencasa, #staysafe, #summer2020"
+    hashtags: "#bepositive, #dreamhome, #spf, #horsebackriding"
   - username: "bella.como.camella"
     fullname: >-
       Amanda Marín Gutiérrez
+    bio: >-
+      BEAUTY // FASHION // LIFESTYLE 📍Barcelona 💌 Bella.como.camellaa@gmail.com More⬇️ https://bellacomocamella.wordpress.com/
     location: "Spain"
-    followers: 7292
-    engagement: 428
-    commentsToLikes: 0.085549
+    followers: 8222
+    engagement: 361
+    commentsToLikes: 0.074438
     id: ck5ztja9l0is90i14dcvkw48q
     verified: false
-    hashtags: "#elle, #elleledition, #barcelonalife, #yeouthskincare"
-  - username: "mumaoi"
+    hashtags: "#ybb8ed, #flatlay, #hivencyawardses, #irohanaturemask"
+  - username: "allegri_art"
     fullname: >-
-      Raquel * Home & Kids Inspo
+      Arianna Allegri
+    bio: >-
+      🌱 Venezolana en Barcelona 🌈 Ilustraciones en acuarela #watercolorpainter #handmadewithlove YouTube | Tienda 👇🏻
     location: "Spain"
-    followers: 11685
-    engagement: 734
-    commentsToLikes: 0.169994
-    id: ck6uarsx359ot0j71vl09ufor
+    followers: 21111
+    engagement: 1576
+    commentsToLikes: 0.025779
+    id: ck9hahoi8ckz70j785ds0svpx
     verified: false
-    hashtags: "#decoracion, #homestylist, #ideasdecoracion, #laundryroom"
-  - username: "v1kasso"
+    hashtags: "#artistasenbarcelona, #sketch, #acuarelabotanica, #botanicalpainting"
+  - username: "lovelihome"
     fullname: >-
-      Vicky Remiss Art 🎨
+      🌿Maria🌿
+    bio: >-
+      ▪️Lifestyle • Deco • Kids • Fashion• Beauty▪️ 👬 Mum of Hugo and Lucas Barcelona 🌍 Spain ⬇️⬇️⬇️⬇️
     location: "Spain"
-    followers: 20147
-    engagement: 328
-    commentsToLikes: 0.042230
-    id: ck14l0cjqs88m0i199lqs7rpy
+    followers: 25686
+    engagement: 483
+    commentsToLikes: 0.063023
+    id: ck55oahzf7yw40i11uvbqnu69
     verified: false
-    hashtags: "#fluidpainting, #geometricabstraction, #kittycompany, #catso"
-  - username: "adriamolins"
-    fullname: >-
-      Adria Molins
-    location: "Spain"
-    followers: 7340
-    engagement: 911
-    commentsToLikes: 0.050690
-    id: ck0w00cqybrmj0i19mcdu11ez
-    verified: false
-    hashtags: "#edit, #illmatic, #hifructose, #edgarallanpoe"
-  - username: "hap_fashion"
-    fullname: >-
-      H͙E͙I͙D͙Y͙
-    location: "Spain"
-    followers: 212654
-    engagement: 92
-    commentsToLikes: 0.012536
-    id: ck0u0q731uk7t0i19ka2l1eyi
-    verified: false
-    hashtags: "#myinterior, #storage, #fashion, #interi"
+    hashtags: "#tarkettflooring, #livingroom, #antesydespues, #salones"
 ---

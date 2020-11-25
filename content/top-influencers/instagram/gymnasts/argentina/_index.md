@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Argentina In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Argentina in 2020. Most popular hashtags: #gymnastics #fitness #cuarentena #home.
+  Find top gymnasts Instagram influencers in Argentina in 2020. Most popular hashtags: #gymnastics #gym #training #cuarentena.
 platform: Instagram
+hits: 20
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "anahisosa1"
     fullname: >-
       Anahi Sosa - Анаи Соса
+    bio: >-
+      #KempesTeam - Argentina. National Team of rhythmic gymnastics (1993-2007). Head coach Rhythmic Gymnastics School, Government of Córdoba. Journalist.
     location: "Argentina"
     followers: 9147
     engagement: 622
     commentsToLikes: 0.021347
     id: ck0twbengeqwe0i19hlnofbgl
     verified: false
-    hashtags: "#rumboadakar2022, #anahisosa, #shooting, #traininghome"
-  - username: "negro.arigossi"
+    hashtags: "#gimnasioscordoba, #no, #musculacion, #prevenci"
+  - username: "maguigroppo"
     fullname: >-
-      Maximiliano
+      𝖬𝖺𝗀𝖽𝖺𝗅𝖾𝗇𝖺 - 𝖭𝖺𝗍𝗎𝗋𝖺𝗅 𝖧𝖺𝖻𝗂𝗍𝖺𝗍 🍃
+    bio: >-
+      📍Buenos Aires, Argentina 🇦🇷 📚Prof.Educación Física, UnLaM en Proceso 🌟 🤝CF & Gymnastics Coach ⛩ @samurai.team Athlete
     location: "Argentina"
-    followers: 36914
-    engagement: 456
-    commentsToLikes: 0.017256
-    id: ck5zyjjxga0960i140m5e8xt8
+    followers: 11319
+    engagement: 1014
+    commentsToLikes: 0.020247
+    id: ckf5lou3jqdig0j23vos2so1n
     verified: false
-    hashtags: "#quarantinechallenge, #fail, #halterofilia, #roadtomadison"
-  - username: "alexcastro_melgoza"
+    hashtags: "#bodysculpture, #workout, #crossfit, #exercise"
+  - username: "martu_dominici"
     fullname: >-
-      𝐀𝐥𝐞𝐱 𝐂𝐚𝐬𝐭𝐫𝐨 𝐌𝐞𝐥𝐠𝐨𝐳𝐚
+      Martu Dominici
+    bio: >-
+      Elite gymnast - Argentina 🇦🇷 𝘉𝘦𝘭𝘪𝘦𝘷𝘦 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘥𝘳𝘦𝘢𝘮𝘴 🌟 Tokio 2021 🇯🇵
     location: "Argentina"
-    followers: 142883
-    engagement: 783
-    commentsToLikes: 0.007906
-    id: ck5c5rr3c416a0i11kh4cme6p
+    followers: 27799
+    engagement: 1324
+    commentsToLikes: 0.016995
+    id: ck5c98apjaynt0i11r0syo8bu
     verified: false
-    hashtags: "#couples, #strong, #diadelatierra, #birthday"
-  - username: "juan_huidobro"
+    hashtags: "#stayhome, #stuttgart2019, #provinciaseguros, #tokio2021"
+  - username: "julianjato"
     fullname: >-
-      Huidobro Meritello
+      Julian Jato
+    bio: >-
+      🤸🏻‍♂️Gimnasta 🇦🇷Integrante de la Selección Nacional 🥉Medallista Juegos ODESUR 2018 @underarmourlatam
     location: "Argentina"
-    followers: 5344
-    engagement: 764
-    commentsToLikes: 0.023503
-    id: ck0w5o1664lhq0i198hpq3gws
+    followers: 21737
+    engagement: 1136
+    commentsToLikes: 0.009100
+    id: ck15u1s14l03r0i197yeu7kao
     verified: false
-    hashtags: "#strongwomen, #crossfittraining, #hotelworkout, #hometraining"
+    hashtags: "#gym, #gymnastics, #training, #mondaymotivation"
   - username: "alex_destreza"
     fullname: >-
       Alex Destreza
+    bio: >-
+      💪 Parkour, Breakdance, Tricking, Calistenia, FreeRunning y VideoJuegos 😅 👑 TikTok + 4,5 M 🎮 Twitch + 15 K
     location: "Argentina"
-    followers: 36090
-    engagement: 949
-    commentsToLikes: 0.010093
+    followers: 38993
+    engagement: 798
+    commentsToLikes: 0.029615
     id: ck8wf3qd0f2tr0j78ka9v653t
     verified: false
-    hashtags: "#birdsofprey, #comiccon2019, #strangerthings, #handstand"
+    hashtags: "#tiktok, #backflip, #gymnastics, #acrobatics"
   - username: "agus.iribas"
     fullname: >-
       agus 🔥
+    bio: >-
+      Estudiante avanzada de ing. química Acrobacia, gym artística, tricking, modelo
     location: "Argentina"
-    followers: 6437
-    engagement: 928
-    commentsToLikes: 0.028782
+    followers: 6071
+    engagement: 836
+    commentsToLikes: 0.031157
     id: ck6udipf2lc3w0j71e838mstj
     verified: false
-    hashtags: "#espontanea, #coordinacion, #acrobat, #fitness"
-  - username: "pitysko"
-    fullname: >-
-      Pity Landeira
-    location: "Argentina"
-    followers: 300890
-    engagement: 77
-    commentsToLikes: 0.022361
-    id: ck5bw19w1kswy0i11oo7su50q
-    verified: false
-    hashtags: "#cuarentenamood, #accionsolidaria, #fitnessmotivation, #musicwithglasses"
+    hashtags: "#flexibility, #photography, #gymnastics, #despeinada"
   - username: "mignoneagustina"
     fullname: >-
       Agustina Mignone
+    bio: >-
+      📚Lic.en Ed. Física Fisiologia del Ejercicio 📜Prof. Nac. Ed. Física 🇦🇷Entrenadora Selección Nacional GAF 🗂FIG coaching brevet 🐶🐶Mamá de Gala y Rufi
     location: "Argentina"
-    followers: 43625
-    engagement: 272
-    commentsToLikes: 0.009111
+    followers: 42439
+    engagement: 291
+    commentsToLikes: 0.014592
     id: ck5hhc9ou7hqq0i11japp87f7
     verified: false
-    hashtags: "#staysafe, #mobilitytraining, #secretariadedeportes, #academy"
-  - username: "sergiovisor_ph"
+    hashtags: "#argentina, #gymnastics, #sports, #unevebars"
+  - username: "fdmolinari"
     fullname: >-
-      Sergio Carabajal 📸
+      𝙁𝙀𝘿𝙀 𝙈𝙊𝙇𝙄𝙉𝘼𝙍𝙄
+    bio: >-
+      🇦🇷 ᴡᴏʀʟᴅ ᴄʟᴀss ɢʏᴍɴᴀsᴛ sᴏᴜᴛʜ & ᴘᴀɴ ᴀᴍᴇʀɪᴄᴀɴ ᴄʜᴀᴍᴘɪᴏɴ ᴏʟʏᴍᴘɪᴄ ғɪɴᴀʟɪsᴛ (ʟᴏɴᴅᴏɴ 2012) ᴘᴀɴᴀᴍ ɢᴀᴍᴇs🥉(ʟɪᴍᴀ 2019) ᴏᴡɴᴇʀ ᴏғ @fmgymnastics ᴅᴀᴅ 👶🏻🧒🏼
     location: "Argentina"
-    followers: 5410
-    engagement: 292
-    commentsToLikes: 0.042835
-    id: ck602xbd8jtu70i14qz3bcmjp
-    verified: false
-    hashtags: "#beatmakers, #cruise, #todorojo, #bocajuniorsbrasil"
-  - username: "delfiortuno"
+    followers: 285581
+    engagement: 121
+    commentsToLikes: 0.014732
+    id: ck0txh8raj4hu0i19vmlnayqg
+    verified: true
+    hashtags: "#huellasg, #gamer, #fifa21, #gymnastics"
+  - username: "nikinoto"
     fullname: >-
-      Delfi Ortuño
+      Funginista
+    bio: >-
+      info@nikinoto.com
     location: "Argentina"
-    followers: 22209
-    engagement: 825
-    commentsToLikes: 0.036017
-    id: ck0w5o10j4ldf0i19todat4e4
+    followers: 11058
+    engagement: 828
+    commentsToLikes: 0.021360
+    id: ck5cf1turm5oo0i11hglnjs2c
     verified: false
-    hashtags: "#ad, #yomequedoencasa"
+    hashtags: "#girgolas, #micelio, #fungi, #pholiotaadiposa"
+  - username: "flexi.flow"
+    fullname: >-
+      Georgi Bonacalza
+    bio: >-
+      Entrenadora en Flexibilidad y Elongación ✨ Clases online ✨Seminarios teóricos ✨Prefeccionamientos Si querés entrenar conmigo déjame un MP!
+    location: "Argentina"
+    followers: 20006
+    engagement: 347
+    commentsToLikes: 0.080825
+    id: ck9wfv86aqn1j0j78yq7jdmkf
+    verified: false
+    hashtags: "#arcos, #mejorandoando, #antesydespues, #progresos"
 ---

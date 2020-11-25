@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Russia In 2020
 description: >-
-  Find top cooking TikTok influencers in Russia in 2020. Most popular hashtags: #cooking #cookies #covid19 #skincare.
+  Find top cooking TikTok influencers in Russia in 2020. Most popular hashtags: #cooking #food #foryou #recommendations.
 platform: TikTok
+hits: 21
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 21 TikTok influencers like this in Russia for you to pitch.
 profiles:
-  - username: "almiga_cake"
+  - username: "rakotorgovets"
     fullname: >-
-      Альбина Исламова
+      rakotorgovets
+    bio: >-
+      Креативный предприниматель Безумный рыбак Неадекватный выдумщик rakotorgovets
     location: "Russia"
-    followers: 66701
-    engagement: 682
-    commentsToLikes: 0.007111
-    id: cka610ea4td5m0i78h9blfxeu
+    followers: 60900
+    engagement: 665
+    commentsToLikes: 0.054688
+    id: ckbl31x6r0d7g0j23nb08ihl3
     verified: false
-    hashtags: "#sketch, #sketching"
-  - username: "toonylly"
+    hashtags: "#cooking, #big, #seafood, #rakotorgovets"
+  - username: "spicerack.ru"
     fullname: >-
-      ☁️𝒥𝓊𝓁𝒾𝓎𝒶☁️
+      SPICERACK
+    bio: >-
+      Специи для профессионалов
     location: "Russia"
-    followers: 39109
-    engagement: 2048
-    commentsToLikes: 0.038525
-    id: ckafuyhjlch6b0i78u4ax32dk
+    followers: 6093
+    engagement: 369
+    commentsToLikes: 0.046429
+    id: ckbqqw18abrh10j23xf7x0wcq
     verified: false
-    hashtags: "#vscolist, #wallpaper, #tropical, #smoothiebowl"
+    hashtags: "#salad, #cooking, #cucumbers, #recipe"
+  - username: "christina_sarkisian"
+    fullname: >-
+      user6525276019549
+    bio: >-
+      Photographer, traveler, baker. 🇦🇲 Based in London🇬🇧
+    location: "Russia"
+    followers: 2013
+    engagement: 3313
+    commentsToLikes: 0.061809
+    id: ckb9cqmsezobd0j23gjcuhzfs
+    verified: false
+    hashtags: "#foodie, #food, #recipe, #boredinthehouse"
   - username: "timmy_team"
     fullname: >-
       Timmy Team
+    bio: >-
+      SwEXky
     location: "Russia"
-    followers: 355971
-    engagement: 2082
-    commentsToLikes: 0.018246
+    followers: 373000
+    engagement: 2032
+    commentsToLikes: 0.014420
     id: ck8qfbmssw6xs0j789powpcpz
     verified: false
-    hashtags: "#musiclives, #acnh, #mycrib, #spacethings"
-  - username: "anicrazy17_"
+    hashtags: "#petroutine, #natureathome, #cat, #dog"
+  - username: "kto_to_bakugou"
     fullname: >-
-      Manga Prof
+      Katsuki
+    bio: >-
+      Instagram : kto_to_cosplay
     location: "Russia"
-    followers: 181350
-    engagement: 2095
-    commentsToLikes: 0.010711
-    id: ck8j7doyvdxza0j78ztk578qp
+    followers: 29300
+    engagement: 2080
+    commentsToLikes: 0.009809
+    id: ckcein01or0e40j23gg657c6u
     verified: false
-    hashtags: "#yaoimanga, #killua, #hanter, #friends"
-  - username: "thayers_x_routines"
+    hashtags: "#kirishima, #eijirokirishima, #katsukibakugou, #bnhacosplay"
+  - username: "fun_can"
     fullname: >-
-      ★ 𝔱𝔥𝔞𝔶𝔢𝔯𝔰 ★
+      Fetish_food
+    bio: >-
+      I know , you love food❤️ Подпишись прямо сейчас✅ 💸Bussines - fun_can@mail.ru 💸
     location: "Russia"
-    followers: 8008
-    engagement: 1911
-    commentsToLikes: 0.019168
-    id: ckaftrkj86jex0i786oywfdfe
+    followers: 161500
+    engagement: 2117
+    commentsToLikes: 0.005455
+    id: ckb9c87bcytmm0j23jc66p545
     verified: false
-    hashtags: "#serial, #workroutine, #shadowhunters, #cosmetics"
-  - username: "vsco_giirrll"
+    hashtags: "#recept, #foruyou, #lifehack, #foryou"
+  - username: "momoroutinezz"
     fullname: >-
-      aesthetic
+      ☁️ 🦋 👼🏻💫
+    bio: >-
+      💫👼🏻🦋☁️14k followers☁️🦋👼🏻💫
     location: "Russia"
-    followers: 6060
-    engagement: 2285
-    commentsToLikes: 0.016535
-    id: ckaftri1d6ip20i788efupe8y
+    followers: 14200
+    engagement: 1834
+    commentsToLikes: 0.015930
+    id: cka0hzb4bbdw40i7894ir63ut
     verified: false
-    hashtags: "#beauty, #sport, #time, #beautiful"
-  - username: "datmoss"
+    hashtags: "#foryourpage, #routine, #idewcare, #foruyoupage"
+  - username: "_solvay"
     fullname: >-
-      julia moss
+      𝓵𝓪𝓭𝔂 𝓢𝓸𝓵𝓿𝓪𝔂
+    bio: >-
+      ♡ insomnia ⌲ blink, army, midzy   }  ⌲ k-pop.   }  ▔▔▔▔▔▔▔▔▔▔
     location: "Russia"
-    followers: 39580
-    engagement: 1773
-    commentsToLikes: 0.015889
-    id: ck8qeijq8spei0j782cders1w
+    followers: 32200
+    engagement: 1932
+    commentsToLikes: 0.004929
+    id: ckb9j7cp0aak90j23xtyzxcyj
     verified: false
-    hashtags: "#shepardspie, #stigmata, #beautyglazed, #16personalities"
-  - username: "qylek"
+    hashtags: "#jennie, #kimjisoo, #jennierubyjane, #kpopfyp"
+  - username: "izumrabbit"
     fullname: >-
-      КОЛЁК
+      Izum
+    bio: >-
+      Inst: izumrabbit 🐰 заходите к нему в гости на страничку! Будем общаться)
     location: "Russia"
-    followers: 179645
-    engagement: 1173
-    commentsToLikes: 0.024017
-    id: cka5z10twknvf0i78p4iedxbx
+    followers: 17500
+    engagement: 1342
+    commentsToLikes: 0.015883
+    id: cka0ifzwmdieg0i78l6p3dlkt
     verified: false
-    hashtags: "#parkour, #chelyabinsk, #covid19, #sport"
-  - username: "maro_mang"
+    hashtags: "#bunny, #izumrabbit, #rabbit, #shrimp"
+  - username: "lifecookz"
     fullname: >-
-      Marianna Paraskevova
+      Lifecookz
+    bio: >-
+      Subscribe to my Instagrams☝🏼 Русский аккаунт мировой кухни🌍❤️🔥
     location: "Russia"
-    followers: 72147
-    engagement: 784
-    commentsToLikes: 0.020087
-    id: ck81qv7vfk55h0j78115yqa3s
+    followers: 804599
+    engagement: 722
+    commentsToLikes: 0.007226
+    id: ck81q39jsfktl0j78d4lw2qc6
     verified: false
-    hashtags: "#boredathome, #freshmydance, #jimin, #filter"
-  - username: "mariagirich"
-    fullname: >-
-      Mariagirich
-    location: "Russia"
-    followers: 24475
-    engagement: 1356
-    commentsToLikes: 0.011540
-    id: ck8kg22s3goe90j780tcvh3ow
-    verified: false
-    hashtags: "#idiot, #live, #asmr, #food"
+    hashtags: "#wow, #waw, #recommendations, #eat"
 ---

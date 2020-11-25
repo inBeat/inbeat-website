@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Milan In 2020
 description: >-
-  Find top mothers Instagram influencers in Milan in 2020. Most popular hashtags: #mother #mothersday #quarantena #festadellamamma.
+  Find top mothers Instagram influencers in Milan in 2020. Most popular hashtags: #love #milano #milan #mother.
 platform: Instagram
+hits: 27
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 27 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "emanuelafolliero_official"
+  - username: "elisadospina"
     fullname: >-
-      Emanuela Folliero
+      Elisa D'Ospina
+    bio: >-
+      👗 Founder @elisadospinacollection 📺 In tv Rai1 e Rai2 📷 Top model #curvy 👠 ⭐️Collaborazioni: pr@elisadospina.com Tv Agency: VEGASTAR
     location: "Italy"
-    followers: 278600
-    engagement: 133
-    commentsToLikes: 0.036569
-    id: ck0ud5ub1ib8w0i192wmcp5ao
+    followers: 332444
+    engagement: 129
+    commentsToLikes: 0.050811
+    id: ck14jv77pmcpv0i199nd3uzc7
     verified: true
-    hashtags: "#ibellissimi, #fornelli, #radioitaliane, #musica"
+    hashtags: "#makeup, #fashion, #loveyourself, #lookoftheday"
+  - username: "frreeenss"
+    fullname: >-
+      Francesca Zanzi
+    bio: >-
+      ▪️Athlete @ho_soccer_italy ⚽️ | @vv_basedinmilan 👚 ▪️ Bachelor in Management of Sport & Master in Management of Digital Technologies 🎓 ▪️ 🇨🇭|🇮🇹
+    location: "Italy"
+    followers: 11010
+    engagement: 502
+    commentsToLikes: 0.025110
+    id: ck8t4tetr7wj60j78kbmubfrl
+    verified: false
+    hashtags: "#sunday, #friendship, #hosoccer, #home"
   - username: "la_snika"
     fullname: >-
       Federica Ricci
+    bio: >-
+      💫 MOTHER OF BICCIZ #biccizfam 📍 Milan, Italy 💄Certified Makeup Artist 💌 federicaricci966@icloud.com 🎬 YOUTUBE 👇🏼
     location: "Italy"
-    followers: 19493
-    engagement: 1478
-    commentsToLikes: 0.084291
+    followers: 20050
+    engagement: 1107
+    commentsToLikes: 0.148482
     id: ck5c3to4l01ea0i11kixjuxq7
     verified: false
-    hashtags: "#runwaymakeup, #glitter, #astramakeup, #surrealism"
-  - username: "labfujiko"
+    hashtags: "#patmcgrath, #glammakeup, #halloweeninspo, #fentybeauty"
+  - username: "avital_langer"
     fullname: >-
-      L A   B.   F U J I K O
+      Avital Langer 🧿
+    bio: >-
+      Mother agency: @randrbyrobertoandrotem PARIS: @women_paris MILANO: @women_milano LONDON: @stormmodels SPAIN: @unomodels
     location: "Italy"
-    followers: 15340
-    engagement: 968
-    commentsToLikes: 0.041696
-    id: ck55mezej3syw0i117wim3x0u
+    followers: 23869
+    engagement: 337
+    commentsToLikes: 0.043431
+    id: ck0u9sh2fahxr0i19h79bvgr8
     verified: false
-    hashtags: "#labfujko, #kawaii, #flassymask, #guerrillavogue"
-  - username: "annalisaflori"
-    fullname: >-
-      Annalisa Flori
-    location: "Italy"
-    followers: 11219
-    engagement: 269
-    commentsToLikes: 0.058823
-    id: ck14h0q577ykc0i19yu7qp27z
-    verified: false
-    hashtags: "#donate, #indian, #lifestyle, #face"
-  - username: "yaldaabbasii"
-    fullname: >-
-      Yalda Abbasi Official
-    location: "Italy"
-    followers: 134364
-    engagement: 747
-    commentsToLikes: 0.026056
-    id: ck0tw0rrldiw80i19jvp0njr7
-    verified: true
-    hashtags: "#nedaradmehr, #bosco, #labourday, #iranianmusic"
-  - username: "frreeenss"
-    fullname: >-
-      Francesca Zanzi 🇨🇭🇮🇹
-    location: "Italy"
-    followers: 10938
-    engagement: 599
-    commentsToLikes: 0.024384
-    id: ck8t4tetr7wj60j78kbmubfrl
-    verified: false
-    hashtags: "#moments, #cucciole, #blackandwhite, #derby"
+    hashtags: "#19"
   - username: "giusepperagazzini"
     fullname: >-
       Giuseppe Ragazzini
+    bio: >-
+      Painter, illustrator, and visual artist Creator of @mixerpiece collage app Founder of @thecollageempire 📍Milan
     location: "Italy"
     followers: 70211
     engagement: 260
     commentsToLikes: 0.032200
     id: ck5hj37ujfx5v0i11qpcnnvkb
     verified: true
-    hashtags: "#vita, #palazzo, #impro, #paintings"
-  - username: "janeta_ker"
+    hashtags: "#collageanimation, #covid19italia, #improvisation, #collageoftheday"
+  - username: "twerkwithnady"
     fullname: >-
-      Janeta Ker
+      NADEGE OKOU
+    bio: >-
+      Not a queen. A strong WOMAN. ⭐️ Dancer|teacher|cultural curator ⭐️ MOTHER @_buttchickscrew ❤️ @twerxout Istructor 💻LIVE CLASS on MON, WEDN or FRI‼️
     location: "Italy"
-    followers: 144483
-    engagement: 564
-    commentsToLikes: 0.055359
-    id: ck13c8gcgz3nh0i19u53ejmnq
+    followers: 21902
+    engagement: 217
+    commentsToLikes: 0.041977
+    id: ck5zmzgwhnhrt0i14df05jdyh
     verified: false
-    hashtags: "#motherdaughter, #pillow, #happyparents, #iloveyou"
-  - username: "letofrancesca"
+    hashtags: "#share, #culture, #bootydance, #condivisione"
+  - username: "roksana_m7"
     fullname: >-
-      Francesca Leto
+      Roksana_m7
+    bio: >-
+      ROKSANA MALINOVSKAYA♥️ From Ukraine 🇺🇦 living in Bergamo🇮🇹 Wife of the best hubby @malinovskyi_18 , mother of Olivia 🦄👨‍👩‍👧 Calcio⚽️Forza Atalanta🖤💙
     location: "Italy"
-    followers: 101110
-    engagement: 349
-    commentsToLikes: 0.204956
-    id: ck5zp8s6ks7md0i14jfh4yf4x
+    followers: 9007
+    engagement: 1311
+    commentsToLikes: 0.016335
+    id: ck15srkckegx20i19g3lk9kvt
+    verified: false
+    hashtags: "#10mesi"
+  - username: "alessandragiubilato"
+    fullname: >-
+      Alessandra Giubilato - blog🎤🎶📸
+    bio: >-
+      sɪɴɢᴇʀ/sᴏɴɢᴡʀɪᴛᴇʀ, ᴛᴠ ᴘʀᴇsᴇɴᴛᴇʀ ᴀɴᴅ sᴘᴏʀᴛʏ ɢɪʀʟ 📸 ➡️➡️ @alessandragiubilato_music 🎵🎤 ᭙​ꫀ​᥇​𝘴​𝓲​𝓽​ꫀ​:
+    location: "Italy"
+    followers: 39856
+    engagement: 221
+    commentsToLikes: 0.066386
+    id: ck9wfvm89qot60j786za0nr8l
+    verified: false
+    hashtags: "#singersongwriter, #summer2020, #fitgirl, #fitness"
+  - username: "lifegate"
+    fullname: >-
+      LifeGate
+    bio: >-
+      Lo stile di vita dove le persone, il pianeta e il profitto vivono in armonia • The lifestyle in which people, the Planet and profit coexist in harmony
+    location: "Italy"
+    followers: 91439
+    engagement: 121
+    commentsToLikes: 0.008760
+    id: ck0vv4cj6nhl80i190k14klpu
     verified: true
-    hashtags: "#ilmioterrazzo, #workout, #musica, #libri"
-  - username: "silviaberri"
+    hashtags: "#uk, #avsi, #southamerica, #silviaromano"
+  - username: "steph.tya"
     fullname: >-
-      Silvia Berri
+      ★𝕊𝕋𝔼ℙℍ𝔸ℕ𝕀𝔼 𝔼 𝕋𝕐𝔸ℕ𝔸★
+    bio: >-
+      𝕄𝕠𝕞 𝕠𝕗 @vida.de.tyana ♕♡ 𝕀𝕥𝕒𝕝𝕪 🇮🇹 𝔻𝕞/𝕄𝕒𝕚𝕝 𝕗𝕠𝕣 𝕔𝕠𝕝𝕝𝕒𝕓𝕤 📩 stephanieagata93@gmail.com
     location: "Italy"
-    followers: 52890
-    engagement: 173
-    commentsToLikes: 0.075592
-    id: ck5q41kdxnc680i11n2jfkr3j
+    followers: 78773
+    engagement: 330
+    commentsToLikes: 0.092026
+    id: ck136wfyp8l3e0i193ps2v7hx
     verified: false
-    hashtags: "#manageritaliana, #milanodesign, #sparklingtime, #forzaitalia"
+    hashtags: "#black, #babies, #io, #blond"
 ---

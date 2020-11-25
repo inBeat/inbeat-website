@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Chicago In 2020
 description: >-
-  Find top skincare TikTok influencers in Chicago in 2020. Most popular hashtags: #skincare #musiclives #mycrib #duet.
+  Find top skincare TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #skincare #foryou #chicago.
 platform: TikTok
+hits: 17
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 17 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "its.kennediiii"
+    fullname: >-
+      k e n n e d i 😌
+    bio: >-
+      Black Girl Revelations ✨ <—my upcoming book♥️ 17, Chicago
+    location: "United States"
+    followers: 100000
+    engagement: 3986
+    commentsToLikes: 0.008220
+    id: ckb9pxq8zlazt0j23dwhaob54
+    verified: false
+    hashtags: "#fyp, #4u, #lacefront, #iamlost"
+  - username: "infalliblebeautyceo"
+    fullname: >-
+      Fallon S Anderson
+    bio: >-
+      Certified Ombré Brow Slayer based in Chicago area...plus we sell bomb cosmetics!
+    location: "United States"
+    followers: 2458
+    engagement: 948
+    commentsToLikes: 0.032889
+    id: ckd0ykapclci50j23zw3zrxzg
+    verified: false
+    hashtags: "#instagram, #fyp, #browsonfkeek, #foryou"
+  - username: "cloudy.901"
+    fullname: >-
+      Jake😁💦
+    bio: >-
+      Like to do stupid shi🙇🏽😁 Memphis > San Diego 18/ig:cloudy.901/ Sc:jakeflame27
+    location: "United States"
+    followers: 4694
+    engagement: 2407
+    commentsToLikes: 0.010907
+    id: ckcdngpqtaqnz0j232xzdly54
+    verified: false
+    hashtags: "#checkmeoutchallenge, #4thofjuly, #funny, #snoozzzapalooza"
+  - username: "laylaashleyy"
+    fullname: >-
+      Lay
+    bio: >-
+      LA. CHI. 🖤
+    location: "United States"
+    followers: 9169
+    engagement: 565
+    commentsToLikes: 0.027760
+    id: ckbf2racgpv4f0j23mztpmag1
+    verified: false
+    hashtags: "#skincareroutine, #tiktokpartner, #foryou, #learnontiktok"
+  - username: "chicagostyleicon"
+    fullname: >-
+      Jen White
+    bio: >-
+      YouTube vlogs🎙 Public speaking tips @digitalspeakingcoach (Tiktok)
+    location: "United States"
+    followers: 22200
+    engagement: 491
+    commentsToLikes: 0.013825
+    id: ckb9fooa54a2h0j23z9piqlxj
+    verified: false
+    hashtags: "#nordstromanniversarysale, #amazon, #chicago, #amazonhaul"
   - username: "tobilou"
     fullname: >-
       savin lives everyday
+    bio: >-
+      
     location: "United States"
-    followers: 70516
-    engagement: 1877
-    commentsToLikes: 0.018588
+    followers: 77700
+    engagement: 1762
+    commentsToLikes: 0.016607
     id: ck9kg1nyg5x7u0j78pktjtsyz
     verified: true
-    hashtags: "#joji, #darlin, #justkeepgoin, #running"
-  - username: "madelineaford"
+    hashtags: "#fyp, #tobilou, #foryoupage, #buffbaby"
+  - username: "kevmatos"
     fullname: >-
-      @madelineaford
+      kevin
+    bio: >-
+      chicago. 23.
     location: "United States"
-    followers: 298391
-    engagement: 1975
-    commentsToLikes: 0.005854
-    id: ck83zea4zzzh90j78uwjp8x7n
+    followers: 2697
+    engagement: 652
+    commentsToLikes: 0.069581
+    id: ckc8vpac1iq5w0j23s1zdxd21
     verified: false
-    hashtags: "#witchtok, #butterglosspop, #coolranchdance, #tips"
-  - username: "madelynn_skye"
+    hashtags: "#letsfaceit, #foryou, #fyp, #foryoupage"
+  - username: "_olivia_mancuso_"
     fullname: >-
-      MADELYNN SKYE
+      _olivia_mancuso_
+    bio: >-
+      ig: _olivia_mancuso_ Chicago #BLM
     location: "United States"
-    followers: 58041
-    engagement: 317
-    commentsToLikes: 0.021994
-    id: ck8saw2643yiw0j78y3m0xn9f
+    followers: 34100
+    engagement: 487
+    commentsToLikes: 0.030367
+    id: ckacmz94els0y0i7824urrqj4
     verified: false
-    hashtags: "#flattummy, #sorryitsucks, #curlyhair, #skincare"
-  - username: "wildbiomeskinsens"
+    hashtags: "#fyp, #greenscreenvideo, #greenscreen, #xyzbca"
+  - username: "enashaolivia"
     fullname: >-
-      wildbiomeskinsense
+      ena
+    bio: >-
+      ✧･ﾟ chi - 19 afro-latina 🇲🇽 fitness insta: fitwithena business inquires ↓
     location: "United States"
-    followers: 3161
-    engagement: 773
-    commentsToLikes: 0.091072
-    id: ck9jw7jz3vasg0j78zar5e8nr
+    followers: 96000
+    engagement: 1544
+    commentsToLikes: 0.017330
+    id: ckdhindl8ymxv0j2349mcdxhd
     verified: false
-    hashtags: "#foodgrade, #soapunmolding, #chocolate, #exfoliate"
-  - username: "yourfuture.exwife"
+    hashtags: "#chicago, #cleaning, #fyp, #apartment"
+  - username: "bunchtipzz"
     fullname: >-
-      Shannon
+      𝖳𝗂𝗉𝗓 ✰
+    bio: >-
+      50k angles ⚡️ ✰ give tips ✰ | follow for more tips <3 |
     location: "United States"
-    followers: 25376
-    engagement: 803
-    commentsToLikes: 0.079950
-    id: ckacvkx8do7fi0i78ibmtefab
+    followers: 55100
+    engagement: 2107
+    commentsToLikes: 0.015016
+    id: ckdcl1odpn4xx0j2327dstz95
     verified: false
-    hashtags: "#avocadotoast, #joeexotic, #facemask, #imanexpert"
-  - username: "doseofdenah"
-    fullname: >-
-      Dee
-    location: "United States"
-    followers: 24337
-    engagement: 905
-    commentsToLikes: 0.081769
-    id: ck83zed2000dk0j78qv9jssfn
-    verified: false
-    hashtags: "#scoobdance, #homeproject, #fashion, #beberexha"
-  - username: ".paulina.w"
-    fullname: >-
-      paulinadub
-    location: "United States"
-    followers: 2571
-    engagement: 1246
-    commentsToLikes: 0.047777
-    id: ck9gklrbwjvd50j78i6x4in2t
-    verified: false
-    hashtags: "#tiktokrecipe, #greece, #viral, #foodie"
-  - username: "yulissa_9"
-    fullname: >-
-      Yulissa👑
-    location: "United States"
-    followers: 31246
-    engagement: 1709
-    commentsToLikes: 0.016820
-    id: cka0ke7y6m45i0i78h1tbttsv
-    verified: false
-    hashtags: "#tiktokcovers, #giveaway, #eyeslipsface, #healthheroes"
-  - username: "liastewy"
-    fullname: >-
-      LIA
-    location: "United States"
-    followers: 13547
-    engagement: 1043
-    commentsToLikes: 0.036174
-    id: ck7zp8lt3nvcm0j787o11muiq
-    verified: false
-    hashtags: "#asianglow, #vines, #x3challenge, #bleachdye"
-  - username: "babyybellaa"
-    fullname: >-
-      bella <3
-    location: "United States"
-    followers: 16538
-    engagement: 808
-    commentsToLikes: 0.019138
-    id: ck9c2c8pjp4j10j780qaz2wuz
-    verified: false
-    hashtags: "#grwm, #moodboost, #selflove, #photoshoot"
+    hashtags: "#aesthetic, #foryoupage, #helps, #tips"
 ---

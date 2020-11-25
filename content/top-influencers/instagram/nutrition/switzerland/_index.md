@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top nutrition Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #motivation #shooting #mountains.
+  Find top nutrition Instagram influencers in Switzerland in 2020. Most popular hashtags: #health #blogger #nutrition #love.
 platform: Instagram
+hits: 29
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 29 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "zoe.vergedepre"
+  - username: "journey.of.jessi"
     fullname: >-
-      Zoé Vergé-Dépré
+      Jessica | ²¹ | 🇨🇭
+    bio: >-
+      𝐅𝐈𝐓𝐍𝐄𝐒𝐒 & 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 Future PT & Nutritionist🏋🏼‍♀️🍏 🌿 Vegan | 💉 Inkedgirl Positivemindset🌻 Anorexia recovered #chocolatelover
     location: "Switzerland"
-    followers: 7256
-    engagement: 1479
-    commentsToLikes: 0.008411
-    id: ck5q5yksnv5k60i11bs43tv3t
+    followers: 7371
+    engagement: 848
+    commentsToLikes: 0.416940
+    id: ckapbhur5zx1m0i78e3ghad9x
     verified: false
-    hashtags: "#bleibgesund, #byesummer, #mandelb, #pilateshealth"
-  - username: "karinefahmyofficial"
+    hashtags: "#workhard, #girlswithtattoos, #photooftheday, #gains"
+  - username: "michellkaylee"
     fullname: >-
-      Karine Fahmy
+      Michell Kaylee 🇨🇭
+    bio: >-
+      Personaltrainer & Nutritionist 🥑 - The change begins in your mind! 🖤 & #Youronlylimitisyou . Feel free to contact me ⇩
     location: "Switzerland"
-    followers: 28844
-    engagement: 128
-    commentsToLikes: 0.057809
-    id: ck15r4x0f660p0i19yb0oexh3
+    followers: 257186
+    engagement: 349
+    commentsToLikes: 0.030233
+    id: ckaovf9ax4cxk0i78yt3my5b4
     verified: false
-    hashtags: "#goals, #positivity, #lover, #italian"
+    hashtags: "#body, #vibes, #love, #life"
   - username: "melissa_ts_fitness"
     fullname: >-
       MELISSA
+    bio: >-
+      📍Zurich | Backup @melissa_ts_fit PERSONAL TRAINER | TransGirl🏳️‍🌈 Fitness | Nutrition | Healthy 100% natural body real stuff👇
     location: "Switzerland"
-    followers: 12424
-    engagement: 1191
-    commentsToLikes: 0.061545
+    followers: 25312
+    engagement: 668
+    commentsToLikes: 0.078364
     id: ckaos0lhupm630i78m43ahae8
     verified: false
-    hashtags: "#lgbt, #transgender, #transmodel, #transisbeautiful"
-  - username: "cyril_henry"
+    hashtags: "#transbeauty, #transandproud, #transisbeautiful, #boytogirl"
+  - username: "karinefahmyofficial"
     fullname: >-
-      Cyril Henry® 🇨🇭🇫🇷
+      Karine Fahmy
+    bio: >-
+      🇪🇬 Miss Egypt 1998 📺 Tv presenter 👩‍🎨Degrees in Makeup/Permanent Makeup 🍏Involved in Fashion &Nutrition 👫A mom of 2🙏
     location: "Switzerland"
-    followers: 126107
-    engagement: 123
-    commentsToLikes: 0.110628
-    id: ck5hnp10ro5bx0i11tf3z0otq
+    followers: 31527
+    engagement: 179
+    commentsToLikes: 0.047985
+    id: ck15r4x0f660p0i19yb0oexh3
     verified: false
-    hashtags: "#goals, #fitnessblogger, #vibez, #fitmotivation"
+    hashtags: "#love, #peace, #family, #blessings"
+  - username: "lorein_"
+    fullname: >-
+      Desi Kate ✨
+    bio: >-
+      •Culturologist 🇮🇹 📜 •Vegan Nutritionist 🌱📜 •Artist🎨🎭🎶 •Yogi 🇧🇬 •Aesthete🇨🇭 •TruthSeeker🧿 •Utopian 🌐 •Citizen of the World 🌏
+    location: "Switzerland"
+    followers: 123021
+    engagement: 280
+    commentsToLikes: 0.089531
+    id: ck139ey27kzfg0i198li51opg
+    verified: false
+    hashtags: "#yoga, #love, #peace, #earthdayeveryday"
   - username: "andrea__schaerer"
     fullname: >-
       Andrea
+    bio: >-
+      🍀 certified nutritionist 📍 Zurich 🔹@smilodox 10% ANDREA10 🔸@fitnfemale 10% ANDREA10 📩for Coachings
     location: "Switzerland"
-    followers: 45402
-    engagement: 156
-    commentsToLikes: 0.043527
+    followers: 44900
+    engagement: 177
+    commentsToLikes: 0.038514
     id: ck6u3vjue04ua0j71gialera8
     verified: false
-    hashtags: "#teamwork, #sunset, #instafeed, #sundayinzurich"
-  - username: "swiss_mountainrunner"
+    hashtags: "#basel, #smilodoxwomen, #teamfitnfemale, #athlete"
+  - username: "lorella.luna"
     fullname: >-
-      🇨🇭 🇵 🇦 🇹 🇷 🇮 🇨 🇰    ||   2 6
+      ＬＯＲＥＬＬＡ | 🌙BODY, MIND & SOUL🌙
+    bio: >-
+      🇨🇭 From Zürich 🌙 Selflove & Maitri ✨ Reiki-Student 🌱 Holistic Nutrition: Plantbased Health Food 🌳 Nature & Hikes
     location: "Switzerland"
-    followers: 6498
-    engagement: 868
-    commentsToLikes: 0.015305
-    id: ck5ckbeo5wj0m0i11p89aq3bl
+    followers: 11570
+    engagement: 1973
+    commentsToLikes: 0.034247
+    id: ck9wgjj6otpd70j78sww6ibps
     verified: false
-    hashtags: "#snow, #leki, #instagram, #mountainsports"
-  - username: "lisamarilynh"
+    hashtags: "#selfhealer, #risingwoman, #relationshipanxiety, #weareallone"
+  - username: "unpetitoiseaudanslacuisine"
     fullname: >-
-      LISA
+      Healthy Food-Organic Food
+    bio: >-
+      🅔🅥🅐🍴 𝗛𝗲𝗮𝗹𝘁𝗵𝘆 & 𝗢𝗿𝗴𝗮𝗻𝗶𝗰 𝗙𝗼𝗼𝗱 🌱Healthy & Easy Recipes Blog in 🇫🇷/🇬🇧 📸 Food Content creator & culinary stylist 👩‍💻Community manager free lance 📍🇨🇭 🅱🅻🅾🅶☟
     location: "Switzerland"
-    followers: 7330
-    engagement: 1805
-    commentsToLikes: 0.051291
-    id: ckapbsp9h17a20i78knwkytik
+    followers: 7540
+    engagement: 548
+    commentsToLikes: 0.028614
+    id: ck9wex88sm93v0j78f37ff0iy
     verified: false
-    hashtags: "#brainfood, #treatyourselfwell, #hairgrowth, #beauty"
-  - username: "lymifashion"
+    hashtags: "#foodblogger, #gateausain, #yummy, #zerowaste"
+  - username: "jea.ruh"
     fullname: >-
-      FASHION, BEAUTY & LIFESTYLE
+      Jeannette Ruh | Foodfotografie
+    bio: >-
+      Foodfotografie & Foodstyling | based in Zurich Kochbuch Autorin ‚Basenüberschüssig Kochen‘ #plantbased #ebvrecovery Yoga RYT 500h
     location: "Switzerland"
-    followers: 18350
-    engagement: 358
-    commentsToLikes: 0.223344
-    id: ck8t6uezqeq4v0j782fm5tmpr
+    followers: 26484
+    engagement: 142
+    commentsToLikes: 0.049233
+    id: ck5hk9z6ni1tm0i11pl6v05aa
     verified: false
-    hashtags: "#photoportrait, #flowersprint, #chicfashion, #voyageencouple"
-  - username: "tur.bine"
+    hashtags: "#coronatime, #healingfoods, #strength, #healthy"
+  - username: "fly4.fit"
     fullname: >-
-      Pilot.Bine✈️
+      🦋Fly.fit🦋
+    bio: >-
+      💥Fit girl💥🧿🇨🇭 Big Power ✨💪✨ Self-love❣️Mental wellness❣️ —-Your Motivation Is In Your Head—-🤝 #blogger_ch #explore #repost 📍Genneva
     location: "Switzerland"
-    followers: 16171
-    engagement: 875
-    commentsToLikes: 0.053024
-    id: ck0vwbm62sysi0i19rtscs14m
+    followers: 3059
+    engagement: 1193
+    commentsToLikes: 0.045034
+    id: ck9wfv9zbqnc90j7896zwhsla
     verified: false
-    hashtags: "#gifts, #springtime, #quotesaboutlife, #healthyfood"
-  - username: "happymegy"
-    fullname: >-
-      𝘔𝘌𝘎𝘠
-    location: "Switzerland"
-    followers: 9574
-    engagement: 633
-    commentsToLikes: 0.053907
-    id: ckap4i7417hkr0i78wcw80qpl
-    verified: false
-    hashtags: "#perdredeskilos, #frenchalps, #cadeau, #soinscheveux"
+    hashtags: "#pushingthelimits, #confident, #fitgirl, #consistency"
 ---

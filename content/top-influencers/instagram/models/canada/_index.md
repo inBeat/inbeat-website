@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Canada In 2020
 description: >-
-  Find top models Instagram influencers in Canada in 2020. Most popular hashtags: # #become #forkyeah #phoneeatsfirst.
+  Find top models Instagram influencers in Canada in 2020. Most popular hashtags: #selfie #shein #fall.
 platform: Instagram
+hits: 660
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 660 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "ricardoperez99"
-    fullname: >-
-      Ricardo
-    location: "Canada"
-    followers: 2143
-    engagement: 3116
-    commentsToLikes: 0.121893
-    id: ck5ci5s8ps2p80i11c7710epu
-    verified: false
-    hashtags: "#intermoda, #im72"
-  - username: "tangerinca"
-    fullname: >-
-      AVE MARIA
-    location: "Canada"
-    followers: 2693
-    engagement: 2712
-    commentsToLikes: 0.159699
-    id: ck6tibd6x0e9x0j7134j8cmq6
-    verified: false
-    hashtags: ""
   - username: "mandilicous"
     fullname: >-
       Mandy | Food | Lifestyle
+    bio: >-
+      🇨🇦🇭🇰Published Model Lv 8 @googlelocalguides top1% Toronto @yelp elite @tiktok missmandilicous DM for collabs & invites 歡迎合作💕 Eng粵國 繁简
     location: "Canada"
-    followers: 6133
-    engagement: 2561
-    commentsToLikes: 0.203917
+    followers: 10231
+    engagement: 2126
+    commentsToLikes: 0.162206
     id: ck15pdxixxeob0i199dnoaf03
     verified: false
-    hashtags: "#panntea, #icecreamporn, #pizzaholic, #drinkspecial"
-  - username: "lavan_kingdom"
+    hashtags: "#tastetoronto, #tastethesix, #bubbletea, #torontofoodies"
+  - username: "annaliafraser"
     fullname: >-
-      لاڤــانـــو 👼
+      Annalia Fraser
+    bio: >-
+      Tennis Player, Actress, Model Snapchat: annaliafraser
     location: "Canada"
-    followers: 21858
-    engagement: 909
-    commentsToLikes: 0.070193
-    id: ck14ju3oim70v0i193dhng9hd
+    followers: 22909
+    engagement: 1439
+    commentsToLikes: 0.082232
+    id: ck5hsohlvwxoi0i110y2vgapz
     verified: false
-    hashtags: "#patpatglobal, #afrin, #hawler, #patpatkids"
-  - username: "lori_dawnolyn"
+    hashtags: "#happyhalloween"
+  - username: "justina.sadecki"
     fullname: >-
-      Lori Dawnolyn-Lifestyle Model
+      Justina
+    bio: >-
+      God First.📍Ontario Psych B.A | Mental Health Advocate Body Positive | Model | Artist @justinapaints | 🇵🇱 shoot with me! 💌 justina.sadecki@gmail.com
     location: "Canada"
-    followers: 7316
-    engagement: 1284
-    commentsToLikes: 0.222534
-    id: ck14kjbrnpscf0i195amwqp8c
+    followers: 13740
+    engagement: 1313
+    commentsToLikes: 0.055647
+    id: ck8t11pe3u54n0j78019t2bey
     verified: false
-    hashtags: "#2009vs2019, #knixcampaign, #fashionglasses, #stayingathome"
-  - username: "kimbruneau"
+    hashtags: "#virgoseason, #mybhlook"
+  - username: "brooke.antonsen"
     fullname: >-
-      Kim Bruneau
+      Brooke Antonsen
+    bio: >-
+      Calgary, AB✨ Published Model, Lifestyle, Fitness @fitarmyofficial Athlete🏆
     location: "Canada"
-    followers: 28147
-    engagement: 533
-    commentsToLikes: 0.157848
-    id: ck5q9dgn5ajxg0i11lzk1uhbl
+    followers: 9281
+    engagement: 3310
+    commentsToLikes: 0.052745
+    id: ck5hjlstsguoe0i11mydyh2jo
     verified: false
-    hashtags: "#fundraising, #meeteleanor, #dadjokes, #danceoff"
+    hashtags: "#empoweredescape, #godsplan, #cheese, #throwbackthursday"
+  - username: "sabr_22"
+    fullname: >-
+      Sabrina Ianniciello
+    bio: >-
+      Model/ Travel / Fitness 👙 ✈️ 🤸🏽‍♀️ @believesupplements - SAB20 20% DM/Email for collaboration
+    location: "Canada"
+    followers: 163583
+    engagement: 465
+    commentsToLikes: 0.039630
+    id: ck5c6boxy540s0i114b27ovck
+    verified: false
+    hashtags: "#mercedesbenz, #fashionnovababe, #missygirl, #missyempire"
+  - username: "khamicabingham"
+    fullname: >-
+      BINGS
+    bio: >-
+      🇨🇦Olympian • Model • Trainer ✝️ | #150women | Full clip of: “Not Fitting the Look” ⬇️
+    location: "Canada"
+    followers: 30204
+    engagement: 1101
+    commentsToLikes: 0.036441
+    id: ck6tu1auxdqgp0j71gc2w1z3w
+    verified: true
+    hashtags: "#teamcanada, #igers, #canada, #track"
+  - username: "_emmytinglin"
+    fullname: >-
+      Emmerly Tinglin ✨
+    bio: >-
+      ♡ 100k + views on YouTube ♡ Actress | Dancer | Model | @miraclemgmt ♡ NBA Dancer | Toronto Raptors Subscribe⇣🦋
+    location: "Canada"
+    followers: 28424
+    engagement: 1224
+    commentsToLikes: 0.041834
+    id: ck5hozkirqibd0i11cue65wqx
+    verified: false
+    hashtags: "#ad, #shein, #sheingals, #forgirlsbygirls"
+  - username: "natlejour"
+    fullname: >-
+      Nathalie
+    bio: >-
+      ✨Blog Perso ✨Lifestyle 👩🏼‍🦳 ✨Montreal Vibes 💫🇨🇦 ✨Health Food Travels ✨Nature Fashion ✨Silver Model 🖤📸- 58 years ✨DM for collab ✨Happy Wife ❤️
+    location: "Canada"
+    followers: 8740
+    engagement: 930
+    commentsToLikes: 0.304150
+    id: ckap9zo2ku4w70i78ps2q8d9k
+    verified: false
+    hashtags: "#greyhair, #selfie, #montreallife, #agelessstyle"
   - username: "elizabethdelimaa"
     fullname: >-
       Elizabeth De Lima
+    bio: >-
+      Elite models
     location: "Canada"
-    followers: 5225
-    engagement: 2368
-    commentsToLikes: 0.060067
+    followers: 4952
+    engagement: 2317
+    commentsToLikes: 0.060933
     id: ck5zijflwftns0i14pprkky4z
     verified: false
     hashtags: ""
-  - username: "cianna.johnson"
+  - username: "briglalonde"
     fullname: >-
-      ☆ C I A N N A ☆
+      Brigitte Lalonde
+    bio: >-
+      Model / Creator of @popjackets & @petartbybrig 📍🇨🇦
     location: "Canada"
-    followers: 10192
-    engagement: 1515
-    commentsToLikes: 0.045229
-    id: ck5zrafskw7nz0i145tvmi7in
+    followers: 33178
+    engagement: 346
+    commentsToLikes: 0.090265
+    id: ck5zq5mkbtzcq0i14q9dcdmy3
     verified: false
-    hashtags: "#bellletstalk, #earthday"
-  - username: "isaachub"
-    fullname: >-
-      HUBY aka ISAAC HUB
-    location: "Canada"
-    followers: 152615
-    engagement: 1004
-    commentsToLikes: 0.018788
-    id: ck9hcsow0mt9f0j7853f2x4g8
-    verified: false
-    hashtags: "#palmier, #menandcats, #bali, #indonesia"
-  - username: "savvyssarah"
-    fullname: >-
-      sarah
-    location: "Canada"
-    followers: 3889
-    engagement: 2587
-    commentsToLikes: 0.065178
-    id: ck8wcxj1yd4oo0j78zj4fdu3z
-    verified: false
-    hashtags: "#summer19, #everydaymakeup, #modestfashion"
+    hashtags: ""
 ---

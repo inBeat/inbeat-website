@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In South Africa In 2020
 description: >-
-  Find top travel TikTok influencers in South Africa in 2020. Most popular hashtags: #travel #lockdown #covid19 #coronavirus.
+  Find top travel TikTok influencers in South Africa in 2020. Most popular hashtags: #travel #tiktoksouthafrica #fyp #southafrica.
 platform: TikTok
+hits: 33
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 33 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "siyabunny"
     fullname: >-
       Siyanda Bani
+    bio: >-
+      Fashion, Beauty, Lifestyle & Travel And fun 🇿🇦
     location: "South Africa"
-    followers: 34249
-    engagement: 533
-    commentsToLikes: 0.012325
+    followers: 61600
+    engagement: 580
+    commentsToLikes: 0.011028
     id: ck9k9olv9dzh60j78fgxhi9n3
     verified: false
-    hashtags: "#style, #badparent, #styletips, #boredinthehouse"
+    hashtags: "#foryoupage, #fyp, #covid19, #fashion"
+  - username: "aar0n_perry_"
+    fullname: >-
+      🌼Aaron Perry 🌼
+    bio: >-
+      South African Creator🍵 Love light ✨ Realaaronperry44@gmail.com
+    location: "South Africa"
+    followers: 465000
+    engagement: 1434
+    commentsToLikes: 0.021440
+    id: ckbl3xh1g1dtr0j23fe2lcnyl
+    verified: true
+    hashtags: "#wowfactor, #fashion, #bestmzansimemer, #aaronperry"
+  - username: "gerryvanderwalt"
+    fullname: >-
+      Gerry van der Walt
+    bio: >-
+      🌍 Expedition Leader, Photographer, Content Creator Follow my IG for what I do!
+    location: "South Africa"
+    followers: 56500
+    engagement: 1469
+    commentsToLikes: 0.069549
+    id: ckc8vrh4cito80j23ky7f6r9m
+    verified: false
+    hashtags: "#tiktoksouthafrica, #trending, #freenate, #fyp"
   - username: "richardhaubrich"
     fullname: >-
       Richard Haubrich
+    bio: >-
+      AWE MAY BRU 😎check out my Instagram 👆
     location: "South Africa"
-    followers: 41702
-    engagement: 1000
-    commentsToLikes: 0.023262
+    followers: 47600
+    engagement: 1192
+    commentsToLikes: 0.041567
     id: ck963n948vjsu0j78h6lutv6r
     verified: false
-    hashtags: "#kway, #awemaybru, #chasingafrica, #ferrari"
-  - username: "welcome_to_south_africa"
+    hashtags: "#tiktokcapetownaweh, #chasingafrica, #lethallo, #seaskyvillas"
+  - username: "tashmontlake"
     fullname: >-
-      🐘 South Africa 🇿🇦
+      Tash Montlake
+    bio: >-
+      🇿🇦🇬🇧 BLACK LIVES MATTER I look after famous actors on film sets for a living
     location: "South Africa"
-    followers: 140327
-    engagement: 400
-    commentsToLikes: 0.001096
-    id: ck83z30cyx8xa0j786ij9pup9
+    followers: 14100
+    engagement: 1144
+    commentsToLikes: 0.059878
+    id: ck981263la2ml0j78gyuatv33
     verified: false
-    hashtags: "#fishing, #meal, #cape, #dogy"
-  - username: "michaellaubscher"
-    fullname: >-
-      Michael Laubscher
-    location: "South Africa"
-    followers: 202131
-    engagement: 498
-    commentsToLikes: 0.004613
-    id: ck80nqyn1e22u0j78kyprnbd9
-    verified: false
-    hashtags: "#life, #mzanzi, #waterfall, #rocknroll"
-  - username: "angelikabuhrow"
-    fullname: >-
-      Angelika Buhrow
-    location: "South Africa"
-    followers: 21680
-    engagement: 1280
-    commentsToLikes: 0.063446
-    id: ck9slc8l3d8oz0j7800ccajts
-    verified: false
-    hashtags: "#fails, #siblings, #bitemojichallenge, #dogs"
-  - username: "sebastianmuller2020"
-    fullname: >-
-      Sebastian😜😝😂🤣😎
-    location: "South Africa"
-    followers: 23826
-    engagement: 1032
-    commentsToLikes: 0.044071
-    id: cka0ujcu0ujzi0i7876ofe9np
-    verified: false
-    hashtags: "#travelbucketlist, #boredinthehouse, #animals, #bluevsred"
-  - username: "kevrain"
-    fullname: >-
-      Kevin Narain
-    location: "South Africa"
-    followers: 75471
-    engagement: 1290
-    commentsToLikes: 0.048437
-    id: ck80oa9fmgal20j78eocstdaf
-    verified: false
-    hashtags: "#nofyp, #dangerouscity, #facefilters, #boringtime"
-  - username: "missjomorrison"
-    fullname: >-
-      Business Coach
-    location: "South Africa"
-    followers: 15481
-    engagement: 820
-    commentsToLikes: 0.027065
-    id: ck9dsedrq7t0z0j788b3n25s7
-    verified: false
-    hashtags: "#socialmediatips, #storyofmylife, #tiktok, #diyvideos"
-  - username: "cvanstaden_"
-    fullname: >-
-      Colby van Staden
-    location: "South Africa"
-    followers: 8786
-    engagement: 790
-    commentsToLikes: 0.024826
-    id: ckack0fvr9pul0i783zcz26w0
-    verified: false
-    hashtags: "#noodledance, #travel, #renegade, #chrisbrown"
+    hashtags: "#traveldiaries, #birthday, #newjob, #tashsvlogs"
   - username: "tinaprokas"
     fullname: >-
       Tina Prokas
+    bio: >-
+      It’s the Pinterest vibes for me🥺💓✨☁️ 📍London
     location: "South Africa"
-    followers: 7420
-    engagement: 648
-    commentsToLikes: 0.028470
+    followers: 30500
+    engagement: 1319
+    commentsToLikes: 0.010268
     id: ck982t1cxhls40j781asd5muo
     verified: false
-    hashtags: "#photoshootideas, #hairtips, #beautyhacks, #poseideas"
+    hashtags: "#travelaesthetic, #autumnoutfit, #london, #fallstyle"
+  - username: "welcome_to_south_africa"
+    fullname: >-
+      🐘 South Africa 🇿🇦
+    bio: >-
+      ✌️ Путешествуй с нами ☀️ Russian/English guide 🤠 😉Туры в ЮАР круглый год 🐘
+    location: "South Africa"
+    followers: 210000
+    engagement: 476
+    commentsToLikes: 0.009037
+    id: ck83z30cyx8xa0j786ij9pup9
+    verified: false
+    hashtags: "#trip, #mylove, #following, #travel"
+  - username: "michaellaubscher"
+    fullname: >-
+      Michael Laubscher
+    bio: >-
+      🌍 Expedition/Tour Leader 🇿🇦 @WildEyeSa 📸 Photographer, Safari Guide, Podcast
+    location: "South Africa"
+    followers: 201700
+    engagement: 466
+    commentsToLikes: 0.006493
+    id: ck80nqyn1e22u0j78kyprnbd9
+    verified: false
+    hashtags: "#elephantchallenge, #elephant, #fyp, #africa"
+  - username: "susanroelofsz"
+    fullname: >-
+      Susan Roelofsz
+    bio: >-
+      SA🇿🇦 Wifey | Mom of✌🏻| 🐶Lover Photographer Writer 📍Please DON’T spam like📍
+    location: "South Africa"
+    followers: 8981
+    engagement: 2233
+    commentsToLikes: 0.137467
+    id: ckbez26itjvj00j236pegh75b
+    verified: false
+    hashtags: "#fyp, #casperdevries, #tiktokjozicreators, #southafrica"
+  - username: "luke.langenberg"
+    fullname: >-
+      Luke Langenberg 
+    bio: >-
+      Instagram: luke.Langenberg ✊🏼✊🏽✊🏾✊🏿❤️ Stop overthinking, life is short 🥺
+    location: "South Africa"
+    followers: 11300
+    engagement: 1780
+    commentsToLikes: 0.065551
+    id: ckbb96h68y8wm0j23fvniehmm
+    verified: false
+    hashtags: "#walkthewalk, #voguechallenge, #fyp, #wipeitdown"
 ---

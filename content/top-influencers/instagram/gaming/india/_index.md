@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In India In 2020
 description: >-
-  Find top gaming Instagram influencers in India in 2020. Most popular hashtags: # #gaming #game #pubgmemes.
+  Find top gaming Instagram influencers in India in 2020. Most popular hashtags: #gamer #fashion #tiktok.
 platform: Instagram
+hits: 223
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 223 Instagram influencers like this in India for you to pitch.
 profiles:
+  - username: "xyaalive"
+    fullname: >-
+      Xyaa
+    bio: >-
+      a.k.a Shagufta Iqbal Gaming, streaming, and a whole lot of procrastinating! Powered by @intelindia @logitechg @getloconow
+    location: "India"
+    followers: 107599
+    engagement: 2154
+    commentsToLikes: 0.009423
+    id: ck134vg6jydqc0i19qm50awld
+    verified: false
+    hashtags: "#msiindia, #xyaa, #gamer, #live"
   - username: "aju_bhai_94"
     fullname: >-
       ajju_bhai_94
+    bio: >-
+      TOTAL GAMING DM FOR PAID PROMOTION FOLLOW ME AND GET CHANCE TO PLAY WITH ME IN FREE FIRE #ajjubhai94
     location: "India"
-    followers: 3520
-    engagement: 2761
-    commentsToLikes: 0.027270
+    followers: 15890
+    engagement: 1040
+    commentsToLikes: 0.029601
     id: ckap5dl50b7350i78kaj4pxaf
     verified: false
-    hashtags: "#gamingsetups, #weapons, #chingandito, #popularpicture"
+    hashtags: "#gamingmemes, #freebeats, #freefireboys, #freefire"
+  - username: "vivekkannan_"
+    fullname: >-
+      VIVEK KANNAN 🌀
+    bio: >-
+      Tvm 🔥 Designer , btech Own @crayonzdesignz ❤ Gaming Ac @ig_soulman
+    location: "India"
+    followers: 6415
+    engagement: 736
+    commentsToLikes: 0.202537
+    id: ck9why875003c0j78si3yvhwb
+    verified: false
+    hashtags: "#fashion, #nature, #pink, #nails"
+  - username: "bilawal_haider_"
+    fullname: >-
+      Micro Influencer| بلاول حید.
+    bio: >-
+      #pukhtoon Gamer | #influencer 7?teen Gaming acc : @ig._mafia_ Member of @tbtinternational Peshawar 📍
+    location: "India"
+    followers: 4840
+    engagement: 986
+    commentsToLikes: 0.126460
+    id: ckap3yztb544e0i78x7un6qo2
+    verified: false
+    hashtags: "#explorepage, #delhi, #dubai, #bloggers"
   - username: "eagle.gamingop"
     fullname: >-
       Dilin Dinesan
+    bio: >-
+      PUBGM Competitive Player For @intense_esports_ Leader @intense_esports_ Mallu Gaming Youtuber Official Editor - @thegfxboi
     location: "India"
-    followers: 25006
-    engagement: 1711
-    commentsToLikes: 0.049654
+    followers: 62874
+    engagement: 1418
+    commentsToLikes: 0.050069
     id: ck9wggthatcqb0j78a19ln41b
     verified: false
-    hashtags: "#pubgkerala, #pubgindia, #staytuned"
-  - username: "neeraj_nsm"
+    hashtags: "#pubgmobile, #pubgmontage"
+  - username: "true_gaming_studio"
     fullname: >-
-      Neeraj
+      Pranav Hawkz
+    bio: >-
+      True Gaming Studio 40k Fam
     location: "India"
-    followers: 6131
-    engagement: 8090
-    commentsToLikes: 0.024767
-    id: ck0twf51sf3ix0i19szu79yih
+    followers: 11903
+    engagement: 1294
+    commentsToLikes: 0.075768
+    id: ck9wggo6rtc530j783iuho21i
     verified: false
-    hashtags: "#pubgmemes, #pubgpc, #pubgepic, #callofduty"
-  - username: "krantigaming"
+    hashtags: "#valorantnews, #valorantclips, #csgo, #streamer"
+  - username: "daku2op"
     fullname: >-
-      KRANTI Gaming
+      Abhinav Singh Claire
+    bio: >-
+      Gaming Content Creator ID- Daku2opYT Dm/Email For Buisness Inquiry @ig_daku2op
     location: "India"
-    followers: 6945
-    engagement: 2607
-    commentsToLikes: 0.010666
-    id: ck8t81ea2ir7a0j78n7rb2btl
+    followers: 119724
+    engagement: 795
+    commentsToLikes: 0.014720
+    id: ck8t37tm628ch0j78j1ztl9mc
     verified: false
-    hashtags: ""
-  - username: "killerbaba_"
+    hashtags: "#pubgtv, #pubgkocak, #pubghighlights, #daku2op"
+  - username: "muhammed_ismail_m"
     fullname: >-
-      KiLLeR BaBa
+      Muhammed Ismail M
+    bio: >-
+      MaashaAllah ☺️ -------------------------- Passion On Wheels & Edits🎨😍 -------------------------- Kawasaki - H2 ------------------------- @gaming_ef18
     location: "India"
-    followers: 2123
-    engagement: 4452
-    commentsToLikes: 0.025793
-    id: ckaosm7ees2km0i78lzovt9j6
+    followers: 25199
+    engagement: 2531
+    commentsToLikes: 0.010213
+    id: ck15u019ykr2m0i19am3ow9dy
     verified: false
-    hashtags: "#setup2019, #cheers, #krontengaming, #dynamogaming"
-  - username: "gxmelife"
+    hashtags: "#h2, #kawasaki, #bikerlife, #bmw"
+  - username: "maneesh_vishnu"
     fullname: >-
-      Check My Story 😱
+      ᴍᴀɴᴇᴇꜱʜ ᴠɪꜱʜɴᴜ |  𝐌𝐕 ❄️
+    bio: >-
+      Married to💍🌸@sensree001 🌸💗😍😘 ᴅᴍ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ PUBG ID - 6906552850 MY GAMING YouTube channel 👇
     location: "India"
-    followers: 47709
-    engagement: 1156
-    commentsToLikes: 0.049570
-    id: ckap1vhqlwbvl0i782cewcsya
-    verified: false
-    hashtags: ""
-  - username: "bhavesh_roxx"
-    fullname: >-
-      Bhavesh Balchandani
-    location: "India"
-    followers: 473311
-    engagement: 439
-    commentsToLikes: 0.008958
-    id: ck0tzjwc0qk6t0i19jub13z6e
-    verified: true
-    hashtags: "#indiakaregabounceback, #wakeupinthesky, #dababy, #sunfeastbounce"
-  - username: "nj_gamer_"
-    fullname: >-
-      NATIONAL JAAT GAMING 🇮🇳
-    location: "India"
-    followers: 36868
-    engagement: 186
-    commentsToLikes: 0.027244
-    id: ckaotbpv9v7gb0i78uu0tdld1
-    verified: false
-    hashtags: "#pubgm, #pubgwtf, #mortal, #pubgmoments"
-  - username: "kikinejo"
-    fullname: >-
-      Korina “Kiki” Harrison
-    location: "India"
-    followers: 181102
-    engagement: 226
-    commentsToLikes: 0.026852
-    id: ck5zy78w09cul0i14f67bc6ta
-    verified: false
-    hashtags: "#skincare, #balmain, #palatribe, #custompiece"
-  - username: "pubgbigpage"
-    fullname: >-
-      PUBG BIG PAGE
-    location: "India"
-    followers: 54758
-    engagement: 992
-    commentsToLikes: 0.014101
-    id: ckaosb1j9qx9d0i78hcpachlx
+    followers: 42457
+    engagement: 1911
+    commentsToLikes: 0.005458
+    id: ckaozy2wcnx8o0i78yv1ucldo
     verified: false
     hashtags: ""
+  - username: "officialmaxtern"
+    fullname: >-
+      Maxtern
+    bio: >-
+      Sagar Thakur New Delhi, 🇮🇳 I like gaming, casting, travelling and spending time alone.😄
+    location: "India"
+    followers: 448194
+    engagement: 1202
+    commentsToLikes: 0.012181
+    id: ck9wp8a6a87wq0j787o5rxh17
+    verified: false
+    hashtags: "#pubgmobilelite, #azar, #pubgmobile, #pubgmobilemicrosoft"
 ---

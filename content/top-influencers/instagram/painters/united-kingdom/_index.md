@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top painters Instagram influencers in United Kingdom in 2020. Most popular hashtags: #tattoos #stayhome #portrait #earthday.
+  Find top painters Instagram influencers in United Kingdom in 2020. Most popular hashtags: #oilpainting #artoftheday #drawing.
 platform: Instagram
+hits: 396
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 396 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
+  - username: "jellygreenartist"
+    fullname: >-
+      Jelly Green
+    bio: >-
+      Painter
+    location: "United Kingdom"
+    followers: 16395
+    engagement: 857
+    commentsToLikes: 0.025715
+    id: ck134kxtvwxgs0i19iuoe5nyj
+    verified: false
+    hashtags: "#art, #nature, #oilpaint, #countryside"
   - username: "massimilianopironti"
     fullname: >-
       Massimiliano Pironti
+    bio: >-
+      Royal Society of Portrait Painters 2020-Mall Galleries, London 3rd Prize BP Portrait Award 2019 National Portrait Gallery, London BP PortraitAward2018
     location: "United Kingdom"
-    followers: 14887
-    engagement: 1447
-    commentsToLikes: 0.048711
+    followers: 16100
+    engagement: 1075
+    commentsToLikes: 0.054610
     id: ck6u6fxyffdo20j71i2sj06qq
     verified: false
-    hashtags: "#charcoal, #sketching, #selfportrait, #instaart"
-  - username: "over50_yo"
+    hashtags: "#artiststudio, #artistic, #figurative, #hyperrealistic"
+  - username: "maya_gat"
     fullname: >-
-      M. Di Costanzo
+      Maya Gat Tattoos 🌿 מיה גת
+    bio: >-
+      Tattoo artist & painter • Tel Aviv •Working at @rom_studio •Bookings via email only -mayagat.tattoos@gmail.com Make tea not war 🍵✨
     location: "United Kingdom"
-    followers: 185151
-    engagement: 510
-    commentsToLikes: 0.044369
-    id: ckaoxtvl1eq8z0i78xpcbzxxl
+    followers: 11799
+    engagement: 1089
+    commentsToLikes: 0.069054
+    id: ckf5mm1zkufzc0j23pzpw6z21
     verified: false
-    hashtags: "#greymodel, #shoot, #italianwomen, #fotos"
-  - username: "char.lotterose"
-    fullname: >-
-      Charlotte-Rose
-    location: "United Kingdom"
-    followers: 26283
-    engagement: 973
-    commentsToLikes: 0.014544
-    id: ck0u60b4q0jeg0i19gwk2gcrl
-    verified: false
-    hashtags: ""
-  - username: "jadelaurice"
-    fullname: >-
-      Jade Laurice
-    location: "United Kingdom"
-    followers: 51247
-    engagement: 327
-    commentsToLikes: 0.036256
-    id: ck55mcwyj3ook0i11bo2z8c67
-    verified: false
-    hashtags: "#ad, #cardibmemes, #loveguess, #lesbianguidetostraightsex"
+    hashtags: "#requiemforadream"
   - username: "shan_mcconnell"
     fullname: >-
       Shannon McConnell
+    bio: >-
+      Manchester◾️ Body Painter & MUA - @shannonmcconnellartistry Head Artist - @shrine TikTok - shannonmcconnell8 Loughborough Grad - Fine Art
     location: "United Kingdom"
-    followers: 15939
-    engagement: 571
-    commentsToLikes: 0.083413
+    followers: 17711
+    engagement: 714
+    commentsToLikes: 0.062112
     id: ck6u3ptp5z6ld0j716077a2wr
     verified: false
-    hashtags: "#wings, #hoodieseason, #pompom, #neonmakeup"
+    hashtags: "#babesofmissguided, #outfits, #jewels, #mua"
   - username: "tigerlily.taylor_"
     fullname: >-
       Tiger Taylor
+    bio: >-
+      🥴 🇬🇧 LDN @elitemodelworld k.reilly@elitemodel.co.uk Writer, painter 💚 project pending... ✨
     location: "United Kingdom"
-    followers: 63383
-    engagement: 741
-    commentsToLikes: 0.010763
+    followers: 66127
+    engagement: 756
+    commentsToLikes: 0.011398
     id: ck15phptexxt30i1975ia3zmu
     verified: true
-    hashtags: "#mrnice, #coronavirus, #littleshrimp, #stayhome"
-  - username: "easthope_fx"
+    hashtags: "#inkandpen, #gumarbarbie, #georgeorwell, #piek"
+  - username: "jadelaurice"
     fullname: >-
-      Leigh Easthope - Glow Up S1
+      Jade Laurice
+    bio: >-
+      Painter @Pocalondon Art & Solo Travelling 💅🏽 #BLM 💌 Jadelaurice@outlook.com Mgmt/PR @kmpr_publicity YouTube ▶️ Jadelaurice Depop:POCALONDON ♈️🏳️‍🌈👽🦋
     location: "United Kingdom"
-    followers: 233989
-    engagement: 601
-    commentsToLikes: 0.013696
-    id: ck0vvc1r9ogx80i1973j0setj
+    followers: 53096
+    engagement: 331
+    commentsToLikes: 0.044413
+    id: ck55mcwyj3ook0i11bo2z8c67
     verified: false
-    hashtags: "#colourpop, #neonmakeup, #smokeyliner, #watercolour"
-  - username: "kaymontano"
+    hashtags: "#inyourdreams, #boohoobabes, #itsinyourdreams, #inyourdreamsworkshop"
+  - username: "frances_bell_paintings"
     fullname: >-
-      Kay Montano
+      Frances Bell
+    bio: >-
+      Painter. 🇬🇧. Member of the Royal Society of Portrait Painters. #francesbellartist
     location: "United Kingdom"
-    followers: 27077
-    engagement: 112
-    commentsToLikes: 0.050264
-    id: ck0ubk4y3emdq0i19xdqzevwo
-    verified: true
-    hashtags: "#intersectional, #adaptability, #borissavelev, #jitterbugperfume"
-  - username: "mitch_griffiths_paint"
-    fullname: >-
-      Mitch Griffiths
-    location: "United Kingdom"
-    followers: 65343
-    engagement: 660
-    commentsToLikes: 0.015549
-    id: ck5cc4hpugph00i11k9444tia
-    verified: true
-    hashtags: "#sternomastoid, #contemporaryart, #iphone, #oilpainter"
-  - username: "simon_davis_painter"
-    fullname: >-
-      Simon Davis VPRP RBSA
-    location: "United Kingdom"
-    followers: 37937
-    engagement: 515
-    commentsToLikes: 0.007815
-    id: ck5hh9l9k73sp0i11atktwx32
+    followers: 25124
+    engagement: 671
+    commentsToLikes: 0.016719
+    id: ck135p1ee2iq20i1991eloe6v
     verified: false
-    hashtags: "#canvas, #hair, #vampire, #youth"
+    hashtags: "#fromlife, #familyportrait, #francesbellartist, #portraitofachild"
+  - username: "kikopaint"
+    fullname: >-
+      kiko !
+    bio: >-
+      she/her 🏳️‍🌈 music maker + face painter listen 2 my new song below !
+    location: "United Kingdom"
+    followers: 57571
+    engagement: 556
+    commentsToLikes: 0.021117
+    id: ck0udl8l2jgcc0i19xa5ogz0w
+    verified: false
+    hashtags: "#editorialmakeup, #avantgarde, #fotd, #graphiceyeliner"
+  - username: "mmmmitchell"
+    fullname: >-
+      mitchell
+    bio: >-
+      painter, lover, dreamer. ♡ @madebymitchell ♡
+    location: "United Kingdom"
+    followers: 1271563
+    engagement: 344
+    commentsToLikes: 0.062968
+    id: ck0tu0s4154od0i19ttikf2xw
+    verified: true
+    hashtags: "#libra, #comingsoon"
+  - username: "justsammorris"
+    fullname: >-
+      Sam Morris
+    bio: >-
+      Erotic Photographer & Filmmaker Painter | Writer | Nymph Subscribe below ✨
+    location: "United Kingdom"
+    followers: 202904
+    engagement: 343
+    commentsToLikes: 0.007913
+    id: ck5c2rftqxtyq0i11ulriqzg9
+    verified: true
+    hashtags: ""
 ---

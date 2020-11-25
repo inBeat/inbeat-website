@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #tattooartist #tattoo #tattoos.
+  Find top tattoo-artists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #tattoo #tattoos #tattooartist.
 platform: Instagram
+hits: 37
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 37 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
+  - username: "rudy_chee_ruiz"
+    fullname: >-
+      ✨✨ "Chee"✨✨
+    bio: >-
+      "Hub City" Bout that Life Artist🎨 Tattooer 💉 Oldies 📻🎶 Good times 🎭 Deers Eye Studio
+    location: "United States"
+    followers: 16702
+    engagement: 191
+    commentsToLikes: 0.011470
+    id: ck5zszap1zgjy0i14xe7og2c2
+    verified: false
+    hashtags: "#explore, #incarrwetrust, #instacool, #rn4l"
   - username: "lealigot"
     fullname: >-
       𝓛𝓮𝓪 𝓛𝓲𝓰𝓸𝓽 🌸✨
+    bio: >-
+      🌸🌙✨ Kawaii Neotraditional Tattoo Artist 🌸Las Vegas, NV | Books Full for 2020 ⭐️ 🌸NO DMs, pls 🚫 🌸@pusssykattattooparlor🤓 ❣️FAQ/ Shop/ Booking Form ⤵️
     location: "United States"
-    followers: 12554
-    engagement: 564
-    commentsToLikes: 0.013789
+    followers: 15434
+    engagement: 478
+    commentsToLikes: 0.018124
     id: ckap74yuainph0i78vay5tf5a
     verified: false
-    hashtags: "#animalcrossinglily, #kawaiitattoo, #sailormoon, #rilakkuma"
+    hashtags: "#studioghibliart, #foodtattoo, #kawaii, #studioghibli"
   - username: "painfulreminders"
     fullname: >-
       Schwab
+    bio: >-
+      Tattoo artist & illustrator. Las Vegas. Team Blackcloud. •For appts call/text 702-689-1642
     location: "United States"
-    followers: 43631
-    engagement: 105
-    commentsToLikes: 0.035030
+    followers: 43043
+    engagement: 101
+    commentsToLikes: 0.028708
     id: ck55mghuh3ws60i11mxzllvaj
     verified: false
-    hashtags: "#greta, #ink, #skull, #frankenweenie"
+    hashtags: "#tattoo, #marvel, #disney, #batman"
   - username: "mannysrevolution"
     fullname: >-
       Las Vegas Tattoo Artist
+    bio: >-
+      BOOKS OPEN Text (702) 577-7903 “𝐋𝐨𝐯𝐞 𝐰𝐡𝐚𝐭 𝐲𝐨𝐮 𝐝𝐨 𝐚𝐧𝐝 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐰𝐢𝐥𝐥 𝐟𝐨𝐥𝐥𝐨𝐰” @lasvegastattooartist📍@revolutiontattooparlor @thebookgenesis 🤍 link ⬇️
     location: "United States"
-    followers: 16454
-    engagement: 348
-    commentsToLikes: 0.024756
+    followers: 16914
+    engagement: 300
+    commentsToLikes: 0.044906
     id: ck55km9j8znat0i11yvjnur3a
     verified: false
-    hashtags: "#summerlin, #tattoos, #goldenknights, #lasvegasblvd"
+    hashtags: "#art, #lasvegastattoo, #lasvegasartist, #lasvegastattooartist"
+  - username: "real.miss.tori.black"
+    fullname: >-
+      Tori Black
+    bio: >-
+      ONLY FANS: officialtoriblack
+    location: "United States"
+    followers: 342673
+    engagement: 246
+    commentsToLikes: 0.030988
+    id: ck8sy2pjbjivs0j78qgzvs51r
+    verified: false
+    hashtags: "#bigmood, #nofilter, #lasvegas, #tattoo"
   - username: "heidi_dangerouslychicbrows"
     fullname: >-
       Heidi Lynne
+    bio: >-
+      -Owner of Dangerously Chic Brows -Licensed TATTOO/ARTIST👩‍🎨. Microblading, and ombré courses!! -Licensed Esti 💄Stl & Las Vegas Location
     location: "United States"
     followers: 26430
     engagement: 38
     commentsToLikes: 0.047644
     id: ck136pg3c7m6p0i19oge4fa2x
     verified: false
-    hashtags: "#loves, #lipblushing, #freedom, #bosslady"
-  - username: "robert_pho"
+    hashtags: "#estetica, #browgame, #lashlift, #microbladingtraining"
+  - username: "carlotah_sandiego"
     fullname: >-
-      Robert Pho
+      Carla Ricci
+    bio: >-
+      ⚜️1st Yr Tattoo Artist •Lines •Realism •Erotic Art •Aerosol A simply vibrant life... Sí way🌹• San Diego, CA @bsd_murals 🌞 DM or email for inquiries❣️
     location: "United States"
-    followers: 47045
-    engagement: 421
-    commentsToLikes: 0.032638
-    id: ck6tr001cvwpm0j719y9nzgv9
+    followers: 3654
+    engagement: 2430
+    commentsToLikes: 0.013566
+    id: ckaosxfqxtgfg0i78mv5aisdy
     verified: false
-    hashtags: "#lasvegas, #collaboration, #palilookout, #stayblessed"
-  - username: "mdanielsphoto"
+    hashtags: "#stippling, #thicklines, #floweroflife, #sacredgeometry"
+  - username: "vaultt_tec"
     fullname: >-
-      Malik Daniels
+      Dallas Hogarth
+    bio: >-
+      Hoagie | Shop: @hoagies.originals | Tattoo artist @tigertattoo_lv | Pins & Stickers || || DM for Shop Password and Commissions
     location: "United States"
-    followers: 8553
-    engagement: 291
-    commentsToLikes: 0.102663
-    id: ck0vx2lr5wu1a0i19c5ra2hin
+    followers: 6115
+    engagement: 570
+    commentsToLikes: 0.031909
+    id: ck6ug9dap1okp0j71r14uvxb1
     verified: false
-    hashtags: "#lamakeupartist, #nhie, #netflixoriginal, #beautylook"
-  - username: "kommienezuspadt"
+    hashtags: "#falloutnv, #tattoos, #skeleton, #traditionaltattoo"
+  - username: "inked.exclusives"
     fullname: >-
-      Lars Kommienezuspadt
+      
+    bio: >-
+      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
     location: "United States"
-    followers: 38368
-    engagement: 351
-    commentsToLikes: 0.028821
-    id: ck0w1mpcpk3h30i19k3ilnfm8
+    followers: 31760
+    engagement: 47
+    commentsToLikes: 0.017089
+    id: ck5cffuv2mvc10i116l0bvdiq
     verified: false
-    hashtags: "#patreon, #westcoast, #lisadeltoro, #southern"
-  - username: "joekillmeister"
+    hashtags: "#tattoos, #pretty, #exclusives, #hotellife"
+  - username: "xkingofshredx"
     fullname: >-
-      JOE KILLMEISTER
+      
+    bio: >-
+      Guitarist @slaughtertoprevailofficial @legatorguitars @inkpagodatattoo @fortinamps @fishmanmusic @laddercabs @neuraldsp DM Offering Lessons
     location: "United States"
-    followers: 17670
-    engagement: 263
-    commentsToLikes: 0.046100
-    id: ck5cbg4k4fcxz0i113ylde75n
+    followers: 8387
+    engagement: 857
+    commentsToLikes: 0.018765
+    id: ck6u1nliwmtal0j71ktc3drgt
     verified: false
-    hashtags: "#smoke, #idiot, #killertattooguy, #igtattoo"
-  - username: "missmaelaroux"
-    fullname: >-
-      Mae La Roux
-    location: "United States"
-    followers: 84764
-    engagement: 204
-    commentsToLikes: 0.013469
-    id: ck6u74ovgjgpp0j71fcf0tm97
-    verified: false
-    hashtags: "#mickeyears, #hauntedmansionbride, #poker, #californiaadventure"
-  - username: "henna.videos"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀• B E A U T I F U L  •
-    location: "United States"
-    followers: 45171
-    engagement: 156
-    commentsToLikes: 0.007316
-    id: ck0u7d93c4hni0i19q6sontmm
-    verified: false
-    hashtags: "#pakistan, #fresno, #instadaily, #sandiego"
+    hashtags: "#fishmanmusic, #fishmanfluence, #stephencarpenter, #vegas"
 ---

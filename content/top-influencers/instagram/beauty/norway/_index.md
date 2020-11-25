@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Norway In 2020
 description: >-
-  Find top beauty Instagram influencers in Norway in 2020. Most popular hashtags: #norway #insta #newyear #sunshine.
+  Find top beauty Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nature #reklame.
 platform: Instagram
+hits: 268
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 268 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "rmabeauty"
+  - username: "vintage.by.agata"
     fullname: >-
-      RAGNHILD MARGRETHE
+      Agata 🕊
+    bio: >-
+      ♡︎ Mom of Two👧🏼👧🏼 • Vintagelover ~ • Bergen ☁️ ♡︎ Fashion Beauty • Collab~ agatabakota@yahoo.no
     location: "Norway"
-    followers: 31925
-    engagement: 185
-    commentsToLikes: 0.062531
-    id: ck5q5dkayseb60i11ff3h6m06
+    followers: 5979
+    engagement: 1193
+    commentsToLikes: 0.327615
+    id: ck0u60xeb0mba0i19yj6pbtz5
     verified: false
-    hashtags: "#hair, #hairinspo, #makeuptutorial, #sophieelisexmymuse"
-  - username: "anneliaaland"
+    hashtags: "#newbiesuomi, #barnerom, #vintagekidsroom, #instamatka"
+  - username: "beautycultnorway"
     fullname: >-
-      ANNELI AALAND
+      Beauty Cult
+    bio: >-
+      ♡ 7 beauty-interesserte jenter ♡ Daglige oppdateringer på Snapchat ♡ Følg oss på Snapchat → beauty.cult ♡ #beautycultnorway
     location: "Norway"
-    followers: 6344
-    engagement: 539
-    commentsToLikes: 0.104416
-    id: ck15r51nm66qx0i19agkwr2l9
+    followers: 17091
+    engagement: 350
+    commentsToLikes: 0.080147
+    id: ck15th6bci2070i19tguriay0
     verified: false
-    hashtags: "#details, #coffee, #jewelry, #food"
+    hashtags: "#drawmealookchallenge"
+  - username: "vanesajarovic"
+    fullname: >-
+      VANESA JAROVIC
+    bio: >-
+      🇧🇦🇭🇷 ♡ @steffenkjos ⚡️ @lashesbyvanesajarovic Owner of @emina.beautysalon
+    location: "Norway"
+    followers: 6478
+    engagement: 572
+    commentsToLikes: 0.082084
+    id: ckap8g6bzo5zi0i78ca4xopin
+    verified: false
+    hashtags: "#ad, #goldenhour, #reklame, #theritualofadvent"
+  - username: "evelinekarlsen"
+    fullname: >-
+      Eveline Karlsen
+    bio: >-
+      Norway YouTuber, Beauty and lifestyle influencer Live and breathe Makeup 💄 Check out my YouTube-channel👇🏼
+    location: "Norway"
+    followers: 73469
+    engagement: 664
+    commentsToLikes: 0.009036
+    id: ck13c53ufynrz0i19n7mrbo8q
+    verified: false
+    hashtags: "#alwaysarden, #yesnakd, #nakdfashion, #wearecaia"
   - username: "stefanborupphoto"
     fullname: >-
       Stefan Borup Photography
+    bio: >-
+      Stefan Borup Portraits, Fashion, Beauty and Boudoir. #SonyAlpha user. A7riii and A7iii. Contact: stefan@stefanborup.com eller DM
     location: "Norway"
-    followers: 7874
-    engagement: 1684
-    commentsToLikes: 0.023580
+    followers: 7683
+    engagement: 1438
+    commentsToLikes: 0.027183
     id: ck15pgoi8xsdq0i190b3alii5
     verified: false
-    hashtags: "#fashionmen, #mensfashion, #a7iii, #sorthvid"
-  - username: "margrethe66"
+    hashtags: "#portraitperfection, #portrettfotograf, #discoverportraits, #portrettbilder"
+  - username: "anneliaaland"
     fullname: >-
-      Margrethe🇳🇴
+      ANNELI AALAND 🐬
+    bio: >-
+      oslo, norway fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
     location: "Norway"
-    followers: 5331
-    engagement: 1694
-    commentsToLikes: 0.103244
-    id: ckapcbrp836fj0i78v5nrut9b
+    followers: 7383
+    engagement: 473
+    commentsToLikes: 0.071035
+    id: ck15r51nm66qx0i19agkwr2l9
     verified: false
-    hashtags: "#photos, #worldsunsetn, #addictedto, #sorlandetno"
-  - username: "karoline_lien"
+    hashtags: "#zalandostyle, #outfit, #interior, #ootd"
+  - username: "lottemyrseth"
     fullname: >-
-      𝓚𝓪𝓻𝓸𝓵𝓲𝓷𝓮 𝓛𝓲𝓮𝓷♛
+      Lotte Myrseth
+    bio: >-
+      • Oslo/Lofoten 🇳🇴 • @_syvogtyve (Bygdøy allè 27) • Medlem av @beautybloggerne 💄 • Educator / color expert • Olaplex ambassador
     location: "Norway"
-    followers: 2621
-    engagement: 1660
-    commentsToLikes: 0.098422
-    id: ck6trhgrwz0jn0j71opbka9eg
+    followers: 25974
+    engagement: 445
+    commentsToLikes: 0.016624
+    id: ck5q5dkbvsec40i118ak49tsx
     verified: false
-    hashtags: "#equishoposlo, #equiline, #jemoneseem, #castlefieldjess"
-  - username: "bybebjo"
-    fullname: >-
-      Beatrice Bjørnerud🏳️‍🌈
-    location: "Norway"
-    followers: 15106
-    engagement: 660
-    commentsToLikes: 0.015621
-    id: ckap4wjvy97b20i78v0lbnlkc
-    verified: false
-    hashtags: ""
+    hashtags: "#syvogtyveoslo, #rosafrends, #mydentity"
   - username: "livingprettynaturally"
     fullname: >-
       Kate Murphy
+    bio: >-
+      🜃 Green Beauty + Wellness Huntress ⚭ Conscious Business Creation & Growth ❍ Founder of 𝑻𝒉𝒆 𝑭𝒆𝒎𝒊𝒏𝒊𝒏𝒆 𝑪𝒐𝒅𝒆🔜 ☽ Space Holder║Ceremonies║Student of Spirit
     location: "Norway"
-    followers: 41453
-    engagement: 124
-    commentsToLikes: 0.186486
+    followers: 40788
+    engagement: 104
+    commentsToLikes: 0.096447
     id: ck5hg2pal0m6y0i11jalxeixe
     verified: false
-    hashtags: "#crystalbowls, #norway, #wombwisdom, #newyear"
-  - username: "the_optimisticgirl"
-    fullname: >-
-      Amara🇳🇬|Mom&Lifestyle Blogger
-    location: "Norway"
-    followers: 17459
-    engagement: 282
-    commentsToLikes: 0.052818
-    id: ck6u4yexg6igx0j714n8zdm31
-    verified: false
-    hashtags: "#naturalbeauty, #colorventures, #myuniconlife, #babyboy"
+    hashtags: "#norway, #womeninbusiness, #thefemininecode, #challengeaccepted"
   - username: "irmathebirman"
     fullname: >-
       Irma & Indi
+    bio: >-
+      💜Two lilac point Sacred Birmans living in Norway 😻Irma is the beauty 😽Indi is the cutie ⭐️Ambassador for @vetzoo_se
     location: "Norway"
-    followers: 23167
-    engagement: 537
-    commentsToLikes: 0.069066
+    followers: 22500
+    engagement: 473
+    commentsToLikes: 0.086065
     id: ck13cs9rp1wk90i19fphadi1e
     verified: false
-    hashtags: "#musti, #frost, #catlife, #sunshine"
-  - username: "skincarenoob"
+    hashtags: "#balousfriends, #allcatphotos300, #meowfeature, #trendscat"
+  - username: "thereseaanonli"
     fullname: >-
-      Jonna
+      THERESE AANONLI
+    bio: >-
+      Årets Beautyprofil 2020 Costume Awards🏆 Beauty Expert på MinMote 💄 Makeuptutorials på story 💋 Mom to Nelly together with @juliejungle🏳️‍🌈 Artist🎨
     location: "Norway"
-    followers: 6261
-    engagement: 831
-    commentsToLikes: 0.538293
-    id: ck9we6j1piu2x0j78iokc2gj4
+    followers: 63153
+    engagement: 108
+    commentsToLikes: 0.064105
+    id: ck5bxebwynk6k0i11jin1uzyh
     verified: false
-    hashtags: "#beautygiveaway, #bluemonday, #friyayfaves, #kajabeauty"
+    hashtags: ""
 ---

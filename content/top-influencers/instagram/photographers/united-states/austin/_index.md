@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Austin In 2020
 description: >-
-  Find top photographers Instagram influencers in Austin in 2020. Most popular hashtags: #moodygrams #bluebonnets # #texassunset.
+  Find top photographers Instagram influencers in Austin in 2020. Most popular hashtags: #portrait #ad #austintexas.
 platform: Instagram
+hits: 226
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 226 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "marshalltidrickphoto"
     fullname: >-
       Marshall Tidrick
+    bio: >-
+      All photos are my own. Film & digital. Full-time freelance photographer. Austin, Texas
     location: "United States"
-    followers: 5903
-    engagement: 980
-    commentsToLikes: 0.055567
+    followers: 7094
+    engagement: 782
+    commentsToLikes: 0.051517
     id: ck5c8nyvf9vsd0i117ewf8wtn
     verified: false
     hashtags: ""
-  - username: "flowkyte"
+  - username: "bryanschutmaat"
     fullname: >-
-      Ryan Kyte | Texas Photographer
+      Bryan Schutmaat
+    bio: >-
+      Photographer Austin, Texas, USA
     location: "United States"
-    followers: 3648
-    engagement: 1068
-    commentsToLikes: 0.078642
-    id: ck138afttfafn0i19lsixs01x
+    followers: 37183
+    engagement: 648
+    commentsToLikes: 0.013872
+    id: ck6uh20ye6j320j71hdsc4z6m
     verified: false
-    hashtags: "#instagram, #cityscapes, #6hcota, #porscheracing"
-  - username: "rudyramirez_rrj"
+    hashtags: ""
+  - username: "b.c.calico"
     fullname: >-
-      Rudy Ramirez
+      Photographer Brendan Carroll
+    bio: >-
+      Freelance Editorial Photographer Austin | Chicago @sporarts
     location: "United States"
-    followers: 2619
-    engagement: 1293
-    commentsToLikes: 0.059003
-    id: ck0vyct9d3cg30i197wb91wpe
+    followers: 5565
+    engagement: 553
+    commentsToLikes: 0.028244
+    id: ck6tll4i966er0j71a5sttk5n
     verified: false
-    hashtags: "#sfbayarea, #northcali, #utaustintx, #igsanfrancisco"
+    hashtags: "#nowherediary, #rolledgoldfilm, #filmisnotdead, #instagood"
+  - username: "common_andrew"
+    fullname: >-
+      
+    bio: >-
+      Portrait and event photographer. Email for inquiry.
+    location: "United States"
+    followers: 6420
+    engagement: 863
+    commentsToLikes: 0.053825
+    id: ck6tttbh4ch110j713hl9j5s3
+    verified: false
+    hashtags: "#simplybadmag, #lfdc, #fusemagazineonline, #photographer"
+  - username: "barefoottim"
+    fullname: >-
+      austin photographer
+    bio: >-
+      ↣ real stories, real people 🌿 ↣ husband, father, traveling photographer — ↣ inquire below ↡
+    location: "United States"
+    followers: 8158
+    engagement: 493
+    commentsToLikes: 0.077733
+    id: ck5hmq13imetx0i117co4gqfn
+    verified: false
+    hashtags: "#texasphotographer, #austinphotographer, #houstonphotographer, #dallasphotographer"
+  - username: "findingpaola"
+    fullname: >-
+      Paola "Pao Pao" Mathé 🇭🇹
+    bio: >-
+      Perfection is boring. Life is art. Beauty is everywhere.🌸 Founder and Creative Director of @fanmdjanm✨Mom • Photographer• Fairy 📍Austin | NYC
+    location: "United States"
+    followers: 217099
+    engagement: 404
+    commentsToLikes: 0.016760
+    id: ck0ubt0cgfbgp0i19lbtiu6oh
+    verified: true
+    hashtags: "#findingpaola, #zuliwuliwu, #ad, #zuliisgoingtobeabigsister"
+  - username: "ian_in_atx"
+    fullname: >-
+      Ian
+    bio: >-
+      📍Austin, TX | #photographer #gayaustin #gayatx #gayguy
+    location: "United States"
+    followers: 3003
+    engagement: 1677
+    commentsToLikes: 0.053194
+    id: ckap2d8paycb60i78cyaifa7a
+    verified: false
+    hashtags: "#love, #malemodel, #dilf, #selfie"
+  - username: "nvzion"
+    fullname: >-
+      ᴍᴀᴛᴛ
+    bio: >-
+      📍 austin 📸 photographer 📧 nvzionn@gmail.com
+    location: "United States"
+    followers: 38560
+    engagement: 662
+    commentsToLikes: 0.033607
+    id: ck5cifa9dsjlv0i119pyvtxmb
+    verified: false
+    hashtags: "#officespace, #magickeyboard, #applewatchseries5, #satechi"
+  - username: "emilyblincoe"
+    fullname: >-
+      emily blincoe
+    bio: >-
+      austin • nashville photographer elblincoe@gmail.com
+    location: "United States"
+    followers: 360556
+    engagement: 237
+    commentsToLikes: 0.010512
+    id: ck0vxyqx61e2x0i19iyayximm
+    verified: true
+    hashtags: "#ad, #myfancyfeast"
   - username: "onechelofanadventure"
     fullname: >-
       Chelsea Bancroft | ATX
+    bio: >-
+      🌵 Austin Blogger & Photographer ✈️ Travel + Lifestyle + Fashion 🍟 Fries Before Guys 📩 onechelofanadventure@gmail.com
     location: "United States"
-    followers: 62418
-    engagement: 116
-    commentsToLikes: 0.091224
+    followers: 58798
+    engagement: 127
+    commentsToLikes: 0.087497
     id: ck135fy6g183c0i196njizvzw
     verified: false
-    hashtags: "#grocerystyle, #myheb, #mazda, #utahisrad"
-  - username: "austinbirthphotos"
-    fullname: >-
-      Kayla Grey, Birth Photographer
-    location: "United States"
-    followers: 36387
-    engagement: 373
-    commentsToLikes: 0.021685
-    id: ck14lbw2htvr30i19sgchva5b
-    verified: false
-    hashtags: "#birthstories, #meconiumhappens, #maternity, #thefourthtrimester"
-  - username: "jessicarockowitz"
-    fullname: >-
-      Austin Lifestyle Photographer
-    location: "United States"
-    followers: 30936
-    engagement: 233
-    commentsToLikes: 0.046760
-    id: ck5hip3ehenks0i11vphxvgyk
-    verified: false
-    hashtags: "#hellostoryteller, #pleaseandthankyou, #ihaveaproblem, #clickinmoms"
-  - username: "nikknguyenphoto"
-    fullname: >-
-      Austin Wedding Photographer
-    location: "United States"
-    followers: 16474
-    engagement: 165
-    commentsToLikes: 0.039617
-    id: ck0u93hh28txw0i19gxp6yz0k
-    verified: false
-    hashtags: "#hasselblad500cm, #stayinspired, #leicamp, #kodaktrix400"
-  - username: "atwes"
-    fullname: >-
-      wes ellis
-    location: "United States"
-    followers: 52910
-    engagement: 572
-    commentsToLikes: 0.006418
-    id: ck0u87r4f6n8e0i1974z5l6cj
-    verified: false
-    hashtags: ""
-  - username: "edsel"
-    fullname: >-
-      Philip Edsel
-    location: "United States"
-    followers: 63918
-    engagement: 140
-    commentsToLikes: 0.025807
-    id: ck0tusqst8k8b0i19de9gvnl5
-    verified: false
-    hashtags: "#justiceforahmaud"
-  - username: "katiejameson"
-    fullname: >-
-      Katie Jameson
-    location: "United States"
-    followers: 31229
-    engagement: 106
-    commentsToLikes: 0.043521
-    id: ck55mw9oz4yom0i11u1ds6kul
-    verified: false
-    hashtags: "#businessandpleasure2014, #happyearthday"
+    hashtags: "#sponsored, #trueaustin, #commodoreperryestate, #austintexas"
 ---

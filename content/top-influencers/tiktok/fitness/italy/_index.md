@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Italy In 2020
 description: >-
-  Find top fitness TikTok influencers in Italy in 2020. Most popular hashtags: #trend #duetto #italy #maturare.
+  Find top fitness TikTok influencers in Italy in 2020. Most popular hashtags: #fitness #perte #fyp #allenamento.
 platform: TikTok
+hits: 132
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 132 TikTok influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "brancato_angelo"
+  - username: "beatrice.finizii95"
     fullname: >-
-      Brancato_angelo
+      BEATRICE FINIZII
+    bio: >-
+      ♦️Crea la TUA creazione ♦️ ➡️ig: B_FITNESS.COLLECTION⬅️ IG: LEFINIZIICREAZIONI
     location: "Italy"
-    followers: 0
-    engagement: 1153
-    commentsToLikes: 0.169525
-    id: ck9vemz60zqki0j786qk0iuta
+    followers: 7537
+    engagement: 923
+    commentsToLikes: 0.141071
+    id: ck8qh4xkj3jnk0j78guxuycy6
     verified: false
-    hashtags: "#segni, #mese, #crush, #beastfriends"
-  - username: "alessandro_gri"
+    hashtags: "#harrypotteralways, #harrypotterita, #palestrato, #handmadenecklace"
+  - username: "falonvr"
     fullname: >-
-      Alex
+      Falon Vargas
+    bio: >-
+      🇨🇷 in 🇮🇹 Vice Campionessa IFBB Italia Fitness Model Instagram: Falonvargar
     location: "Italy"
-    followers: 5193
-    engagement: 915
-    commentsToLikes: 0.083879
-    id: cka0x58065n780i78fr5trln7
+    followers: 63300
+    engagement: 1314
+    commentsToLikes: 0.029596
+    id: ckbkgv7kc8hgb0j23st9hrz2v
     verified: false
-    hashtags: "#statidanimo, #latindance, #dancechallenge, #italy"
-  - username: "unoteeunoice"
+    hashtags: "#dance, #perte, #tiktokitalia, #puravida"
+  - username: "francesco_beautycoach"
     fullname: >-
-      Alis Scarinci
+      FrancescoBeautyCoach
+    bio: >-
+      💫 TikTok Trends LIVE: Make-up, sopracciglia perfette, skincare, fitness ✨🌟✨
     location: "Italy"
-    followers: 72288
-    engagement: 865
-    commentsToLikes: 0.034815
-    id: ck9f9csc368yt0j78vb4njeaq
+    followers: 13500
+    engagement: 1176
+    commentsToLikes: 0.247744
+    id: ckck5u04wqvuj0j23hqar0ei1
     verified: false
-    hashtags: "#dance, #disneychallenge, #scarymovie, #hannamontana"
+    hashtags: "#trend, #viral, #newtrend, #francescobeautycoach"
+  - username: "emmanuelpt.com"
+    fullname: >-
+      Emmanuel_pt 
+    bio: >-
+      Follow me on IG ☝🏻 John’s Daddy 🐕 Lifestyle and Fitness 👇🏻New workout
+    location: "Italy"
+    followers: 95100
+    engagement: 570
+    commentsToLikes: 0.060945
+    id: ckb9id1r48kc50j23w6pjqysr
+    verified: false
+    hashtags: "#personaltrainer, #imparacontiktok, #ironia, #trend"
   - username: "dragoneddyow"
     fullname: >-
       DragonEddy
+    bio: >-
+      Asian Boy, Fitness Addict 💪 Pro Player and Twitch Streamer 🎮👾 Follow me on IG
     location: "Italy"
-    followers: 4760
-    engagement: 1033
-    commentsToLikes: 0.046326
+    followers: 4825
+    engagement: 1035
+    commentsToLikes: 0.045100
     id: cka0yn1gcbvux0i7827on5agz
     verified: false
-    hashtags: "#codmemes, #tiktok, #tiktoktravel, #lavalemani"
-  - username: "deborahfashionsport"
+    hashtags: "#gymmotivation, #fyp, #wasian, #plankchallenge"
+  - username: "gionata_triplaa_system"
     fullname: >-
-      Deborah Spinelli
+      Gionata Raffaelli
+    bio: >-
+      Esperto di fitness creatore del metodo TRIPLA A SYSTEM. ▶️ Aggiungimi su IG
     location: "Italy"
-    followers: 2413
-    engagement: 288
-    commentsToLikes: 0.085827
-    id: cka6e6xx2alj30i784l33iico
+    followers: 76300
+    engagement: 371
+    commentsToLikes: 0.073279
+    id: ckc7zjtwv18ub0j23jef9xqv6
     verified: false
-    hashtags: "#runninggirl, #atuttotrash, #abschallenge, #bigchallange"
-  - username: "ursudenis.boxeacademy"
+    hashtags: "#perte, #upperbodyworkout, #fitnesstrainer, #bodytransformation"
+  - username: "matteo.paolini.88"
     fullname: >-
-      UrsuDenisBoxeAcademy
+      Matteo Paolini
+    bio: >-
+      Fitness & food lover 🇮🇹Italian athlete🇮🇹 ⬇️My Instagram for more⬇️
     location: "Italy"
-    followers: 65221
-    engagement: 560
-    commentsToLikes: 0.017594
-    id: ck97ymd5705vw0j78to1z1ymh
+    followers: 427000
+    engagement: 1051
+    commentsToLikes: 0.006438
+    id: ckc30kog0r9g60j23d6ll9w6n
     verified: false
-    hashtags: "#fitnness, #follo, #italia, #colpi"
+    hashtags: "#perte, #foryoupage, #sport, #fitnessmotivation"
   - username: "federicocorvi"
     fullname: >-
       Federico
+    bio: >-
+      PRO FREERIDE ATHLETE SPORT // FITNESS // TRAVEL Instagram: @federicocorvi 🙏🏻
     location: "Italy"
-    followers: 13994
-    engagement: 597
-    commentsToLikes: 0.021467
+    followers: 16400
+    engagement: 565
+    commentsToLikes: 0.020972
     id: ck9dx2ho7rjgu0j78qcy5v7p4
     verified: false
-    hashtags: "#viralvideo, #newchallange, #funnyvideos, #trickshot"
+    hashtags: "#ski, #mountain, #winter, #skifreeride"
+  - username: "deborahfashionsport"
+    fullname: >-
+      Deborah Spinelli
+    bio: >-
+      Triathlon | Fitness | Inspiration Instagram 👉🏻 @deborahfashionsport
+    location: "Italy"
+    followers: 4385
+    engagement: 303
+    commentsToLikes: 0.068829
+    id: cka6e6xx2alj30i784l33iico
+    verified: false
+    hashtags: "#italy, #fit, #italiangirl, #fitgirl"
   - username: "sonia_dedo"
     fullname: >-
       Sonia Dedo
+    bio: >-
+      Torino, Italia 🇮🇹 01/01/98 ♑️ Fitness 💪🏼🍑 Seguitemi su Instagram ❤️
     location: "Italy"
-    followers: 23021
-    engagement: 505
-    commentsToLikes: 0.047547
+    followers: 58600
+    engagement: 664
+    commentsToLikes: 0.025524
     id: ck8w4fs458fik0j78day4fyol
     verified: false
-    hashtags: "#duetto, #greenscreen, #maturare"
-  - username: "francesca.pezzano"
-    fullname: >-
-      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
-    location: "Italy"
-    followers: 33403
-    engagement: 777
-    commentsToLikes: 0.008425
-    id: ck8vsi512doq90j78h4cdonym
-    verified: false
-    hashtags: "#holiday, #cocker, #healthy, #legs"
-  - username: "miguelguarinifit"
-    fullname: >-
-      miguelguarini
-    location: "Italy"
-    followers: 3680
-    engagement: 984
-    commentsToLikes: 0.013500
-    id: ck8w1pw282ow30j78nvsfo23u
-    verified: false
-    hashtags: "#lanostrasigla, #continuaacantare, #featureme, #scherzo"
+    hashtags: "#distorsione, #greenscreen, #miofuturoamore, #bulletproof"
 ---

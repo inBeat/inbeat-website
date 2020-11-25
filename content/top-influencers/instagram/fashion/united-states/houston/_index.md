@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Houston In 2020
 description: >-
-  Find top fashion Instagram influencers in Houston in 2020. Most popular hashtags: #fashion #fashionista #houstonblogger #styleinspo.
+  Find top fashion Instagram influencers in Houston in 2020. Most popular hashtags: #fashion #houston #houstonblogger #houstontx.
 platform: Instagram
+hits: 280
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 280 Instagram influencers like this in Houston, United States for you to connect with.
 profiles:
-  - username: "alexisknops"
+  - username: "suethelaw"
     fullname: >-
-      Alexis | Lifestyle Blogger
+      🌸 ᔕᑌE-ᒪYᑎᑎ 🌸
+    bio: >-
+      Checkout my new post 💕 www.suefashionlaw.com
     location: "United States"
-    followers: 10089
-    engagement: 581
-    commentsToLikes: 0.169952
-    id: ckap16rp9tai20i7883flq5p7
+    followers: 2626
+    engagement: 2367
+    commentsToLikes: 0.041714
+    id: ckap2y14g0svu0i781u8t2den
     verified: false
-    hashtags: "#fashiondiaries, #nordstromhaul, #youtuber, #fashionweek"
-  - username: "lux_mommy"
+    hashtags: "#fashionista, #fashionblogger, #styletrends, #instastyle"
+  - username: "uc.camjam"
     fullname: >-
-      LuxMommy | Blogger +YouTuber
+      Cam-Jam™
+    bio: >-
+      DM ~ inquiry|shoots|collabs Houston,TX | Galveston,TX Published Model~Actress TrophiesTV-EMILY WE BlackOps Worlds🥈Medalist Nfinity Legend ❤️🔐
     location: "United States"
-    followers: 111529
-    engagement: 202
-    commentsToLikes: 0.066864
-    id: ck13cevmdzzqk0i19aqj20cfh
+    followers: 100373
+    engagement: 288
+    commentsToLikes: 0.055196
+    id: ck5bwobzhm37d0i11evxxdkey
     verified: false
-    hashtags: "#outfits, #closetbasics, #closetessentials, #summeressentials"
-  - username: "kellsskellyy"
+    hashtags: "#potd, #instagood, #camjam, #beauty"
+  - username: "breeebomb"
     fullname: >-
-      Kels
+      BreeeBand$
+    bio: >-
+      👑 || 💕 Southern Bell Raising Hell DTX ✈️ HTX || Pretty Paid ENT 🎀 PVCHEER 💜 💛 #PVAMU . Follow my music page @prettypaid.ent #Model #Rapper #Music
     location: "United States"
-    followers: 9760
-    engagement: 1971
-    commentsToLikes: 0.059919
-    id: ck5ho4wcdoxuk0i11zulo26tn
+    followers: 6670
+    engagement: 500
+    commentsToLikes: 0.067856
+    id: ckap1efy7u8q10i78p10cs349
     verified: false
-    hashtags: ""
+    hashtags: "#blackgirl, #houstonbeauty, #heels, #houstonlashextensions"
+  - username: "ridaalisahibzada"
+    fullname: >-
+      Rida | Lifestyle Influencer
+    bio: >-
+      📍Houston, Texas 🇺🇸 💫Parenting/ Step-parenting 💫Remarriage 💫Blended Family 💫Modest Fashion
+    location: "United States"
+    followers: 69181
+    engagement: 555
+    commentsToLikes: 0.040371
+    id: ck9hbq96li0960j78843lb2kn
+    verified: false
+    hashtags: "#pakistani, #momstruggles, #pakistan, #momsofinstagram"
+  - username: "karishmadawood"
+    fullname: >-
+      Karishma Dawood
+    bio: >-
+      your vibe attracts your tribe commercial realtor by day, blogger by night ✨ fashion + lifestyle houston, tx 💌 karishmadawood@me.com
+    location: "United States"
+    followers: 21020
+    engagement: 293
+    commentsToLikes: 0.168807
+    id: ck9wgee9dt23i0j7812nfuj7v
+    verified: false
+    hashtags: "#celsiusambassador, #celsiuslivefit, #liketkit"
   - username: "adoseofsherri"
     fullname: >-
       Sherri Quach Garza
+    bio: >-
+      •Your daily dose of affordable & trendy fashion• 📍- #houstonblogger #texasblogger | #fashionblogger 💌-collabs :info@adoseofsherri.com / NO DMs please
     location: "United States"
-    followers: 30736
-    engagement: 244
-    commentsToLikes: 0.029400
+    followers: 29298
+    engagement: 222
+    commentsToLikes: 0.053278
     id: ck8t0qn1wsxkr0j78i9l12bad
     verified: false
-    hashtags: "#fashionista, #altardstate, #bigmood, #styleinspo"
-  - username: "_lindafuentes"
+    hashtags: "#ad, #shein, #sheingals, #stylevanagirl"
+  - username: "madelyn_payne"
     fullname: >-
-      Linda Fuentes
+      Madelyn Payne
+    bio: >-
+      TX @nealhamilagency @campbellmodels @campbellwagnerrunway
     location: "United States"
-    followers: 2683
-    engagement: 2620
-    commentsToLikes: 0.073112
-    id: ck6uijiz0ff8g0j71xnf9wmse
+    followers: 4034
+    engagement: 1405
+    commentsToLikes: 0.042760
+    id: ck6tiqeim180x0j71d4wydb2k
     verified: false
-    hashtags: "#polaroidcamera, #hautecouture, #dollgoals, #merrychristmas"
-  - username: "emilypokora"
+    hashtags: "#model, #fashion, #blackandwhite, #houston"
+  - username: "frazier_19"
     fullname: >-
-      Emily Pokora
+      Henry Frazier I I
+    bio: >-
+      Black American 🇺🇸 Mens Fashion, Lifestyle & Styleblogger frazierhenry@ymail.com 📍 Houston, Tx
     location: "United States"
-    followers: 26808
-    engagement: 83
-    commentsToLikes: 0.050651
-    id: ck14kmth5qamp0i19qhig1jk2
+    followers: 57474
+    engagement: 343
+    commentsToLikes: 0.010715
+    id: ck55j4wchw9t30i11ker074wy
     verified: false
-    hashtags: "#virtualshow, #fitnessfashion, #beachvibes, #motivation"
-  - username: "anna.sauce"
+    hashtags: "#houstontx, #houstongram, #houstonphotographer, #riveroakshouston"
+  - username: "taydolashes"
     fullname: >-
-      🌸 Anna Nguyen 🌸
+      Tay📍Hou✈️Boston
+    bio: >-
+      Ps 46:5 💟💕 ❥ Mom 👧🏾👶🏾 (we vlog) ❥Fashion Misfit ➞@SnobVintage ❥ 𝐇𝐚𝐢𝐫𝐬𝐭𝐲𝐥𝐢𝐬𝐭📍Katy,TX ❥ Texture specialist ❥Lash Tech & Trainer ❥Wig Maker
     location: "United States"
-    followers: 9949
-    engagement: 1454
-    commentsToLikes: 0.025098
-    id: ck14h4yi28jx30i19oye3rns2
+    followers: 19377
+    engagement: 204
+    commentsToLikes: 0.052481
+    id: ck5ztawbk02dw0i145ou0gx4m
     verified: false
-    hashtags: "#missmyfriends, #instahair, #iphonecamera, #blackbikini"
-  - username: "enriquecarrillo_"
+    hashtags: "#wigmaker, #bostoneyelashextensions, #katysilkpress, #katyhairstylist"
+  - username: "pablofilmz_"
     fullname: >-
-      Enrique  Carrillo
+      Pablofilmz Photography LLC
+    bio: >-
+      Visual Artist📸🎨 Chicago✈️Atlanta🌇 🇳🇬 Dm for booking info
     location: "United States"
-    followers: 125395
-    engagement: 185
-    commentsToLikes: 0.024331
-    id: ck9hc2hkmjgnr0j78s7k2uprn
+    followers: 14099
+    engagement: 529
+    commentsToLikes: 0.038808
+    id: ckaore6iqmt0k0i78oalu4fuk
     verified: false
-    hashtags: "#mcm, #freshfriday, #welcometotheclub, #houstonskyline"
-  - username: "joyce.delmar"
-    fullname: >-
-      Joyce Escalante
-    location: "United States"
-    followers: 3228
-    engagement: 2029
-    commentsToLikes: 0.043356
-    id: ck1368swd5b5e0i19q52rzm2k
-    verified: false
-    hashtags: "#army, #houstonfashion, #fashion, #fashionable"
-  - username: "trytobelove_"
-    fullname: >-
-      Gabie | Self Love Blogger
-    location: "United States"
-    followers: 34306
-    engagement: 90
-    commentsToLikes: 0.060851
-    id: ckaou7e2uz4ql0i78geqdwo6x
-    verified: false
-    hashtags: "#quarantinelife, #facialaesthetics, #choonwear, #upliftingmusic"
+    hashtags: "#atlantamodels, #pablofilmz, #mua, #atlantaphotographer"
 ---

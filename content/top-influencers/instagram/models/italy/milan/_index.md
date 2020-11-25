@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Milan In 2020
 description: >-
-  Find top models Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #milano #summer #orange.
+  Find top models Instagram influencers in Milan in 2020. Most popular hashtags: #love #model #fashion.
 platform: Instagram
+hits: 468
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 468 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "chiara.busetti"
     fullname: >-
-      Photo  Model  Lifestyle
+      Chiara 🦋
+    bio: >-
+      #model #photo #lifestyle Half Italian 🇮🇹 half Belgian 🇧🇪 📍Based in Milan 🇮🇹 @pop_models_milano
     location: "Italy"
-    followers: 21257
-    engagement: 586
-    commentsToLikes: 0.147241
+    followers: 21119
+    engagement: 608
+    commentsToLikes: 0.131955
     id: ck6uenubys1qq0j71r8otrodg
     verified: false
-    hashtags: "#quarantenamood, #pillowchallenge"
-  - username: "randy_gowon"
+    hashtags: "#model, #chiarabusettimodel, #photography, #fashionaddict"
+  - username: "petrasivakova"
     fullname: >-
-      randy_gowon 🇰🇪
+      Petra
+    bio: >-
+      business: pe.sivakova@gmail.com or DM ma: @heriett_models_slovakia NYC- Nelson models Milan- Independent DXB- Niche snap: petra.siv
     location: "Italy"
-    followers: 6791
-    engagement: 1476
-    commentsToLikes: 0.023099
-    id: ck5qcg30jqe1d0i110avnebig
+    followers: 16544
+    engagement: 1596
+    commentsToLikes: 0.023565
+    id: ck0u285e6z4y90i19kahqex87
     verified: false
-    hashtags: "#endofhotboysummer"
-  - username: "samara.wierer"
-    fullname: >-
-      Samara🍉
-    location: "Italy"
-    followers: 18756
-    engagement: 364
-    commentsToLikes: 0.012072
-    id: ck6trw9ct1gib0j713oncv91w
-    verified: false
-    hashtags: "#bright, #sweaterweather, #day13, #bags"
-  - username: "giuseppegiarratana"
-    fullname: >-
-      Giuseppe Giarratana
-    location: "Italy"
-    followers: 5616
-    engagement: 675
-    commentsToLikes: 0.155838
-    id: ck14i1myud7vg0i195yep0qmb
-    verified: false
-    hashtags: "#feminine, #curvy, #feminism, #lingerie"
+    hashtags: "#blackandwhite, #ootd, #allblack, #simple"
   - username: "marsetromb"
     fullname: >-
       Marcello Trombin
+    bio: >-
+      Serious profile (don't follow me) Super model, Milan
     location: "Italy"
-    followers: 10792
-    engagement: 821
-    commentsToLikes: 0.061602
+    followers: 13965
+    engagement: 771
+    commentsToLikes: 0.054087
     id: ck5zvm93l4i190i14jshowa19
     verified: false
     hashtags: ""
-  - username: "pollyandpamy"
+  - username: "emanuela.valla"
     fullname: >-
-      Paola Pamela Ameyibor
+      Emanuela Alice Valla
+    bio: >-
+      Made 100% in Italy 🇮🇹 🔵FISIOTERAPISTA MA @pop_models_milano 📌Milan For all requests 📩emanuelavalla3@gmail.com 🔴Languages 🇪🇸🇬🇧🇫🇷 🇮🇹
     location: "Italy"
-    followers: 8520
-    engagement: 508
-    commentsToLikes: 0.050527
-    id: ck5hob0ezp93q0i11mnhjf23h
+    followers: 60884
+    engagement: 274
+    commentsToLikes: 0.018488
+    id: ck9wevfchm0km0j78x80ovwkv
     verified: false
-    hashtags: "#pfw, #voicesofthefuture, #barrowofficial, #tossieslidechallenge"
-  - username: "davidemicciulla"
+    hashtags: "#nofter, #bepositivealways"
+  - username: "samara.wierer"
     fullname: >-
-      Davide Micciulla
+      Samara🍉
+    bio: >-
+      📆 21 y/o 📍 Milan - Bressanone 🎓 Fashion Business @istitutomarangoni 🇮🇹 represented by @pop_models_milano
     location: "Italy"
-    followers: 45891
-    engagement: 136
-    commentsToLikes: 0.085281
-    id: ck0vync9x4uq00i19lnd5hw6h
+    followers: 18173
+    engagement: 342
+    commentsToLikes: 0.010812
+    id: ck6trw9ct1gib0j713oncv91w
     verified: false
-    hashtags: "#cutevboy, #insta, #menstyles, #levis"
-  - username: "stefania_danese"
+    hashtags: "#outfit, #fw, #bag, #takeback"
+  - username: "giuseppegiarratana"
     fullname: >-
-      Stefania Danese
+      Giuseppe Giarratana
+    bio: >-
+      Model-The Lab Models Milano www.thelabmodels.com Make-up Artist Vegetarian Currently in Milan joseph.giarratana@gmail.com
     location: "Italy"
-    followers: 32522
-    engagement: 776
-    commentsToLikes: 0.016408
-    id: ck13ahzg7qhhn0i19anrx9j3e
+    followers: 5701
+    engagement: 797
+    commentsToLikes: 0.161254
+    id: ck14i1myud7vg0i195yep0qmb
     verified: false
-    hashtags: "#fashionmodels, #censored, #fashionmen, #mfw2019"
-  - username: "giuliacastronovi"
+    hashtags: "#giuseppegiarratana, #ootd, #mature, #lingerie"
+  - username: "silkehajunga"
     fullname: >-
-      GIULIA STELLA CASTRONOVI
+      Silke Hajunga
+    bio: >-
+      Artist 👩‍🎨 & Model @karinmodels_official @thehivemodels @munichmodels @pop_models_milano @eastwestmodels @touchemodels @kultaustralia
     location: "Italy"
-    followers: 30027
-    engagement: 438
-    commentsToLikes: 0.065525
-    id: ck5chokjyr6550i11e740ehei
+    followers: 41010
+    engagement: 476
+    commentsToLikes: 0.043132
+    id: ck5zixpqwgkcp0i14avrxcorn
     verified: false
-    hashtags: "#marcopostonline, #giveawayitalia, #giveawaycontest, #mfw"
-  - username: "oksana_real"
+    hashtags: "#guiltypleasure, #future, #vintageclothing"
+  - username: "carolina_schiavi"
     fullname: >-
-      
+      Carolina Schiavi
+    bio: >-
+      📍Milano , Pop Models Milano schiavicarolina@hotmail.it NEW VIDEO OUT NOWWW💃🏻💃🏻👇🏻
     location: "Italy"
-    followers: 265509
-    engagement: 358
-    commentsToLikes: 0.203896
-    id: ck13bdz4suyuj0i19kqc8oq1k
+    followers: 29250
+    engagement: 218
+    commentsToLikes: 0.041006
+    id: ck8syn6dclbzr0j783laaejnk
     verified: false
-    hashtags: "#oksana"
+    hashtags: "#goodmorning, #sainttropez, #ontothenext"
+  - username: "ellabortoli"
+    fullname: >-
+      🌺Antonella Bortoli 🌺
+    bio: >-
+      Modella @qvc_italy My fashion life, travel and work Based in Milan 📍 #mood_ella Facebook @AntonellaEllaBortoli YouTube Channel ⬇️⬇️⬇️
+    location: "Italy"
+    followers: 18862
+    engagement: 507
+    commentsToLikes: 0.141396
+    id: ckaosx8cntfie0i78as7v98rb
+    verified: false
+    hashtags: "#reels, #styleinspo, #vampire, #fashionstyle"
+  - username: "ileanafuoco"
+    fullname: >-
+      Ileana
+    bio: >-
+      🇮🇹 #Italian 📍 Based in #Milan contact.ileanafuoco@gmail.com
+    location: "Italy"
+    followers: 33446
+    engagement: 283
+    commentsToLikes: 0.030327
+    id: ckap74b8pikr40i78bn6tdsjn
+    verified: false
+    hashtags: "#italian, #fashionista, #girl, #beauty"
 ---

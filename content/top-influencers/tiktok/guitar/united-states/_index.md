@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In United States In 2020
 description: >-
-  Find top guitar TikTok influencers in United States in 2020. Most popular hashtags: #greenscreen #react #quarantine #cosplay.
+  Find top guitar TikTok influencers in United States in 2020. Most popular hashtags: #guitar #fyp #duet #guitarist.
 platform: TikTok
+hits: 864
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 864 TikTok influencers like this in United States for you to pitch.
 profiles:
-  - username: "yoitsblueskies"
+  - username: "kyrart18"
     fullname: >-
-      Grant Schaffer
+      kyra
+    bio: >-
+      19 y/o art student/guitarist ig: kyrart18
     location: "United States"
-    followers: 226152
-    engagement: 1504
-    commentsToLikes: 0.026999
-    id: ck8fc520a6kl20j78n47p6k14
+    followers: 79500
+    engagement: 2357
+    commentsToLikes: 0.044496
+    id: ck8qi59d97tb40j78zq8plqkq
     verified: false
-    hashtags: "#johnmayer, #got2bhome, #homeproject, #acousticcovers"
-  - username: "jennifergetzinger"
+    hashtags: "#forwhomthebelltolls, #art, #draw, #pop"
+  - username: "sharpie.exe"
     fullname: >-
-      Jennifer
+      Sharpie
+    bio: >-
+      Professional Sharpie Sniffer™️ Guitar boi 🎸🤙🏻 Vibin’ to straight blanchin’ 😎
     location: "United States"
-    followers: 50490
-    engagement: 1305
-    commentsToLikes: 0.041480
-    id: ck8w2jx805ght0j78ma0x0oai
+    followers: 3269
+    engagement: 2132
+    commentsToLikes: 0.109141
+    id: ck9kcutsvr5tn0j784bpk9kh7
     verified: false
-    hashtags: "#react, #fyp"
-  - username: "dxvy_jxnxs"
+    hashtags: "#duet, #rock, #supermariogalaxy, #greenscreen"
+  - username: "codeyred"
     fullname: >-
-      𝐃𝐚𝐯𝐲
+      Codey Red
+    bio: >-
+      Indigenous Musician/Guitarist Music,Philosophy,ADHD,Nerd Stuff And More! BLM!!
     location: "United States"
-    followers: 10782
-    engagement: 2361
-    commentsToLikes: 0.030781
-    id: cka84t9icvjem0i78tu9k1jmf
+    followers: 17500
+    engagement: 2008
+    commentsToLikes: 0.053385
+    id: ckck5eetiqadx0j23jaypmrej
     verified: false
-    hashtags: "#fireforce, #eletricguitar, #mha, #wipechallenge"
+    hashtags: "#native, #musician, #adhd, #guitar"
+  - username: "_donniematt"
+    fullname: >-
+      Donnie Matt Renegar
+    bio: >-
+      Creator of positive vibes Sometimes I try to be funny I play the guitar terribly
+    location: "United States"
+    followers: 2641
+    engagement: 1579
+    commentsToLikes: 0.409222
+    id: ckavqhcbg22an0j23494k81m7
+    verified: false
+    hashtags: "#funny, #spaceforcewalk, #fyp, #mood"
+  - username: "lionsdenmusic_"
+    fullname: >-
+      Hector Deleon
+    bio: >-
+      21 | he/him Jazz Guitarist
+    location: "United States"
+    followers: 3305
+    engagement: 1459
+    commentsToLikes: 0.237760
+    id: ckdi8g8staxa50j23g1xorhdp
+    verified: false
+    hashtags: "#jazzguitar, #gibson, #guitar, #xyzbca"
+  - username: "_guitar_premi_"
+    fullname: >-
+      ❤️aMMuKuTTy😉
+    bio: >-
+      💃Wish Me On Dec13🤗🎂 🎸GuiTaR IsTaM😚#nellikka #beez❣️Tatoo Lvr❤️ Suriya Uyir♥
+    location: "United States"
+    followers: 2724
+    engagement: 3244
+    commentsToLikes: 0.138538
+    id: ckblnrh9jfot40j238u03q4gl
+    verified: false
+    hashtags: "#foryou, #beez, #nellikka, #duet"
+  - username: "gary.r"
+    fullname: >-
+      Gary
+    bio: >-
+      👻 garyrodriguez I like rock , anime , and guitar ☠︎︎☻︎
+    location: "United States"
+    followers: 52100
+    engagement: 2838
+    commentsToLikes: 0.047828
+    id: ck90xz99g8o8c0j78qh0uz58m
+    verified: false
+    hashtags: "#rock, #colorcustomizer, #anime, #selflove"
   - username: "tonymemmel"
     fullname: >-
       Tony Memmel
+    bio: >-
+      Singer 🎤Guitarist 🎸Teacher 👨‍🏫 BOOKING@TONYMEMMEL.COM ⬇️ Spotify ⬇️
     location: "United States"
-    followers: 92226
-    engagement: 1208
-    commentsToLikes: 0.065616
+    followers: 100500
+    engagement: 1329
+    commentsToLikes: 0.051050
     id: ck8vus0tijtoe0j7826i1wupk
     verified: false
-    hashtags: "#heisrisen, #parents, #tiktokdiy, #howidothings"
-  - username: "kai_johnson_"
+    hashtags: "#musicmatters, #classicrock, #luckyfin, #christian"
+  - username: "_theodore"
     fullname: >-
-      Kai Johnson
+      Theo 
+    bio: >-
+      I play guitar and sometimes do funny stuff 18
     location: "United States"
-    followers: 527595
-    engagement: 2061
-    commentsToLikes: 0.015639
-    id: ck81qr22zj4mh0j78y9w7t83i
+    followers: 13800
+    engagement: 1725
+    commentsToLikes: 0.058611
+    id: ckavr2gbz2uyr0j23nu6o2ulb
     verified: false
-    hashtags: "#simp, #finneas, #coughsyrup, #livealittlelouder"
-  - username: "bandwithmrsmurdock"
+    hashtags: "#foryoupage, #fyp, #foryou, #singing"
+  - username: "mr___seven___"
     fullname: >-
-      Sarah Murdock
+      ⚙️ 𝕵𝖔⚙️
+    bio: >-
+      Bootleg slash//16//Joey//GFYS🖕//Guitarist//🖤//Lehigh, FL//
     location: "United States"
-    followers: 8710
-    engagement: 1849
-    commentsToLikes: 0.049123
-    id: ck8hqpzo956v60j78w2ybg9gl
+    followers: 33900
+    engagement: 1837
+    commentsToLikes: 0.040792
+    id: ckcjh3704bz4l0j234ivlqwqd
     verified: false
-    hashtags: "#mmmdrop, #millenials, #somegoodnews, #iykyk"
-  - username: "beepinggoat22"
-    fullname: >-
-      Billy
-    location: "United States"
-    followers: 29916
-    engagement: 1984
-    commentsToLikes: 0.035624
-    id: ck92x35bcwztx0j78gpc0ucip
-    verified: false
-    hashtags: "#banner, #idiot, #storytime, #wolverine"
-  - username: "christiansalaiz"
-    fullname: >-
-      Christian Salaiz
-    location: "United States"
-    followers: 28342
-    engagement: 958
-    commentsToLikes: 0.051461
-    id: cka0o65hj2d9i0i78kkpdbmfl
-    verified: false
-    hashtags: "#celebratenurses, #scoobydoo, #brothers, #trash"
-  - username: "audra.johnson"
-    fullname: >-
-      Audra
-    location: "United States"
-    followers: 487543
-    engagement: 2936
-    commentsToLikes: 0.013627
-    id: ck902kgbmcgoc0j78y8n1zsl3
-    verified: false
-    hashtags: "#meangirls, #musical, #tiktokwellness, #axefingersdown"
-  - username: "iconic_sonic"
-    fullname: >-
-      katie Wilhite
-    location: "United States"
-    followers: 16706
-    engagement: 1402
-    commentsToLikes: 0.068450
-    id: ck8owrieqz73c0j78z0lvzaxb
-    verified: false
-    hashtags: "#throwback, #christinaaguilera, #runs, #voiceeffects"
+    hashtags: "#guitar, #shitpost, #metalfyp, #metalmemes"
 ---

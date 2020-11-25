@@ -1,107 +1,118 @@
 ---
 title: Top 10 Rappers TikTok Influencers In France In 2020
 description: >-
-  Find top rappers TikTok influencers in France in 2020. Most popular hashtags: #rapper #love #coronavirus #challenge.
+  Find top rappers TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #humour #fyp.
 platform: TikTok
+hits: 9
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in France for you to pitch.
 profiles:
-  - username: "moha_tns1"
+  - username: "millesime_officiel"
     fullname: >-
-      Mohamed Allagui
+      Millésime
+    bio: >-
+      Insta/YouTube☝️ Une musique le jeudi, un freestyle le dimanche Spotify 👇
     location: "France"
-    followers: 4491
-    engagement: 617
-    commentsToLikes: 0.081222
-    id: ckac60882drar0i78t6byf243
+    followers: 64700
+    engagement: 1042
+    commentsToLikes: 0.045818
+    id: ckdc0jk0kfdak0j23fxuslkq5
     verified: false
-    hashtags: "#hamdoulah, #freindzone, #egyptian, #nabil"
-  - username: "celiaelyaa"
+    hashtags: "#musique, #viral, #chill, #fy"
+  - username: "camangaaa"
     fullname: >-
-      Celia_elyaa
+      ⛩Camille⛩
+    bio: >-
+      🍙 ANIME/MANGA 🍙 ⛩ CULTURE ⛩ 🎨COSPLAY🎨 CEO of « Les amis parlons anime »
     location: "France"
-    followers: 7131
-    engagement: 596
-    commentsToLikes: 0.097947
-    id: cka7p1kiu5d9s0i78sl1tsh9f
+    followers: 24100
+    engagement: 2236
+    commentsToLikes: 0.030840
+    id: ckbfbs7iu46ig0j23g6kg86ol
     verified: false
-    hashtags: "#lesanges, #tahiadjazair, #paname, #booba"
-  - username: "inesbnld"
+    hashtags: "#anime, #cosplay, #naruto, #attackontitan"
+  - username: "louis.adbt"
     fullname: >-
-      inessou
+      Louis✨
+    bio: >-
+      👆JE LIKE LES PHOTOS DE TOUS CEUX QUI ME FOLLOW SUR MON INSTA👆 Woaw déjà 520k❤️
     location: "France"
-    followers: 2449
-    engagement: 2736
-    commentsToLikes: 0.032724
-    id: cka8h275i93sv0i78l4zu5cj3
+    followers: 520400
+    engagement: 1630
+    commentsToLikes: 0.027560
+    id: ck9v90n17bywi0j7838wymm81
     verified: false
-    hashtags: "#outwest, #ninho, #beauty, #coronavirus"
+    hashtags: "#fy, #pov, #pourtoi, #fyp"
   - username: "ednwar"
     fullname: >-
       Ednwar
+    bio: >-
+      🇨🇲💎
     location: "France"
-    followers: 3331
-    engagement: 930
-    commentsToLikes: 0.092759
+    followers: 3332
+    engagement: 961
+    commentsToLikes: 0.075330
     id: ck9gqxds7bgxd0j78enahf5pn
     verified: false
-    hashtags: "#playwithlife, #crush, #rapper, #sprinoir"
-  - username: "f2thewee"
+    hashtags: "#music, #getmefamous, #foryou, #foryoupage"
+  - username: "anastasiaoberlin1"
     fullname: >-
-      F2theWee
+      Anastasia the QUEEN 👑
+    bio: >-
+      Pro: oberlinanastasia@gmail.com Insta: oberlin.anastasia Snap: matmakeupartist
     location: "France"
-    followers: 36748
-    engagement: 1508
-    commentsToLikes: 0.024443
-    id: ck8sf85bdn1db0j7836b2cvw4
+    followers: 17900
+    engagement: 836
+    commentsToLikes: 0.039345
+    id: ck9047k0kdxz80j78g9sw87fo
     verified: false
-    hashtags: "#foryou, #kikesachallenge, #nancy, #rapfran"
-  - username: "fraankl1"
+    hashtags: "#makeup, #frtiktok, #lgbt, #duo"
+  - username: "tizzulu"
     fullname: >-
-      Sucr3am
+      Tiziano la masse
+    bio: >-
+      𝕀ℕ𝕊𝕋𝔸 : tizzulu ou ⬆️ ✊🏻✊🏼✊🏽✊🏾✊🏿 📥 :tizzulu@gmail.com
     location: "France"
-    followers: 14408
-    engagement: 956
-    commentsToLikes: 0.053133
-    id: ck9v907yfbv870j78ngkyxkzs
+    followers: 21400
+    engagement: 1169
+    commentsToLikes: 0.014708
+    id: ck9v90dk6bwv20j78do20e7bf
     verified: false
-    hashtags: "#rappeurs, #pourtoiii, #6ix9ine, #rappeur"
-  - username: "justgaet"
+    hashtags: "#lightskin, #basket, #life, #sport"
+  - username: "minahabchi"
     fullname: >-
-      Gaétan Vulliez
+      Mina Habchi
+    bio: >-
+      
     location: "France"
-    followers: 206396
-    engagement: 720
-    commentsToLikes: 0.040743
-    id: ck9a9m7bsgpsp0j78k4jjqh98
+    followers: 61800
+    engagement: 773
+    commentsToLikes: 0.006204
+    id: ckc1ucza5ylqt0j23jqwpuarr
     verified: false
-    hashtags: "#musique, #wow, #drake, #vacances"
-  - username: "dorian_rnd"
+    hashtags: "#italy, #minahabchi, #santorini, #pourtoi"
+  - username: "yahia69"
     fullname: >-
-      DORIAN
+      Yahia69 
+    bio: >-
+      📍Lyon AVPS MENTALITY 🤔🤫🦁🗣
     location: "France"
-    followers: 53772
-    engagement: 2976
-    commentsToLikes: 0.007655
-    id: ckamukiayzkb50i781bkswr9p
+    followers: 4644
+    engagement: 1137
+    commentsToLikes: 0.057903
+    id: ckb9kfcc2c5m40j23e6tp33l7
     verified: false
-    hashtags: "#pates, #internet, #salledebain, #newsketch"
-  - username: "sheedou50"
+    hashtags: "#timefortenet, #duo, #rappels, #rappelislam"
+  - username: "loowve"
     fullname: >-
-      sheedou50
+      Loreley Loowve & fun
+    bio: >-
+      Pour le plaisir, et si ca peut faire rire ou sourire c'est encore mieux 😁
     location: "France"
-    followers: 21676
-    engagement: 1056
-    commentsToLikes: 0.035182
-    id: ck9raf4b8knvg0j78srnkte7q
+    followers: 10500
+    engagement: 318
+    commentsToLikes: 0.022841
+    id: ckbf1djncnjqg0j23rch07bj3
     verified: false
-    hashtags: "#7secondsfor, #grand, #girlsinict, #jelacherien"
-  - username: "daylipop"
-    fullname: >-
-      DAYLIPOP😈
-    location: "France"
-    followers: 111223
-    engagement: 1016
-    commentsToLikes: 0.018861
-    id: ck9by4kifmyb00j78firqpz2z
-    verified: false
-    hashtags: "#pokemon, #postmalone, #joke, #youtube"
+    hashtags: "#covid19, #duo, #piscine, #ronde"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Austria In 2020
 description: >-
-  Find top fashion TikTok influencers in Austria in 2020. Most popular hashtags: #fashion #coronavirus #food #roomtour.
+  Find top fashion TikTok influencers in Austria in 2020. Most popular hashtags: #foryoupage #fashion #foryou #fyp.
 platform: TikTok
+hits: 30
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 30 TikTok influencers like this in Austria for you to connect with.
 profiles:
   - username: "ewatsiakmakis"
     fullname: >-
       ewa
+    bio: >-
+      fashion, beauty, lifestyle & fooood🤍 follow my IG: ewatsiakmakis vienna
     location: "Austria"
-    followers: 15831
-    engagement: 729
-    commentsToLikes: 0.033781
+    followers: 26400
+    engagement: 712
+    commentsToLikes: 0.017989
     id: ckai38ndaj02e0i783silu66w
     verified: false
-    hashtags: "#selfcare, #beauty, #work, #photos"
-  - username: "lily_mony"
+    hashtags: "#vienna, #vlog, #asiashophaul, #shopping"
+  - username: "luciehalajova"
     fullname: >-
-      LILY
+      Lucie Halajová - LH 
+    bio: >-
+      Photography & Fashion & Funny
     location: "Austria"
-    followers: 19588
-    engagement: 443
-    commentsToLikes: 0.043316
-    id: cka65s29ped6k0i78jtorv6xt
+    followers: 13700
+    engagement: 846
+    commentsToLikes: 0.007864
+    id: ckbqktgfm5xma0j23d7z3baho
     verified: false
-    hashtags: "#castle, #nichtverdient, #clubs, #djadja"
-  - username: "melxble"
+    hashtags: "#holiday, #austria, #naturelover, #creta"
+  - username: "kxngkevinn"
     fullname: >-
-      ish ya girl mel
+      kevin🥱
+    bio: >-
+      16 / vienna / 👻niikepulli
     location: "Austria"
-    followers: 110869
-    engagement: 2345
-    commentsToLikes: 0.041832
-    id: ck9e31oi8hihd0j78i5yuqfpm
+    followers: 3890
+    engagement: 1739
+    commentsToLikes: 0.027793
+    id: ckbepqep46tzl0j2383rd30l3
     verified: false
-    hashtags: "#pianoplayer, #btsposters, #mirrorchallenge, #duet"
-  - username: "_philippray_"
+    hashtags: "#vienna, #nike, #stayhigh, #ufo361"
+  - username: "asian.gurltingz"
     fullname: >-
-      Philipp Ray
+      👁👄👁
+    bio: >-
+      𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝟛𝟚𝕜🥳 📍𝑉𝑖𝑒𝑛𝑛𝑎
     location: "Austria"
-    followers: 21028
-    engagement: 2163
-    commentsToLikes: 0.090914
-    id: ck9gt4t75l8ey0j78eg48el3c
+    followers: 33400
+    engagement: 1661
+    commentsToLikes: 0.016746
+    id: ckb9jgm31apn50j23bkc9hlfy
     verified: false
-    hashtags: "#haare, #mysexymoves, #321go, #lifegoals"
-  - username: "glow.grwmm"
+    hashtags: "#kdrama, #junghoseok, #justforfun, #kimsoohyun"
+  - username: "brandanjosh"
     fullname: >-
-      anna✨
+      brandanjosh
+    bio: >-
+      official tiktok of a future somebody + i make stuff follow my IG: @brandanjosh
     location: "Austria"
-    followers: 39356
-    engagement: 2414
-    commentsToLikes: 0.030918
-    id: ckac9cqh2g1bi0i78kgveqaaa
+    followers: 14800
+    engagement: 950
+    commentsToLikes: 0.036541
+    id: cka69r92itly70i78st0kb5bc
     verified: false
-    hashtags: "#draft, #idewcare, #foryoupage, #dayinmylife"
-  - username: "xoxorauda"
+    hashtags: "#foryoupage, #pants, #upcycling, #thrifting"
+  - username: "tyleredwardwilson"
     fullname: >-
-      روضة
+      Tyler Edward Wilson
+    bio: >-
+      British man 🇬🇧 living in Austria 🇦🇹
     location: "Austria"
-    followers: 4327
-    engagement: 1078
-    commentsToLikes: 0.044208
-    id: ck81qsqa6jjnn0j78bo1nv9pl
+    followers: 42500
+    engagement: 715
+    commentsToLikes: 0.028758
+    id: ckdsrotkwp3mh0j23ye5fn7z8
     verified: false
-    hashtags: "#fashionschool, #happynewyear2020, #addressitchallenge, #protest"
-  - username: "sonya.havr"
+    hashtags: "#drawing, #fashion, #instagram, #man"
+  - username: "kataroushka"
     fullname: >-
-      sonya.havr
+      Katharina Halbweis
+    bio: >-
+      i paint things & you can buy them :) ig: @kataroushka depop: kataroushka
     location: "Austria"
-    followers: 5756
-    engagement: 839
-    commentsToLikes: 0.050161
-    id: ckaij0qu4cvr30i78bobckrkb
+    followers: 19900
+    engagement: 664
+    commentsToLikes: 0.023417
+    id: ckbqv8jxrfh2y0j23ji302m07
     verified: false
-    hashtags: "#frindshipgoals, #fotoshooting, #hatekommentare, #meintag"
-  - username: "xu3fe1"
+    hashtags: "#artist, #paintingart, #architecture, #art"
+  - username: "ramimansoury"
     fullname: >-
-      雪菲
+      Rami Mansour
+    bio: >-
+      🤪Crazy Arab from Vienna Strong enough to be Sexy 😉 🔝Stylish is my nickname👔
     location: "Austria"
-    followers: 9927
-    engagement: 1584
-    commentsToLikes: 0.014282
-    id: ck8qmyands9ph0j78nci3mrk9
+    followers: 13600
+    engagement: 439
+    commentsToLikes: 0.026249
+    id: ckb9bfhybxiel0j23ircqdsdk
     verified: false
-    hashtags: "#birthday, #ootd, #fashion, #covid19"
-  - username: "geniebeans"
+    hashtags: "#santorini, #black, #nyc, #funny"
+  - username: "elasxlifestyle"
     fullname: >-
-      Genie Beans
+      ela;)
+    bio: >-
+      contact me at- elasxlifestyle@gmail.com follow me on pinterest!! - @elaayyildiz
     location: "Austria"
-    followers: 13144
-    engagement: 1092
-    commentsToLikes: 0.020330
-    id: ck9nrftmv8foh0j78vx4q1rzn
+    followers: 42200
+    engagement: 2288
+    commentsToLikes: 0.024615
+    id: ck9gl3et2mcxy0j7824akp7xf
     verified: false
-    hashtags: "#wordchallenge, #losangeles, #moreyouknow, #american"
-  - username: "sjcheeky"
+    hashtags: "#brandymelville, #foryou, #style, #pinterest"
+  - username: "malentschi"
     fullname: >-
-      sarahjanecheeky
+      malentschi 🤍
+    bio: >-
+      Life is too short to wait, bbgirl<3 -vienna-
     location: "Austria"
-    followers: 68871
-    engagement: 2629
-    commentsToLikes: 0.008650
-    id: ck9nnourfq9lx0j78nm1wuxji
+    followers: 300400
+    engagement: 2199
+    commentsToLikes: 0.009890
+    id: ck8sfmgs4ov3o0j78iq6zkzmc
     verified: false
-    hashtags: "#concertforbts, #btsalbum, #dragrace, #fashion"
+    hashtags: "#motivation, #fashionschool, #prayforvienna, #prank"
 ---

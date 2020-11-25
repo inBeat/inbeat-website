@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Toronto In 2020
 description: >-
-  Find top fashion TikTok influencers in Toronto in 2020. Most popular hashtags: #fashion #style #greenscreen #happyathome.
+  Find top fashion TikTok influencers in Toronto in 2020. Most popular hashtags: #fashion #toronto #fyp #foryou.
 platform: TikTok
+hits: 111
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 111 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "suroooshh"
     fullname: >-
       suroooshh
+    bio: >-
+      19 | Toronto Just chillin
     location: "Canada"
-    followers: 6394
-    engagement: 1668
-    commentsToLikes: 0.020942
+    followers: 6236
+    engagement: 1645
+    commentsToLikes: 0.052406
     id: ck9go11boz5iy0j7896lq1rfq
     verified: false
-    hashtags: "#sleepy, #foruu, #thrift, #cutestyle"
-  - username: "letitiakiu"
+    hashtags: "#fashion, #toronto, #greenscreen, #foryourpage"
+  - username: "husorsus"
     fullname: >-
-      Letitia Kiu
+      Husnain Ahmed
+    bio: >-
+      
     location: "Canada"
-    followers: 8987
-    engagement: 645
-    commentsToLikes: 0.023016
-    id: ck9818tumau510j78l0v2d07y
+    followers: 25800
+    engagement: 1431
+    commentsToLikes: 0.020186
+    id: ckdhyrz6q4ydk0j23nr2sez3o
     verified: false
-    hashtags: "#makeuproutine, #travel, #tshirt, #shecandoit"
-  - username: "437tiktok"
+    hashtags: "#fashion, #toronto, #alphets, #summervlog"
+  - username: "nameerjamal24"
     fullname: >-
-      437
+      Nameer Jamal
+    bio: >-
+      🇵🇰🇨🇦 add snap: nameerjamal23
     location: "Canada"
-    followers: 4033
-    engagement: 443
-    commentsToLikes: 0.039775
-    id: cka9m56073xj70i78cvpr5x15
+    followers: 9769
+    engagement: 1081
+    commentsToLikes: 0.065781
+    id: ckcoz6gogael10j23elxkxmsr
     verified: false
-    hashtags: "#437xabc, #437babe, #foryou, #giveaway"
-  - username: "shop_mboutique"
+    hashtags: "#uk, #fyp, #foryou, #fashion"
+  - username: "itskatlili"
     fullname: >-
-      M Boutique
+      Katherine Lili
+    bio: >-
+      i kinda make beauty/fashion vids Toronto
     location: "Canada"
-    followers: 16100
-    engagement: 395
-    commentsToLikes: 0.010348
-    id: ck910efrbhb480j78qo7i3tyd
+    followers: 11200
+    engagement: 863
+    commentsToLikes: 0.014342
+    id: ckbffltenadoc0j23ug0aqqk2
     verified: false
-    hashtags: "#balenciaga, #style, #queenstreetwest, #outfitoftheday"
-  - username: "sialakhanpal"
+    hashtags: "#outfits, #vibewithme, #retailtherapy, #brandymelville"
+  - username: "thestylepointca"
     fullname: >-
-      Sia Lakhanpal
+      Jasveen Kaur
+    bio: >-
+      Toronto fashion blogger❣️ IG: @thestylepoint.ca
     location: "Canada"
-    followers: 58102
-    engagement: 958
-    commentsToLikes: 0.004575
-    id: ck90ykt72aowi0j783hmzvdoz
+    followers: 13300
+    engagement: 341
+    commentsToLikes: 0.007714
+    id: ckbf5ty1rv2y70j23pm250fk5
     verified: false
-    hashtags: "#garrysandhu, #doubleexposure, #friday, #ontario"
-  - username: "_joshuasnow"
+    hashtags: "#foryoupage, #tiktokstyle, #stylingideas, #tiktokfashion"
+  - username: "azurfit"
     fullname: >-
-      Joshua Snow
+      Azur
+    bio: >-
+      Fit Apparel ⚡️ Toronto based 🇨🇦 Follow @erinndubs for BTS
     location: "Canada"
-    followers: 16608
-    engagement: 1060
-    commentsToLikes: 0.078686
-    id: ck806yg7yn2sp0j784yuxhz7h
+    followers: 22800
+    engagement: 328
+    commentsToLikes: 0.000000
+    id: ck8tu6y2xsctl0j782v91ymyj
     verified: false
-    hashtags: "#feaureme, #relationship, #canadalife, #happyathome"
-  - username: "anthony.nusca"
+    hashtags: "#canada, #fitness, #apparel, #bikeshorts"
+  - username: "anarky_"
     fullname: >-
-      Anthony
+      queen goof
+    bio: >-
+      she/her 8972 of the girls and the goombas way cooler on instagram
     location: "Canada"
-    followers: 2141
-    engagement: 1558
-    commentsToLikes: 0.021126
-    id: ck97xnoyww17t0j787w7jkya1
+    followers: 8986
+    engagement: 1514
+    commentsToLikes: 0.105502
+    id: cka0lq58us27z0i78btkh8b4t
     verified: false
-    hashtags: "#lyric, #music, #photography, #toronto"
-  - username: "sidraandco"
+    hashtags: "#wholesome, #dance, #meme, #funny"
+  - username: "karissa_scarlett"
     fullname: >-
-      sidraandco
+      Karissa
+    bio: >-
+      ✨Good Vibes✨ 👑🖤
     location: "Canada"
-    followers: 10959
-    engagement: 247
-    commentsToLikes: 0.036984
-    id: ck9go10pkz5990j78wldmex2t
+    followers: 28100
+    engagement: 1859
+    commentsToLikes: 0.014694
+    id: ckck2xh4imkjc0j23omj26u59
     verified: false
-    hashtags: "#beautyblender, #curlyhair, #tiktokfood, #theordinary"
-  - username: "devisathi"
+    hashtags: "#disney, #transformation, #outfits, #disneyworld"
+  - username: "prophecy.apparel"
     fullname: >-
-      DeviSathi
+      prophecy
+    bio: >-
+      🇨🇦 EST. 2015
     location: "Canada"
-    followers: 11101
-    engagement: 567
-    commentsToLikes: 0.024240
-    id: ck9kg1td05ys30j78vnvse2dm
+    followers: 6094
+    engagement: 1755
+    commentsToLikes: 0.137036
+    id: ckcem06piw3n10j234wmi8r81
     verified: false
-    hashtags: "#callfortamil, #tamilmuser, #rajnikanth, #meena"
-  - username: "gugankaaur"
+    hashtags: "#street, #photoshoot, #hype, #brand"
+  - username: "handpushed"
     fullname: >-
-      gugan kaaur
+      melina
+    bio: >-
+      • personal instagram @melinamans •
     location: "Canada"
-    followers: 6732
-    engagement: 219
-    commentsToLikes: 0.020773
-    id: ckackeggsb8za0i789qpwr1f6
+    followers: 33400
+    engagement: 1266
+    commentsToLikes: 0.046605
+    id: ckahyq5cm0bp50i78q8ebs7o7
     verified: false
-    hashtags: "#contour, #prophec, #foryoupage, #desigirl"
+    hashtags: "#torontotattoo, #tattooartist, #handpoke, #teach"
 ---

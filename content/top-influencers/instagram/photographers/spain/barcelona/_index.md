@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top photographers Instagram influencers in Barcelona in 2020. Most popular hashtags: # #photography #2020 #coronavirus.
+  Find top photographers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #costabrava #portrait.
 platform: Instagram
+hits: 161
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 161 Instagram influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
   - username: "softdaylight"
     fullname: >-
       Carlos Ruiz Monroy
+    bio: >-
+      Aimlessly Photographer Barcelona (And worldwide if you want) @softlightweddings No Collaborations. DM for rates.
     location: "Spain"
-    followers: 19165
-    engagement: 294
-    commentsToLikes: 0.019017
+    followers: 18543
+    engagement: 546
+    commentsToLikes: 0.035620
     id: ck0u9blhg9hr30i19p7oramcn
     verified: false
-    hashtags: "#photo, #exklusive, #postthepeople, #humanedge"
-  - username: "leoadef"
+    hashtags: ""
+  - username: "carlotadelsol"
     fullname: >-
-      Leo Adef
+      Carlota Delgado 🌿
+    bio: >-
+      Photographer Barcelona 🌞 -✉️ carlotadelsol@gmail.com
     location: "Spain"
-    followers: 16190
-    engagement: 624
-    commentsToLikes: 0.020164
-    id: ck0u1sh4sxqw40i19fl53q3ap
+    followers: 5901
+    engagement: 681
+    commentsToLikes: 0.015114
+    id: ck5q8719t4qow0i11k7jr6gpa
     verified: false
     hashtags: ""
-  - username: "honeygueco"
+  - username: "milosz_bmx"
     fullname: >-
-      卄๏ℕ𝒆ㄚ 꿀
+      milosz_bmx
+    bio: >-
+      Bmx + musica = felicidad Colaboraciones: milobmx97@gmail.com Mi canal:
     location: "Spain"
-    followers: 131360
-    engagement: 175
-    commentsToLikes: 0.003436
-    id: ck15qvjvy4ukc0i191pm7cxqw
+    followers: 29676
+    engagement: 419
+    commentsToLikes: 0.013828
+    id: ck135f47c13r20i19x8vh4t8j
     verified: false
-    hashtags: "#fashion, #best, #perfectionist, #california"
+    hashtags: "#420, #like, #ride, #new"
   - username: "volynskaia_anna"
     fullname: >-
       Photographer Barcelona
+    bio: >-
+      ANNA VolynskaiA 🇷🇺🇪🇸🇬🇧 📍BARCELONA-Lloret-GIRONA 📍Costa Brava 📍Saint-Petersburg ☎️+34 608689347 (WhatsApp/Viber)
     location: "Spain"
-    followers: 37811
-    engagement: 424
-    commentsToLikes: 0.082737
+    followers: 34687
+    engagement: 484
+    commentsToLikes: 0.074777
     id: ck15sbmbkc6s80i19i3chb6ww
     verified: false
     hashtags: ""
   - username: "albina.bouts"
     fullname: >-
       Photographer Barcelona/Moscow
+    bio: >-
+      Personal photoshoots. Based in Barcelona. Booking photoshoot: +34633110481 (WhatsApp)
     location: "Spain"
-    followers: 12246
-    engagement: 443
-    commentsToLikes: 0.138330
+    followers: 12226
+    engagement: 317
+    commentsToLikes: 0.212987
     id: ck5cefwr2kxut0i11vsuwggkb
     verified: false
-    hashtags: ""
-  - username: "martaperezfotografia"
+    hashtags: "#barcelona, #golf, #alabrigahotel, #hotelw"
+  - username: "uriipaalaci"
     fullname: >-
-      Marta • Fotógrafa de bodas
+      Oriol Palací
+    bio: >-
+      Hi! I’m Uri 🙋🏼‍♂️ 📍 Currently in Barcelona || Photographer & Filmmaker || Presets: @crazypresets.co Business contact: contactouriipaalaci@gmail.com
     location: "Spain"
-    followers: 7797
-    engagement: 754
-    commentsToLikes: 0.110366
-    id: ck0tx1phyhjge0i192jzlbrvf
+    followers: 13740
+    engagement: 979
+    commentsToLikes: 0.023757
+    id: ck5ckq2tpxdz60i11dgkcz1mc
     verified: false
-    hashtags: "#bodasenmenorca, #landscape, #complicidad, #groom"
+    hashtags: ""
   - username: "photosberns"
     fullname: >-
       Photos Berns
+    bio: >-
+      Portrait Photographer 📍 Barcelona 👤 Personal account: @bernasesss Contrataciones: alexbernases@gmail.com
     location: "Spain"
-    followers: 5753
-    engagement: 849
-    commentsToLikes: 0.038550
+    followers: 5356
+    engagement: 817
+    commentsToLikes: 0.039365
     id: ckapaux8pxkaz0i78jehjziek
     verified: false
-    hashtags: "#musica, #fotografoslatinoss, #art, #painting"
+    hashtags: "#snipes, #airmaxday, #nike, #snipesstaff98"
   - username: "marieberiestain"
     fullname: >-
       ℳ𝒶𝓇𝒾𝑒 ℬ𝑒𝓇𝒾𝑒𝓈𝓉𝒶𝒾𝓃
+    bio: >-
+      Artist till I find a real job Fashion and Beauty photographer in Barcelona Work and portfolio inquiries - marieberiestain@gmail.com
     location: "Spain"
-    followers: 13975
-    engagement: 425
-    commentsToLikes: 0.021282
+    followers: 14181
+    engagement: 144
+    commentsToLikes: 0.065163
     id: ck6tiayr30dh20j717efutvqw
     verified: false
     hashtags: "#bts"
-  - username: "sportvalen"
+  - username: "stoptheroc"
     fullname: >-
-      Valentí Enrich
+      Roc Isern
+    bio: >-
+      Photographer from Barcelona @BarcelonaFacades
     location: "Spain"
-    followers: 7219
-    engagement: 836
-    commentsToLikes: 0.011123
-    id: ck133yda5ucfp0i19trcombux
-    verified: false
-    hashtags: "#euroleague, #coach, #laliga, #fotograf"
-  - username: "gerard_moral"
+    followers: 167463
+    engagement: 252
+    commentsToLikes: 0.041911
+    id: ck0tsk2zf045q0i19bxfh01sn
+    verified: true
+    hashtags: "#basel, #barcelonafacades, #hellofrom, #stoptherocinbasel"
+  - username: "saraseaside"
     fullname: >-
-      Barcelona Photographer
+      Sara Costa
+    bio: >-
+      🎞 Photographer📷 Barcelona 🗺️ 📩 saracosta.es@gmail.com
     location: "Spain"
-    followers: 34019
-    engagement: 773
-    commentsToLikes: 0.011775
-    id: ck0tym527n8450i19kb2y7u04
+    followers: 9457
+    engagement: 538
+    commentsToLikes: 0.023720
+    id: ck14k0t4in5df0i19wxwgsl5q
     verified: false
-    hashtags: "#dreamermagazine, #streetporttait, #shotonkodak, #streetlensmag"
+    hashtags: "#odeandiefreude, #theanalogclub, #somewhereiwouldliketolive, #artclassified"
 ---

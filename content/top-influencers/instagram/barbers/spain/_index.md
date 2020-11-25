@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Spain In 2020
 description: >-
-  Find top barbers Instagram influencers in Spain in 2020. Most popular hashtags: #love #beard #cuts #yomequedoencasa.
+  Find top barbers Instagram influencers in Spain in 2020. Most popular hashtags: #barbershop #barbero #beard #barber.
 platform: Instagram
+hits: 94
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 94 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "alebarber.18"
+  - username: "gabriell_boss"
     fullname: >-
-      Alєхαηdєr Acσsтα ✪ |📍UY🌎
+      Gabriell Boss
+    bio: >-
+      📍Madrid 💈Barber💈 Underwear Model Co-founder: ⬇️
     location: "Spain"
-    followers: 5696
-    engagement: 1372
-    commentsToLikes: 0.068240
-    id: ck5zn1d9tnlbv0i14fy6dmd98
+    followers: 16529
+    engagement: 1094
+    commentsToLikes: 0.025636
+    id: ck6tlp2386d6z0j718imm6o92
     verified: false
-    hashtags: "#makeup, #barberspain, #estilo, #fadespain"
-  - username: "bbflow_"
-    fullname: >-
-      
-    location: "Spain"
-    followers: 8739
-    engagement: 1267
-    commentsToLikes: 0.037668
-    id: ck5bzyp47s3hs0i11qgerjqet
-    verified: false
-    hashtags: "#sanpetersburgo, #tbt, #swagg, #d10s"
-  - username: "thefaderbarber_"
-    fullname: >-
-      💈THEFADER💈🧠♾🧠
-    location: "Spain"
-    followers: 18865
-    engagement: 1153
-    commentsToLikes: 0.014429
-    id: ck15uc20fmf1w0i19shd8n7f8
-    verified: false
-    hashtags: "#marbella2017, #mrporter, #mensgrooming, #puertobanus"
+    hashtags: "#tattoos, #picture, #domingo, #picoftheday"
   - username: "jonanwolfx_"
     fullname: >-
       Jonan Wolff Official
+    bio: >-
+      I am a wolf 🐺, this is my world 🌍🐺 Spain 🇪🇸 Madrid. Barber wolf 💈💇‍♂️ @insta_barber_wolf Libra♎
     location: "Spain"
-    followers: 27443
-    engagement: 489
-    commentsToLikes: 0.022155
+    followers: 29367
+    engagement: 441
+    commentsToLikes: 0.027170
     id: ck5qab8njfhoz0i11wrwzjq96
     verified: false
-    hashtags: "#bearmode, #beard, #bearinkspain"
-  - username: "jesuscamara.tattoo"
+    hashtags: "#beard, #musclebeard, #beardsofinstagram, #instabeard"
+  - username: "bbflow_"
     fullname: >-
-      ➕ ＪＥＳＵＳ ＣＡＭＡＲＡ ＴＡＴＴＯＯ ➕
+      🅕🅛🅞🅦
+    bio: >-
+      📍 𝐁𝐚𝐫𝐜𝐞𝐥𝐨𝐧𝐚 🇪🇸 ⚡️ • 𝒻𝓁ℴ𝓌 - 𝒮𝓌𝒶ℊℊ - 𝒟𝓇𝒾𝓅 🔌 • ᶜʳᵉᵃᵗᵒʳ ᵒᶠ 💈@the_swagg_barbershop💈 📧 Contacted: bbflow93@gmail.com 💼 Collaborations: 📥
     location: "Spain"
-    followers: 16705
-    engagement: 233
-    commentsToLikes: 0.043545
+    followers: 8434
+    engagement: 602
+    commentsToLikes: 0.064587
+    id: ck5bzyp47s3hs0i11qgerjqet
+    verified: false
+    hashtags: "#repost, #fcbarcelona, #fresh, #barcelona"
+  - username: "jesuscamaratattoo"
+    fullname: >-
+      ➕ＪΞＳＵＳ ＣΛＭΛＲΛ ＴΛＴＴＯＯ➕
+    bio: >-
+      ➖ @arteyvidatattoostudio ➖ @ego.barberstudio ➖ Guest spot open __________________________________ Para más info 📲 671 445 915
+    location: "Spain"
+    followers: 17115
+    engagement: 343
+    commentsToLikes: 0.053920
     id: ck5ho6hlbp0yd0i119qwkeahe
     verified: false
-    hashtags: "#lilwayne, #rose, #gallosdepelea, #blackandgray"
-  - username: "kevinquiles_"
+    hashtags: "#liontattoo, #realismotattoo, #jaen, #tattoojaen"
+  - username: "iamdavidfalla"
     fullname: >-
-      Kevin Quiles
+      NJ Barber - David Falla
+    bio: >-
+      🇺🇸🇨🇴 ✖️ Bilingual YouTuber [600k+ Subs] ✖️ @fit_barber “Be Impactful” ✖️ @fitbarberacademy 🎓 ✖️ @fitbarberstudio Chester, NJ📍 LINKS🔻
     location: "Spain"
-    followers: 12798
-    engagement: 355
-    commentsToLikes: 0.051437
-    id: ck0u2gr7mzyau0i19b2ne0a7n
+    followers: 74962
+    engagement: 140
+    commentsToLikes: 0.024442
+    id: ck5hjwtjmhdyo0i11b5192zky
     verified: false
-    hashtags: "#zonephotographer, #wynwoodmiami, #hairstylemen, #modeldancer"
-  - username: "javi_thebarber_"
-    fullname: >-
-      Javier Chacon Perez
-    location: "Spain"
-    followers: 310026
-    engagement: 111
-    commentsToLikes: 0.042492
-    id: ck5c7xvif8eht0i11aq679u2r
-    verified: false
-    hashtags: "#takecareofyourhair, #stylists, #stayhome, #worldnews"
-  - username: "_carlosrey"
-    fullname: >-
-      Carlos Rey 🦦
-    location: "Spain"
-    followers: 4127
-    engagement: 1464
-    commentsToLikes: 0.038866
-    id: ck1342vkduffg0i19kq1gn7mp
-    verified: false
-    hashtags: "#goodvibes, #hawaii, #island, #eventodela"
-  - username: "reyesthebarber"
-    fullname: >-
-      
-    location: "Spain"
-    followers: 31243
-    engagement: 376
-    commentsToLikes: 0.036896
-    id: ck55kcdy4yz8n0i11j74zt9cr
-    verified: false
-    hashtags: "#modelo, #madrid, #mensfashion, #amazing"
+    hashtags: "#njhairstylist, #chesternj, #nycbarber, #youtube"
   - username: "jose_the_barber_10"
     fullname: >-
       OFFICIAL JOSE THE BARBER
+    bio: >-
+      Jose the Barber 🇪🇸Citas en salón: 958980508 (Granada, Andalucía) ✂️ Citas VIP o contratación: MD 💈Pro-educador <<WORK HARD, BE NICE>>
     location: "Spain"
-    followers: 64820
-    engagement: 253
-    commentsToLikes: 0.028110
+    followers: 65829
+    engagement: 189
+    commentsToLikes: 0.026335
     id: ck6trko6gzjia0j71i3etfibe
     verified: false
-    hashtags: "#lossimpsons, #barbershop, #barbershopconnect, #barbersimpsons"
+    hashtags: "#barbershop, #haircolor, #hairstyle, #barbershopconnect"
+  - username: "javi_thebarber_"
+    fullname: >-
+      Javier Chacon Perez
+    bio: >-
+      🏝 San Fernando ( Cádiz ) Ambassador @lakmehair_official Barber of @cadizclubdefutbol 🔵🌕 Collaborator of @hairbeautyfactory Citas a través de APP👇🏽👇🏽👇🏽
+    location: "Spain"
+    followers: 304030
+    engagement: 115
+    commentsToLikes: 0.007947
+    id: ck5c7xvif8eht0i11aq679u2r
+    verified: false
+    hashtags: "#lakmehair, #lakme, #betis, #realbetisbalompie"
+  - username: "franaranda_"
+    fullname: >-
+      Fran Aranda
+    bio: >-
+      -Haircutter 💈💇🏻‍♂️ -Educator for @brainonacademy 🎓 -@booksybiz Ambassador 📆 -@kingcgillette.es 🧔🏽 -@barbersandgentlemensupplier 💈
+    location: "Spain"
+    followers: 37706
+    engagement: 126
+    commentsToLikes: 0.028285
+    id: ck5pzjglm1a0j0i11zn6fwjob
+    verified: false
+    hashtags: "#kingcgillete, #dominatuestilo, #nosinmibarba, #colaboracion"
+  - username: "manulpdazamudio"
+    fullname: >-
+      ᴍᴀɴᴜᴇʟ ᴢᴀᴍᴜᴅɪᴏ ✪
+    bio: >-
+      💈Barbero Internacional💈 🏆Campeon España2019🏆🥉3 puesto España2019🥉🏆Campeon salonlook uruguay2019🏆 📍Propietario de Manuel Barber📍 🇺🇾 🇦🇷 🇧🇷 🇱🇺🇪🇸 🇫🇷
+    location: "Spain"
+    followers: 16001
+    engagement: 220
+    commentsToLikes: 0.072840
+    id: ck13d9ni94cwx0i195up7so29
+    verified: false
+    hashtags: "#barberlife, #hairstyle, #peluqueria, #andis"
+  - username: "rm_barber"
+    fullname: >-
+      RM BARBER
+    bio: >-
+      •PROPIETARIO BARBERIA RM& LA CREACIÓN BARBER & TATTOO• •SEMINARIOS DE BARBERIA PRIVADOS (dm) •BOOKSY AMBASSADOR • SPAIN •🇪🇸
+    location: "Spain"
+    followers: 37425
+    engagement: 179
+    commentsToLikes: 0.021894
+    id: ck602dmv5h6wy0i14rybeeevv
+    verified: false
+    hashtags: "#lowfade, #sevilla, #razorfade, #barbershop"
 ---

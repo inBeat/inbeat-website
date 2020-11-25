@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In India In 2020
 description: >-
-  Find top home decor Instagram influencers in India in 2020. Most popular hashtags: #homedecor #quarantinelife #stayhome #stayathome.
+  Find top home decor Instagram influencers in India in 2020. Most popular hashtags: #homedecor #instagram #instagood #photography.
 platform: Instagram
+hits: 331
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 331 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "ddcamp170"
+  - username: "prerna.srivastava09"
     fullname: >-
-      DeeDee Campbell✨Home Decor✨
+      Prerna Srivastava
+    bio: >-
+      #fashion #influencer | #plussizemodel | Novel #homedecor #enthusiast @the_nw_decorholic_intown & #doghooman @hazel_the_amstaffpup
     location: "India"
-    followers: 7366
-    engagement: 746
-    commentsToLikes: 0.238610
+    followers: 27413
+    engagement: 194
+    commentsToLikes: 0.013370
+    id: ckf5w9o45rbxr0j23x43f794i
+    verified: false
+    hashtags: "#sizeisjustanumber, #beautifulhomes, #ootdfashion, #love"
+  - username: "texasbluebungalow"
+    fullname: >-
+      DeeDee Campbell
+    bio: >-
+      Living in a 1922 Blue Craftsman Bungalow Cat Mama I love Red! I love old stuff! DM me for collaboration #mycolorfull_homedecor #1922bluebungalow
+    location: "India"
+    followers: 9030
+    engagement: 533
+    commentsToLikes: 0.201253
     id: ck5c4w4ji28ja0i118vqvmhc9
     verified: false
-    hashtags: "#flowerseeds, #handtowels, #tinvase, #tincollection"
+    hashtags: "#designdecorlovers, #houseandhome, #vintagecrushin, #mypastperfectfind"
   - username: "designdecoranddisha"
     fullname: >-
       Disha Mishra Dubey
+    bio: >-
+      #HousetoHome #YouTuber #DecorBlogger #DIY #ContentCreator #HomeDecor #Gardening #HomeMakeover #BudgetDecorating #Art #Craft #CreativeTribe New Video👇
     location: "India"
-    followers: 48712
-    engagement: 205
-    commentsToLikes: 0.033818
+    followers: 50200
+    engagement: 182
+    commentsToLikes: 0.030219
     id: ck8t3pabj3z5l0j78ahmk8x6g
     verified: false
-    hashtags: "#entrywaydecor, #mask, #diyblogger, #indoorplants"
-  - username: "saffrontrail"
-    fullname: >-
-      Nandita / saffrontrail.com
-    location: "India"
-    followers: 58991
-    engagement: 128
-    commentsToLikes: 0.036185
-    id: ck0w1ho57jedu0i19tjb0hg6i
-    verified: true
-    hashtags: "#stcooks, #jaagore, #saffrontrail, #homecooking"
+    hashtags: "#indianblogger, #bamboobasket, #indiandecor, #housetohome"
   - username: "avanifashionbeautydecor"
     fullname: >-
       Avani (FASHION BEAUTY DECOR)
+    bio: >-
+      Indian-American 'Social Media INFLUENCER' ▪Entrepreneur ▪ Interior Designer ▪ Mommy ▪Wifey ▪ Style Blogger Collab? DM admin: @homedecor_inspirations
     location: "India"
-    followers: 162124
-    engagement: 116
-    commentsToLikes: 0.019582
+    followers: 163929
+    engagement: 111
+    commentsToLikes: 0.020178
     id: ck5py6blluizu0i11gs4cidm0
     verified: false
-    hashtags: "#fashionblogger, #bohochic, #luxurystyle, #kitsch"
-  - username: "gonerogue0"
+    hashtags: "#nordstromanniversarysale, #womensupportingwomen, #nordstrom, #sheinofficial"
+  - username: "madirakshi_"
     fullname: >-
-      ishita pandey
+      Madirakshi
+    bio: >-
+      ❤Spread love everywhere you go❤ For any business/work queries and paid brand collaborations mail us @ reach2madirakshi@gmail.com Snapchat madirakshi9
     location: "India"
-    followers: 7976
-    engagement: 832
-    commentsToLikes: 0.120026
-    id: ck8t835pmixs10j78v6krq8sg
-    verified: false
-    hashtags: "#ruffles, #traveldiaries, #reddress, #flowers"
-  - username: "cyril_cv_"
+    followers: 163774
+    engagement: 512
+    commentsToLikes: 0.037657
+    id: ck1369hfc5erm0i19bqg15zs3
+    verified: true
+    hashtags: "#festival, #happydiwali20, #rangoli, #art"
+  - username: "yzack_maniya"
     fullname: >-
-      CYRIL🦋
+      VAISHAK.U 🔹
+    bio: >-
+      ^MALLU BOY🔰 ^KANHANGAD🔰 ^BORN DAY MAY 11🔰 ^PHOTO DESIGN🖌️ ^@_yz_design_ SUPPORT🤝 ^#design 🖤 ^SINGLE 💕🤗 ^WHATSAPP_-9961940988 ☯️☯️☯️☯️☯️☯️☯️☯️☯️☯️☯️
     location: "India"
-    followers: 10233
-    engagement: 1240
-    commentsToLikes: 0.087218
-    id: ck15tzwpekqf40i19pumfxleo
+    followers: 2597
+    engagement: 1931
+    commentsToLikes: 0.082257
+    id: ck9whme25yj640j78o5ommoln
     verified: false
-    hashtags: "#pencildrawing, #godowncountry, #iphonography, #wall"
-  - username: "tannedtravelgirl"
+    hashtags: "#jeep, #photooftheday, #gymmotivation, #entekeralam"
+  - username: "vyshakhkc"
     fullname: >-
-      NISHU | TRAVEL BLOGGER | INDIA
+      __~ 007_VYSHAKH~___ kc__
+    bio: >-
+      📱__MoBile___TecHniCian__📱 💙 KSU 💙 KL __71 BoY 🌳 SB fan 🥰
     location: "India"
-    followers: 16134
-    engagement: 926
-    commentsToLikes: 0.113876
-    id: ck5q260hgefr70i11ixocu366
+    followers: 2747
+    engagement: 2311
+    commentsToLikes: 0.138609
+    id: ck9whz9eo04hz0j787uyzxz6b
     verified: false
-    hashtags: "#tamilnadu, #indiatravelgram, #kathakaliface, #shikara"
-  - username: "stunning_since_1998"
+    hashtags: "#instagramlover, #black, #godsowncountry, #malappuram"
+  - username: "siya0_23"
     fullname: >-
-      💕👸Aishwarya Prabhu Gaonkar👰💕
+      ❤️🇸​🇮​🇾​🇦​❤️
+    bio: >-
+      ❤️#modal, 🏡#chandigarh 🖤#single
     location: "India"
-    followers: 4202
-    engagement: 2830
-    commentsToLikes: 0.042113
-    id: ckapce6qf3gi90i78wvc8ydzd
+    followers: 2398
+    engagement: 2452
+    commentsToLikes: 0.067964
+    id: ckap7mxe7koo10i78gk0cdpz5
     verified: false
-    hashtags: "#travel, #travelguide, #naturalbeauty, #travelislove"
-  - username: "walkwithmswalker"
+    hashtags: "#vintage, #time, #picture, #success"
+  - username: "roopaltyagi06"
     fullname: >-
-      👑Dev Walker👑
+      Roopal Tyagi
+    bio: >-
+      DM for collaborations.🦄✨🧿
     location: "India"
-    followers: 6997
-    engagement: 572
-    commentsToLikes: 0.089772
-    id: ck5ccfrluh9wu0i11xbnc5te2
-    verified: false
-    hashtags: "#stayhome, #afrotravel, #deadseajordan, #mauritiustravel"
-  - username: "glamadventuress"
+    followers: 227621
+    engagement: 312
+    commentsToLikes: 0.015212
+    id: ck15qb62j1zwd0i193wqm5q0p
+    verified: true
+    hashtags: "#diwalilook, #happydhanteras, #look, #bossbabe"
+  - username: "ms.journo_"
     fullname: >-
-      Navneet|Travel & Lifestyle
+      MUNEETA ANEJA| Influencer
+    bio: >-
+      📍𝑭𝒂𝒔𝒉𝒊𝒐𝒏•𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆•𝑮𝒓𝒂𝒕𝒊𝒕𝒖𝒅𝒆🙏 📍𝑷𝑹 𝑬𝒙𝒆𝒄𝒖𝒕𝒊𝒗𝒆,𝑫𝑷𝑹 📍𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝒊𝒏 @middayindia & @officialsocialsamosa 📍𝑩𝒚𝒍𝒊𝒏𝒆-𝑻𝑶𝑰 📍𝑨𝒃𝒃𝒆𝒚 𝑴𝒂𝒕𝒉𝒆𝒘 𝑴𝒆𝒎𝒐𝒓𝒊𝒂𝒍 𝑨𝒘𝒂𝒓𝒅-𝑱𝒐𝒖𝒓𝒏𝒂𝒍𝒊𝒔𝒎
     location: "India"
-    followers: 41233
-    engagement: 369
-    commentsToLikes: 0.067402
-    id: ck139dzxykug00i19eoq1az5z
+    followers: 20407
+    engagement: 318
+    commentsToLikes: 0.269575
+    id: ck5zvfh3j44vm0i14k6abkeum
     verified: false
-    hashtags: "#selfisolation, #goexplore, #picoftheday, #exploringindia"
+    hashtags: "#gothgirl, #parisianstyle, #homedecor, #italianstyle"
 ---

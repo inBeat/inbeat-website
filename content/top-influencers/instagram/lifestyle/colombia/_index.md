@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Colombia In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Colombia in 2020. Most popular hashtags: #lifestyle #instagood #nature #felicidad.
+  Find top lifestyle Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #lifestyle #fashion.
 platform: Instagram
+hits: 245
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat has 245 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "folliedolliebeaute"
-    fullname: >-
-      #FollieDollieTips 🌿 كارلا
-    location: "Colombia"
-    followers: 62727
-    engagement: 1175
-    commentsToLikes: 0.204695
-    id: ck15qy8xd58i10i199uk0b5pn
-    verified: false
-    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
-  - username: "ikeoficial"
-    fullname: >-
-      Cesar  🔱  ike   Ⓜ️
-    location: "Colombia"
-    followers: 10232
-    engagement: 1097
-    commentsToLikes: 0.140959
-    id: ck138cyppfmu50i19cr7vx1iz
-    verified: false
-    hashtags: "#domingoencasa, #stayhome, #brutalman, #luxurylifestyle"
-  - username: "dr.tonni"
-    fullname: >-
-      GORDO PERO CHIMBA MI AMOR
-    location: "Colombia"
-    followers: 1734108
-    engagement: 999
-    commentsToLikes: 0.018024
-    id: ck8wg6z05gu3j0j78mcrw9qau
-    verified: false
-    hashtags: "#cuarentena, #cuidateencasa, #covid, #quarantine"
-  - username: "kaoutaroughriiss"
-    fullname: >-
-      Social Media Manager
-    location: "Colombia"
-    followers: 49683
-    engagement: 457
-    commentsToLikes: 0.077570
-    id: ckaoved0p48sn0i78qk5teilp
-    verified: false
-    hashtags: "#hijabinspo, #hijabers, #caftandress, #picsart"
-  - username: "leidygomez063"
-    fullname: >-
-      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
-    location: "Colombia"
-    followers: 254897
-    engagement: 456
-    commentsToLikes: 0.131269
-    id: ck8t0qyfwsytv0j7846clzuqm
-    verified: false
-    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
   - username: "jessica.zabala"
     fullname: >-
       Jessica Zabala
+    bio: >-
+      📍Bogotá Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
     location: "Colombia"
-    followers: 59094
-    engagement: 1461
-    commentsToLikes: 0.029326
+    followers: 89469
+    engagement: 1163
+    commentsToLikes: 0.149957
     id: ck9wghcvxtf430j788scdohfk
     verified: false
-    hashtags: ""
-  - username: "mcarolinapadilla"
+    hashtags: "#blackouttuesday"
+  - username: "valentinathorne"
     fullname: >-
-      María Carolina Padilla Durán
+      Valentina 🏹
+    bio: >-
+      Colombia 🇨🇴 Healthy lifestyle 🏋🏻‍♀️ Graphic communication design 🎨 Embajadora: @inhsportswearoficial @thorn.19 🌹
     location: "Colombia"
-    followers: 7221
-    engagement: 1585
-    commentsToLikes: 0.040135
-    id: ckap4b8sf6kuo0i782a68d4ls
+    followers: 147109
+    engagement: 818
+    commentsToLikes: 0.016588
+    id: ckapbottv0qp30i78foawh7df
     verified: false
-    hashtags: "#family, #cool, #vsco, #fit"
+    hashtags: "#happyweekend, #weekend"
   - username: "branorozcom"
     fullname: >-
-      Bran Orozco Muñoz
+      Bran Orozco Muñoz
+    bio: >-
+      • Lifestyle | Graphic Designer • Fotos con iPhone 11 • Ciénaga - Bogotá - Colombia
     location: "Colombia"
-    followers: 16967
-    engagement: 538
-    commentsToLikes: 0.109629
+    followers: 16649
+    engagement: 459
+    commentsToLikes: 0.100064
     id: ck15ux3olox5w0i19y3al30ix
     verified: false
-    hashtags: "#laguajira, #blogger, #turismo, #formen"
+    hashtags: "#hilton, #santamartaiscrazy, #travel, #colombia"
+  - username: "dr.tonni"
+    fullname: >-
+      GORDO PERO CHIMBA MI AMOR
+    bio: >-
+      🎥 Travel | Comedy | Lifestyle Toditos ▶️ Tik Tok: dr.tonni 2.2 M ❌ NO Twitter 📍 Medellin, Colombia ❤️🇨🇴 📩 dr.tonni.publicidad@gmail.com
+    location: "Colombia"
+    followers: 1483203
+    engagement: 762
+    commentsToLikes: 0.009014
+    id: ck8wg6z05gu3j0j78mcrw9qau
+    verified: false
+    hashtags: "#medellin, #gains, #abs, #training"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
+    bio: >-
+      ✖ Portraits, Lifestyle, Fashion ✖ Dúo de fotógrafas 👭🏼 by: @dorian.ph @itsmelbournee Clothing 🔛 @retromnia_ Contacto 📩 DM 📍 Bogotá - Colombia 🇨🇴
     location: "Colombia"
-    followers: 27039
-    engagement: 1433
-    commentsToLikes: 0.027580
+    followers: 93066
+    engagement: 441
+    commentsToLikes: 0.035599
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#bodylanguage, #collateral, #thefashionpr0ject, #sonyalpha"
+    hashtags: "#humanedge, #theportraitpr0ject, #ourmag, #vibetones"
+  - username: "valeriefrangie"
+    fullname: >-
+      Valerie Frangie
+    bio: >-
+      Fashion & Lifestyle Blogger Everyday looks. Real life fashion Directora Creativa @shopvf 1/2 @livinghabibi Coautora “La Cocina de Mamarie”
+    location: "Colombia"
+    followers: 39510
+    engagement: 261
+    commentsToLikes: 0.078086
+    id: ckap1bw68tx3p0i78ajlsruv1
+    verified: false
+    hashtags: "#transformatuinstagram21dias, #valeriefrangie, #vf, #tbt"
+  - username: "caromejiaaraujo"
+    fullname: >-
+      Carolina Mejía Araújo
+    bio: >-
+      Encontrar tu pasión lo cambia todo🤩 💃🏽Baile | Actuación | Lifestyle 🍃 📩 Manager actuación: @mfcortesmanager 👇🏽BAILA CONMIGO👇🏽
+    location: "Colombia"
+    followers: 60666
+    engagement: 345
+    commentsToLikes: 0.046570
+    id: ck5hj6hllg3cw0i118da5szy1
+    verified: false
+    hashtags: "#dance, #publicidad, #bogota, #colombia"
+  - username: "ashleysantosm"
+    fullname: >-
+      ASHLEY SANTOS
+    bio: >-
+      🤍 • Actriz & Modelo 🪐 • Creadora de contenido 🔒 • Fashion | Lifestyle | Beauty ✉️ • Contacto a Dm @onemodelsacademy
+    location: "Colombia"
+    followers: 4009
+    engagement: 1451
+    commentsToLikes: 0.090852
+    id: ck8t4hcu66toc0j78vr7nw6p7
+    verified: false
+    hashtags: "#model, #photography, #lifestyle, #modelo"
   - username: "angelperez_ignacio"
     fullname: >-
-      Angel Ignacio Pérez
+      Angel Ignacio Pérez
+    bio: >-
+      Traveler & Lifestyle⚡️ Publicidad💰: DM 📍Colombia
     location: "Colombia"
-    followers: 124608
-    engagement: 693
-    commentsToLikes: 0.017321
+    followers: 132454
+    engagement: 507
+    commentsToLikes: 0.014695
     id: ck5c7hztc7l2p0i11w8yrm541
     verified: false
-    hashtags: "#yomequedoencasa, #tbt, #stayathome, #lifestyle"
+    hashtags: "#lifestyle, #tbt"
+  - username: "marceloperamontoya"
+    fullname: >-
+      MARCELA LOPERA
+    bio: >-
+      ✌🏼lifestyle 🔶Vendo todos mis Instalooks 🔶 Info. 📩 IG DM 💌 loperamontoyamarcela@gmail.com 📍 Colombia 🇨🇴
+    location: "Colombia"
+    followers: 17708
+    engagement: 241
+    commentsToLikes: 0.078649
+    id: ck6u1n4k2mqcm0j71zuv5tsou
+    verified: false
+    hashtags: "#happymothersday, #rainbow, #sunnymonday, #tbt"
 ---

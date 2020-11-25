@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Seattle In 2020
 description: >-
-  Find top nutrition Instagram influencers in Seattle in 2020. Most popular hashtags: #nutrition #stayhome #selfcare #positivevibes.
+  Find top nutrition Instagram influencers in Seattle in 2020. Most popular hashtags: #nutrition #seattle #healthyfood #plantbased.
 platform: Instagram
+hits: 15
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 15 Instagram influencers like this in Seattle, United States for you to connect with.
 profiles:
-  - username: "karlatafra"
+  - username: "evanarbour"
     fullname: >-
-      Yoga Teacher & Nutritionist
+      Evan Arbour
+    bio: >-
+      he/him NASM - CPT, CES Certified Nutrition Coach seattle founding instructor @barrys ambassador @lululemon
     location: "United States"
-    followers: 106618
-    engagement: 91
-    commentsToLikes: 0.014913
-    id: ck5hqgtzrt37b0i11sfs3jevb
+    followers: 27621
+    engagement: 846
+    commentsToLikes: 0.025897
+    id: ckf5us0zem34j0j235gvzk9k7
     verified: false
-    hashtags: "#quarantine, #seattlelife, #nutrition, #summerincroatia"
-  - username: "thelittleblondeyogi"
+    hashtags: "#pride, #elijahmcclain, #blm, #juneteenth"
+  - username: "tina.m.dominguez"
     fullname: >-
-      SASHA | ⚡️🌊⛰🤸🏼‍♂️
+      San Diego Brand Photographer
+    bio: >-
+      → Creative Consultant → Marketing Brand Director w/ fitme™️ Nutrition → And I lift & stuff
     location: "United States"
-    followers: 8839
-    engagement: 498
-    commentsToLikes: 0.183391
-    id: ck5q4y7vqqofm0i115ej9iqmi
+    followers: 5439
+    engagement: 371
+    commentsToLikes: 0.139310
+    id: ck9hcsihimsjj0j78xr62784s
     verified: false
-    hashtags: "#yogaonline, #athomeyoga, #yogahawaii, #nutritionschool"
-  - username: "iwillgetlean"
+    hashtags: "#riseupandpersevere, #selfmastery, #quarantinelife, #sustainability"
+  - username: "xosaraherickson"
     fullname: >-
-      Tanvi's Journey To Abs
+      Sarah Erickson
+    bio: >-
+      Raising three little men Seattle, WA erickson_sarah@ymail.com
     location: "United States"
-    followers: 130715
-    engagement: 300
-    commentsToLikes: 0.037221
-    id: ck1376q5wa2bx0i19o38g40m1
+    followers: 6175
+    engagement: 617
+    commentsToLikes: 0.147511
+    id: ck5zn64q2nupm0i14xcdvo0wr
     verified: false
-    hashtags: "#youcandoit, #quads, #transformation, #noequipment"
+    hashtags: "#learningathome, #manimonday, #worlddayagainsttrafficking, #ethicalfashion"
   - username: "happy.healthy.hayley"
     fullname: >-
       Hayley MacLean, MS
+    bio: >-
+      Plant enthusiast 🌱 Seattle📍 Wear black 🖤 Eat colors 🌈 Former pigeon lady. 🐦 #rd2be #nutrition #dieteticintern #happyhealthyhayley
     location: "United States"
-    followers: 3789
-    engagement: 1706
-    commentsToLikes: 0.247806
+    followers: 3924
+    engagement: 1621
+    commentsToLikes: 0.232845
     id: ck5ce58sokcfy0i118ytqatxw
     verified: false
-    hashtags: "#morningroutine, #thekitchn, #taketime, #getglowing"
-  - username: "mattsydal"
+    hashtags: "#nutritiousanddelicious, #todaybreakfast, #todayfood, #healthybreakfast"
+  - username: "lindsaybraman"
     fullname: >-
-      Sydal, Matt
+      Lindsay - Mental Health Art
+    bio: >-
+      • Seattle-based Therapist • Doodler I'm a therapist but I'm not 𝕪𝕠𝕦𝕣 𝕥𝕙𝕖𝕣𝕒𝕡𝕚𝕤𝕥 Content for educational use only ⬇️ 𝙛𝙤𝙧 𝙥𝙧𝙞𝙣𝙩𝙖𝙗𝙡𝙚𝙨 𝙤𝙧 𝙖𝙥𝙥𝙤𝙞𝙣𝙩𝙢𝙚𝙣𝙩𝙨
     location: "United States"
-    followers: 168666
-    engagement: 179
-    commentsToLikes: 0.014172
-    id: ck0txw3nxkp8z0i19myk5cbey
-    verified: true
-    hashtags: "#trifecta, #worldsightday, #surpirse, #tagteam"
-  - username: "momoshares"
-    fullname: >-
-      Seattle Foodie | Serena
-    location: "United States"
-    followers: 9828
-    engagement: 615
-    commentsToLikes: 0.227388
-    id: ck14koq78qjuj0i19pf1k3fq8
+    followers: 121291
+    engagement: 976
+    commentsToLikes: 0.011479
+    id: ck0u8kfka7ir10i19ddwpic9v
     verified: false
-    hashtags: "#foodgasm, #forexlifestyle, #thrillist, #chinesecuisine"
+    hashtags: "#therapistsofinstagram, #psychology, #spoopy, #mentalhealthawareness"
+  - username: "getupwithhannah"
+    fullname: >-
+      Hannah Hutson
+    bio: >-
+      ONLINE PROGRAMS | Kettlebell & Functional Fitness Coach | @belltownstrength | @flexfuel.nutrition Ambassador | Online Programming 👇
+    location: "United States"
+    followers: 42803
+    engagement: 333
+    commentsToLikes: 0.053846
+    id: ck5bzqw3vro9k0i11wstixlkk
+    verified: false
+    hashtags: "#kettlebellswings, #deathbyhannah, #strengthtraining, #kettlebells"
+  - username: "iwillgetlean"
+    fullname: >-
+      Tanvi's Journey To Abs
+    bio: >-
+      👊🏼Chasing #Fitness 🏋🏻‍♀️while rocking a 9-5👩🏻‍💻 @microsoft 💪Recorded 100-weeks of #Consistency🔻48 lbs. 📍Seattle 🇺🇸 ⤵️ Workout with me on YOUTUBE 🎥
+    location: "United States"
+    followers: 195735
+    engagement: 178
+    commentsToLikes: 0.029988
+    id: ck1376q5wa2bx0i19o38g40m1
+    verified: false
+    hashtags: "#nothingtoprove, #homeworkoutsforyou, #fittnes, #musclemotivation"
+  - username: "deshawnshead"
+    fullname: >-
+      Deshawn Shead
+    bio: >-
+      NFL CB | SB48 Champ | Husband to @mrs_jshead | Proud Father of 2 | 2X NFC Champ | From Palmdale, CA | PSU Grad | TW: @dshead24
+    location: "United States"
+    followers: 119321
+    engagement: 306
+    commentsToLikes: 0.023125
+    id: ck0twtzxdgq9y0i192da6s3af
+    verified: true
+    hashtags: "#squad, #exercise, #fitness, #health"
+  - username: "lovechickpea"
+    fullname: >-
+      Dhale Larsen
+    bio: >-
+      Meatless since 2016 🌍🌱 Pacific Northwest📍 @dhalepickles 🤙🏻🇲🇵 v e g a n r e c i p e s
+    location: "United States"
+    followers: 3042
+    engagement: 2077
+    commentsToLikes: 0.303817
+    id: ckf5ts5y5im270j23fcxlx3ce
+    verified: false
+    hashtags: "#veganshare, #plantbasedrecipes, #vegandessert, #plantsofinstagram"
   - username: "jesslatousek"
     fullname: >-
       Jess Latousek
+    bio: >-
+      Nurse BSN💉Certified Trainer💪🏻Flexible Dieting🌱 ✝️God > 🔼my highs & 🔽my lows Helping women build the strongest, most confident and truest self💯
     location: "United States"
     followers: 7255
     engagement: 581
     commentsToLikes: 0.023784
     id: ck5hp1vujqm5x0i115yvbyi82
     verified: false
-    hashtags: "#trainer, #stayhomeanddance, #learningtodance, #ustrong"
-  - username: "marv.active"
-    fullname: >-
-      FITNESS | PHOTO | BRAND MNGR
-    location: "United States"
-    followers: 29977
-    engagement: 421
-    commentsToLikes: 0.033636
-    id: ck0vznl3b9znb0i19y0ko4qsm
-    verified: false
-    hashtags: "#crewlove, #vibes, #weightloss, #humble"
-  - username: "fit.full.life"
-    fullname: >-
-      Julie
-    location: "United States"
-    followers: 7589
-    engagement: 2381
-    commentsToLikes: 0.520398
-    id: ck6tukukugwtw0j718rwi641a
-    verified: false
-    hashtags: "#covi, #baree, #fitlife, #vacationmode"
-  - username: "hannah_hussein13"
-    fullname: >-
-      Hannah Hussein
-    location: "United States"
-    followers: 20690
-    engagement: 924
-    commentsToLikes: 0.064458
-    id: ckap1bjpptvj70i78055lxwck
-    verified: false
-    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
+    hashtags: "#fiance, #pride, #hardwork, #engagedlife"
 ---

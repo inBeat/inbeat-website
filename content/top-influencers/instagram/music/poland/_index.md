@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Poland In 2020
 description: >-
-  Find top music Instagram influencers in Poland in 2020. Most popular hashtags: #hot16challenge2 #nature #april #photo.
+  Find top music Instagram influencers in Poland in 2020. Most popular hashtags: #summer #mirrorselfie #polska.
 platform: Instagram
+hits: 402
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 402 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "julia_binczyk"
+  - username: "beata_chmielowska_olech"
     fullname: >-
-      Julia Bińczyk
+      Beata Chmielowska-Olech
+    bio: >-
+      #tvpresenter #journalist #lifestyle #events #businessmeetings #tv #beautycare #educationalproject #music #management 📩b.chmielowskaolech@gmail.com
     location: "Poland"
-    followers: 16501
-    engagement: 1672
-    commentsToLikes: 0.092345
-    id: ckap6k9lgg7b90i78yj8shl5w
+    followers: 13983
+    engagement: 1103
+    commentsToLikes: 0.076755
+    id: ck6tpvvgqnj0e0j71miyul8gv
     verified: false
-    hashtags: "#hot16challange2, #hot16challenge2, #instagranie"
-  - username: "kajajablonska"
-    fullname: >-
-      𝒌𝒂𝒋𝒂 𝒋𝒂𝒃𝒍𝒐𝒏𝒔𝒌𝒂♡
-    location: "Poland"
-    followers: 82028
-    engagement: 717
-    commentsToLikes: 0.077376
-    id: ck134u237y6gj0i19oodgmngk
-    verified: false
-    hashtags: "#singin, #film, #bestvoices, #dream"
+    hashtags: "#teleexpress, #badzmyrazem, #teleexpressextra, #tvp2"
   - username: "beata_walczynska"
     fullname: >-
       
+    bio: >-
+      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
     location: "Poland"
-    followers: 12062
-    engagement: 1537
-    commentsToLikes: 0.075752
+    followers: 11226
+    engagement: 1673
+    commentsToLikes: 0.066285
     id: ck13azgmrsy100i19khq0qwde
     verified: false
-    hashtags: "#flowers, #happytime, #naturephoto, #walk"
-  - username: "kuberaadam"
+    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
+  - username: "kajajablonska"
     fullname: >-
-      Adam Kubera
+      𝒌𝒂𝒋𝒂 𝒋𝒂𝒃𝒍𝒐𝒏𝒔𝒌𝒂♡
+    bio: >-
+      singer ✰ my music 💿 ✰ współpraca: kajkajablonska3232@gmail.pl📩 @kajajablonska.mess funny meッ @smiesznakajka friendsッ ✰ tiktok: kaja_jablonska ✰ MERCH👚
     location: "Poland"
-    followers: 59485
-    engagement: 925
-    commentsToLikes: 0.045789
-    id: ck15sfmoqcrvt0i199br3ujmp
+    followers: 81738
+    engagement: 721
+    commentsToLikes: 0.034050
+    id: ck134u237y6gj0i19oodgmngk
     verified: false
-    hashtags: "#concert, #bookstagram, #record, #cold"
-  - username: "bartek.kaszuba"
-    fullname: >-
-      Bartek Kaszuba
-    location: "Poland"
-    followers: 131442
-    engagement: 886
-    commentsToLikes: 0.029305
-    id: ck5bxs9dcobpd0i11kre6ur3r
-    verified: true
-    hashtags: "#yswc2020, #siedznadupie, #toja, #instagranie"
-  - username: "levelonek"
-    fullname: >-
-      Wokalista - Menelaos/Levelon
-    location: "Poland"
-    followers: 8491
-    engagement: 1610
-    commentsToLikes: 0.046702
-    id: ck9wgl009tvnd0j78vgejerlk
-    verified: false
-    hashtags: "#kobieta, #blondynka, #polskime, #wokal"
+    hashtags: "#sing, #singing, #vocalist, #voice"
   - username: "qeeriefire"
     fullname: >-
       Justyna 🔥
+    bio: >-
+      Poland Music▪️Self-taught beginner guitarist▪️ Dogs▪️Cooking▪️ Marvel Comics▪️Yoga #metalhead
     location: "Poland"
-    followers: 20964
-    engagement: 1344
-    commentsToLikes: 0.036933
+    followers: 21421
+    engagement: 1065
+    commentsToLikes: 0.040381
     id: ck0w6ezy8892n0i19b3l6lf3r
     verified: false
-    hashtags: "#bonjovi, #ironmaiden40, #thrashmetal"
+    hashtags: ""
+  - username: "kuberaadam"
+    fullname: >-
+      Adam Kubera
+    bio: >-
+      📀: Universal Music Polska ✉️ mail: t.turek@magicrecords.pl 🎙 booking: d.kosinska@kmevents.pl ⬇️ PREMIERA UTWORU ŚWIĄTECZNEGO!
+    location: "Poland"
+    followers: 58847
+    engagement: 831
+    commentsToLikes: 0.031387
+    id: ck15sfmoqcrvt0i199br3ujmp
+    verified: false
+    hashtags: "#newmusiccomingsoon, #music, #adamkubera, #matura2021"
   - username: "romaastemberg"
     fullname: >-
       Roma Astemberg 🌸
+    bio: >-
+      🌍📍 Warsaw/Gdansk 🎤🎶 in love with music
     location: "Poland"
-    followers: 9485
-    engagement: 2019
-    commentsToLikes: 0.035462
+    followers: 9332
+    engagement: 1186
+    commentsToLikes: 0.047409
     id: ck0tupct5847b0i19515uurot
     verified: false
-    hashtags: "#brunette, #brunettehair, #milangirl, #tb"
-  - username: "sandrvczuraj"
+    hashtags: "#brunettegirl, #theworldofportraits, #makeuponpoint, #italiangirl"
+  - username: "levelonek"
     fullname: >-
-      Sandra Maria Czuraj 🦋
+      Wojtek Sarwa - Menelaos
+    bio: >-
+      Wokalista / producent muzyczny 🎬 TikTok: levelon (200.000) 🔴 YouTube: Levelon Music (90.000)
     location: "Poland"
-    followers: 23936
-    engagement: 1413
-    commentsToLikes: 0.025983
-    id: ck8t1sohiwvar0j782d6xdu8b
+    followers: 11644
+    engagement: 910
+    commentsToLikes: 0.050517
+    id: ck9wgl009tvnd0j78vgejerlk
     verified: false
-    hashtags: "#facemask, #haveaniceday, #childhood, #live"
-  - username: "im.sandra_"
+    hashtags: "#bluza, #nagranie, #discopolo, #jeansjacket"
+  - username: "dropkillx"
     fullname: >-
-      Sandra Cygan
+      𝖉𝖗𝖔𝖕𝖐𝖎𝖑𝖑𝖝
+    bio: >-
+      @rafalpacierz • Spiritual awakening • Music • Fashion • Lifestyle • • Collab: dropkillx@gmail.com • ↘ moje outfity do kupienia tutaj ↙
     location: "Poland"
-    followers: 7175
-    engagement: 769
-    commentsToLikes: 0.078534
-    id: ck8tatqtgt0s60j78gynlhcsj
+    followers: 73237
+    engagement: 166
+    commentsToLikes: 0.049334
+    id: ck8tbrxrbww3s0j785wjsj0qj
     verified: false
-    hashtags: "#world, #photo, #cover, #april"
+    hashtags: "#pi, #primark, #primarkpoland, #piek"
+  - username: "sensitivelly"
+    fullname: >-
+      Natalia
+    bio: >-
+      I love music, people, art 2001 ⚡️ 🧜🏻‍♀️W A R S A W yt⤵️
+    location: "Poland"
+    followers: 4135
+    engagement: 2287
+    commentsToLikes: 0.039036
+    id: ck8ta2s6rq8qy0j780jngdavh
+    verified: false
+    hashtags: "#spring, #sunset, #polskadziewczyna, #smile"
+  - username: "djanedelayna"
+    fullname: >-
+      De Layna
+    bio: >-
+      Hi, I am a djane which loves electronic music 🔊 ➡️ Facebook.com/djanedelayna 💵💰Patreon.com/delayna 🎵 Soundcloud.com/djdelayna 🔈MixCloud.com/djdelayna
+    location: "Poland"
+    followers: 8405
+    engagement: 1017
+    commentsToLikes: 0.036165
+    id: ck0u691sc1bd20i19jscy1kc1
+    verified: false
+    hashtags: "#polishdjs, #ukg, #summertime, #partymix"
 ---

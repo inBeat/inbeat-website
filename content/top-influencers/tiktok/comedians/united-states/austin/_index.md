@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Austin In 2020
 description: >-
-  Find top comedians TikTok influencers in Austin in 2020. Most popular hashtags: #austinpowers #coronavirus #comedian #tigerking.
+  Find top comedians TikTok influencers in Austin in 2020. Most popular hashtags: #comedy #fyp #foryou #comedian.
 platform: TikTok
+hits: 18
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 18 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "jennyzigrino"
+  - username: "corymichaeliscomedy"
     fullname: >-
-      JennyZigrino
+      Cory Michaelis
+    bio: >-
+      Comedian 🎤 IG: @corymichaeliscomedy “Bad Teacher” on Dry Bar Ayyyyyyyyyyyy 40k
     location: "United States"
-    followers: 25336
-    engagement: 1196
-    commentsToLikes: 0.017299
-    id: ck8zazs7s3m670j78b28a88u7
+    followers: 41500
+    engagement: 1212
+    commentsToLikes: 0.025573
+    id: ckbl0mni1xbf10j23xzn52auk
     verified: false
-    hashtags: "#everydayheroes, #lifeathomequiz, #freezeframe, #levelup"
-  - username: "clintonnorman"
+    hashtags: "#trump2020, #fyp, #trump, #comedian"
+  - username: "sethjeans"
     fullname: >-
-      Clinton Norman
+      Seth Jeans
+    bio: >-
+      #comedian #nogenrecrew #x🙅🏻‍♂️xGang #yso #cloudznation
     location: "United States"
-    followers: 31272
-    engagement: 1440
-    commentsToLikes: 0.139215
-    id: ck90zerxhdpnn0j78816la9g0
+    followers: 49100
+    engagement: 1737
+    commentsToLikes: 0.042053
+    id: ckbbtumxwhc3i0j238450jegq
     verified: false
-    hashtags: "#talesfromthedarkside, #friday, #lovingithere, #standup"
-  - username: "bwaycolty"
+    hashtags: "#foryoupage, #famousorbanned, #haha, #yso"
+  - username: "thegingerrapper"
     fullname: >-
-      Colton
+      Susie Reed Comedy
+    bio: >-
+      Stand up comedian - NJ I’m sponsored! Use “Susie” to get 10% off - link below
     location: "United States"
-    followers: 153243
-    engagement: 1577
-    commentsToLikes: 0.028092
-    id: ck8qnj4k4upnl0j7841czqdp2
+    followers: 286400
+    engagement: 1183
+    commentsToLikes: 0.012920
+    id: ckbfc9fd54y4o0j23ymb1ni03
     verified: false
-    hashtags: "#esportsforall, #got2bhome, #broadway, #makemomsmile"
-  - username: "jreclips247"
+    hashtags: "#pun, #funny, #foryou, #thecoldestwater"
+  - username: "aj_comedy"
     fullname: >-
-      JRE Clips
+      Ami Kozak
+    bio: >-
+      Impressions, Comedy, and Music
     location: "United States"
-    followers: 51144
-    engagement: 961
-    commentsToLikes: 0.009876
-    id: cka8e7iarw7qr0i782ksr5myv
+    followers: 49100
+    engagement: 728
+    commentsToLikes: 0.091850
+    id: ck9f3fk3thh9w0j788q509yrh
     verified: false
-    hashtags: "#dallas, #forreal, #homeschoolmom, #elonmusk"
-  - username: "officialmikedrop"
+    hashtags: "#fyp, #alexjones, #parody, #impressions"
+  - username: "marybellgil"
     fullname: >-
-      Michael Brent
+      Marybell Gil
+    bio: >-
+      𝐿𝑎 𝑁𝐼𝑁̃𝐴 𝑑𝑒 𝑡𝑢𝑠 𝒉𝑜𝑗𝑜𝑠,👀🙇🏻‍♀️
     location: "United States"
-    followers: 68735
-    engagement: 1385
-    commentsToLikes: 0.022134
-    id: cka0iny9hehpc0i78jqnbyn66
+    followers: 5971
+    engagement: 366
+    commentsToLikes: 0.012854
+    id: ckdmwg6atbhcd0j23mvwyo8ek
     verified: false
-    hashtags: "#guitar, #conversations, #audio, #losangeles"
-  - username: "trini180528"
+    hashtags: "#foryoupage, #paratupagina, #512, #parati"
+  - username: "espinozairis"
     fullname: >-
-      Maria Roman
+      Iris Espinoza
+    bio: >-
+      ωιfє💍 мσм💕 HТχ📍 Makeup, Food & Fun!✌🏼
     location: "United States"
-    followers: 26139
-    engagement: 343
-    commentsToLikes: 0.020963
-    id: ck9eocrw3nn1m0j78biactf4u
+    followers: 5200
+    engagement: 428
+    commentsToLikes: 0.011743
+    id: ckdi7gpx69dpd0j235hgjfzvs
     verified: false
-    hashtags: "#cuban, #team, #espontaneo, #open"
-  - username: "chucky152"
+    hashtags: "#fyp, #yum, #snack, #parati"
+  - username: "latinoflyboy"
     fullname: >-
-      Chucky 
+      Saúl
+    bio: >-
+      pa la cultura
     location: "United States"
-    followers: 13284
-    engagement: 2836
-    commentsToLikes: 0.054848
-    id: cka0i6tn2ca2n0i78jrjpf28r
+    followers: 69400
+    engagement: 1355
+    commentsToLikes: 0.022927
+    id: ck80opjdlj1810j78dyif3d6l
     verified: false
-    hashtags: "#addicted, #notsure, #countryboy, #imalive"
-  - username: "mocashmajor"
+    hashtags: "#chickfila, #soccer, #emilyinparis, #timefortenet"
+  - username: "justintiicomedy"
     fullname: >-
-      MCM
+      JUSTIN TII COMEDY
+    bio: >-
+      Stand-up comedian If you laugh at any of this Thank you so much
     location: "United States"
-    followers: 27837
-    engagement: 1839
-    commentsToLikes: 0.026922
-    id: ckad7gby842pr0i78jn2h19w0
+    followers: 8926
+    engagement: 758
+    commentsToLikes: 0.036566
+    id: ck9k6ww5c2kp90j78oqpnhq8z
     verified: false
-    hashtags: "#dababy, #jerkchallange, #speed, #needagf"
-  - username: "superman2.0_"
+    hashtags: "#comedyskit, #makesomeonesmile, #xyzbca, #comedian"
+  - username: "shutek"
     fullname: >-
-      MC A.M
+      Kyle Shute
+    bio: >-
+      *Actor *Comedian *Dad Shoutouts & followbacks through Cameo! 🍻 Hit my link! 😍
     location: "United States"
-    followers: 26783
-    engagement: 811
-    commentsToLikes: 0.015693
-    id: ck920jfuheffn0j78k6mkmhlo
-    verified: false
-    hashtags: "#hollandia, #transition, #falsemoves, #theie"
-  - username: "nick_geyer"
+    followers: 629500
+    engagement: 1074
+    commentsToLikes: 0.009010
+    id: ck977j0cz4dre0j78k6an9il1
+    verified: true
+    hashtags: "#comedy, #comicon, #toddler, #wwe"
+  - username: "trizzboii"
     fullname: >-
-      Nick Geyer
+      tris✔︎
+    bio: >-
+      𝚝𝚛𝚒𝚣𝚣𝚢
     location: "United States"
-    followers: 7890
-    engagement: 556
-    commentsToLikes: 0.072046
-    id: ck9np9vdvxyj80j78tiu89v5n
+    followers: 17300
+    engagement: 2328
+    commentsToLikes: 0.027977
+    id: ckdmxrthlbv290j234oc9y6tm
     verified: false
-    hashtags: "#punch, #bunnyhop, #fights, #backflipfail"
+    hashtags: "#foryou, #share, #lazy, #doall"
 ---

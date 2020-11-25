@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers TikTok Influencers In 2020
 description: >-
-  Find top boxers TikTok influencers in 2020. Most popular hashtags: #boxing #instagram #funny #fight.
+  Find top boxers TikTok influencers in 2020. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
+hits: 428
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 428 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "boxerjatinmo79"
+    fullname: >-
+      Boxer Jatin Saini Mo
+    bio: >-
+      BOXER 
+    location: "India"
+    followers: 2571
+    engagement: 3575
+    commentsToLikes: 0.018796
+    id: ckbranewbownr0j23itx8mw3a
+    verified: false
+    hashtags: "#duet, #photomagic"
   - username: "willowthebeautifulcat"
     fullname: >-
       Willow
+    bio: >-
+      A Florida girl with a fuzzy ❤ shaped nose. I ❤ flowers & my Boxer dog sister.
     location: "United States"
-    followers: 248612
-    engagement: 3147
-    commentsToLikes: 0.051379
+    followers: 252200
+    engagement: 3005
+    commentsToLikes: 0.059401
     id: ck81s1ikspbwb0j78zwuocgec
     verified: false
-    hashtags: "#magnolia, #cutecat, #waitforit, #quarantinecat"
+    hashtags: "#ilovecats, #weirdcat, #socute, #catsruletheworld"
   - username: "theservicemutts"
     fullname: >-
       Ella + Maddie
+    bio: >-
+      Ella | she/her Maddie | boxer mix + medical alert K9 @servicek9collab✨ ⬇️MERCH⬇️
     location: "United States"
-    followers: 300767
-    engagement: 2531
-    commentsToLikes: 0.030619
+    followers: 291400
+    engagement: 2265
+    commentsToLikes: 0.039636
     id: ck8z4891jcqpd0j78nr4ok8ij
     verified: false
-    hashtags: "#itsaremix, #bedroomcheck, #venmo, #scoobdance"
+    hashtags: "#foryou, #dog, #servicedog, #servicedogs"
+  - username: "famouzcj"
+    fullname: >-
+      C.j🤍🦋
+    bio: >-
+      Cj 20❤️ boxer at keppner’s boxing🥊 I don’t post fights cuz TikTok delete vids
+    location: "United States"
+    followers: 162700
+    engagement: 3560
+    commentsToLikes: 0.310155
+    id: ckcdnm649atp40j23lgn19u46
+    verified: false
+    hashtags: "#foryou, #fyp, #foryoupage, #whatspoppin"
+  - username: "realbabygee569"
+    fullname: >-
+      Babygee
+    bio: >-
+      Sc:Babygee569 Boxer🥊💫 Michigan 60k? 19🌚
+    location: "United States"
+    followers: 64900
+    engagement: 2263
+    commentsToLikes: 0.059056
+    id: ckbaot2iffh2y0j239x0ysy4q
+    verified: false
+    hashtags: "#xyzbca, #duet, #stitch, #fyp"
+  - username: "imbackyerrr"
+    fullname: >-
+      Cucuy0f1cial
+    bio: >-
+      About a few months away from this app and I’m back IL📍 Boxer 🥊 Mexican🇲🇽
+    location: "United States"
+    followers: 6276
+    engagement: 1767
+    commentsToLikes: 0.066193
+    id: ckbw4p0d2xnc10j234qewkrcu
+    verified: false
+    hashtags: "#juliocesarchavez, #fyp, #mexico, #boxing"
+  - username: "boxer_chori45"
+    fullname: >-
+      💯🥊 Boxer 🔥
+    bio: >-
+      WANT health tips🔥 FOLLOW ME🔥 WANT to join🔥INDIAN ARMY🔥 YES I m 🥊 BOXER🥊
+    location: "India"
+    followers: 48600
+    engagement: 1223
+    commentsToLikes: 0.071295
+    id: cka0srrgzmrc40i78k4a8fsn6
+    verified: false
+    hashtags: "#swagstepchallenge, #boxer, #sharethecare, #lovegoals"
   - username: "mr.spyda"
     fullname: >-
       Mr Keys
+    bio: >-
+      TV Personality | Pro Boxer/MMA Fighter | Marvel Stuntman The Real Spider Man
     location: "United States"
-    followers: 3603
-    engagement: 1534
-    commentsToLikes: 0.055046
+    followers: 3653
+    engagement: 1448
+    commentsToLikes: 0.048171
     id: ck8hqbh773cd70j78zm0g5p5t
     verified: false
-    hashtags: "#marveluniverselivestuntman, #panamanianvision, #normalisboring, #rollthatbeautifulbeanfootage"
-  - username: "nanawilliams92"
-    fullname: >-
-      Nana Williams
-    location: "United States"
-    followers: 2955
-    engagement: 1499
-    commentsToLikes: 0.053739
-    id: ckan5l04bfjh90i78k8xixglk
-    verified: false
-    hashtags: "#notfyp, #retailtherapy, #corona, #spacethings"
-  - username: "crazzy_honey"
-    fullname: >-
-      Crazzy_honey®
-    location: "India"
-    followers: 64136
-    engagement: 1141
-    commentsToLikes: 0.083792
-    id: ck8sf873on1xp0j78caaq7yiz
-    verified: false
-    hashtags: "#freezeframe, #famlove, #ignore, #attitude"
-  - username: "jayme.triumph"
-    fullname: >-
-      Jayme Triumph
-    location: "Canada"
-    followers: 4871
-    engagement: 701
-    commentsToLikes: 0.052784
-    id: cka9m59v83y930i78vfywr66e
-    verified: false
-    hashtags: "#ecole, #manga, #fete, #jogging"
-  - username: "amirkhanboxer"
-    fullname: >-
-      Amir khan boxer
-    location: "Pakistan"
-    followers: 607339
-    engagement: 1036
-    commentsToLikes: 0.015747
-    id: ck9tu7zr4jyth0j78kvxpj51d
-    verified: true
-    hashtags: "#entry, #great, #worldboxing, #video"
-  - username: "iammarcohall"
-    fullname: >-
-      Marco Hall
-    location: "United States"
-    followers: 265728
-    engagement: 1677
-    commentsToLikes: 0.015600
-    id: ck9323l6khqow0j78m58icogv
-    verified: false
-    hashtags: "#homeproject, #wifevshusband, #foyou, #beatbox"
+    hashtags: "#duet, #foryoupage, #fyp, #beanfetish"
   - username: "pat0uwu"
     fullname: >-
       Ricky Gomez
+    bio: >-
+      Jalisco 🇲🇽/ LA 🇺🇸 Boxer 🥊 Nada de aqui es serio todo es mame :b
     location: "United States"
-    followers: 2523
-    engagement: 662
-    commentsToLikes: 0.042587
+    followers: 3687
+    engagement: 718
+    commentsToLikes: 0.101998
     id: cka66lkibhff50i78xctt6fjz
     verified: false
-    hashtags: "#chistoso, #memesenespa, #gym, #jajaja"
-  - username: "vincentmarcus"
+    hashtags: "#memesmexicanos, #gracioso, #divertido, #gulag"
+  - username: "thelifeofhercandmag"
     fullname: >-
-      VincentMarcus
+      Hercules & Magnus 
+    bio: >-
+      Big bro: Hercules the Pittie mastiff mix. Little bro: Magnus the boxer hound mix
     location: "United States"
-    followers: 1002022
-    engagement: 1333
-    commentsToLikes: 0.008333
-    id: ck8rrjaarupya0j78t7tbdogv
-    verified: true
-    hashtags: "#toosieslidechallenge, #impressions, #prank, #christmas"
+    followers: 78300
+    engagement: 2342
+    commentsToLikes: 0.008849
+    id: ckb9pnyznks980j23u9k816qo
+    verified: false
+    hashtags: "#pitbull, #petsoftiktok, #fyp, #ghostmode"
 ---

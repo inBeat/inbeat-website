@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top nutrition Instagram influencers in Vancouver in 2020. Most popular hashtags: #nutrition #gifted #vancouver #healthyeating.
+  Find top nutrition Instagram influencers in Vancouver in 2020. Most popular hashtags: #nutrition #fitness #family #lifestyle.
 platform: Instagram
+hits: 13
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
   - username: "plentyfullme"
     fullname: >-
-      Michelle Garland
+      Michelle △ Nutritionist
+    bio: >-
+      a place for all things health + wellness 🌿 easy healthy recipes using simple ingredients 📸 brand photography + content creation 〰️
     location: "Canada"
-    followers: 7993
-    engagement: 761
-    commentsToLikes: 0.710495
+    followers: 8886
+    engagement: 730
+    commentsToLikes: 0.614167
     id: ck5bu85cxhbpj0i11rny7q9gu
     verified: false
-    hashtags: "#sephora, #naturalskintips, #ontheblog, #nutmilk"
+    hashtags: "#sponsored, #healthyfood, #linkinbio, #holisticnutrition"
   - username: "wil.loh"
     fullname: >-
       WILSON LOH | VANCOUVER FITNESS
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 To motivate and Inspire Ascend Aesthetically ▪️| Team @1upnutrition ‘WILLOH’ for 20% off ▪️| Natural Bodybuilder ▪️| Vancouver, B.C
     location: "Canada"
-    followers: 11797
-    engagement: 1229
-    commentsToLikes: 0.047146
+    followers: 11283
+    engagement: 1253
+    commentsToLikes: 0.040637
     id: ckap4u9908wjn0i78sn655hv2
     verified: false
-    hashtags: "#flex, #paragonfitwear, #fitnessfanatic, #abs"
+    hashtags: "#gymshark, #1upnutrition, #1up, #legday"
   - username: "nicolehutchinson__"
     fullname: >-
       Nicole Michaela Hutchinson
+    bio: >-
+      Professional Ray of Sunshine Hyperhydrosis queen Vancouver, BC 🇨🇦 // San Diego, CA ☀️ Ask me about #RoadtoSub60 ••• @nicolesknits
     location: "Canada"
-    followers: 2461
-    engagement: 2366
-    commentsToLikes: 0.018280
+    followers: 2433
+    engagement: 2272
+    commentsToLikes: 0.018773
     id: ckap3892t1yvz0i78yxn47uy5
     verified: false
-    hashtags: "#goldencoast, #runsandiego, #holistic, #giftofhealth"
-  - username: "javelizz"
+    hashtags: "#runsandiego, #runcalifornia, #local, #nothankyou"
+  - username: "mulderronald"
     fullname: >-
-      Liz Gleadle
+      Ronald Mulder
+    bio: >-
+      3 times Olympic Speedskater Vancouver, Sochi 🥉, Pyeongchang. European Champion 500 🥇, World Champion Team-Sprint 🥇
     location: "Canada"
-    followers: 14114
-    engagement: 449
-    commentsToLikes: 0.018260
-    id: ck0u2f8g5zrgp0i19a5hs8lqm
-    verified: true
-    hashtags: "#westcoast, #spinehealth, #organize, #fitness"
-  - username: "delscookingtwist"
-    fullname: >-
-      Del | Del's cooking twist
-    location: "Canada"
-    followers: 30910
-    engagement: 214
-    commentsToLikes: 0.050280
-    id: ck0w1z6vgluw10i19eon4yu2k
+    followers: 18983
+    engagement: 647
+    commentsToLikes: 0.013628
+    id: ck55pqyk1b6d80i11shvj1p94
     verified: false
-    hashtags: "#forkfeed, #newborn, #kiddos, #instafriends"
+    hashtags: "#power, #schaatsen, #bikelife, #boys"
   - username: "lindsaypleskot"
     fullname: >-
       Dietitian, RD/nutrition expert
+    bio: >-
+      Helping busy women save time, stress, and ditch dieting #makefoodfeelgood 🥑 Easy Recipes 🍋 Meal Plans & Ktchn Hacks 🍉 Nutrition made simple GET IT 👇
     location: "Canada"
     followers: 16833
     engagement: 198
     commentsToLikes: 0.307812
     id: ck6u7wtt9o4a30j71vmkqsh14
     verified: false
-    hashtags: "#brusselssprouts, #pastalover, #groceryshoppingtips, #veggiehacks"
-  - username: "maral_tabatabaee"
+    hashtags: "#covid19, #pantrycooking, #freezerfriendly, #kitchenshortcuts"
+  - username: "vancouversveryown"
     fullname: >-
-      M  A  R  A  L ©
+      Brandon Nair | DJ Nizzy 🇫🇯🌺
+    bio: >-
+      Sponsored by @ufcgymbc x @therawunite Team BC Athlete | Coach⚽️ Personal Trainer 💪🏽 DJ🎧
     location: "Canada"
-    followers: 12653
-    engagement: 600
-    commentsToLikes: 0.061881
-    id: ck6ub2lqt73us0j71empyzndf
+    followers: 6683
+    engagement: 776
+    commentsToLikes: 0.045185
+    id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#swipeleft, #proteinbars, #girlswithmuscle, #roadtosuccess"
-  - username: "chloedufourlapointe"
+    hashtags: "#l4l, #vancitybuzz, #vancouverevents, #instagood"
+  - username: "praisevaughn"
     fullname: >-
-      Chloedufourlapointe
+      Praise Vaughn
+    bio: >-
+      Courage. Compassion. Connection. 👉🏽 2 Timothy 1:7 🙌🏽 👊🏽 Learn to Box 👊🏽
     location: "Canada"
-    followers: 31224
-    engagement: 502
-    commentsToLikes: 0.018600
-    id: ck6tn5ezc96500j71rdyzthl8
-    verified: true
-    hashtags: "#holidays, #instaart, #everywoman, #lookbook"
-  - username: "bellsebobo"
-    fullname: >-
-      FILIPINA X GHANAIAN 🇵🇭🇬🇭
-    location: "Canada"
-    followers: 437015
-    engagement: 969
-    commentsToLikes: 0.014563
-    id: ck8swqzhtexr60j783kelpfnx
+    followers: 17020
+    engagement: 424
+    commentsToLikes: 0.056641
+    id: ck6tk1qdc3u3e0j71y20xt5vc
     verified: false
-    hashtags: "#missygirl, #missyempire, #ad, #filipina"
-  - username: "lauriedouceur"
+    hashtags: "#fightcapital, #vancouverboxing, #sausagedog, #vancity"
+  - username: "stevibreezy"
     fullname: >-
-      Laurie Côté
+      Stevi Schnoor
+    bio: >-
+      #theBULL 🏈3x🇺🇸 National 🏆, 1x🇨🇦 National 🏆 🏉🇨🇦Rugby League World Cup Athlete ‘17 💙Fulfilling my dreams while trying to inspire greatness in others
     location: "Canada"
-    followers: 24778
-    engagement: 278
-    commentsToLikes: 0.076677
-    id: ck5zq2s7gttvc0i147whkoj23
+    followers: 20861
+    engagement: 218
+    commentsToLikes: 0.055266
+    id: ck6uhok1oabma0j71bhar371d
     verified: false
-    hashtags: "#lienaffili, #birthdayhomeparty, #essentielsco, #affiliation"
+    hashtags: "#weightlifting, #seattle, #runningback, #fitness"
+  - username: "graceoreto"
+    fullname: >-
+      G R A C E 🌺
+    bio: >-
+      🌜UKIYO 浮世 [u - key - yo] @fullforcefitnesscanada Athlete @xfitonway.canada Athlete 💍🤍
+    location: "Canada"
+    followers: 5789
+    engagement: 625
+    commentsToLikes: 0.032662
+    id: ck9wdkah4g1ds0j78tnutzfk8
+    verified: false
+    hashtags: "#muscle, #shredded, #agarmy, #family"
+  - username: "myorganicdiary"
+    fullname: >-
+      Happy Eating + Living 🥑
+    bio: >-
+      👩🏻‍🔬 Dietetics Student + #IIN Holistic Health Coach 🥑 Anti-Inflammatory #PlantBased Living 📸 Food + Lifestyle Creator 🇫🇷 French Eat-Girl in📍MTL
+    location: "Canada"
+    followers: 21304
+    engagement: 305
+    commentsToLikes: 0.041849
+    id: ck6ttj527awby0j7166tt8nbz
+    verified: false
+    hashtags: "#iinhealthcoach, #foodphotography, #instagood, #healthyfood"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Montreal In 2020
 description: >-
-  Find top comedians TikTok influencers in Montreal in 2020. Most popular hashtags: #quarantine #positivevibes #comedian #montreal.
+  Find top comedians TikTok influencers in Montreal in 2020. Most popular hashtags: #canada #comedy #funny #fyp.
 platform: TikTok
+hits: 4
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database has 4 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "cringekev"
-    fullname: >-
-      Cringe Kev
-    location: "Canada"
-    followers: 6896
-    engagement: 905
-    commentsToLikes: 0.070620
-    id: ck90r2c2kktgx0j78fv2tcwgq
-    verified: false
-    hashtags: "#spooky, #impersonation, #sith, #family"
   - username: "rpwcomedy"
     fullname: >-
       Nicolas Benks Vatil
+    bio: >-
+      Haitian 4 LIFE 🇭🇹🇭🇹😭😂 Chacha GANG @rpw comedy fOR MORE FOLLOW ME
     location: "Canada"
-    followers: 2860
-    engagement: 1020
-    commentsToLikes: 0.026248
+    followers: 7694
+    engagement: 1252
+    commentsToLikes: 0.027592
     id: cka686hilnmkc0i78wjg5o1df
     verified: false
-    hashtags: "#jamaicancomedy, #westindiangirl, #jamaican, #pourmoi"
-  - username: "forbiddenfrosting2.0"
+    hashtags: "#fyp, #haitiantiktok, #haitiancomedy, #comedien"
+  - username: "peruanito.pe"
     fullname: >-
-      ForbiddenFrosting
+      Joseph Saavedra
+    bio: >-
+      🇵🇪 Peruano 🇵🇪 Multifacético 🎭 #SoyPeruanoPe Canadá 📍
     location: "Canada"
-    followers: 415269
-    engagement: 712
-    commentsToLikes: 0.008847
-    id: ck806ziswncwo0j78oxzimsme
+    followers: 6855
+    engagement: 1106
+    commentsToLikes: 0.103447
+    id: ckdcjiy5blf3u0j23k0ozc37a
     verified: false
-    hashtags: "#china, #health, #condiment, #fastfood"
-  - username: "cofresilvana"
-    fullname: >-
-      Silvana Cofré
-    location: "Canada"
-    followers: 2990
-    engagement: 330
-    commentsToLikes: 0.015273
-    id: ck961zh6uonsj0j78a9c6ht7j
-    verified: false
-    hashtags: "#ficaemcasa, #coronovirus, #chilenachallenge, #prettyface"
-  - username: "reubix_cube"
-    fullname: >-
-      reu
-    location: "Canada"
-    followers: 123672
-    engagement: 781
-    commentsToLikes: 0.030475
-    id: ck92uxhbdnzdw0j78kpdkstx8
-    verified: false
-    hashtags: "#canadalife, #wrestlemania, #anch, #qurantine"
+    hashtags: "#peruano, #comedia, #canada, #tiktokperu"
   - username: "kennylamoureux"
     fullname: >-
       Kenny Lamoureux
+    bio: >-
+      abonne-toi et je vais m'abonner et like follow me and ill follow you and like
     location: "Canada"
-    followers: 2720
-    engagement: 3877
-    commentsToLikes: 0.013966
+    followers: 3552
+    engagement: 3159
+    commentsToLikes: 0.022207
     id: cka686gwinmej0i783dd1fds9
     verified: false
-    hashtags: "#quebequois, #tapage, #newhobbie, #quarantinelife"
+    hashtags: "#fyp, #quarantine, #canada, #follow"
   - username: "simranpreetdhillo"
     fullname: >-
       Simran Preet Dhillon
+    bio: >-
+      Instagram simranpreet_dhillon
     location: "Canada"
-    followers: 4788
-    engagement: 818
-    commentsToLikes: 0.058520
+    followers: 7877
+    engagement: 876
+    commentsToLikes: 0.047586
     id: cka686f7pnm3i0i78l7tqjvn6
     verified: false
-    hashtags: "#kattapa, #strong, #hardwork, #cook"
+    hashtags: "#punjabi, #pindawale, #montreal, #internationalstudent"
+  - username: "shitzophreniaa"
+    fullname: >-
+       kenzie
+    bio: >-
+      Comedian
+    location: "Canada"
+    followers: 306600
+    engagement: 2580
+    commentsToLikes: 0.010911
+    id: ckcei8fb9qd780j23nep2jjd7
+    verified: false
+    hashtags: "#duet, #greenscreen, #halloweenlook, #fanedit"
+  - username: "thegrimmworkshop"
+    fullname: >-
+      TheGrimmWorkshop
+    bio: >-
+      Artist, terrible comedian If your under 13 don’t interact Discord server below:
+    location: "Canada"
+    followers: 64700
+    engagement: 2782
+    commentsToLikes: 0.059500
+    id: ck90zeef2dlyd0j78yuvpugct
+    verified: false
+    hashtags: "#nerfgun, #lol, #anyways, #alternative"
   - username: "dalescomedy"
     fullname: >-
       Dale Ward
+    bio: >-
+      Comedian + Artist insta: @dalethward ⬆️
     location: "Canada"
-    followers: 10599
-    engagement: 1127
-    commentsToLikes: 0.146748
+    followers: 190700
+    engagement: 1590
+    commentsToLikes: 0.034481
     id: ckahyj8plzkhj0i7833fnclib
     verified: false
-    hashtags: "#rammsteinfan, #life, #work, #homeroutine"
-  - username: "cringekev"
+    hashtags: "#halloween, #storytime, #joke, #funny"
+  - username: "joelvanvliet"
     fullname: >-
-      Cringe Kev
+      Joel van Vliet
+    bio: >-
+      Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
     location: "Canada"
-    followers: 6896
-    engagement: 905
-    commentsToLikes: 0.070620
-    id: ck90r2c2kktgx0j78fv2tcwgq
+    followers: 2471
+    engagement: 926
+    commentsToLikes: 0.120372
+    id: ckbqq63saay2x0j23ue0gqjoa
     verified: false
-    hashtags: "#spooky, #impersonation, #sith, #family"
-  - username: "paulloduca"
+    hashtags: "#chipmunks, #fypage, #fyp, #xyzbca"
+  - username: "blindguycomedy"
     fullname: >-
-      Paul Loduca
+      Blind guy comedy
+    bio: >-
+      Visually Challenged Canadian Comedian. Positivity rules!
     location: "Canada"
-    followers: 28084
-    engagement: 1722
-    commentsToLikes: 0.103208
-    id: ck8ttlwvms2aa0j78f6l4wd7j
+    followers: 31500
+    engagement: 963
+    commentsToLikes: 0.061155
+    id: ckajk9xvcp9y20i78hlghjrpz
     verified: false
-    hashtags: "#hilariouspeople, #original, #littlethings, #magicfakeout"
+    hashtags: "#storys, #standupcomedy, #alberta, #hollowed"
+  - username: "sicko2005"
+    fullname: >-
+      Sicko
+    bio: >-
+      Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
+    location: "Canada"
+    followers: 244700
+    engagement: 1612
+    commentsToLikes: 0.122148
+    id: ck8fa2xv43zpq0j78kx3cdwrb
+    verified: true
+    hashtags: "#actor, #duet, #tutting, #canada"
 ---

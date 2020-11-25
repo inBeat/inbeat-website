@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In India In 2020
 description: >-
-  Find top rappers Instagram influencers in India in 2020. Most popular hashtags: #tiktokindia #instagood #stayhome #staysafe.
+  Find top rappers Instagram influencers in India in 2020. Most popular hashtags: #rap #song #rapper #music.
 platform: Instagram
+hits: 150
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 150 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "vastavikmuhfaad"
+  - username: "mr_rongpaz"
     fullname: >-
-      Muhfaad👑
+      Mayank Rongpaz Rawat
+    bio: >-
+      Rapper🎤 lyricist📝 film maker📽 Top36 Dil Hai Hindustani 2 Top40 Mtv Hustle New video Ainshu ka baras👇
     location: "India"
-    followers: 101646
-    engagement: 1909
-    commentsToLikes: 0.034963
-    id: ck9wgufwsv1he0j78h4of3soa
-    verified: true
-    hashtags: "#stayhome, #staysafe, #kartavyamusic, #fixedmatch"
-  - username: "___venomous.weed"
-    fullname: >-
-      🇦​🇲​🇪​🇪​🇰​🇭​🇦​ 🇱​🇮​🇾​🇦​🇳​🇦​
-    location: "India"
-    followers: 3094
-    engagement: 2782
-    commentsToLikes: 0.094899
-    id: ck9wggdmhtavl0j78f4isvn53
+    followers: 10400
+    engagement: 1991
+    commentsToLikes: 0.026126
+    id: ck5zy3txt96fx0i14tyrtvw78
     verified: false
-    hashtags: "#nolimits, #venomous, #drapedinblack, #song"
-  - username: "____dj_wajid_07dz____"
-    fullname: >-
-      💋💋💋___* ڈی جے واجد ♐*___🔥🔥🔥
-    location: "India"
-    followers: 3046
-    engagement: 1941
-    commentsToLikes: 0.202957
-    id: ckap5pek8clog0i78tqy39jba
-    verified: false
-    hashtags: "#viral, #bike, #nammasindhanuru, #ktmlover"
-  - username: "mack_the_rapperr"
-    fullname: >-
-      Mack-The Rapper
-    location: "India"
-    followers: 21052
-    engagement: 534
-    commentsToLikes: 0.030621
-    id: ck8t07fenr2lw0j78c8j9fdy7
-    verified: false
-    hashtags: "#dubai, #mack, #punjabisong, #desi"
-  - username: "iam_roysoulchild"
-    fullname: >-
-      Roy SöulChild
-    location: "India"
-    followers: 50923
-    engagement: 177
-    commentsToLikes: 0.037711
-    id: ck6u40mlk0zku0j71y7h0fhpg
-    verified: false
-    hashtags: "#blackboymagic, #tbt, #stayhome, #nipseyblue"
-  - username: "pamsengh"
-    fullname: >-
-      PAM Sengh
-    location: "India"
-    followers: 7012
-    engagement: 1007
-    commentsToLikes: 0.037570
-    id: ck136mv5e79tx0i19s75088gp
-    verified: false
-    hashtags: "#socialnation, #tu, #patola, #backontrack"
-  - username: "djcarnivoremusic"
-    fullname: >-
-      Carnivore | BTOR
-    location: "India"
-    followers: 12916
-    engagement: 611
-    commentsToLikes: 0.044436
-    id: ck5hfljiny1ys0i11miy3s72q
-    verified: false
-    hashtags: ""
-  - username: "onlyoneunprivate"
-    fullname: >-
-      onlyoneprivate (FAN ACCOUNT)
-    location: "India"
-    followers: 22457
-    engagement: 474
-    commentsToLikes: 0.006076
-    id: ckap0fxpjq3p40i78k01sdwee
-    verified: false
-    hashtags: "#prvtoneday"
-  - username: "jungkookjeon"
-    fullname: >-
-      BTS JEON JUNGKOOK
-    location: "India"
-    followers: 623163
-    engagement: 244
-    commentsToLikes: 0.005709
-    id: ck0u8md8q7rms0i19fiwrzoyt
-    verified: false
-    hashtags: "#bts, #jungkook, #throwback"
+    hashtags: "#long, #new, #mai, #song"
   - username: "mukktak"
     fullname: >-
       MukktaK
+    bio: >-
+      RAPPER For bookings & promotions - eventxperts@gmail.com Website - www.mukktakofficial.com
     location: "India"
-    followers: 217977
-    engagement: 462
-    commentsToLikes: 0.021602
+    followers: 233555
+    engagement: 575
+    commentsToLikes: 0.023800
     id: ck5byq291pm910i11m9qp0uc8
     verified: true
-    hashtags: "#ramadankareem, #ramadan2020, #yummy, #breakupsex"
+    hashtags: "#rapmusic, #rapper, #newmusicalert, #femalerapper"
+  - username: "varlisingh"
+    fullname: >-
+      Varli Singh
+    bio: >-
+      Entrepreneur.Actor.Rapper.Singer.Filmmaker Miles to go before I sleep 💫 Reels ~ @varlisreels ￼varlids@aol.com YouTube Varli.TV Stream OBSESSED
+    location: "India"
+    followers: 49345
+    engagement: 238
+    commentsToLikes: 0.086970
+    id: ck8wejntne5g40j78tph1j29v
+    verified: true
+    hashtags: "#neverjudgeotherswithoutknowingtheirtruth"
+  - username: "mack_the_rapperr"
+    fullname: >-
+      Mack-The Rapper
+    bio: >-
+      Indian Rapper || Swagger
+    location: "India"
+    followers: 20122
+    engagement: 132
+    commentsToLikes: 0.056323
+    id: ck8t07fenr2lw0j78c8j9fdy7
+    verified: false
+    hashtags: "#sidneet, #sidneetforever, #siddharthnigam, #yoyo"
+  - username: "luckyyadavartist"
+    fullname: >-
+      Lucky Yadav
+    bio: >-
+      Rapper | Musician | Performing Arts 🎬🎤 • TikTok 375k :- LuckyYadavArtist YouTube :- LuckyYadavMusic • Subscribe Now🔔 • 'Yaadan Teriyaan' Out Now 👇
+    location: "India"
+    followers: 7209
+    engagement: 844
+    commentsToLikes: 0.043649
+    id: ck9wg8j95sasj0j78avt6c3gr
+    verified: false
+    hashtags: "#hairstyles, #yaadanteriyaanluckyyadav, #indorediaries, #love"
+  - username: "djcarnivoremusic"
+    fullname: >-
+      Carnivore | BTOR
+    bio: >-
+      Dj / Producer / Rapper 👻: carnivore1594
+    location: "India"
+    followers: 12913
+    engagement: 637
+    commentsToLikes: 0.039991
+    id: ck5hfljiny1ys0i11miy3s72q
+    verified: false
+    hashtags: "#dj, #festival, #music, #djcarnivore"
+  - username: "twicexmomo"
+    fullname: >-
+      TWICE MOMO (모모)
+    bio: >-
+      𝐎𝐍𝐄 𝐈𝐍 𝐀 𝐌𝐈𝐋𝐋𝐈𝐎𝐍! Main Dancer | Vocalist | Rapper TWICE 모모 | 11.9.1996 ♡ est. #160101 Dm for paid promotions 📥
+    location: "India"
+    followers: 109958
+    engagement: 298
+    commentsToLikes: 0.003684
+    id: ckf5vw2hdq3cq0j23chsvgpto
+    verified: false
+    hashtags: "#twice, #momo, #twice3, #twicexmomotv"
+  - username: "onlyoneunprivate"
+    fullname: >-
+      onlyoneprivate (FAN ACCOUNT)
+    bio: >-
+      Our CEO #정제원 JUNG JAEWON A solo rapper‼️part time as an actor, producer, model✨ @onlyoneprivate @privateonlyofficial JAEWON VIRTUAL CONCERT⤵️
+    location: "India"
+    followers: 21299
+    engagement: 824
+    commentsToLikes: 0.010212
+    id: ckap0fxpjq3p40i78k01sdwee
+    verified: false
+    hashtags: "#prvtoneday"
+  - username: "younghofficial"
+    fullname: >-
+      YOUNG H (J19 SQUAD) 🎵
+    bio: >-
+      📀 CEO/FOUNDER @j19squad 🎤 HINDI/MARWADI RAPPER 🐪 RAJASTHAN SE 🎹 MUSIC PRODUCER 🎼 SOUND ENGINEER 📣 DM FOR EXCLUSIVE BEATS 🔊 LATEST WORK 👇
+    location: "India"
+    followers: 8744
+    engagement: 926
+    commentsToLikes: 0.141951
+    id: ckaowb5m3859n0i787mnizogn
+    verified: false
+    hashtags: "#unsignedartist, #youtube, #beats, #rapper"
+  - username: "sameer_fire_boy"
+    fullname: >-
+      🔥SAMEER_FIRE_BOY🔥
+    bio: >-
+      🤹 KALAKAR 🤹 🎥 ACTOR 🎥 🎤RAPPER🎙 🕺DANCER🕺 😎MODEL😎 🖥PROFESSIONAL FIRE ARTIST 🖥 📺SAB TV FINALLIST 📺 ✏DM COLLABORATION💸PAID PROMOTION🤝♀️
+    location: "India"
+    followers: 171763
+    engagement: 354
+    commentsToLikes: 0.010156
+    id: ck0ty0vucl4wc0i19goapp2t2
+    verified: false
+    hashtags: "#boy, #mirchi, #modeling, #bolo"
 ---

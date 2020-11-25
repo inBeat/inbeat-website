@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top food Instagram influencers in Atlanta in 2020. Most popular hashtags: #pasta #tacos #inmanpark #mexicanfood.
+  Find top food Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #food #atleats #foodie.
 platform: Instagram
+hits: 131
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 131 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "myculinarytable"
+  - username: "_officialdrea_"
     fullname: >-
-      Personal Chef Matt • Atlanta
+      
+    bio: >-
+      Southern🌻 Let’s EAT👩🏽‍🍳
     location: "United States"
-    followers: 5500
-    engagement: 601
-    commentsToLikes: 0.086877
-    id: ck5c5p13d3vzn0i119hkjkaxo
+    followers: 6898
+    engagement: 151
+    commentsToLikes: 0.064557
+    id: ck5zwfn1061mt0i14l0x38kmf
     verified: false
-    hashtags: "#gravy, #myson, #blasianbabyboy, #braised"
-  - username: "foodistagirl"
+    hashtags: "#cook, #doseofdrea, #chef, #seafood"
+  - username: "chewfoodnow"
     fullname: >-
-      Olivia Arnold | ATL Foodista
+      jennifer | atl foodie
+    bio: >-
+      contributer @bestfoodatlanta use code “CHEWFOODNOW” for 10% off your order at @duckdonuts (Buckhead/Toco Hills) 🍩 💌: dm or email for collaborations
     location: "United States"
-    followers: 68810
-    engagement: 139
-    commentsToLikes: 0.155075
-    id: ck15u87h2lw9u0i19wp34yxqb
+    followers: 3230
+    engagement: 1099
+    commentsToLikes: 0.161619
+    id: ck5c05tubsi230i113qjvv5l7
     verified: false
-    hashtags: "#sweethut, #okonomiyaki, #phodailoi, #brunchgoals"
-  - username: "taylorcomedy"
+    hashtags: "#georgia, #weloveatl, #eatfamous, #drinks"
+  - username: "krabqueenzatl"
     fullname: >-
-      Taylor Williamson
+      KrabQueenzATL
+    bio: >-
+      🦀Krab Queenz ATL 📍529 Peachtree St NE ATL GA 30308 ⏰TO GO ORDERS 12-8PM ❌ Closed On Tuesday, Wednesdays & Thursday
     location: "United States"
-    followers: 33075
-    engagement: 105
-    commentsToLikes: 0.040101
-    id: ck5pyspmixm7m0i119nrpz78j
+    followers: 72757
+    engagement: 86
+    commentsToLikes: 0.033660
+    id: ck0tuzr9u9du30i1961g1c11w
+    verified: false
+    hashtags: "#seafood, #shrimp, #atleats, #krabqueenz"
+  - username: "joyytylr"
+    fullname: >-
+      Joyy🌙
+    bio: >-
+      The revolution will not be televised, it will be LIVE. Producer. Creator. World Changer. CEO of @joyyandco 💫 Dog mom to @thechotails 🐶
+    location: "United States"
+    followers: 2145
+    engagement: 946
+    commentsToLikes: 0.050969
+    id: ckapcnxlq4ib70i78n2wpm5c7
+    verified: false
+    hashtags: "#growth, #vegas, #photography, #mood"
+  - username: "hannahdasher"
+    fullname: >-
+      HANNAH DASHER
+    bio: >-
+      Sony Music Recording Artist
+    location: "United States"
+    followers: 22881
+    engagement: 441
+    commentsToLikes: 0.082255
+    id: ck6to7j5lcj800j71elhzffjq
     verified: true
-    hashtags: "#washyourhands, #queen, #wheatthins, #jokes"
+    hashtags: "#standbyyourpan, #countrymusic, #girlscalltheshots, #halloween"
+  - username: "rolding_in_the_eats"
+    fullname: >-
+      Alex | Atlanta Food Advocate
+    bio: >-
+      Alex is the name | #atlantafood is the game DM or email for partnerships & collaborations 🤙🏻⬇️ 📧: roldinginthedeep@gmail.com
+    location: "United States"
+    followers: 9255
+    engagement: 666
+    commentsToLikes: 0.077884
+    id: ck6u6tfcmhmgh0j71cpxxsfy5
+    verified: false
+    hashtags: "#cheesy, #bacon, #ube, #filipinofoodmovement"
   - username: "atlfoodie"
     fullname: >-
       Atlanta Food & Restaurants
+    bio: >-
+      📍 ATL 🎯 Eating good in the neighborhood 📧 Anatlfoodielife@gmail.com
     location: "United States"
-    followers: 25744
-    engagement: 216
-    commentsToLikes: 0.187152
+    followers: 30691
+    engagement: 198
+    commentsToLikes: 0.180957
     id: ck0vw55u7s5gm0i19ur7w7vcr
     verified: false
-    hashtags: "#seafoods, #brunchgoals, #castironcooking, #stretchycheese"
-  - username: "roldinginthe_eats"
-    fullname: >-
-      ALEX | Atlanta Food Advocate
-    location: "United States"
-    followers: 4330
-    engagement: 1061
-    commentsToLikes: 0.078912
-    id: ck6u6tfcmhmgh0j71cpxxsfy5
-    verified: false
-    hashtags: "#eastercandy, #nycfood, #neapolitanpizza, #ricenoodles"
-  - username: "itskimb_"
-    fullname: >-
-      Kim B.
-    location: "United States"
-    followers: 24404
-    engagement: 1163
-    commentsToLikes: 0.026644
-    id: ck15sunlwevwp0i19tfi48s7f
-    verified: false
-    hashtags: "#asmroreo, #thickthick, #kingcrab, #pizza"
+    hashtags: "#discoveratlanta, #bestfood, #asianfood, #atlnights"
   - username: "atlantabestbites"
     fullname: >-
       Atlanta’s Best Bites | Sarah
+    bio: >-
+      Atlanta Restaurants | Food & Drink 🌮 Original Content 🍕 Restaurant & Business Promoter 📩 atlantabestbites@gmail.com for business inquiries
     location: "United States"
-    followers: 26151
-    engagement: 76
-    commentsToLikes: 0.091254
+    followers: 29705
+    engagement: 88
+    commentsToLikes: 0.107935
     id: ckaoqoiu3jmpu0i78wya0t204
     verified: false
-    hashtags: "#lowcarblife, #atlantafarmers, #latina, #cheeseboard"
+    hashtags: "#atliens, #noms, #bites, #weloveatl"
   - username: "atl_foodscene"
     fullname: >-
       ATL Food Scene
+    bio: >-
+      🍑 Searching for Atlanta’s hidden food gems 📬 New restaurant in ATL? Email me!
     location: "United States"
-    followers: 5150
-    engagement: 631
-    commentsToLikes: 0.023450
+    followers: 5189
+    engagement: 617
+    commentsToLikes: 0.021614
     id: ck13bj35bvnen0i19ek0yq8ic
     verified: false
-    hashtags: "#cookies, #bocado, #italiansandwich, #friedcheese"
-  - username: "kiley_love"
+    hashtags: "#atlantarestaurants, #atlfoodie, #atlrestaurants, #foodie"
+  - username: "jahlielthurman"
     fullname: >-
-      Kiley Love
+      Jahliel Thurman
+    bio: >-
+      CEO @yardtalk101 Host of @hbcu101 on @aspiretv Stream Us Here 👇🏾👇🏾👇🏾👇🏾
     location: "United States"
-    followers: 11871
-    engagement: 1096
-    commentsToLikes: 0.023722
-    id: ck9hcyd9ingxn0j786r3u0aze
+    followers: 6367
+    engagement: 371
+    commentsToLikes: 0.061666
+    id: ck135f02r134g0i19pdjmex04
     verified: false
-    hashtags: "#atlanta, #christmas, #food, #quarentinebirthday"
-  - username: "kelseymaynor"
-    fullname: >-
-      Kelsey M. Maynor
-    location: "United States"
-    followers: 10985
-    engagement: 360
-    commentsToLikes: 0.077177
-    id: ck8sxyojmj4zx0j789iwqxy1v
-    verified: false
-    hashtags: "#juneteenth, #mensfashion, #thewkender, #quarantine"
+    hashtags: "#host, #keshiaskitchen, #producer, #hbcupride"
 ---

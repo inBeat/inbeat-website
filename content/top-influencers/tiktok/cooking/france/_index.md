@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In France In 2020
 description: >-
-  Find top cooking TikTok influencers in France in 2020. Most popular hashtags: #cuisine #cook #biscuit #transformation.
+  Find top cooking TikTok influencers in France in 2020. Most popular hashtags: #cooking #pourtoi #fyp #foryou.
 platform: TikTok
+hits: 59
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 59 TikTok influencers like this in France for you to pitch.
 profiles:
-  - username: "hectordnl"
+  - username: "cookislifefr"
     fullname: >-
-      Hector Dnl
+      Cook'n life
+    bio: >-
+      just love cooking 🍉🥗🥘🍣🎂 Follow me on IG With @LapiLaphi mère et fille 👩👧
     location: "France"
-    followers: 1048663
-    engagement: 3082
-    commentsToLikes: 0.006110
-    id: ck81qrjbaj92g0j781kk01nfa
-    verified: true
-    hashtags: "#babybelshifumichallenge, #ad, #pourthemilk, #coffee"
-  - username: "yoanna_e"
-    fullname: >-
-      Island gurl 🌸
-    location: "France"
-    followers: 8420
-    engagement: 737
-    commentsToLikes: 0.074574
-    id: cka6pycwdlfis0i78kni2pawj
+    followers: 3970
+    engagement: 1363
+    commentsToLikes: 0.007531
+    id: ckbqiox4m3xl10j23duzacifv
     verified: false
-    hashtags: "#routine, #zoomgrosplan, #guadeloupe, #healthyrecipe"
+    hashtags: "#cooking, #pourtoi, #cookislifefr, #foryou"
+  - username: "audreyskitchen"
+    fullname: >-
+      Audrey’s Kitchen
+    bio: >-
+      ❤️ Baking and cooking lover ❤️ ❤️ it’s all about cravings ❤️
+    location: "France"
+    followers: 6353
+    engagement: 780
+    commentsToLikes: 0.020174
+    id: ckav1tugp7xk50j234v8wrgw2
+    verified: false
+    hashtags: "#dessert, #recettefacile, #recipes, #beyoncesong"
+  - username: "toufuoff"
+    fullname: >-
+      𝖙𝖔𝖚𝖋𝖚🍋
+    bio: >-
+      |🌜16yo🌛| |📸Instagram➪Toufu.mg🍓 JE FOLLOW MES ABONNÉS D’INSTA ➪52.0K🐧
+    location: "France"
+    followers: 52200
+    engagement: 2510
+    commentsToLikes: 0.184745
+    id: ckciuky0m0ady0j239d1u1hri
+    verified: false
+    hashtags: "#toufuoff, #cuisine, #rouet, #pourtoi"
+  - username: "sweetlouchie"
+    fullname: >-
+      Sweet Louchie
+    bio: >-
+      🎨Artiste amatrice🎨 💕Roller Derby💕 Half-Blood Queen #10 💞 📸Model photo📸
+    location: "France"
+    followers: 39000
+    engagement: 1461
+    commentsToLikes: 0.019561
+    id: cka63f4me43ez0i7853avgvk7
+    verified: false
+    hashtags: "#sports, #tatouage, #motivation, #tattoogirl"
+  - username: "rose_2b"
+    fullname: >-
+      Rose Guiseppi
+    bio: >-
+      Corsica☀️🐬 20 ans💁🏼‍♀️ https://youtu.be/wKCrxwRLAnM
+    location: "France"
+    followers: 30600
+    engagement: 1216
+    commentsToLikes: 0.018968
+    id: ckb0oycxdeyd60j23t5df7jln
+    verified: false
+    hashtags: "#music, #newtrend, #fyp, #foryou"
   - username: "lousbii"
     fullname: >-
       Nikita_mere
+    bio: >-
+      Insta: lousbii 🔫🦁
     location: "France"
-    followers: 2271
-    engagement: 835
-    commentsToLikes: 0.030176
+    followers: 2559
+    engagement: 1201
+    commentsToLikes: 0.015251
     id: ckae1eymuokob0i78qsgjpflr
     verified: false
-    hashtags: "#niska, #lalcoolcestmal, #jaideadca, #bad"
-  - username: "cook_and_record"
+    hashtags: "#humor, #cooking, #fyp, #pourtoi"
+  - username: "chocolatseve"
     fullname: >-
-      cook_and_record
+      Arthur Sève & Richard Sève
+    bio: >-
+      Maître Pâtissier Chocolatier 👨🏻‍🍳 Académicien du Chocolat 🇫🇷 #chocolatseve
     location: "France"
-    followers: 474867
-    engagement: 1510
-    commentsToLikes: 0.006361
-    id: ck9fcsyodlfc00j7832x1znsk
+    followers: 244600
+    engagement: 856
+    commentsToLikes: 0.015954
+    id: ckamm4lgpyz710i78eircbw9f
     verified: true
-    hashtags: "#chocolat, #wedareyou, #dessert, #travel"
+    hashtags: "#chocolatier, #chocolatseve, #pastryart, #cooking"
+  - username: "lgazzy"
+    fullname: >-
+      Lili-Rose
+    bio: >-
+      Heyyyyy I’m Lili-Rose, I cook from the heart 💘
+    location: "France"
+    followers: 134600
+    engagement: 1249
+    commentsToLikes: 0.004110
+    id: cka6be8vozze80i786xm2aa11
+    verified: false
+    hashtags: "#fyp, #tiktokacademie, #cooking, #cuisine"
   - username: "bsraw"
     fullname: >-
       Bsraw
+    bio: >-
+      
     location: "France"
-    followers: 7484
-    engagement: 859
-    commentsToLikes: 0.019770
+    followers: 10100
+    engagement: 760
+    commentsToLikes: 0.016951
     id: ck9skca9i83jy0j78y69i3qsi
     verified: false
-    hashtags: "#cook, #salade, #grandpourtoi, #pourlapage"
-  - username: "annataniaguerra"
+    hashtags: "#pourlaphoto, #cuisine, #cooking, #recette"
+  - username: "helenask_"
     fullname: >-
-      annataniaguerra
+      🦋 Veri On Tiktok 🦋
+    bio: >-
+      Kdrama Lover 💻 𝒫𝑜𝓈𝒾𝓉𝒾𝓋𝑒𝓈 𝒱𝒾𝒷𝑒𝓈 𝒪𝓃𝓁𝓎 🤞🏼 Foodie 🍜🔥
     location: "France"
-    followers: 18680
-    engagement: 1017
-    commentsToLikes: 0.029996
-    id: ck9fcshlxlbkn0j78lv0pznin
+    followers: 7520
+    engagement: 617
+    commentsToLikes: 0.051569
+    id: ck9fx9xjn5n130j7891ti6grj
     verified: false
-    hashtags: "#couple, #enfindehors, #mcdonalds, #bestfriend"
-  - username: "pereetfishrestaurant"
-    fullname: >-
-      Père & Fish
-    location: "France"
-    followers: 3870
-    engagement: 761
-    commentsToLikes: 0.018201
-    id: cka0vlc04z1lo0i78seahyynz
-    verified: false
-    hashtags: "#child, #cabillaud, #aioli, #comedy"
-  - username: "lgazzy"
-    fullname: >-
-      Lgazzy
-    location: "France"
-    followers: 12076
-    engagement: 991
-    commentsToLikes: 0.008831
-    id: cka6be8vozze80i786xm2aa11
-    verified: false
-    hashtags: "#skills, #avocado, #crepes, #bagel"
-  - username: "cii_ndye"
-    fullname: >-
-      Dydie
-    location: "France"
-    followers: 4962
-    engagement: 831
-    commentsToLikes: 0.022161
-    id: ck9fcswx2lev30j78uro0cnmt
-    verified: false
-    hashtags: "#iloveyou, #confiture, #amstaff, #gourmandise"
-  - username: "chocolatseve"
-    fullname: >-
-      Richard Sève
-    location: "France"
-    followers: 2875
-    engagement: 134
-    commentsToLikes: 0.017248
-    id: ckamm4lgpyz710i78eircbw9f
-    verified: false
-    hashtags: "#peinture, #foudepatisserie, #relaisdessert, #cours"
+    hashtags: "#xyzbca, #duo, #makeup, #me"
 ---

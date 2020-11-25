@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top vegan TikTok influencers in United Kingdom in 2020. Most popular hashtags: #asmr #makeup #animallover #bunny.
+  Find top vegan TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryoupage #vegan #foryou.
 platform: TikTok
+hits: 214
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 214 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "bolt.beauty"
+  - username: "sanctuaryvegan"
     fullname: >-
-      Bolt Beauty
+      Matthew Sanctuary
+    bio: >-
+      Vegan 🌱 musician 🎵 Following back 💯 songwriter 🔥for @mattyglilwinter
     location: "United Kingdom"
-    followers: 6587
-    engagement: 2015
-    commentsToLikes: 0.048048
-    id: ck92u6361ku0n0j78bz7e9v1x
+    followers: 9066
+    engagement: 1924
+    commentsToLikes: 0.211800
+    id: ckcj5asmo5m4b0j23pedom2ma
     verified: false
-    hashtags: "#guashatutorial, #relaxingsounds, #summervibes, #igotanewlife"
-  - username: "roxythezoologist"
+    hashtags: "#youbettheydie, #veganchallenge, #voiceeffects, #vegan"
+  - username: "rockchicknatxxx"
     fullname: >-
-      Roxy the Zoologist
+      Natalie Johns
+    bio: >-
+      Vegan rockchick who loves animals, Please no negativity.
     location: "United Kingdom"
-    followers: 7061
-    engagement: 2073
-    commentsToLikes: 0.093924
-    id: ck8hoe63nuse20j78araz2144
+    followers: 6668
+    engagement: 1505
+    commentsToLikes: 0.262266
+    id: ckbqpax8za51e0j23xnu5glis
     verified: false
-    hashtags: "#memories, #viral, #bunnies, #bunny"
-  - username: "vegancherry"
+    hashtags: "#fyp, #over30, #duet, #foryou"
+  - username: "carmbands"
     fullname: >-
-      tara 🌻
+      carm
+    bio: >-
+      🏳️‍🌈 she/her vegan th0t defund the police THANK YOU FOR 14K🥺!!!
     location: "United Kingdom"
-    followers: 9988
-    engagement: 1880
-    commentsToLikes: 0.034237
-    id: ck8ouyalqroto0j788mordurq
+    followers: 14900
+    engagement: 3472
+    commentsToLikes: 0.032013
+    id: ckd1a59c4s3550j23gf1z6rs0
     verified: false
-    hashtags: "#veganbaking, #cottagecore, #asmr, #dalgonacoffee"
-  - username: "pinksaladldn"
+    hashtags: "#wlw, #blacklgbt, #alt, #bisexual"
+  - username: "miaslifeoficial"
     fullname: >-
-      Vegan Lipgloss 🌸
+      Mia Fizz
+    bio: >-
+      15 💕 Vegan 🌱 YouTuber 📽 FOLLOW TO BECOME A #MIACORN 🦄💜
     location: "United Kingdom"
-    followers: 955280
-    engagement: 2077
-    commentsToLikes: 0.017840
-    id: ck9k4dimzs1dl0j78x1rpf3c2
+    followers: 416100
+    engagement: 1983
+    commentsToLikes: 0.021431
+    id: ckbbshg22fzeh0j23p5s9emra
     verified: false
-    hashtags: "#lipgloss, #guess, #oil, #barbiegirl"
-  - username: "emicosuk"
+    hashtags: "#fyp, #bananadrop, #comedy, #foryou"
+  - username: "t1ddiez_gay"
     fullname: >-
-      𝕰𝖒𝖎
+      Harriet 🏳️‍🌈
+    bio: >-
+      🏳️‍🌈 They/she North west 📍16 Vegan BLM
     location: "United Kingdom"
-    followers: 73824
-    engagement: 2209
-    commentsToLikes: 0.027877
-    id: ck80nrdnbe5os0j78l5ymjkq5
+    followers: 8717
+    engagement: 3059
+    commentsToLikes: 0.029660
+    id: ckcekex7ctrhp0j23rggdj7ij
     verified: false
-    hashtags: "#peach, #stickershop, #foryoupage, #onmyown"
-  - username: "moocyluu"
-    fullname: >-
-      Lucy Holland
-    location: "United Kingdom"
-    followers: 2095
-    engagement: 1069
-    commentsToLikes: 0.058289
-    id: ckamxxdoqf0j90i78om6srre3
-    verified: false
-    hashtags: "#rainbow, #pierced, #obviously, #misogyny"
-  - username: "beauty.i.am"
-    fullname: >-
-      BEAUTY I AM 💋
-    location: "United Kingdom"
-    followers: 5722
-    engagement: 1235
-    commentsToLikes: 0.157140
-    id: ck9f9qt5q7xs10j78jpvyb1ig
-    verified: false
-    hashtags: "#customkeychain, #keyrings, #keychain, #lipglosstubes"
-  - username: "maxim1111on"
-    fullname: >-
-      Max Hindle
-    location: "United Kingdom"
-    followers: 79129
-    engagement: 1412
-    commentsToLikes: 0.078570
-    id: ck8ouybrdrp610j78kebhdqq3
-    verified: false
-    hashtags: "#fitness, #lawofattraction, #money, #glowup"
+    hashtags: "#lgbtqplus, #nonbinary, #enby, #alternative"
   - username: "spectrumcollections"
     fullname: >-
       Spectrum Collections
+    bio: >-
+      British Beauty Brand 💖 We design the tools, you create Beauty ✨ 🌿 Vegan & CF
     location: "United Kingdom"
-    followers: 13257
-    engagement: 1786
-    commentsToLikes: 0.042575
+    followers: 19100
+    engagement: 1863
+    commentsToLikes: 0.102526
     id: ck8f7g6cu31d40j78gzyejq82
     verified: false
-    hashtags: "#styling, #friday, #goldenglow, #foryouppage"
-  - username: "soapybubz"
+    hashtags: "#makeupbrushes, #pantherinepalette, #halloween, #eyeshadowswatches"
+  - username: "roxythezoologist"
     fullname: >-
-      Sophia Gaston
+      Roxy the Zoologist
+    bio: >-
+      Wildlife Filmmaker & Presenter📸 Vegan🌱 IG@roxythezoologist YouTube ⬇️🎥
     location: "United Kingdom"
-    followers: 2014
-    engagement: 497
-    commentsToLikes: 0.041598
-    id: ckaclz8vphnba0i78widq5tq3
+    followers: 6997
+    engagement: 2038
+    commentsToLikes: 0.054605
+    id: ck8hoe63nuse20j78araz2144
     verified: false
-    hashtags: "#painting, #whatiatetoday, #tezzaapp, #blooper"
+    hashtags: "#puppy, #wildlife, #petsoftiktok, #cute"
+  - username: "beauty.i.am"
+    fullname: >-
+      BEAUTY I AM 💋
+    bio: >-
+      Founder:@itsmir.i.am Your fave bedazzled Glosses & Accessories! 🤩 Vegan 🌱
+    location: "United Kingdom"
+    followers: 36800
+    engagement: 1657
+    commentsToLikes: 0.070052
+    id: ck9f9qt5q7xs10j78jpvyb1ig
+    verified: false
+    hashtags: "#pinklipgloss, #nudelipgloss, #businesstiktok, #lipglossmaking"
+  - username: "bolt.beauty"
+    fullname: >-
+      Bolt Beauty
+    bio: >-
+      Beauty made easy (wherever you are). Biodegradable, vegan, super cute 🌏💙⚡️
+    location: "United Kingdom"
+    followers: 43000
+    engagement: 1544
+    commentsToLikes: 0.034828
+    id: ck92u6361ku0n0j78bz7e9v1x
+    verified: true
+    hashtags: "#biodegradable, #myskin, #myskincare, #asmrs"
+  - username: "solofinity"
+    fullname: >-
+      SoloFinity 🌱💚
+    bio: >-
+      🐔 Vegan for the animals 🐮 🌱 Plant based for health 🌱 ⚠️ FACE REVEAL ⚠️👇🏽
+    location: "United Kingdom"
+    followers: 17600
+    engagement: 851
+    commentsToLikes: 0.535647
+    id: ckcpi6in3hrzs0j23gk8r7xbo
+    verified: false
+    hashtags: "#vegan, #vegans, #nutritionist, #govegan"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In Australia In 2020
 description: >-
-  Find top chefs TikTok influencers in Australia in 2020. Most popular hashtags: #chef #restaurant #homealone #funny.
+  Find top chefs TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #chef #foryou #cooking.
 platform: TikTok
+hits: 30
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in Australia for you to contact.
 profiles:
-  - username: "jordansarahhartley"
+  - username: "the_achayans"
+    fullname: >-
+      Nibin Babu 
+    bio: >-
+      Kollam ✈️ Brisbane Chef 👨🏻‍🍳 #ozmallutiktokers Text me in insta to know me 😇
+    location: "Australia"
+    followers: 6850
+    engagement: 2352
+    commentsToLikes: 0.065500
+    id: ckaij81q2dtrk0i788tkcagg3
+    verified: false
+    hashtags: "#foryoupage, #kattankaappi, #trending, #viral"
+  - username: "kgwill"
+    fullname: >-
+      kgwill
+    bio: >-
+      🇦🇺 *chef’s kiss*
+    location: "Australia"
+    followers: 73800
+    engagement: 1182
+    commentsToLikes: 0.016146
+    id: ckdckpttvmr9f0j23sct0veh2
+    verified: false
+    hashtags: "#familythings, #fyp, #petstory, #retailtherapy"
+  - username: "raaaachyp"
+    fullname: >-
+      Rachael Paterson
+    bio: >-
+      Melbourne girl with a new hat Instagram @raaaachyp Pastry chef Doggo lover
+    location: "Australia"
+    followers: 3651
+    engagement: 557
+    commentsToLikes: 0.031395
+    id: ckcjapzly8k0m0j230oipwvtk
+    verified: false
+    hashtags: "#covid19, #cake, #fyp, #foryou"
+  - username: "jordsarah"
     fullname: >-
       Jordan
+    bio: >-
+      Chef Business owner IG: Jordanhartley Comedian
     location: "Australia"
-    followers: 63253
-    engagement: 439
-    commentsToLikes: 0.022127
+    followers: 73900
+    engagement: 585
+    commentsToLikes: 0.015064
     id: ck8hqqh015b2g0j78cv2mmbdj
     verified: false
-    hashtags: "#freak, #bringitback, #food, #imhighaf"
-  - username: "robbiebell8"
+    hashtags: "#chef, #viral, #fyp, #viraltiktok"
+  - username: "zee_cooking"
     fullname: >-
-      Robbie Bell 
+      Zak.osta
+    bio: >-
+      Hakuna mattata 😃... only if it was that simple! Ig: zee_cooking
     location: "Australia"
-    followers: 245955
-    engagement: 719
-    commentsToLikes: 0.016215
-    id: ck84mbt55n1bz0j78tzao6qkb
+    followers: 13600
+    engagement: 516
+    commentsToLikes: 0.042700
+    id: ckbf4edzisryc0j23zr43lbjl
     verified: false
-    hashtags: "#tiktokdrink, #fruit, #cookingmadeeasy, #frenchfood"
+    hashtags: "#food, #naturevibes, #chef, #timefortenet"
   - username: "sweetscertified"
     fullname: >-
       Sweets Certified
+    bio: >-
+      🍰 The Most Amazing Sweets & Pastry Online! 🍫 Follow us on Insta!
     location: "Australia"
-    followers: 429467
-    engagement: 1394
-    commentsToLikes: 0.005042
+    followers: 477800
+    engagement: 1512
+    commentsToLikes: 0.003706
     id: ck81q44yrfryn0j7876448tkb
     verified: false
-    hashtags: "#sweet, #satisfy, #delicious, #coffee"
+    hashtags: "#sweetscertified, #yummy, #baking, #sweets"
   - username: "justslapit"
     fullname: >-
       Christian Grant
+    bio: >-
+      Just a silly Aussie bogan slapping dinner IG - @justslapitcooking
     location: "Australia"
-    followers: 26575
-    engagement: 778
-    commentsToLikes: 0.013597
+    followers: 49900
+    engagement: 786
+    commentsToLikes: 0.011471
     id: ckakob3y4al3r0i7847qai05v
     verified: false
-    hashtags: "#prawns, #pork, #porkbelly, #fishnchips"
-  - username: "burntpizza89"
+    hashtags: "#slapit, #cookinghack, #fyp, #cooking"
+  - username: "vishuaro1"
     fullname: >-
-      Tom🙂
+      🔥 𝕄ℝ ☾ꫝꫀᠻ 🔥
+    bio: >-
+      Following my dreams ❤️
     location: "Australia"
-    followers: 64387
-    engagement: 2276
-    commentsToLikes: 0.018856
-    id: ck807d6pgq0da0j78ue0bsnh5
+    followers: 43400
+    engagement: 296
+    commentsToLikes: 0.019173
+    id: ckbktho9joilf0j237rrxkqwv
     verified: false
-    hashtags: "#connertas, #eyesonme, #newme, #checkitout"
-  - username: "karimdaddyslim"
+    hashtags: "#indian, #traveler, #cheflife, #happylife"
+  - username: "..oodie..hypehouse"
     fullname: >-
-      Karim
+      𝕆𝕠𝕕𝕚𝕖 𝕙𝕪𝕡𝕖 𝕙𝕠𝕦se
+    bio: >-
+      𝙰𝚞𝚍𝚒𝚝𝚒𝚘𝚗𝚜 𝚊𝚛𝚎 𝚘𝚙𝚎𝚗 𝚘𝚠𝚗𝚎𝚛𝚜: avocado - 𝚙𝚊𝚗𝚍𝚊
     location: "Australia"
-    followers: 33702
-    engagement: 1843
-    commentsToLikes: 0.008892
-    id: cka0xd8w86kqv0i78mt9b95un
+    followers: 2373
+    engagement: 3221
+    commentsToLikes: 0.165949
+    id: ckb93txackz6x0j23z46l1js0
     verified: false
-    hashtags: "#mansion, #bike, #animal, #lebanese"
-  - username: "memekingz0"
+    hashtags: "#bling, #bloxburg, #aesthetic, #fyp"
+  - username: "surajkc7"
     fullname: >-
-      Memekingz0
+      Suraj
+    bio: >-
+      Let’s have some fun 😂😂
     location: "Australia"
-    followers: 87853
-    engagement: 3990
-    commentsToLikes: 0.009264
-    id: ck9789w28786g0j78hpbsqifh
+    followers: 3336
+    engagement: 2136
+    commentsToLikes: 0.101297
+    id: ckb9hczbe6wl70j23cpf0hdpm
     verified: false
-    hashtags: "#womenpower, #forupage, #science, #hospital"
-  - username: "mattykash1"
-    fullname: >-
-      Matty Kash
-    location: "Australia"
-    followers: 20632
-    engagement: 1073
-    commentsToLikes: 0.021732
-    id: cka0uyq72wcxc0i78g1mq88gh
-    verified: false
-    hashtags: "#pumpitup, #cleaning, #bagraiders, #home"
-  - username: "davidorsteven"
-    fullname: >-
-      DavidorSteven 
-    location: "Australia"
-    followers: 36098
-    engagement: 609
-    commentsToLikes: 0.027817
-    id: ck9noo8a7uypd0j78c24wt91m
-    verified: false
-    hashtags: "#shapes, #itscoronatime, #lifehack, #blooper"
-  - username: "lordjonwilliam"
-    fullname: >-
-      Jon
-    location: "Australia"
-    followers: 161463
-    engagement: 372
-    commentsToLikes: 0.039058
-    id: ck999t2kue62r0j78uaib87ay
-    verified: false
-    hashtags: "#nice, #positive, #plumber, #spoiled"
+    hashtags: "#nepalimuser, #fy, #binduandsuraj, #foryourpage"
 ---

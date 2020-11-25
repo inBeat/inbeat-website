@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Italy In 2020
 description: >-
-  Find top food TikTok influencers in Italy in 2020. Most popular hashtags: #pizza #italy #family #pasqua.
+  Find top food TikTok influencers in Italy in 2020. Most popular hashtags: #perte #neiperte #foryoupage #foryou.
 platform: TikTok
+hits: 261
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 261 TikTok influencers like this in Italy for you to contact.
 profiles:
-  - username: "giomadonna_official"
+  - username: "tortaoragione"
     fullname: >-
-      Giò Madonna
+      Tortaoragione
+    bio: >-
+      Marco 48 COVID-19 TiKToKer food blog
     location: "Italy"
-    followers: 4687
-    engagement: 1056
-    commentsToLikes: 0.096906
-    id: ckaciug794xm90i78rgf1reku
+    followers: 142400
+    engagement: 1737
+    commentsToLikes: 0.011472
+    id: ckbwg0r3q29ek0j23scerxa7y
     verified: false
-    hashtags: "#greece, #green, #news, #skill"
-  - username: "festfood"
+    hashtags: "#impararediverte, #tiktokfooditalia, #imparacontiktok, #losapevi"
+  - username: "matteo_battazza"
     fullname: >-
-      foodporn
+      Matteo_battazza
+    bio: >-
+      2002😈food blogger , Paolo Fox 2.0 CEO:ciboallacazzo 50k?🥰♥️
     location: "Italy"
-    followers: 48467
-    engagement: 1458
-    commentsToLikes: 0.020026
-    id: ck9aarliulri20j78fjcm582x
+    followers: 48700
+    engagement: 1796
+    commentsToLikes: 0.032372
+    id: ck8vshspldmie0j78wmn3kzl1
     verified: false
-    hashtags: "#biscuit, #love, #milkshake, #icecream"
+    hashtags: "#foryourpage, #foryou, #newtrend, #neiperte"
+  - username: "sissifacose"
+    fullname: >-
+      Sissi Fa Cose
+    bio: >-
+      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
+    location: "Italy"
+    followers: 3290
+    engagement: 335
+    commentsToLikes: 0.069037
+    id: ckdbqzqr1bzb40j23igguxv4i
+    verified: false
+    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
+  - username: "zerobudgetgardener"
+    fullname: >-
+      Zero Budget Gardener
+    bio: >-
+      Indian Woman, Story Teller, Growing veggies, Cooking Indian&Italian food
+    location: "Italy"
+    followers: 2317
+    engagement: 214
+    commentsToLikes: 0.055124
+    id: ckbf0h0iom65p0j23ejml35f3
+    verified: false
+    hashtags: "#troll, #zerobudgetgardener, #ancyan, #youtuber"
+  - username: "cataldihealth"
+    fullname: >-
+      Cataldi Health 
+    bio: >-
+      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
+    location: "Italy"
+    followers: 56000
+    engagement: 1861
+    commentsToLikes: 0.012609
+    id: ck8s5jvwzg8i50j785nktn2vv
+    verified: false
+    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
   - username: "foodmeal"
     fullname: >-
       foodporn
+    bio: >-
+      🍫 FOOD | FOODPORN | TASTY 🍫 🤤 FOLLOW ME 😋
     location: "Italy"
-    followers: 9821
-    engagement: 1536
-    commentsToLikes: 0.018186
+    followers: 27500
+    engagement: 1383
+    commentsToLikes: 0.001609
     id: ck9pm9jci887d0j788nlvcdbq
     verified: false
-    hashtags: "#crepes, #icecream, #pistacchio, #brownie"
-  - username: "ele_sini93"
-    fullname: >-
-      Elena Sinigaglia
-    location: "Italy"
-    followers: 19154
-    engagement: 756
-    commentsToLikes: 0.040243
-    id: ckacig8h63aqr0i7818tk57gu
-    verified: false
-    hashtags: "#gman, #pancakes, #fragole, #cereali"
-  - username: "singermelth"
-    fullname: >-
-      Melania Palmiero
-    location: "Italy"
-    followers: 3917
-    engagement: 734
-    commentsToLikes: 0.079447
-    id: cka0xl6q07l770i787j3jd0qu
-    verified: false
-    hashtags: "#serialkiller, #fail, #spiaggialibera, #foodporn"
+    hashtags: ""
   - username: "fabrizio_sina"
     fullname: >-
       fabrizio_sina
+    bio: >-
+      Italian 🇮🇹 Dance 🤟🏻 Food 🍕 Fashion 😎
     location: "Italy"
-    followers: 9192
-    engagement: 714
-    commentsToLikes: 0.069237
+    followers: 10200
+    engagement: 674
+    commentsToLikes: 0.057070
     id: ck8tulwywsova0j7880zdze76
     verified: false
-    hashtags: "#simpaticissimi, #teamrisata, #love, #scherzo"
-  - username: "allanticovinaio"
-    fullname: >-
-      All’Antico Vinaio
-    location: "Italy"
-    followers: 127474
-    engagement: 1383
-    commentsToLikes: 0.022767
-    id: ck8hphzpwzlkf0j780f81rbfh
-    verified: false
-    hashtags: "#desifood, #chiaraferragni, #florence, #smartwork"
-  - username: "eleonora_pasquini0"
-    fullname: >-
-      eleonora_pasquini
-    location: "Italy"
-    followers: 4570
-    engagement: 692
-    commentsToLikes: 0.028257
-    id: cka0l212gp36y0i78apo1ebdl
-    verified: false
-    hashtags: "#eco, #cooking, #quarantine, #pasqua"
-  - username: "fao"
-    fullname: >-
-      UN's Food & Ag Org
-    location: "Italy"
-    followers: 140332
-    engagement: 309
-    commentsToLikes: 0.017954
-    id: ck8j4fxeh218u0j78hd39tdov
-    verified: true
-    hashtags: "#foodwaste, #fao75, #forza, #italia"
+    hashtags: "#neiperte, #divertente, #challenge, #bambini"
   - username: "food_lover.it"
     fullname: >-
       Nutella & Food
+    bio: >-
+      Account ufficiale di Nutella & Food Per pubblicità: sdpsocialmedia1@gmail.com
     location: "Italy"
     followers: 10421
     engagement: 1296
     commentsToLikes: 0.024137
     id: ck8vx6henqbnw0j78ctalf8mx
     verified: false
-    hashtags: "#song, #follow4follow, #likeforlike, #choco"
+    hashtags: "#tiktok, #pertee, #nutella, #tiktokfood"
+  - username: "matteo.paolini.88"
+    fullname: >-
+      Matteo Paolini
+    bio: >-
+      Fitness & food lover 🇮🇹Italian athlete🇮🇹 ⬇️My Instagram for more⬇️
+    location: "Italy"
+    followers: 427000
+    engagement: 1051
+    commentsToLikes: 0.006438
+    id: ckc30kog0r9g60j23d6ll9w6n
+    verified: false
+    hashtags: "#perte, #foryoupage, #sport, #fitnessmotivation"
+  - username: "festfood"
+    fullname: >-
+      foodporn
+    bio: >-
+      🍫FOOD | FOODPORN | YUMMY🍫 😋 FOLLOW ME 😋
+    location: "Italy"
+    followers: 54400
+    engagement: 1069
+    commentsToLikes: 0.007100
+    id: ck9aarliulri20j78fjcm582x
+    verified: false
+    hashtags: ""
 ---

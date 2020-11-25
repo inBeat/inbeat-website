@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Chicago In 2020
 description: >-
-  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #stayhomesavelives #mothersday2020 #supportlocal #choosechicago.
+  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #food #newyork.
 platform: Instagram
+hits: 172
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 172 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "bestdatefood"
+  - username: "sdkmakeup"
     fullname: >-
-      Best Date Food | Chicago
+      Sameen Khan
+    bio: >-
+      Chicago makeup artist. MakeupbyMario Certified. Email: sdkmakeup@gmail.com for bookings😊 SnapChat: Sameen.dar
     location: "United States"
-    followers: 15558
-    engagement: 434
-    commentsToLikes: 0.080870
-    id: ck5hlraaykpnr0i116t65d99k
+    followers: 21857
+    engagement: 184
+    commentsToLikes: 0.075189
+    id: ck0w21pt7m7lc0i19vtc838af
     verified: false
-    hashtags: "#chicagorestaurantweek, #nationalmeatballday, #parmesancheese, #bestdatefood"
+    hashtags: "#colourpopcosmetics, #thepakistanibride, #dulhaanddulhan, #weddinginspo"
   - username: "lettherebefood_"
     fullname: >-
       Let There Be Food_ | Chicago
+    bio: >-
+      📍CHICAGO 📲 #YelpElite @yelpchicago ✉️ lettherebefoodchi@gmail.com #️⃣: lettherebefood_
     location: "United States"
-    followers: 5322
-    engagement: 620
-    commentsToLikes: 0.320112
+    followers: 5522
+    engagement: 476
+    commentsToLikes: 0.296129
     id: ckaornqyfo1hi0i78xhtxgo7f
     verified: false
-    hashtags: "#tacotuesday, #pressseltzer, #enjoypress, #hbtpress"
+    hashtags: "#sponsored, #oakbrookcenter, #bettertogether, #nationalcoffeeday"
+  - username: "bestdatefood"
+    fullname: >-
+      Best Date Food | Chicago
+    bio: >-
+      #BestDateFood 📍 Chicago, IL 📩 BestDateFood@gmail.com
+    location: "United States"
+    followers: 29944
+    engagement: 336
+    commentsToLikes: 0.062954
+    id: ck5hlraaykpnr0i116t65d99k
+    verified: false
+    hashtags: "#wickerpark, #chicagofall, #chigram, #chicagobucketlist"
   - username: "likefoodchicago"
     fullname: >-
       Like Food Chicago
+    bio: >-
+      🤤 We’re all about food 24/7 - 365! 📍 Chicago 🔌 Founder: @FeastBobo 🖼 Hashtag #LikeFoodChicago
     location: "United States"
-    followers: 128157
-    engagement: 207
-    commentsToLikes: 0.023785
+    followers: 128925
+    engagement: 210
+    commentsToLikes: 0.009580
     id: ck5zjfmt2hi2d0i14zhet6y7i
     verified: false
-    hashtags: "#likefoodchicaho, #tacotuesday, #likefoodchicago, #vegan"
+    hashtags: "#vegan, #likefoodchicago, #likefoodchicaho, #tacotuesday"
   - username: "chicago.wine.dude"
     fullname: >-
       Nick
+    bio: >-
+      Wine Food Trips Chicagowinedude@gmail.com
     location: "United States"
-    followers: 38059
-    engagement: 360
-    commentsToLikes: 0.031782
+    followers: 41939
+    engagement: 352
+    commentsToLikes: 0.045844
     id: ckaow43487c4u0i785cmvnwgb
     verified: false
-    hashtags: "#itsfromnapa"
-  - username: "fromuyenwithlove"
-    fullname: >-
-      Uyen Tran ✨
-    location: "United States"
-    followers: 16862
-    engagement: 238
-    commentsToLikes: 0.097010
-    id: ck14kh6nypi0t0i19e83bp870
-    verified: false
-    hashtags: "#quarantinecooking, #pancake, #mochi, #mychicagothursday"
+    hashtags: "#itsfromnapa, #thisisournapa, #grahambeckpartner"
   - username: "fabsoopark"
     fullname: >-
       Chicago Food & Travel
+    bio: >-
+      📕: author of “chicago food crawls” 🍣: @fabfoodchicago ✈️: @fabfoodtravels 👧🏻: @fabfoodbaby 🏆: @zagat top💯iger 📍: chicago 💌soo@fabfoodchicago.com
     location: "United States"
-    followers: 37207
-    engagement: 122
-    commentsToLikes: 0.042160
+    followers: 38510
+    engagement: 114
+    commentsToLikes: 0.040859
     id: ck0w3iuzbtn160i199zlvm9qx
     verified: false
-    hashtags: "#quarantinebirthday, #madetodeliver, #cerealboxhack, #cerealboxchallenge"
+    hashtags: "#quarantinelife, #dailypizza, #fabfoodbaby, #fabfoodchicago"
   - username: "312food"
     fullname: >-
       Chicago Food Blogger • 312food
+    bio: >-
+      💗 Chicago food & fun!! 🙋🏻‍♀️ 𝚋𝚢 𝙴𝚛𝚒𝚗 𝙱𝚢𝚛𝚗𝚎 💌 312food@gmail.com 💥 Chicago food & travel guides ↙️↙️
     location: "United States"
     followers: 109914
     engagement: 134
     commentsToLikes: 0.037378
     id: ck5zjfr9thicd0i14509zhc7z
     verified: false
-    hashtags: "#stayhomesavelives, #flattenthecurvechi, #alonetogether, #hellmannspartner"
-  - username: "wgnnews"
+    hashtags: "#marianospartner, #homeruninnpartner, #stayhomesavelives, #flattenthecurvechi"
+  - username: "best.texas"
     fullname: >-
-      WGN News
+      📿TEXAS📿
+    bio: >-
+      🌇Best people Texas 📸Send your fotos in Direct 📌Mark us on your foto🏞 #besttexas
     location: "United States"
-    followers: 147977
-    engagement: 78
-    commentsToLikes: 0.019546
-    id: ck6tnl143a26m0j71bqpwgrv6
-    verified: true
-    hashtags: "#chicagohome, #teachers, #followingchicago, #mothersday2020"
-  - username: "mallorykorol"
-    fullname: >-
-      Chicago Food With Mal
-    location: "United States"
-    followers: 27310
-    engagement: 183
-    commentsToLikes: 0.109527
-    id: ck9hb1us6f0rt0j78i2izbw9g
+    followers: 41065
+    engagement: 290
+    commentsToLikes: 0.007429
+    id: ck9wfuyrnqltp0j78upy04gjz
     verified: false
-    hashtags: "#tbt, #supportlocal, #thegreatamericantakeout"
-  - username: "inspiringkitchen"
+    hashtags: "#style, #america, #newyorkphoto, #boston"
+  - username: "chicagofoodgoals"
     fullname: >-
-      Chicago Food🌷Travel🌷Lifestyle
+      CHICAGO FOOD GOALS
+    bio: >-
+      Foodies Unite! ✊ Tag #CHICAGOFOODGOALS to be featured! ✉️: chicagofoodgoals@gmail.com
     location: "United States"
-    followers: 47738
-    engagement: 116
-    commentsToLikes: 0.116913
-    id: ck9wowj1k6voo0j785tdbhxiy
+    followers: 33592
+    engagement: 231
+    commentsToLikes: 0.074340
+    id: ck5zneeyyoaxi0i14i27pz6rx
     verified: false
-    hashtags: "#pizzapizzapizza, #chocolatecakes, #eeeeeats, #tacotuesdays"
+    hashtags: "#breakfastclub, #foodlovers, #foodgram, #dessert"
+  - username: "top.newyork"
+    fullname: >-
+      🇺🇸New York🇺🇸
+    bio: >-
+      🌇Best people NY 📸Send your fotos in Direct 📌Mark us on your foto🏞 #topnewyork
+    location: "United States"
+    followers: 42057
+    engagement: 221
+    commentsToLikes: 0.014362
+    id: ck9weibgnkefb0j78iosqzv22
+    verified: false
+    hashtags: ""
 ---

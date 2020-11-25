@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top chefs Instagram influencers in Indonesia in 2020. Most popular hashtags: #ramadhan #stayhome #bali #puasa.
+  Find top chefs Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #berbagiresep #instafood #stayathome.
 platform: Instagram
+hits: 65
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 65 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "faustaottoni"
-    fullname: >-
-      Fausta Ottoni Sasi
-    location: "Indonesia"
-    followers: 35696
-    engagement: 255
-    commentsToLikes: 0.461058
-    id: ck9wi284w0ifg0j78o0ts3z8c
-    verified: false
-    hashtags: "#aslinyadirumah, #passthebrushchallenge, #passthebrush, #parfumantiseptik"
-  - username: "chitrachef"
-    fullname: >-
-      Chef Chitra
-    location: "Indonesia"
-    followers: 60499
-    engagement: 299
-    commentsToLikes: 0.019888
-    id: ck6txw6om07gq0j71zn03ugly
-    verified: true
-    hashtags: "#fillerbibir, #soulfood, #travel, #artist"
-  - username: "yannalinz_mts"
-    fullname: >-
-      🔥林雅娜🔥 | OPEN ENDORSEMENT 📩 DM
-    location: "Indonesia"
-    followers: 53933
-    engagement: 185
-    commentsToLikes: 0.352989
-    id: ckaosl4svrxyc0i781fldegzo
-    verified: false
-    hashtags: "#parfumlokal, #openendorsement, #kimchivege, #sbmg25"
   - username: "rickydangos"
     fullname: >-
       Dangos
+    bio: >-
+      Skateboarder Longboarder coach @bandungskateschool Chef at @rm.pondokkapau
     location: "Indonesia"
-    followers: 5385
-    engagement: 457
-    commentsToLikes: 0.084624
+    followers: 5483
+    engagement: 488
+    commentsToLikes: 0.090045
     id: ck5zj7bqbh2nu0i14ymwhzpm5
     verified: false
-    hashtags: "#jalanjalan, #rip, #staystrong, #gasspoll"
-  - username: "hiro.sato.sushi"
-    fullname: >-
-      Hiroyuki Sato
-    location: "Indonesia"
-    followers: 20575
-    engagement: 503
-    commentsToLikes: 0.009820
-    id: ck5ciu6z3tdo50i11tbbxw0nw
-    verified: false
-    hashtags: "#merrychristmas, #omaha, #burjkhalifa, #philippines"
+    hashtags: "#coronakoplak, #alhamdullilah, #skateboardingisfun, #jjs"
   - username: "serlianarvich.co"
     fullname: >-
       Serlianarvich.co
+    bio: >-
+      I share my story&passion Multitalented|Mom|Wife|MUA|Model|chef| Photographer👇🏾 @serlianarimperfection Playboy Cover model/playmate ⬇️View my world⬇️
     location: "Indonesia"
     followers: 40423
     engagement: 400
     commentsToLikes: 0.018597
     id: ck5c6u18d66xk0i11p89bwcgp
     verified: false
-    hashtags: "#proudmoment, #proudmother, #mothersday, #balimodel"
-  - username: "paulauchoa_"
+    hashtags: "#proud, #proudmoment, #happymothersday, #pregnancy"
+  - username: "chitrachef"
     fullname: >-
-      | Paula Uchoa |
+      Chef Chitra
+    bio: >-
+      Mama for @soul_jakarta YouTube : Chef Chitra
     location: "Indonesia"
-    followers: 5648
-    engagement: 1070
-    commentsToLikes: 0.092436
-    id: ck9h9mg4p92cc0j78v27dfacv
-    verified: false
-    hashtags: "#stayhome, #rawvegan, #covid, #athome"
-  - username: "chefcristianmarino"
+    followers: 60417
+    engagement: 267
+    commentsToLikes: 0.029723
+    id: ck6txw6om07gq0j71zn03ugly
+    verified: true
+    hashtags: "#loungewear, #diet, #blondegoal, #icyblonde"
+  - username: "meibasuki"
     fullname: >-
-      Cristian Marino
+      MeiBasuki
+    bio: >-
+      Indonesian 😎😍 🏠 Banjarbaru Kalsel ❤ baking & cooking BUKAN CHEF ❤ Foodphotography MENCARI RESEP: KLIK ---》 #meib_namamasakan
     location: "Indonesia"
-    followers: 19339
-    engagement: 383
-    commentsToLikes: 0.067868
-    id: ck14jgih2k84j0i19l3efh3zy
+    followers: 99423
+    engagement: 150
+    commentsToLikes: 0.126736
+    id: ck9woyze173cw0j78copmzi8n
     verified: false
-    hashtags: "#carciofi, #1maggio, #park, #cappuccino"
+    hashtags: "#cemilanenak, #snack, #doyanmakan, #yummyfood"
+  - username: "standbysteby"
+    fullname: >-
+      Steby Rafael
+    bio: >-
+      #Chef | #Host | Chef Ambassador Nestlé Carnation Indonesia @carnation.id
+    location: "Indonesia"
+    followers: 53305
+    engagement: 53
+    commentsToLikes: 0.046865
+    id: ck6uc0h3vcrs50j71zbxsph5t
+    verified: true
+    hashtags: "#explorasadirumahaja, #dalgonacoffee, #kreasilezatchallenge, #chefsteby"
+  - username: "yudabustara"
+    fullname: >-
+      Yuda Bustara
+    bio: >-
+      Culinary Diplomat. Urban Cook Chef. Any enquiries email info@yudabustara.com www.Yudabustara.com
+    location: "Indonesia"
+    followers: 94867
+    engagement: 196
+    commentsToLikes: 0.036386
+    id: ck15tsl4xjoka0i19bp1y4wsm
+    verified: true
+    hashtags: "#visitsingapore, #bersamapastisaniabisa, #saniaexclusivemasterclass, #passionmadepossible"
+  - username: "inspirationalchef"
+    fullname: >-
+      Desi Trisnawati - Jakarta
+    bio: >-
+      Chef/travel/food Winner Masterchef Indonesia 🇮🇩 S2 @meliponinihoney @pesona_katering_nusantara Inquiries : Cheftogoindonesia@gmail.com
+    location: "Indonesia"
+    followers: 40726
+    engagement: 86
+    commentsToLikes: 0.063913
+    id: ck6uc44nidebg0j712h9mtz6e
+    verified: false
+    hashtags: "#goodtime, #cook, #travel, #desitrisnawati"
+  - username: "lucy_bulur"
+    fullname: >-
+      Lucy_bulur
+    bio: >-
+      Ratu Kuliner Nusantara 🇮🇩 Chef & Owner @wahjanbulur 👩🏻‍🍳
+    location: "Indonesia"
+    followers: 2736
+    engagement: 836
+    commentsToLikes: 0.193166
+    id: ck9wgnjy1u5kx0j78tolzthdk
+    verified: false
+    hashtags: "#tiktok, #bhfyp, #lawak, #dagelan"
   - username: "chefnormanismail"
     fullname: >-
       Chef Norman
+    bio: >-
+      Father of 5 sons | Motorcycles Enthusiast @modenaindonesia chef Ambassador
     location: "Indonesia"
-    followers: 34655
-    engagement: 142
-    commentsToLikes: 0.066520
+    followers: 38689
+    engagement: 190
+    commentsToLikes: 0.047756
     id: ck6u8swbvth2g0j71v4der6lc
     verified: true
-    hashtags: "#repost, #chef, #sambalbali, #ramadhantrans7"
-  - username: "chefnaem"
+    hashtags: "#redwingboots, #chef, #biker, #indianmotorcycle"
+  - username: "tsaniwismono"
     fullname: >-
-      Naem Ramli
+      Tsani S Wismono
+    bio: >-
+      Mom of 3 👧👧👧 🍨All about food and cooking 🍳Bukan chef, cuma emak2 yang suka masak 🏠 Bogor
     location: "Indonesia"
-    followers: 31693
-    engagement: 251
-    commentsToLikes: 0.057942
-    id: ck9wdu1dhh9fr0j78jhcbexe4
+    followers: 18306
+    engagement: 161
+    commentsToLikes: 0.242446
+    id: ck9we5p91ipuf0j78jqaamgd0
     verified: false
-    hashtags: "#love, #hyppsensasi, #foods, #shrmzb"
+    hashtags: "#foodstagram, #cfh13, #doyancooking, #menurumahan"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Milan In 2020
 description: >-
-  Find top health Instagram influencers in Milan in 2020. Most popular hashtags: #health #staystrong #italia #outfitoftheday.
+  Find top health Instagram influencers in Milan in 2020. Most popular hashtags: #health #love #smile #nature.
 platform: Instagram
+hits: 104
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 104 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "animapop"
-    fullname: >-
-      Christian Monaco
-    location: "Italy"
-    followers: 15099
-    engagement: 864
-    commentsToLikes: 0.028631
-    id: ck6u4zcc06o5d0j7193ptsjkz
-    verified: false
-    hashtags: "#lucalaurenti, #svitati, #microphone, #ficodindia"
-  - username: "valerio_decarolis"
-    fullname: >-
-      Valerio De Carolis
-    location: "Italy"
-    followers: 65160
-    engagement: 470
-    commentsToLikes: 0.071865
-    id: ck5c236uiwgle0i11esyg3mrx
-    verified: false
-    hashtags: "#mare, #shoes, #hotel, #mfw2020"
-  - username: "loredanasea"
-    fullname: >-
-      Loredana
-    location: "Italy"
-    followers: 20869
-    engagement: 842
-    commentsToLikes: 0.127548
-    id: ck5hems0ptq0k0i114frybjhi
-    verified: false
-    hashtags: "#america, #travelblogger, #soul, #pool"
   - username: "aurilion_"
     fullname: >-
       𝓐𝓾𝓻𝓸𝓻𝓪 🐆
+    bio: >-
+      🇮🇹 Milan 📚 Health Care Assistant UniMi 📩collab/events: moroniofficial@gmail.com
     location: "Italy"
-    followers: 14308
-    engagement: 899
-    commentsToLikes: 0.168785
+    followers: 16821
+    engagement: 690
+    commentsToLikes: 0.093104
     id: ckap5am87awas0i786flt3d6h
     verified: false
-    hashtags: "#quarantena, #nomakeupdays, #fashionweek, #sanktmoritz"
-  - username: "alvarocasavechia"
+    hashtags: "#milanomarittima, #rexaline, #collezioneestiva, #occhialidasole"
+  - username: "susanna.messaggio"
     fullname: >-
-      Alvaro casavechia
+      Susanna Messaggio Official
+    bio: >-
+      Dottoressa e Psicopedagogista. Ufficio Stampa e pr nel mondo della medicina,salute, farmacia e benessere. 📥 collaborazioni: infojuan87@gmail.com
     location: "Italy"
-    followers: 18466
-    engagement: 412
-    commentsToLikes: 0.058844
-    id: ck5zv5pxs3mw20i14tqr5fiej
+    followers: 26648
+    engagement: 356
+    commentsToLikes: 0.046311
+    id: ck6txebosxcfo0j712k3au0ti
     verified: false
-    hashtags: "#fuck, #towel, #deceleration, #fashionweek"
+    hashtags: "#soul, #health, #force, #tv"
+  - username: "silviaf.it"
+    fullname: >-
+      Silvia Favale
+    bio: >-
+      @cryovis Physio & Trainer 🏋🏼 @buddyfit Live Trainer 🎥 Acrobatics Gymnastics Athlete 🥇🇮🇹 Coaching: silviafitcoach@gmail.com 📩
+    location: "Italy"
+    followers: 8098
+    engagement: 704
+    commentsToLikes: 0.031597
+    id: ckaos6q3tqc580i78me4gteg8
+    verified: false
+    hashtags: "#homeworkout, #happiness, #fitnessmodel, #challengeyourself"
+  - username: "gennilillio"
+    fullname: >-
+      Gennaro Lillio
+    bio: >-
+      📍Milan ▪️Fashion : @independent_mgmt ▪️TV & Cinema : @alexpacificomanagement
+    location: "Italy"
+    followers: 524390
+    engagement: 278
+    commentsToLikes: 0.057468
+    id: ck600sh30e6nr0i1443iydj9y
+    verified: true
+    hashtags: "#myself, #instagood, #summertime, #male"
+  - username: "giulia_peroni"
+    fullname: >-
+      Giulia Peroni
+    bio: >-
+      📍 Milan, Italy 📚 Biotecnologie 📲 Collaborations in DM 🍕 Ambassador @beatotemilano 🍔 Ambassador @mamma_milano
+    location: "Italy"
+    followers: 10499
+    engagement: 1523
+    commentsToLikes: 0.020501
+    id: ck8t1re9mwqh40j78khs4tgix
+    verified: false
+    hashtags: "#followme, #amazing, #life, #moda"
+  - username: "flavialauramanzoli"
+    fullname: >-
+      Flavia Laura Manzoli
+    bio: >-
+      🏃🏼‍♀️ Runner 🐶 Dogs lover 🎓 Bocconi University 📍 Milan, Italy 💌 fiaba93@hotmail.it
+    location: "Italy"
+    followers: 17990
+    engagement: 364
+    commentsToLikes: 0.115219
+    id: ck135occu2ew60i19irooo0rj
+    verified: false
+    hashtags: "#workout, #motivation, #instagood, #sunrise"
+  - username: "thomassignorelli"
+    fullname: >-
+      Thomas Signorelli
+    bio: >-
+      Choreographer 📍Milan Some Credits... Italia’s Got Talent | Dolce&Gabbana | Tim EPCC | Eurovision | The Voice of Italy... DM or email for business
+    location: "Italy"
+    followers: 7527
+    engagement: 582
+    commentsToLikes: 0.017420
+    id: ck9wf0cbhmpcv0j780ayp1t0t
+    verified: false
+    hashtags: "#dancing, #worldwidedance, #dancers, #beach"
   - username: "silvia.fascians"
     fullname: >-
       Silvia Fascians 💪🏽🌙
+    bio: >-
+      🤸🏽‍♀️Lo sport é passione, e le passioni salvano la vita. 🇮🇹Fitness & empowerment YouTuber 🎥 @myproteinit 💼@mccann_italy Economia & Marketing 🎓 📍Milan
     location: "Italy"
-    followers: 175109
-    engagement: 482
-    commentsToLikes: 0.013050
+    followers: 180541
+    engagement: 442
+    commentsToLikes: 0.010770
     id: ck6u5wjczc5ws0j71b0298dar
     verified: true
-    hashtags: "#vegan, #futbess, #memories, #biceps"
-  - username: "sonia_dedo"
+    hashtags: "#homeworkout, #bodypositivity, #healthylifestyle, #lovelife"
+  - username: "valerio_decarolis"
     fullname: >-
-      Sonia Barreca💎👑
+      Valerio De Carolis
+    bio: >-
+      🏡Puglia 🌴🌊 Based in Milan 💼🎓 🇮🇹 Italy 🇮🇹 USA exchange student 🇺🇸🇺🇸 Collabs📩 : valerio.decarolis00@gmail.com or direct
     location: "Italy"
-    followers: 20434
-    engagement: 919
-    commentsToLikes: 0.032035
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 65495
+    engagement: 395
+    commentsToLikes: 0.103921
+    id: ck5c236uiwgle0i11esyg3mrx
     verified: false
-    hashtags: "#colorful, #eyes, #turingirls, #lady"
-  - username: "instaflaviaso"
+    hashtags: "#fashion, #art, #italy, #milan"
+  - username: "omar.fiore"
     fullname: >-
-      Flavia Sodano
+      Omar Fiorentini
+    bio: >-
+      🚘 Abarth Punto Evo SS - 205Hp 💏 In Love - @saretta_tosi_ 🇮🇹 Milan
     location: "Italy"
-    followers: 54032
-    engagement: 362
-    commentsToLikes: 0.068373
-    id: ck8t5wt06bi6u0j78rmruzfe8
+    followers: 15205
+    engagement: 441
+    commentsToLikes: 0.009196
+    id: ck5hdydwgq16j0i119717g0nn
     verified: false
-    hashtags: "#keepsmiling, #lastshooting, #streetsgrammer, #fitwoman"
-  - username: "justineelizabethmattera"
-    fullname: >-
-      Justine Mattera
-    location: "Italy"
-    followers: 417042
-    engagement: 242
-    commentsToLikes: 0.031080
-    id: ck0vxgjpuysbn0i19jgbvzjvk
-    verified: true
-    hashtags: "#coincidance, #photoofday, #water, #beautiful"
-  - username: "samara.wierer"
-    fullname: >-
-      Samara🍉
-    location: "Italy"
-    followers: 18756
-    engagement: 364
-    commentsToLikes: 0.012072
-    id: ck6trw9ct1gib0j713oncv91w
-    verified: false
-    hashtags: "#bright, #sweaterweather, #day13, #bags"
+    hashtags: "#bilstein, #abarthpuntoevo, #abarthofficial, #cliors"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Australia In 2020
 description: >-
-  Find top vegan Instagram influencers in Australia in 2020. Most popular hashtags: # #earthday #vegan #animaliberation.
+  Find top vegan Instagram influencers in Australia in 2020. Most popular hashtags: #happiness #vegan #indyllew.
 platform: Instagram
+hits: 286
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 286 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "charlottecoquelin"
+  - username: "hashtagbjones"
     fullname: >-
-      CHARLOTTE COQUELIN 🦇🇫🇷
+      B Jones
+    bio: >-
+      Hubby to a 🐢 *1/3 Un-vegan* Daddy to Indy & a lil’ 🐦 Lifestyle entrepreneur 😬 Small biz owner👨‍💻👨‍💼👷‍♂️ Faith, Family, Freedom 🙏🏼👨‍👩‍👧‍👧🇺🇸
     location: "Australia"
-    followers: 26481
-    engagement: 347
-    commentsToLikes: 0.078140
-    id: ck5zr4lnlvw490i14c1p80i3w
+    followers: 39095
+    engagement: 2592
+    commentsToLikes: 0.047830
+    id: ck0w0hntfe90t0i19b8we50io
     verified: false
-    hashtags: "#createdwithadidas, #elleseecurators, #asmc"
-  - username: "chillwithliv"
-    fullname: >-
-      Liv 👄💅🏼💄👙🎀💋💕
-    location: "Australia"
-    followers: 12024
-    engagement: 1122
-    commentsToLikes: 0.045783
-    id: ckap3p6lb3ya20i78ig12fe93
-    verified: false
-    hashtags: ""
+    hashtags: "#lifeishard, #lifeisright, #icu, #cancer"
   - username: "alexander__glover"
     fullname: >-
       Vegan 🐐
+    bio: >-
+      🌱Vegan resources @21days2vegan @thebasic_vegan ❤️Co-founder @_goodtings 🌳Ambassador @4ocean @halfcutorg 🎙Podcast: 21days2vegan by Alexander Glover
     location: "Australia"
-    followers: 74756
-    engagement: 458
-    commentsToLikes: 0.031982
+    followers: 72630
+    engagement: 555
+    commentsToLikes: 0.037917
     id: ck6u6l1ehg7nx0j71psjg3plm
     verified: false
-    hashtags: "#isolation, #breakthestigma, #frontlineheroes, #happy"
-  - username: "jadee__marie"
-    fullname: >-
-      🦋𝓙𝓪𝓭𝓮-𝓜𝓪𝓻𝓲𝓮🦋
-    location: "Australia"
-    followers: 460524
-    engagement: 199
-    commentsToLikes: 0.037952
-    id: ck15uh4o9n5qy0i193kgfmn8j
-    verified: false
-    hashtags: ""
-  - username: "geo.rgiasmith"
-    fullname: >-
-      GEORGIA
-    location: "Australia"
-    followers: 11858
-    engagement: 1227
-    commentsToLikes: 0.035022
-    id: ck8wg0mzugk0i0j78vwp7jl1b
-    verified: false
-    hashtags: "#georgiemane"
-  - username: "veganhollyg"
-    fullname: >-
-      Holly Gabrielle
-    location: "Australia"
-    followers: 74744
-    engagement: 989
-    commentsToLikes: 0.009288
-    id: ckap06guroy3f0i78n0mvda77
-    verified: false
-    hashtags: "#lockdowndiaries, #earthday"
-  - username: "amyaela"
-    fullname: >-
-      Amy | Australia-India
-    location: "Australia"
-    followers: 301360
-    engagement: 333
-    commentsToLikes: 0.020172
-    id: ck600bsdwday30i143e2jxb98
-    verified: false
-    hashtags: "#radha, #maybeshesjustbrown, #buttabomma, #comingsoon"
+    hashtags: "#veganlife, #govegan, #vegans, #veganfood"
   - username: "laurenmcgeachin"
     fullname: >-
       LAUREN MCGEACHIN
+    bio: >-
+      🕊🌸💫🌻 1/2 @the.uncensored.show Vegan ♡
     location: "Australia"
-    followers: 70181
-    engagement: 251
-    commentsToLikes: 0.040683
+    followers: 74943
+    engagement: 254
+    commentsToLikes: 0.046467
     id: ck6uhnwpra7nx0j718hbxy5v7
     verified: false
-    hashtags: "#thaikila, #thaikiladarlings, #puriwulandariubud, #puriwulandariresort"
+    hashtags: ""
+  - username: "agirlnamedally"
+    fullname: >-
+      Ally Sheehan 🦋🌈🌜🪐
+    bio: >-
+      🎥 YouTuber | Thrifter | Vegan 🌱 treat people with kindness 💌 allysheehan@hotmail.com 👇 watch my new video here!
+    location: "Australia"
+    followers: 53072
+    engagement: 360
+    commentsToLikes: 0.040494
+    id: ck6u85zj0pmp80j71wpot7l46
+    verified: false
+    hashtags: "#adventurenearnotfar, #ad, #knowthedifference, #challengeinjustice"
+  - username: "jessicahazemua"
+    fullname: >-
+      J E S S I C A  H A Z E
+    bio: >-
+      Aussie 🐨 living in metro Detroit #Vegan + #CrueltyFree Makeup Artist Brows @jessicahazebrows Email jessicahazemua@gmail.com Watch Latest YouTube👇🏻
+    location: "Australia"
+    followers: 135368
+    engagement: 324
+    commentsToLikes: 0.032589
+    id: ck55ixs32vqeb0i11hrxp9sbd
+    verified: false
+    hashtags: "#valleyeyewear, #crueltyfreebeauty, #anotherworldoctober, #indiefashion"
+  - username: "nataliamav"
+    fullname: >-
+      Natalia Mav
+    bio: >-
+      📍 Melbourne/LA 📲 Trainer on @nataliamavfitness 💪🏻 35-min workouts 🥘 Reg, vegan & veg 🏋🏻‍♀️ Home/Gym based programs 📲 Start your journey today ↩️
+    location: "Australia"
+    followers: 207340
+    engagement: 137
+    commentsToLikes: 0.398388
+    id: ck5hpibmprexk0i11k1p7etvr
+    verified: false
+    hashtags: ""
   - username: "kai.register"
     fullname: >-
       𝐤𝐚𝐢ッ
+    bio: >-
+      « based in: Orlando & Miami » ⇢ contact me to shoot 𓁺𓁹 『model & travel enthusiasts』 ☼Australian-made vegan golden glow↡ #COASTLINETAN
     location: "Australia"
-    followers: 8621
-    engagement: 1194
-    commentsToLikes: 0.029254
+    followers: 9301
+    engagement: 1058
+    commentsToLikes: 0.032061
     id: ckap0hl6wqbj60i786ff41dhj
     verified: false
-    hashtags: "#earthday, #photodump, #rockstarenergy, #rockstarpartners"
-  - username: "dewii.veg"
+    hashtags: "#sorrynotsorry, #rockstarenergy, #teamrockstar"
+  - username: "jessicagracewhalen"
     fullname: >-
-      Dewii
+      Jessica Whalen
+    bio: >-
+      Aussie in Dubai & the skies 🚀 23 🦂🍒🪐🌶 Blog: responsible travel, veganism, adventures...
     location: "Australia"
-    followers: 82716
-    engagement: 978
-    commentsToLikes: 0.007441
-    id: ck5zpn72zsywl0i148khl2952
+    followers: 24105
+    engagement: 616
+    commentsToLikes: 0.024766
+    id: ck0ucnqnmh8h90i1968t7oiwf
     verified: false
-    hashtags: "#vanocebeznasili, #hlavnebezvycitek, #britney, #foodie"
+    hashtags: ""
+  - username: "chillwithliv"
+    fullname: >-
+      Liv 👄💅🏼💄👙🎀💋💕
+    bio: >-
+      Swedish girl living in Aus 👸🏼 Model | Fashion | Travel | Lifestyle 🌱 | VEGAN 💌 | Collabs ➳ Liv@chillwithliv.com 📍 | Gold Coast 🇦🇺
+    location: "Australia"
+    followers: 15350
+    engagement: 501
+    commentsToLikes: 0.049828
+    id: ckap3p6lb3ya20i78ig12fe93
+    verified: false
+    hashtags: "#celine"
+  - username: "charlottecoquelin"
+    fullname: >-
+      CHARLOTTE COQUELIN 🦇🇫🇷
+    bio: >-
+      @imgmodels VEGAN 🌱 SYDNEY 📍 📝 @5elevenmag
+    location: "Australia"
+    followers: 30279
+    engagement: 266
+    commentsToLikes: 0.093135
+    id: ck5zr4lnlvw490i14c1p80i3w
+    verified: false
+    hashtags: "#ethicalfood, #freerange, #internationaldogday, #mbpartners"
 ---

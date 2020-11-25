@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Japan In 2020
 description: >-
-  Find top yoga Instagram influencers in Japan in 2020. Most popular hashtags: #stayathome #dior #stayhome #yogawear.
+  Find top yoga Instagram influencers in Japan in 2020. Most popular hashtags: #yoga #yogi #yogainstructor.
 platform: Instagram
+hits: 113
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 113 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "miawatanabe_yoga"
-    fullname: >-
-      Mia
-    location: "Japan"
-    followers: 22355
-    engagement: 918
-    commentsToLikes: 0.056765
-    id: ck14l4qmzsuh90i19pq2tx3ir
-    verified: false
-    hashtags: "#tesla, #aloyoga, #disneyresort"
   - username: "blifetokyo"
     fullname: >-
       B-life
+    bio: >-
+      Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
     location: "Japan"
-    followers: 28692
-    engagement: 707
-    commentsToLikes: 0.039359
+    followers: 41649
+    engagement: 735
+    commentsToLikes: 0.032724
     id: ckapb665gypre0i78i1v3kh7d
     verified: false
-    hashtags: ""
-  - username: "yu_ta0502"
+    hashtags: "#389, #393, #401"
+  - username: "miawatanabe_yoga"
     fullname: >-
-      YU-TA Akiyama
+      Mia
+    bio: >-
+      ERYT-500+•YACEP🕉 Pilates ヨガ&ピラティスインストラクター 🏠USA🇺🇸 🌸シリコンバレーの🇺🇸アメリカ大企業でヨガ教導 🌸Day1Stretch/Founder(オフィスヨガ) •英語でヨガ •Vinyasa Yoga •ヒーリングタッチ •骨盤底 •オフィスヨガ
     location: "Japan"
-    followers: 18246
-    engagement: 1315
-    commentsToLikes: 0.016229
-    id: ck14j5p71irdn0i19ocnc8m4a
+    followers: 21686
+    engagement: 457
+    commentsToLikes: 0.061414
+    id: ck14l4qmzsuh90i19pq2tx3ir
     verified: false
-    hashtags: "#ryt200, #lifesaving, #stateyourcase, #nissy"
-  - username: "sweetpea_miki"
+    hashtags: "#stanford, #split, #yogapractice, #sf"
+  - username: "11misato10"
     fullname: >-
-      フォトグラファー Miki❤大阪北摂Sweetpea
+      MISATO
+    bio: >-
+      ○Twitter @_M1110_ /Radio DJ (TOKYO FM) /yoga Instructor /酵素風呂サロンWABISABI代表 @wabisabikouso ◯follow me
     location: "Japan"
-    followers: 35153
-    engagement: 269
-    commentsToLikes: 0.047534
-    id: ck6tn4c7k93wn0j71adit9dij
+    followers: 10210
+    engagement: 1136
+    commentsToLikes: 0.036047
+    id: ck5c7rkjo829m0i1149qnc4g3
     verified: false
-    hashtags: "#handsapp, #muse, #spout, #osiorganic"
-  - username: "seonia"
+    hashtags: "#japan, #japanesegirl, #stayhome, #curry"
+  - username: "arisa28lucia"
     fullname: >-
-      seonia
+      Arisa 🇯🇵🇮🇹
+    bio: >-
+      》全米YOGA アライアンス 》YouTube"ありさらチャンネル"↓ arisarah YouTube channel link below🌹
     location: "Japan"
-    followers: 228866
-    engagement: 251
-    commentsToLikes: 0.019200
-    id: ck0u88hko6qjz0i19rc1rk375
+    followers: 13955
+    engagement: 715
+    commentsToLikes: 0.042411
+    id: ckaow4b797dc10i787gcj4ovu
     verified: false
-    hashtags: "#yogaplayful, #fromtheheart, #mindfulliving, #yogavibe"
-  - username: "natalie.soderstrom"
+    hashtags: "#marriotthotel, #training, #ac, #travel"
+  - username: "hirokosaunooke"
     fullname: >-
-      Natalie Söderström
+      hiroko 裕子 🇯🇵
+    bio: >-
+      NV🇺🇸在住 横浜出身 夏はいつも日本 ✈︎ power yoga RYT certified yoga instructor 🧘🏻‍♀️ @sleehcom ambassador use code *hirokosaunooke2020* for 20% off sleeh purchase
     location: "Japan"
-    followers: 25463
-    engagement: 216
-    commentsToLikes: 0.033403
-    id: ck5bx540an0x50i112kc2tt5p
+    followers: 19867
+    engagement: 558
+    commentsToLikes: 0.033335
+    id: ck9we50o1imki0j78pe1mc0pc
     verified: false
-    hashtags: "#kitayoga, #vestairecollective, #togetherwearestronger, #imisshugs"
+    hashtags: "#yogaphotography, #yogini, #yogainstructor, #forwardfold"
   - username: "vivichan1325"
     fullname: >-
       vivichan
+    bio: >-
+      yoga&beauty サロン♡♡♡chiakissオーナー♡♡♡ファッション、グルメ、ヨガ、エステをこよなく愛してヘルシーライフを目標に💕
     location: "Japan"
-    followers: 55034
-    engagement: 461
-    commentsToLikes: 0.007204
+    followers: 60116
+    engagement: 499
+    commentsToLikes: 0.005698
     id: ck5zzyii4cmxu0i14f0xfn50r
     verified: false
-    hashtags: "#yoga, #halekulani, #pillbox, #louisvuitton"
-  - username: "yogakiyoxx"
+    hashtags: "#gliongroup, #akarengasteakhouse, #dolceandgabbana, #womensupportingwomen"
+  - username: "natalie.soderstrom"
     fullname: >-
-      KIYONO  ヨガインストラクター
+      Natalie Söderström
+    bio: >-
+      📍Hong Kong ♡ Yoga @kitayogahk & @fivelementshabitats ➰ Movement, Meditation & Mindfulness
     location: "Japan"
-    followers: 11130
-    engagement: 626
-    commentsToLikes: 0.020784
-    id: ck5zzwc1wcj950i145o5dhky1
+    followers: 25291
+    engagement: 204
+    commentsToLikes: 0.028784
+    id: ck5bx540an0x50i112kc2tt5p
     verified: false
-    hashtags: "#liakulea, #sloli, #nomonday, #armbalance"
+    hashtags: "#linjerco, #finejewelry, #hiking, #faroeislands"
   - username: "satomiakane"
     fullname: >-
       里見茜
+    bio: >-
+      お仕事のご依頼は下記メールアドレスまでお願いします。 💌info@qualiam.com ●model/Qualiam所属 ●yoga teacher ●YouTube「Akane's yoga」↓
     location: "Japan"
-    followers: 150322
-    engagement: 229
-    commentsToLikes: 0.006949
+    followers: 170439
+    engagement: 238
+    commentsToLikes: 0.004147
     id: ck0tyce0tmemo0i192ojprl5s
     verified: false
-    hashtags: "#ring, #familytime, #pool, #yogatime"
-  - username: "risako_yamamoto"
+    hashtags: "#akanesyoga, #disneysea, #fashion, #princess"
+  - username: "model_taku"
     fullname: >-
-      Risako Yamamoto
+      TAKU
+    bio: >-
+      ・Japanese・Fashion model・Calisthenics/Yoga・184cm tall・Traveling Japan（18/47 visited now）・📩 takujapan.9@gmail.com Check my pictures👇
     location: "Japan"
-    followers: 30068
-    engagement: 185
-    commentsToLikes: 0.013699
-    id: ck5zih3effott0i14z1x5m2x4
+    followers: 42422
+    engagement: 268
+    commentsToLikes: 0.005351
+    id: ckf5p2pmk4qam0j23atphhd79
     verified: false
-    hashtags: "#kobe, #detox, #derule, #mynail"
+    hashtags: "#virtualfashionshow, #internationalmodel, #model, #fashionshow"
+  - username: "darayunya"
+    fullname: >-
+      yuri nakagawa👽FUTURISTIC GIRL
+    bio: >-
+      ♪freelance🕊casting🌈 consulting🦩PR🌙DJ💿bouncy writer✏travel writer🕌TV東京超流波MC🎤fashionTV🎬アロマ1級💐diet検定1級温泉ソムリエ♨️世界遺産検定🌵美活🌹yoga10年🧘‍♀aerial hoop🧴共同開発🧖‍♀️
+    location: "Japan"
+    followers: 56582
+    engagement: 154
+    commentsToLikes: 0.011915
+    id: ck5c4wmuw29pw0i11jkq1vgkx
+    verified: false
+    hashtags: "#podcast, #fashioninfluencer, #hairstyle, #girlsnight"
 ---

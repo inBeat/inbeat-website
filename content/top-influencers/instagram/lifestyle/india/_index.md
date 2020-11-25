@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In India In 2020
 description: >-
-  Find top lifestyle Instagram influencers in India in 2020. Most popular hashtags: #stayhome #jantacurfew #quarantine #kerala360.
+  Find top lifestyle Instagram influencers in India in 2020. Most popular hashtags: #photooftheday #fashion #instagram.
 platform: Instagram
+hits: 3079
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 3079 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "ourpassportstory_"
+  - username: "reflectionofmymemories"
     fullname: >-
-      Surbhi & Nehil | Travel Couple
+      Biplab | Frames & Aesthetics |
+    bio: >-
+      Travel & Lifestyle Photographer #reflectionofmymemories Work Featured: NatGeoIndia & SonyAlphaIndia Sony A7M3 + Canon 80D For Business Queries Mail ✉️
     location: "India"
-    followers: 3829
-    engagement: 3113
-    commentsToLikes: 0.163963
-    id: ck6tyeona3a9p0j71yjimujwa
+    followers: 12425
+    engagement: 1733
+    commentsToLikes: 0.088602
+    id: ck5zksoz3k35c0i149sahpigf
     verified: false
-    hashtags: "#turkey, #quarantine, #home, #cappadocia"
-  - username: "fashionarbaj"
+    hashtags: "#bappa, #indianphotos, #culturvation, #natgeoindia"
+  - username: "yogita__gupta__"
     fullname: >-
-      MODEL & fASHION PHOTOGRAPHY
+      Yogita Gupta
+    bio: >-
+      Managed by @barcodeent Content creator 🔸Influencer 🔸| Beauty |Tech | Fashion | Lifestyle 💌 Email me for collabs Collab.inquiry007@gmail.com
     location: "India"
-    followers: 4018
-    engagement: 2856
-    commentsToLikes: 0.562940
-    id: ckaowb49g85250i781g2y9w0k
+    followers: 541941
+    engagement: 651
+    commentsToLikes: 0.165614
+    id: ck0ty0x1ql52l0i198adlw0fk
+    verified: false
+    hashtags: "#stayhome, #fashionstyle, #love, #danceandmusic"
+  - username: "manish____301"
+    fullname: >-
+      ♏anish 💲oni
+    bio: >-
+      FASHiON / LIFESTYLE / MODELING 🎈Level up 14/10 🎉 Mail for collaborations poser photographer 🕺
+    location: "India"
+    followers: 3758
+    engagement: 2447
+    commentsToLikes: 0.330569
+    id: ck9wh65euwfpv0j78fmzcijpw
     verified: false
     hashtags: ""
-  - username: "hater_kid__"
+  - username: "sejaltiwari3"
     fullname: >-
-      A D i T h Y a N /| ADHi |\ 🦋✨️
+      seju,,,,,,,❤😘😘😘
+    bio: >-
+      Lifestyle / Fashion / Foodie Wish Me On 12 Dec🎂 I Love My Self Surat Smart City❤
     location: "India"
-    followers: 11072
-    engagement: 2799
-    commentsToLikes: 0.119190
-    id: ckaoskpdrrw750i78gpmid1kg
+    followers: 3190
+    engagement: 2328
+    commentsToLikes: 0.150934
+    id: ckaou1twpyf8q0i78rmbq4fnb
     verified: false
-    hashtags: "#kerala, #godsowncountry, #viratkohli, #covid19"
-  - username: "yobaemaya"
+    hashtags: ""
+  - username: "tusharsilawat"
     fullname: >-
-      Hai Anh 🍋 travel girl
+      TUSHAR SILAWAT⚡️
+    bio: >-
+      #onemanshow Fashion | Traveller | Lifestyle Email me For Collaborations Subscribe to my channel⚡️
     location: "India"
-    followers: 8632
-    engagement: 1993
-    commentsToLikes: 0.129555
-    id: ck5q3n8vlljqv0i11x3469m2o
+    followers: 1530307
+    engagement: 1217
+    commentsToLikes: 0.036449
+    id: ck0ud1s2ki7fd0i19vbq6k6vc
     verified: false
-    hashtags: "#singapore, #rijksmuseum, #wonderful, #stayhome"
-  - username: "_mack_1211"
+    hashtags: "#reelitfeelit, #teamtushar, #letsmoj, #reels"
+  - username: "sushma_pappya_gaikwad"
     fullname: >-
-      I M POOP
+      👑Sony PapPya Gaikwad👑
+    bio: >-
+      ▶️Influencer | Lifestyle | Beauty| Fashion 🏠Lonavala | 🎂 2 Feb 📩 Mail For Collaborations @pappya_gaikwad_official
     location: "India"
-    followers: 44686
-    engagement: 1216
-    commentsToLikes: 0.062336
-    id: ck14jttd0m5gn0i19adgzzjea
+    followers: 347903
+    engagement: 842
+    commentsToLikes: 0.038922
+    id: ck14h9f98978q0i19ezacqkwe
     verified: false
-    hashtags: "#vehicle, #luxury, #travelphoto, #cars"
-  - username: "_gargibiswas_"
+    hashtags: ""
+  - username: "mr.g_95966"
     fullname: >-
-      GARGI | KOLKATA BLOGGER |
+      #GANESHNATION🌙
+    bio: >-
+      ⚡ Menswear | Traveller | Lifestyle 🦸 Managed by @ask.theashugandhi ✉️ Email for Promotions 👇 Subscribe my YouTube
     location: "India"
-    followers: 27692
-    engagement: 1143
-    commentsToLikes: 0.066937
-    id: ck9wggh1vtb9g0j78iyd4xebd
+    followers: 199752
+    engagement: 1559
+    commentsToLikes: 0.029714
+    id: ck8t9p0eqotay0j785rxgydkg
     verified: false
-    hashtags: "#kolkatafood, #havells, #pizzaislove, #safecravings"
-  - username: "stylodrun"
+    hashtags: "#ganeshnation, #potraitphotography, #potrait"
+  - username: "mr.nrupm"
     fullname: >-
-      ▪ TOM❤
+      NIRUPAM KANT ✞ CONTENT CREATOR
+    bio: >-
+      ✘ 👔| Fashion | Lifestyle | Influncer ✘ 📷 | Photoshop Editor & Content creator ✘ 📍 | Delhi ✘ 📩 DM/Mail for Collaboration | Nirupamkant30jan@gmail.com |
     location: "India"
-    followers: 15223
-    engagement: 1121
-    commentsToLikes: 0.090821
-    id: ck0vxsgqa0hoc0i19vk6u4rx6
+    followers: 36496
+    engagement: 679
+    commentsToLikes: 0.181827
+    id: ck134t3dxy2be0i19lotx1mhc
     verified: false
-    hashtags: "#starboy, #india, #poses, #photography"
-  - username: "vis_hnu_emo_boy"
+    hashtags: "#2dersept, #vscocam, #travel, #blogger"
+  - username: "srijita.mitraaaaa"
     fullname: >-
-      vís Hñū eMø bØy✳️❇️
+      Srijita Mitra 💞
+    bio: >-
+      Fashion Beauty & Lifestyle 🌸 Backup account: @srijita_mitraaa DM for paid promotions/collaborations ✨
     location: "India"
-    followers: 21104
-    engagement: 1735
-    commentsToLikes: 0.063749
-    id: ck8tcv1q60sit0j78uv8ybrx8
+    followers: 358150
+    engagement: 639
+    commentsToLikes: 0.029798
+    id: ck6uddp1ekigv0j71dpp1p4a4
     verified: false
-    hashtags: "#chennai, #malayalam, #kerala360, #kozhikoden"
-  - username: "vighnesh_vg_"
+    hashtags: "#instapicture, #potraitmood, #curvygirlsrock, #curvywomen"
+  - username: "mahfooz_ahmed__"
     fullname: >-
-      ♛ 【GU 】V I G H N E S H  VG
+      M A H F O O Z  A H M E D | MA✰
+    bio: >-
+      Fashion • Lifestyle • Influencer For Business/Queries 📩 Email Ambivert ➖ XXX.IX.XCVIII Bangalore / Kasargod
     location: "India"
-    followers: 13465
-    engagement: 1635
-    commentsToLikes: 0.222587
-    id: ck9hb79r6folz0j781nzcl5bp
+    followers: 116706
+    engagement: 957
+    commentsToLikes: 0.039625
+    id: ck14jveg5mdpr0i19u36f2ail
     verified: false
-    hashtags: "#modeling, #mensfashionblogger, #fashionblogger"
-  - username: "thebeautycape"
-    fullname: >-
-      Anjali Soni | Jaipur Blogger
-    location: "India"
-    followers: 9313
-    engagement: 1510
-    commentsToLikes: 0.105464
-    id: ck8t7j0sqgzle0j78l7n9t8w2
-    verified: false
-    hashtags: "#staysafe20mch, #worldsleepday, #digitalfoody, #fashioninspo"
+    hashtags: "#mensfashion, #smile, #love, #mahfoozahmed"
 ---

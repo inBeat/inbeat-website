@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In France In 2020
 description: >-
-  Find top vegan TikTok influencers in France in 2020. Most popular hashtags: #vegan #challenge #danse #tiktok.
+  Find top vegan TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #fyp #foryou #vegan.
 platform: TikTok
+hits: 26
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 26 TikTok influencers like this in France for you to contact.
 profiles:
+  - username: "celinehyeo"
+    fullname: >-
+      HUMOUR FUN LIFESTYLE CHATS 💛
+    bio: >-
+      Hi ! BAHAHAHAHAHA 💩🎈 Vegan | animal lover | conscious Snap/Insta : celinehyeo
+    location: "France"
+    followers: 9113
+    engagement: 1057
+    commentsToLikes: 0.052087
+    id: ckc1ucyygylmv0j239h6a7jth
+    verified: false
+    hashtags: "#chat, #pourquoi, #couple, #lovemyself"
   - username: "elise_9369"
     fullname: >-
       Elise Roggeri
+    bio: >-
+      #passion#musculation#fitness#fitfam#abs#sportaddict#vegan
     location: "France"
     followers: 9033
     engagement: 707
     commentsToLikes: 0.023144
     id: ck81swjrjtmpi0j78qhrpqfdv
     verified: false
-    hashtags: "#covid19, #haul, #workout"
+    hashtags: "#shein, #foryou, #pourtoi, #confinement"
   - username: "katia_dslv98"
     fullname: >-
       Katia Da Silva🇵🇹🦋
+    bio: >-
+      Vegan🌿 Medstudent🩺 Mademoiselle Rhône-Alpes 2019👑 IG :katia_dslv 22ans
     location: "France"
-    followers: 18159
-    engagement: 784
-    commentsToLikes: 0.039672
+    followers: 17900
+    engagement: 618
+    commentsToLikes: 0.033400
     id: ck900hrv7aepx0j7801y5xska
     verified: false
-    hashtags: "#coupdegueule, #trend, #foryouapage, #francaise"
+    hashtags: "#portugaise, #vibes, #medstudent, #paces"
+  - username: "kakaneanthoninaot"
+    fullname: >-
+      Kakane Anthonina Ott
+    bio: >-
+      
+    location: "France"
+    followers: 3151
+    engagement: 582
+    commentsToLikes: 0.055123
+    id: ckdbu6vcyd4600j238whzclw6
+    verified: false
+    hashtags: "#tiktok, #pourtoi, #savon, #vegan"
   - username: "inlack_of_food"
     fullname: >-
-      Éléonore 
+      K❤️
+    bio: >-
+      I post what I eat and share my meals 🌱🍝 17 Yo and passionate about food 🙊😋
     location: "France"
-    followers: 32541
-    engagement: 955
-    commentsToLikes: 0.015628
+    followers: 102800
+    engagement: 1056
+    commentsToLikes: 0.010833
     id: ckamnwwxv6lqo0i78ebpx7vd2
     verified: false
-    hashtags: "#cheese, #cookies, #veganrecipes, #porridge"
-  - username: "romandoduik"
+    hashtags: "#recovery, #veggie, #whatieatinaday, #veggiefood"
+  - username: "penelope.dc"
     fullname: >-
-      Roman Doduik
+      penelope.dc
+    bio: >-
+      I’ve been convinced 🤍👼🍯⭐️🍋
     location: "France"
-    followers: 468909
-    engagement: 2463
-    commentsToLikes: 0.011104
-    id: ck9shjai4tpfk0j7817ue23cl
+    followers: 5996
+    engagement: 1059
+    commentsToLikes: 0.015511
+    id: ckb9bqvfry6o80j23t966z2fo
     verified: false
-    hashtags: "#anniversaire, #livre, #youtubeur, #ouichallenge"
-  - username: "aissat.camss"
+    hashtags: "#healthy, #fyp, #workout, #duet"
+  - username: "moonvoniron"
     fullname: >-
-      Aïssa’ T
+      Moon V. Iron 🛀
+    bio: >-
+      BATH VIDS 🌈 Follow my IG for more 🔥 Click link below for discounts🌋 29 🇫🇷
     location: "France"
-    followers: 40373
-    engagement: 1710
-    commentsToLikes: 0.035214
-    id: ckacbborkhhmv0i78fu2nz1yb
+    followers: 46000
+    engagement: 1003
+    commentsToLikes: 0.013370
+    id: ckfpm1xpt1bjv0j23yvwm6ayn
     verified: false
-    hashtags: "#freres, #annonce, #ramadan, #toutemavie"
-  - username: "bonvoyagefroggy"
+    hashtags: "#satisfying, #fyp, #bathtime, #drawer"
+  - username: "gagawellemarie"
     fullname: >-
-      bonvoyagefroggy
+      Gaëlle MARIE - Off
+    bio: >-
+      #blacklivesmatter #justicepouradama #lgbtq+ #feminism et ts les autres bails!✊🏾
     location: "France"
-    followers: 66086
-    engagement: 1408
-    commentsToLikes: 0.018173
-    id: ck8sahhbf24zk0j78oh9mr99m
+    followers: 83300
+    engagement: 1908
+    commentsToLikes: 0.066402
+    id: ckcvgq41it87z0j23qrjsne27
     verified: false
-    hashtags: "#travel, #humour, #allergies, #cuisine"
-  - username: "lemelondriss"
+    hashtags: "#gaellemarie, #971, #humour, #tiktokfrance"
+  - username: "malfrat_"
     fullname: >-
-      Le Melon
+      ⛄𝑴𝒂𝒍𝒇𝒓𝒂𝒕⛄
+    bio: >-
+      🌨Code créateur🌨: MALFRAT_ 🌠YouTube🌠: Malfrat 🛸𝘿𝙞𝙨𝙘𝙤𝙧𝙙🛸 👇
     location: "France"
-    followers: 7258
-    engagement: 1220
-    commentsToLikes: 0.050823
-    id: ckacmcykfj6rg0i78jr9zvfo0
+    followers: 140700
+    engagement: 1787
+    commentsToLikes: 0.049582
+    id: ckcel8cbcuz3i0j23yno4wxjx
     verified: false
-    hashtags: "#humournoir, #blanc, #phrases, #chien"
-  - username: "xtcnina"
+    hashtags: "#fortniteskin, #michelgang, #fortnitebr, #fortnitebattleroyale"
+  - username: "rayanlvtt"
     fullname: >-
-      Nina
+      Rayan 🕊
+    bio: >-
+      Instagram : @Rayanlvtt Snapchat : Rlvtt 🤍
     location: "France"
-    followers: 2361
-    engagement: 940
-    commentsToLikes: 0.031781
-    id: ck9gknyh1kfwa0j781zzf9d59
-    verified: false
-    hashtags: "#flowers, #posetothis, #confinement, #fypchallenge"
-  - username: "marieandreeva"
-    fullname: >-
-      Maria Andreeva
-    location: "France"
-    followers: 10963
-    engagement: 1667
-    commentsToLikes: 0.006831
-    id: ck9fcsicmlbsx0j78u92o6l5z
-    verified: false
-    hashtags: "#summer, #zoom, #beautyqueen, #fy"
-  - username: "felipefitness"
-    fullname: >-
-      FELIPE
-    location: "France"
-    followers: 68443
-    engagement: 882
-    commentsToLikes: 0.012051
-    id: cka0tnhl4qm4v0i78rwkxewkw
-    verified: false
-    hashtags: "#eddiehall, #weight, #athelete, #athlete"
+    followers: 1100000
+    engagement: 2113
+    commentsToLikes: 0.005871
+    id: ck9adrgkayj880j78nv7t4pk4
+    verified: true
+    hashtags: "#bonjourairup, #mydubai, #dubai, #tiktok"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In United States In 2020
 description: >-
-  Find top fitness TikTok influencers in United States in 2020. Most popular hashtags: #fitness #quarantine #workoutroutine #shotgun.
+  Find top fitness TikTok influencers in United States in 2020. Most popular hashtags: #fyp #duet #fitness #foryoupage.
 platform: TikTok
+hits: 3184
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 3184 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "richydimov"
+  - username: "fitness"
     fullname: >-
-      Richy Dimov
+      fitness
+    bio: >-
+      The official @fitness community!💪 Follow for more workouts!🏋️‍♂️ by @Squats
     location: "United States"
-    followers: 105193
-    engagement: 1271
-    commentsToLikes: 0.047457
-    id: ck9rndpfd74tx0j78id9xevjg
-    verified: true
-    hashtags: "#fitness"
-  - username: "mikecarlucci_"
-    fullname: >-
-      Mike
-    location: "United States"
-    followers: 94757
-    engagement: 2049
-    commentsToLikes: 0.066301
-    id: ck9shzx4sw8cv0j780tl40ulg
+    followers: 246200
+    engagement: 505
+    commentsToLikes: 0.007495
+    id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
-    hashtags: "#dream, #storytime, #bo2, #6ix9ine"
-  - username: "lexdamon"
+    hashtags: "#foryou, #foryoupage, #fyp, #fitness"
+  - username: "justakayday"
     fullname: >-
-      Alexis Damon
+      Kay Mejia
+    bio: >-
+      Nerd...26...Fitness You’re never alone! 🖤
     location: "United States"
-    followers: 22058
-    engagement: 1595
-    commentsToLikes: 0.059038
-    id: ck9njith7hmr20j78izgy26et
+    followers: 15000
+    engagement: 2468
+    commentsToLikes: 0.206930
+    id: ckbace1l04urc0j23dv1mpj5m
     verified: false
-    hashtags: "#sisterfights, #happymothersday, #workoutathome, #positivemessage"
-  - username: "fitkage"
+    hashtags: "#warzone, #fyp, #cod, #mentalhealthmatters"
+  - username: "jasonstotz"
     fullname: >-
-      Hunter 
+      Jason Stotz
+    bio: >-
+      Wellness and Fitness Coach CEO of ‘The River’ Dance Sexy, Silly, Spiritual
     location: "United States"
-    followers: 237311
-    engagement: 1650
-    commentsToLikes: 0.025988
-    id: ck8owc35ax52b0j7857h7km6s
+    followers: 99700
+    engagement: 1975
+    commentsToLikes: 0.037503
+    id: ckc8ae8ak75te0j23dwky6hds
     verified: false
-    hashtags: "#akatsuki, #fitness, #headband, #netero"
-  - username: "bigdarkness59"
+    hashtags: "#bluewave, #redbulldanceyourstyle, #byedon, #biden2020"
+  - username: "mackenzie_epperson"
     fullname: >-
-      Michael Harris
+      Mackenzie
+    bio: >-
+      Mama to Oakley Health, fitness, motherhood Liquid IV link
     location: "United States"
-    followers: 7590
-    engagement: 1196
-    commentsToLikes: 0.089322
-    id: ck9si9banxrwd0j78vtxfy9ow
+    followers: 68900
+    engagement: 2129
+    commentsToLikes: 0.038414
+    id: ckb9noodbhk8q0j2365iginqq
     verified: false
-    hashtags: "#weaintplayin, #tiktokfitness, #tictoc, #athlete"
-  - username: "avacashman"
+    hashtags: "#veganfoodie, #vegan, #fypp, #fitmamas"
+  - username: "tigress_8199"
     fullname: >-
-      avacashman
+      Amanda ✌️💕
+    bio: >-
+      💪 fitness 💕 family 😜 friends 😈 thirst
     location: "United States"
-    followers: 14938
-    engagement: 2120
-    commentsToLikes: 0.028372
-    id: ck9kfnp91499q0j78hhbrrb6i
+    followers: 19400
+    engagement: 1825
+    commentsToLikes: 0.111764
+    id: ckc34vnplu4v00j2367l1655m
     verified: false
-    hashtags: "#wishmeluck, #nosepainting, #clonesquad, #sislove"
-  - username: "sophiemears04"
+    hashtags: "#trump2020, #challengeyourself, #beatdrop, #duet"
+  - username: "dougwright5"
     fullname: >-
-      Sophie Mears
+      Doug Wright
+    bio: >-
+      Single dad of 3 amazing boys! Love fitness and positivity! Venmo Doug-Wright-42
     location: "United States"
-    followers: 14339
-    engagement: 1699
-    commentsToLikes: 0.049995
-    id: cka0rg6y9gxwn0i78d9h3kne9
+    followers: 69700
+    engagement: 1798
+    commentsToLikes: 0.087864
+    id: ckb1cqgnu1gjs0j23n89mzs5l
     verified: false
-    hashtags: "#morningroutine, #everydayheroes, #weekinmylife, #whatieatinaday"
-  - username: "stevegott2b"
+    hashtags: "#loveyall, #blueyes, #positivity, #liftupothers"
+  - username: "lobos_austintx_realtor"
     fullname: >-
-      user Stevegott2
+      Neil
+    bio: >-
+      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
     location: "United States"
-    followers: 19064
-    engagement: 1159
-    commentsToLikes: 0.148760
-    id: cka0rgq49h1tl0i78p2fuy2i6
+    followers: 5672
+    engagement: 1732
+    commentsToLikes: 0.284642
+    id: ckbatpudxkb4z0j23681zq86x
     verified: false
-    hashtags: "#almostfunny, #shirtchallange, #smilesrfree, #thedoover"
-  - username: "pepedaniii"
+    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
+  - username: "catherinerash0"
     fullname: >-
-      danielle mihalko
+      Catherine Rash
+    bio: >-
+      Fitness Coach, Mom of teen Venmo @Catherine-Rash-2
     location: "United States"
-    followers: 121981
-    engagement: 2432
-    commentsToLikes: 0.012826
-    id: ck8qe3ykoqxqs0j78exzbcl54
+    followers: 4163
+    engagement: 1682
+    commentsToLikes: 0.086469
+    id: ckcd0m6kazln10j2319x9169g
     verified: false
-    hashtags: "#fyp"
-  - username: "mattmerrill01"
+    hashtags: "#fitness, #duet, #fyp, #39"
+  - username: "paps1322"
     fullname: >-
-      Matt Merrill
+      Steve
+    bio: >-
+      Dad and Grandpa 🤷🏻‍♂️ Veteran Fitness💪🏼 IG: sjones1322
     location: "United States"
-    followers: 25497
-    engagement: 1771
-    commentsToLikes: 0.149433
-    id: ck99a9ukogp6a0j781pm5a5g0
+    followers: 6288
+    engagement: 1504
+    commentsToLikes: 0.094649
+    id: ckck5tn41qvcm0j23opmcfwo7
     verified: false
-    hashtags: "#90scountry, #dishes, #soapbop, #viral"
+    hashtags: "#single, #friends, #summer2020, #over40"
+  - username: "adamshaffer7"
+    fullname: >-
+      Adam Shaffer
+    bio: >-
+      ISSA CPT family fitness sc adamshaffer8132 ig shaffer89fit
+    location: "United States"
+    followers: 5712
+    engagement: 2445
+    commentsToLikes: 0.107385
+    id: ckb9gdhxn5bh50j232yw3o5y9
+    verified: false
+    hashtags: "#fyp, #2020, #like, #welldone"
 ---

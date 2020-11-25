@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Chicago In 2020
 description: >-
-  Find top models TikTok influencers in Chicago in 2020. Most popular hashtags: #funny #chicago #skincareroutine #happy.
+  Find top models TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #chicago #viral #model.
 platform: TikTok
+hits: 53
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database has 53 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "nhl_top"
+  - username: "danithemodel"
     fullname: >-
-      NHL✅
+      Danielle Horace
+    bio: >-
+      25 yo Model from Chicago
     location: "United States"
-    followers: 2246
-    engagement: 1056
-    commentsToLikes: 0.050305
-    id: ckahw65jepgdi0i7823i39uxi
+    followers: 43300
+    engagement: 595
+    commentsToLikes: 0.040028
+    id: ckbfaslt62cib0j23gm7x3yit
     verified: false
-    hashtags: "#dominator, #soapbop, #gordon, #mariolemuix"
-  - username: "lauraldrin"
+    hashtags: "#xybzca, #duet, #viral, #melanin"
+  - username: "marvmore"
     fullname: >-
-      lauraldrin
+      Marv
+    bio: >-
+      I stand in front of tweets/looks like Khalid 📍Boston 26 Y.O 4 Mil likes 🎂😳
     location: "United States"
-    followers: 13650
-    engagement: 472
-    commentsToLikes: 0.039188
-    id: ck9nhf644fz3g0j78osemjvf2
+    followers: 11200
+    engagement: 988
+    commentsToLikes: 0.016175
+    id: ckd09b430bida0j23zlc7azm8
     verified: false
-    hashtags: "#dancetiktok, #may4th, #foxeyes, #friends"
+    hashtags: "#greenscreen, #teacher, #twitter, #immuneupvapedown"
+  - username: "stronger.vlad"
+    fullname: >-
+      Vlad
+    bio: >-
+      📍Chicago | Fitness model 🔥Workouts/advice🔥 Follow for helpful fitness
+    location: "United States"
+    followers: 46500
+    engagement: 548
+    commentsToLikes: 0.118416
+    id: ck8vw3furnd4o0j78k0pe6f25
+    verified: false
+    hashtags: "#familyimpression, #fallfashion, #shred, #vanquish"
+  - username: "justbrit01"
+    fullname: >-
+      Just Britt
+    bio: >-
+      🐰PB Playmate!🐰 FF/EMT 🔥 📍Chicago ❤️Professional model 💋
+    location: "United States"
+    followers: 61100
+    engagement: 1092
+    commentsToLikes: 0.030423
+    id: ckc8ero2m9yzd0j23te6bjoah
+    verified: false
+    hashtags: "#babesoftiktok, #wewintogether, #duet, #tiktokfood"
   - username: "paulina_cargirl"
     fullname: >-
       Paulina🤫🇵🇱🏎
+    bio: >-
+      Car girl🤪 Polishhhh🇵🇱 Model🥵💕🤩 Chicagoooooooo🏙🌇 Snap;Paulina.Masnica
     location: "United States"
-    followers: 5919
-    engagement: 446
-    commentsToLikes: 0.040199
+    followers: 8103
+    engagement: 770
+    commentsToLikes: 0.072248
     id: ck83ze7zfzyrm0j78t8wypgec
     verified: false
-    hashtags: "#levelup, #badbit, #dateme, #normalpeople"
-  - username: "madelineaford"
+    hashtags: "#boyfriend, #chicago, #sad, #staystrong"
+  - username: "lauraldrin"
     fullname: >-
-      @madelineaford
+      lauraldrin
+    bio: >-
+      Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
     location: "United States"
-    followers: 298391
-    engagement: 1975
-    commentsToLikes: 0.005854
-    id: ck83zea4zzzh90j78uwjp8x7n
+    followers: 18200
+    engagement: 537
+    commentsToLikes: 0.044282
+    id: ck9nhf644fz3g0j78osemjvf2
     verified: false
-    hashtags: "#witchtok, #butterglosspop, #coolranchdance, #tips"
-  - username: "sierraxandrea"
+    hashtags: "#transformation, #foxyeyes, #fyp, #ihavenothing"
+  - username: "callmebyyourwifesname"
     fullname: >-
-      sierra 
+      Andrew
+    bio: >-
+      joker/writer/actor/slut Sickelmedia@gmail.com Venmo: callmebyyourwifesname
     location: "United States"
-    followers: 179299
-    engagement: 1873
-    commentsToLikes: 0.031517
-    id: ck8vta2c4fkf70j78taf9keht
+    followers: 55900
+    engagement: 1504
+    commentsToLikes: 0.034308
+    id: ckbf0gtdem52s0j23gcq0z45e
     verified: false
-    hashtags: "#promplaylist, #bling, #xzyabc, #music"
-  - username: "gagegomez5"
+    hashtags: "#slasher, #spooky, #horror, #halloween"
+  - username: "_itsnallely"
     fullname: >-
-      Gage Gomez
+      _itsnallely
+    bio: >-
+      Be silly, Be fun - Welcome to my life✨ Follow my ig: _nallelypadilla 📍Chicago
     location: "United States"
-    followers: 482081
-    engagement: 1719
-    commentsToLikes: 0.024905
-    id: ck9632fvct0rl0j78kehrx6l7
-    verified: true
-    hashtags: "#nastymf, #shutitdown, #blonde, #rednoseday"
-  - username: "peach.martine"
-    fullname: >-
-      Peach Martine
-    location: "United States"
-    followers: 202339
-    engagement: 1713
-    commentsToLikes: 0.025099
-    id: ck8z6jufimbm50j78uiuq15gp
+    followers: 29000
+    engagement: 439
+    commentsToLikes: 0.011981
+    id: ckczvofxu61jz0j23yg9pp5n9
     verified: false
-    hashtags: "#advice, #vapeno, #cleveland, #harrypotter"
-  - username: "that_one_up_guy"
+    hashtags: "#chicago, #motivation, #workout, #trending"
+  - username: "maca_pospi"
     fullname: >-
-      that_one_up_guy
+      Maca Marcel
+    bio: >-
+      Hit me up on instagram and check out my links ⬇️🤪😈
     location: "United States"
-    followers: 2616
-    engagement: 1321
-    commentsToLikes: 0.058697
-    id: ckae1nz2fpvwb0i78yj4frv4f
+    followers: 156100
+    engagement: 599
+    commentsToLikes: 0.043593
+    id: ckacs0m3m7v0s0i78stqtrb9r
     verified: false
-    hashtags: "#bnsfrailway, #es44ac, #neverfitin, #amtrak"
-  - username: "mjasminelux"
+    hashtags: "#dating, #instagram, #trending, #relationship"
+  - username: "lucerosfineboutique"
     fullname: >-
-      Mistress Jasmine Lux
+      LucerosFineBoutique
+    bio: >-
+      Quinceañeras Paradise✨ IG:LucerosFineBoutique👑💓 Aurora, Illinois📍
     location: "United States"
-    followers: 13847
-    engagement: 985
-    commentsToLikes: 0.034933
-    id: ck8nf4n8jq6tg0j78501oo9m0
+    followers: 108900
+    engagement: 1283
+    commentsToLikes: 0.016237
+    id: ckbkecrrv51470j23fycixg3p
     verified: false
-    hashtags: "#twerk, #alphafemale, #happyathome, #dblockeurope"
-  - username: ".paulina.w"
-    fullname: >-
-      paulinadub
-    location: "United States"
-    followers: 2571
-    engagement: 1246
-    commentsToLikes: 0.047777
-    id: ck9gklrbwjvd50j78i6x4in2t
-    verified: false
-    hashtags: "#tiktokrecipe, #greece, #viral, #foodie"
+    hashtags: "#showupshowoff, #quinceanera, #crown, #fy"
 ---

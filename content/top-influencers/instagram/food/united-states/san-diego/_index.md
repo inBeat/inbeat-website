@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In San Diego In 2020
 description: >-
-  Find top food Instagram influencers in San Diego in 2020. Most popular hashtags: #food #sandiego #pool #ad.
+  Find top food Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #foodie #food.
 platform: Instagram
+hits: 110
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 110 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "tower.jeremiah"
+  - username: "mittqueen"
     fullname: >-
-      Jeremiah Tower
+      Ann Najjar
+    bio: >-
+      👑 #mittqueen 🥊@bomber_squad_boxing_academy 🍴@fork_it_food 📍San Diego,CA
     location: "United States"
-    followers: 8330
-    engagement: 496
-    commentsToLikes: 0.054060
-    id: ck14i6ff1dvhp0i19i8z6whhs
+    followers: 78519
+    engagement: 928
+    commentsToLikes: 0.014898
+    id: ck9wedzk5jtbj0j78hmt0r2rz
     verified: false
-    hashtags: "#thetowerawards, #martinis, #eatyourveggies, #culinary"
+    hashtags: "#sandiego, #box, #boxing, #mittqueen"
+  - username: "n0thing"
+    fullname: >-
+      Jordan Gilbert
+    bio: >-
+      💣 CSGO Pro, ⛳️ Golfer, 👨🏼‍🍳 Maker of food 📍 San Diego 🥑 @trutharaee & 🍼baby gilbs (ETA March) 💜 Twitch/Twitter/YouTube: n0thing
+    location: "United States"
+    followers: 141638
+    engagement: 569
+    commentsToLikes: 0.009625
+    id: ck55jwk70xxfj0i1108ratvf7
+    verified: true
+    hashtags: "#ad, #gamefuelpartner, #aorusmasweek, #aorus"
+  - username: "rolexwhisky"
+    fullname: >-
+      Rare Whisky &  Rolex Collector
+    bio: >-
+      🥃Whisky Hunter🏆 ⌚️Rolex Lover❤️ 🍱Foodie📸 💰Spirits Investor📈 🌏World Traveler✈️ 🤗Passion Project🥃 🎨Creator of #suntoryflex 21+ To Follow
+    location: "United States"
+    followers: 111198
+    engagement: 84
+    commentsToLikes: 0.018488
+    id: ck5q6bg5ywq1i0i11stswdfnl
+    verified: false
+    hashtags: "#suntorytime, #scotchscotchscotch, #foodporn, #suntoryflex"
   - username: "kalefornia_kravings"
     fullname: >-
       Caitlin | Easy & Healthy Meals
+    bio: >-
+      📸 Food photographer & blogger 🥑 Real food recipes 📍 San Diego 🙏🏻 Balanced living Sharing simple healthier eats & a few sweet treats!🤗
     location: "United States"
-    followers: 5542
-    engagement: 2106
-    commentsToLikes: 0.474994
+    followers: 6936
+    engagement: 1329
+    commentsToLikes: 0.459375
     id: ck5bu8xbrhczn0i1105yt7b95
     verified: false
-    hashtags: "#greenfood, #tortillapizza, #smores, #snacks"
+    hashtags: "#healthyrecipes, #easymeals, #thenewhealthy, #healthylunch"
+  - username: "antonio_eats_la"
+    fullname: >-
+      Antonio Malik
+    bio: >-
+      📍Los Angeles📍San Diego Food | Fitness | Travel Collab/promotions? DM/ 📧: antonioeatsla@gmail.com As seen on @abc7la @abc7community @foodnetwork
+    location: "United States"
+    followers: 136150
+    engagement: 204
+    commentsToLikes: 0.066020
+    id: ck0u9zqpjb25v0i19j1ysui88
+    verified: false
+    hashtags: "#instagood, #shrimp, #foodie, #tijuana"
   - username: "amyvsfood"
     fullname: >-
       Amy Tran
+    bio: >-
+      Food|Fitness|Fishing San Diego ✈️ Camas ☀️@johnskillerprotein
     location: "United States"
     followers: 5958
     engagement: 735
     commentsToLikes: 0.039723
     id: ckaot600vuj5g0i78voe196rx
     verified: false
-    hashtags: "#cordovacoolers, #sandiegofitness, #girlswhogrill, #myfabletics"
+    hashtags: "#longhairproblems, #girlswhogrill, #fableticspartner, #springsalmon"
+  - username: "_sandiegofoodie"
+    fullname: >-
+      San Diego Foodie 🏝 Robin
+    bio: >-
+      🌮The best food & drink in San Diego 😂Your daily dose of food puns 🧠PhD in clinical psychology 📩DM/email for collabs @nomtasticfoods @bestfoodsandiego
+    location: "United States"
+    followers: 8212
+    engagement: 491
+    commentsToLikes: 0.240529
+    id: ck6tss6cu6jh50j71u377jkzu
+    verified: false
+    hashtags: ""
   - username: "firstcomeslatte"
     fullname: >-
       Kristen Mattern
+    bio: >-
+      🍽San Diego Food Blogger 🥨🍦🍩☕️ 🌴Life + Travel 🏰 Find me @firstcomesdisney #firstcomesdisney
     location: "United States"
-    followers: 5237
-    engagement: 555
-    commentsToLikes: 0.043164
+    followers: 5321
+    engagement: 477
+    commentsToLikes: 0.050031
     id: ck9wfuzvlqm170j78sfplrg9m
     verified: false
-    hashtags: "#sprouts, #selfisolation, #churros, #dessert"
-  - username: "ambersogorka"
+    hashtags: "#stayhome, #quarantine, #sandiegoeats, #sdfoodie"
+  - username: "bestfoodsandiego"
     fullname: >-
-      Certified Nutrition Coach
+      San Diego's @BestFoodFeed
+    bio: >-
+      👏 Feeding You The Best Food 💪 @BestFoodFeed Community Powered 👉 #BestFoodSanDiego #BestFoodFeed 👇 Join Us To Collaborate!
     location: "United States"
-    followers: 4050
-    engagement: 937
-    commentsToLikes: 0.100958
-    id: ck8t6tfg2emql0j7815j51uhq
+    followers: 88006
+    engagement: 89
+    commentsToLikes: 0.022381
+    id: ck0tta3lm1t850i19wq5gxagu
     verified: false
-    hashtags: "#wellness, #rappelling, #sandiego, #food"
-  - username: "top_sandiego_restaurants"
+    hashtags: "#sdfood, #foodies, #lunch, #bestfoodfeed"
+  - username: "ashleysprankles"
     fullname: >-
-      🇺🇸 San Diego's Top Restaurants
+      Ashley Sprankles
+    bio: >-
+      Portraits • Food • Landscape 📸 𝕍𝕖𝕘𝕒𝕟 𝕘𝕚𝕣𝕝 🐷 ☀️🌈 [she/her] Dog Mom T💓Z • Donut Connoisseur 🍩
     location: "United States"
-    followers: 27233
-    engagement: 137
-    commentsToLikes: 0.038035
-    id: ck6u9tj0ozkgo0j71ud1q9de6
+    followers: 86203
+    engagement: 120
+    commentsToLikes: 0.050632
+    id: ck13d2c203ba70i19cv94n42v
     verified: false
-    hashtags: "#topsandiegorestaurants, #topcitybites"
-  - username: "taylereatseverything"
-    fullname: >-
-      Tayler Coffin | San Diego Food
-    location: "United States"
-    followers: 18321
-    engagement: 187
-    commentsToLikes: 0.042030
-    id: ck14jj8f7kmsv0i19n31h95vz
-    verified: false
-    hashtags: "#soberoctober, #mcdonalds, #howihummus, #howimmus"
-  - username: "erica_shawty"
-    fullname: >-
-      erica shutty
-    location: "United States"
-    followers: 10743
-    engagement: 773
-    commentsToLikes: 0.128362
-    id: ck9hc8fb1k89h0j78pvrujhbh
-    verified: false
-    hashtags: "#ad, #thisiskirei, #mykireimoments"
-  - username: "angela__yue"
-    fullname: >-
-      𝔸𝕟𝕘𝕖𝕝𝕒 𝕐𝕦𝕖 • “𝕃𝕒 ℂ𝕙𝕚𝕟𝕚𝕥𝕒”
-    location: "United States"
-    followers: 24091
-    engagement: 317
-    commentsToLikes: 0.018560
-    id: ck8tcskpv0ijl0j78ld69v6a5
-    verified: false
-    hashtags: "#fuentefever2020, #cigarsmoker, #cigarporn, #fuentefever"
-  - username: "xocarlarenee"
-    fullname: >-
-      Carla Snuggs ❤
-    location: "United States"
-    followers: 16654
-    engagement: 432
-    commentsToLikes: 0.030381
-    id: ck8swq5mdeuqd0j782s6w9kas
-    verified: false
-    hashtags: "#keto, #dailyharvest, #dailyharvesttastemaker, #ultabeauty"
+    hashtags: "#sandiegovegan, #food, #ourplanetdaily, #portrait"
 ---

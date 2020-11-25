@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Turkey In 2020
 description: >-
-  Find top cooking Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #cooking #breakfast #istanbul.
+  Find top cooking Instagram influencers in Turkey in 2020. Most popular hashtags: #cooking #food #yummy #tatl.
 platform: Instagram
+hits: 75
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 75 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "zetfashion"
-    fullname: >-
-      Zuhal Okcu Özden
-    location: "Turkey"
-    followers: 65314
-    engagement: 631
-    commentsToLikes: 0.398714
-    id: ckaoyf98wh9yi0i783htgm9g0
-    verified: false
-    hashtags: "#zetmutfakta, #summer, #summertime"
   - username: "ayiyemegi"
     fullname: >-
-      Ayı Yemeği ®
+      Ayı Yemeği ®
+    bio: >-
+      ⛺️ cooking menu 🐻 şeflerin kamp menüsü 📧 paylaşım/sharing Baş yiyici 🐻 şef @turanzeynel 🔜 29-30 Ağustos AyıYemeğiKampı’20 📱 iphone 11 🚙 Duster’13
     location: "Turkey"
-    followers: 72112
-    engagement: 189
-    commentsToLikes: 0.029691
+    followers: 74416
+    engagement: 172
+    commentsToLikes: 0.027879
     id: ckaoxtwjjeqdz0i78y9p5w9h1
     verified: false
-    hashtags: "#ramazanbayram, #pirinc, #camplife, #repost"
-  - username: "onurollstyle"
+    hashtags: "#realfood, #foodie, #breakfast, #organicfood"
+  - username: "ariferdogann"
     fullname: >-
-      Onur Erol | #EvdeKal
+      Arif Erdoğan 👨🏽‍🍳
+    bio: >-
+      Babaanne mutfağında erişilebilir lezzetler 😋👨🏽‍🍳❤️ Oreo Magnolia 🍌🍓🍫👇👇
     location: "Turkey"
-    followers: 77088
-    engagement: 119
-    commentsToLikes: 0.033489
-    id: ck5c9w0ggc8bi0i11ualspo6l
+    followers: 307640
+    engagement: 1084
+    commentsToLikes: 0.048487
+    id: ckf5p4tmw4z9w0j230xgbkj9i
     verified: false
-    hashtags: "#iorestoacasa, #tuttoandr, #stayathome, #staiacasa"
-  - username: "nurdangurel"
+    hashtags: "#tarif, #homecookedfood, #sweetfood, #foodblogger"
+  - username: "cinilimutfak"
     fullname: >-
-      𝐍𝐮𝐫𝐝𝐚𝐧 𝐆𝐮̈𝐫𝐞𝐥 𝐀𝐜̧𝐢𝐤𝐞𝐥 🧿
+      Leyla Çemç Yavşan
+    bio: >-
+      ▪Blogger ▪Youtube/Çinili Mutfak ▪@sofradergi Yazarı✒ ▪İstanbul içi tüm özel gün siparişleriniz alınır ▪Sipariş için DM🌸 İstanbul/Turkey
     location: "Turkey"
-    followers: 11299
-    engagement: 1780
-    commentsToLikes: 0.055168
-    id: ck13cmw5k14xl0i19nk97jkj8
+    followers: 27454
+    engagement: 228
+    commentsToLikes: 0.236826
+    id: ck15s11ijap8k0i19o7t6gqok
     verified: false
-    hashtags: "#food, #smoothie, #strawberry, #instatravel"
-  - username: "onalfusun"
+    hashtags: "#dessert, #foodphotography, #canonphotography, #canont"
+  - username: "saranghae_mutfagim"
     fullname: >-
-      Fusun Onal
+      🎀SAYFAMA HOŞGELDİNİZ🎀
+    bio: >-
+      بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ 🖤 KIZLARIMA HATIRA ANNE TARİFLERİ👩‍👧‍👧
     location: "Turkey"
-    followers: 51073
-    engagement: 266
-    commentsToLikes: 0.057219
-    id: ck14jr5yvlrjd0i1935hoqwr4
+    followers: 35922
+    engagement: 254
+    commentsToLikes: 0.126027
+    id: ck9wfl4k8pbzg0j78yy584g6g
     verified: false
-    hashtags: "#dailywalks, #ripmymom, #summerof2019, #stayathome"
-  - username: "dogadakiyabanci"
+    hashtags: "#malatyayemekleri, #cookies, #saranghae, #kurabiye"
+  - username: "chef_dolce"
     fullname: >-
-      Emrah KOÇER
+      Bir lezzet hikayesi 💕
+    bio: >-
+      Profesyonel Pastacılık ve Ekmekçilik Eğitmeni Cake Designer
     location: "Turkey"
-    followers: 38388
-    engagement: 230
-    commentsToLikes: 0.170821
-    id: ck6u4fpdr3g8s0j71r2fpztq4
+    followers: 4931
+    engagement: 876
+    commentsToLikes: 0.176567
+    id: ckaoypolmiix80i78swbx2qk0
     verified: false
-    hashtags: "#foodporn, #evdehayatvar, #camping, #camprail"
-  - username: "annie_in_newyork"
+    hashtags: "#ya, #liketime, #pratiktatl, #cooking"
+  - username: "srpzandl"
     fullname: >-
-      Minyoung, Annie 🇰🇷🇱🇷
+      BenimLezzetlidunyam🌎
+    bio: >-
+      Yemek blogger Mutfağa dair herşey bu sayfada🥐🥨🥖🌭🍔🍟🥪🥗🍲🥟🌯🍇🍓🍎🍏 Yemek yazarı✍🏻 Yemekler ve fotoğraflar bana aittir 📷🍲🇹🇷
     location: "Turkey"
-    followers: 5573
-    engagement: 968
-    commentsToLikes: 0.042009
-    id: ck0w399crs86r0i19qixxe4xy
+    followers: 3471
+    engagement: 1346
+    commentsToLikes: 0.062256
+    id: ckaotmh3gwibc0i78esmrqopv
     verified: false
-    hashtags: "#school, #friends, #3am, #monstera"
-  - username: "bella_in_"
+    hashtags: "#sunumlariniz, #hamuris, #etliyemekler, #foodporn"
+  - username: "chefmehmetgok"
     fullname: >-
-      Agnès
+      Mehmet Gök
+    bio: >-
+      President of Bocuse d'Or Turkey Restaurant Entrepreneur, chef owner Reserved Cappadocia Turkey @reservedcappadocia
     location: "Turkey"
-    followers: 111220
-    engagement: 249
-    commentsToLikes: 0.028093
-    id: ck0u1narxxd310i1961g2s3dg
+    followers: 7791
+    engagement: 502
+    commentsToLikes: 0.052487
+    id: ck6ue52heov6u0j71fmkb5399
     verified: false
-    hashtags: "#aidmubarak, #eidoutfit, #family, #goodmorning"
-  - username: "journey_try"
+    hashtags: "#oliveoil, #vegetables, #homestyle, #instagood"
+  - username: "tugceileneyesek"
     fullname: >-
-      
+      Tuğçe İle Ne Yesek?🍴🍽
+    bio: >-
+      Yemeği yaşam tarzı haline getiren lezzet tutkunları için mekan önerileri👌 Milliyet Favori Lezzetler Mekan Yazarı 📰 @favori.lezzetler 📍Istanbul,Turkey
     location: "Turkey"
-    followers: 4135
-    engagement: 1938
-    commentsToLikes: 0.052539
-    id: ck8t52bo08lf80j78crljzmbl
+    followers: 12992
+    engagement: 463
+    commentsToLikes: 0.170999
+    id: ckaot65m3ujxa0i78f6iqxso2
     verified: false
-    hashtags: "#memories, #perfections, #roadto, #travellover"
-  - username: "sali_travel"
+    hashtags: "#lunch, #tasty, #foodpic, #foodphotography"
+  - username: "umraninlezzetlitarifleri"
     fullname: >-
-      sali_travel
+      Lezzetli Tarifler
+    bio: >-
+      Reklam ve tanıtım işbirliği için DM 💌 YEMEKLER🍽️ PASTALAR🍰 TATLILAR🥞 KURABİYELER🍪 POĞAÇALAR🥐 Aradığınızdan daha fazlası bu hesapta
     location: "Turkey"
-    followers: 4534
-    engagement: 1759
-    commentsToLikes: 0.267420
-    id: ck9wgo1gau8020j78dfcfuofi
+    followers: 14250
+    engagement: 706
+    commentsToLikes: 0.072628
+    id: ckap753r8io2x0i78haa38yff
     verified: false
-    hashtags: "#blogger, #fog, #sali, #travellers"
+    hashtags: "#pizzatarifi, #cooking, #ramazan, #bimaktuel"
+  - username: "cemsefinstagrm"
+    fullname: >-
+      Cem Aydoğdu
+    bio: >-
+      © 4 elements ©
+    location: "Turkey"
+    followers: 6219
+    engagement: 681
+    commentsToLikes: 0.027938
+    id: ck0vwjagru31o0i191iz717x5
+    verified: false
+    hashtags: "#planetearth, #delicious, #chef, #kitchenlife"
 ---

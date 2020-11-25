@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Canada In 2020
 description: >-
-  Find top illustrators Instagram influencers in Canada in 2020. Most popular hashtags: #rapunzel #fanart #aestheticart #disney.
+  Find top illustrators Instagram influencers in Canada in 2020. Most popular hashtags: #portrait #illustration #fashion #digitalart.
 platform: Instagram
+hits: 107
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 107 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "nivspo"
-    fullname: >-
-      🌷 Nivy 🌷
-    location: "Canada"
-    followers: 2380
-    engagement: 3064
-    commentsToLikes: 0.090935
-    id: ckaowyya9b3450i78d2fhe4fu
-    verified: false
-    hashtags: "#sailormoonredraw, #dtiys, #janicesungdtiys, #toonme"
   - username: "felice.xu"
     fullname: >-
-      Felice Xu
+      Yue Xu 🔸Felice
+    bio: >-
+      🎨✏️-Character Designer/ Illustrator/ 3D Artist 📵✋-Please don’t Edit my Art! Repost with Credit 🙈✨-Commissions: CLOSED
     location: "Canada"
-    followers: 31472
-    engagement: 1747
-    commentsToLikes: 0.024060
+    followers: 55911
+    engagement: 806
+    commentsToLikes: 0.022146
     id: ck8t1u468x1it0j78da1h6dxd
     verified: false
-    hashtags: "#disneycharacter, #illustragram, #galaxymermaid, #mermaidlove"
+    hashtags: "#artchallenge, #mydrawing, #artoftheday, #digitalart"
   - username: "tess.laf"
     fullname: >-
       Tess
+    bio: >-
+      🎨Artist and illustrator 💗Love everything creative, art and fashion ⭐️#tesslaf 💌 contact@hertruelove.com 🌼 For prints and other cool stuff go to🥰⬇️
     location: "Canada"
-    followers: 51873
-    engagement: 834
-    commentsToLikes: 0.018427
+    followers: 60627
+    engagement: 665
+    commentsToLikes: 0.019203
     id: ck601t0dfg4bu0i14lgw6906k
     verified: false
-    hashtags: "#pillowchallenge, #digitaldrawings, #digitaldraw, #ilustrationart"
-  - username: "eris_tran"
+    hashtags: "#digitalsketching, #fashionillustrator, #fashionillustrated, #fashionilustration"
+  - username: "ztiromart"
     fullname: >-
-      Eris Tran
+      Moritz Cremer
+    bio: >-
+      22 • Concept Artist/ Illustrator • Vancouver Twitch.tv/ztiromart
     location: "Canada"
-    followers: 223415
-    engagement: 206
-    commentsToLikes: 0.014824
-    id: ckaozsefwn70x0i783cwboeg4
-    verified: true
-    hashtags: "#mermaid, #versace, #dress, #couture"
+    followers: 16596
+    engagement: 1785
+    commentsToLikes: 0.005868
+    id: ckap5zkwpdtxe0i78fkchpbg1
+    verified: false
+    hashtags: "#girl, #art, #conceptart, #characterdesign"
+  - username: "echo.jpge"
+    fullname: >-
+      Echo Wang
+    bio: >-
+      🐰Toronto 🎲Graduated from OCADU ☁️Graphic Designer | Illustrator | Blogger | Gamer 📮echo.jpge@gmail.com | DM for collaboration
+    location: "Canada"
+    followers: 29277
+    engagement: 284
+    commentsToLikes: 0.027015
+    id: ckf5q6bks8bcz0j23jn0z00ut
+    verified: false
+    hashtags: "#photooftheday, #portrait, #chinese, #ootd"
   - username: "allabouteve6000"
     fullname: >-
       Eve 6000
+    bio: >-
+      🎨 Art ➡️ @6000creative . Canadian She-Beast. Toronto . Drag Queen . Illustrator Management: @lavenderpromo
     location: "Canada"
-    followers: 5316
-    engagement: 558
-    commentsToLikes: 0.052737
+    followers: 5662
+    engagement: 645
+    commentsToLikes: 0.054332
     id: ck5hhigel8e8p0i11qdkiipnf
     verified: false
-    hashtags: "#canadacontinental, #kissmyfatass, #whoisshe"
-  - username: "laurakottlowski"
+    hashtags: "#whoisshe, #canadacontinental, #kissmyfatass"
+  - username: "nssdzmn"
     fullname: >-
-      Laura Kottlowski | 🎨🏔⛸
+      nessa
+    bio: >-
+      skier on the us ski team 🍦 emily carr design + illustrator commissions closed 😴 @mmessiness
     location: "Canada"
-    followers: 5992
-    engagement: 2462
-    commentsToLikes: 0.032203
-    id: ck5hrqqitvbfu0i11se8kbi84
+    followers: 3885
+    engagement: 1232
+    commentsToLikes: 0.022774
+    id: ck5zt1c54zk2m0i14buioy5oh
     verified: false
-    hashtags: "#adultsskatetoo, #film, #movies, #moodygrams"
-  - username: "leafhug"
+    hashtags: "#operationhomebody, #spreadlove, #adimated, #bekindtoyourmind"
+  - username: "_skalsi"
     fullname: >-
-      Janelle
+      
+    bio: >-
+      Graphic Designer | Fashion Designer | Illustrator OCAD U Alumni | GBC Fashion Student Inquiries - contact@skalsi.ca @_khalsi @sukisfilms
     location: "Canada"
-    followers: 12126
-    engagement: 2797
-    commentsToLikes: 0.021828
-    id: ck137ef9nb4rz0i199o88lhfn
+    followers: 3446
+    engagement: 1137
+    commentsToLikes: 0.103405
+    id: ck8wftmtug8ov0j78bswrls8t
     verified: false
-    hashtags: "#tinyart, #aesthetic, #artistic, #firetype"
+    hashtags: "#diymask, #nike, #nikeshoes, #reversible"
   - username: "imawonder"
     fullname: >-
       Tina Tran
+    bio: >-
+      ♥ Toronto Illustrator - tiinaptran@gmail.com ♥ Do NOT copy/repost my work ♥ Personal commissions: closed ♥ Shop, Patreon, YouTube & other links:
     location: "Canada"
-    followers: 86973
-    engagement: 1013
-    commentsToLikes: 0.015273
+    followers: 97816
+    engagement: 909
+    commentsToLikes: 0.014854
     id: ck0ttm38e3b0o0i19tgjh4t5s
     verified: false
-    hashtags: "#rorygilmore, #mermay2020, #witchyaesthetic, #toshirohitsugaya"
-  - username: "lauracatrinella"
+    hashtags: "#zodiacwarriors2020, #acrylicink, #drawthisagain, #artezagouache"
+  - username: "ember.marke"
     fullname: >-
-      LAURA CATRINELLA
+      Katherine W.
+    bio: >-
+      Illustrator and designer 🥨 Draws the brows I wish I had Ongoing project: Farewell My Homeland Boulder, CO 🥨 Commissions status: closed 🥨
     location: "Canada"
-    followers: 109230
-    engagement: 675
-    commentsToLikes: 0.014987
-    id: ck139qyxqmpev0i19659ntwa0
+    followers: 18135
+    engagement: 3215
+    commentsToLikes: 0.014305
+    id: ckaouj76v0i7c0i78m54e9w1e
     verified: false
-    hashtags: "#happyfamilyday, #sudio, #sixfanarts, #usuitakumi"
-  - username: "yaboymegan"
+    hashtags: "#artistsoninstagram, #digitalart, #digitalillustration, #ocs"
+  - username: "sarahskrlj"
     fullname: >-
-      m e g u
+      S A R A H   S K R L J
+    bio: >-
+      Designer • Illustrator • Painter 📍Toronto
     location: "Canada"
-    followers: 20648
-    engagement: 1462
-    commentsToLikes: 0.020460
-    id: ck15pkcr6yb7g0i19scy86uuz
+    followers: 5689
+    engagement: 556
+    commentsToLikes: 0.102953
+    id: ck5hm16bul7h30i11cx19dwn3
     verified: false
-    hashtags: "#dmcnero, #dmcv, #devilmaycrynico, #oathkeeper"
+    hashtags: "#mccafesocialartgallery, #createathome, #weareallstars, #sponsored"
 ---

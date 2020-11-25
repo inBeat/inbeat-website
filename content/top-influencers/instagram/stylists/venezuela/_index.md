@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top stylists Instagram influencers in Venezuela in 2020. Most popular hashtags: #coronavirus #stylish #beach #cuarentena.
+  Find top stylists Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeup #venezuela #stylist #model.
 platform: Instagram
+hits: 16
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Venezuela for you to work with.
 profiles:
+  - username: "kevinbeauty"
+    fullname: >-
+      𝕂𝕖𝕧𝕚𝕟 ℝ𝕠𝕕𝕣𝕚𝕘𝕦𝕖𝕫. 𝐌𝐚𝐤𝐞𝐮𝐩 𝐀𝐫𝐭𝐢𝐬𝐭
+    bio: >-
+      Maturin - Monagas - Venezuela 🇻🇪 MAKEUP ARTIST 💄 BEAUTY EDUCATOR ✨ HAIR STYLIST 💇🏻‍♀️ Certificed: @eyerlingpulido ✨ @saul_mendoza1 0412-979-4580
+    location: "Venezuela"
+    followers: 6225
+    engagement: 688
+    commentsToLikes: 0.084623
+    id: ck6ti4o9n013y0j717lymxztk
+    verified: false
+    hashtags: "#makeupprofessional, #trendy, #menblogger, #mua"
   - username: "pialdf"
     fullname: >-
-      PIA LEYBA DI FIORE
+      PIA | Personal Shopper
+    bio: >-
+      ︴MOM IN STYLE ︴ Image Consultant | Stylist Fashion Designer | Producer
     location: "Venezuela"
-    followers: 11025
-    engagement: 504
-    commentsToLikes: 0.069168
+    followers: 11150
+    engagement: 490
+    commentsToLikes: 0.071644
     id: ck5zycll49mwd0i14hzue059b
     verified: false
-    hashtags: "#36weekspregnant, #38weekspregnant, #39weekspregnant, #27weekspregnant"
+    hashtags: "#38weekspregnant, #39weekspregnant, #manosenvenezuela, #36weekspregnant"
   - username: "petitepaulette_"
     fullname: >-
-      Petite Paulette.
+      Petite | Fashion & Lifestyle
+    bio: >-
+      Personal Stylist and Fashion Blogger🌹 Content creator | Collage Artist ⏰#Team5am info 👉🏻 @petiteat5 📍Mcbo/Ccs - No es lo que usas, es cómo lo luces.
     location: "Venezuela"
-    followers: 10733
-    engagement: 840
-    commentsToLikes: 0.068702
+    followers: 12638
+    engagement: 695
+    commentsToLikes: 0.079386
     id: ck0tuora781lw0i193zuy5afp
     verified: false
-    hashtags: "#selfie, #quarantinemood, #coronavirus, #birthdayideas"
-  - username: "figueroambeauty"
+    hashtags: "#photography, #fashionblogger, #fashion, #art"
+  - username: "samcourt2.0"
     fullname: >-
-      FIGUEROA M BEAUTY
+      Samuel Betancourt
+    bio: >-
+      Venezuelan | @bysamcourt 🎥 📩: samcourt2.0@gmail.com
     location: "Venezuela"
-    followers: 3207
-    engagement: 1177
-    commentsToLikes: 0.206050
-    id: ckapbh01nztmb0i78hxyk4n4u
+    followers: 8457
+    engagement: 1098
+    commentsToLikes: 0.120973
+    id: ck602xoc9jvyt0i14e1bnjeqz
     verified: false
-    hashtags: "#retomakeupmaturin"
-  - username: "gisellearteaga"
+    hashtags: "#hair, #editorial, #moda, #direction"
+  - username: "trinistylist"
     fullname: >-
-      GISELLE HAIR COLORIST🇻🇪
+      Trini  (juan)
+    bio: >-
+      HAIR & MAKEUP. 🔹Social / shooting. Beauty educator. ⤵️ ✉️stylist.juan@gmail.com
     location: "Venezuela"
-    followers: 13427
-    engagement: 749
-    commentsToLikes: 0.450441
-    id: ck5c6o6je5ujf0i11p3qmljok
+    followers: 19891
+    engagement: 695
+    commentsToLikes: 0.087879
+    id: ck6tk726x44mp0j714fris3yh
     verified: false
-    hashtags: "#hairideas, #estadosunidos, #framar, #argentina"
-  - username: "gizelmobayed"
+    hashtags: "#venezuela, #ccs, #mua, #halloween"
+  - username: "dailizmorillo"
     fullname: >-
-      Gizel Mobayed
+      Dailiz | FASHION & LIFESTYLE
+    bio: >-
+      #ContentCreator • Model • Brand Ambassador • Outfits • Travels • Food and Just the way I LIVE MY LIFE✨
     location: "Venezuela"
-    followers: 122929
-    engagement: 174
-    commentsToLikes: 0.057299
-    id: ck0ubykilfmw80i1985pxbx5b
-    verified: true
-    hashtags: "#amiga, #consejera, #lamejor, #martes"
+    followers: 27326
+    engagement: 306
+    commentsToLikes: 0.027220
+    id: ck5hr53vaua1f0i11mp4uyxtf
+    verified: false
+    hashtags: "#blogger, #venezuelanblogger, #fashionblogger, #stylist"
+  - username: "bysamcourt"
+    fullname: >-
+      Samuel Betancourt & Jose Mata
+    bio: >-
+      PHOTOGRAPHY - FILM & DIRECTION By @samcourt2.0 duo with @josematafotografia
+    location: "Venezuela"
+    followers: 10483
+    engagement: 425
+    commentsToLikes: 0.037602
+    id: ck8t54nc58r7b0j780p0bmjpj
+    verified: false
+    hashtags: "#clothes, #facetimephotoshoot, #asianmood, #army"
   - username: "dreissmars_"
     fullname: >-
       Dreissmar Soto
+    bio: >-
+      MissSuperModelVenezuela2018👑 MissTurismoFitnessVzla2017👑 1'FinalistaMTAragua2017👑 Com.Social. Publicidad al direct.
     location: "Venezuela"
-    followers: 13972
-    engagement: 653
-    commentsToLikes: 0.082736
+    followers: 17180
+    engagement: 790
+    commentsToLikes: 0.522934
     id: ck8t0r0x6sz2q0j78xciwnw1u
     verified: false
-    hashtags: "#desfile, #with, #fashionshow, #moda"
-  - username: "itsgardeniia"
+    hashtags: "#camisa, #outfits, #shooting, #design"
+  - username: "gizelmobayed"
     fullname: >-
-      𝐶𝑜𝑚𝑜 𝐿𝑎 𝐹𝑙𝑜𝑟 🌸
+      Gizel Mobayed
+    bio: >-
+      Comunicadora Social🎓🇻🇪📍 Ancla noticiero TELEVEN 🎥 Tv Host Mundo de mujeres IVC - TVV🌍 〽️aktub✝️
     location: "Venezuela"
-    followers: 4119
-    engagement: 942
-    commentsToLikes: 0.180733
-    id: ck6031hw7kh1o0i14cw6m7kxa
-    verified: false
-    hashtags: "#smilealways, #happy, #selfcarethreads, #specialday"
-  - username: "valechavero"
+    followers: 128543
+    engagement: 156
+    commentsToLikes: 0.042584
+    id: ck0ubykilfmw80i1985pxbx5b
+    verified: true
+    hashtags: "#look, #perfectnails, #emisionmeridiana, #mesrosa"
+  - username: "kellyfiss2020"
     fullname: >-
-      Valentina Chavero
+      Kelly Vargas
+    bio: >-
+      Reina del Café de la Feria Internacional de San Sebastián 2020💃🏼 Miss Sonrisa Miss Internet ° CEO @thekokoin Be the girl who decided to go for it 💫
     location: "Venezuela"
-    followers: 18577
-    engagement: 1109
-    commentsToLikes: 0.031450
-    id: ck9hch7hildjo0j788lqogfcv
+    followers: 2716
+    engagement: 929
+    commentsToLikes: 0.063833
+    id: ck602yl4ck14r0i1427ys40y9
     verified: false
-    hashtags: "#embarazadas, #primerbebe, #plandesalvaci, #pregnancy"
-  - username: "adrianbarret"
-    fullname: >-
-      Adrian Barreto
-    location: "Venezuela"
-    followers: 75707
-    engagement: 90
-    commentsToLikes: 0.024046
-    id: ck5zqls5tuu9p0i14sytqk9xy
-    verified: false
-    hashtags: "#cookingwithlove, #shoulderworkout, #appetizer, #photo"
-  - username: "trinistylist"
-    fullname: >-
-      Trini (juan)
-    location: "Venezuela"
-    followers: 16423
-    engagement: 462
-    commentsToLikes: 0.086549
-    id: ck6tk726x44mp0j714fris3yh
-    verified: false
-    hashtags: "#messy, #social, #missvenezuela, #jardinlovers"
+    hashtags: "#quedemonosencasa, #diamundialbullying, #2020, #halloween"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Norway In 2020
 description: >-
-  Find top dancers Instagram influencers in Norway in 2020. Most popular hashtags: #dancers #photo #oslo #like.
+  Find top dancers Instagram influencers in Norway in 2020. Most popular hashtags: #oslo #dancer #norge #dance.
 platform: Instagram
+hits: 23
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 23 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "melinamagulas"
+  - username: "i.am.fa"
     fullname: >-
-      MELINA MEYER MAGULAS
+      Fa ฟ้า 파
+    bio: >-
+      Content creator and dancer, 19 years old. Twitter: @ Fa_official__ Business inquiries through Instagram dm. Link to my YouTube channel:
     location: "Norway"
-    followers: 11048
-    engagement: 708
-    commentsToLikes: 0.077105
-    id: ck5btpoowgdih0i11oifrv0ey
+    followers: 3378
+    engagement: 2034
+    commentsToLikes: 0.046693
+    id: ckapbec1wzlve0i785ypxdp8w
     verified: false
-    hashtags: "#leverih, #optimistiskrealist, #biodermanorge, #svensk"
+    hashtags: "#rt2020, #recordplayer, #vinyl, #keyshorts"
   - username: "santinomirenna"
     fullname: >-
       Santino Mirenna
+    bio: >-
+      🇮🇹 Professional Dancer @skalvidansetv2 🔥 Team Nutramino @nutraminonorge
     location: "Norway"
-    followers: 13834
-    engagement: 717
-    commentsToLikes: 0.010322
+    followers: 15778
+    engagement: 887
+    commentsToLikes: 0.014760
     id: ckaor283aleu10i78owbn6h96
     verified: false
-    hashtags: "#dancemusic, #holiday, #norge, #salsa"
+    hashtags: "#dancing, #dwts, #skalvidanse, #danse"
+  - username: "melinamagulas"
+    fullname: >-
+      MELINA MEYER MAGULAS
+    bio: >-
+      🇳🇴🇬🇷PhDstudent|Exercise Physiologist|PerformanceCoach Past:Pro Dancer💃🏼Present: runner/xcskier @dahlie.sportswear ❄️ @atomicnordic 🎙 @prestasjonsprat
+    location: "Norway"
+    followers: 12317
+    engagement: 536
+    commentsToLikes: 0.057864
+    id: ck5btpoowgdih0i11oifrv0ey
+    verified: false
+    hashtags: "#reklame, #nordmarkaskogsmaraton, #voksi, #lynski"
   - username: "monaberntsen"
     fullname: >-
       Mona Berntsen
+    bio: >-
+      Norwegian-Moroccan dancer based in L.A 💃🏽 Booking 🇳🇴: na@noracollective.no Booking 🇺🇸: Bloc Agency Other: contact@monaberntsen.com
     location: "Norway"
-    followers: 65784
-    engagement: 383
-    commentsToLikes: 0.015914
+    followers: 90055
+    engagement: 146
+    commentsToLikes: 0.017384
     id: ck13brltrwu2r0i19kdyamh4j
     verified: true
-    hashtags: "#changesthemovement, #comearoundmechallenge, #fasterthan, #annonse"
+    hashtags: "#hmfallfashion, #hmconscious, #fallfashion, #recycledfashion"
+  - username: "martinecamilla"
+    fullname: >-
+      Martine Camilla Brænna
+    bio: >-
+      Professional dancer and choreographer The Moulin Rouge, Paris✨ RHYTHM Show De Vida ProSem, BDC-NYC BA jazzdance, Oslo National Academy of the Arts 24
+    location: "Norway"
+    followers: 8214
+    engagement: 634
+    commentsToLikes: 0.030524
+    id: ckap5f6umbeei0i78f7vp0y40
+    verified: false
+    hashtags: "#oslo, #dancers, #dancer, #lovemyjob"
+  - username: "kristinewinter"
+    fullname: >-
+      KRISTINE WINTER🍒
+    bio: >-
+      Oslo, Norway📍 Dancer Collaborations/work✉️kristinewintern@gmail.com
+    location: "Norway"
+    followers: 22225
+    engagement: 232
+    commentsToLikes: 0.011588
+    id: ck5c6m3q15q250i1108dbeekf
+    verified: false
+    hashtags: "#ginamyway, #spons, #ad, #holditvibe"
   - username: "rebin.j.r"
     fullname: >-
-      Rebin Rashid 💍 H
+      Rebin Rashid
+    bio: >-
+      Kurdish | Oslo 🔸👣 41 countries & 30 States🌍 🔸Hunter 🔸MMA Fighter 🔸Mechanic👨‍🔧 🔸Kizomba Dancer 🔸Traveling around the World 🔸Shoot competitor with Gun
     location: "Norway"
-    followers: 31883
-    engagement: 242
-    commentsToLikes: 0.154901
+    followers: 30646
+    engagement: 234
+    commentsToLikes: 0.146938
     id: ck134y6jmyrj30i19h1trt59v
     verified: false
-    hashtags: "#norway2day, #folkmagazine, #freefire, #magichour"
+    hashtags: "#photojournalism, #travel, #waterreflection, #fjelltid"
+  - username: "gorilsynnove"
+    fullname: >-
+      Gøril Synnøve
+    bio: >-
+      Norwegian pole dancer and dog mama 🥰
+    location: "Norway"
+    followers: 107270
+    engagement: 204
+    commentsToLikes: 0.072952
+    id: ck55psj6gba5f0i11vzarpann
+    verified: false
+    hashtags: "#poledance, #oksawear, #polefitness, #dragonflybrand"
   - username: "_bakerina"
     fullname: >-
       Baked by a Ballerina
+    bio: >-
+      ~Sharing my passion for bakes and makes ~Aspiring {and failing} pinterest artist ~Norwegian ballet dancer ~@heidicbc_ ~@go_vegan_nordic Ambassador ✨
     location: "Norway"
-    followers: 9222
-    engagement: 726
-    commentsToLikes: 0.218102
+    followers: 12245
+    engagement: 513
+    commentsToLikes: 0.149504
     id: ck134m3ngx3j30i19wzytx5m4
     verified: false
-    hashtags: "#tofu, #homemade, #17mai, #crispytofu"
-  - username: "cthanu"
+    hashtags: "#veganmeal, #oats, #veganyogurt, #govegan"
+  - username: "larshenriksen1"
     fullname: >-
-      Thanusha Chandrasselan
+      Lars Henriksen
+    bio: >-
+      🌍 Oslo, Norway 👻 larshenriksen 🏛 Oslo National Academy of the Arts 🏦 Grue Sparebank
     location: "Norway"
-    followers: 13843
-    engagement: 468
-    commentsToLikes: 0.050035
-    id: ck0vy8sfc2s6x0i19mznt54ea
+    followers: 11756
+    engagement: 684
+    commentsToLikes: 0.033675
+    id: ck0vy8pub2rsk0i19f4751bwv
     verified: false
-    hashtags: "#wesucceeded, #keepingupwiththejapanese"
-  - username: "nazquick"
-    fullname: >-
-      Nasir Sirikhan
-    location: "Norway"
-    followers: 30156
-    engagement: 320
-    commentsToLikes: 0.022808
-    id: ck5c4u3ja23wh0i115kejjzgw
-    verified: false
-    hashtags: "#newlogo, #process, #postcovid19, #2021"
-  - username: "ricardoc197"
-    fullname: >-
-      Ricardo
-    location: "Norway"
-    followers: 6304
-    engagement: 1262
-    commentsToLikes: 0.019886
-    id: ck8t4gcpn6pfs0j78jnxwvyhp
-    verified: false
-    hashtags: "#tightans, #recomended, #show, #tonight"
-  - username: "jobucket134"
-    fullname: >-
-      Jonathan Pierre
-    location: "Norway"
-    followers: 28717
-    engagement: 87
-    commentsToLikes: 0.047781
-    id: ck5c52eh92lc50i1111l2zdgn
-    verified: false
-    hashtags: "#afrobeat, #school, #afrobea, #life"
-  - username: "irlinradix"
-    fullname: >-
-      ✖️IRLIN✖️
-    location: "Norway"
-    followers: 15552
-    engagement: 240
-    commentsToLikes: 0.036142
-    id: ck5qa5ymzepqg0i11eaou99km
-    verified: false
-    hashtags: "#typisknorsk, #spektrum, #balloons, #justinbieber"
+    hashtags: "#maleportrait, #norge, #dancer, #gay"
 ---

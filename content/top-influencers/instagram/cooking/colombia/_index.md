@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #cooking #quedateencasa #food #medellin.
+  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #bogota #foodporn #cooking.
 platform: Instagram
+hits: 24
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 24 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "mmarocchino"
+  - username: "thechefisback"
     fullname: >-
-      ManFashion & Lifestyle
+      Pedro Fernandez
+    bio: >-
+      Cocinero, innovador de sabores!
     location: "Colombia"
-    followers: 343639
-    engagement: 330
-    commentsToLikes: 0.025967
-    id: ck13bt0bax0tu0i19y0uylaz5
-    verified: true
-    hashtags: "#entrenamiento, #zapatillasparatodxs, #fashion, #masterchefchile"
-  - username: "zuzana_klingrova"
-    fullname: >-
-      Zuzana Klingrova
-    location: "Colombia"
-    followers: 27207
-    engagement: 600
-    commentsToLikes: 0.027077
-    id: ck14ilv5yg22q0i19wu5yhqi6
+    followers: 69008
+    engagement: 123
+    commentsToLikes: 0.067919
+    id: ck137ri8ld0uc0i1905aww61k
     verified: false
-    hashtags: "#myyoga, #joga, #yogatime, #yogamat"
-  - username: "juanpatetrae"
+    hashtags: "#thechefisback, #recetas, #theloveisback, #cookinginlove"
+  - username: "vlasna"
     fullname: >-
-      Juanpatetrae 🔪
+      ↟↟↟ Natasha Vlasenco ↟↟↟
+    bio: >-
+      📷 Fotografía gastronómica y de producto 🥘 Foodie Bogota, Colombia ♥️#vlasnakitchen_recipe ➜ MIS RECETAS/МОИ РЕЦЕПТЫ ♥ #vlasna_living
     location: "Colombia"
-    followers: 6226
-    engagement: 988
-    commentsToLikes: 0.045434
-    id: ck9wd786vedof0j78c7w5bgia
+    followers: 14293
+    engagement: 327
+    commentsToLikes: 0.088248
+    id: ck14ldllou5580i19x0wv2d5l
     verified: false
-    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
-  - username: "juanpablosamper"
+    hashtags: "#fresh, #seasonal, #leaves, #vlasnakitchen"
+  - username: "malejagarciagarcia"
     fullname: >-
-      Juan Pablo
+      🌎✈️ ᗰᗩᒪᗴᒎᗩ ★·.·´¯
+    bio: >-
+      ᗰᗴᗪᎥᑕᎥᑎᗩ ᗰᎥ ᑭᖇᗝᖴᗴᔕᎥóᑎ, ᑕᗝᗰᗴᖇ ᗴᔕ ᗰᎥ ᑭᗩᔕᎥóᑎ🥩🍔🍱😻 cση нαмвяε ∂ε мυη∂σ, vιvαη ℓσs vιαנεs!!! 🚀🌎 #CosaRicaCosaBuenaCosaBienHecha 📍Medellin, Colombia 🇨🇴
     location: "Colombia"
-    followers: 13016
-    engagement: 615
-    commentsToLikes: 0.059361
-    id: ck13cgs3y09k70i19q1iddf8m
+    followers: 146797
+    engagement: 275
+    commentsToLikes: 0.079250
+    id: ckap5ykkgdpi10i78wxampujs
     verified: false
-    hashtags: "#foodie, #healthy, #challenge, #carnival"
-  - username: "juanmaelcielo"
+    hashtags: "#picofthedays, #domiciliosmedellin, #colombianas, #picoftheday"
+  - username: "mj.araque"
     fullname: >-
-      Juan Manuel Barrientos
+      M J A
+    bio: >-
+      Caleña|🇨🇴 GIC + fashion marketing Foodie👩🏻‍🍳 @mjaraquefoodcoma @lcibogota
     location: "Colombia"
-    followers: 456874
-    engagement: 39
-    commentsToLikes: 0.022826
-    id: ck5qae5ppfx9n0i116imzd4l1
-    verified: true
-    hashtags: "#socialdistancing, #cocinarencasa, #strongfathersstrongdaughters, #manosseguras"
-  - username: "anibal_aniki"
-    fullname: >-
-      Anibal Valdés Faúndez
-    location: "Colombia"
-    followers: 40219
-    engagement: 1430
-    commentsToLikes: 0.027763
-    id: ck5zmplo2mzrd0i14mm8epvea
+    followers: 19121
+    engagement: 367
+    commentsToLikes: 0.025432
+    id: ckap1ckzhu0c50i78dnaradav
     verified: false
-    hashtags: "#lulo, #alejandro, #tecitobajativo, #woaaa"
-  - username: "julioc_herrera_"
+    hashtags: "#brunchtime, #mariajose, #seattle, #restaurant"
+  - username: "mylettering_co"
     fullname: >-
-      Julio Cesar Herrera
+      My Lettering - LuisMi y Ale
+    bio: >-
+      ✍️¿Quieres aprender Lettering? 👩🏻‍🏫Nosotros te enseñamos 📚¿Quieres adquirir nuestro libro? 👇 Lettering Sin Límites
     location: "Colombia"
-    followers: 190917
-    engagement: 290
-    commentsToLikes: 0.035416
-    id: ck0uefiiwl8040i196ztkgeym
+    followers: 63401
+    engagement: 243
+    commentsToLikes: 0.175750
+    id: ckaovglcc4jp90i78xjzhpm6k
     verified: false
-    hashtags: "#portada, #parido, #cojaoficio, #aventura"
+    hashtags: "#thedailytype, #handwriting, #goodtype, #typegang"
   - username: "gatoderisa"
     fullname: >-
       Jonathan Gato
+    bio: >-
+      Comediante de @comedycentralla Improvisador de moda de famosos Salgo en fotos con famosos pero no soy famoso Runner novato Se parte del #teamgato
     location: "Colombia"
-    followers: 41686
-    engagement: 488
-    commentsToLikes: 0.044156
+    followers: 42855
+    engagement: 441
+    commentsToLikes: 0.052919
     id: ck0vy0lyt1neh0i19kgpjrjvx
     verified: false
-    hashtags: "#halloween, #queen, #marcha, #beach"
+    hashtags: "#teamgato, #quedateencasa, #comedia, #stage"
+  - username: "marrana.eats"
+    fullname: >-
+      MARRANA Eats MIAMI
+    bio: >-
+      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol ⁣⁣ Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
+    location: "Colombia"
+    followers: 26046
+    engagement: 286
+    commentsToLikes: 0.219857
+    id: ck5ch6qvwq7de0i11f0c2mnfo
+    verified: false
+    hashtags: "#florida, #avocado, #eats, #marranaeats"
   - username: "foodiehub_baq"
     fullname: >-
       Foodiehub_baq | Food blog
+    bio: >-
+      #LosDelFoodPorn X rated food reviews/Reseñas gastronómicas XXX | RECETAS🔥 🇨🇴BAQ #AyHptaQueRico #foodporn Publicidad al DM
     location: "Colombia"
-    followers: 7152
-    engagement: 638
-    commentsToLikes: 0.117513
+    followers: 8347
+    engagement: 650
+    commentsToLikes: 0.315849
     id: ck8tae96crejy0j78nosmvr0e
     verified: false
-    hashtags: "#junkfood, #streetfood, #milo, #chocolatecake"
-  - username: "babyfriendlycolombia"
+    hashtags: "#foodpornography, #sausage, #salchipapalegendbaq, #delivery"
+  - username: "plant.vibrations"
     fullname: >-
-      Babyfriendlycolombia
+      Devin Wallien
+    bio: >-
+      Plants bring Life #plantvibrations Plant Promoter on TV for @robertasgardens Informative YouTube Videos 👇
     location: "Colombia"
-    followers: 27409
-    engagement: 146
-    commentsToLikes: 0.190790
-    id: ck5camli0dp2b0i11soiyunl3
+    followers: 13047
+    engagement: 606
+    commentsToLikes: 0.031555
+    id: ckaossqdrsx630i78g9yb6rix
     verified: false
-    hashtags: "#tiktokviral, #54genq, #sorpresa, #funnyquotes"
+    hashtags: "#plantsplantsplants, #flowers, #plantblog, #succulentlove"
+  - username: "davidorozcococina"
+    fullname: >-
+      Chef David Orozco
+    bio: >-
+      Natural Born Cook Chef Colombiano 🇨🇴 Creador de @chorilongo / @oculto_bog / @curaduriagastronomica / @senorarice
+    location: "Colombia"
+    followers: 39337
+    engagement: 200
+    commentsToLikes: 0.074828
+    id: ck0w4u4y50fn10i19rukdzylu
+    verified: false
+    hashtags: "#cheflive, #foodporn, #restaurantesbogota, #mequedoencasa"
 ---

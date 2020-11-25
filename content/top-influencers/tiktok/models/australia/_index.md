@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Australia In 2020
 description: >-
-  Find top models TikTok influencers in Australia in 2020. Most popular hashtags: #tiktok #comedy #smile #duet.
+  Find top models TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #australia #foryou #foryoupage.
 platform: TikTok
+hits: 114
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 114 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "harleyagsd"
     fullname: >-
       Harley a gsd 
+    bio: >-
+      Harley Workingline gsd Bday 14/1/18 Insta model Lives Sydney/Australia 🇦🇺
     location: "Australia"
-    followers: 332359
-    engagement: 3160
-    commentsToLikes: 0.119779
+    followers: 321200
+    engagement: 2464
+    commentsToLikes: 0.115389
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#gonnabefriends, #vibewithme, #smile, #may4th"
+    hashtags: "#gsd, #petthings, #fyp, #foryou"
+  - username: "harveypetito"
+    fullname: >-
+      Harvey Petito
+    bio: >-
+      Model | Actor chadwickmodels.com
+    location: "Australia"
+    followers: 1600000
+    engagement: 2220
+    commentsToLikes: 0.021177
+    id: ck8kn2f4obb1l0j78ygrrn4v2
+    verified: true
+    hashtags: "#sponsorship, #duet, #thesims, #ad"
   - username: "lyndlkean"
     fullname: >-
       LyndlKean
+    bio: >-
+      Follow my IG LYNDLKEAN /🇦🇺/ Model / IMG Engage / Miss Earth Australia 2016
     location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
+    followers: 99600
+    engagement: 1479
+    commentsToLikes: 0.026252
     id: cka84t58ovid50i78rvcma8u1
     verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
+    hashtags: "#fashion, #thatshot, #ad, #doless"
+  - username: "christian_shay"
+    fullname: >-
+      Christian Shay
+    bio: >-
+      Photographer / Model / Influencer Business: Itschristianshay@gmail.com 🇮🇹🇦🇺
+    location: "Australia"
+    followers: 1400000
+    engagement: 2071
+    commentsToLikes: 0.007857
+    id: ck8ae6fuja7n90j789i9qv37h
+    verified: true
+    hashtags: "#photography, #culturekings, #emojiphotoshoot, #photo"
   - username: "issy_dawson.official"
     fullname: >-
-      Issy Dawson - Model
+      Issy Dawson ✨
+    bio: >-
+      Find me on insta @issy_dawson.official 💫 Creative Model, Australia.🦘✨
     location: "Australia"
-    followers: 33287
-    engagement: 1744
-    commentsToLikes: 0.021194
+    followers: 257500
+    engagement: 2018
+    commentsToLikes: 0.009295
     id: ckaih1iu43w230i78yttb4955
     verified: false
-    hashtags: "#lollipop, #hairgoals, #hairflip, #nature"
-  - username: "alissafay"
+    hashtags: "#bts, #kingsandqueens, #outtakes, #levelup"
+  - username: "annaliesegann"
     fullname: >-
-      Alissa Fay
+      Annaliese Gann
+    bio: >-
+      AUSSIE MODEL 🤪🇦🇺 IG 110K - FB 20K IG annaliesegann Account made 30.07.2020
     location: "Australia"
-    followers: 86283
-    engagement: 744
-    commentsToLikes: 0.063231
-    id: ck8z3g9zh9fqg0j78czbxo7k1
+    followers: 20500
+    engagement: 472
+    commentsToLikes: 0.055032
+    id: ckdbwx6cje4ur0j23rfbbzhp4
     verified: false
-    hashtags: "#yearbook2020, #glutesworkout, #wipeitdown, #followme"
-  - username: "nhrkgpt"
+    hashtags: "#foryoupage, #model, #dating, #australia"
+  - username: "jessraeking"
     fullname: >-
-      Nia Gupta
+      Jess King
+    bio: >-
+      Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
     location: "Australia"
-    followers: 150359
-    engagement: 746
-    commentsToLikes: 0.031439
-    id: ck9gl4xtumpv50j78ennceigb
+    followers: 8358
+    engagement: 510
+    commentsToLikes: 0.044921
+    id: ckdhgtydkxu6z0j23jn2d0wof
     verified: false
-    hashtags: "#realvoice, #australia, #indian, #jabwemet"
-  - username: "jyotibajaj1"
+    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
+  - username: "queenmercede"
     fullname: >-
-      Jyoti Bajaj
+      Larna
+    bio: >-
+      pole fitness dancer 👅 aerialist 💪🏻 model 💃🏻 not a stripper 🤜🏻
     location: "Australia"
-    followers: 265790
-    engagement: 728
-    commentsToLikes: 0.052991
-    id: ck81t0dluuham0j78phc6rxfr
+    followers: 144000
+    engagement: 1119
+    commentsToLikes: 0.014614
+    id: ckbw2nobbwsgt0j23umjh6v0f
     verified: false
-    hashtags: "#smile, #oldpunjabisongs, #karanaujlamusic, #cute"
+    hashtags: "#foryou, #fypg, #ios14, #foryoupage"
   - username: "thesuburbantarzan"
     fullname: >-
       Brandon Luna
+    bio: >-
+      GYMNAST/MODEL/PARKOUR INSTAGRAM @brandon.h.luna
     location: "Australia"
-    followers: 2234
-    engagement: 1029
-    commentsToLikes: 0.038597
+    followers: 2251
+    engagement: 1015
+    commentsToLikes: 0.052590
     id: ck9emcb1vejwo0j78kyt72gb8
     verified: false
-    hashtags: "#clothesswap, #painting, #dance, #boys"
-  - username: "thegouravsharma_"
+    hashtags: "#backflip, #slowmo, #foryou, #gym"
+  - username: "jyotibajaj1"
     fullname: >-
-      Gourav Sharma 🔥
+      Jyoti Bajaj
+    bio: >-
+      Model and lady barber Insta-jyoti.barber PB08🇮🇳 Adelaide, Australia🇦🇺
     location: "Australia"
-    followers: 145410
-    engagement: 718
-    commentsToLikes: 0.028051
-    id: ck8nj0r3e84ce0j787d1io40s
+    followers: 271000
+    engagement: 428
+    commentsToLikes: 0.038923
+    id: ck81t0dluuham0j78phc6rxfr
     verified: false
-    hashtags: "#mothersday, #justforfun, #galkrke, #duet"
-  - username: "madelinestuartmodel"
-    fullname: >-
-      Madeline Stuart
-    location: "Australia"
-    followers: 46458
-    engagement: 943
-    commentsToLikes: 0.005233
-    id: ck8jaldkmsyco0j78ly0yeas7
-    verified: false
-    hashtags: "#wearredday, #hairchallenge, #christmas, #coronavirus"
-  - username: "fluffiestduo"
-    fullname: >-
-      Jakoda Chau
-    location: "Australia"
-    followers: 78472
-    engagement: 699
-    commentsToLikes: 0.000000
-    id: ck807bgp3pkv70j78ysozoj51
-    verified: false
-    hashtags: "#challenge, #bondibeach, #zyzbca, #voiceover"
+    hashtags: "#tiktokpakistan, #pakistan, #timechakda, #adelaide"
 ---

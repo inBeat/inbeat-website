@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Atlanta In 2020
 description: >-
-  Find top beauty TikTok influencers in Atlanta in 2020. Most popular hashtags: #atlanta #beauty #morph #love.
+  Find top beauty TikTok influencers in Atlanta in 2020. Most popular hashtags: #atlanta #fyp #beauty #duet.
 platform: TikTok
+hits: 16
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 16 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
-  - username: "kimberlycherrell"
+  - username: "ashleighvoisin"
     fullname: >-
-      Kimberly Cherrell
+      Ashleigh Voisin
+    bio: >-
+      Let’s laugh together. IG @ashnvoisin Venmo: AshleighVoisin
     location: "United States"
-    followers: 12724
-    engagement: 1250
-    commentsToLikes: 0.015926
-    id: ck8zbdrbl510p0j78wp9nnho5
+    followers: 25000
+    engagement: 1157
+    commentsToLikes: 0.080033
+    id: ckck5ll2sql110j239con0tgn
     verified: false
-    hashtags: "#battle, #freezeframe, #keepingactive, #stimuluscheck"
-  - username: "palomaaluciana"
+    hashtags: "#women, #sometimesirun, #onewheel, #funny"
+  - username: "kristinacichanowsky"
     fullname: >-
-      paloma
+      Kristina Cichanowsky
+    bio: >-
+      Kristina
     location: "United States"
-    followers: 19692
-    engagement: 1482
-    commentsToLikes: 0.015300
-    id: ck92uxk85o02r0j78efp6hdw9
+    followers: 5169
+    engagement: 590
+    commentsToLikes: 0.031422
+    id: ck9fx8oa05at10j784au4o2zb
     verified: false
-    hashtags: "#parischallenge, #antiques, #organization, #skincaretips"
-  - username: "officerbates"
+    hashtags: "#hair, #passion, #fyp, #worship"
+  - username: "dyetta"
     fullname: >-
-      Albert
+      Donyetta Edwards
+    bio: >-
+      An Atlanta based lifestyle, health and beauty blog curated by Donyetta Edwards.
     location: "United States"
-    followers: 35426
-    engagement: 1521
-    commentsToLikes: 0.083901
-    id: ck9k7i0464zhs0j78m9c3064l
+    followers: 14200
+    engagement: 1027
+    commentsToLikes: 0.070911
+    id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#fatherhood, #people, #k9officer, #doessizematter"
-  - username: "wfpbjosh"
+    hashtags: "#popquiz, #zoom, #workfromhome, #duet"
+  - username: "bkshedevil"
     fullname: >-
-      Josh Wayne
+      @BKSheDevil
+    bio: >-
+      🗣YUUURRR MAJESTY🗣 🇵🇷💄🖕🏼😈🤳🏽😜👟🗽 Beauty & The Feet’s BKLYN, NYC 🤍
     location: "United States"
-    followers: 2617
-    engagement: 629
-    commentsToLikes: 0.064011
-    id: ckakny1z394yh0i78q1bxh4cp
+    followers: 295400
+    engagement: 2348
+    commentsToLikes: 0.012636
+    id: ckb9askj3vzzv0j235p0o81hw
     verified: false
-    hashtags: "#veganrecipe, #pushups, #plentiful, #quarentine"
+    hashtags: "#zaida, #miabuela, #mygrandma, #lashes"
   - username: "catoura"
     fullname: >-
       Catoura
+    bio: >-
+      Beauty, Style & Yummy Eats Mama to a sweet chi chi Follow me on Insta!
     location: "United States"
-    followers: 9101
-    engagement: 695
-    commentsToLikes: 0.033332
+    followers: 10500
+    engagement: 827
+    commentsToLikes: 0.030348
     id: ck9fmlkpyu1l50j78kh09jpkd
     verified: false
-    hashtags: "#albumlookalike, #makemoney, #sidehustle, #coffee"
-  - username: "quickvic"
+    hashtags: "#fyp, #pup, #xyzbca, #dogsoftiktok"
+  - username: "littleechickpea"
     fullname: >-
-      Victor Johnson
+      Bex
+    bio: >-
+      Politically engaged 👊 Atlanta ♻🏳️‍🌈🇵🇷 Cashapp: $goodviibes
     location: "United States"
-    followers: 9950
-    engagement: 558
-    commentsToLikes: 0.092041
-    id: cka9kqriq0wm80i78uso2lhyg
+    followers: 13000
+    engagement: 1377
+    commentsToLikes: 0.121463
+    id: ckae5hpwl7gdp0i78qrnxjazm
     verified: false
-    hashtags: "#fance, #cdmixing, #special, #nigeria"
-  - username: "coufe"
+    hashtags: "#blm, #dumptrump, #ahmaudarbery, #blacklivesdomatter"
+  - username: "macyraydearing"
     fullname: >-
-      coufe
+      Macy Ray
+    bio: >-
+      Welcome to my crazy life IG@macyraydearing Ima be famous 1 day Cashapp $macydear
     location: "United States"
-    followers: 8374
-    engagement: 1445
-    commentsToLikes: 0.022247
-    id: ck9ev8l5bh7xz0j78k67zdg0c
+    followers: 187800
+    engagement: 1809
+    commentsToLikes: 0.011257
+    id: ckc85ejre4zj30j23hp0q7j66
     verified: false
-    hashtags: "#learnontiktok, #zyxbca, #eyeshadowcheck, #thisisquitting"
-  - username: "lucaskuffrey"
+    hashtags: "#atlanta, #pickuplines, #joke, #foryoupage"
+  - username: "monaswain"
     fullname: >-
-      Lucas Kuffrey
+      Mona
+    bio: >-
+      Coming to a stage or screen near you! Georgia 📍 19 she / her
     location: "United States"
-    followers: 6122
-    engagement: 948
-    commentsToLikes: 0.028015
-    id: ckan3lete5tux0i78dwfrwrqs
+    followers: 997800
+    engagement: 2785
+    commentsToLikes: 0.010563
+    id: ckd1924p2qo1d0j23nnv92jvy
     verified: false
-    hashtags: "#feel, #throwback, #facepaint, #starwars"
-  - username: "hotexbf"
+    hashtags: "#wewintogether, #electionday, #joebiden2020, #vote"
+  - username: "tiffanyjj1"
     fullname: >-
-      M@ Caulfield
+      Tiffany JJ
+    bio: >-
+      ATL ♊️🌈🎬 🐕🐈
     location: "United States"
-    followers: 3439
-    engagement: 578
-    commentsToLikes: 0.015332
-    id: ck8tkv2py9e0m0j78b4dh6ivt
+    followers: 37600
+    engagement: 1741
+    commentsToLikes: 0.090152
+    id: ckcdai72i44r80j2336f6rwen
     verified: false
-    hashtags: "#kuwtk, #beauty, #work, #manhattan"
-  - username: "lilicreation0"
+    hashtags: "#atl, #benefits, #petsoftiktok, #edd"
+  - username: "annamoraan"
     fullname: >-
-      Lilicreation
+      Anna
+    bio: >-
+      ANNAzon hiiii lets be friends :)) 📧: jessica@telloconsult.com AMAZON SHOP⬇️
     location: "United States"
-    followers: 38531
-    engagement: 546
-    commentsToLikes: 0.015350
-    id: ckahwkawvr4eb0i78l29rvf5w
+    followers: 1200000
+    engagement: 2642
+    commentsToLikes: 0.005232
+    id: ck9reo5n534q30j78haedbg7g
     verified: false
-    hashtags: "#blackqueen, #goingviral, #dress, #momsoftiktok"
+    hashtags: "#amazonfinds, #amazonfashion, #dayinthelife, #selfcare"
 ---

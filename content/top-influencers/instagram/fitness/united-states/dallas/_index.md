@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Dallas In 2020
 description: >-
-  Find top fitness Instagram influencers in Dallas in 2020. Most popular hashtags: #fitness #dallas #quarantine #workout.
+  Find top fitness Instagram influencers in Dallas in 2020. Most popular hashtags: #fitness #workout #fit.
 platform: Instagram
+hits: 227
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 227 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "corlife.style"
+  - username: "thedallaseli"
     fullname: >-
-      Corrinne
+      DALLAS  ELI
+    bio: >-
+      Rep @msaagency Credits : Nicki Minaj, MC Hammer, Old Navy & more. 📍 Chicago 📍Dallas 📍 LA
     location: "United States"
-    followers: 20681
-    engagement: 49
-    commentsToLikes: 0.061240
-    id: ck0tviwiibk0x0i19idqb4zjp
+    followers: 24699
+    engagement: 574
+    commentsToLikes: 0.070534
+    id: ck55ms8g54nk00i11baxk6za3
     verified: false
-    hashtags: "#shopbop, #amazonfashion, #paigejeans, #comehomesoon"
-  - username: "alandiseharris"
-    fullname: >-
-      Alandise Harris
-    location: "United States"
-    followers: 66880
-    engagement: 195
-    commentsToLikes: 0.082624
-    id: ck8tcw15n0wjd0j782rd9b9m5
-    verified: true
-    hashtags: "#recruitment, #quickworkout, #insta, #hoopmixtape"
-  - username: "nemakatt"
-    fullname: >-
-      Nema “The Trifecta” Katt
-    location: "United States"
-    followers: 24312
-    engagement: 239
-    commentsToLikes: 0.167271
-    id: ck6ub3x4t7bes0j717pnirn7t
-    verified: false
-    hashtags: "#cardib, #selflove, #longdreads, #alldat"
-  - username: "go__ryy"
-    fullname: >-
-      Fitness
-    location: "United States"
-    followers: 29189
-    engagement: 271
-    commentsToLikes: 0.037487
-    id: ckap8821ln8i80i78nje64c3f
-    verified: false
-    hashtags: "#dallasinfluencer, #sisters, #slim, #thick"
-  - username: "aleahstander"
-    fullname: >-
-      Aleah Stander | Fitness Expert
-    location: "United States"
-    followers: 17303
-    engagement: 336
-    commentsToLikes: 0.079805
-    id: ck8t1vdgkx6np0j7827hnknnp
-    verified: false
-    hashtags: "#stayhomewithltk, #workoutideas, #fitspo, #betterwithglg"
-  - username: "itsjessicaacy"
-    fullname: >-
-      Jessica Acy
-    location: "United States"
-    followers: 8956
-    engagement: 1362
-    commentsToLikes: 0.050722
-    id: ck0uavdfyd4pm0i198imw6xgh
-    verified: false
-    hashtags: "#ponds, #pregnantlife, #pregnantandperfect, #stayhome"
+    hashtags: "#libraseason, #peach, #dallaseli, #dallaselixchoreo"
   - username: "justbrandi_"
     fullname: >-
       Brandi🌿JustBrandi
+    bio: >-
+      💍+ 👦🏼👦🏼👶🏼 👀peep the stories 👇🏼60 lbs 💄👗🏋🏻‍♀️ beauty| fashion| fitness 📍Dallas, TX
     location: "United States"
-    followers: 100431
-    engagement: 225
-    commentsToLikes: 0.057369
+    followers: 103866
+    engagement: 202
+    commentsToLikes: 0.060623
     id: ck6u7ol9ymr5t0j71r28wnvt7
     verified: false
-    hashtags: "#obvs, #allthesweat, #maximizingnaptime, #socialdistancing"
-  - username: "kfoshotya"
-    fullname: >-
-      KFos Photography
-    location: "United States"
-    followers: 21565
-    engagement: 605
-    commentsToLikes: 0.031140
-    id: ck5zpp05et2ej0i140tf2ousw
-    verified: false
-    hashtags: "#atlmodels, #bald, #milk, #ebonyfeetfetish"
-  - username: "tmpstacademy"
-    fullname: >-
-      Tempest Freerunning Academy
-    location: "United States"
-    followers: 9080
-    engagement: 471
-    commentsToLikes: 0.010133
-    id: ck0tv2a4m9mmt0i194esg9trv
-    verified: false
-    hashtags: "#tfahighlights, #southlake, #springfloor, #academy"
+    hashtags: "#boostyourroots, #maximizingnaptime, #liketkit, #cinemoodpartner"
   - username: "dallas.lynn.fitness"
     fullname: >-
       DALLAS CUMMINGS
+    bio: >-
+      💗 Loving Jesus 👟 Fitness Coach ⛷Adrenaline Junkie ✨I help women tap into their highest potential ✨ becoming the badass lady they were meant to be￼
     location: "United States"
-    followers: 7507
-    engagement: 542
-    commentsToLikes: 0.153588
+    followers: 8614
+    engagement: 378
+    commentsToLikes: 0.096660
     id: ckap621nne4ox0i782ao272t6
     verified: false
-    hashtags: "#trustme, #isweatalot, #fancyredneck, #likealot"
+    hashtags: "#health, #champagnelover, #mentallystrong, #6weeksofthework"
+  - username: "anjelicacirone"
+    fullname: >-
+      Anjelica Cirone
+    bio: >-
+      ❤️ University of Louisville All-Girl Cheerleader alumna 🇺🇸 2X USA World Champion 💪 Trainer at @bodymachinefitness 💉 @realdrdallas 📍 Dallas
+    location: "United States"
+    followers: 4514
+    engagement: 1172
+    commentsToLikes: 0.056867
+    id: ckaoynh0ai8w10i78e9maxo2e
+    verified: false
+    hashtags: "#cheer, #workoutmotivation, #badass, #dallas"
+  - username: "brandonbo9"
+    fullname: >-
+      Brandon Martinez
+    bio: >-
+      • Dallas📍 • Fitness 💪🏼 • Wanderlust 🌍 • EDM Enthusiast 🎶 • Texas State Alumnus 🎓
+    location: "United States"
+    followers: 7773
+    engagement: 1796
+    commentsToLikes: 0.022560
+    id: ck9wfchseo98g0j78rj8zo819
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "dilmayohely"
+    fullname: >-
+      Yohely Ojeda
+    bio: >-
+      💍 Wife 🏋🏽‍♀️ Fitness 🇭🇳 Latina 📍 Dallas, TX
+    location: "United States"
+    followers: 14476
+    engagement: 481
+    commentsToLikes: 0.010769
+    id: ck5cew16kltng0i11xylit9lf
+    verified: false
+    hashtags: "#valentinesweekend, #lovestory, #mrandmrs, #marriedlife"
+  - username: "3hunnid_fitness"
+    fullname: >-
+      J Hicks
+    bio: >-
+      “ I’m gone get you Moving” Dallas,TX🩸 Fitness Trainer/👣Movement Specialists/ Former Purdue Boilermaker 🚂/ Univ. Of Texas at Arlington Grad
+    location: "United States"
+    followers: 24354
+    engagement: 250
+    commentsToLikes: 0.022812
+    id: ckap0fp36q2l50i78ssepqrox
+    verified: false
+    hashtags: "#fitness, #fitnessmotivation, #muscle, #3hunnid"
+  - username: "jamieandries"
+    fullname: >-
+      JAMES
+    bio: >-
+      ⚡️fashion + fitness + life 🗺dallas, tx 🤠 👱🏼‍♀️social media manager @rebelathletic 💌inquiries: paul@cegtalent.com 𝐘𝐎𝐔𝐓𝐔𝐁𝐄🎥👇🏼
+    location: "United States"
+    followers: 442624
+    engagement: 154
+    commentsToLikes: 0.019917
+    id: ckaozy55gnxj40i78496q9u0t
+    verified: true
+    hashtags: "#abworkout, #8minabs, #ad, #cincodemayo"
+  - username: "antoine_howard"
+    fullname: >-
+      Antoine Howard
+    bio: >-
+      🧠 Mindset Architect 🗣 Go follow @iamlifted_ 🙏🏾 🏆 Voted 2019 Dallas Best Fitness Instructor
+    location: "United States"
+    followers: 6090
+    engagement: 222
+    commentsToLikes: 0.056625
+    id: ck6tzcjuy8wp70j71vc0z7kvv
+    verified: false
+    hashtags: "#liketkit, #ltkmens, #ltkfitnessapparel, #ltkshoecrush"
+  - username: "c10cuin"
+    fullname: >-
+      Ana Cuin
+    bio: >-
+      Dallas, TX 🦋 COWBOYS 🏈💙 #84C10 #96impalaSS
+    location: "United States"
+    followers: 50187
+    engagement: 679
+    commentsToLikes: 0.026666
+    id: ck5hkg4noiczs0i111dwvnhaq
+    verified: false
+    hashtags: "#shein, #fitnessmotivation, #happiness, #californialove"
 ---

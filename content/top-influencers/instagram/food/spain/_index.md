@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Spain In 2020
 description: >-
-  Find top food Instagram influencers in Spain in 2020. Most popular hashtags: #coronavirus #avocado #travel #encasa.
+  Find top food Instagram influencers in Spain in 2020. Most popular hashtags: #foodlover #sorteo #barcelona #summer.
 platform: Instagram
+hits: 731
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 731 Instagram influencers like this in Spain for you to connect with.
 profiles:
-  - username: "aina.simon"
+  - username: "juanitoramoss"
     fullname: >-
-      AINA SIMON
+      Juanito💯
+    bio: >-
+      (Generación Del 83)😜♈️🏳️‍🌈 ¡La Vida Sigue! #familystyle #food #beauty #cosmetica 📍 (Málaga) #colaboraciones 📩 ramos1983@hotmail.com
     location: "Spain"
-    followers: 293803
-    engagement: 1175
-    commentsToLikes: 0.351111
-    id: ck0vyy6sp6d680i19gk2enc5c
+    followers: 19995
+    engagement: 785
+    commentsToLikes: 1.608985
+    id: ckaosrgrrsrsl0i78ya9t1yg8
     verified: false
-    hashtags: "#kikoathome, #valerianetflix"
+    hashtags: "#tentacioninsta, #utopiaseticas, #sorteosespan, #sorteos"
   - username: "sofiamchef6"
     fullname: >-
       Sofia MasterChef
+    bio: >-
+      Cuenta oficial de Sofia Janer: Food🍳, Reviews📍& Lifestyle📸 Curso online “Tartas icónicas con los Alcaldes”⬇️
     location: "Spain"
-    followers: 56455
-    engagement: 743
-    commentsToLikes: 0.196440
+    followers: 59320
+    engagement: 601
+    commentsToLikes: 0.151034
     id: ck5cgf7rxopv50i11kd9l8f5f
     verified: true
-    hashtags: "#canarias, #masala73, #glamour, #veganfood"
-  - username: "pitufollow"
+    hashtags: "#barcelona, #love, #cooking, #sweet"
+  - username: "tamarayuste"
     fullname: >-
-      SERGIO TURULL
+      T A M A R A 💟
+    bio: >-
+      Do more of what makes you happy 💌tamarayuste91@gmail.com 📍Madrid 👗🌏💄Lifestyle | Food | Fashion | Beauty |Travel @sheinofficial ❤️15%dto: s867h
     location: "Spain"
-    followers: 69515
-    engagement: 514
-    commentsToLikes: 0.203694
-    id: ck5bz45gnqevz0i11af9b59hl
-    verified: true
-    hashtags: "#micamino, #absworkout, #ultrarunner, #emprender"
-  - username: "juanpablocarpintero"
-    fullname: >-
-      JUAN PABLO CARPINTERO
-    location: "Spain"
-    followers: 6960
-    engagement: 1109
-    commentsToLikes: 0.106469
-    id: ck5c127w0ubbn0i11b37qyv1z
+    followers: 28507
+    engagement: 548
+    commentsToLikes: 0.560940
+    id: ck14hdqwc9t5b0i19vt7o4cn2
     verified: false
-    hashtags: "#parque, #canela, #tenerife, #tierrina"
-  - username: "juanjomonje"
+    hashtags: "#giveaway, #sheinspain, #sorteo, #sheingals"
+  - username: "soysupersara"
     fullname: >-
-      ⭐️ JUANJO MONJE
+      Sara Carreño Gutiérrez ®
+    bio: >-
+      🌿|Motivación | Amor propio 🧠|Bienestar físico | mental 🥗| Vida saludable 🤍| LifeStyle 👩🏽‍💻| Crecimiento personal 💰| Foodspring 15 % soysupersarafsg
     location: "Spain"
-    followers: 18739
-    engagement: 1169
-    commentsToLikes: 0.043888
-    id: ck8t8zk7jmelj0j788oe1hj9f
+    followers: 164278
+    engagement: 330
+    commentsToLikes: 0.238582
+    id: ck5hmt0hhmki70i11fx56hboe
     verified: false
-    hashtags: "#tattoo, #smile, #gayespa, #haircut"
-  - username: "kiseleva.kate"
+    hashtags: "#bienestar, #alicante, #motivacion, #tranquilidad"
+  - username: "meigalega"
     fullname: >-
-      Kate Kiseleva
+      Iria Pereira 💚
+    bio: >-
+      FashionLover👠CatLover😻 FoodLover🥑 VivaLaVida🌈 📍Vigo 👇Mi 21 buttons👇
     location: "Spain"
-    followers: 69036
-    engagement: 799
-    commentsToLikes: 0.027467
-    id: ck8t168emuk9n0j78i3wh09oq
+    followers: 7894
+    engagement: 816
+    commentsToLikes: 0.187295
+    id: ck8t9527amx3z0j78ag84l7li
     verified: false
-    hashtags: "#womanizer, #sevillagram, #hawkerscampus, #fotosesion"
-  - username: "diana.udrea"
+    hashtags: "#fashionvictim, #style, #outfitpost, #oto"
+  - username: "travelwitheflow"
     fullname: >-
-      𝔻𝕀𝔸ℕ𝔸 :🐚
+      Dolo🇪🇸&Edgar🇲🇽|Travel Couple
+    bio: >-
+      ❥ Content Creation | Bloggers ➺ Travel | Lifestyle | Food | Fashion ◉ On #madrid #españa ✎ Travelwitheflow@gmail.com
     location: "Spain"
-    followers: 50956
-    engagement: 358
-    commentsToLikes: 0.082211
-    id: ck5c3sgw9zys70i11wwunfrry
+    followers: 20143
+    engagement: 426
+    commentsToLikes: 0.128646
+    id: ck0u2882mz5cq0i1972pgzmsy
     verified: false
-    hashtags: "#mylook, #deezeegirl, #speriamopresto, #yomequedoencasa"
-  - username: "franlujanzgz"
+    hashtags: "#viveandalucia, #zahora, #tarifa, #vejerdelafrontera"
+  - username: "back_dox"
     fullname: >-
-      🅵🆁🅰🅽🅻🆄🅹🅰🅽
+      Back_dox
+    bio: >-
+      🇪🇸 Barcelona 🌍 Travel 🌈 ⚡️Lifestyle 🍴Food 🧘‍♀️Sports @urbansportsclub_es
     location: "Spain"
-    followers: 19904
-    engagement: 492
-    commentsToLikes: 0.116020
-    id: ck8sya82ok94j0j78mcwldcg0
+    followers: 54246
+    engagement: 298
+    commentsToLikes: 0.082405
+    id: ck15q5pbm18c50i19wez82wci
     verified: false
-    hashtags: "#beardies, #diadelamadre, #covid19, #golden"
-  - username: "bat7muller"
+    hashtags: "#marseillemaville, #surfboard, #bcnfoodies, #barcelonaenamora"
+  - username: "sarareyfdez"
     fullname: >-
-      בת-7
+      SARA REY
+    bio: >-
+      🍕 Foodie 👠 Fashion/Beauty lover 🌎 Traveller 🚩 Madrid - Sevilla
     location: "Spain"
-    followers: 22875
-    engagement: 441
-    commentsToLikes: 0.178029
-    id: ck6tw0ebdpa7c0j71wqfxlh2g
+    followers: 10752
+    engagement: 718
+    commentsToLikes: 0.204339
+    id: ck8t12zirua4b0j78byyk2xu2
     verified: false
-    hashtags: "#whatsyourmojo"
-  - username: "corinarandazzo"
+    hashtags: "#spaintourism, #illesbalears, #canarias, #menorcaexisteix"
+  - username: "blackmermaiid_"
     fullname: >-
-      Corinarandazzo
+      𝕭𝖑𝖆𝖈𝕶 • 𝕸𝖊𝖗𝖒𝖆𝖎𝖉
+    bio: >-
+      Barcelona 🧜🏻‍♀️🔮 Cats😻Fashion👗Tattoos😷💉 Makeup💄 Travels✈️ Food 🍣 Team @pullandbear 👗 Tattoo Artist @sevenseas_tattoo 😷 Owner @sabbathcultclo 🔮
     location: "Spain"
-    followers: 357692
-    engagement: 293
-    commentsToLikes: 0.052879
-    id: ck6tmlo8y82je0j71cq2odjnf
-    verified: true
-    hashtags: "#snacks, #fitness, #borjavilaseca, #mujeres"
+    followers: 31497
+    engagement: 1131
+    commentsToLikes: 0.020346
+    id: ck8tb53cfub9n0j78ejzsqrkh
+    verified: false
+    hashtags: "#blonde, #havefun, #tattoed, #goodvibes"
+  - username: "sweet_home_anywhere"
+    fullname: >-
+      Sweet Home Anywhere
+    bio: >-
+      Carla & Pedro Base de operaciones en Granada 👫🐶 🗺Travelholics🗺 🥙 Foodies 🥘 🌎Soñando con nuestro próximo destino!🙌🏻✈️ 🔜 ¿?
+    location: "Spain"
+    followers: 2186
+    engagement: 1381
+    commentsToLikes: 0.114595
+    id: ck6ufkx7rxo7x0j71utbfxodu
+    verified: false
+    hashtags: "#picoftheday, #greece, #iamtb, #soultravel"
 ---

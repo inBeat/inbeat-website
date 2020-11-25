@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bakers TikTok Influencers In India In 2020
 description: >-
-  Find top bakers TikTok influencers in India in 2020. Most popular hashtags: #baker #desserts #dessert #foryou.
+  Find top bakers TikTok influencers in India in 2020. Most popular hashtags: #cake #foryou #foryoupage #baker.
 platform: TikTok
+hits: 116
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 116 TikTok influencers like this in India for you to collaborate.
 profiles:
+  - username: "madhurimasaha5"
+    fullname: >-
+      Madhurima Saha
+    bio: >-
+       Baker 💛 15feb 🎂 Siliguri 
+    location: "India"
+    followers: 5823
+    engagement: 894
+    commentsToLikes: 0.013741
+    id: ckbw4hxb6xkp80j23zkumyd2h
+    verified: false
+    hashtags: "#playathome, #tik, #stayathome, #stayhome"
   - username: "parth_bajaj"
     fullname: >-
       Parth Bajaj
+    bio: >-
+      22,Food blogger Chef & baker Tv show host instagram - “parthbajaj” #nagpuritadka
     location: "India"
-    followers: 293840
-    engagement: 533
-    commentsToLikes: 0.005490
+    followers: 291000
+    engagement: 508
+    commentsToLikes: 0.006035
     id: ck8toytowoift0j78ts2tffco
     verified: false
-    hashtags: "#dosa, #foodblogger, #desserts, #foryouppage"
+    hashtags: "#indianfood, #nagpuritadka, #foryourpage, #food"
   - username: "shiveshbhatia"
     fullname: >-
       Bake With Shivesh
+    bio: >-
+      I'm a baker & food blogger who loves creating food content. IG- @shivesh17
     location: "India"
-    followers: 57766
-    engagement: 545
-    commentsToLikes: 0.004491
+    followers: 78100
+    engagement: 515
+    commentsToLikes: 0.005217
     id: ck8ts7ph2r6m20j78ag3iz6c7
     verified: true
-    hashtags: "#lunch, #eggless, #summer, #desi"
+    hashtags: "#whatieatinaday, #foodvideo, #bakery, #tiktokchef"
   - username: "yadavbrand775"
     fullname: >-
       #mr_yadav_brand
+    bio: >-
+      😜
     location: "India"
-    followers: 2785
-    engagement: 993
-    commentsToLikes: 0.022553
+    followers: 2730
+    engagement: 973
+    commentsToLikes: 0.023427
     id: ck8rojbz4hkrp0j78qvqto3su
     verified: false
-    hashtags: "#festivali, #cgsongs, #masti, #beardlook"
+    hashtags: "#comedy, #cgfam, #cg, #cgfem"
   - username: "navi_singh01"
     fullname: >-
       Navi_Singh01
+    bio: >-
+      Food Lover♥️
     location: "India"
-    followers: 98833
-    engagement: 1160
-    commentsToLikes: 0.002836
+    followers: 95200
+    engagement: 1139
+    commentsToLikes: 0.002812
     id: ck9k7bei449nb0j78xztlhl0q
     verified: false
-    hashtags: "#pastrychef, #icecreamlover, #caketopper, #hotchocolate"
+    hashtags: "#love, #chocolaty, #creamy, #dessert"
+  - username: "zoomtv"
+    fullname: >-
+      Zoom TV
+    bio: >-
+      If you got the time, we got the entertainment. Your kind of entertainment.
+    location: "India"
+    followers: 272800
+    engagement: 402
+    commentsToLikes: 0.002922
+    id: cka637kdw35z30i78zjhyc6ld
+    verified: true
+    hashtags: "#karanjohar, #health, #staysafe, #stayhome"
+  - username: "desichineseee"
+    fullname: >-
+      desi chinese
+    bio: >-
+      YouTuber 🎥 Desi Chinese insta - desichineseee 🧡🧡
+    location: "India"
+    followers: 9985
+    engagement: 344
+    commentsToLikes: 0.020554
+    id: ckbf2sci3q13h0j23br34ieyh
+    verified: false
+    hashtags: "#quickrecipes, #golgappe, #comedyvideo, #smoothierecipe"
   - username: "sachadiaries"
     fullname: >-
       sachadiaries
+    bio: >-
+      #TeamTalenzo Food Blogger by passion, Follow us on Instagram @sachadiaries
     location: "India"
     followers: 350196
     engagement: 696
     commentsToLikes: 0.006374
     id: ck80crfn6arab0j78uje04s9k
     verified: true
-    hashtags: "#pasta, #chai, #tandoori, #galaxysedge"
-  - username: "mandhara.gowda"
+    hashtags: "#foodlover, #dahipuri, #junkfood, #foodporn"
+  - username: "sheenuminati000_7"
     fullname: >-
-      mandhara gowda
+      @sheenuminati_0007
+    bio: >-
+      follow insta :sheenuminati, motivational vedio
     location: "India"
-    followers: 225362
-    engagement: 896
-    commentsToLikes: 0.029278
-    id: ckacs16k280dx0i78canbyohw
+    followers: 35100
+    engagement: 715
+    commentsToLikes: 0.000753
+    id: ckbqhfjiw2tre0j232b23e8i2
     verified: false
-    hashtags: "#tears, #bengaluru, #dboss, #eyes"
-  - username: "kl_02_v3_psycho"
+    hashtags: ""
+  - username: "shuaibjafri"
     fullname: >-
-      🤪vichu_v3_psyçhø😜
+      Mr. Shuaib ✔️
+    bio: >-
+      Follow Me on ( Instagram )👆🏻 i will miss you tiktok 😭 😭😭😭
     location: "India"
-    followers: 14142
-    engagement: 1878
-    commentsToLikes: 0.008714
-    id: cka7o7w320thb0i78k5bjxxzc
+    followers: 1600000
+    engagement: 813
+    commentsToLikes: 0.004454
+    id: cka0ly2fmsziq0i78baj88v7f
     verified: false
-    hashtags: "#bday, #kollam, #ammauiyr, #myaccount"
-  - username: "mr.220psycho"
-    fullname: >-
-      Anandu R Nadh
-    location: "India"
-    followers: 6709
-    engagement: 1861
-    commentsToLikes: 0.008845
-    id: ckame1xl724ib0i787tzsem82
-    verified: false
-    hashtags: "#doubleexposure, #lalettan, #pubglover, #ns200"
-  - username: "aj_desai"
-    fullname: >-
-      ASHISH DESAI✔️
-    location: "India"
-    followers: 5318
-    engagement: 4856
-    commentsToLikes: 0.014349
-    id: ckaiklhjyjzy80i780p8r4ipe
-    verified: false
-    hashtags: "#ninja, #drift, #song, #vibration"
-  - username: "g_e_a_r__hacker_"
-    fullname: >-
-      g_e_a_r__hacker_
-    location: "India"
-    followers: 126043
-    engagement: 1749
-    commentsToLikes: 0.005609
-    id: ck9er9h2f0rd70j78eeyo6anj
-    verified: false
-    hashtags: "#bikerhood, #rainyday, #stuntlife, #bigbillionstar"
+    hashtags: "#quarantine, #tiktok, #friend, #duet"
 ---

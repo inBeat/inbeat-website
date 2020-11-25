@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Montreal In 2020
 description: >-
-  Find top photographers Instagram influencers in Montreal in 2020. Most popular hashtags: #toronto #explorecanada #gohideseek #france.
+  Find top photographers Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #photographer #photography #love.
 platform: Instagram
+hits: 70
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 70 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "iamhely"
+  - username: "florian_beaufreton"
     fullname: >-
-      𝕳é𝖑è𝖓𝖊 𝕭𝖔𝖚𝖉𝖗𝖊𝖆𝖚
+      FLORIAN | TECH | MONTREAL
+    bio: >-
+      📽 Video 💻 Tech 🇨🇦 Montréal, Canada
     location: "Canada"
-    followers: 35678
-    engagement: 592
-    commentsToLikes: 0.024257
-    id: ck5cfbfpammrg0i11iu39pc7l
+    followers: 5895
+    engagement: 764
+    commentsToLikes: 0.017491
+    id: ck0vv60d3np0g0i19gvxyz456
     verified: false
-    hashtags: "#lifeisgood, #vegasstrip, #inandoutburger, #photographer"
+    hashtags: "#podcastfrancais, #shotoniphone, #canadatravel, #podcastlife"
+  - username: "chelseyboll"
+    fullname: >-
+      Chelsey
+    bio: >-
+      🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
+    location: "Canada"
+    followers: 24747
+    engagement: 560
+    commentsToLikes: 0.028229
+    id: ck14hulfoc7xx0i196wyvjqwn
+    verified: false
+    hashtags: ""
   - username: "melika.dez"
     fullname: >-
       MELIKA DEZ
+    bio: >-
+      MTL based international Photographer & Art Director DM or Email to buy prints. . . @fubizstudio Talent @plieproject Photographer 📍MONTREAL
     location: "Canada"
-    followers: 16455
-    engagement: 562
-    commentsToLikes: 0.028585
+    followers: 21541
+    engagement: 434
+    commentsToLikes: 0.020895
     id: ck14l4t7qsuv00i19uaiyk1zb
     verified: false
-    hashtags: "#portrait, #freedoflondon, #alonzoking, #architecture"
-  - username: "rohanrath"
-    fullname: >-
-      Rohan Rath
-    location: "Canada"
-    followers: 11098
-    engagement: 480
-    commentsToLikes: 0.070007
-    id: ck5hhl6mk8szo0i11t6vxn47p
-    verified: false
-    hashtags: "#canadasnow, #workstation, #photographytips, #implied"
-  - username: "versepasi"
-    fullname: >-
-      V E R 🥀
-    location: "Canada"
-    followers: 37470
-    engagement: 230
-    commentsToLikes: 0.061317
-    id: ck1362ptj4gyn0i19rkl916bl
-    verified: false
-    hashtags: "#stayhomesavelives"
-  - username: "natachaeats"
-    fullname: >-
-      Natacha Eats
-    location: "Canada"
-    followers: 8452
-    engagement: 1068
-    commentsToLikes: 0.247954
-    id: ck9h9onpr9c8i0j78u0bpzemx
-    verified: false
-    hashtags: "#allegrini, #lecentral, #mangermontreal, #labragia"
+    hashtags: "#maledancer, #melikadezphotography, #fashionshoot, #giambattistavalli"
   - username: "montreal.planes"
     fullname: >-
-      Célian / Thibault
+      Célian & Thibault
+    bio: >-
+      📍 | Based at YUL 🇨🇦 🐓 | French 📸 | Aviation Photographers 📩 | montreal.planes@gmail.com ✈️ | Fly safe!!!
     location: "Canada"
-    followers: 21536
-    engagement: 561
-    commentsToLikes: 0.017980
+    followers: 22873
+    engagement: 518
+    commentsToLikes: 0.018605
     id: ck5hdwsb2prx50i11bl4heyqk
     verified: false
-    hashtags: "#airshow, #dash8, #antonovaviation, #flytheflag"
+    hashtags: "#planesdaily, #aviationlife, #airliners, #airbus"
   - username: "adrienwilliamsphotos"
     fullname: >-
       Adrien Williams
+    bio: >-
+      Architecture photographer From Montreal but now based in BC for ⛷ #adrienwilliams #architecturephotography
     location: "Canada"
     followers: 5884
     engagement: 445
     commentsToLikes: 0.008703
     id: ck5caj5lzdi9o0i1141pmt06f
     verified: false
-    hashtags: "#concreteandwood, #artiststudio, #woodstructure, #interiordesign"
+    hashtags: "#rogertaillibert, #quebec, #architecturephotography, #design"
+  - username: "yannickfornacciari"
+    fullname: >-
+      Yannick Fornacciari
+    bio: >-
+      100% Analog Montreal, CA 💊💊💊 BUY HEROIN DAYS BOOK ⤵⤵⤵
+    location: "Canada"
+    followers: 6531
+    engagement: 617
+    commentsToLikes: 0.006628
+    id: ck8sw2y49dl9w0j78mm8zl66p
+    verified: false
+    hashtags: "#filmisgod, #canada, #lgbtq, #kodak"
+  - username: "prissworldwide"
+    fullname: >-
+      Prisselda Voltaire
+    bio: >-
+      Selfportraits ✨🌟 + political science scholar 📍Tiohtià:ke (mtl) | Paris Founder of : @directedbypriss DM for any project
+    location: "Canada"
+    followers: 3001
+    engagement: 1467
+    commentsToLikes: 0.039553
+    id: ck8swql75ewbw0j785kkimjt2
+    verified: false
+    hashtags: "#photography, #photoshoot, #creative, #aesthetic"
+  - username: "brentcalis"
+    fullname: >-
+      Montreal Photographer
+    bio: >-
+      Worldwide Wedding Photographer for the wildly romantic and quirky. Montreal is home. my boudoir @soulsessionz Youtube tutorials-->
+    location: "Canada"
+    followers: 25453
+    engagement: 149
+    commentsToLikes: 0.031922
+    id: ck6totu9bg2y50j713vggyqed
+    verified: false
+    hashtags: "#authenticlovemag, #montrealelopement, #lookslikefilmweddings, #montrealfamilyphotography"
   - username: "refinedmoment"
     fullname: >-
       MONTREAL Photographer.
+    bio: >-
+      📷Travel | Commercial | Sport ✉️Charles@refinedmoment.com 📱Co-Founder @thesiftrapp 🚴🏻‍♂️ @charlesouimet Managed by @Counterculture.agency YT👇
     location: "Canada"
-    followers: 38359
-    engagement: 171
-    commentsToLikes: 0.166877
+    followers: 39264
+    engagement: 230
+    commentsToLikes: 0.024122
     id: ck139zr6bnwpy0i19xhhgsa5y
     verified: false
-    hashtags: "#lgg8xthinq, #lululemonhuddle, #cavabienaller, #mbownstheice"
-  - username: "mapping.along"
+    hashtags: "#lululemonhuddle, #worthit, #cavabienaller, #lululemon"
+  - username: "yasmeen.ghanavi"
     fullname: >-
-      Sam & Yass  ⌲  Travel
+      Yass 🌞
+    bio: >-
+      Montreal ⚑ Photographer, traveler & lover of adventure ✈ Always with @samdowal Formerly known as @mapping.along book me for a shoot 📷
     location: "Canada"
-    followers: 36309
-    engagement: 220
-    commentsToLikes: 0.095381
+    followers: 33250
+    engagement: 129
+    commentsToLikes: 0.048817
     id: ck14iqmkbgqmh0i19m9u1rqch
     verified: false
-    hashtags: "#girlswhosurf, #cidrelacroix, #oldmontreal, #canggulife"
-  - username: "arcpixel"
-    fullname: >-
-      Freddy | Montréal | 🇨🇦
-    location: "Canada"
-    followers: 8289
-    engagement: 579
-    commentsToLikes: 0.033222
-    id: ck5qaaqm4fez30i110h8mdq53
-    verified: false
-    hashtags: ""
+    hashtags: "#seekthesimplicity, #quebecoriginal, #quebectravelers, #enjoythelittlethings"
 ---

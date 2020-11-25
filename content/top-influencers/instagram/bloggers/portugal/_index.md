@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Portugal In 2020
 description: >-
-  Find top bloggers Instagram influencers in Portugal in 2020. Most popular hashtags: #makeup #workout #sorteio #skincare.
+  Find top bloggers Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #ootd #fashion #outfit.
 platform: Instagram
+hits: 99
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 99 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "joanavaz_"
     fullname: >-
       JOANA VAZ
+    bio: >-
+      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt
     location: "Portugal"
-    followers: 227382
-    engagement: 509
-    commentsToLikes: 0.076012
+    followers: 275270
+    engagement: 520
+    commentsToLikes: 0.240055
     id: ck0vvzzinrhpl0i19s7rkfmrz
     verified: true
-    hashtags: "#travel, #coord, #oysho, #workingathome"
-  - username: "virginiapferreira"
-    fullname: >-
-      Virgínia Ferreira
-    location: "Portugal"
-    followers: 6993
-    engagement: 1212
-    commentsToLikes: 0.166931
-    id: ck8szqi8vpcay0j78qoqxb6qu
-    verified: false
-    hashtags: "#party, #makeup, #guimar, #covid19"
-  - username: "catarina.fernandees"
-    fullname: >-
-      Catarina Fernandes
-    location: "Portugal"
-    followers: 68815
-    engagement: 502
-    commentsToLikes: 0.071840
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
+    hashtags: "#fashionista, #pub, #fashionblogger, #fashion"
   - username: "martinhagomez"
     fullname: >-
       Martinha Gomez
+    bio: >-
+      💄Portuguese Blogger & Youtuber 💄 🖌️Graphic Designer |📍Lisbon ▪️Mother of 🐈🐈🐕 . Collabs ✉️ Insta.martinhagomez@gmail.com .
     location: "Portugal"
-    followers: 26439
-    engagement: 498
-    commentsToLikes: 0.191096
+    followers: 28732
+    engagement: 573
+    commentsToLikes: 0.265003
     id: ck0tybj33marc0i19b7w37ha9
     verified: false
-    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
-  - username: "martaflores.oficial"
-    fullname: >-
-      MARTA FLORES MAKEUP & BELEZA
-    location: "Portugal"
-    followers: 48762
-    engagement: 474
-    commentsToLikes: 0.091625
-    id: ck6twyl4puua70j712rdf0msy
-    verified: false
-    hashtags: "#sorteio, #miminhos, #videoquarentena, #makeupprimavera"
+    hashtags: "#fridayloveday, #novidade, #playa, #verao2020"
   - username: "dearviola"
     fullname: >-
       Travel | Lifestyle | Inspo
+    bio: >-
+      🌅Viola🌅 📍From Poland🇵🇱 ✈️Moved to Portugal🇵🇹 to explore 📷Visual Storyteller & Content Creator 💌dearviola.blogger@gmail.com
     location: "Portugal"
-    followers: 20156
-    engagement: 1327
-    commentsToLikes: 0.382635
+    followers: 28176
+    engagement: 1038
+    commentsToLikes: 0.282668
     id: ck15r5t5969xj0i19nqtgf3vh
     verified: false
-    hashtags: "#pinklove, #skinfood, #podroze, #travelblogger"
-  - username: "saracastroneves"
-    fullname: >-
-      Welcome To My World ☀️
-    location: "Portugal"
-    followers: 3545
-    engagement: 1798
-    commentsToLikes: 0.446125
-    id: ck8ta8g4hqu0k0j787howgz4m
-    verified: false
-    hashtags: "#skin, #workoutathome, #outfitsideas, #pancakes"
+    hashtags: "#polishgirl, #europeantravel, #positivemindset, #dametravel"
   - username: "adanielarocha"
     fullname: >-
-      D A N I ✨
+      D A N I E L A ✨
+    bio: >-
+      Sharing things that I love | Fashion & Lifestyle @theofficialsafira Ambassador 🌟 💌 collab w/ me: danielarocha12@gmail.com Blogger & @inspo.bydani
     location: "Portugal"
-    followers: 9362
-    engagement: 810
-    commentsToLikes: 0.192766
+    followers: 10088
+    engagement: 888
+    commentsToLikes: 0.075715
     id: ck8t22ia5xz9r0j78de0j2f4u
     verified: false
-    hashtags: "#lcarnitine, #dailymakeup, #myimpact, #tummytoxpt"
-  - username: "barbara.marques"
+    hashtags: "#ad, #zaraoutfit, #inspo, #girlsgoneloavies"
+  - username: "virginiapferreira"
     fullname: >-
-      My kind of joy | Lifestyle
+      Virgínia Ferreira
+    bio: >-
+      Beauty and Fashion Blogger CONTACT virginiaferreira91@gmail.com Tiktok ▶️ virginiaferreira91 @rotita_official
     location: "Portugal"
-    followers: 58037
-    engagement: 1079
-    commentsToLikes: 0.018320
-    id: ck5pzd0tc0dfn0i113djdxzjd
+    followers: 8163
+    engagement: 764
+    commentsToLikes: 0.154529
+    id: ck8szqi8vpcay0j78qoqxb6qu
     verified: false
-    hashtags: "#saudade, #goldenhour, #cybexglobal, #crib"
+    hashtags: "#whatimweraring, #portoportugal, #photosideas, #outfit"
+  - username: "inestakestheworld"
+    fullname: >-
+      INÊS | TRAVEL & LIFESTYLE
+    bio: >-
+      ✈️ Travel Blogger 📷 Photography & Fashion Lover 📍Portuguese girl based in Lisbon ⬇️ CHECK MY BLOG FOR MORE TRAVEL TIPS
+    location: "Portugal"
+    followers: 8931
+    engagement: 686
+    commentsToLikes: 0.212125
+    id: ck0vyou0h529o0i19ka8kor50
+    verified: false
+    hashtags: "#instagood, #evora, #girlslovetravel, #exploring"
   - username: "mexiquer"
     fullname: >-
       SOFIA REIS | Mexiquer
+    bio: >-
+      Fashion Blogger + Style lover + 🌎 trotter www.mexiquer.com 🙋💛 Contact 📩 mexiiqquer@gmail.com 📍From Portugal Last video on youtube 📹👇🏼
     location: "Portugal"
-    followers: 107651
-    engagement: 252
-    commentsToLikes: 0.176423
+    followers: 106300
+    engagement: 200
+    commentsToLikes: 0.124796
     id: ck14gqv2g6l7m0i19xmx7am8d
     verified: false
-    hashtags: "#ceramic, #favoritedrink, #athome, #quarantinehome"
+    hashtags: "#makeover, #outfit, #trend, #zara"
+  - username: "anadominguezlemos"
+    fullname: >-
+      Cacomae                   Blog
+    bio: >-
+      Mother, kids,traveller & lifestyle 🌴 Blogger 💻 anadominguezlemos@gmail.com
+    location: "Portugal"
+    followers: 33140
+    engagement: 236
+    commentsToLikes: 0.263385
+    id: ckaoxk72zdmhi0i782ko8kc9g
+    verified: false
+    hashtags: "#visitportugal, #viagenscacomae, #madeira, #feriasemportugal"
+  - username: "mariana_instyle"
+    fullname: >-
+      Mariana Galhardas
+    bio: >-
+      PINK is Fashion 🦄 Fashion blogger and youtuber Buy my presets here👇🏼👇🏼#blogger #vlogger #style #fashion
+    location: "Portugal"
+    followers: 57814
+    engagement: 708
+    commentsToLikes: 0.006054
+    id: ck0u6gajm1xq20i19703ie1ey
+    verified: false
+    hashtags: "#bershkastyle, #tezenis, #tezenisofficial, #couplegoals"
+  - username: "booksturnyouon"
+    fullname: >-
+      Cátia
+    bio: >-
+      ✍️ writer, creative director & blogger 💭 feminism | books | fashion | travel 🎞 also a vintage enthusiast 📍 from Portugal
+    location: "Portugal"
+    followers: 43483
+    engagement: 623
+    commentsToLikes: 0.008128
+    id: ck8t6gi5adjoc0j78d51huo14
+    verified: false
+    hashtags: "#bookphoto, #vintageaesthetic, #readeverywhere, #theeverygirlathome"
 ---

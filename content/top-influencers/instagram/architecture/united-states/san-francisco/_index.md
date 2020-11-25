@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top architecture Instagram influencers in San Francisco in 2020. Most popular hashtags: #architecture #sanfrancisco #cityscape #palmtrees.
+  Find top architecture Instagram influencers in San Francisco in 2020. Most popular hashtags: #architecture #sanfrancisco #travel #photooftheday.
 platform: Instagram
+hits: 68
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 68 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "pabloruben_watercolors"
+  - username: "boisemidcenturyhomes"
     fullname: >-
-      Pablo Rubén
+      Mid-Century Homes • Boise, ID
+    bio: >-
+      Mid-Century Homes by Anthology 🔶 Buy, Sell, Perfect 🏡 🔶 Featured by Atomic Ranch Magazine 🔶 Featured by The New York Times
     location: "United States"
-    followers: 28960
-    engagement: 423
-    commentsToLikes: 0.055383
-    id: ck0uaxg0ede0j0i19rme8tcec
+    followers: 18073
+    engagement: 343
+    commentsToLikes: 0.038922
+    id: ck9wcxtied53i0j78tb4fa60o
     verified: false
-    hashtags: "#sailing, #botanico, #tejoriver, #terrace"
+    hashtags: "#midcenturymodern, #midcenturydesign, #boisemidcenturyhome, #boiserealestate"
+  - username: "alvaro.castagnet"
+    fullname: >-
+      Alvaro Castagnet
+    bio: >-
+      "A painting only exists when you capture the deepest facet of the subject"
+    location: "United States"
+    followers: 62884
+    engagement: 764
+    commentsToLikes: 0.025313
+    id: ck5zmkv58mqs20i14r7v4apaj
+    verified: false
+    hashtags: "#pittura, #aquarelle, #inspiration, #watercolourpaint"
   - username: "emlee7"
     fullname: >-
       Emma Lee | Fashion designer
+    bio: >-
+      Creativity takes courage|Travel • Fashion • Lifestyle Architecture & Me| Home = San Francisco #architectureemlee7 @_citytocity|📍NJ / NYC
     location: "United States"
-    followers: 28243
-    engagement: 237
-    commentsToLikes: 0.028480
+    followers: 28124
+    engagement: 191
+    commentsToLikes: 0.040434
     id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#buildingstyles, #androgynous, #thatsdarling, #love"
-  - username: "allentaylorjr"
+    hashtags: "#livethelittlethings, #livefolk, #flatlay, #exploremore"
+  - username: "j.rachmansf"
     fullname: >-
-      Allen Taylor
+      Jonathan Rachman
+    bio: >-
+      JONATHAN RACHMAN DESIGN, interior designer | Publisher & Ed. in Chief for Di Sini Di Sana | Travel Addict - oh and wysiwyg I’m #honestaf
     location: "United States"
-    followers: 23497
-    engagement: 250
-    commentsToLikes: 0.017965
-    id: ck6tj0uxg1sx90j71kjgvox5z
+    followers: 60011
+    engagement: 442
+    commentsToLikes: 0.008666
+    id: ck55nlvi26hiq0i11x1lp2toj
     verified: false
-    hashtags: "#lucidmattress, #ronin, #sanfrancisco, #architecture"
-  - username: "uofcalifornia"
+    hashtags: "#blastfromthepast, #mom, #jrachman, #paris"
+  - username: "deandelray"
     fullname: >-
-      University of California
+      Dean Delray
+    bio: >-
+      Comedian Actor Podcaster LET THERE BE TALK
     location: "United States"
-    followers: 64610
-    engagement: 180
-    commentsToLikes: 0.005797
-    id: ck0tvqnw7cfv80i199rlrxdl4
-    verified: false
-    hashtags: "#lake, #santabarbara, #santacruzlife, #lights"
-  - username: "francescoobi"
+    followers: 47212
+    engagement: 145
+    commentsToLikes: 0.062709
+    id: ck5hjsqylh6t50i11lv05a8hb
+    verified: true
+    hashtags: "#candleslit, #mrbungle, #lettherebetalkpodcast, #handmade"
+  - username: "conexao.america"
     fullname: >-
-      Francesco Sghirripa
+      conexaoamerica
+    bio: >-
+      Dicas da América🇺🇸,🇧🇷fotos,lugares,compras, curiosidades,restaurantes,viagens,etc 👉Facebook @conexaoamericaoficial 👉Twitter @americaconexao
     location: "United States"
-    followers: 15016
-    engagement: 52
-    commentsToLikes: 0.016720
-    id: ck15ug949n1eh0i19n9vvg5q4
+    followers: 9394
+    engagement: 400
+    commentsToLikes: 0.012769
+    id: ck5q2yd9didcp0i11kxkjc1wh
     verified: false
-    hashtags: "#photographs, #sunday, #tsherinsherpa, #keithharing"
-  - username: "bobtakespics"
-    fullname: >-
-      BobTakesPics
-    location: "United States"
-    followers: 8470
-    engagement: 1457
-    commentsToLikes: 0.097750
-    id: ck0twg2zvf7vr0i191p7gxrb8
-    verified: false
-    hashtags: "#cosplaygirls, #visitslo, #tokyolights, #jumpingpic"
-  - username: "lakehavencottage"
-    fullname: >-
-      Sheila | Cottage Farmhouse
-    location: "United States"
-    followers: 9148
-    engagement: 1194
-    commentsToLikes: 0.142913
-    id: ck14kww34rq6j0i19kfzpnj0p
-    verified: false
-    hashtags: "#hallwaydecor, #designinspo, #roominspiration, #grandprincess"
-  - username: "thiswildtime"
-    fullname: >-
-      Jake Cassar
-    location: "United States"
-    followers: 3219
-    engagement: 1682
-    commentsToLikes: 0.139118
-    id: ck6u0zifzinzq0j714awwf86u
-    verified: false
-    hashtags: "#spendwiththem, #berlin, #visitcopenhagen, #authenticki"
+    hashtags: "#iloveusa, #thisisnewyorkcity, #miami, #coronavirus"
   - username: "marmolradziner"
     fullname: >-
       Marmol Radziner
+    bio: >-
+      Architecture, construction, landscape, and interiors Los Angeles | San Francisco | New York
     location: "United States"
-    followers: 37800
-    engagement: 365
-    commentsToLikes: 0.017445
+    followers: 41771
+    engagement: 344
+    commentsToLikes: 0.016782
     id: ck0tzxsqwrwq70i19shh9oyx5
     verified: false
-    hashtags: "#chromasf, #marmolradzinerlandscape, #hawaiiarchitecture, #sullivancanyon"
-  - username: "the_mt_gallery"
+    hashtags: "#regram, #marmolradzinerinteriors, #californiadesign, #marmolradzinerlandscape"
+  - username: "jaguarcontainers"
     fullname: >-
-      𝕄att 𝕋
+      Jaguar Containers
+    bio: >-
+      . 🔥Top 10 Most Expensive Cigars🔥 . . CLICK👇 .
     location: "United States"
-    followers: 7745
-    engagement: 754
-    commentsToLikes: 0.029617
-    id: ck5hgcxk524sg0i11zjfzy98g
+    followers: 53466
+    engagement: 326
+    commentsToLikes: 0.010263
+    id: ck6tz8edw87jx0j715h63gb21
     verified: false
-    hashtags: "#marincounty, #dtla, #folkscenery, #thepointsguy"
+    hashtags: "#homesweethome, #trendy, #cabinvibes, #shippingcontainerhomes"
+  - username: "fisheyelemag"
+    fullname: >-
+      Fisheye Magazine
+    bio: >-
+      The world through emerging photography. To be featured: #fisheyelemag Gallery: @fisheye_gallery Festivals: @parisexperiencesphoto / @vrarlesfestival
+    location: "United States"
+    followers: 116651
+    engagement: 116
+    commentsToLikes: 0.004086
+    id: ck0uav21ud35d0i19wc6jq4d0
+    verified: false
+    hashtags: "#35mmfilm, #35mm, #confinement, #ifyouleave"
+  - username: "frvnkyvng"
+    fullname: >-
+      Frank Yang
+    bio: >-
+      📍 San Francisco 📐 Architectural Designer 📚 UC Berkeley B.A. | UCLA M.Arch. 📸 Photographer & Visual Artist 🔍 Mod: @shotzdelight & @way2ill_
+    location: "United States"
+    followers: 110283
+    engagement: 447
+    commentsToLikes: 0.258208
+    id: ck5hg7z8k1emv0i11a7qt561x
+    verified: false
+    hashtags: "#eclectic, #architizer, #moodygrams, #artofvisuals"
 ---

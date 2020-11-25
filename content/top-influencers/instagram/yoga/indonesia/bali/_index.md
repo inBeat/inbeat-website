@@ -1,92 +1,65 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Bali In 2020
 description: >-
-  Find top yoga Instagram influencers in Bali in 2020. Most popular hashtags: #yoga #balilivin #balivibes #workout.
+  Find top yoga Instagram influencers in Bali in 2020. Most popular hashtags: #bali #yoga #yogateacher #yogapractice.
 platform: Instagram
+hits: 84
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 84 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "paulaguillo"
+  - username: "kattiyoga"
     fullname: >-
-      Paula Guilló
+      KATTI 🌺YOGA & TRAVEL
+    bio: >-
+      🇨🇦🇭🇰 RYT200 • RPYT60 (pre/post natal) Yoga Teacher & Student 🧘🏽‍♀️ DM me for privates 💫 📧: info@kattiyoga.com 📍Hong Kong
     location: "Indonesia"
-    followers: 11345
-    engagement: 591
-    commentsToLikes: 0.060208
-    id: ck5q5x3ycuyqb0i114o5gojb2
+    followers: 21574
+    engagement: 451
+    commentsToLikes: 0.055101
+    id: ck0u88gz96qez0i19u2sitjam
     verified: false
-    hashtags: "#ubudhood, #island, #paradise, #instatravel"
-  - username: "lola_malaika"
+    hashtags: "#travelingyogi, #dailyyoga, #yogajournal, #yogaeverydamnday"
+  - username: "ikadewiyoga"
     fullname: >-
-      𝕊𝕖𝕝𝕗-𝕃𝕠𝕧𝕖/𝔹𝕦𝕕𝕕𝕙𝕚𝕤𝕥 𝕄𝕖𝕕𝕚𝕥𝕒𝕥𝕚𝕠𝕟
+      I K A - D E W I 💫
+    bio: >-
+      🌴 𝗬𝗼𝗴𝗮 𝘅 𝗠𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝘅 𝗦𝘁𝗿𝗲𝘁𝗰𝗵𝗶𝗻𝗴 𝘅 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 🌴 DM for 1:1 private class (all level) 🌴YTT200 in Bali @jogayogatraining 🌴Practice with me 👇🏼
     location: "Indonesia"
-    followers: 3430
-    engagement: 562
-    commentsToLikes: 0.101284
-    id: ck6tu7fgeeqil0j71uenvnzdi
+    followers: 40358
+    engagement: 252
+    commentsToLikes: 0.044287
+    id: ck6tigjim0odr0j710kenvkke
     verified: false
-    hashtags: "#cangguvibes, #cangguworkshop, #summerdresses, #mantrahealing"
-  - username: "ashtomcircus"
-    fullname: >-
-      Ash Tomasini (Circus Artist)
-    location: "Indonesia"
-    followers: 336305
-    engagement: 577
-    commentsToLikes: 0.005261
-    id: ck6tkswk25cgk0j71808p8fny
-    verified: false
-    hashtags: "#canguu, #melbournetodo, #pennylane, #hulahooping"
+    hashtags: "#yogafitwithfits, #dontbetooserious, #mindfulliving, #happyyogahappyme"
   - username: "alex.trickoso"
     fullname: >-
       Alex Trickoso
+    bio: >-
+      Cirque du soleil “VOLTA" 🎪 Tricking / Freerun athlete. Creative 🎥 📸 YouTube 👇🏻
     location: "Indonesia"
-    followers: 7067
-    engagement: 545
-    commentsToLikes: 0.048047
+    followers: 12075
+    engagement: 620
+    commentsToLikes: 0.039271
     id: ck6trp2oi09cl0j71vdzvp544
     verified: false
-    hashtags: "#extremephotography, #canggulife, #alternativebeach, #uluwatubali"
-  - username: "magdasyoga"
+    hashtags: "#parkour, #baliwaterfall, #balicili, #cliffdiving"
+  - username: "karina.kalilah"
     fullname: >-
-      Magda | Yoga
+      Kalilah - Rebirthing Alchemist
+    bio: >-
+      𝕀 𝕒𝕔𝕥𝕚𝕧𝕒𝕥𝕖 𝕪𝕠𝕦 𝕥𝕠 𝕝𝕚𝕧𝕖 𝕒 𝕗𝕦𝕝𝕝𝕪 𝕖𝕞𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕝𝕚𝕗𝕖 💪 Breathwork | Sacred Sounds | Courses, Trainings & Retreats | Embodied Movement 📍 Uluwatu, Bali.
     location: "Indonesia"
-    followers: 16652
-    engagement: 798
-    commentsToLikes: 0.081266
-    id: ck5hpgzjnrcek0i1118fids11
+    followers: 7171
+    engagement: 399
+    commentsToLikes: 0.104883
+    id: ck5c8jgsr9m8v0i11ln05vxoz
     verified: false
-    hashtags: ""
-  - username: "ikadewiyoga"
-    fullname: >-
-      𝗜𝗸𝗮 𝗗𝗲𝘄𝗶 | Yoga Teacher
-    location: "Indonesia"
-    followers: 37962
-    engagement: 314
-    commentsToLikes: 0.053613
-    id: ck6tigjim0odr0j710kenvkke
-    verified: false
-    hashtags: "#kapotasana, #laughatyourself, #practiceisfun, #backbendpose"
-  - username: "tatianapanakal"
-    fullname: >-
-      Tati Panakal
-    location: "Indonesia"
-    followers: 52256
-    engagement: 393
-    commentsToLikes: 0.029193
-    id: ck0u2jm4r007n0i197ype6e9r
-    verified: false
-    hashtags: ""
-  - username: "klara_yoga"
-    fullname: >-
-      KLARA POKORNA
-    location: "Indonesia"
-    followers: 22104
-    engagement: 506
-    commentsToLikes: 0.011218
-    id: ck13d1j4937190i1908qodlye
-    verified: false
-    hashtags: "#nothingcanstopme, #surfing, #bdaygirl, #movement"
+    hashtags: "#healingtrauma, #yogaeverydamnday, #consciousness, #lovethislife"
   - username: "juliyayuu"
     fullname: >-
       Julia Arifova
+    bio: >-
+      yoga teacher Bali | Moscow yoga online | private retreats yoga course ‘BALANCE’ | free yoga LIVE YOGA⤵️
     location: "Indonesia"
     followers: 7079
     engagement: 658
@@ -94,14 +67,64 @@ profiles:
     id: ck5c9vht1c77b0i117il67xxe
     verified: false
     hashtags: ""
-  - username: "malsvensson"
+  - username: "yogacaron"
     fullname: >-
-      ♌︎ Malin ☽                  🇸🇪
+      Caron Christison
+    bio: >-
+      🧘‍♀️Lead Teacher+Marketing @highlandyoga 💕Ambassador Codes @freskincare CaronYoga, @mandukayoga, @mrproteincoffee Caron20 🤗Online Classes+Workshops
     location: "Indonesia"
-    followers: 25135
-    engagement: 209
-    commentsToLikes: 0.040479
-    id: ck6u7m9f7mcvp0j71xbx98zbe
+    followers: 2720
+    engagement: 560
+    commentsToLikes: 0.079546
+    id: ck6txjj4vy6nq0j7162ibndn7
     verified: false
-    hashtags: "#ceremony, #dreamland, #lekelekewaterfall, #natureza"
+    hashtags: "#yogaphotography, #namaste, #yogateacher, #smile"
+  - username: "exhaleyogaretreats"
+    fullname: >-
+      Exhale Yoga Retreats
+    bio: >-
+      Bringing together likehearted people, creating an empowering sense of connection & inspiring profound transformation. #yogaretreat & #teachertraining
+    location: "Indonesia"
+    followers: 39718
+    engagement: 88
+    commentsToLikes: 0.117396
+    id: ck6udar18k0x90j71ei0f2dhp
+    verified: false
+    hashtags: "#meditation, #followyourheart, #tropicalvibes, #yogaretreat"
+  - username: "mestre.xuxo"
+    fullname: >-
+      Mestre.xuxo
+    bio: >-
+      • EnjoyYourself founder • @movement.connection • 146 traveled countries/ países • workshops, retreats,coach #mma #ufc #artist Wechat#mestrexuxo
+    location: "Indonesia"
+    followers: 60011
+    engagement: 257
+    commentsToLikes: 0.032783
+    id: ck5zqe5usufw00i143bnnb053
+    verified: false
+    hashtags: "#life, #enjoyyourself, #mestrexuxo, #travel"
+  - username: "aloharielfung"
+    fullname: >-
+      DEAF Traveler | Ariel Fung
+    bio: >-
+      【﻿Ｔａｋｅ　ａ　ｂｒｅａｋ】
+    location: "Indonesia"
+    followers: 4617
+    engagement: 1620
+    commentsToLikes: 0.123967
+    id: ck8t9hqxoo4we0j78jt8xwrz8
+    verified: false
+    hashtags: "#traveltheworld, #igtraveller, #balinature, #explorebali"
+  - username: "meghancurrieyoga"
+    fullname: >-
+      Love Every Moment
+    bio: >-
+      Juicy movement, honest nonsense, loving wisdom @is.a.belle.moon NEW 5 Day Online Intensive "Slow Motion Potion” OCT 26-30 Info and Register 👇🏽
+    location: "Indonesia"
+    followers: 155601
+    engagement: 159
+    commentsToLikes: 0.029879
+    id: ck14h1nb983h10i19rkp74bgb
+    verified: false
+    hashtags: "#breathisboss, #meghancurrieteachertraining, #chairyoga, #yoga"
 ---

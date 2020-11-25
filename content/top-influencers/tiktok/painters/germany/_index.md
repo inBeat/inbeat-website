@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In Germany In 2020
 description: >-
-  Find top painters TikTok influencers in Germany in 2020. Most popular hashtags: #coronavirus #covid19 #pinterest #travel.
+  Find top painters TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #fy #foryou #artist.
 platform: TikTok
+hits: 29
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 29 TikTok influencers like this in Germany for you to connect with.
 profiles:
+  - username: "annamarysol"
+    fullname: >-
+      WeebHasEnterdTheChat
+    bio: >-
+      ❗️Temporarily banned from posting ❗️ Artist They/them please I’m a 🏳️‍🌈 weeb
+    location: "Germany"
+    followers: 7893
+    engagement: 2653
+    commentsToLikes: 0.026903
+    id: ck9tu918nk9jt0j781hxulyiz
+    verified: false
+    hashtags: "#tutorial, #dontwatch, #digitalart, #oc"
+  - username: "kikinananana"
+    fullname: >-
+      Kikinananana
+    bio: >-
+      👩🏻‍🎨🎦 ⚠️ Website in the making ⚠️
+    location: "Germany"
+    followers: 158300
+    engagement: 2146
+    commentsToLikes: 0.018142
+    id: ckdhrphpq26q40j239or3hsgz
+    verified: false
+    hashtags: "#painter, #painting, #fyp, #deutsch"
   - username: "artofpoints"
     fullname: >-
       Anette Berstling
+    bio: >-
+      Mandala Artist See more on IG⬆️
     location: "Germany"
-    followers: 12868
-    engagement: 934
-    commentsToLikes: 0.025747
+    followers: 118700
+    engagement: 1023
+    commentsToLikes: 0.015698
     id: ckaceut30odpw0i78p5zwe1oj
     verified: false
-    hashtags: "#paintedstones, #makersgonnamake, #artvideos, #love"
-  - username: "janinarosee"
+    hashtags: "#painter, #artontiktok, #art, #dotart"
+  - username: "colourful_art_"
     fullname: >-
-      Janina Rose
+      Colourful Art
+    bio: >-
+      💕Kunst ist: „Freiheit zu gestalten“
     location: "Germany"
-    followers: 16622
-    engagement: 1209
-    commentsToLikes: 0.022640
-    id: cka84rfeuv2ri0i78efg99jhl
+    followers: 50400
+    engagement: 477
+    commentsToLikes: 0.021710
+    id: ckc86vahg5ssr0j23hbx8cie2
     verified: false
-    hashtags: "#snakechallenge, #coronatime, #eminem, #satisfy"
-  - username: "whyvanessa"
+    hashtags: "#ichliebees, #fyp, #paint, #acrylpainting"
+  - username: "harshal.music"
     fullname: >-
-      VANESSA 🦋⭒
+      Harshal
+    bio: >-
+      Be yourself everyone else is already taken❤️ Art-Music-Dance Vibe to my new song
     location: "Germany"
-    followers: 34513
-    engagement: 1756
-    commentsToLikes: 0.027517
-    id: cka0harwr8c9s0i788k3g6l35
+    followers: 5918
+    engagement: 721
+    commentsToLikes: 0.038966
+    id: ckbf9kv8l0izm0j23doujgd0m
     verified: false
-    hashtags: "#party, #homedecor, #tigerking, #idewcare"
-  - username: "kimschfer4"
+    hashtags: "#fyp, #confidence, #smoothmoves, #outfitchange"
+  - username: "yvonnepferrer"
     fullname: >-
-      Kim Schäfer
+      Yvonne Pferrer
+    bio: >-
+      Have Fun 🚌☀️😘 #vanlife Follow me on Instagram @yvonnepferrer
     location: "Germany"
-    followers: 60152
-    engagement: 1972
-    commentsToLikes: 0.019343
-    id: ck900xeqeawro0j784q99ub52
-    verified: false
-    hashtags: "#snpachat, #coronavirus, #selflove, #slomo"
-  - username: "summerbase2020"
+    followers: 456800
+    engagement: 493
+    commentsToLikes: 0.004846
+    id: ck8oxdhdp1xxi0j78doeucvia
+    verified: true
+    hashtags: "#foryou, #spass, #home, #lustig"
+  - username: "vsco_starshine"
     fullname: >-
-      I‘m actually trying
+      lara 🦋
+    bio: >-
+      lara 🦋 tysm for 3k 🥰 link to my pinterest board from my last video ⬇️
     location: "Germany"
-    followers: 7366
-    engagement: 1622
-    commentsToLikes: 0.038946
-    id: cka0jr8ssj9qs0i785smlmqeu
+    followers: 3304
+    engagement: 2077
+    commentsToLikes: 0.019093
+    id: ckc7uydx0yolm0j23gtbt66wf
     verified: false
-    hashtags: "#tiktok, #stelena, #crush, #theoriginals"
-  - username: "oneteamedia"
+    hashtags: "#fy, #skincare, #aestetic, #brandymelvillehaul"
+  - username: "hannah.louisaa"
     fullname: >-
-      OneTea Media
+      Hannah Louisa
+    bio: >-
+      Hiiii :) 🧸-lin Pinterest & Spotify:
     location: "Germany"
-    followers: 6292
-    engagement: 474
-    commentsToLikes: 0.159118
-    id: cka0lqgp4s43f0i78p345cbvg
+    followers: 13200
+    engagement: 1934
+    commentsToLikes: 0.014429
+    id: ckb9ffoi13uge0j23yf6iwm53
     verified: false
-    hashtags: "#three, #youdidntknow, #travel, #techfacts"
-  - username: "bellarenovarebycrysdawna"
+    hashtags: "#fashion, #shooting, #travel, #food"
+  - username: "clouddiary"
     fullname: >-
-      CrysDawna
+      ☁️
+    bio: >-
+      Lifestyle! ☁️ 60.0k ☁️ Pinterest : ☁️clouddiary☁️
     location: "Germany"
-    followers: 3039
-    engagement: 584
-    commentsToLikes: 0.032879
-    id: ckacbiowphljl0i7892us758w
+    followers: 63500
+    engagement: 2393
+    commentsToLikes: 0.022179
+    id: ckbkipuq5b9xm0j23xs29wxrz
     verified: false
-    hashtags: "#wineandcrafts, #creep, #paintingflowers, #winetime"
-  - username: "thomasvogell"
+    hashtags: "#mariobadescu, #xyzbca, #neverfiting, #inlove"
+  - username: "alina.drawsxx"
     fullname: >-
-      Thomas Vogel 
+      ❤️
+    bio: >-
+      Bin noch eine Anfängerin 😂❤️ Danke für 11k🥺❤️ I luv anime 🌚✨
     location: "Germany"
-    followers: 33145
-    engagement: 324
-    commentsToLikes: 0.034797
-    id: cka5zfni9migr0i78l2vbdmaw
+    followers: 11400
+    engagement: 1924
+    commentsToLikes: 0.030481
+    id: ckbev6mltelsc0j23oefpx00q
     verified: false
-    hashtags: "#mtown, #schwarz, #therme, #kalt"
-  - username: "josi.liza"
-    fullname: >-
-      Josi Liza 🌹
-    location: "Germany"
-    followers: 47512
-    engagement: 1637
-    commentsToLikes: 0.046356
-    id: ck8w2k76c5iuk0j78ze1bz421
-    verified: false
-    hashtags: "#quarantine, #liveyourself, #mynameis, #pinterest"
-  - username: "art.rachel98"
-    fullname: >-
-      FollowArt🤘✨
-    location: "Germany"
-    followers: 15865
-    engagement: 1013
-    commentsToLikes: 0.070832
-    id: ck8kgpv2sjle30j78cptgunr7
-    verified: false
-    hashtags: "#fortniteruby, #battelroyal, #fail, #pink"
+    hashtags: "#zeichnen, #pinterest, #art, #fabercastell"
 ---

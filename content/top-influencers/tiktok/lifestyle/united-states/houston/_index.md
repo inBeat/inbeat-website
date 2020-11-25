@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In Houston In 2020
 description: >-
-  Find top lifestyle TikTok influencers in Houston in 2020. Most popular hashtags: #houston #keepingbusy #lifestyle #foryoupage.
+  Find top lifestyle TikTok influencers in Houston in 2020. Most popular hashtags: #fyp #houston #foryou #foryoupage.
 platform: TikTok
+hits: 10
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in Houston, United States for you to work with.
 profiles:
-  - username: "mariasgoldenmakeup"
-    fullname: >-
-      mariasgoldenmakeup
-    location: "United States"
-    followers: 171671
-    engagement: 1412
-    commentsToLikes: 0.005899
-    id: ck8vwbpxbnyws0j78fqiy90dc
-    verified: false
-    hashtags: "#cloudmakeup, #maquillaje, #foryourpage, #shortcurlyhair"
-  - username: "houstontips"
-    fullname: >-
-      houstontips
-    location: "United States"
-    followers: 5404
-    engagement: 257
-    commentsToLikes: 0.028685
-    id: cka0ouref5lfr0i7873cnwl9y
-    verified: false
-    hashtags: "#allenparkway, #meme, #shirts, #flood"
-  - username: "styleamom"
-    fullname: >-
-      SherleyMaxine
-    location: "United States"
-    followers: 28388
-    engagement: 1336
-    commentsToLikes: 0.033456
-    id: ck90vitmr09vb0j78tt0oqecx
-    verified: false
-    hashtags: "#dancevideo, #relationships, #deltasigmatheta, #hygiene"
-  - username: "dessimonoff"
-    fullname: >-
-      dessimonoff
-    location: "United States"
-    followers: 39836
-    engagement: 302
-    commentsToLikes: 0.011817
-    id: ck9v17ljmft3g0j784l2ozgix
-    verified: false
-    hashtags: "#nailart, #heels, #decadesofhair, #bday"
-  - username: "carissastephens0"
-    fullname: >-
-      Carissa Stephens
-    location: "United States"
-    followers: 2283
-    engagement: 1289
-    commentsToLikes: 0.047773
-    id: cka6b5e26ywxe0i78kkfffqh8
-    verified: false
-    hashtags: "#sharingiscaring, #entreprener, #houstonhotties, #dontdoit"
   - username: "customhomes"
     fullname: >-
       Riverwood Building
+    bio: >-
+      Official Tik Tok page of Riverwood Building Company.
     location: "United States"
-    followers: 8112
-    engagement: 113
-    commentsToLikes: 0.028692
+    followers: 11900
+    engagement: 147
+    commentsToLikes: 0.023182
     id: ck9rbs0gaqj2z0j787h9fvz3o
     verified: false
-    hashtags: "#maketheleap, #tilefloor, #blue, #trending"
-  - username: "consciousleespeaks"
+    hashtags: "#4u, #customhomes, #build, #fyp"
+  - username: "houstontips"
     fullname: >-
-      The Conscious Lee2.0
+      houstontips
+    bio: >-
+      HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
     location: "United States"
-    followers: 57760
-    engagement: 1847
-    commentsToLikes: 0.041274
-    id: ck8kno7y6dzed0j781x9kpe2b
+    followers: 5484
+    engagement: 389
+    commentsToLikes: 0.032403
+    id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#womensrights, #women, #houston, #promplaylist"
-  - username: "nickibaber"
+    hashtags: "#houstonfood, #houston, #houstontx, #car"
+  - username: "sarahadamhafez"
     fullname: >-
-      Nicki Baber
+      sarahadamhafez
+    bio: >-
+      Lifestyle YouTuber born in 🇵🇰 living in 🇺🇸 Sub to my YouTube
     location: "United States"
-    followers: 5033134
-    engagement: 2245
-    commentsToLikes: 0.019367
-    id: ck83yswyvvfka0j781uns1b5e
-    verified: true
-    hashtags: "#cookingtips, #transition, #astrology, #tiktokscience"
-  - username: "williamsheats"
-    fullname: >-
-      williamsheats
-    location: "United States"
-    followers: 232461
-    engagement: 3279
-    commentsToLikes: 0.024171
-    id: ck9pmafws8gsr0j787llk14we
-    verified: true
-    hashtags: "#metgala, #ilovehim, #arianagrande, #cover"
-  - username: "jesssica.le"
-    fullname: >-
-      jessica le
-    location: "United States"
-    followers: 7708
-    engagement: 2114
-    commentsToLikes: 0.058673
-    id: ck99a9t8agot80j78a00sa18l
+    followers: 429600
+    engagement: 1394
+    commentsToLikes: 0.030966
+    id: ck9v17oyhftsz0j78zt9qgyyk
     verified: false
-    hashtags: "#getalife, #stitch, #yearbook2020, #joji"
+    hashtags: "#couplegoals, #marriedlife, #couplecomedy, #readysetgo"
+  - username: "dessimonoff"
+    fullname: >-
+      dessimonoff
+    bio: >-
+      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
+    location: "United States"
+    followers: 46400
+    engagement: 338
+    commentsToLikes: 0.012889
+    id: ck9v17ljmft3g0j784l2ozgix
+    verified: false
+    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
+  - username: "estiloisabella15"
+    fullname: >-
+      estiloisabella15
+    bio: >-
+      The Best Quince dress Houston TX
+    location: "United States"
+    followers: 255200
+    engagement: 817
+    commentsToLikes: 0.004230
+    id: ckbkecluh4zx80j2310qa8s9z
+    verified: false
+    hashtags: "#charroquincea, #rosegold, #blush, #mexicandress"
+  - username: "dtal"
+    fullname: >-
+      Dylan Talimoni🇹🇴
+    bio: >-
+      Photographer 📍HTX Follow me on insta 👆🏼
+    location: "United States"
+    followers: 43600
+    engagement: 2077
+    commentsToLikes: 0.019397
+    id: ckbfbzg9s4cx50j23ocz5a78i
+    verified: false
+    hashtags: "#houstonphotography, #foryoupage, #photograhy, #photomagic"
+  - username: "meganrage"
+    fullname: >-
+      Megan Rage
+    bio: >-
+      Wife + Mom of 2 Trying to be funny + relatable Follow me on IG 🥳😆🤗
+    location: "United States"
+    followers: 54000
+    engagement: 778
+    commentsToLikes: 0.033253
+    id: ck9gl3xwwmhiq0j78fklhrabv
+    verified: false
+    hashtags: "#ghostmode, #genz, #parenting, #trophywife"
+  - username: "kirbylong"
+    fullname: >-
+      Kirby Long
+    bio: >-
+      Tik tok has taken over my life TX—>NYC Insta: kirbylong_
+    location: "United States"
+    followers: 10700
+    engagement: 341
+    commentsToLikes: 0.014960
+    id: ckb9h3vsk6hh10j23882qv3hg
+    verified: false
+    hashtags: "#couples, #fyp, #foryou, #hubby"
+  - username: "ketoangel"
+    fullname: >-
+      Angie_KetoAngel
+    bio: >-
+      Keto-(ISH)🥑 but still ❤️Tacos 🌮+Cake🍰 Love to Travel✈️ #956 #Christian 🙏🏾
+    location: "United States"
+    followers: 113300
+    engagement: 697
+    commentsToLikes: 0.045969
+    id: ckb0h2mr18u3e0j23z4hhy3oj
+    verified: false
+    hashtags: "#mexicangirl, #drinkvsdiet, #keto, #pruvit"
+  - username: "tinomartineztp"
+    fullname: >-
+      Tino Martinez
+    bio: >-
+      Snap: tinomartinez6
+    location: "United States"
+    followers: 31300
+    engagement: 1757
+    commentsToLikes: 0.003388
+    id: ckbqpb87aa6d80j23jlwy88ac
+    verified: false
+    hashtags: "#tik, #live, #paint, #fortnite"
 ---

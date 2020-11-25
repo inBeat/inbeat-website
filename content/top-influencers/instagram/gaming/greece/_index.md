@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Greece In 2020
 description: >-
-  Find top gaming Instagram influencers in Greece in 2020. Most popular hashtags: #menoumespiti #stayhome #gaming #staysafe.
+  Find top gaming Instagram influencers in Greece in 2020. Most popular hashtags: #gaming #instagood #gamer #photo.
 platform: Instagram
+hits: 20
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 20 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "apostolos_christou"
+  - username: "am.konstantina"
     fullname: >-
-      Apostolos Christou
+      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+    bio: >-
+      🦷Dentist 💜Fitness & Food 📍Thessaloniki, Greece 🎥YouTube channel: Konstantina 🎮Livestreaming on Facebook Gaming : @pdtproject_official
     location: "Greece"
-    followers: 6233
-    engagement: 1987
-    commentsToLikes: 0.007480
-    id: ck14kq5b4qr5v0i19euilt8w8
+    followers: 109884
+    engagement: 1304
+    commentsToLikes: 0.013674
+    id: ck0w3mozdu6y70i19405f1i8t
     verified: false
-    hashtags: "#butterfly, #gwangju2019, #ionas2007, #staysafe"
+    hashtags: "#fitness, #greece, #konstantina, #summeringreece"
   - username: "unboxholics"
     fullname: >-
       Unboxholics
+    bio: >-
+      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #Unboxholics
     location: "Greece"
-    followers: 320120
-    engagement: 854
-    commentsToLikes: 0.046219
+    followers: 325681
+    engagement: 728
+    commentsToLikes: 0.003684
     id: ck8t0b5yprgrs0j7811wd4pch
     verified: false
-    hashtags: "#kouklotheatro, #mamatromaxakaego, #uhgermanos, #horrornightclassic"
-  - username: "panosdent_official"
+    hashtags: "#rtx3080, #realme, #teamdives, #vendetta"
+  - username: "ana_playgames"
     fullname: >-
-      Panos Eftaxias
+      αηα 🕹️
+    bio: >-
+      ѕα̃σ ραυℓσ, вя 🇧🇷 ℓєνєℓ 29 👾 ωιƒє 💍👫 ∂σg мσм 🐶🐾 ρѕη αηα_ρℓαуgαмєѕ 🎮
     location: "Greece"
-    followers: 199547
-    engagement: 1279
-    commentsToLikes: 0.028677
-    id: ck0w3mp4vu6zg0i19ldftfsyu
+    followers: 3664
+    engagement: 2058
+    commentsToLikes: 0.208366
+    id: ck8syi0iwkvl10j782v52ms3e
     verified: false
-    hashtags: "#giveaway, #hometeam, #myroutine, #ironmikezambidis"
-  - username: "princesstoniavlog"
+    hashtags: "#girlswhogame, #gamergirl, #startagame, #nerdgirl"
+  - username: "saboter"
     fullname: >-
-      𝑷𝒓𝒊𝒏𝒄𝒆𝒔𝒔_𝒕𝒐𝒏𝒊𝒂_𝒗𝒍𝒐𝒈
+      Saboter
+    bio: >-
+      🇬🇷Airsoft since 2009🇬🇷 👍Gear tester ☇Brands' ambassador DM for collabs 😉 Check my YouTube 👇
     location: "Greece"
-    followers: 16191
-    engagement: 1525
-    commentsToLikes: 0.032135
-    id: ck134qun7xr520i19fb9j5bux
+    followers: 21727
+    engagement: 425
+    commentsToLikes: 0.020909
+    id: ck5zj0ihugpu10i14pz528azm
     verified: false
-    hashtags: "#weekend, #staypositive, #corovirus, #emojichallenge"
-  - username: "argyrisnastopoulos"
+    hashtags: "#kingsofairsoft, #sniper, #511tactical, #airsoftacrosstheworld"
+  - username: "nast.sidorenko"
     fullname: >-
-      🎧Dj Argyris Nastopoulos🔥🔥
+      Nastya
+    bio: >-
+      ▫️BSc Business Administration ▫️🇷🇺🇬🇷🇨🇾🇺🇸
     location: "Greece"
-    followers: 12064
-    engagement: 811
-    commentsToLikes: 0.014980
-    id: ck5c6czoz56m30i11f9dg644a
+    followers: 9931
+    engagement: 441
+    commentsToLikes: 0.038045
+    id: ck9hcg87sl8ly0j782da4a4aw
     verified: false
-    hashtags: "#menoumespiti, #newera, #chocolover, #newyearseve"
-  - username: "arismakris"
-    fullname: >-
-      Aris Makris
-    location: "Greece"
-    followers: 94933
-    engagement: 695
-    commentsToLikes: 0.006417
-    id: ck5pzbe0t05i30i118vqj4yqn
-    verified: true
-    hashtags: "#hooray, #sweater, #style, #natureboy"
+    hashtags: "#model, #style, #portraitphotography, #picoftheday"
   - username: "dexpogr"
     fullname: >-
       Digital Expo
+    bio: >-
+      Visit us at:
     location: "Greece"
-    followers: 7765
-    engagement: 2532
-    commentsToLikes: 0.768715
+    followers: 7064
+    engagement: 2664
+    commentsToLikes: 0.731389
     id: ck0w3juh1tscg0i19wt1wiymy
     verified: false
-    hashtags: "#monitor, #inspot, #virtualreality, #dancer"
-  - username: "redbullgre"
+    hashtags: "#dex, #instagrammers, #mediterraneancollege, #giveaway"
+  - username: "manos_pipinopoulos"
     fullname: >-
-      Red Bull Greece
+      manos_pipinopoulos
+    bio: >-
+      ▪︎ᴛʀᴀᴠᴇʟ▪︎ᴍᴇɴ'ꜱ ꜱᴛʏʟᴇ 📍ʙᴀꜱᴇᴅ ɪɴ ᴀᴛʜᴇɴꜱ, ɢʀᴇᴇᴄᴇ🇬🇷☘
     location: "Greece"
-    followers: 24979
-    engagement: 243
-    commentsToLikes: 0.009124
-    id: ck0w25rl9mqtl0i190f0bp77c
-    verified: true
-    hashtags: "#mood, #redbulldrift, #redbulldance, #staypositive"
-  - username: "sevastiana_k"
-    fullname: >-
-      Sevi_sk
-    location: "Greece"
-    followers: 30241
-    engagement: 476
-    commentsToLikes: 0.067631
-    id: ck8swmvhvekim0j78an15cwgh
+    followers: 10772
+    engagement: 1105
+    commentsToLikes: 0.003961
+    id: ck8t9k215odwx0j786zsryhsz
     verified: false
-    hashtags: "#sumset, #beautifulgreece, #smile, #roses"
-  - username: "leonardo_koutris"
+    hashtags: "#suituptime, #dailysuits, #uoonyou, #bestcasualoutfit"
+  - username: "a_jakolis17"
     fullname: >-
-      Deus é Fiel ! 🙏🏻⚽️🇧🇷🇬🇷
+      ᴀɴᴛᴏɴɪᴏ ᴊᴀᴋᴏʟɪs
+    bio: >-
+      No FB account ❌
     location: "Greece"
-    followers: 50182
-    engagement: 2740
-    commentsToLikes: 0.010466
-    id: ck0w5bbme2tcz0i19tme0vuqa
-    verified: true
-    hashtags: "#alphabank, #visa, #garmin, #juntssommillors"
+    followers: 7223
+    engagement: 1130
+    commentsToLikes: 0.020989
+    id: ck0vvjp2epfwg0i192dfjq9kv
+    verified: false
+    hashtags: "#win, #apoelnicosia, #keepgoing, #apoel"
+  - username: "yourbell.__"
+    fullname: >-
+      Ellricha Campbell
+    bio: >-
+      όλαθαείναιόμορφαστηνεποχήτo😇 [𝕂𝕦𝕡𝕦-𝕜𝕦𝕡𝕦] Khuntien-Sorong📍
+    location: "Greece"
+    followers: 5008
+    engagement: 702
+    commentsToLikes: 0.026717
+    id: ck8t17kvmuphd0j78m00t1hxb
+    verified: false
+    hashtags: "#storywakekinian, #statuswakeren, #statuskeren, #quoteskekinian"
+  - username: "toukoutoubi"
+    fullname: >-
+      Tukutubegr
+    bio: >-
+      Cinema Addict Tech Enthusiast Podcaster Anti-Influencer Business inquiries: tukutube@gmail.com #tukutubegr #toukoutoubi #giataviews Latest video 👇👇
+    location: "Greece"
+    followers: 14282
+    engagement: 1186
+    commentsToLikes: 0.006868
+    id: ck5cbufzig6k60i118atht14g
+    verified: false
+    hashtags: "#instadaily, #improvatines, #show, #instafollow"
 ---

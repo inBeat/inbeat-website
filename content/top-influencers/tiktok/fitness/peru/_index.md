@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Peru In 2020
 description: >-
-  Find top fitness TikTok influencers in Peru in 2020. Most popular hashtags: #fitness #china #yoenlafiesta #challenge.
+  Find top fitness TikTok influencers in Peru in 2020. Most popular hashtags: #fitness #parati #viral #fyp.
 platform: TikTok
+hits: 24
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 24 TikTok influencers like this in Peru for you to collaborate.
 profiles:
+  - username: "magallerena"
+    fullname: >-
+      Magali Llerena Poma
+    bio: >-
+      casada 2 hijos que le encanta el gym y la vida fitness 😊💪👮‍♀️
+    location: "Peru"
+    followers: 18100
+    engagement: 766
+    commentsToLikes: 0.092874
+    id: ckc86hh105hpb0j235yw5g74k
+    verified: false
+    hashtags: "#workout, #rutinasencasa, #fyp, #viral"
   - username: "yajayrachacon"
     fullname: >-
       Yajayra Chacon
+    bio: >-
+      Ingeniera de Sistemas 🎓 Fitness Life 🍏 Fierrera🔩
     location: "Peru"
-    followers: 4991
-    engagement: 109
-    commentsToLikes: 0.024193
+    followers: 4945
+    engagement: 117
+    commentsToLikes: 0.021454
     id: ck9eokyf0oxr50j787hgebn8p
     verified: false
-    hashtags: "#fitness, #yoenlafiesta, #diadelosenamorados, #morph"
+    hashtags: "#diadelosenamorados, #morph, #superaci, #vamospormas"
   - username: "mlozaperu"
     fullname: >-
       Melissa Loza Vigil
+    bio: >-
+      MODELO FITNESS Mamá de Flavia👧y Erika👶 INSTAGRAM: @mlozaperu
     location: "Peru"
-    followers: 51970
-    engagement: 235
-    commentsToLikes: 0.013431
+    followers: 76900
+    engagement: 232
+    commentsToLikes: 0.012282
     id: ck9ng9j8wf2d20j78jnct2v7b
     verified: false
-    hashtags: "#melisaloza, #dance, #training, #soyperuana"
+    hashtags: "#postparto, #mamafit, #yomequedoencasa, #yoentrenoencasa"
   - username: "tonybarrantesfit"
     fullname: >-
       😎Tony Barrantes 💪
+    bio: >-
+      💪🔥cuerpo Fitness 🏋️‍♂️ 😊😎 Divertido,Amigable y muy Sexy 😜
     location: "Peru"
     followers: 21707
     engagement: 476
     commentsToLikes: 0.032572
     id: ck9ej9vt41pln0j78vnm8l9gy
     verified: false
-    hashtags: "#conlentes, #tiktokperu, #somosundesmadre, #mysexymoves"
-  - username: "yositaarve"
+    hashtags: "#parati, #xyzbca, #1000razones, #foryou"
+  - username: "anggelo_raicovi"
     fullname: >-
-      yositaarve
+      anggelo_raicovi
+    bio: >-
+      IG: @anggelo_raicovi
     location: "Peru"
-    followers: 12490
-    engagement: 510
-    commentsToLikes: 0.098532
-    id: ckai4savrp9ho0i78l3cssqf6
+    followers: 82200
+    engagement: 870
+    commentsToLikes: 0.040499
+    id: ckbqulj8lezfw0j23zri83f0r
     verified: false
-    hashtags: "#cuarentena, #djhuevito, #rutinas, #peruhumor"
+    hashtags: "#peru, #cuerpofitness, #comidatiktok, #subirdepeso"
   - username: "miguellatorre8"
     fullname: >-
       Miguel La Torre
+    bio: >-
+      ATHLETE - MODEL - DANCER
     location: "Peru"
-    followers: 50932
-    engagement: 721
-    commentsToLikes: 0.023802
+    followers: 57500
+    engagement: 805
+    commentsToLikes: 0.026323
     id: ck9ev9pfghhk00j78z75lnwlm
     verified: false
-    hashtags: "#modelos, #lovegym, #latinos, #mascarillas"
-  - username: "lapacora"
+    hashtags: "#man, #fit, #mood, #chiste"
+  - username: "enriquerch"
     fullname: >-
-      La Pacora
+      Enrique
+    bio: >-
+      Entrenador
     location: "Peru"
-    followers: 16496
-    engagement: 319
-    commentsToLikes: 0.049217
-    id: cka0u3aiosimp0i78ronhm6ff
+    followers: 6639
+    engagement: 485
+    commentsToLikes: 0.000000
+    id: ckbf1ck1qndlj0j23ir3c9j48
     verified: false
-    hashtags: "#diva, #batecabelo, #sailormoon, #bromas"
-  - username: "luanabarron"
+    hashtags: "#funtional, #functionaltraining, #crossfit, #ocrtraining"
+  - username: "soytuchero"
     fullname: >-
-      Luana 
+      Soytuchero
+    bio: >-
+      soy parroquiano :v mis videos stan en Youtube
     location: "Peru"
-    followers: 298421
-    engagement: 981
-    commentsToLikes: 0.013489
-    id: ck9f1uw5ma82r0j786jf8cz6j
+    followers: 13400
+    engagement: 247
+    commentsToLikes: 0.022392
+    id: ckad63rdmxx1p0i78wk42moso
     verified: false
-    hashtags: "#foryourpage, #food, #makemefamous, #coronavirus"
-  - username: "elfoodieloo"
+    hashtags: "#chongos, #lassirenitas, #venecas, #diequisde"
+  - username: "isaqmirabal"
     fullname: >-
-      FOODIELOO
+      Fitness girl
+    bio: >-
+      
     location: "Peru"
-    followers: 5559
-    engagement: 294
-    commentsToLikes: 0.022070
-    id: ckafu2b0f8chr0i78gz21kv1p
+    followers: 109300
+    engagement: 320
+    commentsToLikes: 0.000000
+    id: ckc31kvbus04b0j230dpbx8vt
     verified: false
-    hashtags: "#crunch, #sandwich, #oreos, #mani"
-  - username: "jesusbermudezzz"
+    hashtags: "#viral, #tattogirl, #fyp, #fvb"
+  - username: "siekenssou"
     fullname: >-
-      Jesús Bermúdez
+      (⊃｡•́‿•̀｡)⊃
+    bio: >-
+      Contenido otaku Todos los dias 😸 💛🎮🎌☯🎶🧡
     location: "Peru"
-    followers: 711029
-    engagement: 969
-    commentsToLikes: 0.010447
-    id: ck9f9r2uw80ih0j78z2y8q6re
+    followers: 145000
+    engagement: 1818
+    commentsToLikes: 0.017552
+    id: ckbbkgxsn8rvu0j23ugcamzvs
     verified: false
-    hashtags: "#washington, #buenamusica, #menstyle, #canarias"
-  - username: "piacopellotiktok"
-    fullname: >-
-      Maria Pia Copello
-    location: "Peru"
-    followers: 906840
-    engagement: 732
-    commentsToLikes: 0.007695
-    id: ck9f1t6zn9wa80j78xq3178d3
-    verified: false
-    hashtags: "#sillarandom, #favorito, #disco, #pewpewpew"
+    hashtags: "#fyp, #parati, #comedia, #otaku"
 ---

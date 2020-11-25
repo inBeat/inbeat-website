@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Seattle In 2020
 description: >-
-  Find top fashion Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #mothersday #fashion #quarantine.
+  Find top fashion Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #ad #tbt.
 platform: Instagram
+hits: 126
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 126 Instagram influencers like this in Seattle, United States for you to collaborate.
 profiles:
-  - username: "kathecomk"
+  - username: "barbarakvelstein"
     fullname: >-
-      Katheleen Long 🌙
+      Barbara Kvelstein 🇪🇪✈️
+    bio: >-
+      Human Rights Lawyer, Former Athlete and Model. 🌿Plant-based #animalrights #fashion #fitnesslover
     location: "United States"
-    followers: 17132
-    engagement: 699
-    commentsToLikes: 0.144161
-    id: ck8tblz2cw6ey0j78xo640c9m
+    followers: 4584
+    engagement: 1549
+    commentsToLikes: 0.044970
+    id: ck6000b2fcpzc0i1464nbfce4
     verified: false
-    hashtags: "#lookoftheday, #melrose, #ficaremcasa, #postoftheday"
+    hashtags: "#seattle, #africanature, #travelawesome, #christmasdecor"
+  - username: "mrrlittle"
+    fullname: >-
+      Rashad Little
+    bio: >-
+      📍Seattle • Fashion | Lifestyle • @Wilhelminamodels • Email For Business Inquiries
+    location: "United States"
+    followers: 92891
+    engagement: 558
+    commentsToLikes: 0.026237
+    id: ck0w2xgsiqm9e0i19j0appqok
+    verified: false
+    hashtags: "#fallstyle, #mensfashion, #diningelevated, #menfashion"
   - username: "jordenjakobs"
     fullname: >-
       Jorden Jakobs
+    bio: >-
+      I am deeply in love with being alive. Seattle Fashion Blogger.
     location: "United States"
-    followers: 14721
-    engagement: 488
-    commentsToLikes: 0.047423
+    followers: 14114
+    engagement: 478
+    commentsToLikes: 0.050647
     id: ck5q0o51c6xbu0i11vodt1tcd
     verified: false
-    hashtags: "#overtonecolor, #solodiscovid, #overtone, #silverpastel"
-  - username: "deplacement"
+    hashtags: "#seattlehairstylist, #overtonecolor, #solodiscovid, #blackouttuesday"
+  - username: "ibett.nails"
     fullname: >-
-      Bryan Riggins
+      💎Ibett Nails LLC💎
+    bio: >-
+      💅IFSY Instructor 🌷Professional Profile 📹Tutorial videos ⭐️Tiktok 👉🏻 Ibett Nails 🌈Shop ⤵️🔝🛍 @ibettnailsproducts
     location: "United States"
-    followers: 3151
-    engagement: 1434
-    commentsToLikes: 0.048033
-    id: ck6u2mipesnxt0j712lzx0utx
+    followers: 148390
+    engagement: 123
+    commentsToLikes: 0.020021
+    id: ck0vzy9gtbgy20i19d9ihz3ws
     verified: false
-    hashtags: "#mentality, #fitnesslove, #mentalfitness, #fitfamily"
+    hashtags: ""
+  - username: "shaughncooper"
+    fullname: >-
+      Shaughn Cooper
+    bio: >-
+      I’ve been here before 🕊 Plant Dad: Rylo and Zen 🌱 Co-founder: @community.of.creatives 🌐 Member of: @creativehandsdc 📸
+    location: "United States"
+    followers: 11037
+    engagement: 542
+    commentsToLikes: 0.056526
+    id: ck0ud6joeiegt0i19rlrfhheh
+    verified: false
+    hashtags: "#photoshoot, #photography, #tcforever, #dmvphotographer"
   - username: "chaydreaminstyle"
     fullname: >-
       Chaylee Ann
+    bio: >-
+      Fashion ➵ Lifestyle Seattle, WA ☮︎✼♡☽♫☯︎ Spreading good vibes since ‘95 @lulus ambassador
     location: "United States"
-    followers: 5168
-    engagement: 1063
-    commentsToLikes: 0.163793
+    followers: 6504
+    engagement: 680
+    commentsToLikes: 0.158238
     id: ck0w1n14vk55e0i1911p8onkm
     verified: false
-    hashtags: "#modclothsquad, #ad, #everydayskiesareblue"
-  - username: "breetromp"
-    fullname: >-
-      Bree Tromp
-    location: "United States"
-    followers: 2597
-    engagement: 1731
-    commentsToLikes: 0.155437
-    id: ckap99b1orp6u0i786w12n7yw
-    verified: false
-    hashtags: "#liketkit, #vestiqueambassador"
+    hashtags: "#liketkit"
   - username: "five.foot.fashion"
     fullname: >-
       McKenna Page
+    bio: >-
+      5’ Tall | #Seattle Native | Fashion Major | Account Manager | Retired NCAA Gymnast | 🐶 #DogMom to @life.of.my | 👫@_couchwithanf_ | ✈️ #Maui
     location: "United States"
-    followers: 46421
-    engagement: 224
-    commentsToLikes: 0.243349
+    followers: 47002
+    engagement: 188
+    commentsToLikes: 0.155158
     id: ck0vv6pbpns9f0i19qzajgsjc
     verified: false
-    hashtags: "#mothersday, #mymodcloth, #oddmolly, #byfairydust"
-  - username: "rosefilimonov"
+    hashtags: "#everystitchcounts, #forwomenbywomen, #sponsored, #bohostyle"
+  - username: "kathecomk"
     fullname: >-
-      ROSE FILIMONOV 🌹
+      KATHE LONG • SEATTLE BLOGGER
+    bio: >-
+      Seattle, US fashion • beauty • lifestyle contact: kathe_long@hotmail.com International student: Software development
     location: "United States"
-    followers: 24324
-    engagement: 186
-    commentsToLikes: 0.055591
-    id: ck5hcxq1lkgzv0i11au8yz8dp
+    followers: 18135
+    engagement: 722
+    commentsToLikes: 0.054772
+    id: ck8tblz2cw6ey0j78xo640c9m
     verified: false
-    hashtags: "#mejuri, #moodwellness, #mycodexbeauty, #blessedwiththebest"
+    hashtags: "#outfit, #tbt, #falltrends, #afforfablefashion"
   - username: "ashleyjtodd"
     fullname: >-
       Ashley🌻
+    bio: >-
+      • Wife • Mother • Life & Style • Food • Fashion • Holidays • Travel • Seattle 🌲 💌ashleyjustinetodd@gmail.com
     location: "United States"
     followers: 42432
     engagement: 95
     commentsToLikes: 0.202638
     id: ck5qcuq83sf4x0i113fv2uh2y
     verified: false
-    hashtags: "#joybreak, #socialspotters, #corksandcheers, #instadentist"
-  - username: "alyssamarielowe"
+    hashtags: "#sleepinecofabric, #sharenicks, #ad, #socialspotters"
+  - username: "blythehill"
     fullname: >-
-      Alyssa | Seattle Photographer
+      Blythe Hill
+    bio: >-
+      @Dressember CEO/Founder Ethical fashion enthusiast 👗 Seattle 🌧 + LA ☀️ We can end human trafficking in our lifetime. Join me:
     location: "United States"
-    followers: 9158
-    engagement: 1555
-    commentsToLikes: 0.085098
-    id: ck55o76aa7s4f0i11g1sntfps
-    verified: false
-    hashtags: "#wanderwashington, #seattlephotography, #pnwphotographer"
-  - username: "justinekay88"
-    fullname: >-
-      Justine Kay- plus size style
-    location: "United States"
-    followers: 84050
-    engagement: 218
-    commentsToLikes: 0.060337
-    id: ck15s8re8bsv50i19awo27cab
-    verified: false
-    hashtags: "#boho, #swim, #comfychic, #fatandfierce"
+    followers: 7055
+    engagement: 583
+    commentsToLikes: 0.094710
+    id: ck5hfdf99wyk80i11g4sd5fch
+    verified: true
+    hashtags: "#humantrafficking, #endit, #dressember, #trafficking"
 ---

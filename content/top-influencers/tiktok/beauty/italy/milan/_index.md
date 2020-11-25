@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Milan In 2020
 description: >-
-  Find top beauty TikTok influencers in Milan in 2020. Most popular hashtags: #beauty #milan #milano #girls.
+  Find top beauty TikTok influencers in Milan in 2020. Most popular hashtags: #beauty #foryou #viral #fyp.
 platform: TikTok
+hits: 12
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in Milan, Italy for you to collaborate.
 profiles:
-  - username: "lalalalalexaa"
-    fullname: >-
-      Alexa Portoraro
-    location: "Italy"
-    followers: 2135
-    engagement: 338
-    commentsToLikes: 0.025870
-    id: ck8vsi9vndpd80j78877buqhh
-    verified: false
-    hashtags: "#love, #lockdown, #dishes, #coronatime"
-  - username: "marisol.viola"
-    fullname: >-
-      marisol viola
-    location: "Italy"
-    followers: 14764
-    engagement: 1891
-    commentsToLikes: 0.019608
-    id: ck9du52htezla0j784mnc7pkr
-    verified: false
-    hashtags: "#quarantena, #tiktoktaac, #milano, #dontlike"
   - username: "dj_eva_fiesta"
     fullname: >-
       Dj_eva_fiesta
+    bio: >-
+      DJ from Milan🖤 Fun, Trend, Fashion
     location: "Italy"
-    followers: 3148
-    engagement: 316
-    commentsToLikes: 0.051280
+    followers: 3671
+    engagement: 467
+    commentsToLikes: 0.068693
     id: ck9du4xezeyo80j7845ilgxyo
     verified: false
-    hashtags: "#italianfood, #crazy, #dancechallenge, #senorit"
-  - username: "marikaandgiada"
+    hashtags: "#fashiongoals, #djevafiesta, #savege, #djane"
+  - username: "aleksevsk"
     fullname: >-
-      M & G
+      ALEKSE
+    bio: >-
+      Verona, Italia 🇧🇾/ 🇮🇹 Arriviamo a 150k?🥺 Insta: aleksevsk ⬆️❤️
     location: "Italy"
-    followers: 253513
-    engagement: 1573
-    commentsToLikes: 0.007331
-    id: ck8f8vjo63mkk0j78jjed68rf
+    followers: 124400
+    engagement: 2194
+    commentsToLikes: 0.015050
+    id: ck9ae5u410dzm0j78rc3c00fo
     verified: false
-    hashtags: "#crazy, #drone, #trend, #lenses"
+    hashtags: "#dance, #modello, #italia, #scherzo"
+  - username: "elisa.martinellii"
+    fullname: >-
+      Elisa Martinelli
+    bio: >-
+      Italy//18🇮🇹 ✨Based in Milan 🔥 Seguitemi su Instagram: _elisamartinelli 🥵🤪
+    location: "Italy"
+    followers: 17500
+    engagement: 948
+    commentsToLikes: 0.013005
+    id: cka6dsrax93jq0i78ekmmib16
+    verified: false
+    hashtags: "#nopressure, #perte, #viral, #foryoupage"
+  - username: "denisecoriglianooo"
+    fullname: >-
+      Denise🐙
+    bio: >-
+      Milano📍 07 🐉Go to 50k🐉 IG: denisecoriglianoo
+    location: "Italy"
+    followers: 40800
+    engagement: 2709
+    commentsToLikes: 0.037037
+    id: cka0phqs38al30i782tent2cb
+    verified: false
+    hashtags: "#fyp, #perte, #pov, #viral"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
+    bio: >-
+      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
     location: "Italy"
-    followers: 57314
-    engagement: 1719
-    commentsToLikes: 0.009696
+    followers: 56000
+    engagement: 1861
+    commentsToLikes: 0.012609
     id: ck8s5jvwzg8i50j785nktn2vv
     verified: false
-    hashtags: "#cataldibeauty, #losangeles, #orange, #honey"
-  - username: "juesssss"
+    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
+  - username: "martapareccini"
     fullname: >-
-      Jessica Terlizzi
+      Marta Pareccini
+    bio: >-
+      BEAUTY • FASHION • LIFESTYLE Vi aspetto anche su Instagram ⬇️ @martapareccini
     location: "Italy"
-    followers: 7353
-    engagement: 648
-    commentsToLikes: 0.047582
-    id: ck9nfovyuel2h0j780qamn2x0
+    followers: 28600
+    engagement: 975
+    commentsToLikes: 0.008799
+    id: ck8vsi18kdnz70j788usd969d
     verified: false
-    hashtags: "#building, #viral, #actress, #personalit"
-  - username: "elenagonella"
+    hashtags: "#skincare, #skincaretips, #fashion, #makeup"
+  - username: "eddy_kood"
     fullname: >-
-      LaGonni😈
+      eddy 
+    bio: >-
+      📍🇮🇹 🇦🇱 ( Instagram eddykood)
     location: "Italy"
-    followers: 4419
-    engagement: 1125
-    commentsToLikes: 0.030064
-    id: cka6oijlwfke20i78e200gyee
+    followers: 2908
+    engagement: 464
+    commentsToLikes: 0.013690
+    id: ckbqudcy2eshv0j23pfj5chxr
     verified: false
-    hashtags: "#eyechallenge, #paint, #blackfriday, #drowing"
-  - username: "stefaniastifiuc"
+    hashtags: "#tiktokitaly, #video, #beach, #milan"
+  - username: "senzatruccoyoutube"
     fullname: >-
-      Stefania Stifiuc
+      Senza Trucco
+    bio: >-
+      YouTuber +260K ⭐⭐⭐⭐⭐ 🔥 IG ➡️ @senzatruccoyoutube LAST VIDEO ⛔🎥⛔
     location: "Italy"
-    followers: 4776
-    engagement: 703
-    commentsToLikes: 0.079463
-    id: ckail6tpbmqia0i78qsb3hkjd
+    followers: 155100
+    engagement: 1977
+    commentsToLikes: 0.008882
+    id: ck9aarkwxlrdb0j78csy8yjjt
     verified: false
-    hashtags: "#viralvideo, #curlyhair, #eyeliner, #calcio"
-  - username: "lilianacastriotta"
+    hashtags: "#cosmetics, #neiperte, #beauty, #divertente"
+  - username: "asiarossi_01"
     fullname: >-
-      lilianacastriotta
+      larossi_01
+    bio: >-
+      
     location: "Italy"
-    followers: 2638
-    engagement: 959
-    commentsToLikes: 0.054991
-    id: cka0p2ik76i9f0i78d30izds0
+    followers: 4592
+    engagement: 736
+    commentsToLikes: 0.023716
+    id: ckcjfys95bbyd0j23zzpy0wur
     verified: false
-    hashtags: "#goodtimes, #videomaker, #makesomenoise, #changeoutfits"
-  - username: "peppevollaro"
+    hashtags: "#green, #saldi, #passione, #tiger"
+  - username: "rosalie.ndour"
     fullname: >-
-      Peppe Vollaro
+      Rosalie ndour
+    bio: >-
+      Welcome🙏🏽everyone❤️ Model🇸🇳🇮🇹🇫🇷 Instagram: @IAMROSALIENDOUR Youtube:👇🏾
     location: "Italy"
-    followers: 10564
-    engagement: 1241
-    commentsToLikes: 0.026843
-    id: cka0naa2zyvpa0i784mx59d3t
+    followers: 149000
+    engagement: 1157
+    commentsToLikes: 0.020428
+    id: ckb981q8dr3jc0j23ga6ko1xx
     verified: false
-    hashtags: "#timetravel, #strano, #dipinti, #lazio"
+    hashtags: "#lol, #poutoi, #mdr, #fyp"
 ---

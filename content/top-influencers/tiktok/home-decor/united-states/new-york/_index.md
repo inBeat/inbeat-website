@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In New York In 2020
 description: >-
-  Find top home decor TikTok influencers in New York in 2020. Most popular hashtags: #happyathome #homedecor #love #quarantine.
+  Find top home decor TikTok influencers in New York in 2020. Most popular hashtags: #homedecor #newyork #fyp #foryou.
 platform: TikTok
+hits: 39
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 39 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "alexander_zakhari"
+  - username: "kayleighskloset"
     fullname: >-
-      Alexander Zakharin
+      kayleighskloset
+    bio: >-
+      26 | New York | Beauty Publicist Unfiltered version of @kayleighskloset
     location: "United States"
-    followers: 23662
-    engagement: 351
-    commentsToLikes: 0.031136
-    id: ck9glc26jnh960j78eos7dr4v
+    followers: 14700
+    engagement: 493
+    commentsToLikes: 0.017452
+    id: ckcv2ovnwo6tk0j23x7o8nuc8
     verified: false
-    hashtags: "#window, #mindblowing, #realestate, #investing"
-  - username: "kenskreationschalk"
+    hashtags: "#dating, #nyceats, #dialitforward, #nycspots"
+  - username: "abbeysboard"
     fullname: >-
-      Chalk Couture Ken
+      abbey
+    bio: >-
+      fashion lifestyle | she/her abbeysboard@gmail.com
     location: "United States"
-    followers: 2661
-    engagement: 787
-    commentsToLikes: 0.019458
-    id: ck81s3h9xppvw0j785vrc86c8
+    followers: 25200
+    engagement: 2146
+    commentsToLikes: 0.009332
+    id: ckdc1hvsofqgw0j23afr0x2w7
     verified: false
-    hashtags: "#worklife, #beadventurous, #animallove, #handmadegifts"
-  - username: "ofleatherandlace"
+    hashtags: "#home, #fashiontips, #outfitinspo, #styleinspo"
+  - username: "bakerliam094"
     fullname: >-
-      Tina Lee
+      Liam Baker
+    bio: >-
+      IG: Liam_baker94 🌴Fort Lauderdale🌊
     location: "United States"
-    followers: 5874
-    engagement: 1129
-    commentsToLikes: 0.020117
-    id: ck95xvyjg7kal0j7830pfgfae
+    followers: 16300
+    engagement: 443
+    commentsToLikes: 0.023558
+    id: ckdn347q7dq7v0j2300d2ubmk
     verified: false
-    hashtags: "#anditwentlike, #traveldiaries, #windowview, #momiji"
-  - username: "keltonflinders"
+    hashtags: "#fyp, #florida, #foryou, #foryoupage"
+  - username: "sr7afi"
     fullname: >-
-      keltonflinders
+      Rafi
+    bio: >-
+      🔥😈🔥
     location: "United States"
-    followers: 2398
-    engagement: 503
-    commentsToLikes: 0.051752
-    id: cka0lppberyqo0i78o9hh1ug9
+    followers: 34200
+    engagement: 852
+    commentsToLikes: 0.022559
+    id: ckce5zfw5kaqc0j23smb7eg0k
     verified: false
-    hashtags: "#homecooking, #cleaninghack, #piday, #coffee"
-  - username: "fashiontravelrepeat"
+    hashtags: "#vlog, #viral, #srt, #vibes"
+  - username: "kyle.speizio"
     fullname: >-
-      Vicki Rutwind
+      kyle.speizio
+    bio: >-
+      NEW YORK 🇮🇹 17
     location: "United States"
-    followers: 21154
-    engagement: 994
-    commentsToLikes: 0.041186
-    id: ck92tyobxjy380j783j9esfdv
+    followers: 6977
+    engagement: 1008
+    commentsToLikes: 0.059783
+    id: ckbeti20ecidt0j23a6jv74cw
     verified: false
-    hashtags: "#travelblogger, #harrypotter, #gryffindor, #nationality"
-  - username: "djbrands860"
+    hashtags: "#gta5, #traxxas, #healthheroes, #neverfitin"
+  - username: "gia.disanto1"
     fullname: >-
-      DJbrands860 
+      Gia Disanto
+    bio: >-
+      🇦🇲NEW YORK🇮🇹 Insta@gia.disanto
     location: "United States"
-    followers: 5004
-    engagement: 410
-    commentsToLikes: 0.038480
-    id: ck9m12faxdcnc0j78agtuy4qr
+    followers: 22000
+    engagement: 1133
+    commentsToLikes: 0.033518
+    id: ckb9ie8qf8pz50j23pl8g1tx7
     verified: false
-    hashtags: "#whiteteeth, #wifey, #relationships, #goingpro"
-  - username: "brianneboston"
+    hashtags: "#inthehouseparty, #cars, #mustang, #coupledup"
+  - username: "tourdelust"
     fullname: >-
-      Brianne J
+      Christine Tran
+    bio: >-
+      New York things, travel, photography & just having fun. Follow me on IG
     location: "United States"
-    followers: 28839
-    engagement: 470
-    commentsToLikes: 0.019783
-    id: ck8nalh175wxm0j781gv70mg4
+    followers: 105700
+    engagement: 784
+    commentsToLikes: 0.026124
+    id: ck8qoxda80x640j78hv2la75o
     verified: false
-    hashtags: "#skincare, #babyitems, #homedecor, #minitutorials"
-  - username: "pawcreate"
+    hashtags: "#hellofall, #fallfoliage, #autumn, #tiktokpartner"
+  - username: "sarahlynnmonroe"
     fullname: >-
-      PawCreate
+      Sarahlyn Monroe
+    bio: >-
+      just my real life enjoy Nomadic New Yorker ☁️ model, artist, lowkey burnout ⚰️
     location: "United States"
-    followers: 16109
-    engagement: 2314
-    commentsToLikes: 0.040179
-    id: ck8hrxp9fargu0j787p57ln5n
+    followers: 8398
+    engagement: 1082
+    commentsToLikes: 0.036045
+    id: ck90xz1nv8md70j78l306lmua
     verified: false
-    hashtags: "#happymothersday, #doglover, #portrait, #petlove"
-  - username: "keepitpushinwoodwork"
+    hashtags: "#yungblud, #foryou, #fyp, #tiktokdiy"
+  - username: "newyorkshenanigans"
     fullname: >-
-      KeepItPushinWoodwork
+      newyorkshenanigans
+    bio: >-
+      Angel & Ja - Real New Yorkers showin a side of NYC most people don't get to see⬇
     location: "United States"
-    followers: 8570
-    engagement: 1961
-    commentsToLikes: 0.103614
-    id: ck8sawf5r42650j78w0qkfdtm
+    followers: 16200
+    engagement: 1295
+    commentsToLikes: 0.022042
+    id: ckb9hm3v27c090j23peqh5pt3
     verified: false
-    hashtags: "#keeppushing, #chef, #almostdone, #happyathome"
-  - username: "wildandfreepeople"
+    hashtags: "#bts, #foryou, #newyorkcity, #funny"
+  - username: "publyssity"
     fullname: >-
-      Madi Diesel
+      publyssity
+    bio: >-
+      Alyssa Amoroso 🗽 NYC 🎙 The Publyssity Podcast ☕️ Celeb tea ✨ Join my #TeaTribe
     location: "United States"
-    followers: 214102
-    engagement: 1696
-    commentsToLikes: 0.038144
-    id: ck90xyynx8lii0j788yym9qmn
-    verified: false
-    hashtags: "#tigereye, #labradorite, #crystalhearts, #coffeetime"
+    followers: 224500
+    engagement: 1117
+    commentsToLikes: 0.029992
+    id: ck9m1084lcu2q0j78ac1fdz65
+    verified: true
+    hashtags: "#newyork, #nyc, #newyorker, #nycapartmenttour"
 ---

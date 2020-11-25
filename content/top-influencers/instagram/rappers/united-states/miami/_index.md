@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Miami In 2020
 description: >-
-  Find top rappers Instagram influencers in Miami in 2020. Most popular hashtags: #artist #rapper #stayhome #music.
+  Find top rappers Instagram influencers in Miami in 2020. Most popular hashtags: #miami #music #rapper #love.
 platform: Instagram
+hits: 52
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 52 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "vikinamusic"
+  - username: "themadyson"
     fullname: >-
-      La Vikina 💃🏻
+      Madyson
+    bio: >-
+      ONLY PAGE PGH🛸ATL Multifaceted Taurus 👑🌯💅🏼 Multi Published & Multi Deleted Glamor • Runway • Commercial • Print • Acting
     location: "United States"
-    followers: 57621
-    engagement: 291
-    commentsToLikes: 0.045799
-    id: ck6u2vdmou52t0j712yu0nax4
+    followers: 86540
+    engagement: 108
+    commentsToLikes: 0.106442
+    id: ck5qbpqlkmseq0i113bsg1ava
     verified: false
-    hashtags: "#aclsurgery, #doctorshospital, #friyay, #harmonies"
+    hashtags: ""
+  - username: "josh.benyehuda"
+    fullname: >-
+      Josh Ben Yehuda Mendes
+    bio: >-
+      🏄🏻‍♂️ | Lifestyle | Traveler | 24 | Adventures 🏝Gone to the Beach be back Never 📍Ft. Lauderdale 🇧🇷 🇮🇱 🇪🇸 🇺🇸
+    location: "United States"
+    followers: 21397
+    engagement: 267
+    commentsToLikes: 0.055205
+    id: ck14lsrtzwana0i19vnud6s9s
+    verified: false
+    hashtags: "#love, #rapmusic, #music, #singer"
+  - username: "kitanasavage"
+    fullname: >-
+      Kitana Savage
+    bio: >-
+      👑✨The LUCKY ONE✨👑
+    location: "United States"
+    followers: 144167
+    engagement: 173
+    commentsToLikes: 0.026067
+    id: ck6tn1g978y1i0j711h35fnua
+    verified: true
+    hashtags: "#miami, #tattoos, #rapper, #fashion"
+  - username: "rai.smith_"
+    fullname: >-
+      𝕯𝖗𝖎𝖑𝖑 𝕽𝖆í𝖌𝖊𝖗® 💮
+    bio: >-
+      “4OUR 5IVE” OUT NOW 🎶🔥‼️ For Features + Bookings + Press Email raismithmusic@gmail.com
+    location: "United States"
+    followers: 9162
+    engagement: 916
+    commentsToLikes: 0.074062
+    id: ck5zomnj5qvs00i14bdyr5ons
+    verified: false
+    hashtags: "#spotify, #music, #trending, #musician"
+  - username: "felixsemper"
+    fullname: >-
+      Felix Semper
+    bio: >-
+      Official Instagram email: felixsemper@gmail.com “STRETCHING YOUR IMAGINATION “
+    location: "United States"
+    followers: 123019
+    engagement: 68
+    commentsToLikes: 0.014297
+    id: ck5cdpnh3jk7y0i11q5xljg6a
+    verified: true
+    hashtags: "#cigar, #nycart, #nyc, #painting"
   - username: "cbmusic"
     fullname: >-
       Chad Bernstein
+    bio: >-
+      Father to FOUR amazing kids; Husband to @the_bernstein_brood (warrior woman of my dreams); Musician/entrepreneur; CEO/founder of @guitarsoverguns
     location: "United States"
     followers: 2864
     engagement: 413
     commentsToLikes: 0.068454
     id: ck5zx3aw979if0i14kbt6w9z1
     verified: false
-    hashtags: "#gametime, #ally, #quarentinejams, #instadad"
-  - username: "karinatio"
+    hashtags: "#trombonist, #miami, #love, #musicforchange"
+  - username: "queen.teefahh"
     fullname: >-
-      Kurly Karina 🦁
+      
+    bio: >-
+      Feel a Way out NOW!! Music: Rafielle@ikicmedia.com @ikeepitclassic Ambassador: @conceitedswimcollection_ #EndoWarrior 🎗
     location: "United States"
-    followers: 11549
-    engagement: 844
-    commentsToLikes: 0.042279
-    id: ck6u2b7peqsva0j710gvcxtkq
+    followers: 2282
+    engagement: 1474
+    commentsToLikes: 0.070636
+    id: ckaoz41gtk9v90i78si3c4t54
     verified: false
-    hashtags: "#artist, #madmax, #basketball, #gains"
+    hashtags: "#explorepage, #atlanta, #model, #sfs"
   - username: "millenigodez"
     fullname: >-
       MILLENIGOD
+    bio: >-
+      3❌ Miami, Florida 777 Freestyle GOD 777 4 L's live.life.learn.lessons Send beats to millenigod@gmail.com
     location: "United States"
-    followers: 21993
-    engagement: 264
-    commentsToLikes: 0.190026
+    followers: 22360
+    engagement: 183
+    commentsToLikes: 0.287904
     id: ck5zz5hksb4cy0i14xdym6bjc
     verified: false
-    hashtags: "#otw, #rap, #slipnslide, #mood"
-  - username: "florencedure"
+    hashtags: "#bhn, #unsigned, #millnegodez, #miami"
+  - username: "shayymarjackson"
     fullname: >-
-      Florence El luche
+      Shaymar Jackson
+    bio: >-
+      ShayButta🧴💦 ❌_______✍️ Booking: Info@Foundationstudiosllc.com "If life were predictable it would cease to be life, and be without flavor."
     location: "United States"
-    followers: 365156
-    engagement: 314
-    commentsToLikes: 0.030051
-    id: ck15rwtrza3e20i19a2dc4tpc
+    followers: 10160
+    engagement: 413
+    commentsToLikes: 0.044503
+    id: ck6ty1q5616gj0j71rfcgm94z
     verified: false
-    hashtags: "#rickross, #fashion, #follow, #outfit"
-  - username: "_trinatrottah"
+    hashtags: "#happy, #applemusic, #dj, #youtube"
+  - username: "le_primetime"
     fullname: >-
-      🗽®Actor/Comedian/Radio DJ🎧
+      Le Primetime (Click Bio Link)
+    bio: >-
+      23🦍Houston Rapper/Singer Army Veteran DKG🤘🏾Hit My Manager: contact @heavymanage or Heavy: 408-687-3501 👇🏾”On It” Now Available (Click Below)
     location: "United States"
-    followers: 104100
-    engagement: 325
-    commentsToLikes: 0.054381
-    id: ck6uc3os2dbla0j7187mqemtm
+    followers: 18315
+    engagement: 337
+    commentsToLikes: 0.086410
+    id: ck6to421rbzhv0j71bxatg5j0
     verified: false
-    hashtags: "#northbergennj, #igliveparty, #alabama, #viral"
-  - username: "ms.raven23"
-    fullname: >-
-      Raven P💕
-    location: "United States"
-    followers: 3104
-    engagement: 732
-    commentsToLikes: 0.095013
-    id: ck5q1bbjaa6740i114ic9rfoi
-    verified: false
-    hashtags: "#ripkobe, #lingerie, #weightloss, #vocals"
-  - username: "i_ambleu"
-    fullname: >-
-      Bleu Reese LLJ✨
-    location: "United States"
-    followers: 10419
-    engagement: 250
-    commentsToLikes: 0.100743
-    id: ck5ckx1qvxs840i11ovchczda
-    verified: false
-    hashtags: "#tiktoktrends, #eishafight, #fade, #dubsmashvideos"
-  - username: "supacindy"
-    fullname: >-
-      🇭🇹 Supa Cindy 🇩🇴
-    location: "United States"
-    followers: 89652
-    engagement: 84
-    commentsToLikes: 0.100818
-    id: ck6tv4gqck4k30j71mcil9gvk
-    verified: true
-    hashtags: "#kyliejenner, #newartist, #ufc229, #verzus"
-  - username: "drubui"
-    fullname: >-
-      ANDREW BUI
-    location: "United States"
-    followers: 6594
-    engagement: 949
-    commentsToLikes: 0.124047
-    id: ck5px0ja6pi8c0i11j2on2omm
-    verified: false
-    hashtags: "#followyournola, #notsupposed2behere, #bealpha, #deepellum"
+    hashtags: "#onit, #freestyle, #houston, #leprimetime"
 ---

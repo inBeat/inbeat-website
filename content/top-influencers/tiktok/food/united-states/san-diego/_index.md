@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In San Diego In 2020
 description: >-
-  Find top food TikTok influencers in San Diego in 2020. Most popular hashtags: #food #quarantine #transformation #sandiego.
+  Find top food TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #food #sandiego #foryou.
 platform: TikTok
+hits: 52
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 52 TikTok influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "abiwhittemore"
+  - username: "esquer_fam"
     fullname: >-
-      abii ✨
+      Esquer Fam
+    bio: >-
+      🔹️Mike- USMC Vet./ ceo Supreme Singlets 🔸️Susie- Registered Nurse 🌴San Diego
     location: "United States"
-    followers: 63291
-    engagement: 1612
-    commentsToLikes: 0.009572
-    id: ck9k83b0u7bp80j780qo43fdo
+    followers: 13400
+    engagement: 492
+    commentsToLikes: 0.062056
+    id: ckaj9ud8rg3zt0i78ccls4hqn
     verified: false
-    hashtags: "#realityripple, #trendy, #pinterest, #brandy"
-  - username: "sweetfeed"
+    hashtags: "#food, #sandiego, #dadsoftiktok, #original"
+  - username: "explore_sd"
     fullname: >-
-      a place for food !
+      user7751984492931
+    bio: >-
+      Sharing my passion for food! 🥘 San Diego hidden gem 💎 travel ✈️ Chef mom 👩‍🍳
     location: "United States"
-    followers: 52211
-    engagement: 1075
-    commentsToLikes: 0.016612
-    id: ck81s3vccpste0j781lnki88p
+    followers: 18700
+    engagement: 506
+    commentsToLikes: 0.046756
+    id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#cinnamonroll, #sweet, #milkshake, #funetti"
-  - username: "alexzonce"
+    hashtags: "#sandiegolife, #sd, #food, #sandiegohiddengems"
+  - username: "the_beltran_fam"
     fullname: >-
-      ✨ Qween Shit ✨
+      the_beltran_fam
+    bio: >-
+      The Beltrans PO BOX 531285 San Diego, CA 92153 Venmo: Joe_el619
     location: "United States"
-    followers: 51795
-    engagement: 2227
-    commentsToLikes: 0.021067
-    id: ck9jv81t2r3fr0j78heo1p0g9
+    followers: 80200
+    engagement: 702
+    commentsToLikes: 0.024910
+    id: ckbfdog4c765o0j23wxxg560d
     verified: false
-    hashtags: "#toohottohandle, #fatshaming, #hugemeat, #food"
-  - username: "mikeyaesthetic"
+    hashtags: "#california, #cookingvideo, #cooking, #family"
+  - username: "itssabss26"
     fullname: >-
-      mikey esquer
+      Sabrina
+    bio: >-
+      📍 San Diego
     location: "United States"
-    followers: 5138
-    engagement: 2095
-    commentsToLikes: 0.030587
-    id: ckajb4gapm2oo0i78ejwq2ljt
+    followers: 4440
+    engagement: 649
+    commentsToLikes: 0.049544
+    id: ckdnjsggriwe50j23ukwrnhbr
     verified: false
-    hashtags: "#blackandwhite, #2016bops, #bling, #notfunny"
-  - username: "clarkadilla"
+    hashtags: "#foryoupage, #tiktokrestarea, #fyp, #lajolla"
+  - username: "allymcdub"
     fullname: >-
-      Clark
+      allymcdub
+    bio: >-
+      Mexican American 💃🏽🇲🇽 ig + venmo: allymcdub
     location: "United States"
-    followers: 37710
-    engagement: 1013
-    commentsToLikes: 0.032562
-    id: ck81qux7yk2g90j78lumyshvb
+    followers: 31000
+    engagement: 1044
+    commentsToLikes: 0.039131
+    id: ck9c5rjf1qq490j78zyis828d
     verified: false
-    hashtags: "#dogeggchallenge, #poseathome, #inthehouseparty, #california"
+    hashtags: "#diy, #home, #apartment, #foryou"
+  - username: "ryanochoaofficial"
+    fullname: >-
+      Ryan Ochoa
+    bio: >-
+      Yes, I was the evil guy. ‘LIT NATION’ Live: 11/11 @ 6pm PST Cameo: ryanochoa
+    location: "United States"
+    followers: 932000
+    engagement: 1767
+    commentsToLikes: 0.013881
+    id: ck8oq3xcn5zmp0j78f2fb5kam
+    verified: true
+    hashtags: "#pairofkings, #fyp, #chuck, #icarly"
+  - username: "ravengirl.75"
+    fullname: >-
+      Sasha McKnight
+    bio: >-
+      Love your life! ❤ You're in control 😘💋
+    location: "United States"
+    followers: 8890
+    engagement: 594
+    commentsToLikes: 0.042988
+    id: ckcjiwrgud1mg0j23dnd9lncn
+    verified: false
+    hashtags: "#fyp, #quarantinevibes, #fall, #tgif"
+  - username: "sweetsafis"
+    fullname: >-
+      sweetsafis
+    bio: >-
+      San Diego, CA BLACK OWNED ✊🏽 NO SHIPPING YET 📨business: sweetsafis1@gmail.com
+    location: "United States"
+    followers: 52300
+    engagement: 1324
+    commentsToLikes: 0.021079
+    id: ckfplxkgw13di0j236et5ag80
+    verified: false
+    hashtags: "#fyp, #didyouknow, #smallbusiness, #scarystories"
   - username: "robrast"
     fullname: >-
       Rob Rast
+    bio: >-
+      Wild and Free in San Diego Insta & YT here 👆
     location: "United States"
-    followers: 20278
-    engagement: 570
-    commentsToLikes: 0.031544
+    followers: 20200
+    engagement: 681
+    commentsToLikes: 0.027534
     id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#turniton, #howto, #weird, #cash"
-  - username: "andreataverarojas"
+    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
+  - username: "novaakan3"
     fullname: >-
-      Andrea ;)
+      Novian Cherry
+    bio: >-
+      🏀Pro Athlete ♦️NUPE 🏠 San Diego, CA Follow me on IG —> @Novaakan3 BLM ✊🏿
     location: "United States"
-    followers: 18312
-    engagement: 690
-    commentsToLikes: 0.021572
-    id: cka6f8gjmenyx0i78hggdccuk
-    verified: false
-    hashtags: "#sunset, #notcool, #mexican, #hessingle"
-  - username: "keelsters9"
-    fullname: >-
-      Keely Antonio
-    location: "United States"
-    followers: 3520
-    engagement: 1219
-    commentsToLikes: 0.016644
-    id: cka0qzcpfept80i788g4xjogr
-    verified: false
-    hashtags: "#gotthisforyou, #itsaremix, #fasting, #bussinesscheck"
-  - username: "theglamghoul"
-    fullname: >-
-      Ashley Marie
-    location: "United States"
-    followers: 3872
-    engagement: 326
-    commentsToLikes: 0.017541
-    id: ck9nbut3bbfnv0j78axdppvm5
-    verified: false
-    hashtags: "#cholamakeup, #yummytreats, #quarantine, #midirings"
-  - username: "cqwin"
-    fullname: >-
-      Colin Quinn
-    location: "United States"
-    followers: 11321
-    engagement: 654
-    commentsToLikes: 0.081256
-    id: ck8nexr44pbyx0j78vdktcajo
-    verified: false
-    hashtags: "#leavingmybody, #forypupage, #horsejumping, #horsefail"
+    followers: 349100
+    engagement: 1739
+    commentsToLikes: 0.098973
+    id: ckb0zdez3o43y0j23zi0dkijf
+    verified: true
+    hashtags: "#biden2020, #blm, #fyp, #trump"
 ---

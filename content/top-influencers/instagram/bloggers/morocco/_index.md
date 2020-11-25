@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Morocco In 2020
 description: >-
-  Find top bloggers Instagram influencers in Morocco in 2020. Most popular hashtags: #blogger #fashionstyle #staysafe #picoftheday.
+  Find top bloggers Instagram influencers in Morocco in 2020. Most popular hashtags: #outfit #morocco #marrakech #stayathome.
 platform: Instagram
+hits: 88
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 88 Instagram influencers like this in Morocco for you to work with.
 profiles:
-  - username: "rababe_gyd"
+  - username: "_kawtar1"
     fullname: >-
-      • 𝐑𝐀𝐁𝐀𝐁𝐄 رباب 𝐆𝐘𝐃 ✨
+      K  A  W  T  A  R | كوثر 🕊
+    bio: >-
+      إمرأة تعرف من أين يُؤكَل الفرح ﷽ ☪️ Influencer | blogger For collaboration 📥 #mohammedia #morocco ▪︎makeup , beauty , lifestyle , fashion ,hijaber
     location: "Morocco"
-    followers: 71941
-    engagement: 575
-    commentsToLikes: 0.089958
-    id: ck13c4148yigm0i19f13twd8n
+    followers: 26317
+    engagement: 633
+    commentsToLikes: 0.071920
+    id: ckap025c2oe0s0i781y7gp2rl
     verified: false
-    hashtags: "#honey, #stayingpositive, #cosmetics, #chocolatelover"
-  - username: "sahartahazain"
+    hashtags: "#hijabootd, #modesty, #chichijab, #hijabstyleicon"
+  - username: "amina.dehbi"
     fullname: >-
-      Sahar Taha El Zain | سهر طه
+      Amina Dehbi | أمينة الذهبي
+    bio: >-
+      Blogger | مُدَوِّنة Journalism student | طالِبَة إِعْلام My Blog | مُدَوّنَتَي 🌼 amina.dehbi001@gmail.com
     location: "Morocco"
-    followers: 356487
-    engagement: 160
-    commentsToLikes: 0.044673
-    id: ck600r44ee44u0i14zmcy0eso
+    followers: 497145
+    engagement: 538
+    commentsToLikes: 0.015466
+    id: ckf5opd4s37v40j23ptbyxhbt
     verified: false
-    hashtags: "#tb, #staysafe"
-  - username: "espada.yassinee"
+    hashtags: "#free, #blog, #icantbreathe, #weareyou"
+  - username: "badgalberry"
     fullname: >-
-      Yassine Moussaoui
+      BERRY 🇲🇦
+    bio: >-
+      Multifaceted if I may say so myself - Fashion blogger, rapper, songwriter. ~ Best bid wins ~ Contact: chaimaeberry@gmail.com “Alright” music video ⬇️
     location: "Morocco"
-    followers: 88385
-    engagement: 224
-    commentsToLikes: 0.042412
-    id: ck6uevi25tbae0j714d36cpnl
+    followers: 40513
+    engagement: 690
+    commentsToLikes: 0.012337
+    id: ck5ci9zaus9mz0i11vkd4cduk
     verified: false
-    hashtags: "#topman, #urbanfashion, #fashionstyle, #zaramen"
-  - username: "ashleysfootprints"
-    fullname: >-
-      Ashley
-    location: "Morocco"
-    followers: 24064
-    engagement: 213
-    commentsToLikes: 0.170297
-    id: ck5caqffndxf80i11iggetfnp
-    verified: false
-    hashtags: "#jet2lanzarote, #2020, #narnia, #wintergarden"
-  - username: "iam.moustache"
-    fullname: >-
-      
-    location: "Morocco"
-    followers: 16528
-    engagement: 512
-    commentsToLikes: 0.075371
-    id: ck0w2k53xorwi0i19tq7m1up9
-    verified: false
-    hashtags: "#eyes, #space, #weareone, #defacto"
-  - username: "mayadahemdan_"
-    fullname: >-
-      Mayada Hemdan
-    location: "Morocco"
-    followers: 107714
-    engagement: 289
-    commentsToLikes: 0.023205
-    id: ck13agvvhqbsn0i19nhrci6b7
-    verified: false
-    hashtags: "#style, #styled, #styles, #makeuptutorial"
-  - username: "moradbenhammo"
-    fullname: >-
-      Morad Làch Mén
-    location: "Morocco"
-    followers: 33005
-    engagement: 233
-    commentsToLikes: 0.114746
-    id: ck5qaikl2glct0i11wqpkyk28
-    verified: false
-    hashtags: "#perfumeunisex, #perfectgift, #marakesh, #multipurpose"
-  - username: "nejmeddiine"
-    fullname: >-
-      Mehdy Nejmeddine
-    location: "Morocco"
-    followers: 113927
-    engagement: 143
-    commentsToLikes: 0.024648
-    id: ck0w15n7jhoiv0i19ktzx66q9
-    verified: false
-    hashtags: "#quarantinelife, #jumiafood, #nejmeddiine, #granvia"
-  - username: "oumiamani"
-    fullname: >-
-      Omaima amani  💎 اماني اميمة
-    location: "Morocco"
-    followers: 164531
-    engagement: 104
-    commentsToLikes: 0.022529
-    id: ck5hquoedtr5f0i11ykeqgisi
-    verified: false
-    hashtags: "#picoftheday, #fashion, #aidmoubarak, #shorthair"
+    hashtags: "#rotita, #sun, #newchicgals, #ootd"
   - username: "salwa.jd1"
     fullname: >-
       Salwa JD🇲🇦'Official
+    bio: >-
+      ﷽ . ●MOROCCAN 🇲🇦/ MODEL🇲🇦/Blogger/influencer . ●contact Business&collaboration 💰 :Salwajlaidi2000@gmail.com . ✨🇲🇦
     location: "Morocco"
-    followers: 99009
-    engagement: 235
-    commentsToLikes: 0.019045
+    followers: 109084
+    engagement: 331
+    commentsToLikes: 0.022447
     id: ck5hqup4htr6o0i11h3it82uu
     verified: false
-    hashtags: "#photooftheday, #polo, #swagger, #comment"
+    hashtags: "#fashiondaily, #purse, #jewelry, #fashionblogger"
+  - username: "espada.yassinee"
+    fullname: >-
+      Yassine Moussaoui
+    bio: >-
+      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
+    location: "Morocco"
+    followers: 89588
+    engagement: 252
+    commentsToLikes: 0.042663
+    id: ck6uevi25tbae0j714d36cpnl
+    verified: false
+    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
+  - username: "iam.moustache"
+    fullname: >-
+      
+    bio: >-
+      Menswear l Blogger l Model Contact : iamstche@gmail.com Rabat 📍
+    location: "Morocco"
+    followers: 18036
+    engagement: 712
+    commentsToLikes: 0.100654
+    id: ck0w2k53xorwi0i19tq7m1up9
+    verified: false
+    hashtags: "#spicollective, #photographer, #menswear, #jungle"
+  - username: "asmaawk"
+    fullname: >-
+      Curlytraveler
+    bio: >-
+      Moroccan living in Brazil 🇲🇦🇧🇷📍 Travel blogger :💉🌍✈️ Export & marketing : 👩‍💻📊
+    location: "Morocco"
+    followers: 29419
+    engagement: 334
+    commentsToLikes: 0.022070
+    id: ck5hhkblh8oez0i11tb4psr2t
+    verified: false
+    hashtags: "#maroc, #egypt, #casablanca, #india"
+  - username: "zainab_hanin"
+    fullname: >-
+      
+    bio: >-
+      Model / blogger / Actress Tetouan/ Fes❤️💦
+    location: "Morocco"
+    followers: 18063
+    engagement: 414
+    commentsToLikes: 0.023709
+    id: ckap0efkopx5e0i78r1a5g3rz
+    verified: false
+    hashtags: "#morocco, #instagood, #blogger, #marrakech"
+  - username: "kenzoftravel"
+    fullname: >-
+      Kenza Bennis
+    bio: >-
+      💎Moroccan Travel-lifestyle blogger 🥰#Marriedtolife 🧘‍♀️ hatha yoga teacher 🌍36 countries,the rest is on my list ❤️Spreading Love 💎Marketing spec
+    location: "Morocco"
+    followers: 54648
+    engagement: 158
+    commentsToLikes: 0.023581
+    id: ck6tjsfis3bxa0j71evmn0njg
+    verified: false
+    hashtags: "#yoga, #yogalover, #sarvangasana, #yogateacher"
+  - username: "soniangadi"
+    fullname: >-
+      Sonia Ngadi
+    bio: >-
+      MUA & Blogger •Influencer• 📞Tel • 0661973471 👻Snapchat• Sonia Ngadi 💌 Contact•soniangadi@hotmail.com 📹YouTube• sonia ngadi
+    location: "Morocco"
+    followers: 575970
+    engagement: 195
+    commentsToLikes: 0.151208
+    id: ck5hr2xipu69c0i11pwcl4wir
+    verified: true
+    hashtags: "#stayathome, #morocco, #staysafe, #bride"
 ---

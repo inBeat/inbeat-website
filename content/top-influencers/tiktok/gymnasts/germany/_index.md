@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts TikTok Influencers In Germany In 2020
 description: >-
-  Find top gymnasts TikTok influencers in Germany in 2020. Most popular hashtags: #turnen #handstand #gymnastics #friends.
+  Find top gymnasts TikTok influencers in Germany in 2020. Most popular hashtags: #gymnastics #foryou #fyp #viral.
 platform: TikTok
+hits: 49
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 49 TikTok influencers like this in Germany for you to work with.
 profiles:
+  - username: "miti.gymnastics"
+    fullname: >-
+      𝕄𝕚𝕥𝕚
+    bio: >-
+      Mia 15y/o gymnastics @miti.gymnastix (insta)
+    location: "Germany"
+    followers: 3186
+    engagement: 4676
+    commentsToLikes: 0.140649
+    id: ckbb6voxswx780j230d768hvs
+    verified: false
+    hashtags: "#duett, #coupleontourreaktion"
   - username: "gymnasticcxnxa"
     fullname: >-
       Cxnxa Vxß
+    bio: >-
+      Girl 👩🏼 18 Years old 🤩 Gymnastic is my life🤸🏼‍♂️ BF• Vanessa ❤️
     location: "Germany"
-    followers: 41041
+    followers: 40500
     engagement: 2218
-    commentsToLikes: 0.061501
+    commentsToLikes: 0.058077
     id: ck9r2z2fin7rn0j78vbn003uk
     verified: false
-    hashtags: "#snowboard, #live, #gymnasics, #over"
+    hashtags: "#turnen, #gymnastic, #jump, #gymnast"
+  - username: "haleysturnwelt"
+    fullname: >-
+      HaleysTurnwelt
+    bio: >-
+      Haley 14 years old 💗 Gymnastics Dancing 💗 Instagram Haley's_turnwelt
+    location: "Germany"
+    followers: 157300
+    engagement: 2433
+    commentsToLikes: 0.008787
+    id: ckbbhkjww648w0j23b8uvzi01
+    verified: false
+    hashtags: ""
   - username: "lea.crazygirl"
     fullname: >-
       ♡~Lea~♡
+    bio: >-
+      ~ German girl🌺 ~ B-day: 15.05.✨ ~ gymnast💗 ~ piano🎹 Danke für 3K Fans😍🎉
     location: "Germany"
-    followers: 3193
-    engagement: 2382
-    commentsToLikes: 0.043461
+    followers: 3077
+    engagement: 2294
+    commentsToLikes: 0.042177
     id: ck9fwrsvq2pw40j785vsj6no7
     verified: false
-    hashtags: "#dome, #foryopage, #klavier, #wasabi"
+    hashtags: "#fyp, #dontletthisflop, #acting, #foryoupage"
+  - username: "der.manu"
+    fullname: >-
+      Manu✌🏻
+    bio: >-
+      Daily Posts! High Diver 🇩🇪, Gymnast 🤸🏻‍♂️ ———— Manu✌🏻————
+    location: "Germany"
+    followers: 84000
+    engagement: 1248
+    commentsToLikes: 0.017376
+    id: ckdsvrrzwq8010j23bq90pgoe
+    verified: false
+    hashtags: "#klippenspringen, #salto, #foryou, #foryoupage"
   - username: "ameliaatumbles_"
     fullname: >-
       ✨✨✨
+    bio: >-
+      new zealand !! ✨⛈🧚‍♀️🦖💝
     location: "Germany"
-    followers: 160246
-    engagement: 2761
-    commentsToLikes: 0.015894
+    followers: 162700
+    engagement: 2571
+    commentsToLikes: 0.012792
     id: cka0ss4fhmttb0i78tl8667yy
     verified: false
-    hashtags: "#airtrack, #turnen, #dancer, #lifeathomequiz"
-  - username: "franzi_malte"
+    hashtags: "#tumble, #tumbling, #fyp, #gymnastics"
+  - username: "aerial_shelly"
     fullname: >-
-      Franzi & Malte
+      Shelly
+    bio: >-
+      ▪️ Aerialist ▪️ Germany ▪️ 25
     location: "Germany"
-    followers: 5504
-    engagement: 944
-    commentsToLikes: 0.044449
-    id: cka0odfjd38py0i78r2495epu
+    followers: 13700
+    engagement: 1913
+    commentsToLikes: 0.021551
+    id: ckamgxghxds450i7854zmpf84
     verified: false
-    hashtags: "#hamburgerjung, #hotface, #myyear2020, #queen"
-  - username: "colognebombs"
+    hashtags: "#lyra, #aerialhoop, #passion, #aerialist"
+  - username: "amelie.tumbless"
     fullname: >-
-      colognebombs
+      Amélie
+    bio: >-
+      Schaut auf Insta vorbei❤️
     location: "Germany"
-    followers: 19350
-    engagement: 1336
-    commentsToLikes: 0.018157
-    id: cka627vikyqe40i7825soci27
+    followers: 15100
+    engagement: 3520
+    commentsToLikes: 0.045072
+    id: ckbqw4drcgahf0j23ts7ahgpn
     verified: false
-    hashtags: "#adrenalin, #freiburg, #drohne, #justdoit"
-  - username: "kaihou718"
+    hashtags: "#lovethissport, #dontgiveup, #foryou, #fyp"
+  - username: "turnteamdeutschland"
     fullname: >-
-      user2430847450557
+      Turn-Team
+    bio: >-
+      Offizieller TikTok-Account des Turn-Team Deutschland 🤸🏼‍♀️🤸🏻‍♂️🇩🇪
     location: "Germany"
-    followers: 13784
-    engagement: 943
-    commentsToLikes: 0.008810
-    id: cka0kfhm3mf5c0i78ge0qdhzp
-    verified: false
-    hashtags: "#dancemonkey, #kickups, #robbailey, #radioacitive"
-  - username: "raha_kiani"
-    fullname: >-
-      Raha Kiani
-    location: "Germany"
-    followers: 127548
-    engagement: 454
-    commentsToLikes: 0.009778
-    id: ck9vemanlzksi0j78rulphk5v
-    verified: false
-    hashtags: "#hurt, #justlike, #foryourpage, #besafe"
-  - username: "tom.wrn"
-    fullname: >-
-      Tom Werner
-    location: "Germany"
-    followers: 89457
-    engagement: 2328
-    commentsToLikes: 0.049543
-    id: ck9pmpxrraqxz0j78gy56ycqw
-    verified: false
-    hashtags: "#autsch, #whydididothis, #backfulls, #doublebackflip"
-  - username: "jxnette.hde"
-    fullname: >-
-      🌹🙈Janette🙈🌹
-    location: "Germany"
-    followers: 146051
-    engagement: 2803
-    commentsToLikes: 0.038205
-    id: ck9m0out8at1i0j7804qm9n2c
-    verified: false
-    hashtags: "#turnen, #tiktokt, #happy, #tiktok"
-  - username: "lesotwins"
-    fullname: >-
-      Leonie & Sophie 🦄
-    location: "Germany"
-    followers: 2118936
-    engagement: 2545
-    commentsToLikes: 0.010433
-    id: ck81swqh7togk0j783j2dde9b
+    followers: 8732
+    engagement: 2126
+    commentsToLikes: 0.016407
+    id: ckbrdelwor1oh0j23em2t6w50
     verified: true
-    hashtags: "#lightroom, #twinproblems, #sport, #helium"
+    hashtags: "#gymnastics, #flip, #turnen, #turnteamdeutschland"
+  - username: "itzzmee_lilly"
+    fullname: >-
+      Lilly
+    bio: >-
+      Insta: Lilly_1205_ Snap: lillly.1205
+    location: "Germany"
+    followers: 4123
+    engagement: 3358
+    commentsToLikes: 0.032078
+    id: ckbqw4fmogava0j23txs8rff3
+    verified: false
+    hashtags: "#fy, #foryou, #gymnastics, #fyp"
 ---

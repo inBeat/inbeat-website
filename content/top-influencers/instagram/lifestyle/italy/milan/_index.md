@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Milan In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #lifestyle #outfit #summer.
+  Find top lifestyle Instagram influencers in Milan in 2020. Most popular hashtags: #lifestyle #milano #style #me.
 platform: Instagram
+hits: 317
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 317 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "simone_tagliati_"
+  - username: "giada_farano"
     fullname: >-
-      𝚂𝚒𝚖𝚘𝚗𝚎 𝚃𝚊𝚐𝚕𝚒𝚊𝚝𝚒
+      GIADA FARANO
+    bio: >-
+      Professional Dancer🇮🇹 @ciaodarwinreal 8 MEDIASET RAI⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ giadafarano95@libero.it Ofenbach,Jovanotti,Syria,Sofia Reyes,ZeroAss Arisa
     location: "Italy"
-    followers: 11430
-    engagement: 813
-    commentsToLikes: 0.033144
-    id: ck8t0us1ptea60j7869nfl5fz
+    followers: 50820
+    engagement: 397
+    commentsToLikes: 0.027733
+    id: ckapceemg3h9e0i78mjsw1oow
     verified: false
-    hashtags: "#luxury, #modelife, #bagfashion, #manclothes"
+    hashtags: "#blog, #staytuned, #sunnyday, #work"
+  - username: "luigi_gentile_real"
+    fullname: >-
+      Luigi Gentile
+    bio: >-
+      -Hairstylist ✂️🇮🇹 -Celebrity and Fashion Hairstylist -hairstylist for mode/celebrity 💋🌹 Collaboration:📩 luigigentilehairstyle@outlook.it
+    location: "Italy"
+    followers: 93377
+    engagement: 442
+    commentsToLikes: 0.042447
+    id: ck0vx7i0kxj3g0i19qjv5hl40
+    verified: false
+    hashtags: "#ghdplatinumplus, #hairstyle, #luigigentilereal, #ad"
+  - username: "guidivale"
+    fullname: >-
+      Valentinaguidi-Discoradio
+    bio: >-
+      @discoradioit Speaker🎧🎼🎵🎶 collaborazioni v.guidi@discoradio.it. Presentatrice tv 📺 speaker 📻 eventi 🔜
+    location: "Italy"
+    followers: 35258
+    engagement: 558
+    commentsToLikes: 0.032495
+    id: ck6u6b6drekvy0j71zz5o5pyo
+    verified: false
+    hashtags: "#life, #me, #radio, #music"
+  - username: "themerluzz"
+    fullname: >-
+      Maurizio Merluzzo
+    bio: >-
+      Doppiatore, attore, conduttore. Collaborazioni: management@thebestblend.it Twitter: @TheMerluzz Codice Sconto Prozis: MERLUZZ10
+    location: "Italy"
+    followers: 503389
+    engagement: 1050
+    commentsToLikes: 0.005803
+    id: ck6u1i8dmlvyv0j71ptyu80dt
+    verified: true
+    hashtags: "#exceedyourself, #youtuber, #prozisitalia, #themerluzz"
+  - username: "gianmariasainato"
+    fullname: >-
+      Gian Maria Sainato
+    bio: >-
+      FASHION - LIFESTYLE - TRAVELS Milan, Italy info@gianmariasainato.com
+    location: "Italy"
+    followers: 583021
+    engagement: 103
+    commentsToLikes: 0.031876
+    id: ck0vxng79zrua0i19lyb65x8t
+    verified: true
+    hashtags: "#breitling, #squadonamission, #sponsoredbybreitling, #adv"
   - username: "iltitanico23"
     fullname: >-
       Andrea Franchini 🕉
+    bio: >-
+      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 • andreadsq@icloud.com 📩 • Ambassador @prozisitalia
     location: "Italy"
-    followers: 252578
-    engagement: 136
-    commentsToLikes: 0.160328
+    followers: 233840
+    engagement: 72
+    commentsToLikes: 0.087959
     id: ck5q94bn79bs10i111lbr7e5k
     verified: false
-    hashtags: "#musheritalia, #rangeroversport, #ombra, #markprivatelife"
-  - username: "marcomount"
+    hashtags: "#syntopiabyorion, #justcbdproducts, #tattoedmodel, #cute"
+  - username: "oliviagama1"
     fullname: >-
-      Marco Montefusco
+      OLIVIA GAMA
+    bio: >-
+      🇧🇷 🇻🇪 🇮🇹 Fashion + Travel + Lifestyle 📍#Milan
     location: "Italy"
-    followers: 25010
-    engagement: 264
-    commentsToLikes: 0.077943
-    id: ck6ti9a8d0a560j71wghnl9n4
+    followers: 202370
+    engagement: 297
+    commentsToLikes: 0.015490
+    id: ck6twp9g1tb5y0j71tm7r0ryy
     verified: false
-    hashtags: "#cremabaciperugina, #adv, #fase2, #viaggidibaci"
+    hashtags: "#sicily, #stromboli, #estateitaliana, #bellaitalia"
+  - username: "annickvaesken"
+    fullname: >-
+      Annick Vaesken Valentino
+    bio: >-
+      • Fashion • Beauty • Lifestyle • 📍Milano, Italia 🇮🇹 Fashion Business & Marketing - Marangoni 👩🏻‍🎓🔜 Paraguaya 🇵🇾
+    location: "Italy"
+    followers: 35814
+    engagement: 713
+    commentsToLikes: 0.006468
+    id: ck5zy5ddm99cw0i14kmsbvgx6
+    verified: false
+    hashtags: "#lagodicomo, #italia, #annickenitalia"
   - username: "megliounpostobello"
     fullname: >-
       Chiara Cazzamali
+    bio: >-
+      I posti più belli a Milano e nel mondo🌟 @megliounpostobello @megliounamostragratis 🍃 travel 🍃 lifestyle 📍Milano📍Mondo 🖋
     location: "Italy"
-    followers: 25395
-    engagement: 447
-    commentsToLikes: 0.087924
+    followers: 26855
+    engagement: 372
+    commentsToLikes: 0.084274
     id: ck15sosqqe2j50i196vstdnqz
     verified: false
-    hashtags: "#viaggiousa, #neusciremopi, #covid, #musicaclassica"
-  - username: "luigi_morino"
+    hashtags: "#milanodascoprire, #milanomia, #milano, #igersmilano"
+  - username: "gianfrateshowroom"
     fullname: >-
-      Luigi Morino
+      Domenico Gianfrate - Owner
+    bio: >-
+      Domenico Gianfrate is an Italian Gentleman. Follow his own elegance: @domenicogianfrate #DomenicoGianfrate #DomenicoGianfrateClub
     location: "Italy"
-    followers: 26530
-    engagement: 625
-    commentsToLikes: 0.035157
-    id: ck0u23o60yupq0i19su07mac7
+    followers: 67438
+    engagement: 185
+    commentsToLikes: 0.006553
+    id: ck6ugdklx2dzx0j71mxkrhwf9
     verified: false
-    hashtags: "#shopping, #gaylove, #proud, #bhfyp"
-  - username: "daphne_scoccia"
-    fullname: >-
-      Daphne Scoccia
-    location: "Italy"
-    followers: 4600
-    engagement: 793
-    commentsToLikes: 0.052583
-    id: ck5bzaax7qr3c0i111thoqita
-    verified: false
-    hashtags: "#luce, #flaviosciol, #cinedokke, #lapurezza"
-  - username: "eleonora.viscardi"
-    fullname: >-
-      Eleonora Viscardi
-    location: "Italy"
-    followers: 49993
-    engagement: 284
-    commentsToLikes: 0.138668
-    id: ck9hcf78dl3n30j78ttlu59hx
-    verified: false
-    hashtags: "#acquisti, #finisce, #quarantena, #moda"
-  - username: "luciobuselli"
-    fullname: >-
-      Lucio Buselli
-    location: "Italy"
-    followers: 9259
-    engagement: 283
-    commentsToLikes: 0.017811
-    id: ck14jy947mroj0i19xysa734l
-    verified: false
-    hashtags: "#selfportrait, #switchmagazine, #summer, #pasqua"
-  - username: "milanpyramid"
-    fullname: >-
-      Aya - Muslim Italian Blogger
-    location: "Italy"
-    followers: 17817
-    engagement: 714
-    commentsToLikes: 0.042122
-    id: ck5cdrzwfjo7n0i11lypl7ybe
-    verified: false
-    hashtags: "#hijabfab, #freshwrist, #majortb, #eidelfitr"
-  - username: "federicaniggas"
-    fullname: >-
-      Federica Negri
-    location: "Italy"
-    followers: 25764
-    engagement: 303
-    commentsToLikes: 0.035725
-    id: ck5hj6ycqg48h0i11aitxqyqn
-    verified: false
-    hashtags: "#staystrong, #skincare, #stayathome, #giftofglow"
+    hashtags: "#work, #tattoos, #newclassic, #gianfrateshowroom"
 ---

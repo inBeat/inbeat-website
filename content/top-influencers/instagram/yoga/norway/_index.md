@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Norway In 2020
 description: >-
-  Find top yoga Instagram influencers in Norway in 2020. Most popular hashtags: #yoga #yogaposes #yogapose #oceanview.
+  Find top yoga Instagram influencers in Norway in 2020. Most popular hashtags: #yoga #balance #yogainspiration #yogaeverywhere.
 platform: Instagram
+hits: 34
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 34 Instagram influencers like this in Norway for you to collaborate.
 profiles:
+  - username: "yogakristine"
+    fullname: >-
+      Kristine Mikkelsen
+    bio: >-
+      •Mom of 3 •Physical Therapist •Yoga Teacher & student Oslo, Norway
+    location: "Norway"
+    followers: 8767
+    engagement: 925
+    commentsToLikes: 0.250161
+    id: ck5zp2b4zruom0i14szyc61c3
+    verified: false
+    hashtags: "#movingmeditation, #yogainspiration, #backbend, #yogatime"
+  - username: "typical.doctor"
+    fullname: >-
+      Patrycja J.
+    bio: >-
+      Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
+    location: "Norway"
+    followers: 6684
+    engagement: 964
+    commentsToLikes: 0.022930
+    id: ck8t1d2f5vavk0j78vrj3625b
+    verified: false
+    hashtags: "#hike, #northnorway, #fall, #travelphotography"
   - username: "yoga_kaja"
     fullname: >-
       ☾ YOGA KAJA ☼
+    bio: >-
+      Vegan Yoga Teacher & Artist अहिंसा Oslo, Norway
     location: "Norway"
-    followers: 32719
-    engagement: 866
-    commentsToLikes: 0.058688
+    followers: 40459
+    engagement: 691
+    commentsToLikes: 0.056790
     id: ck15uxx31p0xe0i196cdo7pn6
     verified: false
-    hashtags: ""
-  - username: "langakerbjj"
+    hashtags: "#sugarbearhair, #justalittletip, #feetup, #extendedsideangle"
+  - username: "isabelstal.life"
     fullname: >-
-      Tommy Lilleskog Langaker
+      Isabel stål
+    bio: >-
+      Next Yoga retreat 15-17 Jan 2021 - Norway (see link👇) Yoga - Meditation teacher🧘‍♀️ Soul coaching sessions
     location: "Norway"
-    followers: 29182
-    engagement: 853
-    commentsToLikes: 0.018535
-    id: ck5bvm9cijxx70i11rl36pmh9
+    followers: 10844
+    engagement: 379
+    commentsToLikes: 0.037335
+    id: ckaovdhs944qu0i78p3upq037
     verified: false
-    hashtags: "#vestkyst, #footlocksdontwork, #bull, #coffee"
+    hashtags: "#goinside, #trust, #beondillution, #spritualgrowth"
+  - username: "karins_medisin"
+    fullname: >-
+      Helse | Ernæring | Coaching
+    bio: >-
+      𝗔𝗻𝘁𝗶𝗶𝗻𝗳𝗹𝗮𝗺𝗺𝗮𝘁𝗼𝗿𝗶𝘀𝗸 𝗹𝗶𝘃𝘀𝘀𝘁𝗶𝗹 | 𝗩𝗲𝗶𝗹𝗲𝗱𝗲𝗿 𝗶 𝗳𝗿ø𝗯𝗮𝘀𝗲𝗿𝘁 𝗲𝗿𝗻æ𝗿𝗶𝗻𝗴 👩🏼‍⚕️ Sykepleier 🤓 Kostholdsveil. TunMed 🧘🏼‍♀️Emosjonell yoga, EFT, hypnoterapi og gestalt
+    location: "Norway"
+    followers: 6124
+    engagement: 943
+    commentsToLikes: 0.174857
+    id: ckap3w1644qhk0i78hniy844w
+    verified: false
+    hashtags: "#blomster, #suntoggodt, #sunnmat, #kosthold"
+  - username: "jeanettechristiansen"
+    fullname: >-
+      JEANETTE
+    bio: >-
+      💙Tobarnsmamma 🌿natur • yoga • balanse • mote 🌾Ambassadør for ✨@merkmini_navnelapper ✨@idealofsweden ✨@babyframes_ ✨@famme
+    location: "Norway"
+    followers: 5512
+    engagement: 1562
+    commentsToLikes: 0.516967
+    id: ck8t5epin9wcn0j783o6vvb3v
+    verified: false
+    hashtags: "#merkmini, #summer, #yogapose, #visitsandefjord"
   - username: "francesca.golfetto"
     fullname: >-
       Francesca Golfetto
+    bio: >-
+      YOGA TEACHER - Vinyasa Ashtanga 3rd series @lululemonnordics 🍋 Ambassador @vitaminwellnorge team @satsnorge @hiyoga_no
     location: "Norway"
     followers: 15246
     engagement: 390
     commentsToLikes: 0.055242
     id: ck5q5p6gmtwn10i11p93ag10i
     verified: false
-    hashtags: "#knottedup, #dropbacks, #osloyoga, #mood"
-  - username: "jeanettechristiansen"
+    hashtags: "#yoganorway, #flexibilitytraining, #yogapose, #portrait"
+  - username: "lindamor78"
     fullname: >-
-      JEANETTES FAMILIELIV
+      Linda B.Johansen | Norway 🇳🇴
+    bio: >-
+      🧘🏼‍♀️Y O G I 🌱N A T U R E L O V E R ❤️Mom of 4 💍Married ✉️lin.berg78@gmail.com
     location: "Norway"
-    followers: 4480
-    engagement: 2038
-    commentsToLikes: 0.470075
-    id: ck8t5epin9wcn0j783o6vvb3v
+    followers: 3484
+    engagement: 1136
+    commentsToLikes: 0.204133
+    id: ckf5mohxjurm80j232gqkz3l5
     verified: false
-    hashtags: "#yogatights, #altblirbra, #flowerpower, #stormberg"
-  - username: "yogakristine"
-    fullname: >-
-      Kristine Mikkelsen
-    location: "Norway"
-    followers: 7682
-    engagement: 908
-    commentsToLikes: 0.308002
-    id: ck5zp2b4zruom0i14szyc61c3
-    verified: false
-    hashtags: "#camelpose, #asanarebel, #staystrong, #igyogamovement"
+    hashtags: "#yogapose, #goodvibesonly, #yogapractice, #momdaughter"
   - username: "aktivmamma"
     fullname: >-
       Cathrine 🇳🇴
+    bio: >-
+      •CF Athlete •Mom and wife @petterkmortvedt •Web coach👉🏻 @elitept.no •@dirt.norge - use Cathrine25 •@heartoflule- use cath20 for a discount
     location: "Norway"
-    followers: 22936
-    engagement: 467
-    commentsToLikes: 0.067849
+    followers: 22787
+    engagement: 423
+    commentsToLikes: 0.062111
     id: ck5q44os5nqso0i11w2n0z62s
     verified: false
-    hashtags: "#bluewater, #instagram, #beproudofyou, #yogabeginner"
-  - username: "perheimly"
+    hashtags: "#healthy, #runners, #instagram, #workoutmotivation"
+  - username: "teamstronger"
     fullname: >-
-      perheimly
+      Kristine & Simen | Acroyoga
+    bio: >-
+      💙 Idrettspedagoger med mål om å spre treningsglede 📍 Oslo, Norge 🧘🏽‍♀️ @kristinekjenne 🌱 Acroyoga, Styrke, Friluftsliv ✨ @abilica @maximnorge
     location: "Norway"
-    followers: 15457
-    engagement: 411
-    commentsToLikes: 0.021601
-    id: ck5hl6njdjnxl0i111i5ekduz
+    followers: 13815
+    engagement: 252
+    commentsToLikes: 0.051414
+    id: ck0tzxg1iruzp0i19okfvo4oc
     verified: false
-    hashtags: "#photoartist, #hasselblad, #fashion, #catlover"
-  - username: "charlottemsk"
-    fullname: >-
-      𝐂𝐇𝐀𝐑𝐋𝐎𝐓𝐓𝐄 ✌🏼 𝐭𝐰𝐢𝐧𝐦𝐨𝐦
-    location: "Norway"
-    followers: 14455
-    engagement: 578
-    commentsToLikes: 0.020929
-    id: ck0uajnyecetw0i19svtzlvo0
-    verified: false
-    hashtags: "#twinbabies, #balanse, #yoga, #twingirls"
-  - username: "martineekhagen"
-    fullname: >-
-      Martine Ek Hagen
-    location: "Norway"
-    followers: 22515
-    engagement: 658
-    commentsToLikes: 0.037308
-    id: ck6u5bty98q450j71n8llyyly
-    verified: false
-    hashtags: "#osv, #gratis, #ad, #kunst"
-  - username: "adventure_squirrel"
-    fullname: >-
-      🐿Mathias Squirrelhill🐿
-    location: "Norway"
-    followers: 6360
-    engagement: 664
-    commentsToLikes: 0.016342
-    id: ck6tsrg146f230j71kvsgjs4i
-    verified: false
-    hashtags: "#happyhobo, #jungletrek, #devold, #sundaymorning"
+    hashtags: "#yoga, #liveterbestute, #aktivhverdag, #hjemmetrening"
 ---

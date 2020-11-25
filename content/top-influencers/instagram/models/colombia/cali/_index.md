@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Cali In 2020
 description: >-
-  Find top models Instagram influencers in Cali in 2020. Most popular hashtags: #model #girl #fashion #tiktok.
+  Find top models Instagram influencers in Cali in 2020. Most popular hashtags: #cali #model #colombia #moda.
 platform: Instagram
+hits: 41
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 41 Instagram influencers like this in Cali, Colombia for you to pitch.
 profiles:
+  - username: "nathaliaduquef"
+    fullname: >-
+      Nathalia Duque 🇨🇴
+    bio: >-
+      B.F.A in Musical Theater Actress - Singer - Dancer Agency represented model (USA) Modelo independiente (Colombia) @waltdisneyworld Entertainment
+    location: "Colombia"
+    followers: 9071
+    engagement: 920
+    commentsToLikes: 0.102503
+    id: ck6uc8y7xe6wl0j71iteglv8l
+    verified: false
+    hashtags: "#modelingshoot, #colombia, #brunette, #hairgoals"
+  - username: "camilasernab_"
+    fullname: >-
+      CAMILA SERNA 🦁
+    bio: >-
+      • Dios , Amor y Familia 🙏🏻 • Creadora de @amati_bycamila • Modelo • Instructora De Zumba fitness 💃 • Colombiana 🇨🇴
+    location: "Colombia"
+    followers: 20105
+    engagement: 409
+    commentsToLikes: 0.023805
+    id: ck5bt8dz4fim50i114bng2ma6
+    verified: false
+    hashtags: "#zumbakids, #fotografia, #zumbacolombia, #model"
+  - username: "sofiazamolo"
+    fullname: >-
+      Sofia Zamolo
+    bio: >-
+      • Mamá de Cali 👶🏼 • Model • Tv Host • @multitalentoficial contacto—> @ls_loly • Shop my looks ⤵️
+    location: "Colombia"
+    followers: 1021713
+    engagement: 277
+    commentsToLikes: 0.019628
+    id: ck5hpj9bergak0i11xlq0p2z7
+    verified: true
+    hashtags: "#38semanas, #38weekspregnant, #39semanas, #37semanas"
+  - username: "mateo.vanegasvalderrama"
+    fullname: >-
+      Mateo Vanegas Valderrama
+    bio: >-
+      🍔Si amas la comida este perfil es para ti 😛🍕 DIRECTOR COMERCIAL DE @redessocialesmanizales @activateplus 😎 CANAL @tour_del_sabor 🍔
+    location: "Colombia"
+    followers: 16453
+    engagement: 258
+    commentsToLikes: 0.306858
+    id: ck8syjpo7l0ti0j78new0wiiu
+    verified: false
+    hashtags: "#caldas, #emprendedores, #comida, #moda"
   - username: "lauritafitness"
     fullname: >-
       Lau Tamayo 🎀
+    bio: >-
+      Colombian 🇨🇴 Cat lover 😻 Fitness 🏋️‍♀️ Travel ✈️ Trading 📈 #BornToBeRealNotPerfect
     location: "Colombia"
     followers: 4189
     engagement: 1063
     commentsToLikes: 0.115666
     id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#tbt, #classy, #fashion, #photography"
-  - username: "juan.ossa10"
+    hashtags: "#positiva, #verano, #model, #classy"
+  - username: "thaylin_franco"
     fullname: >-
-      Juan Manuel O. ♛
+      Thaylin Camila Franco
+    bio: >-
+      Modelo 👠 PUBLICIDAD o CANJE AL DM🔝📩 Apoyo 100%emprendimiento Col🇨🇴 📊 Digital Influencer, 📍Bogotá, Colombia #modelo 📸#eventos🎶 💻CEO @salserosdeverdad
     location: "Colombia"
-    followers: 10100
-    engagement: 1242
-    commentsToLikes: 0.090541
-    id: ck5qc4i3iotdz0i112ahgra0x
+    followers: 32766
+    engagement: 187
+    commentsToLikes: 0.044002
+    id: ck8tcveze0u1n0j781vn6a0aa
     verified: false
-    hashtags: "#quedateencasa, #beautiful, #stayathome, #tumblr"
-  - username: "tatiana_romero11"
+    hashtags: "#weekend, #espa, #happy, #goodnight"
+  - username: "calicolfit"
     fullname: >-
-      Tatiana Romero
+      LUZ MARINA GARCIA A 🐼🦄
+    bio: >-
+      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
     location: "Colombia"
-    followers: 22123
-    engagement: 329
-    commentsToLikes: 0.045414
-    id: ck5zzyi59cmwl0i14c11dq376
+    followers: 43808
+    engagement: 85
+    commentsToLikes: 0.048433
+    id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#mode, #negra, #beauty, #shine"
-  - username: "anacespedesc"
+    hashtags: "#love, #fitness, #fit, #vibes"
+  - username: "dianisnicol_oficial"
     fullname: >-
-      ANA C.
+      𝓓’ 𝓝𝓲𝓬𝓸𝓵.🌸🍭🦄👙
+    bio: >-
+      👙Modelo 💕🌠Amor propio 📽️Videos musicales 🇨🇴Cali co ,👄publicidad al Dm Los espero por aquí 👇💥🔥
     location: "Colombia"
-    followers: 352905
-    engagement: 429
-    commentsToLikes: 0.022083
-    id: ck8sz2flhmx4e0j78jyq6uyfm
+    followers: 37748
+    engagement: 145
+    commentsToLikes: 0.021635
+    id: ck6u4j9kh41dm0j71i1bcktvc
     verified: false
-    hashtags: "#tbt, #nofilters"
-  - username: "luana_huerta"
+    hashtags: "#mujeres, #italia, #quehacen, #cali"
+  - username: "camiavellam"
     fullname: >-
-      Luana
+      Camila Kamle Avella 🌞
+    bio: >-
+      🇨🇴 Colombian model | Content creator |Tv hostess | Jewelry designer| Fashion lover| @turmalinalegacy @telkatelas @camiavella_tips
     location: "Colombia"
-    followers: 12748
-    engagement: 856
-    commentsToLikes: 0.040091
-    id: ck0vyn0o54t4k0i19cqzthv99
-    verified: false
-    hashtags: "#calihouse"
-  - username: "nathaliaduquef"
+    followers: 357617
+    engagement: 295
+    commentsToLikes: 0.020910
+    id: ck5c0pucztm3s0i11gxfqsu1r
+    verified: true
+    hashtags: "#kamlebytelka, #calicolombia, #turmalinalegacy, #domi"
+  - username: "carolinalgg"
     fullname: >-
-      Nathalia Duque
+      C A R O L I N A    G Ó M E Z ☆
+    bio: >-
+      🇨🇴 Colombian Model📸 📩 Carolinalgg@hotmail.com
     location: "Colombia"
-    followers: 7671
-    engagement: 1200
-    commentsToLikes: 0.055921
-    id: ck6uc8y7xe6wl0j71iteglv8l
+    followers: 40424
+    engagement: 312
+    commentsToLikes: 0.088200
+    id: ck8tcvfbv0u3j0j78355yt6t5
     verified: false
-    hashtags: "#hairgoals, #girls, #roadtrip, #loved"
-  - username: "kionna_janice"
-    fullname: >-
-      Kionna Janice
-    location: "Colombia"
-    followers: 4969
-    engagement: 1011
-    commentsToLikes: 0.027063
-    id: ck5qch7tkqjv10i11pt4x19at
-    verified: false
-    hashtags: "#brrrr, #usatour, #chinachallenge, #dancerlife"
-  - username: "makerandy"
-    fullname: >-
-      Fotografia Bogotá
-    location: "Colombia"
-    followers: 70438
-    engagement: 463
-    commentsToLikes: 0.009153
-    id: ck139x61mnkec0i190vq1alv5
-    verified: false
-    hashtags: "#hediye, #igersjp, #bayan, #shoes"
-  - username: "alejandrocubillan1"
-    fullname: >-
-      𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐂𝐮𝐛𝐢𝐥𝐥𝐚𝐧
-    location: "Colombia"
-    followers: 30572
-    engagement: 194
-    commentsToLikes: 0.036411
-    id: ckap422qo5i610i788gmyh0c1
-    verified: false
-    hashtags: "#like, #humor, #bucaramanga, #amor"
-  - username: "grego_fit"
-    fullname: >-
-      Gregory Sanchez
-    location: "Colombia"
-    followers: 8448
-    engagement: 364
-    commentsToLikes: 0.155582
-    id: ck15s338yaz3f0i19uarhjcpz
-    verified: false
-    hashtags: "#rutinasgym, #body, #pubertad, #cali"
+    hashtags: "#sexy, #moda, #cute, #colombianmodel"
 ---

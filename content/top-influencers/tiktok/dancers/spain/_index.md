@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Spain In 2020
 description: >-
-  Find top dancers TikTok influencers in Spain in 2020. Most popular hashtags: #comedy #tiktok #comedia #challenge.
+  Find top dancers TikTok influencers in Spain in 2020. Most popular hashtags: #parati #fyp #dance #foryoupage.
 platform: TikTok
+hits: 46
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 46 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "micky_21_shahani"
     fullname: >-
       @Micky.Shahani
+    bio: >-
+      India 🇮🇳 Spain 🇪🇸 Dancer 🕺🏻 Follow me on Instagram 🤩
     location: "Spain"
-    followers: 16648
-    engagement: 1329
-    commentsToLikes: 0.158589
+    followers: 18500
+    engagement: 1698
+    commentsToLikes: 0.270283
     id: ck900hzy0ag460j78rt7c3ws3
     verified: false
-    hashtags: "#wedding, #haryanvisong, #haryanvitiktok, #funnyvideos"
-  - username: "mariinacano"
+    hashtags: "#halloweenentiktok, #dance, #mickyshahani, #tiktokespa"
+  - username: "lauriky_00ruiz"
     fullname: >-
-      Marina Cano⚡️
+      Laura Ruiz
+    bio: >-
+      Graphic designer, art and crafts lover 🌼 Dancer ✨ Spain 🇪🇸
     location: "Spain"
-    followers: 60385
-    engagement: 1264
-    commentsToLikes: 0.019833
-    id: ck900y5w1azje0j785ph9699g
+    followers: 27700
+    engagement: 1297
+    commentsToLikes: 0.046802
+    id: ckb98cgpfrqoa0j23t2byru94
     verified: false
-    hashtags: "#nomasbullying, #1000razones, #merehuso, #lacama"
-  - username: "adrianbiosca"
-    fullname: >-
-      ADRIAN BIOSCA
-    location: "Spain"
-    followers: 14068
-    engagement: 1172
-    commentsToLikes: 0.024071
-    id: ck90waduj318u0j78fl21hjna
-    verified: false
-    hashtags: "#sky, #ozuna, #coronavirus, #highheels"
+    hashtags: "#halloween, #humor, #halloweenmakeup, #art"
   - username: "errrpuliii"
     fullname: >-
       ErrrPuliii
+    bio: >-
+      GC🏝🇮🇨// Contenido Variado 24a✌🏻 Perdi la verguenza hace⏰ Dancer//krump🎵❤️
     location: "Spain"
-    followers: 2181
-    engagement: 1399
-    commentsToLikes: 0.037801
+    followers: 3602
+    engagement: 1771
+    commentsToLikes: 0.043535
     id: ckamj29qsmis40i78zktel8vq
     verified: false
-    hashtags: "#viralvideo, #ohhappyday, #indirectas, #camachallenge"
+    hashtags: "#foryoupage, #greenscreen, #parati, #canarias"
+  - username: "xtianknowless"
+    fullname: >-
+      Cristian Knowles
+    bio: >-
+      Bienvenido a mi Colmena🐝 DANCER👯‍♂️ 📍Spain🏳️‍🌈 250k?
+    location: "Spain"
+    followers: 230200
+    engagement: 946
+    commentsToLikes: 0.018825
+    id: ckcehzjstpysr0j23mlp2u5yu
+    verified: false
+    hashtags: "#teammelyssa, #istambul, #hoynoduermo, #halloweenentiktok"
+  - username: "dorivaljunco"
+    fullname: >-
+      Dorival Junco
+    bio: >-
+      Dancer/Actor/Singer currently in Hamburg. Cirque du Soleil Paramour 🇨🇺Cuban
+    location: "Spain"
+    followers: 72500
+    engagement: 936
+    commentsToLikes: 0.043142
+    id: ckck2cwvglqci0j23khqstks6
+    verified: false
+    hashtags: "#singer, #tiktokdance, #perte, #blessed"
+  - username: "impactbrothers"
+    fullname: >-
+      impactbrothers
+    bio: >-
+      Si, no lo parece, pero somos hermanos mellizos. 😄 CIRCUS ARTISTS / DANCERS
+    location: "Spain"
+    followers: 341800
+    engagement: 1485
+    commentsToLikes: 0.018670
+    id: ckcj5hk4w5poc0j23h6dr8sft
+    verified: false
+    hashtags: "#tiktok, #challenge, #circus, #viralvideo"
   - username: "manbunfon"
     fullname: >-
       Alfonso López Rubio
+    bio: >-
+      📍Madrid / Dancer ❤Vamos a por los 8.000?❤ Instagram: @alfonsolopezrubio
     location: "Spain"
-    followers: 6839
-    engagement: 661
-    commentsToLikes: 0.104134
+    followers: 7716
+    engagement: 653
+    commentsToLikes: 0.083945
     id: cka0ivh5cfddv0i78fim8268j
     verified: false
-    hashtags: "#quienpuede, #partner, #newjob, #underthesea"
+    hashtags: "#desescalada, #tiktok, #gay, #viral"
+  - username: "laiapeerez"
+    fullname: >-
+      laia
+    bio: >-
+      Barcelona | dancer Follow my IG @laiaapeereez
+    location: "Spain"
+    followers: 298700
+    engagement: 1110
+    commentsToLikes: 0.012215
+    id: ckb1bk7r306mm0j23ue72utun
+    verified: false
+    hashtags: "#freestyle, #888, #foryoupage, #fyp"
   - username: "laupinfdez"
     fullname: >-
       Laura Pinto Fernandez
+    bio: >-
+      Follow me on instagram ☝🏿☝🏿 @laupinfdez DANCER 1997 Spain, Canary Island 🌴🇮🇨
     location: "Spain"
-    followers: 17293
-    engagement: 1026
-    commentsToLikes: 0.020050
+    followers: 17000
+    engagement: 853
+    commentsToLikes: 0.011315
     id: ck9dvbcywk5m10j78objcgj9x
     verified: false
-    hashtags: "#lemon, #edsheeran, #remix, #fortnite"
-  - username: "zairatary"
+    hashtags: "#parati, #foryoupage, #challenge, #foryou"
+  - username: "victorguillenx"
     fullname: >-
-      Zaira Tary
+      Víctor Guillén
+    bio: >-
+      Canarias.Spain. Dancer 📧victorguillen.collab@gmail.com IG: victorguillenx
     location: "Spain"
-    followers: 5017
-    engagement: 520
-    commentsToLikes: 0.041618
-    id: cka6j1g5nswww0i78i6oa6u8v
+    followers: 57800
+    engagement: 1263
+    commentsToLikes: 0.014551
+    id: ckd1769obocc50j23syyc8zuf
     verified: false
-    hashtags: "#skatergirl, #tiktokspain, #flow, #dreamgirl"
-  - username: "marktore"
-    fullname: >-
-      marktore
-    location: "Spain"
-    followers: 111459
-    engagement: 1257
-    commentsToLikes: 0.008547
-    id: cka0n1pojxpx40i78aa5hoak6
-    verified: false
-    hashtags: "#tutorial, #redbull, #meme, #bbf19"
-  - username: "itslaiafidalgo"
-    fullname: >-
-      Laia Fidalgo🌸
-    location: "Spain"
-    followers: 529941
-    engagement: 3078
-    commentsToLikes: 0.015024
-    id: ck9f1qmwt9en10j78nptsewm1
-    verified: true
-    hashtags: "#deporte, #comedy, #modelingcheck, #model"
-  - username: "ddesidesii"
-    fullname: >-
-      [Desi]rée
-    location: "Spain"
-    followers: 14455
-    engagement: 2736
-    commentsToLikes: 0.067355
-    id: cka6m2i5p5h4i0i78spnlt5vr
-    verified: false
-    hashtags: "#vbts, #jump, #solarmamamoo, #jisoo"
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Norway In 2020
 description: >-
-  Find top mothers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #bubbleroomstyle #selfportrait #jollyroom.
+  Find top mothers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #norge #visitnorway.
 platform: Instagram
+hits: 79
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 79 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "mammatiltreskatter"
-    fullname: >-
-      Eva Eriksen
-    location: "Norway"
-    followers: 27293
-    engagement: 234
-    commentsToLikes: 0.206551
-    id: ck8svt8kzclug0j78y8ymtvl9
-    verified: false
-    hashtags: "#fuckcorona, #coronalife, #kevinmurphy, #frisorenmin"
-  - username: "jeanetteastor"
-    fullname: >-
-      Jeanette Astor 🇳🇴🇵🇹🇸🇪
-    location: "Norway"
-    followers: 21339
-    engagement: 518
-    commentsToLikes: 0.027866
-    id: ck0txhtlfj6w30i19q3zmc928
-    verified: false
-    hashtags: ""
   - username: "catkrii"
     fullname: >-
       ♛ Cathrine
+    bio: >-
+      ♛5x5, Norway🌍 ⠀⠀⠀⠀· ⌊ΙFESTYLEⒺ / MOTHERHOOⒹ / INSPIRATIOⓃ · ♛ @bodylabnorge ♡ ⠀⠀⠀⠀
     location: "Norway"
-    followers: 16505
+    followers: 16277
     engagement: 189
-    commentsToLikes: 0.089704
+    commentsToLikes: 0.088843
     id: ck5zjsemsi63w0i14g9vbebr0
     verified: false
-    hashtags: "#easter, #eaa, #fitmom, #fitmum"
+    hashtags: "#happyinternationalwomensday2020, #idealofsweden, #mygirls, #teambodylab"
   - username: "tonerud"
     fullname: >-
       🎶Tone💃🏃‍♀️
+    bio: >-
+      Married mother. Living 🇧🇻 Cabin 🇸🇪 Nikon/Huawei Mbr: @raw_community @passion_4_living_photos @ig_week_family @be_one_family
     location: "Norway"
-    followers: 6616
-    engagement: 2378
-    commentsToLikes: 0.162382
+    followers: 7281
+    engagement: 2241
+    commentsToLikes: 0.202941
     id: ck0u285emz4yu0i19v4k5q7lq
     verified: false
-    hashtags: "#17mai, #utno, #constitutionday, #visitgreece"
-  - username: "pilotfrue"
+    hashtags: "#be, #bestofnorwegiannature, #adressa, #excellent"
+  - username: "ruskicat"
     fullname: >-
-      J u l i a n n e  N y g å r d
+      Ruski, Evi & Kiara
+    bio: >-
+      😺 𝗥𝘂𝘀𝗸𝗶, mothercat wannabe 😾 𝗘𝘃𝗶, expert purring machine 🐱 𝗞𝗶𝗮𝗿𝗮, seated world champion ⚡️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 by @eukanubanorge 🇳🇴
     location: "Norway"
-    followers: 52669
-    engagement: 326
-    commentsToLikes: 0.012109
-    id: ck55lug2d2gjm0i11n2bxargp
+    followers: 23175
+    engagement: 822
+    commentsToLikes: 0.030261
+    id: ck8t59bg099lx0j78x6h6qew7
     verified: false
-    hashtags: "#ellosactionlist, #morsdag, #blomsterbryllupsdag, #julianneogulrik"
-  - username: "maritbakkli"
+    hashtags: "#weeklyfluff, #balousfriends, #catloaf, #siberianforestcat"
+  - username: "hervisuals"
     fullname: >-
-      M A R I T   B A K K L I 𓃰
+      ADVENTURE • NATURE • FREEDOM
+    bio: >-
+      Captivated by culture🌻 • Lover of Mother Earth, words and curry • My brothers keeper🕊
     location: "Norway"
-    followers: 5143
-    engagement: 806
-    commentsToLikes: 0.230561
-    id: ck15r50ev66k50i19m070uf80
+    followers: 2950
+    engagement: 1776
+    commentsToLikes: 0.298483
+    id: ckapa1aq5ub810i78vn2ljggg
     verified: false
-    hashtags: "#thepillowchallenge, #kj, #babydaddy, #coronatime"
-  - username: "the_optimisticgirl"
-    fullname: >-
-      Amara🇳🇬|Mom&Lifestyle Blogger
-    location: "Norway"
-    followers: 17459
-    engagement: 282
-    commentsToLikes: 0.052818
-    id: ck6u4yexg6igx0j714n8zdm31
-    verified: false
-    hashtags: "#naturalbeauty, #colorventures, #myuniconlife, #babyboy"
+    hashtags: "#wildernesstones, #mtnfolk, #madeiranowordsneeded, #passionpassport"
   - username: "villarostille"
     fullname: >-
       MARIELLE ROSTILLE
+    bio: >-
+      Live in Norway/Trondheim ~ Mother to Levi 🧡 📷 Credit @villarostille ✉️ Collaborate? Send DM or EMAIL marielle.rostille@gmail.com
     location: "Norway"
-    followers: 32098
-    engagement: 427
-    commentsToLikes: 0.224624
+    followers: 31862
+    engagement: 173
+    commentsToLikes: 0.194711
     id: ck55lrsda29d20i11pcfn029p
     verified: false
-    hashtags: "#lekerom, #weightloss, #fashionblogger, #kidsroomdecorn"
-  - username: "ruskicat"
+    hashtags: "#scandinavianhome, #autumnfashion, #woodentoys, #norway"
+  - username: "odinscrotum"
     fullname: >-
-      Ruski and Evi
+      
+    bio: >-
+      ᛋ ᛟ ᚠ - Viking history and Norse religion. - Lover of writing. - Harp and Kravik lyre amateur. - Mother to a mighty dragon. 🌙🌲🌨🐉🏔⚔️
     location: "Norway"
-    followers: 15214
-    engagement: 1452
-    commentsToLikes: 0.031960
-    id: ck8t59bg099lx0j78x6h6qew7
+    followers: 10759
+    engagement: 914
+    commentsToLikes: 0.034497
+    id: ck0tu5rox5rjv0i1911dxeufx
     verified: false
-    hashtags: "#belike, #sibiriancat, #poorruski, #tabbycat"
-  - username: "shapeupcathrine"
+    hashtags: "#runechallenge"
+  - username: "danilangedal"
     fullname: >-
-      CATHRINE 🇳🇴
+      Danielle Langedal from Norway
+    bio: >-
+      • Teacher, photographer & mother • Landscape - lifestyle - dogs • danilangedal@gmail.com • @trultethesheepdog • @swims.norway ambassador
     location: "Norway"
-    followers: 42219
-    engagement: 279
-    commentsToLikes: 0.114433
-    id: ck134y5zhyrfc0i191upgbk71
+    followers: 18377
+    engagement: 447
+    commentsToLikes: 0.108938
+    id: ck5cjxno0vpcc0i117ig0mko3
     verified: false
-    hashtags: "#mittalt, #easter, #stolt, #happyeaster"
+    hashtags: "#beautifuldestinations, #norway, #hellofrom, #voyaged"
+  - username: "nemventures"
+    fullname: >-
+      𝔽𝕚𝕟𝕝𝕒𝕟𝕕🇫🇮 𝔽𝕚𝕥𝕟𝕖𝕤𝕤🏋️‍♀️ 𝔽𝕒𝕞𝕚𝕝𝕪
+    bio: >-
+      🇺🇦🇫🇮 🏋️‍♀️#Fitnessmom of 🏕🌍#activefamily #Motherhood journey and Family travelling Let's discover #Finland together
+    location: "Norway"
+    followers: 2577
+    engagement: 968
+    commentsToLikes: 0.148111
+    id: ck9wozv5077830j78yc9qsk1c
+    verified: false
+    hashtags: "#taivaskeronkierros, #nem"
+  - username: "strikkveines"
+    fullname: >-
+      Caroline Veines
+    bio: >-
+      26 | Norway | Mother of two 👶🏼👧 | Wife 🤎 Driver @broderistrikk 🍂
+    location: "Norway"
+    followers: 6350
+    engagement: 736
+    commentsToLikes: 0.051217
+    id: ckaou9477zczx0i78u16jzbr9
+    verified: false
+    hashtags: "#margotbuksa, #vingedress, #bamselue, #sundaysweaterjunior"
+  - username: "rebeccaamber"
+    fullname: >-
+      rebeccaamber📸
+    bio: >-
+      Photographer.mother.Eyes of spring heart of summer owner/creator @nordicretreats
+    location: "Norway"
+    followers: 16373
+    engagement: 247
+    commentsToLikes: 0.022159
+    id: ck0u1er7kwkwp0i19kjx27msi
+    verified: false
+    hashtags: "#print, #westcoast, #film, #workinonsomething"
 ---

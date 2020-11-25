@@ -1,52 +1,65 @@
 ---
 title: Top 10 Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top Instagram influencers in Vancouver in 2020. Most popular hashtags: # #ad #stayinginwithnastygal #happyvday.
+  Find top Instagram influencers in Vancouver in 2020. Most popular hashtags: #yvr #plt #pltbabe.
 platform: Instagram
+hits: 1398
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1398 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "joaohguedes"
-    fullname: >-
-      João Guedes
-    location: "Canada"
-    followers: 61678
-    engagement: 381
-    commentsToLikes: 0.017301
-    id: ck5q6dcmywy5a0i11ddpbgnxw
-    verified: false
-    hashtags: "#torontoworkshop, #toronto, #brazil, #montreal"
   - username: "abeepinsky"
     fullname: >-
       Abee Pinsky
+    bio: >-
+      Vancouver
     location: "Canada"
-    followers: 4761
-    engagement: 1771
-    commentsToLikes: 0.028873
+    followers: 5612
+    engagement: 1249
+    commentsToLikes: 0.036181
     id: ck0tzxkhkrvm70i19x3zsj624
     verified: false
     hashtags: ""
-  - username: "amrinprasad"
+  - username: "insecuresociety"
     fullname: >-
-      Amrin
+      insecuresociety
+    bio: >-
+      Vancouver
     location: "Canada"
-    followers: 17830
-    engagement: 488
-    commentsToLikes: 0.051294
-    id: ck5c5dw293aa50i111173uy7w
+    followers: 21445
+    engagement: 78
+    commentsToLikes: 0.099699
+    id: ck0ucbgi6ggru0i190fbldgks
     verified: false
-    hashtags: "#craftedwithjoy, #ad"
+    hashtags: "#blackouttuesday"
+  - username: "rachelunipan"
+    fullname: >-
+      rach
+    bio: >-
+      Vancouver
+    location: "Canada"
+    followers: 2324
+    engagement: 1184
+    commentsToLikes: 0.043765
+    id: ck6tm0ojm6zbg0j71653389cq
+    verified: false
+    hashtags: "#happyvday"
   - username: "logandoust"
     fullname: >-
       Logan Doust
+    bio: >-
+      Vancouver
     location: "Canada"
     followers: 2389
     engagement: 2387
     commentsToLikes: 0.060268
     id: ck5ch99wyqc440i11p77whkun
     verified: false
-    hashtags: "#sunshine"
+    hashtags: ""
   - username: "pasha"
     fullname: >-
       Pasha Eshghi
+    bio: >-
+      Vancouver
     location: "Canada"
     followers: 13239
     engagement: 750
@@ -54,54 +67,64 @@ profiles:
     id: ck0ucoiishc870i19dgp63nj6
     verified: true
     hashtags: ""
-  - username: "v.ngyn"
+  - username: "mobinapeiman"
     fullname: >-
-      Vui
+      Mobina | Fashion & Lifestyle
+    bio: >-
+      content creator | vancouver, canada ✉️ mobina.peiman@gmail.com
     location: "Canada"
-    followers: 9654
-    engagement: 639
-    commentsToLikes: 0.057395
-    id: ck6ueih89r4dc0j71rm4u3i4y
+    followers: 52019
+    engagement: 697
+    commentsToLikes: 0.051389
+    id: ck0tv2trt9p2k0i19ybiitg5f
     verified: false
-    hashtags: "#vancouver"
-  - username: "rachelunipan"
+    hashtags: "#revolveme"
+  - username: "tesstattoo"
     fullname: >-
-      rach
+      T E S S M A R T I
+    bio: >-
+      🏆World-renowned PMU artist 🥇Dark lip neutralization specialist 🌎International seminars 🌲Vancouver, BC 💻Online training 💌 Email only, 🚫 DMs #tattoo
     location: "Canada"
-    followers: 2119
-    engagement: 1116
-    commentsToLikes: 0.034425
-    id: ck6tm0ojm6zbg0j71653389cq
+    followers: 54723
+    engagement: 680
+    commentsToLikes: 0.049722
+    id: ck8tcxfnm11wp0j78mgwfclyq
     verified: false
-    hashtags: "#happyvday, #byerain"
-  - username: "tangerinca"
+    hashtags: "#yvr, #beautifulbc, #britishcolumbia, #tesstattoo"
+  - username: "tania_louise"
     fullname: >-
-      AVE MARIA
+      T a n i a
+    bio: >-
+      Vancouver//Mauritius @richardsmodels
     location: "Canada"
-    followers: 2693
-    engagement: 2712
-    commentsToLikes: 0.159699
-    id: ck6tibd6x0e9x0j7134j8cmq6
+    followers: 2234
+    engagement: 2813
+    commentsToLikes: 0.107005
+    id: ck6u3q4xjz8iw0j71a9mef9ur
     verified: false
     hashtags: ""
   - username: "derek_gerard"
     fullname: >-
       Derek Gerard
+    bio: >-
+      Do Good. Die Great. ---------- 📍Vancouver 📩Business: DerekGerard@EllifyAgency.com
     location: "Canada"
-    followers: 331878
-    engagement: 1003
-    commentsToLikes: 0.035056
+    followers: 323655
+    engagement: 938
+    commentsToLikes: 0.027176
     id: ck138pfl4hcs20i19x9fpq39n
     verified: false
-    hashtags: "#sweaty, #ad"
-  - username: "izzydilg"
+    hashtags: "#ad"
+  - username: "raianemacedo"
     fullname: >-
-      Izzy Lou
+      Raiane 🇧🇷
+    bio: >-
+      Brasileira no Canadá 🇨🇦 📍Vancouver @faragothelabel 👙 @thebbworkshop co-creator 🍑 @thedripfitness movement 💦
     location: "Canada"
-    followers: 33132
-    engagement: 916
-    commentsToLikes: 0.056564
-    id: ck5hmhn5flyv40i11lvliadma
+    followers: 50263
+    engagement: 560
+    commentsToLikes: 0.051041
+    id: ck15uiqx2ndhu0i19zp7oeqvz
     verified: false
-    hashtags: "#frankiesathome, #frankiesxvs, #coutustaycute, #coutucrew"
+    hashtags: "#plt, #pltbabe"
 ---

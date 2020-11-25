@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top photographers Instagram influencers in Bogotá in 2020. Most popular hashtags: #photographer #bogota #travel #picoftheday.
+  Find top photographers Instagram influencers in Bogotá in 2020. Most popular hashtags: #photography #photographer #bogota #colombia.
 platform: Instagram
+hits: 40
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 40 Instagram influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
-  - username: "mattarteaga"
+  - username: "luisdaphotograph"
     fullname: >-
-      Matt Arteaga
+      𝕃𝕌𝕀𝕊𝔻𝔸 ℙℍ
+    bio: >-
+      @__davidsc / Street photo/ Landscapes/ Contacto- DM
     location: "Colombia"
-    followers: 10576
-    engagement: 1079
-    commentsToLikes: 0.067693
-    id: ck0vy4jjy27lt0i19k7skadnm
+    followers: 14762
+    engagement: 376
+    commentsToLikes: 0.023343
+    id: ck5pwhn1jmuie0i113czua14g
     verified: false
-    hashtags: "#topnine2019, #jordhammondffa, #stayinsideffa, #dronefromhomeffa"
-  - username: "enrique_penha"
+    hashtags: "#citylights, #bogotart, #enam, #photography"
+  - username: "ferriveraruiz"
     fullname: >-
-      enrique peña estudio
+      Fernando Rivera
+    bio: >-
+      Fer Rivera 😎 Fotógrafo 📸 Director de videos musicales🎥🎬 Fashion Photographer Director music videos🎹🎼🎤 #NYC #MIA #BOG fernandorivera2020@gmail.com
     location: "Colombia"
-    followers: 3961
-    engagement: 1036
-    commentsToLikes: 0.126550
-    id: ck5zkdylfjaz10i141ir9dcwg
+    followers: 45233
+    engagement: 93
+    commentsToLikes: 0.100243
+    id: ck14k0520n1tm0i19mw92y2yp
     verified: false
-    hashtags: "#capture, #glossy, #abuhayeh, #godox"
-  - username: "elianadiosa"
+    hashtags: "#tiktok, #fotografo, #model, #makeup"
+  - username: "alejandro.garcia.figueroa"
     fullname: >-
-      Ɛℓιαηα Ɗισѕα✌🌻💞
+      ©Alejandro García✍
+    bio: >-
+      #CreativoGráfico - #Publicista Embajador de @movimientoclic 2018 💥 Embajador de @congresoadictos 2018 💊 . ✍️ #MattePainting 🐶 #Animalista
     location: "Colombia"
-    followers: 19572
-    engagement: 428
-    commentsToLikes: 0.031236
-    id: ck55lt4112d2p0i117lndpnlq
+    followers: 25161
+    engagement: 826
+    commentsToLikes: 0.045110
+    id: ckf5ttwqrirdz0j23ffk4z0se
     verified: false
-    hashtags: "#milktistle, #work, #friend, #workout"
+    hashtags: "#ps, #fotograf, #theimaged, #picoftheday"
+  - username: "tripshooting"
+    fullname: >-
+      Laura Olejua Viajes y fotos
+    bio: >-
+      📷 Artista viajera. Entonces, ¿Nos vamos de viaje? 💡 Creadora de: @villadeleyvafestiva 👇
+    location: "Colombia"
+    followers: 8696
+    engagement: 394
+    commentsToLikes: 0.084850
+    id: ck139x03unjig0i196vh9t03z
+    verified: false
+    hashtags: "#cityview, #ourcolombia, #travelbucketlist, #igersbogota"
+  - username: "julianatomann"
+    fullname: >-
+      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
+    bio: >-
+      ¡𝗔𝘆𝘂𝗱𝗼 𝗮 𝗹𝗮𝘀 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘀 𝗮 𝗴𝗲𝗻𝗲𝗿𝗮𝗿 𝘃𝗮𝗿𝗶𝗮𝘀 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗱𝗲 𝗶𝗻𝗴𝗿𝗲𝘀𝗼! 👨‍👩‍👦‍👦|ƒαмιℓια 🌡|Eɴғᴇʀᴍᴇʀᴀ 🇨🇴|𝘽𝙊𝙂-𝘾𝙊𝙇 🙏🏻|𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜 #bogota #love #mujer #fuerza
+    location: "Colombia"
+    followers: 16266
+    engagement: 680
+    commentsToLikes: 0.111989
+    id: ck14ltbuxwdna0i19naqt0jed
+    verified: false
+    hashtags: "#beauty, #follow, #entrepreneur, #love"
+  - username: "juanjozapata18"
+    fullname: >-
+      ⚡️J U A N J O   Z A P A T A ⚡️
+    bio: >-
+      ▫️•Lo más valioso es tu Sonrisa 😃 ▪️•Publicidad : 3044902057 📲📥 🔸•El mundo está en guerra, pero el arma es la sonrisa 💎
+    location: "Colombia"
+    followers: 40255
+    engagement: 101
+    commentsToLikes: 0.103668
+    id: ck5zknivwjszw0i14xlrx6q10
+    verified: false
+    hashtags: "#foto, #fotograf, #medellincolombia, #humornegro"
+  - username: "yeniferdalmasi"
+    fullname: >-
+      Y E N I F E R  D A L M A S I
+    bio: >-
+      Dios Mi guía ❤ 🇩🇴 S.23 Model / I love Medicine👩‍⚕️👠👜 Ceo: @ladyd_fashionstore @lady_dfashionagency @worldtopmodelrd
+    location: "Colombia"
+    followers: 10738
+    engagement: 639
+    commentsToLikes: 0.494650
+    id: ck6u99m00w9wb0j71rdddv8zl
+    verified: false
+    hashtags: "#pic, #picture, #colombia, #monta"
+  - username: "nay_andrei"
+    fullname: >-
+      Nayan Andrei Castillo Celis 🇨🇴
+    bio: >-
+      !Bienvenidos a mi perfil! 💚🐥 Fotógrafo de la vida 📸💯 Caminante sin rumbo 🌏🚶 Mesuno 🇭🇺 •●•●•● @nayan_castilloc @caminando_bogota @traveloving_lamesa
+    location: "Colombia"
+    followers: 5656
+    engagement: 575
+    commentsToLikes: 0.035490
+    id: ck9wolac85m240j782m64pqf4
+    verified: false
+    hashtags: "#cartagenamagicalculture, #bogot, #colombiaessabrosura, #welovecolombia"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
+    bio: >-
+      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
     location: "Colombia"
-    followers: 37964
-    engagement: 847
-    commentsToLikes: 0.111113
+    followers: 46541
+    engagement: 761
+    commentsToLikes: 0.037433
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
-  - username: "jnietom6"
+    hashtags: "#fotografia, #foto, #reels, #zombie"
+  - username: "enrique_penha"
     fullname: >-
-      Juliana Nieto Montés
+      Enrique Peña
+    bio: >-
+      Bogotá 📍
     location: "Colombia"
-    followers: 7416
-    engagement: 1868
-    commentsToLikes: 0.023716
-    id: ck6u8ai7cqer00j71igua72fy
+    followers: 6206
+    engagement: 656
+    commentsToLikes: 0.045941
+    id: ck5zkdylfjaz10i141ir9dcwg
     verified: false
-    hashtags: "#fotografia, #blancoynegrofotografia, #cuarentena"
-  - username: "lauramooora"
-    fullname: >-
-      Laura Mora
-    location: "Colombia"
-    followers: 5246
-    engagement: 600
-    commentsToLikes: 0.023525
-    id: ck9wfz23yr5hs0j78jcmcri6g
-    verified: false
-    hashtags: "#polaroidphoto, #fotosencasa, #post, #girlswholift"
-  - username: "edwardvargas_17"
-    fullname: >-
-      E D W A R D  V A R G A S +++
-    location: "Colombia"
-    followers: 65943
-    engagement: 203
-    commentsToLikes: 0.016704
-    id: ck5c227gfwee10i11j8xda461
-    verified: false
-    hashtags: "#picoftheday, #cute, #holiday, #kingboxpremium"
-  - username: "sebastiandido"
-    fullname: >-
-      Sebastian Di Domenico
-    location: "Colombia"
-    followers: 10392
-    engagement: 1164
-    commentsToLikes: 0.014598
-    id: ck55p6rkf9xhr0i11xppogh26
-    verified: false
-    hashtags: "#eagle, #bear, #salamander, #mindo"
-  - username: "21pics__"
-    fullname: >-
-      Alejo lezcano
-    location: "Colombia"
-    followers: 6535
-    engagement: 772
-    commentsToLikes: 0.066663
-    id: ck9wd0h92di2m0j78aqszh02r
-    verified: false
-    hashtags: "#fotos, #ocfffaediting, #creador, #bogotaastyle"
-  - username: "fabioarboleda"
-    fullname: >-
-      FABIO ARBOLEDA L⚡️
-    location: "Colombia"
-    followers: 34008
-    engagement: 410
-    commentsToLikes: 0.046611
-    id: ck6tuwi1jithm0j71puf9ijn1
-    verified: false
-    hashtags: "#vs, #nike, #jiujitsulife, #dsr2019"
+    hashtags: "#portrait, #magazine, #editorial, #photoshoot"
 ---

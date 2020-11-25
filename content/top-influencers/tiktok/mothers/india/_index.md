@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In India In 2020
 description: >-
-  Find top mothers TikTok influencers in India in 2020. Most popular hashtags: #duet #comedy #after #happymothersday.
+  Find top mothers TikTok influencers in India in 2020. Most popular hashtags: #foryou #foryoupage #tiktok #tiktokindia.
 platform: TikTok
+hits: 819
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 819 TikTok influencers like this in India for you to pitch.
 profiles:
-  - username: "pavan_hearthacker"
+  - username: "neetu_joshipant"
     fullname: >-
-      @pavan_heart_hacker☺
+      Neetu Joshi Pant
+    bio: >-
+      Beautiful Wife Responsible Mother Teacher Tiktok just for Fun Follow and Smile😊
     location: "India"
-    followers: 3861
-    engagement: 1579
-    commentsToLikes: 0.070385
-    id: ckae7qerliai00i78ct7tipfv
+    followers: 4864
+    engagement: 2546
+    commentsToLikes: 0.071509
+    id: ckbb6ojtrwqpz0j23ryv14weh
     verified: false
-    hashtags: "#what, #with, #expressionqueen, #cutie"
-  - username: "geetachauhann"
+    hashtags: "#foryou, #tiktok, #duet, #neetu"
+  - username: "nagamanupapa"
     fullname: >-
-      Geetachauhan
+      Sumathi Rajinikant
+    bio: >-
+      😎BEING HUMAN😎 😎STR Rasigai😎 😎"♥️Necessity is the Mother of Invention ♥️"😎
     location: "India"
-    followers: 255293
-    engagement: 1203
-    commentsToLikes: 0.034817
-    id: ck8nl9te9izhk0j782tez6w7n
+    followers: 36200
+    engagement: 1090
+    commentsToLikes: 0.064049
+    id: cka8hocsjbssz0i78fd4xpq2p
     verified: false
-    hashtags: "#duet, #lipcolourchallenge, #labourday"
+    hashtags: "#duet, #photomagic"
   - username: "eliayaraja"
     fullname: >-
       Eliaya Raja
+    bio: >-
+       13.3.89🎂🎂 my Anjael is my mother &wife 
     location: "India"
-    followers: 97163
-    engagement: 1598
-    commentsToLikes: 0.025369
+    followers: 101300
+    engagement: 1389
+    commentsToLikes: 0.023905
     id: ck9m0ovs3atb60j78rrqi28ow
     verified: false
-    hashtags: "#uthaya, #akash, #memoriesbringback, #10"
-  - username: "naresh7446"
+    hashtags: "#eliayaraja, #100k"
+  - username: "amoghkalki143"
     fullname: >-
-      naresh7446p
+      AMOGHTRIVENI
+    bio: >-
+      MOTHER'S👩‍👦LOVE 💕 ನಾನು ತುಂಬಾ ಕೆಟ್ಟವನು ಬಣ್ಣ ಬಣ್ಣದ ಮಾತು ಹೇಳುವಷ್ಟು ಒಳ್ಳೇಯವನಲ್ಲ
     location: "India"
-    followers: 142662
-    engagement: 724
-    commentsToLikes: 0.052446
-    id: cka7svaubkw5h0i78s90z7v01
+    followers: 125200
+    engagement: 1315
+    commentsToLikes: 0.024366
+    id: cka8ip88jgfqb0i785pwfqsp2
     verified: false
-    hashtags: "#royalzzsanthosh, #friendshipisbestrealation, #be, #winerates"
-  - username: "samiksha_rudrapatel"
+    hashtags: "#musicstarkannada, #amoghalone, #amoghkalki143, #amoghkalki"
+  - username: "mishra_sweety6299"
     fullname: >-
-      Maa♥️Beta..✔️
+      Sweety mishra
+    bio: >-
+      My mother is my lifeline...❤️❤️
     location: "India"
-    followers: 156867
-    engagement: 1323
-    commentsToLikes: 0.018338
-    id: ckamyb4czgnog0i78tnzprf8h
+    followers: 20100
+    engagement: 5637
+    commentsToLikes: 0.024580
+    id: ckbr83kabn4mr0j23ymylq1ca
     verified: false
-    hashtags: "#happygirl, #sombar, #ramayan, #merijan"
+    hashtags: "#tiktokmv, #tiktokindia, #mishra, #tiktok"
   - username: "poojashaggy"
     fullname: >-
       Shagun nagrani 
+    bio: >-
+      Motherhood self love & more❤️ Baby food recipe & fun 👅💃 Instagram- Poojakhemi
     location: "India"
-    followers: 411611
-    engagement: 394
-    commentsToLikes: 0.037346
+    followers: 451700
+    engagement: 329
+    commentsToLikes: 0.041050
     id: ck81rzqi0oy4d0j78v4v70eom
     verified: true
-    hashtags: "#babylove, #babyrecipes, #merimaa, #couplegoals"
+    hashtags: "#baby, #foodrecipe, #funny, #babydiet"
   - username: "farhashaik786"
     fullname: >-
       Farha Naz✔️
+    bio: >-
+      Single mother can do lot without......,.,,,,,,,,,...:
     location: "India"
-    followers: 27932
-    engagement: 1768
-    commentsToLikes: 0.012775
+    followers: 27400
+    engagement: 1354
+    commentsToLikes: 0.020975
     id: cka9lt6k031e10i78ynaeva8j
     verified: false
-    hashtags: "#helpeachother, #handwashchallenge"
-  - username: "ughade.karan9767"
+    hashtags: "#trend, #foryoupage, #owaise, #miyabhai"
+  - username: "yashmitha_milkystar"
     fullname: >-
-      🤡 Joker 🤡
+      milkyStar
+    bio: >-
+      Milky👩🏻 mother 1st cry Jan 12th Milky 👧1st Cry May13 Milky father👨🏻 1st cry
     location: "India"
-    followers: 471803
-    engagement: 640
-    commentsToLikes: 0.009657
-    id: ck8s6k43qkwyq0j785r8g1tmb
+    followers: 2174
+    engagement: 1030
+    commentsToLikes: 0.025474
+    id: ckbkixsgxbjtj0j230z7xt78r
     verified: false
-    hashtags: "#actingwars, #entry, #heart, #jhonnydepp"
-  - username: "ruksanaamynpatel"
+    hashtags: "#tiktok, #sharethecare, #tiktokindia, #swagstepchallenge"
+  - username: "ritikaprasad21"
     fullname: >-
-      Ruksana Amyn Patel
+      Miss.Ritik@_21
+    bio: >-
+      💖ur WINKYGIRL21 ❤️ur mother 😎live w/passion 👉use#winkygirl21 💖for tiktokers
     location: "India"
-    followers: 119249
-    engagement: 632
-    commentsToLikes: 0.005204
-    id: ck7zo1fv1gwgd0j78r2anzx2i
+    followers: 223600
+    engagement: 825
+    commentsToLikes: 0.021514
+    id: ckce5kdr4k3tc0j2373dvphzc
     verified: false
-    hashtags: "#tiktokinida, #anayah, #love, #mybabies"
-  - username: "dancer_dinesh"
+    hashtags: "#winkygirl21, #champibeats, #handwashchallenge, #stayathome"
+  - username: "syednaved3255"
     fullname: >-
-      -A True Lover-😕
+      Syednaved3255
+    bio: >-
+      east ho ya west my father's mother is best Allah mere maa🤱 bapp ko slamat rakhe
     location: "India"
-    followers: 118065
-    engagement: 1265
-    commentsToLikes: 0.005472
-    id: cka0n1eu6xnex0i7857vm6l7y
+    followers: 2242
+    engagement: 3696
+    commentsToLikes: 0.015493
+    id: ckavimfn9qy3z0j2372zhiabd
     verified: false
-    hashtags: "#tripleh, #truewords, #india, #ramcharanfans"
+    hashtags: "#vairal, #syedsalman3255, #meri, #respect"
 ---

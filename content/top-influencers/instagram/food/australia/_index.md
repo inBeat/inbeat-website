@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Australia In 2020
 description: >-
-  Find top food Instagram influencers in Australia in 2020. Most popular hashtags: #czechrepublic #pancakes #christmas #sydneyharbour.
+  Find top food Instagram influencers in Australia in 2020. Most popular hashtags: #ad #sydneyaustralia #sydney.
 platform: Instagram
+hits: 724
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform has 724 Instagram influencers like this in Australia for you to pitch.
 profiles:
   - username: "kellympreston"
     fullname: >-
       Kelly Preston
+    bio: >-
+      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
     location: "Australia"
-    followers: 139619
-    engagement: 582
-    commentsToLikes: 0.049889
+    followers: 142876
+    engagement: 630
+    commentsToLikes: 0.034565
     id: ck0u1bzaxwhw00i199j4biujl
     verified: false
-    hashtags: "#humour, #makeuplooks, #girlgoals, #fashionideas"
+    hashtags: "#styleinspo, #bodypositive, #makeupgoals, #bodyinspo"
   - username: "always_vacay"
     fullname: >-
       Hanie
+    bio: >-
+      Vacation and food lover. Live to travel. Travel to live. Life is too short to wait. Let’s go on vacay !🗺 🏠: Los Angeles 🇺🇸 🔜 🏡
     location: "Australia"
-    followers: 5397
-    engagement: 1398
-    commentsToLikes: 0.159418
+    followers: 5128
+    engagement: 1483
+    commentsToLikes: 0.144628
     id: ck9hcf488l36u0j78yshwu4bh
     verified: false
-    hashtags: "#praguestagram, #bluemountain, #praguecity, #travelaustralia"
-  - username: "ootdstylistaa"
-    fullname: >-
-      Nisha 🙋🏻‍♀️💁🏻‍♀️🙆🏻‍♀️🤷🏻‍♀️
-    location: "Australia"
-    followers: 19120
-    engagement: 545
-    commentsToLikes: 0.130808
-    id: ckaot5lgvuh960i78yh489cri
-    verified: false
-    hashtags: "#brisbanelife, #purifyandvolume, #perthfashion, #sydneytravelog"
-  - username: "ateaspoonofstyle"
-    fullname: >-
-      Tanaka Tarou
-    location: "Australia"
-    followers: 18098
-    engagement: 379
-    commentsToLikes: 0.162591
-    id: ck15seuspcnp30i19ut0843ge
-    verified: false
-    hashtags: "#visitnsw, #foodphotography, #imonaboat, #leapdaychipday"
-  - username: "xlilysaffronx"
-    fullname: >-
-      ✖️ L I L Y   S A F F R O N ✖️
-    location: "Australia"
-    followers: 38476
-    engagement: 407
-    commentsToLikes: 0.049281
-    id: ck55k9cy6yshb0i11p0pipgap
-    verified: false
-    hashtags: "#somethingnew, #somethingnewchallenge, #nudes, #dontrushchallenge"
-  - username: "therealsimonemarie"
-    fullname: >-
-      𝒮𝒾𝓂𝑜𝓃𝑒 𝑀𝒶𝓇𝒾𝑒 ♡You Do You✨Perth
-    location: "Australia"
-    followers: 42299
-    engagement: 221
-    commentsToLikes: 0.243178
-    id: ck0u2jonl00iw0i19ia56t699
-    verified: false
-    hashtags: "#bargainbuy, #wannaplayagame, #smiletoday, #notmyreality"
-  - username: "marianneknerr"
-    fullname: >-
-      🌸Marianne Knerr 🇬🇷🇦🇺
-    location: "Australia"
-    followers: 197556
-    engagement: 162
-    commentsToLikes: 0.038053
-    id: ck55q9t1ecm1d0i114ehf81jw
-    verified: false
-    hashtags: "#benderboo, #mykonos, #bestie, #17weeks"
+    hashtags: "#dametraveler, #travelaroundtheworld, #belgique, #belgium"
   - username: "jesshosking"
     fullname: >-
       Jess Hosking
+    bio: >-
+      ➖CFC #11 🏉 ➖📧alex@morethanmgmt.com.au ➖PUMA ➖🍛Food Adventures 🍔 @hungryhoskos ➖@interplastanz & @cleftpalsvictoria
     location: "Australia"
-    followers: 15670
-    engagement: 803
-    commentsToLikes: 0.036851
+    followers: 16174
+    engagement: 669
+    commentsToLikes: 0.069809
     id: ck6tqzbcjvrah0j715rgwuqng
     verified: true
-    hashtags: "#chocolatemousse, #iso, #carltonfc, #aflw"
-  - username: "stephily"
+    hashtags: "#twins, #dinnerlyau, #cleftpalsvictoria, #f45"
+  - username: "ashpollard__"
     fullname: >-
-      𝖘𝖙𝖊𝖕𝖍𝖆𝖓𝖎𝖊 𝖗𝖔𝖘𝖊 🕊
+      A S H  P O L L A R D
+    bio: >-
+      • Radio Host - @hit101.3 • Presenter - @foodieadventurestv • Author - ‘EAT ME’ • Cook • Podcast - 👇🏼‘Chewsday with Ash Pollard’
     location: "Australia"
-    followers: 24015
-    engagement: 285
-    commentsToLikes: 0.067374
-    id: ck5hdwc5mppct0i11c8jmhn6c
-    verified: false
-    hashtags: "#luxegal, #fibreonecollab, #bodababe, #kgactive"
-  - username: "weitingashley"
+    followers: 82151
+    engagement: 715
+    commentsToLikes: 0.027847
+    id: ck0w0lvavev3f0i194jhc397s
+    verified: true
+    hashtags: "#obsessed, #theallnewmonty, #babybunting, #mindblowing"
+  - username: "ootdstylistaa"
     fullname: >-
-      Weiting | 徐為婷
+      NISHA | Sydney Blogger
+    bio: >-
+      🎀 Sydney based Influencer 🎦Lifestyle| Fashion | Beauty | Food & Travel 📸Sony alpha a7ii 📍Sydney, Australia 📮PR/collabs-DM/Email ⤵️Shop my collection
     location: "Australia"
-    followers: 24055
-    engagement: 544
-    commentsToLikes: 0.033741
-    id: ck15u5t4zljt60i19j8iy7cpp
+    followers: 20109
+    engagement: 886
+    commentsToLikes: 0.071886
+    id: ckaot5lgvuh960i78yh489cri
     verified: false
-    hashtags: "#italytrip, #lakecomo, #unitedkingsom, #birthdaymonth"
+    hashtags: "#canberrablogger, #erheer, #sydneyinfluencer, #melbournefashion"
+  - username: "millyturleyfit"
+    fullname: >-
+      Milly
+    bio: >-
+      20 | Perth Australia 🍩Just a girl who loves fitness & food ⭐️ ‘ milly ‘ @pescience ⇩𝘛𝘙𝘈𝘐𝘕𝘐𝘕𝘎 𝘗𝘙𝘖𝘎𝘙𝘈𝘔𝘚 & 𝘔𝘌𝘈𝘓 𝘗𝘓𝘈𝘕𝘚 ⇩@millytfit
+    location: "Australia"
+    followers: 15353
+    engagement: 648
+    commentsToLikes: 0.102436
+    id: ck6tqqopitaz50j71rgsk3m5d
+    verified: false
+    hashtags: "#motivation, #healthy, #follow, #life"
+  - username: "jenbubbly"
+    fullname: >-
+      Jen ✨ Fashion & Beauty
+    bio: >-
+      📸 Food photographer and stylist 🧡@foodpotatoes 📧 jenbubbly@themrlifestylegroup.com.au
+    location: "Australia"
+    followers: 2606
+    engagement: 1621
+    commentsToLikes: 0.412706
+    id: ck9wd4370dzam0j787zavs93e
+    verified: false
+    hashtags: "#lockdown, #mymds"
+  - username: "ateaspoonofstyle"
+    fullname: >-
+      Tanaka Tarou
+    bio: >-
+      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
+    location: "Australia"
+    followers: 29299
+    engagement: 346
+    commentsToLikes: 0.156531
+    id: ck15seuspcnp30i19ut0843ge
+    verified: false
+    hashtags: "#beautifulcuisines, #menwithcuisines, #sydneyfoodies, #sydneyfoodie"
+  - username: "doitforicecream"
+    fullname: >-
+      𝒢𝓇𝒶𝒸𝒾𝑒
+    bio: >-
+      Content Creator🌺 Traveller 🧜🏻‍♀️ IceCream Monster🍦 Blogger🤣 . 📍Sydney from 🇵🇭 . 💫: Travel, Lifestyle, Fashion, Food . 💌letsgo@doitforicecream.com
+    location: "Australia"
+    followers: 54621
+    engagement: 317
+    commentsToLikes: 0.158112
+    id: ck0vv6mqcnry20i19mounwtg9
+    verified: false
+    hashtags: "#beautifuldestinations, #sydneyaustralia, #thegirlgang, #wanderlust"
+  - username: "babii.sammii"
+    fullname: >-
+      S A M M Y 👸🏼💖✨
+    bio: >-
+      🌏📍melbourne / AUS 🦋✨ foodie / lifestyle / fashion & beauty 💌 collabs: sammyluix@gmail.com
+    location: "Australia"
+    followers: 47584
+    engagement: 272
+    commentsToLikes: 0.161835
+    id: ck5zn1irjnlo40i149hntfdaa
+    verified: false
+    hashtags: "#onemillionsheinbucks, #shein1111, #shein, #sheingals"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Canada In 2020
 description: >-
-  Find top gaming TikTok influencers in Canada in 2020. Most popular hashtags: #trickshots #foryoupage #jumpman #fail.
+  Find top gaming TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
+hits: 607
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 607 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "unknownsmugg"
-    fullname: >-
-      Unknown Smug
-    location: "Canada"
-    followers: 21964
-    engagement: 1191
-    commentsToLikes: 0.026858
-    id: ckammcdhqzz8f0i78lcd8i8b1
-    verified: false
-    hashtags: "#gaming"
   - username: "ob1canoebee"
     fullname: >-
       stephanie
+    bio: >-
+      22 | MTL | 🇨🇦 General Steve Kenobi Watch my gaming stream ⬇️
     location: "Canada"
-    followers: 144749
-    engagement: 1795
-    commentsToLikes: 0.024794
+    followers: 141100
+    engagement: 1878
+    commentsToLikes: 0.021906
     id: ckacaxg56h8nw0i78lssdbcn7
     verified: false
-    hashtags: "#itsgonnabeok, #santa, #nowgetreadyfor, #superbowl"
-  - username: "nicobbq_tiktok"
+    hashtags: "#coronavirus, #quarantine, #mirror, #montreal"
+  - username: "edgemonk"
     fullname: >-
-      nicobbq
+      Edwin Joseph
+    bio: >-
+      Just Me The Real Me Sports-Gaming Mixer: Edjemonk
     location: "Canada"
-    followers: 50364
-    engagement: 1956
-    commentsToLikes: 0.012568
-    id: ck8oswvhcit2f0j789lnjzj45
+    followers: 2674
+    engagement: 1255
+    commentsToLikes: 0.058997
+    id: ckb9ppa93kz840j2327cxnwxm
     verified: false
-    hashtags: "#pasta, #gamer, #insane, #funny"
-  - username: "garbs4gamers"
-    fullname: >-
-      garbs4gamers
-    location: "Canada"
-    followers: 66542
-    engagement: 1231
-    commentsToLikes: 0.048090
-    id: ck9rpjramhtmq0j78jpics2jz
-    verified: false
-    hashtags: "#foryou, #littlethings, #modernwarfare, #gta5"
-  - username: "z0mbear"
-    fullname: >-
-      z0mbear
-    location: "Canada"
-    followers: 51866
-    engagement: 1661
-    commentsToLikes: 0.015645
-    id: ck9k4ylyxum290j78g7yu7oiq
-    verified: false
-    hashtags: "#hotmom, #protip, #trolls, #gotthisforyou"
+    hashtags: "#greenscreen, #ripgigi, #nba2k, #ripkobe"
   - username: "mtcosplay"
     fullname: >-
       RBTZful
+    bio: >-
+      ROAD TO 5K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
     location: "Canada"
-    followers: 4563
-    engagement: 1382
-    commentsToLikes: 0.018989
+    followers: 5129
+    engagement: 1246
+    commentsToLikes: 0.042701
     id: ck9gm0ph4qgbr0j78xdlm13c1
     verified: false
-    hashtags: "#fakenerd, #simpsquad, #react, #food"
-  - username: "tiltedhighlights"
+    hashtags: "#foryou, #qualitycontent, #funny, #fyp"
+  - username: "sugarpawse"
     fullname: >-
-      TILTED HIGHLIGHTS
+      sugar pawse
+    bio: >-
+      •Cute gaming accessories• Ships from 🇨🇦 FREE Shipping in Canada
     location: "Canada"
-    followers: 6363
-    engagement: 994
-    commentsToLikes: 0.013142
-    id: ck8hjwxbibbic0j782tv85zxn
+    followers: 6467
+    engagement: 1393
+    commentsToLikes: 0.033573
+    id: ckc1t1k29xcc00j23058darwz
     verified: false
-    hashtags: "#skyrim, #mw2, #gamerlife, #oldtownroad"
-  - username: "bruhits4thememes"
+    hashtags: "#ecommerce, #smallbusinesstips, #smallbusinessadvice, #smallbusiness"
+  - username: "nicobbq_tiktok"
     fullname: >-
-      Aiden Glenn
+      nicobbq
+    bio: >-
+      I'm Nico and I'm gonna show you gaming tricks. I also make YouTube vids.
     location: "Canada"
-    followers: 13795
-    engagement: 912
-    commentsToLikes: 0.033036
-    id: ck81q7ok6glr10j78fjsmbegi
+    followers: 57700
+    engagement: 1800
+    commentsToLikes: 0.011595
+    id: ck8oswvhcit2f0j789lnjzj45
     verified: false
-    hashtags: "#fail, #actor, #featureme, #emoteroyalecontest"
-  - username: "omgsant"
+    hashtags: "#nintendo, #foryoupage, #fyp, #crazy"
+  - username: "maguirepcs"
     fullname: >-
-      ॐ・S͜͡ant
+      Maguire
+    bio: >-
+      Pc/gaming related content LINKS
     location: "Canada"
-    followers: 18367
-    engagement: 812
-    commentsToLikes: 0.035302
-    id: ck94mzqin4zzp0j7895u58vvf
+    followers: 86000
+    engagement: 999
+    commentsToLikes: 0.060944
+    id: ckdhosejt13920j23osfqbz09
     verified: false
-    hashtags: "#pubglovers, #pubgfunny, #ludo, #440sant"
-  - username: "litshxt"
+    hashtags: "#fortnite, #gamer, #pc, #gaming"
+  - username: "vootz"
     fullname: >-
-      LitShxt
+      Vootz
+    bio: >-
+      Funny Gaming Videos! Subscribe to Vootz on YouTube👇
     location: "Canada"
-    followers: 3758
-    engagement: 777
-    commentsToLikes: 0.041478
-    id: ck9r3mmmeqlhe0j788c8aiaho
+    followers: 217400
+    engagement: 2050
+    commentsToLikes: 0.007141
+    id: ckc8vt3bgix6o0j23zdxqgr0c
     verified: false
-    hashtags: "#ashtonkutcher, #fail, #nba2kmypark, #2ktv"
+    hashtags: "#foryou, #r6siege, #r6, #fortnite"
+  - username: "coreytonge"
+    fullname: >-
+      coreytonge
+    bio: >-
+      🇨🇦Montréal 📷Insta: @CoreyTonge 💪🏼Comedy + Gaming 🤩70k?🤷🏻‍♂️
+    location: "Canada"
+    followers: 68300
+    engagement: 1127
+    commentsToLikes: 0.033670
+    id: ckbf53t13tvnk0j23spclrfak
+    verified: false
+    hashtags: "#cosplay, #gamer, #mtl, #comedygaming"
+  - username: "nayrui"
+    fullname: >-
+      Nay
+    bio: >-
+      More gaming clips at:
+    location: "Canada"
+    followers: 9438
+    engagement: 843
+    commentsToLikes: 0.023861
+    id: ckbfga3hqbb1f0j23ite40p3p
+    verified: false
+    hashtags: "#filmstudent, #604, #fyp, #shecandoit"
+  - username: "epginformatique"
+    fullname: >-
+      EPG Informatique
+    bio: >-
+      EPG Computers / EPG Informatique Gaming PCs
+    location: "Canada"
+    followers: 18500
+    engagement: 791
+    commentsToLikes: 0.021857
+    id: ck9k4ynr2umu00j787t7mi7qm
+    verified: false
+    hashtags: "#pc, #pcsetup, #fyp, #pourtoi"
 ---

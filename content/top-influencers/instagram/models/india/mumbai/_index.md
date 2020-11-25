@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top models Instagram influencers in Mumbai in 2020. Most popular hashtags: #model #mumbai #editing #fashionblogger.
+  Find top models Instagram influencers in Mumbai in 2020. Most popular hashtags: #model #instagood #mumbai #love.
 platform: Instagram
+hits: 1125
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 1125 Instagram influencers like this in Mumbai, India for you to pitch.
 profiles:
-  - username: "b.harshhala"
+  - username: "harshhala16"
     fullname: >-
       Harshhala Barade👑
+    bio: >-
+      Actor | Model Mumbai Dm for paid collaboration.
     location: "India"
-    followers: 22197
-    engagement: 987
-    commentsToLikes: 0.030995
+    followers: 28363
+    engagement: 629
+    commentsToLikes: 0.042578
     id: ck5zp0v51rrt90i14ysucbiyd
     verified: false
-    hashtags: "#happyfriday, #friday, #opareviews, #portraitmag"
+    hashtags: "#red, #igersofindia, #india, #naturephotography"
   - username: "revati_19"
     fullname: >-
       Revati Venkat💙
+    bio: >-
+      RT❣ Athlete.Coach.Artist.Model Mumbaikar Chennai📍 IAAF Certified Coach South Indian gal👩🏻 🐶❤ Wanderlust🌍
     location: "India"
-    followers: 9673
-    engagement: 1125
-    commentsToLikes: 0.035240
+    followers: 9793
+    engagement: 1130
+    commentsToLikes: 0.034088
     id: ck14jykvgmtge0i19oswm6nak
     verified: false
-    hashtags: "#mallutoday, #terrace, #smile, #waterfalls"
+    hashtags: "#rt, #happysoul, #mumbai, #wanderlust"
   - username: "aartisingh14"
     fullname: >-
       Aarti Singh ✨ أرتي سينغ
+    bio: >-
+      MSc in biotech 📖|Blogger - Model|Mumbaikar 🏡|Single ❤️|Gymaholic 💪 |Traveller ✈️| Spiritual soul💕|paid collab 📩 barbieaartisingh@icloud.com
     location: "India"
     followers: 422101
     engagement: 150
     commentsToLikes: 0.023954
     id: ck0uac1wibual0i19si83slke
     verified: false
-    hashtags: "#vardhmanhealthcare, #catsofinstagram, #postworkoutselfie, #natural"
-  - username: "karthik_muthyala"
+    hashtags: "#traveller, #tiktokers, #staysafe, #instalike"
+  - username: "ashwinishinde807"
     fullname: >-
-      karthik MOmz ✖
+      ashwinishinde
+    bio: >-
+      • Social influencer • Tiktok star • • Tiktok I'd ashwinishinde807 • • hello I'd ashwinishinde807 • • For brand collab 👇
     location: "India"
-    followers: 7938
-    engagement: 909
-    commentsToLikes: 0.152692
-    id: ck8t93kesmubj0j78g3o3ianu
+    followers: 11683
+    engagement: 3476
+    commentsToLikes: 0.023695
+    id: ck8t1bl6sv53m0j788b2di0i6
     verified: false
-    hashtags: "#nature, #kannur, #actress, #india"
-  - username: "hurera_shaikh_0dm"
+    hashtags: "#fashionmodel, #modeling, #fashionstyle, #fashionista"
+  - username: "_._nehhaaa"
     fullname: >-
-      SHAIKH HURERA 📸
+      ﷲ🤲🏻
+    bio: >-
+      یاسمین.  Allhamdulillah 🌹 Taken🌍❤ Mumbai.📍 Stay Disappear, disconnect and glow up❤
     location: "India"
-    followers: 12853
-    engagement: 739
-    commentsToLikes: 0.359482
-    id: ckaou4gmyyr8i0i78jcq0sdq1
+    followers: 46319
+    engagement: 148
+    commentsToLikes: 0.043242
+    id: ck9wg8lkpsb3w0j78kj40werf
     verified: false
-    hashtags: "#igtones, #famburharmy, #blue, #blackfriday2019"
-  - username: "mhmd_lasin"
+    hashtags: "#foryoupage, #neha, #mumbaimaharashtra, #instagram"
+  - username: "insta.____.qu33n1"
     fullname: >-
-      Muhammed Lasin
+      👑🇿​🇴​🇾​🇦 🇰​🇭​🇦​🇳​ 👑🔵
+    bio: >-
+      ▪️Beauty only gets attention, but personality captures the heart. Mumbaiker🔥 1 Aug🎂. Photoshoot lover ♥️
     location: "India"
-    followers: 5235
-    engagement: 3201
-    commentsToLikes: 0.066876
-    id: ck5zq2ivztt9z0i14321fhq9d
+    followers: 36389
+    engagement: 176
+    commentsToLikes: 0.188937
+    id: ck0u2khzd049e0i19hn9hu7p4
     verified: false
-    hashtags: "#maharashtra, #highrange, #paraglidinglove, #desertlife"
-  - username: "salman_aka_superman"
+    hashtags: "#instagram, #az, #instagood, #life"
+  - username: "one.portrait.please"
     fullname: >-
-      ♚Salman Soulkar♚ (Singfinity)©
+      Bhushan Gavas
+    bio: >-
+      ● 𝓟𝓱𝓸𝓽𝓸𝓰𝓻𝓪𝓹𝓱𝓮𝓻 ● §ony Ă⁷iii F̶r̶e̶e̶ 𝘊𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘰𝘯 🇮🇳 🇹🇭
     location: "India"
-    followers: 36513
-    engagement: 101
-    commentsToLikes: 0.051709
-    id: ckap1yh3twm3l0i78ukxmz382
+    followers: 9948
+    engagement: 685
+    commentsToLikes: 0.015820
+    id: ck0vygmq73w720i19lvk2xy0a
     verified: false
-    hashtags: "#moon, #pubgbattlegrounds, #blackandwhite, #patseheadshot"
-  - username: "engineeronvacay"
+    hashtags: "#model, #mumbaiportrait, #oneportraitplease, #zee5originals"
+  - username: "therahulkoliofficial6119"
     fullname: >-
-      Anshul Aggarwal
+      𝙈𝘼𝙆𝙒𝘼𝙉𝘼 🚩🚩𝗷𝗮𝘆 𝗺𝗮𝗻𝗱𝗵𝗮𝘁𝗮🚩🚩
+    bio: >-
+      . #therahulkoliofficial . ♠ Official account ♠  . 📷 photographer 📷 . 👉 Posemaker👅  . 🖤Present◆ Model ◆ .  👍LoGin In The World 7 feb🎂 .
     location: "India"
-    followers: 21874
-    engagement: 511
-    commentsToLikes: 0.069534
-    id: ckaouftiw033h0i78z1hqwdjb
+    followers: 44349
+    engagement: 519
+    commentsToLikes: 0.211476
+    id: ck9whc9dbx9b30j784x0i33a3
     verified: false
-    hashtags: "#budgettripplan, #influencer, #attitude, #fambruharmy"
-  - username: "fuckandfly_____"
+    hashtags: "#krushnaredde, #likeforlikes, #kingofeditingofficial, #jaipur"
+  - username: "rj_saurabh_ghodeswar"
     fullname: >-
-      🖤My name is V  I'm Good boi ?😈
+      ✨🇷‌🇯‌-🇸‌🇴‌🇳‌🇺‌✨
+    bio: >-
+      | LIFESTYLE | FASHION | BLOGGER JALGAONKAR 📍 FOR EDITING🖌️ DM /📲 8888481826 📞 भिमा तुझ्या जन्मामुळे 💎 @rj_sonu_creations
     location: "India"
-    followers: 3241
-    engagement: 1630
-    commentsToLikes: 0.742274
-    id: ck9wh8z56wt9m0j78qef63gld
+    followers: 4476
+    engagement: 2143
+    commentsToLikes: 0.207740
+    id: ckap7jspfkdfp0i7874xo68j7
     verified: false
-    hashtags: "#sunshine, #baseerbob, #alonequotes, #photo"
-  - username: "rahul_king_photography_editing"
+    hashtags: "#coolestbadboi, #starboynation, #kerala, #instafamous"
+  - username: "rashikhairwar"
     fullname: >-
-      ʀᴀʜᴜʟ ᴋɪɴɢ👑 ᴠᴀsᴜɴɪʏᴀ"
+      Rashi Khairwar
+    bio: >-
+      Queen of Expressions Actor | Model | Influencer Dm for paid collab
     location: "India"
-    followers: 39133
-    engagement: 286
-    commentsToLikes: 0.053576
-    id: ck0u1t07yxt7v0i193684gx0b
+    followers: 246779
+    engagement: 595
+    commentsToLikes: 0.024631
+    id: ck8wd15vsd9va0j780d6ql2iz
     verified: false
-    hashtags: "#fambruharmy, #dvedits, #danish, #sheinmen"
+    hashtags: "#photooftheday, #me, #instadaily, #selfie"
 ---

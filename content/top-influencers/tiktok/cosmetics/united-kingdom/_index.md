@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top cosmetics TikTok influencers in United Kingdom in 2020. Most popular hashtags: #cosmetics #makeupart #challenge #fashion.
+  Find top cosmetics TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
 platform: TikTok
+hits: 27
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform has 27 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "pinksaladldn"
+  - username: "chloe.c_xo"
     fullname: >-
-      Vegan Lipgloss 🌸
+      Chloe🌸
+    bio: >-
+      💌 aesthetic.cosmetics@yahoo.com💌
     location: "United Kingdom"
-    followers: 955280
-    engagement: 2077
-    commentsToLikes: 0.017840
-    id: ck9k4dimzs1dl0j78x1rpf3c2
+    followers: 22300
+    engagement: 1852
+    commentsToLikes: 0.036459
+    id: ckb8z57lne8j30j23mfj9swju
     verified: false
-    hashtags: "#lipgloss, #guess, #oil, #barbiegirl"
-  - username: "bperfectcosmetics"
-    fullname: >-
-      BPerfect Cosmetics
-    location: "United Kingdom"
-    followers: 9497
-    engagement: 1443
-    commentsToLikes: 0.101138
-    id: ck8nh6dlozdvh0j780g0kwjkj
-    verified: false
-    hashtags: "#tanning, #housepftiktok, #cheekylipkit, #getreadywithbp"
+    hashtags: "#sun, #li, #fail, #loveisland"
   - username: "lushhull"
     fullname: >-
       Lush Hull
+    bio: >-
+      Fresh Handmade Cosmetics Order and collect now available!
     location: "United Kingdom"
-    followers: 4642
-    engagement: 1144
-    commentsToLikes: 0.027086
+    followers: 6648
+    engagement: 1406
+    commentsToLikes: 0.026030
     id: ck8ae1a728xa80j78l5wgi5w2
     verified: false
-    hashtags: "#thinkpink, #lushuk, #tiktoktraditions, #lushmakeup"
-  - username: "indigo.rosee"
+    hashtags: "#lush, #lushcosmetics, #lushhull, #lushbathbomb"
+  - username: "bperfectcosmetics"
     fullname: >-
-      Indigo Rosee 💜
+      BPerfect Cosmetics
+    bio: >-
+      The OFFICIAL page of BPerfect Cosmetics ✌🏼 https://www.bperfectcosmetics.com
     location: "United Kingdom"
-    followers: 2628
-    engagement: 1619
-    commentsToLikes: 0.081017
-    id: cka6c07a42cf90i7861tzra9c
+    followers: 35100
+    engagement: 1431
+    commentsToLikes: 0.028507
+    id: ck8nh6dlozdvh0j780g0kwjkj
     verified: false
-    hashtags: "#indiebrands, #onlinebusiness, #sunflower, #office"
-  - username: "emicosuk"
+    hashtags: "#christmas, #bperfectxjacjossa, #carnivallovetahiti, #10secondtan"
+  - username: "kevindp88"
     fullname: >-
-      𝕰𝖒𝖎
+      Kevin Daniel Parkhouse
+    bio: >-
+      🄾🅅🄴🅁 🔞 🄾🄽🄻🅈 #🅃🄷🄸🅁🅂🅃🅈🄰🅂🄵💦 🅂.🅆🄰🄻🄴🅂 🏴󠁧󠁢󠁷󠁬󠁳󠁿🏳️‍🌈
     location: "United Kingdom"
-    followers: 73824
-    engagement: 2209
-    commentsToLikes: 0.027877
-    id: ck80nrdnbe5os0j78l5ymjkq5
+    followers: 5972
+    engagement: 1631
+    commentsToLikes: 0.313396
+    id: cka6j1le0sy7p0i78viegenb3
     verified: false
-    hashtags: "#peach, #stickershop, #foryoupage, #onmyown"
-  - username: "chloeandcos"
+    hashtags: "#thirstyasf, #duet, #dance, #lgbtq"
+  - username: "ayishamakeup"
     fullname: >-
-      chloeandcosmetics
+      Ayisha Amrani
+    bio: >-
+      MUA | 🇩🇿🇬🇧 Follow 👇🏽🥺 Instagram - @ayishamakeup YouTube - @ayishamakeup
     location: "United Kingdom"
-    followers: 31298
-    engagement: 1371
-    commentsToLikes: 0.028033
-    id: ckacwle55t2w50i78x2m8sizk
+    followers: 50600
+    engagement: 1547
+    commentsToLikes: 0.059755
+    id: ckd5wp8nazx9c0j23l3qfw6rd
     verified: false
-    hashtags: "#makeupvideo, #giveaway, #falseeyelashes, #eyes"
-  - username: "syla_x"
+    hashtags: "#smallbusiness, #fyp, #algeria, #foryoupage"
+  - username: "nikocados"
     fullname: >-
-      Sylwia Sus
+      Joe Biden
+    bio: >-
+      CEO of Nikocado Avocado 🥑 FOLLOW OUR INSTAGRAM 🤍 Currently shadow banned 🥰
     location: "United Kingdom"
-    followers: 4146
-    engagement: 501
-    commentsToLikes: 0.044361
-    id: ckacf1znzp7n50i78tednp0rh
+    followers: 4675
+    engagement: 1306
+    commentsToLikes: 0.167273
+    id: ckcjf7vzkavr20j23ytx7vzt0
     verified: false
-    hashtags: "#baby, #nature, #teeth, #fresh"
-  - username: "miahcarter_"
+    hashtags: "#fyp, #foryoupage, #beauty, #biden"
+  - username: "baldmuthatrucka"
     fullname: >-
-      Lemiah Carter 
+      Ryan
+    bio: >-
+      🔞 Adult Humour 🔞 A parody of myself Can Beer and Takeaway food = Love ❤️
     location: "United Kingdom"
-    followers: 61283
-    engagement: 1589
-    commentsToLikes: 0.032337
-    id: ck963gntius4y0j78btqyyfci
+    followers: 11000
+    engagement: 1318
+    commentsToLikes: 0.189571
+    id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#lashbusiness, #weightlosscheck, #ukcomedy, #birthday"
-  - username: "chanelkyei6"
+    hashtags: "#friends, #tiktok, #bathroom, #joke"
+  - username: "nanshyofficial"
     fullname: >-
-      CHANEL🦋
+      NanshyOfficial
+    bio: >-
+      Beauty Brand. Softest Brushes, Sponges and more. Cruelty-Free🐇 and Vegan🐻!
     location: "United Kingdom"
-    followers: 37442
-    engagement: 1256
-    commentsToLikes: 0.021585
-    id: ck9euz1xsftoa0j78k1vpv4cd
+    followers: 9246
+    engagement: 533
+    commentsToLikes: 0.024905
+    id: ckb9kp6g5cory0j231b7s00u0
     verified: false
-    hashtags: "#viral, #thingstodo, #resinpour, #tutorialhair"
-  - username: "carenzaxo"
+    hashtags: "#makeuplover, #makeuptime, #makeuplooks, #makeupideas"
+  - username: "itsdanilevi"
     fullname: >-
-      C
+      Dani Levi
+    bio: >-
+      📍London Makeup Artist 💄💋 @itsdanilevi
     location: "United Kingdom"
-    followers: 4311
-    engagement: 339
-    commentsToLikes: 0.030456
-    id: ckamyiixnho710i78hhtran97
+    followers: 7716
+    engagement: 761
+    commentsToLikes: 0.015566
+    id: ckb9kp6uscovt0j23wmagbm9w
     verified: false
-    hashtags: "#putyourbackinit, #cosmeticsurgery, #openupthesafe, #wheresmytwin"
+    hashtags: "#makeupartist, #audacitycosmetics, #smallbusinesscheck, #smallbusinessowner"
+  - username: "aleenatareem"
+    fullname: >-
+      Aleena Tareem
+    bio: >-
+      Hehe 🔫 x insta @aleena.tareem & @silktussah
+    location: "United Kingdom"
+    followers: 9105
+    engagement: 807
+    commentsToLikes: 0.011442
+    id: ck94k51wetwlr0j78azv2des8
+    verified: false
+    hashtags: "#fashion, #foryou, #fy, #makeuptutorial"
 ---

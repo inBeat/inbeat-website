@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening TikTok Influencers In Canada In 2020
 description: >-
-  Find top gardening TikTok influencers in Canada in 2020. Most popular hashtags: #gardening #school #learnontiktok #covid19.
+  Find top gardening TikTok influencers in Canada in 2020. Most popular hashtags: #foryou #fyp #foryoupage #gardening101.
 platform: TikTok
+hits: 92
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 92 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "averagesizedpp"
     fullname: >-
       Averagesizedpp
+    bio: >-
+      Your moms a gardening tool 👻 - matthewsyrovy
     location: "Canada"
-    followers: 66378
-    engagement: 1034
-    commentsToLikes: 0.013115
+    followers: 65500
+    engagement: 1016
+    commentsToLikes: 0.013724
     id: ck807c75iprlx0j78gzdswj3r
     verified: false
-    hashtags: "#nhlallstar, #seeya, #walkitback, #eyesonme"
+    hashtags: "#duet, #foryou, #fyp, #viral"
+  - username: "theplantladyk"
+    fullname: >-
+      Kelly O'Mara
+    bio: >-
+      Indoor/Outdoor plants. Rad since 1981. Toronto. BLACK LIVES MATTER ✊✊🏻✊🏽✊🏿
+    location: "Canada"
+    followers: 2239
+    engagement: 631
+    commentsToLikes: 0.094540
+    id: ckd0qjeygi73w0j231u2nzj4h
+    verified: false
+    hashtags: "#plants, #fall, #flowers, #summer"
+  - username: "maytalfay"
+    fullname: >-
+      Maytal Fay
+    bio: >-
+      Hey 😇 insta: maytalfsegal
+    location: "Canada"
+    followers: 6756
+    engagement: 128
+    commentsToLikes: 0.061752
+    id: ckbfe59ns7wqy0j23463345oq
+    verified: false
+    hashtags: "#foryoupage, #fyp, #petroutine, #esportsforall"
   - username: "jessiejj90"
     fullname: >-
       Jessie Jacobson
+    bio: >-
+      Teaching you how to 🌱 🇨🇦
     location: "Canada"
     followers: 61483
     engagement: 823
     commentsToLikes: 0.017627
     id: ck9r92rxkeu2t0j78fw8fewrw
     verified: false
-    hashtags: "#jerky, #haircut, #crackmyfinger, #instacart"
-  - username: "gardenfood"
+    hashtags: "#howtowithjessie, #viralvideo, #quarantine, #simplesteps"
+  - username: "rosiejuko"
     fullname: >-
-      Free as the Wind
+      Rosie Juko
+    bio: >-
+      Call me Rosie 🌹😘 🇨🇦
     location: "Canada"
-    followers: 3177
-    engagement: 179
-    commentsToLikes: 0.013903
-    id: ckafttkhu714m0i783b2fs7d7
+    followers: 4866
+    engagement: 916
+    commentsToLikes: 0.018425
+    id: ckdhormeq11zp0j23roqpyhrm
     verified: false
-    hashtags: "#quarantinelife, #babyplant, #happyflower, #howto"
+    hashtags: "#foryou, #mango, #gardening, #greenhouse"
+  - username: "obxfavourites"
+    fullname: >-
+      obxfunfans🌅🏄‍♀️🤩
+    bio: >-
+      obx💕🌅🏄‍♀️🤩🌊 pogue life🤪 goal is 6000 followers💗 2 ppl run this acc!💛
+    location: "Canada"
+    followers: 5139
+    engagement: 2587
+    commentsToLikes: 0.116715
+    id: ckb9sqf99qanm0j23ev868xjm
+    verified: false
+    hashtags: "#fyp, #greenscreen, #foryouu, #4youpage"
   - username: "greatgifts"
     fullname: >-
       🎁 GreatGifts
+    bio: >-
+      our friend @RosesAreRez makes cute resin art ⤵️
     location: "Canada"
-    followers: 189299
-    engagement: 2072
-    commentsToLikes: 0.044765
+    followers: 185200
+    engagement: 2000
+    commentsToLikes: 0.040940
     id: ck81s6jcqqcox0j788qtgxokj
     verified: false
-    hashtags: "#fern, #greenthumb, #hugging, #henna"
-  - username: "starrygirl69"
+    hashtags: "#stayathome, #sidehustle, #happyeaster, #wipeitdown"
+  - username: "ben.mofitt"
     fullname: >-
-      fat idiot
+      Ben Mofitt 
+    bio: >-
+      18🇨🇦 GIVING MY DAD A HAIRCUT ⤵️💈🧚🏼‍♀️
     location: "Canada"
-    followers: 3295
-    engagement: 1375
-    commentsToLikes: 0.078039
-    id: ck961yngeohd50j78g83g20cp
+    followers: 57100
+    engagement: 1747
+    commentsToLikes: 0.047085
+    id: ck8kh4uzdlcso0j783v27k7jk
     verified: false
-    hashtags: "#gayyyy, #lgbtq, #purple, #skateboarding"
-  - username: "chelsboccongelle"
+    hashtags: "#foryoupage, #gay, #esportsforall, #lgbt"
+  - username: "forbidden.jam"
     fullname: >-
-      Chelsie
+      My body my choice
+    bio: >-
+      DMs don’t work Black lives matter
     location: "Canada"
-    followers: 32114
-    engagement: 2266
-    commentsToLikes: 0.084433
-    id: ck9flmqqdor7c0j786pyoolal
+    followers: 2336
+    engagement: 2649
+    commentsToLikes: 0.076634
+    id: ck92z7nqx5ylr0j78du3sit1z
     verified: false
-    hashtags: "#bestfriends, #covid19, #university, #flowers"
-  - username: "badasspapa1"
+    hashtags: "#foryoupage, #blm, #petroutine, #morningboost"
+  - username: "montreal_meme"
     fullname: >-
-      badasspapa
+      Meme en français
+    bio: >-
+      Follow moi je post des tiktok qui représente Montréal
     location: "Canada"
-    followers: 18154
-    engagement: 1258
-    commentsToLikes: 0.142890
-    id: ckacvl8ieoah10i78a6g7tvem
+    followers: 3414
+    engagement: 2380
+    commentsToLikes: 0.047560
+    id: ckb165ukctmhm0j236qk369n5
     verified: false
-    hashtags: "#calories, #mylive, #mowing, #disabilty"
-  - username: "northern.country.girl"
-    fullname: >-
-      NorthernCountryGirl
-    location: "Canada"
-    followers: 9600
-    engagement: 1686
-    commentsToLikes: 0.073791
-    id: ck9fdqveups460j788494mr6r
-    verified: false
-    hashtags: "#gardening, #comservative, #christianguy, #duetthis"
-  - username: "tamiaoveres"
-    fullname: >-
-      Tamia 
-    location: "Canada"
-    followers: 228735
-    engagement: 1892
-    commentsToLikes: 0.017373
-    id: ck8osvaarii1q0j78zbn12ijv
-    verified: false
-    hashtags: "#minitutorials, #learnfromme, #keepingbusy, #edit"
-  - username: "johnqueertractorco"
-    fullname: >-
-      Clark
-    location: "Canada"
-    followers: 91238
-    engagement: 1789
-    commentsToLikes: 0.024079
-    id: ck90r22bfkqg50j78jupamdux
-    verified: false
-    hashtags: "#acnh, #baddancer, #gardening, #quarancut"
+    hashtags: "#ryp, #happyathome, #confinement, #forupage"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top crossfit Instagram influencers in Ukraine in 2020. Most popular hashtags: #fitness #crossfit #calisthenics #workout.
+  Find top crossfit Instagram influencers in Ukraine in 2020. Most popular hashtags: #crossfit #workout #fitness #motivation.
 platform: Instagram
+hits: 12
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 12 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "vadym_oleynik"
+  - username: "stavnicha_dasha"
     fullname: >-
-      Vadym Oleynik
+      Даша Ставнича🐆
+    bio: >-
+      Fitness Coach 🔥Functional🔥TRX🔥CrossFit🔥Stretching 💪 Тренировки>с умом>на результат. 🏆МС-по лёгкой атлетики,Призёр чемпионат Мира и Европы. ❤️Авторский
     location: "Ukraine"
-    followers: 238923
-    engagement: 285
-    commentsToLikes: 0.015940
-    id: ck0txqhclk5k40i1979mgj9gb
+    followers: 10806
+    engagement: 1243
+    commentsToLikes: 0.037012
+    id: ck8tds9r44l770j78hijdqls0
     verified: false
-    hashtags: "#nevergiveup, #fitnessaddict, #shredded, #india"
+    hashtags: "#tracknation, #trackandfield, #runnersofinsta, #nikewoman"
   - username: "a_p_r_i_o_r_i"
     fullname: >-
       Maks Putria
+    bio: >-
+      💪Мастер-тренер тренажёрного 🤼‍♂️МС Украины Панкратион 🏋🏽‍♂️Победитель, призёр турниров по CrossFit 🏃‍♂️Победитель, призёр турниров забегов OCR
     location: "Ukraine"
-    followers: 17265
-    engagement: 152
-    commentsToLikes: 0.033700
+    followers: 17772
+    engagement: 219
+    commentsToLikes: 0.064857
     id: ck5ce5v47kdtn0i11md0wu5d1
     verified: false
-    hashtags: "#broncepscurls, #aprioriteam, #wodlife, #westcoastclassic"
+    hashtags: "#ocrlife, #ocr, #powerlift, #crossfit"
+  - username: "orobets_sw"
+    fullname: >-
+      IVAN OROBETS
+    bio: >-
+      🔹I am 2️⃣2️⃣ years old♋️ 🔸7️⃣0️⃣ kg, 1️⃣8️⃣0️⃣ cm 🔹I am from Ukraine🇺🇦 🔸I training 8️⃣ years, #workout & #calisthenics 🔹My YouTube channel👇👇👇
+    location: "Ukraine"
+    followers: 27778
+    engagement: 848
+    commentsToLikes: 0.016346
+    id: ck5c3ohruzqs70i111yc4udvy
+    verified: false
+    hashtags: ""
   - username: "ivankrylenko"
     fullname: >-
       Иван
+    bio: >-
+      High workout coach Functional practice  Creator&head of @barstylers_official Fitness model PR & advertising: direct 👀🗣Facebook ivan krylenko
     location: "Ukraine"
-    followers: 15039
-    engagement: 260
-    commentsToLikes: 0.089916
+    followers: 15116
+    engagement: 287
+    commentsToLikes: 0.074380
     id: ck6u9e10bx0f10j71kmklx7t2
     verified: false
-    hashtags: "#walking, #workout, #move, #menstyle"
-  - username: "akarpenko_com"
-    fullname: >-
-      Andrey Karpenko
-    location: "Ukraine"
-    followers: 24744
-    engagement: 336
-    commentsToLikes: 0.090366
-    id: ck5zxi3z481va0i14eq12176j
-    verified: false
-    hashtags: "#italy, #alive, #akarpenko, #mytrip"
-  - username: "valeri_666666"
-    fullname: >-
-      V
-    location: "Ukraine"
-    followers: 58358
-    engagement: 476
-    commentsToLikes: 0.014170
-    id: ck5ce5mibkdaq0i11pxev1v6b
-    verified: false
-    hashtags: "#fitnessgirl, #girls, #cat, #girl"
-  - username: "dmytrochaplinskyi"
-    fullname: >-
-      Дмитрий Чаплинський
-    location: "Ukraine"
-    followers: 11280
-    engagement: 1810
-    commentsToLikes: 0.052671
-    id: ck6tum02jh3qo0j71arkohvm1
-    verified: false
-    hashtags: "#streetworkout, #calisthenics, #poledance, #roadtothedreamathlete"
-  - username: "julia_shum_"
-    fullname: >-
-      Julia Shum
-    location: "Ukraine"
-    followers: 5738
-    engagement: 523
-    commentsToLikes: 0.028004
-    id: ck6tq1wxboxyi0j71gz56bpqr
-    verified: false
-    hashtags: "#motivation, #coach, #trx, #indytrip"
-  - username: "la_cirqueart"
+    hashtags: "#crossfit, #traning, #power, #menstyle"
+  - username: "la_cirque.art"
     fullname: >-
       𝐀𝐍𝐃𝐑𝐈𝐈 𝐋𝐘𝐓𝐕𝐀𝐊 🎪🎭
+    bio: >-
+      🔘𝐀𝐫𝐭𝐢𝐬𝐭 𝐨𝐟 @cirquedusoleil @dragoneofficial 🎪🌞 𝐒𝐡𝐨𝐰𝐬: #Quidam #LaNouba #LaPerleDXB 🔘𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 @la_pics.art 📸 𝐕𝐢𝐧𝐧𝐢𝐭𝐬𝐚 📍 𝐊𝐢𝐞𝐯 🇺🇦 🔱
     location: "Ukraine"
-    followers: 8890
-    engagement: 873
-    commentsToLikes: 0.065863
+    followers: 9221
+    engagement: 576
+    commentsToLikes: 0.067612
     id: ck0vzn9pw9y2n0i1931073vl6
     verified: false
-    hashtags: "#quidam, #profoto, #cirque, #downtowndubai"
-  - username: "barstylers_official"
+    hashtags: "#travelgram, #dubaimall, #dubaigram, #creative"
+  - username: "flipthatlid"
     fullname: >-
-      Barstylers▪️Workout Team
+      Marketplace
+    bio: >-
+      🔳Street wear👟👕🔝 🔳Только оригинальные товары💯 🔳Ukraine, Kyiv🇺🇦 🔳Доставка любых вещей под заказ‼️
     location: "Ukraine"
-    followers: 15459
-    engagement: 225
-    commentsToLikes: 0.052472
-    id: ck6u9dzxyx0730j71elbaa9l7
+    followers: 44161
+    engagement: 1377
+    commentsToLikes: 0.159282
+    id: ck15q9jiy1r910i19l9u3z4q5
     verified: false
-    hashtags: "#streetworkout, #show, #streetculture, #team"
-  - username: "mykola_borovets"
+    hashtags: "#sneakerworld, #sneakers, #boxing, #ternovykh"
+  - username: "kerolfox"
     fullname: >-
-      Mykola Borovets
+      𝐊𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐙𝐚𝐥𝐞𝐯𝐬𝐤𝐚𝐲𝐚
+    bio: >-
+      Twerk Lessons @silver.gym.skarzysko & @szkola_tanca_layla 🎥👩‍🎓Рассказываю о жизни в Польше 💚 Active & Healthy Lifestyle 🥗 💦 Fitness Trener💪 🗣🇺🇦🇵🇱🇺🇸🇷🇺
     location: "Ukraine"
-    followers: 20871
-    engagement: 341
-    commentsToLikes: 0.009731
-    id: ck8t2skty0jx90j78twptnsxf
+    followers: 4944
+    engagement: 1033
+    commentsToLikes: 0.036505
+    id: ck6tjm8as2zls0j715b97dp4z
     verified: false
-    hashtags: "#parkourtraining, #heights, #rivne, #lifetimenatural"
+    hashtags: "#selfie, #polishboy, #gym, #ukraine"
+  - username: "batyr_akhmedov"
+    fullname: >-
+      Батыр
+    bio: >-
+      Крым.Professional Boxer. ( 8 - 1-0- 7 ko)WBA super lightweight, intercontinental Champion! Simferopol, Los Angeles!
+    location: "Ukraine"
+    followers: 11961
+    engagement: 233
+    commentsToLikes: 0.029175
+    id: ck6u036arddjj0j71qu7b1242
+    verified: false
+    hashtags: "#sports, #crimea, #motivation, #motivationalquotes"
+  - username: "dmitryichumak"
+    fullname: >-
+      Дмитро Чумак 🇺🇦
+    bio: >-
+      🔹World medalist 2015 🔹Olympian Rio-2016 🔹European medalist 2017 🔹World medalist 2017 🔹European champion2019 App for weightlifters ⤵️
+    location: "Ukraine"
+    followers: 52813
+    engagement: 269
+    commentsToLikes: 0.101918
+    id: ck6trf8muyn4n0j71q5fb9zt4
+    verified: false
+    hashtags: "#proweightliftingapp, #tokyo2020, #whitecard, #familytime"
+  - username: "liashok_oleg_cop"
+    fullname: >-
+      Персональний тренер
+    bio: >-
+      °teacher at the police academy🚔 °master of sport💪 °Coach-personal training @crossgym_baza_team °Pankration🥊 °fitness🏃‍♀️ °gym🏋️‍♀️ °Online training🤳
+    location: "Ukraine"
+    followers: 10621
+    engagement: 1151
+    commentsToLikes: 0.015845
+    id: ckf5ljobyptrx0j23sk36gq44
+    verified: false
+    hashtags: "#crossfit, #girl, #like, #chacha"
 ---

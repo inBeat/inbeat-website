@@ -1,87 +1,130 @@
 ---
 title: Top 10 Hair Dressers TikTok Influencers In United States In 2020
 description: >-
-  Find top hair dressers TikTok influencers in United States in 2020. Most popular hashtags: #hair #dresses #neverfitin #happyathome.
+  Find top hair dressers TikTok influencers in United States in 2020. Most popular hashtags: #hair #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 16
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 16 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "hairmadeezforher"
+  - username: "darklingmoon"
     fullname: >-
-      hairmadeez
+      Serena Diane
+    bio: >-
+      Find me on FB @ Chimera Vibes. 18+ only
     location: "United States"
-    followers: 55327
-    engagement: 682
-    commentsToLikes: 0.014942
-    id: ckac76ve5emf40i78ttgpjlvp
+    followers: 34800
+    engagement: 2135
+    commentsToLikes: 0.076439
+    id: ckbf76sj8wxgv0j230usdhy9n
     verified: false
-    hashtags: "#leftonread, #styletips, #runnin, #timetocutit"
-  - username: "nicolettesidelsky"
+    hashtags: "#skulls, #iloveyou, #loveyourself, #etsy"
+  - username: "angelagentile99"
     fullname: >-
-      Nicolette 🌞
+      Angela Gentile
+    bio: >-
+      YouTube channel: Life Of AG Instagram: Angela_gentile Venmo: Angieg9
     location: "United States"
-    followers: 34265
-    engagement: 2139
-    commentsToLikes: 0.043339
-    id: ck80no5umdkyo0j78myohk4kt
+    followers: 97900
+    engagement: 327
+    commentsToLikes: 0.033912
+    id: ckc7w69m1zfol0j23kohh73sz
     verified: false
-    hashtags: "#hoopsathome, #werkitfromhome, #rightfootup, #leftfootslide"
-  - username: "joliebrownn"
+    hashtags: "#fun, #trends, #trend, #dance"
+  - username: "madisontrahannn"
     fullname: >-
-      Jolie Brown
+      Madison Trahan
+    bio: >-
+      21 & married to best friend ❤️
     location: "United States"
-    followers: 27566
-    engagement: 2215
-    commentsToLikes: 0.021353
-    id: ck8z1pk7u2fcf0j7810dt2y4b
+    followers: 9896
+    engagement: 1017
+    commentsToLikes: 0.022636
+    id: ckb9n6n57gpyg0j2352uhd6f8
     verified: false
-    hashtags: "#jackbox, #travelthrowback, #song, #prom"
-  - username: "stopitcelina"
+    hashtags: "#fyp, #cheap, #kitchentransformation, #painting"
+  - username: "mensmodernwear"
     fullname: >-
-      StopItCelina
+      MensModernWear
+    bio: >-
+      United States of America 🇺🇸 Luxury Clothing Brand Est. 2017 Subscribe to YT🔥
     location: "United States"
-    followers: 2372
-    engagement: 680
-    commentsToLikes: 0.075745
-    id: ckacw6db5r12d0i78nvzrqs26
+    followers: 61900
+    engagement: 340
+    commentsToLikes: 0.004640
+    id: ckbf8eq50yub30j23jlpi48ba
     verified: false
-    hashtags: "#aesthetic, #smallgestures, #cubanas, #dogmom"
-  - username: "htx.hannah"
+    hashtags: "#mensstyle, #vibewithus, #men, #fashionable"
+  - username: "sarahscouture"
     fullname: >-
-      🥀hannah🥀
+      SARAH'S COUTURE
+    bio: >-
+      Quinceañera, Damas Dresses, tuxedo rental, accesories, crowns, bouquets
     location: "United States"
-    followers: 14772
-    engagement: 1214
-    commentsToLikes: 0.041533
-    id: ck90tzfd8uqfa0j787mzmduwi
+    followers: 31500
+    engagement: 859
+    commentsToLikes: 0.012290
+    id: ckbkgunxg8edd0j23w4vejraz
     verified: false
-    hashtags: "#promlook, #rosa, #share, #maketheleap"
-  - username: "kristinamak7"
+    hashtags: "#bouquets, #hair, #sarahscouture, #quincedress"
+  - username: "madzdhanani"
     fullname: >-
-      Kristina Mak
+      Madiha Dhanani
+    bio: >-
+      Started on IG, now we’re here 🤷🏻‍♀️ Email for inquires: madiha@happilymadz.com
     location: "United States"
-    followers: 9436
-    engagement: 597
-    commentsToLikes: 0.070710
-    id: ckackervpbb070i782bm3aopu
+    followers: 209000
+    engagement: 533
+    commentsToLikes: 0.025510
+    id: ckacv71glmgzt0i781w53yzrh
     verified: false
-    hashtags: "#homeroutine, #happydance, #wigs, #tiktoklover"
-  - username: "briknopf"
+    hashtags: "#style, #ootd, #desi, #fashion"
+  - username: "hotmess_mom518"
     fullname: >-
-      briknopf
+      Amanda
+    bio: >-
+      wife mom host of a podcast my hair is never a natural color venmo @Amanda-Amidan
     location: "United States"
-    followers: 29311
-    engagement: 663
-    commentsToLikes: 0.017214
-    id: cka6pcsuwj4zq0i78nmd048tg
+    followers: 5024
+    engagement: 1373
+    commentsToLikes: 0.105985
+    id: ckbf2jm8epl530j230ukbgp4b
     verified: false
-    hashtags: "#beautyhaul, #blogger, #stayathome, #revolve"
-  - username: "shandarogers_"
+    hashtags: "#vote, #trump2020, #coffee, #podcastersoftiktok"
+  - username: "neharika0601"
     fullname: >-
-      ★ Shanda Rogers★
+      Neharika
+    bio: >-
+      🦋🦋🦋 sc: @neharikahl
     location: "United States"
-    followers: 265215
-    engagement: 987
-    commentsToLikes: 0.007407
-    id: ck806xjafmu1e0j78k8zgaoep
+    followers: 4809
+    engagement: 1795
+    commentsToLikes: 0.072415
+    id: ckdmsq22haa1c0j23x6zzm7ct
     verified: false
-    hashtags: "#amazonfinds, #cherhorowitz, #bestfandom, #keepingactive"
+    hashtags: "#draft, #zaynmalik, #zayn, #fyp"
+  - username: "delanzy"
+    fullname: >-
+      Delaney Burke
+    bio: >-
+      17 | San Diego | Wave vb
+    location: "United States"
+    followers: 5584
+    engagement: 1530
+    commentsToLikes: 0.086314
+    id: ck8kgpfs8jhrv0j785vdh5myk
+    verified: false
+    hashtags: "#fyp, #greenscreen, #foryoupage, #costume"
+  - username: "catherinezickert"
+    fullname: >-
+      Catherine Zick
+    bio: >-
+      You made it this far might as well hmu on insta ig: catherinezickert
+    location: "United States"
+    followers: 17600
+    engagement: 1423
+    commentsToLikes: 0.044094
+    id: ckcdw8375fj8e0j23l777kmdc
+    verified: false
+    hashtags: "#fyp, #foryou, #diy, #funny"
 ---

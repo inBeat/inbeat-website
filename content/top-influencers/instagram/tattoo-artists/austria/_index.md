@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Austria in 2020. Most popular hashtags: #tattooartist #quarantine #drawing #tattoostyle.
+  Find top tattoo-artists Instagram influencers in Austria in 2020. Most popular hashtags: #tattoo #ink #art #artist.
 platform: Instagram
+hits: 12
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 12 Instagram influencers like this in Austria for you to collaborate.
 profiles:
   - username: "julesboho.tattoo"
     fullname: >-
       Jules Boho
+    bio: >-
+      tattoo artist • illustrator • painter • globetrotter • co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
     location: "Austria"
-    followers: 48936
-    engagement: 214
-    commentsToLikes: 0.015844
+    followers: 49776
+    engagement: 152
+    commentsToLikes: 0.014036
     id: ck0u83d8h6g4a0i196353gfnx
     verified: false
-    hashtags: "#turtlepainting, #maoao, #goodmorning, #brokenheart"
+    hashtags: "#avantgardetattoo, #naturetattoo, #contemporarytattooing, #art"
   - username: "kisakisenka"
     fullname: >-
       Vladimir Arhipkin
+    bio: >-
+      Tattoo artist/illustrator/designer Graz. Austria. @WorldFamousInk - proteam hello@create-tattoo.com
     location: "Austria"
     followers: 29446
     engagement: 165
     commentsToLikes: 0.014854
     id: ckaoucgwozov40i78vdeh4erf
     verified: false
-    hashtags: "#tattoomagazine, #illustration, #tattoosleeve, #tattooconvention"
+    hashtags: "#tattoocolor, #neotraditionalflash, #neotraditionaleurope, #worldfamoustattooink"
   - username: "ninasphynx"
     fullname: >-
       Nina
+    bio: >-
+      🇩🇪Rottweil - 🇦🇹Vienna Tattooartist Dog lover🐶 ❤️ 🔒 For cooperations 📩 theninasphynx@gmail.com
     location: "Austria"
-    followers: 108830
-    engagement: 315
-    commentsToLikes: 0.009256
+    followers: 123015
+    engagement: 593
+    commentsToLikes: 0.008553
     id: ck5q7wr3t3eoj0i11c81qgfmg
     verified: false
-    hashtags: "#familytime, #paris, #dackel, #welpe"
-  - username: "suhai_tattoo"
+    hashtags: "#wien, #ootd, #blackandwhitephotography, #realistictattoo"
+  - username: "carola_deutsch"
     fullname: >-
-      Sūhai Tattoo Artist
+      Carola Deutsch
+    bio: >-
+      ART I TATTOO I DESIGN Co-owner of @decasa_creative_studio Check out our website for an overview of my work
     location: "Austria"
-    followers: 10064
-    engagement: 450
-    commentsToLikes: 0.024608
-    id: ck5qbqx08myun0i11dm2wu7u4
+    followers: 15103
+    engagement: 202
+    commentsToLikes: 0.036901
+    id: ck55ocpah83uc0i1114gyr3x7
     verified: false
-    hashtags: "#birdtattoo, #tulip, #medusa, #argenina"
-  - username: "dani_huana_vienna"
+    hashtags: "#streetart, #artlovers, #graphicart, #austrianartist"
+  - username: "tattooed.girlz_2"
     fullname: >-
-      Dani Huana
+      Hottest Premium Inked Girls
+    bio: >-
+      📩 DM me if you're interested in shoutout 4 shoutout 🆓 Follow me for more daily pictures 📲 All credits goes to models and photographers 🇸🇰 Slovakia, PE
     location: "Austria"
-    followers: 26346
-    engagement: 404
-    commentsToLikes: 0.044707
-    id: ck9weqvnclg0m0j78yz0vxt9t
+    followers: 68193
+    engagement: 335
+    commentsToLikes: 0.015124
+    id: ck9ha514fb6ig0j78binhze42
     verified: false
-    hashtags: "#ontheblog, #tattoogirls, #inkedbabes, #cbdoil"
-  - username: "mercedes_tsangaras"
+    hashtags: ""
+  - username: "xchrisschmalzlockex"
     fullname: >-
-      𝕄ercedes𝕀ℕ𝕂  Ⓡ
+      ⚡️xchrisschmalzlockex⚡️
+    bio: >-
+      •california dreamin • ⚡️choppers⚡️ • owner electric custom tattoos • • no crying • no sissy stuff • • vienna • 🦷
     location: "Austria"
-    followers: 21122
-    engagement: 436
-    commentsToLikes: 0.035657
-    id: ck6ued6w9q8d00j71w7tmeans
+    followers: 14617
+    engagement: 317
+    commentsToLikes: 0.011750
+    id: ck5cacngmd6dd0i11x2ab32gk
     verified: false
-    hashtags: "#tattoosforwomen, #blackbeauty, #instalike, #tattooedchics"
-  - username: "ninadelianin"
+    hashtags: "#neotradsub, #wien, #vienna, #iamink"
+  - username: "nina_glaser"
     fullname: >-
-      Nina de Lianin
+      Nina Glaser
+    bio: >-
+      Vienna 🇦🇹 TikTok: nina_glaser
     location: "Austria"
-    followers: 19975
-    engagement: 287
-    commentsToLikes: 0.048460
-    id: ck5q88rrs4zof0i11tps6w42j
+    followers: 51238
+    engagement: 416
+    commentsToLikes: 0.089841
+    id: ck6ued5qvq86c0j71rkp1l8me
     verified: false
-    hashtags: "#highfashion, #souncheck, #edpiks, #donsphynx"
-  - username: "belmoxoxo"
+    hashtags: "#style, #goodmorning, #motivation, #photooftheday"
+  - username: "anatolknotek"
     fullname: >-
-      belmo
+      anatol knotek | artist & poet
+    bio: >-
+      artist and visual poet from vienna 🇦🇹 ➡️ @typewriterartist
     location: "Austria"
-    followers: 25988
-    engagement: 674
-    commentsToLikes: 0.010574
-    id: ck14kvg3wri9f0i19jxk6dqc8
+    followers: 36592
+    engagement: 533
+    commentsToLikes: 0.013410
+    id: ck0u89k8y6vdx0i19btanlhzr
     verified: false
-    hashtags: "#tattoodo, #poltergeist, #painting, #drawing"
-  - username: "elaimenai"
+    hashtags: "#visuallanguage, #modernpoetry, #art, #artoftheday"
+  - username: "florianhausdorfer"
     fullname: >-
-      Elai Van Menai
+      ғʟᴏʀɪᴀɴ ʜᴀᴜsᴅᴏʀғᴇʀ
+    bio: >-
+      ~𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫𝐞𝐭𝐭𝐞 - 𝟐𝟎𝟏𝟗 🌹 ~ 📺 TV ~ ⚽️ Soccerplayer~ ~ 📸 #model DM~ ~🌏 #travel : -> #home ~📩 New Homepage 👈🏻 𝐃𝐢𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞𝐦𝐨𝐫𝐢𝐞𝐬, 𝐧𝐨𝐭 𝐝𝐫𝐞𝐚𝐦𝐬.
     location: "Austria"
-    followers: 56170
-    engagement: 825
-    commentsToLikes: 0.017561
-    id: ck5ztvb2w16ux0i14jit1kh7k
+    followers: 29625
+    engagement: 582
+    commentsToLikes: 0.058479
+    id: ck0twvz0tgzhi0i19c2048t9n
     verified: false
-    hashtags: "#drawing, #twinkles, #upcycle, #artofinstagram"
-  - username: "flowsofly"
+    hashtags: "#instagood, #germany, #together, #travel"
+  - username: "_yxssix"
     fullname: >-
-      flowsofly
+      yasmin 🌻ॐ
+    bio: >-
+      ↠ free spirit ↞ do more of what lights your soul on fire🔥 🌱create • inspire • explore • be 🕉
     location: "Austria"
-    followers: 424353
-    engagement: 292
-    commentsToLikes: 0.004133
-    id: ck0twyl7ahaxh0i19vlkeumly
+    followers: 49285
+    engagement: 142
+    commentsToLikes: 0.012472
+    id: ck55on2328p310i11b3q97nbh
     verified: false
-    hashtags: "#sculpture, #tasty, #interior, #lines"
+    hashtags: "#loveyourself, #goodmorning, #livefit, #skinnylegs"
 ---

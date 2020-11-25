@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture TikTok Influencers In New York In 2020
 description: >-
-  Find top architecture TikTok influencers in New York in 2020. Most popular hashtags: #california #architecture #newyork #quarantinelife.
+  Find top architecture TikTok influencers in New York in 2020. Most popular hashtags: #newyork #fyp #architecture #foryou.
 platform: TikTok
+hits: 10
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "theamericanmoderate"
+  - username: "mrcoreycohen"
     fullname: >-
-      Ephemeral EP
+      Corey Cohen
+    bio: >-
+      Follow me on Insta to keep up ☝️with the latest on Olde New York
     location: "United States"
-    followers: 2702
-    engagement: 1274
-    commentsToLikes: 0.228132
-    id: cka695qw7ran60i78w7bnsuqb
+    followers: 39200
+    engagement: 573
+    commentsToLikes: 0.013635
+    id: ckbexsuzhia1k0j238o52dph4
     verified: false
-    hashtags: "#tweet, #architecture, #idiocracy, #campaign"
-  - username: "tlmazer"
+    hashtags: "#ghostbusters, #funfacts, #newyorkcity, #apartment"
+  - username: "maggiehuangnyc"
     fullname: >-
-      Taylor Mazer
+      Maggiehuangnyc
+    bio: >-
+      Architect & Artist | New York City
     location: "United States"
-    followers: 15535
-    engagement: 1755
-    commentsToLikes: 0.022852
-    id: ck95xi2y060h80j78l90sodnc
+    followers: 9805
+    engagement: 729
+    commentsToLikes: 0.019542
+    id: ckbl4d1il1twm0j23jdl55km9
     verified: false
-    hashtags: "#artistsoftiktok, #perspective, #building, #streetsign"
+    hashtags: "#fyp, #foryou, #fy, #love"
   - username: "matt_toledo"
     fullname: >-
       Matt Toledo
+    bio: >-
+      21 Quinnipiac NJ/CT
     location: "United States"
-    followers: 51438
-    engagement: 1267
-    commentsToLikes: 0.023749
+    followers: 62000
+    engagement: 1526
+    commentsToLikes: 0.038974
     id: ck8kda8pa4ukk0j789xrnwcoo
     verified: false
-    hashtags: "#cyberpunk2077, #showerthoughts, #tips, #fashion"
-  - username: "tommyjordanre"
+    hashtags: "#architecture, #xbox, #humor, #xyzbca"
+  - username: "thatche"
     fullname: >-
-      LuxuryHomesOnYouTube
+      Thatcher
+    bio: >-
+      
     location: "United States"
-    followers: 2841
-    engagement: 302
-    commentsToLikes: 0.131422
-    id: cka0r02qgewdf0i78iya1mnf4
+    followers: 24600
+    engagement: 391
+    commentsToLikes: 0.030425
+    id: ck9ncexjubuh70j78ftqm5074
     verified: false
-    hashtags: "#dadlife, #gwagon, #boss, #drive"
-  - username: "weissbro"
+    hashtags: "#makebelieve, #morelife, #manhattan, #newyorkcity"
+  - username: "coleslawisthename"
     fullname: >-
-      Aaron Weiss 🎞
+      Alexander Locke
+    bio: >-
+      🛳Travel✈️ ➕ 🎞Video🎥
     location: "United States"
-    followers: 92381
-    engagement: 548
-    commentsToLikes: 0.010737
-    id: ck83zgiox0k5m0j787zqx9vhg
+    followers: 16000
+    engagement: 453
+    commentsToLikes: 0.024460
+    id: ckb9v65eyu82i0j23u2vmk7cs
     verified: false
-    hashtags: "#killyourvibe, #foryoupag, #adventure, #reflection"
-  - username: "._lily_.9"
+    hashtags: "#lol, #nyc, #friends, #bird"
+  - username: "citykillerz.official"
     fullname: >-
-      lily
+      Citykillerz
+    bio: >-
+      ↠ 300K on IG ⬆️ ↠ The Best Travel & Urban Content ↠ Email: Team@citykillerz.com
     location: "United States"
-    followers: 8286
-    engagement: 729
-    commentsToLikes: 0.074600
-    id: ck9r9ujbki7tw0j78dr0r49le
+    followers: 51300
+    engagement: 899
+    commentsToLikes: 0.023167
+    id: ckc32m92qsrkc0j23spvkbuao
     verified: false
-    hashtags: "#oregon, #northeastern, #carnegie, #theatre"
-  - username: "jonmiksis"
+    hashtags: "#japan, #china, #timelapse, #fpv"
+  - username: "vincentjac"
     fullname: >-
-      Jon Miksis
+      vincent 
+    bio: >-
+      
     location: "United States"
-    followers: 486433
-    engagement: 1088
-    commentsToLikes: 0.044681
-    id: ck80oeg8ghads0j782ztk6aps
+    followers: 57000
+    engagement: 2080
+    commentsToLikes: 0.040406
+    id: ck80nouyodode0j78hzz5flhq
     verified: false
-    hashtags: "#argentina, #citylights, #sanmarino, #goodmorning"
-  - username: "travelesquire"
+    hashtags: "#meme, #spookyszn, #fyp, #halloween"
+  - username: "greg.rh"
     fullname: >-
-      TRAVEL Esquire 🥂✈️
+      Greg
+    bio: >-
+      Art, furniture, fashion, and cooking g96harder@gmail.com
     location: "United States"
-    followers: 4275
-    engagement: 635
-    commentsToLikes: 0.048750
-    id: ck80oem7yhc0r0j78ve5fxa3r
+    followers: 2677
+    engagement: 776
+    commentsToLikes: 0.118627
+    id: ckcjhqtugceoo0j237jtjk2h3
     verified: false
-    hashtags: "#newcollege, #williampenn, #clock, #venicecanals"
-  - username: "pic_nick15"
+    hashtags: "#modeling, #furniture, #photography, #malemodel"
+  - username: "gordontarpley"
     fullname: >-
-      Niqué
+      Gordon Tarpley
+    bio: >-
+      keeping it interesting
     location: "United States"
-    followers: 9706
-    engagement: 1464
-    commentsToLikes: 0.073476
-    id: ckaifghl3wsi30i78qnticgya
+    followers: 1200000
+    engagement: 846
+    commentsToLikes: 0.010120
+    id: ck8qdx3hhq5ah0j78ujr6hl9f
     verified: false
-    hashtags: "#jumpman, #vibewithme, #natureathome, #cookinghacks"
-  - username: "tlmazer"
+    hashtags: "#gordontarpley, #maker, #california, #alien"
+  - username: "wiolettapawluk"
     fullname: >-
-      Taylor Mazer
+      Wiola 🇵🇱🇺🇸
+    bio: >-
+      Architectural Interior Designer 💪🏼Online coach 🎨Artist www.BodyDecore.com
     location: "United States"
-    followers: 15535
-    engagement: 1755
-    commentsToLikes: 0.022852
-    id: ck95xi2y060h80j78l90sodnc
+    followers: 31500
+    engagement: 727
+    commentsToLikes: 0.026706
+    id: ckbf2buskp93m0j23n2wuuimc
     verified: false
-    hashtags: "#artistsoftiktok, #perspective, #building, #streetsign"
+    hashtags: "#style, #legs, #bts, #funny"
 ---

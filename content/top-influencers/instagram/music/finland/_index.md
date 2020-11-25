@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Finland In 2020
 description: >-
-  Find top music Instagram influencers in Finland in 2020. Most popular hashtags: #quarantine #coffeelover #kaupallinenyhteisty #koronavirus.
+  Find top music Instagram influencers in Finland in 2020. Most popular hashtags: #finnishgirl #alennuskoodi #cello.
 platform: Instagram
+hits: 86
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 86 Instagram influencers like this in Finland for you to connect with.
 profiles:
-  - username: "kaisaottelin"
+  - username: "erikavikman"
     fullname: >-
-      KAISA OTTELIN
+      ᴱᴿᴵᴷᴬ ⱽᴵᴷᴹᴬᴺ
+    bio: >-
+      SYNTISTEN PÖYTÄ 🍴🍎 @mokkitierecords / Warner music Finland
     location: "Finland"
-    followers: 7541
-    engagement: 2242
-    commentsToLikes: 0.027789
-    id: ck14iz9cnhv3d0i19c50ku0as
-    verified: false
-    hashtags: "#vlogi, #igtv, #igtvblog, #giveaway"
-  - username: "mindbodyhealth_mia"
-    fullname: >-
-      Mia
-    location: "Finland"
-    followers: 2398
-    engagement: 1857
-    commentsToLikes: 0.087057
-    id: ckaos1gg8pq6x0i78e3kteybb
-    verified: false
-    hashtags: "#inkedgirls, #shoulderworkout, #unikko, #workingwoman"
+    followers: 38012
+    engagement: 1110
+    commentsToLikes: 0.019678
+    id: ck6uhchrb8blj0j719ltzq0b1
+    verified: true
+    hashtags: "#cicciolina, #syntistenp, #kultalevy, #eimeid"
   - username: "eiccatoppinen"
     fullname: >-
       Eicca Toppinen
+    bio: >-
+      The heavy metal-cellist from Hellsinki Finland & Apocalyptica. Composer, producer etc... #apocalyptica #music #cello #finland #metal #rock #punk
     location: "Finland"
-    followers: 37841
-    engagement: 768
-    commentsToLikes: 0.016259
+    followers: 39153
+    engagement: 763
+    commentsToLikes: 0.019452
     id: ck0u2gz63zz8m0i19xpxxtjta
     verified: false
-    hashtags: "#hagl, #sabaton, #springinhell, #headbanging"
-  - username: "ellinooramusiikki"
+    hashtags: "#gym, #hagl, #autumn, #metal"
+  - username: "siniyasemin"
     fullname: >-
-      Ellinoora
+      siniyasemin
+    bio: >-
+      ⚪️ Singer/ songwriter @ Universal Music ⚪️ Housewriter @ Hmc Publishing / Warner
     location: "Finland"
-    followers: 57667
-    engagement: 585
-    commentsToLikes: 0.021211
-    id: ck0w59k762kl80i19h32bbyve
+    followers: 15189
+    engagement: 533
+    commentsToLikes: 0.025574
+    id: ck6tzmurtan0g0j71msygj4ee
     verified: true
-    hashtags: "#yleolohuone, #kaupallinenyhteisty, #ruutulive, #vaaleanpunainenvallankumous"
-  - username: "roopenieminen"
+    hashtags: "#mina, #min, #toinenalbumi, #parijonossa"
+  - username: "leostillman"
     fullname: >-
-      Roope Nieminen | Muusikko
+      LEO
+    bio: >-
+      #music #kuunarikathrina #kuunarijanmayen #projectsoromnoo artist @sonymusicfinland @livenationagencyfi @comusic_mgmt
     location: "Finland"
-    followers: 3540
-    engagement: 1842
-    commentsToLikes: 0.074990
-    id: ck6uenlmss02v0j71gfptdac2
+    followers: 8069
+    engagement: 872
+    commentsToLikes: 0.042273
+    id: ck5q122pf8w8n0i11vilrl6tl
     verified: false
-    hashtags: "#hommissa, #drumcam, #arianagrande, #koronavirus"
+    hashtags: "#ta, #maailmanelvytyspa, #worldrestartaheart, #biisinivoipelastaaela"
+  - username: "kelmikalle"
+    fullname: >-
+      Lenni-Kalle Taipale
+    bio: >-
+      Musician - Pianist. Music producer of ’The Voice Of Finland’. 🎹
+    location: "Finland"
+    followers: 18763
+    engagement: 426
+    commentsToLikes: 0.012549
+    id: ck0w171gjhv6z0i19s1ywt6n0
+    verified: true
+    hashtags: "#jazz, #tvof, #kivenlahdenkoulu, #aj"
+  - username: "mikaelgabriel"
+    fullname: >-
+      Mikael Gabriel
+    bio: >-
+      I AM MUSIC
+    location: "Finland"
+    followers: 208049
+    engagement: 383
+    commentsToLikes: 0.012978
+    id: ck0ua7q8lbp5n0i19h95sidtr
+    verified: true
+    hashtags: "#takashimurakami, #fifa21, #volta, #golfonpop"
   - username: "vesalaofficial"
     fullname: >-
       Vesala
+    bio: >-
+      Artisti jne. Finnish artist / musician / actor / dramaturge
     location: "Finland"
-    followers: 138487
-    engagement: 448
-    commentsToLikes: 0.018404
+    followers: 142238
+    engagement: 391
+    commentsToLikes: 0.013707
     id: ck13ck1850qfa0i19y0ynpnol
     verified: true
-    hashtags: "#whatonearth, #iltapuku, #iltaa, #gaalailta"
-  - username: "viewofficial"
+    hashtags: "#vesalakeikat, #keikat, #vesalalive, #palkinto"
+  - username: "iidamatinki"
     fullname: >-
-      View / Juuso Ruohonen
+      Iida Mätinki
+    bio: >-
+      📷 Model | Promoter | Bachelor of Music 💌 iida.matinki@gmail.com Portfolio ⤵️
     location: "Finland"
-    followers: 10335
-    engagement: 528
-    commentsToLikes: 0.031536
-    id: ck5cbkih6fm420i115w4faxog
+    followers: 2727
+    engagement: 1100
+    commentsToLikes: 0.051141
+    id: ck5cl1g2uy2250i11t3l18917
     verified: false
-    hashtags: "#munloop, #rescuedog, #rescueyhdistyskulkurit"
-  - username: "youngheartedmusic"
+    hashtags: "#kontiofinland, #alennuskoodi, #asuntomessut, #kontiofi"
+  - username: "ellinooramusiikki"
     fullname: >-
-      YOUNGHEARTED
+      Ellinoora
+    bio: >-
+      ☁️✨💕🔫📝 🌸 Warner Music Finland 🦖 Dinosauruksii 20.11.
     location: "Finland"
-    followers: 7498
-    engagement: 1295
-    commentsToLikes: 0.078822
-    id: ck6tpwd9inoqg0j710d3dz114
+    followers: 57223
+    engagement: 552
+    commentsToLikes: 0.010046
+    id: ck0w59k762kl80i19h32bbyve
     verified: true
-    hashtags: "#kolmaspy, #vapaa, #uudenedess, #elisalive"
-  - username: "rumpumbo023"
+    hashtags: "#tb"
+  - username: "muna_pauls_cherri_"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Ivan Rumpumbo
+      *almendrita*
+    bio: >-
+      Amante de la música...
     location: "Finland"
-    followers: 17573
-    engagement: 118
-    commentsToLikes: 0.029873
-    id: ck6u4jlwr43gg0j7171adn2pl
+    followers: 463295
+    engagement: 1657
+    commentsToLikes: 0.021084
+    id: ck6030c0ikb7o0i14p2553yvx
     verified: false
-    hashtags: "#kewgardens, #cocktails, #caferegatta, #latepost"
-  - username: "kwamiewellbad"
-    fullname: >-
-      WILDCROCODILE🐊
-    location: "Finland"
-    followers: 4668
-    engagement: 1081
-    commentsToLikes: 0.040338
-    id: ck15q6set1dsk0i19le60bqiy
-    verified: false
-    hashtags: "#outnow, #wellbad, #unruly, #tint"
+    hashtags: "#cover"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In United States In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in United States in 2020. Most popular hashtags: #fitness #backday #girlswholift #fitlife.
+  Find top bodybuilding Instagram influencers in United States in 2020. Most popular hashtags: #bodybuilding #fitness #abs.
 platform: Instagram
+hits: 1576
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1576 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "leanna_carr"
-    fullname: >-
-      Leanna Carr
-    location: "United States"
-    followers: 99483
-    engagement: 386
-    commentsToLikes: 0.033771
-    id: ck5znv9ybp7q60i145cgx7cy9
-    verified: false
-    hashtags: "#squats, #explorewashington, #peoplewhohike, #womenwhoexplorewashington"
-  - username: "tmarkq"
-    fullname: >-
-      THAI
-    location: "United States"
-    followers: 88391
-    engagement: 593
-    commentsToLikes: 0.023377
-    id: ck6u96a25vqw70j71jj4h1p56
-    verified: false
-    hashtags: "#internationalchestday, #shakirashakira, #plantdaddy, #armday"
-  - username: "dusty_f"
-    fullname: >-
-      Cubby 🐻
-    location: "United States"
-    followers: 18299
-    engagement: 1778
-    commentsToLikes: 0.015115
-    id: ck55osojd91v10i114ksoypmy
-    verified: false
-    hashtags: "#birthdaybear, #cheers, #alwaysremembertocheers, #gayswithbeards"
   - username: "marzkiphysique"
     fullname: >-
       ᎷariaZ
+    bio: >-
+      🇲🇽 Los Angeles✈️Utah ~Bodybuilding @sethelabel @angelcompetitionbikinis ~ Code : MARZ 🌕🌖🌗🌘🌑🌒🌓🌔🌕 🕯🔮Eclectic witch 🌻Hippie✨Gypsy 🌛🌕🌜 ✨🌿🌊💨🔥
     location: "United States"
-    followers: 3945
-    engagement: 1653
-    commentsToLikes: 0.087672
+    followers: 6307
+    engagement: 2171
+    commentsToLikes: 0.150886
     id: ck8td71jn25oi0j78nxvvsdrk
     verified: false
-    hashtags: "#lakersnation, #fitnessathome, #supporteachother, #hubbabubba"
-  - username: "rafabrandaopro"
+    hashtags: "#hotsprings, #nature, #utah, #lakersnation"
+  - username: "tammy_bellabae_fitness"
     fullname: >-
-      RAFAEL BRANDÃO
+      Tammy 🎀🌴👙💪
+    bio: >-
+      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
     location: "United States"
-    followers: 834267
-    engagement: 480
-    commentsToLikes: 0.012039
-    id: ck5q9fvdeawy60i11sstjur6r
+    followers: 11354
+    engagement: 1451
+    commentsToLikes: 0.087957
+    id: ckf5pez4b5ukz0j2385upfgyk
     verified: false
-    hashtags: "#integralmedica, #legend, #internacionalchestday, #tbt"
-  - username: "kathibela"
+    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
+  - username: "leeciknight"
     fullname: >-
-      Kathi Bela
+      Leeci✖️Knight
+    bio: >-
+      Booty Cheeks and Bodybuilding 🍑🥵 Just a regular girl who likes to lift. Metal Head 🤘🏼 Big Booty Tight Tummy Guide 👇🏼
     location: "United States"
-    followers: 50357
-    engagement: 729
-    commentsToLikes: 0.003835
-    id: ck6tyhwxx3tpb0j71rq6dypdt
+    followers: 620972
+    engagement: 575
+    commentsToLikes: 0.013874
+    id: ck5how4e9qc8y0i11576f72qh
     verified: false
-    hashtags: "#scitecnutrition, #pihenniiskell, #aj, #scitec"
-  - username: "charlton_banks"
+    hashtags: "#homeworkouts, #gymvideos, #photooftheday, #fatloss"
+  - username: "gunsnbuns13"
     fullname: >-
-      Charly Joung
+      Courtney Jacobs
+    bio: >-
+      🦾Bodybuilding🧘🏼‍♀️ 🇺🇸Veteran🤘🏽 🌴Charleston, SC☀️ 🌱Growth mindset🌺 ✨Make an impact💥
     location: "United States"
-    followers: 13823
-    engagement: 864
-    commentsToLikes: 0.022459
-    id: ckap8db33nto10i78oq8krbgm
+    followers: 28990
+    engagement: 529
+    commentsToLikes: 0.032736
+    id: ck5btxwmpgst80i11vy8kwycz
     verified: false
-    hashtags: "#1daysooner, #covid19, #eatenlightened"
-  - username: "sabrinalina.lifts"
+    hashtags: "#love, #npcfigure, #prep, #triedandtested"
+  - username: "lachinafit"
     fullname: >-
-      Sabrina McMullen | NASM CPT
+      LACHINAFIT
+    bio: >-
+      👩🏻‍🎓Business Manager :🚛Truck’s Corp 💪🏼14 years fitness experience 🏋🏻‍♀️Natural bodybuilding 📧Fitnessbylachina@gmail.com @fitnessbylachina 👇🏻 tienda
     location: "United States"
-    followers: 8404
-    engagement: 571
-    commentsToLikes: 0.056768
-    id: ckap6qfqxgztv0i783ri00p4z
+    followers: 440603
+    engagement: 191
+    commentsToLikes: 0.024473
+    id: ck6tq7gyjptpz0j71ir6kg2lj
     verified: false
-    hashtags: "#waisttraining, #fitnessmyths, #selfaffirmation, #fitnessgoals"
+    hashtags: "#antesydespues, #naturalbodybuilding, #justcardio, #28"
+  - username: "shaevaleksei"
+    fullname: >-
+      Персональный тренер,с 2005 г.
+    bio: >-
+      🔹Абсолютный чемпион Arnold Classic 2015 🔹Вице-президент @nbcrus 🔹Промоутер @bodybuilding_ryazan 🔹Team @realsteel_official 🔹Создатель @systemafood
+    location: "United States"
+    followers: 26217
+    engagement: 132
+    commentsToLikes: 0.131298
+    id: ck5qe9wi0zf1l0i11ryoq5n81
+    verified: false
+    hashtags: "#bikini, #fitness, #classicphysique, #bodybuilding"
+  - username: "crayson1982"
+    fullname: >-
+      Jason
+    bio: >-
+      NYC-FL+💻 +Bodybuilding+philanthropy Zaddy to 👱‍♀️Sophia + 🐕 Pancho 👬 @daymienkaiser NPC #classicphysique https://PayPal.me/lostdogfoundation
+    location: "United States"
+    followers: 70700
+    engagement: 1400
+    commentsToLikes: 0.016856
+    id: ckapcey1e3jej0i7813pf8hyo
+    verified: false
+    hashtags: "#markhenderson, #muscle, #instagay, #bodybuilding"
   - username: "trey.meagher"
     fullname: >-
       Trey Meagher
+    bio: >-
+      ◼️ @golden.organics ATHLETE💯 ◾️19 Year Old Fitness Athlete ◼️Aesthetic Bodybuilding 🔪 ◼️MMA TRAINING 🥊 ◼️ PRODIGY™️ 🔰 @theprodigyproject
     location: "United States"
-    followers: 19262
-    engagement: 282
-    commentsToLikes: 0.056815
+    followers: 18582
+    engagement: 235
+    commentsToLikes: 0.061869
     id: ck14jwgf2mjaj0i19e0052n95
     verified: false
-    hashtags: "#warrior, #npccompetitor, #prodigies, #18yearsold"
-  - username: "robbyrobinsonofficial"
+    hashtags: "#warriormentality, #beabeast, #driventosucceed, #riseuptogether"
+  - username: "charlton_banks"
     fullname: >-
-      The Black Prince
+      Charly Joung
+    bio: >-
+      @b__joung <4 @falcongarments co-founder @rpstrength largest quads @fullromapparel member Ex-powerlifter 800/474/672/1925 @ 242 Onto bodybuilding.
     location: "United States"
-    followers: 95406
-    engagement: 239
-    commentsToLikes: 0.020658
-    id: ck15sw4k4f3n30i19oe7hb8od
+    followers: 20777
+    engagement: 492
+    commentsToLikes: 0.018935
+    id: ckap8db33nto10i78oq8krbgm
+    verified: false
+    hashtags: ""
+  - username: "andreishark_"
+    fullname: >-
+      Andrei Shark Veg🍀
+    bio: >-
+      🥦Vegan athlete & coach 💪🏼PAF Armwrestling Overall Champion 🏋️‍♀️Bench Press champion 🏆Top 3 Arnold Classic, World and Europa Classic bodybuilding 👇🏻
+    location: "United States"
+    followers: 32245
+    engagement: 162
+    commentsToLikes: 0.044167
+    id: ck14kywqqs0v80i19vl23qsi8
     verified: false
     hashtags: ""
 ---

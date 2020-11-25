@@ -1,97 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Greece In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Greece in 2020. Most popular hashtags: #staysafe #athensgreece #graphicdesign #igers.
+  Find top graphic-designers Instagram influencers in Greece in 2020. Most popular hashtags: #wu #travel #greece #athens.
 platform: Instagram
+hits: 13
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "dimitrisarianoutsos"
+  - username: "evita_razi"
     fullname: >-
-      Dimitris Arianoutsos ®
+      𝗘 𝗩 𝗜 𝗧 𝗔 ♡ fashion & travel
+    bio: >-
+      🦋 Content Creator 🎓 Graphic designer For Collabs 💬 DM/email Based in Athens/ Greece 🇬🇷
     location: "Greece"
-    followers: 6485
-    engagement: 2114
-    commentsToLikes: 0.014091
-    id: ck8sxui0giptr0j7826hj7mqc
+    followers: 29203
+    engagement: 452
+    commentsToLikes: 0.379820
+    id: ckap2l5mezbdr0i78tra6zdvj
     verified: false
-    hashtags: "#shadows, #backstage, #greece, #sunset"
+    hashtags: "#microinfluencer, #oodtchallenge, #weekendvibes, #chic"
   - username: "oskar_grfx"
     fullname: >-
       Yorgos Oskar | Photographer
+    bio: >-
+      •Photographer | Graphic designer [portraits,landscapes,retouch,logos] Personal account @yorgos_oskar •Athens based🇬🇷 •For collaborations DM/Mail 📩
     location: "Greece"
-    followers: 16258
-    engagement: 909
-    commentsToLikes: 0.021671
+    followers: 16406
+    engagement: 937
+    commentsToLikes: 0.018949
     id: ck5pvitaki3250i1139to7egc
     verified: false
-    hashtags: "#athenslife, #fitness, #vscocam, #beachwear"
-  - username: "forbidden.designs"
+    hashtags: "#menfashionblogger, #greecelover, #travel, #pursuitofportraits"
+  - username: "justlife.gr"
     fullname: >-
-      Dimitris Gelbouras
+      justlife.gr
+    bio: >-
+      Founder by @tinamel123 Owner & Content Creator Graphic designer Cook🍲 Travel 🛴 lifestyle 🍷 mum 💕 All 📸 & 📽 by me YouTube justlife.gr
     location: "Greece"
-    followers: 6330
-    engagement: 620
-    commentsToLikes: 0.019709
-    id: ck135mur9271f0i19u05s1dab
+    followers: 4906
+    engagement: 1111
+    commentsToLikes: 0.638078
+    id: ck6tiox5v14z30j71u8ov18hi
     verified: false
-    hashtags: "#fatedmagazine, #realismag, #broadmag, #makemeseemag"
+    hashtags: "#tastevoice, #masterpiece, #welovegreece, #youtubecreators"
+  - username: "gavaskantira"
+    fullname: >-
+      Georgia Avaskantira
+    bio: >-
+      Professional Dancer | Choreographer | Graphic designer | illustrator @parisianou.gr | Healthy pastry lover •I wish my eyes could take photos•
+    location: "Greece"
+    followers: 16625
+    engagement: 1142
+    commentsToLikes: 0.012828
+    id: ck6tiomp314du0j71hv1hp960
+    verified: false
+    hashtags: "#thebabycity, #moodoftheday, #quaxgreece, #quaxbaby"
   - username: "michael_tsirakis"
     fullname: >-
       MICHAEL TSIRAKIS | CHANIA
+    bio: >-
+      Graphic Designer ▪︎ Hobby Photographer ▪︎ Organic Soap Maker | | ANEK LINES | Polymedia.gr | Olea-soap.gr ||
     location: "Greece"
-    followers: 3431
-    engagement: 2335
-    commentsToLikes: 0.021246
+    followers: 3392
+    engagement: 2304
+    commentsToLikes: 0.021135
     id: ck0u20euryg120i19bixrocg4
     verified: false
-    hashtags: "#beautifulgreece, #chaniaoldtown, #urban, #mytopnine"
-  - username: "proheroes015"
+    hashtags: "#photonetmagazine, #unique, #athensvoice, #athens"
+  - username: "simek_1"
     fullname: >-
-      Pro Heroes 015 ®
+      S I M E K
+    bio: >-
+      #blaqk #simek Visual artist, graphic designer, half of @blaqk_2 based in Athens Greece. E: kemisone@hotmail.com
     location: "Greece"
-    followers: 7379
-    engagement: 406
-    commentsToLikes: 0.027947
-    id: ck8svz63bd8ra0j78d82fa7hd
+    followers: 6270
+    engagement: 655
+    commentsToLikes: 0.033922
+    id: ck0tyvzhgoakt0i19i1095wwi
     verified: false
-    hashtags: "#music, #newyork, #president, #agentinkgallery"
-  - username: "saketattoocrew"
+    hashtags: "#abandoned, #poster, #wall, #newyork"
+  - username: "forbidden.designs"
     fullname: >-
-      Sake Tattoo Crew
+      Dimitris Gelbouras
+    bio: >-
+      Some days a #graphicdesigner , some days a #photographer & some days an #artist (?) #forbiddendesigns #DimitrisGelbouras
     location: "Greece"
-    followers: 80587
-    engagement: 164
-    commentsToLikes: 0.001814
-    id: ck15pghyxxreq0i19o580gby3
+    followers: 6380
+    engagement: 924
+    commentsToLikes: 0.011809
+    id: ck135mur9271f0i19u05s1dab
     verified: false
-    hashtags: "#iblackwork, #pure, #tattooflash, #sculpture"
-  - username: "jason_blackeye"
+    hashtags: "#humansmagazine, #bnw, #portraitmood, #handsinframe"
+  - username: "filipposfragkogiannis"
     fullname: >-
-      Jason Blackeye
+      Filippos Fragkogiannis
+    bio: >-
+      Athens based graphic designer focusing on typography, print collateral and visual identities.
     location: "Greece"
-    followers: 3065
-    engagement: 2347
-    commentsToLikes: 0.029754
-    id: ck14llebkv97l0i19s9eacghk
+    followers: 8396
+    engagement: 579
+    commentsToLikes: 0.102034
+    id: ck5zindvig1as0i149cy5n68y
     verified: false
-    hashtags: "#weddingdesign, #bridgeview, #wonderful, #homestyle"
-  - username: "christos_asla"
+    hashtags: "#nomasmagazine, #poster, #design, #jury"
+  - username: "fishermanspyros"
     fullname: >-
-      𝐂𝐡𝐫𝐢𝐬𝐭𝗼𝐬 𝐀𝐬𝐥𝐚𝐧𝐢𝐝𝐢𝐬
+      Fisherman Spyros
+    bio: >-
+      🇬🇷 Graphic Designer & Illustrator ✍️ COMMISSIONS ARE OPEN 🎤 Making 🎼 as @korfianofficial
     location: "Greece"
-    followers: 7452
-    engagement: 1365
-    commentsToLikes: 0.019964
-    id: ck5qel4vx10bm0i11yd2n2io8
+    followers: 5386
+    engagement: 365
+    commentsToLikes: 0.008081
+    id: ckf5wq8h7svp60j23ghsauqxc
     verified: false
-    hashtags: "#staysafe, #naked, #exercise, #chill"
-  - username: "mollysuberthorpe"
+    hashtags: "#sugimori, #digitalart, #pokemonartists, #tortoise"
+  - username: "persidis_k"
     fullname: >-
-      Molly Suber Thorpe
+      ᴘᴇʀsɪᴅɪs ᴋʏʀɪᴀᴋᴏs 〄
+    bio: >-
+      ғɪʟᴍᴍᴀᴋᴇʀ - ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ ʀᴇᴛᴏᴜᴄʜᴇʀ - ᴅʀᴏɴᴇ ᴏᴘᴇʀᴀᴛᴏʀ Check out my latest video
     location: "Greece"
-    followers: 20275
-    engagement: 251
-    commentsToLikes: 0.033314
-    id: ckap9012vqmuk0i78gkpx65qg
+    followers: 4123
+    engagement: 1955
+    commentsToLikes: 0.105191
+    id: ck6u8k91cs2sc0j71zxqfvpd6
     verified: false
-    hashtags: "#practicesheets, #calligraphyexemplars, #graphicdesign, #typespire"
+    hashtags: "#visualambassadors, #life, #ourmoodydays, #illgrammers"
 ---

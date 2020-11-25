@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top cosmetics Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #cosmetics #lipgloss #eyeshadow.
+  Find top cosmetics Instagram influencers in San Francisco in 2020. Most popular hashtags: #ootd #travel #skincare #healthyskin.
 platform: Instagram
+hits: 9
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
   - username: "sarahjeangirl"
     fullname: >-
       Sarahjeangirl
+    bio: >-
+      💄Beauty blogger from San Francisco! 💌 email for collab requests 💖 check out my codes to save $$$!
     location: "United States"
-    followers: 17664
-    engagement: 347
-    commentsToLikes: 0.245120
+    followers: 17847
+    engagement: 330
+    commentsToLikes: 0.264661
     id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#beautyjunkies, #makeupbrushes, #balayage, #dewymakeup"
-  - username: "tanechkabeautifulady"
+    hashtags: "#gifted, #greenfriday, #purcosmetics, #pinkwednesdaywithtania"
+  - username: "shanberries"
     fullname: >-
-      Tatiana | Long Hair Model
+      Shan Berries
+    bio: >-
+      Founder & CEO @shadesbyshan @mamaberriesfoundation⠀ ⠀ On Air Personality & CAL HI SPORTS TV Host 🌉San Francisco Native 💌 info@shanberries.com
     location: "United States"
-    followers: 45190
-    engagement: 154
-    commentsToLikes: 0.072675
-    id: ck6ua7p2r1zmk0j71un2gnjsr
-    verified: false
-    hashtags: "#sanfrancisco, #princess, #hairfinity, #happybirthday"
-  - username: "cjduronofficial"
+    followers: 26435
+    engagement: 457
+    commentsToLikes: 0.065386
+    id: ck55n2ywl5d1i0i11jie0du71
+    verified: true
+    hashtags: "#preggo, #momblogger, #firstbaby, #pregnancydiary"
+  - username: "dr_kavi_derm"
     fullname: >-
-      CJ Duron
+      Dr. Kaveri Karhade • MD • FAAD
+    bio: >-
+      •DOCTOR• 💓Bay Area’s board-certified dermatologist 💉Specializing in laser, cosmetic, and medical skincare 👇🏼Appts, product recs, terms of use
     location: "United States"
-    followers: 7951
-    engagement: 885
-    commentsToLikes: 0.033733
-    id: ck55kklngzjau0i11hjwk518q
+    followers: 10980
+    engagement: 553
+    commentsToLikes: 0.106244
+    id: ck8t2q4yk0bpr0j78cgjgf3p3
     verified: false
-    hashtags: "#birthdays, #laguna, #tradition, #musicvideos"
+    hashtags: "#neutrogenasuncare, #neutrogenapartner, #glowup, #skincare"
+  - username: "anna.sauce"
+    fullname: >-
+      🌸 Anna Nguyen 🌸
+    bio: >-
+      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
+    location: "United States"
+    followers: 12001
+    engagement: 1398
+    commentsToLikes: 0.023549
+    id: ck14h4yi28jx30i19oye3rns2
+    verified: false
+    hashtags: "#asiangirl, #traveler, #vacation, #california"
+  - username: "lashedbylynelle"
+    fullname: >-
+      TRAINER | 3x LASH ARTIST
+    bio: >-
+      @lynellemuuuhrie OCTOBER BOOKED! 🔜 esthetician 📍bay area - daly city, ca ↓ APPTS | TRAINING | LASH TRAYS ↓
+    location: "United States"
+    followers: 20535
+    engagement: 530
+    commentsToLikes: 0.262846
+    id: ckaoyevsph8760i78gjdgwmp2
+    verified: false
+    hashtags: "#lynelleslashes, #lashboxla, #lashedbylynelle, #sflashes"
   - username: "abby_villaruel"
     fullname: >-
-      Abby Villaruel, BSN CANS
+      Abby Villaruel
+    bio: >-
+      Creator @SireneLaVie @ABYVcosmetics 📸#FHM Covergirl 👩🏻‍⚕️💉Board Certified Master Injector & Director of Aesthetics BEclinical 🌍Angel Rising Magazine
     location: "United States"
-    followers: 170366
-    engagement: 465
-    commentsToLikes: 0.008093
+    followers: 166788
+    engagement: 422
+    commentsToLikes: 0.009036
     id: ckaow1ouq70y10i78qlx5qr78
     verified: false
-    hashtags: "#gratefulheart, #career, #stayinworkout, #makeupguru"
-  - username: "andrea.beautybay"
-    fullname: >-
-      A N D Y | Beauty blogger
-    location: "United States"
-    followers: 4061
-    engagement: 1296
-    commentsToLikes: 0.440008
-    id: ck5zpn5n6syst0i14sjbkmo38
-    verified: false
-    hashtags: "#makeupartists, #makeupparty, #mojecosmo, #maleupaddict"
+    hashtags: "#theminimalists, #healthymakeup, #womensupportingwomen, #instaswim"
   - username: "melu103"
     fullname: >-
       𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+    bio: >-
+      📍❘ 𝙻𝚘𝚜 𝙰𝚗𝚐𝚎𝚕𝚎𝚜⁣ 🌎❘ 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊 🇦🇷⁣ 📧❘ @foreverfitnessla DM for rates ⁣ 💻❘ Social Media Content Creator
     location: "United States"
-    followers: 10003
-    engagement: 545
-    commentsToLikes: 0.166779
+    followers: 9772
+    engagement: 546
+    commentsToLikes: 0.164962
     id: ck6ua4ehe1f2h0j719d0ie3wx
     verified: false
-    hashtags: "#sport, #acne, #fitfam, #papasteves"
-  - username: "carol_kaledzera"
+    hashtags: "#beauty, #skincare, #fashionnova, #instafashion"
+  - username: "j2woo"
     fullname: >-
-      Carol Kaledzera🇲🇼
+      간종우
+    bio: >-
+      🎙 K-pop Singer & Lyricist 🦦 Sr. Web Designer @esteelauder 📸 Instahusband and Traveler 📧 J2woo.ny@gmail.com
     location: "United States"
-    followers: 21299
-    engagement: 199
-    commentsToLikes: 0.082967
-    id: ck13a5aspopcw0i19vipvzx2s
+    followers: 44394
+    engagement: 239
+    commentsToLikes: 0.039571
+    id: ck15tyx8bkl8p0i198hpearqj
     verified: false
-    hashtags: "#lashesbylena, #lenalashes, #hairandmakeup, #makeuptutorial"
-  - username: "luxelife_cb"
+    hashtags: "#photography, #mood, #quarantine, #newyorkcity"
+  - username: "schaebreezy_"
     fullname: >-
-      Candice Bar👑
+      Schae B
+    bio: >-
+      Social Media Content Manager @mayvennhair All things beauty | Getting dressed up 🤍 💄📩: grahamschae@gmail.com 📍SF
     location: "United States"
-    followers: 65039
-    engagement: 10
-    commentsToLikes: 0.111587
-    id: ck6tknpep52cq0j71rhtsvrmb
+    followers: 2505
+    engagement: 1334
+    commentsToLikes: 0.133986
+    id: ck5pyl6xywjwv0i119cdpnaou
     verified: false
-    hashtags: "#getit, #hazeleyes, #afterparty, #female"
-  - username: "carleensart"
+    hashtags: "#makeuptutorial, #makeup, #swipeleft, #lipgloss"
+  - username: "jenndancing"
     fullname: >-
-      ⭐️ KAROLINA ŁACH MAKE-UP 🇵🇱/🇩🇪
+      Jenn Dancer
+    bio: >-
+      Business owner: Qtown Fitness Non For Profit: Dancer Love Foundation 🧡 Jesus Lover Wife to @samdancing Codes 💧Sweat Cosmetics:JENN
     location: "United States"
-    followers: 19278
-    engagement: 1066
-    commentsToLikes: 0.225410
-    id: ck6tuv3g2ilj20j71uogdthod
+    followers: 54142
+    engagement: 380
+    commentsToLikes: 0.063374
+    id: ck5q3rcskm2oy0i11hh9xh5kk
     verified: false
-    hashtags: "#haul, #zostan, #lippen, #giveawaypolska"
-  - username: "reinerrahardja"
-    fullname: >-
-      Reiner Bonifasius Rahardja
-    location: "United States"
-    followers: 110223
-    engagement: 798
-    commentsToLikes: 0.038050
-    id: ck55nbupr5vnb0i1106qomexh
-    verified: true
-    hashtags: "#milenialmelawancorona"
+    hashtags: "#fundraiser, #babystar, #qtownfitness, #birthfit"
 ---

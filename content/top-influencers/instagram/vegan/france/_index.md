@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In France In 2020
 description: >-
-  Find top vegan Instagram influencers in France in 2020. Most popular hashtags: #birthday #veganfood #travel #giveaway.
+  Find top vegan Instagram influencers in France in 2020. Most popular hashtags: #shooting #model #france.
 platform: Instagram
+hits: 501
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 501 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "camicottani"
+  - username: "mireiadelgado"
     fullname: >-
-      🌔 Cami | yoga tutorials
+      Mireia Delgado
+    bio: >-
+      🌿 Vegan & Conscious living 🐮 Passionate about photography, animals & nature 🌞 Live and let live — hellomireiadelgado@gmail.com
     location: "France"
-    followers: 7378
-    engagement: 1481
-    commentsToLikes: 0.124986
-    id: ck5cglknvp36h0i11igvhyy2u
+    followers: 9665
+    engagement: 1346
+    commentsToLikes: 0.093096
+    id: ckap07rj2p42o0i78qn3hpxzw
     verified: false
-    hashtags: "#yogaismytherapy, #yogatime, #yogastretches, #frenchyogi"
+    hashtags: "#cantabria, #vegansofspain"
   - username: "lois.lapetitefleur"
     fullname: >-
       Loïs Petite fleur
+    bio: >-
+      👶🇧🇪🇫🇷🇵🇱🇸🇳 3 yrs old - 108 cm - Paris 🌱#Vegan Zara, Mango, C&A, Jacadi, Catimini, Sergent Major, Natalys, Okaidi, La Halle, Monoprix... Managed by mom
     location: "France"
-    followers: 2867
-    engagement: 2780
-    commentsToLikes: 0.170325
+    followers: 3205
+    engagement: 2302
+    commentsToLikes: 0.149169
     id: ckaovf8wi4cv20i782k068zj0
     verified: false
-    hashtags: "#covid, #3years, #anniversaire, #3ans"
-  - username: "jeannesomewhere"
-    fullname: >-
-      𝓙𝒆𝒂𝒏𝒏𝒆𝓢𝒐𝒎𝒆𝒘𝒉𝒆𝒓𝒆
-    location: "France"
-    followers: 6601
-    engagement: 796
-    commentsToLikes: 0.115998
-    id: ckap1c0jbtxp60i78l4sjvq7r
-    verified: false
-    hashtags: "#selfiegirl, #australie, #bondibeach, #frenchblog"
+    hashtags: "#mixedgirl, #shooting, #mixed, #veganbaby"
   - username: "marie_cornillon"
     fullname: >-
       Marie Cornillon
+    bio: >-
+      🎬 French actress📍Paris 🦔 Vegan 🔹TikTok : mariecornillon 🔸YouTube : Marie Cornillon MY YOUTUBE CHANNEL 💪😉💥⬇️
     location: "France"
-    followers: 130172
-    engagement: 567
-    commentsToLikes: 0.026282
+    followers: 163342
+    engagement: 876
+    commentsToLikes: 0.020928
     id: ck0vzibqr98tz0i193zqept2w
     verified: false
-    hashtags: "#americangirls, #americangirl"
+    hashtags: "#redhead, #ginger, #rousse, #redheadsdoitbetter"
+  - username: "jeannesomewhere"
+    fullname: >-
+      𝑱𝒆𝒂𝒏𝒏𝒆 𝑺𝒐𝒎𝒆𝒘𝒉𝒆𝒓𝒆🕊Vegan &Travel
+    bio: >-
+      VEGAN | LIFESTYLE | TRAVEL Freelance content creator & community manager & blogger👩🏻‍💻 📍Bordeaux 🌿 HAPPY VIBES EVERYDAY
+    location: "France"
+    followers: 8912
+    engagement: 635
+    commentsToLikes: 0.110453
+    id: ckap1c0jbtxp60i78l4sjvq7r
+    verified: false
+    hashtags: "#veganfood, #greece, #beautifuldestinations, #elafonisi"
+  - username: "lisa.palvin"
+    fullname: >-
+      Lisa Palvin
+    bio: >-
+      📍Athens 📸 Model 🌱 Vegan ✉ lisa.g.casting@gmail.com ⬇️ Exclusive content on
+    location: "France"
+    followers: 8515
+    engagement: 970
+    commentsToLikes: 0.044897
+    id: ck6u0n5yignuh0j71hj5aqojx
+    verified: false
+    hashtags: "#sky, #brunette, #sea, #body"
   - username: "addfunandmix"
     fullname: >-
       Daljaa
+    bio: >-
+      Mama de 3 petits humains. Unschooling, vegan, autiste, queer et féministe (dans aucun ordre en particulier 🤘) 👧🏻12 👧🏻8 👦🏻6
     location: "France"
-    followers: 3220
-    engagement: 1251
-    commentsToLikes: 0.135047
+    followers: 3735
+    engagement: 1095
+    commentsToLikes: 0.123081
     id: ck0vzfbu58tzc0i19zfu70qmi
     verified: false
-    hashtags: "#lamouchequipete, #earthday, #jourdelaterre"
-  - username: "helibells"
-    fullname: >-
-      Helena Lester-Card
-    location: "France"
-    followers: 29976
-    engagement: 265
-    commentsToLikes: 0.057330
-    id: ck5budt5uhlez0i11bw5wu3v4
-    verified: false
-    hashtags: "#veganfood, #vintagefashion, #shopsensibly, #veganroastdinner"
-  - username: "giuliaaftergiulia"
-    fullname: >-
-      Giulia Renée 🍒
-    location: "France"
-    followers: 39519
-    engagement: 1057
-    commentsToLikes: 0.008039
-    id: ckaoynvn7iamg0i78b17x6ha2
-    verified: false
-    hashtags: "#quarantinelife, #missmyfamily, #mare, #infinitlove"
-  - username: "chloe_tesla"
-    fullname: >-
-      Chloé Tesla
-    location: "France"
-    followers: 15543
-    engagement: 524
-    commentsToLikes: 0.106430
-    id: ck6tvzv69p7dl0j719s20webe
-    verified: false
-    hashtags: "#zerodechet, #myjob, #working, #philosophy"
+    hashtags: "#addfunphotochallenge"
   - username: "celinehyeo"
     fullname: >-
-      »Céline | VEGAN & LIFESTYLE Ⓥ
+      ▽ Céline | une vie de VEGAN 🦧
+    bio: >-
+      ☾ | Spiritualité ♊️ #veganlifestyle | #ecofashion | #mindfulliving 🎐| eurasienne 🇻🇳🇳🇱 🧠 | Experte & Formatrice Instagram @lecafedigital.fr 📧 | Collab
     location: "France"
-    followers: 11787
-    engagement: 361
-    commentsToLikes: 0.110314
+    followers: 14356
+    engagement: 311
+    commentsToLikes: 0.185280
     id: ck6u7ui5fnpwx0j71jivm620g
     verified: false
-    hashtags: "#pyjama, #giveaway, #tech, #penseedujour"
-  - username: "quentin.emery7"
+    hashtags: "#france, #occitanie, #confinement2, #nicefrance"
+  - username: "missbeetownsend"
     fullname: >-
-      Quentin Emery
+      BEE | VINTAGE TIPS & TRICKS
+    bio: >-
+      📽️ YOUTUBE VIDEOS 👀 🎙️ Music & Vintage Style ♻️ Vegan & Sustainable Living #VintageTipsandTricks
     location: "France"
-    followers: 38099
-    engagement: 255
-    commentsToLikes: 0.040610
-    id: ck5q2l773gkhj0i1157z8qbwn
+    followers: 39682
+    engagement: 345
+    commentsToLikes: 0.028561
+    id: ck5hnsei4ob850i11fektv22q
     verified: false
-    hashtags: "#keepgrinding, #makeup, #buildconfidence, #home"
+    hashtags: "#vintageglamour, #1940sfashion, #fallfashion, #vintagestyle"
+  - username: "camicottani"
+    fullname: >-
+      ☽ Cami | Daily Yoga ☆
+    bio: >-
+      🌱 • yogi végane ☽ wellness 🎥 • Blog www.camicottani.com ॐ • Chaîne YouTube . Je partage des conseils pour tous les niveaux 👍🏻
+    location: "France"
+    followers: 8254
+    engagement: 701
+    commentsToLikes: 0.083974
+    id: ck5cglknvp36h0i11igvhyy2u
+    verified: false
+    hashtags: ""
+  - username: "chloe_tesla"
+    fullname: >-
+      Chloé Tesla
+    bio: >-
+      -TEMPORARY HUMAN- Antispeciesist🐶=🐮=👤 7 yrs vegan🌱 Model for a living🇫🇷 Paris+Marseille+🚐 StraightEdge✖️ Antinatalist🌍 Activist🏴 AWAKE👁 My YouTube ⬇️
+    location: "France"
+    followers: 15848
+    engagement: 462
+    commentsToLikes: 0.085860
+    id: ck6tvzv69p7dl0j719s20webe
+    verified: false
+    hashtags: "#paris, #sustainablefashion, #vegane, #cosmetiquesnaturels"
 ---

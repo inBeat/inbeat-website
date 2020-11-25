@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators TikTok Influencers In United States In 2020
 description: >-
-  Find top illustrators TikTok influencers in United States in 2020. Most popular hashtags: #painting #paint #portrait #vibewithme.
+  Find top illustrators TikTok influencers in United States in 2020. Most popular hashtags: #fyp #drawing #art #artist.
 platform: TikTok
+hits: 82
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 82 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "jeffersonmuncy"
     fullname: >-
       jeffersonmuncy
+    bio: >-
+      Illustrator
     location: "United States"
-    followers: 34983
-    engagement: 2383
-    commentsToLikes: 0.031294
+    followers: 55000
+    engagement: 2148
+    commentsToLikes: 0.020013
     id: ckacwebqxs7co0i78rs4s62su
     verified: false
-    hashtags: "#reference, #onecommunity, #artblock, #greentea"
-  - username: "julietschreckinger"
+    hashtags: "#painting, #illustration, #drawing, #artlessons"
+  - username: "downrightsketchy"
     fullname: >-
-      Juliet
+      downrightsketchy
+    bio: >-
+      Illustrator ✨ You matter, and I care about you. ✨
     location: "United States"
-    followers: 3323
-    engagement: 2496
-    commentsToLikes: 0.070173
-    id: ckafvjv6ff5cr0i78b2op96cs
+    followers: 100800
+    engagement: 2675
+    commentsToLikes: 0.045065
+    id: ckcov7puu90y10j23zhyv9a5v
     verified: false
-    hashtags: "#coloringpages, #shark, #stickers, #mural"
-  - username: "beleves2be"
+    hashtags: "#webtoon, #webcomic, #love, #mha"
+  - username: "jersey.kawaii"
     fullname: >-
-      beleves2be
+      Erika Marie
+    bio: >-
+      Weeb Illustrator Cosplayer Etsy: KUROshiroCreations Venmo: @Erika-Graff
     location: "United States"
-    followers: 29505
-    engagement: 1853
-    commentsToLikes: 0.046187
-    id: ckal65ywt9h8u0i78su1c7a47
+    followers: 29600
+    engagement: 1991
+    commentsToLikes: 0.071072
+    id: ckbexsirgi8gu0j23ucvptzcs
     verified: false
-    hashtags: "#fishing, #wizard, #reliefprint, #illustrator"
+    hashtags: "#weebtiktok, #simp, #animetiktok, #secretanimesociety"
+  - username: "sarbolton"
+    fullname: >-
+      Sar
+    bio: >-
+      27 | Illustrator | Human
+    location: "United States"
+    followers: 51000
+    engagement: 1915
+    commentsToLikes: 0.064219
+    id: ckcehkfjypea90j23w1zrdk9x
+    verified: false
+    hashtags: "#drawing, #halloween2020, #duet, #art"
+  - username: "hazel_cant_tiktok"
+    fullname: >-
+      Mariah Ulrich
+    bio: >-
+      25 | 🇺🇸 | illustrator ✂️ Hazel: remade by me ✂️ 🌐 ulrich-studios.com 🌐
+    location: "United States"
+    followers: 18400
+    engagement: 3112
+    commentsToLikes: 0.051769
+    id: ckbknurp9i1z50j23w9hgng0y
+    verified: false
+    hashtags: "#furryfandom, #fyp, #tiktokartist, #raffle"
+  - username: "dxtrose"
+    fullname: >-
+      Dexter Komakaru
+    bio: >-
+      19 / Illustrator + Content Creator Shop Below ✍🏼 Goal: 10K he/him 🏳️‍🌈
+    location: "United States"
+    followers: 2474
+    engagement: 2976
+    commentsToLikes: 0.063473
+    id: ckan17ut4u87v0i7809yty3rz
+    verified: false
+    hashtags: "#goingpro, #artistsoftiktok, #tiktokdiy, #fyp"
+  - username: "pwuffyshop"
+    fullname: >-
+      Joyce
+    bio: >-
+      💖✨Polymer Clay Artist and Illustrator ✨💖 ⬇️Shop Charms + Stickers⬇️
+    location: "United States"
+    followers: 212100
+    engagement: 1832
+    commentsToLikes: 0.039871
+    id: ckcdvsml3f77k0j23lg52kso7
+    verified: false
+    hashtags: "#amongus, #stickershop, #polymerclay, #polymerclaytutorial"
+  - username: "basuragang"
+    fullname: >-
+      basuragang
+    bio: >-
+      Barbie girl living in a not Barbie world 🥺 kawaii chicana illustrator 💕
+    location: "United States"
+    followers: 32500
+    engagement: 2114
+    commentsToLikes: 0.041947
+    id: ckd6jk880cqj00j23rgxpnjh5
+    verified: false
+    hashtags: "#giveaway, #smallbusinesscheck, #cottagecore, #lesbianearrings"
   - username: "artsy_bre"
     fullname: >-
       artsy_bre
+    bio: >-
+      I’m just an illustrator and animator at MICA.🥵 ✨20✨
     location: "United States"
-    followers: 10903
-    engagement: 2486
-    commentsToLikes: 0.042446
+    followers: 23300
+    engagement: 3063
+    commentsToLikes: 0.039543
     id: ck94hnny3kem70j783faf9wef
     verified: false
-    hashtags: "#gifmaker, #comicstyle, #poedameron, #gothart"
-  - username: "fruitypeeebles"
+    hashtags: "#gouachepainting, #artstudent, #drawing, #illustrator"
+  - username: "julietschreckinger"
     fullname: >-
-      Ella
+      Juliet
+    bio: >-
+      Illustrator / Artist • NYC • Long Island Instagram: @julietschreckinger
     location: "United States"
-    followers: 5977
-    engagement: 1868
-    commentsToLikes: 0.044249
-    id: cka0kfr23mh8q0i78dguk17kf
+    followers: 6272
+    engagement: 2364
+    commentsToLikes: 0.044204
+    id: ckafvjv6ff5cr0i78b2op96cs
     verified: false
-    hashtags: "#myootd, #move, #aestheticedit, #watercolor"
-  - username: "finnythegreat"
-    fullname: >-
-      Finny
-    location: "United States"
-    followers: 36876
-    engagement: 2871
-    commentsToLikes: 0.044268
-    id: ck8niu7qt7d1h0j78uctqwbjm
-    verified: false
-    hashtags: "#bungoustraydogs, #meettheartist, #cleaningszn, #artistsoftiktok"
-  - username: "douby_seide"
-    fullname: >-
-      Douby
-    location: "United States"
-    followers: 12427
-    engagement: 2045
-    commentsToLikes: 0.039063
-    id: ck94hnls3ke3q0j78507pvr3j
-    verified: false
-    hashtags: "#create, #fighter, #goals, #tiktokcreator"
-  - username: "kroseillustration"
-    fullname: >-
-      Kay Rose
-    location: "United States"
-    followers: 47031
-    engagement: 2142
-    commentsToLikes: 0.014548
-    id: ck83yphu1uk820j782raso4i3
-    verified: false
-    hashtags: "#covid19, #iguana, #patreon, #writing"
-  - username: "bloodyusher"
-    fullname: >-
-      🗿Mary Allison🗿
-    location: "United States"
-    followers: 216299
-    engagement: 2697
-    commentsToLikes: 0.009769
-    id: ck81qxbrhkoob0j78ybbckyj6
-    verified: false
-    hashtags: "#rasputin, #photoshop, #flipnote, #drthh"
-  - username: "ishaliart"
-    fullname: >-
-      ishali
-    location: "United States"
-    followers: 39612
-    engagement: 2350
-    commentsToLikes: 0.030893
-    id: cka0qsaoqdwao0i78gvsyvjff
-    verified: false
-    hashtags: "#putafingerdown, #smallgestures, #sketches, #makeover"
+    hashtags: "#art, #fy, #tiktokartist, #dotwork"
 ---

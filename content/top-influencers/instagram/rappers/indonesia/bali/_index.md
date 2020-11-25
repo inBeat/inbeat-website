@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Bali In 2020
 description: >-
-  Find top rappers Instagram influencers in Bali in 2020. Most popular hashtags: #rapper #corona #stayhome #tiktok.
+  Find top rappers Instagram influencers in Bali in 2020. Most popular hashtags: #dirumahaja #indomusikgram #rapper #hiphop.
 platform: Instagram
+hits: 5
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 5 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "rifyalsptr"
     fullname: >-
       RifyalDwiSaputra.
+    bio: >-
+      Semua Kalah Sama Cuek🍄 Cp: 082154blablabla (meki delivery)
     location: "Indonesia"
-    followers: 2238
-    engagement: 1056
-    commentsToLikes: 0.059817
+    followers: 2297
+    engagement: 1190
+    commentsToLikes: 0.037702
     id: ckaosau9tqwae0i78x77oeqkb
     verified: false
-    hashtags: "#matajiwa, #egclaboratory, #lawancorona, #viratalisa"
+    hashtags: "#musik, #indie, #gerombolanwoyoo, #cibodas"
   - username: "p__frozen"
     fullname: >-
       P Frozen
+    bio: >-
+      #Rapper #Beatmaker #Lecturer cp: +62 819-0618-0619 (@chaerul_adjam)
     location: "Indonesia"
     followers: 5419
     engagement: 674
     commentsToLikes: 0.056678
     id: ck5q874xp4ran0i1128mz3bc9
     verified: false
-    hashtags: "#eastcoast, #adidasindonesia, #godzilla, #salusincruce"
-  - username: "kunal_chhabhria"
+    hashtags: "#dpscoast, #rapper, #hiphopbali, #hiphop"
+  - username: "bobbyida"
     fullname: >-
-      Kunal Chhabhria
+      ⏩2Ninefit Indonesia⏪
+    bio: >-
+      Indonesian Fitness Youtuber 🇮🇩 Model / IFBB Athlete / Content Creator ANS Performance Athlete WALKING ON WATER 🌊 MAT 14:22-33 🙏 Bali | Indonesia
     location: "Indonesia"
-    followers: 107605
-    engagement: 2416
-    commentsToLikes: 0.014016
-    id: ck0w4gdiayfqi0i199b457p4e
-    verified: false
-    hashtags: "#punjabi, #fanfest, #love, #iball"
-  - username: "alefunky_gottalent"
-    fullname: >-
-      - A L E  F U N K Y -
-    location: "Indonesia"
-    followers: 16949
-    engagement: 429
-    commentsToLikes: 0.112332
-    id: ck5c1y8apw5vf0i11s872jbgi
-    verified: false
-    hashtags: "#guitar, #guitaris, #stringoflife, #instajam"
+    followers: 258460
+    engagement: 178
+    commentsToLikes: 0.014220
+    id: ck5zkkpwyjno50i14s7rwxzhi
+    verified: true
+    hashtags: "#bodybuilding, #muscle, #biceps, #nature"
   - username: "rudyhamzah_"
     fullname: >-
       𝑅𝓊𝒹𝒾𝒶𝓃𝓉𝒶𝒽𝒶𝓂𝓏𝒶𝒽
+    bio: >-
+      Brand Ambassador @foodpedia.banjarmasin Business • Endorsement • & Others ( Dm Only 📨 ) My Youtube Channel ☟💻
     location: "Indonesia"
-    followers: 20128
-    engagement: 1475
-    commentsToLikes: 0.026662
+    followers: 19351
+    engagement: 1334
+    commentsToLikes: 0.098116
     id: ck5ziwkougib70i14tdh1jucm
     verified: false
-    hashtags: "#rapindonesia, #drakor, #rapper, #infokalsel"
-  - username: "real_anjaroxs"
+    hashtags: "#indovidgram, #banjarmasin, #minangkocak, #banjarmasinbanget"
+  - username: "kumpulan_musikkk"
     fullname: >-
-      ANJAR OX'S
+      cover_music08
+    bio: >-
+      Mau PP murah klik link WA di bawah⬇️ Bantu suport @kumpulan_musikkk Follow akun tiktok ▶️ kumpulan_musikkk
     location: "Indonesia"
-    followers: 72330
-    engagement: 213
-    commentsToLikes: 0.045279
-    id: ck8sx34dcg1ye0j78ta33urmq
+    followers: 40985
+    engagement: 1779
+    commentsToLikes: 0.012116
+    id: ck9wgvxq5v82b0j78mlg6av1l
     verified: false
-    hashtags: "#musician, #elbmgang, #berantakan, #10tahunyanglalu"
-  - username: "dohyon.x1"
+    hashtags: "#viral, #indomusicgram, #musik, #cover"
+  - username: "naety_bop"
     fullname: >-
-      Nam Dohyon 남도현 X1
+      CB
+    bio: >-
+      Cuma sendiri ☝ Nama Fb ituevan naetybop I'm rapper 😎busnies dm 📩 Link channel youtube🙏😇👇 BAWAH LARI KO PACAR 👇
     location: "Indonesia"
-    followers: 95372
-    engagement: 411
-    commentsToLikes: 0.006523
+    followers: 30283
+    engagement: 481
+    commentsToLikes: 0.013364
+    id: ck6uafri23ba50j71egqi4rae
+    verified: false
+    hashtags: "#stellmokoibo"
+  - username: "dohyon.x173"
+    fullname: >-
+      Nam Dohyon 남도현 BAE173 & X1
+    bio: >-
+      —fɑnstɑgrɑm ↪for #BAE173 & #엑스원's maknae,main rapper #남도현↩ ⤴2004.11.10⤵ `Dodo♡ `H&D `X1#엑스원 `MBK Ent. `ONE IT #원잇 `Dwaegaldan🍼 `International, 🇮🇩🇰🇷
+    location: "Indonesia"
+    followers: 84560
+    engagement: 190
+    commentsToLikes: 0.005311
     id: ck0vxbffzy2w50i19ushqhd6c
     verified: false
-    hashtags: "#dongypo"
-  - username: "92_hak_off"
-    fullname: >-
-      Hak O F F I C I A L P A G E
-    location: "Indonesia"
-    followers: 26874
-    engagement: 814
-    commentsToLikes: 0.035701
-    id: ck6udaczcjyk30j71xpih3wh4
-    verified: false
-    hashtags: "#mimnamenak, #miks, #comingsoon, #hak92"
+    hashtags: "#x1, #bae173, #debut, #dohyon"
   - username: "sexygoath"
     fullname: >-
       SEXY GOATH
+    bio: >-
+      Rapper terBAN666SAT @official100music Official Merchandise @kambingliarofficial @highvolumecloth Bizniz Inquiries : @vidieyall BRAZZERZ
     location: "Indonesia"
     followers: 139182
     engagement: 615
     commentsToLikes: 0.016245
     id: ck5zml8rbmrnf0i142uott3ha
     verified: false
-    hashtags: "#tiktok, #ontheway, #anakartis, #bellajanetta"
-  - username: "jeritaufik"
+    hashtags: "#gak, #sexygoath, #dirumahaja, #rockstar"
+  - username: "eckoshowgtown"
     fullname: >-
-      Jeri Taufik Lizam
+      ECKO SHOW [GHCOD]
+    bio: >-
+      🕋 Hamba اللّٰه Pengikut محمد 💡Hanya Rapper Kampung —————————————— 👇🏽New Song “Anjay Gurinjay”
     location: "Indonesia"
-    followers: 64362
-    engagement: 591
-    commentsToLikes: 0.031673
-    id: ck5c8hr2j9id30i11w9ce9tc1
+    followers: 105607
+    engagement: 614
+    commentsToLikes: 0.018817
+    id: ckaot3kphu8300i781gb64loa
     verified: false
-    hashtags: "#jeritaufiklizam, #drama, #sarahkeihl, #bersamakitamampu"
+    hashtags: "#outnow, #realmidrangekiller, #pocox3nfc, #pocorapchallenge"
+  - username: "nalello"
+    fullname: >-
+      nael tjin
+    bio: >-
+      🅰 DJJ - JKT 📍 Producer 🎧 Songwriter 🎼 Rapper 🎤 #asikinbelakanglayar @allgoodmusic.ina @nalello_beat New Song 👇👇👇 ( PIGI PIGI )
+    location: "Indonesia"
+    followers: 5671
+    engagement: 743
+    commentsToLikes: 0.112555
+    id: ck139o4s9ma8p0i19mo5n83ei
+    verified: false
+    hashtags: "#rap, #hotmusic, #allgood, #asikinbelakanglayar"
 ---

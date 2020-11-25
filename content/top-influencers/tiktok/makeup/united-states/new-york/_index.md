@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In New York In 2020
 description: >-
-  Find top makeup TikTok influencers in New York in 2020. Most popular hashtags: #makeup #newyork #inthecrowd #newyorkcity.
+  Find top makeup TikTok influencers in New York in 2020. Most popular hashtags: #foryou #fyp #makeup #newyork.
 platform: TikTok
+hits: 156
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 156 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "cptn_austin"
+  - username: "hyuuncho"
     fullname: >-
-      cptn_austin
+      hyun cho
+    bio: >-
+      your friendly neighbor totohoe follow my insta or I’ll sepukku
     location: "United States"
-    followers: 3007
-    engagement: 985
-    commentsToLikes: 0.053052
-    id: ck9eiwse0zio30j7840gpvtnv
+    followers: 89200
+    engagement: 3015
+    commentsToLikes: 0.024583
+    id: ck83yrukiv5yx0j78vjuxt6fu
     verified: false
-    hashtags: "#cutekitty, #purplerain, #kittenlove, #restaurant"
-  - username: "janiceglimmer"
+    hashtags: "#nyc, #fyp, #korean, #foryou"
+  - username: "papermagazine"
     fullname: >-
-      Janice
+      PAPER Magazine
+    bio: >-
+      BREAK THE INTERNET
     location: "United States"
-    followers: 24323
-    engagement: 1157
-    commentsToLikes: 0.018211
-    id: cka3vg0gyxzzw0i784n1vgs2l
-    verified: false
-    hashtags: "#outfit, #styletips, #keepingactive, #rocknroll"
-  - username: "kristarobertso"
+    followers: 268700
+    engagement: 2323
+    commentsToLikes: 0.011609
+    id: ck9c6wyj7rf5b0j78ethg4hq1
+    verified: true
+    hashtags: "#biden2020, #election, #internetexplorer, #trump"
+  - username: "mikiisanchez00"
     fullname: >-
-      Krista Robertson
+      mikiisanchez
+    bio: >-
+      ✨ M I K A E L A ✨ 20🌸 📍NYC Bailarina 💃🏻 Síganme en INSTAGRAM
     location: "United States"
-    followers: 146210
-    engagement: 1026
-    commentsToLikes: 0.007290
-    id: ck8s9pd6vyt4o0j78cmq9dsif
+    followers: 14100
+    engagement: 528
+    commentsToLikes: 0.013823
+    id: ckb9p76fjk46b0j23auj73ar1
     verified: false
-    hashtags: "#holidaybeat, #eyelashes, #halloween, #stopbullying"
-  - username: "bethanyciotola"
+    hashtags: "#destacame, #quarantine, #ecuador, #foryou"
+  - username: "ialfarog_"
     fullname: >-
-      Bethany Ciotola
+      Inés Alfaro
+    bio: >-
+      Skincare | Makeup | review Latina viviendo en NY ✨
     location: "United States"
-    followers: 162935
-    engagement: 642
-    commentsToLikes: 0.004438
-    id: ck8nbmgs5ahwc0j78iknp3q70
+    followers: 21100
+    engagement: 514
+    commentsToLikes: 0.052641
+    id: ckbfat1nq2ecs0j23v8xned1n
     verified: false
-    hashtags: "#ad, #newyork, #makeup, #fashion"
-  - username: "cnclaughsalot"
+    hashtags: "#beauty, #tips, #fyp, #boxycharm"
+  - username: "soarinwithlaurens"
     fullname: >-
-      Chris and Cyn
+      lauren jenkins
+    bio: >-
+      Flight attendant constantly in wanderlust ✨✈️💕 IG: @laurenannjenkins
     location: "United States"
-    followers: 13927
-    engagement: 364
-    commentsToLikes: 0.027333
-    id: ck9nfaptee7f30j7858ido4ih
+    followers: 7797
+    engagement: 436
+    commentsToLikes: 0.025939
+    id: ckb9ix5sm9pr20j23zp5lgp2v
     verified: false
-    hashtags: "#outdoors, #police, #lifehack, #gokart"
-  - username: "josetty1"
+    hashtags: "#foryou, #cheerleaders, #flightattendantsathome, #cheer"
+  - username: "jadalane_"
     fullname: >-
-      Josetty1
+      jada lane
+    bio: >-
+      dallas yes i’m not ginger
     location: "United States"
-    followers: 35047
-    engagement: 245
-    commentsToLikes: 0.024049
-    id: ck9epncistd760j78uq4e3qc9
+    followers: 19500
+    engagement: 1532
+    commentsToLikes: 0.061590
+    id: ck8oxz7py4t8c0j789fswi4f7
     verified: false
-    hashtags: "#frenchies, #inthecrowd, #couplegoals, #latina"
-  - username: "carlygouldd"
+    hashtags: "#colorcustomizer, #fyp, #timewarpscan, #trending"
+  - username: "diggzyphotos"
     fullname: >-
-      Carly Gould
+      Diggzy
+    bio: >-
+      Celebrity Photographer Add Me on Instagram : @diggzy
     location: "United States"
-    followers: 13550
-    engagement: 985
-    commentsToLikes: 0.075233
-    id: ck9nrfy5m8h4d0j78x91a0ado
+    followers: 30300
+    engagement: 494
+    commentsToLikes: 0.022456
+    id: ck8vtbijefu6p0j78d72on350
     verified: false
-    hashtags: "#skincar, #neverfitin, #smoothiebowl, #pancakecereal"
-  - username: "tus15tv"
+    hashtags: "#kimkardashian, #music, #diggzyphotos, #fyp"
+  - username: "king_meena1"
     fullname: >-
-      tus15tv
+      KingMeena
+    bio: >-
+      nyc 🇵🇸 BLM
     location: "United States"
-    followers: 5162
-    engagement: 1138
-    commentsToLikes: 0.007578
-    id: cka0nadq5ywlp0i78kgi9t9sy
+    followers: 14400
+    engagement: 1665
+    commentsToLikes: 0.062953
+    id: ckdn3467fdq610j23ofzkynur
     verified: false
-    hashtags: "#quinces, #5demayo, #filmmaking, #prom"
-  - username: "tiffanychantell"
+    hashtags: "#muslimtiktok, #viral, #xyzbca, #arab"
+  - username: "kirbylong"
     fullname: >-
-      Tiffany Chantell
+      Kirby Long
+    bio: >-
+      Tik tok has taken over my life TX—>NYC Insta: kirbylong_
     location: "United States"
-    followers: 3537
-    engagement: 250
-    commentsToLikes: 0.016458
-    id: ckaijmjemfo6z0i78du950bka
+    followers: 10700
+    engagement: 341
+    commentsToLikes: 0.014960
+    id: ckb9h3vsk6hh10j23882qv3hg
     verified: false
-    hashtags: "#reallifeathome, #whoa, #beautymode, #fashion"
-  - username: "_kayla.marie1"
+    hashtags: "#couples, #fyp, #foryou, #hubby"
+  - username: "sydbertschy"
     fullname: >-
-      Kayla Marie
+      Sydney Bertschy
+    bio: >-
+      Columbia University Follow my ig @sydbertschy Thank you sm for 10k! Love y’all🤍
     location: "United States"
-    followers: 2790
-    engagement: 920
-    commentsToLikes: 0.042968
-    id: cka89qy4jg60u0i7802ck9820
+    followers: 10400
+    engagement: 1113
+    commentsToLikes: 0.042341
+    id: ckbqu5imvemn00j230aywgrlj
     verified: false
-    hashtags: "#suesylvester, #goingpro, #promdiy, #scoobdance"
+    hashtags: "#foryoupage, #style, #haul, #fall"
 ---

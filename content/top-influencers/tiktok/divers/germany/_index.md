@@ -1,87 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In Germany In 2020
 description: >-
-  Find top divers TikTok influencers in Germany in 2020. Most popular hashtags: #covid19 #editing #fail #throwback.
+  Find top divers TikTok influencers in Germany in 2020. Most popular hashtags: #foryou #fyp #viral #fy.
 platform: TikTok
+hits: 12
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 12 TikTok influencers like this in Germany for you to pitch.
 profiles:
-  - username: "delilaaaaaah"
+  - username: "der.manu"
     fullname: >-
-      Delilah
+      Manu✌🏻
+    bio: >-
+      Daily Posts! High Diver 🇩🇪, Gymnast 🤸🏻‍♂️ ———— Manu✌🏻————
     location: "Germany"
-    followers: 5791
-    engagement: 1231
-    commentsToLikes: 0.064869
-    id: ck9n4xfok66oq0j78i7rxpfdp
+    followers: 84000
+    engagement: 1248
+    commentsToLikes: 0.017376
+    id: ckdsvrrzwq8010j23bq90pgoe
     verified: false
-    hashtags: "#diversity, #shopping, #bernie2020, #johnb"
+    hashtags: "#klippenspringen, #salto, #foryou, #foryoupage"
+  - username: "schoenwild"
+    fullname: >-
+      SchönWild l Selbstliebe ♥️
+    bio: >-
+      MISS GERMANY 2021 Contestant #RespectMySize #FürMehrVielfalt♥️ #PlusSize
+    location: "Germany"
+    followers: 13300
+    engagement: 854
+    commentsToLikes: 0.035359
+    id: ckbf1ti8eo8j50j23w0gpbb8k
+    verified: true
+    hashtags: "#realtalk, #feminismus, #sch, #selbstbewusstwerden"
+  - username: "stanadamforgoodgrades"
+    fullname: >-
+      stanadamforgoodgrades
+    bio: >-
+      "Give up on your dreams and die"
+    location: "Germany"
+    followers: 13000
+    engagement: 2469
+    commentsToLikes: 0.028739
+    id: ckdi8gn5yaxyc0j23si03f8rx
+    verified: false
+    hashtags: "#fy, #foryou, #fyp, #foryoupage"
+  - username: "sheila.wolf"
+    fullname: >-
+      🎼 Sheila Wolf 🎶
+    bio: >-
+      🏳️‍🌈 + ❤️ Familienvater + SHOWGIRL BURLESQUE Producer The Diva in me @TVNOW
+    location: "Germany"
+    followers: 112400
+    engagement: 1098
+    commentsToLikes: 0.033888
+    id: ck8hkkplvebph0j78knoihbyq
+    verified: true
+    hashtags: "#jessicarabbit, #lernenmittiktok, #comedy, #sheilawolf"
+  - username: "hannanordstroem"
+    fullname: >-
+      hanna nordstroem
+    bio: >-
+      swedish🇸🇪 biologist👩🏼‍🔬🧬 Insta: hannanordstroem
+    location: "Germany"
+    followers: 4637
+    engagement: 634
+    commentsToLikes: 0.038047
+    id: ck903e3oxd8oo0j784zzv7i5s
+    verified: false
+    hashtags: "#bikergirl, #motorcycle, #ktm, #sailing"
   - username: "louismast2.0"
     fullname: >-
-      louismast2.0
+      Louis Mast
+    bio: >-
+      My mom says I’m cool, so make sure to follow all accounts
     location: "Germany"
-    followers: 107954
-    engagement: 1540
-    commentsToLikes: 0.007125
+    followers: 122800
+    engagement: 1191
+    commentsToLikes: 0.010217
     id: ck8w2kb2x5jsz0j78aj2lujvd
     verified: false
-    hashtags: "#abfeiern, #maybegay, #upsi, #germany"
-  - username: "missscandinavia"
+    hashtags: "#boy, #freak, #eswirdbunt, #louismastinstagram"
+  - username: "bennetbehnke"
     fullname: >-
-      Rikke Nordström
+      Bennet Behnke
+    bio: >-
+      040 | Instagram: Bennetbehnke —————- Follow me on Instagram ⬇️⬇️⬇️
     location: "Germany"
-    followers: 122479
-    engagement: 574
-    commentsToLikes: 0.021454
-    id: ck9001dfi9srq0j78gnm6xcnv
+    followers: 33000
+    engagement: 1210
+    commentsToLikes: 0.012927
+    id: ckbw73h46yonp0j23ngwulb3l
     verified: false
-    hashtags: "#matching, #balanganbeach, #scubadiving, #editing"
-  - username: "oneteamedia"
-    fullname: >-
-      OneTea Media
-    location: "Germany"
-    followers: 6292
-    engagement: 474
-    commentsToLikes: 0.159118
-    id: cka0lqgp4s43f0i78p345cbvg
-    verified: false
-    hashtags: "#three, #youdidntknow, #travel, #techfacts"
-  - username: "editsstiles"
-    fullname: >-
-      Sina 16 🇩🇪
-    location: "Germany"
-    followers: 4833
-    engagement: 2481
-    commentsToLikes: 0.043660
-    id: ck9c8aq3lsptj0j78yqcu9rrl
-    verified: false
-    hashtags: "#nairobi, #spencerhastings, #teenwolf, #tobycavanaugh"
-  - username: "daviid.48"
-    fullname: >-
-      David
-    location: "Germany"
-    followers: 40269
-    engagement: 1811
-    commentsToLikes: 0.092782
-    id: cka7o88vb0x020i7885i0ukz7
-    verified: false
-    hashtags: "#musically, #lyricchallenge, #fypg, #notforyoupage"
+    hashtags: "#alman, #lustig, #deutsch, #german"
   - username: "sinacliips"
     fullname: >-
       Sina 
+    bio: >-
+      editor :)) 17 yrs 🇩🇪 Karlsruhe @editsstiles
     location: "Germany"
-    followers: 155446
-    engagement: 1877
-    commentsToLikes: 0.027192
+    followers: 158100
+    engagement: 2197
+    commentsToLikes: 0.026952
     id: ck9byi1i5n4c90j7824dfwsw5
     verified: false
-    hashtags: "#elenagilbert, #tiktok, #divergent, #theojames"
-  - username: "statlinesports"
+    hashtags: "#fyp, #edit, #viral, #foryou"
+  - username: "hasibae"
     fullname: >-
-      Statline Sports
+      LionTurtleBae
+    bio: >-
+      Seventeen
     location: "Germany"
-    followers: 150093
-    engagement: 1229
-    commentsToLikes: 0.020925
-    id: ckan5kw2vficf0i784v2zesdf
+    followers: 15300
+    engagement: 2347
+    commentsToLikes: 0.043484
+    id: ckb9r7wisnlxj0j23snvvtnr4
     verified: false
-    hashtags: "#flightreacts, #throwback, #stephcurry, #oubre"
+    hashtags: "#sign, #fyp, #redbulldanceyourstyle, #bracesoff"
+  - username: "verde.simon"
+    fullname: >-
+      🤩SIVE😛
+    bio: >-
+      Facciamoci una risata!!! 🤣🤣🤣 Instagram: verderamesimon
+    location: "Germany"
+    followers: 27300
+    engagement: 393
+    commentsToLikes: 0.017843
+    id: ckbkdlgs63n880j234wrf830e
+    verified: false
+    hashtags: "#ridere, #foryou, #tiktok, #tiktokitaly"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Miami In 2020
 description: >-
-  Find top skincare Instagram influencers in Miami in 2020. Most popular hashtags: #skincare #skincareroutine #miami #haircare.
+  Find top skincare Instagram influencers in Miami in 2020. Most popular hashtags: #skincare #miami #makeup #blogger.
 platform: Instagram
+hits: 136
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 136 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "_rosieromero"
+  - username: "adinabutar"
     fullname: >-
-      Rosie | beauty influencer
+      Adina Butar
+    bio: >-
+      ♈️📍Made in Heaven ❤️ Living in Miami but ✈️touring the 🌍 Create 🎤 Inspire ☀️ Love ❤️💍 @markusschulz @smgbookings @coldharbourrecordings
     location: "United States"
-    followers: 4229
-    engagement: 853
-    commentsToLikes: 0.084660
-    id: ck5hlg7drk5yh0i11hbd2sbnk
+    followers: 25216
+    engagement: 429
+    commentsToLikes: 0.023486
+    id: ck5bzmthurg8a0i11bjfzqj0l
     verified: false
-    hashtags: "#haircare, #veganhaircare, #monat, #hairinfluencer"
-  - username: "iamabbeywilson"
+    hashtags: "#escapetour, #blessed, #escape, #nature"
+  - username: "demiarango_"
     fullname: >-
-      Abbey Wilson
+      Demi Arango
+    bio: >-
+      Entrepreneur | Traveler | Mentor 𝑯𝒆𝒍𝒑𝒊𝒏𝒈 𝒐𝒕𝒉𝒆𝒓𝒔 𝒃𝒖𝒊𝒍𝒅 𝒕𝒉𝒆𝒊𝒓 𝒅𝒓𝒆𝒂𝒎 𝒍𝒊𝒇𝒆 ♡ ⇣ Let me upgrade you
     location: "United States"
-    followers: 35721
-    engagement: 91
-    commentsToLikes: 0.041594
-    id: ck0ty7c63lrq90i1916fkeu5a
+    followers: 17557
+    engagement: 186
+    commentsToLikes: 0.209524
+    id: ckap7p8x3kytm0i7899vfi3th
     verified: false
-    hashtags: "#travel, #luxury, #luxurytravel, #levelstothegame"
-  - username: "danouuz"
+    hashtags: "#reel, #blogger, #healthyliving, #bossbabe"
+  - username: "teresagiudice"
     fullname: >-
-      Danae Pappa
+      TERESA GIUDICE ®
+    bio: >-
+      📺RHONJ @bravotv 📚NY Times Best Selling Author 🧘‍♀️Certified Yogi #Entrepreneur Contact: karianne@appianentertainment.com. ZALO USA Ambassador
     location: "United States"
-    followers: 181901
-    engagement: 1097
-    commentsToLikes: 0.006370
-    id: ck15tvywuk6gg0i19ypwvgv9q
-    verified: false
-    hashtags: "#seasand, #themedbride, #hellomarch, #motivation"
-  - username: "araalnaiem"
+    followers: 2037238
+    engagement: 99
+    commentsToLikes: 0.017086
+    id: ck0tutvzq8n3x0i19524b9qsx
+    verified: true
+    hashtags: "#season11, #audriana, #crunchcup, #rhonj"
+  - username: "selina.negron"
     fullname: >-
-      Ara Alnaiem 🧿♡
+      
+    bio: >-
+      #nolivesmatteruntilblacklivesmatter Dedicated To Healing 🦋 📍Currently: Miami
     location: "United States"
-    followers: 23556
-    engagement: 372
-    commentsToLikes: 0.079792
-    id: ck15rdosa7ezo0i190muzg17k
+    followers: 4311
+    engagement: 1116
+    commentsToLikes: 0.063071
+    id: ck5zwj94u67yr0i14alzwdfqo
     verified: false
-    hashtags: "#doseofdesixkaty, #colourpopme, #glow, #hijab"
-  - username: "realdeanasophia"
+    hashtags: "#miamimodelphotoshoot, #filmphotography, #miamimodelcasting, #curlyhair"
+  - username: "mira.tzur"
     fullname: >-
-      DEANA SOPHIA
+      MIRA TZUR  מירה צור 🇮🇱🇺🇸
+    bio: >-
+      🇫🇷Countess👸Israeli Intelligence™️ *Author of 𝔸𝕟𝕠𝕟𝕪𝕞𝕠𝕦𝕤𝕝𝕪 𝔽𝕒𝕞𝕠𝕦𝕤™️ *Actress*Producer *Entrepreneur*𝕃𝕌 Wellness Founder Ambasador @anonymouslyfamous2020
     location: "United States"
-    followers: 41093
-    engagement: 316
-    commentsToLikes: 0.027132
-    id: ck6tkejim4jmn0j71bsj8b26r
-    verified: false
-    hashtags: "#blissbreak, #redlips, #technogirl, #technodj"
-  - username: "zennnnnnn"
+    followers: 127395
+    engagement: 98
+    commentsToLikes: 0.004245
+    id: ckf5mm070ufqx0j23aqiif4wo
+    verified: true
+    hashtags: "#minerals, #nextstepproducts, #neverforget, #blemishfix"
+  - username: "sophieeturner"
     fullname: >-
-      Z E N
+      Sophie Turner 😻
+    bio: >-
+      NYC 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇺🇸 Model @ BICOASTAL MGMT Business enquiries 📩-sophieturnerbusiness@gmail.com
     location: "United States"
-    followers: 5672
-    engagement: 375
-    commentsToLikes: 0.034840
-    id: ck15sfc71cqct0i19oa0n0398
-    verified: false
-    hashtags: "#emergenyfw, #ad, #temporarypost, #sayso"
+    followers: 949360
+    engagement: 80
+    commentsToLikes: 0.031412
+    id: ck55peatgadjp0i11muime7nn
+    verified: true
+    hashtags: "#gifted, #myfabletics, #fallfashion, #fableticspartner"
   - username: "ffstephenson"
     fullname: >-
       Jonathan Stephenson
+    bio: >-
+      Your Skincare 🔌⁣⁣⁣⁣⁣ Product Reviews ⁣⁣ ⁣ ⁣#Miami Based Skincare Blogger | 26 | Air Force Veteran | GQ Insider | ♑︎ ☉| ♑︎ ☽ | ♈︎ ⇗ |
     location: "United States"
-    followers: 19840
-    engagement: 717
-    commentsToLikes: 0.013082
+    followers: 19320
+    engagement: 632
+    commentsToLikes: 0.013520
     id: ckapahnutw5hb0i785x4otnnv
     verified: false
-    hashtags: "#skincareblog, #friendsarefamily, #skincareproduct, #familypicture"
-  - username: "sobretacos"
+    hashtags: "#poc, #miami, #skincareregime, #mensskincare"
+  - username: "arviv_aesthetics"
     fullname: >-
-      NICOLE | Miami Blogger
+      Arviv Medical Aesthetics
+    bio: >-
+      📍 Miami | Tampa 🩺 Dr. Tali Arviv, MD, Board Certified Internal Medicine, Specializes in Cosmetic Dermatology Click⬇️the link | TEXT📲305.215.5171
     location: "United States"
-    followers: 12171
-    engagement: 888
-    commentsToLikes: 0.050017
-    id: ck14hj20lak550i19nb1q7ie4
+    followers: 29554
+    engagement: 144
+    commentsToLikes: 0.009787
+    id: ck6ubvlrdbyo90j712m64rnr6
     verified: false
-    hashtags: "#stylegram, #lookdamoda, #skingoals, #fashionblogger"
-  - username: "jahairacrystal__"
+    hashtags: "#miami, #filler, #skincare, #botox"
+  - username: "thelovelygeneva"
     fullname: >-
-      JahairaCrystal Choreographer
+      TheLovelyGeneva🇭🇹
+    bio: >-
+      Just here to have fun💋😉 Follow Me & Let’s Connect! 💌 TheLovelyGeneva@gmail.com Click and Subscribe to my #YouTube channel ⤵️
     location: "United States"
-    followers: 7185
-    engagement: 667
-    commentsToLikes: 0.113017
-    id: ck5hdmctso7ns0i11b60qd1i9
+    followers: 2342
+    engagement: 882
+    commentsToLikes: 0.176111
+    id: ck8sxid7ohib80j78poesdl8t
     verified: false
-    hashtags: "#bohemianbraids, #worldwide, #chrisbreezy, #hustle"
-  - username: "la_taliana"
+    hashtags: "#fashionpost, #tbt, #makeupoftheday, #haitianamerican"
+  - username: "blackmelaninmakeup"
     fullname: >-
-      la_taliana
+      BLACK MELANIN MAKEUP N BEAUTY
+    bio: >-
+      Outfit: @blackmelaninfashion 👻SC: beautiesconnect Daily Takeover😘 📧EMAIL/DM FOR PROMO RATES
     location: "United States"
-    followers: 28543
-    engagement: 295
-    commentsToLikes: 0.055338
-    id: ck15rbeaj73nv0i195zmbjacd
+    followers: 96516
+    engagement: 196
+    commentsToLikes: 0.029382
+    id: ck5pw568ql5h30i11r77bq4ic
     verified: false
-    hashtags: "#raiseup, #newyork, #bikerboys, #colors"
+    hashtags: "#darkskinwomen, #halloweenmakeup, #makeupartistsworldwide, #makeupforblackwomen"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema TikTok Influencers In France In 2020
 description: >-
-  Find top cinema TikTok influencers in France in 2020. Most popular hashtags: #cinema #coronavirus #challenge #dance.
+  Find top cinema TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #cinema #humour.
 platform: TikTok
+hits: 46
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat has 46 TikTok influencers like this in France for you to connect with.
 profiles:
-  - username: "cagira"
-    fullname: >-
-      Philou03
-    location: "France"
-    followers: 6116
-    engagement: 1742
-    commentsToLikes: 0.069632
-    id: ck9gnt21txyqm0j78928ftvnz
-    verified: false
-    hashtags: "#aulit, #muamed, #lafoliemeguette, #amour"
-  - username: "allocine"
-    fullname: >-
-      Alloooociney
-    location: "France"
-    followers: 221202
-    engagement: 1704
-    commentsToLikes: 0.011891
-    id: ck999tza7ef2f0j78go481vsk
-    verified: true
-    hashtags: "#ocean, #jour25, #taslaref, #recette"
   - username: "souleymanesurtiktok"
     fullname: >-
       Souleymane Touré
+    bio: >-
+      Souleymane Touré ☺️ Acteur (cinéma et télévision) 📺 Instagram : Souleymane_Lyon
     location: "France"
     followers: 23284
     engagement: 1666
     commentsToLikes: 0.029100
     id: ck9eo54atmiq60j78tucbmmi5
     verified: false
-    hashtags: "#avantmaintenant"
+    hashtags: "#pourtoi, #foryou, #comedie, #humour"
   - username: "cstar"
     fullname: >-
       CSTAR
+    bio: >-
+      La chaîne de la musique, des séries et du cinéma, disponible sur myCANAL
     location: "France"
-    followers: 93806
-    engagement: 934
-    commentsToLikes: 0.014440
+    followers: 182300
+    engagement: 1072
+    commentsToLikes: 0.013676
     id: ckac85tr2f8zu0i785upvpg2i
     verified: true
-    hashtags: "#westernunion, #mwaka, #loladubini, #diams"
+    hashtags: "#cstar, #interview, #pourtoi, #eurockeennes"
+  - username: "allocine"
+    fullname: >-
+      AlloCiné
+    bio: >-
+      Ne restez pas simple spectateur. 🍿 #horaires #trailers #cinema #serie
+    location: "France"
+    followers: 528700
+    engagement: 1465
+    commentsToLikes: 0.006567
+    id: ck999tza7ef2f0j78go481vsk
+    verified: true
+    hashtags: "#fauxraccord, #micheletmichel, #cinema, #pierreniney"
+  - username: "fais_interessant_tiktok"
+    fullname: >-
+      Fais intéressent
+    bio: >-
+      Si vous êtes fans de cinéma cette chaîne est conçu pour vous 🤩
+    location: "France"
+    followers: 5368
+    engagement: 946
+    commentsToLikes: 0.003412
+    id: ckdtk2ukyxn430j23o0iz5pgc
+    verified: false
+    hashtags: "#duo, #pourtoi, #fyp, #foryou"
+  - username: "apuissance2"
+    fullname: >-
+      A puissance 2
+    bio: >-
+      Abonnez-vous sur youtube : A puissance 2 Insta/ fb : a_puissance_2
+    location: "France"
+    followers: 31300
+    engagement: 1748
+    commentsToLikes: 0.017353
+    id: ck9shjf8ntqwn0j78pkxw8qhd
+    verified: false
+    hashtags: "#actors, #prank, #drunk, #music"
+  - username: "yoannroucaud"
+    fullname: >-
+      Yoann Roucaud
+    bio: >-
+      Cascadeur / Freerunner professionnel 🇫🇷 Suivez moi sur Instagram ! ⬆️
+    location: "France"
+    followers: 17200
+    engagement: 1072
+    commentsToLikes: 0.017126
+    id: ckb9imrx093d80j23hu9b17if
+    verified: false
+    hashtags: "#stunt, #parkour, #viral, #foryou"
   - username: "kenji.isidor"
     fullname: >-
       Kenji Isidor
+    bio: >-
+      Étrange humain issu des 90s | Créateur de la série Joshua Parker sur Youtube. 🎥
     location: "France"
-    followers: 2135
-    engagement: 818
-    commentsToLikes: 0.087549
+    followers: 5539
+    engagement: 498
+    commentsToLikes: 0.000000
     id: cka6kv92n0me70i78r1e98xlq
     verified: false
-    hashtags: "#devinecefilm, #bisexual, #50nuancesdegrey, #asmr"
-  - username: "thefilmserie_video_world"
+    hashtags: "#fyp, #pourtoipage, #strange, #foryoupage"
+  - username: "adam.ouchem"
     fullname: >-
-      Filmsériévideo.world
+      Adam Ouchem
+    bio: >-
+      Being crazy isn't enough! FOLLOW MY INSTA- ADAMOUCHEM Brother account-AnisOuchem
     location: "France"
-    followers: 2276
-    engagement: 1254
-    commentsToLikes: 0.051914
-    id: ck9jxlsjt1a160j784pmsxrzf
+    followers: 53700
+    engagement: 2310
+    commentsToLikes: 0.053015
+    id: ckcdpaadwbo9s0j23vvwv5m20
     verified: false
-    hashtags: "#love, #algerie, #wolswogen, #cars"
-  - username: "lolocsh"
+    hashtags: "#dr, #gumball, #pourtoii, #ecole"
+  - username: "gagawellemarie"
     fullname: >-
-      lolocsht
+      Gaëlle MARIE - Off
+    bio: >-
+      #blacklivesmatter #justicepouradama #lgbtq+ #feminism et ts les autres bails!✊🏾
     location: "France"
-    followers: 5199
-    engagement: 1109
-    commentsToLikes: 0.098242
-    id: cka7os6il407b0i788fiuwdeu
+    followers: 83300
+    engagement: 1908
+    commentsToLikes: 0.066402
+    id: ckcvgq41it87z0j23qrjsne27
     verified: false
-    hashtags: "#team80, #galere, #rienamettre, #vieux"
-  - username: "yannis_kingston"
+    hashtags: "#gaellemarie, #971, #humour, #tiktokfrance"
+  - username: "smillez.tok"
     fullname: >-
-      Yannis_kgn
+      ѕмιℓℓєz
+    bio: >-
+      Bienvenue 🤡 La Folie s'installe Je suis un Renoii SOKALII Insta:Youzy.gms
     location: "France"
-    followers: 21839
-    engagement: 1787
-    commentsToLikes: 0.066832
-    id: ckac9jwwlg7o70i78hov6q6mg
+    followers: 128100
+    engagement: 2703
+    commentsToLikes: 0.028126
+    id: ck9eo3wrom76z0j78ly1h80ba
     verified: false
-    hashtags: "#fluoshow, #signeastros, #trompercestmal, #deconfinement"
-  - username: "carolinepinguet"
-    fullname: >-
-      carolinepinguet
-    location: "France"
-    followers: 291456
-    engagement: 2895
-    commentsToLikes: 0.007760
-    id: ck976ujar18vl0j78y7w5wz4p
-    verified: false
-    hashtags: "#anneau, #soutien, #tutorial, #bebe"
-  - username: "romandoduik"
-    fullname: >-
-      Roman Doduik
-    location: "France"
-    followers: 468909
-    engagement: 2463
-    commentsToLikes: 0.011104
-    id: ck9shjai4tpfk0j7817ue23cl
-    verified: false
-    hashtags: "#anniversaire, #livre, #youtubeur, #ouichallenge"
+    hashtags: "#fyp, #twitterday, #foryou, #dessinanim"
 ---

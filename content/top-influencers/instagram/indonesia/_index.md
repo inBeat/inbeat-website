@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top Instagram influencers in Indonesia in 2020. Most popular hashtags: #staysafe #dirumahaja #stayhome #stayhealthy.
+  Find top Instagram influencers in Indonesia in 2020. Most popular hashtags: #ootd #lfl #naturephotography.
 platform: Instagram
+hits: 21573
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 21573 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "wandabadwal"
+  - username: "salsabila09__"
     fullname: >-
-      WANDA BADWAL
+      𝒮𝒶𝓁𝓈𝒶 𝒷𝑒𝓁𝒶 𝓂𝒶𝒾𝓁𝒶𝓃𝒾
+    bio: >-
+      📍 𝒫𝑜𝓃𝓉𝒾𝒶𝓃𝒶𝓀, 𝒦𝒶𝓁𝒾𝓂𝒶𝓃𝓉𝒶𝓃 𝒷𝒶𝓇𝒶𝓉 📌𝐻𝑜𝒷𝒷𝓎 : 𝐹𝒪𝒯𝒪 @aryazlfkr_9 ❤️
     location: "Indonesia"
-    followers: 30350
-    engagement: 362
-    commentsToLikes: 0.049696
-    id: ck14hs02gbu2v0i19pus82mrj
+    followers: 3021
+    engagement: 4134
+    commentsToLikes: 0.195053
+    id: ck8t8vvblm1aa0j78fszotdk9
     verified: false
-    hashtags: "#sanctuary, #conversation, #spirituality, #happygalungan"
-  - username: "gekcahaya"
-    fullname: >-
-      Ida Ayu Cahaya Dewanti
-    location: "Indonesia"
-    followers: 2077
-    engagement: 3322
-    commentsToLikes: 0.136345
-    id: ckap4mz377zjd0i78adyq51kp
-    verified: false
-    hashtags: "#jayaudayana, #studentday2018, #ksatriakosaladharmanegara, #indonesiamakenyem"
+    hashtags: "#hijabindonesia, #ootdhijabstyle, #hijabindotreveller, #hijabindokece"
   - username: "nisaazharii_"
     fullname: >-
-      Nisa L Azhari
+      Nisa J Azhari
+    bio: >-
+      God is really kind.
     location: "Indonesia"
-    followers: 5457
-    engagement: 3317
-    commentsToLikes: 0.230100
+    followers: 5921
+    engagement: 3387
+    commentsToLikes: 0.213111
     id: ck9wh6wkswj8u0j786m9mbv0q
     verified: false
-    hashtags: "#hairstyles, #cool, #kartiniday, #oodt"
+    hashtags: "#makeupkorea, #makeuplooks, #blackpink, #explorebandung"
+  - username: "sandha.sakti"
+    fullname: >-
+      Sandha Sakti | Indonesia
+    bio: >-
+      random feed
+    location: "Indonesia"
+    followers: 6643
+    engagement: 2810
+    commentsToLikes: 0.133762
+    id: ck13cr1jw1quj0i196mq5z0ij
+    verified: false
+    hashtags: ""
   - username: "wimkybnzrr"
     fullname: >-
       𝒘𝒊𝒎𝒌𝒚 𝒃 𝒏𝒂𝒛𝒂𝒓𝒊
+    bio: >-
+      
     location: "Indonesia"
-    followers: 2871
-    engagement: 2923
-    commentsToLikes: 0.214607
+    followers: 3076
+    engagement: 2630
+    commentsToLikes: 0.187015
     id: ckap593lqaq0u0i78fri9gkwi
     verified: false
     hashtags: ""
-  - username: "hilmanfazaldy"
+  - username: "florenciagomezs"
     fullname: >-
-      Hilman Fazaldy Abbas
+      𝐹𝐿𝑂𝑅 ☘︎︎ | traveler & dreamer
+    bio: >-
+      ✨living my life the way I dreamt it ✈︎ travel, photography & ocean enthusiast 🪐36 countries and counting Uruguay born ☀︎︎ Currently in madrid
     location: "Indonesia"
-    followers: 2376
-    engagement: 2745
-    commentsToLikes: 0.129555
-    id: ck6u8ypcpugvy0j71e9u9hxx4
+    followers: 4876
+    engagement: 2484
+    commentsToLikes: 0.273880
+    id: ck0u8riq182lx0i19avaj1a3n
     verified: false
-    hashtags: "#sumba, #gunungbromo, #explorepacitan, #explorelumajang"
-  - username: "aurakrstt"
+    hashtags: "#greece, #indonesia, #islandlife, #traveler"
+  - username: "gavi.an"
     fullname: >-
-      𝔄𝔲𝔯𝔞 𝔎𝔯𝔦𝔰𝔱𝔦 𝔖𝔲𝔧𝔦 𝔓𝔯𝔞𝔥𝔞𝔰𝔱𝔦𝔱𝔦
+      𝓖𝓪𝓿𝓲
+    bio: >-
+      📍𝓦𝓸𝓷𝓸𝓼𝓸𝓫𝓸 🌿 𝓑𝓾𝓴𝓪𝓷 𝓼𝓲𝓪𝓹𝓪-𝓼𝓲𝓪𝓹𝓪, 𝓣𝓪𝓴 𝓹𝓾𝓷𝔂𝓪 𝓪𝓹𝓪-𝓪𝓹𝓪 𝓱𝓪𝓷𝔂𝓪 𝓬𝓪𝓵𝓸𝓷 𝓳𝓮𝓷𝓪𝔃𝓪𝓱
     location: "Indonesia"
-    followers: 2797
-    engagement: 2590
-    commentsToLikes: 0.156929
-    id: ck9wh76dfwkkh0j78ggke3jc6
+    followers: 11566
+    engagement: 2343
+    commentsToLikes: 0.130863
+    id: ck5zikiy8fvqr0i14ndbpqd6e
     verified: false
-    hashtags: "#beautyindo, #stayhealthy, #socialdistancing, #bentukcinta"
-  - username: "sandha.sakti"
-    fullname: >-
-      Sandha Sakti | Boyolali
-    location: "Indonesia"
-    followers: 4972
-    engagement: 2284
-    commentsToLikes: 0.156282
-    id: ck13cr1jw1quj0i196mq5z0ij
-    verified: false
-    hashtags: "#staysafe, #stayactive, #untiltommorow, #dirumahaja"
+    hashtags: "#camp, #indozonetravel, #art, #pebdakiindonesia"
   - username: "jimbo__h"
     fullname: >-
       Jimbo Hall
+    bio: >-
+      WAVE HOUSE MEMBER 👀🌊 1.1 million on TikTok 🥳 email: jimbo@yokemgmt.com
     location: "Indonesia"
-    followers: 26425
-    engagement: 2261
-    commentsToLikes: 0.101644
+    followers: 33053
+    engagement: 1938
+    commentsToLikes: 0.096884
     id: ck8wfpvfog2pr0j780d6w57h6
     verified: false
     hashtags: "#funderm, #selflovefunderm, #ad"
-  - username: "nawa_lieu_kiew"
+  - username: "widyalaaa"
     fullname: >-
-      Muhammad Nawawi
+      Widya Lailatur Rohmania
+    bio: >-
+      🤍17th
     location: "Indonesia"
-    followers: 55203
-    engagement: 2143
-    commentsToLikes: 0.052056
-    id: ck8td05vb1d920j78h3d1ydgn
+    followers: 12158
+    engagement: 1782
+    commentsToLikes: 0.091368
+    id: ck8t5jmtfabzj0j78ntlhkw9j
     verified: false
-    hashtags: "#giveawaydarbuka, #1441h, #semangat, #harikemenangan"
-  - username: "awfa.dikhr"
+    hashtags: "#followers, #widya01, #ootd, #ootdhijab"
+  - username: "dhuhamalik"
     fullname: >-
-      aw🍭
+      Muhammad Dhuha Malik
+    bio: >-
+      F.O @hijrahalajomblo Part Of @bigetronesports CP : 0858-8277-2914 (damar) Business/Endorse : @ytv2477j use (@) PP Story : @bless_management -
     location: "Indonesia"
-    followers: 8046
-    engagement: 1937
-    commentsToLikes: 0.326747
-    id: ck9whwqkcztry0j782oozo3mn
+    followers: 203375
+    engagement: 1655
+    commentsToLikes: 0.080223
+    id: ck6u7qvlqn4u50j71d7v8txip
     verified: false
-    hashtags: "#outfitideas, #hijabtravellers, #hijabootd, #staysafe"
+    hashtags: "#janganlupamuhasabahdiri, #dhuhamalik, #janganlupabersyukur, #janganlupaalkahfi"
+  - username: "yeniynsh"
+    fullname: >-
+      Yeni
+    bio: >-
+      💊Pharmacist 📩DM for endorse/catalog/collab/campaigns ✨Part of Celeb • Time • Dermage • Adr • Mmr • Shr
+    location: "Indonesia"
+    followers: 7179
+    engagement: 1516
+    commentsToLikes: 0.206772
+    id: ck9whwmsrzt8h0j78olx09k9i
+    verified: false
+    hashtags: "#lancarhaid, #nuabee, #chocomory, #hijabhatiadem"
 cities:
   - name: Jakarta
     link: /instagram/indonesia/jakarta

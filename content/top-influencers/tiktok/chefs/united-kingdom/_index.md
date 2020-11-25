@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top chefs TikTok influencers in United Kingdom in 2020. Most popular hashtags: #baking #cooking #recipe #cake.
+  Find top chefs TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #recipe #learnontiktok #food.
 platform: TikTok
+hits: 83
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 83 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
+  - username: "dillow24"
+    fullname: >-
+      Dree
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 FIFER, SINGER, CHEF, MASSAGE THERAPIST PROUD MUM! 💙❤️💙
+    location: "United Kingdom"
+    followers: 9104
+    engagement: 2068
+    commentsToLikes: 0.105086
+    id: ckacs8glt8ykj0i78ch3tavlk
+    verified: false
+    hashtags: "#30s, #funny, #fyp, #scottish"
+  - username: "18keeno82"
+    fullname: >-
+      Keeno
+    bio: >-
+      Thrusting chef 🕺 Don't take me seriously 🤡 #MentalHealthMatters
+    location: "United Kingdom"
+    followers: 106200
+    engagement: 972
+    commentsToLikes: 0.077732
+    id: ckcehppispm120j23tkcwwkle
+    verified: false
+    hashtags: "#lockdown2, #justforfun, #stalker, #athrustadaykeepsthebadvibesaway"
+  - username: "deanstirling"
+    fullname: >-
+      deanstirling
+    bio: >-
+      Snapchat; deanstirling139 Ex chef🔥
+    location: "United Kingdom"
+    followers: 29400
+    engagement: 1567
+    commentsToLikes: 0.022782
+    id: ckck2axo6lnpe0j23vdt9ponr
+    verified: false
+    hashtags: "#foryou"
   - username: "temp_tation"
     fullname: >-
       David Templer
+    bio: >-
+      “Shirtless Chef Boiii” Full recipes on Instagram CEO of loops #TheShirtlessChef
     location: "United Kingdom"
-    followers: 296693
-    engagement: 1291
-    commentsToLikes: 0.020321
+    followers: 372500
+    engagement: 845
+    commentsToLikes: 0.020432
     id: ck81s3qx4prv40j78hsbaomp6
     verified: true
-    hashtags: "#alcohol, #morelitthanfit, #challenge, #tiktokfood"
+    hashtags: "#ukfood, #recipe, #theshirtlesschef, #tempstips"
   - username: "missmpillow"
     fullname: >-
       missMpillow
+    bio: >-
+      🌈 7 personalities by choice Food and Hair #PillowCakes <- bake off Chef
     location: "United Kingdom"
-    followers: 86265
-    engagement: 1553
-    commentsToLikes: 0.014503
+    followers: 85900
+    engagement: 1624
+    commentsToLikes: 0.009933
     id: ck7zofzwcjp6w0j78yop51ye9
     verified: false
-    hashtags: "#transformation, #pokemon, #dreadlocks, #haircolour"
-  - username: "andreahutton4"
+    hashtags: "#foryoupage, #art, #lgbt, #foryou"
+  - username: "thomashinds"
     fullname: >-
-      Andrea Hutton
+      Thomas Hinds
+    bio: >-
+      Positing mainly Xbox game clips 🎮 Biker 🏍 Chef 🥘 Guitar & Lyrics 🎸🎶
     location: "United Kingdom"
-    followers: 8606
-    engagement: 1501
-    commentsToLikes: 0.002257
-    id: ckacs8glt8ykj0i78ch3tavlk
+    followers: 3356
+    engagement: 558
+    commentsToLikes: 0.027308
+    id: ckc3964b3xtw70j23f72ogr7n
     verified: false
-    hashtags: "#favesong, #trueornot, #alcohol, #addiction"
+    hashtags: "#gta5online, #gta5, #hiinds, #fy"
+  - username: "oneminutemeals"
+    fullname: >-
+      OneMinuteMeals
+    bio: >-
+      Pretty much what it says on the tin. Not an actual chef😅 Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+    location: "United Kingdom"
+    followers: 52600
+    engagement: 552
+    commentsToLikes: 0.017221
+    id: ck8adicxu6g6m0j7822lwb6i0
+    verified: false
+    hashtags: "#cooking, #veggie, #asmrsounds, #tiktokuniversity"
+  - username: "poppy_cooks"
+    fullname: >-
+      poppy_cooks
+    bio: >-
+      Michelin-trained chef making cooking EASY FRICKIN’ PEASY 🤤❤️ 📩DM on Instagram
+    location: "United Kingdom"
+    followers: 58600
+    engagement: 821
+    commentsToLikes: 0.018288
+    id: ckcj5ajwr5luj0j23ng6ie7zi
+    verified: false
+    hashtags: "#fyp, #foodie, #chocolate, #whatieatinaday"
   - username: "chef_pillai"
     fullname: >-
       Chef_pillai
+    bio: >-
+      Corporate Chef, Raviz Hotels | BBC MasterChef UK ഇൻസ്റ്റയിൽ ഒന്ന് നോക്കൂട്ടോ..
     location: "United Kingdom"
-    followers: 133580
-    engagement: 724
-    commentsToLikes: 0.005482
+    followers: 205000
+    engagement: 656
+    commentsToLikes: 0.005612
     id: ckaieuwr1tznb0i78vxwdgkpd
     verified: true
-    hashtags: "#mallu, #coronacooking, #baking, #godsownkerala"
+    hashtags: "#tiktokindia, #tiktokchef, #chef, #tiktokfoodie"
   - username: "theocooks"
     fullname: >-
       theomichaels
+    bio: >-
+      Theo Michaels Chef | Dad Instagram @theocooks More vids on YouTube ⬆️ #theocooks
     location: "United Kingdom"
-    followers: 3424
-    engagement: 463
-    commentsToLikes: 0.033741
+    followers: 3335
+    engagement: 435
+    commentsToLikes: 0.027054
     id: ck9dpizxvw48f0j78mmcblkgc
     verified: false
-    hashtags: "#flatbread, #laos, #skiing, #oozy"
-  - username: "deanedwardschef"
-    fullname: >-
-      Dean Edwards
-    location: "United Kingdom"
-    followers: 44615
-    engagement: 760
-    commentsToLikes: 0.028859
-    id: ck81q5p18g5ro0j78280yhk0t
-    verified: false
-    hashtags: "#bakingrecipe, #foodwehate, #garlicbutter, #followme"
-  - username: "execmag"
-    fullname: >-
-      The Executive Mag
-    location: "United Kingdom"
-    followers: 2202
-    engagement: 366
-    commentsToLikes: 0.015566
-    id: cka0lhvtsr1z60i78cvl3jwio
-    verified: false
-    hashtags: "#gourmet, #bentley, #naturelove, #panerai"
-  - username: "mateo.zielonka"
-    fullname: >-
-      Mateo Zielonka
-    location: "United Kingdom"
-    followers: 17346
-    engagement: 157
-    commentsToLikes: 0.004219
-    id: ck8ouio6npr870j781jmabbyt
-    verified: false
-    hashtags: "#food, #satisfyuing, #easyrecipes, #satisfying"
-  - username: "lynnielondon"
-    fullname: >-
-      rita_toth_
-    location: "United Kingdom"
-    followers: 296192
-    engagement: 2364
-    commentsToLikes: 0.015425
-    id: ck8oretapbxyd0j780avku19x
-    verified: false
-    hashtags: "#fashionkids, #socute, #love, #cutie"
-  - username: "theoriginalsoapguy"
-    fullname: >-
-      Ross walker 😉
-    location: "United Kingdom"
-    followers: 5896
-    engagement: 1201
-    commentsToLikes: 0.066261
-    id: cka0zzpq8hp8l0i78o10td7p7
-    verified: false
-    hashtags: "#fypage, #soaked, #guess, #tiktokchef"
+    hashtags: "#theocooks, #foryou, #viral, #fyp"
 ---

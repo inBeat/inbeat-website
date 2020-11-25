@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Izmir In 2020
 description: >-
-  Find top yoga Instagram influencers in Izmir in 2020. Most popular hashtags: #yoga #anne #evdekalt #izmir.
+  Find top yoga Instagram influencers in Izmir in 2020. Most popular hashtags: #yoga #izmir #love #nature.
 platform: Instagram
+hits: 20
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 20 Instagram influencers like this in Izmir, Turkey for you to work with.
 profiles:
-  - username: "cetincetintas"
-    fullname: >-
-      Cetin Cetintas | Yoga
-    location: "Turkey"
-    followers: 276591
-    engagement: 172
-    commentsToLikes: 0.055346
-    id: ck0u6qx1l2ncd0i19hp9sphks
-    verified: false
-    hashtags: "#youtubeyoga, #yoga, #withme, #yogakioo"
-  - username: "nuray_uzunbayir"
-    fullname: >-
-      Nuray Uzunbayir
-    location: "Turkey"
-    followers: 13796
-    engagement: 529
-    commentsToLikes: 0.034062
-    id: ckaoxx96of5c90i78jy8yut6h
-    verified: false
-    hashtags: "#herbal9y, #19may, #esenxc4, #mdemiralpp"
   - username: "iremhpylmz"
     fullname: >-
-      Op. Dr. İrem Hepyılmaz
+      Op. Dr. İrem Hepyılmaz
+    bio: >-
+      🦋Kadın Hastalıkları ve Doğum uzmanı🦋 🌸Genital Estetik🌸 🌼Cinsel Terapist🌼 Özel Karataş Hastanesi❣️ 🚫DM🚫 Randevu: 0(544) 969 61 96 #izmir
     location: "Turkey"
-    followers: 12964
-    engagement: 1239
-    commentsToLikes: 0.028109
+    followers: 15024
+    engagement: 506
+    commentsToLikes: 0.056055
     id: ck8tdk0m63mhs0j78nchv97hs
     verified: false
-    hashtags: "#yoga, #beyourself, #atat, #fikirler"
-  - username: "nazanuysalharzadin"
+    hashtags: "#bal, #izmirkad, #go, #drireminbebekleri"
+  - username: "ilsanise"
     fullname: >-
-      Prof. Dr. Nazan Uysal Harzadın
+      Esin Alpman
+    bio: >-
+      loveyogafamilybooksfriendswinetravelgymnasticschemistryairplanebeercleaneatingdeutschgrandparentsoliveoilscienceseatheaterrunningartcoffeehome
     location: "Turkey"
-    followers: 58587
-    engagement: 264
-    commentsToLikes: 0.046980
-    id: ck14hgn95a8h10i192yt16dq1
+    followers: 19820
+    engagement: 601
+    commentsToLikes: 0.064478
+    id: ck9wfke5np8760j78qy7sgi8e
     verified: false
-    hashtags: "#hayat, #kilokontrol, #bluezone, #magnesium"
-  - username: "melek_.x01"
+    hashtags: "#annelik, #bliss, #esinertu, #nofilter"
+  - username: "busrasanay"
     fullname: >-
-      〰 XATUNEE 〰
+      Büşra Sanay
+    bio: >-
+      📍İstanbul/News Presenter(@cnnturk)-Author @kardesini_dogurmak (Kardeşini Doğurmak)/ UmutÇocukta Yrd/TED Talks👇🏽/ İletişim 📩 sanaybusra@gmail.com
     location: "Turkey"
-    followers: 2230
-    engagement: 1915
-    commentsToLikes: 0.162843
-    id: ck9hb9317fv620j78yog6xid0
+    followers: 52262
+    engagement: 400
+    commentsToLikes: 0.016803
+    id: ck5q03jz342l50i117uuf0dsq
     verified: false
-    hashtags: "#takipplus, #likeforfollow, #evde, #moda"
-  - username: "ozkastamonutv"
+    hashtags: "#yogawithmydog, #deprem, #hamsilipilav, #ek"
+  - username: "nurayuzunbayiryoga"
     fullname: >-
-      Öz Kastamonu Tv
+      Nuray Uzunbayir
+    bio: >-
+      🔹🔹🔹🔹🔹İZMİR🔹🔹🔹🔹🔹 🌈 🔹🔹🔹LİFE STYLE 🔹🔹🔹🌈 🔹Dance 👯‍♀️ Yoga 🧘‍♀️ Pilates 🤸‍♀️🔹
     location: "Turkey"
-    followers: 67274
-    engagement: 749
-    commentsToLikes: 0.058072
-    id: ckaotc48gv9jw0i782fx3zf6e
+    followers: 14210
+    engagement: 447
+    commentsToLikes: 0.063016
+    id: ckaoxx96of5c90i78jy8yut6h
     verified: false
-    hashtags: "#iyigeceler, #komik, #izmir, #karikat"
-  - username: "ilknurozdemir61"
+    hashtags: "#love, #beautiful, #yogaposes, #ootdshare"
+  - username: "yoganikoo"
     fullname: >-
-      İlknur Özdemir
+      Nihan Yönel
+    bio: >-
+      Yoga Instructor and learner 🧘🏽‍♂️🧘🏻‍♀️ RYT 280 🤸🏼‍♂️ Ege University Faculty of Sport Science 🎓 High Jumper🏅
     location: "Turkey"
-    followers: 27223
-    engagement: 374
-    commentsToLikes: 0.153290
-    id: ck8t3cgp12qtl0j78glw4h0kg
+    followers: 2902
+    engagement: 2257
+    commentsToLikes: 0.018051
+    id: ckapc3ywb2ddl0i780qh9katr
     verified: false
-    hashtags: "#mardingezi, #viewforview, #iloveyou, #yazkombinleri"
-  - username: "fitixm"
+    hashtags: "#asana, #yogaeverywhere, #yogalover, #vacation"
+  - username: "utkanso"
     fullname: >-
-      ❗️Sağlıklı Yaşa FİT Kal❗️
+      U t k a n  E Y Ü B O Ğ L U💠
+    bio: >-
+      📙MUSTAFA KEMAL ÜNİVERSİTESİ ANADOLU ÜNİ. 📘İZMİR K.ÇELEBİ ÜNİ. İSTANBUL ÜNİ. 🧘🏻‍♂️PİLATES-BİSİKLET-KOŞU-YÜZME •for Contact:⬇️ utkaneyuboglu@gmail.com
     location: "Turkey"
-    followers: 14646
-    engagement: 545
-    commentsToLikes: 0.107329
-    id: ck8t6nrrxe8la0j780gdobyba
+    followers: 3236
+    engagement: 2679
+    commentsToLikes: 0.037682
+    id: ck6ubf6s697lm0j719vzi1yfm
     verified: false
-    hashtags: "#ipatlamak, #kerevizyeme, #sunum, #yumurta"
-  - username: "aydanuysal"
+    hashtags: "#italy, #milano, #beach, #turkeyday"
+  - username: "gezginyogini"
     fullname: >-
-      Aydan Uysal
+      Burcu Tunca
+    bio: >-
+      E-RYT 200 /RYT 500 Yoga Eğitmeni Hatha /Vinyasa /Yin Yoga 🌿Özel & Online dersler için DM🌿 📌Antalya
     location: "Turkey"
-    followers: 13383
-    engagement: 775
-    commentsToLikes: 0.050339
-    id: ck5catl9ke3sx0i11bdwh9b39
+    followers: 25631
+    engagement: 166
+    commentsToLikes: 0.034412
+    id: ckf5xaj3xuzge0j23eqvisz1o
     verified: false
-    hashtags: "#atamizindeyiz, #happynewyear, #fuckcorona, #aydanshouse"
-  - username: "irmakkaymazz"
+    hashtags: "#olympos, #yogaathome, #yogini, #yogapose"
+  - username: "simy_fit"
     fullname: >-
-      Irmak Kaymaz
+      Simyfit
+    bio: >-
+      Şubelerimiz : Ataşehir/ Etiler 🧘🏼‍♀️antigravity yoga / reformer pilates @tasarimmaskeler Hamak satışı⭐️
     location: "Turkey"
-    followers: 88236
-    engagement: 405
-    commentsToLikes: 0.159703
-    id: ck0w3ruv8uyer0i19zptlto8g
+    followers: 48654
+    engagement: 114
+    commentsToLikes: 0.047349
+    id: ck5hg1uqc0hob0i11ve3m01zt
     verified: false
-    hashtags: "#fitg, #beybipankek, #anne, #protein"
+    hashtags: "#ata, #hamakyogas, #yogahama, #aletlipilates"
+  - username: "gulsahyaprakci"
+    fullname: >-
+      Gülşah Yaprakcı
+    bio: >-
+      Set your soul free... ✌🏻🕊 Oyuncu 👉🏻 takip @gudubetikili 🎬🎭🇹🇷 Tiktok 👉 gulsahyaprakci
+    location: "Turkey"
+    followers: 18651
+    engagement: 409
+    commentsToLikes: 0.063500
+    id: ck8tae5rore7g0j78jq6czvyi
+    verified: false
+    hashtags: "#mutlu, #mumbai, #turkey, #makeup"
+  - username: "xphalitxp"
+    fullname: >-
+      Temizkan_halidd
+    bio: >-
+      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+    location: "Turkey"
+    followers: 10140
+    engagement: 406
+    commentsToLikes: 0.098382
+    id: ckapb2imgybv80i789vnokj18
+    verified: false
+    hashtags: "#dog, #kids, #instalike, #bestoftheday"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Vietnam In 2020
 description: >-
-  Find top Instagram influencers in Vietnam in 2020. Most popular hashtags: #la #200501 #backtochildhood #2020.
+  Find top Instagram influencers in Vietnam in 2020. Most popular hashtags: #coffeelover #hoian #nguyendynasty.
 platform: Instagram
+hits: 18
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 18 Instagram influencers like this in Vietnam for you to pitch.
 profiles:
-  - username: "kend2409"
-    fullname: >-
-      Thanh Phu
-    location: "Vietnam"
-    followers: 5766
-    engagement: 1772
-    commentsToLikes: 0.013988
-    id: ck13a3mi7ogpa0i19qbbxky9v
-    verified: false
-    hashtags: "#snobshots, #ynbclub"
   - username: "monstar_key"
     fullname: >-
       KEY
+    bio: >-
+      
     location: "Vietnam"
-    followers: 164769
-    engagement: 299
-    commentsToLikes: 0.004758
+    followers: 159770
+    engagement: 329
+    commentsToLikes: 0.004527
     id: ck15q18g70m2k0i196vl8ox9u
     verified: true
-    hashtags: "#glitsyapp, #teamkey, #glitsyappvn, #adidasoriginals"
+    hashtags: ""
   - username: "_dieu._.anh"
     fullname: >-
-      Đoàn Triệu Diệu Anh
+      Đoàn Triệu Diệu Anh
+    bio: >-
+      🇻🇳 18 02/01/01 @prvd_anh
     location: "Vietnam"
-    followers: 154389
-    engagement: 192
-    commentsToLikes: 0.009095
+    followers: 222811
+    engagement: 223
+    commentsToLikes: 0.006398
     id: ck0tv40nd9u6q0i19d92mdd97
     verified: false
-    hashtags: "#senka, #perfectuvessence, #checkinwithsenka, #tranghongchuannhat"
+    hashtags: "#yakultsorithanhlong, #crushquocdan, #danielwellington, #dwinvn"
+  - username: "truonghoang.maianh"
+    fullname: >-
+      Trương Hoàng Mai Anh
+    bio: >-
+      🇻🇳 Always be confident in yourself 📬 truonghoangmaianh@gmail.com Facebook: Trương Hoàng Mai Anh Tiktok: truoghoagmaianh 🎥 Youtube: Mai Anh đến đây!
+    location: "Vietnam"
+    followers: 463319
+    engagement: 205
+    commentsToLikes: 0.005282
+    id: ck14je2iljv0o0i19bzh8ktq9
+    verified: true
+    hashtags: "#galaxynote20, #ngontinhhoanmy, #topshopvn, #comingsoon"
   - username: "lemaihang"
     fullname: >-
       Lê Mai Hằng
+    bio: >-
+      23 | 🇻🇳 WELCOME TO THE LMH’s WORLD 🌏✨ Fashion & Girl Empowerment Influencer 🦋 @lemaihang.artworks @otb.event 💦 CHECK OUT MY VLOG 👇🏻
     location: "Vietnam"
-    followers: 17939
-    engagement: 671
-    commentsToLikes: 0.006526
+    followers: 23145
+    engagement: 575
+    commentsToLikes: 0.008198
     id: ck0w0inyseeav0i19l8oa2r3o
     verified: false
-    hashtags: "#inspirationalquotes, #dailymotivation, #sisters, #siblinggoals"
-  - username: "hani.news"
-    fullname: >-
-      EXID Hani's  (안하니) VIETNAM🌹
-    location: "Vietnam"
-    followers: 76202
-    engagement: 179
-    commentsToLikes: 0.001642
-    id: ck15tjzdvigqx0i19sm8ljs5p
-    verified: false
-    hashtags: "#200501, #hyelin, #leggo, #happy"
-  - username: "truonghoang.maianh"
-    fullname: >-
-      Trương Hoàng Mai Anh
-    location: "Vietnam"
-    followers: 439237
-    engagement: 348
-    commentsToLikes: 0.004402
-    id: ck14je2iljv0o0i19bzh8ktq9
-    verified: true
-    hashtags: "#sayohyeah, #tiktok, #backtochildhood"
+    hashtags: "#stillproud, #beyou, #worseangle, #lmh09"
   - username: "baoanh0309"
     fullname: >-
       Nguyễn Hoài Bảo Anh
+    bio: >-
+      • Singer, Vietnam 🇻🇳 • ®️FB: @BaoAnhOfficial
     location: "Vietnam"
-    followers: 2063508
-    engagement: 122
-    commentsToLikes: 0.004199
+    followers: 2099434
+    engagement: 131
+    commentsToLikes: 0.003421
     id: ck13a6fawoudp0i19304logdw
     verified: true
-    hashtags: "#2020, #guccisunglasses, #baoanh, #tho"
+    hashtags: "#sixsenseninhvanbay, #baoanh, #privitebeach, #tophill"
   - username: "noemiepariss"
     fullname: >-
-      🦋 PARIS NOÉMIE BẢO NHI 🦋
+      PARIS NOÉMIE BẢO NHI
+    bio: >-
+      MIE 📧 noemie@travelmag.vn 📞 0762 599995 (Lisa)
     location: "Vietnam"
-    followers: 5991
-    engagement: 506
-    commentsToLikes: 0.004317
+    followers: 7541
+    engagement: 318
+    commentsToLikes: 0.009251
     id: ck0tv42uj9ugq0i19hbsf2798
     verified: false
-    hashtags: "#lesbutbetter, #ninmie"
+    hashtags: ""
   - username: "thekrischris"
     fullname: >-
       Kristen Christopher
+    bio: >-
+      >>happy hapa<< 🇻🇳
     location: "Vietnam"
-    followers: 8868
-    engagement: 714
-    commentsToLikes: 0.057264
+    followers: 8975
+    engagement: 689
+    commentsToLikes: 0.056648
     id: ck0u8ricl82jf0i19wvpxv8hz
     verified: false
-    hashtags: "#saggitarius, #jokesonyou, #lovesummerhateeverythingelse"
-  - username: "k_gasp"
+    hashtags: "#jokesonyou, #lovesummerhateeverythingelse, #blackouttuesday"
+  - username: "macchiato.mile"
     fullname: >-
-      Myle' | ガspk
+      Ｍｉｌｅ |  マイル
+    bio: >-
+      Work 📧 macchiato.mile@gmail.com Artist | Designer • 🇻🇳 | 16 ♡ Nov 18th • Tiếng Việt | English COMMISSION CLOSED
     location: "Vietnam"
-    followers: 34545
-    engagement: 1212
-    commentsToLikes: 0.003911
+    followers: 43863
+    engagement: 1083
+    commentsToLikes: 0.003700
     id: ck0tz098xomcr0i19ynw8iucu
     verified: false
-    hashtags: "#illustration, #vent, #wip, #collab"
+    hashtags: "#vent, #sailormoonredraw, #arthurappreciationmonth, #watercolor"
+  - username: "soaipham"
+    fullname: >-
+      Soái Phạm Văn Vũ | Vietnam 🔵
+    bio: >-
+      🇻🇳 Travel & hospitality content creator | Published in @cntraveler - @culturetrip - @vietnamtourismboard - @passionpassport | 💌 vu.phamvan@gmail.com
+    location: "Vietnam"
+    followers: 29961
+    engagement: 331
+    commentsToLikes: 0.025904
+    id: ck0vwbncysz000i19kvxc0y9j
+    verified: false
+    hashtags: "#hoian, #imisstravelling, #capturedwithemtec, #huecity"
+  - username: "foodholicvn"
+    fullname: >-
+      Ăn Hết Thế Giới
+    bio: >-
+      🇻🇳 Có tình yêu mãnh liệt với đồ ăn. #️⃣ #foodholicvn 🇹🇼 #foodholicvntw 🇹🇭 #foodholicvnthailand 📩For Work: foodholicvietnam@gmail.com
+    location: "Vietnam"
+    followers: 65660
+    engagement: 196
+    commentsToLikes: 0.023708
+    id: ck0tw3xymdx0n0i19xo2sybld
+    verified: false
+    hashtags: "#odaucungchup, #coffee, #coffeelover, #foodholicvnquan1"
 ---

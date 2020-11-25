@@ -1,87 +1,130 @@
 ---
 title: Top 10 Mma Fighters TikTok Influencers In 2020
 description: >-
-  Find top mma fighters TikTok influencers in 2020. Most popular hashtags: #dogsoftiktok #fitness #leavingmybody #wrestling.
+  Find top mma fighters TikTok influencers in 2020. Most popular hashtags: #fyp #mma #foryou #foryoupage.
 platform: TikTok
+hits: 18
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 18 TikTok influencers like this for you to pitch.
 profiles:
+  - username: "mmamyers"
+    fullname: >-
+      Michael Myers
+    bio: >-
+      MMA Fighter/FF age 24 Hawkage/UchYeeHaw Some 18+content road to 100k🙏🏾
+    location: "United States"
+    followers: 75300
+    engagement: 2473
+    commentsToLikes: 0.137683
+    id: ckb9vfgxduqdf0j23r3h7266j
+    verified: false
+    hashtags: "#dragonball, #lol, #mha, #haikyuu"
   - username: "mr.spyda"
     fullname: >-
       Mr Keys
+    bio: >-
+      TV Personality | Pro Boxer/MMA Fighter | Marvel Stuntman The Real Spider Man
     location: "United States"
-    followers: 3603
-    engagement: 1534
-    commentsToLikes: 0.055046
+    followers: 3653
+    engagement: 1448
+    commentsToLikes: 0.048171
     id: ck8hqbh773cd70j78zm0g5p5t
     verified: false
-    hashtags: "#marveluniverselivestuntman, #panamanianvision, #normalisboring, #rollthatbeautifulbeanfootage"
-  - username: "kingbamm0414"
+    hashtags: "#duet, #foryoupage, #fyp, #beanfetish"
+  - username: "bearfiorda"
     fullname: >-
-      user5714620775921
+      Jarred Fiorda
+    bio: >-
+      Tkd 2nd D blk blt 🥋 MMA Fighter 🥊 Gym Owner 🏋️ All social @BearFiorda 🐻
     location: "United States"
-    followers: 2917
-    engagement: 803
-    commentsToLikes: 0.040682
-    id: ckac3trhuc0k10i780tcsnqjg
+    followers: 334700
+    engagement: 1272
+    commentsToLikes: 0.017435
+    id: ckbqns5yt8mnp0j23psaqau7h
     verified: false
-    hashtags: "#nightroutine, #drakechallenge, #tigerprowl, #weworkin"
-  - username: "trendkings"
-    fullname: >-
-      Eric Grant
-    location: "United States"
-    followers: 108882
-    engagement: 603
-    commentsToLikes: 0.077016
-    id: ck8ttlhavrzmm0j78nk3f83sp
-    verified: false
-    hashtags: "#kids, #pullup, #healthheroes, #magic"
-  - username: "timmyflash"
-    fullname: >-
-      Timmyflash
-    location: "Australia"
-    followers: 60019
-    engagement: 1591
-    commentsToLikes: 0.017771
-    id: ckal65aoq9b9j0i78wkzmg09c
-    verified: false
-    hashtags: "#harrypotter, #twins, #outback, #foryourpage"
-  - username: "jayde_sheeley"
-    fullname: >-
-      jayde_sheeley
-    location: "United States"
-    followers: 193096
-    engagement: 830
-    commentsToLikes: 0.014608
-    id: cka6acwumvx4i0i78g4t6i9z8
-    verified: false
-    hashtags: "#howboutnow, #transfomation, #kardashians, #motivation"
-  - username: "theassassin_mma"
-    fullname: >-
-      Shimon Smotritsky
-    location: ""
-    followers: 2596
-    engagement: 410
-    commentsToLikes: 0.036867
-    id: ckamvxy1b5yfg0i78g04s29xz
-    verified: false
-    hashtags: "#throw, #ufcvideo, #kicks, #push"
+    hashtags: "#beinspired, #walking, #movember2020, #welldone"
   - username: "alyseanderson21"
     fullname: >-
       Alyse Anderson
+    bio: >-
+      Pro MMA Fighter 👊🏼 Frenchie lover 🐶 Motocross #284 🤘🏼
     location: "United States"
-    followers: 15231
-    engagement: 380
-    commentsToLikes: 0.008638
+    followers: 118000
+    engagement: 1031
+    commentsToLikes: 0.019774
     id: ck92y92so1zya0j78m71n9oi7
     verified: false
-    hashtags: "#bulldogs, #leavingmybody, #workout, #dogdiaries"
-  - username: "thechefchapa"
+    hashtags: "#fyp, #raccoonsoftiktok, #mma, #frenchie"
+  - username: "jayde.raquel"
     fullname: >-
-      Dimas Chapa
+      Jayde
+    bio: >-
+      MMA fighter👊🏼 Ohio📍
     location: "United States"
-    followers: 21759
-    engagement: 905
-    commentsToLikes: 0.010975
-    id: ck81sak2xr8y80j788dp1utcc
+    followers: 219700
+    engagement: 1021
+    commentsToLikes: 0.017318
+    id: cka6acwumvx4i0i78g4t6i9z8
     verified: false
-    hashtags: "#dessert, #christmas, #date, #finedining"
+    hashtags: "#athlete, #ohio, #mma, #fyp"
+  - username: "kingbamm0414"
+    fullname: >-
+      user5714620775921
+    bio: >-
+      Certified Wellness Trainer Pro MMA Fighter IG - @2Cocky2CareOnGod
+    location: "United States"
+    followers: 3296
+    engagement: 895
+    commentsToLikes: 0.032894
+    id: ckac3trhuc0k10i780tcsnqjg
+    verified: false
+    hashtags: "#stayhomestaystrong, #fyp, #explorepage, #fypchallenge"
+  - username: "prophetmuscle"
+    fullname: >-
+      Help Prophet Muscle
+    bio: >-
+      MMA Fighter/Boxer. I'll continue the legacy of my father Roger Mayweather
+    location: "United States"
+    followers: 151800
+    engagement: 1089
+    commentsToLikes: 0.014756
+    id: cka0pa5tw7ena0i780ous8uur
+    verified: false
+    hashtags: "#prank, #lebronjames, #foryou, #mma"
+  - username: "chelseakyann"
+    fullname: >-
+      ChelseaKyann
+    bio: >-
+      Professional MMA Fighter Self defense tips 👊🏻 training@chelseakyann.com 📧
+    location: "United States"
+    followers: 275700
+    engagement: 1214
+    commentsToLikes: 0.010286
+    id: ckbwaudrd0ahu0j23pnzujres
+    verified: false
+    hashtags: "#jiujitsu, #safetytips, #fyp, #selfdefensetoolsforwomen"
+  - username: "timmyflash"
+    fullname: >-
+      Timmyflash
+    bio: >-
+      Insta timrogersmma Pro mma fighter Enjoy making people laugh
+    location: "Australia"
+    followers: 60000
+    engagement: 1525
+    commentsToLikes: 0.021052
+    id: ckal65aoq9b9j0i78wkzmg09c
+    verified: false
+    hashtags: "#australia, #foryoupage, #viral, #bathtime"
+  - username: "01koda"
+    fullname: >-
+      01koda
+    bio: >-
+      🇦🇺 A CITY Archived all my vids.. NINETEEN YEAR OLD MMA FIGHTER..
+    location: "Australia"
+    followers: 77100
+    engagement: 632
+    commentsToLikes: 0.025157
+    id: ck807bgp3pkv70j78ysozoj51
+    verified: false
+    hashtags: "#xyzbca, #fy, #fyp, #foryoupage"
 ---

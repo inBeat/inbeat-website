@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Kyoto In 2020
 description: >-
-  Find top TikTok influencers in Kyoto in 2020. Most popular hashtags: #kyoto #tiktok #thisisjapan #tokyo.
+  Find top TikTok influencers in Kyoto in 2020. Most popular hashtags: #tiktok #kyoto #japan #tiktoktravel.
 platform: TikTok
+hits: 14
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 14 TikTok influencers like this in Kyoto, Japan for you to work with.
 profiles:
-  - username: "ai_amatou"
+  - username: "chibi.tanpopo"
     fullname: >-
-      ai_mahalo🌺
+      🇻🇳🇯🇵smile_ko - ̗̀ ♡  ̖́-
+    bio: >-
+      🇻🇳❤Phú thọ <=> kyoto❤️🇯🇵 自分らしく꒰⌯͒•·̫•⌯͒꒱今を生きる◡̈*.。
     location: "Japan"
-    followers: 87371
-    engagement: 547
-    commentsToLikes: 0.007440
-    id: ck8kfen5hdu200j783d3f2obo
+    followers: 18200
+    engagement: 698
+    commentsToLikes: 0.182146
+    id: ckd6aelph4ea70j2389rd1dy4
     verified: false
-    hashtags: "#japan, #valentinesday, #valentine, #omurice"
+    hashtags: "#gocnhocuatui, #kyoto, #kaigo, #dethuong"
+  - username: "shiho_zekkei"
+    fullname: >-
+      Shiho✈︎世界の絶景
+    bio: >-
+      Shiho(詩歩) / Kyoto 🇯🇵 ✈️Traveling 60 countries 📸 旅する仕事です🌏 Youtube&Instagram👇
+    location: "Japan"
+    followers: 228400
+    engagement: 667
+    commentsToLikes: 0.017134
+    id: ckbf7f062x8me0j234ips052u
+    verified: true
+    hashtags: "#japan, #tiktok, #kyoto, #weatheringwithyou"
+  - username: "syk_0812"
+    fullname: >-
+      syk
+    bio: >-
+      Kyoto'21 civic
+    location: "Japan"
+    followers: 2400
+    engagement: 360
+    commentsToLikes: 0.040697
+    id: ckb94rzdcmei50j230t26low6
+    verified: false
+    hashtags: "#civic, #honda, #tiktok, #eg6"
+  - username: "hibiyan221"
+    fullname: >-
+      大槻ひびき♡
+    bio: >-
+      大槻ひびきです😊こんにちは❤️ ツイッター、インスタやってます🌟 フォローしてね❣️
+    location: "Japan"
+    followers: 90100
+    engagement: 430
+    commentsToLikes: 0.020753
+    id: ckc1ze75z33me0j23lta8744g
+    verified: false
+    hashtags: "#hair, #45, #japan, #tiktok"
   - username: "kaei_japan"
     fullname: >-
       kaei_japan
+    bio: >-
+      Life in Japan http://instagram.com/kaei_japan
     location: "Japan"
-    followers: 24320
-    engagement: 246
-    commentsToLikes: 0.009575
+    followers: 24100
+    engagement: 250
+    commentsToLikes: 0.009479
     id: cka6bzzuw2b1h0i787cqdoz4w
     verified: false
-    hashtags: "#beautifulgirl, #foodlover, #tiktock, #tiktoksea"
-  - username: "rankororin"
+    hashtags: "#funnyanimals, #food, #crazyjapan, #cool"
+  - username: "paprikaaaaaaaa_"
     fullname: >-
-      ❀蘭子❀
+      Paprika
+    bio: >-
+      She/her 🇯🇵🇦🇺 yup
     location: "Japan"
-    followers: 91700
-    engagement: 193
-    commentsToLikes: 0.028522
-    id: ck8kfezwcdwlj0j78v9k8kx4o
+    followers: 6573
+    engagement: 1984
+    commentsToLikes: 0.018135
+    id: ckcdwso4kfuln0j23tgfc801n
     verified: false
-    hashtags: "#kyoto, #relux, #somebody, #maiko"
-  - username: "chimu__chimu"
+    hashtags: "#japan, #studioghibli, #osaka, #anime"
+  - username: "lapinthe3rd"
     fullname: >-
-      ちむ@Disney
+      llaappiinn
+    bio: >-
+      地球6周🌏67カ国 旅好きな船の料理人🛳 A PICTURE IS WORTH OF A THOUSAND WORDS 🏞 彼女との旅や日常
     location: "Japan"
-    followers: 3512
-    engagement: 621
-    commentsToLikes: 0.038620
-    id: ck8kfetfbdvmc0j787romlxpg
+    followers: 4069
+    engagement: 303
+    commentsToLikes: 0.104534
+    id: ckbkthrzmoj1h0j230v0u4ym1
     verified: false
-    hashtags: "#tokyo, #coronavirus, #tokyodisnyland, #christmas"
-  - username: "2150870069"
-    fullname: >-
-      akino
-    location: "Japan"
-    followers: 5817
-    engagement: 323
-    commentsToLikes: 0.044841
-    id: ck8kfepncduma0j78jaifzb3t
-    verified: false
-    hashtags: "#vacationswitch, #kyoto, #tiktok"
+    hashtags: "#tiktoktravel, #stayhome, #japantravel, #chile"
   - username: "uekan2b"
     fullname: >-
       うえかん
+    bio: >-
+      👤18歳 . インスタとYouTubeも覗いて〜
     location: "Japan"
-    followers: 43719
-    engagement: 619
-    commentsToLikes: 0.021593
+    followers: 43600
+    engagement: 605
+    commentsToLikes: 0.019306
     id: ck9f22xxwbbcs0j78x237ieoo
     verified: false
-    hashtags: "#goprohero7, #perfectloop, #jump, #2019"
-  - username: "sora_orb"
+    hashtags: "#gopro, #loopchallenge, #vlog, #singapore"
+  - username: "chimu__chimu"
     fullname: >-
-      宙（SORA）
+      ちむ@Disney垢
+    bio: >-
+      ☞ディズニー好きの大学生🐭 ☞ツイステの推し：エペルくん ☞次回インパ予定：12/8陸 気軽にフォローしてください♪
     location: "Japan"
-    followers: 414696
-    engagement: 913
-    commentsToLikes: 0.010892
-    id: ck8tm8abde9520j787aacnvti
+    followers: 5017
+    engagement: 619
+    commentsToLikes: 0.020437
+    id: ck8kfetfbdvmc0j787romlxpg
     verified: false
-    hashtags: "#digitz, #yesorno, #halloween, #characterselect"
-  - username: "seth_apocalypse"
+    hashtags: "#tiktok, #japan, #disney, #tokyodisneysea"
+  - username: "2150870069"
     fullname: >-
-      Seth Apocalypse
+      akino
+    bio: >-
+      思い出tiktok☀️🌈
     location: "Japan"
-    followers: 41582
-    engagement: 1703
-    commentsToLikes: 0.011650
-    id: ck8z19ymw0ten0j78snc4llu0
+    followers: 5945
+    engagement: 718
+    commentsToLikes: 0.004836
+    id: ck8kfepncduma0j78jaifzb3t
     verified: false
-    hashtags: "#korean, #couplegoals, #lgbt, #aotccosplay"
-  - username: "ted.mika"
-    fullname: >-
-      Theodore Miller
-    location: "Japan"
-    followers: 35070
-    engagement: 311
-    commentsToLikes: 0.015228
-    id: cka0q6fvsbhyl0i78jdlass8z
-    verified: false
-    hashtags: "#geisha, #couplegoals, #onananachallenge, #boredinthehouse"
-  - username: "atk_58188"
-    fullname: >-
-      あつき
-    location: "Japan"
-    followers: 6234
-    engagement: 221
-    commentsToLikes: 0.058059
-    id: ck8kfercldv7k0j78b8xzvd8i
-    verified: false
-    hashtags: "#tiktoktravel, #tiktok, #thisisjapan, #kyoto"
+    hashtags: "#kyoto, #tiktok, #vacationswitch"
 ---

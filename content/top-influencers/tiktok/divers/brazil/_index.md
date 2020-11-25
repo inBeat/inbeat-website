@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In Brazil In 2020
 description: >-
-  Find top divers TikTok influencers in Brazil in 2020. Most popular hashtags: #juntosvamosvencer #musica #com #amigos.
+  Find top divers TikTok influencers in Brazil in 2020. Most popular hashtags: #dueto #foryou #fyp #fy.
 platform: TikTok
+hits: 267
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 267 TikTok influencers like this in Brazil for you to work with.
 profiles:
-  - username: "fresh.princess_"
+  - username: "gilson0070"
     fullname: >-
-      ✨ Z I Y A ✨
+      GiL🕺☄️
+    bio: >-
+      Deus na frente de tudo diversão alegria com senhor jesus Cristo no ❤️💙🙌 💥🙌
     location: "Brazil"
-    followers: 35362
-    engagement: 2106
-    commentsToLikes: 0.039379
-    id: ck9fiia5haytm0j78sr7s9zgn
+    followers: 2442
+    engagement: 2936
+    commentsToLikes: 0.554991
+    id: ckc8vecb7i8fc0j2327oym7vj
     verified: false
-    hashtags: "#juntosvamosvencer, #duet"
-  - username: "universo.diverso"
+    hashtags: "#tiktok, #dueto, #chaves, #humor"
+  - username: "claicepires"
     fullname: >-
-      𝕿𝖚𝖒𝖇𝖑𝖗 𝖌𝖎𝖗l
+      Claice Pires /diversão
+    bio: >-
+      mulher, mãe, enfermeira, casada e feliz! tiktok é diversão 🤣
     location: "Brazil"
-    followers: 4310
-    engagement: 1446
-    commentsToLikes: 0.078289
-    id: ck9a653i71qkd0j782w3674hj
+    followers: 3730
+    engagement: 2437
+    commentsToLikes: 0.326154
+    id: ckcvheywmu4z40j2339t4fdxw
     verified: false
-    hashtags: "#inseparave, #altas, #addisonrae, #meninas"
-  - username: "rafaluz100"
+    hashtags: "#diversao, #tiktok, #maeefilha, #foryou"
+  - username: "luli_ferreiraa"
     fullname: >-
-      Rafael
+      Lulii🌻
+    bio: >-
+      por diversão🥰 OBRIGADA PELOS 13K💗 insta: @luli_ferreiraa NÃO ME STALKEIA!
     location: "Brazil"
-    followers: 321890
-    engagement: 1150
-    commentsToLikes: 0.032670
-    id: ckai383m2ivrf0i78lxakgq57
+    followers: 13200
+    engagement: 1787
+    commentsToLikes: 0.070072
+    id: ckc8v7r4mhxer0j23u4kcfusz
     verified: false
-    hashtags: "#report, #costurar, #oioioi, #desabafos"
+    hashtags: "#dueto, #fyp, #foryou, #fy"
+  - username: "fabiolopes2709"
+    fullname: >-
+      Fabio Lopes
+    bio: >-
+      diversao é tudo vamos nos divertir viva a vida Diversão é tudo
+    location: "Brazil"
+    followers: 4342
+    engagement: 3340
+    commentsToLikes: 0.357521
+    id: ckdtkuwggyrgk0j230hc02lou
+    verified: false
+    hashtags: "#fyp, #tik, #amigos, #virall"
+  - username: "its_danieel07"
+    fullname: >-
+      Ⓒⓛⓔⓨⓣⓞⓝ
+    bio: >-
+      15 mil motivos para continuar 💓✨ vem 20k?🙃💓 conteúdo diversificado todo dia ✨
+    location: "Brazil"
+    followers: 15900
+    engagement: 2620
+    commentsToLikes: 0.131282
+    id: ckb9lxypqeosa0j234997vdow
+    verified: false
+    hashtags: "#diadopet, #dietadopet, #calopsitas, #foryou"
+  - username: "websss"
+    fullname: >-
+      I’m shy👉🏻👈🏻🥺
+    bio: >-
+      18 is 🌈 follow me in Instagram plss só gosto de gravar por diversão
+    location: "Brazil"
+    followers: 3770
+    engagement: 1815
+    commentsToLikes: 0.074209
+    id: ckbav424ulose0j23fhj4ttpp
+    verified: false
+    hashtags: "#dueto, #telaverde3d, #fy"
   - username: "lusilveira.oficia"
     fullname: >-
       lusilveira.oficial
+    bio: >-
+      Por diversão 🌺 me segue no Instagram @lusilveira.oficial
     location: "Brazil"
-    followers: 2707
-    engagement: 3628
-    commentsToLikes: 0.014531
+    followers: 2759
+    engagement: 2653
+    commentsToLikes: 0.031868
     id: ck9k8waa4ar6w0j78n7frf553
     verified: false
-    hashtags: "#escrevendocomnariz, #eununcaeuja, #paratudo, #meseguequetesigo"
-  - username: "josevitor_p"
+    hashtags: "#turistando, #familia, #meseguequeeutesigo, #meseguequeeusigodevolta"
+  - username: "rodrigo_ron"
     fullname: >-
-      Zé
+      🅡 🅞 🅝 👑
+    bio: >-
+      Oi 🙋🏻‍♂️ #AmoriisssDoRon 💙 Duetos | Dublagens & Diversão 🇧🇷 Sorocaba - SP
     location: "Brazil"
-    followers: 5703
-    engagement: 1369
-    commentsToLikes: 0.047250
-    id: cka0naahjyvsz0i789gvi7kes
+    followers: 59900
+    engagement: 1705
+    commentsToLikes: 0.287925
+    id: ck9c7pgiis5xy0j78xpqclb8f
     verified: false
-    hashtags: "#fofura, #famoso, #bbb20, #instragram"
-  - username: "carlosvictorr1"
+    hashtags: "#dublagem, #fyp, #dublagemron, #rodrigoron"
+  - username: "marcelocardosodos9"
     fullname: >-
-      carlos victor
+      Marcelo Cardoso Dos Santos
+    bio: >-
+      Diversão e alegria 🤣🤣SE VC GOSTOU DE UM VÍDEO ME SEGUE Ai 🤣,se não, segue aí
     location: "Brazil"
-    followers: 6383
-    engagement: 986
-    commentsToLikes: 0.032795
-    id: ck9k0czr8chlv0j785sh2mqw0
+    followers: 7525
+    engagement: 1548
+    commentsToLikes: 0.039923
+    id: ckbay2mzhojpg0j2306rhl8vm
     verified: false
-    hashtags: "#seguirei, #wifi, #rodizio, #amor"
-  - username: "smeire"
+    hashtags: "#marcelocardosodos9, #humor, #juntosvamosvencer, #tiktokbrasil"
+  - username: "abrunabarreto"
     fullname: >-
-      Smeire Mendes
+      Bruna Barreto
+    bio: >-
+      Estudante de medicina UFC Faço NAMELOGO só por diversão Mta coisa aleatória aqui
     location: "Brazil"
-    followers: 32329
-    engagement: 861
-    commentsToLikes: 0.057774
-    id: ckan5ldmifnly0i7810xdwnmc
+    followers: 34100
+    engagement: 758
+    commentsToLikes: 0.293755
+    id: ckdneltirh9u40j235uddizy3
     verified: false
-    hashtags: "#caldeiraodohulk, #eletrofunk, #makechalleng, #marciasensitiva"
-  - username: "jee.machado"
-    fullname: >-
-      jee.machado
-    location: "Brazil"
-    followers: 33759
-    engagement: 561
-    commentsToLikes: 0.032070
-    id: ck8saaou01c890j78nd7v1mqv
-    verified: false
-    hashtags: "#cachorrinho, #foryourpage, #foryoupage, #umamorenadoscabelosgrande"
-  - username: "micheleanasophia"
-    fullname: >-
-      Michele Ana Sophia
-    location: "Brazil"
-    followers: 55891
-    engagement: 849
-    commentsToLikes: 0.021126
-    id: ck8vws0xvpa340j78v2bqgq3g
-    verified: false
-    hashtags: "#poderosinha, #cantando, #cristianoaraujo, #cachorros"
-  - username: "siomarzachesky"
-    fullname: >-
-      Siomar Zachesky
-    location: "Brazil"
-    followers: 26563
-    engagement: 519
-    commentsToLikes: 0.059532
-    id: cka68rfmfpt9s0i78haixey02
-    verified: false
-    hashtags: "#youtube, #risos, #fiqueemcasa, #golf"
+    hashtags: "#linhacongelante, #efeitosdevoz, #perfectfacechallenge, #perfectface"
 ---

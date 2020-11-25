@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Toronto In 2020
 description: >-
-  Find top mothers TikTok influencers in Toronto in 2020. Most popular hashtags: #toronto #mother #canadian #covid19.
+  Find top mothers TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #duet #toronto.
 platform: TikTok
+hits: 5
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 5 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "ahmed_rime"
+  - username: "kevofinn"
     fullname: >-
-      Ahmed & Rime
+      kevofinn
+    bio: >-
+      YouTube: Kevin Finn Comedy INSTA: @kevofinn Follow @alymana From Toronto Canada
     location: "Canada"
-    followers: 23620
-    engagement: 710
-    commentsToLikes: 0.031299
-    id: ck8kg1mrugkri0j78r4k07p4f
+    followers: 71200
+    engagement: 1123
+    commentsToLikes: 0.020300
+    id: ck94jwoz2su2x0j785yhdozh2
     verified: false
-    hashtags: "#canadalife, #ontario, #relationship, #couplechallege"
-  - username: "thesauceybastard"
+    hashtags: "#sketch, #biged, #driving, #foryou"
+  - username: "fizzazu"
     fullname: >-
-      Jake Clara
+      Fizzazu
+    bio: >-
+      📍Toronto | 🇨🇦🇵🇰
     location: "Canada"
-    followers: 20928
-    engagement: 816
-    commentsToLikes: 0.032693
-    id: ck97xntvcw2nv0j78i92tius0
+    followers: 3568
+    engagement: 620
+    commentsToLikes: 0.015871
+    id: ckcjmnlcmf0jc0j23sif442bd
     verified: false
-    hashtags: "#cursedimages, #snow, #doggo, #toad"
-  - username: "seattledredge"
-    fullname: >-
-      Seattle Dredge
-    location: "Canada"
-    followers: 20900
-    engagement: 838
-    commentsToLikes: 0.018161
-    id: ck8z1wwma35z90j7846o9q7iz
-    verified: false
-    hashtags: "#canadian, #harrypotter, #smallgestures, #snowstorm"
+    hashtags: "#art, #funny, #foryoup, #toronto"
   - username: "desi_canadians"
     fullname: >-
       desi_canadians
+    bio: >-
+      Insta : iamlochabia ❤️ Snap : desi.canadians 👻 हरियाणवी 🔥🇨🇦
     location: "Canada"
     followers: 75045
     engagement: 1033
     commentsToLikes: 0.018010
     id: ck7zo58pohx2a0j780pujyefl
     verified: false
-    hashtags: "#farmer, #withmyfamily, #hooka, #hardwork"
-  - username: "canada_drew"
+    hashtags: "#yearbook2020, #promplaylist, #brampton, #tiktok"
+  - username: "veerjifish"
     fullname: >-
-      Drew Barsness
+      Veerji Fish
+    bio: >-
+      Veerji fish n grill , located at Clearbrook Road, Abbotsford, Canada 🇨🇦
     location: "Canada"
-    followers: 592912
-    engagement: 2188
-    commentsToLikes: 0.031054
-    id: ck8vyxncvvb040j780ij3kfj2
+    followers: 12100
+    engagement: 304
+    commentsToLikes: 0.010017
+    id: ck92uz8dpodqq0j78vf428f0o
     verified: false
-    hashtags: "#gamer, #ripmilk, #weyburn, #cheatingsucks"
-  - username: "byefelishatucker"
+    hashtags: "#franchise, #missionbc, #resraurant, #fishpakora"
+  - username: "minjiminjimominji"
     fullname: >-
-      MOTHER TUCKER
+      minjinny.kang
+    bio: >-
+      CEO of tiny mic I’m 19 and 🇰🇷 Toronto! ⬇️Links below for my other stuff
     location: "Canada"
-    followers: 2899
-    engagement: 2038
-    commentsToLikes: 0.153401
-    id: cka9l1mso1i2z0i78jee4w7d0
+    followers: 451100
+    engagement: 3351
+    commentsToLikes: 0.019508
+    id: ckbf6rp8wwhp50j23dfyfqibh
     verified: false
-    hashtags: "#easter, #poseathome, #content, #busted"
-  - username: "ashdyl22"
+    hashtags: "#foryou, #summerisover, #greenscreen, #funfacts"
+  - username: "barefootsue"
     fullname: >-
-      Dylan
+      Barefoot Sue
+    bio: >-
+      Serving humanity inspiring others to remember Mother Nature🍁 Love ice baths❄️
     location: "Canada"
-    followers: 36933
-    engagement: 1063
-    commentsToLikes: 0.041845
-    id: ck92uyqkto9rt0j78zakf7re9
+    followers: 183400
+    engagement: 2010
+    commentsToLikes: 0.036593
+    id: cka0p26lt6fbj0i78074e5ntm
     verified: false
-    hashtags: "#lonelychair, #alliwant, #comment, #style"
-  - username: "tiffany_and_company"
+    hashtags: "#soletosoul, #isolation, #biohack, #mothernature"
+  - username: "make.a.mess_art.studio"
     fullname: >-
-      Tiffany&Company
+      Nahthanha🎨😁
+    bio: >-
+      Artist 👩🏼‍🎨 Business owner Mother of 3kids 2dogs 2cats
     location: "Canada"
-    followers: 16182
-    engagement: 505
-    commentsToLikes: 0.131316
-    id: cka0zb3ateq6o0i786z50nubp
+    followers: 108600
+    engagement: 2937
+    commentsToLikes: 0.045050
+    id: ckavnnig9y1830j23y71u5ksq
     verified: false
-    hashtags: "#familygoals, #sorry, #laughter, #canadalife"
-  - username: "livii_loou"
+    hashtags: "#makeamess, #fyp, #artist, #dayinthelifeofanentrepreneur"
+  - username: "ryanne_alecia"
     fullname: >-
-      It’s Liv Bicth
+      Ryanne Alecia
+    bio: >-
+      I’m a mom of sassy girls that enjoys sharing my chaotic motherhood journey 💜
     location: "Canada"
-    followers: 8911
-    engagement: 467
-    commentsToLikes: 0.034924
-    id: ck8kg0fibgd2c0j78gvypzcb6
+    followers: 43300
+    engagement: 1364
+    commentsToLikes: 0.117147
+    id: ckacstz8ebruj0i78aux71k0s
     verified: false
-    hashtags: "#cupsong, #loml, #peacful, #girlscouts"
-  - username: "surreygoldjewellers"
+    hashtags: "#girlmommax3, #ryanne, #sassymomofsassygirls, #momcontent"
+  - username: "truckingmomma"
     fullname: >-
-      Surrey Gold Jeweller
+      Melissa Galvin
+    bio: >-
+      ®️🔞🇨🇦 wife, mother N’ longhaul trucker #tmcrazytrain #TMCrazyTrain
     location: "Canada"
-    followers: 48211
-    engagement: 420
-    commentsToLikes: 0.008069
-    id: ck9v26m0kk8wm0j78t2pjsy2q
+    followers: 14700
+    engagement: 1156
+    commentsToLikes: 0.109863
+    id: ckamuye141alt0i784eocxkxl
     verified: false
-    hashtags: "#gift, #hoops, #nattiyan, #karanaujlafans"
+    hashtags: "#canadiantrucker, #family, #truckerfamily, #tmcrazytrain"
+  - username: "sherisseds"
+    fullname: >-
+      Mr. Smith's Wife
+    bio: >-
+      Daughter, sister, wife, mother to 3, grandmother to 2. #over50 God first.
+    location: "Canada"
+    followers: 8249
+    engagement: 1149
+    commentsToLikes: 0.139855
+    id: ckbqpaxooa55h0j23nih7qwiv
+    verified: false
+    hashtags: "#duet, #interiordesign, #fallfashion, #genx"
 ---

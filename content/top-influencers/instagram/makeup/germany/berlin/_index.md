@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Berlin In 2020
 description: >-
-  Find top makeup Instagram influencers in Berlin in 2020. Most popular hashtags: #makeup #glossylips #makeupartist #stayhome.
+  Find top makeup Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #makeup #fashion #autumn.
 platform: Instagram
+hits: 373
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 373 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "kim.decker"
+  - username: "biancalalilu"
     fullname: >-
-      𝐁𝐞𝐚𝐮𝐭𝐲 𝐌𝐨𝐝𝐞𝐥-𝐊𝐢𝐦 𝐃𝐞𝐜𝐤𝐞𝐫
+      Bianca Lalilu
+    bio: >-
+      • Berlin | 030 🖤 • F A S H I O N & F O O D 🌎 T R A V E L • For collabs & business inquiry : DM / Email #LOVE.#GROW.#CONNECT
     location: "Germany"
-    followers: 2659
-    engagement: 3162
-    commentsToLikes: 0.022922
-    id: ck6tnsq8fahyb0j719ovmgecz
+    followers: 24247
+    engagement: 340
+    commentsToLikes: 0.106270
+    id: ck6u721s3j0qc0j710bw8zteo
     verified: false
-    hashtags: "#haul, #sponsoring, #nakd, #white"
-  - username: "disy_magazin"
+    hashtags: "#kudamm, #goodtime, #crete, #autumn"
+  - username: "celinajadakerr"
     fullname: >-
-      Disy
+      Celina Jada Kerr 🦋
+    bio: >-
+      ✉️ Management @musetheagency
     location: "Germany"
-    followers: 22978
-    engagement: 240
-    commentsToLikes: 0.021901
-    id: ck8t3j2wh3fda0j78m0bi0ov0
+    followers: 70572
+    engagement: 2064
+    commentsToLikes: 0.007866
+    id: ck5hclxbtir5g0i11wrprl4cs
     verified: false
-    hashtags: "#moet, #masken, #em2020, #franz"
-  - username: "styleblogmichelle"
+    hashtags: "#revolve, #goldenhour, #outfit, #outfitinspo"
+  - username: "xomilano"
     fullname: >-
-      Michelle Skierka 🖤
+      özz milano
+    bio: >-
+      make your heart the most beautiful feature you carry because outer beauty is only skin deep.
     location: "Germany"
-    followers: 7551
-    engagement: 1683
-    commentsToLikes: 0.128545
-    id: ck8tbldlqw3ts0j789f3na16u
+    followers: 24349
+    engagement: 920
+    commentsToLikes: 0.015913
+    id: ck5cdb7keiv2t0i11ae3nu432
     verified: false
-    hashtags: "#relax, #haare, #makeuptutorial, #cbdgermany"
-  - username: "berivanya_"
+    hashtags: "#sun, #lips, #face, #happy"
+  - username: "makeup.by.luc"
     fullname: >-
-      Lifestyle | Fashion | Travel
+      • PRO MAKEUP ARTIST BERLIN •
+    bio: >-
+      • Professional Makeup & Hairstyling • Represented by @prestigeartists • Passioned in BEAUTY & FASHION • BOOKINGS | INQUIRIES: muah.luc@gmail.com
     location: "Germany"
-    followers: 8009
-    engagement: 685
-    commentsToLikes: 0.050996
-    id: ck0vyi84i44id0i19kmj1yh1i
+    followers: 5256
+    engagement: 411
+    commentsToLikes: 0.134643
+    id: ck6u736r2j7f90j71xjmp5588
     verified: false
-    hashtags: "#denim, #makeupberlin, #cherryblossoms, #fail"
-  - username: "kalisiartan"
+    hashtags: "#pixibypetra, #editorialmakeupartist, #campaign, #campaignshoot"
+  - username: "luxsface"
     fullname: >-
-      Artan Kalisi
+      Makeup & Hair Styling Hamburg
+    bio: >-
+      Diplom celebrity Make-up Artist, cosmeticologist, Hairstylist. Founder luxsface academy & @luxsfacecosmetics 🇩🇪+49 17631491585 سالون آرايش لوكس فيس
     location: "Germany"
-    followers: 39538
-    engagement: 140
-    commentsToLikes: 0.107198
-    id: ck0vv30xonb4m0i19sispcmzy
+    followers: 39627
+    engagement: 314
+    commentsToLikes: 0.112148
+    id: ck5q70wudzjfw0i119dp4ljxi
     verified: false
-    hashtags: "#girly, #looks, #nudemakeup, #taynator"
+    hashtags: "#makeupbyme, #brautmakeup, #muah, #bride"
   - username: "surfdietz"
     fullname: >-
       Ina Dietz
+    bio: >-
+      Newsanchor Sat1 Frühstücksfernsehen, Nachrichten RadioEins und INFORADIO (rbb), Familienmensch liebt auch 🏊🏻‍♀️+🚴🏻‍♀️+Nordseeinseln
     location: "Germany"
-    followers: 23381
-    engagement: 841
-    commentsToLikes: 0.036767
+    followers: 26346
+    engagement: 886
+    commentsToLikes: 0.033241
     id: ck14lub6bwitv0i19zrtv0oj8
     verified: false
-    hashtags: "#klimaschutz, #zusammenhalt, #wednesday, #wirsindf"
-  - username: "annabella_zetsch"
+    hashtags: "#beachcleanup, #seashells, #fr, #langeoog"
+  - username: "vanessa_blumhagen"
     fullname: >-
-      Annabella Zetsch
+      Vanessa Blumhagen
+    bio: >-
+      Autorin - Moderatorin - Hashimoto Ambassador 🎤 Sat.1 Frühstücksfernsehen 📚 Piper & mvg Verlag 🎀 @hashimoto_deutschland 📞 info@herr-havermann.de
     location: "Germany"
-    followers: 59002
-    engagement: 1006
-    commentsToLikes: 0.014036
-    id: ck13740rd9nyd0i19ncym4nhe
+    followers: 163541
+    engagement: 517
+    commentsToLikes: 0.029292
+    id: ck15ss9nzekoa0i19t42peljw
     verified: true
-    hashtags: "#matchoftheday, #backintraining, #throwback, #stillstayhome"
+    hashtags: "#liebe, #fashion, #adlermode, #anzeige"
   - username: "aatypi"
     fullname: >-
       alexandra
+    bio: >-
+      Los Angeles - Berlin - Stockholm / Let me act your face / Even Bukowski prefer to drink in company // dm for collab
     location: "Germany"
-    followers: 19744
-    engagement: 375
-    commentsToLikes: 0.035379
+    followers: 19633
+    engagement: 353
+    commentsToLikes: 0.031150
     id: ck5c88rsh8zjz0i114bg5yc1l
     verified: false
-    hashtags: "#blacksandbeach, #naturallight, #biodegradable, #turquoise"
-  - username: "reemkenza"
+    hashtags: "#meltradioactive, #avantgardemakeup, #berlinmodel, #avantgardefashion"
+  - username: "tara_gra"
     fullname: >-
-      Reem Kenza|Makeup&Skincare
+      TΔRΔ🌺
+    bio: >-
+      Extra Sparkly ✨|📍BLN
     location: "Germany"
-    followers: 11840
-    engagement: 539
-    commentsToLikes: 0.113379
-    id: ckaosygxrtkww0i7864ken4ae
+    followers: 25174
+    engagement: 535
+    commentsToLikes: 0.015045
+    id: ck5qayqe7iy9o0i11mi3e51ls
     verified: false
-    hashtags: "#whiteeyeliner, #makeuplooks, #norvinapalette, #rainonme"
-  - username: "sh_y.e"
+    hashtags: "#fall, #red, #girl, #berlin"
+  - username: "juliane_seyffert"
     fullname: >-
-      獅子野 裕子
+      𝐉𝐮𝐥𝐢𝐚𝐧𝐞 𝐒𝐞𝐲𝐟𝐟𝐞𝐫𝐭🦋
+    bio: >-
+      𝐅𝐎𝐓𝐎 𝐈𝐃𝐄𝐄𝐍 📸 📝| Foto & Editing 📸| @juliane.seyffert_fotografie 💌| info@julianeseyffert.de
     location: "Germany"
-    followers: 7902
-    engagement: 978
-    commentsToLikes: 0.010178
-    id: ck135bo7d0oj60i190qmmyyvc
+    followers: 2577
+    engagement: 1573
+    commentsToLikes: 0.229729
+    id: ckap6jgoqg3ql0i7803365wsp
     verified: false
-    hashtags: "#edit, #makeup, #monaco, #berlin"
+    hashtags: "#autumn, #november, #fototipps, #sexy"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top fashion Instagram influencers in Venezuela in 2020. Most popular hashtags: #tbt #tutorial #model #editorial.
+  Find top fashion Instagram influencers in Venezuela in 2020. Most popular hashtags: #fashion #beauty #editorial #fashionblogger.
 platform: Instagram
+hits: 127
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 127 Instagram influencers like this in Venezuela for you to work with.
 profiles:
-  - username: "nadiachambra"
+  - username: "enmanuelbaez_photo"
     fullname: >-
-      Nadia Chambra
+      Enmanuel Baez
+    bio: >-
+      🌏 Caracas - Venezuela "𝙑𝙖𝙢𝙤𝙨 𝙥𝙤𝙧 𝙢𝙖́𝙨" 📸 PORTRAIT / FASHION / CAMPAIGN
     location: "Venezuela"
-    followers: 45451
-    engagement: 453
-    commentsToLikes: 0.117494
-    id: ck5hlmu4akhqy0i11n30khqx1
+    followers: 20498
+    engagement: 690
+    commentsToLikes: 0.071891
+    id: ck5bxvdsjohb10i11v6q82ur9
     verified: false
-    hashtags: "#exercise, #mothersday, #starfish, #happymonday"
-  - username: "dannasm"
-    fullname: >-
-      Danna Solórzano
-    location: "Venezuela"
-    followers: 31145
-    engagement: 735
-    commentsToLikes: 0.031742
-    id: ck6ttdsgra24o0j71ytfvyc2f
-    verified: false
-    hashtags: "#rizos, #natural, #family, #makeuproutine"
-  - username: "ninoskavasqueza"
-    fullname: >-
-      Ninoska Vasquez
-    location: "Venezuela"
-    followers: 690801
-    engagement: 465
-    commentsToLikes: 0.017931
-    id: ck0twi5ahfhji0i19ecdnd6fl
-    verified: true
-    hashtags: "#infinite, #newcolor, #yoga, #tbt"
+    hashtags: "#scorpiojinmagazine, #beauty, #beautyretouch, #makeup"
   - username: "changophoto"
     fullname: >-
       Johan Chango
+    bio: >-
+      Fashion & Beauty Photographer Caracas, Venezuela
     location: "Venezuela"
-    followers: 26816
-    engagement: 462
-    commentsToLikes: 0.042098
+    followers: 29885
+    engagement: 785
+    commentsToLikes: 0.039853
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#mua, #fashionpost, #missvenezuela, #shooting"
-  - username: "crondonm"
+    hashtags: "#changophoto, #firepoi, #acrobatics, #ten"
+  - username: "ariannapitino"
     fullname: >-
-      CESAR RONDÓN
+      ARIANNA PITINO🦂
+    bio: >-
+      Model | Fashion | Lifestyle Blogger .. not a simple girl living her dream✨ 📍Currently: Caracas/Valencia #creativedirector #production #contentcreator📩
     location: "Venezuela"
-    followers: 24522
-    engagement: 306
-    commentsToLikes: 0.060720
-    id: ck0ub83njdxoc0i19ar1yjr5v
+    followers: 52082
+    engagement: 777
+    commentsToLikes: 0.032270
+    id: ck0tw1ckedlh80i19e0e7a89q
     verified: false
-    hashtags: "#crondonmteam, #tb, #meveodecente, #staysafe"
-  - username: "alegfoto"
+    hashtags: "#editorial, #photoshoot, #lifestyleblogger, #modelscout"
+  - username: "jennyalvarezherrera"
     fullname: >-
-      Alejandro Gonzalez 🇻🇪
+      Jenny Alvarez Herrera
+    bio: >-
+      Compartiendo ideas #inspirationaloutfits Fashion 🌟 StreetStyle 🌟Positive thinking Mom❤️Odontóloga🔅Founder @ajabuvzla Contacto comercial ➡️DM
     location: "Venezuela"
-    followers: 63295
-    engagement: 411
-    commentsToLikes: 0.132735
-    id: ck0ubyi0lfmm80i19jyt5bbm0
+    followers: 27238
+    engagement: 378
+    commentsToLikes: 0.125104
+    id: ck0tuopz581fn0i19mh5ou9fg
     verified: false
-    hashtags: "#ocfffaediting, #tiktok, #nikon, #sorteo"
+    hashtags: "#outfitinspiration, #chic, #kbeautycruzang, #trendy"
   - username: "soniassabati"
     fullname: >-
-      TE AMO
+      S O N I A  A S S A B A T I
+    bio: >-
+      🧿 Fashion & Lifestyle ⭐️ Brilla con luz propia 📩 Soniassabati4@hotmail.com 🎥 NUEVO VIDEO
     location: "Venezuela"
-    followers: 3455
-    engagement: 1644
-    commentsToLikes: 0.101436
+    followers: 5157
+    engagement: 1382
+    commentsToLikes: 0.084402
     id: ckap49kbx6cyq0i78jlt8rz5q
     verified: false
-    hashtags: "#styleinspiration, #fashionblogger, #bloggerstyle, #inspo"
+    hashtags: "#reels, #fashionblogger, #comedia, #theholicgames"
+  - username: "valeriajmnez"
+    fullname: >-
+      Valeria | FASHION & LIFESTYLE
+    bio: >-
+      🤍🧿 CONTENT CREATOR De aquí y de todas partes 🇻🇪 - ✨ Lifestyle | skin care | fashion | work
+    location: "Venezuela"
+    followers: 16159
+    engagement: 516
+    commentsToLikes: 0.121162
+    id: ck5hne753nmoc0i11vmnnj8b9
+    verified: false
+    hashtags: "#foami, #madrid, #skincare, #selfcarefarmasi"
+  - username: "dannasm"
+    fullname: >-
+      Danna Solórzano
+    bio: >-
+      FASHION | BEAUTY Curly✨Aprecia, Valora y #ViveTusRizos 🎥+140K YouTube ☁️+115K TikTok/ Curlys around the world...
+    location: "Venezuela"
+    followers: 46096
+    engagement: 1123
+    commentsToLikes: 0.019854
+    id: ck6ttdsgra24o0j71ytfvyc2f
+    verified: false
+    hashtags: "#paris, #italia, #vivetusrizos, #italiangirl"
+  - username: "crondonm"
+    fullname: >-
+      César Rondón | Fotógrafo
+    bio: >-
+      [ Portrait • Fashion • Boudoir ] • Proyectos: TABOO | WINE • • Booker: @bycrondonm | #crondonmteam • ▫️Puerto La Cruz - Venezuela▫️ 🔻Contáctame🔻
+    location: "Venezuela"
+    followers: 25332
+    engagement: 306
+    commentsToLikes: 0.081342
+    id: ck0ub83njdxoc0i19ar1yjr5v
+    verified: false
+    hashtags: "#paraqueporfa, #memori, #mesrosa, #bycrondonm"
+  - username: "soynisanchez"
+    fullname: >-
+      Me Dicen ”Ni” -Productora TV
+    bio: >-
+      Escritora de "Somos Tú y Yo"💕 Productora Gral. @portadas 🎥 Dir. Creativa💡SM📲 100% #𝙁𝙊𝙊𝘿𝙄𝙀 🍔 #FashionLover 👠 #DogLover 🐶 Ｆｏｕｎｄｅｒ: @showroommodaybelleza
+    location: "Venezuela"
+    followers: 22614
+    engagement: 297
+    commentsToLikes: 0.133252
+    id: ck6tk6osr43sp0j71rn10l7mx
+    verified: false
+    hashtags: "#dogs, #beautiful, #picoftheday, #style"
   - username: "edwinrphoto"
     fullname: >-
       EDWIN RAMOS
+    bio: >-
+      Portrait - Fashion - Lifestyle 📸Sesiones al DM📩 📍Valencia-Venezuela
     location: "Venezuela"
-    followers: 8370
-    engagement: 445
-    commentsToLikes: 0.161170
+    followers: 10294
+    engagement: 509
+    commentsToLikes: 0.132008
     id: ck55lgk1g1ijx0i11mysfzi1g
     verified: false
-    hashtags: "#tutorials, #tips, #portraiture, #portraitvision"
-  - username: "sabri_soares"
-    fullname: >-
-      Sabrina Soares 🍍🧵✨🧊
-    location: "Venezuela"
-    followers: 8471
-    engagement: 997
-    commentsToLikes: 0.025966
-    id: ck8sy605pjtsv0j78ih8mw0u1
-    verified: false
-    hashtags: "#ad, #tbt, #stayhome, #edit"
-  - username: "pedrojose.ph"
-    fullname: >-
-      Pedro José
-    location: "Venezuela"
-    followers: 5581
-    engagement: 632
-    commentsToLikes: 0.054512
-    id: ck6ubvbv6bx0k0j71byvcmptf
-    verified: false
-    hashtags: "#tagify, #moda, #fashionstyle, #temacuarentena"
+    hashtags: "#portrait, #portraitmood, #artofportrait, #theworldofportraits"
 ---

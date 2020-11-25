@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In San Diego In 2020
 description: >-
-  Find top yoga TikTok influencers in San Diego in 2020. Most popular hashtags: #yoga #love #handstand #itsaremix.
+  Find top yoga TikTok influencers in San Diego in 2020. Most popular hashtags: #sandiego #fyp #yoga #funny.
 platform: TikTok
+hits: 9
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform has 9 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "sydtheyogi"
+  - username: "renaemalone"
     fullname: >-
-      Sydney Boney
+      renaemalone
+    bio: >-
+      travel, vegan, yogi🌺 follow me on insta! @renaemalone
     location: "United States"
-    followers: 244636
-    engagement: 1414
-    commentsToLikes: 0.008841
-    id: cka0o6jpy2gya0i783y87bz7v
+    followers: 212300
+    engagement: 1113
+    commentsToLikes: 0.010395
+    id: ck8j8562yhcdk0j78tbal3sfg
     verified: false
-    hashtags: "#shawnjohnsonchallenge, #piedialmurochallege, #sixpackabs, #workoutchallenge"
-  - username: "teagan.maddux"
+    hashtags: "#foryou, #couplegoals, #beach, #fyp"
+  - username: "stopdropanddance"
     fullname: >-
-      Teagan
+      stopdropanddance
+    bio: >-
+      Dance, Fitness, Yoga Teacher & Mama I work out hard so that I can eat dessert
     location: "United States"
-    followers: 2875
-    engagement: 914
-    commentsToLikes: 0.057033
-    id: ck8f6dxoe2e7m0j78ms7mo3b7
+    followers: 51000
+    engagement: 1052
+    commentsToLikes: 0.032245
+    id: ckaclktl0fyli0i78jnqxlxvw
     verified: false
-    hashtags: "#travelcheck, #neverfitin, #albumlookalike, #aesthetics"
-  - username: "kellyyy_anne"
+    hashtags: "#stretch, #dancechallenge, #pushup, #pushups"
+  - username: "tailoredbytaylor.xo"
     fullname: >-
-      kellyyy_anne
+      tailoredbytaylor.xo
+    bio: >-
+      All things lifestyle + faith + fashion + beauty Venmo: taylor-keightley
     location: "United States"
-    followers: 52880
-    engagement: 517
-    commentsToLikes: 0.015046
-    id: ck9dwosfupynl0j78nk8140j2
+    followers: 4563
+    engagement: 459
+    commentsToLikes: 0.088898
+    id: ckbf87ofxyoza0j23ffh9anh8
     verified: false
-    hashtags: "#krabi, #idknever, #verybig, #waitaminute"
+    hashtags: "#realtalk, #sandiego, #realtalktho, #fyp"
+  - username: "sheilynnpaige"
+    fullname: >-
+      Sheilynn Paige ♡
+    bio: >-
+      Insta ↗️ 21 🎉💁🏼‍♀️ az ☀️ Yup, I’m addicted 😂
+    location: "United States"
+    followers: 60400
+    engagement: 1153
+    commentsToLikes: 0.014121
+    id: ckb99js72twyl0j23u0bi1qln
+    verified: false
+    hashtags: "#arizona, #duet, #foryoupage, #fail"
+  - username: "itskorinneagain"
+    fullname: >-
+      Korinne Elizabeth
+    bio: >-
+      IG: @korinneportley YouTube: Korinne Elizabeth Portley Snapchat: korinnee
+    location: "United States"
+    followers: 61141
+    engagement: 714
+    commentsToLikes: 0.022596
+    id: ckb1c5n9r0vzf0j23h3txc38l
+    verified: false
+    hashtags: "#sandiego, #foryoupage, #fyp, #blondes"
+  - username: "roisyrickel"
+    fullname: >-
+      Roisy Rickel
+    bio: >-
+      21 SEA based travel addict Bi 🌈 dog mom 🐕 IG: ro_rickel
+    location: "United States"
+    followers: 8599
+    engagement: 112
+    commentsToLikes: 0.032188
+    id: ckc31kz0ws0b50j23zvkvi5wa
+    verified: false
+    hashtags: "#fyp, #dogs, #sandiego, #costarica"
+  - username: "ferris_joshua"
+    fullname: >-
+      Ferris_joshua
+    bio: >-
+      ^^Contact through Instagram ^^ Spiritual being 20yr 🌝Here for Witch Tok 🌞
+    location: "United States"
+    followers: 13000
+    engagement: 1567
+    commentsToLikes: 0.022714
+    id: ckc7wn6sgzpyt0j23b8iqusly
+    verified: false
+    hashtags: "#nature, #energy, #curlyhair, #pagen"
   - username: "jessicawhat"
     fullname: >-
       jessicawhat
+    bio: >-
+      Hi🌻 KY➡️CA
     location: "United States"
-    followers: 16278
-    engagement: 830
-    commentsToLikes: 0.017062
+    followers: 15800
+    engagement: 843
+    commentsToLikes: 0.014823
     id: ck9eujgxwdxe00j780xfg1jmk
     verified: false
-    hashtags: "#stellar, #inverted, #arielhoop, #hangintherebaby"
-  - username: "divinepriestess"
+    hashtags: "#sunsetbeach, #foryou, #nurse, #funny"
+  - username: "taylor_munholland"
     fullname: >-
-      Divine Priestess
+      Taylor Munholland
+    bio: >-
+      Go by ☞ Tay, Tay Tay & Bob ⬳ ☻ Splits, Curls, Hikes, Art, Cats, Random
     location: "United States"
-    followers: 13617
-    engagement: 1196
-    commentsToLikes: 0.068269
-    id: cka6qzl0mpndr0i78as1q4rkh
+    followers: 6343
+    engagement: 359
+    commentsToLikes: 0.032091
+    id: cka0zzkwthny50i78z9ln907q
     verified: false
-    hashtags: "#camera, #honey, #read, #yoga"
-  - username: "bailey.nomi"
+    hashtags: "#wow, #stretchingchallenge, #middlesplits, #lol"
+  - username: "embermusic452"
     fullname: >-
-      Bailey
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 15717
-    engagement: 1077
-    commentsToLikes: 0.219339
-    id: cka0zzm6qhoe80i78xvrjbnwc
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#lounge, #flyingsplits, #shqiptar, #easyyoga"
-  - username: "crazycurvylinzy"
-    fullname: >-
-      Linzy Taylor
-    location: "United States"
-    followers: 190683
-    engagement: 1837
-    commentsToLikes: 0.045637
-    id: cka0hipma9b0d0i78nnwgzpgv
-    verified: false
-    hashtags: "#funk, #heels, #emojigame, #momsoftiktok"
-  - username: "shaktisitakaur"
-    fullname: >-
-      shaktisitakaur
-    location: "United States"
-    followers: 5995
-    engagement: 993
-    commentsToLikes: 0.053203
-    id: cka0nhzdgzsr50i78joqxmg4n
-    verified: false
-    hashtags: "#pranayam, #cantsleep, #salad, #astrologer"
-  - username: "blissfulathlete"
-    fullname: >-
-      BlissfulAthlete
-    location: "United States"
-    followers: 138327
-    engagement: 718
-    commentsToLikes: 0.056644
-    id: ck8sax8lt4adj0j78gahpu581
-    verified: false
-    hashtags: "#padmasana, #gonnabefriends, #bicepworkout, #reincarnation"
-  - username: "caterpillarschalice"
-    fullname: >-
-      candi
-    location: "United States"
-    followers: 137026
-    engagement: 349
-    commentsToLikes: 0.032559
-    id: ck8or5h79am5l0j78vcr82shf
-    verified: false
-    hashtags: "#corsetry, #familytime, #vintage, #salty"
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
 ---

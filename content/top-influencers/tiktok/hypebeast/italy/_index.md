@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast TikTok Influencers In Italy In 2020
 description: >-
-  Find top hypebeast TikTok influencers in Italy in 2020. Most popular hashtags: #hypebeast #dior #greenscreen #offwhite.
+  Find top hypebeast TikTok influencers in Italy in 2020. Most popular hashtags: #perte #hypebeast #foryou #hype.
 platform: TikTok
+hits: 14
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 14 TikTok influencers like this in Italy for you to pitch.
 profiles:
-  - username: "angiewtf_"
-    fullname: >-
-      Angela Proto
-    location: "Italy"
-    followers: 18052
-    engagement: 1350
-    commentsToLikes: 0.073393
-    id: ck8vv7kqgl09j0j78d34vjwcn
-    verified: false
-    hashtags: "#offwhite, #iltrechallenge, #dior, #thenorthface"
-  - username: "luca.cino"
-    fullname: >-
-      lucacino
-    location: "Italy"
-    followers: 12563
-    engagement: 1240
-    commentsToLikes: 0.024735
-    id: ck8vv7nfjl0gs0j78pea06vx8
-    verified: false
-    hashtags: "#2020, #mysterybox, #sneaker, #soldi"
-  - username: "il_cavazz"
-    fullname: >-
-      il_cavazz
-    location: "Italy"
-    followers: 19730
-    engagement: 1070
-    commentsToLikes: 0.018590
-    id: ck8vv7jxpl03t0j78d970a5e0
-    verified: false
-    hashtags: "#cucina, #coronavirus, #funnyvideos, #foryoupag"
-  - username: "a.carolanne"
-    fullname: >-
-      a.carolanne
-    location: "Italy"
-    followers: 2088
-    engagement: 925
-    commentsToLikes: 0.026023
-    id: ckai388oiiwlw0i78wsvez010
-    verified: false
-    hashtags: "#letsgo, #armyitalian, #converse, #jordan1panda"
-  - username: "alessio_giffi"
-    fullname: >-
-      Alessio Giffi
-    location: "Italy"
-    followers: 4672
-    engagement: 813
-    commentsToLikes: 0.014482
-    id: ck8vv7kavl06b0j78lv7aetwf
-    verified: false
-    hashtags: "#offwhitenike, #ziptie, #mascherina, #stockx"
-  - username: "eleonorasimoni"
-    fullname: >-
-      Eleonora🦋
-    location: "Italy"
-    followers: 36274
-    engagement: 1850
-    commentsToLikes: 0.040656
-    id: ck8vv7l7ol0bz0j78yajawxhv
-    verified: false
-    hashtags: "#dior, #aesthetic, #greenscreen, #hypebeast"
   - username: "pizzaini"
     fullname: >-
       Pizzazini
+    bio: >-
+      🥰 Tiktok 200k followers?🥰 🔥🌵
     location: "Italy"
-    followers: 80419
-    engagement: 1300
-    commentsToLikes: 0.353338
+    followers: 197600
+    engagement: 1579
+    commentsToLikes: 0.190048
     id: ck97ym51h04020j78bkl13n08
     verified: false
-    hashtags: "#ilcollegio, #hype, #hypebeast, #travisscott"
+    hashtags: "#hypebeast, #duetto, #fyp, #perte"
+  - username: "angiewtf_"
+    fullname: >-
+      Angela Proto
+    bio: >-
+      Road to 170k 🥺🥺🥺 Ceo delle notizie sulle Jordan photographer
+    location: "Italy"
+    followers: 166700
+    engagement: 1737
+    commentsToLikes: 0.011524
+    id: ck8vv7kqgl09j0j78d34vjwcn
+    verified: false
+    hashtags: "#viral, #jordan, #perte, #hypebeast"
+  - username: "lucacino"
+    fullname: >-
+      lucacino
+    bio: >-
+      Follow me on Instagram and Youtube🇮🇹↖️ 📬 Business: lucacino.info@gmail.com
+    location: "Italy"
+    followers: 39400
+    engagement: 1282
+    commentsToLikes: 0.021979
+    id: ck8vv7nfjl0gs0j78pea06vx8
+    verified: false
+    hashtags: "#foryou, #sneakers, #greenscreen, #neiperte"
+  - username: "il_cavazz"
+    fullname: >-
+      il_cavazz
+    bio: >-
+      NO 🧢
+    location: "Italy"
+    followers: 21600
+    engagement: 1288
+    commentsToLikes: 0.017415
+    id: ck8vv7jxpl03t0j78d970a5e0
+    verified: false
+    hashtags: "#4u, #fy, #hypebeast, #nonneiperte"
+  - username: "alessiogiffi"
+    fullname: >-
+      Alessio Giffi
+    bio: >-
+      👟SEGUIMI SU INSTAGRAM⤴️ “artist” Il mio brand@alessiogifficollection® 👕SHOP⬇️
+    location: "Italy"
+    followers: 9001
+    engagement: 909
+    commentsToLikes: 0.014734
+    id: ck8vv7kavl06b0j78lv7aetwf
+    verified: false
+    hashtags: "#coronavirus, #neiperte, #sneakers, #hypebeast"
+  - username: "angelo.sabato"
+    fullname: >-
+      STREETWEAR BY ASAB🔌
+    bio: >-
+      video ogni giorno 🦋 Streetwear and Sneakers 👟 Se volete chiedermi qualcosa ⬇️
+    location: "Italy"
+    followers: 55600
+    engagement: 1265
+    commentsToLikes: 0.017228
+    id: ckb9rpg63oeg80j23me1fdbpn
+    verified: false
+    hashtags: "#fashion, #jordan1, #hype, #streetwear"
+  - username: "stefanocappp"
+    fullname: >-
+      Stefanoco
+    bio: >-
+      Naples🏳️‍🌈 Stefano Coppola Su insta penso di essere una persona più seria🤓
+    location: "Italy"
+    followers: 27600
+    engagement: 1230
+    commentsToLikes: 0.032005
+    id: ckbbpy8fmdqju0j2314ivpdnn
+    verified: false
+    hashtags: "#gay, #foryou, #perte, #lgbt"
+  - username: "9ovaprince"
+    fullname: >-
+      9ova
+    bio: >-
+      Artista 💙👑 SEGUIMI SU INSTA :9ovaprince MALASORTE FUORI OVUNQUE LINK QUI SOTTO
+    location: "Italy"
+    followers: 28600
+    engagement: 1714
+    commentsToLikes: 0.011186
+    id: ck9vdmtezvj150j78abe9v995
+    verified: false
+    hashtags: "#foryou, #trend, #9ova, #perte"
   - username: "vinc_venditto"
     fullname: >-
       Vincenzo Venditto
+    bio: >-
+      Italian self-taught artist✍🏼 17 y/o😜
     location: "Italy"
-    followers: 13280
-    engagement: 946
-    commentsToLikes: 0.020290
+    followers: 13600
+    engagement: 950
+    commentsToLikes: 0.012425
     id: cka6dsnbr92so0i787dmt1skh
     verified: false
-    hashtags: "#quarantenacheck, #seriea, #scuol4, #simonepaciello"
-  - username: "niccovarotto01"
+    hashtags: "#anime, #ritratto, #trap, #rap"
+  - username: "keira_de_luca"
     fullname: >-
-      Niccolò
+      kdl
+    bio: >-
+      🇮🇹 🇫🇷 Always Spread Love ✨
     location: "Italy"
-    followers: 7528
-    engagement: 1018
-    commentsToLikes: 0.016397
-    id: ck8vv7o2tl0iq0j789e9f7a5y
+    followers: 29800
+    engagement: 1119
+    commentsToLikes: 0.015233
+    id: cka0g5bfw2uia0i78aucbrno3
     verified: false
-    hashtags: "#ollarethegang, #duetto, #annina, #trash"
-  - username: "viraloneway"
-    fullname: >-
-      viraloneway
-    location: "Italy"
-    followers: 5362
-    engagement: 1006
-    commentsToLikes: 0.012978
-    id: ckacvlaatoay70i78gt1tqkki
-    verified: false
-    hashtags: "#trending, #videoviral, #dance, #oneglass"
+    hashtags: "#teamsimpatia, #nofriends, #napoli, #clothingbrand"
 ---

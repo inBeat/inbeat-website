@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Russia In 2020
 description: >-
-  Find top models TikTok influencers in Russia in 2020. Most popular hashtags: #nature #coronavirus #dance #duet.
+  Find top models TikTok influencers in Russia in 2020. Most popular hashtags: #model #modeling #fyp.
 platform: TikTok
+hits: 31
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 31 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "helen_yushkova"
     fullname: >-
       helen_yushkova
+    bio: >-
+      model 💔 creator 💎youtuber ❤ Insta: Helen_yushkova ads@pzprod.ru
     location: "Russia"
-    followers: 8928
-    engagement: 676
-    commentsToLikes: 0.040248
+    followers: 8658
+    engagement: 828
+    commentsToLikes: 0.034949
     id: cka6a5nurv4w30i78p5cblax4
     verified: false
-    hashtags: "#dance, #linkedin, #owls, #italia"
-  - username: "natalee.007"
+    hashtags: "#backstage, #redhair, #flowers, #fashion"
+  - username: "eliot_sugar"
     fullname: >-
-      Natasha
+      Eliot
+    bio: >-
+      🏙️Ростов-на-Дону🏙️ 📷Inst : Eliot_sugar📷 🌟M.A. : Success model management🌟
     location: "Russia"
-    followers: 136494
-    engagement: 529
-    commentsToLikes: 0.012743
-    id: cka0u3t8tsny00i782f7m6dn5
+    followers: 4572
+    engagement: 1368
+    commentsToLikes: 0.011696
+    id: ckbqnjy2p8dw50j233pmhkmd3
     verified: false
-    hashtags: "#winter, #hottea, #afterworkout, #cooking"
-  - username: "lubanchic"
+    hashtags: "#vogue, #model, #modelagency, #modelrussia"
+  - username: "polinamoskvina"
     fullname: >-
-      любовь
+      Polina Moskvina
+    bio: >-
+      💞 model and also a 🤡 💕 Inst: @moskvina_polina
     location: "Russia"
-    followers: 13867
-    engagement: 364
-    commentsToLikes: 0.022239
-    id: cka6a5io8v3u50i78fabzxqaj
+    followers: 75500
+    engagement: 592
+    commentsToLikes: 0.025795
+    id: ckbkp4h3ljcgf0j23w3atfhx6
     verified: false
-    hashtags: "#twice, #carantina, #twinschallenge, #sport"
+    hashtags: "#foryou, #foruyou, #funny, #modeling"
   - username: "anna_sopkalova"
     fullname: >-
       Anna Sopkalova
+    bio: >-
+      Model &Trainer 🏆Miss Talent of Miss Globe 👑Miss Best Body of Miss All Nations
     location: "Russia"
-    followers: 4331
-    engagement: 437
-    commentsToLikes: 0.009804
+    followers: 15400
+    engagement: 744
+    commentsToLikes: 0.023524
     id: cka0q68yabgar0i78c7e0bwh0
     verified: false
-    hashtags: "#cannesfilmfestival, #photoshoot, #burlesquedancer, #freerun"
-  - username: "lisina15"
+    hashtags: "#cannes, #acrobatics, #handstand, #baikal"
+  - username: "lubanchic"
     fullname: >-
-      lisina15
+      любовь
+    bio: >-
+      I’m model from Vladivostok😍❤️
     location: "Russia"
-    followers: 2729204
-    engagement: 984
-    commentsToLikes: 0.005833
-    id: ck8kg29gogpx30j78ybsj145p
+    followers: 13700
+    engagement: 483
+    commentsToLikes: 0.029642
+    id: cka6a5io8v3u50i78fabzxqaj
+    verified: false
+    hashtags: "#similanisland, #twins, #phuketthailand, #twinschallenge"
+  - username: "karinagoter"
+    fullname: >-
+      it.karina
+    bio: >-
+      Инста: litt.x 1️⃣9️⃣ years Model:sigma👸🏻 Пиар в инсту💣
+    location: "Russia"
+    followers: 454900
+    engagement: 714
+    commentsToLikes: 0.008438
+    id: ckbkdkq4m3iop0j232v6x4ytj
+    verified: false
+    hashtags: ""
+  - username: "viki_odintcova"
+    fullname: >-
+      Viki_odintcova
+    bio: >-
+      Model, TV-host Instagram : viki_odintcova 5.1M
+    location: "Russia"
+    followers: 106300
+    engagement: 443
+    commentsToLikes: 0.010679
+    id: ckbagh00z8ejz0j23tj1jywcg
     verified: true
-    hashtags: "#tallgirls, #trump, #asmrvideo, #coronavirus"
+    hashtags: "#vikiodintcova, #stayhome"
+  - username: "emrata_official"
+    fullname: >-
+      Emily Ratajkowski
+    bio: >-
+      model, actress, feminist, designer: https://l.instagram.com/?u=https%3A%2F%2Fpeo
+    location: "Russia"
+    followers: 6198
+    engagement: 143
+    commentsToLikes: 0.020342
+    id: ckcejx6tkt0sp0j238dnbvd00
+    verified: false
+    hashtags: "#model, #mod, #emrata, #gm"
+  - username: "snowgueen"
+    fullname: >-
+      🥀폴리나 🥀
+    bio: >-
+      💜ARMY💜 fan k-pop I feel my heart beat in time with my favorite song.
+    location: "Russia"
+    followers: 8680
+    engagement: 1183
+    commentsToLikes: 0.041673
+    id: ckb9pgepykk9y0j23crttp1nk
+    verified: false
+    hashtags: "#kendalljenner, #model, #fyr, #army"
   - username: "tatayammy"
     fullname: >-
       TATA
+    bio: >-
+      inst: @tatayammy ♥️ Если хотите взаимные лайки, пишите в коментах ♥️
     location: "Russia"
-    followers: 3399
-    engagement: 1009
-    commentsToLikes: 0.037348
+    followers: 3304
+    engagement: 1328
+    commentsToLikes: 0.031157
     id: ck8f8n5ep3ftd0j78wzbp22q5
     verified: false
-    hashtags: "#seoul, #fw, #models, #catwalk"
-  - username: "cute.pervy"
-    fullname: >-
-      Kate Cute
-    location: "Russia"
-    followers: 5748
-    engagement: 1064
-    commentsToLikes: 0.021897
-    id: cka0rvg3hinvd0i78x2ekskhs
-    verified: false
-    hashtags: "#fortoupage, #modellife, #aliexpress, #pov"
-  - username: "belattrix"
-    fullname: >-
-      Tatty
-    location: "Russia"
-    followers: 37117
-    engagement: 1579
-    commentsToLikes: 0.008692
-    id: ck9f1q3209arc0j78jjhk1h0x
-    verified: false
-    hashtags: "#usefull, #sun, #bit, #poses"
-  - username: "dance_shira"
-    fullname: >-
-      user2662974511852
-    location: "Russia"
-    followers: 112972
-    engagement: 388
-    commentsToLikes: 0.012838
-    id: ck83jz6tt82st0j78y46jvv6s
-    verified: false
-    hashtags: "#military, #slowmo, #krabiisland, #bunker"
-  - username: "fashion.world"
-    fullname: >-
-      Fashion
-    location: "Russia"
-    followers: 63675
-    engagement: 796
-    commentsToLikes: 0.007096
-    id: ck81t1eahup4e0j781b67x2yq
-    verified: false
-    hashtags: "#dancer, #dancelife, #hiphop, #moda"
+    hashtags: "#boredinthehouse, #foryoupage, #ultrasmoothmoves, #fyp"
 ---

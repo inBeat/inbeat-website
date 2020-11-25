@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2020
 description: >-
-  Find top tattoo-artists TikTok influencers in Chicago in 2020. Most popular hashtags: #jamsession #tattoo #neverfitin #quarantine.
+  Find top tattoo-artists TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #tattoo #tattooartist #duet.
 platform: TikTok
+hits: 6
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 6 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "kassiashton"
+  - username: "tattoosby_edwin"
     fullname: >-
-      Kassi Ashton
+      Tattoosby_edwin
+    bio: >-
+      17 year old tattoo artist Chicago 📍 Snapchat: edwin69-69 Cashapp: $EdwinTatts
     location: "United States"
-    followers: 5002
-    engagement: 658
-    commentsToLikes: 0.034904
-    id: cka0oehza3hvn0i78rkzo1git
-    verified: true
-    hashtags: "#maui, #foryourpage, #roots, #happyathome"
-  - username: "deedeedagoat"
-    fullname: >-
-      AMiFamousYet
-    location: "United States"
-    followers: 11435
-    engagement: 946
-    commentsToLikes: 0.014546
-    id: ck9nidg6sgqoh0j78zhnjxk4d
+    followers: 10600
+    engagement: 2022
+    commentsToLikes: 0.009515
+    id: ckc7tb15vxqvf0j236l9kvpct
     verified: false
-    hashtags: "#streetwear, #didafull180, #wishmeluck, #getusfamous"
-  - username: "rockrollg1"
+    hashtags: "#17yearoldtattooartist, #fyp, #tattoo, #chicago"
+  - username: "unitystudiovalpo"
     fullname: >-
-      RockRollG
+      Unity Studio
+    bio: >-
+      NWIndiana LGBTQ+ Tattooing & Piercing IG:@alien_snot@goaskcici@unitystudiovalpo
     location: "United States"
-    followers: 40283
-    engagement: 471
-    commentsToLikes: 0.013056
-    id: ckad5o13zvmp20i78nlxj31sb
+    followers: 29900
+    engagement: 336
+    commentsToLikes: 0.000000
+    id: ckb9ry2vbossc0j23eyujc43r
     verified: false
-    hashtags: "#rockrollg, #sisepuede, #ballinthefamily, #magic"
+    hashtags: "#fyp, #tattoolover, #piercing, #shaveitoff"
   - username: "josueguerrero89"
     fullname: >-
       Josue GUERRERO
+    bio: >-
+      
     location: "United States"
-    followers: 12903
-    engagement: 1022
-    commentsToLikes: 0.018191
+    followers: 12900
+    engagement: 1007
+    commentsToLikes: 0.017878
     id: ck8trb59pqx470j78bsvtc6o7
     verified: false
-    hashtags: "#tattooart, #letters, #tacos, #realistictattoo"
+    hashtags: "#california, #lowriderarte, #lowrider, #artisit"
+  - username: "rockrollg1"
+    fullname: >-
+      RockRollG
+    bio: >-
+      Tattoo Artist from TikTok Orange County, CA 200K? Oldies Playlist 👇🏽
+    location: "United States"
+    followers: 177500
+    engagement: 1099
+    commentsToLikes: 0.032141
+    id: ckad5o13zvmp20i78nlxj31sb
+    verified: true
+    hashtags: "#chicano, #foryou, #foryoupage, #art"
   - username: "v.galeno_arts"
     fullname: >-
       v.galeno_arts
+    bio: >-
+      Victor A. Galeno Just doing what I love ✏️ Follow me on my other platforms!
     location: "United States"
-    followers: 13095
-    engagement: 1046
-    commentsToLikes: 0.019320
+    followers: 12600
+    engagement: 1045
+    commentsToLikes: 0.017772
     id: ck8trb6wlqxck0j78uajhycl7
     verified: false
-    hashtags: "#mexican, #cricutmaker, #crafts, #names"
+    hashtags: "#art, #artist, #foryourpage, #flower"
+  - username: "theevees"
+    fullname: >-
+      TheeVees
+    bio: >-
+      Follow us on ig/@not_booboo_the_foo @maddnaz and on our YouTube channel theevees
+    location: "United States"
+    followers: 67500
+    engagement: 658
+    commentsToLikes: 0.053297
+    id: ckba7wbvg0wqv0j230fyuuwth
+    verified: false
+    hashtags: "#couplegoals, #thestacheman, #mexicano, #tattoo"
   - username: "alimarie.art.lady"
     fullname: >-
       AliMarie
+    bio: >-
+      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
     location: "United States"
-    followers: 39884
-    engagement: 2174
-    commentsToLikes: 0.031880
+    followers: 94300
+    engagement: 2384
+    commentsToLikes: 0.037701
     id: ck9c01pwio0rs0j78l3br6yxf
     verified: false
-    hashtags: "#stevensshield, #radiodemon, #youreadorable, #quarantineart"
+    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
+  - username: "poppyrose783"
+    fullname: >-
+      poppyrose783
+    bio: >-
+      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
+    location: "United States"
+    followers: 5457
+    engagement: 2624
+    commentsToLikes: 0.113685
+    id: cka68dhzmodjh0i78a4v7pinx
+    verified: false
+    hashtags: "#us, #home, #stemlife, #lesbianlife"
   - username: "gabby_gh0ul"
     fullname: >-
       Gabby Gh0ul
+    bio: >-
+      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
     location: "United States"
-    followers: 6422
-    engagement: 1983
-    commentsToLikes: 0.031202
+    followers: 9135
+    engagement: 2867
+    commentsToLikes: 0.039269
     id: cka6lvfjn4pbv0i7816mezidx
     verified: false
-    hashtags: "#dontletthisflop, #curlyhaircheck, #witchywoman, #devil"
-  - username: "alien_artist_"
+    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
+  - username: "artofjondump"
     fullname: >-
-      alien_artist_
+      Jonathan Dump
+    bio: >-
+      North Carolina tattoo artist Shop-Best Ink of Fayetteville 🗺 IG: @artofjondump
     location: "United States"
-    followers: 29363
-    engagement: 1723
-    commentsToLikes: 0.026818
-    id: ck9gsj8viip0d0j78omjuj595
+    followers: 441700
+    engagement: 1514
+    commentsToLikes: 0.026855
+    id: ckbb0mbv4r15u0j23k28pm7x2
     verified: false
-    hashtags: "#love, #foryoupage, #crunchyroll, #keepingactive"
-  - username: "pennylanetattoos"
-    fullname: >-
-      Penny
-    location: "United States"
-    followers: 37375
-    engagement: 1866
-    commentsToLikes: 0.020725
-    id: ck9nrgfa58msd0j78dxubkenb
-    verified: false
-    hashtags: "#bakingrecipe, #sound, #zodiacsign, #twinning"
-  - username: "alena_tattooart"
-    fullname: >-
-      Alena W
-    location: "United States"
-    followers: 7054
-    engagement: 1855
-    commentsToLikes: 0.018939
-    id: ckafu3b628mrq0i787pxaltvu
-    verified: false
-    hashtags: "#portrait, #tiktokart, #blowup, #viral"
+    hashtags: "#stitch, #duet"
 ---

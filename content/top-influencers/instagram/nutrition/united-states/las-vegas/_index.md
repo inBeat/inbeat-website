@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top nutrition Instagram influencers in Las Vegas in 2020. Most popular hashtags: #family #nutrition #birthday #bestfriends.
+  Find top nutrition Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fitness #nutrition #vegas #lasvegas.
 platform: Instagram
+hits: 45
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 45 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
-  - username: "lady_physique"
+  - username: "hurricaneshane_"
     fullname: >-
-      IFBB Pro Victoria Flores
+      Shane Burgos
+    bio: >-
+      Father, husband, son, fighter. Chasing that world title. Blessed ✝️ @teamtigerschulmanns
     location: "United States"
-    followers: 24268
-    engagement: 446
-    commentsToLikes: 0.030653
-    id: ck8sx1rezfx6l0j78s08k0zs2
-    verified: false
-    hashtags: "#ronaabs, #personaltrainer, #fit4lifebodies, #fitnessjourney"
-  - username: "beverlyhillsoptometry"
+    followers: 26124
+    engagement: 746
+    commentsToLikes: 0.039699
+    id: ck5q1lye8bmk20i111tgl9i1i
+    verified: true
+    hashtags: "#ready, #ufc, #hungry, #outworkeveryone"
+  - username: "chris_algieri"
     fullname: >-
-      Dr Kam Silani, Dry Eye Guru
+      Chris Algieri
+    bio: >-
+      Former WBO World Boxing Champion and ISKA+WKA World Kickboxing Champion Author of The Fighter’s Kitchen #ChampionLifestyle Puchase my book 📚 👇🏼👇🏼
     location: "United States"
-    followers: 10696
-    engagement: 758
-    commentsToLikes: 0.016287
-    id: ck13bmd75w4au0i19y0ibd3gf
-    verified: false
-    hashtags: "#united, #rona2020, #friends, #lifeisgood"
-  - username: "sterlingtorress"
+    followers: 74068
+    engagement: 146
+    commentsToLikes: 0.020034
+    id: ck14k5z8znwa50i190iks7rzd
+    verified: true
+    hashtags: "#quarantine, #motivation, #throwbackthursday, #ny"
+  - username: "taradise._"
     fullname: >-
-      STER
+      Tara Nicole Morales
+    bio: >-
+      🦋My Personal Scrapbook📸 💌booktaranicole@gmail.com 👩🏻‍🍳 @tastefullytoned recipes+health tips 👙 @swimsuitusa Int’l finalist | @taranicoletv
     location: "United States"
-    followers: 22068
-    engagement: 666
-    commentsToLikes: 0.051983
-    id: ck5zpm172swdh0i14gueao1aw
+    followers: 16853
+    engagement: 266
+    commentsToLikes: 0.098468
+    id: ck8sxcjgkgw8e0j789zegb03o
     verified: false
-    hashtags: "#shufflegirl, #shuffler, #girlswhocutshapes, #shuffleathome"
+    hashtags: "#food, #fitness, #instagood, #model"
   - username: "shainasavoy"
     fullname: >-
       Shaina Savoy
+    bio: >-
+      Las Vegas Plant based/vegan climber & nutrition therapist master in training @trainingbeta @goclimbon
     location: "United States"
-    followers: 14687
-    engagement: 553
-    commentsToLikes: 0.020218
+    followers: 14931
+    engagement: 546
+    commentsToLikes: 0.021300
     id: ck55jtmmgxpt10i11pitxl7nu
     verified: false
-    hashtags: ""
-  - username: "marco.ruz"
+    hashtags: "#ahmaudarbery, #hashtagged, #challengeaccepted, #womensupportingwomen"
+  - username: "_ronaldguzman"
     fullname: >-
-      IFBB PRO Marco Ruz
+      Ronald Guzman
+    bio: >-
+      #blessed #Diosestaconmigo. 🇩🇴 •Profesional Baseball player for the Texas Rangers @rangers •Dallas Tx📍 •La Vega DR •👻 Ronaldguzman11
     location: "United States"
-    followers: 8788
-    engagement: 694
-    commentsToLikes: 0.045740
-    id: ck5he2uzrqr070i11ftybigfi
-    verified: false
-    hashtags: "#amateur"
-  - username: "duotranscend"
-    fullname: >-
-      Mary And Tyce
-    location: "United States"
-    followers: 122746
-    engagement: 287
-    commentsToLikes: 0.116661
-    id: ck5cc3vjigo3m0i11hlq1dine
+    followers: 44319
+    engagement: 635
+    commentsToLikes: 0.021733
+    id: ck55jsgpixna20i11nr3g6g6d
     verified: true
-    hashtags: "#family, #athlete, #fitnessgoals, #coupleworkouts"
-  - username: "roxannelavin"
+    hashtags: "#partner, #nutrition, #st2020, #weareback"
+  - username: "lady_physique"
     fullname: >-
-      Roxanne Lavin
+      IFBB Pro Victoria Flores
+    bio: >-
+      Health Coach 🥑 Body sculpting/ contouring ♦️ Wood therapy ♦️ Vacuum Butt Lift ♦️ Hyaluron Pen 👄 DM for appointment 📍Las Vegas/ Henderson
     location: "United States"
-    followers: 19226
-    engagement: 323
-    commentsToLikes: 0.045193
-    id: ck6tmohne87zw0j71z41cgl4f
+    followers: 23664
+    engagement: 117
+    commentsToLikes: 0.044658
+    id: ck8sx1rezfx6l0j78s08k0zs2
     verified: false
-    hashtags: "#naturesmedicine, #veganrecipes, #neverlettinggo, #garden"
-  - username: "iammikeyp"
+    hashtags: "#athlete, #fbb, #lasvegas, #fit"
+  - username: "aaronlesue"
     fullname: >-
-      Mikey P
+      Aaron Lesué
+    bio: >-
+      📍Las Vegas 🏈 Undersized kid to D1 & pro. Football (AFL), USA Bobsled, & 7’s Rugby Development 👇🏼Carb Solution Challenge
     location: "United States"
-    followers: 37158
-    engagement: 227
-    commentsToLikes: 0.075921
-    id: ckap1gr2zuiz00i7833vkurl6
-    verified: true
-    hashtags: "#wellbeok, #rampagejackson, #mikeyp, #rampageandmikey"
-  - username: "mikaela_ambrosini"
-    fullname: >-
-      ℳɪƙɑℰℓɑ
-    location: "United States"
-    followers: 39359
-    engagement: 231
-    commentsToLikes: 0.045209
-    id: ckapboigl0pdf0i78gumyuzjl
+    followers: 704781
+    engagement: 282
+    commentsToLikes: 0.007950
+    id: ckap8zpt4qljb0i78ih1jhdn0
     verified: false
-    hashtags: "#bikinis, #goldenhour, #puppies, #summervibes"
+    hashtags: "#longlivetheathlete, #athomeworkouts, #athomefitness, #strong"
   - username: "bodybybreakfast"
     fullname: >-
       Erin Christ
+    bio: >-
+      🎲Las Vegas 💪🏼ED warrior 😀Pun QUEEN 🌱Future Dietitian 💌Bodybybreakfast@gmail.com
     location: "United States"
     followers: 45909
     engagement: 327
     commentsToLikes: 0.143826
     id: ck0tvea3pb2j50i1933gnkret
     verified: false
-    hashtags: "#kodiakcakesplantbased, #oregonwinemonth, #simplyuplantlife, #kodiakcakes"
+    hashtags: "#deats, #glutenfree, #plantbased, #ad"
+  - username: "derekperdue8"
+    fullname: >-
+      Las Vegas Celebrity Trainer
+    bio: >-
+      Derek Perdue 🏆 VOTED BEST TRAINER IN VEGAS 🥗 NUTRITION SPECIALIST 👇🏼👇🏼👇🏼👇🏼
+    location: "United States"
+    followers: 22516
+    engagement: 183
+    commentsToLikes: 0.069015
+    id: ck5c4tliv22rd0i11byntj2p2
+    verified: false
+    hashtags: "#dpgirls, #special, #caring, #savage"
+  - username: "tammy_bellabae_fitness"
+    fullname: >-
+      Tammy 🎀🌴👙💪
+    bio: >-
+      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
+    location: "United States"
+    followers: 11354
+    engagement: 1451
+    commentsToLikes: 0.087957
+    id: ckf5pez4b5ukz0j2385upfgyk
+    verified: false
+    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
 ---

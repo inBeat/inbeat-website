@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top Instagram influencers in San Antonio in 2020. Most popular hashtags: #sponsored #fitover50 #pearls #paramourbar.
+  Find top Instagram influencers in San Antonio in 2020. Most popular hashtags: #ad #ootd #sponsored.
 platform: Instagram
+hits: 376
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 376 Instagram influencers like this in San Antonio, United States for you to collaborate.
 profiles:
-  - username: "hector_tanajara"
-    fullname: >-
-      El Finito
-    location: "United States"
-    followers: 18433
-    engagement: 963
-    commentsToLikes: 0.026151
-    id: ck5hisq1vf6qf0i11pyl00xj6
-    verified: true
-    hashtags: "#january11th, #jordanyear, #familia, #jetsway"
-  - username: "barelyblonde_"
-    fullname: >-
-      Christine L
-    location: "United States"
-    followers: 32968
-    engagement: 283
-    commentsToLikes: 0.089524
-    id: ck5c46ofn0pok0i114nec5krx
-    verified: false
-    hashtags: "#thefrankeffect, #rdbabe, #ltkunder50, #ltkstyletip"
-  - username: "iamquinn_11"
-    fullname: >-
-      Quinndary Weatherspoon
-    location: "United States"
-    followers: 26692
-    engagement: 1881
-    commentsToLikes: 0.023033
-    id: ck6uaa59r2eeb0j71ha56jkah
-    verified: true
-    hashtags: "#exit119"
   - username: "jadencavazos"
     fullname: >-
       
+    bio: >-
+      san antonio texas snap: @jadencavazoss tiktok @jadencavazos 27k!!
     location: "United States"
-    followers: 2168
-    engagement: 2411
-    commentsToLikes: 0.079884
+    followers: 2299
+    engagement: 6821
+    commentsToLikes: 0.078641
     id: ck8wdaf8jdkf20j78ornr46g3
     verified: false
-    hashtags: "#stayhome, #sponsored, #ad, #disposablecamera"
-  - username: "nilaya_xoxo"
+    hashtags: "#blacklivesmatter, #blm, #bidenharris2020, #coronavirus"
+  - username: "kimberlyfox_tv"
     fullname: >-
-      🌸ɴ ɪ ʟ ᴀ ʏ ᴀ🌸
+      Kimberly Crawford
+    bio: >-
+      Host “Daytime w/ Kimberly & Esteban” •San Antonio FOX29•Corpus Christi FOX38 •Beaumont FOX6•Abilene ABC12 •El Paso KFOX•Rio Grande Valley KRGV5
     location: "United States"
-    followers: 8603
-    engagement: 915
-    commentsToLikes: 0.056743
-    id: ck5cdapfmiu0v0i11gh5ajy5c
+    followers: 14897
+    engagement: 718
+    commentsToLikes: 0.096492
+    id: ck5zjwxfbievx0i14bhahap59
     verified: false
-    hashtags: "#spikes, #wingedliner, #sweaterweather, #yktfv"
-  - username: "queenaa.h"
+    hashtags: "#tvhost, #daytimefromhome, #tribe, #ootd"
+  - username: "official.jc1"
     fullname: >-
-      M I N A
+      𝕵𝕮
+    bio: >-
+      WATCH MY STORY 🙉 TikTok:@official.jc1 (100k+) FwTx/San Antonio 📍 @jc2nasty_
     location: "United States"
-    followers: 20186
-    engagement: 619
-    commentsToLikes: 0.093614
-    id: ck8tdfco235920j7849pz262e
+    followers: 9661
+    engagement: 1386
+    commentsToLikes: 0.035355
+    id: ck6u4gkc23ldh0j71e7drmbfu
     verified: false
-    hashtags: "#hijabilookbook, #ootd, #hijabneed, #corona"
-  - username: "saramichelelewis"
+    hashtags: "#explore, #explorepage, #exploremore, #19"
+  - username: "desslaying"
     fullname: >-
-      Sara Lewis
+      Des💅🏽
+    bio: >-
+      Only social media ‼️. San Antonio TX 📍 Certified Lash Technician @beautyblvdlashes 💝
     location: "United States"
-    followers: 10704
-    engagement: 597
-    commentsToLikes: 0.164458
-    id: ck8tcpfac06e20j780uv10tx1
+    followers: 5866
+    engagement: 830
+    commentsToLikes: 0.095837
+    id: ckap2lv46zemc0i787h4xf8ap
     verified: false
-    hashtags: "#cookingathome, #loveatfirstbite, #crib, #ltkshoecrush"
-  - username: "thehosleyone"
+    hashtags: "#andistilllovebeingblack, #blackisbeautiful"
+  - username: "hector_tanajara"
     fullname: >-
-      Christian Hosley
+      El Finito
+    bio: >-
+      Professional boxer signed with Golden Boy Promotions 👊 19-0 (5KO's) #TeamTanajara #RGBA #210 💯 Westside San Antonio, Texas Twitter: hector_tanajara
     location: "United States"
-    followers: 2593
-    engagement: 1820
-    commentsToLikes: 0.099296
-    id: ckapavzyyxo870i78yc3w3me9
-    verified: false
-    hashtags: "#watchtheyardpushupchallenge, #hosleystrong"
-  - username: "official.arissa.miaa"
-    fullname: >-
-      L O V E  M I A  A R I S S A 🦋
-    location: "United States"
-    followers: 2475
-    engagement: 1630
-    commentsToLikes: 0.113432
-    id: ck8sxxha7j14r0j7853no2h6j
-    verified: false
-    hashtags: "#exporepage, #explore, #explorepage, #slideright"
+    followers: 20480
+    engagement: 904
+    commentsToLikes: 0.028917
+    id: ck5hisq1vf6qf0i11pyl00xj6
+    verified: true
+    hashtags: "#rgba, #210, #teamtanajara, #237"
   - username: "drewdatower"
     fullname: >-
       Drew Eubanks
+    bio: >-
+      •Portland•San Antonio•
     location: "United States"
-    followers: 11598
-    engagement: 1385
-    commentsToLikes: 0.017051
+    followers: 13469
+    engagement: 1337
+    commentsToLikes: 0.021827
     id: ck5cemvahlaxk0i11jtkbcxx5
     verified: true
-    hashtags: ""
+    hashtags: "#satx, #spurs, #sanantoniospurs, #nba"
+  - username: "saramichelelewis"
+    fullname: >-
+      Sara Lewis
+    bio: >-
+      everyday style • sales in stories • daily life wife + mama | san antonio, texas 💌 saramichelelewis@gmail.com 👇🏻 shop it all here
+    location: "United States"
+    followers: 10073
+    engagement: 605
+    commentsToLikes: 0.154795
+    id: ck8tcpfac06e20j780uv10tx1
+    verified: false
+    hashtags: "#sponsored, #ltksalealert, #blogger, #americanstyle"
+  - username: "iamquinn_11"
+    fullname: >-
+      Quinndary Weatherspoon
+    bio: >-
+      San Antonio Spurs 🏀
+    location: "United States"
+    followers: 28038
+    engagement: 1427
+    commentsToLikes: 0.018460
+    id: ck6uaa59r2eeb0j71ha56jkah
+    verified: true
+    hashtags: "#exit119, #24"
+  - username: "dulceravelo"
+    fullname: >-
+      Dulce Yisel Ravelo 🇲🇽
+    bio: >-
+      David ❥ San Antonio Mua 💋 Created with a purpose Owner of @raveloboutique
+    location: "United States"
+    followers: 46370
+    engagement: 512
+    commentsToLikes: 0.030278
+    id: ck139pnyzmike0i19vopc7xpi
+    verified: false
+    hashtags: "#benefitclubpink, #ad, #wellsfargofoodbank, #driveupfoodbank"
+  - username: "queenaa.h"
+    fullname: >-
+      M I N A
+    bio: >-
+      basically not basic Modesty | Fashion | Beauty San Antonio, TX 📧 minahamideh@gmail.com
+    location: "United States"
+    followers: 21121
+    engagement: 490
+    commentsToLikes: 0.049083
+    id: ck8tdfco235920j7849pz262e
+    verified: false
+    hashtags: "#muslimahfashion, #hijabdaily, #hijablove, #hijabootd"
 ---

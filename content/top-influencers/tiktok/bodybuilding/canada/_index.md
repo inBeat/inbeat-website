@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding TikTok Influencers In Canada In 2020
 description: >-
-  Find top bodybuilding TikTok influencers in Canada in 2020. Most popular hashtags: #bodybuilding #motivation #chest #homeworkout.
+  Find top bodybuilding TikTok influencers in Canada in 2020. Most popular hashtags: #bodybuilding #fyp #foryou #fitness.
 platform: TikTok
+hits: 13
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "justin_agustin"
+  - username: "mutantnation"
     fullname: >-
-      Justin Agustin
+      MutantNation
+    bio: >-
+      | The Best TikTok Bodybuilding Page | ☣️LEAVE HUMANITY BEHIND☣️ IG MutantNation
     location: "Canada"
-    followers: 15988
-    engagement: 512
-    commentsToLikes: 0.050551
-    id: cka6nwq5td58v0i78zmwhtvtw
+    followers: 25200
+    engagement: 561
+    commentsToLikes: 0.016801
+    id: ckbkutf29q0vk0j23f3jmtjtk
     verified: false
-    hashtags: "#calm, #workouttips, #crossfit, #flexibiltiy"
+    hashtags: "#celebratedoctors, #topdog, #mutantnation, #homeworkout"
+  - username: "yourdailyfit"
+    fullname: >-
+      Isaac Besse
+    bio: >-
+      Come for the Comedy, Stay for the Advice
+    location: "Canada"
+    followers: 11500
+    engagement: 896
+    commentsToLikes: 0.046774
+    id: ckcp3509abtg40j23loaijn5x
+    verified: false
+    hashtags: "#getfit, #summerworkout, #aesthetics, #gainz"
+  - username: "jaycelesteron"
+    fullname: >-
+      Gwapo_boi
+    bio: >-
+      Jaycel Esteron Yup I deleted all my old TikToks
+    location: "Canada"
+    followers: 14500
+    engagement: 1000
+    commentsToLikes: 0.036163
+    id: ckb9o5biwi83l0j23mzm7g957
+    verified: false
+    hashtags: "#gym, #bodybuilding, #summervibes, #filipino"
   - username: "dtrenmuscle"
     fullname: >-
       Devin Trenholm
+    bio: >-
+      Owner of Swolefit Inc. Fitness Coach Clothing line Instagram @dtrenmuscle
     location: "Canada"
-    followers: 5357
-    engagement: 533
-    commentsToLikes: 0.041277
+    followers: 11600
+    engagement: 671
+    commentsToLikes: 0.048481
     id: cka0xt6tz8i290i78z1zf5hyy
     verified: false
-    hashtags: "#hulkpower, #bicepchallenge, #ilove, #caps"
+    hashtags: "#beardsandtattoos, #tatts, #homeworkout, #fitness"
+  - username: "cydneerosee"
+    fullname: >-
+      Cydnee Graham
+    bio: >-
+      💪🏿🇨🇦 Follow My Insta ! @Cydneerosee
+    location: "Canada"
+    followers: 4660
+    engagement: 619
+    commentsToLikes: 0.031189
+    id: ckc8e87sc9mbz0j23oe163fk3
+    verified: false
+    hashtags: "#canadian, #gymrat, #bodybuilding, #random"
   - username: "balloonpower"
     fullname: >-
-      Dace Amaral
+      Tik Toker
+    bio: >-
+      No bio yet
     location: "Canada"
-    followers: 16059
-    engagement: 461
-    commentsToLikes: 0.022193
+    followers: 19000
+    engagement: 538
+    commentsToLikes: 0.019837
     id: ck9gkpdlxksh40j784pcr6hkl
     verified: false
-    hashtags: "#biceps, #swole, #crayzy, #beard"
-  - username: "jasjeetkhairafitness"
+    hashtags: "#bodybuilder, #mrbeast, #muscle, #wreckitralph"
+  - username: "npaasport"
     fullname: >-
-      Jasjeetkhairafitness
+      NPAAsport 
+    bio: >-
+      Official page of the NPAA 🇨🇦 #1 Natural Physique and Athletics Association
     location: "Canada"
-    followers: 14032
-    engagement: 244
-    commentsToLikes: 0.024817
-    id: ckacq194hylbh0i78cnwmcok5
+    followers: 5045
+    engagement: 487
+    commentsToLikes: 0.012233
+    id: ckdn85tmgfada0j2319mh9hbw
     verified: false
-    hashtags: "#wife, #gamenight, #pullups, #mycrib"
-  - username: "nathan_nate01"
+    hashtags: "#foryou, #fyp, #community, #foru"
+  - username: "hsimranofficial365"
     fullname: >-
-      Nathan_Nate01
+      Harsimran Singh
+    bio: >-
+      Surrey 🇨🇦 Instagram "hsimranofficial" YouTube:- Harsimran Singh Official
     location: "Canada"
-    followers: 38641
-    engagement: 1860
-    commentsToLikes: 0.031235
-    id: ck806wevqmk590j78zso79y5o
+    followers: 278200
+    engagement: 610
+    commentsToLikes: 0.006856
+    id: ckbl6bddm40sc0j23ffe2j8fk
     verified: false
-    hashtags: "#cupchallenge, #notmyday, #babyfactory, #tomorrow"
-  - username: "natalieallport"
+    hashtags: "#harsimransingh, #punjab, #india, #chandigarh"
+  - username: "tg.lu"
     fullname: >-
-      Natalie Allport
+      Tiger Luu
+    bio: >-
+      Everything went downhill after I was named 🇨🇦
     location: "Canada"
-    followers: 15247
-    engagement: 932
-    commentsToLikes: 0.039603
-    id: ck8qe3whcqx7a0j787aanljr4
+    followers: 75700
+    engagement: 1947
+    commentsToLikes: 0.046180
+    id: ckbwebhlu1gr60j230hku2xh2
     verified: false
-    hashtags: "#relatable, #coreworkout, #workout, #lakelife"
-  - username: "fellgyflex"
+    hashtags: "#cover, #fyp, #foryou, #singing"
+  - username: "izzy42hotmom"
     fullname: >-
-      fellgyflex
+      Isabelle O’Brien
+    bio: >-
+      Empowerment through healthy lifestyle
     location: "Canada"
-    followers: 5998
-    engagement: 407
-    commentsToLikes: 0.075994
-    id: ckafu1p8g86aq0i781h0ivw2b
+    followers: 15400
+    engagement: 369
+    commentsToLikes: 0.053048
+    id: ckcpu43wnp1010j23k8qt2ymf
     verified: false
-    hashtags: "#workoutfromhome, #legday, #bodybuilding, #pushups"
-  - username: "alexis_j_v"
-    fullname: >-
-      Alexis_J_V
-    location: "Canada"
-    followers: 12889
-    engagement: 828
-    commentsToLikes: 0.022664
-    id: cka0l2omnp96v0i786w3efjne
-    verified: false
-    hashtags: "#stayfresh, #ryth, #gaymuscle, #bodybuilders"
-  - username: "makaylaanisa"
-    fullname: >-
-      Makayla Anisa
-    location: "Canada"
-    followers: 159467
-    engagement: 654
-    commentsToLikes: 0.015123
-    id: ck90ykqsgaoag0j78o2s8wnyn
-    verified: false
-    hashtags: "#suntan, #style, #homeworkout, #smashthissesh"
-  - username: "kingofthelifts"
-    fullname: >-
-      King Of The Lifts
-    location: "Canada"
-    followers: 18797
-    engagement: 682
-    commentsToLikes: 0.022726
-    id: ck8tq5lmpqphc0j782qtlwc2m
-    verified: false
-    hashtags: "#squatting, #olympic, #bodybuilding, #deads"
+    hashtags: "#summer2020, #mmodels, #body, #love"
 ---

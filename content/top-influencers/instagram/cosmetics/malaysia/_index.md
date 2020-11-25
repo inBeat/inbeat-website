@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Malaysia in 2020. Most popular hashtags: #skincare #cosmetic #asianbeauty #cosmetics.
+  Find top cosmetics Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #love #skincare #cosmetics.
 platform: Instagram
+hits: 26
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 26 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "aidaazkssm"
+  - username: "azrilradzi"
     fullname: >-
-      Aida Azira
+      azrilradzi
+    bio: >-
+      V’Asia Cosmetic Positive peoples, vibes & comments only... @vasia.official
     location: "Malaysia"
-    followers: 286788
-    engagement: 234
-    commentsToLikes: 0.008005
-    id: ck5c0zokcu5s50i11d84f8p0s
-    verified: false
-    hashtags: "#magicilipsbyanissafaizul, #proacnesolution, #whitening, #toothpaste"
-  - username: "zoe_aw"
+    followers: 109864
+    engagement: 154
+    commentsToLikes: 0.027683
+    id: ck6u0e7cif65s0j71k3sks2tz
+    verified: true
+    hashtags: "#galaxybudslive, #teamgalaxy, #backbone, #cuticutimalaysia"
+  - username: "gebrielpadan"
     fullname: >-
-      Zoe Aw淑怡
+      GEBRIEL PADAN®
+    bio: >-
+      Art & Culture Founder of @oryzaskincare_ Founder of Gebriel Padan Artistry Studio Contact Number: +6010948228 Tap the link below to make a booking:
     location: "Malaysia"
-    followers: 22624
-    engagement: 539
-    commentsToLikes: 0.022703
-    id: ckap50a5z9lz60i78pcgymlkj
+    followers: 100060
+    engagement: 109
+    commentsToLikes: 0.009968
+    id: ck5q8353e47ws0i115k5rkrkq
     verified: false
-    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
-  - username: "merrie_22"
-    fullname: >-
-      Merrie 饼饼
-    location: "Malaysia"
-    followers: 134749
-    engagement: 394
-    commentsToLikes: 0.006060
-    id: ck14l9lvrtj8o0i19ggjlfty8
-    verified: false
-    hashtags: "#tiktokdance, #makeuptutorial, #blemish, #alivewithbeauty"
-  - username: "josephy_li"
-    fullname: >-
-      女册··姗
-    location: "Malaysia"
-    followers: 327358
-    engagement: 179
-    commentsToLikes: 0.012088
-    id: ck0w5fc0n3dc40i19feqkzjjc
-    verified: false
-    hashtags: "#eyemask, #miaeyemask, #staywithme, #no1onlinecasinosingapore"
+    hashtags: "#bobbibrownmy, #oryza, #maccosmetic, #sarawakian"
   - username: "jessiekmy"
     fullname: >-
       Jessie k ◡̈
+    bio: >-
+      ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀Live a life you'll remember 🦌⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀
     location: "Malaysia"
-    followers: 41690
-    engagement: 297
-    commentsToLikes: 0.024871
+    followers: 41153
+    engagement: 328
+    commentsToLikes: 0.026863
     id: ck0ttdt0z2auv0i19by3rex7i
     verified: false
-    hashtags: "#cosmetic, #review, #bouncecarnival, #miracleskincare"
-  - username: "impollylau"
+    hashtags: "#sonyalphamalaysia, #sony135mmf18, #cafeteller, #sonyalpha"
+  - username: "falazainal"
     fullname: >-
-      Polly Lau ⭐️
+      F A L
+    bio: >-
+      #designwithfal 5"4 🇲🇾 KL • @sobersquadpro Business enquiries; DM📮or Email 📧
     location: "Malaysia"
-    followers: 40144
-    engagement: 209
-    commentsToLikes: 0.015550
-    id: ck0vwiyl8u13s0i19bg217uae
+    followers: 91686
+    engagement: 177
+    commentsToLikes: 0.009514
+    id: ck5zl19uykjnz0i14ib3fnzbq
     verified: false
-    hashtags: "#getherlook, #makeup, #makeupoftheday, #tvc"
-  - username: "hello_tothe_necessities_blog"
+    hashtags: "#ootd, #tb, #staysafe, #stayhome"
+  - username: "kexinkexinn"
     fullname: >-
-      kanwal usman
+      林可欣𝙆𝙚𝙓𝙞𝙣 ™
+    bio: >-
+      2017 《我想和你唱²》第十二期 王俊凱 2019 《女朋友》个人单曲 2020《转圈圈》🎬 少年李白·花月离 推广曲 ᠻʙ ᴘᴀɢᴇ ➡️ 林可欣ᴋᴇxɪɴ ᴡᴇɪʙᴏ 微博 ➡️林可欣ᴋᴇxɪɴ 📩 ᴋᴇxɪɴᴋᴇxɪɴɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ
     location: "Malaysia"
-    followers: 11241
-    engagement: 640
-    commentsToLikes: 0.367097
-    id: ck9wgp9dcudmu0j78gscy2bhd
+    followers: 12675
+    engagement: 504
+    commentsToLikes: 0.012109
+    id: ck6tmox0188u40j7171yb7eky
     verified: false
-    hashtags: "#tipsntricks, #sale, #together, #loveforcheese"
+    hashtags: "#love, #asian, #loveyourself, #ootd"
+  - username: "sarahmaylow"
+    fullname: >-
+      Malaysia No.1 Tarot Reader 🔮🃏
+    bio: >-
+      Cult Leader | Astrologer | Miss Msia Earth Energetic ‘13 | Sociologist | PhD Candidate | Boss @sarahmaylowtarotacademy 👇Book a TAROT READING👇
+    location: "Malaysia"
+    followers: 47972
+    engagement: 244
+    commentsToLikes: 0.014824
+    id: ck5hdx1pdptcl0i11m5ynfrid
+    verified: false
+    hashtags: "#malaysia, #smltarot, #tarot, #kltarot"
+  - username: "madhumacintosh"
+    fullname: >-
+      madhumohana
+    bio: >-
+      Official account of Madhu Mohana 🇸🇬 | Tampines Rovers Football Club ⚽️ 👟 Mizuno Singapore 📲 Email/Dm for collabs 📧 madhumohana.lionsxii@gmail.com
+    location: "Malaysia"
+    followers: 11250
+    engagement: 441
+    commentsToLikes: 0.040059
+    id: ckap3zqrt57gh0i78riharg59
+    verified: false
+    hashtags: "#sgunited, #wuhan, #charity, #tampinesrovers"
+  - username: "ken_doll_dubaiii"
+    fullname: >-
+      Adnan Zafar🧿
+    bio: >-
+      1st 🇵🇰 Ken Doll 📍🇦🇪 Fashion ° Skincare ° Food Throwing kindness around like confetti.
+    location: "Malaysia"
+    followers: 57361
+    engagement: 107
+    commentsToLikes: 0.371163
+    id: ck9wgdlsxsyfu0j78x13l2lwd
+    verified: false
+    hashtags: "#mydubai, #foodporn, #foodie, #lifeofkendoll"
+  - username: "magg.my"
+    fullname: >-
+      Maggie Soo 苏慧琳
+    bio: >-
+      Cheerful, full of life and happy hopes 🥰🌻 Team @instafluencer_malaysia @sevenvault 🇲🇾@funnoqs Restaurant Ambassador @lameimalahotpot
+    location: "Malaysia"
+    followers: 21148
+    engagement: 496
+    commentsToLikes: 0.013455
+    id: ck5q81mo541uw0i11qyalfwki
+    verified: false
+    hashtags: "#nattacosme, #malaysia, #nattacosmereview, #natural"
   - username: "nicoluvxxx"
     fullname: >-
       Nicole Teh • 🏝
+    bio: >-
+      Follow me on Tik Tok ➡️ nicotone 📍KL & PG 📮 Drop me a mail
     location: "Malaysia"
     followers: 14207
     engagement: 410
     commentsToLikes: 0.007454
     id: ck0vycq3p3bzt0i199qq7r7bd
     verified: false
-    hashtags: "#calvinharris, #ramadan, #clothingbrand, #flight"
-  - username: "shelfanr"
-    fullname: >-
-      𝙨𝙝𝙚𝙡𝙛𝙖
-    location: "Malaysia"
-    followers: 6482
-    engagement: 1022
-    commentsToLikes: 0.021305
-    id: ck5zj6k7oh1d50i14cfz9v33b
-    verified: false
-    hashtags: "#logohouseplm, #passthebrush"
-  - username: "irin.ezleen"
-    fullname: >-
-      Irinezleen
-    location: "Malaysia"
-    followers: 25336
-    engagement: 360
-    commentsToLikes: 0.017448
-    id: ck6tj248v1uzd0j7114drcwib
-    verified: false
-    hashtags: "#makeuptutorial, #simplemakeuplook, #sisrayaduluokay, #watsonsmy"
+    hashtags: "#style, #followme, #ootd, #instagood"
 ---

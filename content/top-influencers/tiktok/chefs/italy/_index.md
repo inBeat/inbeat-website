@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In Italy In 2020
 description: >-
-  Find top chefs TikTok influencers in Italy in 2020. Most popular hashtags: #chef #drink #italiancheck #greenscreen.
+  Find top chefs TikTok influencers in Italy in 2020. Most popular hashtags: #imparacontiktok #food #ricettafacile #italy.
 platform: TikTok
+hits: 38
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 38 TikTok influencers like this in Italy for you to pitch.
 profiles:
+  - username: "chefmassimiliano"
+    fullname: >-
+      chefmassimilianolava
+    bio: >-
+      👨🏼‍🍳 Chef Massi 🥢 Impara a cucinare con me 📈 Nuovo progetto per voi a breve
+    location: "Italy"
+    followers: 348400
+    engagement: 1427
+    commentsToLikes: 0.011496
+    id: ck9re3ac60lpp0j78y98jh3bh
+    verified: false
+    hashtags: "#chefadomicilio, #ricettafacile, #mcdonalds, #imparacontiktok"
   - username: "bruno.barbieri"
     fullname: >-
       BrunoBarbieriChef
+    bio: >-
+      Official Tik Tok Page Chef Bruno Barbieri 7 Michelin Star in Career #madeintaly
     location: "Italy"
-    followers: 422500
-    engagement: 930
-    commentsToLikes: 0.011374
+    followers: 623200
+    engagement: 1010
+    commentsToLikes: 0.010958
     id: ck9re386z0l3v0j780o0g1y12
     verified: true
-    hashtags: "#solocosebelle, #coooooooooooos, #ragazz, #y2k"
+    hashtags: "#amici, #imparacontiktok, #estate, #buona"
+  - username: "chefdamianocarrara"
+    fullname: >-
+      ChefDamianoCarrara
+    bio: >-
+      Official Tik Tok Chef Damiano Carrara
+    location: "Italy"
+    followers: 248000
+    engagement: 1178
+    commentsToLikes: 0.008153
+    id: ckdhbd5p0vsrz0j23ldglj2f3
+    verified: true
+    hashtags: "#pausa, #bellino, #tik, #imparacontiktok"
+  - username: "balatel"
+    fullname: >-
+      Balatel
+    bio: >-
+      🌻Cameranem :ME,I love making video 👩🏻‍🍳Chef: Elena Popa Instagram:dordebun
+    location: "Italy"
+    followers: 12800
+    engagement: 872
+    commentsToLikes: 0.018028
+    id: ckb9g3eax4pgm0j23ak2j9830
+    verified: false
+    hashtags: "#italy, #cute, #fyp, #happy"
+  - username: "uagli0"
+    fullname: >-
+      Guoyou Z
+    bio: >-
+      Chef sognatore Seguitemi su instagram
+    location: "Italy"
+    followers: 38600
+    engagement: 809
+    commentsToLikes: 0.011416
+    id: ckavmulcpww2r0j23hmhx0swu
+    verified: false
+    hashtags: ""
+  - username: "gabriele_sofia"
+    fullname: >-
+      Gabriele Sofia
+    bio: >-
+      ◼ 23 Y.o FoodLover 👨‍🍳 ◾ Italy, Calabria🔥 ▪️ Private Chef 👻
+    location: "Italy"
+    followers: 3369
+    engagement: 509
+    commentsToLikes: 0.050965
+    id: ckav40afkaee60j239rnvyayg
+    verified: false
+    hashtags: "#foodoftiktok, #italianfood, #food, #cucinaitaliana"
   - username: "letortedigiadaofficial"
     fullname: >-
       Letortedigiada
+    bio: >-
+      Cake Design , Pastry Chef , Artistico Choccolate , Teacher of Modelling
     location: "Italy"
-    followers: 34303
-    engagement: 1017
-    commentsToLikes: 0.009907
+    followers: 51100
+    engagement: 607
+    commentsToLikes: 0.018360
     id: ck92xop14zif30j7812x16ihg
     verified: false
-    hashtags: "#stayathome, #louisvuitton, #oreo, #gold"
-  - username: "antoninobucolo"
+    hashtags: "#google, #letortedigiadaofficial, #redvelvet, #italy"
+  - username: "omarleccesi"
     fullname: >-
-      Antonino Bucolo
+      Omar Leccesi
+    bio: >-
+      CEO of “next livel” 👨‍🍳 Chef at Ristorante La Villetta (Rm) ⬇️ GUARDA QUI ⬇️
     location: "Italy"
-    followers: 64896
-    engagement: 382
-    commentsToLikes: 0.031523
-    id: ck81q77gmgibm0j78kpf3wlg7
+    followers: 323300
+    engagement: 851
+    commentsToLikes: 0.009156
+    id: ckbkqe0qakofo0j23xb9jbgom
     verified: false
-    hashtags: "#foodwehate, #cznburak, #gnocchi, #farfalline"
-  - username: "sorbilloofficial"
+    hashtags: "#perte, #nextlivel, #fyp, #neiperte"
+  - username: "chefincamicia"
     fullname: >-
-      Gino Sorbillo
+      chefincamicia
+    bio: >-
+      Benvenuti nel canale TikTok degli Chef in Camicia!
     location: "Italy"
-    followers: 4299
-    engagement: 395
-    commentsToLikes: 0.013086
-    id: ck8to6t5ylifg0j78u5rs3yq0
+    followers: 141600
+    engagement: 896
+    commentsToLikes: 0.008663
+    id: ck9du530iezqq0j78clvjkl0p
     verified: false
-    hashtags: "#italia, #napolipizza, #pizzanapoletana, #tiktok"
-  - username: "roccobuffone"
+    hashtags: "#cooking, #aperitivotime, #chef, #sicily"
+  - username: "aleciottolo"
     fullname: >-
-      Rocco Buffone
+      ManciAmoconmanci
+    bio: >-
+      Se ti piace mangiar bene,conoscere il cibo e sorridere seguimi e metti like🤗🤗
     location: "Italy"
-    followers: 17890
-    engagement: 1133
-    commentsToLikes: 0.007331
-    id: ck92xosu1zjd70j78jp5i3r6t
+    followers: 23200
+    engagement: 985
+    commentsToLikes: 0.023403
+    id: ckai7ieej0cfu0i782zoh6qh6
     verified: false
-    hashtags: "#alexa, #ricetta, #sushi, #taste"
-  - username: "simonlucareal"
-    fullname: >-
-      SimonLuca
-    location: "Italy"
-    followers: 15408
-    engagement: 453
-    commentsToLikes: 0.021847
-    id: ck81q942wgx3o0j78czuviqdt
-    verified: false
-    hashtags: "#maturare, #nerd, #switch, #cantanti"
-  - username: "ale_merca_0606i"
-    fullname: >-
-      Ale🌸
-    location: "Italy"
-    followers: 2811
-    engagement: 1576
-    commentsToLikes: 0.065482
-    id: cka0tnjq8qmnm0i78h45ilrfr
-    verified: false
-    hashtags: "#biscotti, #friend, #bianco, #rallentatore"
-  - username: "blackcatwildsoul"
-    fullname: >-
-      Young.Ecate
-    location: "Italy"
-    followers: 3388
-    engagement: 436
-    commentsToLikes: 0.075660
-    id: cka0ly60ot0kq0i78lxax25h3
-    verified: false
-    hashtags: "#saturdaymood, #foryoupag, #creepytiktok, #comolago"
-  - username: "ele_sini93"
-    fullname: >-
-      Elena Sinigaglia
-    location: "Italy"
-    followers: 19154
-    engagement: 756
-    commentsToLikes: 0.040243
-    id: ckacig8h63aqr0i7818tk57gu
-    verified: false
-    hashtags: "#gman, #pancakes, #fragole, #cereali"
-  - username: "theliving_man"
-    fullname: >-
-      TheLivingMan
-    location: "Italy"
-    followers: 22742
-    engagement: 535
-    commentsToLikes: 0.046423
-    id: ckal55lk45f7d0i78dbkkf2et
-    verified: false
-    hashtags: "#italianfood, #madein, #goodvibes, #mercedes"
+    hashtags: "#cucinare, #food, #tiktok, #imparacontiktok"
 ---

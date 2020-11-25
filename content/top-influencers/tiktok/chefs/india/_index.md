@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs TikTok Influencers In India In 2020
 description: >-
-  Find top chefs TikTok influencers in India in 2020. Most popular hashtags: #whyjustaday #janatacurfew #pasta #tiktok.
+  Find top chefs TikTok influencers in India in 2020. Most popular hashtags: #tiktok #tiktokchef #tiktokindia #viral.
 platform: TikTok
+hits: 85
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 85 TikTok influencers like this in India for you to pitch.
 profiles:
-  - username: "sunuat"
+  - username: "rahul.arora.1982"
     fullname: >-
-      Sunu AT
+      Rahul Arora
+    bio: >-
+      Chef, entrepreneur from kolkata, #BitchyBawarchi #chub #bear 😍😍❤️❤️ #punjabi
     location: "India"
-    followers: 9311
-    engagement: 3742
-    commentsToLikes: 0.073439
-    id: ck9nnhgnqp9ky0j78mwcrgl7g
+    followers: 2970
+    engagement: 2208
+    commentsToLikes: 0.314539
+    id: ckcjg5p6rbfrk0j234y1zc4hh
     verified: false
-    hashtags: "#duet, #singlepasanga, #habebi, #broken"
-  - username: "ajjusk"
+    hashtags: "#viral, #oldisgold, #tiktokkolkata, #dancing"
+  - username: "binulal_achuz"
     fullname: >-
-      👑Ajju Sk👑
+      Binulal Achuz 
+    bio: >-
+      💕💕💕അമ്മ 💕💕💕 😍_Chef_Life_😍 UK - United Kochi 💪💖
     location: "India"
-    followers: 788229
-    engagement: 1202
-    commentsToLikes: 0.016640
-    id: ckad99ufscnux0i78e3eu8w1o
-    verified: true
-    hashtags: "#birthdayparty, #mumbai, #wastad, #brokenheart"
-  - username: "wasimakramshaikh91"
-    fullname: >-
-      Wasim Akram Shaikh
-    location: "India"
-    followers: 1292537
-    engagement: 712
-    commentsToLikes: 0.009553
-    id: ck9tv09ecoe0r0j783rs4e2sn
+    followers: 3952
+    engagement: 2893
+    commentsToLikes: 0.019499
+    id: ckbqlohkg6syw0j23kalw2qzq
     verified: false
-    hashtags: "#arielsharetheload"
-  - username: "chefkelvincheung"
+    hashtags: "#malayalam, #happybirthday, #lovemusic, #love"
+  - username: "bihari_babu"
     fullname: >-
-      Kelvin Cheung
+      BBcreation 🍛
+    bio: >-
+      FoodCreator Insta chef_bihari_babu BihariBabu.creation@gmail.com 10-11PM Live
     location: "India"
-    followers: 7588
-    engagement: 624
-    commentsToLikes: 0.020766
-    id: cka0x4nrz5ic60i78dqweoclk
+    followers: 482500
+    engagement: 520
+    commentsToLikes: 0.010160
+    id: ck999sfq4e09j0j7836pcp7oy
     verified: true
-    hashtags: "#banana, #smoothie, #bacon, #sugar"
+    hashtags: "#food, #theyofood, #whatieatinaday, #biharibabu"
   - username: "khanasajana"
     fullname: >-
       khana sajana
+    bio: >-
+      Chef by passion, not by profession #1 min. recipe 
     location: "India"
-    followers: 366675
-    engagement: 420
-    commentsToLikes: 0.006205
+    followers: 404700
+    engagement: 330
+    commentsToLikes: 0.010665
     id: ck9pmib8e9nm90j78lcf7c1za
     verified: true
-    hashtags: "#gulabjamun, #khaja, #lockdown, #vada"
-  - username: "chefkunal"
+    hashtags: "#easyrecipes, #cookathome, #healthyrecipes, #3ingredientsrecipes"
+  - username: "shahmisba"
     fullname: >-
-      Kunal Kapur
+      Shah Misba
+    bio: >-
+      KHWAJA ki deewani♥️ #medico💊💉 #futuredoctor👩 #chef👩‍🍳 insta@moms_kitchennnn
     location: "India"
-    followers: 1553362
-    engagement: 443
-    commentsToLikes: 0.003743
-    id: ck8qoxswm11ec0j78vyhxje0a
-    verified: true
-    hashtags: "#happynewyear, #janatacurfew, #icetea, #gharwali"
-  - username: "saranshgoila"
+    followers: 7700
+    engagement: 1279
+    commentsToLikes: 0.015757
+    id: ckbqi2exz3cx60j23lc0f2qd6
+    verified: false
+    hashtags: "#piya, #foryoupage, #khwaja, #khwajaji"
+  - username: "khansamabykg"
     fullname: >-
-      Saransh Goila
+      Khansamabykg
+    bio: >-
+      Wnt 2 bcm own kind 👩🏻‍🍳 Bcz A chef hs to B responsible for D soul of D food 🥘
     location: "India"
-    followers: 126405
-    engagement: 431
-    commentsToLikes: 0.003447
-    id: ck94nkfpn74ol0j78wfcki0z3
-    verified: true
-    hashtags: "#apple, #saranshgoila, #holifood, #recipe"
-  - username: "cookwithparul"
+    followers: 183400
+    engagement: 283
+    commentsToLikes: 0.010476
+    id: ckbffusewata00j231zgtpxrj
+    verified: false
+    hashtags: "#homemade, #tasty, #khansamabykg, #swagstepchallenge"
+  - username: "rachananarayanankutty"
     fullname: >-
-      Cook With Parul
+      rachnanarayanankutty
+    bio: >-
+      Actor/Dancer/Choreographer/human with lots of love/a little chef/ plant lover
     location: "India"
-    followers: 254304
-    engagement: 418
-    commentsToLikes: 0.002241
-    id: ck87tzx204g370j78usn465tg
-    verified: true
-    hashtags: "#immunity, #teatime, #ramzan, #tasty"
-  - username: "chefsanjeevkapoor"
+    followers: 42200
+    engagement: 819
+    commentsToLikes: 0.000000
+    id: ckbqnzuru8u6o0j23nw5efry2
+    verified: false
+    hashtags: "#rachananarayanankutty, #classicalversion, #tiktok, #enthappocheyya"
+  - username: "shivzote"
     fullname: >-
-      Sanjeev Kapoor
+      Lordofshiv
+    bio: >-
+      Uttrakhandi boy 😎 Love photography 📸 Chef 👦 Follow me on insta ; @lordofshiv
     location: "India"
-    followers: 1323927
-    engagement: 499
-    commentsToLikes: 0.001679
-    id: ck8ae9nu7b2rp0j78hzq2qhd7
-    verified: true
-    hashtags: "#womensday, #stayfit, #masalachai, #whyjustaday"
-  - username: "vicky.ratnani"
+    followers: 58900
+    engagement: 615
+    commentsToLikes: 0.021846
+    id: cka0xst298eux0i781p66tqcm
+    verified: false
+    hashtags: "#viral, #husbandandwifecomedy, #husbandwifelove, #foryou"
+  - username: "šumandeephanda"
     fullname: >-
-      vicky.ratnani
+      Šumandeep Handa
+    bio: >-
+      A designer, A chef, A sister, A daughter, A woman 🤟🏽
     location: "India"
-    followers: 90996
-    engagement: 400
-    commentsToLikes: 0.002549
-    id: ck94o609u9skt0j78cyrbqpeq
-    verified: true
-    hashtags: "#chilli, #bepositive, #sufi, #doubleaged"
+    followers: 230300
+    engagement: 561
+    commentsToLikes: 0.007311
+    id: ckb9rxalwooxa0j23pjibuvrx
+    verified: false
+    hashtags: "#punjabijutti, #tiktok, #sumanhanda, #sumanamrit"
+  - username: "khanfruitcarving"
+    fullname: >-
+      khanfruitcarving
+    bio: >-
+      Chef Feroz email id khanfruitcarving@gmail.com contact 9870301466/ 02225770122
+    location: "India"
+    followers: 17200
+    engagement: 642
+    commentsToLikes: 0.003176
+    id: ckbkpywawk78u0j233yqag7hr
+    verified: false
+    hashtags: "#carved, #talent, #and, #along"
 ---

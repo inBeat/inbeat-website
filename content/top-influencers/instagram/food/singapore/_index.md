@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Singapore In 2020
 description: >-
-  Find top food Instagram influencers in Singapore in 2020. Most popular hashtags: #lockdown #sp #singapore #sgunited.
+  Find top food Instagram influencers in Singapore in 2020. Most popular hashtags: #sp #sgfood #instasg #igsg.
 platform: Instagram
+hits: 92
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 92 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "coolmommy_konnect"
-    fullname: >-
-      Namita Sinha
-    location: "Singapore"
-    followers: 6793
-    engagement: 1042
-    commentsToLikes: 0.109385
-    id: ck8syei3fkle90j78fr5e1273
-    verified: false
-    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
   - username: "lihuijapanlove"
     fullname: >-
       Lihui利慧| Singapore新加坡🇸🇬
+    bio: >-
+      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
     location: "Singapore"
-    followers: 31672
-    engagement: 462
-    commentsToLikes: 0.083305
+    followers: 35860
+    engagement: 315
+    commentsToLikes: 0.101387
     id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: "#getskinhappy, #aveenobody, #cityhotpot, #choosehealthy"
-  - username: "kennethseet"
+    hashtags: "#sp, #tokyobustexpress, #passionationsg, #72hourswear"
+  - username: "jauzchen"
     fullname: >-
-      Kenneth Seet
+      Jauz Chen
+    bio: >-
+      Parenting 🤱 Lifestyle 🌴 Food 🍳 Mum of 15yo twins 👭 + 9 mths 👶🏻 💌 DM for Collab | Reviews | Events Jauz.chen@gmail.com @favesofficial Personality
     location: "Singapore"
-    followers: 46086
-    engagement: 413
-    commentsToLikes: 0.039643
-    id: ck5hiz142fptd0i11ebg0lum6
+    followers: 3991
+    engagement: 784
+    commentsToLikes: 0.560142
+    id: ck6u1far0ldzd0j71wrl9ouh4
     verified: false
-    hashtags: "#abs, #sales, #sudio, #glutes"
+    hashtags: "#happybaby, #instakids, #sgig, #ootd"
   - username: "tylomere"
     fullname: >-
-      Tyler Koh 🌱
+      Tyler 🌱
+    bio: >-
+      Travel . Beauty . Lifestyle . Food #tylomeregreatescape 👷🏻 Physiotherapy student 💁🏻‍♂️TGY Finalist 📩 tylomere@yahoo.com.sg
     location: "Singapore"
-    followers: 19725
-    engagement: 686
-    commentsToLikes: 0.033101
+    followers: 20345
+    engagement: 398
+    commentsToLikes: 0.036206
     id: ck5cgzj3apu9c0i11ascv8ghh
     verified: false
-    hashtags: "#zalorasg, #thelittleprince, #mountbromo, #cottoncandyskies"
-  - username: "danielfongwc"
-    fullname: >-
-      Daniel Fong
-    location: "Singapore"
-    followers: 44080
-    engagement: 327
-    commentsToLikes: 0.018676
-    id: ck6ttezj3a94j0j714dlje3r3
-    verified: false
-    hashtags: "#dudukrumahchallenge, #uvcut, #uniqlomy, #simplemadebetter"
+    hashtags: "#sp, #tylomeregreatescape, #partipost, #zinussg"
   - username: "craziben"
     fullname: >-
       Ben Siew 🇸🇬
+    bio: >-
+      Fitness | Food | Fashion | Travel 📬 Media/News: hello@craziben.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ 📩 Business: Sales@craziben.com ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀
     location: "Singapore"
-    followers: 29344
-    engagement: 360
-    commentsToLikes: 0.018651
+    followers: 28657
+    engagement: 379
+    commentsToLikes: 0.014217
     id: ck0w5dmvg34jj0i19bxuxh5no
     verified: false
-    hashtags: "#huatwithshopee, #sp, #lggram, #lggram17"
+    hashtags: "#gowalksmart, #savefnbsg, #lgtonefree, #neverstop"
   - username: "wheresjalex"
     fullname: >-
       Alex & Jasper
+    bio: >-
+      🥝 A couple of kiwis with a camera 📸 🍔 Did we tell you we like food? 📍 New Zealand 🇳🇿
     location: "Singapore"
-    followers: 3820
-    engagement: 1202
-    commentsToLikes: 0.074600
+    followers: 3586
+    engagement: 1129
+    commentsToLikes: 0.067958
     id: ck0vxg9qryqux0i19qvos0xs5
     verified: false
-    hashtags: "#udaipurcity, #jaipurlove, #traveltheworld, #newzealandpics"
-  - username: "rachwsj"
+    hashtags: "#visitegypt, #singapore, #backpackerstory, #visitsingapore"
+  - username: "awansauce"
     fullname: >-
-      RACHEL ALEXA WONG | 黄诗珺
+      Alan Wan 溫家偉
+    bio: >-
+      Food lover | Fitness extraordinaire | Traveller | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
     location: "Singapore"
-    followers: 24412
-    engagement: 261
-    commentsToLikes: 0.019562
-    id: ck6u86uw9prxs0j71n1g2peeq
-    verified: false
-    hashtags: "#koreanlash, #apmmonaco, #pomelogirls, #nextgenhydration"
-  - username: "paulfosterrr"
-    fullname: >-
-      Paul Foster
-    location: "Singapore"
-    followers: 30911
-    engagement: 161
-    commentsToLikes: 0.041787
-    id: ck5bzgi1jr3hz0i11m5lwqyhc
+    followers: 79254
+    engagement: 237
+    commentsToLikes: 0.023193
+    id: ck5zveeg642tb0i14awwh1v4r
     verified: true
-    hashtags: "#scalpcare, #dill, #onepodatatime, #madeforme"
-  - username: "kingsley_thewhitecloud"
+    hashtags: "#thecheatersapp, #sgfood, #manglacialessence, #beabea"
+  - username: "lisarosetea"
     fullname: >-
-      Kingsley
+      *Alyssa 🌸
+    bio: >-
+      Food is priority (🌶) Pianist 🎹🎶 Also @lisafantasies UK/SG/HK 🇬🇧🇸🇬🇭🇰 💌 myrainbowsymphony@gmail.com
     location: "Singapore"
-    followers: 21221
-    engagement: 1674
-    commentsToLikes: 0.026816
-    id: ck13ay6rssrk50i19ecuvc5j1
+    followers: 29307
+    engagement: 224
+    commentsToLikes: 0.162254
+    id: ck15uixu0neh30i1937zngwse
     verified: false
-    hashtags: "#saturday, #hotcrossbuns, #blessings, #quiettime"
+    hashtags: "#marigoldhlmilk, #hearttruths, #rohtocoolreaction, #sp"
+  - username: "makanwarrior"
+    fullname: >-
+      
+    bio: >-
+      FPA8 @foodpandasg ($8 off for 1st time users) 20%OFFCOMPOSITION @breadtalksg MakanWarrior15 (15% off @maxzi.sg )
+    location: "Singapore"
+    followers: 9573
+    engagement: 458
+    commentsToLikes: 0.158338
+    id: ckaoquebkkg3k0i78d1wce91n
+    verified: false
+    hashtags: "#openrice, #stfoodtrending, #mediadrop, #delicious"
+  - username: "so.gelly"
+    fullname: >-
+      GELLY-
+    bio: >-
+      What is life without bad puns and fat animals. 🌚 📍SG 🇸🇬 📱iPhone 11 📸Leica CL / Sony A7M3 Lifestyle | Fashion | Beauty | Food | Travel
+    location: "Singapore"
+    followers: 20804
+    engagement: 348
+    commentsToLikes: 0.105631
+    id: ck6ugwgch5ksw0j71z4lz5sj8
+    verified: false
+    hashtags: "#sglookbook, #instagramsg, #ootdsg, #tslmakan"
+  - username: "foodirectory.sg"
+    fullname: >-
+      Christine • #foodirectorysg
+    bio: >-
+      📍Singapore Wandering gastronaut 💫 • 📝 sg.foodirectory@gmail.com
+    location: "Singapore"
+    followers: 16393
+    engagement: 294
+    commentsToLikes: 0.069530
+    id: ck5zwkfy86a480i14zy68ci4y
+    verified: false
+    hashtags: "#foodirectorysg, #violetoonsingapore, #cqtogether, #lafolie1111"
 ---

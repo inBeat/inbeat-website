@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Austin In 2020
 description: >-
-  Find top rappers TikTok influencers in Austin in 2020. Most popular hashtags: #music #coronavirus #rapper #momsoftiktok.
+  Find top rappers TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
+hits: 28
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 28 TikTok influencers like this in Austin, United States for you to pitch.
 profiles:
-  - username: "ayhteecommunity"
+  - username: "chickenfriedweiss1"
     fullname: >-
-      AyhTee
+      jamie weiss
+    bio: >-
+      production designer | they/them
     location: "United States"
-    followers: 84729
-    engagement: 2108
-    commentsToLikes: 0.669303
-    id: ckacwsqz3u2720i78u0v2m3xi
+    followers: 3874
+    engagement: 1354
+    commentsToLikes: 0.042888
+    id: ckcdcyf2r5amw0j23ost1zkhu
     verified: false
-    hashtags: "#helpinghomeless, #happymothersday, #hype, #samemusic"
-  - username: "austinnewkirk23"
+    hashtags: "#stepintolove, #director, #filmschool, #film"
+  - username: "jlaw"
     fullname: >-
-      Austin Newkirk
+      JLaw Austin ✪
+    bio: >-
+      This page is home to many personalities Christian Rapper ✝️ Power Ranger Fan
     location: "United States"
-    followers: 5743
-    engagement: 933
-    commentsToLikes: 0.041257
-    id: ckae05tfghw0c0i78n553jud0
+    followers: 417600
+    engagement: 2599
+    commentsToLikes: 0.078306
+    id: ck8qmxss9s4qd0j78x4xb2e2k
     verified: false
-    hashtags: "#eatemup, #beach, #memories, #funnyfriday"
-  - username: "babytaliban326"
+    hashtags: "#christianrap, #jesus, #christian, #fyp"
+  - username: "craignofriday"
     fullname: >-
-      Baby Taliban 👳🏾‍♂️
+      nofridayy
+    bio: >-
+      Rapper. 🏳️‍🌈 TEXAS 🤠
     location: "United States"
-    followers: 64121
-    engagement: 2362
-    commentsToLikes: 0.037338
-    id: cka7ngfv9wpoc0i78r48jihbx
+    followers: 4204
+    engagement: 314
+    commentsToLikes: 0.124654
+    id: ckbq6he0kstac0j23sey4wn0h
     verified: false
-    hashtags: "#edit, #rapper, #liveoctopus, #gta5"
-  - username: "prady.mag"
+    hashtags: "#fyp, #duet, #dancechallenge, #nofridayy"
+  - username: "binxofficial"
     fullname: >-
-      Prad
+      BINX: Singer | Songwriter
+    bio: >-
+      🇿🇦🐝Follow BINX - Spotify & IG👆 Live Daily🎤Single: I’m In Love With A Rapper
     location: "United States"
-    followers: 7627
-    engagement: 476
-    commentsToLikes: 0.098040
-    id: ck9vd88ngtudr0j78pf3zmr8h
+    followers: 19300
+    engagement: 2155
+    commentsToLikes: 0.058882
+    id: ckbfgan8tbdtw0j2321wd65qu
     verified: false
-    hashtags: "#indian, #simp, #greenscreenvideo, #brown"
+    hashtags: "#fembots, #thatwitch, #austinpowers, #wewintogether"
+  - username: "jimmythekid617"
+    fullname: >-
+      Jimmythekid617
+    bio: >-
+      Massachusetts Man living in Phoenix Arizona Rapper Soundcloud.com/jimmythekid617
+    location: "United States"
+    followers: 4486
+    engagement: 589
+    commentsToLikes: 0.037461
+    id: ckc7rdvy0wmoc0j23xy8k9sg9
+    verified: false
+    hashtags: "#boston, #tombrady, #foryoupage, #jimmythekid"
   - username: "joefleming01"
     fullname: >-
       Joe Fleming 
+    bio: >-
+      📸IG:@joeflem.04 👻 Snapchat:joeflem04 16 F00714
     location: "United States"
-    followers: 9341
-    engagement: 1180
-    commentsToLikes: 0.165541
+    followers: 9947
+    engagement: 1189
+    commentsToLikes: 0.171516
     id: ck9f7u5e7zw2n0j78xxnwyzzm
     verified: false
-    hashtags: "#trick, #dunk, #neverfitin, #popular"
+    hashtags: "#foryou, #beet, #foryoupage, #foryouppage"
+  - username: "the_task_master"
+    fullname: >-
+      Tony Masters
+    bio: >-
+      I can counter anything you throw at me... Mimic and adapt to any move you make..
+    location: "United States"
+    followers: 9608
+    engagement: 662
+    commentsToLikes: 0.101731
+    id: ck8fc0eik5ssc0j78632238ki
+    verified: false
+    hashtags: "#boo, #collegegotmelike, #4upage, #fyp"
+  - username: "papiramses"
+    fullname: >-
+      Papi
+    bio: >-
+      📸 I do be live every night 9-11pm tho ☎️ 🥕10k?👉👈
+    location: "United States"
+    followers: 6600
+    engagement: 534
+    commentsToLikes: 0.062439
+    id: ck90xzc018oys0j7898pagvmw
+    verified: false
+    hashtags: "#foryoupage, #canabis, #lsdsquad, #dmtt"
   - username: "dear.embr"
     fullname: >-
       DEAR EMBR MUSIC
+    bio: >-
+      LETS GET OUT OF HERE OUT NOW LINK IN BIO
     location: "United States"
-    followers: 64827
-    engagement: 1223
-    commentsToLikes: 0.012862
+    followers: 64600
+    engagement: 1084
+    commentsToLikes: 0.019018
     id: ck83k4t1v9cfk0j78dwi5a202
     verified: false
-    hashtags: "#trickshot, #musiclives, #coloradocheck, #jobforme"
-  - username: "trini180528"
+    hashtags: "#foru, #noflop, #foryou, #4u"
+  - username: "itsjust.auston"
     fullname: >-
-      Maria Roman
+      Auston:(
+    bio: >-
+      Pain lol🖤 40k? 407🌴FL
     location: "United States"
-    followers: 26139
-    engagement: 343
-    commentsToLikes: 0.020963
-    id: ck9eocrw3nn1m0j78biactf4u
+    followers: 33700
+    engagement: 1123
+    commentsToLikes: 0.097390
+    id: ckav7eypeef300j23ax2c2zmm
     verified: false
-    hashtags: "#cuban, #team, #espontaneo, #open"
-  - username: "dailyrapvids"
-    fullname: >-
-      DAILY RAP VIDEOS
-    location: "United States"
-    followers: 60840
-    engagement: 1201
-    commentsToLikes: 0.008038
-    id: cka68yvoxqmrb0i78sriiqooj
-    verified: false
-    hashtags: "#familytime, #thugger, #rapvideos, #impersonation"
-  - username: "livejoedreamz"
-    fullname: >-
-      joedreamz
-    location: "United States"
-    followers: 61613
-    engagement: 1980
-    commentsToLikes: 0.021227
-    id: ckacj15875odq0i782xe3odlr
-    verified: false
-    hashtags: "#blackpanther, #ashylips, #elonmusk, #alwaysbethere"
-  - username: "lexmusicmarketing"
-    fullname: >-
-      lexmusicmarketing
-    location: "United States"
-    followers: 4042
-    engagement: 957
-    commentsToLikes: 0.113727
-    id: cka0whzc32yy90i78ppx47evs
-    verified: false
-    hashtags: "#lilnasx, #maxmartin, #greenscreen, #musiclicensing"
+    hashtags: "#getmefamous, #fyp, #foryou, #foru"
 ---

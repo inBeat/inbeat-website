@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In 2020
 description: >-
-  Find top guitar TikTok influencers in 2020. Most popular hashtags: #react #travelthrowback #greenscreen #indie.
+  Find top guitar TikTok influencers in 2020. Most popular hashtags: #guitar #fyp #duet #guitarist.
 platform: TikTok
+hits: 1617
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 1617 TikTok influencers like this for you to collaborate.
 profiles:
-  - username: "elchicoguitarrista"
-    fullname: >-
-      El Chico Guitarrista
-    location: "Mexico"
-    followers: 6596
-    engagement: 2095
-    commentsToLikes: 0.084507
-    id: ck9f48kocl6mb0j788edwhsu2
-    verified: false
-    hashtags: "#tonystark, #malefica, #shakira, #putazos"
   - username: "_kerya_cosplay_"
     fullname: >-
       @_kerya_cosplay_
+    bio: >-
+      cosplayer👆 Draw🖍️ guitar player 🎸 Love japan🇯🇵
     location: "France"
-    followers: 5634
-    engagement: 2784
-    commentsToLikes: 0.058888
+    followers: 7936
+    engagement: 3056
+    commentsToLikes: 0.072890
     id: ck9sl4qy4c2wi0j78j4y7jv5j
     verified: false
-    hashtags: "#fanart, #saintseya, #mangacosplay, #animeguitarists"
-  - username: "thunder_struck_cunuck"
+    hashtags: "#erzascarlettcosplay, #erzascarletcosplay, #otaku, #duo"
+  - username: "kyrart18"
     fullname: >-
-      stephanepitre
-    location: "Canada"
-    followers: 5693
-    engagement: 1589
-    commentsToLikes: 0.105876
-    id: ck9noo53juxq10j78sn3itjph
-    verified: false
-    hashtags: "#react, #yup, #goodmorning, #broke"
-  - username: "toxic.star.cosplay"
-    fullname: >-
-      💚🌹toxic🌹💚
-    location: "United Kingdom"
-    followers: 152106
-    engagement: 2665
-    commentsToLikes: 0.018480
-    id: ck9eliwvtapgg0j787gorrkvf
-    verified: false
-    hashtags: "#angeloc, #danganronpa, #brighterinside, #starwars"
-  - username: "yoitsblueskies"
-    fullname: >-
-      Grant Schaffer
+      kyra
+    bio: >-
+      19 y/o art student/guitarist ig: kyrart18
     location: "United States"
-    followers: 226152
-    engagement: 1504
-    commentsToLikes: 0.026999
-    id: ck8fc520a6kl20j78n47p6k14
+    followers: 79500
+    engagement: 2357
+    commentsToLikes: 0.044496
+    id: ck8qi59d97tb40j78zq8plqkq
     verified: false
-    hashtags: "#johnmayer, #got2bhome, #homeproject, #acousticcovers"
-  - username: "jennifergetzinger"
+    hashtags: "#forwhomthebelltolls, #art, #draw, #pop"
+  - username: "sharpie.exe"
     fullname: >-
-      Jennifer
+      Sharpie
+    bio: >-
+      Professional Sharpie Sniffer™️ Guitar boi 🎸🤙🏻 Vibin’ to straight blanchin’ 😎
     location: "United States"
-    followers: 50490
-    engagement: 1305
-    commentsToLikes: 0.041480
-    id: ck8w2jx805ght0j78ma0x0oai
+    followers: 3269
+    engagement: 2132
+    commentsToLikes: 0.109141
+    id: ck9kcutsvr5tn0j784bpk9kh7
     verified: false
-    hashtags: "#react, #fyp"
-  - username: "dxvy_jxnxs"
+    hashtags: "#duet, #rock, #supermariogalaxy, #greenscreen"
+  - username: "elchicoguitarrista"
     fullname: >-
-      𝐃𝐚𝐯𝐲
+      El Chico Guitarrista Official
+    bio: >-
+      Instagram: @juliodigitalart El guitarrista que toca para ti 🎸❤️😃 Sonríe!
+    location: "Mexico"
+    followers: 8303
+    engagement: 2024
+    commentsToLikes: 0.161034
+    id: ck9f48kocl6mb0j788edwhsu2
+    verified: false
+    hashtags: "#friendsgeneration, #esperosusd, #destacanos, #destacame"
+  - username: "codeyred"
+    fullname: >-
+      Codey Red
+    bio: >-
+      Indigenous Musician/Guitarist Music,Philosophy,ADHD,Nerd Stuff And More! BLM!!
     location: "United States"
-    followers: 10782
-    engagement: 2361
-    commentsToLikes: 0.030781
-    id: cka84t9icvjem0i78tu9k1jmf
+    followers: 17500
+    engagement: 2008
+    commentsToLikes: 0.053385
+    id: ckck5eetiqadx0j23jaypmrej
     verified: false
-    hashtags: "#fireforce, #eletricguitar, #mha, #wipechallenge"
-  - username: "guus_music"
+    hashtags: "#native, #musician, #adhd, #guitar"
+  - username: "_donniematt"
     fullname: >-
-      Guus Music
-    location: "Netherlands"
-    followers: 4562
-    engagement: 1428
-    commentsToLikes: 0.056761
-    id: ck9dsldv88lx90j78vf6uxgtp
+      Donnie Matt Renegar
+    bio: >-
+      Creator of positive vibes Sometimes I try to be funny I play the guitar terribly
+    location: "United States"
+    followers: 2641
+    engagement: 1579
+    commentsToLikes: 0.409222
+    id: ckavqhcbg22an0j23494k81m7
     verified: false
-    hashtags: "#staringcontest, #duetthis, #rockstar, #fouryoupage"
+    hashtags: "#funny, #spaceforcewalk, #fyp, #mood"
+  - username: "lionsdenmusic_"
+    fullname: >-
+      Hector Deleon
+    bio: >-
+      21 | he/him Jazz Guitarist
+    location: "United States"
+    followers: 3305
+    engagement: 1459
+    commentsToLikes: 0.237760
+    id: ckdi8g8staxa50j23g1xorhdp
+    verified: false
+    hashtags: "#jazzguitar, #gibson, #guitar, #xyzbca"
+  - username: "_guitar_premi_"
+    fullname: >-
+      ❤️aMMuKuTTy😉
+    bio: >-
+      💃Wish Me On Dec13🤗🎂 🎸GuiTaR IsTaM😚#nellikka #beez❣️Tatoo Lvr❤️ Suriya Uyir♥
+    location: "United States"
+    followers: 2724
+    engagement: 3244
+    commentsToLikes: 0.138538
+    id: ckblnrh9jfot40j238u03q4gl
+    verified: false
+    hashtags: "#foryou, #beez, #nellikka, #duet"
+  - username: "gary.r"
+    fullname: >-
+      Gary
+    bio: >-
+      👻 garyrodriguez I like rock , anime , and guitar ☠︎︎☻︎
+    location: "United States"
+    followers: 52100
+    engagement: 2838
+    commentsToLikes: 0.047828
+    id: ck90xz99g8o8c0j78qh0uz58m
+    verified: false
+    hashtags: "#rock, #colorcustomizer, #anime, #selflove"
   - username: "tonymemmel"
     fullname: >-
       Tony Memmel
+    bio: >-
+      Singer 🎤Guitarist 🎸Teacher 👨‍🏫 BOOKING@TONYMEMMEL.COM ⬇️ Spotify ⬇️
     location: "United States"
-    followers: 92226
-    engagement: 1208
-    commentsToLikes: 0.065616
+    followers: 100500
+    engagement: 1329
+    commentsToLikes: 0.051050
     id: ck8vus0tijtoe0j7826i1wupk
     verified: false
-    hashtags: "#heisrisen, #parents, #tiktokdiy, #howidothings"
-  - username: "kai_johnson_"
-    fullname: >-
-      Kai Johnson
-    location: "United States"
-    followers: 527595
-    engagement: 2061
-    commentsToLikes: 0.015639
-    id: ck81qr22zj4mh0j78y9w7t83i
-    verified: false
-    hashtags: "#simp, #finneas, #coughsyrup, #livealittlelouder"
+    hashtags: "#musicmatters, #classicrock, #luckyfin, #christian"
 ---

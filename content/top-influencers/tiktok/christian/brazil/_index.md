@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Brazil In 2020
 description: >-
-  Find top christian TikTok influencers in Brazil in 2020. Most popular hashtags: #dueto #tiktokbrasil #coronavirus #dance.
+  Find top christian TikTok influencers in Brazil in 2020. Most popular hashtags: #fy #christian #foryou #fyp.
 platform: TikTok
+hits: 88
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 88 TikTok influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "keilazor_el"
+  - username: "alfacy"
     fullname: >-
-      keila zor el
+      Natã ✨
+    bio: >-
+      oii 👁️👄👁️ menino da pipoca 🍿 perfil livre de ódio. Christian✝ Slytherin 💚🐍
     location: "Brazil"
-    followers: 2111
-    engagement: 2824
-    commentsToLikes: 0.140158
-    id: ckan3snf16sob0i78y7tpsmv0
+    followers: 19200
+    engagement: 1984
+    commentsToLikes: 0.099860
+    id: ckbfc9ar44xen0j23ghcgfd5c
     verified: false
-    hashtags: "#teguardei, #coronavirus, #pets, #pescotapa"
-  - username: "edu_saad"
+    hashtags: "#foryou, #harrypotter, #foryoupage, #fyp"
+  - username: "lunanwoficial"
     fullname: >-
-      Eduardo
+      Luna
+    bio: >-
+      THIS IS A FAMILY SHOW! •Singer• •Christian•
     location: "Brazil"
-    followers: 4326
-    engagement: 2152
-    commentsToLikes: 0.178221
-    id: cka0gukz869so0i789p502qzf
+    followers: 1100000
+    engagement: 1761
+    commentsToLikes: 0.029345
+    id: ckbbhdgn75xtg0j23b4bqp3x0
     verified: false
-    hashtags: "#errar, #cabelo, #criatividade, #eununcacarnaval"
-  - username: "apenasevy"
+    hashtags: "#nicehousebr, #dueto, #cultodosflopados, #pov"
+  - username: "jhulycurty"
     fullname: >-
-      Just Evy
+      jhulyenny
+    bio: >-
+      Ele morreu por mim e hoje vivo por Ele. 💗✨
     location: "Brazil"
-    followers: 24378
-    engagement: 1909
-    commentsToLikes: 0.049896
-    id: ckahwlhm4reli0i78kbtjckpz
+    followers: 4397
+    engagement: 2396
+    commentsToLikes: 0.086874
+    id: ckbbfte0b4gpy0j23vsxp4bvl
     verified: false
-    hashtags: "#teologia, #funkgospel, #amor, #covidmeme"
+    hashtags: "#gospel, #fyp, #page, #fy"
   - username: "vxyz.h"
     fullname: >-
-      Victória
+      🔥Victória 🕊
+    bio: >-
+      🇧🇷 Jesus é o suficiente 🕊 Musicista, artista e bailarina.
     location: "Brazil"
-    followers: 12312
-    engagement: 2020
-    commentsToLikes: 0.039663
+    followers: 12400
+    engagement: 2589
+    commentsToLikes: 0.081449
     id: ckaif9d28vw250i78m7fivbws
     verified: false
-    hashtags: "#eunothesend, #vireimang, #funny, #comed"
-  - username: "luiz_said"
+    hashtags: "#fy, #fyp, #foryou, #christiangirl"
+  - username: "helloisyreis"
     fullname: >-
-      LuizSaid
+      Helloisy Reis
+    bio: >-
+      BAHIA🌴 cristian young 💞
     location: "Brazil"
-    followers: 188165
-    engagement: 2294
-    commentsToLikes: 0.018139
-    id: ck9m0ou94astb0j78cbgg2h5u
+    followers: 58200
+    engagement: 2578
+    commentsToLikes: 0.024232
+    id: cka88j9nbbgnf0i78nlyp5ekf
     verified: false
-    hashtags: "#fyp, #albumlookalike, #dueto, #reagir"
-  - username: "alex_ludke"
+    hashtags: "#fe, #pravc, #church, #deus"
+  - username: "mateusclement3"
     fullname: >-
-      🇧🇷🄰🄻🄴🅇🇺🇲
+      Mateus Clemente
+    bio: >-
+      ❤️!!!JESUS!!!❤️ ⛳Belo Horizonte-MG
     location: "Brazil"
-    followers: 33506
-    engagement: 2160
-    commentsToLikes: 0.048852
-    id: cka6mhgvu78qv0i78bl13yqhi
+    followers: 98800
+    engagement: 1931
+    commentsToLikes: 0.032419
+    id: ckbf463e1seyc0j23f40kxxff
     verified: false
-    hashtags: "#tiktokbrasil, #eununcaeuja, #flexibilidade, #quarentena"
-  - username: "samuel.lucas7"
+    hashtags: "#christianboy, #comedia, #varoa, #paravoce"
+  - username: "alanfern"
     fullname: >-
-      Samuel Lucas
+      Alan Fernandes
+    bio: >-
+      Comédia cristã 🤪 Uma maneira diferente de apresentar Jesus✝️
     location: "Brazil"
-    followers: 16144
-    engagement: 2358
-    commentsToLikes: 0.041696
-    id: ck9rmdwox2gk90j78tfqmgwyj
+    followers: 139800
+    engagement: 2665
+    commentsToLikes: 0.012129
+    id: ckad64wary8fg0i78u9slahfr
     verified: false
-    hashtags: "#dance, #colab, #tiktokbrasil, #evangelico"
-  - username: "marconeilessaoficial"
-    fullname: >-
-      Marconei Lessa 
-    location: "Brazil"
-    followers: 257793
-    engagement: 1833
-    commentsToLikes: 0.054212
-    id: cka0tvpriro1e0i789c9tqd0k
-    verified: false
-    hashtags: "#baby, #covid19, #music, #child"
+    hashtags: "#jesus, #christianguy, #oretiro, #gospel"
   - username: "biancarvalho__"
     fullname: >-
       biancarvalho__
+    bio: >-
+      Jesus ama você 💖 RJ • 22y ME ACOMPANHA MAIS DE PERTIN NO INSTA
     location: "Brazil"
-    followers: 2699
-    engagement: 874
-    commentsToLikes: 0.073247
+    followers: 32600
+    engagement: 1952
+    commentsToLikes: 0.028474
     id: cka6mha9w76sl0i78a3pqi0vr
     verified: false
-    hashtags: "#dancechallenge, #conhe, #bbb20, #eununca"
-  - username: "ab.rodrigues"
+    hashtags: "#christian, #humorgospel, #christiangirl, #tiktokcristao"
+  - username: "anajufgomess"
     fullname: >-
-      ABRAÃO DARIO
+      anajugomes
+    bio: >-
+      16y Católica Apostólica Romana sigam @am.ruah no insta
     location: "Brazil"
-    followers: 2093
-    engagement: 1690
-    commentsToLikes: 0.020674
-    id: cka84i9lcttqz0i78ed98avtj
+    followers: 2546
+    engagement: 1336
+    commentsToLikes: 0.057020
+    id: ckcv55q01p4vw0j23o3uo4it2
     verified: false
-    hashtags: "#jesuseoamor, #yeshua, #humor, #instagram"
+    hashtags: "#fyp, #foryou, #catholic, #religi"
+  - username: "worshipgod_"
+    fullname: >-
+      Jesus Save 💕✝️
+    bio: >-
+      Imperatriz-MA // cristã ✝️💕 119K pessoas seguindo Jesus 🥰 Me segue aí ouu👆🏼
+    location: "Brazil"
+    followers: 118800
+    engagement: 2872
+    commentsToLikes: 0.010871
+    id: ckcuh3fwefhcb0j23tqthjyjn
+    verified: false
+    hashtags: "#deus, #nofyp, #god, #fyp"
 ---

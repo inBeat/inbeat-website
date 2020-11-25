@@ -1,62 +1,101 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Brisbane in 2020. Most popular hashtags: #staysafe #brisbane #coffee #dailyroutine.
+  Find top lifestyle Instagram influencers in Brisbane in 2020. Most popular hashtags: #style #queensland #goldcoast.
 platform: Instagram
+hits: 56
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 56 Instagram influencers like this in Brisbane, Australia for you to collaborate.
 profiles:
   - username: "rachelthaiday"
     fullname: >-
       Rachel Thaiday
+    bio: >-
+      RFT®️L2 Certified Enquires: contact@rachelthaiday.com Travel | Fitness | Lifestyle @brisbaneracingclub Ambassador 🐎
     location: "Australia"
     followers: 16317
     engagement: 185
     commentsToLikes: 0.038158
     id: ck5c5mwgv3s0y0i11ad78wen6
     verified: false
-    hashtags: "#throwbackthaiday, #dailyroutine, #cantwait, #goodhairday"
+    hashtags: "#workout, #justmove, #pilates, #rehab"
+  - username: "abbey_lister"
+    fullname: >-
+      ABBEY LISTER
+    bio: >-
+      🦋 19 • Brisbane, AUS • Lifestyle Vlogger 🌷 Exploring Aus with my lil’ 4x4! #onlytracksbehind 🌱 Enquiries • abbeylister@gmail.com ➴ My latest video! x
+    location: "Australia"
+    followers: 21184
+    engagement: 974
+    commentsToLikes: 0.045245
+    id: ck6u6lan3g9b50j71nc8p2waa
+    verified: false
+    hashtags: "#motivation, #picoftheday, #me, #instagood"
+  - username: "erika.dwyer"
+    fullname: >-
+      Erika Dwyer
+    bio: >-
+      📍Brisbane | Fashion & Lifestyle ✨ Training at @plc_albion 🏋️‍♀️ Tiktok: erika.dwyer Watch my latest YouTube video ⬇️
+    location: "Australia"
+    followers: 21480
+    engagement: 703
+    commentsToLikes: 0.026488
+    id: ck0w136qehc490i193p3vskwx
+    verified: false
+    hashtags: "#instagramreels, #reels, #fashionreels, #reelsinstagram"
   - username: "katebennett70"
     fullname: >-
       Kate Bennett 📷
+    bio: >-
+      Roadtripper 🚐Gin drinker🍸Dog lover🐾Nemophilist🌲🌿🍃🍂 Landscape | Lifestyle | Travel 📍Brisbane Australia
     location: "Australia"
-    followers: 4018
-    engagement: 919
-    commentsToLikes: 0.118600
+    followers: 4234
+    engagement: 866
+    commentsToLikes: 0.135599
     id: ck5c2g9bax79f0i11vu2wddnl
     verified: false
-    hashtags: "#moretonbay, #turtles, #underover, #hike"
+    hashtags: "#heronisland, #sunrise, #brisbaneanyday, #ozshotmag"
   - username: "julietaroldann"
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
+    bio: >-
+      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
     location: "Australia"
-    followers: 79181
-    engagement: 134
-    commentsToLikes: 0.041640
+    followers: 76285
+    engagement: 117
+    commentsToLikes: 0.048699
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
+    hashtags: "#cavoodleaustralia, #doodlesoftheworld, #cavoodlepuppy, #cavoodle"
   - username: "shanigrimmond"
     fullname: >-
       SHANI GRIMMOND
+    bio: >-
+      Brisbane // 23 FASHION LIFESTYLE BEAUTY FOUNDER OF @SYLKSWIM 🤍 📧- shani@zooz.com.au
     location: "Australia"
-    followers: 1457419
-    engagement: 341
-    commentsToLikes: 0.004108
+    followers: 1434927
+    engagement: 326
+    commentsToLikes: 0.003441
     id: ck14lcplpu08v0i190vpnxefr
     verified: true
-    hashtags: "#camillawithlove, #danielwellington"
-  - username: "lachlanfort"
+    hashtags: "#revolveu"
+  - username: "brisbane"
     fullname: >-
-      LOCKY ZEE
+      @BRISBANE - MYBRISBANE.COM
+    bio: >-
+      Bringing you the best our local community has to offer. Things To Do • Food & Wine • Lifestyle • Property Tag #MyBrisbane & @Brisbane ✉️ Get in touch
     location: "Australia"
-    followers: 2209
-    engagement: 1541
-    commentsToLikes: 0.080169
-    id: ckaoqq89njuy10i78l3a9soeh
+    followers: 108110
+    engagement: 183
+    commentsToLikes: 0.055773
+    id: ck0vvol3uq2010i19y8idrc27
     verified: false
-    hashtags: "#flight, #wakeupcall, #breakfast, #energy"
+    hashtags: "#southbank, #yum, #mybrisbane, #breaking"
   - username: "cassywallfood"
     fullname: >-
       Cassy Wall
+    bio: >-
+      Sharing our amazing Food and Lifestyle adventures 🍸☕️🍾🍴Brisbane & beyond -regrams welcome WITH CREDIT 😊💌 cassy.wall@yahoo.com
     location: "Australia"
     followers: 15229
     engagement: 303
@@ -64,44 +103,28 @@ profiles:
     id: ck5q8eixm5s460i11iaskv34s
     verified: false
     hashtags: "#deliveredaustralia"
-  - username: "mishandkirk"
+  - username: "carlyellen"
     fullname: >-
-      Mish & Kirk
+      C Λ R L Y  S L Λ T T E R Y
+    bio: >-
+      Fᴀsʜɪᴏɴ • Bᴇᴀᴜᴛʏ • Tʀᴀᴠᴇʟ • Mᴜᴍ • Wɪғᴇʏ 𝕌𝕟𝕒𝕡𝕠𝕝𝕠𝕘𝕖𝕥𝕚𝕔𝕒𝕝𝕝𝕪 𝕄𝕖 W Δ N D E R L U S T Kɴᴏx Ambassador for: @oscaroscarsalons @lust__minerals
     location: "Australia"
-    followers: 166096
-    engagement: 161
-    commentsToLikes: 0.063322
-    id: ck15phzc7xz5d0i19yxlrf9bu
+    followers: 22071
+    engagement: 141
+    commentsToLikes: 0.186196
+    id: ck5zvmpk24iz70i14gik22qz4
     verified: false
-    hashtags: "#hiking, #elopement, #bohopresets, #mountainlife"
-  - username: "_passportoflove_"
-    fullname: >-
-      𝐌𝐀𝐓 ╳ 𝐅𝐀𝐍𝐍𝐘
-    location: "Australia"
-    followers: 3221
-    engagement: 1368
-    commentsToLikes: 0.084771
-    id: ck13cyyyj2tyl0i19mcmgtwz3
-    verified: false
-    hashtags: "#inspiration, #volcan, #instadog, #puppy"
-  - username: "jamieazzopardi"
-    fullname: >-
-      Jamie Azzopardi
-    location: "Australia"
-    followers: 168690
-    engagement: 400
-    commentsToLikes: 0.009164
-    id: ck14l0irws96d0i19oitjaa2v
-    verified: false
-    hashtags: "#sydfest, #alanparkinson, #googlegames, #penation"
+    hashtags: "#beautyblogger, #brisbanefashion, #nineteenatthestar, #inspogram"
   - username: "lalasplate"
     fullname: >-
-      L A R A 💗
+      LARA 💗
+    bio: >-
+      🥬 health | food | balanced lifestyle ✨ content creator + recipe developer 🌎 brisbane 💌 hello@lalasplate.com 💗 Blog & more👇🏼
     location: "Australia"
-    followers: 11045
-    engagement: 1147
-    commentsToLikes: 0.146818
+    followers: 24615
+    engagement: 568
+    commentsToLikes: 0.063766
     id: ck15tte3pjswb0i19uj4bboe5
     verified: false
-    hashtags: "#organic, #iamwellandgood, #watertips, #nicecream"
+    hashtags: "#nicecream, #health, #smoothies, #smoothiebowl"
 ---

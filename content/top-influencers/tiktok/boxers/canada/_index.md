@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers TikTok Influencers In Canada In 2020
 description: >-
-  Find top boxers TikTok influencers in Canada in 2020. Most popular hashtags: #boxer #voiceover #canadian #fighter.
+  Find top boxers TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryoupage #boxer #foryou.
 platform: TikTok
+hits: 18
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 18 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "jayme.triumph"
+  - username: "amyclark1282"
     fullname: >-
-      Jayme Triumph
+      Amy Clark
+    bio: >-
+      GO FOLLOW @n_a_t_h_a_n
     location: "Canada"
-    followers: 4871
-    engagement: 701
-    commentsToLikes: 0.052784
-    id: cka9m59v83y930i78vfywr66e
+    followers: 9577
+    engagement: 776
+    commentsToLikes: 0.024444
+    id: ckbfbajva37bm0j234l2bbdq3
     verified: false
-    hashtags: "#ecole, #manga, #fete, #jogging"
-  - username: "jawknee.v"
-    fullname: >-
-      jawknee.v
-    location: "Canada"
-    followers: 72957
-    engagement: 1141
-    commentsToLikes: 0.007218
-    id: ck7zo26abh3oh0j7860h3oyla
-    verified: false
-    hashtags: "#fighter, #mtlfitness, #mtlmoments, #514"
-  - username: "packmentality"
-    fullname: >-
-      Nik
-    location: "Canada"
-    followers: 6663
-    engagement: 1463
-    commentsToLikes: 0.050002
-    id: ck9ndea2fcrcw0j78rm7en8pu
-    verified: false
-    hashtags: "#happyending, #whytho, #sassymoodynasty, #primeminister"
-  - username: "racheim29"
-    fullname: >-
-      Rachel
-    location: "Canada"
-    followers: 2000
-    engagement: 642
-    commentsToLikes: 0.044590
-    id: ckaclzm8mhpj00i78j347p7td
-    verified: false
-    hashtags: "#learnfromme, #hair, #voiceover, #comedy"
-  - username: "hhellomynameis"
-    fullname: >-
-      Rebekkkkah Schiffy
-    location: "Canada"
-    followers: 9639
-    engagement: 1899
-    commentsToLikes: 0.012350
-    id: ck8kg10qqghpt0j78oj489tib
-    verified: false
-    hashtags: "#skate, #mentalhealth, #poorthing, #funny"
-  - username: "moniquefifoot"
-    fullname: >-
-      MoniQue Fifoot
-    location: "Canada"
-    followers: 5409
-    engagement: 469
-    commentsToLikes: 0.045674
-    id: ck8071gl9nvuw0j7885lxci14
-    verified: false
-    hashtags: "#edomton, #sendit, #boxer, #dog"
+    hashtags: "#momover35, #boxersoftiktok, #dogsoftiktok, #gosteelers"
   - username: "zonedmma"
     fullname: >-
       ZonedMMA
+    bio: >-
+      .Follow our Instagram ⬆️👆 . Daily MMA and Boxing content 🔥🥊
     location: "Canada"
-    followers: 2551
-    engagement: 336
-    commentsToLikes: 0.042031
+    followers: 79200
+    engagement: 923
+    commentsToLikes: 0.008646
     id: ck9jwfjtnwbns0j78pi4osn3u
     verified: false
-    hashtags: "#smile, #mysticmac, #champion, #siblings"
+    hashtags: "#fy, #bellator, #war, #punch"
+  - username: "jawknee.v"
+    fullname: >-
+      jawknee.v
+    bio: >-
+      HOW TO BOXING Instagram: Jawknee.v YouTube 👇🏻Link below👇🏻
+    location: "Canada"
+    followers: 99700
+    engagement: 841
+    commentsToLikes: 0.006595
+    id: ck7zo26abh3oh0j7860h3oyla
+    verified: false
+    hashtags: "#howto, #viral, #tutorial, #foryoupage"
+  - username: "packmentality"
+    fullname: >-
+      Nik
+    bio: >-
+      @glitterandgore veterinary assistant, PET MOM. Book Magnum Ontario Canada ⏬
+    location: "Canada"
+    followers: 48100
+    engagement: 2100
+    commentsToLikes: 0.073458
+    id: ck9ndea2fcrcw0j78rm7en8pu
+    verified: false
+    hashtags: "#magnumtheboxer, #halloween, #magnumandratchet, #boxersoftiktok"
+  - username: "golden.gunn3r"
+    fullname: >-
+      Bomber 🖤 gunner 💀
+    bio: >-
+      Bombardier and gunner Loves of my life Tia - 18
+    location: "Canada"
+    followers: 6348
+    engagement: 2503
+    commentsToLikes: 0.016545
+    id: ckbr23lk4iz4p0j23pihqjn6m
+    verified: false
+    hashtags: "#fyp, #servicedog, #redlab, #realservicedog"
+  - username: "miz.zedd"
+    fullname: >-
+      Miz. Zedd
+    bio: >-
+      Mom Wife Teacher Frenchie Owned
+    location: "Canada"
+    followers: 9973
+    engagement: 1053
+    commentsToLikes: 0.045251
+    id: ck8fa3bf441rx0j78adfpygp8
+    verified: false
+    hashtags: "#foryoupage, #frenchielife, #teachersoftiktok, #frenchbulldog"
+  - username: "racheim29"
+    fullname: >-
+      Rachel
+    bio: >-
+      🇨🇦❤️ @rachelmannering
+    location: "Canada"
+    followers: 2629
+    engagement: 572
+    commentsToLikes: 0.039800
+    id: ckaclzm8mhpj00i78j347p7td
+    verified: false
+    hashtags: "#funny, #foryou, #tiktokcanada, #canada"
+  - username: "ashleybutt17"
+    fullname: >-
+      Ashley Butt
+    bio: >-
+      Grew up in newfoundland, living in Alberta! 💯 Canadian made 🇨🇦
+    location: "Canada"
+    followers: 7002
+    engagement: 493
+    commentsToLikes: 0.036396
+    id: ckcp7hn7udkgh0j23e2k5rwhu
+    verified: false
+    hashtags: "#babiesoftiktok, #fyp, #alberta, #foryoupage"
   - username: "exclusivelyexpensive"
     fullname: >-
       ExclusivelyExpensive
+    bio: >-
+      ▪️|“Luxury is in each detail”👑 ▪️| @exclusivelyexpensive on IG Let’s hit 20k🔥
     location: "Canada"
-    followers: 9473
-    engagement: 717
-    commentsToLikes: 0.020316
+    followers: 16000
+    engagement: 431
+    commentsToLikes: 0.039814
     id: ck9nde92zcr510j78eyw5n8ar
     verified: false
-    hashtags: "#fypchallenge, #jamesharden, #liluzivert, #lasvegas"
-  - username: "dtmuniversal"
+    hashtags: "#luxury, #expensive, #cristiano, #house"
+  - username: "_.infront_bains_"
     fullname: >-
-      dtmuniversal
+      DC
+    bio: >-
+      #Bains ✅ Rare souls connect
     location: "Canada"
-    followers: 58261
-    engagement: 378
-    commentsToLikes: 0.007882
-    id: ck98qu8127obu0j78lyi5aa0i
+    followers: 6505
+    engagement: 1116
+    commentsToLikes: 0.017413
+    id: ckbl7mucw5hrx0j23t8tci69g
     verified: false
-    hashtags: "#couplegoals, #grappling, #taiji, #gameofdeath"
-  - username: "cargodrift"
-    fullname: >-
-      CARGODRIFT
-    location: "Canada"
-    followers: 9556
-    engagement: 2400
-    commentsToLikes: 0.225062
-    id: ck8qix2b2atgf0j78m245gg1o
-    verified: false
-    hashtags: "#rickydesktop, #chevy, #fordtruck, #jdmtuna"
+    hashtags: "#pikka, #explore, #scorpio, #myntraeorschallenge"
 ---

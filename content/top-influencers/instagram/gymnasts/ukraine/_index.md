@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Ukraine in 2020. Most popular hashtags: #teamukraine #sport #happybirthday #mountains.
+  Find top gymnasts Instagram influencers in Ukraine in 2020. Most popular hashtags: #rhythmicgymnastics #flexible #newbalance.
 platform: Instagram
+hits: 48
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 48 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "nikolchenko_vlada"
+  - username: "kate_sinika"
     fullname: >-
-      Nikolchenko Vladа
+      •𝓢 𝓘 𝓝 𝓘 𝓒 𝓗 𝓚 𝓐• 🕊
+    bio: >-
+      • ONMedU / ONU I.I.Mechnikova • Master of Sport in Rhythmic Gymnastics
     location: "Ukraine"
-    followers: 30830
-    engagement: 1246
-    commentsToLikes: 0.011493
-    id: ck5c2eq8nx44k0i112zdxpmaz
+    followers: 2631
+    engagement: 2497
+    commentsToLikes: 0.086489
+    id: ckap20j59wus30i7863wml1ly
     verified: false
-    hashtags: "#fashion, #mango, #rodeodrive, #sunsetblvd"
+    hashtags: ""
   - username: "ariana.voronkina"
     fullname: >-
       ★Ariaɳa★
+    bio: >-
+      Rhythmic Gymnastics ⭐️ Deriugina school 👯‍♀️ 2️⃣ adult sport rank🔥 Account run by mom @yoga_catrin
     location: "Ukraine"
-    followers: 16495
-    engagement: 527
-    commentsToLikes: 0.044944
+    followers: 29457
+    engagement: 337
+    commentsToLikes: 0.044584
     id: ck8tcegt0z72d0j78i8ruwprx
     verified: false
-    hashtags: "#hardtraining, #nature, #balancetraining, #covid"
-  - username: "valeriya.khanina"
-    fullname: >-
-      Valeriya Khanina
-    location: "Ukraine"
-    followers: 6084
-    engagement: 1228
-    commentsToLikes: 0.026561
-    id: ck6u6giwkfgwr0j714alailh0
-    verified: false
-    hashtags: "#iconrentalstudio, #life, #jumpingfitness, #yogatime"
+    hashtags: "#chihua"
   - username: "odessa_gimnastika"
     fullname: >-
       Odessa_gimnastika
+    bio: >-
+      Coach @sashanovember @stanislava_odessa 💖SC Advance💖 Rhythmic gymnastics Ukraine Odessa 80k dream
     location: "Ukraine"
-    followers: 67692
-    engagement: 68
-    commentsToLikes: 0.047184
+    followers: 70501
+    engagement: 167
+    commentsToLikes: 0.014965
     id: ck0vz4nbd7a8o0i19vqt17k2g
     verified: false
-    hashtags: ""
-  - username: "anna_rizatdinova"
-    fullname: >-
-      Anna Rizatdinova
-    location: "Ukraine"
-    followers: 157741
-    engagement: 312
-    commentsToLikes: 0.007306
-    id: ck5c9e7ivb9pa0i116iv84j9t
-    verified: false
-    hashtags: "#underarmour, #motivation, #stretching, #rhythmicgymnastics"
-  - username: "k_pohranychna"
-    fullname: >-
-      khrystyna pohranychna
-    location: "Ukraine"
-    followers: 12611
-    engagement: 1852
-    commentsToLikes: 0.007305
-    id: ck6udz69mnyv30j712qgz5r55
-    verified: false
-    hashtags: "#stayhome, #smile, #teamukraine, #nikacup"
+    hashtags: "#rhythmic, #flexibility, #flexibilityposts, #rhythmicgymnastic"
   - username: "anastasiia_yeliseieva"
     fullname: >-
       N Y
+    bio: >-
+      Master of sports in aerobic gymnastics Champion of 🇺🇦/ Trainer Finalist @missukraine_universe 2019 Top-50 photo models UKR Vice-studmiss 2018
     location: "Ukraine"
-    followers: 36195
-    engagement: 119
-    commentsToLikes: 0.028746
+    followers: 40780
+    engagement: 149
+    commentsToLikes: 0.020232
     id: ck5q9x04zdfss0i11p1wc539b
     verified: false
     hashtags: ""
-  - username: "mariyamuz"
+  - username: "stasya_makeeva_"
     fullname: >-
-      Фотограф Мария Музыченко 📷
+      #девочкашпагатsm🍑
+    bio: >-
+      ➖Тренер по стретчингу и художественной гимнастике ➖15лет профессионального спорта ➖Опыт работы 4года Рабочая страничка @gymnastics_makeeva_stasya_kh
     location: "Ukraine"
-    followers: 6396
-    engagement: 741
-    commentsToLikes: 0.014198
-    id: ck6u6gidffgsy0j71ej13ffz5
+    followers: 6544
+    engagement: 606
+    commentsToLikes: 0.016330
+    id: ck5zxhd9780ig0i14lmgt4tgy
     verified: false
-    hashtags: "#flex, #baku, #bestrong, #italianteam"
+    hashtags: "#toptrending, #split"
+  - username: "vikaonoprienko"
+    fullname: >-
+      Vika Onoprienko
+    bio: >-
+      🇺🇦 National Team Ukraine Rhythmic Gymnastics 🥈Silver medallist at the Europa Championships 🥇🥇🥇🥈Winner and medallist Gymnasiade @deriuginaschool.ua
+    location: "Ukraine"
+    followers: 16024
+    engagement: 1415
+    commentsToLikes: 0.008012
+    id: ck6u6gjmefh0g0j71111od2hd
+    verified: false
+    hashtags: "#rg, #la, #newbalance, #deriuginaschool"
+  - username: "nikolchenko_vlada"
+    fullname: >-
+      Nikolchenko Vladа
+    bio: >-
+      🇺🇦National Team Ukraine 🤸🏻‍♂️Rhythmic Gymnastics 🥉🥉European Games 🥉European Championship 🥉World 📍Kyiv, Ukraine
+    location: "Ukraine"
+    followers: 32852
+    engagement: 1175
+    commentsToLikes: 0.007257
+    id: ck5c2eq8nx44k0i112zdxpmaz
+    verified: false
+    hashtags: "#relax, #vacation, #roadtotokyo, #vladanikolchenko"
+  - username: "yevgeniya_gomon"
+    fullname: >-
+      Yevgeniya Gomon
+    bio: >-
+      •Coach of Rhythmic Gymnastics•🇺🇦 finalist of the Olympic Games in London & Rio World Championship🥉 World Universiade🥇🥈🥉 European Games🥈🥉
+    location: "Ukraine"
+    followers: 11734
+    engagement: 608
+    commentsToLikes: 0.022646
+    id: ck6u6gkuhfh7q0j71suu2ijf9
+    verified: false
+    hashtags: "#happyvalentinesday, #olympicheroesua, #stayhomestaysafe, #washyourhands"
   - username: "alenadmytrash"
     fullname: >-
       Alena Dmytrash
+    bio: >-
+      Coach • Rhythmic gymnastics 🇺🇦UKR National team 🏆Three-time finalist of the Olympic Games-2008,2012,2016 🥉World Championship 🥈🥉European Games
     location: "Ukraine"
-    followers: 11317
-    engagement: 544
-    commentsToLikes: 0.009499
+    followers: 10919
+    engagement: 546
+    commentsToLikes: 0.015195
     id: ck6u6gk3gfh430j71mm1ahhv9
     verified: false
-    hashtags: "#archive, #skiing, #sunset, #brightyear"
-  - username: "vikaonoprienko_v"
+    hashtags: "#kiev, #autumn, #summer, #nature"
+  - username: "uvarovaa.p"
     fullname: >-
-      Vika Onoprienko
+      Уварова Полина
+    bio: >-
+      I play with air🕊 Aerial gymnast World Champion 2018🏆 Two-time European Champion 2018,9🏆 Candidate for master of sport in rg Coach ЖИВИ СМЕЛО.ЖИВИ ЯРКО
     location: "Ukraine"
-    followers: 14110
-    engagement: 1527
-    commentsToLikes: 0.006749
-    id: ck6u6gjmefh0g0j71111od2hd
+    followers: 6827
+    engagement: 1340
+    commentsToLikes: 0.024349
+    id: ck0twbf8ier050i191no9cu00
     verified: false
-    hashtags: "#sunsetlover, #japan, #missvalentine2020, #lossimpsonsmemes"
+    hashtags: "#circuseverydamnday, #aerialsilk, #weheartaerial, #quarantineandchill"
 ---

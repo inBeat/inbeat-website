@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top fashion Instagram influencers in San Antonio in 2020. Most popular hashtags: #ootd #sanantonio #texas #fashion.
+  Find top fashion Instagram influencers in San Antonio in 2020. Most popular hashtags: #fashion #sanantonio #fashionblogger #quarantine.
 platform: Instagram
+hits: 39
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 39 Instagram influencers like this in San Antonio, United States for you to connect with.
 profiles:
   - username: "queenaa.h"
     fullname: >-
       M I N A
+    bio: >-
+      basically not basic Modesty | Fashion | Beauty San Antonio, TX 📧 minahamideh@gmail.com
     location: "United States"
-    followers: 20186
-    engagement: 619
-    commentsToLikes: 0.093614
+    followers: 21121
+    engagement: 490
+    commentsToLikes: 0.049083
     id: ck8tdfco235920j7849pz262e
     verified: false
-    hashtags: "#hijabilookbook, #ootd, #hijabneed, #corona"
+    hashtags: "#muslimahfashion, #hijabdaily, #hijablove, #hijabootd"
   - username: "smilesandpearlss"
     fullname: >-
-      Candice•Smiles and Pearls•
+      Candice | Plus Size Influencer
+    bio: >-
+      💖FASHION•LIFESTYLE•TRAVEL💖 San Antonio Fashion Blogger of the Year #SATX 👩🏽‍🤝‍👨🏻: #SandPHome Married to my BFF💁🏻‍♂️ candice@smilesandpearls.com
     location: "United States"
-    followers: 39322
-    engagement: 129
-    commentsToLikes: 0.104234
+    followers: 57769
+    engagement: 110
+    commentsToLikes: 0.122673
     id: ck14iw4nzhfil0i19ujvfkju0
     verified: false
-    hashtags: "#createyourlane, #enneagram7, #manicure, #dashingdiva"
+    hashtags: "#ootd, #plussizestyle, #paidforbylanebryant, #bodypositive"
+  - username: "isabella_radovan"
+    fullname: >-
+      Isabella Radovan
+    bio: >-
+      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
+    location: "United States"
+    followers: 6783
+    engagement: 1064
+    commentsToLikes: 0.169038
+    id: ck5zsbcf2y6el0i143za2i7a8
+    verified: false
+    hashtags: "#quarantinelife, #makeup, #fashion, #glam"
+  - username: "reaganlowry"
+    fullname: >-
+      reagan corinne
+    bio: >-
+      21 #BLM
+    location: "United States"
+    followers: 2284
+    engagement: 1940
+    commentsToLikes: 0.065343
+    id: ckf5rgxd6cmtn0j23q38fjauo
+    verified: false
+    hashtags: "#photoshoot, #shotoniphone, #nwi, #vscoedits"
   - username: "nilaya_xoxo"
     fullname: >-
       🌸ɴ ɪ ʟ ᴀ ʏ ᴀ🌸
+    bio: >-
+      ✨Performer | Fashion | Make-up 📍San Antonio, Tx ✨ for collabs/PR contact via e-mail 👚purchase my tees below:
     location: "United States"
-    followers: 8603
-    engagement: 915
-    commentsToLikes: 0.056743
+    followers: 9453
+    engagement: 513
+    commentsToLikes: 0.072647
     id: ck5cdapfmiu0v0i11gh5ajy5c
     verified: false
-    hashtags: "#spikes, #wingedliner, #sweaterweather, #yktfv"
-  - username: "comicsinmybirkin"
+    hashtags: "#transisbeautiful, #entertainer, #lgbt, #blendtherules"
+  - username: "hairbyhaleyhaines"
     fullname: >-
-      NYC TinstaKRAM 📸
+      Haley Marie Haines
+    bio: >-
+      📍HTX//Nashville | Blonde and Extension Specialist | @habitextensionmethod 💌haleyhaines2@gmail.com
     location: "United States"
-    followers: 19139
-    engagement: 264
-    commentsToLikes: 0.024891
-    id: ckaozvumenmsd0i781t8lp6f8
+    followers: 12791
+    engagement: 285
+    commentsToLikes: 0.032970
+    id: ck5q3ccv9k6vz0i11nb90k9ee
     verified: false
-    hashtags: "#newyorkfood, #nycfoodie, #frenchcuisine, #leather"
+    hashtags: "#houstonhairstylist, #habithandtiedextensions, #houstonbloggers, #fashion"
   - username: "marilynchihuahua"
     fullname: >-
       Marilyn Chihuahua
+    bio: >-
+      Fashion | Canine Enrichment | Training Tips 📍San Antonio Local 🏅 Novice trick dog ⬇️Join me on my adventures
     location: "United States"
     followers: 4511
     engagement: 1118
     commentsToLikes: 0.111598
     id: ck9h9o3jf99la0j78ir8c0nhm
     verified: false
-    hashtags: "#quarantined, #sundaythoughts, #nationalstartseeingmonarchsday, #nationallemonadeday"
-  - username: "nickwspalding"
+    hashtags: "#nationalstartseeingmonarchsday, #ineedfriends, #tongueouttuesday, #mondaymotivation"
+  - username: "taylermalott"
     fullname: >-
-      Nick Spalding
+      Tayler (Malott) Gilbert
+    bio: >-
+      Sharing life as a new mom. Fashion. Beauty. Home. & Travel 📍 HTX ✈️ San Antonio 💍 Wife to @hunterhgilbert 👶🏼💗Momma to Isla Grace
     location: "United States"
-    followers: 14421
-    engagement: 751
-    commentsToLikes: 0.015285
-    id: ck15r7wt86l8t0i1922mdwsbw
+    followers: 28877
+    engagement: 93
+    commentsToLikes: 0.064778
+    id: ck5cctdrahzbx0i11i778nc0z
     verified: false
-    hashtags: "#nyc, #fitness, #california, #mensfashion"
-  - username: "viviruth_"
+    hashtags: "#ltkgiftspo, #mintedholiday, #gifted, #unboxing"
+  - username: "_maddiemason_cosplay"
     fullname: >-
-      Veronica 🌸
+      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
+    bio: >-
+      ➳ 𝐹𝒾𝓇𝓈𝓉 𝐼 𝒹𝓇𝒾𝓃𝓀 𝓉𝒽𝑒 𝒸𝑜𝒻𝒻𝑒𝑒. 𝒯𝒽𝑒𝓃 𝐼 𝒹𝑜 𝓉𝒽𝑒 𝓉𝒽𝒾𝓃𝑔𝓈. ➳ Cosplay/Fashion page🌼 ➳ PO Box- #780283 12951 Huebner San Antonio, TX 78230-9998 💌
     location: "United States"
-    followers: 2138
-    engagement: 1214
-    commentsToLikes: 0.093061
-    id: ck6ty2ktm1blt0j71ftc9m8cg
+    followers: 21749
+    engagement: 612
+    commentsToLikes: 0.031568
+    id: ck6ui5ku0d76g0j71ea21muiy
     verified: false
-    hashtags: "#hairgoals, #bluemoonpalette, #halloween2019, #sanantoniomua"
-  - username: "jordanreeh"
+    hashtags: "#halloweencostume, #sunday, #girlswithglasses, #daphne"
+  - username: "dgafpanda"
     fullname: >-
-      Southern Stilettos
+      Alex Lee Charles
+    bio: >-
+      🔹 San Antonio, TX 🤠 🔹 Freelance #MUA 💄 🔹 468k+ Views on Youtube 🎥
     location: "United States"
-    followers: 18815
-    engagement: 303
-    commentsToLikes: 0.201553
-    id: ck14hr6tmbpxw0i193aepha4x
+    followers: 20104
+    engagement: 713
+    commentsToLikes: 0.016792
+    id: ck6toys5tguxm0j71s4gc4hbv
     verified: false
-    hashtags: "#corporatestyle, #babyonboard, #sahairstylist, #localbusiness"
-  - username: "laurynlately"
-    fullname: >-
-      Lauryn Henry
-    location: "United States"
-    followers: 15186
-    engagement: 682
-    commentsToLikes: 0.297194
-    id: ck5zxuutd8pgk0i14b89ayddp
-    verified: false
-    hashtags: "#maxiskirt, #reddress, #sanantonio, #shopsmall"
-  - username: "styledbynellikal"
-    fullname: >-
-      Nelli Kalinyuk
-    location: "United States"
-    followers: 17250
-    engagement: 238
-    commentsToLikes: 0.133083
-    id: ck8tbhanovo7u0j788he7trhd
-    verified: false
-    hashtags: "#mydsw, #thewoodlands, #florals, #leopardbag"
+    hashtags: "#blogger, #beautiful, #followme, #style"
 ---

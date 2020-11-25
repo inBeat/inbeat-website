@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Capetown In 2020
 description: >-
-  Find top health Instagram influencers in Capetown in 2020. Most popular hashtags: #health #capetown #fashion #sport.
+  Find top health Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #fitness #health.
 platform: Instagram
+hits: 27
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 27 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
-  - username: "chloegarner_athlete_"
+  - username: "the_girl_in_the_bikini"
     fullname: >-
-      Chloe Garner
+      Katelyn
+    bio: >-
+      🌞FOREVER CHASING SUMMER🌞 •MODEL👱🏼‍♀️ @icemodelsjhb •DESIGNER/OWNER🧵 @missktb_fashion •TRAVELLER 🌍 •MOM OF @gigi_the_toy 🐩
     location: "South Africa"
-    followers: 6651
-    engagement: 376
-    commentsToLikes: 0.035439
-    id: ck0uawjczd9s10i19r45sm58j
+    followers: 27739
+    engagement: 354
+    commentsToLikes: 0.041946
+    id: ck8t6fp6sdg760j78cygld5w6
     verified: false
-    hashtags: "#natureheals, #mindfullness, #cause, #logo"
-  - username: "marcbermanphotography"
+    hashtags: "#fitnessmotivation, #waterfall, #bali, #beachbabe"
+  - username: "marcbuckner"
     fullname: >-
-      Marc Berman | Photographer
+      Marc Buckner
+    bio: >-
+      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
     location: "South Africa"
-    followers: 15993
-    engagement: 241
-    commentsToLikes: 0.070445
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#sports, #girls, #beta, #indoors"
-  - username: "mischkebosse"
-    fullname: >-
-      mischke bosse
-    location: "South Africa"
-    followers: 6531
-    engagement: 396
-    commentsToLikes: 0.027823
-    id: ck6u0k4ajg5ra0j713hceiqw2
-    verified: false
-    hashtags: "#pjstopjs, #capetown, #feminism, #spirituality"
-  - username: "chanellesoncini"
-    fullname: >-
-      ⚡️CHANELLE SONCINI⚡️
-    location: "South Africa"
-    followers: 26481
-    engagement: 121
-    commentsToLikes: 0.211222
-    id: ck6u1whp5ob1o0j71gdgns6sx
-    verified: false
-    hashtags: "#party, #cooper, #headscarf, #festivemood"
-  - username: "kunene_ayanda"
-    fullname: >-
-      Ayanda Kunene
-    location: "South Africa"
-    followers: 3500
-    engagement: 616
-    commentsToLikes: 0.080905
-    id: ck138fd3bfyxf0i199d208qt8
-    verified: false
-    hashtags: "#throwback, #twinsofinstagram, #wellness, #ideas"
-  - username: "kissblushandtell"
-    fullname: >-
-      KISS, BLUSH & TELL
-    location: "South Africa"
-    followers: 37394
-    engagement: 254
-    commentsToLikes: 0.070006
-    id: ck5q8fzye5ztx0i11tha1d1zz
-    verified: false
-    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
-  - username: "lilyonthemove"
-    fullname: >-
-      Lily | Travel | Lifestyle
-    location: "South Africa"
-    followers: 2365
-    engagement: 2933
-    commentsToLikes: 0.119557
-    id: ck5hmf4r7lu4p0i11pahq0cw1
-    verified: false
-    hashtags: "#explorequebec, #epicshotz5k, #starscape, #networkbangers"
-  - username: "paulanovotna"
-    fullname: >-
-      PAULA NOVOTNA | Athlete
-    location: "South Africa"
-    followers: 88129
-    engagement: 280
-    commentsToLikes: 0.020101
-    id: ck5bvrq34k9t60i11qdn308nk
+    followers: 105527
+    engagement: 464
+    commentsToLikes: 0.031676
+    id: ck5qeisvd0p580i11yvigwyqx
     verified: true
-    hashtags: "#photography, #healthy, #kitesurf, #decimobeachwear"
-  - username: "daniella_thibault"
+    hashtags: "#motivation, #chest, #work, #arms"
+  - username: "natsfaydherbe96"
     fullname: >-
-      Daniella Zainette Thibault
+      Nathalie Faydherbe
+    bio: >-
+      📍CT🇿🇦🇿🇼soon🇦🇺 Health•Fitness•Lifestyle @waterfronttheatreschool Dancer/Teacher🩰 @etacapetown 🎓 💗@mattyg_wp SocialMediaManager @lifehealthsa @laluciec
     location: "South Africa"
-    followers: 27615
-    engagement: 126
-    commentsToLikes: 0.300718
-    id: ck5zm4eyblvn20i149l5nh9oa
+    followers: 10126
+    engagement: 1015
+    commentsToLikes: 0.028759
+    id: ck8t6fcp4dekb0j78r10bn6di
     verified: false
-    hashtags: "#music, #onlinemarketing, #boredinthehouse, #bossbabequotes"
-  - username: "saskiatopp"
+    hashtags: "#danceteacher, #daneswimwear, #ballerina, #nutrition"
+  - username: "magaramirezz"
     fullname: >-
-      Saskia Jordyn Topp
+      Maria Gabriela Ramirez 🦋
+    bio: >-
+      MADE IN 🇻🇪 Venezuela 🇿🇦 Currently in Cape Town, South Africa📍⚓️
     location: "South Africa"
-    followers: 30060
-    engagement: 260
-    commentsToLikes: 0.075074
-    id: ck6u2s7s2tmls0j71eprx8zjp
+    followers: 7322
+    engagement: 1548
+    commentsToLikes: 0.066614
+    id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#vacationmood, #vacationmodeon, #health, #carltonhair"
+    hashtags: "#dubai, #hamburg, #model, #milan"
+  - username: "tracymcgregor"
+    fullname: >-
+      Tracy McGregor
+    bio: >-
+      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
+    location: "South Africa"
+    followers: 27278
+    engagement: 355
+    commentsToLikes: 0.162121
+    id: ck6ue97chpjuk0j71p6xoc0mx
+    verified: false
+    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
+  - username: "mandy.liebenberg"
+    fullname: >-
+      Mandy Liebenberg
+    bio: >-
+      • Cape Town📍 • Surfer & cyclist & horse rider 🐎 • 22.08.2017 - Saved🌸 • Paraplanner👩🏽‍💼 • DM for collabs 💌 & Preset Pack order
+    location: "South Africa"
+    followers: 59376
+    engagement: 166
+    commentsToLikes: 0.061918
+    id: ck8td8odm2cs90j78jig9d71p
+    verified: false
+    hashtags: "#happy, #live, #god, #smile"
+  - username: "_nicolecapper"
+    fullname: >-
+      NICOLE CAPPER
+    bio: >-
+      Wild Adventurer Mama Bear 🇿🇦➡️🌍 Pharmacist & Marketing Maven @theimpacthub @uprisingza @rarediseasessa
+    location: "South Africa"
+    followers: 47494
+    engagement: 159
+    commentsToLikes: 0.040843
+    id: ck14ivoanhd8m0i19ft6ld7m8
+    verified: false
+    hashtags: "#travel, #healthy, #capetown, #nescafeveganlattesza"
+  - username: "gabriellabenedicte"
+    fullname: >-
+      FITNESS | MOTHERHOOD
+    bio: >-
+      📸 Photographer/Casting Director 💪🏻 Fitness + Coaching ⚡️Spinning Instructor 📍Cape Town @gabriellabenedicte_photography
+    location: "South Africa"
+    followers: 5634
+    engagement: 379
+    commentsToLikes: 0.083098
+    id: ck6tjx4453lbq0j71icx5yxft
+    verified: false
+    hashtags: "#fitfam, #motherhoodunplugged, #portraitoftheday, #postmoreportraits"
+  - username: "mattsiebert_"
+    fullname: >-
+      matt ♎
+    bio: >-
+      •Creative direction ☕ •dm me⚡ •I like lifting weights 💪
+    location: "South Africa"
+    followers: 20926
+    engagement: 270
+    commentsToLikes: 0.029038
+    id: ck5c9ayn2b41f0i1121cg4xum
+    verified: false
+    hashtags: "#travelphotography, #photooftheday, #portrait, #lifestyle"
+  - username: "doc.beats"
+    fullname: >-
+      Dr. B. Buchzik
+    bio: >-
+      Medical Doctor Munich #oneactivityaday keeps the doctor away. ✉ info.docbeats@gmail.com
+    location: "South Africa"
+    followers: 16408
+    engagement: 183
+    commentsToLikes: 0.088152
+    id: ckaovkrsl4zmb0i78smbhj569
+    verified: false
+    hashtags: "#sport, #travelaroundtheworld, #cloudporn, #instamazing"
 ---

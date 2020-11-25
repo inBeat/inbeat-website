@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Chile In 2020
 description: >-
-  Find top comedians Instagram influencers in Chile in 2020. Most popular hashtags: #tbt #comedia #quedateencasa #show.
+  Find top comedians Instagram influencers in Chile in 2020. Most popular hashtags: #humor #comedia #apruebo.
 platform: Instagram
+hits: 41
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 41 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "alisonmandel"
-    fullname: >-
-      Alison Mandel
-    location: "Chile"
-    followers: 894702
-    engagement: 1012
-    commentsToLikes: 0.015376
-    id: ck5hdhx1vnimo0i11c63cw6q1
-    verified: true
-    hashtags: "#quedateencasa, #carlosculiao, #rappifavor, #conozcotodamicasa"
   - username: "gloriabenavides_oficial"
     fullname: >-
       Gloria Benavides
+    bio: >-
+      Cantante y comediante. Fundadora de Jappening con Ja y Sábado Gigante como La Cuatro. 9 veces en Festival de Viña.
     location: "Chile"
-    followers: 42820
-    engagement: 521
-    commentsToLikes: 0.039706
+    followers: 47769
+    engagement: 390
+    commentsToLikes: 0.077625
     id: ck5hhnfqf958d0i118z2t5ony
     verified: false
-    hashtags: "#repost, #teatronacional, #comedia, #tuvidatuhistoriachv"
-  - username: "pameleiva"
+    hashtags: "#challengeaccepted, #womensupportingwomen"
+  - username: "alisonmandel"
     fullname: >-
-      pamelitaleiva
+      Alison Mandel
+    bio: >-
+      Stand Up, Comediante, Guionista, Actriz 🇨🇱🎤🎙 #alisonmandel 🌟 Sergio@saproducciones.cl @saproducciones.cl 🐈 Muamia 💙
     location: "Chile"
-    followers: 235016
-    engagement: 129
-    commentsToLikes: 0.028599
-    id: ck0vz5bhn7dnz0i195zpyl1mj
+    followers: 943953
+    engagement: 299
+    commentsToLikes: 0.016232
+    id: ck5hdhx1vnimo0i11c63cw6q1
     verified: true
-    hashtags: "#tbt, #diadelamadre, #show, #eld"
-  - username: "pedroruminot"
+    hashtags: "#adgsk, #thisisus, #cuidatedelameningitis, #adsgsk"
+  - username: "srtablum"
     fullname: >-
-      Pedro
+      Karol Blum
+    bio: >-
+      Multipolar 🧚‍♀️ Videos para reír y llorar 🛸 Actriz🎭 Comediante🎙️Doblaje🐢Mamá🦁 #apruebo #freebritney Tiktok @srtablum
     location: "Chile"
-    followers: 524303
-    engagement: 647
-    commentsToLikes: 0.013267
-    id: ck5zztalscdy70i14352so6qo
-    verified: true
-    hashtags: "#tbt, #galaxys20, #teamgalaxy, #apruebo"
+    followers: 64605
+    engagement: 382
+    commentsToLikes: 0.033821
+    id: ck0w0qob2fkke0i19zv1r9mgw
+    verified: false
+    hashtags: "#canastafest, #yapocroma, #latiktoker, #nancy"
   - username: "gonzalezcomediante"
     fullname: >-
-      Rᴏᴅʀɪɢᴏ Gᴏɴᴢáʟᴇᴢ Rᴜʙɪᴏ🕺
+      Rᴏᴅʀɪɢᴏ Gᴏɴᴢáʟᴇᴢ Rᴜʙɪᴏ🕺
+    bio: >-
+      #Actor #Comediante panelista en #abrazodegolcdf de @cdf.cl 🎤 #𝕥𝕖𝕔𝕙𝕟𝕚𝕔𝕠𝕝𝕠𝕣 del blanco y negro al color #standupcomedy
     location: "Chile"
-    followers: 32439
-    engagement: 148
-    commentsToLikes: 0.092444
+    followers: 37935
+    engagement: 129
+    commentsToLikes: 0.083868
     id: ck5pvgq2ehsuh0i11vske4wbk
     verified: false
-    hashtags: "#felizdiadelteatro, #comediantesencuarentena, #scl, #lavarselasmanos"
-  - username: "esgaboruiz"
-    fullname: >-
-      Gabriel Ruiz
-    location: "Chile"
-    followers: 150008
-    engagement: 813
-    commentsToLikes: 0.022316
-    id: ck14li76musx50i19kq3gsy6f
-    verified: false
-    hashtags: "#eltourdelombligo, #somosuno, #bastadefracking, #tbt"
-  - username: "yamireyna"
-    fullname: >-
-      Yamila Reyna
-    location: "Chile"
-    followers: 372272
-    engagement: 170
-    commentsToLikes: 0.029517
-    id: ck5zkfnr6je8x0i14wa6jjx3x
-    verified: true
-    hashtags: "#tbt, #teamsolterosky, #hoyesviernesymicuerpolosabe, #familia"
+    hashtags: "#standup, #ficcion, #showonline, #apruebo"
   - username: "ronalalvar"
     fullname: >-
       ronal Alvarado
+    bio: >-
+      Comediante, animador, creador de videos 🇻🇪📍🇨🇱
     location: "Chile"
     followers: 17879
     engagement: 174
     commentsToLikes: 0.239237
     id: ck6u9mnjqyen10j71huywfl6v
     verified: false
-    hashtags: "#viral, #chilezolanos, #venezuelalibre, #youtube"
-  - username: "dinamiterasanchez"
+    hashtags: "#venezolanosenchile, #ronalalvarado, #humor, #debate"
+  - username: "yamireyna"
     fullname: >-
-      Rosario Sanchez
+      Yamila Reyna
+    bio: >-
+      Actriz-comediante-argenchilena🇦🇷🇨🇱
     location: "Chile"
-    followers: 7663
-    engagement: 359
-    commentsToLikes: 0.043990
-    id: ck5hs70bqw3eh0i11yavc0bnd
-    verified: false
-    hashtags: "#covid, #coronavirusmemes, #cuarentena, #lafabricadesalchichas"
+    followers: 419539
+    engagement: 159
+    commentsToLikes: 0.024721
+    id: ck5zkfnr6je8x0i14wa6jjx3x
+    verified: true
+    hashtags: "#yoapruebo, #standup, #tbt, #libresoy"
   - username: "juanpapintoss"
     fullname: >-
       juanpapintoss
+    bio: >-
+      Cuenta de Ph @pablopintosphoto Comediante🤣 Fotógrafo📷 Boludo🤦🏾‍♂️ Ex astronauta👨🏽‍🚀 La milanesa es la esencia de la vida🤤 Hijo de mi mamá🤷🏽‍♂️
     location: "Chile"
-    followers: 24184
-    engagement: 137
-    commentsToLikes: 0.011117
+    followers: 22288
+    engagement: 170
+    commentsToLikes: 0.011188
     id: ck5zq5c9vtyor0i14oe1l99vo
     verified: false
-    hashtags: "#mate, #mateamargo, #buenjueves, #iphone"
+    hashtags: "#humor, #comedia, #comediante, #humorista"
+  - username: "remigioremedy"
+    fullname: >-
+      Remigio Remedy
+    bio: >-
+      Actor/ Comediante/ StandupComedy/Artista Marcial. remigio.remedy@gmail.com
+    location: "Chile"
+    followers: 32568
+    engagement: 171
+    commentsToLikes: 0.085123
+    id: ck5q5quf6u5f80i110n6j15fz
+    verified: false
+    hashtags: ""
+  - username: "chamojung"
+    fullname: >-
+      Julio Jung Duvauchelle
+    bio: >-
+      Actor, comediante, director, papá de Matilda, papastro de Jose y Santi, loco x Tati #verdadesocultas #mcc #festivaldeolmue @chamotips
+    location: "Chile"
+    followers: 164289
+    engagement: 135
+    commentsToLikes: 0.069520
+    id: ck5zjcbsahc9j0i14uayzaig8
+    verified: true
+    hashtags: "#buenfinde, #topulen, #buenosdias, #buenasnoches"
+  - username: "tatianamolinaactriz"
+    fullname: >-
+      Tatiana Molina
+    bio: >-
+      Actriz chilena 🎭| Teatro 🎬|TV 💻👌Coach 🙋🎙️Comediante |Standup
+    location: "Chile"
+    followers: 19312
+    engagement: 161
+    commentsToLikes: 0.109410
+    id: ck0w1gj7bj8ha0i199vn1seic
+    verified: false
+    hashtags: "#teamovalentina, #valentinateamo, #actress, #loscobresdevitacura"
 ---

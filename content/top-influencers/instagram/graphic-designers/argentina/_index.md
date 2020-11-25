@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Argentina in 2020. Most popular hashtags: #coronavirus #happiness #aesthetic #digitalart.
+  Find top graphic-designers Instagram influencers in Argentina in 2020. Most popular hashtags: #love #argentina #lettering.
 platform: Instagram
+hits: 11
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "csbotti"
     fullname: >-
-      Camila Sol Botti ⚡️
+      Camila Sol Botti ⚡️🌈 🖤
+    bio: >-
+      🇦🇷 • Shine ☀️• Healthy 💛 • Graphic Designer • CM • Tutoriales • Filtros • Sorteos @piensa.ama.rie 🎡 No influyo a nadie a hacer nada 🙏🏻♥️
     location: "Argentina"
-    followers: 37731
-    engagement: 372
-    commentsToLikes: 0.106652
+    followers: 56521
+    engagement: 399
+    commentsToLikes: 0.107314
     id: ck8sw0s01deo40j786ow7idy1
     verified: false
-    hashtags: "#montaje, #creative, #iphonelover, #blondy"
+    hashtags: "#womanoftheworld, #artphoto, #model, #photoart"
   - username: "matiasarietto"
     fullname: >-
       M A T I A S   A R I E T T O
+    bio: >-
+      Actor | Art director | Graphic designer | Content creator | Filmmaker | DM • collabs
     location: "Argentina"
-    followers: 43950
-    engagement: 174
-    commentsToLikes: 0.065015
+    followers: 47093
+    engagement: 147
+    commentsToLikes: 0.060273
     id: ck0vvj6ytpdnb0i19wicgli6i
     verified: false
-    hashtags: "#sunday, #hongos, #love, #feet"
-  - username: "ale.gaspari"
-    fullname: >-
-      Ale Gaspari
-    location: "Argentina"
-    followers: 10946
-    engagement: 620
-    commentsToLikes: 0.011109
-    id: ck5q30odoiog10i11tzxfdb6u
-    verified: false
-    hashtags: "#tbt"
+    hashtags: "#workout, #beardstyle, #hoscos, #love"
   - username: "cristianalcant"
     fullname: >-
       Chris Alcantara
+    bio: >-
+      🇩🇴 26👴 Mateo 19:26♜💯 Graphic Designer 🎬✒
     location: "Argentina"
-    followers: 8705
-    engagement: 730
-    commentsToLikes: 0.103697
+    followers: 9989
+    engagement: 1193
+    commentsToLikes: 0.091227
     id: ck5hoyb5uqg4b0i119ei0sjf4
     verified: false
-    hashtags: "#aventura, #dragonballz, #coronavirus, #latinos"
-  - username: "flordepampi"
+    hashtags: "#funny, #laugh, #dominicano, #dominican"
+  - username: "ale.gaspari"
     fullname: >-
-      ↠ Flor de Pampi
+      Ale Gaspari
+    bio: >-
+      #GraphicDesigner #ContentCreator . 🆃🆁🅰🆅🅴🅻🅻🅴🆁 🗺 . @tressobretres . 📍 Santa Fe 🇦🇷
     location: "Argentina"
-    followers: 19836
-    engagement: 734
-    commentsToLikes: 0.045895
-    id: ck5pwwqggozdg0i11pd4f7hau
+    followers: 10138
+    engagement: 619
+    commentsToLikes: 0.010416
+    id: ck5q30odoiog10i11tzxfdb6u
     verified: false
-    hashtags: "#illustrationhowl, #petfood, #pridemonth2019, #illustrationnow"
-  - username: "fachymarin"
-    fullname: >-
-      Francisco Marin
-    location: "Argentina"
-    followers: 6224
-    engagement: 1286
-    commentsToLikes: 0.032429
-    id: ck0u89dra6uhg0i1933pongl7
-    verified: false
-    hashtags: "#welivetoexplore, #artofvisuals, #vaporwaveart, #retrofuture"
-  - username: "nowheretomie"
+    hashtags: "#tbt"
+  - username: "sandrakzy"
     fullname: >-
       Sandra
+    bio: >-
+      Graphic designer and final artwork producer 🎨 Valencia 🍊
     location: "Argentina"
-    followers: 6345
-    engagement: 822
-    commentsToLikes: 0.015597
+    followers: 6145
+    engagement: 757
+    commentsToLikes: 0.015893
     id: ck13cztkt2yj20i19x6cnq32b
     verified: false
     hashtags: ""
+  - username: "caylakmoore"
+    fullname: >-
+      Cayla Kaimana Forever Moore
+    bio: >-
+      Surfer, Artist, Graphic Designer + WSL Surf Breaks Host O’ahu | Malibu KS’15 || Pepp ‘19: BS Business Admin 4X NSSA National titles
+    location: "Argentina"
+    followers: 22423
+    engagement: 380
+    commentsToLikes: 0.015272
+    id: ck5q5to3juj9d0i115i524nev
+    verified: false
+    hashtags: "#lifeathome, #mooresis, #twinning"
   - username: "javirroyo"
     fullname: >-
       javirroyo
+    bio: >-
+      Not an artist. Not an illustrator. Not a graphic designer. En @el_pais @xelmeteoritox @upperslife @cuartopoder_es @el.estafador @chispumchispum
     location: "Argentina"
-    followers: 142917
-    engagement: 415
-    commentsToLikes: 0.009023
+    followers: 194885
+    engagement: 356
+    commentsToLikes: 0.006967
     id: ck0tv88d6aabo0i19twpgyhth
     verified: false
-    hashtags: "#planetatierra, #leave, #turismo, #lepetitprince"
+    hashtags: "#covid, #love, #javirroyo, #illustration"
   - username: "sanxtypo"
     fullname: >-
       Santiago Colombo
+    bio: >-
+      Lettering Artist & Graphic Designer (FADU) based in Buenos Aires, Argentina
     location: "Argentina"
     followers: 30799
     engagement: 485
     commentsToLikes: 0.023726
     id: ck0w527ss1jo00i193ff0gx81
     verified: false
-    hashtags: "#thistooshallpass, #deeplove, #dancemonkey, #iphone"
-  - username: "lodexavi"
+    hashtags: "#typism, #type, #typo, #distressedunrest"
+  - username: "asiestudio"
     fullname: >-
-      Xavi Aldea
+      ˗ ˏˋ así estudio ˎˊ˗
+    bio: >-
+      ⋮ ⚖️ graduada en derecho | #lawgraduate
     location: "Argentina"
-    followers: 3377
-    engagement: 1220
-    commentsToLikes: 0.076828
-    id: ck5zzv90achad0i146xy6d4t4
+    followers: 5105
+    engagement: 952
+    commentsToLikes: 0.016191
+    id: ck8tb0bclttto0j78mzra0poj
     verified: false
-    hashtags: "#gainparty, #digitalpainting, #whatiworetoday, #pictures"
+    hashtags: ""
+  - username: "rosana.ortiz_ph"
+    fullname: >-
+      Rosana Ortiz
+    bio: >-
+      🇦🇷Argentina Fotógrafa y Maquilladora Profesional F&A @fotografos_latinoamericanos Dir. Aprobaciones FB: Fotógrafos Latinoamericanos
+    location: "Argentina"
+    followers: 2254
+    engagement: 991
+    commentsToLikes: 0.111225
+    id: ckaosqj3wsn6d0i78vgo0r94s
+    verified: false
+    hashtags: "#momentos, #kidsmodelworld, #topkids, #bnw"
 ---

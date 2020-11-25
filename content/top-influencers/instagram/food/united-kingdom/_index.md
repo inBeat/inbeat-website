@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top food Instagram influencers in United Kingdom in 2020. Most popular hashtags: #girlswholift #gymmotivation #workout #instadaily.
+  Find top food Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ad #fashionblogger #fitnessmotivation #london.
 platform: Instagram
+hits: 1831
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 1831 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "sc_figure"
+  - username: "chantelle_lois"
     fullname: >-
-      Sarah Cowin
+      Chantelle
+    bio: >-
+      Mum & Wife, just tryna live a good life ✨ Collabs: chantellelois@aol.com 💌 Owner of @blondiebrowniebakes 🧁 Food @foodiechants 🍱
     location: "United Kingdom"
-    followers: 3407
-    engagement: 2831
-    commentsToLikes: 0.401740
-    id: ckapcimrv3yne0i78op3a32bh
+    followers: 10982
+    engagement: 1786
+    commentsToLikes: 0.146437
+    id: ckaoygg8hhf6d0i78dljo7pku
     verified: false
-    hashtags: "#mindsetmonday, #selfworth, #lifeisgood, #bodybuilder"
-  - username: "semi_fitfoodie"
+    hashtags: "#babygirl, #mumbloggeruk, #babiesofig, #lifewithlittles"
+  - username: "kalia.lai"
     fullname: >-
-      Amber Smith
+      KALIA
+    bio: >-
+      brit · hk’er 🇬🇧🇭🇰 model✨ @w_modelmgmt athlete @underarmouruk foodie @kaliaeats info@kalialai.com
     location: "United Kingdom"
-    followers: 4960
-    engagement: 1957
-    commentsToLikes: 0.340029
-    id: ckaowa5ne80y70i7804dgjp8s
+    followers: 22168
+    engagement: 1012
+    commentsToLikes: 0.084775
+    id: ck5pygg13vwao0i11shabrd9q
     verified: false
-    hashtags: "#easyrecipes, #discoverunder5k, #fitnessyoutuber, #fitnessblogger"
-  - username: "samiya.styles"
-    fullname: >-
-      • S A M I Y A •
-    location: "United Kingdom"
-    followers: 15810
-    engagement: 770
-    commentsToLikes: 0.140428
-    id: ck6u2tdzmttul0j71ee09xysh
-    verified: false
-    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
-  - username: "elizatheveganprincess"
-    fullname: >-
-      Eliza
-    location: "United Kingdom"
-    followers: 17024
-    engagement: 701
-    commentsToLikes: 0.168256
-    id: ck8sxqjb0iair0j78rkiu1xmf
-    verified: false
-    hashtags: "#lifestyles, #londonlockdown, #freshfaced, #stayingpositive"
-  - username: "galzahavi"
-    fullname: >-
-      Gal Malka Zehavi-גל מלכה זהבי
-    location: "United Kingdom"
-    followers: 146265
-    engagement: 638
-    commentsToLikes: 0.028130
-    id: ck5bthenufz4t0i11u6s1xjtn
-    verified: false
-    hashtags: "#ad, #yoplaittogo, #oreostyle, #mnmsmovies"
-  - username: "sarah__fit16"
-    fullname: >-
-      Sarah
-    location: "United Kingdom"
-    followers: 2688
-    engagement: 2149
-    commentsToLikes: 0.266695
-    id: ckaowraima3hs0i78wxv6g767
-    verified: false
-    hashtags: "#worldmentalhealthweek"
+    hashtags: "#ad, #affiliate, #fashionblogger, #fitnessmotivation"
   - username: "leylee_11"
     fullname: >-
-      LEYLA SCH 🦋
+      LEYLA 🦋
+    bio: >-
+      World explorer. Wine, food and tattoo lover ⠀⠀⠀⠀ Mon chéri @mixhael_h ♡
     location: "United Kingdom"
-    followers: 9452
-    engagement: 1118
-    commentsToLikes: 0.140299
+    followers: 9836
+    engagement: 1367
+    commentsToLikes: 0.121881
     id: ck9weq5lglf540j78skb5ycuz
     verified: false
-    hashtags: "#inkedmodel, #tattooedbabes, #kyliejennermakeup, #makeupaddict"
+    hashtags: "#alternativegirl, #alternative, #modeling, #girlswithtattoos"
+  - username: "drlouloubug"
+    fullname: >-
+      Lauren Mulcahy-Ryan 🇮🇪 🇬🇧
+    bio: >-
+      Collabs- drlouloubug@gmail.com London blogger World traveller (59 down) Wife to @jamesy_pics Tall girls fashion Foodie
+    location: "United Kingdom"
+    followers: 7235
+    engagement: 1229
+    commentsToLikes: 0.457739
+    id: ck5q1qbhdc8zx0i11mlk74phg
+    verified: false
+    hashtags: "#colourlovers, #newweek, #styledbyme, #prettycitylondon"
+  - username: "nikkigraceb"
+    fullname: >-
+      Nikki Grace 👽
+    bio: >-
+      🌱🇬🇧 •Fitness, food, well-being and adventure• •T1D•Plantbased• NIKKIG20 for 20% off @lornajaneactive ⬇️
+    location: "United Kingdom"
+    followers: 42983
+    engagement: 581
+    commentsToLikes: 0.062789
+    id: ck8tdisx33hbr0j78w5kipwh8
+    verified: false
+    hashtags: "#healthandfitness, #girlswhosquat, #vegangirlsofig, #girlswhoworkout"
+  - username: "kate.ovens"
+    fullname: >-
+      Kate Ovens
+    bio: >-
+      Yes... I’m the girl that does the food challenges 😂🍔 Kate.ovens@hotmail.com 400,000+ followers
+    location: "United Kingdom"
+    followers: 119911
+    engagement: 431
+    commentsToLikes: 0.091902
+    id: ck13c5ivzypsa0i19hus6baji
+    verified: true
+    hashtags: "#sohofood, #roastdinner, #ad, #sundayroast"
+  - username: "mahmoodansari"
+    fullname: >-
+      Mahmood Ansari
+    bio: >-
+      Making the most of life. Cars, Watches, Sneakers, Travelling & Food. 🌍 53 countries so far.
+    location: "United Kingdom"
+    followers: 21081
+    engagement: 642
+    commentsToLikes: 0.061836
+    id: ck0u6155k0nbj0i194yom66lq
+    verified: false
+    hashtags: "#porsche, #ad, #audi, #photooftheday"
   - username: "tzvikaamit25"
     fullname: >-
       Tzvika Amit
+    bio: >-
+      🔹Fashion ✭ Hotels PR ✭ Food🔹 ♦️ express urself, dont repress urself ♦️ ⇩ Collabs & Business - Email/DM ⇩
     location: "United Kingdom"
-    followers: 346555
-    engagement: 651
-    commentsToLikes: 0.021025
+    followers: 342235
+    engagement: 702
+    commentsToLikes: 0.020543
     id: ckap5d7hob5dh0i78kvt1emkx
     verified: false
-    hashtags: "#seemyathens, #londonphoto, #academyofathens, #manfeetfetish"
-  - username: "leahgracefitness"
+    hashtags: "#sanfranciscoarchitecture, #sanfranciscohotels, #gaybeardedmen, #sanfranciscogay"
+  - username: "sc_figure"
     fullname: >-
-      Leah Grace | Fitness & Food
+      Sarah Cowin
+    bio: >-
+      🙋🏻‍♀️Fun, Fitness & Food ✨ 📍Sheffield 🇬🇧 🤓Physio | Online Coach | Account Mgmt
     location: "United Kingdom"
-    followers: 94346
-    engagement: 429
-    commentsToLikes: 0.081773
-    id: ck8t21z5cxxd80j786z7q5dpk
+    followers: 6334
+    engagement: 961
+    commentsToLikes: 0.311762
+    id: ckapcimrv3yne0i78op3a32bh
     verified: false
-    hashtags: "#weightlifting, #mentalhealth, #fitnessfun, #gymfashion"
-  - username: "azamjaafri"
+    hashtags: "#selfconfidence, #motivation, #musclebuilding, #balancedlife"
+  - username: "pocketwanderings"
     fullname: >-
-      Azam Jaafri
+      Jessie M ✨ Lifestyle Blogger
+    bio: >-
+      💃🏻 Travel • Food • Style 🇬🇧 London & Kent 👩🏻‍💻 Freelance SEO Consultant 📩 enquiries@pocketwanderings.com
     location: "United Kingdom"
-    followers: 14907
-    engagement: 815
-    commentsToLikes: 0.130998
-    id: ck9wdnz94ggjv0j7893z32j4h
+    followers: 9608
+    engagement: 849
+    commentsToLikes: 0.080945
+    id: ck6uh8n837nx60j717ostx5ne
     verified: false
-    hashtags: "#personaldevelopment, #2015, #mindsetiseverything, #lifehacks"
+    hashtags: "#giveaway, #giveawaycontest, #zara, #zarawoman"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Houston In 2020
 description: >-
-  Find top health Instagram influencers in Houston in 2020. Most popular hashtags: #health #workout #houston #exercise.
+  Find top health Instagram influencers in Houston in 2020. Most popular hashtags: #houston #health #quarantine #texas.
 platform: Instagram
+hits: 116
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 116 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
-  - username: "nitajonez"
+  - username: "hangryyhippo"
     fullname: >-
-      PRETTY SAVAGE
+      M. Nguyen
+    bio: >-
+      • Houston | Everywhere • Food x Travel x Lifestyle • Collab: hangryyhippo@gmail.com
     location: "United States"
-    followers: 5303
-    engagement: 470
-    commentsToLikes: 0.119301
-    id: ck6uhbtys87m40j71jx8co1uq
+    followers: 3106
+    engagement: 1109
+    commentsToLikes: 0.178608
+    id: ck0ue2062kblo0i19m8rf9xf5
     verified: false
-    hashtags: "#lafemaleartist, #femaleartist, #maillady, #candy"
-  - username: "agentshawn"
-    fullname: >-
-      Trainer/Sports Performance
-    location: "United States"
-    followers: 17053
-    engagement: 298
-    commentsToLikes: 0.111671
-    id: ck6u42nl71c2q0j71qj8wd6mx
-    verified: false
-    hashtags: "#houstondynamo, #nutrition, #athomeworkouts, #outdoorworkout"
-  - username: "jstkara"
-    fullname: >-
-      Kara Garcia
-    location: "United States"
-    followers: 7078
-    engagement: 729
-    commentsToLikes: 0.071628
-    id: ck9wdhrhlfos80j78d9hg42cu
-    verified: false
-    hashtags: "#wheyfree, #beautiful, #findyou, #ldsliving"
-  - username: "missnicolecara"
-    fullname: >-
-      𝐍𝐢𝐜𝐨𝐥𝐞 𝐂𝐚𝐫𝐚 YOGA DANCE FITNESS
-    location: "United States"
-    followers: 2434
-    engagement: 1138
-    commentsToLikes: 0.078181
-    id: ck8t039otqonr0j78jbtqw2jj
-    verified: false
-    hashtags: "#rona, #stayhome, #classic, #perks"
+    hashtags: "#food, #foodporn, #foodilysm, #foodstagram"
   - username: "brianda.carrasco"
     fullname: >-
       Brianda Carrasco
+    bio: >-
+      Everything you ever wanted is on the other side of fear 💙 Fitness, beauty & travel
     location: "United States"
     followers: 45174
     engagement: 136
     commentsToLikes: 0.033539
     id: ck138nqqrh4o60i19rd4wiuby
     verified: false
-    hashtags: "#houseofbloggers, #tbt, #mhl, #quarantinebuddy"
-  - username: "itsdlai"
+    hashtags: "#quarantine, #functionaltraining, #indoorworkout, #f45"
+  - username: "sylvesterturner"
     fullname: >-
-      D'Lai
+      Sylvester Turner
+    bio: >-
+      Mayor of Houston. For nearly three decades, transforming the lives of people who need a voice – and making government work better for all of us.
     location: "United States"
-    followers: 221377
-    engagement: 124
-    commentsToLikes: 0.106118
-    id: ck135fkkg166h0i19v5xq2e59
-    verified: false
-    hashtags: "#fitspo, #comegetthisniggamane, #new, #author"
-  - username: "sizzletalk"
+    followers: 26106
+    engagement: 153
+    commentsToLikes: 0.044591
+    id: ckaoqll13j9m80i781gbv7rd3
+    verified: true
+    hashtags: "#houston, #hounews, #covid19, #kprc"
+  - username: "_gifted_handzvip"
     fullname: >-
-      SIZZLE TALK
+      K.J. Harris
+    bio: >-
+      Business Consultant 📈 Grambling State University Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 Htx.📍 U.S. Air Force Veteran ⬇️ Products Available ⬇️
     location: "United States"
-    followers: 18290
-    engagement: 97
-    commentsToLikes: 0.044068
-    id: ck8t13zxque3a0j78b4xc7i4n
+    followers: 19419
+    engagement: 283
+    commentsToLikes: 0.023843
+    id: ck5cl4k5ky8fv0i11hhkr69wc
     verified: false
-    hashtags: "#diddy, #publishing, #babygirl, #running"
-  - username: "alexischanelkener"
+    hashtags: "#veganfriendlyproducts, #dubaibarber, #ukbarber, #haircutsformen"
+  - username: "stacieluraann"
     fullname: >-
-      Alexis Chanel
+      S T A C I E✨
+    bio: >-
+      ✖️Nursing Student ✖️BS in Psychology ✖️Registered Behavior Technician ✖️NSCA Certified Personal Trainer
     location: "United States"
-    followers: 15687
-    engagement: 427
-    commentsToLikes: 0.056984
-    id: ck5cdl916jcxv0i11mty2gkyr
+    followers: 8322
+    engagement: 608
+    commentsToLikes: 0.056338
+    id: ck5zzx2oecki80i14353h17t2
     verified: false
-    hashtags: "#covid, #springisintheair, #workworkwork, #lovemyjob"
-  - username: "unearthedamber"
+    hashtags: "#motivation, #fitgirl, #fitlife, #highbeauty"
+  - username: "atrainlanier"
     fullname: >-
-      Amber ✨
+      ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
+    bio: >-
+      
     location: "United States"
-    followers: 25280
-    engagement: 231
-    commentsToLikes: 0.058014
-    id: ckaoxmq2kdwzk0i78y3e3804k
+    followers: 38105
+    engagement: 583
+    commentsToLikes: 0.051411
+    id: ck0tzmo84qx8s0i19agjmhhlw
     verified: false
-    hashtags: "#fitness, #naturallygg, #flattenthecurve, #teamtea"
-  - username: "ijanelleg"
+    hashtags: "#crowdsurfing, #joy, #faith, #highschool"
+  - username: "nailed_by_becky"
     fullname: >-
-      C H A N E L
+      BECKY WITH THE GOOD NAILS™️
+    bio: >-
+      📍Austin, TX 💃🏼Celebrity Nail Artist💅🏻 💓Nail Mentor 🇺🇸 💌 Not taking any new clients at the moment 📩
     location: "United States"
-    followers: 2833
-    engagement: 2013
-    commentsToLikes: 0.039866
-    id: ckaozk7etm8rr0i78gf4zqsnr
+    followers: 35471
+    engagement: 112
+    commentsToLikes: 0.040427
+    id: ck6tk5n3o41r70j71oizdxx9j
     verified: false
-    hashtags: "#vitamind, #lift, #veganprotein, #workouttoday"
+    hashtags: "#beauty, #nail, #nailgirl, #nailart"
+  - username: "houstonfoodbaby"
+    fullname: >-
+      Paige Ngo
+    bio: >-
+      Little person BIG appetite 🙌🏻😋.
+    location: "United States"
+    followers: 4774
+    engagement: 823
+    commentsToLikes: 0.254917
+    id: ck0ue204pkbkw0i19h00w6yl7
+    verified: false
+    hashtags: "#houstontxfood, #houstonfoodie, #tacos, #houstonblogger"
+  - username: "samminadine"
+    fullname: >-
+      sammi nadine
+    bio: >-
+      perfectly imperfect ✨ ▹ artist. mental health advocate. cat mom. ▹ houston, tx
+    location: "United States"
+    followers: 4903
+    engagement: 539
+    commentsToLikes: 0.037485
+    id: ck9h9yi71aguc0j78floo1j4q
+    verified: false
+    hashtags: "#houstoninfluencer, #mentalhealthtips, #discoverunder5k, #mushroomart"
+  - username: "hangryhoustonian"
+    fullname: >-
+      Danielle | Houston Foodie ✨
+    bio: >-
+      📍Houston Food + Lifestyle ⚜️Louisiana Roots | LSU🐯 📧Hangryhoustonian@gmail.com 🎙“I’m Sorry For What I Said When I Was Hangry” CBS RADIO 650 & Podcast
+    location: "United States"
+    followers: 51851
+    engagement: 344
+    commentsToLikes: 0.414700
+    id: ck0txaxzvijjr0i196ozzy6rb
+    verified: false
+    hashtags: "#seltzerszn, #ad, #21, #hardseltzer"
 ---

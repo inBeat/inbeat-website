@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Argentina In 2020
 description: >-
-  Find top illustrators Instagram influencers in Argentina in 2020. Most popular hashtags: #artvsartist2020 #witch #mermay2020 #cuarentena.
+  Find top illustrators Instagram influencers in Argentina in 2020. Most popular hashtags: #illustration #instaart #digitalart #characterdesign.
 platform: Instagram
+hits: 29
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 29 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "flordepampi"
+  - username: "taniidraw"
     fullname: >-
-      ↠ Flor de Pampi
+      Taniidraw | Illustrator
+    bio: >-
+      • Tradic / Digital ✍🏻 • Illustrator 👩🏻 • Characters desing & fanarts 💜 • Argentina 🇦🇷
     location: "Argentina"
-    followers: 19836
-    engagement: 734
-    commentsToLikes: 0.045895
-    id: ck5pwwqggozdg0i11pd4f7hau
+    followers: 58229
+    engagement: 513
+    commentsToLikes: 0.023976
+    id: ck5q97s419sir0i11s1kt8yl1
     verified: false
-    hashtags: "#illustrationhowl, #petfood, #pridemonth2019, #illustrationnow"
-  - username: "mariahesse"
-    fullname: >-
-      María Hesse
-    location: "Argentina"
-    followers: 139207
-    engagement: 416
-    commentsToLikes: 0.025156
-    id: ck0uczyw9hyfs0i19p8riy02n
-    verified: true
-    hashtags: "#cuarentest, #diainternacionaldelbeso, #diadelbeso"
+    hashtags: "#mangaartist, #artistsupport, #genshinimpact, #sketcheveryday"
   - username: "eliszill"
     fullname: >-
-      Elis Zill 🎃
+      Elisabeth Zill
+    bio: >-
+      🇦🇷Comic artist/Illustrator🎃I'm also on Twitter & Tiktok as eliszill/I🖤spooky artz,nature,coffee,halloween.Business:📩eliszill17@gmail.com/👇+Links/Shop👇
     location: "Argentina"
-    followers: 16679
-    engagement: 1614
-    commentsToLikes: 0.017311
+    followers: 26426
+    engagement: 965
+    commentsToLikes: 0.010359
     id: ck5q97pan9s4c0i119jls70in
     verified: false
-    hashtags: "#castlevania, #gwentotaldrama, #scoobydoogang, #danascully"
+    hashtags: "#timburton, #timburtonmovies, #visiblewomen, #mabsdrawlloweenclub"
+  - username: "mariahesse"
+    fullname: >-
+      María Hesse
+    bio: >-
+      🎨Freelance illustrator/ dibujante🦄 💌soymariahesse@gmail.com 🍳🚀Cocinera en tiempo libre Agent: mcarmona@literagency.com
+    location: "Argentina"
+    followers: 146497
+    engagement: 531
+    commentsToLikes: 0.013523
+    id: ck0uczyw9hyfs0i19p8riy02n
+    verified: true
+    hashtags: "#marilynmonroe, #marilyn, #marilynhesse, #normajeane"
   - username: "dyru.jk"
     fullname: >-
       Dyru | Julia Koerner
+    bio: >-
+      ✏️ Illustrator | Character Designer | Visual Development Artist ✨www.dyru.de ✉️ for freelance & commissions - mail@dyru.de
     location: "Argentina"
     followers: 4037
     engagement: 1545
     commentsToLikes: 0.043340
     id: ckap4ftqi76wf0i78i580y8qu
     verified: false
-    hashtags: "#mermaychallenge, #frog, #fireflies, #story"
-  - username: "juanperednik"
+    hashtags: "#ghost, #drawingoftheday, #illustration, #characterdesigner"
+  - username: "nicolasnmda"
     fullname: >-
-      Juan Perednik
+      Nicolas Medina
+    bio: >-
+      🔹 Multimedial Designer & Digital Illustrator 💻 🔹 Buenos Aires - Argentina 🇦🇷 ♂ 🔹 Freelance 📱 🔹 nicolasnmedina@hotmail.com 📧 🔽 Wallpapers 🔽
     location: "Argentina"
-    followers: 37433
-    engagement: 176
-    commentsToLikes: 0.031635
-    id: ck0u676nj12rk0i19pr0ithrl
+    followers: 27154
+    engagement: 1185
+    commentsToLikes: 0.004465
+    id: ckaorlk0qnrio0i78i1f2lytg
     verified: false
-    hashtags: "#sundaysketch, #artvsartist2020, #escorzo, #crosshatching"
-  - username: "benweiland"
-    fullname: >-
-      Ben Weiland
-    location: "Argentina"
-    followers: 25750
-    engagement: 324
-    commentsToLikes: 0.016505
-    id: ck5c8vdxtaabv0i11vctow2g9
-    verified: false
-    hashtags: "#theglow, #antarctica, #india, #surf"
+    hashtags: "#illustration, #90sanime, #aesthetic, #kitsunegirl"
   - username: "cari.bay"
     fullname: >-
       Caribay M. Benavides
+    bio: >-
+      Freelance Illustrator based in Buenos Aires🇦🇷 Work: caridibuja@gmail.com Clases: caridaclases@gmail.com Showroom: @clubmerienda y @morrisdelpatio
     location: "Argentina"
     followers: 45455
     engagement: 517
     commentsToLikes: 0.012603
     id: ck139pjn3mhyk0i19538b5ktd
     verified: false
-    hashtags: "#art, #comic, #respondocondibujo, #paint"
-  - username: "javirroyo"
-    fullname: >-
-      javirroyo
-    location: "Argentina"
-    followers: 142917
-    engagement: 415
-    commentsToLikes: 0.009023
-    id: ck0tv88d6aabo0i19twpgyhth
-    verified: false
-    hashtags: "#planetatierra, #leave, #turismo, #lepetitprince"
+    hashtags: "#gouache, #sketchbook, #moleskine, #illustration"
   - username: "ivanmayorquin"
     fullname: >-
       Iván Mayorquín
+    bio: >-
+      Let me draw that for you ✏️🔥 Illustrator @pictoline Comissions: 🍕👉 ivanmayorquin@gmail.com
     location: "Argentina"
     followers: 25182
     engagement: 426
     commentsToLikes: 0.015952
     id: ck55jz1afy3oa0i11sp2w3nic
     verified: false
-    hashtags: "#ilustracionmexico, #pokemonday, #tigerking, #cruzrojaresponde"
+    hashtags: "#characterdesign, #stayathome, #hihowareyouproject, #quedateencasa"
+  - username: "javirroyo"
+    fullname: >-
+      javirroyo
+    bio: >-
+      Not an artist. Not an illustrator. Not a graphic designer. En @el_pais @xelmeteoritox @upperslife @cuartopoder_es @el.estafador @chispumchispum
+    location: "Argentina"
+    followers: 194885
+    engagement: 356
+    commentsToLikes: 0.006967
+    id: ck0tv88d6aabo0i19twpgyhth
+    verified: false
+    hashtags: "#covid, #love, #javirroyo, #illustration"
   - username: "lucianovecchioart"
     fullname: >-
       Luciano Vecchio
+    bio: >-
+      Artist on Marvel Comics’ New Warriors, Ironheart and more 🔥 Queer, Argentinian, freelance comic book artist and illustrator. 🇦🇷🏳️‍🌈 📍Buenos Aires
     location: "Argentina"
     followers: 8310
     engagement: 702
     commentsToLikes: 0.019754
     id: ck135qrzf2ryr0i19r1ib22pn
     verified: false
-    hashtags: "#marvelboy, #losh, #wonderman, #jackknight"
+    hashtags: "#avengers, #xmen, #newwarriors, #legendsoftomorrow"
+  - username: "flavio.greco.paglia"
+    fullname: >-
+      Flavio Greco Paglia
+    bio: >-
+      Illustrator, Poster & Cover Artist Buenos Aires - Argentina Contact: flavio.greco.paglia@gmail.com Portfolio (updating):
+    location: "Argentina"
+    followers: 10643
+    engagement: 459
+    commentsToLikes: 0.030193
+    id: ck55oyt7d9fbp0i11f0h3qofs
+    verified: false
+    hashtags: "#shortfilm, #3dar, #rojosangre, #filmfestival"
 ---

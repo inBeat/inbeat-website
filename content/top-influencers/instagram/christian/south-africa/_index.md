@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In South Africa In 2020
 description: >-
-  Find top christian Instagram influencers in South Africa in 2020. Most popular hashtags: #corona #quarantine #fitness #christian.
+  Find top christian Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #capetown #save.
 platform: Instagram
+hits: 17
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "heartofhorton"
     fullname: >-
       Cassie Horton
+    bio: >-
+      Christian ⛪️ Wifey to @jugglinjosh 💖 South-African Living in LA 🇿🇦 All-Around Family Girl 👨‍👩‍👧‍👧 World Traveler 🌍 New YouTube video! 👇🏼
     location: "South Africa"
-    followers: 4053
-    engagement: 1287
-    commentsToLikes: 0.032108
+    followers: 4169
+    engagement: 1185
+    commentsToLikes: 0.025989
     id: ck0vvm3axpq0g0i19nx2og7sz
     verified: false
-    hashtags: "#socialdistancing, #healthyhabits, #easterbasket, #heisgettingold"
-  - username: "aaron.borrill"
+    hashtags: "#easterbunny, #namethatlyric, #travel, #heisrisen"
+  - username: "reformedbychrist"
     fullname: >-
-      Aaron Borrill
+      Marnus & Jacques Stadler
+    bio: >-
+      💪GOAL: To REFORM the world through CHRIST🔥 📖Driven by a passion for Christ👑 ❤️Spreading the Gospel to the world!✝️ 🗣Pastors: @reformedbychristchurch ⛪
     location: "South Africa"
-    followers: 20376
-    engagement: 234
-    commentsToLikes: 0.030798
-    id: ck5hryftwvp1e0i11ym85rap4
+    followers: 243287
+    engagement: 394
+    commentsToLikes: 0.022782
+    id: ck0vwotrluusl0i19kw5ccgp7
     verified: false
-    hashtags: "#sworks, #trail, #invani, #goprocycling"
-  - username: "alwynuys"
+    hashtags: ""
+  - username: "olivermatthieu"
     fullname: >-
-      Alwyn Uys
+      Oliver Matthieu
+    bio: >-
+      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
     location: "South Africa"
-    followers: 13512
-    engagement: 648
-    commentsToLikes: 0.133659
-    id: ck6ue92jdpj2m0j71uc1bfje4
+    followers: 5268
+    engagement: 1453
+    commentsToLikes: 0.096049
+    id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
-    hashtags: "#winning, #level4, #expectations, #happy"
-  - username: "leilaaigbedion"
-    fullname: >-
-      Leila Onome Aigbedion🇳🇬🇳🇱
-    location: "South Africa"
-    followers: 23154
-    engagement: 343
-    commentsToLikes: 0.071115
-    id: ck13aca8dpo460i19y5v8qx1r
-    verified: false
-    hashtags: "#truelove, #couple, #africanhair, #fitnessjourney"
+    hashtags: "#friends, #happy, #childactor, #mixedindonesian"
   - username: "marcellebosman"
     fullname: >-
       Marcelle Bosman
+    bio: >-
+      @diewildberries 🎤 @mcbhandmade 👐 Luke 8:17 ✝️ RSA🇿🇦 •••••••••••••• Sponsored by: GBS👮‍♂️ Oasis Water💧 @fabulous_10 💅 @butterflies_soneike 💇‍♀️
     location: "South Africa"
-    followers: 6629
-    engagement: 1855
-    commentsToLikes: 0.002315
+    followers: 6587
+    engagement: 1541
+    commentsToLikes: 0.002553
     id: ck6u39j6xwij20j71w1ba8dxr
     verified: false
-    hashtags: "#heatwave, #family, #godfirst, #grandfather"
-  - username: "jesseleepeterson"
+    hashtags: "#instatags, #hashtags, #capetown, #southafrica"
+  - username: "travelwithmila_"
     fullname: >-
-      Rev. Jesse Lee Peterson
+      Милица
+    bio: >-
+      𝒯𝓇𝒶𝓋𝑒𝓁. 𝐸𝓍𝓅𝓁𝑜𝓇𝑒. 𝐿𝒾𝓋𝑒. 🧿 Serbian | Croatian | South African ✈️ 59 countries 📍Dubai
     location: "South Africa"
-    followers: 36878
-    engagement: 249
-    commentsToLikes: 0.122569
-    id: ck0w414mfw9rv0i19as7suven
-    verified: true
-    hashtags: "#advice, #children, #interview, #blacktwitter"
-  - username: "rudi.ct"
-    fullname: >-
-      Rudi Nieuwenhuys - Male Model
-    location: "South Africa"
-    followers: 16858
-    engagement: 456
-    commentsToLikes: 0.051844
-    id: ck5q9xnaddiyr0i113v2a92t5
+    followers: 3705
+    engagement: 1025
+    commentsToLikes: 0.123465
+    id: ck8t3vgwg4n4q0j78wjnqep7t
     verified: false
-    hashtags: "#lifenow, #whatarewe, #divided, #stayaway"
+    hashtags: "#fashionlooks, #fashiongrammer, #stylelookbook, #personalstyleblog"
+  - username: "simonitesirch"
+    fullname: >-
+      SIMONIT&SIRCH
+    bio: >-
+      VINE MASTER PRUNERS
+    location: "South Africa"
+    followers: 7894
+    engagement: 507
+    commentsToLikes: 0.007901
+    id: ck5bw3urpky720i1170x8psir
+    verified: false
+    hashtags: "#greenseason, #traveldestination, #wines, #vinolovers"
+  - username: "armandfourie133"
+    fullname: >-
+      Armand Fourie™️
+    bio: >-
+      Jesus Christ ⚜️ Hard Enduro ⚔️ SA🇿🇦
+    location: "South Africa"
+    followers: 3412
+    engagement: 1029
+    commentsToLikes: 0.050423
+    id: ckap3j64f37tc0i78py49n68x
+    verified: false
+    hashtags: "#ktmracing, #extremeenduro, #enduro, #tough"
+  - username: "carmen.solomons"
+    fullname: >-
+      Carmen Lee Solomons
+    bio: >-
+      God 1st 💖 Photogenics LA 📍 Boss Models Cape Town Nevs London South African 🇿🇦🌟
+    location: "South Africa"
+    followers: 103309
+    engagement: 275
+    commentsToLikes: 0.014533
+    id: ck15q3osz0xzx0i192apwudiv
+    verified: true
+    hashtags: "#digitals, #bts, #humantrafficking, #nomakeup"
   - username: "melissabrownza"
     fullname: >-
       Melissa Brown
+    bio: >-
+      🍃 Luxury Travel & Adventure 📸 Filmmaker | Photographer @shotbymelissa 🌍 Founder @adventurebabyonline 🇿🇦 Cape Town 📩: hello@melissabrown.online
     location: "South Africa"
-    followers: 12851
-    engagement: 562
-    commentsToLikes: 0.053381
+    followers: 13265
+    engagement: 559
+    commentsToLikes: 0.060933
     id: ck135sn0q313k0i19s8wn0tay
     verified: false
-    hashtags: "#longboarding, #djiglobal, #lionsheadct, #mpumalanga"
-  - username: "carlholman"
+    hashtags: "#femalefilmmakers, #chasingafrica, #skatergirl, #longboard"
+  - username: "ginger_trill"
     fullname: >-
-      Carl  |  Cape Town
+      Ginger Trill
+    bio: >-
+      For Booking Inquiries - bookings@gingertrill.com
     location: "South Africa"
-    followers: 2658
-    engagement: 1306
-    commentsToLikes: 0.245244
-    id: ck0w019xkbw5g0i193ty57vrz
+    followers: 20034
+    engagement: 370
+    commentsToLikes: 0.057108
+    id: ck5c3xq4q08zm0i11lns8s1al
     verified: false
-    hashtags: ""
-  - username: "yannisdavy"
-    fullname: >-
-      Yannis Davy Guibinga
-    location: "South Africa"
-    followers: 56386
-    engagement: 165
-    commentsToLikes: 0.011746
-    id: ck602r9zziqaq0i14mc8pb5yv
-    verified: true
-    hashtags: "#nikonz50"
+    hashtags: "#chainsreup, #frompotchwithlove, #alotmusicvideo, #miniconcert"
 ---

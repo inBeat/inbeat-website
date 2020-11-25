@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rugby Players Instagram Influencers In 2020
 description: >-
-  Find top rugby players Instagram influencers in 2020. Most popular hashtags: #lockdown #createdwithadidas #covid19 #hometeam.
+  Find top rugby players Instagram influencers in 2020. Most popular hashtags: #blackouttuesday #rugby #malemodel.
 platform: Instagram
+hits: 248
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 248 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "gaki.keita"
+  - username: "huntie_1"
     fullname: >-
-      keita inagaki
-    location: "Japan"
-    followers: 305934
-    engagement: 1327
-    commentsToLikes: 0.009264
-    id: ck55q9o22ck090i11vvaazmlg
+      Natasha 'Mo' Hunt
+    bio: >-
+      Professional Rugby Player 🏉 World Champion 🥇 Olympian 🇬🇧 All enquiries - andy@tripleamedia.com
+    location: "United Kingdom"
+    followers: 8740
+    engagement: 878
+    commentsToLikes: 0.073017
+    id: ck5c4xvdn2cen0i11rhy0noh8
     verified: true
-    hashtags: "#panasonicwildknights, #ultraboost, #oneteam, #haleo"
-  - username: "damiandeallende"
+    hashtags: "#weartherose, #enough, #thecircus, #rugby"
+  - username: "michaelscanlon_"
     fullname: >-
-      Damian De Allende
-    location: "South Africa"
-    followers: 104695
-    engagement: 940
-    commentsToLikes: 0.010191
-    id: ck5capqwkdw1m0i114x60j8ha
+      Michael J Scanlon|Actor/Model
+    bio: >-
+      Intl actor/model @therockagencytalent @bmgnewyork @nxt_model Rugby player🏉🇺🇸🇦🇺 MBA📚 Realtor🏠 @michaelscanlonrealtor Autism Specialist 📧 to book 📸
+    location: "United States"
+    followers: 48098
+    engagement: 512
+    commentsToLikes: 0.037715
+    id: ck6u1ftsdlhbg0j715kqo9cv0
+    verified: false
+    hashtags: "#photographers, #lamodels, #newyorkmodel, #perthmodel"
+  - username: "jackswillis"
+    fullname: >-
+      Jack Willis
+    bio: >-
+      Wasps rugby player @greenroomsports Director at @rockcap_
+    location: "United Kingdom"
+    followers: 6579
+    engagement: 1395
+    commentsToLikes: 0.025892
+    id: ck6u0za63imh10j71lszc2bnm
     verified: true
-    hashtags: "#panaboys, #baabaas, #ballskills, #kegonfalls"
+    hashtags: "#wearewasps, #ourcommunity, #makethatcall"
+  - username: "rhysw0912"
+    fullname: >-
+      Rhys Webb
+    bio: >-
+      🙎‍♂️🙎‍♂️🙎‍♂️💍 • Professional Rugby player • Represented - @derwynj
+    location: "United Kingdom"
+    followers: 69885
+    engagement: 504
+    commentsToLikes: 0.028955
+    id: ck55knqbnzq3f0i11uunhyg67
+    verified: true
+    hashtags: "#squad, #letsgo, #fyp, #development"
   - username: "john_ryan_88"
     fullname: >-
       John Ryan
+    bio: >-
+      📍Limerick Rugby player @munsterrugby
     location: "Japan"
-    followers: 9287
-    engagement: 1557
-    commentsToLikes: 0.015541
+    followers: 9362
+    engagement: 1348
+    commentsToLikes: 0.020451
     id: ck5c9jvx0bkcs0i11ds514vyj
     verified: true
-    hashtags: "#suaf, #rwc19, #silverlining"
-  - username: "g.laidlaw"
+    hashtags: "#suaf, #rwc19, #silverlining, #blackouttuesday"
+  - username: "daltoncarverxc"
     fullname: >-
-      Greig Laidlaw
+      Dalton Carver
+    bio: >-
+      I play rugby, I dance, and I do a lot of nerd stuff. 🧪 Chemical Engineering Student 🏉 University of Alabama Rugby Player @alabamamensrugby
+    location: "United States"
+    followers: 7214
+    engagement: 2693
+    commentsToLikes: 0.021277
+    id: ckap3csx92irf0i788obn9gx3
+    verified: false
+    hashtags: ""
+  - username: "kremermarcos"
+    fullname: >-
+      Marcos Kremer
+    bio: >-
+      Pro Rugby Player🏈 @stade_francais_paris 🇫🇷 Plaza Jewell 🔴🔵 “Levántate, respirá profundo y sigue a paso firme”
     location: "France"
-    followers: 81725
-    engagement: 1097
-    commentsToLikes: 0.009897
-    id: ck5cc78s9guax0i112ruy72wg
+    followers: 80585
+    engagement: 1256
+    commentsToLikes: 0.011514
+    id: ck5pvx51ak1wv0i11sbzxq6a1
     verified: true
-    hashtags: "#asone, #chefsunite, #readyforrugby, #hospitalityforheroes"
+    hashtags: "#quento, #quentosnacks"
   - username: "santi_cordero"
     fullname: >-
       Santi Cordero
+    bio: >-
+      Professional rugby player @ubbrugby @nike athlete 📍Bordeaux , France
     location: "France"
-    followers: 92876
-    engagement: 819
-    commentsToLikes: 0.009359
+    followers: 91586
+    engagement: 889
+    commentsToLikes: 0.010948
     id: ck15qzojr5enc0i19dibyu996
     verified: true
-    hashtags: "#ecosportstorm, #ubb, #belitos, #challengecup"
-  - username: "johncooney00"
+    hashtags: "#14feb, #allezubb, #belitos, #challengecup"
+  - username: "nickabendanon"
     fullname: >-
-      John Cooney
-    location: "United Kingdom"
-    followers: 29745
-    engagement: 1132
-    commentsToLikes: 0.010321
-    id: ck5c0koe0tbq90i11r08d0a7o
+      Nick Abendanon
+    bio: >-
+      Current professional rugby player for Rugby club Vannes. @UnderArmourFR athlete. #TeamUA #IWill #Traintowin
+    location: "United States"
+    followers: 22098
+    engagement: 879
+    commentsToLikes: 0.016350
+    id: ck5zkpvx2jxt50i14owrfef2t
     verified: true
-    hashtags: "#covid19, #myliefde, #mybodyguard, #buzzing"
-  - username: "tommyhb99"
+    hashtags: "#michelinasm, #chefsunite, #chefscollective, #metoo"
+  - username: "dantai"
     fullname: >-
-      THOMAS BURMAN
+      Dan Tai
+    bio: >-
+      🇬🇧 Leeds, 24 🏉 Ex pro rugby player 🥦 GET IT DONE #gid 🥤@noccouk athlete 🏋🏾‍♂️ @w_modelmgmt
     location: "United Kingdom"
-    followers: 6332
-    engagement: 1826
-    commentsToLikes: 0.013436
-    id: ck9wp61k87yr20j785cefda4a
+    followers: 706716
+    engagement: 489
+    commentsToLikes: 0.014978
+    id: ck5bw045dkqop0i11cokagpku
     verified: false
-    hashtags: "#covid19, #nike, #facials, #lockdown"
-  - username: "thelelife_"
-    fullname: >-
-      LEVI DAVIS
-    location: "United Kingdom"
-    followers: 17789
-    engagement: 613
-    commentsToLikes: 0.032408
-    id: ck6tpf3gxji6t0j71xzoq7fcy
-    verified: true
-    hashtags: "#active, #coversunday, #drinkoxygen, #staypositive"
-  - username: "roryjhutchinson"
-    fullname: >-
-      Rory Hutchinson
-    location: "United Kingdom"
-    followers: 6290
-    engagement: 1714
-    commentsToLikes: 0.014332
-    id: ck5hdtyr3pd400i11ardm44il
-    verified: true
-    hashtags: "#1104, #ycm"
-  - username: "alexdombrandt"
-    fullname: >-
-      Alex Dombrandt
-    location: "United Kingdom"
-    followers: 8781
-    engagement: 1617
-    commentsToLikes: 0.011877
-    id: ck8sxb7y6gr9l0j78b6n31cgk
-    verified: true
-    hashtags: "#suvababy"
+    hashtags: "#gid"
 ---

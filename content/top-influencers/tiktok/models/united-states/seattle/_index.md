@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Seattle In 2020
 description: >-
-  Find top models TikTok influencers in Seattle in 2020. Most popular hashtags: #model #duet #seattle #may4th.
+  Find top models TikTok influencers in Seattle in 2020. Most popular hashtags: #fyp #washington #foryou #seattle.
 platform: TikTok
+hits: 18
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Seattle, United States for you to connect with.
 profiles:
-  - username: "kuhleeuh"
+  - username: "likes_jo"
     fullname: >-
-      Kalia 🎤❤
+      likes_jo
+    bio: >-
+      Pay my bills
     location: "United States"
-    followers: 826377
-    engagement: 2491
-    commentsToLikes: 0.045891
-    id: ck8khqqd8ny2v0j78w5tkbw1j
-    verified: true
-    hashtags: "#joeville, #musicmatters, #mirroroutsidechallenge, #momsoftiktok"
-  - username: "cece.chan"
-    fullname: >-
-      Cece Chan
-    location: "United States"
-    followers: 2106
-    engagement: 1437
-    commentsToLikes: 0.038589
-    id: ck9kbohxkm2vd0j78t4nphncn
+    followers: 116600
+    engagement: 1396
+    commentsToLikes: 0.023093
+    id: ck9e1fd8baerb0j78q7cpbipv
     verified: false
-    hashtags: "#bruh, #netflix, #oldcars, #foru"
-  - username: "mariahlkrueger"
-    fullname: >-
-      Mariah Krueger
-    location: "United States"
-    followers: 19033
-    engagement: 915
-    commentsToLikes: 0.025657
-    id: ck9vbc09ymg7v0j782qlz286b
-    verified: false
-    hashtags: "#tastesdifferent, #sweaterweather, #tacobell, #pnwonderland"
-  - username: "krystopher.eyebrow"
-    fullname: >-
-      Krystopher Ceja
-    location: "United States"
-    followers: 38295
-    engagement: 1976
-    commentsToLikes: 0.016661
-    id: ck8qj5ovwc2wf0j78ljklhin7
-    verified: false
-    hashtags: "#washingtoncheck, #oops, #takuache, #vida"
+    hashtags: "#justjo, #fyp, #duet, #model"
   - username: "w.keogh"
     fullname: >-
       Billy Keogh
+    bio: >-
+      “What’s 9+10?” my instagram is pretty boring
     location: "United States"
-    followers: 13948
-    engagement: 1173
-    commentsToLikes: 0.037014
+    followers: 148200
+    engagement: 1495
+    commentsToLikes: 0.022608
     id: ckajk15bjnvfe0i78fqjnk4wo
     verified: false
-    hashtags: "#willyscouts, #sendit, #bedhead, #werkitfromhome"
-  - username: "jackultramotiv"
+    hashtags: "#morningcheer, #duet, #mycostume, #biologicalbrothers"
+  - username: "kuhleeuh"
     fullname: >-
-      JackUltraMotive
+      Kalia 🎤❤
+    bio: >-
+      ✨Kalia| Seattle,WA| Black/Filipina| Singer| Model IG: kuhleeuh ✨
     location: "United States"
-    followers: 83625
-    engagement: 1968
-    commentsToLikes: 0.009451
-    id: ck8s9bczzx8zf0j78t2vgcl6q
-    verified: false
-    hashtags: "#slammed, #murcielago, #jackultramotive, #school"
-  - username: "thebabcockfamily"
-    fullname: >-
-      Babs
-    location: "United States"
-    followers: 38089
-    engagement: 398
-    commentsToLikes: 0.028000
-    id: ck83z9y4iz0wq0j78gqq4ykrh
-    verified: false
-    hashtags: "#roadtrip, #drivethruzoo, #chesapeakeva, #vibecheck"
-  - username: "monicaaksamit"
-    fullname: >-
-      Monica Aksamit
-    location: "United States"
-    followers: 4017
-    engagement: 2017
-    commentsToLikes: 0.203591
-    id: ck9v184ynfxrk0j78ifbsdru8
+    followers: 923400
+    engagement: 2574
+    commentsToLikes: 0.056664
+    id: ck8khqqd8ny2v0j78w5tkbw1j
     verified: true
-    hashtags: "#makija, #wanderlust, #homeproject, #postmalone"
-  - username: "minniethecorgo"
+    hashtags: "#happyhalloween, #kendrascott, #sponsored, #dutchbros"
+  - username: "emmyvanliew"
     fullname: >-
-      minniethecorgo
+      emmy
+    bio: >-
+      model for smg management 📍los angeles/seattle 👻 snapchat: emilycv2000
     location: "United States"
-    followers: 253377
-    engagement: 2418
-    commentsToLikes: 0.028909
-    id: ck8kdqnak6zl70j78zb07smjv
+    followers: 55200
+    engagement: 1632
+    commentsToLikes: 0.025005
+    id: ckacwljqdt49d0i781dt25b7k
     verified: false
-    hashtags: "#superlatives, #duet, #tiktokrestarea, #randomthings"
-  - username: "_.mildredddd._"
+    hashtags: "#razrfit, #oikosonetrip, #dracomalfoy, #dracotok"
+  - username: "cece.chan"
     fullname: >-
-      Mildred (200k!!?🖤)
+      Cece Chan
+    bio: >-
+      Seattle, Wa🗻 19🇨🇳 LOVE GOD AND ANTI-RACISM
     location: "United States"
-    followers: 192502
-    engagement: 2355
-    commentsToLikes: 0.034054
-    id: ck92v69q3p8mj0j78uc21s4gd
+    followers: 2142
+    engagement: 1366
+    commentsToLikes: 0.034665
+    id: ck9kbohxkm2vd0j78t4nphncn
     verified: false
-    hashtags: "#mycrib, #spacethings, #greenvspurple, #greenscreen"
+    hashtags: "#justice, #god, #xyzbca, #coronavirus"
+  - username: "ryanlfrench"
+    fullname: >-
+      Ryan L French
+    bio: >-
+      Full time photographer/videographer with a cute dog. More on IG! . Seattle, WA
+    location: "United States"
+    followers: 55200
+    engagement: 1700
+    commentsToLikes: 0.010771
+    id: ckc2ze2s6qcc60j23lrwqebzg
+    verified: false
+    hashtags: "#covid19, #pnw, #photographer, #bts"
+  - username: "brianbosche"
+    fullname: >-
+      Brian Bosché
+    bio: >-
+      Welcome to Creativity TikTok Mostly photo and video tips 📸 Seattle, WA
+    location: "United States"
+    followers: 317500
+    engagement: 749
+    commentsToLikes: 0.012037
+    id: ck83ywe33wcb60j785hjhh58f
+    verified: false
+    hashtags: "#videomagic, #adobe, #seattle, #creative"
+  - username: "kembelyaa"
+    fullname: >-
+      Kembely Ardon
+    bio: >-
+      19👸🏻 Salvadoreña 🇸🇻 SEATTLE 📍❤️ 25k
+    location: "United States"
+    followers: 18600
+    engagement: 717
+    commentsToLikes: 0.025657
+    id: ckbeu4yo2dcsi0j23u778sd2u
+    verified: false
+    hashtags: "#viral, #fyp, #latinas, #magazine"
+  - username: "prof_xzavier"
+    fullname: >-
+      Prof_Xzavier
+    bio: >-
+      CEO of Aesthetics Follow me on Ig Wa 19
+    location: "United States"
+    followers: 12700
+    engagement: 1182
+    commentsToLikes: 0.044861
+    id: ckbl1jeh6yfxb0j23jjd82how
+    verified: false
+    hashtags: "#washington, #oregon, #spokane, #aesthetic"
+  - username: "iam_johnnny"
+    fullname: >-
+      iam_johnnny
+    bio: >-
+      Instagram: iam_johnnny Snap: jonathan.second OAXAQUEÑO🇲🇽
+    location: "United States"
+    followers: 12500
+    engagement: 1283
+    commentsToLikes: 0.030587
+    id: ck962d2j1q4kd0j78oqf8ko76
+    verified: false
+    hashtags: "#mexico, #washigton, #seniors2020, #washington"
 ---

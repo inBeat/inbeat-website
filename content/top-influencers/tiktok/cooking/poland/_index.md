@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Poland In 2020
 description: >-
-  Find top cooking TikTok influencers in Poland in 2020. Most popular hashtags: #cooking #yummy #trend #dance.
+  Find top cooking TikTok influencers in Poland in 2020. Most popular hashtags: #cooking #dlaciebie #dc #polska.
 platform: TikTok
+hits: 27
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 27 TikTok influencers like this in Poland for you to collaborate.
 profiles:
   - username: "kvjkvmjvl"
     fullname: >-
       kajakamilajulka
+    bio: >-
+      KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
     location: "Poland"
-    followers: 7193
-    engagement: 1157
-    commentsToLikes: 0.039479
+    followers: 12900
+    engagement: 1153
+    commentsToLikes: 0.043550
     id: ckachgbn6z9b50i788vnym45b
     verified: false
-    hashtags: "#rozdanie, #yummy, #eating, #nature"
+    hashtags: "#dc, #cooking, #polska, #foryoupage"
+  - username: "freezinka"
+    fullname: >-
+      freezinka
+    bio: >-
+      Zina (Wasza Zi) Śmieszki, ciekawostki i trochę depreski Spełniam swoje marzenie
+    location: "Poland"
+    followers: 59600
+    engagement: 1121
+    commentsToLikes: 0.015303
+    id: ckb0wn236ltlo0j23ufxk0whv
+    verified: false
+    hashtags: "#przepis, #ciekawostka, #smaczne, #polska"
   - username: "lenagryszko"
     fullname: >-
       lenagryszko
+    bio: >-
+      Life is too short to eat untasty food! All recipes on my IG ❤️
     location: "Poland"
-    followers: 82993
-    engagement: 981
-    commentsToLikes: 0.013873
+    followers: 170500
+    engagement: 1349
+    commentsToLikes: 0.007441
     id: ck95vzwkn028m0j78s4pw9o56
     verified: true
-    hashtags: "#aglioolio, #welovepizza, #pizzalover, #zosta"
-  - username: "jarek_lorek"
-    fullname: >-
-      Jarek Lorek
-    location: "Poland"
-    followers: 29270
-    engagement: 462
-    commentsToLikes: 0.018151
-    id: cka0ruvqeijky0i78ebo65epa
-    verified: false
-    hashtags: "#eggs, #cookies, #magic, #jakzrobi"
+    hashtags: "#vlog, #whatieatinaday, #przepis, #perfectmeal"
   - username: "boczkowska__"
     fullname: >-
       Zosia Boczkowska
+    bio: >-
+      Zosia18 🥧🍝 ✉️ zosia.boczkowska2@gmail.com 📍Poland
     location: "Poland"
-    followers: 50460
-    engagement: 978
-    commentsToLikes: 0.005569
+    followers: 203400
+    engagement: 1482
+    commentsToLikes: 0.003245
     id: ck9n868398aut0j78qzbh85kk
     verified: false
-    hashtags: "#skateboard, #quarantine, #fail, #hair"
-  - username: "marczi_07"
+    hashtags: "#foryoupage, #dessert, #chocolate, #dc"
+  - username: "jarek_lorek"
     fullname: >-
-      marczi_07
+      Jarek Lorek
+    bio: >-
+      📷Instagram: jarek.lorek 🎥Youtube: Jarek Lorek 🍕Blog: pełniasmaku.pl
     location: "Poland"
-    followers: 4051
-    engagement: 1647
-    commentsToLikes: 0.080230
-    id: ckacn5uftmi700i78y78aq71l
+    followers: 38300
+    engagement: 557
+    commentsToLikes: 0.023280
+    id: cka0ruvqeijky0i78ebo65epa
     verified: false
-    hashtags: "#cannibal, #kwarantanna, #makija, #misio"
-  - username: "anikaolka27"
+    hashtags: "#trend, #cooking, #foryou, #duet"
+  - username: "wowmaciej"
     fullname: >-
-      Ania Rita Jakubowska
+      Maciej Łagan
+    bio: >-
+      🌚
     location: "Poland"
-    followers: 12423
-    engagement: 1087
-    commentsToLikes: 0.047767
-    id: ck9626ewepeib0j78wq6iiold
+    followers: 19800
+    engagement: 1187
+    commentsToLikes: 0.006789
+    id: ck85cry0x3fs20j787orkevbv
     verified: false
-    hashtags: "#szko, #jedzenie, #recipe, #dolls"
-  - username: "smafko"
+    hashtags: "#poland, #lato, #konie, #natura"
+  - username: "kubachuba"
     fullname: >-
-      Smav🔥
+      Kubachuba
+    bio: >-
+      Food, drink and fun 😄
     location: "Poland"
-    followers: 417853
-    engagement: 1936
-    commentsToLikes: 0.010986
-    id: ck8w51zz39cu40j78s6d4wtrv
-    verified: true
-    hashtags: "#foruyou, #pizza, #diy, #pmmini"
-  - username: "szumczi"
-    fullname: >-
-      Klaudia
-    location: "Poland"
-    followers: 8077
-    engagement: 1194
-    commentsToLikes: 0.028830
-    id: cka6i8karpqwu0i78kpwkgyc5
+    followers: 5464
+    engagement: 401
+    commentsToLikes: 0.014150
+    id: ckbl31c5g07op0j23rf0isef0
     verified: false
-    hashtags: "#canttouchthis, #chocolate, #diet, #newyear"
-  - username: "the.darkest.soul"
+    hashtags: "#dlaciebie, #foryourpage, #poland, #tiktokcreator"
+  - username: "kreujeswojezycie"
     fullname: >-
-      A.
+      kreujeswojezycie
+    bio: >-
+      🍩 27 yo 🍩 Czasem śmiesznie, czasem poważnie ✨🕯
     location: "Poland"
-    followers: 7218
-    engagement: 1085
-    commentsToLikes: 0.022213
-    id: ck9nggg5bf7ug0j783vfuxhdv
+    followers: 3177
+    engagement: 868
+    commentsToLikes: 0.060935
+    id: ckcdznuknhbbb0j23hjg3vkkr
     verified: false
-    hashtags: "#witchcraft, #liberal, #gender, #wage"
-  - username: "caandy_lady8"
+    hashtags: "#dlaciebie, #cakerecipe, #cakeoftiktok, #przepis"
+  - username: "beautifulmeh_24"
     fullname: >-
-      caandy_lady
+      💖Szmidt_Family💖
+    bio: >-
+      Settled in 🇵🇱 Spread ❤️ not hate😊 IG: pearljoyszmidt
     location: "Poland"
-    followers: 18237
-    engagement: 1025
-    commentsToLikes: 0.021609
-    id: ck9nb2mkraof80j78c89tvj20
+    followers: 83800
+    engagement: 309
+    commentsToLikes: 0.082655
+    id: ckac417yuc7s20i78g0h420sg
     verified: false
-    hashtags: "#xmasdecorations, #fuuny, #bestthings, #cute"
+    hashtags: "#poland, #szmidtfamily, #fyp, #dzia"
+  - username: "atagab"
+    fullname: >-
+      Agata Bida
+    bio: >-
+      Pls follow me on instagram 🥺 Insta: instaataga📷 Contact: agatabida1@gmail.com
+    location: "Poland"
+    followers: 102000
+    engagement: 1145
+    commentsToLikes: 0.037815
+    id: ckbwgvkc82lz50j23kng6m4le
+    verified: false
+    hashtags: "#dlaciebie, #foryou, #diy, #fyp"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Chicago In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Chicago in 2020. Most popular hashtags: #sponsored #lifestyle #style #ad.
+  Find top lifestyle Instagram influencers in Chicago in 2020. Most popular hashtags: #ad #sponsored #chicago #fashion.
 platform: Instagram
+hits: 254
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 254 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "rotaractpower"
-    fullname: >-
-      Rotaract
-    location: "United States"
-    followers: 25878
-    engagement: 282
-    commentsToLikes: 0.005905
-    id: ck0tvbk8yapkn0i19chlliicf
-    verified: false
-    hashtags: "#voluntarios, #camposnovos, #conarc, #roue"
-  - username: "therealchristophe"
-    fullname: >-
-      Christophe
-    location: "United States"
-    followers: 11668
-    engagement: 263
-    commentsToLikes: 0.054946
-    id: ck6ub9oko8az40j71oz9ih2zp
-    verified: false
-    hashtags: "#street, #chicagobulls, #dragon, #boxes"
-  - username: "marienailz"
-    fullname: >-
-      Marie Nailz
-    location: "United States"
-    followers: 65819
-    engagement: 200
-    commentsToLikes: 0.030925
-    id: ck0tzes7qq3hm0i197j67q134
-    verified: false
-    hashtags: "#momsday, #unicornnails, #hair, #beautytutorial"
-  - username: "tammelo_"
-    fullname: >-
-      Tamires Mello
-    location: "United States"
-    followers: 40785
-    engagement: 246
-    commentsToLikes: 0.065503
-    id: ck55ol00l8ka00i11kkkb2ewh
-    verified: false
-    hashtags: "#visitchicago, #fblog, #vintagestyle, #lackofcolor"
-  - username: "sascha.r.smith"
-    fullname: >-
-      Sascha Renée Smith
-    location: "United States"
-    followers: 9326
-    engagement: 1323
-    commentsToLikes: 0.081564
-    id: ck5qayvsxiz1r0i11whmpbb8s
-    verified: false
-    hashtags: "#foodandwine, #whatiwore, #christmaslove, #christmas"
   - username: "jeniraitz"
     fullname: >-
       Jeni Raitz
+    bio: >-
+      🌻 content creator | fashion • beauty • lifestyle chicago - il
     location: "United States"
-    followers: 43317
-    engagement: 215
-    commentsToLikes: 0.067003
+    followers: 51223
+    engagement: 228
+    commentsToLikes: 0.045935
     id: ck5cdiebmj83w0i11yzg8s6e3
     verified: false
-    hashtags: "#clarinsskincare, #silk, #happyeaster, #clarinsgiftedme"
+    hashtags: "#shein, #revolve, #revolveme, #sheingals"
+  - username: "victormweu"
+    fullname: >-
+      Victor Mweu ♛
+    bio: >-
+      Merrill Lynch Financial Advisor
+    location: "United States"
+    followers: 9084
+    engagement: 854
+    commentsToLikes: 0.029842
+    id: ckap1rebevsq80i785uokdyhf
+    verified: false
+    hashtags: "#motivation, #gym, #street, #lamodel"
+  - username: "thelensoftruth"
+    fullname: >-
+      The Lens of Truth
+    bio: >-
+      Benjamin Shoot everything 📸 @sonyalpha 𝐀𝐜𝐜𝐞𝐩𝐭𝐢𝐧𝐠 𝐛𝐨𝐨𝐤𝐢𝐧𝐠𝐬! 𝐃𝐌 𝐟𝐨𝐫 𝐫𝐚𝐭𝐞𝐬/𝐢𝐧𝐪𝐮𝐢𝐫𝐢𝐞𝐬! 𝐂𝐢𝐭𝐲𝐬𝐡𝐨𝐨𝐭𝐞𝐫+𝐖𝐞𝐝𝐝𝐢𝐧𝐠𝐬+𝐏𝐨𝐫𝐭𝐫𝐚𝐢𝐭𝐬 Click on the link for prints.
+    location: "United States"
+    followers: 10240
+    engagement: 861
+    commentsToLikes: 0.069211
+    id: ck5c52pm72lyr0i11qtslht4b
+    verified: false
+    hashtags: "#chicagolife, #urbanmatterchicago, #timeoutchicago, #portraitsquad"
+  - username: "likechicago"
+    fullname: >-
+      Like Chicago
+    bio: >-
+      ⚡️Founder/Owner: @javierbgd 📸Tag #likechicago 💥My other galleries: @likenewyorkcity @likebuenosaires @likezonanorte @likeinternational
+    location: "United States"
+    followers: 53851
+    engagement: 205
+    commentsToLikes: 0.011472
+    id: ck5znec1noasn0i146zbqa6tf
+    verified: false
+    hashtags: ""
+  - username: "halesyeahchi"
+    fullname: >-
+      Haley Kathryn ✨
+    bio: >-
+      Hi hi! 🙋🏻‍♀️ Sharing my style + life + food 🥳 ✨outfit ideas • editing tutorials • real life✨ ⇾ Chicago ✉︎ halesyeahchi@gmail.com ☟Shop my outfits☟
+    location: "United States"
+    followers: 10135
+    engagement: 546
+    commentsToLikes: 0.318847
+    id: ck8tdramq4ho60j78a7ipxz59
+    verified: false
+    hashtags: "#spookyseason, #trendingnow, #fashionblogger, #autumnoutfits"
+  - username: "zamoraeunice"
+    fullname: >-
+      Eunice🇲🇽 |Chicago Blogger
+    bio: >-
+      Makeup| Fashion | Lifestyle 🤱🏻PROUD MOM OF #3👶🏻 📲Content Creator 💻 Co-Founder @soylatinaoficial 📍Chicago Business Inquiries 📧zamoraeunice@yahoo.com
+    location: "United States"
+    followers: 12578
+    engagement: 764
+    commentsToLikes: 0.051811
+    id: ck0w3hepztf830i19qam0tmom
+    verified: false
+    hashtags: "#thingstodoinchicago, #pregnancy, #chicagomom, #fashionaddict"
+  - username: "nikarichii"
+    fullname: >-
+      VERONIKA | Chicago Creator 💙
+    bio: >-
+      < beauty & petite fashion (5’3’’) > 📍Chicago,IL < storyteller✍🏼 > 📧 veronika.bandurka@gmail.com
+    location: "United States"
+    followers: 69983
+    engagement: 272
+    commentsToLikes: 0.023301
+    id: ckaoxb9upcl8d0i78zrw3bpqo
+    verified: false
+    hashtags: "#ootd, #netflix, #x3, #edifier"
+  - username: "thelivstyle"
+    fullname: >-
+      Olivia Chan
+    bio: >-
+      👩🏻‍💻 Blogger of all things 👇🏼 ✨ Fashion • Beauty • Lifestyle 🏠 Chicago based ⇄ NYC 👰🏻 Bride-to-be ♥💍 #engaged 💌 thelivstyle@gmail.com
+    location: "United States"
+    followers: 27604
+    engagement: 345
+    commentsToLikes: 0.148323
+    id: ck5cdur4mjt9y0i11h8xlxm4c
+    verified: false
+    hashtags: "#abercrombiepartner, #liketkit, #ad, #abercrombiestyle"
   - username: "asailorswifeblog"
     fullname: >-
       Kristal Leon| A Sailors Wife
+    bio: >-
+      + Military wife and Mom + Mom Blogger 📍Chicago + Lifestyle + Travel blogger + Children's book Reviewer
     location: "United States"
-    followers: 27197
-    engagement: 434
-    commentsToLikes: 0.081249
+    followers: 28853
+    engagement: 847
+    commentsToLikes: 0.095411
     id: ck6tut8smia230j71n2o5heos
     verified: false
-    hashtags: "#here4u, #bsfstarbucks, #abcmousepartner, #abcmousefromhome"
-  - username: "paulinanako"
+    hashtags: "#notsorry, #lagunamoonbeauty, #wooshbeauty, #wbpartner"
+  - username: "iamdoctor_x"
     fullname: >-
-      P A U L I N A
+      🅐🅡🅗🅐🅜 🅧🅐🅥🅔🅡🅨, 🅜.🅓.
+    bio: >-
+      🥼 Nocturnist-Hospitalist 🌎 Traveler 👔 Fashion/Lifestyle 🇵🇰/🇺🇸 📍Chicago
     location: "United States"
-    followers: 6528
-    engagement: 1429
-    commentsToLikes: 0.458763
-    id: ck8tdeglf319y0j78wgwiyxls
+    followers: 5577
+    engagement: 905
+    commentsToLikes: 0.057162
+    id: ckapah149w2f90i78l5x73zd1
     verified: false
-    hashtags: "#liketkit, #lulus, #lulusambassador, #ltkit"
-  - username: "beccabogle"
-    fullname: >-
-      Becca Bogle
-    location: "United States"
-    followers: 21547
-    engagement: 354
-    commentsToLikes: 0.033355
-    id: ck5hhb9f47ce50i11m6il2o0y
-    verified: false
-    hashtags: "#margaritas, #nordstrom, #shein, #sunnies"
-  - username: "zibalennox"
-    fullname: >-
-      Ziba Lennox
-    location: "United States"
-    followers: 97106
-    engagement: 169
-    commentsToLikes: 0.078591
-    id: ck14j7xdaizy20i19nbvsa1x0
-    verified: false
-    hashtags: "#sponsored, #loungeinspo, #fashionweeknyc, #bucktown"
+    hashtags: "#sponsored, #amglife"
 ---

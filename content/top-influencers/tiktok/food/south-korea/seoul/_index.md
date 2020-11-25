@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Seoul In 2020
 description: >-
-  Find top food TikTok influencers in Seoul in 2020. Most popular hashtags: #seoul #latte #duet #dance.
+  Find top food TikTok influencers in Seoul in 2020. Most popular hashtags: #fyp #koreanfood #korea #chicken.
 platform: TikTok
+hits: 5
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 5 TikTok influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
   - username: "sophiekim.korea"
     fullname: >-
       Sophie Kim 하은
+    bio: >-
+      ☽ Instagram: @sophie.h.k
     location: "South Korea"
-    followers: 26486
-    engagement: 1110
-    commentsToLikes: 0.019832
+    followers: 54700
+    engagement: 1040
+    commentsToLikes: 0.018243
     id: cka0jb53bh9kr0i785uskfv2n
     verified: false
-    hashtags: "#cave, #singing, #sunset, #lonelychair"
-  - username: "drharang"
+    hashtags: "#fyp, #desert, #featureme, #northafrica"
+  - username: "buymeal"
     fullname: >-
-      강남허준 박용환
+      바이밀(buymeal)
+    bio: >-
+      바이밀 Food trip Buymeal Tiktokfood
     location: "South Korea"
-    followers: 501779
-    engagement: 593
-    commentsToLikes: 0.023288
-    id: ck9eiy7h1zukc0j78ker5u11i
+    followers: 89500
+    engagement: 291
+    commentsToLikes: 0.024441
+    id: ckbl39r2j0ntl0j23f1b61f58
     verified: true
-    hashtags: "#0415, #sore, #travel, #snack"
-  - username: "kim_juhyeok"
+    hashtags: "#kpop, #kdrama, #noodles, #kfood"
+  - username: "marinandsss"
     fullname: >-
-      김주혁_김군
+      Marinanda
+    bio: >-
+      Tryin to be happy and funny! The original🤙🏻✨
     location: "South Korea"
-    followers: 5055
-    engagement: 333
-    commentsToLikes: 0.219235
-    id: ckal76ujve0s40i78owljtl4a
+    followers: 337200
+    engagement: 1380
+    commentsToLikes: 0.005214
+    id: ckbqlvjlq6x6r0j23npsz20gd
     verified: false
-    hashtags: "#taiwanfruit, #jmt, #taiwancat, #blrd"
-  - username: "raisingheart"
+    hashtags: "#studentexchange, #axisyindonesia, #lol, #asmr"
+  - username: "harpersbuzzar"
     fullname: >-
-      Autumn ♡
+      Harpers Buzzar 🐝
+    bio: >-
+      
     location: "South Korea"
-    followers: 6606
-    engagement: 1143
-    commentsToLikes: 0.015389
-    id: ck9nhfga4g0v50j78knf79x3i
+    followers: 18000
+    engagement: 1322
+    commentsToLikes: 0.006837
+    id: ckdhvoy2p3ur90j23ymypur3p
     verified: false
-    hashtags: "#yummy, #peppa, #china, #adventure"
+    hashtags: "#acupgrade, #quarantine, #pandemic, #randomthings"
   - username: "_da.rae_"
     fullname: >-
       다래카페🏡
+    bio: >-
+      🎈𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 : _𝗱𝗮.𝗿𝗮𝗲_ 👉🏻 인스타그램도 놀러오세용 follow me Instagram 💗
     location: "South Korea"
-    followers: 2261
-    engagement: 1042
-    commentsToLikes: 0.050459
+    followers: 2438
+    engagement: 885
+    commentsToLikes: 0.037933
     id: ck9v6cvnz1rev0j78f2hccbms
     verified: false
-    hashtags: "#toast, #tart, #coffeetime, #kiwi"
-  - username: "_da.rae_"
+    hashtags: "#homecafe, #homebaking, #coffee, #dango"
+  - username: "crazypooh93"
     fullname: >-
-      다래카페🏡
+      미친곰돌이
+    bio: >-
+      인스타:imjaneyya Tlog ✈️ FOOD🍭 틱톡 챌린지 마스터였다😎퇴사
     location: "South Korea"
-    followers: 2261
-    engagement: 1042
-    commentsToLikes: 0.050459
-    id: ck9v6cvnz1rev0j78f2hccbms
+    followers: 34500
+    engagement: 486
+    commentsToLikes: 0.031017
+    id: ckbl39o6u0ndm0j23yv2qmsdc
     verified: false
-    hashtags: "#toast, #tart, #coffeetime, #kiwi"
+    hashtags: "#cakes, #sweets, #tlog, #jmtt"
+  - username: "buymeal"
+    fullname: >-
+      바이밀(buymeal)
+    bio: >-
+      바이밀 Food trip Buymeal Tiktokfood
+    location: "South Korea"
+    followers: 89500
+    engagement: 291
+    commentsToLikes: 0.024441
+    id: ckbl39r2j0ntl0j23f1b61f58
+    verified: true
+    hashtags: "#kpop, #kdrama, #noodles, #kfood"
+  - username: "zzincongasmr"
+    fullname: >-
+      Zzincong ASMR 찐콩
+    bio: >-
+      🍓FOOD ASMR🍓 🔻Full video🔻 YOUTUBE▶️http://www.youtube.com/c/ZzincongASMR
+    location: "South Korea"
+    followers: 255500
+    engagement: 376
+    commentsToLikes: 0.009598
+    id: ckba7b2vh0d1k0j23b7yb4rvu
+    verified: false
+    hashtags: "#notalkingasmr, #tanghulu, #asmr, #foodasmr"
+  - username: "mukkebi_tiktok"
+    fullname: >-
+      Mukkebi 먹깨비
+    bio: >-
+      The street food lover 🟡Youtube▶️Mukkebi 먹깨비 🟡Instagram▶️mukkebi_insta
+    location: "South Korea"
+    followers: 102700
+    engagement: 422
+    commentsToLikes: 0.006730
+    id: ckb9uqgoatp9j0j23zzw71j9g
+    verified: false
+    hashtags: "#streetfood, #kfood, #koreanfood, #icecream"
   - username: "13doctorwhoo"
     fullname: >-
       🎗닥터후(Doctor who)
+    bio: >-
+      부경대(일어일문어문학)전공 (카카오 오픈채팅 :13닥터후) 팬애칭:환자후 부계정 :13exercise(운동후) MCN(소속사) : Witu(윗유
     location: "South Korea"
-    followers: 960975
-    engagement: 866
-    commentsToLikes: 0.037299
+    followers: 3200000
+    engagement: 995
+    commentsToLikes: 0.047090
     id: ckae0x0rylyzx0i78addv3gky
     verified: true
-    hashtags: "#game, #dance, #corona, #duet"
-  - username: "nohkyuo"
-    fullname: >-
-      내 이름은 노규오 🇰🇷
-    location: "South Korea"
-    followers: 169292
-    engagement: 681
-    commentsToLikes: 0.042271
-    id: ck9fme839t2d10j78t8fcitrp
-    verified: false
-    hashtags: "#bikinigirl, #asmr, #goodmorning, #dance"
-  - username: "a.bite"
-    fullname: >-
-      먹스나
-    location: "South Korea"
-    followers: 3071939
-    engagement: 731
-    commentsToLikes: 0.014305
-    id: ck9nai1sea8on0j78bj643e3r
-    verified: true
-    hashtags: "#black, #macaron, #smilewithtiktok, #2million"
-  - username: "kim_juhyeok"
-    fullname: >-
-      김주혁_김군
-    location: "South Korea"
-    followers: 5055
-    engagement: 333
-    commentsToLikes: 0.219235
-    id: ckal76ujve0s40i78owljtl4a
-    verified: false
-    hashtags: "#taiwanfruit, #jmt, #taiwancat, #blrd"
+    hashtags: "#meme, #fyp, #asmr, #foodasmr"
 ---

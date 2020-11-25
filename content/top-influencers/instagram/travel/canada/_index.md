@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Canada In 2020
 description: >-
-  Find top travel Instagram influencers in Canada in 2020. Most popular hashtags: #ootd #quebec #bethelight #explorecanada.
+  Find top travel Instagram influencers in Canada in 2020. Most popular hashtags: #coupletravel #travelgirlsgo #loveandwildhearts.
 platform: Instagram
+hits: 1603
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 1603 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "theadventurousgal"
+  - username: "madetwotravel"
     fullname: >-
-      Stephanie Parish
+      Marie & Gal | Love | Adventure
+    bio: >-
+      ✨Working towards our dreams 📍Currently in Toronto 🌙 Photography @mariannephotography.ca FREE EBOOK - Travel Blog - Digital Nomad ↓
     location: "Canada"
-    followers: 7325
-    engagement: 1830
-    commentsToLikes: 0.173343
-    id: ckaot2aqmu22q0i78a0m9qk4t
+    followers: 53452
+    engagement: 5080
+    commentsToLikes: 0.091865
+    id: ck0u9yekvavxj0i19cvaqy8ow
     verified: false
-    hashtags: "#visitbali, #travelflorida, #getoutsidemore, #domestictravel"
-  - username: "rejeannemartin"
+    hashtags: "#canadatravel, #torontophotographer, #explorequebec, #torontolife"
+  - username: "joeliegamatero"
     fullname: >-
-      r e j
+      Joelie Jane
+    bio: >-
+      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
     location: "Canada"
-    followers: 7516
-    engagement: 1559
-    commentsToLikes: 1.792211
-    id: ckaoubbr1zmbc0i78ep046353
+    followers: 7176
+    engagement: 2333
+    commentsToLikes: 0.272646
+    id: ckf5s50lfeqxv0j23s9pw9dxh
     verified: false
-    hashtags: "#bancroft, #mothersday, #ontariobusiness, #momsofig"
-  - username: "deannawoo"
+    hashtags: "#mykindofsilk, #mykaseme"
+  - username: "melissalandry04"
     fullname: >-
-      Deanna Woo: Vancouver Foodie
+      Mélissa Landry
+    bio: >-
+      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
     location: "Canada"
-    followers: 19969
-    engagement: 830
-    commentsToLikes: 0.575651
-    id: ck0vv5ehynmlc0i19v5dv41dt
+    followers: 5416
+    engagement: 1823
+    commentsToLikes: 0.151679
+    id: ck8talf48s8yo0j78f1l6fjr9
     verified: false
-    hashtags: "#kyotoeats, #friesforgood, #japan, #supportlocalbusinesses"
-  - username: "alicedlee"
-    fullname: >-
-      𝓐𝓵𝓲𝓬𝓮
-    location: "Canada"
-    followers: 35171
-    engagement: 757
-    commentsToLikes: 0.102569
-    id: ck1364tzc4r480i19wyysbfic
-    verified: false
-    hashtags: "#monamourflowers, #fashionnovaambassador, #liketkit, #ootd"
-  - username: "journeyofralu"
-    fullname: >-
-      🌹 RALU OPREAN | Travel 🌹
-    location: "Canada"
-    followers: 2439
-    engagement: 2168
-    commentsToLikes: 0.309274
-    id: ckaos4th2q38u0i784deqer96
-    verified: false
-    hashtags: "#toronto, #abmtravelbug, #damestravel, #hamilton"
-  - username: "hey.pj"
-    fullname: >-
-      Michelle Pija ✈ Travel
-    location: "Canada"
-    followers: 5397
-    engagement: 1273
-    commentsToLikes: 0.139684
-    id: ckapb61q1ypal0i78bwdol5lh
-    verified: false
-    hashtags: "#greatcoronaescape"
-  - username: "thelosttwo"
-    fullname: >-
-      CLAUDIA & KAAN
-    location: "Canada"
-    followers: 115272
-    engagement: 454
-    commentsToLikes: 0.055806
-    id: ck0tt21xk0thk0i197hqwq18b
-    verified: false
-    hashtags: "#womensday, #explorebali, #colonial, #naturetherapy"
+    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
   - username: "normelnomads"
     fullname: >-
       Norm&Mel | Travel Couple
+    bio: >-
+      ❥ #travelcouple hopping around the world ↬ Based in Montreal, Canada 🇨🇦 ☾ Positivity | Gratefulness | Happiness
     location: "Canada"
-    followers: 3733
-    engagement: 2055
-    commentsToLikes: 0.143632
+    followers: 3377
+    engagement: 2367
+    commentsToLikes: 0.141469
     id: ckaozrx8zn4xx0i780nawyun9
     verified: false
-    hashtags: "#hikingadventure, #discovercanada, #coupletravels, #travelust"
-  - username: "stephaniebureau"
+    hashtags: "#starttheadventure, #travelworld, #muchlove, #coupletravel"
+  - username: "theadventurousgal"
     fullname: >-
-      STÉPHANIE
+      Stephanie Parish
+    bio: >-
+      ✈️ Travel Enthusiast 🌎 Next Stop: Exploring Florida ☀️ ✨ Disney Adventures 📸 Central Florida Photographer @sparishphotography
     location: "Canada"
-    followers: 28845
-    engagement: 564
-    commentsToLikes: 0.167833
-    id: ck14iqlm2gqjb0i19mfr4kely
+    followers: 7701
+    engagement: 1366
+    commentsToLikes: 0.118144
+    id: ckaot2aqmu22q0i78a0m9qk4t
     verified: false
-    hashtags: "#coffeetime, #spaday, #villa, #expediaapp"
-  - username: "shalini_matt"
+    hashtags: "#floridashistoriccoast, #exploreflorida, #floridagirl, #localadventures"
+  - username: "sashannr"
     fullname: >-
-      Shaluuu🌹
+      S A S H A ⋆ 🌿 ✈️ Travel
+    bio: >-
+      Holistic obsessed Torontonian 🇨🇦 with a penchant for travelling. 🌍Globetrotting since 2012 Travel ∣ Wellness ∣ Activism ↓ BOOK WITH US ↓
     location: "Canada"
-    followers: 2746
-    engagement: 2812
-    commentsToLikes: 0.087200
-    id: ck6uernicsp5o0j71ntftvyov
+    followers: 7113
+    engagement: 1253
+    commentsToLikes: 0.349170
+    id: ckap3ha6z2zxu0i78bws33m0g
     verified: false
-    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
+    hashtags: "#alllivesmatter, #kidding, #imsooldlol, #amplifymelanatedvoices"
+  - username: "papersuitcasephoto"
+    fullname: >-
+      Paper Suitcase Photography
+    bio: >-
+      Danielle Berkel Love Lover // LGBTQ+ friendly Based in Ontario // Happy to travel Email for Inquiries - BOOKING INTO DECEMBER
+    location: "Canada"
+    followers: 10416
+    engagement: 1136
+    commentsToLikes: 0.174271
+    id: ck5zzgvknbps90i14siorzjlb
+    verified: false
+    hashtags: ""
+  - username: "michelle.vachon"
+    fullname: >-
+      Michelle Vachon
+    bio: >-
+      No direct message⛔️Married❤️ Family❤️Travel✈️🌎 "Travel is the only thing you buy that makes you richer"💕
+    location: "Canada"
+    followers: 17804
+    engagement: 862
+    commentsToLikes: 0.464108
+    id: ckap6d41sfe1v0i782gfxds9a
+    verified: false
+    hashtags: ""
+  - username: "kierrairvine"
+    fullname: >-
+      Kierra Irvine
+    bio: >-
+      Paramedic's Wife | Mom [Heart][Trach]+[22q]Awareness 596 nights in 🏩 Traveled to the USA for 5th+6th 🖤 surgery navigating a terminal prognosis
+    location: "Canada"
+    followers: 34958
+    engagement: 1431
+    commentsToLikes: 0.049192
+    id: ck9hcib52lj8z0j78uvz20ey2
+    verified: false
+    hashtags: "#childloss, #mrthomasglenn, #evannasspecialheart, #mamagrief"
+  - username: "where.is.naomi"
+    fullname: >-
+      Naomi Montgomery
+    bio: >-
+      Snaps of my Loves & Life✨ Floral Designer + Fashion + Interior Design + Lover of Travel. Figuring out my next steps as I go along🌸
+    location: "Canada"
+    followers: 6366
+    engagement: 1034
+    commentsToLikes: 0.231905
+    id: ck8t29jggyne00j781fsun3hq
+    verified: false
+    hashtags: ""
 ---

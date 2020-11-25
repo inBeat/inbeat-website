@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Berlin In 2020
 description: >-
-  Find top yoga Instagram influencers in Berlin in 2020. Most popular hashtags: #yogaberlin #yoga #stayhome #love.
+  Find top yoga Instagram influencers in Berlin in 2020. Most popular hashtags: #yoga #yogaberlin #yogainspiration #berlin.
 platform: Instagram
+hits: 109
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 109 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "marcgraphy"
+  - username: "kasiaaa_ko"
     fullname: >-
-      Marc Gröfke
+      EverythingHappensForAReason💫
+    bio: >-
+      🏡🇵🇱 📍Berlin ❤Yoga teacher🧘🏼‍♀ ❤Mama ❤Crossfit  ❤OEB🐶 ❤Cooking  ❤️ 10% of @yogajunkies code kasia10 🎊🎊 ❤10% of @aloyoga First Order 🎊🎉
     location: "Germany"
-    followers: 7280
-    engagement: 1022
-    commentsToLikes: 0.014882
-    id: ck14hckza9n5c0i19tstkat9u
+    followers: 6348
+    engagement: 692
+    commentsToLikes: 0.071045
+    id: ck5hqp4lith5j0i11dez78zhd
     verified: false
-    hashtags: "#wantsummer, #urlaub, #tempel, #frieden"
-  - username: "markfernyhough"
+    hashtags: "#yogapicture, #aloyoga, #handstand, #fammely"
+  - username: "caro__corazon"
     fullname: >-
-      ARTIST BERLIN/LONDON
+      FEEL FREE YOGA
+    bio: >-
+      ☾ Hippie at heart ☽ Vinyasa & Yin Yoga Teacher I Berlin ☼ Founder of FEEL FREE YOGA △ Retreats & Yoga Events Ξ DIY project: Tiny house
     location: "Germany"
-    followers: 16843
-    engagement: 239
-    commentsToLikes: 0.098730
-    id: ck0w2wdwfqhty0i19bzqrwci7
+    followers: 4175
+    engagement: 691
+    commentsToLikes: 0.072958
+    id: ck8t7xvt4icue0j78mhz1ju36
     verified: false
-    hashtags: "#londonartist, #brexitsong, #bowie, #goth"
-  - username: "plantastybites"
-    fullname: >-
-      Jacky ✨
-    location: "Germany"
-    followers: 21583
-    engagement: 303
-    commentsToLikes: 0.135627
-    id: ck14i1h79d7070i19zqnfp7tl
-    verified: false
-    hashtags: "#berlinyogaconference2020, #igyoga, #yogagermany, #yogadeutschland"
-  - username: "sanae.decker"
-    fullname: >-
-      Yoga - Mindful Moves
-    location: "Germany"
-    followers: 7811
-    engagement: 937
-    commentsToLikes: 0.050098
-    id: ck8swofawepvm0j78mdg3uwat
-    verified: false
-    hashtags: "#planken, #yogalover, #tuwasduliebst, #veganeern"
-  - username: "sahra_ko"
-    fullname: >-
-      S A H R A - A N N A
-    location: "Germany"
-    followers: 10479
-    engagement: 750
-    commentsToLikes: 0.084696
-    id: ck8szysoyq8oh0j78gv9w7z5y
-    verified: false
-    hashtags: "#anahata, #yoga, #heartopener, #clifton"
+    hashtags: "#diyhome, #yogaretreats, #mindfulness, #igyogafriends"
   - username: "scorpionmind"
     fullname: >-
       Tanja I Food & Lifestyle
+    bio: >-
+      ❊ Vegan in Berlin ◎ Photographer ◉ Pole/Silks ◎ Acrobat @scorpionshape ◉ @vegandogkiwi ☞ Newest YT video
     location: "Germany"
     followers: 39849
     engagement: 247
     commentsToLikes: 0.032096
     id: ck0ttg5yu2kmi0i19houjjcc4
     verified: false
-    hashtags: "#foodlover, #travelgram, #damnthatsdelish, #pursuepretty"
-  - username: "jasminetartine"
+    hashtags: "#splits, #handstand, #porridge, #eatplantsnotfriends"
+  - username: "charmed_by_yoga"
     fullname: >-
-      Jasmine
+      BINA - Yoga Coach Köln
+    bio: >-
+      *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles
     location: "Germany"
-    followers: 72962
-    engagement: 85
-    commentsToLikes: 0.031517
-    id: ck0vyp5y353xa0i1922t2kkfc
+    followers: 14986
+    engagement: 690
+    commentsToLikes: 0.302061
+    id: ck6tu7hb9eqvv0j710okd7z1x
     verified: false
-    hashtags: "#milkyway, #stayhome, #staystrong, #urdhvamukhasvanasana"
-  - username: "caro__corazon"
+    hashtags: "#aloholdeachother, #yoga, #heartsalove, #softness"
+  - username: "fvckluckygohappy"
     fullname: >-
-      FEEL FREE YOGA
+      Fuck Lucky Go Happy
+    bio: >-
+      Yoga • Spirit • Astro • Food • Reise • Style • Tarot 🧘‍♀️ 🙏🏼 🌒 🍲 🏝 💅🏼 💫 ✖️ Founded by @rebeccarandak ✖️ Podcast @heiligerbimbampodcast Mehr👇
     location: "Germany"
-    followers: 4030
-    engagement: 1022
-    commentsToLikes: 0.060510
-    id: ck8t7xvt4icue0j78mhz1ju36
+    followers: 23015
+    engagement: 116
+    commentsToLikes: 0.018966
+    id: ck6tyn2bd4phs0j71muts47cn
     verified: false
-    hashtags: "#yogatime, #morningdance, #ecstaticdance, #yogaforall"
-  - username: "yolcsita_eats"
+    hashtags: "#horoskop, #greenhome, #greenyourlife, #spirit"
+  - username: "rebeccanmyr"
     fullname: >-
-      Yoli | Vegan | FoodPhotography
+      ↠ ☼  Rebecca Nmyr 🇳🇬
+    bio: >-
+      Model • Activist 🌱• Yogi 🇩🇪 @izaio.modelmanagement 🇬🇧Milk 🇿🇦Topco 🇦🇹Stellamodels 🤸🏾‍♀️Ambassador @vitaminwelldeutschland
     location: "Germany"
-    followers: 34201
-    engagement: 276
-    commentsToLikes: 0.160501
-    id: ck0vwpj40uy880i196z1j0qw8
+    followers: 13536
+    engagement: 444
+    commentsToLikes: 0.031434
+    id: ck5hjhx4ngnu20i11z53dfgqx
     verified: false
-    hashtags: "#crueltyfreefood, #osterkranz, #bralette, #hummus"
-  - username: "sup_tour_berlin"
+    hashtags: "#crueltyfreefood, #berlingirl, #modelsofcolor, #yogagirl"
+  - username: "annasworldofwonder"
     fullname: >-
-      SUP Tour Berlin
+      Anna
+    bio: >-
+      Let the dogs bark, the lion is still king 🦁. Yoga. Basic Fashion. Motivation. Healthy Lifestyle. Sustainable. & good stuff. Soon: RYT 200 🧘🏼
     location: "Germany"
-    followers: 9561
-    engagement: 697
-    commentsToLikes: 0.043893
-    id: ckap2f8zaykst0i78k9pocrj5
+    followers: 6371
+    engagement: 440
+    commentsToLikes: 0.045137
+    id: ck5zz2ubaaz6s0i142a9mxu9w
     verified: false
-    hashtags: "#blogger, #happythursday, #cleansup, #supinfografic"
+    hashtags: "#posterbild, #berlinsummermoment, #neukeolln, #sommer2020"
+  - username: "palinski"
+    fullname: >-
+      Palina Rojinski
+    bio: >-
+      „Sing On! Germany“ @netflixde 🍾„PODKINSKI“ @spotifyde Neue Folge mit @nicosantosofficial 🎤„Nightlife“ der Film auf iTunes/AmazonPrime etc. 📍IMPRESSUM🧿
+    location: "Germany"
+    followers: 1937455
+    engagement: 244
+    commentsToLikes: 0.011682
+    id: ck0tylhsfn56w0i199wojjgja
+    verified: true
+    hashtags: "#growstrong, #teampantene, #podkinski, #anzeige"
+  - username: "thiabrownsugar"
+    fullname: >-
+      Thia Brownsugar
+    bio: >-
+      🍀Green blogger- Berlin thiabrownsugar.fr/rhumettalonaiguilles.com Podcast @mapausecafeavecthia Business Email: thia@thiabrownsugar.fr Mes réseaux👇🏽
+    location: "Germany"
+    followers: 20068
+    engagement: 514
+    commentsToLikes: 0.060206
+    id: ck5zq8051u42c0i1470tdxxhv
+    verified: false
+    hashtags: "#thiabrownsugar, #mieuxconsommer, #shooting, #travelblogger"
+  - username: "ginii__binii"
+    fullname: >-
+      Gina Heinrich
+    bio: >-
+      FITNESS | ACHTSAMKEIT | LEBEN 👩🏻‍💻🌏 love what you do & make a difference ✨positive vibes 📍Stuttgart
+    location: "Germany"
+    followers: 2971
+    engagement: 2097
+    commentsToLikes: 0.061717
+    id: ck8tdpau849eo0j78sztwjnxh
+    verified: false
+    hashtags: "#wochenende, #potd, #nebenjob, #abnehmen"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Ukraine In 2020
 description: >-
-  Find top food TikTok influencers in Ukraine in 2020. Most popular hashtags: #food #pancakes #funny #tiramisu.
+  Find top food TikTok influencers in Ukraine in 2020. Most popular hashtags: #food #funny #ideas #howto.
 platform: TikTok
+hits: 21
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 21 TikTok influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "troom_crafts"
+    fullname: >-
+      Troom_Crafts
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 319100
+    engagement: 1855
+    commentsToLikes: 0.006257
+    id: cka6b5jt6yy5x0i78z7d5xzz2
+    verified: true
+    hashtags: "#howto, #food, #btoke, #pets"
+  - username: "cooktastic"
+    fullname: >-
+      Cooktastic
+    bio: >-
+      We’re a super tasty channel, check out! It’s gonna be a lot of fun, we promise!
+    location: "Ukraine"
+    followers: 76300
+    engagement: 1109
+    commentsToLikes: 0.009007
+    id: ckbqth9ise6iv0j23fdvlx333
+    verified: false
+    hashtags: "#funny, #food, #cooktastic, #sneak"
   - username: "kukhtin.pro"
     fullname: >-
       Сергей Кухтин
+    bio: >-
+      SMM, WEB, DESIGN 🎯 www.kukhtin.pro
     location: "Ukraine"
-    followers: 47435
-    engagement: 321
-    commentsToLikes: 0.012723
+    followers: 51100
+    engagement: 331
+    commentsToLikes: 0.014208
     id: ck9gntouey4e40j785fe5r0y5
     verified: false
-    hashtags: "#smmvideo, #life, #driving, #thepig"
-  - username: "bloggersawards"
-    fullname: >-
-      Bloggers Awards
-    location: "Ukraine"
-    followers: 20787
-    engagement: 118
-    commentsToLikes: 0.008387
-    id: cka0jynggk5qu0i78ecov54r2
-    verified: false
-    hashtags: "#show, #photo, #beautiful, #doit"
+    hashtags: "#digital, #ukraine, #foodvideo, #tiktok"
   - username: "homecookingtop"
     fullname: >-
       Home cooking
+    bio: >-
+      
     location: "Ukraine"
-    followers: 54572
-    engagement: 1028
-    commentsToLikes: 0.004674
+    followers: 60600
+    engagement: 1059
+    commentsToLikes: 0.008534
     id: ck9ngu28mfhc60j78qjx7n0cu
     verified: false
-    hashtags: "#onionrings, #blueberry, #cookies, #pancakes"
-  - username: "narnian_penguin"
+    hashtags: "#cake, #cookingathome, #cooking, #idea"
+  - username: "catvskati"
     fullname: >-
-      🦋Наглый эльф🦋
+      Cat vs Kati
+    bio: >-
+      🥳Cat VS Kati 🎬 Today 500k!!! subscribers on YOUTUBE🥁🦝🐈🦄🐯🐕!Thanks guys!🥳
     location: "Ukraine"
-    followers: 8182
-    engagement: 1784
-    commentsToLikes: 0.043744
-    id: ck9euiqxidr2i0j78iu85g0wk
+    followers: 108100
+    engagement: 746
+    commentsToLikes: 0.003367
+    id: ckcjilksycubi0j234vc8lhfy
     verified: false
-    hashtags: "#pinsdiy, #venusmcflytrap, #artist, #arttutorials"
-  - username: "tik_tok_music_trends"
+    hashtags: "#challenge, #pets, #mycat, #animals"
+  - username: "vsco__honey_"
     fullname: >-
-      Tik_tok_trends 🥺
+      ✰︎ 🍯𝚟𝚜𝚌𝚘🍯 ✰︎
+    bio: >-
+      27/12/2019 goal 10k ☁️🤍🐚 love you all so much ♡︎♡︎♡︎
     location: "Ukraine"
-    followers: 2811
-    engagement: 1702
-    commentsToLikes: 0.029760
-    id: cka0k6f9kl50u0i78c3gcv5rz
+    followers: 4836
+    engagement: 2036
+    commentsToLikes: 0.067502
+    id: ckc8h7j0qbbau0j23vtvlcnzi
     verified: false
-    hashtags: "#clothes, #quarantine, #vsco, #tiktokcoffee"
-  - username: "user7893930200181"
+    hashtags: "#night, #vscogirl, #vscogirlcheck, #aesthetic"
+  - username: "troom_troom.select"
     fullname: >-
-      kino_go
+      Troom Troom SELECT
+    bio: >-
+      Magic tricks, DIYs, Lifehacks & Pranks! ;-)
     location: "Ukraine"
-    followers: 8713
-    engagement: 1246
-    commentsToLikes: 0.033288
-    id: ck83x3ftmnyck0j78vyay4jfv
-    verified: false
-    hashtags: "#likebackteam, #likesforspam, #pleasecomment, #sweet"
-  - username: "christina_rbl"
+    followers: 928500
+    engagement: 1956
+    commentsToLikes: 0.004001
+    id: ckcdkmphl9cm90j231f9up80g
+    verified: true
+    hashtags: "#switch, #bad, #snacks, #candy"
+  - username: "troomtroom"
     fullname: >-
-      Христина
+      Troom Troom
+    bio: >-
+      Easy DIY "how to" video tutorials. DIY Accessories, Make Up Tutorials, Life Hack
     location: "Ukraine"
-    followers: 65904
-    engagement: 520
-    commentsToLikes: 0.022169
-    id: ck8f8vtg73o120j781hpxda8t
-    verified: false
-    hashtags: "#christmas, #etno, #tattoogirl, #unpacking"
-  - username: "homecookingvideo"
+    followers: 3400000
+    engagement: 1252
+    commentsToLikes: 0.006914
+    id: ckav3espn9qnk0j23zcwuwbc0
+    verified: true
+    hashtags: "#troomtroom, #spring, #situations, #winter"
+  - username: "lalilu"
     fullname: >-
-      Home cooking
+      LaLiLu
+    bio: >-
+      Easy DIY "how to make" video tutorials for parents and creative people.
     location: "Ukraine"
-    followers: 168946
-    engagement: 1114
-    commentsToLikes: 0.007592
-    id: cka0kugryo6qi0i78phj56hil
-    verified: false
-    hashtags: "#pancake, #dates, #apple, #baunty"
-  - username: "kotova75"
+    followers: 498700
+    engagement: 1478
+    commentsToLikes: 0.003815
+    id: ck81s6he0qc7p0j7801ce016a
+    verified: true
+    hashtags: "#ideas, #pregnant, #doll, #dolls"
+  - username: "top5experiment"
     fullname: >-
-      Аннета
+      Top 5 Experiments
+    bio: >-
+      Crushing Crunchy & Soft Things 🚘🍭🍟 📧 top5experiments@gmail.com
     location: "Ukraine"
-    followers: 117626
-    engagement: 393
-    commentsToLikes: 0.013711
-    id: ck9rbs1ciqjbb0j789e9e7lr4
+    followers: 1800000
+    engagement: 926
+    commentsToLikes: 0.008056
+    id: ck9ror4x8dudb0j789qcidnwg
     verified: false
-    hashtags: "#cartierchallenge, #spa, #pillowchallenge, #lifeofluxury"
-  - username: "vkysnopolezno"
-    fullname: >-
-      Вкусно и полезно
-    location: "Ukraine"
-    followers: 107898
-    engagement: 1619
-    commentsToLikes: 0.004547
-    id: ck8toyzwhok210j7801zauqef
-    verified: false
-    hashtags: "#avocado, #pie, #dessert, #potatoflower"
+    hashtags: "#shoes, #crash, #asmr, #slime"
 ---

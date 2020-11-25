@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast TikTok Influencers In New York In 2020
 description: >-
-  Find top hypebeast TikTok influencers in New York in 2020. Most popular hashtags: #newyork #hypebeast #mycrib #supreme.
+  Find top hypebeast TikTok influencers in New York in 2020. Most popular hashtags: #foryou #fyp #hypebeast #foryoupage.
 platform: TikTok
+hits: 14
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 14 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "marinosmihalatos"
+  - username: "jahstyen"
     fullname: >-
-      Marinos Mihalatos
+      jahstyen
+    bio: >-
+      Check out my fits on IG! 👆🏻 📍NY 🗽
     location: "United States"
-    followers: 18245
-    engagement: 826
-    commentsToLikes: 0.035734
-    id: ck81qvormk9n50j78gvsk4k6r
+    followers: 8436
+    engagement: 843
+    commentsToLikes: 0.034952
+    id: ckb9lh87ge3b80j23631158sk
     verified: false
-    hashtags: "#drip, #amiri, #offset, #temple"
-  - username: "futuremilf666"
+    hashtags: "#nikesb, #sneakers, #newyork, #famous"
+  - username: "youngmarcuss"
     fullname: >-
-      𖤐*✿ gigi ✿*𖤐
+      Young Marcu$
+    bio: >-
+      Fashion and skate Hopping turnstiles n shit check the gram for 🔥
     location: "United States"
-    followers: 3904
-    engagement: 1346
-    commentsToLikes: 0.040058
-    id: ck9fipzv0c39i0j78e2izhglb
+    followers: 25800
+    engagement: 964
+    commentsToLikes: 0.035407
+    id: ckb0wttj3lyit0j23ysh5ku9w
     verified: false
-    hashtags: "#trump, #biden, #trauma, #hair"
-  - username: "pattygotnocake"
+    hashtags: "#fyp, #style, #trending, #skateboard"
+  - username: "nogood.io"
     fullname: >-
-      pattycore⁷ ✧
+      NoGood
+    bio: >-
+      New York’s Nerdiest Growth Marketers | Follow us on IG for more
     location: "United States"
-    followers: 70250
-    engagement: 712
-    commentsToLikes: 0.012817
-    id: ck9c2iy0ep78t0j78skyd95if
+    followers: 66300
+    engagement: 846
+    commentsToLikes: 0.010640
+    id: ckacc3jnjhxbb0i78j19xtdgh
     verified: false
-    hashtags: "#army, #home, #beyonce, #thrifted"
-  - username: "qiasomar24"
+    hashtags: "#fyp, #marketing, #rating, #foryou"
+  - username: "justinpereiraa"
     fullname: >-
-      Qias Omar
+      Justin Pereira
+    bio: >-
+      IG: Justinpereiraa Do what you lov 📍NJ 🌊
     location: "United States"
-    followers: 215162
-    engagement: 1648
-    commentsToLikes: 0.008859
-    id: ck80cruixauxb0j78yefjy4u6
+    followers: 11000
+    engagement: 1026
+    commentsToLikes: 0.043671
+    id: ckbqhv64p37fn0j23awhknorq
     verified: false
-    hashtags: "#love, #newyork, #petvlog, #tiktokcovers"
+    hashtags: "#justinpereira, #cactusjack, #oceancity, #travisscottmcdonalds"
+  - username: "paul.soles"
+    fullname: >-
+      Paul Soles
+    bio: >-
+      NYC📍 Youtube: Paul Soles Instagram: Paul.soles Snap: paul_albano
+    location: "United States"
+    followers: 52000
+    engagement: 1913
+    commentsToLikes: 0.014085
+    id: ckavau850ifpo0j23jq64xoip
+    verified: false
+    hashtags: "#foryou, #viral, #trending, #sneakers"
   - username: "joemigraine"
     fullname: >-
       Joe Migraine
+    bio: >-
+      🌎 World’s #1 Supreme Collector 🤝 @EricWhiteback’s Brother 📸: IG @joemigraine
     location: "United States"
-    followers: 58676
-    engagement: 1388
-    commentsToLikes: 0.010937
+    followers: 70900
+    engagement: 1194
+    commentsToLikes: 0.010921
     id: ck8nf5iy6qda20j781zffnb5j
     verified: false
-    hashtags: "#distancedance, #interview, #newyork, #ikea"
+    hashtags: "#hypebeast, #viral, #foryou, #hype"
   - username: "thesneakcity"
     fullname: >-
       Tia Hall 💁🏽‍♀️
+    bio: >-
+      Owner of Sneak City in Seattle Instagram @supfed Yes, a girl who resells 👟
     location: "United States"
     followers: 31158
     engagement: 884
     commentsToLikes: 0.018304
     id: ck9a3tuj3rypw0j78k6mh8ds4
     verified: false
-    hashtags: "#seattle, #gopop, #familystorytime, #simple"
-  - username: "rygwav"
+    hashtags: "#sidehustle, #for, #comment, #money"
+  - username: "im_clayton"
     fullname: >-
-      YUNG WAVY
+      ✨clayton✨
+    bio: >-
+      
     location: "United States"
-    followers: 48910
-    engagement: 1947
-    commentsToLikes: 0.015788
-    id: ckacjm4kv82j20i786zj2up8i
+    followers: 40700
+    engagement: 2096
+    commentsToLikes: 0.131685
+    id: ckbqwclzngkxm0j23dxb93ch2
     verified: false
-    hashtags: "#cruisin, #style, #nikeyeezy, #helicopter"
-  - username: "jak3th3jok3r"
+    hashtags: "#fyp, #memes, #viral, #foryou"
+  - username: "matt_toledo"
     fullname: >-
-      GAMER/JOKSTER
+      Matt Toledo
+    bio: >-
+      21 Quinnipiac NJ/CT
     location: "United States"
-    followers: 6386
-    engagement: 759
-    commentsToLikes: 0.171449
-    id: cka7npbouxxx30i783zwb155c
+    followers: 62000
+    engagement: 1526
+    commentsToLikes: 0.038974
+    id: ck8kda8pa4ukk0j789xrnwcoo
     verified: false
-    hashtags: "#classy, #gunnyfaces, #cartok, #makemomsmile"
-  - username: "desert_drinks"
+    hashtags: "#architecture, #xbox, #humor, #xyzbca"
+  - username: "pattygotnocake"
     fullname: >-
-      Desert Drinks
+      patty 𝖈𝖔𝖗𝖊⁷ ✧
+    bio: >-
+      IG @patriciahwang NYC apt tour + fashion buyer vids👇
     location: "United States"
-    followers: 24718
-    engagement: 1405
-    commentsToLikes: 0.013380
-    id: ck8vw3eu3ncz40j78gbrhvfov
+    followers: 116300
+    engagement: 815
+    commentsToLikes: 0.009842
+    id: ck9c2iy0ep78t0j78skyd95if
     verified: false
-    hashtags: "#chicago, #supportlocal, #supreme, #childhood"
-  - username: "lilmoc_nyc"
-    fullname: >-
-      Mr Gymtalkornotalk
-    location: "United States"
-    followers: 15526
-    engagement: 704
-    commentsToLikes: 0.062776
-    id: ck8khivlymwoq0j78oytawa7d
-    verified: false
-    hashtags: "#hypebeast, #esportsforall, #insanetraining, #clubbingathome"
+    hashtags: "#foryou, #fashion, #asian, #bts"
 ---

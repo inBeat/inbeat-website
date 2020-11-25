@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Portugal In 2020
 description: >-
-  Find top comedians TikTok influencers in Portugal in 2020. Most popular hashtags: #comedy #coronavirus #vine #meme.
+  Find top comedians TikTok influencers in Portugal in 2020. Most popular hashtags: #comedia #fyp #foryou #fy.
 platform: TikTok
+hits: 74
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 74 TikTok influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "aaatchim"
+  - username: "el_midon"
     fullname: >-
-      margarida
+      Hugo Miguel Midão
+    bio: >-
+      COMÉDIA☀️MENTALISMO ☀️MAGIA e muito mais. -LIVE todos os Sábados -🌟👑🙏👍
     location: "Portugal"
-    followers: 301311
-    engagement: 2799
-    commentsToLikes: 0.026749
-    id: ck8ttzv9ts8w80j78hgzaal24
+    followers: 91000
+    engagement: 1239
+    commentsToLikes: 0.065810
+    id: cka0uixhnugcf0i784ujr8x63
     verified: false
-    hashtags: "#brasi, #forayoupage, #pov, #funny"
-  - username: "betsaida1011"
+    hashtags: "#humor, #parati, #fy, #fyp"
+  - username: "cattameixa"
     fullname: >-
-      betesaida10
+      Catt Ameixa 🎀
+    bio: >-
+      Instagram & YouTube 👆 - Alentejana 🏡 Comédia / teatro 🤡🎭❣️
     location: "Portugal"
-    followers: 8219
-    engagement: 2733
-    commentsToLikes: 0.056407
-    id: ck9ergvdt1pj70j78ct7jtot4
+    followers: 265900
+    engagement: 1725
+    commentsToLikes: 0.007759
+    id: ckdmzvh3ackbw0j23y12gznsb
     verified: false
-    hashtags: "#balan, #coronavirus, #transi, #dancingchallenge"
-  - username: "diogoreiss"
+    hashtags: "#fyp, #foryou, #comedia, #foryoupage"
+  - username: "brunoalvesfcporto"
     fullname: >-
-      ∂iσgσ rєis
+      Bruno Alves
+    bio: >-
+      Gostas de futebol? Gostas de comédia? Então, de que esperas para me seguir? ⚽
     location: "Portugal"
-    followers: 259411
-    engagement: 2152
-    commentsToLikes: 0.023622
-    id: ck83zbol5zgoh0j78r8satnx7
+    followers: 34000
+    engagement: 1449
+    commentsToLikes: 0.030007
+    id: ckbqq7z1pb5ce0j23ev6v9qup
     verified: false
-    hashtags: "#ironic"
-  - username: "_cookieoficiall_"
+    hashtags: "#futebolportugues, #parati, #pt, #viral"
+  - username: "guilhermetkd"
     fullname: >-
-      𝕊𝕦𝕟𝕤𝕙𝕚𝕟𝕖🌞
+      Guilherme Santos
+    bio: >-
+      CEO of flop 16 🇵🇹 🎁 Best gifter: 2019tomasbernardo 🎁
     location: "Portugal"
-    followers: 159542
-    engagement: 2865
-    commentsToLikes: 0.035907
-    id: ck8ts7ixvr5e70j788dxsgxbw
+    followers: 57400
+    engagement: 1725
+    commentsToLikes: 0.056624
+    id: ckdclsoj2nzud0j230ly4wouc
     verified: false
-    hashtags: "#hamster, #dueto, #brasil, #comedy"
-  - username: "constanzaariza"
+    hashtags: "#danca, #fyp, #fy, #foryou"
+  - username: "gaby_pereira6"
     fullname: >-
-      ❥Constanza Ariza❥
+      Gabriela Pereira
+    bio: >-
+      🇵🇹
     location: "Portugal"
-    followers: 618056
-    engagement: 2110
-    commentsToLikes: 0.017970
-    id: ck83zbke6zfil0j788ewd8cyv
-    verified: true
-    hashtags: "#horror, #makeup, #summer, #bikini"
-  - username: "cat.barbiee"
-    fullname: >-
-      catarina barbie
-    location: "Portugal"
-    followers: 192909
-    engagement: 2594
-    commentsToLikes: 0.009932
-    id: ck8p1ftzjl76n0j78pk4txpo5
+    followers: 18100
+    engagement: 1555
+    commentsToLikes: 0.036913
+    id: ckd0qyqj1ic6q0j23lpcly9kc
     verified: false
-    hashtags: "#dueto, #samsung, #trend"
+    hashtags: "#dance, #comedia, #foryou, #junteaspe"
+  - username: "daniel_patrocinioo"
+    fullname: >-
+      daniel🏳️‍🌈❤️
+    bio: >-
+      Perdi a minha conta do IG ajudem me a chegar de novo aos 10K 🏳️‍🌈 GO ➡️ 250K
+    location: "Portugal"
+    followers: 224300
+    engagement: 2228
+    commentsToLikes: 0.006111
+    id: ckajk8t0soyws0i78z1l45usq
+    verified: false
+    hashtags: "#fy, #fyp, #comedia, #humor"
   - username: "andre25silva"
     fullname: >-
       André Silva
+    bio: >-
+      Sigam-me também no INSTA 👆
     location: "Portugal"
-    followers: 30886
-    engagement: 1616
-    commentsToLikes: 0.019340
+    followers: 62300
+    engagement: 1842
+    commentsToLikes: 0.016380
     id: cka0uj7k0uinw0i78vbmd4s1f
     verified: false
-    hashtags: "#meme, #titanic, #chuva, #calor"
-  - username: "4150og"
+    hashtags: "#dueto, #comedia, #amongus, #portugal"
+  - username: "mafaldacreative_"
     fullname: >-
-      OG 🇲🇽
+      Mafalda Creative
+    bio: >-
+      Gosto de falar para uma câmara 🎬
     location: "Portugal"
-    followers: 224779
-    engagement: 3641
-    commentsToLikes: 0.012005
-    id: ck8nj0yno86iy0j78b1yccgze
-    verified: true
-    hashtags: "#zoom, #corona, #dancition, #coronavirus"
-  - username: "danielacouto96"
-    fullname: >-
-      Daniela Couto
-    location: "Portugal"
-    followers: 198258
-    engagement: 941
-    commentsToLikes: 0.047399
-    id: ck8tpcos7pwyx0j78tqqub4aa
+    followers: 299900
+    engagement: 1974
+    commentsToLikes: 0.009284
+    id: ckbwgyglj2mjv0j23a81lpgj1
     verified: false
-    hashtags: "#desafiodos6s, #quarentena, #selfiecomemoji, #eusotroxa"
-  - username: "laranjinha_official"
+    hashtags: "#fyp, #foryoupage, #comedia, #pub"
+  - username: "_danielacarvalho_"
     fullname: >-
-      LARANJINHA
+      Daniela 🌸
+    bio: >-
+      20k ? 🇵🇹
     location: "Portugal"
-    followers: 11722
-    engagement: 1579
-    commentsToLikes: 0.021814
-    id: ckai837gm2r1g0i78h8ovn7s6
+    followers: 18100
+    engagement: 1864
+    commentsToLikes: 0.040435
+    id: ckdb9jrqw5m4z0j2314ncu0p8
     verified: false
-    hashtags: "#guine, #tendecia, #coronavirus, #forupage"
+    hashtags: "#trend, #fy, #comedia, #comedy"
+  - username: "_andrezzanascimento_"
+    fullname: >-
+      Andrezza Nascimento
+    bio: >-
+      🇧🇷Eu brinco, mas também falo sério🇵🇹
+    location: "Portugal"
+    followers: 12900
+    engagement: 869
+    commentsToLikes: 0.048861
+    id: ckbfca0ut51440j23p8jgaifi
+    verified: false
+    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
 ---

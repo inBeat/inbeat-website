@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Rome In 2020
 description: >-
-  Find top fashion Instagram influencers in Rome in 2020. Most popular hashtags: #fashion #rome #travel #italy.
+  Find top fashion Instagram influencers in Rome in 2020. Most popular hashtags: #fashion #rome #model.
 platform: Instagram
+hits: 248
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 248 Instagram influencers like this in Rome, Italy for you to pitch.
 profiles:
-  - username: "guidotaroniphotographer"
+  - username: "vanessadaylife"
     fullname: >-
-      Guido Taroni Photographer
+      Vanessa Gentile
+    bio: >-
+      📍 Milan-Rome #Fashion | #Travel | #Beauty Creating memories w/ @augustopro 📩 info@vanessagentile.com
     location: "Italy"
-    followers: 115033
-    engagement: 300
-    commentsToLikes: 0.069795
-    id: ck5zukypj2k5w0i14lw2a74qv
-    verified: true
-    hashtags: "#unitedbutdistant, #eiffeltower, #fashion, #rome"
+    followers: 112019
+    engagement: 282
+    commentsToLikes: 0.032946
+    id: ck0w4rtqf03gq0i19w89bt4w6
+    verified: false
+    hashtags: "#lifestyle, #italianvibes, #mediterraneanvibes, #italia"
   - username: "wolfiefra"
     fullname: >-
       Francesca 🌸
+    bio: >-
+      Sardinia IED Rome 🇮🇹 Fashion Stylist 📍 Info-collabs / Picchizzolufrancesca@gmail.com Or DM 📥 / @zstaffevents @thetempleportocervo
     location: "Italy"
-    followers: 10998
-    engagement: 473
-    commentsToLikes: 0.103914
+    followers: 10795
+    engagement: 119
+    commentsToLikes: 0.001372
     id: ck15sgymlcy6r0i19r1m33db1
     verified: false
-    hashtags: "#newyear, #carnevale2020, #carrasciali"
-  - username: "eva.skoula"
-    fullname: >-
-      Εύα Σκουλά
-    location: "Italy"
-    followers: 5158
-    engagement: 1129
-    commentsToLikes: 0.016455
-    id: ck8t856fcj5100j78wieekea9
-    verified: false
-    hashtags: "#visitrome, #travelholic, #naples, #vaticancity"
-  - username: "maride__"
-    fullname: >-
-      Marianna De Vito
-    location: "Italy"
-    followers: 41470
-    engagement: 205
-    commentsToLikes: 0.082915
-    id: ck5pvfhxohmj70i11aeh1eh78
-    verified: false
     hashtags: ""
-  - username: "barbaradipalma_real"
+  - username: "_valentinaserafin_"
     fullname: >-
-      Barbara di Palma
+      Valentina Serafin
+    bio: >-
+      Hostess, Tour Leader, Presenter, Actress Vittorio Veneto —> Rome - Italy / For collaborations: serafinvalentina@yahoo.it - NO DIRECT -
     location: "Italy"
-    followers: 53982
-    engagement: 126
-    commentsToLikes: 0.079287
-    id: ckapa5xnuuuox0i78hcatybxs
+    followers: 72400
+    engagement: 212
+    commentsToLikes: 0.081432
+    id: ckap19q9xtnf80i787w6sbn24
     verified: false
-    hashtags: "#travel, #storieitaliane, #vero, #bastogi"
-  - username: "alemarullo"
+    hashtags: "#girl, #legs, #body, #style"
+  - username: "eleonoraviscardii"
     fullname: >-
-      ALESSIA MARULLO
+      Eleonora Viscardi
+    bio: >-
+      Business Economics👩‍🎓 Advices on fashion and travel Model 🌺 Italy🇮🇹 #milano For collaborations ➡️ DM
     location: "Italy"
-    followers: 18108
-    engagement: 524
-    commentsToLikes: 0.247765
-    id: ck5c2v4z9y1vb0i11snnl26pa
+    followers: 49482
+    engagement: 195
+    commentsToLikes: 0.127496
+    id: ck9hcf78dl3n30j78ttlu59hx
     verified: false
-    hashtags: "#becksondergaard, #quotes, #nudelook, #totalblack"
+    hashtags: "#sorridisempre, #bikini, #mare, #smile"
+  - username: "avada___kedavra"
+    fullname: >-
+      AvadaKedavra
+    bio: >-
+      ❁ cosplayer ➸ seamstress and embroiderer ¶ drag queen ♛ singer
+    location: "Italy"
+    followers: 11242
+    engagement: 655
+    commentsToLikes: 0.286656
+    id: ck0w11j0mh3r40i19ui0rgbkk
+    verified: false
+    hashtags: "#makeup, #cosplayerofig, #timburtonmovies, #spookyart"
+  - username: "mariangelabonanni"
+    fullname: >-
+      Mariangela Bonanni
+    bio: >-
+      🇫🇮@brandmgmt 🇺🇸 @women360mgmt 🇬🇧@thehivemodels 🇮🇹@thelabmodels 🇩🇪@model_mgmt 🇫🇷@ouimanagement 🇪🇸@lineupmodels 🇺🇸@twomanagement
+    location: "Italy"
+    followers: 38285
+    engagement: 373
+    commentsToLikes: 0.039466
+    id: ck0w3xr72vtk30i19omjn67wk
+    verified: false
+    hashtags: "#italy, #tbt, #redhair, #ginger"
   - username: "robertanbianca"
     fullname: >-
       Roberta Bianca
+    bio: >-
+      🍕 Italian girl, Rome 👗 Fashion Film & Food 📷 I take outfit photos in my mirror 📩 collab: roberta.bianca@icloud.com 🧁 Preset che creo 👇🏼
     location: "Italy"
-    followers: 27741
-    engagement: 189
-    commentsToLikes: 0.066947
+    followers: 26680
+    engagement: 155
+    commentsToLikes: 0.074823
     id: ck5c6w4yg6bnt0i11ptmbffk0
     verified: false
-    hashtags: "#dwforeveryone, #autumn, #fallvibes, #blackfriday"
-  - username: "andreadenver3"
+    hashtags: "#outfitdelgiorno, #ootdpost, #lookbook, #outfitinspiration"
+  - username: "alemarullo"
     fullname: >-
-      Andrea Denver
+      ALESSIA MARULLO
+    bio: >-
+      Italy | Rome 🍝 Fashion designer inquiries: alessiamarullo12@gmail.com
     location: "Italy"
-    followers: 1340941
-    engagement: 348
-    commentsToLikes: 0.027646
-    id: ck13bn3now83n0i19fig6r3md
+    followers: 20323
+    engagement: 512
+    commentsToLikes: 0.136964
+    id: ck5c2v4z9y1vb0i11snnl26pa
+    verified: false
+    hashtags: "#a40b4, #neutralstyles, #lookstylesociety, #onparledemode"
+  - username: "melaniamigliozzi"
+    fullname: >-
+      mel* • aesthetic feed
+    bio: >-
+      BLOGGER | FASHION | LIFESTYLE 📍Rome aesthetic lover | beige passion Blog Dressing&Toppings Contributor @kiabi_italiaofficial ♡ Founder @foodgangitalia
+    location: "Italy"
+    followers: 16814
+    engagement: 583
+    commentsToLikes: 0.065675
+    id: ck5zu6gn81rtk0i14e5go0ffo
+    verified: false
+    hashtags: "#kiabi, #falconeri, #ivyoakstories, #ivyandoak"
+  - username: "virgimih"
+    fullname: >-
+      Virginia Mihajlović
+    bio: >-
+      Rome based. Fashion lover. Digital Influencer. ✉️ For collab: infovirgimih@gmail.com
+    location: "Italy"
+    followers: 92426
+    engagement: 339
+    commentsToLikes: 0.004932
+    id: ck55mn4034bdl0i11t3df6stn
     verified: true
-    hashtags: "#happymonday, #canale5, #teamdenver, #bestrong"
-  - username: "ale_rm_77"
-    fullname: >-
-      Alessandro N.
-    location: "Italy"
-    followers: 12236
-    engagement: 712
-    commentsToLikes: 0.008796
-    id: ck8t8umzmlw1i0j785iqxoc7x
-    verified: false
-    hashtags: "#covid, #igphoto, #igpic, #touroperator"
-  - username: "carolinainnocenti9"
-    fullname: >-
-      𝕮 A R O L ' 𝕬 S H - L E Y
-    location: "Italy"
-    followers: 72413
-    engagement: 207
-    commentsToLikes: 0.028332
-    id: ckap31jx8187c0i788b4yqzll
-    verified: false
-    hashtags: "#day47"
+    hashtags: "#proudsister, #giftedby"
 ---

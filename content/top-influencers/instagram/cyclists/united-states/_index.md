@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In United States In 2020
 description: >-
-  Find top cyclists Instagram influencers in United States in 2020. Most popular hashtags: #tuesday #sunday #bikes #adventure.
+  Find top cyclists Instagram influencers in United States in 2020. Most popular hashtags: #cycling #tuesday #photography.
 platform: Instagram
+hits: 179
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 179 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "tommeeusen"
+  - username: "woutvanaert"
     fullname: >-
-      Tom Meeusen
+      Wout van Aert
+    bio: >-
+      💍 Sarah 🚴‍♂️ Cyclist @jumbovisma_road 🚀 @RedBullBE athlete #GivesYouWings ✌🏼 Godfather of @towalkagain 🗣 'Stilstaan is achteruitgaan' #All4Goolie
     location: "United States"
-    followers: 17509
-    engagement: 1561
-    commentsToLikes: 0.009372
-    id: ck5byx1v7q0p90i11b7qsnen5
-    verified: false
-    hashtags: "#worldbicycleday, #mycanyon, #corendoncircus, #nothingtolose"
-  - username: "ami.redd"
-    fullname: >-
-      ☆ ami bigler-redd ☆
-    location: "United States"
-    followers: 2384
-    engagement: 2658
-    commentsToLikes: 0.167208
-    id: ck6ua4fsy1fay0j71131dq90p
-    verified: false
-    hashtags: "#hoco2k19, #happygirls, #teamprepusa, #crashtestdummy"
-  - username: "iamicaniwillido"
-    fullname: >-
-      Christine D'Ercole
-    location: "United States"
-    followers: 72394
-    engagement: 478
-    commentsToLikes: 0.048199
-    id: ck1392t0tj8g10i19h8fq6h06
+    followers: 375307
+    engagement: 1308
+    commentsToLikes: 0.014181
+    id: ck0tw2nspdr8w0i192v7k3gis
     verified: true
-    hashtags: "#cooking, #makeshithappen, #feed, #wolf"
-  - username: "wroblewski_cycling"
-    fullname: >-
-      ROBERT
-    location: "United States"
-    followers: 5035
-    engagement: 1384
-    commentsToLikes: 0.138632
-    id: ckap4toip8tv80i78uv2uu0jc
-    verified: false
-    hashtags: "#people, #velo, #wawel, #akcja"
-  - username: "zack_knudsen"
-    fullname: >-
-      z a c k | k n u d s e n
-    location: "United States"
-    followers: 5146
-    engagement: 716
-    commentsToLikes: 0.091086
-    id: ck5hpivm1rg1k0i11f4t23vhq
-    verified: false
-    hashtags: "#rdparty, #moodygrams, #emilykinney, #tour"
+    hashtags: "#samenwinnen, #comeback, #corona, #socialdistancing"
   - username: "dr.gunnarsdottir"
     fullname: >-
       Cyclist & Psychologist
+    bio: >-
+      Cyclist 🚴🏻‍♀️ | Researcher | Psychologist 🤓| @hincapiesports @maurten_official @tifosioptics @irwincycling 📩 dr.gunnarsdottir@gmail.com
     location: "United States"
-    followers: 43495
-    engagement: 373
-    commentsToLikes: 0.041881
+    followers: 41822
+    engagement: 289
+    commentsToLikes: 0.040546
     id: ckaou127pybqy0i78lm16az2e
     verified: false
-    hashtags: "#thesimplethings, #roadbike, #playtime, #wednesday"
-  - username: "elodiekuijper"
+    hashtags: "#active, #fitlife, #cyclinglife, #icelandisopen"
+  - username: "lukerowe1990"
     fullname: >-
-      𝐄𝐥𝐨𝐝𝐢𝐞.
+      Luke Rowe
+    bio: >-
+      Cyclist Team Ineos ! Mega 👌🏻
     location: "United States"
-    followers: 65910
-    engagement: 818
-    commentsToLikes: 0.007638
-    id: ck1398t92k3dc0i194edjqtxh
+    followers: 77075
+    engagement: 821
+    commentsToLikes: 0.008056
+    id: ck55p0bzi9jc20i119tnk9ell
     verified: true
-    hashtags: "#supportlocalbusiness, #cxiscoming, #cyclingwithasmile, #limburgfietsparadijs"
-  - username: "ayesuppose"
+    hashtags: "#gutter, #waffles"
+  - username: "zack_knudsen"
     fullname: >-
-      Ayesha Rosena Anna McGowan
+      z a c k | k n u d s e n
+    bio: >-
+      photog. husband. friend. son. brother. cat dad. husker vol. cyclist. • 📸 Sony A7iii • Canon AE-1 • 📍Nashville - quarantined
     location: "United States"
-    followers: 18483
-    engagement: 570
-    commentsToLikes: 0.032577
-    id: ck5q09xud4z170i11xtmpdi8a
+    followers: 5390
+    engagement: 729
+    commentsToLikes: 0.088892
+    id: ck5hpivm1rg1k0i11f4t23vhq
     verified: false
-    hashtags: "#ahmaudarbery, #musicteacher, #menstruation, #quarantine"
+    hashtags: "#natgeoyourshot, #shows, #nashville, #usa"
   - username: "lawsoncraddock"
     fullname: >-
       Lawson Craddock
+    bio: >-
+      Professional Cyclist for EF Education First Texas Forever
     location: "United States"
-    followers: 32550
-    engagement: 640
-    commentsToLikes: 0.014017
+    followers: 33506
+    engagement: 653
+    commentsToLikes: 0.013765
     id: ck0w5x8ry5vs40i19icr7dy6i
     verified: false
-    hashtags: "#exploretheworld, #channel71"
-  - username: "3sdevenyns"
+    hashtags: "#channel71, #choosecycling, #duckpower"
+  - username: "king_iz"
     fullname: >-
-      Dries Devenyns
+      Isabel King
+    bio: >-
+      D1 soccer-> trading floor-> business school-> pro triathlete-> cyclist? Sure. Why not?? Ride bikes hard. Smile as much as possible. Wear orange. 🧡🚲⚡️
     location: "United States"
-    followers: 10642
-    engagement: 1259
-    commentsToLikes: 0.013520
-    id: ck6tnn82qa6hp0j71d9v6hmfi
+    followers: 6637
+    engagement: 1297
+    commentsToLikes: 0.051325
+    id: ckaownu5i9nre0i78jt33ckl0
     verified: false
-    hashtags: "#cadelroadrace, #waytoride, #staysafe, #lifeismusic"
+    hashtags: "#climbmountains, #gofastdontdie, #staysilly, #thankful"
+  - username: "tejayvangarderen"
+    fullname: >-
+      Tejay van Garderen
+    bio: >-
+      Cyclist for EF Education First. Sports fan (Love my Denver Broncos and Nuggets). Father of 2 amazing girls.
+    location: "United States"
+    followers: 18179
+    engagement: 663
+    commentsToLikes: 0.015312
+    id: ck14giz1e5go20i19lp9mow6p
+    verified: false
+    hashtags: "#wellness, #zoom, #socialdistancing, #vittoria"
+  - username: "ayesuppose"
+    fullname: >-
+      Ayesha Rosena Anna McGowan 🦊
+    bio: >-
+      Pro Road Cyclist for Liv Racing | Advocate for better representation for POC in the bike industry. #AQuickBrownFox #RepresentationMatters #LivRacing
+    location: "United States"
+    followers: 31226
+    engagement: 516
+    commentsToLikes: 0.013876
+    id: ck5q09xud4z170i11xtmpdi8a
+    verified: false
+    hashtags: "#aquickbrownfox, #sponsored, #representationmatters, #theblackfoxes"
+  - username: "ryanatkinsdiet"
+    fullname: >-
+      Ryan Atkins
+    bio: >-
+      Canadian 🇨🇦 Runner, climber, cyclist, OCR athlete, World Champion. Passionate about being outside and pushing myself.
+    location: "United States"
+    followers: 46362
+    engagement: 319
+    commentsToLikes: 0.015911
+    id: ck5hghoqo2tn20i11zzk46jmi
+    verified: false
+    hashtags: "#goldentrailchampionship, #battleofthefittest, #spartan, #spartanpro"
+  - username: "datpielife"
+    fullname: >-
+      DPKxPIE
+    bio: >-
+      PADRE HUSBAND LA BASED PHOTOGRAPHER SOMETIME CYCLIST WANNABE CAR ENTHUSIAST BOOKING DM OR EMAIL ME. DPKXPIE@GMAIL.COM
+    location: "United States"
+    followers: 5876
+    engagement: 787
+    commentsToLikes: 0.026028
+    id: ck55n1g1i59ws0i11yo2s56eq
+    verified: false
+    hashtags: "#kookt"
 ---

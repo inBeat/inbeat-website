@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Greece In 2020
 description: >-
-  Find top fitness Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #photography #running #fitness.
+  Find top fitness Instagram influencers in Greece in 2020. Most popular hashtags: #summer #fitness #greece #staysafe.
 platform: Instagram
+hits: 174
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 174 Instagram influencers like this in Greece for you to contact.
 profiles:
-  - username: "vasou_lina"
+  - username: "evi_sa"
     fullname: >-
-      Vasou Lina
+      Evi Saltaferidou
+    bio: >-
+      •Fitness coach •Indoor cycling instructor🚲 •Survivor 2018🥥🌴 @newbalance Ambassador #teamNB YouTube⬇️
     location: "Greece"
-    followers: 12075
-    engagement: 1539
-    commentsToLikes: 0.450800
-    id: ck5znqqvtozbs0i14uin4hjkz
+    followers: 48670
+    engagement: 1042
+    commentsToLikes: 0.074004
+    id: ck6toav67d1hh0j710a0b2pj7
     verified: false
-    hashtags: "#triponwinter, #upsidedown, #goodmorning, #newyear"
-  - username: "kos_slou16"
+    hashtags: "#sun, #smile, #summer, #coach"
+  - username: "mak.instyle"
     fullname: >-
-      Kostas Sloukas
+      Muhannad Al Khatib Dubai
+    bio: >-
+      🧔🏻MAK -مهند 🔝 Family 🏋🏻‍♂️ Fitness Addicted 💭 Curious, Authentic, Resourceful & A Dreamer
     location: "Greece"
-    followers: 167927
-    engagement: 1390
-    commentsToLikes: 0.023422
-    id: ck5c20eiawaf00i11mfpu1mzs
-    verified: true
-    hashtags: "#headandshoulders, #neverenough, #kingbill, #fenerbah"
-  - username: "maria_louiza_real"
-    fullname: >-
-      Maria Louiza Vourou
-    location: "Greece"
-    followers: 64125
-    engagement: 277
-    commentsToLikes: 0.100118
-    id: ck55n9iwk5quk0i11bdztjjlt
+    followers: 38753
+    engagement: 615
+    commentsToLikes: 0.184670
+    id: ck0w1ye7plqsm0i19qdqop8x4
     verified: false
-    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
-  - username: "yulia_spirina_fit"
-    fullname: >-
-      Yulia Spirina
-    location: "Greece"
-    followers: 5040
-    engagement: 1611
-    commentsToLikes: 0.051465
-    id: ckap1r9wtvs600i78nrcb5bfy
-    verified: false
-    hashtags: "#workout, #fitnesslife, #rowing, #singlearmrow"
-  - username: "evdoxia_dm"
-    fullname: >-
-      Evdoxia Dima Xalatsi
-    location: "Greece"
-    followers: 42124
-    engagement: 718
-    commentsToLikes: 0.896290
-    id: ck8swmw6pekjz0j78m3ljmq79
-    verified: false
-    hashtags: "#gymgirl, #cutebaby, #kids, #fitnessgirl"
-  - username: "koulourisdim"
-    fullname: >-
-      Dimitris Koulouris
-    location: "Greece"
-    followers: 12133
-    engagement: 886
-    commentsToLikes: 0.067147
-    id: ck8svsuwwckio0j78fv4nfwb1
-    verified: false
-    hashtags: "#keepontraining, #core, #ziseathlitika, #wewill"
-  - username: "annienikoli"
-    fullname: >-
-      Annie Nikoli
-    location: "Greece"
-    followers: 28179
-    engagement: 698
-    commentsToLikes: 0.006746
-    id: ck5chaa5bqebo0i11n4r3rzmj
-    verified: false
-    hashtags: "#doyouunderstandlol, #loveislove, #different, #tranquilo"
-  - username: "memevictim2000x"
-    fullname: >-
-      Sauced
-    location: "Greece"
-    followers: 2156
-    engagement: 1999
-    commentsToLikes: 0.040222
-    id: ck1354cwgzn6y0i19zghp7ny9
-    verified: false
-    hashtags: "#wcw, #gbf"
+    hashtags: "#picsdubai, #abudhabi, #unitedarabemirates, #dubailuxury"
   - username: "ismini_fab"
     fullname: >-
       Ismini Fabiatou🍩🍫
+    bio: >-
+      💪 Fitness 🏋️‍♀️ Crossfit 🎓 Agricultural University of Athens 📍 Athens, Greece 🐶 @charlie__fab 📩 Email: ismfab@yahoo.gr
     location: "Greece"
-    followers: 50341
-    engagement: 443
-    commentsToLikes: 0.005683
+    followers: 50746
+    engagement: 492
+    commentsToLikes: 0.091455
     id: ck8t0anlnrezk0j78v31dg0oe
     verified: false
-    hashtags: "#blueeyes, #giftedbyreebok, #stayhome, #poweredbyglo"
-  - username: "_.haoh._"
+    hashtags: "#giveaway, #nokia, #gobiggobeyond, #nokiaphotography"
+  - username: "maria_louiza_real"
     fullname: >-
-      Alexander
+      Maria Louiza Vourou
+    bio: >-
+      📺 Tv Presenter 🤸‍♀️ Pilates instructor 🥑🍑🍌 Fitness blogger 🇬🇷 @Queen.gr➡️MLvlog /model 👶🏻 happy mama of Jason
     location: "Greece"
-    followers: 2260
-    engagement: 3757
-    commentsToLikes: 0.024626
-    id: ck9wg10etrezj0j78o73vzpyv
+    followers: 69643
+    engagement: 297
+    commentsToLikes: 0.197497
+    id: ck55n9iwk5quk0i11bdztjjlt
     verified: false
-    hashtags: "#pumped, #cute, #artistic, #goodmorning"
+    hashtags: "#quarantine, #staysafe, #mood, #staypositive"
+  - username: "am.konstantina"
+    fullname: >-
+      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+    bio: >-
+      🦷Dentist 💜Fitness & Food 📍Thessaloniki, Greece 🎥YouTube channel: Konstantina 🎮Livestreaming on Facebook Gaming : @pdtproject_official
+    location: "Greece"
+    followers: 109884
+    engagement: 1304
+    commentsToLikes: 0.013674
+    id: ck0w3mozdu6y70i19405f1i8t
+    verified: false
+    hashtags: "#fitness, #greece, #konstantina, #summeringreece"
+  - username: "ilias__gkotsis"
+    fullname: >-
+      ▪️ʀᴇᴍᴇᴍʙᴇʀ ᴡʜʏ ʏᴏᴜ sᴛᴀʀᴛᴇᴅ..▪️
+    bio: >-
+      ɪʟɪᴀs ɢᴋᴏᴛsɪs 🏆sᴜʀᴠɪᴠᴏʀ₂₀₁₈ ᴏᴡɴᴇʀ ᴏғ @need_for_fitness_ ↓NEED_FOR_FITNESS↓
+    location: "Greece"
+    followers: 86714
+    engagement: 667
+    commentsToLikes: 0.007782
+    id: ck0w1rtwqktck0i19e0brnp4t
+    verified: false
+    hashtags: "#pumaperformance, #protein, #summer, #fun"
+  - username: "yulia_spirina_fit"
+    fullname: >-
+      Yulia Spirina
+    bio: >-
+      🇷🇺🇬🇷 Personal Trainer Fitness model Online coach QNT Ambassador @qntgreece @qntsportnutrition uliaspirin78@mail.ru📩
+    location: "Greece"
+    followers: 5148
+    engagement: 1081
+    commentsToLikes: 0.047704
+    id: ckap1r9wtvs600i78nrcb5bfy
+    verified: false
+    hashtags: "#fitnessmodel, #personaltrainer, #fitnessjourney, #reinaolga"
+  - username: "anamariagoltes"
+    fullname: >-
+      ANAMARIA
+    bio: >-
+      fashion • fitness • lifestyle 🐶 @hugo__gia 💗 Advocate for Self Acceptance ⚡️ AM workouts - Train with me👇🏻 #iAManamaria
+    location: "Greece"
+    followers: 126455
+    engagement: 791
+    commentsToLikes: 0.005864
+    id: ck5cdx6kajyc40i11hhj6z8gd
+    verified: true
+    hashtags: "#fashiondays, #fashion, #bloggerinspo, #style"
+  - username: "kos_slou16"
+    fullname: >-
+      Kostas Sloukas
+    bio: >-
+      @olympiacosbc & @HellenicBF Guard 🏀 fb.com/kos.slou twitter.com/kos_slou @alliance.fitness.center
+    location: "Greece"
+    followers: 156786
+    engagement: 1992
+    commentsToLikes: 0.031548
+    id: ck5c20eiawaf00i11mfpu1mzs
+    verified: true
+    hashtags: "#fenerbah, #childcancerawareness, #neverenough, #team"
+  - username: "imcristiano_dangelo"
+    fullname: >-
+      CRISTIANO  D'ANGELO
+    bio: >-
+      Argentinian Model 🇦🇷 Fitness JOURNEY 🐟🐠🐚 🌏/ Currently in Athens 🇬🇷📍 👻Snapchat: Cristiano.dang 👻 The Lab Milano 🇮🇹//MMG 🇦🇪
+    location: "Greece"
+    followers: 12027
+    engagement: 608
+    commentsToLikes: 0.084621
+    id: ckaorbf62mjmx0i78e6atd3ed
+    verified: false
+    hashtags: "#aesthetic, #idmagazine, #fashioneditorial, #wlyg"
 ---

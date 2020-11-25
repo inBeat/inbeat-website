@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Canada In 2020
 description: >-
-  Find top dancers TikTok influencers in Canada in 2020. Most popular hashtags: #dance #duet #mycrib #victoriaday.
+  Find top dancers TikTok influencers in Canada in 2020. Most popular hashtags: #dance #fyp #foryou #duet.
 platform: TikTok
+hits: 174
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 174 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "cryingcloudcos"
+  - username: "aronpipersgirlfriend"
     fullname: >-
-      CeCe
+      nyah
+    bio: >-
+      white💪🏻 sexy😩 hot🥵 loner💔🥀 pro dancer🩰 beware⚠️ attractive povs! she/her
     location: "Canada"
-    followers: 7127
-    engagement: 1721
-    commentsToLikes: 0.068426
-    id: ckajkgs32qc0m0i781aadriid
+    followers: 15600
+    engagement: 2685
+    commentsToLikes: 0.061929
+    id: ckfplkjq20cgw0j234xby9c8g
     verified: false
-    hashtags: "#femlesbian, #sydneynovak, #tiktokdance, #bestfriends"
-  - username: "elle.mckinnon"
-    fullname: >-
-      ♥️ Elle McKinnon ♥️
-    location: "Canada"
-    followers: 67962
-    engagement: 2432
-    commentsToLikes: 0.022436
-    id: ck8nhsoxo2gk70j78pjf62qg1
-    verified: false
-    hashtags: "#amy, #savage, #sad, #parttwocomingsoon"
-  - username: "melxdieofficial"
-    fullname: >-
-      M E L ⨂ D I E
-    location: "Canada"
-    followers: 61546
-    engagement: 1362
-    commentsToLikes: 0.044243
-    id: ck806xtsrmwym0j78dxt9e0kq
-    verified: false
-    hashtags: "#bellydance, #monsterdance, #monster, #lovelife"
+    hashtags: "#emotional, #christiangirlautumn, #colorcustomizer, #dance"
   - username: "divasensations"
     fullname: >-
       Diva Sensations 
+    bio: >-
+      20 | Dancers 🇳🇬🇨🇦👯‍♀️ IG: @sensationaltwins YT: Diva Sensations 👇🏽👇🏽
     location: "Canada"
-    followers: 1548780
-    engagement: 2164
-    commentsToLikes: 0.046954
+    followers: 1700000
+    engagement: 2279
+    commentsToLikes: 0.080697
     id: ckac5sz6fdljg0i78kvyrs3sq
     verified: true
-    hashtags: "#stayhome, #micasachallenge, #girls, #sayso"
-  - username: "theballethypehouse"
+    hashtags: "#foryourpage, #foryou, #dance, #twins"
+  - username: "elle.mckinnon"
     fullname: >-
-      Ballet Hype House🩰✨
+      ~Elle McKinnon~
+    bio: >-
+      Official Account Actress/Singer/Dancer #BLM!! ☀️84.6k amazing people☀️
     location: "Canada"
-    followers: 18209
-    engagement: 2658
-    commentsToLikes: 0.040421
-    id: ck9gtxjk1otr20j78ccmn9d2m
+    followers: 85800
+    engagement: 2326
+    commentsToLikes: 0.025143
+    id: ck8nhsoxo2gk70j78pjf62qg1
     verified: false
-    hashtags: "#anklestrength, #strengthening, #itiswhatitis, #ballettips"
-  - username: "trevorflannyt"
+    hashtags: "#sky, #70kfollowers, #coronavirus, #alllivesmatter"
+  - username: "madison_parkinson1"
     fullname: >-
-      Trevor Tordjman
+      madison_parkinson
+    bio: >-
+      18 , dms always open , dancer <3 📧- dancer06283@gmail.com
     location: "Canada"
-    followers: 447740
-    engagement: 2091
-    commentsToLikes: 0.011727
-    id: ck8kdaupd4zcq0j78c6r5gyqk
+    followers: 18500
+    engagement: 2223
+    commentsToLikes: 0.025732
+    id: ck8nbu3lkbgs10j78mvyxysaa
     verified: false
-    hashtags: "#fyp, #duet, #smirk, #toosieslide"
+    hashtags: "#fyp, #dancing, #dancers, #motivation"
+  - username: "fluffy.mercoon"
+    fullname: >-
+      Robin
+    bio: >-
+      ✨Party Princess✨ 🌸Pole Dancer 🌸 She/her 🍉 21 🍉 BLM
+    location: "Canada"
+    followers: 43400
+    engagement: 2063
+    commentsToLikes: 0.020668
+    id: ckc82qhj03f4v0j23olyhac4s
+    verified: false
+    hashtags: "#2020needs, #affirmations, #duet, #artober"
   - username: "sicko2005"
     fullname: >-
       Sicko
+    bio: >-
+      Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
     location: "Canada"
-    followers: 214548
-    engagement: 1663
-    commentsToLikes: 0.177499
+    followers: 244700
+    engagement: 1612
+    commentsToLikes: 0.122148
     id: ck8fa2xv43zpq0j78kx3cdwrb
     verified: true
-    hashtags: "#nature, #getbizzydance, #itchybum, #nosingchallenge"
-  - username: "_kloqowej_"
+    hashtags: "#actor, #duet, #tutting, #canada"
+  - username: "clarahalbert"
     fullname: >-
-      Starr
+      Clara Halbert✨
+    bio: >-
+      •19🥳 •Dancer/💃Teacher •🤸‍♀️AcrobaticArts Thank you for 185.2k💖
     location: "Canada"
-    followers: 17845
-    engagement: 1675
-    commentsToLikes: 0.023551
-    id: ck9newtu6dwjr0j78imne1fr4
+    followers: 185200
+    engagement: 1312
+    commentsToLikes: 0.023875
+    id: ck8vy4j33ta4s0j78jcx0ma1y
     verified: false
-    hashtags: "#spacethings, #cartoon, #bedroomcheck, #nativehumor"
-  - username: "mikaellataylor23"
+    hashtags: "#dancer, #acrobatics, #motivationmonday, #dance"
+  - username: "theballethypehouse"
     fullname: >-
-      Mikaella ❤️🏳️‍🌈❤️
+      The Ballet Hype House
+    bio: >-
+      ☆the og ballet hype house☆ ꕥ 19 dancers ꕥ ☞︎SURPRISE AT 20k☜︎ ! AUDITIONS OPEN !
     location: "Canada"
-    followers: 3204
-    engagement: 1402
-    commentsToLikes: 0.031203
-    id: ck8tprun0qmpd0j78veigiivk
+    followers: 18500
+    engagement: 2540
+    commentsToLikes: 0.030513
+    id: ck9gtxjk1otr20j78ccmn9d2m
     verified: false
-    hashtags: "#tigerking, #poutineday, #siblingcheck, #cerb"
-  - username: "ddkyu"
+    hashtags: "#pointe, #fyp, #ballet, #pointeshoes"
+  - username: "milainachanel"
     fullname: >-
-      🇨🇦Dan🖤Delisle🇨🇦
+      Milaina Chanel
+    bio: >-
+      Dancer/Actress Insta: @milainachanel
     location: "Canada"
-    followers: 12782
-    engagement: 1091
-    commentsToLikes: 0.056244
-    id: ck94l57abxwwx0j78qmw10lmy
+    followers: 24100
+    engagement: 2269
+    commentsToLikes: 0.026477
+    id: ckbw8afuhz5vn0j23qgnpzt1v
     verified: false
-    hashtags: "#friends, #proverb, #clown, #duet"
+    hashtags: "#foryou, #dance, #fyp, #besties"
+  - username: "kenzi_campbell"
+    fullname: >-
+      Kenzi_campbell
+    bio: >-
+      dancer🤍17🤍Toronto (Only account💗)
+    location: "Canada"
+    followers: 248600
+    engagement: 1984
+    commentsToLikes: 0.021468
+    id: ckaury0urwzxl0j23o4vs1ji3
+    verified: false
+    hashtags: "#ballet, #dance, #toronto, #dancer"
 ---

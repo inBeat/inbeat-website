@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Germany In 2020
 description: >-
-  Find top gardening Instagram influencers in Germany in 2020. Most popular hashtags: #gardening #giveaway #streetstyle #thankful.
+  Find top gardening Instagram influencers in Germany in 2020. Most popular hashtags: #gardening #autumn #solebich #garden.
 platform: Instagram
+hits: 235
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 235 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "_neon_beige_"
+  - username: "ankamaze"
     fullname: >-
-      ben
+      Anka🌱
+    bio: >-
+      Introvert. 📍#BERLIN• Urban Jungle & gardening 🌱 🌿Interior - Lifestyle annkathrin.mazal@gmail.com
     location: "Germany"
-    followers: 14002
-    engagement: 978
-    commentsToLikes: 0.020760
-    id: ck5zwtkrw6qpy0i14q0l6c3mv
+    followers: 14617
+    engagement: 254
+    commentsToLikes: 0.016412
+    id: ck6tpjdoxk73k0j71eo3ihvod
     verified: false
-    hashtags: "#schreberg, #ceramics, #teapot, #allineedisahug"
+    hashtags: "#stayathome, #ospreyeurope, #pflanzenmuddi, #pflanzenliebe"
   - username: "himlajord"
     fullname: >-
       Helena Holmgren
+    bio: >-
+      Lives near Umeå in Sweden. Loves gardening, yoga, cats and dogs. Vegan. Please, do not use pictures from my gallery without permission.
     location: "Germany"
-    followers: 21129
-    engagement: 339
-    commentsToLikes: 0.049617
+    followers: 20979
+    engagement: 300
+    commentsToLikes: 0.046970
     id: ckaoyad6dgo0t0i78958wtqaz
     verified: false
-    hashtags: "#physochlaina, #majv, #sibiriskhundtandslilja, #greenhouse"
+    hashtags: "#dahlia, #blommor, #tr, #imintr"
+  - username: "naturlandkind"
+    fullname: >-
+      Viktoria Heyn
+    bio: >-
+      slow living | gardening | nature | sustainability | diy Inspirieren statt Missionieren! 🌿
+    location: "Germany"
+    followers: 93820
+    engagement: 269
+    commentsToLikes: 0.015463
+    id: ck0tx5s3si1dw0i19fqp7qq61
+    verified: false
+    hashtags: "#landleben, #selbstversorgung, #landschaft, #natur"
   - username: "kateshyggehome"
     fullname: >-
       Kates Hygge Home
+    bio: >-
+      🛋 My hygge home in Berlin Neukölln ✉️ kateshyggehome@gmx.de 👩‍🌾 Gardening & renovating @kateshyggegarden
     location: "Germany"
-    followers: 56974
-    engagement: 302
-    commentsToLikes: 0.012110
+    followers: 56209
+    engagement: 253
+    commentsToLikes: 0.010974
     id: ck14kqsarqul20i19c0odb20w
     verified: false
-    hashtags: "#ikeadeutschland, #svaln, #bedroominspo, #flur"
-  - username: "mrs.mende"
+    hashtags: "#germaninteriorbloggers, #bedroom, #bolig, #bedroominspo"
+  - username: "_neon_beige_"
     fullname: >-
-      FASHION & LIFESTYLE
+      ben
+    bio: >-
+      hair & make-up artist/beekeeper into gardening, pottery, cooking and baking... - hoffnungslos hoffnungsvoll...
     location: "Germany"
-    followers: 16225
-    engagement: 853
-    commentsToLikes: 0.285538
-    id: ck6tp22eahejq0j717acfy48r
+    followers: 15389
+    engagement: 724
+    commentsToLikes: 0.020669
+    id: ck5zwtkrw6qpy0i14q0l6c3mv
     verified: false
-    hashtags: "#nails, #momblogger, #officeoutfit, #posterdesign"
-  - username: "joweil_official"
+    hashtags: "#allotment, #urbanjunglebloggers, #schrebergarten, #gartenlaube"
+  - username: "katrinsgarten"
     fullname: >-
-      Jo Weil
+      Katrin Iskam
+    bio: >-
+      Gartenliebe 🌺Dackelliebe🐶Autodidakt🍀no follow for follow🙄if you use my photos,please tag me in
     location: "Germany"
-    followers: 50864
-    engagement: 696
-    commentsToLikes: 0.037049
-    id: ck14igpcjfb8w0i19n10uoqvl
-    verified: true
-    hashtags: "#skudi, #intothewoods, #poolday, #sunnysunday"
-  - username: "sinaensonadora"
-    fullname: >-
-      ✮  🎀  𝒮𝒾𝓃𝒶  🎀  ✮
-    location: "Germany"
-    followers: 11417
-    engagement: 996
-    commentsToLikes: 0.111638
-    id: ck136gwg76fvx0i19ne3h4qba
+    followers: 39056
+    engagement: 855
+    commentsToLikes: 0.121342
+    id: ck0w0yahigmxv0i19lqclp4d7
     verified: false
-    hashtags: "#quoteoftheday, #angel, #goodvibes, #accessories"
-  - username: "kim.donato.official"
+    hashtags: "#raureifzauber, #winteriscoming, #dekoracje, #jardin"
+  - username: "anetas_leben"
     fullname: >-
-      Kim Donato
+      DIY 🖤 Boho 🖤 Scandi 🖤 Interior
+    bio: >-
+      ▪️Mommy 👦 2013 👧2017 ▪️DIY ▪️DEKORATION ▪️WORKING MOM ✉️anetas.leben@gmail.com Impressum im Blog
     location: "Germany"
-    followers: 14215
-    engagement: 636
-    commentsToLikes: 0.075884
-    id: ck5bwr286m8ut0i111ewgka1a
+    followers: 46911
+    engagement: 555
+    commentsToLikes: 0.063176
+    id: ck5q5nswytpkv0i11ao6a9zne
     verified: false
-    hashtags: "#famimytime, #friendshipgoals, #daddy, #familyday"
-  - username: "petra0203"
+    hashtags: "#littlegarden, #whitehome, #autumn, #holz"
+  - username: "aiser0se"
     fullname: >-
-      Petra M-D
+      aiserose
+    bio: >-
+      A i ş e g ü l Lifestyle&Mommblogger Temizlik delisi bir ben. 🎀 I’m a D U A come true. 10.06.2017 Collabs 📩 aiserosed@outlook.com
     location: "Germany"
-    followers: 4101
-    engagement: 2403
-    commentsToLikes: 0.050318
-    id: ck14iajf2eg0z0i19tnm72als
+    followers: 90880
+    engagement: 431
+    commentsToLikes: 0.065644
+    id: ck6tzhuxt9shu0j71tn7cya9l
     verified: false
-    hashtags: "#jardin, #eyeweardesign, #lestropiziennes, #sainttropez"
-  - username: "_family_moments_"
+    hashtags: "#bhfyp, #instahome, #instagood, #goals"
+  - username: "e.holzvolk"
     fullname: >-
-      Nadjaᴴᴬᴾᴾᵞ ᗰOᗰ ᴼᶠ3 ♡
+      Evelyn
+    bio: >-
+      Blumen/Macro/Natur🌷🌻🌹 Meine Fotos sind mein Eigentum 📸 Member of @makro_leidenschaft Member of @great_macroshotz Member of @fiftyshades_of_macro
     location: "Germany"
-    followers: 3152
-    engagement: 2359
-    commentsToLikes: 0.079632
-    id: ck8tde0342zcr0j78cunu5j1k
+    followers: 3449
+    engagement: 1761
+    commentsToLikes: 0.159423
+    id: ck0vuzgenmuge0i19o44jin4k
     verified: false
-    hashtags: "#helloinstagram, #flowerpower, #littlesunshine, #terasse"
-  - username: "p_a_u_l_z_i_m_m_e_r"
+    hashtags: "#gardening, #flowersandmacro, #fiftyshades, #flowerworld"
+  - username: "anna.culina"
     fullname: >-
-      🔴 P A U L▪️Z I M M E R 🔴
+      Anna 🌈 happy food
+    bio: >-
+      💌 hello.annaculina@gmail.com __ 15% off with “EveryXAnna15” (Delivery in 🇩🇪) ORDER MY HEALTHY BOWLS🥙👇🏼
     location: "Germany"
-    followers: 63269
-    engagement: 301
-    commentsToLikes: 0.042583
-    id: ck8tctk3l0mi40j78m0pjvnrs
+    followers: 53590
+    engagement: 278
+    commentsToLikes: 0.066370
+    id: ck13a14lpo3oz0i19i3rtcvip
     verified: false
-    hashtags: "#downtown, #legs, #selfie, #losangelesactor"
+    hashtags: "#food4thought, #autumn, #sustainability, #gardening"
 ---

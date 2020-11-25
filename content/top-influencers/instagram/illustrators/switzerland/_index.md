@@ -1,12 +1,53 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top illustrators Instagram influencers in Switzerland in 2020. Most popular hashtags: #artwork #staypositive #facemask #stayhome.
+  Find top illustrators Instagram influencers in Switzerland in 2020. Most popular hashtags: #illustration #illustrator #procreate.
 platform: Instagram
+hits: 18
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "kalepipe"
+    fullname: >-
+      Nae 🥬
+    bio: >-
+      visual artist photographer, illustrator, painter dm or mail for creative collaborations.
+    location: "Switzerland"
+    followers: 39225
+    engagement: 1328
+    commentsToLikes: 0.006373
+    id: ckf5rmr9xd8fr0j23md5kl0z9
+    verified: false
+    hashtags: "#lascauxcolours"
+  - username: "la___aura"
+    fullname: >-
+      𝐋𝐀𝐔𝐑𝐀 𝐇. 𝐑𝐔𝐁𝐈𝐍
+    bio: >-
+      Digital Artist & Illustrator 🙂🌿 ••• 🖤👇🏻Shop, Brushes, Training Files and More:
+    location: "Switzerland"
+    followers: 641511
+    engagement: 675
+    commentsToLikes: 0.030644
+    id: ck5chwhtsrlak0i11qhqoxcqx
+    verified: false
+    hashtags: "#inspiration, #realism, #digitalart, #influencer"
+  - username: "_fichtre"
+    fullname: >-
+      FICHTRE !
+    bio: >-
+      Mathias Forbach Visual artist, Illustrator & teacher based in Switzerland #fichtre 👇🏽
+    location: "Switzerland"
+    followers: 6298
+    engagement: 705
+    commentsToLikes: 0.075336
+    id: ck5qdm4syw9420i117jyegptx
+    verified: false
+    hashtags: "#creatives, #picame, #artjournal, #dessin"
   - username: "miguelfigueiredoo"
     fullname: >-
       Miguel Figueiredo
+    bio: >-
+      〰️ 22 〰️ MA in Design | UA (progress) 〰️ Illustrator: @miguelmaostortas 〰️📍 Aveiro - Leiria - Portugal
     location: "Switzerland"
     followers: 6350
     engagement: 1193
@@ -14,94 +55,76 @@ profiles:
     id: ck5hso8i3wx5r0i11o5csdnjt
     verified: false
     hashtags: ""
-  - username: "vaneziasm"
+  - username: "neda.draws"
     fullname: >-
-      Vanessa |Illustration & Gaming
+      Neda Sadreddin
+    bio: >-
+      Freelance Illustrator. 🇺🇸 Welcome to my world. ✨😊 For private orders email me at: neda.sadreddin@gmail.com Online Shop:
     location: "Switzerland"
-    followers: 2903
-    engagement: 4406
-    commentsToLikes: 0.020599
-    id: ck8t82qxliw8p0j78oosbc9io
+    followers: 18779
+    engagement: 1350
+    commentsToLikes: 0.039389
+    id: ck8szgi1vocu90j78q4ro2cz4
     verified: false
-    hashtags: "#thelastofus, #comfy, #paperbag, #instagamer"
-  - username: "isabellefollath"
-    fullname: >-
-      Isabelle Follath
-    location: "Switzerland"
-    followers: 18928
-    engagement: 703
-    commentsToLikes: 0.052326
-    id: ck5zybrws9lem0i14zsh1tv73
-    verified: false
-    hashtags: "#marthejocelyn, #empathylab, #buildempathy, #happybear"
-  - username: "_fichtre"
-    fullname: >-
-      FICHTRE !
-    location: "Switzerland"
-    followers: 5913
-    engagement: 704
-    commentsToLikes: 0.053636
-    id: ck5qdm4syw9420i117jyegptx
-    verified: false
-    hashtags: "#davidabram, #hommage, #streetview, #deleuzeguattari"
-  - username: "stillonoir"
-    fullname: >-
-      Tanya Heidrich
-    location: "Switzerland"
-    followers: 83649
-    engagement: 344
-    commentsToLikes: 0.015550
-    id: ckaotpkjwwxa10i78rrfp389h
-    verified: false
-    hashtags: "#treepattern, #estampado, #opart, #covidartmuseum"
+    hashtags: "#octobervibes, #cutebaby, #childrenbookillustrator, #characterdesign"
   - username: "carolinebonnemuller"
     fullname: >-
       Caroline Bonne Müller
+    bio: >-
+      🎨 Illustrator Represented by @jehane_ltd ✉️ info@carolinebonnemuller.com 🐳 Member SCBWI & AOI 🍄 co-founder: #folktaleweek & #portfolioclub
     location: "Switzerland"
     followers: 13428
     engagement: 634
     commentsToLikes: 0.050801
     id: ck14htro8c3k10i19pt28ovi1
     verified: false
-    hashtags: "#earthlover, #tweens, #waterellement, #artoninstagram"
-  - username: "lostswissmiss"
+    hashtags: "#greetings, #illustracion, #bolognachildrensbookfair, #portfolioclubnovember"
+  - username: "art_side_of_life"
     fullname: >-
-      Sarah Hernandez
+      Iva Mikles
+    bio: >-
+      ✏️ Illustrator 🎨 Top Skillshare Teacher 🎬 Podcast/YouTube : artsideoflife ⭐️ Classes + Shop + Links ↓
     location: "Switzerland"
-    followers: 68951
-    engagement: 136
-    commentsToLikes: 0.006231
-    id: ck0u8a3f76xta0i19wpoyqzk4
+    followers: 151520
+    engagement: 516
+    commentsToLikes: 0.008198
+    id: ck8t7w23ri5kv0j78kh6uygbh
     verified: false
-    hashtags: "#swisstattooers, #ladytattooers, #blackwork"
-  - username: "pinkm0on_"
+    hashtags: "#minimalistart, #interiordecoration, #drawingprocess, #swissposter"
+  - username: "isabellefollath"
     fullname: >-
-      𝗣𝗜𝗡𝗞𝗠𝗢𝗢𝗡🌙 𝘚𝘢𝘪𝘺𝘢𝘯’𝘴 𝘮𝘰𝘰𝘥
+      Isabelle Follath
+    bio: >-
+      Illustrator based in Zürich, Switzerland Represented by @pickledink
     location: "Switzerland"
-    followers: 2339
-    engagement: 2531
-    commentsToLikes: 0.229708
-    id: ck8tagdylrn420j78ke8brh1j
+    followers: 18928
+    engagement: 703
+    commentsToLikes: 0.052326
+    id: ck5zybrws9lem0i14zsh1tv73
     verified: false
-    hashtags: "#instageek, #pikapika, #funkodisney, #disneyfigures"
-  - username: "dario_desiena"
+    hashtags: "#childrensbookillustration, #penandink, #kidlitart, #aggiemortonmysteryqueen"
+  - username: "anniko_story"
     fullname: >-
-      Painting🎨Artist🖌
+      Anna Kuptsova - illustrator
+    bio: >-
+      ☘️Creating art & positive vibes 🎯For commissions & collaborations contact me: anna.kuptsova@yahoo.com © 👇Website, blog, shop:
     location: "Switzerland"
-    followers: 29300
-    engagement: 559
-    commentsToLikes: 0.046081
-    id: ck0w6hlir8lqj0i19c7zbr1dw
+    followers: 23328
+    engagement: 506
+    commentsToLikes: 0.052170
+    id: ck8tcjjpbzmyp0j786imuo32g
     verified: false
-    hashtags: "#limited, #arttohelp, #swissartwork, #maskedgirl"
-  - username: "kevinreiterer"
+    hashtags: "#magicart, #freelanceillustrator, #2danimation, #backgroundart"
+  - username: "art_petra"
     fullname: >-
-      Kevin Reiterer
+      Petra Stastny
+    bio: >-
+      • Artiste, femme, caméléon 🦎 • Married to @feliz_martinuus 🇮🇩🇨🇭🇨🇿 •📍Geneva, Switzerland • NIKAH SAMA "BULE TUA" ENAK ? #QandA 🎥👇
     location: "Switzerland"
-    followers: 6087
-    engagement: 487
-    commentsToLikes: 0.012092
-    id: ck5cdekybj1dr0i11dfxh8xe6
+    followers: 9362
+    engagement: 991
+    commentsToLikes: 0.033807
+    id: ckaoxeezjcwkm0i78cbb3434t
     verified: false
-    hashtags: "#grateful, #design, #bullettracing, #positivity"
+    hashtags: "#summertrip, #artwork, #sketsatawa, #travelling"
 ---

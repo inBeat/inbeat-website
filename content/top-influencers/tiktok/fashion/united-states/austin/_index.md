@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Austin In 2020
 description: >-
-  Find top fashion TikTok influencers in Austin in 2020. Most popular hashtags: #austinpowers #funny #inthehouseparty #music.
+  Find top fashion TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #fashion #greenscreen #foryou.
 platform: TikTok
+hits: 88
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 88 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "modishchampagneclub"
+  - username: "k8mobile"
     fullname: >-
-      ModishChampagneClub
+      Katie Nevels
+    bio: >-
+      Minor cussing problem. Pronounced Kate-Moe-Beel.
     location: "United States"
-    followers: 3834
-    engagement: 1120
-    commentsToLikes: 0.068366
-    id: ck8qic7um8gsp0j78mod4y8t6
+    followers: 14200
+    engagement: 354
+    commentsToLikes: 0.058986
+    id: ckb9ve6rpuj8c0j23hvi3fep4
     verified: false
-    hashtags: "#boredathome, #duet, #designerbelt, #carepackage"
-  - username: "erinsamjo"
+    hashtags: "#jeepcompass, #jeepgang, #trx, #trailhawk"
+  - username: "cici_tatts"
     fullname: >-
-      ⚡️Coisedmeme⚡️
+      Ciara Rose
+    bio: >-
+      Just a girl with a butt chin! #TEAMBUTTCHIN Follow my art tiktok: @ciararoseart
     location: "United States"
-    followers: 217395
-    engagement: 3367
-    commentsToLikes: 0.021687
-    id: ck8w4nc878rb00j78n59rqpdr
+    followers: 36300
+    engagement: 1054
+    commentsToLikes: 0.031187
+    id: ck83wq0qslgvh0j787jw8hgcz
     verified: false
-    hashtags: "#rant, #makeupremoval, #fashion, #austinpowers"
-  - username: "ninaberenato"
+    hashtags: "#halloween, #micellarrewind, #worldseries, #wewintogether"
+  - username: "jenbunniepyt"
     fullname: >-
-      Nina Berenato
+      Jennifer Seeley
+    bio: >-
+      Redheads rule the galaxy 💋
     location: "United States"
-    followers: 11859
-    engagement: 627
-    commentsToLikes: 0.011779
-    id: ck81s9n0nr1y10j785ei5mkqu
+    followers: 2260
+    engagement: 671
+    commentsToLikes: 0.061572
+    id: ckav2n3cr8yu80j23dvx7i9al
     verified: false
-    hashtags: "#jeweleymaking, #getthelook, #tomboy, #realtalk"
+    hashtags: "#dance, #herekittykittykitty, #redlips, #havingfun"
+  - username: "hexrome"
+    fullname: >-
+      Rumman Al-Shaikh
+    bio: >-
+      All of my content Insta: hexrome Austin, Tx
+    location: "United States"
+    followers: 9368
+    engagement: 1109
+    commentsToLikes: 0.019237
+    id: ckb1bczp5zwy70j23ijms22en
+    verified: false
+    hashtags: "#supercar, #lamborghini, #carsoftiktok, #ferrari"
   - username: "swiftwellness"
     fullname: >-
       swiftwellness
+    bio: >-
+      fashion + affordable beauty reviews + Amazon finds in Austin TX Links here 👇🏻
     location: "United States"
-    followers: 204135
-    engagement: 751
-    commentsToLikes: 0.063306
+    followers: 206900
+    engagement: 726
+    commentsToLikes: 0.031344
     id: ck81q0y7qf2fw0j7865fjsj3q
     verified: false
-    hashtags: "#myoutfit, #bodypositivity, #healthheroes, #shop"
-  - username: "mariana.zarag"
+    hashtags: "#amazonfashion, #amazonhaul, #founditonamazon, #amazonfinds2020"
+  - username: "ninaberenato"
     fullname: >-
-      Mariana Zaragoza
+      Nina Berenato
+    bio: >-
+      I own an all-girl jewelry studio in Austin 🛠 Handmade • Custom • One of a Kind
     location: "United States"
-    followers: 2383
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: cka6czpu362630i78a6or5cw4
+    followers: 116400
+    engagement: 1422
+    commentsToLikes: 0.016162
+    id: ck81s9n0nr1y10j785ei5mkqu
     verified: false
-    hashtags: "#homeactivities, #easy, #mealprep, #sharerecipes"
-  - username: "retro1990s"
+    hashtags: "#fashion, #ootd, #smallbusiness, #smallbusinesscheck"
+  - username: "missjeannine"
     fullname: >-
-      Retro 90s Content
+      Nene
+    bio: >-
+      22 | Austin, Tx📍 Owner of Nine Collections✨
     location: "United States"
-    followers: 8841
-    engagement: 712
-    commentsToLikes: 0.028625
-    id: cka0g3fo32cx20i78lx92dy9a
+    followers: 18600
+    engagement: 1362
+    commentsToLikes: 0.021559
+    id: ckbkx2gdesyfq0j23x5ypx5ig
     verified: false
-    hashtags: "#lunchables, #mascara, #90smusic, #pamelaanderson"
-  - username: "dopelmar"
+    hashtags: "#zodiac, #showupshowoff, #couple, #greenscreenvideo"
+  - username: "austinmarieclaire"
     fullname: >-
-      Eᒪᗰᗩᖇ ᒪᗩᖇOYᗩ
+      Austin Williams 
+    bio: >-
+      Follow my Instagram!! 👻- austinmarie22 I make a lot of bad decisions on here 🙂
     location: "United States"
-    followers: 21241
-    engagement: 653
-    commentsToLikes: 0.014981
-    id: ck8nk1wbtd5xg0j78uj31pyei
+    followers: 485400
+    engagement: 1014
+    commentsToLikes: 0.007703
+    id: ck83zey9d05e10j78ifhq2pkh
     verified: false
-    hashtags: "#afrodance, #slowmotutorial, #apple, #hawaii"
-  - username: "mewtwowilliam"
+    hashtags: "#fyp, #hairfail, #foryou, #hairtransformation"
+  - username: "whitneyhanson7"
     fullname: >-
-      Will!
+      Whitney Hanson
+    bio: >-
+      Music/fashion/imperfection Email: whitneyhansontiktok@gmail
     location: "United States"
-    followers: 35663
-    engagement: 1980
-    commentsToLikes: 0.041866
-    id: ck8kmg2tl8dsw0j78sd3hziyq
+    followers: 238700
+    engagement: 988
+    commentsToLikes: 0.021211
+    id: ck99aut4bj6s20j7834w2g1hu
     verified: false
-    hashtags: "#poseathome, #foodfam, #gonnabefriends, #retailtherapy"
-  - username: "nitabita94"
+    hashtags: "#xc, #powerpoint, #duet, #music"
+  - username: "sssimplygrace"
     fullname: >-
-      Nitabita94
+      Grace & Bryson
+    bio: >-
+      I am 20 years old @ FSU 😳🙏🏼 and I want to work in FASHION 😂💯 thank you❗️❗️
     location: "United States"
-    followers: 13610
-    engagement: 1955
-    commentsToLikes: 0.015406
-    id: ck9nidra1gs5k0j78szeq55bh
+    followers: 280000
+    engagement: 1001
+    commentsToLikes: 0.028872
+    id: ck8f9398b3q5r0j78v6pdyly9
     verified: false
-    hashtags: "#fyp, #rollers, #pinkpanther, #styling"
-  - username: "hollywoodlife"
-    fullname: >-
-      HollywoodLife
-    location: "United States"
-    followers: 263012
-    engagement: 990
-    commentsToLikes: 0.022251
-    id: ck961kvc0n1vc0j78bchy6uq7
-    verified: true
-    hashtags: "#powercouple, #moana, #jbalvin, #lizakoshy"
+    hashtags: "#levitating, #problemsolved, #timewarpscan, #emilyinparis"
 ---

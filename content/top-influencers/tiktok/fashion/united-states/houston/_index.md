@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Houston In 2020
 description: >-
-  Find top fashion TikTok influencers in Houston in 2020. Most popular hashtags: #fashion #neverfitin #poseathome #tiktokcovers.
+  Find top fashion TikTok influencers in Houston in 2020. Most popular hashtags: #fyp #foryou #fashion #greenscreen.
 platform: TikTok
+hits: 34
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 34 TikTok influencers like this in Houston, United States for you to contact.
 profiles:
-  - username: "madihajdhanani"
+  - username: "richluxvlogs"
     fullname: >-
-      Madiha Dhanani
+      RICH LUX
+    bio: >-
+      Just a clown
     location: "United States"
-    followers: 205177
-    engagement: 783
-    commentsToLikes: 0.038494
-    id: ckacv71glmgzt0i781w53yzrh
+    followers: 6115
+    engagement: 742
+    commentsToLikes: 0.043702
+    id: cka0om60c4gt90i78xgbabpjs
     verified: false
-    hashtags: "#bestfandom, #decadesofhair, #accutane, #everydayscience"
-  - username: "sj.houston"
+    hashtags: "#richlux713, #richlux, #fashion, #houston"
+  - username: "slammin710"
     fullname: >-
-      SJ
+      Jamie🌬💖🌸
+    bio: >-
+      20/HTX/420 🌙🌸💫🌷✨ 💕 She/they
     location: "United States"
-    followers: 4514
-    engagement: 1351
-    commentsToLikes: 0.047026
-    id: ck9keus8g0ied0j78x1nj1qso
+    followers: 84600
+    engagement: 1925
+    commentsToLikes: 0.020169
+    id: ck8ts7b6hr3zt0j782qtt15y4
     verified: false
-    hashtags: "#extra, #greedy, #name, #datingstorytime"
-  - username: "htx.hannah"
+    hashtags: "#entrepreneur, #foryou, #duet, #greenscreen"
+  - username: "maceymerolling"
     fullname: >-
-      🥀hannah🥀
+      Macey Hodge
+    bio: >-
+      18 Houston Tx Apple Music: MaceyH1 🦋✨💋🧚🏻‍♂️🍄💫🤍🧿
     location: "United States"
-    followers: 14772
-    engagement: 1214
-    commentsToLikes: 0.041533
-    id: ck90tzfd8uqfa0j787mzmduwi
+    followers: 2377
+    engagement: 791
+    commentsToLikes: 0.114227
+    id: ckcv0n7nrn8zj0j23d88u2xie
     verified: false
-    hashtags: "#promlook, #rosa, #share, #maketheleap"
-  - username: "zorayavela"
+    hashtags: "#fyp, #greenscreen, #doitbold, #duet"
+  - username: "veryrarebrandonn"
     fullname: >-
-      Zoraya Vela 
+      Brandon♠️
+    bio: >-
+      Houston, TX 🤴🏽 Ig-veryrarebrandonn1 6k ?💕 Old Ig got hacked so New one ↗️
     location: "United States"
-    followers: 11433
-    engagement: 513
-    commentsToLikes: 0.055438
-    id: ck9a6pd1143xz0j783hpm5yxa
+    followers: 5635
+    engagement: 2344
+    commentsToLikes: 0.050465
+    id: ckczxyvtk740z0j23pvt5557n
     verified: false
-    hashtags: "#latina, #housetour, #momsbelike, #iwanttothankme"
+    hashtags: "#foryou, #xybzca, #fyp, #viral"
+  - username: "mr___fabulous"
+    fullname: >-
+      MRFABULOUS
+    bio: >-
+      I CREATE MAKEUP TUTORIALS. IG: @mr.fabulous 📍Houston,TX
+    location: "United States"
+    followers: 6400
+    engagement: 1432
+    commentsToLikes: 0.040993
+    id: ck9kbo92um0d30j78ncc6kmd5
+    verified: false
+    hashtags: "#fyp, #beauty, #freddykrueger, #freddykruegermakeup"
+  - username: "ashlynnhirth"
+    fullname: >-
+      Ashlynn Hirth
+    bio: >-
+      Instagram: ashlynnhirth Houston
+    location: "United States"
+    followers: 43800
+    engagement: 997
+    commentsToLikes: 0.038800
+    id: ckbf8f7w1ywb70j23kqsd2gmy
+    verified: false
+    hashtags: "#greenscreen, #transformation, #fyp, #foryou"
+  - username: "stylesby.nic"
+    fullname: >-
+      Nic
+    bio: >-
+      ✨Personal Stylist✨ Your virtual access to styleTunes Hair | Fashion | Fun
+    location: "United States"
+    followers: 17500
+    engagement: 962
+    commentsToLikes: 0.043020
+    id: ckbqodzlo91tc0j23cxecsi4y
+    verified: false
+    hashtags: "#styletips, #blacktiktok, #naturalhair, #foryou"
+  - username: "bethanywei"
+    fullname: >-
+      *✧･ﾟ♡*beth*♡･ﾟ✧･ﾟ*
+    bio: >-
+      20 🇰🇭🇨🇳 houston i’m blonde sometimes
+    location: "United States"
+    followers: 73200
+    engagement: 1362
+    commentsToLikes: 0.019700
+    id: ckb98uz3ksl1r0j23zuh77dr3
+    verified: false
+    hashtags: "#fyp, #asian, #thecoldestwater, #iamactuallysmarttho"
   - username: "ariossssx"
     fullname: >-
       Ariossssx
+    bio: >-
+      DEACTIVATED AT 100k | Zacatecas MX 🇲🇽| HOUSTON TX
     location: "United States"
-    followers: 22877
-    engagement: 546
-    commentsToLikes: 0.008259
+    followers: 32200
+    engagement: 750
+    commentsToLikes: 0.010418
     id: ck9er9ce30q270j786769jrra
     verified: false
-    hashtags: "#bangkok, #greenscreen, #musiclives, #california"
-  - username: "dessimonoff"
+    hashtags: "#texas, #foryou, #houston, #foryoupage"
+  - username: "chiarabrody"
     fullname: >-
-      dessimonoff
+      Chiara 
+    bio: >-
+      Former Ballerina 🩰 Fashion Editor Style Tips and Wellness NEW VIDEO 👇🏼
     location: "United States"
-    followers: 39836
-    engagement: 302
-    commentsToLikes: 0.011817
-    id: ck9v17ljmft3g0j784l2ozgix
+    followers: 11500
+    engagement: 540
+    commentsToLikes: 0.038889
+    id: ck8kohwiphrpk0j78d6fcokxn
     verified: false
-    hashtags: "#nailart, #heels, #decadesofhair, #bday"
-  - username: "curvybaybee520"
-    fullname: >-
-      CURVYBayBee520
-    location: "United States"
-    followers: 52936
-    engagement: 1202
-    commentsToLikes: 0.032523
-    id: cka9lj1m02drk0i78ajeer61g
-    verified: false
-    hashtags: "#nailinspo, #vazquez, #plussizefashion, #mybody"
-  - username: "cayden.mccoy"
-    fullname: >-
-      Cade
-    location: "United States"
-    followers: 21243
-    engagement: 1158
-    commentsToLikes: 0.013843
-    id: ck8kez4jabtyu0j78t7ms119g
-    verified: false
-    hashtags: "#givemeasign, #biggestfear, #fashion, #howiwalk"
-  - username: "nicknguyen1394"
-    fullname: >-
-      Nhat Nguyen
-    location: "United States"
-    followers: 82250
-    engagement: 422
-    commentsToLikes: 0.011442
-    id: ck9n8yepw8z760j78gr769j26
-    verified: false
-    hashtags: "#rolex, #chain, #custom, #houstongrillz"
-  - username: "qqamarr"
-    fullname: >-
-      qamar 🧚‍♀️✨🪐
-    location: "United States"
-    followers: 61621
-    engagement: 1995
-    commentsToLikes: 0.043336
-    id: ck9n95b7l958g0j7848xtvspl
-    verified: false
-    hashtags: "#zonut, #tiktokarab, #bieber, #haileybieber"
+    hashtags: "#yogalove, #outfitchange, #softgirlaesthetic, #outfitideas"
 ---

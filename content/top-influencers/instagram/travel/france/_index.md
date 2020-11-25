@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In France In 2020
 description: >-
-  Find top travel Instagram influencers in France in 2020. Most popular hashtags: #giveaway #homesweethome #london #home.
+  Find top travel Instagram influencers in France in 2020. Most popular hashtags: #wanderlust #passionpassport #explorerbabes.
 platform: Instagram
+hits: 2890
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 2890 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "camisomc"
+    fullname: >-
+      ⚜️𝓒𝓪𝓶𝓲𝓼𝓸⚜️🅩🅞🅤🅗🅔🅘🅡⚜️
+    bio: >-
+      𝓐 𝓵𝓪 𝓻𝓮𝓬𝓱𝓮𝓻𝓬𝓱𝓮 𝓭𝓾 𝓫𝓸𝓷𝓱𝓮𝓾𝓻.. 🧗🏽‍♂️ In love 💎 @kassandra_smnt 🍒 Lifestyle • Travel • Model 🏝 Mandataire immo IAD🏡 STAFF Basic fit🏋🏽
+    location: "France"
+    followers: 2519
+    engagement: 2368
+    commentsToLikes: 0.286921
+    id: ck6u08k62e87m0j71hnk7y9dp
+    verified: false
+    hashtags: "#lookoftheday, #tendance, #blackeyes, #goldenhour"
+  - username: "sisiangelove"
+    fullname: >-
+      S I S I 🎀 | BLOGGER&DREAMER
+    bio: >-
+      Travel • Fashion • Lifestyle 🌍Creator of #the12project2019 ✈️Exploring beautiful places around the world 📍Sofia, Bulgaria
+    location: "France"
+    followers: 9746
+    engagement: 1490
+    commentsToLikes: 0.199851
+    id: ck9hbpabohvg00j782prd70tu
+    verified: false
+    hashtags: "#giveaway, #glutenfreebg, #bezglutenbulgaria, #balviten"
+  - username: "wanderlustyralu"
+    fullname: >-
+      Raluca Oprea
+    bio: >-
+      🧠 MD Psychiatry Resident ✈️ Looking at life through travel-colored glasses 🎓 President at @fasmrromania 🌍 38 countries & counting
+    location: "France"
+    followers: 5880
+    engagement: 1476
+    commentsToLikes: 0.089824
+    id: ck8t50pc48gof0j78wof43pim
+    verified: false
+    hashtags: "#fathombracelets"
+  - username: "coco_life18"
+    fullname: >-
+      Coralie 🌸
+    bio: >-
+      ♡ Happy Mum♡ Clara & Calvin ♡ In love ♡ ☆ Lifestyle, Look, Food, Déco, Travel ☆
+    location: "France"
+    followers: 6458
+    engagement: 1362
+    commentsToLikes: 0.394079
+    id: ckf5r3xhebc290j23x86qrar4
+    verified: false
+    hashtags: "#dailylook, #outfit, #fashion, #ootdshare"
   - username: "lady_pitaya"
     fullname: >-
-      Kristin T.
+      Christine T.
+    bio: >-
+      📍Paris 🇨🇵 Travel lover 🛩️🌍 A little geek in my spare time 🤓
     location: "France"
-    followers: 8535
-    engagement: 2510
-    commentsToLikes: 0.118158
+    followers: 14430
+    engagement: 1273
+    commentsToLikes: 0.167510
     id: ck5zsif4wyk0a0i14rjasoi4m
     verified: false
-    hashtags: "#cordoue, #granadaespa, #natureportrait, #denimshorts"
-  - username: "kassandra_smnt"
+    hashtags: "#falloutfit, #robepull, #asianmodel, #sheinoutfit"
+  - username: "liv_hanna_d"
     fullname: >-
-      Kassandra Simonnet
+      Liv Hanna D
+    bio: >-
+      📃 My visual travel diary 🇫🇷 Based in Lyon #france 📷 Canon France/DJI 📩 livhannad@gmail.com
     location: "France"
-    followers: 2413
-    engagement: 2497
-    commentsToLikes: 0.142723
-    id: ck6u08jdfe83n0j71ffn9otw5
+    followers: 52110
+    engagement: 977
+    commentsToLikes: 0.062502
+    id: ck0w57xx42cao0i195imlrikj
     verified: false
-    hashtags: "#equave, #londres, #selfie, #venise"
-  - username: "jenniferlaw.style"
+    hashtags: "#blogger, #wonderful, #toureiffel, #travel"
+  - username: "travelofemotions"
     fullname: >-
-      J E N N I F E R | L A W
+      LORAINE 🏞💕
+    bio: >-
+      🇫🇷 French girl | Traveling the wolrd | Paris & Munich 🌻Personal development 💌travelofemotions@gmail.com ⬇️MON BLOG VOYAGES & AVENTURES
     location: "France"
-    followers: 5285
-    engagement: 1821
-    commentsToLikes: 0.243880
-    id: ck6u816q8ou1i0j71zdnn3alu
+    followers: 24393
+    engagement: 926
+    commentsToLikes: 0.060426
+    id: ck13cwshf2jo70i197fsmdvjn
     verified: false
-    hashtags: "#staypositive"
-  - username: "littlejustreview"
+    hashtags: "#mountainstones, #igersfrance, #globetrotter, #sunriselovers"
+  - username: "saraverjans"
     fullname: >-
-      JUSTINE | LITTLEJUSTREVIEW
+      S a r a 🍁 travel & lifestyle
+    bio: >-
+      Your daily dose of at home and far away inspiration 🍂 • Travel & coffee love ☕️ • Interior & aesthetics 📍Belgium
     location: "France"
-    followers: 11278
-    engagement: 1746
-    commentsToLikes: 0.149110
-    id: ck5pwuzztoqo20i11lr2ikrt9
+    followers: 3462
+    engagement: 2934
+    commentsToLikes: 0.358668
+    id: ckapbo6au0o220i7868p79uwm
     verified: false
-    hashtags: "#originsfrance, #alwaysfabulous, #outfitinspo, #yesiamchallenge"
-  - username: "sausau__"
+    hashtags: "#goldenhourlight, #iamtb, #wonderful, #journeysofgirls"
+  - username: "amanda.lm"
     fullname: >-
-      Sausau
+      A M A N D A 🌸
+    bio: >-
+      🇫🇷|🇵🇹 Travel 🌍 Keep smiling life is beautiful 🕊
     location: "France"
-    followers: 17694
-    engagement: 1365
-    commentsToLikes: 0.257143
-    id: ck5zkxelukcal0i14arveg083
+    followers: 5019
+    engagement: 1790
+    commentsToLikes: 0.215018
+    id: ckf5ng7way4mo0j23d13qzthl
     verified: false
-    hashtags: "#fashionweek, #foodporn, #travellover, #foodlover"
-  - username: "adele_tsy"
+    hashtags: ""
+  - username: "travelmoreland"
     fullname: >-
-      Adele 🌴
+      Antonis & Angelina║Island Life
+    bio: >-
+      💛 Best spots, love & inspiration 🎞 Edit like us @travelmorepresets 📸 Shop our filters 💥 sales up to 50% 🌈 Travel more, explore 🇬🇷🇨🇾 📍#cyprus
     location: "France"
-    followers: 55249
-    engagement: 1054
-    commentsToLikes: 0.051717
-    id: ck13604yb43nf0i19jlcwxc3o
+    followers: 12614
+    engagement: 1353
+    commentsToLikes: 0.407936
+    id: ck8tb3s9cu5ix0j7886hm5myt
     verified: false
-    hashtags: "#maisjailaflemme, #iphone11pro, #zara, #gauffre"
-  - username: "alexandra__panagiotarou"
-    fullname: >-
-      Αλεξάνδρα Παναγιώταρου
-    location: "France"
-    followers: 245318
-    engagement: 786
-    commentsToLikes: 0.477478
-    id: ck5zl0awnkhuw0i14oikiiafk
-    verified: false
-    hashtags: "#doglife, #myathens, #happymoments, #mypuppy"
-  - username: "themodestparisian"
-    fullname: >-
-      The Modest Parisian
-    location: "France"
-    followers: 9482
-    engagement: 1742
-    commentsToLikes: 0.086270
-    id: ck6u56ctu7uoy0j71pyfr6nrl
-    verified: false
-    hashtags: "#lipstain, #selfiehijab, #parisiennestyle, #flatlayoftheday"
-  - username: "wineandbubblelover"
-    fullname: >-
-      Ms Jessica 🥂
-    location: "France"
-    followers: 10561
-    engagement: 1440
-    commentsToLikes: 0.148496
-    id: ck14jo2uxlbso0i19uzslh1z7
-    verified: false
-    hashtags: "#roseallday, #slowwine, #giveaway, #netflixandchablis"
-  - username: "passiontravelers"
-    fullname: >-
-      TRAVEL COUPLE | EARTH LOVERS 🦋
-    location: "France"
-    followers: 17437
-    engagement: 1222
-    commentsToLikes: 0.125833
-    id: ck6uavtev5yq20j71k94nrpcl
-    verified: false
-    hashtags: "#lovers, #couplequotes, #zellamsee, #travelmore"
+    hashtags: "#seacaves, #relationshipgoals, #cypruslife, #couplesession"
 ---

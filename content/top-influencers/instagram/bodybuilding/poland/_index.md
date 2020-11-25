@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Poland In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Poland in 2020. Most popular hashtags: #bodybuilding #motywacja #szpilki #motivation.
+  Find top bodybuilding Instagram influencers in Poland in 2020. Most popular hashtags: #bodybuilding #polishgirl #workout #trening.
 platform: Instagram
+hits: 218
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 218 Instagram influencers like this in Poland for you to contact.
 profiles:
   - username: "gainzdesire"
     fullname: >-
-      Mikołaj Żegliński
+      Mikołaj Żegliński
+    bio: >-
+      🥇Mistrz Czech ICN 🏆NATURAL BODYBUILDING COACH 🇵🇱TEAM#gainzdesireteam 📈PROWADZENIE ONLINE 📚INFOGRAFIKI👉🏻 @scidesire 👨🏻‍🏫SZKOLENIE👇🏻
     location: "Poland"
-    followers: 21241
-    engagement: 429
-    commentsToLikes: 0.016676
+    followers: 22191
+    engagement: 430
+    commentsToLikes: 0.021449
     id: ck6tybuep2tmk0j71edexwgya
     verified: false
-    hashtags: "#kalistenika, #przypinka, #dobreszkolenie, #cholina"
+    hashtags: "#dietetykasportowa, #dietetyk, #dietabezdiety, #gymguy"
+  - username: "karolstuglik"
+    fullname: >-
+      Karol Stuglik
+    bio: >-
+      IFBB Pro Bodybuilder Diamond Cup 2016 Overall Winner IFBB PRO Maker Bodybuilding Coach @bsn_pl Sponsored Athlete
+    location: "Poland"
+    followers: 28755
+    engagement: 422
+    commentsToLikes: 0.012338
+    id: ck14gqb0f6ih30i19crejfv8y
+    verified: false
+    hashtags: "#forma, #wymagajodsiebie, #bodybuilding, #fitfam"
   - username: "inspektorin"
     fullname: >-
-      Magda
+      Magda 🇪🇺🇵🇱🏳️‍🌈
+    bio: >-
+      🏋🏻‍♀️Gym 💪Bodybuilding 🍓Foodlover 🌱Healthylifestyle
     location: "Poland"
-    followers: 5253
-    engagement: 1480
-    commentsToLikes: 0.029838
+    followers: 5056
+    engagement: 1333
+    commentsToLikes: 0.026095
     id: ckap5hhukbpdk0i78zh93olmk
     verified: false
-    hashtags: "#omlette, #brzoskwinia, #omletpizza, #deser"
+    hashtags: "#goodmorning, #sniadaniemistrzow, #healthyfood, #healthy"
   - username: "fornalskimaciek"
     fullname: >-
       maciek fornalski
+    bio: >-
+      #bodybuilding #cooking #healthyfood #drummer
     location: "Poland"
     followers: 2636
     engagement: 1569
     commentsToLikes: 0.043057
     id: ck15tcsnkhgrh0i19xwq4vtdv
     verified: false
-    hashtags: "#tatoos, #inkedboy, #tattoostyle, #bcaa"
-  - username: "natalisia237"
+    hashtags: ""
+  - username: "ela_fab_"
     fullname: >-
-      Natalia
+      Ela
+    bio: >-
+      💪20%https://olimpsport.com/pl/ kod rabat „Elafab” 💪Team @xtreme_fitness_gyms 💪15% Sklep Furia Kod rabat „elafab” www. sklepfuria.pl/
     location: "Poland"
-    followers: 11565
-    engagement: 1164
-    commentsToLikes: 0.081312
-    id: ckaorg8t5n2q10i78658n5h1c
+    followers: 8586
+    engagement: 1510
+    commentsToLikes: 0.137020
+    id: ck9hbtw96iff10j78lo7v1r3a
     verified: false
-    hashtags: "#instapiatek, #happy, #shopping, #merribeleu"
-  - username: "ppmieszko"
+    hashtags: "#mylife, #olimp, #strongwomen, #motivation"
+  - username: "trener_marcin"
     fullname: >-
-      Ppmieszko
+      Marcin Krzesiński
+    bio: >-
+      💪🏽 Certified PT (Warsaw) 🍎 Student of dietetics 📥 Collaboration: marcinkrzesinski.wspolpraca@gmail 🔑 @dietbox_ kod rabatowy -15%: TRENER_MARCIN
     location: "Poland"
-    followers: 9075
-    engagement: 1274
-    commentsToLikes: 0.086679
-    id: ck5pyduylvjhw0i11bi9bacjr
+    followers: 7548
+    engagement: 1226
+    commentsToLikes: 0.087932
+    id: ck9hcghkel9y50j78hab2jrkn
     verified: false
-    hashtags: "#nagrywki, #trener, #leginsy, #silownia"
-  - username: "summerszysz"
+    hashtags: "#trenerpersonalny, #kateringdietetyczny, #polishboy, #warszawa"
+  - username: "_szubert_"
     fullname: >-
-      Aneta
+      Wiktoria Szubert
+    bio: >-
+      Studentka dietetyki 👩🏽‍🎓 Kontakt 📧 ➡️wikaszubert@gmail.com #gymherogirl 💗 KOD „szubert” -15% http://gymhero.eu/
     location: "Poland"
-    followers: 96250
-    engagement: 695
-    commentsToLikes: 0.028159
-    id: ck8tds92n4l4p0j78vkzkldjk
+    followers: 25665
+    engagement: 622
+    commentsToLikes: 0.066604
+    id: ck8t9ohzzore40j78xfxzuqwm
     verified: false
-    hashtags: "#lovely, #shorthair, #girlswithtattoo, #outfit"
-  - username: "asia.siudak"
+    hashtags: "#body, #fitdziewczyna, #gymgirl, #legs"
+  - username: "zetesis1727"
     fullname: >-
-      𝐀𝐬𝐢𝐚 𝐒𝐢𝐮𝐝𝐚𝐤
+      
+    bio: >-
+      Filozof, psycholog, podróżniczka. Kocham trenować mózg i ciało😉 collaboration - zetesis@o2.pl
     location: "Poland"
-    followers: 8744
-    engagement: 1068
-    commentsToLikes: 0.100511
-    id: ck8t2f1gfz8pu0j78km9wygn6
+    followers: 110273
+    engagement: 476
+    commentsToLikes: 0.046201
+    id: ck6tv3poxjzz60j71z7zgvycd
     verified: false
-    hashtags: "#bluza, #ss2020, #springvibes, #girllook"
-  - username: "nikolabasta_"
+    hashtags: "#lillylashes, #lingerieoftheday, #fitnessgirl, #smile"
+  - username: "kasiula.fit"
     fullname: >-
-      Nikola🏋🏼‍♀️ | FITNESS | FOOD |
+      Kasia Dzierżanowska
+    bio: >-
+      TRENER PERSONALNY 📩prowadzenie online ⭐️ @carpatree -20% „KASIULA.FIT” ⭐️ @sklep.sfd-10% „KASIA10” ⭐️ @gipara_fitness -30% „KASIA30”
     location: "Poland"
-    followers: 18305
-    engagement: 1154
-    commentsToLikes: 0.034766
-    id: ck8t18l1but9i0j788l4d8lm6
+    followers: 10321
+    engagement: 1339
+    commentsToLikes: 0.044562
+    id: ck8t3q16w41zv0j78akzvxrfv
     verified: false
-    hashtags: "#hello, #treningwdomu, #boredinthehouse, #lazy"
-  - username: "daro_mnswr"
+    hashtags: "#body, #si, #fitgirl, #fitslodycze"
+  - username: "oliwkamorawska"
     fullname: >-
-      Darek Kozdraś
+      Oliwia Morawska
+    bio: >-
+      📍Wrocław 💌 morawska000@gmail.com
     location: "Poland"
-    followers: 60143
-    engagement: 366
-    commentsToLikes: 0.049432
-    id: ck14gjb5j5ih20i199ocgb4mu
+    followers: 29410
+    engagement: 951
+    commentsToLikes: 0.030852
+    id: ckap056fyosj80i78ldqhorv8
     verified: false
-    hashtags: "#tinytinymoments, #springmood, #streetstyle, #springenergy"
-  - username: "oliwia_cyminska"
-    fullname: >-
-      Oliwia Cymińska
-    location: "Poland"
-    followers: 31758
-    engagement: 362
-    commentsToLikes: 0.099085
-    id: ck6txi4xpxyzk0j71vq0q25nw
-    verified: false
-    hashtags: "#fashionblogger, #polska, #instafashion, #friendship"
+    hashtags: "#brunette, #love, #potd, #polishmodel"
 ---

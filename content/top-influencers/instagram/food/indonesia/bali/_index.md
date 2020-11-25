@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Bali In 2020
 description: >-
-  Find top food Instagram influencers in Bali in 2020. Most popular hashtags: #beach #baby #food #healthyfood.
+  Find top food Instagram influencers in Bali in 2020. Most popular hashtags: #bali #baliindonesia #balilife #foodbali.
 platform: Instagram
+hits: 78
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 78 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "alenika_pro"
+  - username: "donnyhermatra"
     fullname: >-
-      🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
+      Donny Hermawan Saputra
+    bio: >-
+      TV Journalist of @liputan6news @sctv Bussines Inquires : 📥 DM 📩 donnyhermawan93@gmail.com "Everyhting can happen as long as you believe and workhard"
     location: "Indonesia"
-    followers: 51481
-    engagement: 91
-    commentsToLikes: 0.035807
-    id: ck5hokoj1pq850i11manr37sm
+    followers: 11340
+    engagement: 743
+    commentsToLikes: 0.050015
+    id: ck14j7u56izht0i1984npm1kj
     verified: false
-    hashtags: "#modelbali, #balitravel, #pool, #blogger"
+    hashtags: "#news, #job, #quotes, #likeforlikes"
+  - username: "meongculinary"
+    fullname: >-
+      Food | Lifestyle  - BALI 🇮🇩
+    bio: >-
+      🚪INVITATION / ENDORSE ( DM ) 📍 BALI 💌 mculinary2018@gmail.com @dapurbuzzer OHANA, DRKS, OKIN, SOCIA #lemonsquad @lemoninfluencer.id
+    location: "Indonesia"
+    followers: 30710
+    engagement: 270
+    commentsToLikes: 0.349663
+    id: ck5hcm5fciscz0i11t4jtaygh
+    verified: false
+    hashtags: "#wowlaper, #foodpics, #balichannel, #mukbang"
+  - username: "soezan85"
+    fullname: >-
+      SUSAN THERESIA || 📍BALI
+    bio: >-
+      FOODIES || LIFESTYLE || INFLUENCER DM ➡️ Endorse/Invitation/Paid Promote
+    location: "Indonesia"
+    followers: 132235
+    engagement: 33
+    commentsToLikes: 0.288993
+    id: ck6u0bs6zes990j71ex8chggf
+    verified: false
+    hashtags: "#foodbloggerbali, #like4likeback, #baliinfluencer, #foodblogeats"
+  - username: "kimyogii"
+    fullname: >-
+      kim Yogi️️️️️️️️️️️
+    bio: >-
+      Food Addict 🍕 Business Inquiry: 📩 email : kimyogiofficial@gmail.com Subscribe youtube aku ya ⬇️⬇️
+    location: "Indonesia"
+    followers: 115729
+    engagement: 565
+    commentsToLikes: 0.021619
+    id: ck0vwm4squh7l0i19m5gcbuz3
+    verified: false
+    hashtags: "#food, #bali, #makananindonesia, #halal"
+  - username: "pesonaputribali"
+    fullname: >-
+      Pesona Putri Bali
+    bio: >-
+      ➡️ 💞 Paid Promote Murah💞 ➡️ Wajib follow @pesonaputribali ➡️ Tag @pesonaputribali ➡️ Hastag #pesonaputribali ➡️ Di follow juga ya @balimekenyem
+    location: "Indonesia"
+    followers: 53602
+    engagement: 134
+    commentsToLikes: 0.016179
+    id: ck9wdm8nfgbf60j787jqal8qi
+    verified: false
+    hashtags: "#kekinian, #infodenpasar, #bajang, #bali"
+  - username: "ikasanz"
+    fullname: >-
+      Ikasanz Yoe ♠️
+    bio: >-
+      ●》INFLUENCER《● [ FITNESS ENTHUSIAST & HEALTHY LIFESTYLE ] ENDORSE // COLLABS DM 💌 Brand Ambassador @fansskin_id OWNER @nusantarahealthy 💚 📍 BALI 🌴
+    location: "Indonesia"
+    followers: 52127
+    engagement: 133
+    commentsToLikes: 0.562576
+    id: ck9wgk1f5trp10j78o2ldtyun
+    verified: false
+    hashtags: "#skincareproducts, #kulinercanggu, #facecare, #infokuliner"
+  - username: "bakso_indonesia"
+    fullname: >-
+      Bakso Indonesia
+    bio: >-
+      Media Informasi & Promosi Kuliner Bakso Indonesia👍 ↕↕↕↕↕ 💌WA👇💌
+    location: "Indonesia"
+    followers: 74381
+    engagement: 91
+    commentsToLikes: 0.009274
+    id: ck14la4yotm3o0i19cqhoshmf
+    verified: false
+    hashtags: "#dirumahaja, #baksopedas, #foodblogger, #resep"
+  - username: "dika_kaputra"
+    fullname: >-
+      Dika Kaputra
+    bio: >-
+      Menswear & Lifestyle ✉️ kaputradika@gmail.com Work with me LINE : dikakaputra Makassar, Indonesia
+    location: "Indonesia"
+    followers: 32745
+    engagement: 202
+    commentsToLikes: 0.153715
+    id: ck6uegtv8qtzu0j71f8c5znak
+    verified: false
+    hashtags: "#mensblog, #fashionstyle, #lfl, #ootdinspiration"
+  - username: "lisaanggara"
+    fullname: >-
+      LISA ANGGARA IN BALI 🥂
+    bio: >-
+      #TRAVEL | #FASHION | #LIFESTYLE #lisaanggaravisithotel 📍BALI ✈️ Perth - TBA
+    location: "Indonesia"
+    followers: 87877
+    engagement: 210
+    commentsToLikes: 0.010145
+    id: ck6u0rodvhdmp0j71wgslvkrw
+    verified: false
+    hashtags: "#exploreindonesia, #baliguide, #canggubali, #indonesia"
   - username: "bellmando"
     fullname: >-
       Anton Bilukha 📍 Bali
+    bio: >-
+      ✖️ @nasm_fitness Personal Trainer | 👶🏽 Dad-To-Be 📱 @wannatrain Ambassador | 📸 @lamodels Model 📚 ORDER 👉🏽 #abSHAPE Training & Nutrition Guide
     location: "Indonesia"
     followers: 43537
     engagement: 201
     commentsToLikes: 0.012660
     id: ck0vyhd2b405h0i19lwpbqmgq
     verified: false
-    hashtags: "#trackandfield, #onlinecoaching, #homeworkout, #fitnessjourney"
-  - username: "deaaristadewi"
-    fullname: >-
-      Travelwithdea
-    location: "Indonesia"
-    followers: 16035
-    engagement: 235
-    commentsToLikes: 0.014898
-    id: ck5hm0rfkl6vi0i110wcprh9a
-    verified: false
-    hashtags: "#couplegoals, #sunsetbeach, #instagood, #mood"
-  - username: "kuipersnick"
-    fullname: >-
-      Nick Kuipers
-    location: "Indonesia"
-    followers: 376153
-    engagement: 1905
-    commentsToLikes: 0.011995
-    id: ck0tyzo4qojr30i19ybgkpk4t
-    verified: true
-    hashtags: "#watch, #terimakasih, #adodenhaag, #giveaway"
-  - username: "arifwhy"
-    fullname: >-
-      Bumbu Indomie
-    location: "Indonesia"
-    followers: 4935
-    engagement: 413
-    commentsToLikes: 0.027964
-    id: ck13bdl1qux2u0i19gp4m087d
-    verified: false
-    hashtags: "#mascott, #parasite, #barong, #artobiantoro"
-  - username: "palakjain786"
-    fullname: >-
-      Palak Jain
-    location: "Indonesia"
-    followers: 103836
-    engagement: 537
-    commentsToLikes: 0.006404
-    id: ck0w0zfu5gss70i19jmnojq16
-    verified: true
-    hashtags: "#ubud, #nest, #zee5, #coffeeplantation"
-  - username: "balilifefood"
-    fullname: >-
-      Bali Life Food
-    location: "Indonesia"
-    followers: 118818
-    engagement: 207
-    commentsToLikes: 0.011693
-    id: ck0ud1vlri7vm0i19fzchql7a
-    verified: false
-    hashtags: "#buongiornocos"
-  - username: "wiolettatuschnio"
-    fullname: >-
-      vegan ⦙ health ⦙ sustainable
-    location: "Indonesia"
-    followers: 16829
-    engagement: 611
-    commentsToLikes: 0.059006
-    id: ck0ttg76y2kre0i19q8ixjxqe
-    verified: false
-    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
-  - username: "evelynegreselda"
-    fullname: >-
-      Evelyn👑
-    location: "Indonesia"
-    followers: 15857
-    engagement: 171
-    commentsToLikes: 0.011932
-    id: ck5q0p51r72fd0i11i3v5c5n4
-    verified: false
-    hashtags: "#hainanisland, #summeroutfit, #photographylovers, #christmas"
-  - username: "chefpriscilofficial"
-    fullname: >-
-      Priscilya Princessa 🏹
-    location: "Indonesia"
-    followers: 77194
-    engagement: 214
-    commentsToLikes: 0.023675
-    id: ck13cz5xt2uzc0i19o3k5fw2i
-    verified: true
-    hashtags: "#dapurseru, #dirumahaja, #sanguan, #socialdistancing"
+    hashtags: "#canggu, #pregnancy, #thebalibible, #personaltrainer"
 ---

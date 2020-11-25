@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top fashion TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fashionhacks #tiktokwellness #fashion #vibewithme.
+  Find top fashion TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fashion #fyp #losangeles #viral.
 platform: TikTok
+hits: 127
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 127 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "mariasamanoo"
+  - username: "therealjuliajolie"
     fullname: >-
-      Airam
+      Julia Jolie
+    bio: >-
+      126K verified on IG Obsessed with Hacks! Beauty, Fashion, Home!
     location: "United States"
-    followers: 3408
-    engagement: 731
-    commentsToLikes: 0.019987
-    id: ck7zoyudmmiw30j781ew4ye15
+    followers: 56500
+    engagement: 511
+    commentsToLikes: 0.033908
+    id: ckbwin7by3afe0j23ena1og38
     verified: false
-    hashtags: "#foryouppage, #checkyourvibe, #doityourself, #foryourpage"
+    hashtags: "#whataproof, #wip, #beautyhack, #motivationmonday"
+  - username: "maggieyes"
+    fullname: >-
+      Maggie Yes
+    bio: >-
+      Popular on IG & YT over 5m followers.
+    location: "United States"
+    followers: 15300
+    engagement: 2116
+    commentsToLikes: 0.029066
+    id: ck8j8yyxuky8n0j78dfjge92t
+    verified: false
+    hashtags: "#fyp, #itstartsontiktok, #fya, #foryou"
+  - username: "maysuncardwell"
+    fullname: >-
+      Maysun Cardwell
+    bio: >-
+      ATL to LA baby
+    location: "United States"
+    followers: 3625
+    engagement: 627
+    commentsToLikes: 0.064886
+    id: ckcpstbg7n9b50j23je2f5fhv
+    verified: false
+    hashtags: "#fyp, #duet, #greenscreen, #covid19"
+  - username: "verifiedwave"
+    fullname: >-
+      verifiedwave
+    bio: >-
+      Y͎O͎U͎ ͎N͎E͎E͎D͎~͎T͎O͎ ͎S͎E͎E͎ ͎T͎H͎I͎S͎
+    location: "United States"
+    followers: 9813
+    engagement: 926
+    commentsToLikes: 0.036257
+    id: ckavbf9gmj2qk0j231o9ks3fy
+    verified: false
+    hashtags: "#foruu, #extreme, #nike, #xyzcb"
   - username: "atikhunk"
     fullname: >-
-      atikhun!
+      atikhun kanjanakaset
+    bio: >-
+      fashion x anime los angeles 🇹🇭🇨🇳 follow the insta ⬇️
     location: "United States"
-    followers: 223455
-    engagement: 1182
-    commentsToLikes: 0.013546
+    followers: 617600
+    engagement: 1414
+    commentsToLikes: 0.012879
     id: ck8kezfv4bwe70j78z0aw3u82
-    verified: false
-    hashtags: "#realityripple, #giveaway, #quarantinelife, #skincareroutine"
-  - username: "russiaancream"
-    fullname: >-
-      russian cream
-    location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
-    verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "labelswithlattes"
-    fullname: >-
-      labelswithlattes
-    location: "United States"
-    followers: 9856
-    engagement: 820
-    commentsToLikes: 0.051079
-    id: ck8hq4pvh2gm10j78uy4cruln
-    verified: false
-    hashtags: "#loungewear, #myootd, #beachvibes, #zarasalehaul"
+    verified: true
+    hashtags: "#emojioutfits, #outfitideas, #tiktokfashion, #mystyle"
   - username: "waltercollection"
     fullname: >-
       WalterMendez
+    bio: >-
+      👗 Fashion Designer, 📍Los Ángeles IG: @WalterCollection & @RyanAndWalter
     location: "United States"
-    followers: 31367
-    engagement: 506
-    commentsToLikes: 0.029281
+    followers: 59900
+    engagement: 599
+    commentsToLikes: 0.044960
     id: ck8vw3kwrne3e0j78e124rzzt
     verified: true
-    hashtags: "#itsachopper, #grooming, #backtowork, #louboutin"
-  - username: "fruitypeeebles"
+    hashtags: "#fashion, #style, #luxury, #ootd"
+  - username: "revicedenim"
     fullname: >-
-      Ella
+      REVICE DENIM
+    bio: >-
+      Our jeans in action 💗✨ Designed in Los Angeles, as seen on your favorites!
     location: "United States"
-    followers: 5977
-    engagement: 1868
-    commentsToLikes: 0.044249
-    id: cka0kfr23mh8q0i78dguk17kf
+    followers: 19800
+    engagement: 702
+    commentsToLikes: 0.022545
+    id: ckae395tiwnk30i78ju840xhg
     verified: false
-    hashtags: "#myootd, #move, #aestheticedit, #watercolor"
-  - username: "octopusay69"
+    hashtags: "#losangeles, #fashion, #foryou, #fyp"
+  - username: "superduperdanni"
     fullname: >-
-      Kyle Kohanzad
+      SuperDuperDani 
+    bio: >-
+      Nintendo YouTuber and massive nerd 🎥
     location: "United States"
-    followers: 28576
-    engagement: 614
-    commentsToLikes: 0.048567
-    id: ck8ng7eviv9nu0j788n1pj57z
+    followers: 13000
+    engagement: 1353
+    commentsToLikes: 0.046587
+    id: ckcegj6vpnvbt0j235v7p5xbs
     verified: false
-    hashtags: "#dogs, #trumptrain, #lifestyle, #nicolettegray"
-  - username: "madamofthehouse"
+    hashtags: "#gaming, #fyp, #pokemon, #pokemongo"
+  - username: "yu.lis.sa"
     fullname: >-
-      Madam
+      Yulissa
+    bio: >-
+      FASHION/ PORTRAIT PHOTOGRAPHER They | Them 🌈 22 | So Cal Booking ↓
     location: "United States"
-    followers: 22743
-    engagement: 829
-    commentsToLikes: 0.025172
-    id: ck8kdiz8r622b0j7876qpqlhd
+    followers: 21100
+    engagement: 1278
+    commentsToLikes: 0.047744
+    id: ckav1f4nf7fki0j23lxiyepzd
     verified: false
-    hashtags: "#ulta, #beverlyhills, #retailtherapy, #designer"
-  - username: "jerasky"
+    hashtags: "#bipoc, #tiktokphotographer, #queer, #losangelesphotographer"
+  - username: "lm.meets"
     fullname: >-
-      jera sky
+      lm.meets
+    bio: >-
+      Photography and modeling meets/meetups IG: @LadyMehanPhoto
     location: "United States"
-    followers: 4682
-    engagement: 1144
-    commentsToLikes: 0.041506
-    id: ckai7vz221v9y0i78g94yopp5
+    followers: 18400
+    engagement: 210
+    commentsToLikes: 0.013664
+    id: ck8trb4gqqwyi0j78q14euf2r
     verified: false
-    hashtags: "#wenttoohard, #spreadjoy, #love, #starbucks"
-  - username: "the_johniverse"
-    fullname: >-
-      THE_JOHNiVERSE
-    location: "United States"
-    followers: 8855
-    engagement: 1059
-    commentsToLikes: 0.046723
-    id: ck9k93q1abnih0j78rd83fugh
-    verified: false
-    hashtags: "#greenscreen, #monkeymountain, #itsthefuturenow, #actor"
+    hashtags: "#tiktok, #joblife, #california, #bts"
 ---

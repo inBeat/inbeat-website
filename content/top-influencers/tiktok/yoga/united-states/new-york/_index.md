@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In New York In 2020
 description: >-
-  Find top yoga TikTok influencers in New York in 2020. Most popular hashtags: #yoga #love #newyork #travel.
+  Find top yoga TikTok influencers in New York in 2020. Most popular hashtags: #fyp #yoga #newyork #foryou.
 platform: TikTok
+hits: 13
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 13 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "influencersinthewild"
+  - username: "renaemalone"
     fullname: >-
-      Influencersinthewild
+      renaemalone
+    bio: >-
+      travel, vegan, yogi🌺 follow me on insta! @renaemalone
     location: "United States"
-    followers: 225574
-    engagement: 272
-    commentsToLikes: 0.008501
-    id: ck9r4pp9kw3mr0j78ruirenhs
-    verified: true
-    hashtags: "#hiking, #twitch, #toystory, #travel"
-  - username: "isaniewi"
-    fullname: >-
-      isa
-    location: "United States"
-    followers: 63246
-    engagement: 741
-    commentsToLikes: 0.016005
-    id: ck8saxc9x4bds0j780q7iz8z9
+    followers: 212300
+    engagement: 1113
+    commentsToLikes: 0.010395
+    id: ck8j8562yhcdk0j78tbal3sfg
     verified: false
-    hashtags: "#bia, #yogaeverydamnday, #bored, #polish"
-  - username: "ilanasedaka"
+    hashtags: "#foryou, #couplegoals, #beach, #fyp"
+  - username: "coast2coastcrew"
     fullname: >-
-      Ilana Sedaka
+      C2C 🌊🌴
+    bio: >-
+      COAST2COAST CREW 🌊🌴 // Used to be 203HypeHouse // Members followed
     location: "United States"
-    followers: 7610
-    engagement: 873
-    commentsToLikes: 0.033757
-    id: ck9a4kn7xuwin0j78x4zt8vs8
+    followers: 5146
+    engagement: 1153
+    commentsToLikes: 0.030656
+    id: cka8dws61ulgb0i78kzkxcch6
     verified: false
-    hashtags: "#celebrity, #cocktail, #midtown, #music"
-  - username: "laurakchung"
+    hashtags: "#foryou, #860, #ct, #203"
+  - username: "shakti_sita_"
     fullname: >-
-      Laura Chung
+      SHAKTI SITA
+    bio: >-
+      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
     location: "United States"
-    followers: 11501
-    engagement: 1147
-    commentsToLikes: 0.064157
-    id: ck9np9nh8xw7p0j78lfhxohsv
+    followers: 9103
+    engagement: 1017
+    commentsToLikes: 0.052641
+    id: cka0nhzdgzsr50i78joqxmg4n
     verified: false
-    hashtags: "#solarplexus, #dance, #inspirational, #retrograde"
-  - username: "theaudreypeters"
+    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
+  - username: "luckylott"
     fullname: >-
-      Audrey Peters
+      Lucky Lott
+    bio: >-
+      Weddings/ Portraits 📸🎥 Brooklyn 📍 Book me Below ⬇️
     location: "United States"
-    followers: 57318
-    engagement: 879
-    commentsToLikes: 0.036500
-    id: ckai5d13prlnq0i78j9ie4n60
+    followers: 70600
+    engagement: 1252
+    commentsToLikes: 0.054483
+    id: ckcj3x6rb4zux0j23sztrr34i
     verified: false
-    hashtags: "#wine, #bankers, #winter, #biking"
-  - username: "jessicagolich"
+    hashtags: "#funny, #photoshoot, #photoshootidea, #behindthescenes"
+  - username: "ashleemontague"
     fullname: >-
-      JessicaGolich
+      Ashlee Rose Montague
+    bio: >-
+      Dancing on the floor is overrated. 📍NYC 🏆World Record Holder
     location: "United States"
-    followers: 44633
-    engagement: 375
-    commentsToLikes: 0.021060
-    id: ck8hk5rm6cjeo0j78s2q7szjd
+    followers: 16200
+    engagement: 1216
+    commentsToLikes: 0.009333
+    id: ck9nnhn7gpbl70j7808d21ghs
     verified: false
-    hashtags: "#love, #funny, #editing, #guitar"
-  - username: "martousnaturals"
+    hashtags: "#nyc, #foru, #dancers, #dancer"
+  - username: "jjacquelinee_"
     fullname: >-
-      martousnaturals
+      Jacks💋
+    bio: >-
+      https://youtu.be/GlljhftU8Jg Suburban girl turned urban girl NYC, 21
     location: "United States"
-    followers: 2024
-    engagement: 1067
-    commentsToLikes: 0.071027
-    id: ckamyiesbhn4n0i78b6e0em49
+    followers: 10800
+    engagement: 870
+    commentsToLikes: 0.056025
+    id: ckb9nna2ihcwh0j2343uhtitg
     verified: false
-    hashtags: "#soaproses, #will, #barsfordays, #aftermycoffee"
-  - username: "simplyvisual"
+    hashtags: "#spaceforcewalk, #rainonme, #replytocomments, #nyc"
+  - username: "alinacarson"
     fullname: >-
-      SimplyVisual
+      alinacarson
+    bio: >-
+      Artist BROOKLYN , NY Follow my insta 🥰 yes I’m always like this 😓
     location: "United States"
-    followers: 28071
-    engagement: 569
-    commentsToLikes: 0.062374
-    id: ck8vypvz4uoau0j78g8n0fdqo
+    followers: 20300
+    engagement: 1406
+    commentsToLikes: 0.021116
+    id: ck9fdk8x0oyor0j78shvaxoko
     verified: false
-    hashtags: "#motors, #controller, #family, #waves"
-  - username: "freeman.extreme"
+    hashtags: "#funny, #depop, #aerial, #yoga"
+  - username: "brilaurenn"
     fullname: >-
-      Freeman.extreme
+      Bri Laurenn
+    bio: >-
+      💌 bookbrilauren@gmail.com 👻 @liilbriibrii
     location: "United States"
-    followers: 161944
-    engagement: 917
-    commentsToLikes: 0.010555
-    id: ck8km8t0o7hgx0j78cqdh3rca
+    followers: 309000
+    engagement: 735
+    commentsToLikes: 0.044777
+    id: ckcuqp3swjd5y0j23kggcx4hp
     verified: false
-    hashtags: "#travel, #kickboxing, #quickrecipes, #poledance"
-  - username: "divinepriestess"
+    hashtags: "#travel, #photoshootideas, #akira, #photography"
+  - username: "mbillman9"
     fullname: >-
-      Divine Priestess
+      Matthew Billman
+    bio: >-
+      Let's make videos together! I'm all about collaborating NYC/LA🤸🏼‍♂️ IG @mbillm
     location: "United States"
-    followers: 13617
-    engagement: 1196
-    commentsToLikes: 0.068269
-    id: cka6qzl0mpndr0i78as1q4rkh
+    followers: 3211
+    engagement: 585
+    commentsToLikes: 0.060683
+    id: ck8ja6izhqtw70j78l4g7xrri
     verified: false
-    hashtags: "#camera, #honey, #read, #yoga"
+    hashtags: "#love, #dogs, #boys, #almondwalk"
+  - username: "topperlife"
+    fullname: >-
+      Topper Life
+    bio: >-
+      Working out with me have a topper Life. 9am NYC Time live stream gym class 💃🏻
+    location: "United States"
+    followers: 26900
+    engagement: 432
+    commentsToLikes: 0.051811
+    id: ckc38znf5xlil0j23qqb04bs5
+    verified: false
+    hashtags: "#tourism, #workouttutorial, #workoutathome, #workoutplan"
 ---

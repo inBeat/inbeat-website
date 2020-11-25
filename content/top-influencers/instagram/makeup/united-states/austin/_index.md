@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Austin In 2020
 description: >-
-  Find top makeup Instagram influencers in Austin in 2020. Most popular hashtags: #makeup #instagood #beauty #skincare.
+  Find top makeup Instagram influencers in Austin in 2020. Most popular hashtags: #makeup #beauty #austin #picoftheday.
 platform: Instagram
+hits: 158
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 158 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "shotsbystoney"
-    fullname: >-
-      Shots by Stoney
-    location: "United States"
-    followers: 2459
-    engagement: 1177
-    commentsToLikes: 0.094256
-    id: ck14j9ipfj8il0i192q4opkfr
-    verified: false
-    hashtags: "#pinkphoto, #makeupideas, #freshlook, #naturalhair"
   - username: "__hailey.m"
     fullname: >-
       HAILEY
+    bio: >-
+      ★ OK ⇢ CO ★ cling to what is good // romans 12:9🌻🌟💛🌞 ★ @glo.and.co
     location: "United States"
-    followers: 5141
-    engagement: 1784
+    followers: 5068
+    engagement: 1810
     commentsToLikes: 0.017915
     id: ck6tkxy1a5mes0j71kx9m7u1q
     verified: false
     hashtags: ""
-  - username: "alisha.griffin_stagram"
+  - username: "josieortegon"
     fullname: >-
-      Alisha Griffin {Model/Actress}
+      Josie Ortegon
+    bio: >-
+      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
     location: "United States"
-    followers: 2296
-    engagement: 772
-    commentsToLikes: 0.191515
-    id: ck6tltwla6mpu0j71jq98wyu2
+    followers: 2608
+    engagement: 1137
+    commentsToLikes: 0.056231
+    id: ckaozpgsamtqz0i784mnqnbfo
     verified: false
-    hashtags: "#fashionweek, #dallasdesigner, #frenchfashion, #portrait"
-  - username: "msjenfreeman"
-    fullname: >-
-      Jennifer Freeman
-    location: "United States"
-    followers: 299864
-    engagement: 413
-    commentsToLikes: 0.022805
-    id: ck139jpveln9v0i196uxq14fg
-    verified: true
-    hashtags: "#faith, #happysaturday, #innerhealing, #proudmom"
-  - username: "donnaglytch"
-    fullname: >-
-      DONNA⚡️GLYTCH
-    location: "United States"
-    followers: 28614
-    engagement: 100
-    commentsToLikes: 0.116873
-    id: ck55vg92kesmv0i11bxv93y6t
-    verified: false
-    hashtags: "#funny, #legacy, #rodeo, #pony"
-  - username: "griffonramsey"
-    fullname: >-
-      griffonramsey
-    location: "United States"
-    followers: 137862
-    engagement: 231
-    commentsToLikes: 0.009607
-    id: ck137ld0bc4in0i19w71ih88r
-    verified: true
-    hashtags: "#carverlife, #texasroadtrip, #wigwamburner, #sunbath"
+    hashtags: "#elpaso, #fitness, #austin, #complimentary"
   - username: "mithmagazine"
     fullname: >-
       Fashion & Entertainment
+    bio: >-
+      Modest Is The Hottest 💼Print & Digital 💄EIC: @hollyglasser 💌Submit@mithmagazine.com 📍LA-based, Worldwide Coverage
     location: "United States"
-    followers: 16109
-    engagement: 346
-    commentsToLikes: 0.168843
+    followers: 16316
+    engagement: 353
+    commentsToLikes: 0.159540
     id: ck14i64wbdtxg0i19u3s99lyc
     verified: false
-    hashtags: "#beauty, #yellow, #ny, #hmu"
-  - username: "lisajmakeup"
+    hashtags: "#fashionmagazine, #editorial, #fashionmodel, #nyc"
+  - username: "shotsbystoney"
     fullname: >-
-      Lisa J
+      Shots by Stoney
+    bio: >-
+      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Texas
     location: "United States"
-    followers: 30185
-    engagement: 240
-    commentsToLikes: 0.069047
-    id: ck5hdvxqgpn2v0i11p2gl121l
+    followers: 2522
+    engagement: 1065
+    commentsToLikes: 0.085313
+    id: ck14j9ipfj8il0i192q4opkfr
     verified: false
-    hashtags: "#nars, #dryshampoo, #sephora, #piteraessence"
-  - username: "sophia_augustine_"
+    hashtags: "#laphotographers, #beautyphoto, #houstonphotographer, #atxphotographer"
+  - username: "john_rozco"
     fullname: >-
-      Sophia Augustine
+      John Rozco
+    bio: >-
+      I crash Pampered Chef parties😭 . Alegre Media Group . Sony FS7 II / A7R IV . Commercial / Film on Vimeo
     location: "United States"
-    followers: 24066
-    engagement: 1539
-    commentsToLikes: 0.048922
-    id: ck5hrr4mfvc150i11qt0g0g54
+    followers: 6999
+    engagement: 800
+    commentsToLikes: 0.113993
+    id: ck55jy586y1hy0i11g1t7njjo
     verified: false
-    hashtags: "#love, #itsmarch, #redflowers, #makeup"
-  - username: "erinelise___"
+    hashtags: "#texasphotographer, #ourportraitsdays, #sonyimages, #fashion"
+  - username: "kaitnicholexo"
     fullname: >-
-      erin elise blog
+      Kait Nichole
+    bio: >-
+      ☁️ YOUTUBER ✨ 300k+ ☁️ PR/Business: TheHighLite@gmail.com ☁️ Follow my Family IG: @kaitnicholexolife ☁️ Watch my newest YouTube Video👇🏼
     location: "United States"
-    followers: 7941
-    engagement: 619
-    commentsToLikes: 0.178632
-    id: ck9hbxfbmiv0x0j78h4svvzs1
+    followers: 75298
+    engagement: 267
+    commentsToLikes: 0.043327
+    id: ck15si6h8d4pp0i1981pfjuod
     verified: false
-    hashtags: "#churchservice, #mylove, #lakedays, #ltkswim"
+    hashtags: "#benefitbrows, #halloween2020, #halloweenmakeupideas, #halloweenmakeup"
+  - username: "elevatehair"
+    fullname: >-
+      Hair Party / Tools / Media
+    bio: >-
+      Elevate TV Episode 1 November 6th 10 pm EST 📺🔊‼️ Go to elevatehair.com DJ starts at 8:30pm Only 500 spots first to login, first to party🔊
+    location: "United States"
+    followers: 120768
+    engagement: 123
+    commentsToLikes: 0.006844
+    id: ck8t5cfcz9mtv0j78kfpqs485
+    verified: false
+    hashtags: "#mullets, #mulletsofinstagram, #pixiecut, #mulletlife"
+  - username: "bat.barbie"
+    fullname: >-
+      Britt Gorman
+    bio: >-
+      Look like a Slytherin, love like a Hufflepuff.🦇💖 Temp tattoo princess @seventhskin in Austin, TX | Mermaids | Illustration | Disney | Makeup
+    location: "United States"
+    followers: 14245
+    engagement: 745
+    commentsToLikes: 0.025479
+    id: ck5bvsamtkb420i11gxx478eo
+    verified: false
+    hashtags: "#painting, #acrylic, #art, #originalart"
+  - username: "jennamasar"
+    fullname: >-
+      j e n n a m a s a r
+    bio: >-
+      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
+    location: "United States"
+    followers: 7512
+    engagement: 973
+    commentsToLikes: 0.113646
+    id: ckaozs50jn5xc0i7844bpf7zw
+    verified: false
+    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
+  - username: "damaris.c.stark"
+    fullname: >-
+      damaris
+    bio: >-
+      •lover of all things health + beauty •pr/collabs: starkdamaris@gmail.com
+    location: "United States"
+    followers: 3140
+    engagement: 1007
+    commentsToLikes: 0.141632
+    id: ck5hi7zdec4cp0i11mv05bz15
+    verified: false
+    hashtags: "#makeuptutorial, #livelovelayer, #brunette, #gorjanagirl"
 ---

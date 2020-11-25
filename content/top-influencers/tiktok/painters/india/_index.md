@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In India In 2020
 description: >-
-  Find top painters TikTok influencers in India in 2020. Most popular hashtags: #duet #bikelover #gharbaithoindia #pinterest.
+  Find top painters TikTok influencers in India in 2020. Most popular hashtags: #trending #foryou #viral #duet.
 platform: TikTok
+hits: 29
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 29 TikTok influencers like this in India for you to contact.
 profiles:
-  - username: "sibibasheerrxkiller"
+  - username: "mr_saikat_27"
     fullname: >-
-      Sibi BasheerRxkiller
+      ❤️ mr_saikat_27 ❤️
+    bio: >-
+      Dancer🕺🏼Painter🎨Youtuber💟 YouTube : (AD Dance Troupe) & (Moddhobitto Saikat)
     location: "India"
-    followers: 38765
-    engagement: 645
-    commentsToLikes: 0.000000
-    id: ck9dvpbpwlt8g0j78t6w0wxi4
+    followers: 48000
+    engagement: 1340
+    commentsToLikes: 0.025577
+    id: ckb9d7i380cg70j23mphn7y8e
     verified: false
-    hashtags: "#loudexoust, #ktmrc390, #beardboy, #beardchallenge"
-  - username: "classic_kartik"
+    hashtags: "#viralvideo, #viral, #teamaddance, #saikatmania"
+  - username: "aravindnp._.adober"
     fullname: >-
-      Kartik Pandey
+      🔥Aravind.P🔥
+    bio: >-
+       ▶#KL_03(PTA) ▶Adober(Digital painter) 🔥follow_sup
     location: "India"
-    followers: 21030
-    engagement: 1337
-    commentsToLikes: 0.038052
-    id: ckaiksf4gkv7d0i78mjfsf2qv
+    followers: 4502
+    engagement: 1800
+    commentsToLikes: 0.018772
+    id: ckbw2gw3aws8e0j23y3y0z15u
     verified: false
-    hashtags: "#dreamer, #painter, #streching, #dancing"
-  - username: "ajitshindekar"
+    hashtags: "#pablic, #pubglover, #public, #pubgindia"
+  - username: "amir_ki_vines_"
     fullname: >-
-      ajit shindekar
+      Àmiŕ Ķhàñ
+    bio: >-
+      Aim 100 K folwr , Singer, Shayar, Cricketer, Painter, Fan Sachin, Amir khan & Ja
     location: "India"
-    followers: 14085
-    engagement: 615
-    commentsToLikes: 0.016299
-    id: ck9n4jqkj4oy20j78d13egtdz
+    followers: 20300
+    engagement: 436
+    commentsToLikes: 0.015155
+    id: cka7r1zosd6te0i781wjzzvqp
     verified: false
-    hashtags: "#bulletchallenge, #rd350wheelie, #painting, #4speed"
-  - username: "satish.painter"
+    hashtags: "#amir, #trending, #tiktokindia, #shayri"
+  - username: "ramanjamba5"
     fullname: >-
-      satish badoliya
+      Raman jamba
+    bio: >-
+      JAMBA PAINTER GHOMAN WORKSHOP contact no 8968937422
     location: "India"
-    followers: 102014
-    engagement: 1263
-    commentsToLikes: 0.006212
-    id: ck8roms03i62s0j782jek7n9l
+    followers: 45200
+    engagement: 501
+    commentsToLikes: 0.011940
+    id: cka0tnasoqkj90i78zonptnji
     verified: false
-    hashtags: "#realme6smartphone, #newtrending, #tearschallenge, #tiktok"
-  - username: "adnan_k09"
+    hashtags: "#2k, #modified, #hardwork, #sidhumoosewala"
+  - username: "sarathedr"
     fullname: >-
-      ●♥[ Adnan Khan ]♥●
+      SaRath Edr
+    bio: >-
+      ☺മലപ്പുറത്തുകാരൻ☺️ 😍❤️song lover❤️😍 ❤️Team Rasavada❤️ 💯പാട്ടിനേ പ്രണയിച്ചവൻ💯
     location: "India"
-    followers: 2356262
-    engagement: 2033
-    commentsToLikes: 0.011907
-    id: ck9gmh1y1seit0j78fou7hsv0
+    followers: 12900
+    engagement: 4951
+    commentsToLikes: 0.072982
+    id: ckblhdrfvax3h0j23czvyofjm
     verified: false
-    hashtags: "#slowmotion, #jummah, #saakiyan, #danishzehen"
-  - username: "poojahooda01"
+    hashtags: "#foryouindia, #foryou, #duet, #funnytiktok"
+  - username: "artsysushiroll"
     fullname: >-
-      Pooja Hooda
+      𝒏𝒂𝒚𝒔𝒉𝒂
+    bio: >-
+      just your friendly neighbourhood artist :D oh also i have a YouTube channel
     location: "India"
-    followers: 441395
-    engagement: 1166
-    commentsToLikes: 0.006547
-    id: ck8rq757eov8l0j78ilyisevx
+    followers: 40500
+    engagement: 1205
+    commentsToLikes: 0.016182
+    id: ckbbjb3247oij0j233y7pofnu
     verified: false
-    hashtags: "#haryana, #song"
-  - username: "akka_saheb_6767"
+    hashtags: "#art, #aesthetic, #india, #artist"
+  - username: "anoopanu883"
     fullname: >-
-      UJWALA CHAUDHARY
+      _ CHIKKUTTAN _
+    bio: >-
+      
     location: "India"
-    followers: 76806
-    engagement: 1702
-    commentsToLikes: 0.042303
-    id: cka9otv9563tm0i78umybzv7q
+    followers: 13700
+    engagement: 2197
+    commentsToLikes: 0.009248
+    id: ckblegsj38ipb0j238vm5vdxj
     verified: false
-    hashtags: "#duet, #gharbaithoindia, #dance, #sandpainting"
-  - username: "___.nhla.___"
+    hashtags: "#chunk, #friendshipgoals, #true, #sharethecare"
+  - username: "satheesh.b.rajamma"
     fullname: >-
-      P!$hãSh 😈
+      Satheesh B Rajamma
+    bio: >-
+      
     location: "India"
-    followers: 24964
-    engagement: 1318
-    commentsToLikes: 0.030036
-    id: ck9shj5agto9z0j78xlouhptw
+    followers: 6163
+    engagement: 1336
+    commentsToLikes: 0.012339
+    id: ckb0wgel4lp4d0j23303fdn0r
     verified: false
-    hashtags: "#instaid, #umma, #mycraft, #friends"
-  - username: "malikdaniel786"
+    hashtags: "#ammalove, #bharathmathaa, #love, #amma"
+  - username: "nitinjani8"
     fullname: >-
-      Daniel ❤😺
+      Nitin Jani
+    bio: >-
+      Actor / Youtuber Email - welcomefromtarun@gmail.com Click👆 For Youtube & Insta
     location: "India"
-    followers: 53716
-    engagement: 1198
-    commentsToLikes: 0.005120
-    id: cka0y0haa9b9r0i78yc9eq7kx
-    verified: false
-    hashtags: "#staysafe, #cute, #stayhome, #printer"
-  - username: "zalimbhai786"
+    followers: 2100000
+    engagement: 965
+    commentsToLikes: 0.002732
+    id: ck83z4vf3xq5k0j78fjjgbjda
+    verified: true
+    hashtags: "#khajurbhai, #foryoupage, #comedy, #jantacurfew"
+  - username: "real_pathan_001"
     fullname: >-
-      Arfique siddiqui
+      MONISH KHAN 😎
+    bio: >-
+      proudly indian ❤ Instagram monish_khan_real_pthan 🙏😘
     location: "India"
-    followers: 53895
-    engagement: 560
-    commentsToLikes: 0.015789
-    id: ck8rowac3ji9u0j780j05iixd
+    followers: 128709
+    engagement: 793
+    commentsToLikes: 0.002605
+    id: ckb1235jjqdoe0j2358i7twzu
     verified: false
-    hashtags: "#followme, #pinterest, #mydream, #tiktoker"
+    hashtags: "#foryupage, #tree, #ertugrulgazi, #ertugrul"
 ---

@@ -1,42 +1,29 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top bakers Instagram influencers in Ukraine in 2020. Most popular hashtags: # #cloud #bmwmotorrad #drifting.
+  Find top bakers Instagram influencers in Ukraine in 2020. Most popular hashtags: #bikersofinstagram #motolove #bmxstreet.
 platform: Instagram
+hits: 19
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 19 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "vladkardash"
-    fullname: >-
-      Vlad Kardash
-    location: "Ukraine"
-    followers: 32641
-    engagement: 243
-    commentsToLikes: 0.477485
-    id: ck5hcs0sajo9n0i11vwb9hrh5
-    verified: false
-    hashtags: ""
   - username: "romanova_bakery"
     fullname: >-
       ТОРТЫ в Одессе / обучение /
+    bio: >-
+      🧁Закажите свой ТОРТ у меня ⚡Отдельная студия 🌞 Опыт более 1000 тортов 🍰 Ассортимент и Цены ⬇️ 🚀Доставка 🔥ЖИВОЕ обучение онлайн 🛎Директ открыт
     location: "Ukraine"
-    followers: 50944
-    engagement: 318
-    commentsToLikes: 0.085508
+    followers: 67818
+    engagement: 256
+    commentsToLikes: 0.032240
     id: ck1372t959hoj0i19ruqtjfah
     verified: false
-    hashtags: "#transformers, #beutifulfood, #desserts, #transformation"
-  - username: "dinarakasko"
-    fullname: >-
-      Dinara Kasko
-    location: "Ukraine"
-    followers: 659492
-    engagement: 139
-    commentsToLikes: 0.028109
-    id: ck135sth831yt0i19557yzuxs
-    verified: true
-    hashtags: "#cakemould, #bostoncafe, #papercake, #moscow"
+    hashtags: "#manchesterunited, #manchesterunitedcake, #naturewedding, #traifl"
   - username: "oh.dase"
     fullname: >-
       Дарина❣️
+    bio: >-
+      ▫️бьюти ▫️рецепты ▫️саморазвитие ⠀ ⠀ ⠀ About me: ⚡️SMM/PR... and lawyer ⚡️ученица #loreal_bba #bba_2019 ⠀ Тут вдохновление⤵️
     location: "Ukraine"
     followers: 10254
     engagement: 896
@@ -44,64 +31,100 @@ profiles:
     id: ckap7d6lujk5n0i788d03dn6b
     verified: false
     hashtags: ""
+  - username: "dinarakasko"
+    fullname: >-
+      Dinara Kasko
+    bio: >-
+      Динара Касько You can buy my silicone moulds for cakes Pastry masterclasses Ukraine, Kharkov 🇺🇦 dinarakasko@gmail.com
+    location: "Ukraine"
+    followers: 662680
+    engagement: 163
+    commentsToLikes: 0.027241
+    id: ck135sth831yt0i19557yzuxs
+    verified: true
+    hashtags: "#banana, #gastroart, #dinarakasko, #instacake"
+  - username: "petrova_2603"
+    fullname: >-
+      🤍Aɴᴀsᴛᴀsɪᴀ🤍
+    bio: >-
+      ⠀ ⠀ 🔗 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗞𝗮𝗿𝗮𝘇𝗶𝗻 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 ⠀ ⠀ 🔗 𝗯𝗮𝗸𝗲𝗿𝘆: @pudra_bakery.kh ⠀ ⠀ 🤍 𝗞𝗵𝗮𝗿𝗸𝗶𝘃 | 𝗨𝗸𝗿𝗮𝗶𝗻𝗲
+    location: "Ukraine"
+    followers: 2176
+    engagement: 3390
+    commentsToLikes: 0.054305
+    id: ck8t92yl2mrzt0j78pxumrkav
+    verified: false
+    hashtags: "#l4l, #top, #summer, #kharkov"
   - username: "_tanyabreeze_"
     fullname: >-
-      Таня Микитин -мама без декрета
+      Таня Микитин-мама без декрета
+    bio: >-
+      •основатель проекта @the_cheese_bakery (СВ 1.0+СВ 2.0+СВ цех @cakes_cheesebakery ) •мама удивительной Златы❤️
     location: "Ukraine"
-    followers: 25989
-    engagement: 563
-    commentsToLikes: 0.046952
+    followers: 22356
+    engagement: 374
+    commentsToLikes: 0.018587
     id: ck5hcelwfho3k0i11sunywlzd
     verified: false
-    hashtags: "#stayhome, #fiorelli"
-  - username: "aquakilla8"
-    fullname: >-
-      AQUAKILLA
-    location: "Ukraine"
-    followers: 21171
-    engagement: 1281
-    commentsToLikes: 0.021235
-    id: ck6tq3fpnp5xi0j71upsabro7
-    verified: false
     hashtags: ""
-  - username: "greg_samokish"
+  - username: "bart0ss"
     fullname: >-
-      Greg Samokish
+      BartOss
+    bio: >-
+      💯% Bikelife & Photography 📸 😈 Kawasaki ninja ZX6R 💚 🇺🇦 Ukraine & Kyiv 🔝 High Quality content only Founder: @motoridekiev #freeriderskiev
     location: "Ukraine"
-    followers: 80826
-    engagement: 615
-    commentsToLikes: 0.001983
-    id: ckap4elov70vi0i78h6exs6os
+    followers: 6413
+    engagement: 1873
+    commentsToLikes: 0.037884
+    id: ckaoy2iusfsdv0i7838gtoeue
     verified: false
-    hashtags: "#chaykaring, #tbilisi, #kawasaki, #sportbike"
-  - username: "lesta_ua"
+    hashtags: "#bikers, #motogirls, #motorcycles, #motoukraine"
+  - username: "krasukov_vova"
     fullname: >-
-      Lesta and her adventures
+      4krasukov2v0va
+    bio: >-
+      Support: @diffusion_co @ubffederation @royalsaintpetersburg ♠️18 years old♠️
     location: "Ukraine"
-    followers: 10211
-    engagement: 495
-    commentsToLikes: 0.027077
-    id: ck1381f33e1ba0i19hijy01a2
+    followers: 7859
+    engagement: 2916
+    commentsToLikes: 0.041431
+    id: ck8szhme5ohbm0j788ynj9zw7
     verified: false
-    hashtags: "#tarasovagora, #yellowleaf, #lady, #thecarpathians"
-  - username: "lerabrumina"
+    hashtags: "#bmxforever, #bmx, #digbmx, #oss"
+  - username: "crazyriderlady"
     fullname: >-
-      Lera Brumina
+      rider lady
+    bio: >-
+      Time to WROOM together :) Riding suzuki gsx-r k7, stunt k2, celica T230 Была мотоциклисткой до того, как это стало мейнстримом.
     location: "Ukraine"
-    followers: 8634
-    engagement: 513
-    commentsToLikes: 0.010288
-    id: ck6ue9rjupnd50j713e8cfj3k
+    followers: 33941
+    engagement: 667
+    commentsToLikes: 0.056271
+    id: ck6u16qg6jxkh0j7146jmldti
     verified: false
-    hashtags: "#cedarandmoss, #nuuralighting, #artemtrihubchak, #spinecollection"
-  - username: "arthurmagician"
+    hashtags: "#motogirlsvideo, #bikerstube, #motorcycle, #motolove"
+  - username: "andriypodoba"
     fullname: >-
-      Артур Томашевский
+      Андрій Подоба
+    bio: >-
+      Андрій Подоба Ukrainian Bmx rider 21 years old Lviv city. Riding for @bikestuff_com_ua @bsdforever @skilldashbmx @bidlobikes
     location: "Ukraine"
-    followers: 585222
-    engagement: 886
-    commentsToLikes: 0.025238
-    id: ck1398edbk1z60i19bir1y5ro
+    followers: 25539
+    engagement: 1784
+    commentsToLikes: 0.015996
+    id: ck15s6swzbiek0i19t60t5ihr
     verified: false
-    hashtags: "#jokes, #my, #poker, #pyrokinesis"
+    hashtags: "#thecomeup, #bmx4life, #bmxparts, #plug"
+  - username: "zhukovskaya_leriya"
+    fullname: >-
+      📍Торты | Кендибар | Николаев.
+    bio: >-
+      Gallery of exclusive pastry ❤️. 📍Cake design. 📍Macaroons and candy-bar. 📍Delivery 🚗. 💌 WhatsApp/Viber +380964505957. ⠀ 1kg/450grn+ оформление 🍰
+    location: "Ukraine"
+    followers: 23048
+    engagement: 203
+    commentsToLikes: 0.012977
+    id: ck135djnt0wzw0i19ccfb3qkk
+    verified: false
+    hashtags: "#worldbakers, #birthdaycake, #bakery, #cakeart"
 ---

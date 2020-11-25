@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top gaming Instagram influencers in San Francisco in 2020. Most popular hashtags: #gaming #sanfrancisco #covid19 #blazers.
+  Find top gaming Instagram influencers in San Francisco in 2020. Most popular hashtags: #gaming #sanfrancisco #losangeles #california.
 platform: Instagram
+hits: 13
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "joyformidable"
+  - username: "sfshock"
     fullname: >-
-      @joyformidable
+      San Francisco Shock
+    bio: >-
+      San Francisco's @overwatchleague Team. 2019 Grand Finals Champions 🏆 Associated with @nrggram. #Winnable
     location: "United States"
-    followers: 16266
-    engagement: 359
-    commentsToLikes: 0.022793
-    id: ck14h5zng8peh0i19r9t23tns
+    followers: 115263
+    engagement: 374
+    commentsToLikes: 0.016924
+    id: ck139907lk4a60i1932cr7fjn
     verified: true
-    hashtags: "#adoptdontshop, #gaming, #abcm, #nyc"
-  - username: "sunny_crockett_"
+    hashtags: "#off, #shock, #pop, #overwatch"
+  - username: "unsealedgames"
     fullname: >-
-      
+      The Dancing Gamer
+    bio: >-
+      • #Art 😎 • #Sega 🖤 • #Xbox 💚 • #Nintendo ❤ • #Playstation 💙 • #TheDancingGamer 🕺🏻 • #ToLiveandGameinLA 🎮 • @breadandbreakfastla 🍞🍳 • 15% Discount 👇
     location: "United States"
-    followers: 13815
-    engagement: 1433
-    commentsToLikes: 0.008423
-    id: ck14jsnl2lz8n0i19n4mv6l0u
+    followers: 2170
+    engagement: 1485
+    commentsToLikes: 0.379606
+    id: ck8t6ugb4eq9e0j78s1khybtd
     verified: false
-    hashtags: "#mojavedesert, #activity, #openroad, #walk"
-  - username: "themrmobile"
+    hashtags: "#sephiroth, #ffviiremake, #thedancinggamer, #armenian"
+  - username: "spidagrfx"
     fullname: >-
-      Michael Fisher
+      "MICAH" 🕷 // Road to 20K⚡️
+    bio: >-
+      20 • Aspiring Nike Designer Content Creator @teamdiverge • #BoltUp Art Portfolio: Logos • Graphics Jersey Swaps • Uniform Design ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
     location: "United States"
-    followers: 146888
-    engagement: 316
-    commentsToLikes: 0.018441
-    id: ck0w2d2dinqzm0i191zk0xvyk
+    followers: 12065
+    engagement: 2711
+    commentsToLikes: 0.037782
+    id: ckap0e728pw0q0i784sxvno26
     verified: false
-    hashtags: "#pixel2xl, #pixel4, #ipadpro2020, #wandcompany"
-  - username: "8pxl_"
+    hashtags: "#hype, #hypebeast, #football, #jukes"
+  - username: "watt.designs"
     fullname: >-
-      Jubilee
+      Matt Smith
+    bio: >-
+      I'm an Electrical Engineer who makes art too!⚡🎨 Follow for some weekly pixel art! - Commissions: Closed🔒 - ⏬ Check out my patreon below!
     location: "United States"
-    followers: 80697
-    engagement: 920
-    commentsToLikes: 0.007940
-    id: ck0tugymi744m0i19rrnm50a5
+    followers: 78820
+    engagement: 842
+    commentsToLikes: 0.009542
+    id: ck0w4v0sy0jee0i19170iyunm
     verified: false
-    hashtags: "#cute, #stars, #glow, #naturewave"
-  - username: "darthamin"
+    hashtags: "#funny, #cute, #retro, #pixelworld"
+  - username: "trevon.sellers"
     fullname: >-
-      Amin Elhassan
+      ᴛʀᴇ ✪
+    bio: >-
+      @tre.sellers 🇨🇦
     location: "United States"
-    followers: 21092
-    engagement: 278
-    commentsToLikes: 0.065384
-    id: ck5hs4spivzng0i115mgafh64
+    followers: 9620
+    engagement: 2779
+    commentsToLikes: 0.099827
+    id: ckapbp1qf0rpk0i78qlp0ma6k
+    verified: false
+    hashtags: "#explorepage, #food, #memes, #savage"
+  - username: "cg_geeks"
+    fullname: >-
+      CG Geek
+    bio: >-
+      A geek to everything CG! Creating free high-quality Blender tutorials on YouTube. #b3d
+    location: "United States"
+    followers: 29120
+    engagement: 834
+    commentsToLikes: 0.021676
+    id: ck6ubiuaw9ua40j71766urpnx
+    verified: false
+    hashtags: "#computergraphics, #tutorial, #funny, #artwork"
+  - username: "jamesliuu"
+    fullname: >-
+      James Liu
+    bio: >-
+      Rise Up, Speak Up
+    location: "United States"
+    followers: 11490
+    engagement: 602
+    commentsToLikes: 0.041692
+    id: ck5hnjqmrnwdb0i116akewu4i
+    verified: false
+    hashtags: "#watchthisinstagood, #wonderfulglobe, #longexpoelite, #natgeoyourshot"
+  - username: "dom.riccobene"
+    fullname: >-
+      Dom Riccobene
+    bio: >-
+      🎥 Futurist Filmmaker / 🧱 Product Designer 🛰Data Sculptor & Virtual Cartographer 🗺 👨‍👦Temp. Stay-at-Home COVID Dad 🌶 #Albuquerque , NM | Thanks👇🏻🔗
+    location: "United States"
+    followers: 220318
+    engagement: 569
+    commentsToLikes: 0.013883
+    id: ck0vv4vemnk230i19013ep3ed
+    verified: false
+    hashtags: "#map, #cinema4d, #relaxing, #cncmachining"
+  - username: "droopiter"
+    fullname: >-
+      Droop-E
+    bio: >-
+      President of Sick Wid It Records
+    location: "United States"
+    followers: 50259
+    engagement: 148
+    commentsToLikes: 0.070424
+    id: ck5c6msnp5rih0i11yfhv62zr
     verified: true
-    hashtags: "#testing, #player, #greekfreak, #gambling"
-  - username: "alexxxprincesss"
+    hashtags: "#bangbangninergang, #vallejo, #callofduty, #repost"
+  - username: "notvonmiller.ig"
     fullname: >-
-      ALEXANDRiA KNiGHT👸🏼
+      𝙉𝙤𝙩𝙑𝙤𝙣𝙈𝙞𝙡𝙡𝙚𝙧.𝙄𝙂 (𝙉𝙁𝙇 𝙈𝙀𝙈𝙀𝙎)
+    bio: >-
+      Old Acc, Gangster_Vonster, was deleted at 9.4k 😭 - 😡𝗡𝗢𝗧𝗩𝗢𝗡𝗠𝗜𝗟𝗟𝗘𝗥 🥵𝗗𝗮𝗶𝗹𝘆 𝗙𝗼𝗼𝘁𝗯𝗮𝗹𝗹 𝗠𝗲𝗺𝗲𝘀 😌𝗦𝗲𝗻𝗱 𝗜𝗱𝗲𝗮𝘀 𝗳𝗼𝗿 𝗖𝗿𝗲𝗱𝗶𝘁 📬𝗗𝗠𝘀 𝗢𝗽𝗲𝗻 ❌𝗡𝗼𝘁 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲𝗱 𝗪/ @vonmiller
     location: "United States"
-    followers: 12435
-    engagement: 1008
-    commentsToLikes: 0.150128
-    id: ck8t4fmw26m7u0j78k6g4j110
+    followers: 11924
+    engagement: 3006
+    commentsToLikes: 0.034025
+    id: ckaotmp0nwjfw0i780yq5lbu6
     verified: false
-    hashtags: "#cellulite, #nophotoshop, #naturalbooty"
-  - username: "itsbrianawhite"
-    fullname: >-
-      Briana
-    location: "United States"
-    followers: 31366
-    engagement: 853
-    commentsToLikes: 0.042478
-    id: ck5q6xew8z5wi0i119pv236xj
-    verified: false
-    hashtags: "#creativity, #princess, #makeyourowncontent, #secretingredient"
-  - username: "fear.hex"
-    fullname: >-
-      Hex
-    location: "United States"
-    followers: 17812
-    engagement: 654
-    commentsToLikes: 0.729796
-    id: ck8t4e5v56gi00j78efw0r8vn
-    verified: false
-    hashtags: "#zadiatfup, #wearedivine, #sgoontherise, #kwcontop"
-  - username: "scootermagruder"
-    fullname: >-
-      Scooter Magruder | Sports Guy
-    location: "United States"
-    followers: 230348
-    engagement: 809
-    commentsToLikes: 0.021360
-    id: ck1374e7m9pz80i19vcyvqg6l
-    verified: true
-    hashtags: "#nba, #orlandomagic, #nygiants, #flyeaglesfly"
-  - username: "thenay_official"
-    fullname: >-
-      THE•N.A.Y_OFFICIAL
-    location: "United States"
-    followers: 356010
-    engagement: 662
-    commentsToLikes: 0.188463
-    id: ck9hbywm9j19w0j78bkkvhiy5
-    verified: false
-    hashtags: "#thenay, #lawancovid19, #workfromhome, #dirumahaja"
+    hashtags: "#patriotsnation, #footballmemes, #bucsnation, #jetsnation"
 ---

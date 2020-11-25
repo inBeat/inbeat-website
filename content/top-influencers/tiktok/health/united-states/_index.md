@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In United States In 2020
 description: >-
-  Find top health TikTok influencers in United States in 2020. Most popular hashtags: #duet #makebakeshake #pancakecereal #friday.
+  Find top health TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #myhobby #biden2020.
 platform: TikTok
+hits: 7411
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 7411 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "young_rari"
     fullname: >-
       Young_rari
+    bio: >-
+      Main insta: Madelineferreri COLLABS: Madeline@tiktal.co 90+ happy/healthy pets!
     location: "United States"
-    followers: 403584
-    engagement: 2753
-    commentsToLikes: 0.024517
+    followers: 638300
+    engagement: 2828
+    commentsToLikes: 0.029328
     id: ck83wwz4tmngj0j78eo9izp7u
     verified: false
-    hashtags: "#poseathome, #duet, #bedroomcheck"
-  - username: "pamperingwithaleshia"
+    hashtags: "#foryoupage, #fyp, #stemlife, #neonshadow"
+  - username: "sunshineceee"
     fullname: >-
-      Aleshia Wisch
+      Cee :)
+    bio: >-
+      she/her Hearing positivity, mental health awareness, gay vibes & ASL things 💛
     location: "United States"
-    followers: 14698
-    engagement: 2578
-    commentsToLikes: 0.138983
-    id: ckaijeusgeljw0i78dgyrfs3r
+    followers: 11300
+    engagement: 4002
+    commentsToLikes: 0.107861
+    id: ckfo4ydvm1g7j0j23bef5ojul
     verified: false
-    hashtags: "#resistthebeat, #wine, #safety, #dance"
-  - username: "jezus.official"
+    hashtags: "#poetry, #positivity, #mentalhealthrecovery, #fyp"
+  - username: "urgir1friend"
     fullname: >-
-      Jezus
+      selener —👄👁
+    bio: >-
+      !currently on a mental health break! 14 | bay area 🌞 | swtr wthr ✨ | she/they
     location: "United States"
-    followers: 47702
-    engagement: 2337
-    commentsToLikes: 0.044380
-    id: ckaikss33kyxd0i78wo306iph
+    followers: 25700
+    engagement: 3394
+    commentsToLikes: 0.077186
+    id: ckbqiw2zo42vv0j230azx5o6d
     verified: false
-    hashtags: "#demonslayer, #overflow, #vibe, #animelist"
-  - username: "the_situasian"
+    hashtags: "#gay, #yogaflow, #timefortenet, #alt"
+  - username: "lifeofleiva"
     fullname: >-
-      Fit_Dad_Bod
+      Leiva
+    bio: >-
+      🗣 Speaking Truth 🇳🇮🇺🇲 #BIPOC Experience | Health | Education Venmo: @LeivaK
     location: "United States"
-    followers: 2774
-    engagement: 2181
-    commentsToLikes: 0.224716
-    id: cka6qkf62nxsb0i780yxzs9bq
+    followers: 29700
+    engagement: 2824
+    commentsToLikes: 0.094512
+    id: ckcejh207s9zp0j23sw90lsqs
     verified: false
-    hashtags: "#sharingiscaring, #momsoftiktok, #hairband, #spreadlovegang"
+    hashtags: "#elections, #black, #election, #expressieyourself"
+  - username: "shamrockbeauty"
+    fullname: >-
+      Shamrock Beauty
+    bio: >-
+      Beka Shamrock Normalizing Mental Health w/ Makeup and big Headpieces
+    location: "United States"
+    followers: 336000
+    engagement: 2349
+    commentsToLikes: 0.030561
+    id: ckbweq3lh1o330j23q61okmrk
+    verified: false
+    hashtags: "#voteblue, #biden2020, #31daysofhalloween, #halloweenmakeup"
   - username: "themadivlog"
     fullname: >-
       Madilynn Cameron
+    bio: >-
+      ❤️youtuber Sub N LINK Mental health advocate Patreon in link Psych staff #88💙🧡
     location: "United States"
-    followers: 112383
-    engagement: 2063
-    commentsToLikes: 0.089895
+    followers: 501000
+    engagement: 2333
+    commentsToLikes: 0.088099
     id: ckacs7zq98u8s0i78pq1fa6zg
     verified: false
-    hashtags: "#pridemonth, #learnontiktok, #greenscreen, #coronavirus"
-  - username: "nyahjones_"
+    hashtags: "#stitch, #duet"
+  - username: "redwaverising"
     fullname: >-
-      nyah :)
+      RED WAVE RISING
+    bio: >-
+      Licensed Healthcare Provider / #TRUMP2020 FireFighter-EMT / LEO (Ret) ◼️🔷◼️
     location: "United States"
-    followers: 597845
-    engagement: 2317
-    commentsToLikes: 0.019388
-    id: ck9a9mntygtor0j78m7dl4isx
+    followers: 39800
+    engagement: 2241
+    commentsToLikes: 0.142209
+    id: ckd1ae08usdts0j23ungq5uy7
+    verified: false
+    hashtags: "#portland, #riots, #iamlost, #us"
+  - username: "andiesjourney"
+    fullname: >-
+      andie
+    bio: >-
+      Andie(she)dancing through serious health problems #nevergiveup IG: andiesjourney
+    location: "United States"
+    followers: 1900000
+    engagement: 2177
+    commentsToLikes: 0.033864
+    id: ck8p1fv06l7hm0j785rtai0tl
     verified: true
-    hashtags: "#duet, #housepartypartner, #housepartyprom"
-  - username: "mjfeldo"
+    hashtags: "#andiestrong, #fyp, #duet, #andiesweek"
+  - username: "findingjayreace"
     fullname: >-
-      Maggie Joy
+      🤴🏽Mr.Positivity 🌱
+    bio: >-
+      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
     location: "United States"
-    followers: 214903
-    engagement: 1978
-    commentsToLikes: 0.028322
-    id: ck7zosk55lqop0j78vggg2tvp
+    followers: 9112
+    engagement: 2153
+    commentsToLikes: 0.429635
+    id: ck9skqa1ua13n0j78xb4nidzv
     verified: false
-    hashtags: "#may4th, #onecommunity, #makebakeshake, #pancakecereal"
-  - username: "deanthebastard"
+    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
+  - username: "shannonsmith3239"
     fullname: >-
-      d ean
+      Shannon Smith
+    bio: >-
+      Healthcare/Parenting/Politics/Life VENMO: @Shannon-Smith-319 #SnarkyTikTok
     location: "United States"
-    followers: 19620
-    engagement: 2204
-    commentsToLikes: 0.046188
-    id: ck94o66g59uoo0j78hxpjl3u0
+    followers: 96600
+    engagement: 2016
+    commentsToLikes: 0.091988
+    id: ck9fmtlodv8000j78c0oo9wml
     verified: false
-    hashtags: "#bigforeheadcheck, #artchallenge, #jawline, #4u"
-  - username: "gameratergirl"
-    fullname: >-
-      IvyShadow
-    location: "United States"
-    followers: 17491
-    engagement: 2173
-    commentsToLikes: 0.045784
-    id: ck8vuqfwpjlyf0j78x1l54947
-    verified: false
-    hashtags: "#thisisntfair, #diditinonetake, #stream, #rock"
-  - username: "sugarbearhair"
-    fullname: >-
-      Sugarbearhair
-    location: "United States"
-    followers: 35177
-    engagement: 2128
-    commentsToLikes: 0.038212
-    id: ck8ae7rnuakty0j78vm4hkfli
-    verified: true
-    hashtags: "#sugarbearhair"
+    hashtags: "#democracy, #presidentbiden, #myhobby, #familyimpression"
 ---

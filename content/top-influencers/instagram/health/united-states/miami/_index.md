@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Miami In 2020
 description: >-
-  Find top health Instagram influencers in Miami in 2020. Most popular hashtags: #health #miami #fitness #staysafe.
+  Find top health Instagram influencers in Miami in 2020. Most popular hashtags: #miami #health #fitness #workout.
 platform: Instagram
+hits: 301
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 301 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "themariavillalbas"
+  - username: "quinncidence8"
     fullname: >-
-      MARIA VILLALBA
+      Quinn B
+    bio: >-
+      ⚡️SURGE SUPPLEMENTS : Quinn20 💧@purekana CBD: QuinnPK @staix.co code: Quinncidence8 Amazon wishlist ⬇️⬇️⬇️
     location: "United States"
-    followers: 107914
-    engagement: 308
-    commentsToLikes: 0.039116
-    id: ck5hguknm4u6v0i11oxv5b5g2
+    followers: 121665
+    engagement: 165
+    commentsToLikes: 0.034147
+    id: ck0vyhf5j40f30i19i8tkf72t
     verified: false
-    hashtags: "#lastnight, #winelover, #legday, #training"
-  - username: "thenotoriousiz"
+    hashtags: "#lifestyle, #model, #abs, #flex"
+  - username: "ohhselena"
     fullname: >-
-      
+      Selena Guerra
+    bio: >-
+      Dallas📍 Doing things @powder_heart Ambassdor @purebarredallas Co-Founder @currentlydallas Ambassdor & Development @explor.box EXPLOR 15%: SELENA15
     location: "United States"
-    followers: 13656
-    engagement: 915
-    commentsToLikes: 0.024568
-    id: ck5q19lzn9xfs0i1193j3jpso
+    followers: 4104
+    engagement: 1832
+    commentsToLikes: 0.068573
+    id: ck6u2xkswuhy20j71bafdhst2
     verified: false
-    hashtags: ""
-  - username: "theisaacrosenberg"
+    hashtags: "#miami, #local, #selfcare, #boutique"
+  - username: "ro54d"
     fullname: >-
-      Isaac Rosenberg
+      Rodrigo Garduño
+    bio: >-
+      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. @54d.us 🇺🇸/@54d.mx🇲🇽/@54d.col🇨🇴
     location: "United States"
-    followers: 18405
-    engagement: 305
-    commentsToLikes: 0.052039
-    id: ck8svv19mcstd0j78l4c7miof
+    followers: 1025537
+    engagement: 247
+    commentsToLikes: 0.038116
+    id: ck5cf0o7tm3c40i11cmvoo431
     verified: false
-    hashtags: "#beautifulhomes, #scenery, #motivational, #lake"
-  - username: "fashiontravelrepeat"
+    hashtags: "#rodrigogardu, #ny, #training, #miamiflorida"
+  - username: "teamfflex"
     fullname: >-
-      Vicki Rutwind 💖 Travel + Style
+      Ryan Milton
+    bio: >-
+      🌎 Worldwide NPC/IFBB coach 🏆 1,200+ top placing competitors 💯 20,000+ lifestyle client success stories 👇 Try it today for FREE! Hit the link now!
     location: "United States"
-    followers: 98395
-    engagement: 144
-    commentsToLikes: 0.077002
-    id: ck137pdm9cp860i19ym8xwhc2
+    followers: 235960
+    engagement: 67
+    commentsToLikes: 0.006305
+    id: ck0tsrzr00ch50i19j33gjd3o
     verified: false
-    hashtags: "#corsicaisland, #darlingplaces, #houseofharlow, #tigerprint"
-  - username: "artemusdolgin"
+    hashtags: "#bikinicompetition, #bikini, #bodybuilding, #ryanmilton"
+  - username: "kilanbishop"
     fullname: >-
-      Artemus Dolgin
+      Kilan C. Ashad-Bishop, Ph.D
+    bio: >-
+      Biomedical Scientist // PhD U Miami Med HBCU Grad // Morgan State Science // @umiamisehd Health // @risenation.miami Social Change // @stemnoire
     location: "United States"
-    followers: 525745
-    engagement: 191
-    commentsToLikes: 0.025948
-    id: ck14j1m6yi6c80i193zpc3f95
+    followers: 3911
+    engagement: 1080
+    commentsToLikes: 0.114624
+    id: ck6tt3co88d6a0j71hshw89fh
     verified: false
-    hashtags: "#recovery, #dmt, #differentbreed, #patience"
-  - username: "therebirthofparisc"
-    fullname: >-
-      Paris Chanel |📍Memphis Blogger
-    location: "United States"
-    followers: 76808
-    engagement: 841
-    commentsToLikes: 0.008640
-    id: ck55juxv4xsrw0i117wfyo7on
-    verified: false
-    hashtags: "#rsnap, #prenatal, #tasty, #cover"
-  - username: "caseyssimmons"
-    fullname: >-
-      Casey Simmons
-    location: "United States"
-    followers: 44354
-    engagement: 170
-    commentsToLikes: 0.031161
-    id: ck9wdjty0fz1b0j78la88o28b
-    verified: false
-    hashtags: "#legitaf"
+    hashtags: "#wishingyouwell, #blkwomenshealth, #blackincancerweek, #bwhiweek"
   - username: "michelle_vanessaa_"
     fullname: >-
       Michelle Vanessa
+    bio: >-
+      Miami🏝TV Host🎤Foodie 🍴 Wanderlust ✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
     location: "United States"
-    followers: 24712
-    engagement: 772
-    commentsToLikes: 0.063881
+    followers: 33192
+    engagement: 471
+    commentsToLikes: 0.116469
     id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#godblesseveryone, #norona, #fitness, #miami"
+    hashtags: "#novababe, #food, #miami, #health"
+  - username: "glowbyroe"
+    fullname: >-
+      ✨ GLOW BY ROE ✨
+    bio: >-
+      📍M I A M I 📆 By Appointment Only ❤️ ☎️786.669.2582 🤩Click the link to book! ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+    location: "United States"
+    followers: 18773
+    engagement: 116
+    commentsToLikes: 0.080001
+    id: ck602t0ediz9c0i14tus9234e
+    verified: false
+    hashtags: "#skin, #ageless, #lashes, #healthyskin"
   - username: "thatfitram"
     fullname: >-
-      Physique Posts Of @RyanAMac
+      R A M
+    bio: >-
+      Something Has to be Bigger then the Threats Something inside IS BIGGER The Threat is only Big while We’re Afraid Creator👁 Traveler🛩 Lover💙 Libra♎️
     location: "United States"
-    followers: 19489
-    engagement: 1404
-    commentsToLikes: 0.013433
+    followers: 21415
+    engagement: 1125
+    commentsToLikes: 0.012055
     id: ck6u5jbtc9yin0j7164x23kx4
     verified: false
-    hashtags: "#romance, #fitstyles, #stimulatelives, #mycalvins"
-  - username: "bonjourclem"
+    hashtags: "#physique, #love, #lean, #fit"
+  - username: "lizacode"
     fullname: >-
-      Clémentine Desseaux
+      🔥 LIZA 🔥 Girl in tech
+    bio: >-
+      Biologist 💣+ Programmer 🔌 🖤 Analyze DNA 🖤 Talk about health and DNA . Link to the masterclass for data scientists:
     location: "United States"
-    followers: 85087
-    engagement: 204
-    commentsToLikes: 0.030568
-    id: ck55kk4cyzhsg0i11feb9932p
-    verified: true
-    hashtags: "#supplements, #7forallmankind, #smsuperstar, #selfcare"
+    followers: 13053
+    engagement: 309
+    commentsToLikes: 0.039543
+    id: ck8tdfe9u35gl0j78k6f7ebua
+    verified: false
+    hashtags: "#programmer, #programming, #coding, #stem"
+  - username: "scarletbegonias_wildroses"
+    fullname: >-
+      Scarlet 🌹
+    bio: >-
+      Professional Model/Creator📸 Turn post notifications on ❤️ MM# 4434307 📧Email to book! 🚫DM @finnthehuman8o8❤️ @fuse_magazine Muse FL 🏡 & travel
+    location: "United States"
+    followers: 310717
+    engagement: 58
+    commentsToLikes: 0.034016
+    id: ck5q224vxdwi30i11ew94nq1b
+    verified: false
+    hashtags: "#halloween, #beauty, #ad, #summer"
 ---

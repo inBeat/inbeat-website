@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Sydney In 2020
 description: >-
-  Find top fashion TikTok influencers in Sydney in 2020. Most popular hashtags: #fashion #heapsgood #sydney #keepingbusy.
+  Find top fashion TikTok influencers in Sydney in 2020. Most popular hashtags: #fyp #sydney #fashion #australia.
 platform: TikTok
+hits: 16
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 16 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
-  - username: "buttermilkjesus9"
+  - username: "khal_music"
     fullname: >-
-      Yasin Osias
+      Karl
+    bio: >-
+      Syd Aus🇦🇺 TY for 43K💛 👻 kaarlos 📸 Khal_music_ Listen to Sonder! ⬇️💛
     location: "Australia"
-    followers: 46918
-    engagement: 733
-    commentsToLikes: 0.080190
-    id: ck83za9yxz3t00j787qw1nosj
+    followers: 43100
+    engagement: 1739
+    commentsToLikes: 0.098648
+    id: ck9c6pomkr77l0j784tnkniu0
     verified: false
-    hashtags: "#psycho, #vibecheck, #garou, #nolove"
-  - username: "kishamameridian"
+    hashtags: "#lofi, #viralsounds, #fyp, #sydney"
+  - username: "berrrna"
     fullname: >-
-      kishama
+      Berna | 🇵🇸🇮🇪
+    bio: >-
+      ♱ | 💚💙 | #estubid my grandparents are my alter ego 📧 berrrna.x@gmail.com
     location: "Australia"
-    followers: 33316
-    engagement: 1413
-    commentsToLikes: 0.038763
-    id: ckan1ly9bw5kk0i78i63onr6z
+    followers: 145400
+    engagement: 1058
+    commentsToLikes: 0.048026
+    id: ckc3f7nyk16fp0j23zbf7nurf
     verified: false
-    hashtags: "#indoorlooks, #progamer, #freezeframe, #littlethings"
+    hashtags: "#viral, #arab, #trend, #vlog"
   - username: "helenchikx"
     fullname: >-
       Helen Chik
+    bio: >-
+      Sydney🐨🇦🇺 ❤️s Muay Thai, a writer & mother 100k? 👇🏼BETTER ON INSTAGRAM 😌
     location: "Australia"
-    followers: 4969
-    engagement: 944
-    commentsToLikes: 0.137540
+    followers: 51000
+    engagement: 1100
+    commentsToLikes: 0.051470
     id: ck9v0merwdazi0j78oxagbqph
     verified: false
-    hashtags: "#duetthis, #bedroomcheck, #wipechallenge, #behindthescenes"
-  - username: "alexwest_photo"
+    hashtags: "#tiktokfashion, #fingertutting, #tiktokaustralia, #fashion"
+  - username: "adrianxhuynh"
     fullname: >-
-      Alex West
+      Adrian Huynh
+    bio: >-
+      Adrian 🇦🇺🇨🇳🇻🇳 😗✌️ IG: adrianxhuynh Follow for a 🍪
     location: "Australia"
-    followers: 15575
-    engagement: 402
-    commentsToLikes: 0.014730
-    id: cka86bad41txk0i782wsvjijn
+    followers: 31300
+    engagement: 1237
+    commentsToLikes: 0.031712
+    id: ckc7p4fhjuvck0j237vhrr452
     verified: false
-    hashtags: "#fitness, #heapsgood, #life, #live"
-  - username: "overpackedsuitcase"
+    hashtags: "#comedy, #fyp, #foryoupage, #australia"
+  - username: "alistairfawcus"
     fullname: >-
-      Raphaela
+      Alistair 
+    bio: >-
+      Bone Jaw 🗿 🇦🇺, Sydney IG | Alistairfawcus
     location: "Australia"
-    followers: 2068
-    engagement: 999
-    commentsToLikes: 0.258467
-    id: ck9dwvm4mqr8n0j782b3cz8fl
+    followers: 382700
+    engagement: 1920
+    commentsToLikes: 0.009515
+    id: ck921wr9xk09l0j78573id6lk
     verified: false
-    hashtags: "#tiktoktuesday, #levelup, #covid19, #happyplace"
-  - username: "knownasada"
+    hashtags: "#halloweenishere, #familyimpression, #aussierules, #comedy"
+  - username: "brightandbreezymagar"
     fullname: >-
-      Ada May
+      Indira Magar
+    bio: >-
+      Judge less and love more. RN/fashion choreographer/Glam Nepal International 🇦🇺
     location: "Australia"
-    followers: 2048
+    followers: 76000
     engagement: 462
-    commentsToLikes: 0.036245
-    id: ckaiasnlqdkds0i788fd6d31f
+    commentsToLikes: 0.029638
+    id: ckbqcedowykp00j23wian0vx6
     verified: false
-    hashtags: "#australia, #stepup, #90skidchallenge, #help"
-  - username: "belleandjade"
+    hashtags: "#nepalimuser, #australia, #nepalinurse, #nepalisong"
+  - username: "envybyjosie"
     fullname: >-
-      JADE & BELLE
+      Envybyjosie
+    bio: >-
+      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
     location: "Australia"
-    followers: 407975
-    engagement: 1322
-    commentsToLikes: 0.006270
-    id: ck8s6cre6jz120j78ru6rkmq2
+    followers: 3237
+    engagement: 281
+    commentsToLikes: 0.015183
+    id: ckdn5fqxregem0j23dudwkvcp
+    verified: false
+    hashtags: "#blonde, #tiktokartists, #hairstyles, #sydneyhair"
+  - username: "emmaclaiir"
+    fullname: >-
+      Emma Clair
+    bio: >-
+      Sydney, AUS INSTA: @emmaclaiir Just here for some fun with a hint of fashion💕
+    location: "Australia"
+    followers: 73800
+    engagement: 397
+    commentsToLikes: 0.009439
+    id: ckb9f5h9x3aun0j233l21g2my
+    verified: false
+    hashtags: "#fyp, #tiktokcouple, #fashioninspo, #tiktokfashion"
+  - username: "kayywuerf"
+    fullname: >-
+      Kaymie Wuerfel
+    bio: >-
+      American in Syd🇦🇺 Be Kind 🌸 Get Your PJs👇🏻
+    location: "Australia"
+    followers: 108800
+    engagement: 1578
+    commentsToLikes: 0.029163
+    id: cka0haxnz8drw0i78fudcrv75
     verified: true
-    hashtags: "#weekend, #culturekings, #loungewear, #dance"
+    hashtags: "#america, #aussie, #sydney, #foryou"
   - username: "lyndlkean"
     fullname: >-
       LyndlKean
+    bio: >-
+      Follow my IG LYNDLKEAN /🇦🇺/ Model / IMG Engage / Miss Earth Australia 2016
     location: "Australia"
-    followers: 72627
-    engagement: 1902
-    commentsToLikes: 0.029139
+    followers: 99600
+    engagement: 1479
+    commentsToLikes: 0.026252
     id: cka84t58ovid50i78rvcma8u1
     verified: true
-    hashtags: "#happyeaster, #bikini, #maccosmetics, #homeworkout"
-  - username: "rojrojxx"
-    fullname: >-
-      mamasita💸
-    location: "Australia"
-    followers: 4316
-    engagement: 3407
-    commentsToLikes: 0.018876
-    id: ck903sxdkdmhs0j78he92fzp9
-    verified: false
-    hashtags: "#morph, #coronavirus, #xyzcba, #fashion"
-  - username: "tony.zak"
-    fullname: >-
-      tony.zakharia2
-    location: "Australia"
-    followers: 6298
-    engagement: 696
-    commentsToLikes: 0.031699
-    id: ckamrmld7mdvm0i78b66w7tck
-    verified: false
-    hashtags: "#infections, #playstation, #hairy, #tips"
+    hashtags: "#fashion, #thatshot, #ad, #doless"
 ---

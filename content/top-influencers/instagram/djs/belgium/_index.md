@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In Belgium In 2020
 description: >-
-  Find top djs Instagram influencers in Belgium in 2020. Most popular hashtags: #djset #staysafe #black #savethesummer.
+  Find top djs Instagram influencers in Belgium in 2020. Most popular hashtags: #tomorrowland #festival #dance #spinninrecords.
 platform: Instagram
+hits: 12
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 12 Instagram influencers like this in Belgium for you to contact.
 profiles:
   - username: "edmturkey_"
     fullname: >-
       Electronic Dance Music 🇹🇷
+    bio: >-
+      DJs🎛🎧🖱Videos 🎥🖱Tracks🎶🖱Locations🌍 • #edm #housemusic #deephouse #trance #dubstep #trap #techno #bigroom #electrohouse #techhouse #hardstyle
     location: "Belgium"
-    followers: 8511
-    engagement: 1003
-    commentsToLikes: 0.014881
+    followers: 8367
+    engagement: 273
+    commentsToLikes: 0.014979
     id: ck9hcjiy2lpo60j7813vrjg65
     verified: false
-    hashtags: "#eminem, #kvsh, #banger, #queen"
+    hashtags: "#club, #quarantinelife, #amelielens, #tomorrowland"
+  - username: "festivalsbae"
+    fullname: >-
+      FestivalsBAE
+    bio: >-
+      🔥 Your #1 source for festival content 🔔 Follow us if you LOVE Festivals 📩 DM us your content to be featured
+    location: "Belgium"
+    followers: 20489
+    engagement: 358
+    commentsToLikes: 0.024079
+    id: ck9hck5qdlrzu0j7809dk84jl
+    verified: false
+    hashtags: "#ravers, #tomorrowworld, #davidguetta, #edmfamily"
   - username: "manualsmusic"
     fullname: >-
-      MANU ‘MANUALS’ VAN AALST
+      Manu ‘MANUALS’ van Aalst
+    bio: >-
+      🥳: Won @mnmbe start to DJ '19 🎵: 1/2 of @stressedoutsoundsystem 🦁: Won @stmpdrcrds remix comp ‘19 ✈️: Played 🇵🇹🇪🇸🇨🇿🇳🇱🇫🇷 📩: Joost@artistamplifier.com
     location: "Belgium"
-    followers: 6703
-    engagement: 1359
-    commentsToLikes: 0.102397
+    followers: 7323
+    engagement: 1433
+    commentsToLikes: 0.067136
     id: ck5qbkucqm3490i11a5992unm
     verified: false
-    hashtags: "#broske, #longhair, #commercial, #photoshoot"
-  - username: "jolienroets"
+    hashtags: "#musician, #music, #mnm, #belgium"
+  - username: "kidnoizeworld"
     fullname: >-
-      J.ROOTS
+      Kid Noize
+    bio: >-
+      📀 Gold Record Producer & Dj 📦🐒 Nouveau Single "Blow it up" dispo! 🖖🏼🐵👑
     location: "Belgium"
-    followers: 29952
-    engagement: 431
-    commentsToLikes: 0.015962
-    id: ck8t1w8igxa960j78skl8s2no
-    verified: false
-    hashtags: "#airmaxday, #coronahair, #ilovethe10s, #staysafe"
+    followers: 40217
+    engagement: 264
+    commentsToLikes: 0.028118
+    id: ck5zv2mkl3hbp0i1446g5v0je
+    verified: true
+    hashtags: "#valthorens, #kidnoize, #covid, #snow"
   - username: "wolfpacksounds"
     fullname: >-
       Wolfpack
+    bio: >-
+      Spot #38 Dj Mag Top100 Bookings: booking@smashthehouse.com business inquiries: bart@smashthehouse.com
     location: "Belgium"
     followers: 118285
     engagement: 115
     commentsToLikes: 0.082321
     id: ck0vvg4j6ozm20i19m5p10d39
     verified: true
-    hashtags: "#sunglasses, #fans, #festivallife, #bigroommusic"
-  - username: "svenrayen"
+    hashtags: "#rubenkhaza, #stevebraet, #white, #wave"
+  - username: "themartingarrixhub"
     fullname: >-
-      Sven Rayen
+      
+    bio: >-
+      0:00 ●━━━━──────── 01:11 ⇆ ⠀◁ ⠀⠀⠀⠀⠀❚❚ ⠀⠀⠀⠀ ▷ ⠀ ↻ ⠀ 金 it was all a dream ☾ - • never stop dreaming! ↓ i had the honor of interviewing @martingarrix
     location: "Belgium"
-    followers: 102065
-    engagement: 88
-    commentsToLikes: 0.014556
-    id: ck5pydjujvhxf0i11ifn1ozo3
+    followers: 101397
+    engagement: 229
+    commentsToLikes: 0.026764
+    id: ckap4mkwg7xuo0i78caq39ce4
     verified: false
-    hashtags: "#cutetattoo, #tabletennis, #antwerp, #fish"
+    hashtags: "#stmpdrcrds, #martingarrix, #scaredtobelonely, #tomorrowland"
   - username: "lesardentes"
     fullname: >-
       Les Ardentes
+    bio: >-
+      8.9.10.11 July #LESARDENTES21
     location: "Belgium"
-    followers: 53036
-    engagement: 1488
-    commentsToLikes: 0.050098
+    followers: 53340
+    engagement: 888
+    commentsToLikes: 0.026668
     id: ck0twkkxrfsue0i197zymytro
     verified: true
-    hashtags: "#culture3, #ayanakamura, #pookie, #partybus"
-  - username: "erolalkan"
+    hashtags: "#lesardentes, #rap, #rapfrancais, #lesardentes21"
+  - username: "krydermusic"
     fullname: >-
-      Erol Alkan
+      K̶R̶Y̶D̶E̶R̶
+    bio: >-
+      🇬🇧 : DJ ,Producer & Remixer ⁣ 💿 Label Owner: @sosumirecords⁣ @cartelrecordings @kryteriarecords 📰 Latest News 🔽⁣
     location: "Belgium"
-    followers: 40737
-    engagement: 168
-    commentsToLikes: 0.048956
-    id: ck0txmdhxjm4p0i195e08by96
+    followers: 83698
+    engagement: 149
+    commentsToLikes: 0.133636
+    id: ck0u6gjl51ywk0i1942rzghu7
     verified: true
-    hashtags: "#digitaldelay, #lowlands, #ph01, #everpress"
+    hashtags: "#progressivehouse, #electricdaisycarnival, #swag, #parookaville"
   - username: "atilenak"
     fullname: >-
-      ♈️KANESSA AGUILAR RODRIGUEZ♈️
+      KANESSA AKA « YMIH YMIH » ♈️🦋
+    bio: >-
+      📍Bx 🇧🇪 🇲🇽🇲🇦🇸🇩 📨 kanessarodriguezpro@gmail.com @umoja.festival XIIIOAK @theafrohouselab 🗣 🌊 @afrobea O.D #TeamHybrid* « N’Y PENSE PLUS » ⬇️⬇️⬇️⬇️
     location: "Belgium"
-    followers: 16977
-    engagement: 853
-    commentsToLikes: 0.035147
+    followers: 17330
+    engagement: 778
+    commentsToLikes: 0.040787
     id: ck5zqe2l6ufpn0i14uopiz2ag
     verified: false
-    hashtags: "#enjoy, #londongirl, #sunyday, #girl"
-  - username: "afrojack"
+    hashtags: "#dance, #belgium, #photooftheday, #teamhybrid"
+  - username: "yassinjokersan"
     fullname: >-
-      Nick
+      Y A S S I N  J O K E R
+    bio: >-
+      👦🏻 Human|Artist|Dancer• 📍 Brussels/Paris• 🌍 World Lover• 🐉 @evolvedanceprogram 🧿🧿🧿🧿🧿🧿🧿🧿
     location: "Belgium"
-    followers: 3820475
-    engagement: 77
-    commentsToLikes: 0.013938
-    id: ck8szkeibos9u0j78akyi439t
-    verified: true
-    hashtags: "#allnight, #afroki, #tbt, #tomorrowland"
-  - username: "festseries"
-    fullname: >-
-      Fest Series
-    location: "Belgium"
-    followers: 78016
-    engagement: 332
-    commentsToLikes: 0.003842
-    id: ck0vzoqhta5an0i19ckw6hvxe
+    followers: 6482
+    engagement: 369
+    commentsToLikes: 0.054303
+    id: ck5zpkeazstem0i140y5ecov0
     verified: false
-    hashtags: "#kendatireseurope, #cruzfest, #fivetenshoes, #whip"
+    hashtags: "#hiphop, #dance, #stayhomeandkeeptraining, #jokersan"
 ---

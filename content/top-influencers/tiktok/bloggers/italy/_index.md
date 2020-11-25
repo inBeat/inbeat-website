@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In Italy In 2020
 description: >-
-  Find top bloggers TikTok influencers in Italy in 2020. Most popular hashtags: #italy #italia #foryou #challenge.
+  Find top bloggers TikTok influencers in Italy in 2020. Most popular hashtags: #imparacontiktok #italia #perte #foryou.
 platform: TikTok
+hits: 18
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 18 TikTok influencers like this in Italy for you to pitch.
 profiles:
-  - username: "giomadonna_official"
+  - username: "matteo_battazza"
     fullname: >-
-      Giò Madonna
+      Matteo_battazza
+    bio: >-
+      2002😈food blogger , Paolo Fox 2.0 CEO:ciboallacazzo 50k?🥰♥️
     location: "Italy"
-    followers: 4687
-    engagement: 1056
-    commentsToLikes: 0.096906
-    id: ckaciug794xm90i78rgf1reku
+    followers: 48700
+    engagement: 1796
+    commentsToLikes: 0.032372
+    id: ck8vshspldmie0j78wmn3kzl1
     verified: false
-    hashtags: "#greece, #green, #news, #skill"
-  - username: "eleutha"
-    fullname: >-
-      eleutha
-    location: "Italy"
-    followers: 2020
-    engagement: 710
-    commentsToLikes: 0.078279
-    id: ckacd2o0fijaz0i78dizvon5c
-    verified: false
-    hashtags: "#boredinthehouse, #italia, #nofilter, #bowlchallenge"
-  - username: "due_zaini_in_viaggio"
-    fullname: >-
-      due_zaini_in_viaggio
-    location: "Italy"
-    followers: 2190
-    engagement: 687
-    commentsToLikes: 0.109253
-    id: ckamwk00v8wgc0i78udps3zvo
-    verified: false
-    hashtags: "#naturelover, #tiktokviaggi, #funnycomedy, #friends"
-  - username: "dianadelorenzi"
-    fullname: >-
-      Diana De Lorenzi
-    location: "Italy"
-    followers: 27801
-    engagement: 945
-    commentsToLikes: 0.023258
-    id: cka0vtbiwzy9m0i78hw6v6o49
-    verified: false
-    hashtags: "#pink, #martino, #memories, #sicilia"
-  - username: "lilianacastriotta"
-    fullname: >-
-      lilianacastriotta
-    location: "Italy"
-    followers: 2638
-    engagement: 959
-    commentsToLikes: 0.054991
-    id: cka0p2ik76i9f0i78d30izds0
-    verified: false
-    hashtags: "#goodtimes, #videomaker, #makesomenoise, #changeoutfits"
-  - username: "cocolavieenrose"
-    fullname: >-
-      Valeria Arizzi
-    location: "Italy"
-    followers: 4026
-    engagement: 534
-    commentsToLikes: 0.066720
-    id: ck8vsi6p5dp000j78dilpl6bu
-    verified: false
-    hashtags: "#pose, #haircare, #bounce, #comments"
+    hashtags: "#foryourpage, #foryou, #newtrend, #neiperte"
   - username: "marcodelia97"
     fullname: >-
       Marco D'Elia
+    bio: >-
+      🇮🇹 Mister World Italy 🇮🇹 Italian Model YouTuber / Blogger Journey to Succes
     location: "Italy"
-    followers: 69029
-    engagement: 568
-    commentsToLikes: 0.035115
+    followers: 180800
+    engagement: 891
+    commentsToLikes: 0.036194
     id: ck9fmcyirsqgw0j782dagw1ji
     verified: false
-    hashtags: "#handstand, #mindfulness, #brands, #howto"
-  - username: "takemyhearteverywhere"
+    hashtags: "#routine, #beautycare, #chupalloween, #menvsboys"
+  - username: "vologratis"
     fullname: >-
-      Francesca & Tommaso
+      ANDREA PETRONI travel blogger
+    bio: >-
+      ✈️ Travel Blogger VoloGratis.org 🌍 📷Instagram @vologratis +51k
     location: "Italy"
-    followers: 25905
-    engagement: 1391
-    commentsToLikes: 0.015902
-    id: ck8qiwsikapnk0j786tlyb9hs
+    followers: 16000
+    engagement: 686
+    commentsToLikes: 0.041308
+    id: ckbez22csjv070j23qzbke3kt
     verified: false
-    hashtags: "#greekislands, #summer, #greece, #sunsetlover"
-  - username: "theliving_man"
+    hashtags: "#consiglidiviaggio, #impararecontiktok, #blogdiviaggi, #viaggi"
+  - username: "eleutha"
     fullname: >-
-      TheLivingMan
+      eleutha
+    bio: >-
+      New on Tik Tok! Italian Travel Blogger! ✈️ Videos of my travels Insta: @eleutha
     location: "Italy"
-    followers: 22742
-    engagement: 535
-    commentsToLikes: 0.046423
-    id: ckal55lk45f7d0i78dbkkf2et
+    followers: 5699
+    engagement: 566
+    commentsToLikes: 0.046555
+    id: ckacd2o0fijaz0i78dizvon5c
     verified: false
-    hashtags: "#italianfood, #madein, #goodvibes, #mercedes"
-  - username: "a.t.c.mela"
+    hashtags: "#instagramplace, #dolomites, #tiktoktravel, #autunno"
+  - username: "lilianacastriotta"
     fullname: >-
-      Mela
+      lilianacastriotta
+    bio: >-
+      Fashion Blogger Www.lilianacastriotta.com Instagram: lilianacastriotta
     location: "Italy"
-    followers: 28399
-    engagement: 321
-    commentsToLikes: 0.013774
-    id: ck8j4funn20ly0j781xrktpak
+    followers: 2966
+    engagement: 981
+    commentsToLikes: 0.066495
+    id: cka0p2ik76i9f0i78d30izds0
     verified: false
-    hashtags: "#welovepizza, #tagliare, #dessert, #italiana"
+    hashtags: "#bridalstylist, #quarantena, #italiangirl, #consulentedimmagine"
+  - username: "cocolavieenrose"
+    fullname: >-
+      Skincare con Valeria Arizzi
+    bio: >-
+      Consigli BEAUTY e CURA DELLA PELLE🦄 Skinfluencer 👩🏼 Outfit Blogger 💖 Mamma
+    location: "Italy"
+    followers: 15500
+    engagement: 557
+    commentsToLikes: 0.121476
+    id: ck8vsi6p5dp000j78dilpl6bu
+    verified: false
+    hashtags: "#puntineri, #italia, #imparacontiktok, #skintok"
+  - username: "dianadelorenzi"
+    fullname: >-
+      Diana De Lorenzi
+    bio: >-
+      Professional lifestyle blogger🇮🇹 Instagram: @dianadelorenzi
+    location: "Italy"
+    followers: 68400
+    engagement: 1103
+    commentsToLikes: 0.012187
+    id: cka0vtbiwzy9m0i78hw6v6o49
+    verified: false
+    hashtags: "#sonoproprioio, #sea, #comeinunfilm, #artober"
+  - username: "due_zaini_in_viaggio"
+    fullname: >-
+      due_zaini_in_viaggio
+    bio: >-
+      👫Noemi & Lorenzo 💥 Crazy Travel Blogger 🎬 Video e Foto dal Mondo 🌍
+    location: "Italy"
+    followers: 8424
+    engagement: 888
+    commentsToLikes: 0.047933
+    id: ckamwk00v8wgc0i78udps3zvo
+    verified: false
+    hashtags: "#islanda, #torneremoaviaggiare, #consiglidiviaggio, #imparacontiktok"
+  - username: "carlotta.seno"
+    fullname: >-
+      carlottaseno
+    bio: >-
+      Blogger Fashion trends | Consigli di Moda | Milano
+    location: "Italy"
+    followers: 22200
+    engagement: 848
+    commentsToLikes: 0.022076
+    id: ckcoxcv3e9skn0j237wjyzqwf
+    verified: false
+    hashtags: "#duetto, #mfw2021, #styletipsforyou, #zarahaul"
+  - username: "beninigiulia"
+    fullname: >-
+      Giulia Benini
+    bio: >-
+      🌍 Travel lover and blogger 🌍 www.unamammaperguida.com
+    location: "Italy"
+    followers: 17500
+    engagement: 610
+    commentsToLikes: 0.030417
+    id: ckc82aoyv32ql0j23tpju4k7d
+    verified: false
+    hashtags: "#puglia, #challenge, #travelgirl, #travelblogger"
 ---

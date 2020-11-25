@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top fitness TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fitness #keepingactive #gotthisforyou #losangeles.
+  Find top fitness TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #fitness #workout #fyp.
 platform: TikTok
+hits: 73
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 73 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
+  - username: "krystynaestrada"
+    fullname: >-
+      Krystyna Estrada
+    bio: >-
+      LA BASED PERSONAL TRAINER IG @key_fitt
+    location: "United States"
+    followers: 10400
+    engagement: 531
+    commentsToLikes: 0.015470
+    id: ckcj957f07pco0j23jicuubns
+    verified: false
+    hashtags: "#fitspo, #motivation, #womensbest, #fitnessmodel"
+  - username: "rodriguechesnier"
+    fullname: >-
+      Rodriguechesnier
+    bio: >-
+      IFBBPRO MEN’S PHYSIQUE Follow me on instagram Rodriguechesnier
+    location: "United States"
+    followers: 55300
+    engagement: 523
+    commentsToLikes: 0.007126
+    id: ck8w1bc9i1ai50j78wgl2znjz
+    verified: false
+    hashtags: "#biceps, #training, #workhard, #foryou"
+  - username: "tomstanley__"
+    fullname: >-
+      Tom Stanley
+    bio: >-
+      20 Years Old Taking People To New Heights 🛩 Instagram: tomstanley__
+    location: "United States"
+    followers: 55900
+    engagement: 1262
+    commentsToLikes: 0.072175
+    id: ck9fbnqsbg5fk0j78f2fk63yg
+    verified: false
+    hashtags: "#travel, #airplane, #fly, #airline"
   - username: "_jeffmendoza_"
     fullname: >-
       _jeffmendoza_
+    bio: >-
+      Photography | Fitness | Skincare 📍Los Angeles, CA 🏳️‍🌈 | 🇵🇭
     location: "United States"
-    followers: 3104
-    engagement: 528
-    commentsToLikes: 0.093642
+    followers: 3052
+    engagement: 562
+    commentsToLikes: 0.047619
     id: ck9vctieos1pm0j78tva401fz
     verified: false
-    hashtags: "#photographerproblems, #losangeles, #mmmdrop, #sales"
-  - username: "thealexallen"
+    hashtags: "#newyorkcity, #losangeles, #voguechallenge, #malemodel"
+  - username: "aarontorng"
     fullname: >-
-      Alex Allen
+      Aaron Torng
+    bio: >-
+      🏃‍♂️ Fitness Trainer 📍 Los Angeles Need motivation? ⬇️⬇️ Join the fam!
     location: "United States"
-    followers: 116660
-    engagement: 1259
-    commentsToLikes: 0.016600
-    id: cka0qzqq4et870i78qe3ecqy3
+    followers: 38900
+    engagement: 500
+    commentsToLikes: 0.037113
+    id: ckb0ughfbjrko0j239d0ttiss
     verified: false
-    hashtags: "#randomthings, #lululemonreview, #jumpman, #forya"
-  - username: "influencersinthewild"
+    hashtags: "#deepsquats, #squatsworkout, #howtosquat, #anklemobility"
+  - username: "danoruiseco"
     fullname: >-
-      Influencersinthewild
+      Daniel Ruiseco
+    bio: >-
+      
     location: "United States"
-    followers: 225574
-    engagement: 272
-    commentsToLikes: 0.008501
-    id: ck9r4pp9kw3mr0j78ruirenhs
-    verified: true
-    hashtags: "#hiking, #twitch, #toystory, #travel"
-  - username: "metabymichelle"
-    fullname: >-
-      MetabyMichelle
-    location: "United States"
-    followers: 5595
-    engagement: 733
-    commentsToLikes: 0.024279
-    id: cka67l134le4i0i785tmcql82
+    followers: 4051
+    engagement: 609
+    commentsToLikes: 0.027865
+    id: ckbfhf3kwcvu00j23rrll8vzo
     verified: false
-    hashtags: "#spacethings, #baby, #videogames, #gotthisforyou"
-  - username: "judeguo"
+    hashtags: "#sexy, #model, #losangelescalifornia, #venicebeach"
+  - username: "ohfasho"
     fullname: >-
-      Jude Guo
+      GEO
+    bio: >-
+      Quarantine made me do it.. IG @85photography
     location: "United States"
-    followers: 199066
-    engagement: 529
-    commentsToLikes: 0.006514
-    id: ck99ah3nqhlkg0j78o90gg4y8
+    followers: 4356
+    engagement: 1785
+    commentsToLikes: 0.017824
+    id: ckce0uh4ihxuh0j23r9hjc7cn
     verified: false
-    hashtags: "#stayhome, #kobe, #kobebryant, #boxing"
-  - username: "travipayne"
+    hashtags: "#pnw, #seattle, #fyp, #art"
+  - username: "adrian.hdz"
     fullname: >-
-      Travion Payne
+      Adrián Hernández
+    bio: >-
+      Living my best life Wakanda forever! 🐯
     location: "United States"
-    followers: 40048
-    engagement: 2272
-    commentsToLikes: 0.024056
-    id: ck81qqu87j2mr0j78yrdbs3rl
+    followers: 16200
+    engagement: 538
+    commentsToLikes: 0.022096
+    id: ckb98ailgrgog0j23c0r5htj6
     verified: false
-    hashtags: "#gymnastics, #aerialist, #emotion, #aerialsilks"
-  - username: "satomaa96"
+    hashtags: "#foru, #foryou, #fyp, #tacos"
+  - username: "overtimejess"
     fullname: >-
-      Satomaa
+      Jess Lucero
+    bio: >-
+      Sports reporter & Entertainment host LA homer 🌴 @Overtime🏀🏈 & @Dodgers host⚾️
     location: "United States"
-    followers: 8094
-    engagement: 1145
-    commentsToLikes: 0.054083
-    id: ck8j48s8f1b740j78eifre8fv
+    followers: 12400
+    engagement: 1161
+    commentsToLikes: 0.090164
+    id: ckc36gf4lvcex0j234gvb7lig
     verified: false
-    hashtags: "#aprilfools, #memories, #taylorswift, #anthem"
-  - username: "bfiggy_"
+    hashtags: "#sports, #overtime, #football, #nba"
+  - username: "emantheegyptian"
     fullname: >-
-      bfiggy
+      Eman
+    bio: >-
+      professional hype woman always smiling ig: thedailyeman cash app: $ehass14
     location: "United States"
-    followers: 4845
-    engagement: 1176
-    commentsToLikes: 0.084512
-    id: ck9jzkdfi957z0j78rm5cbkge
+    followers: 6482
+    engagement: 768
+    commentsToLikes: 0.012623
+    id: ckb9bhm9vxrwf0j235up6r0b3
     verified: false
-    hashtags: "#sportsvideo, #tips, #colorgrade, #camera"
-  - username: "dxnielbennett"
-    fullname: >-
-      Daniel Bennett
-    location: "United States"
-    followers: 180124
-    engagement: 2199
-    commentsToLikes: 0.005353
-    id: ck8kfmbrret7z0j78omtk3utw
-    verified: false
-    hashtags: "#pancakecereal, #money, #neverfitin, #chickfila"
-  - username: "footdocdana"
-    fullname: >-
-      Dr. Dana
-    location: "United States"
-    followers: 535620
-    engagement: 1060
-    commentsToLikes: 0.019929
-    id: ck8kjj9b8v18q0j781zxvxfbe
-    verified: false
-    hashtags: "#whirlpool, #surgeon, #podiatry, #doctors"
+    hashtags: "#glowup, #everydayscience, #fyp, #weightloss"
 ---

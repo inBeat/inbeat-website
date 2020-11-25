@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Turkey In 2020
 description: >-
-  Find top christian Instagram influencers in Turkey in 2020. Most popular hashtags: #travel #blue #paris #stayathome.
+  Find top christian Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #turkey #ad.
 platform: Instagram
+hits: 58
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 58 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "bahadirsansarci"
+  - username: "lostleblanc"
     fullname: >-
-      Bahadır Sansarcı
+      Christian LeBlanc
+    bio: >-
+      Escaped the 9-5 🌴 YouTube / Travel let's talk: christian@lostleblanc.com @lostcreatoracademy 🎥👇🏼
     location: "Turkey"
-    followers: 6653
-    engagement: 2518
-    commentsToLikes: 0.138457
-    id: ck5znstoyp34m0i14c77678tg
+    followers: 664924
+    engagement: 580
+    commentsToLikes: 0.008433
+    id: ck0tz8554pftx0i19bad49rhk
+    verified: true
+    hashtags: "#tulum, #lostcreators"
+  - username: "christian_ferretti"
+    fullname: >-
+      Christian Ferretti
+    bio: >-
+      Fashion and Beauty Photographer Director. Represented by IMG Lens Worldwide. @specialagentferretti
+    location: "Turkey"
+    followers: 60614
+    engagement: 474
+    commentsToLikes: 0.000000
+    id: ck15r1n8b5owk0i19xwdkrkou
     verified: false
-    hashtags: "#slovenia, #zapsuyu, #berchtesgaden, #exploringglobe"
+    hashtags: "#nails, #makeup, #joaoknorr, #heriethpaul"
+  - username: "christianhornerofficial"
+    fullname: >-
+      Christian Horner
+    bio: >-
+      Team Principal @RedBullRacing and @wingsforlife Ambassador.
+    location: "Turkey"
+    followers: 794393
+    engagement: 464
+    commentsToLikes: 0.007710
+    id: ck5zm11u9lpoo0i14p3ue7b2g
+    verified: true
+    hashtags: "#imola, #turkishgp, #redbull, #astonmartinredbullracing"
+  - username: "sunduzdurmazofficial"
+    fullname: >-
+      Siham Mansouri
+    bio: >-
+      Sündüz Durmaz resmi hesabıdır Büyük beden manken⛹️‍♀️ DOYA DOYA MODA 2020 GÖNÜLLERİN ŞAMPİYONU WhatsApp: 0905537384963
+    location: "Turkey"
+    followers: 180922
+    engagement: 175
+    commentsToLikes: 0.014118
+    id: ck13a2sgaocji0i19usnk7mip
+    verified: false
+    hashtags: "#ankara, #izmir, #youtubeuse, #oran"
+  - username: "amcgrimes5"
+    fullname: >-
+      Merve
+    bio: >-
+      JUST A WEIRD FAN
+    location: "Turkey"
+    followers: 30226
+    engagement: 663
+    commentsToLikes: 0.006464
+    id: ck15thtaki5ao0i19hinib55i
+    verified: false
+    hashtags: ""
+  - username: "sheldon.shopping"
+    fullname: >-
+      sheldon shoes shopping
+    bio: >-
+      TÜM KARGOLARIMIZ ŞEFFAFTIR 📦 ♻️ DEĞİŞİM 🌍 TÜRKİYENİN HER YERİNE HIZLI KARGO 💶 KAPIDA ÖDEME 💳 SİPARİŞ⤵️ 📞 WP:0541 221 32 73/0534 838 01 51
+    location: "Turkey"
+    followers: 18111
+    engagement: 316
+    commentsToLikes: 0.032322
+    id: ck8t5de189qqz0j78v1syae3v
+    verified: false
+    hashtags: "#christianlouboutin, #sporayakkab, #louboutin, #redsoles"
   - username: "dorukutuk_"
     fullname: >-
       Doriloji
+    bio: >-
+      trips 🌍 Radiology
     location: "Turkey"
-    followers: 3284
-    engagement: 1390
+    followers: 2869
+    engagement: 1591
     commentsToLikes: 0.052173
     id: ckap8hdc5ob4n0i78hd8m8jcc
     verified: false
-    hashtags: "#floransa, #uffizigallery, #norvec, #couchsurfing"
-  - username: "helyailkhani"
+    hashtags: "#at, #sweden, #roamersclub, #nofilter"
+  - username: "i.am.rosemarie"
     fullname: >-
-      Helya Ilkhani 👸🏼هليا ايلخانى
+      Model 🌹Traveldiary
+    bio: >-
+      Management @ivetfashion ⛳️ right now - right here: SOFIA ~My currency is miles~
     location: "Turkey"
-    followers: 289965
-    engagement: 295
-    commentsToLikes: 0.034040
-    id: ck9wf3dspn3uu0j78revgpeu0
+    followers: 30001
+    engagement: 305
+    commentsToLikes: 0.052000
+    id: ck55myhyw53tg0i11f999ayob
     verified: false
-    hashtags: "#mask, #accent, #amazon, #toyota"
-  - username: "bayildimmm"
-    fullname: >-
-      Bayildimmm
-    location: "Turkey"
-    followers: 785086
-    engagement: 147
-    commentsToLikes: 0.088786
-    id: ck0u0b008t4u60i19wruy2xpt
-    verified: false
-    hashtags: "#wedding, #likeart, #bestrestaurant, #tatildedans"
-  - username: "themovieturkiye"
-    fullname: >-
-      The Marvel Türkiye
-    location: "Turkey"
-    followers: 32770
-    engagement: 567
-    commentsToLikes: 0.025126
-    id: ckapaoqmlww0q0i78abj4rplz
-    verified: false
-    hashtags: "#anjelicahuston, #edwardcullen, #monkey, #parabellum"
+    hashtags: "#bulgaria, #istanbul, #culture, #bosphorus"
   - username: "zeynepkalkan"
     fullname: >-
       Zeynep Uludağ
+    bio: >-
+      ♡ Based in Belgium Y.A.Z | Wifey to @alperuludag_ | Mom of @ygmruludag_
     location: "Turkey"
     followers: 122691
     engagement: 262
     commentsToLikes: 0.051032
     id: ck0u6g9la1xlr0i1997xbi21q
     verified: false
-    hashtags: "#boredinthehouse, #plankchallenge, #couplegoals, #iloveyou"
-  - username: "ikizlerleokuyorum"
+    hashtags: "#mdv, #momanddaughter, #manieredevoir, #gailadesign"
+  - username: "backfromovie"
     fullname: >-
-      Zeynep
+      Back from Movie
+    bio: >-
+      Dizi sayfamız: @dizieditleri
     location: "Turkey"
-    followers: 4569
-    engagement: 1152
-    commentsToLikes: 0.096496
-    id: ck5q7tm8i30yx0i11rmoe1pzo
+    followers: 47524
+    engagement: 642
+    commentsToLikes: 0.014544
+    id: ckaoxp4s6e7550i78a8sa6zaq
     verified: false
-    hashtags: "#cihankaramanc, #masadakid, #ottiviasalina, #necipmahfuz"
-  - username: "sanattarihiplatformu"
-    fullname: >-
-      Sanat Tarihi Platformu
-    location: "Turkey"
-    followers: 34025
-    engagement: 209
-    commentsToLikes: 0.027220
-    id: ck0w4w3c80oz30i19t6ed555l
-    verified: false
-    hashtags: "#ortaasya, #oryantalist, #minaret, #ludwigdeutsch"
-  - username: "naazilaher_"
-    fullname: >-
-      Naazi Laher
-    location: "Turkey"
-    followers: 4422
-    engagement: 648
-    commentsToLikes: 0.099558
-    id: ck14ijxphfs940i19ugaex2c1
-    verified: false
-    hashtags: "#mantra, #christiandior, #myjourney, #zarawoman"
-  - username: "jeymstuncer"
-    fullname: >-
-      Cem Tuncer
-    location: "Turkey"
-    followers: 5662
-    engagement: 542
-    commentsToLikes: 0.046036
-    id: ck8t0sdayt4h10j78k4084ynt
-    verified: false
-    hashtags: "#rickyford, #st, #nas, #edizhaf"
+    hashtags: "#jksimmons, #joaquinphoenix, #rosamundpike, #mrbrunner"
 ---

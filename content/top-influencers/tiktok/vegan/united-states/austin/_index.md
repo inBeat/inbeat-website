@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Austin In 2020
 description: >-
-  Find top vegan TikTok influencers in Austin in 2020. Most popular hashtags: #vegan #coronavirus #food #distancedance.
+  Find top vegan TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #vegan #duet #foryoupage.
 platform: TikTok
+hits: 22
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 22 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "austineguia"
+  - username: "ketosnackz"
     fullname: >-
-      Austin Eguia
+      iRick
+    bio: >-
+      Keto enthusiast located in Austin, TX!
     location: "United States"
-    followers: 44976
-    engagement: 602
-    commentsToLikes: 0.032173
-    id: ck9shj2pytnj50j781mrzc20m
+    followers: 50600
+    engagement: 480
+    commentsToLikes: 0.034595
+    id: ckb9bp23yxyr20j23zdexbpii
     verified: false
-    hashtags: "#baking, #html, #lunges, #challenge"
+    hashtags: "#ketosis, #type2diabetes, #ketodiet, #lowcarbdiet"
+  - username: "mr.biggiebear"
+    fullname: >-
+      mr.biggiebear
+    bio: >-
+      Making Hoomans shmile since 16’ 🤘🏽🌈
+    location: "United States"
+    followers: 60300
+    engagement: 1921
+    commentsToLikes: 0.019032
+    id: ck8fark5y4lns0j78p5zy60ap
+    verified: false
+    hashtags: "#primal, #ily, #foryoupage, #fyp"
+  - username: "ashleythenoble"
+    fullname: >-
+      Ashy
+    bio: >-
+      Venmo: ashleythenoble
+    location: "United States"
+    followers: 541500
+    engagement: 680
+    commentsToLikes: 0.039477
+    id: ckdhxf37p4hum0j23szk95k20
+    verified: false
+    hashtags: "#over30, #womenover30, #provewhatspossible, #spooktember"
+  - username: "austin_maguire"
+    fullname: >-
+      Austin Maguire 
+    bio: >-
+      help me reach my ultimate goal of world domination they/she austinmconnect@gmail
+    location: "United States"
+    followers: 706900
+    engagement: 1678
+    commentsToLikes: 0.015388
+    id: ck8j9dkebmxzk0j785ulzilio
+    verified: true
+    hashtags: "#stitch, #positions, #debate2020, #trans"
   - username: "gingergijoe"
     fullname: >-
       Austin Laun
+    bio: >-
+      ✝️Follower of God🙏 Follow me! I’m whatever is opposite of a vegan..
     location: "United States"
-    followers: 105793
-    engagement: 1337
-    commentsToLikes: 0.021478
+    followers: 124100
+    engagement: 1969
+    commentsToLikes: 0.013132
     id: ck8hs580fbrkv0j78kvwfuy7e
     verified: false
-    hashtags: "#fans, #allstarmoment, #tesla, #iraq"
-  - username: "ninaberenato"
+    hashtags: "#military, #veteransday, #veteran, #stitch"
+  - username: "kateaustin_"
     fullname: >-
-      Nina Berenato
+      Kate Austin
+    bio: >-
+      she/her another vegan lesbian i’m better on instagram instagram: @kateaustinn
     location: "United States"
-    followers: 11859
-    engagement: 627
-    commentsToLikes: 0.011779
-    id: ck81s9n0nr1y10j785ei5mkqu
+    followers: 144000
+    engagement: 954
+    commentsToLikes: 0.008597
+    id: ckd0kvsfag2nh0j23vk53dkhz
     verified: false
-    hashtags: "#jeweleymaking, #getthelook, #tomboy, #realtalk"
-  - username: "findingjayreace"
+    hashtags: "#provewhatspossible, #ghostphotoshoot, #fyp, #femme"
+  - username: "hunger4more1212"
     fullname: >-
-      🤴🏽Jꪖꪗ Rꫀꪖᥴꫀ 🌱
+      Austin Ogu
+    bio: >-
+      Just A Husband/dad trying to enjoy life CEO of kitchen Tiktok
     location: "United States"
-    followers: 7116
-    engagement: 1410
-    commentsToLikes: 0.268393
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 161000
+    engagement: 1735
+    commentsToLikes: 0.048056
+    id: ckb18y3nrwvqh0j238bw1wjd3
     verified: false
-    hashtags: "#footloose, #foodie, #parentsoftiktok, #veganfood"
-  - username: "ryansxlshorts"
+    hashtags: "#jokes, #marriedlife, #relationshipgoals, #ohno"
+  - username: "the_factual_texan"
     fullname: >-
-      Walmart Andy Dwyer
+      Exposing TikTok
+    bio: >-
+      (Ben Shapiro Jr.) Follow @the_war_history_kid for wwii content
     location: "United States"
-    followers: 9815
-    engagement: 1037
-    commentsToLikes: 0.029512
-    id: ck8070sc8nprp0j78pahrowpx
+    followers: 101500
+    engagement: 1577
+    commentsToLikes: 0.070365
+    id: ckc85mlg8546a0j23x9g8cyb9
     verified: false
-    hashtags: "#quarantinelife, #blackmirror, #fortworth, #creditcard"
-  - username: "ttaylorfoulk"
+    hashtags: "#liberal, #gun, #debunked, #vegan"
+  - username: "calbal12345"
     fullname: >-
-      Tyra Taylor-Foulk
+      Cal
+    bio: >-
+      20, California//New York
     location: "United States"
-    followers: 23314
-    engagement: 658
-    commentsToLikes: 0.088836
-    id: ck83z4le6xnga0j78ks8aakqp
+    followers: 6637
+    engagement: 901
+    commentsToLikes: 0.066081
+    id: ck81q7mxlgleb0j78522u17z5
     verified: false
-    hashtags: "#lastminutexmas, #carsoftiktok, #spacethings, #blackmirror"
-  - username: "officialmikedrop"
+    hashtags: "#fashion, #britneyspears, #ohno, #halloween"
+  - username: "fungalfairy"
     fullname: >-
-      Michael Brent
+      ☻ jacie ☻
+    bio: >-
+      nm jus chillin on earth for a lil bit tryin to raise the vibration wbu?
     location: "United States"
-    followers: 68735
-    engagement: 1385
-    commentsToLikes: 0.022134
-    id: cka0iny9hehpc0i78jqnbyn66
+    followers: 17700
+    engagement: 1550
+    commentsToLikes: 0.014484
+    id: ckbfhejjccsz80j238cgvy2k3
     verified: false
-    hashtags: "#guitar, #conversations, #audio, #losangeles"
-  - username: "sophfeld"
-    fullname: >-
-      soph
-    location: "United States"
-    followers: 18883
-    engagement: 809
-    commentsToLikes: 0.031371
-    id: cka0pxaqua7x70i78wbzwieb6
-    verified: false
-    hashtags: "#pancakecereal, #retailtherapy, #judaism, #rome"
-  - username: "justusdomenic"
-    fullname: >-
-      Justus Delgado
-    location: "United States"
-    followers: 113081
-    engagement: 2250
-    commentsToLikes: 0.012608
-    id: ck80nsfgiedya0j783ae2chbd
-    verified: false
-    hashtags: "#momsoftiktok, #creepy, #cops, #cholo"
-  - username: "sammyhasbees"
-    fullname: >-
-      sammy!
-    location: "United States"
-    followers: 3321
-    engagement: 1255
-    commentsToLikes: 0.071456
-    id: cka0wq3rd3za30i7893iy668d
-    verified: false
-    hashtags: "#farm, #justintimberlake, #lgbtq, #dnd"
+    hashtags: "#fairytok, #fyp, #cottagecore, #foryoupage"
 ---

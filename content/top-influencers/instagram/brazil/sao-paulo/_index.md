@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #sorteio #emcasa #tbt #ladygaga.
+  Find top Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #aesthetic #reels #makeupchallenge.
 platform: Instagram
+hits: 3423
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 3423 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
 profiles:
-  - username: "maahway"
+  - username: "caputile"
     fullname: >-
-      Matheus
+      Letícia Caputi
+    bio: >-
+      24 anos, São Paulo | SP Streamer e Influenciadora fb.gg/caputile ✉️ leticiab.caputi@hotmail.com Youtube:
     location: "Brazil"
-    followers: 2845
-    engagement: 2709
-    commentsToLikes: 0.373165
-    id: ck8t7jvsbh2wu0j78v69rjxuv
-    verified: false
-    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
-  - username: "miwqueias00"
-    fullname: >-
-      @mkqueiasxv11  LEÃOZINHO🦁
-    location: "Brazil"
-    followers: 14607
-    engagement: 2297
-    commentsToLikes: 0.069296
-    id: ck9wdtan6h6dt0j787junhm3a
-    verified: false
-    hashtags: "#bronze, #3chair, #challengehair, #challenges"
-  - username: "alan_souza01"
-    fullname: >-
-      Alan  Souza
-    location: "Brazil"
-    followers: 35385
-    engagement: 1190
-    commentsToLikes: 0.059651
-    id: ck15st0qfeohp0i19xk238fqt
-    verified: false
-    hashtags: "#voleyball, #recemcasados, #basevemforte, #sesiguerreiros"
-  - username: "manzonca"
-    fullname: >-
-      Amanda Kassardjian
-    location: "Brazil"
-    followers: 19473
-    engagement: 1049
-    commentsToLikes: 0.189645
-    id: ck0vziqdp9b150i199i07t5he
-    verified: false
-    hashtags: "#ultral4f, #glitter, #lookquarentena, #lookoftheday"
-  - username: "krztony"
-    fullname: >-
-      Tony An
-    location: "Brazil"
-    followers: 37672
-    engagement: 929
-    commentsToLikes: 0.063115
-    id: ck13d9p124d4f0i19e3bdr2n1
+    followers: 188522
+    engagement: 1616
+    commentsToLikes: 0.094956
+    id: ckaoyh00mhhla0i78yv0bklvx
     verified: false
     hashtags: ""
-  - username: "zuffomusic"
+  - username: "williamsouzaoficiall"
     fullname: >-
-      Zuffo
+      William Souza
+    bio: >-
+      👨🏼‍🍳 | Toiço ♊️ | Gêmeos 📍 | São Paulo 📊 | Parcerias via DIRECT
     location: "Brazil"
-    followers: 26543
-    engagement: 862
-    commentsToLikes: 0.157673
-    id: ck5zj3oylgw0a0i149mm225bu
-    verified: true
-    hashtags: "#2k20, #bruno"
-  - username: "freshprxncess"
-    fullname: >-
-      Dani Soares💙
-    location: "Brazil"
-    followers: 269723
-    engagement: 806
-    commentsToLikes: 0.204189
-    id: ck8tcrtqq0flp0j780hri2h4u
+    followers: 168291
+    engagement: 1534
+    commentsToLikes: 0.233946
+    id: ck5qbdbwgl1780i1168o6zk44
     verified: false
-    hashtags: "#sobrancelhas, #colorschallenge, #exercise, #transi"
+    hashtags: "#9meses, #eternosnamorados, #grandhyatt, #lpcolletion"
+  - username: "lucnatico"
+    fullname: >-
+      Lucas Bataglia
+    bio: >-
+      🌈 📸 | Aqui você vai achar umas graças 📍 | São Paulo/SP
+    location: "Brazil"
+    followers: 13609
+    engagement: 1271
+    commentsToLikes: 0.165648
+    id: ckf5nh8w0y97l0j23aaj4llko
+    verified: false
+    hashtags: "#meme, #gaybrasil, #reels, #reelsinstagram"
+  - username: "yasminlsilva"
+    fullname: >-
+      YASMIN SILVA
+    bio: >-
+      ☼ Beleza | Foto | Edição | Art Attack do dia a dia ★ 📍São Paulo ⁣ ☼ contatoyasminLsilva@gmail.com ⁣ ☾ “Tenha coragem e seja gentil”🦋
+    location: "Brazil"
+    followers: 71376
+    engagement: 1258
+    commentsToLikes: 0.132561
+    id: ck6u8dc5sqwsj0j714efl18hg
+    verified: false
+    hashtags: "#dicadeapp, #sparka, #dicadayas, #fotosemcasa"
+  - username: "ronaldonene"
+    fullname: >-
+      Ronaldo Carvalho
+    bio: >-
+      São Paulo/Brazil Youtube: Canal 35 Milímetros Aulas de Edição
+    location: "Brazil"
+    followers: 51593
+    engagement: 1255
+    commentsToLikes: 0.082665
+    id: ck0ty0i4tl33c0i19ai0o8i44
+    verified: false
+    hashtags: "#chupetox, #tacalefuma, #asusbrasil"
+  - username: "danny.bond"
+    fullname: >-
+      Danny Bond 👸🏾
+    bio: >-
+      Rainha do jacintinho 👸🏾 📍São Paulo Shows: 82 96640622 Digital e Publicidade: 11 989164624 Traz o B 🍁🔥
+    location: "Brazil"
+    followers: 210962
+    engagement: 1210
+    commentsToLikes: 0.141812
+    id: ck6tltxpy6msc0j71d4c7qdbx
+    verified: true
+    hashtags: "#trazobchallenge, #trazob, #23dabond"
+  - username: "jessycasanses"
+    fullname: >-
+      🌻 Jessyca Sanses 🌻
+    bio: >-
+      🌽 + 2 milhões no YouTube 📍 São Paulo | Amapá 📬 jessycasanses@hotmail.com 👇 VÍDEO NOVO👇
+    location: "Brazil"
+    followers: 798828
+    engagement: 1156
+    commentsToLikes: 0.663920
+    id: ck60166pjewqg0i14iil5nhz9
+    verified: false
+    hashtags: "#btschallenge, #evaporachallenge, #beauty, #funkchallenge"
   - username: "mateusvitorio_"
     fullname: >-
       MATEUS VITÓRIO
+    bio: >-
+      📸 |📍 São Paulo 📨 | mvcanalcontato@gmail.com 🛸 | YouTube ↓
     location: "Brazil"
-    followers: 47366
-    engagement: 780
-    commentsToLikes: 0.053932
+    followers: 48841
+    engagement: 1026
+    commentsToLikes: 0.116716
     id: ck13ccoaszp7e0i19sr9mg3gr
     verified: false
-    hashtags: "#aestheticedits, #aplicativos, #corona, #chromatic"
-  - username: "andrearodriguezm_"
+    hashtags: "#cabelocacheadocurto, #katyperry, #cabelocacheado, #cachos"
+  - username: "liliankimi"
     fullname: >-
-      A N D R E A
+      Lilian Kimi
+    bio: >-
+      💌 job.liliankimi@gmail.com 📍Brasília/ São Paulo 👩‍❤️‍👩 @blogvanessalamark 🎥👇🏻 VÍDEO - KISS CHALLENGE COM MINHA NAMORADA
     location: "Brazil"
-    followers: 34020
-    engagement: 757
-    commentsToLikes: 0.079341
-    id: ck5hp0jf9qjqq0i111uhvq3f2
+    followers: 218894
+    engagement: 693
+    commentsToLikes: 0.072874
+    id: ck6ui2ikycof20j715kj5hgc5
     verified: false
-    hashtags: "#mycalvins, #tomspartner, #tuerestoms, #elmejorregaloparamama"
-  - username: "belgarenan"
+    hashtags: "#teamlilian"
+  - username: "loud_gs"
     fullname: >-
-      Renan Massi
+      LOUD GS
+    bio: >-
+      • Gilson Santos - São Paulo - SP • SP ✈️ CWB • Influenciador of @loudgg • Faço umas trollagens por aí
     location: "Brazil"
-    followers: 692577
-    engagement: 746
-    commentsToLikes: 0.231924
-    id: ck5zznm5uc2sp0i144wh5iypr
+    followers: 3582158
+    engagement: 629
+    commentsToLikes: 0.026370
+    id: ck0w0yda3gnes0i19mfy73d4f
     verified: false
-    hashtags: "#tbt"
+    hashtags: "#tb"
 ---

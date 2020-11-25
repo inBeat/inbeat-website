@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Belgium In 2020
 description: >-
-  Find top beauty TikTok influencers in Belgium in 2020. Most popular hashtags: #beauty #model #bruxelles #quarantine.
+  Find top beauty TikTok influencers in Belgium in 2020. Most popular hashtags: #foryou #fyp #foryoupage #funny.
 platform: TikTok
+hits: 29
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 29 TikTok influencers like this in Belgium for you to contact.
 profiles:
-  - username: "arazytikmua"
+  - username: "fiona_2906"
     fullname: >-
-      Sarah
+      Fiona
+    bio: >-
+      🌸 Cosplay & costumes 🌸 • Instagram : @Fiona2906
     location: "Belgium"
-    followers: 30744
-    engagement: 1071
-    commentsToLikes: 0.015877
-    id: ck87u1dbi4o8e0j789y9ttwwy
+    followers: 158500
+    engagement: 1092
+    commentsToLikes: 0.010246
+    id: ckd6b13eb4lp70j23yn0jkrha
     verified: false
-    hashtags: "#undiscoveredmua, #illusion, #spider, #eyeslipsface"
+    hashtags: "#transformation, #sunflower, #historical, #thelittlemermaidcosplay"
+  - username: "alzliz"
+    fullname: >-
+      Liz
+    bio: >-
+      🇧🇪 BLACK LIVES MATTER
+    location: "Belgium"
+    followers: 145900
+    engagement: 2297
+    commentsToLikes: 0.009704
+    id: ckbezsv01l5t50j230mnkne3z
+    verified: false
+    hashtags: "#covid, #lol, #jppdemoi, #lesanges"
   - username: "tinne.oltmans"
     fullname: >-
       Tinne Oltmans
+    bio: >-
+      Actor & singer VERDRIJF ME, OUT NOW! 💙 ☎ Business: tinne.oltmans@outlook.com
     location: "Belgium"
-    followers: 77104
-    engagement: 1823
-    commentsToLikes: 0.018304
+    followers: 89200
+    engagement: 1827
+    commentsToLikes: 0.015824
     id: ck921p03jj0o40j7863jp3fbm
     verified: false
-    hashtags: "#healthyfood, #family, #teamjinne, #dualipa"
-  - username: "iametiennesaive"
+    hashtags: "#tinneoltmans, #lipsync, #singer, #comedy"
+  - username: "marjo_drien"
     fullname: >-
-      Etienne Saive
+      marjo_drien
+    bio: >-
+      Instagram marjo_drien 💕 #Belgium 🇧🇪
     location: "Belgium"
-    followers: 3742
-    engagement: 873
-    commentsToLikes: 0.056674
-    id: cka0qjxsocuro0i78dfterj58
+    followers: 32400
+    engagement: 1065
+    commentsToLikes: 0.019981
+    id: cka5zmwjhnfko0i78bx8s2xhn
     verified: false
-    hashtags: "#nicki, #naturel, #hawaiicheck, #summer"
-  - username: "marinarossa_"
+    hashtags: "#relaxing, #love, #belgium, #duo"
+  - username: "ayoubbabyy"
     fullname: >-
-      MARINA
+      Ayoub Ben Ammar
+    bio: >-
+      modèle et chanteur 📀 30 K ? Insta : ayoubbabyy Snap : ayoubbabyy 👇
     location: "Belgium"
-    followers: 7905
-    engagement: 522
-    commentsToLikes: 0.028543
-    id: ck9envhnyl4bc0j78j5spmjl4
+    followers: 29800
+    engagement: 1123
+    commentsToLikes: 0.032370
+    id: ckbfedphs8aep0j23njoflng5
     verified: false
-    hashtags: "#wlyg, #boredinahouse, #sparkar, #cursedimages"
-  - username: "gabsbarbershop"
+    hashtags: "#fypp, #storytime, #fyp, #pourtoi"
+  - username: "just.ster"
     fullname: >-
-      Gabsbarbershop
+      ster
+    bio: >-
+      Ster ☀️ 23 and and a half Started making art during quarantine MY | BE | NL
     location: "Belgium"
-    followers: 11779
-    engagement: 192
-    commentsToLikes: 0.010185
-    id: ck9go1f8jza1y0j78lxq4lokw
+    followers: 5643
+    engagement: 1021
+    commentsToLikes: 0.031861
+    id: ckba9ugws2kyz0j23y7d74545
     verified: false
-    hashtags: "#haha, #paris, #barbeshop, #follow"
-  - username: "bahaudin_dije"
+    hashtags: "#painting, #mysketchbook, #tiktokbelgium, #promlook"
+  - username: "arazytikmua"
     fullname: >-
-      Bahauddin 👑
+      Sarah
+    bio: >-
+      Follow me on Instagram for more content 🤍✨
     location: "Belgium"
-    followers: 3123101
-    engagement: 1004
-    commentsToLikes: 0.006009
-    id: ck8ade1av5hlh0j78qa1my9ug
+    followers: 36100
+    engagement: 1167
+    commentsToLikes: 0.019972
+    id: ck87u1dbi4o8e0j789y9ttwwy
     verified: false
-    hashtags: "#bruxelles, #viral, #experiment, #animals"
-  - username: "lufyyyy"
+    hashtags: "#foryou, #halloween2020, #makeupartist, #pourtoi"
+  - username: "shaunidl"
     fullname: >-
-      LUFY 🖤
+      Shauni DL
+    bio: >-
+      
     location: "Belgium"
-    followers: 274613
-    engagement: 1227
-    commentsToLikes: 0.002718
-    id: ckaibdrlmg3f00i78ea5l78cp
-    verified: true
-    hashtags: "#babyboy, #couplechallenge, #ohnana, #quidenousdeux"
-  - username: "tulipa_dias"
-    fullname: >-
-      tulipa_dias
-    location: "Belgium"
-    followers: 16607
-    engagement: 409
-    commentsToLikes: 0.017972
-    id: cka0s3shqjsao0i78krs6v3os
+    followers: 5146
+    engagement: 550
+    commentsToLikes: 0.020464
+    id: ckcotdq1r8c9c0j23goew8xbc
     verified: false
-    hashtags: "#makeuptable, #cabincrewlife, #model, #style"
-  - username: "amans_beauty_corner"
+    hashtags: "#tiktok, #voorjou, #love, #kidsvoice"
+  - username: "runekestens"
     fullname: >-
-      Aman_Bhatti
+      Rune Kestens
+    bio: >-
+      Belgium🇧🇪 💜 18 y/o 💜 Business: runekestens@hotmail.com
     location: "Belgium"
-    followers: 16338
-    engagement: 245
-    commentsToLikes: 0.002430
-    id: ckaiggofe1f4d0i78ejw7rtmo
+    followers: 2960
+    engagement: 789
+    commentsToLikes: 0.030743
+    id: ckbf4ftadszuo0j23tnej3o4q
     verified: false
-    hashtags: "#mehndichallenge, #makeover, #indianwedding, #foryourpage"
-  - username: "brandon.benist9_"
+    hashtags: "#instagram, #foryoupage, #tiktok, #gossipgirl"
+  - username: "klaasje_meijer_"
     fullname: >-
-      Brandon_le_belge10
+      Klaasje Meijer
+    bio: >-
+      OFFICIËLE TIKTOK 💗 📩 klaasjemeijerofficial@gmail.com 📸 insta: klaasje_meijer
     location: "Belgium"
-    followers: 1727889
-    engagement: 910
-    commentsToLikes: 0.003426
-    id: ck9a9m6t1gpmo0j78xmnhpr3s
+    followers: 125000
+    engagement: 1080
+    commentsToLikes: 0.010289
+    id: ckbqih9sb3pns0j23mvqb8jib
     verified: false
-    hashtags: ""
+    hashtags: "#fyp, #foryoupage, #tiktok, #fy"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Sydney In 2020
 description: >-
-  Find top health TikTok influencers in Sydney in 2020. Most popular hashtags: #vibewithme #homeproject #aussiethings #withmyfamily.
+  Find top health TikTok influencers in Sydney in 2020. Most popular hashtags: #sydney #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 12
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "henri_hay"
-    fullname: >-
-      Henri Hay
-    location: "Australia"
-    followers: 169662
-    engagement: 403
-    commentsToLikes: 0.004231
-    id: ck8fa2q0d3ysz0j78an9tl9g0
-    verified: false
-    hashtags: "#skills, #goat, #tricks, #nike"
   - username: "tik_dox"
     fullname: >-
       mathewt_piukala
+    bio: >-
+      Christian, Tongan, SYD - Central coast 😊
     location: "Australia"
-    followers: 13108
-    engagement: 998
-    commentsToLikes: 0.073970
+    followers: 15400
+    engagement: 1039
+    commentsToLikes: 0.052945
     id: ck81qq6vxix990j786b1zoe3p
     verified: false
-    hashtags: "#fitness, #jasonderulo, #carpenter, #21district"
+    hashtags: "#centralcoast, #health, #tongan, #sydney"
+  - username: "envybyjosie"
+    fullname: >-
+      Envybyjosie
+    bio: >-
+      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
+    location: "Australia"
+    followers: 3237
+    engagement: 281
+    commentsToLikes: 0.015183
+    id: ckdn5fqxregem0j23dudwkvcp
+    verified: false
+    hashtags: "#blonde, #tiktokartists, #hairstyles, #sydneyhair"
+  - username: "henri_hay"
+    fullname: >-
+      Henri Hay
+    bio: >-
+      Lyon 🇫🇷 Sydney 🇦🇺 عبد الله
+    location: "Australia"
+    followers: 227100
+    engagement: 310
+    commentsToLikes: 0.003624
+    id: ck8fa2q0d3ysz0j78an9tl9g0
+    verified: false
+    hashtags: "#acaibowl, #french, #trick, #france"
+  - username: "karimdaddyslim"
+    fullname: >-
+      Karim
+    bio: >-
+      your dad 📥 : Karimdaddyslim@gmail.com
+    location: "Australia"
+    followers: 113000
+    engagement: 1903
+    commentsToLikes: 0.006682
+    id: cka0xd8w86kqv0i78mt9b95un
+    verified: false
+    hashtags: "#haircut, #sydney, #vlog, #adventure"
+  - username: "rii.haytchh"
+    fullname: >-
+      Rii.rii
+    bio: >-
+      
+    location: "Australia"
+    followers: 8881
+    engagement: 617
+    commentsToLikes: 0.000000
+    id: ckb8znfqyf3vj0j23nga3tv6s
+    verified: false
+    hashtags: "#viral, #sydney, #funny, #love"
   - username: "foodfomo_mernz"
     fullname: >-
-      Sydney Foodie
+      Home Chef 👩🏼‍🍳🇦🇺
+    bio: >-
+      Cooking & creating make my soul so happy👩🏻‍🍳 CEO of “Hello 😏” Be kind! ❤️
     location: "Australia"
-    followers: 4766
-    engagement: 402
-    commentsToLikes: 0.036868
+    followers: 17000
+    engagement: 518
+    commentsToLikes: 0.016707
     id: ckai5k4u2sfbm0i78t05vlykq
     verified: false
-    hashtags: "#cheesechallenge, #clean, #vegeterian, #taco"
-  - username: "k9_steve"
+    hashtags: "#learnontiktok, #howto, #ratethings, #healthyliving"
+  - username: "missyleisha"
     fullname: >-
-      K9_Steve
+      Missy Leisha
+    bio: >-
+      Relatable content for women 🤍 Empowering Boss Babes Join me Live everyday
     location: "Australia"
-    followers: 237508
-    engagement: 1851
-    commentsToLikes: 0.014976
-    id: ckajk9fwrp59o0i78u3xm96jf
+    followers: 75600
+    engagement: 655
+    commentsToLikes: 0.052169
+    id: ckae5wqir9idz0i78zz6wm2cz
     verified: false
-    hashtags: "#thedrop, #seal, #fitnesstips, #onefour"
-  - username: "life_of_carolyn"
+    hashtags: "#fitness, #relationships, #sydney, #selflove"
+  - username: "geesl0uise"
     fullname: >-
-      life_of_carolyn
+      geesl0uise
+    bio: >-
+      ☾ tarot + oracle readings posting wholesome content
     location: "Australia"
-    followers: 35434
-    engagement: 1470
-    commentsToLikes: 0.071542
-    id: cka0gee5s44rz0i78u1leq44v
+    followers: 16100
+    engagement: 683
+    commentsToLikes: 0.027073
+    id: ckdhh3medxxtk0j23zlnftrpq
     verified: false
-    hashtags: "#homeroutine, #sidehustle, #shuffle, #over30club"
-  - username: "mz_zarah"
+    hashtags: "#foryoupage, #foryou, #australia, #googletranslate"
+  - username: "julzjulzjulzz"
     fullname: >-
-      ZARAH ROSE 💕
+      Julia Woodford 
+    bio: >-
+      AUS🇦🇺 WBFF PRO Started tiktok before it was cool info@juliawoodfordfitness.com
     location: "Australia"
-    followers: 21957
-    engagement: 1127
-    commentsToLikes: 0.063344
-    id: ck80oqmtujb7w0j78pvg8jh8k
+    followers: 323000
+    engagement: 615
+    commentsToLikes: 0.019214
+    id: ckav70f74dx5n0j23wq99tqco
     verified: false
-    hashtags: "#nails, #maythe4th, #hairinspo, #foryou"
-  - username: "josephjwhitehall"
+    hashtags: "#workout, #fyp, #foryoupage, #photoshoot"
+  - username: "ambersidney"
     fullname: >-
-      Joseph J Whitehall
+      Amber Sidney
+    bio: >-
+      ✨
     location: "Australia"
-    followers: 19272
-    engagement: 987
-    commentsToLikes: 0.043293
-    id: ckacfg32tqtbs0i78egeceh6x
+    followers: 3619
+    engagement: 148
+    commentsToLikes: 0.000486
+    id: ckb9atr19w5l80j23ppo8n9zy
     verified: false
-    hashtags: "#thirdeye, #godsplan, #intuition, #health"
-  - username: "_kim_lawless_"
-    fullname: >-
-      Kim
-    location: "Australia"
-    followers: 42746
-    engagement: 916
-    commentsToLikes: 0.057669
-    id: cka7o7mp10qyp0i78xk1mluw6
-    verified: false
-    hashtags: "#agechalange, #sundayvibes, #becreative, #momof3"
-  - username: "jassturka4"
-    fullname: >-
-      Jass Turka
-    location: "Australia"
-    followers: 55264
-    engagement: 417
-    commentsToLikes: 0.026408
-    id: ckai3fp8wjp9s0i78tydhilnp
-    verified: false
-    hashtags: "#arms, #homeworkout, #tiktokindia, #shoppingcart"
-  - username: "kim_kine"
-    fullname: >-
-      Kim Kine
-    location: "Australia"
-    followers: 53566
-    engagement: 851
-    commentsToLikes: 0.030167
-    id: ck931pligfsl30j784zufx9ds
-    verified: false
-    hashtags: "#whereiwork, #holistichealing, #idontunderstand, #confidenceboost"
+    hashtags: "#health, #weightloss, #stretch, #home"
 ---

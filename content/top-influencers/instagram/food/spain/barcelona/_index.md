@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top food Instagram influencers in Barcelona in 2020. Most popular hashtags: #meat #summer #coffee #coffeetime.
+  Find top food Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #foodie #food #foodporn.
 platform: Instagram
+hits: 101
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 101 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
-  - username: "barbaraders"
+  - username: "ryelondon"
     fullname: >-
-      Barbaraders - Content Creator
+      Holly Wulff Petersen
+    bio: >-
+      photographer. chef. mama travel - lifestyle - food barcelona / london
     location: "Spain"
-    followers: 36626
-    engagement: 149
-    commentsToLikes: 0.183569
-    id: ck0ubmkylexqb0i19fwg46n1w
+    followers: 27409
+    engagement: 130
+    commentsToLikes: 0.025549
+    id: ck5capalhdv2r0i11a3q0hg4f
     verified: false
-    hashtags: "#truelove, #dresses, #barcelonaestilo, #spitzlovers"
-  - username: "irenecocinaparati"
-    fullname: >-
-      Irene Requena
-    location: "Spain"
-    followers: 37904
-    engagement: 444
-    commentsToLikes: 0.277354
-    id: ck5hhqgrr9l7o0i116joeraph
-    verified: false
-    hashtags: "#meat, #nutella, #vasos, #somgastronomia"
+    hashtags: "#fromthearchives, #onthejournal"
   - username: "davidpr1990"
     fullname: >-
       David Palacios Rubio
+    bio: >-
+      Journalist | Travel&Food | Barcelona. #luxurylifestyle #staycation #hospitality #finedining
     location: "Spain"
-    followers: 16535
-    engagement: 279
-    commentsToLikes: 0.001452
+    followers: 20919
+    engagement: 276
+    commentsToLikes: 0.001102
     id: ck6tj8rcd28850j710gn8jpi0
     verified: false
-    hashtags: "#decor, #instatraveling, #healthy, #mixologist"
-  - username: "baasarch"
+    hashtags: "#foodiegram, #alcohol, #traveltheworld, #picoftheday"
+  - username: "menjatbarcelona"
     fullname: >-
-      BAAS arquitectura
+      Menja't Barcelona
+    bio: >-
+      Enamorats de la #gastronomia 🍷#Barcelona 👫Natàlia i Roger 📱Fotos amb Xiaomi Mi8 #️⃣ Comparteix amb #menjatbarcelona
     location: "Spain"
-    followers: 32626
-    engagement: 166
-    commentsToLikes: 0.004140
-    id: ck6u8at53qgp80j71lpgkffti
+    followers: 29756
+    engagement: 129
+    commentsToLikes: 0.097763
+    id: ckaorzpjnphs70i7809f8b3xd
     verified: false
-    hashtags: "#concrete, #singlehouse, #architecturehouses, #competition"
-  - username: "aina.simon"
+    hashtags: "#menjatbarcelona, #foodie, #instafood, #tasty"
+  - username: "nicetomeetyoufoodie"
     fullname: >-
-      AINA SIMON
+      Nice to meet you foodie 😋
+    bio: >-
+      🍽 Voy a donde sea si hay comida 📍Barcelona y alrededores 👇 Mapa de restaurantes
     location: "Spain"
-    followers: 293803
-    engagement: 1175
-    commentsToLikes: 0.351111
-    id: ck0vyy6sp6d680i19gk2enc5c
+    followers: 8292
+    engagement: 529
+    commentsToLikes: 0.038226
+    id: ck1371c7q9aqi0i19gpe9et48
     verified: false
-    hashtags: "#kikoathome, #valerianetflix"
-  - username: "mimozaeverywhere"
+    hashtags: "#restaurantesbcn, #barcelona, #foodporn, #foodtrip"
+  - username: "barbaraders"
     fullname: >-
-      mimozaeverywhere
+      Barbaraders - Content Creator
+    bio: >-
+      ➳ BCN📍| COSTA BRAVA 🌊 | TARIFA ⚓️ ➳ barbaraderobles@hotmail.com ➳ Brand Ambassador ➳ Social Media Strategist ➳ Lifestyle | Fashion | Travel | Beauty
     location: "Spain"
-    followers: 14074
-    engagement: 670
-    commentsToLikes: 0.042300
-    id: ck8t3zxb1530a0j78gwlczqzv
+    followers: 36435
+    engagement: 175
+    commentsToLikes: 0.361002
+    id: ck0ubmkylexqb0i19fwg46n1w
     verified: false
-    hashtags: "#singing, #acikkoltuk, #sedefsebuk, #hayaletsevgilim"
-  - username: "ivan_surinder"
+    hashtags: "#photography, #fashionista, #streetstyle, #style"
+  - username: "andreina_p"
     fullname: >-
-      Ivan Surinder
+      Andreina Peñaloza
+    bio: >-
+      🏝 Soy del Caribe 🇻🇪 📍 Vivo en #Barcelona 🇪🇸 💙 Periodista 🏄🏾‍♀️ y Profe 🤓 de Redes Sociales 🌺 Aventuras + Marketing Digital 🙌🏽 Mi página web 👇🏽
     location: "Spain"
-    followers: 6526
-    engagement: 668
-    commentsToLikes: 0.033909
-    id: ckapabmi2vg3o0i787zyzyr1h
+    followers: 39402
+    engagement: 153
+    commentsToLikes: 0.093386
+    id: ck6tpq0culo5y0j715s3gny0z
     verified: false
-    hashtags: "#amazing, #delish, #hungry, #vietnamita"
-  - username: "sup.barcelona"
+    hashtags: "#surfcamp, #kite, #urbansportsclub, #cayenaproyect"
+  - username: "inandoutbarcelona"
     fullname: >-
-      🇪🇸 Barcelona • Places • Food
+      IN and OUT Barcelona
+    bio: >-
+      👋🏻 We’re Stefania & Andreu 🍉 Here we share our fav EAT&DRINK places and things TO DO in Bcn 🥡 Delivery & Take Away Restaurants👇🏼
     location: "Spain"
-    followers: 20018
-    engagement: 259
-    commentsToLikes: 0.015885
-    id: ckaowsfw2a8vd0i782vddjbld
+    followers: 27313
+    engagement: 235
+    commentsToLikes: 0.101942
+    id: ck8t0ekdvrsst0j78sjvtchh1
     verified: false
-    hashtags: "#prettystorefronts"
-  - username: "pll.sandra"
+    hashtags: "#pugliagram, #bcnrestaurants, #weareinpuglia, #verso"
+  - username: "irenecocinaparati"
     fullname: >-
-      Pll.sandra
+      Irene cocina para ti
+    bio: >-
+      📍Barcelona. Food blogger 🖋. Recetas 📝Gastronomía 🍴Fotografía 📸📱. 📩 irenecocinaparati@gmail.com . 👇🏻RECETAS Y MI WEB 👇🏻
     location: "Spain"
-    followers: 4852
-    engagement: 3041
-    commentsToLikes: 0.061357
-    id: ckap6rpb5h5b30i78wyz15h0q
+    followers: 43539
+    engagement: 463
+    commentsToLikes: 0.349567
+    id: ck5hhqgrr9l7o0i116joeraph
     verified: false
-    hashtags: "#france, #francefr, #viatgersdc, #cbviews"
-  - username: "chefbenben"
+    hashtags: "#photooftheday, #receta, #gloobyfood, #barcelonafoodie"
+  - username: "jacksflavours"
     fullname: >-
-      Benjamin Bensoussan
+      Jack
+    bio: >-
+      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 🌏@jackarribas 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
     location: "Spain"
-    followers: 38237
-    engagement: 246
-    commentsToLikes: 0.029831
-    id: ck0vwgb65tk810i19vp8okwxh
+    followers: 22786
+    engagement: 429
+    commentsToLikes: 0.236116
+    id: ck6ty9fa22evr0j71kliadtre
     verified: false
-    hashtags: "#repost, #helloportugal, #honestgreenslisbon, #tbt"
+    hashtags: "#food, #vegan, #barcelona, #trueitaliantaste"
+  - username: "guiaramonin"
+    fullname: >-
+      Arròs 🥘Guia Ramonin
+    bio: >-
+      🙋🏻‍♂️Ramon Portet 🔹Vaig als restaurants a tastar 😋els seus arrossos 🥘 i els valoro🧐. 🔹Vols que vingui al teu? 🔹guiaramonin@gmail.com 📩 o DM 🌍MAPA🥘👇
+    location: "Spain"
+    followers: 32676
+    engagement: 292
+    commentsToLikes: 0.073946
+    id: ck15q5k7h17jf0i19dje9p44n
+    verified: false
+    hashtags: "#photooftheday, #barcelona, #gastronomia, #paella"
 ---

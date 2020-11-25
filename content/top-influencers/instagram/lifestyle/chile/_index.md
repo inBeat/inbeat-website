@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Chile In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #stayhome #chile #yomequedoencasa.
+  Find top lifestyle Instagram influencers in Chile in 2020. Most popular hashtags: #beauty #lifestyle #makeup.
 platform: Instagram
+hits: 92
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 92 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "rachelcolinas"
-    fullname: >-
-      Raquel Fernandez Colinas
-    location: "Chile"
-    followers: 4387
-    engagement: 2842
-    commentsToLikes: 0.509806
-    id: ck6u1jwjxm6j00j71vizk3ukf
-    verified: false
-    hashtags: "#styleoutfit, #outfitblog, #influencerstyle, #igersspain"
-  - username: "buffcondor"
-    fullname: >-
-      ʙᴜғғᴄᴏɴᴅᴏʀ🦅🎥🏍📸🇨🇱
-    location: "Chile"
-    followers: 9021
-    engagement: 770
-    commentsToLikes: 0.095009
-    id: ck6u17r7ik3s20j71ujmpdyvu
-    verified: false
-    hashtags: "#hotguy, #lovers, #hotsauce, #bikergang"
   - username: "cami4senjo"
     fullname: >-
       Camila Asenjo
+    bio: >-
+      🇨🇱🇨🇦🌴 ✽ Fitness ✈ Travel ∞ Lifestyle
     location: "Chile"
-    followers: 53585
-    engagement: 733
-    commentsToLikes: 0.020769
+    followers: 52346
+    engagement: 571
+    commentsToLikes: 0.029326
     id: ck0ua4pslbb8k0i19ejwq0gqz
     verified: false
     hashtags: ""
-  - username: "xavicorrial"
+  - username: "buffcondor"
     fullname: >-
-      Xavi
+      ʙᴜғғᴄᴏɴᴅᴏʀ🦅🎥🏍📸🇨🇱
+    bio: >-
+      🔴Ducati Panigale 899 🏍Sponsored by @teamspyderph 🎞Filmmaker 👇🏼get 15% CODE “buffcondor” 👇🏼 🌎@2wheels.lifestyle 🎥Your #1 source of exclusive content❤️
     location: "Chile"
-    followers: 89292
-    engagement: 138
-    commentsToLikes: 0.149934
-    id: ck14j5iugiqie0i19094qlglz
+    followers: 12001
+    engagement: 529
+    commentsToLikes: 0.105733
+    id: ck6u17r7ik3s20j71ujmpdyvu
     verified: false
-    hashtags: "#lockdown, #tbt, #brazil"
+    hashtags: "#ducatilife, #ride4life, #blackrider, #dainese"
   - username: "ladanioliva"
     fullname: >-
       Daniela Oliva
+    bio: >-
+      FASHION ★ OUTFITS ★ ARTWORKS ★ LIFESTYLE ★ BODY POSITIVE ★ ✨Fundadora @danioliva.artwear 🎓Ingeniera Comercial UC 💖También me gusta bailar💃🏻🔥
     location: "Chile"
-    followers: 6628
-    engagement: 596
-    commentsToLikes: 0.060748
+    followers: 13933
+    engagement: 625
+    commentsToLikes: 0.056156
     id: ck6ti5vkw03jg0j71tdrebani
     verified: false
-    hashtags: "#cuarentena, #yomequedoencasa, #quarantinemood, #lookdafitiencasa"
-  - username: "eluniverso.defran"
+    hashtags: "#ziolsquad, #emilyinparis, #emilyinparisoutfit, #emilyinparisfashion"
+  - username: "mmarocchino"
     fullname: >-
-      ☆ FRAN ☆
+      ManFashion & Lifestyle
+    bio: >-
+      -FashionBusinessMan -LifeStyle&Fashion -Tv presenter📺 -Founder of @cielomilano 👔 -Founder of @sartoriamarocchino 🧵 -Founder of @cucinabycielomilano 🇮🇹
     location: "Chile"
-    followers: 42702
-    engagement: 823
-    commentsToLikes: 0.022209
-    id: ck15uhpufn8vk0i190wuu7ja5
+    followers: 389014
+    engagement: 246
+    commentsToLikes: 0.019023
+    id: ck13bt0bax0tu0i19y0uylaz5
+    verified: true
+    hashtags: "#menstyle, #mensfashion, #menwithclass, #menwithstyle"
+  - username: "breakeven18"
+    fullname: >-
+      Fran Yañez 🎀
+    bio: >-
+      Clases de Maquillaje Online 💌 Lifestyle & Makeup Lover 💄 English-Spanish Translator & Interpreter Mktg
+    location: "Chile"
+    followers: 3797
+    engagement: 742
+    commentsToLikes: 0.083005
+    id: ckapazph3y2yt0i787gakuarg
     verified: false
-    hashtags: "#classy, #lancomechile, #glowyskin, #funnyvideos"
+    hashtags: "#skincare, #full, #makeup, #makeuplooks"
+  - username: "carlatia"
+    fullname: >-
+      Carla Gálvez
+    bio: >-
+      🍸Bartender 👭🏻 Embajadora @mapadebarmaidschile 🌈Color lifestyle ✈️ Amo viajar 🎶Entusiasta musical 🐰Vivo con una conejita 📩carlagalvezs@gmail.com
+    location: "Chile"
+    followers: 4045
+    engagement: 612
+    commentsToLikes: 0.084659
+    id: ck1349zxpvf9g0i19r4lotdvq
+    verified: false
+    hashtags: "#challengeaccepted, #beefeatercl, #beefeaterpink, #menoresniunagota"
   - username: "estiloemily"
     fullname: >-
-      EMILY ♡ PÉREZ
+      EMILY ♡ PÉREZ
+    bio: >-
+      BEAUTY & LIFESTYLE Soy periodista y blogger 24/7 Piel mixta a grasa + acné ✉️ hello@estiloemily.com 📍Santiago, Chile
     location: "Chile"
-    followers: 29758
-    engagement: 216
-    commentsToLikes: 0.192111
+    followers: 37238
+    engagement: 168
+    commentsToLikes: 0.109198
     id: ckap54v3da7lp0i78jnf2xgur
     verified: false
-    hashtags: "#luna2, #pielmixta, #mothersday, #lovebeautyandplanet"
-  - username: "betohernandez88"
-    fullname: >-
-      𝗕 𝗘 𝗧 𝗢  𝗛 𝗘 𝗥 𝗡 𝗔 𝗡 𝗗 𝗘 𝗭
-    location: "Chile"
-    followers: 210761
-    engagement: 128
-    commentsToLikes: 0.086090
-    id: ck0vvtwl1qr2t0i19n7yyvcv1
-    verified: false
-    hashtags: "#nomeacostumbroaesetrapo, #measfixio, #serviciopublico, #capitulonuevo"
+    hashtags: "#skincare, #stoned, #nars, #chile"
   - username: "nati.viajes"
     fullname: >-
       ❂ Natural Life 🦅 ❂
+    bio: >-
+      ↟ Travel ↟ Adventure ↟ Tips ↟ UI Designer ↟ Lifestyle Creator ↟ ➳ ᚱᚢᚨ
     location: "Chile"
     followers: 10108
     engagement: 764
     commentsToLikes: 0.032118
     id: ck14l19f8sd1j0i190lb7mnxr
     verified: false
-    hashtags: "#magic, #horadelplaneta, #desert, #fitzroy"
+    hashtags: "#quarantine, #thebodyshop, #tbt, #parquesnacionales"
   - username: "thiagocunha13"
     fullname: >-
       Thiago Cunha
+    bio: >-
+      • God • Dad • Lifestyle • 🇧🇷 in 🇨🇱❤️🇵🇪 #thiagocunha #mekano #mundosopuestos #bailandoporunsueño #eeg #portoseguro #exportobrasil #elgranshow Info 👇🏼
     location: "Chile"
-    followers: 393958
-    engagement: 171
-    commentsToLikes: 0.016680
+    followers: 421744
+    engagement: 199
+    commentsToLikes: 0.016046
     id: ck55prdl7b6xw0i11nqqw3y7c
     verified: true
-    hashtags: "#bailandoporunsue, #tiktok"
+    hashtags: "#cuarentena, #jericoacoara, #diadelpadre, #padresehijos"
+  - username: "danielisimablog"
+    fullname: >-
+      Soy Daniela y Este Es Mi Blogꕥ
+    bio: >-
+      Mi Lado Beauty & Lifestyle ♡ CF🌿🐇 Piel mixta con acné 🧖🏻‍♀️ 10% dcto usando DANIELISIMA en @starcare.chile Embajadora @cosmeticakuyay @dermamedicaprp
+    location: "Chile"
+    followers: 6269
+    engagement: 548
+    commentsToLikes: 0.483507
+    id: ck6uc7208dwbx0j71o8zhoau5
+    verified: false
+    hashtags: "#cosmeticanatural, #crueltyfree, #ecofriendlyliving, #mascarillasdeladani"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Germany In 2020
 description: >-
-  Find top health Instagram influencers in Germany in 2020. Most popular hashtags: #inspiration #happyeaster #froheostern #easter.
+  Find top health Instagram influencers in Germany in 2020. Most popular hashtags: #fitnessmotivation #ootd #outfitinspo.
 platform: Instagram
+hits: 1638
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1638 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "mariiisa_hofi"
+  - username: "marisa.hofmeister"
     fullname: >-
-      HEALTHY FOOD I LIFESTYLE
+      Marisa Hofmeister
+    bio: >-
+      🌱Certified Holistic Health Coach 💌 Collabs: marisa@lehmann-mgmt.de 🎙Podcast: M&Ms sind schon geil 📍BERLIN I 🇩🇪
     location: "Germany"
-    followers: 27554
-    engagement: 978
-    commentsToLikes: 0.067217
+    followers: 42502
+    engagement: 949
+    commentsToLikes: 0.054830
     id: ck0txg2zcizdk0i19ulv1zs53
     verified: false
-    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
-  - username: "vitaminfede_"
-    fullname: >-
-      FEDERICA | FITNESS ACCOUNT
-    location: "Germany"
-    followers: 4188
-    engagement: 2189
-    commentsToLikes: 0.189662
-    id: ckaovkd7s4xte0i78k3sqyscg
-    verified: false
-    hashtags: "#gymwear, #fitinfluencer, #fitnessjourney, #views"
-  - username: "lauramadeleineb"
-    fullname: >-
-      💗  LAURA MADELEINE  💗
-    location: "Germany"
-    followers: 5726
-    engagement: 2146
-    commentsToLikes: 0.069469
-    id: ck8t4axjn63p40j78iki5pavc
-    verified: false
-    hashtags: "#travel, #sunset, #macedonia, #language"
-  - username: "janine_berger96"
-    fullname: >-
-      Olympic gymnast 🇩🇪
-    location: "Germany"
-    followers: 42992
-    engagement: 465
-    commentsToLikes: 0.070507
-    id: ck8szih9aokmn0j781umj8jjk
-    verified: true
-    hashtags: "#friday, #missit, #stretching, #push"
-  - username: "veronika_klimovits"
-    fullname: >-
-      Veronika Klimovits
-    location: "Germany"
-    followers: 87537
-    engagement: 433
-    commentsToLikes: 0.054089
-    id: ck13bd4luuuqq0i19odzvpflm
-    verified: true
-    hashtags: "#outfitlove, #ichliebedich, #pyjamastyle, #lovemychihuahua"
+    hashtags: "#nikeairforce1, #berlincity, #homesweethome, #activewearstyle"
   - username: "fraeulein_wunderwaffel"
     fullname: >-
       M e l i s s a 🍃
+    bio: >-
+      | Momlife |Fashion | Interior | 💍 @dj_doppel_ka Nora’s Mom |March ‘19 Karlo‘s Mom|August‘20 Studies health care👩🏼‍🎓 New Home🏡| Dec ‘19
     location: "Germany"
-    followers: 6264
-    engagement: 1114
-    commentsToLikes: 0.163175
+    followers: 17684
+    engagement: 1358
+    commentsToLikes: 0.099473
     id: ck5hek2i5tbb20i112jwt0hh3
     verified: false
-    hashtags: "#couplegoals, #hochzeitplanen, #preggo, #babybauchfotos"
-  - username: "renate2108"
+    hashtags: "#babyjunge, #minimonday, #knitoutfit, #mama"
+  - username: "vitaminfede"
     fullname: >-
-      Renate Kaiser
+      federica 🍋 fitness & lifestyle
+    bio: >-
+      🍃 health education student 📍 stuttgart | germany 🎥 youtube: vitaminfede
     location: "Germany"
-    followers: 17382
-    engagement: 628
-    commentsToLikes: 0.184616
-    id: ck9h9vdrja3vb0j78d4gk5ble
+    followers: 5136
+    engagement: 1520
+    commentsToLikes: 0.116979
+    id: ckaovkd7s4xte0i78k3sqyscg
     verified: false
-    hashtags: "#jeanstuesday"
-  - username: "fileks"
+    hashtags: "#fitnessgermany, #fitfam, #mcshape, #fitnessblogger"
+  - username: "miss_high_voltage"
     fullname: >-
-      Filip
+      ↯‡Katharina‡↯
+    bio: >-
+      ♥️“𝙱𝚎𝚏𝚘𝚛𝚎 𝙴𝚕𝚟𝚒𝚜 𝚝𝚑𝚎𝚛𝚎 𝚠𝚊𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐.” Music lover Healthy living Globetrotter 🎼 BFMV🙏🏻MM😻MIW🌹
     location: "Germany"
-    followers: 78468
-    engagement: 410
-    commentsToLikes: 0.057012
-    id: ck6tjw8ae3jll0j71wlpqc8m5
+    followers: 20714
+    engagement: 916
+    commentsToLikes: 0.064631
+    id: ck0w060sscjxl0i19kwsxm1gr
     verified: false
-    hashtags: "#schwimmen, #froheostern, #timetorelax, #longtailboat"
+    hashtags: "#teamzverev"
+  - username: "miriamneureuther"
+    fullname: >-
+      Miriam Neureuther
+    bio: >-
+      TRY TO START EVERY DAY WITH A SMILE! Happy mum 👧🏼👶🏻 nature lover🌳 healthy lifestyle 🍉
+    location: "Germany"
+    followers: 134792
+    engagement: 730
+    commentsToLikes: 0.032567
+    id: ck0u6aerv1hs30i19phfbl3fp
+    verified: false
+    hashtags: "#chiccobabyhug4in1, #gewinnspiel, #habteinensch, #naturelovers"
+  - username: "picturing.spirit"
+    fullname: >-
+      Johanna ✨ Yoga
+    bio: >-
+      ☯️Yoga (200h TTC) 🌿Healthy vegan eats ✨sustainability 💧essential oils, natural solutions and more👇🏼
+    location: "Germany"
+    followers: 11912
+    engagement: 1342
+    commentsToLikes: 0.053476
+    id: ck9hazujierui0j78teooufdv
+    verified: false
+    hashtags: "#yogainnature, #homepractice, #yogafam, #pinchamayurasana"
+  - username: "mutimbauch"
+    fullname: >-
+      SINA ♡ Sei die Veränderung
+    bio: >-
+      🎬 YouTube: MutimBauch 🎤 Podcast: Teilzeit-Spießer 🌱 Vegan Family ♡ Mental Health & Körperakzeptanz ↓Coaching & Ernährungsberatung (+Impressum)↓
+    location: "Germany"
+    followers: 16813
+    engagement: 1228
+    commentsToLikes: 0.039676
+    id: ck14kwf3nrnm30i1912d0e4p1
+    verified: false
+    hashtags: "#etepetete, #adoptdontshop, #committedtodobetter, #weltvegantag"
+  - username: "tim_stammberger"
+    fullname: >-
+      Tim Stammberger
+    bio: >-
+      𝘐𝘤𝘩 𝘣𝘪𝘯 𝘛𝘪𝘮 𝘶𝘯𝘥 𝘥𝘢𝘴 𝘪𝘴𝘵 𝘮𝘦𝘪𝘯 𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮 𝘗𝘳𝘰𝘧𝘪𝘭 Fitness, Health, Home & good vibes 🙂 ⠀⠀ ⠀ 📍 Stuttgart
+    location: "Germany"
+    followers: 155765
+    engagement: 676
+    commentsToLikes: 0.020770
+    id: ck13blpfiw0uq0i19hunuop5v
+    verified: true
+    hashtags: "#huaweiwatchfit, #la, #bbbank, #ichzahlevisa"
+  - username: "veronika_klimovits"
+    fullname: >-
+      Veronika Klimovits
+    bio: >-
+      🇩🇪GER / RUS 🇷🇺 Fashion, Healthy & Foodlover Bunny 🐰 PLAYMATE OF THE YEAR‘19 🏆 📍Berlin KALENDER BESTELLUNGEN HIER ⬇️
+    location: "Germany"
+    followers: 97951
+    engagement: 306
+    commentsToLikes: 0.062227
+    id: ck13bd4luuuqq0i19odzvpflm
+    verified: true
+    hashtags: "#tropicalvibes, #takemethere, #prettylittleiiinspo, #styleinspo"
   - username: "jasmin_katharina_"
     fullname: >-
       Jasi
+    bio: >-
+      ✨ Welcome to my world ✨ ✨ Fitnessaddict ✨ Dreamcatcher ✨ Just enjoy life ✨ Healthyfood
     location: "Germany"
-    followers: 5994
-    engagement: 2481
-    commentsToLikes: 0.042585
+    followers: 6547
+    engagement: 2953
+    commentsToLikes: 0.041710
     id: ck0vze7he8o590i19tt5g25wx
     verified: false
-    hashtags: "#sundaymornings, #growupyourlife, #powerful, #forestpictures"
-  - username: "khllifestyle"
-    fullname: >-
-      Karl-Heinz Limberg
-    location: "Germany"
-    followers: 14574
-    engagement: 1182
-    commentsToLikes: 0.062274
-    id: ck6tw5ydnq6it0j71bd2f3sek
-    verified: false
-    hashtags: "#paragliding, #ticino, #staypositive, #fitness"
+    hashtags: "#goalhunter, #lovemylife, #beagoodhuman, #thankful"
 ---

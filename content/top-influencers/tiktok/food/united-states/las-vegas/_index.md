@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Las Vegas In 2020
 description: >-
-  Find top food TikTok influencers in Las Vegas in 2020. Most popular hashtags: #food #lasvegas #distancedance #moodboost.
+  Find top food TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fyp #lasvegas #food #foryou.
 platform: TikTok
+hits: 67
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 67 TikTok influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
-  - username: "thelasvegasfoodie"
+  - username: "esahyna13"
     fullname: >-
-      Lindsay Stewart
+      Linda Gutierrez
+    bio: >-
+      OG Chola from Vegas 💙 I luv to fkn Laugh While I Cook & Drink Some Beer 🍻
     location: "United States"
-    followers: 39658
-    engagement: 1024
-    commentsToLikes: 0.008319
-    id: ck95xw1lo7kyv0j78h86f4262
+    followers: 274300
+    engagement: 877
+    commentsToLikes: 0.010760
+    id: ckaux87j12o4f0j23rfmlg2ss
     verified: false
-    hashtags: "#werkitfromhome, #rosa, #gamedayfood, #eggdrop"
-  - username: "hungryinvegas"
+    hashtags: "#foryoupage, #esahynafoods, #esahynasfood, #delicious"
+  - username: "cloudy.skys.grwm"
     fullname: >-
-      Ranae
+      ✨𝙶 𝚁 𝚆 𝙼✨
+    bio: >-
+      《dm us on Instagram for collabs》 ✨please dont self promo✨ ✊🏽 ✊🏾 ✊🏿
     location: "United States"
-    followers: 30388
-    engagement: 607
-    commentsToLikes: 0.009559
-    id: cka0m56c8tris0i78qvkldr2t
+    followers: 56300
+    engagement: 2484
+    commentsToLikes: 0.037462
+    id: ckfpluq4f0wfs0j2355fq1p5m
     verified: false
-    hashtags: "#eggnog, #friesbeforeguys, #cotija, #cheesecorn"
-  - username: "unlokt"
+    hashtags: "#beach, #happy, #sunset, #skincare"
+  - username: "lasvegasfill"
     fullname: >-
-      Unlokt
+      LasVegasFill 
+    bio: >-
+      All about the food in Las Vegas
     location: "United States"
-    followers: 361300
-    engagement: 1135
-    commentsToLikes: 0.002218
-    id: ck80cr7ftapgm0j78k0k2ta29
+    followers: 55900
+    engagement: 547
+    commentsToLikes: 0.017998
+    id: ckcou8mtl8pgq0j233zdgqmol
     verified: false
-    hashtags: "#milktea, #hotdogs, #piday, #macysprom"
-  - username: "shellzfromhellz"
+    hashtags: "#vegastiktok, #lasvegastiktok, #fyp, #yum"
+  - username: "makeupxsteff"
     fullname: >-
-      Shelly 
+      Estef 🦋
+    bio: >-
+      Las Vegas Makeup Artist 💗 instagram: @makeupxsteff 🦋 📩 Makeupxsteff@gmail.com
     location: "United States"
-    followers: 7281
-    engagement: 670
-    commentsToLikes: 0.022707
-    id: cka66ldh7hebu0i78neuppg99
+    followers: 4862
+    engagement: 1278
+    commentsToLikes: 0.054835
+    id: ckb9forsq4ap30j23r7q5d4by
     verified: false
-    hashtags: "#waipahu, #distancedance, #wedding, #loveforyou"
-  - username: "vegasbombshell1"
+    hashtags: "#fyp, #euphoriamakeup, #rarebeauty, #makeupartist"
+  - username: "reynapizarro"
     fullname: >-
-      VegasBombShell1
+      reynapizarro
+    bio: >-
+      Sharing a little bit of the good finds as I explore Let’s be IG friends🌎🌿
     location: "United States"
-    followers: 90333
-    engagement: 489
-    commentsToLikes: 0.027945
-    id: ck8hnfbbvqon10j78squ1zwtp
+    followers: 28500
+    engagement: 1027
+    commentsToLikes: 0.021497
+    id: ck9dwory0pyk40j782h7s5m8h
     verified: false
-    hashtags: "#humpday, #fail, #stupidchallenge, #syrupturnup"
-  - username: "countingcountries"
+    hashtags: "#coffeeshop, #fyp, #summervlog, #adventure"
+  - username: "jaaye_m"
     fullname: >-
-      Counting Countries
+      Jasmin Moreno
+    bio: >-
+      21 ig @jaaye_m Las Vegas
     location: "United States"
-    followers: 14919
-    engagement: 615
-    commentsToLikes: 0.037283
-    id: ck9rgysu3d5500j78tvfxhwoe
+    followers: 4643
+    engagement: 587
+    commentsToLikes: 0.054141
+    id: ckbfenfr08u440j23txog5bbu
     verified: false
-    hashtags: "#asia, #prank, #whale, #travelhacks"
-  - username: "iamnadiamoore_"
+    hashtags: "#lasvegas, #fyp, #food, #tiktok"
+  - username: "jessleetv"
     fullname: >-
-      Nadia Moore🥵
+      Jess
+    bio: >-
+      Follow my IG & YT ⬆️ ✨makeup✨vlogs✨curvy fashion✨ Hi angel 😇
     location: "United States"
-    followers: 11907
-    engagement: 1195
-    commentsToLikes: 0.056657
-    id: ck931p1p4fmew0j78es7wa7x9
+    followers: 80600
+    engagement: 925
+    commentsToLikes: 0.033992
+    id: cka0zj39vfkkx0i78uo8ntq09
     verified: false
-    hashtags: "#dadbaby, #trend, #workdontstop, #bored"
-  - username: "jasonrockford"
+    hashtags: "#halloweenishere, #fyp, #storytime, #lasvegas"
+  - username: "lleeeexxiii"
     fullname: >-
-      Jason Booth
+      lexi🖤
+    bio: >-
+      24 this is my favorite ke$ha song venmo: lleeeexxiii twitter: re_LEX_ation
     location: "United States"
-    followers: 81588
-    engagement: 1798
-    commentsToLikes: 0.034083
-    id: ck963uu7pwm4k0j781v66si94
+    followers: 25900
+    engagement: 602
+    commentsToLikes: 0.032211
+    id: cka0l9wfgq2ll0i780mujpykl
     verified: false
-    hashtags: "#convertible, #gumshoe, #babyboy, #cincodemayo"
-  - username: "brianmogg"
+    hashtags: "#unwrapthedeals, #showupshowoff, #xyzbca, #redbulldanceyourstyle"
+  - username: "dongkyuverymuch"
     fullname: >-
-      brianmogg
+      dongkyuverymuch
+    bio: >-
+      🦷DS2 at UNLV School of Dental Medicine Follow me on IG: @dongkyuverymuch
     location: "United States"
-    followers: 303763
-    engagement: 1743
-    commentsToLikes: 0.006611
-    id: ck90xykzn8ij20j7855cvfxa9
+    followers: 17800
+    engagement: 637
+    commentsToLikes: 0.016818
+    id: cka0n9mc8yq4n0i784nef2n0t
     verified: false
-    hashtags: "#dance, #idaho, #gaming, #relationships"
-  - username: "vegaschick82"
+    hashtags: "#foodie, #vegasfood, #kingcrab, #lasvegas"
+  - username: "soutsu_luna"
     fullname: >-
-      Kim
+      Soutsu_Luna
+    bio: >-
+      I’m pretty ok at cooking. And terrible at jokes Ig: (Soutsu_Luna) (Soutsu_Foodz)
     location: "United States"
-    followers: 2050
-    engagement: 703
-    commentsToLikes: 0.077474
-    id: ck95xw2xc7l8t0j78gemghh8h
+    followers: 49100
+    engagement: 1117
+    commentsToLikes: 0.028608
+    id: ck81q48jifsx20j78pe0piz2g
     verified: false
-    hashtags: "#onehellofaweek, #teenagers, #duet, #sleepykitty"
+    hashtags: "#bartending, #homecooking, #dogsoftiktok, #cocktail"
 ---

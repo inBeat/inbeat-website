@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top vegan Instagram influencers in San Francisco in 2020. Most popular hashtags: #vegan #plantpowered #sanfrancisco #menudo.
+  Find top vegan Instagram influencers in San Francisco in 2020. Most popular hashtags: #vegan #sanfrancisco #plantbased #bayarea.
 platform: Instagram
+hits: 37
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 37 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "whollyvegan"
     fullname: >-
       Jen
+    bio: >-
+      Vegan | San Francisco
     location: "United States"
     followers: 57468
     engagement: 113
     commentsToLikes: 0.027370
     id: ck8szlzxdoy5r0j78t3bnyd94
     verified: false
-    hashtags: "#onehourdairyfreecheese, #justegg, #hellolisalin, #deliceandsarrasin"
-  - username: "haykmuradyan_m"
+    hashtags: "#vegan, #veganfoodshare, #vegansofig, #justegg"
+  - username: "consciouschris"
     fullname: >-
-      Hayk Muradyan
+      Chris • Ⓥ
+    bio: >-
+      🍜 Blogger • 📸 Photographer • 🌄 Life Enthusiast Mostly Sandwiches 🥪 Full Day of Filipino Vegan Food 👇
     location: "United States"
-    followers: 33506
-    engagement: 779
-    commentsToLikes: 0.011071
-    id: ck6tr477lwty30j71m1hrupdn
+    followers: 96776
+    engagement: 151
+    commentsToLikes: 0.021312
+    id: ck0uad7iobzko0i19m6risr0b
     verified: false
-    hashtags: "#smile, #organic, #citrus, #kitten"
+    hashtags: "#sandwich, #plantbased, #vegan, #portland"
+  - username: "anna.sauce"
+    fullname: >-
+      🌸 Anna Nguyen 🌸
+    bio: >-
+      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
+    location: "United States"
+    followers: 12001
+    engagement: 1398
+    commentsToLikes: 0.023549
+    id: ck14h4yi28jx30i19oye3rns2
+    verified: false
+    hashtags: "#asiangirl, #traveler, #vacation, #california"
+  - username: "creatureintheparks"
+    fullname: >-
+      Trevor
+    bio: >-
+      Just a guy that loves to travel and eat cool shit 🤷🏻‍♂️ @missaliciam 🖤 Keep it posi ✌🏻
+    location: "United States"
+    followers: 5409
+    engagement: 680
+    commentsToLikes: 0.018314
+    id: ckap9lxbvsoy50i78t7673i3s
+    verified: false
+    hashtags: "#disneylove, #californiatakeover, #joshuatree, #disneystudios"
+  - username: "andoni_lekue"
+    fullname: >-
+      Andoní Lekue
+    bio: >-
+      Gold Wings Bar-Barian The Vegan Wolf 🌱🐺 @cashyum WORLD RECORD 87 MUSCLE UPS UNBROKEN click link TikTok @andoni_lekue #plantbased 043∞
+    location: "United States"
+    followers: 3546
+    engagement: 1057
+    commentsToLikes: 0.081239
+    id: ck9wdybf4htln0j781fhen8i9
+    verified: false
+    hashtags: "#wolf, #domore, #barbarian, #gatekeepaz"
   - username: "theuncreamery"
     fullname: >-
       The Uncreamery - Vegan Cheese
+    bio: >-
+      🌱The most delicious Vegan Cheese hand made in small batches in San Francisco!😍 Order on Vegan Essentials (NATIONWIDE)
     location: "United States"
     followers: 15925
     engagement: 152
     commentsToLikes: 0.057326
     id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#atxfood, #zapiekanka, #noheadaches, #womanowned"
-  - username: "rightfootcreative_"
+    hashtags: "#cheese, #vegetarian, #vegansandwich, #spicy"
+  - username: "rachel_dxe"
     fullname: >-
-      RIGHTFOOTCREATIVE | kara schab
+      Rachel Ziegler
+    bio: >-
+      🔦Facing 8 felony charges for rescuing animals🐓 📣 Activist & bird mom🕊🐾✊🏾 📍The Vulcan: @awarehouse_oakland 📸 Page : @rachel.z.photography
     location: "United States"
-    followers: 10230
-    engagement: 746
-    commentsToLikes: 0.068278
-    id: ck14kh1gzphbp0i192wzxrh3c
+    followers: 2948
+    engagement: 657
+    commentsToLikes: 0.068455
+    id: ck8szr011pe4i0j78zoi162yz
     verified: false
-    hashtags: "#earthday, #mindbodygreen, #feedfeed, #vegan"
-  - username: "snapamber"
+    hashtags: "#photography, #meat, #politics, #halloween"
+  - username: "chefpierrethiam"
     fullname: >-
-      SnapamberⓋ
+      Pierre Thiam
+    bio: >-
+      Chef, Restaurateur, TED Speaker & Cultural Ambassador • Co-Founder @yolelefoods • Co-Founder @itsteranga_ • Please support: https://bit.ly/2VhpxHz
     location: "United States"
-    followers: 49835
-    engagement: 808
-    commentsToLikes: 0.017135
-    id: ck13cfnb903tc0i19jwjyedxo
-    verified: false
-    hashtags: "#maturemodel, #over40, #vegangirls, #over40model"
+    followers: 11961
+    engagement: 391
+    commentsToLikes: 0.071728
+    id: ck0w4aqq0xn5l0i19n8w7236y
+    verified: true
+    hashtags: "#future50foods, #chefpierrethiam, #fonio, #yolelefoods"
   - username: "simonagyoga"
     fullname: >-
       Simona G Yoga
+    bio: >-
+      Yoga teacher | E-RYT500 Empowering through physical and mental strength 🌱Plant powered Email for collaborations 🌉Based in San Francisco Bay Area 📺👇
     location: "United States"
-    followers: 34873
-    engagement: 588
-    commentsToLikes: 0.037807
+    followers: 116618
+    engagement: 230
+    commentsToLikes: 0.052794
     id: ck0vwp7n1uwss0i19fho9jq4p
     verified: false
-    hashtags: "#forearmstand, #lovelearning, #grateful, #boatpose"
-  - username: "livewithsyd"
+    hashtags: "#yogastudent, #howtoyogaathome, #heartopener, #yogastrong"
+  - username: "bett_yu"
     fullname: >-
-      sydney bricklin
+      Betty Yu
+    bio: >-
+      CBS San Francisco @kpixtv at 11 pm byu@cbs.com facebook.com/BettyYuLive
     location: "United States"
-    followers: 2719
-    engagement: 1923
-    commentsToLikes: 0.263521
-    id: ck6uax9r367gj0j716yuomv3w
-    verified: false
-    hashtags: "#facebehindthefeed, #meatlessmonday, #womenshistorymonth, #dailyharvest"
-  - username: "lisamyaf"
-    fullname: >-
-      Lisa Myaf 🌱 VEGAN FOOD
-    location: "United States"
-    followers: 24517
-    engagement: 253
-    commentsToLikes: 0.058405
-    id: ck0tv12mg9h380i19zqgmri55
-    verified: false
-    hashtags: "#quesovegano, #tapas, #veganzapiekanka, #veggiepizza"
-  - username: "jenncaneat"
-    fullname: >-
-      Jenn | Sacramento/Davis Foodie
-    location: "United States"
-    followers: 3458
-    engagement: 1900
-    commentsToLikes: 0.027472
-    id: ck8t0spwpt5yl0j78r9x0a724
-    verified: false
-    hashtags: "#eggpuff, #vegan, #morningmotivation, #fries"
-  - username: "nadzeya_makeyeva"
-    fullname: >-
-      Nadzeya Makeyeva
-    location: "United States"
-    followers: 8291
-    engagement: 569
-    commentsToLikes: 0.030652
-    id: ck5pvjss5i8as0i11cwys97tp
-    verified: false
-    hashtags: "#noblelaureate, #botanical, #artistsofig, #ilovefantasyart"
+    followers: 8814
+    engagement: 460
+    commentsToLikes: 0.115646
+    id: ck5q4ykycqpts0i11oqs9jyxn
+    verified: true
+    hashtags: "#farmtotable, #outdoordining, #ranchlife, #ootd"
 ---

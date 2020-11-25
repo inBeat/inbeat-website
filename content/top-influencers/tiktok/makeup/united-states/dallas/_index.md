@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Dallas In 2020
 description: >-
-  Find top makeup TikTok influencers in Dallas in 2020. Most popular hashtags: #makeup #dallas #quarantine #texas.
+  Find top makeup TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #makeup #dallas #foryoupage.
 platform: TikTok
+hits: 56
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 56 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "jhk.c"
+  - username: "makeupbymanueltx"
     fullname: >-
-      조조
+      Manuel C.
+    bio: >-
+      PRO MUARTIST - LIFE IS SHORT ,MAKE UP. “ just a regular dude frm DALLAS,TX
     location: "United States"
-    followers: 28088
-    engagement: 719
-    commentsToLikes: 0.020819
-    id: ck8hmxs4fo8ay0j78597ab7ak
+    followers: 4486
+    engagement: 1072
+    commentsToLikes: 0.026668
+    id: ckb9d6c0007b80j238430hhk3
     verified: false
-    hashtags: "#motd, #catfish, #birthdayweek, #xycba"
-  - username: "akinerakcam6"
+    hashtags: "#dallastx, #texas, #makeupartist, #quarantine"
+  - username: "mirabella.g"
     fullname: >-
-      AkiNerakCam
+      mira;)
+    bio: >-
+      .Venmo-Mira-Goodman 🦋⛓🌙🍃🚬 🖤 /native/ bc u be so concerned
     location: "United States"
-    followers: 19102
-    engagement: 534
-    commentsToLikes: 0.028400
-    id: ck9r4pxfaw6iv0j78m3hhu6u6
+    followers: 9160
+    engagement: 1834
+    commentsToLikes: 0.147173
+    id: ck9ep97wvrls50j7857inu6f0
     verified: false
-    hashtags: "#millon, #ingles, #trendy, #shop"
+    hashtags: "#goth, #emo, #alt, #fyp"
+  - username: "monitoocrazy"
+    fullname: >-
+      Monica💗
+    bio: >-
+      CEO of Ayyyyyy and Marisaaaaa!✨ Mexican American 🇲🇽 Insta: Monitoocrazy Dtx🤠
+    location: "United States"
+    followers: 635300
+    engagement: 2370
+    commentsToLikes: 0.011225
+    id: ck8qkrfnqiiy90j786q2x1eh7
+    verified: false
+    hashtags: "#candy, #snack, #foryou, #mexican"
+  - username: "bloop053"
+    fullname: >-
+      B-Loop
+    bio: >-
+      I came here to laugh. ——> add me on insta IG- bloop053
+    location: "United States"
+    followers: 11800
+    engagement: 1811
+    commentsToLikes: 0.024840
+    id: ckcu6trxsbmz40j23j16hvam5
+    verified: false
+    hashtags: "#fup, #comedy, #funny, #fyp"
   - username: "bee.liss__"
     fullname: >-
       Bianca
+    bio: >-
+      IG: @bee.liss Keep your negativity to yourself
     location: "United States"
-    followers: 5624
-    engagement: 389
-    commentsToLikes: 0.017969
+    followers: 5815
+    engagement: 400
+    commentsToLikes: 0.012446
     id: ck9v17nnxftof0j78wiysj5ma
     verified: false
-    hashtags: "#latina, #womenoftiktok, #wordrobe, #casuallook"
-  - username: "monitoocrazy"
+    hashtags: "#outfit, #trend, #ootd, #womensfashion"
+  - username: "katiemermaidhairxo"
     fullname: >-
-      Monitoocrazy
+      KATIE ROGERS
+    bio: >-
+      ✨Mermaid 🧜‍♀️ SEAlon ✨ ✨Amazon Treasure Hunter 🔎✨
     location: "United States"
-    followers: 331681
-    engagement: 2136
-    commentsToLikes: 0.010912
-    id: ck8qkrfnqiiy90j786q2x1eh7
+    followers: 54100
+    engagement: 812
+    commentsToLikes: 0.016556
+    id: ck9rl6n8awggm0j78yex5o8m7
     verified: false
-    hashtags: "#hispnic, #funny, #foryourpage, #coronavirus"
-  - username: "jadalane_"
+    hashtags: "#lashes, #makeup, #nails, #rocolashes"
+  - username: "cheyboi"
     fullname: >-
-      jada lane
+      CheyBoi
+    bio: >-
+      Dancer/drag king Taken ❤️ She/her 🏳️‍🌈
     location: "United States"
-    followers: 16209
-    engagement: 1728
-    commentsToLikes: 0.078156
-    id: ck8oxz7py4t8c0j789fswi4f7
+    followers: 97800
+    engagement: 1261
+    commentsToLikes: 0.013453
+    id: ckbb2rck7t2ej0j239lk8x8oh
     verified: false
-    hashtags: "#momsoftiktok, #comment, #featureme, #ledlights"
-  - username: "thecurlybeviie"
+    hashtags: "#girlfriend, #lesbiantiktok, #fyp, #wlw"
+  - username: "baaabyyyjayyy"
     fullname: >-
-      Auntie Bev
+      Jasmin
+    bio: >-
+      Snapchat: @liljayyy214 Subscribe to my YouTube channel
     location: "United States"
-    followers: 67813
-    engagement: 1342
-    commentsToLikes: 0.009515
-    id: cka0sk1ivlusq0i78dfut0k6k
+    followers: 43300
+    engagement: 434
+    commentsToLikes: 0.000000
+    id: ck9eodzyio1j30j78wuc1swm7
     verified: false
-    hashtags: "#glowup, #learnfromme, #bighair, #makeup"
-  - username: "lisetteperezzz"
+    hashtags: "#asian, #strippercheck, #xyzbca, #fyp"
+  - username: "missmickeyc"
     fullname: >-
-      Lisetteperezzz
+      Michaela Castillo
+    bio: >-
+      Texas 26 I laugh at my own jokes
     location: "United States"
-    followers: 22197
-    engagement: 736
-    commentsToLikes: 0.039162
-    id: ck9reo7lm35bh0j78s3i6qfsr
+    followers: 4152
+    engagement: 719
+    commentsToLikes: 0.042116
+    id: ckbf7pd0wxsvq0j23joikg53z
     verified: false
-    hashtags: "#shoes, #tiktokrestarea, #poseathome, #yoplaitcuprelay"
-  - username: "jsbuilders_"
+    hashtags: "#fyp, #duet, #wap, #pageantgirl"
+  - username: "alexiabreceda"
     fullname: >-
-      Tony Suarez
+      ✨ Alexia ✨
+    bio: >-
+      21 💋 Giveaway at 100k 🙏✨ Dallas, Tx 📍 Dm for promo/collabs
     location: "United States"
-    followers: 64713
-    engagement: 522
-    commentsToLikes: 0.018990
-    id: ck81sb33frd580j7830kndxyz
+    followers: 77100
+    engagement: 1823
+    commentsToLikes: 0.014013
+    id: ckb9bf37zxgm50j23hbsfqjws
     verified: false
-    hashtags: "#stain, #makeup, #killyourvibe, #mexico"
-  - username: "mua_priiiii"
-    fullname: >-
-      Priscillaaa_14
-    location: "United States"
-    followers: 24259
-    engagement: 1375
-    commentsToLikes: 0.040454
-    id: ck95xw5rx7lwr0j78m8aq2bnk
-    verified: false
-    hashtags: "#asgoodastheog, #hoopsathome, #senioryear2020, #sidehustle"
-  - username: "jordanmauldin"
-    fullname: >-
-      Jordan Mauldin
-    location: "United States"
-    followers: 7672
-    engagement: 703
-    commentsToLikes: 0.078711
-    id: ck9foaw391x920j78yjgcwlhx
-    verified: false
-    hashtags: "#ififitsisits, #netflix, #tiktokhusband, #brokeass"
+    hashtags: "#wewintogether, #makeup, #welldone, #expressieyourself"
 ---

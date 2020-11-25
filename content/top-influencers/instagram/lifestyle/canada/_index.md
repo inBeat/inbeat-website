@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Canada In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Canada in 2020. Most popular hashtags: #gifted #moodygram #ootd #bethelight.
+  Find top lifestyle Instagram influencers in Canada in 2020. Most popular hashtags: #prettylittlething #gifted #ad.
 platform: Instagram
+hits: 801
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 801 Instagram influencers like this in Canada for you to connect with.
 profiles:
+  - username: "joeliegamatero"
+    fullname: >-
+      Joelie Jane
+    bio: >-
+      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
+    location: "Canada"
+    followers: 7176
+    engagement: 2333
+    commentsToLikes: 0.272646
+    id: ckf5s50lfeqxv0j23s9pw9dxh
+    verified: false
+    hashtags: "#mykindofsilk, #mykaseme"
   - username: "sofsenisi"
     fullname: >-
       Sof senisi👑💖✨
+    bio: >-
+      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
     location: "Canada"
-    followers: 5384
-    engagement: 2239
-    commentsToLikes: 0.247767
+    followers: 5984
+    engagement: 1955
+    commentsToLikes: 0.268103
     id: ckap0fxu8q3qd0i781qxasrxq
     verified: false
-    hashtags: "#collab, #goldenhour, #glowingskin, #ootd"
+    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
+  - username: "melissalandry04"
+    fullname: >-
+      Mélissa Landry
+    bio: >-
+      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
+    location: "Canada"
+    followers: 5416
+    engagement: 1823
+    commentsToLikes: 0.151679
+    id: ck8talf48s8yo0j78f1l6fjr9
+    verified: false
+    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
   - username: "annesha.adams"
     fullname: >-
       ANNESHA ADAMS
+    bio: >-
+      I make lifestyle videos on youtube! ⁣⁣ 💌 hello@anneshaadams.com⁣ 📍 Canada & Jamaica⁣ 🍃Watch new video below👇🏾!
     location: "Canada"
-    followers: 6006
-    engagement: 1767
-    commentsToLikes: 0.088155
+    followers: 7339
+    engagement: 1535
+    commentsToLikes: 0.101081
     id: ck135iepe1kux0i19xoihkvj0
     verified: false
-    hashtags: "#reggae"
-  - username: "rejeannemartin"
-    fullname: >-
-      r e j
-    location: "Canada"
-    followers: 7516
-    engagement: 1559
-    commentsToLikes: 1.792211
-    id: ckaoubbr1zmbc0i78ep046353
-    verified: false
-    hashtags: "#bancroft, #mothersday, #ontariobusiness, #momsofig"
-  - username: "lori_dawnolyn"
-    fullname: >-
-      Lori Dawnolyn-Lifestyle Model
-    location: "Canada"
-    followers: 7316
-    engagement: 1284
-    commentsToLikes: 0.222534
-    id: ck14kjbrnpscf0i195amwqp8c
-    verified: false
-    hashtags: "#2009vs2019, #knixcampaign, #fashionglasses, #stayingathome"
+    hashtags: "#jamaica"
   - username: "litezon"
     fullname: >-
       Grant Huntington
+    bio: >-
+      Creative Portraits & Lifestyle | #yyc @pattifalconeragency
     location: "Canada"
-    followers: 16766
-    engagement: 862
-    commentsToLikes: 0.073916
+    followers: 15799
+    engagement: 924
+    commentsToLikes: 0.073254
     id: ck5zrag5fw7p80i14shgriha3
     verified: false
     hashtags: ""
-  - username: "eyesupdarling"
+  - username: "rachelsavaunnah"
     fullname: >-
-      Kait Wilson
+      RAE SAVAUNNAH • T.O BLOGGER
+    bio: >-
+      Lifestyle • Beauty • Fashion 📍🇨🇦 Let’s Collab👉🏿 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #beauty #fashion #lifestyle #boymom ⇣✨👇🏿👀👇🏿✨⇣
     location: "Canada"
-    followers: 26011
-    engagement: 737
-    commentsToLikes: 0.068107
-    id: ck5hldwy5k1kd0i111t34kchr
+    followers: 6256
+    engagement: 1151
+    commentsToLikes: 0.574121
+    id: ck5zz5d5vb4450i140detajo0
     verified: false
-    hashtags: "#mothersday, #wednesdayneighin, #celebrationovercomparison, #ghodho"
-  - username: "aliciahillturner"
+    hashtags: "#prettylittlething, #faith, #plt, #pltstyle"
+  - username: "vanessa.anna"
     fullname: >-
-      hey i’m alicia🕊🧚🏻 | Toronto
+      Vanessa Luttrell
+    bio: >-
+      montreal fashion + lifestyle 🌼🦋🤍🥧 💌 vanessa.luttrell@gmail.com
     location: "Canada"
-    followers: 7839
-    engagement: 1284
-    commentsToLikes: 0.229178
-    id: ck8tblyesw6cg0j78eyojme0h
+    followers: 15304
+    engagement: 808
+    commentsToLikes: 0.077300
+    id: ck0w4rrzb036i0i19s3yp8vlk
     verified: false
-    hashtags: "#coronavirus"
-  - username: "thelosttwo"
+    hashtags: "#rqbabe, #nastygalsdoitbetter"
+  - username: "brooke.antonsen"
     fullname: >-
-      CLAUDIA & KAAN
+      Brooke Antonsen
+    bio: >-
+      Calgary, AB✨ Published Model, Lifestyle, Fitness @fitarmyofficial Athlete🏆
     location: "Canada"
-    followers: 115272
-    engagement: 454
-    commentsToLikes: 0.055806
-    id: ck0tt21xk0thk0i197hqwq18b
+    followers: 9281
+    engagement: 3310
+    commentsToLikes: 0.052745
+    id: ck5hjlstsguoe0i11mydyh2jo
     verified: false
-    hashtags: "#womensday, #explorebali, #colonial, #naturetherapy"
-  - username: "shalini_matt"
+    hashtags: "#empoweredescape, #godsplan, #cheese, #throwbackthursday"
+  - username: "simranahmed30"
     fullname: >-
-      Shaluuu🌹
+      Simran Ahmed | Vancouver
+    bio: >-
+      🌈 (she/her) intersectional feminist ✌🏽 lifestyle | adventure | social justice 📍immigrant in Vancouver, Canada 💌 ahmed_simran@yahoo.com 🐱 cat mom
     location: "Canada"
-    followers: 2746
-    engagement: 2812
-    commentsToLikes: 0.087200
-    id: ck6uernicsp5o0j71ntftvyov
+    followers: 18708
+    engagement: 600
+    commentsToLikes: 0.519644
+    id: ck5q3gvq6koz10i11g628xc4w
     verified: false
-    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
-  - username: "vanora.lo"
+    hashtags: "#streetstyleinspo, #neutraltones, #streetstyleoutfit, #bodypositivemovement"
+  - username: "meligatorr"
     fullname: >-
-      VANORA LO | Vancouver
+      Melisa | Montreal
+    bio: >-
+      〰️melisa.badea@mail.com 📩 〰️Co-founder/CEO @lemonseedmedia 🍋 〰️Welcome to my virtual journal 📔 〰️Lifestyle, self care and little fragments of life🌿
     location: "Canada"
-    followers: 2376
-    engagement: 2039
-    commentsToLikes: 0.187076
-    id: ck6u7woqbo3bo0j71tq5w83f0
+    followers: 26086
+    engagement: 494
+    commentsToLikes: 0.508923
+    id: ck5bz30vkqch20i11r2q74r5z
     verified: false
-    hashtags: "#skincarereviews, #whatiwore, #goldenhour, #aestheticpost"
+    hashtags: "#ad, #gifted, #endypartner, #lastnormalphoto"
 ---

@@ -1,62 +1,113 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Morocco In 2020
 description: >-
-  Find top rappers Instagram influencers in Morocco in 2020. Most popular hashtags: #challenge #marrakech #stayhome #lifestyle.
+  Find top rappers Instagram influencers in Morocco in 2020. Most popular hashtags: #sun #positivelife #fhamni.
 platform: Instagram
+hits: 15
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 15 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "mester.alae1"
+  - username: "mons.saroute"
     fullname: >-
-      Mester Alae | مستر علاء
+      LE MON$ 🇲🇦
+    bio: >-
+      Moroccan Rapper 📀🎙 Management & booking : @gryisthenewblvc Groupe : @swaret_ 🗝 #naviguer out now 🎙🔥 👇👇 👇👇 👇👇
     location: "Morocco"
-    followers: 32832
-    engagement: 1069
-    commentsToLikes: 0.033274
-    id: ck0w2dv1knux00i19nywxo2q5
-    verified: false
-    hashtags: "#nessahom, #10, #11, #12"
-  - username: "dolly_pran"
-    fullname: >-
-      Dollypran 💊🦂
-    location: "Morocco"
-    followers: 96153
-    engagement: 1322
-    commentsToLikes: 0.012618
-    id: ck5pyufuoxv5f0i11ky48vrrf
-    verified: false
-    hashtags: "#b13savage, #challengeko, #b9awfdarkom, #challenge"
-  - username: "l7or75"
-    fullname: >-
-      L7OR 🕊 الحر
-    location: "Morocco"
-    followers: 573671
-    engagement: 533
-    commentsToLikes: 0.016196
-    id: ck0u0y8aqvadt0i19x47xk38e
+    followers: 317283
+    engagement: 617
+    commentsToLikes: 0.014205
+    id: ck5cia9zmsa3i0i11mdgkpnxj
     verified: true
-    hashtags: "#live, #2m, #l7or, #l7or75"
+    hashtags: "#saroute, #positivelife, #kass, #raja"
+  - username: "badgalberry"
+    fullname: >-
+      BERRY 🇲🇦
+    bio: >-
+      Multifaceted if I may say so myself - Fashion blogger, rapper, songwriter. ~ Best bid wins ~ Contact: chaimaeberry@gmail.com “Alright” music video ⬇️
+    location: "Morocco"
+    followers: 40513
+    engagement: 690
+    commentsToLikes: 0.012337
+    id: ck5ci9zaus9mz0i11vkd4cduk
+    verified: false
+    hashtags: "#rotita, #sun, #newchicgals, #ootd"
+  - username: "kdk_44"
+    fullname: >-
+      KÐK ♛
+    bio: >-
+      Rapper / Songwriter Tetuán 🇲🇦📍 Booking | 44likeneverbeforeyouknow@gmail.com 📧 "F H A M N I" OUT NOW 🔥👇 EP #FLOWS ⏳🔜
+    location: "Morocco"
+    followers: 8246
+    engagement: 1485
+    commentsToLikes: 0.044541
+    id: ck0w18qz6i3w50i19n29etr43
+    verified: false
+    hashtags: "#44likeneverbefore, #fhamni, #flows, #b9afdarek"
   - username: "8irdtokio"
     fullname: >-
       8IRD 🖤🗡♾
+    bio: >-
+      8𝔦𝔯𝔡 (rapper/producer/songwriter) エートアード Management: 8ird.management@gmail.com my last work 🔻 #8IRD
     location: "Morocco"
-    followers: 35589
-    engagement: 1035
-    commentsToLikes: 0.018854
+    followers: 52684
+    engagement: 884
+    commentsToLikes: 0.015800
     id: ck0vv0vdhn0tp0i1951ek4fih
     verified: false
-    hashtags: "#streetfashion, #streetwear"
+    hashtags: "#casablanca, #morocco, #neongenesisevangelion, #shinjiikari"
+  - username: "lsan_l7a9"
+    fullname: >-
+      لسان الحق | Lsan L7a9
+    bio: >-
+      - Moroccan Rapper, Songwriter 📝 - Booking : Lsan.L7a9.Manager@gmail.com ✉ - DL4LIFE 🚨Facebook : Lsan L7a9 🚨Youtube : Lsan L7a9 ▪︎Check out new Clip ⬇️
+    location: "Morocco"
+    followers: 25346
+    engagement: 463
+    commentsToLikes: 0.016881
+    id: ckf5ueqrqkmw80j23gzvyzr87
+    verified: false
+    hashtags: "#nti, #song, #dl4life, #lsan"
+  - username: "dolly_pran"
+    fullname: >-
+      Dollypran 💊🦂
+    bio: >-
+      @b13sauvage 🇲🇦 Rapper / Songwriter 🎤🎼 Manager : @ashraafelouarid | elouarid.achraf@gmail.com (DRILL-HOOD)🔥🔥is out now
+    location: "Morocco"
+    followers: 144053
+    engagement: 1074
+    commentsToLikes: 0.007264
+    id: ck5pyufuoxv5f0i11ky48vrrf
+    verified: false
+    hashtags: "#trapmarocaine, #triller, #trending, #rapmaroc"
   - username: "young_zow"
     fullname: >-
       YOUNG ZOW 🇲🇦💣
+    bio: >-
+      #rapper 🇲🇦 📌DSKings- Casablanca🇲🇦 📌BOOKING 📞 : young.zow2014@gmail.com 📌 MANAGER : @laguiss_officiel @khaledhipo 🔥👇SIR OUT NOW 👇🔥
     location: "Morocco"
-    followers: 13761
-    engagement: 566
-    commentsToLikes: 0.049955
+    followers: 22406
+    engagement: 680
+    commentsToLikes: 0.033631
     id: ck5heezgrsk610i11iyy132o5
     verified: false
-    hashtags: "#team, #biggy324, #respect, #les"
+    hashtags: "#new, #cb4empire, #cb4gang, #freestyle"
+  - username: "mester.alae1"
+    fullname: >-
+      MESTER ALAE
+    bio: >-
+      Rapper - Songwriter Booking & Business : @othmanjbari Label :@planet_production1 FENOMENO OUT NOW 👇👇👇
+    location: "Morocco"
+    followers: 42804
+    engagement: 977
+    commentsToLikes: 0.017756
+    id: ck0w2dv1knux00i19nywxo2q5
+    verified: false
+    hashtags: "#13, #tanjawedream"
   - username: "smallxofficial"
     fullname: >-
       SmallX 🇲🇦 🐉
+    bio: >-
+      Rapper, songwriter & producer 1/2 of Moroccan rap group SHAYFEEN Contact : smallxofficial@gmail.com Management & booking : contact@hakeemerajai.com
     location: "Morocco"
     followers: 268361
     engagement: 631
@@ -67,41 +118,13 @@ profiles:
   - username: "damost24"
     fullname: >-
       Damost
+    bio: >-
+      The dark side of the moon 🌑 Rapper, singer and songwriter. GRAMMYS FT MADD Mgt & booking : contact@hakeemerajai.com #WDS
     location: "Morocco"
     followers: 13466
     engagement: 1059
     commentsToLikes: 0.013969
     id: ck5ciai96sajh0i11krbh1tit
     verified: false
-    hashtags: "#manaltaj, #wadrarisquad, #wds, #grammys"
-  - username: "mrcrazy_off"
-    fullname: >-
-      MR CRAZY
-    location: "Morocco"
-    followers: 676565
-    engagement: 316
-    commentsToLikes: 0.015098
-    id: ck0w2dwjnnv7i0i19jon8z6c0
-    verified: true
-    hashtags: "#rap, #nature, #ag, #2millions"
-  - username: "steeephes"
-    fullname: >-
-      STEPH
-    location: "Morocco"
-    followers: 10264
-    engagement: 1262
-    commentsToLikes: 0.060089
-    id: ck5zoeccbqdds0i14by3i3b2e
-    verified: false
-    hashtags: "#horss, #mohamedramadan, #2019, #staysafe"
-  - username: "othmanchic"
-    fullname: >-
-      Othman Chic
-    location: "Morocco"
-    followers: 60925
-    engagement: 110
-    commentsToLikes: 0.048079
-    id: ck0w05l63chio0i19r52pc5ig
-    verified: false
-    hashtags: "#best, #journey, #captinemajed, #care"
+    hashtags: ""
 ---

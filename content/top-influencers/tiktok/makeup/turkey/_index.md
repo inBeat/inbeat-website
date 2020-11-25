@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Turkey In 2020
 description: >-
-  Find top makeup TikTok influencers in Turkey in 2020. Most popular hashtags: #makeup #tasar #makeupartist #tutorial.
+  Find top makeup TikTok influencers in Turkey in 2020. Most popular hashtags: #makeup #ke #fyp #beni.
 platform: TikTok
+hits: 46
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 46 TikTok influencers like this in Turkey for you to pitch.
 profiles:
+  - username: "cerengvsgl"
+    fullname: >-
+      Ceren
+    bio: >-
+      🇹🇷 İnstagram : @cerengvs @cgvs.makeup
+    location: "Turkey"
+    followers: 53200
+    engagement: 713
+    commentsToLikes: 0.013443
+    id: ckbakqfvdbp960j23gm7898hd
+    verified: false
+    hashtags: "#makeupcheck, #ortam, #tiktokturkey, #ke"
   - username: "meryemmercann"
     fullname: >-
       Meryem Mercan
+    bio: >-
+      Makeup Artist #teameryemercan İnstagram👇🏼
     location: "Turkey"
-    followers: 29150
-    engagement: 382
-    commentsToLikes: 0.027063
+    followers: 101600
+    engagement: 311
+    commentsToLikes: 0.020062
     id: ck8kkl3syzsxy0j786fdiiazd
     verified: false
-    hashtags: "#eyebrow, #baht, #backstage, #makeupcheck"
-  - username: "helinserdar"
+    hashtags: "#eyeshadow, #lip"
+  - username: "fanz_nourmar5_youtube"
     fullname: >-
-      Helîn
+      NourMar5
+    bio: >-
+      
     location: "Turkey"
-    followers: 1921
-    engagement: 1041
-    commentsToLikes: 0.056589
-    id: ck81qqshoj27v0j78qfplrvjn
+    followers: 3461
+    engagement: 1308
+    commentsToLikes: 0.041924
+    id: ckbeus6dne89n0j23lv8lbdrf
     verified: false
-    hashtags: "#catart, #womenbeauty, #sanat, #pembe"
-  - username: "peachlolita"
+    hashtags: "#fihaalsong, #minecraft, #bts, #btsarmy"
+  - username: "yaren_ozlem35"
     fullname: >-
-      🍑 𝙿𝚎𝚊𝚌𝚑 🍑
+      Seyran
+    bio: >-
+      evli mutluçocuklu
     location: "Turkey"
-    followers: 28223
-    engagement: 1323
-    commentsToLikes: 0.070158
-    id: cka0fnmvg0d1f0i787fdfmhxy
+    followers: 14900
+    engagement: 1289
+    commentsToLikes: 0.029667
+    id: ckbf6kdviwawx0j237yche6me
     verified: false
-    hashtags: "#foyou, #teampeachlolita, #teamlolita, #kaykay"
-  - username: "tugbish.kirci"
+    hashtags: "#efsaney, #makyaj, #beni, #izmir"
+  - username: "salmgoane"
     fullname: >-
-      tuğbişh
+      أبنك يا شام (سالم)
+    bio: >-
+      رابط قناتي اليوتيوب 👇
     location: "Turkey"
-    followers: 162511
-    engagement: 531
-    commentsToLikes: 0.012596
-    id: ck8kcvwoj35tv0j789zdgftyn
+    followers: 273200
+    engagement: 1179
+    commentsToLikes: 0.049286
+    id: ckb8y1w57d6n00j23a9vhfqk3
     verified: false
-    hashtags: "#vatann, #youpage, #yozgat, #gelin"
-  - username: "ynkmedyaaa"
+    hashtags: "#duet, #fyp, #smile, #slowmo"
+  - username: "haydiizleee"
     fullname: >-
-      makinist
+      haydiizleee
+    bio: >-
+      
     location: "Turkey"
-    followers: 2264
-    engagement: 228
-    commentsToLikes: 0.069975
-    id: ckacd9aqyimwv0i78pdlsw8kk
+    followers: 126400
+    engagement: 1730
+    commentsToLikes: 0.004053
+    id: ckcdwpglrfsfs0j23yhx6md0x
     verified: false
-    hashtags: "#inspiration, #benionecikart, #igaddict, #instafamo"
-  - username: "gizem_media"
+    hashtags: "#barbi, #barbigirl, #ke, #evcilikoyunu"
+  - username: "adrianalima_"
     fullname: >-
-      gizem_media
+      ADRIANA LIMA
+    bio: >-
+      
     location: "Turkey"
-    followers: 2756
-    engagement: 708
-    commentsToLikes: 0.003947
-    id: cka7vgj7kw3ck0i78vsjlps8h
+    followers: 13000
+    engagement: 442
+    commentsToLikes: 0.037636
+    id: ck9215mx2gygc0j78ttscmyov
     verified: false
-    hashtags: "#reymen, #yuksekova, #youtube, #irnak"
-  - username: "nazan_guner"
+    hashtags: "#puma, #maybelline, #tiktokbrasil, #maybellinechallenge"
+  - username: "amandine_daily"
     fullname: >-
-      MAHİDEVRANNAZANGUNER
+      Amandine
+    bio: >-
+      Fashion, travel, lifestyle - Instagram : @lesberlinettes
     location: "Turkey"
-    followers: 24951
-    engagement: 441
-    commentsToLikes: 0.004474
-    id: ck8klthi05h7h0j78jnkjltgh
+    followers: 4942
+    engagement: 790
+    commentsToLikes: 0.058219
+    id: ckb9m6mydf22i0j23emiu2in1
     verified: false
-    hashtags: "#trippy, #kapad, #damat, #sonsuz"
-  - username: "mustafakires"
+    hashtags: "#berlin, #makeup, #berlinfood, #berlintips"
+  - username: "gizemtknx"
     fullname: >-
-      Mustafa Kires
+      enigma🍫
+    bio: >-
+      kalemimdekises Şiir sayfamızı takip ederseniz çok mutlu oluruz 👇
     location: "Turkey"
-    followers: 17432
-    engagement: 1022
-    commentsToLikes: 0.080971
-    id: ck9sm4t3yhfiy0j78wmzqf13s
+    followers: 91000
+    engagement: 650
+    commentsToLikes: 0.019609
+    id: cka9ky20x13ga0i786v36f1ea
     verified: false
-    hashtags: "#tutorial, #kedimkonu, #kocakafalar, #ejderhayad"
-  - username: "ozgurmakbule"
+    hashtags: "#gizemailesi, #beni, #komik, #sa"
+  - username: "wildrose_baby"
     fullname: >-
-      Makbule HanımKızınız
+      Nur
+    bio: >-
+      Check my instagram > @wildrose_baby
     location: "Turkey"
-    followers: 198894
-    engagement: 914
-    commentsToLikes: 0.039526
-    id: cka7uh1ujrw420i786qk3889x
+    followers: 91100
+    engagement: 609
+    commentsToLikes: 0.020626
+    id: ckbf8mo6sz4t90j23epttzrwi
     verified: false
-    hashtags: "#taslak, #arkaplan, #ho, #seabed"
-  - username: "mahi.art"
-    fullname: >-
-      MAHİ
-    location: "Turkey"
-    followers: 43657
-    engagement: 1426
-    commentsToLikes: 0.074941
-    id: ck81qx1y9kmay0j78v0f3yaz1
-    verified: false
-    hashtags: "#eyedrawing, #winter, #lipstick, #fyoupage"
+    hashtags: "#spenchallenge, #makeup, #fyp, #beni"
 ---

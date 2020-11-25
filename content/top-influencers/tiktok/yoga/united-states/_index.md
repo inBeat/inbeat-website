@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In United States In 2020
 description: >-
-  Find top yoga TikTok influencers in United States in 2020. Most popular hashtags: #duet #itsaremix #healthheroes #coronavirus.
+  Find top yoga TikTok influencers in United States in 2020. Most popular hashtags: #fyp #yoga #duet #foryou.
 platform: TikTok
+hits: 957
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 957 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "divinepriestess"
+  - username: "embermusic452"
     fullname: >-
-      Divine Priestess
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 13617
-    engagement: 1196
-    commentsToLikes: 0.068269
-    id: cka6qzl0mpndr0i78as1q4rkh
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#camera, #honey, #read, #yoga"
-  - username: "bailey.nomi"
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
+  - username: "katiecapecod"
     fullname: >-
-      Bailey
+      katiecapecod🧜🏻‍♀️
+    bio: >-
+      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
     location: "United States"
-    followers: 15717
-    engagement: 1077
-    commentsToLikes: 0.219339
-    id: cka0zzm6qhoe80i78xvrjbnwc
+    followers: 7738
+    engagement: 1623
+    commentsToLikes: 0.129260
+    id: ck87u29o14tty0j78453egpae
     verified: false
-    hashtags: "#lounge, #flyingsplits, #shqiptar, #easyyoga"
-  - username: "crazycurvylinzy"
+    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
+  - username: "codiemarie86"
     fullname: >-
-      Linzy Taylor
+      Coddie Adams
+    bio: >-
+      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
     location: "United States"
-    followers: 190683
-    engagement: 1837
-    commentsToLikes: 0.045637
-    id: cka0hipma9b0d0i78nnwgzpgv
+    followers: 11600
+    engagement: 1454
+    commentsToLikes: 0.095631
+    id: ckb9alh4avtva0j23iv10d3o7
     verified: false
-    hashtags: "#funk, #heels, #emojigame, #momsoftiktok"
-  - username: "shaktisitakaur"
+    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
+  - username: "ketocrossfityogi"
     fullname: >-
-      shaktisitakaur
+      ketocrossfityogi
+    bio: >-
+      keto/IF junkie 🥩 yoga soul ☮️ CF athlete 💪🏼 stroke survivor 🧠
     location: "United States"
-    followers: 5995
-    engagement: 993
-    commentsToLikes: 0.053203
+    followers: 6609
+    engagement: 652
+    commentsToLikes: 0.205333
+    id: ckbeyugz1jj5w0j239r4cy4tc
+    verified: false
+    hashtags: "#ketones, #keto, #ketosis, #yourchoice"
+  - username: "tiffanycroww"
+    fullname: >-
+      FatYogi
+    bio: >-
+      🧘‍♀️fat yoga teacher Mindful Tri 🎊 November 21,2020 Yoga🌀Meditate🌀Walk
+    location: "United States"
+    followers: 94600
+    engagement: 1364
+    commentsToLikes: 0.053843
+    id: ckbw8skihzagu0j2312kq7qml
+    verified: false
+    hashtags: "#yoga, #fatyoga, #sunday, #haes"
+  - username: "shakti_sita_"
+    fullname: >-
+      SHAKTI SITA
+    bio: >-
+      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
+    location: "United States"
+    followers: 9103
+    engagement: 1017
+    commentsToLikes: 0.052641
     id: cka0nhzdgzsr50i78joqxmg4n
     verified: false
-    hashtags: "#pranayam, #cantsleep, #salad, #astrologer"
+    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
+  - username: "geordannawellness"
+    fullname: >-
+      geordanna
+    bio: >-
+      yoga | costarican sensual mvmt | celibate self-love | trauma recovery 2 Tim 1:7
+    location: "United States"
+    followers: 28700
+    engagement: 653
+    commentsToLikes: 0.123796
+    id: cka0zzlffho7v0i7837ev1gty
+    verified: false
+    hashtags: "#movementismedicine, #myasanasarentsexualyourgazeis, #yoga, #butiyoga"
+  - username: "the_book_waivern"
+    fullname: >-
+      Bug<33
+    bio: >-
+      Mom/ ❤️ yoga / phlebotomist 🏳️‍🌈#loveislove Insta: the_book_waivern
+    location: "United States"
+    followers: 37000
+    engagement: 1504
+    commentsToLikes: 0.026574
+    id: ckbqhesfr2qgt0j234ve9p6i9
+    verified: false
+    hashtags: "#videocall, #gaygirl, #foryou, #strengthtraining"
+  - username: "42artuniverse"
+    fullname: >-
+      🌛Jessica🌚Aubrey🌜
+    bio: >-
+      Witch, Yoga Teacher, Artist I've never been just one thing Blessed Be ☆ Namaste
+    location: "United States"
+    followers: 3898
+    engagement: 1268
+    commentsToLikes: 0.042302
+    id: ckbr1p2btiokh0j233iamuu1l
+    verified: false
+    hashtags: "#faytober2020, #babywitch, #art, #witch"
   - username: "blissfulathlete"
     fullname: >-
       BlissfulAthlete
+    bio: >-
+      I’m Dridha! Original #Yoga is Here Checkout My YouTube & IG! @BlissfulAthlete 🔱
     location: "United States"
-    followers: 138327
-    engagement: 718
-    commentsToLikes: 0.056644
+    followers: 176700
+    engagement: 629
+    commentsToLikes: 0.037732
     id: ck8sax8lt4adj0j78gahpu581
     verified: false
-    hashtags: "#padmasana, #gonnabefriends, #bicepworkout, #reincarnation"
-  - username: "caterpillarschalice"
-    fullname: >-
-      candi
-    location: "United States"
-    followers: 137026
-    engagement: 349
-    commentsToLikes: 0.032559
-    id: ck8or5h79am5l0j78vcr82shf
-    verified: false
-    hashtags: "#corsetry, #familytime, #vintage, #salty"
-  - username: "keelsmontana"
-    fullname: >-
-      Kendall Meiller
-    location: "United States"
-    followers: 4716
-    engagement: 1016
-    commentsToLikes: 0.028024
-    id: cka6nb8ybapcj0i78yg3klfvl
-    verified: false
-    hashtags: "#savageremix, #beautymode, #plants, #health"
-  - username: "kundaliniyogini"
-    fullname: >-
-      Kundalini Yogini
-    location: "United States"
-    followers: 29638
-    engagement: 760
-    commentsToLikes: 0.060199
-    id: ck8sdgthbfht10j78q5jtnj7u
-    verified: false
-    hashtags: "#bekind, #higherself, #manifestation, #kundalini"
-  - username: "jacquelyn.faja"
-    fullname: >-
-      jax 
-    location: "United States"
-    followers: 8604
-    engagement: 1045
-    commentsToLikes: 0.022663
-    id: ck9v17wz6fvr00j78az904lqy
-    verified: false
-    hashtags: "#gibberish, #foryou, #foryoupage, #thesongofus"
-  - username: "robbytheyogi"
-    fullname: >-
-      Robby Burns
-    location: "United States"
-    followers: 46494
-    engagement: 815
-    commentsToLikes: 0.075550
-    id: cka0zzi46hnb40i786459tbg8
-    verified: false
-    hashtags: "#nature, #eggplant, #cambodia, #toiletpaper"
+    hashtags: "#tiktokwellness, #spirituality, #shiva, #fitness"
 ---

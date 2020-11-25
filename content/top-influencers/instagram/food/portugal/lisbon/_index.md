@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top food Instagram influencers in Lisbon in 2020. Most popular hashtags: #food #quarantine #portugal #covid.
+  Find top food Instagram influencers in Lisbon in 2020. Most popular hashtags: #portugal #food #lisbon #lisboa.
 platform: Instagram
+hits: 31
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 31 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
 profiles:
-  - username: "andrechaica"
+  - username: "vpereira_"
     fullname: >-
-      André Chaíça
+      Vanessa Pereira
+    bio: >-
+      🦀 | Marketing, Journalism & Social Media Digital & brands: lara@next.pt 25% @zomatogold: VPEREIRA 💌 vfmcpereira@gmail.com
     location: "Portugal"
-    followers: 40025
-    engagement: 427
-    commentsToLikes: 0.107973
-    id: ck0vz4vq97bht0i19ygdgfeoq
+    followers: 33144
+    engagement: 297
+    commentsToLikes: 0.019834
+    id: ck5py6fsdujl70i11e5tukfu4
     verified: false
-    hashtags: "#holanda, #liveinlevis, #smoothiebowl, #amsterdam"
-  - username: "heyandiehey"
+    hashtags: "#travel, #foodporn, #outfit, #trip"
+  - username: "gui.mps"
     fullname: >-
-      Andreia Lopes Costa
+      ɢᴜɪ
+    bio: >-
+      Lisbon, Portugal 🇵🇹 📩 geral.guilhermemachado@gmail.com
     location: "Portugal"
-    followers: 29281
-    engagement: 638
-    commentsToLikes: 0.051478
-    id: ck134whrxyj250i190hpg9hst
+    followers: 72956
+    engagement: 537
+    commentsToLikes: 0.003508
+    id: ck15tf0omhrbn0i19m1wy6oo7
     verified: false
-    hashtags: "#heyandieheyporto, #stayathome, #25deabril, #covid"
-  - username: "jmigsimoes"
-    fullname: >-
-      João Miguel Simões
-    location: "Portugal"
-    followers: 90433
-    engagement: 202
-    commentsToLikes: 0.102114
-    id: ck5zzn4bvc1rj0i1453awqb62
-    verified: false
-    hashtags: "#addressbookbyjms, #badhairday, #quarantine, #earthdayeveryday"
+    hashtags: "#azores, #portugal, #night, #chefgui"
   - username: "try_lisbon_with_alex"
     fullname: >-
       🎯 Tourism Expert
+    bio: >-
+      🇵🇹 Creating online tours 🇵🇹 Sharing local tips 🇵🇹 ⬇️ FIRST AIRBNB ONLINE LISBON TOUR
     location: "Portugal"
     followers: 29764
     engagement: 238
     commentsToLikes: 0.029946
     id: ck5ceihihl2oh0i11il95m6ws
     verified: false
-    hashtags: "#toplisbon, #repost, #lisbonworld, #lisboncity"
-  - username: "martinhagomez"
+    hashtags: "#travelgram, #portugal, #igerlisboa, #topeuropephoto"
+  - username: "diogoadduarte"
     fullname: >-
-      Martinha Gomez
+      Diogo Duarte
+    bio: >-
+      • Plants | Food | Photo | Video • Lisbon, Portugal • Digital & Brands | ana.david@blogagency.pt @blogagency 10% Desconto @jardinsserramar YouTube ↓
     location: "Portugal"
-    followers: 26439
-    engagement: 498
-    commentsToLikes: 0.191096
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 13175
+    engagement: 688
+    commentsToLikes: 0.112161
+    id: ckapaw09qxo9g0i78w8i1kmfq
     verified: false
-    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
-  - username: "catarina_bpinto"
+    hashtags: ""
+  - username: "jmigsimoes"
     fullname: >-
-      Catarina Pinto
+      João Miguel Simões
+    bio: >-
+      Creative Consultant & Content Creator (social media) | Based in Lisbon | Founder #addressbookbyjms | travel • food • design • menswear • arch
     location: "Portugal"
-    followers: 39391
-    engagement: 389
-    commentsToLikes: 0.370276
-    id: ck0u6xt2e37c80i19qb4765v1
+    followers: 93217
+    engagement: 243
+    commentsToLikes: 0.086316
+    id: ck5zzn4bvc1rj0i1453awqb62
     verified: false
-    hashtags: "#sparkle, #sushilovers, #passatempo, #color"
-  - username: "tarlajb"
+    hashtags: "#ad, #huawei, #appgallery, #huaweixtomtom"
+  - username: "heyandiehey"
     fullname: >-
-      Tarla Barbosa
+      Andreia
+    bio: >-
+      Travel, Food and Lifestyle Based in Lisbon, Portugal _
     location: "Portugal"
-    followers: 28237
-    engagement: 129
-    commentsToLikes: 0.029793
-    id: ck55j31a2w5710i11jw6lnuzb
+    followers: 28493
+    engagement: 670
+    commentsToLikes: 0.052547
+    id: ck134whrxyj250i190hpg9hst
     verified: false
-    hashtags: "#nature, #hithelookface, #satindress, #roupasfemininas"
-  - username: "mycasualbrunch"
+    hashtags: "#heyandieheyvalencia, #heyandieheycopenhagen, #earthday, #25deabril"
+  - username: "ricardofmlopes"
     fullname: >-
-      Luísa Fortes da Cunha
+      Ricardo Lopes
+    bio: >-
+      25 || lisboa, pt | from abrantes Digital Content | Lifestyle | Travel 📩 ricardofmlopes@gmail.com
     location: "Portugal"
-    followers: 49415
-    engagement: 248
-    commentsToLikes: 0.128356
-    id: ck0w426g6wfnx0i19eh5f65ko
+    followers: 11459
+    engagement: 1338
+    commentsToLikes: 0.018414
+    id: ck8t9l12mohhi0j78sqhari9c
     verified: false
-    hashtags: "#criancassaudaveisfamiliasfelizes"
-  - username: "dragtaste"
+    hashtags: "#travelgram, #lisboaportugal, #portraitphotography, #portugal"
+  - username: "catarina.fernandees"
     fullname: >-
-      Drag Taste : Now ONLINE!
+      Catarina Fernandes
+    bio: >-
+      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
     location: "Portugal"
-    followers: 12146
-    engagement: 467
-    commentsToLikes: 0.050920
-    id: ck5q5lbz7tf0p0i11etstg7vr
+    followers: 89978
+    engagement: 616
+    commentsToLikes: 0.132250
+    id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#qanda, #showcooking, #womendays, #sundayvibes"
-  - username: "maariyahscuisine"
+    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
+  - username: "misscasimiro"
     fullname: >-
-      Maariyah Noor
+      Mädchen
+    bio: >-
+      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
     location: "Portugal"
-    followers: 11143
-    engagement: 597
-    commentsToLikes: 0.158368
-    id: ck9wgf2yet4ua0j78oqkriqu1
+    followers: 9604
+    engagement: 1786
+    commentsToLikes: 0.066591
+    id: ck9hb1xoaf15l0j789k7x4783
     verified: false
-    hashtags: "#pizzarecipe, #milkpudding, #barfidessert, #iftarfood"
+    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
+  - username: "inesdsimao"
+    fullname: >-
+      Hey, it’s Inês
+    bio: >-
+      Travel & Food Enthusiast 🗺 (off to see the world) All Disney parks in the 🌏: check!! 📍Lisbon (home)
+    location: "Portugal"
+    followers: 12135
+    engagement: 859
+    commentsToLikes: 0.309347
+    id: ck14iqxnmgs420i19np23l7do
+    verified: false
+    hashtags: "#pub, #bekind, #soubekind, #21dayskind"
 ---

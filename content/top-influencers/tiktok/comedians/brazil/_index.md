@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Brazil In 2020
 description: >-
-  Find top comedians TikTok influencers in Brazil in 2020. Most popular hashtags: #quarentena #tentenaorir #casal #eunanovela.
+  Find top comedians TikTok influencers in Brazil in 2020. Most popular hashtags: #comedia #humor #fy #fusioninfluencers.
 platform: TikTok
+hits: 1415
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 1415 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "arypalmas"
+  - username: "gil_reis"
     fullname: >-
-      Áry Palma
+      Gil Reis
+    bio: >-
+      COMEDIANTE AMADOR VEJA OS VÍDEOS.
     location: "Brazil"
-    followers: 4647
-    engagement: 1383
-    commentsToLikes: 0.330115
-    id: ckan3lmo25vsg0i78qa6clxi0
+    followers: 14500
+    engagement: 3460
+    commentsToLikes: 0.495931
+    id: ckck3k7imnjrl0j23v78gwctt
     verified: false
-    hashtags: "#engra, #vegan, #vidanomato, #hair"
+    hashtags: "#geracaotiktok, #orgulhodeser, #fy, #gil"
   - username: "clepton"
     fullname: >-
       Erick Clepton
+    bio: >-
+      SEGUE AÍ! Comediante quase aleatório Insta: @oerickclepton ESCUTE MEU PODCAST:
     location: "Brazil"
-    followers: 860655
-    engagement: 2391
-    commentsToLikes: 0.005825
+    followers: 2000000
+    engagement: 2136
+    commentsToLikes: 0.021330
     id: ck80oa3iag8ug0j78ydop2rku
     verified: true
-    hashtags: "#brinquedos, #escola, #animais, #pets"
-  - username: "tirullipa"
+    hashtags: "#paid, #cleptonentrevista, #com, #bts"
+  - username: "tadeutannouri"
     fullname: >-
-      Tirullipa
+      Tadeu Tannouri
+    bio: >-
+      Ator / Comediante Live segunda e quarta 20h RJ ❤️
     location: "Brazil"
-    followers: 6650867
-    engagement: 989
-    commentsToLikes: 0.010568
-    id: ck8s5yuppi5o60j788u96m6ul
+    followers: 549600
+    engagement: 2652
+    commentsToLikes: 0.013790
+    id: ckdsuoxo9pvel0j236hrzaqfx
+    verified: false
+    hashtags: "#humorbrasil, #comediahumor, #humorbr, #humor2020"
+  - username: "well.silvaa"
+    fullname: >-
+      Well.Divardini
+    bio: >-
+      Comediante curioso😂🔍/ TOP1️⃣0️⃣ Segue no insta CWB @well.divardini (2ª conta)
+    location: "Brazil"
+    followers: 622000
+    engagement: 2119
+    commentsToLikes: 0.012975
+    id: ck9eod5a4nqpo0j78jktn8bfe
+    verified: false
+    hashtags: "#top10, #top5, #fyp, #wellsilvaa"
+  - username: "frances_com_paul"
+    fullname: >-
+      Paul Cabannes
+    bio: >-
+      Suportável para um francês Comediante e professor de 🇫🇷 Siga no inst4 ⭐
+    location: "Brazil"
+    followers: 571700
+    engagement: 1745
+    commentsToLikes: 0.014311
+    id: cka0o4yfq23270i788k38fm7s
+    verified: false
+    hashtags: "#comediabr2020, #duo, #standupbrasil, #comediabrasil"
+  - username: "guilhermerocker"
+    fullname: >-
+      Guilherme Rocker
+    bio: >-
+      Comediante 29 anos Instagram: @rockerpirate
+    location: "Brazil"
+    followers: 2600000
+    engagement: 1462
+    commentsToLikes: 0.013247
+    id: ckbr4exzvkjrs0j23zzd1unyd
     verified: true
-    hashtags: "#sovacoxinha, #tirutiktok, #seule, #osroni"
-  - username: "tiriricanaweb"
+    hashtags: "#billeted, #dueto, #fy, #usemaudio"
+  - username: "julianocoracao"
     fullname: >-
-      Tiririca 
+      Juliano Coração
+    bio: >-
+      COMEDIANTE Em todas as redes como: @julianocoracao Contato👇
     location: "Brazil"
-    followers: 120573
-    engagement: 576
-    commentsToLikes: 0.014530
-    id: ckaiksg6bkvge0i78ycp817vz
+    followers: 3500000
+    engagement: 2313
+    commentsToLikes: 0.005719
+    id: ck9kdukm6vwd70j78dez9aqef
     verified: true
-    hashtags: "#todosjuntos, #quadrocongelado, #recalque, #tamborzim"
-  - username: "evandroarodrigues"
+    hashtags: "#fusioninfluencers, #paid, #resso, #julianocoracao"
+  - username: "arypalmas"
     fullname: >-
-      evandroarodrigues
+      Áry Palma
+    bio: >-
+      Serviços gerais das artes Cênicas. Atriz Comediante Faz terapia por app gratuito
     location: "Brazil"
-    followers: 30137
-    engagement: 1064
-    commentsToLikes: 0.008183
-    id: cka0nhta0zr1f0i7869uzhgyv
+    followers: 5084
+    engagement: 1315
+    commentsToLikes: 0.281525
+    id: ckan3lmo25vsg0i78qa6clxi0
     verified: false
-    hashtags: "#esporte, #dueto, #reggae, #adotei"
-  - username: "guto.andrade"
+    hashtags: "#standupemcasa, #mulher, #standupcomedy, #quarentena"
+  - username: "odiegointrieri"
     fullname: >-
-      OGutoAndrade
+      Diego Intrieri
+    bio: >-
+      Ator e comediante. Esquetes no Insta: diegointrieri
     location: "Brazil"
-    followers: 226548
-    engagement: 1616
-    commentsToLikes: 0.007924
-    id: cka0muj8kwxx10i782q3gwbl7
+    followers: 13000
+    engagement: 887
+    commentsToLikes: 0.063588
+    id: ckdtk37zhxnyv0j23wvf7pcqi
     verified: false
-    hashtags: "#parodia, #vergonha, #selfiecomemoji, #dragonball"
-  - username: "ovilelarodrigo"
+    hashtags: "#com, #humor, #vov, #fyou"
+  - username: "evamansk"
     fullname: >-
-      Rodrigo Vilela Kbça
+      Eva Mansk
+    bio: >-
+      Sou comediante de Stand Up e mulher sem paciência pra machismo e imaturidade.
     location: "Brazil"
-    followers: 5371
-    engagement: 461
-    commentsToLikes: 0.019678
-    id: cka0w9jou1xzy0i78fjx3nc6a
+    followers: 16500
+    engagement: 1135
+    commentsToLikes: 0.026461
+    id: ckbqdvkc7zry30j23fks2np6b
     verified: false
-    hashtags: "#mistercatra, #fariapericles, #musica, #freezeframe"
-  - username: "edgama"
-    fullname: >-
-      Ed Gama
-    location: "Brazil"
-    followers: 325036
-    engagement: 1469
-    commentsToLikes: 0.006324
-    id: ck94o5uda9r1c0j7835xm6nb9
-    verified: true
-    hashtags: "#mygaminglife, #dueto, #lego, #legostarwars"
-  - username: "polegarhumor"
-    fullname: >-
-      Polegar humor🔵
-    location: "Brazil"
-    followers: 32439
-    engagement: 678
-    commentsToLikes: 0.023550
-    id: ck9ewz6yrp0q80j786ap7kose
-    verified: false
-    hashtags: "#live, #albumlookalike, #quarentena"
-  - username: "pardalgustavo"
-    fullname: >-
-      Gustavo Pardal
-    location: "Brazil"
-    followers: 148367
-    engagement: 1230
-    commentsToLikes: 0.009251
-    id: ckai381qoivbr0i78pq5mi6cd
-    verified: false
-    hashtags: "#selfiecomemoji, #desafios, #mamae, #marido"
+    hashtags: "#dicas, #comedia, #dicasdebeleza, #brocha"
 ---

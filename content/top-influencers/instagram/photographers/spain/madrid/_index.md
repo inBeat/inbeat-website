@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Madrid In 2020
 description: >-
-  Find top photographers Instagram influencers in Madrid in 2020. Most popular hashtags: #photography #covid19 #portraitphotography #home.
+  Find top photographers Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #portrait #model #photographer.
 platform: Instagram
+hits: 164
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 164 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
-  - username: "ivanbermejo"
-    fullname: >-
-      Iván Bermejo
-    location: "Spain"
-    followers: 3021
-    engagement: 1845
-    commentsToLikes: 0.060695
-    id: ckap0cyckpswj0i78df1brqtq
-    verified: false
-    hashtags: "#blackwhite, #travelphotography, #lights, #vitaminad"
   - username: "patriciasemirphotography"
     fullname: >-
       𝒫𝒶𝓉𝓇𝒾𝒸𝒾𝒶 𝒹𝑒  𝒮𝑒𝓂𝒾𝓇
+    bio: >-
+      👉🏻 Photographer Madrid y Barcelona. ᴱᴺᴬᴹᴼᴿᴬᴰᴬ ᴰᴱ ᴹᴵ ᵀᴿᴬᴮᴬᴶᴼ www.patriciasemirfiltros.com 630964800
     location: "Spain"
-    followers: 18044
-    engagement: 203
-    commentsToLikes: 0.044178
+    followers: 22472
+    engagement: 172
+    commentsToLikes: 0.050028
     id: ckaoqthw8kba70i78i2hr7yc0
     verified: false
-    hashtags: "#mask, #fotosnin, #familyportraits, #tutorialesfotografiaespa"
-  - username: "sanndrii"
-    fullname: >-
-      Sandra Casado
-    location: "Spain"
-    followers: 6353
-    engagement: 254
-    commentsToLikes: 0.042562
-    id: ck0ua00j6b3ev0i19e1rcl3c4
-    verified: false
-    hashtags: "#tb, #realnick, #vivedial, #lamexicana"
+    hashtags: "#menorca, #modaespa, #workinprogress, #shootingfamiliar"
   - username: "dannielrojas"
     fullname: >-
       DANNIEL ROJAS
+    bio: >-
+      Photographer 📍#Madrid • For bookings ✈ hi@dannielrojas.com or 📩
     location: "Spain"
-    followers: 13789
-    engagement: 633
-    commentsToLikes: 0.080113
+    followers: 15858
+    engagement: 756
+    commentsToLikes: 0.065462
     id: ckaor7lmsm27r0i78bik7nouz
     verified: false
-    hashtags: "#glitter, #seventeen, #carlaelite, #valentinesday"
-  - username: "marcobarsanti1"
-    fullname: >-
-      Marco Barsanti Rodriguez
-    location: "Spain"
-    followers: 39185
-    engagement: 1251
-    commentsToLikes: 0.015181
-    id: ck15puy4kzr6f0i19oys1rqyb
-    verified: false
-    hashtags: ""
+    hashtags: "#beauty, #yslbeauty, #hair, #ghdspain"
   - username: "sergio.loshak.photography"
     fullname: >-
       Sergio Loshak
+    bio: >-
+      Fashion & Boudoir Photographer 📍Madrid Bodas @sergioloshak.bodas
     location: "Spain"
-    followers: 23171
-    engagement: 279
-    commentsToLikes: 0.052947
+    followers: 23088
+    engagement: 248
+    commentsToLikes: 0.044053
     id: ck6u51i6271ai0j714r0704cu
     verified: false
-    hashtags: "#icon, #elegance, #fashion, #lencer"
+    hashtags: "#shooting, #bnw, #fotografomadrid, #sensual"
   - username: "cesarvaldesphoto"
     fullname: >-
       César Valdés
+    bio: >-
+      📷 Photographer. 📍 Madrid / Burgos ✉ DM for books & jobs
     location: "Spain"
-    followers: 18644
-    engagement: 366
-    commentsToLikes: 0.031932
+    followers: 17984
+    engagement: 378
+    commentsToLikes: 0.033255
     id: ck0u26o98yxtr0i19fpil0pmg
     verified: false
-    hashtags: "#purple, #fujifilmglobal, #fujifilm, #fotofamiliar"
+    hashtags: "#fineartphotography, #likeapainting, #theportraitpr0ject, #fashionportrait"
   - username: "tomascmt"
     fullname: >-
       Tomas Mancheño
+    bio: >-
+      Si sonríes siempre saldrá mejor. Photographer in Madrid - Toledo 📮 tomascmt@gmail.com Para 📷 MD
     location: "Spain"
-    followers: 6736
-    engagement: 486
-    commentsToLikes: 0.058682
+    followers: 7216
+    engagement: 403
+    commentsToLikes: 0.051011
     id: ck6uhkf5t9mt20j71n6lfkdyk
     verified: false
-    hashtags: "#portrait, #photography, #dancer, #blackandwhite"
+    hashtags: "#model, #nikon, #photography, #woman"
   - username: "anabuho"
     fullname: >-
-      Ana Alborés
+      Ana Alborés
+    bio: >-
+      Photographer 📍 Madrid ✉️ anabuhoes@gmail.com
     location: "Spain"
-    followers: 35809
-    engagement: 141
-    commentsToLikes: 0.014455
+    followers: 34261
+    engagement: 143
+    commentsToLikes: 0.017046
     id: ck8sx29x9fyyu0j78uwwowxeq
     verified: false
-    hashtags: "#35mm"
-  - username: "pierfrancesco.artini"
+    hashtags: "#35mm, #zenzabronica, #portra400"
+  - username: "ramses.photography"
     fullname: >-
-      Pierfrancesco Artini
+      TRAVEL PHOTOGRAPHY 🌎🌍
+    bio: >-
+      Ramses E. Pereyra 📸 •Trilingual •Private Pilot •Traveler 🗺 18 countries 📍Madrid 👤 @ramses88pereyra 📷 @festivalseasones
     location: "Spain"
-    followers: 78599
-    engagement: 151
-    commentsToLikes: 0.043767
-    id: ck5q2obkqgzo20i11ud8qzusd
+    followers: 7521
+    engagement: 956
+    commentsToLikes: 0.034830
+    id: ckaorsjo6ok620i78s2f9zep5
     verified: false
-    hashtags: "#home, #shortfilm, #portraiture, #sonyalpha"
+    hashtags: "#blackandwhite, #bnwphotography, #travelphotography, #photographerlife"
+  - username: "morantpi"
+    fullname: >-
+      Pilar Moraleja
+    bio: >-
+      Adoro viajar por el🌍 aquí dejo alguna foto me gustan🐈 🍽🍺🍷🥢 🅰️ @look_valladolid 🅰️ @asi_es_castillayleon 🅰️ @asi_es_blueworld 🅰️ @asi_es_medievalworld
+    location: "Spain"
+    followers: 2974
+    engagement: 1321
+    commentsToLikes: 0.055721
+    id: ck5c8v67taa1k0i11il8w4ma1
+    verified: false
+    hashtags: "#detras, #summer, #beach, #asi"
+  - username: "neosphotography_"
+    fullname: >-
+      NEOS photography
+    bio: >-
+      📸 Professional Photographer 📍Andorra🇦🇩Madrid🇪🇸 🎮 Directos gaming 19:00 en Twich
+    location: "Spain"
+    followers: 25864
+    engagement: 914
+    commentsToLikes: 0.029140
+    id: ck5c9l6x6bmtw0i11of2g2ast
+    verified: false
+    hashtags: "#weiderlovers"
+  - username: "kryspasiecznik"
+    fullname: >-
+      Krys Pasiecznik
+    bio: >-
+      📷 @krys_pasiecznik_photo 📍MADRID Model & Photographer (∂ + m) ψ = 0
+    location: "Spain"
+    followers: 124224
+    engagement: 233
+    commentsToLikes: 0.071646
+    id: ck55neqlc62590i11ognehm5c
+    verified: false
+    hashtags: "#tattoo, #tattoos, #moda, #sonya7ii"
 ---

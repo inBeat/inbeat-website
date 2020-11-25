@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Rome In 2020
 description: >-
-  Find top vegan Instagram influencers in Rome in 2020. Most popular hashtags: #vegan #rome #flowers #beauty.
+  Find top vegan Instagram influencers in Rome in 2020. Most popular hashtags: #vegan #rome #italy #roma.
 platform: Instagram
+hits: 15
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 15 Instagram influencers like this in Rome, Italy for you to collaborate.
 profiles:
-  - username: "simo_veggie_fit"
+  - username: "florindalopes"
     fullname: >-
-      𝓢𝓲𝓶𝓸𝓷𝓮 𝓣𝓪𝓿𝓪𝓻𝓪𝓷𝓲
+      FLO | SELF PORTRAITS 📸
+    bio: >-
+      • Travel & Creative Portraits 🌎📸 • Editing Tips (check my reels 🙈) • Vegan 💚 & Healthy lifestyle 💪🧘‍♀️ ↓ Stories behind my Pics ￼↓ From 🇵🇹
     location: "Italy"
-    followers: 7648
-    engagement: 403
-    commentsToLikes: 0.029141
-    id: ck13a0nhuo1940i190960azr4
+    followers: 6876
+    engagement: 1011
+    commentsToLikes: 0.176148
+    id: ck0u8yved8msd0i19xe8fbdjx
     verified: false
-    hashtags: "#happyplace, #streetphotography, #hollywood, #sorgho"
-  - username: "ale.sbaraglia"
+    hashtags: "#31daysofhalloweenmakeup, #spookyseason, #autumnvibes, #halloween"
+  - username: "alemarullo"
     fullname: >-
-      ALESSIA SBARAGLIA
+      ALESSIA MARULLO
+    bio: >-
+      Italy | Rome 🍝 Fashion designer inquiries: alessiamarullo12@gmail.com
     location: "Italy"
-    followers: 13793
-    engagement: 660
-    commentsToLikes: 0.230602
-    id: ck5bzt1llrs7u0i1136mcqjwu
+    followers: 20323
+    engagement: 512
+    commentsToLikes: 0.136964
+    id: ck5c2v4z9y1vb0i11snnl26pa
     verified: false
-    hashtags: "#lookdioggi, #pinupgirl, #navy, #challenge"
+    hashtags: "#a40b4, #neutralstyles, #lookstylesociety, #onparledemode"
   - username: "cosmepolitan.it"
     fullname: >-
       Elvira Colavita
+    bio: >-
+      ELVIRALE⭐️ Femininity Coach Sirena spiaggiata🧜🏼‍♀️ @castello_tor_crescenza shooting planner @ih_hotels ambassador Made in Rome ☀️ Molto sposata💍
     location: "Italy"
-    followers: 122735
-    engagement: 114
-    commentsToLikes: 0.046109
+    followers: 132661
+    engagement: 92
+    commentsToLikes: 0.024537
     id: ckap4sr1s8pai0i78wilr5f34
     verified: false
-    hashtags: "#healthylifestyle, #fitballsuitacchi, #whiteroses, #naturalbeauty"
-  - username: "violaguidotti"
+    hashtags: "#clarins, #beauty, #mua, #believer"
+  - username: "misteruniquelife"
     fullname: >-
-      Vιoℓα Gυιdσττι
+      Fabrizio Politi | creativo
+    bio: >-
+      Sono reale, anche senza spunta blu. Nato e cresciuto a #Rome Co-Fonder: Nafi.uk fabrizio@uniquelife.it
     location: "Italy"
-    followers: 50524
-    engagement: 345
-    commentsToLikes: 0.047997
-    id: ck5zqtcgnv95w0i14m257509l
+    followers: 115465
+    engagement: 367
+    commentsToLikes: 0.012906
+    id: ck0u7uhpc5o200i19bwovhlny
     verified: false
-    hashtags: "#streetlook, #crueltyfree, #stripes, #sleep"
-  - username: "elenotta_12"
-    fullname: >-
-      Elena Senerchia 🎀 👠👜👗🎀
-    location: "Italy"
-    followers: 6033
-    engagement: 400
-    commentsToLikes: 0.037271
-    id: ck8t82z25ix1s0j78atz6l9v7
-    verified: false
-    hashtags: "#winter, #uovadipasqua, #photoshoot, #girls"
+    hashtags: "#sundayfunday, #dronephotography, #italy, #mondaymorning"
   - username: "enea_ph_lovers"
     fullname: >-
       🌹HiKiNg💙visit my gallery🌹
+    bio: >-
+      🏔️💙😍 👣 SHARE YOUR PASSION!🤙⛰️ @enea_ph_lovers 🌏 Rome, Italy 🇮🇹 FRIEND SHARE! 🤗🙏 🔝GUARDA LA MIA GALLERIA📸
     location: "Italy"
     followers: 9678
     engagement: 893
     commentsToLikes: 0.015422
     id: ck5c48o2x0txs0i1103qe99zc
     verified: false
-    hashtags: "#lake, #trekkingday, #lazio, #ferrino"
-  - username: "verdebio"
+    hashtags: "#landscapephotography, #salewa, #depthsofearth, #italia"
+  - username: "cami_delai"
     fullname: >-
-      Gioia Lauri • Italian Beauty
+      Camilla Delai 🌹
+    bio: >-
+      Made in Trento -living in Rome 🇮🇹 Current job : MYWAY autostrade per l’Italia
     location: "Italy"
-    followers: 20241
-    engagement: 221
-    commentsToLikes: 0.079813
-    id: ck13a7todp1xc0i198fskf9dv
+    followers: 26688
+    engagement: 191
+    commentsToLikes: 0.029836
+    id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#etereacosmesi, #lipliner, #zoevabrush, #skincarejunkie"
-  - username: "comequandoleggo"
+    hashtags: "#couture, #flower, #couturedress, #fashiondesigner"
+  - username: "loredana.cannata"
     fullname: >-
-      Books & Lifestyle 🎞 Ilaria
+      Loredana Cannata
+    bio: >-
+      Actress TNA Artist Management
     location: "Italy"
-    followers: 3727
-    engagement: 1580
-    commentsToLikes: 0.058003
-    id: ck6u9bst4wmva0j716a5l97gg
+    followers: 6716
+    engagement: 926
+    commentsToLikes: 0.096408
+    id: ck9hawgz2efp20j78r0ypw7o5
     verified: false
-    hashtags: "#greentealover, #interior, #quarantineparty, #librarydesign"
-  - username: "andreabzzz"
+    hashtags: "#sicilia, #vibe, #vegan, #attrice"
+  - username: "food_advisor360"
     fullname: >-
-      Andrea Moscon
+      Food Advisor🍔🍟🍕🍰🥩
+    bio: >-
+      •c’è rimast’ o magnà 🍔🥩🍕🍰 - aspirante food blogger💼 • Amanti della buona cucina❗ ⭕️Per collaborazioni contattami in DM Segui #foodadvisor360
     location: "Italy"
-    followers: 392763
-    engagement: 609
-    commentsToLikes: 0.049823
-    id: ck14jk34nkrcm0i19u4kn8iay
-    verified: true
-    hashtags: "#pretty, #giveawayitalia, #totalwhite, #beautifulhotela"
-  - username: "ninojkt"
+    followers: 9545
+    engagement: 425
+    commentsToLikes: 0.125711
+    id: ckf5w7p75r5wh0j236cc73hqi
+    verified: false
+    hashtags: "#dinnertime, #panino, #sea, #foodadvisor360"
+  - username: "isemidelladietista"
     fullname: >-
-      Nino Fernandez
+      Elena • Dietista & Blogger
+    bio: >-
+      🌱 plant based 🌱 creo contenuti tra #mindfuleating, ricette, gentilezza ed emozioni 🌱 consulenze online “Mamma di” #unpopiugreeninsieme
     location: "Italy"
-    followers: 116628
-    engagement: 295
-    commentsToLikes: 0.033403
-    id: ck6u1t90pnqt50j71ag9buxup
-    verified: true
-    hashtags: "#dirumahaja, #jakarta, #uniqlolifewear, #uniqloindonesia"
+    followers: 21941
+    engagement: 324
+    commentsToLikes: 0.055924
+    id: ck9wolt4x5ogc0j78vl1bmo5c
+    verified: false
+    hashtags: "#alimentazioneconsapevole, #reel, #lunch, #monday"
+  - username: "morganickitchen"
+    fullname: >-
+      Morgan Witkin
+    bio: >-
+      🇺🇸📍🇮🇹 Moment Collector✨Smoothie Maker ✨Blogger✨Health Coach Recipe Developer✨#plantbased Mother✨ Digital Content Creator Collabs✉️morgankw@gmail.com
+    location: "Italy"
+    followers: 42361
+    engagement: 143
+    commentsToLikes: 0.085003
+    id: ck5hiardncj830i11vkri3wbe
+    verified: false
+    hashtags: "#iorestoacasa, #refinedsugarfree, #plantbased, #smoothiebowl"
 ---

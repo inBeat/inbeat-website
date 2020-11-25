@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Poland In 2020
 description: >-
-  Find top gaming TikTok influencers in Poland in 2020. Most popular hashtags: #gaming #game #music #covid19.
+  Find top gaming TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #foryou #dc #trend.
 platform: TikTok
+hits: 21
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 21 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "czajska"
     fullname: >-
-      Czajskagames
+      Oleś
+    bio: >-
+      Gaming|Comedy|Cosplay|Dance Follow me to join awesome people🎈 They/Them 🌌
     location: "Poland"
-    followers: 26565
-    engagement: 2118
-    commentsToLikes: 0.023550
+    followers: 43200
+    engagement: 2386
+    commentsToLikes: 0.027461
     id: ck9a6xpkq594e0j78q91e135x
     verified: false
-    hashtags: "#duet, #casualdeku, #dbhcosplay, #nimfa"
-  - username: "xkitoku"
+    hashtags: "#dbhcosplay, #connorcosplay, #connordbh, #detroitbecomehuman"
+  - username: "klaudia_michal"
     fullname: >-
-      xKitoku
+      Klaudia 
+    bio: >-
+      🔝#FreestyleSlalom Skaters✨ 🏆1st in World Ranking in Pair Slalom 🌎 🏅26x Polish Champion 🇵🇱 🎓Our School 👉🏻 IG: @slalomacademy 📸 Find us on Instagram @klaudia_michal 📥#Workshops/#Shows/#Cooperation
     location: "Poland"
-    followers: 6478
-    engagement: 1790
-    commentsToLikes: 0.032351
+    followers: 165800
+    engagement: 807
+    commentsToLikes: 0.015632
+    id: ckc32b5ktsjon0j23g692x4fa
+    verified: false
+    hashtags: "#summeroutfit, #letslove, #najlepszemomenty, #poczujtenflow"
+  - username: "cookieslove1210"
+    fullname: >-
+      🖤Martynkaa🖤
+    bio: >-
+      ♥️Martyna Maj♥️ 7500🌈 7600💔 Ig: love_cookies1012
+    location: "Poland"
+    followers: 7548
+    engagement: 1488
+    commentsToLikes: 0.093153
+    id: ckbq562qkrhbg0j23zgfhd9z3
+    verified: false
+    hashtags: "#mylevismyvibe, #foryoupage, #moveformentalhealth, #fyp"
+  - username: "kubye"
+    fullname: >-
+      Kuba
+    bio: >-
+      Positive vibes 📌 Thank you for 5k ❤️ ✊🏼✊🏽✊🏾✊🏿
+    location: "Poland"
+    followers: 5919
+    engagement: 2422
+    commentsToLikes: 0.054054
+    id: ckb9rxmnwoqte0j23cz4bnz2r
+    verified: false
+    hashtags: "#dc, #benjikrol, #duet, #dzie"
+  - username: "eskaaer"
+    fullname: >-
+      Eskaer
+    bio: >-
+      IG : Esskaer ⬆️ Maksymilian | 19 lat Cel - 50.000 obserwujących
+    location: "Poland"
+    followers: 48300
+    engagement: 1297
+    commentsToLikes: 0.050722
+    id: ckb97m07tqlm90j234kih68vf
+    verified: false
+    hashtags: "#viral, #comedy, #dlaciebie, #kluskislaskiekompotmodrakapusta"
+  - username: "dxn1337"
+    fullname: >-
+      Deiksen1337
+    bio: >-
+      🔥😍🔥 📸 Instagram: dxn19enduro 🎥 YouTube: dxn-19 📧 Diaxonkontakt@gmail.com
+    location: "Poland"
+    followers: 59000
+    engagement: 1166
+    commentsToLikes: 0.033953
+    id: ckc2ztj24qnc30j23i62upw0n
+    verified: false
+    hashtags: "#sport, #mi, #enduro, #foryou"
+  - username: "xxkitek"
+    fullname: >-
+      xKitek
+    bio: >-
+      Siemka 😊 Zapraszam na mój yt https://youtu.be/mWEwS5iFW1o
+    location: "Poland"
+    followers: 11100
+    engagement: 1596
+    commentsToLikes: 0.020678
     id: ck9c73sb5rjk30j7886z8eu73
     verified: false
-    hashtags: "#sushi, #smieszne, #home, #kawaii"
-  - username: "m.i.s.k.e.y.o.w.s.k.y"
+    hashtags: "#diy, #fyp, #game, #duet"
+  - username: "mekyo382"
     fullname: >-
-      Miskey
+      mekyo382
+    bio: >-
+      *･ﾟCosplayer & mua･ﾟ* 🦄🌈🧙🏻‍♀️🎮🐰✈️🇵🇱💄 💛IG: MEKYO382 💛YT: MEKYO 🎃🦇🐸
     location: "Poland"
-    followers: 2768
-    engagement: 1228
-    commentsToLikes: 0.163918
-    id: ck9nb2r7rap6r0j78ytkvco9m
+    followers: 35400
+    engagement: 2055
+    commentsToLikes: 0.017176
+    id: ck9a6xl7c583e0j781yoqoe43
     verified: false
-    hashtags: "#pros, #gtasanandreas, #shot, #gothic"
+    hashtags: "#kr, #altgirl, #tatuaze, #dzie"
   - username: "gorgoofficial"
     fullname: >-
       Mariusz Marcin Gorgo
+    bio: >-
+      Wpadaj na mój youtube! Wpisz gorgo i znajdziesz mój Kanał oraz followka zostaw!
     location: "Poland"
-    followers: 3744
-    engagement: 1261
-    commentsToLikes: 0.035668
+    followers: 14300
+    engagement: 927
+    commentsToLikes: 0.040668
     id: ck9k6wz4l2lb80j78zr6rlk5b
     verified: false
-    hashtags: "#360flip, #skatepark, #fingerboard, #nocomply"
-  - username: "neko_decim"
+    hashtags: "#gorgo, #skate, #odcinek, #deskorolka"
+  - username: "klaudia.olesik"
     fullname: >-
-      NekoDecim
+      klaudiaolesik
+    bio: >-
+      🇵🇱 Hi everyone! ➡️ Instagram: klaudiaolesik
     location: "Poland"
-    followers: 10495
-    engagement: 365
-    commentsToLikes: 0.087214
-    id: ck83zqclm22p80j78c5c1xqlb
+    followers: 31100
+    engagement: 728
+    commentsToLikes: 0.065431
+    id: ck8sf14xhm9gf0j78q8uwggfq
     verified: false
-    hashtags: "#event, #quit, #nature, #yummi"
-  - username: "sagannnn"
-    fullname: >-
-      SaganVines
-    location: "Poland"
-    followers: 10898
-    engagement: 784
-    commentsToLikes: 0.050959
-    id: ck9jv88r6r5h60j78et6l27g0
-    verified: false
-    hashtags: "#tiktoker, #cops, #myneighbor, #boss"
-  - username: "fiona.shreka.zona"
-    fullname: >-
-      fiona.sienkiewicz
-    location: "Poland"
-    followers: 13780
-    engagement: 1502
-    commentsToLikes: 0.018092
-    id: cka84ivcnu04p0i78on1vakyr
-    verified: false
-    hashtags: "#zelki, #youngmulti, #glowup, #muuuu"
-  - username: "xkompl"
-    fullname: >-
-      x-kom
-    location: "Poland"
-    followers: 85847
-    engagement: 1369
-    commentsToLikes: 0.027897
-    id: ck9c65bizqx0i0j78dtukquo2
-    verified: true
-    hashtags: "#fbiopenup, #dzie, #protip, #klawiatura"
-  - username: "marzenaimarek.yt"
-    fullname: >-
-      MARZENAiMAREK
-    location: "Poland"
-    followers: 156725
-    engagement: 1250
-    commentsToLikes: 0.012671
-    id: ck9bxjlrjmm640j78gnak9zfv
-    verified: false
-    hashtags: "#covid19, #sylwester, #fryzury, #kwarantannatime"
-  - username: "bartekgraczo"
-    fullname: >-
-      Bartosz Graczyk
-    location: "Poland"
-    followers: 12923
-    engagement: 1112
-    commentsToLikes: 0.021894
-    id: ckaik7hv2i7jz0i78iffmnvi2
-    verified: false
-    hashtags: "#animacje, #rickandmorty, #hot16challnge, #tachohemingway"
+    hashtags: "#viral, #dlaciebie, #trend, #zoommyface"
 ---

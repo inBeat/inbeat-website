@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Brazil In 2020
 description: >-
-  Find top models TikTok influencers in Brazil in 2020. Most popular hashtags: #brasil #music #eyes #manugavassi.
+  Find top models TikTok influencers in Brazil in 2020. Most popular hashtags: #foryou #fyp #fy #foryoupage.
 platform: TikTok
+hits: 144
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 144 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "cristianpolicarpo"
+  - username: "llucas_lobo1"
     fullname: >-
-      Cris.policarpos2
+      Lucas lobo
+    bio: >-
+      🔸Me sigam no Instagram ⬆️ 🔸Tiktoker | Model | Influencer
     location: "Brazil"
-    followers: 71386
-    engagement: 2228
-    commentsToLikes: 0.008547
-    id: ck94n6hr35oc40j78zfmpto3w
+    followers: 102900
+    engagement: 2500
+    commentsToLikes: 0.105733
+    id: ck9vethlr0dvh0j78xbvk944j
     verified: false
-    hashtags: "#jogo, #memesbrasil, #humor, #feel"
-  - username: "anaantonello"
+    hashtags: "#foryou, #viral, #xyzbca, #fyp"
+  - username: "maicolthurow"
     fullname: >-
-      Ana Antonello ✨
+      Maicol com L
+    bio: >-
+      Ford Models 🇧🇷 ↗️INSTA @maicolthurow Roceiro Model in Sampa 🌍
     location: "Brazil"
-    followers: 17039
-    engagement: 1578
-    commentsToLikes: 0.016303
-    id: ck8opw4ea4wgh0j78ozvrwrqx
+    followers: 160400
+    engagement: 1800
+    commentsToLikes: 0.024035
+    id: ckdtjvuxwxbdt0j23axqe5rat
     verified: false
-    hashtags: "#hoops, #musica, #coreografia, #foryoupag"
-  - username: "idscaroll"
+    hashtags: "#agroboy, #madeinro, #model, #tiktokbrasil"
+  - username: "cinthiacruz_"
     fullname: >-
-      Carol Issa
+      Cínthia Cruz ♡
+    bio: >-
+      🇧🇷 Brazilian🎭Actress👠Model. Instagram:@cinthiacruz_ Digital influencer 20♓️
     location: "Brazil"
-    followers: 17450
-    engagement: 1111
-    commentsToLikes: 0.017984
-    id: ckai5ctkfrkb60i78wqr29b7b
+    followers: 5500000
+    engagement: 1762
+    commentsToLikes: 0.007106
+    id: ckbb4iu9gurcv0j23rwrshxqp
+    verified: true
+    hashtags: "#bangenergy, #ad, #foryou, #fyp"
+  - username: "euannecaroliine"
+    fullname: >-
+      Anne Caroline
+    bio: >-
+      Plus size model / S.j Do Rio Preto-Sp 💕 ✊🏾🔥
+    location: "Brazil"
+    followers: 22000
+    engagement: 2536
+    commentsToLikes: 0.022347
+    id: ckbb35ru2thoy0j2379mjmorv
     verified: false
-    hashtags: "#dance, #music, #sertanejo, #eyes"
+    hashtags: "#instagram, #bodypositivity, #wakandasquad, #theblackwoman"
   - username: "valongloria"
     fullname: >-
       Valon Gloria
+    bio: >-
+      50% 🇫🇷 50% 🇧🇷 20y model MINHAS LENTES 👀 (cód 10%: Valentina88)
     location: "Brazil"
-    followers: 23676
-    engagement: 669
-    commentsToLikes: 0.029330
+    followers: 267000
+    engagement: 1594
+    commentsToLikes: 0.009623
     id: ckacbpzpahqnl0i78049gkbep
     verified: false
-    hashtags: "#machohetero, #momsbelike, #lookalike, #exposed"
-  - username: "larahmanoukian"
+    hashtags: "#butterflies, #animalsdoingthings, #vegetarianosyveganos, #emilyemparis"
+  - username: "queotimo"
     fullname: >-
-      Larah Manoukian
+      queotimo
+    bio: >-
+      tik tok's next top model Rio, Brasil
     location: "Brazil"
-    followers: 6093
-    engagement: 556
-    commentsToLikes: 0.018778
-    id: ck9uzhfw88kn10j78a1r6qsrr
+    followers: 2961
+    engagement: 628
+    commentsToLikes: 0.047803
+    id: ckdnq51h6ktze0j23ruewepix
     verified: false
-    hashtags: "#paolabracho, #food, #bruschetta, #vireimang"
-  - username: "ingridvasconcelos"
+    hashtags: "#fyp, #foryou, #ratsoftiktok, #natureathome"
+  - username: "marcela.thome"
     fullname: >-
-      Ingrid Vasconcelos
+      Marcella Thomé
+    bio: >-
+      Model/ Show Tour/ Trans ✌🏻 Por diversão! Segue no insta 💋
     location: "Brazil"
-    followers: 83559
-    engagement: 496
-    commentsToLikes: 0.017181
-    id: ck9rnrhkx8y290j783v6lrdki
+    followers: 16000
+    engagement: 1058
+    commentsToLikes: 0.017736
+    id: ckb9oxncejo7v0j23qrzsz8yl
     verified: false
-    hashtags: "#model, #antigo, #choque, #latinocheck"
-  - username: "nicolliariosi"
+    hashtags: "#trend, #trans, #modellife, #foryou"
+  - username: "cristianpolicarpo"
     fullname: >-
-      Nicolli Ariosi Teixeira
+      Cris.policarpos2
+    bio: >-
+      City:Paulínia SP Digital Influencer/Model ”Ontem era lixo hoje vê como tesouro”
     location: "Brazil"
-    followers: 4012
-    engagement: 310
-    commentsToLikes: 0.007706
-    id: cka6e7286amli0i78lxkezvy1
+    followers: 249800
+    engagement: 2216
+    commentsToLikes: 0.003977
+    id: ck94n6hr35oc40j78zfmpto3w
     verified: false
-    hashtags: "#olhosazuis, #trolei, #manugavassi, #vailuan"
-  - username: "thiminhau"
+    hashtags: "#pravoce, #foryou, #fy, #viral"
+  - username: "anaantonello"
     fullname: >-
-      Thimeow
+      Ana Antonello ✨
+    bio: >-
+      Hey 🤍 Brazilian Girl 🇧🇷 Dancer and Model ✨
     location: "Brazil"
-    followers: 9812
-    engagement: 851
-    commentsToLikes: 0.012623
-    id: ck8w4nut18u2l0j7811955o8q
+    followers: 22800
+    engagement: 1353
+    commentsToLikes: 0.024805
+    id: ck8opw4ea4wgh0j78ozvrwrqx
     verified: false
-    hashtags: "#graffiti, #sggirls, #portrait, #viral"
-  - username: "maripignatti"
+    hashtags: "#fy, #dueto, #foryou, #funk"
+  - username: "idscaroll"
     fullname: >-
-      maripignatti
+      Carol Issa
+    bio: >-
+      Brazilian model 🇧🇷 SEGUE NO INSTA🔥
     location: "Brazil"
-    followers: 263309
-    engagement: 712
-    commentsToLikes: 0.007391
-    id: ck9e3mvxbk8he0j786ehyzfoa
+    followers: 25700
+    engagement: 1073
+    commentsToLikes: 0.009615
+    id: ckai5ctkfrkb60i78wqr29b7b
     verified: false
-    hashtags: "#fail, #yomequedoencasa, #brasil, #coronavirus"
-  - username: "cyanrvm"
-    fullname: >-
-      Cyan Marie
-    location: "Brazil"
-    followers: 667811
-    engagement: 2123
-    commentsToLikes: 0.023883
-    id: cka601uippd9d0i783ury39m3
-    verified: false
-    hashtags: "#eitan, #food, #gringa, #intercambista"
+    hashtags: "#fy, #paravoce, #funk, #tiktok"
 ---

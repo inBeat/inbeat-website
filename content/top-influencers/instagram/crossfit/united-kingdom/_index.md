@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top crossfit Instagram influencers in United Kingdom in 2020. Most popular hashtags: #crossfit #tb #missyou #friday.
+  Find top crossfit Instagram influencers in United Kingdom in 2020. Most popular hashtags: #crossfit #fitness #workout #love.
 platform: Instagram
+hits: 106
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 106 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "tomseedfitness"
+  - username: "nicolamcgrath831"
     fullname: >-
-      TOM SEED
+      SAS WDW Nicola McGrath
+    bio: >-
+      SAS Who dares wins Series 5 #6 ⚔️ Personal Trainer 💪 Owner of @recruit6bootcamps CrossFit🏋🏻‍♀️ Everest Base camp 🏔 London marathon x2 Mum of 3
     location: "United Kingdom"
-    followers: 54856
-    engagement: 234
-    commentsToLikes: 0.048582
-    id: ck0u8m1f07q3s0i19p43noi92
+    followers: 5126
+    engagement: 623
+    commentsToLikes: 0.069225
+    id: ck6u5c3378rnk0j71mkbjgxhw
     verified: false
-    hashtags: "#fullnatty, #leaninquarantine, #throwbackthursday, #broscience"
+    hashtags: "#recruit6, #saswhodareswins, #grateful, #snowdon"
   - username: "tayla_howe"
     fullname: >-
       Tayla Kalise Howe
+    bio: >-
+      Crossfit athlete 🇬🇧 @wheyduk | TAYLA @reebok_fitness @compex_uk | TAYLA @fitaideurope | athlete
     location: "United Kingdom"
     followers: 20644
     engagement: 667
     commentsToLikes: 0.005554
     id: ck6ui2z2jcr900j71y8qedn9t
     verified: false
-    hashtags: "#2weekblues, #allthelegs, #1moresleep, #wecoming"
-  - username: "davidmata91"
-    fullname: >-
-      David Mata
-    location: "United Kingdom"
-    followers: 7243
-    engagement: 1042
-    commentsToLikes: 0.012725
-    id: ck5hr9dxruht70i11lj5ifnzb
-    verified: false
-    hashtags: "#forwardtogether, #uniteinmovement, #swimming"
-  - username: "_paige_powers"
-    fullname: >-
-      Paige Powers
-    location: "United Kingdom"
-    followers: 7196
-    engagement: 1372
-    commentsToLikes: 0.026325
-    id: ck6ui2ry2cq060j7160nfenns
-    verified: false
-    hashtags: "#somuchpain, #2moredaysss, #happynewyear, #lastyearbestyear"
+    hashtags: "#2weekblues, #powerornah, #1moresleep, #fullsendies"
   - username: "hannah_owen_"
     fullname: >-
       Hannah Owen
+    bio: >-
+      Model, CrossFit LVL 1 Trainer + PT LVL 3/Fitness Instructor LVL 2 🇬🇧 @wit.fitness @officialmp info@hannahowen.com Enquiries Contact @jadoremodelsmcr
     location: "United Kingdom"
-    followers: 18604
-    engagement: 212
-    commentsToLikes: 0.032316
+    followers: 18268
+    engagement: 244
+    commentsToLikes: 0.022253
     id: ck8sz1iqomtq40j78qo4kg60k
     verified: false
-    hashtags: "#dunnohowigotintothatcategory, #myprotein, #tb, #gifted"
-  - username: "alexyounger23"
+    hashtags: "#teamwit, #wit, #progressneverstops, #dunnohowigotintothatcategory"
+  - username: "sophiejeannelaird"
     fullname: >-
-      Alex Younger
+      SOPHIE LAIRD ♡
+    bio: >-
+      « Sophie Crabtree » 📍 @shirefit_wolverhampton 🇬🇧 Blackpool ➳ Wolverhampton 🏋🏼‍♀️ Predominantly CrossFit & the odd token selfie
     location: "United Kingdom"
-    followers: 6728
-    engagement: 555
-    commentsToLikes: 0.033121
-    id: ck5zwcr985wkp0i14gnb94t9u
+    followers: 2353
+    engagement: 880
+    commentsToLikes: 0.050366
+    id: ck8t1tmmxwzgb0j786lmxnvw1
     verified: false
-    hashtags: "#mynecksbroke, #pictureapprovedbytammi, #pictureskillsbysteph, #whataman"
-  - username: "fram94"
+    hashtags: "#crossfitter, #strongwomen, #olympiclifting, #weightlifting"
+  - username: "teylynnjones"
     fullname: >-
-      Francesco Migliaccio
+      'Teysty' Tey Lynn-Jones
+    bio: >-
+      🔹Professional Boxer #TTT 🥊 🔹Essex/LDN 🔹Met Police👮🏼‍♂️ #ThinBlueLine ⚫️🔵⚫️ 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2021 👀 🔹MTK FIGHTER👊🏼
     location: "United Kingdom"
-    followers: 5897
-    engagement: 595
-    commentsToLikes: 0.016602
-    id: ckap69ye2f0he0i78kdisfh83
+    followers: 10156
+    engagement: 408
+    commentsToLikes: 0.137277
+    id: ckf5wvandtbow0j23wffln8ev
     verified: false
-    hashtags: "#thodareshamlagtahai, #walthamstowmarshes, #murphchallenge, #wod"
-  - username: "blue_heaven777"
-    fullname: >-
-      Tina Nakata
-    location: "United Kingdom"
-    followers: 6370
-    engagement: 779
-    commentsToLikes: 0.022531
-    id: ck6tu40z9e6fu0j7184mf80ce
-    verified: false
-    hashtags: "#2020, #felizanonovo, #jiujitsu, #stayhome"
+    hashtags: "#positivevibes, #runninggoals, #vlm2020, #london"
   - username: "danielaferreiramacario"
     fullname: >-
       Daniela Macário
+    bio: >-
+      35|StuntWoman|Crossfit Women|Fitness Lover|Mum @reebok @huaweimobilept @semperfit_official @goldnutrition_official 📩danielaferreiramacario@yahoo.com
     location: "United Kingdom"
-    followers: 18221
-    engagement: 188
-    commentsToLikes: 0.025176
+    followers: 18214
+    engagement: 204
+    commentsToLikes: 0.016774
     id: ck0vv98puo3y90i191imeh3zc
     verified: false
-    hashtags: "#performance, #flexibility, #festas, #amor"
-  - username: "arcathlete"
+    hashtags: "#smile, #fitness, #curves, #beach"
+  - username: "tomseedfitness"
     fullname: >-
-      Emole | Workouts
+      TOM SEED
+    bio: >-
+      athlete: @noccouk mgmt: @w_modelmgmt men’s physique → CrossFit® @myproteinuk | @stealthnutrition ↓↓ new response video
     location: "United Kingdom"
-    followers: 2594
-    engagement: 1010
-    commentsToLikes: 0.368717
-    id: ck9wh6wobwja30j78wenyf1du
+    followers: 57305
+    engagement: 175
+    commentsToLikes: 0.048049
+    id: ck0u8m1f07q3s0i19p43noi92
     verified: false
-    hashtags: "#fitfam, #trainmean, #speed, #outerthigh"
+    hashtags: "#transformationtuesday, #wit, #witfitness, #climbyourownmountain"
+  - username: "shinnyshowlive"
+    fullname: >-
+      SHINNy
+    bio: >-
+      RECOVERy is possible, breaking the stigma of addiction #RECOVERyISTHENEWCOOL ➡️Alcoholic 2 Actor ➡️Crack 2 CrossFit ➡️Addict 2 Athlete @cbd1uk 15%
+    location: "United Kingdom"
+    followers: 40292
+    engagement: 249
+    commentsToLikes: 0.145558
+    id: ckapc2qng28w80i78ho70a3da
+    verified: true
+    hashtags: "#recoveryisthenewcool, #recovery, #meditation, #son"
+  - username: "ellawilkinsonxx"
+    fullname: >-
+      Ella Wilkinson
+    bio: >-
+      20 Crossfit🇬🇧 ▪️ @nastylifestyle Athlete (ELLA) ▫️ @wheyduk Athlete (ELLA) ▪️ @murgs (Ella10) ▫️ @challengestate (ELLA)
+    location: "United Kingdom"
+    followers: 8711
+    engagement: 813
+    commentsToLikes: 0.031308
+    id: ck55jinydx49f0i1153ptl721
+    verified: false
+    hashtags: "#jstcompete, #fitnessgirl, #handstand, #teamnasty"
+  - username: "davidmata91"
+    fullname: >-
+      David Mata
+    bio: >-
+      • 2018 CrossFit Games Athlete • Owner @crossfit_berkana
+    location: "United Kingdom"
+    followers: 7575
+    engagement: 1205
+    commentsToLikes: 0.014214
+    id: ck5hr9dxruht70i11lj5ifnzb
+    verified: false
+    hashtags: "#crossfit, #ringmuscleups, #snatch, #workout"
 ---

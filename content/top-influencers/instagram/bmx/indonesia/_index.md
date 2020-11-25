@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top bmx Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #stayathome #corona #league.
+  Find top bmx Instagram influencers in Indonesia in 2020. Most popular hashtags: #bmx #staysafe #bmxlife #indonesia.
 platform: Instagram
+hits: 35
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 35 Instagram influencers like this in Indonesia for you to contact.
 profiles:
   - username: "botayagata"
     fullname: >-
       Botayagata
+    bio: >-
+      FLATLAND RIDER BMX SHOW & endorsment : * maylin 085717420742 DM or send email januarsusanto@rocketmail.com Youtube channel ( Botaybmx )
     location: "Indonesia"
-    followers: 32291
-    engagement: 153
-    commentsToLikes: 0.008604
+    followers: 32210
+    engagement: 143
+    commentsToLikes: 0.017293
     id: ck8szal6gnp040j780h1t92is
     verified: false
-    hashtags: "#coronavirus, #covid19, #ancolbeach, #superadventure"
+    hashtags: "#flatland, #indonesia, #leagueworld, #bmx"
+  - username: "gerry_konaedi"
+    fullname: >-
+      -XAQHALA-
+    bio: >-
+      @boyzgotnobrain.1992 CP-(+62 817826010) fooling around at @freshcoast_bmx for stress release
+    location: "Indonesia"
+    followers: 20489
+    engagement: 643
+    commentsToLikes: 0.034963
+    id: ckap9b7w9rxt80i78blz2pg4t
+    verified: false
+    hashtags: "#xaqhalagowest, #osbmx, #hellhouseindo, #xali"
   - username: "samuelavrillian"
     fullname: >-
       Samuel Avrillian
+    bio: >-
+      📍Bali, Indonesia it's me and boo, with a big dreams!! God | family | arch | bmx | S7 | Sunday Comp John 3 : 16 I'm blessed !!!
     location: "Indonesia"
     followers: 8192
     engagement: 466
     commentsToLikes: 0.058163
     id: ck5hqh798t3tw0i11fef3qz6l
     verified: false
-    hashtags: "#cianjur, #bdgbmx, #dirumahaja, #bandung"
+    hashtags: "#bmx, #indonesia, #bali, #corona"
   - username: "iwan_maruba_s"
     fullname: >-
       I. M. S
+    bio: >-
+      Atlet /from/sumatra utara /medan/jakarta/bmx flatland/ride for fun/
     location: "Indonesia"
     followers: 2201
     engagement: 1055
     commentsToLikes: 0.072239
     id: ck9wd6fjie9vk0j78x62703b4
     verified: false
-    hashtags: "#vrtcl, #flatindo, #rideinside, #flatindobmx"
+    hashtags: "#bmxflatland, #enjoy, #lifestyle, #iwanflatland"
   - username: "tonisyarifudin"
     fullname: >-
       Toni Syarifudin
+    bio: >-
+      Indonesian BMX racer. 2016 Rio Olympian. Thrill Factory Racing. 🇮🇩 @booston_45
     location: "Indonesia"
     followers: 13960
     engagement: 624
     commentsToLikes: 0.018036
     id: ck5zysz2qah0r0i147lo22erj
     verified: false
-    hashtags: "#bmxinternationalbanyuwangi, #philippines, #fail, #olympic"
+    hashtags: "#bmxracing, #tbt, #bmx, #timbadak"
   - username: "ardikawinata"
     fullname: >-
       AW
+    bio: >-
+      BMX Rider Indonesia 🇲🇨 • #tejabmx • @xfycx • @fycfootwear 📩 ardikawinata1@gmail.com hi.countesskarina@gmail.com Or DM me/@countesskarina for inquiries
     location: "Indonesia"
-    followers: 30042
-    engagement: 409
-    commentsToLikes: 0.016495
+    followers: 30794
+    engagement: 432
+    commentsToLikes: 0.013363
     id: ck5hj1mf8fuf80i112igr6wdk
     verified: false
-    hashtags: "#timtamsenyumin, #timtamgolden, #goldentimtam, #timtaminsenyumin"
-  - username: "uchinoyohei"
+    hashtags: "#sultantj, #fycfootwear, #fyc, #tejabmx"
+  - username: "andyrif"
     fullname: >-
-      内野洋平
+      Andy /rif
+    bio: >-
+      Business manager : Harry ☎ +62 878 87000233
     location: "Indonesia"
-    followers: 11720
-    engagement: 626
-    commentsToLikes: 0.019452
-    id: ck6tumbymh5px0j71pl1elff4
-    verified: true
-    hashtags: "#jeeprealgames, #thepowerofreal, #dontstopskills, #repost"
-  - username: "rio_karioakbar"
-    fullname: >-
-      Rio Akbar
-    location: "Indonesia"
-    followers: 12097
-    engagement: 669
-    commentsToLikes: 0.013077
-    id: ck5zyt0acah390i14hf6tbwad
+    followers: 154443
+    engagement: 107
+    commentsToLikes: 0.023536
+    id: ck6tksx4x5cht0j71ng23suko
     verified: false
-    hashtags: "#forthoveofsport, #dirumahaja, #lockdown2020, #onealracing"
-  - username: "vicky_kalea19"
+    hashtags: "#bintaromx, #osbmx, #deathinbmx, #bmx"
+  - username: "muhammadrifam"
     fullname: >-
-      𝑽𝒊𝒄𝒌𝒚 𝑲𝒂𝒍𝒆𝒂
+      Muhammad Rifa Mulkifli
+    bio: >-
+      Life you Live is fun 🌹 _______________________ 📍Bandung,indonesia •@bdgbmx •@lifetripcobmx •@staycoolsocks 📩 muhammadrifamulkifli@gmail.com
     location: "Indonesia"
-    followers: 13267
-    engagement: 722
-    commentsToLikes: 0.019441
-    id: ck6twwgvtuht40j71yb6tjy0c
+    followers: 5554
+    engagement: 535
+    commentsToLikes: 0.050833
+    id: ck5zly0ktlk8m0i14b9r1cdo1
     verified: false
-    hashtags: "#instaphotos, #tflers, #igers, #iphoneonly"
-  - username: "reynaldirere171"
+    hashtags: "#bmx, #majesticframe, #oursgang, #mtb"
+  - username: "e.liass_"
     fullname: >-
-      Reynaldi pradhana (rere)
+      Elias
+    bio: >-
+      Berlin/Bernau 📌 17y @kunstformbmxshop #kunstformberlin S🖤
     location: "Indonesia"
-    followers: 30512
-    engagement: 973
-    commentsToLikes: 0.010747
-    id: ck13bh0covcvt0i194114wom9
+    followers: 2191
+    engagement: 1471
+    commentsToLikes: 0.037821
+    id: ck6uifh53es4r0j714galrpbg
     verified: false
-    hashtags: "#mxking, #racikanbaru, #vespa, #2strokelovers"
-  - username: "fais_anggara"
+    hashtags: "#bikes, #bikelife, #art, #ridebikes"
+  - username: "anto_leysa"
     fullname: >-
-      FAIS
+      𝐀 𝐍 𝐓 𝐎  𝐋 𝐄 𝐘 𝐒 𝐀
+    bio: >-
+      𝗕𝗠𝗫 | 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚📍𝑩𝒂𝒏𝒅𝒖𝒏𝒈, 𝑰𝒏𝒅𝒐𝒏𝒆𝒔𝒊𝒂 🇮🇩🍕🐊 𝐓𝐢𝐤𝐭𝐨𝐤 : 𝒂𝒏𝒕𝒐𝒍𝒆𝒚𝒔𝒂
     location: "Indonesia"
-    followers: 7289
-    engagement: 815
-    commentsToLikes: 0.100566
-    id: ckap16m8pt9vb0i78pyi7b6pp
+    followers: 17025
+    engagement: 394
+    commentsToLikes: 0.032570
+    id: ck5zqrmw6v5s20i14egb3dxdi
     verified: false
-    hashtags: "#pendaki, #jejakpendaki, #mountains, #exploremalang"
+    hashtags: "#sebtootschallenge, #staysafe, #bmx, #localpride"
 ---

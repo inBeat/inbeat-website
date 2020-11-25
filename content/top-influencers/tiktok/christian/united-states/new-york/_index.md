@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In New York In 2020
 description: >-
-  Find top christian TikTok influencers in New York in 2020. Most popular hashtags: #newyork #christian #church #love.
+  Find top christian TikTok influencers in New York in 2020. Most popular hashtags: #fyp #christian #jesus #newyork.
 platform: TikTok
+hits: 30
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 30 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "caughtyouwatching"
+  - username: "mimelyfe_"
     fullname: >-
-      Suzanne
+      The Official MimeLyfe
+    bio: >-
+      Insta: MimeLyfe_ | YT: MimeLyfe TV God First | Purpose Driven New York 📍
     location: "United States"
-    followers: 2327
-    engagement: 557
-    commentsToLikes: 0.037992
-    id: cka0jr7zyj9m60i78r716qpxx
+    followers: 33400
+    engagement: 1615
+    commentsToLikes: 0.086828
+    id: ck9fycr3ya6120j78efoy10q1
     verified: false
-    hashtags: "#handbags, #lovethem, #oldladyneck, #foyoupage"
-  - username: "margaritax503"
+    hashtags: "#god, #mimelyfe, #bible, #black"
+  - username: "_rjwalker"
     fullname: >-
-      Margarita 🦢
+      RJ Walker
+    bio: >-
+      Psalms 118:6 CA -> ID 22 yrs old lookin like I’m 17
     location: "United States"
-    followers: 10067
-    engagement: 1337
-    commentsToLikes: 0.025991
-    id: ck8trb41iqwvb0j78poes8q6c
+    followers: 61900
+    engagement: 1189
+    commentsToLikes: 0.012945
+    id: ck80occjlgrrd0j78o25c9fdu
     verified: false
-    hashtags: "#portland, #vibes, #pizza, #purplehair"
-  - username: "lorriejo111"
+    hashtags: "#motokids, #midwest, #motocross, #moto"
+  - username: "itssarahtaylorr"
     fullname: >-
-      Lorrie-Jo Hanna
+      user2412617501883
+    bio: >-
+      New cover on Instagram 💛👍🏼
     location: "United States"
-    followers: 6899
-    engagement: 949
-    commentsToLikes: 0.063920
-    id: ck8w1immc1yau0j783tb06c79
+    followers: 32700
+    engagement: 1300
+    commentsToLikes: 0.024223
+    id: ckc32nyk6su4z0j23gdowzqea
     verified: false
-    hashtags: "#cloths, #confused, #heknew, #schooled"
-  - username: "shekgere378"
-    fullname: >-
-      Giri,  Shekhar
-    location: "United States"
-    followers: 8971
-    engagement: 553
-    commentsToLikes: 0.060229
-    id: ck9fy5ftu9am50j78n5c4dzz6
-    verified: false
-    hashtags: "#mask, #kathmandu, #addictive, #upper"
+    hashtags: "#singer, #fyp, #fy, #singing"
   - username: "cjmoney87"
     fullname: >-
       Christian Acosta
+    bio: >-
+      Born🇵🇷 Father of 2 From Brooklyn New York to 📍Youngstown Ohio Snap cjmoney87
     location: "United States"
-    followers: 2416
-    engagement: 896
-    commentsToLikes: 0.040775
+    followers: 2551
+    engagement: 850
+    commentsToLikes: 0.039407
     id: cka9l1hns1hdp0i78voairuq4
     verified: false
-    hashtags: "#answerthephone, #tootsieroll, #ballislife, #fridayturnup"
-  - username: "koreanchurch"
+    hashtags: "#champagnepapi, #tik, #fy, #bored"
+  - username: "thetexasguy"
     fullname: >-
-      Oppa
+      Reagan Green
+    bio: >-
+      No bullcrap Christian ✝️ Podcast - Spotify and Apple Podcast 🎙 Link in website
     location: "United States"
-    followers: 16837
-    engagement: 1091
-    commentsToLikes: 0.024659
-    id: ck8s4hhp0b8lc0j78br7a6n1p
+    followers: 73500
+    engagement: 1923
+    commentsToLikes: 0.066956
+    id: ckavjn74osdue0j239m3txeyw
     verified: false
-    hashtags: "#iykyk, #appa, #parents, #seeya"
-  - username: "gregccgutierrez"
+    hashtags: "#podcast, #fyp, #jesus, #christian"
+  - username: "caleb.drexler"
     fullname: >-
-      Greg Gutierrez
+      Caleb 🙏🏻⛪️
+    bio: >-
+      Romans 6:23 Christian / 17 Snap: guppy_drexler63 WOLBI 22’
     location: "United States"
-    followers: 5689
-    engagement: 794
-    commentsToLikes: 0.137963
-    id: ckamr8im5km2q0i7815agghca
+    followers: 12900
+    engagement: 2666
+    commentsToLikes: 0.027692
+    id: ck9rmru5348f50j780zga7l17
     verified: false
-    hashtags: "#singing, #coffee, #manscaped, #bigboss"
-  - username: "ninomerica"
+    hashtags: "#christianboy, #reallove, #jesus, #amen"
+  - username: "colonelbrand"
     fullname: >-
-      Nino America
+      Brandon
+    bio: >-
+      I’m Christian. Follow my insta ☝️. ✝️
     location: "United States"
-    followers: 13582
-    engagement: 1041
-    commentsToLikes: 0.079981
-    id: cka9of1015n6f0i78ndyvgas8
+    followers: 10900
+    engagement: 1654
+    commentsToLikes: 0.056105
+    id: ckc3531yhudnk0j23qcbib65n
     verified: false
-    hashtags: "#caughtontape, #midland, #godbless, #burn"
-  - username: "camsosilly"
+    hashtags: "#duet, #jesusgang, #election2020, #politics"
+  - username: "samthesandman"
     fullname: >-
-      CamSoSilly
+      Sam
+    bio: >-
+      Hawaii still sounds nice a few months later 14 NY Snap/SamShahem Insta/SamShahem
     location: "United States"
-    followers: 7695
-    engagement: 972
-    commentsToLikes: 0.047398
-    id: cka9kytbp16ru0i78l2z8albw
+    followers: 4328
+    engagement: 2628
+    commentsToLikes: 0.104775
+    id: ckbqd0cwcz2190j235zg49dbs
     verified: false
-    hashtags: "#gospel, #aspiringactor, #xyzbcab, #cars"
-  - username: "angiebudchanin"
+    hashtags: "#conservative, #newyork, #foryoupage, #nyc"
+  - username: "poweredbydjecho"
     fullname: >-
-      angie
+      DJ Echo
+    bio: >-
+      ✝️💍🇺🇸🇵🇷 I’m a DJ. For real, my mom will vouch for me! Can you dig it?
     location: "United States"
-    followers: 6544
-    engagement: 2018
-    commentsToLikes: 0.047419
-    id: ckal6d96eacrt0i78e5qravmz
+    followers: 9541
+    engagement: 2462
+    commentsToLikes: 0.516747
+    id: ckc92m6oht8gp0j23tphkmm16
     verified: false
-    hashtags: "#disneydolewhip, #recipe, #puppy, #motivation"
+    hashtags: "#realmenwearpink, #djechobacktothe80s, #djechomashup, #dance"
+  - username: "diego.j.rivas"
+    fullname: >-
+      Diego Rivas
+    bio: >-
+      CEO of Gibberish Interesting things you’ve never heard of Come learn with me 🌎
+    location: "United States"
+    followers: 125900
+    engagement: 1028
+    commentsToLikes: 0.036482
+    id: ck8qj596fbz3f0j78uqgujo6l
+    verified: false
+    hashtags: "#learn, #religion, #french, #hispanic"
 ---

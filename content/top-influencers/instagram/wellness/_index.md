@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In 2020
 description: >-
-  Find top wellness Instagram influencers in 2020. Most popular hashtags: #dogsofinstagram #nutrition #stayhome #yogi.
+  Find top wellness Instagram influencers in 2020. Most popular hashtags: #wellness #exploreitaly #selfcare.
 platform: Instagram
+hits: 5386
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 5386 Instagram influencers like this for you to connect with.
 profiles:
   - username: "newtonbogue"
     fullname: >-
       Adam
+    bio: >-
+      NYC/LA restauranteur turned green bath, beauty & wellness brand Cofounder in the Ojai Valley, CA.
     location: "United States"
-    followers: 9492
-    engagement: 1654
-    commentsToLikes: 0.170403
+    followers: 13018
+    engagement: 1430
+    commentsToLikes: 0.123402
     id: ck8sx6wa3gcto0j78hijxj1jd
     verified: false
-    hashtags: "#socialdistancing, #dogsofinstagram, #takeadip, #ppe"
-  - username: "danikafieldsforever"
+    hashtags: "#staysafe, #elcapitan, #deepbreaths, #harper"
+  - username: "_jasminvanessa"
     fullname: >-
-      DANIKA FIELDS🦋creative artist
+      JΛSMIN ╳ VΛNESSΛ
+    bio: >-
+      ur virtual soul sis Unfiltered LA creative💃🏽 Life+CurvyStyle ✘ Wellness ✘ Advocacy join the fam #jasmINSPIRED jasminvanessa93@gmail.com TRAVEL W/ ME ↓
     location: "United States"
-    followers: 18025
-    engagement: 1004
-    commentsToLikes: 0.091307
-    id: ck0w4kxujz37l0i19rgu7r93n
+    followers: 30774
+    engagement: 1246
+    commentsToLikes: 0.172423
+    id: ck55mxhoz51bd0i11q9fhs1x0
     verified: false
-    hashtags: ""
+    hashtags: "#revolveme, #spookyszn, #fallootd, #31nightsofhalloween"
   - username: "fit.full.life"
     fullname: >-
       Julie
+    bio: >-
+      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
     location: "United States"
-    followers: 7589
-    engagement: 2381
-    commentsToLikes: 0.520398
+    followers: 8757
+    engagement: 1973
+    commentsToLikes: 0.386816
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
   - username: "karoliinamakela"
     fullname: >-
-      Karoliina | Osteopathy Student
+      Karoliina | yrittäjä
+    bio: >-
+      🌻Owner @sarmamedia 🌸@wellnessmalli.fi 2019 🥈 ♡ Hyvinvointia rennosti ✧ Tyyli-inspistä, arjen pieniä iloja ja somevinkkejä
     location: "Finland"
-    followers: 7515
-    engagement: 1566
-    commentsToLikes: 0.142046
+    followers: 9051
+    engagement: 1432
+    commentsToLikes: 0.120080
     id: ck5hfiuu8xosh0i1112ksidwk
     verified: false
-    hashtags: "#staysafe, #woltattu, #cailap, #kaupallinenyhteistyo"
-  - username: "caligraphist"
-    fullname: >-
-      Cali • Menswear & Beards
-    location: "United Kingdom"
-    followers: 18862
-    engagement: 1073
-    commentsToLikes: 0.071034
-    id: ck0vy93sw2tvo0i1982qrmrke
-    verified: false
-    hashtags: "#selfbarbering, #selfcare, #blackboyjoy, #stayathomestyle"
+    hashtags: "#nextory, #rikkaampiel, #bubbleroomstyle, #evolveorganic"
   - username: "chloe__chamberlain"
     fullname: >-
       Chloe Chamberlain
+    bio: >-
+      Owner + Designer @balanceathletica⁣⁣⁣⁣ @tolucaswim ⁣ 📚Purdue University Alumn ⁣⁣⁣ 📈 Business 🌿 Health 💋 Beauty ⚖️ Wellness⁣⁣⁣⁣⁣⁣⁣ ⁣
     location: "United States"
-    followers: 55253
-    engagement: 909
-    commentsToLikes: 0.057106
+    followers: 71960
+    engagement: 1212
+    commentsToLikes: 0.088736
     id: ck0uav00bd2xv0i19127d3k1s
     verified: false
-    hashtags: "#stayhome, #flattenthecurve"
-  - username: "kundaliniyoginiprasiddha"
+    hashtags: "#stayhome, #flattenthecurve, #bywomxnforwomxn"
+  - username: "sashannr"
     fullname: >-
-      Prasiddha Ananda
-    location: "United States"
-    followers: 7471
-    engagement: 1262
-    commentsToLikes: 0.102476
-    id: ck9ha2pmsaw7d0j783nn2j00v
+      S A S H A ⋆ 🌿 ✈️ Travel
+    bio: >-
+      Holistic obsessed Torontonian 🇨🇦 with a penchant for travelling. 🌍Globetrotting since 2012 Travel ∣ Wellness ∣ Activism ↓ BOOK WITH US ↓
+    location: "Canada"
+    followers: 7113
+    engagement: 1253
+    commentsToLikes: 0.349170
+    id: ckap3ha6z2zxu0i78bws33m0g
     verified: false
-    hashtags: "#feelbetter, #divine, #howto, #vegetarian"
+    hashtags: "#alllivesmatter, #kidding, #imsooldlol, #amplifymelanatedvoices"
+  - username: "tayruths"
+    fullname: >-
+      Tay Ruth Welgoss
+    bio: >-
+      ⋒ hey, I’m tay! I’m goofy & encouraging 😊 I share about my lifestyle, faith & suffering. 🍁 ⋒home&wellness: @tayruthwel ✉️: tayruthblog@gmail.com
+    location: "United States"
+    followers: 13476
+    engagement: 1162
+    commentsToLikes: 0.121753
+    id: ck55jcu9qwrzh0i11jnqc3a25
+    verified: false
+    hashtags: ""
+  - username: "withashleykay"
+    fullname: >-
+      Ashley Kay, PA-C
+    bio: >-
+      📍ORL, FL 💉Vascular Surgery Physician Assistant⠀⠀⠀⠀⠀⠀⠀ 💍 Bride-to-be 🧠More Education, Health, & Wellness Here: http://www.withashleykay.com/
+    location: "United States"
+    followers: 35532
+    engagement: 684
+    commentsToLikes: 0.123323
+    id: ck5c4ae1p0xqz0i11daqs65ur
+    verified: false
+    hashtags: "#physicianassistant, #livebetterbycvshealth, #womeninmedicine, #linkinbio"
   - username: "brooklynkitten_"
     fullname: >-
       paulina | brooklyn kitten
+    bio: >-
+      left nyc for the world // always seeking the magic💫 travel • wellness • spirituality • positivity ✨ blog↡ | 💌paulina@brooklynkitten.com
     location: "United Kingdom"
-    followers: 35083
-    engagement: 663
-    commentsToLikes: 0.085704
+    followers: 32981
+    engagement: 649
+    commentsToLikes: 0.087854
     id: ck0w6b0697pny0i19vpnmhdoe
     verified: false
-    hashtags: "#discovertuscany, #thailandtravel, #mysecretlondon, #pasionxmexico"
-  - username: "olena.starodubets"
+    hashtags: "#amazingthailand, #travelvietnam, #hoianancienttown, #exploreitaly"
+  - username: "kundaliniyoginiprasiddha"
     fullname: >-
-      Olena Starodubets🍀 Oficial
-    location: "Brazil"
-    followers: 331676
-    engagement: 673
-    commentsToLikes: 0.026894
-    id: ck8t8yy9bmc9w0j78haonvy8z
+      PRASIDDHA🌿Health&Spirit Coach
+    bio: >-
+      Here to share authentic Yoga, Ayurveda & Hindu spirituality🧡💫 Certified Ayurvedic Wellness Counselor🌱 India 🕌 & LA 🌊 For free resources and booking👇🏻
+    location: "United States"
+    followers: 8814
+    engagement: 1122
+    commentsToLikes: 0.084211
+    id: ck9ha2pmsaw7d0j783nn2j00v
     verified: false
-    hashtags: "#mamafit, #obrigada, #pregnt, #veganfamily"
-  - username: "nikkibigger"
-    fullname: >-
-      𝗻𝗶𝗸𝗸𝗶 | 𝘃𝗮𝗻𝗹𝗶𝗳𝗲 | 𝗵𝗲𝗮𝗹𝘁𝗵
-    location: "Canada"
-    followers: 29281
-    engagement: 605
-    commentsToLikes: 0.061415
-    id: ck55q9l7ycit90i119kylx4o9
-    verified: false
-    hashtags: "#staywild, #gentlefawn, #vanliving, #outfitinspo"
+    hashtags: "#soul, #reflection, #cosmos, #heal"
 ---

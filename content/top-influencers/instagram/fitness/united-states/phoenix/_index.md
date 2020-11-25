@@ -3,105 +3,128 @@ title: Top 10 Fitness Instagram Influencers In Phoenix In 2020
 description: >-
   Find top fitness Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #phoenix #arizona #fitfam.
 platform: Instagram
+hits: 90
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 90 Instagram influencers like this in Phoenix, United States for you to contact.
 profiles:
   - username: "charlottepolepower"
     fullname: >-
       Charlotte Adams
+    bio: >-
+      * Owner of Pole Power Fitness - Phoenix, AZ @polepowerfitness #polepowerfitness * Dragonfly Brand Ambassador * XPERT Pole Fitness Certified * PT
     location: "United States"
     followers: 21937
     engagement: 323
     commentsToLikes: 0.032178
     id: ck5bwiy9ylskv0i110w65r3t5
     verified: false
-    hashtags: "#polestudio, #yogaposes, #flexyfriday, #workoutathome"
-  - username: "frittellivision"
+    hashtags: "#poletricks, #calisthenics, #poletrick, #polefitnessvideos"
+  - username: "801.moto.chic"
     fullname: >-
-      Dylan Frittelli
+      S H A I L A  R A Y
+    bio: >-
+      Content Creator | Marketing Food + Fitness PHX All Day 🌵 Proud American 🇺🇸
     location: "United States"
-    followers: 13631
-    engagement: 455
-    commentsToLikes: 0.039798
-    id: ck0u8m59d7qmj0i192utdiy9b
-    verified: true
-    hashtags: "#yabbadabbadoo, #southafrica, #germany, #mastersrewind"
+    followers: 25906
+    engagement: 526
+    commentsToLikes: 0.026018
+    id: ck5zzt0ywcdhq0i14xjraim08
+    verified: false
+    hashtags: "#americanmuscle, #motivation, #az, #motivationalquotes"
+  - username: "sarah.j.whipple"
+    fullname: >-
+      S A R A H   W H I P P L E
+    bio: >-
+      💪🏽Fitness Instructor & Personal Trainer at BODI 💁🏼‍♀️Wife to Alex & Mama to Beckham 🍋lululemon Run Ambassador 🌵Scottsdale AZ 🏃🏽‍♀️Oregon Track/XC Alum
+    location: "United States"
+    followers: 20087
+    engagement: 435
+    commentsToLikes: 0.026358
+    id: ck6tutrt9idcx0j711rb8vj2r
+    verified: false
+    hashtags: "#fitfam, #thesweatlife, #arizona, #strength"
+  - username: "jeffrorad"
+    fullname: >-
+      Jeffrey Louis | Bboy Jeffro
+    bio: >-
+      💪🏾 @fitbreakgym ⚡️RAD Crew 🔋 @monsterenergy Athlete 🚀Houston Rockets Dancer 🎓University of Houston Alum
+    location: "United States"
+    followers: 8583
+    engagement: 1426
+    commentsToLikes: 0.049475
+    id: ck6ugazw51y7a0j71xcal4uco
+    verified: false
+    hashtags: "#radydaddy, #hiphop, #hiphopdance, #houstondancers"
   - username: "cjmearsgang"
     fullname: >-
       Casey Mears
+    bio: >-
+      Husband to an awesome wife and dad to a couple cool kids. @clmbr_official Brand Ambassador @phoenixraceway Ambassador #mearsgang 📍Norra 1000
     location: "United States"
     followers: 24761
     engagement: 223
     commentsToLikes: 0.028706
     id: ck5hfuoxlzfn60i11vqzjocz1
     verified: true
-    hashtags: "#fitnessgoals, #jeep, #homestyle, #coke600"
-  - username: "curtbangz"
+    hashtags: "#mearsgang, #getfit, #nascar, #az"
+  - username: "albassguide_memelord"
     fullname: >-
-      Curtis Okafor
+      Ryan Salzman
+    bio: >-
+      FLW Circuit Pro and shenanigans 💩 👻al_bassguide
     location: "United States"
-    followers: 6192
-    engagement: 778
-    commentsToLikes: 0.027470
-    id: ck8t0a2asrcom0j78ep2b646u
+    followers: 18623
+    engagement: 229
+    commentsToLikes: 0.024613
+    id: ck13bpgjbwjdn0i19x8krje0e
     verified: false
-    hashtags: "#clearskin, #thelookout, #wescoutusa, #sedonahiking"
-  - username: "arcanine_rawr"
+    hashtags: "#guntersvillelake, #guidelife, #thetugisthedrug, #fishingisfun"
+  - username: "highsteph"
     fullname: >-
-      Meagan
+      Steph Davis
+    bio: >-
+      climber 🧗🏻‍♀️ flyer 🦋 speaker 🎤 partners: Garmin • Kavu • Evolv • Mammut • Osprey • Ruffwear • Nulo
     location: "United States"
-    followers: 86028
-    engagement: 305
-    commentsToLikes: 0.018772
-    id: ck8t2spqo0ker0j78rndfx0yn
-    verified: false
-    hashtags: "#renaissancefaire, #hufflepuff, #siblingday, #brbg"
-  - username: "cbashbfit"
+    followers: 97052
+    engagement: 135
+    commentsToLikes: 0.014825
+    id: ck55piciwamct0i11rnumdno1
+    verified: true
+    hashtags: "#crackclimbing, #busylivin, #wingsuitbase, #indiancreek"
+  - username: "jeffersonisme"
     fullname: >-
-      Christina “TWO GUNS” Bashara
+      J E F F E R S O N
+    bio: >-
+      #Coach, @thephoenixeffect 💪🏼 Dreamer 🙇🏼‍♂️ Animal lover 🐱 Fitness pro 🏋🏻‍♀️ Record buyer 🔘 Seeker of answers ❓ Believer in love ♥️ Eternal optimist 🌠
     location: "United States"
-    followers: 19615
-    engagement: 236
-    commentsToLikes: 0.060812
-    id: ck137c32casqi0i191qiaemwg
+    followers: 19076
+    engagement: 205
+    commentsToLikes: 0.039105
+    id: ck6uid67cee2v0j71mudg3rr8
     verified: false
-    hashtags: "#qveenherby, #keepfuckinggoing, #tuffwraps, #stayhome"
-  - username: "phxrunnergurl"
+    hashtags: "#getstrong, #lazy, #motivation, #fitfam"
+  - username: "melanysguydlines"
     fullname: >-
-      Brandilynn☀️🌵
+      Melanysguydlines.com
+    bio: >-
+      Snarky, lifestyle blog. Beauty, 🤘music, fashion, fitness,🏌️‍♀️, UofA board, 🐶 @sirteddybrewski. Shorty Award Winner. @fohr.co Verified. Scottsdale, AZ
     location: "United States"
-    followers: 6643
-    engagement: 610
-    commentsToLikes: 0.176532
-    id: ck0tx5qevi18w0i19nf7uuwrv
+    followers: 298091
+    engagement: 96
+    commentsToLikes: 0.119763
+    id: ck6tqnxf7skez0j715kf3mj0d
     verified: false
-    hashtags: "#healthy, #halfmarathon, #keepgoing, #idhikethat"
-  - username: "madisonsavannahhh"
+    hashtags: "#wildcatforlife, #blondesdoitbetter, #fitfam, #phxblogger"
+  - username: "morganfigge"
     fullname: >-
-      Madison Savannah
+      M O R G A N  F I G G E
+    bio: >-
+      MY LIFE THROUGH PHOTOS • Theme Parks • Movies • Food • Taco Bell •
     location: "United States"
-    followers: 2001
-    engagement: 1445
-    commentsToLikes: 0.042064
-    id: ck5zudhi525iu0i14drkdqxiz
+    followers: 10080
+    engagement: 1028
+    commentsToLikes: 0.035854
+    id: ck9hbppa2hxmf0j78do779hmm
     verified: false
-    hashtags: "#bikinimodel, #hawaiilife, #sunkissed, #freaknight2019"
-  - username: "jamihjones"
-    fullname: >-
-      Jami Jones
-    location: "United States"
-    followers: 13598
-    engagement: 900
-    commentsToLikes: 0.043962
-    id: ck5qdjpxovx1e0i11b0yk872o
-    verified: false
-    hashtags: "#selflove, #iwasparked, #yourewelcome, #socialdistancing"
-  - username: "yogamaris"
-    fullname: >-
-      maris degener
-    location: "United States"
-    followers: 68203
-    engagement: 354
-    commentsToLikes: 0.022349
-    id: ck0u8rs0783vx0i19h7eiobib
-    verified: false
-    hashtags: "#mentalillnessawarenessweek, #la, #iammaris, #20ytoc"
+    hashtags: "#modeling, #fitness, #vote, #disneyworld"
 ---

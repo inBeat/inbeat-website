@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Germany In 2020
 description: >-
-  Find top comedians TikTok influencers in Germany in 2020. Most popular hashtags: #comedian #lachen #arbeit #polizei.
+  Find top comedians TikTok influencers in Germany in 2020. Most popular hashtags: #comedy #foryou #funny #corona.
 platform: TikTok
+hits: 46
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 46 TikTok influencers like this in Germany for you to work with.
 profiles:
-  - username: "comediandirk"
+  - username: "robertwollnik"
     fullname: >-
-      Comedian Dirk
+      Robert Wollnik
+    bio: >-
+      Instagram: robertwollnik Songwriter | Comedian 🎸 🎤😎
     location: "Germany"
-    followers: 209412
-    engagement: 1545
-    commentsToLikes: 0.048812
-    id: ck9rklipttlct0j787dqrqcs5
+    followers: 60700
+    engagement: 2179
+    commentsToLikes: 0.023364
+    id: ckdhtes6j2x750j231xwhsfsm
     verified: false
-    hashtags: "#erde, #men, #tippsgegenlangeweile, #jungsgegenm"
+    hashtags: "#comedy, #robertwollnik, #deutschrap, #songwriting"
+  - username: "saschazille"
+    fullname: >-
+      Sascha Zille
+    bio: >-
+      Stand Up Comedian ✅ 📍Heidelberg CEO of Team SZ👇🏻
+    location: "Germany"
+    followers: 509100
+    engagement: 1712
+    commentsToLikes: 0.030255
+    id: ckbf5ky7junbc0j23cr59km61
+    verified: false
+    hashtags: "#fun, #laugh, #foryou, #foryoupage"
+  - username: "tobifreudenthal"
+    fullname: >-
+      Tobi Freudenthal
+    bio: >-
+      COMEDIAN HIER 🎤⬆️ Show - Reise - Rätsel 😎 Aktiviert die 🔔 LIVE HIER👇🏼
+    location: "Germany"
+    followers: 37100
+    engagement: 1301
+    commentsToLikes: 0.036895
+    id: cka7o8r3g12180i78pqfx5ntv
+    verified: false
+    hashtags: "#fyp, #foryou, #spa, #standupcomedy"
   - username: "maddinschneider"
     fullname: >-
       maddin
+    bio: >-
+      Comedian & Schauspieler 🤪 professioneller Quatschkopp! insta maddin_schneider
     location: "Germany"
-    followers: 484491
-    engagement: 1082
-    commentsToLikes: 0.020504
+    followers: 536000
+    engagement: 1107
+    commentsToLikes: 0.021938
     id: ck81q2nk6ffw10j78wl9txky4
     verified: true
-    hashtags: "#coronferien, #kochen, #schule, #maddina"
-  - username: "blacktaxi_frankfurt"
+    hashtags: "#spr, #gr, #sommer, #natur"
+  - username: "speedlimit_you"
     fullname: >-
-      Yüksel Acun
+      SPEEDLIMIT
+    bio: >-
+      Zauberlehrling und Komiker / magic student and comedian
     location: "Germany"
-    followers: 135780
-    engagement: 826
-    commentsToLikes: 0.015080
-    id: ck81sxpyvtwbq0j78okgqgbp4
-    verified: true
-    hashtags: "#youtube"
+    followers: 7993
+    engagement: 475
+    commentsToLikes: 0.084132
+    id: ckck4sfcbpe4v0j23h2608gvl
+    verified: false
+    hashtags: "#magicvideo, #magician, #cardstrick, #corona"
+  - username: "comediandirk"
+    fullname: >-
+      Comedian Dirk
+    bio: >-
+      Insta: Comediandirk_official hier könnt ihr mit mir Schreiben ⬇️
+    location: "Germany"
+    followers: 231100
+    engagement: 1245
+    commentsToLikes: 0.050734
+    id: ck9rklipttlct0j787dqrqcs5
+    verified: false
+    hashtags: "#comedy, #teamdirk, #duett, #supportyoursport"
   - username: "preusscomedy"
     fullname: >-
       Jan Preuß
+    bio: >-
+      (V)ERZIEHER | Comedian 😂🎙| Schauspieler 📺 | Moderator🎤 l Mehr über mich ⬇️
     location: "Germany"
-    followers: 4263
-    engagement: 688
-    commentsToLikes: 0.058322
+    followers: 20900
+    engagement: 768
+    commentsToLikes: 0.063820
     id: ckal8eaxhj8bu0i789n14a8rz
     verified: false
-    hashtags: "#parodie, #markforster, #preusscomedy, #baby"
-  - username: "mariaclaragroppler"
+    hashtags: "#comedy, #verzieher, #kita, #kinder"
+  - username: "nikolaibinner"
     fullname: >-
-      mariaclaragroppler
+      Nikolai Binner
+    bio: >-
+      Namasté bitches Standup Comedian - Berlin - Insta @Nikolaibinner
     location: "Germany"
-    followers: 4621
-    engagement: 448
-    commentsToLikes: 0.010444
-    id: ck9gpc41v4gva0j78fbfmb6yg
+    followers: 6250
+    engagement: 635
+    commentsToLikes: 0.074684
+    id: ckcuiqtsug6u90j23qd89hblk
     verified: false
-    hashtags: "#losingmymind, #boredinthehouse, #abstand, #foodbaby"
-  - username: "surimendes"
+    hashtags: "#comedy, #viral, #standupcomedy, #dating"
+  - username: "blacktaxi_frankfurt"
     fullname: >-
-      SURI MENDES
+      Yüksel Acun
+    bio: >-
+      🕴🏻✍🏼 Standup-Comedian/Autor 👆🏻Instagram und Youtube: Blacktaxi_Frankfurt
     location: "Germany"
-    followers: 10365
-    engagement: 895
-    commentsToLikes: 0.064939
-    id: ck8nl9s35iz6v0j78zku012pc
-    verified: false
-    hashtags: "#allesgeben, #truestory, #comedy, #comedian"
-  - username: "1live"
-    fullname: >-
-      1LIVE
-    location: "Germany"
-    followers: 354282
-    engagement: 1529
-    commentsToLikes: 0.007260
-    id: ck9go81yq003k0j78msvrfm20
+    followers: 188900
+    engagement: 1077
+    commentsToLikes: 0.012869
+    id: ck81sxpyvtwbq0j78okgqgbp4
     verified: true
-    hashtags: "#foryoupage, #obdachlose, #yoga, #oezcancosar"
-  - username: "david_manera"
+    hashtags: "#blacktaxifrankfurt, #foryou, #legauflan, #legauflanistmeinbaby"
+  - username: "mikehager_official"
     fullname: >-
-      David Manera
+      Mike Hager
+    bio: >-
+      Früher Comedian (Nullinger), heute Autor, Erfolgsmentor, Geldguru😉mit Spaß
     location: "Germany"
-    followers: 16927
-    engagement: 998
-    commentsToLikes: 0.030018
-    id: ckaildzy3nnsd0i784ps5b4wt
+    followers: 8803
+    engagement: 815
+    commentsToLikes: 0.015880
+    id: ckb99juo7tx300j23c75ip5ym
     verified: false
-    hashtags: "#motivation, #reporter, #freddy, #nail"
-  - username: "lilianviegas"
-    fullname: >-
-      Lilian Viegas
-    location: "Germany"
-    followers: 13509
-    engagement: 1328
-    commentsToLikes: 0.015895
-    id: ck9pm21p774km0j78l1q5mivd
-    verified: false
-    hashtags: "#daheim, #wgtalk, #langeweile, #tiktokparody"
-  - username: "xxiii.iii.mcmxciv"
-    fullname: >-
-      xxiii.iii.mcmxciv
-    location: "Germany"
-    followers: 2659
-    engagement: 342
-    commentsToLikes: 0.021607
-    id: cka6ayuooyals0i78b9usdlzd
-    verified: false
-    hashtags: "#morgenlatte, #hape, #ausgangsbeschr, #kino"
+    hashtags: "#funny, #comedy, #wedontsay, #beer"
 ---

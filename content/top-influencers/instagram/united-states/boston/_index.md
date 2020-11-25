@@ -1,32 +1,29 @@
 ---
 title: Top 10 Instagram Influencers In Boston In 2020
 description: >-
-  Find top Instagram influencers in Boston in 2020. Most popular hashtags: #linkinbio #fightcovid19 #teamcanon #wizkhalifa.
+  Find top Instagram influencers in Boston in 2020. Most popular hashtags: #boston #liketkit #ad.
 platform: Instagram
+hits: 2033
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 2033 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "paytonmoran"
+  - username: "maggiemacdonald"
     fullname: >-
-      Payton Moran
+      Maggie MacDonald
+    bio: >-
+      Boston
     location: "United States"
-    followers: 12653
-    engagement: 1133
-    commentsToLikes: 0.024203
-    id: ck6tq29zlp0580j717tormoue
+    followers: 192121
+    engagement: 1431
+    commentsToLikes: 0.004493
+    id: ck5zt6mnrzu670i14y1jc91xm
     verified: false
-    hashtags: "#thebachelor"
-  - username: "tsavvv"
-    fullname: >-
-      Tim Savage
-    location: "United States"
-    followers: 3953
-    engagement: 1377
-    commentsToLikes: 0.047049
-    id: ck5hglnyy3fot0i11jcpnumal
-    verified: false
-    hashtags: "#rossnorman, #linkinbio"
+    hashtags: ""
   - username: "boston"
     fullname: >-
       Boston.com
+    bio: >-
+      Share your great shots of Boston using #bostondotcom and #HowToBoston and you could be featured.
     location: "United States"
     followers: 350783
     engagement: 210
@@ -34,74 +31,100 @@ profiles:
     id: ck0vzq4xhacl00i19eaf52et9
     verified: true
     hashtags: ""
-  - username: "sabrina.uyenluu"
+  - username: "tsavvv"
     fullname: >-
-      SABRINA LUU®🌻Style & Travel
+      Tim Savage
+    bio: >-
+      Boston
     location: "United States"
-    followers: 2529
-    engagement: 2301
-    commentsToLikes: 0.154811
-    id: ck5zvm86g4hzf0i14en974lpn
+    followers: 3953
+    engagement: 1377
+    commentsToLikes: 0.047049
+    id: ck5hglnyy3fot0i11jcpnumal
     verified: false
-    hashtags: "#monslay, #tbthursday, #covid2019"
+    hashtags: "#rossnorman"
+  - username: "laanuhh"
+    fullname: >-
+      Lana Nguyen ❥ Travel
+    bio: >-
+      📍Boston Explore↟Yoga↟Create ≫ ≫ Roam the roads Wander the world ≪ ≪ Travel Ambassador➳@contiki $100 off code CONTIKILANA100
+    location: "United States"
+    followers: 20216
+    engagement: 1061
+    commentsToLikes: 0.105971
+    id: ck5hfws99zqsf0i11x1vcfr75
+    verified: false
+    hashtags: "#chooseyourmindset, #ad, #imafan, #mobostonrenewed"
   - username: "liliibooo"
     fullname: >-
-      Lili ✿
+      Lili ♡
+    bio: >-
+      Boston @lavishhlii @liliiboo_
     location: "United States"
-    followers: 25675
-    engagement: 1219
-    commentsToLikes: 0.047452
+    followers: 31047
+    engagement: 1093
+    commentsToLikes: 0.043489
     id: ckap6p6sogue50i7809uee5ls
     verified: false
-    hashtags: "#grandemascara, #katesomerville, #inhbabe, #acebeaute"
-  - username: "chchiclifestyle"
+    hashtags: "#explorepage, #ad, #explore, #alamourthelabel"
+  - username: "_happygocurly_"
     fullname: >-
-      Nikita Chauhan
+      Ailsa (A-L-SA)
+    bio: >-
+      Certified nurse midwife(CNM) 👶🏽 From Boston to Miami📍 https://www.liketoknow.it/_happygocurly_ happygocurlyae@gmail.com #milspouse #happygocurlywhw
     location: "United States"
-    followers: 15461
-    engagement: 809
-    commentsToLikes: 0.172808
-    id: ck5pzfpp60r2t0i11h470hwrt
+    followers: 39474
+    engagement: 516
+    commentsToLikes: 0.061465
+    id: ck138blq1ffhy0i19laukykwv
     verified: false
-    hashtags: "#indianjewelry, #novababe, #springdress, #amazonfind"
-  - username: "anthonybrown13"
+    hashtags: "#ltkcurves, #liketkit, #ltkstyletip, #ltkunder50"
+  - username: "lilywunders"
     fullname: >-
-      A13
+      Lily | Lily Wunders
+    bio: >-
+      📍Hong Kong 香港🇭🇰 - based | Boston native 🇺🇸 ✨Traveler✨Content Creator Read my latest!!
     location: "United States"
-    followers: 12732
-    engagement: 1969
-    commentsToLikes: 0.048234
-    id: ck0uerg1klysk0i19s8yv0ard
-    verified: true
-    hashtags: "#houstonskwad, #jerome, #scoducks"
-  - username: "madelinestarr7"
-    fullname: >-
-      Madeline Starr
-    location: "United States"
-    followers: 118979
-    engagement: 416
-    commentsToLikes: 0.055296
-    id: ck15rzzfhajrf0i194gd4ags6
+    followers: 6350
+    engagement: 1453
+    commentsToLikes: 0.099409
+    id: ck8t9p6z8ou1f0j789mkksvxh
     verified: false
-    hashtags: "#liveinfamously, #19crimespartner, #sponsoredbyturo, #nhl"
-  - username: "tylerabron"
+    hashtags: "#hongkongtravel, #hongkongview, #exploreeverywhere, #discoverhongkong"
+  - username: "kristinhhj"
     fullname: >-
-      TYLER 🦋 ABRON
+      Kristin Twomey ⭐️
+    bio: >-
+      💍 PJT 👶🏼 Tighe’s mom 🐶 pitbull mom x 2 💫 owner of @shophollishayes 📍Boston 💌 kristin@hollishayes.com
     location: "United States"
-    followers: 466774
-    engagement: 409
-    commentsToLikes: 0.030584
-    id: ck0tuimfw7bv10i19y82wyzv7
+    followers: 8083
+    engagement: 919
+    commentsToLikes: 0.094130
+    id: ckaoz1iu3jz6q0i78g3r0be7a
     verified: false
-    hashtags: "#captainhookchallenge, #solidbitch, #bangenergy, #wolfpack"
-  - username: "hannah_nyssa"
+    hashtags: "#babyty, #liketkit, #ltkfamily, #nationalsonsday"
+  - username: "allldatjazz"
     fullname: >-
-      Hannah Sevilla
+      Jazz
+    bio: >-
+      oVo ♏ 🦂Boston🍀 ICU RN👩🏾‍⚕️🏥 🏫 Mommy 👦🏾👶🏾👶🏾 @hichairchronicles
     location: "United States"
-    followers: 6573
-    engagement: 1879
-    commentsToLikes: 0.049330
-    id: ck13abe8jpkdi0i19gvqw9n49
+    followers: 2414
+    engagement: 1772
+    commentsToLikes: 0.155085
+    id: ckap78l8lj0ok0i78y640587h
     verified: false
-    hashtags: "#rawphotography, #fotoart, #portraitvision, #portrature"
+    hashtags: "#tresequis, #xmen, #boymom, #babyboy"
+  - username: "chasingdrwhite"
+    fullname: >-
+      𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐚 𝐌. 𝐖𝐡𝐢𝐭𝐞
+    bio: >-
+      Boston 📍 Full time DMD student 👩🏽‍⚕️, Full time plant mom (10) 🌿 𝒟𝓇. 𝒲𝒽𝒾𝓉𝑒, in the making 🦄 1913 🔺 UCF AlumKnight
+    location: "United States"
+    followers: 2200
+    engagement: 2541
+    commentsToLikes: 0.071125
+    id: ckf5w8nzyr93e0j23twejie4i
+    verified: false
+    hashtags: "#naturalhair, #twa, #boston, #studentdoctor"
 ---

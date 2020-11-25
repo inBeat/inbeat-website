@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top fashion Instagram influencers in Phoenix in 2020. Most popular hashtags: #phoenix #fashion #outfit #summer.
+  Find top fashion Instagram influencers in Phoenix in 2020. Most popular hashtags: #fashion #explore #fitness #bikini.
 platform: Instagram
+hits: 109
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 109 Instagram influencers like this in Phoenix, United States for you to connect with.
 profiles:
-  - username: "curtbangz"
+  - username: "plutomami"
     fullname: >-
-      Curtis Okafor
+      P L U T O  (Only Account)
+    bio: >-
+      1908 | PHX | Loc’d | CoolKicks | PlantMom | MUVA Owner: @marymamaorganics
     location: "United States"
-    followers: 6192
-    engagement: 778
-    commentsToLikes: 0.027470
-    id: ck8t0a2asrcom0j78ep2b646u
+    followers: 146294
+    engagement: 324
+    commentsToLikes: 0.018441
+    id: ck5cj2bjstu4j0i11egplvotf
     verified: false
-    hashtags: "#clearskin, #thelookout, #wescoutusa, #sedonahiking"
-  - username: "beautifulomar"
+    hashtags: "#cozyvibes, #ink, #wcw, #loclady"
+  - username: "marctaraz"
     fullname: >-
-      Ayan  🇸🇴🇨🇦
+      Marc Steiner
+    bio: >-
+      Photographer & Videographer 📸🎥 📍based in Phoenix, AZ #phoenixphotographer #arizonaphotographer Buy my prints here👇🏼
     location: "United States"
-    followers: 15555
-    engagement: 732
-    commentsToLikes: 0.027005
-    id: ck15qruft4bu40i19lhudacv9
+    followers: 3567
+    engagement: 936
+    commentsToLikes: 0.075961
+    id: ck0vwwklevxw70i1941r0r8va
     verified: false
-    hashtags: "#1minutemakeup, #makeupinspo, #hotdropzverifiedmua, #datenight"
+    hashtags: "#youtuber, #photography, #youtube, #arizonaphotographer"
   - username: "amandavalentine"
     fullname: >-
       Amanda Valentine
+    bio: >-
+      I lead a magical life of✌🏻❤️🌙️💡🌵📚 and ☕️! New England Born: Witch, Photo Therapist, Student Living in the desert! 📍Phoenix, AZ © Amanda Valentine
     location: "United States"
-    followers: 14363
-    engagement: 323
-    commentsToLikes: 0.074003
+    followers: 14352
+    engagement: 344
+    commentsToLikes: 0.066822
     id: ck0w1mrwnk3t20i19tnazvi14
     verified: false
-    hashtags: "#laurenwk, #blush, #lightandshadow, #gelsfordays"
-  - username: "cassidymendezona"
+    hashtags: "#redrumcollaboration, #staygold, #witchesofinstagram, #promseason"
+  - username: "cherylwalshfineart"
     fullname: >-
-      Cassidy Mendezona
+      Cheryl Walsh Fine Art
+    bio: >-
+      🤩 Calendars 50% off on my website. https://ctwalsh4.myportfolio.com/2020-calendar
     location: "United States"
-    followers: 33005
-    engagement: 201
-    commentsToLikes: 0.117596
-    id: ckaoss42nsupf0i785wryg7se
+    followers: 35954
+    engagement: 318
+    commentsToLikes: 0.019444
+    id: ck13c6o6yyvqi0i19l9e9qqr3
     verified: false
-    hashtags: "#immunetihealth, #cbd, #cbdoil, #immuneti"
+    hashtags: "#mermaidtail, #underwater, #wallart, #mermaidhair"
+  - username: "leah.dryer"
+    fullname: >-
+      Leah Dryer  ♥
+    bio: >-
+      ✨ Fashion + Lifestyle blogger 🌵 Phoenix AZ 💍/ 📷 @tyler_sayre_photography ↓ SHOP my feed ↓
+    location: "United States"
+    followers: 18298
+    engagement: 193
+    commentsToLikes: 0.249417
+    id: ck8t8gep3kdkl0j78e33bx58l
+    verified: false
+    hashtags: "#liketkit, #ltkunder50, #rdbabe, #arizonablogger"
+  - username: "alexiistherese"
+    fullname: >-
+      alexis (ali) castillo
+    bio: >-
+      fashion | beauty | travel 📍 phoenix, arizona wifey to @bryanadamc ♥️ contact: alexiistherese@gmail.com i’m on Youtube too! ⬇️
+    location: "United States"
+    followers: 135487
+    engagement: 388
+    commentsToLikes: 0.012541
+    id: ck0vw200krqvn0i19jxq9yp8w
+    verified: false
+    hashtags: "#revolveme, #style, #liketkit, #fallfashion"
+  - username: "fenoree"
+    fullname: >-
+      Fenori ✿💙🏹😪 hibernating
+    bio: >-
+      heya im fen!! soft boys are my jam i spread them on my toast every morning 🥛🐤 « 20↑ || infp || she/her » #fenoriocs
+    location: "United States"
+    followers: 9467
+    engagement: 2295
+    commentsToLikes: 0.019423
+    id: ckapb3li0yg9l0i784orm4034
+    verified: false
+    hashtags: "#animeboy, #animeart, #fe3h, #fireemblem"
   - username: "madisonsavannahhh"
     fullname: >-
       Madison Savannah
+    bio: >-
+      📚 University of Oregon 📍 AZ ✨ good vibes only ☕️ DBAZ 🔜 Phoenix Lights 👙 @arroganz_fashion
     location: "United States"
-    followers: 2001
-    engagement: 1445
-    commentsToLikes: 0.042064
+    followers: 2050
+    engagement: 1443
+    commentsToLikes: 0.040374
     id: ck5zudhi525iu0i14drkdqxiz
     verified: false
-    hashtags: "#bikinimodel, #hawaiilife, #sunkissed, #freaknight2019"
-  - username: "sydneymcmodel"
+    hashtags: "#seaside, #bikini, #fitnessmotivation, #sunkissed"
+  - username: "acraftgirl"
     fullname: >-
-      Sydney
+      Alena
+    bio: >-
+      Alt. Angle Girl ... Arizona 🌵 22 yr old craft everything lover 📦
     location: "United States"
-    followers: 10818
-    engagement: 1287
-    commentsToLikes: 0.035205
-    id: ck0ucbmtkgho00i190mv0j02e
+    followers: 22639
+    engagement: 1031
+    commentsToLikes: 0.038886
+    id: ck6u6vb5hhxkt0j71mr12jiax
     verified: false
-    hashtags: "#newface, #teengirl, #glitter, #holiday"
-  - username: "sakuraconsidine"
+    hashtags: "#beerhikechill, #hiking, #beerbooty, #ipa"
+  - username: "curtbangz"
     fullname: >-
-      Sakura Considine • phoenix, az
+      Curtis Okafor
+    bio: >-
+      Travel, Model ,Fashion, Lifestyle🏀 Kansas City ➡️ Phoenix 🌵 🇳🇬 🇬🇾 NV: @tngmodels
     location: "United States"
-    followers: 37975
-    engagement: 548
-    commentsToLikes: 0.063294
-    id: ck0udxy5jk8ca0i19z7pt3bpl
+    followers: 6225
+    engagement: 715
+    commentsToLikes: 0.046474
+    id: ck8t0a2asrcom0j78ep2b646u
     verified: false
-    hashtags: "#archives, #sundays, #happyweekend, #omgimturning30"
-  - username: "withlovefromkimberly"
-    fullname: >-
-      Kimberly Jo 🤓
-    location: "United States"
-    followers: 21456
-    engagement: 327
-    commentsToLikes: 0.342945
-    id: ck55on2u78p5j0i11mmtcq9mm
-    verified: false
-    hashtags: "#happymothersday, #festivaloutfit, #distressedjeans, #fedorahat"
-  - username: "msppj"
-    fullname: >-
-      Payal
-    location: "United States"
-    followers: 24027
-    engagement: 272
-    commentsToLikes: 0.137027
-    id: ck0vy7lum2mb00i191fcxuw7g
-    verified: true
-    hashtags: "#saswatisen, #devanand, #kareenakapoor, #rekha"
-  - username: "stylesrevealed"
-    fullname: >-
-      SUSAN
-    location: "United States"
-    followers: 34703
-    engagement: 319
-    commentsToLikes: 0.051518
-    id: ck5c23bwtwguc0i111agtwl57
-    verified: false
-    hashtags: "#quarantine, #netflix, #wishfulthinking, #happyfriday"
+    hashtags: "#tulum, #phoenix, #darkskinmen, #malemodel"
 ---

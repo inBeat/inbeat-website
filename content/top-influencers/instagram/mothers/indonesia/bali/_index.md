@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Bali In 2020
 description: >-
-  Find top mothers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #healthy #baliindonesia.
+  Find top mothers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #benatureal.
 platform: Instagram
+hits: 23
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 23 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "fredericlagrange"
+  - username: "gusyuda"
     fullname: >-
-      Frédéric Lagrange
+      Ida Bagus Adi Dharma Yuda
+    bio: >-
+      @balibarong_official Click Link : NEW SINGLE SEJUJURNE
     location: "Indonesia"
-    followers: 21227
-    engagement: 527
-    commentsToLikes: 0.013653
-    id: ck6uei4p6r2500j7192avuyrw
+    followers: 57386
+    engagement: 218
+    commentsToLikes: 0.024573
+    id: ckaoxa6zxcgm10i78k5vohe8e
     verified: false
-    hashtags: "#pamir, #mongoliathebook, #eastgobi, #kyrgyz"
-  - username: "alenika_pro"
+    hashtags: "#mewali, #lagubali2020, #ibu, #surprisinglybata"
+  - username: "tanialitadevi"
     fullname: >-
-      🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
+      TANIA LITA DEVI | Bali
+    bio: >-
+      /sīˈkäləjist/ - mother - content creator 📍Bali, Indonesia
     location: "Indonesia"
-    followers: 51481
-    engagement: 91
-    commentsToLikes: 0.035807
-    id: ck5hokoj1pq850i11manr37sm
+    followers: 59266
+    engagement: 137
+    commentsToLikes: 0.010115
+    id: ck0vy73oe2jro0i1934djc7ni
     verified: false
-    hashtags: "#modelbali, #balitravel, #pool, #blogger"
+    hashtags: "#nataliakiantoro, #bgwomen, #weshopatvelvet, #myvaia"
+  - username: "oliastepanenco"
+    fullname: >-
+      Olia Stepanenco
+    bio: >-
+      📍🄱🄰🄻🄸 🌕🌖🌗🌘🌑 MOTHER OF👉@style_retreat_bali_shop 🅢🅣🅨🅛🅘🅢🅣 🅟🅔🅡🅢🅞🅝🅐🅛 🅢🅗🅞🅟🅟🅔🅡 🅒🅞🅝🅣🅔🅝🅣 🅜🅐🅝🅐🅖🅔🅡
+    location: "Indonesia"
+    followers: 32387
+    engagement: 206
+    commentsToLikes: 0.051865
+    id: ck6tv2kzujtba0j71qzwqcl2v
+    verified: false
+    hashtags: ""
   - username: "dominiquediyose"
     fullname: >-
       Dominique Diyose
+    bio: >-
+      "Beware, Lion Roars" Mother. Wife. Nature Enthusiast🌿 @mahametaskin - @supermodelsproject - @baliswap for #sustainability 📍 Bali
     location: "Indonesia"
-    followers: 176121
-    engagement: 107
-    commentsToLikes: 0.017630
+    followers: 176069
+    engagement: 66
+    commentsToLikes: 0.010226
     id: ck8sws7njf2190j780aisvkth
     verified: true
-    hashtags: "#baliorganicskincare, #gilimeno, #indonesia, #slowmorning"
-  - username: "ellaputri13"
+    hashtags: "#benatureal, #sakajannunggala, #dirumahaja, #throwbackthursday"
+  - username: "stephbaier"
     fullname: >-
-      אהבתי
+      Steph Baier | Bali Model
+    bio: >-
+      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
     location: "Indonesia"
-    followers: 31398
-    engagement: 155
-    commentsToLikes: 0.104245
-    id: ck139547xjkop0i19j4yn50co
+    followers: 6001
+    engagement: 642
+    commentsToLikes: 0.045244
+    id: ck8syl5qql5jw0j781h8foqv1
     verified: false
-    hashtags: "#leicaq, #jesusbless, #bursa, #preciousmoments"
-  - username: "jaydekemp12"
+    hashtags: ""
+  - username: "dewimarlon"
     fullname: >-
-      jaydekemp12
+      Dewi Marlon
+    bio: >-
+      🔹Tidak punya akun lain 👨‍👩‍👧‍👦Wife & Mother 📩Endorse DM
     location: "Indonesia"
-    followers: 9303
-    engagement: 743
-    commentsToLikes: 0.033644
-    id: ck5hjgegdgkxt0i11fwbj91ae
+    followers: 199295
+    engagement: 122
+    commentsToLikes: 0.026315
+    id: ck13alfwuqydm0i19pnozexic
     verified: false
-    hashtags: "#gymdaily, #allblackeverything, #luxuryhotel, #ithinkimturningjapanese"
+    hashtags: "#beach, #bali, #nusadua, #kembalikebali"
   - username: "agathasahell"
     fullname: >-
       Ａｇａｔｈａ☽
+    bio: >-
+      Mother ♡ Freelance model | Social media manager @minicubs__ @mauloabali Inquiries: agatha@balimodelagency.com Bali based
     location: "Indonesia"
-    followers: 20839
-    engagement: 426
-    commentsToLikes: 0.018027
+    followers: 20082
+    engagement: 349
+    commentsToLikes: 0.017949
     id: ck6uca1hfedrv0j71wwi2biq3
     verified: false
-    hashtags: "#earthday, #haveagoodweekend, #quarantineandchill, #eidmubarak"
-  - username: "farwalikazmi"
+    hashtags: "#eidmubarak, #happybdaytome"
+  - username: "traveltoescapes"
     fullname: >-
-      Farwa Ali
+      ~travel
+    bio: >-
+      LOVE MOTHER NATURE BE FIERCE , BE YOU ~ Traveling since January 2019 📧: toescapescontacttravel@gmail.com
     location: "Indonesia"
-    followers: 32307
-    engagement: 148
-    commentsToLikes: 0.030868
-    id: ck0w2bv48nktp0i19wtcdverb
+    followers: 22394
+    engagement: 160
+    commentsToLikes: 0.028492
+    id: ck5zu2ibg1k5f0i14id81i7c8
     verified: false
-    hashtags: "#bali, #meat20challenge, #savage, #staypositive"
-  - username: "tatianakovylina"
+    hashtags: "#bathflower, #wheretogonext, #placestogo, #tropicalisland"
+  - username: "subamircea"
     fullname: >-
-      Tatiana Kovylina
+      Mircea Alin Suba
+    bio: >-
+      Actor. Model. MA/Mother Agency: @mint_mgmt_nyc Model Inquiries: Nigel@mintmanagement.us PLACE - GER INDEPENDENT - ITA
     location: "Indonesia"
-    followers: 16461
-    engagement: 229
-    commentsToLikes: 0.030667
-    id: ck0w2ncnlp8q20i1906fr1fro
+    followers: 2695
+    engagement: 1198
+    commentsToLikes: 0.040069
+    id: ckap81qt5mg3n0i78lbw0lulv
     verified: false
-    hashtags: "#bali, #siloulondon, #work, #womenofsilou"
-  - username: "tanialitadevi"
+    hashtags: "#portraitphotography, #damanstyle, #mirceasuba, #portraitphoto"
+  - username: "nudegem.official"
     fullname: >-
-      PUTU TANIA LITA DEVI
+      PhotoProject by Sammy Galinsky
+    bio: >-
+      📸We capture stories of 1001 female souls like Scheherazade's Arabian Nights 💃Backstage in @sammygalinsky 📚Order the Book NUDEGEM. MOTHER ROCKS📖
     location: "Indonesia"
-    followers: 57916
-    engagement: 185
-    commentsToLikes: 0.013629
-    id: ck0vy73oe2jro0i1934djc7ni
+    followers: 145260
+    engagement: 321
+    commentsToLikes: 0.034775
+    id: ck5cb5pkses7x0i11t8bychsg
     verified: false
-    hashtags: "#rahajengmagicmirror, #label8summer2020, #ootd, #phototips"
-  - username: "nidanatsir"
-    fullname: >-
-      Hj.Nida Amalia Natsir
-    location: "Indonesia"
-    followers: 39012
-    engagement: 115
-    commentsToLikes: 0.070089
-    id: ck5zoxuz2rky00i14b5jhxqo9
-    verified: false
-    hashtags: "#waerebokids, #positivemindset, #wordlhijabers, #keepcalm"
+    hashtags: "#baliparadise, #sammygalinskyphoto, #sammygalinskyphotography, #bali"
 ---

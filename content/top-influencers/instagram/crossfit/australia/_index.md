@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Australia In 2020
 description: >-
-  Find top crossfit Instagram influencers in Australia in 2020. Most popular hashtags: #grateful #bali #crossfit #recovery.
+  Find top crossfit Instagram influencers in Australia in 2020. Most popular hashtags: #training #snatch #crossfit.
 platform: Instagram
+hits: 67
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 67 Instagram influencers like this in Australia for you to contact.
 profiles:
-  - username: "juiceboxxofficial"
+  - username: "harmzzii"
     fullname: >-
-      JuiceBoxx 💋
+      ♾
+    bio: >-
+      LivnLife • Māori’n’Aussie • Dancer ✨ @officialrequestdancecrew @heartbreakconditioning @crossfitpersonalbest
     location: "Australia"
-    followers: 19162
-    engagement: 775
-    commentsToLikes: 0.035664
-    id: ck5zsu6qtz71t0i14vhgauquy
+    followers: 7255
+    engagement: 1299
+    commentsToLikes: 0.047054
+    id: ck6u6l18ig7kl0j71n1kfn4av
     verified: false
-    hashtags: "#juicesmakeupclass, #pink, #canadasdragrace, #rainonme"
+    hashtags: "#jlosuperbowl2020, #superbowlliv2020, #untilnexttime, #ultrashred"
   - username: "joshwu7"
     fullname: >-
-      Joshua Wu
+      Josh Wu
+    bio: >-
+      🇦🇺🏋🏻‍♂️ 81kg weightlifter (work in progress) ASCA Lvl 1 Coach AWF lvl 2 Coach Co owner @hrdkawstrength Coach @crossfit_2147 @pbphysio Athlete
     location: "Australia"
-    followers: 2333
-    engagement: 957
-    commentsToLikes: 0.087873
+    followers: 2451
+    engagement: 1059
+    commentsToLikes: 0.080535
     id: ck0ue8daekpb60i19ic29g3th
     verified: false
-    hashtags: "#cleandeadlift, #141kg, #grateful, #greatteam"
-  - username: "tara.nicole.jenkins"
+    hashtags: "#nikeromaleos4, #hrdkawweightlifting, #pb, #cleanandjerk"
+  - username: "jaycrouch_"
     fullname: >-
-      TARA JENKINS
+      Jay Crouch
+    bio: >-
+      🇦🇺🤟 2020 CrossFit Games Athlete @reebokau @alphafit_aus @fitaidaus @thefortemethod
     location: "Australia"
-    followers: 108440
-    engagement: 480
-    commentsToLikes: 0.015039
-    id: ckap1zpsuwr7q0i78uhsvjht0
+    followers: 7998
+    engagement: 608
+    commentsToLikes: 0.018075
+    id: ck6tsi7bd4wmb0j71m1yoq3rz
     verified: false
-    hashtags: "#militarytraining, #grinddontstop, #musclegain, #fatloss"
-  - username: "rob_forte"
+    hashtags: "#gamestraining, #individual, #crossfitgames, #reebok"
+  - username: "escuchogrillos"
     fullname: >-
-      Rob Forte
+      JORDAN HOWKER
+    bio: >-
+      • Smile to life • 📍 VALENCIA 🇪🇸/ LONDON 🇬🇧 ❤️ Sydney🇦🇺🏄🏼‍♂️🦘 🏋🏼‍♂️ CrossFiter 🌏 Traveler
     location: "Australia"
-    followers: 50046
-    engagement: 111
-    commentsToLikes: 0.015591
-    id: ck55oyzov9fm60i11u0zat5sf
+    followers: 8142
+    engagement: 534
+    commentsToLikes: 0.026573
+    id: ckf5m67ofsg260j23pfu4cz5c
     verified: false
-    hashtags: "#reebokau, #nanox, #10years, #coaching"
-  - username: "jamesnewbury"
+    hashtags: "#dinner, #tamaramabeach, #motivation, #confortable"
+  - username: "wykieetsebeth"
     fullname: >-
-      James Newbury • Adelaide
+      Wykie Etsebeth
+    bio: >-
+      Husband 🕺🏻 | Dad 👨‍👧 | Videographer 📹 | Photographer 📸 | CrossFiter 🏋️‍♂️ | Traveler ✈️
     location: "Australia"
-    followers: 155035
-    engagement: 267
-    commentsToLikes: 0.008159
-    id: ck0vuzr35mvvf0i19jyxjbod3
-    verified: true
-    hashtags: "#crossfit, #dashproblems, #soulfit, #soulstrong"
-  - username: "maddiesturt"
-    fullname: >-
-      Madeline Sturt
-    location: "Australia"
-    followers: 42041
-    engagement: 250
-    commentsToLikes: 0.007802
-    id: ck5zl34kwkncu0i14huw52skk
+    followers: 11618
+    engagement: 318
+    commentsToLikes: 0.027210
+    id: ck6tn928v9dh70j71i043u2nf
     verified: false
-    hashtags: "#bahamas, #trueathletw, #newnew, #crossfitgames"
-  - username: "mitchdavis89"
+    hashtags: ""
+  - username: "3denx"
     fullname: >-
-      Mitch Davis
+      EDEN BASTIAANSE⚡️
+    bio: >-
+      nz || crossfit coach 🏋🏽‍♀️@64fitness_northcanterbury • • • 👻 eden2097 @edenx_makeup ♡
     location: "Australia"
-    followers: 2142
-    engagement: 824
-    commentsToLikes: 0.065559
-    id: ck5hd2x62l8cl0i116l02kgxe
+    followers: 7455
+    engagement: 1230
+    commentsToLikes: 0.008074
+    id: ckap0jjpvqkyo0i78oc8xp4ah
     verified: false
-    hashtags: "#icebath, #grateful, #cfkrecovery, #zero"
+    hashtags: "#danielwellington, #larry"
   - username: "petersoulis"
     fullname: >-
       PETER SOULIS
+    bio: >-
+      Photographer: Melb - Syd. 🇦🇺 info@petersoulis.com Denim Diaries Series Project. Dad Crossfitter & Coffee drinker
     location: "Australia"
-    followers: 40384
-    engagement: 132
-    commentsToLikes: 0.017100
+    followers: 40300
+    engagement: 128
+    commentsToLikes: 0.025183
     id: ck6uhbgny85cu0j71utdomp1o
     verified: false
     hashtags: "#facetimephotoshoot"
   - username: "urbanfarmer2570"
     fullname: >-
       Justin O'brien
+    bio: >-
+      Gardener 🥕 Beekeeper 🐝 Dad 👨‍👩‍👧‍👧 CrossFitter 🏋🏻‍♂️ Gardening/beekeeping tips for those who want to grow their own food @hoselinkofficial Ambassador
     location: "Australia"
-    followers: 24094
-    engagement: 280
-    commentsToLikes: 0.033844
+    followers: 26047
+    engagement: 242
+    commentsToLikes: 0.033842
     id: ck8t9vxjbpjbl0j787b9z0muz
     verified: false
-    hashtags: "#beekeeper, #organicgardener, #lemon, #sustainable"
-  - username: "rickygarard"
+    hashtags: "#allotment, #thehappygardeninglife, #veggiepatch, #hoselink"
+  - username: "roycey_boy"
     fullname: >-
-      Ricky Garard
+      Royce Dunne
+    bio: >-
+      Jesus first. CF Games individual 18; CF Total event winner. CF Games team 16/20. Head Coach Crossfit Torian, Australia. Father of 2, Husband of 1.
     location: "Australia"
-    followers: 72610
-    engagement: 273
-    commentsToLikes: 0.016076
-    id: ck5pvvcvcjtgw0i11yit7wxsm
+    followers: 98138
+    engagement: 355
+    commentsToLikes: 0.017100
+    id: ck6twhi6ps0br0j71yfslf85m
     verified: false
-    hashtags: "#crossfit, #gogetit, #fitness, #fitnessholiday"
+    hashtags: "#workout, #competitor, #homegym, #snatch"
+  - username: "davedriskell"
+    fullname: >-
+      Dave Driskell
+    bio: >-
+      Owner/Educator: @crossfitwanderlust_bali & @crossfitbyronbay IF3 WORLD CHAMP (40-45) 2019 FITTEST MALE ASIA (35-40) 2017 🏋🏽 Reebok BALI RETREATS 🔥⬇️
+    location: "Australia"
+    followers: 95525
+    engagement: 161
+    commentsToLikes: 0.031108
+    id: ck5cfcrhzmp8v0i11jcscjv7j
+    verified: false
+    hashtags: "#coffeewalks, #backyardboogie, #murph, #wanderlustwalks"
 ---

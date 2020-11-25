@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Brazil In 2020
 description: >-
-  Find top travel TikTok influencers in Brazil in 2020. Most popular hashtags: #sunset #beach #foryourpage #tiktokfood.
+  Find top travel TikTok influencers in Brazil in 2020. Most popular hashtags: #foryou #tiktoktravel #fyp #travel.
 platform: TikTok
+hits: 207
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database holds 207 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "leandrodelarue"
     fullname: >-
       Leandro Delarue
+    bio: >-
+      TRAVELLER 🔹 EXPERIENCES HUNTER Curious mind, passionate heart, restless soul.
     location: "Brazil"
-    followers: 2716
-    engagement: 1087
-    commentsToLikes: 0.062562
+    followers: 2677
+    engagement: 1064
+    commentsToLikes: 0.060675
     id: ckaibr78phkaw0i78s6p4o3gw
     verified: false
-    hashtags: "#vacation, #porto, #dailylife, #brooklyn"
-  - username: "bernardovillasboas"
-    fullname: >-
-      Bernardo Villas Bôas
-    location: "Brazil"
-    followers: 6086
-    engagement: 1146
-    commentsToLikes: 0.032434
-    id: ckacn6ibtmm8h0i78xmwvvtxs
-    verified: false
-    hashtags: "#waves, #hike, #beautiful, #50centchallenge"
-  - username: "colorfulworldtravel"
-    fullname: >-
-      colorfulworldtravel
-    location: "Brazil"
-    followers: 5429
-    engagement: 97
-    commentsToLikes: 0.082078
-    id: ckacn6hbumly60i78uwy539ti
-    verified: false
-    hashtags: "#thisone, #memorias, #foryourpage, #ghosttown"
-  - username: "caiotravels"
-    fullname: >-
-      caiotravels
-    location: "Brazil"
-    followers: 11380
-    engagement: 1300
-    commentsToLikes: 0.017321
-    id: ck9v9lqwce9v70j784lrvf1rl
-    verified: false
-    hashtags: "#noronha, #alagoas, #paradise, #panamacitybeach"
-  - username: "lucasmartins"
-    fullname: >-
-      Lucas Martins 
-    location: "Brazil"
-    followers: 901261
-    engagement: 1469
-    commentsToLikes: 0.015179
-    id: ck8j853s9hbss0j78io5mosxm
-    verified: true
-    hashtags: "#fish, #drone, #caribe, #ocean"
+    hashtags: "#tiktoktravel, #viagem, #nature, #peru"
   - username: "desanta_official"
     fullname: >-
       De Santa
+    bio: >-
+      brazilian singer traveling the world!subscribe to my new channel !! Thank you!!
     location: "Brazil"
-    followers: 52852
-    engagement: 141
-    commentsToLikes: 0.038713
+    followers: 52300
+    engagement: 156
+    commentsToLikes: 0.134473
     id: ck9ej51dq0jxe0j78fp71ji6x
     verified: false
-    hashtags: "#russian, #california, #piercings, #hell"
-  - username: "bemvindosabordo"
+    hashtags: "#mtv, #bodymodification, #sonymusicbr, #diablero"
+  - username: "colorfulworldtravel"
     fullname: >-
-      Bem Vindos a Bordo
+      colorfulworldtravel
+    bio: >-
+      Travel with us 🌻 Travel couple 💏 Instagram: @colorful_world_travel
     location: "Brazil"
-    followers: 6392
-    engagement: 1301
-    commentsToLikes: 0.012670
-    id: cka0tv3mzripq0i78mjsb303m
+    followers: 13200
+    engagement: 145
+    commentsToLikes: 0.065440
+    id: ckacn6hbumly60i78uwy539ti
     verified: false
-    hashtags: "#puntadeleste, #gungaporanga, #fozdoigua, #oldquebec"
-  - username: "hugomochilandoporai"
+    hashtags: "#amazingplace, #california, #italia, #beautifuldestinations"
+  - username: "mayarafernandes99"
     fullname: >-
-      user6652477482467
+      May
+    bio: >-
+      apaixonada por sorrisos s2 #music #travelagent #dublagem #duetos , segue no inst
     location: "Brazil"
-    followers: 8862
-    engagement: 1331
-    commentsToLikes: 0.010316
-    id: ck9jwmqc9x5ne0j788yvhrxh7
+    followers: 50800
+    engagement: 1058
+    commentsToLikes: 0.053402
+    id: ck9nejkuzdo4j0j781c4dy1vc
     verified: false
-    hashtags: "#free, #athens, #sitio, #backpack"
+    hashtags: "#music, #dueto, #viral, #vamossorrir"
+  - username: "lucasmartins"
+    fullname: >-
+      Lucas Martins 
+    bio: >-
+      Travel Videos ✈️ Instagram: @lucasmartins 24 🇧🇷 Brasil
+    location: "Brazil"
+    followers: 975800
+    engagement: 1470
+    commentsToLikes: 0.016632
+    id: ck8j853s9hbss0j78io5mosxm
+    verified: true
+    hashtags: "#fy, #viagem, #adventure, #dicasdeviagem"
   - username: "deboramanfronn"
     fullname: >-
       Débora Manfron
+    bio: >-
+      Blogger - Travel - Adventure - outdoor Curitiba | PR | Brasil
     location: "Brazil"
-    followers: 3071
-    engagement: 809
-    commentsToLikes: 0.028949
+    followers: 3284
+    engagement: 943
+    commentsToLikes: 0.030375
     id: ck9glce8vnk6u0j78s150m4o0
     verified: false
-    hashtags: "#treino, #brasilia, #curitiba, #havingfun"
-  - username: "willtravel"
+    hashtags: "#natureza, #tiktoktravel, #trilha, #foryoubrasil"
+  - username: "caiotravels"
     fullname: >-
-      William Class
+      caiotravels
+    bio: >-
+      TRAVEL l LIFESTYLE Me siga no insta (260k+) Follow me on Instagram
     location: "Brazil"
-    followers: 9931
-    engagement: 804
-    commentsToLikes: 0.055351
-    id: ck81t1ptkus5r0j78sexlws0u
+    followers: 15000
+    engagement: 1132
+    commentsToLikes: 0.018054
+    id: ck9v9lqwce9v70j784lrvf1rl
     verified: false
-    hashtags: "#foryoupage, #xmen, #thailand, #jericoacoara"
+    hashtags: "#thailand, #tailandia, #tiktoktravel, #alagoas"
+  - username: "bruninhocohem"
+    fullname: >-
+      Bruno Cohem
+    bio: >-
+      Tiktok: Making little things epic YT: GoPro Travel Videos Insta: Just Me 😜
+    location: "Brazil"
+    followers: 10200
+    engagement: 846
+    commentsToLikes: 0.027386
+    id: ckbkvi4lvr0dv0j23j0xkmbyg
+    verified: false
+    hashtags: "#quarantine, #lifestyle, #editing, #travel"
+  - username: "jtzanno"
+    fullname: >-
+      João Tzanno
+    bio: >-
+      eu gosto de roupa fashion • lifestyle • geek • travel contatojtzanno@gmail.com
+    location: "Brazil"
+    followers: 167000
+    engagement: 1239
+    commentsToLikes: 0.021551
+    id: cka0rnmxkhrsi0i78rjalhek8
+    verified: false
+    hashtags: "#disney, #dicasdemoda, #styletips, #modamasculina"
+  - username: "_anna.laura"
+    fullname: >-
+      Anna Laura
+    bio: >-
+      TRAVEL 🌎🌍🌏 Instagram: @anna.laura • 500k | www.carpemundi.com.br
+    location: "Brazil"
+    followers: 9769
+    engagement: 1426
+    commentsToLikes: 0.026923
+    id: ckdcb8egjj0g20j23ykdkf8sy
+    verified: false
+    hashtags: "#foryou, #travellife, #viagem, #tiktoktravel"
 ---

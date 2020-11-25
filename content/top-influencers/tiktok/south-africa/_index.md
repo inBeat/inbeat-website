@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In South Africa In 2020
 description: >-
-  Find top TikTok influencers in South Africa in 2020. Most popular hashtags: #greenscreen #friends #hahaha #happy.
+  Find top TikTok influencers in South Africa in 2020. Most popular hashtags: #duet #fyp #tiktok #lol.
 platform: TikTok
+hits: 715
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 715 TikTok influencers like this in South Africa for you to contact.
 profiles:
-  - username: "itsscandss"
-    fullname: >-
-      Candice ;)
-    location: "South Africa"
-    followers: 168590
-    engagement: 2619
-    commentsToLikes: 0.054216
-    id: ck978grmd7wvg0j78yyqurpn3
-    verified: true
-    hashtags: "#bruv, #explain, #beat, #answer"
   - username: "lu_i_am"
     fullname: >-
        Lu✌
+    bio: >-
+      EMP♾️WER D🖤NT DEV♾️UR CPT🇿🇦 bff:skeeter ♾️🦋🖤🦋♾️
     location: "South Africa"
-    followers: 6808
-    engagement: 3021
-    commentsToLikes: 0.158021
+    followers: 8867
+    engagement: 3696
+    commentsToLikes: 0.357691
     id: ck9ns8lr1cf3x0j781tr9javs
     verified: false
-    hashtags: "#draftpost, #sydehustle, #h8rs, #gamechanger"
-  - username: "a_little_birdie"
+    hashtags: "#becauseofyou2020, #iseeihearifeel, #theresitance, #movember2020"
+  - username: "tessietoots"
     fullname: >-
-      Kobe
+      Tessa
+    bio: >-
+      Enjoying life.. #warriorrogue #thementalcrew Mom of 3👩‍👩‍👧‍👧Taken
     location: "South Africa"
-    followers: 4560
-    engagement: 2525
-    commentsToLikes: 0.129010
-    id: ck9f41om9kdft0j78y1kmxtgz
+    followers: 5924
+    engagement: 3289
+    commentsToLikes: 0.224251
+    id: ckb9if1ow8u580j2309arbi02
     verified: false
-    hashtags: "#duetswithfriends, #hero, #nbr9, #nbr7"
-  - username: "mdrajib_sheikh"
-    fullname: >-
-      💝Md Rajib Sheikh💝
-    location: "South Africa"
-    followers: 437864
-    engagement: 2295
-    commentsToLikes: 0.086584
-    id: ck8qq4ib16c3d0j78315j73gh
-    verified: false
-    hashtags: "#glowupforreal, #greenscreen"
+    hashtags: "#warriorrogue, #duetwithfamily, #itsmetessa, #thementalcrew"
   - username: "r03lindav1.00001"
     fullname: >-
       Roelinda Diedericks
+    bio: >-
+      😈I'm up to no good😈 Follow me @roelindav2.0001 ❤️ @candace.rice ❤️
     location: "South Africa"
-    followers: 2657
-    engagement: 2278
-    commentsToLikes: 0.273101
+    followers: 2734
+    engagement: 3113
+    commentsToLikes: 0.330577
     id: cka6c7pfn35qa0i78ae04cnev
     verified: false
-    hashtags: "#lana, #lionking, #nerdplay, #thepurge"
+    hashtags: "#mazcity, #roselegion, #duet, #mazarmy"
+  - username: "12ashleigh34greeff"
+    fullname: >-
+      Ashleigh 12345678910
+    bio: >-
+      God is my king
+    location: "South Africa"
+    followers: 11300
+    engagement: 2824
+    commentsToLikes: 0.379225
+    id: ckck22yeklbue0j23h1jak26h
+    verified: false
+    hashtags: "#foryoupage, #fyp, #4upage, #comfychzr"
   - username: "cloudz9"
     fullname: >-
       CloudZ💙Nation
+    bio: >-
+      💙☁️#CloudZnation☁️💙 Spreading Love&Laughter🙏If you read this, Ur Family😁NOW.
     location: "South Africa"
-    followers: 2984
-    engagement: 2235
-    commentsToLikes: 0.150570
+    followers: 5120
+    engagement: 2753
+    commentsToLikes: 0.246586
     id: cka6pcf85j20t0i78esk941ki
     verified: false
-    hashtags: "#voicesinmyhead, #nothingtodo, #number2, #fail"
-  - username: "itsme_vioane"
+    hashtags: "#qbeancoin, #twist, #kims, #comedy"
+  - username: "chevahi"
     fullname: >-
-      Vio-ané Bezuidenhout
+      ❄Ice Squad 4 life!❄
+    bio: >-
+      Love you guys!❤(All 2388 of you🤗❄️) Squad:❄Ice squad!❄ Roblox User:ChevahlPlayz
+    location: "South Africa"
+    followers: 2395
+    engagement: 2422
+    commentsToLikes: 0.148526
+    id: ckcdz5cu8h2ab0j23d2weoz9f
+    verified: false
+    hashtags: "#fyp, #ragdollengine, #capcut, #roblox"
+  - username: "sgtcurrypants420"
+    fullname: >-
+      Sargent CurryPants 
+    bio: >-
+      💜CEO of ARRRRRRRMY
+    location: "South Africa"
+    followers: 16900
+    engagement: 2286
+    commentsToLikes: 0.080428
+    id: cka86wm2q4ct60i786bkrp4wp
+    verified: false
+    hashtags: "#capcut, #taehyung, #greenscreen, #galaxyfanchallenge"
+  - username: "the_struggle_continues"
+    fullname: >-
+      Not Me, Us Movement.
+    bio: >-
+      Aluta Continua(The struggle continues) Social Justice and Politics.
+    location: "South Africa"
+    followers: 7025
+    engagement: 2261
+    commentsToLikes: 0.261768
+    id: ck9e2n5qyfq910j78j2jnvqr4
+    verified: false
+    hashtags: "#socialism, #apartheid, #blacklivesmatter, #politics"
+  - username: "mrscheeky_backup"
+    fullname: >-
+      Kobe
+    bio: >-
+      CEO of Duets. Love me 4 me or scroll pass.. #🍎family
+    location: "South Africa"
+    followers: 8529
+    engagement: 2194
+    commentsToLikes: 0.244899
+    id: ck9f41om9kdft0j78y1kmxtgz
+    verified: false
+    hashtags: "#moosepatrol, #duet, #mrscheekyduets, #mrscheeky"
+  - username: "danielle..charli..fan"
+    fullname: >-
+      Danielle_S.A.
+    bio: >-
+      HEYY you there pls Follow me❤ i love all my 4715 followers and everyone count
     location: "South Africa"
     followers: 4719
-    engagement: 2175
-    commentsToLikes: 0.068994
-    id: ckad5g6smuiqx0i78xvnn6izl
+    engagement: 1973
+    commentsToLikes: 0.091740
+    id: ckbep9x03613f0j23op7vwwbw
     verified: false
-    hashtags: "#love, #popcornsocks, #4k, #christiangirls"
-  - username: "officialbrandonhynes"
-    fullname: >-
-      Brandon Hynes
-    location: "South Africa"
-    followers: 4544
-    engagement: 2149
-    commentsToLikes: 0.105018
-    id: ck9f48lrcl6wo0j78c6bhjv2q
-    verified: false
-    hashtags: "#acting, #6secchallenge, #catchthesplash, #truecape"
-  - username: "aneesm09"
-    fullname: >-
-      Aneès
-    location: "South Africa"
-    followers: 2686
-    engagement: 1863
-    commentsToLikes: 0.084182
-    id: ckae7y53vjcht0i78ga6tnie1
-    verified: false
-    hashtags: "#wehitthose, #vibecheck, #covid19, #funny"
-  - username: "littlestabrabbit"
-    fullname: >-
-      LittleStabRabbit
-    location: "South Africa"
-    followers: 5431
-    engagement: 1765
-    commentsToLikes: 0.080995
-    id: cka6la6na2cv90i78f0rr10u2
-    verified: false
-    hashtags: "#greenscreen, #live, #tiktokmv"
+    hashtags: "#share, #like, #comment, #fyp"
 cities:
   - name: Capetown
     link: /tiktok/south-africa/capetown

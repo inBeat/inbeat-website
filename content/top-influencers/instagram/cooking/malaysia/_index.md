@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top cooking Instagram influencers in Malaysia in 2020. Most popular hashtags: #cooking #staystrong #stayhome #tiktok.
+  Find top cooking Instagram influencers in Malaysia in 2020. Most popular hashtags: #cooking #staysafe #stayhome #love.
 platform: Instagram
+hits: 53
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 53 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "babyjen_jennyma"
+  - username: "aniqclone"
     fullname: >-
-      💁🏻‍♀️让我为你的品牌讲故事吧📹𝕀𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣✏️
+      aniqclone
+    bio: >-
+      Im just a guy who love to cook and share knowledge about food and cooking. Hope u enjoy . 🥰 for any paid review kindly DM me.
     location: "Malaysia"
-    followers: 36397
-    engagement: 134
-    commentsToLikes: 0.061097
-    id: ck5hdx09apt4t0i11geeilkkw
+    followers: 58707
+    engagement: 410
+    commentsToLikes: 0.010711
+    id: ck0w4h8w5yk460i19ag7k8ju9
     verified: false
-    hashtags: "#ilovedessert, #hairoil, #picarts, #uniquegiftideas"
-  - username: "aleyalee"
+    hashtags: "#cheese, #koreanfood, #toppoki, #keropoklekor"
+  - username: "raffieyusoff"
     fullname: >-
-      aleyalee
+      Raffie Yusoff
+    bio: >-
+      👨🏻‍🍳 Just my daily simple cooking! 🎬#AMinutewithRaffieYusoff 🎂I sell cakes IndulgeByCoco 📍Based in Cyberjaya
     location: "Malaysia"
-    followers: 24234
-    engagement: 494
-    commentsToLikes: 0.017175
-    id: ck6tigsvo0ouc0j71ui3edjhb
+    followers: 345835
+    engagement: 81
+    commentsToLikes: 0.021304
+    id: ck13823sqe4xf0i19zacejlbx
     verified: false
-    hashtags: "#sambalkentang, #tiktok, #repost, #kaftanmurah"
-  - username: "dearcristina"
+    hashtags: "#showusyourflex, #myarmandhammer, #glucerna, #morepowertoyou"
+  - username: "obentoufood"
     fullname: >-
-      CRISTINA CHEW | Modest Fashion
+      喬尹Yin美食自煮便當運動紀錄
+    bio: >-
+      哈囉！我是喬尹Yin，愛吃上班族人妻 食譜影片🍱taipei /Taiwan🇹🇼限動隨性PO 從餐餐外食、甜食上癮、煮菜新手，長年久坐不愛運動上班族，轉變愛上自煮生活和運動 一起來煮健康、美味的料理 汪汪🐶@wangdog0602 作者：四週變女神 ⬇️FB粉絲頁連結
     location: "Malaysia"
-    followers: 63149
-    engagement: 165
-    commentsToLikes: 0.053752
-    id: ck6tqd611qrtu0j71yyygsy5i
+    followers: 65078
+    engagement: 190
+    commentsToLikes: 0.032189
+    id: ck5chufa3rher0i11q2ivejyq
     verified: false
-    hashtags: "#koreanstyles, #makeupaddicted, #rayasale, #tiktokasia"
-  - username: "mayablogs"
-    fullname: >-
-      Maya Khan
-    location: "Malaysia"
-    followers: 6835
-    engagement: 782
-    commentsToLikes: 0.388202
-    id: ck9wgy3wevgkm0j78bc2z5s8h
-    verified: false
-    hashtags: "#chocolateria, #lockdown2020, #millionsofmeals, #instagood"
+    hashtags: "#baking, #lunch, #instagood, #recipe"
   - username: "redzuanmanaf"
     fullname: >-
       Redzuan Abd Manaf
+    bio: >-
+      Founder of Redzuan Cleaning Services | ETS Train Crew | Writer of Pesan Seorang Lelaki | Manager of Paksu Global Resources | Businessman
     location: "Malaysia"
-    followers: 49617
-    engagement: 176
-    commentsToLikes: 0.077649
+    followers: 54321
+    engagement: 378
+    commentsToLikes: 0.072676
     id: ckap6yg0yhvxx0i789gb4vi9h
     verified: false
-    hashtags: "#little, #goodmorning, #ktmb, #simple"
+    hashtags: "#enjoylife, #life, #stayhome, #girl"
+  - username: "ridhwaniqbal98"
+    fullname: >-
+      Mohamed Ridhwan
+    bio: >-
+      Part-time “ shef “ 👨‍🍳 | 📍 Kuching, Malaysia 🇲🇾 Follow my Socials:- • Facebook : Mohamed Ridhwan • Twitter : @m_ridhwan98 • Snapchat : nawhdir98
+    location: "Malaysia"
+    followers: 15854
+    engagement: 1184
+    commentsToLikes: 0.009123
+    id: ck9wf45zin4lk0j78aafmaahm
+    verified: false
+    hashtags: "#bhfyp, #eidmubarak, #chef, #foodgasm"
+  - username: "scxkl_sammy"
+    fullname: >-
+      Sammy a.k.a SamGor
+    bio: >-
+      📍 Enquiries : sammykailun@gmail.com 📷 @kelvinlee32
+    location: "Malaysia"
+    followers: 93221
+    engagement: 103
+    commentsToLikes: 0.072008
+    id: ck5q8251g43z10i11n097t6lw
+    verified: false
+    hashtags: "#potd, #foodporn, #fashion, #foodie"
+  - username: "joannasohofficial"
+    fullname: >-
+      Joanna Soh
+    bio: >-
+      🧡 Creator @fio.app Fitness App 👧🏻 Certified Trainer & Nutrition Coach 🏋️‍♀️ Full Length Workouts on YouTube| 2mil 👇🏻 3KM Fat Burning Indoor Walk 🚶‍♀️
+    location: "Malaysia"
+    followers: 109010
+    engagement: 202
+    commentsToLikes: 0.019201
+    id: ck14ipzohgnfs0i19u7hbh6gi
+    verified: false
+    hashtags: "#diabetes, #teamnike, #fitnessjourney, #fitnessmotivation"
   - username: "ora.della"
     fullname: >-
       
+    bio: >-
+      💎AuraNewEraGenreOra ❤️ MultiGenre ⚖️Rap|Sing|Write|Craft|Vlog 🗝Humble|Kind|Respect| Sincere|SpreadLuv 🔥GangGang,korang mmg lit🔥 Checkout my youtube
     location: "Malaysia"
     followers: 23856
     engagement: 730
     commentsToLikes: 0.025011
     id: ck8t4fqdt6mme0j78ri91pcpg
     verified: false
-    hashtags: "#hairstyle, #happybirthday, #bolehkah, #friends"
-  - username: "kuna_saundarajan"
+    hashtags: "#covid19, #photooftheday, #smile, #throwback"
+  - username: "nanaalhaleq"
     fullname: >-
-      Kuna Saundarajan
+      Malaysian Fitness Goddess ☺️
+    bio: >-
+      👑FitEntrepreneur ♥️TV Host 🌈Wellness Celebrity Coach 🍑Co-Founder @bodylab.co @fitsambalbynana_hq 🏋🏽‍♀️ @underarmourmy Athlete
     location: "Malaysia"
-    followers: 39013
-    engagement: 1111
-    commentsToLikes: 0.008107
-    id: ck5c28grlwr280i11jfgz7fk5
+    followers: 209346
+    engagement: 75
+    commentsToLikes: 0.018376
+    id: ck135jqr91rx50i19rd7qnft3
     verified: false
-    hashtags: "#shihtzu, #newyear, #mcokindanewyear, #vegetarian"
-  - username: "rockyandmayur"
+    hashtags: "#shotoniphone11promax, #zaloramy, #fitfam, #kitajagakita"
+  - username: "natalia__ng"
     fullname: >-
-      Rocky Singh & Mayur Sharma
+      Natalia Ng 黄彩菱
+    bio: >-
+      1 Corinthians 13:8 ★ Act ★ Sing ★ Host 🎗@adidasgolf Asia Creator 🎗正典燕窝 Ambassador 🎗Face of Töush @toush_pensonic
     location: "Malaysia"
-    followers: 88207
-    engagement: 166
-    commentsToLikes: 0.042574
-    id: ck5ccij46hfeh0i11tr9omnxo
+    followers: 61070
+    engagement: 108
+    commentsToLikes: 0.046097
+    id: ck55n9e3h5qk30i111gda8zkr
     verified: true
-    hashtags: "#nomnom, #healthyeating, #likeforlikes, #goafood"
-  - username: "pandelela"
-    fullname: >-
-      𝕻𝖆𝖓𝖉𝖊𝖑𝖊𝖑𝖆 𝕽𝖎𝖓𝖔𝖓𝖌
-    location: "Malaysia"
-    followers: 228564
-    engagement: 133
-    commentsToLikes: 0.009147
-    id: ck6uebg1hpxur0j71v3d0gv0h
-    verified: true
-    hashtags: "#bedisciplined, #justdoit, #stjohnambulance, #laborday"
-  - username: "sheila_khan"
-    fullname: >-
-      Sheila Khan D’Alessandro
-    location: "Malaysia"
-    followers: 49869
-    engagement: 113
-    commentsToLikes: 0.025857
-    id: ck5zsxk68zdad0i14gpsx7n6w
-    verified: false
-    hashtags: "#jeffreystarcosmetics, #bookstagram, #selflove, #quarantinelife"
+    hashtags: "#jnartistes, #quarantinegottalent, #nataliacooksstuff, #mcoday37"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In France In 2020
 description: >-
-  Find top cinema Instagram influencers in France in 2020. Most popular hashtags: #love #cinelamaison #instapic #beautiful.
+  Find top cinema Instagram influencers in France in 2020. Most popular hashtags: #portrait #concours #concoursinstagram.
 platform: Instagram
+hits: 496
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 496 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "mustiimusic"
+  - username: "bouchra_hraich"
     fullname: >-
-      Mustii
+      Bouchra hraich بشرى اهريش
+    bio: >-
+      Personnalité publique Actrice / théâtre, Cinéma et télé 🎬📺📽🎞🎥 Animatrice Tv 🎙 📧 bhraich@gmail.com
     location: "France"
-    followers: 7494
-    engagement: 977
-    commentsToLikes: 0.057875
-    id: ck5q6sqh9yoqw0i11itq4yler
+    followers: 534410
+    engagement: 316
+    commentsToLikes: 0.023590
+    id: ckapabba9vetm0i78m4m1hp3w
     verified: true
-    hashtags: "#lesnuitsdusoir, #bibichampagne, #paixsurvous, #mustiimusic"
-  - username: "soufiane_guerrab"
+    hashtags: "#ramadan"
+  - username: "enchantee_julia"
     fullname: >-
-      Soufiane Guerrab
+      Enchantée Julia♏️
+    bio: >-
+      Club Curly 💛 Cat Loveuse Mgmt @dom_iseecolors @manuel_fgrs « Cinéma » feat Luidji 🍯 👇👇👇👇👇👇👇
     location: "France"
-    followers: 8939
-    engagement: 970
-    commentsToLikes: 0.041808
-    id: ck5hgqbhx46dq0i11if1vqle6
-    verified: false
-    hashtags: "#cestlastreet, #charliechaplin, #legende, #apreslapluislebeautemps"
-  - username: "tanguydlvt"
-    fullname: >-
-      Tanguy Dlvt
-    location: "France"
-    followers: 62753
-    engagement: 1105
-    commentsToLikes: 0.009640
-    id: ck5qebdzxzn1v0i11ntpp66cv
-    verified: false
+    followers: 7837
+    engagement: 882
+    commentsToLikes: 0.058718
+    id: ck6tj5qfb225o0j71wdz3s0f8
+    verified: true
     hashtags: ""
-  - username: "gastonre"
-    fullname: >-
-      Gaston Re
-    location: "France"
-    followers: 7799
-    engagement: 1330
-    commentsToLikes: 0.028687
-    id: ck5c10npeu7vu0i11pv8er04y
-    verified: false
-    hashtags: "#mk2beaubourg, #cuarentena, #deuxiemepartie, #boisdevincenes"
   - username: "leilaboumedjane"
     fullname: >-
       Leila Boumedjane
+    bio: >-
+      Actrice, scénariste, théâtre & cinéma 🎬 chant 🎼 Netflix: Mauvaises herbes 🎞
     location: "France"
-    followers: 6863
-    engagement: 549
-    commentsToLikes: 0.107313
+    followers: 7406
+    engagement: 576
+    commentsToLikes: 0.084288
     id: ck8tcq12f08pq0j7853algep8
     verified: false
-    hashtags: "#nevousinquietezpasdanslavraieviejedefendsdescausesplusnobles, #jesuisgentilledevousdonnermestrouvaillesquandmeme, #nachetonspluspournemettrequ1fois, #memedanslescontesdef"
+    hashtags: "#mauvaisesherbes, #split, #jenosepasfairedeparalleleavecafidaturnerdepeurquellemetombedessus, #freeuyghur"
   - username: "depontearnaud"
     fullname: >-
-      Arnaud de Ponte
+      Arnaud de Ponte | blogger
+    bio: >-
+      🎬 Cinema | Travel | Fashion 📩 depontearnaud@gmail.com 📍Paris
     location: "France"
-    followers: 21019
-    engagement: 422
-    commentsToLikes: 0.048817
+    followers: 27677
+    engagement: 389
+    commentsToLikes: 0.064192
     id: ck13ci3n80gj00i19ey6cjm1t
     verified: false
-    hashtags: "#cinelamaison, #hexagona, #concours, #jeuconcours"
-  - username: "estebmunoz"
+    hashtags: "#giveaway, #ambassadeursoouest, #jeuinstagram, #gagner"
+  - username: "khosrowart"
     fullname: >-
-      Esteban ✞ Munoz
+      👑 KHOSRO PHOTOGRAPHY
+    bio: >-
+      📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
     location: "France"
-    followers: 7668
-    engagement: 744
-    commentsToLikes: 0.039494
-    id: ck8swyjt3fngw0j78wmh2w3az
+    followers: 12620
+    engagement: 772
+    commentsToLikes: 0.033947
+    id: ck5zjpqupi0t70i14487e84xh
     verified: false
-    hashtags: "#lapetitesirenevibes, #likeinbio, #confinement, #tiktok"
+    hashtags: "#vscocam, #zhest, #artgraphy, #retouch"
   - username: "hypothetique"
     fullname: >-
-      Ƭiρhaine 🇫🇷🙆🏻‍♀️
+      Tiρhaine 🇫🇷🙆🏻‍♀️
+    bio: >-
+      •🏃🏽‍♀️ #Sport addict │ 🍿 #Cinema-fan •🌎 Globe-trotteuse #Voyage •💭 Dream big, Work hard •📍 #Paris │ hypothetique@live.fr ↡ 𝗕𝗟𝗢𝗚 ↡
     location: "France"
-    followers: 45418
-    engagement: 216
-    commentsToLikes: 0.055200
+    followers: 47608
+    engagement: 276
+    commentsToLikes: 0.088897
     id: ck8t65x8rcc7j0j78umribtyu
     verified: false
-    hashtags: "#letanneur, #igdaily, #happygirl, #vacances"
-  - username: "hafsiaherzi"
+    hashtags: "#automne, #sunset, #bordeaux, #restaurant"
+  - username: "zei_actor"
     fullname: >-
-      Hafsia Herzi
+      Zé
+    bio: >-
+      Artiste/ cinéma
     location: "France"
-    followers: 27760
-    engagement: 853
-    commentsToLikes: 0.043026
-    id: ck14loy85vraq0i19l4ddw18s
-    verified: true
-    hashtags: "#movie, #fridakahlo, #merci, #bluclub"
-  - username: "toniolifeoff"
+    followers: 11977
+    engagement: 583
+    commentsToLikes: 0.041927
+    id: ck5hjzlvbhj1m0i11i00tiiz8
+    verified: false
+    hashtags: "#fotowou"
+  - username: "nathan.saillet"
     fullname: >-
-      Alexandre Antonio
+      Nathan
+    bio: >-
+      ↟ Cinematographer | Photographer ↟ @thenorthface Explorer Team ↟ co-founder of @anth.film & @thefrenchway.co ↟ ✉️ nathan@anthfilm.com
     location: "France"
-    followers: 1058584
-    engagement: 357
-    commentsToLikes: 0.020233
-    id: ck0twj2mbflxo0i19dj9qzrwv
-    verified: true
-    hashtags: "#repost, #mentionnetespotes, #mentionnedespointeurs, #antonioalexandre"
+    followers: 17427
+    engagement: 573
+    commentsToLikes: 0.022417
+    id: ck0w2cqzbnpaq0i1903m9560v
+    verified: false
+    hashtags: "#thinkveryl, #apricotmagazine, #pulsefilm, #photocinematica"
+  - username: "honorinemagnier"
+    fullname: >-
+      Honorine Magnier
+    bio: >-
+      •Actrice « Le Calendrier » au cinéma 🔜 •mum of 1 •Couv @_causette_ lutte contre les violences faites aux ♀️✊🏼 •Créatrice de @bougies_brulage
+    location: "France"
+    followers: 5710
+    engagement: 643
+    commentsToLikes: 0.061661
+    id: ck14iplkcgla50i19mrvrqhdu
+    verified: false
+    hashtags: "#familyfirst, #surf, #bretagne, #familytime"
+  - username: "gastonre"
+    fullname: >-
+      Gaston Re
+    bio: >-
+      📍Paris Agent: @agence.vdl “Le colocataire” de Marco Berger Première le 1 juillet 2020 Cinéma Mk2 Beaubourg - Paris
+    location: "France"
+    followers: 11437
+    engagement: 1718
+    commentsToLikes: 0.039446
+    id: ck5c10npeu7vu0i11pv8er04y
+    verified: false
+    hashtags: "#cinema, #paris2019, #lecolocataire, #confinement"
 ---

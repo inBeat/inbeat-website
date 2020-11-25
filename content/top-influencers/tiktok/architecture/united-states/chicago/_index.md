@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture TikTok Influencers In Chicago In 2020
 description: >-
-  Find top architecture TikTok influencers in Chicago in 2020. Most popular hashtags: #architecture #foryoupage #iphone #photo.
+  Find top architecture TikTok influencers in Chicago in 2020. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
 platform: TikTok
+hits: 4
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "tlmazer"
+  - username: "gordontarpley"
     fullname: >-
-      Taylor Mazer
+      Gordon Tarpley
+    bio: >-
+      keeping it interesting
     location: "United States"
-    followers: 15535
-    engagement: 1755
-    commentsToLikes: 0.022852
-    id: ck95xi2y060h80j78l90sodnc
+    followers: 1200000
+    engagement: 846
+    commentsToLikes: 0.010120
+    id: ck8qdx3hhq5ah0j78ujr6hl9f
     verified: false
-    hashtags: "#artistsoftiktok, #perspective, #building, #streetsign"
-  - username: "agentmitchy"
-    fullname: >-
-      Mitch
-    location: "United States"
-    followers: 6781
-    engagement: 1066
-    commentsToLikes: 0.032957
-    id: cka0w9kgj1y3m0i78l0yq295n
-    verified: false
-    hashtags: "#skyline, #city, #chitown, #glowup"
-  - username: "raygerard"
-    fullname: >-
-      Ray 
-    location: "United States"
-    followers: 30806
-    engagement: 981
-    commentsToLikes: 0.055120
-    id: cka0ke9igm4hk0i78pexifwq1
-    verified: false
-    hashtags: "#smokebomb, #photograhy, #flip, #backflip"
+    hashtags: "#gordontarpley, #maker, #california, #alien"
   - username: "mike_sansone"
     fullname: >-
       Mike Sansone
+    bio: >-
+      Mike Sansone Chicago Photographer #CEOofHeadshots Everyone is photogenic. 📸
     location: "United States"
-    followers: 31539
-    engagement: 467
-    commentsToLikes: 0.026385
+    followers: 31500
+    engagement: 808
+    commentsToLikes: 0.025594
     id: ckafts2606nmd0i789fk2go5d
     verified: false
-    hashtags: "#raisin, #timelapse, #nayelithedeli, #wikichallenge"
-  - username: "matt_toledo"
+    hashtags: "#mikesansonephotography, #ceoofheadshots, #lawyer, #laughpause"
+  - username: "citykillerz.official"
     fullname: >-
-      Matt Toledo
+      Citykillerz
+    bio: >-
+      ↠ 300K on IG ⬆️ ↠ The Best Travel & Urban Content ↠ Email: Team@citykillerz.com
     location: "United States"
-    followers: 51438
-    engagement: 1267
-    commentsToLikes: 0.023749
-    id: ck8kda8pa4ukk0j789xrnwcoo
+    followers: 51300
+    engagement: 899
+    commentsToLikes: 0.023167
+    id: ckc32m92qsrkc0j23spvkbuao
     verified: false
-    hashtags: "#cyberpunk2077, #showerthoughts, #tips, #fashion"
-  - username: "._lily_.9"
+    hashtags: "#japan, #china, #timelapse, #fpv"
+  - username: "agentmitchy"
     fullname: >-
-      lily
+      Mitch
+    bio: >-
+      Model Agent | Men’s Division Select Model Management 🇺🇸
     location: "United States"
-    followers: 8286
-    engagement: 729
-    commentsToLikes: 0.074600
-    id: ck9r9ujbki7tw0j78dr0r49le
+    followers: 7525
+    engagement: 1032
+    commentsToLikes: 0.031434
+    id: cka0w9kgj1y3m0i78l0yq295n
     verified: false
-    hashtags: "#oregon, #northeastern, #carnegie, #theatre"
-  - username: "weissbro"
+    hashtags: "#chicagoriver, #imonaboat, #chicago, #shesdancinglikeastrippper"
+  - username: "nicksaremi"
     fullname: >-
-      Aaron Weiss 🎞
+      Nick Saremi
+    bio: >-
+      Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 92381
-    engagement: 548
-    commentsToLikes: 0.010737
-    id: ck83zgiox0k5m0j787zqx9vhg
+    followers: 81700
+    engagement: 795
+    commentsToLikes: 0.028410
+    id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#killyourvibe, #foryoupag, #adventure, #reflection"
-  - username: "hypebeast"
+    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
+  - username: "emilyrayna"
     fullname: >-
-      HYPEBEAST
+      Emily Shaw
+    bio: >-
+      Interior Design/Architecture emilyrayna@select.co Check out my YouTube and IG!
     location: "United States"
-    followers: 645331
-    engagement: 1353
-    commentsToLikes: 0.013838
-    id: ck80crnnyat9w0j782gds869q
+    followers: 3400000
+    engagement: 1177
+    commentsToLikes: 0.005788
+    id: ckbkvhpq2qyqb0j23um0ytaq8
     verified: true
-    hashtags: "#goals, #yummy, #chef, #hack"
-  - username: "pic_nick15"
+    hashtags: "#artober, #ios14, #dayinmylife, #myart"
+  - username: "studiosaira.ph"
     fullname: >-
-      Niqué
+      Architect Saira Margarita
+    bio: >-
+      Licensed Architect 🇵🇭 RISD’21 architecture@sairamargarita.com 👇FREE EBOOK!👇
     location: "United States"
-    followers: 9706
-    engagement: 1464
-    commentsToLikes: 0.073476
-    id: ckaifghl3wsi30i78qnticgya
+    followers: 144500
+    engagement: 727
+    commentsToLikes: 0.022798
+    id: ckck2z8pummpj0j233qrlp8ov
     verified: false
-    hashtags: "#jumpman, #vibewithme, #natureathome, #cookinghacks"
+    hashtags: "#galingngpinoy, #architecture, #learnontiktok, #architecturestudent"
+  - username: "adventurousarchitect"
+    fullname: >-
+      AdventurousArchitect
+    bio: >-
+      Dream | travel vlog Daily inspo Travel, Quotes and Architecture
+    location: "United States"
+    followers: 49200
+    engagement: 731
+    commentsToLikes: 0.023620
+    id: cka6dzxfk9uaj0i78q1fgfyq8
+    verified: false
+    hashtags: "#adventurousarchitect, #foryou, #fyp, #architecture"
   - username: "tlmazer"
     fullname: >-
       Taylor Mazer
+    bio: >-
+      Working Artist Adjunct Professor at Kendall College of Art taylordraws.com
     location: "United States"
-    followers: 15535
-    engagement: 1755
-    commentsToLikes: 0.022852
+    followers: 15900
+    engagement: 1859
+    commentsToLikes: 0.037283
     id: ck95xi2y060h80j78l90sodnc
     verified: false
-    hashtags: "#artistsoftiktok, #perspective, #building, #streetsign"
+    hashtags: "#illustration, #penartwork, #carart, #artwork"
+  - username: "10millioneachstate"
+    fullname: >-
+      $10 million
+    bio: >-
+      what house can you get for $10 million in each city?
+    location: "United States"
+    followers: 2714
+    engagement: 1371
+    commentsToLikes: 0.045766
+    id: ckbfalcf226yo0j23ybu891hh
+    verified: false
+    hashtags: "#foryoupage, #zillow, #architecture, #interiordesign"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Bangkok In 2020
 description: >-
-  Find top food TikTok influencers in Bangkok in 2020. Most popular hashtags: #duetwithme #duet #cooking #shawnmendes.
+  Find top food TikTok influencers in Bangkok in 2020. Most popular hashtags: #bangkok #foryou #thailand #food.
 platform: TikTok
+hits: 8
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
-  - username: "tomas_tarr"
+  - username: "teppenbkk"
     fullname: >-
-      Tomas Tarr
+      Teppenbangkok 🇹🇭
+    bio: >-
+      てっぺん Bangkok 🇹🇭🇯🇵
     location: "Thailand"
-    followers: 127066
-    engagement: 1400
-    commentsToLikes: 0.045604
-    id: cka5z8kq6lljr0i78himqxnof
+    followers: 6538
+    engagement: 898
+    commentsToLikes: 0.008624
+    id: ckbqrjeracfk30j23uuon50h1
     verified: false
-    hashtags: "#dance, #duetwithme, #challenge, #motorcycle"
-  - username: "ima_rapunzel_"
+    hashtags: "#food, #bangkok, #teppenbangkok, #sushi"
+  - username: "bangkokstory"
     fullname: >-
-      Kanon🤍🦩🧃
+      MyBangkokStory
+    bio: >-
+      Hostel owner Lazada seller Digital nomad Food lover thanks for your following
     location: "Thailand"
-    followers: 81720
-    engagement: 1300
-    commentsToLikes: 0.021025
-    id: ck9gkomroklon0j78z789rtg0
+    followers: 73000
+    engagement: 458
+    commentsToLikes: 0.003655
+    id: ckc7pxmfwvk8z0j234znawap9
     verified: false
-    hashtags: "#cheesehotdogs, #chubbycheeks, #quarintine, #zoommyface"
-  - username: "bobitasharma"
+    hashtags: "#magiccoolingmagicnow, #foryou, #fried, #cookingwithem"
+  - username: "mickeybkk"
     fullname: >-
-      Bobita Sharma
+      ♥️💎 Mickey Mars 💎♥️
+    bio: >-
+      🇹🇭 Bangkok, TH ✅Line: khun.mars (business)
     location: "Thailand"
-    followers: 20592
-    engagement: 860
-    commentsToLikes: 0.058219
-    id: ck9gkovzyko3c0j78pypzlmh3
+    followers: 127200
+    engagement: 892
+    commentsToLikes: 0.008170
+    id: ckbkxab04t7i60j23l8ikdud4
     verified: false
-    hashtags: "#myownvoice, #viralvideo"
-  - username: "timoruuss"
+    hashtags: "#foryou, #wow, #fun, #lego"
+  - username: "wiwataun"
     fullname: >-
-      Timo
+      Wiwat Aun 🍃
+    bio: >-
+      Don't worry be happy ʕっ•ᴥ•ʔっ #โสด 🌿 ชอบธรรมชาติ ชอบถ่ายรูปคร้าบ 🏃🏃🍃
     location: "Thailand"
-    followers: 269598
-    engagement: 1255
-    commentsToLikes: 0.024652
-    id: ck9gkoo45km320j78ay23fvqt
+    followers: 30700
+    engagement: 1198
+    commentsToLikes: 0.076034
+    id: ckbqfju3h15zv0j234l9c3hpu
     verified: false
-    hashtags: "#shawnmendes, #instagram, #dateing, #accentchallenge"
-  - username: "seelautravel"
+    hashtags: "#mobilephotography, #travel, #huawei, #cafe"
+  - username: "bmkrnn."
     fullname: >-
-      seelautravel
+      Bmkrnn
+    bio: >-
+      IG : bmkrnn Youtube : This is Mild
     location: "Thailand"
-    followers: 13917
-    engagement: 424
-    commentsToLikes: 0.062027
-    id: ck8qncm2du17e0j786xa1vfzn
+    followers: 91800
+    engagement: 387
+    commentsToLikes: 0.006153
+    id: ckcdp9rsubo0e0j23bdd0o409
     verified: false
-    hashtags: "#chilichallenge, #nusapenida, #phiphiisland, #breakfastgoals"
-  - username: "beauuu6"
+    hashtags: "#travel, #apple, #thaiairways, #singapore"
+  - username: "billgsida"
     fullname: >-
-      Beauuuuu
+      Bill G. Sida
+    bio: >-
+      This is Bill - Danish/Thai 🇩🇰🇹🇭 ➡️ Check my IG: @billgsida ⬅️
     location: "Thailand"
-    followers: 58267
-    engagement: 460
-    commentsToLikes: 0.011398
-    id: ck84mc9tqn5ul0j78knwk0ziu
+    followers: 30500
+    engagement: 411
+    commentsToLikes: 0.018899
+    id: ckbld47bi7g3g0j23vgh5g4zg
     verified: false
-    hashtags: "#skateboard, #challege, #fory, #medisonbeer"
-  - username: "princekhan00_official"
+    hashtags: "#bangkok, #fyp, #comedy, #thailand"
+  - username: "drtonyhuge"
     fullname: >-
-      prince khan official
+      Tony Huge
+    bio: >-
+      Friends of freedom. Pioneers of human evolution. Dr. Tony Huge.
     location: "Thailand"
-    followers: 475353
-    engagement: 1384
-    commentsToLikes: 0.031083
-    id: ck9gkowjmkoa80j781ebz28sb
+    followers: 3141
+    engagement: 244
+    commentsToLikes: 0.040047
+    id: ckbl501992ghi0j233rcsvg5c
     verified: false
-    hashtags: "#trending, #tiktokprom, #jalebi, #momsoftiktok"
-  - username: "jezzikaaaa"
+    hashtags: "#exercise, #pattaya, #fitness, #thailand"
+  - username: "kated65"
     fullname: >-
-      เจสสิก้า✨☁️
+      Kated65
+    bio: >-
+      Love everyone 💜 Instagram: katedi65 For business deftmediapro@gmail.com
     location: "Thailand"
-    followers: 18798
-    engagement: 858
-    commentsToLikes: 0.069311
-    id: ckai6py9gx4sx0i78ke685uad
+    followers: 226000
+    engagement: 661
+    commentsToLikes: 0.013033
+    id: ckc7pxkn2vk4t0j236zzxnvfx
     verified: false
-    hashtags: "#shootmeifyoucan, #crush, #weightloss, #kpop"
-  - username: "note.asmr"
+    hashtags: "#boys, #foryou, #viral, #friends"
+  - username: "creativepicks"
     fullname: >-
-      NOTE-ASMR
+      creativepicks
+    bio: >-
+      🍔Food 🧁Desserts ⭐️DIY Link to the App👇
     location: "Thailand"
-    followers: 25129
-    engagement: 356
-    commentsToLikes: 0.045776
-    id: ck9fxxr848i2i0j78wu3rjjlo
+    followers: 735600
+    engagement: 1144
+    commentsToLikes: 0.009904
+    id: ckfplmckn0eij0j23bkvefsjv
     verified: false
-    hashtags: "#chiken, #satisfying, #steak, #merrychristmas"
-  - username: "ethan.guenther"
+    hashtags: "#desserts, #icecream, #dessert, #cake"
+  - username: "tswar"
     fullname: >-
-      Ethan Guenther
+      Tswar
+    bio: >-
+      Food Creator Team Sawangarom ติดต่องาน ID Line : tswar คลิปใหม่ลงยูทูป🔻
     location: "Thailand"
-    followers: 242911
-    engagement: 626
-    commentsToLikes: 0.020209
-    id: cka610jd1te970i78c6c39o4e
+    followers: 1100000
+    engagement: 1593
+    commentsToLikes: 0.002470
+    id: ckbkvaxjvquzu0j23noglf8gb
     verified: false
-    hashtags: "#miami, #tiktokvietnam, #chiangmai, #school"
+    hashtags: "#whatishappeninthailand, #energyball, #foodstyling, #tswar"
 ---

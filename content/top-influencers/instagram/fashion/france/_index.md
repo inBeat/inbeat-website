@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In France In 2020
 description: >-
-  Find top fashion Instagram influencers in France in 2020. Most popular hashtags: #giveaway # #love #hairstyle.
+  Find top fashion Instagram influencers in France in 2020. Most popular hashtags: #fashion #concours #giveaway.
 platform: Instagram
+hits: 3074
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 3074 Instagram influencers like this in France for you to connect with.
 profiles:
   - username: "fashions.school"
     fullname: >-
       Fashion
+    bio: >-
+      FASHION PAGE
     location: "France"
-    followers: 72396
-    engagement: 1262
-    commentsToLikes: 0.010213
+    followers: 74121
+    engagement: 105
+    commentsToLikes: 0.002215
     id: ck15qdonc2cy30i19riskzt3j
     verified: false
     hashtags: ""
-  - username: "amandinebru__"
+  - username: "streetwearteacher"
     fullname: >-
-      𝐹𝐴𝑆𝐻𝐼𝑂𝑁, 𝑂𝑂𝑇𝐷, 𝑇𝑅𝐴𝑉𝐸𝐿
+      Sneakers & Streetwear 🐐
+    bio: >-
+      Follow my personal: @itsumarc7 👈 🔥 | Flyest fashion content. 👟 | Sneakers, outfits, street style 💰 | DM For Business 🙌🏻 | Follow for daily inspiration
     location: "France"
-    followers: 6309
-    engagement: 2360
-    commentsToLikes: 0.298121
-    id: ckap7zybhm8q80i78ng617qbl
+    followers: 126608
+    engagement: 352
+    commentsToLikes: 0.068470
+    id: ck8ta1iv8q3zj0j78ibnhlsh9
     verified: false
-    hashtags: "#tryonhaul, #hairstyle, #ombrehair, #hair"
-  - username: "amybnt"
+    hashtags: "#sneakers, #sneakerhead, #hypebeast, #luxury"
+  - username: "m.i.s.t.e.r.ali"
     fullname: >-
-      Amélie
+      Aljosa Maksimovic
+    bio: >-
+      #misterali 😎 born with #style 👔 #fashion & #cigar lover
     location: "France"
-    followers: 10454
-    engagement: 2121
-    commentsToLikes: 0.083965
-    id: ck9wfappco01d0j78r4pvho9g
+    followers: 7160
+    engagement: 1882
+    commentsToLikes: 0.114175
+    id: ck9hccn3uks2e0j7895p1wrmj
     verified: false
-    hashtags: "#heishizlook, #benakd, #giveaway, #inesmaphoto"
-  - username: "bryanmrts"
+    hashtags: "#womensday, #cohiba, #accessories, #illy"
+  - username: "chlooe_grn"
     fullname: >-
-      BRYAN FASHION & LIFESTYLE
+      Chloé | 🕊
+    bio: >-
+      🎞 fashion & beauty ✉️ chlooegrn@gmail.com ma collection de chaussures ⤵️
     location: "France"
-    followers: 6830
-    engagement: 1938
-    commentsToLikes: 0.208947
-    id: ckap9zvy3u5nz0i78bilubgdx
+    followers: 13027
+    engagement: 1827
+    commentsToLikes: 0.394311
+    id: ck5honc2ypvcc0i11dxq0i235
     verified: false
-    hashtags: "#instafit, #fashion, #model, #chill"
-  - username: "mlee_sts"
+    hashtags: "#gift, #instagramgiveaway, #giveawaycontest, #concours"
+  - username: "sarahbkl_"
     fullname: >-
-      Mai Lee 🧿
+      𝓢𝓪𝓻𝓪𝓱
+    bio: >-
+      lifestyle, fashion, beauty collab: saarahh76210@gmail.com ✉️ 📍Le havre
     location: "France"
-    followers: 131968
-    engagement: 1897
-    commentsToLikes: 0.094905
-    id: ck6u13yedjfqw0j71e94bayow
+    followers: 7081
+    engagement: 1502
+    commentsToLikes: 0.113658
+    id: ck8tcp6ws05il0j78u4yqmosc
+    verified: false
+    hashtags: "#lehavre, #discoverunder5k, #picoftheday, #discoverunder20k"
+  - username: "sisiangelove"
+    fullname: >-
+      S I S I 🎀 | BLOGGER&DREAMER
+    bio: >-
+      Travel • Fashion • Lifestyle 🌍Creator of #the12project2019 ✈️Exploring beautiful places around the world 📍Sofia, Bulgaria
+    location: "France"
+    followers: 9746
+    engagement: 1490
+    commentsToLikes: 0.199851
+    id: ck9hbpabohvg00j782prd70tu
+    verified: false
+    hashtags: "#giveaway, #glutenfreebg, #bezglutenbulgaria, #balviten"
+  - username: "lo_beauuty"
+    fullname: >-
+      L O R I N E
+    bio: >-
+      Beauty Fashion & Dailylife Créatrice de contenu 📍Lorraine, FR ✉️ Lo.beauuty@gmail.com
+    location: "France"
+    followers: 7889
+    engagement: 1419
+    commentsToLikes: 0.538688
+    id: ck9wdw9wbhjt20j78jm4enyvg
+    verified: false
+    hashtags: "#autumnlook, #concoursinstagram, #beautybloggers, #giveaway"
+  - username: "realjoyceappia"
+    fullname: >-
+      Fashion| Joyceappia 🇬🇭🇨🇮
+    bio: >-
+      Making Social Media Real Again😉 Happiness Advocate 💖 @joyceappiatv Music| Fitness| Beauty| Fashion From 🇩🇪| 🔜📍USA PR: mgt.joceappia@gmail.com 📍UK/ US
+    location: "France"
+    followers: 34792
+    engagement: 799
+    commentsToLikes: 0.059775
+    id: ck5zr3cyxvtgu0i14ve0jvyjt
     verified: false
     hashtags: ""
-  - username: "claire.frnz"
-    fullname: >-
-      Claire.F
-    location: "France"
-    followers: 5554
-    engagement: 1823
-    commentsToLikes: 0.086228
-    id: ckap7dqgkjmk70i786v5wa5vv
-    verified: false
-    hashtags: "#goldenhour, #lifestyle, #dress, #amor"
-  - username: "alexfashionbreak"
-    fullname: >-
-      Alex ❤️
-    location: "France"
-    followers: 8469
-    engagement: 1418
-    commentsToLikes: 0.266400
-    id: ck5cjsdgqvejo0i119a6mls3o
-    verified: false
-    hashtags: ""
-  - username: "mimiarr"
-    fullname: >-
-      Mimi A.R (Melissa)
-    location: "France"
-    followers: 237045
-    engagement: 1399
-    commentsToLikes: 0.115899
-    id: ck55ln5rw1yxb0i11kooa6ibj
-    verified: false
-    hashtags: "#tezenisambassador"
-  - username: "itsbiaaaa"
-    fullname: >-
-      Bianca👸🏼
-    location: "France"
-    followers: 19013
-    engagement: 1384
-    commentsToLikes: 0.578439
-    id: ckap9zichu4b60i789ovguq0r
-    verified: false
-    hashtags: "#ingrijire, #ootd, #asos, #makeupgiveaway"
   - username: "jodielapetitefrenchie"
     fullname: >-
       𝑱𝒐𝒅𝒊𝒆 𝒍𝒂 𝒑𝒆𝒕𝒊𝒕𝒆 𝒇𝒓𝒆𝒏𝒄𝒉𝒊𝒆
+    bio: >-
+      « A fashion lover à la française ♥ »  fashion, beauty, lifestyle ✉️ jodielapetitefrenchie.agent@gmail.com
     location: "France"
-    followers: 439363
-    engagement: 1052
-    commentsToLikes: 0.159711
+    followers: 460708
+    engagement: 789
+    commentsToLikes: 0.106693
     id: ck0tt93px1ok80i1985juiutd
     verified: false
-    hashtags: "#thebradery, #madeinfrance, #lepetitcartel, #walkwithminelli"
+    hashtags: "#walkwithminelli, #minelli, #kaptenandson, #bekapten"
+  - username: "melissaswardrobe"
+    fullname: >-
+      Melissa’s Wardrobe
+    bio: >-
+      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
+    location: "France"
+    followers: 183684
+    engagement: 784
+    commentsToLikes: 0.039895
+    id: ck0udxvovk7yj0i19uwfxckji
+    verified: false
+    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
 ---

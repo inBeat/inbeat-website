@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In United States In 2020
 description: >-
-  Find top home decor TikTok influencers in United States in 2020. Most popular hashtags: #keepingactive #gotthisforyou #lifeathome #momsoftiktok.
+  Find top home decor TikTok influencers in United States in 2020. Most popular hashtags: #homedecor #fyp #keepingitcute #greenscreen.
 platform: TikTok
+hits: 1473
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 1473 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "pawcreate"
+  - username: "naztazia"
     fullname: >-
-      PawCreate
+      Naztazia
+    bio: >-
+      Donna & Sarah from Naztazia #DIY #crafts #homedecor #recipes #beauty #tutorials
     location: "United States"
-    followers: 16109
-    engagement: 2314
-    commentsToLikes: 0.040179
-    id: ck8hrxp9fargu0j787p57ln5n
-    verified: false
-    hashtags: "#happymothersday, #doglover, #portrait, #petlove"
-  - username: "keepitpushinwoodwork"
-    fullname: >-
-      KeepItPushinWoodwork
-    location: "United States"
-    followers: 8570
-    engagement: 1961
-    commentsToLikes: 0.103614
-    id: ck8sawf5r42650j78w0qkfdtm
-    verified: false
-    hashtags: "#keeppushing, #chef, #almostdone, #happyathome"
-  - username: "wildandfreepeople"
-    fullname: >-
-      Madi Diesel
-    location: "United States"
-    followers: 214102
-    engagement: 1696
-    commentsToLikes: 0.038144
-    id: ck90xyynx8lii0j788yym9qmn
-    verified: false
-    hashtags: "#tigereye, #labradorite, #crystalhearts, #coffeetime"
-  - username: "kevskrafts.com"
-    fullname: >-
-      kevskrafts
-    location: "United States"
-    followers: 2452
-    engagement: 1134
-    commentsToLikes: 0.074408
-    id: ck8vuszs9jyz20j78tn6m1ogq
-    verified: false
-    hashtags: "#cuda, #chevyc10, #husky, #projecttruck"
-  - username: "melissafrusco"
-    fullname: >-
-      Melissa Frusco
-    location: "United States"
-    followers: 164780
-    engagement: 1041
-    commentsToLikes: 0.030405
-    id: ck8kewn6tb9ei0j7897digvla
-    verified: false
-    hashtags: "#loungewear, #howtocurlhair, #howtowear, #alwayslearning"
-  - username: "chloesdesign"
-    fullname: >-
-      chloe's design
-    location: "United States"
-    followers: 483613
-    engagement: 1548
-    commentsToLikes: 0.020029
-    id: ck81q7rl2gmgw0j78v3nbglas
-    verified: false
-    hashtags: "#greenvspurple, #bedroomdesign, #studyroom, #bathroom"
-  - username: "naty_michele"
-    fullname: >-
-      Naty Michele
-    location: "United States"
-    followers: 4063
+    followers: 7964
     engagement: 962
-    commentsToLikes: 0.069686
-    id: cka0jipeii4up0i78id7wrcrm
+    commentsToLikes: 0.020113
+    id: ckd0fri5ydugq0j23pak1935n
     verified: false
-    hashtags: "#tiktokfashion, #getreadywithme, #dancechallenge, #myootd"
-  - username: "swiftwellness"
+    hashtags: "#diy, #tiktokpartner, #crafty, #summerdiy"
+  - username: "jessiethomasdesigns"
     fullname: >-
-      swiftwellness
+      DIY & Design
+    bio: >-
+      🌷Everything Home🌷 DIY’s•HomeDecor•Garden To shop my home clink the link below
     location: "United States"
-    followers: 204135
-    engagement: 751
-    commentsToLikes: 0.063306
-    id: ck81q0y7qf2fw0j7865fjsj3q
+    followers: 26900
+    engagement: 459
+    commentsToLikes: 0.045099
+    id: ckb9j7spiacq80j23qrxld8wr
     verified: false
-    hashtags: "#myoutfit, #bodypositivity, #healthheroes, #shop"
-  - username: "just_like_candi"
+    hashtags: "#beforeandafter, #halloweendecorations, #halloween2020, #halloweencountdown"
+  - username: "summerx._.cloudy"
     fullname: >-
-      Just_Like_Candi
+      25k Loading.........
+    bio: >-
+      Z liked 1x ibf Nina Tysm for 14k followers💕💕 Z FOLLOWED 🥺🥺❤❤❤ goal 25k
     location: "United States"
-    followers: 2418
-    engagement: 531
-    commentsToLikes: 0.075353
-    id: ck9byhzu7n49n0j78mfkg0r8o
+    followers: 14100
+    engagement: 3144
+    commentsToLikes: 0.419208
+    id: ckbqkkx6y5n990j23hw4tlvs5
     verified: false
-    hashtags: "#foodlover, #furbaby, #makeadrink, #camping"
-  - username: "juliestory"
+    hashtags: "#kolors, #upcycling, #plantlover, #safeguardsplash"
+  - username: "gingabreadman"
     fullname: >-
-      Juliestory
+      Alex McBeath
+    bio: >-
+      Level 27. I Love making people laugh and sharing the love. CEO of Personality!!!
     location: "United States"
-    followers: 197247
-    engagement: 1783
-    commentsToLikes: 0.012533
-    id: ck81s39qfpo8u0j78hxxqesl4
+    followers: 6370
+    engagement: 2836
+    commentsToLikes: 0.149362
+    id: ckbazfwinpt4i0j23y2n27tpo
     verified: false
-    hashtags: "#myfav, #nails, #beauty, #jaclynhill"
+    hashtags: "#snoozzzapalooza, #workoutplan, #rags2riches, #miraclecurlschallenge"
+  - username: "ssilvershadess"
+    fullname: >-
+      🧸
+    bio: >-
+      yes.
+    location: "United States"
+    followers: 16400
+    engagement: 2571
+    commentsToLikes: 0.069189
+    id: cka7rfv8veqov0i78qf33ct3p
+    verified: false
+    hashtags: "#timewarpscan, #xyzbca, #homedecor, #doitbold"
+  - username: "laminar.art"
+    fullname: >-
+      Laminar Art
+    bio: >-
+      Underrated paint waster. 10k? Venmo: laminar-art
+    location: "United States"
+    followers: 10700
+    engagement: 2856
+    commentsToLikes: 0.056771
+    id: ckb0m22t5cm560j23ax7hof68
+    verified: false
+    hashtags: "#artforsale, #myart, #springdiy, #tiktokartists"
+  - username: "diesel_micah"
+    fullname: >-
+      𓀐DIESEL MICAH𓂸
+    bio: >-
+      @kylesimps4.0 & @bricknermon biggest fan h😃😃 snap: briarthompson93
+    location: "United States"
+    followers: 9697
+    engagement: 1748
+    commentsToLikes: 0.131985
+    id: ckbwinr6o3csx0j23m6vby1tx
+    verified: false
+    hashtags: "#summerofgaming, #artskills, #walmart2hrexpress, #foryou"
+  - username: "mattamations"
+    fullname: >-
+      Matt
+    bio: >-
+      main @mattm20 I have a server now https://discord.gg/J9veHnV Commissions open✅
+    location: "United States"
+    followers: 46100
+    engagement: 1621
+    commentsToLikes: 0.315072
+    id: ckbqk64zq5bxw0j23jnhmqsp8
+    verified: false
+    hashtags: "#fun, #foryou, #procreateart, #boredinthehouse"
+  - username: "spikemuthpunk"
+    fullname: >-
+      Vic
+    bio: >-
+      formally HoosierMic ⚠️16+⚠️ Vic - They/Them - 26
+    location: "United States"
+    followers: 7133
+    engagement: 2418
+    commentsToLikes: 0.039383
+    id: ckbbdo83k2jci0j23yxod1kdk
+    verified: false
+    hashtags: "#allmight, #endeavor, #bnha, #keepingitcute"
+  - username: "ur.spookygf"
+    fullname: >-
+      waifu
+    bio: >-
+      Ohio 17 Yeah I like hatsune miku sometimes I scream in my car
+    location: "United States"
+    followers: 59000
+    engagement: 2352
+    commentsToLikes: 0.027238
+    id: ck9kbh4xyl4wx0j78szpuawsm
+    verified: false
+    hashtags: "#duet, #greenscreen, #tiktokbrushes, #fyp"
 ---

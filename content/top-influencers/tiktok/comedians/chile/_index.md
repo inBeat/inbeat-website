@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Chile In 2020
 description: >-
-  Find top comedians TikTok influencers in Chile in 2020. Most popular hashtags: #greenscreen #dance #reaccionar #cruelrealidad.
+  Find top comedians TikTok influencers in Chile in 2020. Most popular hashtags: #chile #comedia #humor #parati.
 platform: TikTok
+hits: 172
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 172 TikTok influencers like this in Chile for you to collaborate.
 profiles:
+  - username: "elluchomiranda"
+    fullname: >-
+      Luis Miranda Espinoza
+    bio: >-
+      Quiero ser comediante . Sígueme en instagram 🤘🤘
+    location: "Chile"
+    followers: 122500
+    engagement: 1229
+    commentsToLikes: 0.016156
+    id: ckcumw39vhsts0j236lykajsk
+    verified: false
+    hashtags: "#humor, #unboxing, #fifa21, #comedia"
+  - username: "valesaini"
+    fullname: >-
+      Valentina Saini
+    bio: >-
+      Actriz, comediante, stand up comedy❤️❤️❤️ Sígueme en Instagram @valesainiteatro
+    location: "Chile"
+    followers: 44400
+    engagement: 666
+    commentsToLikes: 0.019127
+    id: ckdtl912mz9cd0j23syo8mf95
+    verified: false
+    hashtags: "#humor, #chilena, #viral, #comedia"
+  - username: "antony.landi"
+    fullname: >-
+      Antony Landi👑
+    bio: >-
+      Lipsync, humor 😂 Sígueme en mi instagram// @antony_landi.88 🇨🇱
+    location: "Chile"
+    followers: 6487
+    engagement: 1222
+    commentsToLikes: 0.037813
+    id: ckcpslupdmy7m0j23jptusy0o
+    verified: false
+    hashtags: "#humor, #chile, #toxicos, #foryoupage"
   - username: "markomusika"
     fullname: >-
       marko
+    bio: >-
+      marko "cuenta fans venezuela" NO SOMOS MARKO
     location: "Chile"
-    followers: 137045
-    engagement: 1083
-    commentsToLikes: 0.009808
+    followers: 153900
+    engagement: 1011
+    commentsToLikes: 0.008533
     id: ck9gsxj5qkcs20j78rmlz9eob
     verified: false
-    hashtags: "#rochela, #venezuel, #comedia, #risa"
-  - username: "i_ndi_go"
+    hashtags: "#maracaibo, #usa, #maracucho, #tbt"
+  - username: "cristofermackay56"
     fullname: >-
-      Matías Lavín
+      Cristofer Mackay
+    bio: >-
+      Ríete de tus locuras 🤪😂😂😂 comedia ,música🎶
     location: "Chile"
-    followers: 2425
-    engagement: 1732
-    commentsToLikes: 0.195072
-    id: ckact0x34cne20i78civd5upc
+    followers: 3300
+    engagement: 1709
+    commentsToLikes: 0.140752
+    id: ckcptk8smobc20j238kqzswqv
     verified: false
-    hashtags: "#holadamebolaa, #musica, #ontabebe, #trend"
-  - username: "globito2.03_3"
+    hashtags: "#crismackay, #fyp, #tiktokchileno, #venezuela"
+  - username: "_m4c4c0_"
     fullname: >-
-      ♤globito♤😎❤
+      ✝_M*ki_cm_✝
+    bio: >-
+      Con ganas de videos sin sentido? Ven,cosas random,edits,comedia y más ✌😗🏳‍🌈❣
     location: "Chile"
-    followers: 346813
-    engagement: 2441
-    commentsToLikes: 0.011507
-    id: ckal7s3ndghsy0i786quslkl4
+    followers: 7203
+    engagement: 3329
+    commentsToLikes: 0.026536
+    id: ckd0gido9e5gq0j233twr4q8v
     verified: false
-    hashtags: "#parati, #para"
+    hashtags: "#idols, #kpop, #xyzbca, #bias"
   - username: "josa_prado"
     fullname: >-
       Josefina Antonia Prado
+    bio: >-
+      𝟙𝟞 🇨🇱 🎭Pov’s y Comedia 🎭 Stalkeo a la gente que me vaya a seguir a mi Ig⬆️
     location: "Chile"
-    followers: 127216
-    engagement: 2660
-    commentsToLikes: 0.013205
+    followers: 169800
+    engagement: 2253
+    commentsToLikes: 0.012277
     id: ck83ze11czwzs0j789x1fxmof
     verified: false
-    hashtags: "#clases, #fouryou, #comer, #joke"
-  - username: "ofirvargass"
+    hashtags: "#humor, #mexico, #storytime, #xd"
+  - username: "brakone"
     fullname: >-
-             💙OFIR VARGAS
+      Mauricio Idrogo
+    bio: >-
+      -Comedia 😁 -Deporte 💪🏻 -Baile 🕺🏻 -GamerPC 🖥️
     location: "Chile"
-    followers: 2202730
-    engagement: 2924
-    commentsToLikes: 0.070385
-    id: cka0glld64yvv0i78iwg5v6vm
+    followers: 154700
+    engagement: 969
+    commentsToLikes: 0.022516
+    id: ckc8v2dvdho7b0j23dxzfxbmw
     verified: false
-    hashtags: "#greenscreen, #lavozdemivieja, #beliveit, #trend"
-  - username: "amaralacrack_135"
+    hashtags: "#fitness, #parati, #mexico, #humor"
+  - username: "joaquinorellanas"
     fullname: >-
-      AmaraLaCrack_135
+      Joaquin Orellana
+    bio: >-
+      Sígueme en instagram 💕 JoaquinMngr@gmail.com
     location: "Chile"
-    followers: 63968
-    engagement: 3801
-    commentsToLikes: 0.195777
-    id: ck9ex64i8pu7d0j78gwwg51eu
-    verified: false
-    hashtags: "#alemania, #auronplay, #coreadelsur, #coreadelnorte"
-  - username: "el_cj"
+    followers: 6500000
+    engagement: 2534
+    commentsToLikes: 0.013794
+    id: ck80onkiaijxc0j78co8jt83c
+    verified: true
+    hashtags: "#chile, #humor, #comedia, #fyp"
+  - username: "kta_uwo"
     fullname: >-
-      EL CJ
+      💙Catalina uwu💙
+    bio: >-
+      Quieres perder el tiempo? >:D (Meta: 10k🔒) Si haces spam de likes te bloqueo :)
     location: "Chile"
-    followers: 34227
-    engagement: 1767
-    commentsToLikes: 0.107659
-    id: ckal7kvb6fmo80i78nhxulx1i
+    followers: 9854
+    engagement: 2499
+    commentsToLikes: 0.141000
+    id: ckavm1lngvp8z0j23xzzb6ofl
     verified: false
-    hashtags: "#enmascarado, #teextra, #emociones, #fases"
-  - username: "koi.grandchester"
-    fullname: >-
-      Koichi
-    location: "Chile"
-    followers: 3639
-    engagement: 2549
-    commentsToLikes: 0.032018
-    id: ck9eputgtuc260j78l6g37uus
-    verified: false
-    hashtags: "#dance, #friendshashtag, #ilovefriends, #friendship"
-  - username: "_soymaax"
-    fullname: >-
-      💛PANDA💛
-    location: "Chile"
-    followers: 83356
-    engagement: 1244
-    commentsToLikes: 0.084840
-    id: ck8adh2rb65u70j78n4fqef9b
-    verified: false
-    hashtags: "#argentina"
-  - username: "franco.jm"
-    fullname: >-
-      ⚡️Franco Jm⚡️
-    location: "Chile"
-    followers: 26685
-    engagement: 1047
-    commentsToLikes: 0.077593
-    id: ck9grqlajf53w0j7832qvtzh1
-    verified: false
-    hashtags: "#music, #mexico, #nomasbullying, #cover"
+    hashtags: "#dibujos, #quemirai, #gacha, #furrys"
 ---

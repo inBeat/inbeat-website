@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers TikTok Influencers In Austin In 2020
 description: >-
-  Find top barbers TikTok influencers in Austin in 2020. Most popular hashtags: #haircut #barber #viral #comedy.
+  Find top barbers TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #barber #haircut #xyzbca.
 platform: TikTok
+hits: 9
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 9 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
+  - username: "hailiebarberr"
+    fullname: >-
+      Hailie Barber
+    bio: >-
+      ☁️ 24 Austin, TX
+    location: "United States"
+    followers: 45300
+    engagement: 1564
+    commentsToLikes: 0.014523
+    id: ckbqglj5d248z0j23gno2752y
+    verified: false
+    hashtags: "#greenscreen, #ad, #snoozzzapalooza, #asos"
   - username: "manuelosuna63"
     fullname: >-
       Manuel Osuna278
+    bio: >-
+      Follow me on instagram 🙏🏽👆🏽
     location: "United States"
-    followers: 34759
-    engagement: 473
-    commentsToLikes: 0.002897
+    followers: 43800
+    engagement: 507
+    commentsToLikes: 0.004320
     id: ck80nq7z2dw930j78f9lz10l2
     verified: false
-    hashtags: "#challenge, #soccergenderreveal, #superbowlliv, #fade"
-  - username: "_josiah.g"
+    hashtags: "#barber, #barberlife, #beardlineup, #faded"
+  - username: "hxctorcutz"
     fullname: >-
-      Josiah Granderson
+      Hxctorcutz
+    bio: >-
+      17 Garden Grove, Cali 🌊📍 Steady Grind This app is toxic asf
     location: "United States"
-    followers: 17844
-    engagement: 1469
-    commentsToLikes: 0.040246
-    id: ck9r4ppydw3yi0j78besmm7r6
+    followers: 61600
+    engagement: 1061
+    commentsToLikes: 0.011864
+    id: ckck52wzdptra0j23yk31q0jx
     verified: false
-    hashtags: "#cursedimages, #remix, #cali, #english"
-  - username: "darkskindrizzy"
+    hashtags: "#barber, #xyzbca, #fyp, #that17yearoldbarberfromtiktok"
+  - username: "iamsu_binchoi"
     fullname: >-
-      JAMÀLY
+      subin choi
+    bio: >-
+      korean raised in hawaii living the La life baby! Motovloging 🤷🏻‍♂️ questcrew
     location: "United States"
-    followers: 2740
-    engagement: 737
-    commentsToLikes: 0.050026
-    id: ckahun5s9j53l0i78wdcs4en8
+    followers: 75700
+    engagement: 505
+    commentsToLikes: 0.014047
+    id: ckb0w2818lcgu0j236jelc37o
     verified: false
-    hashtags: "#jamaica, #hair, #tattoo, #covid19"
-  - username: "nick_geyer"
+    hashtags: "#losangeles, #barber, #haircut, #beauty"
+  - username: "escamilla__david"
     fullname: >-
-      Nick Geyer
+      davidescamilla764
+    bio: >-
+      SaTiSFyinG HAIR VIDEOS 🤤 YOUTUBE & IG ☝🏻 OC #714🍊
     location: "United States"
-    followers: 7890
-    engagement: 556
-    commentsToLikes: 0.072046
-    id: ck9np9vdvxyj80j78tiu89v5n
+    followers: 54200
+    engagement: 510
+    commentsToLikes: 0.007287
+    id: ckd5yfidm0giv0j239vlz11db
     verified: false
-    hashtags: "#punch, #bunnyhop, #fights, #backflipfail"
+    hashtags: "#santaana, #orangecountybarber, #barber, #haircut"
+  - username: "itsobinwankwo"
+    fullname: >-
+      Obi Nwankwo👑
+    bio: >-
+      🇳🇬Model • Actor📸 📧obinwankwomgmt@yahoo.com IG:@itsobinwankwo Welcome Fam🙏🏾
+    location: "United States"
+    followers: 94500
+    engagement: 1487
+    commentsToLikes: 0.046885
+    id: ck9f1qbc29ce60j78vrb1ng7q
+    verified: false
+    hashtags: "#greenscreen, #public, #bathroom, #xyzbca"
+  - username: "m.ells_2"
+    fullname: >-
+      🏳️‍🌈Mary🏳️‍🌈 
+    bio: >-
+      I’m a dumb ass but like in a good way yuh know? 420 lgbt 21 IL SSW 💨🍃
+    location: "United States"
+    followers: 8220
+    engagement: 1823
+    commentsToLikes: 0.035804
+    id: ck8kexx06bjzc0j78qrl3ha34
+    verified: false
+    hashtags: "#high, #foryou, #stoner, #420"
   - username: "rjsalsedo"
     fullname: >-
       Rjsalsedo
+    bio: >-
+      RJ Model/Actor 🇵🇭 Portland, OR 🌹 I like to dance 🕺🏽 IG: @rjsalsedo 📸
     location: "United States"
-    followers: 52751
-    engagement: 909
-    commentsToLikes: 0.058038
+    followers: 52900
+    engagement: 1022
+    commentsToLikes: 0.052878
     id: ck8kk5irlxsol0j78xwrrue3x
     verified: false
-    hashtags: "#haircut, #inthehouseparty, #goingpro, #stayathome"
-  - username: "aaronthebodybuilder"
+    hashtags: "#filipino, #chrisbrown, #dancechallenge, #duet"
+  - username: "dustinbryantttt"
     fullname: >-
-      aaronthebodybuilder
+      Dustin Bryant
+    bio: >-
+      18 All Glory To HIM✝️
     location: "United States"
-    followers: 31029
-    engagement: 764
-    commentsToLikes: 0.012519
-    id: cka0i879jclnb0i78mml4zu83
-    verified: false
-    hashtags: "#chestworkout, #squat, #may4th, #unoirl"
-  - username: "jaidynbarber"
-    fullname: >-
-      • J A I D Y N •
-    location: "United States"
-    followers: 44939
-    engagement: 2402
-    commentsToLikes: 0.081497
-    id: ck9m45cwvk5sh0j7863cyta3q
-    verified: false
-    hashtags: "#animalsreact, #iswearimnotmean, #signingday, #justsoyouknowmom"
+    followers: 709800
+    engagement: 2200
+    commentsToLikes: 0.009127
+    id: ckbwjumk03r470j235hyxnoht
+    verified: true
+    hashtags: "#blacklivesmatter, #blasphemychallenge, #feelinggood"
   - username: "thompson.2.sharp"
     fullname: >-
-      🥺💔
+      💈 Thompson 💈
+    bio: >-
+      Florida 🌴 Barber💈
     location: "United States"
-    followers: 162344
-    engagement: 1979
-    commentsToLikes: 0.049671
+    followers: 168100
+    engagement: 1952
+    commentsToLikes: 0.086959
     id: ck81s8uojqvnl0j78ivzahdkx
     verified: false
-    hashtags: "#barber, #420friendly, #duet, #foryoupage"
-  - username: "teresametkermccar"
-    fullname: >-
-      #barberworld# tik57
-    location: "United States"
-    followers: 2563
-    engagement: 1319
-    commentsToLikes: 0.048964
-    id: cka69kexusw800i78xv251rs0
-    verified: false
-    hashtags: "#cows4life, #over50dance, #dogvideos, #cowsquad"
-  - username: "fidelpittss"
-    fullname: >-
-      Fidelpittss
-    location: "United States"
-    followers: 249440
-    engagement: 1333
-    commentsToLikes: 0.031658
-    id: ckac3lagfbml40i780iuj0xaa
-    verified: false
-    hashtags: "#remake, #duet, #alabama, #likeandfollow"
+    hashtags: "#loyalgirlfriend, #duet, #singleaf, #foryoupage"
 ---

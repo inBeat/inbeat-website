@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top lingerie Instagram influencers in Switzerland in 2020. Most popular hashtags: #lingerie #blackandwhite #positivevibes #sunshine.
+  Find top lingerie Instagram influencers in Switzerland in 2020. Most popular hashtags: #lingerie #portrait #fashion #blackandwhite.
 platform: Instagram
+hits: 18
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 18 Instagram influencers like this in Switzerland for you to contact.
 profiles:
-  - username: "daniela_graf_"
+  - username: "angelina__petrova"
     fullname: >-
-      FASHION | BEAUTY | PORTRAIT
+      International glamour model
+    bio: >-
+      💜professional model 💙ambassador @santadomenika_lingerie 📍based in Zurich🇨🇭
     location: "Switzerland"
-    followers: 16769
-    engagement: 494
-    commentsToLikes: 0.159019
-    id: ck13c1wyky7zh0i190aek2hfv
-    verified: false
-    hashtags: "#quotes, #bunny, #boudoirgodess, #homeshoot"
-  - username: "_nadezzhdaa"
+    followers: 106784
+    engagement: 142
+    commentsToLikes: 0.013374
+    id: ck6tzd16i8zki0j7130z3kcoh
+    verified: true
+    hashtags: ""
+  - username: "i_am_birebaumli"
     fullname: >-
-      ʟᴜɢᴀɴᴏ 🌸 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 & 𝑭𝒂𝒔𝒉𝒊𝒐𝒏
+      
+    bio: >-
+      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
     location: "Switzerland"
-    followers: 2184
-    engagement: 1727
-    commentsToLikes: 0.167958
-    id: ck9wos4if6do70j78vu66vack
+    followers: 5800
+    engagement: 2017
+    commentsToLikes: 0.118826
+    id: ck13d3pg53irf0i190hd1hu57
     verified: false
-    hashtags: "#skiingfun, #newfaces, #beautifuleyes, #sguardointenso"
-  - username: "_maryleine"
+    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
+  - username: "catetiara1"
     fullname: >-
-      Mary.R          尾崎 豊..♥
+      Kate
+    bio: >-
+      •Be humble, act humble, stay humble• ❣️ ✖️25 ✖️Switzerland, AG ✖️Shooting? -> DM
     location: "Switzerland"
-    followers: 5884
-    engagement: 2056
-    commentsToLikes: 0.120115
-    id: ck8sxetz2h52i0j78nrxmd53y
+    followers: 7356
+    engagement: 1752
+    commentsToLikes: 0.052042
+    id: ck9h9o4ll99qa0j78faj1lbd5
     verified: false
-    hashtags: "#positivity, #fine, #favorite, #excercise"
-  - username: "shunsukecos"
+    hashtags: "#inkedmodel, #pierced, #hot, #style"
+  - username: "fabiolapicone"
     fullname: >-
-      Shunsuke
+      Fabiola 🌹
+    bio: >-
+      🏠Reggio Calabria 📍Zürich 🎓 Law student Fashion-Travel-Beauty couple travel profile @twosatellites 🛰 📩 business enquire: fabiola.picone@hotmail.it
     location: "Switzerland"
-    followers: 129802
-    engagement: 999
-    commentsToLikes: 0.006400
-    id: ck6twj3c2sa8p0j71w4rrad8q
+    followers: 53317
+    engagement: 109
+    commentsToLikes: 0.104381
+    id: ckaorzrggpi120i780mxqjxqg
     verified: false
-    hashtags: "#shellxone, #workout, #kkslider, #haruxmako"
-  - username: "stefanrappo"
+    hashtags: "#outfit, #autumn, #aestxx, #beauty"
+  - username: "rafa_andhiscamera"
     fullname: >-
-      Stefan Rappo
+      Rafael dos Santos
+    bio: >-
+      Photographer & director 📍Based in #Zürich 🇨🇭
     location: "Switzerland"
-    followers: 58231
-    engagement: 411
-    commentsToLikes: 0.022646
-    id: ck0ub9vf8e5ri0i19s87r1b92
+    followers: 22301
+    engagement: 471
+    commentsToLikes: 0.020395
+    id: ck5hn3fmmn4sn0i1192nlcal1
     verified: false
-    hashtags: "#newyork, #protectwildlife, #lingerie, #desert"
-  - username: "bibianaatada"
+    hashtags: "#naturallight, #rafaandhiscamera, #zurich, #mood"
+  - username: "lovicphoto"
     fullname: >-
-      BIBIANA ATADA 🇪🇸
+      Beauty Photography
+    bio: >-
+      𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 📸 #𝗺𝘂𝗮𝗴𝗿𝗮𝗽𝗵𝗲𝗿 🇧🇦🇨🇭🇺🇸 📍 Zurich & Belgrade ♥ 𝗕𝗲𝗮𝘂𝘁𝘆 𝗶𝘀 𝗺𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻✨ 𝗕𝗼𝗼𝗸 𝘆𝗼𝘂𝗿 𝗣𝗮𝗰𝗸𝗮𝗴𝗲 𝗛𝗘𝗥𝗘⤵️
     location: "Switzerland"
-    followers: 347063
-    engagement: 701
-    commentsToLikes: 0.010738
-    id: ck13cum0u28ob0i192hm60orz
+    followers: 3933
+    engagement: 324
+    commentsToLikes: 0.030199
+    id: ck0w3m5uvu41a0i198jue7c2q
     verified: false
-    hashtags: "#stayupsuspense, #tattooedmodels, #tattoomodel, #bts"
-  - username: "lucy_zzz"
+    hashtags: "#biccizfam, #makeupaddict, #macpro, #lovicphoto"
+  - username: "officialbiljana"
     fullname: >-
-      ✨LU✨
+      | B I L J A N A |
+    bio: >-
+      🇷🇸 🇨🇭 🔧 @dks.performance 🧽 @car_care_king #teamkimon Shootings or Collaboration DM 📥
     location: "Switzerland"
-    followers: 21263
-    engagement: 596
-    commentsToLikes: 0.046281
-    id: ck5bvc1pajdcf0i11s89j9r47
+    followers: 20375
+    engagement: 1086
+    commentsToLikes: 0.013574
+    id: ck5q03cpe41jp0i110o7kf052
     verified: false
-    hashtags: "#glass, #lookintomyeyes, #locarno, #smile"
-  - username: "agichristine"
+    hashtags: "#borbetwheels, #bmwm2competition, #behappy, #bmwcarporn"
+  - username: "stefkjoson"
     fullname: >-
-      𝐀𝐆𝑵𝐄𝑺
+      
+    bio: >-
+      @shapesbysteffy 🍑 | @alphacoutures 👙 Coming soon @themangobox 🧴
     location: "Switzerland"
-    followers: 17443
-    engagement: 171
-    commentsToLikes: 0.066653
-    id: ck5busxzhidu30i1148g98kmn
+    followers: 197072
+    engagement: 271
+    commentsToLikes: 0.101142
+    id: ck5c2vikky2om0i11idx3b38a
     verified: false
-    hashtags: "#enjoy, #snorkel, #keeponsmiling, #longerie"
-  - username: "pri.naves"
+    hashtags: "#santorini, #latepost, #italia, #online"
+  - username: "journey.of.jessi"
     fullname: >-
-      Pri Naves (LifeStyle)
+      Jessica | ²¹ | 🇨🇭
+    bio: >-
+      𝐅𝐈𝐓𝐍𝐄𝐒𝐒 & 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 Future PT & Nutritionist🏋🏼‍♀️🍏 🌿 Vegan | 💉 Inkedgirl Positivemindset🌻 Anorexia recovered #chocolatelover
     location: "Switzerland"
-    followers: 49475
-    engagement: 131
-    commentsToLikes: 0.029279
-    id: ck8t842c2j1440j78zntbyou2
+    followers: 7371
+    engagement: 848
+    commentsToLikes: 0.416940
+    id: ckapbhur5zx1m0i78e3ghad9x
     verified: false
-    hashtags: "#text, #bronze, #relax, #inspira"
-  - username: "sachafreyja"
+    hashtags: "#workhard, #girlswithtattoos, #photooftheday, #gains"
+  - username: "catrinheyne"
     fullname: >-
-      S Λ C H Λ ☾ F R E Y J Λ
+      Catrin Heyne
+    bio: >-
+      ContentCreator 📍live in Switzerland 🧵Founder & Designer @ca.ma_by_catrinheyne 💍Wife of @marco_heyne 💯Manager @sunworld_solarium 🎵catrinheyne (TikTok)
     location: "Switzerland"
-    followers: 38317
-    engagement: 669
-    commentsToLikes: 0.015840
-    id: ck8tba2uduvn90j78oyb0h78e
+    followers: 28284
+    engagement: 276
+    commentsToLikes: 0.061123
+    id: ck8t0d4nurntv0j78s2kj6v1t
     verified: false
-    hashtags: "#darkart, #greedy, #happywitch, #green"
+    hashtags: "#fashion, #life, #camabycatrinheyne, #prettylittleiiinspo"
 ---

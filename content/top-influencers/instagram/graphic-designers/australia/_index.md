@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Australia In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Australia in 2020. Most popular hashtags: #instagood #fantastic #ourplanetdaily #visualsofearth.
+  Find top graphic-designers Instagram influencers in Australia in 2020. Most popular hashtags: #design #illustration #selflove.
 platform: Instagram
+hits: 34
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 34 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "farkie.02"
-    fullname: >-
-      Mark Fitzpatrick
-    location: "Australia"
-    followers: 3748
-    engagement: 5635
-    commentsToLikes: 0.023340
-    id: ck8sxt9n6ikyz0j78er1kww3l
-    verified: false
-    hashtags: "#barber, #gaykiss, #gaylove, #viscogirl"
   - username: "mietta__"
     fullname: >-
-      MIETTA 🗡️
+      MIETTA *:･ﾟ✧
+    bio: >-
+      MELB / 23 ✨ Crew + Visual Artist for @loading_erro.r 💕 Graphic Designer at @graphics.mietta
     location: "Australia"
-    followers: 6870
-    engagement: 704
-    commentsToLikes: 0.053309
+    followers: 7146
+    engagement: 693
+    commentsToLikes: 0.063601
     id: ck14jjoxfkp8f0i19ddbpauyi
     verified: false
-    hashtags: "#easeeas"
-  - username: "rosshatton"
+    hashtags: "#viva, #vivaproducts, #cultureupdate"
+  - username: "milanagnone"
     fullname: >-
-      Ross Hatton - Bokeh / Street
+      ＭＩＬＡＮ  ＡＧＮＯＮＥ
+    bio: >-
+      International Model Made in LA, Live in AUS🕊 South Park Voice-Over Actress Graphic Designer & Media Major My🌍 @wadepapenfus ✉️ Contact@milanagnone.com
     location: "Australia"
-    followers: 4020
-    engagement: 4495
-    commentsToLikes: 0.182114
-    id: ck0w1zzs0lyxn0i19zwdplhb7
+    followers: 142806
+    engagement: 376
+    commentsToLikes: 0.009316
+    id: ck0w4gvmcyi8e0i19ermc59wp
     verified: false
-    hashtags: "#cllickcity, #citykillerz, #dopeclickz, #ourstreetdays"
+    hashtags: "#ad"
   - username: "doyle.snaps"
     fullname: >-
       Colm Doyle
+    bio: >-
+      Perth, Western Australia. Graphic Designer & Photographer. Prints available, visit my website or PM.
     location: "Australia"
-    followers: 2618
-    engagement: 2059
-    commentsToLikes: 0.111530
+    followers: 4213
+    engagement: 1173
+    commentsToLikes: 0.097843
     id: ck8t900gumgbp0j78hw1q2wvt
     verified: false
-    hashtags: "#astrophoto, #magic, #perthigers, #leagueoflenses"
+    hashtags: "#canonaustralia, #moodygrams, #perthcity, #cityofperth"
+  - username: "ahernandezflorez"
+    fullname: >-
+      Andrea Hernández Flórez
+    bio: >-
+      🌲 Art enthusiast ▪️Occasionally me ▪️Editorial Graphic Designer & Illustrator 🦊 Colombian andreahernandezflorez@hotmail.com
+    location: "Australia"
+    followers: 6220
+    engagement: 493
+    commentsToLikes: 0.082830
+    id: ck0w6n61m9d600i19vlmrri99
+    verified: false
+    hashtags: "#colombian, #illustrations, #artlover, #ink"
   - username: "designbyaikonik"
     fullname: >-
       CARISSA SMART
+    bio: >-
+      Graphic Designer | Digital Content & Photography 📍Melbourne ✉️ carissa@designbyaikonik.com.au
     location: "Australia"
-    followers: 94756
-    engagement: 130
-    commentsToLikes: 0.043431
+    followers: 92878
+    engagement: 110
+    commentsToLikes: 0.042178
     id: ck0vvw94ur1qi0i1937kxyz5k
     verified: false
-    hashtags: "#mjdaisy, #30daysofmusic, #colourflatlayseries"
-  - username: "madebytsuki"
+    hashtags: "#crueltyfree, #innisfreeaustralia, #nudebynaturepartner, #thirstea"
+  - username: "lisazhou_art"
     fullname: >-
-      Adam
+      Lisa Zhou
+    bio: >-
+      🇨🇳 🇦🇺 Illustrator / Graphic Designer Pixiv 微博 小红书 绿洲 Bilibili 抖音 Youtube 👉🏾 LisaZhou_Art
     location: "Australia"
-    followers: 7215
-    engagement: 550
-    commentsToLikes: 0.094260
-    id: ck6tta24o9gab0j71kvgfka79
+    followers: 6864
+    engagement: 912
+    commentsToLikes: 0.021538
+    id: ckf5xfl68vh9r0j232i8yb9ov
     verified: false
-    hashtags: "#ausmusictshirtday"
+    hashtags: "#fooddrawing, #melbourneillustrator, #dessert, #aquarelle"
+  - username: "jessnugent1"
+    fullname: >-
+      Jess Nugent #CreateTheGood
+    bio: >-
+      ✮ Sydney, Aus. ↟ BA - Psych. ⋒ Mental Health Awareness ↡ Kindness, Positivity & Hashbrowns ⊚ Empath/HSP ♥ Seb . Graphic Designer - @nugentmedia
+    location: "Australia"
+    followers: 18741
+    engagement: 477
+    commentsToLikes: 0.093331
+    id: ck6ugskt34x4r0j71i87xr1kv
+    verified: false
+    hashtags: "#mentalhealthmatters, #mentalhealthquotes, #bekind, #selflove"
   - username: "carterhookdesigns"
     fullname: >-
       Carter Hook
+    bio: >-
+      Freelance web/graphic designer based in the Sunshine Coast, Australia. Clients within the NBA.
     location: "Australia"
-    followers: 4013
-    engagement: 1786
-    commentsToLikes: 0.028256
+    followers: 6440
+    engagement: 3379
+    commentsToLikes: 0.037152
     id: ckaoy36pnfv960i78ofjijp9b
     verified: false
-    hashtags: "#kyrieirving, #utahjazz, #patrickewing, #newyork"
+    hashtags: "#nba, #digitalizesports, #graphicdesign, #sportsgraphics"
+  - username: "creativewannabe_"
+    fullname: >-
+      Jay Kay
+    bio: >-
+      👩‍🎨 Illustrator, letterer & graphic designer 👇 Shop goodies 📧 hello@creative-wannabe.com 🏡 Melbourne Australia
+    location: "Australia"
+    followers: 25498
+    engagement: 1157
+    commentsToLikes: 0.018356
+    id: ckaor7qw3m2wr0i783lrhf0w0
+    verified: false
+    hashtags: "#sketchbookart, #strongertogether, #selflovery, #mentalhealthawareness"
   - username: "aurevoirdarling"
     fullname: >-
-      Anna May ♡ melbourne designer
+      Anna May • Melbourne Lifestyle
+    bio: >-
+      🤍 graphic designer + pastry chef’s love for selected good style and good food ☁️ melbourne creative/ content creator ✉️aurevoirdarling@hotmail.com
     location: "Australia"
-    followers: 11940
-    engagement: 456
-    commentsToLikes: 0.060822
+    followers: 11916
+    engagement: 469
+    commentsToLikes: 0.059078
     id: ck5q09ed44w6k0i117iivqr2x
     verified: false
-    hashtags: "#mapiful, #flattenthecurve, #formydamnself, #28daysofyay"
-  - username: "bobusak"
-    fullname: >-
-      Jakub Bobuski
-    location: "Australia"
-    followers: 7418
-    engagement: 370
-    commentsToLikes: 0.020617
-    id: ck5hjf716giq00i118skp367g
-    verified: false
-    hashtags: "#ourplanetdaily, #exploreuae, #earth, #srilanka"
-  - username: "flipflytumble"
-    fullname: >-
-      Emily ✌️
-    location: "Australia"
-    followers: 41802
-    engagement: 122
-    commentsToLikes: 0.007487
-    id: ckaosshcpsw4m0i78h2gra24u
-    verified: false
-    hashtags: "#philippines, #photography, #art, #usa"
+    hashtags: "#deliverooau, #littlebutterlotsaflavour, #anywhereeywear, #emilyinmelbourne"
 ---

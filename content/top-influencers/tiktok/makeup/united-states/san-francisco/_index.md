@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In San Francisco In 2020
 description: >-
-  Find top makeup TikTok influencers in San Francisco in 2020. Most popular hashtags: #makeup #sanfrancisco #ootd #quarantine.
+  Find top makeup TikTok influencers in San Francisco in 2020. Most popular hashtags: #fyp #makeup #sanfrancisco #foryou.
 platform: TikTok
+hits: 28
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 28 TikTok influencers like this in San Francisco, United States for you to contact.
 profiles:
-  - username: "ericsin07"
+  - username: "mexicoindigenapodcast"
     fullname: >-
-      Eric Fuentes
+      Mexico Indigena Podcast
+    bio: >-
+      🔴Nuko Mexico indigena podcast en todas las plataformas musicales y en YOUTUBE ?
     location: "United States"
-    followers: 13357
-    engagement: 560
-    commentsToLikes: 0.007655
-    id: ck9fmcoe9snl50j78ec649oc0
+    followers: 3153
+    engagement: 515
+    commentsToLikes: 0.122368
+    id: ckdhppuvj1gin0j23jzqxkn9p
     verified: false
-    hashtags: "#wreckingball, #jenniferhudson, #britneyspears, #rupauldragrace"
-  - username: "whimsysoul"
+    hashtags: "#losangeles, #aztec, #canada, #tenochtitlan"
+  - username: "juliasinch23"
     fullname: >-
-      ✨ Kara ✨
+      Julia❤️
+    bio: >-
+      San Francisco, California Professional traveler 👣🧳🦅
     location: "United States"
-    followers: 213658
-    engagement: 2524
-    commentsToLikes: 0.023060
-    id: ck84ma2klmmrn0j78282jzc4h
+    followers: 48900
+    engagement: 816
+    commentsToLikes: 0.057163
+    id: ck8fb1mhj52v40j78lohbfsaq
     verified: false
-    hashtags: "#gotthisforyou, #goldenhour, #adoption, #bohochic"
-  - username: "jyo_shankar"
+    hashtags: "#travelblogger, #disney, #california, #halloween"
+  - username: "wongatong"
     fullname: >-
-      Jyotsna Shankar
+      Amanda Wong
+    bio: >-
+      Insta: amanda_wongs 🎃
     location: "United States"
-    followers: 8494
-    engagement: 642
-    commentsToLikes: 0.091457
-    id: ck8saa4l117bv0j78ade4z9vk
+    followers: 63400
+    engagement: 3298
+    commentsToLikes: 0.031655
+    id: ck9fx8ao957w80j78kn0slr6f
     verified: false
-    hashtags: "#tiktokbeauty, #island, #cincodemayo, #fashioninspo"
-  - username: "winedwards"
+    hashtags: "#boba, #halloween, #fyp, #sfxmakeup"
+  - username: "lifestylebabe"
     fullname: >-
-      Win Edwards
+      m & s
+    bio: >-
+      ☆ lifestyle ☆ 💌: lifestylebabe@yahoo.com BLM
     location: "United States"
-    followers: 9077
-    engagement: 1175
-    commentsToLikes: 0.017064
-    id: ck9jyyuwt6l730j78aa8tvbu1
+    followers: 154100
+    engagement: 1644
+    commentsToLikes: 0.015016
+    id: ck7zo7n0zikh70j7843v581vp
     verified: false
-    hashtags: "#ldr, #the1975, #menswear, #liv"
-  - username: "nichole.ciotti"
+    hashtags: "#aesthetic, #spaceforcewalk, #foryou, #aesthetics"
+  - username: "ven.ny"
     fullname: >-
-      Nichole Ciotti
+      Venny G
+    bio: >-
+      19 y/o ( follow my insta^ ) From LA 🌴
     location: "United States"
-    followers: 496083
-    engagement: 736
-    commentsToLikes: 0.004675
-    id: ck7zorfqelgc50j78gkttwr7e
+    followers: 7559
+    engagement: 900
+    commentsToLikes: 0.026956
+    id: ck83k2n528u160j782m6ks4w0
     verified: false
-    hashtags: "#makeup, #jewelry, #style, #vlog"
-  - username: "thefriendlyfashionistas"
-    fullname: >-
-      ❤️❤️❤️
-    location: "United States"
-    followers: 8598
-    engagement: 1314
-    commentsToLikes: 0.110242
-    id: cka0palkm7hwv0i78ezqsl0qo
-    verified: false
-    hashtags: "#rating, #howto, #bvlgari, #photo"
+    hashtags: "#quarantine, #storytime, #food, #fyp"
   - username: "shanberries"
     fullname: >-
       Shan Berries
+    bio: >-
+      Founder of @shadesbyshan cosmetics & The #MamaBerries Nonprofit Foundation! ⠀
     location: "United States"
-    followers: 2400
-    engagement: 471
-    commentsToLikes: 0.046118
+    followers: 2427
+    engagement: 483
+    commentsToLikes: 0.045291
     id: ck9dwochnpuyu0j78kfzjezg9
     verified: false
-    hashtags: "#breadpudding, #ninerfaithful, #makeupturorial, #minilabradoodle"
+    hashtags: "#fyp, #cooking, #foryoupage, #makeup"
+  - username: "aye.jessiee"
+    fullname: >-
+      jessie chen
+    bio: >-
+      SF | NYC 💌 jessiechen2601@gmail.com
+    location: "United States"
+    followers: 29700
+    engagement: 982
+    commentsToLikes: 0.023358
+    id: ckce7rh0fl7d70j233hpksv98
+    verified: false
+    hashtags: "#blackpink, #asian, #ootd, #asianmom"
+  - username: "ericsin07"
+    fullname: >-
+      Eric Fuentes
+    bio: >-
+      Bay Area Drag Content creator. Baby Drag Queen @micheladamix_
+    location: "United States"
+    followers: 13800
+    engagement: 601
+    commentsToLikes: 0.007430
+    id: ck9fmcoe9snl50j78ec649oc0
+    verified: false
+    hashtags: "#lipsync, #queer, #dragqueensoftiktok, #fyp"
   - username: "stylisto"
     fullname: >-
       Kyle Candler
+    bio: >-
+      On the road 2 10k! Are you entertained? San Jose, CA 🌈 and *gasp* over 35!!!
     location: "United States"
-    followers: 8339
-    engagement: 1227
-    commentsToLikes: 0.037774
+    followers: 8873
+    engagement: 1215
+    commentsToLikes: 0.037290
     id: ck90t6997s0jg0j78n4zvmx0l
     verified: false
-    hashtags: "#mmmdrop, #alphabet, #cheaplashes, #duetchallenge"
-  - username: "cristydavis"
+    hashtags: "#gay, #heymrpostman, #blackout, #fyp"
+  - username: "jazmynjw"
     fullname: >-
-      Cristy Davis
+      Jazmyn W
+    bio: >-
+      Comedian - Podcast - Youtube - IG - Vote
     location: "United States"
-    followers: 131868
-    engagement: 1919
-    commentsToLikes: 0.017093
-    id: ck8fb0wfa4ykd0j7804fevr8g
-    verified: false
-    hashtags: "#applewatch, #twirling, #gbutter, #jumpman"
-  - username: "tori_the_chickadee"
-    fullname: >-
-      Tori 
-    location: "United States"
-    followers: 52303
-    engagement: 1314
-    commentsToLikes: 0.022273
-    id: ck933p72dp2v20j783j4gwuvw
-    verified: false
-    hashtags: "#lemonpepper, #fixit, #storytime, #dory"
+    followers: 333700
+    engagement: 2249
+    commentsToLikes: 0.042476
+    id: ckcuykisdmf630j23091pe3oh
+    verified: true
+    hashtags: "#influencerjaz, #comedy, #viral, #takis"
 ---

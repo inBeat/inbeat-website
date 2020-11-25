@@ -1,107 +1,130 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Colombia In 2020
 description: >-
-  Find top outdoors Instagram influencers in Colombia in 2020. Most popular hashtags: #outdoors #bogota #cuarentena #animals.
+  Find top outdoors Instagram influencers in Colombia in 2020. Most popular hashtags: #outdoors #travel #colombia #adventure.
 platform: Instagram
+hits: 23
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 23 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "locombia"
     fullname: >-
       Locombia
+    bio: >-
+      ♥ We love #hiking #mountains #outdoors #fitness #fashion #vanlifer with 🚐 Mistral Ligia (Colombian)+ Stephen (Irish) @esmurphy01 📍London
     location: "Colombia"
-    followers: 23195
-    engagement: 296
-    commentsToLikes: 0.234017
+    followers: 23232
+    engagement: 244
+    commentsToLikes: 0.219215
     id: ck5zw15bi5a3m0i148n3du114
     verified: false
-    hashtags: "#vanlifediaries, #earthdayathome, #travelawesome, #borntotravel"
-  - username: "marigomezp"
+    hashtags: "#getoutside, #intothewilderness, #themountainiscalling, #ukhiking"
+  - username: "cath.vera"
     fullname: >-
-      Mariana Gómez P
+      Catherine Vera R.
+    bio: >-
+      𝗟𝗶𝗺𝗮 | 𝗣𝗲𝗿𝘂́ 🇵🇪 Viajes y trekk 👣
     location: "Colombia"
-    followers: 63821
-    engagement: 323
-    commentsToLikes: 0.030044
-    id: ck5zpo1not0h00i142550week
+    followers: 4672
+    engagement: 1815
+    commentsToLikes: 0.071260
+    id: ckapcdmz43e480i781g45wg17
     verified: false
-    hashtags: "#granola, #foodblogger, #podcasts, #doglove"
-  - username: "paulaellisfit"
+    hashtags: "#travel, #traveling, #roadtrip, #mountainlovers"
+  - username: "yermahin_balance7"
     fullname: >-
-      PAULA ELLIS
+      Yermahin Solorzano
+    bio: >-
+      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
     location: "Colombia"
-    followers: 33537
-    engagement: 347
-    commentsToLikes: 0.073325
-    id: ck5hcfoq0hu560i11nl5nt23b
+    followers: 10815
+    engagement: 543
+    commentsToLikes: 0.025440
+    id: ckf5ptix078d40j2303t8diff
     verified: false
-    hashtags: "#diet, #happybirthday, #family, #legday"
-  - username: "alitaclimbing"
+    hashtags: "#city, #goals, #artist, #dance"
+  - username: "caro_sure"
     fullname: >-
-      alita climbing
+      Carolina Segura
+    bio: >-
+      |La Cumbre es tan solo la mitad del camino| 📍Garzón • Huila • Colombia 🇨🇴
     location: "Colombia"
-    followers: 28409
-    engagement: 263
-    commentsToLikes: 0.052228
-    id: ck6u2l2hcsfge0j71ufj1bcx3
+    followers: 6285
+    engagement: 1115
+    commentsToLikes: 0.040756
+    id: ck8t816v5iqei0j78wgea2590
     verified: false
-    hashtags: "#coordination, #instalive, #ejercicios, #adventuregirl"
+    hashtags: "#paradise, #mountainlife, #trekking, #instamountains"
   - username: "eli.paz"
     fullname: >-
       Elizabeth Paz
+    bio: >-
+      ♡ Civil Engineer 🚜⚠️ @gheikaingenieros ♡ Model 📸🎞 ♡ Traveler ✈️🌏 . . . . Dios guia mi camino❣ 🇨🇴💯💫✌🏼🇬🇧
     location: "Colombia"
-    followers: 4909
-    engagement: 1206
-    commentsToLikes: 0.059669
+    followers: 5820
+    engagement: 1550
+    commentsToLikes: 0.058953
     id: ckap0kntcqq5d0i78ibkynj55
     verified: false
-    hashtags: "#portraitfeed, #photoportrait, #beachvibes, #holidaystyle"
-  - username: "juliaticaofficial"
+    hashtags: "#canonphotography, #streetphotography, #photography, #photoshoot"
+  - username: "stephaniepanisello"
     fullname: >-
-      J U L I A
+      Stephanie Panisello
+    bio: >-
+      🔺Actress🔻Host🔺Voice Actress🔻MOCAP 🔸Video games🔸Animation🔸Film Adventurer 🏔 #claireredfield #residentevil Colombian 🇨🇴 Spanish 🇪🇸 #G4NeedsStephanie
     location: "Colombia"
-    followers: 1630805
-    engagement: 257
-    commentsToLikes: 0.015465
-    id: ck8t73mkhfjb10j78urlv9xhu
+    followers: 14392
+    engagement: 1090
+    commentsToLikes: 0.023528
+    id: ck5q7agd80m7w0i11owhuwpec
     verified: false
-    hashtags: "#soft, #focus, #34h, #jeans"
-  - username: "valentinelewis"
+    hashtags: "#halloween, #claireredfield, #residentevil2remake, #videogames"
+  - username: "alemedinacasas"
     fullname: >-
-      Beauty & Lifestyle Influencer💋
+      Alejandra Medina
+    bio: >-
+      📺 Presentadora de noticias 🎙 Podcast Alejandra Medina @spotify 💋 Fundadora @contour.mx 👇🏻 Latest YouTube Video
     location: "Colombia"
-    followers: 84541
-    engagement: 140
-    commentsToLikes: 0.099580
-    id: ck8wgetc3h7un0j78zv2mq1jb
+    followers: 33880
+    engagement: 213
+    commentsToLikes: 0.036853
+    id: ck8svwe0gcybr0j78ukt6pqhm
     verified: false
-    hashtags: "#discounted, #discounttire, #beautyyoutuber, #nailpop"
-  - username: "davebogota"
+    hashtags: "#motivaci, #hidrataci, #regiaencolombia, #outfit"
+  - username: "mariapaulamorenoc"
     fullname: >-
-      David Becerra 🇨🇴🏳️‍🌈🇵🇱
+      Maria Paula Moreno Con
+    bio: >-
+      Kitesurfer Solo buena energía por aquí ✨ @goodvibes.balance
     location: "Colombia"
-    followers: 6231
-    engagement: 432
-    commentsToLikes: 0.031192
-    id: ck5q6az0fwo1h0i11dl5yissk
+    followers: 23319
+    engagement: 429
+    commentsToLikes: 0.052220
+    id: ck6ufpfq7ydyb0j718ltxu87e
     verified: false
-    hashtags: "#orange, #desk, #venecia, #projects"
-  - username: "natalia_arbelaez_"
+    hashtags: "#photography, #travelblogger, #beautifuldestinations, #abaroundtheworld"
+  - username: "entrenandomentes"
     fullname: >-
-      Natalia Arbelaez
+      Liv / Traveler 🌎🌍🌏
+    bio: >-
+      🤓 Coach Live| 🏡Interior Designer | 🚴‍♀️ Adventure Sports 🌎 |Adventure Traveler | 🏕 Nomad 👩‍❤️‍👨 @vivetussuenos_ • L❤️VE SOLDIER •
     location: "Colombia"
-    followers: 6982
-    engagement: 1046
-    commentsToLikes: 0.031359
-    id: ck5hkhs4jig060i11p7ook9me
+    followers: 21386
+    engagement: 212
+    commentsToLikes: 0.054914
+    id: ck6uf43weury70j711pkurr64
     verified: false
-    hashtags: "#passingthebaton, #coil, #mondaymotivation, #earthenware"
-  - username: "sebastiandido"
+    hashtags: "#girlpower, #womanbiker, #cumplea, #viajerosporelmundo"
+  - username: "martinme5a"
     fullname: >-
-      Sebastian Di Domenico
+      Martin Mesa
+    bio: >-
+      VIVIR BONITO! Adventure Traveler 🌎 Adventure Sports ° @travel5ouls @xperiencefactoryco
     location: "Colombia"
-    followers: 10392
-    engagement: 1164
-    commentsToLikes: 0.014598
-    id: ck55p6rkf9xhr0i11xppogh26
+    followers: 84354
+    engagement: 413
+    commentsToLikes: 0.080493
+    id: ck0tuq0ux87b80i19pcc86mjq
     verified: false
-    hashtags: "#eagle, #bear, #salamander, #mindo"
+    hashtags: "#paramotor, #viajes, #versys1000, #hotel"
 ---

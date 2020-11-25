@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Poland In 2020
 description: >-
-  Find top bloggers Instagram influencers in Poland in 2020. Most popular hashtags: #goodday #piel #ootd #makeup.
+  Find top bloggers Instagram influencers in Poland in 2020. Most popular hashtags: #autumn #autumnvibes #ootd #jesieniara.
 platform: Instagram
+hits: 486
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 486 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "ptysiablog"
     fullname: >-
       Patrycja Hoffmann
+    bio: >-
+      Fashion blogger / insta blogger👗👛👒 Zielona Góra / Wolsztyn / Poznań patrycja.hoffmann@gmail.com 💻 ❤️❤️❤️
     location: "Poland"
-    followers: 6804
-    engagement: 1421
-    commentsToLikes: 0.083639
+    followers: 6972
+    engagement: 1227
+    commentsToLikes: 0.094046
     id: ck5zzj8vjbtur0i14nl3lleyh
     verified: false
-    hashtags: "#denimjacket, #czasnabuty, #robtocokochasz, #gliss4in1"
-  - username: "klaudia_cukierpuder"
+    hashtags: "#sunday, #hathat, #stylizacja, #przeceny"
+  - username: "gabrielajaworska"
     fullname: >-
-      KLAUDIA_CUKIERPUDER
+      Gabriela Jaworska
+    bio: >-
+      Blogger 👻 gabson_00 💌 gabriela911@wp.pl or DM Kosmetyczny instagram @sweetpraline00
     location: "Poland"
-    followers: 65658
-    engagement: 613
-    commentsToLikes: 0.074795
-    id: ck0udksxmje6g0i19nktkpvoc
+    followers: 17615
+    engagement: 793
+    commentsToLikes: 0.078144
+    id: ck0w3mdsuu56m0i1985vik417
     verified: false
-    hashtags: "#makeupvideos, #mondaymorning, #springoutfit, #makeuplife"
-  - username: "malgomaluje"
-    fullname: >-
-      Małgorzata P
-    location: "Poland"
-    followers: 8633
-    engagement: 1195
-    commentsToLikes: 0.081462
-    id: ckaoyhwy0hlnq0i78s94hfdec
-    verified: false
-    hashtags: "#krem, #beautiful, #eyemakeuplook, #lovecosmetics"
-  - username: "mamine.skarby"
-    fullname: >-
-      Magda Jasińska
-    location: "Poland"
-    followers: 23434
-    engagement: 523
-    commentsToLikes: 0.082413
-    id: ck0w4cnraxxf20i19a6ssh5ms
-    verified: false
-    hashtags: "#gravitrax, #pancakes, #globus, #tata"
-  - username: "daisylineblog"
-    fullname: >-
-      Paulina | DaisyLine.pl
-    location: "Poland"
-    followers: 27082
-    engagement: 429
-    commentsToLikes: 0.145705
-    id: ck5zjnsb5hxax0i14oa6tfb8l
-    verified: false
-    hashtags: "#strojdnia, #nowemieszkanie, #nawil, #interiormilk"
-  - username: "roxy.jacobs"
-    fullname: >-
-      Roxy Jacobs
-    location: "Poland"
-    followers: 29638
-    engagement: 368
-    commentsToLikes: 0.129423
-    id: ckaoswbcftb4k0i78o10yq3ai
-    verified: false
-    hashtags: "#look, #sombre, #sugarbodyscrub, #frankivsk"
-  - username: "mom.wife.woman"
-    fullname: >-
-      MODNA MAMA
-    location: "Poland"
-    followers: 62986
-    engagement: 355
-    commentsToLikes: 0.093068
-    id: ck15tjt97iftc0i19ktyeik52
-    verified: false
-    hashtags: "#soraya, #summer, #emolium, #lipstick"
-  - username: "sandrvczuraj"
-    fullname: >-
-      Sandra Maria Czuraj 🦋
-    location: "Poland"
-    followers: 23936
-    engagement: 1413
-    commentsToLikes: 0.025983
-    id: ck8t1sohiwvar0j782d6xdu8b
-    verified: false
-    hashtags: "#facemask, #haveaniceday, #childhood, #live"
-  - username: "mrs__harmony"
-    fullname: >-
-      Kasia Harmony
-    location: "Poland"
-    followers: 32597
-    engagement: 636
-    commentsToLikes: 0.058566
-    id: ck5zx2fe577tv0i1434us37ir
-    verified: false
-    hashtags: "#waves, #kawa, #kawanabalkonie, #tatua"
+    hashtags: "#fashionblogger, #aliexpressstore, #mood, #makeup"
   - username: "sylka_ciekawska"
     fullname: >-
       Sylka Ciekawska
+    bio: >-
+      Contact-Collab : igielskaa1@gmail.com 💄 INFLUENCER 🌺 LIFESTYLE BLOGGER Love travel ;) PL✈UK 🐎🐭❤
     location: "Poland"
-    followers: 23881
-    engagement: 459
-    commentsToLikes: 0.089252
+    followers: 41418
+    engagement: 430
+    commentsToLikes: 0.112839
     id: ck5hq3ep7sfg40i114bf1a39q
     verified: false
-    hashtags: "#nailartwow, #kokos, #goodday, #beautifulview"
+    hashtags: "#warszawa, #sheingals, #polskakobieta, #curlyhair"
+  - username: "patabloguje"
+    fullname: >-
+      Patrycja Kierońska
+    bio: >-
+      27, blogger, Kraków wielbicielka kawy, carbonary i masła shea uzależniona od pięknych paznokci 📩 patabloguje@gmail.com
+    location: "Poland"
+    followers: 40917
+    engagement: 302
+    commentsToLikes: 0.130523
+    id: ck6trk5n8zggy0j717fnz0ewd
+    verified: false
+    hashtags: "#manicure, #jesiennepaznokcie, #mani, #jesieniara"
+  - username: "superstylerblog"
+    fullname: >-
+      Marta Lech-Maciejewska
+    bio: >-
+      Lifestyle, fashion, beauty & parenting blogger. 👗💄👄👶🏼💪🏼🍧 📮marta@superstyler.pl Oglądaj szalone Insta Stories @spadiora 🎀🎀🎀 🎯Kup grę Rodzice Roku
+    location: "Poland"
+    followers: 142056
+    engagement: 289
+    commentsToLikes: 0.036170
+    id: ck0u2987wzaa00i19rcggyqex
+    verified: true
+    hashtags: "#rodzina, #rodzinawkomplecie, #rodziceroku, #wielkitestaldi"
+  - username: "ulaasi"
+    fullname: >-
+      CAREMORE.pl
+    bio: >-
+      ✩ photographer & fashion blogger ✩ @caremore_studio ✩ hello@caremore.pl
+    location: "Poland"
+    followers: 14096
+    engagement: 667
+    commentsToLikes: 0.100681
+    id: ck8t4azl663z40j78v3icw9bw
+    verified: false
+    hashtags: "#wspierampolskiemarki, #kayday, #kappahlwomen, #cccshoesbags"
+  - username: "misslilith"
+    fullname: >-
+      𝐌 𝐈 𝐒 𝐒 𝐋 𝐈 𝐋 𝐈 𝐓 𝐇
+    bio: >-
+      Beauty Blogger 🌸 Jeśli Cię do czegoś zainspirowałam, oznacz zdjęcie #MISSINSPIRUJE 📩 misslilith91@gmail.com 🌸BLOG🌸
+    location: "Poland"
+    followers: 32387
+    engagement: 910
+    commentsToLikes: 0.021877
+    id: ck5c5oc5v3upd0i11rthi2we2
+    verified: false
+    hashtags: "#abhjunkies, #macromakeup, #hudabeauty, #closeupphotography"
+  - username: "solecka_p"
+    fullname: >-
+      Paula
+    bio: >-
+      🎈05041998 🌹blogger/phototographer 🇵🇱Warsaw 📩Collab: DM/e-mail 📸@solecka_photography 👠ISSOLECKA25 kod do @cccshoesbags
+    location: "Poland"
+    followers: 10984
+    engagement: 879
+    commentsToLikes: 0.066833
+    id: ckf5p2yf04r6b0j230qutwjor
+    verified: false
+    hashtags: "#sante, #smacznie, #sniadaniezsante, #pielegnacjawlosow"
+  - username: "paula_jagodzinska"
+    fullname: >-
+      Paula Jagodzińska
+    bio: >-
+      My life, my motivation ✨❤️ Travel girl 🌍 Fashion blogger 💁🏼‍♀️ Adventure lover 💪🏼 Contact: jagodzinska.paulina@gmail.com 📩 Blog:
+    location: "Poland"
+    followers: 340860
+    engagement: 459
+    commentsToLikes: 0.021310
+    id: ck13bt723x1pz0i19dhdi2jqd
+    verified: false
+    hashtags: "#ootdinspiration, #outfitinspiration, #croatia, #travellover"
+  - username: "klaudia_cukierpuder"
+    fullname: >-
+      Klaudia Łańcucka
+    bio: >-
+      💄 Makeup Artist & Beauty Blogger from Poland 🇵🇱 🎬 YouTube - KlaudiaCukierPuder 🔥 Współpraca: klaudiacukierpuder@gmail.com  👇🏻Nowy film👇🏻
+    location: "Poland"
+    followers: 69325
+    engagement: 457
+    commentsToLikes: 0.029862
+    id: ck0udksxmje6g0i19nktkpvoc
+    verified: false
+    hashtags: "#makeupinspiration, #makeup, #blonde, #style"
 ---

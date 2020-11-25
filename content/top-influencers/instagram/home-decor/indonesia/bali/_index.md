@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Bali In 2020
 description: >-
-  Find top home decor Instagram influencers in Bali in 2020. Most popular hashtags: #homedecor #bali #idulfitri #stayathome.
+  Find top home decor Instagram influencers in Bali in 2020. Most popular hashtags: #homedecor #bali #interiordesign #interior.
 platform: Instagram
+hits: 23
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 23 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
-  - username: "tanjia.methela"
+  - username: "coffeetomoto"
     fullname: >-
-      Tangia Zaman Methila 🇧🇩
+      Nita Tomo
+    bio: >-
+      |everywhere coffee's available| •☕️ Dopamine Hunter• ~📸 Serious shot @nitatomoto
     location: "Indonesia"
-    followers: 154986
-    engagement: 350
-    commentsToLikes: 0.012665
-    id: ck5q24omke94x0i114m8tb7me
+    followers: 27963
+    engagement: 412
+    commentsToLikes: 0.087834
+    id: ck0vzwwfcbado0i19db204fnn
     verified: false
-    hashtags: "#homedecor, #freedom, #hairstyles, #action"
-  - username: "milaparamita"
+    hashtags: "#baristadaily, #balivibes, #flatlaystyle, #homedecor"
+  - username: "baliinteriors"
     fullname: >-
-      m i l s
+      BALI INTERIORS by @sheilaman_
+    bio: >-
+      Photographing the best Interiors in Bali & beyond. Creative direction for homewares and lifestyle brands. DM me for enquires. www.bali-interiors.com
     location: "Indonesia"
-    followers: 7686
-    engagement: 1099
-    commentsToLikes: 0.069871
-    id: ck5zzo246c3ms0i14bwhd19e7
+    followers: 58153
+    engagement: 198
+    commentsToLikes: 0.036712
+    id: ck1347obtv4a70i198g3sfm1b
     verified: false
-    hashtags: "#internationalwomensday, #tropical, #salahbuahmurah, #nailart"
-  - username: "that_rahgeer_chick"
+    hashtags: "#hunkerhome, #interior444, #baliinteriors, #bedroomgoals"
+  - username: "nurrin_nurrinawati"
     fullname: >-
-      Apoorvi Awasthi | Indian 🇮🇳
+      ɴᴜʀʀɪɴᴀᴡᴀᴛɪ
+    bio: >-
+      🏡 member of homedecor bandung 🎍 member of upload diy bandung
     location: "Indonesia"
-    followers: 4103
-    engagement: 1072
-    commentsToLikes: 0.144688
-    id: ckap4qlur8fgr0i78jees4aud
+    followers: 9531
+    engagement: 341
+    commentsToLikes: 0.311897
+    id: ck8t5048e8eqc0j78a1roxgpt
     verified: false
-    hashtags: "#instachallenges, #summervibes, #followforfollow, #travel"
-  - username: "delavalent"
+    hashtags: "#dekorasirumah, #instahome, #inspirasirumah, #homesweethome"
+  - username: "wearedesignassembly"
     fullname: >-
-      Dela (Inspirasi Rumah Mungil)
+      D E S I G N   A S S E M B L Y
+    bio: >-
+      Architecture & Design Studio based in Bali Studio visits by appointment only
     location: "Indonesia"
-    followers: 34194
-    engagement: 252
-    commentsToLikes: 0.310387
-    id: ck5q85ocr4k9e0i11ftscn7of
+    followers: 9391
+    engagement: 429
+    commentsToLikes: 0.011935
+    id: ck1347ovzv4dd0i193zivdl63
     verified: false
-    hashtags: "#shabbyhome, #kartini2020, #urbanjungle, #roomtour"
-  - username: "adeirma.lov"
+    hashtags: "#interiors, #architect, #lumion, #interiordesign"
+  - username: "ibukubali"
     fullname: >-
-      Inspirasi Rumah Mungil
+      Elora Hardy — IBUKU Studio
+    bio: >-
+      Magical spaces, inspired by nature. Experiential bamboo architecture and design for commercial and residential projects in Bali and around the world.
     location: "Indonesia"
-    followers: 25716
-    engagement: 159
-    commentsToLikes: 0.072816
-    id: ck55ocq1u83w30i116906b5oc
+    followers: 68341
+    engagement: 132
+    commentsToLikes: 0.007790
+    id: ck13cnhg4183g0i19t0lvdv4y
     verified: false
-    hashtags: "#homeinspo, #bismillah, #repost, #giveawaytime"
-  - username: "sumber_resep"
+    hashtags: "#greenbuilding, #behindthedesign, #sustainablearchitecture, #sustainability"
+  - username: "greenvillagebali_"
     fullname: >-
-      🍞 Kumpulan Resep & Video 🍞🍝
+      Green Village
+    bio: >-
+      A unique community of homes custom designed by @ibukubali from bamboo on the banks of Ayung River, Bali. Book your stay bit.ly/stayatgreenvillage
     location: "Indonesia"
-    followers: 123091
-    engagement: 184
-    commentsToLikes: 0.014911
-    id: ck5hcm6ebisjp0i11f20t1wm8
+    followers: 32954
+    engagement: 129
+    commentsToLikes: 0.011840
+    id: ck5c3ev4oz6q80i11v409ofk7
     verified: false
-    hashtags: "#dekorasirumahvintage, #lupadiet, #wisatakuliner, #slimeasmr"
-  - username: "susi.pudjiastuti_"
+    hashtags: "#interiorstyling, #repost, #livinginthejungle, #bali"
+  - username: "brigidalourdes"
     fullname: >-
-      Susi Pudjiastuti
+      🌈 Welcome to my dreamy world 🌈
+    bio: >-
+      Founder @iwearlourdes Creative Director🌻Fashion Stylist @misslourdes_portfolio Set Designer 🌸 Buy or Rental : @missaudrey_wardrobe 🌼 Work: Email/DM
     location: "Indonesia"
-    followers: 33481
-    engagement: 466
-    commentsToLikes: 0.055275
-    id: ckapazffmy1q90i78b0xmcxvx
+    followers: 26138
+    engagement: 87
+    commentsToLikes: 0.109162
+    id: ck0tvg84tb7tf0i19npgjwh98
     verified: false
-    hashtags: "#lokerbali, #tanamankekinian, #tanamanbuahdalampot, #hiasanrumah"
-  - username: "bwi.banget"
+    hashtags: "#fashiondesigner, #interior, #wanderlust, #hotelreviewer"
+  - username: "rumahputihabuabu"
     fullname: >-
-      Banyuwangi Banget Official
+      rumahputihabu2
+    bio: >-
+      🏠Dokumentasi putihabu2❤ 👩 yunitaaaa👨‍👩‍👧‍👧 By @yunita_widyartanti 📸 just share and sharing LT 105m2// LB145m2 Endorse/PP 🔛 DM Home Ideas ⬇️
     location: "Indonesia"
-    followers: 10970
-    engagement: 543
-    commentsToLikes: 0.003014
-    id: ck8t10f1fu05u0j7898tfepzr
+    followers: 42641
+    engagement: 93
+    commentsToLikes: 0.202262
+    id: ck55odiq285j70i11o7ijy1qq
     verified: false
-    hashtags: "#bakmandioval, #bakmandicantik, #bakmandidungdung, #diamdirumah"
-  - username: "cynthiavandoorn"
+    hashtags: "#homedecor, #ruangkeluarga, #inspirasirumah, #designinspirasi"
+  - username: "bohemian_interior_decor"
     fullname: >-
-      𝐂𝐲𝐧𝐭𝐡𝐢𝐚 🦋
+      Bohemian Inspirations
+    bio: >-
+      🌿Colorful, Rustic, Eclectic, Scandinavian Styles 🌵Bohemianathome@gmail.com 📩 🌿Regram 📸 #BIDathome 🌵Daily inspirations 🤗
     location: "Indonesia"
-    followers: 9015
-    engagement: 1400
-    commentsToLikes: 0.326278
-    id: ck8t2toif0o380j78xwp34o2r
+    followers: 182089
+    engagement: 255
+    commentsToLikes: 0.005709
+    id: ck0tu9wwi694j0i19ihkls73l
     verified: false
-    hashtags: "#strongersweden, #garnierbio, #hairproduct, #smartphoto"
-  - username: "mrvahn"
+    hashtags: "#interiorideas, #interiordesign, #livingwithplants, #neutraldecor"
+  - username: "edelmacrame"
     fullname: >-
-      Steven Setiono
+      edelmac
+    bio: >-
+      “𝐆𝐨𝐨𝐝 𝐓𝐡𝐢𝐧𝐠𝐬 𝐓𝐚𝐤𝐞 𝐓𝐢𝐦𝐞” 🌱 ℍ𝕒𝕟𝕕𝕞𝕒𝕕𝕖 𝕄𝕒𝕔𝕣𝕒𝕞𝕖, 𝕄𝕒𝕥𝕖𝕣𝕚𝕒𝕝 & 𝕊𝕙𝕒𝕣𝕚𝕟𝕘 𝕋𝕦𝕥𝕠𝕣𝕚𝕒𝕝 🌏 𝙒𝙤𝙧𝙡𝙙𝙬𝙞𝙙𝙚 𝙨𝙝𝙞𝙥𝙥𝙞𝙣𝙜 ➰ 𝑩𝒚 𝘤𝘶𝘴𝘵𝘰𝘮 💳 Shopee-Tokopedia-BL-Etsy : edelmac 📲WA👇🏻
     location: "Indonesia"
-    followers: 42013
-    engagement: 312
-    commentsToLikes: 0.024367
-    id: ck0u0bsy2t7op0i19i5m1kn80
+    followers: 49489
+    engagement: 214
+    commentsToLikes: 0.016590
+    id: ck15u90ppm0jp0i19mqj1ik9v
     verified: false
-    hashtags: "#whenitsover, #hotlatte, #dripcoffee, #cafe"
+    hashtags: "#macramemakers, #edelmac, #cottoncord, #accessories"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Chile In 2020
 description: >-
-  Find top chefs Instagram influencers in Chile in 2020. Most popular hashtags: #cocina #life #yomequedoencasa #ensalada.
+  Find top chefs Instagram influencers in Chile in 2020. Most popular hashtags: #chef #chile #cheflife #cocina.
 platform: Instagram
+hits: 26
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 26 Instagram influencers like this in Chile for you to contact.
 profiles:
   - username: "virginiademariaoficial"
     fullname: >-
       Virginia Demaria
+    bio: >-
+      Mamá de 4, chef 👩🏼‍🍳 y comunicadora. Para mis 🍴@virginiademariarecetas para mis 🧶 @hechoportitehacefeliz y también en 🖥 www.virginiademaria.cl
     location: "Chile"
-    followers: 608401
-    engagement: 291
-    commentsToLikes: 0.026988
+    followers: 712954
+    engagement: 289
+    commentsToLikes: 0.026096
     id: ck55lklbf1s8g0i112mphcsao
     verified: true
-    hashtags: "#pinturas, #pizarra, #babyalive, #ceresita"
-  - username: "barbilackingtons"
-    fullname: >-
-      Barbara Lackington
-    location: "Chile"
-    followers: 68918
-    engagement: 365
-    commentsToLikes: 0.028141
-    id: ck5zmpmq9mztv0i14o4mnsfue
-    verified: true
-    hashtags: "#quarantine, #ideas, #positivevibes, #sinaburrirme"
-  - username: "cravingsjournal"
-    fullname: >-
-      Lorena Salinas
-    location: "Chile"
-    followers: 77179
-    engagement: 305
-    commentsToLikes: 0.147063
-    id: ck136aafi5ivh0i19c8iav95q
-    verified: false
-    hashtags: "#mantequilla, #torta, #churro, #comidacasera"
+    hashtags: "#viajeroconsciente, #ifeellove, #babyalive, #saboresdemifamilia"
   - username: "javicorreamedina"
     fullname: >-
       Javi Correa
+    bio: >-
+      Fashion Stylist | MKT Digital | Chef 💖Moda, Viajes y MakeUp ⚡️Curatoría @byjavicorrea Programa de moda “Dress Code” en @yooytv 😍
     location: "Chile"
-    followers: 18588
-    engagement: 246
-    commentsToLikes: 0.087837
+    followers: 25942
+    engagement: 325
+    commentsToLikes: 0.043009
     id: ck6u9mkx1ye4q0j71efs2htzd
     verified: false
-    hashtags: "#pastry, #beauty, #beautyhacks, #mother"
+    hashtags: "#modachilena, #styled, #chile, #fashion"
+  - username: "chinoise"
+    fullname: >-
+      Carolina Bazan
+    bio: >-
+      Best Female Chef 2019, 50 Best LATAM 🔪 Especial Ambrosía “Inside da house” @bistro_ambrosia acá👇🏻
+    location: "Chile"
+    followers: 35908
+    engagement: 272
+    commentsToLikes: 0.030545
+    id: ck1397si0jys50i19ast03w7c
+    verified: false
+    hashtags: "#telollevamos, #challengeaccepted, #parrilleroslacrianza, #repost"
+  - username: "chriscarpentier"
+    fullname: >-
+      chriscarpentier
+    bio: >-
+      📍Chile 👨‍🍳 Chef 🎥Master Chef Chile & Colombia.
+    location: "Chile"
+    followers: 548279
+    engagement: 72
+    commentsToLikes: 0.031254
+    id: ck6twqzegtlgh0j71zg7g46vj
+    verified: true
+    hashtags: "#johnniehighball, #letscocktailathome, #publicidad, #momentosalquer"
   - username: "pastrychefmile"
     fullname: >-
       Chef Mile Vallejos M.
+    bio: >-
+      🍦Hago postres también me los como🐷 🍩Me creo el hoyo del queque 🤎Mamá 🍰Pastelera 👩🏻‍🍳Chef Instructor 👩‍⚖️Jurado BakeOff @chilevision
     location: "Chile"
     followers: 22300
     engagement: 247
     commentsToLikes: 0.052124
     id: ck5q1goqxawb30i118nqkw2vy
     verified: false
-    hashtags: "#violeta, #saltedcaramel, #chocolatejewels, #chocolovers"
+    hashtags: "#pastrychef, #chocolatelove, #v2020, #pastrylife"
   - username: "simpleyvivo"
     fullname: >-
       Talleres y Tienda Online
+    bio: >-
+      Nico de @simpleyvivo, desde 2013 👨‍🍳 Plant based chef certificado Cambiando paradigmas de alimentación 🌱 👇🏻 Tienda, Talleres, Blog y Recetas
     location: "Chile"
     followers: 60040
     engagement: 108
     commentsToLikes: 0.075990
     id: ck6uc7cwkdy2z0j71tkqb91nu
     verified: false
-    hashtags: "#saludables, #matchatea, #canela, #prote"
-  - username: "franciscocantinero"
+    hashtags: "#tallercocina, #vegan, #cocinavegana, #cuarentena"
+  - username: "ricardohoyosar"
     fullname: >-
-      Francisco Cantinero
+      Ricardo Hoyos
+    bio: >-
+      Empresario. 👨‍🍳 Pastry Chef 🧁Co-founder @donbonocoffeebakery 🏋️‍♂️Men's Physique, workout, nutrición. 👨‍⚕️Enfermero especialista en nefrología.
     location: "Chile"
-    followers: 2707
-    engagement: 1665
-    commentsToLikes: 0.089887
-    id: ck5hdvpy2plzd0i11mri6daj2
+    followers: 35522
+    engagement: 285
+    commentsToLikes: 0.028828
+    id: ckap6o68kgqdm0i78t21xfs5b
     verified: false
-    hashtags: "#vino, #drinks, #ginebra, #natural"
+    hashtags: "#donbono, #artesanal, #donbonocoffeebakery, #tbt"
   - username: "nataliaduco"
     fullname: >-
       N a t a l i a   D u c o
+    bio: >-
+      Atleta Olímpica Chilena 🇨🇱 #29semanas con Luciano 🤰 Psicología 〰️ Deporte 〰️ Cocina GANADORA 🏆 #MasterChefCelebrityChile
     location: "Chile"
-    followers: 105761
-    engagement: 576
-    commentsToLikes: 0.026394
+    followers: 243390
+    engagement: 609
+    commentsToLikes: 0.038644
     id: ck5q12hlf8ybh0i11ceh0c6go
     verified: true
-    hashtags: "#mymom, #wellness, #cuarentena, #banana"
-  - username: "mati.sepulvedat"
+    hashtags: "#mam, #masterchefcelebritychile, #strongwoman, #receta"
+  - username: "jmgfontaine"
     fullname: >-
-      Matías Sepúlveda Beach Tennis
+      Jose Miguel
+    bio: >-
+      •Masterchef 🇨🇱 2019. •Médico Veterinario 👨🏻‍⚕️. •@_natural.horse_ ELECTROACUPUNTURA/ DENTISTA EQUINO🐎. • @ika_bordercollie 🐶.
     location: "Chile"
-    followers: 10015
-    engagement: 471
-    commentsToLikes: 0.066534
-    id: ck5hef0unskeo0i11362d08cl
-    verified: false
-    hashtags: "#bienestar, #active, #funny, #snowtennis"
+    followers: 33084
+    engagement: 209
+    commentsToLikes: 0.041565
+    id: ck5zmpc3mmz4v0i14fw9pur14
+    verified: true
+    hashtags: "#chile, #yolo, #chef, #cooking"
   - username: "istvanmolnarb"
     fullname: >-
       Istvan Molnar
+    bio: >-
+      Artisan Baker Membre de @lestoquesblanches Embajador @polselli_la_farina_italiana
     location: "Chile"
-    followers: 80589
-    engagement: 102
-    commentsToLikes: 0.073268
+    followers: 90566
+    engagement: 132
+    commentsToLikes: 0.059121
     id: ck0w76c1xbz840i19q2cwmyde
     verified: false
-    hashtags: "#chefs, #croissants, #polselli, #burger"
+    hashtags: "#foodphotography, #bakery, #nytfood, #cheflife"
 ---

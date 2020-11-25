@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Madrid In 2020
 description: >-
-  Find top fitness TikTok influencers in Madrid in 2020. Most popular hashtags: #fitness #workout #dieta #quedateencasa.
+  Find top fitness TikTok influencers in Madrid in 2020. Most popular hashtags: #viral #madrid #fitness #parati.
 platform: TikTok
+hits: 11
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "realmadrid"
+  - username: "cuentaeliminxada"
     fullname: >-
-      Real Madrid C.F.
+      Adiós
+    bio: >-
+      
     location: "Spain"
-    followers: 2534435
-    engagement: 1276
-    commentsToLikes: 0.006640
-    id: ck8ke4hcc8lma0j780i5je3am
-    verified: true
-    hashtags: "#saves, #fans, #comehere, #bike"
-  - username: "dromomaniatico"
-    fullname: >-
-      Dromomaniático
-    location: "Spain"
-    followers: 7805
-    engagement: 513
-    commentsToLikes: 0.028585
-    id: ck9vftx274mu10j78wp4rotyk
+    followers: 73400
+    engagement: 416
+    commentsToLikes: 0.011696
+    id: ckcjhq3a3cecj0j238bw85pxw
     verified: false
-    hashtags: "#loimportante, #indignacion, #1000miles, #harto"
+    hashtags: "#modelofitness, #lifestyle, #feliz, #googleearth"
+  - username: "thephilhugo"
+    fullname: >-
+      Phil Hugo Farmacéutico y Coach
+    bio: >-
+      Farmacéutico y coach😀 #Nutricion #Fitness #Salud IG @thephilhugo
+    location: "Spain"
+    followers: 7961
+    engagement: 629
+    commentsToLikes: 0.042914
+    id: ckcuixvzngac30j234j9pzjt1
+    verified: false
+    hashtags: "#farmacia, #ceto, #energia, #fit"
+  - username: "videopatas"
+    fullname: >-
+      Videópatas 
+    bio: >-
+      😎La comedia no tiene edad 📍Madrid 📩Contacto comercial: videopatas@gmail.com
+    location: "Spain"
+    followers: 248900
+    engagement: 2447
+    commentsToLikes: 0.004619
+    id: ck81q5wx2g7pd0j784yd9epob
+    verified: true
+    hashtags: "#espa, #videopatas, #humorespa, #chistes"
+  - username: "sabrina_diaz_u"
+    fullname: >-
+      Sabrina Díaz Fitness & Lawyer
+    bio: >-
+      Abog. Magister en Derecho Internacional Diplomático. Mi lado fitness
+    location: "Spain"
+    followers: 18300
+    engagement: 524
+    commentsToLikes: 0.021564
+    id: ckcouofgr8vcb0j237ukvhujn
+    verified: false
+    hashtags: "#madrid, #healtyfood, #exercises, #gym"
+  - username: "mishoamoli"
+    fullname: >-
+      Mihail Amoli
+    bio: >-
+      Model / Stylist / YouTuber 📷 Instagram: @mishoamoli 🎥 YouTube: Misho Amoli
+    location: "Spain"
+    followers: 46100
+    engagement: 1060
+    commentsToLikes: 0.010387
+    id: ckd0h5sldef2v0j235jyluzdv
+    verified: false
+    hashtags: "#outfitchallenge, #madrid, #vintage, #estilo"
+  - username: "stefymadness"
+    fullname: >-
+      stefymadness
+    bio: >-
+      Aim high bro! Me gusta el parkour jejeje 🙈💕 🎥 IG: @stefymadness
+    location: "Spain"
+    followers: 250100
+    engagement: 1249
+    commentsToLikes: 0.005187
+    id: ck83zaq7bz7lb0j784w81hrrr
+    verified: false
+    hashtags: "#girl, #viral, #tiktok, #spain"
+  - username: "mariohervas"
+    fullname: >-
+      Mario Hervas 
+    bio: >-
+      Me sigues en Insta? @mariohervas ❤️👆 🦾 GET MY ABS MY FULL ABS PROGRAM 💥👇🏻
+    location: "Spain"
+    followers: 2900000
+    engagement: 1057
+    commentsToLikes: 0.011037
+    id: ck8nhe1p60h410j789l99io11
+    verified: true
+    hashtags: "#spain, #traje, #elmejorcuerpo, #tiktokerpro"
+  - username: "joseantoniolasoma"
+    fullname: >-
+      Jose antonio laso ma
+    bio: >-
+      Insta: @jose_al100x100 @mel_fo_fit
+    location: "Spain"
+    followers: 42200
+    engagement: 546
+    commentsToLikes: 0.035111
+    id: ck8f711z62u9d0j78qn65ozex
+    verified: false
+    hashtags: "#juntos, #viernes, #parati, #energy"
   - username: "brunosantos_official"
     fullname: >-
       Bruno Santos
+    bio: >-
+      MODELING TIPS / HOW TO POSE by www.brunosantosstudios.com
     location: "Spain"
-    followers: 4833
-    engagement: 247
-    commentsToLikes: 0.009852
+    followers: 6953
+    engagement: 131
+    commentsToLikes: 0.017907
     id: cka0r7v9ufw4n0i78q083oboz
     verified: false
-    hashtags: "#malaga, #organic, #nature, #shoting"
+    hashtags: "#fashion, #travel, #spain, #viral"
   - username: "manbunfon"
     fullname: >-
       Alfonso López Rubio
+    bio: >-
+      📍Madrid / Dancer ❤Vamos a por los 8.000?❤ Instagram: @alfonsolopezrubio
     location: "Spain"
-    followers: 6839
-    engagement: 661
-    commentsToLikes: 0.104134
+    followers: 7716
+    engagement: 653
+    commentsToLikes: 0.083945
     id: cka0ivh5cfddv0i78fim8268j
     verified: false
-    hashtags: "#quienpuede, #partner, #newjob, #underthesea"
-  - username: "rosane.camilo"
-    fullname: >-
-      Rosane Camilo
-    location: "Spain"
-    followers: 2620
-    engagement: 478
-    commentsToLikes: 0.023865
-    id: ck9ej9v7q1pga0j789hl1iklt
-    verified: false
-    hashtags: "#gluteo, #instagramstory, #buenosdias, #girltraining"
-  - username: "fitnesa"
-    fullname: >-
-      CLAUDIA🇪🇸🤗🇵🇱
-    location: "Spain"
-    followers: 31395
-    engagement: 653
-    commentsToLikes: 0.090280
-    id: ck9009zpea64e0j788uj75xei
-    verified: false
-    hashtags: "#alma, #polkichurra, #operacionbikini, #solo"
-  - username: "fitcat"
-    fullname: >-
-      Danny Hinsch
-    location: "Spain"
-    followers: 20797
-    engagement: 653
-    commentsToLikes: 0.030070
-    id: cka0nyb0x1dyo0i789gh7j1hm
-    verified: false
-    hashtags: "#carmenlomana, #coronatime, #lqsa, #surfing"
-  - username: "leenasofia"
-    fullname: >-
-      Leena
-    location: "Spain"
-    followers: 430190
-    engagement: 549
-    commentsToLikes: 0.012632
-    id: ck8tq5kjyqpav0j78ofiu3d80
-    verified: false
-    hashtags: "#goviral, #ejercitodemi, #quarantine, #ad"
-  - username: "crispo___"
-    fullname: >-
-      CrIsPo
-    location: "Spain"
-    followers: 11241
-    engagement: 1035
-    commentsToLikes: 0.070248
-    id: ck904fbtbe5170j78rv7j9v7m
-    verified: false
-    hashtags: "#quedateencasa, #garabato, #sirenbeat, #dance"
-  - username: "maydenyt"
-    fullname: >-
-      Maydensito
-    location: "Spain"
-    followers: 117142
-    engagement: 1566
-    commentsToLikes: 0.012894
-    id: ck9036wo3d35c0j780m1gvxd6
-    verified: false
-    hashtags: "#risa, #inverted, #gym, #fitnesschallenge"
+    hashtags: "#desescalada, #tiktok, #gay, #viral"
 ---

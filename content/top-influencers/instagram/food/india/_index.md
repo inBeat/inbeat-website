@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In India In 2020
 description: >-
-  Find top food Instagram influencers in India in 2020. Most popular hashtags: #instadaily #delhi #beachvibes #beachlife.
+  Find top food Instagram influencers in India in 2020. Most popular hashtags: #ig #passionpassport #instakolkata #kolkata.
 platform: Instagram
+hits: 3236
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 3236 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "x_markzian"
+  - username: "ourpassportstory_"
     fullname: >-
-      irshad mohammed ♞【 Z.X 】
+      Surbhi & Nehil | Travel Couple
+    bio: >-
+      TRAVEL IN STYLE ❥ #travelcouple made in #dubai Travel | Fashion | Food 📍Dubai 🇦🇪 | India 🇮🇳 🗺 13 countries and counting Chartered Accountants
     location: "India"
-    followers: 2384
-    engagement: 3265
-    commentsToLikes: 0.214148
-    id: ck9wfd8rkocij0j789skl4nk0
+    followers: 5684
+    engagement: 2271
+    commentsToLikes: 0.093308
+    id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#kali, #instagramnyc, #sparkleteam, #keralagallery"
-  - username: "thebeautycape"
+    hashtags: "#dubaibloggers, #dubai, #traveldeeper, #travelcouples"
+  - username: "swalih__sinu"
     fullname: >-
-      Anjali Soni | Jaipur Blogger
+      صلح 
+    bio: >-
+      #mallu Boy #food ball lover💞 #Njr uyr💋 #Soul love music🎼 #kl55/Qatar🇮🇳🇶🇦 #Adventure #Bike Rider #First cry on October 20 #Dream boy #Twenty
     location: "India"
-    followers: 9313
-    engagement: 1510
-    commentsToLikes: 0.105464
-    id: ck8t7j0sqgzle0j78l7n9t8w2
+    followers: 2871
+    engagement: 3954
+    commentsToLikes: 0.188094
+    id: ckf5vzlcbqeks0j2331o40n9s
     verified: false
-    hashtags: "#staysafe20mch, #worldsleepday, #digitalfoody, #fashioninspo"
-  - username: "aasthachaudhary"
+    hashtags: "#duke, #ktm, #superbikers, #ktmindiaofficial"
+  - username: "sejaltiwari3"
     fullname: >-
-      GO CORONA GO
+      seju,,,,,,,❤😘😘😘
+    bio: >-
+      Lifestyle / Fashion / Foodie Wish Me On 12 Dec🎂 I Love My Self Surat Smart City❤
     location: "India"
-    followers: 7725
-    engagement: 1845
-    commentsToLikes: 0.066863
-    id: ck8t4gs3s6rdl0j78uazsze5f
+    followers: 3190
+    engagement: 2328
+    commentsToLikes: 0.150934
+    id: ckaou1twpyf8q0i78rmbq4fnb
     verified: false
-    hashtags: "#smilemore, #poetry, #rajasthaniculture, #unitedathome"
-  - username: "glamup_with_ankita"
-    fullname: >-
-      ANKITA  MAJUMDAR👸💕| Influencer
-    location: "India"
-    followers: 43970
-    engagement: 588
-    commentsToLikes: 0.059201
-    id: ck15rkzh18fpd0i190jz9h26t
-    verified: false
-    hashtags: "#photo, #streets, #street, #igcalcutta"
-  - username: "wanderwithabi"
-    fullname: >-
-      Abi ☀️ Tamil YouTuber 🔥
-    location: "India"
-    followers: 6833
-    engagement: 1656
-    commentsToLikes: 0.058676
-    id: ck8t7b9q6g6zs0j78b48ftgtk
-    verified: false
-    hashtags: "#polaris, #ride, #photography, #britishbungalow"
+    hashtags: ""
   - username: "bhoomee_17"
     fullname: >-
       Bhoomi Panchal | Blogger
+    bio: >-
+      • Abundance 🧘‍♀️ 📍India 🇮🇳 • Travel • Fashion • Food • • Enquires : Bhumipanchal881@gmail.com • Pv acc : @bhooms_17
     location: "India"
-    followers: 6444
-    engagement: 1117
-    commentsToLikes: 0.091541
+    followers: 6401
+    engagement: 1220
+    commentsToLikes: 0.125972
     id: ck9wf9wminw340j78yoyxpk37
     verified: false
-    hashtags: "#ngtindia, #sajjangarh, #instadaily, #sheisnotlost"
-  - username: "psycho__payyan"
+    hashtags: "#themysterypr0ject, #777luckyfish, #indiapictures, #travelblogger"
+  - username: "glamup_with_ankita"
     fullname: >-
-      psycho__payyan
+      ANKITA  MAJUMDAR👸💕| Influencer
+    bio: >-
+      #glamupwithankita #foodblogger First cry on 4th Aug🎂 @foodieslove_kolkata 💌For business inquiry E-mail 📩ankitamajumdar6335@gmail.com YOUTUBE LINK
     location: "India"
-    followers: 3296
-    engagement: 1929
-    commentsToLikes: 0.266225
-    id: ck9wgp0bvucaa0j78s1qr1cx1
+    followers: 57389
+    engagement: 570
+    commentsToLikes: 0.052210
+    id: ck15rkzh18fpd0i190jz9h26t
     verified: false
-    hashtags: "#takipc, #fenerbahc"
-  - username: "shenu_ts"
+    hashtags: "#sareeblousedesigns, #bangladesh, #sareelover, #sareecollection"
+  - username: "priyaspassion"
     fullname: >-
-      Abu Shanahulla Ts
+      Priya Das
+    bio: >-
+      ✨Be Content with an Ordinary Life✨ ⚜️Lifestyle🧘🔸Fashion💃🔸Food🍔🔸Travel🏖️ 📩 DM or Mail for Collabs... ⚜️FoodPage @journeywith_flavors YouTube link➡️⤵️
     location: "India"
-    followers: 17904
-    engagement: 669
-    commentsToLikes: 0.222863
-    id: ckaoz8duxktkp0i78iwhu2ulu
+    followers: 14721
+    engagement: 1375
+    commentsToLikes: 0.052253
+    id: ck14l7r1cta800i19l26luckd
     verified: false
-    hashtags: ""
-  - username: "sana_dutta_"
+    hashtags: "#kolkatasutra, #kolkataigers, #igcalcutta, #thekolkatavibes"
+  - username: "thehappym0nkeys"
     fullname: >-
-      🌹 Sana 🌹
+      POOJA ~ Travel Monkey 🙊🙊
+    bio: >-
+      • Travel • Fashion • Lifestyle • Food • #happym0nkeys 🇮🇳 🇮🇩 🇧🇹 🇹🇷 🇪🇭🏡
     location: "India"
-    followers: 2750
-    engagement: 1854
-    commentsToLikes: 0.143124
-    id: ckaos27yfptpd0i78kx6vs5lc
+    followers: 15817
+    engagement: 877
+    commentsToLikes: 0.080982
+    id: ckaou6e70z01p0i78ijmhj6zw
     verified: false
-    hashtags: "#goal, #sketchart, #redcolor, #indianculture"
-  - username: "_.j_a_y_u._"
+    hashtags: "#ig, #cntraveler, #mysore, #karnatakatourism"
+  - username: "belikehira"
     fullname: >-
-      j@y£sh_ñîñãmā
+      Hira Ahmed | Content Creator
+    bio: >-
+      Food•Fashion•Beauty Owns @thefantasypr Lifestyle Blogger 🦋 DM for PR & Collab. Lahore.
     location: "India"
-    followers: 16120
-    engagement: 1049
-    commentsToLikes: 0.074527
-    id: ck9hai58gcn5b0j78cbi63a35
+    followers: 5267
+    engagement: 1323
+    commentsToLikes: 0.177364
+    id: ck6ty2upw1d040j71b4ssdzsm
     verified: false
-    hashtags: ""
+    hashtags: "#modestfashion, #quarntine, #belikehira, #supportsmallbusiness"
+  - username: "mohammed_rizvan_mr"
+    fullname: >-
+      // RIZVAN MR //
+    bio: >-
+      | Nature • Music • Travel • Fitness • Food| 6 ft 2🕴 Bengaluru❌Kottakkal Auto Enthusiast 🚦 🃏
+    location: "India"
+    followers: 3081
+    engagement: 1903
+    commentsToLikes: 0.124660
+    id: ck6u14ey8jis10j71ztaj15dm
+    verified: false
+    hashtags: "#aesthetic, #bangalorediaries, #vsco, #aestheticedits"
+  - username: "aasthachaudhary"
+    fullname: >-
+      aastha Chaudhary
+    bio: >-
+      Proud indian 🇮🇳 Thalassophile,dreamer, traveller, foodie 🤤 #manchesterunited & #cr7 for life 🙌 Dm for collaboration 👍
+    location: "India"
+    followers: 12678
+    engagement: 956
+    commentsToLikes: 0.187819
+    id: ck8t4gs3s6rdl0j78uazsze5f
+    verified: false
+    hashtags: "#aasthachaudhary, #madeinindia, #handblockprinted, #cottondresses"
 ---

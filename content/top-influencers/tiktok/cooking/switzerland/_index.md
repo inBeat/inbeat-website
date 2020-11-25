@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top cooking TikTok influencers in Switzerland in 2020. Most popular hashtags: #cooking #foryoupage #music #challenge.
+  Find top cooking TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #foryou #cooking #funny.
 platform: TikTok
+hits: 17
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 17 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "habtz"
+  - username: "mehit77"
     fullname: >-
-      🐰
+      Mehit
+    bio: >-
+      Mom from June the showering Cat Love Cooking Vision Events Dipl. Eventmanagerin
     location: "Switzerland"
-    followers: 2392
-    engagement: 976
-    commentsToLikes: 0.033635
-    id: ckai1nzbgcjmi0i78ffpd6w2i
+    followers: 5346
+    engagement: 1206
+    commentsToLikes: 0.081778
+    id: ck9tua84vklv40j78c04vzwq6
     verified: false
-    hashtags: "#saltedcaramel, #cajun, #oreo, #panecakes"
-  - username: "switzerlandtourism"
+    hashtags: "#ilovemycat, #kochen, #chocolate, #junetheshoweringcat"
+  - username: "akimbrian"
     fullname: >-
-      Switzerland Tourism
+      akimpbrian
+    bio: >-
+      🇨🇭 i eat a lot insta : akimpbrian dix mille arc-en-ciel
     location: "Switzerland"
-    followers: 19211
-    engagement: 819
-    commentsToLikes: 0.023156
-    id: ck9kenxi9zqj80j78smdcuccf
-    verified: true
-    hashtags: "#dntl, #weekendvibes, #joballtag, #alpakacrew"
-  - username: "delikates.ch"
-    fullname: >-
-      delikates.ch
-    location: "Switzerland"
-    followers: 2628
-    engagement: 387
-    commentsToLikes: 0.111176
-    id: ck8tlndh7c7my0j781m6cfa20
+    followers: 18400
+    engagement: 1289
+    commentsToLikes: 0.013946
+    id: ckbfftxrjapem0j2392m8x70f
     verified: false
-    hashtags: "#geburtstagskind, #cake, #einlegen, #tomahawksteak"
+    hashtags: "#pt, #suisse, #switzerland, #comedie"
+  - username: "megha_gupta318"
+    fullname: >-
+      Megha Gupta
+    bio: >-
+      🇮🇳🇨🇭
+    location: "Switzerland"
+    followers: 34800
+    engagement: 412
+    commentsToLikes: 0.019870
+    id: ckbkulgg8prcx0j239tfcuhkl
+    verified: false
+    hashtags: "#chef, #foryou, #couplegoals, #europe"
+  - username: "rudylong_17"
+    fullname: >-
+      RudyLong
+    bio: >-
+      ⁉️Likes without watching videos?🤔🤷‍♂️⁉️ 🇸🇰 / 🇨🇭 welcome in funnyland 🤪
+    location: "Switzerland"
+    followers: 64600
+    engagement: 1673
+    commentsToLikes: 0.118890
+    id: ckdnv4w1xo6q00j230wqor8yy
+    verified: false
+    hashtags: "#xcyzba, #swissman17, #acting, #jeffdunham"
+  - username: "delphineroucher"
+    fullname: >-
+      𝑫𝒆𝒍𝒑𝒉𝒊𝒏𝒆 🌵
+    bio: >-
+      23 | Genève📍INSTA ⬆️ ✨elle/she✨ Ma fiction ⤵️
+    location: "Switzerland"
+    followers: 108300
+    engagement: 1132
+    commentsToLikes: 0.030315
+    id: ck84mbhq3mxoo0j78hd5fd2go
+    verified: false
+    hashtags: "#switzerland, #foryou, #pourtoi, #swiss"
+  - username: "corinne_zhh"
+    fullname: >-
+      🌟corinne🌟
+    bio: >-
+      ⭐️ | Momlife ( 2 Kids ) ⭐️ | Mixed by 🇨🇭🇹🇭🇪🇸 ⭐️ | Instagram / corinne_zhh
+    location: "Switzerland"
+    followers: 446600
+    engagement: 1562
+    commentsToLikes: 0.011184
+    id: ck9n54hu46edf0j78m0s78q3d
+    verified: false
+    hashtags: "#cook, #food, #foodlover, #favorite"
+  - username: "boccalino.lana"
+    fullname: >-
+      boccalino.lana 🇨🇭
+    bio: >-
+      Live, Love, Laugh 🙏🏻❣️😂 From Switzerland 🇨🇭 🗣 🇫🇷🇮🇹🇪🇸🇬🇧
+    location: "Switzerland"
+    followers: 9179
+    engagement: 512
+    commentsToLikes: 0.075095
+    id: ckamm3qgcyt3r0i78luxbyfnl
+    verified: false
+    hashtags: "#foryou, #perte, #foryoupage, #funny"
+  - username: "_mario.jannick_"
+    fullname: >-
+      Mario jannick 
+    bio: >-
+      🙏 show my Ig some love 📧 barrymoha1@gmail.com ⚽️ 17 years old Content Crator
+    location: "Switzerland"
+    followers: 129800
+    engagement: 1278
+    commentsToLikes: 0.022771
+    id: ck9r43irit9hy0j7867jw1t35
+    verified: false
+    hashtags: "#football, #soccer, #fyp, #duet"
   - username: "stvdrfs"
     fullname: >-
       SD
+    bio: >-
+      Live. Love. Laugh. Repeat ♾. Great things ahead Grateful.
     location: "Switzerland"
-    followers: 2386
-    engagement: 623
-    commentsToLikes: 0.020830
+    followers: 2726
+    engagement: 616
+    commentsToLikes: 0.020097
     id: cka66ltunhhdk0i78domahh8f
     verified: false
-    hashtags: "#reallifeathome, #whale, #serie, #salt"
-  - username: "ch1n00ck"
+    hashtags: "#foryou, #fyp, #home, #fy"
+  - username: "k.siy"
     fullname: >-
-      TamRa
+      𝐊 𝐒 𝐈 𝐘
+    bio: >-
+      🪐 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃 ♡ тнαʟαραтнч
     location: "Switzerland"
-    followers: 2047
-    engagement: 265
-    commentsToLikes: 0.049763
-    id: ckafu405k8twm0i78j274l97r
+    followers: 11700
+    engagement: 710
+    commentsToLikes: 0.033184
+    id: ck9rp5vkefyeo0j78gdddda3m
     verified: false
-    hashtags: "#orange, #sweetdreams, #hotcake, #perfektidea"
-  - username: "mb_inspo"
-    fullname: >-
-      MARI JANA 💍
-    location: "Switzerland"
-    followers: 2106
-    engagement: 370
-    commentsToLikes: 0.036644
-    id: ck9ra1jyqj0ni0j785n7b68mq
-    verified: false
-    hashtags: "#beautyhacks, #spring, #homehack, #unterhaltenuns"
-  - username: "clive_bucher"
-    fullname: >-
-      Clive Bucher
-    location: "Switzerland"
-    followers: 18469
-    engagement: 386
-    commentsToLikes: 0.021263
-    id: ck8vwkna4oplj0j78aoz5fuly
-    verified: false
-    hashtags: "#happy, #enjoylife, #challenege, #easter"
-  - username: "_ianf"
-    fullname: >-
-      _Ianf
-    location: "Switzerland"
-    followers: 2400
-    engagement: 436
-    commentsToLikes: 0.023073
-    id: ckamvqfdv4vxt0i781j3osito
-    verified: false
-    hashtags: "#mirror, #cups, #rubbing, #screaming"
-  - username: "fabiandoerigreal"
-    fullname: >-
-      fabiandoerig
-    location: "Switzerland"
-    followers: 19106
-    engagement: 413
-    commentsToLikes: 0.009018
-    id: cka85p771yzxm0i78w46reb9f
-    verified: false
-    hashtags: "#pokemon, #120fps, #bottle, #skating"
-  - username: "theginaddict"
-    fullname: >-
-      The Gin Addict
-    location: "Switzerland"
-    followers: 2016
-    engagement: 443
-    commentsToLikes: 0.009304
-    id: cka646xc07f2y0i783xiu2bj0
-    verified: false
-    hashtags: "#cooking, #art, #glass, #kitchen"
+    hashtags: "#viral, #friend, #switzerland, #tamil"
 ---

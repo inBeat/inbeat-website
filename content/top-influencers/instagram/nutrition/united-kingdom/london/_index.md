@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In London In 2020
 description: >-
-  Find top nutrition Instagram influencers in London in 2020. Most popular hashtags: #balance #nutrition #stayhome #healthyfood.
+  Find top nutrition Instagram influencers in London in 2020. Most popular hashtags: #london #nutrition #coffee #summer.
 platform: Instagram
+hits: 65
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 65 Instagram influencers like this in London, United Kingdom for you to work with.
 profiles:
   - username: "dr_nazikabed"
     fullname: >-
       Dr. Nazik Abed  د.نازك عبد
+    bio: >-
+      Iraqi doctor lives in London Proud to be Iraqi 🇮🇶 MSc Clinical Dermatology(London) MSc Nutrition (London)
     location: "United Kingdom"
-    followers: 104169
-    engagement: 358
-    commentsToLikes: 0.040451
+    followers: 239946
+    engagement: 158
+    commentsToLikes: 0.028626
     id: ck0w75oj8bvv30i19d34qxzcc
     verified: false
-    hashtags: "#hair, #coffee, #covid, #thankyou"
+    hashtags: "#bagdad, #love, #baghdadi, #mosul"
+  - username: "galettigram"
+    fullname: >-
+      Monica Galetti
+    bio: >-
+      Mother / Chef owner Mere Restaurant&Bar @MereRestaurant / MasterChef Pros / Amazing Hotels BBC2
+    location: "United Kingdom"
+    followers: 112120
+    engagement: 172
+    commentsToLikes: 0.035275
+    id: ck0tz3eydp14a0i192k9ad6sd
+    verified: true
+    hashtags: "#masterchef, #eatlondon, #foodpics, #nutrition"
+  - username: "jennyjonessnow"
+    fullname: >-
+      jennyjonessnow
+    bio: >-
+      Snowboard Olympic Bronze medalist. Avid Surfer BBC SkiSunday presenter. Specialist coach. Lover of adventures:) Media Enquiries APHILLIPS@TEAMWASS.COM
+    location: "United Kingdom"
+    followers: 38909
+    engagement: 318
+    commentsToLikes: 0.027049
+    id: ck5px3mkzpxsw0i11rzah1he0
+    verified: true
+    hashtags: "#devon, #snow, #sweaty, #winterolympics"
   - username: "plantbasedjudy"
     fullname: >-
       PBJ 🌱 vegan nutritionist (BSc)
+    bio: >-
+      🌿 evidence-based, body positive nutrition 📍 london 💌 plantbasedjudy@gmail.com 🏳️‍🌈 she/her
     location: "United Kingdom"
-    followers: 108195
-    engagement: 129
-    commentsToLikes: 0.046037
+    followers: 105325
+    engagement: 119
+    commentsToLikes: 0.045081
     id: ck5zsb6dzy60x0i14mm23y9p0
     verified: false
-    hashtags: "#thelindanotdog, #veganpho, #summerrolls, #vegansoflondon"
-  - username: "martena_fit"
+    hashtags: "#easyvegan, #veganpizza, #veganfoodshare, #veganrecipes"
+  - username: "lilypartridge"
     fullname: >-
-      MARTENA DAVID
+      L I L Y  P A R T R I D G E
+    bio: >-
+      GB Athlete & Professional Runner for @adidas 👟❤ 👑 British Half Marathon Champion
     location: "United Kingdom"
-    followers: 5706
-    engagement: 595
-    commentsToLikes: 0.398924
-    id: ck9hbnpi9hnj30j78qyfeuv6p
+    followers: 14081
+    engagement: 429
+    commentsToLikes: 0.015474
+    id: ck14j964wj6lu0i1954ggmyjf
     verified: false
-    hashtags: "#veganskincare, #legsworkout, #slenderblend, #everydaymotivation"
-  - username: "maira_ignazzi"
+    hashtags: "#runnersofinstagram, #adizeroadiospro, #summer, #hometeam"
+  - username: "beccaroseuk"
     fullname: >-
-      M a ï r a   I g n a z z i 🍂🍒🐒
+      B 🐝 Miss World Beauty 2018
+    bio: >-
+      📍 london 🔐 brit model • tv presenter • content creator 5’11 🦒 in human clothing ↓ ↓ portfolio ↓ ↓
     location: "United Kingdom"
-    followers: 7549
-    engagement: 579
-    commentsToLikes: 0.245421
-    id: ck0w2do5ontxr0i196rsjnd99
+    followers: 10820
+    engagement: 515
+    commentsToLikes: 0.243096
+    id: ckap9re9mtcll0i78giqwd6lh
     verified: false
-    hashtags: "#quarantinepillowchallenge, #quarantinelife, #ad, #ma"
+    hashtags: "#londonmodel, #quizqueen, #london, #ootn"
+  - username: "emilyrosemoreton"
+    fullname: >-
+      Emily Moreton BSc MSc ANutr
+    bio: >-
+      🥑Registered Associate Nutritionist 💉Registered Nurse 🏋🏼‍♀️ @strongandsxy Nutritionist ~ performance nutrition 👩🏼‍🍳 + recipe development 📍London￼
+    location: "United Kingdom"
+    followers: 32084
+    engagement: 384
+    commentsToLikes: 0.046432
+    id: ck9hcj2zwlnhb0j78x491bqvl
+    verified: false
+    hashtags: "#internationalnursesday, #paleofoodsco, #ad"
+  - username: "byollieb"
+    fullname: >-
+      Ollie B
+    bio: >-
+      📍| London 🎙| 950k on TikTok 📮Burton.ollie@me.com
+    location: "United Kingdom"
+    followers: 39809
+    engagement: 295
+    commentsToLikes: 0.091461
+    id: ck0vzslmfapj30i19uzcb5af1
+    verified: false
+    hashtags: "#canonphotos, #artis, #disneyobsessed, #thisislondon"
+  - username: "yana__fit"
+    fullname: >-
+      Yana 🌈
+    bio: >-
+      🥑 Food 🏋️‍♀️Fitness 🙅🏻‍♀️Feminism 👩🏻‍🔬BSc | 182cm 🌍PT in training @origym_coe Support links below ⤵️ 📍London,
+    location: "United Kingdom"
+    followers: 33115
+    engagement: 128
+    commentsToLikes: 0.172623
+    id: ck8tbw1i0xda50j786ct6l9o5
+    verified: false
+    hashtags: "#caloriedeficit, #healthymealprep, #flexibledieting, #vegetarian"
   - username: "vithyahairandmakeup"
     fullname: >-
       Vithya Visvendra
+    bio: >-
+      An International Makeup Artist, Educator, YouTuber, and Mental Health Advocate; a Sri Lankan Tamil entrepreneur living between London and Kuala Lumpur
     location: "United Kingdom"
-    followers: 258500
-    engagement: 476
-    commentsToLikes: 0.016070
+    followers: 271346
+    engagement: 345
+    commentsToLikes: 0.011620
     id: ck0w71769b8xd0i19pvaecb29
     verified: false
-    hashtags: "#mentalhealthawarenessweek, #mentalhealthawareness"
-  - username: "foodiefittwinmummy"
-    fullname: >-
-      Sally
-    location: "United Kingdom"
-    followers: 39422
-    engagement: 795
-    commentsToLikes: 0.079136
-    id: ck136d3a95w8s0i19kc6lg5aa
-    verified: false
-    hashtags: "#bananabread, #veganfood, #eatrealfoods, #coconutbowls"
-  - username: "britmanclass"
-    fullname: >-
-      Dan R
-    location: "United Kingdom"
-    followers: 3303
-    engagement: 1133
-    commentsToLikes: 0.182368
-    id: ck55ogx168bvv0i114wvo10i8
-    verified: false
-    hashtags: "#stretching, #buzz, #newsuitrules, #gifts"
-  - username: "nin.fs"
-    fullname: >-
-      N ℹ️N0️⃣
-    location: "United Kingdom"
-    followers: 11281
-    engagement: 427
-    commentsToLikes: 0.051524
-    id: ck5byi4d5p6u80i11861y0mxp
-    verified: false
-    hashtags: "#bodyandfituk, #skippingaintfun, #selfie, #nutrition"
-  - username: "annika_n_o"
-    fullname: >-
-      Annika
-    location: "United Kingdom"
-    followers: 11891
-    engagement: 499
-    commentsToLikes: 0.031166
-    id: ck15tg20lhwkq0i19rrdvswkx
-    verified: false
-    hashtags: "#sushitime, #people, #buenosdias, #midnight"
-  - username: "vamosi.viktoria"
-    fullname: >-
-      Viktoria Vamosi - Official
-    location: "United Kingdom"
-    followers: 23362
-    engagement: 298
-    commentsToLikes: 0.023013
-    id: ck0w1sk7jkx9t0i19hbqhd1c7
-    verified: false
-    hashtags: "#skincare, #plantbaseddiet, #peacefulwarrior, #bebold"
+    hashtags: "#cotton, #kurta, #diwali, #facemask"
 ---

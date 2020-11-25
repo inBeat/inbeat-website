@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Finland In 2020
 description: >-
-  Find top architecture Instagram influencers in Finland in 2020. Most popular hashtags: #architecture #arkkitehtuuri #marimekko #finland.
+  Find top architecture Instagram influencers in Finland in 2020. Most popular hashtags: #architecture #helsinki #archilovers #finland.
 platform: Instagram
+hits: 21
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in Finland for you to connect with.
 profiles:
-  - username: "omarelmrabt"
+  - username: "mariakangaskortet"
     fullname: >-
-      Omar El Mrabt | Helsinki 🇫🇮
+      Maria Kangaskortet
+    bio: >-
+      Family & entrepreneur lifestyle 🇫🇮 YouTube:The Realm of Maria 🖤creative soul, author, interior architecture student 💌therealmofmaria@hotmail.com
     location: "Finland"
-    followers: 34479
-    engagement: 270
-    commentsToLikes: 0.021935
-    id: ck0ubx90tfgu50i196dhhgupj
-    verified: true
-    hashtags: "#punavuori, #winterwonderland, #colorfullife, #keva"
+    followers: 22244
+    engagement: 1054
+    commentsToLikes: 0.007904
+    id: ck8syn8lilc650j7873hvclgb
+    verified: false
+    hashtags: "#ruokavinkki, #arla, #kasvisruoka, #marianresepti"
+  - username: "tomipics"
+    fullname: >-
+      Tomi
+    bio: >-
+      📍 21 | Helsinki based 📷 Urban | Architecture | Portrait 📬 tomipicsbusiness@gmail.com
+    location: "Finland"
+    followers: 35058
+    engagement: 798
+    commentsToLikes: 0.036212
+    id: ck0u80l8w638a0i19evevvwau
+    verified: false
+    hashtags: ""
   - username: "shahad_alshawk"
     fullname: >-
       SHAHAD AL-SHAWK     شهد الشوك
+    bio: >-
+      ‏#Architecture #Design #Interior #Travel #Food ‏📍Helsinki/Finland 🇫🇮 ‏From : Baghdad/Iraq 🇮🇶 ‏#Architect #Iraqi #Wife#Mom رابط صفحتنا ⬇️⬇️⬇️
     location: "Finland"
     followers: 28565
     engagement: 165
     commentsToLikes: 0.188829
     id: ck9wisobi3slb0j7807zufmyv
     verified: false
-    hashtags: "#nature, #dontrushchallenge, #interiordesign, #nice"
-  - username: "katarinaruusu"
+    hashtags: "#interiorsketch, #bestoftheday, #travel, #traveltheworld"
+  - username: "gillesretsin"
     fullname: >-
-      Katarina
+      Gilles Retsin
+    bio: >-
+      Gilles Retsin Architecture, AUAR + UCL the Bartlett. UK/BE #GillesRetsin #discrete #discretedesign #discretearchitecture
     location: "Finland"
-    followers: 5086
-    engagement: 959
-    commentsToLikes: 0.020960
-    id: ck8szpwpjpa710j78lucyp04y
+    followers: 10113
+    engagement: 572
+    commentsToLikes: 0.008344
+    id: ck55ocfo983hi0i11l2n23yrg
     verified: false
-    hashtags: "#nickstosugar, #potretti, #coffee, #outfit"
-  - username: "petrimastphotography"
+    hashtags: "#retsin, #archilovers, #next, #arqsketch"
+  - username: "exoticrealestates"
     fullname: >-
-      P E T R I M A S T
+      Exotic Real Estates
+    bio: >-
+      🌄 EXOTIC #realestates and #architectures 🌎 Content from around the globe 🙌 Join our community @exoticarchitectures @exoticrealestates
     location: "Finland"
-    followers: 20151
-    engagement: 419
-    commentsToLikes: 0.002915
-    id: ck0w16yljhuv00i19jtzt0w8a
+    followers: 12883
+    engagement: 201
+    commentsToLikes: 0.022120
+    id: ck13b5cs9tr790i19dtp0fhso
     verified: false
-    hashtags: "#mercedes, #photography, #awesomeness, #lahdensatama"
-  - username: "anna_from_finland"
+    hashtags: "#exoticrealestates, #showitbetter, #architecturedose, #arizona"
+  - username: "namastediary"
     fullname: >-
-      Влюбленная в ФИНЛЯНДИЮ
+      namastediary
+    bio: >-
+      Expat📍🇫🇮 Love travelling✈️ 🔹Cityscape 🔹Streetscape #oneplus7pro #fujixt30 📸All my edits are in Lightroom mobile
     location: "Finland"
-    followers: 15788
-    engagement: 597
-    commentsToLikes: 0.086303
-    id: ck6u8d73aqvua0j71dmvkjuol
+    followers: 5403
+    engagement: 1888
+    commentsToLikes: 0.058892
+    id: ck5zwu0b96rj20i145rkkf9cv
     verified: false
-    hashtags: "#live, #lovestory, #sea, #baby"
-  - username: "tuulaslife"
+    hashtags: "#earthvisuals, #fujifilm, #outdoorfinland, #condenasttraveler"
+  - username: "kristovedenoja"
     fullname: >-
-      Tuula / Tuula's life
+      Kristo Vedenoja | Helsinki
+    bio: >-
+      📸 Architectural photography and city scenes! 📝 For inquiries: hello@kristovedenoja.com 🏢 Follow my Helsinki project @helsinkifacades
     location: "Finland"
-    followers: 5483
-    engagement: 694
-    commentsToLikes: 0.062448
-    id: ck13a03b6nykf0i19nnzso8q7
+    followers: 10455
+    engagement: 915
+    commentsToLikes: 0.064609
+    id: ck0vuznspmven0i19o5s0c2m5
     verified: false
-    hashtags: "#byraili, #vesille, #procare, #nelkyplusblogit"
-  - username: "travelbucketlist_tbl"
+    hashtags: "#raw, #architectanddesign, #geometrygrammer, #symmetryhunters"
+  - username: "marjawickman"
     fullname: >-
-      𝙏𝙧𝙖𝙫𝙚𝙡 𝘽𝙪𝙘𝙠𝙚𝙩 𝙇𝙞𝙨𝙩 🌍
+      MUSTA OVI
+    bio: >-
+      Art Director | Designer | Blogger ➕The Best Interior Design Blog 2016 and 2017✖️ Author @festive_book
     location: "Finland"
-    followers: 9549
-    engagement: 911
-    commentsToLikes: 0.023812
-    id: ck9hbnn6khn930j78gvqlrmq8
+    followers: 33296
+    engagement: 276
+    commentsToLikes: 0.051774
+    id: ck0tumzey7tgw0i197y3omiio
     verified: false
-    hashtags: "#palace, #dreamcatcher, #exploremore, #monument"
-  - username: "linna_vuori"
+    hashtags: "#raami, #homedecor, #concretewall, #iittala"
+  - username: "vesapihanurmi"
     fullname: >-
-      Riikka | scandinavian interior
+      Vesa Pihanurmi | Photo Artist
+    bio: >-
+      My new MONOGRAPH published - softcover and hardcover editions available:
     location: "Finland"
-    followers: 4851
-    engagement: 830
-    commentsToLikes: 0.117565
-    id: ck5q3hkwaks3p0i11y988umxq
+    followers: 20267
+    engagement: 291
+    commentsToLikes: 0.057839
+    id: ck5bx8pprn81t0i11tljzp8m4
     verified: false
-    hashtags: "#marimekko, #aitous, #lapsetleipoo, #sunnuntai"
-  - username: "instakodit"
+    hashtags: "#masters, #trees, #streets, #archi"
+  - username: "vhi_photography"
     fullname: >-
-      Instakodit.fi
+      Vesa Hirsmäki
+    bio: >-
+      🇫🇮 Finland | Lohja 💎Nature | Travelling | Cooking 💎Philately @vhi_philately ❤ IG husband @instyle.by.anne 📷 Olympus OM-DE-M10
     location: "Finland"
-    followers: 17489
-    engagement: 239
-    commentsToLikes: 0.003950
-    id: ck6tpot3klaho0j715ovts7ih
+    followers: 9006
+    engagement: 691
+    commentsToLikes: 0.009676
+    id: ckapcj91e41d70i78xlit100q
     verified: false
-    hashtags: "#exoticdecor, #vmcarpet, #carlandhanson, #naturaltones"
-  - username: "scandinaviastandard"
-    fullname: >-
-      Scandinavia Standard
-    location: "Finland"
-    followers: 36655
-    engagement: 138
-    commentsToLikes: 0.014821
-    id: ck15rsewq9gqf0i19yz9v4gwz
-    verified: false
-    hashtags: "#sigurdlewerentz, #muuto, #nomaburger, #codroe"
+    hashtags: "#plantarchitecture, #finnisharchitecture, #photography, #food"
 ---

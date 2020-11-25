@@ -1,107 +1,130 @@
 ---
 title: Top 10 Outdoors TikTok Influencers In 2020
 description: >-
-  Find top outdoors TikTok influencers in 2020. Most popular hashtags: #homeproject #foryourpage #gotthisforyou #natureathome.
+  Find top outdoors TikTok influencers in 2020. Most popular hashtags: #duet #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 1618
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 1618 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "mark.g.a"
+  - username: "wymtmanmaxx"
     fullname: >-
-      Mark Aldworth Jr.
+      Mt Man Maxx
+    bio: >-
+      I am a MAN of the OutDoors,Photography & Art.
     location: "United States"
-    followers: 8912
-    engagement: 2558
-    commentsToLikes: 0.224826
-    id: ck9kgufym9npz0j784r6i9s7h
+    followers: 3238
+    engagement: 1586
+    commentsToLikes: 0.113224
+    id: ckcell0dfvgu10j23t1dwsqoi
     verified: false
-    hashtags: "#followher, #byou, #highlightreel, #yearbook2020"
-  - username: "starrrysunrise"
+    hashtags: "#foryou"
+  - username: "anthony_allegro_"
     fullname: >-
-      my dms don’t work ;)
+      anthonyallegro
+    bio: >-
+      Welcome to fish, outdoors, and stump tok Insta and yt⬆️ Answering all comments!!
     location: "United States"
-    followers: 29186
-    engagement: 2626
-    commentsToLikes: 0.055643
-    id: ck9n4a2st3xx70j78c0d88w93
+    followers: 168800
+    engagement: 2061
+    commentsToLikes: 0.033672
+    id: ckb9u7eirsq000j23t4rcpfqa
     verified: false
-    hashtags: "#lunch, #pennyboard, #decadesofhair, #summer2k19"
+    hashtags: "#fyp, #youwantmore, #ohno, #mypfp"
+  - username: "embermusic452"
+    fullname: >-
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
+    location: "United States"
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
+    verified: false
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
   - username: "_casanova_"
     fullname: >-
       Uncle Glaz/Casanova
+    bio: >-
+      23 y/o Outdoorsmen, Gamer, Anime fan God's Favorite Degenerate
     location: "United States"
-    followers: 16867
-    engagement: 2136
-    commentsToLikes: 0.031288
+    followers: 17000
+    engagement: 2057
+    commentsToLikes: 0.029420
     id: ck9fipsz3c1pr0j78s93i8uag
     verified: false
-    hashtags: "#xyzcba, #freckle, #google, #progamer"
-  - username: "mattheffer"
+    hashtags: "#r6cosplay, #r6gang, #cosplay, #prom"
+  - username: "jess.ess"
     fullname: >-
-      Matt Heffer
+      jesss
+    bio: >-
+      31 👵🏼 Berta 🇨🇦 Equipment Operator 👩🏼‍🔧 Sports/Outdoors 🎾🏒🥅⛳️🏌🏼‍♀️🎣
+    location: "Canada"
+    followers: 4191
+    engagement: 1156
+    commentsToLikes: 0.131320
+    id: cka9s3h6k9sk50i78md2tiokb
+    verified: false
+    hashtags: "#fyp, #smoothestmovescontest, #golf, #todayyearsold"
+  - username: "ruthven78"
+    fullname: >-
+      ⱤɄ₮ⱧVɆ₦78
+    bio: >-
+      Geeky outdoorsman. father, husband, plumbing apprentice. Spokane WA.
+    location: "United States"
+    followers: 2794
+    engagement: 1068
+    commentsToLikes: 0.224471
+    id: ckb9if0mq8twr0j23spdl30va
+    verified: false
+    hashtags: "#duet, #dadjokes, #stitch, #greenscreen"
+  - username: "prettybirdkars"
+    fullname: >-
+      JoJo (Seth) Bennett
+    bio: >-
+      A cosplayer and artist. I also love the outdoors, and interacting with animals.
+    location: "United States"
+    followers: 10600
+    engagement: 1883
+    commentsToLikes: 0.046525
+    id: ckc7pvo3svion0j2333odvibj
+    verified: false
+    hashtags: "#jjba, #blackcat, #food, #naranciacosplay"
+  - username: "starrrysunrise"
+    fullname: >-
+      my dms don’t work ;)
+    bio: >-
+      grwm, routines, outdoors, vlogs ⬇️use code: STARRY10 on clear start!⬇️
+    location: "United States"
+    followers: 33100
+    engagement: 2396
+    commentsToLikes: 0.048934
+    id: ck9n4a2st3xx70j78c0d88w93
+    verified: false
+    hashtags: "#famous, #routine, #aesthetic, #foryoupage"
+  - username: "jonny_reece"
+    fullname: >-
+      Jonny Reece
+    bio: >-
+      Things I like: Plants, cycling, outdoors, nature, photography. 😊🌱🚲🏊‍♂️🐶🌅📸
     location: "Australia"
-    followers: 12379
-    engagement: 2362
-    commentsToLikes: 0.017331
-    id: ckact0n0sckl40i78itpbffnr
+    followers: 37100
+    engagement: 1031
+    commentsToLikes: 0.061486
+    id: ckb9o6nkxierl0j23j30t3d5v
     verified: false
-    hashtags: "#acnh, #musiclives, #skincareroutine, #gotthisforyou"
-  - username: "yuriytrebushnoy"
+    hashtags: "#indoorplants, #houseplants, #plantdad, #fiddleleaffig"
+  - username: "callmeabeautifuldisaster"
     fullname: >-
-      Yuriy Trebushnoy
+      Alisha Staley
+    bio: >-
+      LPN 🩺 Mom👩‍👦🐕‍🦺outdoors 🛶🏝⛺️ 36 🌈 🌈🍷🍻workout 🏃🏽‍♀️🏋🏼‍♀️
     location: "United States"
-    followers: 45810
-    engagement: 1336
-    commentsToLikes: 0.034269
-    id: ck8key2mbblbr0j7877z85qpb
+    followers: 3856
+    engagement: 899
+    commentsToLikes: 0.114177
+    id: ckbwh6k7v2rz70j23x5vur56e
     verified: false
-    hashtags: "#northcascades, #photography101, #wildlife, #greatoutdoors"
-  - username: "yamahaoutdoors"
-    fullname: >-
-      Yamaha Outdoors
-    location: "United States"
-    followers: 17646
-    engagement: 1447
-    commentsToLikes: 0.027309
-    id: ckafvjg4bf0rh0i78q9uhz4cm
-    verified: false
-    hashtags: "#yz125, #twostrokes, #seeking6, #maythe4thbewithyou"
-  - username: "battle22365"
-    fullname: >-
-      battle22365
-    location: "United States"
-    followers: 9351
-    engagement: 1455
-    commentsToLikes: 0.055214
-    id: cka8408grr8ha0i78kzqcy5rd
-    verified: false
-    hashtags: "#ingodshands, #epoxyart, #tiktok, #yearbook2020"
-  - username: "sarahnatureyoga"
-    fullname: >-
-      Wild in Oregon
-    location: "United States"
-    followers: 63386
-    engagement: 376
-    commentsToLikes: 0.041668
-    id: ck9jzlaj19cil0j78bkfn78i3
-    verified: false
-    hashtags: "#sunshine, #kittenwrestling, #crackclimbing, #acro"
-  - username: "southwestsampler"
-    fullname: >-
-      Andrea Blake
-    location: "United States"
-    followers: 3940
-    engagement: 882
-    commentsToLikes: 0.074002
-    id: ck8s8io5mtul90j78zy6kxzzb
-    verified: false
-    hashtags: "#camping, #whatthissays, #keepingactive, #diyproject"
-  - username: "matt_abner"
-    fullname: >-
-      Matt Abner
-    location: "United States"
-    followers: 3922
-    engagement: 1038
-    commentsToLikes: 0.032818
-    id: cka0wwxpo4nml0i78m5frtd3p
-    verified: false
-    hashtags: "#bladeofgrass, #gatlinburgtennessee, #acoustic, #60yards"
+    hashtags: "#lesbian, #lpn, #fun, #mothernature"
 ---

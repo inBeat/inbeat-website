@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Chicago In 2020
 description: >-
-  Find top comedians TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #comedia #coronavirus #vibewithme.
+  Find top comedians TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #fyp #comedy #funny.
 platform: TikTok
+hits: 27
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 27 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "bjthereal1"
+  - username: "miggyduke"
     fullname: >-
-      Bjthereal
+      Megwell Rodreeguez
+    bio: >-
+      Chicago based comedian & educator. Support the arts and be nice.
     location: "United States"
-    followers: 14089
-    engagement: 654
-    commentsToLikes: 0.021248
-    id: ck9v5m2j2yy350j78nirj6tde
+    followers: 35100
+    engagement: 1010
+    commentsToLikes: 0.020018
+    id: ckbf0gw9um5ip0j23jq0a8kd6
     verified: false
-    hashtags: "#makebakeshake, #savage, #cheaptrills, #dancing"
-  - username: "dockp"
+    hashtags: "#smallbusiness, #myneighborsrock, #topochico, #candles"
+  - username: "allisonistoosilly"
     fullname: >-
-      Kourosh Parsapour MD
+      Allison
+    bio: >-
+      crafty bisexual comedian 💗💜💙 Montessori toddler teacher Chicago
     location: "United States"
-    followers: 3359
-    engagement: 1018
-    commentsToLikes: 0.627203
-    id: ck8w3ehkx7emg0j78ldgekblc
+    followers: 3314
+    engagement: 1084
+    commentsToLikes: 0.092573
+    id: ckdn2kvl2dil30j23prg76zvp
     verified: false
-    hashtags: "#lent, #standup, #fairypowers, #georgeclooney"
-  - username: "digitaldima"
+    hashtags: "#showupshowoff, #halloween, #wewintogether, #halloween2020"
+  - username: "adwithit"
     fullname: >-
-      Dima Azarenko
+      adwitdacontent
+    bio: >-
+      I AM A KING OF STITCH I AM A ORGINALIST @ CONTENT
     location: "United States"
-    followers: 10141
-    engagement: 687
-    commentsToLikes: 0.060608
-    id: cka0m5zk8ty890i78qp2coelg
+    followers: 9987
+    engagement: 733
+    commentsToLikes: 0.191444
+    id: ckb9bznpfyhzp0j23c3haxqzf
     verified: false
-    hashtags: "#inverted, #gotthisforyou, #vacation, #point"
-  - username: "patox2010"
+    hashtags: "#floodthefeed, #trending, #christian, #demontime"
+  - username: "darkskindrizzy"
     fullname: >-
-      Pato
+      JAMÀLY
+    bio: >-
+      ARTIST/COMEDIAN 😂 LATINO ✊🏿✊🏾✊🏽✊🏼✊🏻 IG @JAMALYBELLO 🇵🇦🇨🇷 PANAMEÑO
     location: "United States"
-    followers: 12349
-    engagement: 400
-    commentsToLikes: 0.074142
-    id: ck9ne52bwd7cr0j78ewq2j58y
+    followers: 25200
+    engagement: 1665
+    commentsToLikes: 0.122673
+    id: ckahun5s9j53l0i78wdcs4en8
     verified: false
-    hashtags: "#mexicana, #million, #musicarwgional, #nail"
-  - username: "edward_eop18"
+    hashtags: "#puertorican, #black, #dominican, #afrolatino"
+  - username: "thearishj"
     fullname: >-
-      L🚨T🚨N🇺🇸🇵🇷🌴
+      Arish J.
+    bio: >-
+      😂 Comedian/Actor 🎥 Filmmaker 🇵🇰 🇺🇸 📍Atlanta
     location: "United States"
-    followers: 10783
-    engagement: 975
-    commentsToLikes: 0.086458
-    id: ck982lod8gmdh0j78tfd7czlj
+    followers: 6098
+    engagement: 761
+    commentsToLikes: 0.068528
+    id: ckc30xyszrj750j2326r4ydkp
     verified: false
-    hashtags: "#tiratratra, #tokio, #news, #westfield"
-  - username: "diablo_loco"
+    hashtags: "#pakistani, #indian, #indians, #comedy"
+  - username: "ttg13kant"
     fullname: >-
-      Diablo_loco
+      Anthony Laster
+    bio: >-
+      100k Followers By The End Of My Deployment!? +Snap 👻 okg_anthony 📍Chicago📍
     location: "United States"
-    followers: 13140
-    engagement: 111
-    commentsToLikes: 0.009156
-    id: ck93o59ai33xr0j78lnjiqgm6
+    followers: 51500
+    engagement: 1126
+    commentsToLikes: 0.028244
+    id: ckaiieu8ua48o0i78tmeju6oh
     verified: false
-    hashtags: "#imfromtheghetto, #coronatime, #estilonayarit, #viralvideo"
-  - username: "nhl_top"
+    hashtags: "#life, #xyz, #smile, #usmilitary"
+  - username: "danmancarney"
     fullname: >-
-      NHL✅
+      Dan Carney
+    bio: >-
+      Comedian Follow me on IG Sub on YouTube
     location: "United States"
-    followers: 2246
-    engagement: 1056
-    commentsToLikes: 0.050305
-    id: ckahw65jepgdi0i7823i39uxi
+    followers: 31000
+    engagement: 1344
+    commentsToLikes: 0.007547
+    id: ckbl45pex1nig0j23yolsa1ti
     verified: false
-    hashtags: "#dominator, #soapbop, #gordon, #mariolemuix"
-  - username: "brianbeepboop11"
+    hashtags: "#standupcomedy, #dankmemes, #funnyvideos, #comedian"
+  - username: "jimmyriggins"
     fullname: >-
-      Brian 
+      Har V Dent
+    bio: >-
+      Follow me on Facebook @ Comedian Har_V_Dent & Instagram @ Har_V_Dent
     location: "United States"
-    followers: 47645
-    engagement: 1167
-    commentsToLikes: 0.058816
-    id: ck8f6g4032n5a0j78j2txbhfo
+    followers: 20900
+    engagement: 505
+    commentsToLikes: 0.024767
+    id: ckdi74jmz8vvr0j23wy6m4h9f
     verified: false
-    hashtags: "#acnh, #gotthisforyou, #mercy, #polski"
-  - username: "stephanie_justme"
+    hashtags: "#lol, #explore, #foryou, #foryoupage"
+  - username: "frankie_failure"
     fullname: >-
-      Stephanie De Luna
+      Frankie Pitts
+    bio: >-
+      He/Him 22
     location: "United States"
-    followers: 4274
-    engagement: 512
-    commentsToLikes: 0.043700
-    id: ckacr85q048dr0i787hqv7xdt
+    followers: 21400
+    engagement: 2816
+    commentsToLikes: 0.031532
+    id: ckamf7djp6ugc0i78yhlsoy5g
     verified: false
-    hashtags: "#notyourmomma, #babysound, #plankchallenge, #tiktoktheraphy"
-  - username: "abbyloveswinter"
+    hashtags: "#chicago, #fyp, #dating, #maidcostume"
+  - username: "mattbanwart"
     fullname: >-
-      💕Abby🥰
+      Matt Banwart
+    bio: >-
+      CEO Of Stand Up Comedy 20k?? Instagram @Matt_Banwart Live show in Des Moines⤵️
     location: "United States"
-    followers: 14599
-    engagement: 1817
-    commentsToLikes: 0.014775
-    id: ckamkrimatac30i7876z1841h
+    followers: 19600
+    engagement: 1423
+    commentsToLikes: 0.083823
+    id: ckbbqj5l1e8o30j23prn08u1w
     verified: false
-    hashtags: "#travelthrowback, #bartender, #make, #look"
+    hashtags: "#duet, #greenscreen, #stitch, #happyhalloween"
 ---

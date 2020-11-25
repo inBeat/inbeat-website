@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Atlanta In 2020
 description: >-
-  Find top models TikTok influencers in Atlanta in 2020. Most popular hashtags: #model #covid19 #keepingbusy #xyzcba.
+  Find top models TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
 platform: TikTok
+hits: 24
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 24 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
-  - username: "avedarave"
+  - username: "mellevi7"
     fullname: >-
-      Avery Bartlett
+      mel♡
+    bio: >-
+      israeli / model / atlanta follow me on instagram @mel.levi💋
     location: "United States"
-    followers: 108966
-    engagement: 2141
-    commentsToLikes: 0.005282
-    id: ck9fowg9b4my10j78ups4xozo
+    followers: 6027
+    engagement: 672
+    commentsToLikes: 0.039382
+    id: ckb9hmbyu7cys0j23oe7yvvp5
     verified: false
-    hashtags: "#homeworkout, #fashion, #espn, #teamusa"
-  - username: "marstruck"
+    hashtags: "#alwayslearning, #makebakeshake, #scoobdance, #tiktokanimals"
+  - username: "katienageotte"
     fullname: >-
-      marissa
+      Katie Nageotte
+    bio: >-
+      Pole vault professional. Tiktok amateur. Training for 2021 Olympics 🇺🇸.
     location: "United States"
-    followers: 93905
-    engagement: 1991
-    commentsToLikes: 0.010617
-    id: ckact0uidcmrs0i78g7ssiwrd
+    followers: 30100
+    engagement: 754
+    commentsToLikes: 0.019312
+    id: ckbkjlzgjch9d0j23x6c57l9k
     verified: false
-    hashtags: "#aesthetic, #decadeslooks, #decadesfashion, #wasian"
+    hashtags: "#teamusa, #usa, #strong, #polevault"
+  - username: "fataleyourslc"
+    fullname: >-
+      fataleyourslc
+    bio: >-
+      
+    location: "United States"
+    followers: 4838
+    engagement: 558
+    commentsToLikes: 0.012684
+    id: ckbqqfw5fbce70j23zns6ekci
+    verified: false
+    hashtags: "#georgia, #xyzcba, #foryou, #fyp"
+  - username: "upsonreflections"
+    fullname: >-
+      UpsonReflections
+    bio: >-
+      
+    location: "United States"
+    followers: 4369
+    engagement: 898
+    commentsToLikes: 0.036125
+    id: ckb98wbkdsqsv0j23rqxtczlb
+    verified: false
+    hashtags: "#photography, #canon6dmarkii, #jbskating, #viral"
+  - username: "nonaaaxx"
+    fullname: >-
+      Nona 
+    bio: >-
+      No-na Alternative model 20 ATL she/her/they/them scare actress 👻
+    location: "United States"
+    followers: 6640
+    engagement: 2799
+    commentsToLikes: 0.030622
+    id: ckbakjcgwbi3l0j23z9a3iviq
+    verified: false
+    hashtags: "#goth, #piercings, #model, #atl"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
+    bio: >-
+      Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
     location: "United States"
-    followers: 9810
-    engagement: 1579
-    commentsToLikes: 0.042804
+    followers: 11500
+    engagement: 1908
+    commentsToLikes: 0.059822
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#cursedimages, #lazy, #dragoncon, #reboot"
-  - username: "neveshgih"
+    hashtags: "#duet, #collegegotmelike, #longboard, #comedy"
+  - username: "lapinstudios"
     fullname: >-
-      neveshgih
+      Lapin Studios
+    bio: >-
+      Model 🤷🏼‍♀️ Actress 🤷🏼‍♀️ OCD awareness 🤷🏼‍♀️
     location: "United States"
-    followers: 14414
-    engagement: 1796
-    commentsToLikes: 0.023613
-    id: ckaiitjshc05w0i78xi06m9rx
+    followers: 163700
+    engagement: 2091
+    commentsToLikes: 0.009319
+    id: ck9v0mifodbm60j78ak263lp8
     verified: false
-    hashtags: "#jules, #friendships, #adventure, #wipeitdown"
-  - username: "yofisherphoto"
+    hashtags: "#foryou, #halloween, #heinzhalloween, #mentalhealthmatters"
+  - username: "hadsnasty"
     fullname: >-
-      Photo
+      Hads
+    bio: >-
+      Pretty enough to act but not model so I joined tiktok where I do neither
     location: "United States"
-    followers: 35667
-    engagement: 1163
-    commentsToLikes: 0.011721
-    id: ck8kd2w753ypx0j78z2dvzzba
+    followers: 4180
+    engagement: 944
+    commentsToLikes: 0.033375
+    id: ckcdlblnx9neo0j23thtdok4i
     verified: false
-    hashtags: "#xyzcba, #lightroom, #iphone, #tiktokcreator"
-  - username: "prettiehazeleyez"
+    hashtags: "#festivalfashion, #edmgirls, #dubstep, #nature"
+  - username: "i_am_tajmaher"
     fullname: >-
       Taj Thomas
+    bio: >-
+      Model, Brand Ambassador, Aspiring Actress and Karaoke Fanatic
     location: "United States"
-    followers: 4207
-    engagement: 894
-    commentsToLikes: 0.051030
+    followers: 18300
+    engagement: 942
+    commentsToLikes: 0.056320
     id: ckal63nhw8wba0i78x5gauxyo
     verified: false
-    hashtags: "#foryoupage, #workout, #allblack, #subway"
-  - username: "madlyexplore"
+    hashtags: "#duet, #foryoupage, #funny, #over45"
+  - username: "twixxtaylor"
     fullname: >-
-      jacobcurtisbean
+      Twixx
+    bio: >-
+      👑PLUS SIZE MODEL/ INFLUENCER 24 / GA 18+ TAKEN ❤️ Buisness: lifeoftwix@gmail
     location: "United States"
-    followers: 27639
-    engagement: 642
-    commentsToLikes: 0.031928
-    id: ckamr8524kjnx0i78wv3wzk25
+    followers: 25900
+    engagement: 691
+    commentsToLikes: 0.052716
+    id: ck9n4apd742lc0j78m31zxyno
     verified: false
-    hashtags: "#trick, #northcarolina, #oops, #dance"
-  - username: "kidwonder6ix"
-    fullname: >-
-      Luchi Milliani
-    location: "United States"
-    followers: 7558
-    engagement: 865
-    commentsToLikes: 0.019057
-    id: ck9c092fko6yh0j783omz54f4
-    verified: false
-    hashtags: "#newtrend, #herb, #hightimes, #indoorworkout"
-  - username: "iam_beatrizmichelle"
-    fullname: >-
-      Beatriz Michelle
-    location: "United States"
-    followers: 8228
-    engagement: 444
-    commentsToLikes: 0.064834
-    id: ck9nfare2e7n50j78uc27j4lz
-    verified: false
-    hashtags: "#billboard, #fliptheswitch, #damn, #sause"
-  - username: "swaggpack_shaq"
-    fullname: >-
-      Swaggpack_shaq
-    location: "United States"
-    followers: 68552
-    engagement: 733
-    commentsToLikes: 0.018257
-    id: cka9qo2an86wt0i78at9hvvga
-    verified: false
-    hashtags: "#speed, #driveby, #mustang, #reflection"
+    hashtags: "#imfat, #reaction, #foryou, #cutecouple"
 ---

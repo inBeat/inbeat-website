@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar TikTok Influencers In Italy In 2020
 description: >-
-  Find top guitar TikTok influencers in Italy in 2020. Most popular hashtags: #tiktok #trend #slowmo #horror.
+  Find top guitar TikTok influencers in Italy in 2020. Most popular hashtags: #music #guitar #perte #fyp.
 platform: TikTok
+hits: 24
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 24 TikTok influencers like this in Italy for you to contact.
 profiles:
+  - username: "_twinsquad_official"
+    fullname: >-
+      Alice_and_Sara
+    bio: >-
+      ⚡TwinSquad⚡ Artists 🇮🇹🎨 Lvl.18♀️ Sweet but psycho😈 Guitarists🎸 Cosplayers🤡
+    location: "Italy"
+    followers: 37100
+    engagement: 2272
+    commentsToLikes: 0.028904
+    id: ckbbgerz8539g0j23qo2g7067
+    verified: false
+    hashtags: "#fanart, #fyp, #like4llike, #duet"
   - username: "simonasansovini"
     fullname: >-
       Simona Sansovini
+    bio: >-
+      Guitarist 🎸🇮🇹
     location: "Italy"
-    followers: 37107
-    engagement: 924
-    commentsToLikes: 0.030643
+    followers: 39700
+    engagement: 1037
+    commentsToLikes: 0.035613
     id: ck9ekj4wp6orm0j78b8cglo18
     verified: false
-    hashtags: "#happychristmas, #foryou, #25novembre, #rollingstones"
+    hashtags: "#blues, #femaleguitarist, #guitar, #guitarist"
   - username: "fedesixstring"
     fullname: >-
       Federico Cartello
+    bio: >-
+      I play the 🎸 Follow me on Instagram for more videos !
     location: "Italy"
-    followers: 2538
-    engagement: 885
-    commentsToLikes: 0.037422
+    followers: 3491
+    engagement: 858
+    commentsToLikes: 0.039213
     id: ck9gtx5wkopxw0j78u380gexu
     verified: false
-    hashtags: "#tockmusic, #guitarcover, #musician, #jimmypage"
-  - username: "carlobelmondo"
+    hashtags: "#hardrock, #guitarsolo, #gunsnroses, #ledzeppelin"
+  - username: "rebygnesi"
     fullname: >-
-      Carlo Belmondo
+      ECLETTICA
+    bio: >-
+      piccola sciatrice fiorentina innamorata del canto e della sua 🎸🎢
     location: "Italy"
-    followers: 4446
-    engagement: 779
-    commentsToLikes: 0.065438
-    id: ck9rblb5vpq2f0j78ddtgnyea
+    followers: 42300
+    engagement: 1893
+    commentsToLikes: 0.011443
+    id: ckc7zozpa1e0p0j23hjtitsuv
     verified: false
-    hashtags: "#mygirl, #inthehouse, #ladygaga, #tramonto"
-  - username: "4joyofficialpage"
-    fullname: >-
-      4Joy
-    location: "Italy"
-    followers: 130366
-    engagement: 2098
-    commentsToLikes: 0.057342
-    id: ck8fbzs2s5pig0j78c9kofef5
-    verified: false
-    hashtags: "#strangerthings, #disastro, #glitter, #disney"
+    hashtags: "#neiperte, #fyp, #singing, #perte"
   - username: "giomustacchi"
     fullname: >-
       Gio Mustacchi
+    bio: >-
+      📍From Palermo, Live in Brianza!🇮🇹 🥓 Ricette CROCCANTI e comicità BECERA 🐐💨
     location: "Italy"
-    followers: 17120
-    engagement: 1480
-    commentsToLikes: 0.071724
+    followers: 17800
+    engagement: 1458
+    commentsToLikes: 0.070800
     id: ckafu31548jv20i78c89d1mp7
     verified: false
-    hashtags: "#italianboy, #ironia, #earthhour, #eggtrick"
-  - username: "chiaradelfrancia"
+    hashtags: "#festaincasa, #ricetteveloci, #comeinunfilm, #verochef"
+  - username: "simon_evans"
     fullname: >-
-      Chiara Del Francia
+      SIMON EVANS
+    bio: >-
+      15 y/o musician/artist
     location: "Italy"
-    followers: 11379
-    engagement: 2731
-    commentsToLikes: 0.023533
-    id: ck8z9stp9z9ga0j7893qof45z
+    followers: 23700
+    engagement: 1710
+    commentsToLikes: 0.038413
+    id: ckb8ya7cbdhcm0j238mpeid0d
     verified: false
-    hashtags: "#dance, #greenscreen, #savage, #saremarti"
-  - username: "neptune.boi"
+    hashtags: "#foryou, #music, #lesbian, #neiperte"
+  - username: "ariipalazzetti"
     fullname: >-
-      neptuneboi
+      Arianna Palazzetti
+    bio: >-
+      canto sempre
     location: "Italy"
-    followers: 19195
-    engagement: 2381
-    commentsToLikes: 0.028708
-    id: ck9flwaarq94g0j78t0t0nyi2
+    followers: 13500
+    engagement: 1280
+    commentsToLikes: 0.034841
+    id: ck8tueaczshx80j78bxc7sdbl
     verified: false
-    hashtags: "#school, #medusa, #lough, #ddududdudu"
-  - username: "raffaellabrutto"
+    hashtags: "#music, #italy, #ladygaga, #sing"
+  - username: "nicola.romolo"
     fullname: >-
-      raffaellabrutto
+      Nicola
+    bio: >-
+      CEO of 🏀🏀💢 20 yo🍫 Rome🇮🇹 Road to 150k🔒
     location: "Italy"
-    followers: 3563
-    engagement: 994
-    commentsToLikes: 0.051100
-    id: ck8f8od5l3kp40j782rm3ndb0
+    followers: 134000
+    engagement: 1498
+    commentsToLikes: 0.021350
+    id: ckdbc27416lyp0j238o3tkrm1
     verified: false
-    hashtags: "#skial, #tiktokdogs, #quarantine, #tren"
-  - username: "iigennii"
+    hashtags: "#virale, #opponightmode, #duetto, #viral"
+  - username: "giorgiovanniofficial"
     fullname: >-
-      Gennaro Castaldo
+      Giorgio Vanni
+    bio: >-
+      🏴‍☠️CIURMA🏴‍☠️ Benvenuti sull’account ufficiale del Capitano!
     location: "Italy"
-    followers: 201878
-    engagement: 1940
-    commentsToLikes: 0.019810
-    id: ck8j96myum2xq0j78taasdho2
+    followers: 18800
+    engagement: 1071
+    commentsToLikes: 0.020510
+    id: cka6oq6ckgioj0i7847ul87pp
     verified: false
-    hashtags: "#dragonball, #cracoviapt3, #house, #loopstation"
-  - username: "antonrodriguezvas"
+    hashtags: "#pervoi, #perte, #dragonball, #youtube"
+  - username: "simoprax"
     fullname: >-
-      Anton Rodriguez Vasquez
+      Simone Cretti
+    bio: >-
+      ciao, faccio cose
     location: "Italy"
-    followers: 2368
-    engagement: 873
-    commentsToLikes: 0.104868
-    id: ck9fyk2fhb4wa0j78p3zwig0v
+    followers: 7164
+    engagement: 550
+    commentsToLikes: 0.090503
+    id: ckcejyqdvt2ej0j23oxyk0ho3
     verified: false
-    hashtags: "#cocacola, #reaccionar, #crazy, #barcelona"
+    hashtags: "#foryoupage, #quarantena, #iorestoacasa, #italy"
 ---

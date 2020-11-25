@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In United States In 2020
 description: >-
-  Find top crossfit TikTok influencers in United States in 2020. Most popular hashtags: #quarantine #foryou #laugh #tiktok.
+  Find top crossfit TikTok influencers in United States in 2020. Most popular hashtags: #crossfit #fyp #workout #fitness.
 platform: TikTok
+hits: 159
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 159 TikTok influencers like this in United States for you to connect with.
 profiles:
+  - username: "doctorwho1109"
+    fullname: >-
+      DoctorWho11
+    bio: >-
+      #whoviansquad🤠#bowtiesarecool BFF @mark_kansas03 🤓☕️#Crossfit
+    location: "United States"
+    followers: 10000
+    engagement: 1969
+    commentsToLikes: 0.118201
+    id: ck8ncg6utebeg0j7829pz1dyk
+    verified: false
+    hashtags: "#followher, #smile, #followhim, #comedy"
   - username: "stephenduh"
     fullname: >-
       Stephen Duhaime
+    bio: >-
+      Following back on ig⬆️ Jesus first #crossfitislife Tysmmm for 100k!
     location: "United States"
-    followers: 92710
-    engagement: 2026
-    commentsToLikes: 0.011938
+    followers: 110600
+    engagement: 2157
+    commentsToLikes: 0.019134
     id: ck8vtjo0fgin10j78pm9rk27s
     verified: false
-    hashtags: "#siblingcheck, #newtrend, #freezeframe, #crossfit"
-  - username: "erikabogan"
+    hashtags: "#viral, #fyp, #pov, #relatable"
+  - username: "nickdompierre"
     fullname: >-
-      Erika Bogan
+      nickdompierre
+    bio: >-
+      Zoe 🐶 CrossFit 🏋🏻‍♂️ Youtube 📺
     location: "United States"
-    followers: 17251
-    engagement: 950
-    commentsToLikes: 0.026678
-    id: cka0p1hm7698j0i78fla2mqtk
+    followers: 28100
+    engagement: 979
+    commentsToLikes: 0.041327
+    id: ckbf7nv1ixlkh0j23fcbdhqkb
     verified: false
-    hashtags: "#lifehack, #onemillion, #musicmatters, #jokes"
-  - username: "brookeence"
+    hashtags: "#frenchie, #foryou, #crossfit, #foryoupage"
+  - username: "daytonamoore"
     fullname: >-
-      Brooke Ence
+      Daytona Moore (✿◠‿◠)
+    bio: >-
+      mama • makeup • CrossFit • sobriety • women empowerment • OF link below!
     location: "United States"
-    followers: 16103
-    engagement: 581
-    commentsToLikes: 0.022294
-    id: ck9789rpb773v0j78tepe5ot8
+    followers: 77200
+    engagement: 755
+    commentsToLikes: 0.027293
+    id: ckbf9lick0lnv0j23zh7i1w9d
     verified: false
-    hashtags: "#foryou, #loungewear, #cleaningszn, #tiktok"
+    hashtags: "#heinzhalloween, #falldiy, #micellarrewind, #thatwitch"
+  - username: "leanjose01"
+    fullname: >-
+      Leandro
+    bio: >-
+      Love everything FITNESS Lyra, Pole , Crossfit , etc all of it while having FUN!
+    location: "United States"
+    followers: 167000
+    engagement: 502
+    commentsToLikes: 0.032957
+    id: ck80cq2inagku0j78z2vhdbbj
+    verified: false
+    hashtags: "#graysweatpants, #latino, #twerk, #lyra"
+  - username: "carolpetrillo26"
+    fullname: >-
+      Carol P
+    bio: >-
+      FIND ME ON INSTA 👆🏼👆🏼👆🏼 CF-L1 Coach CrossFit Gym Owner Empire Fitness
+    location: "United States"
+    followers: 11300
+    engagement: 770
+    commentsToLikes: 0.026706
+    id: ckbf1cjpkndkf0j230nq3u2he
+    verified: false
+    hashtags: "#momsoftiktok, #40club, #homefitness, #crossfitgirls"
+  - username: "kristin_bakes"
+    fullname: >-
+      kristin_bakes
+    bio: >-
+      29. Alabama. 🔽100 lbs. Cake Creator. Wife. Mom. Plus size CrossFitter.
+    location: "United States"
+    followers: 2789
+    engagement: 1334
+    commentsToLikes: 0.070920
+    id: ckbwc7bve0vkr0j238y20ht0a
+    verified: false
+    hashtags: "#weightlossjournal, #workflow, #fitness, #weightlossjourney"
   - username: "coachallyg"
     fullname: >-
       Ally
+    bio: >-
+      CrossFit L-2 Coach 😀 I get to help others be more healthy and fit.
     location: "United States"
-    followers: 2293
-    engagement: 500
-    commentsToLikes: 0.028834
+    followers: 3950
+    engagement: 603
+    commentsToLikes: 0.030238
     id: cka61sg9ywp400i789elcr2lh
     verified: false
-    hashtags: "#workroutine, #alwayslearning, #mathishard, #myspace"
-  - username: "danab444"
+    hashtags: "#crossfitmama, #keepingactive, #boredathome, #momsoftiktok"
+  - username: "brookeence"
     fullname: >-
-      Dana Bird
+      Brooke Ence
+    bio: >-
+      Crossfit Games, Entrepreneur, Actress
     location: "United States"
-    followers: 7323
-    engagement: 521
-    commentsToLikes: 0.017974
-    id: ck90ykb1lalex0j78kmor5jiu
-    verified: false
-    hashtags: "#weightlifting, #quaratined, #imgoodchallenge, #momandson"
-  - username: "candyken"
-    fullname: >-
-      👑 KING CANDY 👑
-    location: "United States"
-    followers: 8403193
-    engagement: 1169
-    commentsToLikes: 0.019496
-    id: ck7zo30xqhbj20j78ttogi5hv
+    followers: 24500
+    engagement: 559
+    commentsToLikes: 0.019977
+    id: ck9789rpb773v0j78tepe5ot8
     verified: true
-    hashtags: "#swole, #paparazzi, #cool, #fight"
-  - username: "kingandprincesses"
+    hashtags: "#fyp, #crossfit, #foryoupage, #reallifeathome"
+  - username: "barbellsandbaddecisions"
     fullname: >-
-      James Townsend
+      user4624186636153
+    bio: >-
+      Average CrossFitter Professional faller 150lbs ⬇️ IG @barbells_and_bad_decisions
     location: "United States"
-    followers: 90485
-    engagement: 2311
-    commentsToLikes: 0.004471
-    id: cka6arfdlxh450i78xg4sbusp
+    followers: 2991
+    engagement: 435
+    commentsToLikes: 0.023578
+    id: ckdbr8ubac2kl0j23m13hicx8
     verified: false
-    hashtags: "#nonstop, #boxjumping, #sundayfunday, #eliteathlete"
-  - username: "frasierhogan"
-    fullname: >-
-      Frasier Hogan
-    location: "United States"
-    followers: 5570
-    engagement: 274
-    commentsToLikes: 0.128009
-    id: ckahth5rnecog0i78gmf83olj
-    verified: false
-    hashtags: "#soundeffects, #manup, #heartdisease, #myguy"
-  - username: "jaretalvis"
-    fullname: >-
-      Jaret Alvis
-    location: "United States"
-    followers: 18863
-    engagement: 1092
-    commentsToLikes: 0.025841
-    id: ck9v08rt7bqpq0j782zviuvzv
-    verified: false
-    hashtags: "#petlover, #fail, #monkeybars, #neomastiff"
-  - username: "patdamiano_"
-    fullname: >-
-      Pat Damiano
-    location: "United States"
-    followers: 81669
-    engagement: 738
-    commentsToLikes: 0.025373
-    id: ck8or676parur0j781yek61ke
-    verified: false
-    hashtags: "#backpain, #nutritioncoach, #coreworkout, #squats"
+    hashtags: "#fyp, #crossfit, #foryou, #crossfitter"
 ---

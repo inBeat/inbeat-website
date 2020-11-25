@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top fashion Instagram influencers in Vancouver in 2020. Most popular hashtags: #fashion #styleinspo #revolveme #style.
+  Find top fashion Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #fashion #vancouverphotographer.
 platform: Instagram
+hits: 127
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 127 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
   - username: "imaansaboune"
     fullname: >-
-      Imaan Sabouné
+      Imaan Sabouné
+    bio: >-
+      fashion, skincare & more fashion vancouver & LA ✉️ imaan@dineragency.com
     location: "Canada"
-    followers: 21347
-    engagement: 205
-    commentsToLikes: 0.195277
+    followers: 20784
+    engagement: 245
+    commentsToLikes: 0.224758
     id: ck5q1j7rcb94x0i118ogiwjbb
     verified: false
-    hashtags: "#nastygal, #nastygalsdoitbetter, #princesspolly, #revolveme"
-  - username: "baileymarshall"
+    hashtags: "#hmxme, #sukissalons, #getgreathair, #sukis"
+  - username: "krygerconnor"
     fullname: >-
-      BAI
+      Connor Kryger
+    bio: >-
+      Vancouver 🇨🇦 22 @alaeriaagency Walk with me!
     location: "Canada"
-    followers: 14126
-    engagement: 285
-    commentsToLikes: 0.066505
-    id: ck5q9e843anz20i11v0fluzs1
+    followers: 2993
+    engagement: 1724
+    commentsToLikes: 0.086323
+    id: ck5hdo97bohna0i11niqmil6y
     verified: false
-    hashtags: "#homelovers, #homedecorinspo, #homedecorlovers, #decorlovers"
-  - username: "beautybyazadeh"
+    hashtags: "#modelshot, #streetstyle, #offwhite, #editorial"
+  - username: "jazrabarnes"
     fullname: >-
-      Makeup & Hair Artist Vancouver
+      Just Jaz
+    bio: >-
+      #vancouver Fashion ▫️ Beauty ▫️ TikTok ✉️ jazrabarnes.collabs@gmail.com Shop my looks➡️ @jazs_closetsale SUN
     location: "Canada"
-    followers: 40795
-    engagement: 81
-    commentsToLikes: 0.088876
-    id: ck6tieee60k480j71nhczwwlj
+    followers: 24463
+    engagement: 280
+    commentsToLikes: 0.065429
+    id: ck6u3pvlrz6xm0j71psh4fgpx
     verified: false
-    hashtags: "#hairtrial, #valentinesday, #chinesemakeup, #yearoftherat"
-  - username: "aurelafashionista"
+    hashtags: "#tiktok, #vancouver, #fashionblogger, #curtainbangs"
+  - username: "shannonkwan_"
     fullname: >-
-      Aurela Nasedkin
+      SHANNON KWAN | Travel & Style
+    bio: >-
+      — confessions of a shopaholic — travel / lifestyle / fashion ☁️ vancouver, bc ✉️ shannonkwan94@gmail.com
     location: "Canada"
-    followers: 157398
-    engagement: 90
-    commentsToLikes: 0.091307
-    id: ck0tv8m4iabzl0i19t4aimlpi
+    followers: 37150
+    engagement: 921
+    commentsToLikes: 0.013055
+    id: ck13bq0fawmdw0i19gh37gkiu
     verified: false
-    hashtags: "#runningismytherapy, #revolveme, #healthylifestyle, #healthtipsoftheday"
-  - username: "gia.metric"
+    hashtags: "#princesspollyboutique, #sevenwondersthelabel"
+  - username: "mobinavaziricollection"
     fullname: >-
-      🄶🄸🄰 🄼🄴🅃🅁🄸🄲
+      Mobina Vaziri
+    bio: >-
+      📍Tehran-Vancouver Fashion as unique as you are مبینا وزیری خرید حضوری و آنلاین از طریق دایرکت
     location: "Canada"
-    followers: 7658
-    engagement: 965
-    commentsToLikes: 0.079799
-    id: ck5hq62pyskd20i11ptoivgo9
+    followers: 10543
+    engagement: 105
+    commentsToLikes: 0.090280
+    id: ck14juv5tmayo0i19pqqdt95e
     verified: false
-    hashtags: "#welovequeens, #beinggia, #myartistcommunity, #model"
-  - username: "xox.loveandfashion"
+    hashtags: ""
+  - username: "galewis44"
     fullname: >-
-      𝐆𝐥𝐞𝐧𝐧 & 𝐊𝐡𝐚𝐲 | Fashion 🇵🇭🇨🇦
+      ɢʟʏɴ ʟᴇᴡɪs ✌️
+    bio: >-
+      ♾ ғᴏᴜɴᴅᴇʀ ᴏғ ᴋᴇɴᴛ sᴛʀᴇᴇᴛ ᴀᴘᴘᴀʀᴇʟ ♾ ʏᴏᴜɴɢ ᴀᴛ ʜᴇᴀʀᴛ | ᴠᴀɴᴄᴏᴜᴠᴇʀ 🇨🇦 ♾ ʜᴏᴍᴇ @loft_garden_oasis 🌿 ♾ ᴄᴏᴍᴘᴀɴʏ @kentstreetapparel
     location: "Canada"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.123654
-    id: ck55ja79lwlq60i11r5nr177w
+    followers: 10105
+    engagement: 518
+    commentsToLikes: 0.043046
+    id: ck5zzh2zhbq8q0i140gl7de6r
     verified: false
-    hashtags: "#couplesconnect, #vancitywears, #coupleselfie, #sneakers"
-  - username: "simranahmed30"
+    hashtags: "#shopify, #thisopenspace, #vancouverphotographer, #loftliving"
+  - username: "catherinebyrdy"
     fullname: >-
-      Simran Ahmed | Vancouver
+      Earth Goddess
+    bio: >-
+      𝕀 𝔸𝕞 𝔸 ℝ𝕖𝕗𝕝𝕖𝕔𝕥𝕚𝕠𝕟 𝕆𝕗 𝕐𝕆𝕌 CLOSED
     location: "Canada"
-    followers: 17281
-    engagement: 608
-    commentsToLikes: 0.447338
-    id: ck5q3gvq6koz10i11g628xc4w
+    followers: 16054
+    engagement: 226
+    commentsToLikes: 0.027140
+    id: ck6ui64ljdao70j71atkot49b
     verified: false
-    hashtags: "#simran, #influencehercollective, #throwback, #throwbackthursday"
+    hashtags: "#themysterypr0ject, #fashion, #hasselbladculture, #vancouvercreatives"
+  - username: "jdphotostudios"
+    fullname: >-
+      JD Photo Studios
+    bio: >-
+      Award Winning Wedding Photographer. Based in Vancouver BC, Available Worldwide 🌎 📧 info@jdphotos.ca #jdphotostudios
+    location: "Canada"
+    followers: 17247
+    engagement: 193
+    commentsToLikes: 0.021618
+    id: ck0w0rbkdfneo0i19zd4fgwml
+    verified: false
+    hashtags: "#photobugcommunity, #indianwedding, #junebugweddings, #jdphotostudios"
+  - username: "weliveheaven"
+    fullname: >-
+      We Live Heaven ✨
+    bio: >-
+      Andi & Kevin 👱🏻‍♂️🧑🏻 Vancouver📍 Are you ready to see 2 love birds sharing their passion for cooking, fashion and beauty? ✨ contact@weliveheaven.com 📩
+    location: "Canada"
+    followers: 19730
+    engagement: 278
+    commentsToLikes: 0.052042
+    id: ck0tuphgx84v20i19k9waxtl5
+    verified: false
+    hashtags: "#streetfashion, #lgbtcouple, #instagay, #gay"
   - username: "theopenjournal"
     fullname: >-
       T A S H A
+    bio: >-
+      𝓜𝔂 𝓣𝔀𝓸 𝓒𝓮𝓷𝓽𝓼 Lifestyle | Fashion | Beauty 📍Vancouver 🤍Authentic > perfect 👓Read my captions 💌Tasha@TheOpenJournal.Net ⬇️ Check out my blog:
     location: "Canada"
-    followers: 20337
+    followers: 20005
     engagement: 419
-    commentsToLikes: 0.059091
+    commentsToLikes: 0.045234
     id: ck5q95z1j9kcw0i118jfk13qa
     verified: false
-    hashtags: "#gifted, #linkinbio, #ad, #pinkshirtday"
-  - username: "zaraynaf"
-    fullname: >-
-      Zarayna F.
-    location: "Canada"
-    followers: 83716
-    engagement: 529
-    commentsToLikes: 0.032767
-    id: ck13c2352y8vz0i19ib6rdloj
-    verified: false
-    hashtags: "#revolveme, #diptyque, #35mm, #getnastygal"
-  - username: "evan_bates"
-    fullname: >-
-      Evan Bates
-    location: "Canada"
-    followers: 41345
-    engagement: 726
-    commentsToLikes: 0.011690
-    id: ck5hpa8j6r0mt0i11d9c3wdoo
-    verified: true
-    hashtags: "#cowboy, #sport, #ifp2019, #repost"
+    hashtags: "#kits, #healthyskincarerevolution, #itskits, #thaiexpress"
 ---

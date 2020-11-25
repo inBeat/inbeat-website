@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In United States In 2020
 description: >-
-  Find top cooking Instagram influencers in United States in 2020. Most popular hashtags: #happymothersday #stayhome #selfcare #love.
+  Find top cooking Instagram influencers in United States in 2020. Most popular hashtags: #photography #girl #outdoors.
 platform: Instagram
+hits: 8161
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 8161 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "helia_saffar"
     fullname: >-
       هلیا صفار🍝
+    bio: >-
+      🍃💛 Cooking Is My Therapy💜🍃 👩🏻‍🍳👩🏻‍🍳Graduated in culinary👩🏻‍🍳👩🏻‍🍳 💙فارغ التحصیل رشته آشپزی 💙
     location: "United States"
-    followers: 61626
-    engagement: 881
-    commentsToLikes: 0.043306
+    followers: 75823
+    engagement: 1076
+    commentsToLikes: 0.059387
     id: ck0w6s02ja0k60i19p5r9sb6h
     verified: false
     hashtags: ""
-  - username: "erinnobrienn"
-    fullname: >-
-      Erin O'Brien
-    location: "United States"
-    followers: 6576
-    engagement: 1172
-    commentsToLikes: 0.174783
-    id: ck8t9mbj5oltr0j78mbxfc0tq
-    verified: false
-    hashtags: "#planters, #pastalover, #funnystory, #giveawaytime"
   - username: "trout_in_the_valley"
     fullname: >-
       Hook Em' And Cook Em'
+    bio: >-
+      Lehigh Valley,Pa📌Fishing,Hunting,Cooking,and Everything Outdoors. 🎣🏹🦌🦃🌄Page Owner:@g__achi.
     location: "United States"
-    followers: 9301
-    engagement: 1153
-    commentsToLikes: 0.106815
+    followers: 8966
+    engagement: 1165
+    commentsToLikes: 0.093059
     id: ck6tzs7i7bjt80j71u8rqddde
     verified: false
-    hashtags: "#smokedfoods, #goodtimes, #fishpa, #hunter"
-  - username: "ksalom"
+    hashtags: "#hunting, #fishing, #fisherman, #outdoors"
+  - username: "luke_spongo"
     fullname: >-
-      Katherine Salom
+      Luke Spong
+    bio: >-
+      Venatic | Decent Angler | Cooking | Cant sing | Can’t dance @livinwithmb🤞
     location: "United States"
-    followers: 513818
-    engagement: 692
-    commentsToLikes: 0.019599
-    id: ck0w10b8agx790i193kdh84mj
+    followers: 24258
+    engagement: 989
+    commentsToLikes: 0.051960
+    id: ckap8vrwuq4130i78uyucz87f
     verified: false
-    hashtags: "#ad, #nationalunicornday, #grabawineski, #flattenthecurve"
-  - username: "xo.zahriaaa"
+    hashtags: "#turkeyhunting, #cantstoptheflop, #fueledbynature, #appareldesign"
+  - username: "emily.fauver"
     fullname: >-
-      Z A H R I A
+      ✖️ E M I L Y   F A U V E R ✖️
+    bio: >-
+      #POSTPARTUM Fitness 👶🏼 Mama to A Miracle ✈️ Mil Spouse 👩‍🍳 Big Bow Cooking Show Producer ✉️ emilyfauver3@gmail.com CHANGE YOUR LIFE HERE👇🏼
     location: "United States"
-    followers: 6080
-    engagement: 2013
-    commentsToLikes: 0.045080
-    id: ck5c2cnniwzpe0i11xn5x72kj
+    followers: 114928
+    engagement: 830
+    commentsToLikes: 0.031575
+    id: ck5pykyf3wiqr0i11ovkjll74
     verified: false
-    hashtags: "#dcnightlife, #midnightsnack, #vooguemeglasses, #21stbirthday"
-  - username: "amunetatumre"
+    hashtags: "#bigbowcookingshow, #thisismycircle, #thebigbowcookingshow, #humblebrag"
+  - username: "payydayyy"
     fullname: >-
-      Nysuttet Amunet Sent Atum-Re
+      Payton Stumbaugh Chadwick
+    bio: >-
+      @asics Athlete @captathletics || Arkansas Alumni || USA 🥈|| 💍 || Cooking❤️ @traegergrills || Fayetteville, AR || @macrostax discount code: PAYTON10
     location: "United States"
-    followers: 25858
-    engagement: 404
-    commentsToLikes: 0.067220
-    id: ck0u1hjxiwwu60i19b5twrrfo
+    followers: 8415
+    engagement: 1360
+    commentsToLikes: 0.051963
+    id: ck6ttzvwrdif40j71zt7z25ev
     verified: false
-    hashtags: "#naturalwombman, #4monthsoldbaby, #naturalglow, #stillinmiami"
-  - username: "craftybeermaven"
+    hashtags: "#track, #foodie, #athletics, #training"
+  - username: "fitmomof2whojeeps"
     fullname: >-
-      Mik
+      Kristen
+    bio: >-
+      Aerial🎪Cooking🍲Comedy🤣Crossfit🏋️‍♀️Dobermans🐶FAMILY💗FRIENDS👭Jeeps🏔Mustangs🏎 Raptors🦖Surfing🏄🏽‍♀️ Snowboarding🏂 Use code: FITMOM20 @detailgarageraleigh
     location: "United States"
-    followers: 37599
-    engagement: 343
-    commentsToLikes: 0.056288
-    id: ck6u39gyqwi5j0j715t35wgar
+    followers: 19548
+    engagement: 993
+    commentsToLikes: 0.035774
+    id: ck0w59gty2k460i19g26xhiro
     verified: false
-    hashtags: "#baseball, #coviddatenight, #cosplay, #beershare"
+    hashtags: "#islandlife, #37s, #jeepwrangler, #tiffanyandco"
   - username: "flywith_savannah"
     fullname: >-
       Savannah🐈✈️🌎
+    bio: >-
+      #cabincrew #travel #cooking E-mail:Savannah54177@gmail.com
     location: "United States"
-    followers: 23128
-    engagement: 686
-    commentsToLikes: 0.051815
+    followers: 33336
+    engagement: 624
+    commentsToLikes: 0.049650
     id: ck13bppx5wksw0i191stepak4
     verified: false
-    hashtags: "#crewlife, #taiwan, #staysafe, #withmom"
-  - username: "miralunaa"
+    hashtags: "#cabincrew, #taipei, #daily, #dessert"
+  - username: "susanaojedaa"
     fullname: >-
-      Miraluna Matar
+      Susana Ojeda West 🇻🇪🇺🇸
+    bio: >-
+      Healthy Life - Fitness - Cooking👩🏽‍🍳🌱 Model📸 Actress🎬 📍Dallas, TX 📩susanaojedawest@gmail.com
     location: "United States"
-    followers: 2579
-    engagement: 2055
-    commentsToLikes: 0.092758
-    id: ck5cfdz01mriz0i11r4px1x0g
+    followers: 14252
+    engagement: 659
+    commentsToLikes: 0.072255
+    id: ck8sxovdei4os0j78xrt9j44s
     verified: false
-    hashtags: "#townhallornowhere, #cultured, #goldenbirthday, #24"
-  - username: "jamerrillstewart"
+    hashtags: "#siswimsearch2021, #dallas, #model, #photography"
+  - username: "mrslonnn"
     fullname: >-
-      JAMERRILL~LargeFamilyTable.com
+      Shalonda H.
+    bio: >-
+      Wife, Mommy & Lifestyle Content Creator Creator of @cookingwithlon 1/2 of @henandlon on YouTube 📍MARYLAND
     location: "United States"
-    followers: 63944
-    engagement: 395
-    commentsToLikes: 0.037875
-    id: ck15r8b1m6nch0i19z603r00a
+    followers: 5835
+    engagement: 1471
+    commentsToLikes: 0.036699
+    id: ck9hbl8aehbv20j78d5a3dpi5
     verified: false
-    hashtags: "#hairsheep, #homeschoolkids, #countrykids, #aldiusa"
+    hashtags: "#marriage, #baby, #married, #munamommy"
+  - username: "lovemissyxo"
+    fullname: >-
+      Missy 🌻
+    bio: >-
+      🤍 Simple Cooking 🤍 Simple Cleaning 🤍 Simple Budget 🤍 Simple Momma
+    location: "United States"
+    followers: 10371
+    engagement: 709
+    commentsToLikes: 0.078331
+    id: ck0w027kuc0u20i19z7l5klij
+    verified: false
+    hashtags: "#farmhousekitchen, #blacklivesmatter, #bodypositivity, #farmhousedecor"
 ---

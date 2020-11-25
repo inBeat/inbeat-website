@@ -1,97 +1,118 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Ukraine In 2020
 description: >-
-  Find top fitness TikTok influencers in Ukraine in 2020. Most popular hashtags: #makeup #dance #amazing #friends.
+  Find top fitness TikTok influencers in Ukraine in 2020. Most popular hashtags: #fitness #workout #sport #ukraine.
 platform: TikTok
+hits: 9
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 9 TikTok influencers like this in Ukraine for you to work with.
 profiles:
-  - username: "user7893930200181"
+  - username: "fitstyle"
     fullname: >-
-      kino_go
+      𝔽ｉｔ𝕊ｔｙｌｅ
+    bio: >-
+      НА ПУТИ К ЛУЧШЕЙ ВЕРСИИ СЕБЯ 👉ПРИСОЕДИНЯЙСЯ 5% OFF for American Sport Nutrition
     location: "Ukraine"
-    followers: 8713
-    engagement: 1246
-    commentsToLikes: 0.033288
-    id: ck83x3ftmnyck0j78vyay4jfv
+    followers: 103700
+    engagement: 389
+    commentsToLikes: 0.141990
+    id: ck90yl5pcarjc0j78d39yx8go
     verified: false
-    hashtags: "#likebackteam, #likesforspam, #pleasecomment, #sweet"
+    hashtags: "#crossfit, #sportlover, #sportgirls, #doublefitness"
+  - username: "andrey_yakymovych"
+    fullname: >-
+      Андрей Якимович
+    bio: >-
+      ЗАХОДИ в ИНСТУ и ты там ОСТАНЕШЬСЯ😉 А кто ПОДПИШЕТСЯ всем ЛАЙКАЮ🔥
+    location: "Ukraine"
+    followers: 458800
+    engagement: 918
+    commentsToLikes: 0.021596
+    id: cka0ubmuatmtb0i78hdd8t0z0
+    verified: false
+    hashtags: "#cool, #motivation, #gym, #strongman"
+  - username: "geewayne_"
+    fullname: >-
+      👑 Gee Wayne 👑 
+    bio: >-
+      Hummm ask me on Instagram 🇦🇴 🇺🇦 Youtube👆🏽 Get fit with me!
+    location: "Ukraine"
+    followers: 208400
+    engagement: 973
+    commentsToLikes: 0.015862
+    id: ck8faiv5p4d4a0j78sr77oaup
+    verified: false
+    hashtags: "#foryou, #fyp, #foryoupage, #workout"
   - username: "slawakuhar"
     fullname: >-
       Boxing Slawa Kuhar
+    bio: >-
+      Instagram: @SlawaKuhar
     location: "Ukraine"
     followers: 52498
     engagement: 559
     commentsToLikes: 0.004740
     id: ck81q1w3ef9u20j78luz9h1rw
     verified: false
-    hashtags: "#body, #hero, #anthonyjoshua, #stayathome"
-  - username: "andrey_yakymovych"
+    hashtags: "#motivation, #lmao, #boxing, #gym"
+  - username: "n.terletska"
     fullname: >-
-      Андрей Якимович
+      Natalia Terletska
+    bio: >-
+      Motivation & inspiration💪🏻 I’m 33🌷 100% natural🍑 Mom of 2👱🏻👦🏻 Ukr🇺🇦
     location: "Ukraine"
-    followers: 334563
-    engagement: 864
-    commentsToLikes: 0.006538
-    id: cka0ubmuatmtb0i78hdd8t0z0
+    followers: 1300000
+    engagement: 582
+    commentsToLikes: 0.008144
+    id: ck7znzsthggeo0j782gpmog5o
     verified: false
-    hashtags: "#humour, #india, #fire, #sport"
-  - username: "fitstyle"
-    fullname: >-
-      𝔽ｉｔ𝕊ｔｙｌｅ
-    location: "Ukraine"
-    followers: 101799
-    engagement: 355
-    commentsToLikes: 0.086478
-    id: ck90yl5pcarjc0j78d39yx8go
-    verified: false
-    hashtags: "#sportgirls, #frutarian, #pullower, #plankdance"
-  - username: "geewayne_"
-    fullname: >-
-      👑 Gee Wayne 👑 
-    location: "Ukraine"
-    followers: 188724
-    engagement: 1280
-    commentsToLikes: 0.016761
-    id: ck8faiv5p4d4a0j78sr77oaup
-    verified: false
-    hashtags: "#weightgaintips, #plankchallenge, #absworkout, #tiktoktime"
-  - username: "vika.nuts"
-    fullname: >-
-      Vika Nuts
-    location: "Ukraine"
-    followers: 3708
-    engagement: 367
-    commentsToLikes: 0.032048
-    id: ckace91lalph90i78qimidc2l
-    verified: false
-    hashtags: "#lovemydog, #workoutfromhome, #homefitness, #pet"
+    hashtags: "#fitgirls, #womanpower, #fitnesss, #woman"
   - username: "djmilana"
     fullname: >-
       Dj Milana
+    bio: >-
+      🎧TOPLESS-Dj🌴IBIZA-Dj🇪🇸known in 35 countries 😌Insta: @tdjmilana
     location: "Ukraine"
-    followers: 6098
-    engagement: 254
-    commentsToLikes: 0.020349
+    followers: 73500
+    engagement: 235
+    commentsToLikes: 0.012033
     id: ckai38d0eixp30i782xlsrde1
     verified: false
-    hashtags: "#makeup, #fitnessgirl, #mydog, #momsoftiktok"
-  - username: "alexsinaa"
+    hashtags: "#tdjmilana, #lifestyle, #djmilana, #tattoed"
+  - username: "user7893930200181"
     fullname: >-
-      Alexis 🍒
+      kino_go
+    bio: >-
+      🎬Лучшие моменты кино🍿
     location: "Ukraine"
-    followers: 2012
-    engagement: 273
-    commentsToLikes: 0.007280
-    id: ck95wdija1jym0j7859xu3nlr
+    followers: 9198
+    engagement: 1130
+    commentsToLikes: 0.035034
+    id: ck83x3ftmnyck0j78vyay4jfv
     verified: false
-    hashtags: "#shoutouter, #followback, #blogger, #mujer"
+    hashtags: "#kino, #smile, #toptags, #girl"
+  - username: "brunettojkaofficial"
+    fullname: >-
+      ❤K$❤
+    bio: >-
+      Instagram brunettojkaofficial sportsmenka ❤ model ❤ blogger ❤ photograph ❤
+    location: "Ukraine"
+    followers: 2468
+    engagement: 308
+    commentsToLikes: 0.000000
+    id: ckd0vquvnk8sg0j23b4dg8f9o
+    verified: false
+    hashtags: "#koblevo2020, #koblevo, #rest, #europe"
   - username: "christina_rbl"
     fullname: >-
       Христина
+    bio: >-
+      
     location: "Ukraine"
-    followers: 65904
-    engagement: 520
-    commentsToLikes: 0.022169
+    followers: 65000
+    engagement: 518
+    commentsToLikes: 0.022040
     id: ck8f8vtg73o120j781hpxda8t
     verified: false
-    hashtags: "#christmas, #etno, #tattoogirl, #unpacking"
+    hashtags: "#ukraine, #ukrainian, #puppy, #crossfit"
 ---

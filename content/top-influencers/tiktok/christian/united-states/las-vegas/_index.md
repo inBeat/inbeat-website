@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Las Vegas In 2020
 description: >-
-  Find top christian TikTok influencers in Las Vegas in 2020. Most popular hashtags: #coronavirus #friends #duet #neverfitin.
+  Find top christian TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
+hits: 10
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "shellzfromhellz"
+  - username: "goldstudioslv"
     fullname: >-
-      Shelly 
+      M
+    bio: >-
+      If you like anything I do all I ask is that you please subscribe to this link>>>
     location: "United States"
-    followers: 7281
-    engagement: 670
-    commentsToLikes: 0.022707
-    id: cka66ldh7hebu0i78neuppg99
+    followers: 5499
+    engagement: 1381
+    commentsToLikes: 0.176111
+    id: ckb9ason3w0q40j23aflihddu
     verified: false
-    hashtags: "#waipahu, #distancedance, #wedding, #loveforyou"
-  - username: "airplaneguy"
+    hashtags: "#flatbush, #crownheights, #trinidad, #via"
+  - username: "christian_shelton"
     fullname: >-
-      Jason Newbold
+      Christian Shelton
+    bio: >-
+      A Singer 19 | Las Vegas Instagram: @christiansheltonsings
     location: "United States"
-    followers: 2020
-    engagement: 995
-    commentsToLikes: 0.076369
-    id: ckae074wji83z0i78krft6kzr
+    followers: 504600
+    engagement: 1594
+    commentsToLikes: 0.026683
+    id: ckdbhijku8m7u0j231djpajad
     verified: false
-    hashtags: "#flying, #whatspoppin, #easter, #vegas"
-  - username: "caughtyouwatching"
+    hashtags: "#4you, #singing, #foryourpage, #vocals"
+  - username: "sarahromanowsky"
     fullname: >-
-      Suzanne
+      Sarah Romanowsky
+    bio: >-
+      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
     location: "United States"
-    followers: 2327
-    engagement: 557
-    commentsToLikes: 0.037992
-    id: cka0jr7zyj9m60i78r716qpxx
+    followers: 11400
+    engagement: 1861
+    commentsToLikes: 0.008782
+    id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#handbags, #lovethem, #oldladyneck, #foyoupage"
+    hashtags: "#aerialdance, #foryou, #cirquedusoleil, #slomo"
+  - username: "problematiccabbage"
+    fullname: >-
+      Jessica A
+    bio: >-
+      painfully relatable Venmo: Jessisph14
+    location: "United States"
+    followers: 80800
+    engagement: 1510
+    commentsToLikes: 0.044434
+    id: ck83z71huya3d0j78uhlxxmpz
+    verified: false
+    hashtags: "#harris2020, #funny, #fyp, #debate"
+  - username: "bruno_bulldogge"
+    fullname: >-
+      Germanese929
+    bio: >-
+      
+    location: "United States"
+    followers: 7389
+    engagement: 2386
+    commentsToLikes: 0.040144
+    id: ckb9rok0eoakw0j23l9pib0eb
+    verified: false
+    hashtags: "#love, #pets, #petlovers, #englishbulldog"
+  - username: "shana.lucia"
+    fullname: >-
+      Shana :)
+    bio: >-
+      🇺🇸TRUMP2020🇺🇸💓follow my insta! 💓 get some America merch : shana.lucia ⬇️
+    location: "United States"
+    followers: 23600
+    engagement: 1636
+    commentsToLikes: 0.130948
+    id: ckdnvjhdzosod0j234102mt7v
+    verified: false
+    hashtags: "#wwg1wga, #republican, #covidlies, #plandemic"
+  - username: "asiamahmoudsaad"
+    fullname: >-
+      Asia Mahmoud Saad
+    bio: >-
+      The Native Muslim
+    location: "United States"
+    followers: 11700
+    engagement: 1215
+    commentsToLikes: 0.046088
+    id: ckc7esakvnsz80j23yzp9w52v
+    verified: false
+    hashtags: "#toxic, #greenscreen, #fyp, #motherinlaw"
+  - username: "jeniferjfloress"
+    fullname: >-
+      Jeni
+    bio: >-
+      Insta & YouTube 🔝 Baby Kai’s IG: @kaijordansoriano 🇭🇳
+    location: "United States"
+    followers: 314500
+    engagement: 1158
+    commentsToLikes: 0.014350
+    id: ckczyqgpv7dds0j23aj5pk4ge
+    verified: false
+    hashtags: "#supplements, #parati, #baby, #momsoftiktok"
+  - username: "cheyenne.hooper"
+    fullname: >-
+      VERY TIRED
+    bio: >-
+      CEO of reaching top shelves 23 | 6’6 | CA
+    location: "United States"
+    followers: 13100
+    engagement: 794
+    commentsToLikes: 0.025392
+    id: ck9em578qdod80j78g31ioucn
+    verified: false
+    hashtags: "#duet, #tall, #tallgirl, #lgbt"
   - username: "outgunz"
     fullname: >-
       Cristian Abrego
+    bio: >-
+      Gun enthusiasts
     location: "United States"
-    followers: 7847
-    engagement: 685
-    commentsToLikes: 0.018045
+    followers: 16200
+    engagement: 953
+    commentsToLikes: 0.017669
     id: ckahto9shf27t0i78wem2lyc5
     verified: false
-    hashtags: "#duet, #tacticool, #funny, #trying"
-  - username: "christianlamn"
-    fullname: >-
-      Christian
-    location: "United States"
-    followers: 210496
-    engagement: 2408
-    commentsToLikes: 0.026669
-    id: ck8hpq1x50na10j78f47ai8gm
-    verified: false
-    hashtags: "#promlook, #radiorebel, #netflix, #rexorangecounty"
-  - username: "christianmelloo"
-    fullname: >-
-      Christian
-    location: "United States"
-    followers: 58218
-    engagement: 2226
-    commentsToLikes: 0.105486
-    id: ck8j5ywew7g3q0j782mnas79g
-    verified: false
-    hashtags: "#yoplaitcuprelay, #celebratenurses, #music, #ownthecurve"
-  - username: "christian"
-    fullname: >-
-      Christian Delgrosso
-    location: "United States"
-    followers: 3840851
-    engagement: 1647
-    commentsToLikes: 0.007560
-    id: ck83wr5h9lmey0j788n2etpge
-    verified: true
-    hashtags: "#beatthezombiefunk, #ad, #sweepstakes, #makeup"
-  - username: "klgregg03"
-    fullname: >-
-      Kati Gregg🐻✨
-    location: "United States"
-    followers: 599580
-    engagement: 3419
-    commentsToLikes: 0.084142
-    id: ck8w1bge41b7c0j78l0exn0aa
-    verified: false
-    hashtags: "#easter, #promplaylist, #neverfitin, #tossyourcap"
-  - username: "christianinmanmusicc"
-    fullname: >-
-      Christian Inman
-    location: "United States"
-    followers: 4701
-    engagement: 2197
-    commentsToLikes: 0.075275
-    id: ck9e1ufnqcdq40j78p254n2v7
-    verified: false
-    hashtags: "#change, #foryoupage, #repost, #equality"
-  - username: "christiana.b4"
-    fullname: >-
-      christiana
-    location: "United States"
-    followers: 205969
-    engagement: 2104
-    commentsToLikes: 0.029994
-    id: ck81q085tewju0j783a1fya4v
-    verified: false
-    hashtags: "#snackbreak, #randomthings, #kiss, #alwayslearning"
+    hashtags: "#icon, #motorcycle, #kawasaki, #2a"
 ---

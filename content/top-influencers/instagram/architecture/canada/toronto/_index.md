@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Toronto In 2020
 description: >-
-  Find top architecture Instagram influencers in Toronto in 2020. Most popular hashtags: #architecture #toronto #makeup #stairs.
+  Find top architecture Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #architecture #canada #interiordesign.
 platform: Instagram
+hits: 55
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 55 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "peccapeccapecca"
     fullname: >-
       Chubgirl
+    bio: >-
+      Hi, I'm Pecca. I draw things. I make things. Webcomic. @hubman.chubgirl Masters of Architecture. Toronto, ON ♥️ @chrischantor
     location: "Canada"
-    followers: 123785
-    engagement: 2081
-    commentsToLikes: 0.006067
+    followers: 147210
+    engagement: 2581
+    commentsToLikes: 0.005989
     id: ckaozb83ul3qg0i788zukjgwg
     verified: false
-    hashtags: "#happysiblingday, #sibling"
-  - username: "loki.eats"
+    hashtags: "#blackouttuesday, #sibling, #happysiblingday, #birthdaypost"
+  - username: "jtfhomes"
     fullname: >-
-      Loki | Toronto Lifestyle
+      JTF Homes
+    bio: >-
+      "Making Your Dream Home A Reality" Building Custom Homes Across Toronto and the GTA since 1985 🇨🇦
     location: "Canada"
-    followers: 5966
-    engagement: 1407
-    commentsToLikes: 0.057185
-    id: ck15pdw1zxegt0i19c6ul7eap
+    followers: 7562
+    engagement: 539
+    commentsToLikes: 0.033050
+    id: ck5q341rxj46y0i11kd44wsub
     verified: false
-    hashtags: "#fantasy, #smallbizrelief, #workout, #hotpot"
-  - username: "autumnatelier"
+    hashtags: "#jtfhomes, #renovation, #interiordesign, #architecture"
+  - username: "torontojourney416"
     fullname: >-
-      Autumn Atelier
+      Toronto Journey 416
+    bio: >-
+      Past and present theatres, hotels, storefronts, churches, restaurants, taverns, attractions, buildings, parks & murals. They all have history.
     location: "Canada"
-    followers: 9024
-    engagement: 860
-    commentsToLikes: 0.107539
-    id: ck15uvn7soq340i19bs6oqrmy
+    followers: 15250
+    engagement: 629
+    commentsToLikes: 0.047631
+    id: ckap2hgmhyuk00i788u84kwok
     verified: false
-    hashtags: "#dailyinspo, #foodiefeature, #simit, #pizza"
-  - username: "future.design.homes"
+    hashtags: "#6ixwalks, #historictoronto, #torontobuildings, #toronto"
+  - username: "rahuul_s"
     fullname: >-
-      Future Design Homes Corp.
+      
+    bio: >-
+      Toronto Chasing light
     location: "Canada"
-    followers: 106124
-    engagement: 221
-    commentsToLikes: 0.013553
-    id: ck8t6h1x4dluq0j78j6cti875
+    followers: 5635
+    engagement: 1616
+    commentsToLikes: 0.117419
+    id: ckaoqu3fdkehw0i78j1vgraho
     verified: false
-    hashtags: "#dreamhome, #bathrooms, #deckdesign, #patio"
-  - username: "irisy_8"
+    hashtags: "#dailyhivetoronto, #lovetdot, #canadaparadise, #imagesofcanada"
+  - username: "vishakha_sodha"
     fullname: >-
-      Iris | Toronto Photographer
+      Vishakha Sodha Khakhar
+    bio: >-
+      📍Canada 5ft short, I create blogs & podcasts! Shop @vishakha_closet Founding member @thenextgenartists Partnerships: connect@vishakhasodha.com
     location: "Canada"
-    followers: 7057
-    engagement: 4063
-    commentsToLikes: 0.153306
-    id: ck13976vqjvm60i19us2bl17s
+    followers: 45477
+    engagement: 173
+    commentsToLikes: 0.340166
+    id: ck5q4xd6uqlz90i11knuentpj
     verified: false
-    hashtags: "#sunset, #allbeauty, #natureromantix, #super"
-  - username: "chrisnoronhaphoto"
+    hashtags: "#livingroom, #travelwithus, #canadagiveaway, #couplegoals"
+  - username: "roderikopop"
     fullname: >-
-      Chris Noronha
+      Roderiko Pop
+    bio: >-
+      #Traveler #Boy 🎠⛵✈🚀 Wanderlust, relentlessly craving. 😜 Pictures by me without flash 📸
     location: "Canada"
-    followers: 4382
-    engagement: 1649
-    commentsToLikes: 0.192733
-    id: ck0vywl20659s0i193aqxut7o
+    followers: 22616
+    engagement: 452
+    commentsToLikes: 0.030100
+    id: ckap2r4o8zyh40i78kd9g0zv6
     verified: false
-    hashtags: "#earthofficial, #goldfinch, #wildlife, #world"
-  - username: "westbankcorp"
+    hashtags: "#male, #architecture, #unique, #toronto"
+  - username: "gtahouses4sale"
     fullname: >-
-      Westbank
+      Toronto & GTA Listings
+    bio: >-
+      Showcasing the GTA’s Current Listings #FORSALE Providing Top Exposure for GTA #REALTORS Daily. DM/Email For Feature To Get Your Listings Sold 🏡
     location: "Canada"
-    followers: 26805
-    engagement: 143
-    commentsToLikes: 0.014042
-    id: ck6tph9exjuxy0j719bg2fr55
+    followers: 26992
+    engagement: 530
+    commentsToLikes: 0.009099
+    id: ck0uefbo4l72d0i1932ljomzp
     verified: false
-    hashtags: "#tokyo, #waterfront, #telussky, #englishbay"
-  - username: "lovesey"
+    hashtags: "#vaughanrealestate, #luxuryliving, #gtahouses4sale, #investment"
+  - username: "stallonemedia"
     fullname: >-
-      Andrew (XEL,ÁL,S) Lovesey
+      Stallone Media Group
+    bio: >-
+      Matthew Stallone 🇨🇦 📸 Photos 🎥 Videos 🏡 iGUIDE 💫 DRONE Real Estate Marketing Vaughan - Toronto - GTA 905-326-3300 x 1 ONE CALL WE DO, IT ALL
     location: "Canada"
-    followers: 19355
-    engagement: 536
-    commentsToLikes: 0.107335
-    id: ck0w2pfm8pj9h0i1979n192vo
-    verified: true
-    hashtags: "#london, #newyorkcity, #luxuryvilla, #quarantine"
-  - username: "tak.chan"
-    fullname: >-
-      Timochka
-    location: "Canada"
-    followers: 12514
-    engagement: 1192
-    commentsToLikes: 0.010670
-    id: ckaoze8cvlhl20i78kxulo33b
+    followers: 71921
+    engagement: 91
+    commentsToLikes: 0.036483
+    id: ck5heontmu04f0i113belgvr5
     verified: false
-    hashtags: "#quebec, #instagood, #vscohochiminh, #curnonwatch"
-  - username: "kalie_ho"
+    hashtags: "#propertyforsale, #vaughanrealestate, #stallonemedia, #property"
+  - username: "creativemaazk"
     fullname: >-
-      Kalie Ho
+      Maaz Khan
+    bio: >-
+      26|Filmmaker|Photographer|Content Creator| Wedding Photographer & Videographer 🎥📸 📍Toronto
     location: "Canada"
-    followers: 5912
-    engagement: 881
-    commentsToLikes: 0.031266
-    id: ck0ua6q1cbkoh0i19opw0tymc
+    followers: 5965
+    engagement: 649
+    commentsToLikes: 0.120947
+    id: ck6u9usmtzsgq0j71sc5a6hl8
     verified: false
-    hashtags: "#amazon, #cacti, #abibamazon, #cactus"
+    hashtags: "#fujifilm, #canada, #explorecanada, #ourplanetdaily"
+  - username: "adel.farid3"
+    fullname: >-
+      Adel Farid
+    bio: >-
+      Toronto. An environmental scientist with a camera 📷. Travel Addict 🚕✈️. My own photos ©. Contact: adelfaridk@gmail.com
+    location: "Canada"
+    followers: 2753
+    engagement: 1377
+    commentsToLikes: 0.093556
+    id: ckaowa18q80ct0i781uep48ck
+    verified: false
+    hashtags: "#algonquinprovincialpark, #travelphotography, #citykillerz, #visuals"
 ---

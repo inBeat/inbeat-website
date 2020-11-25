@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Turkey In 2020
 description: >-
-  Find top architecture Instagram influencers in Turkey in 2020. Most popular hashtags: #blogger #evdekal #izmir #bloggervibes.
+  Find top architecture Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #architecture #fashion #outfitoftheday.
 platform: Instagram
+hits: 162
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 162 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "enfaldiner"
+  - username: "itss.arzu"
     fullname: >-
-      Enfal Diner
+      Arzu 🦋
+    bio: >-
+      BAU~ Architecture 🇹🇷🇷🇺🇺🇸 Istanbul 📍
     location: "Turkey"
-    followers: 148270
-    engagement: 1918
-    commentsToLikes: 0.462020
-    id: ck6typy1d56fb0j717q83n76s
+    followers: 3827
+    engagement: 1499
+    commentsToLikes: 0.050545
+    id: ck9wh2x14w07k0j7876it2q77
     verified: false
-    hashtags: "#herkes, #hayat, #opporeno3pro"
-  - username: "shirin_noorbakhsh"
+    hashtags: "#bebek, #istanbul, #hope, #cumhuriyetbayram"
+  - username: "ola632"
     fullname: >-
-      Shirin Nourbakhsh
+      O L A ♡ علا
+    bio: >-
+      ▶️ Youtube +12K : Ola’s Details تفاصيل علا 🦋 simple yet fullest lifestyle حسابي للنباتات @ola.s.garden 🌿 📐 İÜ / Landscape Architecture
     location: "Turkey"
-    followers: 278536
-    engagement: 762
-    commentsToLikes: 0.014890
-    id: ck5hpgd2hrbck0i11covn7pm0
+    followers: 3931
+    engagement: 1230
+    commentsToLikes: 0.103653
+    id: ckap63mf4e8zb0i78yt2txqyr
     verified: false
-    hashtags: "#pinkeyeshadow, #bandarabbas, #culturetrip, #write"
-  - username: "ugurtalas"
-    fullname: >-
-      Uğur Talaş
-    location: "Turkey"
-    followers: 5100
-    engagement: 1660
-    commentsToLikes: 0.076395
-    id: ck14gzf4l7s4p0i19wwa049rs
-    verified: false
-    hashtags: "#karabatak, #reflection, #hagiasofia, #adalar"
-  - username: "blogging2girl"
-    fullname: >-
-      Gökçe's Wonderland
-    location: "Turkey"
-    followers: 13529
-    engagement: 728
-    commentsToLikes: 0.066030
-    id: ck14gp0da6bq50i19vqwr2h1l
-    verified: false
-    hashtags: "#glowcherie, #mottomottomemes, #bookgram, #mondaymood"
-  - username: "biereblanche"
-    fullname: >-
-      Bensu
-    location: "Turkey"
-    followers: 4884
-    engagement: 1459
-    commentsToLikes: 0.067156
-    id: ck8tc38cjy4lq0j781cankjkn
-    verified: false
-    hashtags: "#tirana, #siracusa, #makedonya, #myeverydaymagic"
+    hashtags: "#photoshoots, #beachphotoshoot, #photomodel, #happytimes"
   - username: "ezgimut"
     fullname: >-
       Ezgi Mut
+    bio: >-
+      Λrchitect┊Interior Λrchitect • Double major For #Architecture ★ #Travel ★ #Design • #istanbul
     location: "Turkey"
-    followers: 3928
-    engagement: 1372
-    commentsToLikes: 0.036311
+    followers: 5023
+    engagement: 1464
+    commentsToLikes: 0.031146
     id: ck9we8cxuj3vf0j78arc1bnec
     verified: false
-    hashtags: "#girlbosslife, #amasra, #fotografheryerde, #globelletravels"
+    hashtags: "#photography, #ootdfashion, #instagram, #fashion"
+  - username: "ugurtalas"
+    fullname: >-
+      Uğur Talaş
+    bio: >-
+      (Mostly Lights) Travel and Architecture Photography İstanbul
+    location: "Turkey"
+    followers: 7531
+    engagement: 842
+    commentsToLikes: 0.036153
+    id: ck14gzf4l7s4p0i19wwa049rs
+    verified: false
+    hashtags: "#hurriyetseyahat, #istanbul, #gezginler, #streetlights"
   - username: "esen.matras"
     fullname: >-
-      Esen Matraş
+      Esen Milan Matraş
+    bio: >-
+      @suil.go.suil BAU | Interior Architecture & Env. Design Based in Istanbul / Turkey PR: Esen.matras@gmail.com
     location: "Turkey"
-    followers: 14556
-    engagement: 547
-    commentsToLikes: 0.015838
+    followers: 16457
+    engagement: 496
+    commentsToLikes: 0.020122
     id: ck9wfsfzlqc1v0j78detdpo1c
     verified: false
-    hashtags: "#aesthetics, #inspirational, #blue, #eyemakeup"
+    hashtags: "#fashionista, #mirrorselfie, #ootdfashion, #streetfashion"
+  - username: "jamesfgoldstein"
+    fullname: >-
+      James F. Goldstein
+    bio: >-
+      Fashion. Basketball. Architecture.
+    location: "Turkey"
+    followers: 98694
+    engagement: 117
+    commentsToLikes: 0.025039
+    id: ck5bu6l6xh8wo0i11odl665ls
+    verified: true
+    hashtags: "#throwbackthursday, #flashback, #goldsteinresidence, #regram"
+  - username: "blogging2girl"
+    fullname: >-
+      Gökçe's Wonderland
+    bio: >-
+      🌾LİFESTYLE •books •beauty •travel •nail •makeup 🙋🏻‍♀️ Architecture & Designer #gökçeninkitapönerisi
+    location: "Turkey"
+    followers: 27130
+    engagement: 322
+    commentsToLikes: 0.037390
+    id: ck14gp0da6bq50i19vqwr2h1l
+    verified: false
+    hashtags: "#avonkatalog, #avon, #motivationalquotes, #motto"
   - username: "yesilodak"
     fullname: >-
       Yeşil Odak
+    bio: >-
+      🏡Geleceği Yeşil Tasarla #yeşilmimarlık #mimari #yeşilmimari #tasarım #architecture #greenarchitecture #design #greendesign #yeşiltatil #yeşilbina
     location: "Turkey"
-    followers: 44167
-    engagement: 172
-    commentsToLikes: 0.015002
+    followers: 44524
+    engagement: 110
+    commentsToLikes: 0.018105
     id: ck9h9n2g994y40j78b4pkbsrl
     verified: false
-    hashtags: "#prefabricated, #uganda, #istanbul, #toprakyap"
+    hashtags: "#architect, #saturday, #1may, #ev"
   - username: "busraisikcimimarlik"
     fullname: >-
-      BUSRA ISIKCI MİMARLİK
+      BUSRA ISIKCI MİMARLİK
+    bio: >-
+      Busra MALÇOK Mimari,İç mimarı proje uygulama-Konsept Danışmanlığı-ÇELİK YAPILAR|| ARCHITECTURE || INTERIORS || PRODUCT DESIGN busraisikci@gmail.com 📩
     location: "Turkey"
-    followers: 15695
-    engagement: 377
-    commentsToLikes: 0.004131
+    followers: 15540
+    engagement: 275
+    commentsToLikes: 0.005162
     id: ck0u70g2v3jiq0i194xrmt00w
     verified: false
     hashtags: ""
   - username: "arkitera"
     fullname: >-
       Arkitera
+    bio: >-
+      Türkiye'nin #mimarlik Yayını. Follow #arkitera #architecture #mimar #turkisharchitects #design #interiordesign
     location: "Turkey"
     followers: 100545
     engagement: 105
     commentsToLikes: 0.004758
     id: ck5qahtgfgh1f0i11297whpfj
     verified: false
-    hashtags: "#teknikdestek, #samsun, #yarismaylayap, #karsiyaka"
+    hashtags: "#eskiz, #sketch, #titanyum, #architettura"
 ---

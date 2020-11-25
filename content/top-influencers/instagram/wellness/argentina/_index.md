@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Argentina In 2020
 description: >-
-  Find top wellness Instagram influencers in Argentina in 2020. Most popular hashtags: #wellness #entrenar #argentina #motivation.
+  Find top wellness Instagram influencers in Argentina in 2020. Most popular hashtags: #wellness #healthyfood #fitness.
 platform: Instagram
+hits: 22
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 22 Instagram influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "danilapao"
+  - username: "alondra_fitness12"
     fullname: >-
-      Danila Bp
+      Nutriologa Alondra Corona
+    bio: >-
+      México🇲🇽Guadalajara Licenciada en Nutrición 🍎 🏋🏽‍♀️Fitnessgirl 👙Bikini Wellness Juvenil 🏆Campeona Juvenil 2018 🏆Campeona Estatal 2018
     location: "Argentina"
-    followers: 5521
-    engagement: 1718
-    commentsToLikes: 0.047495
-    id: ck9hcjpi9lqbx0j78vhlm2sc9
+    followers: 67477
+    engagement: 176
+    commentsToLikes: 0.010370
+    id: ck6udourbmbvd0j71tz5f6o0f
     verified: false
-    hashtags: "#instagram, #bienestar, #deportes, #inspiration"
-  - username: "ayalafeer"
+    hashtags: "#picoftheday, #whatdoyoulift4, #fitnessfamily, #rousselteam"
+  - username: "greenhabitshn"
     fullname: >-
-      Fernanda Ayala 💕🇦🇷
+      Andrea Palacios Sikaffy
+    bio: >-
+      -God❤️ - Founder @vivesanu @letsbeactiv -IIN Health Coach 🌸 -Healthy Recipe developer 🍪.
     location: "Argentina"
-    followers: 7021
-    engagement: 706
-    commentsToLikes: 0.026399
-    id: ck5bwe2h7limu0i11rd24h3t0
+    followers: 9124
+    engagement: 230
+    commentsToLikes: 0.041217
+    id: ck6tupr4fhpf20j71v3kgkbd7
     verified: false
-    hashtags: "#aestheticteam, #wellnessgirl, #athletamag, #bodytransformation"
-  - username: "ivanamedail"
+    hashtags: "#fitness, #greenhabits, #greenlifestyle, #wellnessblog"
+  - username: "chefdanielvargas"
     fullname: >-
-      ɪᴠᴀɴᴀ  ᴍᴇᴅᴀɪʟ
+      Daniel Vargas
+    bio: >-
+      @daniel_vargas_lifecoach •Precision Nutrition Coach •CF Level 1 •OPEX CCP Coach •Lic Nutrición en curso •Master PNL en curso •Le Cordon Bleu Madrid
     location: "Argentina"
-    followers: 40744
-    engagement: 257
-    commentsToLikes: 0.076026
-    id: ck0w60kd46c3h0i193fpjsby4
+    followers: 102102
+    engagement: 130
+    commentsToLikes: 0.087037
+    id: ck6tzgjcy9kh40j716txd2kt1
     verified: false
-    hashtags: "#quarentine, #amigos, #vidafit, #colombia"
-  - username: "itiel_fernandez"
-    fullname: >-
-      Itiel Fernández IFBBPROLEAGUE
-    location: "Argentina"
-    followers: 36659
-    engagement: 428
-    commentsToLikes: 0.039093
-    id: ck8t6d5mtd65u0j787fhggazs
-    verified: false
-    hashtags: "#legsday, #instagood, #fitwomen, #cinturilla"
-  - username: "macarenapalermo"
-    fullname: >-
-      Macarena Palermo Bourguet
-    location: "Argentina"
-    followers: 21152
-    engagement: 445
-    commentsToLikes: 0.034529
-    id: ck9hb7uy3fqdo0j787wglpqlw
-    verified: false
-    hashtags: "#didemstyle, #wellness, #didemkinali, #clasegratis"
-  - username: "carlaciba"
-    fullname: >-
-      Carlita Cibalerio
-    location: "Argentina"
-    followers: 49341
-    engagement: 140
-    commentsToLikes: 0.060784
-    id: ck6tnfj8h9qkz0j71ryjrg2h9
-    verified: false
-    hashtags: "#entender, #mobility, #entrenamostodos, #coronav"
-  - username: "gsoffritti"
-    fullname: >-
-      Gaston Soffritti
-    location: "Argentina"
-    followers: 1475049
-    engagement: 359
-    commentsToLikes: 0.003583
-    id: ck5hgrbxm4byn0i114zbqg45d
-    verified: true
-    hashtags: "#yoamohavaianas, #experienciahiltonpilar, #pandoravalentines, #cafayate"
-  - username: "nadinaloreley"
-    fullname: >-
-      𝐍𝐚𝐝𝐢𝐧𝐚 𝐋𝐨𝐫𝐞𝐥𝐞𝐲 𝐕
-    location: "Argentina"
-    followers: 28966
-    engagement: 647
-    commentsToLikes: 0.030252
-    id: ck55lwvwy2mu30i119c7c27n9
-    verified: false
-    hashtags: "#respectyourbody, #nomakeup, #vintagelingerie, #womenbody"
-  - username: "losabuelitosbermudo"
-    fullname: >-
-      Magaly y Gustavo Bermudo
-    location: "Argentina"
-    followers: 9082
-    engagement: 591
-    commentsToLikes: 0.021416
-    id: ck6tsk3ou57iz0j71kf3ur0d3
-    verified: false
-    hashtags: "#caraccident, #walkins, #disneyfamilia, #disney"
+    hashtags: "#fuerzadevoluntad, #wod, #wellness, #cambio"
   - username: "evimeria_bienestarinterior"
     fullname: >-
       Evimeria Bienestar Interior
+    bio: >-
+      🔮 T A R O T 🌌 A S T R O L O G I A 🌙 C O A C H I N G 🔅 @evirama.natural ✨ @barbaramartinez1980 ♈️ 1121786265 🔆 @tinamartinezzzz ♍️ 1137556693
     location: "Argentina"
-    followers: 6830
-    engagement: 515
-    commentsToLikes: 0.129634
+    followers: 10238
+    engagement: 418
+    commentsToLikes: 0.055871
     id: ck8t6468dc7200j781svmi3a6
     verified: false
-    hashtags: "#wellnesscoaching, #cartaastral, #astraltips, #karma"
+    hashtags: "#astrolovers, #venus, #saturno, #astralfacts"
+  - username: "nutriologa_kmillan"
+    fullname: >-
+      👩🏻‍⚕️Nutrióloga 🌿 Karen Millán
+    bio: >-
+      🍏Educadora en diabetes y Coach Nutricional 🍎Consulta presencial y en línea 🏅Programas de alimentación y Retos 21 📍Guadalajara 📩 ln.kmillan@gmail.com
+    location: "Argentina"
+    followers: 29735
+    engagement: 234
+    commentsToLikes: 0.058917
+    id: ckaor4h0kloqx0i780nzwbmw9
+    verified: false
+    hashtags: "#eatclean, #postresaludable, #cleaneatting, #cleaneating"
+  - username: "ayalafeer"
+    fullname: >-
+      Fernanda Ayala
+    bio: >-
+      Cordoba, Argentina Atleta Wellnes NPC 🇦🇷 🐃🍑@torotrainercoach Sponsor: @magsuplementosnutricionales
+    location: "Argentina"
+    followers: 7787
+    engagement: 963
+    commentsToLikes: 0.025594
+    id: ck5bwe2h7limu0i11rd24h3t0
+    verified: false
+    hashtags: "#hardwork, #girlswithmuscle, #sportlife, #gymmotivation"
+  - username: "ayepaleo"
+    fullname: >-
+      Ayelen Celeste Paleo
+    bio: >-
+      📩 Escuela Tango Flores 💃 @escuelatangoflores 🇦🇷 ❌NO Twitter 💪 Gym is life ✍️ 💃Bailarina de Tango 🤩Vedette
+    location: "Argentina"
+    followers: 483083
+    engagement: 190
+    commentsToLikes: 0.015747
+    id: ckapaz8s3y0y70i783hnbox1m
+    verified: true
+    hashtags: "#mamushka, #loqueseviene, #wellness, #novedades"
+  - username: "solvillarrealok"
+    fullname: >-
+      Soledad Villarreal
+    bio: >-
+      • Disfrutadora de la vida 🌟 • Conductora de tv y radio, modelo, periodista. • #Bienestar #Moda #Entrevistas • 🎸 #linearockbysolvillarreal 🤘
+    location: "Argentina"
+    followers: 56225
+    engagement: 69
+    commentsToLikes: 0.245539
+    id: ck0w60qhp6cv90i198y355v6r
+    verified: true
+    hashtags: "#accesorios, #lookoftheday, #imagen, #linearockbysolvillarreal"
+  - username: "celestewellness"
+    fullname: >-
+      Coach
+    bio: >-
+      Reconectando a mujeres con su poder personal a través del entrenamiento y alimentación ⚡✊💚 Enfermera💙 Nutrición Deportiva 💚 Apúntate acá 👇🏋️🧘‍♀️⚡💫💜
+    location: "Argentina"
+    followers: 64839
+    engagement: 233
+    commentsToLikes: 0.052366
+    id: ck5zypmqhaamw0i143jtm1thh
+    verified: false
+    hashtags: "#viernes, #amate, #mujer, #quierete"
+  - username: "airisfit"
+    fullname: >-
+      ⚡️AIRISFIT⚡️
+    bio: >-
+      Pablo Champagne 🙋‍♂️ Embajador @aviaargentina
+    location: "Argentina"
+    followers: 131831
+    engagement: 114
+    commentsToLikes: 0.060483
+    id: ck14iux9rh9jr0i19mhv6tnfw
+    verified: false
+    hashtags: "#recetasfitair, #recetassaludables, #fitnesslifestyle, #ropa"
 ---

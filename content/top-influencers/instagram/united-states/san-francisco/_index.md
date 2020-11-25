@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top Instagram influencers in San Francisco in 2020. Most popular hashtags: # #sundayfunday #ad #happyhourathome.
+  Find top Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #gifted #stayhome.
 platform: Instagram
+hits: 1657
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1657 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "audrey.azzeh"
+  - username: "_esilanna"
     fullname: >-
-      A.A.A.
+      Annalise ♡
+    bio: >-
+      🇻🇳 just a kinder teacher trying my best 🍎 M.A. ED. x San Francisco 💌 collabwithannalise@gmail.com 🍒 esilanna is annalise backwards 📍 San Diego
     location: "United States"
-    followers: 2656
-    engagement: 2588
-    commentsToLikes: 0.133013
-    id: ckap4ipvd7jxm0i78m1wjoem0
+    followers: 6646
+    engagement: 2114
+    commentsToLikes: 0.108790
+    id: ckap29iu5xyzz0i78d481j9to
     verified: false
-    hashtags: ""
-  - username: "anna.lengy"
+    hashtags: "#twodegreeshotter, #stayhome, #90sexperience, #brilliantearth"
+  - username: "harperbf"
     fullname: >-
-      Anna
+      Harper
+    bio: >-
+      🙋🏻‍♂️Just a goober in the Golden State 📍San Francisco
     location: "United States"
-    followers: 7179
-    engagement: 2282
-    commentsToLikes: 0.069215
-    id: ckaozd335lc020i78nfxodvfv
+    followers: 30647
+    engagement: 952
+    commentsToLikes: 0.039613
+    id: ck0tyerjmmi8p0i193o1f823g
     verified: false
-    hashtags: ""
-  - username: "apisthebull"
+    hashtags: "#gaycouple, #gaymen, #vote, #democrat"
+  - username: "mollsmcadam"
     fullname: >-
-      SAQIBASLAMAPIS
+      Molly McAdam
+    bio: >-
+      ⚡️ Los Angeles | San Francisco ✉️ hello@mollyalamode.com ✖️ Fashion Lifestyle Adventure 👄Tik Tok mollymcadam
     location: "United States"
-    followers: 22306
-    engagement: 733
-    commentsToLikes: 0.088468
-    id: ck13b2c2otch30i192ig5g4l7
+    followers: 56537
+    engagement: 362
+    commentsToLikes: 0.165841
+    id: ck8sxobhqi2mc0j78ezgxhith
     verified: false
-    hashtags: "#hiphopculture, #hiphop, #rap, #rapper"
-  - username: "alessa"
+    hashtags: "#sprinklescupcakes, #losangelesblogger, #westcoastblogger, #eeeats"
+  - username: "cristinaviseu"
     fullname: >-
-      Alessa | アレッサ 💫
+      Cristina 💕 San Francisco
+    bio: >-
+      💕 Ghibli film vibes 🌸 tiktok @cristinaviseu 📍San Francisco ✨ 💌viseu.c@gmail.com
     location: "United States"
-    followers: 13915
-    engagement: 907
-    commentsToLikes: 0.088473
-    id: ck14gwkbf7e1m0i191nzti4t0
+    followers: 8950
+    engagement: 1186
+    commentsToLikes: 0.065075
+    id: ckaorswleolz40i78clw0wbry
     verified: false
-    hashtags: "#lifeathome, #coachny, #ad, #lovemyvoloom"
-  - username: "mymodernfitlife"
+    hashtags: "#softaesthetic, #aestheticfeed, #softfeed, #sanfrancisco"
+  - username: "wishiwasavirgo"
     fullname: >-
-      Kimberlie | Vinyasa Yoga
+      Alyssa Kilei
+    bio: >-
+      🪐 san francisco / los angeles 💌 wishiwasavirgo@gmail.com
     location: "United States"
-    followers: 3768
-    engagement: 1823
-    commentsToLikes: 0.173647
-    id: ckaou1elwyd750i78r6o8zhg0
+    followers: 3851
+    engagement: 1485
+    commentsToLikes: 0.160424
+    id: ckf5og5nh25rs0j23dikfahun
     verified: false
-    hashtags: "#halasana, #shoulderstand, #sungoddessyogis, #headstand"
-  - username: "lllfrancisco"
-    fullname: >-
-      Lucas Francisco
-    location: "United States"
-    followers: 9622
-    engagement: 1447
-    commentsToLikes: 0.037159
-    id: ck5bzhvskr6cm0i111yxgo7mk
-    verified: false
-    hashtags: "#laketahoe, #westhollywoodedition, #coachellacamping, #glamping"
+    hashtags: "#mejuri, #mejuripartner, #gifted, #finecrew"
   - username: "allisonuncorked"
     fullname: >-
       A L L I S O N
+    bio: >-
+      •All things WINE 🍷 •Wine Travel: Napa and France •Here to make wine more inviting 🏠 San Francisco, CA
     location: "United States"
-    followers: 25668
-    engagement: 419
-    commentsToLikes: 0.063952
+    followers: 25557
+    engagement: 393
+    commentsToLikes: 0.063572
     id: ck0vv2nxsn9i20i19njer66dk
     verified: false
-    hashtags: "#worldautismmonth, #autismawarenessmonth, #sundayfunday, #mothersday"
-  - username: "cristinaviseu"
+    hashtags: "#gerardbertrand, #frenchwinerevolution, #champagne, #strongertogether"
+  - username: "crazy4me"
     fullname: >-
-      Cristina Viseu
+      🍒Yasmina Greco🍒
+    bio: >-
+      👑 of curves, married @garyzface Curvy Retro Blogger + Confidence Crusader | Fashion + Reviews | Body Possitive 👚Owner @crazy4mestyle San Francisco
     location: "United States"
-    followers: 7456
-    engagement: 850
-    commentsToLikes: 0.075690
-    id: ckaorswleolz40i78clw0wbry
+    followers: 77000
+    engagement: 284
+    commentsToLikes: 0.061013
+    id: ck13abz8bpnf10i193qdagyl5
+    verified: false
+    hashtags: "#mondaymotivation, #collectifclothing, #wrapdress, #rockabella"
+  - username: "johnrandolphhh"
+    fullname: >-
+      John Randolph Thatcher
+    bio: >-
+      A nostalgic drip. Photography for the melancholy. San Francisco, California.
+    location: "United States"
+    followers: 24490
+    engagement: 848
+    commentsToLikes: 0.021032
+    id: ckap090cupa570i789j7zfm86
+    verified: false
+    hashtags: "#xpan, #35mmfilm, #nikonfm2, #leicam6j"
+  - username: "tallgirltakeover_"
+    fullname: >-
+      Jenna | Tall Style & Community
+    bio: >-
+      6’4” | San Francisco based blogger & YouTuber Let’s stand tall together 💕 . . . #TallBlogger #tallgirls #tallinfluencer #TallGirl #TallClothes
+    location: "United States"
+    followers: 14446
+    engagement: 547
+    commentsToLikes: 0.078575
+    id: ck5bus7m0icml0i11nsbin4j4
+    verified: false
+    hashtags: "#tallgirl, #longlegs, #tallstyle, #tallclothing"
+  - username: "brittanyt70"
+    fullname: >-
+      brittany tonnesen
+    bio: >-
+      university of san francisco @deltazetausf
+    location: "United States"
+    followers: 3078
+    engagement: 2316
+    commentsToLikes: 0.053835
+    id: ck0w0v2scg6fv0i194bqhzacq
     verified: false
     hashtags: ""
-  - username: "spencerbrownofficial"
-    fullname: >-
-      spencer
-    location: "United States"
-    followers: 30717
-    engagement: 718
-    commentsToLikes: 0.050471
-    id: ck55ngvjk66s20i11daciulw6
-    verified: true
-    hashtags: "#justquarantinethings, #streamofconsciousness, #robelife, #stayathomeandlistentovinyl"
-  - username: "therealkristenmarie"
-    fullname: >-
-      KRISTEN | 🍷Wine Country Chick
-    location: "United States"
-    followers: 30554
-    engagement: 335
-    commentsToLikes: 0.101301
-    id: ck5hj4epffzb80i11rvsk2i3j
-    verified: false
-    hashtags: "#happyhourathome, #poemacava, #sundayfunday, #quarantinelife"
 ---

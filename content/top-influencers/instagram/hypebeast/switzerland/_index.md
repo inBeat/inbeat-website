@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Switzerland in 2020. Most popular hashtags: #hypebeast #stayhome #night #createcommune.
+  Find top hypebeast Instagram influencers in Switzerland in 2020. Most popular hashtags: #hypebeast #agameoftones #theimaged #moodygrams.
 platform: Instagram
+hits: 15
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "alan.wagli"
+  - username: "massiahzavahir"
     fullname: >-
-      Pineapple Alan🍍| 18 yrs🦅
+      MassiahZavahir
+    bio: >-
+      ..creating.. ▪️Dancer | Choreographer 📸Photographer - DM for bookings ▪️Credits: Kanye West - Honor Up, MCM, Puma, Braun, Swatch, UO, Nike 📍Basel 🇨🇭
     location: "Switzerland"
-    followers: 12953
-    engagement: 2837
-    commentsToLikes: 0.036906
-    id: ck8wgh63rhcs20j785vyd8ss6
+    followers: 6130
+    engagement: 799
+    commentsToLikes: 0.154916
+    id: ck5qcjwa7qxxx0i112ynf2ikk
     verified: false
-    hashtags: "#sponsored, #stayhome, #simplefits, #streetfashion"
+    hashtags: "#instagood, #gqstyle, #berlin, #oassismag"
+  - username: "_desandro"
+    fullname: >-
+      “S A N D R O“ 🚀
+    bio: >-
+      ◤ ◢◤ ◢◤ ◢◤◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ DM me for business inquiries 📥 ➖👻: sandro_2000 ↙️link down below ➖ Tiktok: desandro_💥 ➖private account @__desandro
+    location: "Switzerland"
+    followers: 12748
+    engagement: 833
+    commentsToLikes: 0.018404
+    id: ck5hofwmsphp10i11wdhucpbf
+    verified: false
+    hashtags: "#bestofstreetwear, #insaneoutfits, #supremeboxlogo, #cactusjack"
+  - username: "markuswiedmer"
+    fullname: >-
+      Markus Wiedmer
+    bio: >-
+      Landscape Photography 🇨🇭 @canon_photos
+    location: "Switzerland"
+    followers: 5492
+    engagement: 1652
+    commentsToLikes: 0.043487
+    id: ck6to9velcwrf0j71n0jk94w9
+    verified: false
+    hashtags: "#travelstoke, #wildernessculture, #wonderful, #folkscenery"
+  - username: "laurentnaville"
+    fullname: >-
+      Laurent Naville ↟↟
+    bio: >-
+      🇨🇭 | Swiss Photographer 📍 | Geneva 📷 | Nikon Z6 & Lumix G9 🖼 | 50% sur l’ensemble des tirages de la boutique jusqu’au 30 août !
+    location: "Switzerland"
+    followers: 5684
+    engagement: 1361
+    commentsToLikes: 0.027412
+    id: ck5zsrxjlz2sj0i14osaqkhom
+    verified: false
+    hashtags: "#jonatbounceday, #moodygrams, #tonesofnyc, #huntgram"
+  - username: "jacquesoles"
+    fullname: >-
+      Sneaker Fiend
+    bio: >-
+      Jacques Cole
+    location: "Switzerland"
+    followers: 13756
+    engagement: 417
+    commentsToLikes: 0.028513
+    id: ckf5v8kfunopg0j23u52vesx1
+    verified: false
+    hashtags: "#womft, #wdywt, #oneraresole, #soletoday"
+  - username: "og.bird"
+    fullname: >-
+      bird 🦋
+    bio: >-
+      blue:///error swiss made like rolly 🇨🇭 @chrome.castle 🗝
+    location: "Switzerland"
+    followers: 3130
+    engagement: 1542
+    commentsToLikes: 0.049234
+    id: ck0w1dot0iucp0i194q0iu479
+    verified: false
+    hashtags: "#dankmemes, #vaporwaveart, #fanart, #traditionalart"
+  - username: "rennie_ds"
+    fullname: >-
+      Renato
+    bio: >-
+      👨🏼 27 y/o, from Zurich, Switzerland 🇨🇭 👣 Size US 7.5/8/8.5 💏 @hitgirl90 ✉️ Questions: renato.meier@hispeed.ch 🏙 @collectid_authentic
+    location: "Switzerland"
+    followers: 17608
+    engagement: 612
+    commentsToLikes: 0.019512
+    id: ck9wfaljznzh10j78dy3pxkq2
+    verified: false
+    hashtags: "#pink, #jordan, #yeezymafia, #backtothefuture"
+  - username: "mulderf"
+    fullname: >-
+      Mika
+    bio: >-
+      ♍Mika 📅Since 1979 🇫🇷Bordeaux 📷iPhone 11pro Max, Nikon D750, Dji MavicPro 🎼Daft Punk 💾Informatique 👾Geek
+    location: "Switzerland"
+    followers: 2224
+    engagement: 1400
+    commentsToLikes: 0.060712
+    id: ck0tvs3oycmof0i19ee1tg4wk
+    verified: false
+    hashtags: "#igersgironde, #theimaged, #ig, #zurich"
+  - username: "dim_art_photo"
+    fullname: >-
+      Photographer Zurich Basel Lö
+    bio: >-
+      📸 Portrait | Events | Wedding 📍 Basel > Zürich > Lörrach ℹ️ für Anfragen DM me🙂 🤝 english, deutsch, русский
+    location: "Switzerland"
+    followers: 5502
+    engagement: 1956
+    commentsToLikes: 0.026677
+    id: ck5bxdu0tnj9i0i113t5vbv52
+    verified: false
+    hashtags: "#ftwotw, #ig, #bleachmyfilm, #igpodium"
   - username: "trillprime"
     fullname: >-
       FASHION BLOGGER
+    bio: >-
+      🇨🇩🇦🇴 📩 david.ndala444@gmail.com Dm for Collaboration 📍Zürich Switzerland 📸Model
     location: "Switzerland"
-    followers: 14623
-    engagement: 1519
-    commentsToLikes: 0.053114
+    followers: 14560
+    engagement: 1075
+    commentsToLikes: 0.061212
     id: ck6tmv4al8laf0j71jxpa9d41
     verified: false
-    hashtags: "#todaysoutfit, #newbalance530, #astroworldtour, #cactusjack"
-  - username: "marie__sw"
-    fullname: >-
-      Marie Pons🌚
-    location: "Switzerland"
-    followers: 5071
-    engagement: 2604
-    commentsToLikes: 0.043171
-    id: ck55lgh8q1ic70i11kzf61k4z
-    verified: false
-    hashtags: "#happiness, #peaceful, #pants, #pushups"
-  - username: "marionkaelin"
-    fullname: >-
-      MARION KAELIN 🌸🍍
-    location: "Switzerland"
-    followers: 30634
-    engagement: 200
-    commentsToLikes: 0.064126
-    id: ck6ueoin1s5ve0j71ex6aweva
-    verified: false
-    hashtags: "#gato, #team, #bathroom, #dress"
-  - username: "nathan.salomon"
-    fullname: >-
-      Nathan / Switzerland
-    location: "Switzerland"
-    followers: 5141
-    engagement: 2586
-    commentsToLikes: 0.190486
-    id: ck15rf45g7mfe0i19oz2yivs8
-    verified: false
-    hashtags: "#dailytravels9, #hummingbird, #night, #stopandshoot23"
-  - username: "sohailzavahir"
-    fullname: >-
-      Sohail Zavahir
-    location: "Switzerland"
-    followers: 5861
-    engagement: 818
-    commentsToLikes: 0.017269
-    id: ck8swn2uael870j78uzyq5gdi
-    verified: false
-    hashtags: "#marrakech, #dope, #louisvuitton, #sunheros"
-  - username: "nathanpaspour"
-    fullname: >-
-      ↟  n a t h a n  | #switzerland
-    location: "Switzerland"
-    followers: 5446
-    engagement: 1138
-    commentsToLikes: 0.070067
-    id: ck0udiwgwj52s0i19q8fbifva
-    verified: false
-    hashtags: "#coronavirus, #alluring, #nomad, #mist"
-  - username: "yyyaaannnnnniiiccckkk"
-    fullname: >-
-      
-    location: "Switzerland"
-    followers: 37163
-    engagement: 398
-    commentsToLikes: 0.008103
-    id: ck0vxe1rayfv70i19hqowpu8i
-    verified: false
-    hashtags: "#artist, #oilpainting, #badgalriri, #brutsubmission"
-  - username: "ryandanielphoto"
-    fullname: >-
-      Ryan
-    location: "Switzerland"
-    followers: 17022
-    engagement: 416
-    commentsToLikes: 0.008314
-    id: ck6ubfqn89aye0j71toykvc5m
-    verified: false
-    hashtags: "#weekly, #discoverportrait, #californiaholics, #lookingup"
-  - username: "bigmoneyrodan"
-    fullname: >-
-      Jason Washburn
-    location: "Switzerland"
-    followers: 9657
-    engagement: 581
-    commentsToLikes: 0.012654
-    id: ckap2vy4d0jry0i78n2691217
-    verified: false
-    hashtags: "#swissmissamerica, #mastiffsofinstagram, #veganrunner, #dogsofinstagram"
+    hashtags: "#zalandosneakers, #nike, #cactusjack, #zalandostyle"
 ---

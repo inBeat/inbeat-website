@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top gaming Instagram influencers in United Kingdom in 2020. Most popular hashtags: #valorant #animalcrossing #minecraft #christmas.
+  Find top gaming Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gaming #gamergirl #gamersofinstagram #gamingcommunity.
 platform: Instagram
+hits: 186
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 186 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "freyanightingale"
     fullname: >-
       Freya 🧜‍♀️
+    bio: >-
+      Twitter: @Freyyx |  📍London YouTube: Freya Nightingale YT Gaming: Freyz Playz
     location: "United Kingdom"
-    followers: 281361
-    engagement: 1657
-    commentsToLikes: 0.004655
+    followers: 335183
+    engagement: 1390
+    commentsToLikes: 0.004508
     id: ck0u27wrdz3t00i19law9p6ad
     verified: false
-    hashtags: "#zipitup, #spotifywrapped"
-  - username: "ellie.hemmingsen"
-    fullname: >-
-      Ellie .
-    location: "United Kingdom"
-    followers: 6865
-    engagement: 1315
-    commentsToLikes: 0.041274
-    id: ck0vxvpeg0yz90i19mlf3wjkm
-    verified: false
-    hashtags: "#mama, #mothersday2020, #depression, #anxietyrelief"
-  - username: "team.cyrex"
-    fullname: >-
-      Cyrex
-    location: "United Kingdom"
-    followers: 29229
-    engagement: 1360
-    commentsToLikes: 0.967177
-    id: ckaoty3zcy0qn0i78b1dfzkor
-    verified: false
-    hashtags: "#explorepage, #explore, #cyrexontop"
-  - username: "bossy.blonde"
-    fullname: >-
-      niamh ♡´･ᴗ･`♡
-    location: "United Kingdom"
-    followers: 4845
-    engagement: 1848
-    commentsToLikes: 0.028518
-    id: ck5zyeutw9ra10i14cmcsulih
-    verified: false
-    hashtags: "#myheroacademia, #grellsutcliff, #bnha, #2009vs2019"
+    hashtags: "#spotifyduo, #blackouttuesday, #ad, #listeningiseverything"
   - username: "stermy"
     fullname: >-
       Alessandro Avallone
+    bio: >-
+      STERMY 🥇🇮🇹 Professional Gamer and World Champion ⚔️Co-founder & CGO @faceitcom 📍London/Los Angeles/Italy 🎮Gaming is my lifestyle 📲#stermy
     location: "United Kingdom"
-    followers: 16286
-    engagement: 485
-    commentsToLikes: 0.018693
+    followers: 19590
+    engagement: 658
+    commentsToLikes: 0.020321
     id: ckapbwr391ktm0i78og1qnzey
     verified: true
-    hashtags: "#twitchitalia, #seeyounextyear, #2020, #xmasiscoming"
-  - username: "djari328"
+    hashtags: "#proplayer, #fpsgames, #stermytalks, #fps"
+  - username: "bossy.blonde"
     fullname: >-
-      djarii
+      niamh ♡´･ᴗ･`♡
+    bio: >-
+      ☁️ british cosplayer & twitch streamer 🌸 your favourite tea drinking, black butler obsessed, gaming gremlin ꒰´꒳`꒱ ☁️↓ check out my other platforms ↓
     location: "United Kingdom"
-    followers: 95977
-    engagement: 433
-    commentsToLikes: 0.016113
-    id: ck0w1zz24lytw0i19vrrkb0lu
-    verified: true
-    hashtags: "#dufflashes, #djarii, #overwatch, #ciri"
-  - username: "reevhd"
-    fullname: >-
-      Reev
-    location: "United Kingdom"
-    followers: 156240
-    engagement: 338
-    commentsToLikes: 0.007628
-    id: ck5c8k0a79nhi0i11x2s2cwuh
+    followers: 4787
+    engagement: 1647
+    commentsToLikes: 0.030426
+    id: ck5zyeutw9ra10i14cmcsulih
     verified: false
-    hashtags: "#covid19, #pricerunner, #topeleven10years, #16yearsofbeautiful"
+    hashtags: "#razerquartz, #cosplayer, #ukcosplayer, #twitch"
+  - username: "thefoodyproject"
+    fullname: >-
+      Cindy | London
+    bio: >-
+      📸 Good food, urban architecture and bad gaming skills.
+    location: "United Kingdom"
+    followers: 8763
+    engagement: 1791
+    commentsToLikes: 0.087662
+    id: ck0w3oh11ug8m0i19g2d6vbw5
+    verified: false
+    hashtags: "#breakfastclub, #foodbloggers, #moodygrams, #uk"
+  - username: "attack.on.mew"
+    fullname: >-
+      Trainer Abbey 🎀トレーナーアビー
+    bio: >-
+      🌸Pokemon collector in UK🌸 Kawaii lifestyle YouTube and girl in a gaming world!✨
+    location: "United Kingdom"
+    followers: 26022
+    engagement: 784
+    commentsToLikes: 0.017987
+    id: ck9ha85vwbjo60j78q9ym1p1m
+    verified: false
+    hashtags: "#nintendoswitch, #kawaiiplush, #girlgamer, #pokemonswordshield"
+  - username: "nicsnite"
+    fullname: >-
+      Nic Suriano Gaming
+    bio: >-
+      Gaming | Skits | Streaming 🎮 I’m a Comedy Gamer not a good one... 500k + on TikTok! Sub to my YouTube!
+    location: "United Kingdom"
+    followers: 5608
+    engagement: 1528
+    commentsToLikes: 0.019674
+    id: ck8wfaledffa70j784c46n46q
+    verified: false
+    hashtags: "#callofdutyclips, #callofdutyblackops4, #gaming, #gamer"
+  - username: "itssimplyal"
+    fullname: >-
+      gamer | tech enthusiast | Al
+    bio: >-
+      👆Check my stories👆 . Level 22 🎂 From 🇮🇹 Grew up with a playstation 🎮 in my 👐 Gaming since I was level 2 👶🏻 RPGs enthusiast 🔥 FPS noob 😅 . 👇My Twitch👇
+    location: "United Kingdom"
+    followers: 35284
+    engagement: 405
+    commentsToLikes: 0.057951
+    id: ck5q4r9a6pzkh0i11lxfbdaiz
+    verified: false
+    hashtags: "#dragonage, #ps4pro, #playstationnetwork, #gamerguy"
   - username: "i_am_milkes"
     fullname: >-
-      MATT | Gaming & Tech ✪
+      MATT | Gaming & Tech
+    bio: >-
+      🕹 | Founder of @royalty.rgb 🕹 | Gaming and Tech Life, UK 📸 | #darkdesaturated Lightroom preset 🎮 | Email or DM for business enquiries
     location: "United Kingdom"
-    followers: 16359
-    engagement: 586
-    commentsToLikes: 0.071559
+    followers: 19758
+    engagement: 626
+    commentsToLikes: 0.047306
     id: ck138o9voh79s0i19i5lke6hy
     verified: false
-    hashtags: "#minecraftmemes, #homegaming, #gamingmerch, #warzone"
-  - username: "spawnpoiint"
+    hashtags: "#desksetup, #gamingsetup, #gamingkeyboards, #custom"
+  - username: "georgesgamez"
     fullname: >-
-      Chris △○✕□
+      George △○✕□
+    bio: >-
+      △ Hi, welcome to my Gaming life ○ I 🖤 Video Games 🎮 ✕ #playstation #nintendo #pcgaming □ Twitch Affiliate, London 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧
     location: "United Kingdom"
-    followers: 43984
-    engagement: 684
-    commentsToLikes: 0.046346
-    id: ck0w6imdu8qnr0i19gdwb46r8
+    followers: 3163
+    engagement: 1010
+    commentsToLikes: 0.077646
+    id: ck5znxiejpc6p0i144c3q1b3h
     verified: false
-    hashtags: "#cleandesign, #gamingposts, #workfromhome, #nintendoswitch"
-  - username: "pokopins"
+    hashtags: ""
+  - username: "shaelynbunny_backup"
     fullname: >-
-      pokopins
+      Shaelyn | Gamer Girl 🎮👸🏼💖
+    bio: >-
+      Main account 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻 @shaelynbunny_gamingart 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
     location: "United Kingdom"
-    followers: 10613
-    engagement: 1258
-    commentsToLikes: 0.042305
-    id: ck6ub1l7g6xwd0j71x18ptful
+    followers: 7014
+    engagement: 480
+    commentsToLikes: 0.267079
+    id: ck139o85umaqt0i19g3aczege
     verified: false
-    hashtags: "#sootsprite, #pokemonart, #selfcareweek, #drawing"
+    hashtags: "#instagamer, #playstation, #playstation4, #nerdygirl"
 ---

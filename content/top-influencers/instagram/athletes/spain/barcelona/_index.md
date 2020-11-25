@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top athletes Instagram influencers in Barcelona in 2020. Most popular hashtags: #training #yomequedoencasa #barcelona #strong.
+  Find top athletes Instagram influencers in Barcelona in 2020. Most popular hashtags: #athlete #training #motivation #workout.
 platform: Instagram
+hits: 24
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 24 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "yulimarrojas45"
+    fullname: >-
+      Yulimar Rojas🌈
+    bio: >-
+      💠 Athletics Venezuela 🇻🇪 💠 FC Barcelona Athlete 🤝 💠 Olympic Games Río 2016 🥈 💠 World Champion 🥇🥇🥇🥇 ▪️NIKE 👖👚👟 ▪️ @teamrojas45
+    location: "Spain"
+    followers: 260946
+    engagement: 697
+    commentsToLikes: 0.031821
+    id: ck5hndjprnlif0i11b048mo1o
+    verified: true
+    hashtags: "#diamondleague, #nikezoomx, #nikerunning, #herculisebs"
   - username: "miguelzone"
     fullname: >-
-      I will not go to USA
+      Miguel Domingo
+    bio: >-
+      Calisthenic Athlete 1.75 m - 73 kg BCN - Spain 🇪🇸 Planes de entrenamiento - Workout Plannning
     location: "Spain"
-    followers: 4284
-    engagement: 1885
-    commentsToLikes: 0.055688
+    followers: 5732
+    engagement: 1859
+    commentsToLikes: 0.055927
     id: ck5zyx997aov90i14zfpa4q4j
     verified: false
-    hashtags: "#saiyanattitude, #aguilillascrew, #balance, #tricks"
+    hashtags: "#calisthenics, #traino, #planche, #motivation"
   - username: "heldernunes78"
     fullname: >-
       Helder Pereira Nunes
+    bio: >-
+      Red Bull Athlete💥 Fútbol Club Barcelona 🏒7️⃣8️⃣ Seleção Nacional 🏒 contacto: 📩
     location: "Spain"
-    followers: 41379
-    engagement: 790
-    commentsToLikes: 0.005634
+    followers: 41504
+    engagement: 763
+    commentsToLikes: 0.059097
     id: ck0u95uk995it0i193wk9k2da
     verified: true
-    hashtags: "#gkvereywhere, #gkveverywhere, #embaixadordesorrisos, #livingdreams"
+    hashtags: "#paibabado, #1ano, #dateasas, #madeforwinners"
   - username: "7sanchezc"
     fullname: >-
       CARMEN SÁNCHEZ SILVA
+    bio: >-
+      📍Barcelona 🌺 International athlete 🌺 Valencia CA 🌺 Psychology student 🌺 carmen.sanchez.silva90@gmail.com
     location: "Spain"
-    followers: 18466
-    engagement: 1286
-    commentsToLikes: 0.016267
+    followers: 25710
+    engagement: 1142
+    commentsToLikes: 0.016581
     id: ck15udw6xmoxt0i199z5ord3t
     verified: false
-    hashtags: "#blondehair, #atletismo, #tryonemoretime, #madeforwinners"
-  - username: "rivillos_10"
+    hashtags: "#photography, #fitlife, #runninggirl, #running"
+  - username: "tgarciafoto"
     fullname: >-
-      Rivillos
+      Toño García
+    bio: >-
+      ⚡️ Ｐｈｏｔｏｇｒａｐｈｙ 🛹 Ｓｋａｔｅｂｏａｒｄｉｎｇ 🌴 Ｂａｒｃｅｌｏｎａ
     location: "Spain"
-    followers: 56182
-    engagement: 514
-    commentsToLikes: 0.010516
-    id: ck6uerdlwsngj0j712hxtvtk3
-    verified: true
-    hashtags: "#gkeverywhere, #10, #campeones, #gracias"
-  - username: "_sergiorivares_"
-    fullname: >-
-      SERGIO
-    location: "Spain"
-    followers: 2261
-    engagement: 2875
-    commentsToLikes: 0.034356
-    id: ck6tz6f9y7w2b0j71ldr9isfl
+    followers: 17033
+    engagement: 515
+    commentsToLikes: 0.005572
+    id: ck15tuo2ajzn10i19dhqcui1z
     verified: false
-    hashtags: "#union, #joma, #rcdespanyol, #friends"
+    hashtags: "#nikepro, #fitness, #nike, #training"
+  - username: "sgd_2"
+    fullname: >-
+      Sergiño Dest
+    bio: >-
+      Player of FC Barcelona / US National Team / Nike Athlete
+    location: "Spain"
+    followers: 1026903
+    engagement: 1804
+    commentsToLikes: 0.016009
+    id: ck0ueb240l20u0i19g5siwby6
+    verified: true
+    hashtags: "#sd28, #sd2, #believe2achieve, #fifa21"
   - username: "thomas_heurtel"
     fullname: >-
       Thomas Heurtel
+    bio: >-
+      - Professional Basketball Player of FC Barcelona and French National Team 🇫🇷 - Adidas Athlete
     location: "Spain"
-    followers: 30388
-    engagement: 1558
-    commentsToLikes: 0.014042
+    followers: 34000
+    engagement: 1324
+    commentsToLikes: 0.011629
     id: ck6u4d5dl31zf0j71vokjde7w
     verified: true
-    hashtags: "#fcbarcelona, #verysoon, #themarathoncontinues"
-  - username: "kevinhernandezifbb"
+    hashtags: "#undiamenys, #th13, #for, #tranquilidadgente"
+  - username: "mikebodegas"
     fullname: >-
-      KEVIN HERNÁNDEZ
+      Michael Alexandre Bodegas
+    bio: >-
+      🤹🏾‍♂️ 𝙰𝚚𝚞𝚊𝚝𝚒𝚌 𝙴𝚗𝚝𝚎𝚛𝚝𝚊𝚒𝚗𝚎𝚛 🏆 𝚆𝚘𝚛𝚕𝚍 𝙲𝚑𝚊𝚖𝚙𝚒𝚘𝚗 & 𝙾𝚕𝚢𝚖𝚙𝚒𝚌 𝙼𝚎𝚍𝚊𝚕𝚒𝚜𝚝 👶🏽 𝙵𝚊𝚝𝚑𝚎𝚛 𝚘𝚏 𝙼𝚊𝚝𝚑𝚒𝚜 📍 𝙻𝚒𝚟𝚒𝚗𝚐 & 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚒𝚗 𝙱𝚊𝚛𝚌𝚎𝚕𝚘𝚗𝚊 🧬 𝙼𝚊𝚍𝚎 𝚒𝚗 𝙼𝚊𝚛𝚜𝚎𝚒𝚕𝚕𝚎
     location: "Spain"
-    followers: 7868
-    engagement: 1105
-    commentsToLikes: 0.023051
-    id: ck6trbj5ly18x0j71oetgm3vv
+    followers: 21252
+    engagement: 640
+    commentsToLikes: 0.011068
+    id: ck6twls38sqrl0j71i6q4dv4n
+    verified: true
+    hashtags: "#sportpsychology, #budapest2020, #workout, #training"
+  - username: "anaatuse"
+    fullname: >-
+      Ana Turull
+    bio: >-
+      💪🏻 Adidas | Barebells Athlete 🗺 World Traveler 📩 anatuse92@gmail.com 📍 Barcelona
+    location: "Spain"
+    followers: 14030
+    engagement: 847
+    commentsToLikes: 0.030945
+    id: ck8t99bvlnadn0j7840x51c3n
     verified: false
-    hashtags: "#noexcuses, #holidays, #exclusive, #copadeespa"
+    hashtags: "#forumsport, #adidas, #tenerife, #terrex"
   - username: "adriwp90"
     fullname: >-
       Adrià Delgado Baches
+    bio: >-
+      - Waterpolo player in C.N.Barcelona 🤽🏻‍♂️🔵⚪️ - Olympic in Rio 2016 🇧🇷 - Spanish national team 🇪🇸🥈E.C. Budapest 2020 - Athlete sponsored by @usanainc
     location: "Spain"
-    followers: 5263
-    engagement: 1000
-    commentsToLikes: 0.031493
+    followers: 5173
+    engagement: 996
+    commentsToLikes: 0.030482
     id: ck5q8yn4c8kfr0i116zu2syga
     verified: false
-    hashtags: "#rcde, #worldleague, #serbia, #vizilabda"
-  - username: "natascha.es"
-    fullname: >-
-      Natascha V. Chekannikova
-    location: "Spain"
-    followers: 5374
-    engagement: 592
-    commentsToLikes: 0.040518
-    id: ck5c0gj73t3ba0i11hgodc1tz
-    verified: false
-    hashtags: "#cursadelamerce, #cursadelamerc, #galgo, #sonyalphapro"
-  - username: "acrew_jowii_suave"
-    fullname: >-
-      Jowii Suave Yatusave
-    location: "Spain"
-    followers: 10673
-    engagement: 851
-    commentsToLikes: 0.074331
-    id: ck5zyx8ezaou00i14h3fcwrng
-    verified: false
-    hashtags: "#bodytraining, #sayanmodeon, #biceps, #noccospain"
+    hashtags: "#waterpolo, #spain, #cnb, #rcde"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Miami In 2020
 description: >-
-  Find top home decor Instagram influencers in Miami in 2020. Most popular hashtags: #homedecor #miami #mimodistrict #home.
+  Find top home decor Instagram influencers in Miami in 2020. Most popular hashtags: #miami #homedecor #travel #florida.
 platform: Instagram
+hits: 66
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 66 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "tobiasbarrios1"
+  - username: "marina.b.style"
     fullname: >-
-      Tobias Barrios
+      Marina Bargouti
+    bio: >-
+      Interior Stylist | E-Design Certified Luxury Home Specialist Accredited Home Staging Professional PR agent: Jess@morethanpress.com marina.b@usa.com
     location: "United States"
-    followers: 26695
-    engagement: 213
-    commentsToLikes: 0.075229
-    id: ck6u86dd3poy40j71loke8jgr
+    followers: 156894
+    engagement: 433
+    commentsToLikes: 0.062308
+    id: ck5px0m34pim30i11u0lzip8g
     verified: false
-    hashtags: "#myhope, #friends, #miamishoresvillage, #newhome"
-  - username: "blondiexliz"
+    hashtags: "#beforeandafter, #home, #housebeautiful, #interiorstyling"
+  - username: "taylormichellelong"
     fullname: >-
-      Liz | Software Engineer 👩🏼‍💻
+      Taylor Long
+    bio: >-
+      Lifestyle | Travel | Fashion 📷 Hire me @longlivelovephotography Beer 🍺 Lovers follow @mylovelyladyhops 📍#FriscoTx #DallasTx
     location: "United States"
-    followers: 25496
-    engagement: 837
-    commentsToLikes: 0.004695
-    id: ck15ue5zamqe90i19uk7ji2zg
+    followers: 8099
+    engagement: 491
+    commentsToLikes: 0.239435
+    id: ck6u2xnqmuigw0j715isoxc28
     verified: false
-    hashtags: "#socialisolation, #merrychristmas, #stressrelief, #blogger"
-  - username: "eolodesign"
+    hashtags: "#friscotx, #nashville, #dallasinfluencer, #dallastx"
+  - username: "thefashionpoet"
     fullname: >-
-      EOLO DESIGN MIAMI
+      Annie Vazquez
+    bio: >-
+      Wellness. Self-Love. Body Positivity. CrueltyFree Live healthy & happy Only Good Vibes Here 🧘🏻‍♀️ Foundr: @anniethealchemist Seen:Vogue & NBC
     location: "United States"
-    followers: 22521
-    engagement: 274
-    commentsToLikes: 0.003635
-    id: ck0w3wl65vnkp0i1978qn2y7z
+    followers: 82187
+    engagement: 124
+    commentsToLikes: 0.026444
+    id: ck5zk89bmj0ar0i14t6ms29qw
     verified: false
-    hashtags: "#speaker, #bath, #tastemaker, #mothersday"
-  - username: "britanyraquell"
+    hashtags: "#bodypositivity, #bodypositive, #cleanbeauty, #wellness"
+  - username: "saraschroederart"
     fullname: >-
-      Britany 💕 Instant Influencer
+      Sara
+    bio: >-
+      Wife Mom Miami Especially fond of bright colors. ☕️ & 🍫 make me unreasonably happy. Painting keeps me grounded. Host @oldbookrevivalists
     location: "United States"
-    followers: 36243
-    engagement: 1753
-    commentsToLikes: 0.019691
-    id: ckaounhes11fq0i781uwsuzpk
+    followers: 51084
+    engagement: 202
+    commentsToLikes: 0.030921
+    id: ck0w4b3tzxp2u0i194qoo1r2w
     verified: false
-    hashtags: "#outfits, #drag, #suvabeautyhydraliner, #glamfam"
-  - username: "daniella_queirolo_art"
+    hashtags: "#doitfortheprocess, #emergingartist, #carveouttimeforart, #saraschroederart"
+  - username: "kasalmen"
     fullname: >-
-      Daniella Queirolo Art
+      Karina Salmen
+    bio: >-
+      The world through my eyes 🧿 I like to cook and dress cute 🌟 📌 Miami Let’s get in touch: karinasalmen@yahoo.com
     location: "United States"
-    followers: 6888
-    engagement: 892
-    commentsToLikes: 0.046843
-    id: ck5pv3trafzv00i11arzcdue4
+    followers: 50149
+    engagement: 364
+    commentsToLikes: 0.022603
+    id: ck0tyjoman44s0i19n74g82hv
     verified: false
-    hashtags: "#artworks, #artecontempor, #ballerinafeet, #balletdancer"
-  - username: "fineartbling"
+    hashtags: "#miamifashionblogger, #contentcreator, #maisonmine, #revolveme"
+  - username: "oaliving"
     fullname: >-
-      Rhinestoned Designs
+      OALiving
+    bio: >-
+      You have one life, live it well.
     location: "United States"
-    followers: 3224
-    engagement: 3842
-    commentsToLikes: 0.041051
-    id: ck6tsgjuo4n340j71trvh6xc4
+    followers: 392533
+    engagement: 228
+    commentsToLikes: 0.020108
+    id: ck0u0h3ubtnld0i19lvss5mk9
     verified: false
-    hashtags: "#artdealer, #miami, #hairstyle, #losangeles"
-  - username: "jenifersey_"
+    hashtags: "#southmiami, #sky, #moon, #behappy"
+  - username: "danzbeard"
     fullname: >-
-      Beautyglamparis
+      Daniel Zigler Physique Pro
+    bio: >-
+      Pro Natural Physique World Champion Fitness Coaching, Beard Products, and Collaborations Email: Dan@Zigfitness.com ⚔️ Nutrition Advice 👇
     location: "United States"
-    followers: 170827
-    engagement: 489
-    commentsToLikes: 0.018433
-    id: ck0twvv3ngz290i195f3gxz1e
+    followers: 76281
+    engagement: 203
+    commentsToLikes: 0.067974
+    id: ck6u1sc0lnl7t0j713zs4urtw
     verified: false
-    hashtags: "#concours, #home, #lookbook, #fauxlocs"
-  - username: "chasingcarpediem"
+    hashtags: "#weekendvibes, #canon, #menwithbeards, #ftw"
+  - username: "oxananiki"
     fullname: >-
-      jocelyn | lifestyle blogger
+      FASHION | INSPO | TRAVEL
+    bio: >-
+      Oxana Niki 📍 Miami, FL 💌 oxana@themommycouture.com 💫 Owner of @alyssakidsfashion
     location: "United States"
-    followers: 16915
-    engagement: 291
-    commentsToLikes: 0.087889
-    id: ck5q3i5s5kuxx0i11hcdn8p7e
+    followers: 100940
+    engagement: 185
+    commentsToLikes: 0.046738
+    id: ck0tu7xi45zkt0i19qcl5v02i
     verified: false
-    hashtags: "#ad, #alamarmami, #josstakesnewyork, #officedecor"
-  - username: "prestigetree"
+    hashtags: "#bikinis, #matchymatchy, #photoshoot, #ootd"
+  - username: "dianaahernandez"
     fullname: >-
-      Ty
+      DIANA HERNANDEZ 🇨🇴
+    bio: >-
+      TV HOST-TRAVELER Los Angeles-Miami
     location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#hilo, #artphotography, #flowershop, #explorer"
-  - username: "tarametblog"
+    followers: 82060
+    engagement: 161
+    commentsToLikes: 0.140967
+    id: ckap3l9vc3h8x0i78t7w83dg3
+    verified: true
+    hashtags: "#dianahernandeztv, #travelstyle, #adventure, #bajacalifornia"
+  - username: "cmahecha32"
     fullname: >-
-      Tara Settembre | BLOGGER 👩🏼‍💻
+      Cesar MMdina
+    bio: >-
+      SAP MDM Consultant 👨🏻‍💻📊📈⚜️Living in 💫Downtown Miami ⚜️
     location: "United States"
-    followers: 34247
-    engagement: 226
-    commentsToLikes: 0.081080
-    id: ck6u3jyu4y87a0j712pl1zimc
+    followers: 2237
+    engagement: 1181
+    commentsToLikes: 0.069407
+    id: ckap3muse3o6j0i78sl0e4z32
     verified: false
-    hashtags: "#huffposttaste, #abmstyle, #suckit, #booklover"
+    hashtags: "#sunset, #fitness, #miamibeach, #instagood"
 ---

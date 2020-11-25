@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Houston In 2020
 description: >-
-  Find top food TikTok influencers in Houston in 2020. Most popular hashtags: #food #houstontx #pizza #houston.
+  Find top food TikTok influencers in Houston in 2020. Most popular hashtags: #houston #food #fyp #foodie.
 platform: TikTok
+hits: 76
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 76 TikTok influencers like this in Houston, United States for you to connect with.
 profiles:
-  - username: "juliejulez.jpg"
-    fullname: >-
-      Julie Julez | HTX
-    location: "United States"
-    followers: 17846
-    engagement: 1061
-    commentsToLikes: 0.018452
-    id: ck81s3ojzprci0j78bmvr6wif
-    verified: false
-    hashtags: "#tajin, #texasfood, #mintmojito, #randomthings"
-  - username: "alikhan..64"
-    fullname: >-
-      Ali Khan
-    location: "United States"
-    followers: 4980
-    engagement: 825
-    commentsToLikes: 0.036323
-    id: ck9feizkwt7cp0j78qkz9vz2v
-    verified: false
-    hashtags: "#tiktokpets, #airforce1, #snacks, #transitions"
-  - username: "tylerespitia"
-    fullname: >-
-      Tyler Espitia
-    location: "United States"
-    followers: 6004
-    engagement: 498
-    commentsToLikes: 0.019042
-    id: ck9n8y5e88y6p0j78wj7gvqou
-    verified: false
-    hashtags: "#foodlover, #tacoschallenge, #camaross, #policechallenge"
-  - username: "houstontips"
-    fullname: >-
-      houstontips
-    location: "United States"
-    followers: 5404
-    engagement: 257
-    commentsToLikes: 0.028685
-    id: cka0ouref5lfr0i7873cnwl9y
-    verified: false
-    hashtags: "#allenparkway, #meme, #shirts, #flood"
-  - username: "shoby786"
-    fullname: >-
-      Shoby jehan 
-    location: "United States"
-    followers: 2801
-    engagement: 505
-    commentsToLikes: 0.000932
-    id: ck93o53kg32cj0j780hs2hp9q
-    verified: false
-    hashtags: "#tiktok, #food, #mexico, #travel"
-  - username: "imvaltaylor"
-    fullname: >-
-      ValTaylor
-    location: "United States"
-    followers: 114514
-    engagement: 1170
-    commentsToLikes: 0.018728
-    id: ck9jw8q50vklt0j78f8s80w5w
-    verified: false
-    hashtags: "#dreamsickle, #littlethings, #breakfastpizza, #savage"
-  - username: "madihajdhanani"
-    fullname: >-
-      Madiha Dhanani
-    location: "United States"
-    followers: 205177
-    engagement: 783
-    commentsToLikes: 0.038494
-    id: ckacv71glmgzt0i781w53yzrh
-    verified: false
-    hashtags: "#bestfandom, #decadesofhair, #accutane, #everydayscience"
-  - username: "alan_cab7"
-    fullname: >-
-      Alan Caballero
-    location: "United States"
-    followers: 7342
-    engagement: 434
-    commentsToLikes: 0.019351
-    id: ck9epnxc1tiav0j78vustdcxt
-    verified: false
-    hashtags: "#ceviche, #cuh, #lamborghini, #syrupturnup"
-  - username: "tx_welder"
-    fullname: >-
-      tx_welder
-    location: "United States"
-    followers: 13125
-    engagement: 446
-    commentsToLikes: 0.032236
-    id: ckac56kvmczlb0i78z66bglce
-    verified: false
-    hashtags: "#norte, #caldodepollo, #basketball, #hamburger"
   - username: "waleedeats"
     fullname: >-
       Waleed Maoed
+    bio: >-
+      CEO of food in Texas 🍔🌮🍣🍜 Follow me on IG : @waleedmaoed Giveaway at 50K🙏🏼
     location: "United States"
-    followers: 16453
-    engagement: 959
-    commentsToLikes: 0.036420
+    followers: 46000
+    engagement: 960
+    commentsToLikes: 0.018025
     id: cka0i7kfrcgi30i78kf9tbtt9
     verified: false
-    hashtags: "#donuts, #buffet, #burrito, #tiktokarab"
+    hashtags: "#food, #houstonfood, #foodie, #texasfood"
+  - username: "antasiaadamjee"
+    fullname: >-
+      TikTokTas
+    bio: >-
+      what word do u hate
+    location: "United States"
+    followers: 25600
+    engagement: 857
+    commentsToLikes: 0.017636
+    id: ckcv7u9c5q56q0j23zgi4tqu4
+    verified: false
+    hashtags: "#vegan, #whatieatinaday, #todayilearned, #minivlog"
+  - username: "aznbvby"
+    fullname: >-
+      Michelle Le
+    bio: >-
+      I post random things Houston bby ♡
+    location: "United States"
+    followers: 3336
+    engagement: 700
+    commentsToLikes: 0.032472
+    id: ckb0l3bkzbuoi0j23j1nwcaag
+    verified: false
+    hashtags: "#funny, #asian, #girlfriend, #foryoupage"
+  - username: "yoyoshotdogshtx"
+    fullname: >-
+      yoyoshotdogshtx
+    bio: >-
+      CEO of Hotdogs 🌭 IG: @yoyoshotdogshtx 5555 Morningside Drive Houston, Texas
+    location: "United States"
+    followers: 19500
+    engagement: 1151
+    commentsToLikes: 0.018053
+    id: ckd0i900tew1g0j23vb1az0z9
+    verified: false
+    hashtags: "#houstonfood, #food, #texasfood, #hotdogs"
+  - username: "drewphillippi1"
+    fullname: >-
+      drewphillippi
+    bio: >-
+      🏳️‍🌈 📸 Aerospace Engineer & former Barista
+    location: "United States"
+    followers: 14600
+    engagement: 1312
+    commentsToLikes: 0.027839
+    id: ckbf63e87vkle0j238bz9txve
+    verified: false
+    hashtags: "#gayboy, #aftermycoffee, #lgbt, #coffee"
+  - username: "houstontips"
+    fullname: >-
+      houstontips
+    bio: >-
+      HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
+    location: "United States"
+    followers: 5484
+    engagement: 389
+    commentsToLikes: 0.032403
+    id: cka0ouref5lfr0i7873cnwl9y
+    verified: false
+    hashtags: "#houstonfood, #houston, #houstontx, #car"
+  - username: "shannonnicholesmith"
+    fullname: >-
+      Shannon Nichole
+    bio: >-
+      T E X A S IG: shannonnicholesmith -130+lbs VSG shannon.nicholee.smith@gmail.com
+    location: "United States"
+    followers: 129900
+    engagement: 601
+    commentsToLikes: 0.015579
+    id: ckcuu1ea1koo70j23rmhnz9vg
+    verified: false
+    hashtags: "#foryou, #weightloss, #vsg, #fyp"
+  - username: "sparkslays"
+    fullname: >-
+      Spark
+    bio: >-
+      Competitive COD Player 🔥15 Million Total Views🔥
+    location: "United States"
+    followers: 16700
+    engagement: 466
+    commentsToLikes: 0.018557
+    id: ckbf5tnmpv2080j23renjej8d
+    verified: false
+    hashtags: "#lilhuddy, #wtf, #lol, #tiktok"
+  - username: "itsjazziejas"
+    fullname: >-
+      Jasmine💕🥳
+    bio: >-
+      CEO of We Got A Situation 21🍾SaTx🤠40k🥺 I lift🏋🏽‍♀️ Dreams to Reality
+    location: "United States"
+    followers: 37500
+    engagement: 1659
+    commentsToLikes: 0.054799
+    id: ck9si0azswc3o0j78mepe17oz
+    verified: false
+    hashtags: "#greenscreensticker, #halloween, #micellarrewind, #sanantonio"
+  - username: "kevoarts"
+    fullname: >-
+      Kevoarts
+    bio: >-
+      
+    location: "United States"
+    followers: 4982
+    engagement: 1035
+    commentsToLikes: 0.007909
+    id: ck8kez5npbu4g0j78ftktb5cq
+    verified: false
+    hashtags: "#usa, #tattoo, #america, #us"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Russia In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Russia in 2020. Most popular hashtags: #hypebeast #travisscott #streetmobs #hsdailyfeature.
+  Find top hypebeast Instagram influencers in Russia in 2020. Most popular hashtags: #hypebeast #moodygrams #highsnobiety #artofvisuals.
 platform: Instagram
+hits: 22
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 22 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "majo_sisoev"
+  - username: "gromov6666"
     fullname: >-
-      Vadim
+      Lettering Tattoo CLC/VBI Pro
+    bio: >-
+      Support @vladbladirons @staycoldapparel @odin_tattooshop
     location: "Russia"
-    followers: 11513
-    engagement: 1095
-    commentsToLikes: 0.024458
-    id: ck8tch9m3zh080j786eqx3qv9
+    followers: 125761
+    engagement: 587
+    commentsToLikes: 0.034028
+    id: ck5cke7ocwouz0i11o5s8c54f
     verified: false
-    hashtags: "#presto, #russian, #winter2020, #milano"
-  - username: "sonyaohhno"
+    hashtags: ""
+  - username: "katioma"
     fullname: >-
-      
+      Oma
+    bio: >-
+      🇷🇺 Russia, Moscow 👟Team klekt 👟 @jordan1girls @dunksnkrs
     location: "Russia"
-    followers: 3024
-    engagement: 7686
-    commentsToLikes: 0.018721
-    id: ckaotxo0kxyof0i78pcj5mdoe
+    followers: 35953
+    engagement: 497
+    commentsToLikes: 0.023276
+    id: ck137cvkyawyq0i19j9l5iibw
     verified: false
-    hashtags: "#swag, #ytww, #nicekicks, #hypebeastkicks"
-  - username: "ralehin"
+    hashtags: "#jordan1, #aj1, #jordan1club, #klekt"
+  - username: "maggigad"
     fullname: >-
-      ROMAN RALEHIN
+      pretty mother fvcker
+    bio: >-
+      👟 @sneakerheadrussia team 🏆 most rated Russian customizer 🤺 coolhunter, trendsetter
     location: "Russia"
-    followers: 69098
-    engagement: 81
-    commentsToLikes: 0.080862
-    id: ck6tz8y4v8azg0j71xprz1kd8
+    followers: 24312
+    engagement: 495
+    commentsToLikes: 0.014445
+    id: ck15sgr58cx1i0i19iolnz8n2
     verified: false
-    hashtags: "#giveaway, #hypebeast, #russia, #23"
-  - username: "vilbor"
+    hashtags: "#kicksonfire, #nike, #sneakercommunityrussia, #kickspaper"
+  - username: "kingbantu_"
     fullname: >-
-      Pavel Pritula
+      👑KING BANTU👑
+    bio: >-
+      📍Kenya, Nairobi
     location: "Russia"
-    followers: 26230
-    engagement: 424
-    commentsToLikes: 0.021283
-    id: ck0tunjcd7w280i19khaudggi
+    followers: 40598
+    engagement: 806
+    commentsToLikes: 0.165994
+    id: ckaov92ae3k4z0i78ptbkw2ay
     verified: false
-    hashtags: "#streetmagazine, #peopleinframe, #streetmobs, #hbouthere"
-  - username: "olyasok"
+    hashtags: "#gainwithmugweru, #gainwithmchina, #autolike, #igdaily"
+  - username: "oksanalav"
     fullname: >-
-      
+      Oksana Lavrova 🖤
+    bio: >-
+      Beauty Addict / Graphic Designer @oneone_art 👩🏻‍🎤 @iamoksanalav Ekaterinburg, Russia
     location: "Russia"
-    followers: 13576
-    engagement: 1329
-    commentsToLikes: 0.023889
-    id: ck137cv8iaww80i19liq71jpn
+    followers: 5995
+    engagement: 521
+    commentsToLikes: 0.014710
+    id: ck55mvcpd4wiv0i11an55ofcu
     verified: false
-    hashtags: "#burton43, #dogwalker, #capandcap, #burtonfriends"
-  - username: "jekatarinaa"
+    hashtags: "#runwaymakeup, #tushmagazine, #inbeautmag, #streetwear"
+  - username: "frozenbite"
     fullname: >-
-      𝒦𝒶𝓉 🦋
+      Kirill Skom 🐈
+    bio: >-
+      💵self-employed hustler 📍lost in Moscow 📷frzbite@gmail.com
     location: "Russia"
-    followers: 31264
-    engagement: 153
-    commentsToLikes: 0.018012
-    id: ck5pyqi0oxaui0i11x9pkzbfb
+    followers: 15010
+    engagement: 335
+    commentsToLikes: 0.091637
+    id: ck0vvowx5q3ka0i193xgy5xwz
     verified: false
-    hashtags: "#hypebeast, #hypestfits, #quarantine, #travisscott"
-  - username: "panvelvet"
+    hashtags: "#gif, #boomerang, #topdawg, #tde"
+  - username: "tair_marassulov"
     fullname: >-
-      VITALY | PANVELVET ℣
+      TM
+    bio: >-
+      Creative Person🔥 Founder of TM International💈 OMC 🌏 Juror and Trainer🏆 Manager: +7 (701) 989-94-94
     location: "Russia"
-    followers: 40003
-    engagement: 420
-    commentsToLikes: 0.058313
-    id: ck0tttthd49yk0i1955j7lbry
-    verified: true
-    hashtags: "#bhphoto, #owsla, #visitdubai, #dronemultimedia"
-  - username: "street.tones"
-    fullname: >-
-      Mikhail Gordeev
-    location: "Russia"
-    followers: 15879
-    engagement: 364
-    commentsToLikes: 0.076197
-    id: ck0u1swtixsvd0i19dwj7isk4
+    followers: 94529
+    engagement: 575
+    commentsToLikes: 0.039600
+    id: ck5c6kaw25m5j0i118ugjl7qf
     verified: false
-    hashtags: "#cybervibe, #nissan, #arshavin, #space"
-  - username: "alexandermir"
+    hashtags: "#amiri, #hypebeaststyle, #barberlifestyle, #barbershop"
+  - username: "portraitlooks"
     fullname: >-
-      Alexander MIR • Moscow
+      Portrait Looks
+    bio: >-
+      Contact us for photo shoots, promotion or featured posts.
     location: "Russia"
-    followers: 42305
-    engagement: 166
-    commentsToLikes: 0.067159
-    id: ck15sfsl5csrq0i19mk46nhqx
+    followers: 102372
+    engagement: 92
+    commentsToLikes: 0.010866
+    id: ckaot6560ujtj0i78xtmo9o93
     verified: false
-    hashtags: "#thesungoesdown, #smartcities, #workworkwork, #conquerenemy"
-  - username: "litvinovgang"
+    hashtags: "#featuremeofh, #quietthechaos, #agameoftones, #thelightsofbeauty"
+  - username: "kiselevision"
     fullname: >-
-      Влад Литвинов
+      Dmitriy Kiselev
+    bio: >-
+      Contact: kiselevision@gmail.com Moscow | Sony A7III Projects:
     location: "Russia"
-    followers: 327575
-    engagement: 227
-    commentsToLikes: 0.017666
-    id: ck6ubo3p0aq350j71j4f4ryrs
+    followers: 33316
+    engagement: 448
+    commentsToLikes: 0.018703
+    id: ck5bz2cemqb6o0i11zp7s5ts0
     verified: false
-    hashtags: "#e63samg, #offwhite, #e63, #dior"
+    hashtags: "#instamagazine, #instagood, #illgrammers, #bevisuallyinspired"
+  - username: "metapolarism"
+    fullname: >-
+      METAPOLARISM
+    bio: >-
+      Building new meanings 👁 Art project by @mikevrpv
+    location: "Russia"
+    followers: 4986
+    engagement: 694
+    commentsToLikes: 0.009706
+    id: ck5bteynvfucw0i11n7s4t67n
+    verified: false
+    hashtags: "#mgcollective, #graphicgang, #fa, #supersequential"
 ---

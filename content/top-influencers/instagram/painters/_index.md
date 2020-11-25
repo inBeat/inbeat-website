@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In 2020
 description: >-
-  Find top painters Instagram influencers in 2020. Most popular hashtags: #italy #fineart #stayhome #painting.
+  Find top painters Instagram influencers in 2020. Most popular hashtags: #contemporaryart #painting #drawing #contemporarypainting.
 platform: Instagram
+hits: 4832
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 4832 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "jordan.sokol"
+  - username: "johayartist"
     fullname: >-
-      Jordan Sokol
+      Jo Hay
+    bio: >-
+      Painter
     location: "United States"
-    followers: 73239
-    engagement: 921
-    commentsToLikes: 0.019182
-    id: ck55j7j2bwfx10i11wvqtom02
+    followers: 2678
+    engagement: 1291
+    commentsToLikes: 0.122596
+    id: ck15qu1o54n5m0i19sd0ngfdj
     verified: false
-    hashtags: "#italy, #princetonuniversity, #enigmacode, #florenceacademyofartus"
-  - username: "suzanadzelatovic"
-    fullname: >-
-      Suzana Dzelatovic
-    location: ""
-    followers: 9915
-    engagement: 755
-    commentsToLikes: 0.037143
-    id: ck6u4arjl2ojm0j71z66x7pdj
-    verified: false
-    hashtags: "#vintage, #surrealart, #moments, #boob"
-  - username: "silvioporzionato"
-    fullname: >-
-      Silvio Porzionato
-    location: "Italy"
-    followers: 28853
-    engagement: 389
-    commentsToLikes: 0.019385
-    id: ck14j1tuli7g80i19rkiojxdj
-    verified: false
-    hashtags: "#arteitaliano, #hojas, #artnow, #artcollectors"
-  - username: "maryam.tabatabaei"
-    fullname: >-
-      Maryam Tabatabaei
-    location: "Iran"
-    followers: 8519
-    engagement: 1025
-    commentsToLikes: 0.040523
-    id: ck15pnoi3yrpr0i190sriuhdb
-    verified: false
-    hashtags: "#illustration, #blackdays, #charcoaldrawing, #windowpainting"
-  - username: "jaynelsonstudio"
-    fullname: >-
-      Jay Nelson
-    location: "United States"
-    followers: 95205
-    engagement: 465
-    commentsToLikes: 0.017302
-    id: ck0vv0zuhn1h70i19s60o9291
-    verified: false
-    hashtags: "#blundstoneusa, #franzwest"
-  - username: "danazaltzman"
-    fullname: >-
-      Dana zaltzman
-    location: "United States"
-    followers: 12347
-    engagement: 1186
-    commentsToLikes: 0.019733
-    id: ck5ccbewyh2bl0i113aqy9uev
-    verified: false
-    hashtags: "#dandelions, #oiloncanvas, #soloshow, #composition"
-  - username: "coreyklamb"
-    fullname: >-
-      Corey K Lamb
-    location: "United States"
-    followers: 6506
-    engagement: 1023
-    commentsToLikes: 0.031402
-    id: ck0vvwjtdr3700i190864f5g9
-    verified: false
-    hashtags: "#longing, #artish, #sweets, #buttface"
-  - username: "zoeyoung.artist"
-    fullname: >-
-      Zoe Young
-    location: "Australia"
-    followers: 12941
-    engagement: 631
-    commentsToLikes: 0.050078
-    id: ck5c4liu51lif0i11e22e5aou
-    verified: false
-    hashtags: "#darlingportraitprize, #dpp2020, #portraiturecomeshome, #portraitau"
+    hashtags: "#portraitpainting, #kamalaharris, #johay, #congresswoman"
   - username: "colin.chillag"
     fullname: >-
       Colin Chillag
+    bio: >-
+      Painter.
     location: "United States"
-    followers: 22488
-    engagement: 423
-    commentsToLikes: 0.034537
+    followers: 17374
+    engagement: 564
+    commentsToLikes: 0.035304
     id: ck5zsuff7z7fs0i14hhue3mkx
     verified: false
     hashtags: "#blessedaretheartbuyers"
-  - username: "j.bland"
+  - username: "coreyklamb"
     fullname: >-
-      James Bland
+      Corey K Lamb
+    bio: >-
+      Painter
     location: "United States"
-    followers: 15018
-    engagement: 630
-    commentsToLikes: 0.029970
-    id: ckap8vlbsq39v0i78wo0bogku
+    followers: 8760
+    engagement: 971
+    commentsToLikes: 0.030209
+    id: ck0vvwjtdr3700i190864f5g9
     verified: false
-    hashtags: "#paintinglight, #sleep, #italy, #mediterraneanlight"
+    hashtags: "#contemporaryart, #painting, #studioprogress, #objects"
+  - username: "haley.josephs"
+    fullname: >-
+      🕳🐇
+    bio: >-
+      PAINTER
+    location: "United States"
+    followers: 12820
+    engagement: 851
+    commentsToLikes: 0.033281
+    id: ck0vzrbqraj0m0i198edb3wwz
+    verified: false
+    hashtags: "#cuties, #freshmilk, #wholefoodsiscorperate, #showmethesigns"
+  - username: "amin_rostamizadeh"
+    fullname: >-
+      Amin Rostamizadeh
+    bio: >-
+      Painter
+    location: "Iran"
+    followers: 3238
+    engagement: 1327
+    commentsToLikes: 0.041609
+    id: ckaoxrv4eegqk0i7844vj2eum
+    verified: false
+    hashtags: "#erosionseries, #mystudio, #groupexhibition, #kerman"
+  - username: "maryam.tabatabaei"
+    fullname: >-
+      Maryam Tabatabaei
+    bio: >-
+      Painter
+    location: "Iran"
+    followers: 8764
+    engagement: 972
+    commentsToLikes: 0.047607
+    id: ck15pnoi3yrpr0i190sriuhdb
+    verified: false
+    hashtags: "#mixedmediadrawing, #iraniancontemporaryartists, #postcontemporaryartist, #contemporaryart"
+  - username: "silvioporzionato"
+    fullname: >-
+      Silvio Porzionato
+    bio: >-
+      Painter
+    location: "United States"
+    followers: 29616
+    engagement: 351
+    commentsToLikes: 0.019821
+    id: ck14j1tuli7g80i19rkiojxdj
+    verified: false
+    hashtags: "#silvioporzionato, #mystudio, #repost, #oiloncanvas"
+  - username: "kamillecorry"
+    fullname: >-
+      Kamille Corry
+    bio: >-
+      painter
+    location: "United States"
+    followers: 26939
+    engagement: 273
+    commentsToLikes: 0.023018
+    id: ck5cb47whep7w0i11ld6uivyk
+    verified: false
+    hashtags: "#pattern, #oilpainting, #design, #contemporaryart"
+  - username: "jellygreenartist"
+    fullname: >-
+      Jelly Green
+    bio: >-
+      Painter
+    location: "United Kingdom"
+    followers: 16395
+    engagement: 857
+    commentsToLikes: 0.025715
+    id: ck134kxtvwxgs0i19iuoe5nyj
+    verified: false
+    hashtags: "#art, #nature, #oilpaint, #countryside"
+  - username: "suzanadzelatovic"
+    fullname: >-
+      Suzana Dzelatovic
+    bio: >-
+      Painter
+    location: ""
+    followers: 10334
+    engagement: 535
+    commentsToLikes: 0.038029
+    id: ck6u4arjl2ojm0j71z66x7pdj
+    verified: false
+    hashtags: "#oiloncanvas, #contemporarypainting, #surrealism, #psychedelicart"
 ---

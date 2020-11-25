@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Bali In 2020
 description: >-
-  Find top travel TikTok influencers in Bali in 2020. Most popular hashtags: #coronavirus #indonesia #corona #ocean.
+  Find top travel TikTok influencers in Bali in 2020. Most popular hashtags: #bali #fyp #indonesia #travel.
 platform: TikTok
+hits: 30
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in Bali, Indonesia for you to contact.
 profiles:
-  - username: "makyandmatt"
+  - username: "backpackertampan"
     fullname: >-
-      Maky & Matt
+      tampan
+    bio: >-
+      Living in Bali Follow my journey on IG @backpackertampan
     location: "Indonesia"
-    followers: 8477
-    engagement: 1432
-    commentsToLikes: 0.010854
-    id: ck9rgytjjd5fs0j78u4ifngrb
+    followers: 487300
+    engagement: 1114
+    commentsToLikes: 0.015730
+    id: ck8kjxev8wpgy0j78iidyn8n7
     verified: false
-    hashtags: "#happinesss, #iconicfashion, #travelgoals, #waterfall"
-  - username: "positivlytunes"
-    fullname: >-
-      Tooneytunes 
-    location: "Indonesia"
-    followers: 7305
-    engagement: 273
-    commentsToLikes: 0.063936
-    id: ck81quvick2130j78sg350vg3
-    verified: false
-    hashtags: "#futuretech, #sharpie, #adventure, #strawberies"
-  - username: "whatsthevideo"
-    fullname: >-
-      whatsthehelen
-    location: "Indonesia"
-    followers: 24677
-    engagement: 909
-    commentsToLikes: 0.022654
-    id: ck84m700gm14p0j781g5zlb4y
-    verified: false
-    hashtags: "#seaplane, #traveltiktok, #snow, #yummychallenge"
-  - username: "traveltherapy"
-    fullname: >-
-      Travel Therapy
-    location: "Indonesia"
-    followers: 88897
-    engagement: 499
-    commentsToLikes: 0.007017
-    id: ck80ofd92hiah0j78corq98tf
-    verified: false
-    hashtags: "#ocean, #nature, #tiktoktravel, #baliindonasia"
+    hashtags: "#kocak, #lucu, #fyp, #istanbul"
   - username: "aleksandranajda.com"
     fullname: >-
       AleksandraNajda
+    bio: >-
+      🥥 B A L I 🥥 travel girl 🌈 instagram: aleksandranajda
     location: "Indonesia"
     followers: 30675
     engagement: 632
     commentsToLikes: 0.012624
     id: ck8za6h960if60j78h9d3nvn9
     verified: false
-    hashtags: "#dogsoftiktok, #magnolia, #beachvibes, #stayathome"
-  - username: "axelschura"
+    hashtags: "#balisquad, #bali, #quarantinetings, #tiktokindo"
+  - username: "whatsthevideo"
     fullname: >-
-      Axel Schurawlow
+      whatsthehelen
+    bio: >-
+      I Reply on Instagram DMs 🥺👉🏻👈🏻 HELP ME REACH 👉🏻 IG 100k 🔒 TikTok 55k 🔒
     location: "Indonesia"
-    followers: 241095
-    engagement: 834
-    commentsToLikes: 0.040991
-    id: ck8vvewlwlkka0j7825ivo4iv
+    followers: 50900
+    engagement: 528
+    commentsToLikes: 0.014737
+    id: ck84m700gm14p0j781g5zlb4y
     verified: false
-    hashtags: "#coronavirus, #bangladesh, #maldives, #quarantinelife"
-  - username: "camandkels"
+    hashtags: "#balibeach, #tiktokbali, #foryoupage, #uae"
+  - username: "positivlytunes"
     fullname: >-
-      Cam and Kels 
+      Tooneytunes 
+    bio: >-
+      Code : TUNES15 Currently in Bali, Indonesia Follow me on Instagram @Nytunes
     location: "Indonesia"
-    followers: 7412
-    engagement: 554
-    commentsToLikes: 0.037063
-    id: ck9fme94ft2n40j78bx0jig2x
+    followers: 7249
+    engagement: 364
+    commentsToLikes: 0.057614
+    id: ck81quvick2130j78sg350vg3
     verified: false
-    hashtags: "#periodproblems, #reallifeathome, #breakfast, #koalachallenge"
+    hashtags: "#tropical, #fyp, #fypchallenge, #howto"
+  - username: "gypsealust"
+    fullname: >-
+      Lauren
+    bio: >-
+      2 M on IG follow me there Edit like me!! Get my video editor - Tone Studio App
+    location: "Indonesia"
+    followers: 256900
+    engagement: 963
+    commentsToLikes: 0.013516
+    id: ck8ko3e2dfwev0j784f429jxt
+    verified: true
+    hashtags: "#whitsundays, #bali, #travel, #tonestudio"
+  - username: "belskib"
+    fullname: >-
+      bella 
+    bio: >-
+      BELLA hawaii // bali
+    location: "Indonesia"
+    followers: 7845
+    engagement: 1044
+    commentsToLikes: 0.013984
+    id: ckdcl0shdn3zp0j23vkoojiky
+    verified: false
+    hashtags: "#puppy, #island, #oahu, #ocean"
   - username: "lampunnn"
     fullname: >-
       Наталья Маркина
+    bio: >-
+      
     location: "Indonesia"
-    followers: 73446
-    engagement: 371
-    commentsToLikes: 0.019253
+    followers: 72400
+    engagement: 520
+    commentsToLikes: 0.018327
     id: ck8kd354a40rg0j780asxqgyl
     verified: false
-    hashtags: "#sport, #vespa, #beauty, #dance"
-  - username: "wikakrol.mindfultravel"
+    hashtags: "#bali, #train, #travel"
+  - username: "makyandmatt"
     fullname: >-
-      Wika Krol
+      Maky & Matt
+    bio: >-
+      𖠳Traveling the world🌴 💫Creating our dream life Follow our Insta: @makyandmatt
     location: "Indonesia"
-    followers: 18978
-    engagement: 267
-    commentsToLikes: 0.013142
-    id: ck8z1i78o1o6f0j78rokh8umn
+    followers: 8346
+    engagement: 1683
+    commentsToLikes: 0.020650
+    id: ck9rgytjjd5fs0j78u4ifngrb
     verified: false
-    hashtags: "#quarantine, #warszawa, #dzie, #viralvideo"
-  - username: "doyoutravel"
+    hashtags: "#indonesian, #indo, #traveldiaries, #bali"
+  - username: "ajitrir"
     fullname: >-
-      Jack Morris 
+      Aji
+    bio: >-
+      🇲🇨 || just for fun!
     location: "Indonesia"
-    followers: 195190
-    engagement: 862
-    commentsToLikes: 0.008482
-    id: ck8kd32wd40bl0j78m40zf64k
-    verified: true
-    hashtags: "#dontdothis, #homemade, #danger, #mykonos"
+    followers: 134200
+    engagement: 489
+    commentsToLikes: 0.034789
+    id: ckbfh62cpche80j23ixrepr48
+    verified: false
+    hashtags: "#tutorial, #bali, #photography, #instagram"
+  - username: "tri_setyo3"
+    fullname: >-
+      Tri Setyo
+    bio: >-
+      Business inq: hello.triphotography@gmail.com ig: dailytrisetyo
+    location: "Indonesia"
+    followers: 64333
+    engagement: 761
+    commentsToLikes: 0.010237
+    id: ck83zqa1l22360j78kwm9vbpg
+    verified: false
+    hashtags: "#foryou, #xycba, #tiktokindonesia, #java"
 ---

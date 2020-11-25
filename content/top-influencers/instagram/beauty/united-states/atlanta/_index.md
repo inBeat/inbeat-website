@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2020. Most popular hashtags: #beauty #atlanta #fashion #melanin.
+  Find top beauty Instagram influencers in Atlanta in 2020. Most popular hashtags: #beauty #explore #atlanta #melanin.
 platform: Instagram
+hits: 330
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 330 Instagram influencers like this in Atlanta, United States for you to connect with.
 profiles:
+  - username: "urban.blonde"
+    fullname: >-
+      Stephanie Konkle Caligiuri
+    bio: >-
+      Style blogger + beauty Atlanta -> Florida urbanblondeblog@gmail.com 💌 Shop My Instagram👇🏼
+    location: "United States"
+    followers: 202009
+    engagement: 135
+    commentsToLikes: 0.040924
+    id: ck5hnxirbokca0i11pmlm54n0
+    verified: false
+    hashtags: "#ltkunder50, #ltkshoecrush, #falloutfits, #ltkfall"
   - username: "curlfriendari"
     fullname: >-
       ARIELLE
+    bio: >-
+      •Natural Hair + Beauty •Atlanta, Ga 🇯🇲🇲🇸 •CurlFriendAri@gmail.com •YouTube: 2 mill+ views P.O. Box 2045 Mableton, GA 30126
     location: "United States"
-    followers: 60004
-    engagement: 856
-    commentsToLikes: 0.017634
+    followers: 61150
+    engagement: 546
+    commentsToLikes: 0.020164
     id: ckap9ah0pru9q0i78ghbv3hrl
     verified: false
-    hashtags: "#miraclebabe, #inches, #girlandhair, #curlcloud"
+    hashtags: "#healthy, #naturalchixs, #africanpridepartner, #naturalhair"
   - username: "brownsugarglam"
     fullname: >-
       Shahntay Simpson
+    bio: >-
+      Philippians 4:13 BS 🎓|Licensed Cosmetologist 💇🏽‍♀️ Blogging Beauty| Atlanta based For Campaigns email Shahntay_Simpson@hotmail.com
     location: "United States"
     followers: 45607
     engagement: 310
     commentsToLikes: 0.010635
     id: ck0u0vqocuzaw0i19gbhyac7e
     verified: false
-    hashtags: "#sustainable, #naturallycurly, #blessedwithkurls, #iamdarkandlovely"
-  - username: "brentnahshon"
+    hashtags: "#blackwomendomakeup, #melaninmakeupdaily, #naturalchixs, #naturalhairstyles"
+  - username: "candyrichards__"
     fullname: >-
-      𝕭𝖗𝖊𝖓𝖙: 𝕮𝖊𝖑𝖊𝖇 𝕱𝖎𝖙𝖓𝖊𝖘𝖘 𝕱𝖆𝖘𝖍𝖎𝖔𝖓𝖊𝖗
+      Candy Richards
+    bio: >-
+      🎬 Sometimes i act & sometimes i act a damn fool😜 ▪️ Brand ambass 📍 NC 🚘 ATL 🇱🇷 Liberian Girl ❤️ WSSU Alum • MBA 🎓 (Strayer)Owner of @crichcollection_
     location: "United States"
-    followers: 33739
-    engagement: 446
-    commentsToLikes: 0.064641
-    id: ck6tj0qxf1spr0j71dtf8aaek
+    followers: 19073
+    engagement: 343
+    commentsToLikes: 0.064549
+    id: ck5hrkhwkv0mv0i11infjvvw6
     verified: false
-    hashtags: "#fitnessfreaks, #nipseyblue, #wakaflocka, #africa"
-  - username: "mcarsonphotography"
+    hashtags: "#liberianskilling, #liberia, #tvpersonality, #braids"
+  - username: "te_coristyles"
     fullname: >-
-      Michael Carson
+      TeCori💇🏾
+    bio: >-
+      BMore Girl slaying in the ATL. Just eating and praying my way through life 💕🙏🏾 Weaving and healthy hair specialist. find me 📍Snob Life Studio
     location: "United States"
-    followers: 18946
-    engagement: 247
-    commentsToLikes: 0.028161
-    id: ck5hntgktod0y0i11vp3w5trd
+    followers: 26967
+    engagement: 138
+    commentsToLikes: 0.049594
+    id: ck5hntkkqod930i113lizs0w9
     verified: false
-    hashtags: "#captivating, #shustringmagazine, #editorinchief, #melanin"
-  - username: "thekaylawalker"
-    fullname: >-
-      Kayla A. Walker
-    location: "United States"
-    followers: 6131
-    engagement: 572
-    commentsToLikes: 0.061904
-    id: ck6tvjd0wmj220j71qc3vf0d3
-    verified: false
-    hashtags: "#blackbeauty, #blackyoutuber, #atlantablogger, #influencer"
-  - username: "sly_inspire_me"
-    fullname: >-
-      Slay
-    location: "United States"
-    followers: 152722
-    engagement: 199
-    commentsToLikes: 0.044759
-    id: ck0tzx7vdrtvp0i195g8k7b1g
-    verified: false
-    hashtags: "#beautifulhomes, #cleaning, #outdoordecor, #cleanhouse"
-  - username: "arielleantoinette_makeup"
-    fullname: >-
-      Pro Makeup Artist | 30 Mins
-    location: "United States"
-    followers: 28092
-    engagement: 91
-    commentsToLikes: 0.156703
-    id: ck14gscd96s510i19l9ox8e58
-    verified: false
-    hashtags: "#lipglosspoppin, #beautytipsandtricks, #complimentary, #atlanta"
+    hashtags: "#fashioninspo, #makeup, #baddie, #lacewig"
   - username: "mindfulmizfitz"
     fullname: >-
-      Mindful Mizfitz LLC
+      Mindful Mizfitz Academy
+    bio: >-
+      Owner: @iamslym @choculateshop💅🏾💇🏾‍♀️ Mobile Notary Relationship, Life, Business & Financial Coach Author & Realtor @booksbusinessandbspodcast
     location: "United States"
-    followers: 105273
-    engagement: 220
-    commentsToLikes: 0.007785
+    followers: 129822
+    engagement: 225
+    commentsToLikes: 0.005392
     id: ck0tv71mva7te0i199mv7cfhy
     verified: false
-    hashtags: "#decaturnailtech, #decaturnails, #atlnailtech, #atlantanailart"
-  - username: "londono_smiles"
+    hashtags: "#mtv, #blackwriters, #blackmarriage, #blackcouples"
+  - username: "andzelika_bobrova"
     fullname: >-
-      PORCELAIN VENEERS Dr. LONDONO
+      Andzelika
+    bio: >-
+      𝓉𝒽𝑒𝓇𝑒’𝓈 𝓈𝑜𝓂𝑒𝒷𝑜𝒹𝓎 𝒻𝑜𝓇 𝑒𝓋𝑒𝓇𝓎𝒷𝑜𝒹𝓎
     location: "United States"
-    followers: 52783
-    engagement: 125
-    commentsToLikes: 0.017766
-    id: ck6ttx4j7d2lp0j71mxuyrarn
+    followers: 32676
+    engagement: 310
+    commentsToLikes: 0.030527
+    id: ck8sxf0emh5s40j78hce8tuqa
     verified: false
-    hashtags: "#gucci, #disen, #smilemore, #louisvuitton"
+    hashtags: "#fashion, #atlantamodels, #blonde, #ovmefiller"
+  - username: "kanobipollard"
+    fullname: >-
+      Atlanta Photographer
+    bio: >-
+      #Atlanta-based storyteller, inspiring creative entrepreneurs to build their dream aesthetic. Campaigns • Personal Branding • Editorials ⇣BOOK ME⇣
+    location: "United States"
+    followers: 2485
+    engagement: 1231
+    commentsToLikes: 0.150570
+    id: ck5cbxwqjgd470i11i5s1dm1g
+    verified: false
+    hashtags: "#blacklove, #sisterlocks, #atlphotographer, #photographer"
   - username: "braidsbykamesha"
     fullname: >-
       Ka’Mesha Cathcart
+    bio: >-
+      ALL PHOTOS ARE MY WORK... 13+ to book ( no young children) I DO NOT USE FLAT IRONS 📍Dallas Texas
     location: "United States"
     followers: 20203
     engagement: 1302
     commentsToLikes: 0.024172
     id: ck15pc7izx5gk0i19c1oz3noz
     verified: false
-    hashtags: "#blackwomen, #eyelashes, #knotlessboxbraids, #jumboboxbraids"
+    hashtags: "#boxbraids, #cornrowstyles, #tuck, #chicagobraids"
+  - username: "wstco"
+    fullname: >-
+      TATYANA WSTCO
+    bio: >-
+      Busy•✘ YouTube:Beauty/Fashion •Atlanta ⓔ•Tatyanawstco@gmail.com
+    location: "United States"
+    followers: 140799
+    engagement: 349
+    commentsToLikes: 0.009773
+    id: ck8sxr40gictq0j78f2pjw9dr
+    verified: false
+    hashtags: ""
 ---

@@ -1,12 +1,17 @@
 ---
 title: Top 10 Health Instagram Influencers In United States In 2020
 description: >-
-  Find top health Instagram influencers in United States in 2020. Most popular hashtags: # #love #together #blacklove.
+  Find top health Instagram influencers in United States in 2020. Most popular hashtags: #ootdmagazine #igfashion #nyxcosmetics.
 platform: Instagram
+hits: 13459
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 13459 Instagram influencers like this in United States for you to collaborate.
 profiles:
   - username: "_health_"
     fullname: >-
       HEALTH
+    bio: >-
+      HEALTH+ ::
     location: "United States"
     followers: 47759
     engagement: 317
@@ -14,94 +19,112 @@ profiles:
     id: ck5cbh0s2fevj0i11d3h2w5ti
     verified: true
     hashtags: "#deathmagic"
-  - username: "romejohns"
+  - username: "alannahlewks"
     fullname: >-
-      Rome Johnson | Style
+      ALANNAH
+    bio: >-
+      [inactive] will return soon, idk?? ig is weird. take care 💙 ⁣ 👽 alannahmarief@gmail.com • she/her⁣⁣ ⤹ Looking After Your Mental Health Online
     location: "United States"
-    followers: 15044
-    engagement: 4156
-    commentsToLikes: 0.069704
-    id: ck8t1v9nix65e0j78gkeeieo6
+    followers: 6266
+    engagement: 2015
+    commentsToLikes: 0.231168
+    id: ck5c29sv2wto60i11r1wyeoyp
     verified: false
-    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
-  - username: "beautiful_jasminemarie"
+    hashtags: "#beccacosmetics, #urbandecay, #morphe, #collabmakeup"
+  - username: "petrakorpi"
     fullname: >-
-      Jasmine Marie BSN, RN
+      P E T R A  W
+    bio: >-
+      🍋HEALTH COACH 👯‍♀️yes girl co-founder: @yesgirlofficial 🤓 positive psychology student 🍟 Food podcaster: @bella.table 💌 hello@petrakorpi.com
     location: "United States"
-    followers: 21026
-    engagement: 1169
-    commentsToLikes: 0.065206
-    id: ckap5hg7jbp6c0i78ezp6qut3
+    followers: 22422
+    engagement: 863
+    commentsToLikes: 0.062321
+    id: ck13cwag72h8p0i19yuspamka
     verified: false
-    hashtags: "#pandemic, #prettypractice, #shecandoboth, #squadgoals"
-  - username: "danikafieldsforever"
+    hashtags: "#kirjavinkit, #itcosmetics, #24hpositivity, #surprise"
+  - username: "gosiajfashion"
     fullname: >-
-      DANIKA FIELDS🦋creative artist
+      Gosia
+    bio: >-
+      Fashionlover 🤎🖤🤍Lifestyle 🤎🖤🤍 🎓/University lecturer/Translator/Online Sales&Marketing 🤍🤎 Healthy lifestyle 🤍💚 Married🤍🤎 Mom🙎🏼‍♂️🤎🖤 🇵🇱🇳🇴🇩🇪
     location: "United States"
-    followers: 18025
-    engagement: 1004
-    commentsToLikes: 0.091307
-    id: ck0w4kxujz37l0i19rgu7r93n
+    followers: 7797
+    engagement: 2169
+    commentsToLikes: 0.111546
+    id: ck8t8z7ltmd900j7831z0bpk8
     verified: false
-    hashtags: ""
-  - username: "lyndsay.sutherland"
+    hashtags: "#besexybeyou, #womanwithstyle, #gainposts, #streetstyleinspo"
+  - username: "withchelle_"
     fullname: >-
-      ♡L Y N D S A Y♡
+      Michelle Tirronen
+    bio: >-
+      🌴 CA based creative & photographer 🌊 Fashion | Art | Mental Health #CreateWithChelle
     location: "United States"
-    followers: 3858
-    engagement: 2872
-    commentsToLikes: 0.140588
-    id: ckap2gd3gyphf0i780trfcrnk
+    followers: 12188
+    engagement: 1404
+    commentsToLikes: 0.155956
+    id: ck5bzy1fbs1z70i11bqz8y8sr
     verified: false
-    hashtags: ""
-  - username: "jennamasar"
-    fullname: >-
-      Jenna Masar
-    location: "United States"
-    followers: 7131
-    engagement: 1531
-    commentsToLikes: 0.089637
-    id: ckaozs50jn5xc0i7844bpf7zw
-    verified: false
-    hashtags: "#tempe, #traveling, #holiday, #movement"
+    hashtags: "#petitefashion, #spookyseason, #mentalhealthblogger, #withchelle"
   - username: "chloe__chamberlain"
     fullname: >-
       Chloe Chamberlain
+    bio: >-
+      Owner + Designer @balanceathletica⁣⁣⁣⁣ @tolucaswim ⁣ 📚Purdue University Alumn ⁣⁣⁣ 📈 Business 🌿 Health 💋 Beauty ⚖️ Wellness⁣⁣⁣⁣⁣⁣⁣ ⁣
     location: "United States"
-    followers: 55253
-    engagement: 909
-    commentsToLikes: 0.057106
+    followers: 71960
+    engagement: 1212
+    commentsToLikes: 0.088736
     id: ck0uav00bd2xv0i19127d3k1s
     verified: false
-    hashtags: "#stayhome, #flattenthecurve"
-  - username: "lccblog"
+    hashtags: "#stayhome, #flattenthecurve, #bywomxnforwomxn"
+  - username: "gratefulandgray"
     fullname: >-
-      ALAINA ATWOOD // LCCBLOG
+      Karen |gray hair transition|
+    bio: >-
+      Positive Aging Growth Mindset Healthy Living Skincare & Fitness Fanatic Yoga Teacher Mama to 4 sweeties and wife to Ben
     location: "United States"
-    followers: 5856
-    engagement: 1643
-    commentsToLikes: 0.080530
-    id: ck6uhajpm7zu60j71q2q6a5fy
+    followers: 28681
+    engagement: 812
+    commentsToLikes: 0.077049
+    id: ck14kyf8grya60i19rhhj4nkk
     verified: false
-    hashtags: "#40weekspregnant, #liketkit, #36weekspregnant, #37weekspregnant"
-  - username: "maddiecostfitlife"
+    hashtags: "#silversisters, #agepositive, #artinaging, #encouragequarantinesilversisters"
+  - username: "lifestyle_fashion68"
     fullname: >-
-      Maddie Costantino
+      Carpe Diem🇧🇪
+    bio: >-
+      ♥️Living healthy with smile😀♥️Passionate in Sports💪 ♥️Fashion/Lifestyles /Travel😍🌍An interior architect . @fittrainer_ivojones @scarlettfashion_gent
     location: "United States"
-    followers: 7007
-    engagement: 1455
-    commentsToLikes: 0.099178
-    id: ckap2ev8lyj5z0i78bon90q0g
+    followers: 24458
+    engagement: 797
+    commentsToLikes: 0.201395
+    id: ck15uaov9m8sn0i194u5jq4h2
     verified: false
-    hashtags: "#sponsored, #workingwithyasso, #collaboration, #maxoutwithmaddie"
-  - username: "juanacosta__"
+    hashtags: "#ootd, #easystyle, #streetstyle, #fashion"
+  - username: "romejohns"
     fullname: >-
-      Juan Acosta
+      Rome Johnson | Dad Swag
+    bio: >-
+      📍|Seattle, WA 🥊|Father to a #pfeiffersyndrome fighter 👖|Using fashion to push health 🗣|Lifestyle Creator 🏀|Sports fan & traveler 👇🏿How to support👇🏿
     location: "United States"
-    followers: 10003
-    engagement: 1388
-    commentsToLikes: 0.069097
-    id: ck13989u0k1a90i19i5s7don7
+    followers: 33992
+    engagement: 3751
+    commentsToLikes: 0.051573
+    id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#mentalhealthawareness, #kindness, #thrive, #media"
+    hashtags: "#dadswag, #blackfathers, #trachbaby, #blackfather"
+  - username: "valentiinapzz"
+    fullname: >-
+      𝙑𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖 🦋
+    bio: >-
+      makeup artist • beauty creator ✦ based in Rome ✦ vintage lover ✦ healthy lifestyle
+    location: "United States"
+    followers: 22360
+    engagement: 1066
+    commentsToLikes: 0.060395
+    id: ck135d3a40v020i19zax04rh7
+    verified: false
+    hashtags: "#nyxcosmetics, #makeup, #kryolan, #lippencil"
 ---

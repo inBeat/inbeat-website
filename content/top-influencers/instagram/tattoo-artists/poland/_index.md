@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Poland In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Poland in 2020. Most popular hashtags: #tattooed #tattoostudio #owltattoo #animaltattoo.
+  Find top tattoo-artists Instagram influencers in Poland in 2020. Most popular hashtags: #tattoo #tattooart #polandtattoos #black.
 platform: Instagram
+hits: 100
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 100 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "zszywka_tattooing"
+  - username: "aidualkylno"
     fullname: >-
-      ▪️Joanna Litwin▪️
+      Klaudia Jóźwiak
+    bio: >-
+      🎤@mamtalent_tvn 12 💃Dancer/Choreographer 💪Fitness Instructor 💀Tattoo Artist 🍕Dietician 📩 aidualkylno@wp.pl
     location: "Poland"
-    followers: 54471
-    engagement: 437
-    commentsToLikes: 0.014177
-    id: ck14jz0mfmvvw0i19fss81lsg
+    followers: 16102
+    engagement: 1114
+    commentsToLikes: 0.031379
+    id: ck8t6yr61f3xl0j78p4y19drf
     verified: false
-    hashtags: "#palmtattoo, #mafiatattoo, #tattoodesign, #handtattoo"
-  - username: "tattoozelenska"
-    fullname: >-
-      Kateryna Zelenska
-    location: "Poland"
-    followers: 71970
-    engagement: 151
-    commentsToLikes: 0.013970
-    id: ck8t15a46ugos0j78wfesw176
-    verified: false
-    hashtags: "#tattoocorgi, #draw, #gift, #portrait"
+    hashtags: "#soft, #nails, #black, #love"
   - username: "kraseczka"
     fullname: >-
       Klaudia Kraska
+    bio: >-
+      make up and tattoo artist 🖤 from Lublin contact : 👉🏼 kraskaklaudia1@gmail.com 👈🏼📩👀 work account : @kraseczkatattoo 👩🏼‍🎨🎨
     location: "Poland"
-    followers: 44360
-    engagement: 473
-    commentsToLikes: 0.009346
+    followers: 49029
+    engagement: 523
+    commentsToLikes: 0.018510
     id: ck5bvzkyzkpil0i113w8jpsp4
     verified: false
-    hashtags: "#braid, #kerastaseofficial, #facecare, #chihuahualove"
-  - username: "ashimonster"
+    hashtags: "#cateringdietetyczny, #lublin, #kreatorniadiet, #dietalublin"
+  - username: "zszywka_tattooing"
     fullname: >-
-      𝕬𝖘𝖍𝖎 𝕸𝖔𝖓𝖘𝖙𝖊𝖗
+      ▪️Joanna Litwin▪️
+    bio: >-
+      Owner & Tattoo artist at @blackbear_tattoo_studio ✖️booking closed ✖️zszywkatattoo@gmail.com ✖️No DM
     location: "Poland"
-    followers: 7290
-    engagement: 546
-    commentsToLikes: 0.014534
-    id: ck0u0at41t4060i194onjtnd3
+    followers: 56211
+    engagement: 250
+    commentsToLikes: 0.011939
+    id: ck14jz0mfmvvw0i19fss81lsg
     verified: false
-    hashtags: "#redheadgirls, #inkedwomen, #lightandshadows, #bwportrait"
+    hashtags: "#tattoodo, #tattoo, #graphic, #black"
   - username: "juliaszewczykowska"
     fullname: >-
       Julia Szewczykowska
+    bio: >-
+      TATTOO ARTIST AND @noir_definition OWNER MAIL ME IF YOU WANT SOME ART
     location: "Poland"
-    followers: 72381
-    engagement: 256
-    commentsToLikes: 0.007017
+    followers: 73883
+    engagement: 272
+    commentsToLikes: 0.007067
     id: ck0ud0vgdi2ug0i19tf2yyyh5
     verified: false
-    hashtags: "#blackart, #studio, #headtattoo, #tattooistartmag"
-  - username: "ivan.zagusta"
+    hashtags: "#dotworktattoos, #tattooinspiration, #blackworkers, #balcktattoo"
+  - username: "tattoozelenska"
     fullname: >-
-      I̶v̶a̶n̶ ̶Z̶a̶g̶u̶s̶t̶a̶
+      Kateryna Zelenska
+    bio: >-
+      👩🏻‍🎨Tattoo artist. Watercolor tattoo. Working @dirtylusttattoo Poland.Warszawa
     location: "Poland"
-    followers: 17727
-    engagement: 680
-    commentsToLikes: 0.014115
-    id: ck8t8yjyimb320j785tuougbv
+    followers: 73306
+    engagement: 169
+    commentsToLikes: 0.008630
+    id: ck8t15a46ugos0j78wfesw176
     verified: false
-    hashtags: "#roninmask, #samuraitattoo, #alchemical, #shiptattoo"
+    hashtags: "#tattoowatercolor, #ink, #inktattoo, #aqwarelle"
   - username: "marat_gutikov"
     fullname: >-
       Marat Gutikov
+    bio: >-
+      Tattoo artist Location : Warsaw, Poland 🇵🇱 @artfaktorsms 18 November - 3 December 🇩🇪 🚇 Open for guest spot all over the Europe 🇵🇱🇷🇺🇬🇧
     location: "Poland"
-    followers: 33204
-    engagement: 194
-    commentsToLikes: 0.032219
+    followers: 32489
+    engagement: 88
+    commentsToLikes: 0.050601
     id: ck15tt5ynjrpp0i19ab2k8p9y
     verified: false
-    hashtags: "#dogtattoos, #tattoogermany, #tattooeagle, #liontattoos"
-  - username: "james_artink"
-    fullname: >-
-      💥Tattoo Influencer💥
-    location: "Poland"
-    followers: 51844
-    engagement: 169
-    commentsToLikes: 0.067674
-    id: ck5znso7cp2ws0i14jk4scavq
-    verified: false
-    hashtags: "#audirs6avant, #gasmask, #janusz, #tattooaddict"
+    hashtags: "#portraittattoos, #freshtattoo, #tattooart, #inkmachines"
   - username: "dariastahp"
     fullname: >-
       ＤＡＲＩＡ ✦ ＳＴＡＨＰ
+    bio: >-
+      tattoo artist and owner of @aura.bydgoszcz #Bydgoszcz ✦ #Gdańsk 1.07-3.07 Booking - July/August 2020! 📩
     location: "Poland"
     followers: 42782
     engagement: 329
     commentsToLikes: 0.014407
     id: ck5hr41tau8ad0i11oihc7wrh
     verified: false
-    hashtags: "#worldtattoo, #tattoovideo, #galaxytattoo, #legtattoo"
-  - username: "gorajtattoo"
+    hashtags: "#quarantaineart, #hearttattoo, #firetattoo, #geometricart"
+  - username: "bemben_tattoo"
     fullname: >-
-      Goraj Jarek
+      Piotr Bemben
+    bio: >-
+      Co-owner @bluszcz.tattoo 🌙 *BOOKING CLOSED* #TattooArtist PL #DARK & #GRAPHIC 🌙 Kraków
     location: "Poland"
-    followers: 26213
-    engagement: 244
-    commentsToLikes: 0.028186
-    id: ck5cgg6eios1s0i11i2lqqc6e
+    followers: 41087
+    engagement: 465
+    commentsToLikes: 0.016508
+    id: ck5c6841t4x480i11zoo5e899
     verified: false
-    hashtags: "#poland, #funy, #wilk, #japanese"
+    hashtags: "#darkartists, #sleevetattoo, #illustrator, #blackworkerssubmission"
+  - username: "james_artink"
+    fullname: >-
+      💥 𝔗𝔞𝔱𝔱𝔬𝔬 𝔦𝔫𝔣𝔩𝔲𝔢𝔫𝔠𝔢𝔯 💥
+    bio: >-
+      🎨TATTOO ARTIST 🎨/ @djvicky23 👩‍❤️‍💋‍👨/ 🤴🏻FOUNDER of @nextlevel_tattoo_studio 🎨 POLAND, Wrocław city
+    location: "Poland"
+    followers: 61148
+    engagement: 369
+    commentsToLikes: 0.015627
+    id: ck5znso7cp2ws0i14jk4scavq
+    verified: false
+    hashtags: "#tattoovideo, #portraittattoo, #tattoomachine, #sunset"
+  - username: "_gralinska"
+    fullname: >-
+      Maugosia Gralińska ⚡️ Tattoo
+    bio: >-
+      Working at @prism.warsaw #Warsaw#tattoo#artist Bookings: DM or gralinska.malgosia@gmail.com More info:
+    location: "Poland"
+    followers: 22017
+    engagement: 301
+    commentsToLikes: 0.005447
+    id: ck5hk65zhhuxw0i117b76b3eq
+    verified: false
+    hashtags: "#krako, #tattooflashes, #blackflashwork, #drawing"
 ---

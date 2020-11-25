@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In San Diego In 2020
 description: >-
-  Find top TikTok influencers in San Diego in 2020. Most popular hashtags: #trend #tiktokrestarea #vibewithme #pov.
+  Find top TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #foryou #greenscreen.
 platform: TikTok
+hits: 505
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 505 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "adrianxortiz"
+  - username: "robrast"
     fullname: >-
-      Adrian
+      Rob Rast
+    bio: >-
+      Wild and Free in San Diego Insta & YT here 👆
     location: "United States"
-    followers: 1535939
-    engagement: 2916
-    commentsToLikes: 0.055293
-    id: ck7zohnffk4us0j78gnmsjcph
+    followers: 20200
+    engagement: 681
+    commentsToLikes: 0.027534
+    id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#beauty, #stepchickens, #filipino, #boys"
-  - username: "xo_miss.sim_xo"
+    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
+  - username: ".mattwalker"
     fullname: >-
-      Beeautiful You!🐝
+      Matt Walker 🌸
+    bio: >-
+      San Diego🌴 Snap-Matt.walker22 DOWNLOAD HILLY/BIGO IF UR SINGLE ⬇️
     location: "United States"
-    followers: 27528
-    engagement: 1867
-    commentsToLikes: 0.189048
-    id: cka6kh3aiyz4c0i7854k42800
+    followers: 1200000
+    engagement: 2555
+    commentsToLikes: 0.068601
+    id: ck8qo4raoxeoe0j78tygfw78k
     verified: false
-    hashtags: "#cosmotology, #justthink, #dance, #lilz"
+    hashtags: "#advice, #foryou, #crush"
+  - username: "benhornn"
+    fullname: >-
+      ben
+    bio: >-
+      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
+    location: "United States"
+    followers: 219800
+    engagement: 2273
+    commentsToLikes: 0.144883
+    id: ckacgukn4woy10i78163lz6e5
+    verified: false
+    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
+  - username: "mrs_miller"
+    fullname: >-
+      That Tall Teacher
+    bio: >-
+      SAN DIEGO ✨TEACHER✨ mrsmillertiktok@gmail.com
+    location: "United States"
+    followers: 134800
+    engagement: 2173
+    commentsToLikes: 0.034561
+    id: ckc8yvxhznji20j23p5u484cp
+    verified: false
+    hashtags: "#teacherhypehouse, #happyhalloween, #teachersontiktok, #middleschoolmath"
+  - username: "ericmontanez"
+    fullname: >-
+      Eric 
+    bio: >-
+      san diego 🇫🇷🇹🇭🇮🇹🇲🇽 management@ericmontanez.com
+    location: "United States"
+    followers: 3100000
+    engagement: 2348
+    commentsToLikes: 0.014970
+    id: ck8hr561f7abi0j781spmiiql
+    verified: true
+    hashtags: "#ad, #ctcvoicebox, #squirrels"
   - username: "justinsaiyann"
     fullname: >-
       Justinsaiyann
+    bio: >-
+      San Diego follow my Instagram: justinsaiyann
     location: "United States"
-    followers: 204283
-    engagement: 1862
-    commentsToLikes: 0.033619
+    followers: 372500
+    engagement: 2337
+    commentsToLikes: 0.021534
     id: ckaiimmdwb6n40i78xx71b6p8
     verified: false
-    hashtags: "#makemomsmile, #skincareroutine, #homeroutine, #pancakecereal"
-  - username: "brooooklynnnnnnn"
+    hashtags: "#fyp, #duet, #mha, #haikyuu"
+  - username: "kaylisand"
     fullname: >-
-      Brooklyn 🦋🥺
+      kayli sandoval
+    bio: >-
+      i edit and stuff lolz 18 || san diego :’) ⚡️🐉
     location: "United States"
-    followers: 51160
-    engagement: 1673
-    commentsToLikes: 0.042630
-    id: ckaj8wcksc4t30i78yhip3fa2
+    followers: 167100
+    engagement: 1706
+    commentsToLikes: 0.040709
+    id: ckb0ye5z6n9sn0j23532zvmdv
     verified: false
-    hashtags: "#politics, #420, #girls, #vampirediaries"
-  - username: "bennie.nb"
+    hashtags: "#fyp, #90s, #vibes, #skate"
+  - username: "rish.boyy"
     fullname: >-
-      Bennie
+      👑RISH👑
+    bio: >-
+      san Diego👑🤧✌️
     location: "United States"
-    followers: 10863
-    engagement: 1459
-    commentsToLikes: 0.072192
-    id: ck9fll44eodvg0j78fsr13nev
+    followers: 14600
+    engagement: 2347
+    commentsToLikes: 0.083754
+    id: ckb9sq9thq9l90j23vxsf4eio
     verified: false
-    hashtags: "#demipan, #weeb, #vibing, #demisexual"
-  - username: "k8lyn.b8lyn"
+    hashtags: "#greenscreenvideo, #greenscreen, #thatshot, #gemini"
+  - username: "brianaenciso"
     fullname: >-
-      kaitlyn
+      Briana Enciso
+    bio: >-
+      17 sc- enciso_briana San Diego📍
     location: "United States"
-    followers: 44522
-    engagement: 1483
-    commentsToLikes: 0.044781
-    id: ck900ox4wajyn0j782dou7i2i
+    followers: 5255
+    engagement: 2300
+    commentsToLikes: 0.143583
+    id: ckbexcyxwhn8o0j232195tgal
     verified: false
-    hashtags: "#tiktokprom, #tiktokrestarea, #egghunt, #tiktokdiy"
-  - username: "cariirna"
+    hashtags: "#greenscreen, #foryou, #fyp, #foryoupage"
+  - username: "sharkaleiii"
     fullname: >-
-      carina🥛🐮
+      sinalei🤑
+    bio: >-
+      ✰WHAT UP BIH✰ san diego shout out to char for being my pfp:)
     location: "United States"
-    followers: 26937
-    engagement: 1364
-    commentsToLikes: 0.050749
-    id: ck8hrxs36as5d0j78tuiv3y48
+    followers: 20500
+    engagement: 2053
+    commentsToLikes: 0.033927
+    id: ckbl6z25v4r1j0j233c93nc9j
     verified: false
-    hashtags: "#imprettier, #duet, #ugly, #die"
-  - username: "big.udon"
-    fullname: >-
-      ˚✧₊Sey⁺˳✧
-    location: "United States"
-    followers: 236324
-    engagement: 2485
-    commentsToLikes: 0.013658
-    id: ck9dwot95pytm0j789ayj8iff
-    verified: false
-    hashtags: "#clap, #socal, #selfimprovement, #makemomsmile"
-  - username: "mostidum"
-    fullname: >-
-      Morgan Stidum
-    location: "United States"
-    followers: 103694
-    engagement: 1892
-    commentsToLikes: 0.030279
-    id: ck8vtatlsfpv40j780h061vme
-    verified: false
-    hashtags: "#shy, #greenscreen, #rain, #gulag"
-  - username: "sarah_beth_hoffman"
-    fullname: >-
-      sarah_beth_hoffman
-    location: "United States"
-    followers: 2990
-    engagement: 1054
-    commentsToLikes: 0.081218
-    id: ckae14u92mztd0i78l4cgv2kw
-    verified: false
-    hashtags: "#spadeolay, #disappointment, #tiktoktrends, #tired"
+    hashtags: "#pov, #cringe, #cheatersareugly, #fyp"
 ---

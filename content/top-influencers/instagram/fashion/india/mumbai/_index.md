@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top fashion Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #picoftheday #tiktok #mumbaifashion.
+  Find top fashion Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #mumbai #instagood #photooftheday.
 platform: Instagram
+hits: 1616
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 1616 Instagram influencers like this in Mumbai, India for you to pitch.
 profiles:
-  - username: "facesbyzaarakhan"
+  - username: "mj__romeo"
     fullname: >-
-      Zaara    🇦🇫 (زحرا)
+      FeNiL ChAuHaN™🍕
+    bio: >-
+      ! lifestyle🤘! Fashion influencer👔 ! Collaborations:- mjromeo222@gmail.com ! Surat💛 #mjromeo
     location: "India"
-    followers: 6079
-    engagement: 598
-    commentsToLikes: 0.108793
-    id: ckaotmx93wko70i78wx7bsczb
+    followers: 93856
+    engagement: 619
+    commentsToLikes: 0.045926
+    id: ck14jtu0im5js0i19e1so2a6l
     verified: false
-    hashtags: "#punjabiwedding, #smokeyeye, #skin, #unity"
-  - username: "ashrafshaikh313"
+    hashtags: "#mensfashion, #trends, #nightnight, #photography"
+  - username: "xx_mr_dilwale_xx"
     fullname: >-
-      ASHRAF SHAIKH(🅼🅾🅳🅴🅻)❄️
+      🌈_丂_💦_ㄩ_🥀_尺_👅_卂_🌼_ﾌ_🌈
+    bio: >-
+      F//w 🌈🥀😍@morya_dhol_tasha_phatak . 𝕾𝖎𝖓𝖌𝖑𝖊_99%_😪 . 𝕯𝖍𝖔𝖑_𝖛𝖆𝖉𝖆𝖐_💙😇 . 𝕸𝖚𝖒𝖆𝖇𝖎_𝖐𝖍𝖆𝖗_🌍🔭 . 𝕯𝖒_𝖒𝖊_𝖋𝖔𝖗__𝖘𝖋𝖘_❤️ . 𝕷𝖔𝖌𝖎𝖓_27_𝖆𝖚𝖌🎂 .
     location: "India"
-    followers: 2706
-    engagement: 1112
-    commentsToLikes: 0.085386
-    id: ck9wgby4wsr140j784borz0gn
+    followers: 10083
+    engagement: 1308
+    commentsToLikes: 0.034945
+    id: ck9wfe8y2oha30j781yo6t4gd
     verified: false
-    hashtags: "#tiktok, #danishdesign, #zarafashion, #modelpose"
-  - username: "iamfaisal___07"
+    hashtags: "#support, #post, #photographylovers, #dholvadak"
+  - username: "shanayas_"
     fullname: >-
-      🍁 FAISAL SHAIKH      فیصل شیخ🍁
+      Shanaya S
+    bio: >-
+      Jack of all trades ✨ DJ & Content Creator since 2012 Email: Shanaya@ShanayaS.co - www.ShanayaS.co
     location: "India"
-    followers: 18612
-    engagement: 154
-    commentsToLikes: 0.100931
-    id: ck8tbnl1rwdgw0j78niaset7e
-    verified: false
-    hashtags: "#like4likes, #model, #pune, #instalove"
-  - username: "akash.s.nair_photography"
+    followers: 73099
+    engagement: 263
+    commentsToLikes: 0.050822
+    id: ck0ucofechbvp0i19s4l355cd
+    verified: true
+    hashtags: "#portraitsofindia, #goodvibesonly, #shanayadaily, #portraitshoot"
+  - username: "adhunik_world"
     fullname: >-
-      🐞🌴AKASH. S. NAIR📸🌻
+      EESHA MAYENKAR | GOA
+    bio: >-
+      This is all out of soul, creativity and love🌺 Represented by: @inega.in Goa📍 || Mumbai
     location: "India"
-    followers: 2227
-    engagement: 5996
-    commentsToLikes: 0.044773
-    id: ckap1pf9evjmo0i78235omuar
+    followers: 3144
+    engagement: 1723
+    commentsToLikes: 0.055065
+    id: ck6tj0dz41rza0j71qfgb8u54
     verified: false
-    hashtags: "#kottayam, #follow, #like, #instagood"
-  - username: "purtika_shree_dutt"
+    hashtags: "#influencersofinstagram, #instagood, #goa, #portraitsofficial"
+  - username: "thetrendylabel"
     fullname: >-
-      Purtika
+      BEAUTY BLOGGER | Youtuber
+    bio: >-
+      Fashion & Beauty blogger #contentcreator #youtuber To know a little about Lot❤️ DM for Collaboration
     location: "India"
-    followers: 5769
-    engagement: 745
-    commentsToLikes: 0.150980
-    id: ck6uexjfvtmhk0j71h64cqk09
+    followers: 10186
+    engagement: 486
+    commentsToLikes: 0.037858
+    id: ck0vuylwjmqq70i195yjyetxr
     verified: false
-    hashtags: "#mumbaimodels, #instacorona, #lucknowmodels, #mycoronaphoto"
-  - username: "shirinmorani"
+    hashtags: "#halloween, #makeuplovers, #photography, #hairstyle"
+  - username: "imatulpatidar"
     fullname: >-
-      Shirin Morani
+      ATUL PATIDAR
+    bio: >-
+      Fashion • Lifestyle • Travel 📍 : India 💌 : atulpatidar90@gmail.com
     location: "India"
-    followers: 24141
-    engagement: 604
-    commentsToLikes: 0.017840
-    id: ck0vvcqa8ok480i19v1w4ylwr
+    followers: 76184
+    engagement: 82
+    commentsToLikes: 0.011472
+    id: ck15pq4naz3l60i19ryyp0ycv
     verified: false
-    hashtags: "#omniabali, #workandplay, #bollywood, #hotnessoverload"
-  - username: "_radhikajagtap"
+    hashtags: "#staysafe, #indian, #plixxoinfluencer, #styleformen"
+  - username: "_sweta_raj"
     fullname: >-
-      Radhika | CONTENT THAT HELP
+      Swêtā Räj
+    bio: >-
+      20🦋 Model and Actor with positive aura ✨ DM or Mail for collaboration 📩
     location: "India"
-    followers: 48946
-    engagement: 121
-    commentsToLikes: 0.071259
-    id: ck5bwqxd9m8ih0i116v7p7eoc
+    followers: 4124
+    engagement: 736
+    commentsToLikes: 0.082837
+    id: ck8td4ukw1vog0j787fkwzcwn
     verified: false
-    hashtags: "#filmoraedit, #colourfulart, #easyhairstyles, #blacklonghair"
-  - username: "tulipfazal_"
+    hashtags: "#westside, #fitness, #modelsofinstagram, #streetfashion"
+  - username: "ruchita.ghag"
     fullname: >-
-      TulipFazal
+      Ruchita Sanjay Ghag
+    bio: >-
+      Beauty • Skincare • Fashion ✨ Artist 🤍 👉🏻 DM / Mail for collaborations 📩 Join #ruchitaghag YouTube ⬇️
     location: "India"
-    followers: 28574
-    engagement: 366
-    commentsToLikes: 0.062948
-    id: ckap7fpr9jvbu0i78e5hbzn4s
+    followers: 35180
+    engagement: 711
+    commentsToLikes: 0.032894
+    id: ckapa9oiwvanb0i78s8ep1wqi
     verified: false
-    hashtags: "#outfitinspo, #facepaint, #black, #morning"
-  - username: "natashasalian"
+    hashtags: "#instagood, #fashionblogger, #traditionalmakeup, #ruchitaghag"
+  - username: "poonam0111_"
     fullname: >-
-      Natasha Salian
+      Poonam
+    bio: >-
+      Rise & Slay🌟 Dm/mail for work related queries
     location: "India"
-    followers: 18069
-    engagement: 2809
-    commentsToLikes: 0.020585
-    id: ck9wp2g8i7ih90j78j3zbzoxx
+    followers: 3827
+    engagement: 1170
+    commentsToLikes: 0.062538
+    id: ck5zzggnmboxx0i140jsookt1
     verified: false
-    hashtags: "#imfluencer, #infulencer, #ootd, #keeloving"
-  - username: "abuzar_kazi"
+    hashtags: "#featureme, #jaipurjewellery, #makeupartistry, #makeup"
+  - username: "sukaina_sultan"
     fullname: >-
-      badboi😈⚜️ ( 𝙁𝙀𝘼𝙍 𝙊𝙁 𝙂𝙊𝘿 )
+      Sukaina Sultan
+    bio: >-
+      الحمد لله •👇🏻 My Josh id
     location: "India"
-    followers: 4077
-    engagement: 2155
-    commentsToLikes: 0.121836
-    id: ckap4sdti8ntn0i78pkq8iekf
+    followers: 41304
+    engagement: 350
+    commentsToLikes: 0.018122
+    id: ck5zya4od9i7l0i14qmwfzjy0
     verified: false
-    hashtags: "#prateekpardeshi, #king, #starboination, #eidmubarak"
+    hashtags: "#kbye, #pictureoftheday, #instagram, #keepsupporting"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In New York In 2020
 description: >-
-  Find top fitness Instagram influencers in New York in 2020. Most popular hashtags: #fitness #newyorkcity #motivation #sundayfunday.
+  Find top fitness Instagram influencers in New York in 2020. Most popular hashtags: #fitness #newyork #explorepage #fitnessmotivation.
 platform: Instagram
+hits: 554
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 554 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "q_burks"
+  - username: "mahsa.jani"
     fullname: >-
-      Quanesha Burks
+      Mahsa مَـه☽سـٰا
+    bio: >-
+      Fashion • Beauty • Food 📮@blogmahsa 🎬 Content Creator • Blogger 📍 New Jersey➰New York Influencer ✉️ Collaborations: Unboxwithmahsa@gmail.com
     location: "United States"
-    followers: 7595
-    engagement: 753
-    commentsToLikes: 0.031172
-    id: ckaozjx2dm7mi0i78ko2uvqve
+    followers: 79582
+    engagement: 308
+    commentsToLikes: 0.077322
+    id: ckaov9rvg3n7s0i78igq7e9ak
     verified: false
-    hashtags: "#alabamatrack, #pink, #diet, #track"
-  - username: "brendanbrazier"
+    hashtags: "#fit, #styleinspo, #nycblog, #glam"
+  - username: "brooke_barrera"
     fullname: >-
-      Brendan Brazier
+      Brookie 🍒
+    bio: >-
+      Also known as Brookie bitch For all inquiries please email or dm Catch me In VIBES by Da baby 🍼 Link down below
     location: "United States"
-    followers: 38969
-    engagement: 288
-    commentsToLikes: 0.038196
-    id: ck0w65fuh6zcp0i1958556h8g
-    verified: true
-    hashtags: "#oats, #cabin, #ironwar, #greens"
-  - username: "williemacc"
-    fullname: >-
-      WILLIE MACC | Comedian / Actor
-    location: "United States"
-    followers: 28454
-    engagement: 256
-    commentsToLikes: 0.035917
-    id: ck15q433k0zza0i19f4vc5ihm
+    followers: 9350
+    engagement: 1224
+    commentsToLikes: 0.023196
+    id: ck6tyux3q601p0j71raik6ptj
     verified: false
-    hashtags: "#mensfashion, #latelateshow, #kidcapri, #mommasboy"
-  - username: "cnpitching"
+    hashtags: "#tanning, #cbd, #influencer, #bikinimodel"
+  - username: "chavdar__ivanov"
     fullname: >-
-      CN Pitching Performance
+      Chavdar Ivanov
+    bio: >-
+      CEO & Creative Director of Charlino Group, Influencer, #blogger #party lover #model #travel 🛩🌎 @charlinotravel @charlinoplaza @charlinofashion ⬇️
     location: "United States"
-    followers: 6533
-    engagement: 820
-    commentsToLikes: 0.009889
-    id: ck8t636ihc30x0j787zpd54ty
+    followers: 44499
+    engagement: 45
+    commentsToLikes: 0.040662
+    id: ck5cjrmzpvcrk0i11n2t2pbmx
     verified: false
-    hashtags: "#changeupuniversity, #kansascity, #mind, #pitching"
+    hashtags: "#sexy, #man, #food, #friends"
+  - username: "petervigilante"
+    fullname: >-
+      Peter Vigilante
+    bio: >-
+      📍New York🗽 ❣️Health 🍳 ⚜️Fitness💪🏻 🏋🏻‍♂️NASM Certified Personal Trainer 📖 • Click the link below for all my social media platforms! ➖➖⬇️⬇️⬇️➖➖
+    location: "United States"
+    followers: 50312
+    engagement: 1492
+    commentsToLikes: 0.010485
+    id: ck9wdc5itezpi0j78zgx0ovis
+    verified: false
+    hashtags: "#veins, #guys, #reels, #reel"
+  - username: "likachriqui"
+    fullname: >-
+      L I K A C H R I Q
+    bio: >-
+      🇪🇸🇷🇸 For business inquiries: DM / 💌 lihishriki@gmail.com
+    location: "United States"
+    followers: 20935
+    engagement: 447
+    commentsToLikes: 0.169840
+    id: ckap87dz3n5le0i786ya1g2zb
+    verified: false
+    hashtags: "#losangeles, #flowergirl, #israel, #ocean"
+  - username: "james_haydn"
+    fullname: >-
+      James Hayden Rodriguez
+    bio: >-
+      Adding COLOR to this world, a page at a time🏳️‍🌈 The Lightning Thief BROADWAY 💙⚡ ART - MUSIC - HEALTH - FITNESS✌🏾 🖤Youtube Channel🖤
+    location: "United States"
+    followers: 7406
+    engagement: 1007
+    commentsToLikes: 0.018608
+    id: ck15sv8b0eyu50i19n7ez19pf
+    verified: false
+    hashtags: "#quarantinethehousedownboots, #fitnessmotivation, #enoughisenough, #health"
+  - username: "caitlin_eats_alot"
+    fullname: >-
+      Caitlin Eats The East Coast
+    bio: >-
+      📍 Queens girl with a big appetite! 🗽 🍣 Feasting in NYC, Long Island & beyond 🍦🌮 📲 DM to Collab 📸 🌍 #Yelp Elite ‘18 ‘19, ‘20
+    location: "United States"
+    followers: 14995
+    engagement: 883
+    commentsToLikes: 0.194558
+    id: ck5cbl3vqfng60i11ese4n0ub
+    verified: false
+    hashtags: "#foodporn, #steakhouse, #healthyfood, #nycfood"
+  - username: "mrwilliamcruse"
+    fullname: >-
+      Sir Cruse
+    bio: >-
+      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
+    location: "United States"
+    followers: 38602
+    engagement: 768
+    commentsToLikes: 0.015702
+    id: ck5c6ekj559zm0i11030vuue0
+    verified: false
+    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
+  - username: "mrkbay"
+    fullname: >-
+      Mark Bay
+    bio: >-
+      Fashion | Lifestyle | Fitness 🗽 New York 📩 themarkbay@gmail.com
+    location: "United States"
+    followers: 36033
+    engagement: 316
+    commentsToLikes: 0.054223
+    id: ck5cgiw7toxyn0i11se5oq9x2
+    verified: false
+    hashtags: "#sunday, #coffee, #ad, #ootd"
   - username: "scaybay39"
     fullname: >-
       Tommy Scala
+    bio: >-
+      Fitness💯| New York 🇮🇹| Model _ @nutrexresearch Ambassador _ @slfblt_apparel _
     location: "United States"
-    followers: 7649
-    engagement: 1181
-    commentsToLikes: 0.096246
+    followers: 10027
+    engagement: 1172
+    commentsToLikes: 0.055228
     id: ck6ufcgz9w80e0j71186luxp7
     verified: false
-    hashtags: "#blackandwhite, #hardworkpaysoff, #bathroomselfies, #saturday"
-  - username: "hungryrabbitnyc"
-    fullname: >-
-      Ken
-    location: "United States"
-    followers: 47469
-    engagement: 181
-    commentsToLikes: 0.006346
-    id: ck6u88mknq2r20j710esgghf9
-    verified: false
-    hashtags: "#mekongdelta, #octopus, #wagyu, #traveltheworld"
-  - username: "andrewharpernyc"
-    fullname: >-
-      Andrew Harper
-    location: "United States"
-    followers: 9577
-    engagement: 758
-    commentsToLikes: 0.041315
-    id: ck5zz8oe6bai80i14sj8z86oc
-    verified: false
-    hashtags: "#sweaterweather, #pajamatrend, #unstoppable, #pecs"
-  - username: "davidtufinophotography"
-    fullname: >-
-      David Tufino
-    location: "United States"
-    followers: 86425
-    engagement: 141
-    commentsToLikes: 0.035436
-    id: ck0tw8pnceedp0i19upqrcpm3
-    verified: false
-    hashtags: "#pumps, #truthmatters, #yonyc, #unitedbypole"
-  - username: "luluandonie"
-    fullname: >-
-      L u l u  A n d o n i e
-    location: "United States"
-    followers: 41118
-    engagement: 456
-    commentsToLikes: 0.022744
-    id: ck13admcspv8f0i19a65e34kh
-    verified: false
-    hashtags: "#earthday, #nyc, #emmanuelzavala, #fridayfeeling"
-  - username: "justinsicarii"
-    fullname: >-
-      J U S T I N  S I C A R I
-    location: "United States"
-    followers: 27471
-    engagement: 597
-    commentsToLikes: 0.031255
-    id: ck0vzzb71bm8v0i19ro0j809s
-    verified: false
-    hashtags: "#motivation, #forthepeople, #journey, #sundayfunday"
+    hashtags: "#photooftheday, #tattoo, #tbt, #tattoomodel"
 ---

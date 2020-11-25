@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Argentina In 2020
 description: >-
-  Find top beauty Instagram influencers in Argentina in 2020. Most popular hashtags: #makeup #quedateencasa #cuarentena #yomequedoencasa.
+  Find top beauty Instagram influencers in Argentina in 2020. Most popular hashtags: #makeup #maquillaje #beauty.
 platform: Instagram
+hits: 378
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 378 Instagram influencers like this in Argentina for you to contact.
 profiles:
-  - username: "ohmytips.oficial"
-    fullname: >-
-      ANA • Youtuber 🎥
-    location: "Argentina"
-    followers: 20305
-    engagement: 641
-    commentsToLikes: 0.423338
-    id: ck137466w9oq40i19c7jbt6ye
-    verified: false
-    hashtags: "#chicfilters, #outfitoftheday, #trend, #hairturorial"
-  - username: "que_monet"
-    fullname: >-
-      Qué Monet
-    location: "Argentina"
-    followers: 33303
-    engagement: 356
-    commentsToLikes: 0.614060
-    id: ck5q38fn1jpvo0i113v5y1c5m
-    verified: false
-    hashtags: "#ropainterior, #whitedress, #outfitoftheday, #nomakeup"
-  - username: "joaquinlpatterson"
-    fullname: >-
-      Joaquin Lopez Patterson
-    location: "Argentina"
-    followers: 30851
-    engagement: 324
-    commentsToLikes: 0.124044
-    id: ck5q37t6jjmov0i117h0urd59
-    verified: false
-    hashtags: "#whitedress, #beachvibes, #coppereyeshadow, #oscarsmakeup"
-  - username: "florafotografia"
-    fullname: >-
-      ▼ Flora Fotografía ▲
-    location: "Argentina"
-    followers: 8642
-    engagement: 760
-    commentsToLikes: 0.163943
-    id: ck6u9o6idynqo0j718w18bnjc
-    verified: false
-    hashtags: "#makeupeditorial, #beauty, #portaitbeauty, #coronavirus"
-  - username: "williams_jenny"
-    fullname: >-
-      Jenny Williams
-    location: "Argentina"
-    followers: 93896
-    engagement: 210
-    commentsToLikes: 0.211489
-    id: ck5bw0zc8ks910i11ebrri5o7
-    verified: true
-    hashtags: "#photo, #amorentiemposdecuarentena, #miamor, #livewithpassion"
   - username: "viviannamena"
     fullname: >-
       Vivianna Mena
+    bio: >-
+      Me fui a ser feliz, no sé cuando vuelvo💭 Beauty | Travel | Lifestyle 🎓Lic. en Comunicación Audiovisual y Publicitaria Embajadora de @planhonduras ✊🏻
     location: "Argentina"
-    followers: 23443
-    engagement: 1040
-    commentsToLikes: 0.016412
+    followers: 36631
+    engagement: 1717
+    commentsToLikes: 0.465998
     id: ck5cix6oatjzj0i11h96aslgy
     verified: false
-    hashtags: "#yomequedoencasa, #hondurasquedateencasa, #noplanetb, #renuevatupelo"
-  - username: "belufrancese"
+    hashtags: "#renuevatupelo, #disfrutalonatural, #honduras, #huracaneta"
+  - username: "que_monet"
     fullname: >-
-      belufrancese
+      Qué Monet
+    bio: >-
+      🤳🏼 Brenda Gil Gorrías (Periodista) Beauty💄, fashion💃🏻 & lifestyle🍸 @johnfoosla ambassador 💻brendagilgorrias@gmail.com www.quemonet.com 📍Argentina
     location: "Argentina"
-    followers: 677430
-    engagement: 179
-    commentsToLikes: 0.035220
-    id: ck6tyrdqo5ewp0j715fc8rzh7
+    followers: 53587
+    engagement: 511
+    commentsToLikes: 0.803762
+    id: ck5q38fn1jpvo0i113v5y1c5m
+    verified: false
+    hashtags: "#styleoftheday, #beauty, #lookoftheday, #sorteo"
+  - username: "joaquinlpatterson"
+    fullname: >-
+      Joaquin Lopez Patterson
+    bio: >-
+      👳🏻‍♂️#BeautyGuru International Makeup Artist based in Argentina 🇦🇷 Powered by 💮 @shiseido
+    location: "Argentina"
+    followers: 35554
+    engagement: 354
+    commentsToLikes: 0.154987
+    id: ck5q37t6jjmov0i117h0urd59
+    verified: false
+    hashtags: "#udargentina, #dewymakeup, #shiseidouruguay, #mua"
+  - username: "florafotografia"
+    fullname: >-
+      ▼ Flora Fotografía ▲
+    bio: >-
+      ★ Directora de Fotografía 📷 Bs. As, Arg 🇦🇷 ★ Beauty - Books/Tests - Retoque digital ★ Fotog. Moda Editorial - Campañas ★ Inscribite en la Master ⬇️
+    location: "Argentina"
+    followers: 9474
+    engagement: 674
+    commentsToLikes: 0.227654
+    id: ck6u9o6idynqo0j718w18bnjc
+    verified: false
+    hashtags: "#florafotografia, #photoshoptutorial, #portaitpage, #thep0rtraitproject"
+  - username: "hollyradio"
+    fullname: >-
+      Superholly
+    bio: >-
+      De aquí y de allá 🌵🌴 Beauty is everywhere ✨ Hija del mar 🌊🌊🌊 4M de sensatos ❤️
+    location: "Argentina"
+    followers: 752175
+    engagement: 822
+    commentsToLikes: 0.008707
+    id: ck0vvielcpa170i19fmhiduan
     verified: true
-    hashtags: "#makeup, #discodistancedance, #cuerentenastyle, #rico"
-  - username: "intravenous_sugar"
+    hashtags: "#hollyandbentravels, #ad, #superhollytravels, #hollycalendar"
+  - username: "mishelegonzalezmakeup"
     fullname: >-
-      Lessie 🐍
+      BEAUTY • FASHION • LIFESTYLE
+    bio: >-
+      Bienvenida a mi mundo rosa 🌸 Mommy & Wife 🌸 Professional Makeup Artist International Certified 🇩🇴🇲🇽🇧🇷 GUATEMALA📍 #beautybloggers
     location: "Argentina"
-    followers: 40689
-    engagement: 454
-    commentsToLikes: 0.030043
-    id: ck5chimfrquhc0i11n6n3odlt
+    followers: 9686
+    engagement: 644
+    commentsToLikes: 0.066845
+    id: ck6u21513p3h20j71tiur5ral
     verified: false
-    hashtags: "#grungegirl, #incolourfulcompany, #colourcrush, #harrypotterfandom"
-  - username: "thestyleoflucia"
+    hashtags: "#eyelook, #makeuplooks, #photoshoot, #abiaguatemala"
+  - username: "thisispaulopolis"
     fullname: >-
-      LUCIA MARTINEZ NASH
+      Paulova Palacios ⚡️
+    bio: >-
+      Paulova Palacios Style Creator #lifestyle | #hair | #Tech | #Chihuahuas Owner of Paulova Palacios Beauty Atelier
     location: "Argentina"
-    followers: 91390
-    engagement: 142
-    commentsToLikes: 0.105642
-    id: ck0w1kj4rjsy50i19bufokn4k
+    followers: 44846
+    engagement: 624
+    commentsToLikes: 0.015948
+    id: ck9wp1ayu7d6z0j78yyvf1vgj
     verified: false
-    hashtags: "#top5"
-  - username: "taboadafa"
+    hashtags: "#tb"
+  - username: "andreabfuentes"
     fullname: >-
-      Fabián Taboada
+      ᴀɴᴅʀᴇᴀ ʙᴇʟᴇɴ ғᴜᴇɴᴛᴇs ᴇʟᴇᴀs
+    bio: >-
+      Bailo, peino, maquillo y hago trenzas ✨ 👉🏼 @_beauty.looks 👈🏼 Coreógrafa, docente Community Manager Tucumán, argentina
     location: "Argentina"
-    followers: 9336
-    engagement: 773
-    commentsToLikes: 0.224891
-    id: ck5q3ohchlpne0i11ysanf1yj
+    followers: 7249
+    engagement: 753
+    commentsToLikes: 0.042331
+    id: ck8t2e708z5de0j787d4cx8sa
     verified: false
-    hashtags: "#newface, #shootingday, #beautyportrait, #bookprequince"
+    hashtags: "#reggaeton, #process, #scarf, #dance"
+  - username: "sofito_arteaga"
+    fullname: >-
+      𝖘𝖔𝖋𝖎𝖙𝖔 💔
+    bio: >-
+      chkpussys 👼🏼 zona norte 📌 _ @cleopatra_beauty0
+    location: "Argentina"
+    followers: 8433
+    engagement: 780
+    commentsToLikes: 0.041951
+    id: ckapc88242sok0i78np8kxtg6
+    verified: false
+    hashtags: ""
+  - username: "katymenocal"
+    fullname: >-
+      Katy Menocal
+    bio: >-
+      Beauty & make up blogger/vlogger💄💋 Pin Up Model 🍒 Mexicanita 🌵 #katyps #katymenocal Visita mi canal de Youtube 👇 Katymenocal@outlook.com
+    location: "Argentina"
+    followers: 21283
+    engagement: 414
+    commentsToLikes: 0.033372
+    id: ck15radam6y5i0i19amxvv4k3
+    verified: false
+    hashtags: "#halloweenmakeup, #rockabillymexicano, #mexico, #vintage"
 ---

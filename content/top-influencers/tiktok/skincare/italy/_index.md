@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Italy In 2020
 description: >-
-  Find top skincare TikTok influencers in Italy in 2020. Most popular hashtags: #makeupchallenge #greenscreen #eyeliner #lowcost.
+  Find top skincare TikTok influencers in Italy in 2020. Most popular hashtags: #skincare #makeup #beauty #imparacontiktok.
 platform: TikTok
+hits: 54
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 54 TikTok influencers like this in Italy for you to work with.
 profiles:
+  - username: "francesco_beautycoach"
+    fullname: >-
+      FrancescoBeautyCoach
+    bio: >-
+      💫 TikTok Trends LIVE: Make-up, sopracciglia perfette, skincare, fitness ✨🌟✨
+    location: "Italy"
+    followers: 13500
+    engagement: 1176
+    commentsToLikes: 0.247744
+    id: ckck5u04wqvuj0j23hqar0ei1
+    verified: false
+    hashtags: "#trend, #viral, #newtrend, #francescobeautycoach"
   - username: "giorgiaruggieri_"
     fullname: >-
       Giorgia Ruggieri
+    bio: >-
+      INSTAGRAM ⬆️ MAKE-UP, SKINCARE, UNGHIE, MODA,CAPELLI
     location: "Italy"
-    followers: 4964
-    engagement: 971
-    commentsToLikes: 0.084893
+    followers: 6590
+    engagement: 985
+    commentsToLikes: 0.042450
     id: ck9du5lxff4kd0j78k0yl5mmd
     verified: false
-    hashtags: "#notforyou, #collection, #challenge, #lowcost"
-  - username: "beatricegherardini"
+    hashtags: "#fyp, #perte, #sephora, #andiamoneiperte"
+  - username: "veronica.dambr"
     fullname: >-
-      beatricegherardini
+      Veronica D'Ambrogio
+    bio: >-
+      🍝 CEO of MI TRUCCO CON IL CIBO 💋 Instagram: @veronica.dambr✨ 📍Salentina
     location: "Italy"
-    followers: 633935
-    engagement: 2101
-    commentsToLikes: 0.045920
-    id: ck8tt7jnhrsni0j78zbdz5qdj
+    followers: 68100
+    engagement: 1288
+    commentsToLikes: 0.022976
+    id: cka67dzxckp680i7886k280qe
     verified: false
-    hashtags: "#aesth, #fashiontip, #aest, #look"
-  - username: "oksdane"
+    hashtags: "#trucco, #mitruccoconilcibo, #makeupartist, #makeuphacks"
+  - username: "jessicadenic"
     fullname: >-
-      oks dane 
+      Jessica De Nicola 🌹
+    bio: >-
+      💅 Curiosità, trucchi e consigli sul mondo Beauty💄 💌 denicolajessica@gmail.com
     location: "Italy"
-    followers: 235200
-    engagement: 2301
-    commentsToLikes: 0.006523
-    id: ck8ja6zwoqy0p0j78302x2zpv
+    followers: 318000
+    engagement: 1599
+    commentsToLikes: 0.010534
+    id: ck8vshug6dmpg0j78bxaq31ie
     verified: false
-    hashtags: "#fashion, #fashiontiktok, #quarantine, #tiktokskincare"
+    hashtags: "#unghiefinte, #nails, #curiosity, #skincare"
   - username: "she.makeup"
     fullname: >-
       Sheila 🔥
+    bio: >-
+      Italy. 🇮🇹 23 y.o.
     location: "Italy"
-    followers: 2561
-    engagement: 627
-    commentsToLikes: 0.061291
+    followers: 2574
+    engagement: 632
+    commentsToLikes: 0.057354
     id: ck9du5jf4f3uq0j78k891aosm
     verified: false
-    hashtags: "#greenscreen, #aesthetic, #peelingsolution, #makeupvideo"
-  - username: "rita_makeupaddicted"
-    fullname: >-
-      Rita_makeupaddicted
-    location: "Italy"
-    followers: 22402
-    engagement: 1234
-    commentsToLikes: 0.018374
-    id: cka6bsze51lkx0i787io6b311
-    verified: false
-    hashtags: "#portagioie, #faidate, #neon, #goodmolecules"
+    hashtags: "#tiktokitalia, #makeup, #italia, #beauty"
   - username: "cocolavieenrose"
     fullname: >-
-      Valeria Arizzi
+      Skincare con Valeria Arizzi
+    bio: >-
+      Consigli BEAUTY e CURA DELLA PELLE🦄 Skinfluencer 👩🏼 Outfit Blogger 💖 Mamma
     location: "Italy"
-    followers: 4026
-    engagement: 534
-    commentsToLikes: 0.066720
+    followers: 15500
+    engagement: 557
+    commentsToLikes: 0.121476
     id: ck8vsi6p5dp000j78dilpl6bu
     verified: false
-    hashtags: "#pose, #haircare, #bounce, #comments"
-  - username: "monique_makeup_"
+    hashtags: "#puntineri, #italia, #imparacontiktok, #skintok"
+  - username: "giulslively"
     fullname: >-
-      Monica Montagna
+      Giulia Piras 💜
+    bio: >-
+      Ma ciao ✨ MAKEUP, FASHION & TANTO ALTRO 💖 Seguimi su instagram : @giulslively
     location: "Italy"
-    followers: 5905
-    engagement: 1072
-    commentsToLikes: 0.022859
-    id: cka676ojrju080i78tbw22bj5
+    followers: 18900
+    engagement: 720
+    commentsToLikes: 0.027491
+    id: ckbqhuqmi35g20j23n5xz53kx
     verified: false
-    hashtags: "#forupage, #quarantenacheck, #funny, #exposingmyself"
+    hashtags: "#sephora, #outfitideas, #makeuptutorial, #shein"
+  - username: "_domizia"
+    fullname: >-
+      Domi
+    bio: >-
+      Quella dei tutorial in romano • PRO mua IG: _domizia 📩 domizia.maura@gmail.com
+    location: "Italy"
+    followers: 129000
+    engagement: 1098
+    commentsToLikes: 0.006084
+    id: cka67e1u2kpie0i78o5z7svqv
+    verified: false
+    hashtags: "#makeup, #imparacontiktok, #makeuptutorial, #skincare"
+  - username: "noemimazzeo"
+    fullname: >-
+      Noemi Mazzeo
+    bio: >-
+      🤍 Beauty & lifestyle 🤍 💌 mazzeonoemi@gmail.com
+    location: "Italy"
+    followers: 13600
+    engagement: 811
+    commentsToLikes: 0.017662
+    id: ckcjfyvxbbc570j23918mk82x
+    verified: false
+    hashtags: "#duetto, #makeup, #foryou, #skincare"
   - username: "martapareccini"
     fullname: >-
       Marta Pareccini
+    bio: >-
+      BEAUTY • FASHION • LIFESTYLE Vi aspetto anche su Instagram ⬇️ @martapareccini
     location: "Italy"
-    followers: 8180
-    engagement: 738
-    commentsToLikes: 0.014427
+    followers: 28600
+    engagement: 975
+    commentsToLikes: 0.008799
     id: ck8vsi18kdnz70j788usd969d
     verified: false
-    hashtags: "#dailyinspo, #facialmask, #makeupchallenge, #whatsinmybag"
-  - username: "giogenius"
-    fullname: >-
-      Giogenius 
-    location: "Italy"
-    followers: 166098
-    engagement: 2303
-    commentsToLikes: 0.010110
-    id: ck9re2y8c0isc0j7839b6tvdr
-    verified: false
-    hashtags: "#nero, #adoro, #videoinutili, #pesche"
-  - username: "arienne.makeup"
-    fullname: >-
-      Arianna
-    location: "Italy"
-    followers: 364215
-    engagement: 2156
-    commentsToLikes: 0.004283
-    id: cka67dv26ko850i78qahka7df
-    verified: false
-    hashtags: "#skincare, #eyeliner, #imparacontiktok, #mascara"
+    hashtags: "#skincare, #skincaretips, #fashion, #makeup"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In 2020
 description: >-
-  Find top music Instagram influencers in 2020. Most popular hashtags: #tiktok #singer #travel #ktm450.
+  Find top music Instagram influencers in 2020. Most popular hashtags: #music #russia #lebanese.
 platform: Instagram
+hits: 41446
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 41446 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "andrewmatarazzo"
+  - username: "jakewebber9"
     fullname: >-
-      Andrew Matarazzo
+      Jake Webber
+    bio: >-
+      music?
     location: "United States"
-    followers: 198228
-    engagement: 517
-    commentsToLikes: 0.045877
-    id: ck0ttkzb737120i19rukflbih
+    followers: 821503
+    engagement: 1274
+    commentsToLikes: 0.010793
+    id: ck13bzobmxxnc0i19spym07qa
     verified: false
-    hashtags: "#jamsession, #singingcover, #singingvideos, #acapella"
-  - username: "leralynn"
+    hashtags: ""
+  - username: "kristinashloma.official"
     fullname: >-
-      LERA LYNN
-    location: "United States"
-    followers: 22726
-    engagement: 775
-    commentsToLikes: 0.028999
-    id: ck6toojnyf7pq0j7128auohtc
-    verified: true
-    hashtags: "#smilingontheinside, #saveourstages, #moonie, #davidletterman"
-  - username: "loghmanhosseinzadeh"
-    fullname: >-
-      LOGHMANHOSSEINZADEH
-    location: ""
-    followers: 25057
-    engagement: 1323
-    commentsToLikes: 0.072251
-    id: ckaovvgk869e50i78jlpd7fub
+      × MUSIC ×
+    bio: >-
+      ღ Dsds - 2020 - Top 17 ♬ Singer & Musiclover
+    location: "Germany"
+    followers: 6293
+    engagement: 753
+    commentsToLikes: 0.066688
+    id: ck8t313yk1hz90j78n434kt9i
     verified: false
-    hashtags: "#music"
+    hashtags: "#girl, #cold, #germany, #russia"
+  - username: "chechorodriguez"
+    fullname: >-
+      Checho Rodriguez
+    bio: >-
+      Music!
+    location: "Colombia"
+    followers: 32393
+    engagement: 319
+    commentsToLikes: 0.049285
+    id: ck139hccvlaxd0i19o5lgzkex
+    verified: false
+    hashtags: "#wearehumanx, #somoshumanx, #despesperado"
   - username: "mohammadabbasimusic"
     fullname: >-
       mohammadabbasimusic 🎹🎧
+    bio: >-
+      #Music
     location: "Iran"
-    followers: 5296
-    engagement: 2311
-    commentsToLikes: 0.107363
+    followers: 5019
+    engagement: 2072
+    commentsToLikes: 0.096461
     id: ck9wgvpu3v72z0j78bf7favtd
     verified: false
-    hashtags: "#etemad, #bekhand"
+    hashtags: "#hosseinmansorian, #mp3, #music, #singletrack"
+  - username: "mahmood.shobeiri"
+    fullname: >-
+      
+    bio: >-
+      Music
+    location: "Iran"
+    followers: 12598
+    engagement: 1023
+    commentsToLikes: 0.043864
+    id: ck9wcxrqxd4s90j781nrrwv7y
+    verified: false
+    hashtags: "#alizandvakili, #iranmuzic"
+  - username: "tajralph"
+    fullname: >-
+      Taj Ralph
+    bio: >-
+      Music
+    location: "United States"
+    followers: 7069
+    engagement: 611
+    commentsToLikes: 0.029172
+    id: ck6u1uaienxaf0j71rd3u3t32
+    verified: false
+    hashtags: ""
+  - username: "thegiftedvoices"
+    fullname: >-
+      MUSIC
+    bio: >-
+      Music | Música | La Musique | 音乐 | ❤️ • Tag us in your videos • Email: Thegiftedvoices1@yahoo.com • Enjoy the covers :) #thegiftedvoices
+    location: "United States"
+    followers: 55442
+    engagement: 189
+    commentsToLikes: 0.017688
+    id: ck14hc4ut9kth0i19vhtn9pkl
+    verified: false
+    hashtags: "#music, #covers, #christmas"
+  - username: "juliaholter"
+    fullname: >-
+      julia shammas holter
+    bio: >-
+      music
+    location: "United States"
+    followers: 19172
+    engagement: 336
+    commentsToLikes: 0.017317
+    id: ck0w02qa7c3d90i19vh1t72mb
+    verified: false
+    hashtags: ""
   - username: "kalleyheili"
     fullname: >-
       kalley
+    bio: >-
+      I like words and they say pictures are worth a thousand. • Wife + Mom, BSSM2 + Bethel Music I wear lots of hats. Literally.
     location: "United States"
-    followers: 295364
-    engagement: 2004
-    commentsToLikes: 0.029702
+    followers: 282086
+    engagement: 1245
+    commentsToLikes: 0.013977
     id: ck55n1llc5abw0i11669c6kha
     verified: false
-    hashtags: "#quarantinedaywhoknows"
+    hashtags: "#blackouttuesday, #enneagram, #myersbriggs, #disc"
   - username: "amir_sbeys"
     fullname: >-
       Amir Sbeys | امیر اِسبيس‌
+    bio: >-
+      beauty music company maneger @beauty_muzic #sari Persian Rap artist 👇 " download New music " Dige Nadaramet "
     location: "Iran"
-    followers: 3068
-    engagement: 4062
-    commentsToLikes: 0.175222
+    followers: 3674
+    engagement: 3580
+    commentsToLikes: 0.177325
     id: ck9wiq2ao3fmt0j784113t6p6
     verified: false
-    hashtags: "#modeling, #rapper, #tiktok, #rapgod"
-  - username: "aprilia_maniac"
-    fullname: >-
-      SidHarth A S
-    location: "India"
-    followers: 4540
-    engagement: 2500
-    commentsToLikes: 0.299462
-    id: ck9whx132zv8s0j78644hu0g2
-    verified: false
-    hashtags: "#vishupic, #axor, #green, #greeny"
-  - username: "fiachraharp"
-    fullname: >-
-      Fiachra ⭐️
-    location: ""
-    followers: 8325
-    engagement: 2271
-    commentsToLikes: 0.073535
-    id: ck9wexop6mbll0j78sm538tym
-    verified: false
-    hashtags: "#gaypicoftheday, #gayety, #gaygoals, #catdaddy"
-  - username: "floran_officiel"
-    fullname: >-
-      F L O R A N     🦁      DANTE
-    location: "France"
-    followers: 11793
-    engagement: 1970
-    commentsToLikes: 0.067814
-    id: ck6tiaonq0cxa0j71lkmb8ly4
-    verified: false
-    hashtags: "#outfit, #instapic, #tiktok, #curlyhair"
-  - username: "kurtapril_"
-    fullname: >-
-      Kurt April
-    location: "South Africa"
-    followers: 5228
-    engagement: 1792
-    commentsToLikes: 0.142821
-    id: ck15tn2kqiwar0i19j2jpm4yj
-    verified: false
-    hashtags: "#ilovestrettons, #myvans"
+    hashtags: "#rap, #rapmusic, #rapfarsi, #hiphop"
 ---

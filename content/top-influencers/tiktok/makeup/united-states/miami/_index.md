@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Miami In 2020
 description: >-
-  Find top makeup TikTok influencers in Miami in 2020. Most popular hashtags: #makeup #miami #gotthisforyou #savage.
+  Find top makeup TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #makeup #miami #foryou.
 platform: TikTok
+hits: 95
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 95 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "katherinaaceto"
+  - username: "yailyphotography"
     fullname: >-
-      katherinaaceto
+      Yailyphotography
+    bio: >-
+      🌸Fotógrafos y Videografo especialistas en Quinceañeras en Miami ☎️ 305-345-1658
     location: "United States"
-    followers: 38183
-    engagement: 732
-    commentsToLikes: 0.014031
-    id: ck9dvw409mkrp0j780bo6bc3y
+    followers: 191000
+    engagement: 584
+    commentsToLikes: 0.010854
+    id: ckal46eiz1f5p0i78kp4uftxe
     verified: false
-    hashtags: "#tantrum, #subspanish, #periodproblems, #crush"
-  - username: "lexitaylorxo"
+    hashtags: "#miamiphotographer, #16, #miamimaternidad, #ticktock"
+  - username: "ayyyy__taytay"
     fullname: >-
-      lex [;
+      Ayyyy__taytay
+    bio: >-
+      NEW FRESH CONTENT COMING YOUR WAY🤘🏻 Instagram: @tayandrews__
     location: "United States"
-    followers: 179781
-    engagement: 1042
-    commentsToLikes: 0.040047
-    id: ck90tjvlkt1hn0j78ee5qchyo
+    followers: 117600
+    engagement: 479
+    commentsToLikes: 0.066367
+    id: ckal66cca9ksx0i78emezxe9u
     verified: false
-    hashtags: "#greenscreen, #bakingrecipe, #promdiy, #itsaremix"
-  - username: "marrikaa__"
+    hashtags: "#food, #health, #foodie, #dinner"
+  - username: "itsmarcobitches"
     fullname: >-
-      Marina
+      MARCO
+    bio: >-
+      The Indisputable Queen 🏆 IG: itsmarcobitches
     location: "United States"
-    followers: 10525
-    engagement: 855
-    commentsToLikes: 0.027138
-    id: ck90xyo748j7h0j789a0nujur
+    followers: 5130
+    engagement: 1625
+    commentsToLikes: 0.079395
+    id: ckcdydnhtgl270j23iyhsibej
     verified: false
-    hashtags: "#anantaradhigu, #sunset, #sakura, #miamisunrise"
-  - username: "flash_production2"
+    hashtags: "#fun, #trump, #tiktok, #follow"
+  - username: "victoriagkremer"
     fullname: >-
-      flash_production2
+      victoriagkremer
+    bio: >-
+      Believer of Christ 🤍 victoriagabriella.com 🤍 IG: @victoriagkremer
     location: "United States"
-    followers: 19868
-    engagement: 374
-    commentsToLikes: 0.016851
-    id: ck90xysxy8kau0j78gwwflawx
+    followers: 2098
+    engagement: 397
+    commentsToLikes: 0.050391
+    id: ckdhomie40zxd0j23npz4uixt
     verified: false
-    hashtags: "#reverse, #boat, #earrrings, #travelotd"
-  - username: "justralfyy"
+    hashtags: "#mood, #pumpkinspice, #ootd, #miamiblogger"
+  - username: "milynette"
     fullname: >-
-      D.Vice
+      Migbelis Castellanos
+    bio: >-
+      No me puedo duchar sin música 🤷🏼‍♀️
     location: "United States"
-    followers: 29109
-    engagement: 482
-    commentsToLikes: 0.020785
-    id: cka0wpa0t3r300i78uh441dea
-    verified: false
-    hashtags: "#singing, #relationship, #blonde, #mood"
-  - username: "theurbangal"
+    followers: 315500
+    engagement: 563
+    commentsToLikes: 0.008215
+    id: ck9f3frpqhj7u0j782hx3ecv4
+    verified: true
+    hashtags: "#paris, #mipan, #mipansususu, #runwaychallenge"
+  - username: "trishxciii"
     fullname: >-
-      The Urban Gal
+      TrishXCIII
+    bio: >-
+      Welcome to my world Miami 🌴 | Beauty/Lifestyle | Your Realtor BFF ❤️ BLM 🇭🇹
     location: "United States"
-    followers: 2045
-    engagement: 364
-    commentsToLikes: 0.023801
-    id: ckamlq6xmx99w0i78hj6oa234
+    followers: 6390
+    engagement: 645
+    commentsToLikes: 0.016850
+    id: ckcuwxntoluzh0j238o475rjv
     verified: false
-    hashtags: "#fashionhacks, #brows, #diyproject, #datenight"
-  - username: "stephaniecosmopolitan"
+    hashtags: "#datenight, #floridacheck, #thingstodoinmiami, #dogsoftiktok"
+  - username: "nicoleiutinskas"
     fullname: >-
-      Steph Cosmopolitan
+      Nicole Iutinskas
+    bio: >-
+      IG: Nicole_iutinskas SC: Noel.iutinskas 24 /AZ Bi🏳️‍🌈
     location: "United States"
-    followers: 13357
-    engagement: 605
-    commentsToLikes: 0.033770
-    id: ck8w59eqa9niq0j78hcqe3odh
+    followers: 38600
+    engagement: 217
+    commentsToLikes: 0.012895
+    id: ckd6croki54870j23pqdtliwj
     verified: false
-    hashtags: "#beautymode, #outfit, #wishmeluck, #outfitideas"
-  - username: "sofiastillspams"
+    hashtags: "#foryou, #viral, #bbl, #fyp"
+  - username: "alyxgozlan"
     fullname: >-
-      SOFIA
+      Alyx Gozlan
+    bio: >-
+      Miami Ig: Alyxgozlan
     location: "United States"
-    followers: 722584
-    engagement: 2194
-    commentsToLikes: 0.011485
-    id: ck9equvsayuug0j7859vdkwt9
+    followers: 21200
+    engagement: 433
+    commentsToLikes: 0.078510
+    id: ckbfgiwqebq5g0j23j4jwqu4k
     verified: false
-    hashtags: "#gonnabefriends, #eyelashestutorial, #tiktokrestarea, #finalsathome"
-  - username: "ms.kimkong"
+    hashtags: "#fyp, #couplegoals, #birthday, #salad"
+  - username: "esdayrabby"
     fullname: >-
-      Kim Kong
+      DAYRA
+    bio: >-
+      FASHUN IG - @es.dayra IG brand - @dayra.studio
     location: "United States"
-    followers: 53935
-    engagement: 1537
-    commentsToLikes: 0.041238
-    id: ck8qe4gbyr3bj0j78a04o98kn
+    followers: 2620
+    engagement: 377
+    commentsToLikes: 0.019556
+    id: ckcpa5bkden4o0j23f7u3nsgs
     verified: false
-    hashtags: "#sayso, #dreamgirl, #dababy, #savage"
-  - username: "corinthsuarez"
+    hashtags: "#mexico, #fyp, #xyzbca, #foryou"
+  - username: "lialios1"
     fullname: >-
-      corinth
+      Lia Hernandez
+    bio: >-
+      🇨🇺🥰🦋 @lia_life91 🦋
     location: "United States"
-    followers: 16925
-    engagement: 870
-    commentsToLikes: 0.080683
-    id: ck8savnk83uov0j787i9leco0
+    followers: 192500
+    engagement: 365
+    commentsToLikes: 0.011884
+    id: ck9gle881nyfg0j78gcwtdbau
     verified: false
-    hashtags: "#beautyinspo, #tiktokrestarea, #motd, #instagramhack"
+    hashtags: "#girls, #miami, #fyp, #challege"
 ---

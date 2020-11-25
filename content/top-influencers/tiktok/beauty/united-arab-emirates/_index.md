@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top beauty TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #behindthescenes #challenge #covid #tiktoktravel.
+  Find top beauty TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fyp #foryou #dubai #beauty.
 platform: TikTok
+hits: 91
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 91 TikTok influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "leanneeverett"
     fullname: >-
-      🤍Leanne Everett🤍
+      Leanne Everett
+    bio: >-
+      لِيان Fashion/Beauty/Lifestyle Creator/Model Follow all my social media😘
     location: "United Arab Emirates"
-    followers: 69252
-    engagement: 263
-    commentsToLikes: 0.039126
+    followers: 70900
+    engagement: 560
+    commentsToLikes: 0.068721
     id: ck81s14qwp99s0j78q7unea3a
     verified: false
-    hashtags: "#quarantine, #covid19, #covid, #ilikehoodies"
+    hashtags: "#fameopportunity, #thisstyle, #fyp, #tuckinyourshirt"
+  - username: "isabelle_sk"
+    fullname: >-
+      Isabelle.sk
+    bio: >-
+      Fashion/ beauty /travel 🇦🇪 to the world Instagram @isabelle.sakaian
+    location: "United Arab Emirates"
+    followers: 44900
+    engagement: 246
+    commentsToLikes: 0.037615
+    id: ckb9extlz31b70j23z88zgzew
+    verified: false
+    hashtags: "#beauty, #dubai, #skincare, #skincareroutine"
   - username: "karina_kuckoo"
     fullname: >-
       Karina Kuckoo
+    bio: >-
+      Dubai 🇦🇪 Lifestyle|Beauty|Fashion Follow my IG @karina_kuckoo
     location: "United Arab Emirates"
-    followers: 38007
-    engagement: 1040
-    commentsToLikes: 0.037235
+    followers: 37500
+    engagement: 1081
+    commentsToLikes: 0.035244
     id: ck9enx5roli9y0j78ih5tkhpk
     verified: false
-    hashtags: "#styletips, #stayathomechallenge, #makeuplover, #quarantinelife"
+    hashtags: "#todayoutfit, #quarantinelife, #myquaratinetime, #outfitidea"
   - username: "missmimifashion"
     fullname: >-
       Amina Tibi
+    bio: >-
+      Fashion | Beauty | Lifestyle Here for fun 💃🏻 IG @missmimifashion
     location: "United Arab Emirates"
-    followers: 14287
-    engagement: 349
-    commentsToLikes: 0.021324
+    followers: 15100
+    engagement: 438
+    commentsToLikes: 0.020018
     id: cka0mtq1fwrnc0i78ubrzim5z
     verified: false
-    hashtags: "#makeuplook, #motherdaughter, #babymamadance, #homeinteriors"
-  - username: "steffie_neve"
+    hashtags: "#foryou, #dubai, #pregnantstyle, #tiktokarabia"
+  - username: "beautybuttonapp"
     fullname: >-
-      Steffie_Neve
+      Beauty Button App
+    bio: >-
+      All things BEAUTY & WELLNESS related ✨
     location: "United Arab Emirates"
-    followers: 6124
-    engagement: 1431
-    commentsToLikes: 0.027946
-    id: ckad5op55vthj0i78kx7qy646
+    followers: 5217
+    engagement: 411
+    commentsToLikes: 0.064205
+    id: ckbqepzxk0gzc0j236b5ou14e
     verified: false
-    hashtags: "#badkitty, #funnycats, #catlover, #coolcars"
-  - username: "kook_111"
+    hashtags: "#hairstyle, #makeuphacks, #beautysecrets, #wap"
+  - username: "sophiekatirai"
     fullname: >-
-      Kawtherkhalili
+      sophie
+    bio: >-
+      Sophie💄صوفي Makeup & Beauty 📍Dubai 🇦🇪
     location: "United Arab Emirates"
-    followers: 87366
-    engagement: 315
-    commentsToLikes: 0.042995
-    id: ck9rl6pabwh0s0j78vdtqe0cp
+    followers: 11600
+    engagement: 427
+    commentsToLikes: 0.018911
+    id: ckbf39t05qzg70j23r4sexbv8
     verified: false
-    hashtags: "#perfumecheck, #dedoschallenge, #catsontiktok, #unboxing"
-  - username: "ranaking242"
+    hashtags: "#viral, #makeuptutorial, #makeup, #catfishchallenge"
+  - username: "sabahatmughal1"
     fullname: >-
-      Rana King
+      SAM
+    bio: >-
+      Target 50K Followers 😍
     location: "United Arab Emirates"
-    followers: 10837
-    engagement: 1351
-    commentsToLikes: 0.005856
-    id: cka9llb0z2qqr0i78wq1y06i1
+    followers: 35400
+    engagement: 1248
+    commentsToLikes: 0.045535
+    id: cka0hb5al8flf0i78g9c937fi
     verified: false
-    hashtags: "#iftari, #realmoney, #yellow, #training"
+    hashtags: "#foryoupage, #challenge, #follow, #vivoy51style"
+  - username: "osmium08"
+    fullname: >-
+      Mahi
+    bio: >-
+      🤪Instagram: osmium08🤪 ⭐Abu dhabi⭐ Arts || Style || Fashion || Travel || Photos
+    location: "United Arab Emirates"
+    followers: 63200
+    engagement: 481
+    commentsToLikes: 0.036194
+    id: ckavm14mevmbx0j23t23pjtlw
+    verified: true
+    hashtags: "#contentcreator, #fashionweek, #fashionhacks, #homeconcert"
   - username: "hudabeauty"
     fullname: >-
-      Huda Beauty
+      Huda Beauty💄
+    bio: >-
+      IG & YT & SC: Hudabeauty
     location: "United Arab Emirates"
-    followers: 1511248
-    engagement: 1183
-    commentsToLikes: 0.006991
+    followers: 2600000
+    engagement: 1146
+    commentsToLikes: 0.010130
     id: ck7zoyq16mhvf0j78gf537m60
     verified: true
-    hashtags: "#skincare, #nails, #satisfiying, #dalgonacoffee"
-  - username: "yogeshsawant2406"
+    hashtags: "#foryoupage, #asmr, #beauty, #foryourpage"
+  - username: "gehnaadvani1"
     fullname: >-
-      Yogesh Sawant
+      Gehna Advani
+    bio: >-
+      Do you have me on INSTAGRAM? @gehnaadvani 👻 : Gehna1 📧 higehna@gmail.com
     location: "United Arab Emirates"
-    followers: 11825
-    engagement: 814
-    commentsToLikes: 0.020099
-    id: ck9feiy5ft6w70j7850io3c2t
+    followers: 14000
+    engagement: 414
+    commentsToLikes: 0.055146
+    id: ckb9lqcsoehbu0j23o824yapk
     verified: false
-    hashtags: "#fitnessindia, #viralvideo, #tiktoklover, #youtube"
-  - username: "mansoorabbasi326"
-    fullname: >-
-      🅼🅰🅰🅽
-    location: "United Arab Emirates"
-    followers: 4508
-    engagement: 3034
-    commentsToLikes: 0.081648
-    id: ckamv54mo25xb0i781530ackb
-    verified: false
-    hashtags: "#qatar, #eidmubark, #photograhy, #marina"
-  - username: "junaidabbasi3264"
-    fullname: >-
-      Junaid Abbasi
-    location: "United Arab Emirates"
-    followers: 13850
-    engagement: 2402
-    commentsToLikes: 0.069690
-    id: ckan1eq43v5cz0i78oceif0eh
-    verified: false
-    hashtags: "#crew, #indiana, #carnal, #myfriend"
+    hashtags: "#louisvuitton, #viral, #fyp, #motd"
 ---

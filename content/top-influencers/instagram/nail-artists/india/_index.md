@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In India In 2020
 description: >-
-  Find top nail artists Instagram influencers in India in 2020. Most popular hashtags: #artist #fashionista #nails #nailartist.
+  Find top nail artists Instagram influencers in India in 2020. Most popular hashtags: #nailsofinstagram #nailart #nails #love.
 platform: Instagram
+hits: 49
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 49 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "makeupawo"
+  - username: "tanya_buffandshiny"
     fullname: >-
-      Make Up Colour
+      Buffandshiny By Tanya Arora🧿
+    bio: >-
+      @buffandshiny_tanya Professional Nailartist Internationally certified Fr Collaboration email/dm Fr Appointments+917080801250 @tanya29898 📍Lucknow,UP
     location: "India"
-    followers: 38568
-    engagement: 5576
-    commentsToLikes: 0.003943
-    id: ckaovf3fe4c8g0i78wccx5e7g
+    followers: 8296
+    engagement: 370
+    commentsToLikes: 0.172553
+    id: ckf5qs86raeop0j23tsg41bnw
     verified: false
-    hashtags: "#nailartist, #makeuplook, #nailpolish, #nailsacrylic"
-  - username: "pinkkybhatia4"
-    fullname: >-
-      Pinky Bhatia
-    location: "India"
-    followers: 27554
-    engagement: 127
-    commentsToLikes: 0.168311
-    id: ck5zvb0ba3w600i14rso3pdfc
-    verified: false
-    hashtags: "#weddingparty, #sale, #bridesmaids, #future"
+    hashtags: "#newbox, #notd, #stickonnails, #nailsofinstagram"
   - username: "best_nailsclips"
     fullname: >-
       Best Nails Clips
+    bio: >-
+      Promotiong page 📩 DM For Promotion 😇 Follow my second account @_glitter_nail Tiktok account @best_nailsclips Product link ↓
     location: "India"
-    followers: 353412
-    engagement: 86
-    commentsToLikes: 0.006390
+    followers: 385060
+    engagement: 55
+    commentsToLikes: 0.003997
     id: ck8tbgzvvvmv30j786eeik1y5
     verified: false
-    hashtags: "#coloredacrylic, #stilettonailsd, #nailsfashion, #nailartlove"
+    hashtags: "#uvgelnails, #shortnail, #teamvalentino, #nailstagram"
+  - username: "_dramatickle.error_"
+    fullname: >-
+      Ritika Sinha ✨🌌
+    bio: >-
+      "Ek Kam Zindegani, Usse bhi Kam Hai Jawani" Use DEYGA005% (Link 👇) 💌 Email/DM for collabs/PR ♥ Swatcher/Reviewer with a nice Phone Camera!
+    location: "India"
+    followers: 2627
+    engagement: 938
+    commentsToLikes: 0.252276
+    id: ckf5rltpsd4tm0j23phe3b0gb
+    verified: false
+    hashtags: "#indianfashionblogger, #feelitreelit, #nailartists, #dramatickleerror"
+  - username: "artofmhendi"
+    fullname: >-
+      𝐙𝐎𝐘𝐀 𝐊𝐇𝐀𝐍
+    bio: >-
+      🔹ADMIN👉@marktraders_ 🔹DM For paid💰Promtns//Collabs💰 🔹DM For Removal // Credits..💬💬 🔹Follow 'PROMOTIONS' at your own risk⚠️
+    location: "India"
+    followers: 34930
+    engagement: 766
+    commentsToLikes: 0.001077
+    id: ckaosz4iwtnp70i7810w0wice
+    verified: false
+    hashtags: "#mehndi, #feelkaroreelkaro, #mehndistain, #mandala"
+  - username: "djfarmeen"
+    fullname: >-
+      DJ Farmeen 🎧
+    bio: >-
+      Cabin Crew 🇶🇦✈️👸 86+ Countries 🌎 🧚‍♀️💫⭐️🌸🌹🦋🦄🍀 “NASHA REMIX “ 👇🏻
+    location: "India"
+    followers: 35384
+    engagement: 72
+    commentsToLikes: 0.030019
+    id: ck6u40adm0xh80j712xw0q8yu
+    verified: false
+    hashtags: "#pioneerdj, #electronicmusic, #beauty, #follow"
+  - username: "normacastelino"
+    fullname: >-
+      Norma castelino
+    bio: >-
+      Y si te vi, no lo creo, diría hola dm para colaboraciones pagadas🎥 castelinonorma@gmail.com
+    location: "India"
+    followers: 100335
+    engagement: 167
+    commentsToLikes: 0.121547
+    id: ck15u4a55lcvp0i1942mcgnst
+    verified: false
+    hashtags: "#sun, #relax, #travel, #fashion"
+  - username: "jaspreetkaur_kalsi"
+    fullname: >-
+      Jaspreet | Fashion & Beauty
+    bio: >-
+      Content Creator Email/ DM for Collaborations 📩 jaspreetkaurkalsiicollab@gmail.com Owner- @jewellerylove_by_jaspreetkalsi 20 y/o DU Student
+    location: "India"
+    followers: 35396
+    engagement: 1851
+    commentsToLikes: 0.033335
+    id: ckf5nt8jvzlt60j23ju45qxym
+    verified: false
+    hashtags: "#skincareproducts, #skincaretips, #indian, #glowup"
   - username: "peachy_vibe"
     fullname: >-
       PV BY JESIKA • TWINKLE  JAIN
+    bio: >-
+      Decoding Fashion 👗 • Travel ✈️ • Lifestyle CELEBRITY STYLIST| Mumbai, Maharashtra🏘️ Email- peachyvibe@yahoo.com Manager- khushiparmar011@gmail.com
     location: "India"
     followers: 107090
     engagement: 61
     commentsToLikes: 0.065787
     id: ck55kg15hz7xz0i11etosvls6
     verified: false
-    hashtags: "#healthyliving, #dailyfashion, #tiktokindia, #fashionista"
-  - username: "_mynaildiaries_"
+    hashtags: "#workfromhomeoutfit, #outfitoftheday, #loungewear, #streetphotography"
+  - username: "armani_sharma"
     fullname: >-
-      Apeksha
+      @Armani Sharma
+    bio: >-
+      Mödel M@kêup Ärtist, N@il Ärtist , Assistant director (AD) Fitñess Fre@k , Wish on 10aug .
     location: "India"
-    followers: 18558
-    engagement: 61
-    commentsToLikes: 0.091676
-    id: ck14ir6cngtdn0i193izfhw3b
+    followers: 11422
+    engagement: 437
+    commentsToLikes: 0.052148
+    id: ck9wg939zsdaq0j78vkv6ptll
     verified: false
-    hashtags: "#swatches, #cutenailart, #girlpower, #stormnails"
-  - username: "styletrends_by_parul"
+    hashtags: "#like, #memes, #armanisharma, #faishion"
+  - username: "himaliheer"
     fullname: >-
-      Parul goyal
+      Himali
+    bio: >-
+      मसकली ✈ Model| content creator| aerospace engineer 📧 Himaliheer@gmail.com 🎥Youtube: Life happens DM for collaborations 📩 📍 Gurugram, Haryana
     location: "India"
-    followers: 28445
-    engagement: 125
-    commentsToLikes: 0.029196
-    id: ck14kygbpryfq0i196t1am0vn
+    followers: 10662
+    engagement: 455
+    commentsToLikes: 0.027390
+    id: ck1362vpt4hri0i191zhpnfh4
     verified: false
-    hashtags: "#frames, #maccosmetics, #production, #instagrambnw"
-  - username: "masoomshankar"
-    fullname: >-
-      Masoom Shankar
-    location: "India"
-    followers: 44675
-    engagement: 278
-    commentsToLikes: 0.013650
-    id: ck14jt439m1r50i19809dnhvt
-    verified: false
-    hashtags: "#ladakhdiaries, #nurvi, #saari, #newyears"
-  - username: "rainbow_kissed"
-    fullname: >-
-      Rishabh
-    location: "India"
-    followers: 8133
-    engagement: 3669
-    commentsToLikes: 0.002694
-    id: ckaotsfebxarr0i78d11b6gt3
-    verified: false
-    hashtags: "#beach, #sequin, #casualstyle, #look"
-  - username: "the.beauty.journal"
-    fullname: >-
-      ᴍᴏɴᴀ ꜱɪɴʜᴀ🇶🇦
-    location: "India"
-    followers: 16896
-    engagement: 452
-    commentsToLikes: 0.599199
-    id: ck8szkdonos7b0j78jpjsm08x
-    verified: false
-    hashtags: "#acne, #nailart, #crueltyfree, #placentor"
-  - username: "3d_henna_touch"
-    fullname: >-
-      𝗥𝗶𝗵𝗮𝗻 𝗦𝗮𝗶𝗳𝗶
-    location: "India"
-    followers: 30060
-    engagement: 264
-    commentsToLikes: 0.007871
-    id: ck8tdnutj43gc0j78p75hsqk3
-    verified: false
-    hashtags: "#indiantrend, #videography, #mehndibyme, #instahenna"
+    hashtags: "#gurgaoninfluencers, #delhi, #gurugram, #influencer"
 ---

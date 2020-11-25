@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top athletes Instagram influencers in Ukraine in 2020. Most popular hashtags: #nikerunning #bestrong #covid #justdoit.
+  Find top athletes Instagram influencers in Ukraine in 2020. Most popular hashtags: #calisthenics #workout #motivation #ukraine.
 platform: Instagram
+hits: 26
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 26 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "rosya_dp"
-    fullname: >-
-      Yaroslava Mahuchikh
-    location: "Ukraine"
-    followers: 21548
-    engagement: 1645
-    commentsToLikes: 0.017600
-    id: ck6udqle7ml0s0j71boh6shd5
-    verified: false
-    hashtags: "#trainingcamp, #highjump"
   - username: "lyakhova.olga.800"
     fullname: >-
       Ольга Ляховая💙💛
+    bio: >-
+      Nike athlete European Championship 🥈🥉🥉🥉 2014/2017/2018/2019 Olympic Games 2016 European Games 🥇🥇
     location: "Ukraine"
-    followers: 11152
-    engagement: 994
-    commentsToLikes: 0.042187
+    followers: 14783
+    engagement: 1140
+    commentsToLikes: 0.025612
     id: ck5q9u60od02v0i11ig29ja1h
     verified: false
-    hashtags: "#kenyanchildren, #olala, #funnycooking, #jambojet"
-  - username: "olgakharlan"
+    hashtags: "#trainingcamp, #lyakhovaolga, #kenya, #nikeathlete"
+  - username: "shapoval_workout"
     fullname: >-
-      Kharlan Olga
+      Kostya Shapoval
+    bio: >-
+      🔝Calisthenics athlete🔝 Team Leader ➡️ @nolimits_sport National Record Holder🇺🇦 Online coach/Coach @gymstyleclub ⬇️Cooperation/Training in direct⬇️
     location: "Ukraine"
-    followers: 25707
-    engagement: 1348
-    commentsToLikes: 0.013048
-    id: ck5zua1eq1yv90i14q4lgrp3h
+    followers: 23410
+    engagement: 1149
+    commentsToLikes: 0.023053
+    id: ck0w6byzc7utz0i199yk8kzof
     verified: false
-    hashtags: "#livingroomcup, #bestteammate, #gold, #individual"
-  - username: "dmytro_horobets"
+    hashtags: "#business, #workout, #24, #dynamic"
+  - username: "melnikstyle"
     fullname: >-
-      Dmytro_Horobets🇺🇦IFBB ELITEPRO
+      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
+    bio: >-
+      CALISTHENICS ATHLETE International cups winner🏆 YouTuber Business inquiries: Vet.melnik2002@gmail.com
     location: "Ukraine"
-    followers: 26998
-    engagement: 779
-    commentsToLikes: 0.041650
-    id: ck5hnaa5ungmp0i11e57vlj54
+    followers: 167160
+    engagement: 1182
+    commentsToLikes: 0.014086
+    id: ck14kgshwpg3u0i19788zlbj3
     verified: false
-    hashtags: "#oasisarena, #grandoasis, #familyportrait, #happyfather"
+    hashtags: "#handstand, #cinematography, #blackandwhitehumansphotos, #moodygrams"
+  - username: "danifridman"
+    fullname: >-
+      Dani Fridman  דני פרידמן
+    bio: >-
+      The Israeli Single Sculler 🇮🇱 אלוף הארץ בחתירה 🚣🏻 Best Time 6:46.5 🏆& 🇪🇺 Finalist @siksilk_il athlete @sano.il Family📍
+    location: "Ukraine"
+    followers: 7449
+    engagement: 631
+    commentsToLikes: 0.082322
+    id: ck8swvb54fddr0j782s45mri0
+    verified: false
+    hashtags: "#athlete, #canottaggio, #rower, #dnipro"
+  - username: "kir.kara"
+    fullname: >-
+      Kirill Karabut
+    bio: >-
+      @gornation Pro Athlete ▶Eurocup winner 2019🥇🇵🇱 ▶Pull&Push2vs2 battles 2020🥇🇫🇷 ▶World Cup stage 2019🥈🇧🇬 ▶World Championship 2019🥉🇷🇺
+    location: "Ukraine"
+    followers: 24700
+    engagement: 1630
+    commentsToLikes: 0.018986
+    id: ck6u9dywsx0000j71oji3hs0k
+    verified: false
+    hashtags: "#kharkivcity, #calisthenicsmovement, #workoutvideos, #kharkivblog"
+  - username: "supamontalvo"
+    fullname: >-
+      Bboy Victor
+    bio: >-
+      RedBull Athlete 💥 Kissimmee, FL 🇲🇽 🇺🇸
+    location: "Ukraine"
+    followers: 62925
+    engagement: 636
+    commentsToLikes: 0.017243
+    id: ck0w11c45h2ub0i19az9auicv
+    verified: false
+    hashtags: "#redbullathlete, #redbulldancer, #redbull, #orlando"
   - username: "barbaruk_first17"
     fullname: >-
       🇺🇦_Bᴀʀʙᴀʀᴜᴋ_Fɪʀꜱᴛ₁₇
+    bio: >-
+      🇺🇦 First17 🇺🇦 😱1.90/80kg😱 @gornation PRO ATHLETE ☝️Будь весегда самим собой TikTok - 540k 🍋🏃🏼‍♂️
     location: "Ukraine"
-    followers: 24426
-    engagement: 481
-    commentsToLikes: 0.024423
+    followers: 24054
+    engagement: 396
+    commentsToLikes: 0.020821
     id: ck5c3og25zqnp0i11gbwluie3
     verified: false
-    hashtags: "#style, #auraclub, #barstarzz, #dzik"
-  - username: "vasya_demchyk"
+    hashtags: "#gornation, #motivation, #workoutmotivation, #calisthenics"
+  - username: "olga_saladukha"
     fullname: >-
-      Vasya_Demchyk
+      Olga Saladukha
+    bio: >-
+      Ambassador Europ🇪🇺 week of Sport 🏃🏼‍♀️ #Nike 👟🕶 🥉Olympic 🥇World 🥇🥇🥇🥇🥉xEurop 🥈🥉World 🥈🥉World Cup Chair of Athletes commission of NOC🇺🇦
     location: "Ukraine"
-    followers: 7603
-    engagement: 1612
-    commentsToLikes: 0.121161
-    id: ck8t8qoy3leyz0j78gi4278ga
+    followers: 14987
+    engagement: 836
+    commentsToLikes: 0.031540
+    id: ck8t9sx9hp8sc0j78ccz626o4
     verified: false
-    hashtags: "#flipcash, #flip, #teamlaizans, #combo"
-  - username: "soloveivitaliitkd"
+    hashtags: "#triplejump, #neverstop, #beautiful, #athlete"
+  - username: "dmytro_horobets"
     fullname: >-
-      Solovei The Matrix🧠
+      Dmytro Horobets🇺🇦IFBB ELITEPRO
+    bio: >-
+      🇺🇦IFBB Elite Pro MensPhysique 1️⃣5️⃣ #ElitePro Winner 📕IFBB International Judge 📝#Onlinecoaching ☀️JanTana Athlete ⚡️OptimumNutrition Athlete
     location: "Ukraine"
-    followers: 12800
-    engagement: 982
-    commentsToLikes: 0.009238
+    followers: 28068
+    engagement: 646
+    commentsToLikes: 0.011791
+    id: ck5hnaa5ungmp0i11e57vlj54
+    verified: false
+    hashtags: "#fatheranddaughter, #optimumnutrition, #family, #daddydaughter"
+  - username: "solovei_thematrix"
+    fullname: >-
+      Solovei Vitali TKD 🥋
+    bio: >-
+      Время быть сильным❗️ 🌟Profesional athlete and coach #soloveyteam 🥇3x World Champion 🥇4x European Champion 🥇World and European Cup Champion
+    location: "Ukraine"
+    followers: 12899
+    engagement: 1102
+    commentsToLikes: 0.009390
     id: ck6u6toq6ho050j71ond68hki
     verified: false
-    hashtags: "#kickboxing, #topten4you, #covid, #taekwondoitf"
-  - username: "viktoriya_400h"
-    fullname: >-
-      Viktoriya Tkachuk
-    location: "Ukraine"
-    followers: 7359
-    engagement: 748
-    commentsToLikes: 0.020206
-    id: ck8tdlyef3v4v0j787bjcnb0f
-    verified: false
-    hashtags: "#dream, #moments, #friends, #hometraining"
-  - username: "vadym_oleynik"
-    fullname: >-
-      Vadym Oleynik
-    location: "Ukraine"
-    followers: 239076
-    engagement: 302
-    commentsToLikes: 0.017668
-    id: ck0txqhclk5k40i1979mgj9gb
-    verified: false
-    hashtags: "#beastmodeon, #ukraine, #production, #crossfit"
-  - username: "just_a_bad_guy"
-    fullname: >-
-      Bohdan
-    location: "Ukraine"
-    followers: 6346
-    engagement: 579
-    commentsToLikes: 0.027515
-    id: ck5zy6tph9bxn0i14i9e0iigv
-    verified: false
-    hashtags: ""
+    hashtags: "#topteneliteteam, #topten, #ukraine, #soloveyteam"
 ---

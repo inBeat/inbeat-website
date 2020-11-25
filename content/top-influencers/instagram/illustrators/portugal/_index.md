@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Portugal In 2020
 description: >-
-  Find top illustrators Instagram influencers in Portugal in 2020. Most popular hashtags: #sudiomoments #portrait #pokemon #coronavirus.
+  Find top illustrators Instagram influencers in Portugal in 2020. Most popular hashtags: #illustration #digitalart #drawing #art.
 platform: Instagram
+hits: 15
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Portugal for you to work with.
 profiles:
   - username: "_francis.co"
     fullname: >-
       Francisco Fonseca
+    bio: >-
+      Illustrator • Porto • @gardenskateco Represented by: @goodillo.kids & @goodillo Online Shop 👇🏻
     location: "Portugal"
-    followers: 34054
-    engagement: 956
-    commentsToLikes: 0.015442
+    followers: 60770
+    engagement: 709
+    commentsToLikes: 0.013428
     id: ck14k5164nr9o0i19iisxgmk3
     verified: false
-    hashtags: "#design, #skateboard, #skateboarding, #bsflip"
-  - username: "larolagosta"
+    hashtags: "#illustrator, #street, #sketch, #instaartist"
+  - username: "vlkrr"
     fullname: >-
-      Laro Lagosta
+      nicolle velcro
+    bio: >-
+      lisbon based illustrator&animator full time lesbian, part time cat mom 🌈 não reposte sem permissão 💌 contact: velcrocrocro@gmail.com portfolio/shop👇🏼
     location: "Portugal"
-    followers: 70233
-    engagement: 633
-    commentsToLikes: 0.020570
-    id: ck0w2smthpzdd0i19burebagz
+    followers: 23673
+    engagement: 431
+    commentsToLikes: 0.123395
+    id: ck55mywkd54ov0i11shjsrvvo
     verified: false
-    hashtags: "#dontrushsneakerchallenge, #jordans1onhead, #maythefourthbewithyou, #mood"
+    hashtags: "#art, #aesthetic, #animation, #drawing"
   - username: "madie_arts"
     fullname: >-
       Madalena | Digital Artist
+    bio: >-
+      #illustrator 🇵🇹🇬🇧 ✨ game artist by day & freelance illustrator by night ✨ personal acc: @madalena_lacer © All rights reserved
     location: "Portugal"
-    followers: 235953
-    engagement: 1111
-    commentsToLikes: 0.014775
+    followers: 296248
+    engagement: 708
+    commentsToLikes: 0.036700
     id: ck15qpzjk435h0i19lx5507ac
     verified: false
-    hashtags: "#sudiomoments, #ariel, #moon, #toonmechallenge"
-  - username: "majatakmaj"
-    fullname: >-
-      Maja Wrońska
-    location: "Portugal"
-    followers: 26673
-    engagement: 376
-    commentsToLikes: 0.023696
-    id: ck5c22nwjwfhv0i11t312dj3i
-    verified: false
-    hashtags: "#lakecoloring, #church, #spain, #artivive"
+    hashtags: "#inktoberlist, #digitalartists, #inktoberprompts, #witchtober"
   - username: "thiswhimsyme"
     fullname: >-
       Sara Paz
+    bio: >-
+      FREELANCE ILLUSTRATOR ⚡️Wonder Woman wannabe 📬Business inquiries: thiswhimsyme@gmail.com . 🚫 Don't repost without my permission!
     location: "Portugal"
     followers: 120901
     engagement: 516
     commentsToLikes: 0.016569
     id: ck13a7gcgozw20i19r6nk60i6
     verified: false
-    hashtags: "#pastelcolours, #selfcare, #mermaid, #artvsartist2020"
-  - username: "pypahs_art"
-    fullname: >-
-      Filipa Santos
-    location: "Portugal"
-    followers: 129637
-    engagement: 797
-    commentsToLikes: 0.007443
-    id: ck13b2jagtdfh0i19sc7locnm
-    verified: false
-    hashtags: "#honeysenpai, #workinprogress, #pokemon, #katara"
+    hashtags: "#stickers, #illustration, #digitalart, #procreateart"
   - username: "nastyavarlamova_com"
     fullname: >-
       Nastya Varlamova
+    bio: >-
+      NASTYAVARLAMOVA.COM🔶 Portugal,Cascais ILLUSTRATOR ARTIST My PORTFOLIO & 👇🏻Links you may need👇🏻
     location: "Portugal"
-    followers: 23264
-    engagement: 219
-    commentsToLikes: 0.035784
+    followers: 23131
+    engagement: 232
+    commentsToLikes: 0.034810
     id: ck8syziapmmi10j78j2aea6hg
     verified: false
-    hashtags: "#varlamovacollages, #creativeseverywhere, #abstractcollages, #colourofmybrain"
-  - username: "fatinharamos"
+    hashtags: "#varlamovacollages, #abstractcollages, #colourofmybrain, #ilovecascais"
+  - username: "wlk_god"
     fullname: >-
-      Fatinha Ramos
+      Marcelo Gonçalves
+    bio: >-
+      Illustrator Porto, Portugal 𝘋𝘢𝘳𝘬•𝘉𝘭𝘢𝘤𝘬𝘸𝘰𝘳𝘬•𝘗𝘰𝘴𝘵𝘦𝘳𝘴 •𝘓𝘰𝘨𝘰𝘴•𝘈𝘳𝘵𝘸𝘰𝘳𝘬 𝘊𝘰𝘭𝘭𝘢𝘣𝘴 or 𝘊𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯𝘴 𝘋𝘔.
     location: "Portugal"
-    followers: 8036
-    engagement: 565
-    commentsToLikes: 0.059156
-    id: ck5c0ck6dsvi90i1123tr7ju5
+    followers: 10516
+    engagement: 752
+    commentsToLikes: 0.011755
+    id: ck8tcxgvw12270j781sy5guws
     verified: false
-    hashtags: "#puzzle, #scars, #giannirodari, #thestateofart"
+    hashtags: "#gothic, #blackillustration, #digitalart, #artoftheday"
+  - username: "gokattyplanet"
+    fullname: >-
+      Catarina Calvinho Gil ☾⋆
+    bio: >-
+      Portuguese animator, illustrator, wannabe photographer and occasionally a writer ➳ catarinacalvinhogil@gmail.com
+    location: "Portugal"
+    followers: 2369
+    engagement: 1292
+    commentsToLikes: 0.078111
+    id: ck8t62gbkc0620j784w47x3bj
+    verified: false
+    hashtags: "#womanbodyart, #feministart, #letlovebethevirus, #drawing"
   - username: "gspaar"
     fullname: >-
       Pen & Ink Artist
+    bio: >-
+      ▪️ Freelance illustrator in Portugal. 🇵🇹 ▪️ DM for business inquiries. 📩 ▪️ Don´t click here!👇
     location: "Portugal"
-    followers: 3650
-    engagement: 1599
-    commentsToLikes: 0.044830
+    followers: 3495
+    engagement: 1608
+    commentsToLikes: 0.045301
     id: ck0w2bfrkniml0i1970feoqo9
     verified: false
-    hashtags: "#inktober, #penandinkalliance, #inktober2019, #spiderart"
-  - username: "cara.trancada"
+    hashtags: "#penandink, #skullart, #blackworkes, #blackworkdesign"
+  - username: "dk_limp"
     fullname: >-
-      CARA TRANCADA
+      Pedro Alves
+    bio: >-
+      Architect turned illustrator; graphic designer; urban sketcher. Torres Vedras-Portugal.
     location: "Portugal"
-    followers: 18036
-    engagement: 964
-    commentsToLikes: 0.010443
-    id: ck5qax7p4iq0g0i11i5uagwhm
+    followers: 34187
+    engagement: 188
+    commentsToLikes: 0.014267
+    id: ck6ueea0aqerg0j716x51fd2d
     verified: false
-    hashtags: "#dollypartonchallenge, #staythefuckhome, #quarantinestories, #zoom"
+    hashtags: "#sketching, #watercolorbook, #watercolors, #usk"
+  - username: "virus.pt"
+    fullname: >-
+      Virus
+    bio: >-
+      Graffiti Writter/Illustrator Porto,Portugal 🇵🇹 welovirus@gmail.com
+    location: "Portugal"
+    followers: 2757
+    engagement: 1163
+    commentsToLikes: 0.073804
+    id: ck5qaxc8liqnv0i11extzt6pq
+    verified: false
+    hashtags: "#molotowheadquarters, #graffitiart, #cycling, #molotow"
 ---

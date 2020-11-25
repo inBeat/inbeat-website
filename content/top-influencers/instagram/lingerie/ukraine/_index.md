@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top lingerie Instagram influencers in Ukraine in 2020. Most popular hashtags: #lingerie #stayathome #stayhome #fashion.
+  Find top lingerie Instagram influencers in Ukraine in 2020. Most popular hashtags: #lingerie #fashion #girl.
 platform: Instagram
+hits: 64
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 64 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "_andrestep"
+  - username: "onlynastie"
     fullname: >-
-      Покажу тебя настоящей.
+      Anastasia
+    bio: >-
+      Model • Artist • Photographer #model #girl #lingerie #fitnessgirl #onlyNastie
     location: "Ukraine"
-    followers: 3074
-    engagement: 1463
-    commentsToLikes: 0.058759
-    id: ck5q3midklfzk0i11smm6k0ef
+    followers: 3125
+    engagement: 4545
+    commentsToLikes: 0.040578
+    id: ckap6xa0thqnv0i787lv3h83f
     verified: false
-    hashtags: "#doports, #artofportraitphotography, #portrait, #discoverportrait"
-  - username: "m_yarovaya"
+    hashtags: "#lingerie, #photography, #brunette, #girlswithtattoos"
+  - username: "voronina_model"
     fullname: >-
-      Marina Yarovaya
+      Модель 🇺🇦
+    bio: >-
+      𝘼𝙢𝙗𝙖𝙨𝙨𝙖𝙙𝙤𝙧 @fox_lingerie ❤️ ⠀ Agent @fk.mgmt Пишу свои мысли 💭 Реклама 👉🏻 𝘿𝙞𝙧𝙚𝙘𝙩 Exclusive content ⤵️🔞🍒
     location: "Ukraine"
-    followers: 34827
-    engagement: 484
-    commentsToLikes: 0.008559
-    id: ck0w6wr7wamn80i19j56d4e40
+    followers: 142440
+    engagement: 340
+    commentsToLikes: 0.017218
+    id: ck0tww8y9h0kh0i19rmwic721
     verified: false
-    hashtags: "#couple, #35mm, #trash, #love"
+    hashtags: ""
   - username: "anastasiya_morgul"
     fullname: >-
       Anastasiya
+    bio: >-
+      Создаю божественные купальники и белье @elegance_lingerie_ 👙 Умело держу маленькую камеру в руках и снимаю красоток📸 ⠀ Делаю только то, что люблю🙌🏻
     location: "Ukraine"
-    followers: 2333
-    engagement: 911
-    commentsToLikes: 0.057364
+    followers: 2641
+    engagement: 773
+    commentsToLikes: 0.036362
     id: ck5q3moeilgw00i114thur882
     verified: false
-    hashtags: "#fliptheswitch, #flipchallenge, #flip, #stayhome"
-  - username: "angelina__petrova"
+    hashtags: ""
+  - username: "zhilyova"
     fullname: >-
-      International glamour model
+      Zhilyova Lera
+    bio: >-
+      Better check @zhilyova_lingerie
     location: "Ukraine"
-    followers: 109731
-    engagement: 158
-    commentsToLikes: 0.020994
-    id: ck6tzd16i8zki0j7130z3kcoh
-    verified: true
-    hashtags: "#stayathome"
-  - username: "tania_dudu"
-    fullname: >-
-      Personal & Fashion Stylist
-    location: "Ukraine"
-    followers: 40692
-    engagement: 398
-    commentsToLikes: 0.056759
-    id: ck5px31rzpusm0i11q1dyc8bn
+    followers: 46291
+    engagement: 163
+    commentsToLikes: 0.023916
+    id: ck0tv2tgz9p0t0i19uzse1322
     verified: false
-    hashtags: "#stayathome, #needtochange, #takeit, #happybirthday"
-  - username: "iravakhitova"
+    hashtags: "#sustainablefashion"
+  - username: "lil.elia"
     fullname: >-
-      Ира Вахитова, SMM
+      LIL ELIA | ELEONORA ZAKHAROVA
+    bio: >-
+      Certified Makeup Artist @lileliabeauty 18|Ukraine, Krivoy Rog Cooperation direct ♡
     location: "Ukraine"
-    followers: 100198
-    engagement: 428
-    commentsToLikes: 0.019867
-    id: ck6tv2hdjjsqj0j71ech0ksmj
+    followers: 19770
+    engagement: 267
+    commentsToLikes: 0.076148
+    id: ck9hckb8olsmn0j78ltg1lhln
     verified: false
-    hashtags: "#sunset, #gudauri, #quarantinelife, #lingerie"
-  - username: "dashatm19"
-    fullname: >-
-      ❤️Daria Hromenko❤️
-    location: "Ukraine"
-    followers: 70876
-    engagement: 440
-    commentsToLikes: 0.052536
-    id: ck9halr1ld09f0j78ol4a7n1a
-    verified: false
-    hashtags: "#cabaretmascara, #offtropic, #mood, #arianagrandefan"
+    hashtags: "#dogoargentinolove, #dogofinstagram, #lingerie, #slipknotforever"
   - username: "snizhana_lebid"
     fullname: >-
       Snizhana 💎
+    bio: >-
+      MA - MZM models (Ukraine UA)🇺🇦 Elite - Beijing, CalCarries - Guangzhou, Alpha Mode - Tokyo Lutsk ,Ukraine
     location: "Ukraine"
-    followers: 2494
-    engagement: 2172
-    commentsToLikes: 0.041255
+    followers: 2695
+    engagement: 1861
+    commentsToLikes: 0.044448
     id: ck5ce72a2kggq0i11472tlqtp
     verified: false
-    hashtags: "#insta, #makeup, #jasminelingerie, #beauty"
-  - username: "lena.buriak"
+    hashtags: "#photo, #fashion, #beauty, #like4like"
+  - username: "sfk911"
     fullname: >-
-      Model Lena Buriak
+      Антон Софийченко -фотограф
+    bio: >-
+      ‼️Ukraine/Cyprus 🇨🇾🌏 👇👇
     location: "Ukraine"
-    followers: 22376
-    engagement: 219
-    commentsToLikes: 0.060121
-    id: ckaos5r5yq7rc0i78x7vid6k7
+    followers: 37430
+    engagement: 354
+    commentsToLikes: 0.021487
+    id: ck14hwwcucjnk0i19plzxdnhj
     verified: false
-    hashtags: "#modelmilano, #modelingwork, #ladyinred, #swimsuit"
-  - username: "_moin_chan_"
+    hashtags: "#latex, #legs, #heels, #fetish"
+  - username: "photomorphine"
+    fullname: >-
+      🅼🅾🆁🅿🅷🅸🅽🅴
+    bio: >-
+      🔺Фотосъёмка любой сложности 🔺Опыт работы более 10 лет 🔺Снимал для мировых брендов 🔺Обучаю ретуши и фотосъёмке 🔺Снимаю ролики на Youtube ⏱Доступен 24/7
+    location: "Ukraine"
+    followers: 11660
+    engagement: 358
+    commentsToLikes: 0.040658
+    id: ck6ttix4eav300j71ezo8c9cg
+    verified: false
+    hashtags: "#fashionportrait, #photoshop, #bw, #style"
+  - username: "sonyakayofficial"
+    fullname: >-
+      Sonya Kay
+    bio: >-
+      - Booking Viber/WhatsApp: 📲+380937722827 Вадім 🧰- Реклама/Pr/Співпраця: @aisha_milevskaya +380737722827
+    location: "Ukraine"
+    followers: 27743
+    engagement: 543
+    commentsToLikes: 0.036461
+    id: ck0tvcjb6au5w0i19eekihj1a
+    verified: false
+    hashtags: "#fashion, #beautiful, #premiere, #autumn"
+  - username: "_moincosplay_"
     fullname: >-
       Moin cosplay
+    bio: >-
+      ✨Seal girl 🐚|♒|23 🐚Born in 🇺🇦, living in🇩🇪 🐚 💍 Engaged 💍 🌸Next Cos - Taihou 🌸
     location: "Ukraine"
-    followers: 14944
-    engagement: 368
-    commentsToLikes: 0.025752
+    followers: 15135
+    engagement: 333
+    commentsToLikes: 0.024420
     id: ck6twixxls98x0j71gx2advet
     verified: false
-    hashtags: "#fatego, #lingerie, #jojopart5, #twitter"
+    hashtags: "#catradoracosplay, #makeup, #sexycosplay, #stockings"
 ---

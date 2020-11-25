@@ -1,102 +1,101 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Australia In 2020
 description: >-
-  Find top bakers Instagram influencers in Australia in 2020. Most popular hashtags: #stayhome #handmade #vegan #fresh.
+  Find top bakers Instagram influencers in Australia in 2020. Most popular hashtags: #bread #homemade #chocolate.
 platform: Instagram
+hits: 116
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 116 Instagram influencers like this in Australia for you to work with.
 profiles:
   - username: "cwisspy"
     fullname: >-
       Christo
+    bio: >-
+      🥞Homecook and baker 📧 christopherlmf@gmail.com
     location: "Australia"
-    followers: 31741
-    engagement: 489
-    commentsToLikes: 0.035683
+    followers: 32226
+    engagement: 495
+    commentsToLikes: 0.023675
     id: ck0vylesf4kyj0i1991bs4pkq
     verified: false
-    hashtags: "#choux, #mauritius, #doughnut, #summer"
-  - username: "wills.bread"
-    fullname: >-
-      Will
-    location: "Australia"
-    followers: 3937
-    engagement: 2904
-    commentsToLikes: 0.038086
-    id: ckaor2rg8lhcv0i78tgejlusk
-    verified: false
-    hashtags: "#handmade, #sourdoughsunday, #doughnuts, #jamdoughnuts"
+    hashtags: "#foodie, #homecook, #pumpkin, #autumn"
   - username: "dansbakelab"
     fullname: >-
       Dan’s Bake Lab | 🇦🇺BakeOff ‘19
+    bio: >-
+      ✨ Australian Bake Off 2019 Finalist 🐶 @rspca_vic Ambassador 👨🏼‍🍳 Self-taught baker 🧬 Nutritionist & medical scientist 💖 Gold, pink & glitter lover
     location: "Australia"
-    followers: 9961
-    engagement: 643
-    commentsToLikes: 0.069914
+    followers: 11172
+    engagement: 359
+    commentsToLikes: 0.102033
     id: ckapcr41r4uzc0i78k00skha2
     verified: false
-    hashtags: ""
-  - username: "walla_abueid"
-    fullname: >-
-      Walla Abu-Eid | ولاء ابو عيد
-    location: "Australia"
-    followers: 52999
-    engagement: 312
-    commentsToLikes: 0.212409
-    id: ck5hhkq108qgb0i11cfrv5y52
-    verified: false
-    hashtags: "#kitchenaidmixer, #giveawaywinner, #lunchbox, #bentoboxlunch"
-  - username: "miller_baker"
-    fullname: >-
-      𝐉𝐨𝐫𝐝𝐚𝐧 𝐌𝐢𝐥𝐥𝐞𝐫
-    location: "Australia"
-    followers: 42176
-    engagement: 329
-    commentsToLikes: 0.025487
-    id: ck5hczhickpq70i1102206kw2
-    verified: false
-    hashtags: "#handmade, #autolyse, #alveoli, #kitchenaid"
-  - username: "amy_minichiello_"
-    fullname: >-
-      FOOD-STORIES-MEMORIES
-    location: "Australia"
-    followers: 2268
-    engagement: 1397
-    commentsToLikes: 0.306845
-    id: ck6u3rkgfzh0m0j71cj0wpy83
-    verified: false
-    hashtags: "#recipesinthemail, #womensupportingwomen, #2020planetproject, #ministryofscones"
+    hashtags: "#chocolate, #foodlover, #buttercream, #foodporn"
   - username: "jobarrett"
     fullname: >-
       Jo Barrett
+    bio: >-
+      Chef/Baker/Author/Greenhouse - Melbourne @haveago_series @futurefoodsystem www.haveagoseries.com
     location: "Australia"
-    followers: 19776
-    engagement: 366
-    commentsToLikes: 0.030103
+    followers: 22369
+    engagement: 396
+    commentsToLikes: 0.036693
     id: ck5cfg8ekmw1k0i11uv1ofspb
     verified: false
-    hashtags: "#handmade, #gottime, #australia, #sprouts"
-  - username: "tuscan_baker"
+    hashtags: "#cheese, #haveago, #cheddar, #bread"
+  - username: "walla_abueid"
     fullname: >-
-      Brock
+      Walla Abu-Eid | ولاء ابو عيد
+    bio: >-
+      Happily married 💍 Mummy to 3 angels B. Pharmacy | M. Teaching Foodie and baker @bakemycakeby_walla TikTok walla_abueid Syd 🇦🇺🇵🇸
     location: "Australia"
-    followers: 95208
-    engagement: 720
-    commentsToLikes: 0.027910
-    id: ck0vvi2hhp8i70i19bp80vpm0
+    followers: 96977
+    engagement: 234
+    commentsToLikes: 0.050307
+    id: ck5hhkq108qgb0i11cfrv5y52
     verified: false
-    hashtags: "#webdesign, #bakery, #rainbow, #mihermano"
-  - username: "katherine_sabbath"
+    hashtags: "#dessertrecipe, #modest, #lookoftheday, #buzzfeast"
+  - username: "mahrukh94"
     fullname: >-
-      Katherine Sabbath
+      Mahrukh
+    bio: >-
+      Lawyer, baker & iced coffee drinker 🌻Sydney, Australia
     location: "Australia"
-    followers: 498131
-    engagement: 154
-    commentsToLikes: 0.034722
-    id: ck136t2ui84b20i197te25ig2
-    verified: true
-    hashtags: "#onegative, #marimekkoaustralia, #sustainablefashion, #giveaway"
+    followers: 18342
+    engagement: 330
+    commentsToLikes: 0.043599
+    id: ckaourm9z1ik90i78mdk7vnbf
+    verified: false
+    hashtags: "#thebakefeed, #engagement, #saymashallah, #engaged"
+  - username: "wills.bread"
+    fullname: >-
+      Will
+    bio: >-
+      👨‍🍳Home baker. Learning. Sourdough obsession 🥖My baking 📷 My pics 🤨39, husband, father, 3 boys 🇦🇺Brisbane, Aust 🍷See my wine obsession @wills.wines
+    location: "Australia"
+    followers: 4199
+    engagement: 2057
+    commentsToLikes: 0.039048
+    id: ckaor2rg8lhcv0i78tgejlusk
+    verified: false
+    hashtags: "#veganfood, #madefromscratch, #breadvolution, #tasty"
+  - username: "amy_minichiello_"
+    fullname: >-
+      FOOD-STORIES-MEMORIES
+    bio: >-
+      Self-taught cook, baker of cakes, story-teller, memory maker & recipe sharer. Recipes can be found here 👇🏻
+    location: "Australia"
+    followers: 2845
+    engagement: 1074
+    commentsToLikes: 0.271554
+    id: ck6u3rkgfzh0m0j71cj0wpy83
+    verified: false
+    hashtags: "#2020planetproject, #ministryofscones, #daysofsimpleandslow, #beaubakes"
   - username: "dabakerboy"
     fullname: >-
       Baker Boy
+    bio: >-
+      A project by Danzal Baker [-o-] Fresh New Prince Of Arnhem Land 2019 Young Australian of the Year Latest Single ‘MOVE’ and Official Video OUT NOW 👇🏾
     location: "Australia"
     followers: 62164
     engagement: 393
@@ -104,4 +103,28 @@ profiles:
     id: ck15ueg00mrvf0i19lk2eoe7k
     verified: true
     hashtags: "#movewithme, #ausmusictshirtday, #prettyladychallenge, #tiktok"
+  - username: "katherine_sabbath"
+    fullname: >-
+      Katherine Sabbath
+    bio: >-
+      🎂 Teacher turned Baker 📗 Author 🎨 New Owner! @CreativeCakeDecorating BOOK 2 #BakeAustraliaGreat OUT NOW 🎉 info@katherinesabbath.com Sydney, Australia
+    location: "Australia"
+    followers: 492158
+    engagement: 145
+    commentsToLikes: 0.021726
+    id: ck136t2ui84b20i197te25ig2
+    verified: true
+    hashtags: "#uniqloau, #bakeaustraliagreat, #ad, #sponsored"
+  - username: "tuscan_baker"
+    fullname: >-
+      Brock
+    bio: >-
+      Baker/Consulting Sydney, Australia 🇦🇺 Email: tuscanbaker14@gmail.com
+    location: "Australia"
+    followers: 105210
+    engagement: 642
+    commentsToLikes: 0.028864
+    id: ck0vvi2hhp8i70i19bp80vpm0
+    verified: false
+    hashtags: "#food, #croissant, #sourdough, #freshfood"
 ---

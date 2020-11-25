@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Norway In 2020
 description: >-
-  Find top TikTok influencers in Norway in 2020. Most popular hashtags: #coronavirus #roblox #duet #edit.
+  Find top TikTok influencers in Norway in 2020. Most popular hashtags: #foryou #fyp #foryoupage.
 platform: TikTok
+hits: 489
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 489 TikTok influencers like this in Norway for you to contact.
 profiles:
-  - username: "..piggy.gacha.collab"
+  - username: "horze..girl"
     fullname: >-
-      ✨Gacha Piggy✨
+      ❤️Horse Girl❤️
+    bio: >-
+      ☀️Sunshine Trackers☀️ 🤍Bff acc: Norwegian.Gamer.girls🤍
     location: "Norway"
-    followers: 24342
-    engagement: 3176
-    commentsToLikes: 0.153677
-    id: ck9n8ctgb8exg0j7847u97sox
+    followers: 5925
+    engagement: 3235
+    commentsToLikes: 0.073238
+    id: ckbkfxtur74780j23k3ogurd0
     verified: false
-    hashtags: "#dinoisqt, #gachalife, #torcher, #couplegoals"
-  - username: "s.h.o.w.j.u.m.p.i.n.g"
+    hashtags: "#starstableonline, #foryoupage, #foryou, #sso"
+  - username: "michellle_tumbling"
     fullname: >-
-      Horse edits 🥰
+      ✨GOD DAG MINE SOKKER KLUMPER✨
+    bio: >-
+      🌸HEI PÅ DEG 🌸 🦋Så koselig at du ville komme på besøk inn her da🦋 🧸FallowMe
     location: "Norway"
-    followers: 50434
-    engagement: 2994
-    commentsToLikes: 0.068322
-    id: ck9gpxr5275th0j78g1in8pky
+    followers: 2544
+    engagement: 3024
+    commentsToLikes: 0.080361
+    id: ckck6eu4mrmfm0j23ksxbkqs1
     verified: false
-    hashtags: "#equestrians, #horsebackriding, #equestrianyoutuber, #freejumping"
-  - username: "madelenlauritsen"
+    hashtags: "#ferie, #bobil, #familie, #gips"
+  - username: "e.questrianedits"
     fullname: >-
-      Madelen
+      e.questrianedits
+    bio: >-
+      Tysm for 100k💞🥺🥰
     location: "Norway"
-    followers: 3336
-    engagement: 2102
-    commentsToLikes: 0.090342
-    id: ck9epuk61u9l40j78taclfc7q
+    followers: 109600
+    engagement: 2508
+    commentsToLikes: 0.036545
+    id: ckbf5t75guzfl0j235i5jat2p
     verified: false
-    hashtags: "#washyourhands, #norway, #sad, #iloveyou"
-  - username: "pacygamer"
+    hashtags: "#equineedit, #horse, #showjumping, #horseedits"
+  - username: "pacy_soft"
     fullname: >-
-      Pacybitsgamer
+      Quitted was pacy_soft
+    bio: >-
+      Was pacy_soft:) I will not come back to TT Biggest Thanks to @pacy_fire❤️
     location: "Norway"
-    followers: 2238
-    engagement: 1892
-    commentsToLikes: 0.069912
-    id: cka87bnaw67l40i78v4rlxmca
+    followers: 11700
+    engagement: 2328
+    commentsToLikes: 0.231250
+    id: cka84sgvfvbt50i78barvyac1
     verified: false
-    hashtags: "#fifa20"
-  - username: "karokul"
+    hashtags: "#foryou, #foruyou, #pacybitsfut20, #4yy"
+  - username: "whotfispixie"
     fullname: >-
-      K A R O L I N E
+      {5.7k} C hasent noticed🥺💕
+    bio: >-
+      𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙 𝙍𝙖𝙮𝙣𝙖 𝙄𝙡𝙮
     location: "Norway"
-    followers: 182092
-    engagement: 2342
-    commentsToLikes: 0.019538
-    id: cka0jyp18k6620i780itv4hjq
+    followers: 5578
+    engagement: 1865
+    commentsToLikes: 0.090909
+    id: ckbfflyg2aeao0j231wt0oihn
     verified: false
-    hashtags: "#minime, #clothes, #momdad, #meangirls"
-  - username: "emoji.herr"
+    hashtags: "#taggcharli, #fyp, #charlidamelio, #react"
+  - username: "zodiac_if"
     fullname: >-
-      TUSENTAKK for 3000!!
+      Astrology🌙✨
+    bio: >-
+      Zodiac signs💕
     location: "Norway"
-    followers: 3002
-    engagement: 2330
-    commentsToLikes: 0.189351
-    id: ck9rlshsrzj9b0j788tkhb6db
+    followers: 114600
+    engagement: 1746
+    commentsToLikes: 0.042537
+    id: ckdck3zyhm51r0j23i9tzl3t6
     verified: false
-    hashtags: "#foryoupagethisplease, #foryoupagethis, #foryoupag, #mat"
-  - username: ".simplynorrisnutsfan"
+    hashtags: ""
+  - username: "oula__49"
     fullname: >-
-      Yasmin😤💕
+      قشطة🥺💕🧸😂
+    bio: >-
+      20.6.2020💘🥺 بلعب بوبجي🌚😜 عاشقة الشاورما🌯😋 بنت سوريا وبفتخر😌 لولو🙈💕
     location: "Norway"
-    followers: 3108
-    engagement: 2083
-    commentsToLikes: 0.142176
-    id: ck9po8erhiacp0j78wblyzg5j
+    followers: 3313
+    engagement: 1596
+    commentsToLikes: 0.263037
+    id: ckb18qpp2wmcp0j23m0h0fid2
     verified: false
-    hashtags: "#sabre, #trollingtroop, #roblox, #edit"
-  - username: "billie.is.best.3"
+    hashtags: "#arab"
+  - username: "mayantr"
     fullname: >-
-      🖤Billie Eilish fan
+      May-An
+    bio: >-
+      Started as a joke, now im the joke Check out my yt & ig❤️
     location: "Norway"
-    followers: 2253
-    engagement: 1816
-    commentsToLikes: 0.075488
-    id: ckae1vcbkqrtp0i78zdl8pn3m
+    followers: 512400
+    engagement: 2193
+    commentsToLikes: 0.016430
+    id: ckbqp2nck9w6j0j2389bpvq0n
     verified: false
-    hashtags: "#day1, #4youpage, #icecream, #draw"
-  - username: "bccps4"
+    hashtags: "#food, #asian, #foryou, #workout"
+  - username: "supernyttnrk"
     fullname: >-
-      BccPs4
+      nrksupernytt
+    bio: >-
+      Her får du: 🎥 NYHETER 🌟 UNDERHOLDNING +++
     location: "Norway"
-    followers: 31853
-    engagement: 1145
-    commentsToLikes: 0.118658
-    id: ck9nsncxaeg780j78eaux0qlz
-    verified: false
-    hashtags: "#fortniteluck, #book, #flipbook, #spongebob"
-  - username: "marcusandmartinus"
-    fullname: >-
-      Marcus & Martinus
-    location: "Norway"
-    followers: 4145138
-    engagement: 1430
-    commentsToLikes: 0.024495
-    id: ck83zanrpz6ws0j784dnjwaru
+    followers: 161100
+    engagement: 1643
+    commentsToLikes: 0.042219
+    id: ckbagnz1t8kog0j23k2womito
     verified: true
-    hashtags: "#duet, #oursong, #twins, #singing"
+    hashtags: "#maskoramadansen"
+  - username: "im.frosty"
+    fullname: >-
+      20k????
+    bio: >-
+      Goal 20k🤪 Epic ExOTiC_Fr0sty ExOTiC clan
+    location: "Norway"
+    followers: 14600
+    engagement: 1510
+    commentsToLikes: 0.106161
+    id: ckbeok41d4pqv0j238ylxmv8k
+    verified: false
+    hashtags: "#foyoupage, #16k, #15k, #foryou"
 ---

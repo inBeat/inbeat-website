@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Sydney In 2020
 description: >-
-  Find top gaming Instagram influencers in Sydney in 2020. Most popular hashtags: #gaming #gamer #youtube #stayhome.
+  Find top gaming Instagram influencers in Sydney in 2020. Most popular hashtags: #gamer #gaming #streamer #twitch.
 platform: Instagram
+hits: 6
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 6 Instagram influencers like this in Sydney, Australia for you to collaborate.
 profiles:
-  - username: "twanvangendt"
-    fullname: >-
-      Twan van Gendt
-    location: "Australia"
-    followers: 34477
-    engagement: 794
-    commentsToLikes: 0.010132
-    id: ck0tz0r1pooup0i1964fjvcp0
-    verified: true
-    hashtags: "#workhard, #rosmalen, #bakerstreetboys, #blueshoes"
   - username: "infamousbylaura"
     fullname: >-
       Laura Gilbert 🖤
+    bio: >-
+      ♦️ I like to dress up💁🏼‍♀️ Twitch affiliate🎮 🇦🇺 Sydney 📦 PO BOX 924, Ryde, NSW, 1680, Australia 📸 @lauragbert ⬇️ TWITCH, ETSY, YOUTUBE, WISHLIST ⬇️
     location: "Australia"
-    followers: 276187
-    engagement: 387
-    commentsToLikes: 0.009156
+    followers: 266622
+    engagement: 338
+    commentsToLikes: 0.008294
     id: ck8t1n49rwb5w0j784dy1f5fd
     verified: false
-    hashtags: "#twitchaffiliate, #catwomancostume, #pokemoncosplay, #wishlist"
-  - username: "chookie_tran"
+    hashtags: "#birdsofprey, #pinupgirl, #halloween, #twitchstreamer"
+  - username: "mandyserafina"
     fullname: >-
-      Chook Tran
+      Mandy Serafina Xiao
+    bio: >-
+      廖婷月 Chinese Indonesian Australian @google ambassador #teampixel @xiao_gaming Gaming account
     location: "Australia"
-    followers: 5242
-    engagement: 657
-    commentsToLikes: 0.019965
-    id: ck13ads6tpw660i19pcf5ojup
+    followers: 219673
+    engagement: 164
+    commentsToLikes: 0.016285
+    id: ck6ts6muc31yh0j712o5pc9z9
     verified: false
-    hashtags: "#virago, #toyota, #lexus, #likeaboss"
+    hashtags: "#teampixel, #arcispartner, #madmex, #circlednastory"
   - username: "supanovaexpo"
     fullname: >-
       Supanova Comic Con & Gaming 💥
+    bio: >-
+      It's comic con, down under! #Supanova Next Stop 🚀 Sydney & Perth #Sydnova #Perthnova
     location: "Australia"
     followers: 44070
     engagement: 214
     commentsToLikes: 0.024894
     id: ck0tyncg1ndnt0i192iloqpnv
     verified: false
-    hashtags: "#gaming, #crowley, #mmpr, #tntl"
+    hashtags: "#supanova, #perth, #marvel, #voiceactor"
+  - username: "fhm_australia"
+    fullname: >-
+      FHM Australia
+    bio: >-
+      Australian edition of FHM magazine. It’s a guy thing.
+    location: "Australia"
+    followers: 33860
+    engagement: 78
+    commentsToLikes: 0.016262
+    id: ck5he4chnqzit0i11gvt2suuy
+    verified: false
+    hashtags: "#itsaguything, #magazine, #mensfashion, #menstyle"
+  - username: "jasminfoxe"
+    fullname: >-
+      •♡°🌸 Baby Spice 🌸°♡•
+    bio: >-
+      👽 The Australian Alien 🎮 Twitch Partner 🌸 I'll be your waifu 🍥 Email for business enquiries 💕 @jasminfoxey
+    location: "Australia"
+    followers: 81749
+    engagement: 505
+    commentsToLikes: 0.021393
+    id: ck5hhzr6tawkh0i1142eeaoak
+    verified: false
+    hashtags: "#cute, #tiktok, #coolshirtz, #girlgamer"
   - username: "brabhamauto"
     fullname: >-
       Brabham Automotive
+    bio: >-
+      Round 2 of the Dunlop Britcar E-Series
     location: "Australia"
     followers: 22761
     engagement: 789
     commentsToLikes: 0.007084
     id: ck138io8qgejo0i19k76z2oro
     verified: false
-    hashtags: "#jackbrabham, #sirjackbrabham, #supercardriver, #grid2"
-  - username: "sammyfosgaming"
+    hashtags: "#brabhambt62, #carsofinstagram, #performancebydesign, #champions"
+  - username: "tellmekimy"
     fullname: >-
-      SammyFosGaming
+      𝔎𝔦𝔪𝔶-𝔠𝔥𝔲 🛸✨
+    bio: >-
+      👁👅👁 𝔉𝔯𝔢𝔫𝔠𝔥 𝔖𝔥𝔞𝔭𝔢𝔰𝔥𝔦𝔣𝔱𝔢𝔯 Curvy Cosplayer × Gaming × Model ——— ♥ Join my Chu Gang & Support my content ⤵
     location: "Australia"
-    followers: 2937
-    engagement: 2701
-    commentsToLikes: 0.134956
-    id: ck8t46gub5o270j78zp7r42um
+    followers: 137047
+    engagement: 229
+    commentsToLikes: 0.030572
+    id: ck9wdn270gfbg0j78csnpje0y
     verified: false
-    hashtags: "#showmeyourstack, #lofihiphop, #ptcgame, #spidermanps4"
-  - username: "zoetwodots"
+    hashtags: "#koreandrama, #dokkanbattle, #starwarscosplay, #fashion"
+  - username: "mandyserafina"
     fullname: >-
-      Zoë
+      Mandy Serafina Xiao
+    bio: >-
+      廖婷月 Chinese Indonesian Australian @google ambassador #teampixel @xiao_gaming Gaming account
     location: "Australia"
-    followers: 35476
-    engagement: 832
-    commentsToLikes: 0.016348
-    id: ck0u0y1zxv9kv0i19k4j5c58z
+    followers: 219673
+    engagement: 164
+    commentsToLikes: 0.016285
+    id: ck6ts6muc31yh0j712o5pc9z9
     verified: false
-    hashtags: "#unboxing, #newcastle, #acnhswitch, #minccino"
+    hashtags: "#teampixel, #arcispartner, #madmex, #circlednastory"
+  - username: "angus_ol"
+    fullname: >-
+      ANGUS  O'LOUGHLIN
+    bio: >-
+      RADIO🎙 @hitweekendbreakfast PODCAST🎤 @ListenABLE_Podcast GAMING 🎮 @angus_ol_gaming MGMT💰 Angus.OLoughlin@sca.com.au 👇🏼 PODCAST LINK 👇🏼
+    location: "Australia"
+    followers: 34853
+    engagement: 513
+    commentsToLikes: 0.036968
+    id: ck14i8lvne6pu0i19ejloz4am
+    verified: true
+    hashtags: "#streamer, #youtube, #videogames, #twitchstreamer"
   - username: "2busygamers"
     fullname: >-
       2 BusyGamers, Neil  🇦🇺
+    bio: >-
+      Please check out @lufia_iris page, the other half of 2busygamers. We are Aussie collectors of all things gaming. Check out our tag #gamersoftheworld
     location: "Australia"
-    followers: 6704
-    engagement: 503
-    commentsToLikes: 0.088775
+    followers: 6483
+    engagement: 451
+    commentsToLikes: 0.087081
     id: ck8tctwzw0nzb0j78qrqwm5w3
     verified: false
-    hashtags: "#capcom, #doom, #switchfamm, #persona5royal"
-  - username: "mr.nagy"
-    fullname: >-
-      Steven N -  Class Act Images
-    location: "Australia"
-    followers: 6546
-    engagement: 1643
-    commentsToLikes: 0.007009
-    id: ckap4qib58f2s0i787pr18jpj
-    verified: false
-    hashtags: "#status2020"
-  - username: "cassiedakota"
-    fullname: >-
-      🌸 c a s s i e 🌸
-    location: "Australia"
-    followers: 15484
-    engagement: 571
-    commentsToLikes: 0.062205
-    id: ck0tuax826du40i19ys29g0d7
-    verified: false
-    hashtags: "#sudio, #sudiomoments, #oscarwylee, #sonyfoundation"
+    hashtags: "#ubisoftaustralia, #gameseries, #jrpg, #retrogames"
 ---

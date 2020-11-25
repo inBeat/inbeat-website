@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes TikTok Influencers In Chicago In 2020
 description: >-
-  Find top athletes TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #coronavirus #baseball #fail.
+  Find top athletes TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #athlete #sports #foryou.
 platform: TikTok
+hits: 15
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 15 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "keshawnalmighty"
+  - username: "trevorfahnstrom"
     fullname: >-
-      Keshawn Unseld
+      Trevor Fahnstrom
+    bio: >-
+      Actor | Athlete Chicago, IL NEW VIDEOS DAILY🔥 📩: trevorafahnstrom@gmail.com
     location: "United States"
-    followers: 166414
-    engagement: 2878
-    commentsToLikes: 0.019402
-    id: ck8s75hamnqt70j78u5r5i3cy
+    followers: 58900
+    engagement: 2097
+    commentsToLikes: 0.037837
+    id: ck9skxl9xb2ui0j783zmm4l6v
     verified: false
-    hashtags: "#splash, #feelings, #bulletproof, #baseball"
-  - username: "jlondadon"
+    hashtags: "#sports, #funny, #mlb, #election"
+  - username: "thatschoolcounselor"
     fullname: >-
-      JLonDaDon
+      Thatschoolcounselor
+    bio: >-
+      💛 High School Counselor💛 Follow my IG for more info @thatschoolcounselor
     location: "United States"
-    followers: 16428
-    engagement: 1644
-    commentsToLikes: 0.058563
-    id: cka0hrby7adsk0i78nxxpwauy
+    followers: 84200
+    engagement: 1040
+    commentsToLikes: 0.028450
+    id: ck9rgy6iwd0t80j78xr0yiehr
     verified: false
-    hashtags: "#5mins, #feelings, #pillsandpotions, #schoollife"
-  - username: "aewaiz"
+    hashtags: "#money, #thatschoolcounselor, #fyp, #fafsa"
+  - username: "fidelpittss"
     fullname: >-
-      awaiz
+      Fidelpittss
+    bio: >-
+      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴17🧞‍♂️🪐BARBER💈 👻@sniper.del
     location: "United States"
-    followers: 7253
-    engagement: 1385
-    commentsToLikes: 0.043359
-    id: cka0ujogeumcc0i78xyh47kh6
+    followers: 314400
+    engagement: 1795
+    commentsToLikes: 0.015204
+    id: ckac3lagfbml40i780iuj0xaa
     verified: false
-    hashtags: "#quarantine, #bathroom, #foryou, #homework"
-  - username: "fantasyfreaks"
+    hashtags: "#viral, #duet, #fyp, #comment"
+  - username: "h_krup44"
     fullname: >-
-      The Fantasy Freaks
+      Hayden K
+    bio: >-
+      goodbye tiktok follow my insta @h.krup44 follow please!
     location: "United States"
-    followers: 373592
-    engagement: 2299
-    commentsToLikes: 0.048416
-    id: ck8kdxp347vb40j78y6k56epp
+    followers: 2409
+    engagement: 957
+    commentsToLikes: 0.098704
+    id: ck98r83va9gtb0j78av0tgcgp
     verified: false
-    hashtags: "#wisconsin, #momsoftiktok, #pancakecereal, #julio"
-  - username: "cpmillie"
+    hashtags: "#duet, #4upg, #xyzcba, #sports"
+  - username: "seny_acro_"
     fullname: >-
-      ur fav baller
+      seny_acro_
+    bio: >-
+      https://beasttribe.com/workout-programs/ Follow my IG 👉 @senyacro🤸🏾‍♂️
     location: "United States"
-    followers: 20175
-    engagement: 1882
-    commentsToLikes: 0.048304
-    id: ck9rihf96jttb0j78laxs6do5
+    followers: 19600
+    engagement: 1413
+    commentsToLikes: 0.028823
+    id: ckceibj3lqhh70j230vxhf6dn
     verified: false
-    hashtags: "#killyourvibe, #happyeaster, #decadesofhair, #werkitfromhome"
-  - username: "thatboyziyon"
+    hashtags: "#circus, #healthyliving, #motivation, #fashionessentials"
+  - username: "ran_stoppable"
     fullname: >-
-      DURAG ZIYON 🤍
+      Rania 🇩🇿
+    bio: >-
+      🇩🇿🇩🇿 in chicagooooo
     location: "United States"
-    followers: 34547
-    engagement: 1219
-    commentsToLikes: 0.054511
-    id: ck9jw84llvfh90j78x2ijssul
+    followers: 5165
+    engagement: 665
+    commentsToLikes: 0.061639
+    id: ckd5wp59hzx0j0j23gxofl3py
     verified: false
-    hashtags: "#decadesofhair, #funny, #baseball, #werkitfromhome"
-  - username: "that.hockey.fan"
+    hashtags: "#friends, #algeria, #foryou, #northafrican"
+  - username: "luisauceee"
     fullname: >-
-      That Hockey Fan
+      Luisauceee
+    bio: >-
+      Like it up ⬇️⬇️⬇️ Road to 30k 🤩 Chicago 🌃
     location: "United States"
-    followers: 14386
-    engagement: 1589
-    commentsToLikes: 0.053081
-    id: cka656fdsbpmq0i78shm23qmt
+    followers: 28900
+    engagement: 1496
+    commentsToLikes: 0.018418
+    id: ckcdkeod399nh0j23zzrxjwdj
     verified: false
-    hashtags: "#funnuy, #chicago, #like4like, #cookinghacks"
-  - username: "fanaticsview"
+    hashtags: "#sad, #funny, #girlfriend, #fyp"
+  - username: "theylovejue"
     fullname: >-
-      Fanatics View
+      Jadennn
+    bio: >-
+      16 | Chicago📍 Im 5 hunnet degrees🙂
     location: "United States"
-    followers: 7829
-    engagement: 564
-    commentsToLikes: 0.010588
-    id: ck90r1vtrkoo80j78f6zk2plr
+    followers: 8131
+    engagement: 1235
+    commentsToLikes: 0.027033
+    id: ckbqcf7payq590j23xxy5gfv4
     verified: false
-    hashtags: "#vibewithme, #warriors, #lacrosse, #baseballlife"
-  - username: "scottysportstakes"
+    hashtags: "#foruyou, #comment, #foryourpage, #xyzbca"
+  - username: "allsportsbest"
     fullname: >-
-      ScottySportsTakes
+      All Sports Best
+    bio: >-
+      Thanks for joining us on this wild journey!
     location: "United States"
-    followers: 19122
-    engagement: 1950
-    commentsToLikes: 0.043986
-    id: cka6kv2sd0kl40i78a7r5hveo
+    followers: 10700
+    engagement: 1093
+    commentsToLikes: 0.016667
+    id: ckbl45g6z1m2j0j23b3u5ubhg
     verified: false
-    hashtags: "#streaming, #zoom, #drewbrees, #nfceast"
-  - username: "urgalellie13"
+    hashtags: "#athlete, #baseball, #sports, #putting"
+  - username: "nyclouthousee"
     fullname: >-
-      Ellie Marie
+      New York Gang wya
+    bio: >-
+      Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
     location: "United States"
-    followers: 2053
-    engagement: 952
-    commentsToLikes: 0.027841
-    id: ck999uea8ejd90j78uog0yvwt
+    followers: 26000
+    engagement: 1620
+    commentsToLikes: 0.070280
+    id: cka9kz60b17ur0i782wbhmp7m
     verified: false
-    hashtags: "#quarentine, #trauma, #greenscreen, #full180"
+    hashtags: "#foryou, #xyzbca, #518, #607"
 ---

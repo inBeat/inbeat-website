@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top beauty Instagram influencers in Lisbon in 2020. Most popular hashtags: #makeup #staysafe #pink #happyeaster.
+  Find top beauty Instagram influencers in Lisbon in 2020. Most popular hashtags: #beauty #portugal #fashion #makeup.
 platform: Instagram
+hits: 35
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 35 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
 profiles:
+  - username: "_vitoriamota"
+    fullname: >-
+      Vitória Mota
+    bio: >-
+      @lagence_lisboa @nextmodels
+    location: "Portugal"
+    followers: 54055
+    engagement: 384
+    commentsToLikes: 0.034453
+    id: ck0vxre5m0c0z0i19deeooo6e
+    verified: false
+    hashtags: "#fashion, #skin, #cool, #styling"
+  - username: "susanachaves"
+    fullname: >-
+      Susana Persson Chaves
+    bio: >-
+      👩🏻‍✈️Captain-in-chief 🌴 @mirandabysapo & ✈️ @Beauty_Airlines 💋 #BeautyAddict 👉🏻 #FlightModeBeauty Early adopter. Late bloomer. Life hacker.
+    location: "Portugal"
+    followers: 12152
+    engagement: 159
+    commentsToLikes: 0.034316
+    id: ck5c5eg5r3bft0i114fg1lyfq
+    verified: false
+    hashtags: "#igtopshelfie, #onmyshelf, #home, #mirandabysapo"
   - username: "joanamoreira_makeup"
     fullname: >-
       Joana Moreira_makeup
+    bio: >-
+      Beauty Makeup Artist 🇵🇹// Lisbon Celebrity / Beauty / Campaign / Brides Tutoriais aos Sábados 🙌🏼
     location: "Portugal"
-    followers: 22092
-    engagement: 373
-    commentsToLikes: 0.083298
+    followers: 25130
+    engagement: 434
+    commentsToLikes: 0.122618
     id: ck9h9qk9x9kew0j78npxs9q1j
     verified: false
-    hashtags: "#hair, #sparkleeffect, #editorialmakeup, #face"
-  - username: "rutesimao"
+    hashtags: "#makeuplisbon, #makeupartistlisbon, #makeupportugal, #makeuplisboa"
+  - username: "lord_vladbathory"
     fullname: >-
-      RUTE SIMÃO
+      𝘙𝘖𝘋𝘙𝘐𝘎𝘖 𝘎𝘖𝘕Ç𝘈𝘓𝘝𝘌𝘚
+    bio: >-
+      A boy obsessed with beauty💄 𝘔𝘢𝘬𝘦𝘶𝘱 | 𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 | 𝘍𝘢𝘴𝘩𝘪𝘰𝘯 📍Lisbon,Portugal 🇵🇹 📩 rodrigo14@live.com.pt 👇YOUTUBE, ARGENTMAKEUP, TTDEYE👇
     location: "Portugal"
-    followers: 14768
-    engagement: 956
-    commentsToLikes: 0.541296
-    id: ck0tybitomaou0i19lvaih9nb
+    followers: 5618
+    engagement: 870
+    commentsToLikes: 0.148945
+    id: ck6tx83ujwcya0j71af0no11j
     verified: false
-    hashtags: "#winterootd, #juntossomosmais, #outfitchallenge, #mapifulsecret"
-  - username: "ineescosta"
+    hashtags: "#horrorhags, #spookyseason, #31daysofhalloweenmakeup, #halloweenmakeupideas"
+  - username: "evandromgomes_"
     fullname: >-
-      Inês Costa| Lifestyle
+      Evandro Gomes
+    bio: >-
+      | On God | Seeker en @oblackcaps
     location: "Portugal"
-    followers: 45179
-    engagement: 443
-    commentsToLikes: 0.039029
-    id: ck0vx7dbfxig30i19tbikrl6u
+    followers: 4835
+    engagement: 1972
+    commentsToLikes: 0.017567
+    id: ck5c7657f6w7l0i116t4tw5gg
     verified: false
-    hashtags: "#pub, #edi, #coffeechallenge, #coffee"
+    hashtags: "#modamasculina, #men, #instaphoto, #beauty"
+  - username: "alicetrewinnard"
+    fullname: >-
+      Alice Trewinnard
+    bio: >-
+      From Lisbon, Portugal Fashion, beauty & healthy living Represented by @Notable.pt ALICE TREWINNARD X CATA VASSALO SHOP NOW!
+    location: "Portugal"
+    followers: 250312
+    engagement: 872
+    commentsToLikes: 0.091161
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#cas, #portugal, #lorealparispub, #wells"
+  - username: "torysmithphoto"
+    fullname: >-
+      Tory Smith | Photographer
+    bio: >-
+      Fashion, Beauty & Advertising #Photographer London | Lisbon
+    location: "Portugal"
+    followers: 17338
+    engagement: 263
+    commentsToLikes: 0.071880
+    id: ck6tp7i5ri9bf0j71cfhdud4a
+    verified: false
+    hashtags: "#caparica, #beauty, #makeupartist, #portrait"
+  - username: "brunagaliano_"
+    fullname: >-
+      Bruna Galiano
+    bio: >-
+      Lifestyle, beauty and fashion 📍Lisbon Real estate agent/ Remax 📧 brunagaliano@hotmail.com
+    location: "Portugal"
+    followers: 8691
+    engagement: 1021
+    commentsToLikes: 0.017497
+    id: ck8tb4ctxu7ub0j78jl5614zn
+    verified: false
+    hashtags: "#curls, #beautiful, #tb, #blackouttuesday"
   - username: "thepinkelephantshoe"
     fullname: >-
-      Cátia Rodrigues
+      Cátia Rodrigues
+    bio: >-
+      Beauty & Lifestyle Blogger 🌸 Lisbon 📍 I truly believe that our skin should glow as much as our soul ✨ 💌 thepinkelephantshoe@gmail.com NOVO POST👩🏼‍💻👇🏻
     location: "Portugal"
-    followers: 19660
-    engagement: 763
-    commentsToLikes: 0.664124
+    followers: 19572
+    engagement: 619
+    commentsToLikes: 0.671275
     id: ck0vv7ejrnvfu0i19lj715hn8
     verified: false
-    hashtags: "#neutrogenapt, #cellularboost, #eyestories, #cuidadoslabiais"
-  - username: "marianacardia"
+    hashtags: "#skincare, #giveaway, #passatempo, #skinpt"
+  - username: "misscasimiro"
     fullname: >-
-      Mαяιαηα 🌹
+      Mädchen
+    bio: >-
+      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
     location: "Portugal"
-    followers: 15273
-    engagement: 653
-    commentsToLikes: 0.131552
-    id: ck8t6uh2eeqch0j78kg2sj6w0
+    followers: 9604
+    engagement: 1786
+    commentsToLikes: 0.066591
+    id: ck9hb1xoaf15l0j789k7x4783
     verified: false
-    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
-  - username: "jufcarreira"
-    fullname: >-
-      ju
-    location: "Portugal"
-    followers: 63667
-    engagement: 185
-    commentsToLikes: 0.037232
-    id: ckap80d5ymaj60i78bqtco3d5
-    verified: true
-    hashtags: "#weekend, #sunday, #mobilephotography, #happyearthday"
-  - username: "tarlajb"
-    fullname: >-
-      Tarla Barbosa
-    location: "Portugal"
-    followers: 28237
-    engagement: 129
-    commentsToLikes: 0.029793
-    id: ck55j31a2w5710i11jw6lnuzb
-    verified: false
-    hashtags: "#nature, #hithelookface, #satindress, #roupasfemininas"
-  - username: "anneachim"
-    fullname: >-
-      Ana Achim
-    location: "Portugal"
-    followers: 11481
-    engagement: 940
-    commentsToLikes: 0.013858
-    id: ck5hqkdgyt8vx0i115jx1s3qy
-    verified: false
-    hashtags: "#girls, #lisboaportugal, #algarveportugal, #bookstagrammer"
-  - username: "dr_marta_beauty"
-    fullname: >-
-      ✨ THE ART OF CREATING BEAUTY ✨
-    location: "Portugal"
-    followers: 38640
-    engagement: 146
-    commentsToLikes: 0.209021
-    id: ck6u70lbhirwx0j71rhw2a3ho
-    verified: false
-    hashtags: "#repost, #gorgeous, #keepsafe, #newbeginnings"
-  - username: "carinacaldeira_"
-    fullname: >-
-      Carina Caldeira
-    location: "Portugal"
-    followers: 58116
-    engagement: 162
-    commentsToLikes: 0.055141
-    id: ck5cdqiqrjlzo0i11j8hrqino
-    verified: true
-    hashtags: "#wheatandrose, #happyeaster, #glitterlifephotography, #fashion"
+    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
 ---

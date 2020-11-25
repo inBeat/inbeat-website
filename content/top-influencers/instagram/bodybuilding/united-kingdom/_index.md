@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in United Kingdom in 2020. Most popular hashtags: #bodybuilding #homeworkout #gymmotivation #nike.
+  Find top bodybuilding Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gymlife #bodybuilding #fitness #motivation.
 platform: Instagram
+hits: 185
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 185 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "keaton_fit"
-    fullname: >-
-      K E A T O N
-    location: "United Kingdom"
-    followers: 5325
-    engagement: 1201
-    commentsToLikes: 0.097626
-    id: ckaos1g2qpq4f0i78dbwenfsq
-    verified: false
-    hashtags: ""
   - username: "marc__hector"
     fullname: >-
       Marc Hector - IFBB PRO
+    bio: >-
+      2018 Amateur ⭕️lympia Overall Bodybuilding Champion🇬🇧🗡 🔴Online coach 🌍 🔴@eazyegguk Marc10 🔴Team @abdullah_fs_alotaibi 🔴BSc(Hons)Sports Science
     location: "United Kingdom"
-    followers: 22916
-    engagement: 593
-    commentsToLikes: 0.051829
+    followers: 39256
+    engagement: 757
+    commentsToLikes: 0.040512
     id: ck5zua4hg1z1i0i14ida9l2nt
     verified: false
-    hashtags: "#dontrush, #covi, #circuittraining, #ifbb"
-  - username: "mihaloglou_"
-    fullname: >-
-      Nikolas Mihaloglou🇬🇷
-    location: "United Kingdom"
-    followers: 31018
-    engagement: 1177
-    commentsToLikes: 0.018267
-    id: ckap38kia20630i78n7lnxu37
-    verified: false
-    hashtags: "#rome, #athlete, #night, #travelphotography"
+    hashtags: "#thebritishgrandprix"
   - username: "strebornad"
     fullname: >-
       Daniel Roberts
+    bio: >-
+      The stories of a boy named Dan 📸💁🏻‍♂️ 🧠 Neuroscientist | 🏋🏻‍♂️ Bodybuilding 🇬🇧 London ☺️🌈 Smile | Be happy 🥳
     location: "United Kingdom"
-    followers: 6254
-    engagement: 2199
-    commentsToLikes: 0.021223
+    followers: 24060
+    engagement: 2477
+    commentsToLikes: 0.028531
     id: ckap1eozru9yc0i78b5g3s8kf
     verified: false
-    hashtags: "#bearded, #picoftheday, #mexico, #gayboy"
+    hashtags: "#gayginger, #gaystagram, #musclebear, #gaymen"
   - username: "marco_dgo"
     fullname: >-
       Marco DaSquatto
+    bio: >-
+      28y.o | 193cm - 115kg | 6ft4 - 255lbs 🏋️ Bodybuilding Enthusiast 🛫 World Traveller 🏉 Rugby Fanatic 📈 Strategy Analyst 👨🏼‍🎓 MSc in Mgmt Graduate
     location: "United Kingdom"
-    followers: 14503
-    engagement: 473
-    commentsToLikes: 0.036159
+    followers: 14415
+    engagement: 324
+    commentsToLikes: 0.054365
     id: ck5he2verqr3i0i11babd5lzs
     verified: false
-    hashtags: "#dollypartonmemechallenge, #coldaf, #stayathome, #wednesdaymood"
+    hashtags: "#brothers, #noneedtoflexfriday, #dollypartonmemechallenge, #wisdomwednesday"
+  - username: "keaton_fit"
+    fullname: >-
+      K E A T O N   D O N N E L L Y
+    bio: >-
+      20 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow/Stirling 🎓 Bodybuilding
+    location: "United Kingdom"
+    followers: 6861
+    engagement: 448
+    commentsToLikes: 0.059749
+    id: ckaos1g2qpq4f0i78dbwenfsq
+    verified: false
+    hashtags: ""
+  - username: "itsmattlucas"
+    fullname: >-
+      MATT LUCAS
+    bio: >-
+      🇮🇪 Ireland Natural Bodybuilding & some Music Production "Falling For You (inPhase Remix)" out now:
+    location: "United Kingdom"
+    followers: 28727
+    engagement: 157
+    commentsToLikes: 0.023316
+    id: ck8t1okk5wg890j78z34h9n01
+    verified: false
+    hashtags: "#naturalbodybuilding, #covid19, #lockdown, #squintymcdrunkeyes"
+  - username: "jade.marie.wadman"
+    fullname: >-
+      Jade Marie Wadman ✨
+    bio: >-
+      • ￼Brighton • Owner of Stars Gymnastics Club 🌟 • Gym girl 🏋🏻‍♀️ Equestrian￼ 🏇🏻 ￼
+    location: "United Kingdom"
+    followers: 10380
+    engagement: 1570
+    commentsToLikes: 0.223700
+    id: ck6uh4bbv6wye0j71vrdlo1zc
+    verified: false
+    hashtags: "#woods, #gym, #fitfam, #outfitoftheday"
+  - username: "here.is.h"
+    fullname: >-
+      H Opris
+    bio: >-
+      📍 London 🇬🇧 Menswear | Fitness | Travel
+    location: "United Kingdom"
+    followers: 21440
+    engagement: 1450
+    commentsToLikes: 0.056170
+    id: ckaov49if2zdm0i78mi44mj2t
+    verified: false
+    hashtags: "#mensfashion, #upperbody, #workoutmotivation, #menshairstyle"
+  - username: "ciarafits"
+    fullname: >-
+      ciara
+    bio: >-
+      🤍 fit tips + workouts | fitness instructor 🦋 @myproteinuk 37% off code: CIARA 🤍 @hexxeeofficial: CIARA20 🦋↓myprotein link below!↓
+    location: "United Kingdom"
+    followers: 62339
+    engagement: 498
+    commentsToLikes: 0.055731
+    id: ck6tvawgal6a50j7140s0ccpu
+    verified: false
+    hashtags: "#girlswholift, #legday, #makinggains, #dyescrunchclub"
+  - username: "lippers01"
+    fullname: >-
+      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🖤
+    bio: >-
+      #mumma #girlsupport Hertfordshire 🏡 🇬🇧 Joey 👶🏼💙 DM / 📧 for collaboration (Discount codes in highlights) ‘𝓛𝓲𝓿𝓲𝓷𝓰 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓸𝓶𝓮𝓷𝓽’
+    location: "United Kingdom"
+    followers: 13784
+    engagement: 808
+    commentsToLikes: 0.511895
+    id: ck6tlsytd6l160j71fswhqfjb
+    verified: false
+    hashtags: "#gym, #cosy, #igdaily, #motivation"
   - username: "sc_figure"
     fullname: >-
       Sarah Cowin
+    bio: >-
+      🙋🏻‍♀️Fun, Fitness & Food ✨ 📍Sheffield 🇬🇧 🤓Physio | Online Coach | Account Mgmt
     location: "United Kingdom"
-    followers: 3407
-    engagement: 2831
-    commentsToLikes: 0.401740
+    followers: 6334
+    engagement: 961
+    commentsToLikes: 0.311762
     id: ckapcimrv3yne0i78op3a32bh
     verified: false
-    hashtags: "#mindsetmonday, #selfworth, #lifeisgood, #bodybuilder"
-  - username: "aycaakyol25"
-    fullname: >-
-      🧿🖤🌙A Y Ç A🌙🖤🧿
-    location: "United Kingdom"
-    followers: 6956
-    engagement: 1765
-    commentsToLikes: 0.130320
-    id: ckap4w2dg95640i78chx7qrfe
-    verified: false
-    hashtags: "#noexcuses, #instalike, #instafit, #fitness"
-  - username: "_golden_panther"
-    fullname: >-
-      𝗚𝗢𝗟𝗗𝗘𝗡 𝗣𝗔𝗡𝗧𝗛𝗘𝗥🐾
-    location: "United Kingdom"
-    followers: 24006
-    engagement: 495
-    commentsToLikes: 0.069546
-    id: ck5cbzfd2gfuc0i11u7ir14sj
-    verified: false
-    hashtags: "#gymgirl, #babes, #photography, #dance"
-  - username: "samfitnessgram"
-    fullname: >-
-      𝐒𝐚𝐦 𝐋𝐢𝐥𝐥𝐢𝐞 🇬🇧
-    location: "United Kingdom"
-    followers: 50157
-    engagement: 459
-    commentsToLikes: 0.047148
-    id: ck5zpb1jksc1m0i14sc6vw18x
-    verified: false
-    hashtags: "#bodypositive, #like, #healthyliving, #studio"
-  - username: "kirbyfiit_"
-    fullname: >-
-      ＫＩＲＢＹ🌺 || ＦＩＴＮＥＳＳ
-    location: "United Kingdom"
-    followers: 12162
-    engagement: 625
-    commentsToLikes: 0.299917
-    id: ckaoyu9rgj40l0i78svc4hqua
-    verified: false
-    hashtags: "#womensbestwear, #strongnotskinny, #myproteinwomen, #liftingladies"
+    hashtags: "#selfconfidence, #motivation, #musclebuilding, #balancedlife"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Canada In 2020
 description: >-
-  Find top music Instagram influencers in Canada in 2020. Most popular hashtags: #happiness #justinbieber #love #indenial.
+  Find top music Instagram influencers in Canada in 2020. Most popular hashtags: #cover #music #singer.
 platform: Instagram
+hits: 701
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 701 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "surauchie"
+  - username: "jocelyngallo_"
     fullname: >-
-      JON FINESSE 🍰
+      Jocelyn Grace Gallo
+    bio: >-
+      Rcss | Lets Dance ltd @bossdanceco Bend Dance Ambassador 2019 music video link below!!
     location: "Canada"
-    followers: 78603
-    engagement: 795
-    commentsToLikes: 0.041532
-    id: ck5q9egs6apex0i112fu223s8
-    verified: true
-    hashtags: "#savagechallenge"
-  - username: "hafeznazeri"
-    fullname: >-
-      Hafez Nazeri
-    location: "Canada"
-    followers: 207435
-    engagement: 1004
-    commentsToLikes: 0.031649
-    id: ck0tw0q8jdioq0i1904512vaz
-    verified: true
-    hashtags: "#iraniannewyear, #playguitar, #fridayvibes, #exciting"
-  - username: "dominosantantonio"
-    fullname: >-
-      Domino Santantonio
-    location: "Canada"
-    followers: 24692
-    engagement: 869
-    commentsToLikes: 0.031565
-    id: ck15rnw898u7i0i195p518mpq
+    followers: 2750
+    engagement: 2666
+    commentsToLikes: 0.164279
+    id: ck9wg4nporvr30j78if72gkcu
     verified: false
-    hashtags: "#yummy, #studio, #homestudio, #aimemoiencore"
-  - username: "canablissss"
+    hashtags: "#backtobrown, #redisthenewblack, #quarantine, #posted"
+  - username: "stephbullock"
     fullname: >-
-      canabliss
+      STEPHANIE BULLOCK
+    bio: >-
+      Ottawa 🤍 • Owner @stephbullockmakeup @goldenhourottawa • Partner @nursechelseythecosmeticclinic • Singer - Four Singles on Apple Music & Spotify
     location: "Canada"
-    followers: 28574
-    engagement: 557
-    commentsToLikes: 0.062129
-    id: ck6tui1qqgge10j71wraw9dy1
+    followers: 7462
+    engagement: 976
+    commentsToLikes: 0.122789
+    id: ckaoy48qqfzre0i7899ylhy4r
     verified: false
-    hashtags: ""
-  - username: "shayliasphere"
+    hashtags: "#homesweethome, #muchneeded, #golipartner, #thebodyshopca"
+  - username: "pleussitaa"
     fullname: >-
-      Shay Lia
+      Alessia Pleuss 🤓
+    bio: >-
+      📚|Psicología, música y paz @rdmodelosagencia 💋 18🧚🏼 🇵🇪 🇩🇪 Link de “ hoy le digo no” ⬇️⬇️ Mi primera canción
     location: "Canada"
-    followers: 18972
-    engagement: 735
-    commentsToLikes: 0.045589
-    id: ck5c527932kwr0i11s1kqe7uh
-    verified: true
-    hashtags: "#ritual, #mindfulness, #happiness, #indenial"
-  - username: "birdriot"
-    fullname: >-
-      Birdriot 🦩
-    location: "Canada"
-    followers: 31025
-    engagement: 740
-    commentsToLikes: 0.053834
-    id: ck9wgwk9cvavb0j7883wxfzrj
+    followers: 33746
+    engagement: 413
+    commentsToLikes: 0.069957
+    id: ck5q4uzfdqceb0i11ru9rv7x4
     verified: false
-    hashtags: "#popmusic, #newmusic, #portrait, #birdriot"
-  - username: "lilsthegeneral"
+    hashtags: "#studiolook, #publicidad, #northstarper, #influencer"
+  - username: "samanthanevesb"
     fullname: >-
-      Littles
+      
+    bio: >-
+      Singer/musician Management : @fredbaron2206 Mon single FAILLES/ My new single FAILLES Disponible maintenant
     location: "Canada"
-    followers: 20219
-    engagement: 381
-    commentsToLikes: 0.074682
-    id: ck5qazfnfj1z60i11k6yfccw2
+    followers: 21212
+    engagement: 427
+    commentsToLikes: 0.076504
+    id: ck15uhz4hna8b0i19dsocnjp6
     verified: false
-    hashtags: "#elitechoicemusicgroup, #cdmmusicgroup"
-  - username: "simrangillfilm"
-    fullname: >-
-      Simran Gill Films🎬
-    location: "Canada"
-    followers: 22062
-    engagement: 656
-    commentsToLikes: 0.039429
-    id: ck8tatznkt1vi0j78e151gws7
-    verified: false
-    hashtags: "#punjabifashion, #punjabistatus, #punjabijewelry, #punjabivines"
+    hashtags: "#instagram, #goodtimes, #musician, #cover"
   - username: "bradyjonesradio"
     fullname: >-
       Brady Jones
+    bio: >-
+      + Morning Hot Tub + Assistant Music Director + Stingray Hit List Countdown 📍MTL to OTT
     location: "Canada"
-    followers: 13625
-    engagement: 1277
-    commentsToLikes: 0.030209
+    followers: 13921
+    engagement: 1195
+    commentsToLikes: 0.030155
     id: ck5hgr1ar4ab50i11136hsv46
     verified: false
-    hashtags: "#readysteadywiggle, #wigglerforlife"
-  - username: "freakonmusic"
+    hashtags: "#readysteadywiggle, #wigglerforlife, #hotmaskie, #sociallydistancedadventures"
+  - username: "heliahomam"
     fullname: >-
-      FREAK ON
+      ❂ Helia ❂
+    bio: >-
+      .Singer and Song Writer . Music| Fashion | Beauty | Life Style 📍MTL “It Hurts So Much” is now available on Spotify.
     location: "Canada"
-    followers: 5534
-    engagement: 699
-    commentsToLikes: 0.253583
-    id: ck6tk4xqx40if0j7187u945qp
+    followers: 39667
+    engagement: 1137
+    commentsToLikes: 0.025910
+    id: ck9wj132l4tt00j784in1m8oz
     verified: false
-    hashtags: "#freakmode, #freaksquad"
+    hashtags: "#heliahomam, #singermtl, #fallvibes, #montreal2020"
+  - username: "danieladeizcue"
+    fullname: >-
+      DANIELA
+    bio: >-
+      ✍🏻 Cantautora 🎙 Vocal Coach 🇵🇪 Lima, Perú 🎶 Nueva música en proceso
+    location: "Canada"
+    followers: 8817
+    engagement: 682
+    commentsToLikes: 0.092649
+    id: ck134l4miwyhl0i192vbzbk1w
+    verified: false
+    hashtags: "#drums, #artist, #musician, #musica"
+  - username: "sebtsb"
+    fullname: >-
+      SEBASTIAN JAVIER
+    bio: >-
+      growing. can’t wait for you to hear this music i’ve been working on...
+    location: "Canada"
+    followers: 228983
+    engagement: 216
+    commentsToLikes: 0.079577
+    id: ck14juklbm9it0i19j1fv3wph
+    verified: true
+    hashtags: "#justinbieber, #10yearsofonedirection, #cover, #singing"
+  - username: "lilsthegeneral"
+    fullname: >-
+      Littles
+    bio: >-
+      Elite Choice Music Group | @DutchRevz @NmgSyph | Serial Entrepreneur | Multi Business Owner | Money Talks... Bullshit Walks... | Lets Make A Deal!
+    location: "Canada"
+    followers: 19478
+    engagement: 405
+    commentsToLikes: 0.073426
+    id: ck5qazfnfj1z60i11k6yfccw2
+    verified: false
+    hashtags: "#elitechoicemusicgroup, #cdmmusicgroup"
+  - username: "fardin_faryad_official"
+    fullname: >-
+      Fardin Faryad فردين فرياد
+    bio: >-
+      Composer / singer / musician / Music Producer from Kabul Afghanistan
+    location: "Canada"
+    followers: 22379
+    engagement: 368
+    commentsToLikes: 0.064029
+    id: ck6tjuqr13gmd0j71i8zb5yrq
+    verified: false
+    hashtags: "#kabul, #tolotv, #afghansongs, #newsong"
 ---

@@ -1,62 +1,77 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Colombia In 2020
 description: >-
-  Find top vegan Instagram influencers in Colombia in 2020. Most popular hashtags: #trend #photooftheday #makeuptutorial #portrait.
+  Find top vegan Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #amor #recetasveganas.
 platform: Instagram
+hits: 40
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 40 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "steffyofficial"
+  - username: "m.paulinamakeup"
     fullname: >-
-      Steffy Moreno
+      Maria Paulina  MAKE-UP GLITTER
+    bio: >-
+      GLITTERS & PIGMENTS✨ 🌟Cruelty Free & Vegan ☎️ (+57) 3136927502 para citas y pedidos 📍MED🛵Domicilios📦💕Envíos a todo el país
     location: "Colombia"
-    followers: 374862
-    engagement: 398
-    commentsToLikes: 0.027847
-    id: ck6udohjom9rk0j71tlc3a4qe
+    followers: 33042
+    engagement: 131
+    commentsToLikes: 0.016356
+    id: ck5zkpam5jwjt0i14hgrl8873
     verified: false
-    hashtags: "#tbt, #practicesocialdistancing, #practicadistanciamientosocial"
-  - username: "julysernatv"
-    fullname: >-
-      Juliana Serna 🧿
-    location: "Colombia"
-    followers: 27881
-    engagement: 187
-    commentsToLikes: 0.064293
-    id: ck6tipusx16w20j71nyjukrif
-    verified: false
-    hashtags: "#portrait, #funnyshit, #flashbackfriday, #selfquarantine"
+    hashtags: "#halloweenmakeup2020, #halloween2020, #halloweenmakeup"
   - username: "yesi.sanz"
     fullname: >-
       Mentora Vegana
+    bio: >-
+      Re-aprendamos a cocinar! Todo tiene su reemplazo #vegano y #crueltyfree 🌱🦍🌎♻️
     location: "Colombia"
-    followers: 8233
-    engagement: 616
-    commentsToLikes: 0.049356
+    followers: 13114
+    engagement: 503
+    commentsToLikes: 0.045505
     id: ck9wdeegaf9o70j7868eiqiyl
     verified: false
-    hashtags: "#pascualinays, #hamburguesasys, #seitanys, #dulcedelecheys"
+    hashtags: "#dulcedelecheys, #veganoyvegetariano, #hummusys, #comidavegana"
   - username: "joerasscourt"
     fullname: >-
       Joe R-C
+    bio: >-
+      🏠@lebikestop villa retreat 🚲@cannondaleroad @pasnormalstudios 📍Sitges/Andorra 🌱vegan 10yrs 🗣 🇬🇧🇫🇷🇪🇸🇪🇬 ✉️ joe@lebikestop.com
     location: "Colombia"
-    followers: 3869
-    engagement: 1988
-    commentsToLikes: 0.028649
+    followers: 3882
+    engagement: 2004
+    commentsToLikes: 0.028734
     id: ck5he9if7rrdk0i116hcf993d
     verified: false
-    hashtags: "#cyclingtaiwan, #triathlon, #siestatime, #sierranevada"
+    hashtags: "#cyclingcolombia, #outsideisfree, #gcn, #beautyofcycling"
+  - username: "camilajuradop"
+    fullname: >-
+      Camila Jurado | Actriz
+    bio: >-
+      • Colombian Actress 🎬 • Vegana 🌱 • Amor Propio y Salud Mental 🤍 . 🇨🇴 @armonikatalento 🇲🇽 @armonikamx . Contacto por DM
+    location: "Colombia"
+    followers: 252762
+    engagement: 360
+    commentsToLikes: 0.007200
+    id: ck13caez6zdy40i19bmb6zoa1
+    verified: false
+    hashtags: "#micuarentenamisreglas, #locura, #tb, #testdemichinalidad"
   - username: "terryhurtado"
     fullname: >-
       Terry Hurtado
+    bio: >-
+      Concejal de Cali 🌻Verde🌎💚 Ambientalista, activista por la liberación animal y luchador social. Ciencia y arte. Ciclista y vegan. 🐥🐴🐱
     location: "Colombia"
     followers: 7422
     engagement: 164
     commentsToLikes: 0.052520
     id: ck5hrs2h8vdsk0i11d26rgplu
     verified: false
-    hashtags: "#esmejorenbici, #movilidadsustentable, #fiavac, #yocomproconsciente"
+    hashtags: "#reddeemprendimientosconscientes, #porlacasacom, #solidaridadinterespecie, #encasaconterryalplandedesarrollo"
   - username: "lavozdegoyo"
     fullname: >-
       LA VOZ DE GOYO
+    bio: >-
+      GOYO POR SIEMPRE 🔴VEGANO PARA SIEMPRE🌱🌱🌱 🐷🐂🐶 POR ELLOS TODO 🌟 SANTUARIO PARA ANIMALES🐴 Cuenta única de donaciones: ahorros bancolombia 259-00014-573
     location: "Colombia"
     followers: 3760
     engagement: 507
@@ -64,44 +79,52 @@ profiles:
     id: ck5hp09zlqjad0i11g17c4t9j
     verified: false
     hashtags: ""
+  - username: "maca_bites"
+    fullname: >-
+      María Camila Mosos
+    bio: >-
+      ✧ desarollo recetas sanas con ingredientes reales + fotografía & video de alimentos ✧ talleres de cocina👩🏻‍🍳 ↡ Videos y posts exclusivos⬇️
+    location: "Colombia"
+    followers: 32246
+    engagement: 183
+    commentsToLikes: 0.036553
+    id: ck139icjglgd00i19q5x8y3jf
+    verified: false
+    hashtags: "#aguacate, #healthyfoodchoices, #glutenfreeeats, #postresaludable"
+  - username: "fancyfitfun"
+    fullname: >-
+      𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
+    bio: >-
+      ✩ 𝓜𝓸𝓶 ♙♟ ✩ ʜᴇᴀʟᴛʜʏ-ɪsʜ Fᴏᴏᴅɪᴇ ☜ ✩ ᴄʏɢʟᴏ ɪɴsᴛʀᴜᴄᴛᴏʀ ♬ ✩ ʙʟᴀᴄᴋʙᴏx ᴛʀᴀɪɴᴇʀ ۩ ✩ ʀᴜɴ 👣 \\ ɢᴏʟF ♩ ✩ ʟօʋɛʀ օʄ ʟɨʄɛ 🧿
+    location: "Colombia"
+    followers: 31181
+    engagement: 100
+    commentsToLikes: 0.006670
+    id: ck8t01ne6qj2w0j780tkp5wfu
+    verified: false
+    hashtags: "#yomequedoencasa, #foodie, #exercisemotivation, #sushi"
+  - username: "sarahschmidtinside"
+    fullname: >-
+      INSIDE BY SARAH
+    bio: >-
+      Diseñadora de Espacios Escenario Maestra de Vinyasa Krama Yoga Líder en Mindfulness Plant based 🌱 Contenido exclusivo aquí
+    location: "Colombia"
+    followers: 125573
+    engagement: 124
+    commentsToLikes: 0.017098
+    id: ck6u9fctbx8na0j71f6b9i5nw
+    verified: false
+    hashtags: "#newage, #onelove, #tattoo, #encasa"
   - username: "elcamus"
     fullname: >-
       Camus García Caballero
+    bio: >-
+      📍Barranquilla , Atlántico #CambiandoVidas🇨🇴 🌍♻️ 🛩🇨🇴: @vivaairco
     location: "Colombia"
-    followers: 164650
-    engagement: 729
-    commentsToLikes: 0.052396
+    followers: 271884
+    engagement: 926
+    commentsToLikes: 0.031758
     id: ck0w2v5uzqbg70i193a85gbjb
     verified: false
-    hashtags: "#veganbox, #viajandoconelcamus, #embajadordequillamienelmundo, #midisney"
-  - username: "_nekita_"
-    fullname: >-
-      𝕹𝖊𝖐𝖎𝖙𝖆 ƎA
-    location: "Colombia"
-    followers: 8459
-    engagement: 866
-    commentsToLikes: 0.090610
-    id: ck55m09pb2w3f0i11ywg17up9
-    verified: false
-    hashtags: "#blue, #pinknails, #lions, #photography"
-  - username: "tdelacierva"
-    fullname: >-
-      Teresa De La Cierva
-    location: "Colombia"
-    followers: 31278
-    engagement: 300
-    commentsToLikes: 0.157591
-    id: ck5c4y41x2cxn0i11r4u83g5s
-    verified: false
-    hashtags: "#juevessanto2020, #organicskincare, #anapoima, #stopcoronav"
-  - username: "zuzana_klingrova"
-    fullname: >-
-      Zuzana Klingrova
-    location: "Colombia"
-    followers: 27207
-    engagement: 600
-    commentsToLikes: 0.027077
-    id: ck14ilv5yg22q0i19wu5yhqi6
-    verified: false
-    hashtags: "#myyoga, #joga, #yogatime, #yogamat"
+    hashtags: "#experienciasvividas, #salejunior, #cambiandovidas, #saz"
 ---

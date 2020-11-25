@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top christian TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #california #tiktok #quarantine.
+  Find top christian TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #duet #foryou #christian.
 platform: TikTok
+hits: 18
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "xoxochlo_"
+  - username: "nicksaremi"
     fullname: >-
-      Chloë Crouso
+      Nick Saremi
+    bio: >-
+      Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 6175
-    engagement: 891
-    commentsToLikes: 0.021399
-    id: cka0y057j97yp0i781sy2t3pu
+    followers: 81700
+    engagement: 795
+    commentsToLikes: 0.028410
+    id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#trending, #indianamerican, #phototips, #glowup"
-  - username: "leosanchezlll"
+    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
+  - username: "adampreachez"
     fullname: >-
-      Leo Sanchez
+      Adam Zepeda
+    bio: >-
+      Follow me on IG and let’s study the Bible together! 🙏🏽
     location: "United States"
-    followers: 13835
-    engagement: 1024
-    commentsToLikes: 0.067591
-    id: cka0qsnc9dziz0i789jkmetv7
+    followers: 25500
+    engagement: 1429
+    commentsToLikes: 0.045997
+    id: ckbfbr93n41rs0j23romb6mw5
     verified: false
-    hashtags: "#christianmen, #biblestudy, #caredition, #dogwalk"
-  - username: "drtess90210"
+    hashtags: "#foryou, #contentforchrist, #faith, #bible"
+  - username: "dee_liamsworld"
     fullname: >-
-      Tess Washington, MD
+      Derrick Lansing
+    bio: >-
+      36, Single parent 👨‍👦, love my son,love to dance, love people. VLOGGER
     location: "United States"
-    followers: 37708
-    engagement: 1155
-    commentsToLikes: 0.040147
-    id: ck9fx9ddj5h2o0j783xki4q8b
+    followers: 3292
+    engagement: 811
+    commentsToLikes: 0.056329
+    id: ck9nidysngter0j787bgaohmd
     verified: false
-    hashtags: "#itsaremix, #saturday, #praying, #depression"
-  - username: "garibaldiarts"
+    hashtags: "#christian, #uglyswearter, #struggleisreal, #nativetiktoks"
+  - username: "jaevdevelopment"
     fullname: >-
-      David Garibaldi
+      jaevdevelopment
+    bio: >-
+      Duet videos. 21&up
     location: "United States"
-    followers: 1801453
-    engagement: 1761
-    commentsToLikes: 0.014892
-    id: ck807covmpvp90j78x35sgb8l
+    followers: 8691
+    engagement: 1315
+    commentsToLikes: 0.236243
+    id: ckdnub2cvmwvj0j23gzsbckr3
+    verified: false
+    hashtags: "#duet, #greenscreen, #cpoppers, #jaevdevelopment"
+  - username: "christianstockwell"
+    fullname: >-
+      Christian Stockwell
+    bio: >-
+      The Empath Coach💙 FREE 1-on-1 Coaching Session with me!🤯(Temporary)👇
+    location: "United States"
+    followers: 198900
+    engagement: 1511
+    commentsToLikes: 0.029408
+    id: ckc7wn294zpo30j23fqex7o8e
+    verified: false
+    hashtags: "#affirmation, #meditate, #5d, #loa"
+  - username: "lorensharice"
+    fullname: >-
+      LorenSharice
+    bio: >-
+      Broadway/TV/ actress, Register to vote! 🔽
+    location: "United States"
+    followers: 524700
+    engagement: 1737
+    commentsToLikes: 0.013325
+    id: ck8nbtduebbzg0j78u2cf7xm8
     verified: true
-    hashtags: "#latinamerica, #latina, #sickomode, #lionking"
-  - username: "sesleyh"
+    hashtags: "#biden2020, #election, #bidenharris2020, #darkskins"
+  - username: "tiktoktabora"
     fullname: >-
-      Sesley
+      Mrs. T
+    bio: >-
+      Follow me on IG & YouTube! Choir teacher 🎶
     location: "United States"
-    followers: 25291
-    engagement: 1581
-    commentsToLikes: 0.011038
-    id: ckaij0vnhcx340i78kzlx3i3q
+    followers: 20500
+    engagement: 1367
+    commentsToLikes: 0.040205
+    id: ckbq5mop1s13b0j2301fp2y3c
     verified: false
-    hashtags: "#brunch, #bananabread, #creperecipe, #neverfitin"
-  - username: "stinakayy"
+    hashtags: "#foryou, #fyp, #foryoupage, #duet"
+  - username: "krazaytay"
     fullname: >-
-      stina
+      Taylor Jordynn💞
+    bio: >-
+      NEED A FRIEND DM ME ON INSTA POSITIVITY✨ VENMO: taylorjordynn MGMT:Clickstalent
     location: "United States"
-    followers: 2099404
-    engagement: 1660
-    commentsToLikes: 0.011159
-    id: ck8vw2r2un7qy0j780hd8vlgv
-    verified: true
-    hashtags: "#losangeles, #greenscreen, #youtube, #tredding"
-  - username: "missgunn2u"
-    fullname: >-
-      Christina Gunn
-    location: "United States"
-    followers: 287296
-    engagement: 1691
-    commentsToLikes: 0.035329
-    id: ck8hlk2p2idsz0j78kbspshuc
+    followers: 478800
+    engagement: 1897
+    commentsToLikes: 0.018739
+    id: ck81s48aapvll0j78usrhcr13
     verified: false
-    hashtags: "#trolls, #react, #mykid, #vibe"
-  - username: "carbie_barbie"
+    hashtags: "#foryou, #viral, #fyp, #actofkindness"
+  - username: "ronthesneakergoat"
     fullname: >-
-      La Brujas Daughter
+      SneakerGoat
+    bio: >-
+      Sneaker head.21.Love God. ☝🏽SUBSCRIBE TO YOUTUBE☝🏽 👇🏽MERCH LINK👇🏽
     location: "United States"
-    followers: 12234
-    engagement: 507
-    commentsToLikes: 0.006008
-    id: cka0i7bfyce800i78vekr1nif
+    followers: 142100
+    engagement: 1594
+    commentsToLikes: 0.029711
+    id: ck9nfapdqe7bw0j78e6sw4np7
     verified: false
-    hashtags: "#twins, #arewethereyet, #tiktok2020, #partyboy"
-  - username: "christianlamn"
+    hashtags: "#nba, #fup, #espn, #anime"
+  - username: "blackglovex"
     fullname: >-
-      Christian
+      blackglovex
+    bio: >-
+      You R now joinin the BLK GLV❌ COMMUNITY - Videos we can share and talkabout
     location: "United States"
-    followers: 210496
-    engagement: 2408
-    commentsToLikes: 0.026669
-    id: ck8hpq1x50na10j78f47ai8gm
+    followers: 128100
+    engagement: 1027
+    commentsToLikes: 0.034576
+    id: cka0sjlizlqxb0i78glo7l0ni
     verified: false
-    hashtags: "#promlook, #radiorebel, #netflix, #rexorangecounty"
-  - username: "christianmelloo"
-    fullname: >-
-      Christian
-    location: "United States"
-    followers: 58218
-    engagement: 2226
-    commentsToLikes: 0.105486
-    id: ck8j5ywew7g3q0j782mnas79g
-    verified: false
-    hashtags: "#yoplaitcuprelay, #celebratenurses, #music, #ownthecurve"
+    hashtags: "#xyzbca, #airheadsditchchallenge, #animalfriends, #go"
 ---

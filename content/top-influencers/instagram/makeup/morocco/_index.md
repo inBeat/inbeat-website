@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Morocco In 2020
 description: >-
-  Find top makeup Instagram influencers in Morocco in 2020. Most popular hashtags: #love #beauty #beautiful #confinement.
+  Find top makeup Instagram influencers in Morocco in 2020. Most popular hashtags: #instagood #morocco #makeup #likeforlikes.
 platform: Instagram
+hits: 160
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 160 Instagram influencers like this in Morocco for you to collaborate.
 profiles:
-  - username: "rababe_gyd"
-    fullname: >-
-      • 𝐑𝐀𝐁𝐀𝐁𝐄 رباب 𝐆𝐘𝐃 ✨
-    location: "Morocco"
-    followers: 71941
-    engagement: 575
-    commentsToLikes: 0.089958
-    id: ck13c4148yigm0i19f13twd8n
-    verified: false
-    hashtags: "#honey, #stayingpositive, #cosmetics, #chocolatelover"
-  - username: "_weirrd"
-    fullname: >-
-      Stay Weird💲
-    location: "Morocco"
-    followers: 231151
-    engagement: 661
-    commentsToLikes: 0.013983
-    id: ck5hpomdsrpsc0i11ypwzjts2
-    verified: false
-    hashtags: "#mbs"
-  - username: "rim_bl"
-    fullname: >-
-      Rim BL Officiel | mua🇹🇳🇩🇿🇲🇦🇱🇾
-    location: "Morocco"
-    followers: 226188
-    engagement: 397
-    commentsToLikes: 0.017508
-    id: ck5hpo2dtrop10i11uapsmhbz
-    verified: false
-    hashtags: "#tb, #yezzy, #holic"
   - username: "sarah_abyak"
     fullname: >-
-      S A R O U N E T T E💄
+      Sarah_abyak
+    bio: >-
+      📍Casablanca🇲🇦 • Makeup & Beauty For Collaborations & Publicities : 📩saraaakouch25@gmail.com
     location: "Morocco"
-    followers: 41518
-    engagement: 146
-    commentsToLikes: 0.097506
+    followers: 34241
+    engagement: 206
+    commentsToLikes: 0.165321
     id: ck8taxalwtgj10j78pmcfnlgk
     verified: false
-    hashtags: "#maquiagem, #instagood, #eyeshadow, #beauty"
-  - username: "fatinatiskatofficiel"
-    fullname: >-
-      Fatina Tiskat 💄
-    location: "Morocco"
-    followers: 309288
-    engagement: 111
-    commentsToLikes: 0.028115
-    id: ck15sk41adeqh0i197ezr3u26
-    verified: false
-    hashtags: "#alhamdulillah, #makeuplover, #mama, #love"
+    hashtags: "#marocaine, #tangier, #pre, #caftanmarocain"
   - username: "zineb.snihji"
     fullname: >-
       Zineb.Snihji
+    bio: >-
+      📍Fes,Morocco 🇲🇦 Makeup addict💄✨ ♥️🇲🇦✨🌸 My YouTube channel 👇🏼
     location: "Morocco"
     followers: 79440
     engagement: 574
     commentsToLikes: 0.015347
     id: ckaowbrlt883e0i78zll6amqi
     verified: false
-    hashtags: "#skincareroutine, #skincare, #masque"
-  - username: "shaymaafatih"
+    hashtags: "#loveyourself, #confinement, #likeforfollow, #loveislove"
+  - username: "sheissafae"
     fullname: >-
-      s ʜ ᴀ ʏ ᴍ ᴀ ᴀ  🌘
+      S V F V E  |  ْصَ فَ آ ء
+    bio: >-
+      #Makeup_lover ✨ 👑 🇲🇦 🇩🇿🇹🇳🇱🇾🇪🇬 👻: safaeelwali98 💌: safaeelwali@gmail.com (only pr/collab) 📹: Sophie’s Life #sheissafae 👇🏻📹👇🏻
     location: "Morocco"
-    followers: 61292
-    engagement: 276
-    commentsToLikes: 0.051622
-    id: ck6uc6k1adt7p0j71zsk5l629
+    followers: 18371
+    engagement: 632
+    commentsToLikes: 0.240930
+    id: ckf5vqsyupknn0j23r3h25orx
     verified: false
-    hashtags: "#makeuplook, #challenge, #positivity, #confinement"
+    hashtags: "#beautiful, #art, #reels, #morphe"
+  - username: "noor_m_officiel"
+    fullname: >-
+      Noor et Merouane
+    bio: >-
+      •entrepreneur •mother •makeup artist©️ •YouTube Channel #مشروعيbynoorm
+    location: "Morocco"
+    followers: 1860227
+    engagement: 507
+    commentsToLikes: 0.012789
+    id: ck6u54b7d7iio0j71jzz1ccdp
+    verified: false
+    hashtags: "#instagood, #staypositive, #3ans, #businessplan"
+  - username: "rim_bl"
+    fullname: >-
+      Rim BL ريم
+    bio: >-
+      💄Professional Makeup artist| Beauty Blogger 📞 50656303 📍Tunis
+    location: "Morocco"
+    followers: 241082
+    engagement: 129
+    commentsToLikes: 0.006870
+    id: ck5hpo2dtrop10i11uapsmhbz
+    verified: false
+    hashtags: "#tb"
+  - username: "eddahri_wafaa"
+    fullname: >-
+      Wafaa Eddahri
+    bio: >-
+      Lifestyle Influencer #fashion #food BBA👩‍🎓Former Makeup Artist, Model MANAGER +33658447132 Wifey💍 Mommy of 5👩🏻👩🏻👩🏼👧🏻👦🏻 Born & raised in Sweden 🇸🇪 🇲🇦
+    location: "Morocco"
+    followers: 434801
+    engagement: 268
+    commentsToLikes: 0.039347
+    id: ck9wezv4gmn290j78kf3zujtb
+    verified: false
+    hashtags: "#food, #caftan, #takchita, #caftandumaroc"
+  - username: "fayhaae"
+    fullname: >-
+      Foufou El
+    bio: >-
+      ◾️Fes🇲🇦🇲🇦Morocco ◾️fashion👗Makeup 💄lifestyle ◾️healthy lifestyle 🍀 ◾️snap 👻 fjambari3 ◾️collab 📩 jambarifayhae@gmail.com
+    location: "Morocco"
+    followers: 27557
+    engagement: 266
+    commentsToLikes: 0.128857
+    id: ckaosvtryt8pr0i78bk7yvz39
+    verified: false
+    hashtags: "#photooftheday, #instagood, #influencer, #blogeuse"
   - username: "ihssan_oussaffaj"
     fullname: >-
       San
+    bio: >-
+      MUA @makeup_withsan 🎓Interior architect, Designer 📩 : i.oussaffaj@gmail.com
     location: "Morocco"
-    followers: 33945
-    engagement: 244
-    commentsToLikes: 0.051213
+    followers: 50847
+    engagement: 201
+    commentsToLikes: 0.037977
     id: ck8t4hu6o6vcd0j78ouh5fgug
     verified: false
-    hashtags: "#quarantine, #stayathome, #purplelover, #tarteistpro"
+    hashtags: "#undiscovered, #makeuptutorial, #morocco, #makeupaddict"
   - username: "proud_oof_beauty"
     fullname: >-
       MAHA       مهـــى 🎀
+    bio: >-
+      🎓ingénieur en informatique 👗Model |SkinCare |Makeup |LifeStyle 📥Collab: Insta Direct 📩contact.proudoofbeauty@gmail.com
     location: "Morocco"
-    followers: 65352
-    engagement: 181
-    commentsToLikes: 0.096463
+    followers: 72494
+    engagement: 253
+    commentsToLikes: 0.034120
     id: ck14gu7p171w70i19azzy15n9
     verified: false
-    hashtags: "#bdouniabatma, #marocaine, #bloggers, #salmarachid"
-  - username: "makeupbysalaheddine"
+    hashtags: "#jellaba, #happy, #morocco, #likeforfollow"
+  - username: "imansymonds"
     fullname: >-
-      Makeupbysalaheddine 💄
+      𝐈 𝐌 𝐄 𝐍 ☽
+    bio: >-
+      ❀ Makeup Lover ❀ Aspiring Model ❀ For business inquiries ❀ ✉️imanesymonds@gmail.com ❀ ⤵ Check this out
     location: "Morocco"
-    followers: 66594
-    engagement: 124
-    commentsToLikes: 0.023928
-    id: ck6u2nc53ssz30j715pkvmz4o
+    followers: 107046
+    engagement: 216
+    commentsToLikes: 0.034267
+    id: ckaotq2nfwzlg0i784zv8n3oj
     verified: false
-    hashtags: "#photolike, #fashionicon, #fashionarttut, #black"
+    hashtags: "#instagood, #capture, #photography, #pic"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In India In 2020
 description: >-
-  Find top wellness Instagram influencers in India in 2020. Most popular hashtags: #stayhome #london #throwback #happysunday.
+  Find top wellness Instagram influencers in India in 2020. Most popular hashtags: #healthylifestyle #travel #goa #fitnessmotivation.
 platform: Instagram
+hits: 217
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 217 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "divyaa.bhatt"
+  - username: "glamadventuress"
     fullname: >-
-      D i v y a | I n d i a🇮🇳
+      Navneet|Travel & Lifestyle
+    bio: >-
+      ☀️Forever chasing sunsets and wanderlust! 📎Travel, wellness and everything in between 📮Enquiries: glamadventuress@yahoo.com ↓Blog, guides, tips
     location: "India"
-    followers: 9704
-    engagement: 2428
-    commentsToLikes: 0.086871
-    id: ck15s8j40brlw0i19pji0fvo0
+    followers: 45381
+    engagement: 365
+    commentsToLikes: 0.057773
+    id: ck139dzxykug00i19eoq1az5z
     verified: false
-    hashtags: "#shotonredmi, #stayhome, #hellofrom"
-  - username: "nicolehuber90"
+    hashtags: "#reelsvideo, #teatime, #chaitime, #healthysnackideas"
+  - username: "rhythm_of_yoga"
     fullname: >-
-      Nicole Huber
+      YᗩᔕᔕᗰIᑎE Yoga Teacher Dubai
+    bio: >-
+      ☾CYT 500hrs مدربة يوغا معتمدة ➵Yoga & Wellness | Vegan traveler ➵Dm 4 classes↴& Collaborations ➵Prenatal- Adult & kids yoga ➵Discounts↴@liquidodubai
     location: "India"
-    followers: 106278
-    engagement: 214
-    commentsToLikes: 0.049668
-    id: ck0u9t977altr0i191ky8lq95
-    verified: true
-    hashtags: "#yogaenkalma, #poderosamentehumana, #purainspiracion, #confia"
-  - username: "sarahjane_clarke"
-    fullname: >-
-      Sarah-Jane Clarke
-    location: "India"
-    followers: 33148
-    engagement: 238
-    commentsToLikes: 0.053429
-    id: ck5hflwgsy3or0i11i1h5xmgg
-    verified: true
-    hashtags: "#daybreaker, #madeinaustralia, #sjccooks, #wholefoods"
-  - username: "matyldab8"
-    fullname: >-
-      ✨MATYLDA✨
-    location: "India"
-    followers: 233014
-    engagement: 592
-    commentsToLikes: 0.024422
-    id: ck6tsfq794iev0j71jc16br62
+    followers: 40161
+    engagement: 107
+    commentsToLikes: 0.212685
+    id: ck9h9sslg9tqq0j78qpb49pf5
     verified: false
-    hashtags: "#expression, #lingerie, #hijabfashion, #fitnessgoals"
-  - username: "tahlia_coutinho"
+    hashtags: "#yogateacherdubai, #funpinkyogis, #yogaforeveryone, #yogachallenge2020"
+  - username: "amritajeremiah"
     fullname: >-
-      Tahlia Rowena Coutinho
+      AMRITA JEREMIAH
+    bio: >-
+      I believe in mindfulness, meditation and music 🌟 holistic health advocate 🌟 yoga 🌟 always learning 🌟 wellness lifestyle . 📍Chennai, India
     location: "India"
-    followers: 324930
-    engagement: 395
-    commentsToLikes: 0.014236
-    id: ck6tpzshbolfb0j71o5y602yl
+    followers: 28176
+    engagement: 250
+    commentsToLikes: 0.026987
+    id: ck14kwwferq7s0i19nrgf4l2l
     verified: false
-    hashtags: "#jack1ttribe, #mammasphotography, #curlyhairproblems, #jack1tribe"
-  - username: "claudiaciesla"
+    hashtags: "#wherechennaieats, #holistichealth, #autumnaesthetic, #sweaterseason"
+  - username: "heartyourlifee"
     fullname: >-
-      Claudia Ciesla
+      HeartYourLifee 🌸
+    bio: >-
+      Welcome to my world 💫 Fashion | Food | Beauty | Lifestyle | Wellness 🌸 Personal account- @vidushi_sethi 💓 DM for collaborations 📧
     location: "India"
-    followers: 438904
-    engagement: 123
-    commentsToLikes: 0.013945
-    id: ck0vwp4equw9u0i19043e4pxs
-    verified: true
-    hashtags: "#stayfit, #terebina, #bethoughtful, #tiktokdrama"
+    followers: 6564
+    engagement: 1259
+    commentsToLikes: 0.251142
+    id: ckf5sb43df5740j23h84pzy52
+    verified: false
+    hashtags: "#lucknowblogger, #stylinginspiration, #jewellerystyling, #todayslook"
   - username: "karishma_sakhrani"
     fullname: >-
       Karishma Sakhrani
+    bio: >-
+      God's Favourite Child. Chef. MasterChefIndia4 Finalist. Wellness Enthusiast . Seeker of Balance. Sun Chaser. Believer 📍Bombae
     location: "India"
-    followers: 93699
-    engagement: 65
-    commentsToLikes: 0.043178
+    followers: 94146
+    engagement: 114
+    commentsToLikes: 0.031996
     id: ck5cavvh8e8ta0i11z9eqcqsa
     verified: false
-    hashtags: "#japanese, #carbfest, #vegetables, #cookies"
-  - username: "krumble"
+    hashtags: "#dharanawayoflife, #masterchef, #masterchefindia, #atombox"
+  - username: "kellylkruger"
     fullname: >-
-      Keira Rumble
+      KELLY KRUGER BROOKS
+    bio: >-
+      U know me from ur fav TV shows, movies & @madisoncharlesoils. I share beauty/wellness /mom tips while hopefully making u laugh.Fav roles: Wife & Mama💕
     location: "India"
-    followers: 412652
-    engagement: 214
-    commentsToLikes: 0.020641
-    id: ck0tyo07zngv80i19puzkc6n5
-    verified: false
-    hashtags: "#corona, #nileriver, #pinterestgoals, #livewithkoala"
-  - username: "divyamisra4"
+    followers: 91473
+    engagement: 223
+    commentsToLikes: 0.060292
+    id: ck15ra5wt6x3j0i19a0diwokw
+    verified: true
+    hashtags: "#staytuned, #marriedlife, #makeuplook, #momlife"
+  - username: "kisslifehelllo"
     fullname: >-
-      Divya Misra
+      Sneha Navneeth Sangani 𓂀 ♓︎
+    bio: >-
+      ॐ☽🧿practicing self love & body love • balanced living • realness & wellness • recipes • plant lady • dog mamma • creative stylist living in bdq/del
     location: "India"
-    followers: 7680
-    engagement: 515
-    commentsToLikes: 0.026853
-    id: ck602ozd8idgf0i14wf823l13
+    followers: 28279
+    engagement: 333
+    commentsToLikes: 0.033876
+    id: ck6txlab7ygcb0j71srgxb83o
     verified: false
-    hashtags: "#goa, #lavenderfashion, #inthistogether, #london"
-  - username: "mrinalikabhanjdeo"
+    hashtags: "#tijarafortpalace, #travel, #heritagehotels, #relivehistory"
+  - username: "poojabediofficial"
     fullname: >-
-      Mrinalika Bhanjdeo, Mayurbhanj
+      POOJA BEDI
+    bio: >-
+      Artist | Mother | Adventurer | Child of the Universe Wellness Entrepreneur Founder - @happysoullifestyle
     location: "India"
-    followers: 7704
-    engagement: 506
-    commentsToLikes: 0.025759
-    id: ck14gyhc77n7k0i19dwdh1eo2
+    followers: 132137
+    engagement: 164
+    commentsToLikes: 0.040495
+    id: ckaot4ugyue620i783cr7oje6
+    verified: true
+    hashtags: "#comedycouple, #jokinglyyours, #happysoulwellness, #happysoulmoment"
+  - username: "ajithbabu7"
+    fullname: >-
+      Fitness Trainer
+    bio: >-
+      Help You to Achieve Your Overall Wellness FOUNDER : LIFT @liftwithajith PERSONAL TRAINER : @therealprithvi HEAD OF : @parkwaykochi
+    location: "India"
+    followers: 10495
+    engagement: 838
+    commentsToLikes: 0.057224
+    id: ck1396gwljrre0i194edylh09
     verified: false
-    hashtags: "#healthychoices, #nurture, #courage, #mindfulness"
+    hashtags: "#muscle, #fitness, #transformation, #boxingtraining"
+  - username: "thedefaultrunner"
+    fullname: >-
+      Reeti Sahai
+    bio: >-
+      Entrepreneur | Marathoner | 🐶 mom Captain @adidasrunners Delhi Athlete @univedsports Certified Fitness Trainer I Yoga Lover Wellness | Travel Foodie
+    location: "India"
+    followers: 21816
+    engagement: 296
+    commentsToLikes: 0.034221
+    id: ckaoz7o1tkqi80i78nl4066xj
+    verified: false
+    hashtags: "#marathoner, #travelgram, #fitoverforty, #travelholic"
 ---

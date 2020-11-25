@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top photographers Instagram influencers in Birmingham in 2020. Most popular hashtags: #birmingham #igersbirmingham #cityscape #portrait.
+  Find top photographers Instagram influencers in Birmingham in 2020. Most popular hashtags: #birmingham #photography #travel #ig.
 platform: Instagram
+hits: 24
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
-  - username: "kareema_i"
+  - username: "brideyjo"
     fullname: >-
-      Kareema Ismail
+      Bridey Jo 🇬🇧✂
+    bio: >-
+      ✖️ OWNER/ DIRECTOR - @brideyjobarbers ✖️ AMBASSADOR - @booksybiz
     location: "United Kingdom"
-    followers: 16089
-    engagement: 245
-    commentsToLikes: 0.031685
-    id: ck6tm41i2757g0j711tylfat0
+    followers: 8908
+    engagement: 662
+    commentsToLikes: 0.022181
+    id: ck5zm5xnzlyna0i14ma2zcbfm
     verified: false
-    hashtags: "#allahumabarik, #weddingphotography, #asianbridal, #coronavirus"
-  - username: "sophieemort"
-    fullname: >-
-      Sophie
-    location: "United Kingdom"
-    followers: 7740
-    engagement: 1026
-    commentsToLikes: 0.077029
-    id: ck5c8egpa9b140i11zj994xc3
-    verified: false
-    hashtags: "#papier, #birminghamfood, #instabeauty, #skincare"
+    hashtags: "#barber, #fashionblog, #photographers, #birminghamphotography"
   - username: "iulia_david_photography"
     fullname: >-
       Iulia David
+    bio: >-
+      Beauty photographer 📍London/ Birmingham Represented by @lha_rep For bookings please email info@iuliadavid.co.uk
     location: "United Kingdom"
-    followers: 67302
-    engagement: 323
-    commentsToLikes: 0.038746
+    followers: 70138
+    engagement: 273
+    commentsToLikes: 0.026665
     id: ck0u1vifey5140i19oyckvt3d
     verified: false
-    hashtags: "#pink, #beautybloggers, #macro, #closeup"
-  - username: "cwrjets"
+    hashtags: "#makeup, #makeupartist, #londonphotographer, #beautyphotographer"
+  - username: "ccreemer"
     fullname: >-
-      Charlie | Aviation
+      ✖️ Clo
+    bio: >-
+      @charliez__angelz SW x
     location: "United Kingdom"
-    followers: 2459
-    engagement: 1519
-    commentsToLikes: 0.084808
-    id: ck8tc8fiyynos0j78p8j2wo7j
+    followers: 2806
+    engagement: 858
+    commentsToLikes: 0.064501
+    id: ck5zu9kue1xti0i14yzphlaaf
     verified: false
-    hashtags: "#fullflapsfriday, #heathrowairport, #delta, #a330"
-  - username: "mattleachphoto"
-    fullname: >-
-      Matt Leach
-    location: "United Kingdom"
-    followers: 17994
-    engagement: 306
-    commentsToLikes: 0.027821
-    id: ck0w392g5s7380i19fkaiazc2
-    verified: false
-    hashtags: "#emotion, #narsissist, #gloss, #maxmara"
+    hashtags: "#mx, #girlswhoride, #dirtbike, #ukports"
   - username: "thetraveljackal"
     fullname: >-
       Jack
+    bio: >-
+      Photographer. Daydreamer. Enjoy life ✌️ 📍Birmingham, UK DM me, let’s go shoot together! Prints are available below.
     location: "United Kingdom"
-    followers: 2016
-    engagement: 2678
-    commentsToLikes: 0.074068
+    followers: 2021
+    engagement: 2292
+    commentsToLikes: 0.071547
     id: ckap6quk2h1jm0i78ov9j0iv6
     verified: false
-    hashtags: ""
+    hashtags: "#toneconcept, #visualcollective, #bookmarkbirmingham, #thestreetpr0ject"
+  - username: "rossjukes"
+    fullname: >-
+      Ross Jukes
+    bio: >-
+      🔻Photographer & Videographer // Digital x Analogue 🔻#birmingham UK 🔻Commissions, Prints & More 🔻ross@rossjukesphoto.co.uk
+    location: "United Kingdom"
+    followers: 9653
+    engagement: 544
+    commentsToLikes: 0.047871
+    id: ck0vz8nlg7ve10i194bjlg4og
+    verified: false
+    hashtags: "#cityviews, #capturingbritain, #isupportbirmingham, #brumpic"
+  - username: "shi_tang"
+    fullname: >-
+      Shi Tang
+    bio: >-
+      Photographer! Father of Candice & Banoffee the CAT
+    location: "United Kingdom"
+    followers: 16845
+    engagement: 791
+    commentsToLikes: 0.007740
+    id: ck5q4cafdojsv0i11dcihg9np
+    verified: false
+    hashtags: "#lindan, #yonexallengland, #hsbcbwfworldtourfinals, #london"
+  - username: "liveuptohername"
+    fullname: >-
+      Lexi 🎀
+    bio: >-
+      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
+    location: "United Kingdom"
+    followers: 19482
+    engagement: 634
+    commentsToLikes: 0.006125
+    id: ck5cik16gsslf0i11w5ovnhua
+    verified: false
+    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
+  - username: "sophieemort"
+    fullname: >-
+      Sophie Mort 💭
+    bio: >-
+      📷 photographer | wellness chatterer. 👰🏼 third-wheeler: @sophiemortphotography 📍 Birmingham / York.
+    location: "United Kingdom"
+    followers: 10889
+    engagement: 963
+    commentsToLikes: 0.115169
+    id: ck5c8egpa9b140i11zj994xc3
+    verified: false
+    hashtags: "#nonicheclub, #mystackers, #ad"
+  - username: "hassaan.bari"
+    fullname: >-
+      
+    bio: >-
+      👨‍⚕️#doctor |✈️#travelgram |🥘#foodie | 🎧#musicislife |📸#photographer |🏏#cricket | 📍#england |@raw_community member For downloads, prints and more👇
+    location: "United Kingdom"
+    followers: 5179
+    engagement: 1017
+    commentsToLikes: 0.046381
+    id: ck6tnh5kv9tup0j71xr53uai7
+    verified: false
+    hashtags: "#explorebritain, #forbestravelguide, #naturephoto, #naturelover"
   - username: "cobi95"
     fullname: >-
       Cobi Thomas Ellis
+    bio: >-
+      👤 Hobbyist Photographer 🗣 Motivator 〰️ Follow - #ukcobi 〰️ 24 Years Old 〰️ ©️All 🖼 are mine
     location: "United Kingdom"
     followers: 2265
     engagement: 3384
     commentsToLikes: 0.023276
     id: ckaowl4xc9ef50i7829mfv2h9
     verified: false
-    hashtags: "#cloud, #health, #getoutside, #motivate"
-  - username: "kel_anne_hunt"
-    fullname: >-
-      Kelly Hunt | Travel Blogger
-    location: "United Kingdom"
-    followers: 21698
-    engagement: 437
-    commentsToLikes: 0.027332
-    id: ck136e1u9615y0i19qypubkxc
-    verified: false
-    hashtags: "#budapesteye, #goldenhourvibes, #budapestlove, #loveauthentic"
-  - username: "hassaan.bari"
-    fullname: >-
-      
-    location: "United Kingdom"
-    followers: 5142
-    engagement: 930
-    commentsToLikes: 0.045710
-    id: ck6tnh5kv9tup0j71xr53uai7
-    verified: false
-    hashtags: "#mosques, #positivequotes, #instalove, #londoneye"
-  - username: "jaybirminghamphotography"
-    fullname: >-
-      Jay Birmingham
-    location: "United Kingdom"
-    followers: 3080
-    engagement: 1608
-    commentsToLikes: 0.041081
-    id: ck5hmvo5mmphq0i11d2vu5vks
-    verified: false
-    hashtags: "#derbyshire, #bigonbrum, #manhatten, #earthhotspots"
+    hashtags: "#photographyuk, #sunsetlover, #motivationalspeaker, #quoteoftheday"
 ---

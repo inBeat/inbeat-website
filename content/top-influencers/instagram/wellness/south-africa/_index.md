@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In South Africa In 2020
 description: >-
-  Find top wellness Instagram influencers in South Africa in 2020. Most popular hashtags: #wellness #lifestyle #health #nature.
+  Find top wellness Instagram influencers in South Africa in 2020. Most popular hashtags: #fitnessmotivation #fitness #model.
 platform: Instagram
+hits: 36
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "katlego_masupa"
+  - username: "yogawithrhian"
     fullname: >-
-      Katlego Masupa
+      RHIAN EVANS-BAM
+    bio: >-
+      Wife | Mom | Yoga Teacher | Women’s Wellness ✨Spreading inspiration & awareness of #livingwithanxiety & #selfcare 👇🏻 Practice with me - new video
     location: "South Africa"
-    followers: 69806
-    engagement: 245
-    commentsToLikes: 0.081537
-    id: ck5btyb4agtpq0i113f18sbs4
+    followers: 9536
+    engagement: 817
+    commentsToLikes: 0.088041
+    id: ckf5m7auqsl9f0j23zevkog8o
     verified: false
-    hashtags: "#treatyourself, #nodebate, #babysoft, #throwbackthursday"
+    hashtags: "#hipopeners, #yogaeverydamnday, #loveyourbody, #inspiration"
   - username: "zeebalife"
     fullname: >-
-      CLAUDIA PADGETT | TRAVEL
+      CLAUDIA PADGETT
+    bio: >-
+      📸Luxury Travel Creator 💭Mindful Living & Wellness 🌱 📍Dubai 🇦🇪 🌍 ⚡️BTS & 🎨Presets @byzeeba
     location: "South Africa"
-    followers: 309383
-    engagement: 167
-    commentsToLikes: 0.023402
+    followers: 294785
+    engagement: 172
+    commentsToLikes: 0.022829
     id: ck0uavzcqd7ns0i197zn8jja6
     verified: false
-    hashtags: "#thankyouforcomingtomytedtalk, #earthday, #igreality, #ighusbands"
+    hashtags: "#imjoking, #igproblems"
   - username: "shev_elle"
     fullname: >-
       SHEVELLE
+    bio: >-
+      💃🏻Model 📸Let’s shoot 🇿🇦South African 🌍World traveller📍🇹🇭 ❤️@devanjones10 💚Wellness coach 💌 Email: shevellenaiker08@gmail.com
     location: "South Africa"
-    followers: 2086
-    engagement: 1219
-    commentsToLikes: 0.052870
+    followers: 2234
+    engagement: 986
+    commentsToLikes: 0.084917
     id: ck0w2erh4nzrn0i19uz9kv055
     verified: false
-    hashtags: "#trending, #outfitgram, #starbucksgirl, #portraitmood"
-  - username: "ifathindes"
+    hashtags: "#majestic, #killeverygram, #travelgram, #featurecreature"
+  - username: "life_of_mel"
     fullname: >-
-      Ifat Hindes
+      Mel Van Straaten
+    bio: >-
+      - what’s meant to be will always find it’s way Co-owner of @reset_collective ⚡️ Ballito Wellness Day:
     location: "South Africa"
-    followers: 30617
-    engagement: 69
-    commentsToLikes: 0.060989
-    id: ck0vv12s4n1uv0i19sjhh4v8i
+    followers: 7700
+    engagement: 434
+    commentsToLikes: 0.021259
+    id: ck138f591fxs20i19vukv7c42
     verified: false
-    hashtags: "#positivelife, #womenwhohike, #australianmade, #nanotechnology"
-  - username: "aubreyngoma"
+    hashtags: ""
+  - username: "kurtdarren"
     fullname: >-
-      Aubrey Ngoma
+      Kurt Darren
+    bio: >-
+      9 x SAMA award winning artist. Proud husband of Dunay and father to Kyrah and Kade. Kaizen Wellness https://www.kaizenwellness.co.za/a/28351/rPwejSHs
     location: "South Africa"
-    followers: 31422
-    engagement: 243
-    commentsToLikes: 0.024041
-    id: ck0vyfw7i3s6h0i19nle0iqxc
+    followers: 61940
+    engagement: 55
+    commentsToLikes: 0.030336
+    id: ckaoqrih9k1ak0i7807n4zahg
     verified: false
-    hashtags: "#staypositive, #throwback, #healthylifestyle, #premiumatmosphericwater"
-  - username: "katey_jola_xx"
+    hashtags: "#hungrylion, #diegoeieoudae, #fitnessmotivation, #partytjiedier"
+  - username: "natsfaydherbe96"
     fullname: >-
-      Coach Kate 💚🇿🇦
+      Nathalie Faydherbe
+    bio: >-
+      📍CT🇿🇦🇿🇼soon🇦🇺 Health•Fitness•Lifestyle @waterfronttheatreschool Dancer/Teacher🩰 @etacapetown 🎓 💗@mattyg_wp SocialMediaManager @lifehealthsa @laluciec
     location: "South Africa"
-    followers: 34737
-    engagement: 298
-    commentsToLikes: 0.014253
-    id: ck8t3ia3w3eib0j78dm7e8hfl
+    followers: 10126
+    engagement: 1015
+    commentsToLikes: 0.028759
+    id: ck8t6fcp4dekb0j78r10bn6di
     verified: false
-    hashtags: "#healthylifestyle, #wellness, #tomboy, #entrepreneur"
-  - username: "natasha_joubert"
+    hashtags: "#danceteacher, #daneswimwear, #ballerina, #nutrition"
+  - username: "footmistressza"
     fullname: >-
-      Natasha Joubert
+      Foot Mistress
+    bio: >-
+      South African foot model 👣 🇿🇦 UK 4.5/ US 6.5 A woman with pretty feet who ❤️’s spoils Backup: @footsiemistress
     location: "South Africa"
-    followers: 24976
-    engagement: 418
-    commentsToLikes: 0.008188
-    id: ck14i08kxd0g40i19irpget6t
+    followers: 35850
+    engagement: 1589
+    commentsToLikes: 0.028238
+    id: ck8td7vy929co0j78g0rxef98
     verified: false
-    hashtags: "#wellness, #opi, #ironwomen, #standtogether"
-  - username: "crystalhulett"
+    hashtags: "#bluenails, #mondaymood, #wickedwednesday, #staysafe"
+  - username: "mirah_aamirah"
     fullname: >-
-      Crystal (Sugar) Hulett
+      اميرة
+    bio: >-
+      •Premium 💫 •Well travelled Princess 👑 •Proudly South African 🇿🇦 📍🇳🇬 @am_vitality19
     location: "South Africa"
-    followers: 9055
-    engagement: 694
-    commentsToLikes: 0.012800
-    id: ck0w2rdyhpt660i19grford7u
+    followers: 26828
+    engagement: 600
+    commentsToLikes: 0.052415
+    id: ck0txqa5tk4l40i19tkzdtz1c
     verified: false
-    hashtags: "#beach, #nature, #beachtrips, #happy"
-  - username: "karimcmiller"
+    hashtags: "#wce, #throwbackthursday, #nigeria, #wcw"
+  - username: "cgwebuofficial"
     fullname: >-
-      Kari Miller
+      Cynthia Gwebu 🇿🇼🇿🇦
+    bio: >-
+      📍: cape town founder @thenextchptr www.cynthiagwebu.com latest youtube video 👇🏾
     location: "South Africa"
-    followers: 10655
-    engagement: 580
-    commentsToLikes: 0.050097
-    id: ck0ua5q00bfzt0i19z5urfu9y
+    followers: 49444
+    engagement: 468
+    commentsToLikes: 0.030584
+    id: ck6ub578k7j860j71vn3apbo2
     verified: false
-    hashtags: "#lifestyle, #islandgirls, #noextensions, #heights"
-  - username: "mischkebosse"
+    hashtags: "#indulgeallyoursenses, #ad, #doveselfesteemproject, #dovedayathome"
+  - username: "the_girl_in_the_bikini"
     fullname: >-
-      mischke bosse
+      Katelyn
+    bio: >-
+      🌞FOREVER CHASING SUMMER🌞 •MODEL👱🏼‍♀️ @icemodelsjhb •DESIGNER/OWNER🧵 @missktb_fashion •TRAVELLER 🌍 •MOM OF @gigi_the_toy 🐩
     location: "South Africa"
-    followers: 6531
-    engagement: 396
-    commentsToLikes: 0.027823
-    id: ck6u0k4ajg5ra0j713hceiqw2
+    followers: 27739
+    engagement: 354
+    commentsToLikes: 0.041946
+    id: ck8t6fp6sdg760j78cygld5w6
     verified: false
-    hashtags: "#pjstopjs, #capetown, #feminism, #spirituality"
+    hashtags: "#fitnessmotivation, #waterfall, #bali, #beachbabe"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top models Instagram influencers in Phoenix in 2020. Most popular hashtags: #phoenix #model #igdaily #models.
+  Find top models Instagram influencers in Phoenix in 2020. Most popular hashtags: #model #arizona #phoenix.
 platform: Instagram
+hits: 104
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 104 Instagram influencers like this in Phoenix, United States for you to pitch.
 profiles:
-  - username: "jasminesienna"
+  - username: "curvesonabudget13"
     fullname: >-
-      Jasmine Möllenkamp
+      NICOLE SIMONE
+    bio: >-
+      BLM || fat hottie || model || phoenix || she/her management: kisha@ccdigital.co www.curvesonabudget.com side hustle: @nsephotographyaz
     location: "United States"
-    followers: 2541
-    engagement: 913
-    commentsToLikes: 0.070193
-    id: ck5px041apgby0i11oekwucpt
+    followers: 310424
+    engagement: 129
+    commentsToLikes: 0.036161
+    id: ck13clql00ysd0i19w2gbml4o
     verified: false
-    hashtags: "#beautyiswhatyoufeel, #sixty6model"
+    hashtags: "#justfabambassador, #ad, #fableticsambassador, #fallfashion"
   - username: "lallis_world"
     fullname: >-
       Lalli
+    bio: >-
+      Just a fat girl trying to stay fit 🤸🏽‍♀️🏋🏽‍♀️. ♈️ Aries gang 👊🏼💋. Cashapp- lallilovescash
     location: "United States"
-    followers: 11507
-    engagement: 751
-    commentsToLikes: 0.044662
+    followers: 16442
+    engagement: 709
+    commentsToLikes: 0.045954
     id: ck5zpslr5t9oa0i14b8ncdwr7
     verified: false
-    hashtags: "#stretching, #laughter, #shaderoom, #twerk"
-  - username: "kelseyloren"
+    hashtags: "#curves, #thickwomen, #wildnout, #arizona"
+  - username: "0hmi"
     fullname: >-
-      Kelsey Loren Van Soest
+      Jennae Q
+    bio: >-
+      📍NYC 🗽@musemodelsnyc 🇫🇷@selectmodelparis 🇮🇹@monster_mgmt 🇬🇧 @thesquadmanagement 🇪🇸 @unomodels 🇸🇪🇩🇰 @lemanagement MGMT @heffnermanagement
     location: "United States"
-    followers: 6634
-    engagement: 977
-    commentsToLikes: 0.049557
-    id: ck5zr7o0bw2bf0i14gl4930yw
+    followers: 5887
+    engagement: 510
+    commentsToLikes: 0.037228
+    id: ck5hjy0cwhg5m0i11lthrwabf
     verified: false
-    hashtags: "#imwithblush"
-  - username: "inked.exclusives"
+    hashtags: "#paris, #jennaequisenberry, #diannalunt, #thomaskrause"
+  - username: "brandonwgross"
     fullname: >-
-      
+      Brandon Gross
+    bio: >-
+      @sendit Traveling the country full time in my short bus🤘🏼 Cliff Jumping || Traveling || Adventuring --------------- 👇🏼
     location: "United States"
-    followers: 30863
-    engagement: 57
-    commentsToLikes: 0.006846
-    id: ck5cffuv2mvc10i116l0bvdiq
+    followers: 6725
+    engagement: 789
+    commentsToLikes: 0.063289
+    id: ck0vwof6cusla0i19buk4cqc8
     verified: false
-    hashtags: "#dopemagazine, #highstandards, #houston, #boudoir"
-  - username: "peachy.goodness"
+    hashtags: "#travel, #cliffdiving, #mavicpro, #mexico"
+  - username: "pixie_stik"
     fullname: >-
-      Suicide Girl Hopeful
+      Laina Mae Kirkeide • 13
+    bio: >-
+      ▫️ the ballet clinic ▫️ stars dance co @peaceloveleotards @balletrocksfashion
     location: "United States"
-    followers: 27164
-    engagement: 586
-    commentsToLikes: 0.008902
-    id: ck6tkx58n5ktr0j71kiflqddr
+    followers: 6186
+    engagement: 1192
+    commentsToLikes: 0.068941
+    id: ckaoxvpxneym00i78psqxlcsu
     verified: false
-    hashtags: "#suicidegirls, #abqstreetmeet"
-  - username: "theomcdermott"
-    fullname: >-
-      
-    location: "United States"
-    followers: 5628
-    engagement: 1046
-    commentsToLikes: 0.037602
-    id: ck9whlqp7yfzh0j78imntydad
-    verified: false
-    hashtags: ""
-  - username: "w.e.n.d.y.a.l.i.c.i.a"
-    fullname: >-
-      wendy🌹👑👑
-    location: "United States"
-    followers: 10739
-    engagement: 1068
-    commentsToLikes: 0.042152
-    id: ck8tbkrnrw11j0j78yp8bafki
-    verified: false
-    hashtags: "#gainwithdreamer, #kenyamemes, #gainwithpozzie, #10over10"
-  - username: "phenyxrose"
-    fullname: >-
-      Phenyx
-    location: "United States"
-    followers: 126617
-    engagement: 482
-    commentsToLikes: 0.024120
-    id: ck5cj29auttzm0i1162yrfur6
-    verified: false
-    hashtags: "#blacktravelclub, #destinationvacation, #internationalmodels, #blueseas"
+    hashtags: "#balletlife, #travelingballerina, #explorepage, #dancers"
   - username: "jamesfelixraw"
     fullname: >-
       James Felix
+    bio: >-
+      DM or E-mail for rates. All models must sign a Model Release. Backup: @thankyoumrfelix Phoenix, AZ PATREON- Follow link ⬇️
     location: "United States"
-    followers: 334281
-    engagement: 338
-    commentsToLikes: 0.007874
+    followers: 353214
+    engagement: 319
+    commentsToLikes: 0.005212
     id: ck15q3qng0y8o0i197e529lp9
     verified: false
-    hashtags: "#facetimephotoshoot"
-  - username: "leanna_prater00"
+    hashtags: "#itsnot"
+  - username: "peachy.goodness"
     fullname: >-
-      Leanna Prater
+      Suicide Girl Hopeful
+    bio: >-
+      Hai, I’m peach 💎 Let me be your muse 💋 •Published Model Albuquerque NM 🔁 Phoenix AZ
     location: "United States"
-    followers: 5837
-    engagement: 1557
-    commentsToLikes: 0.004795
-    id: ck5hpsffurw3d0i11ss4iyjsn
+    followers: 26266
+    engagement: 606
+    commentsToLikes: 0.008902
+    id: ck6tkx58n5ktr0j71kiflqddr
     verified: false
-    hashtags: "#grandlake, #countrymusic, #snake, #bricktown"
+    hashtags: "#suicidegirls"
+  - username: "efizymakeovers"
+    fullname: >-
+      Efizy makeovers
+    bio: >-
+      PRO mua &Trainer BROWS specialist 👌 PROUDLY ONDO💜 Foodlover🍜 08128255537,08058708266 dceoefizymakeovers@gmail.com📩 LAGOS
+    location: "United States"
+    followers: 67875
+    engagement: 78
+    commentsToLikes: 0.045645
+    id: ck0w437d8wkwm0i1984efatqy
+    verified: false
+    hashtags: ""
+  - username: "toripraver"
+    fullname: >-
+      Tori Praver
+    bio: >-
+      Mama to Ryan and Phoenix Founder of @toripraverswimwear Model @onemanagement
+    location: "United States"
+    followers: 140865
+    engagement: 155
+    commentsToLikes: 0.010759
+    id: ck55navw95tnz0i11pyb4oybs
+    verified: true
+    hashtags: "#nationalvoterregistrationday, #iamavoter, #surferbabies"
+  - username: "morganfigge"
+    fullname: >-
+      M O R G A N  F I G G E
+    bio: >-
+      MY LIFE THROUGH PHOTOS • Theme Parks • Movies • Food • Taco Bell •
+    location: "United States"
+    followers: 10080
+    engagement: 1028
+    commentsToLikes: 0.035854
+    id: ck9hbppa2hxmf0j78do779hmm
+    verified: false
+    hashtags: "#modeling, #fitness, #vote, #disneyworld"
 ---

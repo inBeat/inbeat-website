@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Russia In 2020
 description: >-
-  Find top stylists Instagram influencers in Russia in 2020. Most popular hashtags: #pillowchallenge #hmbelarus #happy #hmtrend.
+  Find top stylists Instagram influencers in Russia in 2020. Most popular hashtags: #istanbul #katerock #lifewear.
 platform: Instagram
+hits: 531
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 531 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "oooh_nadin_"
+  - username: "anna_berg_"
     fullname: >-
-      Nadin
+      Стилист Анна Ротенберг
+    bio: >-
+      ▪️Выпускница Istituto Marangoni ▪️Разбор гардероба, шопинг ▪️Стилизация лукбуков, фото/видео съёмок ➡️ @annarotenberg_stylist 🏡 Москва, Рига
     location: "Russia"
-    followers: 26611
-    engagement: 697
-    commentsToLikes: 0.061850
-    id: ck5zmed65mevc0i14p06wmhyo
+    followers: 21893
+    engagement: 635
+    commentsToLikes: 0.068557
+    id: ck0tz3iiip1kj0i199iy9spb3
     verified: false
-    hashtags: "#instaxminiru, #instaxvibes, #kiehlsrussia"
-  - username: "mihaelaskripnik"
+    hashtags: "#lancome, #idolebylancome, #weareidoles"
+  - username: "katrinsycheva"
     fullname: >-
-      ✮⋆  🎀  𝑀𝒾𝒽𝒶𝑒𝓁𝒶 𝒮𝒸𝓇𝒾𝓅𝓃𝒾𝒸 🎀⋆✮
+      ЕКАТЕРИНА СЫЧЁВА
+    bio: >-
+      СИБИРСКИЙ СУРОВЫЙ ЛАЙФСТАЙЛ 🍾 ✪ Photographer ✪ Stylist ✪ Fashionista Welcome to my Instalife! Сотрудничество: 8-913-215-9496
     location: "Russia"
-    followers: 43095
-    engagement: 508
-    commentsToLikes: 0.066663
-    id: ck5cav7l7e77v0i119cu2bm26
+    followers: 41844
+    engagement: 332
+    commentsToLikes: 0.325568
+    id: ck5zipjv3g55v0i140pr8e4e1
     verified: false
-    hashtags: ""
-  - username: "absolutlia"
-    fullname: >-
-      Lia Mstislavskaya
-    location: "Russia"
-    followers: 60144
-    engagement: 677
-    commentsToLikes: 0.028741
-    id: ck5c2ahlzwv5u0i111um9xplf
-    verified: false
-    hashtags: "#absolutliachallenge, #idontgiveafconvinceme"
-  - username: "_semenova_elina_"
-    fullname: >-
-      Макияж |Прически |Обучение
-    location: "Russia"
-    followers: 6003
-    engagement: 963
-    commentsToLikes: 0.086307
-    id: ck6tr2pjuwlax0j715wh83cuo
-    verified: false
-    hashtags: "#40, #pillowchallenge, #3week"
-  - username: "victoria_solovyeva"
-    fullname: >-
-      Because I'm happy❤️👨‍👩‍👦❤️
-    location: "Russia"
-    followers: 202599
-    engagement: 245
-    commentsToLikes: 0.036492
-    id: ck5c42xoq0jfb0i112rzo9wh0
-    verified: false
-    hashtags: "#nature, #fashionista, #wedding, #styles"
-  - username: "kater1na_style"
-    fullname: >-
-      Катерина
-    location: "Russia"
-    followers: 5844
-    engagement: 1200
-    commentsToLikes: 0.065451
-    id: ck6ui7qlsdjiq0j71pmdc9jwp
-    verified: false
-    hashtags: "#style, #hmbelarus"
-  - username: "miss_bylucy"
-    fullname: >-
-      СТИЛИСТ ИМИДЖМЕЙКЕР БЛОГЕР
-    location: "Russia"
-    followers: 10904
-    engagement: 690
-    commentsToLikes: 0.091801
-    id: ck14joe12ldht0i19spyn1mih
-    verified: false
-    hashtags: "#04, #stories, #toomuch, #notsponsored"
-  - username: "stylist_katy"
-    fullname: >-
-      Ekaterina|STYLIST
-    location: "Russia"
-    followers: 20066
-    engagement: 664
-    commentsToLikes: 0.049800
-    id: ck5znddpqo8pg0i14ryqsi2z1
-    verified: false
-    hashtags: "#stylewomen, #loewebag, #zarahome, #nanushka"
+    hashtags: "#photobykatrinsycheva"
   - username: "ruslinka"
     fullname: >-
       Ruslana Karakhoeva
+    bio: >-
+      •Fashion stylist @fashionholism •Fashion journalist •Fashion blogger based in Belarus, Minsk
     location: "Russia"
-    followers: 42899
-    engagement: 450
-    commentsToLikes: 0.041994
+    followers: 48975
+    engagement: 302
+    commentsToLikes: 0.067454
     id: ck5ccnv8thp580i11vrywbqbk
     verified: false
-    hashtags: "#iloveyou2019, #hmbelarus, #hmxme"
-  - username: "alinakovaleva"
+    hashtags: "#moetmoment"
+  - username: "lelliksolnce"
     fullname: >-
-      Alina Kovaleva
+      lelliksolnce
+    bio: >-
+      Make-up 💄& hair stylist 👰 (тел)89260696865
     location: "Russia"
-    followers: 29059
-    engagement: 277
-    commentsToLikes: 0.116742
-    id: ck0vzmd589t8b0i19jm9pis58
+    followers: 3049
+    engagement: 1953
+    commentsToLikes: 0.115981
+    id: ckaoz26p6k1vw0i78013zuwsc
     verified: false
-    hashtags: "#h2oplusrussia, #kupidoma, #4stepsystemsensitive, #pillowchallenge"
+    hashtags: ""
+  - username: "andreevigor"
+    fullname: >-
+      Игорь Андреев
+    bio: >-
+      Stylist Creative director @_vereja_ Co-founder @online.inside
+    location: "Russia"
+    followers: 22525
+    engagement: 393
+    commentsToLikes: 0.063106
+    id: ck5hhjkmk8kb90i11dwxowre3
+    verified: false
+    hashtags: "#hm, #hmman, #vereja"
+  - username: "myrluka"
+    fullname: >-
+      Катя Янок
+    bio: >-
+      Fashion & Travel influencer Stylist Создатель самого лучшего крема для лица с Organiс Shop Скидка iHerb AGW2578 📧katyyanok@gmail.com
+    location: "Russia"
+    followers: 182072
+    engagement: 178
+    commentsToLikes: 0.041795
+    id: ck0w3hepztf8i0i19sf9wbf86
+    verified: false
+    hashtags: "#uniqlo, #uniqlojwanderson, #lifewear, #uniqlosustainability"
+  - username: "kate_rock666"
+    fullname: >-
+      Катя Рок, стилист
+    bio: >-
+      Stylist! YouTube - Kate Rock, Saint. P📍 Я - твой персональный стилист✌🏻Разбор гардероба, шопинг, обучение стайлингу офлайн/онлайн - пиши в Директ!
+    location: "Russia"
+    followers: 33997
+    engagement: 608
+    commentsToLikes: 0.032741
+    id: ck0ucoxu9he520i1932zrg19t
+    verified: false
+    hashtags: "#katerock, #personalstylist, #istanbul, #adalar"
+  - username: "miss_bylucy"
+    fullname: >-
+      СТИЛИСТ ИМИДЖМЕЙКЕР БЛОГЕР
+    bio: >-
+      Люси Царан . STYLIST ❗️Мои сторис круче дорогих курсов ❗️Вожу по магазинам ❗️Раздаю стиль и настроение ❗️Стилизую фото и видео съёмки
+    location: "Russia"
+    followers: 11746
+    engagement: 551
+    commentsToLikes: 0.110243
+    id: ck14joe12ldht0i19spyn1mih
+    verified: false
+    hashtags: "#stylist, #24, #goodnight, #stories"
+  - username: "absolutlia"
+    fullname: >-
+      Lia Mstislavskaya
+    bio: >-
+      Sophisticated Touch of Elegance Songwriter | Photographer | Stylist | Hedonist | Aesthete | Vampire | Opium Sorbet New Single 🔻
+    location: "Russia"
+    followers: 59493
+    engagement: 442
+    commentsToLikes: 0.032368
+    id: ck5c2ahlzwv5u0i111um9xplf
+    verified: false
+    hashtags: ""
+  - username: "victoria_solovyeva"
+    fullname: >-
+      Because I'm happy❤️👨‍👩‍👦❤️
+    bio: >-
+      📝 IMAGEMAKER. 📝PERSONAL STYLIST. ✍🏼 Мой обучающий проект @vshoppingtime_2 Консультации, всё о стиле и моде и даже больше. 📩 Direct
+    location: "Russia"
+    followers: 216133
+    engagement: 354
+    commentsToLikes: 0.024415
+    id: ck5c42xoq0jfb0i112rzo9wh0
+    verified: false
+    hashtags: "#uniqlodailylook, #lifewear"
 ---

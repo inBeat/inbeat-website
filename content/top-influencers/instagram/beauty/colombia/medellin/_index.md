@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Medellín In 2020
 description: >-
-  Find top beauty Instagram influencers in Medellín in 2020. Most popular hashtags: #beauty #friday #home #maquillaje.
+  Find top beauty Instagram influencers in Medellín in 2020. Most popular hashtags: #beauty #medellin #colombia #makeup.
 platform: Instagram
+hits: 35
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 35 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
   - username: "chdermatologia"
     fullname: >-
-      CLAUDIA HERNÁNDEZ
+      CLAUDIA HERNÁNDEZ
+    bio: >-
+      МD.Derмaтologιѕт •Expert Injector💉•KOL🌎•Research 🔬 360 Face & Body health - anti-aging & beauty strategies 📍Medellín-Col🇨🇴 📲574-4443072-3006413849
     location: "Colombia"
-    followers: 74191
-    engagement: 223
-    commentsToLikes: 0.017538
+    followers: 86504
+    engagement: 175
+    commentsToLikes: 0.015401
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
-  - username: "carogallegoca"
+    hashtags: "#dermatology, #beauty, #medellin, #fillers"
+  - username: "vanhardeyo"
     fullname: >-
-      Caro Gallego Ca.
+      ⚡️(VÂŃ) (HÃRDÈŸ) (ŸØ✞)
+    bio: >-
+      “𝒟𝑅𝐸𝒜𝑀𝒮 & 𝒮𝒞𝐻𝐸𝑀𝐸𝒮” 🌊 ¢єσ ✨ @swaggflowslikewater тσ σя∂єя ☕️ @donhenrycafe #ᴍᴏɴᴀᴛ ᴘʀᴏᴅᴜᴄᴛs (ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ ʙɪᴏ ᴛᴏ sʜᴏᴘ) #𝕸𝖚𝖑𝖙𝖎𝖕𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑𝖎𝖙𝖞 ⛈👽🦄 ¹¹:¹¹
     location: "Colombia"
-    followers: 31702
-    engagement: 263
-    commentsToLikes: 0.021529
-    id: ck5qaczd5fr190i11fj3cjksh
+    followers: 32505
+    engagement: 107
+    commentsToLikes: 0.071375
+    id: ck5cb96fxez880i111ldfwqqw
     verified: false
-    hashtags: ""
+    hashtags: "#bossbabe, #monatskincare, #monatofficial, #monatglobal"
   - username: "hernanboterostudio"
     fullname: >-
       Hernán Botero
+    bio: >-
+      BEAUTY / ART / BOUDOIR / PASION Medellín - Colombia Contacto
     location: "Colombia"
-    followers: 105226
-    engagement: 152
-    commentsToLikes: 0.009780
+    followers: 106606
+    engagement: 122
+    commentsToLikes: 0.019172
     id: ck5hgzj7y5m5g0i11a8ilenlg
     verified: false
-    hashtags: "#frindge, #feetfetisworld, #nophotoshop, #glamour"
-  - username: "ilmio_of"
+    hashtags: "#sexydress, #hernanboterostudio, #boudoir, #beautyandboudoir"
+  - username: "jugomakeup"
     fullname: >-
-      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
+      Valentina Jugo
+    bio: >-
+      Pro mᥲkᥱᥙρ ᥲrtιst • Coᥒtᥱᥒt ᥴrᥱᥲtor 📍Neiva/Medellín🇨🇴 💌PR/Collabs: jugomakeupml@gmail.com 💄Cιtᥲs dᥱ mᥲqᥙιᥣᥣᥲjᥱ ყ ᥴᥙrsos 🎁 @jugogifts
     location: "Colombia"
-    followers: 43722
-    engagement: 359
-    commentsToLikes: 0.060896
-    id: ck6ub58fr7jg10j71j2v6lxuh
+    followers: 13407
+    engagement: 882
+    commentsToLikes: 0.166357
+    id: ck8tcdyegz58x0j78s97gf89y
     verified: false
-    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
-  - username: "raulmejia320"
-    fullname: >-
-      Raul Mejia
-    location: "Colombia"
-    followers: 18108
-    engagement: 216
-    commentsToLikes: 0.337615
-    id: ck8sxh8y2hdyv0j787web52ew
-    verified: false
-    hashtags: "#beauty, #angel, #glory, #selfie"
-  - username: "johanaosornor"
-    fullname: >-
-      Johana Osorno Ruiz
-    location: "Colombia"
-    followers: 63186
-    engagement: 132
-    commentsToLikes: 0.025666
-    id: ck55ono068qgd0i11hw4iorpz
-    verified: false
-    hashtags: "#lovers, #style, #pijama, #johana"
-  - username: "toasmakeup"
-    fullname: >-
-      Angie Alvarado
-    location: "Colombia"
-    followers: 31661
-    engagement: 252
-    commentsToLikes: 0.039070
-    id: ck13a557doomn0i19nzl4fozm
-    verified: false
-    hashtags: "#maquillaje, #sunvibes, #colombia, #selflove"
-  - username: "shakiraeb"
-    fullname: >-
-      Shakira Colombia
-    location: "Colombia"
-    followers: 345284
-    engagement: 96
-    commentsToLikes: 0.013258
-    id: ck8t8veualzfg0j78qawzxejh
-    verified: false
-    hashtags: "#gold, #suegros, #hermosa, #happydaymom"
-  - username: "camilabedoyac1"
-    fullname: >-
-      Camila Bedoya
-    location: "Colombia"
-    followers: 64009
-    engagement: 203
-    commentsToLikes: 0.054516
-    id: ck5zkdz4rjb0a0i14hc690twm
-    verified: false
-    hashtags: "#pereira, #fashion, #beauty, #estetica"
+    hashtags: "#maquillajedehalloween, #amorus, #makeup, #maryandpalettes"
   - username: "alejo_arse"
     fullname: >-
       Alejandro Ramirez 케빈
+    bio: >-
+      Colombia 🇨🇴 - South Korea 🇰🇷 FUAA University - Admin Empresas ⚤ Hetero Colombiano 22 Pasión: #fitness #cars #business 1,77cm - 81Kg 🇨🇴 🇰🇷 - 🇺🇸 🇩🇪
     location: "Colombia"
-    followers: 5882
-    engagement: 794
-    commentsToLikes: 0.010973
+    followers: 5684
+    engagement: 838
+    commentsToLikes: 0.009879
     id: ck15u0bc2kskd0i19j38kqe3o
     verified: false
-    hashtags: "#chevy, #gymlife, #landscape, #iloveyou"
+    hashtags: "#supercars, #cars, #motivation, #nature"
+  - username: "carogallegoca"
+    fullname: >-
+      Caro Gallego Ca.
+    bio: >-
+      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
+    location: "Colombia"
+    followers: 34797
+    engagement: 342
+    commentsToLikes: 0.366796
+    id: ck5qaczd5fr190i11fj3cjksh
+    verified: false
+    hashtags: "#hawaii, #summernight, #dolcevitta"
+  - username: "auraoro"
+    fullname: >-
+      Aura Maria Orozco
+    bio: >-
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketvcali 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
+    location: "Colombia"
+    followers: 27422
+    engagement: 196
+    commentsToLikes: 0.496485
+    id: ckap7vyvwlszz0i7805o7f2u5
+    verified: false
+    hashtags: "#rojo, #skincare, #sun, #pretty"
+  - username: "alex_betancure"
+    fullname: >-
+      🇨🇴 La Colombia de Alex 📸 Fotos
+    bio: >-
+      Conoce la bella Colombia 🇨🇴 foto a foto 📸 🧭 Viajes 📸 fotografía Y 🤠 🅟🅤🅑🅛🅘🅒🅘🅓🅐🅓 por DM 👩‍🌾 Tradición 🧙Experiencias 📍Medellín Antioquia
+    location: "Colombia"
+    followers: 15916
+    engagement: 709
+    commentsToLikes: 0.033616
+    id: ck14je4uxjve80i19d4ba64q6
+    verified: false
+    hashtags: "#montain, #cafe, #green, #yovoy"
+  - username: "jefry.moreno06"
+    fullname: >-
+       𝓙𝓮𝓯𝓻𝔂 𝓶𝓸𝓻𝓮𝓷𝓸 
+    bio: >-
+      🔮 𝓠𝓾𝓲𝓮𝓷 𝓽𝓲𝓮𝓷𝓮 𝓶𝓪𝓰𝓲𝓪 𝓷𝓸 𝓷𝓮𝓬𝓮𝓼𝓲𝓽𝓪 𝓽𝓻𝓾𝓬𝓸𝓼... 🧞‍♂️ 🤴🏽estilista integral y maquillador 📍#cali - #valle 👇WHATSAPP👇
+    location: "Colombia"
+    followers: 52217
+    engagement: 109
+    commentsToLikes: 0.007010
+    id: ck8sx0gkuft0p0j785iwq7ulx
+    verified: false
+    hashtags: "#cabello, #woman, #glam, #color"
+  - username: "saracalderonmakeup"
+    fullname: >-
+      Maquillaje Cartagena
+    bio: >-
+      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+    location: "Colombia"
+    followers: 6466
+    engagement: 868
+    commentsToLikes: 0.118183
+    id: ckaoydrcxh39n0i78g1yu92pf
+    verified: false
+    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In United States In 2020
 description: >-
-  Find top fashion TikTok influencers in United States in 2020. Most popular hashtags: #inthehouseparty #happymothersday #fashiontips #yoplaitcuprelay.
+  Find top fashion TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryou #biden2020.
 platform: TikTok
+hits: 8817
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 8817 TikTok influencers like this in United States for you to connect with.
 profiles:
+  - username: "vivalapinkposh"
+    fullname: >-
+      vivalapinkposh
+    bio: >-
+      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
+    location: "United States"
+    followers: 694700
+    engagement: 2287
+    commentsToLikes: 0.075881
+    id: ckai0ai6q6v8z0i782maw6om4
+    verified: false
+    hashtags: "#duet, #christmas, #dollar, #fyp"
+  - username: "benhornn"
+    fullname: >-
+      ben
+    bio: >-
+      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
+    location: "United States"
+    followers: 219800
+    engagement: 2273
+    commentsToLikes: 0.144883
+    id: ckacgukn4woy10i78163lz6e5
+    verified: false
+    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
+  - username: "andrewkwon_official"
+    fullname: >-
+      Andrew Kwon 엔드류 권
+    bio: >-
+      Fashion Designer of ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
+    location: "United States"
+    followers: 6447
+    engagement: 1963
+    commentsToLikes: 0.120485
+    id: ckce3zwyhjcwm0j237bod4grp
+    verified: false
+    hashtags: "#foryou, #foru, #fyp, #korean"
   - username: "akiadanielle_"
     fullname: >-
-      Akia Danielle
+      Akia T.
+    bio: >-
+      Mom | Wife | Fashion Enthusiast LA Follow me on IG @iamakiadanielle
     location: "United States"
-    followers: 4232
-    engagement: 2154
-    commentsToLikes: 0.085806
+    followers: 6806
+    engagement: 1943
+    commentsToLikes: 0.142475
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#selfmotivation, #happymom, #marriedlife, #husbandandwife"
+    hashtags: "#thetallmodelmom, #fashion101, #tallmodelmom, #feelinggood"
+  - username: "thevintagegoree"
+    fullname: >-
+      •Black Retro Babe•
+    bio: >-
+      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+    location: "United States"
+    followers: 19000
+    engagement: 3024
+    commentsToLikes: 0.087918
+    id: ckb0tojgwj34e0j23rnt9nl2q
+    verified: false
+    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
   - username: "atomiclaundry"
     fullname: >-
       Colin Aceves
+    bio: >-
+      Fashion Designer.Atomic Laundry. Decora.Fairy Kei.Kawaii Harajuku Life.He/Him
     location: "United States"
-    followers: 7221
-    engagement: 2502
-    commentsToLikes: 0.071062
+    followers: 68600
+    engagement: 2777
+    commentsToLikes: 0.081968
     id: cka64sh7wa0if0i78r5j03qqf
     verified: false
-    hashtags: "#hellokittylover, #pokemonplush, #pajamas, #gothic"
-  - username: "aniela.official"
+    hashtags: "#creepycute, #kidcore, #kawaii, #vintage"
+  - username: "discoisntdead"
     fullname: >-
-      Aniela
+      🎀Disco🎀
+    bio: >-
+      Disco 🏳️‍🌈 ° 24 ° she/her 🔞🤚🔞 🦈🍉🐶🍨🍭 Art☆Alt Fashion☆Cosplay
     location: "United States"
-    followers: 370796
-    engagement: 2310
-    commentsToLikes: 0.025722
-    id: ck9rlsj26zjmr0j78ektoabpf
+    followers: 39900
+    engagement: 2241
+    commentsToLikes: 0.056296
+    id: ck8kjj44uuzvd0j78ylm2a2ub
     verified: false
-    hashtags: "#fypchallenge, #foryou, #fypage"
-  - username: "the.wholesome.corner"
+    hashtags: "#aizawashouta, #myart, #mhacosplay, #drawing"
+  - username: "jonscottwontstop"
     fullname: >-
-      Stay Wholesome! 😋🌸
+      jonscottwontstop
+    bio: >-
+      LGBTQ+ he/him “Trump2020 isn’t a personality trait or a fashion statement.” BLM
     location: "United States"
-    followers: 81969
-    engagement: 2795
-    commentsToLikes: 0.031901
-    id: ck85cm9hd2csk0j78v8ibbxoi
+    followers: 55500
+    engagement: 2056
+    commentsToLikes: 0.059164
+    id: cka9sakrs9z8g0i78e8cokfrq
     verified: false
-    hashtags: "#hufflebuddy, #singing, #thomassanders, #dadjokes"
-  - username: "prettylittlething"
+    hashtags: "#trump, #youlost, #comedy, #bidenforthewin"
+  - username: "superflylunchlady"
     fullname: >-
-      prettylittlething
+      Superflylunchlady
+    bio: >-
+      Just being me 18+ please 🏳️‍🌈 Ally * BLM Lunch Lady Fashion & Glasses
     location: "United States"
-    followers: 711245
-    engagement: 2023
-    commentsToLikes: 0.103099
-    id: ck8ae9ewcb0ir0j78rktdcmmi
-    verified: true
-    hashtags: "#retailtherapy, #transformationchallenge, #loungewear, #foryou"
-  - username: "femkyloren"
-    fullname: >-
-      rayna solo✨
-    location: "United States"
-    followers: 9948
-    engagement: 1601
-    commentsToLikes: 0.064337
-    id: ck9no2qy3s2c70j78899lzimt
+    followers: 40100
+    engagement: 1846
+    commentsToLikes: 0.088830
+    id: ckcdx1lmufywf0j23ibvj65ez
     verified: false
-    hashtags: "#duet, #goingpro, #hailpaimon, #rpdr"
-  - username: "adaatude"
+    hashtags: "#duet, #eyewearfashion, #lunchladies, #biden2020"
+  - username: "euphoria.bjc"
     fullname: >-
-      Adaleta Avdić
+      Euphoria
+    bio: >-
+      💫 Follow me on Insta@Euphoria.bjc ✨❤️ Cosplayer, Costume and Fashion designer❤️
     location: "United States"
-    followers: 393132
-    engagement: 1888
-    commentsToLikes: 0.049575
-    id: ck7zpa4o8oa160j78jtcdzt24
+    followers: 55800
+    engagement: 2201
+    commentsToLikes: 0.039083
+    id: ck8kl85q32s940j78ur79svth
     verified: false
-    hashtags: "#beautymode, #guacamole, #millennial, #raisingcanespartner"
-  - username: "lexdamon"
-    fullname: >-
-      Alexis Damon
-    location: "United States"
-    followers: 22058
-    engagement: 1595
-    commentsToLikes: 0.059038
-    id: ck9njith7hmr20j78izgy26et
-    verified: false
-    hashtags: "#sisterfights, #happymothersday, #workoutathome, #positivemessage"
-  - username: "antiblackfishclub"
-    fullname: >-
-      ISaidWhatISaid😎
-    location: "United States"
-    followers: 105949
-    engagement: 2520
-    commentsToLikes: 0.024149
-    id: ck9ekxvzm8bxt0j78i7csig2a
-    verified: false
-    hashtags: "#blackfashion, #headwrap, #skincareroutine, #blackfishing"
-  - username: "shan.nyan"
-    fullname: >-
-      shannon
-    location: "United States"
-    followers: 18783
-    engagement: 1483
-    commentsToLikes: 0.059921
-    id: ck8kjy4dnwvle0j784w7cso3m
-    verified: false
-    hashtags: "#eyeslipsface, #misosoup, #rainbowhair, #beforeandafter"
+    hashtags: "#legendofzelda, #fyp, #wip, #starwars"
 ---

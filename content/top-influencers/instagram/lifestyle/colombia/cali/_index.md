@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Cali In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Cali in 2020. Most popular hashtags: #lifestyle #quedateencasa #cuarentena #yomequedoencasa.
+  Find top lifestyle Instagram influencers in Cali in 2020. Most popular hashtags: #lifestyle #colombia #cali #calicolombia.
 platform: Instagram
+hits: 47
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 47 Instagram influencers like this in Cali, Colombia for you to work with.
 profiles:
-  - username: "julimejiaseidel"
+  - username: "jonamontoyazumba"
     fullname: >-
-      J U L I A N A ✨
+      Jonathan Montoya
+    bio: >-
+      “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
     location: "Colombia"
-    followers: 9621
-    engagement: 647
-    commentsToLikes: 0.010935
-    id: ck5pw3sa2kyeu0i11brcihy7z
+    followers: 13357
+    engagement: 674
+    commentsToLikes: 0.063292
+    id: ck1396johjs550i19eksedc0q
     verified: false
-    hashtags: "#editorialgirl, #glam, #cute, #street"
-  - username: "melanieliz1"
+    hashtags: "#salsacale, #instagood, #colombiapresente, #zumbafitness"
+  - username: "giannimichielin"
     fullname: >-
-      Melanie Liz
+      Giannina Michielin Roa
+    bio: >-
+      Fashion Blogger Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
     location: "Colombia"
-    followers: 65787
-    engagement: 408
-    commentsToLikes: 0.008897
-    id: ck6u3phesz4ie0j71e0swh4ad
+    followers: 38496
+    engagement: 137
+    commentsToLikes: 0.099863
+    id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
-    hashtags: "#elpoderdesertu, #quedateencasa, #yomequedoencasa, #amoinfinitek"
-  - username: "michelleh.lly"
+    hashtags: "#influencermarketing, #micalibella, #publicidad, #gracias"
+  - username: "molialvarez"
     fullname: >-
-      Michelle Herrera.
+      Moli Álvarez
+    bio: >-
+      #bailalealavida Instructora certificada @zumba Fitness🇨🇴 Sí eres una mamita y quieres relajarte, sígueme en @mamasinafanes
     location: "Colombia"
-    followers: 80807
-    engagement: 1130
-    commentsToLikes: 0.011341
-    id: ck5ch3tm2q27j0i11ygxpgho3
+    followers: 19051
+    engagement: 319
+    commentsToLikes: 0.056481
+    id: ck0w7590lbtkp0i19cjvtu760
     verified: false
-    hashtags: "#cuarentena, #beautygirl, #bestoftheday, #baile"
+    hashtags: "#colombia, #cali, #love, #usa"
+  - username: "mcamilarodriguezf"
+    fullname: >-
+      Camila Rodríguez
+    bio: >-
+      Mzl, Colombia📍🇨🇴 Odontología💉🦷UAM⚕️ Crossfit 🏋🏽‍♀️💪🏽
+    location: "Colombia"
+    followers: 10943
+    engagement: 828
+    commentsToLikes: 0.009943
+    id: ck600tv4he9dz0i14ajb0997s
+    verified: false
+    hashtags: "#sunsetphotography, #colombia, #photography, #beauty"
   - username: "annyriveraduque"
     fullname: >-
-      ANNY RIVERA
+      Anny Rivera
+    bio: >-
+      Ciclismo| Running| Training Lifestyle⁣ ➟ Bienestar ⁣ De Cali, 📍 Bogotá ⁣⁣ Strava: Anny Rivera Duque⁣⁣ ⁣⁣
     location: "Colombia"
-    followers: 50798
+    followers: 54892
     engagement: 218
-    commentsToLikes: 0.171230
+    commentsToLikes: 0.018477
     id: ck5q2qrfnhcc50i11qd0qax73
     verified: false
-    hashtags: "#home, #ootd, #todayfood, #easyrecipes"
-  - username: "angelicaalmanzara"
+    hashtags: "#bike, #mtb, #road, #gorigogo"
+  - username: "danielrestrepogarcia"
     fullname: >-
-      Angélica Almánzar A
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+    bio: >-
+      Quiero transmitir mi filosofía olímpica 🇨🇴. Porque no solo se trata de ganar medallas, sino amistad, comprensión, y esfuerzo 🔜@tokyo2020 🎌
     location: "Colombia"
-    followers: 47581
-    engagement: 412
-    commentsToLikes: 0.030357
-    id: ckap4srbu8pcd0i78wb4ipbmq
+    followers: 10512
+    engagement: 1195
+    commentsToLikes: 0.012534
+    id: ck8sxy4w6j33z0j78bo5e1iqo
     verified: false
-    hashtags: "#locurachallenge, #quedateentuputacasa, #hazteuncambiodelook, #sinmiedo"
-  - username: "calicolfit"
+    hashtags: "#me, #champion, #workout, #motivation"
+  - username: "isabellacubillos"
     fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
+      ISABELLA CUBILLOS
+    bio: >-
+      Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
     location: "Colombia"
-    followers: 35443
-    engagement: 96
-    commentsToLikes: 0.054930
-    id: ck5zufszw2a0r0i14z8wpyi8c
+    followers: 57746
+    engagement: 184
+    commentsToLikes: 0.043571
+    id: ck8t6makke3v20j78m7phwtob
     verified: false
-    hashtags: "#facil, #glutes, #gluteo, #fresas"
-  - username: "stefanigamboatv"
+    hashtags: "#lifestyle, #selfie, #cardiohiit, #fitnessjourney"
+  - username: "juanpatetrae"
     fullname: >-
-      StefaniGamboa
+      Juanpatetrae 🔪
+    bio: >-
+      My history time = My daily life 😏🔥 Chef /Creador y buscador gastronómico 👨🏻‍🍳👀 Tiktok (+80K): Juanpatetrae Foodlover 🤤 I Love animals 🐾❤️ Cali 🇨🇴📍
     location: "Colombia"
-    followers: 123621
-    engagement: 202
-    commentsToLikes: 0.025970
-    id: ck6uap5su4u5d0j713b8qkdt2
+    followers: 7568
+    engagement: 439
+    commentsToLikes: 0.082879
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#losangeles, #automotivation, #thedancingmom, #maritefarfan"
-  - username: "tatianaugirardi"
+    hashtags: "#hombre, #tattoo, #colombia, #foodporn"
+  - username: "lauritafitness"
     fullname: >-
-      Tatiana USSA GIRARDI
+      Lau Tamayo 🎀
+    bio: >-
+      Colombian 🇨🇴 Cat lover 😻 Fitness 🏋️‍♀️ Travel ✈️ Trading 📈 #BornToBeRealNotPerfect
     location: "Colombia"
-    followers: 1727380
-    engagement: 160
-    commentsToLikes: 0.011152
-    id: ck5znbvv9o5x70i143pee9whu
-    verified: true
-    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
-  - username: "la.sra.celin"
-    fullname: >-
-      Celin Giraldo
-    location: "Colombia"
-    followers: 74759
-    engagement: 114
-    commentsToLikes: 0.049828
-    id: ck5c0phsqtlbp0i113o732qkp
-    verified: true
-    hashtags: "#stayathome, #malafama, #dannapaola, #estrias"
-  - username: "grego_fit"
-    fullname: >-
-      Gregory Sanchez
-    location: "Colombia"
-    followers: 8448
-    engagement: 364
-    commentsToLikes: 0.155582
-    id: ck15s338yaz3f0i19uarhjcpz
+    followers: 4189
+    engagement: 1063
+    commentsToLikes: 0.115666
+    id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#rutinasgym, #body, #pubertad, #cali"
+    hashtags: "#positiva, #verano, #model, #classy"
+  - username: "danielaguaguaa"
+    fullname: >-
+      DANIELA GUAGUA
+    bio: >-
+      ♡ Hago maquillajes para la vida real ♡ Comunicadora Social ♡ Cali, Colombia 🇨🇴 VÍDEOS EN YOUTUBE⬇
+    location: "Colombia"
+    followers: 9277
+    engagement: 495
+    commentsToLikes: 0.074169
+    id: ck8t9afrone6w0j784kqhd4ia
+    verified: false
+    hashtags: "#makeuptutorials, #makeuptime, #makeuplovers, #trendmood1"
 ---

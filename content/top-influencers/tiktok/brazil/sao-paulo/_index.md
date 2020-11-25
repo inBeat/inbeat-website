@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Sao Paulo In 2020
 description: >-
-  Find top TikTok influencers in Sao Paulo in 2020. Most popular hashtags: #challenge #foryoupage #thescottschallenge #fyp.
+  Find top TikTok influencers in Sao Paulo in 2020. Most popular hashtags: #fyp #dueto #fy #foryou.
 platform: TikTok
+hits: 192
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 192 TikTok influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
-  - username: "mathzuccher"
+  - username: "maru_tuzaki"
     fullname: >-
-      Matheus
+      Maru Tuzaki 💋
+    bio: >-
+      🎬 | YouTube: +2M 🌽 📍 | São Paulo/ Paraguaçu Pta 💖 | Instagram @maru_tuzaki
     location: "Brazil"
-    followers: 106727
-    engagement: 2101
-    commentsToLikes: 0.027618
-    id: ck8hpicjhzoh90j7898z993me
-    verified: false
-    hashtags: "#trend, #dublagem, #slow, #dueto"
-  - username: "bbrunoaguiar"
-    fullname: >-
-      Bruno Aguiar
-    location: "Brazil"
-    followers: 580923
-    engagement: 2862
-    commentsToLikes: 0.014058
-    id: ck932wtmnliej0j788pd3z4w6
+    followers: 249700
+    engagement: 2028
+    commentsToLikes: 0.036594
+    id: ck8os2wvsf2om0j785gtliln1
     verified: true
-    hashtags: "#curiosidades, #thescottschallenge, #publi, #melhormae"
-  - username: "brenocosta.oficial"
+    hashtags: "#dublagem, #comedia, #fy, #blogdasirmas"
+  - username: "isaacamacho"
     fullname: >-
-      Breno Costa
+      Isabella Camacho
+    bio: >-
+      Ela/dela Cosplayer Brasil - São Paulo
     location: "Brazil"
-    followers: 232576
-    engagement: 1702
-    commentsToLikes: 0.045002
-    id: ck81t1w9wutqq0j787hazuqv0
+    followers: 155900
+    engagement: 2343
+    commentsToLikes: 0.029464
+    id: ckc91vmj2s5030j231tiqweeh
     verified: false
-    hashtags: "#verificado, #cardistry, #imjustakid, #oldspice"
-  - username: "dfmabs"
+    hashtags: "#cosplaybrasil, #kakegurui, #piticasoficial, #yumeko"
+  - username: "madu.dornelas"
     fullname: >-
-      Mah ❤️
+      Maria Eduarda🥰
+    bio: >-
+      Insta:Madu.dornelas •São Paulo•19 years• 🥰🤡♥️🤦🏻‍♀️🥱 👇🏻meus produtos👇🏻
     location: "Brazil"
-    followers: 36449
-    engagement: 2282
-    commentsToLikes: 0.048851
-    id: cka0px1e8a5m30i78zkwbk1ck
+    followers: 947800
+    engagement: 2458
+    commentsToLikes: 0.016693
+    id: ck9er9xc10vwc0j785ito31po
     verified: false
-    hashtags: "#acting, #pqravoc, #makeitviral, #amywinehouse"
+    hashtags: "#fyp, #dueto, #foryoupage, #himym"
+  - username: "pablotoneti"
+    fullname: >-
+      Pablo Toneti
+    bio: >-
+      NORDESTINO EM SÃO PAULO assessoria@pablotoneti.com INSTAGRAM: @pablotoneti
+    location: "Brazil"
+    followers: 2500000
+    engagement: 2395
+    commentsToLikes: 0.012669
+    id: ck8owcd07x7nj0j788b05ywk6
+    verified: true
+    hashtags: "#guilhermeebenuto, #puleinapiscina, #georgiapeaches, #linhacongelante"
   - username: "morimura"
     fullname: >-
       MoriMura🍕
+    bio: >-
+      22 São Paulo 🐝
     location: "Brazil"
-    followers: 2145326
-    engagement: 2274
-    commentsToLikes: 0.009926
+    followers: 2600000
+    engagement: 2685
+    commentsToLikes: 0.011267
     id: ck9nejdk5dmq10j78dke6fbuc
     verified: true
-    hashtags: "#mugshotchallenge, #fyp, #foryou"
-  - username: "talita_akkemyy"
+    hashtags: "#toddyrealoficial, #teamvaca, #foryou, #fy"
+  - username: "dany.marq"
     fullname: >-
-      Talita Akemy
+      dany.marq
+    bio: >-
+      Carioca morando em São Paulo 🇧🇷 Gentileza gera gentileza!
     location: "Brazil"
-    followers: 2000001
-    engagement: 1704
-    commentsToLikes: 0.014269
-    id: ck80cs6u8axqp0j7891aygk5i
-    verified: true
-    hashtags: "#ficaemcasa, #intentions, #intentionschallenge, #dancinhas"
-  - username: "nana_rezende"
-    fullname: >-
-      nana rezende 💗✨
-    location: "Brazil"
-    followers: 278722
-    engagement: 2967
-    commentsToLikes: 0.024690
-    id: ck8sft5z9pnb40j78znqyjwzm
+    followers: 10800
+    engagement: 3812
+    commentsToLikes: 1.037323
+    id: ckavso82256rs0j23hfzemq0n
     verified: false
-    hashtags: "#challenge, #capadoalbum, #quadrocongelado"
-  - username: "heygabsf"
+    hashtags: "#efeitosdotiktok, #danymarq, #louvoradeus, #trend"
+  - username: "eukelvinicius"
     fullname: >-
-      Gabs Floquet
+      Kelvin Swift
+    bio: >-
+      1992 Canceriano Minas X São Paulo “Existe um mundo que só te quer ver sorrir.”
     location: "Brazil"
-    followers: 41595
-    engagement: 1438
-    commentsToLikes: 0.032950
-    id: ck8p07zbafjwy0j78k2l5mf3b
+    followers: 12700
+    engagement: 3377
+    commentsToLikes: 0.131440
+    id: ckdhlvh5n002c0j23ye2ieh4x
     verified: false
-    hashtags: "#escrevendocomnariz, #disneychannel, #camprock, #nanana"
-  - username: "gabbysantanaof"
+    hashtags: "#mybestvideo, #titktok4fun, #best, #popularontiktok"
+  - username: "theuxs"
     fullname: >-
-      Gabby
+      Ma
+    bio: >-
+      🏳️‍🌈 São Paulo-SP 🇧🇷 Spam like = Bløck Sigam aqui pf❤👇🏻
     location: "Brazil"
-    followers: 3000
-    engagement: 2135
-    commentsToLikes: 0.022159
-    id: ck8s5xuhyhxtn0j78ekjaidd0
+    followers: 13200
+    engagement: 2556
+    commentsToLikes: 0.039950
+    id: ckb9lxzxheozv0j23js9rhowt
     verified: false
-    hashtags: "#beuaty, #sorry, #tikto, #leiaab"
-  - username: "leo_salvez"
+    hashtags: "#foryou, #humorlgbt, #bi, #humor"
+  - username: "_gabrielly_gomes_"
     fullname: >-
-      Leonardo Alves
+      Gabys
+    bio: >-
+      ♏️ 17y São Paulo🇧🇷
     location: "Brazil"
-    followers: 40583
-    engagement: 1463
-    commentsToLikes: 0.030949
-    id: ck8w5hj5q9zc50j784083qom4
+    followers: 4203
+    engagement: 2329
+    commentsToLikes: 0.124336
+    id: ckbbqqp54ehqg0j23i1y7ilv7
     verified: false
-    hashtags: "#may4th, #sotaque, #starwars, #ping"
+    hashtags: "#fy, #foryou, #dancinha, #fyp"
+  - username: "caroldietrichsofc"
+    fullname: >-
+      Carol Dietrichs
+    bio: >-
+      Humor/Horror São Paulo - SP e-mail: ca5510@hotmail.com Live: seg. a sex. 16h
+    location: "Brazil"
+    followers: 465700
+    engagement: 1566
+    commentsToLikes: 0.033200
+    id: ckahwkkv7r6ct0i78ol8acu35
+    verified: false
+    hashtags: "#engra, #scary, #funny, #portugal"
 ---

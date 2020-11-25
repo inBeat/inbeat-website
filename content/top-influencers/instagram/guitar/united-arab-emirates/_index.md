@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top guitar Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #live #guitar #corona #yellow.
+  Find top guitar Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #music #dubai #stayhome #staysafe.
 platform: Instagram
+hits: 14
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 14 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "dr_omer_elamin"
     fullname: >-
-      Dr. Omer Elamin | عمر الأمين
+      Omer Elamin | د. عمر الأمين
+    bio: >-
+      • Doctor/ طبيب • Also iSing 🎤& iPlay Guitar 🎸 📍 Dubai 🇦🇪/ Khartoum🇸🇩 Where Words Fail, Music Speaks 🎼 🎖DREAM NO SMALL DREAMS🎖
     location: "United Arab Emirates"
-    followers: 213475
-    engagement: 184
-    commentsToLikes: 0.021962
+    followers: 234017
+    engagement: 213
+    commentsToLikes: 0.015874
     id: ck5qb9wzikjq30i115dnjl6ik
     verified: false
-    hashtags: "#sudanesemusic, #corona, #worldhealthorganization, #celebrate"
-  - username: "hguitara"
-    fullname: >-
-      Hayder Mezaal 🎸 💍
-    location: "United Arab Emirates"
-    followers: 71076
-    engagement: 137
-    commentsToLikes: 0.041973
-    id: ck6tjtjub3e6v0j71i99tc8hu
-    verified: false
-    hashtags: "#stayhome, #hguitarastudio"
+    hashtags: "#dromerelamin, #ramadan, #stay, #worldhealthorganization"
   - username: "jaywud"
     fullname: >-
       Jay Wud
+    bio: >-
+      Music producer | Guitarist | Singer Living in Dubai 👾 👇🏼Check ‘Nabad’ on your favorite store 🎵
     location: "United Arab Emirates"
     followers: 32443
     engagement: 254
     commentsToLikes: 0.300586
     id: ck8sw1kh8dh520j78k1salg1z
     verified: true
-    hashtags: "#itunes, #catsofinstagram, #cavemanhair, #supportartists"
+    hashtags: "#stayhome, #jaywud, #ableton, #lebanon"
   - username: "amiine.dxb"
     fullname: >-
       Amine
+    bio: >-
+      Dubai UAE 🇦🇪 Athlete 🏋️| Singer🎤 | Guitarist 🎸 Motivation | Travel | Health
     location: "United Arab Emirates"
     followers: 83865
     engagement: 57
     commentsToLikes: 0.026116
     id: ck0u14gx3vt460i19nytou03n
     verified: false
-    hashtags: "#model, #events, #burjkhalifa, #smile"
-  - username: "ammaralrahma"
+    hashtags: "#dahka, #batna, #algeriangirl, #dubaievent"
+  - username: "lukabasi"
     fullname: >-
-      عمَّار
+      Luka Basi
+    bio: >-
+      New Song - NI DUBAI, NI HAWAII🍍❤️Booking email: lukabasi@raayproduction.com FANZONE -> @lbasi_products
     location: "United Arab Emirates"
-    followers: 144633
-    engagement: 404
-    commentsToLikes: 0.047767
-    id: ck135x2tj3od90i194rs2yd16
+    followers: 69905
+    engagement: 551
+    commentsToLikes: 0.009855
+    id: ck6u6ofuugsg20j71mtrcqfm0
+    verified: true
+    hashtags: "#city, #lbasi, #guitar, #singing"
+  - username: "fahmilkhan"
+    fullname: >-
+      Fahmil Khan
+    bio: >-
+      Management Contact : +971505488520 (Dubai) +91 99309 25575 (Mumbai) Email : fahmil.khan@gmail.com
+    location: "United Arab Emirates"
+    followers: 63223
+    engagement: 436
+    commentsToLikes: 0.027163
+    id: ck5zq2l41ttdu0i14y3hdzbtn
     verified: false
-    hashtags: "#repost, #spanish, #guitarist, #sorpions"
+    hashtags: "#musical, #bollywoodmusic, #singingvideo, #timesofmusic"
+  - username: "thepianomaan"
+    fullname: >-
+      Maan Hamadeh (thepianomaan)
+    bio: >-
+      🎼 Fusion Pianist
+    location: "United Arab Emirates"
+    followers: 23826
+    engagement: 343
+    commentsToLikes: 0.056225
+    id: ck55lzf4y2u1l0i11lojq59go
+    verified: false
+    hashtags: "#youtube, #music, #piano, #lockdownlivejamming"
+  - username: "waelalwirr"
+    fullname: >-
+      Wael Al Wirr
+    bio: >-
+      Tech addict, banker, sporty and musician ... 🇯🇴 living in Dubai & Partner @eostrix_gastro_pub reservation: +962 7 7711 4114 & Events @thepianomaan
+    location: "United Arab Emirates"
+    followers: 17923
+    engagement: 167
+    commentsToLikes: 0.052216
+    id: ck55lzgiy2u5c0i11f7tyl5b3
+    verified: false
+    hashtags: "#indifferenttastes, #guitar, #lebanon, #guitarist"
   - username: "pashacazan"
     fullname: >-
       🎻Violinist in Dubai🎻
+    bio: >-
+      🏆Award-winning violinist 🎶Electric & acoustic violin 🎶Classical/arabic/chill out/pop/house 🔝Concerts/events/weddings/festivals YouTube🎬
     location: "United Arab Emirates"
-    followers: 28948
-    engagement: 215
-    commentsToLikes: 0.068460
+    followers: 28188
+    engagement: 230
+    commentsToLikes: 0.069566
     id: ck6tygiog3lep0j71jcduavoy
     verified: false
-    hashtags: "#wedding, #lifeisgood, #playviolin, #lebanon"
+    hashtags: "#violino, #violinlove, #uaewedding, #dubainight"
   - username: "achayatheem_nayaruchekkanum"
     fullname: >-
       Mr & Mrs Oooruthendi
+    bio: >-
+      LOVE & TRAVEL It’s all about love ❤️ Happiness 💑 Life 👫 Travel 🏍 and Peace ✌🏻
     location: "United Arab Emirates"
     followers: 6349
     engagement: 1320
     commentsToLikes: 0.035231
     id: ck5bws54vmb6q0i11d3ka2sdt
     verified: false
-    hashtags: "#tiktokstars, #exploretheworld, #garden, #uaemalayali"
-  - username: "thepianomaan"
+    hashtags: "#valentine, #uaemallu, #malayali, #staysafe"
+  - username: "danialebrahimimusic"
     fullname: >-
-      Maan Hamadeh (thepianomaan)
+      D A N I A L  🧿 Danial Ebrahimi
+    bio: >-
+      Musician,Lyrics,singer 00:00 🙏🏻 فقط خدا 🦀 يادم تورا فراموش 👇🏼👇🏼👇🏼👇🏼
     location: "United Arab Emirates"
-    followers: 21885
-    engagement: 363
-    commentsToLikes: 0.039407
-    id: ck55lzf4y2u1l0i11lojq59go
+    followers: 18459
+    engagement: 433
+    commentsToLikes: 0.141332
+    id: ck9wiluv42v0z0j782u6vhxkz
     verified: false
-    hashtags: "#summerof69, #inbio, #sunsets, #forlebanon"
-  - username: "m_bailouni"
-    fullname: >-
-      RAYAN  BAILOUNI
-    location: "United Arab Emirates"
-    followers: 26607
-    engagement: 222
-    commentsToLikes: 0.149432
-    id: ck8svoso8c65f0j78e8mlfumf
-    verified: false
-    hashtags: "#thebeatdxb, #instalive, #musictalk, #tabloid"
-  - username: "maharat.bymaha"
-    fullname: >-
-      Maha Ali
-    location: "United Arab Emirates"
-    followers: 8112
-    engagement: 431
-    commentsToLikes: 0.429173
-    id: ck5pw3vozkyxu0i11cu8o4uwl
-    verified: false
-    hashtags: "#brushchallenge, #iftar, #sadday, #throwbackthursday"
+    hashtags: "#stag, #piano, #bassguitar, #drums"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In New York In 2020
 description: >-
-  Find top barbers Instagram influencers in New York in 2020. Most popular hashtags: #barber #newyork #nastybarbers #barberlove.
+  Find top barbers Instagram influencers in New York in 2020. Most popular hashtags: #barber #barbershop #barbershopconnect #newyorkbarber.
 platform: Instagram
+hits: 68
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 68 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "brundenlong"
+  - username: "fethexiii"
     fullname: >-
-      Brunden Long
+      Y O U N G   F E ✂️
+    bio: >-
+      📍Bay Area ▪️Personal Barber ▪️ E-mail for 1 • 1 Private training ▪️C.E.O of THEXIII ®️ ⬇️BOOK YOUR APPT TODAY ⬇️
     location: "United States"
-    followers: 28293
-    engagement: 136
-    commentsToLikes: 0.087452
-    id: ck13585sx06fk0i19os2md1w8
+    followers: 129550
+    engagement: 223
+    commentsToLikes: 0.017833
+    id: ck5c6gwqy5exl0i11g272ks5g
     verified: false
-    hashtags: "#designer, #friends, #mombosslife, #style"
+    hashtags: "#hairstyles, #fethexiii, #youngfe, #goal"
+  - username: "worldclassbarbering"
+    fullname: >-
+      ♛WorldClassBarbering♛FL Barber
+    bio: >-
+      💈 Best barbers in the game 💲Tag @worldclassbarbering and use #worldclassbarbering for s/o and reposts❗️ 🔥 Hottest haircuts and styles ✂️ Features
+    location: "United States"
+    followers: 41262
+    engagement: 399
+    commentsToLikes: 0.040523
+    id: ck5c6es9e5afb0i117ca8hb6w
+    verified: false
+    hashtags: "#hairtransformation, #ukbarbers, #denverbarber, #babylisspro"
+  - username: "powerfulblackstories"
+    fullname: >-
+      Lemeria Dueñas/Greg Dueñas
+    bio: >-
+      **HACKED AT 1 MILLION!** A FATHER AND DAUGHTER TEAM. Follow us on our main page. ⬇⬇ Facebook.com/Powerfulblackstories #blackexcellence
+    location: "United States"
+    followers: 64384
+    engagement: 167
+    commentsToLikes: 0.037889
+    id: ck0u2mp3s0du20i19f9qvg6im
+    verified: false
+    hashtags: "#blackexcellence, #baby, #music, #family"
+  - username: "noelblends"
+    fullname: >-
+      
+    bio: >-
+      Sponsored by: @motiv_pro Sponsored by @3versince Use code “NO-3” for 25% OFF YouTube: noelblendsTV 🎥 TEXAS📍 Ulysses, KS🧡
+    location: "United States"
+    followers: 26408
+    engagement: 290
+    commentsToLikes: 0.021449
+    id: ck5q8qfy77hre0i11nvzefunp
+    verified: false
+    hashtags: "#labarber, #womenshair, #andis, #floridabarber"
   - username: "yanielbarber"
     fullname: >-
       𝐘𝐀𝐍𝐈𝐄𝐋 𝐁𝐀𝐑𝐁𝐄𝐑
+    bio: >-
+      • 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 #barber • #scalpmicropigmentation @yanielmicro 🖊 • 𝐍𝐄𝐖 𝐘𝐎𝐑𝐊📍🗽 • DM 📥 @yanielbarber #yanielbarber
     location: "United States"
-    followers: 31904
-    engagement: 121
-    commentsToLikes: 0.057508
+    followers: 32050
+    engagement: 61
+    commentsToLikes: 0.028344
     id: ck5c6etxw5ajn0i11dfvoumei
     verified: false
-    hashtags: "#phillybarbers, #supreme, #haircutboys, #queensny"
-  - username: "jesse.elite87"
+    hashtags: "#queensbarbers, #baldingtattoo, #haircut, #transformation"
+  - username: "kindakrisp"
     fullname: >-
-      Chicago Barber/influencer 🇲🇽
+      Krisp 🎨
+    bio: >-
+      20 Orbits
     location: "United States"
-    followers: 258382
-    engagement: 176
-    commentsToLikes: 0.023536
-    id: ck13873xket3u0i19zgadt5mw
+    followers: 4553
+    engagement: 7789
+    commentsToLikes: 0.066267
+    id: ckaovtmqx643h0i78598jklye
     verified: false
-    hashtags: "#jaguarxjv8, #barberlove, #newyorkcitylife, #skate"
-  - username: "elnene_style"
+    hashtags: "#barberlove, #barbers, #barberfades, #newyorkbarber"
+  - username: "omithebarber_"
     fullname: >-
-      e͆l͆n͆e͆n͆e͆_s͆t͆y͆l͆e͆
+      Omar Peña  🌴🇵🇷
+    bio: >-
+      Barber Educator & Partner With @Blessedbypbh @Blessedbarberstudio West CoOwner #Omithebarbercollection ✂️ @Shapublades El Paso TX📍🇺🇸 Fajardo PR 🌴🇵🇷
     location: "United States"
-    followers: 55482
-    engagement: 58
-    commentsToLikes: 0.021680
-    id: ck139r3exmq0q0i1928pxql7p
+    followers: 69906
+    engagement: 107
+    commentsToLikes: 0.036272
+    id: ck5c7xtd28eet0i118ygwvruf
     verified: false
-    hashtags: "#barbar, #grishko, #freestylewrestling, #monteverde"
-  - username: "stephenmdupont"
+    hashtags: "#barber, #photooftheday, #behindthechair, #newyork"
+  - username: "menstylestutorial"
     fullname: >-
-      Stephen Dupont
+      Men Style Tutorial Tips ✂️👔👞
+    bio: >-
+      A Guide to Men's Fashion | Hair | Luxury | LifeStyle🕴 Content Curated by Professionals 🖲 #menstylestutorial Est. December 2017
     location: "United States"
-    followers: 17397
-    engagement: 240
-    commentsToLikes: 0.013321
-    id: ck5zjmqkfhv3o0i14n7cisfha
+    followers: 110393
+    engagement: 216
+    commentsToLikes: 0.054346
+    id: ckap02978oeim0i7852z9n6wi
     verified: false
-    hashtags: "#generationak, #buyarthelpkids, #custom, #geofrance"
-  - username: "adrianfanus"
+    hashtags: "#masterbarber, #andis, #menstylestutorial, #fade"
+  - username: "goldenbarber_ny"
     fullname: >-
-      Adrian Fanus
+      Paul Hernadez
+    bio: >-
+      💈Personal Barber of Romeo Santos. New York 📍 💇🏻‍♂️Haircuts: $100 🏠House Cuts: $300 Owner of: @goldencutznj
     location: "United States"
-    followers: 45334
-    engagement: 201
-    commentsToLikes: 0.142251
-    id: ck13ba4hdufuj0i19xl0drvvg
+    followers: 11349
+    engagement: 537
+    commentsToLikes: 0.053596
+    id: ckap7k27mkela0i78kk2q9b8c
     verified: false
-    hashtags: "#beard, #faded, #barbering, #thecutlifemen"
+    hashtags: "#tbt, #nj, #newjersey, #labestia"
   - username: "pancakes.and.protein.shakes"
     fullname: >-
       💥YOU ALREADY KNOW💥
+    bio: >-
+      ▪️#THEpafoodie ™ 🍔 ▪️(215) 📍 ▪️Travel 🌍 ▪️Chasing "the pump"💪🏻 ▪️👫@barbieliss 💛💙 ▪️Good Vibes ☯️ ▪️IUOE Local 542 🏗 ▪️👇🏻Blog and Business👇🏻
     location: "United States"
-    followers: 10736
-    engagement: 488
-    commentsToLikes: 0.076009
+    followers: 11752
+    engagement: 469
+    commentsToLikes: 0.070931
     id: ck6tt1bmf80vi0j71i5ixyb0d
     verified: false
-    hashtags: "#barber, #kith, #memorialday, #sulimays"
-  - username: "jakiichu"
-    fullname: >-
-      JAKI
-    location: "United States"
-    followers: 204360
-    engagement: 354
-    commentsToLikes: 0.009685
-    id: ck14lq2xtvx620i19fo9vifhf
-    verified: false
-    hashtags: "#edit, #salonrepublic, #homeiswhereyoumakeit, #shoplocal"
-  - username: "_mind.body_"
-    fullname: >-
-      Kevin McLary
-    location: "United States"
-    followers: 2044
-    engagement: 950
-    commentsToLikes: 0.083867
-    id: ckapa67jzuvsy0i78cuui6erq
-    verified: false
-    hashtags: "#beardfade, #hotrod, #wahlpro, #newyorktough"
-  - username: "meetthebarber"
-    fullname: >-
-      Meetthebarber
-    location: "United States"
-    followers: 39897
-    engagement: 520
-    commentsToLikes: 0.034537
-    id: ck5hk4tebhsg10i11i6hml2f9
-    verified: false
-    hashtags: "#fashionnovamen, #rollingloudnyc, #vmas, #wavesrus"
+    hashtags: "#bakeria1010, #sandwich, #hoagie, #pizza"
 ---

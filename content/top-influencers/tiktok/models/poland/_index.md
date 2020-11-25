@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Poland In 2020
 description: >-
-  Find top models TikTok influencers in Poland in 2020. Most popular hashtags: #food #modeling #tiktokpoll #candyshop.
+  Find top models TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
 platform: TikTok
+hits: 48
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 48 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "ankaskakanka15"
     fullname: >-
       Anulka👼🏼
+    bio: >-
+      💞Actress💞 🌸Model🌸 💕16💕 📷Ig/snap👻-ankaskakanka15
     location: "Poland"
-    followers: 294741
-    engagement: 2046
-    commentsToLikes: 0.011728
+    followers: 417000
+    engagement: 1772
+    commentsToLikes: 0.011397
     id: ck9kg953u6vgm0j78swqfr53x
     verified: false
-    hashtags: "#dlaciebie"
-  - username: "nikegoddess"
+    hashtags: "#foryou, #fyp, #dc, #dlaciebie"
+  - username: "ola.szkol"
     fullname: >-
-      Patrycja Zagórska
+      olaszkolda📸
+    bio: >-
+      Ola Model📸 Ig: olaszkolda⤵️
     location: "Poland"
-    followers: 31024
-    engagement: 1114
-    commentsToLikes: 0.029072
-    id: ck8oqw23z9b6d0j78b7h7xfea
+    followers: 168800
+    engagement: 1931
+    commentsToLikes: 0.010178
+    id: ckbf9cqkt085p0j23t43nerd2
     verified: false
-    hashtags: "#paint, #horrormovie, #rickandmorty, #badwitch"
-  - username: "mcrobonstewka"
+    hashtags: "#vogue, #voguechallenge, #voguemagazine, #duet"
+  - username: "mrcn_dwi"
     fullname: >-
-      McRobon Stewka
+      mrcn_dwi
+    bio: >-
+      ING: mrcn_dwi 24 Dancer/Model/cook ❤️ LOVE YOU ALL ❤️
     location: "Poland"
-    followers: 19662
-    engagement: 1231
-    commentsToLikes: 0.021590
-    id: ck8ke5bz08ryn0j78brghz4bw
+    followers: 28200
+    engagement: 1140
+    commentsToLikes: 0.050452
+    id: ckdtjsisqx5oh0j23rnti2ng3
     verified: false
-    hashtags: "#wawa, #humor, #cabincrew, #warszawa"
-  - username: "olgakleczkowska"
+    hashtags: "#caroline, #carolineforbes, #dlaciebie, #poland"
+  - username: "topmodel.tvn"
     fullname: >-
-      olga kleczkowska ✌😗
+      topmodel.tvn
+    bio: >-
+      Oficjalny profil programu „Top Model” 🔥
     location: "Poland"
-    followers: 247911
-    engagement: 1640
-    commentsToLikes: 0.008117
-    id: ck8knhhaad6qp0j78xno5rzth
+    followers: 128800
+    engagement: 1138
+    commentsToLikes: 0.008426
+    id: ckcehvl4npu3a0j23npuby0el
     verified: true
-    hashtags: "#modeling, #jojocharacters, #animecrush, #catwalkchallange"
+    hashtags: "#3dekadymody, #apart, #model, #topmodel"
   - username: "paulaperezplussizemodel"
     fullname: >-
       PaulaPerez26
+    bio: >-
+      Top Plus size model from Poland 💞 check my INSTAGRAM #plussizebypaulaperez 📸
     location: "Poland"
-    followers: 30204
-    engagement: 463
-    commentsToLikes: 0.028459
+    followers: 29700
+    engagement: 444
+    commentsToLikes: 0.024345
     id: ck93obwh4429h0j78vluu8uap
     verified: false
-    hashtags: "#sky, #holidays, #winterfun, #beautifulplussizemodels"
-  - username: "maxxmazurek"
-    fullname: >-
-      maxxmazurek
-    location: "Poland"
-    followers: 179949
-    engagement: 930
-    commentsToLikes: 0.027270
-    id: ck8ke53h58q8e0j78z7rmd7e2
-    verified: false
-    hashtags: "#jawelry, #ygchallange, #1990, #walklikeyou"
+    hashtags: "#supersizexl, #plussize, #plussizemodelslife, #photomodel"
   - username: "klaudia_moon"
     fullname: >-
       klaudia_moon
+    bio: >-
+      klaudia_moon ➡️ ig Klaudia Chojnacka 20Y🖤 Top Model Poland 8 🖤
     location: "Poland"
-    followers: 75822
-    engagement: 1496
-    commentsToLikes: 0.012344
+    followers: 86200
+    engagement: 1481
+    commentsToLikes: 0.013831
     id: ck9adyj17zdr60j7897a5luh5
     verified: false
-    hashtags: "#bunny, #single, #darkness, #morning"
+    hashtags: "#viral, #fyp, #dlaciebie, #photoshoot"
+  - username: "nikegoddess"
+    fullname: >-
+      Patrycja Zagórska
+    bio: >-
+      •model •21 yo •ig: nikegoddess_ •snap: morelaaaa
+    location: "Poland"
+    followers: 34900
+    engagement: 1092
+    commentsToLikes: 0.021551
+    id: ck8oqw23z9b6d0j78b7h7xfea
+    verified: false
+    hashtags: "#trending, #tiktok, #slowmo, #slow"
   - username: "majamikarah"
     fullname: >-
       majamikarah
+    bio: >-
+      👑Miss Województwa Świętokrzyskiego Instagram - majamikarah💕 💃dancer and model
     location: "Poland"
-    followers: 22342
-    engagement: 246
-    commentsToLikes: 0.021498
+    followers: 38100
+    engagement: 382
+    commentsToLikes: 0.019610
     id: ck8z1i91h1oip0j78zfo31v4b
     verified: false
-    hashtags: "#losangeles, #summervibes, #musicvideo, #sunny"
-  - username: "karry.official"
+    hashtags: "#funny, #dziewczyna, #video, #vegas"
+  - username: "olgakleczkowska"
     fullname: >-
-      Katia Dubitska
+      olga kleczkowska ✌😗
+    bio: >-
+      Poland's Next Top Model 8 finalist IG @olga_kleczkowska 18 yo
     location: "Poland"
-    followers: 47770
-    engagement: 972
-    commentsToLikes: 0.019996
-    id: ck8j854b5hc030j789htc179k
-    verified: false
-    hashtags: "#tiktokpoll, #luxurylife, #maldiveslove, #mcdonalds"
-  - username: "porcelanovva"
+    followers: 283800
+    engagement: 1579
+    commentsToLikes: 0.005361
+    id: ck8knhhaad6qp0j78xno5rzth
+    verified: true
+    hashtags: "#modeling, #duet, #men, #dc"
+  - username: "julkabilska"
     fullname: >-
-      Ania Jaroszewska
+      Julia Bilska
+    bio: >-
+      17, model and a makeup lover Instagram: julkabilska
     location: "Poland"
-    followers: 36389
-    engagement: 1022
-    commentsToLikes: 0.012386
-    id: ck9a6xmb358io0j78sp51cpzy
+    followers: 26200
+    engagement: 1034
+    commentsToLikes: 0.014275
+    id: ckdc8fiawi2fc0j236pkkeoyn
     verified: false
-    hashtags: "#itsrainingmenchallenge, #slowmo, #kot, #redhead"
+    hashtags: "#makeuptutorial, #viral, #dlaciebie, #makeup"
 ---

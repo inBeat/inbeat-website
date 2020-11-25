@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Chile In 2020
 description: >-
-  Find top music TikTok influencers in Chile in 2020. Most popular hashtags: #doglovers #coronavirus #challenge #comedia.
+  Find top music TikTok influencers in Chile in 2020. Most popular hashtags: #parati #chile #fyp #greenscreen.
 platform: TikTok
+hits: 66
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 66 TikTok influencers like this in Chile for you to connect with.
 profiles:
-  - username: "i_ndi_go"
+  - username: "frandiazg"
     fullname: >-
-      Matías Lavín
+      Fran Díaz
+    bio: >-
+      Tengo 18, no 15 weon Ceo de ruar Live with passion, live musical.ly
     location: "Chile"
-    followers: 2425
-    engagement: 1732
-    commentsToLikes: 0.195072
-    id: ckact0x34cne20i78civd5upc
+    followers: 211100
+    engagement: 2415
+    commentsToLikes: 0.028039
+    id: ckacqn0x71i450i78xkzeqb6c
     verified: false
-    hashtags: "#holadamebolaa, #musica, #ontabebe, #trend"
-  - username: "richiangeloficial"
+    hashtags: "#greenscreen, #chistoso, #creditos, #xd"
+  - username: "cristofermackay56"
     fullname: >-
-      RICHI🤪
+      Cristofer Mackay
+    bio: >-
+      Ríete de tus locuras 🤪😂😂😂 comedia ,música🎶
     location: "Chile"
-    followers: 16263
-    engagement: 905
-    commentsToLikes: 0.034592
-    id: ck9036y8od3f50j78jfve8v4f
+    followers: 3300
+    engagement: 1709
+    commentsToLikes: 0.140752
+    id: ckcptk8smobc20j238kqzswqv
     verified: false
-    hashtags: "#bafcachallenge, #paradiisedd, #desdemicasa, #ugoodchallenge"
-  - username: "deniserosenthaloficial"
-    fullname: >-
-      Denise Rosenthal
-    location: "Chile"
-    followers: 423894
-    engagement: 1007
-    commentsToLikes: 0.006587
-    id: ckaik075gh9ua0i78e7yvlweu
-    verified: true
-    hashtags: "#amordemadre, #ladenitienesabor, #estoycontigo, #estoycontigochallenge"
-  - username: "vicho.gnzaa"
-    fullname: >-
-      Vicente González ✨
-    location: "Chile"
-    followers: 229445
-    engagement: 2593
-    commentsToLikes: 0.036047
-    id: ckac8kiawfka90i78q4qsf77x
-    verified: false
-    hashtags: "#comenten, #tiktokcomida, #vira, #workout"
+    hashtags: "#crismackay, #fyp, #tiktokchileno, #venezuela"
   - username: "poligho"
     fullname: >-
       Poli🇨🇱#tiktokchile
+    bio: >-
+      la vida es bella..😍 🇨🇱 Humor y solo buena onda 💪actuo la musica es mi pasion
     location: "Chile"
-    followers: 3609
-    engagement: 1067
-    commentsToLikes: 0.194355
+    followers: 4266
+    engagement: 2163
+    commentsToLikes: 0.361521
     id: cka9mdeaq4a840i7812hi0i0l
     verified: false
-    hashtags: "#morande, #princesas, #parati, #estamosenalerta"
-  - username: "pianachoo"
+    hashtags: "#lasmontini, #hoyesviernesymicuerpolosabe, #diversion, #gallina"
+  - username: "magia.de.duende"
     fullname: >-
-      pianachoo
+      magia.de.duende
+    bio: >-
+      escucho música de vieja culia
     location: "Chile"
-    followers: 16810
-    engagement: 1830
-    commentsToLikes: 0.023183
-    id: ck903eehidai00j78yyrwi5nd
+    followers: 16600
+    engagement: 1893
+    commentsToLikes: 0.029127
+    id: ckbw9mgr1zsmf0j23np8nlasf
     verified: false
-    hashtags: "#mygaminglife, #humor, #otaku, #pianotriste"
-  - username: "markomusika"
+    hashtags: "#parati, #greenscreen, #chileno, #paratipage"
+  - username: "thedeadtreenamedptree_00"
     fullname: >-
-      marko
+      HAHEHO
+    bio: >-
+      CEO of AYO, doe, ya. Age: 9 Editor, Musician
     location: "Chile"
-    followers: 137045
-    engagement: 1083
-    commentsToLikes: 0.009808
-    id: ck9gsxj5qkcs20j78rmlz9eob
+    followers: 5860
+    engagement: 678
+    commentsToLikes: 0.353515
+    id: ckavqv8ls2jb90j23ei4vy1ll
     verified: false
-    hashtags: "#rochela, #venezuel, #comedia, #risa"
-  - username: "lasslocalifornia"
+    hashtags: "#greenscreen, #duet"
+  - username: "tu.musica.retro"
     fullname: >-
-      Lasslo Yancovich
+      CLASICOS 60-70-80-90
+    bio: >-
+      La mejor musica de tu vida en este canal y para todos los gustos 🎶🎶🎼🎼
     location: "Chile"
-    followers: 36768
-    engagement: 485
-    commentsToLikes: 0.025633
-    id: ck9n4ism44ir00j78samub0p0
+    followers: 35900
+    engagement: 1013
+    commentsToLikes: 0.018983
+    id: ckd5lfse7vs0n0j23t9tb8utr
     verified: false
-    hashtags: "#beethoven, #elextra, #eeuu, #udechile"
-  - username: "palomamamiicl"
+    hashtags: "#los90, #1991, #musica, #flashback"
+  - username: "deniserosenthaloficial"
     fullname: >-
-      Paloma Mami
+      Denise Rosenthal
+    bio: >-
+      Cantante, música, compositora 💞
     location: "Chile"
-    followers: 163948
-    engagement: 752
-    commentsToLikes: 0.008826
-    id: ckae391yvwmgq0i78ol52ej05
-    verified: false
-    hashtags: "#live, #jenniferlopez, #coronavirus, #goals"
-  - username: "crismelej"
+    followers: 981100
+    engagement: 1169
+    commentsToLikes: 0.007260
+    id: ckaik075gh9ua0i78e7yvlweu
+    verified: true
+    hashtags: "#dormirchallenge, #santeriachallenge, #dormirdeniserosenthal, #loserschallenge"
+  - username: "colacesante"
     fullname: >-
-      Cris Melej
+      Pedro Muñoz
+    bio: >-
+      Periodista ✨ Humor / Music / Movie / Disney Fan ❤️ 📸: colacesante ✨
     location: "Chile"
-    followers: 9965
-    engagement: 2016
-    commentsToLikes: 0.029472
-    id: ckae95qypp6cx0i78yl5wchas
+    followers: 2910
+    engagement: 1248
+    commentsToLikes: 0.007770
+    id: ckd5lle36vv2j0j23p1wms6u8
     verified: false
-    hashtags: "#xxxtentacion, #badbunny, #getyouthemoon, #someoneyouloved"
+    hashtags: "#latino, #mtv, #chile, #ladygaga"
+  - username: "archie_pop"
+    fullname: >-
+      Archie
+    bio: >-
+      🤺Hay que ser valiente 🧗‍♂️ Para ser diferente🤪 En este mundo 😇🇨🇱
+    location: "Chile"
+    followers: 12700
+    engagement: 3293
+    commentsToLikes: 0.172964
+    id: ckck63yx2r8kh0j23nwraqn28
+    verified: false
+    hashtags: "#jeancarloscanela, #romanticas, #elreyleon, #hablamedeti"
+  - username: "thomasoporto"
+    fullname: >-
+      ⚡T.O.D⚡
+    bio: >-
+      #soylegado🦁 viernes en vivo 🔴 9:00 pm Hijo de Dios✝️❤ 🙌chileno🇨🇱 2t 1:7
+    location: "Chile"
+    followers: 48700
+    engagement: 2128
+    commentsToLikes: 0.021369
+    id: ckck3bo9en5ym0j23tx1xjgs7
+    verified: false
+    hashtags: "#christianboy, #jovenescristianos, #christ, #chile"
 ---

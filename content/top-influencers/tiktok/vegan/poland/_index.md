@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Poland In 2020
 description: >-
-  Find top vegan TikTok influencers in Poland in 2020. Most popular hashtags: #vegan #coronavirus #kawa #duet.
+  Find top vegan TikTok influencers in Poland in 2020. Most popular hashtags: #dc #fyp #dlaciebie #vegan.
 platform: TikTok
+hits: 15
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Poland for you to work with.
 profiles:
-  - username: "kvjkvmjvl"
+  - username: "milesandersz"
     fullname: >-
-      kajakamilajulka
+      Welcome to Heallven
+    bio: >-
+      I’m a ♏️ Tattooer, Vegan, Protagonist Warsaw, PL🇵🇱 Instagram: @milesandersz
     location: "Poland"
-    followers: 7193
-    engagement: 1157
-    commentsToLikes: 0.039479
-    id: ckachgbn6z9b50i788vnym45b
-    verified: false
-    hashtags: "#rozdanie, #yummy, #eating, #nature"
-  - username: "muffinaart"
-    fullname: >-
-      Ana Wrzesińska
-    location: "Poland"
-    followers: 191042
-    engagement: 2208
-    commentsToLikes: 0.021899
-    id: ck9bxjr0zmmmx0j78hdlxeboa
-    verified: false
-    hashtags: "#tortilla, #wegetarianizm, #malowanie, #kolorowew"
-  - username: "adelards"
-    fullname: >-
-      Tom
-    location: "Poland"
-    followers: 0
-    engagement: 1320
-    commentsToLikes: 0.033199
-    id: ck9rlecm7xmni0j78u33oj2qg
-    verified: false
-    hashtags: "#vine, #vineenergy, #mentalhealth, #failedaboriton"
-  - username: "oliviaabrose"
-    fullname: >-
-      liv
-    location: "Poland"
-    followers: 12492
-    engagement: 1280
-    commentsToLikes: 0.018844
-    id: ck9a6xno458qm0j78o0pd90ef
-    verified: false
-    hashtags: "#fashioninspo, #cannibal, #cosplay, #imintheghetto"
-  - username: "mcsilk"
-    fullname: >-
-      MC Silk
-    location: "Poland"
-    followers: 33308
-    engagement: 815
-    commentsToLikes: 0.011609
-    id: ck8ke52z08q4p0j78yoo9escf
+    followers: 53800
+    engagement: 1445
+    commentsToLikes: 0.011961
+    id: ck9n4mq8r5ad60j78a7ct823f
     verified: true
-    hashtags: "#zajawka, #hiphopchallenge, #hot16challenge, #quarantine"
-  - username: "bartek_ujma"
+    hashtags: "#warsaw, #fyp, #dc, #stitch"
+  - username: "skubanana"
     fullname: >-
-      Bartek Ujma ☑️
+      Melida Kaidur
+    bio: >-
+      vegan, dancing nut, former educator, nature conscious, believer, mom 💛🧡
     location: "Poland"
-    followers: 46247
-    engagement: 537
-    commentsToLikes: 0.011299
-    id: ck96jj042p0b30j78c88j4aty
+    followers: 6886
+    engagement: 321
+    commentsToLikes: 0.055672
+    id: ckdbfk4807xl80j230wr0ubv8
     verified: false
-    hashtags: "#ludzi, #oldlady, #zszywacz, #cattok"
+    hashtags: "#nofilter, #viral, #2020, #lipsync"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
+    bio: >-
+      Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 3727
-    engagement: 429
-    commentsToLikes: 0.032010
+    followers: 6289
+    engagement: 509
+    commentsToLikes: 0.020855
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#challange, #riseandshine, #haircare, #healthyrecipe"
-  - username: "ralphferre"
+    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
+  - username: "the.darkest.soul"
     fullname: >-
-      Ralph Ferre
+      A.
+    bio: >-
+      Cosplays, witchcraft and anty bullying (until they're not an a$$)
     location: "Poland"
-    followers: 56588
-    engagement: 933
-    commentsToLikes: 0.013777
-    id: ck8z1ir0p1rys0j78xm4oqjk2
+    followers: 8317
+    engagement: 1671
+    commentsToLikes: 0.034633
+    id: ck9nggg5bf7ug0j783vfuxhdv
     verified: false
-    hashtags: "#dziewczyna, #bffs, #homo, #standup"
-  - username: "buganski_mowi_rusz_sie"
+    hashtags: "#cosplayer, #blackbutler, #cosplay, #cielcosplay"
+  - username: "leszek_to_drobiazg"
     fullname: >-
-      Damian Bugański
+      Leszek To Drobiazg
+    bio: >-
+      *yoga *kierowca betoniarki *trucker *nature *vege *comedy *art *poznań *poland
     location: "Poland"
-    followers: 2431
-    engagement: 503
-    commentsToLikes: 0.031865
-    id: ck8z1icgp1p1o0j78i3c1qdae
+    followers: 18700
+    engagement: 2302
+    commentsToLikes: 0.028985
+    id: ckcjmmggyezu60j23todb87cg
     verified: false
-    hashtags: "#koronawirus, #eggschallenge, #transformacja, #piwo"
-  - username: "jarek_lorek"
+    hashtags: "#duet, #teamleszek, #fyp, #poland"
+  - username: "ewelkamazurek"
     fullname: >-
-      Jarek Lorek
+      EwelkAMazureK
+    bio: >-
+      ❤️𝐿𝑜𝑣𝑒 𝑎𝑙𝑙 𝑜𝑓 𝑦𝑜𝑢❤️ 𝔽𝕠𝕝𝕝𝕠𝕨 𝕚𝕗 𝕪𝕠𝕦👍 𝕚𝕥 𝒫ℴ𝓁𝒶𝓃𝒹
     location: "Poland"
-    followers: 29270
-    engagement: 462
-    commentsToLikes: 0.018151
-    id: cka0ruvqeijky0i78ebo65epa
+    followers: 17500
+    engagement: 995
+    commentsToLikes: 0.096958
+    id: ckcdt5q9wdpnc0j235qojtosc
     verified: false
-    hashtags: "#eggs, #cookies, #magic, #jakzrobi"
+    hashtags: "#kitty, #covid, #ka, #funnytiktok"
+  - username: "bartekgraczo"
+    fullname: >-
+      Bartosz Graczyk
+    bio: >-
+      🎤Technologie, śpiew, parodie i ciekawostki🤔
+    location: "Poland"
+    followers: 31900
+    engagement: 1096
+    commentsToLikes: 0.020046
+    id: ckaik7hv2i7jz0i78iffmnvi2
+    verified: false
+    hashtags: "#dc, #koty, #polska, #ciekawostka"
+  - username: "kvjkvmjvl"
+    fullname: >-
+      kajakamilajulka
+    bio: >-
+      KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
+    location: "Poland"
+    followers: 12900
+    engagement: 1153
+    commentsToLikes: 0.043550
+    id: ckachgbn6z9b50i788vnym45b
+    verified: false
+    hashtags: "#dc, #cooking, #polska, #foryoupage"
+  - username: "freezinka"
+    fullname: >-
+      freezinka
+    bio: >-
+      Zina (Wasza Zi) Śmieszki, ciekawostki i trochę depreski Spełniam swoje marzenie
+    location: "Poland"
+    followers: 59600
+    engagement: 1121
+    commentsToLikes: 0.015303
+    id: ckb0wn236ltlo0j23ufxk0whv
+    verified: false
+    hashtags: "#przepis, #ciekawostka, #smaczne, #polska"
+  - username: "lenagryszko"
+    fullname: >-
+      lenagryszko
+    bio: >-
+      Life is too short to eat untasty food! All recipes on my IG ❤️
+    location: "Poland"
+    followers: 170500
+    engagement: 1349
+    commentsToLikes: 0.007441
+    id: ck95vzwkn028m0j78s4pw9o56
+    verified: true
+    hashtags: "#vlog, #whatieatinaday, #przepis, #perfectmeal"
 ---

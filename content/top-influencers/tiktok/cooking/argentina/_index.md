@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Argentina In 2020
 description: >-
-  Find top cooking TikTok influencers in Argentina in 2020. Most popular hashtags: #misandwich #makeup #torta #chachacha.
+  Find top cooking TikTok influencers in Argentina in 2020. Most popular hashtags: #foryou #parati #viral #fyp.
 platform: TikTok
+hits: 33
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 33 TikTok influencers like this in Argentina for you to work with.
 profiles:
-  - username: "azul..uwu"
+  - username: "de.cambiodehabitos"
     fullname: >-
-      azul..uwu
+      Desiré
+    bio: >-
+      Te espero en mi Instagram 👆🏻 Asesoria Cambio de Hábito~Comunidad Batch Cooking
     location: "Argentina"
-    followers: 10779
-    engagement: 2114
-    commentsToLikes: 0.078091
-    id: ckamgjak0c4bm0i78gc3xfb5n
+    followers: 37800
+    engagement: 477
+    commentsToLikes: 0.025000
+    id: ckcdu0g2xe8sw0j23hh2tk5e7
     verified: false
-    hashtags: "#para, #lgbt, #foryoupag, #mejoresjugadas"
-  - username: "cheksss"
+    hashtags: "#cocina, #mealprep, #mealprepideas, #bajargrasa"
+  - username: "julieta_delaloye"
     fullname: >-
-      Cheky
+      julieta_delaloye
+    bio: >-
+      Arg🇦🇷 ♡ 2691🖤 ♡ 14/07🕯
     location: "Argentina"
-    followers: 174886
-    engagement: 2528
-    commentsToLikes: 0.018554
-    id: ck9jxlvtn1as90j786xg66vvc
+    followers: 2733
+    engagement: 2010
+    commentsToLikes: 0.151329
+    id: ckciuysu30kr60j23mmhw7d1t
     verified: false
-    hashtags: "#childhood, #comedia, #quarantine, #cuarentena"
-  - username: "joakogzz"
+    hashtags: "#charlidamelio, #lucasjzumann, #correportuvida, #editss"
+  - username: "mo0nxzodiac"
     fullname: >-
-      Joako Gonzalez❣
+      Aesthetic girl ✨🦋
+    bio: >-
+      gracias por los 11k 🍃✨ 04/19/20 👑 de todo un poco
     location: "Argentina"
-    followers: 437100
-    engagement: 1801
-    commentsToLikes: 0.128591
-    id: ck9m0p641aw3i0j78umwugual
+    followers: 11567
+    engagement: 1641
+    commentsToLikes: 0.030682
+    id: ckavit1q6r4pu0j234v80qre3
     verified: false
-    hashtags: "#misandwich, #tereto, #chachacha, #diadelasmadres"
-  - username: "seretoninaa"
-    fullname: >-
-      𝐬𝐞𝐫𝐞𝐧𝐚ꨄ
-    location: "Argentina"
-    followers: 18103
-    engagement: 1407
-    commentsToLikes: 0.053022
-    id: ck96jie14ovgu0j78xjnst52j
-    verified: false
-    hashtags: "#rudypankow, #challenge, #maquil, #diadelasmadres"
-  - username: "mimizalez"
-    fullname: >-
-      mimizalez
-    location: "Argentina"
-    followers: 20678
-    engagement: 2309
-    commentsToLikes: 0.007964
-    id: ck8schc35b0ua0j78c1j18qod
-    verified: false
-    hashtags: "#asmr, #esterexposito, #routine, #meangirls"
-  - username: "wal7_3r"
-    fullname: >-
-      Walter Arena
-    location: "Argentina"
-    followers: 16460
-    engagement: 977
-    commentsToLikes: 0.026028
-    id: ck9vettpu0h4h0j783hw9jm86
-    verified: false
-    hashtags: "#dinoday, #chachacha, #renegade"
-  - username: "valendiazz1"
-    fullname: >-
-      Valen Diaz
-    location: "Argentina"
-    followers: 554455
-    engagement: 1687
-    commentsToLikes: 0.005766
-    id: ck8qmqyyjrc8y0j78uiwbw7ql
-    verified: false
-    hashtags: "#fideos, #trend, #helado, #tortaentaza"
-  - username: "kat.romina"
-    fullname: >-
-      Katia🌱
-    location: "Argentina"
-    followers: 5140
-    engagement: 572
-    commentsToLikes: 0.019744
-    id: ck81q5t86g6t30j78y8xigful
-    verified: false
-    hashtags: "#cats, #funnycat, #nightroutine, #parrilla"
+    hashtags: "#cookinghacks, #fyp, #viralvideo, #cruelrealidad"
   - username: "virginiasar"
     fullname: >-
       Virginia Sar
+    bio: >-
+      Pastry-Lifestyle-Entertainment
     location: "Argentina"
-    followers: 19638
-    engagement: 717
-    commentsToLikes: 0.004691
+    followers: 20100
+    engagement: 1645
+    commentsToLikes: 0.024678
     id: ck9k5xr8aykbi0j7877t4xly2
     verified: true
-    hashtags: "#pascua, #corazon, #litchi, #mundodecaramelo"
-  - username: "foodtoker"
+    hashtags: "#cream, #cookingchallenge, #bakery, #colorchallenge"
+  - username: "maribelquirozsoli"
     fullname: >-
-      Food toker
+      Maribel Quiroz Soliz
+    bio: >-
+      feibu
     location: "Argentina"
-    followers: 54868
-    engagement: 329
-    commentsToLikes: 0.003985
+    followers: 11496
+    engagement: 927
+    commentsToLikes: 0.026730
+    id: ckav3t7xpa74n0j23fxhqmohi
+    verified: false
+    hashtags: "#findyoursexy, #sexybo, #zyxbca, #sexybody"
+  - username: "asadazos"
+    fullname: >-
+      Asadazos
+    bio: >-
+      Cocino
+    location: "Argentina"
+    followers: 138300
+    engagement: 626
+    commentsToLikes: 0.009854
+    id: ckbfc9lsv4z320j23cghryk6u
+    verified: false
+    hashtags: "#asadazos, #colitadecuadril, #parrilla, #foryou"
+  - username: "recreossaludables"
+    fullname: >-
+      Recreos Saludables
+    bio: >-
+      Cocinar es divertirse, crear y dar amor 💕 || Instagram || @recreossaludables
+    location: "Argentina"
+    followers: 46300
+    engagement: 1006
+    commentsToLikes: 0.011537
+    id: ckb9mxrwbgcbu0j23vuozu5fp
+    verified: false
+    hashtags: "#viral, #chocolate, #recetafacil, #food"
+  - username: "dailywonderpics"
+    fullname: >-
+      Dailywonderpics
+    bio: >-
+      Dailywonder posts every day - Join us # Dailywonderpics IG to @dailywonderpics
+    location: "Argentina"
+    followers: 75800
+    engagement: 1140
+    commentsToLikes: 0.000000
     id: ck9jxtaew26s80j78k0kifhj6
     verified: false
-    hashtags: "#paint, #glitter, #follow, #bread"
+    hashtags: "#viralvideo, #dessert, #cook, #new"
+  - username: "comeren.ba"
+    fullname: >-
+      comeren.ba
+    bio: >-
+      • Food & Travel • Me gusta comer 🤷🏽‍♀️ Seguime en Instagram @comeren.ba 🔥
+    location: "Argentina"
+    followers: 3282
+    engagement: 569
+    commentsToLikes: 0.013137
+    id: ckbf1thhgo8f20j23p7s845xv
+    verified: false
+    hashtags: "#parati, #oreo, #foodporn, #argentina"
+  - username: "chelfudisney"
+    fullname: >-
+      Chelfu
+    bio: >-
+      Futura licenciada en gastronomía y amante de Disney ❤️ Recetas en Instagram
+    location: "Argentina"
+    followers: 62000
+    engagement: 1461
+    commentsToLikes: 0.006623
+    id: ckciociaivjzd0j23xpliebgw
+    verified: false
+    hashtags: "#harry, #cocinando, #disneyland, #reposteria"
 ---

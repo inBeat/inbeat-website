@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Belgium In 2020
 description: >-
-  Find top travel TikTok influencers in Belgium in 2020. Most popular hashtags: #quarantine #france #photography #winter.
+  Find top travel TikTok influencers in Belgium in 2020. Most popular hashtags: #travel #belgium #fyp #foryou.
 platform: TikTok
+hits: 34
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 34 TikTok influencers like this in Belgium for you to work with.
 profiles:
   - username: "frederikmaesen"
     fullname: >-
       frederikmaesen
+    bio: >-
+      Storyteller and travelblogger. Visit my website for more destinations
     location: "Belgium"
-    followers: 10029
-    engagement: 865
-    commentsToLikes: 0.032663
+    followers: 10700
+    engagement: 705
+    commentsToLikes: 0.048581
     id: ck9envj89l4kd0j7859fjg918
     verified: false
-    hashtags: "#helshoven, #paragliders, #canoe, #belgie"
-  - username: "marinarossa_"
+    hashtags: "#uitkijktoren, #landschap, #limburg, #herfstwandeling"
+  - username: "richkidthickk"
     fullname: >-
-      MARINA
+      Rich kid thickk
+    bio: >-
+      Got hacked at 60k 😢 Photographer from Belgium Goal: To keep travellin the world
     location: "Belgium"
-    followers: 7905
-    engagement: 522
-    commentsToLikes: 0.028543
-    id: ck9envhnyl4bc0j78j5spmjl4
+    followers: 4710
+    engagement: 406
+    commentsToLikes: 0.023338
+    id: ckcjd2t5z9ucc0j23aptkyewv
     verified: false
-    hashtags: "#wlyg, #boredinahouse, #sparkar, #cursedimages"
-  - username: "laurandnicolas"
+    hashtags: "#backpacking, #belgium, #fyp, #foryoupage"
+  - username: "ce1os"
     fullname: >-
-      Laura and Nicolas
+      Celal Yüksel
+    bio: >-
+      BASED IN BELGIUM SC: Celooss IG: Ce1os 📥 ce1oscontact@gmail.com
     location: "Belgium"
-    followers: 16173
-    engagement: 486
-    commentsToLikes: 0.020008
-    id: ckacldvjsf6bj0i78kokia5zp
+    followers: 6225
+    engagement: 1000
+    commentsToLikes: 0.061189
+    id: ck8j96dn1m0dc0j78y48d4qgm
     verified: false
-    hashtags: "#luxuryhotel, #couplequestions, #dontyoudare, #sunrise"
+    hashtags: "#ios14, #minivlog, #outfitinspiration, #fyp"
+  - username: "shotbyfelixx"
+    fullname: >-
+      Felix Van Lantschoot
+    bio: >-
+      Belgian photographer, showing you the best spots. Insta: @shotbyfelixx
+    location: "Belgium"
+    followers: 3443
+    engagement: 776
+    commentsToLikes: 0.039248
+    id: ckcduss0eeoz60j23qld9lwmf
+    verified: false
+    hashtags: "#roadtrip, #drone, #travelvideo, #photography"
+  - username: "potverdekke"
+    fullname: >-
+      Arthur Van der Lindn
+    bio: >-
+      we try to be aesthetically pleasing :) +32/🇧🇪
+    location: "Belgium"
+    followers: 144000
+    engagement: 1735
+    commentsToLikes: 0.011758
+    id: ckb9p5ztsjybu0j23cr6mbrlt
+    verified: false
+    hashtags: "#aesthetic, #antwerp, #pintrest, #fashion"
   - username: "ermagert"
     fullname: >-
       Gert
+    bio: >-
+      📍 #NYC but 🇧🇪 🔭 PhD Astrophysic 👤 Pr. Artificial intelligence 💼 A.i. lead
     location: "Belgium"
-    followers: 4347
-    engagement: 650
-    commentsToLikes: 0.023195
+    followers: 5935
+    engagement: 877
+    commentsToLikes: 0.021048
     id: ck9tu8scbk7490j78zpqhgqdw
     verified: false
-    hashtags: "#gayfrance, #instacool, #instagay, #lgbt"
-  - username: "donabr_dqnn_officiel"
-    fullname: >-
-      donabr_dqnn_officiel
-    location: "Belgium"
-    followers: 3304
-    engagement: 940
-    commentsToLikes: 0.030857
-    id: cka0phz4e8cmu0i78sk9rgsv1
-    verified: false
-    hashtags: "#covid19, #pourtoi, #like4like, #instamood"
+    hashtags: "#stayathome, #home, #travel, #gym"
   - username: "sentiersduphoenix"
     fullname: >-
       Sentiers du Phoenix 
+    bio: >-
+      🏔 Adventure, Trail & Outdoor blogger 🏃🏼Salomon & Suunto Ambassador
     location: "Belgium"
-    followers: 38198
-    engagement: 598
-    commentsToLikes: 0.010126
+    followers: 38300
+    engagement: 586
+    commentsToLikes: 0.010549
     id: ck83z3ln0xeqx0j785vh8qmdt
     verified: true
-    hashtags: "#freedom, #fjord, #reve, #horseriders"
-  - username: "tulipa_dias"
+    hashtags: "#adventure, #horse, #nature, #finland"
+  - username: "marinarossa_"
     fullname: >-
-      tulipa_dias
+      MARINA
+    bio: >-
+      Canadian who lived in Belgium for 3 years! Jokes n such 💌follow me on IG💌
     location: "Belgium"
-    followers: 16607
-    engagement: 409
-    commentsToLikes: 0.017972
-    id: cka0s3shqjsao0i78krs6v3os
+    followers: 29700
+    engagement: 572
+    commentsToLikes: 0.026496
+    id: ck9envhnyl4bc0j78j5spmjl4
     verified: false
-    hashtags: "#makeuptable, #cabincrewlife, #model, #style"
-  - username: "aurelieorton"
+    hashtags: "#belgian, #belgiangirl, #tiktokbelgium, #expat"
+  - username: "dreamlife_official"
     fullname: >-
-      Jewel horse
+      Dream Life
+    bio: >-
+      The dream life on TikTok 😎 IG: @dreamlife_official ©️ to creators
     location: "Belgium"
-    followers: 5827
-    engagement: 1999
-    commentsToLikes: 0.054593
-    id: ck9eo5hx8mmmy0j78jd29v3t1
+    followers: 4339
+    engagement: 665
+    commentsToLikes: 0.007963
+    id: ckb9kf7tkc51x0j23fl75v1x2
     verified: false
-    hashtags: "#1000abo, #myjewellery, #galopp, #animalrights"
-  - username: "lostfrequencies"
+    hashtags: "#lamborghini, #mercedes, #ferrari, #foryou"
+  - username: "dopefacts"
     fullname: >-
-      Lost Frequencies
+      Fun Facts
+    bio: >-
+      ↕️Follow me on YouTube↕️ Daily Cool Facts 🔎 📩 dopefactscontact@gmail.com
     location: "Belgium"
-    followers: 4873
-    engagement: 994
-    commentsToLikes: 0.028917
-    id: ck9649iyrxveb0j78fmjopof5
-    verified: true
-    hashtags: "#sandiego, #travel, #duet, #remix"
-  - username: "likemike"
-    fullname: >-
-      Like Mike
-    location: "Belgium"
-    followers: 6577
-    engagement: 740
-    commentsToLikes: 0.029118
-    id: ckan5ea5leopf0i78ozqhj2g7
-    verified: true
-    hashtags: "#tiktokindia, #musicvideo, #beinglikemike, #sticky"
+    followers: 134900
+    engagement: 2147
+    commentsToLikes: 0.067645
+    id: ck9jv7u7zr1ry0j78t1uihb8v
+    verified: false
+    hashtags: "#amazingfacts, #foryoupage, #fyp, #funfacts"
 ---

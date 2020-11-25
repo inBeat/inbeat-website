@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top photographers Instagram influencers in Argentina in 2020. Most popular hashtags: # #makeportraits #cuarentena #blackandwhite.
+  Find top photographers Instagram influencers in Argentina in 2020. Most popular hashtags: #portrait #argentina #modelo.
 platform: Instagram
+hits: 162
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 162 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "ivolendranz"
+  - username: "pk.ph"
     fullname: >-
-      Ivo Lendranz
+      Paula Kerbs Fotografía
+    bio: >-
+      Fashion & Lifestyle photographer + filmmaker Community Manager & Mkt Digital Contenido para marcas: @pk.brands Buenos Aires, Argentina @paulikerbs
     location: "Argentina"
-    followers: 75240
-    engagement: 413
-    commentsToLikes: 0.069532
-    id: ck13brhffwtk50i19uvjhxrds
+    followers: 20342
+    engagement: 579
+    commentsToLikes: 0.890644
+    id: ck0w1c2zxilkz0i194shen5g5
     verified: false
-    hashtags: "#aovportraits, #portraitsshotz, #makeportraits, #fineartphg"
+    hashtags: "#taylornation, #oneheartmagazine, #lwymmd, #somewheremagazine"
+  - username: "antobonazzola"
+    fullname: >-
+      Ms. Antonela
+    bio: >-
+      Photographer & Content Creator «skincare & fashion» ★ info@antobonazzola.com.ar ● @chiliagency ● @abb_brand ● Co-Owner @champsmediaagency
+    location: "Argentina"
+    followers: 67947
+    engagement: 293
+    commentsToLikes: 0.136828
+    id: ck0w60lmg6c7y0i19rz3w6fex
+    verified: false
+    hashtags: "#ootd, #goodmorning, #skincare, #beautytips"
   - username: "adelselphoto"
     fullname: >-
       Agustin del Sel
+    bio: >-
+      🌎 Buenos Aires - Argentina 📸 Portrait photographer 📥 Sesiones y eventos al MD   👤 Personal / B&W @agus.delsel 💼 Staff de @tpconcept   ⬇️ Portfolio ⬇️
     location: "Argentina"
-    followers: 15959
-    engagement: 804
-    commentsToLikes: 0.038749
+    followers: 18902
+    engagement: 1130
+    commentsToLikes: 0.026193
     id: ck13brezzwt8e0i19e96zobx1
     verified: false
-    hashtags: "#fashiongram, #pandemia, #sensaciones, #pinamar"
+    hashtags: "#coscuarmy, #nvjshop, #ig, #hypebeast"
   - username: "martinorozco"
     fullname: >-
       Martín Orozco
+    bio: >-
+      Comercial Photographer. Currently taking time to complete a 365 day project for a fifth year. Based in Mendoza, Argentina. New project 👇
     location: "Argentina"
-    followers: 31697
-    engagement: 185
-    commentsToLikes: 0.062264
+    followers: 34084
+    engagement: 201
+    commentsToLikes: 0.060057
     id: ck0vveqs8ot5k0i19jk9fxk05
     verified: false
-    hashtags: "#tuvieja, #humansofmza, #peru, #mordisquito"
+    hashtags: "#gelphotogtaphy, #retratando, #famousbtsmagazine, #behindthescenes"
   - username: "joacoiribarne"
     fullname: >-
       Joaqui
+    bio: >-
+      Photographer & Creator @m.j.fotografia 🌸🌈 Estamos juntos en @influos 💛🎥🌱 Buenos Aires, Argentina
     location: "Argentina"
-    followers: 14203
-    engagement: 1349
-    commentsToLikes: 0.011738
+    followers: 14334
+    engagement: 1210
+    commentsToLikes: 0.013626
     id: ck6ua3vxk1bzo0j71olnisne9
     verified: false
-    hashtags: "#shotoniphone, #estoysoy, #lofoten, #norway"
+    hashtags: "#estoesimpact, #tommyhilfiger, #thisisimpact"
   - username: "dudubarretov"
     fullname: >-
       Eduardo Barreto 🌾
+    bio: >-
+      🇧🇷 🇦🇷🇺🇾 📞+55 28 📍ES, Brasil 📷Photographer Life Is only one @barretofotografias__
     location: "Argentina"
-    followers: 7503
-    engagement: 908
+    followers: 7258
+    engagement: 939
     commentsToLikes: 0.043519
     id: ckap3ih9t34th0i78sfq1y1ye
-    verified: false
-    hashtags: ""
-  - username: "pabloseco_ph"
-    fullname: >-
-      Pablo Seco ✘
-    location: "Argentina"
-    followers: 21693
-    engagement: 1069
-    commentsToLikes: 0.006212
-    id: ck5hp0qdsqk230i11aa544lp8
-    verified: false
-    hashtags: ""
-  - username: "taboadafa"
-    fullname: >-
-      Fabián Taboada
-    location: "Argentina"
-    followers: 9336
-    engagement: 773
-    commentsToLikes: 0.224891
-    id: ck5q3ohchlpne0i11ysanf1yj
-    verified: false
-    hashtags: "#newface, #shootingday, #beautyportrait, #bookprequince"
-  - username: "misscomplejo"
-    fullname: >-
-      Nadia Bautista
-    location: "Argentina"
-    followers: 25739
-    engagement: 352
-    commentsToLikes: 0.037853
-    id: ck5pwmelpnisv0i110rhjtlz3
     verified: false
     hashtags: ""
   - username: "lemogliefede"
     fullname: >-
       Fede Le Moglie
+    bio: >-
+      📍 • Mar del Plata | Buenos Aires 📸 • Content Creator & Photographer 📩 • Contact: lemogliefede@gmail.com 🌸 • @fiestabresh
     location: "Argentina"
-    followers: 24999
-    engagement: 117
-    commentsToLikes: 0.075662
+    followers: 24414
+    engagement: 125
+    commentsToLikes: 0.095868
     id: ck8syzfbamm6t0j78tuj8yg0s
     verified: false
     hashtags: "#tommyhilfigerjewels"
-  - username: "lupejelena"
+  - username: "m.j.fotografia"
     fullname: >-
-      Lupe Jelena
+      Manu & Joaco 🌈
+    bio: >-
+      ➵ ɢᴇᴍᴇʟᴏs ᴅᴏᴄᴜᴍᴇɴᴛᴀɴᴅᴏ ᴇxᴘᴇʀɪᴇɴᴄɪᴀs ᴀ ᴛʀᴀᴠᴇs ᴅᴇʟ ᴀʀᴛᴇ ➵ Travel & Portrait Photographers Comunidad & Inspiración @fotix.ar
     location: "Argentina"
-    followers: 20535
-    engagement: 390
-    commentsToLikes: 0.036559
-    id: ck6031e63kgku0i14ihaxj0qa
+    followers: 79761
+    engagement: 725
+    commentsToLikes: 0.073203
+    id: ck6ty9ccb2ec80j71vzra2kaw
     verified: false
-    hashtags: "#thoughts, #balance, #swan, #legsfordays"
+    hashtags: "#marruecos, #norway"
+  - username: "matiasarado"
+    fullname: >-
+      MᎪTIᎪS ᎪᏒᎪDO V. ® 📷
+    bio: >-
+      🎞 I Worldwide Fashion Photographer 📧 I matiasarado@live.com.ar 📍 I Now in Buenos Aires l Argentina
+    location: "Argentina"
+    followers: 24619
+    engagement: 159
+    commentsToLikes: 0.045614
+    id: ck5hny9j0olly0i11j71blsgc
+    verified: false
+    hashtags: "#makeup, #style, #film, #makeupoftheday"
+  - username: "mikekarimas"
+    fullname: >-
+      MIKE KARIMAS
+    bio: >-
+      Part-Time Photographer⁣ 📍Houston, Texas
+    location: "Argentina"
+    followers: 3978
+    engagement: 776
+    commentsToLikes: 0.094309
+    id: ck6ude4opkkn30j71zv17521z
+    verified: false
+    hashtags: "#cdmx, #tbt, #mexicocity, #modelo"
 ---

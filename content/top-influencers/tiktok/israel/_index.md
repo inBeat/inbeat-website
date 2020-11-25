@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Israel In 2020
 description: >-
-  Find top TikTok influencers in Israel in 2020. Most popular hashtags: #8k #brighterinside #houseoftiktok #bookclub.
+  Find top TikTok influencers in Israel in 2020. Most popular hashtags: #fyp #foryou #explore.
 platform: TikTok
+hits: 403
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 403 TikTok influencers like this in Israel for you to contact.
 profiles:
   - username: "hmode_nairat7"
     fullname: >-
-      حمودي نعيرات😉🕊
+      ابو عيون خضر🕊💚
+    bio: >-
+      وكأنني خلقت ل ٱفقد كل شيء ٱحبيته ... 💔😟 سنجل بائس😅💔🤦🏻‍♂
     location: "Israel"
-    followers: 4489
-    engagement: 2733
-    commentsToLikes: 0.226253
+    followers: 7556
+    engagement: 2964
+    commentsToLikes: 0.190338
     id: cka8dw7p1ug9m0i785nno54ik
     verified: false
-    hashtags: "#brighterinside"
-  - username: "orie37"
+    hashtags: ""
+  - username: "_85lillv0"
     fullname: >-
-      🥺𝙊𝙧𝙞𝙚 💞
+      ايبك : لـّمــار 🦦💞
+    bio: >-
+      ططط؟؟ بحب ( 25 ) ( 35 ) ( 24 ) ( 11 ) ( 29 ) ( 14 ) ( S ) 💞💗💋.
     location: "Israel"
-    followers: 4159
-    engagement: 2328
-    commentsToLikes: 0.125004
-    id: cka0zb2b5epx60i78lonuyqg8
+    followers: 2985
+    engagement: 2955
+    commentsToLikes: 0.496001
+    id: ckbafb4ik7dzi0j23av9szo83
     verified: false
-    hashtags: "#onmyown, #igotatiktok, #isolationgames, #vscofood"
-  - username: "_2ixp"
+    hashtags: "#im, #85, #vo"
+  - username: ".ma0jdd_"
     fullname: >-
-      ٣ ٢ 💔 .
+      ماجد 👍🏿
+    bio: >-
+      @Rr 🥺)): . 🖕🏻🖕🏼🖕🏾🖕🏽🖕🏿.
     location: "Israel"
-    followers: 8006
-    engagement: 2200
-    commentsToLikes: 0.381209
-    id: cka6lo1903vnq0i78n28f6gh3
-    verified: false
-    hashtags: "#fyp, #explore, #brighterinside, #8k"
-  - username: "2b7.kl"
-    fullname: >-
-      بحبلوناا💔💔.
-    location: "Israel"
-    followers: 3275
-    engagement: 2110
-    commentsToLikes: 0.645717
-    id: cka6imwm2r9u90i781jh93ga3
-    verified: false
-    hashtags: "#stpaddysday, #immaboss, #boredvibes, #onmyown"
-  - username: "hasan_zahwy"
-    fullname: >-
-      تصاميم😊
-    location: "Israel"
-    followers: 2223
-    engagement: 1884
-    commentsToLikes: 0.080652
-    id: cka9l9alr1rgc0i78d98troah
-    verified: false
-    hashtags: "#no, #bmw, #mk5, #940"
-  - username: "_3ixp"
-    fullname: >-
-      𝟥𝟤 , 𝟦𝟩 , 𝟥𝟪💔
-    location: "Israel"
-    followers: 9499
-    engagement: 1876
-    commentsToLikes: 0.354259
-    id: cka6jndxyvgfq0i785rowvv92
-    verified: false
-    hashtags: "#houseoftiktok, #4u"
-  - username: "bts_army_13.6.2013"
-    fullname: >-
-      BTS😍ARMY💜
-    location: "Israel"
-    followers: 31836
-    engagement: 2418
-    commentsToLikes: 0.040792
-    id: ck9n544uj6bzo0j78fqnyme6w
-    verified: false
-    hashtags: "#jhope, #taehyung2013, #funny, #yoongie"
-  - username: "_6ixp"
-    fullname: >-
-      47 , 78 , 32 💕.
-    location: "Israel"
-    followers: 8694
-    engagement: 1747
-    commentsToLikes: 0.389544
-    id: cka6jg1dquktx0i78fp0iwzs2
-    verified: false
-    hashtags: "#tiktokpoll, #10toqueschallenge, #brighterinside, #boompuppy"
-  - username: "_9ixp"
-    fullname: >-
-      3 8 , 3 2 , 7 8 🖤.
-    location: "Israel"
-    followers: 9772
-    engagement: 1736
-    commentsToLikes: 0.257692
-    id: cka6ifwaaqjsk0i78gufy02jp
-    verified: false
-    hashtags: "#houseoftiktok, #isolationgames, #8k"
-  - username: "_4ixp"
-    fullname: >-
-      7 8 , 4 7 , 3 8 💗 .
-    location: "Israel"
-    followers: 8139
-    engagement: 1735
-    commentsToLikes: 0.222858
+    followers: 10100
+    engagement: 2939
+    commentsToLikes: 0.937466
     id: cka5y7rg4h08j0i78guvbjf65
     verified: false
-    hashtags: "#7k"
+    hashtags: "#explore, #xplore"
+  - username: "haedra14"
+    fullname: >-
+      💔😍
+    bio: >-
+      
+    location: "Israel"
+    followers: 18700
+    engagement: 2875
+    commentsToLikes: 0.357264
+    id: ckc1o3sl8so640j233dryg2qq
+    verified: false
+    hashtags: ""
+  - username: "i._love"
+    fullname: >-
+      Alone🥺💔
+    bio: >-
+      Use code:ah79🤭❤️ Epic:TidolV ❤️ لا تنسا تقول ما شاء الله 😢❤️ شكلو اعتزال من دع
+    location: "Israel"
+    followers: 10700
+    engagement: 2867
+    commentsToLikes: 0.137834
+    id: ckbawavhnmrct0j23kgu0swem
+    verified: false
+    hashtags: "#fyp, #love, #foryou, #ah79"
+  - username: "iiuk56_"
+    fullname: >-
+      زياده متابعين ✨،؟
+    bio: >-
+      𓆩⁹⁶ ⁶⁷ ⁶⁸ ²⁸𓆪 ام الي بقيم الفولو 😣😏 قمتها يعن ط 💔💔 انا rl6x7_ 🥺❔
+    location: "Israel"
+    followers: 20100
+    engagement: 2864
+    commentsToLikes: 0.337748
+    id: ckd014tq48a8s0j23qbetxxle
+    verified: false
+    hashtags: ""
+  - username: "ooooooooooixx"
+    fullname: >-
+      F4F
+    bio: >-
+      𝟸𝟸𝟼𝟹 𝙻𝚎𝚐𝚎𝚗𝚍𝚜,𝙱𝙻𝙼! 𝙱𝙻𝙰𝙲𝙺 𝙻𝙸𝚅𝙴𝚂 𝙼𝙰𝚃𝚃𝙴𝚁!
+    location: "Israel"
+    followers: 2923
+    engagement: 2534
+    commentsToLikes: 0.083422
+    id: ckbw01q4nvp7i0j23jcbuohwz
+    verified: false
+    hashtags: "#idontwannagotoschooltomorrow, #randomeddition, #wow, #blackpink"
+  - username: "__.asmaa.ackerman.__"
+    fullname: >-
+      🧍‍♀️
+    bio: >-
+      Instagram : asmaxaxr 🧃 .
+    location: "Israel"
+    followers: 6657
+    engagement: 2385
+    commentsToLikes: 0.592593
+    id: cka6imwm2r9u90i781jh93ga3
+    verified: false
+    hashtags: "#brighterinside, #houseoftiktok, #explore, #onmyown"
+  - username: "eyal_roshrosh"
+    fullname: >-
+      Eyal_Roshrosh
+    bio: >-
+      الاسم:ايال المحتوى:تصاميم ساكن في:فلسطين🇵🇸
+    location: "Israel"
+    followers: 4008
+    engagement: 2272
+    commentsToLikes: 0.281344
+    id: ckbbh6i9e5qus0j23mj3ynk3f
+    verified: false
+    hashtags: "#ejderhayad, #tiktokpoll"
+  - username: "khushi.tiktok12"
+    fullname: >-
+      khushi  sharma
+    bio: >-
+      nursing caregiver from Israel #khushiniku
+    location: "Israel"
+    followers: 12200
+    engagement: 2258
+    commentsToLikes: 0.122846
+    id: ckcd3wf3k142q0j23ekyd4vs0
+    verified: false
+    hashtags: "#dance, #fyp, #foryoupage, #foryou"
 ---

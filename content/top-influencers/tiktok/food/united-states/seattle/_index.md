@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Seattle In 2020
 description: >-
-  Find top food TikTok influencers in Seattle in 2020. Most popular hashtags: #food #seattle #quarantinelife #musiclives.
+  Find top food TikTok influencers in Seattle in 2020. Most popular hashtags: #fyp #food #foryou #seattle.
 platform: TikTok
+hits: 54
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 54 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
-  - username: "phobacseattle"
+  - username: "phillipkopczynski"
     fullname: >-
-      phobacseattle
+      Phillip Kopczynski
+    bio: >-
+      road comic. pro bono quarantine comic. ful sketches on IG, FB, YT SPECIAL-DRYBAR
     location: "United States"
-    followers: 2832
-    engagement: 457
-    commentsToLikes: 0.018610
-    id: ck99aoa5oiimo0j78iv6xdxi0
+    followers: 7246
+    engagement: 1393
+    commentsToLikes: 0.031662
+    id: ckc38adqrx2a10j23by6pg0re
     verified: false
-    hashtags: "#dinner, #phosoup, #noodlesoup, #junkfood"
-  - username: "that1guyginger"
-    fullname: >-
-      That One Guy Ginger
-    location: "United States"
-    followers: 6684
-    engagement: 722
-    commentsToLikes: 0.046270
-    id: cka9kzgm1194y0i780mqhun9n
-    verified: false
-    hashtags: "#daughters, #oneeyedcat, #adore, #justa"
+    hashtags: "#joke, #biden, #naive, #stitch"
   - username: "rambosthanos"
     fullname: >-
       Thanos
+    bio: >-
+      
     location: "United States"
-    followers: 27735
-    engagement: 411
-    commentsToLikes: 0.005099
+    followers: 28600
+    engagement: 401
+    commentsToLikes: 0.007635
     id: ck83zglvs0kxx0j78rtmgjztr
     verified: false
-    hashtags: "#salmankhan, #beautiful, #catclimbing, #avocado"
-  - username: "drumcorpskat"
+    hashtags: "#food, #zoo, #yummy, #seattle"
+  - username: "s.a.r.a.h.l.e.e.e"
     fullname: >-
-      DrumCorpsKat
+      Sarah Lee
+    bio: >-
+      Sarah Lee 18 🇰🇷WA📍 Fllw my Insta :) @s.a.r.a.h.l.e.e.e Venmo:sarahlee726
     location: "United States"
-    followers: 6252
-    engagement: 1772
-    commentsToLikes: 0.038843
-    id: ck8w1bcyg1alf0j78l65xwa63
+    followers: 106400
+    engagement: 1093
+    commentsToLikes: 0.023078
+    id: ckan2l8ky0vhh0i78s2o37oik
     verified: false
-    hashtags: "#got2bhome, #family, #latteart, #stepchicken"
-  - username: "angiebudchanin"
+    hashtags: "#relationship, #foryoupage, #fyp, #washington"
+  - username: "pktxxre"
     fullname: >-
-      angie
+      Alex
+    bio: >-
+      🇰🇷🇺🇸 18 😎 150k!!! 🥺
     location: "United States"
-    followers: 6544
-    engagement: 2018
-    commentsToLikes: 0.047419
-    id: ckal6d96eacrt0i78e5qravmz
+    followers: 160300
+    engagement: 1805
+    commentsToLikes: 0.013505
+    id: ckck37de1myxs0j239g0e9aas
     verified: false
-    hashtags: "#disneydolewhip, #recipe, #puppy, #motivation"
-  - username: "michaelmatti"
+    hashtags: "#korean, #asian, #boba, #relatable"
+  - username: "parkermorgannn"
     fullname: >-
-      Michael Matti
+      Parker Morgan
+    bio: >-
+      i use instagram more^^ | 20 fighting cancer 🎗
     location: "United States"
-    followers: 93836
-    engagement: 997
-    commentsToLikes: 0.029292
-    id: ck80osfx3jqa60j78365cxktv
+    followers: 39200
+    engagement: 581
+    commentsToLikes: 0.014285
+    id: ckdn3p7txdych0j23hji0baox
     verified: false
-    hashtags: "#foryou, #kentucky, #pnwwonderland, #slovenija"
-  - username: "shelbyrene7"
+    hashtags: "#christmas, #duet, #cancer, #fyp"
+  - username: "_wyattrussell_"
     fullname: >-
-      Shelby René
+      wyattrussell
+    bio: >-
+      norf seattle
     location: "United States"
-    followers: 30883
-    engagement: 1630
-    commentsToLikes: 0.013973
-    id: ck83zgo4e0lme0j78m5kkq0tq
+    followers: 86300
+    engagement: 2224
+    commentsToLikes: 0.043441
+    id: ck99ans2cidkl0j78ksicr7vq
     verified: false
-    hashtags: "#everythingsucks, #phineasandferb, #mercedesjones, #gonnabefriends"
-  - username: "chyllz_"
+    hashtags: "#naruto, #lol, #4u, #fyp"
+  - username: "h.a.n.a.n.a"
     fullname: >-
-      chyllz_
+      h.a.n.a.n
+    bio: >-
+      Seattle, Washington 🌲 🚗 to 300K Business: Abdullahihanan53@gmail.com
     location: "United States"
-    followers: 13291
-    engagement: 667
-    commentsToLikes: 0.097852
-    id: ck83zgka90kia0j78eu01f0im
+    followers: 247500
+    engagement: 2250
+    commentsToLikes: 0.019662
+    id: ck9shzbrvw2e90j78c7ovu8vf
     verified: false
-    hashtags: "#seattle, #mashup, #hungry, #runchallenge"
-  - username: "amayzingeatss"
+    hashtags: "#showupshowoff, #muslim, #hijabi, #fyp"
+  - username: "sayabee3"
     fullname: >-
-      Amayzing
+      Saya
+    bio: >-
+      Saya -21- 🇺🇸🇯🇵 ハーフ Seattle/Portland I post a lot about Japan
     location: "United States"
-    followers: 39120
-    engagement: 548
-    commentsToLikes: 0.029171
-    id: ck7zp8mu2nvkk0j789u4ipvrn
+    followers: 19600
+    engagement: 1505
+    commentsToLikes: 0.026880
+    id: ck8kfesnrdvhm0j78fcrg31kn
     verified: false
-    hashtags: "#hoopsathome, #tacolove, #macncheese, #leavingmybody"
-  - username: "itsbadandy1"
+    hashtags: "#foryou, #wasian, #love, #japan"
+  - username: "ephrimvidz"
     fullname: >-
-      BadAndy🥀
+      Ephrim Kim
+    bio: >-
+      Seattle 📍WA, welcome to my skits (follow my Instagram ephrimvidz )
     location: "United States"
-    followers: 13142
-    engagement: 424
-    commentsToLikes: 0.020280
-    id: ckac3sjojbun10i78uotfk40c
+    followers: 106500
+    engagement: 1975
+    commentsToLikes: 0.011247
+    id: ckbl26y2sz84u0j232e12s7wg
     verified: false
-    hashtags: "#styrofoam, #cute, #maine, #stayathome"
+    hashtags: "#comedyskit, #cutegirls, #girlfriend, #foryou"
+  - username: "thomasstone38"
+    fullname: >-
+      Thomas Stone
+    bio: >-
+      Seattle Single Dad Not sure how I ended up here....
+    location: "United States"
+    followers: 489300
+    engagement: 1595
+    commentsToLikes: 0.003803
+    id: ck8j3udhizt270j780tuklbpx
+    verified: false
+    hashtags: "#art, #jello, #artlessons, #jelloflower"
 ---

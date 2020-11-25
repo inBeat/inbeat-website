@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top graphic-designers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #musiclives #littlethings #everydayscience #petvlog.
+  Find top graphic-designers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #graphicdesign #losangeles #foryoupage.
 platform: TikTok
+hits: 8
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 8 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "adrianxortiz"
+  - username: "silviacantustudio"
     fullname: >-
-      Adrian
+      Silvia - Your Creative Coach
+    bio: >-
+      Art Director/Los Angeles HOW TO BE A CREATIVE PRO AND MAKE MONEY OUT OF IT 🧠✨💵
     location: "United States"
-    followers: 1535939
-    engagement: 2916
-    commentsToLikes: 0.055293
-    id: ck7zohnffk4us0j78gnmsjcph
+    followers: 22900
+    engagement: 683
+    commentsToLikes: 0.022941
+    id: ckcuhgp56fmd40j23bf5x4nja
     verified: false
-    hashtags: "#beauty, #stepchickens, #filipino, #boys"
-  - username: "emilybcohen"
+    hashtags: "#smallbusinesstips, #careeradvice, #freelancer, #graphicdesigner"
+  - username: "caseypaintings"
     fullname: >-
-      em🤑
+      Casey Lynn Hancock
+    bio: >-
+      Artist in Los Angeles, CA
     location: "United States"
-    followers: 20580
-    engagement: 1897
-    commentsToLikes: 0.060548
-    id: ck9dwgzteoy1a0j78q24ihcju
+    followers: 138600
+    engagement: 1162
+    commentsToLikes: 0.027896
+    id: ck9gtbipalz2e0j78btar72ch
     verified: false
-    hashtags: "#chloetingchallenge, #hellenkeller, #sarahcameron, #outerbanks"
-  - username: "alluringskull"
+    hashtags: "#oilpainting, #caseypaintings, #artist, #oilpaint"
+  - username: "mykielikesit"
     fullname: >-
-      Alluring Skull
+      Mykie Rogers
+    bio: >-
+      Lover of life - Join me! 🌇 LA Native // 🌵 Dad // 🦥 Nature Lover
     location: "United States"
-    followers: 210203
-    engagement: 3337
-    commentsToLikes: 0.023618
-    id: ck8otiyjblg180j7841ldmzeb
+    followers: 9077
+    engagement: 610
+    commentsToLikes: 0.029359
+    id: ckbf2bh3gp76t0j23xzukn3l3
     verified: false
-    hashtags: "#barbz, #stepchickens, #eattherich, #lesbian"
-  - username: "dakotarescuedog"
+    hashtags: "#iloveyou, #daddy, #healthy, #beach"
+  - username: "b._.uggies4"
     fullname: >-
-      JDog Rescue
+      b._.uggies
+    bio: >-
+      Professional Deaf Makeup Artist Venmo- Brady-Allio IG- @b._.uggies
     location: "United States"
-    followers: 28247
-    engagement: 3353
-    commentsToLikes: 0.041047
-    id: ck9kb9s3tk9wq0j78734p3uh7
+    followers: 184000
+    engagement: 1366
+    commentsToLikes: 0.002882
+    id: ck81sb9onres00j78szm0i66r
     verified: false
-    hashtags: "#hoopsathome, #everydayheroes, #loungewear, #pancakecereal"
-  - username: "swag11984"
+    hashtags: "#makeup, #baldcap, #makeupartist, #fyp"
+  - username: "discodottie"
     fullname: >-
-      Mann randhawa🇺🇸
+      🦋 disco dottie 🦋
+    bio: >-
+      🌈 y2k mcblingy inspired stickers n more🦋 💕 self taught digital artíste 🏳️‍🌈
     location: "United States"
-    followers: 5132
-    engagement: 1539
-    commentsToLikes: 0.076022
-    id: ck931i8aeerj20j78zenxa2pk
+    followers: 136300
+    engagement: 2181
+    commentsToLikes: 0.024524
+    id: ck9nhmmfpg85g0j78n06m2w2p
     verified: false
-    hashtags: "#duet, #garrysandhu, #gkhan"
-  - username: "operamericano"
+    hashtags: "#findyourthing, #redbubble, #digitalart, #stickers"
+  - username: "stevenrshattuck"
     fullname: >-
-      CJ OperAmericano
+      Steven Shattuck
+    bio: >-
+      Cash app $Stevenshattuck Venmo @Steven-Shattuck
     location: "United States"
-    followers: 800279
-    engagement: 1974
-    commentsToLikes: 0.024697
-    id: ck806zresnf3b0j78gxtgon1d
-    verified: true
-    hashtags: "#washyourhandschallenge, #opticalillusion, #brushchallenge, #musiclives"
-  - username: "nathanhurdcomedy"
-    fullname: >-
-      Nathan Hurd
-    location: "United States"
-    followers: 226112
-    engagement: 1796
-    commentsToLikes: 0.038378
-    id: ck9e0flve5u4m0j78hflwv6xu
+    followers: 204000
+    engagement: 1842
+    commentsToLikes: 0.016477
+    id: ckbf62ibkvfz80j23lfusigl0
     verified: false
-    hashtags: "#littlethings, #skateboarding, #lovemom, #youareawesome"
-  - username: "aedan_carden"
+    hashtags: "#stayathome, #carguy, #funny, #waitforit"
+  - username: "designedbyyvette"
     fullname: >-
-      CARDEN
+      Yvette Nakamoto
+    bio: >-
+      ✨come join my creative space✨
     location: "United States"
-    followers: 24824
-    engagement: 2347
-    commentsToLikes: 0.031609
-    id: cka0nanjgyywa0i78gzhn1ugt
+    followers: 51200
+    engagement: 1337
+    commentsToLikes: 0.019062
+    id: ckd0735q1ak4y0j237l6gqfeq
     verified: false
-    hashtags: "#losangeles, #suisse, #belgique, #italia"
-  - username: "cudicoleman"
+    hashtags: "#etsyshop, #jackinthebox, #handlettering, #diy"
+  - username: "iamargi"
     fullname: >-
-      Who??
+      Argi
+    bio: >-
+      Technology. Entrepreneurship. Money. 🤓 Software Engineer 🚀
     location: "United States"
-    followers: 15834
-    engagement: 1454
-    commentsToLikes: 0.067125
-    id: ck9ero6tq2m2g0j78i4rmx5df
+    followers: 22900
+    engagement: 501
+    commentsToLikes: 0.031532
+    id: ck9ncfcg0bwqk0j781u0nye6d
     verified: false
-    hashtags: "#succc, #whatif, #coronavirus, #quarentine"
-  - username: "hekinhenry"
+    hashtags: "#webdeveloper, #computerscience, #smma, #productivityhacks"
+  - username: "themagecat"
     fullname: >-
-      Henry the Aussie
+      The Mage Cat
+    bio: >-
+      Graphic designer, artist, and cat lady 🐱🔮🌿 I’m a resin witch.
     location: "United States"
-    followers: 97548
-    engagement: 2952
-    commentsToLikes: 0.068920
-    id: ck92t5ijvgdau0j789gch9gr7
+    followers: 52300
+    engagement: 2269
+    commentsToLikes: 0.038114
+    id: ckai8v1hn5shg0i78p3tanl7v
     verified: false
-    hashtags: "#picklechallenge, #distancedance, #videocall, #facetime"
+    hashtags: "#boo, #ghostmode, #halloween, #redbulldanceyourstyle"
+  - username: "tylerissoepic"
+    fullname: >-
+      tylerissoepic
+    bio: >-
+      Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
+    location: "United States"
+    followers: 3124
+    engagement: 1549
+    commentsToLikes: 0.076477
+    id: ckav2llyn8qqk0j23vqbjckl5
+    verified: false
+    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
 ---

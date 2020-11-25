@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Kuwait In 2020
 description: >-
-  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: # #kuwait #tiktok #masakakidsafricana.
+  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: #artist #illustration #drawing.
 platform: Instagram
+hits: 14
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in Kuwait for you to contact.
 profiles:
   - username: "mohamad1hadi"
     fullname: >-
-      محمد هادي
+      محمد هادي | Mohamad Hadi
+    bio: >-
+      ‏Kuwait National team Naser sport club
     location: "Kuwait"
-    followers: 2704
-    engagement: 1465
-    commentsToLikes: 0.159476
+    followers: 3566
+    engagement: 1004
+    commentsToLikes: 0.206192
     id: ck15rqm7697fu0i19fykgjml4
     verified: false
-    hashtags: "#iraq"
-  - username: "magato98"
+    hashtags: "#mybirthday"
+  - username: "magato.arts"
     fullname: >-
       Magato
+    bio: >-
+      •Digital/Traditional Artist🎨 Kuwait 🇰🇼 •DM me for Commissions! • Follow my social media accounts👇links below
     location: "Kuwait"
-    followers: 19729
-    engagement: 265
-    commentsToLikes: 0.024010
+    followers: 18969
+    engagement: 278
+    commentsToLikes: 0.020877
     id: ck14iwhfuhhcy0i19s9a2v0ht
     verified: false
-    hashtags: "#babyyodamemes, #lilium, #copic, #2020"
-  - username: "alsultanarts"
-    fullname: >-
-      محمد السلطان
-    location: "Kuwait"
-    followers: 60804
-    engagement: 468
-    commentsToLikes: 0.037723
-    id: ck14i2u4vdczn0i19ehlpl1lg
-    verified: false
-    hashtags: "#simplifyyourlife, #kuwaitcity"
+    hashtags: "#digitalpainting, #animedrawing, #art, #fanart"
   - username: "ali_aljamaly"
     fullname: >-
-      Ali ALJamaly | علي الجمالي
+      Ali Jamaly | علي الجمالي
+    bio: >-
+      𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕋𝕠 𝕄𝕪 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 ℙ𝕒𝕘𝕖 🎧 Film 🎞 / Tv Composer 🎶 & Music Producer 🎵
     location: "Kuwait"
-    followers: 46920
-    engagement: 279
-    commentsToLikes: 0.046001
+    followers: 47222
+    engagement: 263
+    commentsToLikes: 0.053075
     id: ck0u6t0nf2x0m0i19qzg7rfxb
     verified: false
-    hashtags: "#baglama, #stayhome, #hakanaltun, #veyselsar"
-  - username: "maysammakeup"
-    fullname: >-
-      Maysam
-    location: "Kuwait"
-    followers: 68059
-    engagement: 216
-    commentsToLikes: 0.038723
-    id: ck134etoqw3ll0i19zhojws5d
-    verified: false
-    hashtags: "#doll10, #narcissist, #abhliquidliner, #eyes"
+    hashtags: "#soundtracks, #stayhome, #iraq, #hakanaltun"
   - username: "bento_mommy"
     fullname: >-
       Jana Al Ghunaim جنى الغنيم
+    bio: >-
+      Kuwait 🇰🇼 Making fun food for my picky eaters Since forever Featured: Al Arabiya TV, Kuwait TV, Woman’s Day magazine and more
     location: "Kuwait"
-    followers: 107194
+    followers: 109488
     engagement: 54
-    commentsToLikes: 0.067770
+    commentsToLikes: 0.101018
     id: ck0udxol1k70t0i19xvw4lsbb
     verified: false
-    hashtags: "#kuwait, #dolemiddleeast, #birthdaygirl, #nutella"
-  - username: "ghrour.safar"
-    fullname: >-
-      غرور صفر
-    location: "Kuwait"
-    followers: 491373
-    engagement: 157
-    commentsToLikes: 0.050277
-    id: ck0u2gohezxyw0i19i09p6l3s
-    verified: false
-    hashtags: ""
+    hashtags: "#foodart, #halloween, #uae, #bahrain"
   - username: "ahmad_alnufais"
     fullname: >-
-      أحمد بن عبدالعزيز النفيس
+      AHMAD ALNUFAIS | أحمد النفيس
+    bio: >-
+      Quran Reciter From Kuwait 🇰🇼 حياكم موقعي
     location: "Kuwait"
-    followers: 493481
-    engagement: 195
-    commentsToLikes: 0.014656
+    followers: 539546
+    engagement: 179
+    commentsToLikes: 0.020353
     id: ck0w3umxevd6c0i19gt6d09um
     verified: false
-    hashtags: ""
+    hashtags: "#quran, #islam, #duaa, #muhammad"
   - username: "mamy_ayshaa"
     fullname: >-
       Afrobeats + Hiphop
+    bio: >-
+      @afrohousekw 🇰🇼 studio My kids IG @masakakidsafricana 🇺🇬
     location: "Kuwait"
-    followers: 62493
-    engagement: 132
-    commentsToLikes: 0.074247
+    followers: 64921
+    engagement: 154
+    commentsToLikes: 0.082572
     id: ck0w45jepwx8s0i19ge37nirs
     verified: false
-    hashtags: "#happiness, #simplelife, #anuragray, #kuwait"
-  - username: "tiaelhout"
+    hashtags: "#uganda, #kuwait, #togetherwecan, #togherwecan"
+  - username: "alm8na9"
     fullname: >-
-      T I ᗩ | تيا الحوت
+      طواريح النوادر_____________♻️
+    bio: >-
+      (( خوياااناا)) . مقناص / طواريح Hunter كشتات Camping . الممثل القانوني للحساب المحامي/ خالد فندي الخالدي ‏🇰🇼 لتواصل والإعلانات💰 : 66469366 - 00965
     location: "Kuwait"
-    followers: 10031
-    engagement: 659
-    commentsToLikes: 0.049930
-    id: ck0w3ptzfunic0i19if7btinl
+    followers: 102524
+    engagement: 67
+    commentsToLikes: 0.027886
+    id: ck1368cfl58s60i19ljwwxsg4
     verified: false
-    hashtags: "#newyoutubechannel, #respect, #profighter, #muaythaicoach"
+    hashtags: ""
+  - username: "makeupbydalol"
+    fullname: >-
+      دلال البلوشي
+    bio: >-
+      خبيرة تجميل 🇰🇼 • For Makeup appointments: WhatsApp للاستفسار وحجوزات الميك اب واتساب فقط +965 51251676 • Snapchat: makeupbydalol
+    location: "Kuwait"
+    followers: 126760
+    engagement: 43
+    commentsToLikes: 0.019172
+    id: ck14k6cdtnyal0i197y2h31yw
+    verified: false
+    hashtags: "#eyeliner, #newpost, #model, #makeuptutorial"
+  - username: "spearmark_"
+    fullname: >-
+      ᏦᎥᏁᎶ ᏝᏬᏝᏬ♕
+    bio: >-
+      ➣ ♀| 1998 | 💍A | ♡🇰🇼 ➢Birbs | Dragons | Humanoids. ➣Commissions closed➣ #SMcomish ➣Social media and commissions info link↓
+    location: "Kuwait"
+    followers: 10395
+    engagement: 2359
+    commentsToLikes: 0.017087
+    id: ck13cxovv2ocy0i19a5ejtpxz
+    verified: false
+    hashtags: "#bird, #humanoid, #copics, #painting"
+  - username: "m_sdq"
+    fullname: >-
+      Cars photos maker
+    bio: >-
+      Page Est 2011 الصديقي🔹 . 🔹from Kuwait 🇰🇼965 . 🔹Bachelor Design & Cars mechanical . 🔹All photo my design . اللهم اغفر لأخي علي و ارحمه🔹
+    location: "Kuwait"
+    followers: 44898
+    engagement: 711
+    commentsToLikes: 0.010331
+    id: ck0w14s8fhk3i0i1949xys91d
+    verified: false
+    hashtags: "#dodge, #c6zr1, #lt1, #mustang"
 ---

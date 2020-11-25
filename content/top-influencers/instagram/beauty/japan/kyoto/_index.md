@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top beauty Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #stayhome #spring #beauty.
+  Find top beauty Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #beauty #pr.
 platform: Instagram
+hits: 29
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 29 Instagram influencers like this in Kyoto, Japan for you to contact.
 profiles:
-  - username: "kazukovalentine"
+  - username: "k_g_low"
     fullname: >-
-      Kazuko Hayasaka
+      🎗#トレーニングは歯磨き🦷京都パーソナルダイエット🎗
+    bio: >-
+      Kyoto🇯🇵ストーリー毎日🤳 YouTube▷▷🎥開設２ヶ月㊗️２００万回㊗️再生突破🎊 ▪️CEO @stance_fitness_kyoto @stance_beauty_kyoto @stance_apparel ▪️スポモ⚔️フィジーク二刀流 ↳FWJ×W🏅SSA🏆 🚨YouTube
     location: "Japan"
-    followers: 90495
-    engagement: 146
-    commentsToLikes: 0.009465
-    id: ck5hrnkenv5zf0i11z1cm0wpg
+    followers: 5837
+    engagement: 604
+    commentsToLikes: 0.045144
+    id: ckaoubkupznie0i78g3me3pj8
     verified: false
-    hashtags: "#magazine, #sinceregarden, #mothersday, #organic"
-  - username: "norie_fitness"
+    hashtags: "#fashion, #fwj, #beauty, #physique"
+  - username: "nyarumaa.cosplay"
     fullname: >-
-      𝐍𝐎𝐑𝐈𝐄
+      にゃるまー。🦊 Nyarumaa.
+    bio: >-
+      Japanese cosplayer 🇯🇵 All images here are copyrighted by Nyarumaa. ・ お仕事依頼はDMまたはメールにてお願いします💌 ・ 💓🦊💓Thank you💓🦊💓
     location: "Japan"
-    followers: 14175
-    engagement: 571
-    commentsToLikes: 0.030889
-    id: ck0vwq2myv0wm0i19y7uytjpc
+    followers: 118370
+    engagement: 470
+    commentsToLikes: 0.012385
+    id: ck8t837xqixzn0j78fzjegagn
     verified: false
-    hashtags: "#japanese, #model, #2019, #check8146"
-  - username: "buritei"
+    hashtags: "#cosplayersofinstagram, #anime, #fgocosplay, #kawaii"
+  - username: "a.asuka.a"
     fullname: >-
-      buri_chan🦄🌈💕
+      asuka | Freelance Model
+    bio: >-
+      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 44230
-    engagement: 259
-    commentsToLikes: 0.050060
-    id: ck138y1viikwq0i19qtl7tnic
+    followers: 35469
+    engagement: 222
+    commentsToLikes: 0.061966
+    id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#aromaoil, #jewelrycastle, #muse, #orbis"
-  - username: "hiromitravel"
+    hashtags: "#olympus, #fujimi, #goodmood, #pr"
+  - username: "shiiran1012"
     fullname: >-
-      Hiromi ひろみ
+      壱城あずさ Azusa Ichijo
+    bio: >-
+      サンミュージックプロダクション所属 元宝塚歌劇団星組 #壱城あずさ 山梨観光大使 ⭐️壱城あずさファンクラブ『ピースクラブ』 ↓こちらのアプリから入会できます
     location: "Japan"
-    followers: 12917
-    engagement: 1673
-    commentsToLikes: 0.023009
-    id: ck5qa44f8eg410i11bzspsv0x
+    followers: 36331
+    engagement: 858
+    commentsToLikes: 0.007628
+    id: ck15rvjjk9xe40i191zaxyggq
     verified: false
-    hashtags: "#panda, #cotswolds, #dogsofinstagram, #england"
-  - username: "yukonano"
+    hashtags: "#fmfuji, #eo, #90, #nails"
+  - username: "yukowedding"
     fullname: >-
-      yuko  /runたまにDJとお山
+      黒沢 祐子  Yuko KUROSAWA
+    bio: >-
+      freelance wedding&party&event producer/通称監督🇯🇵🗼😋🥂🍷🍽👟✈️💐🌳🌿🤵👰🍳🕶🏃‍♀️🏋️‍♀️ @yuko.lifestyle
     location: "Japan"
-    followers: 12451
-    engagement: 872
-    commentsToLikes: 0.001973
-    id: ck6tzekzf98r10j713bxzq7zd
+    followers: 52676
+    engagement: 201
+    commentsToLikes: 0.007371
+    id: ck0u9tl0sanf90i19743rm9ho
     verified: false
-    hashtags: "#propo, #romanholiday, #airmax90, #iphone11pro"
-  - username: "japan_inside"
+    hashtags: "#keisukeshoda, #yukoweddingfamily, #anthurium, #kon"
+  - username: "riii.okinawa"
     fullname: >-
-      Japan Inside
+      Rikako🎀
+    bio: >-
+      3kidsmom、11.10.7years❤️38years okinawalife live in okinawa❤️沖縄ママ👩marine sport🏄‍♀️
     location: "Japan"
-    followers: 67108
-    engagement: 206
-    commentsToLikes: 0.012797
-    id: ck0u7h80p4o640i19u4o3q0zh
+    followers: 42296
+    engagement: 656
+    commentsToLikes: 0.045598
+    id: ckaotclf3vbsx0i78av7l3rah
     verified: false
-    hashtags: "#special, #japannaturelovers, #hellofrom, #nihon"
-  - username: "magazinelee"
+    hashtags: "#autumn, #goodmorning, #japanesegirl, #instafood"
+  - username: "kozuekawabe"
     fullname: >-
-      LEE
+      kozue kawabe
+    bio: >-
+      My body is made of a journey and dance ! 舞踊家/芸術博士 アート・ディレクター contemporary dance,ballet,modern dance 旅、食、美容、ファッション、優雅な暮らしのすすめ @buyma_travel 公認アンバサダー
     location: "Japan"
-    followers: 94200
-    engagement: 144
-    commentsToLikes: 0.018682
-    id: ck5q2i4exg4x20i112f9ibj3w
+    followers: 22932
+    engagement: 273
+    commentsToLikes: 0.016436
+    id: ckaotuzz8xn5v0i78ymb8iu84
+    verified: false
+    hashtags: "#pr, #instagood, #instagramjapan, #instagram"
+  - username: "aiku_0817__"
+    fullname: >-
+      AIKU MAIKAWA
+    bio: >-
+      JAPAN×TAIWAN 🇯🇵🇹🇼 Twitter @AIKU0817_ [♥️Travel, Onsen, Beauty, Fashion &Food♥️]
+    location: "Japan"
+    followers: 113199
+    engagement: 127
+    commentsToLikes: 0.004431
+    id: ck14ivzkfhesz0i19fegw6ndc
     verified: true
-    hashtags: "#majahotelkyoto, #12closet, #date, #abcmart"
-  - username: "ayu888ayu"
+    hashtags: "#fashion, #gototravel, #photo, #black"
+  - username: "kyoko1903"
     fullname: >-
-      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+      Kyoko  Ueda /トラベルインスタグラマー
+    bio: >-
+      Sharing beauty of Japan 日本の魅力を世界に。 📩kyoko1903@gmail.com
     location: "Japan"
-    followers: 37236
-    engagement: 978
-    commentsToLikes: 0.039379
-    id: ck8sy23uqjgsa0j78ox8ik1pn
+    followers: 76105
+    engagement: 898
+    commentsToLikes: 0.015157
+    id: ck0vyp2ki53fs0i19hk3v958b
     verified: false
-    hashtags: "#foodie, #cosme, #travelholic, #stayhome"
-  - username: "mi_yan0101"
+    hashtags: "#autumnleaves, #kimono, #kyoto, #gifu"
+  - username: "hisakonamekata"
     fullname: >-
-      みーやん💕大阪グルメ♡梅田グルメ
+      行方 ひさこ
+    bio: >-
+      Branding director communication design for regional revitalization , crafts , food & beauty.
     location: "Japan"
-    followers: 133647
-    engagement: 133
-    commentsToLikes: 0.033062
-    id: ck5hii35ndlzx0i11b3rhm52d
+    followers: 33629
+    engagement: 125
+    commentsToLikes: 0.016970
+    id: ckap27knwxpy30i78zgfpmiar
     verified: false
-    hashtags: "#teatime, #kawaiig, #beauty, #glamourdise"
-  - username: "arisaito917"
-    fullname: >-
-      伊東亜梨沙
-    location: "Japan"
-    followers: 125179
-    engagement: 179
-    commentsToLikes: 0.013553
-    id: ck134x9l8yn290i19mw6e4vf8
-    verified: false
-    hashtags: "#nail, #trip, #dubrovnik, #youtube"
+    hashtags: ""
 ---

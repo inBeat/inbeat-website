@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top bloggers Instagram influencers in Malaysia in 2020. Most popular hashtags: #icecream #thankyou #loveyourself #chicken.
+  Find top bloggers Instagram influencers in Malaysia in 2020. Most popular hashtags: #instagram #lahore #bookshelfie.
 platform: Instagram
+hits: 33
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 33 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "hanlibubu"
+  - username: "rafzantomomi"
     fullname: >-
-      Hanlibubu | 🇲🇾
+      MOMI
+    bio: >-
+      Rafzan Tomomi Malaysia's Lifestyle Blogger / Content Creator Ads or review, please DM 🌼 new hobby : 📸 #momisawitbefore Blog : www.rafzantomomi.com
     location: "Malaysia"
-    followers: 54292
-    engagement: 218
-    commentsToLikes: 0.074889
-    id: ck0vy58c32am90i192780f20n
+    followers: 22175
+    engagement: 281
+    commentsToLikes: 0.091210
+    id: ck5q81fvm412g0i1113002yxr
     verified: false
-    hashtags: "#heavenonearth, #smilemakeover, #siblingslove, #salvation"
-  - username: "chanwon92"
+    hashtags: "#bringbackmemories, #makansamasama, #momisawitbefore, #ayamasroasters"
+  - username: "areej.fatima"
     fullname: >-
-      Chanwon❤️🇯🇵🇲🇾| チャンウォン
+      Areej Fatima Saeed
+    bio: >-
+      Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
     location: "Malaysia"
-    followers: 99798
-    engagement: 155
-    commentsToLikes: 0.014697
-    id: ck0w0bfaqdcrg0i195l0duvez
+    followers: 176969
+    engagement: 157
+    commentsToLikes: 0.139965
+    id: ck15tuzpyk1dd0i19po7clqbt
     verified: false
-    hashtags: "#kthxbye, #hokang, #massivegiveaway, #iphonese"
-  - username: "the_foodie_veerji"
+    hashtags: "#alkaramwoman, #winterwandering20, #areejfatimasaeed, #influencer"
+  - username: "ohfishiee"
     fullname: >-
-      Tashmeet Singh
+      °· F I S H ·°
+    bio: >-
+      😄Travel, Beauty, Food Blogger 💌Ads/sponsorship: ohfishie@gmail.com ❤WWW.OHFISHIEE.COM BIG GIVEAWAY👇🏻
     location: "Malaysia"
-    followers: 3978
-    engagement: 1040
-    commentsToLikes: 0.286063
-    id: ckap2x2840oj90i78yv717xse
+    followers: 20445
+    engagement: 503
+    commentsToLikes: 0.015641
+    id: ck0w5haxf3n6e0i19rr26hnc7
     verified: false
-    hashtags: "#marblecake, #paneer, #sweettooth, #arrival"
-  - username: "missfoodiekolkata"
+    hashtags: "#ohfishieetravels, #ohfishieeootd, #ohfishieebeauty, #discoverhongkong"
+  - username: "jennagong"
     fullname: >-
-      || AHANA ||
+      𝓙𝓮𝓷𝓷𝓪 𝓖
+    bio: >-
+      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
     location: "Malaysia"
-    followers: 10078
-    engagement: 870
-    commentsToLikes: 0.029401
-    id: ckaovi28o4nbh0i783duk993s
+    followers: 58441
+    engagement: 224
+    commentsToLikes: 0.011643
+    id: ck15qb5ij1ztv0i191h6hifjl
     verified: false
-    hashtags: "#ramadanekhaas, #chicken, #tastyfood, #indianfoodtales"
-  - username: "mayablogs"
+    hashtags: "#ad, #bluedress, #goldenhour, #summerlooks"
+  - username: "kamiliaassam__"
     fullname: >-
-      Maya Khan
+      Kamilia Assem
+    bio: >-
+      • Fashion Blogger • influencer ￼ • For businesses inquires DM 📩 • Alexandria 📍 • 6’6 🌍
     location: "Malaysia"
-    followers: 6835
-    engagement: 782
-    commentsToLikes: 0.388202
-    id: ck9wgy3wevgkm0j78bc2z5s8h
+    followers: 249564
+    engagement: 128
+    commentsToLikes: 0.019817
+    id: ck9we2geviafe0j785efe8ua7
     verified: false
-    hashtags: "#chocolateria, #lockdown2020, #millionsofmeals, #instagood"
-  - username: "wiwinnie"
+    hashtags: "#makeuplooks, #makeuptutorial, #fashion, #fashionstyle"
+  - username: "bhukkad_spotted"
     fullname: >-
-      Winnie
+      Food Influencer|Aniket Pagare
+    bio: >-
+      Food Blogger | Influencer Nashik ♥️ DM for Promotions | Invites | Colabs Follow #bhukkad_spotted Always give genuine review
     location: "Malaysia"
-    followers: 97739
-    engagement: 133
-    commentsToLikes: 0.017042
-    id: ck0uaj4xtcc9m0i19ltqx27ib
+    followers: 16265
+    engagement: 936
+    commentsToLikes: 0.057596
+    id: ckap9to6ytmc70i78tsry90ou
     verified: false
-    hashtags: "#breakfast, #oatlylatte, #balenciaga, #coffeetime"
+    hashtags: "#nashikfoodie, #nashikfoodblogger, #bhukkad, #gharkakhana"
   - username: "blackcitygirl__"
     fullname: >-
       Diary-Of-A-Black-City-Girl.
+    bio: >-
+      •Writer✍️ bookworm📚blogger🍁 #bcgbooks •Content Creator •Book Reviewer✍️ •DM for review, collaboration and promotions •New Blog Posts up now 👇🏾
     location: "Malaysia"
-    followers: 6223
-    engagement: 715
-    commentsToLikes: 0.053082
+    followers: 6682
+    engagement: 862
+    commentsToLikes: 0.045866
     id: ckaoypt15ijiq0i78qdpc1j3d
     verified: false
-    hashtags: "#ukbookstagram, #bookish, #rainbowrowell, #readerlife"
-  - username: "chris_tan_mua"
+    hashtags: "#bookaesthetic, #booksbooksbooks, #bu, #lovebooks"
+  - username: "mayablogs"
     fullname: >-
-      ℂ𝕙𝕣𝕚𝕤 𝕋𝕒𝕟 𝕄𝕦𝕒
+      Maya Khan | Influencer
+    bio: >-
+      The account where you can find best food in Islamabad Food Review Blogger🧿 Dm for | Invites | Collaborations #islamabadfoodblog 🇵🇰 🇦🇫🇹🇷
     location: "Malaysia"
-    followers: 17750
-    engagement: 207
-    commentsToLikes: 0.010741
-    id: ck5hlun8vkw550i11m1sib014
+    followers: 14355
+    engagement: 445
+    commentsToLikes: 0.413076
+    id: ck9wgy3wevgkm0j78bc2z5s8h
     verified: false
-    hashtags: "#appreciated, #letsbegin, #thanksgod, #lovedessert"
-  - username: "hello_tothe_necessities_blog"
+    hashtags: "#amazingphotos, #happyeating, #lovefoodhatewaste, #burger"
+  - username: "nepal.food"
     fullname: >-
-      kanwal usman
+      NEPAL FOOD
+    bio: >-
+      I am Siddhartha Ghimire @rocketeersidharth Nepal's 1st food Blogger 🙏 I COOK & REVIEW RESTAURANT/HOTEL DM for promotion 📩
     location: "Malaysia"
-    followers: 11241
-    engagement: 640
-    commentsToLikes: 0.367097
-    id: ck9wgp9dcudmu0j78gscy2bhd
+    followers: 181308
+    engagement: 250
+    commentsToLikes: 0.029418
+    id: ck5bu3hm8h3qw0i11syjvyj8u
     verified: false
-    hashtags: "#tipsntricks, #sale, #together, #loveforcheese"
-  - username: "lisalaisdiary"
+    hashtags: "#instagram, #foodie, #foodnetwork, #f52grams"
+  - username: "wiwinnie"
     fullname: >-
-      Lisa Lai
+      Winnie
+    bio: >-
+      Ex cabin crew ✈︎ Blogger ✎ ➪Facebook: Winnie's little planet. ➪Email: wiwinnie11@gmail.com
     location: "Malaysia"
-    followers: 26762
-    engagement: 78
-    commentsToLikes: 0.016305
-    id: ck13cx2de2l4p0i19enbe6r39
+    followers: 101347
+    engagement: 122
+    commentsToLikes: 0.009925
+    id: ck0uaj4xtcc9m0i19ltqx27ib
     verified: false
-    hashtags: "#kiplinglivelight, #pajamas, #kiplingtaiwan, #whocares"
+    hashtags: "#celine, #ootd, #taipeicoffee, #loewe"
 ---

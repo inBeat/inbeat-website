@@ -1,107 +1,130 @@
 ---
 title: Top 10 Entrepreneurs Instagram Influencers In 2020
 description: >-
-  Find top entrepreneurs Instagram influencers in 2020. Most popular hashtags: #love #blogger #coronavirus #chef.
+  Find top entrepreneurs Instagram influencers in 2020. Most popular hashtags: #happybirthday #lavinia #discoverla.
 platform: Instagram
+hits: 6227
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 6227 Instagram influencers like this for you to work with.
 profiles:
-  - username: "je1bc"
+  - username: "davidlinn"
     fullname: >-
-      Jeremiah Emmanuel BEM
-    location: "United Kingdom"
-    followers: 8888
-    engagement: 1580
-    commentsToLikes: 0.041701
-    id: ck8sxikr8hj4b0j784st04jwq
-    verified: true
-    hashtags: "#lfwm, #dian, #lightwork, #unlockyourpassion"
-  - username: "simrankhannaofficial"
-    fullname: >-
-      Simran Khanna
+      David Linn
+    bio: >-
+      Entrepreneur
     location: "United States"
-    followers: 45791
-    engagement: 524
-    commentsToLikes: 0.022641
-    id: ck5q0desl5ghy0i11q5vhnkcw
+    followers: 54494
+    engagement: 371
+    commentsToLikes: 0.029192
+    id: ck5c3twj601vj0i11jid0775r
     verified: false
-    hashtags: "#pinkmoon, #lifeisprecious, #selflove, #shootlife"
-  - username: "lavinia_biagiotti"
-    fullname: >-
-      Lavinia Biagiotti
-    location: "Italy"
-    followers: 24000
-    engagement: 390
-    commentsToLikes: 0.057876
-    id: ck6tmv5o78lcx0j718hafum2n
-    verified: false
-    hashtags: "#repost, #tilli, #newseason, #gattopardo"
-  - username: "lamise_taha"
-    fullname: >-
-      لميس💎
-    location: ""
-    followers: 21896
-    engagement: 957
-    commentsToLikes: 0.014282
-    id: ck0w614yi6esj0i19nyshtm52
-    verified: false
-    hashtags: "#love, #quarantinelife, #prettycities, #houses"
+    hashtags: "#astonmartindbs, #business, #citation, #team"
   - username: "mrmerlano"
     fullname: >-
       Antonio Merlano
+    bio: >-
+      Entrepreneur
     location: "Colombia"
-    followers: 64763
-    engagement: 281
-    commentsToLikes: 0.085293
+    followers: 68303
+    engagement: 277
+    commentsToLikes: 0.085381
     id: ck5hoizftpnhv0i117jwy4fpg
     verified: true
-    hashtags: "#bromas, #vintage, #sugar, #mexico"
-  - username: "drcarolineiscovitz"
+    hashtags: "#barranquilla, #humor, #bogota, #tbt"
+  - username: "sathyan_rajan"
     fullname: >-
-      Female Entrepreneur Coach
+      Sathyan Rajan
+    bio: >-
+      Entrepreneur.
+    location: "India"
+    followers: 10406
+    engagement: 548
+    commentsToLikes: 0.015801
+    id: ck15q5hwt176x0i19xoqdoh10
+    verified: false
+    hashtags: "#sathyanrajanphotograph"
+  - username: "ossyfitriana"
+    fullname: >-
+      𝐎𝐬𝐬𝐲 𝐅𝐢𝐭𝐫𝐢𝐚𝐧𝐚 | Entrepreneur
+    bio: >-
+      Mantan Pramugari Sapphire Director #4 Fastest Growing Entrepreneur 2020 Butuh pemasukan tambahan?💰 Mau dimentorin full online? SIGN UP NOW 👇🏻
+    location: "Indonesia"
+    followers: 18566
+    engagement: 371
+    commentsToLikes: 0.019270
+    id: ckaoz6hxfkl5s0i781lnjamfz
+    verified: false
+    hashtags: "#bisnisonline, #throwback, #bisnisbarengossy, #oriflame"
+  - username: "je1bc"
+    fullname: >-
+      Jeremiah Emmanuel BEM
+    bio: >-
+      Entrepreneur
+    location: "United Kingdom"
+    followers: 9475
+    engagement: 1111
+    commentsToLikes: 0.076513
+    id: ck8sxikr8hj4b0j784st04jwq
+    verified: true
+    hashtags: "#unlockyourpassion, #blackouttuesday, #letsmakehistory, #stormzy"
+  - username: "lavinia_biagiotti"
+    fullname: >-
+      Lavinia Biagiotti
+    bio: >-
+      Entrepreneur
+    location: "Italy"
+    followers: 25817
+    engagement: 380
+    commentsToLikes: 0.047589
+    id: ck6tmv5o78lcx0j718hafum2n
+    verified: false
+    hashtags: "#forever, #laura, #lavinia, #happybirthday"
+  - username: "armaan_zunaid"
+    fullname: >-
+      Armaan Zunaid [JKT]
+    bio: >-
+      13-April 🎂 YouTuber 🎬 (700K+) SUB's (FAMiLY) Blogger ⌨🔥 Entrepreneur 🙂 New Vlog ! ⏬
     location: "United States"
-    followers: 7135
-    engagement: 2588
-    commentsToLikes: 0.211539
-    id: ck0vvgtyep2ta0i19ikt8sfrw
+    followers: 29096
+    engagement: 797
+    commentsToLikes: 0.116661
+    id: ck8tdp23y48i20j78scxpsg8s
+    verified: false
+    hashtags: "#workout, #junnukitech, #armaanzunaid, #giveaway"
+  - username: "heidicortez"
+    fullname: >-
+      Heidi Cortez
+    bio: >-
+      ￼Lifelong American Entrepreneur (Best Selling Author, Coach, Adviser, Branding Expert & Creator of @TheModelAdviser ) Beverly Hills, CA 🌴
+    location: "United States"
+    followers: 175639
+    engagement: 2337
+    commentsToLikes: 0.045441
+    id: ck0u7p4t05c3t0i19150mld1k
+    verified: true
+    hashtags: "#cityofangels, #losangeles, #beverlyhills, #la"
+  - username: "kaushal_j"
+    fullname: >-
+      Kaushal Joshi
+    bio: >-
+      Entrepreneur. Event Manager. Simple Person with loads of dreams.
+    location: "Netherlands"
+    followers: 27351
+    engagement: 2300
+    commentsToLikes: 0.092843
+    id: ckaoxdlbyct6q0i78nxx41st2
+    verified: false
+    hashtags: "#mercedeseclass, #happynewyeartrips, #europe, #sopeaceful"
+  - username: "itij"
+    fullname: >-
+      Iti-Pätrik Järve🧞‍♂️
+    bio: >-
+      Entrepreneur / Content creator from Estonia🇪🇪 Founder of @northfjordshop Cheerleader @taltech_cheerleaders MY NEW 2020 PRESETS✨👇🏽
+    location: "United States"
+    followers: 25993
+    engagement: 1386
+    commentsToLikes: 0.514545
+    id: ck0u7dmlz4j8p0i191boe42nt
     verified: false
     hashtags: ""
-  - username: "itsbiaaaa"
-    fullname: >-
-      Bianca👸🏼
-    location: "France"
-    followers: 19013
-    engagement: 1384
-    commentsToLikes: 0.578439
-    id: ckap9zichu4b60i789ovguq0r
-    verified: false
-    hashtags: "#ingrijire, #ootd, #asos, #makeupgiveaway"
-  - username: "beautiful_jasminemarie"
-    fullname: >-
-      Jasmine Marie BSN, RN
-    location: "United States"
-    followers: 21026
-    engagement: 1169
-    commentsToLikes: 0.065206
-    id: ckap5hg7jbp6c0i78ezp6qut3
-    verified: false
-    hashtags: "#pandemic, #prettypractice, #shecandoboth, #squadgoals"
-  - username: "yahina25"
-    fullname: >-
-      Yahina
-    location: "United States"
-    followers: 37618
-    engagement: 1142
-    commentsToLikes: 0.266698
-    id: ck5q9rhmncm4f0i11mdwtgusr
-    verified: false
-    hashtags: "#fearless, #nycstudio, #birthdaygirl, #princessluna"
-  - username: "kikeprida"
-    fullname: >-
-      Kike Prida
-    location: "Mexico"
-    followers: 185441
-    engagement: 885
-    commentsToLikes: 0.076604
-    id: ck5zv8mlz3rsm0i14uyl7ydrg
-    verified: false
-    hashtags: "#r8, #blackproject, #lomejorestallegando, #r8vsr8"
 ---

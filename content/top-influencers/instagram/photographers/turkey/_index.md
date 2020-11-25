@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top photographers Instagram influencers in Turkey in 2020. Most popular hashtags: #objektifimden #atat #portrait #nature.
+  Find top photographers Instagram influencers in Turkey in 2020. Most popular hashtags: #portrait #earth #portraitpage.
 platform: Instagram
+hits: 648
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 648 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "ahmetcandanardal"
+  - username: "_aliim2"
     fullname: >-
-      Ahmet Candan Ardal
+      Ali m
+    bio: >-
+      Photographer .
     location: "Turkey"
-    followers: 6263
-    engagement: 1432
-    commentsToLikes: 0.132546
-    id: ck9we1jcei5zw0j782efib8f1
+    followers: 7152
+    engagement: 1107
+    commentsToLikes: 0.079082
+    id: ck9wd68u3e8ui0j789ipnrv1i
     verified: false
-    hashtags: "#naturephotos, #magicpict, #turkshotss, #dream"
+    hashtags: "#shooting, #theportraitbazaar, #creativemodeling, #magazine35mm"
+  - username: "kayrasercan"
+    fullname: >-
+      Kayra Sercan
+    bio: >-
+      ⁣Photographer
+    location: "Turkey"
+    followers: 32326
+    engagement: 187
+    commentsToLikes: 0.013089
+    id: ck5hslcxnws360i11hun25rdd
+    verified: false
+    hashtags: "#rize, #tu, #karadeniz, #yaylalar"
   - username: "tameryilmaz1"
     fullname: >-
       Tamer Yilmaz
+    bio: >-
+      Photographer
     location: "Turkey"
-    followers: 51975
-    engagement: 189
-    commentsToLikes: 0.047312
+    followers: 55642
+    engagement: 224
+    commentsToLikes: 0.052804
     id: ck13b23antbas0i19iik2itlv
     verified: false
-    hashtags: "#sebatikarakurtphotos, #coverstory, #resortwear, #oldschoolbasketball"
-  - username: "orhandoganer.artstudio"
-    fullname: >-
-      Orhan Doganer
-    location: "Turkey"
-    followers: 2546
-    engagement: 2853
-    commentsToLikes: 0.124793
-    id: ckaovg7y44hru0i78e3u55rit
-    verified: false
-    hashtags: "#10kas, #portrait, #landscapes, #famousportraits"
+    hashtags: "#regrann, #reborn, #hayvanhaklar, #fashion"
   - username: "_teachersella"
     fullname: >-
       _teachersella
+    bio: >-
+      🎈Matematik öğretmeni👩‍🏫 photographer📸canon6D📸 seyahatetmeyisever🚌✈️ Doğasever🍃🎄🍀 İstanbul🏚🏘🏡
     location: "Turkey"
-    followers: 6851
-    engagement: 2203
-    commentsToLikes: 0.099226
+    followers: 5767
+    engagement: 2752
+    commentsToLikes: 0.096546
     id: ck139kyvbltya0i1971bjy9g2
     verified: false
-    hashtags: "#herbalayse3, #elfkbi, #cndygrlss, #ynylgzlolck"
-  - username: "eg_ervaygt"
+    hashtags: "#tatilebirkla, #gulvegulsah, #harikasaliaksami, #aksmkeyfiii"
+  - username: "byfthtzcn_horsephoto"
     fullname: >-
-      Erva YİĞİT 🌿
+      Fatih Tezcan
+    bio: >-
+      horse photographer 🐎📸 @byfatihtezcan @by_fthtzcn işbirligi için dm atabilirsiniz. 🐎🐎 @dayflashapp Ambassador
     location: "Turkey"
-    followers: 5220
-    engagement: 2258
-    commentsToLikes: 0.046272
-    id: ckaowelxz8lh90i78nb7cptx0
+    followers: 2913
+    engagement: 2302
+    commentsToLikes: 0.189547
+    id: ckap4s3qx8miw0i78yiw3ek34
     verified: false
-    hashtags: "#littlecute, #momlife, #onemonths, #1months"
-  - username: "iskenderyuksell"
+    hashtags: "#sonyalphatr, #horseofinsta, #horsesphoto, #dayflashapp"
+  - username: "orhandoganer.artstudio"
     fullname: >-
-      iskender yüksel
+      Orhan Doganer
+    bio: >-
+      Graphic designer - Photographer - Painter - Instructor Karate Istanbul/ Turkey
     location: "Turkey"
-    followers: 26833
-    engagement: 413
-    commentsToLikes: 0.281586
-    id: ckap1frpquesz0i7871u8eo8u
+    followers: 2614
+    engagement: 3709
+    commentsToLikes: 0.109500
+    id: ckaovg7y44hru0i78e3u55rit
     verified: false
-    hashtags: "#ulricdevarens, #jacquessaintpres, #jsp, #parfum"
-  - username: "semadogan._"
+    hashtags: "#pencildrawings, #pencilportrait, #drawingoftheday, #artgallery"
+  - username: "muratkoksalart"
     fullname: >-
-      Sema Doğan
+      Cappadocia Photographer
+    bio: >-
+      Wedding & Fashion Photographer 📸 Based in Cappadocia 🎈🇹🇷 Contact : +905397695214 Photographer| Retoucher 💻
     location: "Turkey"
-    followers: 17139
-    engagement: 981
-    commentsToLikes: 0.029277
-    id: ck8t4usuj7zk50j78c5kfpexf
+    followers: 27793
+    engagement: 1058
+    commentsToLikes: 0.052968
+    id: ck5hsms8dwuhw0i11wlke04jm
     verified: false
-    hashtags: "#nurgaz, #istanbulbalat, #hisar, #tbmm100ya"
-  - username: "soldierofthewar"
+    hashtags: "#cappadocia, #reels, #kapadokya, #muratkoksal"
+  - username: "hoseeinpk"
     fullname: >-
-      Ersin
+      hoseinpk
+    bio: >-
+      PHOTOGRAPHER📸 🇹🇷
     location: "Turkey"
-    followers: 6881
-    engagement: 1960
-    commentsToLikes: 0.075575
-    id: ckap6la1qgcbv0i78h676x1od
+    followers: 88243
+    engagement: 849
+    commentsToLikes: 0.035922
+    id: ck8t33nez1q590j7845ssqfyh
     verified: false
-    hashtags: "#canon, #aniyakala, #gezgin, #igers"
-  - username: "tiebowtie"
+    hashtags: "#vogue, #pic, #kdpeoplegallery, #vescocam"
+  - username: "abdllhaydmr_photos"
     fullname: >-
-      Viktoriya Sener
+      abdullah aydemir
+    bio: >-
+      Portrait photographer 📷 🔸️Eyes of the İstanbul All rights reserved ©
     location: "Turkey"
-    followers: 135524
-    engagement: 220
-    commentsToLikes: 0.049971
-    id: ck0u7h6lg4nza0i19sbrcthsw
+    followers: 74883
+    engagement: 737
+    commentsToLikes: 0.037126
+    id: ck0vyevmg3mv80i190hp3q86g
     verified: false
-    hashtags: "#stayhome, #staysafe"
-  - username: "alisahebiofficial"
+    hashtags: "#streetportrait, #child, #portrait, #girl"
+  - username: "emrecakmak.tr"
     fullname: >-
-      © Ali Sahebi
+      Emre Çakmak
+    bio: >-
+      📍Turkey Finalist: •The Independent Photographer, Street Photo 20 | •London 20 | •Moment 20 | •IPA 20 | •Life Framer, Street Life 20
     location: "Turkey"
-    followers: 7487
-    engagement: 616
-    commentsToLikes: 0.086783
-    id: ck9wi95z919d40j784q3da96m
+    followers: 7056
+    engagement: 2223
+    commentsToLikes: 0.055346
+    id: ck0w5w2d65pev0i19ys9t8yz3
     verified: false
-    hashtags: "#globe, #portraitpage, #endlessfaces, #folkportraits"
+    hashtags: "#stayathome, #streets, #hcsc, #spi"
 ---

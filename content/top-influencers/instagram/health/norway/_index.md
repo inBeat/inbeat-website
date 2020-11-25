@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Norway In 2020
 description: >-
-  Find top health Instagram influencers in Norway in 2020. Most popular hashtags: #biodiversity #covid19 #newnormal #strength.
+  Find top health Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nature #ad.
 platform: Instagram
+hits: 78
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 78 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "ingridkristiansen_"
-    fullname: >-
-      INGRID KRISTIANSEN
-    location: "Norway"
-    followers: 3840
-    engagement: 1487
-    commentsToLikes: 0.226074
-    id: ck8t68e32cn750j78d0yv667f
-    verified: false
-    hashtags: "#heavylifting, #firgirl, #clothing, #hjemmetrening"
   - username: "walkandtalkoflife"
     fullname: >-
       Walk & Talk of LIFE🌏
+    bio: >-
+      ✨Cecilie & Miriam 🌿🌼 ☘️Nature is our therapy☘️ Mental Health, friendship, Nature & Photo 💌Walkandtalkoflife@outlook.com
     location: "Norway"
-    followers: 3059
-    engagement: 2689
-    commentsToLikes: 0.061253
+    followers: 5329
+    engagement: 1723
+    commentsToLikes: 0.082143
     id: ck9hbkj3bh8le0j78h1lybaa4
     verified: false
-    hashtags: "#outdoorlife, #rogalandsbunad, #solbergelva, #minions"
+    hashtags: "#hikersofinstagram, #norge, #utno, #alfah"
   - username: "gunhild_stordalen"
     fullname: >-
       Gunhild A. Stordalen
+    bio: >-
+      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 182687
-    engagement: 346
-    commentsToLikes: 0.021107
+    followers: 185531
+    engagement: 368
+    commentsToLikes: 0.028644
     id: ck5zmq1uzn0kg0i147yvuqe2w
     verified: true
-    hashtags: "#newnormal, #foodismedicine, #bookstoread, #healthyeating"
-  - username: "andrealowing"
+    hashtags: "#plantforward, #greatdanesofinstagram, #healthyfood, #betterfoodforall"
+  - username: "michellebettina"
     fullname: >-
-      Andrea Lowing 👑 IFBB Bikini
+      🦋Storyteller🦋 📍Norway
+    bio: >-
+      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
     location: "Norway"
-    followers: 12698
-    engagement: 762
-    commentsToLikes: 0.069578
-    id: ck8t6pi6led900j7848rkv3h0
+    followers: 39947
+    engagement: 481
+    commentsToLikes: 0.063986
+    id: ckaoz3jbjk7ne0i78aulzu91d
     verified: false
-    hashtags: "#squats, #girlswholift, #stayhome, #longtimenogym"
+    hashtags: ""
   - username: "billyjohnbob"
     fullname: >-
-      BillyJohnBob 🐻 The Hairy Gamer
+      BillyJohnBob 🐻 Eerie Fairy
+    bio: >-
+      🇳🇴Norway 🔞Disclaimer ⚔️Gaymer 💪Body Positive & Natural 🧘‍♂️Mental Health ❤️Friends 👬Engaged to @Kimmern84 🎮Ambassador for @playstationnorge 🎬Twitch/YT
     location: "Norway"
-    followers: 30460
-    engagement: 447
-    commentsToLikes: 0.026721
+    followers: 32178
+    engagement: 462
+    commentsToLikes: 0.022246
     id: ck9we77wcixpc0j78yr0es0qt
     verified: false
-    hashtags: "#gaysandcats, #may9th, #skjegg, #staysafe"
+    hashtags: "#skjeggmenn, #lgbtqstreamers, #gaymerbear, #twitch"
+  - username: "typical.doctor"
+    fullname: >-
+      Patrycja J.
+    bio: >-
+      Medical Doctor in Norway 🩺 🇳🇴 Research🔬 Books 📚 Traveling 🛫 Yoga🙏🏻 Healthy lifestyle 🥦 Skiing ⛷ Hiking ⛰
+    location: "Norway"
+    followers: 6684
+    engagement: 964
+    commentsToLikes: 0.022930
+    id: ck8t1d2f5vavk0j78vrj3625b
+    verified: false
+    hashtags: "#hike, #northnorway, #fall, #travelphotography"
   - username: "lindalike"
     fullname: >-
       Linda Sannesmoen
+    bio: >-
+      NORWEGIAN GREENFLUENCER • Eco hedonist • Healthy and sustainable lifestyle • Ambassador: @norronahvitserk @hvitserkeventyr @woollandsport @gai.lisva
     location: "Norway"
-    followers: 38569
-    engagement: 98
-    commentsToLikes: 0.052809
+    followers: 37471
+    engagement: 74
+    commentsToLikes: 0.041841
     id: ck0vwanbssuii0i19rovn2gwt
     verified: false
-    hashtags: "#insecthotel, #whatiwear, #plantbased, #epic"
+    hashtags: "#lindalike, #woollandsport, #sustainableliving, #naturefix"
+  - username: "ingridkristiansen_"
+    fullname: >-
+      PT Ingrid Kristiansen
+    bio: >-
+      FITNESS • HEALTH • LIFESTYLE 📍Tromsø, Norway 🏋🏼‍♀️Personal trainer @skyfitnesstromsoe INGRIDK20 for 20% hos @icaniwill 🖤Ambassadør @mmsports_norge
+    location: "Norway"
+    followers: 4566
+    engagement: 1061
+    commentsToLikes: 0.114398
+    id: ck8t68e32cn750j78d0yv667f
+    verified: false
+    hashtags: "#norwegian, #happiness, #skyfitnessnorge, #lifting"
+  - username: "inamoor"
+    fullname: >-
+      Ina Moor 🧡
+    bio: >-
+      Healthy happy lifestyle 🥝🍫🍓 ▫️Sert. PT og instruktør ▫️💚 26.02.19 - 💜 18.09.20
+    location: "Norway"
+    followers: 6539
+    engagement: 668
+    commentsToLikes: 0.088101
+    id: ckf5mtfw1vbfy0j23br6fo4vn
+    verified: false
+    hashtags: "#postpartum"
   - username: "kathsolberg"
     fullname: >-
       Kathrine Madelen | FITNESS
+    bio: >-
+      Norway | 24 ➖ Fitness, fashion, healthy lifestyle 🎀 Mom ✉️ For questions/collabs; DM or e-mail
     location: "Norway"
-    followers: 14707
-    engagement: 533
-    commentsToLikes: 0.089779
+    followers: 14293
+    engagement: 504
+    commentsToLikes: 0.082175
     id: ck5q5p68stwjq0i11qz0dw0td
     verified: false
-    hashtags: "#momlife, #35weekspregnant, #pregnancyweek38, #bubbleroom"
-  - username: "eatmoreplants.no"
-    fullname: >-
-      PLANT-BASED VEGAN RECIPES
-    location: "Norway"
-    followers: 15015
-    engagement: 370
-    commentsToLikes: 0.073850
-    id: ck5hkk46yiket0i11wxhrk0cb
-    verified: false
-    hashtags: ""
-  - username: "emilienutrition"
-    fullname: >-
-      Emilie Nereng
-    location: "Norway"
-    followers: 98273
-    engagement: 293
-    commentsToLikes: 0.012914
-    id: ck55lurn92hi50i113d68s7ce
-    verified: false
-    hashtags: "#nerdyfacts, #missinternational, #mymollers, #vitamind"
+    hashtags: "#postpartumjourney, #ad, #momlife, #postpartumbody"
   - username: "weightliftingadvice"
     fullname: >-
       Weightlifting Advice | Fitness
+    bio: >-
+      💪🏼 Making Weightlifting Simple 💡 Evidence-Based Content 🍊 Healthy Nutrition Tips 📍 Norway
     location: "Norway"
     followers: 4119
     engagement: 1196
     commentsToLikes: 0.192819
     id: ck6uhmknf9zna0j717bycmfpd
     verified: false
-    hashtags: "#allnaturalbodybuilding, #bizeps, #projectrock, #fitnessover50"
+    hashtags: "#coreworkouts, #musclefitness, #dwaynetherockjohnson, #nobodyoutworksme"
 ---

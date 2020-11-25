@@ -1,107 +1,130 @@
 ---
 title: Top 10 Zumba TikTok Influencers In 2020
 description: >-
-  Find top zumba TikTok influencers in 2020. Most popular hashtags: #zumba #love #challenge #backworkout.
+  Find top zumba TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #duet #dance.
 platform: TikTok
+hits: 203
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 203 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "zumba"
+    fullname: >-
+      Zumba
+    bio: >-
+      💃🏻🌎💗Official Zumba® account. #LetItMoveYou 👇🏼
+    location: "United States"
+    followers: 8624
+    engagement: 457
+    commentsToLikes: 0.023244
+    id: ckbailj6a9rc10j232fycofmz
+    verified: true
+    hashtags: "#fyp, #zumbafitness, #zumbawear, #zumbachallenge"
+  - username: "yiyoflores5"
+    fullname: >-
+      Makeup by Yiyo 
+    bio: >-
+      salvadoreña 🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻❤️❤️ el maquillaje y zumba mis pasiones ❤️❤️
+    location: "United States"
+    followers: 15300
+    engagement: 2061
+    commentsToLikes: 0.108491
+    id: ckav7fj79eh730j23746gyt7r
+    verified: false
+    hashtags: "#bukele, #pfp, #chiste, #hondura"
+  - username: "jyamsyangtan"
+    fullname: >-
+      #Jyam syangtan #ज्याम स्याङ्तन
+    bio: >-
+      🙏zumba fitness ,strong by zumba,aerobic trainer, dance choreographer #jyamlama8
+    location: "Nepal"
+    followers: 5332
+    engagement: 3142
+    commentsToLikes: 0.070978
+    id: ckc8izn0wcj020j23opqtg9z2
+    verified: false
+    hashtags: "#foruu, #dancemusmusic, #foryoupage, #nepalimusic"
+  - username: "mouseketeerjonathan"
+    fullname: >-
+      Jonathan
+    bio: >-
+      The official account of MouseketeerJonathan. Athlete, Zumba Instructor, Teacher
+    location: "United States"
+    followers: 294800
+    engagement: 1955
+    commentsToLikes: 0.028324
+    id: ckcpttx2lonxr0j23bwxwpowe
+    verified: false
+    hashtags: "#duet, #mouseketeerjonathan, #acting, #fyp"
+  - username: "jurea_zumbainstructor"
+    fullname: >-
+      user6793763618826
+    bio: >-
+      God is Love Zumba instructor, follow me on YouTube Jurea Myles
+    location: "United States"
+    followers: 5392
+    engagement: 2731
+    commentsToLikes: 0.400124
+    id: ckdt2nmjusayn0j232q4o5p00
+    verified: false
+    hashtags: "#viral, #music, #fyp, #lol"
   - username: "artidangwalss"
     fullname: >-
       Arti Dangwalss
+    bio: >-
+      zumba n Aerobics instructor 💪💃🏋️,REEBOK certified fitness instructor
     location: "India"
-    followers: 3452
-    engagement: 4140
-    commentsToLikes: 0.068622
+    followers: 3416
+    engagement: 2391
+    commentsToLikes: 0.039728
     id: ck9ejlcbt39am0j78onk0vcxn
     verified: false
-    hashtags: "#holidaymode, #luvher, #luvtomakevideos, #butitstrue"
-  - username: "amargondhali1"
+    hashtags: "#buggi, #haryanvisong, #happysoul, #adss"
+  - username: "nextpage_evan"
     fullname: >-
-      Amar Gondhali
-    location: "India"
-    followers: 21388
-    engagement: 1396
-    commentsToLikes: 0.028444
-    id: ck8otpwo3m9nm0j787tk7y9pw
+      Evan Dale Cadungog
+    bio: >-
+      CHOREOGRAPHER | LEADER OF NEXT PAGE | ZUMBA LICENSED INSTRUCTOR |
+    location: "Philippines"
+    followers: 14600
+    engagement: 698
+    commentsToLikes: 0.076106
+    id: ckd6ykx0rwn5h0j23o5ei7980
     verified: false
-    hashtags: "#style, #corona, #fida, #shankar"
-  - username: "vivalachelz"
+    hashtags: "#nextpagenave, #umd, #mywife, #fyp"
+  - username: "zuka_b"
     fullname: >-
-      TheNaturalBodyHottie
-    location: "United States"
-    followers: 40414
-    engagement: 961
-    commentsToLikes: 0.023557
-    id: cka106y0higbo0i788gvhf0yr
+      Zuka
+    bio: >-
+      Dancer 🔥 Choreographer 🌟 Zumba Instructor 💫 Next Goal 15K 🥺🥰
+    location: "Georgia"
+    followers: 14900
+    engagement: 640
+    commentsToLikes: 0.068672
+    id: ckc8vsgcbivt30j23rhht8g4h
     verified: false
-    hashtags: "#goinglive, #fitfam, #bodypositivity, #snake"
+    hashtags: "#fyp, #global, #dancer, #dance"
+  - username: "gulsenencu"
+    fullname: >-
+      gulsenencu
+    bio: >-
+      ☺️☺️ Zumba® instructor
+    location: "Turkey"
+    followers: 5033
+    engagement: 1521
+    commentsToLikes: 0.031593
+    id: ckbqb8jtcx1bs0j23psw1hyv0
+    verified: false
+    hashtags: "#fyp, #foryou"
   - username: "aninhabaracho"
     fullname: >-
       aninhabaracho
+    bio: >-
+      🇧🇷 Circus teacher, Zumba ZIN, Ex- Gymnast Google: Galpão Aninha Baracho
     location: "Brazil"
-    followers: 5165
-    engagement: 759
-    commentsToLikes: 0.041714
+    followers: 5211
+    engagement: 1050
+    commentsToLikes: 0.044073
     id: ck9ejl9we38nh0j78j84ptdgj
     verified: false
-    hashtags: "#tresure, #quarentena, #donaherminia, #dublagem"
-  - username: "performixathlete"
-    fullname: >-
-      😎PERFORMIX ANISH💪
-    location: "India"
-    followers: 29206
-    engagement: 1476
-    commentsToLikes: 0.005497
-    id: ck81s2mhfpjwf0j78bw12b0t2
-    verified: false
-    hashtags: "#ziddihunmain, #fight, #ropeclimbing, #mahabalipuram"
-  - username: "yashkaria0009"
-    fullname: >-
-      yash
-    location: "India"
-    followers: 32220
-    engagement: 283
-    commentsToLikes: 0.008186
-    id: ckailsve8pmyz0i78nilvv3su
-    verified: false
-    hashtags: "#mumbai, #forever, #repost, #myself"
-  - username: "jonathanz16"
-    fullname: >-
-      jona montoya
-    location: "Colombia"
-    followers: 39591
-    engagement: 691
-    commentsToLikes: 0.015295
-    id: ck9feiw5it69l0j78b5bjjbgd
-    verified: false
-    hashtags: "#friends, #duo, #gloriaestefan, #challenge"
-  - username: "allanalvior_64"
-    fullname: >-
-      Allan Alvior 🇵🇭
-    location: "Philippines"
-    followers: 173018
-    engagement: 864
-    commentsToLikes: 0.066225
-    id: ck9ejlb54391e0j78hur7no8w
-    verified: false
-    hashtags: "#duet, #kahitganyanka, #everybody, #parasapamilya"
-  - username: "alwinpedraja"
-    fullname: >-
-      Alwin Pedraja
-    location: ""
-    followers: 67337
-    engagement: 763
-    commentsToLikes: 0.023831
-    id: ckad9hf58dp1u0i781pnnaehe
-    verified: false
-    hashtags: "#reggae, #fypage, #greenscreen, #whitechicks"
-  - username: "simrankaur2711"
-    fullname: >-
-      Insta kaur56simran
-    location: "India"
-    followers: 241988
-    engagement: 752
-    commentsToLikes: 0.037914
-    id: ck9eukhome69y0j7876bophsa
-    verified: false
-    hashtags: "#singlelegsquat, #tiktokchallenge, #sidefat, #chestworkout"
+    hashtags: "#fy, #duet, #tiktokbrasil, #paravoce"
 ---

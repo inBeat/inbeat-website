@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Italy In 2020
 description: >-
-  Find top mothers TikTok influencers in Italy in 2020. Most popular hashtags: #mother #mothersday #dance #trending.
+  Find top mothers TikTok influencers in Italy in 2020. Most popular hashtags: #perte #duetto #love #viral.
 platform: TikTok
+hits: 25
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 25 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "michellehunziker"
     fullname: >-
       Michelle Hunziker
+    bio: >-
+      mother of 3 👧🧒👩🏻 + 2 🐶🐶, wife TV entertainer 📺
     location: "Italy"
-    followers: 767451
-    engagement: 720
-    commentsToLikes: 0.005302
+    followers: 984400
+    engagement: 777
+    commentsToLikes: 0.005520
     id: ck8ron9v0ia6k0j781s2v9i85
     verified: true
-    hashtags: "#tiktokitalia, #christmaschallenge, #hunziciapet, #cowgirl"
-  - username: "thegirlfriendof_amethyst"
+    hashtags: "#ciapet, #hunziciapet, #diconodime, #tik"
+  - username: "rainbowsoul.4"
     fullname: >-
-      Hylian Girl 
+      ♡nelly♡
+    bio: >-
+      ♡who said mothers are boring?♡ ♡from italy♡ ♡always have fun♡
     location: "Italy"
-    followers: 5781
-    engagement: 1846
-    commentsToLikes: 0.062262
-    id: ck90u6a2kvg7q0j78fp0slmfo
+    followers: 13900
+    engagement: 667
+    commentsToLikes: 0.005952
+    id: ckcpcu3r3fr6a0j23eq1dd0e3
     verified: false
-    hashtags: "#fanfiction, #miroku, #kikyo, #yaoi"
-  - username: "labelle.rspx"
+    hashtags: "#foryou, #daughter, #dontflop, #funny"
+  - username: "giorgia.mammina"
     fullname: >-
-      🦄 Labëlle 🦄
+      giorgiamammina
+    bio: >-
+      🌻24 years - #youngmom🌻 Rispondo sui DM di IG ☀Sicilian girl☀️
     location: "Italy"
-    followers: 52028
-    engagement: 1607
-    commentsToLikes: 0.046199
-    id: ck8to6zqgljiz0j78fzypaxq9
+    followers: 42500
+    engagement: 1569
+    commentsToLikes: 0.008610
+    id: ckb98ce54rqc90j2367j9rd5p
     verified: false
-    hashtags: "#ballosolochallenge, #mothersday, #stuckwithu, #doubleyourimpact"
-  - username: "noblethomas96"
+    hashtags: "#commedy, #neiperte, #funny, #mammaefiglia"
+  - username: "fatimaoschunsitai"
     fullname: >-
-      Noble Thomas
+      Fatima Oschunsita Ibu Cole
+    bio: >-
+      Cubanita 🇨🇺 italiana 🇮🇹TikTok Bologna Aeroporto di BO Instagram ochunsita13
     location: "Italy"
-    followers: 2804
-    engagement: 4765
-    commentsToLikes: 0.502354
-    id: cka84abbfsr6e0i78jeiy2wuv
+    followers: 48600
+    engagement: 1077
+    commentsToLikes: 0.155949
+    id: ckc90v29hqk9q0j23vabysha1
     verified: false
-    hashtags: "#100likes, #canonmirrorless, #maturare, #devilchallenge"
-  - username: "m.star346697"
+    hashtags: "#perte, #transition, #fashiondisaster, #chedire"
+  - username: "laugh_and_learn"
     fullname: >-
-      ɱΘȘτλʃλ ɱλɴίκ
+      Laugh_and_Learn
+    bio: >-
+      ⭐️Quella delle interviste⭐️ Ti faccio compagnia😊 INSTA 👆 LAL.TIKTOK@LIBERO.IT
     location: "Italy"
-    followers: 6236
-    engagement: 3920
-    commentsToLikes: 0.484237
-    id: cka9p8lc16l9y0i78yw0jn1yf
+    followers: 457500
+    engagement: 2400
+    commentsToLikes: 0.017037
+    id: ck8tulrzbso1u0j782cv1vsr7
     verified: false
-    hashtags: "#lovethissong, #ramdanmubarak, #team71, #ownvoice"
-  - username: "ashraf_____07"
+    hashtags: "#lasolitasolfa, #tiktok, #voice, #liceo"
+  - username: "laura.capocaccia"
     fullname: >-
-      💝আশরাফ🌹সিকদার💝
+      laura.capocaccia
+    bio: >-
+      Me:❤️🎭😂 ‼️Insta: laura.capocaccia‼️ 40K?❤️
     location: "Italy"
-    followers: 2001
-    engagement: 3562
-    commentsToLikes: 0.134222
-    id: ckacurw8pkbe40i78dxnr2ses
+    followers: 37000
+    engagement: 2260
+    commentsToLikes: 0.014253
+    id: ck9nfp979enao0j788tiwvk01
     verified: false
-    hashtags: "#fail, #guran, #friends, #15svines"
-  - username: "caniatti"
+    hashtags: "#foryou, #fyp, #acting, #actingchallenge"
+  - username: "la_valentinas_2.0"
     fullname: >-
-      Mattia
+      The Re-born🖤
+    bio: >-
+      LECCE♥️💛 ROAD TO 95K!🦂 I.G. la_new_valý🥲 1° Profilo:la_valentinas❤
     location: "Italy"
-    followers: 47237
-    engagement: 2450
-    commentsToLikes: 0.027274
-    id: ck9f23o7abh220j78k83rhpm4
+    followers: 91700
+    engagement: 775
+    commentsToLikes: 0.047715
+    id: cka6qkngxnzha0i78nh8qm8ep
     verified: false
-    hashtags: "#utilit, #twin, #occhiali, #dance"
-  - username: "princessjoan7545"
+    hashtags: "#love, #deutschland, #perte, #simone"
+  - username: "pasqualegiamundi8"
     fullname: >-
-      princessjoan7545
+      Pasquale Giamundi
+    bio: >-
+      Ateo, programmatore, aspirante doppiatore, amante delle lingue 😊 🏳️‍🌈
     location: "Italy"
-    followers: 23493
-    engagement: 1786
-    commentsToLikes: 0.091874
-    id: ck8z12wny05jc0j78ugdx1tkd
+    followers: 10700
+    engagement: 768
+    commentsToLikes: 0.057078
+    id: ckbwcz7qa12i00j23hxvuxnu2
     verified: false
-    hashtags: "#zxycba, #africanmom, #meme, #dance"
-  - username: "tiafisioaesthetic"
+    hashtags: "#animali, #meme, #ateismo, #dizione"
+  - username: "luke.04.lcc"
     fullname: >-
-      Tiafisio_aesthetic_
+      lucas🥰
+    bio: >-
+      Brazilian/Italian guy 🇧🇷🇮🇹 13k❤️ CEO of “Livello di” Ig: luke.04.lcc
     location: "Italy"
-    followers: 63866
-    engagement: 902
-    commentsToLikes: 0.070979
-    id: ck9si09liwbof0j78kabkdcf0
+    followers: 13800
+    engagement: 1378
+    commentsToLikes: 0.050332
+    id: ckcovwju69aao0j23y3fwuhl5
     verified: false
-    hashtags: "#esperimento, #videomagic, #fitchick, #mothersday"
-  - username: "francescamurgiaa"
+    hashtags: "#funny, #justjokes, #trend, #fun"
+  - username: "zerobudgetgardener"
     fullname: >-
-      Franci🥪
+      Zero Budget Gardener
+    bio: >-
+      Indian Woman, Story Teller, Growing veggies, Cooking Indian&Italian food
     location: "Italy"
-    followers: 4440
-    engagement: 1056
-    commentsToLikes: 0.054967
-    id: cka6bt08m1ltj0i78wcs9aomn
+    followers: 2317
+    engagement: 214
+    commentsToLikes: 0.055124
+    id: ckbf0h0iom65p0j23ejml35f3
     verified: false
-    hashtags: "#4upage, #seguitemi, #duetto, #lezionionline"
+    hashtags: "#troll, #zerobudgetgardener, #ancyan, #youtuber"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In France In 2020
 description: >-
-  Find top outdoors Instagram influencers in France in 2020. Most popular hashtags: #outdoors #tbt #stayhome #bike.
+  Find top outdoors Instagram influencers in France in 2020. Most popular hashtags: #nature #outdoors #mountains.
 platform: Instagram
+hits: 567
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 567 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "wolf_instinct"
     fullname: >-
       JEREMY STELLA
+    bio: >-
+      Outdoors man | Wolfdog owner Team @RevolutionRace »— Based in France —>
     location: "France"
-    followers: 269854
-    engagement: 1266
-    commentsToLikes: 0.020096
+    followers: 313270
+    engagement: 1261
+    commentsToLikes: 0.019147
     id: ck14hfco1a1iz0i19yx7yx7v7
     verified: false
-    hashtags: "#wildernessculture, #stayhome"
-  - username: "nonookeiht_bee3eisei"
+    hashtags: "#animals, #nature, #creative, #reels"
+  - username: "audreynoela"
     fullname: >-
-      𝗦𝗮𝗿𝗮𝗵 𝗢𝗿𝘁𝗲𝗴𝗼𝗻
+      𝑨𝒖𝒅𝒓𝒆𝒚 ♡ 𝑨𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆
+    bio: >-
+      🏔️ Outdoors • Sport • Travel 📍 French Alps  🧠 PhD student in Neuroscience
     location: "France"
-    followers: 9338
-    engagement: 948
-    commentsToLikes: 0.057241
-    id: ck8tdd3lg2vke0j7877bt7fwz
+    followers: 24486
+    engagement: 1342
+    commentsToLikes: 0.014835
+    id: ck5pyfnw4vsad0i11ewiwxuzm
     verified: false
-    hashtags: "#tiny, #nols, #hemp, #covid19relief"
-  - username: "juliecttl"
+    hashtags: "#artofdestinations, #frenchalps, #mountaingirls, #explore"
+  - username: "kimmistark_"
     fullname: >-
-      Julie 🚲🏃
+      Kimmi
+    bio: >-
+      Fl🍊🇺🇸🤘🏻 fishing, outdoors & livin’ my best life Personal Trainer Mac💙
     location: "France"
-    followers: 5401
-    engagement: 1035
-    commentsToLikes: 0.016038
-    id: ck9wdff67feu40j78nzpce74t
+    followers: 35071
+    engagement: 663
+    commentsToLikes: 0.053397
+    id: ck5ztp3w70v0u0i14hd5eq98l
     verified: false
-    hashtags: "#fraises, #entrecopines, #zwift, #badtime"
+    hashtags: "#florida, #woods, #beach, #fitness"
   - username: "bethylemieux"
     fullname: >-
       BETHY
+    bio: >-
+      Travels, Outdoors & Animals Travel guide @Voyagegrandv | QC Mom of 2 🌭 elizabeth.lemieux@hotmail.fr
     location: "France"
-    followers: 24470
-    engagement: 206
-    commentsToLikes: 0.017443
+    followers: 23679
+    engagement: 184
+    commentsToLikes: 0.018625
     id: ck5q1fd02aptc0i11j3715ofi
     verified: false
-    hashtags: "#coorsslice, #pub, #tb, #giveaway"
-  - username: "sauceyfrosty"
+    hashtags: "#vanlife, #collab, #outdoors, #mountains"
+  - username: "ladanivskyy"
     fullname: >-
-      Steve|Outdoor Supplements
+      Alexander Ladanivskyy | Travel
+    bio: >-
+      📸 Photographer 🌐 Travel organizer ⚠️ Анонси моїх подорожей тут ↙️ 🗺 @ladanivskyy_travel ↟ Adventure ╳ Outdoors ↟ 📩 photograph_@ukr.net
     location: "France"
-    followers: 35028
-    engagement: 575
-    commentsToLikes: 0.062008
-    id: ck5q7e65r14190i11oqdybprp
+    followers: 224394
+    engagement: 668
+    commentsToLikes: 0.015788
+    id: ck0vwf6odteg20i19qiwrso2g
     verified: false
-    hashtags: "#outside, #outdoorlife, #earthoffical, #myhobbies"
+    hashtags: "#4g"
+  - username: "juliecttl"
+    fullname: >-
+      Julie 🚲🏃
+    bio: >-
+      Riding @bianchi_france bikes 💚 Mountain & outdoors lover 🏔 🏥 Interne de médecine physique et réadaptation 📍 Les Vosges 🌲 & Nancy
+    location: "France"
+    followers: 5304
+    engagement: 952
+    commentsToLikes: 0.012429
+    id: ck9wdff67feu40j78nzpce74t
+    verified: false
+    hashtags: "#ridebianchi, #cycling, #girlsonbike, #trekking"
+  - username: "bolinlisamarie"
+    fullname: >-
+      Lisa-Marie Bolin🇸🇪Arctic Drone
+    bio: >-
+      ➿ Certified Drone Pilot | Content Creator 📍Svalbard, Norway 〰 Outdoors🏔Mountains⛺️Travel ✉️ DM @revolutionrace Get 10% off on #squatwolf👇🏼 “SWO88C22”
+    location: "France"
+    followers: 11359
+    engagement: 904
+    commentsToLikes: 0.061268
+    id: ck5q9bitbaa4k0i11bja7ol24
+    verified: false
+    hashtags: "#mittnorge, #northernnorway, #sonyalpha7iii, #naturen"
   - username: "robinooode"
     fullname: >-
       Robin Benzrihem
+    bio: >-
+      Outdoors ↠ Travel ↞ Urban 📍Paris, FR 📷: Fujifilm X-T3 | Parrot Anafi | DJI Osmo Action ⬇️NEW YOUTUBE VIDEO⬇️
     location: "France"
-    followers: 5398
-    engagement: 3094
-    commentsToLikes: 0.023203
+    followers: 7316
+    engagement: 1647
+    commentsToLikes: 0.023172
     id: ck6tnj8jo9yev0j718avnztz7
     verified: false
-    hashtags: "#normandy, #wondermore, #modernwanderers, #icelandnature"
-  - username: "fionahopkinshunting"
-    fullname: >-
-      FIONA HOPKINS
-    location: "France"
-    followers: 18417
-    engagement: 873
-    commentsToLikes: 0.019207
-    id: ck15rcrop7a1f0i19cplbm706
-    verified: false
-    hashtags: "#20gauge, #happiness, #pigeonhunting, #keepsmiling"
+    hashtags: "#soft, #fontainebleau, #organicamag, #wildist"
   - username: "stevevonsteen"
     fullname: >-
       Steve von Steen
+    bio: >-
+      ❤️Gardens&outdoors, getting dirty 🌵cactus/succulent/🌴palm tree freak, 👩‍🌾organic veg garden& 🐕French bulldogs📍El Palmar, Spain
     location: "France"
-    followers: 2967
-    engagement: 4975
-    commentsToLikes: 0.017111
+    followers: 5801
+    engagement: 3345
+    commentsToLikes: 0.013391
     id: ckaos9zzcqs7s0i78m1kz99ap
     verified: false
     hashtags: ""
-  - username: "refusetohibernate"
+  - username: "djisupertramp"
     fullname: >-
-      Audrey & Mickaël - Travel blog
+      JEREMY JANIN
+    bio: >-
+      Outdoors lover & mountain biking enthusiast. Co-founder + filmmaker @captainyvon / Ultralight gear maker @fieldpacks ✂️🧵 Lille, France
     location: "France"
-    followers: 11483
-    engagement: 518
-    commentsToLikes: 0.069844
-    id: ck13b46c8tl2g0i193dkwjw2p
+    followers: 15195
+    engagement: 414
+    commentsToLikes: 0.029327
+    id: ck0tyvjm7o8lk0i19v1849lo2
     verified: false
-    hashtags: "#iceskating, #yyclife, #euretourisme, #castle"
-  - username: "fabien_maierhofer"
-    fullname: >-
-      Fabien Maierhofer
-    location: "France"
-    followers: 39125
-    engagement: 612
-    commentsToLikes: 0.010548
-    id: ck13b6jpqtx7q0i19bsr1lkch
-    verified: true
-    hashtags: "#islande, #groenland, #mountainbikes, #jumping"
+    hashtags: "#bikepacking, #mtb, #exploremore, #rideneo"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Manchester In 2020
 description: >-
-  Find top Instagram influencers in Manchester in 2020. Most popular hashtags: #ad # #parisianlook #sudiomoments.
+  Find top Instagram influencers in Manchester in 2020. Most popular hashtags: #fashion #ootd #manchester.
 platform: Instagram
+hits: 898
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database has 898 Instagram influencers like this in Manchester, United Kingdom for you to pitch.
 profiles:
   - username: "_dancarroll"
     fullname: >-
       Dan Carroll
+    bio: >-
+      Manchester
     location: "United Kingdom"
-    followers: 8274
-    engagement: 1581
-    commentsToLikes: 0.047841
+    followers: 11390
+    engagement: 1089
+    commentsToLikes: 0.040203
     id: ck8t8rgoplic30j78bbvf0tl1
     verified: false
-    hashtags: "#farfetchfind, #farfetch, #ad, #quarantinebirthday"
-  - username: "abbiehoughton_"
+    hashtags: "#meinjd, #jdxnpcii, #ad, #jdnb878"
+  - username: "stormthompsonnn"
     fullname: >-
-      abbie houghton
+      Stormi
+    bio: >-
+      Manchester
     location: "United Kingdom"
-    followers: 12078
-    engagement: 886
-    commentsToLikes: 0.030056
-    id: ckap6e5p7finp0i78l3o5lpvt
+    followers: 25250
+    engagement: 449
+    commentsToLikes: 0.043973
+    id: ck5zzlhyrbyj90i14xnc4g651
     verified: false
-    hashtags: ""
-  - username: "ambrlittlr"
+    hashtags: "#blackouttuesday"
+  - username: "chrisriversart"
     fullname: >-
-      AMBR LITTLR⚡️🤍
+      Chris Rivers
+    bio: >-
+      Manchester
     location: "United Kingdom"
-    followers: 3891
-    engagement: 1015
-    commentsToLikes: 0.185476
-    id: ckaozt1ycn9wm0i78lkmtjfgy
+    followers: 90284
+    engagement: 480
+    commentsToLikes: 0.019204
+    id: ck0w0e8z7dr5h0i19xfnbnh7o
     verified: false
-    hashtags: "#igtvmusic, #mothersday, #cover, #snohaalegra"
-  - username: "_tristanjones"
+    hashtags: "#largescaleart, #artoftheday, #abstractart, #abstractpainting"
+  - username: "moncaton"
     fullname: >-
-      Tristan Jones
+      monique🦋
+    bio: >-
+      ♡ London/Manchester ♡ @elsieandfred RiotGuuurl🌈✨ ✨↓ SOCIALS + CODES ↓✨
     location: "United Kingdom"
-    followers: 321942
-    engagement: 773
-    commentsToLikes: 0.068564
-    id: ck5bt9pv3fku70i113pfj0qbc
-    verified: true
-    hashtags: "#familyfirst, #ad, #jdgymking, #meinjd"
-  - username: "hafsax.o"
-    fullname: >-
-      I love lareib🥰
-    location: "United Kingdom"
-    followers: 7092
-    engagement: 2199
-    commentsToLikes: 0.175302
-    id: ckap8p0qbpblj0i78ii3puxdg
+    followers: 3890
+    engagement: 1879
+    commentsToLikes: 0.241847
+    id: ckap0lapdqt1v0i787x04c75x
     verified: false
-    hashtags: "#ad"
-  - username: "leah_hartley"
-    fullname: >-
-      L E A H H A R T L E Y
-    location: "United Kingdom"
-    followers: 18697
-    engagement: 896
-    commentsToLikes: 0.063309
-    id: ck5q63hqqvsxo0i11m5n53p3w
-    verified: false
-    hashtags: "#luxegirl, #stayhomewithplt, #jackwills"
-  - username: "maiziecraven"
-    fullname: >-
-      Mz🥰🥺
-    location: "United Kingdom"
-    followers: 18491
-    engagement: 1226
-    commentsToLikes: 0.047295
-    id: ck5zqjkovupot0i14l3wd9c59
-    verified: false
-    hashtags: "#prom2019, #boohoobabes, #fashionnova"
-  - username: "aga_on_the_run"
-    fullname: >-
-      AGA || Travel Blogger
-    location: "United Kingdom"
-    followers: 3723
-    engagement: 1887
-    commentsToLikes: 0.364583
-    id: ck5zu12p01hex0i147oeih8my
-    verified: false
-    hashtags: "#lerdevagar, #bookstorelife, #visitlisbon, #parisianlook"
-  - username: "jasminwhelan"
-    fullname: >-
-      Jasmin Whelan
-    location: "United Kingdom"
-    followers: 10848
-    engagement: 962
-    commentsToLikes: 0.144839
-    id: ck5zobw1iq7tu0i14yelauszb
-    verified: false
-    hashtags: "#carfumesofficial, #plt, #gifted, #isawicons"
+    hashtags: "#fashion, #handmade, #womensfashion, #altfashion"
   - username: "alex_humphreys_"
     fullname: >-
       Al 🖤
+    bio: >-
+      Fashion Business and Management student MMU 📚 📍Manchester Owner of @aestheticswithalexandra_ _ 💋👄💉
     location: "United Kingdom"
-    followers: 6608
-    engagement: 1073
-    commentsToLikes: 0.080327
+    followers: 8670
+    engagement: 1014
+    commentsToLikes: 0.103659
     id: ckap6e4brfih50i781h4mdoud
     verified: false
-    hashtags: ""
+    hashtags: "#blackouttuesday"
+  - username: "aga_on_the_run"
+    fullname: >-
+      AGA || Travel Blogger
+    bio: >-
+      Travel fanatic chasing the Sun around the globe🔅 🌍 eco-friendly 🌱 plant based 📩 aga.on.the.run@gmail.com 📍Manchester, UK 🔜 London My travel blog👇
+    location: "United Kingdom"
+    followers: 4179
+    engagement: 1691
+    commentsToLikes: 0.349274
+    id: ck5zu12p01hex0i147oeih8my
+    verified: false
+    hashtags: "#polishgirltravelling, #travelrome, #packandgo, #romeitaly"
+  - username: "yaboy_keenan"
+    fullname: >-
+      🅚🅔🅔🅝🅐🅝 ✊🏼✊🏽✊🏾✊🏿
+    bio: >-
+      Oblivious but reassured 🙏🏽 Manchester📍 @babyf4cekilla 👀 @bameagency 👨🏾‍💻
+    location: "United Kingdom"
+    followers: 3639
+    engagement: 1751
+    commentsToLikes: 0.134923
+    id: ck5hjv38fhank0i11dhvvn0nm
+    verified: false
+    hashtags: "#blacklivesmatter, #blackouttuesday"
+  - username: "hafsax.o"
+    fullname: >-
+      •Hafsa✨•
+    bio: >-
+      📍Manchester 🐝 🔆Young entrepreneur / influencer Other account @satisfying._slimey (305K+) @tiktok - (180K+) YouTube ⤵️
+    location: "United Kingdom"
+    followers: 7394
+    engagement: 2054
+    commentsToLikes: 0.262759
+    id: ckap8p0qbpblj0i78ii3puxdg
+    verified: false
+    hashtags: "#ootdinspo, #outfitstyle, #fashiongram, #manchester"
+  - username: "lima.kx"
+    fullname: >-
+      L I M A ♡
+    bio: >-
+      🕊| 20 ☁️| manchester 🤍| brand ambassador @maisolifoundation 📨| dm/email for promos & collabs ◽️| dc - ‘lima10’ @fwbeauty
+    location: "United Kingdom"
+    followers: 28976
+    engagement: 810
+    commentsToLikes: 0.088555
+    id: ck6tijxeo0uvd0j715dmrxkfj
+    verified: false
+    hashtags: "#hairoftheday, #outfitideas, #styleinspo, #fotd"
+  - username: "edaowofashion"
+    fullname: >-
+      Damilola
+    bio: >-
+      💻Style blogger|📍Manchester/London UK | Blog: Collaborations: edaowo-fashion@hotmail.com
+    location: "United Kingdom"
+    followers: 57087
+    engagement: 386
+    commentsToLikes: 0.057797
+    id: ck15tgx3bi0qz0i19fs1vrk51
+    verified: false
+    hashtags: "#karenmillen, #liketkit, #endsars, #o2priority"
 ---

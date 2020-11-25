@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Colombia In 2020
 description: >-
-  Find top wellness Instagram influencers in Colombia in 2020. Most popular hashtags: #wellness #cuarentena #motivacion #healthy.
+  Find top wellness Instagram influencers in Colombia in 2020. Most popular hashtags: #wellness #colombia #medellin #dance.
 platform: Instagram
+hits: 24
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 24 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "melissalopez302"
+  - username: "bebasantander"
     fullname: >-
-      Melylopez🇨🇴
+      Thalia Santander 🐰💪
+    bio: >-
+      Manager: @patricioazeta DIOS ♥ Wellness Fitness🏆 💪🏻 Lcda en fisioterapia 👩🏻‍⚕️
     location: "Colombia"
-    followers: 128504
-    engagement: 178
-    commentsToLikes: 0.025048
-    id: ck5c7ld9p7qsh0i11qryq9pd1
+    followers: 26414
+    engagement: 1036
+    commentsToLikes: 0.015698
+    id: ck6u63rwudcom0j71z5o3zzfa
     verified: false
-    hashtags: "#cuerpo, #wellnessfitness, #barranquilla, #cuarentena"
-  - username: "danieladiez"
+    hashtags: "#fitnessaddict, #fitnessmotivation, #fitnessgirl, #wellness"
+  - username: "angietaddei"
     fullname: >-
-      Danii👑
+      Angie Taddei
+    bio: >-
+      @angietaddei Host CÁMBIAME EL LOOK!/ A.M.O: @angiemeloli Contacto: andrea@jerryml.com @jerryml1 @grupojns @boboproducciones Wellness: @strongpleione
     location: "Colombia"
-    followers: 8027
-    engagement: 1105
-    commentsToLikes: 0.049720
-    id: ck8t2a6ieypcf0j784l1kegeh
+    followers: 266072
+    engagement: 269
+    commentsToLikes: 0.017264
+    id: ck15qwnnc505c0i19zddedw12
+    verified: true
+    hashtags: "#samsunggalaxys20ultra, #jnsenconcierto, #15minutosparami, #proximamente"
+  - username: "natylipretti"
+    fullname: >-
+      NATY ╳ LIPRETTI
+    bio: >-
+      lifestyle / wellness / beauty
+    location: "Colombia"
+    followers: 40636
+    engagement: 212
+    commentsToLikes: 0.024975
+    id: ckf5pnk4x6oer0j232fvt6n01
     verified: false
-    hashtags: "#bikinimodel, #monatskincare, #fitlife, #staysafe"
+    hashtags: ""
   - username: "the_runaddict"
     fullname: >-
       George | Running & Tri Junkie
+    bio: >-
+      ‣ Marketing | Triathlon & running coach 👉🏻 @aethosport ‣ Health & wellness motivation. ‣ 4 major marathons ⭐️ (so far).
     location: "Colombia"
-    followers: 9292
-    engagement: 811
-    commentsToLikes: 0.102786
+    followers: 10326
+    engagement: 673
+    commentsToLikes: 0.079774
     id: ckaozhml1lxdo0i78gltg1vkd
     verified: false
-    hashtags: "#gayfit, #pride, #igrunner, #coparunners"
-  - username: "tiposofia"
-    fullname: >-
-      Sofia Contreras
-    location: "Colombia"
-    followers: 33116
-    engagement: 130
-    commentsToLikes: 0.066180
-    id: ck8sy4yqwjppd0j78j6wps928
-    verified: false
-    hashtags: "#poder, #paris, #ciudaddepanama, #sand"
+    hashtags: "#3athlonlife, #gayrunner, #nacimosparamovernos, #vamosaethos"
   - username: "katherineporto_"
     fullname: >-
       Katherine Porto
+    bio: >-
+      Vocera del Amor propio Actriz/Comunicadora social/Speaker/coach Angelical Fundadora @matchamor.co #travel #mindfulness #wellness #beauty Mi tienda👇🏼
     location: "Colombia"
-    followers: 728797
-    engagement: 108
-    commentsToLikes: 0.023938
+    followers: 796245
+    engagement: 103
+    commentsToLikes: 0.019447
     id: ck600z1teejkq0i14iga22w8f
     verified: true
-    hashtags: "#bailaressanar, #teandbooks, #hacerlossuen, #dreamer"
-  - username: "mariaapaulavaz"
+    hashtags: "#reels, #matchamor, #dance, #hotelboutique"
+  - username: "cami_wellness"
     fullname: >-
-      María Paula Vázquez
+      Camila Gonzales Muñoz
+    bio: >-
+      Miss Beautiful Internacional 🇨🇴 👸🏻 Del ⚽️ Manager: @kitosunshine @megateamlatino Publicidad👇🏻 +573123333160
     location: "Colombia"
-    followers: 11404
-    engagement: 1242
-    commentsToLikes: 0.021334
-    id: ck5pwp6yunwks0i11j1d6axko
+    followers: 59007
+    engagement: 158
+    commentsToLikes: 0.039329
+    id: ck5pw1spmkoth0i110so41477
     verified: false
-    hashtags: "#lifestyle, #wellness, #summer, #makeupchallenge"
-  - username: "rociocio"
+    hashtags: "#sexy, #fotografia, #comedia, #24"
+  - username: "melissalopez302"
     fullname: >-
-      RO ★
+      Melylopez
+    bio: >-
+      🦏🏆 IFBB ELITE PRO 2019 @ifbbelitepro_official 🦏🏆 1st mr olympia South América 2018 🦏🏆 campeona megaplex star ant 2018 @rhinoml
     location: "Colombia"
-    followers: 9677
-    engagement: 658
-    commentsToLikes: 0.062389
-    id: ck6trauh6xx580j71lvfhzht4
+    followers: 7273
+    engagement: 2360
+    commentsToLikes: 0.027460
+    id: ck5c7ld9p7qsh0i11qryq9pd1
     verified: false
-    hashtags: "#fitgirl, #pyton, #1989, #goodvibes"
-  - username: "mulatafit"
+    hashtags: "#guerrera, #yomequedoencasa, #amor, #fitness"
+  - username: "mariadalmazzo"
     fullname: >-
-      Wbff Diva Champion Usa🇺🇸
+      mariadalmazzo
+    bio: >-
+      🙏 Aprendiz 💫Viajera 🧘🏼‍♀️Amante del bienestar ⭐️Creadora de @mimosymimosas ✨Manager @deisymarroquin
     location: "Colombia"
-    followers: 524758
-    engagement: 200
-    commentsToLikes: 0.020615
-    id: ck5q5bhkks4yj0i11prd3sjk9
-    verified: false
-    hashtags: "#homeworkoutvideos, #wbffwellnesspro, #atletawellnessfitnesspro, #athome"
-  - username: "calicolfit"
+    followers: 38914
+    engagement: 172
+    commentsToLikes: 0.032100
+    id: ck14ig057f7pz0i193f3i40v8
+    verified: true
+    hashtags: "#bienestar, #mariadalmazzo, #awareness, #wellness"
+  - username: "lindapalma"
     fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
+      LindaPalma ❤️😜🌴
+    bio: >-
+      Presentadora TV. Colombiana 🇨🇴 💜La Vida es linda💜 #LaVidaEslinda 💌 linda@lindapalma.com COMPRAR AHORA 👇
     location: "Colombia"
-    followers: 35443
-    engagement: 96
-    commentsToLikes: 0.054930
-    id: ck5zufszw2a0r0i14z8wpyi8c
-    verified: false
-    hashtags: "#facil, #glutes, #gluteo, #fresas"
-  - username: "fuqueneifbbpro1"
+    followers: 1578119
+    engagement: 101
+    commentsToLikes: 0.015276
+    id: ck13c5up2yrg40i19srua000u
+    verified: true
+    hashtags: "#healthylifestyle, #happiness, #lavidaeslinda, #brunette"
+  - username: "anamorenoft"
     fullname: >-
-      Esteban Fuquene | IFBB PRO🇨🇴
+      Ana Moreno Personal Trainer🙏
+    bio: >-
+      💪 ENTRENADORA PERSONAL 1️⃣ SMARTFIT VIVA ENVIGADO @angelmioaccesorios 🏅 Est.Actividad física ➡️Clase grupal a domicilio 🏐Vóleibol - Bailar Mi pasión
     location: "Colombia"
-    followers: 28104
-    engagement: 210
-    commentsToLikes: 0.020345
-    id: ck5hryp1avpgq0i11k77ehskm
+    followers: 7082
+    engagement: 355
+    commentsToLikes: 0.038633
+    id: ck5c7l1gt7q3i0i11ycxf7fbc
     verified: false
-    hashtags: "#shreddedbrother, #posing, #investigacion, #prodebut"
+    hashtags: "#focus, #coronavirus, #instagram, #mujeresfitness"
 ---

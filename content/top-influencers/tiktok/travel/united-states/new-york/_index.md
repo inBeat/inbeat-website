@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In New York In 2020
 description: >-
-  Find top travel TikTok influencers in New York in 2020. Most popular hashtags: #quarantine #travel #newyork #sanfrancisco.
+  Find top travel TikTok influencers in New York in 2020. Most popular hashtags: #fyp #newyork #nyc #travel.
 platform: TikTok
+hits: 223
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 223 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "newyorknatalia"
+  - username: "tyseemarie"
     fullname: >-
-      NewYorkNatalia
+      Chloe Steve
+    bio: >-
+      I post way more on IG & YOUTUBE 🌸 Come say hiiiiiii New vid out! 👙🤍
     location: "United States"
-    followers: 177168
-    engagement: 701
-    commentsToLikes: 0.041472
+    followers: 69100
+    engagement: 689
+    commentsToLikes: 0.033381
+    id: ck9dyej4qwz2a0j78oggtajqt
+    verified: false
+    hashtags: "#outfitideas, #fyp, #colorselector, #nyccheck"
+  - username: "_______jake_________"
+    fullname: >-
+      J
+    bio: >-
+      Travel Page🏝
+    location: "United States"
+    followers: 6955
+    engagement: 214
+    commentsToLikes: 0.059575
+    id: ckb9kq8tictr60j2362ds6k7t
+    verified: false
+    hashtags: "#hiking, #foryou, #biden2020, #election2020"
+  - username: "nyctraveller"
+    fullname: >-
+      NYC and beyond
+    bio: >-
+      New York and so much more ✅
+    location: "United States"
+    followers: 186200
+    engagement: 681
+    commentsToLikes: 0.036800
     id: ck7zp9vcso7gk0j78tvjx7c7t
     verified: false
-    hashtags: "#show, #thisislove, #marine, #bison"
-  - username: "arfalaa"
+    hashtags: "#art, #pa, #manhattan, #whatisthat"
+  - username: "lionelchambers"
     fullname: >-
-      Arfa
+      Lionel Chambers
+    bio: >-
+      YouTube: Lionel Chambers
     location: "United States"
-    followers: 98439
-    engagement: 1520
-    commentsToLikes: 0.012219
-    id: ck92t67dogjkt0j78waclmrc7
+    followers: 197000
+    engagement: 1288
+    commentsToLikes: 0.024333
+    id: ck9fiay519vjx0j78l0zmx4bj
     verified: false
-    hashtags: "#quarantine, #dunes, #foryourpage, #doorless"
-  - username: "newyorkbucketlist"
+    hashtags: "#cornell, #surprise, #fyp, #readysetgo"
+  - username: "emilyxinfinity"
     fullname: >-
-      New York Bucket List
+      emilyxinfinity
+    bio: >-
+      25 • nyc
     location: "United States"
-    followers: 213677
-    engagement: 1109
-    commentsToLikes: 0.006476
-    id: ck9glc56ani4s0j78iwqshhfg
+    followers: 27700
+    engagement: 1490
+    commentsToLikes: 0.152518
+    id: ckan6djy8jbv70i789gvgf1m0
     verified: false
-    hashtags: "#macysprom, #doakickflip, #brooklyn, #chinatown"
-  - username: "weissbro"
+    hashtags: "#biden2020, #nyccheck, #fyp, #adhd"
+  - username: "dyanabratz"
     fullname: >-
-      Aaron Weiss 🎞
+      DyanaBratz
+    bio: >-
+      SHEIN clothing Haul is now on my channel 👇🏾
     location: "United States"
-    followers: 92381
-    engagement: 548
-    commentsToLikes: 0.010737
-    id: ck83zgiox0k5m0j787zqx9vhg
+    followers: 57700
+    engagement: 1621
+    commentsToLikes: 0.017588
+    id: ckb9hbjhl6pfz0j23vyd4fozq
     verified: false
-    hashtags: "#killyourvibe, #foryoupag, #adventure, #reflection"
-  - username: "meirschonbrun"
+    hashtags: "#muslimtiktok, #styleedit, #fyp, #style"
+  - username: "nytoanywhere"
+    fullname: >-
+      Lauren McGill
+    bio: >-
+      Travel blogger + Foodie New York & beyond 🌎🍕 ⬇️Travel Guides ⬇️
+    location: "United States"
+    followers: 7145
+    engagement: 784
+    commentsToLikes: 0.064158
+    id: ck8tpyq36qooc0j78w5vxy8ex
+    verified: false
+    hashtags: "#outdoordining, #newyorkcheck, #tiktoktraveling, #hudsonvalley"
+  - username: "meirschon"
     fullname: >-
       Meir
+    bio: >-
+      Luxury Travel Content Creator New York City 📍
     location: "United States"
-    followers: 8741
-    engagement: 879
-    commentsToLikes: 0.024175
+    followers: 59900
+    engagement: 1204
+    commentsToLikes: 0.013226
     id: ckamwch357w0o0i7852bop7ow
     verified: false
-    hashtags: "#algarve, #bedroomcheck, #beachgirl, #pool"
-  - username: "beautifuldestinations"
+    hashtags: "#fyp, #luxury, #maldives, #nyc"
+  - username: "elizabethfow"
     fullname: >-
-      Beautiful Destinations
+      Elizabeth Fowler
+    bio: >-
+      Instagram - @elizabethfowlerx YouTube- Elizabeth Fowler NYC 📍
     location: "United States"
-    followers: 25282
-    engagement: 588
-    commentsToLikes: 0.021217
-    id: ck9116grkkk9t0j78cqwb8wvj
-    verified: true
-    hashtags: "#sanfrancisco, #florence, #streetdancer, #mykonos"
-  - username: "nataliatrevinoamaro"
-    fullname: >-
-      Natalia TrevinoAmaro
-    location: "United States"
-    followers: 2412
-    engagement: 664
-    commentsToLikes: 0.019340
-    id: ckamm43ovyvbz0i78dn2sh67p
+    followers: 35700
+    engagement: 1075
+    commentsToLikes: 0.015144
+    id: ckb997qgptbb30j23o1starp7
     verified: false
-    hashtags: "#color, #photoshop, #nycstudent, #peaceful"
-  - username: "adamkrimmel"
+    hashtags: "#whatispendinaday, #newyork, #citylife, #minivlog"
+  - username: "arina_youusedto"
     fullname: >-
-      Adam Krimmel
+      Arina Bloom💄💋
+    bio: >-
+      👠INSTAGRAM: youusedto_💄 ✈️🅲🅰🅱🅸🅽 🅲🆁🅴🆆👩🏻‍✈️ ☁️ᴹᴬᴰᴱ ᴵᴺ ᵁᴷᴿᴬᴵᴺᴱ☁️ NYC🗽
     location: "United States"
-    followers: 20457
-    engagement: 2242
-    commentsToLikes: 0.021769
-    id: ck9n8rki38tyw0j78wisvoqau
+    followers: 54900
+    engagement: 841
+    commentsToLikes: 0.016647
+    id: ckbl57qp62p8p0j23urllcso8
     verified: false
-    hashtags: "#animals, #dogs, #hungary, #music"
-  - username: "trustedtravelgirl"
-    fullname: >-
-      Trusted Travel Girl
-    location: "United States"
-    followers: 347040
-    engagement: 1040
-    commentsToLikes: 0.033949
-    id: ck90xynp98j070j78z8qauixb
-    verified: true
-    hashtags: "#travel, #toosieslide, #flamingo, #borneo"
-  - username: "alexafaye3"
-    fullname: >-
-      alexa faye
-    location: "United States"
-    followers: 14088
-    engagement: 701
-    commentsToLikes: 0.026343
-    id: ck961yl90ogzb0j783tpcvd4a
-    verified: false
-    hashtags: "#unitedkingdom, #scandal, #shondarhimes, #kardashians"
+    hashtags: "#relationship, #flightattendants, #bf, #foryou"
 ---

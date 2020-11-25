@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Manchester In 2020
 description: >-
-  Find top fitness Instagram influencers in Manchester in 2020. Most popular hashtags: #fitness #tracksuit #photoshoot #manchester.
+  Find top fitness Instagram influencers in Manchester in 2020. Most popular hashtags: #fashion #fitness #motivation #manchester.
 platform: Instagram
+hits: 54
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 54 Instagram influencers like this in Manchester, United Kingdom for you to work with.
 profiles:
-  - username: "frankbrunoboxer"
+  - username: "djmaxinne"
     fullname: >-
-      Frank Bruno 🇬🇧
+      Maxinne
+    bio: >-
+      Mgmt: paul@er-mgmt.com Bookings: rob@radiusartists.com 'RUNNING' FEAT. @haylasings OUT NOW ON @saved_records 🔻
     location: "United Kingdom"
-    followers: 128427
-    engagement: 229
-    commentsToLikes: 0.029840
-    id: ck0vxweeo12l70i19nnev5nnw
+    followers: 18580
+    engagement: 387
+    commentsToLikes: 0.077361
+    id: ck6txw0js06gi0j71ozulvnvl
+    verified: false
+    hashtags: "#linkinbio, #instalive, #tunein, #collectionh"
+  - username: "lostwithfrank"
+    fullname: >-
+      Frank Somdee | Content Creator
+    bio: >-
+      ↠ Thai | British 🇹🇭🇬🇧 ✈ Lost in: Manchester📍 ↬ Fitness | Travel 🏋🏽✈️ ↫ Addicted to this planet 🌏 ✎ Lostwithfrank@gmail.com 📩
+    location: "United Kingdom"
+    followers: 52102
+    engagement: 242
+    commentsToLikes: 0.093350
+    id: ck5q1rn01cfv30i11ml85jgve
+    verified: false
+    hashtags: "#traveltogether, #stayandwander, #earthcapture, #bestplacestogo"
+  - username: "ellieerobinson_"
+    fullname: >-
+      E  L  L  I  E
+    bio: >-
+      Manchester | 🌿| ♑️♏️♏️ Fitness | Fashion @doyoueven athlete 10% link⬇️
+    location: "United Kingdom"
+    followers: 239573
+    engagement: 314
+    commentsToLikes: 0.018634
+    id: ck55jym6by2lp0i11t810livz
+    verified: false
+    hashtags: "#workout, #motivation, #gymgirl, #fitness"
+  - username: "lpresi145"
+    fullname: >-
+      Lerone Murphy
+    bio: >-
+      ▪️ @ufc Featherweight ▪️M-T-T ▪️Manchester,England ▪️THROUGH EVERY DARK NIGHT, THERES A BRIGHTER DAY AFTER 💫
+    location: "United Kingdom"
+    followers: 17941
+    engagement: 543
+    commentsToLikes: 0.031024
+    id: ck5c6fnzq5cag0i111x2z0e60
     verified: true
-    hashtags: "#rip, #happybirthdayyourmajesty, #stayingathome, #healthybodyhealthymind"
-  - username: "leahgracefitness"
+    hashtags: "#workout, #gym, #mma, #gymmotivation"
+  - username: "heathermacfarlane"
     fullname: >-
-      Leah Grace | Fitness & Food
+      h
+    bio: >-
+      BLACK LIVES MATTER 23 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | performer/model @buzz_talent_ 🐝 Travel Agent ✈️ @travellingwithheather 📍MCR/LDN
     location: "United Kingdom"
-    followers: 94346
-    engagement: 429
-    commentsToLikes: 0.081773
-    id: ck8t21z5cxxd80j786z7q5dpk
+    followers: 7003
+    engagement: 1618
+    commentsToLikes: 0.334149
+    id: ckaowpv8a9x600i78tispqk8m
     verified: false
-    hashtags: "#weightlifting, #mentalhealth, #fitnessfun, #gymfashion"
-  - username: "akeemojuko"
+    hashtags: "#wearemcr, #fitnessgirl, #modelling, #ad"
+  - username: "toni_macaroni"
     fullname: >-
-      Akeem Ojuko | Cheekysport Ak
+      T O N I   M A C A R O N I 🌻
+    bio: >-
+      Body Confidence | Self love PROUD TO BE MID-SIZE 🙌🏼 Hello@tonimacaronisocial.com Youtube: Toni Macaroni Tiktok: Toni_.Macaroni
     location: "United Kingdom"
-    followers: 19859
-    engagement: 607
-    commentsToLikes: 0.024017
-    id: ck6turtwli1hp0j71m6ho28cs
+    followers: 62617
+    engagement: 241
+    commentsToLikes: 0.028557
+    id: ck14jsmqqlz4w0i19z87q59j5
     verified: false
-    hashtags: "#couplegoals, #vday, #presenters, #mufc"
-  - username: "wikkyc"
-    fullname: >-
-      Wiktoria Chroma Model
-    location: "United Kingdom"
-    followers: 6974
-    engagement: 614
-    commentsToLikes: 0.055508
-    id: ck5zt7gnzzvm40i145z5nuyd1
-    verified: false
-    hashtags: "#sensual, #anxiety, #throwback, #freethemind"
-  - username: "domain_esdale"
-    fullname: >-
-      Domain Esdale
-    location: "United Kingdom"
-    followers: 20223
-    engagement: 613
-    commentsToLikes: 0.081829
-    id: ck14l8tcgtf110i19jqqz2szw
-    verified: false
-    hashtags: "#london, #shirts, #tracksuit, #ss20"
-  - username: "emzyloufit"
-    fullname: >-
-      Em 🌸 | Fitness | Food | ✨
-    location: "United Kingdom"
-    followers: 4520
-    engagement: 1035
-    commentsToLikes: 0.247214
-    id: ckaosb8u8qxzr0i780q5qo91r
-    verified: false
-    hashtags: ""
+    hashtags: "#midsize, #curlybeauties, #blondecurlyhair, #thickhair"
   - username: "meganbhidey"
     fullname: >-
       Megan Bhidey
+    bio: >-
+      📍Manchester 🙋‍♀️Promo/Model💆‍♀️physiotherapist 💪🏾Fitness freak/PT ✈Air hostess 🌍Travel junkie @smokeandmirrors.bar 🍸🍴🌬 ⬆️ DM for private events 🔐 🤫
     location: "United Kingdom"
-    followers: 28144
-    engagement: 325
-    commentsToLikes: 0.208588
+    followers: 43132
+    engagement: 191
+    commentsToLikes: 0.113613
     id: ck5zkyfazkeas0i14ui4jhp6o
     verified: false
-    hashtags: "#dress, #passmethegin, #houserenovation, #swimwear"
-  - username: "sophiedanvers"
-    fullname: >-
-      Sophie Danvers
-    location: "United Kingdom"
-    followers: 85057
-    engagement: 170
-    commentsToLikes: 0.092188
-    id: ck0vy68fh2fab0i19727arbb3
-    verified: false
-    hashtags: "#skincareroutine, #bodyconfidence, #makeupinspo, #haircolour"
-  - username: "saraxlima"
-    fullname: >-
-      SARA LIMA
-    location: "United Kingdom"
-    followers: 16167
-    engagement: 425
-    commentsToLikes: 0.035526
-    id: ck5qc2e6fojfp0i11hawdg4pc
-    verified: false
-    hashtags: "#hair, #melanin, #caboverde, #summerootd"
+    hashtags: "#myfashionstyle, #quarantinelife, #mylooktoday, #brunette"
   - username: "fawcett35"
     fullname: >-
       Jamie Fawcett
+    bio: >-
+      Model/Influencer - Manchester - 🇬🇧 Golfer - 🏌🏾‍♂️ Ex semi pro footballer - ⚽️ photoshoots/collabs - 📸 Enquiries email or DM -📱
     location: "United Kingdom"
-    followers: 8501
-    engagement: 677
-    commentsToLikes: 0.271206
+    followers: 8475
+    engagement: 557
+    commentsToLikes: 0.237990
     id: ck5zz42a6b1e30i14s4wr8zfw
     verified: false
-    hashtags: "#tats, #0161, #moodyportraits, #inkedmen"
+    hashtags: "#mensfashion, #streetfashion, #modelfashion, #stayhome"
+  - username: "kasey.elouise"
+    fullname: >-
+      𝕂𝕒𝕤𝕖𝕪.𝔼𝕝𝕠𝕦𝕚𝕤𝕖
+    bio: >-
+      Tik Tok: 60K Based in Manchester For any business inquires email: kaseyelouise@icloud.com 📸📥 💋II/VI/MMXX💋josh💋
+    location: "United Kingdom"
+    followers: 19429
+    engagement: 521
+    commentsToLikes: 0.170190
+    id: ckap76e5litf00i78cgn6rq9d
+    verified: false
+    hashtags: "#financialfreedom, #financialeducation, #entrepreneurs, #businesspassion"
+  - username: "sophiedanvers"
+    fullname: >-
+      Sophie Danvers
+    bio: >-
+      Manchester @mmodelsmanagement @mmodelsinfluencers 📩sophie@mmodelsmanagement.com 🇬🇧 @myvitaminsuk Ambassador, for 55% off use code ‘SOPHIE’ link below🤍
+    location: "United Kingdom"
+    followers: 84873
+    engagement: 99
+    commentsToLikes: 0.060397
+    id: ck0vy68fh2fab0i19727arbb3
+    verified: false
+    hashtags: "#health, #skinnymintcom, #skinnymint, #sunglasses"
 ---

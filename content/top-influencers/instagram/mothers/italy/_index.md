@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Italy In 2020
 description: >-
-  Find top mothers Instagram influencers in Italy in 2020. Most popular hashtags: #happybirthday #stayathome #italia #mascherine.
+  Find top mothers Instagram influencers in Italy in 2020. Most popular hashtags: #summer #smile #puglia.
 platform: Instagram
+hits: 561
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 561 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "armida_lookbook"
-    fullname: >-
-      
-    location: "Italy"
-    followers: 32510
-    engagement: 576
-    commentsToLikes: 0.082507
-    id: ck8t280ohyha50j78o7ckd7nt
-    verified: false
-    hashtags: "#buonapasqua, #mystyleover40, #mylifestyles, #chocolate"
   - username: "la_snika"
     fullname: >-
       Federica Ricci
+    bio: >-
+      💫 MOTHER OF BICCIZ #biccizfam 📍 Milan, Italy 💄Certified Makeup Artist 💌 federicaricci966@icloud.com 🎬 YOUTUBE 👇🏼
     location: "Italy"
-    followers: 19493
-    engagement: 1478
-    commentsToLikes: 0.084291
+    followers: 20050
+    engagement: 1107
+    commentsToLikes: 0.148482
     id: ck5c3to4l01ea0i11kixjuxq7
     verified: false
-    hashtags: "#runwaymakeup, #glitter, #astramakeup, #surrealism"
-  - username: "naikeorilio"
+    hashtags: "#patmcgrath, #glammakeup, #halloweeninspo, #fentybeauty"
+  - username: "armida_lookbook"
     fullname: >-
-      Naike Orilio
+      
+    bio: >-
+      Cheap outfit inspiration👗👙👒👠👜 Italian fashionblogger 🇮🇹 Wife 💍& Mother of two👨‍👩‍👧‍👧 Fashion👗beauty💄traveller
     location: "Italy"
-    followers: 39200
-    engagement: 403
-    commentsToLikes: 0.125521
-    id: ckap1jw4yuudq0i78dkh24ktq
+    followers: 32478
+    engagement: 636
+    commentsToLikes: 0.068449
+    id: ck8t280ohyha50j78o7ckd7nt
     verified: false
-    hashtags: "#dance, #family, #portrait, #model"
-  - username: "melissa_baldissera"
+    hashtags: "#blogmode, #ootd, #glamour, #inspiringoutfit"
+  - username: "remalda"
     fullname: >-
-      melissa_baldissera
+      Travel/Fashion/motherhood🇦🇱🇮🇹
+    bio: >-
+      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 Watch my stories 🙏 ✝️=💜 📨livetoinspireblog@gmail.com
     location: "Italy"
-    followers: 16151
-    engagement: 946
-    commentsToLikes: 0.034652
-    id: ck14jy0tvmqgs0i19i149r8vi
+    followers: 12106
+    engagement: 931
+    commentsToLikes: 0.099789
+    id: ck5zmzotkni710i1426xyuqcp
     verified: false
-    hashtags: "#growingup, #contest, #puppy, #pack"
-  - username: "motherof6youtubers"
-    fullname: >-
-      themomof6youtubers
-    location: "Italy"
-    followers: 51913
-    engagement: 756
-    commentsToLikes: 0.020865
-    id: ck0vyxv8e6bjk0i19878ngypy
-    verified: false
-    hashtags: "#tescoandjamie, #treasurehunter, #weback, #marshall"
-  - username: "ale.sbaraglia"
-    fullname: >-
-      ALESSIA SBARAGLIA
-    location: "Italy"
-    followers: 13793
-    engagement: 660
-    commentsToLikes: 0.230602
-    id: ck5bzt1llrs7u0i1136mcqjwu
-    verified: false
-    hashtags: "#lookdioggi, #pinupgirl, #navy, #challenge"
-  - username: "labfujiko"
-    fullname: >-
-      L A   B.   F U J I K O
-    location: "Italy"
-    followers: 15340
-    engagement: 968
-    commentsToLikes: 0.041696
-    id: ck55mezej3syw0i117wim3x0u
-    verified: false
-    hashtags: "#labfujko, #kawaii, #flassymask, #guerrillavogue"
-  - username: "bramvalbracht"
-    fullname: >-
-      Bram Valbracht
-    location: "Italy"
-    followers: 27121
-    engagement: 1014
-    commentsToLikes: 0.018689
-    id: ck0twam7pen870i193ejvd8bo
-    verified: false
-    hashtags: "#mdw, #christmas, #mfw, #milano"
-  - username: "silviaberri"
-    fullname: >-
-      Silvia Berri
-    location: "Italy"
-    followers: 52890
-    engagement: 173
-    commentsToLikes: 0.075592
-    id: ck5q41kdxnc680i11n2jfkr3j
-    verified: false
-    hashtags: "#manageritaliana, #milanodesign, #sparklingtime, #forzaitalia"
+    hashtags: "#momswhotravel, #polignanoamare, #perugia, #pugliabella"
   - username: "beafagerholt"
     fullname: >-
       Bea Fagerholt
+    bio: >-
+      • Co-founder of @tothemoon_honey • Beauty lover💋 • Stylist • Mother to Frank & Woody🍀
     location: "Italy"
-    followers: 7200
-    engagement: 748
-    commentsToLikes: 0.074698
+    followers: 8023
+    engagement: 762
+    commentsToLikes: 0.083436
     id: ck5hog88zpiai0i11q0zojwgv
     verified: false
-    hashtags: ""
+    hashtags: "#sharingiscaring"
+  - username: "lorsferra"
+    fullname: >-
+      Lorenzo Ferrara
+    bio: >-
+      tiktok/snap : lorsferra From an Italian father and an Algerian mother ✨
+    location: "Italy"
+    followers: 26772
+    engagement: 2183
+    commentsToLikes: 0.023640
+    id: ck8wfkb7ifucc0j78ij2l2j6b
+    verified: false
+    hashtags: "#lesdernierssalopards"
+  - username: "gingerellica"
+    fullname: >-
+      
+    bio: >-
+      🐶 Mother of pomeranian 📩 lucykontic@gmail.com
+    location: "Italy"
+    followers: 74913
+    engagement: 466
+    commentsToLikes: 0.036479
+    id: ck5c6uvbm68td0i1199yxi7wk
+    verified: false
+    hashtags: "#gingerellicacommunity, #gingerellicapresets, #udjiupittarosso, #pittarosso"
+  - username: "bramvalbracht"
+    fullname: >-
+      Bram Valbracht
+    bio: >-
+      Act a fool. motheragent: @republic_men 🇳🇱 USA represented by @wilhelminamodels 🇺🇸
+    location: "Italy"
+    followers: 25907
+    engagement: 878
+    commentsToLikes: 0.021750
+    id: ck0twam7pen870i193ejvd8bo
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "naikeorilio"
+    fullname: >-
+      Naike Orilio
+    bio: >-
+      ✨Choreographer TV ✨Influencer ✨Pilates teacher ✨Tv Dancer ✨Wife and Mother 💌 naikeorilio@gmail.com
+    location: "Italy"
+    followers: 56398
+    engagement: 195
+    commentsToLikes: 0.154556
+    id: ckap1jw4yuudq0i78dkh24ktq
+    verified: false
+    hashtags: "#gigieross, #womanstyle, #mylook, #smile"
+  - username: "melissa_baldissera"
+    fullname: >-
+      melissa_baldissera
+    bio: >-
+      Welcome to my pack 🐾 Mother of 4 wolfdogs 🐺 Enjoy our life and adventures 🤗 Canon Mak ll 7D 📸
+    location: "Italy"
+    followers: 15724
+    engagement: 996
+    commentsToLikes: 0.032880
+    id: ck14jy0tvmqgs0i19i149r8vi
+    verified: false
+    hashtags: "#chienlouptchecoslovaque, #wolfdog, #home, #czechoslovakianwolfdogcommunity"
+  - username: "clascutti"
+    fullname: >-
+      Claudia Scutti
+    bio: >-
+      Stylist Costume designer Mother of Ben
+    location: "Italy"
+    followers: 19754
+    engagement: 321
+    commentsToLikes: 0.101169
+    id: ck137pqatcr7o0i199bagcxay
+    verified: false
+    hashtags: "#colours, #reflectionsofme, #happymothersday, #girlupchallenge"
 ---

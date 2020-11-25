@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In United States In 2020
 description: >-
-  Find top dancers Instagram influencers in United States in 2020. Most popular hashtags: #miamibeach #miami #dancer #socialdance.
+  Find top dancers Instagram influencers in United States in 2020. Most popular hashtags: #dance #miami #dancer.
 platform: Instagram
+hits: 4259
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 4259 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "gigi.dancing"
     fullname: >-
       Dancer
+    bio: >-
+      #vegan 🌱 #dancer 🕺🏽 TikTok: @gigi.dancing They call me Gigi😅
     location: "United States"
-    followers: 4437
-    engagement: 791
-    commentsToLikes: 0.069760
+    followers: 4570
+    engagement: 547
+    commentsToLikes: 0.078640
     id: ck6ubpvkhb0240j71bb0xfton
     verified: false
-    hashtags: "#dances, #music, #standout, #partying"
+    hashtags: "#match, #hollywood, #parties, #fun"
   - username: "nickbencivengo"
     fullname: >-
       nick
+    bio: >-
+      dancer/actor tiktok- 3M contact- nickybencivengo@yahoo.com
     location: "United States"
-    followers: 106224
-    engagement: 1765
-    commentsToLikes: 0.049048
+    followers: 239929
+    engagement: 1925
+    commentsToLikes: 0.058259
     id: ck5pvg2d3hpjx0i11axuz1i0b
     verified: false
-    hashtags: "#ad, #explorepage, #chmtravel, #rivieranayarit"
+    hashtags: "#explorepage"
+  - username: "thatsnajma"
+    fullname: >-
+      Najma Shy- “NAJ”
+    bio: >-
+      Booking: najmashy@gmail.com Model | Actress | Dancer ~ @twerktabata Loctician @styledbynaj 23 | 5’11 | ATL | ~live a colorful life, no excuses~
+    location: "United States"
+    followers: 9494
+    engagement: 1625
+    commentsToLikes: 0.077876
+    id: ck15tqdhijdql0i19dgoqlkv4
+    verified: false
+    hashtags: "#wcw, #fitnessgear, #supportblackbusinesses, #blackownedbusiness"
   - username: "diarrasyllalofficiel"
     fullname: >-
       Diarra Sylla
+    bio: >-
+      Singer • Dancer • Model • 🇫🇷 •🇸🇳 Management: @zoozgroup
     location: "United States"
-    followers: 2314629
-    engagement: 896
-    commentsToLikes: 0.045039
+    followers: 2969318
+    engagement: 830
+    commentsToLikes: 0.039021
     id: ck139si1ymwg20i19rv6jw3eo
     verified: true
-    hashtags: "#nowunitedcometogether, #jeep, #wisardingworldhollywood, #boandtee"
-  - username: "itsemilydobson"
+    hashtags: ""
+  - username: "cocoquinn3"
     fullname: >-
-      Emily Dobson♡
+      Coco Quinn
+    bio: >-
+      ❥Singer/dancer/actress/model ❥Acct managed by Jeannie Quinn ❥Biz: Coco@baloghmanagement.com ❥Kati on Mani-Brat ❥SAG-E ❥MyYouTube👇🏻here. Subscribe❣️
     location: "United States"
-    followers: 158474
-    engagement: 866
-    commentsToLikes: 0.047013
-    id: ck15qkv9s3ci10i19pwkzwmvb
+    followers: 1657222
+    engagement: 792
+    commentsToLikes: 0.040653
+    id: ck0ud82abil870i19kicc3t0v
     verified: false
-    hashtags: "#mydickies, #potdkids, #lamodelsyouth, #tbthursday"
+    hashtags: "#lolsurprise, #remixmusicawards, #ad, #sweetyhighbeach"
+  - username: "_samueladrian_"
+    fullname: >-
+      sᴀᴍᴜᴇʟ ᴛᴏʀʀᴇs
+    bio: >-
+      utah 🏔 dancer x creator nbc world of dance season 2 ⤵️ use code “SamuelT20” @getbacknecklaces
+    location: "United States"
+    followers: 7322
+    engagement: 1731
+    commentsToLikes: 0.091074
+    id: ck8syxk0emeiq0j78khuhes5b
+    verified: false
+    hashtags: "#explore, #18thbirthday, #thelab, #youtube"
+  - username: "gella.el"
+    fullname: >-
+      Τζέλλα Ελευθερίου
+    bio: >-
+      𝓘𝓽’𝓼 𝓽𝓲𝓶𝓮 𝓽𝓸 𝓻𝓪𝓲𝓼𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓱𝓮𝓵𝓵🔥 •Full time dancer •Psychology, @uoa.gr_ •Greek/American 🇬🇷 🇺🇸
+    location: "United States"
+    followers: 22737
+    engagement: 1208
+    commentsToLikes: 0.102007
+    id: ckap274z8xo2q0i78m9qca04q
+    verified: false
+    hashtags: "#instaphoto, #instastyle, #style, #summer"
+  - username: "amelie.anstett"
+    fullname: >-
+      Amelie Anstett
+    bio: >-
+      livehappy:) mta/dtteam sadie on @brat chicken girls justinbieber @Purposetour dancer #TIGRL @tigerfriday #drewcrew @iafmentorship ejimoo:amelieanstett
+    location: "United States"
+    followers: 55256
+    engagement: 969
+    commentsToLikes: 0.081307
+    id: ckap93itpqzxt0i78xngyi8y2
+    verified: false
+    hashtags: "#swipeforasurprise, #theoscars, #birthdaygirl, #beoriginal"
   - username: "janvssa"
     fullname: >-
       janessa romero
+    bio: >-
+      4:4 makeup artist/dancer/choreographer s♡ @glambyjanvssa
     location: "United States"
-    followers: 2167
-    engagement: 2539
-    commentsToLikes: 0.121615
+    followers: 2221
+    engagement: 2543
+    commentsToLikes: 0.108170
     id: ck5hdm07ro5tc0i11r81pvrq7
     verified: false
-    hashtags: "#ylaplayapacuando"
-  - username: "amelie.anstett"
+    hashtags: "#ylaplayapacuando, #futurelawyer"
+  - username: "stephycgonz"
     fullname: >-
-      ᗩᗰEᒪIE ᗩᑎᔕTETT
+      Stephanie Gonzalez
+    bio: >-
+      MIA 🌴☀️ FIU Alumni 👩🏼‍🎓 🐾 NBA Miami Heat Dancer 🔥🏀
     location: "United States"
-    followers: 32967
-    engagement: 1022
-    commentsToLikes: 0.089309
-    id: ckap93itpqzxt0i78xngyi8y2
+    followers: 3194
+    engagement: 2316
+    commentsToLikes: 0.108419
+    id: ckap613yne0ds0i78r8pb7x8f
     verified: false
-    hashtags: "#warnerbrothersestate, #theoscars, #swipe, #birthdaygirl"
-  - username: "camerynhernandez"
-    fullname: >-
-      Cameryn Hernandez
-    location: "United States"
-    followers: 8693
-    engagement: 1853
-    commentsToLikes: 0.061742
-    id: ck0vx23w0wrgq0i19acm8x789
-    verified: false
-    hashtags: "#lakersvsmavs, #sweetenertour, #arianagrande, #lakeshow"
-  - username: "makenziemoss"
-    fullname: >-
-      makenzie ♡︎
-    location: "United States"
-    followers: 12822
-    engagement: 1366
-    commentsToLikes: 0.057621
-    id: ck0u6mrzb2g3o0i19kmuooj4v
-    verified: true
-    hashtags: "#zombies2"
-  - username: "_queen.sav_"
-    fullname: >-
-      SAVANNAH VINSON
-    location: "United States"
-    followers: 16053
-    engagement: 876
-    commentsToLikes: 0.207517
-    id: ck6tiqhjn186u0j71gx0lqu5q
-    verified: false
-    hashtags: "#wethairdontcare, #samplesize, #makeup, #day12"
-  - username: "erinelleinsta"
-    fullname: >-
-      Erin Michelle Conroy
-    location: "United States"
-    followers: 17741
-    engagement: 1705
-    commentsToLikes: 0.059178
-    id: ck6u6fcecf9ym0j71j6zahuoh
-    verified: false
-    hashtags: "#loveisloveisloveislove, #pride, #lingerie, #loveislove"
+    hashtags: "#team, #dance, #meechmade, #theshowmustbepaused"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Germany In 2020
 description: >-
-  Find top dancers TikTok influencers in Germany in 2020. Most popular hashtags: #fail #love #acting #dancechallenge.
+  Find top dancers TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #foryou #dance #duett.
 platform: TikTok
+hits: 71
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 71 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "alexa.herbst"
     fullname: >-
       ✨ Alexandra Herbst ✨
+    bio: >-
+      Dancer | Actress Instagram: alexa.herbst alexaherbst@ymail.com 📥
     location: "Germany"
-    followers: 65635
-    engagement: 2898
-    commentsToLikes: 0.065788
+    followers: 86500
+    engagement: 2528
+    commentsToLikes: 0.047408
     id: ck9vcmjksr97h0j78imt8264l
     verified: false
-    hashtags: "#staffel5, #acting, #spreadlove, #emiliosakraya"
-  - username: "itslenanova"
+    hashtags: "#dance, #duett, #fyp, #danceforfuture"
+  - username: "kisutime"
     fullname: >-
-      Лена
+      ❣️K I S U❣️
+    bio: >-
+      18 | Germany | Genderfluid Dancer & Cosplayer Insta: @kisu._.dances
     location: "Germany"
-    followers: 13779
-    engagement: 1955
-    commentsToLikes: 0.064245
-    id: cka0h3aw27h2w0i78jdk1lu51
+    followers: 36300
+    engagement: 2281
+    commentsToLikes: 0.023891
+    id: ckbql90106dhp0j23a0slx9vh
     verified: false
-    hashtags: "#sprachen, #foryoupage, #hahah, #russiangil"
-  - username: "lenigx"
+    hashtags: "#cute, #owarinoseraph, #fyp, #anime"
+  - username: "elvislamo"
     fullname: >-
-      ᴉ u ǝ l
+      Elvis 🏳️‍🌈
+    bio: >-
+      Elvis, 22 🇮🇹 FFM📍 E-Boy 🦋 & Dancer 🕺 📩 contact@elvislamo.de #StabiSquad🥤
     location: "Germany"
-    followers: 38281
-    engagement: 2245
-    commentsToLikes: 0.040313
-    id: cka0o6qmv2in10i78remnirh4
+    followers: 293100
+    engagement: 1468
+    commentsToLikes: 0.028532
+    id: ck92z0o2556sa0j782f2yf6t7
     verified: false
-    hashtags: "#uglycheck, #mynamemyage, #purpleflame, #fackjugoethe"
+    hashtags: "#brycehall, #geisterstunde, #halloween2020, #addisonrae"
+  - username: "noelgoescrazy"
+    fullname: >-
+      noelgoescrazy
+    bio: >-
+      Dancer🇳🇬🇩🇪 God first Instagram: @noelmoves 📩: noelrob01@gmail.com
+    location: "Germany"
+    followers: 244400
+    engagement: 1464
+    commentsToLikes: 0.035066
+    id: ckbbsoh9cg60j0j23kkjybq45
+    verified: false
+    hashtags: ""
+  - username: "sofiankfn"
+    fullname: >-
+      Sofian 🥤
+    bio: >-
+      dancer 🕺🏻 17 live your dreams
+    location: "Germany"
+    followers: 124700
+    engagement: 1802
+    commentsToLikes: 0.013682
+    id: ck9ewkxebn8z90j78alo52gkm
+    verified: false
+    hashtags: "#foryou, #la, #love, #thenandnow"
   - username: "riku_nyaan"
     fullname: >-
       riku_nyaan
+    bio: >-
+      Pole Dancer🔥 Cosplayer 🎀 Included 18+ Content
     location: "Germany"
-    followers: 18958
-    engagement: 1883
-    commentsToLikes: 0.016562
+    followers: 69200
+    engagement: 1708
+    commentsToLikes: 0.041929
     id: cka0vl6gcyzxi0i78rzu7huzp
     verified: false
-    hashtags: "#blonde, #obito, #makeup, #ladytsunade"
-  - username: "lea_p_dance"
+    hashtags: "#duett, #minato, #germancosplay, #kushinacosplay"
+  - username: "kenn2go"
     fullname: >-
-      Lea Merscher
+      🤍 Kenneth Chabra 🤍
+    bio: >-
+      Actor, Dancer & Dreamer 📲 Insta: Kenn2go 👀 Business: Kenn2go.mgmt@gmail.com
     location: "Germany"
-    followers: 2666
-    engagement: 703
-    commentsToLikes: 0.104768
-    id: ckal7kutmfmjp0i78uu53kemx
+    followers: 820200
+    engagement: 2050
+    commentsToLikes: 0.011614
+    id: ckavelt3zmts50j230xie5a25
     verified: false
-    hashtags: "#savage, #twerking, #fouryoutiktok, #fitness"
+    hashtags: "#comedy, #fyp, #halloweenlook, #fy"
   - username: "shania.siesto"
     fullname: >-
       Shania Siesto
+    bio: >-
+      -Trust in God...✝️ -Only positive✨ -Singer/Dancer🎶 -🇩🇪🇮🇹🇺🇸
     location: "Germany"
-    followers: 80671
-    engagement: 2045
-    commentsToLikes: 0.023455
+    followers: 120500
+    engagement: 1803
+    commentsToLikes: 0.019496
     id: ck9r3mlv6ql8u0j78n70vdb0y
     verified: false
-    hashtags: "#bestfriends, #loveyourself, #deitschrap, #friends"
-  - username: "demary"
+    hashtags: "#fyp, #viral, #foryou, #dance"
+  - username: "wesleybrice"
     fullname: >-
-      Desireé
+      Brice
+    bio: >-
+      On TikTok & Over 30... Ballet Dancer 🇫🇷
     location: "Germany"
-    followers: 58655
-    engagement: 1363
-    commentsToLikes: 0.013912
-    id: ck81q8jz6gtay0j78spm4dry9
+    followers: 2057
+    engagement: 838
+    commentsToLikes: 0.026268
+    id: ckbl767kz4vca0j23zq0ie85u
     verified: false
-    hashtags: "#tricky, #macarena, #slowmotion, #dontjudgemechallange"
-  - username: "valentino_serra"
+    hashtags: "#stayhome, #fyp, #duet, #quarantine"
+  - username: "lea_p_dance"
     fullname: >-
-      Valentino Serra
+      Lea Merscher
+    bio: >-
+      Pole dancer & Studio owner 💃☀️
     location: "Germany"
-    followers: 180573
-    engagement: 904
-    commentsToLikes: 0.010869
-    id: ck8nbvamgbrtw0j78b7kyqekc
-    verified: true
-    hashtags: "#coppiaperfetta, #cyrwheel, #circus, #benidorm"
-  - username: "emmakantt"
-    fullname: >-
-      die Emma 🌞
-    location: "Germany"
-    followers: 159086
-    engagement: 1142
-    commentsToLikes: 0.007459
-    id: ck81swwittq1w0j78mhlo8wj6
+    followers: 4825
+    engagement: 594
+    commentsToLikes: 0.097822
+    id: ckal7kutmfmjp0i78uu53kemx
     verified: false
-    hashtags: "#homeworkout, #dancechallenge, #style, #crush"
-  - username: "jeremyfragrance"
-    fullname: >-
-      Jeremy Fragrance
-    location: "Germany"
-    followers: 1901292
-    engagement: 613
-    commentsToLikes: 0.030052
-    id: ck8osh6zqguyw0j785q0zknl0
-    verified: true
-    hashtags: "#outfit, #parfumo, #haarfrisur, #purexs"
+    hashtags: "#fyp, #foryoutiktok, #artist, #challenge"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top models Instagram influencers in Nigeria in 2020. Most popular hashtags: #fashion #dance #queen #explorepage.
+  Find top models Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #explore #exploremore.
 platform: Instagram
+hits: 131
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 131 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
-  - username: "o.k.o.r.t.i.e"
+  - username: "assumptanwaz"
     fullname: >-
-      Nancy Ayuk 💸
+      Assumpta
+    bio: >-
+      🇫🇷 🇳🇬 Finance 👩🏻‍🏫 Face model @steph__claire God’s little favorite
     location: "Nigeria"
-    followers: 30920
-    engagement: 1526
-    commentsToLikes: 0.060645
-    id: ck8t65a73c9j20j78getqwygm
+    followers: 2307
+    engagement: 2287
+    commentsToLikes: 0.190475
+    id: ck5zzdvmhbjx00i1449xva9b0
     verified: false
-    hashtags: "#stayhome, #dontrushchallenge"
-  - username: "o.oyinda"
+    hashtags: "#ireade19"
+  - username: "the_life.of.seyi"
     fullname: >-
-      Oyinlola Oyindamola 🌸 👑✨💫
+      OLUWASEYIFUNMI 🥵
+    bio: >-
+      Bsc Acct🎓 model Heliophilic to the core! 🌞
     location: "Nigeria"
-    followers: 17481
-    engagement: 1193
-    commentsToLikes: 0.064924
-    id: ck6tvfw7gm08n0j71cisrnqx6
+    followers: 5758
+    engagement: 2025
+    commentsToLikes: 0.150600
+    id: ck0tvv3i5cx460i19p9p70qo6
     verified: false
-    hashtags: "#keepitfreshwithcloseup, #keepitfreshgeng, #feministchallenge"
-  - username: "preciousokoye"
+    hashtags: "#exploremore, #nigerian, #lagos, #madeinnigeria"
+  - username: "darkskin_tosin"
     fullname: >-
-      PRECIOUS OKOYE
+      TOSIN IYANUOLUWA OLAJIRE
+    bio: >-
+      🌻 🌻🌻 @selectmodellondon @musemodelsnyc @premium_models @fabbrica.milano @fifthmodels @bossmodelsa I am a living Miracle of God’s Grace Be a warrior
     location: "Nigeria"
-    followers: 18090
-    engagement: 640
-    commentsToLikes: 0.096218
-    id: ck15q0t2i0jvp0i19i0hj91yd
+    followers: 7658
+    engagement: 1998
+    commentsToLikes: 0.087280
+    id: ck0vyk4so4ehm0i19fptvpbjt
     verified: false
-    hashtags: "#checkonneighbours, #livinginbondagebreakingfree, #privatehostess, #giversneverlack"
-  - username: "nimah_21"
-    fullname: >-
-      𝓝𝓲𝓶𝓪𝓱
-    location: "Nigeria"
-    followers: 5500
-    engagement: 1817
-    commentsToLikes: 0.085012
-    id: ck15sjkstdc0z0i193iwi08hx
-    verified: false
-    hashtags: "#happybirthdaytome, #sunkissed, #vsco, #tbt"
-  - username: "nimiie_"
-    fullname: >-
-      NIMI
-    location: "Nigeria"
-    followers: 14322
-    engagement: 1526
-    commentsToLikes: 0.075383
-    id: ck9wfco1po9yk0j78qujg5a85
-    verified: false
-    hashtags: "#eyes, #lips, #triller, #giveaway"
+    hashtags: "#explorepage, #blackgirlmagic, #exploremore, #explore"
   - username: "rebeccafabunmi_"
     fullname: >-
       Dark Horse
+    bio: >-
+      Few Models 🇳🇬 @fewmodels Bookings - Dolapo.yusuf@fewmodels.com
     location: "Nigeria"
-    followers: 11270
-    engagement: 2383
-    commentsToLikes: 0.038706
+    followers: 13073
+    engagement: 2059
+    commentsToLikes: 0.038315
     id: ck5bv9e2sj82h0i110ndg95f1
     verified: false
-    hashtags: "#bopdaddy"
-  - username: "aniitablonde"
+    hashtags: ""
+  - username: "official_thuggergirl"
     fullname: >-
-      Annie 💎
+      Beautiful_thuggergirl🔺
+    bio: >-
+      •Model •Stylist/Designer Business page : @boe_luxury @apparels_designs 🛍💰 Brand ambassador: @skin_byshay
     location: "Nigeria"
-    followers: 26669
-    engagement: 634
-    commentsToLikes: 0.048893
-    id: ck5hrr53qvc2e0i11z5cyxcpt
+    followers: 5534
+    engagement: 1388
+    commentsToLikes: 0.079798
+    id: ck8swwn2kfhx40j78gjg66b20
     verified: false
-    hashtags: "#queen, #anitossi, #stayhome, #exlporepage"
-  - username: "the_life.of.seyi"
+    hashtags: "#explorepage, #staysafe, #explore"
+  - username: "lateefwahbson"
     fullname: >-
-      Meet Seyi 🍫🥵
+      Wahab Lateef
+    bio: >-
+      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
     location: "Nigeria"
-    followers: 5394
-    engagement: 1589
-    commentsToLikes: 0.133503
-    id: ck0tvv3i5cx460i19p9p70qo6
+    followers: 9541
+    engagement: 823
+    commentsToLikes: 0.119459
+    id: ck0tze8pyq0zm0i19kaytuda3
     verified: false
-    hashtags: "#campussnap, #lagosphotographer, #fashion, #editorialportrait"
-  - username: "sonizyyy"
+    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
+  - username: "thefrenchman__"
     fullname: >-
-      Sonia❤️
+      DAVOU PWAJOK
+    bio: >-
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08089667871
     location: "Nigeria"
-    followers: 10224
-    engagement: 1401
-    commentsToLikes: 0.065616
-    id: ck8t0084aqedk0j78ivh4ah3j
+    followers: 10444
+    engagement: 1145
+    commentsToLikes: 0.095972
+    id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#trillervids, #dance, #explore, #explorepage"
-  - username: "__maleeyah"
+    hashtags: "#fashion, #influencer, #explorepage, #davoupwajok"
+  - username: "africanglow"
     fullname: >-
-      Best Girl 💫
+      Gloria🦋
+    bio: >-
+      Angel on Earth Nigerian• Model• Creative ART #ENDSARS
     location: "Nigeria"
-    followers: 16248
-    engagement: 1244
-    commentsToLikes: 0.054148
-    id: ck13666r74xxv0i19jy1rsj8s
+    followers: 21156
+    engagement: 758
+    commentsToLikes: 0.083835
+    id: ck9wfe2dgogfv0j78o8lawpq6
     verified: false
-    hashtags: "#makeupfanatic1, #melaninbeauitesunite, #ankarazone, #makeupaddiction"
+    hashtags: "#endsars, #lekkimassacre, #sarsmustend, #buharihasbeenabadboy"
+  - username: "ay.grace"
+    fullname: >-
+      Ayodele Arowojobe 🦄
+    bio: >-
+      Singer|Songwriter Model|Designer CEO @graceempireofficial
+    location: "Nigeria"
+    followers: 18755
+    engagement: 337
+    commentsToLikes: 0.187997
+    id: ck55nh2a5678r0i115u93szke
+    verified: false
+    hashtags: "#climaxchallenge, #shirts, #black, #endsars"
+  - username: "kiera_coulibaly"
+    fullname: >-
+      kiyara
+    bio: >-
+      Model I paint🎨 @kiera_arts ℐ𝓉 𝓀𝑒𝑒𝓅𝓈 𝑔𝑒𝓉𝓉𝒾𝓃𝑔 𝒷𝑒𝓉𝓉𝑒𝓇.. DM for bookings
+    location: "Nigeria"
+    followers: 4689
+    engagement: 2180
+    commentsToLikes: 0.090220
+    id: ckap2we2g0ly60i78p7lpcrve
+    verified: false
+    hashtags: "#bellanaijaweddings, #bellaweddingnaija, #explorepage, #bellaweddings"
 ---

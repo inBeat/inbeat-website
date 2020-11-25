@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #quarentena #ficaemcasa #video.
+  Find top lifestyle Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #saopaulo #lookdodia.
 platform: Instagram
+hits: 411
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 411 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
-  - username: "raymachadoo_"
-    fullname: >-
-      Raíssa Machado🧚🏻‍♀️
-    location: "Brazil"
-    followers: 50670
-    engagement: 2460
-    commentsToLikes: 0.044196
-    id: ckapa5na8ut6r0i7816943yn5
-    verified: false
-    hashtags: "#hairwavy, #cabelocurtos, #lifestyler, #cabelos"
   - username: "joy.abreu"
     fullname: >-
       Joyce Abreu 🇾🇪
+    bio: >-
+      📍SP, 23 ⚽️ Futebol • Viagens • Hair • Fit • Lifestyle • 🇾🇪 São Paulo Futebol Clube 📩 Jobs/Parcerias: direct ou e-mail
     location: "Brazil"
-    followers: 143138
-    engagement: 503
-    commentsToLikes: 0.017729
+    followers: 159486
+    engagement: 401
+    commentsToLikes: 0.023075
     id: ck0tsj6jp006r0i191ir7wz21
     verified: false
-    hashtags: "#saopaulofutebolclube, #quarentenasempirar, #tiktokbrasil, #videosengracados"
+    hashtags: "#outubrorosa, #so, #trusshair, #spfc"
+  - username: "_kerols"
+    fullname: >-
+      CAROL RIBEIRO
+    bio: >-
+      VEJA OS STORIES! "Acredite em você, você é capaz." ✨ Curly | lifestyle • São Paulo • 20 anos Parcerias via direct ou e-mail.
+    location: "Brazil"
+    followers: 24009
+    engagement: 815
+    commentsToLikes: 0.091808
+    id: ck8td286j1k2h0j78r7ut2rgu
+    verified: false
+    hashtags: "#curlyhair, #cachosbra, #cacheadas, #cachospretos"
   - username: "giselerampazzo"
     fullname: >-
       Gisele Rampazzo
+    bio: >-
+      Interiores, Produtos e Lifestyle São Paulo/SP · 11 99345-8581 📍Fotos Autorais: @giselerampazzoautoral
     location: "Brazil"
-    followers: 16752
-    engagement: 263
-    commentsToLikes: 0.040182
+    followers: 18425
+    engagement: 225
+    commentsToLikes: 0.052073
     id: ck5c7cmzn7a2i0i11ohc70izb
     verified: false
-    hashtags: "#sheepycloth, #direito, #homeofficeideas, #interiors"
-  - username: "cay.iroldi"
+    hashtags: "#areagourmet, #homeofficedecor, #ambientesintegrados, #apartamentomasculino"
+  - username: "mahgomesblog"
     fullname: >-
-      𝕮𝖆𝖞𝖖𝖚𝖊 𝕴𝖗𝖔𝖑𝖉𝖎 ⛓
+      Mah Gomes 🌻
+    bio: >-
+      Consultora de Estilo Jornalista - Empreendedor Moda| Beleza | Lifestyle São Paulo finaperuaecia@gmail.com
     location: "Brazil"
-    followers: 5256
-    engagement: 999
-    commentsToLikes: 0.054466
-    id: ck5q6qblcyg6b0i11emyl04c1
+    followers: 31650
+    engagement: 151
+    commentsToLikes: 0.165911
+    id: ck9ha83y5bjgo0j78dnretcp9
     verified: false
-    hashtags: "#adidasbrasil, #dragqueen, #carmen, #sexy"
-  - username: "carolcolin"
+    hashtags: "#vaiserfeliz, #halloweenmakeup, #frasedodiachallenge, #pariselysees"
+  - username: "angelcaires_"
     fullname: >-
-      CAROL COLIN
+      Maria Angélica
+    bio: >-
+      ✨Deus abençoe essa bagunça ⚡️Virginiana, Baiana que mora em São Paulo, acadêmica em Odontologia e filha de Mainha.
     location: "Brazil"
-    followers: 13131
-    engagement: 281
-    commentsToLikes: 0.062707
-    id: ck15rguiq7v8l0i19m8ubr2qx
+    followers: 6038
+    engagement: 851
+    commentsToLikes: 0.028175
+    id: ck8tbmivaw8xz0j785nwkqa54
     verified: false
-    hashtags: "#dieta, #alimentacao, #usemascara, #lifestyle"
-  - username: "eiheld"
+    hashtags: "#angel, #bloggerlife, #makeup, #blogdemoda"
+  - username: "gerson_neto"
     fullname: >-
-      Helder Rosa
+      
+    bio: >-
+      29; University Professor👨🏻‍🏫 MsC, DDS, Oral And Maxillofacial Pathology, ICU Care😷🔬; Travel ✈️; Beard 🧔🏻; Disney 🏰; Cherry flavored stuff 🍒; Coffee☕️
     location: "Brazil"
-    followers: 10319
-    engagement: 1720
-    commentsToLikes: 0.110149
-    id: ckapbouba0qqh0i784l0h57wu
+    followers: 3728
+    engagement: 2362
+    commentsToLikes: 0.018308
+    id: ck136y0dt8tfc0i199xol3eba
     verified: false
-    hashtags: "#floresgram, #amor, #carro, #gaysp"
+    hashtags: "#florida, #pride, #bear, #beach"
+  - username: "mau.molinaro"
+    fullname: >-
+      Mauricio MolinaroⓂ Segue Você
+    bio: >-
+      AQUI NO STORY VOCÊ SE INSPIRA💥 Não se ILUDA, aqui eu fujo do padrão #sejasuamelhorversão⁣ e nada mais 👊🏼 🧠Fundador @na.melhorversao
+    location: "Brazil"
+    followers: 164264
+    engagement: 103
+    commentsToLikes: 0.027202
+    id: ck5hqsgtitndk0i119v8hvo5q
+    verified: false
+    hashtags: "#lookdodia, #reels, #estilo, #moda"
+  - username: "kahprestes"
+    fullname: >-
+      Karina Prestes
+    bio: >-
+      ✨Faça o que te inspira✨ ▫️Makeup | Lifestyle | Dicas 📍São Paulo, Brasil
+    location: "Brazil"
+    followers: 18848
+    engagement: 219
+    commentsToLikes: 1.200502
+    id: ckap66iuwem0g0i7867nie01s
+    verified: false
+    hashtags: "#lookoftheday, #lookinspira, #tudoaconteceuchallenge, #levitatingchallenge"
   - username: "brunaeroles_"
     fullname: >-
       Bruna Eroles
+    bio: >-
+      só vida real por aqui! ✨ youtube • moda • beleza • lifestyle • 📍 são paulo 💌contato: assessoriabrunaeroles@gmail.com #brulooks #brueroles
     location: "Brazil"
-    followers: 36231
-    engagement: 868
-    commentsToLikes: 0.047430
+    followers: 44952
+    engagement: 930
+    commentsToLikes: 0.046487
     id: ck6ucltiagczy0j71l7q79bos
     verified: false
-    hashtags: "#ootdfashion, #fiqueemcasa, #lookcolorido, #challenge"
-  - username: "leonardozenolli"
+    hashtags: "#fretegra, #useosc, #oscarcalcados, #osccalcados"
+  - username: "eugicarolina"
     fullname: >-
-      leo zenolli
+      Giovanna Carolina
+    bio: >-
+      🌸 BELEZA • CACHOS • LIFESTYLE 📍São Paulo, 18 Parcerias via direct ou e-mail 💌 giovannacarolina172@gmail.com TENHO CANAL NO YOUTUBE
     location: "Brazil"
-    followers: 97445
-    engagement: 164
-    commentsToLikes: 0.111715
-    id: ck8t5zzigbs6j0j782rm7mqdd
+    followers: 83908
+    engagement: 181
+    commentsToLikes: 0.194137
+    id: ck0w1mc3sk1jy0i19eoh6wku4
     verified: false
-    hashtags: ""
-  - username: "rafinhafontes"
-    fullname: >-
-      Rafael Fontes
-    location: "Brazil"
-    followers: 21024
-    engagement: 423
-    commentsToLikes: 0.099259
-    id: ck6tlhce461200j71to0255zb
-    verified: false
-    hashtags: "#jhonjhonrocksjeri, #carnario2020"
-  - username: "vancarvalho"
-    fullname: >-
-      Vanessa Carvalho 💎🦋
-    location: "Brazil"
-    followers: 26998
-    engagement: 218
-    commentsToLikes: 0.086977
-    id: ck9wfi0c1owfh0j78bypogzsd
-    verified: false
-    hashtags: "#amor, #parceria, #quarentine, #diadasmaes"
+    hashtags: "#cachos, #ad, #curlyhair, #sugarbearhair"
 ---

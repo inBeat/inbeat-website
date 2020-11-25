@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Austin In 2020
 description: >-
-  Find top gaming TikTok influencers in Austin in 2020. Most popular hashtags: #gaming #yearbook2020 #learnontiktok #duet.
+  Find top gaming TikTok influencers in Austin in 2020. Most popular hashtags: #gaming #fyp #duet #foryou.
 platform: TikTok
+hits: 54
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 54 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "ggjessevlogs"
+  - username: "lilkrispyworldwide"
     fullname: >-
-      Jesse Ryan
+      OfficiallyAustin
+    bio: >-
+      Well dang
     location: "United States"
-    followers: 122488
-    engagement: 1737
-    commentsToLikes: 0.074992
-    id: ck7zorbbtlf4m0j78wl43figl
+    followers: 27400
+    engagement: 727
+    commentsToLikes: 0.026541
+    id: ckdhbz90rw3lx0j23f6ksttp5
     verified: false
-    hashtags: "#earthday, #xyzcba, #neverfitin, #levelup"
-  - username: "pilotaustin"
+    hashtags: "#cod, #xyzcba, #comment, #duet"
+  - username: "thebrandonrayshow"
     fullname: >-
-      Austin Sorrells
+      Brandon Ray Sexton
+    bio: >-
+      💙LIVE @9PM💙 🚨TIPS&TRENDS🚨 💙VIBEWITHBRANDON💙BIGLOVEFAM💙 🎁@chit0wn1216🎁
     location: "United States"
-    followers: 115648
-    engagement: 1350
-    commentsToLikes: 0.039485
-    id: cka0nami7yymu0i78khqaejcx
+    followers: 45300
+    engagement: 743
+    commentsToLikes: 0.180714
+    id: ckceibydnqht10j230l69sh9q
     verified: false
-    hashtags: "#boeing, #wipeitdown, #yoplaitcuprelay, #bedroomcheck"
-  - username: "austin1766"
-    fullname: >-
-      austin1766
-    location: "United States"
-    followers: 4265
-    engagement: 961
-    commentsToLikes: 0.042136
-    id: ckae53gje5ief0i78ic6rj83h
-    verified: false
-    hashtags: "#lightning, #couplegoals, #fory, #pageforyou"
-  - username: "mirmermaid_rayne"
-    fullname: >-
-      Miranda_Rayne
-    location: "United States"
-    followers: 9114
-    engagement: 520
-    commentsToLikes: 0.056469
-    id: ck9n8rf5d8t880j78r3h3qlno
-    verified: false
-    hashtags: "#throwbacks, #90skid, #duetwithme, #sunburn"
-  - username: "papadx"
-    fullname: >-
-      Papa DX
-    location: "United States"
-    followers: 21547
-    engagement: 1202
-    commentsToLikes: 0.029542
-    id: ck8savb483reo0j78li71d0tn
-    verified: false
-    hashtags: "#familytime, #brick, #drphil, #tiktokcovers"
+    hashtags: "#greenscreen, #duet, #vibewithbrandon, #tagme"
   - username: "austin_shock"
     fullname: >-
       Austin Shock
+    bio: >-
+      New acct ➡️ @shocktok ⚡ 29 STAR WARS-Comedy-Edits-Sounds Memes-Gaming-GeekyGay😅
     location: "United States"
-    followers: 17051
-    engagement: 1645
-    commentsToLikes: 0.081564
+    followers: 58800
+    engagement: 1671
+    commentsToLikes: 0.181555
     id: ckac7yovmf3rh0i78vp8fsrng
     verified: false
-    hashtags: "#starwarsfans, #commanderrex, #disneyland, #porgs"
-  - username: "austin.pacheco"
+    hashtags: "#starwarsmemes, #greenscreen, #sound, #foryoupage"
+  - username: "exotic_respxct_"
     fullname: >-
-      Austin Pacheco
+      David😜🥵😂
+    bio: >-
+      💯AUSTIN💯
     location: "United States"
-    followers: 9499
-    engagement: 760
-    commentsToLikes: 0.031692
-    id: ck8qj4w0zbvxu0j782qtfydkq
+    followers: 4709
+    engagement: 1304
+    commentsToLikes: 0.079978
+    id: ckav2lwbs8slr0j23vq58sfl6
     verified: false
-    hashtags: "#moodboost, #hockey, #thisthatsplah, #catsoftiktok"
-  - username: "niruanya"
+    hashtags: "#greenscreen, #shamelessedits, #gaming, #greenscreenvideo"
+  - username: "aish_add"
     fullname: >-
-      NIRU.
+      Aishu ✨
+    bio: >-
+      21 📍Austin, TX 🤘🏾 I dance a little daily doses of positivity💕
     location: "United States"
-    followers: 43295
-    engagement: 654
-    commentsToLikes: 0.019136
-    id: cka6b6b0vz3kt0i78svsl1vpe
+    followers: 175800
+    engagement: 1891
+    commentsToLikes: 0.026277
+    id: ckbbduu852nd70j23bbkfkfd5
     verified: false
-    hashtags: "#duetpost, #videogame, #bingewatching, #kingdomhearts"
-  - username: "brandyrenee19"
+    hashtags: "#bharatanatyam, #dance, #fusion, #brown"
+  - username: "austink32"
     fullname: >-
-      Brandyrenee19 
+      Austin
+    bio: >-
+      My twitch stream is austink123
     location: "United States"
-    followers: 177764
-    engagement: 1842
-    commentsToLikes: 0.015881
-    id: ck8hq48s32cn30j78fx59xa5n
+    followers: 27100
+    engagement: 1248
+    commentsToLikes: 0.155012
+    id: ckd5j8a19uttc0j23tt5curqt
     verified: false
-    hashtags: "#celebratenurses, #littlethings, #gaslighting, #momsoftiktok"
-  - username: "the_woke_gentleman"
+    hashtags: "#foryou, #foryoupage, #gaming, #fyp"
+  - username: "venxm.exe"
     fullname: >-
-      Tyler Wilkins207
+      🍃 Mikayla 🍃
+    bio: >-
+      lvl 23 | satx | | gaming | cosplay | anime | | she/they | | Pobox/Discord |
     location: "United States"
-    followers: 37568
-    engagement: 1036
-    commentsToLikes: 0.025971
-    id: cka3vg5fsy1840i78mrlz6wlq
+    followers: 279100
+    engagement: 2674
+    commentsToLikes: 0.017960
+    id: ck8fazzus4uda0j78maiccx1e
     verified: false
-    hashtags: "#needhelp, #austinpowers, #gonnabefriends, #marines"
+    hashtags: "#satx, #femhawks, #hawkscosplay, #foryou"
+  - username: "ttv_frxstttt"
+    fullname: >-
+      Frxstttt
+    bio: >-
+      Twitch steamer with a big goal. i love you all
+    location: "United States"
+    followers: 19000
+    engagement: 1473
+    commentsToLikes: 0.174881
+    id: ckczvmgme60hz0j23jjnj2ndl
+    verified: false
+    hashtags: "#streaming, #gaming, #fyp, #streamer"
+  - username: "savvy.austin"
+    fullname: >-
+      AJ
+    bio: >-
+      👽Flex DPS player for Daedalus and Zenith👽 GT: AHG Savvy
+    location: "United States"
+    followers: 2170
+    engagement: 1263
+    commentsToLikes: 0.162984
+    id: ckbr3n29sjzyq0j23wn7d05uq
+    verified: false
+    hashtags: "#xbox, #rocketleague, #overwatch, #strapback"
+  - username: "leeakedtv"
+    fullname: >-
+      Austin
+    bio: >-
+      Follow me on TikTok and Twitch! Appreciate you all!
+    location: "United States"
+    followers: 27100
+    engagement: 1296
+    commentsToLikes: 0.053216
+    id: ckbqvon5rfz8u0j2331a8wv8t
+    verified: false
+    hashtags: "#modernwarfare, #callofduty, #replytocomments, #twitchstreamer"
 ---

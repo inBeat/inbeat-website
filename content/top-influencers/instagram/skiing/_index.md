@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skiing Instagram Influencers In 2020
 description: >-
-  Find top skiing Instagram influencers in 2020. Most popular hashtags: #looseaf #gymequipment #backontrack #mspix.
+  Find top skiing Instagram influencers in 2020. Most popular hashtags: #skiing #sunset #weareskiing.
 platform: Instagram
+hits: 609
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 609 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "andreasherranz"
-    fullname: >-
-      Dré
-    location: "France"
-    followers: 3052
-    engagement: 3465
-    commentsToLikes: 0.046129
-    id: ck5hici04csuw0i11uqk0c87d
-    verified: false
-    hashtags: "#silverwood, #gratens, #ygskicontest, #youngsworldproject"
-  - username: "maurocaviezel"
-    fullname: >-
-      Mauro Caviezel
-    location: "Switzerland"
-    followers: 29701
-    engagement: 1550
-    commentsToLikes: 0.009854
-    id: ck5q8cx4w5jtm0i117c327tn5
-    verified: false
-    hashtags: "#thankful, #kvitfjell, #happyeaster, #wusa"
   - username: "ericbalken"
     fullname: >-
       Eric Balken | Skier
+    bio: >-
+      Skier
     location: "Canada"
     followers: 12732
     engagement: 1270
     commentsToLikes: 0.031722
     id: ck5q0fqk55s1n0i11w64pbmhs
     verified: false
-    hashtags: "#gopro, #riverrafting, #justgonnasendit, #mysteryranch"
+    hashtags: "#skimore, #thisisskiing, #skiuphill, #freeskiculture"
+  - username: "maurocaviezel"
+    fullname: >-
+      Mauro Caviezel
+    bio: >-
+      Skier🇨🇭
+    location: "Switzerland"
+    followers: 30816
+    engagement: 1381
+    commentsToLikes: 0.010578
+    id: ck5q8cx4w5jtm0i117c327tn5
+    verified: false
+    hashtags: "#weareskiing, #wercotrade, #bwt, #alpineskisquad"
   - username: "colinwili"
     fullname: >-
       colin wili
+    bio: >-
+      Skier. 🇨🇭
     location: "Switzerland"
     followers: 7680
     engagement: 1746
     commentsToLikes: 0.011436
     id: ck5pw17hxklsa0i111k7j4rhf
     verified: false
-    hashtags: "#dewtour, #k2poacher, #cheers, #boyband"
+    hashtags: "#k2poacher, #cheers, #boyband, #dewtour"
+  - username: "doosli"
+    fullname: >-
+      Daniel Conrad Loosli
+    bio: >-
+      Skier
+    location: "Switzerland"
+    followers: 7478
+    engagement: 1331
+    commentsToLikes: 0.024113
+    id: ck0w320bir89f0i19wfl1e6oe
+    verified: false
+    hashtags: "#linesakana, #laaxisniceyo"
   - username: "rafadiazh1"
     fullname: >-
-      R å F ā 🎲
+      R å F ā 🎲
+    bio: >-
+      ✝️ granada🌙🥀 ••••••••••••••••••••••••••••••••••••• 🌀Skier 🌀 ‼️ @nordica_spain ‼️ ‼️ @vola_racing_spain ‼️ ‼️ @energiapura.espana ‼️ ‼️ @finisher_es ‼️
     location: "Spain"
-    followers: 2790
-    engagement: 2479
-    commentsToLikes: 0.264823
+    followers: 2780
+    engagement: 2474
+    commentsToLikes: 0.247305
     id: ck8szh9tcofwc0j788p6619oo
     verified: false
     hashtags: ""
+  - username: "nuriapau1"
+    fullname: >-
+      Núria Pau SKI • ADVENTURE
+    bio: >-
+      ❄️ Alpine Skier 🎿 🌏 Travel lover 🌎 Life runs away, go catch it!🙅🏼‍♀️ Ganes de viure ✉️nuriapauromeu@gmail.com
+    location: "France"
+    followers: 6799
+    engagement: 1061
+    commentsToLikes: 0.078501
+    id: ck5hijvnwdw1j0i11s00tbt6k
+    verified: false
+    hashtags: "#winterishere, #again, #teammate, #prevenci"
+  - username: "domiohaco"
+    fullname: >-
+      Dominique  Ohaco
+    bio: >-
+      Professional Skier 🇨🇱 | 2 x Olympian | 2 x XGames @thenorthfacechile @redbullcl @goprocl @labolsadelski @valle_nevado @smith_chile YouTube ⬇️
+    location: "Chile"
+    followers: 12803
+    engagement: 968
+    commentsToLikes: 0.097302
+    id: ck5caxlquebrr0i114v0q4wrz
+    verified: false
+    hashtags: "#goprohero8, #feelstrong, #gopromax, #goprohero9"
+  - username: "kellysildaru"
+    fullname: >-
+      Kelly Sildaru
+    bio: >-
+      Skier ⛷ | 9x XGames medalist 🥇🥇🥇🥇🥇| World Champion Vlog 4 - MU LEMMIK REIS / MY BEST TRIP EVER
+    location: "United Kingdom"
+    followers: 79803
+    engagement: 1410
+    commentsToLikes: 0.029835
+    id: ck0w5qzye507f0i19anyrodow
+    verified: true
+    hashtags: "#sunset, #estonia, #stayhealthy, #skiing"
   - username: "brittanorgren"
     fullname: >-
       Britta johansson norgren
+    bio: >-
+      Cross country skier in Lager 157 SkiTeam. 3️⃣ time olympian, Turin 2006, Vancouver 2010, Sochi 2014. 🥇 Vasaloppet 2017 och 2019
     location: "Canada"
-    followers: 12167
-    engagement: 1676
-    commentsToLikes: 0.038134
+    followers: 12625
+    engagement: 1681
+    commentsToLikes: 0.035687
     id: ck5c7fjfz7fs80i11vyhoha4c
     verified: false
-    hashtags: "#feelthealps, #ladiagonela, #marcialonga, #skipnitrition"
+    hashtags: "#lager157, #orsagr, #vismaskiclassics, #coxacarry"
   - username: "simenkruger"
     fullname: >-
       Simen Hegstad Krüger
+    bio: >-
+      Cross country skier from Oslo, Norway
     location: "Norway"
-    followers: 18841
-    engagement: 1680
-    commentsToLikes: 0.033038
+    followers: 18896
+    engagement: 1667
+    commentsToLikes: 0.030838
     id: ck55o6nkf7qxl0i11kokfh89m
     verified: false
-    hashtags: "#illbeback, #winterwonderland, #holdepusteneffekten, #weareskiing"
-  - username: "lea.gabrielle.usa"
-    fullname: >-
-      Lea Gabrielle
-    location: "United States"
-    followers: 29363
-    engagement: 668
-    commentsToLikes: 0.054693
-    id: ckapc26sg26ky0i78zac396da
-    verified: true
-    hashtags: "#tbt, #nationalsiblingsday, #onsies, #freedom"
-  - username: "nadia_fanchini"
-    fullname: >-
-      Nadia Fanchini
-    location: "Italy"
-    followers: 18064
-    engagement: 1345
-    commentsToLikes: 0.029083
-    id: ck5q1ra1dcdzz0i11p7ll48sx
-    verified: false
-    hashtags: "#missyou, #tempoperme, #lakeiseo, #bimbifelici"
-  - username: "federicocorvi"
-    fullname: >-
-      FEDERICO CORVI
-    location: "Italy"
-    followers: 28618
-    engagement: 355
-    commentsToLikes: 0.091620
-    id: ck6tuq7xvhs030j71g44ddc0d
-    verified: false
-    hashtags: "#homemade, #quarantinemood, #borntobebreil, #nordicaski"
+    hashtags: "#reklame, #mizunoenerzy, #bounce, #lysebotn"
 ---

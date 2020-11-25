@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Milan In 2020
 description: >-
-  Find top TikTok influencers in Milan in 2020. Most popular hashtags: #duetto #love #reazione #tecnologia.
+  Find top TikTok influencers in Milan in 2020. Most popular hashtags: #perte #duetto #italy #foryou.
 platform: TikTok
+hits: 273
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database has 273 TikTok influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "mr.saammy"
+  - username: "federicofranzo"
     fullname: >-
-      samu💧
+      Franzo.xd
+    bio: >-
+      17, Milan 🖖 Ogni giorno nuovi tiktok alle 14:30/15:00 e 19:00/19:30
     location: "Italy"
-    followers: 112552
-    engagement: 2748
-    commentsToLikes: 0.057335
-    id: ckai3f6qcjm0n0i780bcchn6g
+    followers: 745200
+    engagement: 1952
+    commentsToLikes: 0.022846
+    id: ckbkk0d08csvr0j23qr0e5w7s
     verified: false
-    hashtags: "#carlbrave, #bambini, #effetti, #katiaevaleria"
-  - username: "surbola"
-    fullname: >-
-      nicolasurbera
-    location: "Italy"
-    followers: 66143
-    engagement: 2343
-    commentsToLikes: 0.096670
-    id: ck9flwmudqbgy0j78p2gi65ww
-    verified: false
-    hashtags: "#virginiamontemaggi, #martalosito, #reazione, #vogliaditiktok"
-  - username: "sofiacrisafulli"
-    fullname: >-
-      sofiii😋
-    location: "Italy"
-    followers: 443259
-    engagement: 2326
-    commentsToLikes: 0.024452
-    id: cka6juu00wcla0i78xjvjugjj
-    verified: false
-    hashtags: "#twinchange, #duetto, #pov, #greenscreen"
-  - username: "_samuelecaldera_"
-    fullname: >-
-      🌪️
-    location: "Italy"
-    followers: 4070
-    engagement: 1922
-    commentsToLikes: 0.059122
-    id: ck9rl6rsmwhwv0j78zdk2owuf
-    verified: false
-    hashtags: "#maydaychalleng"
-  - username: "majnoxofficial"
-    fullname: >-
-      majnoxofficial
-    location: "Italy"
-    followers: 2657
-    engagement: 2339
-    commentsToLikes: 0.053027
-    id: ck83x2necnqw90j78ytsxxsig
-    verified: false
-    hashtags: "#watchmymagic, #draw, #duetto"
-  - username: "ashraf_____07"
-    fullname: >-
-      💝আশরাফ🌹সিকদার💝
-    location: "Italy"
-    followers: 2001
-    engagement: 3562
-    commentsToLikes: 0.134222
-    id: ckacurw8pkbe40i78dxnr2ses
-    verified: false
-    hashtags: "#fail, #guran, #friends, #15svines"
+    hashtags: "#italy, #fyp, #comedy, #conte"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
+    bio: >-
+      🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 1795572
-    engagement: 2449
-    commentsToLikes: 0.012062
+    followers: 2300000
+    engagement: 2312
+    commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#tuttifratelli, #valespo, #reazione, #problemicontutti"
-  - username: "panzerielena"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+  - username: "_samuelecaldera_"
     fullname: >-
-      P a n z e r 
+      🌪️
+    bio: >-
+      Follow on Insta🙃👆 Road to -> 7500🔐 25-12-2002 📍Milan, Italy 🇮🇹
     location: "Italy"
-    followers: 88357
-    engagement: 2059
-    commentsToLikes: 0.020776
-    id: ck9pm1s8e71tm0j78x3gla5x3
+    followers: 5378
+    engagement: 2325
+    commentsToLikes: 0.050913
+    id: ck9rl6rsmwhwv0j78zdk2owuf
     verified: false
-    hashtags: "#psychology, #nails, #duetto, #oroeargento"
-  - username: "beeebi94"
+    hashtags: "#duetto"
+  - username: "mr.saammy"
     fullname: >-
-      Beatrice Fumagalli
+      Samu💧
+    bio: >-
+      Milan📍/ Reggio Calabria ❤️ 18 y.o Fr🏧🏳️‍🌈 170.000?🥺👉👈
     location: "Italy"
-    followers: 37133
-    engagement: 2634
-    commentsToLikes: 0.022930
-    id: ck9re2wk30i9h0j78jybuoynn
+    followers: 165900
+    engagement: 2244
+    commentsToLikes: 0.023352
+    id: ckai3f6qcjm0n0i780bcchn6g
     verified: false
-    hashtags: "#lezioni, #titanic, #chooseone, #tiktokrotto"
-  - username: "lelegiaccari"
+    hashtags: "#perte, #comedy, #mrsaammy, #famiglia"
+  - username: "mony_ebbasta90"
     fullname: >-
-      lelegiaccari
+      Mony_ebbasta
+    bio: >-
+      ❤️ Milano ❤️ ❤️fitness ❤️ amo gli animali più di ogni altra cosa al mondo ❤️
     location: "Italy"
-    followers: 1104923
-    engagement: 2097
-    commentsToLikes: 0.015373
-    id: ck8z9zga6ztog0j785d4jxtrv
+    followers: 6208
+    engagement: 2269
+    commentsToLikes: 0.178183
+    id: ckbfak7nt21080j23c3m7yptt
     verified: false
-    hashtags: "#taritara"
+    hashtags: "#greenscreen, #friends, #duetto, #love"
+  - username: "majnoxofficial"
+    fullname: >-
+      majnoxofficial
+    bio: >-
+      #teambiscuits 😊🍪 🇮🇹 italy,milan Road to 3000💘 Fanpage🙇🏼‍♀️👍🏻
+    location: "Italy"
+    followers: 2604
+    engagement: 2276
+    commentsToLikes: 0.044357
+    id: ck83x2necnqw90j78ytsxxsig
+    verified: false
+    hashtags: "#siamoneiperte, #foryou, #perte, #neiperte"
+  - username: "s.alice_piangente_"
+    fullname: >-
+      🖤💜🤍
+    bio: >-
+      She/Her Milan,Italy | 1506🥂 Road to 20k🔜 CEO of Tiktokvalley🚀
+    location: "Italy"
+    followers: 16800
+    engagement: 1979
+    commentsToLikes: 0.029401
+    id: ck9v7hhhy60140j78dbtggzot
+    verified: false
+    hashtags: "#perte, #girl, #mynameis, #fyp"
+  - username: "alessiocesarin"
+    fullname: >-
+      ALESSIO CESARIN
+    bio: >-
+      🇮🇹Italy🇮🇹 📍Milano 🎂24 giugno Seguitemi su Instagram : alessiocesarin
+    location: "Italy"
+    followers: 110300
+    engagement: 1787
+    commentsToLikes: 0.030120
+    id: ckbq5o332s6iw0j23yxswzaco
+    verified: false
+    hashtags: "#italy, #tiktok, #foryou, #perte"
+  - username: "chiarabottazzoooo"
+    fullname: >-
+      itsschiaraa
+    bio: >-
+      •💓Chiara •Live in Milan 📍 •14 years old❤️
+    location: "Italy"
+    followers: 18700
+    engagement: 1710
+    commentsToLikes: 0.078566
+    id: ckbagviz98tu40j23tjgtkihd
+    verified: false
+    hashtags: "#trend, #viral, #foruyou, #viralvideo"
+  - username: "andrea_thecat_"
+    fullname: >-
+      Andrea Damascelli
+    bio: >-
+      y'all fall in love? well, I fell asleep Milan, Italy andreadamascelli@gmail.com
+    location: "Italy"
+    followers: 17700
+    engagement: 2103
+    commentsToLikes: 0.019253
+    id: ck9n4l5u84z0e0j789szjlvwt
+    verified: false
+    hashtags: "#trashitaliano, #liceo, #prof, #imparacontiktok"
 ---

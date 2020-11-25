@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top health Instagram influencers in Vancouver in 2020. Most popular hashtags: #health #fitness #workout #vancouver.
+  Find top health Instagram influencers in Vancouver in 2020. Most popular hashtags: #health #vancouver #mentalhealth.
 platform: Instagram
+hits: 49
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 49 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "internationalsingh"
+  - username: "missjazzy_fit"
     fullname: >-
-      Sukhmeet Rohan Singh
+      Jazmin Gillespie
+    bio: >-
+      Vancouver,Canada🇨🇦 TRAIN WITH ME NOW 👇🏼👇🏼
     location: "Canada"
-    followers: 8012
-    engagement: 692
-    commentsToLikes: 0.088794
-    id: ck5zxagon7n4n0i14ka9yd3j4
+    followers: 236853
+    engagement: 313
+    commentsToLikes: 0.028957
+    id: ckap66t63enbh0i780w16uu7u
     verified: false
-    hashtags: "#medstudent, #punoftheday, #toronto, #beautiful"
-  - username: "kym.lifts"
+    hashtags: "#letswork, #missjazzyfit, #quadqueen, #thickfit"
+  - username: "praisevaughn"
     fullname: >-
-      KYM LIFTS | VANCOUVER FITNESS
+      Praise Vaughn
+    bio: >-
+      Courage. Compassion. Connection. 👉🏽 2 Timothy 1:7 🙌🏽 👊🏽 Learn to Box 👊🏽
     location: "Canada"
-    followers: 2268
-    engagement: 1670
-    commentsToLikes: 0.109296
-    id: ckapc9tbw2ypm0i787oi9cbo1
+    followers: 17020
+    engagement: 424
+    commentsToLikes: 0.056641
+    id: ck6tk1qdc3u3e0j71y20xt5vc
     verified: false
-    hashtags: "#bikiniprep2020, #teamhd, #naturalbodybuilding, #bodybuildingbikini"
-  - username: "muaeleni"
+    hashtags: "#fightcapital, #vancouverboxing, #sausagedog, #vancity"
+  - username: "russianjesusxo"
     fullname: >-
-      Eleni
+      🇷🇺алёна соболева
+    bio: >-
+      $ex drugs & rock’n’roll💀💋 Pink makes da boys wink Sanity is a waste of time Party till you’re homeless Vegetarian 14 years 🌿🐔💕🥗
     location: "Canada"
-    followers: 19115
-    engagement: 290
-    commentsToLikes: 0.231513
-    id: ck6tv85cxkpwl0j71jssaxj0w
+    followers: 10549
+    engagement: 304
+    commentsToLikes: 0.038944
+    id: ck6tkvk9k5hlq0j7133zlesyx
     verified: false
-    hashtags: "#brownsmokeyeye, #bluemakeup, #nailpolish, #kimkardashian"
-  - username: "littlemissregina"
+    hashtags: "#russianmafia, #bangbang, #winedinesixtynine, #sfx"
+  - username: "feliciasfabfoodz"
     fullname: >-
-      Little Miss Regina 🌾
+      felicia
+    bio: >-
+      ⋒ mostly plant-based dancer ✧ real food recipes ☼ finding health, balance + good vibes ➳ vancouver, bc
     location: "Canada"
-    followers: 5743
-    engagement: 788
-    commentsToLikes: 0.318828
-    id: ck5zv1tgb3frv0i14foq1iywd
+    followers: 11617
+    engagement: 599
+    commentsToLikes: 0.111828
+    id: ckap90uqqqqb90i78ug67rebe
     verified: false
-    hashtags: "#wascanalake, #reginalocal, #yvrcookie, #discountcode"
-  - username: "caitlinfladager"
+    hashtags: "#simplydelish, #ad, #gifted, #organictraditions"
+  - username: "cheaplazyvegan"
     fullname: >-
-      Caitlin Fladager
+      Cheap Lazy Vegan
+    bio: >-
+      🎥 YouTube: cheaplazyvegan 🍴 Cafe @savegyyc 🎤 Podcast @thesavegpodcast 😊 Just me @therosatron 🔻 MY EBOOKS! 🔻
     location: "Canada"
-    followers: 330838
-    engagement: 409
-    commentsToLikes: 0.059192
-    id: ck5qeasnmzjza0i111jq4qj37
+    followers: 161479
+    engagement: 151
+    commentsToLikes: 0.011974
+    id: ck136n1357aob0i199kseyulp
+    verified: false
+    hashtags: "#foodie, #healthy, #bestofvegan, #feedfeed"
+  - username: "plentyfullme"
+    fullname: >-
+      Michelle △ Nutritionist
+    bio: >-
+      a place for all things health + wellness 🌿 easy healthy recipes using simple ingredients 📸 brand photography + content creation 〰️
+    location: "Canada"
+    followers: 8886
+    engagement: 730
+    commentsToLikes: 0.614167
+    id: ck5bu85cxhbpj0i11rny7q9gu
+    verified: false
+    hashtags: "#sponsored, #healthyfood, #linkinbio, #holisticnutrition"
+  - username: "itsalexstay"
+    fullname: >-
+      Alex Stay (he/them)
+    bio: >-
+      6’5” Growing Cub with a Lithp 🐻 Aethetic Optimitht 🔥 Anti-Bullying Activitht 🏳️‍🌈 Mental Health Advocate 🧠 📍de Montréal - now Vancouver 🏞
+    location: "Canada"
+    followers: 8495
+    engagement: 1374
+    commentsToLikes: 0.037302
+    id: ck8t9cw42nmrz0j78ubl0modb
+    verified: false
+    hashtags: "#bodypositivity, #dadbod, #gaycubs, #cuddlebuddy"
+  - username: "nachoserricchio"
+    fullname: >-
+      Ｉｇｎａｃｉｏ Ｓｅｒｒｉｃｃｈｉo
+    bio: >-
+      Mental Health Advocate 💚
+    location: "Canada"
+    followers: 97217
+    engagement: 612
+    commentsToLikes: 0.018834
+    id: ck14k6m7enzsc0i19v2u46wgb
     verified: true
-    hashtags: "#thankyouteami, #flashbackfriday, #momscanbesexy, #momswhosmokeweed"
-  - username: "camleeyoga"
+    hashtags: "#mentalhealthawareness, #nostigma, #hereforyou, #endthestigma"
+  - username: "george_ahhh"
     fullname: >-
-      Cam Lee | Vancouver, Canada
+      Georgia Ellenwood
+    bio: >-
+      Badger Alum, Heptathlete: 2018 NCAA Champ Earthlover 🌎 8x All American Vancouver , team 🇨🇦 ..Not defined by my sport @underarmourca Athlete
     location: "Canada"
-    followers: 42141
-    engagement: 221
-    commentsToLikes: 0.186192
-    id: ck5hdtr0zpc1b0i118fyiiurl
-    verified: false
-    hashtags: "#momlife, #100days, #forevermybaby, #realmomlife"
-  - username: "javelizz"
-    fullname: >-
-      Liz Gleadle
-    location: "Canada"
-    followers: 14114
-    engagement: 449
-    commentsToLikes: 0.018260
-    id: ck0u2f8g5zrgp0i19a5hs8lqm
+    followers: 373456
+    engagement: 1280
+    commentsToLikes: 0.012721
+    id: ck0vvscydqjkc0i198hfdkgl4
     verified: true
-    hashtags: "#westcoast, #spinehealth, #organize, #fitness"
-  - username: "miawgordon"
+    hashtags: "#gen8, #lightintelligent, #wellness, #publicit"
+  - username: "michaella.shannon"
     fullname: >-
-      Mia Gordon McCardle
+      Michaella Shannon
+    bio: >-
+      @sutherlandmodel (MA) @me.modelmanagement TV Personality & Fashion Expert @cityline Writer: #WalkWithMeBlog Mental Health SW @sniwwoc
     location: "Canada"
-    followers: 20113
-    engagement: 64
-    commentsToLikes: 0.080862
-    id: ck13db11n4jvi0i19ubd5o2cs
+    followers: 7713
+    engagement: 518
+    commentsToLikes: 0.044274
+    id: ck6tiu8ro1fwb0j71j7kyy7fq
     verified: false
-    hashtags: "#stayhome, #reporterlife, #stopthespread, #naturewalks"
-  - username: "purelyplantpowered_"
-    fullname: >-
-      CRISTINA 🦋 Plant-Based Recipes
-    location: "Canada"
-    followers: 4729
-    engagement: 905
-    commentsToLikes: 0.288297
-    id: ck6trzfcy1yrf0j71r5m0osjh
-    verified: false
-    hashtags: "#veganfood, #glutenfree, #tacotuesday, #veganbaking"
-  - username: "milkstainsandmeltdowns"
-    fullname: >-
-      JESSYKA
-    location: "Canada"
-    followers: 25199
-    engagement: 124
-    commentsToLikes: 0.254735
-    id: ck55q1g3xbvsi0i11zwcjtrgq
-    verified: false
-    hashtags: "#howheasked, #weddingwire, #victimshaming, #makehomeyours"
+    hashtags: "#indigenous, #photooftheday, #style, #memodel"
 ---

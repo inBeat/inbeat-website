@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Australia In 2020
 description: >-
-  Find top cooking Instagram influencers in Australia in 2020. Most popular hashtags: #lovefood #whitechocolate #isolation #almonds.
+  Find top cooking Instagram influencers in Australia in 2020. Most popular hashtags: #australia #lemon #food.
 platform: Instagram
+hits: 201
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 201 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "stephaniebarreca"
+  - username: "morganhipworth"
     fullname: >-
-      Nutrition & Clean Cooking
+      Morgan Hipworth
+    bio: >-
+      19 probably cooking somewhere owner: @bistromorgan more recipes on my reels 👇🏼 mgmt: @imgtalent sarah.richards@img.com
     location: "Australia"
-    followers: 12002
-    engagement: 606
-    commentsToLikes: 0.034039
-    id: ck15r1pzs5pbk0i19my4kkwr7
+    followers: 82269
+    engagement: 1456
+    commentsToLikes: 0.020819
+    id: ck0w5erbq3aiw0i19u85cnsa1
+    verified: true
+    hashtags: "#food, #yum, #cooking, #melbournetings"
+  - username: "mareuribe"
+    fullname: >-
+      MARIANA 🇧🇷
+    bio: >-
+      📍 Sydney 🇦🇺 Cooking as a Hobby 👩‍🍳 🍴 🌍 FOOD | SOUL | TRAVEL
+    location: "Australia"
+    followers: 13026
+    engagement: 593
+    commentsToLikes: 0.042703
+    id: ckf5oy0h048xj0j23pc3vzlat
     verified: false
-    hashtags: ""
+    hashtags: "#tbt, #nofilterneeded, #campinglife"
+  - username: "kaaileyleewis"
+    fullname: >-
+      Kailey Lewis
+    bio: >-
+      ◌ ❂ ◌ lover of all things nature・cooking・nudity
+    location: "Australia"
+    followers: 9915
+    engagement: 498
+    commentsToLikes: 0.027460
+    id: ck0vwfil7tfz20i1921tgbwhy
+    verified: false
+    hashtags: "#youswimfromhome"
   - username: "marys_kouzina"
     fullname: >-
-      Mary’s Kouzina . SYD
+      Mary’s Kouzina
+    bio: >-
+      Preserving traditional Greek cooking ➕ creative inspiration 🌀🍋 Sydney High School Teacher & Artist
     location: "Australia"
-    followers: 7987
-    engagement: 1025
-    commentsToLikes: 0.138326
+    followers: 17704
+    engagement: 802
+    commentsToLikes: 0.054559
     id: ck8t4vzcm828a0j78n5pteebs
     verified: false
-    hashtags: "#bake, #cakedecorating, #friedfood, #soup"
-  - username: "pilot.alexander"
-    fullname: >-
-      Pilot Alexander
-    location: "Australia"
-    followers: 74940
-    engagement: 426
-    commentsToLikes: 0.080287
-    id: ck9hb2jc0f45f0j78cq9922hc
-    verified: false
-    hashtags: "#pianist, #moon, #kualalumpur, #nasa"
+    hashtags: "#damnthatsdelish, #foodstagram, #homemadefood, #cheese"
   - username: "larissatakchi"
     fullname: >-
       Larissa Takchi
+    bio: >-
+      #MasterChefAU 2019 WINNER 🏆 Private catering/cooking classes available 👩‍🍳 enquiries - caitlin@onemanagement.com.au
     location: "Australia"
-    followers: 60015
-    engagement: 316
-    commentsToLikes: 0.029177
+    followers: 64786
+    engagement: 306
+    commentsToLikes: 0.028865
     id: ck0w687qi7c2l0i1958a51pll
     verified: false
-    hashtags: "#kitchenaidcollab, #cookies, #biggestmorningtea, #wildpearcafe"
-  - username: "foodtravelandaredhead"
+    hashtags: "#masterchefau, #wildpearcafe, #makeitdelicious, #privatecatering"
+  - username: "nikolettaskitchen"
     fullname: >-
-      Marianna Tuccia 👩🏻‍🦰
+      Nikoletta’s Kitchen
+    bio: >-
+      Cypriot home cooking and occasional kitchen dancer. Search for “Nikoletta’s Kitchen” on Spotify for my kitchen tuuuunes. Londoner in Sydney.
     location: "Australia"
-    followers: 30728
-    engagement: 328
-    commentsToLikes: 0.095786
-    id: ck5zsg6k3yfnt0i149r1z6731
+    followers: 10301
+    engagement: 450
+    commentsToLikes: 0.103458
+    id: ck8tcvbbm0to10j789o653fks
     verified: false
-    hashtags: "#whitechocolate, #weekendtreats, #rusticblogger, #flatlayforever"
-  - username: "donna_a_atkins"
-    fullname: >-
-      The Fitness Don
-    location: "Australia"
-    followers: 10190
-    engagement: 551
-    commentsToLikes: 0.057442
-    id: ck5bwckjrlfil0i110qh51du4
-    verified: false
-    hashtags: "#longblacksstillonthemenutho, #muchneededboost, #comppartythatis, #wallllllllleee"
-  - username: "my_food_is_my_passion"
-    fullname: >-
-      
-    location: "Australia"
-    followers: 2766
-    engagement: 1300
-    commentsToLikes: 0.276808
-    id: ck5c6jv775lao0i11z8cz5vir
-    verified: false
-    hashtags: "#orange, #rosewater, #pecorino, #jalapenos"
+    hashtags: "#halloumiforlife, #bomba, #wfhlunch, #mycypriotkitchen"
   - username: "firetofork"
     fullname: >-
       Harry Fisher
+    bio: >-
+      ↠ Adventure Cooking 🔥 📍 The Kimberley, WA ↡ Videos, merch etc ↡
     location: "Australia"
-    followers: 25224
-    engagement: 345
-    commentsToLikes: 0.028491
+    followers: 29616
+    engagement: 344
+    commentsToLikes: 0.061857
     id: ck5c77awx6yqv0i11ul0c943a
     verified: false
-    hashtags: "#overlanding, #perthisok, #omnomnom, #ribs"
-  - username: "dariomancachef"
+    hashtags: "#fire, #thekimberleyaustralia, #80series, #australia"
+  - username: "foodieinheels"
     fullname: >-
-      Dario Manca
+      
+    bio: >-
+      Brisbane based food & fashion devotee 🥂👠 Just a visual diary of my wining, dining & cooking adventures! 🍷🍴
     location: "Australia"
-    followers: 33732
-    engagement: 139
-    commentsToLikes: 0.052763
-    id: ck0u99kra988c0i1962n89qpv
+    followers: 17259
+    engagement: 219
+    commentsToLikes: 0.262700
+    id: ckaore5rcmszb0i78ygdjrb7x
     verified: false
-    hashtags: "#happybday, #gourmet, #isolation, #jewish"
-  - username: "benshewry"
+    hashtags: "#dontbekoi, #supportsmallbusiness"
+  - username: "foodtravelandaredhead"
     fullname: >-
-      Ben Shewry
+      Marianna Tuccia 👩🏻‍🦰
+    bio: >-
+      🇦🇺 Sydney 🍝 Always Hungry 🇮🇹Pasta is Life 🍰Cake for Breakfast 🥣#CookingByMarianna ✍🏻DM/email for ¢σℓℓαвѕ + ιиνιтєѕ 💌marianna@mariannaskitchen.com
     location: "Australia"
-    followers: 110929
-    engagement: 146
-    commentsToLikes: 0.061212
-    id: ck5cbo4dzfub10i11xl4z54em
-    verified: true
-    hashtags: "#atticaathome, #pizzaboxworldchampionship, #littlethings, #onedayatatime"
+    followers: 31549
+    engagement: 303
+    commentsToLikes: 0.088033
+    id: ck5zsg6k3yfnt0i149r1z6731
+    verified: false
+    hashtags: "#vintagestyle, #instapassport, #sydneyblogger, #italiansdoeatbetter"
+  - username: "my_food_is_my_passion"
+    fullname: >-
+      
+    bio: >-
+      🇦🇺 Australian and Italian 🇮🇹 ✈ Cabin Crew 🍦 Featured Recipes on Gelista Gelati Website 🥞 My personal journey on home style cooking
+    location: "Australia"
+    followers: 2863
+    engagement: 1443
+    commentsToLikes: 0.251354
+    id: ck5c6jv775lao0i11z8cz5vir
+    verified: false
+    hashtags: "#homemade, #breakfast, #pepper, #autumn"
 ---

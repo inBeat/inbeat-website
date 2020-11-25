@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Venezuela In 2020
 description: >-
-  Find top TikTok influencers in Venezuela in 2020. Most popular hashtags: #greenscreen #mama #hermanos #amigos.
+  Find top TikTok influencers in Venezuela in 2020. Most popular hashtags: #fyp #parati #venezuela #foryou.
 platform: TikTok
+hits: 279
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 279 TikTok influencers like this in Venezuela for you to pitch.
 profiles:
-  - username: "cesarac_"
+  - username: "isamuelgomez"
     fullname: >-
-      Cesar Alejandro
+      🇸 🇴 🇾  🇸 🇦 🇲
+    bio: >-
+      ❌ soy Sam ❌ ⬇️ Tengo el mejor FANDOM ⬇️
     location: "Venezuela"
-    followers: 99568
-    engagement: 2584
-    commentsToLikes: 0.028094
-    id: ckach90k4ydko0i788z6zq0v5
+    followers: 701300
+    engagement: 2207
+    commentsToLikes: 0.021128
+    id: ckbfhervqctqx0j237doq8t26
     verified: false
-    hashtags: "#memeslatinos, #abuelas, #cosasdeabuelas, #uruguay"
-  - username: "janinalchair"
+    hashtags: "#greenscreen"
+  - username: "anavallee"
     fullname: >-
-      Janinalchair
+      Ana Vallee
+    bio: >-
+      Venezolana🇻🇪 800k?🔥 Instagram: @anavallee Youtube: Ana Vallee +27k subs😍 ⬇
     location: "Venezuela"
-    followers: 415231
-    engagement: 1768
-    commentsToLikes: 0.027331
-    id: ck9gldjkpnt2d0j78y80n4lmk
+    followers: 777700
+    engagement: 2417
+    commentsToLikes: 0.020336
+    id: ckc7der9imvj90j232vsxdbf2
     verified: false
-    hashtags: "#twelve, #huevo, #juan, #vasochallenge"
-  - username: "dicenquesoypana"
+    hashtags: "#comedia, #casosmisteriosos, #amongus, #terror"
+  - username: "emibontemps"
     fullname: >-
-      DICENQUESOYPANA
+      Emily Bontemps
+    bio: >-
+      Sígueme aquí ↗️ Hija de Dios💓 En vivo🔴Viernes 11:00pm🇻🇪 Mi canal de YouTube⬇
     location: "Venezuela"
-    followers: 741280
-    engagement: 3002
-    commentsToLikes: 0.021037
-    id: ck9rhciw8etmb0j78ydtef9qy
+    followers: 80400
+    engagement: 2214
+    commentsToLikes: 0.061144
+    id: ckdhsqz142mgd0j23zb6tmuds
     verified: false
-    hashtags: "#tiktokargentina, #tiktokmexico, #tiktokcolombia"
+    hashtags: "#dios, #jovenescristianos, #chicacristiana, #paz"
+  - username: "inemesis102"
+    fullname: >-
+      *💖 inemesis102💖*
+    bio: >-
+      😈DARK QUEEN😈 dejame tocar tu corazon...y hagamos magia para que puedas sonreir
+    location: "Venezuela"
+    followers: 161600
+    engagement: 2204
+    commentsToLikes: 0.077858
+    id: ckc8znjl1opwy0j238hnrcejz
+    verified: false
+    hashtags: "#monsterhihg, #demikas, #legiondar, #storytime"
+  - username: "manuelejs_"
+    fullname: >-
+      Manuel Jimenez
+    bio: >-
+      Te regalo un 🐶 si me sigues en IG❤ 140k?
+    location: "Venezuela"
+    followers: 138900
+    engagement: 1925
+    commentsToLikes: 0.034673
+    id: ckc8gekggau3b0j239hg0gkcj
+    verified: false
+    hashtags: "#parati, #mujeres, #fyp, #desamor"
+  - username: "lorepereda7"
+    fullname: >-
+      💙L💚
+    bio: >-
+      🇻🇪 ⚠️Contest +18⚠️ Occosplay / Maquillaje / Fantasía / Gothic / Comedia
+    location: "Venezuela"
+    followers: 12800
+    engagement: 2255
+    commentsToLikes: 0.052939
+    id: ckbffupahasy50j23ffx96j7r
+    verified: false
+    hashtags: "#challenge, #laordendelterror, #timburton, #tiktoklatino"
+  - username: "beaulilful"
+    fullname: >-
+      trish ʕ ꈍᴥꈍʔ
+    bio: >-
+      🧃🦦🧦🐛🪐 she/her dm's open! (minor)
+    location: "Venezuela"
+    followers: 3251
+    engagement: 1721
+    commentsToLikes: 0.084154
+    id: ckbqj3ib749nn0j23e19mkgx6
+    verified: false
+    hashtags: "#vnzla, #indie, #fyp, #wlw"
   - username: "valemachuk"
     fullname: >-
       Valeria Machuca
+    bio: >-
+      19 🦋 intentando hacer del mundo un lugar mejor ❤️ mi canal de YouTube 👇🏼
     location: "Venezuela"
-    followers: 318404
-    engagement: 2165
-    commentsToLikes: 0.014595
+    followers: 1800000
+    engagement: 2542
+    commentsToLikes: 0.011319
     id: ckamgxfd7druc0i78pmessuhp
     verified: false
-    hashtags: "#eressuficiente"
-  - username: "marchmellownur"
+    hashtags: ""
+  - username: "ariperez_"
     fullname: >-
-      game over
+      Arii
+    bio: >-
+      Hey solo trato de dar la mejor parte de mi 👼🏼 10k? 🇪🇸🇻🇪
     location: "Venezuela"
-    followers: 5929
-    engagement: 1997
-    commentsToLikes: 0.035123
-    id: cka9l0ffo1dhd0i78cck8bpni
+    followers: 8947
+    engagement: 2004
+    commentsToLikes: 0.044853
+    id: ckbbmfla6akdv0j235cj1j35a
     verified: false
-    hashtags: "#galeria, #linsh, #segudores, #mama"
-  - username: "elmeco1212"
+    hashtags: "#paratipage, #foryou, #fyp, #indie"
+  - username: "karianam"
     fullname: >-
-      El Meco 
+      Kariana Martínez
+    bio: >-
+      Vamos por los 10K 🇻🇪 ✨Sígame en Instagram también: @Kariana_m @karianasmakeup
     location: "Venezuela"
-    followers: 3905
-    engagement: 1147
-    commentsToLikes: 0.098930
-    id: cka6i8w1nptmo0i781qeotn23
+    followers: 9937
+    engagement: 1496
+    commentsToLikes: 0.081599
+    id: ckbex4jpkh8vj0j23wb8dssrl
     verified: false
-    hashtags: "#espero, #feliz, #gracias, #activos"
-  - username: "gordibujis_y_flakislapiz"
-    fullname: >-
-      gordibujis_flakislap
-    location: "Venezuela"
-    followers: 61232
-    engagement: 2229
-    commentsToLikes: 0.018346
-    id: ck9r3mjuxqkfv0j78fw23xeck
-    verified: false
-    hashtags: "#vamoaperrear, #29k, #micabello, #salvemosvidas"
-  - username: "sebastianreyest"
-    fullname: >-
-      🤍Sᥱbᥲstιᥲᥒ Rᥱყᥱs🤍
-    location: "Venezuela"
-    followers: 94413
-    engagement: 1899
-    commentsToLikes: 0.083232
-    id: ckae0mtnhkc7x0i78hbzg2sau
-    verified: false
-    hashtags: "#crush, #ovnis, #cualprefieres, #colegio"
-  - username: "manulatorey"
-    fullname: >-
-      Manu🥴
-    location: "Venezuela"
-    followers: 131679
-    engagement: 1824
-    commentsToLikes: 0.035165
-    id: ckaclzey2hog80i78fg1qafoq
-    verified: false
-    hashtags: "#adorable, #curiosidades, #yoenlafiesta, #reaccionar"
-  - username: "alviscastr"
-    fullname: >-
-      Alvis
-    location: "Venezuela"
-    followers: 3616
-    engagement: 1618
-    commentsToLikes: 0.148237
-    id: ckadaogmwj8z60i78f8q3kbe2
-    verified: false
-    hashtags: "#simetr, #vidios"
+    hashtags: "#playa, #puravida, #life, #friends"
 ---

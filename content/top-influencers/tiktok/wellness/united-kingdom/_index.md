@@ -1,97 +1,130 @@
 ---
 title: Top 10 Wellness TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top wellness TikTok influencers in United Kingdom in 2020. Most popular hashtags: #wellness #duet #workouttips #armworkout.
+  Find top wellness TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #wellness #london #foryoupage.
 platform: TikTok
+hits: 11
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat has 11 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "thehood1989"
+  - username: "alicesantos0204"
     fullname: >-
-      Craig Cooper
+      alicesantos0204
+    bio: >-
+      Health • Wellness • Model Follow me on Instagram @alicesantos0204
     location: "United Kingdom"
-    followers: 10031
-    engagement: 824
-    commentsToLikes: 0.084975
-    id: ck8qdpoqvpc0t0j78fisfgo88
+    followers: 55400
+    engagement: 1123
+    commentsToLikes: 0.010486
+    id: ckbqdwfnjzunv0j23os835vbo
     verified: false
-    hashtags: "#imlovinit, #gamingontiktok, #lockdownlife, #followers"
-  - username: "bingerspingers"
+    hashtags: "#fy, #life, #health, #saudavel"
+  - username: "thewellnesscoach"
     fullname: >-
-      George Bingham
+      Jessica Annabelle
+    bio: >-
+      Psychology Scholar • Mental Health • Healing • Intimacy • Yoga Teacher ⠀ 👇🏼
     location: "United Kingdom"
-    followers: 161013
-    engagement: 654
-    commentsToLikes: 0.032196
-    id: ck9k05ippbjno0j78ynntubi9
+    followers: 40300
+    engagement: 763
+    commentsToLikes: 0.049332
+    id: ckb9vndlfuznq0j239v7x54ue
     verified: false
-    hashtags: "#metabolism, #italian, #easy, #delicious"
-  - username: "jalalsamfit"
+    hashtags: "#relationshiptips, #attachmentstyle, #relationshipadvice, #attachmentissues"
+  - username: "kissyfitness9"
     fullname: >-
-      Jalal
+      kissyfitness9
+    bio: >-
+      @ryderwear KISSY10 @myproteinuk KISSY More fitness on Insta ☝️ Online Coach
     location: "United Kingdom"
-    followers: 82281
-    engagement: 602
-    commentsToLikes: 0.042358
-    id: ck9r6257720zb0j78fn86x6rr
+    followers: 10200
+    engagement: 506
+    commentsToLikes: 0.064398
+    id: ckd6y7vtcvtqs0j235ztypigx
     verified: false
-    hashtags: "#obliquesworkout, #posture, #breathewithme, #athomeworkout"
-  - username: "theblondeflamingo"
+    hashtags: "#fy, #hipthrusts, #hamstring, #deadlift"
+  - username: "apollolifestyle"
     fullname: >-
-      theblondeflamingo
+      Adi West
+    bio: >-
+      Personal Development Coach Practical Advice to Improve Your Life ⬇️INSTAGRAM⬇️
     location: "United Kingdom"
-    followers: 192367
-    engagement: 912
-    commentsToLikes: 0.025671
-    id: ck80oeuekhe250j78snu7l74p
+    followers: 43300
+    engagement: 800
+    commentsToLikes: 0.076065
+    id: ckbks5w6nmuy30j23vni4u8nr
     verified: false
-    hashtags: "#shootinhome, #selfisolate, #valentines, #desertlife"
+    hashtags: "#psychology, #howto, #job, #jobinterview"
+  - username: "buradori20"
+    fullname: >-
+      Bra
+    bio: >-
+      𝙔𝙤𝙪𝙧 𝘼𝙣𝙞𝙢𝙚 𝙒𝙖𝙞𝙛𝙪 Comedy for my ethnic ɢoʀʟꜱ & ɢᴀʏꜱ 🏳️‍🌈 10k? 🥺
+    location: "United Kingdom"
+    followers: 7746
+    engagement: 1409
+    commentsToLikes: 0.035555
+    id: ckdc0zsprfk1k0j23j3z03510
+    verified: false
+    hashtags: "#millennial, #fyp, #gay, #anxiety"
   - username: "whyshy.me"
     fullname: >-
       Darya
+    bio: >-
+      Travel with me✈️ ❤️Say hi on insta: @whyshyme 💌 whyshypr@gmail.com
     location: "United Kingdom"
-    followers: 34984
-    engagement: 531
-    commentsToLikes: 0.065721
+    followers: 66000
+    engagement: 524
+    commentsToLikes: 0.048372
     id: ck8nfzht7u7040j78kkamhc09
     verified: false
-    hashtags: "#girlpower, #phototrend, #recipy, #cookingvideo"
+    hashtags: "#travellergirl, #traveltheworld, #londongirl, #ukblogger"
   - username: "loveyourmutha"
     fullname: >-
       Loveyourmutha
+    bio: >-
+      
     location: "United Kingdom"
-    followers: 4099
-    engagement: 566
-    commentsToLikes: 0.026067
+    followers: 4406
+    engagement: 560
+    commentsToLikes: 0.018563
     id: ck8tr3tegqtzr0j78ez9ly601
     verified: true
-    hashtags: "#houseoftiktok, #lifehacks, #teabag, #wellness"
-  - username: "nathanncollins"
+    hashtags: "#fyp, #vegan, #veganrecipe, #foodchallenge"
+  - username: "naturesnoteslondon"
     fullname: >-
-      Nathan Collins
+      Nature’s Notes
+    bio: >-
+      Natural soap fun 🇬🇧 Instagram : NaturesNotesLondon
     location: "United Kingdom"
-    followers: 25360
-    engagement: 324
-    commentsToLikes: 0.035329
-    id: ck9ejbsph25e80j78s6id38gp
+    followers: 28200
+    engagement: 237
+    commentsToLikes: 0.018008
+    id: ckbl3wai7191u0j23wbcd7rek
     verified: false
-    hashtags: "#squat, #tiktok, #posturecheck, #howto"
+    hashtags: "#love, #soap, #nature, #fyp"
   - username: "lukejeal"
     fullname: >-
       SPINE DOCTOR 🇬🇧 
+    bio: >-
+      FOLLOW ME ON INSTAGRAM ☝🏻☝🏻 Chiropractor, Airdrie, Scot
     location: "United Kingdom"
-    followers: 37597
-    engagement: 264
-    commentsToLikes: 0.032806
+    followers: 42900
+    engagement: 280
+    commentsToLikes: 0.031367
     id: cka0of1b73mgk0i78lsjjpuj6
     verified: false
-    hashtags: "#colds, #tennis, #arms, #gunss"
-  - username: "sarhbro"
+    hashtags: "#neckpains, #neckcrack, #xyzbca, #chiropractor"
+  - username: "wholesome.mils"
     fullname: >-
-      CEO of bad trims
+      Mils
+    bio: >-
+      🍓health•fitness•positivity🍓 my recipe insta- @wholesome.mils
     location: "United Kingdom"
-    followers: 31348
-    engagement: 874
-    commentsToLikes: 0.015524
-    id: ck9rpcty4gux40j785pae5wa6
+    followers: 28300
+    engagement: 1024
+    commentsToLikes: 0.011221
+    id: ckcuzpxfgmvy90j23ouldi9vh
     verified: false
-    hashtags: "#basicandproud, #coolranchdance, #trickortreat, #slayathome"
+    hashtags: "#asosdaytofright, #healthylifestyle, #healthyfood, #fyp"
 ---

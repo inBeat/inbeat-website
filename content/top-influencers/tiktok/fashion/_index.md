@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In 2020
 description: >-
-  Find top fashion TikTok influencers in 2020. Most popular hashtags: #duet #funny #foryou #happyeaster.
+  Find top fashion TikTok influencers in 2020. Most popular hashtags: #foryou #duet #fyp #greenscreen.
 platform: TikTok
+hits: 14362
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 14362 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "vivalapinkposh"
+    fullname: >-
+      vivalapinkposh
+    bio: >-
+      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
+    location: "United States"
+    followers: 694700
+    engagement: 2287
+    commentsToLikes: 0.075881
+    id: ckai0ai6q6v8z0i782maw6om4
+    verified: false
+    hashtags: "#duet, #christmas, #dollar, #fyp"
+  - username: "benhornn"
+    fullname: >-
+      ben
+    bio: >-
+      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
+    location: "United States"
+    followers: 219800
+    engagement: 2273
+    commentsToLikes: 0.144883
+    id: ckacgukn4woy10i78163lz6e5
+    verified: false
+    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
+  - username: "andrewkwon_official"
+    fullname: >-
+      Andrew Kwon 엔드류 권
+    bio: >-
+      Fashion Designer of ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
+    location: "United States"
+    followers: 6447
+    engagement: 1963
+    commentsToLikes: 0.120485
+    id: ckce3zwyhjcwm0j237bod4grp
+    verified: false
+    hashtags: "#foryou, #foru, #fyp, #korean"
   - username: "akiadanielle_"
     fullname: >-
-      Akia Danielle
+      Akia T.
+    bio: >-
+      Mom | Wife | Fashion Enthusiast LA Follow me on IG @iamakiadanielle
     location: "United States"
-    followers: 4232
-    engagement: 2154
-    commentsToLikes: 0.085806
+    followers: 6806
+    engagement: 1943
+    commentsToLikes: 0.142475
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#selfmotivation, #happymom, #marriedlife, #husbandandwife"
-  - username: "nomanislam01"
+    hashtags: "#thetallmodelmom, #fashion101, #tallmodelmom, #feelinggood"
+  - username: "thevintagegoree"
     fullname: >-
-      nomanislam01
-    location: "United Arab Emirates"
-    followers: 22258
-    engagement: 2674
-    commentsToLikes: 0.078819
-    id: ckacpthq9xkpz0i78ccsptlwm
+      •Black Retro Babe•
+    bio: >-
+      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+    location: "United States"
+    followers: 19000
+    engagement: 3024
+    commentsToLikes: 0.087918
+    id: ckb0tojgwj34e0j23rnt9nl2q
     verified: false
-    hashtags: "#react, #rocking, #fanny, #bdmuser"
+    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
+  - username: "balmymocha"
+    fullname: >-
+      fynn
+    bio: >-
+      🎃🍂 fashion • grwmes IG: fynnangelinaa BIDEN 2020
+    location: "Netherlands"
+    followers: 42600
+    engagement: 2795
+    commentsToLikes: 0.074085
+    id: ckbkn6f74h5qt0j23heyf8b1o
+    verified: false
+    hashtags: "#ootd, #foryou, #havingfun, #coffee"
   - username: "atomiclaundry"
     fullname: >-
       Colin Aceves
+    bio: >-
+      Fashion Designer.Atomic Laundry. Decora.Fairy Kei.Kawaii Harajuku Life.He/Him
     location: "United States"
-    followers: 7221
-    engagement: 2502
-    commentsToLikes: 0.071062
+    followers: 68600
+    engagement: 2777
+    commentsToLikes: 0.081968
     id: cka64sh7wa0if0i78r5j03qqf
     verified: false
-    hashtags: "#hellokittylover, #pokemonplush, #pajamas, #gothic"
-  - username: "aniela.official"
+    hashtags: "#creepycute, #kidcore, #kawaii, #vintage"
+  - username: "discoisntdead"
     fullname: >-
-      Aniela
+      🎀Disco🎀
+    bio: >-
+      Disco 🏳️‍🌈 ° 24 ° she/her 🔞🤚🔞 🦈🍉🐶🍨🍭 Art☆Alt Fashion☆Cosplay
     location: "United States"
-    followers: 370796
-    engagement: 2310
-    commentsToLikes: 0.025722
-    id: ck9rlsj26zjmr0j78ektoabpf
+    followers: 39900
+    engagement: 2241
+    commentsToLikes: 0.056296
+    id: ck8kjj44uuzvd0j78ylm2a2ub
     verified: false
-    hashtags: "#fypchallenge, #foryou, #fypage"
-  - username: "the.wholesome.corner"
+    hashtags: "#aizawashouta, #myart, #mhacosplay, #drawing"
+  - username: "jonscottwontstop"
     fullname: >-
-      Stay Wholesome! 😋🌸
+      jonscottwontstop
+    bio: >-
+      LGBTQ+ he/him “Trump2020 isn’t a personality trait or a fashion statement.” BLM
     location: "United States"
-    followers: 81969
-    engagement: 2795
-    commentsToLikes: 0.031901
-    id: ck85cm9hd2csk0j78v8ibbxoi
+    followers: 55500
+    engagement: 2056
+    commentsToLikes: 0.059164
+    id: cka9sakrs9z8g0i78e8cokfrq
     verified: false
-    hashtags: "#hufflebuddy, #singing, #thomassanders, #dadjokes"
-  - username: "mithu98.04.02"
+    hashtags: "#trump, #youlost, #comedy, #bidenforthewin"
+  - username: "mariama.sahoneh"
     fullname: >-
-      VJ Mithu Thillai{RJ}
-    location: "Sri Lanka"
-    followers: 2809
-    engagement: 2856
-    commentsToLikes: 0.061638
-    id: ck9f1rcv99jdq0j78fsaewcwm
+      Mariama Sahoneh
+    bio: >-
+      55K? MAKEUP | FASHION | BEAUTY Let’s link👇🏾 😀
+    location: "Canada"
+    followers: 47400
+    engagement: 1953
+    commentsToLikes: 0.043296
+    id: ck961yrgmoiex0j78ejlg96ha
     verified: false
-    hashtags: "#vijay, #vadivelu, #repost, #effect"
-  - username: "prettylittlething"
-    fullname: >-
-      prettylittlething
-    location: "United States"
-    followers: 711245
-    engagement: 2023
-    commentsToLikes: 0.103099
-    id: ck8ae9ewcb0ir0j78rktdcmmi
-    verified: true
-    hashtags: "#retailtherapy, #transformationchallenge, #loungewear, #foryou"
-  - username: "olyasookie"
-    fullname: >-
-      Olya Sookie
-    location: "Croatia"
-    followers: 6335
-    engagement: 1619
-    commentsToLikes: 0.092248
-    id: cka0murbkwzva0i78mp093chm
-    verified: false
-    hashtags: "#happy, #swimsuit, #dancechallenge, #sailormoon"
-  - username: "femkyloren"
-    fullname: >-
-      rayna solo✨
-    location: "United States"
-    followers: 9948
-    engagement: 1601
-    commentsToLikes: 0.064337
-    id: ck9no2qy3s2c70j78899lzimt
-    verified: false
-    hashtags: "#duet, #goingpro, #hailpaimon, #rpdr"
-  - username: "adaatude"
-    fullname: >-
-      Adaleta Avdić
-    location: "United States"
-    followers: 393132
-    engagement: 1888
-    commentsToLikes: 0.049575
-    id: ck7zpa4o8oa160j78jtcdzt24
-    verified: false
-    hashtags: "#beautymode, #guacamole, #millennial, #raisingcanespartner"
+    hashtags: "#muslimahhumour, #blackmuslimfemale, #muslimcomedy, #hijabitiktoks"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Toronto In 2020
 description: >-
-  Find top comedians TikTok influencers in Toronto in 2020. Most popular hashtags: #vibewithme #canada #withmyfamily #toronto.
+  Find top comedians TikTok influencers in Toronto in 2020. Most popular hashtags: #comedy #toronto #fyp #comedian.
 platform: TikTok
+hits: 14
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 14 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "notmarcanthony"
     fullname: >-
       Marc Anthony S
+    bio: >-
+      Toronto Comedian instagram: @notmarcanthony www.marcanth.com
     location: "Canada"
-    followers: 8481
-    engagement: 579
-    commentsToLikes: 0.046700
+    followers: 8775
+    engagement: 629
+    commentsToLikes: 0.036457
     id: ck8f7v5ai39rb0j78p7pdpt44
     verified: false
-    hashtags: "#clean, #2020memes, #fatpeople, #imaboss"
+    hashtags: "#italian, #wtf, #fyp, #foryou"
   - username: "sicko2005"
     fullname: >-
       Sicko
+    bio: >-
+      Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
     location: "Canada"
-    followers: 214548
-    engagement: 1663
-    commentsToLikes: 0.177499
+    followers: 244700
+    engagement: 1612
+    commentsToLikes: 0.122148
     id: ck8fa2xv43zpq0j78kx3cdwrb
     verified: true
-    hashtags: "#nature, #getbizzydance, #itchybum, #nosingchallenge"
+    hashtags: "#actor, #duet, #tutting, #canada"
+  - username: "neemanaz"
+    fullname: >-
+      NeemaNaz
+    bio: >-
+      Comedian/Actor 🤡 🇨🇦🇮🇷 Instagram/YouTube: neemanaz
+    location: "Canada"
+    followers: 127400
+    engagement: 704
+    commentsToLikes: 0.060705
+    id: ckb19yvgzy9bb0j23at5zjlr7
+    verified: false
+    hashtags: "#comedy, #actor, #comedian, #joke"
   - username: "lifeofsterlingnewton"
     fullname: >-
       Sterling Newton 
+    bio: >-
+      Comedian ...Male Golden retriever pup .. Toronto 🇨🇦 follow my YT and insta 🐾
     location: "Canada"
-    followers: 844630
-    engagement: 1645
-    commentsToLikes: 0.009728
+    followers: 1100000
+    engagement: 1816
+    commentsToLikes: 0.006280
     id: ck9a64s9i1njz0j78nijs4gdr
     verified: false
-    hashtags: "#levelupchallenge, #albumcoverchallenge, #homeroutine, #temptation"
+    hashtags: "#cute, #cutedogs4life, #goldenretriever, #dogsoftiktok"
   - username: "cringekev"
     fullname: >-
       Cringe Kev
+    bio: >-
+      Comedian from Canada 🇨🇦 CEO of Cringe 😬 Follow me on Insta @cringekev
     location: "Canada"
-    followers: 6896
-    engagement: 905
-    commentsToLikes: 0.070620
+    followers: 39300
+    engagement: 1280
+    commentsToLikes: 0.036334
     id: ck90r2c2kktgx0j78fv2tcwgq
     verified: false
-    hashtags: "#spooky, #impersonation, #sith, #family"
-  - username: "izzykayeh"
+    hashtags: "#news, #podcast, #comedian, #lol"
+  - username: "thesoftestthug"
     fullname: >-
-      Izzy Kaye
+      your boyfriend
+    bio: >-
+      im an artist and comedian
     location: "Canada"
-    followers: 110166
-    engagement: 2671
-    commentsToLikes: 0.015131
-    id: ck8tprgtdqksm0j78lv452jos
+    followers: 42500
+    engagement: 1370
+    commentsToLikes: 0.034132
+    id: ckan47b708qw40i78sntzlnil
     verified: false
-    hashtags: "#anch, #jamsession, #condoliving, #drama"
-  - username: "geurillat"
+    hashtags: "#ohno, #fypppppppppppppp, #thesoftestthug, #happyhalloween"
+  - username: "zhannaredneva"
     fullname: >-
-      tynanreyes
+      Zhanna Red
+    bio: >-
+      Full time comedian, part time model 🥰Follow for tips & a good mood🥰
     location: "Canada"
-    followers: 2444
-    engagement: 522
-    commentsToLikes: 0.067071
-    id: cka9m4m6q3u4m0i78fjzl2lvm
+    followers: 55600
+    engagement: 698
+    commentsToLikes: 0.014112
+    id: ck8tpr45vqiui0j78pjkwl0is
     verified: false
-    hashtags: "#everydayscience, #indoorworkout, #randomthings, #jamaica"
-  - username: "forbiddenfrosting2.0"
+    hashtags: "#modellife, #sugarbearpartner, #thanksgivingvibes, #modelcheck"
+  - username: "offbeatoutlaw"
     fullname: >-
-      ForbiddenFrosting
+      Offbeat Outlaw
+    bio: >-
+      I sunk your battleship Email:offbeatoutlaw@gmail.com I support BLM Merch!! VV
     location: "Canada"
-    followers: 415269
-    engagement: 712
-    commentsToLikes: 0.008847
-    id: ck806ziswncwo0j78oxzimsme
+    followers: 346600
+    engagement: 2192
+    commentsToLikes: 0.021739
+    id: ckbffmdjzagnf0j2373sde8yt
     verified: false
-    hashtags: "#china, #health, #condiment, #fastfood"
-  - username: "popsicklee"
+    hashtags: "#panthegod, #fighter, #comedian, #goatman"
+  - username: "bramalea.rd"
     fullname: >-
-      Billie bop
+      Bramalea Rd
+    bio: >-
+      🅱️🛣 Instagram: @bramalea.rd Twitter: BramaleaRd
     location: "Canada"
-    followers: 37043
-    engagement: 1123
-    commentsToLikes: 0.291312
-    id: cka6qkux0o0y40i78sj5nt4ia
+    followers: 27200
+    engagement: 564
+    commentsToLikes: 0.023590
+    id: ckbwl7v1z40ox0j23q41yr2z7
     verified: false
-    hashtags: "#homeless, #lebanon, #toronto, #tiktokreference"
-  - username: "angelopace456"
+    hashtags: "#viral, #brown, #surrey, #comedy"
+  - username: "sashanicolerose"
     fullname: >-
-      ang.....pace
+      SashaNicoleRose
+    bio: >-
+      It’s ok, I was weird before this IG: sashanicolerose Live at 10k Made in 🇨🇦
     location: "Canada"
-    followers: 3002
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: cka8e6hkcvzgh0i78do9u291u
+    followers: 6120
+    engagement: 764
+    commentsToLikes: 0.083751
+    id: cka69jz7ysry40i78fuik2de9
     verified: false
-    hashtags: "#celebratenurses, #cops, #sidehustle, #promdiy"
-  - username: "dalescomedy"
-    fullname: >-
-      Dale Ward
-    location: "Canada"
-    followers: 10599
-    engagement: 1127
-    commentsToLikes: 0.146748
-    id: ckahyj8plzkhj0i7833fnclib
-    verified: false
-    hashtags: "#rammsteinfan, #life, #work, #homeroutine"
+    hashtags: "#art, #canadianartist, #over30, #lipsync"
 ---

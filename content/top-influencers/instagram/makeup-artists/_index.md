@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Artists Instagram Influencers In 2020
 description: >-
-  Find top makeup artists Instagram influencers in 2020. Most popular hashtags: # #rozdanie #makeupgiveaway #makeuppoland.
+  Find top makeup artists Instagram influencers in 2020. Most popular hashtags: #makeup #makeupaddict #anastasiabeverlyhills #plouisebase.
 platform: Instagram
+hits: 4087
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 4087 Instagram influencers like this for you to pitch.
 profiles:
   - username: "jewska.makeup"
     fullname: >-
       Jewska Makeup
+    bio: >-
+      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
     location: "Poland"
-    followers: 4096
-    engagement: 3129
-    commentsToLikes: 0.183269
+    followers: 3950
+    engagement: 3277
+    commentsToLikes: 0.219874
     id: ck5qdwruaxnx10i113sbecb9m
     verified: false
-    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
-  - username: "jennseren"
+    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
+  - username: "la_sussi_"
     fullname: >-
-      Jen Seren
-    location: "United Kingdom"
-    followers: 17585
-    engagement: 2441
-    commentsToLikes: 0.113329
-    id: ck6uai1xi3o4s0j71tijk15jw
-    verified: false
-    hashtags: "#tattooshop, #dropit, #zodiacmakeup, #tattoos"
-  - username: "paradisedapree"
-    fullname: >-
-      Paradise Dapree
-    location: "United States"
-    followers: 9340
-    engagement: 1841
-    commentsToLikes: 0.114620
-    id: ck9hadynic6tu0j78xt018iuo
+      Gonzalo Gervilla Limon
+    bio: >-
+      🔥MakeUp Artist🔥
+    location: "Spain"
+    followers: 3254
+    engagement: 3140
+    commentsToLikes: 0.141739
+    id: ck6tqxe2pv7yo0j711l48gtma
     verified: false
     hashtags: ""
-  - username: "ixchel_agz"
+  - username: "yasssmachado"
     fullname: >-
-      Ixchel Aguilar ©
-    location: "Mexico"
-    followers: 9626
-    engagement: 1810
-    commentsToLikes: 0.080837
-    id: ck135on8e2gkb0i19d784fdtm
-    verified: false
-    hashtags: "#brandedlookus, #grinch, #melloncolor, #makeupvideo"
-  - username: "makeupbymcruz"
-    fullname: >-
-      Mariana Cruz🌙
-    location: ""
-    followers: 8793
-    engagement: 1799
-    commentsToLikes: 0.076194
-    id: ck8tce5koz5ww0j78w4tgeogz
-    verified: false
-    hashtags: "#fitme, #italiadeluxe, #cuarentena, #makeupclass"
-  - username: "imholsxo"
-    fullname: >-
-      HOLLY DUNN
-    location: ""
-    followers: 13072
-    engagement: 1775
-    commentsToLikes: 0.078202
-    id: ckaowgve88vra0i789o58n8yt
-    verified: false
-    hashtags: "#lookfantastic, #shrine, #norvinavol4, #maccosmetics"
-  - username: "aoife.cullen"
-    fullname: >-
-      Aoife Cullen 👽
-    location: "United Kingdom"
-    followers: 5643
-    engagement: 1720
-    commentsToLikes: 0.095714
-    id: ck55jyv4uy3960i115dx9lh8t
-    verified: false
-    hashtags: ""
-  - username: "darlensp"
-    fullname: >-
-      D A R L E N S O U S A ✨
+      𝔜𝔞𝔰𝔪𝔦𝔫 𝔐𝔞𝔠𝔥𝔞𝔡𝔬
+    bio: >-
+      • Makeup Artist | Metal | Geek ✨ • 071 📍 • 📧 yasmindahoraa@gmail.com
     location: "Brazil"
-    followers: 8006
-    engagement: 1654
-    commentsToLikes: 0.074984
-    id: ck9wfmainph800j78ucxs7ezv
+    followers: 5287
+    engagement: 2931
+    commentsToLikes: 0.131081
+    id: ck8t87w5zje0t0j78usiprw3o
     verified: false
-    hashtags: "#cachoscoloridos, #cachosbra, #youtube, #barbiechallenge"
+    hashtags: "#blackmetalgirl, #halloweenmakeup, #gothgirl, #makeuplook"
+  - username: "antoniyayaneva"
+    fullname: >-
+      
+    bio: >-
+      🌴Aloha👋😬 💌 DM for collabs 🧬Medical University Sofia 🖌Certified Makeup artist @angelbeautybulgaria
+    location: ""
+    followers: 5018
+    engagement: 2589
+    commentsToLikes: 0.316132
+    id: ckaots5cnx9ec0i78lj5knm8b
+    verified: false
+    hashtags: "#followmyself, #fashiondays, #fashiondaysbg, #littleblackdresses"
+  - username: "mr.andre.fernandes"
+    fullname: >-
+      André 🎨
+    bio: >-
+      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
+    location: "Portugal"
+    followers: 10137
+    engagement: 2558
+    commentsToLikes: 0.903432
+    id: ck8tduw344uvg0j78zgfznyqt
+    verified: false
+    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
+  - username: "mrsmlw_"
+    fullname: >-
+      𝐎̈ 𝐙 𝐆 𝐄  ♥
+    bio: >-
+      Mommy of three ❥ #zwillingsmama // pro makeup artist @mrsmlwcosmetics // wifey to @maroquinox ✨🤲🏻
+    location: "Germany"
+    followers: 2397
+    engagement: 2453
+    commentsToLikes: 0.152220
+    id: ckaos4627q0200i789z5s6xac
+    verified: false
+    hashtags: "#liebe, #mamablogger, #girls, #mamaleben"
   - username: "sbenayas"
     fullname: >-
       Sara Benayas
+    bio: >-
+      Pro Makeup Artist sarabenayas1@gmail.com 📍Madrid
     location: "Spain"
-    followers: 6682
-    engagement: 1501
-    commentsToLikes: 0.083337
+    followers: 12268
+    engagement: 2128
+    commentsToLikes: 0.085906
     id: ck5hj6usxg40z0i112p7exbb0
     verified: false
-    hashtags: ""
-  - username: "slaybyestell"
+    hashtags: "#holidaychallenge, #charlottetilbury, #maquizombie2020, #yesiamfabulous"
+  - username: "arnogill"
     fullname: >-
-      Pati (16.2k)
+      A R N O   G I L L
+    bio: >-
+      🦩 Makeup Artist. Fuck gender rules 🇵🇱 Poland/Bydgoszcz/Warszawa 🥇 NYX makeup influencer academy Winner 2019 ☠️ 19 years old
     location: "Poland"
-    followers: 17255
-    engagement: 1433
-    commentsToLikes: 0.099077
-    id: ck5bxe2lpnjon0i1192ub978d
+    followers: 13725
+    engagement: 1872
+    commentsToLikes: 0.107262
+    id: ck6tuuvdvik3x0j71y4fuilfg
     verified: false
-    hashtags: "#pixibeauty, #lancome, #guerlain, #instabeauty"
+    hashtags: "#thelist, #boldmakeup, #blendtherules, #glamfam"
+  - username: "missxsavic"
+    fullname: >-
+      𝙈𝙄𝙇𝙄𝘾𝘼 𝙎𝘼𝙑𝙄𝘾
+    bio: >-
+      MAKEUP ARTIST Content creator 📍🇷🇸 💌Contact/PR: geosa.m.93@gmail.com 💄Clients work @makeupbymilicasavic
+    location: "France"
+    followers: 16747
+    engagement: 1351
+    commentsToLikes: 0.230789
+    id: ck5ca9u18czue0i11ycpnwin3
+    verified: false
+    hashtags: "#wakeupandmakeup, #morphebabe, #toofaced, #plouisebase"
+  - username: "karinporavne"
+    fullname: >-
+      MAKEUP & LASH FILLER 🤍
+    bio: >-
+      • Makeup artist | Bridal & beauty •Certified by @makeupbymario @belamakeuplada @ana.minic • Lash filler by @inlei_italy 📍Ljubljana, Slovenia
+    location: "Indonesia"
+    followers: 14913
+    engagement: 1327
+    commentsToLikes: 0.090320
+    id: ck6tuqz0uhwdy0j71pn10zbsd
+    verified: false
+    hashtags: "#lashfiller, #ad, #muabykarin, #nudestix"
 ---

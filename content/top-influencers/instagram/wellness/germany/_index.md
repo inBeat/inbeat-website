@@ -1,42 +1,101 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Germany In 2020
 description: >-
-  Find top wellness Instagram influencers in Germany in 2020. Most popular hashtags: #happyeaster #nature #wellness #froheostern.
+  Find top wellness Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #corona #fashionblogger #ootd.
 platform: Instagram
+hits: 292
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 292 Instagram influencers like this in Germany for you to work with.
 profiles:
   - username: "anna_sieanna"
     fullname: >-
       Anna | fitness & fashion
+    bio: >-
+      🌟 Fitness- & Wellnesscoach (A-Lizenz) 💕 fitness, running, living 📍 NRW 🇩🇪 👫 🥰 tea-junkie, cats @ragdoll_liebe 💯@swedish_fall 20% : anna_sieannaSFS
     location: "Germany"
-    followers: 3733
-    engagement: 2177
-    commentsToLikes: 0.078397
+    followers: 3301
+    engagement: 2422
+    commentsToLikes: 0.080024
     id: ck8tb6sy3uj0g0j787piwh8bl
     verified: false
-    hashtags: "#sportklamotten, #strongissexy, #girlpower, #fitnessgirl"
+    hashtags: "#laufenmachtgl, #motivation, #fitnessblogger, #homeoffice"
+  - username: "endlesslara"
+    fullname: >-
+      LARA-JASMIN ♡
+    bio: >-
+      ☽ good things take time » lifestyle, inspiration, wellnesslover, oily life ☾ choose your products like your people: non-toxic @endlessentials
+    location: "Germany"
+    followers: 16553
+    engagement: 123
+    commentsToLikes: 0.095499
+    id: ck0u2e0y4zlz70i19mh4bdyfk
+    verified: false
+    hashtags: "#photooftheday, #fallfashion, #happiness, #outfitpost"
+  - username: "yeahitsmanu"
+    fullname: >-
+      Manuel K.
+    bio: >-
+      Fitness | Frankfurt 📍 @elements_fitness_wellness @pure_training_official @gq_germany Impressum in den Highlights👇🏼
+    location: "Germany"
+    followers: 16960
+    engagement: 359
+    commentsToLikes: 0.079980
+    id: ck6uc4uasdira0j71aj56im0u
+    verified: false
+    hashtags: "#mensfitness, #gymlife, #elementsfitness, #suits"
+  - username: "tzwiesnmadl"
+    fullname: >-
+      tz Homestories 2020
+    bio: >-
+      Dieses Jahr winken fantastische Preise vom smart Center München, dem 5-Sterne Wellnesshotel Jagdhof sowie Gutscheine für das VITALIA Reformhaus.
+    location: "Germany"
+    followers: 17093
+    engagement: 656
+    commentsToLikes: 0.016501
+    id: ck6txxfb70eok0j71x2ijha0l
+    verified: true
+    hashtags: "#dirndlliebe, #tzwiesnhomestories, #donnerstag, #oktober"
   - username: "honey_fit_l"
     fullname: >-
       honey_fit
+    bio: >-
+      🌍 8th place World championship wellness fitness 🇨🇿 CZ Prague 💊 Extrifit nutrition
     location: "Germany"
-    followers: 25809
-    engagement: 424
-    commentsToLikes: 0.007439
+    followers: 24805
+    engagement: 285
+    commentsToLikes: 0.008851
     id: ck5zo7p0bpy3n0i14m2h6d9za
     verified: false
-    hashtags: "#workout, #morning, #gymgirls, #nature"
+    hashtags: "#banskabystrica, #loveit, #extrifitgirl, #trip"
+  - username: "grace_jorest"
+    fullname: >-
+      GRACE JOREST | FITNESS COACH
+    bio: >-
+      ☘️Yogi | Fitness | Wellness Coach 💫Co-Owner & Trainer at @rocky_mma__ ❄️Shop my fitness Fav @olidas_by_grace ❤️Ginavo @alexfong520
+    location: "Germany"
+    followers: 27124
+    engagement: 408
+    commentsToLikes: 0.013443
+    id: ck9wej12ykhm90j78ndebf5pb
+    verified: false
+    hashtags: "#yogapractice, #yogahealing, #tanakdusuntotopot, #yogabodywork"
   - username: "steko_s"
     fullname: >-
       Boxen | Kickboxen | Thaiboxen
+    bio: >-
+      Official Account of Steko's Professional Trainers and Promoters 🥊Boxing 🥊Kickboxing 🥊Thaiboxing 🥊Fitness & Wellness Follow #stekos #stekosfightnight
     location: "Germany"
-    followers: 34268
-    engagement: 175
-    commentsToLikes: 0.034870
+    followers: 33935
+    engagement: 165
+    commentsToLikes: 0.031458
     id: ck0tz9yg1pokl0i19vcpn9oby
     verified: true
-    hashtags: "#kids, #powerlifting, #sebastianpreuss, #stekosgirl"
+    hashtags: "#picoftheday, #gym, #training, #kickboxing"
   - username: "karateandi183"
     fullname: >-
       
+    bio: >-
+      Wellness Tour Tickets:
     location: "Germany"
     followers: 65792
     engagement: 681
@@ -44,64 +103,28 @@ profiles:
     id: ck5hqr7d6tkwp0i119q6363m0
     verified: true
     hashtags: "#erstmaldiebasicsmachen"
-  - username: "kaylagordine"
+  - username: "saffiesaffie"
     fullname: >-
-      Kayla Atkins-Gordine
+      Saffie Ng 吳慧心🦋
+    bio: >-
+      🇭🇰Adidas Yoga Coach🧘🏻‍♀️Nutrition Health Coach🎯 Fitness trainer MindfulCooking🌿WellnessTravel #ptsaffie #yogisaffie #saffiediet
     location: "Germany"
-    followers: 14988
-    engagement: 492
-    commentsToLikes: 0.019739
-    id: ck6txjgfsy68f0j71bzi4d7fa
+    followers: 45478
+    engagement: 151
+    commentsToLikes: 0.018735
+    id: ck6u38bftwbk80j712d5zkjqq
     verified: false
-    hashtags: "#hallelujah, #wewillrememberthem, #dynamic, #flow"
+    hashtags: "#yummy, #wellness, #staypositive, #nutrition"
   - username: "sonnenalp_annamaria_faessler"
     fullname: >-
       Sonnenalp_Anna-Maria-Faessler
+    bio: >-
+      Nur schöne Dinge: Hotel. Wellness. Shopping. Kulinarik. Wohnen. Fashion. Lifestyle. Wein. Berge...
     location: "Germany"
     followers: 2570
     engagement: 963
     commentsToLikes: 0.062366
     id: ck55mxgfn518f0i11qjj2jk2n
     verified: false
-    hashtags: "#ordertime, #happy, #urlaub, #fashionable"
-  - username: "_sicht_weise"
-    fullname: >-
-      Kathrin | 📍Augsburg
-    location: "Germany"
-    followers: 11183
-    engagement: 1374
-    commentsToLikes: 0.085945
-    id: ck0tvvcizcy860i193wvocbnr
-    verified: false
-    hashtags: "#easter, #tapering, #happyplace, #weightloss"
-  - username: "schlueter__"
-    fullname: >-
-      Schlüter
-    location: "Germany"
-    followers: 11368
-    engagement: 2382
-    commentsToLikes: 0.271999
-    id: ck0tza5aspphc0i19gzn6742a
-    verified: false
-    hashtags: "#krohn, #bleibenzuhause, #hafen, #yachthafen"
-  - username: "mrs.juulia"
-    fullname: >-
-      BEAUTY I LIFESTYLE I INSPO
-    location: "Germany"
-    followers: 42918
-    engagement: 605
-    commentsToLikes: 0.069278
-    id: ck0u0q7a2uk920i192hd6x938
-    verified: false
-    hashtags: "#skincareproduct, #fieldofflowers, #bohovibes, #lockenohnehitze"
-  - username: "m.ii.c.h.e.ll.e"
-    fullname: >-
-      𝑀𝒾𝒸𝒽𝑒𝓁𝓁𝑒
-    location: "Germany"
-    followers: 38822
-    engagement: 601
-    commentsToLikes: 0.096060
-    id: ckaoy0sdcfl390i787lf9rxp6
-    verified: false
-    hashtags: "#froheostern, #diva, #beauty, #ipad"
+    hashtags: "#luxushotel, #fashionblogger, #accessories, #durchdickundd"
 ---

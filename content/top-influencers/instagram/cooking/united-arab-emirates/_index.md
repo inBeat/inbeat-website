@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top cooking Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubailife #ramadan #eidmubarak #easyrecipes.
+  Find top cooking Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #foodstagram #foodphotography #foodie #foodporn.
 platform: Instagram
+hits: 93
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 93 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
+  - username: "yingkmcn"
+    fullname: >-
+      Kamonchanok Chaothasai
+    bio: >-
+      Emirates✈ Le Cordon Bleu.DTC16 | Eng-Jap.SWB04 Traveler | Food lover | Cooking | Baking♡ @kruakhunkamon
+    location: "United Arab Emirates"
+    followers: 20449
+    engagement: 357
+    commentsToLikes: 0.014610
+    id: ckaotixjiw3xo0i78078dlk12
+    verified: false
+    hashtags: "#dubai, #emiratescabincrew, #chaovsfood, #emirates"
   - username: "joyfulhomecooking"
     fullname: >-
-      Joyce Mrad
+      Joyce Nicolas Mrad
+    bio: >-
+      👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
     location: "United Arab Emirates"
-    followers: 37206
-    engagement: 347
-    commentsToLikes: 0.090932
+    followers: 56330
+    engagement: 411
+    commentsToLikes: 0.298926
     id: ck138wefhicbv0i19f898cdo1
     verified: false
-    hashtags: "#copycatrecipes, #instagood, #veganeats, #veganrecipe"
+    hashtags: "#instasweets, #bakersofinstagram, #justdesserts, #veganinspo"
   - username: "afsheenowais"
     fullname: >-
       Blessed with the Best Mommy
+    bio: >-
+      #sweettreatsbyafsheen 🔹Mommy Life with2️⃣munchkins👨‍👩‍👧‍👦 🔹Easy cooking tutorials 🔹Chai is Life☕️ 🔹Food|Lifestyle|Photography📸 📍UAE🇦🇪/PAK🇵🇰/Aus🇦🇺
     location: "United Arab Emirates"
-    followers: 29871
-    engagement: 484
-    commentsToLikes: 0.179016
+    followers: 31839
+    engagement: 435
+    commentsToLikes: 0.166532
     id: ck5pw3wplkz1b0i11xno2l07p
     verified: false
-    hashtags: "#pepperchallenge, #bakingbasics, #iftarspecial, #2020"
+    hashtags: "#pakistanifoodblogger, #pakistanibloggers, #homecookingmadeeasy, #dubaiblogger"
   - username: "rolakitchen.uae"
     fullname: >-
       Rola’s Kitchen
+    bio: >-
+      🍽Cooking Artist 📸Food Photographer Passion is the way to success and love is the secret of flavor.
     location: "United Arab Emirates"
     followers: 8670
     engagement: 445
     commentsToLikes: 0.237946
     id: ck9wggt86tcnt0j78p90exchv
     verified: false
-    hashtags: "#soups, #recipe, #healthyfood, #ramadan"
+    hashtags: "#recipes, #foodbloggers, #foodnetwork, #foodporn"
+  - username: "lama_gharaibeh"
+    fullname: >-
+      Lama F Gharaibeh
+    bio: >-
+      I find joy in cooking and baking, turning every meal with family and friends into a celebration 🎊! Mumzworld discount code (LamaG10)❤️
+    location: "United Arab Emirates"
+    followers: 17168
+    engagement: 382
+    commentsToLikes: 0.250161
+    id: ck5hrufivvhzo0i11rl3ujv6r
+    verified: false
+    hashtags: "#beautifulcuisines, #dubaifood, #goodfood, #uaefoodbloggers"
+  - username: "clairesharrynroberto"
+    fullname: >-
+      PLANT-BASED ⋆ Vegan Chef
+    bio: >-
+      recipe + food design + consultant⠀ top 100 vegan influencer 2020 🏆⠀ certified nutrition coach⠀ ayurveda⠀ #cookingwithclaire 👇⠀ dubai-cape town-paris
+    location: "United Arab Emirates"
+    followers: 20852
+    engagement: 252
+    commentsToLikes: 0.058285
+    id: ck6tuzgzdjb7u0j718zu46nk3
+    verified: false
+    hashtags: "#plantbasedlifestyle, #plantbasedchefdubai, #plantbasednutrition, #refinedsugarfree"
   - username: "bongfusion_indian_fooduae"
     fullname: >-
-      Fusion_Indianfoodie_UAE
+      tulika_bengalifood_uae
+    bio: >-
+      Fusion cooking, Bengali traditional food ❌NO REPOST WITHOUT PERMISSION
     location: "United Arab Emirates"
-    followers: 22425
-    engagement: 661
-    commentsToLikes: 0.039843
+    followers: 27927
+    engagement: 313
+    commentsToLikes: 0.057399
     id: ck8t7v8p5i2wh0j78p1awm6nz
     verified: false
-    hashtags: "#chickencurry, #spicyramen, #sodelhi, #dubailife"
+    hashtags: "#indianflavours, #dubaieats, #uaefoodlovers, #momchef"
   - username: "diya.nair.14"
     fullname: >-
       Diya Nair
+    bio: >-
+      🔖Find myown way to happiness 👩🏼‍🍳✈️📷🎞💃🏻 📍From Gods on country 🇮🇳 to Uae 🇦🇪 ❣️Working .. Cooking .. Traveling .. Dancing ad click click 📷🤗🤗 turns me on
     location: "United Arab Emirates"
     followers: 5554
     engagement: 779
     commentsToLikes: 0.220631
     id: ckaosarccqvzu0i7864h685if
     verified: false
-    hashtags: "#mangoicecream, #healthydrinks, #homechefs, #worldfoodday"
-  - username: "bossgirlpriya1792"
+    hashtags: "#malabarfoodies, #recipeoftheday, #foodiesofinsta, #homechef"
+  - username: "cookingwithralph"
     fullname: >-
-      Queen of Jet lags 🛫🇮🇳🇦🇪
+      UAE Licensed Blogger - Ralph
+    bio: >-
+      Food Blogger PN1 Certified Restaurants Review Invites/Collabs: admin@cookingwithralph.com Zomato @cookingwithralph Dubai, U.A.E.
     location: "United Arab Emirates"
-    followers: 24822
-    engagement: 386
-    commentsToLikes: 0.109225
-    id: ck9webz5qjm2c0j784c8117oi
+    followers: 17861
+    engagement: 320
+    commentsToLikes: 0.003501
+    id: ckf5nufsszq450j23yrgr1jov
     verified: false
-    hashtags: "#foodblogging, #etihadcrew, #flowerlove, #fridgesituation"
-  - username: "zainabmsadiq"
+    hashtags: "#foodgasm, #foodporn, #food, #foodblogger"
+  - username: "paul_estorffe"
     fullname: >-
-      zainab
+      Paul Estorffe
+    bio: >-
+      Brand Ambassador Château St. Thomas, Lebanese winery 🇱🇧 Communications Director - “No Fusion, No Twists, just real food” 🇬🇧👨🏼‍🍳🎂👨🏼‍🍳🇬🇧
     location: "United Arab Emirates"
-    followers: 54024
-    engagement: 684
-    commentsToLikes: 0.027101
-    id: ck0vxg4s8yq6z0i19ecfikicp
+    followers: 6723
+    engagement: 854
+    commentsToLikes: 0.219752
+    id: ck15rjqxy89e90i19gtpli1oo
     verified: false
-    hashtags: "#recipevideo, #quarantineootd, #ramadandecor, #foodofpakistan"
-  - username: "karolyammine"
-    fullname: >-
-      Karol Yammine  كارول يميّن
-    location: "United Arab Emirates"
-    followers: 80008
-    engagement: 472
-    commentsToLikes: 0.648848
-    id: ck6uf496but030j71qffezhcx
-    verified: false
-    hashtags: "#hubby, #ss20, #tiktok, #quarentine"
-  - username: "amysworld.tv"
-    fullname: >-
-      Amy Kitchingman
-    location: "United Arab Emirates"
-    followers: 39177
-    engagement: 428
-    commentsToLikes: 0.021526
-    id: ck5zzdo22bjiu0i14yhbx5j5v
-    verified: false
-    hashtags: "#emcee, #presenter, #foodshalakids, #ramadan"
-  - username: "bonjoursunset"
-    fullname: >-
-      Emma | Dubai 🛫🌍☀️🌅
-    location: "United Arab Emirates"
-    followers: 6745
-    engagement: 540
-    commentsToLikes: 0.063198
-    id: ck6ub3kws79ff0j716tqo7ypd
-    verified: false
-    hashtags: "#beachlife, #womentravelers, #casualaf, #uaeblogger"
+    hashtags: "#family, #deliciousfood, #igdaily, #liveauthentic"
 ---

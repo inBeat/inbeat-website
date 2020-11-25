@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Miami In 2020
 description: >-
-  Find top makeup Instagram influencers in Miami in 2020. Most popular hashtags: #miami #makeup #love #wynwood.
+  Find top makeup Instagram influencers in Miami in 2020. Most popular hashtags: #miami #makeup #model #miamibeach.
 platform: Instagram
+hits: 418
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 418 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "realcocoahontaz"
+  - username: "karenhuggins_blog"
     fullname: >-
-      MOST HATED COCOA 🇵🇷🇩🇴
+      Karen Huggins -Fashion Blogger
+    bio: >-
+      🤓 Woman in tech traveling around the 🌎 with style 💄👜👠 Fashion + Travel + Lifestyle 📍Miami ➡️ 🇻🇪 Citizen of the 🌎
     location: "United States"
-    followers: 35172
-    engagement: 336
-    commentsToLikes: 0.043451
-    id: ck13d138634pk0i195umvybcu
+    followers: 107230
+    engagement: 89
+    commentsToLikes: 0.135283
+    id: ck55jzeo4y4gg0i111lu1niru
     verified: false
-    hashtags: "#natural, #models, #stayhome, #twerk"
-  - username: "yohanarangelmua"
+    hashtags: "#floridablogger, #miamiblogger, #miamiinfluencer, #luxuryblogger"
+  - username: "shawnaedwards_"
     fullname: >-
-      By Yoha Rangel  @yberangelp
+      Shawna Edwards
+    bio: >-
+      I TELL YOU WHO I AM B.S. Program Director/ Model / Creator ✈️👑🌴🎬 Non Profit • KeyHavenFamilies Tik Tok: Shawnaedwards_ 📍Florida
     location: "United States"
-    followers: 36678
-    engagement: 216
-    commentsToLikes: 0.034612
-    id: ck5hjhhdpgmzu0i112gdhmcm1
+    followers: 20579
+    engagement: 301
+    commentsToLikes: 0.066895
+    id: ck0u6nekb2j1c0i19964xd7p0
     verified: false
-    hashtags: "#wetnwildbeauty, #run, #quayaustralia, #onlineclasses"
-  - username: "michaelwilliampaul"
+    hashtags: "#tyrabanks, #influencer, #curly, #makeup"
+  - username: "torianicholexoxo"
     fullname: >-
-      Michael William-Paul
+      Official IG of Toria Nichole💋
+    bio: >-
+      Remember my name, its relevant to the future. Xo MISS UNIVERSE BAHAMAS 15'🇧🇸 Designer Affirmation 📝 Traveler✨ Gryffindor 🦁 Foodie 🍲 ♋️ AMAZONIAN 📍MIA
     location: "United States"
-    followers: 52448
-    engagement: 557
-    commentsToLikes: 0.030306
-    id: ck0tudw366rqp0i19c64j78s9
-    verified: false
-    hashtags: "#host, #gallery, #years, #happyhalloween"
-  - username: "eva__bauch"
+    followers: 38195
+    engagement: 452
+    commentsToLikes: 0.011766
+    id: ck6ucsc77h9kh0j71szig05ek
+    verified: true
+    hashtags: "#coffee, #skin, #foodie, #blackgirlmagic"
+  - username: "andrewcarterbeauty"
     fullname: >-
-      Eva Bauch
+      Andrew Carter - Beauty
+    bio: >-
+      Celeb Makeup Artist & Hairstylist Beauty Photographer 14 + years experience Cosmetics Owner & CEO #mua #fortlauderdale #extensions #glam #miami
     location: "United States"
-    followers: 24616
-    engagement: 511
-    commentsToLikes: 0.034983
-    id: ck55lz3ya2t710i116r21plgn
+    followers: 38035
+    engagement: 179
+    commentsToLikes: 0.020901
+    id: ck5q225wldwox0i11itad848q
     verified: false
-    hashtags: "#hollywood, #dance, #miamigogos, #powerofnature"
-  - username: "shirleydadiva_ffaceit"
+    hashtags: "#businessheadshots, #andrewcarterbeautylashes, #sunnyisles, #greeneyes"
+  - username: "nataliiamakeupartist"
     fullname: >-
-      Miami Makeup Artist 💄💋🎨
+      Nataliia Nosokas
+    bio: >-
+      💄Makeup artist& Hair Styles 📸Headshot & Portrait Photography 📍Miami
     location: "United States"
-    followers: 30518
-    engagement: 288
-    commentsToLikes: 0.023175
-    id: ck55mz4lj551l0i11fslxhn0x
+    followers: 16885
+    engagement: 155
+    commentsToLikes: 0.337239
+    id: ck14kyxbps0yi0i19qxl5xwsi
     verified: false
-    hashtags: "#cartelcrew, #miamiartist, #superbowl2020, #nosharam"
-  - username: "crystalcadahia"
+    hashtags: "#miamimodel, #muausa, #makeupmiami, #makeupflorida"
+  - username: "sylvannatoledo"
     fullname: >-
-      Crystal Cadahia
+      Sylvanna Toledo
+    bio: >-
+      Guatemala 🇬🇹 🏃🏼‍♀️ ▪️PR Marathon 2:55 ▪️PR HM 1:22
     location: "United States"
-    followers: 60002
-    engagement: 117
-    commentsToLikes: 0.059428
-    id: ck6tiyglf1o6z0j71ytgegdmm
+    followers: 22231
+    engagement: 1265
+    commentsToLikes: 0.032820
+    id: ck8syminvl9w70j781t5iyo36
     verified: false
-    hashtags: "#loveyoufroggy, #latepost, #birthdaygirl, #pembrokepines"
-  - username: "adrimakesyoublush"
+    hashtags: "#abs, #morningrunofficial, #run, #nike"
+  - username: "alejandroleech"
     fullname: >-
-      ♡
+      Alejandro Lee
+    bio: >-
+      #miami
     location: "United States"
-    followers: 16882
-    engagement: 556
-    commentsToLikes: 0.017507
-    id: ck6tygd603kgw0j71737m98dx
+    followers: 31233
+    engagement: 208
+    commentsToLikes: 0.031819
+    id: ck5znh2fsog840i14fno4gwn9
     verified: false
-    hashtags: ""
-  - username: "miguelangelfashionlook"
+    hashtags: "#miami, #makeupbymario, #makeup, #miamiphotography"
+  - username: "alinakozyrka"
     fullname: >-
-      Miguelángel Garcia
+      Alina Kozyrka
+    bio: >-
+      International Model from Ukraine Currently in Miami 🙀 Agencies below 🇺🇦@sharm_mmg 🇺🇸@suprememgmt @thesyndical 🇫🇷@marilynagencyparis
     location: "United States"
-    followers: 23182
-    engagement: 170
-    commentsToLikes: 0.078284
-    id: ck5hcq117jdco0i110p9eqdrz
+    followers: 30720
+    engagement: 217
+    commentsToLikes: 0.024447
+    id: ck0vz6who7m1t0i19d5sp8fgr
     verified: false
-    hashtags: "#todovaasalirbien, #mequedoencasa, #challengeaccepted, #distanciamientosocial"
-  - username: "naomi.thalia"
+    hashtags: "#styleinspo, #bob, #blackandwhitephotography, #girls"
+  - username: "bianca_alexandraaa"
     fullname: >-
-      NAOMI ROMERO👸🏻🇨🇺🇺🇸
+      Baby Powder
+    bio: >-
+      Be the change you want to see in the world Collab- biancaoficialalexandra@yahoo.com
     location: "United States"
-    followers: 19107
-    engagement: 696
-    commentsToLikes: 0.064283
-    id: ck5zlytpmllzx0i14yo4q56z7
+    followers: 75970
+    engagement: 251
+    commentsToLikes: 0.007781
+    id: ck6u8pof3sxnh0j715xpd483r
     verified: false
-    hashtags: "#looks, #florida, #focus, #picoftheday"
-  - username: "camihermann"
+    hashtags: "#pretty, #lincolnroad, #fashionstyle, #summervibes"
+  - username: "cesciwest"
     fullname: >-
-      Camila Hermann D.
+      Cescilia West🍍
+    bio: >-
+      Venezuelan 🇻🇪 in Chicago Foodlover/ Selfcare&Fashion/Photos📷❣️ Travel&Places 🗺 ➡️ @cescirecipes 🥞 💖
     location: "United States"
-    followers: 2920
-    engagement: 2220
-    commentsToLikes: 0.042360
-    id: ck5hs5itmw0x70i11nshu6qm4
+    followers: 8467
+    engagement: 560
+    commentsToLikes: 0.040133
+    id: ck6tskjvt5a7z0j71mwn8w7p5
     verified: false
-    hashtags: "#travelphotography, #safari, #ecuador, #disneyland"
+    hashtags: "#portrait, #chitown, #style, #neworleans"
 ---

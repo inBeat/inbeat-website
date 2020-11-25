@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters TikTok Influencers In Brazil In 2020
 description: >-
-  Find top painters TikTok influencers in Brazil in 2020. Most popular hashtags: #musica #pravoce #deus #foryoupage.
+  Find top painters TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
+hits: 47
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 47 TikTok influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "inacio.dani"
+  - username: "leoselfee"
     fullname: >-
-      𝐸𝑙𝑖 𓂀 𝐷𝑎𝑛𝑖
+      selfee
+    bio: >-
+      IG: @leoselfee
     location: "Brazil"
-    followers: 8700
-    engagement: 2231
-    commentsToLikes: 0.014199
-    id: ckaiitytrc4d80i78wr5727zx
+    followers: 7353
+    engagement: 2770
+    commentsToLikes: 0.036912
+    id: ckdckho0hmiid0j23cecq7bdl
     verified: false
-    hashtags: "#dueto, #music, #juno, #scar"
-  - username: "fabianomillani"
+    hashtags: "#nct, #exoweareone, #theboyzcomeback, #kpopers"
+  - username: "jessy.mngl"
     fullname: >-
-      Fabiano Millani
+      Dj azeitona amassa 😼😼😼
+    bio: >-
+      EAT THE RICH pärâ dė fªlär q tū eh mïnhå nämørrrr 😡 💖💛💙
     location: "Brazil"
-    followers: 38551
-    engagement: 863
-    commentsToLikes: 0.017431
-    id: ck9nfpbm7enpy0j786mnmstiy
+    followers: 11100
+    engagement: 1904
+    commentsToLikes: 0.055740
+    id: ckd5vwjv8zl8j0j23a4twomeq
     verified: false
-    hashtags: "#drawtutorial, #artprocess, #giseleb, #foryou"
-  - username: "italodurval"
+    hashtags: "#alt, #alttiktok, #otakugirl, #otaku"
+  - username: "az_and_jolie"
     fullname: >-
-      Italo Durval
+      ♡𝕄𝕒𝕗𝕖̂ 𝕖 𝕄𝕖𝕘𝕘𝕚𝕖♡
+    bio: >-
+      🍁Meggie e Zoe🍁 🐾maltês e pointer inglês🐾 ✨sonho:600k✨ 🌻dona:Mafê🌻
     location: "Brazil"
-    followers: 45504
-    engagement: 1091
-    commentsToLikes: 0.030501
-    id: ck8fajrom4fy30j78jygenaq1
+    followers: 573000
+    engagement: 2140
+    commentsToLikes: 0.084570
+    id: ckc8703gj5vwm0j23e8zzsx3x
     verified: false
-    hashtags: "#jovemgospel, #blues, #inimigos, #tiktokbrasil"
-  - username: "robscuit"
+    hashtags: "#foryou, #foryoupage, #doguinhosverificados, #dog"
+  - username: "shyboy_ohh"
     fullname: >-
-      Robson Scuit
+      TonyAwnOwn
+    bio: >-
+      Shyboyzinho Gay ♡ Vc é uma pantera minha conta na twitch ⬇️
     location: "Brazil"
-    followers: 40443
-    engagement: 1564
-    commentsToLikes: 0.015671
-    id: ckaieuqq6ty0j0i78rwmvn31e
+    followers: 806200
+    engagement: 2870
+    commentsToLikes: 0.018927
+    id: ck8sd36ugdxn70j78yct1yvoo
     verified: false
-    hashtags: "#elite, #aronpiper, #sabrina, #lockeandkey"
+    hashtags: "#fy, #fyp, #dueto, #foruyou"
+  - username: "lulis"
+    fullname: >-
+      lulis 💅🏽
+    bio: >-
+      insta: luisacoliveira conta secundária: cluisaoliveira 141K❤️ pinterest ⬇️
+    location: "Brazil"
+    followers: 145900
+    engagement: 2163
+    commentsToLikes: 0.011644
+    id: ck9ep8z5crjd30j78ik6vv9jf
+    verified: false
+    hashtags: "#dueto, #fyp"
+  - username: "vibes_tumblr.com"
+    fullname: >-
+      @𝓥𝓲𝓫𝓮𝓼✨🥀
+    bio: >-
+      🦋🇧🇷🌌 imagens do Pinterest ib: a todos os perfis de lá ❤❤❤❤
+    location: "Brazil"
+    followers: 31100
+    engagement: 1178
+    commentsToLikes: 0.043020
+    id: ckbqq88wfb66n0j23am02pzko
+    verified: false
+    hashtags: "#fyp, #viral, #tradu, #fy"
   - username: "wallpaper_aleatorios"
     fullname: >-
       pior que a desmoneti
+    bio: >-
+      
     location: "Brazil"
-    followers: 27825
-    engagement: 1039
-    commentsToLikes: 0.060937
+    followers: 39100
+    engagement: 992
+    commentsToLikes: 0.058624
     id: cka0fnuj70f1x0i78gg56jli1
     verified: false
-    hashtags: "#deathnote, #demonslayer, #brawlstars, #tokyoghou"
-  - username: "janacollor"
+    hashtags: "#celular, #pinterest, #wallpaper, #seguidores"
+  - username: "filipmelo"
     fullname: >-
-      𝕁 𝔸 ℕ 𝔸
+      Filipe Melo
+    bio: >-
+      fashion content contatofehmelo@gmail.com
     location: "Brazil"
-    followers: 29915
-    engagement: 1108
-    commentsToLikes: 0.010625
-    id: ckaiklomhk25z0i788audk90j
+    followers: 46500
+    engagement: 1364
+    commentsToLikes: 0.018078
+    id: ck9ej9mgz1nf50j78gthisdaq
     verified: false
-    hashtags: "#truquesdebeleza, #photo, #overapp, #instagramstory"
-  - username: "sthephanymell"
+    hashtags: "#vintage, #pinterestchallenge, #style, #lookbook"
+  - username: "italodurval"
     fullname: >-
-      Sthephany Mell
+      Italo Durval
+    bio: >-
+      
     location: "Brazil"
-    followers: 7356
-    engagement: 842
-    commentsToLikes: 0.015728
-    id: ck9a64ph81msd0j78dy6day46
+    followers: 58700
+    engagement: 989
+    commentsToLikes: 0.026563
+    id: ck8fajrom4fy30j78jygenaq1
     verified: false
-    hashtags: "#respeito, #tranquilidade, #reciprocidade, #quarentena"
-  - username: "ericrabelo7"
+    hashtags: "#tik, #comedia, #virus, #com"
+  - username: "isaguliguli"
     fullname: >-
-      Deutschland Rabelo
+      ❤ISADORA❤
+    bio: >-
+      espero que gostem💕 sou a isa 😗✌🏻 amo preto🖤 Amo vcs 3000?
     location: "Brazil"
-    followers: 2353
-    engagement: 236
-    commentsToLikes: 0.018331
-    id: cka6e7wdrasv70i787bfbwptj
+    followers: 2081
+    engagement: 1881
+    commentsToLikes: 0.117578
+    id: ckcvgzltstkuu0j23g2edyoa8
     verified: false
-    hashtags: "#fitebol, #artetiktok, #planeta, #euro"
-  - username: "g_brl"
-    fullname: >-
-      Drink Water
-    location: "Brazil"
-    followers: 4230
-    engagement: 1299
-    commentsToLikes: 0.039676
-    id: ck8vvfukhlnwu0j784h0qgkqo
-    verified: false
-    hashtags: "#react, #slowed, #madagascar, #gabrielcore"
-  - username: "colorfulworldtravel"
-    fullname: >-
-      colorfulworldtravel
-    location: "Brazil"
-    followers: 5429
-    engagement: 97
-    commentsToLikes: 0.082078
-    id: ckacn6hbumly60i78uwy539ti
-    verified: false
-    hashtags: "#thisone, #memorias, #foryourpage, #ghosttown"
+    hashtags: "#fy, #4upage, #fypage, #egril"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Miami In 2020
 description: >-
-  Find top food Instagram influencers in Miami in 2020. Most popular hashtags: #food #miami #miamibeach #lifestyle.
+  Find top food Instagram influencers in Miami in 2020. Most popular hashtags: #miami #food #miamibeach #fitness.
 platform: Instagram
+hits: 206
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 206 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "never_not_eating_"
+  - username: "michelle_vanessaa_"
     fullname: >-
-      Ariella | South Florida Foodie
+      Michelle Vanessa
+    bio: >-
+      Miami🏝TV Host🎤Foodie 🍴 Wanderlust ✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
     location: "United States"
-    followers: 8387
-    engagement: 531
-    commentsToLikes: 0.182122
-    id: ck0twablhelvf0i19j5vjzqdi
+    followers: 33192
+    engagement: 471
+    commentsToLikes: 0.116469
+    id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#sweet, #instayum, #coronavirus, #northmiamibeach"
-  - username: "cmmagic"
+    hashtags: "#novababe, #food, #miami, #health"
+  - username: "paulinaortizj"
     fullname: >-
-      Carl Michael
+      Paulina🦁🇨🇴
+    bio: >-
+      Im 22// Inspire.Educate.Transform ✨ 👩🏼‍⚕️🥑Health Coach @nutritionschool 🥋⭕️JIUJITSU @fightsportsmiami 👩🏼‍🍳♨️I can cook
     location: "United States"
-    followers: 16910
-    engagement: 492
-    commentsToLikes: 0.032814
-    id: ck0tun45r7u090i1993050n95
+    followers: 10298
+    engagement: 500
+    commentsToLikes: 0.030400
+    id: ck5cb0sidei1g0i11xfkaz9h9
     verified: false
-    hashtags: "#ohio, #gocubsgo, #chaseyoung, #weroween"
-  - username: "sarahh_ashleyy__"
-    fullname: >-
-      Sarah Crebbin
-    location: "United States"
-    followers: 4872
-    engagement: 744
-    commentsToLikes: 0.193006
-    id: ck5q1aiyfa2e70i11vjnvga6x
-    verified: false
-    hashtags: "#kytebaby, #birthdaygirl, #events, #17weekspregnant"
-  - username: "judithacuna1"
-    fullname: >-
-      Judith Acuña
-    location: "United States"
-    followers: 5762
-    engagement: 1637
-    commentsToLikes: 0.048921
-    id: ck5zp7dz5s4ql0i14ug8q3kpe
-    verified: false
-    hashtags: "#donjulio1942, #favorite, #black, #happywomenday"
+    hashtags: "#fitness, #getfitgetlit, #fitnessjourney, #bossbabe"
   - username: "patiolefromage"
     fullname: >-
       •Patio Le Fromage•
+    bio: >-
+      
     location: "United States"
     followers: 34329
     engagement: 103
     commentsToLikes: 0.039580
     id: ck6uh2kjq6m5s0j71zjug5pwg
     verified: false
-    hashtags: "#eventplannermiami, #luxurymiami, #catering, #miamibeach"
-  - username: "michelle_vanessaa_"
+    hashtags: "#cheeseboardmiami, #colors, #cheese, #yummy"
+  - username: "sandiego.city"
     fullname: >-
-      Michelle Vanessa
+      Official San Diego Page
+    bio: >-
+      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
     location: "United States"
-    followers: 24712
-    engagement: 772
-    commentsToLikes: 0.063881
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 134159
+    engagement: 200
+    commentsToLikes: 0.016912
+    id: ck5pvukg1jpio0i11o1rgzzx5
     verified: false
-    hashtags: "#godblesseveryone, #norona, #fitness, #miami"
-  - username: "andressgarcia1"
+    hashtags: "#sandiegocomiccon, #socal, #sandiegohairstylist, #sandiegosunset"
+  - username: "gabyquintero17"
     fullname: >-
-      Andres Garcia
+      Gaby Quintero
+    bio: >-
+      Deco Models MIA/NYC @couplegoals ambassador 🌹 💍 @joacomicillo University of Miami 🙌🏻💚🧡
     location: "United States"
-    followers: 17556
-    engagement: 549
-    commentsToLikes: 0.051662
-    id: ck6u1yp0moohb0j71sbzdr9iq
+    followers: 146673
+    engagement: 117
+    commentsToLikes: 0.065456
+    id: ck13587sp06qt0i194gc47w8y
     verified: false
-    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
-  - username: "smallfeetbigeats"
+    hashtags: "#bbq, #miamirestaurants, #braziliansteakhouse, #beef"
+  - username: "breakingmydiet"
     fullname: >-
-      Erin B - South FL Foodie
+      Miami Food | Fat Adventures
+    bio: >-
+      🌞 Based in Miami ✈️ NY, Montréal y mas Eat life to the fullest DM for Collaboration 🙋🏻‍♂️ @lechristiano 🔸 @zipkick 🔸 @bestfoodmiami
     location: "United States"
-    followers: 4083
-    engagement: 1505
-    commentsToLikes: 0.502105
-    id: ck5ceoq95lejt0i11wbsosx7d
+    followers: 3890
+    engagement: 961
+    commentsToLikes: 0.629727
+    id: ck134n7vdx8lo0i19m40bwz6s
     verified: false
-    hashtags: "#happyhourmiami, #paleo, #vegansnacks, #meatless"
-  - username: "adamgoldbergphotography"
+    hashtags: "#delicious, #yum, #yummy, #foodlover"
+  - username: "sly_royal_productions"
     fullname: >-
-      Adam Goldberg
+      Sly Royal Productions Co.™
+    bio: >-
+      DM for inquiries ☝🏾 #LLJ🕊 ▪️Sly Royal Productions Co.▪️ Founder of @freshfood_fast
     location: "United States"
-    followers: 95714
-    engagement: 109
-    commentsToLikes: 0.047303
-    id: ck0u9bagx9g830i19f5t8k866
+    followers: 25409
+    engagement: 8
+    commentsToLikes: 0.020557
+    id: ck5zz1ssgax4r0i148wcwdm8q
     verified: false
-    hashtags: "#moderninteriors, #luxurytraveller, #food, #nightscape"
-  - username: "lifestyleby_olgui"
+    hashtags: ""
+  - username: "ll_fitcouple"
     fullname: >-
-      Olga Del Barrio
+      Laura y Leiser/😀🏖💕🌊
+    bio: >-
+      -Más de 3 años de experiencia💃🏻 -Ayudamos a personas a vivir una mejor vida💕familia,amigos,negocio,estado físico,calidad de tiempo🏝😀 @healthylife.cm
     location: "United States"
-    followers: 39924
-    engagement: 105
-    commentsToLikes: 0.087063
-    id: ck14jw2dsmh990i19ag7csek8
+    followers: 32601
+    engagement: 204
+    commentsToLikes: 0.031651
+    id: ck8wggxk4hc8z0j786f52uvum
     verified: false
-    hashtags: "#frasedeldia, #instafood, #legsworkout, #recetassaludables"
+    hashtags: "#love, #tampa, #pregnant, #jacksonville"
+  - username: "ifbbpro_stevenwain"
+    fullname: >-
+      
+    bio: >-
+      🌐IFBB PRO @the.tn.supplement.co owner @jednorthbodybuilding SWAIN20 20% OFF @blackstonelabs_official STEVEN_WAIN 20% OFF
+    location: "United States"
+    followers: 6642
+    engagement: 407
+    commentsToLikes: 0.051410
+    id: ck5hlbhibjx7a0i111abq45cc
+    verified: false
+    hashtags: "#teamcardone, #deal, #grind, #biceps"
+  - username: "getfitwithcabi"
+    fullname: >-
+      Cabi
+    bio: >-
+      Health & Fitness I have no idea what I’m doing, but it’s working. Let’s do this💪🏼 💗 @yvettesports_official Ambassador | Cabi15
+    location: "United States"
+    followers: 110533
+    engagement: 328
+    commentsToLikes: 0.018536
+    id: ck14jqcrulo0b0i19fetlebo2
+    verified: false
+    hashtags: "#healthyhabits, #blogger, #sidebyside, #scale"
 ---

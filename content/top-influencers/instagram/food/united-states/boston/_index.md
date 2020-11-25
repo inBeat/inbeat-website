@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Boston In 2020
 description: >-
-  Find top food Instagram influencers in Boston in 2020. Most popular hashtags: #food #quarantine #bringzumahome #bostonma.
+  Find top food Instagram influencers in Boston in 2020. Most popular hashtags: #bostoneats #foodporn #boston.
 platform: Instagram
+hits: 112
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 112 Instagram influencers like this in Boston, United States for you to pitch.
 profiles:
-  - username: "etymologynerd"
-    fullname: >-
-      Adam Aleksic
-    location: "United States"
-    followers: 7470
-    engagement: 625
-    commentsToLikes: 0.054782
-    id: ck5hptaourxkr0i117oeazj5c
-    verified: false
-    hashtags: "#washington, #book, #london, #nintendo"
-  - username: "chefjean_paul"
-    fullname: >-
-      Jean-Paul Bourgeois
-    location: "United States"
-    followers: 55963
-    engagement: 123
-    commentsToLikes: 0.057262
-    id: ck0tvshdxcokw0i19oz6bccjt
-    verified: true
-    hashtags: "#focaccia, #memorialday, #bacon, #adobo"
   - username: "beantownbitez"
     fullname: >-
       Boston Food
+    bio: >-
+      💁🏽‍♂️ Student @northeastern 📍 Food from Boston & beyond 📸 All pictures taken by me 🗳 DM or email👇🏽for collaborations 💌 beantownbitez@gmail.com
     location: "United States"
-    followers: 3906
-    engagement: 1585
-    commentsToLikes: 0.129030
+    followers: 4789
+    engagement: 1735
+    commentsToLikes: 0.103982
     id: ck6uebqx2pznn0j71hgb3f5gv
     verified: false
-    hashtags: "#buyagiftcard"
-  - username: "themegfox"
+    hashtags: ""
+  - username: "heather.happykidskitchen"
     fullname: >-
-      FØXOSAURUS REX 👑
+      Heather 👩‍🍳 Happy Kids Kitchen
+    bio: >-
+      Mama. Cooking instructor. Make healthy food FUN! Boston 🇺🇸 📚Free Ebook and Links👇
     location: "United States"
-    followers: 5696
-    engagement: 692
-    commentsToLikes: 0.080512
-    id: ck13cjkhw0nzo0i19eoub6k0i
+    followers: 40107
+    engagement: 93
+    commentsToLikes: 0.085780
+    id: ck13bhjbrvfic0i19wc641alo
     verified: false
-    hashtags: "#stayhome, #amiright, #iwokeuplikethis, #sheetfortsunday"
-  - username: "uuuuuu1s"
+    hashtags: "#kidsfood, #eattherainbow, #funfoodforkids, #toddlerfood"
+  - username: "chefchriscoombs"
     fullname: >-
-      Dr. 玄👩🏻‍⚕️Hsuan Wu, MD
+      Chris Coombs
+    bio: >-
+      Chef / Owner @Deuxave , @dbarboston, @bostonchops, @bostonchopsdowntown •Food is Wonderful!
     location: "United States"
-    followers: 28162
-    engagement: 665
-    commentsToLikes: 0.014575
-    id: ckaozu002ndur0i78dv1i1qz4
+    followers: 26559
+    engagement: 324
+    commentsToLikes: 0.100786
+    id: ck15uswbjoeox0i19if947w64
     verified: false
-    hashtags: "#personality, #ring, #life, #foodporn"
+    hashtags: "#igfood, #eathealthy, #eatlocal, #chefstalk"
+  - username: "provisionsbypaige"
+    fullname: >-
+      PAIGE HEMMEN
+    bio: >-
+      22 📍stl, boulder, boston food | fitness | all the things that make me :)
+    location: "United States"
+    followers: 4349
+    engagement: 913
+    commentsToLikes: 0.139488
+    id: ckaorrruiogfs0i784ukczyv9
+    verified: false
+    hashtags: "#provisionsplates, #spring, #sorrynotsorry"
+  - username: "chowdownusa"
+    fullname: >-
+      Chelsea🌴Food & Fashion
+    bio: >-
+      🌴 From corporate life to business owner 👩🏼‍💻 Influencer agency @royalhorizonmedia ✈️ @traveltomarrs 🥑 Colorful Boston Food 💌 chowdownusa@gmail.com
+    location: "United States"
+    followers: 27105
+    engagement: 79
+    commentsToLikes: 0.171439
+    id: ck0vy5svh2dgv0i19rqiaged1
+    verified: false
+    hashtags: "#igfood, #uniquefood, #dessert, #newengland"
+  - username: "paivabaracat"
+    fullname: >-
+      Baracat “Bala” Paiva
+    bio: >-
+      “Every man dies, not every man really lives”. •Director of Quality Excellence at @wulfsfish . 🇺🇸💪🏽🇧🇷 @dexter_outdoors 🐟🔪 👉🏼 code: BALA20 GIVEAWAY👇🏼
+    location: "United States"
+    followers: 81040
+    engagement: 172
+    commentsToLikes: 0.071989
+    id: ck14jenbfjy4b0i19lmnfmg66
+    verified: false
+    hashtags: "#photography, #tbt, #love, #canadian"
   - username: "teaseats"
     fullname: >-
       Tea’s Eats: NJ/NYC/Boston Food
+    bio: >-
+      🤤 picky eater turned foodie ✉️ dm to collab 📍 NJ/NY | BOS (currently) 🤪 my name and the word eat have the same letters 👀 📢 @zipkick @bestfoodfeed
     location: "United States"
-    followers: 5596
-    engagement: 1145
-    commentsToLikes: 0.578024
+    followers: 7303
+    engagement: 868
+    commentsToLikes: 0.529312
     id: ck5px9pfuqrd00i11qxjky8ig
     verified: false
     hashtags: ""
-  - username: "bostonfoodgram"
-    fullname: >-
-      Boston Food & Travel | Emily
-    location: "United States"
-    followers: 43167
-    engagement: 286
-    commentsToLikes: 0.112845
-    id: ck0u06chpsru20i19okndfh03
-    verified: false
-    hashtags: "#bartacoathome, #bringzumahome, #allcoopedup, #shypartner"
-  - username: "caught.in.a.taste"
-    fullname: >-
-      Boston Food + Travel📌
-    location: "United States"
-    followers: 16677
-    engagement: 739
-    commentsToLikes: 0.058593
-    id: ck5zq9x3wu7lz0i14c1b094n5
-    verified: false
-    hashtags: "#chaitea, #killerbrownie, #bubbletealover, #donutporn"
-  - username: "nomstoppable"
-    fullname: >-
-      boston food + travel
-    location: "United States"
-    followers: 24847
-    engagement: 327
-    commentsToLikes: 0.066444
-    id: ck5cfnogbnati0i112wma3nkp
-    verified: false
-    hashtags: "#ad, #thegreatamericantakeout, #bringzumahome, #nationalpizzaday"
   - username: "twotastebuddiez"
     fullname: >-
       Boston Food
+    bio: >-
+      by: @maddie_gatto & @racheleeng @northeastern x @bostoncollege 📬 twotastebuddiez@gmail.com BOS ✈️ NJ 🚘 NYC original 📸 only
     location: "United States"
-    followers: 20540
-    engagement: 444
-    commentsToLikes: 0.058741
+    followers: 21601
+    engagement: 436
+    commentsToLikes: 0.110948
     id: ck55pzowibr030i11e6mqck3x
     verified: false
-    hashtags: "#explore, #travel, #caffeine, #tatertots"
+    hashtags: "#foodporn, #bestfoodboston, #collegeeats, #quarantineeats"
+  - username: "caught.in.a.taste"
+    fullname: >-
+      Sandi | Boston Food + Travel📌
+    bio: >-
+      Food 🍝 | Travel 🌏 Greatest sin: Ex-gluten free monster 😈 now eating it all #caughtinataste
+    location: "United States"
+    followers: 19559
+    engagement: 682
+    commentsToLikes: 0.053429
+    id: ck5zq9x3wu7lz0i14c1b094n5
+    verified: false
+    hashtags: "#bostonfoodies, #igboston617, #bestfoodboston, #beefkebab"
+  - username: "bostonfoodgram"
+    fullname: >-
+      Boston Food & Travel | Emily
+    bio: >-
+      Good food, good mood ✨ 💁🏻‍♀️ @emmchan_ is me 💫 Share your pics #bostonfoodgram 📧 bostonfoodgram@gmail.com 🐶 @lacymaltese — FAVE breakfast sandwich⤵️
+    location: "United States"
+    followers: 47194
+    engagement: 223
+    commentsToLikes: 0.127282
+    id: ck0u06chpsru20i19okndfh03
+    verified: false
+    hashtags: "#getmorefromlife, #bostonfoodies, #dessertgoals, #dessert"
 ---

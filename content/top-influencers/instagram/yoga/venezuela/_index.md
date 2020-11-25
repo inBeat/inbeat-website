@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top yoga Instagram influencers in Venezuela in 2020. Most popular hashtags: #yoga #cuarentena #sunday #tiktok.
+  Find top yoga Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #caracas #yoga #familia.
 platform: Instagram
+hits: 13
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
   - username: "adrisilvac"
     fullname: >-
       ADRIANA SILVA
+    bio: >-
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 Twitter:adrisilvaactriz FB:Adriana Silva Actriz
     location: "Venezuela"
-    followers: 117181
-    engagement: 211
-    commentsToLikes: 0.028111
+    followers: 131265
+    engagement: 231
+    commentsToLikes: 0.023489
     id: ck6tvbw7tlchz0j71eoccuwmz
     verified: true
-    hashtags: "#unidossomosmas, #cine, #bodhinanda, #personajes"
-  - username: "nikkysanchz"
+    hashtags: "#happyadri, #paciencia, #yogadri, #caminodevida"
+  - username: "karlafvs"
     fullname: >-
-      Nikky Sanchez
+      Karla Vieira
+    bio: >-
+      Modelo y Actriz. Demo Reel ⬇️
     location: "Venezuela"
-    followers: 42669
-    engagement: 104
-    commentsToLikes: 0.055114
-    id: ck9hb1d0beysf0j78m20ar7w5
+    followers: 17718
+    engagement: 601
+    commentsToLikes: 0.088001
+    id: ck6uhlqf09uko0j7137o6kps1
     verified: false
-    hashtags: "#vida, #losquieromucho, #casa, #viernes"
-  - username: "cargaillustration"
+    hashtags: "#photoshoot, #photography, #modelhacks, #caracas"
+  - username: "arizatata"
     fullname: >-
-      carmen garcia gordillo
+      Tata Ariza
+    bio: >-
+      Actriz Bailarina de danza árabe Mi sueño: India Vegetariana Convencida de que el camino es EL AMOR! Manager: @talentolilovalencia 3207259919
     location: "Venezuela"
-    followers: 5118
-    engagement: 659
-    commentsToLikes: 0.068526
-    id: ckaoqn1vvjg5h0i788851fo7n
+    followers: 233786
+    engagement: 447
+    commentsToLikes: 0.023892
+    id: ck8sx6uh6gcm50j78msl2mnzt
     verified: false
-    hashtags: "#goodness, #suculentas, #quietnight, #supermoon"
-  - username: "ninoskavasqueza"
+    hashtags: "#actriz, #colombia, #teamhelena, #yohesidohelena"
+  - username: "angeunda"
     fullname: >-
-      Ninoska Vasquez
+      ANGE UNDA
+    bio: >-
+      🔹🔸Animadora de Venevision @venevision 🔹🔸TvHost Magazine @portadas 🔹🔸Actriz 🔹🔸Ingeniero Químico Enamorada de mi vidaventura❣️ AU
     location: "Venezuela"
-    followers: 690801
-    engagement: 465
-    commentsToLikes: 0.017931
-    id: ck0twi5ahfhji0i19ecdnd6fl
-    verified: true
-    hashtags: "#infinite, #newcolor, #yoga, #tbt"
-  - username: "zoraidaorcial"
-    fullname: >-
-      Zoraida Orcial
-    location: "Venezuela"
-    followers: 43753
-    engagement: 126
-    commentsToLikes: 0.077834
-    id: ck5bvatrfjav20i11rwjtuaa2
+    followers: 344676
+    engagement: 121
+    commentsToLikes: 0.022120
+    id: ck0vw0xdprm0q0i191jl13f6s
     verified: false
-    hashtags: "#empresas, #covid19, #beginnings, #fitness"
-  - username: "dianavasquezve"
+    hashtags: "#me, #horse, #pureblood, #love"
+  - username: "chantalbaudaux"
     fullname: >-
-      DIANA VASQUEZ
+      Chantal Baudaux
+    bio: >-
+      Actress , publicist , Mom ✨𝓜𝓲𝓷𝓭𝓯𝓾𝓵𝓷𝓮𝓼𝓼 𝙼𝚊𝚜𝚝𝚎𝚛
     location: "Venezuela"
-    followers: 10670
-    engagement: 1227
-    commentsToLikes: 0.114270
-    id: ck8tdsjan4m2c0j78m724dumc
+    followers: 640247
+    engagement: 88
+    commentsToLikes: 0.018931
+    id: ck0w5imst3t9b0i19bygopr8q
     verified: false
-    hashtags: "#workingfromhome, #playa, #periodistas, #fitfam"
-  - username: "dra.marcelamolina"
-    fullname: >-
-      Dra. Marcela Molina Poblete
-    location: "Venezuela"
-    followers: 56432
-    engagement: 139
-    commentsToLikes: 0.081306
-    id: ck5buy54mimyj0i11ocor8hx1
-    verified: false
-    hashtags: "#islademargarita, #arrugas, #yogapractice, #plasticsurgeon"
+    hashtags: "#mindfulness, #tbt, #caracas, #merobastemideseo"
   - username: "difredcolina"
     fullname: >-
-      Difred Colina
+      Difred
+    bio: >-
+      ¿El Secreto? es DIOS 🇻🇪 Retratos: @DifredFotos Músico, Fotógrafo y Productor Audiovisual. ¿FOTOS? ¿VIDEOS? Escríbeme al DIRECTO.
     location: "Venezuela"
-    followers: 34467
-    engagement: 568
-    commentsToLikes: 0.049296
+    followers: 36737
+    engagement: 624
+    commentsToLikes: 0.051528
     id: ck15ulic8nruj0i19z1eh18bk
     verified: false
-    hashtags: "#street, #photografhy, #13mar, #19marzo"
-  - username: "itsguga"
+    hashtags: "#reelsinstagram, #venezuela, #reels, #caracas"
+  - username: "jenny_vaamond"
     fullname: >-
-      Gustavo Dobobuto
+      Jennifer Vaamonde
+    bio: >-
+      CEO de la empresa @grupoinnovas 🏠Realtor - Remodelación - Profesional Inmobiliario en Venezuela🇻🇪 Estados Unidos 🇺🇸 Panama 🇵🇦 ✈️🌎🐎🧘🏻‍♀️
     location: "Venezuela"
-    followers: 218272
-    engagement: 333
-    commentsToLikes: 0.057302
-    id: ck5hr4zreu9tt0i11pn1ex7pj
+    followers: 13185
+    engagement: 553
+    commentsToLikes: 0.021946
+    id: ckaozvqymnmcd0i78zlmk3zsu
     verified: false
-    hashtags: "#princesschallenge, #fase5, #caracas, #do"
-  - username: "abrilschreiber"
+    hashtags: "#bienesraices, #house, #salud, #realestate"
+  - username: "flor.de.essen"
     fullname: >-
-      Abril Schreiber Abinadé
+      Somos Una Familia Que Cocina
+    bio: >-
+      Soy flor, mamá de Lola y Pedro futura contadora,👩🏻‍🎓 Y EMPRESARIA ESSEN 💫‼️‼️ .código de emprendedora: 274378 Súmate a mi equipo 🇦🇷 🇵🇪 🇵🇾
     location: "Venezuela"
-    followers: 157261
-    engagement: 120
-    commentsToLikes: 0.051181
-    id: ck14iwbt4hgk30i19wbon21t0
+    followers: 48376
+    engagement: 172
+    commentsToLikes: 0.087755
+    id: ck13495b6vbrz0i19qezo1hfv
+    verified: false
+    hashtags: "#rico, #viernesdememes, #flordeessen, #amor"
+  - username: "verulju"
+    fullname: >-
+      Veruska Ljubisavljevic
+    bio: >-
+      MISS VENEZUELA MUNDO 2017👑 Publicista 📚 y Repostera🍰 Eterna enamorada de mi país 🇻🇪
+    location: "Venezuela"
+    followers: 76146
+    engagement: 325
+    commentsToLikes: 0.031145
+    id: ck5hoigtzpmgv0i11g38xaftf
     verified: true
-    hashtags: "#guacamayas, #compositor, #covid, #abrilenabril"
+    hashtags: "#ccs, #caracas, #cuarentena, #quedateencasa"
+  - username: "pepitoromero"
+    fullname: >-
+      𝓗𝓮𝓬𝓽𝓸𝓻  𝓡𝓸𝓶𝓮𝓻𝓸
+    bio: >-
+      Jugador de Baloncesto Profesional 💪🏽🏀Professional Basketball Player 🇻🇪 @fitbaskket Basketball Academy Doral,FL
+    location: "Venezuela"
+    followers: 63023
+    engagement: 118
+    commentsToLikes: 0.117515
+    id: ck0w253rymnta0i19s8xodl8c
+    verified: false
+    hashtags: "#bloquea, #baller, #venezuela, #dunk"
 ---

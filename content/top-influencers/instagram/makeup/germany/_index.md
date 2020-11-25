@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Germany In 2020
 description: >-
-  Find top makeup Instagram influencers in Germany in 2020. Most popular hashtags: #weekend #giveaway #love #neonmakeup.
+  Find top makeup Instagram influencers in Germany in 2020. Most popular hashtags: #makeup #makeupartist #blogger #hair.
 platform: Instagram
+hits: 1999
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1999 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "mrsmlw_"
+    fullname: >-
+      𝐎̈ 𝐙 𝐆 𝐄  ♥
+    bio: >-
+      Mommy of three ❥ #zwillingsmama // pro makeup artist @mrsmlwcosmetics // wifey to @maroquinox ✨🤲🏻
+    location: "Germany"
+    followers: 2397
+    engagement: 2453
+    commentsToLikes: 0.152220
+    id: ckaos4627q0200i789z5s6xac
+    verified: false
+    hashtags: "#liebe, #mamablogger, #girls, #mamaleben"
+  - username: "madameplatinum"
+    fullname: >-
+      HELEN | MAKEUP
+    bio: >-
+      👄 | All about Makeup 📍 | Leipzig | GER ↓ | Impressum
+    location: "Germany"
+    followers: 3611
+    engagement: 2429
+    commentsToLikes: 0.264002
+    id: ck6u73kfij9s60j71b7h8iqg4
+    verified: false
+    hashtags: "#anastasiabeverlyhills, #artbabeaward2020, #brownmakeup, #graphicliner"
+  - username: "lujain.albayat"
+    fullname: >-
+      لجين البيات | Lujain Al Bayat
+    bio: >-
+      Professional MakeupArtist💄 Beauty&Fashion 🎥YouTube: Lujain Albayat 📍🇩🇪 Germany
+    location: "Germany"
+    followers: 165803
+    engagement: 518
+    commentsToLikes: 0.036661
+    id: ckap9xyzmu0620i78vscx3mal
+    verified: false
+    hashtags: "#makeup, #beauty"
   - username: "evis_gomez"
     fullname: >-
       Evis | The summer kind of girl
+    bio: >-
+      ♥ Outfits, makeup & cute spots ♥ My life in Germany ♥ Mexicana🇲🇽 ♥ See more of my content👇🏼
     location: "Germany"
-    followers: 5325
-    engagement: 1619
-    commentsToLikes: 0.213513
+    followers: 9528
+    engagement: 988
+    commentsToLikes: 0.162285
     id: ck0vyi8gq44jw0i19dksxvdzi
     verified: false
-    hashtags: "#nightoutmakeup, #makeuplover, #makeupenthusiast, #igtvvideos"
-  - username: "aliced__x"
-    fullname: >-
-      ℒea | ᴀʟᴡᴀʏꜱ ᴀ ᴘᴏꜱɪᴛɪᴠᴇ ᴍɪɴᴅ 🌙
-    location: "Germany"
-    followers: 8566
-    engagement: 1671
-    commentsToLikes: 0.060381
-    id: ckap42v9g5lri0i78vnhz2fg3
-    verified: false
-    hashtags: "#sensualmood, #stayhome, #colognegirl, #selfietime"
-  - username: "aleksandra.makeup"
-    fullname: >-
-      Aleksandra ♡
-    location: "Germany"
-    followers: 22910
-    engagement: 657
-    commentsToLikes: 0.091779
-    id: ck8t6c34dd1s00j78lzkipxlx
-    verified: false
-    hashtags: "#lkhhmy, #bloggerinlife12, #catrice, #overknees"
-  - username: "kristina.gosss"
-    fullname: >-
-      Kristina🤍
-    location: "Germany"
-    followers: 3097
-    engagement: 1932
-    commentsToLikes: 0.247999
-    id: ck6u73kzej9wi0j718ajmsnmy
-    verified: false
-    hashtags: "#1minutemakeup, #darkmakeup, #makeupfanatic1, #qualitymakeup"
-  - username: "lola.tattoogirl"
-    fullname: >-
-      Lo La
-    location: "Germany"
-    followers: 61047
-    engagement: 748
-    commentsToLikes: 0.024056
-    id: ck9hc584xjug40j78ohwcf1f4
-    verified: false
-    hashtags: ""
-  - username: "anni_hannover42"
-    fullname: >-
-      Anni
-    location: "Germany"
-    followers: 33914
-    engagement: 310
-    commentsToLikes: 0.085462
-    id: ck8t5d32p9phn0j78mpj45f9u
-    verified: false
-    hashtags: "#calzedonia, #sunday, #girlwithglasses, #tuesdayshoesday"
+    hashtags: "#outfitlook, #outfitdestages, #outfitgram, #autumnvibes"
   - username: "lenaaleew"
     fullname: >-
       ✨LENA✨
+    bio: >-
+      💄selftaught makeup enthusiast 📍Bavaria, Germany 💌 lenaaleew@gmail.com ⬇️shop my looks⬇️
     location: "Germany"
-    followers: 19952
-    engagement: 844
-    commentsToLikes: 0.151549
+    followers: 22178
+    engagement: 1056
+    commentsToLikes: 0.100013
     id: ck5bxdhhfniiw0i11i4byow1e
     verified: false
-    hashtags: "#staysafe, #rainbowmakeup, #makeupchallenge, #glowup"
-  - username: "nicolebhm"
+    hashtags: "#norvina, #morpheglamfam, #spookyseason, #morphebrushes"
+  - username: "juliastiglbauer"
     fullname: >-
-      Nicole Böhm 💄
+      JULI ☾
+    bio: >-
+      MAKEUP - LOVER @beqaj_arbnor ♥️ 21 y/o 🥀 | business psychology
     location: "Germany"
-    followers: 32337
-    engagement: 714
-    commentsToLikes: 0.034395
-    id: ck55j0g5pvyc30i112h9i9gxk
+    followers: 10759
+    engagement: 1477
+    commentsToLikes: 0.156661
+    id: ck9wen8yul0ry0j7893y2oyss
     verified: false
-    hashtags: "#runwaymakeup, #quarantined, #pasteleyeshadow, #redlips"
-  - username: "kiss._.make_up"
+    hashtags: "#happygirl, #makeup, #instamakeup, #dewy"
+  - username: "christiantorez"
     fullname: >-
-      💋Professional MAKE•UP•ARTIST 💄
+      CHRISTIAN TOREZ MAKEUPARTIST
+    bio: >-
+      MAKEUPARTIST | PHOTOGRAPHER 📍 BERLIN & WORLDWIDE MANAGEMENT • jana.limbach@divimove.com TIKTOK - 260k+🌈
     location: "Germany"
-    followers: 5634
-    engagement: 762
-    commentsToLikes: 0.144461
-    id: ck6tidfyx0ia60j714j222kqz
-    verified: false
-    hashtags: "#stayathome, #pigment, #casselfornia, #hoolabronzer"
-  - username: "dzeni_xo"
+    followers: 97598
+    engagement: 1040
+    commentsToLikes: 0.023603
+    id: ckap02kf5ofot0i78zfx4i0y0
+    verified: true
+    hashtags: "#makeup, #makeuplook, #makeupartist, #beautyphotography"
+  - username: "florianferino"
     fullname: >-
-      Dženita🇧🇦❤️🇹🇷
+      Florian Ferino
+    bio: >-
+      Hair & Makeup Artist 💄 based in Berlin... | Fashion | Beauty | Celeb | Represented by Ballsaal Artist Management
     location: "Germany"
-    followers: 102517
-    engagement: 196
-    commentsToLikes: 0.078098
-    id: ck0w35ow0rpth0i19sf0xkpam
+    followers: 36893
+    engagement: 344
+    commentsToLikes: 0.109300
+    id: ck14l6802t27c0i19f245u8ot
     verified: false
-    hashtags: "#ambassador, #shophudabeauty, #influlashes, #headphones"
+    hashtags: "#twins, #shooting, #hairstylist, #gzsz"
+  - username: "aliced__x"
+    fullname: >-
+      ℒea | ᴀʟᴡᴀʏs ᴀ ᴘᴏsɪᴛɪᴠᴇ ᴍɪɴᴅ 🌙
+    bio: >-
+      📍 ᴋᴏᴇʟɴ | ɢᴇʀ ✖️ ᴍᴀsᴋᴇɴʙɪʟᴅɴᴇʀɪɴ | ᴍᴏᴅᴇʟɪɴɢ ✖️ @leawieser__makeupart ✖️ _________________________ ✖️ @ink.angelz 🧚🏼‍♀️
+    location: "Germany"
+    followers: 15173
+    engagement: 1436
+    commentsToLikes: 0.025732
+    id: ckap42v9g5lri0i78vnhz2fg3
+    verified: false
+    hashtags: "#sportyspice, #inkedgirls, #tattoolovers, #sheingals"
+  - username: "astravoidcosplay"
+    fullname: >-
+      Astra
+    bio: >-
+      Va — 19 Ꮖ ᏟᎾᏚᏢᏞᎪY ᎪNᎠ Ꮖ KNᎾᏔ ᎢᎻᏆNᏩᏚ. Next con: TBA -Cosplayer/Makeup Artist- Sophie Turner’s doppelgänger & Jean Grey IRL TikTok: @astravoidcosplay
+    location: "Germany"
+    followers: 2134
+    engagement: 3304
+    commentsToLikes: 0.052855
+    id: ckf5o22b00lcy0j23pjhju0rt
+    verified: false
+    hashtags: "#arrowversecosplay, #avengers, #cosplayers, #cwcosplay"
 ---

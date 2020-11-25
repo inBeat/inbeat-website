@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Miami In 2020
 description: >-
-  Find top travel Instagram influencers in Miami in 2020. Most popular hashtags: #travel #miami #mothersday #nofilter.
+  Find top travel Instagram influencers in Miami in 2020. Most popular hashtags: #miami #travel #florida #beach.
 platform: Instagram
+hits: 661
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 661 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "_mermaid.mo_"
+  - username: "kimmilori"
     fullname: >-
-      Monica👉🏼 (MO)
+      Kimmi Lori
+    bio: >-
+      🇲🇽ℝ𝕖𝕘𝕚𝕒-𝔸𝕞𝕖𝕣𝕚𝕔𝕒𝕟🇺🇸 Houston, Tx Founder: Lori Moto @thebikerlook
     location: "United States"
-    followers: 94620
-    engagement: 733
-    commentsToLikes: 0.022939
-    id: ck1358y5n0aja0i19adlgred9
+    followers: 2423
+    engagement: 729
+    commentsToLikes: 0.073860
+    id: ckaoyrakkiq5o0i78psrwh6o8
     verified: false
-    hashtags: "#louisiana, #travel, #miamiboatshow, #drinkup"
-  - username: "worldofnoha"
+    hashtags: "#travel, #miamibeach, #houston, #htown"
+  - username: "activitymonster"
     fullname: >-
-      Noha Raouf
+      Beril ♥️ Travel & Fashion
+    bio: >-
+      📍Miami 🦩 🤩 Featured in @earthpix , @travelandleisure, @forbestravelguide 🏖 My feature account: @roamflorida 📩 activitymonster@yahoo.com
     location: "United States"
-    followers: 10717
-    engagement: 555
-    commentsToLikes: 0.097220
-    id: ck6u42wb61dht0j71hgw200x2
+    followers: 229221
+    engagement: 340
+    commentsToLikes: 0.062706
+    id: ck0u7pqny5evt0i199qwvreo9
     verified: false
-    hashtags: "#quarantinelifecalm, #fbf, #dubai, #italia"
-  - username: "ogcollins_media"
+    hashtags: "#hotels, #visitflorida, #lovefl, #roamflorida"
+  - username: "gladyscarredeguas"
     fullname: >-
-      Omari Collins
+      Gladys Carredeguas
+    bio: >-
+      Law Student 1Ls ⚖️ Follow my other account @the_lawtina Cuban 🇨🇺 Miss Grand Cuba 2018 👑 Communications Major 🖋🎙 To Collab Email me 📧
     location: "United States"
-    followers: 7347
-    engagement: 631
-    commentsToLikes: 0.056478
-    id: ck55m3n4f34r40i11dulzbm4n
+    followers: 28966
+    engagement: 254
+    commentsToLikes: 0.049645
+    id: ck5cbawhif2ju0i115dg6ve8f
     verified: false
-    hashtags: "#playoffs, #morelife, #nflplayoffs, #sbliv"
-  - username: "oliverdog"
+    hashtags: "#ootd, #beach, #koalachallenge, #travel"
+  - username: "remrodphotography"
     fullname: >-
-      Christian Meier
+      Remrod
+    bio: >-
+      Positive💡Thinking #CAMERAMAN 📸🎬 #CRYPTOINVESTOR 💱 #LOA 💎 #entrepreneur #fintech
     location: "United States"
-    followers: 751313
-    engagement: 141
-    commentsToLikes: 0.022856
-    id: ck6tvbig6l9zk0j71twvakk83
-    verified: true
-    hashtags: "#travel, #miamilife, #cocinanikkei, #nationalsiblingday"
-  - username: "adventures2_u"
-    fullname: >-
-      URIEL & UENDI-A TRAVEL LIFE✈️
-    location: "United States"
-    followers: 7174
-    engagement: 796
-    commentsToLikes: 0.112104
-    id: ck5zkc5imj7jy0i14o32cdhng
+    followers: 39594
+    engagement: 130
+    commentsToLikes: 0.054449
+    id: ck5c0xevxu19c0i11mbs8hb7t
     verified: false
-    hashtags: "#travellifestyle, #castleview, #smilemore, #travelislife"
-  - username: "vizcaya_museum"
+    hashtags: "#remrod, #instagood, #beach, #travelphotography"
+  - username: "captmattbudd"
     fullname: >-
-      Vizcaya Museum and Gardens
+      Capt. Matt Budd
+    bio: >-
+      2nd Generation Master Captain & Fishing Guide. www.jupiterfishingacademy.com
     location: "United States"
-    followers: 45197
-    engagement: 205
-    commentsToLikes: 0.029605
-    id: ck0twn96vg0670i19iwpozzuo
+    followers: 21959
+    engagement: 323
+    commentsToLikes: 0.025506
+    id: ck0txn7bbjq0p0i19muyip726
     verified: false
-    hashtags: "#publicgardensweek, #miamistyle, #zenscapes, #igreads"
-  - username: "tatimakeupstudio"
+    hashtags: "#fish, #robalo, #commercialfishing, #westpalmbeach"
+  - username: "michellroxana"
     fullname: >-
-      Tati Perez Miami Makeup
+      Michell💛Roxana
+    bio: >-
+      ⚜️Mejor Rostro ⚜️Miss Social Media ⚜️Miss Earth 🇻🇪 ‘19 👑🌍
     location: "United States"
-    followers: 137291
-    engagement: 385
-    commentsToLikes: 0.030440
-    id: ck5ccbnvvh2nx0i11u62wh5wo
+    followers: 345345
+    engagement: 328
+    commentsToLikes: 0.012977
+    id: ck5c6nerh5sy10i11h57upv65
     verified: false
-    hashtags: "#foxyeye, #feriadeabril, #feriadesevilla, #feriadesevilla2020"
-  - username: "omar_rod"
+    hashtags: "#travelmexico, #travelmiami, #mexico, #miamilifestyle"
+  - username: "farenaimee"
     fullname: >-
-      Omar Rodriguez Jr
+      Faren Aimeé
+    bio: >-
+      Int’l Published Model | Pageant Queen Miss Bikini US ‘17-‘18 | Miss NW DC For America ‘20| Scholar | Multi-Sport Athlete| Philanthropist | FAMU🐍
     location: "United States"
-    followers: 11190
-    engagement: 2004
-    commentsToLikes: 0.016983
-    id: ckap5h0wvbngh0i781avdp2kt
+    followers: 9642
+    engagement: 406
+    commentsToLikes: 0.053925
+    id: ck0vxabsdxxzj0i197b5tlkbk
     verified: false
-    hashtags: "#dontcomeforme, #fajaparalagordura, #donttouchyourmouth, #imissyoursmile"
-  - username: "skyegirlz"
+    hashtags: "#model, #published, #skin, #skincare"
+  - username: "visuals.by.luis"
     fullname: >-
-      Samantha Skye
+      MIAMI Visuals
+    bio: >-
+      🌎 #MIAMI 📷 #SonyA7III | #iPhoneXR 🎥 #DJIMavicPro2 #Cityscapes | #Architecture | #Travel
     location: "United States"
-    followers: 134121
-    engagement: 140
-    commentsToLikes: 0.042556
-    id: ck600qt99e3k10i14a1d26174
+    followers: 15523
+    engagement: 795
+    commentsToLikes: 0.033360
+    id: ck0tznomar1zb0i19158b80wk
     verified: false
-    hashtags: "#beachin, #sandycheeks, #sagaftramember, #visitfez"
-  - username: "natashaleeds"
+    hashtags: "#foundinmiami, #miamilove, #downtownmiami, #miamifun"
+  - username: "irene__diaz"
     fullname: >-
-      Natasha Lee-Duhaney
+      I r e n e   D í a z
+    bio: >-
+      🎓 Periodismo & Co.Audiovisual 🏆 Emmy nomination / AP winner 💼 Americatevé 🎥 reportera 📍Miami 🐉+🦂
     location: "United States"
-    followers: 63305
-    engagement: 250
-    commentsToLikes: 0.037617
-    id: ck0u2k8qb030w0i19cx633txc
+    followers: 45519
+    engagement: 211
+    commentsToLikes: 0.051568
+    id: ck6u1c88jkvh70j71zqcqgg2y
     verified: false
-    hashtags: "#coffeefix, #girlstraveltale, #jetsetlifestyle, #coffeetime"
+    hashtags: "#musicnews, #entrevista, #miamilife, #atodocolor"
+  - username: "lifemiamibeach"
+    fullname: >-
+      Miami Beach Life
+    bio: >-
+      The official Instagram of Life Miami Beach. Global community page for Miami Beach, and the greater Miami area. #LifeMiamiBeach
+    location: "United States"
+    followers: 107823
+    engagement: 426
+    commentsToLikes: 0.028109
+    id: ck0uak2xvcgvn0i19np2s9rvs
+    verified: false
+    hashtags: "#miamiweather, #lifemiamibeach, #blueskies, #northmiamibeach"
 ---

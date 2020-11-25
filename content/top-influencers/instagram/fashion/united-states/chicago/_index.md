@@ -1,22 +1,29 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Chicago In 2020
 description: >-
-  Find top fashion Instagram influencers in Chicago in 2020. Most popular hashtags: #fashion #chicago #chicagoartists #throwback.
+  Find top fashion Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #fashion #model.
 platform: Instagram
+hits: 420
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 420 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "erikmarthaler"
     fullname: >-
       E r i k  M a r t h a l e r
+    bio: >-
+      Travel | Street | Product | Portrait | Fashion Chicago 📸 Sony A7rii 🏋🏼‍♂️ Gym Owner: @lateralfitnesschicago 👇🏼 Website and Prints 👇🏼
     location: "United States"
-    followers: 30487
-    engagement: 267
-    commentsToLikes: 0.040246
+    followers: 30943
+    engagement: 249
+    commentsToLikes: 0.032307
     id: ck15pvc2dzta60i19k0w41s1x
     verified: false
-    hashtags: "#jj"
+    hashtags: ""
   - username: "yvettemayorga"
     fullname: >-
       🍭🍰🍒Yvette Mayorga🍒🍰🍭
+    bio: >-
+      @massgallery 1/31•Xicanx: New Visions 2/13•Museo UNAM 2/13•In Flux 2/15 @chiculturcenter•@fashionchicago 3/27• Endlessly Dreaming 4/4 @everyyybodyyy
     location: "United States"
     followers: 6819
     engagement: 494
@@ -24,84 +31,100 @@ profiles:
     id: ck6tto1sobnxr0j71krfp9f0o
     verified: false
     hashtags: "#ilysm4artists, #4creativesbycreatives, #ilysm4artistsweek9, #ilysmart"
-  - username: "arturoalvaphoto"
+  - username: "hai_itscourtney"
     fullname: >-
-      Arturo Alva
+      Courtney Monaé
+    bio: >-
+      Spread luv 💗| Singer 🎤| Model 👩🏾‍🦲| Vegan 🌱| Photographer 📸| Chains for sale ⛓ Curator of COLLECTIVES LINK 💫🦋🦄#COLLECTIVESLINK @collectiveslink 🧚🏾‍♀️
     location: "United States"
-    followers: 7046
-    engagement: 791
-    commentsToLikes: 0.024420
-    id: ck0ucc0abgjh50i19efyjqx6q
+    followers: 7861
+    engagement: 604
+    commentsToLikes: 0.125839
+    id: ck8t0nfmysnhc0j78o7mtauce
     verified: false
-    hashtags: "#chitown, #chicagogrammers, #chicagoland, #travelmodel"
-  - username: "okankesanxz"
+    hashtags: "#fashion, #chicago, #clothing, #chitown"
+  - username: "shellybenson"
     fullname: >-
-      
+      Shelly Benson
+    bio: >-
+      𝕳𝖆𝖎𝖗𝖘𝖙𝖞𝖑𝖎𝖘𝖙. 𝕸𝖔𝖉𝖊𝖑. 𝕻𝖊𝖗𝖘𝖔𝖓𝖆𝖑𝕿𝖗𝖆𝖎𝖓𝖊𝖗. ᶜᵃⁿᶜᵉʳ☀️ᴳᵉᵐⁱⁿⁱ⬆️ᴾⁱˢᶜᵉˢ🌙 𝕸𝖔𝖔𝖓𝖈𝖍𝖎𝖑𝖉. 𝕸𝖊𝖗𝖒𝖆𝖎𝖉. 𝖜𝖎𝖙𝖈𝖍🧿. 𝕳𝖆𝖜𝖆𝖎𝖎𝖆𝖓/𝕻𝖔𝖑𝖞𝖓𝖊𝖘𝖎𝖆𝖓𝕯𝖆𝖓𝖈𝖊𝖗. 𝖑𝖚𝖕𝖚𝖘&𝖋𝖎𝖇𝖗𝖔𝖘𝖙𝖗𝖔𝖓𝖌. 🙃𝖇𝖎PD&𝖕𝖗𝖔𝖚𝖉.
     location: "United States"
-    followers: 101838
-    engagement: 240
-    commentsToLikes: 0.014547
-    id: ck6tzl2gwabzz0j7198i75swv
+    followers: 19559
+    engagement: 400
+    commentsToLikes: 0.027500
+    id: ck8t2jr5dzrf70j780dkb5951
     verified: false
-    hashtags: "#brightfuture, #fashion, #chicagoartists, #blackhistory365"
-  - username: "tubsz_illa"
+    hashtags: "#alternativefashion, #girlswholift, #styleblogger, #cbdhealth"
+  - username: "legendarybroadway"
     fullname: >-
-      𝕿𝖚𝖇𝖘
+      That’s Broadway
+    bio: >-
+      🎧 *DJ - Producer 🐎 *Official “2X Grammy Award Winning 🏆🏆”Lil Nas X World Tour DJ 📸 *Fashion Influencer The Lost Art 🖼 Of The DJ Documentary 20’
     location: "United States"
-    followers: 27310
-    engagement: 278
-    commentsToLikes: 0.039287
-    id: ck0w64zgz6xcg0i19fanape7h
+    followers: 18363
+    engagement: 66
+    commentsToLikes: 0.121298
+    id: ck6ue9f7apl710j71er3u93ul
     verified: false
-    hashtags: "#latino, #artexhibition, #tshirt, #custompaint"
-  - username: "emilygualdoniphoto"
+    hashtags: "#comment, #fashion, #chicago, #art"
+  - username: "bitch.rising"
     fullname: >-
-      Chicago Fashion Photographer
+      𝘽𝙄𝙏𝘾𝙃 𝙍𝙄𝙎𝙄𝙉𝙂 ™
+    bio: >-
+      ☾ Original 𝕤𝕡𝕚𝕔𝕪 Astrology Memes ☾ ⋆ Created by @spaceglam ⋆ ⋆ Follow @hornyastrology ⋆
     location: "United States"
-    followers: 17673
-    engagement: 1331
-    commentsToLikes: 0.045608
-    id: ck5c1cu8kux0g0i11643v1o34
+    followers: 394723
+    engagement: 288
+    commentsToLikes: 0.016782
+    id: ck0w33gtkreya0i19q8yjt367
     verified: false
-    hashtags: "#bestphotogram, #quietthechaos, #manicurist, #portraitstream"
+    hashtags: "#zodiacmeme, #zodiacsign, #textmemes, #libramemes"
+  - username: "asailorswifeblog"
+    fullname: >-
+      Kristal Leon| A Sailors Wife
+    bio: >-
+      + Military wife and Mom + Mom Blogger 📍Chicago + Lifestyle + Travel blogger + Children's book Reviewer
+    location: "United States"
+    followers: 28853
+    engagement: 847
+    commentsToLikes: 0.095411
+    id: ck6tut8smia230j71n2o5heos
+    verified: false
+    hashtags: "#notsorry, #lagunamoonbeauty, #wooshbeauty, #wbpartner"
+  - username: "jesssica.gabrielle"
+    fullname: >-
+      Jessica Gabrielle
+    bio: >-
+      📍Chicago Fashion, Food+ Lifestyle 🐶@lakeshorelenny
+    location: "United States"
+    followers: 3078
+    engagement: 1662
+    commentsToLikes: 0.168871
+    id: ck9hajdxrcqnt0j78zq47l3qw
+    verified: false
+    hashtags: "#chicago, #livecolorfully, #ilovechicago, #chicagoshots"
   - username: "alexamorelli"
     fullname: >-
       Alexa Morelli
+    bio: >-
+      📍Chicago Fashion & Healthy Lifestyle + Blogging Tips 💌 alexabmorelli@gmail.com ⬇️Shop my looks & Blog
     location: "United States"
-    followers: 17806
-    engagement: 592
-    commentsToLikes: 0.215283
+    followers: 19092
+    engagement: 479
+    commentsToLikes: 0.222048
     id: ck0w3rx3duyt20i19wx82fi7g
     verified: false
-    hashtags: "#selftanning, #pandoramothersday, #livewiths3, #ltkhome"
-  - username: "heyitsnatalie"
+    hashtags: "#ltktravel, #ltkunder50, #falloutfits, #liketkit"
+  - username: "aintno_holli_backgirl"
     fullname: >-
-      Natalie Hartzell
+      Holli Kulpaka
+    bio: >-
+      | ⋆ ⋆ Chicago ⋆ ⋆ | •Fashion Merchandising•
     location: "United States"
-    followers: 17676
-    engagement: 374
-    commentsToLikes: 0.318239
-    id: ck6tzfgfr9dow0j71mebsgbxs
+    followers: 5927
+    engagement: 1430
+    commentsToLikes: 0.035503
+    id: ckap8hthsod6p0i78eh5g50jr
     verified: false
-    hashtags: "#ruggablepartner, #ltkfamily, #irunwithmaud, #thisiskirei"
-  - username: "annaxmargaret"
-    fullname: >-
-      Anna Margaret
-    location: "United States"
-    followers: 7602
-    engagement: 1218
-    commentsToLikes: 0.182514
-    id: ck1381xuee40t0i19mmp910pw
-    verified: false
-    hashtags: "#fabletics, #aexme, #justfab, #fableticspartner"
-  - username: "justynajarmula"
-    fullname: >-
-      justyna
-    location: "United States"
-    followers: 58799
-    engagement: 156
-    commentsToLikes: 0.039746
-    id: ck15tvg9yk3rq0i19xls0h3ea
-    verified: false
-    hashtags: "#katespade, #kbeautylover, #unitedcenter, #kimptonmonaco"
+    hashtags: "#chicago, #chicagoevents"
 ---

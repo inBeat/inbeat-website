@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top nutrition TikTok influencers in Los Angeles in 2020. Most popular hashtags: #stepchickens #duet #littlethings #happyeaster.
+  Find top nutrition TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #funny #foryou #comedy.
 platform: TikTok
+hits: 5
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "adrianxortiz"
+  - username: "k3chocolate"
     fullname: >-
-      Adrian
+      k3chocolate
+    bio: >-
+      Instagram @ K3chocolate FaceBook & YouTube - K3chocolate 📍LA 🇺🇦🇨🇺 😀
     location: "United States"
-    followers: 1535939
-    engagement: 2916
-    commentsToLikes: 0.055293
-    id: ck7zohnffk4us0j78gnmsjcph
+    followers: 372700
+    engagement: 1482
+    commentsToLikes: 0.016198
+    id: ckbf7ps4xxuv10j23gpicst1c
     verified: false
-    hashtags: "#beauty, #stepchickens, #filipino, #boys"
-  - username: "emilybcohen"
+    hashtags: "#covid19, #lifehacks, #funny, #dancer"
+  - username: "derekandmimi"
     fullname: >-
-      em🤑
+      Derek and Mimi
+    bio: >-
+      The anti-traditional family 📍Los Angeles, CA We reply on Instagram!
     location: "United States"
-    followers: 20580
-    engagement: 1897
-    commentsToLikes: 0.060548
-    id: ck9dwgzteoy1a0j78q24ihcju
+    followers: 601000
+    engagement: 1606
+    commentsToLikes: 0.028775
+    id: ckb9hwkk47xrl0j23qw3mxvjn
     verified: false
-    hashtags: "#chloetingchallenge, #hellenkeller, #sarahcameron, #outerbanks"
-  - username: "alluringskull"
+    hashtags: "#dadsoftiktok, #funny, #derekandmimi, #over30"
+  - username: "thearmsguy"
     fullname: >-
-      Alluring Skull
+      Thearmsguy
+    bio: >-
+      Tiktok NUTRITION COACH 🥇COMPETIDOR 🍠Haciendo la Nutrición🥑 FACIL Y DIVERTIDO
     location: "United States"
-    followers: 210203
-    engagement: 3337
-    commentsToLikes: 0.023618
-    id: ck8otiyjblg180j7841ldmzeb
+    followers: 33100
+    engagement: 632
+    commentsToLikes: 0.027823
+    id: ckb9nw5bfhrsr0j23cve0jxhf
     verified: false
-    hashtags: "#barbz, #stepchickens, #eattherich, #lesbian"
-  - username: "dakotarescuedog"
+    hashtags: "#ideas, #viral, #funny, #gym"
+  - username: "doctor.jarrett"
     fullname: >-
-      JDog Rescue
+      Dr. Jarrett Schanzer
+    bio: >-
+      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
     location: "United States"
-    followers: 28247
-    engagement: 3353
-    commentsToLikes: 0.041047
-    id: ck9kb9s3tk9wq0j78734p3uh7
+    followers: 150900
+    engagement: 846
+    commentsToLikes: 0.030527
+    id: ckdbs9wzgcgxv0j23tvaoyutk
     verified: false
-    hashtags: "#hoopsathome, #everydayheroes, #loungewear, #pancakecereal"
-  - username: "swag11984"
+    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
+  - username: "nobread"
     fullname: >-
-      Mann randhawa🇺🇸
+      Nicole Cogan
+    bio: >-
+      GLUTEN FREE/ WELLNESS RECIPE INSTA: NOBREAD (192K) Blog: www.Nobread.com ✈️🥑🌊
     location: "United States"
-    followers: 5132
-    engagement: 1539
-    commentsToLikes: 0.076022
-    id: ck931i8aeerj20j78zenxa2pk
+    followers: 9155
+    engagement: 515
+    commentsToLikes: 0.018560
+    id: ck9k0c3x4ca710j78gtxt3djm
     verified: false
-    hashtags: "#duet, #garrysandhu, #gkhan"
-  - username: "operamericano"
+    hashtags: "#fy, #weightloss, #pizza, #mystory"
+  - username: "beyondthetats"
     fullname: >-
-      CJ OperAmericano
+      Chris Holt
+    bio: >-
+      Follow me on IG! 👆🏼 Online Fitness/Nutritional Coach Identical Triplet KAD
     location: "United States"
-    followers: 800279
-    engagement: 1974
-    commentsToLikes: 0.024697
-    id: ck806zresnf3b0j78gxtgon1d
+    followers: 195000
+    engagement: 1988
+    commentsToLikes: 0.033545
+    id: ck8kdjg36647z0j780t9wnwy0
+    verified: false
+    hashtags: "#coffee, #over30, #history, #lipsync"
+  - username: "aragusea"
+    fullname: >-
+      aragusea
+    bio: >-
+      Practical recipes, food science, food history, food safety, nutrition, rants.
+    location: "United States"
+    followers: 262500
+    engagement: 1571
+    commentsToLikes: 0.027418
+    id: ckbl07no3wxn70j23obm1arpa
     verified: true
-    hashtags: "#washyourhandschallenge, #opticalillusion, #brushchallenge, #musiclives"
-  - username: "nathanhurdcomedy"
+    hashtags: "#learnontiktok, #tiktokpartner, #dryice, #fermentation"
+  - username: "kingsapron"
     fullname: >-
-      Nathan Hurd
+      Chef Zu
+    bio: >-
+      Certified Holistic Nutritionist | Certified Herbalist | Plant Medicine Maker
     location: "United States"
-    followers: 226112
-    engagement: 1796
-    commentsToLikes: 0.038378
-    id: ck9e0flve5u4m0j78hflwv6xu
+    followers: 189800
+    engagement: 1162
+    commentsToLikes: 0.034374
+    id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#littlethings, #skateboarding, #lovemom, #youareawesome"
-  - username: "aedan_carden"
+    hashtags: "#farm, #learnintiktok, #homestead, #fyp"
+  - username: "jonbezrouch"
     fullname: >-
-      CARDEN
+      JonBezrouch
+    bio: >-
+      Green Beret Doctor of Chiropractic School Fitness & Nutrition IG JonBezrouch
     location: "United States"
-    followers: 24824
-    engagement: 2347
-    commentsToLikes: 0.031609
-    id: cka0nanjgyywa0i78gzhn1ugt
+    followers: 140700
+    engagement: 1438
+    commentsToLikes: 0.030819
+    id: cka0i86nrclhb0i78y1ptkgsq
     verified: false
-    hashtags: "#losangeles, #suisse, #belgique, #italia"
-  - username: "cudicoleman"
+    hashtags: "#micellarrewind, #duet, #rnbvibes, #youwantmore"
+  - username: "tcuppfit"
     fullname: >-
-      Who??
+      Tyler Cupp
+    bio: >-
+      O - H - I - O Online Fitness/Nutrition 1:1 Coaching Apply for Coaching ⬇️
     location: "United States"
-    followers: 15834
-    engagement: 1454
-    commentsToLikes: 0.067125
-    id: ck9ero6tq2m2g0j78i4rmx5df
+    followers: 51800
+    engagement: 1483
+    commentsToLikes: 0.054858
+    id: ckbfenvuj8wsd0j23uq16f55o
     verified: false
-    hashtags: "#succc, #whatif, #coronavirus, #quarentine"
-  - username: "hekinhenry"
-    fullname: >-
-      Henry the Aussie
-    location: "United States"
-    followers: 97548
-    engagement: 2952
-    commentsToLikes: 0.068920
-    id: ck92t5ijvgdau0j789gch9gr7
-    verified: false
-    hashtags: "#picklechallenge, #distancedance, #videocall, #facetime"
+    hashtags: "#fyp, #viral, #jokes, #sendit"
 ---

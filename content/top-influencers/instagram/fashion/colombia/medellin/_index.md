@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Medellín In 2020
 description: >-
-  Find top fashion Instagram influencers in Medellín in 2020. Most popular hashtags: #fashion #medellin #tbt #happy.
+  Find top fashion Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #medellin #fashion #makeup.
 platform: Instagram
+hits: 42
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 42 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
-  - username: "estefigomez11"
+  - username: "paudazzle"
     fullname: >-
-      Estefania Gomez Actriz
+      🇵 🇦 🇺 🇩 🇦 🇿 🇿 🇱 🇪
+    bio: >-
+      👩🏼‍💻ʟɪғᴇsᴛʏʟᴇ/ᴛᴇᴄʜ & ᴠɪᴅᴇᴏɢᴀᴍᴇs 🎮 ɢᴀᴍᴇʀ ᴘʀᴏғᴇsɪᴏɴᴀʟ 👾 ʜᴏsᴛ ᴇɴ @lageekweb 🎙️sᴛʀᴇᴀᴍᴇʀ FB.GG/PauDazzle 🚀sᴘᴏɴsᴏʀ: @speedlogiccomputadores 💚ᴘᴜʙʟɪᴄɪᴅᴀᴅ/ᴅᴍ
     location: "Colombia"
-    followers: 1291321
-    engagement: 216
-    commentsToLikes: 0.007074
-    id: ck6ub5afg7jsm0j71nm0m1zrp
-    verified: true
-    hashtags: "#healthylifestyle, #medelli, #mujer, #like4like"
-  - username: "beatrizguerrerot"
-    fullname: >-
-      Beatriz Guerrero
-    location: "Colombia"
-    followers: 2513
-    engagement: 1293
-    commentsToLikes: 0.036670
-    id: ck139h3zul9n40i19tmlhygv8
+    followers: 53857
+    engagement: 114
+    commentsToLikes: 0.094028
+    id: ck8t93d4smtm30j785mznfiht
     verified: false
-    hashtags: "#mompoxjazzfestival, #colombiatex, #colombiamoda2019, #memoriasdeltropico"
-  - username: "fabianarenare"
+    hashtags: "#paudazzle, #cartagena, #photo, #fitness"
+  - username: "adrianabolivars"
     fullname: >-
-      Fabiana Arenare
+      𝐀𝐃𝐑𝐈𝐀𝐍𝐀 𝐁𝐎𝐋𝐈́𝐕𝐀𝐑 𝐒𝐈𝐌𝐀𝐍𝐂𝐀𝐒
+    bio: >-
+      𝐕𝐈𝐒𝐈𝐓𝐀 𝐌𝐈 𝐓𝐈𝐄𝐍𝐃𝐀 @dreamsgaiaa |𝗦𝗥𝗜𝗧𝗔 𝗚𝗔𝗩𝗜𝗢𝗧𝗔𝗦 𝟮𝟬𝟭𝟵~𝟮𝟬𝟮𝟬| |𝗥𝗘𝗜𝗡𝗔 𝗗𝗘𝗟 𝗗𝗔𝗧𝗧 𝟮𝟬𝟭𝟵~𝟮𝟬𝟮𝟬| |𝗘𝗦𝗧𝗨𝗗𝗜𝗔𝗡𝗧𝗘 𝗗𝗘 𝗙𝗜𝗡𝗔𝗡𝗭𝗔𝗦 𝗬 𝗡𝗘𝗚𝗢𝗖𝗜𝗢𝗦 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟𝗘𝗦| 🇨🇴
     location: "Colombia"
-    followers: 10209
-    engagement: 521
-    commentsToLikes: 0.034483
-    id: ck6tnsws2aic60j717tws3fj3
+    followers: 13172
+    engagement: 1118
+    commentsToLikes: 0.806961
+    id: ck6tyzmpf6seb0j71n7ulzmwa
     verified: false
-    hashtags: "#getinmybelly, #stayhome, #yomequedoencasa, #covid19"
-  - username: "hqpola"
+    hashtags: "#colombia, #mexico, #usa, #europe"
+  - username: "isabelvesga"
     fullname: >-
-      ✖️•🌻 ραυℓα αndreα αrιαѕ 🌻•✖️
+      Isabel Vesga
+    bio: >-
+      Fashion Designer | Content creator @elementumdesign @itsmariavesga Colombiana
     location: "Colombia"
-    followers: 14037
-    engagement: 1047
-    commentsToLikes: 0.026008
-    id: ck8tcfdqpza0x0j78xunol1az
+    followers: 9419
+    engagement: 363
+    commentsToLikes: 0.034217
+    id: ck8tcsh2n0i9l0j78rd38d8tm
     verified: false
-    hashtags: "#aestetic, #homephotoshoot, #girlstattoos, #kidsfashion"
-  - username: "sandraposa"
+    hashtags: "#travelphotography, #travel, #fashion, #colombians"
+  - username: "dahyana_ospina26"
     fullname: >-
-      sandraposa
+      Dahyana
+    bio: >-
+      📍Medellin 🇨🇴 - Boston 🇺🇸 📚Negocios internacionales UdeM 📈Publicidad al DM 📥 ✈️Mi pasión 🌎
     location: "Colombia"
-    followers: 203256
-    engagement: 145
-    commentsToLikes: 0.032032
-    id: ck14lnztdvm9f0i191w4gizym
+    followers: 41156
+    engagement: 374
+    commentsToLikes: 0.050503
+    id: ckap73egbigs80i786l4anqws
     verified: false
-    hashtags: "#julieta, #energia, #mamaehijos, #vicente"
-  - username: "danicalo19"
+    hashtags: "#party, #viral, #reel, #lol"
+  - username: "david_artpe"
     fullname: >-
-      Fitfitfit
+      David Peñalver Art
+    bio: >-
+      Studygram/ Letras Bonitas “Que todo lo que respire alabe a Dios" Usa mi hashtag #David_artp Suscríbete a mi canal de YouTube:💖
     location: "Colombia"
-    followers: 200802
-    engagement: 141
-    commentsToLikes: 0.025997
-    id: ck5qck0ebqyis0i11qv5ut1pj
+    followers: 25229
+    engagement: 1006
+    commentsToLikes: 0.375321
+    id: ck6tny43sb1al0j712gnsb9rm
     verified: false
-    hashtags: "#monday, #sabado, #picoftheday, #food"
-  - username: "senor.viajero"
+    hashtags: "#apunteslindos, #studynotes, #brushlettering, #letteringnewbie"
+  - username: "malejagarciagarcia"
     fullname: >-
-      Señor Viajero
+      🌎✈️ ᗰᗩᒪᗴᒎᗩ ★·.·´¯
+    bio: >-
+      ᗰᗴᗪᎥᑕᎥᑎᗩ ᗰᎥ ᑭᖇᗝᖴᗴᔕᎥóᑎ, ᑕᗝᗰᗴᖇ ᗴᔕ ᗰᎥ ᑭᗩᔕᎥóᑎ🥩🍔🍱😻 cση нαмвяε ∂ε мυη∂σ, vιvαη ℓσs vιαנεs!!! 🚀🌎 #CosaRicaCosaBuenaCosaBienHecha 📍Medellin, Colombia 🇨🇴
     location: "Colombia"
-    followers: 16342
-    engagement: 956
-    commentsToLikes: 0.117252
-    id: ck5hrs6icvdyt0i1172mzn954
+    followers: 146797
+    engagement: 275
+    commentsToLikes: 0.079250
+    id: ckap5ykkgdpi10i78wxampujs
     verified: false
-    hashtags: "#charala, #jurassicpark, #lagoon, #neon"
-  - username: "ourdailylivesg"
+    hashtags: "#picofthedays, #domiciliosmedellin, #colombianas, #picoftheday"
+  - username: "soylatatag"
     fullname: >-
-      JOSE Y CAMI
+      Tatiana Gómez♈
+    bio: >-
+      MODELO /CURVY 🇨🇴 Med/ fashion 2019 #bodypositive AMA VIVE Y GOZA🏖️🌍
     location: "Colombia"
-    followers: 92422
-    engagement: 784
-    commentsToLikes: 0.039095
-    id: ck5qadgslfto80i11itf10evo
+    followers: 11853
+    engagement: 429
+    commentsToLikes: 0.077408
+    id: ck6ub52rj7igi0j71bu2x6lo5
     verified: false
-    hashtags: "#spadayathome, #mothersday, #pranks, #customized"
-  - username: "mercycollazos"
+    hashtags: "#tendencia, #santamarta, #fotoarte, #curvy"
+  - username: "manueladuque1"
     fullname: >-
-      𝐌𝐄𝐑𝐂𝐘 𝐂𝐎𝐋𝐋𝐀𝐙𝐎𝐒
+      🌞MANUELA
+    bio: >-
+      •Founder @euphoria.mde •Family @technoclub_ •manueladuquem1@gmail.com •Medellín, Colombia
     location: "Colombia"
-    followers: 334641
-    engagement: 304
-    commentsToLikes: 0.047635
-    id: ck5zwywji70s00i145ywx3tbh
+    followers: 89829
+    engagement: 371
+    commentsToLikes: 0.016042
+    id: ckap23z4rx9p00i78g9xmyrhg
     verified: false
-    hashtags: "#playa, #bikini, #glamping, #star"
-  - username: "davsierra"
+    hashtags: "#fashion, #reels, #instareel, #sunset"
+  - username: "brigituks"
     fullname: >-
-      David Sierra
+      ☆ Brigita Maldutytė ☆ ♊️
+    bio: >-
+      ѕтυ∂єит / ℓιтнυαиιαимσ∂єℓ _ #supermodels.lt 👠 📍 Medellín, Colombia 🇨🇴 with @iamincover
     location: "Colombia"
-    followers: 2863
-    engagement: 1295
-    commentsToLikes: 0.043535
-    id: ck5zo0eo2pi9t0i142fscpnon
+    followers: 10814
+    engagement: 357
+    commentsToLikes: 0.039354
+    id: ck0ude8giiy7a0i19zhg7dm27
     verified: false
-    hashtags: "#choreography, #fotografia, #pose, #nadiemequitalobailao"
+    hashtags: "#sabaneta, #friday, #nature, #happy"
+  - username: "photography_jed"
+    fullname: >-
+      Juan Esteban Echeverri
+    bio: >-
+      °Fotografo 📷📷📸 °Juan Esteban Echeverri Medellin🇨🇴Colombia #fotógrafo #medellin #Modelos #moda #mujeresvalientes
+    location: "Colombia"
+    followers: 30419
+    engagement: 100
+    commentsToLikes: 0.006196
+    id: ck55onr8b8qoq0i11yupjkp2x
+    verified: false
+    hashtags: ""
 ---

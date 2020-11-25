@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Madrid In 2020
 description: >-
-  Find top health Instagram influencers in Madrid in 2020. Most popular hashtags: #health #madrid #motivation #model.
+  Find top health Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #picoftheday #health #summer.
 platform: Instagram
+hits: 87
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 87 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
-  - username: "madridgoout"
+  - username: "albertodugarteinstitute"
     fullname: >-
-      Madrid GO Out / MadridG👀ut
+      ALBERTO DUGARTE INSTITUTE
+    bio: >-
+      ✂️ Salón de Peluquería 👩‍🎓Escuela de Maquillaje y Peluquería 📍 Cuesta San Vicente 42, Madrid . 💈 Barberia: @barberscrack By @albertodugarte
     location: "Spain"
-    followers: 18129
-    engagement: 210
-    commentsToLikes: 0.055097
-    id: ck5cgcgxdokb80i1197l7mcok
+    followers: 38640
+    engagement: 68
+    commentsToLikes: 0.034619
+    id: ck13c9hltz9260i19hjnbsz34
     verified: false
-    hashtags: "#turismomadrid, #quedate, #birthday, #madrile"
-  - username: "anitaginto"
+    hashtags: "#hairstylist, #haircut, #haircolor, #albertodugarteinstitute"
+  - username: "alejandrocorzo"
     fullname: >-
-      Ana I. Ginto 🐯
+      ALEJANDRO CORZO
+    bio: >-
+      ▫️Coach nutricional 🥑 ▫️Personal trainer🏅 ▫️Male model 📸
     location: "Spain"
-    followers: 6698
-    engagement: 549
-    commentsToLikes: 0.036177
-    id: ck14kz13ls1f30i19kl0kh09w
-    verified: false
-    hashtags: "#fitnesstrainer, #hiit, #cyclelife, #track"
-  - username: "tatacalde7"
-    fullname: >-
-      Tatiana Calderon
-    location: "Spain"
-    followers: 185156
-    engagement: 396
-    commentsToLikes: 0.007921
-    id: ck136ru2j7yaf0i19jzuh8boc
+    followers: 58006
+    engagement: 123
+    commentsToLikes: 0.038659
+    id: ck55ob2lx803q0i11ugxuqxax
     verified: true
-    hashtags: "#ejercicio, #experiencia, #initiatives, #stayathome"
+    hashtags: "#tan, #model, #exercise, #weights"
   - username: "paulita.workout"
     fullname: >-
-      PAULA GARCIA 🤸🏼‍♀️
+      𝐏𝐚𝐮𝐥𝐚 𝐆𝐚𝐫𝐜í𝐚 🇪🇸🤸🏼‍♂️
+    bio: >-
+      STREET WORKOUT athlete. 1🏆Carnival Battles 2019. 10%dcto → “PAULITAH” @gymsailor 📚C.A.F.A.D📚 Madrid ✈️ VDÀ MI CANAL DE YOUTUBE ⬇️⬇️
     location: "Spain"
-    followers: 11279
-    engagement: 3467
-    commentsToLikes: 0.094492
+    followers: 14792
+    engagement: 2700
+    commentsToLikes: 0.084260
     id: ck6tkr1jy58my0j71ikhxnajn
     verified: false
-    hashtags: "#loveit, #bar, #athlete, #score"
-  - username: "marbysnegretti"
+    hashtags: "#fit, #gimnasio, #salud, #entrenamiento"
+  - username: "gammafoto"
     fullname: >-
-      Marbys Negretti
+      GAMMAFOTO
+    bio: >-
+      Spanish photographer focused on male photograhy, specially fitness. Follow my work! All comments are appreciated! 🌍 Madrid (Spain)
     location: "Spain"
-    followers: 45070
-    engagement: 643
-    commentsToLikes: 0.034328
-    id: ck5zljxaqkxl00i14xp3tp1x6
+    followers: 38226
+    engagement: 253
+    commentsToLikes: 0.041483
+    id: ck5byyu8sq4b50i116z4ame2i
     verified: false
-    hashtags: "#madrid, #mcqueen, #freedom, #myheartisfull"
-  - username: "irinapeal"
+    hashtags: "#photooftheday, #gymtime, #sixpack, #marcuse"
+  - username: "david_sqdr"
     fullname: >-
-      I r i n a ☾
+      David.
+    bio: >-
+      from southern.📍Madrid. 👨🏼‍⚕️ & a r t lover.
     location: "Spain"
-    followers: 25173
-    engagement: 162
-    commentsToLikes: 0.148050
-    id: ck6ubnmd5an0k0j71zmp71w9r
+    followers: 13688
+    engagement: 2459
+    commentsToLikes: 0.015253
+    id: ckap8751jn4id0i78b558dovg
     verified: false
-    hashtags: "#women, #avedaspain, #ethical, #staysafe"
-  - username: "fj_alv"
-    fullname: >-
-      👨🏽‍⚕️Fran Alvarado 🤸🏽‍♂️🌈
-    location: "Spain"
-    followers: 215306
-    engagement: 702
-    commentsToLikes: 0.032617
-    id: ckaoz5miikh5q0i786xkdq40d
-    verified: false
-    hashtags: "#lyrical, #gay, #queer, #health"
-  - username: "emithesituation"
-    fullname: >-
-      Emilio Jiménez
-    location: "Spain"
-    followers: 17694
-    engagement: 728
-    commentsToLikes: 0.014747
-    id: ck5qc2qhiokux0i11m68tvt18
-    verified: false
-    hashtags: "#kisses, #zoukhotel, #zumubambassador, #trap"
+    hashtags: "#spanishboy, #nude, #photooftheday, #love"
   - username: "isaac.sevillano"
     fullname: >-
       Isaac Sevillano
+    bio: >-
+      📍#Madrid 👨‍💻#Fashion #product #manager 💪#Fitness, #healthylifestyle 👨🏻‍🎓#International #Business and #Management 📩Isaac.asevillano@gmail.com
     location: "Spain"
-    followers: 36645
-    engagement: 429
-    commentsToLikes: 0.028863
+    followers: 40248
+    engagement: 420
+    commentsToLikes: 0.031025
     id: ck6u341gnvksy0j71q9zun5rb
     verified: false
-    hashtags: "#pics, #moment, #image, #hair"
-  - username: "jadgoo"
+    hashtags: "#guys, #beauty, #tweegram, #nature"
+  - username: "_mauricio_morales_"
     fullname: >-
-      Isaac Jadraque
+      Hitano Jereles
+    bio: >-
+      🎬 ACTOR 🍷 Jerezano 💃🏾 Flamenco 💪🏾 Deportista 🕺🏾 Bailongo 🔥 the pary lives in me Jeré 🌍 Madrid 👇🏾 Entrevista en @albaceteamano 📰💥
     location: "Spain"
-    followers: 6345
-    engagement: 1100
-    commentsToLikes: 0.039882
-    id: ck8ta5expqhnj0j78u4zzl4rv
+    followers: 12530
+    engagement: 978
+    commentsToLikes: 0.032905
+    id: ck5cc8jqrgwo20i11rwgta6eg
     verified: false
-    hashtags: "#coronavirusmadrid, #illustrationartist, #warrior, #comicartist"
+    hashtags: "#verano, #playa, #gozando, #jerez"
+  - username: "tania.rdg"
+    fullname: >-
+      TANIA RODRÍGUEZ
+    bio: >-
+      Miss Gold Madrid 2021 Rumbo a @missgoldspain 💫
+    location: "Spain"
+    followers: 10477
+    engagement: 522
+    commentsToLikes: 0.060407
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
+    verified: false
+    hashtags: "#model, #moda, #girl, #summer"
+  - username: "cristinacifuentes"
+    fullname: >-
+      Cristina Cifuentes
+    bio: >-
+      Abogada/ Lawyer Expresidenta de la Comunidad de Madrid Exdelegada del Gobierno en Madrid 📩 info@cristinacifuentes.es 🌍 Malasaña, Madrid, Spain 🇪🇸
+    location: "Spain"
+    followers: 118769
+    engagement: 459
+    commentsToLikes: 0.075043
+    id: ck0w4559xwv330i19k3c6axo3
+    verified: true
+    hashtags: "#diseaseprevention, #quarantinelife, #prevencion, #enfermedades"
+  - username: "asdfmariely"
+    fullname: >-
+      Mariely | Belleza Y Arte 🖤
+    bio: >-
+      🇩🇴📍Madrid Diseñadora gráfica obsesionada con los productos de belleza que a veces dibuja que comparte cosas chulitas🖤✨• 👇🏽|Amazon List
+    location: "Spain"
+    followers: 10918
+    engagement: 369
+    commentsToLikes: 0.038117
+    id: ck6to8rsvcqpp0j71tgqm8y7e
+    verified: false
+    hashtags: "#hairstyles, #spain, #follow, #happy"
 ---

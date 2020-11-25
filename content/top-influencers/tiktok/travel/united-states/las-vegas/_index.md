@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Las Vegas In 2020
 description: >-
-  Find top travel TikTok influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #vegas #california #dance.
+  Find top travel TikTok influencers in Las Vegas in 2020. Most popular hashtags: #travel #lasvegas #fyp #california.
 platform: TikTok
+hits: 65
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat has 65 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
+  - username: "505traveler"
+    fullname: >-
+      505traveler
+    bio: >-
+      timelapse travels in the beautiful southwest 🚙💨
+    location: "United States"
+    followers: 12400
+    engagement: 1241
+    commentsToLikes: 0.051290
+    id: ckdh6rv83u0n50j236qz3t9o0
+    verified: false
+    hashtags: "#albuquerque, #fall, #route66, #phoenix"
+  - username: "trendytraveler"
+    fullname: >-
+      Bernice Padilla
+    bio: >-
+      Flight Attendant ✈️ Bucket List Adventures | Travel Tips IG: @bernicepadilla
+    location: "United States"
+    followers: 41100
+    engagement: 577
+    commentsToLikes: 0.019369
+    id: ckcv70hs4pu870j23t5mkwge4
+    verified: false
+    hashtags: "#aviation, #budgettravel, #travelguide, #mexico"
+  - username: "cloudy.skys.grwm"
+    fullname: >-
+      ✨𝙶 𝚁 𝚆 𝙼✨
+    bio: >-
+      《dm us on Instagram for collabs》 ✨please dont self promo✨ ✊🏽 ✊🏾 ✊🏿
+    location: "United States"
+    followers: 56300
+    engagement: 2484
+    commentsToLikes: 0.037462
+    id: ckfpluq4f0wfs0j2355fq1p5m
+    verified: false
+    hashtags: "#beach, #happy, #sunset, #skincare"
+  - username: "whitneynewkirk7"
+    fullname: >-
+      Whitney Newkirk
+    bio: >-
+      The John Wayne of Carol Burnett’s: Traveling across Cali in a Camper!
+    location: "United States"
+    followers: 15200
+    engagement: 907
+    commentsToLikes: 0.042454
+    id: cka5zmpjgnedd0i78e7lurdu7
+    verified: false
+    hashtags: "#foodie, #joshuatreenationalpark, #joshuatree, #nativetiktok"
+  - username: "rileyyen"
+    fullname: >-
+      Riley Yen
+    bio: >-
+      How I got into USC with 8 B’s and 2 C’s ↓
+    location: "United States"
+    followers: 44000
+    engagement: 2093
+    commentsToLikes: 0.008331
+    id: ckdnjgt1hisfo0j23ojuoqrs8
+    verified: false
+    hashtags: "#stockmarket, #roadtrip, #stocks, #travel"
+  - username: "mikesnedegar"
+    fullname: >-
+      MikeSnedegar
+    bio: >-
+      Connector, Influencer Relations. Vegas.
+    location: "United States"
+    followers: 13200
+    engagement: 409
+    commentsToLikes: 0.036695
+    id: ckc1zek8735cm0j23i1ml4b55
+    verified: true
+    hashtags: "#summer, #love, #lol, #whoeverhas"
+  - username: "okaynataliee"
+    fullname: >-
+      Natalie Tapia
+    bio: >-
+      20 • new mexico || minnesota • for fun
+    location: "United States"
+    followers: 7823
+    engagement: 891
+    commentsToLikes: 0.021675
+    id: ckdi7j7079hk00j231zkj2gec
+    verified: false
+    hashtags: "#festival, #edmlife, #festivals, #edm"
+  - username: "gahbea"
+    fullname: >-
+      Gabriela Amador
+    bio: >-
+      LA girl trying to live her Dreams Follow me on IG! Venmo: GAHBEA
+    location: "United States"
+    followers: 32600
+    engagement: 354
+    commentsToLikes: 0.030052
+    id: ckc7sj3t7xbj30j23emidyp00
+    verified: false
+    hashtags: "#dog, #pets, #foryourpage, #fall"
   - username: "vegaschick82"
     fullname: >-
       Kim
+    bio: >-
+      38 🍷 Polyamorous 💜 Army Veteran 🇺🇸 Las Vegas 🎰 SC: Combatbarbie82
     location: "United States"
-    followers: 2050
-    engagement: 703
-    commentsToLikes: 0.077474
+    followers: 2109
+    engagement: 1252
+    commentsToLikes: 0.122359
     id: ck95xw2xc7l8t0j78gemghh8h
     verified: false
-    hashtags: "#onehellofaweek, #teenagers, #duet, #sleepykitty"
-  - username: "wavechris_"
+    hashtags: "#dumptrump2020, #joebiden2020, #biden2020, #nevada"
+  - username: "jessemcintyre0"
     fullname: >-
-      Chris A
+      Jesse McIntyre
+    bio: >-
+      Painter from Michigan Lives in Las Vegas and Cocoa Beach Florida
     location: "United States"
-    followers: 9689
-    engagement: 1108
-    commentsToLikes: 0.236034
-    id: ck9shqjtnunl90j78yafuo25h
+    followers: 11300
+    engagement: 677
+    commentsToLikes: 0.068396
+    id: ckce6x0sgkut50j23x55ed890
     verified: false
-    hashtags: "#usecode, #2020, #foryouppage, #valorant"
-  - username: "parrismonlezun"
-    fullname: >-
-      Parris Ann Monlezun
-    location: "United States"
-    followers: 4389
-    engagement: 407
-    commentsToLikes: 0.019207
-    id: ck9c10lgkojkn0j78vfdanuxv
-    verified: false
-    hashtags: "#quarantine, #stayathome, #doitagain, #djkhaled"
-  - username: "_diane_0193"
-    fullname: >-
-      _diane_0193
-    location: "United States"
-    followers: 22161
-    engagement: 463
-    commentsToLikes: 0.050554
-    id: ck90xzaxi8on10j78bc55qz7i
-    verified: false
-    hashtags: "#amazingplace, #hotel, #babyboy, #eatemup"
-  - username: "alexojeda"
-    fullname: >-
-      Alex Ojeda 🇲🇽
-    location: "United States"
-    followers: 6526951
-    engagement: 2099
-    commentsToLikes: 0.012428
-    id: ck83z5x2by01e0j78eu5y4uv7
-    verified: true
-    hashtags: "#dance, #spongebob, #thejokerprankshop, #menshair"
-  - username: "bunny.nyc"
-    fullname: >-
-      bunny.nyc | Miffy
-    location: "United States"
-    followers: 209755
-    engagement: 2123
-    commentsToLikes: 0.012586
-    id: ck81s3t9apse60j78dsifk9oa
-    verified: false
-    hashtags: "#dessertporn, #supermario, #nycdesserts, #superman"
-  - username: "faresksebati"
-    fullname: >-
-      Fares Ksebati
-    location: "United States"
-    followers: 8670
-    engagement: 639
-    commentsToLikes: 0.046034
-    id: ck9f22egmb6sw0j78v52fhrs1
-    verified: false
-    hashtags: "#islam, #jordanian, #pushups, #aquarium"
-  - username: "travelesquire"
-    fullname: >-
-      TRAVEL Esquire 🥂✈️
-    location: "United States"
-    followers: 4275
-    engagement: 635
-    commentsToLikes: 0.048750
-    id: ck80oem7yhc0r0j78ve5fxa3r
-    verified: false
-    hashtags: "#newcollege, #williampenn, #clock, #venicecanals"
-  - username: "hofitkimcohen"
-    fullname: >-
-      Hofit Kim Cohen
-    location: "United States"
-    followers: 17523
-    engagement: 293
-    commentsToLikes: 0.051874
-    id: ck93o54k532mk0j783oj08xdl
-    verified: false
-    hashtags: "#dessert, #puppylove, #pretty, #travelblogger"
-  - username: "rubiesintherough"
-    fullname: >-
-      Helina 
-    location: "United States"
-    followers: 116062
-    engagement: 786
-    commentsToLikes: 0.023115
-    id: ck90xyorf8jcg0j78ohbmp4b2
-    verified: false
-    hashtags: "#fakepeople, #getoutside, #ouch, #swim"
+    hashtags: "#sunset, #florida, #honda, #wtf"
 ---

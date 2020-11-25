@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Austin In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Austin in 2020. Most popular hashtags: #stayhome #lifestyle #smile #texas.
+  Find top lifestyle Instagram influencers in Austin in 2020. Most popular hashtags: #texas #personaltrainer #travel.
 platform: Instagram
+hits: 200
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 200 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "mashamodels"
+  - username: "ccfriday408"
     fullname: >-
-      Masha
+      Jeff
+    bio: >-
+      Volkzgear © @clean_culture © @slammedenuff 📸 San Jose CA 🏠 San Antonio TX 📍
     location: "United States"
-    followers: 23131
-    engagement: 402
-    commentsToLikes: 0.048523
-    id: ck6u1cmsfkxx00j71efyx0gqq
+    followers: 2374
+    engagement: 746
+    commentsToLikes: 0.084278
+    id: ck6ub5w5b7nk20j71dq1zwx6k
     verified: false
-    hashtags: "#selfisolation, #advancedselfie, #minimalistic, #houstonstudios"
+    hashtags: "#1320video, #fitmentindustries, #zr1, #turbo"
+  - username: "spinsyddy"
+    fullname: >-
+      SYDNEY TORABI | HOME WORKOUTS
+    bio: >-
+      #HomeWorkouts + no equipment needed ⚡️Nutritionist who loves to eat ⚡️Athlete @underarmourwomen ⚡️Cannabiz @restartcbd [SUBSCRIBE ON YT]
+    location: "United States"
+    followers: 21818
+    engagement: 187
+    commentsToLikes: 0.041108
+    id: ck5zol62tqsnv0i14z9zbvmzh
+    verified: false
+    hashtags: "#underarmour, #igfit, #movementmedicine, #sweatitout"
+  - username: "billiexnewland"
+    fullname: >-
+      Billie Newland
+    bio: >-
+      Fashion • Beauty • Lifestyle 📍 Austin, TX 🤠 💌 : billienewland4@gmail.com ⚡️TikTok @billiexnewland 🎬 YouTube : Billie Newland
+    location: "United States"
+    followers: 29714
+    engagement: 260
+    commentsToLikes: 0.132334
+    id: ck15qgct42pjg0i192iaeoxi2
+    verified: false
+    hashtags: "#zara, #charcoalclothing, #adika, #adikastyle"
+  - username: "thefashionadmin"
+    fullname: >-
+      Steve
+    bio: >-
+      Fashion / Lifestyle / Purpose 📸 Photography — @_envisionphotography 🤝 Networking events — @phillygents 📍Philly Black Lives Matter
+    location: "United States"
+    followers: 25496
+    engagement: 308
+    commentsToLikes: 0.378264
+    id: ck5hhtn91a0kk0i11k1ly2u0x
+    verified: false
+    hashtags: "#fashionblog, #phillyfashion, #mensstyle, #mensfashion"
+  - username: "corneliselander"
+    fullname: >-
+      Cornelis Elander
+    bio: >-
+      Fitness Expert and TV host 📺 Norwegian 🇳🇴 in Hollywood @myworkout_com 💪
+    location: "United States"
+    followers: 62551
+    engagement: 258
+    commentsToLikes: 0.038126
+    id: ckf5la6grow9w0j23jdw2divc
+    verified: true
+    hashtags: "#styrketrening, #arms, #hjemmetrening, #komiform"
+  - username: "maxlee_50"
+    fullname: >-
+      Max Lee
+    bio: >-
+      Marketing Special Projects Coordinator and I race dirt bikes.
+    location: "United States"
+    followers: 10182
+    engagement: 734
+    commentsToLikes: 0.018850
+    id: ck6ti6ndt04zk0j7163zp5s37
+    verified: false
+    hashtags: "#tldmyline, #quarantivities, #lookgoodfeelgood, #getonthegas"
   - username: "jessicarockowitz"
     fullname: >-
       Austin Lifestyle Photographer
+    bio: >-
+      Austin, TX lifestyle photog + educator Mama of 3 ✨ Emotion, love, color, + light 🌈☀️ Fully stocked client closet for mama + babes
     location: "United States"
-    followers: 30936
-    engagement: 233
-    commentsToLikes: 0.046760
+    followers: 33085
+    engagement: 232
+    commentsToLikes: 0.055506
     id: ck5hip3ehenks0i11vphxvgyk
     verified: false
-    hashtags: "#hellostoryteller, #pleaseandthankyou, #ihaveaproblem, #clickinmoms"
+    hashtags: "#happyhumpdayeditingloop"
   - username: "justaconstructionguy"
     fullname: >-
       Omar
+    bio: >-
+      👷🏼‍♂️ In construction 👨‍👩‍👧 Father & Husband ☕️ Coffee Lover 📱 Lifestyle influencer 📍 Austin, TX
     location: "United States"
-    followers: 457302
-    engagement: 627
-    commentsToLikes: 0.006550
+    followers: 433831
+    engagement: 389
+    commentsToLikes: 0.021220
     id: ck6tlt6qu6lga0j71d9eu6h0j
     verified: true
-    hashtags: "#kobalttools, #pickupthepower, #sponsored, #sb54"
-  - username: "goodness_with_g"
+    hashtags: "#pickupthepower, #lowespartner, #kobalttools, #sponsored"
+  - username: "suril_"
     fullname: >-
-      Georgia Thompson
+      suril | austin, texas
+    bio: >-
+      shine your light ▲ | austin, tx | lifestyle & portrait photographer | email or dm for business inquiries | suril@surilpatel.com
     location: "United States"
-    followers: 5976
-    engagement: 1255
-    commentsToLikes: 0.328977
-    id: ck135fy7j18410i196ja6ww8d
+    followers: 27398
+    engagement: 102
+    commentsToLikes: 0.035220
+    id: ck134v60zycc80i19rrd785vl
     verified: false
-    hashtags: "#snapmyway, #dailyharvest, #cincodemayo, #snaplife"
-  - username: "pingzer"
+    hashtags: "#portraitsinthedesert, #35mmfilm, #elan7e, #treatyoak"
+  - username: "minithunderbird"
     fullname: >-
-      Pierce Ingram
+      Christine
+    bio: >-
+      ☽ Fitness • Health • Lifestyle ☽ Nutrition @austinadamsdc ☽ Training @teamcarolvaz ☽ @cls_sportswear use code thunder
     location: "United States"
-    followers: 8470
-    engagement: 687
-    commentsToLikes: 0.025345
-    id: ck0tyciermf8g0i19u56va0s3
+    followers: 31741
+    engagement: 242
+    commentsToLikes: 0.031286
+    id: ckf5o7td919390j23xakzz243
     verified: false
-    hashtags: "#stayathome, #covid19, #texas, #westtexas"
-  - username: "janehkim"
-    fullname: >-
-      j a n e | austin, tx
-    location: "United States"
-    followers: 2746
-    engagement: 1080
-    commentsToLikes: 0.055126
-    id: ckaor9cb6m9uz0i78yut93t4i
-    verified: false
-    hashtags: "#23, #janetakeskorea, #janetakescali, #janetakesaustin"
-  - username: "dom_blan"
-    fullname: >-
-      Dom 🔹🔸
-    location: "United States"
-    followers: 88782
-    engagement: 748
-    commentsToLikes: 0.013877
-    id: ck134jcrpwpoo0i19ifgvkdht
-    verified: false
-    hashtags: "#hugoboss, #plants, #puppyeyes, #preview"
-  - username: "sara_wilson1"
-    fullname: >-
-      Sara Wilson | Film TV Model
-    location: "United States"
-    followers: 114707
-    engagement: 520
-    commentsToLikes: 0.037465
-    id: ck5zornu9r6rr0i14rmq49w55
-    verified: false
-    hashtags: "#cota, #theeverygirl, #coronavirus, #catchmeinside"
-  - username: "onechelofanadventure"
-    fullname: >-
-      Chelsea Bancroft | ATX
-    location: "United States"
-    followers: 62418
-    engagement: 116
-    commentsToLikes: 0.091224
-    id: ck135fy6g183c0i196njizvzw
-    verified: false
-    hashtags: "#grocerystyle, #myheb, #mazda, #utahisrad"
-  - username: "beatdemons"
-    fullname: >-
-      BEATDEMONS.COM
-    location: "United States"
-    followers: 35021
-    engagement: 328
-    commentsToLikes: 0.049156
-    id: ck5hq509qsie70i11cosi98py
-    verified: false
-    hashtags: "#studiolife, #musicians, #caption, #lifestyle"
+    hashtags: "#cutegymclothes, #austinadamsdc, #teamcarolvaz, #clsbabe"
 ---

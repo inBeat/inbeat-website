@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Las Vegas In 2020
 description: >-
-  Find top TikTok influencers in Las Vegas in 2020. Most popular hashtags: #duet #makemomsmile #w2step #mmmdrop.
+  Find top TikTok influencers in Las Vegas in 2020. Most popular hashtags: #duet #fyp #greenscreen #foryoupage.
 platform: TikTok
+hits: 605
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 605 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "andrew.c08"
     fullname: >-
       Andrew.c08
+    bio: >-
+      18 an entity 👁👄👁 Las Vegas
     location: "United States"
-    followers: 5264
-    engagement: 2544
-    commentsToLikes: 0.088342
+    followers: 7064
+    engagement: 3002
+    commentsToLikes: 0.098309
     id: cka6obakler3f0i78l9otvr6h
     verified: false
-    hashtags: "#imbored, #draft, #greenscreen, #anime"
-  - username: "olliethecorgi"
-    fullname: >-
-      Ollie the Corgi
-    location: "United States"
-    followers: 538687
-    engagement: 2391
-    commentsToLikes: 0.061892
-    id: ck9drfv053vuw0j789xqjbi8l
-    verified: false
-    hashtags: "#diydogtreat, #mahm, #showmeyourwalk, #neverfitin"
-  - username: "cheyennejazwise"
-    fullname: >-
-      cheyennejazwise
-    location: "United States"
-    followers: 20348
-    engagement: 1978
-    commentsToLikes: 0.027004
-    id: ck8hk6fc3coun0j78i6p5mqv2
-    verified: false
-    hashtags: "#chel, #poseathome, #cosplayproblems, #teentitansgo"
-  - username: "mrsbennetthasclass"
-    fullname: >-
-      Misty Bennett
-    location: "United States"
-    followers: 90817
-    engagement: 1379
-    commentsToLikes: 0.039777
-    id: cka9q1r9h7hie0i78qp5rx7eg
-    verified: false
-    hashtags: "#crying, #scrollup, #outoftheblue, #snackbreak"
-  - username: "bradybeko"
-    fullname: >-
-      brady beko
-    location: "United States"
-    followers: 19663
-    engagement: 2068
-    commentsToLikes: 0.025401
-    id: cka0p9pxh7a2h0i78qkotsxuh
-    verified: false
-    hashtags: "#coronatime, #huntingtonbeach, #tiktok, #dances"
-  - username: "tspbakingco"
-    fullname: >-
-      Kari Garcia
-    location: "United States"
-    followers: 51873
-    engagement: 1295
-    commentsToLikes: 0.047090
-    id: ck963gem4upuk0j78dbb0k9ya
-    verified: false
-    hashtags: "#sahm, #got2bhome, #inverted, #starbucks"
-  - username: "anastasiacro"
-    fullname: >-
-      Anastasia Strizhanova
-    location: "United States"
-    followers: 756863
-    engagement: 2051
-    commentsToLikes: 0.012753
-    id: ck81s8e99qsc50j78exn7o8xx
-    verified: true
-    hashtags: "#justdancemoves, #anastaisacro, #beattobeat, #dontjudge"
-  - username: "vegaschick82"
-    fullname: >-
-      Kim
-    location: "United States"
-    followers: 2050
-    engagement: 703
-    commentsToLikes: 0.077474
-    id: ck95xw2xc7l8t0j78gemghh8h
-    verified: false
-    hashtags: "#onehellofaweek, #teenagers, #duet, #sleepykitty"
-  - username: "aye3than"
-    fullname: >-
-      Hi I'm Ethan 😤😳
-    location: "United States"
-    followers: 46543
-    engagement: 2028
-    commentsToLikes: 0.025760
-    id: ck9ae6c8v0jos0j78t0ru6qd2
-    verified: false
-    hashtags: "#famous, #pumaremix, #dayattheoffice, #emojichallenge"
+    hashtags: "#pet, #jokes, #fyp, #imbored"
   - username: "whiskeytango85"
     fullname: >-
       Laura
+    bio: >-
+      Army Veteran 🇺🇸 Boy Mom 👦🏻 Bully Mom 🐶 Las Vegas 🎰
     location: "United States"
-    followers: 3290
-    engagement: 1114
-    commentsToLikes: 0.057365
+    followers: 16400
+    engagement: 1807
+    commentsToLikes: 0.072812
     id: ckae7qagpi9k40i784wxfi36c
     verified: false
-    hashtags: "#bully, #birthstone, #tiktokaddict, #thatswhatilike"
+    hashtags: "#momsoftiktok, #greenscreen, #duet, #fyp"
+  - username: "kingqueengaming"
+    fullname: >-
+      QueenTrishy
+    bio: >-
+      wishlist ⬇️ insta ⬆️ Las Vegas 🎰 👸🏼Kenma Hair Captain Levi 👀 ✨ humor heals
+    location: "United States"
+    followers: 120500
+    engagement: 2320
+    commentsToLikes: 0.029474
+    id: ckbfijfzxecn50j23a10ytu7a
+    verified: false
+    hashtags: "#animeskit, #greenscreen, #captainlevi, #animetiktoker"
+  - username: "mrsbennetthasclass"
+    fullname: >-
+      Misty Bennett
+    bio: >-
+      8550 W Charleston Blvd Ste 102, PMB 143 Las Vegas, NV 89117 🌴
+    location: "United States"
+    followers: 139800
+    engagement: 1833
+    commentsToLikes: 0.041842
+    id: cka9q1r9h7hie0i78qp5rx7eg
+    verified: false
+    hashtags: "#tiktokteachers, #lasvegasteachers, #duet, #myhobby"
+  - username: "yfwolfofficial"
+    fullname: >-
+      YF Wolf
+    bio: >-
+      4821 Boulder Highway apt 101 Las Vegas NV 89121 Cashapp: $kelhook Venmo: Yfwolf
+    location: "United States"
+    followers: 23500
+    engagement: 2790
+    commentsToLikes: 0.086471
+    id: ck8hpa3dcykuo0j780dz3p4u8
+    verified: false
+    hashtags: "#twospirit, #yfwolf, #fyp, #live"
+  - username: "christian_shelton"
+    fullname: >-
+      Christian Shelton
+    bio: >-
+      A Singer 19 | Las Vegas Instagram: @christiansheltonsings
+    location: "United States"
+    followers: 504600
+    engagement: 1594
+    commentsToLikes: 0.026683
+    id: ckdbhijku8m7u0j231djpajad
+    verified: false
+    hashtags: "#4you, #singing, #foryourpage, #vocals"
+  - username: "alohaocean"
+    fullname: >-
+      Ocean Anders
+    bio: >-
+      🌺 Ocean 🌺 Las Vegas Duets #hiocean IG: @alohaocean 😀
+    location: "United States"
+    followers: 102000
+    engagement: 2730
+    commentsToLikes: 0.022177
+    id: ckdsto6vupk4b0j23zbmkgv7i
+    verified: false
+    hashtags: "#wtf, #alohaocean, #stitch, #foryou"
+  - username: "woahitsalo"
+    fullname: >-
+      Alyssa 
+    bio: >-
+      Starlet Las Vegas ♡ IG: @woahitsalo T P W K
+    location: "United States"
+    followers: 3796
+    engagement: 1982
+    commentsToLikes: 0.045061
+    id: ckcv56qekp5ra0j230yw7trjd
+    verified: false
+    hashtags: "#fyp, #foryoupage, #fineline, #onedirection"
+  - username: "vegaschick82"
+    fullname: >-
+      Kim
+    bio: >-
+      38 🍷 Polyamorous 💜 Army Veteran 🇺🇸 Las Vegas 🎰 SC: Combatbarbie82
+    location: "United States"
+    followers: 2109
+    engagement: 1252
+    commentsToLikes: 0.122359
+    id: ck95xw2xc7l8t0j78gemghh8h
+    verified: false
+    hashtags: "#dumptrump2020, #joebiden2020, #biden2020, #nevada"
+  - username: "tylerfunke"
+    fullname: >-
+      tyler funke :D
+    bio: >-
+      so hot, like really attractive PO Box #60750 Las Vegas, NV 89160
+    location: "United States"
+    followers: 1600000
+    engagement: 2885
+    commentsToLikes: 0.009932
+    id: ck8hs5fikbtlr0j78rg68pjvm
+    verified: true
+    hashtags: "#drtlife, #stylishlydrty, #duet"
 ---

@@ -1,67 +1,46 @@
 ---
 title: Top 10 Judo Fighters Instagram Influencers In 2020
 description: >-
-  Find top judo fighters Instagram influencers in 2020. Most popular hashtags: #judoka #judo #teamippongear #thicc.
+  Find top judo fighters Instagram influencers in 2020. Most popular hashtags: #judo #judobelarusteam #ippongear #kukoljteam.
 platform: Instagram
+hits: 3
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 3 Instagram influencers like this for you to connect with.
 profiles:
   - username: "ismailbelgaid"
     fullname: >-
       Ismail 'SOSA' Belgaid
-    location: "Morocco"
-    followers: 15189
-    engagement: 1118
-    commentsToLikes: 0.020710
+    bio: >-
+      Africain Champion U21 World Arabe Champion U21 Judo fighter 90kg Moroccan National Team Next Models - NYC/LONDON/PARIS Agent: Gaspard@nextmodels.com
+    location: "France"
+    followers: 15934
+    engagement: 1021
+    commentsToLikes: 0.024921
     id: ck5zrnjxuwx050i14zyc93qzf
     verified: false
     hashtags: "#sale, #brentchua"
-  - username: "slutskayamaryna"
-    fullname: >-
-      Марина Слуцкая
-    location: "Russia"
-    followers: 2621
-    engagement: 1768
-    commentsToLikes: 0.030522
-    id: ck5c2xxphy7q50i11rkndkk13
-    verified: false
-    hashtags: "#21daynatashapetrovich, #europeanjudo, #georgia, #trecnutrition"
-  - username: "aleksandar.kukolj"
-    fullname: >-
-      Aleksandar Kukolj ®
-    location: "France"
-    followers: 12288
-    engagement: 924
-    commentsToLikes: 0.007071
-    id: ckap9fwu2sifn0i784aevaycc
-    verified: true
-    hashtags: "#you, #support, #breast, #paris"
   - username: "mikita_sviryd"
     fullname: >-
       MIKITA SVIRYD
+    bio: >-
+      🥋 Belarusian Judo Fighter -100kg 🇪🇺 Vice European Champion U23🥈🥈 🌏 World&Europe U21🥉🥉🥉 🏆 Grand Prix🥈🥉 🌐 European Open🥇🥉🥉 💎 Sponsor @ippongear_official
     location: "Russia"
-    followers: 9841
-    engagement: 907
-    commentsToLikes: 0.024734
+    followers: 10360
+    engagement: 878
+    commentsToLikes: 0.021468
     id: ckap6ypvohx4m0i78s3kdj27r
     verified: false
-    hashtags: "#roadtotokyo, #covid, #georgian, #judominsk2018"
-  - username: "stef.judo.shuffler"
+    hashtags: "#judoka, #teamby, #ippongear, #judoinside"
+  - username: "aleksandar.kukolj"
     fullname: >-
-      🔥Stefanos Panayi🔥
-    location: ""
-    followers: 17379
-    engagement: 662
-    commentsToLikes: 0.018422
-    id: ck5zjk0dqhq960i14hd01aahv
-    verified: false
-    hashtags: "#sunnyday, #videodance, #shufflebros, #blackclothes"
-  - username: "danyellewolf"
-    fullname: >-
-      Danyelle Wolf
-    location: "United States"
-    followers: 24480
-    engagement: 363
-    commentsToLikes: 0.069956
-    id: ck14gwntr7eil0i19epq0df1v
+      Aleksandar Kukolj ®
+    bio: >-
+      🇷🇸Judo fighter -90kg European Champion 🏆 2017 World Ranking #1 Co-owner of @sportska.sala.vin 💊Pansport 🥋GreenHill 🏥MasterPhysical 👔Rancco 👞HIROshoes
+    location: "France"
+    followers: 12407
+    engagement: 862
+    commentsToLikes: 0.007974
+    id: ckap9fwu2sifn0i784aevaycc
     verified: true
-    hashtags: "#girlswholift, #mindset, #grit, #marvelcomics"
+    hashtags: "#aleksandarkukolj, #judo, #kukoljteam, #with"
 ---

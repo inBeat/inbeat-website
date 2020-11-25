@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top makeup Instagram influencers in Bangkok in 2020. Most popular hashtags: #makeup #felineagency #beauty #felinediversefuture.
+  Find top makeup Instagram influencers in Bangkok in 2020. Most popular hashtags: #makeup #fashion #bangkok.
 platform: Instagram
+hits: 24
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 24 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
+  - username: "ssomon"
+    fullname: >-
+      E S M O N :)
+    bio: >-
+      👑 MISS TIFFANY UNIVERSE 2018 • 1st Runner Up Miss International Queen 2019 🦋Owner : @esbua.style Contact LINE ID : ninlagar 📞084-2656429 ,083-9161969
+    location: "Thailand"
+    followers: 25806
+    engagement: 452
+    commentsToLikes: 0.006564
+    id: ck15s4abmb5fj0i19romj7fhh
+    verified: false
+    hashtags: "#frontrowathome, #set5, #set4, #esmonacademy"
   - username: "mojiratchayaa"
     fullname: >-
       Mo Jiratchaya Sirimongkolnawin
+    bio: >-
+      MTU - MIQ 2016 Director of talent model & influencer management @felineagency Contact : 064-198-2469
     location: "Thailand"
-    followers: 160193
-    engagement: 261
-    commentsToLikes: 0.006581
+    followers: 161049
+    engagement: 291
+    commentsToLikes: 0.006829
     id: ck6tud8hcfo1l0j71urvykqxs
     verified: true
-    hashtags: "#klosetss20, #thehiddentreasure, #narsthailand, #felineagency"
+    hashtags: "#themostlovedserum, #freshloveth, #tflightandsymmetry, #tfface"
   - username: "maew_makeup"
     fullname: >-
       MAEW Tasanapong (พี่แมว)
+    bio: >-
+      Professional make up artist. Bangkok ติดต่องาน line> maew_makeup ✨Hope you enjoy my works and pictures I shared..❤️
     location: "Thailand"
     followers: 131220
     engagement: 89
     commentsToLikes: 0.010924
     id: ck6u0ptbch3900j71jo0zuhev
     verified: false
-    hashtags: "#thaibeauty, #suqquthailand, #magnum, #lorealthailand"
-  - username: "praechompoo__"
+    hashtags: "#weddingreception, #bridebymaew, #makeupby, #suqquthailand"
+  - username: "b_boomm"
     fullname: >-
-      Nene ♛
+      Boom W.
+    bio: >-
+      🎧DJ.BOOM @ HITZ955 💕 🎤Mc / actress / freelance คุณมด 082-464-4562 ,063-691-6663
     location: "Thailand"
-    followers: 16167
-    engagement: 1233
-    commentsToLikes: 0.004641
-    id: ck8t2fhw0zakn0j78vgf4pqco
-    verified: false
-    hashtags: "#eglipsthailand, #astella, #astellathailand, #shopeeth44"
-  - username: "i_tinh"
+    followers: 558181
+    engagement: 167
+    commentsToLikes: 0.004819
+    id: ck13d68ro3vnm0i19a9gazopy
+    verified: true
+    hashtags: "#ilovelancome, #season, #circleofsociety, #powerful"
+  - username: "app.coll"
     fullname: >-
-      tinh / ติณห์
+      App.Coll
+    bio: >-
+      👩‍🎓Law| 👩‍💻#realestate |#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 🛒For 21+@wine_all_day 🛒Shopping My Collection @spritz_clothing 📍#Bangkok
     location: "Thailand"
-    followers: 35931
-    engagement: 1365
-    commentsToLikes: 0.003882
-    id: ck135zome41bs0i19py9hn3i9
+    followers: 13350
+    engagement: 1607
+    commentsToLikes: 0.058934
+    id: ckaoxrshcegax0i78l9dyxfyz
     verified: false
-    hashtags: "#350, #lamoonformen, #npskin, #booster"
-  - username: "newwy_official"
+    hashtags: "#outfit, #latex, #thailand, #tan"
+  - username: "yamy2p"
     fullname: >-
-      Be Humble🌸💓
+      Yam Poramate
+    bio: >-
+      Mister​ ​Universe​ Bangkok​ 2019​ 🇹🇭 MC​'50​ We Run ABM​ MFU'14 AOT​ VTCC 61 CMU AGRO FE'​54
     location: "Thailand"
-    followers: 57571
-    engagement: 132
-    commentsToLikes: 0.024821
-    id: ck55oxbb99boi0i11sdxrlv2b
+    followers: 16525
+    engagement: 1073
+    commentsToLikes: 0.014751
+    id: ck5q253yqebb40i11e69r5di2
     verified: false
-    hashtags: "#mayabell, #instapic, #skincare, #like"
+    hashtags: "#omgsportswear, #omgboy, #streetwear, #onmygame"
+  - username: "adriikuhn"
+    fullname: >-
+      Adriana Kuhn
+    bio: >-
+      Gaúcha, 24. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾 📍- Bangkok, Thailand
+    location: "Thailand"
+    followers: 6308
+    engagement: 697
+    commentsToLikes: 0.120219
+    id: ckf5riz4ecu4x0j23rpeeyhem
+    verified: false
+    hashtags: "#underwear, #jakarta, #eventos, #style"
+  - username: "risapong"
+    fullname: >-
+      Risa Pongpruksatol (Phun)⭐️
+    bio: >-
+      Colourful Outside yet Simple on the Inside⭐️ London College of Fashion, UAL 2015🎓 London School of Beauty & Makeup 2016💄 NIS class of 2011📝
+    location: "Thailand"
+    followers: 16470
+    engagement: 355
+    commentsToLikes: 0.031770
+    id: ck8sy6kgijvvb0j787w9q32i5
+    verified: false
+    hashtags: "#tiktokthailand, #tiktok, #tiktokdance, #mut2020"
   - username: "armytoast"
     fullname: >-
       Makeup Artist • Thailand
+    bio: >-
+      Army Achawin 📍Bangkok 🇹🇭 📌For work enquiries 📱 0946961965 🇹🇭🇬🇧 📱 Line ID :: armytoast #สวยทุกวี่สวยทุกวัน
     location: "Thailand"
-    followers: 64684
-    engagement: 106
-    commentsToLikes: 0.008011
+    followers: 66711
+    engagement: 228
+    commentsToLikes: 0.019154
     id: ck5cghtjiovfz0i114uaz1zuq
     verified: false
-    hashtags: "#devotedtochili, #macpowderkiss, #aovacollagen, #fallinlove"
-  - username: "benedict_studio"
+    hashtags: "#asian, #superstar, #saint, #luxurybeautybyarmytoast"
+  - username: "newwy_official"
     fullname: >-
-      Benedict Studio by Thananon
+      Be Humble🌸💓
+    bio: >-
+      🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 56992
-    engagement: 288
-    commentsToLikes: 0.021767
-    id: ck6tpqauylrj70j71gl9czbuz
+    followers: 56839
+    engagement: 143
+    commentsToLikes: 0.025051
+    id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#ploychermarn, #maidavikah, #weddingphotography, #everythinghasbeauty"
-  - username: "goddiamonds"
-    fullname: >-
-      God Diamonds By Chawalit
-    location: "Thailand"
-    followers: 15338
-    engagement: 677
-    commentsToLikes: 0.007477
-    id: ck135zp7u41fj0i19r5ctfyli
-    verified: false
-    hashtags: "#zeesup, #yayaurassaya, #silverring, #panama"
-  - username: "namcha_tea"
-    fullname: >-
-      Sheranut Yusananda
-    location: "Thailand"
-    followers: 893919
-    engagement: 69
-    commentsToLikes: 0.006020
-    id: ck14i9bvie9n20i19i7irseja
-    verified: true
-    hashtags: "#somerrissay, #eveandboyxlazada, #hitit, #kumikocollagen"
-  - username: "allybunnyruth"
-    fullname: >-
-      AL RUTH
-    location: "Thailand"
-    followers: 74111
-    engagement: 55
-    commentsToLikes: 0.024054
-    id: ck6uemofkruas0j71xex3q7up
-    verified: false
-    hashtags: "#burrito, #breakfastinbed, #lavenderfields, #wolverine"
+    hashtags: "#travel, #photooftheday, #pics, #photography"
 ---

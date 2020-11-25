@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Montreal In 2020
 description: >-
-  Find top beauty Instagram influencers in Montreal in 2020. Most popular hashtags: #makeup #beauty #vintage #stayhome.
+  Find top beauty Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #mtlblogger #fallfashion.
 platform: Instagram
+hits: 77
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 77 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
+  - username: "heliahomam"
+    fullname: >-
+      ❂ Helia ❂
+    bio: >-
+      .Singer and Song Writer . Music| Fashion | Beauty | Life Style 📍MTL “It Hurts So Much” is now available on Spotify.
+    location: "Canada"
+    followers: 39667
+    engagement: 1137
+    commentsToLikes: 0.025910
+    id: ck9wj132l4tt00j784in1m8oz
+    verified: false
+    hashtags: "#heliahomam, #singermtl, #fallvibes, #montreal2020"
   - username: "sicilianudimontreal"
     fullname: >-
       Nick Messina
+    bio: >-
+      Born and raised in east-end Montreal from proud Sicilian origins! 🇮🇹sicilianudimontreal@gmail.com nick@sicilianudimontreal.com #sicilianudimontreal™
     location: "Canada"
     followers: 17326
     engagement: 407
     commentsToLikes: 0.078162
     id: ck13anyosrbfx0i1956vo20d1
     verified: false
-    hashtags: "#schooling, #2020, #mayonnaise, #guanti"
-  - username: "nouhaila_ytb"
+    hashtags: "#mtl, #italians, #sicilianudimontreal, #happymothersday"
+  - username: "amoula__style"
     fullname: >-
-      Nouhaïla 💕
+      Amal Lassoued | Lifestyle
+    bio: >-
+      🇨🇦 | 📍Montréal 🌎🦋📸 Modest Fashion | Beauty | Travel | Food #montreal 📧 for collabs: amelhope.inc@gmail.com
     location: "Canada"
-    followers: 238751
-    engagement: 982
-    commentsToLikes: 0.009876
-    id: ck6uc606cdq5f0j712nt83wz7
+    followers: 20209
+    engagement: 257
+    commentsToLikes: 0.261554
+    id: ck0w0z38mgqtm0i19nkz6byk7
     verified: false
-    hashtags: "#makeuplook, #makeuptutorials, #beautygirl, #moroccangirl"
-  - username: "ariacalli"
+    hashtags: "#hijabfashionista, #ootdhijab, #hfinspo, #canadianbloggers"
+  - username: "sugarcoatedshushu"
     fullname: >-
-      ARIA
+      SUGARCOATEDSHUSHU
+    bio: >-
+      Shubana (she/her) Montreal based beauty + lifestyle content creator ↓ Promo codes ↓
     location: "Canada"
-    followers: 2928
-    engagement: 1213
-    commentsToLikes: 0.192539
-    id: ck8tbksikw1420j78ip326zz7
+    followers: 5536
+    engagement: 1406
+    commentsToLikes: 0.452682
+    id: ckaoub0tczl0b0i78rnvd3r2c
     verified: false
-    hashtags: "#tower28beauty, #itsoktobesensitive, #texturetuesday, #livinglibations"
-  - username: "mommy_and_mira"
+    hashtags: "#orosabeauty, #summerfridays, #chantecaille, #herbivorebotanicals"
+  - username: "devine_beauty_by_t"
     fullname: >-
-      Tahani.H🇨🇦🇮🇶Ottawa♡Canada
+      𝔻𝕖𝕧𝕚𝕟𝕖 𝔹𝕖𝕒𝕦𝕥𝕪 𝔹𝕪 𝕋
+    bio: >-
+      •ALPHA FEMALE• 📍Canada|MTL 🛍@sheinofficial Code:4Devi15 💄Influencer|Blogger| Collabs&Inquires:👇🏼 💌Devinebeautybyt@gmail.com
     location: "Canada"
-    followers: 40201
-    engagement: 289
-    commentsToLikes: 0.125414
-    id: ck6u7w19snz1x0j71cpu5wk7j
+    followers: 161411
+    engagement: 62
+    commentsToLikes: 0.027407
+    id: ck0vvh4pkp49b0i198g0xa14y
     verified: false
-    hashtags: "#yslbeauty, #makeup, #styleblogger, #ottawafashion"
-  - username: "goldenbeauty_xo"
+    hashtags: "#beautybloggers, #montreal, #influencermarketing, #influencerstyle"
+  - username: "joaohguedes"
     fullname: >-
-      Montreal Beauty Blogger ✨
+      The Diaries Project
+    bio: >-
+      Ottawa Boudoir Photographer @cosmiaphotography
     location: "Canada"
-    followers: 4792
-    engagement: 1414
-    commentsToLikes: 0.334194
-    id: ck8t2jgyezqav0j78ulh5rweh
+    followers: 60238
+    engagement: 346
+    commentsToLikes: 0.017500
+    id: ck5q6dcmywy5a0i11ddpbgnxw
     verified: false
-    hashtags: "#tiktokhits, #igbeauty, #gloss, #tartecosmetics"
-  - username: "kait_hawayek"
+    hashtags: "#model, #lifestyle, #ottawa, #morning"
+  - username: "demidiamandis"
     fullname: >-
-      Kaitlin Hawayek
+      DEMI DIAMANDIS  |  STYLE INSPO
+    bio: >-
+      #fashion #beauty #lifestyle 💍SD pittsburgh | montreal @demi__makeup demitra.stappas@gmail.com
     location: "Canada"
-    followers: 15793
-    engagement: 654
-    commentsToLikes: 0.013403
-    id: ck8swyajefmog0j78weu5iro4
-    verified: true
-    hashtags: "#makeuplooks, #motd, #team, #hiking"
-  - username: "bylauragdiaz"
-    fullname: >-
-      Laura Ⓥ Conscious Lifestyle
-    location: "Canada"
-    followers: 2553
-    engagement: 1173
-    commentsToLikes: 0.252800
-    id: ck13bok3gwepl0i19265dty97
+    followers: 9794
+    engagement: 513
+    commentsToLikes: 0.062389
+    id: ck137fbn8b8pe0i19a2455nzh
     verified: false
-    hashtags: "#dametraveler, #fvmtl, #mtlvegan, #veganbeautyblogger"
-  - username: "iam.neptuna"
+    hashtags: "#misslola, #30daysofoutfits, #americanstyle, #mlpartner"
+  - username: "_curiozite_"
     fullname: >-
-      N E P T U N A 🧜🏼‍♀️
+      Hanna🇭🇹
+    bio: >-
+      Natural Hair + Beauty +Lifestyle ✨Digital Creator 📍Montreal 📧 Curiozite@icould.com 🎬 YouTube video ⬇️
     location: "Canada"
-    followers: 3469
-    engagement: 2309
-    commentsToLikes: 0.188764
-    id: ckap3q95n435q0i78tew2axmj
+    followers: 5333
+    engagement: 821
+    commentsToLikes: 0.049214
+    id: ckaovd2j542j00i78991331ho
     verified: false
     hashtags: ""
-  - username: "instawanza"
+  - username: "bylauragdiaz"
     fullname: >-
-      Wided
+      Laura - Conscious Lifestyle
+    bio: >-
+      📸 Visual storytelling for ethical, sustainable & vegan-friendly brands ⋗ product • fashion • lifestyle ♡ green beauty ☼ body positivity 📍 Montreal
     location: "Canada"
-    followers: 168324
-    engagement: 557
-    commentsToLikes: 0.024845
-    id: ckaoynl0si9f10i784lhe6n3y
+    followers: 2513
+    engagement: 1204
+    commentsToLikes: 0.244004
+    id: ck13bok3gwepl0i19265dty97
     verified: false
-    hashtags: "#ramadankareem, #education, #quarantineinmtl, #mua"
-  - username: "mollyyycardi"
+    hashtags: "#thetravelwomen, #womenwhoexplore, #womenwhotravel, #girlsthattravel"
+  - username: "westmountfashionista"
     fullname: >-
-      Mollycardi👽
+      Jessica 📍 Montreal Blogger
+    bio: >-
+      {Blogging since 2011} Montreal|Flowers| Fashion|Handbags|Travel|Beauty|Mum to #madamandme 💌:jessica@westmountfashionista.com
     location: "Canada"
-    followers: 23077
-    engagement: 299
-    commentsToLikes: 0.093991
-    id: ck5q1vog1d05k0i11u2afkkvg
+    followers: 29716
+    engagement: 164
+    commentsToLikes: 0.097280
+    id: ck0tvzowhdhsy0i195evfsxa1
     verified: false
-    hashtags: "#blush, #waffle, #bag, #coffee"
+    hashtags: "#wmftravels, #traveltuesday, #cccertified, #montrealjewelry"
 ---

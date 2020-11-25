@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Chile In 2020
 description: >-
-  Find top fashion Instagram influencers in Chile in 2020. Most popular hashtags: #stayhome #instagramers #lifestyle #jlochallenge.
+  Find top fashion Instagram influencers in Chile in 2020. Most popular hashtags: #halloween #chile #ootd.
 platform: Instagram
+hits: 130
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 130 Instagram influencers like this in Chile for you to collaborate.
 profiles:
-  - username: "rachelcolinas"
-    fullname: >-
-      Raquel Fernandez Colinas
-    location: "Chile"
-    followers: 4387
-    engagement: 2842
-    commentsToLikes: 0.509806
-    id: ck6u1jwjxm6j00j71vizk3ukf
-    verified: false
-    hashtags: "#styleoutfit, #outfitblog, #influencerstyle, #igersspain"
-  - username: "saraemdi"
-    fullname: >-
-      Sara Domenech
-    location: "Chile"
-    followers: 149555
-    engagement: 584
-    commentsToLikes: 0.170354
-    id: ck6twrygktr300j71huepipb8
-    verified: false
-    hashtags: "#girlyroom, #mylvngrm, #workfromhome, #favoritos"
   - username: "carola.jorquera"
     fullname: >-
       Carolina Jorquera Oficial
+    bio: >-
+      Periodista/Modelo/ TV Host Fashion Expert/ Asesora de imagen Gestora Cultural/ CEO CJ-Un Concepto cjorquera.asesorias@gmail.com YOUTUBE👇🏽
     location: "Chile"
-    followers: 109522
-    engagement: 205
-    commentsToLikes: 0.064071
+    followers: 131248
+    engagement: 258
+    commentsToLikes: 0.043979
     id: ck5c78t1371xz0i11olpe35ga
     verified: false
-    hashtags: "#ropainterior, #diosesamor, #amigos, #dia32"
+    hashtags: "#solidaridad, #respeto, #campo, #carolinajorquera"
+  - username: "ladanicastror"
+    fullname: >-
+      Dani Castro.
+    bio: >-
+      🌟Good Vibes🌟 • Food • Fashion • Deco • 🇨🇱🌿 🐾 @fundacionchalota 💎Ayudo a emprendedores 📩 contactodanicastroc@gmail.com 💌 ladanicastror@gmail.com
+    location: "Chile"
+    followers: 823850
+    engagement: 236
+    commentsToLikes: 0.028697
+    id: ck0vz5t4z7gau0i19scx4vb1m
+    verified: true
+    hashtags: "#mgzschile, #mgzs, #always3xprotecci, #elsaborgenuino"
   - username: "_snakepit"
     fullname: >-
       Valentina
+    bio: >-
+      Fashion design student @highclass.dc - Jin @masterpiece.dc - Mingi @guess #GUESSFamily 🔥👇🏻
     location: "Chile"
-    followers: 16665
-    engagement: 1369
-    commentsToLikes: 0.018778
+    followers: 15722
+    engagement: 1476
+    commentsToLikes: 0.023888
     id: ck5q54hzyrcd20i11i2xuflzr
     verified: false
-    hashtags: "#mingi, #atiny, #halahala, #ozweego"
-  - username: "mariabottle_"
+    hashtags: "#atiny, #halahala, #ateez, #mingi"
+  - username: "frvn___"
     fullname: >-
-      María Bottle 🦋
+      FRVN
+    bio: >-
+      (프란) Fashion Design Student English speaker Dancer at: @devourchile ✉️: Fran.ascencio.w@gmail.com 🔥 Escucha mi 1er Single "DICEN"🔥 Link en bio ⬇️
     location: "Chile"
-    followers: 51773
-    engagement: 1649
-    commentsToLikes: 0.317219
-    id: ck6twabj1qvfm0j71s2qqfqdg
+    followers: 10580
+    engagement: 950
+    commentsToLikes: 0.042197
+    id: ck5q54d8crbll0i11quhk4m3s
     verified: false
-    hashtags: "#makeupchallenge, #makeupartist, #makeup, #instagramfilter"
-  - username: "xavicorrial"
+    hashtags: "#pride, #magicmochisquad, #aquaboho, #aquababe"
+  - username: "abrilfguerra"
     fullname: >-
-      Xavi
+      𝓐𝓫𝓻𝓲𝓵 𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓪• Moda&Belleza
+    bio: >-
+      💞Fashion Blogger ✨YouTuber 🛍CEO: @piamiastore 🇻🇪 | 🇨🇱📍
     location: "Chile"
-    followers: 89292
-    engagement: 138
-    commentsToLikes: 0.149934
-    id: ck14j5iugiqie0i19094qlglz
+    followers: 18351
+    engagement: 760
+    commentsToLikes: 0.032756
+    id: ck9hcah68ki9m0j78h9seqj2t
     verified: false
-    hashtags: "#lockdown, #tbt, #brazil"
-  - username: "nicoputz"
+    hashtags: "#ruivabrasil, #redhaircolor, #fashionstyle, #outfits"
+  - username: "valentinavalenncia"
     fullname: >-
-      Nicole Putz
+      22
+    bio: >-
+      Fashion designer
     location: "Chile"
-    followers: 173563
-    engagement: 443
-    commentsToLikes: 0.013719
-    id: ck15q5ihf17ao0i19n1rb3k1h
-    verified: true
-    hashtags: "#veranoensantiago, #9meses, #cuarentena, #ad"
+    followers: 67383
+    engagement: 553
+    commentsToLikes: 0.020601
+    id: ck134zmoyyz5k0i19doniphr9
+    verified: false
+    hashtags: "#newyork, #nyc, #holbox, #nuevayork"
+  - username: "gxlden.dabbie"
+    fullname: >-
+      𝑫𝒂𝒏𝒊𝒆𝒍𝒂 👸🏻
+    bio: >-
+      🇨🇴 @fashionstyle.ld @fan.cymakeup💄
+    location: "Chile"
+    followers: 11197
+    engagement: 1329
+    commentsToLikes: 0.014760
+    id: ckapc6j102o070i78e1x06g9k
+    verified: false
+    hashtags: ""
+  - username: "mimazamall"
+    fullname: >-
+      MIMA ZAMALL
+    bio: >-
+      🏳️‍🌈 Ser, es el acto más rebelde 🏳️‍🌈 Fashion Designer + Stylist + Art Director 🌍 @mimazamallshop
+    location: "Chile"
+    followers: 21316
+    engagement: 508
+    commentsToLikes: 0.092904
+    id: ck0vyw57r62rw0i19s05m66vn
+    verified: false
+    hashtags: "#quedateencasa, #supportlocal, #stayhome, #supportartists"
   - username: "ladanioliva"
     fullname: >-
       Daniela Oliva
+    bio: >-
+      FASHION ★ OUTFITS ★ ARTWORKS ★ LIFESTYLE ★ BODY POSITIVE ★ ✨Fundadora @danioliva.artwear 🎓Ingeniera Comercial UC 💖También me gusta bailar💃🏻🔥
     location: "Chile"
-    followers: 6628
-    engagement: 596
-    commentsToLikes: 0.060748
+    followers: 13933
+    engagement: 625
+    commentsToLikes: 0.056156
     id: ck6ti5vkw03jg0j71tdrebani
     verified: false
-    hashtags: "#cuarentena, #yomequedoencasa, #quarantinemood, #lookdafitiencasa"
-  - username: "wainreddo.ph"
+    hashtags: "#ziolsquad, #emilyinparis, #emilyinparisoutfit, #emilyinparisfashion"
+  - username: "xavicorrial"
     fullname: >-
-      Cute & Pastel Portraits 🌸
+      Xavi
+    bio: >-
+      🇪🇸 📍CL Tiktok: xavicorrial [24,6k] 📩 xaviercorrial@gmail.com Embajador @fashionnovamen
     location: "Chile"
-    followers: 19416
-    engagement: 691
-    commentsToLikes: 0.008437
-    id: ck5ho8719p40c0i11gsscs040
+    followers: 89038
+    engagement: 117
+    commentsToLikes: 0.071954
+    id: ck14j5iugiqie0i19094qlglz
     verified: false
-    hashtags: "#cowgirl, #chokernecklace, #pinkwig, #rezerocosplay"
-  - username: "marcelamayorgas"
-    fullname: >-
-      Marcela Mayorga
-    location: "Chile"
-    followers: 18645
-    engagement: 225
-    commentsToLikes: 0.042566
-    id: ck6ty9c9f2eaz0j71x314la9h
-    verified: false
-    hashtags: "#postcardsfrommybalcony, #agroforestry, #ilustrations, #quarentine"
+    hashtags: "#halloween, #sunset, #photography, #photosho"
 ---

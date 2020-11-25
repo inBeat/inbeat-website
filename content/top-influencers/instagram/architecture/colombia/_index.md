@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Colombia In 2020
 description: >-
-  Find top architecture Instagram influencers in Colombia in 2020. Most popular hashtags: #architecture #bogota #quedateencasa #like.
+  Find top architecture Instagram influencers in Colombia in 2020. Most popular hashtags: #architecture #nature #colombia #city.
 platform: Instagram
+hits: 23
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 23 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "js.archidrawing"
     fullname: >-
       JS.camacho
+    bio: >-
+      Architect - Artist Colombian 🇨🇴 | Art and architecture are the universal language | Commission for Dm or email ✉
     location: "Colombia"
-    followers: 5950
-    engagement: 1204
-    commentsToLikes: 0.019239
+    followers: 10886
+    engagement: 655
+    commentsToLikes: 0.015452
     id: ck9wdlklsg8130j78fcuj4okq
     verified: false
-    hashtags: ""
+    hashtags: "#pencil, #igblackandwhite, #architecturesketch, #nycarchitecture"
   - username: "omar_portela"
     fullname: >-
-      Omar
+      Omar Portela
+    bio: >-
+      ● Architecture, Rooftops and Photography. ● National University of Colombia. ● Contact: +57 3163264646 ● From Aruba. ●In Medellín.
     location: "Colombia"
-    followers: 6826
-    engagement: 479
-    commentsToLikes: 0.011455
+    followers: 7289
+    engagement: 502
+    commentsToLikes: 0.011066
     id: ck0ubk42demb80i19bhfdtv1p
     verified: false
-    hashtags: "#squares, #skyline, #citycenter, #tunnel"
-  - username: "julianatomann"
+    hashtags: "#love, #mountains, #artoftheday, #train"
+  - username: "yessenxaa"
     fullname: >-
-      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
+      Yessenia Andrade
+    bio: >-
+      ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
     location: "Colombia"
-    followers: 14888
-    engagement: 1640
-    commentsToLikes: 0.099491
-    id: ck14ltbuxwdna0i19naqt0jed
+    followers: 69977
+    engagement: 164
+    commentsToLikes: 0.090122
+    id: ckaova9cd3pg30i785lpflyn0
     verified: false
-    hashtags: "#loveyourself, #makeupoftheday, #thanksgiving, #goodtimes"
-  - username: "nnicolasesteban"
+    hashtags: "#life, #selfie, #clearskin, #theme"
+  - username: "alex_betancure"
     fullname: >-
-      Nicolas Esteban
+      🇨🇴 La Colombia de Alex 📸 Fotos
+    bio: >-
+      Conoce la bella Colombia 🇨🇴 foto a foto 📸 🧭 Viajes 📸 fotografía Y 🤠 🅟🅤🅑🅛🅘🅒🅘🅓🅐🅓 por DM 👩‍🌾 Tradición 🧙Experiencias 📍Medellín Antioquia
     location: "Colombia"
-    followers: 133409
-    engagement: 495
-    commentsToLikes: 0.016595
-    id: ck5hjxf86hf1z0i11p3tx1v00
+    followers: 15916
+    engagement: 709
+    commentsToLikes: 0.033616
+    id: ck14je4uxjve80i19d4ba64q6
     verified: false
-    hashtags: "#besafe, #fitnessmotivation, #cuarentena, #gym"
-  - username: "ricardofrance9"
+    hashtags: "#montain, #cafe, #green, #yovoy"
+  - username: "traveloving_colombia"
     fullname: >-
-      Mr. R Í C A R D O   O C H O A
+      TRAVELOVING_COLOMBIA
+    bio: >-
+      Presione el link, hablamos y creamos algo realmente interesante Videos y Fotografías aéreas🎥🚁 #traveloving_colombia Youtube : @traveloving_colombia
     location: "Colombia"
-    followers: 27086
-    engagement: 526
-    commentsToLikes: 0.025493
-    id: ckap3qcy343p40i78gk6n1mqg
+    followers: 10482
+    engagement: 457
+    commentsToLikes: 0.310670
+    id: ck0w0n3rnf1jg0i19co3mz5m1
     verified: false
-    hashtags: "#fashionman, #corona, #influencer, #coronavirus"
-  - username: "locombia"
+    hashtags: "#videocomercial, #valledelcauca, #creadordecontenido, #lasucursaldelcielo"
+  - username: "purpurall"
     fullname: >-
-      Locombia
+      A N D R E
+    bio: >-
+      💜 Mercadóloga y Publicista 🌳 Sembremos árboles @1000enundia 🔻 Mod en @city_captures @drones_captures @color_captures @night_captures
     location: "Colombia"
-    followers: 23195
-    engagement: 296
-    commentsToLikes: 0.234017
-    id: ck5zw15bi5a3m0i148n3du114
+    followers: 21168
+    engagement: 840
+    commentsToLikes: 0.019215
+    id: ck0w0n1fzf1aq0i19admo5yvn
     verified: false
-    hashtags: "#vanlifediaries, #earthdayathome, #travelawesome, #borntotravel"
-  - username: "ogualteros"
+    hashtags: "#ig, #night, #bogot, #artofvisuals"
+  - username: "tripshooting"
     fullname: >-
-      🎻Olga Gualteros🎻
+      Laura Olejua Viajes y fotos
+    bio: >-
+      📷 Artista viajera. Entonces, ¿Nos vamos de viaje? 💡 Creadora de: @villadeleyvafestiva 👇
     location: "Colombia"
-    followers: 6587
-    engagement: 581
-    commentsToLikes: 0.055538
-    id: ck0vuyhf8mq4u0i19z8lm1ofp
+    followers: 8696
+    engagement: 394
+    commentsToLikes: 0.084850
+    id: ck139x03unjig0i196vh9t03z
     verified: false
-    hashtags: "#padre, #encasa, #piensaengrande, #esmejor"
-  - username: "davebogota"
+    hashtags: "#cityview, #ourcolombia, #travelbucketlist, #igersbogota"
+  - username: "romanafilipkova"
     fullname: >-
-      David Becerra 🇨🇴🏳️‍🌈🇵🇱
+      Romana Filipkova
+    bio: >-
+      Make-up & Fashion & travel | mum of @rebekafilipkovaballerina | Mary Kay Sales Director |🌏🎨👠💄 zakladatelka Nadačního fondu @krasnasrdcepomahaji
     location: "Colombia"
-    followers: 6231
-    engagement: 432
-    commentsToLikes: 0.031192
-    id: ck5q6az0fwo1h0i11dl5yissk
+    followers: 15748
+    engagement: 1308
+    commentsToLikes: 0.000898
+    id: ck6uetwigt2lp0j71n06dikz8
     verified: false
-    hashtags: "#orange, #desk, #venecia, #projects"
-  - username: "sabine.at.besabine"
+    hashtags: "#city, #memories, #firework, #hollywood"
+  - username: "arquitecturamixta"
     fullname: >-
-      Web design | Blogger | 🇨🇴Tips
+      Arquitectura Mixta
+    bio: >-
+      Bioconstrucción inspirada en la geometría universal Arquitectura biomimética y parametria #youtube 🎋
     location: "Colombia"
-    followers: 5177
-    engagement: 785
-    commentsToLikes: 0.070106
-    id: ck9wfjab8p2hi0j783yp6ov9y
+    followers: 11995
+    engagement: 373
+    commentsToLikes: 0.063375
+    id: ck6u8t40etics0j71vjk99his
     verified: false
-    hashtags: "#salkantay, #traveldream, #igcolombia, #cloudlover"
-  - username: "deandariegos"
+    hashtags: "#architecture, #youtube, #design, #brasil"
+  - username: "entre.estilos"
     fullname: >-
-      De Andariegos en....
+      Entre Estilos™ Arquitectura
+    bio: >-
+      Plataforma de Arquitectura Creadores: @jpalvarezll @raquelhoyosl Pautas de Publicidad al DM 📩entre.estilos1@gmail.com Colaboradores @aydrevista
     location: "Colombia"
-    followers: 10534
-    engagement: 245
-    commentsToLikes: 0.194649
-    id: ck0w5qd5j4wx50i199zr9kpso
+    followers: 77310
+    engagement: 217
+    commentsToLikes: 0.004930
+    id: ckaoudt3fzub10i78eckt7k9y
     verified: false
-    hashtags: "#amor, #travellers, #bilbaocity, #couplewhotravel"
+    hashtags: "#follow, #sketches, #art, #archidaily"
 ---

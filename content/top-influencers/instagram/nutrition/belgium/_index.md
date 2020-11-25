@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Belgium In 2020
 description: >-
-  Find top nutrition Instagram influencers in Belgium in 2020. Most popular hashtags: #nutrition #photooftheday #happy #picoftheday.
+  Find top nutrition Instagram influencers in Belgium in 2020. Most popular hashtags: #fitness #workout #motivation #nutrition.
 platform: Instagram
+hits: 13
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Belgium for you to contact.
 profiles:
-  - username: "fabian.fcs"
+  - username: "michielw24"
     fullname: >-
-      Fabian
+      MICHIEL🤘🏼
+    bio: >-
+      FOUNDER 🇧🇪 Belgian Power Team 🇧🇪 ONE LIFE, LIVE IT ————— Nutrition Workouts Lifestyle ————— | LIVE YOUR PASSION |
     location: "Belgium"
-    followers: 5235
-    engagement: 731
-    commentsToLikes: 0.116412
-    id: ck0w3reeduvs60i19vfw0rnd0
+    followers: 7063
+    engagement: 693
+    commentsToLikes: 0.023958
+    id: ckapcej6o3htm0i78zpu7p1s8
     verified: false
-    hashtags: "#labo, #forsanclothing, #snow, #finalclub"
-  - username: "lunalissens"
-    fullname: >-
-      L U N A 🌙
-    location: "Belgium"
-    followers: 4618
-    engagement: 1881
-    commentsToLikes: 0.089096
-    id: ck8tct1ke0kcw0j788ddfr7w0
-    verified: false
-    hashtags: "#picoftheday, #nakd, #idealofsweden, #happy"
-  - username: "hennyseroeyen"
-    fullname: >-
-      WBFF PRO Fitness Model
-    location: "Belgium"
-    followers: 175661
-    engagement: 355
-    commentsToLikes: 0.075823
-    id: ck6trfi5nyorg0j7144qgzj2o
-    verified: true
-    hashtags: "#model, #cfbfamily, #secondvideo, #olimplaf"
+    hashtags: "#ootd, #fitness, #business, #goals"
   - username: "arrow_the_pooch"
     fullname: >-
       Arrow 🐾
+    bio: >-
+      Hi I am Arrow! 1 year old girl Belgian Malinois and GSD My best friend is a black cat I own @bowwow_nutrition_
     location: "Belgium"
-    followers: 20904
-    engagement: 698
-    commentsToLikes: 0.010132
+    followers: 21922
+    engagement: 767
+    commentsToLikes: 0.011019
     id: ck0vzwi69b8er0i19ue8uuuji
     verified: false
     hashtags: ""
-  - username: "michielw24"
+  - username: "rkperformance_"
     fullname: >-
-      YOUR ONLINE FITCOACH 🤘🏼
+      RK9
+    bio: >-
+      🧠 |Le MENTAL FAIT DE TOI LA PERFORMANCE | ⚽️ |PERFORMANCE| #RkPlayersTeam 🏋🏽‍♂️ |FITNESS| 🇧🇪 |BELGIUM|
     location: "Belgium"
-    followers: 5127
-    engagement: 520
-    commentsToLikes: 0.020223
-    id: ckapcej6o3htm0i78zpu7p1s8
+    followers: 13550
+    engagement: 748
+    commentsToLikes: 0.012376
+    id: ck8szvjcipvdp0j78z6ijwz4l
     verified: false
-    hashtags: "#growthmindset, #strength, #onlineworkout, #healthyhabits"
+    hashtags: ""
   - username: "assya.grs"
     fullname: >-
-      Superpaco6  ✨🐨🎮
+      MOTIVATION|FITNESS|LIFESTYLE
+    bio: >-
+      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒮𝓊𝓅𝑒𝓇𝓅𝒶𝒸𝑜 𝟔🍿
     location: "Belgium"
-    followers: 10104
-    engagement: 1604
-    commentsToLikes: 0.067022
+    followers: 37126
+    engagement: 902
+    commentsToLikes: 0.054771
     id: ck9hb93x3fv9q0j78ykmv4qoi
     verified: false
-    hashtags: "#game, #strength, #malibu, #staystrong"
-  - username: "marielifeness"
-    fullname: >-
-      Marie Thomas
-    location: "Belgium"
-    followers: 44149
-    engagement: 454
-    commentsToLikes: 0.212842
-    id: ck8t0oudfsqvp0j785t39qn0x
-    verified: false
-    hashtags: "#sudiofr, #prize, #tailleur, #dream"
+    hashtags: "#zyzz, #twitchgirl, #musculation, #shredded"
   - username: "jarnebaele"
     fullname: >-
       JARNE BAELE
+    bio: >-
+      IF | Running | Fashion ​ 📩 jarne.baele@hotmail.com​
     location: "Belgium"
-    followers: 103969
-    engagement: 930
-    commentsToLikes: 0.080796
+    followers: 91311
+    engagement: 910
+    commentsToLikes: 0.061563
     id: ck5zx3lqs7a090i14pem36vhr
     verified: false
-    hashtags: "#italiaansefurie, #staysafe, #scapasports, #idealofsweden"
-  - username: "mehdi_amri_10"
+    hashtags: "#giveaway, #iphone11pro, #lockdown, #win"
+  - username: "mazzeijoyce"
     fullname: >-
-      Mehdi Amri
+      𝐉𝐨𝐲𝐜𝐞 𝐌𝐚𝐳𝐳𝐞𝐢
+    bio: >-
+      📚 Psychology ✨ 21 years old 🎤 Singing
     location: "Belgium"
-    followers: 109041
-    engagement: 1454
-    commentsToLikes: 0.019094
-    id: ck5qaxkvkirxb0i112aowu47t
+    followers: 8902
+    engagement: 701
+    commentsToLikes: 0.114292
+    id: ck8t4hap26tgc0j7804p0d62a
     verified: false
-    hashtags: "#youcantstopus, #newyork, #eidmubarak, #recovery"
-  - username: "belge_une_fois"
+    hashtags: "#selfie, #fitfam, #motivation, #gymmotivation"
+  - username: "elkevanhoof91"
     fullname: >-
-      Belge une fois
+      🌍 Elke Vanhoof 🚲
+    bio: >-
+      ♥️ @demeyvalerie 🇧🇪Belgian Defence - Belgian Team 🏆Olympic BMX Athlete | Euro Champ 🥇🥈🥉 🎓BMX Coach 👇🏻 🙋@project91bmx 🚲 @cyclingcube
     location: "Belgium"
-    followers: 18350
-    engagement: 278
-    commentsToLikes: 0.170830
-    id: ck6uhdx6g8jzx0j71q5fwy9u1
+    followers: 10168
+    engagement: 464
+    commentsToLikes: 0.029173
+    id: ck0w6m5vv98t80i19dl5dro82
     verified: false
-    hashtags: "#foodporn, #guabao, #plante, #procreate"
+    hashtags: "#happy, #fietsen, #racing, #bmx"
+  - username: "zongowest"
+    fullname: >-
+      Zongo West
+    bio: >-
+      PERSONAL TRAINER🎓 🇧🇪 No one is u that's your power. #bruxelles @qntsportnutrition : Zongo20
+    location: "Belgium"
+    followers: 29479
+    engagement: 325
+    commentsToLikes: 0.016700
+    id: ck0txd9zbituz0i1916zhhelg
+    verified: false
+    hashtags: "#bodytransformation, #coachinglife, #bruxellesmabelle, #followme"
+  - username: "sterck_tamara"
+    fullname: >-
+      💕💕💕Tamara Sterck💕💕💕
+    bio: >-
+      𝟸𝟺 ʏᴏ •ʙᴇʟɢɪᴜᴍ-ʟɪᴇ̀ɢᴇ 🇧🇪. •ᴡɪғᴇ ᴀɴᴅ ᴍᴏᴍ. •ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ. .💍@christian_houbben . @local_beauties_benelux #travel #photo #fashion #fitness
+    location: "Belgium"
+    followers: 11907
+    engagement: 371
+    commentsToLikes: 0.029197
+    id: ckap1wvfwwf9y0i78cj7tg8hd
+    verified: false
+    hashtags: "#photo, #motivation, #picoftheday, #photography"
+  - username: "_curlsandglutes_"
+    fullname: >-
+      M.
+    bio: >-
+      𝘐𝘧𝘣𝘣 𝘸𝘦𝘭𝘭𝘯𝘦𝘴𝘴 𝘢𝘵𝘩𝘭𝘦𝘵𝘦 • 𝘗𝘰𝘴𝘪𝘯𝘨 𝘤𝘰𝘢𝘤𝘩 • 𝘔𝘰𝘵𝘪𝘷𝘢𝘵𝘰𝘳 - Coach: @team.h3nn0 - Sponsors: @gorillawearusa / @trecnutritionbe - Collabs: 📩
+    location: "Belgium"
+    followers: 4267
+    engagement: 764
+    commentsToLikes: 0.061665
+    id: ck14lc7zitxiy0i19qgvmtog4
+    verified: false
+    hashtags: "#quads, #bifbb, #photoshoot, #girlswholift"
 ---

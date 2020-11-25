@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In 2020
 description: >-
-  Find top boxers Instagram influencers in 2020. Most popular hashtags: #boxerdoglovers #boxerdogfans #staysafe #idrawdoggo.
+  Find top boxers Instagram influencers in 2020. Most popular hashtags: #boxing #hardwork #boxer.
 platform: Instagram
+hits: 1530
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 1530 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "boxers_lovely_bx"
     fullname: >-
       Boxers
+    bio: >-
+      🌟We 💖Boxers Dog || 👕 Uniquely Designed T-Shirts&more 🌟 Printed in the USA 🌟 💯Satisfaction guarantied❗ CLICK⤵to SHOP 👕 ⤵👇👇
     location: "United States"
-    followers: 26979
-    engagement: 405
-    commentsToLikes: 0.009338
+    followers: 28826
+    engagement: 599
+    commentsToLikes: 0.009064
     id: ck14jg4mfk6380i19pj2vva1a
     verified: false
-    hashtags: "#doglover, #theboxerworld, #boxerdogfans, #boxer101"
-  - username: "boxer_love_honey"
-    fullname: >-
-      Boxer
-    location: "United States"
-    followers: 26810
-    engagement: 326
-    commentsToLikes: 0.008825
-    id: ck14jg6auk6aq0i19x6q9tx0u
-    verified: false
-    hashtags: ""
+    hashtags: "#boxermurah, #beatboxer, #boxerbriefs, #boxerplanet"
   - username: "boxer_funny_sky"
     fullname: >-
       Boxer
+    bio: >-
+      Hey, I am a fun-loving ‘Bruce-iful’ Boxer living life to the fullest in world. was Born August-2017 ❤️Shopping Here: @boxers_lovely_bx
     location: ""
     followers: 24847
     engagement: 289
     commentsToLikes: 0.004996
     id: ck14jg4ijk61f0i190zq02gmn
     verified: false
-    hashtags: "#boxerfam, #iloveboxers, #babyboxer, #boxerdoglovers"
-  - username: "alirezachalook"
+    hashtags: "#boxersrule, #boxerpuppy, #boxers, #whiteboxer"
+  - username: "overtflow"
     fullname: >-
-      Alireza
-    location: "Iran"
-    followers: 10160
-    engagement: 3057
-    commentsToLikes: 0.255629
-    id: ck0w54ab21tqv0i195yyrmbal
-    verified: false
-    hashtags: ""
-  - username: "carol_mattar"
-    fullname: >-
-      ɕarol 🎈
-    location: ""
-    followers: 10131
-    engagement: 1363
-    commentsToLikes: 0.155335
-    id: ck5pzy24i3axm0i11g5o971gm
-    verified: false
-    hashtags: "#stayhome, #staysafe, #quarantine, #justsaying"
-  - username: "davidadeleye1"
-    fullname: >-
-      David Adeleye
-    location: "United Kingdom"
-    followers: 9793
-    engagement: 1560
-    commentsToLikes: 0.065926
-    id: ck5hirvpqf1zt0i11al25u1u4
-    verified: false
-    hashtags: "#wilderfury, #throwback"
-  - username: "patday_allday"
-    fullname: >-
-      Patrick Day
+      OVERT | PJ
+    bio: >-
+      yoyoyo Fortnite Creator: OVERT 2.5M+ Followers 🎮 Pro Gamer 🥊 Logan Paul vs KSI Boxer 🏀 NBA Playmakers 🏆 Game Awards ♾ FaZe Up 🥋 BJJ Brown Belt 🎰 Vegas
     location: "United States"
-    followers: 14229
-    engagement: 2047
-    commentsToLikes: 0.083787
-    id: ck5zymuura5r20i14ayxb2hm9
+    followers: 130860
+    engagement: 471
+    commentsToLikes: 0.138517
+    id: ck8wfyhlqggin0j78w1tplpg1
     verified: false
-    hashtags: "#brunch, #dhodge, #alldayeveryday, #thejackpot"
+    hashtags: "#fortnite, #fazeup, #vbucks"
+  - username: "adligoldenboyhafidz"
+    fullname: >-
+      adli 'goldenboy' hafidz
+    bio: >-
+      Malaysian Professional boxer 🇲🇾 SEA Games medalist WBC ASIA SILVER CHAMPION WBA ASIA SOUTH CHAMPION ( 8-0-0 )
+    location: "Malaysia"
+    followers: 18367
+    engagement: 907
+    commentsToLikes: 0.037388
+    id: ck5q3jm14l1p30i11z5ppw3z6
+    verified: false
+    hashtags: "#teamgoldenboy, #hardwork, #adligoldenboy, #routine"
   - username: "dan_azeez"
     fullname: >-
-      Dan Azeez
+      𝗗𝗔𝗡 𝗔𝗭𝗘𝗘𝗭
+    bio: >-
+      Professional Light-Heavyweight Boxer🥊12-0 Southern Area Champion English Champion 🏆 📩 Enquiries info@connectforce.co.uk | Sponsored by @romaxssltd
     location: "United Kingdom"
-    followers: 8681
-    engagement: 1275
-    commentsToLikes: 0.061225
+    followers: 9206
+    engagement: 1181
+    commentsToLikes: 0.066971
     id: ck5byoo3npjph0i11wnro9oxy
     verified: false
-    hashtags: "#instalife, #azeez, #tbt, #super"
-  - username: "adambub"
-    fullname: >-
-      Adam Bub
-    location: "Australia"
-    followers: 22909
-    engagement: 706
-    commentsToLikes: 0.060317
-    id: ckap41k4x5fq00i78tc17xxfh
-    verified: false
-    hashtags: "#tbt"
+    hashtags: "#march20th, #andstill, #staysafe, #war"
   - username: "hector_tanajara"
     fullname: >-
       El Finito
+    bio: >-
+      Professional boxer signed with Golden Boy Promotions 👊 19-0 (5KO's) #TeamTanajara #RGBA #210 💯 Westside San Antonio, Texas Twitter: hector_tanajara
     location: "United States"
-    followers: 18433
-    engagement: 963
-    commentsToLikes: 0.026151
+    followers: 20480
+    engagement: 904
+    commentsToLikes: 0.028917
     id: ck5hisq1vf6qf0i11pyl00xj6
     verified: true
-    hashtags: "#january11th, #jordanyear, #familia, #jetsway"
+    hashtags: "#rgba, #210, #teamtanajara, #237"
+  - username: "paolocologna_official"
+    fullname: >-
+      Paolo Cologna
+    bio: >-
+      ▪️Model @majormodelsmilan ▪️Ex Boxer ▪️Co-Founder @globo.communication ~ 𝑊ℎ𝑜 𝑓𝑖𝑔ℎ𝑡𝑠 𝑎𝑛𝑑 𝑑𝑟𝑒𝑎𝑚𝑠 𝑛𝑒𝑣𝑒𝑟 𝑑𝑖𝑒𝑠 ~ 📍Milan 🇮🇹
+    location: "Italy"
+    followers: 8841
+    engagement: 717
+    commentsToLikes: 0.087954
+    id: ckf5ws5ubt25i0j23ki9g328d
+    verified: false
+    hashtags: "#modelphoto, #modelingportfolio, #shakespeare, #modelingfashion"
+  - username: "jordz_flynn"
+    fullname: >-
+      Jordan Flynn
+    bio: >-
+      Professional Boxer 3x National Champion Snapchat - jordz_flynn
+    location: "United Kingdom"
+    followers: 16448
+    engagement: 1223
+    commentsToLikes: 0.026456
+    id: ck5cl43tcy7jo0i11tldzbazd
+    verified: false
+    hashtags: "#2days, #team, #boxing, #blackouttuesday"
+  - username: "remi.bojani"
+    fullname: >-
+      Rémi Bojani
+    bio: >-
+      Braunschweig 🎓 1. Bundesliga Boxer 🥊 Landesmeister 2012, 2013, 2018, 2019, 2020🥇 Privater Account: @remi_b96
+    location: "Germany"
+    followers: 5668
+    engagement: 1350
+    commentsToLikes: 0.068680
+    id: ck8t5cjkd9nbl0j78dajthddr
+    verified: false
+    hashtags: "#boxinglife, #boxinggloves, #boxingtrainer, #alhamdulillah"
+  - username: "ivan_baranchyk"
+    fullname: >-
+      Ivan Baranchyk
+    bio: >-
+      📍Miami, FL 🌴 🥊Professional boxer 20-2-0 13KOs 🇧🇾🇺🇸 @yuliya_bogdanovich ❤️ DM for any questions and offers
+    location: "United States"
+    followers: 14150
+    engagement: 981
+    commentsToLikes: 0.040941
+    id: ck6u1s49gnk3n0j71vppd5awr
+    verified: true
+    hashtags: "#miami, #mundoboxing, #boxing, #hardwork"
 ---

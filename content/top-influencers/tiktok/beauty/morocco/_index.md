@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Morocco In 2020
 description: >-
-  Find top beauty TikTok influencers in Morocco in 2020. Most popular hashtags: #like #makeup #beauty #makeupchallenge.
+  Find top beauty TikTok influencers in Morocco in 2020. Most popular hashtags: #morocco #tiktok #beauty #maroc.
 platform: TikTok
+hits: 16
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 16 TikTok influencers like this in Morocco for you to work with.
 profiles:
   - username: "isleym.b"
     fullname: >-
       Isleymbtr 
+    bio: >-
+      FOLLOW IG 👆🏻 Skin ,Nails & Beauty tips Biz: isleymbitari@gmail.com 👨‍👩‍👦🧿
     location: "Morocco"
-    followers: 164592
-    engagement: 649
-    commentsToLikes: 0.013118
+    followers: 176300
+    engagement: 665
+    commentsToLikes: 0.011188
     id: ck7zoyuuwmj0f0j789labv47u
     verified: false
-    hashtags: "#facetoner, #beauty, #wishful, #beautyhacks"
-  - username: "emybeauty123"
+    hashtags: "#hudabeauty, #foryoupage, #skincare, #fyp"
+  - username: "achraf.mss"
     fullname: >-
-      Màzoùz Imane
+      Achraf Mss
+    bio: >-
+      Actor 🎭 & filmmaker 📸 & model🕺🏻 📩 My email achrafmssyah290@gmail.com My IG
     location: "Morocco"
-    followers: 2049
-    engagement: 289
-    commentsToLikes: 0.009448
-    id: ckai1ukmed9jl0i78jonrnag4
+    followers: 198400
+    engagement: 1771
+    commentsToLikes: 0.024033
+    id: ckb9lpj8ped3v0j23h0y5vazw
     verified: false
-    hashtags: "#pancakeday, #truelove, #tikttokers, #kitchenhacks"
-  - username: "ayaozul"
+    hashtags: "#fyp, #duo, #acting, #beauty"
+  - username: "misslamoy"
     fullname: >-
-      AYA_MDN💎💍
+      🎀𝓵𝓪𝓶𝓸𝔂🎀
+    bio: >-
+      For fun 😜
     location: "Morocco"
-    followers: 3062
-    engagement: 444
-    commentsToLikes: 0.006136
-    id: ck9bzafgxnndj0j78rd5gsq4l
+    followers: 64300
+    engagement: 356
+    commentsToLikes: 0.032359
+    id: ckbqi2g6q3d510j232gugn7zc
     verified: false
-    hashtags: "#sistalove, #wife, #morocco, #voyage"
-  - username: "snaponmileoujda"
-    fullname: >-
-      Snap On Smile Oujda
-    location: "Morocco"
-    followers: 90725
-    engagement: 284
-    commentsToLikes: 0.000000
-    id: cka0n1t5pxqt30i78xotnhyg0
-    verified: false
-    hashtags: "#oujda48, #smike, #tiktokstar, #beau"
+    hashtags: "#moroc, #beauty, #marrakech, #maroc"
   - username: "sokolova.beauty.bar"
     fullname: >-
       sokolova.beauty.bar
+    bio: >-
+      💚 Cils / Brows/ Nail art studio 🇷🇺 Maîtres russes 🇲🇦 Morocco/Casablanca
     location: "Morocco"
-    followers: 23386
-    engagement: 205
-    commentsToLikes: 0.008325
+    followers: 22500
+    engagement: 286
+    commentsToLikes: 0.007596
     id: ck83z9rsryz4o0j78ooek5ayq
     verified: false
-    hashtags: "#girls, #india, #girl, #trending"
-  - username: "chaimaedoukali"
+    hashtags: "#makeup, #instagood, #hudabeauty, #cilsacils"
+  - username: "hichammasrar"
     fullname: >-
-      Chaïmae Doukali
+      Hicham Masrar
+    bio: >-
+      
     location: "Morocco"
-    followers: 133324
-    engagement: 920
-    commentsToLikes: 0.007781
-    id: ck9entulskr1m0j78r2hq7o4n
+    followers: 193000
+    engagement: 532
+    commentsToLikes: 0.014797
+    id: ckb9lpq8ree7q0j23f774jv10
     verified: false
-    hashtags: "#madd, #makeup, #algeria, #tiktokarab"
+    hashtags: "#sport, #maroco, #style, #addiction"
+  - username: "emybeauty123"
+    fullname: >-
+      Màzoùz Imane
+    bio: >-
+      GOOOD VIBES ONLY!!! ❤️❤️❤️❤️ Are you following me on Instagram @emybeauty123 ?
+    location: "Morocco"
+    followers: 2493
+    engagement: 312
+    commentsToLikes: 0.035144
+    id: ckai1ukmed9jl0i78jonrnag4
+    verified: false
+    hashtags: "#love, #followme, #xoxo, #makeup"
   - username: "simaa.officiel"
     fullname: >-
       Simaa
+    bio: >-
+      🇲🇦 ❁ 𝓢𝓲𝓱𝓪𝓶 ❁ Chaïne YouTube : simaa Insta : simaa.officiel
     location: "Morocco"
-    followers: 254304
-    engagement: 493
-    commentsToLikes: 0.010002
+    followers: 253600
+    engagement: 550
+    commentsToLikes: 0.019764
     id: ckac6zwyrehs10i78zjimaho3
     verified: false
-    hashtags: "#tanger, #makeupchallenge, #mekup, #eylinerchallenge"
+    hashtags: "#fouryoupage, #bauetiful, #fouryou, #snap"
+  - username: "alz351"
+    fullname: >-
+      كيليميني صغير
+    bio: >-
+      tiktok.com/@user834240742
+    location: "Morocco"
+    followers: 4429
+    engagement: 1751
+    commentsToLikes: 0.019166
+    id: ckdmtamkiahap0j23xmmhvg4o
+    verified: false
+    hashtags: "#morocco, #sbata, #tmax530, #cb4gang"
   - username: "iryaaq"
     fullname: >-
       👑🥀  IryaaQ 🥀👑
+    bio: >-
+      
     location: "Morocco"
-    followers: 69486
-    engagement: 718
-    commentsToLikes: 0.012237
+    followers: 73900
+    engagement: 742
+    commentsToLikes: 0.013668
     id: cka0hjvwm9ky10i78j382yga2
     verified: false
-    hashtags: "#twins, #islam, #hichammasrar1, #douzi"
-  - username: "nouhaila.bouib"
+    hashtags: "#tiktokmaroc, #tik, #pourtoi, #saadlamjarred"
+  - username: "aboutnails"
     fullname: >-
-      nouhaila.bouib
+      AboutNails
+    bio: >-
+      All about beautiful nails ♥💛❤
     location: "Morocco"
-    followers: 185925
-    engagement: 952
-    commentsToLikes: 0.014306
-    id: ck9r3ul5jrtwg0j783yiymn4v
+    followers: 219600
+    engagement: 676
+    commentsToLikes: 0.003986
+    id: ckbkzis0iw13x0j238lnbtozd
     verified: false
-    hashtags: "#souhlifa, #masquenaturel, #viral, #masque"
-  - username: "itsimanuuu"
-    fullname: >-
-      Iamimen
-    location: "Morocco"
-    followers: 4423
-    engagement: 939
-    commentsToLikes: 0.019801
-    id: ck9eykl4mwazh0j78nty9ypx2
-    verified: false
-    hashtags: "#sunset, #babygirl, #beautiful, #life"
+    hashtags: ""
 ---

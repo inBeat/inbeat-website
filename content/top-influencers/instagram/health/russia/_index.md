@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Russia In 2020
 description: >-
-  Find top health Instagram influencers in Russia in 2020. Most popular hashtags: #stayhome #plantbased #gradient #kohsamuiliving.
+  Find top health Instagram influencers in Russia in 2020. Most popular hashtags: #sochifashionweek #mood #giveaway.
 platform: Instagram
+hits: 260
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 260 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "arinamoscow"
-    fullname: >-
-      Arina
-    location: "Russia"
-    followers: 67881
-    engagement: 346
-    commentsToLikes: 0.043366
-    id: ckap5qc58cpns0i78x082gi9w
-    verified: false
-    hashtags: "#lamoda, #starbucksrussia, #starbucks"
-  - username: "elena.infinity"
-    fullname: >-
-      MOSCOW•MODEL•BLOGER•STYLIST
-    location: "Russia"
-    followers: 166524
-    engagement: 192
-    commentsToLikes: 0.545720
-    id: ck6tvw4daolt50j71vvbonj4a
-    verified: false
-    hashtags: "#mua, #covid19, #woman, #happyfriday"
   - username: "married.my.enemy"
     fullname: >-
-      Врач-тропиколог из 🇷🇺
+      УСЫНОВЛЕНИЕ 🍀 БЕРЕМЕННОСТЬ
+    bio: >-
+      Виктория Привезла американца в РФ Стань лучше, помогая другим Сотрудничать @married.my.enemy.pr Строю 🏥 для бедных @health2help Поддержи нашу работу:
     location: "Russia"
-    followers: 9571
-    engagement: 1070
-    commentsToLikes: 0.079030
+    followers: 12295
+    engagement: 1287
+    commentsToLikes: 0.073201
     id: ck6udx4oznmek0j71o984ijbp
     verified: false
-    hashtags: ""
-  - username: "kletanina.mary"
+    hashtags: "#newfoodwave, #glutenfree, #sexypreggy, #pregnant"
+  - username: "joytodorova"
     fullname: >-
-      МАРИ. ПРИНЦЕССА БЕГА И СЫРКОВ👑
+      Radost Todorova
+    bio: >-
+      👑Miss Universe 🇧🇬 book & food lover📚 🎥Let’s live a happy & healthy life together🐣 🎬 YouTube channel👇
     location: "Russia"
-    followers: 30820
-    engagement: 285
-    commentsToLikes: 0.051913
-    id: ck15ukvn2nofd0i19gxaptxnh
+    followers: 76858
+    engagement: 489
+    commentsToLikes: 0.306696
+    id: ck6u99hw2w94w0j715q9hp5wb
+    verified: true
+    hashtags: "#gift, #spon, #giveaway, #youareworthitbox"
+  - username: "elena.infinity"
+    fullname: >-
+      •𝗘𝗟𝗘𝗡𝗔•𝗠𝗢𝗦𝗖𝗢𝗪•
+    bio: >-
+      📈BusinessWoman/Founder @infinity_italy @infinity_italy_msc 𝗦𝘁𝘆𝗹𝗶𝘀𝘁/NEW LOOK EVERY DAY 🌱HEALTHY/🏃🏼‍♀️SPORT @elena.infinity.beauty
+    location: "Russia"
+    followers: 181831
+    engagement: 263
+    commentsToLikes: 0.233000
+    id: ck6tvw4daolt50j71vvbonj4a
     verified: false
-    hashtags: "#kletanina, #healthy, #vegan, #sugarfree"
+    hashtags: "#sochifashionweek, #outfit, #lookoftheday, #autumnvibes"
+  - username: "julia_bel_la"
+    fullname: >-
+      Girl in glasses👓🔥🔥🔥
+    bio: >-
+      Not a motivator🚫 Not a fitness trainer🚫 Not a Healthy Diet Coach🚫
+    location: "Russia"
+    followers: 60957
+    engagement: 403
+    commentsToLikes: 0.036513
+    id: ck6uhkd849mi00j7106iu8l7k
+    verified: false
+    hashtags: ""
+  - username: "tati_vk"
+    fullname: >-
+      Tatiana Korsakova
+    bio: >-
+      Founder of @vaara_studio ✉️tatiana@vaara.com My health&beauty blog: @myhandbookmag
+    location: "Russia"
+    followers: 800588
+    engagement: 296
+    commentsToLikes: 0.018472
+    id: ck1394fr7jgyy0i19r53kfuto
+    verified: true
+    hashtags: "#iwish, #worldmentalhealthday, #gifted"
+  - username: "nastya_konovalova"
+    fullname: >-
+      Анастасия / Растяжка / Самара
+    bio: >-
+      Сертифицированный тренер Основатель студии растяжки @healthy_stretching Для связи📲👇🏻
+    location: "Russia"
+    followers: 5869
+    engagement: 541
+    commentsToLikes: 0.114479
+    id: ck5bwa931lb3n0i116rph7o9k
+    verified: false
+    hashtags: ""
+  - username: "irengrot"
+    fullname: >-
+      I R E N • G R O T
+    bio: >-
+      traveller, visual creator, health coach motocross camerawomen @grotfilms irengrot@gmail.com📍Arco, Italy профессиональная зож техника👇🏽
+    location: "Russia"
+    followers: 52329
+    engagement: 192
+    commentsToLikes: 0.039806
+    id: ck5zihqgtfq880i14txolpq5x
+    verified: false
+    hashtags: ""
+  - username: "uzelkova.marina"
+    fullname: >-
+      Боржемская Марина
+    bio: >-
+      Похудение👇 @insta_borzhemsky Дневники питания👇 @by_borzhemsky Рецепты👇 @borzhemsky_healthy_food Тренер "Зважені та щасливі"💪 на @stbua Ссылка сайта👇
+    location: "Russia"
+    followers: 468250
+    engagement: 188
+    commentsToLikes: 0.044716
+    id: ck5hdd22tmrdh0i11a81k7d1i
+    verified: true
+    hashtags: "#tefal, #unice, #fall, #love"
   - username: "koval_life"
     fullname: >-
       АННА КОВАЛЬ
+    bio: >-
+      Healthy-girl🌿Fitness model 💪🏽 Оставайся со мной🤗здесь полезно😉 Твоя программа здорового питания 👇🏽 Novosibirsk
     location: "Russia"
-    followers: 95437
-    engagement: 94
-    commentsToLikes: 0.075720
+    followers: 93307
+    engagement: 198
+    commentsToLikes: 0.226868
     id: ck6ugdgi02dd70j713vrkdy1r
     verified: false
-    hashtags: "#balinow, #pillowchallenge, #seminyakbali, #balivibes"
-  - username: "lisssheep"
+    hashtags: "#goldapple"
+  - username: "m.a.r.i.a.y.m"
     fullname: >-
-      Liza  Kuznetsova
+      М А Р Ь Я М
+    bio: >-
+      Fashion | Lifestyle | Beauty | Health Уход за волосами @m.y.b.e.a.u.t.y ✉️ direct
     location: "Russia"
-    followers: 42364
-    engagement: 186
-    commentsToLikes: 0.037895
-    id: ck0w211mjm4el0i1912v2qbfi
+    followers: 199712
+    engagement: 232
+    commentsToLikes: 0.014209
+    id: ck134evvzw3y30i19ekxs3m0d
     verified: false
-    hashtags: "#nomakeup, #stayhome, #staysafe, #marilynmonroemood"
-  - username: "vlada_v"
-    fullname: >-
-      Vlada Verevko
-    location: "Russia"
-    followers: 4787
-    engagement: 1331
-    commentsToLikes: 0.060839
-    id: ck6tvl5qdmttk0j71lj3nc38g
-    verified: false
-    hashtags: "#saturyay, #tbt, #babyv, #humpday"
-  - username: "alekseeeva_v"
-    fullname: >-
-      Валерия•Фитнес/Диетология
-    location: "Russia"
-    followers: 120881
-    engagement: 97
-    commentsToLikes: 0.036148
-    id: ck55n8rmm5p5w0i1126epyg2z
-    verified: false
-    hashtags: "#hb, #bikinifitne, #bikini"
-  - username: "lieculsey"
-    fullname: >-
-      Elizabeth S.
-    location: "Russia"
-    followers: 6150
-    engagement: 1746
-    commentsToLikes: 0.098347
-    id: ck6twdsdorfr80j71ef2pugf2
-    verified: false
-    hashtags: "#liketime, #lancome, #lavieestbelle, #quarantinemood"
-  - username: "valentinazelyaeva"
-    fullname: >-
-      Valentina Zelyaeva
-    location: "Russia"
-    followers: 155008
-    engagement: 63
-    commentsToLikes: 0.020272
-    id: ck5q8s1nq7ps80i11lboftq00
-    verified: true
-    hashtags: "#lindsaygrosswendt, #kohsamuiliving, #wellness, #retreatsamuiartursita"
+    hashtags: "#happy, #november, #candelagentlelasepro, #friday"
 ---

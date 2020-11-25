@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Germany In 2020
 description: >-
-  Find top gaming TikTok influencers in Germany in 2020. Most popular hashtags: #duett #fortnite #coronavirus #ostertradition.
+  Find top gaming TikTok influencers in Germany in 2020. Most popular hashtags: #gaming #fyp #foryou #fy.
 platform: TikTok
+hits: 128
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 128 TikTok influencers like this in Germany for you to pitch.
 profiles:
+  - username: "luisa.gaming"
+    fullname: >-
+      luisa.gaming
+    bio: >-
+      ❤DANKE FÜR 50K❤ EPIC : TT_luisa.gaming ⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩⇩
+    location: "Germany"
+    followers: 49300
+    engagement: 2236
+    commentsToLikes: 0.100476
+    id: ckbeos8zu51qe0j236gku50pk
+    verified: false
+    hashtags: "#fyp, #single, #gamergirl, #pc"
+  - username: "pixelzlp"
+    fullname: >-
+      PixelZ LP
+    bio: >-
+      Kontent: Gaming, Fahrzeuge Steam: PixelZ Dorfkind
+    location: "Germany"
+    followers: 12400
+    engagement: 1120
+    commentsToLikes: 0.060562
+    id: ckccyiodzyfna0j23o7z5rbun
+    verified: false
+    hashtags: "#autos, #beforeandafter, #car, #forzahorizon4"
+  - username: "lucaclipsxd"
+    fullname: >-
+      _luca_Gaming:)
+    bio: >-
+      14Yo🤟🏽 Ziel:50k😍🥺🤟🏽 Hauptsächlich Gaming🔫🕹📱 Name:luca Twitch:Twix_luca
+    location: "Germany"
+    followers: 42600
+    engagement: 1042
+    commentsToLikes: 0.037347
+    id: cka0gm2vd53mg0i789gxxr3an
+    verified: false
+    hashtags: "#foryou, #fyp, #foryoupage, #viral"
+  - username: "codskull"
+    fullname: >-
+      CodSkull
+    bio: >-
+      🎮Random Gaming Content🎮 🇩🇪 20
+    location: "Germany"
+    followers: 76800
+    engagement: 608
+    commentsToLikes: 0.040234
+    id: ckc8idn4mbzec0j23uv6czqpx
+    verified: false
+    hashtags: "#tiktok, #foryou, #fyp, #ps4"
   - username: "krone_gg"
     fullname: >-
       krone_gg
+    bio: >-
+      FIFA WELTMEISTER & ESPORTS TRAINER COACHED DICH! PRO GAMING, FUN, TRENDS & LIFE
     location: "Germany"
     followers: 8823
     engagement: 655
     commentsToLikes: 0.033973
     id: ck8ot3hk6jjvy0j787enzuibr
     verified: false
-    hashtags: "#okibelieveyou, #baby, #iamnotarobot, #football"
-  - username: "kittyj.nighthawk"
+    hashtags: "#fds, #gamingontiktok, #fy, #stayhome"
+  - username: "levlupde"
     fullname: >-
-      Kitty J. Nighthawk
+      LevlUp
+    bio: >-
+      Der Gaming Booster®. Das Original. #levlup #teamlevlup #unfairdontcare
     location: "Germany"
-    followers: 3941
-    engagement: 1350
-    commentsToLikes: 0.124856
-    id: ckal6zpnfd6g20i78dhpsf5ta
+    followers: 25400
+    engagement: 963
+    commentsToLikes: 0.020585
+    id: ckck2ttuymepy0j23o2q080ar
     verified: false
-    hashtags: "#sick, #notgood, #satire, #jonglieren"
-  - username: "frozen_stolichnaya"
+    hashtags: "#levlup, #sniper, #warzone, #fyp"
+  - username: "alex.spielttv"
     fullname: >-
-      Geoffrey’sClub🦒🐎🦛
+      AlexSpieltTV⚡️
+    bio: >-
+      20 Jahre YouTube - AlexSpieltTV
     location: "Germany"
-    followers: 38765
-    engagement: 1680
-    commentsToLikes: 0.036450
-    id: ck9gkvvr7lfvg0j78jren229z
+    followers: 301300
+    engagement: 2175
+    commentsToLikes: 0.031407
+    id: ckc7bp4hplf6v0j23etxk8ig7
     verified: false
-    hashtags: "#coronavirus, #fart, #schweiz, #yoga"
-  - username: "tacfox_oo"
-    fullname: >-
-      Tacfox_Lala
-    location: "Germany"
-    followers: 10703
-    engagement: 951
-    commentsToLikes: 0.101907
-    id: ck94o5y2f9s3o0j78617ogm4n
-    verified: false
-    hashtags: "#r6meme, #corona, #cats, #duett"
-  - username: "festtwins"
-    fullname: >-
-      💎🇩🇪 Alex 🇩🇪💎
-    location: "Germany"
-    followers: 41257
-    engagement: 934
-    commentsToLikes: 0.059106
-    id: cka0onckk4qtk0i7829pz0i72
-    verified: false
-    hashtags: "#indian, #callofduty, #paint, #europapark"
-  - username: "ziomatze"
-    fullname: >-
-      Zio Matze
-    location: "Germany"
-    followers: 42612
-    engagement: 1567
-    commentsToLikes: 0.082410
-    id: ck9c6puryr8780j784gdexmqn
-    verified: false
-    hashtags: "#familie, #dorfkinder, #spass, #respekt"
+    hashtags: "#foryou, #xbox, #pc, #werbung"
   - username: "fatmanshouse"
     fullname: >-
       Fatmanshouse
+    bio: >-
+      Noch mehr Hausi Stuff 👇🏻👇🏻👇🏻
     location: "Germany"
-    followers: 500365
-    engagement: 1765
-    commentsToLikes: 0.013180
+    followers: 524100
+    engagement: 1678
+    commentsToLikes: 0.020936
     id: ck81svb5jtcns0j78inb9xqo7
     verified: true
-    hashtags: "#wirbleibendaheim, #merkel, #amazonalexa, #raft"
-  - username: "quasy444"
+    hashtags: "#ad, #primelife, #alexa, #gaming"
+  - username: "dersaki"
     fullname: >-
-      Quasy
+      Der Saki😎
+    bio: >-
+      „SIE WEISS ES“ OUT NOW Musician 📸| Instagram: dersaki ZU MEINEM SPOTIFY⬇️
     location: "Germany"
-    followers: 50574
-    engagement: 1349
-    commentsToLikes: 0.105468
-    id: ck9npuoj60olw0j782lzo5yze
+    followers: 405300
+    engagement: 1603
+    commentsToLikes: 0.020767
+    id: ck9c08ot7o4zp0j7829e89rvj
     verified: false
-    hashtags: "#foryo, #fypchallenge, #kreativ, #challenge"
-  - username: "sarah_naira"
+    hashtags: "#fyp, #musik, #6pm, #foryou"
+  - username: "professortutorial"
     fullname: >-
-      Sarah Naira
+      🍟PROFESSOR
+    bio: >-
+      Ki Leute
     location: "Germany"
-    followers: 12324
-    engagement: 970
-    commentsToLikes: 0.047237
-    id: ck94g3aj3dzmx0j78hq8qz4u7
+    followers: 2830
+    engagement: 1545
+    commentsToLikes: 0.129644
+    id: ckdmw7xxzbebt0j23qo26dxf0
     verified: false
-    hashtags: "#counterstrike, #kacken, #nature, #dogs"
-  - username: "thisiskev1n"
-    fullname: >-
-      Kevin Reiser
-    location: "Germany"
-    followers: 5041
-    engagement: 1040
-    commentsToLikes: 0.109873
-    id: ck8njnp6rb9ce0j78una20mg6
-    verified: false
-    hashtags: "#skills, #fortnite, #icon, #packluck"
+    hashtags: "#fy, #gaming, #foryofoeyoupage, #fyp"
 ---

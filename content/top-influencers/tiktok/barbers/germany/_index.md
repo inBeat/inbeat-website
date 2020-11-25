@@ -1,97 +1,130 @@
 ---
 title: Top 10 Barbers TikTok Influencers In Germany In 2020
 description: >-
-  Find top barbers TikTok influencers in Germany in 2020. Most popular hashtags: #barber #coronavirus #happyathome #fail.
+  Find top barbers TikTok influencers in Germany in 2020. Most popular hashtags: #barber #friseur #hairstyle #duett.
 platform: TikTok
+hits: 20
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 20 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "alithebarber__"
     fullname: >-
       Ali der barber
+    bio: >-
+      Barber
     location: "Germany"
-    followers: 4133
-    engagement: 1089
-    commentsToLikes: 0.003306
+    followers: 3842
+    engagement: 1041
+    commentsToLikes: 0.019398
     id: cka0igb6ydl690i781ckeuvaj
     verified: false
-    hashtags: "#barberlife, #wirbleibenzuhause, #bleibtgesund, #bleibtzuhause"
-  - username: "marsnbg"
+    hashtags: "#coronavirus, #bleibtstark, #bleibtgesund, #krasser"
+  - username: "yusufdelalbarber"
     fullname: >-
-      Känguru Marcel🦘
+      YusufDelal
+    bio: >-
+      Instagram/ barber_yusuf_delal_ki_hh
     location: "Germany"
-    followers: 3680
-    engagement: 736
-    commentsToLikes: 0.249156
-    id: cka64s8t89yqx0i7874c0eqby
+    followers: 3559
+    engagement: 417
+    commentsToLikes: 0.032599
+    id: ckbqtpuy8edv20j23qp6o3n05
     verified: false
-    hashtags: "#idiotentest, #ironie, #klasse, #garten"
-  - username: "portimaoblue"
+    hashtags: "#germany, #foryou, #delalbarber, #friseur"
+  - username: "aux.the.barber"
     fullname: >-
-      Portimaoblue
+      Sezer Soylu
+    bio: >-
+      🏆Germany’s best Barber 2016🏆 Augsburg 🇩🇪 Hatay 🇹🇷
     location: "Germany"
-    followers: 26362
-    engagement: 1070
-    commentsToLikes: 0.056639
-    id: ck8p0n0mnhhxv0j781sxval3d
+    followers: 507400
+    engagement: 356
+    commentsToLikes: 0.008667
+    id: ckcddz7jh5vt10j23iczx8frz
     verified: false
-    hashtags: "#airride, #newbmw, #auto, #friseur"
-  - username: "bvb"
+    hashtags: "#friseur, #augsburg, #bayern, #hautpflege"
+  - username: "havo0_friseur"
     fullname: >-
-      Borussia Dortmund
+      Havo0_Friseur
+    bio: >-
+      22jahr stolz ezidi74 Oldb🇩🇪📍 Mein Lieblings Sport Ist Fitniss💪 💈Friseur💈
     location: "Germany"
-    followers: 934705
-    engagement: 1181
-    commentsToLikes: 0.010585
-    id: ck9er2istzwqd0j78rfbertfh
-    verified: true
-    hashtags: "#challenge, #bossmode, #nutmeg, #einfachcan"
-  - username: "whazzup"
-    fullname: >-
-      😱 LUSTIGE VIDEOS 😂
-    location: "Germany"
-    followers: 8253
-    engagement: 906
-    commentsToLikes: 0.014895
-    id: ck90r90jslfrh0j7864alrzma
+    followers: 10200
+    engagement: 1396
+    commentsToLikes: 0.023861
+    id: cka7qv45bcfio0i78zhhskwkc
     verified: false
-    hashtags: "#barber, #liebe, #magie, #quarant"
-  - username: "timuruelker"
+    hashtags: "#deuschland, #kurdistan, #howduoyoulisten, #kurdi"
+  - username: "funny_satisfying_videos"
     fullname: >-
-      Timur
+      satisfying
+    bio: >-
+      
     location: "Germany"
-    followers: 159733
-    engagement: 1279
-    commentsToLikes: 0.006678
-    id: ckams7gcxoxro0i78mya81nms
-    verified: true
-    hashtags: "#mouse, #foryou, #mutter, #fashion"
-  - username: "oguzaksy"
-    fullname: >-
-      OGUZHAN AKSOY
-    location: "Germany"
-    followers: 12661
-    engagement: 557
-    commentsToLikes: 0.021358
-    id: cka6lvkru4qtj0i78eirp6w9v
+    followers: 36600
+    engagement: 421
+    commentsToLikes: 0.075684
+    id: ckb9gczdp58wj0j2322q1hbbv
     verified: false
-    hashtags: "#barber, #ootd, #outfitchallenge, #mantel"
-  - username: "dennydenero"
+    hashtags: "#halloween, #hairtransformation, #duett, #hair"
+  - username: "ahmadmaged309"
     fullname: >-
-      DENERO®
+      Ahmad
+    bio: >-
+      Friseur 💈 M❤️14.09.2020❤️
     location: "Germany"
-    followers: 249664
-    engagement: 2001
-    commentsToLikes: 0.011466
-    id: ck9c8hxv7sx3g0j78d7md1uda
+    followers: 31900
+    engagement: 429
+    commentsToLikes: 0.026705
+    id: ckbf2ca5ypbrs0j232azl8vc7
     verified: false
-    hashtags: "#dennytalk"
-  - username: "buneaangela"
+    hashtags: "#dusseldorf, #barbershop, #wuppertal, #solingen"
+  - username: "satisfying2020"
     fullname: >-
-      Bunea Angela
+      satisfying2020
+    bio: >-
+      ✨Surprise at 2mil✨ 🐝Thank u so much for 3245 followers
     location: "Germany"
-    followers: 2501
-    engagement: 1040
-    commentsToLikes: 0.015116
-    id: ck9m4w28zkoa70j78df1alf9c
+    followers: 3252
+    engagement: 391
+    commentsToLikes: 0.038995
+    id: ck7zog3aijq5s0j785v4zwccq
     verified: false
-    hashtags: "#and, #auntylovesyou, #hairlover, #black"
+    hashtags: "#duett, #cake, #yummy, #food"
+  - username: "monumentalmomo"
+    fullname: >-
+      🔥 Mo 🔥
+    bio: >-
+      🥇 Mo's Backup Kanal 🥇 🔻Drück nicht auf diesen Link 🤡🔻
+    location: "Germany"
+    followers: 85700
+    engagement: 1800
+    commentsToLikes: 0.041369
+    id: cka7npefvxyq00i78fj2u0344
+    verified: false
+    hashtags: "#sucukbr, #fakten, #fyp, #musstewissen"
+  - username: "elouimi"
+    fullname: >-
+      Elo
+    bio: >-
+      Vallah ich folge dir auf YouTube⬆️
+    location: "Germany"
+    followers: 134100
+    engagement: 1583
+    commentsToLikes: 0.020797
+    id: ckc7q1z8evmkg0j23xm98es90
+    verified: false
+    hashtags: "#elouimi, #drink, #gruselig, #interessant"
+  - username: "toastbrot1304"
+    fullname: >-
+      Deniz
+    bio: >-
+      Insta: i_am_dnz Snap: toastbrot1304
+    location: "Germany"
+    followers: 6544
+    engagement: 1329
+    commentsToLikes: 0.035760
+    id: cka6qd4xin37w0i78a7dxbvh4
+    verified: false
+    hashtags: "#911, #test, #sketch, #nurspass"
 ---

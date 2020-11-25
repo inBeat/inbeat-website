@@ -1,87 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Singapore In 2020
 description: >-
-  Find top beauty TikTok influencers in Singapore in 2020. Most popular hashtags: #makeup #beautiful #cute #styletips.
+  Find top beauty TikTok influencers in Singapore in 2020. Most popular hashtags: #fyp #foryou #foryoupage #tiktok.
 platform: TikTok
+hits: 14
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 14 TikTok influencers like this in Singapore for you to work with.
 profiles:
+  - username: "mooniechu"
+    fullname: >-
+      Moonie
+    bio: >-
+      Professional fencer 🤺 Sports & Beauty ig: @moonieckm
+    location: "Singapore"
+    followers: 23000
+    engagement: 455
+    commentsToLikes: 0.034943
+    id: ckcozbkm4ag390j23sbge85xo
+    verified: false
+    hashtags: "#staycation, #tiktokvie, #fencer, #hktiktok"
   - username: "girlstreetshot"
     fullname: >-
       YC-Street
+    bio: >-
+      ❤️Follow me to appreciate the beauty of the girl❤️
     location: "Singapore"
-    followers: 73283
-    engagement: 1773
-    commentsToLikes: 0.007631
+    followers: 70800
+    engagement: 1634
+    commentsToLikes: 0.006655
     id: ck9eulh35eem40j78aa55b24v
     verified: false
-    hashtags: "#slimgirls, #slim, #asian, #mylonglegs"
-  - username: "sonaaa_sam"
+    hashtags: "#fyp, #girl, #beautifulgirl, #foryou"
+  - username: "lisa9775"
     fullname: >-
-      Sona_Sam
+      lisa
+    bio: >-
+      
     location: "Singapore"
-    followers: 10075
-    engagement: 7562
-    commentsToLikes: 0.032626
-    id: cka8f5q970yhc0i7812a7sorz
+    followers: 43300
+    engagement: 1864
+    commentsToLikes: 0.010762
+    id: ckc8c157585g20j23g7djddqk
     verified: false
-    hashtags: "#stayhomeforsg, #stayhome, #forypupage, #beauty"
-  - username: "happygirlhaha"
+    hashtags: "#fyp, #acrylicnails, #myart, #beautytips"
+  - username: "xbxh08"
     fullname: >-
-      Stephanie
+      Food sharing
+    bio: >-
+      Thankyou for watching my videos,please give me a likes and following
     location: "Singapore"
-    followers: 194397
-    engagement: 573
-    commentsToLikes: 0.007164
-    id: ck9ekxcdq87k60j78kc10m9li
+    followers: 23300
+    engagement: 508
+    commentsToLikes: 0.005977
+    id: ckbf0i6vjmbbo0j2372fhz3o4
     verified: false
-    hashtags: "#sweet, #eyemakeup, #maincure, #mangoseed"
-  - username: "graceglazee"
+    hashtags: ""
+  - username: "kelkeltan_"
     fullname: >-
-      Graceglazee
+      Kelkeltan
+    bio: >-
+      Makeup and all that jazz 🍒 cuter on IG & Youtube Biz: kelkeltansocial@gmail.com
     location: "Singapore"
-    followers: 91462
-    engagement: 1695
-    commentsToLikes: 0.071034
-    id: ck9f22kubb8c40j78fz7g1zq6
+    followers: 34500
+    engagement: 460
+    commentsToLikes: 0.051118
+    id: ckbqnzsi28ttk0j23saz46gsh
     verified: false
-    hashtags: "#beauty, #funkytown, #dothelifebuoysg, #extracleanfam"
-  - username: "melissackoh"
+    hashtags: "#ios14ideas, #ios14setup, #ios14aesthetic, #widgetsmith"
+  - username: "abhinav....singh"
     fullname: >-
-      Melissa C. Koh
+      Dr Abhinav....singh.
+    bio: >-
+      
     location: "Singapore"
-    followers: 4470
-    engagement: 305
-    commentsToLikes: 0.032460
-    id: ckacco85ci91o0i78awinda89
+    followers: 55100
+    engagement: 1120
+    commentsToLikes: 0.069637
+    id: ckc1qrxz0v4sd0j23z9hzcik9
     verified: false
-    hashtags: "#mypetslife, #dadjokes, #bubbletea, #couplechallenge"
-  - username: "constancelaujm"
+    hashtags: "#tidelagaodaaghatao, #foryoupage, #tiktok, #comedy"
+  - username: "wowunboxing"
     fullname: >-
-      Constance Lau
+      wowunboxing
+    bio: >-
+      
     location: "Singapore"
-    followers: 10620
-    engagement: 404
-    commentsToLikes: 0.030312
-    id: ckaig261ezk2j0i785m068e0t
+    followers: 114900
+    engagement: 1075
+    commentsToLikes: 0.004942
+    id: ckavro1c43rc40j23xrwlo4fy
     verified: false
-    hashtags: "#style, #casting, #fliptheswitch, #pillowchallenge"
-  - username: "epicgamergirlx3"
+    hashtags: "#wow, #gadget, #innovative, #merrychristmas"
+  - username: "shein_official"
     fullname: >-
-      EpicGamerGirl60451
+      SHEIN
+    bio: >-
+      SHEIN.COM WEAR YOUR WONDERFUL Get featured using #SHEIN or tag @shein_official
     location: "Singapore"
-    followers: 269426
-    engagement: 1040
-    commentsToLikes: 0.015043
-    id: cka7uoj9nsul00i78fiucv9vv
-    verified: false
-    hashtags: "#scary, #stayathome, #edgy, #mario"
-  - username: "phooph"
+    followers: 980400
+    engagement: 1026
+    commentsToLikes: 0.008867
+    id: ck8ja6d3dqsc60j784s0f9vb8
+    verified: true
+    hashtags: "#outfitinspo, #fashiontips, #ootd, #ootds"
+  - username: "itsrriley"
     fullname: >-
-      Ooop
+      rriley
+    bio: >-
+      Don’t be so weird they said ⚡️ MY DEBUT EP ‘ALPHA’ OUT NOW ERRWHERE
     location: "Singapore"
-    followers: 85603
-    engagement: 989
-    commentsToLikes: 0.007066
-    id: cka6kny4wzrei0i7849nuz3f3
+    followers: 18400
+    engagement: 387
+    commentsToLikes: 0.015943
+    id: ck9rls4fjzfed0j78o0dy5fye
+    verified: true
+    hashtags: "#beauty, #foryou, #boredathome, #handgestures"
+  - username: "hungryfever"
+    fullname: >-
+      Hungry Fever
+    bio: >-
+      IG : @hungryfever Gourmet • Voyage • Demeanour | Jakarta hartanto.chen@yahoo.com
+    location: "Singapore"
+    followers: 31800
+    engagement: 483
+    commentsToLikes: 0.009052
+    id: ckdtkmxcryhi60j23k5cn3i41
     verified: false
-    hashtags: "#cute, #dance, #amazing, #together"
+    hashtags: "#resepsimple, #keciltapingeselin, #tiktokindonesia, #beauthentic"
 ---

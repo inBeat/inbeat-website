@@ -1,87 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Belgium In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Belgium in 2020. Most popular hashtags: #hypebeast #global #earth #moonlight.
+  Find top hypebeast Instagram influencers in Belgium in 2020. Most popular hashtags: #hypebeast #hypebeastkicks #nike #hypedstreets.
 platform: Instagram
+hits: 10
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 10 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "yngwix"
+  - username: "sacha_verhoeven"
     fullname: >-
-      Yngwie Scheerlinck
+      Sacha Verhoeven
+    bio: >-
+      👤Brussels 🇧🇪, Paris 🇫🇷, LA 🇺🇸 🗣Sneakers, streetwear, lifestyle 🔑Private account: @sacha_v14 📸photography account: @sv_shots_
     location: "Belgium"
-    followers: 7640
-    engagement: 569
-    commentsToLikes: 0.072871
-    id: ck0w1wu3slj450i19puxiyts0
+    followers: 14153
+    engagement: 1005
+    commentsToLikes: 0.032268
+    id: ck138kxk0gqkg0i19hr435rb9
     verified: false
-    hashtags: "#deadsea, #trumpstinks, #trump, #natgeowildlife"
-  - username: "eks_creation"
-    fullname: >-
-      𝔼𝕂𝕊𝕔𝕣𝕖𝕒𝕥𝕚𝕠𝕟 𝕓𝕪 𝕂𝕒𝕣𝕚𝕞 ℝ𝕠𝕝𝕒𝕟𝕕
-    location: "Belgium"
-    followers: 16435
-    engagement: 395
-    commentsToLikes: 0.034908
-    id: ck0uco58dhagi0i1927rked5n
-    verified: false
-    hashtags: "#777luckyfish, #highendretouch, #creative, #girly"
-  - username: "kevinliaovio"
-    fullname: >-
-      廖柏雅 Kevin Liao (Official)
-    location: "Belgium"
-    followers: 14179
-    engagement: 213
-    commentsToLikes: 0.053921
-    id: ck5bz0gqyq7hw0i1132ao4sem
-    verified: false
-    hashtags: "#zico, #asianbabies, #mendes, #ucla"
-  - username: "achilles_edits"
-    fullname: >-
-      𝗔𝗰𝗵𝗶𝗹𝗹𝗲𝘀
-    location: "Belgium"
-    followers: 16891
-    engagement: 2158
-    commentsToLikes: 0.008986
-    id: ck5c4vwmc282t0i11x85hf907
-    verified: false
-    hashtags: "#tired, #kakuzu, #mask, #aestheticedits"
-  - username: "sightseeingstan"
-    fullname: >-
-      Stijn Borgers
-    location: "Belgium"
-    followers: 5301
-    engagement: 590
-    commentsToLikes: 0.046490
-    id: ck5q13b0992fu0i11gha95ynr
-    verified: false
-    hashtags: "#earthfever, #belgianshooters, #discovernz, #igmoon"
-  - username: "klaaradevos"
-    fullname: >-
-      Sneakerhead
-    location: "Belgium"
-    followers: 9228
-    engagement: 2352
-    commentsToLikes: 0.086048
-    id: ck0vw9r5wsql90i19q8jh8te3
-    verified: false
-    hashtags: "#inmyjs, #yeezy, #streetwearfashion, #unboxing"
+    hashtags: "#todayshype, #outfit4real, #highsnobietystyle, #mwstyles"
   - username: "owaishsb"
     fullname: >-
       OwaishSB
+    bio: >-
+      ⬇️ Brussels , Belgium 🇧🇪 ⬇️ Creator / Art / Sneakers ⬇️ @sockaine 👨🏼‍🔬🌈 ⬇️ @osdenim 👖👨🏼‍🎨
     location: "Belgium"
-    followers: 82157
-    engagement: 807
-    commentsToLikes: 0.035579
+    followers: 87940
+    engagement: 656
+    commentsToLikes: 0.026668
     id: ck0u0hu0xtqy40i19n6hi7f9t
     verified: false
-    hashtags: "#airmaxday"
-  - username: "antoinehellocollective"
+    hashtags: "#sneakernews, #blvckxculture, #minimalmovement, #complexkicks"
+  - username: "grdavd"
     fullname: >-
-      Hell’o
+      David
+    bio: >-
+      CánhHồg5 My channel 👇🏻
     location: "Belgium"
-    followers: 19170
-    engagement: 245
-    commentsToLikes: 0.017957
-    id: ck5zn9uuio1r80i14aqhobh0m
+    followers: 10665
+    engagement: 569
+    commentsToLikes: 0.008959
+    id: ck5qbhe35lmqx0i11xhc8ataq
     verified: false
-    hashtags: "#skull, #mountains, #unity, #death"
+    hashtags: "#hypebeast, #converse, #ootd, #ootdfashion"
+  - username: "itspbx"
+    fullname: >-
+      ITSPBX
+    bio: >-
+      📸 Freelance Photographer 🏁 Team @polywax.be⁣⁣ ⁣PRESETS AND MERCH👇⁣⁣
+    location: "Belgium"
+    followers: 16177
+    engagement: 1039
+    commentsToLikes: 0.056026
+    id: ck5c8b8ln94gf0i11eyovrisr
+    verified: false
+    hashtags: "#amghub, #bmwm, #hypebeast, #blacklist"
+  - username: "michaelbabylon"
+    fullname: >-
+      MICHAEL BABYLON | SNEAKERHEAD
+    bio: >-
+      👫 | @sofieop 💻 | Travel Agent 📍 | Ostend, Belgium ❤️ | Sneakers / Collectible toys / Travel 🔜 | New York / Seoul / Singapore / Hong Kong
+    location: "Belgium"
+    followers: 4128
+    engagement: 1320
+    commentsToLikes: 0.051524
+    id: ck9hazgmuepyv0j78veudyn5f
+    verified: false
+    hashtags: "#inmyjs, #couplegoals, #hypebeast, #jordanlove"
+  - username: "jelle_geybels"
+    fullname: >-
+      𝐉𝐞𝐥𝐥𝐞 🦋
+    bio: >-
+      Fashion | lifestyle ⚡️ 📍 Based in Belgium 🇧🇪 📸 Create your own style 📥 geybelsjelle@gmail.com or dm
+    location: "Belgium"
+    followers: 4715
+    engagement: 831
+    commentsToLikes: 0.214361
+    id: ckaowseara8o90i786vflim6w
+    verified: false
+    hashtags: "#gentlemanstyle, #menswearblogger, #menfashionblog, #menfashionstyle"
+  - username: "galletmarc"
+    fullname: >-
+      Marc Gallet
+    bio: >-
+      Nikon D500 📷 Nikkor 200/500 f/5.6 🔭 Sony RX10 III
+    location: "Belgium"
+    followers: 3325
+    engagement: 2003
+    commentsToLikes: 0.068863
+    id: ck8tcxu0m13gr0j78kxud8u0v
+    verified: false
+    hashtags: "#nikon200500, #nikon, #oiseaux, #birds"
+  - username: "olivier_nadrin"
+    fullname: >-
+      Olivier Nadrin 🇧🇪
+    bio: >-
+      Videos 🎥 / Photos 📸 Travels / Lifestyle / Fashion / Fitness
+    location: "Belgium"
+    followers: 2793
+    engagement: 1144
+    commentsToLikes: 0.079895
+    id: ck5bvgjkfjlr40i11qxvzczxd
+    verified: false
+    hashtags: "#cb750caferacer, #zonestreet, #custombike, #caferacers"
+  - username: "inslopez"
+    fullname: >-
+      Inès Lopez
+    bio: >-
+      always wearing sneakers US W 8 👟 Brussels, Belgium 💌 info@inslopez.com @by.inslopez ✍️
+    location: "Belgium"
+    followers: 8674
+    engagement: 843
+    commentsToLikes: 0.167219
+    id: ck8taodnxshu00j78lwtzdmb9
+    verified: false
+    hashtags: "#tapin, #tapinchallenge"
+  - username: "arnopartissimo"
+    fullname: >-
+      ARNO PARTISSIMO
+    bio: >-
+      D I G I T A L GUY | 📷 🎥📱 ➖ Photographer / Videomaker / Filters Creator
+    location: "Belgium"
+    followers: 634123
+    engagement: 81
+    commentsToLikes: 0.011243
+    id: ck1381pwoe2v80i19fsczggjq
+    verified: false
+    hashtags: "#shooting, #tomorrowland, #loop, #tips"
 ---

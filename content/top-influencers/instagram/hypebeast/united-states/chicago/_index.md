@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Chicago In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Chicago in 2020. Most popular hashtags: #hypebeast #chicago #streetphotography #airmax.
+  Find top hypebeast Instagram influencers in Chicago in 2020. Most popular hashtags: #hypebeast #chicago #portrait #portraitphotography.
 platform: Instagram
+hits: 54
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 54 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "richvrd_g"
+    fullname: >-
+      RICHARD G.
+    bio: >-
+      📍 San Diego, CA
+    location: "United States"
+    followers: 2226
+    engagement: 1961
+    commentsToLikes: 0.033211
+    id: ckap7cgs3jh040i78wyk81ep9
+    verified: false
+    hashtags: "#louisvuitton, #outfitsociety, #antisocialsocialclub, #hypebeast"
   - username: "lcphotodesign"
     fullname: >-
       LC Photography & Multimedia
+    bio: >-
+      #📸, #🇬🇹 ,#🥁, #contentcreator DM inquiries & collabs “Le temps est un grand maître, dit-on. Le malheur est qui’il tue ses élèves.” Psalm 1👇🏽Check it
     location: "United States"
-    followers: 9569
-    engagement: 554
-    commentsToLikes: 0.008062
+    followers: 9193
+    engagement: 522
+    commentsToLikes: 0.008381
     id: ck6txz4oc0pa10j718mmn2fwj
     verified: false
-    hashtags: "#fashion, #lilwayne, #hypebeast, #retro"
+    hashtags: "#inkedgirls, #fashionista, #conceptphotography, #photooftheday"
+  - username: "hauteknife"
+    fullname: >-
+      HauteKnife🔪
+    bio: >-
+      Quality/Quantity 📩hauteknife.info@gmail.com
+    location: "United States"
+    followers: 2336
+    engagement: 1027
+    commentsToLikes: 0.225364
+    id: ck5hhbkiu7e4g0i11otrvlmw0
+    verified: false
+    hashtags: "#hypebeast, #canon, #snobshots, #chicago"
+  - username: "ocfportraits"
+    fullname: >-
+      Off Camera Flash Portraits
+    bio: >-
+      Featuring Portraits with Artificial Lighting ONLY! Tag/use #ocfportraits for Feature! Turn on Post Notifications! NO DMs!
+    location: "United States"
+    followers: 58717
+    engagement: 271
+    commentsToLikes: 0.007420
+    id: ck6tjerva2knz0j71pizup13r
+    verified: false
+    hashtags: "#nycmodel, #portraitphotography, #lightshapers, #portrait"
   - username: "emilygualdoniphoto"
     fullname: >-
       Chicago Fashion Photographer
+    bio: >-
+      📍Chicago fashion, boudoir & wedding photographer - No free shoots. Email me for my rates. @chicago_boudoir_ @emilygualdoniweddings
     location: "United States"
-    followers: 17673
-    engagement: 1331
-    commentsToLikes: 0.045608
+    followers: 17601
+    engagement: 201
+    commentsToLikes: 0.092616
     id: ck5c1cu8kux0g0i11643v1o34
     verified: false
-    hashtags: "#bestphotogram, #quietthechaos, #manicurist, #portraitstream"
+    hashtags: "#ig, #chicagofashion, #portraitpage, #editorialfashion"
   - username: "camrongood"
     fullname: >-
       CAMɆRON GOOD 📹
+    bio: >-
+      📍Chicago, IL » C R E A T O R » Telling each story in an untold way » Freelance » Former: Chicago Bears » BLACK LIVES MATTER
     location: "United States"
-    followers: 8438
-    engagement: 1189
-    commentsToLikes: 0.051384
+    followers: 8560
+    engagement: 1233
+    commentsToLikes: 0.061533
     id: ck15sxzrafdl00i19i6cmsgm7
     verified: false
-    hashtags: "#justinjackson, #90sbulls, #astronomical, #statementjersey"
-  - username: "az1217_"
-    fullname: >-
-      YueCheng Zhang
-    location: "United States"
-    followers: 26263
-    engagement: 357
-    commentsToLikes: 0.008377
-    id: ck0w38auus37g0i19dfsgfqdb
-    verified: false
-    hashtags: "#airjordan1top3, #kobe7prelude, #supremeairforce1, #sneakerheads"
-  - username: "ryanthevintageking"
-    fullname: >-
-      Shopping and Retail
-    location: "United States"
-    followers: 25080
-    engagement: 87
-    commentsToLikes: 0.016229
-    id: ck0vzfkco8v4r0i19mvcvx7iu
-    verified: false
-    hashtags: "#paypalcash, #milano, #balenciaga, #bandteeshirt"
-  - username: "chef.edtinoco"
-    fullname: >-
-      Ed Tinoco
-    location: "United States"
-    followers: 21152
-    engagement: 349
-    commentsToLikes: 0.029995
-    id: ck14iu9m2h7990i19tpi1feim
-    verified: false
-    hashtags: "#nike270react, #repost, #chefswork, #chefschoice"
-  - username: "night.sh00terz"
-    fullname: >-
-      NightShooters
-    location: "United States"
-    followers: 113848
-    engagement: 103
-    commentsToLikes: 0.029432
-    id: ck0u7b8wk486s0i1998qp2x2m
-    verified: false
-    hashtags: "#explorenyctoday, #newyorker, #hongkonger, #instagram"
+    hashtags: "#hoopflickz, #artofchi, #nbaallstar, #thelastdance"
   - username: "junjdm"
     fullname: >-
       Jun 🌀
+    bio: >-
+      Photographer/Artist | Shoes | Food | Basketball 🏀 | Dallas, TX | 🌹ILYSB | 📷Canon1DX Mark ii | JBY🦉🌙 Deuce Fam✌️”You can’t teach experience”
     location: "United States"
-    followers: 12081
-    engagement: 588
-    commentsToLikes: 0.043699
+    followers: 12116
+    engagement: 542
+    commentsToLikes: 0.047950
     id: ck6tm9svd7fuv0j71xlmjab0k
     verified: false
-    hashtags: "#airmax90, #kobe4undefeated, #conversebasketball, #kd2scoringtitle"
-  - username: "praneeth_koduru"
+    hashtags: "#virgilabloh, #fearofgod, #paulgeorge4, #kicksoncourt"
+  - username: "tubsz_illa"
     fullname: >-
-      Praneeth Koduru | Chicago
+      𝕿𝖚𝖇𝖘
+    bio: >-
+      CHICAGO -ARTIST/DESIGNER- #Calligraphy #calligraffiti DM or email below for inquiries
     location: "United States"
-    followers: 4950
-    engagement: 565
-    commentsToLikes: 0.037800
-    id: ck5c94hquargj0i11to7rz29x
+    followers: 27682
+    engagement: 255
+    commentsToLikes: 0.042320
+    id: ck0w64zgz6xcg0i19fanape7h
     verified: false
-    hashtags: "#milkyway, #lensculturestreets, #exklusive, #streetselect"
-  - username: "porschuhhs"
+    hashtags: "#calligraphyart, #mural, #art, #canvas"
+  - username: "cs_photographic"
     fullname: >-
-      Andrew Florin
+      Coale Souder
+    bio: >-
+      Artist & Photographer Chicago, IL. 🇺🇸 Creature of the night.
     location: "United States"
-    followers: 36120
-    engagement: 435
-    commentsToLikes: 0.009492
-    id: ck5ztko660lsj0i14nnhjh7kp
+    followers: 12828
+    engagement: 860
+    commentsToLikes: 0.026364
+    id: ckap1k1hnuv4b0i782ztnr0u9
     verified: false
-    hashtags: "#tustin, #memorialday, #citystreets, #martini"
+    hashtags: "#houseoftones, #dof, #worldtones, #shotzdelight"
+  - username: "b.c.calico"
+    fullname: >-
+      Photographer Brendan Carroll
+    bio: >-
+      Freelance Editorial Photographer Austin | Chicago @sporarts
+    location: "United States"
+    followers: 5565
+    engagement: 553
+    commentsToLikes: 0.028244
+    id: ck6tll4i966er0j71a5sttk5n
+    verified: false
+    hashtags: "#nowherediary, #rolledgoldfilm, #filmisnotdead, #instagood"
 ---

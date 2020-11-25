@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top barbers Instagram influencers in Barcelona in 2020. Most popular hashtags: #malaga #relax #quedateencasa #style.
+  Find top barbers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #barber #style #barbershop.
 platform: Instagram
+hits: 15
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
+  - username: "rachid_barber26"
+    fullname: >-
+      BARBERO DEL MOMENTO
+    bio: >-
+      HAIR SPECIALISTS ✂️ 🇲🇦🇲🇦🇪🇸🇪🇸 nador Rifiño Siempre hacia arriba..siempre en familia🙌🏻 ~BARBERSHOP~ Granada 💈💈💈RACHID BARBER💈💈
+    location: "Spain"
+    followers: 12312
+    engagement: 489
+    commentsToLikes: 0.017297
+    id: ckaovbm103vcs0i78cs9rq3ja
+    verified: false
+    hashtags: "#wahl, #style, #barbergang, #menshair"
   - username: "ambarberia"
     fullname: >-
       ANTONIO MATEO. ✪
+    bio: >-
+      Professional Barber in BARCELONA Manager @ballesterbarbershop 🇪🇸🌍 ⬇️🚨YouTube🚨⬇️
     location: "Spain"
     followers: 112129
     engagement: 135
     commentsToLikes: 0.015589
     id: ck6u003tycvbd0j71rzejnmy8
     verified: false
-    hashtags: "#mequedoencasa, #photooftheday, #fashionista, #shape"
-  - username: "popdastan"
+    hashtags: "#style, #barbershop, #haircut, #barcelona"
+  - username: "sifercypher"
     fullname: >-
-      Nathan T.
+      SIFER
+    bio: >-
+      • Professional Dancer | Dance Teacher | Music ♥ • Lanzarote | Canarias | Madrid | Spain 📍 • Calima Team | Men Of Steel 👤 @sifercypherformacion 📚
     location: "Spain"
-    followers: 21478
-    engagement: 506
-    commentsToLikes: 0.031218
-    id: ck8t7v9lbi2xq0j786oettcgf
+    followers: 3120
+    engagement: 2381
+    commentsToLikes: 0.140318
+    id: ck55l71fk0wq70i11s77bh8cx
     verified: false
-    hashtags: "#working, #hairy, #unitedstates, #thursdaymood"
+    hashtags: "#event, #popping, #funk, #hiphop"
+  - username: "gabriell_boss"
+    fullname: >-
+      Gabriell Boss
+    bio: >-
+      📍Madrid 💈Barber💈 Underwear Model Co-founder: ⬇️
+    location: "Spain"
+    followers: 16529
+    engagement: 1094
+    commentsToLikes: 0.025636
+    id: ck6tlp2386d6z0j718imm6o92
+    verified: false
+    hashtags: "#tattoos, #picture, #domingo, #picoftheday"
+  - username: "sergi_miro"
+    fullname: >-
+      𝗦𝗘𝗥𝗚𝗜 𝗠𝗜𝗥𝗢́
+    bio: >-
+      📍Barcelona 💼 Marketing 🚣🏽‍♀️ Rowing ✨Lifestyle 🐱Lana 🌱Plant Lover 🌍 Travel ♀️Feminist 📩 smirosergi@icloud.com
+    location: "Spain"
+    followers: 30793
+    engagement: 1878
+    commentsToLikes: 0.014165
+    id: ck5c9b794b4i90i11y7et16z6
+    verified: false
+    hashtags: "#beachvibes, #beach, #weekendvibes, #summer"
   - username: "adilmahfud_"
     fullname: >-
       عادل
+    bio: >-
+      📍Barcelona Influencer and model 📩Email: adilakarraouch@gmail.com @salvadoragency @miah_management
     location: "Spain"
-    followers: 88223
-    engagement: 313
-    commentsToLikes: 0.021652
+    followers: 94775
+    engagement: 228
+    commentsToLikes: 0.035297
     id: ck6txuzcr008b0j71mvyru2pq
     verified: false
-    hashtags: "#dayoff, #newpost, #fashionblogger, #instagram"
+    hashtags: "#post, #boy, #menswear, #styleblogger"
+  - username: "shebasale"
+    fullname: >-
+      Sebas🧔🏻
+    bio: >-
+      34 años #virgo #argentino viviendo en #barcelona 🇦🇷🇪🇸
+    location: "Spain"
+    followers: 6340
+    engagement: 880
+    commentsToLikes: 0.032535
+    id: ck8t8zd6bmdvm0j784aop43lr
+    verified: false
+    hashtags: "#gaybcn, #gayargentina, #goodmoment, #scruff"
+  - username: "eldeletrista"
+    fullname: >-
+      El Deletrista
+    bio: >-
+      🔥 Sign painting & lettering services 🌍 Based in sunny Barcelona • Available worldwide 📩 el@deletrista.es
+    location: "Spain"
+    followers: 17040
+    engagement: 596
+    commentsToLikes: 0.056234
+    id: ck5q9ggeib0930i11lmhrf3iy
+    verified: false
+    hashtags: "#typewip, #typegang, #typeworship, #barbershop"
+  - username: "danielruizv"
+    fullname: >-
+      Daniel Ruiz
+    bio: >-
+      Founder Architect of @drvarquitectos Travel with @a.happy.travel Columnist of @larevistadiversa Ambassador of @avplus_barber 📩 for collaborations
+    location: "Spain"
+    followers: 84924
+    engagement: 647
+    commentsToLikes: 0.012921
+    id: ck8t50jas8g5o0j789jx9fkcg
+    verified: false
+    hashtags: "#spain, #portrait, #memories, #igers"
   - username: "brianbarber_"
     fullname: >-
       βrιαη Pεrεz Qυιrσs ✪
+    bio: >-
+      •Barber in @christian_maez •from BCN/MADRID 🇪🇸 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2020🏆 •1p-battle @goldenchairintl 2018🏆
     location: "Spain"
     followers: 21460
     engagement: 296
     commentsToLikes: 0.023191
     id: ck6ubn6jqakew0j71x4ffqen3
     verified: false
-    hashtags: "#challenge, #barbertattoo, #happy, #party"
-  - username: "marilentattoo"
-    fullname: >-
-      Marilen Adrover - Tattoo
-    location: "Spain"
-    followers: 10846
-    engagement: 647
-    commentsToLikes: 0.016975
-    id: ck5q2x9gri8720i11woei9de3
-    verified: false
-    hashtags: "#germany, #amabie, #digitaldrawing, #sailormoon"
-  - username: "chasetattooart"
-    fullname: >-
-      Chase Neooriental Tattoo
-    location: "Spain"
-    followers: 31046
-    engagement: 115
-    commentsToLikes: 0.029952
-    id: ck6u3cyhmx3h20j71a4p7c75e
-    verified: false
-    hashtags: "#starwars, #orientalmask, #hannnya, #handmade"
-  - username: "aranzaosorou"
-    fullname: >-
-      Aranzazu Osoro Ulrich 🇦🇷
-    location: "Spain"
-    followers: 7554
-    engagement: 698
-    commentsToLikes: 0.030227
-    id: ck6ts9k7p3i6w0j7154n4bdj9
-    verified: false
-    hashtags: "#sorteo, #castelldefels, #sonreir, #ilusion"
-  - username: "alebarber.18"
-    fullname: >-
-      Alєхαηdєr Acσsтα ✪ |📍UY🌎
-    location: "Spain"
-    followers: 5696
-    engagement: 1372
-    commentsToLikes: 0.068240
-    id: ck5zn1d9tnlbv0i14fy6dmd98
-    verified: false
-    hashtags: "#makeup, #barberspain, #estilo, #fadespain"
-  - username: "bbflow_"
-    fullname: >-
-      
-    location: "Spain"
-    followers: 8739
-    engagement: 1267
-    commentsToLikes: 0.037668
-    id: ck5bzyp47s3hs0i11qgerjqet
-    verified: false
-    hashtags: "#sanpetersburgo, #tbt, #swagg, #d10s"
-  - username: "thefaderbarber_"
-    fullname: >-
-      💈THEFADER💈🧠♾🧠
-    location: "Spain"
-    followers: 18865
-    engagement: 1153
-    commentsToLikes: 0.014429
-    id: ck15uc20fmf1w0i19shd8n7f8
-    verified: false
-    hashtags: "#marbella2017, #mrporter, #mensgrooming, #puertobanus"
+    hashtags: "#freestyle, #wahlspain, #showcasebarbers, #ink"
 ---

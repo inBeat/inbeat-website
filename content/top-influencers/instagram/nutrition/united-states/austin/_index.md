@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Austin In 2020
 description: >-
-  Find top nutrition Instagram influencers in Austin in 2020. Most popular hashtags: #nutrition #austin #sunday #healthyliving.
+  Find top nutrition Instagram influencers in Austin in 2020. Most popular hashtags: #healthylifestyle #nutrition #austintexas.
 platform: Instagram
+hits: 31
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 31 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "spinsyddy"
+  - username: "minithunderbird"
     fullname: >-
-      SYDNEY TORABI | HOME WORKOUTS
+      Christine
+    bio: >-
+      ☽ Fitness • Health • Lifestyle ☽ Nutrition @austinadamsdc ☽ Training @teamcarolvaz ☽ @cls_sportswear use code thunder
     location: "United States"
-    followers: 21029
-    engagement: 263
-    commentsToLikes: 0.054269
-    id: ck5zol62tqsnv0i14z9zbvmzh
+    followers: 31741
+    engagement: 242
+    commentsToLikes: 0.031286
+    id: ckf5o7td919390j23xakzz243
     verified: false
-    hashtags: "#austinfit, #nutrition, #fitnessmodel, #swimmer"
+    hashtags: "#cutegymclothes, #austinadamsdc, #teamcarolvaz, #clsbabe"
   - username: "thetrendytomboy"
     fullname: >-
       Rachel Spross | Lifestyle Blog
+    bio: >-
+      tomboy with a feminine side style + fitness NASM CPT + instructor Precision L1 nutrition coach healthy foodie Austin ↔️ Waco ↔️ Dallas
     location: "United States"
-    followers: 43919
-    engagement: 70
-    commentsToLikes: 0.042860
+    followers: 41236
+    engagement: 77
+    commentsToLikes: 0.045576
     id: ck13bqq1awpys0i19pk57ql25
     verified: false
-    hashtags: "#donttouchme, #takeablissbreak, #ad, #blissbreak"
-  - username: "_juliarene"
-    fullname: >-
-      JULIA RENE »ONLINE TRAINER
-    location: "United States"
-    followers: 16863
-    engagement: 948
-    commentsToLikes: 0.134939
-    id: ck15sidzmd5o70i19wz8m4rhy
-    verified: false
-    hashtags: "#girlbosslife, #nutritionclub, #hiitcircuit, #npcwellness"
-  - username: "kirkwoodmatthews"
-    fullname: >-
-      Jack Matthews
-    location: "United States"
-    followers: 95334
-    engagement: 378
-    commentsToLikes: 0.024017
-    id: ck5hcc7hihahm0i117in9rgr0
-    verified: true
-    hashtags: "#hmubrittney, #albumbouttodrop, #goodpeople, #lakeeffect"
+    hashtags: "#lucchesecasual, #treatmeal, #mylucchese, #lucchesepartner"
   - username: "modernveganfam"
     fullname: >-
       Modern Vegan Familia
+    bio: >-
+      Join our fam. Follow Adam, Madeline, Addy, & Lazer’s Plant Based Life. Founders of @credofoods . Vegan for ❤️ 🐷 🌎 . Austin, TX based
     location: "United States"
-    followers: 25743
-    engagement: 168
-    commentsToLikes: 0.103150
+    followers: 26334
+    engagement: 142
+    commentsToLikes: 0.127361
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
-  - username: "nicolemrauch"
+    hashtags: "#dairyfree, #veganfamily, #austinfoodie, #foodismedicine"
+  - username: "getfitwith_nikk"
     fullname: >-
-      N I C O L E | workout with me
+      Nikki - Transformation Coach
+    bio: >-
+      Empowering confidence through fitness and nutrition #atxfitness @trufusion_southaustin @f45_training_southshoreaustin @idealfit Programs👇🏽
     location: "United States"
-    followers: 20119
-    engagement: 850
-    commentsToLikes: 0.093393
-    id: ck8t6xak8ezc20j78ohef7l05
+    followers: 113478
+    engagement: 111
+    commentsToLikes: 0.158607
+    id: ck6tvpbi8ni7m0j71wyhj0q2s
     verified: false
-    hashtags: "#cardio, #cardioworkouts, #outdoorworkout, #fullbodyfriday"
-  - username: "hannahbeefit"
+    hashtags: "#homeworkoutvideos, #austintexas, #transformationcoach, #texasfit"
+  - username: "aneshea_shali"
     fullname: >-
-      Hannah Stoutamyer, NESTA PFTS
+      Aneshea Shali
+    bio: >-
+      @corecampchallenge DALLAS, TX📍🤘🏽 @be.empowered.nutrition Athlete @bravosierra_usa Athlete
     location: "United States"
-    followers: 17411
-    engagement: 547
-    commentsToLikes: 0.030972
-    id: ck5zkzvbukgx60i144dzp1q2d
+    followers: 26329
+    engagement: 518
+    commentsToLikes: 0.045723
+    id: ck6ui0kwvccno0j713equ14rl
     verified: false
-    hashtags: "#teammihalyaprilchallenge, #hyperdrivefit, #acrylic, #grouptraining"
-  - username: "ketokween.la"
+    hashtags: "#fitbox, #fitfam, #dirty30, #corecampchallenge"
+  - username: "laurrrenhunter"
     fullname: >-
-      Lady Mel 🇬🇧🇺🇸
+      Lauren | Health Coach ✨
+    bio: >-
+      wife + mama x ✌🏼 cen cal📍 @tilyoucollapse | lauren10 @bowmar_nutrition | lauren
     location: "United States"
-    followers: 25196
-    engagement: 116
-    commentsToLikes: 0.114452
-    id: ck6u3g2q5xl0z0j71npjoncn4
+    followers: 116510
+    engagement: 187
+    commentsToLikes: 0.016573
+    id: ck0w6ctwa7z460i19o4e50wnn
     verified: false
-    hashtags: "#questfit, #sunday, #chicken, #natural"
-  - username: "malsfitkitchen"
+    hashtags: "#mama, #fallvibes, #basic, #tilyoucollapse"
+  - username: "onebalancedlife"
     fullname: >-
-      mallory page | real wellness
+      Taylor Dadds
+    bio: >-
+      I help busy women find balance by simplified nutrition & lasting routines. Simple recipes + tips Health Coach Austin, TX New recipes👇🏻
     location: "United States"
-    followers: 13779
-    engagement: 1252
-    commentsToLikes: 0.079573
-    id: ck5bzzx5fs62q0i11tt5kjjef
+    followers: 99561
+    engagement: 240
+    commentsToLikes: 0.064139
+    id: ck0u18vqtw3c90i199mavywgz
     verified: false
-    hashtags: "#malsfitkitchen, #fridgestyle, #malsfitfamily"
-  - username: "turmerictshirt"
+    hashtags: "#dailysiggis, #sponsored, #oscarmayerpartner"
+  - username: "tastewithtee"
     fullname: >-
-      Nivedita Dravid|TurmericTshirt
+      Chommy Tee | 🇱🇦 Food Blogger
+    bio: >-
+      📍Houston, Dallas, Austin ⭐️ @bestfoodhouston (CL) ⭐️ @chowdownhtown1 (Founder) ⭐️ @yelp (Elite ‘20) 📧 DM/Email for Collabs!
     location: "United States"
-    followers: 2131
-    engagement: 1358
-    commentsToLikes: 0.072235
-    id: ck8talnt6s9xo0j78x9ica0cs
+    followers: 3477
+    engagement: 1342
+    commentsToLikes: 0.494682
+    id: ck9h9tmem9x5s0j783hxik53j
     verified: false
-    hashtags: "#imsomartha, #babymoon, #bumpdated, #timeisflying"
+    hashtags: "#shotoftheday, #supportlocal, #glutenfree, #htxfoodie"
+  - username: "yenismonterrey"
+    fullname: >-
+      Yenis Monterrey
+    bio: >-
+      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
+    location: "United States"
+    followers: 28043
+    engagement: 286
+    commentsToLikes: 0.237386
+    id: ckaoxs08fehfh0i78xy0bpjb5
+    verified: false
+    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
+  - username: "nikberryclimb"
+    fullname: >-
+      Nik Berry
+    bio: >-
+      Nurse|Climber|Yosemite Lover Supported by: Outdoor Research, Black Diamond, La Sportiva, Sterling Rope, Gnarly Nutrition, FrictionLabs
+    location: "United States"
+    followers: 10527
+    engagement: 1095
+    commentsToLikes: 0.020149
+    id: ck1393cbjjb5j0i197lsdos4d
+    verified: false
+    hashtags: "#fuckinglifeandshit, #iamacheeseball, #theslabsarelonely, #doyounaptoclimborclimbtonap"
 ---

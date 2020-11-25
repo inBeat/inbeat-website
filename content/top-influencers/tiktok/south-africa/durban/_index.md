@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Durban In 2020
 description: >-
-  Find top TikTok influencers in Durban in 2020. Most popular hashtags: #winter #future #durban #greenscreen.
+  Find top TikTok influencers in Durban in 2020. Most popular hashtags: #duet #foryoupage #viral #foryou.
 platform: TikTok
+hits: 19
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 19 TikTok influencers like this in Durban, South Africa for you to connect with.
 profiles:
-  - username: "yuvansingh06"
+  - username: "shreya____official"
     fullname: >-
-      Yuvansingh
+      Shreya
+    bio: >-
+      🇿🇦 DURBAN 🇿🇦 Expecto Petronum🎆 # naamate #freespirits🌠
     location: "South Africa"
-    followers: 2640
-    engagement: 1561
-    commentsToLikes: 0.052514
-    id: ck9slj3die76b0j7804fcuj6r
+    followers: 5001
+    engagement: 2609
+    commentsToLikes: 0.056408
+    id: ckad9hcwudoi50i788qz2tcbe
     verified: false
-    hashtags: "#duet"
-  - username: "aj_nerd23"
+    hashtags: "#mmisfitz, #tiktoksouthafrica, #sabrownvibe, #team"
+  - username: "clintonseach"
     fullname: >-
-      AJ_nerd
+      Clinton Seach
+    bio: >-
+      Durban boy 🏖️ Be yourself... Nothing more and definitely nothing less 😉 Leo ♌
     location: "South Africa"
-    followers: 4962
-    engagement: 1179
-    commentsToLikes: 0.053327
-    id: ck9sk4tdk714a0j78onmsfw0g
+    followers: 4437
+    engagement: 1479
+    commentsToLikes: 0.066269
+    id: ckcvgo44yt50u0j23kgpaxgyx
     verified: false
-    hashtags: "#xyzcba, #teamdurbz, #blowup, #tiktoktrending"
+    hashtags: "#duetswelcome, #fyp, #smile, #duetthis"
+  - username: "althaaf.ebrahim"
+    fullname: >-
+      Althaaf Ebrahim
+    bio: >-
+      Love having fun 😎 I'm cool but global warming made me hot 🔥 #durbancreators
+    location: "South Africa"
+    followers: 7278
+    engagement: 1881
+    commentsToLikes: 0.036814
+    id: ckcdz5elnh2gp0j23t74sj3qa
+    verified: false
+    hashtags: "#teamdurbz, #trending, #viral, #durbancreators"
   - username: "andrerouxsaofficial"
     fullname: >-
       Andrè Roux
+    bio: >-
+      GOD first Model Hairdresser 💇‍♀️ Durban 📍 🇿🇦🏳️‍🌈
     location: "South Africa"
-    followers: 22262
-    engagement: 609
-    commentsToLikes: 0.035219
+    followers: 23700
+    engagement: 1024
+    commentsToLikes: 0.033334
     id: ck9fmtc3bv5en0j788cz1jv67
     verified: false
-    hashtags: "#boredinthehouse"
-  - username: "itsscandss"
+    hashtags: "#foryou, #durban, #viral, #glowupforreal"
+  - username: "priyankasheodass"
     fullname: >-
-      Candice ;)
+      Priyanka Sheodass
+    bio: >-
+      Instagram: Priyanka Sheodass Cape Town/ Durban 🇿🇦 🤍
     location: "South Africa"
-    followers: 168590
-    engagement: 2619
-    commentsToLikes: 0.054216
-    id: ck978grmd7wvg0j78yyqurpn3
-    verified: true
-    hashtags: "#bruv, #explain, #beat, #answer"
-  - username: "marcslater_"
-    fullname: >-
-      Slater
-    location: "South Africa"
-    followers: 11261
-    engagement: 1734
-    commentsToLikes: 0.077776
-    id: ck9f3mtxpig1n0j78tdxkuy58
+    followers: 7125
+    engagement: 409
+    commentsToLikes: 0.019159
+    id: ckb9r8nhnnplt0j23a0u1bnsy
     verified: false
-    hashtags: "#part4, #stepchickens, #colouredboys, #woah"
-  - username: "officialreya"
+    hashtags: "#tiktoksa, #4u, #foryou, #trending"
+  - username: "darrienluke"
     fullname: >-
-      ❤️SHREYA❤️
+      DarrienLuke
+    bio: >-
+      Jesus🙏🇿🇦 #EliteWolfPack Entertainer Follow me while you're here😁❤️🙏🏼
     location: "South Africa"
-    followers: 3660
-    engagement: 2872
-    commentsToLikes: 0.055408
-    id: ckad9hcwudoi50i788qz2tcbe
+    followers: 55700
+    engagement: 1063
+    commentsToLikes: 0.086459
+    id: ck9sjqavz4x1f0j78tw9t5nxt
     verified: false
-    hashtags: "#durban, #drake, #imfamousquad, #future"
-  - username: "talia.tucker"
+    hashtags: "#elitewolfpack, #durbanmeetup, #seemeontrace, #bestmzansimemer"
+  - username: "veeran.com"
     fullname: >-
-      Talia Tucker
+      call_me_veez♠️
+    bio: >-
+      CEO of VIBEZZZZ🔥😜 Food lover🤤😩 Transitioner😍😍 Don't be shy I follow back😘
     location: "South Africa"
-    followers: 103078
-    engagement: 856
-    commentsToLikes: 0.041884
-    id: cka0rw3kwiu840i78c0227tgb
+    followers: 14500
+    engagement: 1416
+    commentsToLikes: 0.037112
+    id: ck9slqs2efesp0j7805i5jpzb
     verified: false
-    hashtags: "#itsfriday, #blueskies, #drawme, #adderall"
-  - username: "jennamartin20"
+    hashtags: "#veeranators, #trending, #foryoupage, #viral"
+  - username: "mikayla_sheik"
     fullname: >-
-      Jenna Martin
+      Mikayla Sheik
+    bio: >-
+      🌸Jesus comes first 🌸 #mikaysquad 21 🇿🇦
     location: "South Africa"
-    followers: 22147
-    engagement: 807
-    commentsToLikes: 0.030174
-    id: ckaknkelu7l9u0i78m48oiait
+    followers: 27800
+    engagement: 976
+    commentsToLikes: 0.018829
+    id: ck9shs11vv0jd0j78kpgvj9u8
     verified: false
-    hashtags: "#covid19, #saschools, #monkeys, #speedchallenge"
-  - username: "itsscandss"
+    hashtags: "#foryou, #durbanmeetup, #dance, #mikaysquad"
+  - username: "aj_nerd23"
     fullname: >-
-      Candice ;)
+      AJ_nerd
+    bio: >-
+      💥 GOAL 10K 💥 💯 20 💯 South Africa 🇿🇦 I am a potato 🥔
     location: "South Africa"
-    followers: 168590
-    engagement: 2619
-    commentsToLikes: 0.054216
-    id: ck978grmd7wvg0j78yyqurpn3
-    verified: true
-    hashtags: "#bruv, #explain, #beat, #answer"
-  - username: "lu_i_am"
-    fullname: >-
-       Lu✌
-    location: "South Africa"
-    followers: 6808
-    engagement: 3021
-    commentsToLikes: 0.158021
-    id: ck9ns8lr1cf3x0j781tr9javs
+    followers: 6279
+    engagement: 1248
+    commentsToLikes: 0.029906
+    id: ck9sk4tdk714a0j78onmsfw0g
     verified: false
-    hashtags: "#draftpost, #sydehustle, #h8rs, #gamechanger"
+    hashtags: "#durbancreators, #greenscreen, #foryoupage, #teamdurbz"
+  - username: "zakirahshah"
+    fullname: >-
+      Zakirah shah
+    bio: >-
+      IG @withlovekzs_🇿🇦 Revert Content Creator☪️
+    location: "South Africa"
+    followers: 11800
+    engagement: 842
+    commentsToLikes: 0.049837
+    id: ck9f1u70ba3c10j78ix34gwoi
+    verified: false
+    hashtags: "#share, #revertmuslim, #muslimrevert, #tiktoksa"
 ---

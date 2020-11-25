@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Spain In 2020
 description: >-
-  Find top nutrition Instagram influencers in Spain in 2020. Most popular hashtags: #fitness #cuarentena #barcelona #sunset.
+  Find top nutrition Instagram influencers in Spain in 2020. Most popular hashtags: #fitness #fit #running.
 platform: Instagram
+hits: 235
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 235 Instagram influencers like this in Spain for you to connect with.
 profiles:
-  - username: "albafityoga"
+  - username: "julkalewicka"
     fullname: >-
-      Alba Safe
+      ᴊᴜʟɪᴛᴀ ʟᴇᴡɪᴄᴋᴀ
+    bio: >-
+      ➳ In love with cities I’ve never been to. Wanna discover them with me? 🌴 📍Poland ✨ nutritionist 🥑 ➵ @cukierpuderpoznan 🧁
     location: "Spain"
-    followers: 7480
-    engagement: 811
-    commentsToLikes: 0.251726
-    id: ck13bfdf6v5r20i1970j9ei5p
+    followers: 57901
+    engagement: 742
+    commentsToLikes: 0.008282
+    id: ck0tz1wkzou4v0i19q7rxm4ko
     verified: false
-    hashtags: "#bakasana, #babybakasana, #cocobox, #yogatcha"
-  - username: "alexis_zafiro_training"
+    hashtags: "#trickortreat, #strajkkobiet, #islandgirl"
+  - username: "fit_style_with_eli"
     fullname: >-
-      Alexis ♒️
+      𝓔𝓵𝓲š𝓴𝓪 🇨🇿
+    bio: >-
+      💚 Nutrition coach & motivator 💚 Lowcarb/Realfood @milujulowcarb FCB: Fit Style with Eli🌸 @lifelikefit:slev.kód:eliska7 💌 fitstylewitheli@gmail.com
     location: "Spain"
-    followers: 80442
-    engagement: 667
-    commentsToLikes: 0.014797
-    id: ckaovxscv6jqd0i786d59eu3z
+    followers: 49148
+    engagement: 98
+    commentsToLikes: 0.051206
+    id: ck6tqobaysnyg0j71syuk7uzs
     verified: false
-    hashtags: "#quedateencasa, #noexcuse, #bodypositivity, #hardtraining"
-  - username: "isabellejunot"
+    hashtags: "#lowcarb, #running, #foodporn, #amazingplace"
+  - username: "vanessa_zingaro_"
     fullname: >-
-      ιѕαbelle Jυиσɬ ☺︎
+      Vanessa 🌎 Nutrition Coaching
+    bio: >-
+      MNU Certified Nutritionist: @evolvetoexcel 52kg Powerlifter CPA, CA @bornprimitive.ca ❀ ZINGARO
     location: "Spain"
-    followers: 10847
-    engagement: 482
-    commentsToLikes: 0.073742
-    id: ck0vye9vz3jii0i190j3s2q0x
+    followers: 32331
+    engagement: 375
+    commentsToLikes: 0.026401
+    id: ck0w3cl65spx40i19wrh7efuh
     verified: false
-    hashtags: "#funnybone, #osquieromucho, #tiemposdereflexion, #dancebattle"
-  - username: "calderonchris_oficial"
-    fullname: >-
-      Christopher calderon 🇪🇸 🇪🇺
-    location: "Spain"
-    followers: 36029
-    engagement: 143
-    commentsToLikes: 0.088437
-    id: ckap22yggx5it0i78gelwp0zs
-    verified: false
-    hashtags: "#merrychristmas, #valencia, #happy, #liketime"
+    hashtags: "#evolvetoexcel, #bornprimitive, #teambornprimitive, #teambornprimitve"
   - username: "federikoleon"
     fullname: >-
-      F E D E
+      Fede • Fitness Coach
+    bio: >-
+      Barcelona / Spain 🇪🇸 Physiotherapist in sports medicine /MBA 🏋🏻‍♂️ Personal Trainer • DM ✉️ Fisioterapia, Online Fitness Coach & Nutrition
     location: "Spain"
-    followers: 25308
-    engagement: 669
-    commentsToLikes: 0.019560
+    followers: 27745
+    engagement: 468
+    commentsToLikes: 0.022983
     id: ck5q9kfnabjxe0i11hw50u2lt
     verified: false
-    hashtags: "#springbcn, #nipon, #barcelona, #boys"
+    hashtags: "#spain, #picoftheday, #bcn, #jj"
+  - username: "matiroure"
+    fullname: >-
+      Matias Roure
+    bio: >-
+      .Follow your bliss .We are one .Sport Lover / PT .Vegetarian / Nutrition .Surf Lover / Surf Trips .Model / Actor .Barman @firstdates_tv .Madrid,Spain
+    location: "Spain"
+    followers: 52844
+    engagement: 364
+    commentsToLikes: 0.015979
+    id: ck6tw34fxpqpr0j71zdkqex4b
+    verified: false
+    hashtags: "#sunday, #blackandwhite, #horizonte, #summer"
+  - username: "alejandrogarciaworld"
+    fullname: >-
+      Alejandro Garcia
+    bio: >-
+      Onlinetrainer&Nutrition 👇 alejandrogarciaworld@gmail.com DM For collabs 📩
+    location: "Spain"
+    followers: 78554
+    engagement: 215
+    commentsToLikes: 0.015415
+    id: ck6u5jcmw9ym70j71zt8jpz8e
+    verified: false
+    hashtags: ""
+  - username: "tam_gomezg"
+    fullname: >-
+      Tamara Gómez
+    bio: >-
+      Triathlete 🔹Powered by @powergym_nutrition . No nos olvidemos de VIVIR!
+    location: "Spain"
+    followers: 6184
+    engagement: 1341
+    commentsToLikes: 0.020797
+    id: ck5ckrs24xhew0i11ovi0grgg
+    verified: false
+    hashtags: "#daplacetobe, #quedateencasa, #yomequedoencasa, #yaquedamenos"
   - username: "vanrvel"
     fullname: >-
       Vanessa Veloso | 🗺️
+    bio: >-
+      💬 she's a wanderer with a camera on her hands. 🥑 Health & Nutrition Coach @bloomfrominside ✈️ Passionate Traveler & Sea Lover. 🌍 Ambassador: @momondo
     location: "Spain"
-    followers: 5122
-    engagement: 1746
-    commentsToLikes: 0.272366
+    followers: 5467
+    engagement: 1030
+    commentsToLikes: 0.170773
     id: ck5zr1dw8vpjj0i14i7r971ip
     verified: false
-    hashtags: "#pub, #revistafrederica, #london, #asnovenomeublog"
-  - username: "anne_cathrine_fit"
+    hashtags: "#10milhoesderazoes, #visitbraga, #bragacool"
+  - username: "petraarvelatrainer"
     fullname: >-
-      𝑨𝒏𝒏𝒆-𝑪𝒂𝒕𝒉𝒓𝒊𝒏𝒆 𝑾
+      Petra Arvela 🇫🇮
+    bio: >-
+      🎥🇩🇪”The Biggest Loser” Coach 🖤🇪🇸Spartan Pro Team Spain 🎓Certified Personal Trainer 🥑Certified nutrition coach 📚Sport science 🌱Based
     location: "Spain"
-    followers: 54658
-    engagement: 171
-    commentsToLikes: 0.027525
-    id: ck5hna4pvngdy0i11z6xcjxbh
+    followers: 33268
+    engagement: 860
+    commentsToLikes: 0.021743
+    id: ck5ca0n0pchbf0i118h4bknza
     verified: false
-    hashtags: "#frontline, #nikeair, #fitgoals, #happymood"
-  - username: "noeliasegura_ifbbpro"
+    hashtags: "#spartantraining, #fitness, #fitlife, #training"
+  - username: "burpee_vet"
     fullname: >-
-      IFBB Pro Figure Noelia Segura
+      Sara Conde👩🏼‍🍳🐻🐈
+    bio: >-
+      🌈Autora:“Mis dulces Fit” y “cheesecakemanía” 💚10% @emfit_nutrition✨BURPEE✨ 🍩VERSIONES HEALTHY DE TUS DULCES FAVORITOS🦄 📖CONSIGUE MI EBOOK GRATIS👇🏻
     location: "Spain"
-    followers: 30257
-    engagement: 170
-    commentsToLikes: 0.063559
-    id: ckapbhrhezwma0i78obkjqahn
+    followers: 174525
+    engagement: 412
+    commentsToLikes: 0.032157
+    id: ck0uahmoyc5ay0i19swm7fv0r
     verified: false
-    hashtags: "#ifbbpro, #debate, #laliamos, #olimp"
-  - username: "megemilymurray"
-    fullname: >-
-      M     E     G
-    location: "Spain"
-    followers: 74899
-    engagement: 168
-    commentsToLikes: 0.025007
-    id: ck0w75u9hbwp00i19bo5955e6
-    verified: false
-    hashtags: "#makeup, #makeuptutorial, #makeuplook, #naturalglam"
-  - username: "mxrals"
-    fullname: >-
-      MXRALS 🦋 | Fitness & lifestyle
-    location: "Spain"
-    followers: 3740
-    engagement: 1027
-    commentsToLikes: 0.120959
-    id: ck5hr3r42u7sj0i114bdxdd9w
-    verified: false
-    hashtags: "#bodypositive, #recetadeldia, #ensalada, #recetarealfood"
+    hashtags: "#pumpkin, #cheesecake, #healthyrecipes, #fitfood"
 ---

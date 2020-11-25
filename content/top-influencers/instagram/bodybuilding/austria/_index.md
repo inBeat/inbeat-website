@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Austria In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Austria in 2020. Most popular hashtags: #bodybuilding #workout #instadaily #healthy.
+  Find top bodybuilding Instagram influencers in Austria in 2020. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #austria.
 platform: Instagram
+hits: 23
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 23 Instagram influencers like this in Austria for you to pitch.
 profiles:
+  - username: "sarahhuberfitness"
+    fullname: >-
+      Fitness Ernährung Lifestyle
+    bio: >-
+      🇦🇹 Fitness Model Bikini Athletin Bodybuilding 👧🏼👧🏼Mama, married Team @nocco.at Team GYMQUEEN • Anfragen gerne per Mail 📧oder meine Webseite 💌
+    location: "Austria"
+    followers: 15991
+    engagement: 736
+    commentsToLikes: 0.131743
+    id: ckaozt4hwna6q0i78ie5n5g87
+    verified: false
+    hashtags: "#leoben, #bikinifitnessmodel, #bikinifitnessathlete, #krafttraining"
   - username: "katharina_fitglam"
     fullname: >-
       Katharina Stütz
+    bio: >-
+      💪🏻 Bodybuilding 🇦🇹 Vienna - Austria 🌱 Plant Based Vegan 💞 Bikini Girls Coach @fitnessglamcoaching 📚 YouTube ⬇️ BLOG ⬇️ Coaching 📚
     location: "Austria"
-    followers: 10901
-    engagement: 677
-    commentsToLikes: 0.045177
+    followers: 10812
+    engagement: 209
+    commentsToLikes: 0.080734
     id: ck5cksz42xjx80i11aepzv4ti
     verified: false
-    hashtags: "#thegrindneverstops, #progresspics, #summerbodyinprogress, #summerbody"
-  - username: "ela__1308"
+    hashtags: "#veganathlete, #posing, #femalebodybuilding, #figureathlete"
+  - username: "squatilia"
     fullname: >-
-      Ela 🕊
+      Powerlifting | Kraftdreikampf
+    bio: >-
+      Eva. 🎥 YouTube: squatilia_ 🏡 Wiesbaden / Eifel
     location: "Austria"
-    followers: 21363
-    engagement: 730
-    commentsToLikes: 0.126362
-    id: ckap6ynovhwt50i78koinlnp4
+    followers: 10976
+    engagement: 1623
+    commentsToLikes: 0.059045
+    id: ck6tkprtm56i50j71t2zi47do
     verified: false
-    hashtags: "#dekoideen, #sundayfunday, #leatherleggings, #vogove"
-  - username: "_aleksagavrilovic_"
+    hashtags: "#weightlifting, #gymlife, #art, #kraftdreikampf"
+  - username: "coco.rinaldi"
     fullname: >-
-      ᴀ ʟ ᴇ ᴋ s ᴀ
+      𝓡𝓲𝓷𝓪
+    bio: >-
+      📍 Tirol 🦅 / Graz 🏰 / Italia 🇮🇹 🏋🏽‍♀️ Personaltrainer 🦁 Team Lionscat 🦁 ⬇️ Book me ⬇️
     location: "Austria"
-    followers: 33180
-    engagement: 745
-    commentsToLikes: 0.032220
-    id: ck6u87zjcpyo40j71e1q00wbx
+    followers: 7570
+    engagement: 2585
+    commentsToLikes: 0.026368
+    id: ck9h9u9xo9zhv0j78s8a1k5dy
     verified: false
-    hashtags: "#teatro, #bugattichiron, #corona, #traning"
-  - username: "katarzyna_czulek"
+    hashtags: "#picture, #bodygoals, #workoutmotivation, #picoftheday"
+  - username: "mitsch__"
     fullname: >-
-      Katarzyna Czułek
+      MITSCH
+    bio: >-
+      FITNESS | LIFESTYLE | TRAVEL | HEALTHY RECIPES 📍 Velden am Wörthersee Team @barebells.at | @koerperkult.cc 👫🏼 C ❤️♾
     location: "Austria"
-    followers: 253295
-    engagement: 110
-    commentsToLikes: 0.037137
-    id: ck5hhidmw8dsx0i11l652abqo
+    followers: 9587
+    engagement: 538
+    commentsToLikes: 0.126288
+    id: ckf5ra4b0byf90j234tyky7wm
     verified: false
-    hashtags: "#instaphoto, #weekendtime, #husbandandwife, #bestfriends"
-  - username: "_coffeeandgains"
+    hashtags: "#barebells, #barebellsat, #teambarebells, #giveaway"
+  - username: "pascal_tschann"
     fullname: >-
-      Luki 💪🏾☕️
+      Fitness & Lifestyle
+    bio: >-
+      Austria🇦🇹 💊ALL STARS Athlet💊 @allstarssportsnutrition ⬇️-20% mit "pascal20"⬇️
     location: "Austria"
-    followers: 6670
-    engagement: 561
-    commentsToLikes: 0.113935
-    id: ckaoyab65gnsn0i78hlm2jua8
+    followers: 58586
+    engagement: 181
+    commentsToLikes: 0.051140
+    id: ck8szmsx7p13b0j78wab0jf7u
     verified: false
-    hashtags: "#bodybuilding, #schulter, #positivevibes, #fitnesstrainer"
-  - username: "luke_fader"
+    hashtags: "#austria, #fitnesslifestyle, #enjoytheday, #shoulders"
+  - username: "landertingerdominik"
     fullname: >-
-      L U K E F A D E R
+      Dominik Landertinger
+    bio: >-
+      #pillerseetal
     location: "Austria"
-    followers: 38018
-    engagement: 227
-    commentsToLikes: 0.036250
-    id: ck6tk3z1n3ykw0j715vceez9m
+    followers: 7623
+    engagement: 1594
+    commentsToLikes: 0.011699
+    id: ck5q3b50zk23p0i11trs0pno9
     verified: false
-    hashtags: "#nature, #photooftheday, #winter, #fitfam"
-  - username: "marcello.bravo"
+    hashtags: "#alpenpower, #bodybuilding, #verleihtfl, #technogym"
+  - username: "lisamariekatharin"
     fullname: >-
-      Marcello Bravo
+      Lisa Marie | 🇦🇹
+    bio: >-
+      ☀️Happy vibes & ✨endless motivation Training • Gymlife • Run faster ▫️Fitbit⌚️Athlete ▫️Nocco | Barebells | Bigpower 🌟↓ GYMSHARK BLACK FRIDAY SALE ↓
     location: "Austria"
-    followers: 28033
-    engagement: 139
-    commentsToLikes: 0.024040
-    id: ck5hrv9zkvjft0i11xiouay8v
+    followers: 28250
+    engagement: 177
+    commentsToLikes: 0.053185
+    id: ck5cksulcxjlr0i11q7q4a0bo
     verified: false
-    hashtags: "#sexyhub, #fashion, #stopwar, #couplegoals"
-  - username: "caroline.lena"
+    hashtags: "#gymshark, #lifegoals, #fitlife, #fitnessaddict"
+  - username: "igorrados"
     fullname: >-
-      Lena Caroline | Vienna
+      Igor Radoš
+    bio: >-
+      🇭🇷 @goalcrusherworld 🌍 Immobex real estate @immobex 📸 igorrados@immobex.at
     location: "Austria"
-    followers: 10743
-    engagement: 344
-    commentsToLikes: 0.156805
-    id: ck0w4tdkd0bjo0i19ho2fzyd7
+    followers: 34414
+    engagement: 262
+    commentsToLikes: 0.003121
+    id: ck5q7nhum2cwk0i11qpel71gy
     verified: false
-    hashtags: "#lips, #blondegirl, #mensfashion, #femalemodel"
-  - username: "zj.rob"
+    hashtags: "#ern, #enjoylife, #workout, #muscles"
+  - username: "ussy.doleh"
     fullname: >-
-      ℤ𝕁 ℝ𝕆𝔹 𝔹𝕀ℝℂℍ𝔹𝔸𝕌𝔼ℝ
+      𝙐𝙨𝙨𝙮 𝘿.
+    bio: >-
+      ⚖️ law 🏋🏻 fitness 👊🏼 owner of MALU sportsclub @malu.wien 🇦🇹 Vienna
     location: "Austria"
-    followers: 10430
-    engagement: 565
-    commentsToLikes: 0.042970
-    id: ck5q29gtbewo10i11pg9ly5dh
+    followers: 5651
+    engagement: 1129
+    commentsToLikes: 0.043616
+    id: ck6tk415z3ypw0j71w4n23zzd
     verified: false
-    hashtags: "#heal, #friendship, #quecalor, #craftbeer"
-  - username: "sarinaschneider_"
-    fullname: >-
-      Sarina | 23 🎉
-    location: "Austria"
-    followers: 9676
-    engagement: 676
-    commentsToLikes: 0.039469
-    id: ck8tbqfndwpk90j78dnofdm74
-    verified: false
-    hashtags: "#kaiserschmarrn, #gymfood, #liebe, #veganfood"
+    hashtags: "#gym, #wien, #photooftheday, #physique"
 ---

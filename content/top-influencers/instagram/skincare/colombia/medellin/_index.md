@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Medellín In 2020
 description: >-
-  Find top skincare Instagram influencers in Medellín in 2020. Most popular hashtags: #skincare #colombia #quedateencasa #beauty.
+  Find top skincare Instagram influencers in Medellín in 2020. Most popular hashtags: #beauty #makeup #skincare #medellin.
 platform: Instagram
+hits: 8
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 8 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
-  - username: "axloz"
+  - username: "toasmakeup"
     fullname: >-
-      Andres López
+      Angelica Alvarado
+    bio: >-
+      Me gusta el maquillaje sin complicaciones💫 Aveces canto 🌝 #SkinCareLover ⁣PR/Business DM📩
     location: "Colombia"
-    followers: 295359
-    engagement: 358
-    commentsToLikes: 0.014560
-    id: ck5c5l7dv3on90i116368wzs8
+    followers: 32547
+    engagement: 200
+    commentsToLikes: 0.052010
+    id: ck13a557doomn0i19nzl4fozm
     verified: false
-    hashtags: "#hauslabs, #gayboy, #stayhome, #covid"
-  - username: "mariapaulamorenoc"
-    fullname: >-
-      Maria Paula Moreno Con
-    location: "Colombia"
-    followers: 23073
-    engagement: 264
-    commentsToLikes: 0.053806
-    id: ck6ufpfq7ydyb0j718ltxu87e
-    verified: false
-    hashtags: "#girlaroundtheworld, #portraitphotography, #hairfit, #cuarentena"
+    hashtags: "#makeupartist, #halloween, #halloweenmakeup, #rubores"
   - username: "chdermatologia"
     fullname: >-
-      CLAUDIA HERNÁNDEZ
+      CLAUDIA HERNÁNDEZ
+    bio: >-
+      МD.Derмaтologιѕт •Expert Injector💉•KOL🌎•Research 🔬 360 Face & Body health - anti-aging & beauty strategies 📍Medellín-Col🇨🇴 📲574-4443072-3006413849
     location: "Colombia"
-    followers: 71707
-    engagement: 163
-    commentsToLikes: 0.023860
+    followers: 86504
+    engagement: 175
+    commentsToLikes: 0.015401
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#makeup, #retinoids, #coronavirus, #coronavirusalert"
-  - username: "manumontoz"
-    fullname: >-
-      MANU MONTOYA🦋
-    location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
-    verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
+    hashtags: "#dermatology, #beauty, #medellin, #fillers"
   - username: "marianelamodel"
     fullname: >-
       Marianela💋Ramos
+    bio: >-
+      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
+    followers: 62036
+    engagement: 608
+    commentsToLikes: 0.034867
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "folliedolliebeaute"
+    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
+  - username: "caritomakeup_"
     fullname: >-
-      #FollieDollieTips 🌿
+      CARITO MAKE UP ✨💄
+    bio: >-
+      •CURSOS DE MAQUILLAJE👩🏽‍🎨 •Maquilladora profesional✨ • Maquillaje para toda ocasión 💄 •PUBLICIDAD🤳🏽📦🛍💸 •Administradora de empresas 👩🏽‍💻 #soyvogueraco
     location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
-    id: ck15qy8xd58i10i199uk0b5pn
+    followers: 20196
+    engagement: 286
+    commentsToLikes: 0.200244
+    id: ck13c60jgys9s0i19ohwx207v
     verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
-  - username: "chdermatologia"
+    hashtags: "#ad, #cutie, #latin, #makeup"
+  - username: "auraoro"
     fullname: >-
-      CLAUDIA HERNÁNDEZ
+      Aura Maria Orozco
+    bio: >-
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketvcali 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
     location: "Colombia"
-    followers: 71707
-    engagement: 163
-    commentsToLikes: 0.023860
-    id: ck0w71ryubc2d0i19xvjyd5io
+    followers: 27422
+    engagement: 196
+    commentsToLikes: 0.496485
+    id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
-    hashtags: "#makeup, #retinoids, #coronavirus, #coronavirusalert"
+    hashtags: "#rojo, #skincare, #sun, #pretty"
+  - username: "vanhardeyo"
+    fullname: >-
+      ⚡️(VÂŃ) (HÃRDÈŸ) (ŸØ✞)
+    bio: >-
+      “𝒟𝑅𝐸𝒜𝑀𝒮 & 𝒮𝒞𝐻𝐸𝑀𝐸𝒮” 🌊 ¢єσ ✨ @swaggflowslikewater тσ σя∂єя ☕️ @donhenrycafe #ᴍᴏɴᴀᴛ ᴘʀᴏᴅᴜᴄᴛs (ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ ʙɪᴏ ᴛᴏ sʜᴏᴘ) #𝕸𝖚𝖑𝖙𝖎𝖕𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑𝖎𝖙𝖞 ⛈👽🦄 ¹¹:¹¹
+    location: "Colombia"
+    followers: 32505
+    engagement: 107
+    commentsToLikes: 0.071375
+    id: ck5cb96fxez880i111ldfwqqw
+    verified: false
+    hashtags: "#bossbabe, #monatskincare, #monatofficial, #monatglobal"
+  - username: "saracalderonmakeup"
+    fullname: >-
+      Maquillaje Cartagena
+    bio: >-
+      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+    location: "Colombia"
+    followers: 6466
+    engagement: 868
+    commentsToLikes: 0.118183
+    id: ckaoydrcxh39n0i78g1yu92pf
+    verified: false
+    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
+  - username: "karomakeup13"
+    fullname: >-
+      Carolina Arias
+    bio: >-
+      📍Manizales Todos mis Tips @tipsdebellezakaro Cuenta personal @karoariasj Negocios/publicidad 📲 karoarias13@gmail.com Mi canal de Youtube⬇️
+    location: "Colombia"
+    followers: 42759
+    engagement: 152
+    commentsToLikes: 0.037562
+    id: ck0vxhyamyzcu0i193iw9yy2g
+    verified: false
+    hashtags: "#neonmakeup, #beauty, #manizales, #look"
+  - username: "nannamartinezp"
+    fullname: >-
+      Nanna Martínez
+    bio: >-
+      Freelance Fashion designer-Stylist Fashion tips, skincare @atypigal @thesecondchanceco 🌎👾🌻🐝🍒🌸🌈💚 “Progreso, no perfección” contacto@nannamartinezp.com
+    location: "Colombia"
+    followers: 32866
+    engagement: 208
+    commentsToLikes: 0.081909
+    id: ck602cvayh5bm0i14s0r0qinq
+    verified: false
+    hashtags: "#instablogger, #fashionblog, #fashionpost, #theparisguru"
   - username: "akasa.skincare"
     fullname: >-
-      María Valeria - Blogger
+      Mary Vale Guerra🌟 Akasa
+    bio: >-
+      🌟Un espacio de amor propio ✨Skin enthusiast | Consume responsablemente✌🏻 💌PR - collab akasa.skincare@gmail.com 👇🏻Código AKASASKINCARE 20% de descuento
     location: "Colombia"
-    followers: 13401
-    engagement: 421
-    commentsToLikes: 0.049763
+    followers: 25368
+    engagement: 1139
+    commentsToLikes: 1.290602
     id: ck5qad0cvfr7d0i110kzww7ch
     verified: false
-    hashtags: "#skincareproducts, #tratamientosfaciales, #skincarereview, #skincareroutine"
-  - username: "fqdermato"
-    fullname: >-
-      FAY QUIROZ CHARRIS
-    location: "Colombia"
-    followers: 60860
-    engagement: 247
-    commentsToLikes: 0.043920
-    id: ck135dci50vzv0i194y46ooiw
-    verified: false
-    hashtags: "#winningteam, #dermatologica, #womensday, #colombia"
-  - username: "fitnessbyjanice"
-    fullname: >-
-      Janice Betancourt
-    location: "Colombia"
-    followers: 89286
-    engagement: 615
-    commentsToLikes: 0.048905
-    id: ck6tvbpwelbdg0j71dzv7ptjr
-    verified: false
-    hashtags: "#swipeup, #timetorelax, #fitnesslifestyle, #celsiuslivefit"
+    hashtags: "#amorpropio, #cuidadofacial, #beautyblog, #skincareblog"
 ---

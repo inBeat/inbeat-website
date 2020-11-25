@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top beauty Instagram influencers in Bangkok in 2020. Most popular hashtags: #beauty #makeup #everythinghasbeauty #sunset.
+  Find top beauty Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #beauty #bangkok #travel.
 platform: Instagram
+hits: 14
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 14 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
-  - username: "happiipony"
+  - username: "tak__photography"
     fullname: >-
-      Chanatda (P O N Y)™🦄✨
+      This.is.Me
+    bio: >-
+      Bangkok, Thailand 🇹🇭 Do it from love not for love..🖤 All photos taken by me.. 📷Canon 📱iPhone Unfollow = Unfollow
     location: "Thailand"
-    followers: 5936
-    engagement: 1028
-    commentsToLikes: 0.006571
-    id: ck5hle7s5k26z0i11mntjg7jw
+    followers: 7477
+    engagement: 1155
+    commentsToLikes: 0.065059
+    id: ck8tbl6o7w2zo0j78izzbfynn
     verified: false
-    hashtags: "#taro1monthold, #artistrybrighteningmask, #quarentinelife, #taro2months15daysold"
-  - username: "tayastarling"
+    hashtags: "#flowers, #great, #sealovers, #life"
+  - username: "applebehappy"
     fullname: >-
-      Taya Rogers
+      A MAKEUP ARTIST
+    bio: >-
+      my name ปั้น ⭐️ @applebehappymakeup ⭐️ #applebehappysworld ⭐️ #applebehappymakeup for work pls contact LINE ID : rinpapak rinpapak@yahoo.com
     location: "Thailand"
-    followers: 363779
-    engagement: 102
-    commentsToLikes: 0.008603
-    id: ck5hl0f6rjchp0i11n589zt5h
-    verified: true
-    hashtags: "#aloyoga, #plantforward, #earthmonth, #orderin"
-  - username: "ninapraewpetch"
-    fullname: >-
-      NinaBeautyWorld
-    location: "Thailand"
-    followers: 118986
-    engagement: 276
-    commentsToLikes: 0.009187
-    id: ckap3161y16ic0i78hc21aot6
+    followers: 49295
+    engagement: 104
+    commentsToLikes: 0.029623
+    id: ck6u3m9f9ylgh0j7183wg5naa
     verified: false
-    hashtags: "#2weeksold, #12daysold, #10daysold, #1weekold"
+    hashtags: "#covid19, #thaimakeupartist, #makeupstyle, #fashionmakeup"
+  - username: "adriikuhn"
+    fullname: >-
+      Adriana Kuhn
+    bio: >-
+      Gaúcha, 24. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾 📍- Bangkok, Thailand
+    location: "Thailand"
+    followers: 6308
+    engagement: 697
+    commentsToLikes: 0.120219
+    id: ckf5riz4ecu4x0j23rpeeyhem
+    verified: false
+    hashtags: "#underwear, #jakarta, #eventos, #style"
+  - username: "risapong"
+    fullname: >-
+      Risa Pongpruksatol (Phun)⭐️
+    bio: >-
+      Colourful Outside yet Simple on the Inside⭐️ London College of Fashion, UAL 2015🎓 London School of Beauty & Makeup 2016💄 NIS class of 2011📝
+    location: "Thailand"
+    followers: 16470
+    engagement: 355
+    commentsToLikes: 0.031770
+    id: ck8sy6kgijvvb0j787w9q32i5
+    verified: false
+    hashtags: "#tiktokthailand, #tiktok, #tiktokdance, #mut2020"
+  - username: "byronbishop"
+    fullname: >-
+      Byron Bishop
+    bio: >-
+      Actor/Model Based in Bangkok Thailand For work email at Bkkbishop@gmail.com
+    location: "Thailand"
+    followers: 16015
+    engagement: 377
+    commentsToLikes: 0.011424
+    id: ck6tkm1n14yzl0j719e370uo2
+    verified: false
+    hashtags: "#anelitehaven, #elitehavens, #theonlywayisthrough, #projectrock"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
+    bio: >-
+      🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 57571
-    engagement: 132
-    commentsToLikes: 0.024821
+    followers: 56839
+    engagement: 143
+    commentsToLikes: 0.025051
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#mayabell, #instapic, #skincare, #like"
+    hashtags: "#travel, #photooftheday, #pics, #photography"
   - username: "beauty.naeun"
     fullname: >-
       🐰 Naeun | แพท | kbeauty lover
+    bio: >-
+      ♡ My skincare journey (ไทย, English, 한국어) ♡ 1983 | Dry-dehydrated & sensitive skin ♡ Let's age beautifully together~ 📍 Bangkok, Thailand
     location: "Thailand"
-    followers: 2342
-    engagement: 1070
-    commentsToLikes: 0.163704
+    followers: 2228
+    engagement: 1072
+    commentsToLikes: 0.151664
     id: ck5zzz3dtcnry0i1497svp4is
     verified: false
-    hashtags: "#skincarekorea, #skincareroutine, #giveaway, #kbeautygiveaway"
-  - username: "benedict_studio"
-    fullname: >-
-      Benedict Studio by Thananon
-    location: "Thailand"
-    followers: 56992
-    engagement: 288
-    commentsToLikes: 0.021767
-    id: ck6tpqauylrj70j71gl9czbuz
-    verified: false
-    hashtags: "#ploychermarn, #maidavikah, #weddingphotography, #everythinghasbeauty"
+    hashtags: "#skincarereview, #kbeautylover, #kbeautybloggers, #skincarereviews"
   - username: "jack_l2y"
     fullname: >-
       Jack Kitti Suwanchoti
+    bio: >-
+      Photographer | Filmmaker | Editor For work : Direct Message Bangkok,Thailand 🇹🇭
     location: "Thailand"
-    followers: 79203
-    engagement: 317
-    commentsToLikes: 0.012485
+    followers: 88140
+    engagement: 190
+    commentsToLikes: 0.011943
     id: ck136ktme6zwe0i19aai35f0g
     verified: false
-    hashtags: "#butterfly, #canon100mmmacro, #40mmlens, #camerabag"
+    hashtags: "#foodlover, #canoneos, #shotoniphone, #foodblogger"
   - username: "sononui"
     fullname: >-
       Keira Phitchakorn Balla
+    bio: >-
+      Beauty Within Line: @Sononui 🇮🇹AFS Italy
     location: "Thailand"
     followers: 243622
     engagement: 110
     commentsToLikes: 0.010299
     id: ck55n1jau5a640i11p9mrkhuj
     verified: false
-    hashtags: "#pubgmobileoutfits, #crystalizedflowers, #vivov19, #myfavorite"
-  - username: "siravariety"
+    hashtags: "#tcm, #sono, #beauty, #quarantinelife"
+  - username: "nettytitiya"
     fullname: >-
-      Sira MaNdonna 💖ไจ๋ ซีร่า💖
+      Netty Beauty Life
+    bio: >-
+      36| Love Simple beauty & Life 🎓B.Pharm M.Pharm (Clinical) Aging 😝 & Acne Prone Skin FB: Netty Beauty Life ✉️titiyav@gmail.com
     location: "Thailand"
-    followers: 113116
-    engagement: 304
-    commentsToLikes: 0.014488
-    id: ck6tkleuu4xpx0j71i5y8vyci
+    followers: 28747
+    engagement: 224
+    commentsToLikes: 0.046358
+    id: ck5pxdh3lr9ed0i1150vnu7cy
     verified: false
-    hashtags: "#cosplay, #tiktokkorea, #starwars, #chewbacca"
-  - username: "maew_makeup"
-    fullname: >-
-      MAEW Tasanapong (พี่แมว)
-    location: "Thailand"
-    followers: 131220
-    engagement: 89
-    commentsToLikes: 0.010924
-    id: ck6u0ptbch3900j71jo0zuhev
-    verified: false
-    hashtags: "#thaibeauty, #suqquthailand, #magnum, #lorealthailand"
+    hashtags: "#cleanser, #nettyxvichy, #nettyxfyne, #chiangmaicafe"
 ---

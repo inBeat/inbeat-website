@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In New York In 2020
 description: >-
-  Find top athletes Instagram influencers in New York in 2020. Most popular hashtags: #athlete #travel #stayhome #dancevideo.
+  Find top athletes Instagram influencers in New York in 2020. Most popular hashtags: #athlete #newyork #halloween.
 platform: Instagram
+hits: 133
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 133 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "justinpaulmusic"
     fullname: >-
       Justin Paul
+    bio: >-
+      Husband. Dad. Songwriter. Musician. Believer. Non-athlete. New Yorker. Serving you cheesy family pics with a smattering of music/theatre/film content.
     location: "United States"
-    followers: 31101
-    engagement: 471
-    commentsToLikes: 0.016732
+    followers: 31381
+    engagement: 509
+    commentsToLikes: 0.022694
     id: ck6ucgf3nfgap0j7127nrsozv
     verified: true
-    hashtags: "#nofilter, #justiceforahmaud, #happyvalentinesday, #newengland"
+    hashtags: "#smallpaul, #starrpix, #blacklivesmatter, #ijustwannalive"
   - username: "heldilox"
     fullname: >-
       Ryan Held
+    bio: >-
+      Olympic Gold Medalist @arenausa athlete @newyorkac athlete @championsmojo athlete @chicagobulls NCSU alum Bama Environmentalist Eagle scout 217
     location: "United States"
-    followers: 19282
-    engagement: 958
-    commentsToLikes: 0.006052
+    followers: 19028
+    engagement: 900
+    commentsToLikes: 0.006205
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
-    hashtags: "#more, #staywavy, #tyrproseries, #wearenc"
-  - username: "sisimorris"
+    hashtags: "#austintexas, #more, #tyrproseries, #wearenc"
+  - username: "makennastott"
     fullname: >-
-      Sienna Morris
+      Makenna Stott
+    bio: >-
+      ⚽️ 10 Years Old Soccer Player ⚽️ 2010 @cloviscrossfire ⚽️ Account Monitored @happydaughterhappylife
     location: "United States"
-    followers: 23939
-    engagement: 867
-    commentsToLikes: 0.019567
-    id: ck15uik43nciu0i199xda2ewa
+    followers: 15125
+    engagement: 647
+    commentsToLikes: 0.013146
+    id: ck0w5qbyj4wqr0i19onwn3u8y
     verified: false
-    hashtags: "#joggers, #lifestory, #youtubevideo, #stretch"
-  - username: "juliaamorris"
+    hashtags: "#sports, #soccerlove, #soccerdad, #nikesoccer"
+  - username: "nflxnbapolls"
     fullname: >-
-      Julia Morris
+      Nflxnbapolls
+    bio: >-
+      • NFL and NBA polls • Follow Personal: @jjasminejl • Email: nflxnbapoll@gmail.com Join Discord Below ⏬
     location: "United States"
-    followers: 17365
-    engagement: 358
-    commentsToLikes: 0.020327
-    id: ck5c4fgrc18qg0i11xuh87vvn
+    followers: 21002
+    engagement: 2864
+    commentsToLikes: 0.039675
+    id: ckaoxq3a5ebcx0i78gx1rl63d
     verified: false
-    hashtags: "#valentines, #newyorkpost, #nico, #view"
-  - username: "1swiftmotion"
+    hashtags: ""
+  - username: "betz._____"
     fullname: >-
-      Manny Chacón 🇵🇷🇬🇹
+      Betz
+    bio: >-
+      • Professional Dancer • Personal trainer & Fitness Coach • Athlete
     location: "United States"
-    followers: 6567
-    engagement: 517
-    commentsToLikes: 0.075042
-    id: ck14j455jijji0i191oyklooj
+    followers: 6188
+    engagement: 534
+    commentsToLikes: 0.109250
+    id: ckap26g7uxktj0i78yyrog6z2
     verified: false
-    hashtags: "#faith, #jbalvin, #myketowers, #lsu"
-  - username: "hancockphoto"
+    hashtags: "#florida, #goodvibes, #photo, #dance"
+  - username: "bomchicka_wawa"
     fullname: >-
-      Andrew Hancock
+      Allison Schieler
+    bio: >-
+      NYC-based contortionist, dancer, aerialist. Available for performances and private/group training. ✨ DM for virtual contortion class schedule. ✨
     location: "United States"
-    followers: 9996
-    engagement: 323
-    commentsToLikes: 0.033275
-    id: ck8sydqobkiyn0j78ioa2ek8j
+    followers: 26341
+    engagement: 508
+    commentsToLikes: 0.017177
+    id: ck13b0p7lt47g0i19na8mhkls
     verified: false
-    hashtags: "#stayhome, #fields, #tattoo, #cuba"
-  - username: "bugboy.pk"
+    hashtags: "#balance, #fitfam, #circus, #circuseverydamnday"
+  - username: "studio9nyc"
     fullname: >-
-      Bug 🐛🐜
+      Studio9NYC
+    bio: >-
+      NYC photographer & filmmaker, fitness trainer, classical singer. Male portraits here. More @AJStetson www.MaskedNYC.com
     location: "United States"
-    followers: 7228
-    engagement: 1231
-    commentsToLikes: 0.026834
-    id: ck0uba8sbe7hx0i19n4fph76e
+    followers: 15762
+    engagement: 184
+    commentsToLikes: 0.024595
+    id: ck8t689pccmpj0j78ojh1s19f
     verified: false
-    hashtags: "#newyork, #espn, #athlete, #motivation"
-  - username: "juju__fit"
+    hashtags: "#malemodel, #voteblue, #hotguys, #shirtless"
+  - username: "hnynut_berrios"
     fullname: >-
-      Jules ♛ CPT
+      Braxton Berrios
+    bio: >-
+      Be Like the Duck University of Miami | New York Jets Adidas Athlete
     location: "United States"
-    followers: 9310
-    engagement: 921
-    commentsToLikes: 0.046097
-    id: ck8t34gr51tjq0j78b41xw99u
-    verified: false
-    hashtags: "#yoga, #handstandpushup, #giveback, #backyardworkout"
-  - username: "matttralli5"
-    fullname: >-
-      Matt Tralli
-    location: "United States"
-    followers: 26983
-    engagement: 788
-    commentsToLikes: 0.026326
-    id: ck55ofu1w89re0i11l91u94y4
-    verified: false
-    hashtags: "#chestworkout, #fullbody, #backworkouts, #legdaychallenge"
+    followers: 69796
+    engagement: 1264
+    commentsToLikes: 0.016323
+    id: ck8sxxt2tj2620j7896q9ho1q
+    verified: true
+    hashtags: "#blackouttuesday"
   - username: "ahicks31"
     fullname: >-
       Aaron Hicks
+    bio: >-
+      AZ-NY Centerfielder for the New York Yankees Jordan Athlete
     location: "United States"
-    followers: 183566
-    engagement: 677
-    commentsToLikes: 0.014407
+    followers: 193831
+    engagement: 433
+    commentsToLikes: 0.016968
     id: ck6towjw2gi8l0j71mjqzoodh
     verified: true
-    hashtags: "#londonseries, #42, #ripsmoke, #happynewyear"
+    hashtags: "#happynewyear, #thereturn, #100anniversary, #lfg"
+  - username: "throwrw"
+    fullname: >-
+      Rudy Winkler
+    bio: >-
+      NYAC @newyorkac 2016 Olympic Athlete
+    location: "United States"
+    followers: 2644
+    engagement: 2127
+    commentsToLikes: 0.030636
+    id: ck138s7jkhrks0i19d9awh5hl
+    verified: true
+    hashtags: "#hammerthrow, #usatf, #tokyo2020, #iaafdoha2019"
 ---

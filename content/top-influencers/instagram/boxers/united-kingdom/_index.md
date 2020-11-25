@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top boxers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #boxing #staypositive #march20th #winning.
+  Find top boxers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #boxing #workout #training.
 platform: Instagram
+hits: 120
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 120 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "davidadeleye1"
-    fullname: >-
-      David Adeleye
-    location: "United Kingdom"
-    followers: 9793
-    engagement: 1560
-    commentsToLikes: 0.065926
-    id: ck5hirvpqf1zt0i11al25u1u4
-    verified: false
-    hashtags: "#wilderfury, #throwback"
   - username: "dan_azeez"
     fullname: >-
-      Dan Azeez
+      𝗗𝗔𝗡 𝗔𝗭𝗘𝗘𝗭
+    bio: >-
+      Professional Light-Heavyweight Boxer🥊12-0 Southern Area Champion English Champion 🏆 📩 Enquiries info@connectforce.co.uk | Sponsored by @romaxssltd
     location: "United Kingdom"
-    followers: 8681
-    engagement: 1275
-    commentsToLikes: 0.061225
+    followers: 9206
+    engagement: 1181
+    commentsToLikes: 0.066971
     id: ck5byoo3npjph0i11wnro9oxy
     verified: false
-    hashtags: "#instalife, #azeez, #tbt, #super"
-  - username: "paulsmithjnr"
-    fullname: >-
-      Paul Smith
-    location: "United Kingdom"
-    followers: 70126
-    engagement: 179
-    commentsToLikes: 0.048020
-    id: ck5ckjlfmx0fw0i11j0cv7w5t
-    verified: true
-    hashtags: "#blueballchallenge, #jft96, #albagracesmith, #teamsmithbros"
+    hashtags: "#march20th, #andstill, #staysafe, #war"
   - username: "jordz_flynn"
     fullname: >-
       Jordan Flynn
+    bio: >-
+      Professional Boxer 3x National Champion Snapchat - jordz_flynn
     location: "United Kingdom"
-    followers: 13330
-    engagement: 1218
-    commentsToLikes: 0.022779
+    followers: 16448
+    engagement: 1223
+    commentsToLikes: 0.026456
     id: ck5cl43tcy7jo0i11tldzbazd
     verified: false
-    hashtags: "#8days, #lockdown, #quarantine, #boxing"
-  - username: "tcheeseman1995"
-    fullname: >-
-      Ted Cheeseman
-    location: "United Kingdom"
-    followers: 18683
-    engagement: 398
-    commentsToLikes: 0.052763
-    id: ck0u0rgdqupz00i19lxqa4rv2
-    verified: true
-    hashtags: "#andstill, #thebigcheese, #bigcheese, #winning"
-  - username: "tymitchellofficial"
-    fullname: >-
-      Ty “Akhtive” Mitchell
-    location: "United Kingdom"
-    followers: 27952
-    engagement: 380
-    commentsToLikes: 0.035698
-    id: ck5q03z4u44oi0i11wdu3v0nx
-    verified: false
-    hashtags: "#blooda"
+    hashtags: "#2days, #team, #boxing, #blackouttuesday"
   - username: "harrykingkhan"
     fullname: >-
       Harry
+    bio: >-
+      2010 Commonwealth Games boxing Bronze Medalist. Professional boxer 7-0 Twitter - @harrykingkhan Snapchat - harrykingkhan
     location: "United Kingdom"
-    followers: 56343
-    engagement: 493
-    commentsToLikes: 0.017254
+    followers: 59821
+    engagement: 716
+    commentsToLikes: 0.015800
     id: ck5qbs11in4q60i11dmjcvggn
     verified: false
-    hashtags: "#goodtimes, #29, #khanvargas, #eid2020"
-  - username: "jkboxing"
+    hashtags: "#2020, #eid2020, #alhamdulillah, #01"
+  - username: "tymitchellofficial"
     fullname: >-
-      Jonathan Kumuteo
+      Ty “Akhtive” Mitchell
+    bio: >-
+      Super middle weight boxer | Muslim | Father | Boxer | Managed by @catalyst.management
     location: "United Kingdom"
-    followers: 64812
-    engagement: 1699
-    commentsToLikes: 0.002529
-    id: ck5hjg9o1gknt0i11cfxotf4z
+    followers: 28570
+    engagement: 635
+    commentsToLikes: 0.034972
+    id: ck5q03z4u44oi0i11wdu3v0nx
     verified: false
-    hashtags: "#10000hours, #survivalofthefittest, #norisknostory, #undisputedfuture"
+    hashtags: "#minime, #fatherson, #strongbond"
+  - username: "r_riakporhe"
+    fullname: >-
+      Richard Riakporhe
+    bio: >-
+      Professional boxer @adidas Athlete Cruiserweight British & WBA Int Champion info@riakporhe.com
+    location: "United Kingdom"
+    followers: 25985
+    engagement: 492
+    commentsToLikes: 0.044941
+    id: ck14ldz11u75q0i19rwcm2tgg
+    verified: true
+    hashtags: "#adidas, #readyforsport, #riakporhe, #boxing"
   - username: "shannon_courtenay"
     fullname: >-
       Shannon Courtenay
+    bio: >-
+      #TheBabyFaceAssassin 🥊 Pro boxer: @matchroomboxing 👉 Management: @allstarentuk 📩 Contact: megan@allstarlondon.com 💎 @time4diamonds
     location: "United Kingdom"
-    followers: 53382
-    engagement: 634
-    commentsToLikes: 0.031718
+    followers: 63887
+    engagement: 629
+    commentsToLikes: 0.027693
     id: ck0twivg6fl160i191161v6dg
     verified: true
-    hashtags: "#workout, #focused, #game, #competition"
-  - username: "chrisevangelou"
+    hashtags: "#photography, #thebabyfaceassassin, #gym, #work"
+  - username: "shanryanxx"
     fullname: >-
-      Chris Evangelou
+      Shannon Ryan
+    bio: >-
+      •Boxer🥊 -2018 Alliance Champion 🥇 -2019 Womens Box Cup Champion 🥇 -2020 London Championship 🥈 𝙴𝚟𝚎𝚛𝚢 𝚝𝚑𝚒𝚗𝚐 𝚑𝚊𝚙𝚙𝚎𝚗𝚜 𝚏𝚘𝚛 𝚊 𝚛𝚎𝚊𝚜𝚘𝚗 UK | 23
     location: "United Kingdom"
-    followers: 17905
-    engagement: 301
-    commentsToLikes: 0.055564
-    id: ck6u33woivjwy0j71j34nwwx4
+    followers: 6902
+    engagement: 831
+    commentsToLikes: 0.032308
+    id: ck6u31l8fv5ne0j7133yt7td4
     verified: false
-    hashtags: "#hollywood, #premiere, #lawofattraction, #happy"
+    hashtags: "#fighter, #dreams, #motivated, #boxer"
+  - username: "_john_ryder_"
+    fullname: >-
+      John Ryder 🦍
+    bio: >-
+      Professional Boxer Super Middleweight “The People’s Champion” 📧 Charlie@thehugeproject.com @hugeproject
+    location: "United Kingdom"
+    followers: 13637
+    engagement: 515
+    commentsToLikes: 0.041206
+    id: ck13b64rotv3s0i197p2odk31
+    verified: true
+    hashtags: "#chasingthecrown, #iwontbedenied, #thegorilla, #teamryder"
+  - username: "jackbateson94"
+    fullname: >-
+      Jack Bateson
+    bio: >-
+      📍Leeds, UK ◾️Professional Boxer ◾️12W 0L ◾️Managed by @mtkglobal ◾️Former Team GB Amateur
+    location: "United Kingdom"
+    followers: 15471
+    engagement: 367
+    commentsToLikes: 0.045497
+    id: ck6u33hgyvhac0j71xjg4mrcc
+    verified: false
+    hashtags: "#heseldenpropertiesltd, #hbtunnellingltd, #quantbetltd, #barwickroofing"
+  - username: "boxerstef"
+    fullname: >-
+      Stephen ‘Stefano’ Adentan
+    bio: >-
+      Professional Boxer - 📝 @frank_warren_official Commercial enquiries - adams@unsignedgrp.com #PennyBois #ActionPax 🇬🇧🇬🇧
+    location: "United Kingdom"
+    followers: 6946
+    engagement: 602
+    commentsToLikes: 0.049126
+    id: ck6u49x7y2ja10j71gotvkpb2
+    verified: false
+    hashtags: "#actionpax, #pennybois, #shotgun, #boxeo"
 ---

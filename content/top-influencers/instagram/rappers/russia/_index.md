@@ -1,72 +1,77 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Russia In 2020
 description: >-
-  Find top rappers Instagram influencers in Russia in 2020. Most popular hashtags: #stayhome #rapper #music #moscow.
+  Find top rappers Instagram influencers in Russia in 2020. Most popular hashtags: #rap #music #instagroove.
 platform: Instagram
+hits: 17
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 17 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "lina_markova_"
     fullname: >-
       Мона Лина
+    bio: >-
+      Model | Rapper 📩 markovabooking@gmail.com MA: @claudiamodelmgt 🇮🇹 ✖️MUSIC LINK✖️
     location: "Russia"
-    followers: 41649
-    engagement: 146
-    commentsToLikes: 0.059191
+    followers: 41624
+    engagement: 224
+    commentsToLikes: 0.068380
     id: ck6tipem215zc0j71i6glmkee
     verified: false
-    hashtags: "#familyfirst, #friendsforever, #tommyhilfiger"
+    hashtags: ""
   - username: "mosya1"
     fullname: >-
       Mosя
+    bio: >-
+      Rapper,Artist,club-MC Организация Выступлений: Павел +7926-722-22-23 ST-Один На Один(Mosя remix) 👇🏼👇🏼👇🏼
     location: "Russia"
-    followers: 4958
-    engagement: 727
-    commentsToLikes: 0.079128
+    followers: 4837
+    engagement: 844
+    commentsToLikes: 0.123652
     id: ck5pylqvnwmro0i11z2nw010s
     verified: false
-    hashtags: "#stayhome, #fliptheswitch, #fliptheswitchchallenge, #pulpfiction"
+    hashtags: "#taxi, #stayhome, #fliptheswitch, #fliptheswitchchallenge"
+  - username: "angelpeachu"
+    fullname: >-
+      KPOP | KOREAN | BEAUTY
+    bio: >-
+      @mashirotsuki Hi, I'm NiNi Cover dancer and rapper Москва 💗
+    location: "Russia"
+    followers: 10667
+    engagement: 535
+    commentsToLikes: 0.035152
+    id: ck8tah7tfrqlz0j78dwtwnm9l
+    verified: false
+    hashtags: ""
+  - username: "black_snow_official"
+    fullname: >-
+      NOIRMALEMENT ♣️🤘🏿♣️
+    bio: >-
+      Black Stories Hype man Rapper Crypto-engr 📚 Entrepreneur Mr Black 🇨🇲🇷🇺 @afrikaplus soon 15.08 my birthday
+    location: "Russia"
+    followers: 13283
+    engagement: 277
+    commentsToLikes: 0.092146
+    id: ck8sxphc9i6t70j78210glrg0
+    verified: false
+    hashtags: "#noirmalement, #yessir, #shazam, #googlemusic"
   - username: "shil__off"
     fullname: >-
       𝓓𝓶𝓲𝓽𝓻𝓲𝔂 𝓢𝓱𝓲𝓵𝓸𝓿
+    bio: >-
+      СМОТРИ СТОРИСЫ🤪 I`m not rapper 🦄 TT 800к+ 📩shiloff@ea-teamagency.com
     location: "Russia"
-    followers: 206188
-    engagement: 289
+    followers: 269593
+    engagement: 221
     commentsToLikes: 0.120130
     id: ck5zw7tt75n4i0i14xn7h2dwq
     verified: false
     hashtags: ""
-  - username: "og_yushin"
-    fullname: >-
-      FREDDY RED
-    location: "Russia"
-    followers: 10388
-    engagement: 1729
-    commentsToLikes: 0.020814
-    id: ckap7a8xvj7eq0i787gpdhzt9
-    verified: false
-    hashtags: "#nemiga, #music, #hiphop, #newyork"
-  - username: "yaesmsam"
-    fullname: >-
-      ясэм
-    location: "Russia"
-    followers: 30463
-    engagement: 886
-    commentsToLikes: 0.013998
-    id: ck6tujvccgr770j71m5khzjgo
-    verified: false
-    hashtags: "#small, #mothersday, #malcolmx, #thelastdance"
-  - username: "soprano_man"
-    fullname: >-
-      Sopranoman
-    location: "Russia"
-    followers: 63616
-    engagement: 160
-    commentsToLikes: 0.022967
-    id: ck5hr1dpbu3fv0i11kmwvhy64
-    verified: false
-    hashtags: "#savage, #kickchallenge, #fights, #humor"
   - username: "dinomc47"
     fullname: >-
       Dino MC47
+    bio: >-
+      🖤 Father 🎤 Rapper 🔞 Party Maker ♠️ Player
     location: "Russia"
     followers: 97153
     engagement: 95
@@ -74,34 +79,52 @@ profiles:
     id: ck5q49p0qoank0i11qo0rcfus
     verified: false
     hashtags: "#covid19, #5g, #covid"
-  - username: "diana_kuksa"
+  - username: "rappersyava"
     fullname: >-
-      diana kuksa
+      СЯВА
+    bio: >-
+      По всем вопросам: WhatsApp +79250 399 355 Сергей
     location: "Russia"
-    followers: 45426
-    engagement: 170
-    commentsToLikes: 0.029983
-    id: ckap81bf6me910i78w1o2j6qf
-    verified: false
-    hashtags: "#fastsketch, #music, #paperdolls, #childrensbook"
-  - username: "julia.sekerzitski"
+    followers: 638581
+    engagement: 319
+    commentsToLikes: 0.019077
+    id: ck6tpd7mij7370j7129nomp7e
+    verified: true
+    hashtags: "#live, #show"
+  - username: "dima_dek_official"
     fullname: >-
-      Julia Sekerzitski
+      Dima Dek
+    bio: >-
+      Музыкант🎤🎼🎼🎼#RASTAMAFIA Пишу песни маленькому дредлоку @vlad_pashkov007 🔥🔥🔥 Новый EP «На Фитах» доступен на ITunes 🔥. Ссылка снизу 👇
     location: "Russia"
-    followers: 23683
-    engagement: 337
-    commentsToLikes: 0.048311
-    id: ck0w43rquwnqk0i19yntgv9ag
+    followers: 11207
+    engagement: 928
+    commentsToLikes: 0.008614
+    id: ck15tqec4jdt30i19ge42nesb
     verified: false
-    hashtags: "#music, #instagram, #amazing, #oneloveonelove"
-  - username: "suptelya_roman"
+    hashtags: "#beatmaker, #music, #atlanta, #hiphopproducer"
+  - username: "sashka_stone"
     fullname: >-
-      ROMAN SUPTELYA
+      Aleksandr Zarubin
+    bio: >-
+      MMA FIGHTER🥊 Blogger🎥 4-x Russia Champion🥇 4-x World Champion🏆 Реклама +7 906 019-20-91
     location: "Russia"
-    followers: 13705
-    engagement: 863
-    commentsToLikes: 0.020734
-    id: ck5hgn9j63pj70i11camyrvbc
+    followers: 2125818
+    engagement: 499
+    commentsToLikes: 0.037584
+    id: ck5c1b5tiutjz0i115h345mb5
     verified: false
-    hashtags: "#happybirthday, #blackstar, #fotosession, #good"
+    hashtags: "#marvel, #video, #rap, #vine"
+  - username: "an.drums"
+    fullname: >-
+      Anastasia Sereda 🥁
+    bio: >-
+      Hebi🐍 ▪️Drummer ▪️Artist @paistecymbals @blastbeat_drum_shop Ex.drummer of «O.Torvald» band
+    location: "Russia"
+    followers: 42854
+    engagement: 1350
+    commentsToLikes: 0.022441
+    id: ck5hly068l2890i11rqcy69n4
+    verified: false
+    hashtags: "#drumgirl, #paiste, #girlpower, #musician"
 ---

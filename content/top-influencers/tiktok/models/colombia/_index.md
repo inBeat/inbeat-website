@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Colombia In 2020
 description: >-
-  Find top models TikTok influencers in Colombia in 2020. Most popular hashtags: #model #mexico #comedia #makeup.
+  Find top models TikTok influencers in Colombia in 2020. Most popular hashtags: #fyp #parati #model #viral.
 platform: TikTok
+hits: 37
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 37 TikTok influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "gregoriosmith"
+    fullname: >-
+      Gregorio smith
+    bio: >-
+      Actor-Model Asesoría para el cabello rizado escríbeme a Instagram👩🏽‍🦱🧑🏼‍🦱
+    location: "Colombia"
+    followers: 968200
+    engagement: 1092
+    commentsToLikes: 0.032759
+    id: ckaifut4jylf00i78710k7vf6
+    verified: false
+    hashtags: "#viral, #gregoriosmith, #curly, #fyp"
+  - username: "jekill"
+    fullname: >-
+      Jek Ill
+    bio: >-
+      ♎👽♎👽♎👽♎ ✌️Ig: @jekill.model
+    location: "Colombia"
+    followers: 51400
+    engagement: 1323
+    commentsToLikes: 0.011997
+    id: ckbezs2t6l2l10j23rqhng11p
+    verified: false
+    hashtags: "#yoenlafiesta, #tiktok, #confirmen, #colombia"
+  - username: "camilo.gamba"
+    fullname: >-
+      camilo.gamba
+    bio: >-
+      Model-publicist Instagram: @camilo.gamba 📍Bogota-Colombia 🇨🇴
+    location: "Colombia"
+    followers: 1000000
+    engagement: 1312
+    commentsToLikes: 0.010164
+    id: ck9eockzynkiv0j78aq92nr2q
+    verified: false
+    hashtags: "#greenscreen, #police, #loserschallenge, #duo"
   - username: "laurasanchezh_"
     fullname: >-
       Laura Sanchez
+    bio: >-
+      Bienvenidos 🙇🏽‍♀️ 🇨🇴 MODEL & CONTENT CREATOR Instagram: @laurasanchezh_ 📸
     location: "Colombia"
-    followers: 409113
-    engagement: 662
-    commentsToLikes: 0.006818
+    followers: 713400
+    engagement: 824
+    commentsToLikes: 0.005040
     id: cka6jnp9mvj750i78m64qy2hr
-    verified: false
-    hashtags: "#cuidateconveet, #xyzbca, #gaminghits, #colombia"
-  - username: "sthefanygutierrez.1"
+    verified: true
+    hashtags: "#viral, #fyp, #xzybca, #foryou"
+  - username: "yosiaroha"
     fullname: >-
-      sthefany gutierrez
+      Yosi⭐🔯
+    bio: >-
+      Aquí una Aroha compartiendo el Amor por las estrellas que iluminan su mundo.⭐✡💜
     location: "Colombia"
-    followers: 6497
-    engagement: 1577
-    commentsToLikes: 0.026912
-    id: ckan6dnijjdep0i783jwd12k6
+    followers: 22700
+    engagement: 2674
+    commentsToLikes: 0.017412
+    id: cka7p2csp5kgr0i78oblau3pl
     verified: false
-    hashtags: "#bussal, #motivation, #misvenezuela, #tiktokviral"
+    hashtags: "#cleantopia, #leedongmin, #handsome, #sanhaastro"
+  - username: "alexporu"
+    fullname: >-
+      alexander polo rua
+    bio: >-
+      😍sigan mi❤INSTAGRAM❤: @porualex LOS QUIERO.🙈😍 🇨🇴COLOMBIA🇨🇴
+    location: "Colombia"
+    followers: 319400
+    engagement: 1571
+    commentsToLikes: 0.020807
+    id: ckbl2fgi0zmbm0j236ao5hy6l
+    verified: false
+    hashtags: ""
+  - username: "tatan0810"
+    fullname: >-
+      Jonathan Lozano Ruvi
+    bio: >-
+      SIGUEME EN INSTAGRAM ⬆️⬆️@tatan0810⬆️⬆️
+    location: "Colombia"
+    followers: 39300
+    engagement: 1141
+    commentsToLikes: 0.047844
+    id: ckb9loy3eealr0j23nvunkb1p
+    verified: false
+    hashtags: "#transformacion, #uninstante, #men, #tuneldeltiempo"
+  - username: "luuisrocha"
+    fullname: >-
+      🧿Luuis Rocha 🧿
+    bio: >-
+      Modelo🚶🏾‍♂️ ❤️ Bienvenidos a mi caja de juguetes 🧸
+    location: "Colombia"
+    followers: 55200
+    engagement: 1125
+    commentsToLikes: 0.010119
+    id: ckav6ec7id5wk0j23r7za5iu5
+    verified: false
+    hashtags: "#modelo, #modeling, #model, #colombia"
   - username: "el_chamo_"
     fullname: >-
       Carlos R. Gutiérrez
+    bio: >-
+      😊Sígueme en mi nueva cuenta😊 👑mises_magicworld👑 ❤🔥❤
     location: "Colombia"
-    followers: 8027
-    engagement: 923
-    commentsToLikes: 0.058940
+    followers: 7712
+    engagement: 740
+    commentsToLikes: 0.046176
     id: ck9v57vxhx72o0j78k8kmvr3y
     verified: false
-    hashtags: "#fypage, #elchavo, #glowup, #regia"
-  - username: "gregoriosmithmedina"
+    hashtags: "#trend, #missuniverse, #viral, #parati"
+  - username: "glamour_ante_el_universo"
     fullname: >-
-      Gregorio smith
+      Carlos Gutiérrez
+    bio: >-
+      
     location: "Colombia"
-    followers: 32619
-    engagement: 1130
-    commentsToLikes: 0.058960
-    id: ckaifut4jylf00i78710k7vf6
+    followers: 48400
+    engagement: 919
+    commentsToLikes: 0.016822
+    id: ckcdu2wloea440j2303jmwjqg
     verified: false
-    hashtags: "#galeria, #paisesdelmundo, #photo, #latino"
-  - username: "joseluisuribeochoa"
-    fullname: >-
-      JOSÉ LUÍS URIBE
-    location: "Colombia"
-    followers: 25765
-    engagement: 958
-    commentsToLikes: 0.071760
-    id: cka9o80nk5hrg0i78kfdnvh5b
-    verified: false
-    hashtags: "#tiktokindia, #mascarilla, #champibeats, #sopresa"
-  - username: "alber_th_"
-    fullname: >-
-      Alberth C
-    location: "Colombia"
-    followers: 2091
-    engagement: 577
-    commentsToLikes: 0.046524
-    id: ckai19s5qawxq0i78lf8xredw
-    verified: false
-    hashtags: "#ladea, #mujeres, #divorcio, #fama"
-  - username: "herreramzzl"
-    fullname: >-
-      Juan Herrera ⚡️
-    location: "Colombia"
-    followers: 31693
-    engagement: 1176
-    commentsToLikes: 0.009931
-    id: ck9eocjejnk5i0j78p9yt7j3t
-    verified: false
-    hashtags: "#corona, #oficial, #chiste, #girlfriend"
-  - username: "annylopezjimenez"
-    fullname: >-
-      Anny Lopez Jimenez
-    location: "Colombia"
-    followers: 6963
-    engagement: 952
-    commentsToLikes: 0.015744
-    id: ck92z7toi5zft0j78ez45v5yu
-    verified: false
-    hashtags: "#inteligencia, #rebelde, #comedia, #breakfast"
-  - username: "tutyzulu"
-    fullname: >-
-      Angelique 
-    location: "Colombia"
-    followers: 203282
-    engagement: 2162
-    commentsToLikes: 0.013381
-    id: ck9enuc3rkv060j78jav5bbf7
-    verified: false
-    hashtags: "#piano, #savage, #slowmo, #rompecaderas"
-  - username: "oriansuarezactor"
-    fullname: >-
-      oriansuarez
-    location: "Colombia"
-    followers: 54729
-    engagement: 1071
-    commentsToLikes: 0.057526
-    id: cka0rvoh3iq7v0i781ldufl6y
-    verified: false
-    hashtags: "#humor, #twerk, #greenscreen, #azulchallenge"
+    hashtags: ""
 ---

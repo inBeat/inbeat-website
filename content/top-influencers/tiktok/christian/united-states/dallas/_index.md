@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Dallas In 2020
 description: >-
-  Find top christian TikTok influencers in Dallas in 2020. Most popular hashtags: #dallas #musicmatters #itsaremix #christian.
+  Find top christian TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #christian #greenscreen #duet.
 platform: TikTok
+hits: 27
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat has 27 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "sampeterslpc"
+  - username: "laceyeloisa"
     fullname: >-
-      sampeters82
+      Lacey Villasenor
+    bio: >-
+      〰️ dallas, tx + just having fun
     location: "United States"
-    followers: 5479
-    engagement: 1112
-    commentsToLikes: 0.083113
-    id: ck9f8lp7o349i0j78ypqszaoe
-    verified: false
-    hashtags: "#mickeymouseclub, #beourguest, #coco, #imperialmarch"
-  - username: "ninomerica"
-    fullname: >-
-      Nino America
-    location: "United States"
-    followers: 13582
-    engagement: 1041
-    commentsToLikes: 0.079981
-    id: cka9of1015n6f0i78ndyvgas8
-    verified: false
-    hashtags: "#caughtontape, #midland, #godbless, #burn"
-  - username: "christianwhite.tok"
-    fullname: >-
-      Christian White
-    location: "United States"
-    followers: 73137
-    engagement: 1653
-    commentsToLikes: 0.045968
-    id: ck8fa3rxf43qc0j78wnyjb0sc
-    verified: false
-    hashtags: "#baller, #splashchallenge, #espn, #dance"
-  - username: "christiancaniff"
-    fullname: >-
-      Christian Caniff
-    location: "United States"
-    followers: 511062
-    engagement: 493
-    commentsToLikes: 0.008268
-    id: ck9flohwnp6hw0j78yaie5kw3
-    verified: false
-    hashtags: "#toosieslide, #homedepot, #doritos, #epicfail"
-  - username: "katherine.maury"
-    fullname: >-
-      Katherine Maury ✪
-    location: "United States"
-    followers: 6153
-    engagement: 1894
-    commentsToLikes: 0.090126
-    id: ck8kh4d0ml9ey0j78t5thf568
-    verified: false
-    hashtags: "#fortworth, #home, #privilege, #instagram"
-  - username: "_josiah.g"
-    fullname: >-
-      Josiah Granderson
-    location: "United States"
-    followers: 17844
-    engagement: 1469
-    commentsToLikes: 0.040246
-    id: ck9r4ppydw3yi0j78besmm7r6
-    verified: false
-    hashtags: "#cursedimages, #remix, #cali, #english"
-  - username: "brieannajames_"
-    fullname: >-
-      brieannajames
-    location: "United States"
-    followers: 129210
-    engagement: 903
-    commentsToLikes: 0.042026
-    id: cka9qgwxz7zq20i78rajr8u7f
-    verified: false
-    hashtags: "#poseathome, #victoriouscast, #tiktokcovers, #guess"
-  - username: "dee_liamsworld"
-    fullname: >-
-      Derrick Lansing
-    location: "United States"
-    followers: 2787
+    followers: 18600
     engagement: 859
-    commentsToLikes: 0.078511
-    id: ck9nidysngter0j787bgaohmd
+    commentsToLikes: 0.042392
+    id: ckbf1kvbgnrrz0j238decjiu3
     verified: false
-    hashtags: "#stayathome, #musicmatters, #struggleisreal, #waterchallange"
-  - username: "yungski1"
+    hashtags: "#dallas, #texas, #dallascheck, #traveltiktok"
+  - username: "theabbyparker"
     fullname: >-
-      Cristian Baul
+      Abs 
+    bio: >-
+      Jesus above all Follow me on insta 🌸
     location: "United States"
-    followers: 2612
-    engagement: 2038
-    commentsToLikes: 0.094990
-    id: cka7v2kksuhg40i78hdmpsswf
+    followers: 26200
+    engagement: 905
+    commentsToLikes: 0.053470
+    id: ckb9dh02t0sps0j23vcycnxvr
     verified: false
-    hashtags: "#earthday, #keepsupporting, #smirk, #zyxbca"
-  - username: "cristianjortiz"
+    hashtags: "#duet, #diy, #greenscreen, #fyp"
+  - username: "_evelynjuarez16"
     fullname: >-
-      Cristian Ortiz
+      _evelynjuarez16
+    bio: >-
+      PO Box: 1408 N. Riverfront Blvd 504 Dallas, Tx 75207 Venmo/cashapp @EvelynLIT
     location: "United States"
-    followers: 23093
-    engagement: 1703
-    commentsToLikes: 0.056246
-    id: cka6qcyr5n1r60i78m05mewk8
+    followers: 861100
+    engagement: 1871
+    commentsToLikes: 0.035014
+    id: ck8khiu1lmwe90j78bp7tkptg
     verified: false
-    hashtags: "#album, #girl, #butterflies, #favoritefit"
+    hashtags: "#fyp, #nails, #beauty, #storytime"
+  - username: "stephero"
+    fullname: >-
+      Steph Duitz
+    bio: >-
+      Jesus4life✔️ Dallas 🇨🇱 18 100k? SC👉🏻Steph_ero
+    location: "United States"
+    followers: 74900
+    engagement: 1730
+    commentsToLikes: 0.046689
+    id: cka7ojltt2tbt0i78v74xrlj4
+    verified: false
+    hashtags: "#jesussaves, #cfa, #christ, #christian"
+  - username: "christianvibin"
+    fullname: >-
+      Christian 🌊
+    bio: >-
+      ⚽️#5 16🌊 📍Dallas🏙
+    location: "United States"
+    followers: 47800
+    engagement: 1472
+    commentsToLikes: 0.039987
+    id: ckbw7kj58yui90j238lzbyfd0
+    verified: false
+    hashtags: "#meme, #fyp, #christianvibindoe, #foryou"
+  - username: "jeanineamapola"
+    fullname: >-
+      JeanineAmapola
+    bio: >-
+      All glory to God 🙏🏼 LA & Dallas 📍 26 yrs old IG & YouTube - JeanineAmapola
+    location: "United States"
+    followers: 19700
+    engagement: 932
+    commentsToLikes: 0.024189
+    id: ck8070i3onn080j78jrgz5fh8
+    verified: true
+    hashtags: "#fyp, #sing, #christian, #christiantiktok"
+  - username: "kingdad246"
+    fullname: >-
+      Anthony M. Ross Sr.
+    bio: >-
+      Christian.Father.#Love wins
+    location: "United States"
+    followers: 3343
+    engagement: 2109
+    commentsToLikes: 0.073715
+    id: ckcpt93w1nvhg0j23h98hfw43
+    verified: false
+    hashtags: "#druhill, #chooselife, #wematter, #duet"
+  - username: "ketoangel"
+    fullname: >-
+      Angie_KetoAngel
+    bio: >-
+      Keto-(ISH)🥑 but still ❤️Tacos 🌮+Cake🍰 Love to Travel✈️ #956 #Christian 🙏🏾
+    location: "United States"
+    followers: 113300
+    engagement: 697
+    commentsToLikes: 0.045969
+    id: ckb0h2mr18u3e0j23z4hhy3oj
+    verified: false
+    hashtags: "#mexicangirl, #drinkvsdiet, #keto, #pruvit"
+  - username: "johnmichaelhowell"
+    fullname: >-
+      JohnMichael howell
+    bio: >-
+      Jesus / Music / Gen Z 👇🏼 🎶 MUSIC 🎶 👇🏼
+    location: "United States"
+    followers: 36100
+    engagement: 1022
+    commentsToLikes: 0.099805
+    id: ckcva92dxr6yk0j2351gwsrdq
+    verified: false
+    hashtags: "#fyp, #tiktoksong, #viral, #tiktokartist"
+  - username: "ggcailey"
+    fullname: >-
+      cail
+    bio: >-
+      19 I helped get @larrylexicon famous #GoAgs
+    location: "United States"
+    followers: 2017
+    engagement: 676
+    commentsToLikes: 0.087770
+    id: ckb9krd7zcz310j23qvyytxcp
+    verified: false
+    hashtags: "#loveothers, #christian, #christiangirl, #fyp"
 ---

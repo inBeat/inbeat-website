@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Atlanta In 2020
 description: >-
-  Find top fashion TikTok influencers in Atlanta in 2020. Most popular hashtags: #atlanta #duet #littlethings #alwayslearning.
+  Find top fashion TikTok influencers in Atlanta in 2020. Most popular hashtags: #atlanta #fyp #fashion #fy.
 platform: TikTok
+hits: 33
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 33 TikTok influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "chesathebrat"
+  - username: "backstageconcerts"
     fullname: >-
-      Chesa🪐🦋 🌸 👽
+      Concerts
+    bio: >-
+      Backstage
     location: "United States"
-    followers: 51615
-    engagement: 1569
-    commentsToLikes: 0.027988
-    id: ckac6llyje6w70i78zbb9jfxd
+    followers: 9646
+    engagement: 840
+    commentsToLikes: 0.010125
+    id: ck9dtjl0tcepx0j781rdkgk0l
     verified: false
-    hashtags: "#georgia, #baddie, #joke, #disrespectful"
-  - username: "lilicreation0"
+    hashtags: "#concertcheck, #cactusjack, #dontoliver, #fy"
+  - username: "mackchristopher"
     fullname: >-
-      Lilicreation
+      MackChristopher 
+    bio: >-
+      insta: mack.christopher twitter: themackchris
     location: "United States"
-    followers: 38531
-    engagement: 546
-    commentsToLikes: 0.015350
-    id: ckahwkawvr4eb0i78l29rvf5w
+    followers: 3205
+    engagement: 1163
+    commentsToLikes: 0.054761
+    id: ckcur6oy2jl0o0j239x3i3oud
     verified: false
-    hashtags: "#blackqueen, #goingviral, #dress, #momsoftiktok"
-  - username: "foxsports"
+    hashtags: "#fyp, #xcybca, #foryou, #foryoupage"
+  - username: "ecologievintage"
     fullname: >-
-      FOX Sports
+      ecologievintage
+    bio: >-
+      Lovely little vintage and resale shop located in Kennesaw, Georgia 💞
     location: "United States"
-    followers: 63987
-    engagement: 1113
-    commentsToLikes: 0.026590
-    id: ck8qpxjhe5h060j7860a2bn1s
-    verified: true
-    hashtags: "#firstthingsfirst, #superbowl, #boxing, #shannonsharpe"
-  - username: "nattvibe"
-    fullname: >-
-      Nattievibes
-    location: "United States"
-    followers: 2170
-    engagement: 1999
-    commentsToLikes: 0.075732
-    id: ckaj9gm6pehvi0i78upnyldqh
+    followers: 6190
+    engagement: 1388
+    commentsToLikes: 0.022738
+    id: ckdsqzy5xov1b0j235c2am2zy
     verified: false
-    hashtags: "#learnontiktok, #homebuying, #keeppushing, #gwinnettcounty"
-  - username: "marstruck"
+    hashtags: "#vintagefashion, #kennesaw, #fashion, #vintage"
+  - username: "sameplate"
     fullname: >-
-      marissa
+      SamePlate
+    bio: >-
+      A Sony Music Entertainment Record Label Everybody Eats
     location: "United States"
-    followers: 93905
-    engagement: 1991
-    commentsToLikes: 0.010617
-    id: ckact0uidcmrs0i78g7ssiwrd
+    followers: 4333
+    engagement: 641
+    commentsToLikes: 0.068980
+    id: ckbkxqetptsad0j23lz9jcnlw
     verified: false
-    hashtags: "#aesthetic, #decadeslooks, #decadesfashion, #wasian"
+    hashtags: "#foru, #tobi, #youngnudy, #viral"
+  - username: "ranen"
+    fullname: >-
+      Ranen 
+    bio: >-
+      atl. | 🇪🇹 main insta: @ranen_turner clothes: @discarded.atl
+    location: "United States"
+    followers: 58200
+    engagement: 1984
+    commentsToLikes: 0.019557
+    id: ckd6m9j53gauv0j23xm6142rn
+    verified: false
+    hashtags: "#fashion, #streetwear, #fitinspo, #style"
+  - username: "annamoraan"
+    fullname: >-
+      Anna
+    bio: >-
+      ANNAzon hiiii lets be friends :)) 📧: jessica@telloconsult.com AMAZON SHOP⬇️
+    location: "United States"
+    followers: 1200000
+    engagement: 2642
+    commentsToLikes: 0.005232
+    id: ck9reo5n534q30j78haedbg7g
+    verified: false
+    hashtags: "#amazonfinds, #amazonfashion, #dayinthelife, #selfcare"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
+    bio: >-
+      Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
     location: "United States"
-    followers: 9810
-    engagement: 1579
-    commentsToLikes: 0.042804
+    followers: 11500
+    engagement: 1908
+    commentsToLikes: 0.059822
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#cursedimages, #lazy, #dragoncon, #reboot"
-  - username: "w_ridley"
+    hashtags: "#duet, #collegegotmelike, #longboard, #comedy"
+  - username: "delrosario.adventures"
     fullname: >-
-      William Ridley
+      Melissa Jiménez
+    bio: >-
+      Atlanta📍 Create your adventures 💖 TikTok travel group for girls on IG bio
     location: "United States"
-    followers: 45709
-    engagement: 1202
-    commentsToLikes: 0.013076
-    id: ckacfnn5xrpxr0i781rlr4ak5
+    followers: 90100
+    engagement: 1223
+    commentsToLikes: 0.025128
+    id: ck9nfahjfe6cf0j78y0b2yp0m
     verified: false
-    hashtags: "#may4th, #viral, #inthehouseparty, #90dayfiance"
-  - username: "cozykidsatl"
+    hashtags: "#euphoria, #duet, #colorcustomizer, #meadsquarry"
+  - username: "therhensnesttoyshop"
     fullname: >-
-      Cozy Kids x Blvucci
+      Rhen’s Nest Toy Shop
+    bio: >-
+      Purveyors of toys & fun in ATLANTA & SAVANNAH
     location: "United States"
-    followers: 6770
-    engagement: 1371
-    commentsToLikes: 0.130239
-    id: ck8zbe44054a40j78yoj34xm9
+    followers: 292400
+    engagement: 557
+    commentsToLikes: 0.006918
+    id: ckbwif860343z0j23k1doswo5
     verified: false
-    hashtags: "#scoobdance, #lifeathome, #airbrush, #90sbaby"
-  - username: "westmain"
+    hashtags: "#savannahcitymarket, #toys, #sav, #pcm"
+  - username: "naturallycharity"
     fullname: >-
-      Shop West Main
+      naturallycharity
+    bio: >-
+      24♊️ Body positive💕 Queer🏳️‍🌈 black✊🏾 Just trying to make the gays happy😊
     location: "United States"
-    followers: 50340
-    engagement: 881
-    commentsToLikes: 0.012733
-    id: ck9rhx0mahd1m0j78ivy520p6
+    followers: 74500
+    engagement: 2183
+    commentsToLikes: 0.014120
+    id: ck9ekix1j6mzx0j78c6oax7b8
     verified: false
-    hashtags: "#office, #axefingersdown, #hustlecheck, #tiktokrestarea"
-  - username: "hotexbf"
-    fullname: >-
-      M@ Caulfield
-    location: "United States"
-    followers: 3439
-    engagement: 578
-    commentsToLikes: 0.015332
-    id: ck8tkv2py9e0m0j78b4dh6ivt
-    verified: false
-    hashtags: "#kuwtk, #beauty, #work, #manhattan"
+    hashtags: "#blacktiktok, #femmelesbian, #thickgirl, #lgbt"
 ---

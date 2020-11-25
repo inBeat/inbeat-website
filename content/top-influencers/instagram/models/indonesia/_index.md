@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top models Instagram influencers in Indonesia in 2020. Most popular hashtags: #likelikelike # #selfietime #merapi.
+  Find top models Instagram influencers in Indonesia in 2020. Most popular hashtags: #instagood #ootd #hijabersindonesia.
 platform: Instagram
+hits: 853
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 853 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "zachhartman1"
+  - username: "eunike.keziaa"
     fullname: >-
-      ZACH HARTMAN
+      Eunike Kezia
+    bio: >-
+      🍀 Yesaya 60:15 NO HP HANYA 082217383244 Freelance Model (170 cm /45 kg) @darrend3_ 💕
     location: "Indonesia"
-    followers: 31279
-    engagement: 1012
-    commentsToLikes: 0.033335
-    id: ck8sys9jslt700j78d9xp1v8w
+    followers: 17616
+    engagement: 912
+    commentsToLikes: 0.203506
+    id: ck5q2dvtffit30i11x6b2aixm
     verified: false
-    hashtags: "#athomewithasos"
+    hashtags: "#makeup, #daycream, #beautiful, #erbcbeauty"
   - username: "vanessabrli"
     fullname: >-
       فانیسسا ابریللیا
+    bio: >-
+      DM for business 📩 Model:@model.kfm / @kfmupdate @_ffmanagement Pp/endorse : DM📩
     location: "Indonesia"
-    followers: 3678
-    engagement: 1603
-    commentsToLikes: 0.226587
+    followers: 4147
+    engagement: 1724
+    commentsToLikes: 0.221313
     id: ck9whmxljylvf0j78dnr8bf46
     verified: false
     hashtags: "#selamatberbukapuasa, #selfietime"
-  - username: "jenadammaya"
+  - username: "jihanerens"
     fullname: >-
-      𝗝єηαԃαм  𝗠αуα ♡
+      Jihanee🐻
+    bio: >-
+      Model? Cek @jihanesmodelgallery 🏥 Nutritionist ❤️ Modelling 📩 For Business / Inq : DM 👑 Miss Berbakat Jawa Tengah 2020 Yogyakarta, +62 🇮🇩
     location: "Indonesia"
-    followers: 264347
-    engagement: 958
-    commentsToLikes: 0.014250
-    id: ck134fh7ew6hg0i1991ywks6y
-    verified: false
-    hashtags: "#kartiniday, #pubgmxburgerking, #ramadanbarengdana, #gamevoucherpromo"
-  - username: "jihanherens"
-    fullname: >-
-      Jihan Salma Hereni
-    location: "Indonesia"
-    followers: 7465
-    engagement: 1413
-    commentsToLikes: 0.104116
+    followers: 7185
+    engagement: 2168
+    commentsToLikes: 0.205391
     id: ck5hpf5kgr97l0i11fv1rzhfv
     verified: false
-    hashtags: "#hijabselfie, #candidmoments, #bridalgown, #model"
-  - username: "georgiahball"
+    hashtags: "#instafashion, #quarantinedays, #hijabstyle, #lff"
+  - username: "katyonok"
     fullname: >-
-      Georgia Ball 🦋
+      Katya Clover
+    bio: >-
+      Art&nude model. Free-spirit nudist, passionate cooker,traveler🌿 #katyaclover #katyacloverstory Exclusive pics&videos on my Onlyfans, linked below📍Bali
     location: "Indonesia"
-    followers: 6128
-    engagement: 1495
-    commentsToLikes: 0.052446
-    id: ckap993tarocf0i78cj6xb06q
+    followers: 526246
+    engagement: 610
+    commentsToLikes: 0.032007
+    id: ckaozgtkyltv80i78egftyzt2
     verified: false
-    hashtags: ""
-  - username: "alyaed"
+    hashtags: "#halloween2020, #flowerpower, #bohemian, #hippie"
+  - username: "hanickach"
     fullname: >-
-      𝑯𝒊, 𝑰'𝒎 𝑨𝒍𝒚𝒂 🌻
+      Ing. Hana Chomaničová
+    bio: >-
+      Model, Photo-model 💞 Ambassador @tajnaclub Finalist Miss Czech Press 2016 Cooperation with eshops 👙 Freckled girl @zlyart
     location: "Indonesia"
-    followers: 3766
-    engagement: 1737
-    commentsToLikes: 0.109804
-    id: ck8sxi3pohhai0j78wnbm0rlv
+    followers: 96234
+    engagement: 384
+    commentsToLikes: 0.043236
+    id: ck5q229kfdx5k0i11qkkir2wo
     verified: false
-    hashtags: "#exploreyogyakarta, #bukitklanton, #indonesiaku, #wonderfullindonesia"
-  - username: "agtellin_"
+    hashtags: "#podzim, #legslegslegs, #tajnababe, #autumnoutfit"
+  - username: "annesivaasen"
     fullname: >-
-      Agatha Ellin Lourdhesta Wijaya
+      Anne Siv Aasen | NORWAY 🇳🇴
+    bio: >-
+      Travel•Yoga•CrossFit•Model ▪️ Owner @solvikyoga ▪️ TwinMom ▪️ YogaTeacher ▪️ @pulpitrockyogaretreat ▪️ Travel ▪️ @strandskateklubb ▪️ YogaRetreats
     location: "Indonesia"
-    followers: 7384
-    engagement: 2509
-    commentsToLikes: 0.025153
-    id: ck5qds03kx24v0i11zc13mfhx
+    followers: 18617
+    engagement: 503
+    commentsToLikes: 0.150434
+    id: ck55ps5lwb9c80i11lwsue3fl
     verified: false
-    hashtags: "#cbindependent, #biduancb, #kulonprogoexplore, #pitung"
-  - username: "killer_katrin"
+    hashtags: "#alotwists"
+  - username: "merylinnau"
     fullname: >-
-      Ekaterina Novikova
+      Merylin Nau ®
+    bio: >-
+      Actress, model, TV personality 🇪🇪 📩 business@naublogi.com
     location: "Indonesia"
-    followers: 945655
-    engagement: 820
-    commentsToLikes: 0.009961
-    id: ck9wicbu51oj90j787n8g0fdf
+    followers: 37092
+    engagement: 359
+    commentsToLikes: 0.076437
+    id: ck5hmkzohm5dr0i11s8uxi903
     verified: false
-    hashtags: ""
-  - username: "gvozd"
+    hashtags: "#ad, #partyinspiration, #auhinnam, #koost"
+  - username: "alidabdul"
     fullname: >-
-      🔥💰Business & Travel Photo🏄🏻🔥
+      Alid Abdul
+    bio: >-
+      From Jombang with Love | An Indonesian | A Blogger | A Traveler | A Backpacker | A Failed YouTuber | A Model Wannabe
     location: "Indonesia"
-    followers: 124167
-    engagement: 199
-    commentsToLikes: 0.055411
-    id: ck55mnn0c4cnd0i11po1nsa3j
+    followers: 2311
+    engagement: 1513
+    commentsToLikes: 0.167582
+    id: ck6udm7vmlvyx0j71cf1h4gb2
     verified: false
-    hashtags: "#dronesurf, #balisurf, #surfer, #surfphotographer"
-  - username: "rahmatul_8"
+    hashtags: "#instagunung, #thisisindonesia, #instanusantara, #ranukumbolo"
+  - username: "jenadammaya"
     fullname: >-
-      rahmatul maula ramadani
+      🌤 Jenadammaya
+    bio: >-
+      Brand Ambassador : @braveauction.id Manager / PP / Endorse (+62)89602830016 🧸 Gamers / Professional Model ((( béni par vous tous bien , 20 yo )))
     location: "Indonesia"
-    followers: 5121
-    engagement: 2614
-    commentsToLikes: 0.065857
-    id: ck9hbztw7j5f80j785persg3j
+    followers: 341983
+    engagement: 851
+    commentsToLikes: 0.013543
+    id: ck134fh7ew6hg0i1991ywks6y
     verified: false
-    hashtags: "#nice, #followfollow, #followmenow, #kungfulife"
+    hashtags: "#akumiripgurita, #indihomepaketgamer, #kuisberhadiah, #bonus"
+  - username: "sonya.dang"
+    fullname: >-
+      Mai Linh Sonya Maria 🍬
+    bio: >-
+      50% Ro 50% Vn cnicb tik tok: sonya.dang snap: sonyka.d Ambassador @girlup.romania @csecnicb @cnicb.cheerleaders @dinasty_models_academy @bratianuhelp
+    location: "Indonesia"
+    followers: 6205
+    engagement: 2184
+    commentsToLikes: 0.030260
+    id: ckf5nzltd0d2u0j2312u8rukn
+    verified: false
+    hashtags: "#ootd, #asian, #summer, #y2k"
 ---

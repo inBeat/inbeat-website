@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Atlanta In 2020
 description: >-
-  Find top vegan TikTok influencers in Atlanta in 2020. Most popular hashtags: #learnfromme #vegan #selfcare #crueltyfree.
+  Find top vegan TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #atlanta #vegan #foodie.
 platform: TikTok
+hits: 11
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 11 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
   - username: "wfpbjosh"
     fullname: >-
       Josh Wayne
+    bio: >-
+      Vegan, Whole Food Plant Based, Forager, Empathy
     location: "United States"
-    followers: 2617
-    engagement: 629
-    commentsToLikes: 0.064011
+    followers: 3089
+    engagement: 871
+    commentsToLikes: 0.043022
     id: ckakny1z394yh0i78q1bxh4cp
     verified: false
-    hashtags: "#veganrecipe, #pushups, #plentiful, #quarentine"
-  - username: "thatnursemissy"
+    hashtags: "#edible, #forage, #yum, #fyp"
+  - username: "vinyasavegan"
     fullname: >-
-      💯% That Nurse
+      Michael
+    bio: >-
+      Welcome! 🤓 Recently Vegan🌱 Atlanta/Phoenix 🏙🌵 HS Teacher 👨‍🏫 25 🌈
     location: "United States"
-    followers: 30376
-    engagement: 1503
-    commentsToLikes: 0.059418
-    id: cka3vg885y1xh0i78iboybk04
+    followers: 12000
+    engagement: 777
+    commentsToLikes: 0.061744
+    id: ckb9c074oyknf0j23xnm03x6c
     verified: false
-    hashtags: "#greenvspurple, #pause, #piercing, #finna"
-  - username: "bryantajoseph"
+    hashtags: "#vegancookies, #veganbreakfast, #vegandessert, #veganrecipes"
+  - username: "buzzed__lightyear"
     fullname: >-
-      Bryant Joseph
+      Buzzed ❤️🖤🌱
+    bio: >-
+      Antisocial Vegan•I Avoid Meet •🌱Eater 🐾 Lover•Runner•It’s All Fun• 🇵🇷
     location: "United States"
-    followers: 69793
-    engagement: 934
-    commentsToLikes: 0.020868
-    id: ck80opptgj30g0j78nid5tkt7
+    followers: 5221
+    engagement: 650
+    commentsToLikes: 0.079126
+    id: ckbfiblkfe3rw0j23ebr838yt
     verified: false
-    hashtags: "#steakdinner, #quarantine, #maketheleap, #qurantine"
-  - username: "georgiaku"
+    hashtags: "#singlelife, #getthelook, #morph, #over40"
+  - username: "justlex.x"
     fullname: >-
-      GeorgiaKu
+      Lex
+    bio: >-
+      26 Accepting Orders NOW🔥 NC & ATL🍑 MY WEBSITE & YOUTUBE below↙️
     location: "United States"
-    followers: 4233
-    engagement: 954
-    commentsToLikes: 0.043195
-    id: ck8kexfxebfnh0j78b3k5qylw
+    followers: 66000
+    engagement: 1268
+    commentsToLikes: 0.174093
+    id: ckb9mpz4hg3hv0j237jztqd2a
+    verified: false
+    hashtags: "#foodie, #atlanta, #food, #foodtok"
+  - username: "catoura"
+    fullname: >-
+      Catoura
+    bio: >-
+      Beauty, Style & Yummy Eats Mama to a sweet chi chi Follow me on Insta!
+    location: "United States"
+    followers: 10500
+    engagement: 827
+    commentsToLikes: 0.030348
+    id: ck9fmlkpyu1l50j78kh09jpkd
+    verified: false
+    hashtags: "#fyp, #pup, #xyzbca, #dogsoftiktok"
+  - username: "bitboycrypto"
+    fullname: >-
+      BitBoy Crypto
+    bio: >-
+      Crypto YouTuber by day. TikToker by night. Ben Armstrong aka BitBoy Crypto.
+    location: "United States"
+    followers: 2400000
+    engagement: 1552
+    commentsToLikes: 0.016881
+    id: ck7zp8ok3nw420j78fvhrxytk
     verified: true
-    hashtags: "#koalachallenge, #armworkout, #eyeslipsface, #boredathome"
-  - username: "innbeauty_project"
+    hashtags: "#cryptocurrency, #falcons, #crypto, #bitcoin"
+  - username: "hunuhh"
     fullname: >-
-      INNBEAUTY PROJECT 
+      Hannah Gebert
+    bio: >-
+      Atl, GA UGA’ 23 20
     location: "United States"
-    followers: 8526
-    engagement: 1853
-    commentsToLikes: 0.141452
-    id: ck8w2d7zn4wth0j78jubk8dd8
+    followers: 2245
+    engagement: 842
+    commentsToLikes: 0.038535
+    id: ck8kh49sdl8mz0j78dv0myh2d
     verified: false
-    hashtags: "#eyemasks, #clearskin, #lipglaze, #texture"
-  - username: "hauslabs"
+    hashtags: "#college, #greenscreen, #corona, #veganlife"
+  - username: "brsweenx"
     fullname: >-
-      HausLabs
+      bs
+    bio: >-
+      touching every dog i see since ‘93
     location: "United States"
-    followers: 4182
-    engagement: 1585
-    commentsToLikes: 0.086008
-    id: ckac76eomekkt0i78ry8pbsgj
-    verified: true
-    hashtags: "#chooseone, #beforeandafter, #makeupchallenges, #beautyroutine"
-  - username: "milkmakeup"
-    fullname: >-
-      milkmakeup
-    location: "United States"
-    followers: 263782
-    engagement: 2225
-    commentsToLikes: 0.018826
-    id: ck8hsc9v1co0q0j78la0fymc5
-    verified: true
-    hashtags: "#tiktokearthday, #team420, #earthchallenge, #kushlipglaze"
-  - username: "findingjayreace"
-    fullname: >-
-      🤴🏽Jꪖꪗ Rꫀꪖᥴꫀ 🌱
-    location: "United States"
-    followers: 7116
-    engagement: 1410
-    commentsToLikes: 0.268393
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 41100
+    engagement: 958
+    commentsToLikes: 0.022085
+    id: ckdt348q0sf5m0j23yb5i4adb
     verified: false
-    hashtags: "#footloose, #foodie, #parentsoftiktok, #veganfood"
-  - username: "leleposhcosmetics"
+    hashtags: "#fyp, #la, #tv, #setlifechallenge"
+  - username: "pretty_southernqueen"
     fullname: >-
-      Lele Posh
+      Ja’Vaughn Sanders
+    bio: >-
+      PayPal/Vemo: southernqueen9 CashApp: $Southernbelle1992 Welcome To The Kingdom
     location: "United States"
-    followers: 7181
-    engagement: 1002
-    commentsToLikes: 0.075576
-    id: ckae4hc2x2gaz0i78u0b7lgf0
+    followers: 30000
+    engagement: 1331
+    commentsToLikes: 0.024983
+    id: ckb9a2afjutqv0j23zu9gms98
     verified: false
-    hashtags: "#purple, #mind, #makeuptrend, #glittertable"
-  - username: "vegan.inspo"
+    hashtags: "#fyp, #pov, #duet, #blm"
+  - username: "chikofatl"
     fullname: >-
-      ava 🦋
+      Queen Sugarplum
+    bio: >-
+      ATL just an average chick thank you for 5k 🥰🤪
     location: "United States"
-    followers: 143476
-    engagement: 1888
-    commentsToLikes: 0.017105
-    id: ck80nrbpie55e0j7804choppa
+    followers: 5837
+    engagement: 628
+    commentsToLikes: 0.028341
+    id: ckb10r8pqpbrc0j23upphefe0
     verified: false
-    hashtags: "#whippedcoffee, #smoothiebowl, #oatmealdip, #myaesthetic"
+    hashtags: "#finalsathome, #fyp, #waxing, #esthetician"
 ---

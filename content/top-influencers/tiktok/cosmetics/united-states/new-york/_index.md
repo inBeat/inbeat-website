@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics TikTok Influencers In New York In 2020
 description: >-
-  Find top cosmetics TikTok influencers in New York in 2020. Most popular hashtags: #bear #tossyourcap #duetwithme #greenscreen.
+  Find top cosmetics TikTok influencers in New York in 2020. Most popular hashtags: #makeup #fyp #viral #foryou.
 platform: TikTok
+hits: 7
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 7 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "cabinfever43"
+  - username: "tattoosbyandrea"
     fullname: >-
-      user1348555805119
+      Andrea
+    bio: >-
+      Check out my IG for tattoos I’ve done!!! I’m on Long Island New York!!!
     location: "United States"
-    followers: 4135
-    engagement: 1805
-    commentsToLikes: 0.088418
-    id: ckahunjlnj85v0i78tvjpr0ep
+    followers: 317100
+    engagement: 1734
+    commentsToLikes: 0.013878
+    id: ck8qi56m07sj30j78fkp9i060
     verified: false
-    hashtags: "#away, #dangerous, #sorrow, #people"
-  - username: "sulee26"
+    hashtags: "#strapback, #spookyseason, #fall, #tattoos"
+  - username: "olgaavezbakiev"
     fullname: >-
-      Sadboy
+      Olga Avezbakiev
+    bio: >-
+      Thank You all for love and support! Check out my daughter's cosmetic business!
     location: "United States"
-    followers: 170762
-    engagement: 2213
-    commentsToLikes: 0.024746
-    id: ck9gq4sfn81mb0j78x2fi0eas
+    followers: 2662
+    engagement: 1232
+    commentsToLikes: 0.084778
+    id: ckcdf7ezy6hix0j23fjpaow61
     verified: false
-    hashtags: ""
-  - username: "dgibbsofficial"
+    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
+  - username: "waykint"
     fullname: >-
-      Dominic Gibbons
+      kayla
+    bio: >-
+      24 | OH | waykintcustoms on Etsy | waykint cosmetics on facebook 🥰
     location: "United States"
-    followers: 456981
-    engagement: 2712
-    commentsToLikes: 0.017008
-    id: ck8kob54zgxfp0j78ahb2fblo
+    followers: 5566
+    engagement: 1170
+    commentsToLikes: 0.053336
+    id: ckc7wx75azvsc0j23igkzuus3
     verified: false
-    hashtags: "#greenscreen"
-  - username: "rahulny"
+    hashtags: "#unitedwedance, #browneyes, #fyp, #hi"
+  - username: "lani.baker"
     fullname: >-
-      rahulny
+      Lani Randol (Baker) 
+    bio: >-
+      Saved by Grace Model, Actress, Creator 🦋 PO Box 396 Henryetta, OK 74437
     location: "United States"
-    followers: 8707
-    engagement: 4202
-    commentsToLikes: 0.155736
-    id: ckae15ou3n7bd0i787ly904md
-    verified: false
-    hashtags: "#letgoviral, #lovemyfans, #shareit, #featureme"
-  - username: "crunchy.fetus"
+    followers: 4900000
+    engagement: 2140
+    commentsToLikes: 0.003666
+    id: ck8vuqwlkjogj0j78bdrxdy99
+    verified: true
+    hashtags: "#makeyourjawdrop, #thecraft, #greenscreen, #greenscreenvideo"
+  - username: "liahyoo"
     fullname: >-
-      basilias.art
+      Liah Yoo
+    bio: >-
+      #over30club jumping on tiktok after seeing gen Zs damaging their skin
     location: "United States"
-    followers: 21623
-    engagement: 3374
-    commentsToLikes: 0.051533
-    id: ck8tt709lrpjr0j78okot3s8p
-    verified: false
-    hashtags: "#drawing, #demonslayer, #help, #lmao"
-  - username: "loganwgood"
+    followers: 134000
+    engagement: 955
+    commentsToLikes: 0.013573
+    id: cka0w9h851xgs0i78erf14yak
+    verified: true
+    hashtags: "#skincareroutine, #acnetips, #acne, #antiaging"
+  - username: "wiolettapawluk"
     fullname: >-
-      Logan Good
+      Wiola 🇵🇱🇺🇸
+    bio: >-
+      Architectural Interior Designer 💪🏼Online coach 🎨Artist www.BodyDecore.com
     location: "United States"
-    followers: 39696
-    engagement: 2316
-    commentsToLikes: 0.048421
-    id: ck87tx8bf3x530j78nq5563bx
+    followers: 31500
+    engagement: 727
+    commentsToLikes: 0.026706
+    id: ckbf2buskp93m0j23n2wuuimc
     verified: false
-    hashtags: "#snow, #toiletpaper, #gretathunberg, #nature"
-  - username: "itsangeloooo"
+    hashtags: "#style, #legs, #bts, #funny"
+  - username: "soleverasmakeup"
     fullname: >-
-      ANGELO 🐸
+      Sole Veras
+    bio: >-
+      Sígueme en instegrant y YouTube @makeup_lasole
     location: "United States"
-    followers: 77993
-    engagement: 2218
-    commentsToLikes: 0.038108
-    id: ck8os2msff0gi0j78wmn62rkk
+    followers: 3006
+    engagement: 562
+    commentsToLikes: 0.012536
+    id: ckbf21d1qojr10j23gixb1b17
     verified: false
-    hashtags: "#camprock, #disney, #foryoupage, #fairycomments"
-  - username: "brilune"
+    hashtags: "#love, #curlscheck, #minivlog, #diy"
+  - username: "lipfix_cosmetics"
     fullname: >-
-      Bri Lune
+      ✨Lipgloss Business✨
+    bio: >-
+      ✊🏻✊🏼✊🏽✊🏾✊🏿 Giveaway at 150k💖 Insta⬆️ YouTube: Lipfix Cosmetics
     location: "United States"
-    followers: 65987
-    engagement: 1444
-    commentsToLikes: 0.045167
-    id: ck83yt767vig60j78amjvc7xl
+    followers: 123400
+    engagement: 2121
+    commentsToLikes: 0.028002
+    id: ck9pm9m3k88ze0j784ceyaswn
     verified: false
-    hashtags: "#evanescence, #healing, #witchtok, #learnfromme"
-  - username: "ohnoalexx"
+    hashtags: "#fun, #smallbusiness, #lipgloss, #lipfix"
+  - username: "marieclaire.popernik"
     fullname: >-
-      Alex Cerabone
+      Marieclaire Popernik
+    bio: >-
+      shop the link below! go follow my business page @marieclaire.cosmetics
     location: "United States"
-    followers: 984127
-    engagement: 3386
-    commentsToLikes: 0.010060
-    id: ck8qm5enqok5a0j78douzw5fs
+    followers: 88600
+    engagement: 2192
+    commentsToLikes: 0.013943
+    id: ck8z8ny64uwv30j78aal4fkes
     verified: false
-    hashtags: "#greenscreen, #someonesavemeimsobored, #onlineschool, #stayathome"
-  - username: "noakhailla_boys"
+    hashtags: "#tiktoktaughtme, #foryoupage, #theoldguard, #fyp"
+  - username: "ofracosmetics"
     fullname: >-
-      TikTok💚Lover💙Tareq
+      Ofra Cosmetics
+    bio: >-
+      OFRA Cosmetics 🇺🇸Made in the USA 🐰Cruelty-Free Cosmetics 💗Makeup & Skincare
     location: "United States"
-    followers: 5897
-    engagement: 2273
-    commentsToLikes: 0.033760
-    id: ck9kbvqlpn0at0j78v8o3qz9m
+    followers: 20300
+    engagement: 1563
+    commentsToLikes: 0.076807
+    id: ck9c4m8lnq4t60j78g00u940a
     verified: false
-    hashtags: "#prospect, #rocksway, #funnyvideos, #prospectpark"
+    hashtags: "#lipstick, #ghostphotoshoot, #amazonprime, #dayinmylife"
 ---

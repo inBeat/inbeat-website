@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In France In 2020
 description: >-
-  Find top gymnasts Instagram influencers in France in 2020. Most popular hashtags: #gymnastics #stayathome #goodvibes #family.
+  Find top gymnasts Instagram influencers in France in 2020. Most popular hashtags: #fitness #training #france.
 platform: Instagram
+hits: 116
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 116 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "alina.victoria06"
+  - username: "_alicia_ore"
     fullname: >-
-      𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
+      Ali
+    bio: >-
+      | 20 Yo | Gymnaste TikTok: aliciaore (18.5k)✨ Ambassadrice —> @dgn.power 👊🏼
     location: "France"
-    followers: 26386
-    engagement: 1003
-    commentsToLikes: 0.087857
-    id: ck8tb3u7vu5pa0j785agbvrb4
+    followers: 3308
+    engagement: 1976
+    commentsToLikes: 0.142035
+    id: ck8wf0493ewfw0j78c2lk3dj7
     verified: false
-    hashtags: "#split, #leotardforsale, #drinkwaterdaily, #gymnastics"
-  - username: "leopold.fr"
-    fullname: >-
-      L é o p o l d
-    location: "France"
-    followers: 51110
-    engagement: 1344
-    commentsToLikes: 0.028061
-    id: ck9wgqa86uigd0j78nlupj8ad
-    verified: false
-    hashtags: ""
+    hashtags: "#look, #mademoiselleparisienne49, #mode, #lifestyle"
   - username: "olimpia_noa"
     fullname: >-
       Olimpia Noa Pietras
+    bio: >-
+      #model // #actress //#dancer //#gymnast #lifestyle #travel #beauty #healthylifestyle
     location: "France"
-    followers: 31021
-    engagement: 525
-    commentsToLikes: 0.042322
+    followers: 55057
+    engagement: 858
+    commentsToLikes: 0.034842
     id: ck14k0oedn4m30i19mfmgtg22
     verified: false
-    hashtags: "#teens, #monday, #burn, #team"
-  - username: "alizee_letrange"
+    hashtags: "#teen, #weekend, #summer, #girl"
+  - username: "leopold.dutrey"
     fullname: >-
-      Alizée Letrange
+      Léopold Dutrey
+    bio: >-
+      French college boy 👨🏼‍🎓 📍Paris Acrobatic gymnast 🤸🏻‍♂️2018 Nationals🥇 🎓 Dauphine | International Business Speak 🇫🇷 🇺🇸 🇩🇪
     location: "France"
-    followers: 6875
-    engagement: 2336
-    commentsToLikes: 0.020473
-    id: ck5bzv9tdrwl80i112fgr30ov
+    followers: 90749
+    engagement: 1132
+    commentsToLikes: 0.024022
+    id: ck9wgqa86uigd0j78nlupj8ad
     verified: false
-    hashtags: "#stayathome"
+    hashtags: ""
   - username: "alissonsonette"
     fullname: >-
       Alisson LAPP
+    bio: >-
+      🤸🏼‍♀️ gymnast 🇫🇷 national team 2015-2019 🦈 LIU gymnastics 🇺🇸
     location: "France"
-    followers: 14251
-    engagement: 1766
-    commentsToLikes: 0.014595
+    followers: 14104
+    engagement: 1606
+    commentsToLikes: 0.018937
     id: ck5zkfd3kjdr70i14d66a5yzx
     verified: false
-    hashtags: "#winners, #revuedeffectifs, #newstyle, #pinkteam"
-  - username: "julia_forestier"
+    hashtags: "#toomuchlove, #selfiesalledebain, #gosharks, #greeny"
+  - username: "auxane.micheneau"
     fullname: >-
-      Julia Forestier💫
+      Auxane Micheneau 🇫🇷 25yo
+    bio: >-
+      🔹Certified personal trainer 🔹LesMills BB BJ RPM CX BP Sprint 🤸 Ex gymnast
     location: "France"
-    followers: 6994
-    engagement: 1803
-    commentsToLikes: 0.018140
-    id: ck5pvfo0ehnlb0i11lz1a445e
+    followers: 201269
+    engagement: 1017
+    commentsToLikes: 0.010046
+    id: ck6u5wjz4c5zz0j71vblte002
     verified: false
-    hashtags: "#holidays, #lesgensnesaventplusquoiinventercommechallengebonsoir, #christmas, #chocolat"
+    hashtags: "#gymnast, #bulkpowders, #polarignite, #bemoredomore"
+  - username: "alizee_letrange"
+    fullname: >-
+      Alizée Letrange
+    bio: >-
+      -french gymnast🇫🇷/origine🇲🇦 -Sainté📍|| Strasbourg 💫@quatrofrance/@quatrogymnastics ambassador
+    location: "France"
+    followers: 6882
+    engagement: 2330
+    commentsToLikes: 0.021211
+    id: ck5bzv9tdrwl80i112fgr30ov
+    verified: false
+    hashtags: "#stayathome, #16"
+  - username: "jessicaavetter"
+    fullname: >-
+      Jessica Vetter
+    bio: >-
+      📍🇫🇷 www.jessicavetter.fr CrossFit, Gymnastique, Fitness Programmation @extragymprogram @wodabox @compexfrance @noccofrance
+    location: "France"
+    followers: 74442
+    engagement: 394
+    commentsToLikes: 0.054161
+    id: ck6tvc7f9lehx0j71ai1hptcq
+    verified: false
+    hashtags: "#forcesspeciales, #fitness, #france, #crossfit"
   - username: "oreaneelechenault83"
     fullname: >-
       Oréane Lechenault Officiel 😁
+    bio: >-
+      ▪️ Ex french gymnast 🇫🇷 ▪️ 20 yo 📍 St Raphaël ▪️ JO Rio 2016 🇧🇷 ▪️ @odamemh_ 🤭
     location: "France"
-    followers: 31627
-    engagement: 1875
-    commentsToLikes: 0.013650
+    followers: 29246
+    engagement: 1912
+    commentsToLikes: 0.012495
     id: ck5pvfqhshnvx0i111cvzv75y
     verified: false
     hashtags: "#24hourschallenge"
-  - username: "grace_charpy"
+  - username: "mathilde_wahl"
     fullname: >-
-      Grâce Charpy
+      Mathilde Wahl
+    bio: >-
+      ~ French gymnast 🤸🏼‍♀️🇫🇷 / 16yo ~ INSEP /📍Haguenau ~ Ambassadrice @quatrofrance / @quatrogymnastics 🤍
     location: "France"
-    followers: 19679
-    engagement: 1303
-    commentsToLikes: 0.009137
-    id: ck55oqsn48xbb0i11nj7nw3e5
+    followers: 4097
+    engagement: 2287
+    commentsToLikes: 0.028835
+    id: ck5zkfea4jdsk0i14xktwyx6d
     verified: false
-    hashtags: "#commegraceentdg"
-  - username: "lorette_charpy"
+    hashtags: "#puppy, #hags, #goodvibes, #birthdaygift"
+  - username: "aline_friess"
     fullname: >-
-      Lorette Charpy
+      Aline Friess
+    bio: >-
+      Gymnaste🇫🇷 17 years Ambassadrice @quatrofrance / @quatrogymnastics
     location: "France"
-    followers: 44156
-    engagement: 1553
-    commentsToLikes: 0.006499
-    id: ck55oqvhq8xlf0i11rv1os9xr
-    verified: true
-    hashtags: "#palmademallorca, #health, #pillowchallenge, #dontrushchallenge"
-  - username: "leanne_bourgeois"
-    fullname: >-
-      Léanne Bourgeois
-    location: "France"
-    followers: 4561
-    engagement: 2981
-    commentsToLikes: 0.018910
-    id: ck5pvfru3ho2h0i11x0gbcy4f
+    followers: 15971
+    engagement: 2167
+    commentsToLikes: 0.008960
+    id: ck55oqzr78xt50i11g1nzax8o
     verified: false
-    hashtags: "#massilia, #teamfrance, #1st, #gymnastics"
+    hashtags: "#teamfrance, #ad, #teamfabletics, #fableticsfr"
 ---

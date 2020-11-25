@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Colombia In 2020
 description: >-
-  Find top lingerie Instagram influencers in Colombia in 2020. Most popular hashtags: #lingerie #latina #black #photo.
+  Find top lingerie Instagram influencers in Colombia in 2020. Most popular hashtags: #lingerie #model #photography #portrait.
 platform: Instagram
+hits: 34
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 34 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "canelabayona"
+  - username: "titi.valencia"
     fullname: >-
-      𝕮𝖆𝖓𝖊𝖑𝖆
+      ¢αяσ ναℓєи¢ια ∂υqυє 🍬
+    bio: >-
+      📍 ¢σℓσмвια, ιвαgυé. 🧵¢яєα∂σяα ∂є @fiora_lingerie мαмá ∂є ʝυαи, ωαи∂α у вιαи¢α уσ єℓєgι ѕєя fєℓιz fℓυуєи∂σ ¢σи ❤️ αмσя
     location: "Colombia"
-    followers: 86430
-    engagement: 615
-    commentsToLikes: 0.044238
-    id: ck5c5i08p3ibc0i11te34dwms
+    followers: 29682
+    engagement: 517
+    commentsToLikes: 0.175551
+    id: ckf5qr5b3aaud0j232lrowa3f
     verified: false
-    hashtags: "#90svintage, #analogportraits, #filmcommunity, #cityports"
-  - username: "ilmio_of"
+    hashtags: "#amoryamistad2020, #tolimacolombia, #pen, #concurso"
+  - username: "majodiag"
     fullname: >-
-      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
+      Maria Jose Diaz
+    bio: >-
+      🎓Psicologa en formación 🏋🏻‍♀️Healthy & fitness lifestyle ✈️Traveler 🍃Positive vibes only 👑Creator: @lingeriebymajo 📍Bogota-Colombia
     location: "Colombia"
-    followers: 43722
-    engagement: 359
-    commentsToLikes: 0.060896
-    id: ck6ub58fr7jg10j71j2v6lxuh
+    followers: 7206
+    engagement: 500
+    commentsToLikes: 0.036464
+    id: ckf5wx9txtirc0j23nbaaqsfe
     verified: false
-    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
-  - username: "savafe_"
-    fullname: >-
-      🥀🕷𝖘𝖆𝖗𝖆𝖍  𝕭𝖆𝖗𝖗𝖔𝖘🕷🥀
-    location: "Colombia"
-    followers: 5942
-    engagement: 2150
-    commentsToLikes: 0.032971
-    id: ckaoxo46re2wj0i78dmiok4id
-    verified: false
-    hashtags: "#photographer, #outfitstyle, #fashion, #modeling"
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    location: "Colombia"
-    followers: 46488
-    engagement: 712
-    commentsToLikes: 0.048889
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#gymtime, #fitnesswomen, #nice, #topmodel"
+    hashtags: "#gainingweight, #tbt, #alphalete, #fitnesscoach"
   - username: "kellymolina22"
     fullname: >-
       𝕽𝖔𝖏𝖆🍓
+    bio: >-
+      📍BAQ - COL 🇨🇴 Comunicadora social y periodista CEO @impalastore_ 📌
     location: "Colombia"
-    followers: 23895
-    engagement: 606
-    commentsToLikes: 0.029043
+    followers: 24904
+    engagement: 477
+    commentsToLikes: 0.057746
     id: ck6tk562j40zx0j714447wxs1
     verified: false
-    hashtags: "#art, #lingerie, #carnavaldebarranquilla, #pelirroja"
+    hashtags: "#shooting, #lingerie, #photography, #model"
+  - username: "ilmio_of"
+    fullname: >-
+      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
+    bio: >-
+      
+    location: "Colombia"
+    followers: 47717
+    engagement: 172
+    commentsToLikes: 0.158931
+    id: ck6ub58fr7jg10j71j2v6lxuh
+    verified: false
+    hashtags: "#dress, #mirrorselfie, #botines, #neon"
   - username: "nanis8a"
     fullname: >-
       Nanis Ochoa
+    bio: >-
+      Actriz, Modelo, Empresaria Colombiana @losconsejitosdenanis #Nanis8atips Booking: info@nanis8a.com 💎 salmos 91.
     location: "Colombia"
-    followers: 714802
-    engagement: 205
-    commentsToLikes: 0.021620
+    followers: 766251
+    engagement: 154
+    commentsToLikes: 0.019555
     id: ck0tvdik6ayzn0i1919jwpzd1
     verified: true
-    hashtags: "#wine, #night, #tbt, #latina"
-  - username: "vanessadonatoo"
+    hashtags: "#lingerie, #latina, #embarazada, #inspiracion"
+  - username: "ramvidzapata"
     fullname: >-
-      Vanessa Donato
+      🆁🅰🅼🆅🅸🅳
+    bio: >-
+      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ ✳️ @scrufflatino Influencer🏳️‍🌈 🍑@WeCakdUP Ambassador💊 🇻🇪Living in Bogota🇻🇪
     location: "Colombia"
-    followers: 4345
-    engagement: 1299
-    commentsToLikes: 0.075764
-    id: ck5bwxdflmlf90i11xhqnxoqr
+    followers: 65330
+    engagement: 264
+    commentsToLikes: 0.020057
+    id: ck6u070hhdyy10j71x6lygpcd
     verified: false
-    hashtags: "#mornings, #love, #modeling, #mood"
-  - username: "tatianaugirardi"
-    fullname: >-
-      Tatiana USSA GIRARDI
-    location: "Colombia"
-    followers: 1727380
-    engagement: 160
-    commentsToLikes: 0.011152
-    id: ck5znbvv9o5x70i143pee9whu
-    verified: true
-    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
+    hashtags: "#me, #lingerie, #fit, #men"
   - username: "jenncortes27"
     fullname: >-
-      Jennifer Cortés 🌙
+      𝓙 𝓮 𝓷 𝓷  𝓒 𝓸 𝓻 𝓽 𝓮́ 𝓼 🌙
+    bio: >-
+      • Medellín 📍 • Owner @amerielingerie 🌼 • Backup account: @jenncortes.r27 • Exclusive Content 💥⬇️
     location: "Colombia"
-    followers: 42228
-    engagement: 438
-    commentsToLikes: 0.015211
+    followers: 42087
+    engagement: 433
+    commentsToLikes: 0.013996
     id: ck55pt2uhbbiy0i11jqef9voa
     verified: false
-    hashtags: "#blacklove, #streetstyle, #blackoutfit, #tattoostuff"
-  - username: "dani.labelle"
+    hashtags: "#girlswithtattoos, #lingerie, #blondehair, #tattoostuff"
+  - username: "felipebohorquez"
     fullname: >-
-      𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
+      Felipe Bohorquez G.F.M
+    bio: >-
+      ⬇️ ⬇️ WhatsApp ⬇️ ⬇️ - Medellín Colombia
     location: "Colombia"
-    followers: 12335
-    engagement: 549
-    commentsToLikes: 0.047535
-    id: ck5c5ieb13iyz0i11g7jc49ac
+    followers: 61532
+    engagement: 177
+    commentsToLikes: 0.009212
+    id: ck0w71qr2bbvc0i19gyj7q3os
     verified: false
-    hashtags: "#yellow, #reality, #model, #cigarette"
+    hashtags: "#beauty, #girl, #model, #facetimephotoshoot"
+  - username: "sasagonzalezg"
+    fullname: >-
+      Sasa González💞
+    bio: >-
+      Youtuber 🎬 Lo siento, perdón, gracias, te amo! @ziba.sport @diletto.makeup Nuevo vídeo en mi canal de YouTube! vayan a verlo👀 👇 👇 👇 👇
+    location: "Colombia"
+    followers: 32936
+    engagement: 256
+    commentsToLikes: 0.043200
+    id: ck5zvs3ay4tjv0i14vx100z7b
+    verified: false
+    hashtags: "#model, #motivacion, #gym, #labiosnude"
+  - username: "itzmanaponcec"
+    fullname: >-
+      Itz
+    bio: >-
+      📍🇲🇽 Gracias por seguir mis locuras🙏 🌈Amor y respeto por sobre todo Cuenta de respaldo @itzponcec Sesiones 📸 DM @encontrando_la_sanacion
+    location: "Colombia"
+    followers: 163463
+    engagement: 365
+    commentsToLikes: 0.010892
+    id: ck5ho18j4oqyp0i11bpsevze2
+    verified: false
+    hashtags: "#instamoment, #instagood, #lifestyle, #instagirl"
 ---

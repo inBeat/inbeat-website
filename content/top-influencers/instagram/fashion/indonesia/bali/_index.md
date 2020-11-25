@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Bali In 2020
 description: >-
-  Find top fashion Instagram influencers in Bali in 2020. Most popular hashtags: #fashionbali #fashion #balidaily #balibeaches.
+  Find top fashion Instagram influencers in Bali in 2020. Most popular hashtags: #bali #baliindonesia #balilife #fashion.
 platform: Instagram
+hits: 193
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 193 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "jenniferbachdim"
+  - username: "katie_sudekova"
     fullname: >-
-      Jennifer Bachdim
+      KATIE SUDEKOVA
+    bio: >-
+      PHOTOGRAPHER WORLDWIDE 📍 BALI 🌴🐍
     location: "Indonesia"
-    followers: 1071805
-    engagement: 321
-    commentsToLikes: 0.006016
-    id: ck0tv4e1d9vsq0i19auki7vjw
-    verified: true
-    hashtags: "#sponsored, #happysunday, #weareinthistogether, #workoutwithjenchallenge"
-  - username: "karina_razumnaya"
-    fullname: >-
-      Karina Razumnaya
-    location: "Indonesia"
-    followers: 5409
-    engagement: 837
-    commentsToLikes: 0.056273
-    id: ck8sx17f8fvc90j78f1fpibci
+    followers: 20588
+    engagement: 369
+    commentsToLikes: 0.027834
+    id: ck6twxo0xup100j71wgoqe7nr
     verified: false
-    hashtags: "#balivibes, #loveintentionally, #balidaily, #balilove"
-  - username: "nomad_habits"
+    hashtags: "#beauty, #picoftheday, #fashion, #bali"
+  - username: "omararef"
     fullname: >-
-      PHOTOGRAPHY BUSINESS COACH
+      Omar
+    bio: >-
+      
     location: "Indonesia"
-    followers: 20710
-    engagement: 270
-    commentsToLikes: 0.058105
-    id: ck5zuvwiv351r0i14pg8agc3e
+    followers: 32619
+    engagement: 157
+    commentsToLikes: 0.080470
+    id: ck55nvzq673zu0i11xlrkj39c
     verified: false
-    hashtags: "#instagramisfake, #fashionbali, #nomadwosdom, #coronatalk"
-  - username: "gophotoshoot"
+    hashtags: "#travelgram, #beachmodel, #naturephotography, #vintagestyle"
+  - username: "krsty_d"
     fullname: >-
-      PAULIUS STEFANOVICIUS | BALI 🌴
+      KRISTINA D
+    bio: >-
+      🇲🇨 @castawaymodelmanagement 🇧🇬 @visages_models
     location: "Indonesia"
-    followers: 11491
-    engagement: 808
-    commentsToLikes: 0.012757
-    id: ck15pqq5wz6q30i19vxqlyqh6
+    followers: 3673
+    engagement: 668
+    commentsToLikes: 0.068391
+    id: ck6tipsz416sb0j71grayqgyn
     verified: false
-    hashtags: "#walkforfreedom, #artphotographer, #freeworld, #balibagus"
-  - username: "cumlaude_octaviani"
+    hashtags: "#baliphotographers, #baliphoto, #balimodels, #modelslifestyle"
+  - username: "thib_sel"
     fullname: >-
-      ☾𝘂𝗺𝗹𝗮𝘂𝗱𝗲
+      
+    bio: >-
+      📍Sevilla Faites décoller vos ventes ⬇️⬇️⬇️
     location: "Indonesia"
-    followers: 26667
-    engagement: 161
-    commentsToLikes: 0.014155
-    id: ck6u0rw11hern0j71om5iqsri
+    followers: 16814
+    engagement: 582
+    commentsToLikes: 0.051479
+    id: ck8syrktjlqk70j78weosc66a
     verified: false
-    hashtags: "#reddress, #psychocute, #bikinibali, #ootdinspiration"
-  - username: "nai_arief"
+    hashtags: "#ad, #canggu, #belgium, #bali"
+  - username: "gekanikesnawa_"
     fullname: >-
-      𝒩𝒶𝒾  𝒜𝓇𝒾𝑒𝒻 📍Ⓑ̣̣̣Ⓐ̣̣̣Ⓛ̣̣̣Ⓘ
+      m s.   G E K✨
+    bio: >-
+      “a dreamer with a million symphony in her mind”
     location: "Indonesia"
-    followers: 29996
-    engagement: 260
-    commentsToLikes: 0.027099
-    id: ck6twpfcwtc5f0j71szen451w
+    followers: 3204
+    engagement: 1673
+    commentsToLikes: 0.039326
+    id: ck13cx75w2ltp0i19otxp81hs
     verified: false
-    hashtags: "#balitraining, #baligirls, #independentwoman, #baliunited"
-  - username: "wonderful.indonesiaku"
+    hashtags: "#nusaduabeach, #travelgram, #savenowtravellater, #gekanistory"
+  - username: "cantik_ayubali"
     fullname: >-
-      Generasi Pesona Indonesia
+      CANTIK BALI | FOLLBACK SEMETON
+    bio: >-
+      GALERI SUKA SUKA,has tag #cantikayubali for us to post!!! based in BALI YUK FOLLOW👉👉@cantik_ayubali & tag @cantik_ayubali
     location: "Indonesia"
-    followers: 211661
-    engagement: 119
-    commentsToLikes: 0.010624
-    id: ck5zik7akfv560i14xbmdqsxt
+    followers: 54714
+    engagement: 350
+    commentsToLikes: 0.025875
+    id: ck0vwilyvtz900i19mm455hlc
     verified: false
-    hashtags: "#southeastasian, #ruangdetikmuslim, #negriakhirat, #photooftheday"
-  - username: "marialerner"
+    hashtags: "#balijegeg, #cantiksexy, #cewek, #jegbali"
+  - username: "varyabaikova"
     fullname: >-
-      Maria Lerner
+      JAKARTA MODEL
+    bio: >-
+      Currently represented by @amormodel 🇷🇺 @moremodelmanagement All about Aesthetic & Style Fashion content creation ⠀ 📍Jakarta
     location: "Indonesia"
-    followers: 9973
-    engagement: 467
-    commentsToLikes: 0.073141
-    id: ck5hkl8teimiy0i11q9a7f6ez
+    followers: 48090
+    engagement: 282
+    commentsToLikes: 0.015188
+    id: ck5cho319r5610i117ptkkz2m
     verified: false
-    hashtags: "#dressforrent, #islandstyle, #blueplanet, #underwaterlife"
-  - username: "glenkrohn"
+    hashtags: "#baliblogger, #modelbali, #baliphotoshoot, #jakartablogger"
+  - username: "model_gadies"
     fullname: >-
-      Glen krohn ⚡️
+      💘Christina❤
+    bio: >-
+      Sukses Tidak Pernah Dimiliki. Itu Disewakan, dan Sewa jatuh tempo Setiap hari. ✌terimakasih teman2 baik hati️ suda follow aku 😍❤️
     location: "Indonesia"
-    followers: 182211
-    engagement: 324
-    commentsToLikes: 0.013005
-    id: ck0u2jlqb006e0i19b9zmavlq
+    followers: 73163
+    engagement: 168
+    commentsToLikes: 0.019516
+    id: ckaotu3ubxj0m0i783wqmd88z
     verified: false
-    hashtags: "#bali, #35mm"
-  - username: "alicemamonova.com_"
+    hashtags: "#tiktokindonesia, #hijabers, #wanitabali, #kekinianbanget"
+  - username: "shelby_nugroho"
     fullname: >-
-      PHOTOGRAPHER BALI
+      Bali Fashion Photographer
+    bio: >-
+      📍Bali
     location: "Indonesia"
-    followers: 18532
-    engagement: 256
-    commentsToLikes: 0.010085
-    id: ck5hkkz9cim1w0i11cqywxq8m
+    followers: 32947
+    engagement: 108
+    commentsToLikes: 0.013952
+    id: ck0vwo9ucurux0i19wm5jgwyx
     verified: false
-    hashtags: "#baliphotographer, #photographerbali, #photohrapherbali, #facetimephotoshoot"
+    hashtags: "#baliphotoshoot, #baliphotographer, #balimodel, #balibabes"
+  - username: "candicehalliday"
+    fullname: >-
+      Candice Halliday.Model.Bali
+    bio: >-
+      𓋹 𓋴 𓍑 Being of light 𓆸 V gang 🌱🥑𓂀 Teaching Himilayan kriya yoga 🧘🏾‍♀️ Meditation, Moon Circles 🌚🌝 𓆃
+    location: "Indonesia"
+    followers: 14971
+    engagement: 227
+    commentsToLikes: 0.102200
+    id: ck0tvgzdpbb4f0i191u2blz1c
+    verified: false
+    hashtags: "#indonesia, #balibabe, #balilife, #balibabes"
 ---

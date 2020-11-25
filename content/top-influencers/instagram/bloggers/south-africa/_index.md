@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In South Africa In 2020
 description: >-
-  Find top bloggers Instagram influencers in South Africa in 2020. Most popular hashtags: #tradeexchange #lifestyle #happybirthday #love.
+  Find top bloggers Instagram influencers in South Africa in 2020. Most popular hashtags: #capetown #southafrica #love.
 platform: Instagram
+hits: 32
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 32 Instagram influencers like this in South Africa for you to connect with.
 profiles:
-  - username: "janwillemplug"
-    fullname: >-
-      the Instatripper
-    location: "South Africa"
-    followers: 90108
-    engagement: 431
-    commentsToLikes: 0.097037
-    id: ckaox7lexc5070i78xy0a6bkf
-    verified: false
-    hashtags: "#mountainview, #zuidafrika, #penang, #positiveenergy"
-  - username: "raising.wildlings_"
-    fullname: >-
-      Raising Wildlings
-    location: "South Africa"
-    followers: 22252
-    engagement: 559
-    commentsToLikes: 0.273742
-    id: ck5q8gfat61yd0i11untwxg2y
-    verified: false
-    hashtags: "#letsbuildtogether, #mondaythoughts, #thelockdownlowdown, #wheresthechampagne"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
+    bio: >-
+      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
     location: "South Africa"
-    followers: 27499
-    engagement: 356
-    commentsToLikes: 0.164399
+    followers: 27278
+    engagement: 355
+    commentsToLikes: 0.162121
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#christmas, #beauty, #fitbit, #gifted"
-  - username: "bleachbomb_"
-    fullname: >-
-      No longer A Persona
-    location: "South Africa"
-    followers: 7674
-    engagement: 1421
-    commentsToLikes: 0.028298
-    id: ck6tpan01ir7k0j71few75m91
-    verified: false
-    hashtags: "#pumacells, #contentcreator, #colouredbeauty, #tattooideas"
-  - username: "travelwithmila_"
-    fullname: >-
-      𝐌 𝐈 𝐋 𝐀
-    location: "South Africa"
-    followers: 2558
-    engagement: 1849
-    commentsToLikes: 0.099384
-    id: ck8t3vgwg4n4q0j78wjnqep7t
-    verified: false
-    hashtags: "#jumeirahhotels, #ootdguide, #mydubai, #dubaimarina"
-  - username: "justin_uncorked"
-    fullname: >-
-      J U S T I N _ U N C O R K E D
-    location: "South Africa"
-    followers: 5470
-    engagement: 985
-    commentsToLikes: 0.059925
-    id: ck5bymf2wpfes0i11rn0gt3mt
-    verified: false
-    hashtags: "#beering, #instabirthday, #redheart, #harvest"
-  - username: "jadezammitstevens"
-    fullname: >-
-      As told by Jade
-    location: "South Africa"
-    followers: 22280
-    engagement: 732
-    commentsToLikes: 0.023843
-    id: ck6tm66s8790d0j71tnq2jwhr
-    verified: false
-    hashtags: "#wipeitdown, #60smakeup, #workout, #readingtime"
-  - username: "willyspirituales"
-    fullname: >-
-      Willy🇨🇭 Morales🇪🇸
-    location: "South Africa"
-    followers: 15232
-    engagement: 309
-    commentsToLikes: 0.095458
-    id: ck6ub37mt77b70j71t021b8m5
-    verified: false
-    hashtags: "#corestrength, #plants, #lovers, #clearvoyance"
-  - username: "her.scattered.petals"
-    fullname: >-
-      Loren Best | Content Creator
-    location: "South Africa"
-    followers: 6704
-    engagement: 461
-    commentsToLikes: 0.239296
-    id: ck6u2dkpzr77g0j71ew4vlafs
-    verified: false
-    hashtags: "#lockdown, #gift, #onlinestore, #naturalbeauty"
+    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
   - username: "tailsofamermaid"
     fullname: >-
       Natalie Roos
+    bio: >-
+      🤓 Influencer Relations Director 🇿🇦 South African 📷 Travel Blogger & Photographer 🏠 Cape Town/Nairobi 👩🏼‍💻Travel inspo & more:
     location: "South Africa"
-    followers: 22649
-    engagement: 302
-    commentsToLikes: 0.048450
+    followers: 23705
+    engagement: 355
+    commentsToLikes: 0.134745
     id: ck55j0i1pvyjp0i11bmfh9euj
     verified: false
-    hashtags: "#curlygirlmethod, #safari, #southafrica, #themajlis"
+    hashtags: "#capetown, #nairobinationalpark, #safari, #villarosakempinski"
+  - username: "jadezammitstevens"
+    fullname: >-
+      As told by Jade
+    bio: >-
+      𝐹𝑎𝑠ℎ𝑖𝑜𝑛 & 𝐵𝑒𝑎𝑢𝑡𝑦 🥰 Maltese 🇲🇹 Handmade Scrunchies: @jadewithlove_x 💕 Award Winning Fashion Blogger 2017 💖 AI Graduate 🎓 Full Stack Developer 🤓
+    location: "South Africa"
+    followers: 24554
+    engagement: 629
+    commentsToLikes: 0.026670
+    id: ck6tm66s8790d0j71tnq2jwhr
+    verified: false
+    hashtags: "#machalloween, #photooftheday, #31daysofhalloween, #undiscovered"
+  - username: "alexjamiie"
+    fullname: >-
+      alex jamie
+    bio: >-
+      🇿🇦 Romans 8:18 🕊 brand content creator/model fashion & lifestyle blogger💻👡🍜💄 IGTV vlogs & tutorials ✨ 📨:alexjammiie@gmail.com
+    location: "South Africa"
+    followers: 33636
+    engagement: 544
+    commentsToLikes: 0.023588
+    id: ck5hgbhmm1wyk0i119apne6tk
+    verified: false
+    hashtags: "#mentalhealthmatters, #mentalhealthawareness, #ootdfashion, #forgirlsbygirls"
+  - username: "fashionfundi"
+    fullname: >-
+      Tarryn Candice Els
+    bio: >-
+      South African Award Winning Content Creator & Blogger Fashion | Beauty | Travel | Lifestyle 💌 fashionfundiblog@gmail.com
+    location: "South Africa"
+    followers: 24086
+    engagement: 201
+    commentsToLikes: 0.145856
+    id: ck6u3mc62ylxs0j717hq7pfg0
+    verified: false
+    hashtags: "#instareels, #summer2020, #highendfashion, #instafashion"
+  - username: "justin_uncorked"
+    fullname: >-
+      J U S T I N _ U N C O R K E D
+    bio: >-
+      | The Wine, Spirits & Lifestyle Blogger |🍷 | Advocate for SA Wines & Spirits | 🇿🇦 | BCom (Hons) | 🎓 📧 Justingous@icloud.com
+    location: "South Africa"
+    followers: 6592
+    engagement: 665
+    commentsToLikes: 0.047841
+    id: ck5bymf2wpfes0i11rn0gt3mt
+    verified: false
+    hashtags: "#potd, #wineglass, #winetalk, #fridaymood"
+  - username: "mariahmcalpin"
+    fullname: >-
+      Mariah Ezra | 🇺🇸 🇿🇦
+    bio: >-
+      📍 florida ⇄ cape town product photographer | blogger | videographer 🎙Co-Host on: The Adventure Continues podcast ⇩ YOUTUBE / PRESETS / PODCAST/ LTK ⇩
+    location: "South Africa"
+    followers: 36019
+    engagement: 229
+    commentsToLikes: 0.069453
+    id: ck5ci8ds3s7e10i11tkv4cmm6
+    verified: false
+    hashtags: "#prettylittleiiinspo, #youthgoals, #blondesandcookies, #fujifilm"
+  - username: "trannetastravels"
+    fullname: >-
+      Myriam Trannet
+    bio: >-
+      📍Egypt based ✈ Lifestyle & Travel Blogger ♥ Mamma @diaryofamamma ✎ DM | email for collabs ↡
+    location: "South Africa"
+    followers: 49206
+    engagement: 145
+    commentsToLikes: 0.023810
+    id: ck55k6hlgyl810i11d4shhetv
+    verified: false
+    hashtags: "#thisisegypt, #trannetastravels, #travelblogger, #dametraveler"
+  - username: "roxyburger"
+    fullname: >-
+      Roxy Burger
+    bio: >-
+      TV Presenter. Host of @eonlineafrica’s How Do I Look? SA. Celeb Blogger & Content Creator. Founder of @linearluxe 💎 & co-owner of @goodhustleza 🎥
+    location: "South Africa"
+    followers: 56487
+    engagement: 299
+    commentsToLikes: 0.073361
+    id: ck6tu7myverqo0j71iz6hasix
+    verified: true
+    hashtags: "#setlife, #thefourthtrimester, #m2bwishlist, #mamamagic"
+  - username: "alettewinckler"
+    fullname: >-
+      🅐🅛🅔🅣🅣🅔 ⓌⒾⓃⒸⓀⓁⒺⓇ
+    bio: >-
+      Jesus Girl|Wife|Mom2.4|Author|Speaker| Boss Lady|Image Consultant|Personal Shopper|Wardrobe Stylist| TV Host|Style Blogger|B.A Journalism|AICI CIC|
+    location: "South Africa"
+    followers: 38833
+    engagement: 242
+    commentsToLikes: 0.020252
+    id: ck9hbbagjg4g70j783r1smr49
+    verified: false
+    hashtags: "#keepupthehope, #keepthefaith, #gediggiesvirvrolikegesiggies, #interview"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Brazil In 2020
 description: >-
-  Find top vegan TikTok influencers in Brazil in 2020. Most popular hashtags: #vegan #vegano #dogsoftiktok #humor.
+  Find top vegan TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #humor #dance.
 platform: TikTok
+hits: 45
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 45 TikTok influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "luis_valerio_"
+    fullname: >-
+      Luís Valério
+    bio: >-
+      Artista livre! Porto Alegre - RS #Orgulholgbtqia🌈 #Vegano💚
+    location: "Brazil"
+    followers: 14700
+    engagement: 3399
+    commentsToLikes: 0.183501
+    id: ck9nai9jea9oc0j78i2l812uv
+    verified: false
+    hashtags: "#humor, #brasil, #sexualidaden, #pol"
+  - username: "renata.c.schneider"
+    fullname: >-
+      Renata Schneider 
+    bio: >-
+      Atriz•Bailarina•Patinadora•Vegana Canal: Criatividade4 •Segue no insta• 🏳️‍🌈
+    location: "Brazil"
+    followers: 1100000
+    engagement: 2726
+    commentsToLikes: 0.018150
+    id: ck9gko78dkhva0j78g2lc0dte
+    verified: false
+    hashtags: "#dance, #ballet, #disney, #vegano"
+  - username: "patricia.zanella"
+    fullname: >-
+      Patricia Zanella
+    bio: >-
+      De frente com Patricia 🙅🏽‍♀️ #foraBozo, vegana, mestra em Direito e deboche 🌱
+    location: "Brazil"
+    followers: 4974
+    engagement: 1289
+    commentsToLikes: 0.064505
+    id: ckc36qlk7vmao0j23c5kubja7
+    verified: false
+    hashtags: "#vegetarianismo, #vegano, #veganismo, #govegan"
   - username: "veguia"
     fullname: >-
       Veguia
+    bio: >-
+      🌱 Guia vegano de vídeos, receitas, lugares e marcas. Liberdade animal! 🐷💚
     location: "Brazil"
-    followers: 6635
-    engagement: 1587
-    commentsToLikes: 0.031683
+    followers: 6629
+    engagement: 1542
+    commentsToLikes: 0.031486
     id: ck8s84d0ys0hu0j78osq04x7u
     verified: false
-    hashtags: "#gato, #baixadasantista, #imita, #bondade"
-  - username: "bernardovillasboas"
+    hashtags: "#videosfofos, #fofo, #dog, #vegano"
+  - username: "ecoativismo"
     fullname: >-
-      Bernardo Villas Bôas
+      Efe
+    bio: >-
+      Educação socioambiental Veganismo político e popular (Qqr pronome) 🚩🏳️‍🌈🌱
     location: "Brazil"
-    followers: 6086
-    engagement: 1146
-    commentsToLikes: 0.032434
-    id: ckacn6ibtmm8h0i78xmwvvtxs
+    followers: 10300
+    engagement: 2129
+    commentsToLikes: 0.030561
+    id: ckdte2skavknd0j23l5dgqbco
     verified: false
-    hashtags: "#waves, #hike, #beautiful, #50centchallenge"
-  - username: "victorkreutz"
+    hashtags: "#politica, #meioambiente, #ecossocialismo, #pantanal"
+  - username: "isadorabrgess"
     fullname: >-
-      Victor Kreutz 
+      Isadora ♡
+    bio: >-
+      Instagram: @isadorabrges Bichinhos fofinhos e Veganismo 🌿✨
     location: "Brazil"
-    followers: 2614
-    engagement: 769
-    commentsToLikes: 0.035199
-    id: ck8sdgt4wfhnp0j78ohnikh8d
+    followers: 29200
+    engagement: 1184
+    commentsToLikes: 0.000000
+    id: ckdte2txhvkq70j23cx3de0by
     verified: false
-    hashtags: "#cantadasruins, #cover, #lancheemcasa, #bitchface"
-  - username: "vegasmakeup"
+    hashtags: "#comidavegana, #veganismoporamor, #veganismo, #considereoveganismo"
+  - username: "7elder7"
     fullname: >-
-      Vegas Makeup
+      Elder Pacheco
+    bio: >-
+      Aquário. Vegetariano. SC.🛸 Podcast Unicórnio viajante
     location: "Brazil"
-    followers: 16310
-    engagement: 1079
-    commentsToLikes: 0.014477
-    id: ck8s5j4mkg3dw0j78v0gyr78j
+    followers: 8683
+    engagement: 1610
+    commentsToLikes: 0.076108
+    id: cka0to0ewqqlo0i780731n4xx
     verified: false
-    hashtags: "#vegasmaquiagem, #challege, #allinmake, #lapiscolor"
-  - username: "rafarochaveg"
+    hashtags: "#foryoupage, #foryourpage, #fy, #foryou"
+  - username: "rafahoney"
     fullname: >-
-      Rafa Rocha 🌿 
+      Rafael
+    bio: >-
+      Garoto! (ele/dele) Lives todo dia 21h Monbebe, Stay e NCTzen ↓NÃO CLIQUEM NO LIN
     location: "Brazil"
-    followers: 9646
-    engagement: 737
-    commentsToLikes: 0.020883
-    id: ck8vxlum9rgc10j78a9h3ci5q
+    followers: 944900
+    engagement: 2850
+    commentsToLikes: 0.029785
+    id: ck986jggkx0fk0j78gv5ftifx
     verified: false
-    hashtags: "#queijovegano, #vegana, #comidajaponesa, #vidasaud"
-  - username: "mandy.owl"
+    hashtags: "#halloween, #fyp, #comedia, #humor"
+  - username: "palearcticboy"
     fullname: >-
-      Amanda Ibraimovic
+      Tiago Justi.
+    bio: >-
+      KISS CHALLANGE EM CASAL 🏳️‍🌈 ↙️
     location: "Brazil"
-    followers: 2064
-    engagement: 795
-    commentsToLikes: 0.043185
-    id: ckac8k65rfizq0i789fg25kiu
-    verified: false
-    hashtags: "#icecream, #veganrecipe, #smoothie, #bolo"
-  - username: "bandadongodongo"
+    followers: 86700
+    engagement: 2436
+    commentsToLikes: 0.095712
+    id: ckbb7h1r7xi080j23st9jwq8s
+    verified: true
+    hashtags: "#fy, #viral, #brasil, #foryou"
+  - username: "freedy_sheik"
     fullname: >-
-      Dongo Dongo
+      👳🏻‍♂️✨👳🏻‍♂️
+    bio: >-
+      Instagram follow my
     location: "Brazil"
-    followers: 42365
-    engagement: 1578
-    commentsToLikes: 0.165721
-    id: ck8hmbfvelfdw0j78zo0wngd8
+    followers: 9554
+    engagement: 2414
+    commentsToLikes: 0.245721
+    id: ckdntzswumfxi0j23yfccuhe5
     verified: false
-    hashtags: "#arkham, #happy, #goat, #splatoon2"
-  - username: "lucascaldeiralc"
-    fullname: >-
-      Lucas Caldeira
-    location: "Brazil"
-    followers: 50727
-    engagement: 1037
-    commentsToLikes: 0.058229
-    id: ckahwkv8qr90v0i78fg0inu1b
-    verified: false
-    hashtags: "#dublagem, #humor, #fugitah, #fugitivah"
-  - username: "arypalmas"
-    fullname: >-
-      Áry Palma
-    location: "Brazil"
-    followers: 4647
-    engagement: 1383
-    commentsToLikes: 0.330115
-    id: ckan3lmo25vsg0i78qa6clxi0
-    verified: false
-    hashtags: "#engra, #vegan, #vidanomato, #hair"
-  - username: "nakednuts"
-    fullname: >-
-      Naked Nuts
-    location: "Brazil"
-    followers: 23344
-    engagement: 2181
-    commentsToLikes: 0.026181
-    id: ck9kgn6as8p4p0j783g2pnibw
-    verified: false
-    hashtags: "#piscininha, #challenge, #vegan, #cookie"
+    hashtags: "#fotos, #freedy, #fyp, #love"
 ---

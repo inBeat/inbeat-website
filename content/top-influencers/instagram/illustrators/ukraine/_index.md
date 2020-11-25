@@ -1,32 +1,65 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top illustrators Instagram influencers in Ukraine in 2020. Most popular hashtags: #doodle #artist #savetheplanet #stayhome.
+  Find top illustrators Instagram influencers in Ukraine in 2020. Most popular hashtags: #illustration #illustrator #characterdesign #drawing.
 platform: Instagram
+hits: 23
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 23 Instagram influencers like this in Ukraine for you to work with.
 profiles:
-  - username: "lanaillustrations"
+  - username: "brodberick"
     fullname: >-
-      SVITLANA ❣️ ILLUSTRATOR
+      Caroline Brodberick
+    bio: >-
+      📍 sculptor / illustrator / photo & video maker 📩 cooperation: nyancaroline@gmail.com
     location: "Ukraine"
-    followers: 6642
-    engagement: 1100
-    commentsToLikes: 0.023860
-    id: ck134d4wnvv6v0i19kqmbxnb6
+    followers: 255148
+    engagement: 973
+    commentsToLikes: 0.026581
+    id: ckaoy2k0sfsiy0i78vpcfxv1z
     verified: false
-    hashtags: "#homewear, #sweden, #timelapse, #shopping"
-  - username: "victoria_kagalovska"
+    hashtags: "#diveintounhiddenimagination, #90svintage, #sculpture, #sunaesthetic"
+  - username: "grandpastasey"
     fullname: >-
-      Artist Victoria Kagalovska
+      𝚊𝚗𝚊𝚜𝚝𝚊𝚜𝚒𝚊
+    bio: >-
+      Fashion artist | illustrator ✉️anaperetiatko29@gmail.com 📨Commissions:open 📱Tik Tok- Grandpastasey 📍Ukraine 🇺🇦
     location: "Ukraine"
-    followers: 102061
-    engagement: 202
-    commentsToLikes: 0.110948
-    id: ck55minkc41rn0i115o7uqxk3
+    followers: 10209
+    engagement: 1234
+    commentsToLikes: 0.022777
+    id: ck9wf8r37nptf0j788c3qnxae
     verified: false
-    hashtags: "#artbrushchallenge"
+    hashtags: ""
+  - username: "kat_branch"
+    fullname: >-
+      Katerina Branchukova
+    bio: >-
+      ILLUSTRATOR ᑌKᖇᗩIᑎE 🇺🇦 💌katyabranch@gmail.com
+    location: "Ukraine"
+    followers: 42298
+    engagement: 509
+    commentsToLikes: 0.028275
+    id: ck0w2u2pyq6o30i19mp2ns61s
+    verified: false
+    hashtags: "#cartoon, #illustrator, #best, #gift"
+  - username: "lilys_wonders"
+    fullname: >-
+      Lily
+    bio: >-
+      🍁Illustrator & character designer ✨freelancer Commissions: closed 📮lily.konyukh@gmail.com
+    location: "Ukraine"
+    followers: 84510
+    engagement: 607
+    commentsToLikes: 0.017680
+    id: ck0w2iox8ok800i19ijdtpxwp
+    verified: false
+    hashtags: "#illustrationart, #illustrationnow, #illustrationgram, #illustrationoftheday"
   - username: "dukhovnoe_litso"
     fullname: >-
       Maria Oz
+    bio: >-
+      Visual artist, animation director, illustrator, content creator 🎬 ✉️ Contact me ✉️ dukhovnoe.litso@gmail.com
     location: "Ukraine"
     followers: 135909
     engagement: 270
@@ -34,74 +67,64 @@ profiles:
     id: ck5zxhkuu80tt0i14cufsav5i
     verified: true
     hashtags: "#honorview30pro"
-  - username: "sadova_art"
+  - username: "lanaillustrations"
     fullname: >-
-      SADOVA IRYNA ☾ ILLUSTRATOR
+      SVITLANA ❣️ ILLUSTRATOR
+    bio: >-
+      • Freelance illustrator • for inquiries: lanasillustrations@gmail.com
     location: "Ukraine"
-    followers: 13349
-    engagement: 476
-    commentsToLikes: 0.033087
-    id: ck0vuvwpzmej40i192rivv97v
+    followers: 8256
+    engagement: 1034
+    commentsToLikes: 0.028627
+    id: ck134d4wnvv6v0i19kqmbxnb6
     verified: false
-    hashtags: "#inthecastle, #bookcharacter, #oldlibrary, #workplace"
-  - username: "anni_tett"
-    fullname: >-
-      Tania Yakunova
-    location: "Ukraine"
-    followers: 6016
-    engagement: 1565
-    commentsToLikes: 0.028249
-    id: ckaotc3ysv9i40i78j4dt2lav
-    verified: false
-    hashtags: "#leadership, #bookcoverdesign, #doodlesofinstagram, #womenillustrators"
-  - username: "tanyachulkova"
-    fullname: >-
-      Fashion illustrator - Ukraine
-    location: "Ukraine"
-    followers: 52264
-    engagement: 219
-    commentsToLikes: 0.011144
-    id: ck6uht1znb2w90j716uepdbrr
-    verified: false
-    hashtags: "#chanellelift, #sketbook, #dior, #covid"
+    hashtags: "#design, #dawn, #digitalart, #weloveillustration"
   - username: "nataly_owl"
     fullname: >-
       Natalia Shaloshvili
+    bio: >-
+      Artist of cute animals Children's books illustrator and author Represented by @goodillo.kids Contact me: natalia.shaloshvili@gmail.com
     location: "Ukraine"
-    followers: 16948
-    engagement: 1411
-    commentsToLikes: 0.019656
+    followers: 37230
+    engagement: 1088
+    commentsToLikes: 0.016489
     id: ck8t5hlt1a6g30j78w17u23is
     verified: false
-    hashtags: "#painter, #acrylicpaint, #childrensbooks, #childrenbookart"
-  - username: "dashahorb"
+    hashtags: "#artcollection, #acryliconcanvas, #childrensbook, #picturebookmaker"
+  - username: "sadova_art"
     fullname: >-
-      Dasha Horb | Illustrator
+      IRYNA SADOVA® ☾ ILLUSTRATOR
+    bio: >-
+      ☾ BOOK illustrator and storyteller ☾ DIGITAL and OIL artist ☾ For work and collaboration ⇨ direct or by email: sadova.art@gmail.com 📍Kiev, Ukraine
     location: "Ukraine"
-    followers: 6301
-    engagement: 1084
-    commentsToLikes: 0.043656
-    id: ck6tuecsrfupo0j71doinmhrm
+    followers: 12886
+    engagement: 374
+    commentsToLikes: 0.025258
+    id: ck0vuvwpzmej40i192rivv97v
     verified: false
-    hashtags: "#illustrationart, #artwork, #watercolorartwork, #illust"
-  - username: "oliamuza"
+    hashtags: "#picturebook, #kidlit, #kidlitart, #children"
+  - username: "ooh_lily"
     fullname: >-
-      muza
+      𝙻𝚒𝚕𝚢 ♡
+    bio: >-
+      ◦ Illustrator: #by_oohlily ◦ content creator: @ooh.content ♡ створю найкращі акварельні дизайни для вас ♡ надихну на творчість та затишок
     location: "Ukraine"
-    followers: 10820
-    engagement: 838
-    commentsToLikes: 0.023878
-    id: ck5zrdzuhwenv0i14pl4x7hea
+    followers: 25540
+    engagement: 623
+    commentsToLikes: 0.012316
+    id: ck6tqd2bjqr6s0j71mu7lh1hx
     verified: false
-    hashtags: "#watercolor, #vegan, #creepy, #inktober2019"
-  - username: "marthaoborska"
+    hashtags: "#by, #oohlily"
+  - username: "anta_rf"
     fullname: >-
-      Martha’s aesthetic daybook
+      Artist illustrator
+    bio: >-
+      💛💙Ukrainian artist illustrator @anta.frirean I just like coming here to sketch people in crisis Weimar🇩🇪 Bauhaus|Visual Design id pic by @pervotsve.t
     location: "Ukraine"
-    followers: 17554
-    engagement: 361
-    commentsToLikes: 0.032543
-    id: ck0w14uevhkgf0i19946zbnxk
+    followers: 31342
+    engagement: 677
+    commentsToLikes: 0.006085
+    id: ck5zj0r4ogqb30i14fdqd1b3w
     verified: false
-    hashtags: "#nastyaivleeva, #billieeilish, #vibe, #onobeauty"
+    hashtags: "#sketchbook, #drawing, #art, #portrait"
 ---

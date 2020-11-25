@@ -1,62 +1,53 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Chicago In 2020
 description: >-
-  Find top photographers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #photographer #85mm #urban.
+  Find top photographers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #artofchi #portraitpage.
 platform: Instagram
+hits: 198
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 198 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "katiekett"
     fullname: >-
       Katie Kett
+    bio: >-
+      Mama to Liam 👦🏼 & Theo 👶🏼 Lifestyle & Wedding Photographer • Chicago
     location: "United States"
-    followers: 4907
-    engagement: 713
-    commentsToLikes: 0.046680
+    followers: 4951
+    engagement: 496
+    commentsToLikes: 0.044083
     id: ck6u2wn3oucfn0j710idq6clg
-    verified: false
-    hashtags: "#letsallbewell, #letsallbewellmoms, #pgkkroadtrip4life"
-  - username: "thebalancedwhisk"
-    fullname: >-
-      Abby Marie
-    location: "United States"
-    followers: 4322
-    engagement: 2285
-    commentsToLikes: 0.336554
-    id: ck55m77vv3dpd0i11ciohqm9d
-    verified: false
-    hashtags: "#npcnationals, #veggieburger, #mocktailrecipe, #healthyliving"
-  - username: "_ohhsolovely"
-    fullname: >-
-      Esther Baban
-    location: "United States"
-    followers: 10473
-    engagement: 423
-    commentsToLikes: 0.016572
-    id: ck6tymcgo4l1r0j71ild6d1fo
     verified: false
     hashtags: ""
   - username: "cs_photographic"
     fullname: >-
       Coale Souder
+    bio: >-
+      Artist & Photographer Chicago, IL. 🇺🇸 Creature of the night.
     location: "United States"
-    followers: 11725
-    engagement: 919
-    commentsToLikes: 0.025838
+    followers: 12828
+    engagement: 860
+    commentsToLikes: 0.026364
     id: ckap1k1hnuv4b0i782ztnr0u9
     verified: false
-    hashtags: "#visualauthority, #creativeoptic, #symmetry, #bladerunner"
+    hashtags: "#houseoftones, #dof, #worldtones, #shotzdelight"
   - username: "johnstoffer"
     fullname: >-
       John Stoffer
+    bio: >-
+      Interior and Portrait Photographer || Chicago, IL
     location: "United States"
     followers: 107364
     engagement: 293
     commentsToLikes: 0.011465
     id: ck0tvdb8paxzw0i19po3xdy5i
     verified: true
-    hashtags: "#ad21, #negroni, #campari, #n100"
+    hashtags: "#negroni, #n100"
   - username: "barrybutler9"
     fullname: >-
       Barry Butler Chicago
+    bio: >-
+      Professional landscape photographer. Chicago/Ireland imagery. FAA UAS Remote Pilot. Helicopter aerial photography. Images taken/posted daily. Nikon.
     location: "United States"
     followers: 35141
     engagement: 493
@@ -64,44 +55,76 @@ profiles:
     id: ck0ttv3n24fwu0i1937jo3gg8
     verified: false
     hashtags: ""
-  - username: "theoldlifeofficial"
+  - username: "espressoandmartini"
     fullname: >-
-      The Old Life
+      Neha:  Wandering Consultant
+    bio: >-
+      📍#Seattle/ #Chicago Photographer/Blogger Travel || Fashion || Coffee Collabs - gurneha.naggi@gmail.com Currently living & exploring PNW
     location: "United States"
-    followers: 56075
-    engagement: 328
-    commentsToLikes: 0.008320
-    id: ck138767wetgc0i19ave2wijt
+    followers: 8686
+    engagement: 830
+    commentsToLikes: 0.105550
+    id: ck0u81sva68sp0i191it30awj
     verified: false
-    hashtags: "#harbor, #castle, #march, #oldphotography"
-  - username: "gretameyle"
-    fullname: >-
-      GRETA 💋
-    location: "United States"
-    followers: 2572
-    engagement: 1195
-    commentsToLikes: 0.103395
-    id: ck5cd848eipf30i11wxld6sfj
-    verified: false
-    hashtags: "#femaleartist, #adidaslover, #sundressseason, #lafashion"
+    hashtags: "#desiblogger, #seattlewashington, #fallphotography, #falloutfits"
   - username: "_dannyphoto_"
     fullname: >-
       Daniel Stewart
+    bio: >-
+      Chicago Photographer (primarily film)
     location: "United States"
-    followers: 13009
-    engagement: 1517
-    commentsToLikes: 0.028469
+    followers: 12522
+    engagement: 1592
+    commentsToLikes: 0.028206
     id: ck6u1rtmuniec0j71sda8cbn3
     verified: false
-    hashtags: "#5dmarkiv, #portra400, #a7rii, #blackpromist"
-  - username: "sapanahuja"
+    hashtags: "#vscocam, #portraitpage, #instamagazine, #cinestill800t"
+  - username: "jm_photography23"
     fullname: >-
-      S A P A N  |  A H U J A
+      Tyler James
+    bio: >-
+      SH. Published Chicago photographer/ actor represented by BMG and Paige model and talent. DM for Rates #chicagophotographer
     location: "United States"
-    followers: 22826
-    engagement: 33
-    commentsToLikes: 0.037212
-    id: ck15prxz1zcp20i19xxgg7gam
+    followers: 27108
+    engagement: 130
+    commentsToLikes: 0.020791
+    id: ck6tqrsnntmh90j71ub1siyfp
     verified: false
-    hashtags: "#diamonds, #preweddingshoot, #eosr, #elegantbride"
+    hashtags: ""
+  - username: "itscolinmiller"
+    fullname: >-
+      colin miller
+    bio: >-
+      los angeles via chicago photographer / film maker contact: colinmillermedia@gmail.com
+    location: "United States"
+    followers: 12873
+    engagement: 434
+    commentsToLikes: 0.018026
+    id: ck0u7aweg46hj0i191jf8hrpq
+    verified: false
+    hashtags: ""
+  - username: "ordavgeek"
+    fullname: >-
+      Kevin Cargo
+    bio: >-
+      Aviation photographer from Chicago.
+    location: "United States"
+    followers: 13915
+    engagement: 860
+    commentsToLikes: 0.060275
+    id: ck5zxfm3f7xab0i14l0w9v5bq
+    verified: false
+    hashtags: "#plane, #myunitedjourney, #777, #spotters"
+  - username: "elizabethnordphoto"
+    fullname: >-
+      Nashville Wedding Photographer
+    bio: >-
+      As seen in Martha + Style Me Pretty Best Chicago photographers by Expertise Nashville • Chicago • Destination Portraits @elizabethnordportraits
+    location: "United States"
+    followers: 5593
+    engagement: 149
+    commentsToLikes: 0.096366
+    id: ck138bp1zfg0y0i19o4ql69oe
+    verified: false
+    hashtags: ""
 ---

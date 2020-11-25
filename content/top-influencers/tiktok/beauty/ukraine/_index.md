@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Ukraine In 2020
 description: >-
-  Find top beauty TikTok influencers in Ukraine in 2020. Most popular hashtags: #makeup #friends #pretty #travel.
+  Find top beauty TikTok influencers in Ukraine in 2020. Most popular hashtags: #beauty #foru #foryou #girl.
 platform: TikTok
+hits: 22
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 22 TikTok influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "djmilana"
-    fullname: >-
-      Dj Milana
-    location: "Ukraine"
-    followers: 6098
-    engagement: 254
-    commentsToLikes: 0.020349
-    id: ckai38d0eixp30i782xlsrde1
-    verified: false
-    hashtags: "#makeup, #fitnessgirl, #mydog, #momsoftiktok"
-  - username: "yulia_zhezhera99"
-    fullname: >-
-      Yulia Zhezhera
-    location: "Ukraine"
-    followers: 45526
-    engagement: 1274
-    commentsToLikes: 0.027289
-    id: ck9fmsge9uwbi0j78h9sw5tvu
-    verified: false
-    hashtags: "#mothersday, #unbox, #aliexpress, #makeup1min"
-  - username: "user7893930200181"
-    fullname: >-
-      kino_go
-    location: "Ukraine"
-    followers: 8713
-    engagement: 1246
-    commentsToLikes: 0.033288
-    id: ck83x3ftmnyck0j78vyay4jfv
-    verified: false
-    hashtags: "#likebackteam, #likesforspam, #pleasecomment, #sweet"
-  - username: "the_lalilu"
-    fullname: >-
-      LaLiLu
-    location: "Ukraine"
-    followers: 238656
-    engagement: 1645
-    commentsToLikes: 0.004240
-    id: ck81s6he0qc7p0j7801ce016a
-    verified: false
-    hashtags: "#babyshark, #macbook, #iphone"
-  - username: "4ak1"
-    fullname: >-
-      ImmaHoodBaby
-    location: "Ukraine"
-    followers: 152694
-    engagement: 1383
-    commentsToLikes: 0.005734
-    id: ck8fc0j2p5tnt0j78clfpdh6w
-    verified: false
-    hashtags: "#hotel, #space, #mopchallenge, #macarenachallenge"
   - username: "kotova75"
     fullname: >-
       Аннета
+    bio: >-
+      Живу ярко и красиво!🔞🔥😎 Делюсь эмоциями тут 💃сотрудничество в инст: kotova75
     location: "Ukraine"
-    followers: 117626
-    engagement: 393
-    commentsToLikes: 0.013711
+    followers: 114900
+    engagement: 571
+    commentsToLikes: 0.009958
     id: ck9rbs1ciqjbb0j789e9e7lr4
     verified: false
-    hashtags: "#cartierchallenge, #spa, #pillowchallenge, #lifeofluxury"
+    hashtags: "#beautygirl, #badgirl, #luxury, #saxygirl"
   - username: "makeuptime.ig"
     fullname: >-
       Makeuptime
+    bio: >-
+      Follow Me On Instagram 👆❤️
     location: "Ukraine"
-    followers: 32453
-    engagement: 560
-    commentsToLikes: 0.005332
+    followers: 34500
+    engagement: 591
+    commentsToLikes: 0.005906
     id: ck9ev8iqoh78n0j787bxxk1ef
     verified: false
-    hashtags: "#beautyaddict, #homebeautyhack, #beautysecrets, #beautytrend"
-  - username: "bloggersawards"
-    fullname: >-
-      Bloggers Awards
-    location: "Ukraine"
-    followers: 20787
-    engagement: 118
-    commentsToLikes: 0.008387
-    id: cka0jynggk5qu0i78ecov54r2
-    verified: false
-    hashtags: "#show, #photo, #beautiful, #doit"
+    hashtags: ""
   - username: "alexsinaa"
     fullname: >-
       Alexis 🍒
+    bio: >-
+      
     location: "Ukraine"
-    followers: 2012
-    engagement: 273
-    commentsToLikes: 0.007280
+    followers: 1880
+    engagement: 272
+    commentsToLikes: 0.006869
     id: ck95wdija1jym0j7859xu3nlr
     verified: false
-    hashtags: "#shoutouter, #followback, #blogger, #mujer"
-  - username: "lilovivang"
+    hashtags: "#skywatcher, #photography, #prilaga, #love"
+  - username: "pchelaman"
     fullname: >-
-      Lilo 😍
+      Пчела 🐝
+    bio: >-
+      Подпишись на меня в инсте🥰 @pchela54 Отвечаю всем😘
     location: "Ukraine"
-    followers: 5506
-    engagement: 284
-    commentsToLikes: 0.005206
-    id: cka0mmzwww2wy0i78xm08l40r
+    followers: 656000
+    engagement: 1261
+    commentsToLikes: 0.020827
+    id: ckbwbypiy0tfj0j23l985c864
     verified: false
-    hashtags: "#alhama, #alpujarra, #alcal, #henares"
+    hashtags: "#amongus, #tutorial, #pchelaman, #frisbee"
+  - username: "volkova.arts"
+    fullname: >-
+      Lissie Volkova
+    bio: >-
+      Celebrities + Disney FOLLOW INSTAGRAM FOR MORE
+    location: "Ukraine"
+    followers: 92800
+    engagement: 1325
+    commentsToLikes: 0.012771
+    id: ckb98mnxdsa1z0j23dd6fpy8x
+    verified: false
+    hashtags: "#glowup, #dailyart, #frozen, #procreate"
+  - username: "prynker_1"
+    fullname: >-
+      👊🍬  ｓн𝕐𝓻𝕀к  ☜🐣
+    bio: >-
+      РАБОТАЮ КУРЬЕРОМ 🚛 🎯 100.000 🤞до НГ СМОТРИ МОИ СТОРИЗ⤴️
+    location: "Ukraine"
+    followers: 18400
+    engagement: 1193
+    commentsToLikes: 0.018258
+    id: cka0yncwrby1w0i78fxtm54g2
+    verified: false
+    hashtags: "#pov, #foru, #prynker, #foryou"
+  - username: "holubmaksym"
+    fullname: >-
+      Holub Maksym
+    bio: >-
+      В рідному Києві стаються прості зрозумілі, а іноді загадкові і дивні речі.
+    location: "Ukraine"
+    followers: 29000
+    engagement: 571
+    commentsToLikes: 0.030931
+    id: cka0w1n200zpu0i78qhd2n4ok
+    verified: false
+    hashtags: "#kyiv, #shooting, #serial, #movie"
+  - username: "lalilu"
+    fullname: >-
+      LaLiLu
+    bio: >-
+      Easy DIY "how to make" video tutorials for parents and creative people.
+    location: "Ukraine"
+    followers: 498700
+    engagement: 1478
+    commentsToLikes: 0.003815
+    id: ck81s6he0qc7p0j7801ce016a
+    verified: true
+    hashtags: "#ideas, #pregnant, #doll, #dolls"
+  - username: "user7893930200181"
+    fullname: >-
+      kino_go
+    bio: >-
+      🎬Лучшие моменты кино🍿
+    location: "Ukraine"
+    followers: 9198
+    engagement: 1130
+    commentsToLikes: 0.035034
+    id: ck83x3ftmnyck0j78vyay4jfv
+    verified: false
+    hashtags: "#kino, #smile, #toptags, #girl"
+  - username: "4ak1"
+    fullname: >-
+      ImmaHoodBaby
+    bio: >-
+      ⛓Not lucky I’m blessed // I hang out & I get paid IG: immahoodbaby CHUCKY
+    location: "Ukraine"
+    followers: 162000
+    engagement: 1360
+    commentsToLikes: 0.005221
+    id: ck8fc0j2p5tnt0j78clfpdh6w
+    verified: false
+    hashtags: "#fyp, #toptopchallenge, #foru, #ycc"
 ---

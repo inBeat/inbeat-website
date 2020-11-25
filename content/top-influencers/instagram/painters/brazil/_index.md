@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In Brazil In 2020
 description: >-
-  Find top painters Instagram influencers in Brazil in 2020. Most popular hashtags: #coronavirus #pintura #tbt #quarentena.
+  Find top painters Instagram influencers in Brazil in 2020. Most popular hashtags: #art #oilpainting #arte.
 platform: Instagram
+hits: 991
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 991 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "sylvia_salusti"
+  - username: "marcelabadolatto"
     fullname: >-
-      Sylvia Salusti
+      Marcela Badolatto
+    bio: >-
+      painter ⋒ designer ⋓ tattooist 〰️ Agenda Fechada - Próxima abertura Fev/2021 ✑ art@marcelabadolatto.com São Paulo - BR
     location: "Brazil"
-    followers: 14115
-    engagement: 1107
-    commentsToLikes: 0.041514
-    id: ck5q4u7erq9lp0i11qakisgv9
+    followers: 15164
+    engagement: 773
+    commentsToLikes: 0.018671
+    id: ck8t982b4n6kd0j7847srtw32
     verified: false
-    hashtags: "#diadavoz2020, #lumevoz, #joaovitorgranja, #bossapack"
+    hashtags: "#botanic, #tatuagem, #illustration, #arteclassica"
   - username: "jhessica_jay"
     fullname: >-
       Jay Murray ( ジェイ ムライ)
+    bio: >-
+      Designer | Painter | Streamer 🎮 link ↓ Work account @jay_jaydraws 💙 Twitter: Jhessicajay
     location: "Brazil"
-    followers: 7155
-    engagement: 956
-    commentsToLikes: 0.019602
+    followers: 6756
+    engagement: 992
+    commentsToLikes: 0.015690
     id: ck15qer0q2hkl0i1964erl2bv
     verified: false
-    hashtags: "#catlife, #devilgirl, #limonada, #lipstick"
-  - username: "gregswalesart"
+    hashtags: "#makeup, #maquiagem, #make, #cute"
+  - username: "raffaelart"
     fullname: >-
-      Greg Swales
+      RAFFAEL
+    bio: >-
+      Making people confirm their identities through art * Tattoo artist since 08 and Painter * Owner @artworktattoo * Brazil AGENDA 2020 FECHADA
     location: "Brazil"
-    followers: 138058
-    engagement: 207
-    commentsToLikes: 0.021781
-    id: ck0ttq2ie3t7n0i19ey4gewbq
+    followers: 42418
+    engagement: 178
+    commentsToLikes: 0.015916
+    id: ck15tbu4whbqv0i19mv6ff8fy
     verified: false
-    hashtags: "#vogue, #sandraoh, #meghancollison, #gigihadid"
+    hashtags: "#maskon, #tattoobrasil, #art, #staysafe"
+  - username: "miltonpassos.art"
+    fullname: >-
+      Milton Passos
+    bio: >-
+      | Artista Plástico Ouro Preto 🇧🇷🔺️ | Oil Painter Entre em contato pelo whats ⬇️
+    location: "Brazil"
+    followers: 4900
+    engagement: 2322
+    commentsToLikes: 0.072665
+    id: ck0tu3cbi5g440i19q65r37kl
+    verified: false
+    hashtags: "#cores, #pintoresbrasileiros, #colors, #pontilhismo"
   - username: "apolotorres"
     fullname: >-
       Apolo Torres
+    bio: >-
+      • Painter and muralist from Diadema - São Paulo, Brazil. • contato@apolotorres.com #apolotorres
     location: "Brazil"
-    followers: 18912
-    engagement: 557
-    commentsToLikes: 0.039741
+    followers: 20073
+    engagement: 514
+    commentsToLikes: 0.043544
     id: ck0w4ujm30h6i0i19fdjeqkgh
     verified: false
-    hashtags: "#urbandrawing, #cyclingpainting, #cobbledclassics, #parisroubaix"
-  - username: "shaolin____"
+    hashtags: "#acrylicsoncanvas, #pinturacontemporanea, #contemporarypainting, #oilpainting"
+  - username: "natyedenburg"
     fullname: >-
-      SHAOLIN
+      Nathalie Edenburg
+    bio: >-
+      Art Lover - painter Model @waymodel Artist-Designer @nathalieedenburg Founder and Creator of @howdoifeeltodayproject Email for inquiries
     location: "Brazil"
-    followers: 2544
-    engagement: 1401
-    commentsToLikes: 0.093853
-    id: ck5pvw113jwoe0i118lp7kjlp
+    followers: 33666
+    engagement: 154
+    commentsToLikes: 0.030840
+    id: ck0w59mzl2l000i19fojd02gd
     verified: false
-    hashtags: "#streetwear, #masp, #maspdesenhosemcasa"
+    hashtags: "#amissimalovesrio, #sonhocarioca, #jaumesans, #giorgiodichirico"
   - username: "leticiabelha"
     fullname: >-
       Leticia Abelha Yoga BH
+    bio: >-
+      Painter/ Illustrator/ Yogini Informações sobre aulas de Yoga e Pintura via DM. leticiabelha@gmail.com
     location: "Brazil"
     followers: 8203
     engagement: 805
     commentsToLikes: 0.040017
     id: ck8wfs8jmg6ma0j7841fjm2zf
     verified: false
-    hashtags: "#sagradofeminino, #yogabr, #dancer, #yoga"
+    hashtags: "#tbt, #tb, #yogabh, #bahia"
+  - username: "mandala_dots_shop"
+    fullname: >-
+      mandala_dots_shop
+    bio: >-
+      Happy painter 🎨 I create beauty🖌️
+    location: "Brazil"
+    followers: 4092
+    engagement: 1079
+    commentsToLikes: 0.053183
+    id: ck1361ni24bf50i19i5d22sxl
+    verified: false
+    hashtags: "#pointillism, #mandala, #heymandalas, #dotartist"
   - username: "alexcarnade"
     fullname: >-
       Alex Carnade
+    bio: >-
+      Painter / Writer / Biology Teacher / Forest engineer / Climate change specialist / Master of nature conservation Curitiba / Brasil 🇧🇷
     location: "Brazil"
     followers: 15655
     engagement: 416
     commentsToLikes: 0.015240
     id: ck8t4e6da6gjb0j78lh6nvc5k
     verified: false
-    hashtags: "#sketch, #figurativeart"
+    hashtags: "#abstractart, #popart, #acrylicpainting, #neoexpressionism"
   - username: "tatsurokiuchi"
     fullname: >-
       Tatsuro Kiuchi 木内達朗
+    bio: >-
+      イラスト、絵本、マンガ、油絵、エッセイなどを制作しています。Tokyo based illustrator, painter. Paintings @kiuchitatsuro Daily photos @dadaisusumu
     location: "Brazil"
     followers: 25156
     engagement: 367
     commentsToLikes: 0.006848
     id: ck6uc5guidmqi0j718kehi6m4
     verified: false
-    hashtags: "#process, #adcawards, #theoneclub"
-  - username: "priscilaamoni"
-    fullname: >-
-      Priscila Amoni
-    location: "Brazil"
-    followers: 11305
-    engagement: 396
-    commentsToLikes: 0.021654
-    id: ck0uav89nd3yp0i19hp6vlvaw
-    verified: false
-    hashtags: "#nixipae, #gravidas, #fotografiadegestante, #procuresaber"
-  - username: "yumi_irezumi"
-    fullname: >-
-      Yumi | 加藤 由美
-    location: "Brazil"
-    followers: 3547
-    engagement: 1276
-    commentsToLikes: 0.081793
-    id: ckaotwiqixteg0i78iyoyj8dn
-    verified: false
-    hashtags: "#fishtattoo, #irezumiculture, #tattoooriental, #goldfishtattoo"
+    hashtags: "#tatsurokiuchi, #drawing, #illustration, #painting"
 ---

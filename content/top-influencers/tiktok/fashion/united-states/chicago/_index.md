@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Chicago In 2020
 description: >-
-  Find top fashion TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #fashion #coronavirus #skincare.
+  Find top fashion TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #chicago #fashion #foryou.
 platform: TikTok
+hits: 70
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 70 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "setphane123"
+  - username: "margothornberry"
     fullname: >-
-      Steph
+      margothornberry
+    bio: >-
+      chicago all of these are 100% serious insta: @margothornberry
     location: "United States"
-    followers: 5658
-    engagement: 822
-    commentsToLikes: 0.049809
-    id: ck9fman9ps3p30j78l8dubtlv
+    followers: 12600
+    engagement: 1100
+    commentsToLikes: 0.049325
+    id: ckc7tb6snxr2y0j234ern6vaz
     verified: false
-    hashtags: "#thisisquitting, #acnh, #stayhomestaystrong, #indoorworkout"
-  - username: "mrteachableteacher"
+    hashtags: "#curlscheck, #safeguardsplash, #ootd, #fyp"
+  - username: "liviflips"
     fullname: >-
-      Tyler Richards
+      olivia romano
+    bio: >-
+      there’s prolly hella typos my b venmo - oliviaxromano
     location: "United States"
-    followers: 33367
-    engagement: 1000
-    commentsToLikes: 0.018771
-    id: ck8fa3a0f41ik0j78ch7l2ggp
+    followers: 12500
+    engagement: 926
+    commentsToLikes: 0.059175
+    id: cka0wgzwk2rym0i785nkonoc9
     verified: false
-    hashtags: "#teacherlife, #leavingmybody, #christian, #maketheleap"
-  - username: "russiaancream"
+    hashtags: "#tylerthecreator, #fyp, #foryou, #chicago"
+  - username: "chlobellexx"
     fullname: >-
-      russian cream
+      chlobellexx
+    bio: >-
+      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Dance | FUN!
     location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
+    followers: 27100
+    engagement: 866
+    commentsToLikes: 0.073780
+    id: cka0sjq6zls1d0i78cohlipwf
     verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "chicagobears"
+    hashtags: "#colorado, #ad, #chicagobucketlist, #photomagic"
+  - username: "daisyddaze"
     fullname: >-
-      Chicago Bears
+      D A Z E
+    bio: >-
+      dental assistant + dollar tree trips ✨ daisyolivedaze@gmail.com
     location: "United States"
-    followers: 285810
-    engagement: 1593
-    commentsToLikes: 0.020878
-    id: ck8nbti0cbd8p0j78xoo5yj1d
+    followers: 15800
+    engagement: 919
+    commentsToLikes: 0.024072
+    id: cka608pefq5ga0i78u7ujo9ey
+    verified: false
+    hashtags: "#collegegotmelike, #doitbold, #vacation, #mexico"
+  - username: "banksburkart1"
+    fullname: >-
+      Benzø
+    bio: >-
+      Hockey 🏒 Music
+    location: "United States"
+    followers: 67100
+    engagement: 1782
+    commentsToLikes: 0.011588
+    id: ck9f7ud28zxsg0j78ch6nqb6m
+    verified: false
+    hashtags: "#outside, #funny, #skateboarding, #music"
+  - username: "laughlikeit"
+    fullname: >-
+      HiddenJewel_7
+    bio: >-
+      📍Chicago 🌱 Vegan 💃🏽TikTok Dancer Wannabe 🤪Silly 💕 Help Me Get To 5k. 💕
+    location: "United States"
+    followers: 3751
+    engagement: 1157
+    commentsToLikes: 0.144154
+    id: ck9e3tvkcl3lb0j784jlpdm9v
+    verified: false
+    hashtags: "#phlebotomist, #trending, #foryoupage, #plantbased"
+  - username: "jeanenesplitt"
+    fullname: >-
+      Jeanene
+    bio: >-
+      fancy seeing you here 20 🌼 follow my insta (:
+    location: "United States"
+    followers: 12800
+    engagement: 1037
+    commentsToLikes: 0.045627
+    id: ckc90i04opxr10j239wu5ijzw
+    verified: false
+    hashtags: "#colorcustomizer, #fyp, #greenscreen, #10secondsvs"
+  - username: "liveroniandcheese"
+    fullname: >-
+      Liver
+    bio: >-
+      Liv 24 🏳️‍🌈 Boston-Chicago Insta: livdellanno
+    location: "United States"
+    followers: 38300
+    engagement: 2609
+    commentsToLikes: 0.007363
+    id: ckb97t4y0qs170j23e0boa8hw
+    verified: false
+    hashtags: "#election, #queergirl, #wlw, #gays"
+  - username: "noworneverespn"
+    fullname: >-
+      NowOrNeverESPN
+    bio: >-
+      
+    location: "United States"
+    followers: 47400
+    engagement: 1175
+    commentsToLikes: 0.027323
+    id: ck8w2ch5h4sva0j78cgx2p8v7
     verified: true
-    hashtags: "#birthday, #inspirational, #dance, #xyzbca"
-  - username: "curryanddumpling"
+    hashtags: "#football, #viral, #nbamoments, #futbol"
+  - username: "sesleyh"
     fullname: >-
-      Curry & Dumpling
+      Sesley
+    bio: >-
+      23 | 🇰🇷 I cook sometimes
     location: "United States"
-    followers: 26502
-    engagement: 475
-    commentsToLikes: 0.031928
-    id: ck9shqfl6umgm0j7883di78nw
+    followers: 38600
+    engagement: 1485
+    commentsToLikes: 0.011261
+    id: ckaij0vnhcx340i78kzlx3i3q
     verified: false
-    hashtags: "#brown, #nomoney, #travel, #mirrorchallenge"
-  - username: "doseofdenah"
-    fullname: >-
-      Dee
-    location: "United States"
-    followers: 24337
-    engagement: 905
-    commentsToLikes: 0.081769
-    id: ck83zed2000dk0j78qv9jssfn
-    verified: false
-    hashtags: "#scoobdance, #homeproject, #fashion, #beberexha"
-  - username: "oliviahart5"
-    fullname: >-
-      Olivia Hart
-    location: "United States"
-    followers: 2522
-    engagement: 591
-    commentsToLikes: 0.034076
-    id: cka601me8pbce0i78mmbmoadb
-    verified: false
-    hashtags: "#debbyryan, #sitcom, #chicago, #aesthetic"
-  - username: "briknopf"
-    fullname: >-
-      briknopf
-    location: "United States"
-    followers: 29311
-    engagement: 663
-    commentsToLikes: 0.017214
-    id: cka6pcsuwj4zq0i78nmd048tg
-    verified: false
-    hashtags: "#beautyhaul, #blogger, #stayathome, #revolve"
-  - username: "alaia.alaia"
-    fullname: >-
-      Lai lai 🦋
-    location: "United States"
-    followers: 10977
-    engagement: 466
-    commentsToLikes: 0.036444
-    id: ck90tz47runq10j7890aatttc
-    verified: false
-    hashtags: "#sneakerhead, #makeuproutine, #badboy, #work"
-  - username: "deedeedagoat"
-    fullname: >-
-      AMiFamousYet
-    location: "United States"
-    followers: 11435
-    engagement: 946
-    commentsToLikes: 0.014546
-    id: ck9nidg6sgqoh0j78zhnjxk4d
-    verified: false
-    hashtags: "#streetwear, #didafull180, #wishmeluck, #getusfamous"
+    hashtags: "#homechef, #quickrecipes, #letscook, #cookinghacks"
 ---

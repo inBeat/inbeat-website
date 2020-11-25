@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Belgium In 2020
 description: >-
-  Find top Instagram influencers in Belgium in 2020. Most popular hashtags: # #giveaway #thursdaynight #loveyou.
+  Find top Instagram influencers in Belgium in 2020. Most popular hashtags: #collab #mamablogger #outdoorphotography.
 platform: Instagram
+hits: 1232
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1232 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "kaneki_touvor"
     fullname: >-
-      Touvor Mka
+      
+    bio: >-
+      The true wealth of a man in this world is measured by the good he does . email: touvorkaneki@gmail.com @collection_4000 Met @pausetrembling
     location: "Belgium"
-    followers: 2761
-    engagement: 4101
-    commentsToLikes: 0.148898
+    followers: 6758
+    engagement: 1937
+    commentsToLikes: 0.099353
     id: ckap8w9xxq62w0i784q2g8ndh
     verified: false
     hashtags: ""
-  - username: "josephinelenaerts"
-    fullname: >-
-      Fitness | Health
-    location: "Belgium"
-    followers: 2336
-    engagement: 3109
-    commentsToLikes: 0.147511
-    id: ckaot756fuoo90i78jxkqgajm
-    verified: false
-    hashtags: "#basicfitbe, #staydedicated, #teamdedicated, #winactie"
-  - username: "captainbassbe"
-    fullname: >-
-      CAPTAIN BASS
-    location: "Belgium"
-    followers: 7817
-    engagement: 2236
-    commentsToLikes: 0.101619
-    id: ck14jm3hfl1890i19zq5eoe86
-    verified: false
-    hashtags: ""
-  - username: "yaniheyvaerts"
-    fullname: >-
-      ★ Yani ★
-    location: "Belgium"
-    followers: 5436
-    engagement: 1690
-    commentsToLikes: 0.312978
-    id: ck8t4c9ef691w0j781ho39th6
-    verified: false
-    hashtags: "#getanchored, #idealofswedenbelgium, #youaremyanchor, #paulhewitt"
-  - username: "julietteandrien"
-    fullname: >-
-      LIFESTYLE LOVE FASHION
-    location: "Belgium"
-    followers: 9318
-    engagement: 1519
-    commentsToLikes: 0.514753
-    id: ckaovf8el4ctt0i78gdrydbpu
-    verified: false
-    hashtags: "#mermaidme, #mermazinghair, #hair, #goodproduct"
   - username: "valtonyc"
     fullname: >-
       Josep Valtonyc
+    bio: >-
+      Bruxelles
     location: "Belgium"
-    followers: 44522
-    engagement: 1358
-    commentsToLikes: 0.104966
+    followers: 44499
+    engagement: 1553
+    commentsToLikes: 0.138868
     id: ck0w6m2t998ha0i19lfpzx8ni
     verified: true
     hashtags: "#shamespain"
-  - username: "justintouvor"
+  - username: "keyshla.journal"
     fullname: >-
-      Gagno_ TOUVOR
+      𝕂𝕖𝕪𝕤𝕙𝕝𝕒 𝕄𝕒𝕣𝕚𝕖 🌙
+    bio: >-
+      🌍 Lifestyle |🍃 Montessori |✨ Minimalist From🇵🇷 to 🇰🇷, and now in 🇧🇪 💌 keyshla.matos@gmail.com #keyshlajournal #compartiendomistruquitos
     location: "Belgium"
-    followers: 30793
-    engagement: 1311
-    commentsToLikes: 0.063366
-    id: ck5c08g0csn1w0i116ktt1lhg
+    followers: 7282
+    engagement: 1447
+    commentsToLikes: 0.250391
+    id: ckap4okbe86ek0i78wklwhx15
+    verified: false
+    hashtags: "#momblogger, #boricua, #puertorico, #belgica"
+  - username: "lunalissens"
+    fullname: >-
+      Luna Lissens
+    bio: >-
+      🎃 Twenty | Belgium 🍁 Freelance model 🧡 Luna.lissens@hotmail.com 🍂 Crown card Miss Belgium 2020 | 3th finalist BOBO FACE 2020 🧥 Soon: Nerja
+    location: "Belgium"
+    followers: 9841
+    engagement: 1327
+    commentsToLikes: 0.229241
+    id: ck8tct1ke0kcw0j788ddfr7w0
+    verified: false
+    hashtags: "#daretobeinsolito, #girlsgoneloavies, #collab, #gustgusto"
+  - username: "maudevandervorst"
+    fullname: >-
+      Maud_vdv
+    bio: >-
+      🌸 23 Y/O 🌸 460K on @tiktok 💌 Contact: peter@absolutep.com
+    location: "Belgium"
+    followers: 54615
+    engagement: 1209
+    commentsToLikes: 0.071642
+    id: ck0vx3x7ex0n90i190vk3xgh6
+    verified: false
+    hashtags: "#freegiveaway, #theboomingsquad, #starsky, #yulaenergy"
+  - username: "anouklein"
+    fullname: >-
+      𝔸 ℕ 𝕆 𝕌 𝕂
+    bio: >-
+      𝐹𝑖𝑛𝑎𝑙𝑖𝑠𝑡𝑒 𝑑𝑒 𝑇ℎ𝑒 𝑉𝑜𝑖𝑐𝑒 𝐾𝑖𝑑𝑠✨ 𝑇𝑖𝑘 𝑡𝑜𝑘: anouk.tvk
+    location: "Belgium"
+    followers: 7905
+    engagement: 5797
+    commentsToLikes: 0.077611
+    id: ckap5h5rmbo1u0i78kc55rvhm
     verified: false
     hashtags: ""
-  - username: "statiana.model"
+  - username: "maartenvda"
     fullname: >-
-      Tatiana🎀
+      Maarten Van der Auwera
+    bio: >-
+      📍Antwerp, Belgium 📚UA Master of Physiotherapy& Rehabilitation Sciences 🏝Bringing the Sea to the Streets 👻Maartenvda1 🔜 France
     location: "Belgium"
-    followers: 44202
-    engagement: 764
-    commentsToLikes: 0.060273
-    id: ck8sxaggdgot90j78p5x5ww8u
+    followers: 8734
+    engagement: 1440
+    commentsToLikes: 0.174286
+    id: ck55ll4yg1tsz0i113p90q0ik
     verified: false
-    hashtags: "#mondayvibes, #undizfamily, #sunday, #fridaymood"
-  - username: "aleksandraj_"
+    hashtags: "#fallphotography, #musiclovers, #portraitphotography, #zalandostyle"
+  - username: "assya.grs"
     fullname: >-
-      Aleksandra Jakobczyk
+      MOTIVATION|FITNESS|LIFESTYLE
+    bio: >-
+      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒮𝓊𝓅𝑒𝓇𝓅𝒶𝒸𝑜 𝟔🍿
     location: "Belgium"
-    followers: 165168
-    engagement: 709
-    commentsToLikes: 0.052265
-    id: ck0w0h2qte5u90i19obi4akid
+    followers: 37126
+    engagement: 902
+    commentsToLikes: 0.054771
+    id: ck9hb93x3fv9q0j78ykmv4qoi
     verified: false
-    hashtags: "#outfitkillers, #bored, #giveaway, #influencergiveaway"
-  - username: "romymonamour_"
+    hashtags: "#zyzz, #twitchgirl, #musculation, #shredded"
+  - username: "pinklollypops"
     fullname: >-
-      » 𝐙 𝐎 𝐄̈ | 𝕄𝚊 𝚟𝚒𝚎 𝚍𝚎 𝚖𝚊𝚖𝚊𝚗.
+      Joyce, 𝐌𝐨𝐦𝐦𝐲 𝐨𝐟 𝐋𝐞𝐱 & 𝐉𝐞𝐚𝐧𝐞 🍭
+    bio: >-
+      Puur en eerlijk moederschap, zonder fabeltjes, besprenkeld met een goede dosis roze lekstok humor. 🇧🇪🌱 Plant etende superheld 💌Joyce@pinklollypops.be
     location: "Belgium"
-    followers: 6697
-    engagement: 1687
-    commentsToLikes: 0.308825
-    id: ck5q10hnp8nof0i1194csdqyp
+    followers: 8769
+    engagement: 1203
+    commentsToLikes: 0.674934
+    id: ck6tuvziniqgs0j71ayu7cg9g
     verified: false
-    hashtags: "#premierpas, #appareilvapeur, #lunettedesoleil, #mymustelababy"
+    hashtags: "#derozelekstok, #jeanemachine, #mamablogger, #dezekanjewinnen"
+  - username: "alessioetzi"
+    fullname: >-
+      
+    bio: >-
+      𝓖𝓸𝓭 𝓲𝓼 𝓰𝓻𝓮𝓪𝓽 🙏🏾 « For Every Dark Night There’s a Brighter Day » Streetwear lover Inspired by the Culture
+    location: "Belgium"
+    followers: 17688
+    engagement: 829
+    commentsToLikes: 0.137050
+    id: ck138kygngqpg0i19az7u2oow
+    verified: false
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Italy In 2020
 description: >-
-  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #boxer #iorestoacasa #sport #italy.
+  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #boxer #love #photooftheday.
 platform: Instagram
+hits: 29
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 29 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "monique_bovino"
+  - username: "paolocologna_official"
     fullname: >-
-      MONIQUE BOVINO
+      Paolo Cologna
+    bio: >-
+      ▪️Model @majormodelsmilan ▪️Ex Boxer ▪️Co-Founder @globo.communication ~ 𝑊ℎ𝑜 𝑓𝑖𝑔ℎ𝑡𝑠 𝑎𝑛𝑑 𝑑𝑟𝑒𝑎𝑚𝑠 𝑛𝑒𝑣𝑒𝑟 𝑑𝑖𝑒𝑠 ~ 📍Milan 🇮🇹
     location: "Italy"
-    followers: 8545
-    engagement: 558
-    commentsToLikes: 0.027381
-    id: ckap83wd3mpvh0i78y5ingpzg
+    followers: 8841
+    engagement: 717
+    commentsToLikes: 0.087954
+    id: ckf5ws5ubt25i0j23ki9g328d
     verified: false
-    hashtags: "#dogsofinstagram, #covid19, #boxing, #bulliesofinstagram"
+    hashtags: "#modelphoto, #modelingportfolio, #shakespeare, #modelingfashion"
   - username: "ldgentleman"
     fullname: >-
       Luca “gentleman”D’ortenzi
+    bio: >-
+      .🎩Professional boxer 🎩. .ITALIAN CHAMP 2019🇮🇹 .IBF MEDITERRANEAN CHAMP🥇 @shtstudio @bottega_quattro @dott.marco_angelini #gentleman
     location: "Italy"
-    followers: 7021
-    engagement: 644
-    commentsToLikes: 0.018705
+    followers: 6667
+    engagement: 652
+    commentsToLikes: 0.019300
     id: ck6u3ldxbygch0j715hibits9
     verified: false
-    hashtags: "#sparringday, #palombarasabina, #loveboxe, #21dicembre"
+    hashtags: "#boxingtime, #boxinghype, #distantimauniti, #mytime"
   - username: "aresfavati"
     fullname: >-
       Ares Favati
+    bio: >-
+      🎤 Club Vocalist 🥊 Amateur Boxer 💪 Bodybuilding&Strength enthusiast 🎙 Song Writer&Singer 🗯 All around Nerd
     location: "Italy"
-    followers: 20070
-    engagement: 212
-    commentsToLikes: 0.022990
+    followers: 19698
+    engagement: 179
+    commentsToLikes: 0.023932
     id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
-    hashtags: "#forza"
-  - username: "paterafrancesco23"
+    hashtags: ""
+  - username: "serranosisters"
     fullname: >-
-      Francesco Patera
+      Amanda Serrano 🇵🇷
+    bio: >-
+      Carolina, Puerto Rico BJJ🥇/MMA 1-0-1/Boxer 9x 7Division WorldChamp! (115,118,122,126,130,135,140) Cindy Serrano WBO 126lb Champ!
     location: "Italy"
-    followers: 2147
-    engagement: 1520
-    commentsToLikes: 0.051887
-    id: ck5hq93txspwc0i11mvyl44kk
-    verified: false
-    hashtags: "#wba, #2020, #london, #andstill"
+    followers: 66915
+    engagement: 196
+    commentsToLikes: 0.048137
+    id: ck0vy4xqr29d40i19m7xmq73d
+    verified: true
+    hashtags: "#easywork, #combatlegendsmc, #fightsquad, #grrrlsrule"
   - username: "giorgiopetrosyan"
     fullname: >-
       Giorgio Petrosyan
+    bio: >-
+      Professional kick boxer @petrosyanmania @onechampionship @team_multifight_petrosyan @oktagon_official
     location: "Italy"
-    followers: 222117
-    engagement: 341
-    commentsToLikes: 0.014848
+    followers: 237916
+    engagement: 300
+    commentsToLikes: 0.015832
     id: ck0ubxn0ofimh0i195cp6x9iv
     verified: true
-    hashtags: "#next, #24april, #match, #stoneisland"
-  - username: "bibbideg"
+    hashtags: "#bjj, #startup, #martialarts, #karate"
+  - username: "paterafrancesco23"
     fullname: >-
-      Bibbi Deg
+      Francesco Patera
+    bio: >-
+      2⃣7️⃣🇮🇹🇧🇪 Pro boxer🥊23-3-0 European champion🇪🇺 Contract with @adeps_officiel ✞ "everything is possible for him who believes" 𝓓𝓻𝓮𝓪𝓶𝓮𝓻 ❤️ @vanessaagd
     location: "Italy"
-    followers: 589047
-    engagement: 170
-    commentsToLikes: 0.037467
-    id: ck8wf2p49f12y0j78ew0wb5o2
+    followers: 2164
+    engagement: 1465
+    commentsToLikes: 0.061579
+    id: ck5hq93txspwc0i11mvyl44kk
     verified: false
-    hashtags: "#gymmotivation, #sphynx, #beautytime, #langkawi"
-  - username: "giadafolcia"
+    hashtags: "#tb, #2020, #london, #andstill"
+  - username: "a_spasso_col_boxer"
     fullname: >-
-      𝓖𝓲𝓪𝓭𝓪 𝓕𝓸𝓵𝓬𝓲𝓪
+      Francesco
+    bio: >-
+      ✍🏼L’avventura è soltanto cattiva pianificazione 👀 Milan, Italy 🇮🇹 🌎🚴🏼EXPLORER🚁 🌍 🏍BMW R1200GS rider🦸🏻‍♂️ 🦸🏻‍♀️🎥@jessydailen
     location: "Italy"
-    followers: 18414
-    engagement: 450
-    commentsToLikes: 0.062322
-    id: ck5ztybfh1cea0i14iosip5pd
+    followers: 2413
+    engagement: 3067
+    commentsToLikes: 0.034959
+    id: ck6tyo3oq4v590j7193t2bdqy
     verified: false
-    hashtags: "#prozis, #legs, #boxing, #milan"
+    hashtags: "#bmwgs1200, #trueriders, #travelblogger, #motorcyclediaries"
+  - username: "nora__bosco"
+    fullname: >-
+      nora🐾🎗️
+    bio: >-
+      🇮🇹#italy Fescion blo' @letortedioggi Amo la mia cucciolotta #Morgana 🐕 Donare può salvare @ail_onlus 👨‍⚕️🤝👨
+    location: "Italy"
+    followers: 20031
+    engagement: 364
+    commentsToLikes: 0.027732
+    id: ckaoyb89qgrx20i782gs6t6t1
+    verified: false
+    hashtags: "#chanel, #valentinorossi, #instagram, #dress"
   - username: "bevilacqua.giorgia10"
     fullname: >-
       ⓖⓘⓞⓡⓖⓘ ♥︎
+    bio: >-
+      ✸ 𝚏𝚛𝚘𝚖 𝚌𝚘𝚖𝚘📍 ✸ 𝚠𝚘𝚛𝚔 𝚏𝚛𝚘𝚖 @esvapomarianocomense 𝙽𝚎𝚐𝚘𝚣𝚒𝚘 𝚍𝚒 #🅢🅥🅐🅟🅞 𝚎 𝚂𝙿𝙴𝙳𝙸𝚉𝙸𝙾𝙽𝙸 𝚅𝙴𝙻𝙾𝙲𝙸📦 ☮︎ 𝚟𝚒𝚟𝚒 𝚎 𝚕𝚊𝚜𝚌𝚒𝚊 𝚟𝚒𝚟𝚎𝚛𝚎 ☮︎
     location: "Italy"
-    followers: 11307
-    engagement: 564
-    commentsToLikes: 0.017137
+    followers: 11404
+    engagement: 237
+    commentsToLikes: 0.017909
     id: ckap7g4pjjx980i781ilxqipg
     verified: false
-    hashtags: "#marketer, #sunset, #fotodelgiorno, #curlyhair"
-  - username: "babilacap"
+    hashtags: "#pietraligure, #comocity, #novita, #nickpescettopresets"
+  - username: "noiamiamoglianimali"
     fullname: >-
-      Babila
+      Noi Amiamo gli Animali ❤️
+    bio: >-
+      Vorresti far parte del nostro mondo a 4 zampe? La bella notizia è che ne fai già parte, semplicemente stando qui! 🐾🐶🐾🐱
     location: "Italy"
-    followers: 17353
-    engagement: 323
-    commentsToLikes: 0.014134
-    id: ck15rzyf5ajoo0i1932o23way
+    followers: 15719
+    engagement: 890
+    commentsToLikes: 0.021528
+    id: ck0u6yj7w3arh0i19g2nlpiif
     verified: false
-    hashtags: "#stillrockin, #mums, #mytime, #dream"
-  - username: "diego89_ph"
-    fullname: >-
-      𝗦𝘁𝗮 𝘀𝗰𝗮𝘁𝘁𝗮𝗻𝗱𝗼... 📸
-    location: "Italy"
-    followers: 5310
-    engagement: 2554
-    commentsToLikes: 0.022058
-    id: ck15qcrrp28f80i198mgpddls
-    verified: false
-    hashtags: "#lunanuova, #chieseitaliane, #fotoritratto, #vinorosso"
+    hashtags: "#ilovedogs, #jackrussell, #vitadacani, #cani"
 ---

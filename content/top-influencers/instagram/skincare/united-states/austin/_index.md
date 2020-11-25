@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Austin In 2020
 description: >-
-  Find top skincare Instagram influencers in Austin in 2020. Most popular hashtags: #skincare #skincareroutine #momlife #stayathome.
+  Find top skincare Instagram influencers in Austin in 2020. Most popular hashtags: #skincare #austintexas #instagood #makeup.
 platform: Instagram
+hits: 60
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 60 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "spinsyddy"
-    fullname: >-
-      SYDNEY TORABI | HOME WORKOUTS
-    location: "United States"
-    followers: 21029
-    engagement: 263
-    commentsToLikes: 0.054269
-    id: ck5zol62tqsnv0i14z9zbvmzh
-    verified: false
-    hashtags: "#austinfit, #nutrition, #fitnessmodel, #swimmer"
   - username: "reneerouleau"
     fullname: >-
       Esthetician & Skincare Expert
+    bio: >-
+      Zit zapper + CEO. Adventures + globetrotting. Nowhere to go but everywhere⚡️⚡️ [Austin + LA] Skincare for 9 skin types ⬇️ @reneerouleauskincare
     location: "United States"
-    followers: 61393
-    engagement: 137
-    commentsToLikes: 0.066476
+    followers: 63804
+    engagement: 144
+    commentsToLikes: 0.057064
     id: ck134f06xw4if0i190t5vpezy
     verified: true
-    hashtags: "#skincareproducts, #botoxforehead, #thisshitisbananas, #botox"
-  - username: "stylexkavya"
-    fullname: >-
-      Kavya | StylexKavya ™
-    location: "United States"
-    followers: 48084
-    engagement: 204
-    commentsToLikes: 0.077907
-    id: ck5hht4ap9ya10i118gjtwmz7
-    verified: false
-    hashtags: "#storiesseries, #hypelook, #tiktokskit, #comfyoutfit"
+    hashtags: "#reneerouleauglow, #obeyrenee, #reneerouleau, #skincare"
   - username: "kimono_kat"
     fullname: >-
-      Mina / มีน่า
+      Mina • มีน่า
+    bio: >-
+      📸 Skincare hobbyist// Flatlay Lover 📍 Austin, TX 💌 PR: kimonokat91@gmail.com
     location: "United States"
-    followers: 8459
-    engagement: 983
-    commentsToLikes: 0.286612
+    followers: 9017
+    engagement: 703
+    commentsToLikes: 0.323792
     id: ck5q8fc225wis0i11f20hbd2o
     verified: false
-    hashtags: "#poweredbyrose, #octoly, #soldejaneiro, #selfcarematters"
-  - username: "sophia_augustine_"
+    hashtags: "#beatthealgo, #selfcaresunday, #beatthealgorithm, #texturetuesday"
+  - username: "jennamasar"
     fullname: >-
-      Sophia Augustine
+      j e n n a m a s a r
+    bio: >-
+      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
     location: "United States"
-    followers: 24066
-    engagement: 1539
-    commentsToLikes: 0.048922
-    id: ck5hrr4mfvc150i11qt0g0g54
+    followers: 7512
+    engagement: 973
+    commentsToLikes: 0.113646
+    id: ckaozs50jn5xc0i7844bpf7zw
     verified: false
-    hashtags: "#love, #itsmarch, #redflowers, #makeup"
-  - username: "erinelise___"
+    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
+  - username: "cicilyboone"
     fullname: >-
-      erin elise blog
+      CICILY ⭐️ LIFESTYLE CREATOR
+    bio: >-
+      Sharing lifestyle, beauty, selfcare, & casual fashion for your daily dose of inspo✨💫 🎙host of @fakeitpod 📺70k on YT ❤️5 mil+ views CLICK FOR LINKS👇🏼
     location: "United States"
-    followers: 7941
-    engagement: 619
-    commentsToLikes: 0.178632
-    id: ck9hbxfbmiv0x0j78h4svvzs1
+    followers: 8926
+    engagement: 357
+    commentsToLikes: 0.099345
+    id: ck9h9rcx59nqe0j78ttuhsngi
     verified: false
-    hashtags: "#churchservice, #mylove, #lakedays, #ltkswim"
+    hashtags: "#atxlifestyle, #texasblogger, #coloradoadventures, #casualstyles"
+  - username: "kaitnicholexo"
+    fullname: >-
+      Kait Nichole
+    bio: >-
+      ☁️ YOUTUBER ✨ 300k+ ☁️ PR/Business: TheHighLite@gmail.com ☁️ Follow my Family IG: @kaitnicholexolife ☁️ Watch my newest YouTube Video👇🏼
+    location: "United States"
+    followers: 75298
+    engagement: 267
+    commentsToLikes: 0.043327
+    id: ck15si6h8d4pp0i1981pfjuod
+    verified: false
+    hashtags: "#benefitbrows, #halloween2020, #halloweenmakeupideas, #halloweenmakeup"
+  - username: "shotsbystoney"
+    fullname: >-
+      Shots by Stoney
+    bio: >-
+      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Texas
+    location: "United States"
+    followers: 2522
+    engagement: 1065
+    commentsToLikes: 0.085313
+    id: ck14j9ipfj8il0i192q4opkfr
+    verified: false
+    hashtags: "#laphotographers, #beautyphoto, #houstonphotographer, #atxphotographer"
+  - username: "itsveronicaustin"
+    fullname: >-
+      veronica austin ✨
+    bio: >-
+      ✨ afrolatina from bklyn nyc 💄curls | editorial & graphic makeup | skincare ⚡️1/3 of the broken glass kids 💌 pr/business: vaustinblog@gmail.com
+    location: "United States"
+    followers: 6571
+    engagement: 667
+    commentsToLikes: 0.124962
+    id: ck55lul5s2gxt0i11cunfde42
+    verified: false
+    hashtags: "#uncapthelove, #killawatt, #hustlababy, #ad"
   - username: "herfashionedlife"
     fullname: >-
       Tammy-Fashion/Anti-Aging Tips
+    bio: >-
+      Everyday Style on the feed & Everyday Life, skincare and eats in stories- Let’s curate a closet you love together! 📍Austin TX 🛍Shop my looks ⬇️
     location: "United States"
-    followers: 42607
-    engagement: 225
-    commentsToLikes: 0.228240
+    followers: 48509
+    engagement: 229
+    commentsToLikes: 0.173282
     id: ck5q9celvaebr0i11kudz8a5x
     verified: false
-    hashtags: "#disneylove, #ltkhome, #sundayselfcare, #pinkshoes"
-  - username: "kapbeauty"
+    hashtags: "#spanxstyle, #cuteandcasual, #ltkunder100, #todaysoutfits"
+  - username: "makeupbypita"
     fullname: >-
-      KAPBEAUTY      ♥ KARLA♥
+      Lupita
+    bio: >-
+      TikTok- Makeupbypita Business inquires/PR💌 Makeupbypita@yahoo.com 1779 Wells Branch Pkwy Unit 110B - #342 Austin Texas 78728
     location: "United States"
-    followers: 113302
-    engagement: 1093
-    commentsToLikes: 0.215148
-    id: ck13cay98zgj90i19rsxh7u1m
+    followers: 168016
+    engagement: 1292
+    commentsToLikes: 0.033324
+    id: ck0vv5hz8nn3i0i19n3s9ejgo
     verified: false
-    hashtags: "#morphebabe, #fentycheeksout, #colourpop, #beauteque"
-  - username: "ketokween.la"
+    hashtags: "#makeuptime, #ootdstyle, #fashionista, #instagram"
+  - username: "yenismonterrey"
     fullname: >-
-      Lady Mel 🇬🇧🇺🇸
+      Yenis Monterrey
+    bio: >-
+      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
     location: "United States"
-    followers: 25196
-    engagement: 116
-    commentsToLikes: 0.114452
-    id: ck6u3g2q5xl0z0j71npjoncn4
+    followers: 28043
+    engagement: 286
+    commentsToLikes: 0.237386
+    id: ckaoxs08fehfh0i78xy0bpjb5
     verified: false
-    hashtags: "#questfit, #sunday, #chicken, #natural"
-  - username: "vy.primozich"
-    fullname: >-
-      Vy Primozich
-    location: "United States"
-    followers: 21990
-    engagement: 236
-    commentsToLikes: 0.023995
-    id: ck0ud1uc2i7rd0i193uk3q97v
-    verified: false
-    hashtags: "#flashesofdelight, #vacationvibes, #everythingisbetternaked, #coparenting"
+    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
 ---

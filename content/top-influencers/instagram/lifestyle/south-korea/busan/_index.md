@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Busan In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Busan in 2020. Most popular hashtags: # #stayhome #narcissus #instabeauty.
+  Find top lifestyle Instagram influencers in Busan in 2020. Most popular hashtags: #seoul #korea #instagood #travel.
 platform: Instagram
+hits: 4
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 4 Instagram influencers like this in Busan, South Korea for you to pitch.
 profiles:
-  - username: "mightyworks_"
+  - username: "khumor.a"
     fullname: >-
-      강종주(마이티웍스) / Mightyworks
+      Khumora в Корее 🇰🇷🦋
+    bio: >-
+      Traveling, Shopping & Lifestyle ✨ Мысли в слух 💭 YouTube channel 🎞
     location: "South Korea"
-    followers: 6501
-    engagement: 1642
-    commentsToLikes: 0.030376
-    id: ck9wozrqp76sz0j78mq5olhfe
+    followers: 2938
+    engagement: 1336
+    commentsToLikes: 0.069519
+    id: ck9halnuxczvk0j78q8td5rul
     verified: false
-    hashtags: ""
-  - username: "bts.jungkook"
+    hashtags: "#f4f, #busan, #instagood, #photography"
+  - username: "boonkaewnaree"
     fullname: >-
-      BTS JUNGKOOK
+      Boonmeemagert Kaewnaree J. 陈水铭
+    bio: >-
+      นๅยบุญมี มาเกิด เเก้วนารี, Singapore-Thai 🇸🇬🇹🇭 Instagrammer / TikToker / YouTuber 📱 TikTok: 糖果學長 (110K) 📧 For Work: Email/DM YouTubeTV — @boondarerick
     location: "South Korea"
-    followers: 6774590
-    engagement: 727
-    commentsToLikes: 0.009311
-    id: ck0u7k4zx520a0i19ju84aeth
+    followers: 68915
+    engagement: 212
+    commentsToLikes: 0.045312
+    id: ck6uc3401d7zp0j714ryzyutw
     verified: false
-    hashtags: "#bts, #connect, #botd"
-  - username: "mary_land__"
+    hashtags: "#fashion, #instalike, #hypebeast, #warm"
+  - username: "yyunwoo"
     fullname: >-
-      매리🍒Mary😷
+      김윤우/한식전공
+    bio: >-
+      행복을 요리하는 #요리사 #한식조리 전공 #Traveler ~ ing ✈️ 🇰🇷🇺🇸🇻🇳🇸🇬🇭🇰🇹🇼🇲🇴 🛒 Market : #하남미사 롯데캐슬헤븐시티 #롯데프레시
     location: "South Korea"
-    followers: 19586
-    engagement: 857
-    commentsToLikes: 0.029280
-    id: ck8tc0gr8xu720j78hotz5s1o
+    followers: 97205
+    engagement: 120
+    commentsToLikes: 0.015766
+    id: ckap9pwe7t6670i78ne9czu8f
     verified: false
-    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
-  - username: "jeon__chopa"
+    hashtags: "#cafe, #shoes, #nepa, #health"
+  - username: "welcometothepanoptico"
     fullname: >-
-      전쵸파
+      세바 ~ (SHIPPO-YO) 📽️
+    bio: >-
+      [국] ing . . [×] S to the N #TRASH [위치] 서울
     location: "South Korea"
-    followers: 29670
-    engagement: 525
-    commentsToLikes: 0.032834
-    id: ck9hcbpsxknx50j78yssexdd1
+    followers: 56436
+    engagement: 1357
+    commentsToLikes: 0.011777
+    id: ck5pw4bzyl1bn0i11a94fpj2o
     verified: false
-    hashtags: "#canom600d"
+    hashtags: "#vsco, #life, #snow, #summer"
+  - username: "jeaaniya"
+    fullname: >-
+      KOREA | LIFESTYLE | OOTD
+    bio: >-
+      🇫🇷 Frenchy with a Korean soul ✈️ Travel & lifestyle enthusiast 💕 In #longdistancerelationship 🏷 DM for collabs
+    location: "South Korea"
+    followers: 4302
+    engagement: 1869
+    commentsToLikes: 0.089874
+    id: ck8t3kggy3jth0j78noxrifsn
+    verified: false
+    hashtags: "#frenchblogger, #pinktrotters, #travelgirlsgo, #voyageuse"
   - username: "one_the_girl"
     fullname: >-
       원도연
+    bio: >-
+      #Lifestyle & #Travel & #Fashion 🇦🇺🇹🇭🇯🇵🇩🇪🇳🇱🇧🇪🇬🇧🇪🇸🇫🇷🇨🇿🇭🇺🇦🇹🇮🇹🇨🇭🇭🇰🇺🇸
     location: "South Korea"
-    followers: 5328
-    engagement: 1294
-    commentsToLikes: 0.042255
+    followers: 5835
+    engagement: 852
+    commentsToLikes: 0.054632
     id: ck5c06a1gsj0p0i110bh44otb
     verified: false
-    hashtags: "#akiiiclassic, #brandi, #cafetour, #akiii"
-  - username: "musk_ll"
+    hashtags: "#mtl, #halloween, #disney, #covernat"
+  - username: "anachoii"
     fullname: >-
-      라이프스타일 크리에이터 머스크
+      ANA CHOI | CONTENT CREATOR
+    bio: >-
+      400k+ YouTuber 🎬 Podcast Host de “Querida Ana”🎤 Spanish speaking Korean 🇰🇷 K-beauty • Lifestyle • Culture ©
     location: "South Korea"
-    followers: 24875
-    engagement: 62
-    commentsToLikes: 0.122768
-    id: ck5hlusgakwee0i11nuymcf2w
+    followers: 17635
+    engagement: 937
+    commentsToLikes: 0.049224
+    id: ck9wookw95y240j78xszkt8a4
     verified: false
-    hashtags: "#mmschocolate, #sponserd, #hempharmx, #lowic"
-  - username: "gorgeousalice_"
+    hashtags: "#modafashionista, #moda2020, #moda, #netherlands"
+  - username: "ginabearsblog"
     fullname: >-
-      Alicefilm
+      Gina | Latina Traveler
+    bio: >-
+      🇯🇵Moved Abroad to Japan in 2012 📍Now Based in South Korea🇰🇷 🎀 Feminine Lifestyle | Solo Female Travel | Luxury 👇🏼More Travel Guides & Expat Tips
     location: "South Korea"
-    followers: 61876
-    engagement: 208
-    commentsToLikes: 0.013656
-    id: ck9wdov53gl0o0j789s7sugmo
+    followers: 43863
+    engagement: 132
+    commentsToLikes: 0.073403
+    id: ck8tahx5wrtvv0j78m48m9pg6
     verified: false
-    hashtags: ""
-  - username: "bleu_the_k"
-    fullname: >-
-      BLEU THE K
-    location: "South Korea"
-    followers: 53495
-    engagement: 303
-    commentsToLikes: 0.003874
-    id: ck5q24we1ea670i11oq1laf1y
-    verified: false
-    hashtags: ""
+    hashtags: "#spookyszn, #harrypotternerd, #harrypotterlove, #13daysofkelloween"
   - username: "sasha_yugay"
     fullname: >-
       Sasha Yu
+    bio: >-
+      Lifestyle & motherhood 🥰 Married 💍 @05era ♥️ Mom of @danieltheoblachko ☁️ Co-founder of @momsbox.kz 🤗📦
     location: "South Korea"
-    followers: 153300
-    engagement: 1554
-    commentsToLikes: 0.017836
+    followers: 149934
+    engagement: 872
+    commentsToLikes: 0.026526
     id: ck15tmuc8iv3g0i19dzwe1tmn
     verified: false
-    hashtags: "#danielandgoroshek, #stayhome, #fa, #tobecontinued"
-  - username: "checkinbusan"
+    hashtags: "#collegien, #turning2soon, #pomdapi"
+  - username: "sontaeyoung_official"
     fullname: >-
-      부산을 엽서에 담아요📮BUSAN 釜山
+      Son taeyoung 손태영(actress)
+    bio: >-
+      #sucompany#lifestyle#fashion#show#model
     location: "South Korea"
-    followers: 7405
-    engagement: 1310
-    commentsToLikes: 0.041599
-    id: ck6tzs1axbite0j7180e0tkg2
-    verified: false
-    hashtags: "#narcissus, #freewallpaper"
+    followers: 171907
+    engagement: 146
+    commentsToLikes: 0.024713
+    id: ckapcao1d31wn0i78519a6pge
+    verified: true
+    hashtags: "#newsingle, #mindtailor, #goodnight, #sunsetbird"
 ---

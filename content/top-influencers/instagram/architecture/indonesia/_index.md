@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top architecture Instagram influencers in Indonesia in 2020. Most popular hashtags: #stayathome #covid19 #citylife #stayhome.
+  Find top architecture Instagram influencers in Indonesia in 2020. Most popular hashtags: #architecture #dirumahaja #art.
 platform: Instagram
+hits: 131
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 131 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "itsteme"
     fullname: >-
       teme Abdullah
+    bio: >-
+      Architecture | Artist, Author. For books & exclusive items, visit @temeabdullah
     location: "Indonesia"
-    followers: 226744
-    engagement: 2080
-    commentsToLikes: 0.016067
+    followers: 229107
+    engagement: 2083
+    commentsToLikes: 0.014995
     id: ckap15meit5dw0i78yxxgh1x8
     verified: false
-    hashtags: "#ar, #pbakl2020, #japan, #worldofartist"
-  - username: "dindamaryna"
+    hashtags: "#sketch, #teme2020, #agongkita, #daulattuanku"
+  - username: "gionandez_al"
     fullname: >-
-      Dinda Maryna Najamuddin
+      𝙂𝙞𝙤 𝙁𝙚𝙧𝙣𝙖𝙣𝙙𝙚𝙯 𝘼𝙡𝙫𝙞𝙣
+    bio: >-
+      👨🏻‍🏫Architecture Lecturer 👨🏻‍🎓S.T., M.T. 🤴🏻1st RU Mister Icon World ‘18 🤴🏻3rd RU Gentleman of Indonesia ‘18 📸Click Portraiture ✨Jabar New Top Model
     location: "Indonesia"
-    followers: 39241
-    engagement: 600
-    commentsToLikes: 0.007110
-    id: ckap7exqjjs4x0i78k0vo6gic
+    followers: 24662
+    engagement: 218
+    commentsToLikes: 0.055675
+    id: ck0vzzpa4bo7i0i19f8lcey2f
     verified: false
-    hashtags: "#passthebrushchallenge"
-  - username: "debbydbay"
+    hashtags: "#jntm, #covid19, #staysafe, #photographer"
+  - username: "cee_explorer"
     fullname: >-
-      debby vania
+      Cédric Houmadi
+    bio: >-
+      Travel Photographer Architecture | Landscape | Portrait ✉️ : cee.explorer@gmail.com
     location: "Indonesia"
-    followers: 4266
-    engagement: 2510
-    commentsToLikes: 0.122751
-    id: ck9wfvfosqnye0j78t0mvxih0
+    followers: 31056
+    engagement: 563
+    commentsToLikes: 0.026243
+    id: ck5c7lqji7rl60i11wrszl9vj
     verified: false
-    hashtags: "#localprideindonesia, #dance, #batik, #tiktok"
-  - username: "gregorious.manalu"
+    hashtags: "#discover, #architecturephotography, #hellofrom, #dolomites"
+  - username: "deloriell"
     fullname: >-
-      6r€90re €der¿o Mαn4lu(6r€9mAn)
+      Jingga!
+    bio: >-
+      18| Studygramㅡart Business Inquiries ? dm/email me! ⁎⁺ ➜ Architectureur'20 ENTJ ( Slytherin ) 🍪🥛
     location: "Indonesia"
-    followers: 10010
-    engagement: 841
-    commentsToLikes: 0.006946
-    id: ck14luzj8wmh80i193ht4kxbn
+    followers: 4918
+    engagement: 1766
+    commentsToLikes: 0.053711
+    id: ckf5mso22v7bd0j23fax9jzuf
     verified: false
-    hashtags: "#photo, #livefolk, #love, #horror"
-  - username: "nisrinadhiya"
+    hashtags: "#prettynotes, #simple, #studygramindo, #notes"
+  - username: "haloarsitek"
     fullname: >-
-      Nisrina Dhiya
+      Halo Arsitek
+    bio: >-
+      Architecture Media & Design Studio • 🌐 haloarsitek.id Looking for Architect? Click the link below
     location: "Indonesia"
-    followers: 11807
-    engagement: 1638
-    commentsToLikes: 0.011678
-    id: ckap9akbsruob0i784be3p0so
+    followers: 101986
+    engagement: 310
+    commentsToLikes: 0.005121
+    id: ck15rcger78ez0i19j4t9g2h0
     verified: false
-    hashtags: "#untukpertamakalinya, #nmjournal, #virtualphotography, #selfreminder"
-  - username: "scnyt"
-    fullname: >-
-      Suci Nurhayati
-    location: "Indonesia"
-    followers: 8801
-    engagement: 416
-    commentsToLikes: 0.241855
-    id: ck9wh6nyawi3s0j78ta58qkh3
-    verified: false
-    hashtags: "#ragamkecantikan, #beautyhacks, #ragam, #wanitaindonesia"
-  - username: "darisarch"
-    fullname: >-
-      Daris
-    location: "Indonesia"
-    followers: 13818
-    engagement: 726
-    commentsToLikes: 0.026404
-    id: ck0ueeqmil4dv0i196iw4sof9
-    verified: false
-    hashtags: "#infojkt, #singaporeflyer, #monas, #singaporenight"
-  - username: "adrian_cw"
-    fullname: >-
-      adrian
-    location: "Indonesia"
-    followers: 6312
-    engagement: 817
-    commentsToLikes: 0.034924
-    id: ck5hdcapjmn4m0i11rsrtfvkt
-    verified: false
-    hashtags: "#ppworldphoto, #singapore"
-  - username: "backpackersopan"
-    fullname: >-
-      Travel Advisor | Baginda Sitto
-    location: "Indonesia"
-    followers: 5130
-    engagement: 535
-    commentsToLikes: 0.079284
-    id: ckaowaivj82fn0i78hroftpa9
-    verified: false
-    hashtags: "#staydry, #travelmate, #padar, #stayathome"
+    hashtags: "#arsitekturuntar, #eventjakarta, #soediloka, #2020"
   - username: "localdiskd"
     fullname: >-
       Dinar Rizqi Yuangga | 🇮🇩
+    bio: >-
+      👦 Creative Enthusiast 📩 Collab / Bussines hit on DM or Email 📍 Surabaya - Tulungagung. @architectureinlife Team
     location: "Indonesia"
-    followers: 4204
-    engagement: 1726
-    commentsToLikes: 0.139170
+    followers: 4518
+    engagement: 1493
+    commentsToLikes: 0.111397
     id: ckap2spa705ef0i78moev0q1n
     verified: false
-    hashtags: "#suroboyostreet, #iwearjordanio, #jordaniowatch, #localpride"
+    hashtags: "#dirumahaja, #withgalaxy, #droidshooter, #wtf20home"
+  - username: "hari.srg"
+    fullname: >-
+      Hari Hajaruddin Siregar
+    bio: >-
+      👨‍🌾 Travel, Architecture, Culture 📧 hari.hajaruddin.siregar@gmail.com 🌍 www.liburlagi.com 🏠 Medan, Indonesia
+    location: "Indonesia"
+    followers: 13342
+    engagement: 509
+    commentsToLikes: 0.034938
+    id: ck6u1rkyzngtq0j71lpvclva1
+    verified: false
+    hashtags: "#travelblogger, #instatraveling, #seoul, #indozonetravel"
+  - username: "aryindra"
+    fullname: >-
+      ary indra
+    bio: >-
+      Architect, Founder of Aboday, Chief Curator Indonesia Pavilion at Venice Architecture Biennale 2018 & A Dedicated Wanderer living in Selojene Salatiga
+    location: "Indonesia"
+    followers: 15946
+    engagement: 309
+    commentsToLikes: 0.014306
+    id: ck5cj63o1u1zz0i11uwkeip19
+    verified: false
+    hashtags: ""
+  - username: "donyhw"
+    fullname: >-
+      dony hendro wibowo
+    bio: >-
+      ❤️ : #sketch #watercolour #architecture 📐@visual_studiopro 📷 @donyhw2 creative hub @tandhok_artspace
+    location: "Indonesia"
+    followers: 2571
+    engagement: 923
+    commentsToLikes: 0.086096
+    id: ck6txq7gaz8830j71dra97x4d
+    verified: false
+    hashtags: "#painting, #roughpaper, #dirumahaja, #watercolorpainting"
+  - username: "dphsarchitects"
+    fullname: >-
+      Don Pieto + Henny Suwardi Arch
+    bio: >-
+      DP+HS architects | Indonesia Architecture & Interior Design Consultant dphsarchitects@yahoo.com
+    location: "Indonesia"
+    followers: 55140
+    engagement: 141
+    commentsToLikes: 0.004513
+    id: ck6ufoh9wy84a0j7125oj93c5
+    verified: false
+    hashtags: "#instagood, #rumah, #dreamhome, #picoftheday"
 ---

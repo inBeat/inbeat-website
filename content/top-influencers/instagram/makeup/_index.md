@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In 2020
 description: >-
-  Find top makeup Instagram influencers in 2020. Most popular hashtags: #konkurs #eveline #glammakeup #makijaz.
+  Find top makeup Instagram influencers in 2020. Most popular hashtags: #makeup #undiscovered #makeupartist.
 platform: Instagram
+hits: 80124
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 80124 Instagram influencers like this for you to contact.
 profiles:
-  - username: "cliodhnamclaughlin_"
+  - username: "haya.husseinn"
     fullname: >-
-      Clíodhna McLaughlin
-    location: "United Kingdom"
-    followers: 4098
-    engagement: 4486
-    commentsToLikes: 0.322169
-    id: ckaosd9ver5qp0i78rz666fu9
+      haya hussien
+    bio: >-
+      Amman/Dubai 🌃 Makeup Artist 💄 Al Mamlakah TV 📺 DM for Inquiries
+    location: "United Arab Emirates"
+    followers: 2609
+    engagement: 1102
+    commentsToLikes: 0.049599
+    id: ck5qdug14xdcq0i1196ia6p2h
     verified: false
-    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
-  - username: "sweetlifefitlife"
+    hashtags: "#makeup"
+  - username: "makeup"
     fullname: >-
-      SweetlifeFitlife
-    location: "Austria"
-    followers: 17485
-    engagement: 3222
-    commentsToLikes: 0.096802
-    id: ckaovirdf4q6y0i7802di5s71
+      @makeup
+    bio: >-
+      Makeup tutorials & tips 💄💋
+    location: ""
+    followers: 251269
+    engagement: 191
+    commentsToLikes: 0.022387
+    id: ck0w77volc78i0i192jb7r3zz
     verified: false
-    hashtags: "#modelsearch, #tshirtoftheday, #moodday, #springdays"
+    hashtags: ""
   - username: "jewska.makeup"
     fullname: >-
       Jewska Makeup
+    bio: >-
+      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
     location: "Poland"
-    followers: 4096
-    engagement: 3129
-    commentsToLikes: 0.183269
+    followers: 3950
+    engagement: 3277
+    commentsToLikes: 0.219874
     id: ck5qdwruaxnx10i113sbecb9m
     verified: false
-    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
-  - username: "natalkaa_beauty"
+    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
+  - username: "la_sussi_"
     fullname: >-
-      ✨Natalia Stelmach✨(3,5k)
-    location: "United States"
-    followers: 3513
-    engagement: 2787
-    commentsToLikes: 0.167101
-    id: ck8t3e5g62xbt0j787kplm4tl
-    verified: false
-    hashtags: "#quarantinelife, #poland, #collab, #makeupgiveaway"
-  - username: "jennseren"
-    fullname: >-
-      Jen Seren
-    location: "United Kingdom"
-    followers: 17585
-    engagement: 2441
-    commentsToLikes: 0.113329
-    id: ck6uai1xi3o4s0j71tijk15jw
-    verified: false
-    hashtags: "#tattooshop, #dropit, #zodiacmakeup, #tattoos"
-  - username: "helenacoelhooo"
-    fullname: >-
-      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
-    location: "Brazil"
-    followers: 455499
-    engagement: 2440
-    commentsToLikes: 1.664794
-    id: ck0u0az0ut4qf0i19ylg3kdyp
-    verified: false
-    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
-  - username: "bhupinder_19"
-    fullname: >-
-      🌈Bhupinder Kaur🦄
-    location: "India"
-    followers: 6488
-    engagement: 2384
-    commentsToLikes: 0.089619
-    id: ckaov56z033sp0i78y2hqb5vd
-    verified: false
-    hashtags: "#pinkmakeuplooks, #instadailypost, #quarantinelife, #stylingvideo"
-  - username: "brinkleybaglin"
-    fullname: >-
-      🦋𝕭𝖗𝖎𝖓𝖐𝖑𝖊𝖞 𝕭𝖆𝖌𝖑𝖎𝖓🦋
-    location: ""
-    followers: 5565
-    engagement: 1902
-    commentsToLikes: 0.442850
-    id: ck8tcvb6y0tm50j785euc6oau
-    verified: false
-    hashtags: "#filters, #leopardprint, #teethwhitening, #song"
-  - username: "paradisedapree"
-    fullname: >-
-      Paradise Dapree
-    location: "United States"
-    followers: 9340
-    engagement: 1841
-    commentsToLikes: 0.114620
-    id: ck9hadynic6tu0j78xt018iuo
+      Gonzalo Gervilla Limon
+    bio: >-
+      🔥MakeUp Artist🔥
+    location: "Spain"
+    followers: 3254
+    engagement: 3140
+    commentsToLikes: 0.141739
+    id: ck6tqxe2pv7yo0j711l48gtma
     verified: false
     hashtags: ""
-  - username: "wielzi"
+  - username: "yasssmachado"
     fullname: >-
-      Oktawia (7,4k) • MUA • beauty
-    location: "Poland"
-    followers: 7450
-    engagement: 1824
-    commentsToLikes: 0.164795
-    id: ck5hhe13t7qpr0i11v5n8o27k
+      𝔜𝔞𝔰𝔪𝔦𝔫 𝔐𝔞𝔠𝔥𝔞𝔡𝔬
+    bio: >-
+      • Makeup Artist | Metal | Geek ✨ • 071 📍 • 📧 yasmindahoraa@gmail.com
+    location: "Brazil"
+    followers: 5287
+    engagement: 2931
+    commentsToLikes: 0.131081
+    id: ck8t87w5zje0t0j78usiprw3o
     verified: false
-    hashtags: "#makeupaddict, #norvinapalette, #makeup, #eyelineronpoint"
+    hashtags: "#blackmetalgirl, #halloweenmakeup, #gothgirl, #makeuplook"
+  - username: "antoniyayaneva"
+    fullname: >-
+      
+    bio: >-
+      🌴Aloha👋😬 💌 DM for collabs 🧬Medical University Sofia 🖌Certified Makeup artist @angelbeautybulgaria
+    location: ""
+    followers: 5018
+    engagement: 2589
+    commentsToLikes: 0.316132
+    id: ckaots5cnx9ec0i78lj5knm8b
+    verified: false
+    hashtags: "#followmyself, #fashiondays, #fashiondaysbg, #littleblackdresses"
+  - username: "fashmakeup_blog"
+    fullname: >-
+      Martha Lorena Acevedo JW
+    bio: >-
+      Content Creator ✨ Makeup obsessed & skincare lover! Fashion is my passion as well✨ Miami,Florida. PR Friendly 💌 Email: martitamigos@yahoo.es
+    location: "United Kingdom"
+    followers: 5672
+    engagement: 2562
+    commentsToLikes: 0.270516
+    id: ck5c6oj815vam0i11m64tw265
+    verified: false
+    hashtags: "#noracora, #sponsorship, #outiftoftheday, #octolyfamily"
+  - username: "mr.andre.fernandes"
+    fullname: >-
+      André 🎨
+    bio: >-
+      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
+    location: "Portugal"
+    followers: 10137
+    engagement: 2558
+    commentsToLikes: 0.903432
+    id: ck8tduw344uvg0j78zgfznyqt
+    verified: false
+    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
+  - username: "mrsmlw_"
+    fullname: >-
+      𝐎̈ 𝐙 𝐆 𝐄  ♥
+    bio: >-
+      Mommy of three ❥ #zwillingsmama // pro makeup artist @mrsmlwcosmetics // wifey to @maroquinox ✨🤲🏻
+    location: "Germany"
+    followers: 2397
+    engagement: 2453
+    commentsToLikes: 0.152220
+    id: ckaos4627q0200i789z5s6xac
+    verified: false
+    hashtags: "#liebe, #mamablogger, #girls, #mamaleben"
+  - username: "gianna_karamani"
+    fullname: >-
+      Gianna Karamani
+    bio: >-
+      💌 Pr : giannakaramanh@gmail.com 💞Obsessed with makeup 👩‍👧Mommy of baby Ellie 💄 YOUTUBE CHANNEL👇
+    location: ""
+    followers: 23323
+    engagement: 2287
+    commentsToLikes: 0.787318
+    id: ck5q3zuern3x80i11x51bgxo8
+    verified: false
+    hashtags: "#giveaway, #cozy, #smashboxgreece, #homesweethome"
 ---

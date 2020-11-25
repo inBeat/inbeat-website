@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Greece In 2020
 description: >-
-  Find top beauty Instagram influencers in Greece in 2020. Most popular hashtags: #nature #covid #makeup #earrings.
+  Find top beauty Instagram influencers in Greece in 2020. Most popular hashtags: #giveaway #giveawaygr #greece.
 platform: Instagram
+hits: 581
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 581 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "beautymylife_gr"
-    fullname: >-
-      Popi Stefani
-    location: "Greece"
-    followers: 17286
-    engagement: 874
-    commentsToLikes: 1.817042
-    id: ck55ougup95pv0i11jfly00rf
-    verified: false
-    hashtags: "#greecestagram, #vichy, #giveawayhuawei, #hairstyle"
-  - username: "alexiamantzari"
-    fullname: >-
-      A L È X I A 🧿 M À N T Z A R I
-    location: "Greece"
-    followers: 11623
-    engagement: 993
-    commentsToLikes: 0.115421
-    id: ckap7zx6dm8l40i785nlosvyu
-    verified: false
-    hashtags: "#alexiamantzari, #firstmay, #flowers, #jewelry"
   - username: "giogiota"
     fullname: >-
       Gio Dreveli Giannou - PRO MUA💄
+    bio: >-
+      ATH🇬🇷📍 Founder @giodrevelilashes @giodrevelimakeupacademy PR:📧gio@giodreveli.gr Appt:📧beauty@giodreveli.gr YT 𝓒𝓱𝓪𝓷𝓷𝓮𝓵: 𝐆𝐢𝐨 𝐃𝐫𝐞𝐯𝐞𝐥𝐢
     location: "Greece"
-    followers: 124580
-    engagement: 1436
-    commentsToLikes: 0.053794
+    followers: 136036
+    engagement: 2587
+    commentsToLikes: 0.770786
     id: ck13a5wlnorq30i19387c1an3
     verified: false
-    hashtags: "#meltcosmetics, #atticabeauty, #niveagreece, #wyconcosmetics"
-  - username: "delidemie"
+    hashtags: "#giodreveli, #giogiota, #misagreece, #misababygreece"
+  - username: "kalli_albn"
     fullname: >-
-      🌺 𝓓𝓮𝓶𝓲𝓮 🌺
+      🎀 KᗩᒪᒪI  ᗩᒪᗷᗩᑎI 🎀
+    bio: >-
+      • Don’t be like the rest of them! Stay in your magic •🧚🏻‍♀️ 💌 DM for Collabs 🎁 📌Fashion • Beauty • Lifestyle💄 🌎Welcome to my BlondeWorld🦄
     location: "Greece"
-    followers: 19461
-    engagement: 1630
-    commentsToLikes: 1.300202
-    id: ck5q3zyd2n4jv0i11da39iend
+    followers: 10022
+    engagement: 1892
+    commentsToLikes: 0.510966
+    id: ckap4zjlr9ijt0i78gbttbmz9
     verified: false
-    hashtags: "#lipscrub, #sneakers, #realitytv, #handmade"
-  - username: "stylemeligan"
+    hashtags: "#travel, #fashion, #tbt, #girl"
+  - username: "dimi_ven"
     fullname: >-
-      Stella Meligan
+      ᗪƖᗰƖƬᖇᗩ ᐯƐᑎOᑌ
+    bio: >-
+      🎯 Can’t get enough of travelling style and beauty 🎯 Always dreaming of my next trip! 💏 Married Work📍Save📍Travel📍Repeat
     location: "Greece"
-    followers: 37090
-    engagement: 342
-    commentsToLikes: 0.095727
-    id: ck8t2ccxkyy1z0j78ufah2oyb
+    followers: 8876
+    engagement: 1805
+    commentsToLikes: 0.086963
+    id: ck15plt36yisn0i19f03tk3q1
     verified: false
-    hashtags: "#homesituation, #hm, #enyoofficial, #thinkposotive"
-  - username: "sorelle_beauty_by_gripaiou"
+    hashtags: "#beautifulmatters, #thetravelwomen, #scotland, #darlingescapes"
+  - username: "tania_kofinioti"
     fullname: >-
-      𝓢𝓸𝓻𝓮𝓵𝓵𝓮 𝓐𝓮𝓰𝓲𝓷𝓪
+      Tania_kofinioti
+    bio: >-
+      @grmystylerocks 👗MISS ELEGANCE INTERNATIONAL 💃WORLD BEAUTY QUEEN 👑STAR GS HELLAS ✌🏼MISS WORLD PEACE 👸🏼MISS TOURISM-PERSONALITY 🌎Live Travel with style
     location: "Greece"
-    followers: 18238
-    engagement: 357
-    commentsToLikes: 0.363018
-    id: ckap4zps39jd80i78yb90a3em
+    followers: 23522
+    engagement: 567
+    commentsToLikes: 0.835816
+    id: ckap50cru9mc00i78ps1a43xw
     verified: false
-    hashtags: "#beautyskincare, #glamour, #aigina, #makeup"
-  - username: "marina_peristera_"
+    hashtags: "#giveawaygr, #stayathome, #mystylerocks, #palette"
+  - username: "thisissivylla"
     fullname: >-
-      𝑀𝑎𝑟𝑖𝑛𝑎 𝑝𝑎𝑝𝑎𝑛𝑖𝑘𝑜𝑙𝑎𝑜𝑢 👡👜💋💄
+      Sivylla
+    bio: >-
+      Public Relations aficionado Beauty | Motherhood | Lifestyle Mama of #2under2 👧🏼👶🏼 Baby No3 on the way 🍼
     location: "Greece"
-    followers: 6210
-    engagement: 1245
-    commentsToLikes: 0.328152
-    id: ck13a5yxros2n0i19scdkphq0
+    followers: 74779
+    engagement: 432
+    commentsToLikes: 0.910259
+    id: ck0w2zrg6qx2i0i19f2m2qke1
     verified: false
-    hashtags: "#womanstyle, #driveseat, #work, #accesories"
-  - username: "cleopatra_black"
+    hashtags: "#round3, #preggo, #ariadne, #giveaway"
+  - username: "alinabbd"
     fullname: >-
-      ▪️Cleopatra Lagouvardou ▫️
+      alinabbd
+    bio: >-
+      Company @lakshmi_beautyshop
     location: "Greece"
-    followers: 26044
-    engagement: 203
-    commentsToLikes: 0.458507
-    id: ckaorbvdxmlmy0i78odbabsjt
+    followers: 154951
+    engagement: 417
+    commentsToLikes: 0.304214
+    id: ck15tolx7j4lg0i19dclxv5en
     verified: false
-    hashtags: "#giveaway, #giveawaysgr, #slowmotion, #nature"
-  - username: "ntar_ina"
+    hashtags: "#drink, #beautiful, #nails, #skin"
+  - username: "theclassysavage"
     fullname: >-
-      
+      Nicole Despotopoulou
+    bio: >-
+      ✨Everyday effortless style Shopping | Beauty | Lifestyle 📍Athens,Greece 💌Collab/Promo ➱ Dm
     location: "Greece"
-    followers: 16978
-    engagement: 1032
-    commentsToLikes: 0.011109
-    id: ck5qed10gzvvy0i11mjx0rg7e
+    followers: 82181
+    engagement: 407
+    commentsToLikes: 0.193630
+    id: ck15pgd8oxqny0i19rpm2vnsw
     verified: false
-    hashtags: "#delicious, #vienna, #travels, #coffeeshop"
-  - username: "marasamartzi"
+    hashtags: "#goodluck, #quarantine, #dieselunforgettabledenim"
+  - username: "simplynclassy"
     fullname: >-
-      MARA SAMARTZI
+      Vassia Riga
+    bio: >-
+      Fashion |Travel |Beauty |Lifestyle Content Creator 📍Greece 🇬🇷 ♡@michail_rodax (📸) Collaborations 📧simplynclassy@gmail.com / DM 🖊 Rᴇᴀᴅ ᴍᴇ ⬇️
     location: "Greece"
-    followers: 128688
-    engagement: 902
-    commentsToLikes: 0.006295
-    id: ck8t0am4iretb0j78jlgv0qub
+    followers: 24293
+    engagement: 301
+    commentsToLikes: 0.175862
+    id: ckap4zu1a9jxg0i78o41jy7rv
     verified: false
-    hashtags: "#iamawolter, #woltnorth, #byredo, #ringlight"
+    hashtags: "#greece, #giveawaysgreece"
+  - username: "beautymylife_gr"
+    fullname: >-
+      Popi Stefani
+    bio: >-
+      Beauty Blogger
+    location: "Greece"
+    followers: 20062
+    engagement: 606
+    commentsToLikes: 0.689135
+    id: ck55ougup95pv0i11jfly00rf
+    verified: false
+    hashtags: "#giveawaygr, #beauty, #blogger, #beautybloggers"
+  - username: "kleonikipanagiotopoulou"
+    fullname: >-
+      Kleoniki 🌸 Photographer
+    bio: >-
+      Fashion, Beauty, Product Photography For bookings DM or email 📥 kleoniki.photography@gmail.com 💌 📍Athens, Greece
+    location: "Greece"
+    followers: 22813
+    engagement: 1348
+    commentsToLikes: 0.035299
+    id: ck5pvhngxhxcq0i11lc8cvm1r
+    verified: false
+    hashtags: ""
 ---

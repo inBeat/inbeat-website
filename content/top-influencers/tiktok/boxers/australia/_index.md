@@ -1,87 +1,118 @@
 ---
 title: Top 10 Boxers TikTok Influencers In Australia In 2020
 description: >-
-  Find top boxers TikTok influencers in Australia in 2020. Most popular hashtags: #boxer #coronavirus #duet #dogsoftiktok.
+  Find top boxers TikTok influencers in Australia in 2020. Most popular hashtags: #australia #fyp #duet #foryoupage.
 platform: TikTok
+hits: 9
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 9 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "sonnusingh06"
     fullname: >-
       Sonu Nannu
+    bio: >-
+      Pro Boxer-Boxing coach-Gold coast Australia-Sangrur-punjab
     location: "Australia"
-    followers: 3517
-    engagement: 314
-    commentsToLikes: 0.014773
+    followers: 4159
+    engagement: 330
+    commentsToLikes: 0.021250
     id: ck9kfn0ru42ox0j789sw63axl
     verified: false
-    hashtags: "#raftaar, #punjabimum, #khanbhaini, #karanaujla"
-  - username: "rebel.michele"
+    hashtags: "#fortitudeboxing, #sonnunannu, #punjabiblog, #28kgsgone7moretogo"
+  - username: "01koda"
     fullname: >-
-      Rebel Michele
+      01koda
+    bio: >-
+      🇦🇺 A CITY Archived all my vids.. NINETEEN YEAR OLD MMA FIGHTER..
     location: "Australia"
-    followers: 7064
-    engagement: 786
-    commentsToLikes: 0.111522
-    id: ck9si9khrxu4z0j78qxqgzuu5
-    verified: false
-    hashtags: "#eyes, #weightloss, #momsontiktok, #boxing"
-  - username: "nico.irl"
-    fullname: >-
-      Nico
-    location: "Australia"
-    followers: 5227
-    engagement: 422
-    commentsToLikes: 0.068510
-    id: cka5z159skovi0i78xgybkwlv
-    verified: false
-    hashtags: "#ethan, #isolation, #smoking, #mypetpeeve"
-  - username: "amyreanne"
-    fullname: >-
-      AmyReanne
-    location: "Australia"
-    followers: 39453
-    engagement: 420
-    commentsToLikes: 0.013129
-    id: ckaicx9i2m88x0i78dey0beo9
-    verified: false
-    hashtags: "#greatdane, #sickhorse, #equestrianfails, #dogsoftiktok"
-  - username: "fluffiestduo"
-    fullname: >-
-      Jakoda Chau
-    location: "Australia"
-    followers: 78472
-    engagement: 699
-    commentsToLikes: 0.000000
+    followers: 77100
+    engagement: 632
+    commentsToLikes: 0.025157
     id: ck807bgp3pkv70j78ysozoj51
     verified: false
-    hashtags: "#challenge, #bondibeach, #zyzbca, #voiceover"
+    hashtags: "#xyzbca, #fy, #fyp, #foryoupage"
+  - username: "reevsy85"
+    fullname: >-
+      Reevsy85
+    bio: >-
+      Thanks For 20k you legends Chris, Taken with 2 kids
+    location: "Australia"
+    followers: 20500
+    engagement: 648
+    commentsToLikes: 0.016378
+    id: ckbqgs69g25qd0j23bmtegfow
+    verified: false
+    hashtags: "#mysterybox, #baldy, #mysterywand, #aussie"
+  - username: "sandhuz__avi"
+    fullname: >-
+      Sandhuz avi 
+    bio: >-
+      Melbourne 🇦🇺
+    location: "Australia"
+    followers: 32400
+    engagement: 310
+    commentsToLikes: 0.027812
+    id: ck81t0o9iujh20j781k09umkh
+    verified: false
+    hashtags: "#karan, #hooka, #diljitdosanjh, #melbourne"
   - username: "amazing_grazers"
     fullname: >-
       Amazing Grazers 
+    bio: >-
+      Tania 👋🏽 Adelaide grazing specialist. Platters | Boxes | Workshops EST. 2016
     location: "Australia"
-    followers: 62910
-    engagement: 694
-    commentsToLikes: 0.006222
+    followers: 294200
+    engagement: 932
+    commentsToLikes: 0.009297
     id: ck9ejczvn2ear0j78fi8jpwdo
     verified: false
-    hashtags: "#yummy, #lifeathome, #mumlife, #grazerunner"
-  - username: "raptor_cosplay44"
+    hashtags: "#grazeanatomy, #australia, #charcuteriebox, #cheesetiktok"
+  - username: "noodles_and_tea"
     fullname: >-
-      Jackie Boi
+      Issy
+    bio: >-
+      I am doing my best You can find me on insta @noodle_and_tea ✌️
     location: "Australia"
-    followers: 14608
-    engagement: 2270
-    commentsToLikes: 0.029334
-    id: ck9fwsqpt2znl0j78rhnxhpbw
+    followers: 149400
+    engagement: 3250
+    commentsToLikes: 0.015351
+    id: cka0i042bbkok0i78o6af2ec0
     verified: false
-    hashtags: "#aizawa, #katsuki, #snake, #sourcandy"
+    hashtags: "#milesedgeworth, #digitalart, #attackontitan, #art"
+  - username: "antheas_glitter_bottles"
+    fullname: >-
+      Antheas_bottles
+    bio: >-
+      Insta: abeauty_lashes Insta: antheas_glitter_bottles Shop cosmetics👇🏼
+    location: "Australia"
+    followers: 7696
+    engagement: 1495
+    commentsToLikes: 0.034682
+    id: ckbqvglxhfpg10j23qql2fi9q
+    verified: false
+    hashtags: "#bestie, #itstartsontiktok, #fyp, #foryou"
+  - username: "aussiebornbreed"
+    fullname: >-
+      Kate Watchorn
+    bio: >-
+      Unboxing surprise toys with features from my dogs and cat, and sometimes me
+    location: "Australia"
+    followers: 9023
+    engagement: 457
+    commentsToLikes: 0.018004
+    id: ckceiez3fqnd90j23sqxi7tag
+    verified: false
+    hashtags: "#boxerdog, #mainecooncat, #pinkhairdontcare, #duet"
   - username: "siempregolden"
     fullname: >-
       Siempre Golden
+    bio: >-
+      Swimwear & Clothing label✨☁️ @siempregolden
     location: "Australia"
-    followers: 4157
-    engagement: 427
-    commentsToLikes: 0.010136
+    followers: 29800
+    engagement: 214
+    commentsToLikes: 0.011387
     id: ck9vcmhnnr8q00j78s4fj7qsu
     verified: false
-    hashtags: "#belair, #roddyrich, #losangeles, #dogslife"
+    hashtags: "#bikinis, #swimwear, #swimsuit, #caligirl"
 ---

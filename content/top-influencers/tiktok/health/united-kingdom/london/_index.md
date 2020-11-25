@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In London In 2020
 description: >-
-  Find top health TikTok influencers in London in 2020. Most popular hashtags: #london #health #coronavirus #home.
+  Find top health TikTok influencers in London in 2020. Most popular hashtags: #health #fyp #learnontiktok #london.
 platform: TikTok
+hits: 33
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database holds 33 TikTok influencers like this in London, United Kingdom for you to collaborate.
 profiles:
+  - username: "embodyhealthldn"
+    fullname: >-
+      Embody Health London
+    bio: >-
+      Dancing Dietitians 💃 ED RECOVERY & INTUITIVE EATING🌸 Apply for 1:1 coaching👇
+    location: "United Kingdom"
+    followers: 42300
+    engagement: 750
+    commentsToLikes: 0.015354
+    id: ckcuzpzbamw2i0j23qj1y4a4s
+    verified: false
+    hashtags: "#dietitian, #itbelikethat, #edrecovery, #intuitiveeating"
+  - username: "smallspartanjay"
+    fullname: >-
+      Small Spartan 
+    bio: >-
+      Jay@ixbtalent.com INSTAGRAM - @Smallspartanjay YOUTUBE - SMALLSPARTANTV
+    location: "United Kingdom"
+    followers: 373300
+    engagement: 531
+    commentsToLikes: 0.008157
+    id: ck83wyzr0n5k10j78grbaw3ur
+    verified: false
+    hashtags: "#abs, #london, #fit, #sixpack"
+  - username: "jackrunstheworld"
+    fullname: >-
+      Jack Runs The World
+    bio: >-
+      Travel ✈️ Content creator and writer. Author. Singer/Songwriter. Gay. 🏳️‍🌈
+    location: "United Kingdom"
+    followers: 25300
+    engagement: 969
+    commentsToLikes: 0.039496
+    id: ckdi0jpeq5m1g0j233dlwy66u
+    verified: false
+    hashtags: "#wales, #travels, #harrypottermovies, #harrypotter"
+  - username: "benslade09"
+    fullname: >-
+      Ben Slade
+    bio: >-
+      London 🇬🇧 IG: @ben_slade
+    location: "United Kingdom"
+    followers: 6527
+    engagement: 488
+    commentsToLikes: 0.028837
+    id: ck9nn319fnaaf0j78v0p6qabd
+    verified: false
+    hashtags: "#foryoupage, #workout, #foryou, #trend"
   - username: "ashlyraeceo"
     fullname: >-
       ashlyraeceo
+    bio: >-
+      Scottish ✨ Living in London ✨ Plant Based 🌱 Health, Wealth & Beauty 🌸
     location: "United Kingdom"
-    followers: 22161
-    engagement: 370
-    commentsToLikes: 0.024314
+    followers: 21500
+    engagement: 360
+    commentsToLikes: 0.026622
     id: ck8ouyb7jrp0w0j78801dsrdw
     verified: false
-    hashtags: "#makeuptips, #imaboss, #bloating, #boss"
+    hashtags: "#london, #fyp, #yoga, #funny"
+  - username: "maxfostercnn"
+    fullname: >-
+      Max Foster
+    bio: >-
+      News & the stuff that happens around it
+    location: "United Kingdom"
+    followers: 208500
+    engagement: 1047
+    commentsToLikes: 0.033742
+    id: ck9nohbsju2mr0j782zzdkha7
+    verified: true
+    hashtags: "#news, #cnn, #learnontiktok, #climatechange"
+  - username: "tillydumb3ll"
+    fullname: >-
+      Hi 👋 ☺️
+    bio: >-
+      Messages don’t work 💞 Pinterest-Tilly Dumbell Depop-tilly_
+    location: "United Kingdom"
+    followers: 14800
+    engagement: 1671
+    commentsToLikes: 0.038240
+    id: ckbqp2x3u9xfj0j234jvyuwbq
+    verified: false
+    hashtags: "#preppy, #styletips, #vibe, #indie"
+  - username: "jalalsamfit"
+    fullname: >-
+      Jalal
+    bio: >-
+      London🇬🇧 fitness | gains | tips instagram - jalalsamfit positive vibes 💫
+    location: "United Kingdom"
+    followers: 226900
+    engagement: 558
+    commentsToLikes: 0.016176
+    id: ck9r6257720zb0j78fn86x6rr
+    verified: false
+    hashtags: "#dessert, #health, #getfit, #easymeal"
   - username: "theimperfectnutritionist"
     fullname: >-
       Jennifer Medhurst
+    bio: >-
+      Registered Nutritionist London and virtual clinic Contact@jennifermedhurst.com
     location: "United Kingdom"
-    followers: 5902
-    engagement: 424
-    commentsToLikes: 0.003957
+    followers: 93200
+    engagement: 464
+    commentsToLikes: 0.011222
     id: ck9844lzrn0010j78stjuo5aq
     verified: false
-    hashtags: "#nutritionfacts, #happiness, #coronafacts, #coronaupdate"
-  - username: "monikasimla"
+    hashtags: "#fyp, #healthyrecipe, #learnontiktok, #vegan"
+  - username: "alicesantos0204"
     fullname: >-
-      Monika Simla
+      alicesantos0204
+    bio: >-
+      Health • Wellness • Model Follow me on Instagram @alicesantos0204
     location: "United Kingdom"
-    followers: 6427
-    engagement: 309
-    commentsToLikes: 0.022074
-    id: cka0rgla7h0p20i78m2uvqv8k
+    followers: 55400
+    engagement: 1123
+    commentsToLikes: 0.010486
+    id: ckbqdwfnjzunv0j23os835vbo
     verified: false
-    hashtags: "#bird, #satisfying, #home, #hungry"
-  - username: "eveningstandard"
-    fullname: >-
-      EveningStandard
-    location: "United Kingdom"
-    followers: 15655
-    engagement: 351
-    commentsToLikes: 0.012760
-    id: ck9f9cvjn69g30j78pcw1q8b7
-    verified: true
-    hashtags: "#earthday, #thankyounhs, #dogs, #houseoftiktok"
-  - username: "mrjagchima"
-    fullname: >-
-      Jag Chima
-    location: "United Kingdom"
-    followers: 8507
-    engagement: 659
-    commentsToLikes: 0.072582
-    id: ck8opauc22dh40j78sm2pwmm1
-    verified: true
-    hashtags: "#lockdown, #kochi, #appreciation, #bangalore"
-  - username: "matthewshribman"
-    fullname: >-
-      Matthew Shribman
-    location: "United Kingdom"
-    followers: 18209
-    engagement: 1631
-    commentsToLikes: 0.028448
-    id: ck8ou4l9fo4af0j78fxlrppgb
-    verified: false
-    hashtags: "#washyourhands, #late, #america, #food"
-  - username: "sam_den_0"
-    fullname: >-
-      sam-den-0
-    location: "United Kingdom"
-    followers: 6525
-    engagement: 1630
-    commentsToLikes: 0.026778
-    id: cka0zquxlgh8a0i78lauz45so
-    verified: false
-    hashtags: "#curls, #charm, #cursed, #thermal"
-  - username: "the_vibey_vegan"
-    fullname: >-
-      the_vibey_vegan
-    location: "United Kingdom"
-    followers: 8735
-    engagement: 902
-    commentsToLikes: 0.039929
-    id: ck80oevdmhecx0j78kvzci6a8
-    verified: false
-    hashtags: "#sunrise, #avocado, #canyouliftit, #baking"
-  - username: "pwilson596"
-    fullname: >-
-      💙P Wilson💙
-    location: "United Kingdom"
-    followers: 29577
-    engagement: 773
-    commentsToLikes: 0.010639
-    id: ck8ndrou9kd9h0j786ssn4qfa
-    verified: false
-    hashtags: "#spicegirls, #squirrel, #skate, #michaeljackson"
-  - username: "soulfitnessldn9"
-    fullname: >-
-      Soul
-    location: "United Kingdom"
-    followers: 245638
-    engagement: 512
-    commentsToLikes: 0.009660
-    id: ck8ae3vb69l920j78lx6lerq5
-    verified: false
-    hashtags: "#fypage, #armchallege, #strongsanjog, #tiktoku"
+    hashtags: "#fy, #life, #health, #saudavel"
 ---

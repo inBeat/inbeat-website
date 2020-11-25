@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Toronto In 2020
 description: >-
-  Find top travel TikTok influencers in Toronto in 2020. Most popular hashtags: #travel #tiktoktravel #canada #lifehack.
+  Find top travel TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #toronto #travel #canada.
 platform: TikTok
+hits: 78
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 78 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "yung.jean"
+  - username: "oknehaa"
     fullname: >-
-      ♡ Jean ♡
+      Okneha
+    bio: >-
+      Lets tik talk about it
     location: "Canada"
-    followers: 5117
-    engagement: 1882
-    commentsToLikes: 0.017063
-    id: ck94l4juaxrr60j78wwl3ra4y
+    followers: 4436
+    engagement: 1075
+    commentsToLikes: 0.062256
+    id: ckc7pdrd9v3wo0j237ba47kkx
     verified: false
-    hashtags: "#dreamland, #hayaomiyazaki, #studioghibli, #osaka"
-  - username: "ssothiro"
+    hashtags: "#foryoupage, #naturevibes, #vlog, #fyp"
+  - username: "manjushankar143"
     fullname: >-
-      Sam
+      user540446
+    bio: >-
+      
     location: "Canada"
-    followers: 7356
-    engagement: 937
-    commentsToLikes: 0.010313
-    id: ck9rgy2xpczwh0j78w2939uc3
+    followers: 2690
+    engagement: 589
+    commentsToLikes: 0.061323
+    id: ckbkz22povcw30j23l8korbtj
     verified: false
-    hashtags: "#sunsetpoint, #bambooforest, #sunsetlover, #lanikaipillbox"
+    hashtags: "#destination, #quebec, #canadalife, #banff"
+  - username: "afnan.alsayed"
+    fullname: >-
+      Afnan Alsayed
+    bio: >-
+      
+    location: "Canada"
+    followers: 5148
+    engagement: 983
+    commentsToLikes: 0.013342
+    id: ckbqlwrb272em0j2396ljpfql
+    verified: false
+    hashtags: "#tiktok, #fyp, #foryoupage, #ramadan"
+  - username: "hyla_"
+    fullname: >-
+      Hyla
+    bio: >-
+      toronto cofounder of @437 (IG) @437shop (TikTok)
+    location: "Canada"
+    followers: 6335
+    engagement: 389
+    commentsToLikes: 0.051834
+    id: ckdsky95zna7o0j23xazijhg3
+    verified: false
+    hashtags: "#fyp, #foryoupage, #portugal, #dog"
+  - username: "danielkrakan"
+    fullname: >-
+      dkphotography
+    bio: >-
+      Photographer IG : @danielkrakan (70k) PRESETS👇🏼
+    location: "Canada"
+    followers: 33400
+    engagement: 838
+    commentsToLikes: 0.056714
+    id: ckcel8dqxuz700j237hu339gl
+    verified: false
+    hashtags: "#wow, #tiktokartist, #creative, #viralvideo"
+  - username: "ninireyy95"
+    fullname: >-
+      Ninireyy
+    bio: >-
+      Trying to stay hip with the teens 🇨🇦6️⃣
+    location: "Canada"
+    followers: 13800
+    engagement: 394
+    commentsToLikes: 0.026014
+    id: ck81q3yijfqcy0j784lfxc0o2
+    verified: false
+    hashtags: "#dogsoftiktok, #sewing, #fyp, #thriftflip"
+  - username: "jameslifee"
+    fullname: >-
+      Jamey
+    bio: >-
+      SEARCHING FOR LIFE’S GREATEST ADVENTURES 🇨🇦📸🌴🎬🏔🌎 Newest YT vid below! ⬇️
+    location: "Canada"
+    followers: 30800
+    engagement: 638
+    commentsToLikes: 0.041173
+    id: ckbkld93eep0c0j23qcb4z4mw
+    verified: false
+    hashtags: "#ottawatourism, #ottawafoodie, #ontario, #autumnadventures"
   - username: "emscourtney"
     fullname: >-
       Emma
+    bio: >-
+      Lover of interior design, baking, travel, fitness & cats 📍Toronto
     location: "Canada"
-    followers: 2728
-    engagement: 735
-    commentsToLikes: 0.061289
+    followers: 3328
+    engagement: 706
+    commentsToLikes: 0.053382
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#onlyincanada, #banff, #dogsoftiktok, #canadianthanksgiving"
+    hashtags: "#catsoftiktok, #vibecheck, #foryou, #cats"
   - username: "rowdy.ravish"
     fullname: >-
       Rowdy Ravish
+    bio: >-
+      Indian Canadian YouTuber, search for "Rowdy Ravish" on YouTube and Instagram
     location: "Canada"
     followers: 20116
     engagement: 277
     commentsToLikes: 0.015197
     id: cka0omqlt4lpj0i78i73day2a
     verified: false
-    hashtags: "#funnyvideos, #thand, #jokesinhindi, #dronefootage"
-  - username: "vexssa"
+    hashtags: "#funnyindia, #djimavicmini, #fyp, #pyaaj"
+  - username: "dronestore"
     fullname: >-
-      vexssa
+      The TikTok Drone Guy
+    bio: >-
+      Visit www.skynexdronestore.com, official home of the drone.
     location: "Canada"
-    followers: 70126
-    engagement: 1357
-    commentsToLikes: 0.021580
-    id: ck8071dihnv1z0j78ybtgmc0x
+    followers: 44500
+    engagement: 505
+    commentsToLikes: 0.017516
+    id: ckcjcenqg9g6r0j23e5rbpo88
     verified: false
-    hashtags: "#glowup, #learnontiktok, #naakey, #vibes"
-  - username: "trueoutliersofficial"
-    fullname: >-
-      trueoutliers
-    location: "Canada"
-    followers: 2751
-    engagement: 957
-    commentsToLikes: 0.049665
-    id: cka0k740plb110i787wf7q1i3
-    verified: false
-    hashtags: "#stimulus, #blindinglights, #ultrainstinct, #behappy"
-  - username: "naomileanage"
-    fullname: >-
-      Naomi Leanage
-    location: "Canada"
-    followers: 143299
-    engagement: 2855
-    commentsToLikes: 0.016589
-    id: ck806vbblmaom0j78ddv18enc
-    verified: false
-    hashtags: "#supportgroup, #movingout, #srilankan, #thailandtravel"
-  - username: "freshdailyca"
-    fullname: >-
-      Freshdaily
-    location: "Canada"
-    followers: 14454
-    engagement: 1557
-    commentsToLikes: 0.023278
-    id: ck9f9jj9z70kg0j78behujol9
-    verified: false
-    hashtags: "#canadianlife, #american, #pets, #bakingrecipe"
-  - username: "katesearly"
-    fullname: >-
-      Kate Earley
-    location: "Canada"
-    followers: 26079
-    engagement: 482
-    commentsToLikes: 0.037853
-    id: ck8qixg6naxz40j786qbyy7mo
-    verified: false
-    hashtags: "#ditl, #gotthisforyou, #mcmaster, #carelton"
-  - username: "justpulito"
-    fullname: >-
-      J
-    location: "Canada"
-    followers: 32844
-    engagement: 494
-    commentsToLikes: 0.049181
-    id: ck8ufl8yh25d60j78kibar1o7
-    verified: false
-    hashtags: "#travel, #acidwash, #transitions, #zoom"
+    hashtags: "#cod, #blm, #canada, #drones"
 ---

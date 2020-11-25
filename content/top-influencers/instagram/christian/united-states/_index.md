@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In United States In 2020
 description: >-
-  Find top christian Instagram influencers in United States in 2020. Most popular hashtags: #summertrends #bratzmakeup #bohochic #mommystyle.
+  Find top christian Instagram influencers in United States in 2020. Most popular hashtags: #halloween #jeepwrangler #photography.
 platform: Instagram
+hits: 3807
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 3807 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "christiancarnation"
     fullname: >-
       Christian
+    bio: >-
+      Bagged 2015 Mustang GT Premium PP manual NC 🌍 RT(R) ☢ Sphynx cat mum @smeagolandluna @limitlesscarcare : CHRISTIAN15
     location: "United States"
-    followers: 35714
-    engagement: 571
-    commentsToLikes: 0.021506
+    followers: 35698
+    engagement: 408
+    commentsToLikes: 0.021231
     id: ck601qypfg0d90i14hhy2r8m0
     verified: false
-    hashtags: "#humpday, #wheelwednesday, #tailighttuesday, #throwback"
+    hashtags: "#murdered, #carsofinstagram, #ford, #mustanggt"
+  - username: "christianaaron"
+    fullname: >-
+      christian
+    bio: >-
+      call it a curse or just call me blessed @fluentlust @iusedtoberelevant snapchat | twitter | tiktok | christiantaaron
+    location: "United States"
+    followers: 230025
+    engagement: 143
+    commentsToLikes: 0.027107
+    id: ckapbxeyh1nmh0i78c3mhwta0
+    verified: true
+    hashtags: "#emsculpt, #therosenburg"
   - username: "cmpulisic"
     fullname: >-
       Christian
+    bio: >-
+      Hershey, PA 🇺🇸 Twitter: cpulisic_10 Facebook: cmpulisic Tik Tok: christianmpulisic
     location: "United States"
-    followers: 2649866
-    engagement: 675
-    commentsToLikes: 0.006918
+    followers: 3305745
+    engagement: 737
+    commentsToLikes: 0.007216
     id: ck0tuohdw80cw0i19xi6r6lqt
     verified: true
-    hashtags: "#nevertheeasyroad, #traineatrepeat, #theyearschallenge, #playerstogether"
-  - username: "christiana.gabriele"
+    hashtags: "#tbt, #itsachelseathing, #traineatrepeat"
+  - username: "laurengadoury"
     fullname: >-
-      𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐀𝐍𝐀 𝐆𝐀𝐁𝐑𝐈𝐄𝐋𝐄
+      Lauren👑Gadoury
+    bio: >-
+      •USF🐮 •Waylon the Jeep Wrangler🤠 •FL🌴 •BA: @valkyrie.4x4 @christianramirezdesigns 🤘🏽 Dc: lauren4x4 for 20%✨ Page model: @dirtnglam🦌 @4x4bombshells🇺🇸
     location: "United States"
-    followers: 70090
-    engagement: 777
-    commentsToLikes: 0.054633
-    id: ck0w3m3jju3ou0i193ss2smpm
+    followers: 18612
+    engagement: 959
+    commentsToLikes: 0.111618
+    id: ckap8xyomqdgc0i78wplqeuau
     verified: false
-    hashtags: "#abhxamrezy, #colourfulmakeup, #galaxy, #graphicliner"
-  - username: "christianvierling"
-    fullname: >-
-      
-    location: "United States"
-    followers: 8638
-    engagement: 1803
-    commentsToLikes: 0.049921
-    id: ck9wh635swfg70j788r3eci1s
-    verified: false
-    hashtags: ""
-  - username: "milkgiver"
-    fullname: >-
-      Rachel Zacharias
-    location: "United States"
-    followers: 21722
-    engagement: 639
-    commentsToLikes: 0.121904
-    id: ck5cd83txipdn0i11kqdn6xkk
-    verified: false
-    hashtags: "#shereallydidwakeuplikethis, #orthodoxy, #orthodoxinamerica, #motherhood"
-  - username: "christian.swett"
-    fullname: >-
-      christian 👨🏾‍🚀
-    location: "United States"
-    followers: 5377
-    engagement: 1944
-    commentsToLikes: 0.057367
-    id: ck6u6f48of8jo0j718vyi2z3j
-    verified: false
-    hashtags: "#mycalvins"
-  - username: "yourstylistblonde"
-    fullname: >-
-      Emma Kusk - YourStylistBlonde
-    location: "United States"
-    followers: 5453
-    engagement: 1099
-    commentsToLikes: 0.336242
-    id: ck9h9m0rh90os0j78fclezly8
-    verified: false
-    hashtags: "#styleblogger, #detroittigers, #styleblog, #quarantinelife"
-  - username: "christiana.burkhalter"
-    fullname: >-
-      #freeadam2020🧚✨
-    location: "United States"
-    followers: 15797
-    engagement: 2599
-    commentsToLikes: 0.033921
-    id: ck9ha0bikaoja0j781i33knhv
-    verified: false
-    hashtags: "#hoco2k19"
+    hashtags: "#laureng, #scout, #jeepwrangler, #tampamodel"
   - username: "chrix.riot"
     fullname: >-
       Christian Colorado
+    bio: >-
+      Living La Vida Lohan owner at @Christiancolorado.co
     location: "United States"
-    followers: 7952
-    engagement: 1361
-    commentsToLikes: 0.058160
+    followers: 8182
+    engagement: 1316
+    commentsToLikes: 0.062463
     id: ck5hjmj8sgvxp0i11pvsrwaek
     verified: false
-    hashtags: "#grateful, #tbt"
-  - username: "elizabeth_highcock_pierson"
+    hashtags: "#orgulloso, #strongqueers, #voguechallenge, #f21xme"
+  - username: "thatjeepsc"
     fullname: >-
-      𝑬𝒍𝒊𝒛𝒂𝒃𝒆𝒕𝒉
+      🅙🅞🅛🅔🅝🅔
+    bio: >-
+      Stay Sweet! 🤙🏼 B/A @valkyrie.4x4 & @christianramirezdesigns ‘18 JLU Rubicon •📍SC
     location: "United States"
-    followers: 5582
-    engagement: 834
-    commentsToLikes: 0.436498
-    id: ck5pw5rlyl8hh0i11g1x3nufd
+    followers: 49443
+    engagement: 1129
+    commentsToLikes: 0.032926
+    id: ck9hawvr6ehef0j78wo1f56zj
     verified: false
-    hashtags: "#0514mamas, #0413mamas, #happybirthday, #momtips"
+    hashtags: "#countrygirl, #harleyquinn, #jeepher, #dance"
+  - username: "xtianelauria"
+    fullname: >-
+      Christian Elauria
+    bio: >-
+      Normalize boys in make up 📧 christianroyelauria@gmail.com 📍Philippines 🇵🇭
+    location: "United States"
+    followers: 7006
+    engagement: 962
+    commentsToLikes: 0.125406
+    id: ck9haz26xenzm0j78zjktpxm2
+    verified: false
+    hashtags: "#muasfeature, #colorful, #artist, #morphebabe"
+  - username: "christiana.burkhalter"
+    fullname: >-
+      Christiana
+    bio: >-
+      khs dulcinea tiktok ~ christiana.b4 youtube ~ christiana burkhalter
+    location: "United States"
+    followers: 17473
+    engagement: 2724
+    commentsToLikes: 0.034404
+    id: ck9ha0bikaoja0j781i33knhv
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "emmakkusk"
+    fullname: >-
+      Emma Kusk - YourStylistBlonde
+    bio: >-
+      A Mix Between Feminine and Trendy Style 💐 Wife In Michigan 📍 Mom To Be 🤰🏼 Always Baking Something 🧁 Christian 💕
+    location: "United States"
+    followers: 5633
+    engagement: 967
+    commentsToLikes: 0.270691
+    id: ck9h9m0rh90os0j78fclezly8
+    verified: false
+    hashtags: "#ltkbump, #michiganblogger, #ltkshoecrush, #affordablefashion"
+  - username: "christian_seavey"
+    fullname: >-
+      Christian Seavey
+    bio: >-
+      Represented by Esprit Talent Agency Inquiries: seavey.christian@gmail.com He/him/his
+    location: "United States"
+    followers: 264365
+    engagement: 1476
+    commentsToLikes: 0.028737
+    id: ck1373i2g9l3i0i19gddo0u9v
+    verified: false
+    hashtags: "#ad, #gooduncommonscents"
 ---

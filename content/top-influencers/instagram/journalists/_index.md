@@ -1,107 +1,130 @@
 ---
 title: Top 10 Journalists Instagram Influencers In 2020
 description: >-
-  Find top journalists Instagram influencers in 2020. Most popular hashtags: #quarantena #merrychristmas # #italy.
+  Find top journalists Instagram influencers in 2020. Most popular hashtags: #summer #love #picoftheday.
 platform: Instagram
+hits: 1578
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 1578 Instagram influencers like this for you to pitch.
 profiles:
   - username: "hamishnews"
     fullname: >-
       Hamish Macdonald
+    bio: >-
+      Journalist.
     location: "Australia"
-    followers: 34011
-    engagement: 708
-    commentsToLikes: 0.024491
+    followers: 34257
+    engagement: 678
+    commentsToLikes: 0.025782
     id: ck1389fhyf5380i19lvsvz72d
     verified: false
-    hashtags: "#squad, #qanda"
+    hashtags: "#qanda"
   - username: "mostapha_raf.at"
     fullname: >-
       مصطفی رفعت‌
+    bio: >-
+      Journalist
     location: "Iran"
-    followers: 19171
-    engagement: 1330
-    commentsToLikes: 0.009158
+    followers: 19791
+    engagement: 962
+    commentsToLikes: 0.012499
     id: ck5zjp7tvhzz00i14w6l4kvy3
     verified: false
     hashtags: ""
-  - username: "ira_chaykovskaya"
-    fullname: >-
-      Ира Чайковская
-    location: "Russia"
-    followers: 46754
-    engagement: 202
-    commentsToLikes: 0.047622
-    id: ck5hmzin4mxca0i11aavphpms
-    verified: false
-    hashtags: "#sephorapressday2020, #themacallanedition5, #fuckcorona, #clifftopretreats"
   - username: "tantoo19"
     fullname: >-
       Tanviya de Girval Sapru
+    bio: >-
+      Journalist
     location: "Italy"
-    followers: 20835
-    engagement: 1855
-    commentsToLikes: 0.006583
+    followers: 33652
+    engagement: 2130
+    commentsToLikes: 0.005810
     id: ck138q0pwhfx90i19ffo94wgx
     verified: false
-    hashtags: "#breaking, #sistersforever, #positano, #amazing"
+    hashtags: "#london, #love, #eminem, #archery"
+  - username: "bdottm"
+    fullname: >-
+      brian b.dot™ miller
+    bio: >-
+      journalist
+    location: "United States"
+    followers: 37262
+    engagement: 96
+    commentsToLikes: 0.081731
+    id: ck0ubzmebfrr10i19jilelqxy
+    verified: false
+    hashtags: "#jayz, #homegrown, #2pac, #vmas"
   - username: "amirmoosakazemi"
     fullname: >-
       امیر موسی کاظمی
+    bio: >-
+      Journalist
     location: "Iran"
-    followers: 11230
-    engagement: 593
-    commentsToLikes: 0.020220
+    followers: 11156
+    engagement: 595
+    commentsToLikes: 0.018481
     id: ck5q8wi3g8alt0i11srt3sgyj
     verified: false
     hashtags: ""
-  - username: "zineb_el_rhazoui"
+  - username: "sajjadsharbati"
     fullname: >-
-      Zineb El Rhazoui
-    location: "France"
-    followers: 8318
-    engagement: 2456
-    commentsToLikes: 1.710390
-    id: ck5ca20vkcjzd0i11yrbcwuw1
+      Sajjad Sharbati
+    bio: >-
+      Journalist
+    location: "Iran"
+    followers: 11093
+    engagement: 1074
+    commentsToLikes: 0.019462
+    id: ckap8lhxrov1t0i7809xh29ci
     verified: false
-    hashtags: "#oslofreedomforum, #cabu, #moroccanfashion, #womensrights"
-  - username: "tasosdousis"
+    hashtags: "#song, #relax, #music, #reporter"
+  - username: "elvira_1_"
     fullname: >-
-      Tasos Dousis
+      Эльвира Шигапова
+    bio: >-
+      📺 журналист 1 Канала /journalist 1TV Channel Russia 📝пишу/writing 🌎путешествую/traveling 🎨рисую/drawing
+    location: "Russia"
+    followers: 5525
+    engagement: 2732
+    commentsToLikes: 0.144124
+    id: ckap6v4iehh440i78wepuv4fz
+    verified: false
+    hashtags: "#tv, #family, #fam, #lady"
+  - username: "_sincoordenadas"
+    fullname: >-
+      GIGI SALOMÓN
+    bio: >-
+      📍 Barcelona ❥ Girl traveling around the world 🌏 ➤ #travelgirl & #journalist 📩 info.sincoordenadas@gmail.com ↡WEB↡
+    location: "Philippines"
+    followers: 4994
+    engagement: 2014
+    commentsToLikes: 0.221486
+    id: ck8svumjjcr5d0j78olwarewb
+    verified: false
+    hashtags: "#igersmenorca, #menorcaparadise, #catalun, #spaintourism"
+  - username: "enina.mama"
+    fullname: >-
+      Andrea Tomašević Kolenda
+    bio: >-
+      ■ Ena❤💙Dani ■ Journalist & PR ■ Mom blogger ■ 🚩 71000 Sarajevo, BiH ■ Contact: andrea.tomasevic@gmail.com
+    location: ""
+    followers: 21668
+    engagement: 1607
+    commentsToLikes: 0.072498
+    id: ck5hn2imcn3320i11k6lpzb25
+    verified: false
+    hashtags: "#eninamama, #littledani, #eninbrat, #zajednosmojedno"
+  - username: "tvagios"
+    fullname: >-
+      Thanos Vagios
+    bio: >-
+      📺 Journalist at @alphatv, @kalyteradeginetai 🍸 Life Style Blogger ⬇️⬇️⬇️⬇️
     location: "Greece"
-    followers: 63977
-    engagement: 1388
-    commentsToLikes: 0.373283
-    id: ck5hcdoulhiwd0i11c8ao5hs1
+    followers: 17048
+    engagement: 1084
+    commentsToLikes: 0.212347
+    id: ck8t0b5mirgpa0j780izubn00
     verified: false
-    hashtags: "#merrychristmas, #kalyteroskosmos, #renaultgreece, #menoumespiti"
-  - username: "darlene4ny"
-    fullname: >-
-      Darlene Rodriguez
-    location: "United States"
-    followers: 19142
-    engagement: 1110
-    commentsToLikes: 0.127103
-    id: ck6ua8z74277z0j7173spglr6
-    verified: true
-    hashtags: "#collegegrad, #mysonshine, #motthaven, #iceskating"
-  - username: "bonaldiconcetta"
-    fullname: >-
-      Concetta Bonaldi
-    location: "Italy"
-    followers: 79007
-    engagement: 1067
-    commentsToLikes: 0.064535
-    id: ckaoyj912hp6o0i78d6n73bt3
-    verified: false
-    hashtags: "#fase3, #alliesoftheplanet, #ichbleibezuhause, #mochi"
-  - username: "kurlyand"
-    fullname: >-
-      ✨ Yevgeniya Kurlyand ✨
-    location: "Italy"
-    followers: 21042
-    engagement: 826
-    commentsToLikes: 0.066978
-    id: ckaot2hquu32r0i78zbmfk0tf
-    verified: false
-    hashtags: "#ufficio, #spoileralert, #quarentena, #staysafestayhome"
+    hashtags: "#men, #mensfashion, #photooftheday, #blue"
 ---

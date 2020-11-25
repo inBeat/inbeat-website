@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Spain In 2020
 description: >-
-  Find top nail artists Instagram influencers in Spain in 2020. Most popular hashtags: #glitternails #nails #nailsonfleek #gelnails.
+  Find top nail artists Instagram influencers in Spain in 2020. Most popular hashtags: #nails #picoftheday #beauty.
 platform: Instagram
+hits: 20
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Spain for you to collaborate.
 profiles:
   - username: "alegria_blanc"
     fullname: >-
-      𝕬𝖑𝖊𝖌𝖗𝖎𝖆  𝕭𝖑𝖆𝖓𝖈𝖔
+      𝓐𝓵𝓮𝓰𝓻𝓲𝓪   𝓑𝓫𝓪𝓷𝓬𝓸 ❀
+    bio: >-
+      ☆ Makeup and nail artist / Fashion and photography ☯︎ R E S I L I E N C ; A ☽ Valladolid / Madrid / Cantabria ☹︎ focuseditorial@gmail.com
     location: "Spain"
-    followers: 4992
-    engagement: 1340
-    commentsToLikes: 0.011470
+    followers: 4765
+    engagement: 1316
+    commentsToLikes: 0.008510
     id: ck5zm1uwdlr3v0i144olbcfwj
     verified: false
     hashtags: ""
   - username: "yeswhatnails"
     fullname: >-
       Violetta
+    bio: >-
+      Nail artist in Barcelona Nail wraps and stickers on the website Patreon Appointments via DM
     location: "Spain"
-    followers: 81116
-    engagement: 306
-    commentsToLikes: 0.010977
+    followers: 90668
+    engagement: 353
+    commentsToLikes: 0.009990
     id: ck0ucj3teh1ma0i191ou22nmc
     verified: false
-    hashtags: ""
+    hashtags: "#menicure"
   - username: "bebasbeauty_studio_nails"
     fullname: >-
       Nebenka Zaric
+    bio: >-
+      Master internacional 🇻🇪 🇨🇴 🇩🇴 -Nails Artistc -Talleres Grupales y V. I. P -Asesorías Información Llamadas +58 424 3476850
     location: "Spain"
-    followers: 40601
-    engagement: 180
-    commentsToLikes: 0.048379
+    followers: 43807
+    engagement: 128
+    commentsToLikes: 0.037590
     id: ck8t9ceftnl3j0j78kxkvfjnc
     verified: false
-    hashtags: "#labiosexy, #myfirtsnails, #concursolovely, #misprimerasu"
+    hashtags: "#tallervip, #acrilicnails, #nailstudio, #cursos"
+  - username: "vip13nails"
+    fullname: >-
+      💅🏽💎💖VIP13 Nails💖💎💅🏽
+    bio: >-
+      💅🏽|Técnico en uñas esculpidas 🚫NO TIPS 💁🏽‍♂️|@paitovi94 📍Barcelona Todo tipo de decoraciones,nail art a mano alzada.✍🏽 📥|Pide tu cita por DM.
+    location: "Spain"
+    followers: 46433
+    engagement: 321
+    commentsToLikes: 0.002894
+    id: ck5ckq1vhxdxd0i11z6493apm
+    verified: false
+    hashtags: ""
+  - username: "saritam.nailsstudy"
+    fullname: >-
+      ⭐️ Nails Study ⭐️
+    bio: >-
+      🌸Embajadora Oficial de La Femme España con @upsalacosmetic_ 🌸 Tatuajes 💉 @saritamtattoo Subscríbete a mi canal ⬇️
+    location: "Spain"
+    followers: 13945
+    engagement: 150
+    commentsToLikes: 0.020052
+    id: ckaot3yhdua410i78xwfg92ki
+    verified: false
+    hashtags: "#lafemmenails, #perfectnails, #nailfeed, #photooftheday"
   - username: "arabobadilla"
     fullname: >-
-      ARACELI BOBADILLA
+      Araceli Bobadilla Candia
+    bio: >-
+      TOP 40 MISS WORLD 🌎 MISS MUNDO PARAGUAY 2019 🇵🇾 Periodismo 🎙📺 Bailarina apasionada @phmanagement_
     location: "Spain"
-    followers: 6521
-    engagement: 1195
-    commentsToLikes: 0.048907
+    followers: 6399
+    engagement: 925
+    commentsToLikes: 0.054121
     id: ck6ti4lyg01060j71604gi84e
     verified: false
-    hashtags: "#portrait, #photoshoot, #athome, #nail"
-  - username: "maynailz"
+    hashtags: "#travel, #love, #style, #tbt"
+  - username: "gabbyrucci"
     fullname: >-
-      May
+      GABBY RUCCI 💖✨Blogger
+    bio: >-
+      🌵Happy #Lifestyle 🌵 Belleza🔹Moda🔸Estilo de Vida Mi lema: ✨Unidas somos magia✨ 📍Barcelona 🇪🇨 📩info@ourglam.com #bloggerbarcelona #beauty #fashion
     location: "Spain"
-    followers: 7407
-    engagement: 631
-    commentsToLikes: 0.015155
-    id: ck6tlzq9b6xom0j71txi12n91
+    followers: 22025
+    engagement: 340
+    commentsToLikes: 0.166844
+    id: ck5ztj8yx0ioi0i14y42m29t7
     verified: false
-    hashtags: "#skull, #flames, #pedicure, #coffinnails"
-  - username: "nailscarlamarin"
+    hashtags: "#beautytester, #piel, #streetstyle, #streetstylespain"
+  - username: "tamaramerino.official"
     fullname: >-
-      Nails Academy Shop Carla Marin
+      Tamara Merino
+    bio: >-
+      CANTANTE/SINGER🎙️ Anteriormente en: Grupo Tekila Orquesta Olympus @lovecandy.Nails
     location: "Spain"
-    followers: 36615
-    engagement: 378
-    commentsToLikes: 0.191946
-    id: ck5zpudwptd4f0i14h9m565ur
+    followers: 8174
+    engagement: 1075
+    commentsToLikes: 0.053708
+    id: ck6tk2oh23w050j71zao3jtgm
     verified: false
-    hashtags: "#nike, #karlkani, #retosorteocarlamarin, #playboy"
-  - username: "shannademorgan"
+    hashtags: "#oviedo, #amazingvoice, #giftedvoices, #litiumrecords"
+  - username: "aeris.mood"
     fullname: >-
-      Shannade Morgan
+      María Dida
+    bio: >-
+      💄 Makeup Artist 🐇 Cruelty Free 📍 Madrid ❤️ Huelva ✉️ Contacto: aerismood@gmail.com
     location: "Spain"
-    followers: 16295
-    engagement: 1033
-    commentsToLikes: 0.040418
-    id: ck602xmnzjvns0i14mz1rxvpj
+    followers: 2176
+    engagement: 1548
+    commentsToLikes: 0.290599
+    id: ckapce80d3gp20i78vbj3srun
     verified: false
-    hashtags: "#makeuptutorial, #kimkardashian, #abhprsearch, #maquillalia"
+    hashtags: "#makeupaddict, #makeuplover, #instamakeup, #makeupgoals"
   - username: "damage_sg"
     fullname: >-
       AlienDoll
+    bio: >-
+      📍 BARCELLONA 📌 Tattoo Artist @martydamage 📌 Visual Artist 📌 @suicidegirls
     location: "Spain"
-    followers: 35297
-    engagement: 451
-    commentsToLikes: 0.019773
+    followers: 34709
+    engagement: 299
+    commentsToLikes: 0.022490
     id: ck0ubfaklefe10i19fn3ub9d3
     verified: false
-    hashtags: "#tattooed, #relax, #tatt, #catlover"
-  - username: "soythali"
-    fullname: >-
-      Thali Briceño
-    location: "Spain"
-    followers: 26076
-    engagement: 301
-    commentsToLikes: 0.049989
-    id: ck5c6o6qx5ukz0i11pfha2msk
-    verified: false
-    hashtags: "#cutcrease, #beautylovers, #maryinfluencer, #beautyobsessed"
-  - username: "velenporella"
-    fullname: >-
-      Belén Flores Núñez
-    location: "Spain"
-    followers: 60329
-    engagement: 194
-    commentsToLikes: 0.011534
-    id: ck5cc36brgmmd0i11wo11infn
-    verified: false
-    hashtags: "#heart, #kawaii, #whitenails, #foilnails"
+    hashtags: "#geometric, #black, #tattoos, #tattoo"
 ---

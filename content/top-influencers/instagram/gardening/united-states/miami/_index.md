@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Miami In 2020
 description: >-
-  Find top gardening Instagram influencers in Miami in 2020. Most popular hashtags: #gardening #miami #love #gardenlife.
+  Find top gardening Instagram influencers in Miami in 2020. Most popular hashtags: #gardening #love #nature #miami.
 platform: Instagram
+hits: 9
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 9 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
   - username: "delectable.day"
     fullname: >-
-      TIEN + RUBEN
+      Tien Hung
+    bio: >-
+      Gardening in Miami 🍲 @nourishingpursuit ✉️ hello@delectableday.com @hoselinkofficial Ambassador
     location: "United States"
-    followers: 30350
-    engagement: 184
-    commentsToLikes: 0.045576
+    followers: 31459
+    engagement: 194
+    commentsToLikes: 0.051040
     id: ck8t277meye5v0j78lv704r8r
     verified: false
-    hashtags: "#medicinalplants, #inbloom, #frommygarden, #crazyplantlady"
-  - username: "stephanie_seban"
-    fullname: >-
-      S T E P H A N I E
-    location: "United States"
-    followers: 11203
-    engagement: 678
-    commentsToLikes: 0.127068
-    id: ck13cz2pu2ujc0i19h2le65sw
-    verified: false
-    hashtags: "#blessed, #40thbirthday, #turksandcaicosislands, #love"
-  - username: "samchampion"
-    fullname: >-
-      Sam Champion
-    location: "United States"
-    followers: 136712
-    engagement: 357
-    commentsToLikes: 0.061497
-    id: ck15uvkbmopnw0i19grc22bdg
-    verified: true
-    hashtags: "#dayoff, #keepourdistance, #rose, #englishroses"
-  - username: "lizacode"
-    fullname: >-
-      Liza
-    location: "United States"
-    followers: 9526
-    engagement: 955
-    commentsToLikes: 0.035311
-    id: ck8tdfe9u35gl0j78k6f7ebua
-    verified: false
-    hashtags: "#artforsale, #techfuture, #programmerslife, #miami"
-  - username: "gillesmarini"
-    fullname: >-
-      Gilles Marini
-    location: "United States"
-    followers: 120415
-    engagement: 222
-    commentsToLikes: 0.035895
-    id: ck5hk11dqhlm70i111cjbq0df
-    verified: true
-    hashtags: "#hairstyles, #borabora, #gardening, #offgrid"
-  - username: "mbdonahoe"
-    fullname: >-
-      Mary Beth Donahoe || MBD
-    location: "United States"
-    followers: 3548
-    engagement: 1906
-    commentsToLikes: 0.034602
-    id: ck5c5y7954d9p0i11zgu08ua0
-    verified: false
-    hashtags: "#yoafrica, #batb1516, #bighairdontcare, #weliveinahouse"
+    hashtags: "#summergarden, #organicgardening, #urbangarden, #homegrownveggies"
   - username: "theawkwardbloggers"
     fullname: >-
       Miami Living
+    bio: >-
+      Just ✌🏻 awkward peeps 🤓 trying to capture delicious food & magical places Sheila 💁🏼‍♀️💉💊 Victor 💁🏻‍♂️🧬😀
     location: "United States"
-    followers: 2736
-    engagement: 1168
-    commentsToLikes: 0.188219
+    followers: 4365
+    engagement: 871
+    commentsToLikes: 0.207063
     id: ckapcpnw84p4u0i78e8rendom
     verified: false
-    hashtags: "#disneyworld, #craftcocktails, #cheesecake, #sweettooth"
+    hashtags: "#instafood, #eat, #foodporn, #food"
+  - username: "peculiarandalluring"
+    fullname: >-
+      Flair Robinson
+    bio: >-
+      Artist watching artists and the unusual. My work @flairrobinson
+    location: "United States"
+    followers: 9848
+    engagement: 670
+    commentsToLikes: 0.029676
+    id: ck0vuw3eumfe80i19gg4cuvkg
+    verified: false
+    hashtags: "#artoftheday, #artcollectors, #singapore, #peculiarandandalluring"
+  - username: "prestigetree"
+    fullname: >-
+      Ty
+    bio: >-
+      Photography taken during work research and traveling tyclimbstrees
+    location: "United States"
+    followers: 194726
+    engagement: 68
+    commentsToLikes: 0.001803
+    id: ck14j2dqfia8c0i19i6xf8k6v
+    verified: false
+    hashtags: "#inspirephotography, #birds, #travel, #instagood"
+  - username: "rjistudio"
+    fullname: >-
+      Raymond Jungles, Inc.
+    bio: >-
+      Since 1985, RJI, under the leadership of Raymond Jungles, FASLA, has developed a dynamic practice inspired by the ethic of stewardship of the land.
+    location: "United States"
+    followers: 8306
+    engagement: 398
+    commentsToLikes: 0.028623
+    id: ck6tnv448amyu0j710ec9ffuo
+    verified: false
+    hashtags: "#plants, #modern, #flora, #landscapearchitect"
   - username: "dayanarapr"
     fullname: >-
       Dayanara Torres
+    bio: >-
+      MissUniverse93👑Actress💃🏻Model 📕Author "MarriedToMe"-above all🇵🇷MOM-Guerrera 🐥/FB: @dayanarapr Mgt: jennifer@niemangroup.com MelanomaCancerPetition📝
     location: "United States"
     followers: 1470148
     engagement: 84
     commentsToLikes: 0.031711
     id: ck0ty8q62lxuf0i19i3ckonl3
     verified: true
-    hashtags: "#losamo, #hope, #support, #despuesdelamisa"
-  - username: "hmrdesigns"
+    hashtags: "#boricua, #dayanarasrecipechallenge, #repost, #puertorico"
+  - username: "beerbabejess"
     fullname: >-
-      HMR Designs
+      
+    bio: >-
+      📍Chicago Beer writer + beer babe shop All for beer + beer for all 🙌🏻🙌🏽🙌🏿 Member of the North American Guild of Beer Writers Blog + merch:
     location: "United States"
-    followers: 48837
-    engagement: 148
-    commentsToLikes: 0.020249
-    id: ck0vz2eaj6y0u0i19l7cfn675
+    followers: 8033
+    engagement: 781
+    commentsToLikes: 0.038913
+    id: ckap3lbt33hfa0i786x583xea
     verified: false
-    hashtags: "#wood, #home, #scentedcandles, #ballroom"
-  - username: "tarametblog"
+    hashtags: "#womeninbeer, #hops, #craftbeer, #drinkbeer"
+  - username: "designsbyjazmyne"
     fullname: >-
-      Tara Settembre | BLOGGER 👩🏼‍💻
+      ⠀⠀  ⠀⠀⠀⠀⠀⠀ DesignsByᎫᎯℤℳᎽℕÉ 🍃
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀-⠀Fashion Designer - Creator - Model ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ NEED A MASK?😷SHOP HERE ⤵️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     location: "United States"
-    followers: 34247
-    engagement: 226
-    commentsToLikes: 0.081080
-    id: ck6u3jyu4y87a0j712pl1zimc
+    followers: 9518
+    engagement: 632
+    commentsToLikes: 0.050833
+    id: ckaoqmq38jemy0i78oc4i2b0u
     verified: false
-    hashtags: "#huffposttaste, #abmstyle, #suckit, #booklover"
+    hashtags: "#meditation, #naturalhairstyles, #explorepage, #festivalhair"
+  - username: "highcarbhannah"
+    fullname: >-
+      HighCarbHannah
+    bio: >-
+      🌱 -70lbs on a plant based diet 🐷🐥🐮 VEGAN for the animals ❤️ @handeeman_ Free weight loss recipes in link below! 🥗 My Bestselling Weight Loss Guide 👇🏼
+    location: "United States"
+    followers: 202851
+    engagement: 175
+    commentsToLikes: 0.026976
+    id: ck8syil0rkx9l0j785fqdxvlu
+    verified: false
+    hashtags: "#healthyfood, #vegan, #growyourownfood, #veganrecipes"
+  - username: "seldabelda"
+    fullname: >-
+      anna aromin | ↟ pnw ↟
+    bio: >-
+      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+    location: "United States"
+    followers: 34042
+    engagement: 337
+    commentsToLikes: 0.098448
+    id: ck14kkiiwpyiz0i19q3we0t10
+    verified: false
+    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
 ---

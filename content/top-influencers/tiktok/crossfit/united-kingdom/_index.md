@@ -1,87 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top crossfit TikTok influencers in United Kingdom in 2020. Most popular hashtags: #flex #homeworkout #crossfit #challenge.
+  Find top crossfit TikTok influencers in United Kingdom in 2020. Most popular hashtags: #crossfit #fyp #gym #fitness.
 platform: TikTok
+hits: 17
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 17 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "michaeltavernier"
+  - username: "coachjohdouglas"
     fullname: >-
-      Michael Tavernier
+      Johannes
+    bio: >-
+      30 / LDN / 🇬🇧 Back to work now, so expect more workout videos!
     location: "United Kingdom"
-    followers: 57501
-    engagement: 439
-    commentsToLikes: 0.016087
-    id: ck81s2lpxpjow0j782w1rh4ml
+    followers: 3057
+    engagement: 710
+    commentsToLikes: 0.033758
+    id: ckbbhrjf46aha0j23sbgbs03p
     verified: false
-    hashtags: "#realitytv, #cops, #acting, #disrespect"
-  - username: "sonnywebstergb"
-    fullname: >-
-      Sonnywebstergb
-    location: "United Kingdom"
-    followers: 31973
-    engagement: 670
-    commentsToLikes: 0.012265
-    id: ck81s2jhipj8n0j78neatb12p
-    verified: true
-    hashtags: "#learnfromhome, #easteregghunt, #videoleap, #india"
+    hashtags: "#lockdownlife, #duetthis, #duet, #workoutoutside"
   - username: "thedantai"
     fullname: >-
       dantai
+    bio: >-
+      Fitness model from the UK💪🏾 Check out my Instagram for more! @dantai 650k
     location: "United Kingdom"
-    followers: 72794
-    engagement: 675
-    commentsToLikes: 0.016084
+    followers: 119200
+    engagement: 868
+    commentsToLikes: 0.027851
     id: cka0zjojpfpub0i78ylxao5vk
     verified: false
-    hashtags: "#bodybuilding, #anglechallenge, #boredathome, #powfu"
-  - username: "nic.bars"
+    hashtags: "#fitboy, #fitboys, #gym, #fyp"
+  - username: "michaeltavernier"
     fullname: >-
-      Nicky Alvanis
+      Michael Tavernier
+    bio: >-
+      Twitter/snapchat @Tavernier_uk functional strength
     location: "United Kingdom"
-    followers: 202117
-    engagement: 2403
-    commentsToLikes: 0.017368
-    id: ck81s0y0cp7wz0j78edxklur1
+    followers: 102900
+    engagement: 524
+    commentsToLikes: 0.012421
+    id: ck81s2lpxpjow0j782w1rh4ml
     verified: false
-    hashtags: "#flexchallenge, #trend, #ramadanrecipes, #athlete"
-  - username: "aleexturneer"
+    hashtags: "#sports, #calisthenics, #exercise, #tiktok"
+  - username: "sonnywebstergb"
     fullname: >-
-      AleexTurneer
+      Sonnywebstergb
+    bio: >-
+      2016 Olympian weightlifter- The barbell specialist
     location: "United Kingdom"
-    followers: 11283
-    engagement: 536
-    commentsToLikes: 0.049429
-    id: cka6mac6b6gs80i78fkh8pwsr
-    verified: false
-    hashtags: "#lockdown, #bicepchallenge, #woow, #eggchallenge"
-  - username: "demi.bars"
+    followers: 37600
+    engagement: 645
+    commentsToLikes: 0.012786
+    id: ck81s2jhipj8n0j78neatb12p
+    verified: true
+    hashtags: "#gym, #olympic, #strength, #sport"
+  - username: "tomseedfitness"
     fullname: >-
-      Demetri Alvanis
+      Tom Seed Fitness
+    bio: >-
+      I like to workout 👀 Instagram - @TomSeedFitness (55k)
     location: "United Kingdom"
-    followers: 122221
-    engagement: 1535
-    commentsToLikes: 0.008333
-    id: ck81s0wxgp7nu0j78oaox24gh
+    followers: 36600
+    engagement: 389
+    commentsToLikes: 0.031568
+    id: ck9si9i6gxtgo0j78k49cg7um
     verified: false
-    hashtags: "#4up, #streetworkout, #crossfit, #badvibes"
-  - username: "lukejeal"
+    hashtags: "#bodybuilding, #fitnesschallenge, #crossfit, #fitnessindia"
+  - username: "jessica.rocke"
     fullname: >-
-      SPINE DOCTOR 🇬🇧 
+      JessicaRocke1💖
+    bio: >-
+      Trying to make the world smile☺️ Be KIND Stay positive - the rain will go away☀️
     location: "United Kingdom"
-    followers: 37597
-    engagement: 264
-    commentsToLikes: 0.032806
-    id: cka0of1b73mgk0i78lsjjpuj6
+    followers: 140900
+    engagement: 1138
+    commentsToLikes: 0.126411
+    id: ckdckg9ltmgza0j23lid0evap
     verified: false
-    hashtags: "#colds, #tennis, #arms, #gunss"
-  - username: "laninalu"
+    hashtags: "#asosdaytofright, #comingofage, #jessicarocke1, #mentalwealth"
+  - username: "workouteverycorner"
     fullname: >-
-      Leilani Rios
+      workouteverycorner
+    bio: >-
+      CALISTHENICS TRAINER
     location: "United Kingdom"
-    followers: 4544
-    engagement: 363
-    commentsToLikes: 0.042289
-    id: ckamm3vxvytyf0i7820fb0hz3
+    followers: 2439
+    engagement: 1070
+    commentsToLikes: 0.054821
+    id: ckbkqmi31l0kx0j23ftlpq5qi
     verified: false
-    hashtags: "#fall, #1armhandstand, #rocky, #football"
+    hashtags: "#challenge4u, #bodyweighttraining, #streetfit, #fullbodyworkout"
+  - username: "danieljcrawford"
+    fullname: >-
+      Daniel Crawford
+    bio: >-
+      I help YOU get better at ⛷🏂 IG @danielcrawford Hit link for FREE 30 minute call
+    location: "United Kingdom"
+    followers: 19000
+    engagement: 478
+    commentsToLikes: 0.025001
+    id: ckbfef5238il10j23dg27akzm
+    verified: false
+    hashtags: "#fyp, #skiing, #skier, #ski"
+  - username: "nilewilsonator"
+    fullname: >-
+      Wilsonator 
+    bio: >-
+      Kids bullied me for wearing leotards🤸🏼‍♂️Now we’re all dancing on TikTok HA!💙
+    location: "United Kingdom"
+    followers: 902000
+    engagement: 1842
+    commentsToLikes: 0.005351
+    id: ck81s75wuqhu50j78e8xxxbe0
+    verified: true
+    hashtags: "#trending, #gymnastics, #foryou, #fyp"
+  - username: "a1fightgear"
+    fullname: >-
+      A1 Fight Gear
+    bio: >-
+      REFUSE TO LOSE
+    location: "United Kingdom"
+    followers: 17000
+    engagement: 842
+    commentsToLikes: 0.010835
+    id: ckbkz2bruvec00j23wowk11w2
+    verified: false
+    hashtags: "#punching, #kickboxing, #abs, #tyson"
 ---

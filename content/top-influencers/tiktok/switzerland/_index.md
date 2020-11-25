@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top TikTok influencers in Switzerland in 2020. Most popular hashtags: #slowmo #duett #coronavirus #switzerland.
+  Find top TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #fy #pourtoi.
 platform: TikTok
+hits: 790
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 790 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "ninoucheee"
+  - username: "serenastravel"
     fullname: >-
-      je rends directement
+      @serenastravel
+    bio: >-
+      Come say hi 🤍
     location: "Switzerland"
-    followers: 4551
-    engagement: 2943
-    commentsToLikes: 0.132896
+    followers: 7310
+    engagement: 897
+    commentsToLikes: 0.021558
+    id: ckb9t8b3hr5530j23vjlbwy23
+    verified: false
+    hashtags: "#apulia, #summerlove, #postcovidtravel, #puglia"
+  - username: "kris8an"
+    fullname: >-
+      Kris
+    bio: >-
+      just a weird boy from🇨🇭 I can‘t go Live check my insta^^ @kris8an
+    location: "Switzerland"
+    followers: 1200000
+    engagement: 2492
+    commentsToLikes: 0.022980
+    id: ckb9qil6imlmg0j23w9qkx6ly
+    verified: false
+    hashtags: "#trend, #hair, #vibes, #ad"
+  - username: "leosplxnet"
+    fullname: >-
+      Leonid
+    bio: >-
+      Managed by my parent’s 150K???? User: Leospookyplxnet
+    location: "Switzerland"
+    followers: 142700
+    engagement: 3228
+    commentsToLikes: 0.233704
+    id: ckb16r0rcuad30j23ev3jmkrg
+    verified: false
+    hashtags: "#adoptmegiveaway, #leosplxnet, #foryoupage, #adoptmegiveaways"
+  - username: "ovasimonreyli"
+    fullname: >-
+      Epic: Ghost_issai_
+    bio: >-
+      Simon (17) 🇩🇪/🇨🇭 Road to 20K? Beste Community
+    location: "Switzerland"
+    followers: 15800
+    engagement: 3059
+    commentsToLikes: 0.103539
+    id: ckbkf1qzr5yt60j23ebiho7sd
+    verified: false
+    hashtags: "#keinbock, #sagneinzumobbing, #roadto1klikes, #beleidigen"
+  - username: "___alert_._spirit___"
+    fullname: >-
+      Alertspirit
+    bio: >-
+      Was ich mache? Einatmen&Ausatmen. Manchmal ändere ich spontan die Reihenfolge 😎
+    location: "Switzerland"
+    followers: 7604
+    engagement: 2567
+    commentsToLikes: 0.314074
+    id: ckbrctbbiqjo20j23kwyxddkc
+    verified: false
+    hashtags: "#rebellinmitherz, #duett, #funny, #verspielt"
+  - username: "itzz_noix_de_coco"
+    fullname: >-
+      abonne toi je rend en 3 sec😱
+    bio: >-
+      drôle 🤣🤡☻ 13 ans je suis une 2007 fortnite 🎮 suisse 🇨🇭 timide🥺 go 5000 ☺️
+    location: "Switzerland"
+    followers: 4978
+    engagement: 2435
+    commentsToLikes: 0.226409
+    id: cka9l0wa61eya0i7821wsgqjo
+    verified: false
+    hashtags: "#pourtoi, #vexon60fps, #abonnetoijerend, #merci"
+  - username: "offical_edit_shit"
+    fullname: >-
+      ꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂
+    bio: >-
+      If you love me, let me know. If you don't, please let me go.
+    location: "Switzerland"
+    followers: 14200
+    engagement: 2374
+    commentsToLikes: 0.175819
+    id: ckbblu9g1a14s0j23ty0chxz9
+    verified: false
+    hashtags: "#foryoupagee, #foryoupage, #anime, #fy"
+  - username: "swiss_trains"
+    fullname: >-
+      Swiss
+    bio: >-
+      Männlich Hobbys sind Züge Schüler Modellbahn basteln
+    location: "Switzerland"
+    followers: 3095
+    engagement: 2346
+    commentsToLikes: 0.118973
+    id: ckc914lw0qy7t0j23zptz2tfx
+    verified: false
+    hashtags: "#fyp, #game, #fy, #funn"
+  - username: "_vlogs_180"
+    fullname: >-
+      🧊
+    bio: >-
+      :)
+    location: "Switzerland"
+    followers: 2035
+    engagement: 2296
+    commentsToLikes: 0.083630
+    id: ckcztxmw75bnc0j23oc23j2d9
+    verified: false
+    hashtags: "#fy, #fyp, #foryou, #productive"
+  - username: "nina_eilish_"
+    fullname: >-
+      je rends
+    bio: >-
+      🥰ꪀ𝓲ꪀꪖ🥰 💚ᠻꪖꪀ ᦔꫀ ᥇𝓲ꪶꪶ𝓲ꫀ ꫀ𝓲ꪶ𝓲𝘴ꫝ🕷 ❤️🥺𝓽ꪊ ꫀ𝘴 ꪑꪖᧁꪀ𝓲ᠻ𝓲𝘲ꪊꫀ🥺❤️
+    location: "Switzerland"
+    followers: 9227
+    engagement: 2223
+    commentsToLikes: 0.107769
     id: cka0tvchprlau0i78untd45qu
     verified: false
-    hashtags: "#pr, #pourtoi, #tiktok, #4k"
-  - username: "mirsela"
-    fullname: >-
-      𝓜𝓲𝓻𝓼𝓮𝓵𝓪 🌹
-    location: "Switzerland"
-    followers: 51879
-    engagement: 2363
-    commentsToLikes: 0.072413
-    id: ck8nitnzq78si0j785ea9gpw7
-    verified: false
-    hashtags: "#teambananaforever, #slowmo, #switzerland"
-  - username: "okamiixx"
-    fullname: >-
-      Louve
-    location: "Switzerland"
-    followers: 19419
-    engagement: 2330
-    commentsToLikes: 0.063169
-    id: cka6kgauayrgq0i782o2nug1d
-    verified: false
-    hashtags: "#mugshot, #sun, #mammamia, #switzerland"
-  - username: "patriciax.a"
-    fullname: >-
-      p a t r i c i a
-    location: "Switzerland"
-    followers: 5566
-    engagement: 2220
-    commentsToLikes: 0.086883
-    id: ckan20n64y8ft0i788cq008lb
-    verified: false
-    hashtags: "#corvatsch, #fyp, #chillshuffle, #notperfect"
-  - username: "eaucrepuscule"
-    fullname: >-
-      Clara
-    location: "Switzerland"
-    followers: 81649
-    engagement: 2192
-    commentsToLikes: 0.035250
-    id: ck84mbh2lmxgh0j78a3p7einr
-    verified: false
-    hashtags: "#couple, #snail, #clothes, #slowmo"
-  - username: "kupfer"
-    fullname: >-
-      Kupfer
-    location: "Switzerland"
-    followers: 30003
-    engagement: 2028
-    commentsToLikes: 0.112212
-    id: ck8qmcqk2plpf0j784vgqg4ov
-    verified: false
-    hashtags: "#realtalk, #ohneworte, #notmachterfinderisch, #bestecommunityever"
-  - username: "sehyonhp"
-    fullname: >-
-      Sehyonhp
-    location: "Switzerland"
-    followers: 355581
-    engagement: 2961
-    commentsToLikes: 0.022137
-    id: ck8nht1o22izv0j7858nejako
-    verified: false
-    hashtags: "#hyolyn"
-  - username: "myidolsbilliexari"
-    fullname: >-
-      3.6k𝓪𝓷𝓰𝓮𝓵𝓼❤
-    location: "Switzerland"
-    followers: 3697
-    engagement: 2302
-    commentsToLikes: 0.067964
-    id: ck95v8wdlx7m90j789vdlpml2
-    verified: false
-    hashtags: "#adopt, #alfredo, #iloveclouds, #cloudy"
-  - username: "itskurdingirl"
-    fullname: >-
-      👑سوزفين👑
-    location: "Switzerland"
-    followers: 103301
-    engagement: 1970
-    commentsToLikes: 0.085852
-    id: ck9m0y8oucd5o0j78bw3oahtf
-    verified: false
-    hashtags: "#faill, #schweiz, #slomo"
-  - username: "_noemi.btw"
-    fullname: >-
-      ~ E M I ~
-    location: "Switzerland"
-    followers: 23705
-    engagement: 1872
-    commentsToLikes: 0.062211
-    id: ck8ncvirlg64z0j78wa9z6pne
-    verified: false
-    hashtags: "#friendssince2014, #food, #fun, #crazy"
+    hashtags: "#duo, #fyp, #pourtoi, #tuprefere"
 ---

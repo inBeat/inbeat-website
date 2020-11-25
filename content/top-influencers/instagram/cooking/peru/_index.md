@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Peru In 2020
 description: >-
-  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #cooking #peruvianfood #quedateencasa #stayhome.
+  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #style #love #smile #art.
 platform: Instagram
+hits: 23
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 23 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "vangers1"
+  - username: "arianabadi"
     fullname: >-
-      Véronique
+      Arian Abadi
+    bio: >-
+      Cantante y Actor panameño 🇵🇦 Mi mamá me llama ‘Ari’ no se por qué Escucha mi último lanzamiento ‘POCO A POCO’ ✍🏽🎤👇🏿
     location: "Peru"
-    followers: 42023
-    engagement: 781
-    commentsToLikes: 0.034166
-    id: ck5zkar2ij4pb0i140nig3zlr
+    followers: 27584
+    engagement: 458
+    commentsToLikes: 0.114423
+    id: ck15qxt0256770i19wnosrylu
     verified: false
-    hashtags: "#riodejaneiro, #selconfidence, #juice, #ipanema"
-  - username: "pattyblazquez"
+    hashtags: "#musicforlife, #trillis, #bebes, #mylife"
+  - username: "bratzovergara"
     fullname: >-
-      Patty Blázquez
+      Bratzo Vergara 🇵🇪
+    bio: >-
+      Cocinero Peruano
     location: "Peru"
-    followers: 6201
-    engagement: 601
-    commentsToLikes: 0.084793
-    id: ck5ckrogaxh6h0i11jqejpxg0
+    followers: 13080
+    engagement: 484
+    commentsToLikes: 0.026889
+    id: ck0w1gbrlj7dy0i190mb6x17g
     verified: false
-    hashtags: "#goodnight, #tardeo, #girlpower, #stong"
-  - username: "valeryrevello"
+    hashtags: "#cocinacasera, #cocinaderesistencia, #cocinatradicional, #pork"
+  - username: "patriciaalquintaoficial"
     fullname: >-
-      Valery Revello🐆
+      patricia alquinta
+    bio: >-
+      Actriz 🇺🇸🇵🇪 Tv host @chapatucombitv emperatriz Fitness coach 🏋🏻‍♀️ Novelas: 📽🎥🎬
     location: "Peru"
-    followers: 38627
-    engagement: 976
-    commentsToLikes: 0.011345
-    id: ck5q8otfm78u40i111b69mm1k
+    followers: 37784
+    engagement: 101
+    commentsToLikes: 0.071862
+    id: ck5zq38yotur90i14ce7gtd89
     verified: false
-    hashtags: "#cookingtime, #cookies, #tbt, #tiktok"
-  - username: "pierina_dg"
+    hashtags: "#arms, #passion, #workout, #moments"
+  - username: "diegomerritt"
     fullname: >-
-      Pierina De La Borda Gotuzzo
+      Diego Merritt Oficial
+    bio: >-
+      Cantante y compositor Boliviano Presentador de TV YouTube: Diego Merritt Facebook Fan page: Diego Merritt Oficial #diegomerritt
     location: "Peru"
-    followers: 27955
-    engagement: 275
-    commentsToLikes: 0.047540
-    id: ck0u81ats66gj0i19ly75nquv
+    followers: 96346
+    engagement: 109
+    commentsToLikes: 0.026742
+    id: ck139d7d7kqao0i19sfet5k9n
     verified: false
-    hashtags: "#winelover, #love, #skincareroutine, #stayathome"
-  - username: "the_running_cuy"
+    hashtags: "#beautiful, #like4like, #repost, #happy"
+  - username: "saidpalao_fit"
     fullname: >-
-      Diego Casabonne
+      Said Palao Castro
+    bio: >-
+      Peruano Deportista Embajador de @fitbitlatam Embajador de @naturalbrothersfit Fan @judoperu
     location: "Peru"
-    followers: 10609
-    engagement: 353
-    commentsToLikes: 0.035048
-    id: ck5zumgo92n7v0i147ooprfty
-    verified: false
-    hashtags: "#enjoylife, #piuray, #correr, #homemade"
-  - username: "fernandamarsano"
+    followers: 1370254
+    engagement: 342
+    commentsToLikes: 0.014251
+    id: ck8sxv4tvis7f0j78ubkc93w5
+    verified: true
+    hashtags: "#fitness, #fitbit, #style, #training"
+  - username: "petimishu"
     fullname: >-
-      Maria Fernanda Marsano
+      Misha
+    bio: >-
+      Dibujante || 17 || Argentina || hiperactiva || Twitter: Mishu Peti
     location: "Peru"
-    followers: 24954
-    engagement: 273
-    commentsToLikes: 0.041204
-    id: ck6ucvulyhr0m0j7186ra4e96
+    followers: 24532
+    engagement: 1935
+    commentsToLikes: 0.007404
+    id: ckap7ktllki130i78j4s0phs5
     verified: false
-    hashtags: "#friends, #pink, #body, #comedy"
-  - username: "ceciliatupac"
+    hashtags: "#boceto, #tochirameru, #peti, #art"
+  - username: "micheillesoifer8"
     fullname: >-
-      Cecilia Tupac
+      MICHEILLE SOIFER
+    bio: >-
+      Artista por dónde me mires ! Dueña @yali_extensiones_salon 📩 Booking.soifer@gmail.com @micheillesoifertips
     location: "Peru"
-    followers: 11165
-    engagement: 707
-    commentsToLikes: 0.076536
-    id: ck8tdfg6635o30j78u9o0b5lc
-    verified: false
-    hashtags: "#cursoonline, #foodporn, #chefperuano, #ganache"
-  - username: "laespatulaverde"
+    followers: 2974771
+    engagement: 173
+    commentsToLikes: 0.019060
+    id: ck0w69o4a7j2o0i19kf8ov0k1
+    verified: true
+    hashtags: "#rochi, #brendita, #publicidad, #marco"
+  - username: "dianakaramusic"
     fullname: >-
-      Karen Lema | La Espátula Verde
+      𝐃𝐈𝐀𝐍𝐀 𝐊𝐀𝐑𝐀
+    bio: >-
+      Cantante, compositora y actriz. Booking 📩dianakaraoficial@Gmail.com THANOS 🔥 lo nuevo ⬇️ escúchala aquí👇🏻👇🏻
     location: "Peru"
-    followers: 88658
-    engagement: 167
-    commentsToLikes: 0.074536
-    id: ck13cqhvt1o2l0i19xu2swugr
+    followers: 93438
+    engagement: 46
+    commentsToLikes: 0.191838
+    id: ck6tyzrb66t7e0j71olbucadn
     verified: false
-    hashtags: "#cremadezapallo, #brunch, #quedateencasa, #atun"
-  - username: "jamesberckemeyer"
+    hashtags: "#cine, #personaje, #artista, #indigenas"
+  - username: "bluhydrangea_"
     fullname: >-
-      James Berckemeyer A
+      Blu Hydrangea
+    bio: >-
+      RUPAULS DRAG RACE UK SEASON 1 ✨ 🔹🔷🔹 For booking contact: Bookings@bluhydrangea.com 🔹🔷🔹
     location: "Peru"
-    followers: 33498
-    engagement: 179
-    commentsToLikes: 0.061727
-    id: ck0vwlmixuemm0i19q4pyf21k
+    followers: 347198
+    engagement: 1139
+    commentsToLikes: 0.010207
+    id: ck0twvco0gwp90i19g9hnb6s6
     verified: false
-    hashtags: "#asianfood, #yummy, #marchablanca, #worldcruise"
-  - username: "maritoymami"
+    hashtags: "#huaweip40, #silverfrost, #huaweip40pro, #visionaryphotography"
+  - username: "templesourperu"
     fullname: >-
-      Milagros Saldaña🇵🇪
+      Temple Sour
+    bio: >-
+      Bienvenidos al #temploácido Booking @capitansimio taramoralesbermudez@gmail.com (+51) 953320521 VERTEASIxSEÑORITA #FESTEJO🕺🏻💃🏻👇
     location: "Peru"
-    followers: 10664
-    engagement: 482
-    commentsToLikes: 0.113269
-    id: ckapa7blrv06g0i78p5erofvl
-    verified: false
-    hashtags: "#ladysnight, #myeverydaymagic, #homesohard, #blogger"
+    followers: 88470
+    engagement: 736
+    commentsToLikes: 0.048218
+    id: ck55m4u0w384o0i11f5fsi5oy
+    verified: true
+    hashtags: "#cuarentena, #lapoderotza, #templesour, #covid19"
 ---

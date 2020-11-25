@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Germany In 2020
 description: >-
-  Find top cooking TikTok influencers in Germany in 2020. Most popular hashtags: #cake #pizza #foryoupage #nutella.
+  Find top cooking TikTok influencers in Germany in 2020. Most popular hashtags: #foryou #cooking #lecker #yummy.
 platform: TikTok
+hits: 72
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 72 TikTok influencers like this in Germany for you to work with.
 profiles:
-  - username: "cooking.with.vivien"
-    fullname: >-
-      Vivi 
-    location: "Germany"
-    followers: 18305
-    engagement: 1385
-    commentsToLikes: 0.020348
-    id: cka0nplpc0ooi0i78lz4yhzbh
-    verified: false
-    hashtags: "#coronavirus, #itscoronatime, #foodie, #probiertwasgeht"
   - username: "umihito"
     fullname: >-
       Ümit Memisoglu
+    bio: >-
+      🍳 Cooking-Vlogs jeden Sonntag 🍳 ✉️ hi@umihito.de ✉️ Blog und Impressum:
     location: "Germany"
-    followers: 461957
-    engagement: 1051
-    commentsToLikes: 0.010435
+    followers: 541300
+    engagement: 896
+    commentsToLikes: 0.011595
     id: ck9aarn24lrvq0j78lemu92lm
     verified: true
-    hashtags: "#veggie, #sweets, #pizza, #bread"
-  - username: "duygukitchen"
-    fullname: >-
-      Duygu
-    location: "Germany"
-    followers: 4017
-    engagement: 628
-    commentsToLikes: 0.034361
-    id: ck9pm23vq758x0j7847tdlj4t
-    verified: false
-    hashtags: "#ilovecheese, #cocolate, #pizza, #yummy"
+    hashtags: "#food, #cake, #dumplings, #grill"
   - username: "bbqcuxhaven"
     fullname: >-
       BBQ Cuxhaven
+    bio: >-
+      BBQ, Grillen und Outdoor Cooking aus Überzeugung. Folge mir für leckeres Essen
     location: "Germany"
-    followers: 40812
-    engagement: 431
-    commentsToLikes: 0.017632
+    followers: 43700
+    engagement: 578
+    commentsToLikes: 0.017897
     id: ckafu2bi48cni0i781l2wxr40
     verified: false
-    hashtags: "#cheers, #bratwurst, #outdoorcooking, #chickenwings"
-  - username: "linas_kitchen98"
+    hashtags: "#abendessen, #german, #pizzatime, #beef"
+  - username: "jacktowersjack"
     fullname: >-
-      Lina H.
+      jack towers
+    bio: >-
+      17 🇺🇸🇩🇪 :)) 1m?
     location: "Germany"
-    followers: 10836
-    engagement: 604
-    commentsToLikes: 0.052667
-    id: cka0phs358awy0i786nloff58
+    followers: 3294
+    engagement: 1323
+    commentsToLikes: 0.063261
+    id: ckc1vacrszdxv0j23erh46vm1
     verified: false
-    hashtags: "#toast, #alhamdullilah, #pizza, #middleeast"
+    hashtags: "#foryou, #quarantine, #fyp, #cookingwithjack"
+  - username: "maro140habibi"
+    fullname: >-
+      Maro00
+    bio: >-
+      WILLKOMMEN bei ( maro.140 ) #Oben finden sie mein Instagram 👆account
+    location: "Germany"
+    followers: 101900
+    engagement: 760
+    commentsToLikes: 0.041337
+    id: ckan2zu1z2ua90i78lb6bnrry
+    verified: false
+    hashtags: "#fu, #danceforfuture, #instagram, #foryou"
+  - username: "alamancininkarisi"
+    fullname: >-
+      Alamancinin Karisi
+    bio: >-
+      
+    location: "Germany"
+    followers: 2833
+    engagement: 532
+    commentsToLikes: 0.103947
+    id: ckdbsq17rcm1d0j23hkiv7t2p
+    verified: false
+    hashtags: "#fotogen, #urlaub, #berlintagundnacht, #gala"
   - username: "siciliancupcake"
     fullname: >-
       Giusy
+    bio: >-
+      🇮🇲🧁ALL ABOUT FOOD AND COMEDY🍔🇮🇹
     location: "Germany"
-    followers: 36185
-    engagement: 1386
-    commentsToLikes: 0.032706
+    followers: 41700
+    engagement: 1223
+    commentsToLikes: 0.022985
     id: ck9k21tz3io0s0j78en7ljski
     verified: false
-    hashtags: "#sweetbabygirl, #donut, #pasta, #foryourpage"
-  - username: "justbogdana"
+    hashtags: "#essen, #funny, #babylove, #japanesefood"
+  - username: "melina.hindelang"
     fullname: >-
-      Just Bogdana
+      Melina Hindelang
+    bio: >-
+      Insta: melina_hindelang_food😋
     location: "Germany"
-    followers: 5784
-    engagement: 742
-    commentsToLikes: 0.037860
-    id: cka0x4n7m5i5t0i78lnikbyh9
+    followers: 18900
+    engagement: 867
+    commentsToLikes: 0.018188
+    id: ckb9nwtxbhvae0j237m08b5dx
     verified: false
-    hashtags: "#ingermany, #beautyofnature, #beautyroutine, #imbored"
+    hashtags: "#chihuahua, #foryou, #cookingchallenge, #cooking"
   - username: "w_watchers"
     fullname: >-
       NextStep
+    bio: >-
+      18.🤷🏽
     location: "Germany"
-    followers: 26517
-    engagement: 787
-    commentsToLikes: 0.015033
+    followers: 26100
+    engagement: 760
+    commentsToLikes: 0.017938
     id: cka6d73q66v8p0i78ympmsoz1
     verified: false
-    hashtags: "#tasty, #love, #snack, #work"
-  - username: "nikaaabo"
+    hashtags: "#foryou, #viral, #vira, #foryourpage"
+  - username: "vitality.performance"
     fullname: >-
-      nikaaabo
+      Sueno.Bee
+    bio: >-
+      🍋 Rezepte zum Abnehmen ________ 🍃schnell 🍃einfach 🍃lecker
     location: "Germany"
-    followers: 31032
-    engagement: 857
-    commentsToLikes: 0.012409
-    id: cka0lyj15t3ie0i7839jvkp8o
+    followers: 5390
+    engagement: 472
+    commentsToLikes: 0.028403
+    id: ckc7s5u8gx3o00j23wtl4qri8
     verified: false
-    hashtags: "#eyepatches, #verschlafen, #geier, #sourpatchkids"
-  - username: "kitchenandme"
+    hashtags: "#tiktokcooking, #foryoupage, #schnellesrezept, #breakfast"
+  - username: "firekitchen"
     fullname: >-
-      Davide De Vita 
+      FireKitchen
+    bio: >-
+      Hi I’m Fabian and this is my FIRE KITCHEN 🔥
     location: "Germany"
-    followers: 9180
-    engagement: 403
-    commentsToLikes: 0.014734
-    id: cka0w28xi14k10i78cb0aq3oe
+    followers: 110700
+    engagement: 799
+    commentsToLikes: 0.011217
+    id: cka0qze1teqa70i78hxuxy6jo
     verified: false
-    hashtags: "#pork, #italianrecipe, #salmon, #easy"
+    hashtags: "#nice, #bbqszn, #bbqfood, #yummy"
 ---

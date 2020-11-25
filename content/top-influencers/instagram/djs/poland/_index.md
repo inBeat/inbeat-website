@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In Poland In 2020
 description: >-
-  Find top djs Instagram influencers in Poland in 2020. Most popular hashtags: #djset #music #rotterdam #rave.
+  Find top djs Instagram influencers in Poland in 2020. Most popular hashtags: #dj #summer #polishgirl #beautiful.
 platform: Instagram
+hits: 24
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "dj_damnlady"
     fullname: >-
       Female DJ 🎧 | Girl Traveler ✈
+    bio: >-
+      🖤🤴🏼 @djsoundspace.pl 🎧🎷 @better_than_ex 👯‍♀️ ✈️🌍 #girltravel 🇳🇱🇬🇷🇪🇸🇴🇲🇮🇹🇹🇭🇪🇬 📍🇵🇱 Poland #djdamnlady ▼ M Y S O C I A L M E D I A ▼
     location: "Poland"
-    followers: 7288
-    engagement: 611
-    commentsToLikes: 0.035546
+    followers: 7897
+    engagement: 644
+    commentsToLikes: 0.032470
     id: ck9wour7z6o7p0j785wz7i2vm
     verified: false
-    hashtags: "#meraki"
+    hashtags: "#warszawa"
+  - username: "djsoina_kmv"
+    fullname: >-
+      DJ SOINA
+    bio: >-
+      💿 CEO @kreci_mnie_vinyl 🚀 Rooftop @na_tarasie 🎧 Tour DJ: WSRH & donGURALesko 🔥 Ambasador @rapgrinder @allocacoc_polska ⬇️🧢👕✉️ Shop & Booking
+    location: "Poland"
+    followers: 26585
+    engagement: 163
+    commentsToLikes: 0.017879
+    id: ck55ny1sl78et0i11le30ykdf
+    verified: false
+    hashtags: "#mixtape, #krecimnievinyl, #kmv, #tour"
+  - username: "djanedelayna"
+    fullname: >-
+      De Layna
+    bio: >-
+      Hi, I am a djane which loves electronic music 🔊 ➡️ Facebook.com/djanedelayna 💵💰Patreon.com/delayna 🎵 Soundcloud.com/djdelayna 🔈MixCloud.com/djdelayna
+    location: "Poland"
+    followers: 8405
+    engagement: 1017
+    commentsToLikes: 0.036165
+    id: ck0u691sc1bd20i19jscy1kc1
+    verified: false
+    hashtags: "#polishdjs, #ukg, #summertime, #partymix"
+  - username: "dj.taek"
+    fullname: >-
+      Michał Taek
+    bio: >-
+      Business👇 marta.nizio@bashesh.com
+    location: "Poland"
+    followers: 18323
+    engagement: 782
+    commentsToLikes: 0.015849
+    id: ck139uvzxn8e00i19bwgej08j
+    verified: false
+    hashtags: "#dj, #paluch, #borcrew, #djslife"
+  - username: "malachrufuzofficial"
+    fullname: >-
+      Małach/Rufuz
+    bio: >-
+      BOOKING KONCERTÓW: 510 134 710-Oktawia e-mail: Lotty.white.events@gmail.com WSPÓŁPRACA: e-mail: malachrufuzofficial@gmail.com Zamów MR5 ⬇⬇⬇
+    location: "Poland"
+    followers: 83500
+    engagement: 193
+    commentsToLikes: 0.012172
+    id: ck6uhb7ga83rk0j71uu4oadx7
+    verified: false
+    hashtags: "#djshoodee, #ma, #hiphop, #mrcrew"
   - username: "zieniuphoto"
     fullname: >-
       Tomasz Zienkiewicz 📷 zieniu
+    bio: >-
+      📷 Fotografuję: sensual i portrety 📸 Uczę: kursy i warsztaty fotograficzne 🎬Youtube dla fotografów 🔴zieniu napisz do mnie 📥
     location: "Poland"
-    followers: 26043
-    engagement: 709
-    commentsToLikes: 0.032143
+    followers: 28292
+    engagement: 580
+    commentsToLikes: 0.030144
     id: ck136oorn7ib80i199n7y4sgn
     verified: false
-    hashtags: "#pieknepolki, #portraiture, #poskadziewczyna, #kobiecasesja"
+    hashtags: "#behindthescenes, #amazingeyes, #beautifulgirl, #platinumblonde"
   - username: "djmaddson"
     fullname: >-
       DJ  M A D D S O N
+    bio: >-
+      🇵🇱 DJane from Poland 💌 booking: djmaddson@gmail.com
     location: "Poland"
-    followers: 8090
-    engagement: 1492
-    commentsToLikes: 0.011718
+    followers: 8974
+    engagement: 1620
+    commentsToLikes: 0.016621
     id: ck8t33v3j1r230j785o7pi55k
     verified: false
-    hashtags: "#case, #hairstyle, #haveaniceday, #birthday"
-  - username: "gigee6"
-    fullname: >-
-      GIGĒE
-    location: "Poland"
-    followers: 22377
-    engagement: 596
-    commentsToLikes: 0.027622
-    id: ck9weq3h1lere0j78maxnotv6
-    verified: false
-    hashtags: "#spotify, #birdtattoo, #stayhealthy, #kewgardens"
+    hashtags: "#blueeyes, #makeup, #brows, #djgirl"
   - username: "melokidsmusic"
     fullname: >-
       MELO.KIDS
+    bio: >-
+      LISTEN “HOUSE DOWN ” on SPOTIFY 🙌🏻🌑🌑
     location: "Poland"
-    followers: 21623
-    engagement: 441
-    commentsToLikes: 0.107426
+    followers: 20865
+    engagement: 462
+    commentsToLikes: 0.104541
     id: ckap1fl78udyj0i78yr7ywlu1
     verified: false
-    hashtags: "#melokidsmusic, #newmusicsoon, #mustangfanclub, #djparty"
-  - username: "ugly_digital"
+    hashtags: "#edmaddict, #edmnation, #djlife, #polishdj"
+  - username: "polasobun"
     fullname: >-
-      UGLYDIGITAL™
+      ᏢᎾᏞᎪ
+    bio: >-
+      nudes&foods @warsawstreets collective
     location: "Poland"
-    followers: 2068
-    engagement: 1571
-    commentsToLikes: 0.063015
-    id: ck5qbd46kl0840i11yr09e9jn
+    followers: 9513
+    engagement: 878
+    commentsToLikes: 0.020833
+    id: ckap8k3hvoo5g0i78f99e95cs
     verified: false
-    hashtags: "#hardcore, #albumart, #spicollective, #biohacking"
-  - username: "malach_mrcrew"
+    hashtags: "#love, #test, #portugal, #portrait"
+  - username: "sunrisefestivalpl"
     fullname: >-
-      Małach MR CREW
+      Sunrise Festival
+    bio: >-
+      🇵🇱Poland - Podczele 23-26 July 2021 Tickets:⤵️
     location: "Poland"
-    followers: 56661
-    engagement: 387
-    commentsToLikes: 0.021024
-    id: ck6uhb909841c0j71npnskg86
+    followers: 49299
+    engagement: 227
+    commentsToLikes: 0.015162
+    id: ck13blw9ew1tz0i191q8a8y4m
     verified: false
-    hashtags: "#rufuz, #malachrufuz, #360clth, #mr"
-  - username: "niziol_official"
-    fullname: >-
-      Banita Rec.
-    location: "Poland"
-    followers: 37631
-    engagement: 416
-    commentsToLikes: 0.019433
-    id: ck5cd5t4cil720i11cl105uo3
-    verified: false
-    hashtags: "#szacunek, #realtalk, #proceder, #klucz"
-  - username: "kevincrownmusic"
-    fullname: >-
-      D.J. KEVIN CROWN
-    location: "Poland"
-    followers: 43488
-    engagement: 166
-    commentsToLikes: 0.026941
-    id: ck5cfrfrgnhrf0i1127j03c15
-    verified: false
-    hashtags: "#djkevincrowne, #planetlynx, #djyoungchow, #female"
-  - username: "daawidrakowski"
-    fullname: >-
-      Dawid Rakowski💥
-    location: "Poland"
-    followers: 22510
-    engagement: 1224
-    commentsToLikes: 0.125163
-    id: ck8wgjv0nhhpv0j781vbxmzmj
-    verified: false
-    hashtags: ""
+    hashtags: "#wearefamily, #dj, #artist, #live"
 ---

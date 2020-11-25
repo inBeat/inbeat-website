@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top models Instagram influencers in San Francisco in 2020. Most popular hashtags: #model #sanfrancisco #fitness #workout.
+  Find top models Instagram influencers in San Francisco in 2020. Most popular hashtags: #model #sanfrancisco #photography #photoshoot.
 platform: Instagram
+hits: 107
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 107 Instagram influencers like this in San Francisco, United States for you to contact.
 profiles:
-  - username: "eileen_gu_"
+  - username: "fboulaire"
     fullname: >-
-      Eileen Gu :)
+      Francois Boulaire
+    bio: >-
+      - Photographer - Freelance production services - Model San Francisco, Sonoma, CA DM me @ fboulaire@mac.com
     location: "United States"
-    followers: 32451
-    engagement: 1110
-    commentsToLikes: 0.036283
-    id: ck5q1qsvpcbjt0i1160940jej
-    verified: true
-    hashtags: "#freeskiing, #model, #igetitfrommymomma, #4weeks4comps4podiums"
+    followers: 34891
+    engagement: 347
+    commentsToLikes: 0.011820
+    id: ck6u1clnskxq90j716svvt7ix
+    verified: false
+    hashtags: "#fashion, #production, #portrait, #model"
+  - username: "cassiehan210"
+    fullname: >-
+      Cassie
+    bio: >-
+      Beijing | San Francisco 🎓UC Berkeley
+    location: "United States"
+    followers: 36083
+    engagement: 113
+    commentsToLikes: 0.024692
+    id: ckap7d3b5jjnb0i78xcmu1b66
+    verified: false
+    hashtags: "#photo, #instagramers, #instalike, #instadaily"
+  - username: "irynakorolenko"
+    fullname: >-
+      Iryna Korolenko
+    bio: >-
+      👩🏻‍🎓MDegrees| Intl Economy & Psychology 👩🏻‍💻Editor-in-Chief @redhotmonde.mag 🗞 📲Founder|CEO @isalon_app 🏆@maximmag Top 6 💃🏻@lookmodelagency
+    location: "United States"
+    followers: 34080
+    engagement: 94
+    commentsToLikes: 0.047419
+    id: ck5pvynv7k9dq0i112q8eqsou
+    verified: false
+    hashtags: "#model, #sanfrancisco, #adorama, #gmaro"
+  - username: "berenabas"
+    fullname: >-
+      Berenabas 🇪🇹
+    bio: >-
+      God over EVERYTHING 🙏🏾 📧: berenabas@gmail.com Pronounced: [bar-na-bis] 🗣 Tiktok: berenabas (200K+) CEO of @three6ixteenofficial
+    location: "United States"
+    followers: 5724
+    engagement: 628
+    commentsToLikes: 0.088021
+    id: ck8wgd2j8h4oh0j78mmmpmrgx
+    verified: false
+    hashtags: "#35mm, #photoshoot, #wlyg, #weloveyourgenes"
   - username: "sophlyonss"
     fullname: >-
       SOPHIA LYONS
+    bio: >-
+      Santa Barbara currently CAST IMAGES Los Angeles & San Francisco Model bookings Chandra@castimages.com http:// https://blacklivesmatters.carrd.co/
     location: "United States"
-    followers: 15937
-    engagement: 377
-    commentsToLikes: 0.036324
+    followers: 15343
+    engagement: 408
+    commentsToLikes: 0.035864
     id: ck5cagm8tddja0i11ek7xht1d
     verified: false
-    hashtags: "#wkndstudios, #seniorstyleguide, #fall, #guessjeans"
+    hashtags: "#local, #sacramento, #fbf, #2019topnine"
   - username: "welton.lewis"
     fullname: >-
       Welton
+    bio: >-
+      Actor|Model|Entertainer 📍San Francisco
     location: "United States"
-    followers: 35249
-    engagement: 290
-    commentsToLikes: 0.012588
+    followers: 35178
+    engagement: 256
+    commentsToLikes: 0.019563
     id: ck0w4olfnzma00i19t74kg2wy
     verified: false
-    hashtags: "#losangeles, #bodybuilding, #lamodel, #nycmodel"
-  - username: "irinabarol"
+    hashtags: "#malemodel, #model, #bodybuilder, #actor"
+  - username: "justine_vivian"
     fullname: >-
-      Irina Barol
+      Justine
+    bio: >-
+      📍SF EMG Models | NYLO Model + Talent | Ravage Management Model | Actress | Stylist ✨ DM For Rates.
     location: "United States"
-    followers: 31636
-    engagement: 243
-    commentsToLikes: 0.031781
-    id: ck6tp90zbii780j71l3v6elmi
+    followers: 4116
+    engagement: 882
+    commentsToLikes: 0.094636
+    id: ck14jyadamrw10i19107pn6bf
     verified: false
-    hashtags: "#ad, #spagirlcocktails, #diptyque, #adoremeandchill"
-  - username: "chic_dev"
+    hashtags: "#scoutme, #sfcreate, #dalystudioseries, #audreyhepburn"
+  - username: "sydneybaye"
     fullname: >-
-      Qianwen Chen
+      Sydney Baye
+    bio: >-
+      Wedding Photographer Medium Format Daughter of the King ✈️ Tuscany, Mexico, Hawaii, NY, NOLA, San Diego, Sedona, Seattle, Whidbey Island, Idaho
     location: "United States"
-    followers: 38196
-    engagement: 204
-    commentsToLikes: 0.078382
-    id: ck5hhgeja833b0i11uvpi1kiq
+    followers: 3632
+    engagement: 805
+    commentsToLikes: 0.042274
+    id: ck6tkm7zq4zc30j71izrrbhmy
     verified: false
-    hashtags: "#sfbloggerogger, #monochromatic, #greendress, #sponsored"
-  - username: "taylormiller86"
+    hashtags: "#pnwweddingphotographer, #gozzer, #loveandwildhearts, #hasselblad"
+  - username: "gg_tinaberry"
     fullname: >-
-      Taylor Miller
+      Tinaberry Cosplay 🍓✨
+    bio: >-
+      🎀Smol fry who likes to cosplay sometimes 🌉Bay Area, CA 🏡🇺🇸 💛Personal: @tinaberry 🌄CosFam: @teamsunrisecosplay 🔜
     location: "United States"
-    followers: 16095
-    engagement: 516
-    commentsToLikes: 0.018275
-    id: ck5zudd8c25bc0i147mofg8bo
+    followers: 7557
+    engagement: 1453
+    commentsToLikes: 0.047034
+    id: ck14jaem4jc9c0i19pl4jnpgs
     verified: false
-    hashtags: "#exclivmen, #expresstogether, #expresspartner, #expresslife"
-  - username: "avoriliz"
+    hashtags: "#gwenom, #cosplayersofinstagram, #nezuko, #spookyseason"
+  - username: "therealterrelldavis"
     fullname: >-
-      Avori
+      Terrell Davis
+    bio: >-
+      Husband • Father • Sports Analyst @NFLNetwork • 2xSuper Bowl Champ • 2k rusher • Pro Football Hall of Fame • CoFounder @defy• Inquiries @theresa_vpr
     location: "United States"
-    followers: 51576
-    engagement: 552
-    commentsToLikes: 0.029809
-    id: ck5zxhu2581do0i14mswh5a9h
-    verified: false
-    hashtags: "#sandiego, #life, #ootd, #fashionista"
-  - username: "losangeles_city"
-    fullname: >-
-      🌴ᏞᎾᏚ ᎪNᏩᎬᏞᎬᏚ ᏟᏆᎢY 🌴
-    location: "United States"
-    followers: 488917
-    engagement: 120
-    commentsToLikes: 0.011288
-    id: ck0u9zuqob2om0i19uuhab44e
-    verified: false
-    hashtags: "#losangelesvacations, #californiadreaming, #smile, #sdmfeatures"
-  - username: "arikittee"
-    fullname: >-
-      Ari
-    location: "United States"
-    followers: 47173
-    engagement: 561
-    commentsToLikes: 0.108991
-    id: ckap9xyj5u04p0i78t77v73ps
-    verified: false
-    hashtags: "#quarantine, #italian, #knowyourworth, #bosslady"
-  - username: "liamharrison__"
-    fullname: >-
-      Liam Harrison
-    location: "United States"
-    followers: 2484
-    engagement: 2277
-    commentsToLikes: 0.089579
-    id: ck0ty1uvyl97c0i19fhzw7a61
-    verified: false
-    hashtags: "#fitnessqueen, #fila, #foodstagram, #running"
+    followers: 126130
+    engagement: 165
+    commentsToLikes: 0.021946
+    id: ck0w1ixoyjkmd0i19e4uuhm3b
+    verified: true
+    hashtags: "#draftwarroom, #nfl, #denver, #broncoscountry"
 ---

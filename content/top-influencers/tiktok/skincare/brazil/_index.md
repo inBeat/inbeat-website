@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Brazil In 2020
 description: >-
-  Find top skincare TikTok influencers in Brazil in 2020. Most popular hashtags: #skincare #nails #skincareroutine #challenge.
+  Find top skincare TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #fy #skincare.
 platform: TikTok
+hits: 49
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 49 TikTok influencers like this in Brazil for you to contact.
 profiles:
-  - username: "janataffarel"
+  - username: "miminzo"
     fullname: >-
-      Janaina Taffarel
+      Yasmin Sandrini
+    bio: >-
+      Makes, skincare, gatos e aleatoriedade insta: @colormiminzi
     location: "Brazil"
-    followers: 109889
-    engagement: 1702
-    commentsToLikes: 0.011415
-    id: ck9aa7cocje4e0j78dxyx5vpg
-    verified: true
-    hashtags: "#beautyhacks, #morphe, #rubyrose, #foxyeyes"
+    followers: 4310
+    engagement: 884
+    commentsToLikes: 0.032695
+    id: ckc8bdl3g7sck0j23hzyyk1rn
+    verified: false
+    hashtags: "#makeuphaul, #catsoftiktok, #gatosdetiktok, #brasil"
+  - username: "akemi_inoue"
+    fullname: >-
+      Akemi Inoue
+    bio: >-
+      🇧🇷🇯🇵 brasileira dicas de japonês, curiosidades ✨ dicas de skincare no insta
+    location: "Brazil"
+    followers: 157500
+    engagement: 1521
+    commentsToLikes: 0.019182
+    id: ckcvgh5jasutn0j23t8j28dyu
+    verified: false
+    hashtags: "#fy, #viral, #jap, #cabelo"
+  - username: "eduardaborgs"
+    fullname: >-
+      Eduarda Borges
+    bio: >-
+      🇧🇷 beauty and lifestyle creator natural skincare✨ INSTA: @eduardaborgs_
+    location: "Brazil"
+    followers: 193700
+    engagement: 1002
+    commentsToLikes: 0.017610
+    id: ckb931fdojhx70j234cm48np9
+    verified: false
+    hashtags: "#fyp, #acneskin, #foryoupage, #fy"
   - username: "joriaaoliveira"
     fullname: >-
       ✨J O R I A ✨
+    bio: >-
+      19y - Br •Uma tonta que ama aesthetic•
     location: "Brazil"
-    followers: 34288
-    engagement: 1340
-    commentsToLikes: 0.017845
+    followers: 39900
+    engagement: 1533
+    commentsToLikes: 0.021904
     id: ck9ng9kkpf2hg0j78ocxd4lqk
     verified: false
-    hashtags: "#brushesclean, #stabilo, #annewithane, #lunch"
-  - username: "kimrosacuca"
+    hashtags: "#skincare, #fyp, #accutane, #foryou"
+  - username: "vsco._aesthetic_._"
     fullname: >-
-      Kim RosaCuca 🐒
+      Rotinas e receitas✨
+    bio: >-
+      Obrigado pelos 44k✨ Flopada 🇧🇷 🇮🇹
     location: "Brazil"
-    followers: 2043860
-    engagement: 1691
-    commentsToLikes: 0.005942
-    id: ck8s5iccofy2v0j78b5qils4i
-    verified: true
-    hashtags: "#makeuptime, #duet, #creative, #hairtips"
-  - username: "snmedeiros"
-    fullname: >-
-      Suellen Medeiros
-    location: "Brazil"
-    followers: 32052
-    engagement: 821
-    commentsToLikes: 0.082560
-    id: ckahzp1rh48d50i78odnznmt7
+    followers: 46400
+    engagement: 1920
+    commentsToLikes: 0.016780
+    id: ckb1329zdr8660j23aymam3a0
     verified: false
-    hashtags: "#rumo10k, #natural, #cream, #quarentena"
-  - username: "sophdelucca"
+    hashtags: "#fy, #foryoupage, #aesthetic, #healthy"
+  - username: "leticiamelo.estetica"
     fullname: >-
-      sophia de lucca
+      Leticia Melo
+    bio: >-
+      insta: leticiamelo.estetica 💕 Dicas/cuidados da pele 🧚‍♂️
     location: "Brazil"
-    followers: 3482
-    engagement: 1061
-    commentsToLikes: 0.026001
-    id: ckahwklbsr6if0i78csbsx5x3
+    followers: 22100
+    engagement: 603
+    commentsToLikes: 0.006687
+    id: ckbq5nxbus5t70j2393j5d10z
     verified: false
-    hashtags: "#watermelonsugar, #albumlookalike, #makeupchallenge, #challenge"
-  - username: "julianalouiise"
+    hashtags: "#micropigmenta, #sobrancelhas, #cuidadoscomapele, #estetica"
+  - username: "renatarbp"
     fullname: >-
-      Juliana Louise
+      Renata Biondo Pavão
+    bio: >-
+      CONSULTORA DE MODA PERSONAL STYLIST @renatarbp.consultoria
     location: "Brazil"
-    followers: 6903
-    engagement: 1220
-    commentsToLikes: 0.015625
-    id: ckai4z3p5q12l0i78vua0di1v
-    verified: true
-    hashtags: "#hairstyle, #hair, #cachostumblr, #curly"
-  - username: "shaktijaniake"
-    fullname: >-
-      Shakti Janiake
-    location: "Brazil"
-    followers: 604740
-    engagement: 1608
-    commentsToLikes: 0.024535
-    id: ck932hzh3jjjw0j78ir6gubv7
+    followers: 22300
+    engagement: 595
+    commentsToLikes: 0.026077
+    id: ckdtdnfw5vfcf0j23hfi94zs3
     verified: false
-    hashtags: "#loco, #skincare, #ingles, #receita"
-  - username: "laritreinke"
+    hashtags: "#fashion, #fotos, #fyp, #skincare"
+  - username: "leboutiquebrasil"
     fullname: >-
-      laritreinke
+      user9276450140144
+    bio: >-
+      WWW.LEBOUTIQUEBRASIL.COM.BR instagram @leboutiquebrasil
     location: "Brazil"
-    followers: 44500
-    engagement: 1867
-    commentsToLikes: 0.061823
-    id: ckacg98pvu8w30i7853in61mq
+    followers: 6336
+    engagement: 366
+    commentsToLikes: 0.009160
+    id: ckbf855fsyci90j23kupqn483
     verified: false
-    hashtags: "#imjustakid, #baratas, #blonde, #levelup"
-  - username: "kahchancosplay"
+    hashtags: "#blogdemoda, #modaparamulheres, #cute, #tbt"
+  - username: "margotpark"
     fullname: >-
-      Camila Galvani
+      Margot Young Park
+    bio: >-
+      Dicas e truques das coreanas pra se manter jovem mesmo depois dos 50!💆🏼‍♀️🇰🇷
     location: "Brazil"
-    followers: 11558
-    engagement: 1684
-    commentsToLikes: 0.036160
-    id: cka0vlabqz17d0i78afjlzkba
+    followers: 344700
+    engagement: 706
+    commentsToLikes: 0.017789
+    id: ckb9gnkzy5vcr0j233wlkhali
     verified: false
-    hashtags: "#quarentena, #izumisagiri, #cosplaymakeup, #dance"
-  - username: "gabbysantanaof"
+    hashtags: "#exerciciofacial, #koreanwoman, #womanover50, #dueto"
+  - username: "aestheticrout"
     fullname: >-
-      Gabby
+      Aesthetic Routine 🍒
+    bio: >-
+      Aesthetic, GRWM and Routine videos 🍒✨🌻
     location: "Brazil"
-    followers: 3000
-    engagement: 2135
-    commentsToLikes: 0.022159
-    id: ck8s5xuhyhxtn0j78ekjaidd0
+    followers: 7044
+    engagement: 2537
+    commentsToLikes: 0.080276
+    id: ckbw64ip6y9hd0j23495fudly
     verified: false
-    hashtags: "#beuaty, #sorry, #tikto, #leiaab"
+    hashtags: "#fy, #foryou, #foryoupage, #fyp"
 ---

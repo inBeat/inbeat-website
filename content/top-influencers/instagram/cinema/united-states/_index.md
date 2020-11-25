@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In United States In 2020
 description: >-
-  Find top cinema Instagram influencers in United States in 2020. Most popular hashtags: #fashion #desert #love #rug.
+  Find top cinema Instagram influencers in United States in 2020. Most popular hashtags: #moodygram #moodygrams #portraits.
 platform: Instagram
+hits: 2339
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 2339 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "shotbyalberto"
+  - username: "tarekboudali"
     fullname: >-
-      
+      Tarek Boudali
+    bio: >-
+      Agent cinéma : Adequat Agent image : @nextmodelsparis
     location: "United States"
-    followers: 7960
-    engagement: 1181
-    commentsToLikes: 0.118324
-    id: ck6u3u0d9zvfd0j71eqvmtbek
+    followers: 686174
+    engagement: 1184
+    commentsToLikes: 0.016934
+    id: ck0vw756tsey40i19gftf5qii
+    verified: true
+    hashtags: "#14octobre2020, #babysitting, #mykonos, #cesttresmignonmykonos"
+  - username: "film_seeker"
+    fullname: >-
+      Nijay Jayan
+    bio: >-
+      Photography | Cinematography 📩 thehappiestpersonalive@gmail.com Personal trash ⬇️ From Kerala India Namidangal watch here 👇🏻
+    location: "United States"
+    followers: 8578
+    engagement: 1822
+    commentsToLikes: 0.031086
+    id: ckaotx0zlxvmm0i788jx5qs9z
     verified: false
-    hashtags: "#valentinesday, #newyorktough"
-  - username: "sabaizadpanah"
+    hashtags: "#kerala, #dslrofficial, #videostories, #moodygrams"
+  - username: "dannygevirtz"
     fullname: >-
-      Saba Izadpanah | صبآ ایزدپناه
+      Danny Gevirtz
+    bio: >-
+      Cinematographer // Philadelphia dangevirtz@gmail.com
     location: "United States"
-    followers: 16356
-    engagement: 1122
-    commentsToLikes: 0.044440
-    id: ck9wixl4j4dbq0j78oqe1d438
-    verified: false
-    hashtags: "#rumihandcraft, #jewelrug, #rug, #necklace"
-  - username: "shotbycones"
-    fullname: >-
-      Cones
-    location: "United States"
-    followers: 26863
-    engagement: 1160
-    commentsToLikes: 0.037133
-    id: ck5c060jxsigs0i113u4rg1bt
+    followers: 17901
+    engagement: 789
+    commentsToLikes: 0.050008
+    id: ck5zlmxynl1cn0i147b8isyuf
     verified: false
     hashtags: ""
-  - username: "emersonmiller"
-    fullname: >-
-      Emerson Paco Miller
-    location: "United States"
-    followers: 34091
-    engagement: 1356
-    commentsToLikes: 0.030527
-    id: ck0tyfxhimncp0i19v188fmg6
-    verified: false
-    hashtags: "#savedave, #og, #teamwork"
-  - username: "philippwiebe"
-    fullname: >-
-      Phil | Content Creator
-    location: "United States"
-    followers: 7043
-    engagement: 870
-    commentsToLikes: 0.120058
-    id: ck15s690fbfhb0i19lutk59mo
-    verified: false
-    hashtags: "#shotoniphone, #yacht, #desert, #bosstrip"
-  - username: "tbailes875"
-    fullname: >-
-      Tyler Bailey
-    location: "United States"
-    followers: 14035
-    engagement: 1034
-    commentsToLikes: 0.058449
-    id: ck5q6j9i2xm4j0i11xwk7r1b7
-    verified: false
-    hashtags: "#ifitdiesitdies"
-  - username: "_kwadwoagyapong"
-    fullname: >-
-      Kwadwo Agyapong
-    location: "United States"
-    followers: 8253
-    engagement: 805
-    commentsToLikes: 0.130994
-    id: ck5hnpiplo6540i11lc0mao9p
-    verified: false
-    hashtags: "#ijustputlotionon, #iseeyoulookingatmyknuckles, #passthesheabutter, #muscletech"
   - username: "abrahamwilliamsdp"
     fullname: >-
       Abraham Williams
+    bio: >-
+      Cinematographer, Steadicam, Photographer - Hawai'i, LA, DC, NYC. Husband and #1 fan of our next President @tulsigabbard
     location: "United States"
-    followers: 6190
-    engagement: 1234
-    commentsToLikes: 0.065007
+    followers: 6337
+    engagement: 1073
+    commentsToLikes: 0.061636
     id: ck6tjx74f3lhz0j71m9ye1w71
     verified: false
-    hashtags: "#filmmaking, #veteransday, #shortfilms, #cinematographer"
-  - username: "kiloalexander"
+    hashtags: "#cinematography, #film, #arrialexa, #tulsi2020"
+  - username: "huntermoreno"
     fullname: >-
-      Kilo Alexander
+      Hunter Moreno
+    bio: >-
+      @makesureyourfriendsareokay • Los Angeles | CA • Cinematographer • Photographer • Director • @noidontshootforfree •
     location: "United States"
-    followers: 215961
-    engagement: 1545
-    commentsToLikes: 0.010642
-    id: ck13cskji1y3h0i19ftrtn61u
+    followers: 161885
+    engagement: 652
+    commentsToLikes: 0.014099
+    id: ck0vvq6q5q9lg0i195zwuc8lg
     verified: false
-    hashtags: "#lamusicscene, #downtown, #youtube, #2019"
-  - username: "thaiscastralli"
+    hashtags: "#blackouttuesday, #blacklivesmatter, #internet, #monsterultra"
+  - username: "tbailes875"
     fullname: >-
-      Thaïs Castralli
+      Tyler Bailey
+    bio: >-
+      Cinematographer / Charlotte Tyler.Bailey@OTBpromedia.com
     location: "United States"
-    followers: 5807
-    engagement: 973
-    commentsToLikes: 0.064907
-    id: ck0w10chdgxd90i19fdc8zxqa
+    followers: 13487
+    engagement: 1012
+    commentsToLikes: 0.039802
+    id: ck5q6j9i2xm4j0i11xwk7r1b7
     verified: false
-    hashtags: "#territoriocolectivo, #noir, #mycanonstory, #canonphotography"
+    hashtags: "#blackouttuesday, #keeppounding, #ifitdiesitdies"
+  - username: "anyasiberia"
+    fullname: >-
+      Anya, actress in New York
+    bio: >-
+      🎞 Cinematic photographs 📽 Фото как из кино ⠀ Short film TIMES:
+    location: "United States"
+    followers: 10877
+    engagement: 1090
+    commentsToLikes: 0.041736
+    id: ck5hjzcyhhin00i113idjhk3h
+    verified: false
+    hashtags: ""
+  - username: "shotbyalberto"
+    fullname: >-
+      
+    bio: >-
+      NYC 🗽 Photographer 📸 Street Cinema// Portraiture // Documentarian. Its SOCIAL media, lets be social. hit my inbox: Business - Collabs 📨
+    location: "United States"
+    followers: 11017
+    engagement: 781
+    commentsToLikes: 0.076791
+    id: ck6u3u0d9zvfd0j71eqvmtbek
+    verified: false
+    hashtags: "#election2020"
+  - username: "soakedinnirvana"
+    fullname: >-
+      Dexter Fernandes
+    bio: >-
+      Portraits | Travel | Cinematic Video High End Photo Retouch👨‍🎨 DM FOR SHOOTS 📷 @dankcadi 🐶
+    location: "United States"
+    followers: 4573
+    engagement: 1062
+    commentsToLikes: 0.126619
+    id: ck8sxzuxzj9050j78759q2rrf
+    verified: false
+    hashtags: "#portraits, #macro, #portraitstyles, #portraitstudy"
+  - username: "traumaticl0ve"
+    fullname: >-
+      ☼ eclipse☽
+    bio: >-
+      Sharing stuff about cinema
+    location: "United States"
+    followers: 12713
+    engagement: 3925
+    commentsToLikes: 0.016914
+    id: ck8t6b9j1cycw0j78jgm00cef
+    verified: false
+    hashtags: "#freeuyghur"
 ---

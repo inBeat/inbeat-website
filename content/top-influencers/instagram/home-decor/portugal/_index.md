@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Portugal In 2020
 description: >-
-  Find top home decor Instagram influencers in Portugal in 2020. Most popular hashtags: #homedecor #giveaway #ootd #summerdress.
+  Find top home decor Instagram influencers in Portugal in 2020. Most popular hashtags: #homedecor #portugal #home #homesweethome.
 platform: Instagram
+hits: 18
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 18 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "rutesimao"
+  - username: "andrechaica"
     fullname: >-
-      RUTE SIMÃO
+      André Chaíça
+    bio: >-
+      Lisbon based, PT Content creator & social media manager ✉️ andrechaica@wowmeagency.com Edit like me 𖦝
     location: "Portugal"
-    followers: 14768
-    engagement: 956
-    commentsToLikes: 0.541296
-    id: ck0tybitomaou0i19lvaih9nb
+    followers: 39648
+    engagement: 301
+    commentsToLikes: 0.114228
+    id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#winterootd, #juntossomosmais, #outfitchallenge, #mapifulsecret"
-  - username: "marianacastromoreira"
+    hashtags: "#ad, #lonelyplanet, #fashiorismo, #chaicatraveltolisbon"
+  - username: "sr.home.life"
     fullname: >-
-      Mariana Castro Moreira
+      SRHome&Life | Sónia Reis
+    bio: >-
+      Home decor • Content creator @biomaplants: SRHOMELIFE10-10% @citrinaplants: HOME15-15% @floresnocais: SR.HOME.LIFE -10% @the_cotton_way: SRHOME10
     location: "Portugal"
-    followers: 61733
-    engagement: 333
-    commentsToLikes: 0.067079
-    id: ck14k93dqod4f0i197uyum95v
+    followers: 21378
+    engagement: 521
+    commentsToLikes: 0.080351
+    id: ck8sy34sdjkem0j78wqc8p6nn
     verified: false
-    hashtags: "#glitterconverse, #denimjacket, #converselover, #poolday"
-  - username: "adanielarocha"
+    hashtags: "#neutralhomedecor, #portugueseinteriorbloggers, #livingroominterior, #decorinspo"
+  - username: "vanessadesousa_pt"
     fullname: >-
-      D A N I ✨
+      VSFIT / Home Workouts
+    bio: >-
+      📝Lic.Educação Física_UTAD •Presenter~Trainer~@eacsystempt ®️ 🎽 @greatiamwear code -10% "VSFIT" 🏋️ @ellipse_fitness code -30% "VSELLIPSE" • Aveiro,PT🇵🇹
     location: "Portugal"
-    followers: 9362
-    engagement: 810
-    commentsToLikes: 0.192766
-    id: ck8t22ia5xz9r0j78de0j2f4u
+    followers: 6419
+    engagement: 784
+    commentsToLikes: 0.053546
+    id: ck9h9txq29yij0j78i5rrvu25
     verified: false
-    hashtags: "#lcarnitine, #dailymakeup, #myimpact, #tummytoxpt"
+    hashtags: "#relaxtime, #homegym, #relaxmood, #familytime"
+  - username: "itsanahilima"
+    fullname: >-
+      𝐀𝐧𝐚𝐡í 𝐋𝐢𝐦𝐚
+    bio: >-
+      🦋 Counting blessings contacto: itsanahilima@gmail.com shop @analucosmetics ⤵︎ meus looks
+    location: "Portugal"
+    followers: 21485
+    engagement: 1325
+    commentsToLikes: 0.065919
+    id: ck9wdx0obhnf90j78h8mughsz
+    verified: false
+    hashtags: "#bioextratusportugal, #outfitinspiration, #crespas, #blogueirinha"
+  - username: "charliecfm"
+    fullname: >-
+      CHΛRLIΞ • Carlos Frota Melo
+    bio: >-
+      you think you know me ... but you have no idea X ninja media coordinator @havas X marketing | content | social media X made in PT LOADING ...
+    location: "Portugal"
+    followers: 6965
+    engagement: 1031
+    commentsToLikes: 0.315040
+    id: ckap4i5927hd50i782o8gpnof
+    verified: false
+    hashtags: "#vidadepublicita, #soldeinverno, #ilovelisboa, #portugaldenorteasul"
+  - username: "carinacaldeira_"
+    fullname: >-
+      Carina Caldeira
+    bio: >-
+      📺 TV host @glittershow_ & Late Night 💄 Beauty Junkie 📧 imendesdasilva@notable.pt
+    location: "Portugal"
+    followers: 70626
+    engagement: 239
+    commentsToLikes: 0.090091
+    id: ck5cdqiqrjlzo0i11j8hrqino
+    verified: true
+    hashtags: "#home, #babygirl, #pub, #glitterlife"
   - username: "mexiquer"
     fullname: >-
       SOFIA REIS | Mexiquer
+    bio: >-
+      Fashion Blogger + Style lover + 🌎 trotter www.mexiquer.com 🙋💛 Contact 📩 mexiiqquer@gmail.com 📍From Portugal Last video on youtube 📹👇🏼
     location: "Portugal"
-    followers: 107651
-    engagement: 252
-    commentsToLikes: 0.176423
+    followers: 106300
+    engagement: 200
+    commentsToLikes: 0.124796
     id: ck14gqv2g6l7m0i19xmx7am8d
     verified: false
-    hashtags: "#ceramic, #favoritedrink, #athome, #quarantinehome"
-  - username: "catarinaadeoliveira"
+    hashtags: "#makeover, #outfit, #trend, #zara"
+  - username: "rafinhaaaaa"
     fullname: >-
-      Catarina Oliveira
+      Rafinhaaaaa ✌🏽
+    bio: >-
+      Hey You! In love w/ my Frenchies🤍 Storyteller | Lifestyle | Business & Brands Travel | Culture | Tv | Food
     location: "Portugal"
-    followers: 3264
-    engagement: 1329
-    commentsToLikes: 0.251350
-    id: ck8ta8l7oqufk0j786xnzevvc
+    followers: 6489
+    engagement: 1090
+    commentsToLikes: 0.082579
+    id: ckaotdwnzvi7z0i78eazacr6i
     verified: false
-    hashtags: "#topinfluencer, #sobachapt, #rouen, #influencerpt"
-  - username: "ritalopesalmeida"
+    hashtags: "#nice, #photographer, #blogger, #happy"
+  - username: "joanaflg"
     fullname: >-
-      Rita Almeida
+      Joana Gentil
+    bio: >-
+      🙆🏻‍♀️ 26 anos 📍Lisboa, Portugal 💍&⌚️ worker 💌 joanaflgentil@gmail.com Influenciadora na @influenzia_digital Descontos no link abaixo 🥰
     location: "Portugal"
-    followers: 6368
-    engagement: 1875
-    commentsToLikes: 0.024380
-    id: ck8t6t58aelw10j78oe42y4jf
+    followers: 4725
+    engagement: 846
+    commentsToLikes: 0.298962
+    id: ck9wf7pffnkg00j78wooljbog
     verified: false
-    hashtags: "#lookinspiracao, #womenartists, #body, #partystyling"
-  - username: "maede3gemeos"
+    hashtags: "#sintralovers, #porto, #caisdoginjal, #pontofinal"
+  - username: "brunomartins71"
     fullname: >-
-      Mãede3Gémeos JoanaReis
+      Bruno Martins
+    bio: >-
+      "Less is more" ✉️ brunocostamartins71@gmail.com 📍 Portugal
     location: "Portugal"
-    followers: 17754
-    engagement: 327
-    commentsToLikes: 0.139091
-    id: ck8t0xklstpgu0j788ibl6u2g
+    followers: 112852
+    engagement: 213
+    commentsToLikes: 0.041467
+    id: ck55k2m2uyb7a0i11ytfylrau
     verified: false
-    hashtags: "#homedecor, #remodela, #diasemcasa, #coffeetime"
-  - username: "happybrunette"
-    fullname: >-
-      CatarinaLoureiro HappyBrunette
-    location: "Portugal"
-    followers: 26585
-    engagement: 219
-    commentsToLikes: 0.168657
-    id: ck5hdsumgp7bx0i11fmq3uq0s
-    verified: false
-    hashtags: "#pinaple, #needmorewine, #dadandkids, #nala"
-  - username: "jessiekass"
-    fullname: >-
-      Jessie Chanes |Seamsforadesire
-    location: "Portugal"
-    followers: 312810
-    engagement: 150
-    commentsToLikes: 0.033716
-    id: ck0w3pzk6uoe50i19q2ga0st1
-    verified: true
-    hashtags: "#pinkmood, #denim, #tavira, #vichyprint"
-  - username: "rubenfjorge"
-    fullname: >-
-      Ruben Jorge
-    location: "Portugal"
-    followers: 11010
-    engagement: 2428
-    commentsToLikes: 0.011382
-    id: ck8talc55s8m80j78xs02h0e9
-    verified: false
-    hashtags: "#pole, #homedecor, #praia, #wanderlust"
+    hashtags: "#desenio, #skincare, #filorga, #galleria"
 ---

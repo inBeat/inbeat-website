@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Chicago In 2020
 description: >-
-  Find top travel TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #travel #california #italy.
+  Find top travel TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #travel #fyp #foryou.
 platform: TikTok
+hits: 88
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 88 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "kassiashton"
+  - username: "daisyddaze"
     fullname: >-
-      Kassi Ashton
+      D A Z E
+    bio: >-
+      dental assistant + dollar tree trips ✨ daisyolivedaze@gmail.com
     location: "United States"
-    followers: 5002
-    engagement: 658
-    commentsToLikes: 0.034904
-    id: cka0oehza3hvn0i78rkzo1git
+    followers: 15800
+    engagement: 919
+    commentsToLikes: 0.024072
+    id: cka608pefq5ga0i78u7ujo9ey
+    verified: false
+    hashtags: "#collegegotmelike, #doitbold, #vacation, #mexico"
+  - username: "twirlliketalia"
+    fullname: >-
+      Talia
+    bio: >-
+      Forever Wanderlust! Follow me on IG for more travel inspiration @travelwithtalia
+    location: "United States"
+    followers: 20900
+    engagement: 1156
+    commentsToLikes: 0.062065
+    id: ckamjtpgvpmrx0i78z0c3z6j1
+    verified: false
+    hashtags: "#wow, #yellowstone, #bucketlist, #hiking"
+  - username: "itsryana"
+    fullname: >-
+      ryan ツ
+    bio: >-
+      20 | 📍chi | photographer | somewhat influencer | ig: itsryan | sc: ryan_alioto
+    location: "United States"
+    followers: 35000
+    engagement: 1324
+    commentsToLikes: 0.029359
+    id: ckbatq0vhkc8c0j23eujljvi9
+    verified: false
+    hashtags: "#cityboy, #chicagosuburbs, #electionday, #fyp"
+  - username: "citykillerz.official"
+    fullname: >-
+      Citykillerz
+    bio: >-
+      ↠ 300K on IG ⬆️ ↠ The Best Travel & Urban Content ↠ Email: Team@citykillerz.com
+    location: "United States"
+    followers: 51300
+    engagement: 899
+    commentsToLikes: 0.023167
+    id: ckc32m92qsrkc0j23spvkbuao
+    verified: false
+    hashtags: "#japan, #china, #timelapse, #fpv"
+  - username: "chlobellexx"
+    fullname: >-
+      chlobellexx
+    bio: >-
+      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Dance | FUN!
+    location: "United States"
+    followers: 27100
+    engagement: 866
+    commentsToLikes: 0.073780
+    id: cka0sjq6zls1d0i78cohlipwf
+    verified: false
+    hashtags: "#colorado, #ad, #chicagobucketlist, #photomagic"
+  - username: "jinathegorgeous"
+    fullname: >-
+      jina the gorgeous
+    bio: >-
+      Tiktok LIVE M-F 11am or 9pm PST 💕Follow me on Instagram 💕 HUGE giveaway coming
+    location: "United States"
+    followers: 122500
+    engagement: 1500
+    commentsToLikes: 0.014605
+    id: ck9r6fsgs3oc90j783eqwvv98
+    verified: false
+    hashtags: "#weirdnotsoweird, #korean, #korea, #boba"
+  - username: "itisdanielaaa"
+    fullname: >-
+      Itisdanielaaa
+    bio: >-
+      Chicago 🦋 | MEXICAN 🇲🇽
+    location: "United States"
+    followers: 15200
+    engagement: 883
+    commentsToLikes: 0.000156
+    id: ckb8z5cfge96k0j23qvpd7xkp
+    verified: false
+    hashtags: "#married, #fyp, #foryoupage, #army"
+  - username: "mbillman9"
+    fullname: >-
+      Matthew Billman
+    bio: >-
+      Let's make videos together! I'm all about collaborating NYC/LA🤸🏼‍♂️ IG @mbillm
+    location: "United States"
+    followers: 3211
+    engagement: 585
+    commentsToLikes: 0.060683
+    id: ck8ja6izhqtw70j78l4g7xrri
+    verified: false
+    hashtags: "#love, #dogs, #boys, #almondwalk"
+  - username: "djgianniblu"
+    fullname: >-
+      GianniBlu
+    bio: >-
+      DJ | Producer | ADD ME 👆🏻Goal: 200k IG - @GianniBlu ⬇️ FIND MY MUSIC HERE ⬇️
+    location: "United States"
+    followers: 162300
+    engagement: 1334
+    commentsToLikes: 0.048478
+    id: ck807d1b6pyvr0j78f98d1m70
     verified: true
-    hashtags: "#maui, #foryourpage, #roots, #happyathome"
-  - username: "emilianopaz28"
+    hashtags: "#comedy, #studio, #haha, #mexico"
+  - username: "360chicago"
     fullname: >-
-      Emilianopaz28
+      360 CHICAGO
+    bio: >-
+      Chicago’s best views. 94th floor. Hancock Center. Home of TILT and BAR 94. 🌇🥴
     location: "United States"
-    followers: 96776
-    engagement: 957
-    commentsToLikes: 0.018520
-    id: ck90uy3hgy9pb0j7823qo2zcj
+    followers: 23700
+    engagement: 1316
+    commentsToLikes: 0.013571
+    id: ckc35x75euzma0j2362eg9oog
     verified: false
-    hashtags: "#hondure, #photoshoot, #videodance, #catracho"
-  - username: "johnparkerbach"
-    fullname: >-
-      JohnParkerBach
-    location: "United States"
-    followers: 51587
-    engagement: 1197
-    commentsToLikes: 0.030030
-    id: ck80obgwwgl0r0j789x5cfacf
-    verified: false
-    hashtags: "#canon, #adventure, #xycba, #zionnp"
-  - username: "miss_annavictoria"
-    fullname: >-
-      miss_annavictoria
-    location: "United States"
-    followers: 3182
-    engagement: 706
-    commentsToLikes: 0.033946
-    id: ck9a6qsny4e3v0j78f8zpx2ir
-    verified: false
-    hashtags: "#cuba, #city, #girls, #capri"
-  - username: "ilonabistrian"
-    fullname: >-
-      ilonabistrian
-    location: "United States"
-    followers: 4233
-    engagement: 2221
-    commentsToLikes: 0.147281
-    id: ck9rmkrdk3b8d0j78sv3l9ht6
-    verified: false
-    hashtags: "#moralcompass, #familia, #youareloved, #righttolife"
-  - username: "nbcnews"
-    fullname: >-
-      nbcnews
-    location: "United States"
-    followers: 141732
-    engagement: 1261
-    commentsToLikes: 0.018030
-    id: ck84mbzodn3g40j78k0a0avnf
-    verified: true
-    hashtags: "#kobe, #sydney, #catsoftiktok, #meetmycar"
-  - username: "feliciafullwood"
-    fullname: >-
-      Felicia Fullwood
-    location: "United States"
-    followers: 111160
-    engagement: 0
-    commentsToLikes: 0.000000
-    id: ck9jxel220cou0j78g1sauep4
-    verified: false
-    hashtags: "#skateboarding, #keepingbusy, #littlethings, #natureathome"
-  - username: "thesamli"
-    fullname: >-
-      Sam Li
-    location: "United States"
-    followers: 8700
-    engagement: 1933
-    commentsToLikes: 0.032342
-    id: ck9v1f6arguwt0j78lyjrfzvh
-    verified: false
-    hashtags: "#milwaukee, #football, #weddingday, #myphotography"
-  - username: "edward_eop18"
-    fullname: >-
-      L🚨T🚨N🇺🇸🇵🇷🌴
-    location: "United States"
-    followers: 10783
-    engagement: 975
-    commentsToLikes: 0.086458
-    id: ck982lod8gmdh0j78tfd7czlj
-    verified: false
-    hashtags: "#tiratratra, #tokio, #news, #westfield"
-  - username: "clairvoyantteen17"
-    fullname: >-
-      Axis/Soba/Lila/Link
-    location: "United States"
-    followers: 7168
-    engagement: 1836
-    commentsToLikes: 0.035628
-    id: cka9lsmz72yqj0i78x1yoh4es
-    verified: false
-    hashtags: "#theory, #girlmeetsworld, #pottymouth, #bait"
+    hashtags: "#chicago, #thrill, #travel, #chitown"
 ---

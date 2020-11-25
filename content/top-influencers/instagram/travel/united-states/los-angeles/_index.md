@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top travel Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #travel #sponsored #sunset.
+  Find top travel Instagram influencers in Los Angeles in 2020. Most popular hashtags: #travel #losangeles #lifestyle #la.
 platform: Instagram
+hits: 918
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 918 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
+  - username: "jordyns_journey"
+    fullname: >-
+      Jordyn Lorene
+    bio: >-
+      Fashion • Food • Travel Los Angeles, CA📍 Let’s collab 💌 jordynlorene@gmail.com Shop my outfits ⬇️
+    location: "United States"
+    followers: 5291
+    engagement: 650
+    commentsToLikes: 0.230770
+    id: ck14glgww5svr0i193085j8nk
+    verified: false
+    hashtags: "#ltkspring, #fall2020, #liketkit, #ltkunder50"
   - username: "melissasandora"
     fullname: >-
       melissa sandora
+    bio: >-
+      Modern Family💄 Grace and Frankie💄 Hollywood Makeup Artist⭐️ Beauty Travel Los Angeles
     location: "United States"
-    followers: 2542
-    engagement: 1093
-    commentsToLikes: 0.107374
+    followers: 2766
+    engagement: 979
+    commentsToLikes: 0.102502
     id: ck5zmintsmn730i141cc8a5d6
     verified: false
-    hashtags: "#paris, #muahawards2020, #modernfamilymakeupandhair, #local706"
-  - username: "iamdavid_alexander"
+    hashtags: "#graceandfrankie, #makeupartist, #babybowie, #modernfamily"
+  - username: "losangeles.glow"
     fullname: >-
-      David Alexander
+      ✈  Los Angeles Glow
+    bio: >-
+      🇺🇸 People make memories, we capture them 📲 DM 4 promo/adv 👉🏻 #losangelescity
     location: "United States"
-    followers: 39451
-    engagement: 521
-    commentsToLikes: 0.018267
-    id: ck14jni4jl8rl0i193bkg53rj
-    verified: true
-    hashtags: "#tacotuesday, #packagedeal, #cbsbigbrother, #lovinglife"
-  - username: "zachmanske_"
-    fullname: >-
-      Zach Manske
-    location: "United States"
-    followers: 5485
-    engagement: 1645
-    commentsToLikes: 0.028457
-    id: ck5ztns700s8j0i14mbf62u8t
+    followers: 76953
+    engagement: 259
+    commentsToLikes: 0.008023
+    id: ckaotm6dywgxt0i78qbtq39ve
     verified: false
-    hashtags: "#recovery, #vogue, #choreographer, #usckaufman"
-  - username: "caylacalamia_"
+    hashtags: "#californialove, #lastory, #santamonicacalifornia, #california"
+  - username: "patrikcvetko"
     fullname: >-
-      cayla✞
+      Patrik Cvetko
+    bio: >-
+      @imgmodels 📷@patriks.studio 🥋 martial art
     location: "United States"
-    followers: 5036
-    engagement: 764
-    commentsToLikes: 0.024788
-    id: ckap1eys1ub970i78th0594j2
+    followers: 16153
+    engagement: 618
+    commentsToLikes: 0.065253
+    id: ck5c8rbs0a2tq0i11es94k155
     verified: false
-    hashtags: "#drake, #staysafe, #louisiana, #bestinblack"
-  - username: "alanitaylorco"
+    hashtags: "#models, #blogger, #portrait, #fashionblogger"
+  - username: "leisure_life_cuisine"
     fullname: >-
-      Alani Taylor
+      
+    bio: >-
+      𝒥𝒶𝓃𝒾𝓃𝑒 𝒩𝑜𝓇𝓉𝒽 𝐸𝓃𝒹, 𝐵𝑜𝓈𝓉𝑜𝓃 𝒯𝓌𝒾𝓉𝓉𝑒𝓇: 𝒞𝑜𝓆𝒜𝓊𝒱𝒾𝓃_ 𝑅𝑒𝒶𝓁 𝐸𝓈𝓉𝒶𝓉𝑒: @realestatebrokerboston 𝐹𝑜𝑜𝒹 𝐹𝑒𝑒𝒹: @basilandblueberries
     location: "United States"
-    followers: 18970
-    engagement: 209
-    commentsToLikes: 0.056489
-    id: ck14leysnublv0i191zsoqpf6
+    followers: 6709
+    engagement: 753
+    commentsToLikes: 0.018990
+    id: ck6txypul0mlt0j71ytfuwzqf
     verified: false
-    hashtags: "#twentiesonbet, #stylish, #jewelry, #fashionable"
-  - username: "gizguz"
+    hashtags: "#hollywood, #wanderlust, #architecture, #roamtheplanet"
+  - username: "_erickdiaz_"
     fullname: >-
-      Gizem Guzelsoy | NYC + Travel
+      Erick Diaz🇬🇹🇺🇸📍Los Angeles
+    bio: >-
+      Snapchat: erickx08 TikTok: erickdiaz_
     location: "United States"
-    followers: 4127
-    engagement: 1103
-    commentsToLikes: 0.073256
-    id: ck6ue6xphp64s0j71dbc53b54
+    followers: 22197
+    engagement: 882
+    commentsToLikes: 0.032649
+    id: ckap8valoq1t70i78g4dy0mfu
     verified: false
-    hashtags: "#nycthroughmywindow, #grandcenote, #cuba, #museumart"
-  - username: "_yvetters"
+    hashtags: "#fyp, #deaftalent, #deaf, #guatemala"
+  - username: "los.angeles.today"
     fullname: >-
-      𝐘 𝐕 𝐄 𝐓 𝐓 𝐄 . 𝐕
+      Los Angeles Today
+    bio: >-
+      Welcome to the Los Angeles Today Instagram page! #️⃣ #losangelestoday 📩 los.angeles.today55@gmail.com 📬 Email us suggestions or business inquiries
     location: "United States"
-    followers: 3472
-    engagement: 2374
-    commentsToLikes: 0.142747
-    id: ck0w0jslsek5c0i194gi6yfo5
+    followers: 29647
+    engagement: 189
+    commentsToLikes: 0.051346
+    id: ck0tygyijmrxp0i19ldg8tjpc
     verified: false
-    hashtags: "#lulusambassador, #lovelulus, #lolababe, #ymijeans"
-  - username: "macmatheus"
+    hashtags: "#travel, #events, #pictureoftheday, #yumyum"
+  - username: "betsyagarcia"
     fullname: >-
-      macmatheus
+      𝐁𝐄𝐓𝐒𝐘
+    bio: >-
+      𝐆𝐨𝐝 .𝐁𝐞𝐚𝐮𝐭𝐲&𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞. 𝐋𝐀
     location: "United States"
-    followers: 32509
-    engagement: 306
-    commentsToLikes: 0.042971
-    id: ck0vuy2yymoo60i19wv38n694
+    followers: 2976
+    engagement: 1102
+    commentsToLikes: 0.177845
+    id: ck5zxyi5m8wep0i14qyidwofc
     verified: false
-    hashtags: "#hydranthype, #nanox, #inmyscrubs, #healthysoul"
-  - username: "vinowithcristal"
+    hashtags: "#happygirlfriendhappylife, #glow, #styleblogger, #latinababe"
+  - username: "amilliannaa"
     fullname: >-
-      CRISTAL
+      Αмιℓℓιαииα Тαкєσνєя 🧚🏽‍♀️
+    bio: >-
+      Atl📍 CEO : @minkedmilli #longlivenarquise 🤞🏽💙🕊
     location: "United States"
-    followers: 3942
-    engagement: 1292
-    commentsToLikes: 0.104867
-    id: ck0tyuwlao5og0i19kwl2bgrr
+    followers: 6147
+    engagement: 647
+    commentsToLikes: 0.054685
+    id: ck5c1kbaqvcp20i117wrtr5fi
     verified: false
-    hashtags: "#sauvignonblancseason, #thanksdad, #tb, #yamon"
-  - username: "megan.costley"
+    hashtags: "#makeup, #fitness, #selfie, #international"
+  - username: "c_vanni_official"
     fullname: >-
-      Megan Costley
+      Cvanni Mendez
+    bio: >-
+      🏠#losangeles 🏆#bodybuilder #latino 📸#fitnessmodel 💃🏻#athlete 🚧#tesla #music QUAM MINIMUM CREDULA POSTERO:Seize the day,put little trust in tomorrow
     location: "United States"
-    followers: 33047
-    engagement: 188
-    commentsToLikes: 0.034106
-    id: ck0uapntzcsx30i194ldnavh4
+    followers: 15348
+    engagement: 459
+    commentsToLikes: 0.018047
+    id: ck9wfx08fqvof0j783u35yjvv
     verified: false
-    hashtags: "#pandalny, #igkpartner, #ad, #igkhair"
+    hashtags: "#gaymuscle, #bodybuilder, #followyourdreams, #bulkingseason"
 ---

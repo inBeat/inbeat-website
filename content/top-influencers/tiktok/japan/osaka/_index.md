@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Osaka In 2020
 description: >-
-  Find top TikTok influencers in Osaka in 2020. Most popular hashtags: #osaka #tiktok #twice #japan.
+  Find top TikTok influencers in Osaka in 2020. Most popular hashtags: #osaka #japan #tiktok.
 platform: TikTok
+hits: 24
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 24 TikTok influencers like this in Osaka, Japan for you to contact.
 profiles:
-  - username: "161012692"
+  - username: "yuruyuru_08"
+    fullname: >-
+      ゆる．︎︎︎︎︎☺︎
+    bio: >-
+      LJK. Osaka. fanmark☞．︎︎☺︎
+    location: "Japan"
+    followers: 18500
+    engagement: 1473
+    commentsToLikes: 0.160973
+    id: ckbf5ujhlv5tk0j23u9ckzhv2
+    verified: false
+    hashtags: "#dryflower, #02, #tiktok, #vintagebling"
+  - username: "knp_0225"
+    fullname: >-
+      Pちゃん🧸💋
+    bio: >-
+      *Osaka☞Kyoto🇯🇵 *follow me🤍💜
+    location: "Japan"
+    followers: 4650
+    engagement: 620
+    commentsToLikes: 0.033566
+    id: ckbbsaf2nfsw80j23mkmlpmpi
+    verified: false
+    hashtags: "#tiktok"
+  - username: "osakaninmuhtari"
+    fullname: >-
+      Aysel
+    bio: >-
+      İnstagram/YouTube ⬆️ @osakaninmuhtari Live: Japan🇯🇵
+    location: "Japan"
+    followers: 27900
+    engagement: 548
+    commentsToLikes: 0.025446
+    id: ckc8i3amsbtjv0j23tbeim2xj
+    verified: false
+    hashtags: "#ortam, #japan, #teamaiseru, #pubg"
+  - username: "aika_02083"
+    fullname: >-
+      Aika/愛花
+    bio: >-
+      Osaka 18 美容師になるのが夢です
+    location: "Japan"
+    followers: 109400
+    engagement: 593
+    commentsToLikes: 0.013678
+    id: ckbketpu55p8g0j23nblg98fj
+    verified: false
+    hashtags: "#nordgreen, #tiktokspotlight, #fashion, #tiktok"
+  - username: "maaki1106"
     fullname: >-
       maaki
+    bio: >-
+      osaka/21
     location: "Japan"
-    followers: 5169
-    engagement: 104
-    commentsToLikes: 0.027476
+    followers: 5774
+    engagement: 120
+    commentsToLikes: 0.025181
     id: ck92xoiugzhgv0j78jxd4xxrc
     verified: false
-    hashtags: "#timber, #djkoo, #0220, #atsushi"
-  - username: "30667497673"
+    hashtags: "#osaka, #club, #bambi, #vip"
+  - username: "paprikaaaaaaaa_"
     fullname: >-
-      しーた
+      Paprika
+    bio: >-
+      She/her 🇯🇵🇦🇺 yup
     location: "Japan"
-    followers: 65053
-    engagement: 568
-    commentsToLikes: 0.013622
-    id: ck8kghyy8ikg30j787vnyf2fy
+    followers: 6573
+    engagement: 1984
+    commentsToLikes: 0.018135
+    id: ckcdwso4kfuln0j23tgfc801n
     verified: false
-    hashtags: "#ak, #nmg, #06base, #street"
-  - username: "bargeera11"
+    hashtags: "#japan, #studioghibli, #osaka, #anime"
+  - username: "blu_qh"
     fullname: >-
-      bargeera11
+      JT๖・Bé〆Nè
+    bio: >-
+      
     location: "Japan"
-    followers: 13423
-    engagement: 316
-    commentsToLikes: 0.016595
-    id: cka69dapus42v0i78yh9porjh
+    followers: 3509
+    engagement: 453
+    commentsToLikes: 0.148448
+    id: ckbwftnt626y10j23dv3zeyw4
     verified: false
-    hashtags: "#lightningmcqueen, #bar, #streetfighter2, #origami"
-  - username: "kaei_japan"
+    hashtags: "#jtteam, #osaka, #jtteamosaka, #titokvietnam"
+  - username: "javiipink"
     fullname: >-
-      kaei_japan
+      javii.pink
+    bio: >-
+      💕 Walter 🐈 💕 Actriz 💕 viviendo en 🇯🇵
     location: "Japan"
-    followers: 24320
-    engagement: 246
-    commentsToLikes: 0.009575
-    id: cka6bzzuw2b1h0i787cqdoz4w
+    followers: 7270
+    engagement: 968
+    commentsToLikes: 0.042388
+    id: ckdngmy7rhx1o0j23blm3pyhz
     verified: false
-    hashtags: "#beautifulgirl, #foodlover, #tiktock, #tiktoksea"
-  - username: "kaito6123"
+    hashtags: "#inuyashacafe, #kimetsunoyaiba, #anime, #kagome"
+  - username: "imquynhanh95"
     fullname: >-
-      Bakaito 
+      Quỳnh Anh
+    bio: >-
+      Fb:Quynhanh Niềm tin quý giá hơn mọi thứ...🍀🍀🍀
     location: "Japan"
-    followers: 174095
-    engagement: 582
-    commentsToLikes: 0.004487
-    id: ck8kghsxiiin90j78nar9lkyk
+    followers: 36500
+    engagement: 442
+    commentsToLikes: 0.045018
+    id: ckbwftnhc26vl0j23utuks19p
     verified: false
-    hashtags: "#osaka"
-  - username: "nursewoman0626"
+    hashtags: "#nagoya, #namba, #nara, #japan"
+  - username: "congkhanh932000"
     fullname: >-
-      nori
+      Công Khanh
+    bio: >-
+      FB mình dưới link 🤪
     location: "Japan"
-    followers: 8005
-    engagement: 244
-    commentsToLikes: 0.060187
-    id: ck9jxt8yl26ea0j78ucpi59ja
+    followers: 29300
+    engagement: 841
+    commentsToLikes: 0.022341
+    id: ckcp9ofsqefy60j239fiqpvlv
     verified: false
-    hashtags: "#sky, #200, #shinchon, #portrait"
-  - username: "buicamtien98"
-    fullname: >-
-      Cẩm Tiên
-    location: "Japan"
-    followers: 4787
-    engagement: 251
-    commentsToLikes: 0.054922
-    id: ck8kghsfgiihv0j789qukiecl
-    verified: false
-    hashtags: "#aodaivietnam, #osaka, #namba, #nhatban"
-  - username: "junpox_xpink"
-    fullname: >-
-      マグ乗りじゅんぽ☻
-    location: "Japan"
-    followers: 8724
-    engagement: 749
-    commentsToLikes: 0.024984
-    id: cka9kzslu1aku0i78canlu1ah
-    verified: false
-    hashtags: "#green, #pink, #honda, #ilnk"
-  - username: "kingkohichi"
-    fullname: >-
-      KOHICHI
-    location: "Japan"
-    followers: 22226
-    engagement: 424
-    commentsToLikes: 0.012090
-    id: ck81sy3adtyul0j78tvj08bs8
-    verified: false
-    hashtags: "#disnyworld, #losangelles, #oceanviewhotel, #surprised"
-  - username: "bleatiktok"
-    fullname: >-
-      BLEA学園TikTok部
-    location: "Japan"
-    followers: 48124
-    engagement: 444
-    commentsToLikes: 0.011201
-    id: ck9bxcovbmhma0j7867xfx9jh
-    verified: false
-    hashtags: "#salonia, #dance, #tiktok, #littlegreemonster"
+    hashtags: "#kobe, #namba, #osaka, #umeda"
 ---

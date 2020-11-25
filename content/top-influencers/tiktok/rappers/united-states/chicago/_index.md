@@ -1,107 +1,130 @@
 ---
 title: Top 10 Rappers TikTok Influencers In Chicago In 2020
 description: >-
-  Find top rappers TikTok influencers in Chicago in 2020. Most popular hashtags: #rapper #chicago #coronavirus #voiceover.
+  Find top rappers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
 platform: TikTok
+hits: 16
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 16 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "alyjaemua"
+  - username: "officialks11"
     fullname: >-
-      Aly Jae
+      Ks11💸
+    bio: >-
+      18 Chicago📍
     location: "United States"
-    followers: 39874
-    engagement: 2424
-    commentsToLikes: 0.066170
-    id: ckahxrsgywexa0i784lo10o7u
+    followers: 96800
+    engagement: 1135
+    commentsToLikes: 0.149688
+    id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
-    hashtags: "#introvert, #endracism, #makeupartist, #soapbop"
-  - username: "russiaancream"
+    hashtags: "#foryoupage, #thingsyoudidntknow, #rappers, #chicago"
+  - username: "theemessiah"
     fullname: >-
-      russian cream
+      Classymas
+    bio: >-
+      I’ll try my best to make u laugh. Follow yer boi 🇮🇷 15k??
     location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
+    followers: 10200
+    engagement: 686
+    commentsToLikes: 0.065581
+    id: ckbw9f0dgzofc0j23qv3wg92q
     verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "shannon_favia"
+    hashtags: "#citylockdown, #covid19, #werkitfromhome, #blowthisup"
+  - username: "biglewwis"
     fullname: >-
-      Shannon Favia
+      BIG LEWIS
+    bio: >-
+      Big LEWIS is a Famous Rapper in Chicago with a star on the Magnificent Mile
     location: "United States"
-    followers: 21302
-    engagement: 633
-    commentsToLikes: 0.035019
-    id: ck9euit62drp00j780cwmzicc
+    followers: 5214
+    engagement: 562
+    commentsToLikes: 0.107821
+    id: ckbetaa3ic7750j234j6e8qmm
     verified: false
-    hashtags: "#theweekend, #beunbothered, #stayathome, #wetpaint"
-  - username: "bigmfmcgee"
+    hashtags: "#obama, #blm, #blacklivesmatter, #cardi"
+  - username: "groovynilo"
     fullname: >-
-      Hick Ross
+      GroovyNilo
+    bio: >-
+      TALK MY SHIT OUT NOW ON YT AND SC
     location: "United States"
-    followers: 6702
-    engagement: 932
-    commentsToLikes: 0.036477
-    id: cka9kzqbx1a9s0i784z13784z
+    followers: 30700
+    engagement: 1499
+    commentsToLikes: 0.074524
+    id: ckcehp5p9pl3b0j23jnrz5bgx
     verified: false
-    hashtags: "#bigcountry, #mmmdrop, #voiceover, #greatrichard"
-  - username: "dailyrapvids"
+    hashtags: "#lol, #fyp, #rap, #lmao"
+  - username: "xaviermali"
     fullname: >-
-      DAILY RAP VIDEOS
+      Xavier Mali
+    bio: >-
+      HIT THAT LINK ‼️🥶
     location: "United States"
-    followers: 60840
-    engagement: 1201
-    commentsToLikes: 0.008038
-    id: cka68yvoxqmrb0i78sriiqooj
+    followers: 2048
+    engagement: 1037
+    commentsToLikes: 0.012373
+    id: ckcv3hozfogrv0j23caq262yw
     verified: false
-    hashtags: "#familytime, #thugger, #rapvideos, #impersonation"
-  - username: "colecaineofficial"
+    hashtags: "#summer, #explore, #forus, #summervibes"
+  - username: "hurdleboyratliff"
     fullname: >-
-      Cole Caine
+      CartierBoyRatliff
+    bio: >-
+      Illinois State Track&Field 📍Grand Rapids, Michigan🌃 #Free9K
     location: "United States"
-    followers: 6369
-    engagement: 958
-    commentsToLikes: 0.029821
-    id: ck9uwgjasvsd20j787s044qef
+    followers: 25900
+    engagement: 1432
+    commentsToLikes: 0.058528
+    id: cka0p1ruw6c480i78nz5qdf7u
     verified: false
-    hashtags: "#trending, #slowedown, #partytime, #outtajail"
-  - username: "jessicagolich"
+    hashtags: "#fyp, #michigan, #foryoupage, #blowup"
+  - username: "osoavarice"
     fullname: >-
-      JessicaGolich
+      Sovereignty🌍🔒
+    bio: >-
+      Don’t let this fool y’all 🤐🗣 Sc:justintybull Growth & development 📉🏙
     location: "United States"
-    followers: 44633
-    engagement: 375
-    commentsToLikes: 0.021060
-    id: ck8hk5rm6cjeo0j78s2q7szjd
+    followers: 296800
+    engagement: 1807
+    commentsToLikes: 0.086985
+    id: ckb9bzjx5yhp80j23qddb8luz
     verified: false
-    hashtags: "#love, #funny, #editing, #guitar"
-  - username: "shusterman1"
+    hashtags: "#illinois, #foryoupage, #foryou, #fyp"
+  - username: "tylerissoepic"
     fullname: >-
-      Andrew Shusterman
+      tylerissoepic
+    bio: >-
+      Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
     location: "United States"
-    followers: 55206
-    engagement: 1100
-    commentsToLikes: 0.046729
-    id: ck9773q0g2kqb0j78itox55jw
+    followers: 3124
+    engagement: 1549
+    commentsToLikes: 0.076477
+    id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#modellife, #prettyflacko, #modelcheck, #princessnokia"
-  - username: "ilanasedaka"
+    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
+  - username: "djsmallz732"
     fullname: >-
-      Ilana Sedaka
+      DJ Smallz 732
+    bio: >-
+      CLUB 🐐 || PRODUCER || DJ || OVER 100+ MILLION PLAYS WORLD WIDE 🌏 || IG ⬆️
     location: "United States"
-    followers: 7610
-    engagement: 873
-    commentsToLikes: 0.033757
-    id: ck9a4kn7xuwin0j78x4zt8vs8
+    followers: 40500
+    engagement: 1128
+    commentsToLikes: 0.031859
+    id: ckdnu2b4dmjqr0j23nqmnojnw
     verified: false
-    hashtags: "#celebrity, #cocktail, #midtown, #music"
-  - username: "edgci"
+    hashtags: "#flstudio, #chicagofreestyle, #viral, #djsmallz732"
+  - username: "wavy_jose30"
     fullname: >-
-      edgci
+      Jose Alberto
+    bio: >-
+      CEO OF RANKS 🤓 Go follow that IG !! Nyc 🗽🏙 ✈️ NJ 25k?
     location: "United States"
-    followers: 43088
-    engagement: 1416
-    commentsToLikes: 0.028420
-    id: ck8s4iaa3bfi80j782ijv3oz8
+    followers: 20100
+    engagement: 1949
+    commentsToLikes: 0.045399
+    id: ckbfacjem1s9b0j23hb7fvhl9
     verified: false
-    hashtags: "#weeknd, #dundermifflin, #kobe, #tyler"
+    hashtags: "#fypage, #4u, #foryoupage, #trending"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Poland In 2020
 description: >-
-  Find top crossfit Instagram influencers in Poland in 2020. Most popular hashtags: #crossfit #love #kettlebell #weekend.
+  Find top crossfit Instagram influencers in Poland in 2020. Most popular hashtags: #crossfit #fitness #trening #polishgirl.
 platform: Instagram
+hits: 42
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 42 Instagram influencers like this in Poland for you to connect with.
 profiles:
   - username: "badass_girlpl"
     fullname: >-
       Anna Kaszuba
+    bio: >-
+      Fitness and healthy lifestyle 🏋️‍♀️ - Personal Trainer - CrossFit Athlete Ambassador @carpatree 🎀
     location: "Poland"
-    followers: 31543
-    engagement: 377
-    commentsToLikes: 0.047824
+    followers: 35078
+    engagement: 835
+    commentsToLikes: 0.015463
     id: ck0txpw9ck2rv0i19qkmupqxf
     verified: false
-    hashtags: "#badass, #11, #16"
+    hashtags: "#cyckidoprzodu, #tcmax"
   - username: "n.wolniewicz"
     fullname: >-
       Natalia Wolniewicz
+    bio: >-
+      Łódź/Warszawa🏡 Dziennikarka Radio Eska🎤 Radio/TV 📺 Crossfit girl🤸🏼‍♀️ Kontakt DM📥 🐰
     location: "Poland"
-    followers: 37556
-    engagement: 503
-    commentsToLikes: 0.026736
+    followers: 39648
+    engagement: 328
+    commentsToLikes: 0.033953
     id: ck9hba4hwfzwj0j78ashgbxmh
     verified: false
-    hashtags: ""
-  - username: "xlittlestronggirl"
-    fullname: >-
-      Monia
-    location: "Poland"
-    followers: 8434
-    engagement: 679
-    commentsToLikes: 0.038666
-    id: ck8t1d079vanb0j785k9sjipz
-    verified: false
-    hashtags: "#desert, #black, #outfit, #bodypositive"
+    hashtags: "#sprawdzasiewsporcie, #pasjadosportu, #rewolucjajestkobiet, #kurkuma"
   - username: "marta.zakrzewskaa"
     fullname: >-
       Trenerka, zawodniczka Crossfit
+    bio: >-
+      🔸-30%„marta30”@gipara_fitness ▪️Personal, Athletics Trainer 🔺TOP TEAM Polska 5* 🔸Kettlebell, Crossfit Instruktor ▪️CrossFit Athlete 🔺TREC TEAM ATHLETE
     location: "Poland"
-    followers: 35888
-    engagement: 211
-    commentsToLikes: 0.021740
+    followers: 36555
+    engagement: 181
+    commentsToLikes: 0.032417
     id: ck8tc7582yj3a0j78n79luftx
     verified: false
-    hashtags: "#fitwoman, #zachodslonca, #dzwiganie, #stanienare"
-  - username: "pobiegana"
+    hashtags: "#motywacja, #fitshape, #polishwoman, #crossfit"
+  - username: "jackevening"
     fullname: >-
-      Karolina Lato-Książek
+      Jacek Wieczorek
+    bio: >-
+      🏋🏽‍♂️ Training Crossfit 🍓 Eating berries 📚 Reading books ☀️ Catching sun Living healthy with the smile😁💖
     location: "Poland"
-    followers: 5316
-    engagement: 887
-    commentsToLikes: 0.017931
-    id: ck9wcz21cdan80j78osodmjii
+    followers: 8561
+    engagement: 2287
+    commentsToLikes: 0.029478
+    id: ckf5r3wiabbza0j233job6wab
     verified: false
-    hashtags: "#czytam, #usiebie, #ryby, #ciep"
-  - username: "asmanyreviewsaspossible"
+    hashtags: "#czarnobia, #malemodel, #motywacja, #sesjazdjeciowa"
+  - username: "amonleon"
     fullname: >-
-      Joel Te
+      Armand Monleón / rally Dakar
+    bio: >-
+      Rally Raid CO-driver for MONSTER ENERGY CANAM RALLY DAKAR // Atleta JOYRIDE - CORKTEX - PiD foundation - 24MX - Gessamí - Crossfit Igualada - Ixcor
     location: "Poland"
-    followers: 43861
-    engagement: 103
-    commentsToLikes: 0.067683
-    id: ck13azo6ysz2i0i19pe8uyzoc
+    followers: 10404
+    engagement: 738
+    commentsToLikes: 0.039416
+    id: ck5zj2smagubq0i14i9q75eos
     verified: false
-    hashtags: "#squatproof, #nobullproject, #misfitsathletics, #rpc"
+    hashtags: "#24mx, #corktex, #dalealplay, #dakarrally"
   - username: "bronislawolenkowicz"
     fullname: >-
       Bronisław Olenkowicz
+    bio: >-
+      🇵🇱|Crossfit Games 19|Owner @strongforlife.pl |Powered by @jackedgymnastics @reebokeurope @thornfit @afterworkoutcream @acus_med ⬇️ONLINE COACHING
     location: "Poland"
     followers: 35149
     engagement: 359
     commentsToLikes: 0.014297
     id: ck15sicydd5kw0i199fxohluh
     verified: false
-    hashtags: "#squat, #core, #crossfitopen, #crossfitbrasil"
-  - username: "pawelfitnessworld"
+    hashtags: "#snatch, #teamstrong, #kettlebells, #weightlifting"
+  - username: "pobiegana"
     fullname: >-
-      Pawel Fitness World ®️
+      Karolina Lato-Książek
+    bio: >-
+      Running, cykling, crossfit, cooking, traveling, mountains, real estate, fantasy, garden ❤
     location: "Poland"
-    followers: 50736
-    engagement: 246
-    commentsToLikes: 0.072801
-    id: ckaoze58alh5y0i78u5hq4d10
+    followers: 5287
+    engagement: 773
+    commentsToLikes: 0.016370
+    id: ck9wcz21cdan80j78osodmjii
     verified: false
-    hashtags: "#metamorfoza, #zdrowadieta, #zosta, #gainweight"
-  - username: "olivia_funky_"
+    hashtags: "#myplace, #rowerowelove, #cyklingphotos, #weekend"
+  - username: "xlittlestronggirl"
     fullname: >-
-      Olivia Lubieniecka
+      𝙼𝚘𝚗𝚒𝚊 🌸
+    bio: >-
+      𝙲𝚛𝚘𝚜𝚜𝚏𝚒𝚝 𝙻𝚎𝚟𝚎𝚕 𝟷 𝚃𝚛𝚊𝚒𝚗𝚎𝚛 💪🏼 𝚃𝚛𝚎𝚗𝚒𝚗𝚐𝚒 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚗𝚎- 𝙺𝚊𝚝𝚘𝚠𝚒𝚌𝚎 @gymhero_official 𝚃𝙴𝙰𝙼 💕 -𝟷𝟸%𝙺𝙾𝙳: 𝚜𝚝𝚛𝚘𝚗𝚐𝚐𝚒𝚛𝚕 @sklep.sfd -𝟷𝟶% 𝚔𝚘𝚍: 𝚂𝚃𝚁𝙾𝙽𝙶𝙶𝙸𝚁𝙻
     location: "Poland"
-    followers: 5921
-    engagement: 1052
-    commentsToLikes: 0.052761
-    id: ck13a11hjo38q0i199333oq86
+    followers: 10712
+    engagement: 655
+    commentsToLikes: 0.119639
+    id: ck8t1d079vanb0j785k9sjipz
     verified: false
-    hashtags: "#travel, #balisunset, #miedzyseriami, #surfmagic"
-  - username: "dowytrenow.ania"
+    hashtags: "#polishgirl, #me, #girl, #personaltrainer"
+  - username: "magda_biala"
     fullname: >-
-      Trener Anna Mikołajczak
+      MAGDALENA BIAŁACHOWSKA🏋️‍♀️
+    bio: >-
+      💪 PT Szczecin 👙 @strongpoint.pl magdabiala 🤓 @a4academy.pl magda_biala 💊 @labone_official magda_biala ♦️ @b.birdfitness MAGDA 📪 mbialachowska@o2.pl📪
     location: "Poland"
-    followers: 29626
-    engagement: 372
-    commentsToLikes: 0.038315
-    id: ckap4ctea6rpe0i78dekibact
+    followers: 9654
+    engagement: 614
+    commentsToLikes: 0.090631
+    id: ck8t60bm1bt1y0j78ybqk23ci
     verified: false
-    hashtags: "#treningdomowy, #dzienmamyzsundose, #crossfitgirl, #reebok"
+    hashtags: "#fitgirl, #dieta, #dinner, #inkedgirl"
+  - username: "ankadziedzicfit"
+    fullname: >-
+      Anka Dziedzic
+    bio: >-
+      🔹trener personalny 🔹Platforma Treningowa FitAnka.pl 🔹Ambasadorka #suunto3⌚️ #nieksiężniczkuj
+    location: "Poland"
+    followers: 92387
+    engagement: 78
+    commentsToLikes: 0.058701
+    id: ck9wd8nxaeku60j788e8wl7tb
+    verified: false
+    hashtags: "#fitankapl, #metamorfoza, #treningwdomu, #regeneracja"
 ---

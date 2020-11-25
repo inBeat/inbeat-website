@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Medellín In 2020
 description: >-
-  Find top travel Instagram influencers in Medellín in 2020. Most popular hashtags: #travel #moda #antioquia #medellin.
+  Find top travel Instagram influencers in Medellín in 2020. Most popular hashtags: #travel #medellin #colombia #antioquia.
 platform: Instagram
+hits: 61
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 61 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
-  - username: "luy_gaitan"
+  - username: "laurenlagringalatina"
     fullname: >-
-      HOLA ÑEÑE
+      LAUREN La Gringa Latina
+    bio: >-
+      💃🏼 Celebrate LATIN CULTURE 🎉 ✈️ Travel LATIN AMERICA 🇨🇴 🙅🏼‍♀️ BREAK stereotypes & 🧠 BUILD awareness of Latino issues 🎥 PARA TODA MI GENTE BORICUA!🇵🇷⤵️
     location: "Colombia"
-    followers: 8886
-    engagement: 656
-    commentsToLikes: 0.028179
-    id: ck6uadqhv2zi60j71di99sdus
+    followers: 9091
+    engagement: 594
+    commentsToLikes: 0.059419
+    id: ckf5v3f2sn6ah0j233cyxbk6t
     verified: false
-    hashtags: "#yocomprollanero, #palanteespaya, #caballo, #mujerempoderada"
-  - username: "elianadiosa"
+    hashtags: "#prvive, #enjoyingpr, #puertoricogram, #buscandocultura"
+  - username: "kasedna_travel"
     fullname: >-
-      Ɛℓιαηα Ɗισѕα✌🌻💞
+      kasedna_travel
+    bio: >-
+      #colombia #viajero #samsungs20plus . “Apasionado por los viajes. Recogiendo y compartiendo memorias y momentos de cada rincón que visito”
     location: "Colombia"
-    followers: 19572
-    engagement: 428
-    commentsToLikes: 0.031236
-    id: ck55lt4112d2p0i117lndpnlq
+    followers: 116871
+    engagement: 501
+    commentsToLikes: 0.076951
+    id: ck0vx2kfjwtsn0i194nnaa6ss
     verified: false
-    hashtags: "#milktistle, #work, #friend, #workout"
-  - username: "senor.viajero"
+    hashtags: "#gaytravel, #viajes, #travelguide, #amoviajar"
+  - username: "juandaimond"
     fullname: >-
-      Señor Viajero
+      JUANDAIMOND
+    bio: >-
+      My brand: @tamarincolombia 🥑🥦🥗🍲🍽 Youtuber: 🕺🏿🕺🏿🕺🏿🕺🏿🍪🍮🥙🍟⬇️⬇️⬇️
     location: "Colombia"
-    followers: 16342
-    engagement: 956
-    commentsToLikes: 0.117252
-    id: ck5hrs6icvdyt0i1172mzn954
+    followers: 53269
+    engagement: 313
+    commentsToLikes: 0.025596
+    id: ck6u91mx3uyoz0j71kuvli029
     verified: false
-    hashtags: "#charala, #jurassicpark, #lagoon, #neon"
-  - username: "nay_andrei"
+    hashtags: "#bestfanarmy, #ootdhijab, #bestmoments, #modern"
+  - username: "travel_jcr"
     fullname: >-
-      Nayan Andrei Castillo Celis 🇨🇴
+      Jhonathan ✈️🌎🇨🇴
+    bio: >-
+      📍 De Cali 🇨🇴🕺🏽viviendo en Medellín 🌎 Viajero - Travel blog 📷 Fotógrafo y filmmaker aficionado 👇🏾Aqui solo vas a ver cosas chéveres
     location: "Colombia"
-    followers: 5656
-    engagement: 575
-    commentsToLikes: 0.035490
-    id: ck9wolac85m240j782m64pqf4
+    followers: 7500
+    engagement: 1195
+    commentsToLikes: 0.061158
+    id: ckf5wgw05rzv80j239j3eb0gf
     verified: false
-    hashtags: "#colombiaesincreible, #travel, #culturetrip, #adventuretime"
-  - username: "david_artpe"
+    hashtags: "#instatravel, #gaytravel, #travelpic, #santorini"
+  - username: "buenviajeconandre"
     fullname: >-
-      David Peñalver Art
+      Andy TravelDiary➳NYC🌎+58Paises
+    bio: >-
+      Viajera y soñadora♻️ #womenempowerment 🧘🏻‍♀️🇨🇴🇩🇪 Expat partner in🗽usa ❅ 📕Un diario de #Viajes un #diario digital de vida!♡ Tiktok: andydiary Info☟
     location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
+    followers: 21629
+    engagement: 266
+    commentsToLikes: 0.259066
+    id: ck0vx2gt1wt9o0i19p333wt86
     verified: false
-    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
-  - username: "dr.tonni"
+    hashtags: "#we, #travel, #islarootsestucasa, #yomequedoencasa"
+  - username: "sebasmc_f"
     fullname: >-
-      GORDO PERO CHIMBA MI AMOR
+      Sebas Montoya
+    bio: >-
+      📸¡Viajes y fotografía! 📸
     location: "Colombia"
-    followers: 1734108
-    engagement: 999
-    commentsToLikes: 0.018024
-    id: ck8wg6z05gu3j0j78mcrw9qau
+    followers: 7644
+    engagement: 1095
+    commentsToLikes: 0.021976
+    id: ck5hdx2xiptlc0i11g481be2w
     verified: false
-    hashtags: "#cuarentena, #cuidateencasa, #covid, #quarantine"
-  - username: "karenscaptures"
+    hashtags: "#antioquia, #longexposure, #colombiarealismomagico, #landscape"
+  - username: "colombiaentusojos"
     fullname: >-
-      Karen 💫 travel photos
+      Colombia En Tus Ojos 🇨🇴
+    bio: >-
+      Mostramos las maravillas de COLOMBIA 🇨🇴🇨🇴 By: @padondespues ⚡ Recuerda 👇🏼 Usar #ColombiaEnTusOjos Tag @colombiaentusojos
     location: "Colombia"
-    followers: 10418
-    engagement: 1903
-    commentsToLikes: 0.044555
-    id: ck8t47tlh5sn80j78vagcoz1f
+    followers: 41948
+    engagement: 184
+    commentsToLikes: 0.111394
+    id: ckap8ds6mnvxg0i78wnupluqx
     verified: false
-    hashtags: "#princeschallenge"
-  - username: "steffyofficial"
+    hashtags: "#visitcolombia, #viajeros, #mochileroscolombia, #colombiatravel"
+  - username: "guatape_colombia"
     fullname: >-
-      Steffy Moreno
+      Guatapé, Antioquia.Colombia🌎🇨🇴
+    bio: >-
+      🌎🇨🇴 Pregunta por planes, actividades y lugares para visitar. 🏞️ Activa las notificaciones ↗ @exploremos_colombia
     location: "Colombia"
-    followers: 374862
-    engagement: 398
-    commentsToLikes: 0.027847
-    id: ck6udohjom9rk0j71tlc3a4qe
+    followers: 33821
+    engagement: 720
+    commentsToLikes: 0.018754
+    id: ck6uhgcay8yve0j71fuhmah24
     verified: false
-    hashtags: "#tbt, #practicesocialdistancing, #practicadistanciamientosocial"
-  - username: "cami.erre_"
+    hashtags: "#represadeguatape, #travel, #beautifuldestinations, #worlderlust"
+  - username: "isabelvesga"
     fullname: >-
-      Camila Rendón
+      Isabel Vesga
+    bio: >-
+      Fashion Designer | Content creator @elementumdesign @itsmariavesga Colombiana
     location: "Colombia"
-    followers: 9363
-    engagement: 653
-    commentsToLikes: 0.040129
-    id: ck13asfrcryak0i19lkojnh29
+    followers: 9419
+    engagement: 363
+    commentsToLikes: 0.034217
+    id: ck8tcsh2n0i9l0j78rd38d8tm
     verified: false
-    hashtags: "#tbt, #macarena, #model, #colombianmodel"
-  - username: "brigituks"
+    hashtags: "#travelphotography, #travel, #fashion, #colombians"
+  - username: "mqargeltravel"
     fullname: >-
-      ☆ Brigita Maldutytė ☆ ♊️
+      Mel argel
+    bio: >-
+      Medellin-Colombia 💻Emprendedor/Marketing 📸 Fotógrafo viajero 💵💰Como genero mis ingresos 👇
     location: "Colombia"
-    followers: 10180
-    engagement: 441
-    commentsToLikes: 0.025569
-    id: ck0ude8giiy7a0i19zhg7dm27
+    followers: 11634
+    engagement: 834
+    commentsToLikes: 0.019548
+    id: ckap6tip7hd0c0i78hh4wvv5h
     verified: false
-    hashtags: "#sunny, #vacai, #like, #viernes"
+    hashtags: "#medellincolombia, #naturephotographyday, #traveldestination, #colombiatravel"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In South Africa In 2020
 description: >-
-  Find top food Instagram influencers in South Africa in 2020. Most popular hashtags: #positivevibes #southafrica #lockdownsa #blackandwhite.
+  Find top food Instagram influencers in South Africa in 2020. Most popular hashtags: #giveaway #southafrica #summervibes.
 platform: Instagram
+hits: 109
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 109 Instagram influencers like this in South Africa for you to work with.
 profiles:
-  - username: "jen1649"
-    fullname: >-
-      Jenny Smith
-    location: "South Africa"
-    followers: 2492
-    engagement: 1725
-    commentsToLikes: 0.451666
-    id: ck8t9ssaop87j0j7876yag304
-    verified: false
-    hashtags: "#redlips, #birthdayboy, #extra, #nhatrang"
-  - username: "katlego_masupa"
-    fullname: >-
-      Katlego Masupa
-    location: "South Africa"
-    followers: 69806
-    engagement: 245
-    commentsToLikes: 0.081537
-    id: ck5btyb4agtpq0i113f18sbs4
-    verified: false
-    hashtags: "#treatyourself, #nodebate, #babysoft, #throwbackthursday"
   - username: "zeenatkh_"
     fullname: >-
-      Z e e n a t   K h a n
+      Zeenat Khan
+    bio: >-
+      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
     location: "South Africa"
-    followers: 8213
-    engagement: 956
-    commentsToLikes: 0.208190
+    followers: 9452
+    engagement: 1046
+    commentsToLikes: 0.202621
     id: ck5zt80vuzwqc0i140ooagtz6
     verified: false
-    hashtags: "#bringtheadventure, #blackandwhitechallenge, #moodymandy"
-  - username: "ashtonpienaar"
+    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
+  - username: "marisepollard"
     fullname: >-
-      Ashton Travel & Fitness
+      Marise Pollard
+    bio: >-
+      ♥️HP I like to play dress up, unfamiliar places & a l l food. I get really excited when the sky is in pretty colors. Always be kind & say thank you.
     location: "South Africa"
-    followers: 127202
-    engagement: 338
-    commentsToLikes: 0.152602
-    id: ck5hhd5af7m870i114z7i6j6m
-    verified: true
-    hashtags: "#comics, #tshirt, #mountaineer, #suitup"
-  - username: "carishmabasday"
-    fullname: >-
-      Carishma Basday ~ Actress
-    location: "South Africa"
-    followers: 18438
-    engagement: 405
-    commentsToLikes: 0.080650
-    id: ck5c05axash890i11gyh86zop
+    followers: 53811
+    engagement: 1268
+    commentsToLikes: 0.023231
+    id: ck6u866l7pnuv0j71hspnufg4
     verified: false
-    hashtags: "#salockdown, #stayhomestaysafe, #staysafe, #honortheearth"
-  - username: "mamthug"
-    fullname: >-
-      watermeisie
-    location: "South Africa"
-    followers: 5405
-    engagement: 826
-    commentsToLikes: 0.043213
-    id: ck5cig9agslim0i11h492m849
-    verified: false
-    hashtags: "#redbullza, #givesyouwings, #redbull"
-  - username: "zandrijoubert"
-    fullname: >-
-      Z A N D R I  J O U B E R T 📍🇿🇦
-    location: "South Africa"
-    followers: 24512
-    engagement: 622
-    commentsToLikes: 0.006943
-    id: ckap8egwxnyss0i783o12c6p4
-    verified: false
-    hashtags: "#southafrica, #purposefullife, #pursueyourbest, #4x4offroad"
+    hashtags: "#skoonbeautysmoothie"
   - username: "nicola_duplessis"
     fullname: >-
       Nicola Tila Du Plessis
+    bio: >-
+      Director: @acemodels_atlanticseaboard SA| MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
     location: "South Africa"
-    followers: 25208
-    engagement: 336
-    commentsToLikes: 0.046968
+    followers: 26236
+    engagement: 313
+    commentsToLikes: 0.059777
     id: ck14gy3zw7l6g0i19peitarc2
     verified: false
-    hashtags: "#hotnesslevel, #quarantine, #livinglifetothefullest, #becomfortableinyourownskin"
-  - username: "zama__zeezii"
+    hashtags: "#must, #luxury, #giveaway, #acemodelsatlanticseaboard"
+  - username: "katlego_masupa"
     fullname: >-
-      Zama Flowerchild
+      Katlego Masupa
+    bio: >-
+      Lifestyle muse ✨ Drinks, good food and everything in between.
     location: "South Africa"
-    followers: 67592
-    engagement: 610
-    commentsToLikes: 0.027400
-    id: ck9wfewspoknl0j785ik7v5xi
+    followers: 71303
+    engagement: 215
+    commentsToLikes: 0.073886
+    id: ck5btyb4agtpq0i113f18sbs4
     verified: false
-    hashtags: "#beautiful, #quotes, #libra, #mood"
-  - username: "diariesofanislandergirl"
+    hashtags: "#selfcaresunday, #befreelactosefree, #cycling, #olachoosejoy"
+  - username: "carishmabasday"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      Carishma Basday ~ Actress
+    bio: >-
+      Adventure seeking✈️, food loving🍝,yoga doing🧘🏽‍♀️,puppy cuddling🐶, good vibe cultivator💖,magic maker✨,actress/presenter🎬& mama to Ayla Océane 👼🏽
     location: "South Africa"
-    followers: 8945
-    engagement: 828
-    commentsToLikes: 0.029388
-    id: ck5hqose9tghk0i11u4gxah0n
+    followers: 20963
+    engagement: 319
+    commentsToLikes: 0.120298
+    id: ck5c05axash890i11gyh86zop
     verified: false
-    hashtags: "#threadingeyebrows, #facialrazor, #skincareaddict, #egglessmarblecake"
+    hashtags: "#gifting, #giveaway, #carishmabasday30, #perfectgifts"
+  - username: "mamthug"
+    fullname: >-
+      watermeisie
+    bio: >-
+      I will not be robot food 📍 Johannesburg, South Africa
+    location: "South Africa"
+    followers: 6074
+    engagement: 802
+    commentsToLikes: 0.045862
+    id: ck5cig9agslim0i11h492m849
+    verified: false
+    hashtags: "#ownyourcrown, #blackcrownza, #ad, #thesitdown"
+  - username: "zia_suarez"
+    fullname: >-
+      𝙕𝙄𝘼 𝙎𝙐𝘼𝙍𝙀𝙕
+    bio: >-
+      📍floating around Europe Email for collab 📩: ziasuarez@gmail.com Visit my foodie profile: @socialbyzia Check out my presets @ziarmandpresets 👇🏽
+    location: "South Africa"
+    followers: 106242
+    engagement: 755
+    commentsToLikes: 0.012460
+    id: ck0tt22xv0tlw0i19puxwwbly
+    verified: false
+    hashtags: "#summerlovin, #islandhopping, #summertime, #saltescape"
+  - username: "keturah_king"
+    fullname: >-
+      Keturah King
+    bio: >-
+      @masterchefonfox Szn 10 @cnn African Voices Pioneer | Journalist | Thespian | Director |🧿| Food Fanatic | TV Host | Bon Vivant | Nomad ✈️ #EndSARS
+    location: "South Africa"
+    followers: 61644
+    engagement: 618
+    commentsToLikes: 0.019971
+    id: ck5zuocrt2qvv0i14ylyuhdrx
+    verified: true
+    hashtags: "#brownskingirl, #onset, #visiterlafrique, #sp"
+  - username: "anniqueborman"
+    fullname: >-
+      Annique Borman
+    bio: >-
+      South African 🇿🇦| Inspired by my environment🌿| food and fitness🍓 | Student at UFS 🎓| Currently residing in Bloemfontein, FS🌺| Est. 99’✨
+    location: "South Africa"
+    followers: 8325
+    engagement: 1165
+    commentsToLikes: 0.010803
+    id: ckaovaxd13s590i78nwqtw5hi
+    verified: false
+    hashtags: "#angelsgear, #ownyouwings, #angelsboutique"
+  - username: "zandrijoubert"
+    fullname: >-
+      Z A N D R I  J O U B E R T 📍🇿🇦
+    bio: >-
+      For His glory! 💗 - Go find your adventure today 💫 - Nature-loving | adventure-seeking | goal-driven - FITNESS | FOOD | LIFESTYLE - Yes, I TikTok 👇🏼
+    location: "South Africa"
+    followers: 24169
+    engagement: 580
+    commentsToLikes: 0.008497
+    id: ckap8egwxnyss0i783o12c6p4
+    verified: false
+    hashtags: "#gofindyouradventure, #wegotthis, #lockdown, #shootingrange"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In 2020
 description: >-
-  Find top bloggers Instagram influencers in 2020. Most popular hashtags: #giveaway #nakdfashion #pinterest #mondaymood.
+  Find top bloggers Instagram influencers in 2020. Most popular hashtags: #ad #travel #photography.
 platform: Instagram
+hits: 32630
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 32630 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "international_nat"
+    fullname: >-
+      ｂｌｏｇｇｅｒ
+    bio: >-
+      📍Nicaragua 🇳🇮 🔜 Colorado 🇺🇸 💌 natalie@prettylittlegrind.com ✈️ travel blogger, lifestyle blogger 💍 90 day fiancee visa life 💻 blogging consultant
+    location: "United States"
+    followers: 4422
+    engagement: 695
+    commentsToLikes: 0.148926
+    id: ck8t26vj9yd0h0j784hl1izvh
+    verified: false
+    hashtags: "#growthhacking, #socialmediastrategy, #letsloop, #travelfriends"
+  - username: "voguishdiet"
+    fullname: >-
+      Gaby Aleixandre
+    bio: >-
+      Lifestyle Blogger-Foodie 📍Miami, Fl Youtube.com/voguishdiet Contact: info@voguishdiet.com Photos by @legendaryalex
+    location: "United States"
+    followers: 19088
+    engagement: 3184
+    commentsToLikes: 0.066797
+    id: ck5byrr4tppqv0i11vb64i9fk
+    verified: false
+    hashtags: "#mysmashbox, #dualipa, #letsgetphysical, #smashboxpartner"
+  - username: "saskiabzn"
+    fullname: >-
+      Saskia B.
+    bio: >-
+      28 yo ▲ 🇫🇷 🇧🇪 🇱🇺 Blogger ▲ Catlover ▲ Photographer ▲ Model 😻 @princess_mishka 🖤 🎥 http://www.youtube.com/saskiabzn Collab : contact@bruneagency.lu
+    location: "France"
+    followers: 7630
+    engagement: 2221
+    commentsToLikes: 0.099102
+    id: ck8t0z0n7tuyl0j78cazxo5mm
+    verified: false
+    hashtags: "#altgirl, #grungelook, #harajukufashion, #egirl"
+  - username: "k.zarane"
+    fullname: >-
+      Katrīna Zarāne
+    bio: >-
+      🤳🏼Lifestyle Blogger 🇱🇻 From Riga 💌 Collab - katrina.zarane@gmail.com
+    location: ""
+    followers: 5097
+    engagement: 2100
+    commentsToLikes: 0.640844
+    id: ckaoqtua6kd600i780rimjqld
+    verified: false
+    hashtags: "#izloze, #ad, #da, #sadarbi"
   - username: "aslam_azzi"
     fullname: >-
       R ⭕ W D Y
-    location: ""
-    followers: 2359
-    engagement: 4140
-    commentsToLikes: 0.369201
+    bio: >-
+      . ALHAMDULLILAAH 💯 . FASHION BLOGGER . KEEP SMILING 🥀 . ."𝖠𝗅𝗅 𝗆𝗒 𝗁𝖺𝗍𝖾𝗋𝗌 , 𝖠𝗌𝗌𝖾𝗆𝖻𝗅𝖾 𝗁𝖾𝗋𝖾 "🚀 🍃..
+    location: "Canada"
+    followers: 6794
+    engagement: 1897
+    commentsToLikes: 0.198088
     id: ck9wi95sx19bv0j78s3u61tjk
     verified: false
-    hashtags: "#duke200, #banglore, #keralaatraction, #gaintrick"
-  - username: "leronyrony"
+    hashtags: "#instagram, #thrissur, #mallugram, #instagoodl"
+  - username: "enina.mama"
     fullname: >-
-      Valeria Anastasina
-    location: "Russia"
-    followers: 13043
-    engagement: 2180
-    commentsToLikes: 0.131030
-    id: ck0ty5lgvlqdw0i19i3erm7j8
+      Andrea Tomašević Kolenda
+    bio: >-
+      ■ Ena❤💙Dani ■ Journalist & PR ■ Mom blogger ■ 🚩 71000 Sarajevo, BiH ■ Contact: andrea.tomasevic@gmail.com
+    location: ""
+    followers: 21668
+    engagement: 1607
+    commentsToLikes: 0.072498
+    id: ck5hn2imcn3320i11k6lpzb25
     verified: false
-    hashtags: ""
-  - username: "amybnt"
+    hashtags: "#eninamama, #littledani, #eninbrat, #zajednosmojedno"
+  - username: "marianaavila14"
     fullname: >-
-      Amélie
-    location: "France"
-    followers: 10454
-    engagement: 2121
-    commentsToLikes: 0.083965
-    id: ck9wfappco01d0j78r4pvho9g
+      MARIANA AVILA🍂
+    bio: >-
+      •McAllen Tx. •Blogger 💌MarianaCollabs@hotmail.com
+    location: "Mexico"
+    followers: 94803
+    engagement: 1527
+    commentsToLikes: 0.049003
+    id: ck1377k3sa6th0i1943tmfsa0
     verified: false
-    hashtags: "#heishizlook, #benakd, #giveaway, #inesmaphoto"
-  - username: "adi__ina"
+    hashtags: "#shein, #moda, #fashion, #fashionblogger"
+  - username: "missdemiy"
     fullname: >-
-      𝑨𝒅𝒊𝒏𝒂’𝒔 𝑴𝒂𝒈𝒊𝒄𝒂𝒍 𝑬𝒅𝒊𝒕𝒔 ✨
-    location: "Italy"
-    followers: 8624
-    engagement: 1553
-    commentsToLikes: 0.237843
-    id: ck8t5ssvsb4am0j78mim6re1r
-    verified: false
-    hashtags: "#beautygiveaway, #imaginative, #oradea, #instaromania"
-  - username: "popy.__"
-    fullname: >-
-      وشنُ🦋
-    location: "India"
-    followers: 8227
-    engagement: 1528
-    commentsToLikes: 0.164624
-    id: ck9wgp8i1udha0j78pjte341g
-    verified: false
-    hashtags: "#trivandrum, #keralatourism, #kannur, #malayali"
-  - username: "inesdailylove"
-    fullname: >-
-      FASHION | INSPO | BEAUTY
-    location: "Germany"
-    followers: 13646
-    engagement: 1508
-    commentsToLikes: 0.417351
-    id: ck14k5tfsnvf30i19k3iqr72x
-    verified: false
-    hashtags: "#springflatlay, #fashiongermany, #rapsfelder, #zaralook"
-  - username: "simlipullu"
-    fullname: >-
-      Simay Çetinkaya Pullu
-    location: "Turkey"
-    followers: 9594
-    engagement: 1394
-    commentsToLikes: 0.161409
-    id: ck8t3cgo62qsy0j78b6gwj87u
-    verified: false
-    hashtags: "#styhmbsf, #cumal, #dekorasyon, #gezi"
-  - username: "nthambe633"
-    fullname: >-
-      Nthambe Raselabe 🇿🇦
-    location: "United States"
-    followers: 22511
-    engagement: 1295
-    commentsToLikes: 0.078711
-    id: ckapa7hngv1290i78ln4q3jn4
-    verified: false
-    hashtags: "#zarawomen, #bikerjackets, #easylook, #ootdfashion"
-  - username: "1corinthians13_love"
-    fullname: >-
-      💗Emma Mae Jenkins☀️
-    location: "United States"
-    followers: 147184
-    engagement: 1286
-    commentsToLikes: 0.062456
-    id: ckaovrecf5tto0i78vvi7owtu
-    verified: false
-    hashtags: "#makemeamcdaniel, #healthcare"
-  - username: "ourtasteforlife"
-    fullname: >-
-      CHARLOTTE ♡ NATALIE 𖤥 UK
+      DEMI YOUNG 💋
+    bio: >-
+      Focus on positivity UK based 📍 Fashion blogger ✨ 💌 Collabs/PR missdemiy.enquiries@gmail.com
     location: "United Kingdom"
-    followers: 24570
-    engagement: 1278
-    commentsToLikes: 0.095989
-    id: ck5zqz6k2vl810i14cmyqbzfl
+    followers: 10165
+    engagement: 1317
+    commentsToLikes: 0.617593
+    id: ck15s8o81bsde0i193c7ksghv
     verified: false
-    hashtags: "#lesbianstyle, #winter, #bakingfun, #brighton"
+    hashtags: "#isawicons, #katchme, #ad"
+  - username: "marinamxll"
+    fullname: >-
+      Marina | Regensburg
+    bio: >-
+      💌 marinamxll@gmx.de or DM ✨use #marinamxll #fashion #lifestyle #blogger_de
+    location: "Germany"
+    followers: 12782
+    engagement: 1307
+    commentsToLikes: 0.137327
+    id: ckap4wh7j96yc0i78cq7ah4m4
+    verified: false
+    hashtags: "#styleinspo, #potd, #americanstyle, #fashion"
+  - username: "zoe_gathi"
+    fullname: >-
+      🌸Travelin Lady Zoe Gathi🌸
+    bio: >-
+      ✈️Passionate about traveling✈️Fashion admirer🌸Food lover🌸All 📸 mine. 46 countries and counting. 💌 DM & zoeagathopoulou@gmail.com. Blogger on:
+    location: "United States"
+    followers: 14398
+    engagement: 1282
+    commentsToLikes: 0.083612
+    id: ck8szrsekph4u0j78nadfg986
+    verified: false
+    hashtags: "#girlsborntotravel, #winetime, #greecestagram, #traveladdict"
 ---

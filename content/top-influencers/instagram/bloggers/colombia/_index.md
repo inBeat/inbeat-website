@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Colombia In 2020
 description: >-
-  Find top bloggers Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #sunday #love #coronavirus.
+  Find top bloggers Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #colombia #makeupartist #maquillaje.
 platform: Instagram
+hits: 74
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 74 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "thebigbrowneyes"
+  - username: "lauramonsalvomakeup"
     fullname: >-
-      Ana Lucia Gutierrez
+      Diva, Top !
+    bio: >-
+      Beauty blogger 🌸 Talleres de maquillaje Ocaña- Aguachica 🌈 publicidad al 3136619966 Gus & Lau 👫👩‍❤️‍💋‍👨💖
     location: "Colombia"
-    followers: 46604
-    engagement: 381
-    commentsToLikes: 0.055322
-    id: ck0uaqsdncyac0i19ic7mpq4m
+    followers: 21634
+    engagement: 1462
+    commentsToLikes: 3.380859
+    id: ckaov9slz3naa0i78gdzg4oq7
     verified: false
-    hashtags: "#madeinbolivia, #thebigbrowneyes, #pink, #nycstrong"
-  - username: "maclablog"
+    hashtags: "#diva, #color, #aesthetic, #power"
+  - username: "saracalderonmakeup"
     fullname: >-
-      Macla 💖 Marcela McCausland
+      Maquillaje Cartagena
+    bio: >-
+      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
     location: "Colombia"
-    followers: 75880
-    engagement: 303
-    commentsToLikes: 0.217005
-    id: ck0uabmgibsav0i19yykzcuum
-    verified: true
-    hashtags: "#outfitinspiration, #cat, #dolcegustopatrocinado, #tendenciadelasema"
-  - username: "paokatan"
-    fullname: >-
-      Paola Katan
-    location: "Colombia"
-    followers: 14657
-    engagement: 347
-    commentsToLikes: 0.064605
-    id: ck15u84ublvw30i19laidux05
+    followers: 6466
+    engagement: 868
+    commentsToLikes: 0.118183
+    id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
-    hashtags: "#elegant, #tranquilidad, #coronavirus, #usocorrectores"
+    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
   - username: "carogallegoca"
     fullname: >-
       Caro Gallego Ca.
+    bio: >-
+      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
     location: "Colombia"
-    followers: 31702
-    engagement: 263
-    commentsToLikes: 0.021529
+    followers: 34797
+    engagement: 342
+    commentsToLikes: 0.366796
     id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: ""
-  - username: "leplumeti"
+    hashtags: "#hawaii, #summernight, #dolcevitta"
+  - username: "maclablog"
     fullname: >-
-      L e   P l u m e t i  💗💗
+      Macla 💖 Marcela McCausland
+    bio: >-
+      Creo que el amor es la fuerza más poderosa del mundo ❤️👩🏼‍💻💕 Presentadora, columnista y blogger de moda 👠
     location: "Colombia"
-    followers: 37990
-    engagement: 152
-    commentsToLikes: 0.028712
-    id: ck6tiufdl1g8x0j71i98wnrb9
-    verified: false
-    hashtags: "#muerodeamor, #bodasconencanto, #comunion, #fashionkids"
-  - username: "giannimichielin"
+    followers: 76647
+    engagement: 268
+    commentsToLikes: 0.063156
+    id: ck0uabmgibsav0i19yykzcuum
+    verified: true
+    hashtags: "#colorful, #halloweenhair, #colombiamoda2020, #patrocinado"
+  - username: "valeriefrangie"
     fullname: >-
-      Giannina Michielin Roa
+      Valerie Frangie
+    bio: >-
+      Fashion & Lifestyle Blogger Everyday looks. Real life fashion Directora Creativa @shopvf 1/2 @livinghabibi Coautora “La Cocina de Mamarie”
     location: "Colombia"
-    followers: 39018
-    engagement: 133
-    commentsToLikes: 0.115684
-    id: ck0w3n7rnu9n80i19d99jvcmt
+    followers: 39510
+    engagement: 261
+    commentsToLikes: 0.078086
+    id: ckap1bw68tx3p0i78ajlsruv1
     verified: false
-    hashtags: "#endlesslove, #cocacolalover, #yocreoencali, #amor"
-  - username: "chdermatologia"
+    hashtags: "#transformatuinstagram21dias, #valeriefrangie, #vf, #tbt"
+  - username: "adribeautyartist"
     fullname: >-
-      CLAUDIA HERNÁNDEZ
+      ✨Adri Beauty Artist✨
+    bio: >-
+      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje y Cursos👇🏻
     location: "Colombia"
-    followers: 74191
-    engagement: 223
-    commentsToLikes: 0.017538
-    id: ck0w71ryubc2d0i19xvjyd5io
+    followers: 13381
+    engagement: 852
+    commentsToLikes: 0.137053
+    id: ckaoyngqii8us0i78s7n5ut7m
     verified: false
-    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
-  - username: "increibleperocierzo"
+    hashtags: "#maquillajebarranquilla, #makeupartist, #maquilladora, #maquillaje"
+  - username: "paokatan"
     fullname: >-
-      Andrea Martínez | digital mk
+      Paola Katan
+    bio: >-
+      BEAUTY I LIFESTYLE I FASHION Youtuber, Blogger and mommy Content creator 💻blog: www.paolakatan.com #SoyVogera ⬇️Mi último video ⬇️
     location: "Colombia"
-    followers: 28886
-    engagement: 238
-    commentsToLikes: 0.268030
-    id: ck8sya85ok95s0j78tbet1gdg
+    followers: 15796
+    engagement: 255
+    commentsToLikes: 0.152220
+    id: ck15u84ublvw30i19laidux05
     verified: false
-    hashtags: "#cocina, #pink, #viajes, #cheese"
+    hashtags: "#paokatan, #makeup, #cumplea, #quedateencasa"
   - username: "estebanexplora"
     fullname: >-
       Esteban Explora 🗿
+    bio: >-
+      🤙🏼 Viajes chimbitas 🌎 Travel Blogger en @eltiempo 🇨🇴 ¿Conoces realmente tu propio país?
     location: "Colombia"
     followers: 24640
     engagement: 517
     commentsToLikes: 0.426076
     id: ck5zqacoyu8ih0i14dhyyq427
     verified: false
-    hashtags: "#travelawesome, #covid, #medell, #adrenalina"
-  - username: "valeriefrangie"
+    hashtags: "#travel, #colombiainexplorada, #colombia, #lifeisbeautiful"
+  - username: "angelanuevamoda"
     fullname: >-
-      Valerie Frangie
+      Ángela María Guerrero
+    bio: >-
+      𝑭𝒂𝒔𝒉𝒊𝒐𝒏, 𝑩𝒆𝒂𝒖𝒕𝒚 & 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 ♡︎ Entrepeneur | Blogger of fashion 𝑴𝒚 𝒃𝒓𝒂𝒏𝒅 ✨@nuevamoda__ 👉🏼💖 @desayunosbogota94 @luxuryboxcolombia @94lovers_
     location: "Colombia"
-    followers: 38375
-    engagement: 151
-    commentsToLikes: 0.090878
-    id: ckap1bw68tx3p0i78ajlsruv1
+    followers: 53576
+    engagement: 51
+    commentsToLikes: 0.058679
+    id: ck6tlpyrt6f570j714f5d812q
     verified: false
-    hashtags: "#chocolatechallenge, #tbt, #mamarie, #fbf"
+    hashtags: "#twerk, #jardinantioquia, #tiktok, #halloweenmakeup"
+  - username: "turcios_10"
+    fullname: >-
+      J.A Turcios 🇭🇳🇨🇭
+    bio: >-
+      HONDUREÑO X EL MUNDO 🌍 TRAVELS |FASHION | LIFESTYLE—BLOGGER |YOUTUBER HONDUREÑO ⤵️ 🎥
+    location: "Colombia"
+    followers: 33948
+    engagement: 113
+    commentsToLikes: 0.049592
+    id: ckf5nyeea07ik0j23pj1mvb6p
+    verified: false
+    hashtags: "#igerscolombia, #fashionblog, #colombia, #louisvuittonmen"
 ---

@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In South Korea In 2020
 description: >-
-  Find top TikTok influencers in South Korea in 2020. Most popular hashtags: #bts #fyp #killthislove #140k.
+  Find top TikTok influencers in South Korea in 2020. Most popular hashtags: #cambodia #fyp #12345678910.
 platform: TikTok
+hits: 846
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 846 TikTok influencers like this in South Korea for you to contact.
 profiles:
-  - username: "yerim._.613"
+  - username: "pusith14"
     fullname: >-
-      예림 | 루시드 모집 중
+      🇰🇭PU’SITH~🇰🇷💜
+    bio: >-
+      Name SITH❤️TikTokថ្មីFollows1ខ្ញុំជាមនុស្សមិនចេះរឹកទេ FB Pī Sīth🇰🇭អ្នកតាកែវទេ
     location: "South Korea"
-    followers: 104143
-    engagement: 2543
-    commentsToLikes: 0.050328
-    id: ckamgj43wc3120i787thzsobd
+    followers: 18500
+    engagement: 3492
+    commentsToLikes: 0.290897
+    id: ckc3eaflxzsa20j238ufuztwm
     verified: false
-    hashtags: "#fyp, #bts, #on, #fakelove"
-  - username: "s_min"
+    hashtags: "#duet, #capcut, #pubgmobile, #12345678910"
+  - username: "user504tot3y7e1"
     fullname: >-
-      승민🤪 🎗
+      👑ENG RAMl👑
+    bio: >-
+      
     location: "South Korea"
-    followers: 145925
-    engagement: 2169
-    commentsToLikes: 0.041525
-    id: cka0fnocw0dfu0i785xrn34ds
+    followers: 79700
+    engagement: 3011
+    commentsToLikes: 0.101080
+    id: ckd6x5s09tp1t0j23193kzxlo
     verified: false
-    hashtags: "#140k"
-  - username: "jjinbanana"
-    fullname: >-
-      웨련 | 로그아웃
-    location: "South Korea"
-    followers: 51918
-    engagement: 2035
-    commentsToLikes: 0.131245
-    id: ckan20a0by49b0i78gsw02vhn
-    verified: false
-    hashtags: "#fyp, #daechita, #50k"
-  - username: "monsta_x_514"
-    fullname: >-
-      몬스타엑스_MONSTA X
-    location: "South Korea"
-    followers: 428927
-    engagement: 2399
-    commentsToLikes: 0.019507
-    id: ck9adrfnpyj020j78a43avi7p
-    verified: true
-    hashtags: "#jooheon, #allaboutluv, #askgoldendisc, #bemyvalentine"
+    hashtags: "#10, #12345678910, #kookie, #sa"
   - username: "txt.bighitent"
     fullname: >-
       TOMORROW X TOGETHER
+    bio: >-
+      투모로우바이투게더 공식 틱톡입니다. This is the official TikTok for TXT
     location: "South Korea"
-    followers: 2476403
-    engagement: 2240
-    commentsToLikes: 0.013320
+    followers: 6500000
+    engagement: 2745
+    commentsToLikes: 0.038597
     id: ck9ep9bfbrml20j7803j9wl4z
     verified: true
-    hashtags: "#beomgyu, #howolddoilook, #soobin, #facetracking"
+    hashtags: "#txt, #txtmoa, #tomorrow, #bluehour"
+  - username: "userdajn6356em"
+    fullname: >-
+      김민지🇰🇷/គីមមីនជី🇰🇭
+    bio: >-
+      ជំរាបសួរ សួស្តី រីករាយដែលបានស្គាល់❤️🇰🇷🤝🇰🇭❤️
+    location: "South Korea"
+    followers: 107200
+    engagement: 2571
+    commentsToLikes: 0.087217
+    id: ckblm7ltmehux0j230u3ul6lk
+    verified: false
+    hashtags: ""
+  - username: "31652781601www.tiktok.co"
+    fullname: >-
+      🐲Bro❤️️ Hong🐲
+    bio: >-
+      ស្នេហាជាអ្វីហេតុអីក៏ឈឺចាប់ខ្លាំងយ៉ាងនេះ🖤🖤🖤😔😔🔐🔐
+    location: "South Korea"
+    followers: 317600
+    engagement: 2417
+    commentsToLikes: 0.062875
+    id: ckc3e93jkzq910j23p0hmkr4x
+    verified: false
+    hashtags: ""
+  - username: "jisun_020926"
+    fullname: >-
+      양지선
+    bio: >-
+      🇰🇷 02 여자 (방탄계, 얼굴계) 유튭: 양지선, 트로트가수채널 #사춘기 #옛날갬성
+    location: "South Korea"
+    followers: 295000
+    engagement: 2300
+    commentsToLikes: 0.032050
+    id: ckbkeu38e5rcj0j238rwmisk0
+    verified: false
+    hashtags: "#02, #on"
+  - username: "been3008"
+    fullname: >-
+      🇰🇭Oppa Been(ប្រុសបុីន)🕸🇰🇷
+    bio: >-
+      𝐅𝐁: BE EN 👉🏻 មិនចេះរឹកទេ😘 👉🏻អរគុណដែលស្រលាញ់ចូលចិត្តខ្ញុំ💙🙏fan black 🖤
+    location: "South Korea"
+    followers: 124000
+    engagement: 2295
+    commentsToLikes: 0.157658
+    id: ckbb44y0juf4y0j23pta9825v
+    verified: false
+    hashtags: "#foryoupage, #fyp, #cambodia, #khmertiktok"
+  - username: "konpov010"
+    fullname: >-
+      @កូន ពៅ💕🇰🇭
+    bio: >-
+      (ស្រលាញ់អ្នកឲ្យ❤️នឹងfollow ពេញ❤️❤️❤️)Fb: កូន ពៅ
+    location: "South Korea"
+    followers: 17300
+    engagement: 2263
+    commentsToLikes: 0.104921
+    id: ckc3f17wy0yib0j23omoxlgh2
+    verified: false
+    hashtags: "#duet, #facezooming, #capcut"
   - username: "florist_isaac"
     fullname: >-
       Flowerboy Isaac
+    bio: >-
+      Welcome. This is your Wonderland🦋 CEO of 💐🌷🌹
     location: "South Korea"
-    followers: 473076
-    engagement: 2107
-    commentsToLikes: 0.022077
+    followers: 793600
+    engagement: 2262
+    commentsToLikes: 0.021128
     id: ck8rqua7zrolj0j78s2wian86
     verified: false
-    hashtags: "#mikrocosmos, #army, #bts, #jacksonwang"
-  - username: "ha0_unt"
+    hashtags: "#tlog, #nct, #twice, #twiceicantstopme"
+  - username: "na_pnak"
     fullname: >-
-      Min
+      ណា ភីណាក់❤️🇰🇭
+    bio: >-
+      អរគុណណាស់សម្រាប់ការចូលចិត្ត❤️😍😜 FB: ណា ភីណាក់🇰🇭 IG : Na_pnak
     location: "South Korea"
-    followers: 214148
-    engagement: 1952
-    commentsToLikes: 0.047608
-    id: cka6pqxztkmri0i78gqvk1erh
+    followers: 493300
+    engagement: 2121
+    commentsToLikes: 0.073353
+    id: ckdclumkto1ld0j239idal0pd
     verified: false
-    hashtags: "#bigballchunkey, #04, #mlb"
-  - username: "the_feeling0321"
-    fullname: >-
-      동그라미
-    location: "South Korea"
-    followers: 10635
-    engagement: 1572
-    commentsToLikes: 0.072999
-    id: cka9l0yoe1fav0i783hv3d0go
-    verified: false
-    hashtags: "#btob"
-  - username: "gwonsisters"
-    fullname: >-
-      Gwonsisters_권자매
-    location: "South Korea"
-    followers: 487065
-    engagement: 1927
-    commentsToLikes: 0.049557
-    id: ck9n4uoe25oen0j78zqjkywra
-    verified: true
-    hashtags: "#sayso, #gownsisters, #dipandleanchallenge, #killthislove"
-  - username: "soo_korean"
-    fullname: >-
-      Soo Korean
-    location: "South Korea"
-    followers: 233956
-    engagement: 1860
-    commentsToLikes: 0.072375
-    id: ck8kkkio7zoz10j78is3r075o
-    verified: false
-    hashtags: "#core, #korean, #help, #duetwithme"
+    hashtags: "#cambodia, #tiktokcambodia, #na, #khmer"
 cities:
   - name: Seoul
     link: /tiktok/south-korea/seoul

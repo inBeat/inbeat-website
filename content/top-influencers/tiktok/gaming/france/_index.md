@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In France In 2020
 description: >-
-  Find top gaming TikTok influencers in France in 2020. Most popular hashtags: #carla #switch #overwatch #travisscott.
+  Find top gaming TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #gaming #fortnite #foryou.
 platform: TikTok
+hits: 120
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 120 TikTok influencers like this in France for you to collaborate.
 profiles:
+  - username: "chedli"
+    fullname: >-
+      Chedli
+    bio: >-
+      Entrepreneur & Geek #business #mangas #gaming 👇 Tous mes liens ici 👇
+    location: "France"
+    followers: 431700
+    engagement: 1855
+    commentsToLikes: 0.028734
+    id: ck81r041tlciz0j78qvw3wv4x
+    verified: false
+    hashtags: "#gaming, #mangas, #game, #manga"
+  - username: "warroxx"
+    fullname: >-
+      warroxx
+    bio: >-
+      Je fait du Gaming 🎉 insta: emrullah.48 Soon 60k 😱 Abonne Toi 💜
+    location: "France"
+    followers: 57600
+    engagement: 2058
+    commentsToLikes: 0.158287
+    id: ck9eodr2enyc10j78wrhvh60u
+    verified: false
+    hashtags: "#xyzbca, #viral, #warroxx, #tiktokgaming"
+  - username: "thomashuangth"
+    fullname: >-
+      Yosheez
+    bio: >-
+      Gaming & Tech 📕 Josué 1 : 8 Clique sur ce lien en bas =)
+    location: "France"
+    followers: 412100
+    engagement: 1624
+    commentsToLikes: 0.018551
+    id: ck8qiwxc0arij0j78yh159ac7
+    verified: true
+    hashtags: "#live, #streamer, #obs, #stream"
   - username: "watchmay_"
     fullname: >-
       May ⚡️
+    bio: >-
+      May 🤙🏻 Gaming Lover 🕹 May2377tiktok@gmail.com 💌
     location: "France"
-    followers: 238626
-    engagement: 1729
-    commentsToLikes: 0.023471
+    followers: 306300
+    engagement: 1393
+    commentsToLikes: 0.016450
     id: ck9c7ig1vrz9r0j784tdj5idd
     verified: true
-    hashtags: "#musically, #meilleureamie, #elite, #grossefesses"
+    hashtags: "#deadbydaylight, #bo3, #prank, #callofduty"
+  - username: "sirdness"
+    fullname: >-
+      Sirdness
+    bio: >-
+      Petit Youtuber français. 🇫🇷 Reaction/Gaming. Creator Code : Sirdness
+    location: "France"
+    followers: 5797
+    engagement: 1410
+    commentsToLikes: 0.024274
+    id: ckbbu8u0khps70j23b4p6nn7j
+    verified: false
+    hashtags: "#memes, #fortnitegameplay, #fortnitehumour, #fortnitefrance"
   - username: "_tilaa_"
     fullname: >-
       Tilaa
+    bio: >-
+      Cosplay / Gaming / Parcs Attractions / Chats 🐱 😸 / TilaaInsta sur Instagram
     location: "France"
-    followers: 9113
-    engagement: 1260
-    commentsToLikes: 0.024342
+    followers: 20300
+    engagement: 1125
+    commentsToLikes: 0.023491
     id: ck83yrf2iv1la0j78fmdpgrv8
     verified: false
-    hashtags: "#sugarsugarrune, #crazy, #gryffindor, #chacha"
-  - username: "levraibouseuhh"
+    hashtags: "#pettiktok, #cat, #yuna, #barbiecoeurdeprincesse"
+  - username: "cxrs_zenos"
     fullname: >-
-      LeBouseuh
+      👑 𝙴𝚗𝚣𝚘 👑
+    bio: >-
+      。一 220ķ? 一 。 。一 Enzo 😝 一 。 。一 Go vous abo a ma chaîne 一 。
     location: "France"
-    followers: 640476
-    engagement: 1535
-    commentsToLikes: 0.006918
-    id: ck9642naax2850j78wcc27ljc
-    verified: true
-    hashtags: "#tutosrapides, #ping, #groscharabia, #foryou"
-  - username: "dylanmoha"
-    fullname: >-
-      🎮 Tobi 🎮
-    location: "France"
-    followers: 168688
-    engagement: 2226
-    commentsToLikes: 0.046691
-    id: ck9rihul4jy0g0j78zg7py7gs
+    followers: 216900
+    engagement: 1389
+    commentsToLikes: 0.127256
+    id: ckdn8wjrpfj9y0j23kuhiqe7p
     verified: false
-    hashtags: "#fortnitedance, #tiktokindia"
-  - username: "lamoula28"
+    hashtags: "#pourtoi, #youwantmore, #takethefirststep, #wellplayed2020"
+  - username: "ryltarj"
     fullname: >-
-      Like abonne toi !
+      RyltarJ
+    bio: >-
+      Le Nain préféré de ton TikToker préféré !! Furry🦈 / JdR🗡️ / Star Wars🌟
     location: "France"
-    followers: 8722
-    engagement: 1486
-    commentsToLikes: 0.116103
-    id: cka0gtn7660kk0i78lc28npoc
+    followers: 16700
+    engagement: 1986
+    commentsToLikes: 0.018721
+    id: cka6jnvz1vkku0i78dv6p4wbm
     verified: false
-    hashtags: "#defi, #chalenge, #pcgaming, #switch"
-  - username: "anasherluison"
+    hashtags: "#foryou, #fyp, #nain, #pourtoi"
+  - username: "forceshinobi459"
     fullname: >-
-      Anaïs Herluison
+      Emi Laforet
+    bio: >-
+      Compte secondaire: @le_francais34
     location: "France"
-    followers: 8816
-    engagement: 1198
-    commentsToLikes: 0.093425
-    id: ckamybjwxgrlo0i78ci5delkb
+    followers: 4736
+    engagement: 1565
+    commentsToLikes: 0.232371
+    id: ckcvi1zjlv03w0j23o6beo927
     verified: false
-    hashtags: "#makeup, #poutoi, #console, #likeforlike"
-  - username: "chedli"
+    hashtags: "#minecraftpe, #minato, #foryoupage, #pourtoi"
+  - username: "k1rm4ga"
     fullname: >-
-      匚卄乇ᗪㄥ丨
+      K1RM4GA
+    bio: >-
+      2500 Pirate en quete du One piece (mon One piece c'est les 10K)☠
     location: "France"
-    followers: 80311
-    engagement: 1328
-    commentsToLikes: 0.066253
-    id: ck81r041tlciz0j78qvw3wv4x
+    followers: 2504
+    engagement: 1532
+    commentsToLikes: 0.363564
+    id: ckbf6rhd2wgao0j23xywqeq0m
     verified: false
-    hashtags: "#horrorgame, #urbex, #japon, #socialledia"
-  - username: "f0rtnite..creative"
-    fullname: >-
-      F0rtnite..Creative
-    location: "France"
-    followers: 4328
-    engagement: 1630
-    commentsToLikes: 0.097821
-    id: cka0ifyncdi4t0i7890wj2zbh
-    verified: false
-    hashtags: "#eventfortnite, #mielpops, #1000abonn, #fort"
-  - username: "lechtiiis59"
-    fullname: >-
-      Lechtiiis59
-    location: "France"
-    followers: 9929
-    engagement: 969
-    commentsToLikes: 0.056733
-    id: cka9qhbsj82cc0i78pvu57meq
-    verified: false
-    hashtags: "#geming, #spiderman, #crouton, #bananebanane"
-  - username: "le_grand_forniteur"
-    fullname: >-
-      Itzz_forniteur
-    location: "France"
-    followers: 16533
-    engagement: 1131
-    commentsToLikes: 0.072634
-    id: ckamybi1tgr8h0i786j2ryqxm
-    verified: false
-    hashtags: "#skin, #worldrecord, #fille, #foyoupage"
+    hashtags: "#pourtoi, #gaming, #jotaro, #onepiece"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Colombia In 2020
 description: >-
-  Find top food TikTok influencers in Colombia in 2020. Most popular hashtags: #oreo #comida #covid #food.
+  Find top food TikTok influencers in Colombia in 2020. Most popular hashtags: #food #parati #viral #comida.
 platform: TikTok
+hits: 27
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 27 TikTok influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "danielaardilam1"
+  - username: "wilbergodoyc"
     fullname: >-
-      Daniela Ardila Martínez
+      Wilber Godoy
+    bio: >-
+      Dios es bueno. Medellín 📍 Instagram: wilbergodoyc - foodieenlacalle 1995.
     location: "Colombia"
-    followers: 6393
-    engagement: 409
-    commentsToLikes: 0.057249
-    id: ck9jvthulto6i0j78cl40qz6f
+    followers: 12200
+    engagement: 985
+    commentsToLikes: 0.026541
+    id: ckbb26402simq0j233m9qfg6m
     verified: false
-    hashtags: "#disney, #ideas, #covid, #white"
-  - username: "oscartronome"
+    hashtags: "#greenscreen, #tuneldeltiempo, #duet, #instagram"
+  - username: "practicalfoodofficial"
     fullname: >-
-      Oscar Molina
+      Practicalfood
+    bio: >-
+      No hay tiempo pero amamos la comida deliciosa y práctica. We love practical food
     location: "Colombia"
-    followers: 9170
-    engagement: 510
-    commentsToLikes: 0.042547
-    id: cka610gcntdm60i784zwolqgi
+    followers: 7981
+    engagement: 740
+    commentsToLikes: 0.022616
+    id: ckbf7o9oaxnv60j234f8g8v0t
     verified: false
-    hashtags: "#ohnanachallenge, #frenchtoast, #primerdia, #movies"
-  - username: "alivancarrero"
+    hashtags: "#easyrecipe, #recetas, #healthy, #trend"
+  - username: "dannyfastfood"
     fullname: >-
-      alivancitocoina🍳🙅‍
+      Danny Fast Food
+    bio: >-
+      🥁bienvenidos a Danny fast food 🥁 el mejor restaurante barranquillero 🍔🍟🌭🌯
     location: "Colombia"
-    followers: 4674
-    engagement: 656
-    commentsToLikes: 0.034734
-    id: cka0gdd9d3v9k0i78jveo06wz
+    followers: 57400
+    engagement: 888
+    commentsToLikes: 0.013733
+    id: ckdbnb3fjalh40j230mpfm9iw
     verified: false
-    hashtags: "#snackcheck, #mexican, #brownie, #vrial"
-  - username: "maca_bites"
+    hashtags: "#colombia, #viral, #parati, #barranquilla"
+  - username: "foodtimecali"
     fullname: >-
-      Maca Bites
+      Food Time Cali
+    bio: >-
+      Sígueme en instagram.🤤 Food blogger 🍔🍟 🌭🍕 📩 foodie.timecali@gmail.com
     location: "Colombia"
-    followers: 25103
-    engagement: 499
-    commentsToLikes: 0.011457
-    id: ckamnbt3n48u80i783563uihj
+    followers: 319100
+    engagement: 885
+    commentsToLikes: 0.005578
+    id: ckb9b5t2jx0tp0j238dmhpa2a
     verified: false
-    hashtags: "#postre, #easyrecipes, #frijoles, #pastalover"
+    hashtags: "#saborestiktok, #colombia, #recetas, #cali"
+  - username: "foodycolombia"
+    fullname: >-
+      user1791236737254
+    bio: >-
+      Food lovers Steak Lovers 🥩 All about food 🍨 Share 🤪 Goal 1 Million 🔥
+    location: "Colombia"
+    followers: 24000
+    engagement: 714
+    commentsToLikes: 0.004898
+    id: ckbfene348txc0j23jt2h0qb0
+    verified: false
+    hashtags: "#parati, #pravoce, #perfectsteak, #fyp"
+  - username: "danaysd"
+    fullname: >-
+      Danay ́s
+    bio: >-
+      Vamos por los 10k seguidores!🤘🏻🎈 Pasate por mi Instagram
+    location: "Colombia"
+    followers: 5215
+    engagement: 1018
+    commentsToLikes: 0.075967
+    id: ckc1vaanmzdlm0j23wm2gk1f8
+    verified: false
+    hashtags: "#amongus, #disney, #parati, #food"
   - username: "herreramzzl"
     fullname: >-
       Juan Herrera ⚡️
+    bio: >-
+      All are crazy 🤪 IG: @herreramzl 🌴 100k?
     location: "Colombia"
     followers: 31693
     engagement: 1176
     commentsToLikes: 0.009931
     id: ck9eocjejnk5i0j78p9yt7j3t
     verified: false
-    hashtags: "#corona, #oficial, #chiste, #girlfriend"
+    hashtags: "#food, #photo, #love, #humor"
+  - username: "oscartronome"
+    fullname: >-
+      Oscar Molina
+    bio: >-
+      Sígueme en Instagram: @oscartronome Colombia 🇨🇴
+    location: "Colombia"
+    followers: 86400
+    engagement: 623
+    commentsToLikes: 0.012277
+    id: cka610gcntdm60i784zwolqgi
+    verified: false
+    hashtags: "#foryou, #cooking, #foodie, #fyp"
   - username: "andreavecy"
     fullname: >-
       Andrea Vecino
+    bio: >-
+      Hola🙌🏻 me gusta la cocina🥘🍴 Mi Instagram 👉🏻@andreavecy✨sígueme!
     location: "Colombia"
-    followers: 19614
-    engagement: 579
-    commentsToLikes: 0.013509
+    followers: 67800
+    engagement: 647
+    commentsToLikes: 0.010927
     id: ckafu2d488d0t0i78vvdii833
     verified: false
-    hashtags: "#salchicha, #panqueques, #mini, #arroz"
-  - username: "bogota_eats"
+    hashtags: "#cooking, #foryou, #delicius, #delicioso"
+  - username: "cocinaencassa_"
     fullname: >-
-      Alejandro Escallon
+      cocinaencassa_
+    bio: >-
+      ¡Vamos a cocinar! 🔥🔥🔥
     location: "Colombia"
-    followers: 10209
-    engagement: 729
-    commentsToLikes: 0.010389
-    id: cka63t29z5tw50i787znllvjk
+    followers: 4055
+    engagement: 632
+    commentsToLikes: 0.010766
+    id: ckbfc9kge4ysf0j231jz694kf
     verified: false
-    hashtags: "#oreo, #banana, #pizza, #bogota"
-  - username: ".germangarmendia"
-    fullname: >-
-      germangarmendia
-    location: "Colombia"
-    followers: 266849
-    engagement: 2094
-    commentsToLikes: 0.021443
-    id: ck9k64m9azas10j78czukglfy
-    verified: false
-    hashtags: "#tiktokgracioso, #foryoupage, #chilee, #sillarandom"
-  - username: "joseluisuribeochoa"
-    fullname: >-
-      JOSÉ LUÍS URIBE
-    location: "Colombia"
-    followers: 25765
-    engagement: 958
-    commentsToLikes: 0.071760
-    id: cka9o80nk5hrg0i78kfdnvh5b
-    verified: false
-    hashtags: "#tiktokindia, #mascarilla, #champibeats, #sopresa"
-  - username: "hereismaca"
-    fullname: >-
-      Marí Camila
-    location: "Colombia"
-    followers: 53367
-    engagement: 1129
-    commentsToLikes: 0.031495
-    id: cka0nx4rs15aj0i78xdj4l0oh
-    verified: false
-    hashtags: "#cover, #crush, #perfect, #fypage"
+    hashtags: "#res, #street, #food, #recetas"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In South Korea In 2020
 description: >-
-  Find top guitar Instagram influencers in South Korea in 2020. Most popular hashtags: #guitar #musician #acousticguitar #love.
+  Find top guitar Instagram influencers in South Korea in 2020. Most popular hashtags: #guitar #youtube #kpop.
 platform: Instagram
+hits: 11
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 11 Instagram influencers like this in South Korea for you to connect with.
 profiles:
+  - username: "theofficialsunghajung"
+    fullname: >-
+      정성하 SUNGHA JUNG
+    bio: >-
+      기타리스트 Fingerstyle Guitarist from Korea 📧jwcfree@naver.com 📍New Video Uploaded📍 VLOG #11 - What’s in my Guitar Room
+    location: "South Korea"
+    followers: 347202
+    engagement: 372
+    commentsToLikes: 0.017556
+    id: ck6tv2h0jjsne0j71gbpbgmnd
+    verified: true
+    hashtags: "#pop, #fingerstyle, #cover, #kpop"
   - username: "pureandsexy"
     fullname: >-
-      김정모
+      김정모
+    bio: >-
+      Guitarist and Singer Song-Writer and Composer and Music Producer Jung Mo Kim🔁N세대 대표가수 정모 입니다🙋🏻‍♂️
     location: "South Korea"
-    followers: 100918
-    engagement: 168
-    commentsToLikes: 0.018472
+    followers: 102326
+    engagement: 118
+    commentsToLikes: 0.020818
     id: ck14lksr5v6w80i19kdc4x6um
     verified: true
-    hashtags: "#17, #vhs, #hide, #rocketdive"
+    hashtags: "#magic, #jungmo, #4th, #plshop"
   - username: "sunkim_guitarist"
     fullname: >-
       Sun Kim
+    bio: >-
+      김강선 🇰🇷🇺🇸 Guitarist | Composer 개인 레슨생 수시 모집중/ 녹음 연주 문의 - DM 📍Seoul, Korea 🎓 Berklee, MSM
     location: "South Korea"
     followers: 10979
     engagement: 740
     commentsToLikes: 0.024997
     id: ck5zlwjj6lhxm0i14vf5jdoxc
     verified: false
-    hashtags: "#hongdae, #jazz, #musicforce, #popsong"
-  - username: "p.lock_official"
-    fullname: >-
-      ⚡⚡⚡P.Lock⚡⚡⚡
-    location: "South Korea"
-    followers: 17595
-    engagement: 634
-    commentsToLikes: 0.034108
-    id: ck5qb4gmpjrf50i11o5i5gjg2
-    verified: false
-    hashtags: "#family, #throwback, #allstylefunk, #coronalocking"
+    hashtags: "#beatmaking, #guitarsecret, #stratocaster, #lofibeat"
   - username: "dprian"
     fullname: >-
       Christian Yu
+    bio: >-
+      DPR +IAN
     location: "South Korea"
-    followers: 1183016
-    engagement: 1227
-    commentsToLikes: 0.016628
+    followers: 1348947
+    engagement: 1459
+    commentsToLikes: 0.018399
     id: ck0ty3afglfuu0i19azkzjmyh
     verified: true
-    hashtags: "#cbf, #guitarsolo, #whatinspiresyou, #wearenotalone"
-  - username: "yohankimmusic"
+    hashtags: "#whatinspiresyou, #itwillbeaquickwalktheysaid, #soon, #forfun"
+  - username: "shin_woong_hahm"
     fullname: >-
-      Yohan Kim
+      함신웅(Deniz)🇰🇷🇹🇷
+    bio: >-
+      DM❎ YouTube : Sinung Tube
     location: "South Korea"
-    followers: 31793
-    engagement: 563
-    commentsToLikes: 0.024753
-    id: ckaoye9g4h5io0i78bjekp16s
+    followers: 6933
+    engagement: 2535
+    commentsToLikes: 0.043076
+    id: ck8t7jrkbh2k00j780a9sjnsp
     verified: false
-    hashtags: "#guitar, #organ, #joesample, #fantom8"
-  - username: "reeceratliffmusic"
+    hashtags: "#turkey, #love, #selfie, #youtube"
+  - username: "rrect.jese297"
     fullname: >-
-      Reece Ratliff
+      김준협ᴶᴱˢᴱ
+    bio: >-
+      ᴄᴀɴɪᴄᴀʟʟʏᴏᴜᴊᴇsᴇ GUITѧRIST @band0yster 19970210
     location: "South Korea"
-    followers: 3361
-    engagement: 597
-    commentsToLikes: 0.067782
-    id: ck13944s6jfa70i190pnm3sy9
+    followers: 5225
+    engagement: 1693
+    commentsToLikes: 0.044728
+    id: ck8sxjk2ehmmr0j7892mxxbmd
     verified: false
-    hashtags: "#coolphotography, #mindfulliving, #music, #shelterinplace"
+    hashtags: "#oyster, #kidultbehindcut, #kidult, #city"
   - username: "kath_illust"
     fullname: >-
-      Kath
+      KATH
+    bio: >-
+      🎸No Music No Life ✉️kath7090@gmail.com 🔥All Rights Reserved 👇YouTube, 드로잉시네마 등 링크모음
     location: "South Korea"
-    followers: 11210
-    engagement: 575
-    commentsToLikes: 0.014595
+    followers: 11241
+    engagement: 446
+    commentsToLikes: 0.009713
     id: ck8t3gjo237if0j78yo057om4
     verified: false
-    hashtags: "#kidkrow, #maniac, #band, #kpop"
+    hashtags: "#coloredpencil, #kpop, #procreateart, #doodle"
   - username: "fxxldoggssy"
     fullname: >-
       필독
+    bio: >-
+      Be positive , No negative
     location: "South Korea"
-    followers: 211131
-    engagement: 739
-    commentsToLikes: 0.011232
+    followers: 205208
+    engagement: 918
+    commentsToLikes: 0.011844
     id: ck0vvnc3zpvw60i19l8lctukv
     verified: false
-    hashtags: "#votekorea2020, #linkbio, #repost, #sbs"
-  - username: "jjjschroeder"
+    hashtags: "#linkbio, #linkinbio, #vanskorea, #repost"
+  - username: "kconglobal"
     fullname: >-
-      Jeff Schroeder
+      KCON
+    bio: >-
+      KCON OFFICIAL INSTAGRAM [KCON:TACT 2020 SUMMER] 📌2020.06.20 ~ 2020.06.26 📌Only on Mnet K-POP YouTube!
     location: "South Korea"
-    followers: 13544
-    engagement: 475
-    commentsToLikes: 0.025229
-    id: ck136cg1b5sut0i19yi36p96a
+    followers: 72240
+    engagement: 233
+    commentsToLikes: 0.095757
+    id: ck0tvgiwnb96q0i19118l96qz
     verified: true
-    hashtags: "#nightdreamer, #smashingpumpkins, #onthebench, #yamahaweekend"
-  - username: "rrect.jese297"
+    hashtags: "#mnetkpopyoutube, #kcontactnonstop, #kconjapan, #kcon2020japan"
+  - username: "cenabossproductions"
     fullname: >-
-      김준협ᴶᴱˢᴱ
+      Cena Boss
+    bio: >-
+      Reggae / Danchall / Hip Hop / Pop Music world-wide E-mail: cenabossproductions@gmail.com 🇯🇲
     location: "South Korea"
-    followers: 5247
-    engagement: 1651
-    commentsToLikes: 0.046135
-    id: ck8sxjk2ehmmr0j7892mxxbmd
+    followers: 9268
+    engagement: 677
+    commentsToLikes: 0.041888
+    id: ckaovk6gi4x3q0i78nksykf0r
     verified: false
-    hashtags: "#addict, #oyster, #kidultbehindcut, #kidult"
+    hashtags: "#entertainment, #jamaica, #popcaan, #aidonia"
 ---

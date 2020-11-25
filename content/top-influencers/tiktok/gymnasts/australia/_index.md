@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts TikTok Influencers In Australia In 2020
 description: >-
-  Find top gymnasts TikTok influencers in Australia in 2020. Most popular hashtags: #flip #cute #levelup #gymnastics.
+  Find top gymnasts TikTok influencers in Australia in 2020. Most popular hashtags: #gymnastics #fyp #gym #fitness.
 platform: TikTok
+hits: 22
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 22 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "thesuburbantarzan"
     fullname: >-
       Brandon Luna
+    bio: >-
+      GYMNAST/MODEL/PARKOUR INSTAGRAM @brandon.h.luna
     location: "Australia"
-    followers: 2234
-    engagement: 1029
-    commentsToLikes: 0.038597
+    followers: 2251
+    engagement: 1015
+    commentsToLikes: 0.052590
     id: ck9emcb1vejwo0j78kyt72gb8
     verified: false
-    hashtags: "#clothesswap, #painting, #dance, #boys"
+    hashtags: "#backflip, #slowmo, #foryou, #gym"
   - username: "therealsampinnock"
     fullname: >-
       TheRealSamPinnock
+    bio: >-
+      Flips, spins, jumps and tutorials! Follow the gram of course!
     location: "Australia"
-    followers: 3303
-    engagement: 2019
-    commentsToLikes: 0.049049
+    followers: 3395
+    engagement: 2050
+    commentsToLikes: 0.050418
     id: ck9encqs5iz5c0j78e65cwnbb
     verified: false
-    hashtags: "#adelaidefringe, #keepingactive, #coronafree, #bail"
-  - username: "ethan_tumbler"
+    hashtags: "#trampolinepark, #trampolines, #backflip, #gymnastics"
+  - username: "taiyabukovsky"
     fullname: >-
-      Ethan McGuinness
+      Taiya Bukovsky
+    bio: >-
+      Hi I’m Taiya 😘 I put my own spin on things 😉💃🏻 IG @_tbubs 23 Aus 🇦🇺
     location: "Australia"
-    followers: 3229
-    engagement: 3233
-    commentsToLikes: 0.051031
-    id: ck9107fyegoaa0j783jfb5y8f
+    followers: 23300
+    engagement: 1214
+    commentsToLikes: 0.025195
+    id: ck9pmq86rattu0j78nlh8th09
     verified: false
-    hashtags: "#olympics, #vibecheck, #cute, #airport"
-  - username: "jiembasands"
+    hashtags: "#dance, #gymnastics, #getfit, #dancer"
+  - username: "theroseann"
     fullname: >-
-      Jiemba Sands
+      R Ann Gould
+    bio: >-
+      Exotic dancer and acrobat👽🏹
     location: "Australia"
-    followers: 1477544
-    engagement: 2167
-    commentsToLikes: 0.005415
-    id: ck81szihku9wp0j781lsmaxdq
-    verified: true
-    hashtags: "#crazy, #withmyfamily, #washhands, #funnyvideos"
-  - username: "thepeoplesgym"
-    fullname: >-
-      The Peoples Gym
-    location: "Australia"
-    followers: 35908
-    engagement: 437
-    commentsToLikes: 0.040182
-    id: ck83jwgrn7omc0j78iw6jtr1t
+    followers: 3284
+    engagement: 529
+    commentsToLikes: 0.027225
+    id: ckb0xzwlzmxpb0j23hggu5zoq
     verified: false
-    hashtags: "#frontsquat, #worldrecord, #imfalling, #checkyourvibe"
-  - username: "oliviavivian"
-    fullname: >-
-      Olivia Vivian
-    location: "Australia"
-    followers: 324174
-    engagement: 2056
-    commentsToLikes: 0.004041
-    id: ck8os1wgfevhw0j78eubmv9xs
-    verified: true
-    hashtags: "#upsidedown, #dancing, #jump, #beforecovid"
-  - username: "rybkatwinsofficial"
-    fullname: >-
-      The Rybka Twins
-    location: "Australia"
-    followers: 10941392
-    engagement: 1860
-    commentsToLikes: 0.009200
-    id: ck80nqfp2dxqv0j78itp08f5v
-    verified: true
-    hashtags: "#movie, #comedy, #cheerleader, #sports"
+    hashtags: "#poledancer, #acrobat, #shoes, #acrobatics"
   - username: "morganrmoroney"
     fullname: >-
       Morgan Rose 
+    bio: >-
+      Australian | Gymshark Athlete Follow me on insta for more ⬆️
     location: "Australia"
-    followers: 604383
-    engagement: 957
-    commentsToLikes: 0.007884
+    followers: 744800
+    engagement: 825
+    commentsToLikes: 0.007117
     id: ck9rk74qyrjqk0j78oo6a38co
     verified: true
-    hashtags: "#lilbabies, #newarrivals, #handstand, #gymnastics"
-  - username: "sfspringhill"
+    hashtags: "#gymnast, #australia, #foryou, #duet"
+  - username: "thepeoplesgym"
     fullname: >-
-      sfspringhill
+      The Peoples Gym
+    bio: >-
+      Follow and watch our stories on Insta👆🏻 CROSSFIT Let’s Grow 🖖🏽
     location: "Australia"
-    followers: 69662
-    engagement: 249
-    commentsToLikes: 0.016195
-    id: ck9fm3fn8r57e0j7826h11v0o
+    followers: 37800
+    engagement: 523
+    commentsToLikes: 0.036241
+    id: ck83jwgrn7omc0j78iw6jtr1t
     verified: false
-    hashtags: "#lightskin, #shape, #indoorworkout, #levelup"
-  - username: "jake_abel_official"
+    hashtags: "#crossfit, #summertings, #weightlifting, #gymnastics"
+  - username: "gravitylovers"
     fullname: >-
-      Jake Abel
+      Caroline & Florent
+    bio: >-
+      CEOs of living our dreams 💕 Subscribe to our YouTube channel for free Workouts
     location: "Australia"
-    followers: 345979
-    engagement: 588
-    commentsToLikes: 0.007040
-    id: ck7zo6ye1idt70j78jui4wr88
+    followers: 7033
+    engagement: 259
+    commentsToLikes: 0.047156
+    id: ckcukrpmngzr40j23mg2pv1wx
     verified: false
-    hashtags: "#cute, #backday, #training, #choclate"
+    hashtags: "#girlfriend, #gymnastics, #fyp, #homeworkout"
+  - username: "leahkingsley__"
+    fullname: >-
+      Leah 🇦🇺
+    bio: >-
+      ↗️ Instagram @leahkingsley ⚡️JUST FOR FUN 🌈
+    location: "Australia"
+    followers: 117800
+    engagement: 506
+    commentsToLikes: 0.007272
+    id: ckbqjrfx44zrn0j23mjptksty
+    verified: false
+    hashtags: "#challenge, #tiktok, #funny, #foryoupage"
+  - username: "marciacoronado4"
+    fullname: >-
+      Marcia Coronado
+    bio: >-
+      Ceo of sports ⚽️🏊‍♀️🏄‍♀️🚴‍♀️⛹️‍♀️🏃‍♀️ ✔98500 instagram 🔜 100k? 🥺 Check ⬇
+    location: "Australia"
+    followers: 51500
+    engagement: 816
+    commentsToLikes: 0.070376
+    id: ckd6inwixbi3l0j23i3n4hub8
+    verified: false
+    hashtags: "#boxing, #football, #swimming, #running"
+  - username: "ethan_tumbler"
+    fullname: >-
+      Ethan McGuinness
+    bio: >-
+      Just A Flippin Aussie🦘🤸🏼‍♂️ Insta @ethan_tumbler
+    location: "Australia"
+    followers: 3215
+    engagement: 2882
+    commentsToLikes: 0.046095
+    id: ck9107fyegoaa0j783jfb5y8f
+    verified: false
+    hashtags: "#fy, #sports, #aussiethings, #viralvideo"
 ---

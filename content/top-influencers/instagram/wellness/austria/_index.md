@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Austria In 2020
 description: >-
-  Find top wellness Instagram influencers in Austria in 2020. Most popular hashtags: #wellness #corona #love #wellnesshotel.
+  Find top wellness Instagram influencers in Austria in 2020. Most popular hashtags: #visitaustria #austrianblogger #wellness #blogger.
 platform: Instagram
+hits: 36
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 36 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "gabriel.hofi"
-    fullname: >-
-      Gᴀʙʀɪᴇʟ *9K*
-    location: "Austria"
-    followers: 9099
-    engagement: 1821
-    commentsToLikes: 0.041514
-    id: ck14jvjy4meii0i199i19zaw2
-    verified: false
-    hashtags: "#mirrowselfie, #enten, #bluetoothwatch, #drama"
-  - username: "raffis_wonderland"
-    fullname: >-
-      🌸 Raffaela 🌸
-    location: "Austria"
-    followers: 13117
-    engagement: 1087
-    commentsToLikes: 0.063411
-    id: ck13czxcz2z1x0i1943nck05b
-    verified: false
-    hashtags: "#meer, #selfiesunday, #igersgermany, #throwback"
   - username: "susannaamarie"
     fullname: >-
-      SUSANNA ✨
+      SUSANNA ✨ | TIROL ⛰ OUTDOOR
+    bio: >-
+      good vibes only ☀️ • content creator from Austria / Tyrol • nature, fitness & food ❤️ • contact: office@susannamarie.at 👇🏼 take a look!
     location: "Austria"
-    followers: 22513
-    engagement: 683
-    commentsToLikes: 0.047943
+    followers: 26421
+    engagement: 666
+    commentsToLikes: 0.076925
     id: ck0vwof5fusk50i19y8syluuz
     verified: false
-    hashtags: "#oceanlover, #springvibes, #ausblick, #altoadige"
+    hashtags: "#bergliebe, #attersee, #tirol, #innsbruckaustria"
   - username: "juliexpayr"
     fullname: >-
       JULIE | BEAUTY, TRAVEL & MIND
+    bio: >-
+      happy mind, happy life.♡ living in Innsbruck | content creator ✉️ office@fulltimelifeloverblog.com
     location: "Austria"
-    followers: 24212
-    engagement: 439
-    commentsToLikes: 0.041332
+    followers: 27502
+    engagement: 324
+    commentsToLikes: 0.052540
     id: ckap3os2p3whr0i78hj92sxed
     verified: false
-    hashtags: "#austrianalps, #mountaingirl, #girlsofinstgram, #homebound"
-  - username: "patrickhonsal"
+    hashtags: "#metime, #mindsetquotes, #girlbosstribe, #wellnessurlaub"
+  - username: "_xoxoliana_"
     fullname: >-
-      Fashion | Lifestyle | Travel
+      🇸🇪Travel&Fashion&Creator🇸🇪
+    bio: >-
+      🇩 🇪 |🇸 🇼 🇪| Munich/Vienna 🐇Vegetarian YT: Liley(1.4k) TikTok: _xoxoliana_ (380k) 🔜 NY ,Iceland , UK , Australia 💌Contact: xoxoliana@yahoo.com
     location: "Austria"
-    followers: 60124
-    engagement: 279
-    commentsToLikes: 0.049179
-    id: ck0w2lx7tp1230i19o1aq9xi9
+    followers: 79944
+    engagement: 483
+    commentsToLikes: 0.070719
+    id: ck15ua6hem6an0i19r91tkcas
     verified: false
-    hashtags: "#sneakers, #sunsetcity, #casuallook, #hotelblogger"
-  - username: "melinamerkhoffer"
+    hashtags: "#travel, #portraitvision, #travelblogger, #baliindonesia"
+  - username: "mrandmrsheigl"
     fullname: >-
-      Melina Merkhoffer
+      Nature, Travel & Inspiration
+    bio: >-
+      ⛰️ austrian couple on adventures ♡ reiseabenteuer, gipfelglück & alltagsfreuden 📍 oberösterreich 💌 mrandmrsheigl@gmail.com
     location: "Austria"
-    followers: 16225
-    engagement: 720
-    commentsToLikes: 0.043809
-    id: ck5hnoprso4qk0i112hgtnzo0
+    followers: 6820
+    engagement: 990
+    commentsToLikes: 0.099085
+    id: ck5zolh6fqtd30i14bop186i3
     verified: false
-    hashtags: "#tailgrab, #adventuretime, #europecup, #giro"
-  - username: "danistrailcooking"
+    hashtags: "#alpenliebe, #bergzeit, #discoveraustria, #uppermoments"
+  - username: "gabriel.hofi"
     fullname: >-
-      Daniela/Austria
+      Gᴀʙʀɪᴇʟ
+    bio: >-
+      Nᴇᴀʀ Vɪᴇɴɴᴀ 🇦🇹 Fɪᴛɴᴇss | Pᴀʀᴛʏ | Fᴏᴏᴅ 💪🎊🍟 Cᴏɴᴛᴀᴄᴛ: 𝗀𝖺𝖻𝗋𝗂𝖾𝗅.𝗁𝗈𝖿𝗂.𝗂𝗇𝖿𝗈@𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆 ᴜsᴇ ᴛʜᴇ ᴄᴏᴅᴇ 𝗀𝖺𝖻𝗋𝗂𝖾𝗅_𝗌𝗇 🔽
     location: "Austria"
-    followers: 45176
-    engagement: 545
-    commentsToLikes: 0.098897
-    id: ck13bnpiewajm0i19tgnvsand
+    followers: 8857
+    engagement: 1878
+    commentsToLikes: 0.040451
+    id: ck14jvjy4meii0i199i19zaw2
     verified: false
-    hashtags: "#feedfeedbaking, #halthybreakfast, #spawater, #originmagazine"
-  - username: "karolinakopincova"
+    hashtags: "#austrianbloggers, #gabrielhofi, #vienna, #austrianblogger"
+  - username: "nadinechristine__"
     fullname: >-
-      FINALIST MISS CZECH REPUBLIC
+      📍AUSTRIA | TRAVEL & LIFESTYLE
+    bio: >-
+      🤳🏽My crazy Reallife 🐾👫 | 🌱Gesunde Rezepte ✨Kreative Fototipps & Lifehacks | 👰🏻 Bride to Be ❤️ use #nadinechristine 📸 PRESETS & SHOOTINGDAY ⤵️
     location: "Austria"
-    followers: 5058
-    engagement: 660
-    commentsToLikes: 0.071493
-    id: ck8szyzozq9ga0j78wn2k54rg
+    followers: 31629
+    engagement: 706
+    commentsToLikes: 0.057856
+    id: ck0vxql5t07nx0i19qoimwvir
     verified: false
-    hashtags: "#smile, #coffe, #pose, #toulouse"
-  - username: "jfkfeichter"
+    hashtags: "#sweaterweather, #leaves, #autumnvibes, #viennablogger"
+  - username: "world_of_melly"
     fullname: >-
-      JFK Feichter
+      Melanie Friedlein
+    bio: >-
+      🇩🇪 Nürnberg /🇦🇹 Schladming #worldofmelly Photolover 📸📲 Travel around the World ✈️ Enjoy the little things 🌟
     location: "Austria"
-    followers: 9563
-    engagement: 578
-    commentsToLikes: 0.007114
-    id: ck5bzz3j4s4a30i11miahd1yt
+    followers: 2251
+    engagement: 1674
+    commentsToLikes: 0.313549
+    id: ck8tagwwqrpdn0j78z5vm223d
     verified: false
-    hashtags: "#froheostern, #daka, #outdoortones, #uniladadventure"
-  - username: "aquadome_hotel.therme.spa"
+    hashtags: "#anajohnson, #steirischerbodensee, #konfettiwunder, #bildbearbeitung"
+  - username: "julia.eberl"
     fullname: >-
-      AQUA DOME
+      𝘀𝗵𝗼𝗿𝘁𝗵𝗮𝗶𝗿 ▪️𝗺𝗮𝗸𝗲𝘂𝗽▪️𝘀𝗸𝗶𝗻𝗰𝗮𝗿𝗲
+    bio: >-
+      𝙼𝚊𝚖𝚊 𝚟𝚘𝚗 👧 ❤️ @berndsmode 𝙲𝚘𝚊𝚌𝚑 🅾🅽🅻🅸🅽🅴🆂🅷🅾🅿 + all about me
     location: "Austria"
-    followers: 96751
-    engagement: 237
-    commentsToLikes: 0.027419
-    id: ck5chkpnlqykm0i11gh7xepk8
-    verified: true
-    hashtags: "#newyearsresolution, #christmasishere, #christmastime, #wintervacation"
+    followers: 32707
+    engagement: 590
+    commentsToLikes: 0.052557
+    id: ck5bwj00flsp70i114fxghpe3
+    verified: false
+    hashtags: "#shorthairrocks, #shorthairdontcare, #frisuren, #cabellocorto"
+  - username: "raffis_wonderland"
+    fullname: >-
+      🌸 Raffaela 🌸
+    bio: >-
+      Ｄｕ ｍｕｓｓｔ ｄｉｒ ｓｃｈｏｎ ｓｅｌｂｓｔ 🍬🎉🇰 🇴 🇳 🇫 🇪 🇹 🇹 🇮 🎉🍬 ｉｎ ｄｅｉｎ Ｌｅｂｅｎ ｓｔｒｅｕｅｎ. 🍭 based in 💚GRAZ💚 📍VIE ♠️♦️♣️♥️ 🎰 👫🏽@patrick.e.perez
+    location: "Austria"
+    followers: 13042
+    engagement: 949
+    commentsToLikes: 0.057344
+    id: ck13czxcz2z1x0i1943nck05b
+    verified: false
+    hashtags: "#shootandshare, #graz, #nakdfashion, #igersgrazontour"
+  - username: "falami_12"
+    fullname: >-
+      𝙴𝚍𝚒𝚝𝚑 🌾
+    bio: >-
+      𝙼𝚘𝚖 𝚘𝚏 𝟹 ♡ . ᴮᴱᴬᵁᵀʸ • ᴰᴵʸ • ᴹᴼᴹᴸᴵᶠᴱ . Anfragen / Kooperation gerne per dm
+    location: "Austria"
+    followers: 5987
+    engagement: 611
+    commentsToLikes: 0.096419
+    id: ck5c41hqb0ggt0i11eotkxajo
+    verified: false
+    hashtags: "#inspo, #family, #beautytips, #lifewithkids"
 ---

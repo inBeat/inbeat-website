@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top gaming Instagram influencers in Los Angeles in 2020. Most popular hashtags: #gaming #quarantine #losangeles #videogames.
+  Find top gaming Instagram influencers in Los Angeles in 2020. Most popular hashtags: #gaming #losangeles #stayhome.
 platform: Instagram
+hits: 60
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 60 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "pastelwife"
+  - username: "corey.saldana"
     fullname: >-
-      Silver Fox
+      Corey Saldana
+    bio: >-
+      📍 Los Angeles 🇵🇭🇺🇸 🎥 Director/Videographer 📷 Portrait Photographer 🎮 Twitch.TV/Fireshot206
     location: "United States"
-    followers: 73934
-    engagement: 565
-    commentsToLikes: 0.022341
-    id: ck5qdgizuvgw30i11y0tlcwla
+    followers: 21717
+    engagement: 202
+    commentsToLikes: 0.014256
+    id: ck135u0hw38eh0i19e7v9im9c
     verified: false
-    hashtags: "#alternativegirl, #autofull, #cosplaygirl, #alternativefashion"
-  - username: "anotherblondetraveler"
-    fullname: >-
-      Jessika // London & Travel
-    location: "United States"
-    followers: 10598
-    engagement: 518
-    commentsToLikes: 0.080510
-    id: ck0w1vv96ldxa0i19z4ztm64a
-    verified: false
-    hashtags: "#careforothers, #stillatraveler, #bathtubgoals, #flowerpower"
+    hashtags: "#gamingphotography, #portsinspired, #losangelesphotography, #laphotographer"
   - username: "ladndsociety"
     fullname: >-
       L.A. Dungeons&Dragons Society
+    bio: >-
+      The L.A.D.D.S. — a Los Angeles based, global gaming society dedicated to the world’s greatest game, Dungeons & Dragons & its amazing fandom.
     location: "United States"
-    followers: 6613
-    engagement: 703
-    commentsToLikes: 0.043574
+    followers: 6778
+    engagement: 580
+    commentsToLikes: 0.044626
     id: ck6to6uj8cfcw0j71ouxm6n5v
     verified: false
-    hashtags: "#digital, #dragonoficespirepeak, #roll20, #davidbenioff"
-  - username: "cerberusarmz"
+    hashtags: "#gaming, #artandarcana, #dungeonsanddragons, #rpg"
+  - username: "coughs"
     fullname: >-
-      D
+      COUGHS
+    bio: >-
+      los angeles ☆ 🇲🇽 !! photos and gaming
     location: "United States"
-    followers: 36569
-    engagement: 1101
-    commentsToLikes: 0.010019
-    id: ck5hl62fsjmtd0i1180m4gysw
+    followers: 44140
+    engagement: 972
+    commentsToLikes: 0.013714
+    id: ck0u9o43vabte0i19ar3bv9w6
     verified: false
-    hashtags: "#slowmotion, #huntshowdown, #apexlegends, #cosplay"
-  - username: "unsealedgames"
-    fullname: >-
-      The Dancing Gamer
-    location: "United States"
-    followers: 2101
-    engagement: 1703
-    commentsToLikes: 0.402421
-    id: ck8t6ugb4eq9e0j78s1khybtd
-    verified: false
-    hashtags: "#gamergirl, #dancemonkey, #playstationfam, #gaminggang"
+    hashtags: ""
   - username: "tommydriscollofficial"
     fullname: >-
-      𝐓 𝐨 𝐦 𝐦 𝐲  𝐃 𝐫 𝐢 𝐬 𝐜 𝐨 𝐥 𝐥
+      TOMMY DRISCOLL
+    bio: >-
+      23 • CT ➡️ L.A Songwriter / Producer TikTok: 127K
     location: "United States"
-    followers: 4519
-    engagement: 1195
-    commentsToLikes: 0.055084
+    followers: 4482
+    engagement: 1218
+    commentsToLikes: 0.047959
     id: ck9wh5g7rwc770j78bxdjbbyy
     verified: false
-    hashtags: "#brooklyn, #allinchallenge, #venicebeach, #puppy"
-  - username: "thenextadventure"
+    hashtags: "#socialdistancing, #imagination, #afternoon, #musicproducer"
+  - username: "skyboundent"
     fullname: >-
-      Artemis Snow
+      Skybound Entertainment
+    bio: >-
+      Skybound is an entertainment company founded by Robert Kirkman and David Alpert that specializes in comics, film, TV, games, and more! #skybound
     location: "United States"
-    followers: 6837
-    engagement: 1560
-    commentsToLikes: 0.054291
-    id: ckaoxlb04drcd0i78zjwubz9z
+    followers: 27598
+    engagement: 88
+    commentsToLikes: 0.013389
+    id: ck0tw2xm9dsj50i1923r7a34j
     verified: false
-    hashtags: "#quarantinelife, #sanctuary, #womeninfilm, #videogame"
-  - username: "nyfalosangeles"
+    hashtags: "#robertkirkman, #jeffreydeanmorgan, #amc, #negan"
+  - username: "sugarycarnivore"
     fullname: >-
-      New York Film Academy LA
+      🎀 Larissa Lapin 🎀
+    bio: >-
+      💖Welcome to my pastel dreamland 💛LIving in Los Angeles 💚Fashion and all things cute 💙Business : sugarycarnivore@gmail.com
     location: "United States"
-    followers: 10071
-    engagement: 378
-    commentsToLikes: 0.018152
-    id: ck0w4lgvqz5zy0i19yvndvf0l
+    followers: 21911
+    engagement: 752
+    commentsToLikes: 0.015962
+    id: ck14lpudxvvwy0i19j8oq8pmp
     verified: false
-    hashtags: "#videogames, #lightsabre, #movie, #optimo"
-  - username: "pastelyoshi"
+    hashtags: "#animalcrossing, #pinkhair, #kawaiiaesthetic, #taiwan"
+  - username: "moesph_oreo"
     fullname: >-
-      yoshi💞🌸🍡
+      Mohamed Ouedraogo
+    bio: >-
+      Los Angeles 📍 Leo ☉ Libra☽ Virgo ↑ Yogi 🧘🏿‍♂️
     location: "United States"
-    followers: 6165
-    engagement: 7602
-    commentsToLikes: 0.009311
-    id: ck8t9dx9knqip0j78a4vdovj9
+    followers: 19363
+    engagement: 183
+    commentsToLikes: 0.063081
+    id: ck13asghcryej0i197sbw30an
     verified: false
-    hashtags: "#ootd, #gaming, #xbox, #gudetama"
-  - username: "mrleozombie"
+    hashtags: "#asthetic, #designer, #digitals, #ohhhhellothere"
+  - username: "lamarrwilson"
     fullname: >-
-      Leo Camacho
+      Lamarr Wilson
+    bio: >-
+      📸 I make fun videos about things I like 📍 Los Angeles, CA 📧 Biz: LamarrWilson@gmail.com
     location: "United States"
-    followers: 123993
-    engagement: 659
-    commentsToLikes: 0.018524
-    id: ck1384tk0ei850i19lgfgjg9k
+    followers: 188128
+    engagement: 339
+    commentsToLikes: 0.020157
+    id: ck5q4r646pzbh0i11np0730jl
     verified: true
-    hashtags: "#editing, #futurism, #cremocompany, #solidsnake"
+    hashtags: "#xbox, #gaming, #lamarrwilson, #unboxing"
+  - username: "nikoriana"
+    fullname: >-
+      Nicole Iriana
+    bio: >-
+      〰️ los angeles, ca 👩🏼‍💻 product ux/ui •🖋 lettering • 📷 q2 🎧 edm • 📽 horror • 👁‍🗨 en/日本語/فارسی
+    location: "United States"
+    followers: 5442
+    engagement: 1052
+    commentsToLikes: 0.018173
+    id: ck5hjjzcigrhz0i1103pfmobg
+    verified: false
+    hashtags: "#visualsoflife, #travel, #inspiration, #artofvisuals"
+  - username: "thejaxmalcolm"
+    fullname: >-
+      Jax Malcolm
+    bio: >-
+      Los Angeles, CA Award Winning Actor/Director/Philanthropist CEO @kapprods TikTok thejaxmalcolm
+    location: "United States"
+    followers: 78115
+    engagement: 69
+    commentsToLikes: 0.102336
+    id: ck0vxvs7v0zdr0i19nf92jizn
+    verified: true
+    hashtags: "#stayhome, #quarantine, #tb, #nyc"
 ---

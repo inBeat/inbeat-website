@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In France In 2020
 description: >-
-  Find top bloggers Instagram influencers in France in 2020. Most popular hashtags: #giveaway #love #concours #moodoftheday.
+  Find top bloggers Instagram influencers in France in 2020. Most popular hashtags: #ootd #frenchgirl #concours.
 platform: Instagram
+hits: 937
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 937 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "amybnt"
-    fullname: >-
-      Amélie
-    location: "France"
-    followers: 10454
-    engagement: 2121
-    commentsToLikes: 0.083965
-    id: ck9wfappco01d0j78r4pvho9g
-    verified: false
-    hashtags: "#heishizlook, #benakd, #giveaway, #inesmaphoto"
-  - username: "manonlaime"
-    fullname: >-
-      ManonLaime
-    location: "France"
-    followers: 129444
-    engagement: 947
-    commentsToLikes: 0.043695
-    id: ck1362bnm4esl0i19gnrxd3e3
-    verified: false
-    hashtags: "#manonlaimexconforama, #silkdress, #bridetobe2020, #lafamiglia"
   - username: "saskiabzn"
     fullname: >-
       Saskia B.
+    bio: >-
+      28 yo ▲ 🇫🇷 🇧🇪 🇱🇺 Blogger ▲ Catlover ▲ Photographer ▲ Model 😻 @princess_mishka 🖤 🎥 http://www.youtube.com/saskiabzn Collab : contact@bruneagency.lu
     location: "France"
-    followers: 5261
-    engagement: 1826
-    commentsToLikes: 0.129257
+    followers: 7630
+    engagement: 2221
+    commentsToLikes: 0.099102
     id: ck8t0z0n7tuyl0j78cazxo5mm
     verified: false
-    hashtags: "#chainbelt, #nastygal, #gothgrunge, #tumblraesthetic"
+    hashtags: "#altgirl, #grungelook, #harajukufashion, #egirl"
+  - username: "melissaswardrobe"
+    fullname: >-
+      Melissa’s Wardrobe
+    bio: >-
+      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
+    location: "France"
+    followers: 183684
+    engagement: 784
+    commentsToLikes: 0.039895
+    id: ck0udxvovk7yj0i19uwfxckji
+    verified: false
+    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
+  - username: "iman.karovic"
+    fullname: >-
+      iman | إيمان
+    bio: >-
+      Model • Lifestyle blogger • Law 👩🏽‍⚖️ • ♎️ • Beauty queen👸🏽 | Miss Tourism BiH 2015 👑 • Collabs 💌
+    location: "France"
+    followers: 40826
+    engagement: 705
+    commentsToLikes: 0.120976
+    id: ck0tuu05q8np60i19au0pa7l4
+    verified: false
+    hashtags: "#grateful, #prugice, #tb, #canoeing"
+  - username: "shewandersabroad"
+    fullname: >-
+      Kriszti │ Travel Blogger
+    bio: >-
+      ✈ hungarian travel blogger & content creator ✧ now: budapest ➳ next: tba ⇟ travel tips & tricks on the blog:
+    location: "France"
+    followers: 46941
+    engagement: 1051
+    commentsToLikes: 0.072933
+    id: ck13cr9xh1s110i1973zhm9dk
+    verified: false
+    hashtags: "#parismonamour, #topitalyphoto, #girlsborntotravel, #southtyrol"
+  - username: "lodoesmakeup"
+    fullname: >-
+      Laura
+    bio: >-
+      French Blogger and YouTuber 💄 (qui se prend pour Ariel à plein temps) 📍Paris 📩 lodoesmakeup.blog@gmail.com
+    location: "France"
+    followers: 120495
+    engagement: 597
+    commentsToLikes: 0.156882
+    id: ck139mi69m1hp0i19vvzera4x
+    verified: false
+    hashtags: "#adventcalendar, #ootd, #calendrierdelavent, #chaneltimeless"
   - username: "ellesenparlent"
     fullname: >-
       Coralie L.
+    bio: >-
+      LIFESTYLE & TRAVEL Blogger 💫 📍Lyon l Du rêve. Des fleurs. Des chats. Des chiens & un bébé. | 🎈 📷 @mat_flyaway 💌 contact@ellesenparlent.com
     location: "France"
-    followers: 211936
-    engagement: 746
-    commentsToLikes: 0.030779
+    followers: 217371
+    engagement: 582
+    commentsToLikes: 0.073894
     id: ck0u74czs3p6r0i192wxrrn1s
     verified: false
-    hashtags: "#coffretbouquetdegourmandises, #bonnemaman, #mothersday, #heywondermom"
+    hashtags: "#sony, #aperohealthy, #dipweek, #leclerc"
   - username: "naiaroma"
     fullname: >-
       N A I A . R O M A
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents ⠀⠀⠀⠀⠀⠀⠀⠀⠀👻 naiaroma
     location: "France"
-    followers: 26314
-    engagement: 638
-    commentsToLikes: 0.190062
+    followers: 26173
+    engagement: 598
+    commentsToLikes: 0.116956
     id: ck6005716cyz70i14ku7ksd41
     verified: false
-    hashtags: "#elitenetflix, #summervibes, #beautybox, #love"
-  - username: "lola_rossi_"
+    hashtags: "#photoinspiration, #dailypost, #ootn, #getthelook"
+  - username: "clemence_allaire"
     fullname: >-
-      𝐋𝐨𝐥𝐚 𝐑𝐨𝐬𝐬𝐢
+      Clémence
+    bio: >-
+      📍Orléans 📱Lifestyle blogger 👰🏻Bride to be 2021 - Christmas Wedding 🎄
     location: "France"
-    followers: 323660
-    engagement: 532
-    commentsToLikes: 0.035011
-    id: ck13cxanm2mb70i19nf1oq7om
+    followers: 87815
+    engagement: 459
+    commentsToLikes: 0.108643
+    id: ck0vuzp5omvkw0i194wh0p9lf
     verified: false
-    hashtags: "#lolarossihome, #summer, #happiness, #happyfamily"
-  - username: "mint.stories"
+    hashtags: "#redoutegirls, #ootd, #lockdown, #frenchgirl"
+  - username: "carnetprune"
     fullname: >-
-      Zvezdelina Tsolova
+      Angéline
+    bio: >-
+      Paris 🇫🇷 • Lifestyle blogger • 👉🏼 Salmon Skin Roll 💛 Potterhead 🛍 Boutique - #LaFabriqueCarnetPrune 🌿 Veggie
     location: "France"
-    followers: 20117
-    engagement: 728
-    commentsToLikes: 0.067358
-    id: ck5by4p84op3h0i11clbbd64s
+    followers: 134386
+    engagement: 430
+    commentsToLikes: 0.039190
+    id: ckap8w6tvq5ot0i78jmf9xn48
     verified: false
-    hashtags: "#minimalfashion, #womenswear, #desserts, #happy30"
-  - username: "cyrielledrt"
+    hashtags: "#carnettoujoursadisney, #disneylandparis, #carnetpruneencostume, #courbetgirl"
+  - username: "poussine"
     fullname: >-
-      Cyrielle ♡ | Blogger
+      Poussine | BLOGGER | Travel
+    bio: >-
+      Blogger Lifestyle, family, travel and food Mum of 2 girls / Syana 18 ans et Jadene 5 ans poussine@swagday.fr 🇫🇷Paris
     location: "France"
-    followers: 2536
-    engagement: 2195
-    commentsToLikes: 0.297263
-    id: ckap4yu1s9fa10i78numiaogc
+    followers: 111131
+    engagement: 389
+    commentsToLikes: 0.097540
+    id: ck14il4kqfyb00i19maozhnsn
     verified: false
-    hashtags: "#inked, #bluejean, #giftideas, #fashionclothes"
-  - username: "ornellagabriella"
-    fullname: >-
-      🌺Ornella🌺
-    location: "France"
-    followers: 18170
-    engagement: 713
-    commentsToLikes: 0.112044
-    id: ck0w3amewsf4n0i19oaz4l0f4
-    verified: false
-    hashtags: "#naturalbeaty, #crueltyfree, #sun, #girls"
-  - username: "inesduhard"
-    fullname: >-
-      Ines Duhard 🌺🤙🏼🐚🌻🌎
-    location: "France"
-    followers: 54481
-    engagement: 520
-    commentsToLikes: 0.056572
-    id: ck14gu92l722g0i19b5w5ankp
-    verified: false
-    hashtags: "#lockdown, #frenchriviera, #jeuconcours, #morningroutine"
+    hashtags: "#lisboa, #travelblogger, #blogueusevoyage, #babysitting"
 ---

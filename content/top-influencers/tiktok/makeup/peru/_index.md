@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Peru In 2020
 description: >-
-  Find top makeup TikTok influencers in Peru in 2020. Most popular hashtags: #coronavirus #cuarentena #comedia #fashion.
+  Find top makeup TikTok influencers in Peru in 2020. Most popular hashtags: #makeup #parati #peru #fyp.
 platform: TikTok
+hits: 52
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 52 TikTok influencers like this in Peru for you to contact.
 profiles:
+  - username: "gracekellyherrera"
+    fullname: >-
+      😽 Grace Herrera 😽
+    bio: >-
+      🇵🇪.... instagram: ▶️ @grace herrera makeup
+    location: "Peru"
+    followers: 4986
+    engagement: 709
+    commentsToLikes: 0.034572
+    id: ckd04uaoj9lkc0j23dcld52zp
+    verified: false
+    hashtags: "#destacame, #halloween, #actuacion, #foryou"
   - username: "mariaclaudia.durand"
     fullname: >-
       mariaclaudiadurand
+    bio: >-
+      Latina🇵🇪 Curvy Fashion Hacks🍑 Makeup lover💄 Sígueme en Insta🤍 #bodypositive
     location: "Peru"
-    followers: 3996
-    engagement: 636
-    commentsToLikes: 0.029487
+    followers: 18900
+    engagement: 575
+    commentsToLikes: 0.035493
     id: cka620sk5xu720i78rsx2qier
     verified: false
-    hashtags: "#trend, #denimoutfit, #posetip, #serononoser"
-  - username: "flaviaflaviamusic"
+    hashtags: "#bodypositivitychain, #curvypower, #selfconfidencebooster, #sheingals"
+  - username: "aracelyurbina"
     fullname: >-
-      Flavia Martínez ☀️
+      Damngirl 🍒
+    bio: >-
+      🏳️‍🌈✨ Makeup artist Tripulante de crucero 22 🪐
     location: "Peru"
-    followers: 3669
-    engagement: 1103
-    commentsToLikes: 0.093591
-    id: cka84svd0vflm0i78f7gk564e
+    followers: 20100
+    engagement: 707
+    commentsToLikes: 0.027363
+    id: ckb9veekguke90j23g0x3vkom
     verified: false
-    hashtags: "#addictedtomyex, #imabichimaboss, #toxi, #coordinacion"
-  - username: "angelica.weeb69"
+    hashtags: "#bedroom, #greenscreen, #fyp, #loserschallenge"
+  - username: "yositaarve"
     fullname: >-
-      Angélica🌹🖤🏳️‍🌈
+      yositaarve
+    bio: >-
+      Sígueme IG👆🏻 👠Model-Fit💓 Te doy los mejores Tips aquí🥰 👇🏻
     location: "Peru"
-    followers: 23969
-    engagement: 1493
-    commentsToLikes: 0.036416
-    id: ck81q68otgals0j787m3n8i5c
+    followers: 24200
+    engagement: 626
+    commentsToLikes: 0.144913
+    id: ckai4savrp9ho0i78l3cssqf6
     verified: false
-    hashtags: "#duet, #corinavirus, #canciones, #rutina"
-  - username: "lucumastyle"
+    hashtags: "#venezolanosenperu, #makeup, #peru, #venezolana"
+  - username: "karimaguinaga"
     fullname: >-
-      Mara
+      Alejandra B
+    bio: >-
+      No soy Ale, soy Karim💛 Tratando de engañar al algoritmo🌟
     location: "Peru"
-    followers: 49880
-    engagement: 1069
-    commentsToLikes: 0.031170
-    id: ck85cny1c2lpo0j78q3hmxirj
+    followers: 222400
+    engagement: 1095
+    commentsToLikes: 0.032808
+    id: ckbfbrfvk42nx0j2305b78l59
     verified: false
-    hashtags: "#drama, #makeuphacks, #postre, #hamburguesa"
-  - username: "lidiaportalpolo"
+    hashtags: "#usa, #maquillaje, #makeup, #peru"
+  - username: "malusalcedo6"
     fullname: >-
-      Lidia Portal Polo
+      Malu Salcedo
+    bio: >-
+      CEO del anyways #opa💛 🇵🇪 Perú 🇵🇪
     location: "Peru"
-    followers: 55931
-    engagement: 712
-    commentsToLikes: 0.033204
-    id: ck9enwl7xldgv0j78tfiezg7z
+    followers: 351400
+    engagement: 1893
+    commentsToLikes: 0.015903
+    id: ckaihu98j7kob0i78lviwuhhp
     verified: false
-    hashtags: "#soycomotu, #curvywomen, #neonlights, #morph"
-  - username: "fashionindahat"
+    hashtags: "#storytime, #peru, #viral, #halloween"
+  - username: "goodrouss"
     fullname: >-
-      Alemazzini
+      GoodRouss
+    bio: >-
+      19 Si me sigues te voy a querer mucho🥺 Más de mi en mi ig :) Gracias!💕 🇵🇪
     location: "Peru"
-    followers: 133752
-    engagement: 909
-    commentsToLikes: 0.017817
-    id: ck83zb3mrzbfn0j78tafbmdmf
+    followers: 23900
+    engagement: 1810
+    commentsToLikes: 0.027305
+    id: ckav8g864fr1c0j23nzdwo0xq
     verified: false
-    hashtags: "#hairstyle, #fashionblog, #photoshoot, #greenscreen"
-  - username: "tanydelariva1"
+    hashtags: "#makeup, #cuarentena, #nonono, #comment"
+  - username: "fatima.malca"
     fullname: >-
-      Tany De La Riva
+      Fátima Malca
+    bio: >-
+      18 🌺 📍Lima, Perú todo lo que subo es random, sorry not sorry Ig: @fatima.malca
     location: "Peru"
-    followers: 10369
-    engagement: 618
-    commentsToLikes: 0.025421
-    id: ck9exyd52te3q0j78ymyclnrm
+    followers: 30700
+    engagement: 786
+    commentsToLikes: 0.032121
+    id: cka0u39gqsi3q0i782vi2g7gw
     verified: false
-    hashtags: "#bachata, #dancer, #cuarentena, #bailaconmigo"
-  - username: "ingridlycmakeup"
+    hashtags: "#parati, #fyp, #peru, #makeup"
+  - username: "la_peta_"
     fullname: >-
-      Ingrid Lyc
+      Brenda
+    bio: >-
+      Be and make Art 🖤 Perú🇵🇪 19 años
     location: "Peru"
-    followers: 2900
-    engagement: 426
-    commentsToLikes: 0.019522
-    id: cka0y16sp9ha20i787telts1h
+    followers: 3525
+    engagement: 1050
+    commentsToLikes: 0.046362
+    id: ckdh2qeq2secx0j232lzkszjf
     verified: false
-    hashtags: "#usa, #carlaelite, #rainbowmakeup, #elite"
-  - username: "darleen_jll"
+    hashtags: "#fyp, #foryou, #xyzbca, #parati"
+  - username: ".keith.mendoza"
     fullname: >-
-      Darleen JLL
+      keith Mendoza 🍒
+    bio: >-
+      19 añitos 🍭🤩 nunca te rindas , demuestra de que estás hecha ✌😛 🇵🇪 peruviam
     location: "Peru"
-    followers: 573335
-    engagement: 1624
-    commentsToLikes: 0.018220
-    id: ck87u44ue550j0j78637hz0sg
+    followers: 16000
+    engagement: 487
+    commentsToLikes: 0.078787
+    id: ckaikzotllteu0i786tql6j2v
     verified: false
-    hashtags: "#comedia, #auronplay, #barbijo, #tareas"
-  - username: "thank_u__next"
-    fullname: >-
-      Dangerous woman 🔥
-    location: "Peru"
-    followers: 27983
-    engagement: 3129
-    commentsToLikes: 0.034468
-    id: ck900p0siakm20j78c6qc7y8r
-    verified: false
-    hashtags: "#viralvideo, #amazonprime, #santiago, #thetonightshow"
+    hashtags: "#parati, #peru, #vintage, #trend"
 ---

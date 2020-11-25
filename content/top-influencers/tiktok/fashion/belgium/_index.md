@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Belgium In 2020
 description: >-
-  Find top fashion TikTok influencers in Belgium in 2020. Most popular hashtags: #dance #fashion #coronavirus #quarantine.
+  Find top fashion TikTok influencers in Belgium in 2020. Most popular hashtags: #fashion #foryou #viral #fyp.
 platform: TikTok
+hits: 32
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database has 32 TikTok influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "kayleemoonkitty"
+  - username: "itsblossomtea"
     fullname: >-
-      Kaylee
+      Itsblossomtea
+    bio: >-
+      Liège, Belgium 🇧🇪 Lifestyle • Fashion • Creativity Retrouvez-moi sur Insta⤵
     location: "Belgium"
-    followers: 152043
-    engagement: 2679
-    commentsToLikes: 0.058794
-    id: ck8ade3fu5i6a0j78bvdxks6q
-    verified: true
-    hashtags: "#splittongue, #makeupchallenge, #challenge, #dance"
-  - username: "majalex_"
-    fullname: >-
-      MAJA LEX 
-    location: "Belgium"
-    followers: 24338
-    engagement: 1189
-    commentsToLikes: 0.013668
-    id: cka0rviilioiy0i78pc2d683t
+    followers: 19800
+    engagement: 965
+    commentsToLikes: 0.081136
+    id: ckcdrpg51cwtn0j23wuy2bdlz
     verified: false
-    hashtags: "#becomingamodel, #modelstory, #tips, #whatieatinaday"
-  - username: "iamstefanny"
+    hashtags: "#mode, #magie, #halloween, #trend"
+  - username: "foryoubella.com"
     fullname: >-
-      iamstefanny 
+      Irish Anne Tello
+    bio: >-
+      👆🏼Goal 50k before December ✨ I make beautiful jewellery. Online Fashion Shop
     location: "Belgium"
-    followers: 35577
-    engagement: 1674
-    commentsToLikes: 0.012149
-    id: ck9em4wpvdldd0j78qbir2fet
+    followers: 39300
+    engagement: 530
+    commentsToLikes: 0.026708
+    id: ckbfganthbdy40j23ot8ud2w1
     verified: false
-    hashtags: "#mugshot, #foyou, #haul, #paris"
-  - username: "suspiciousantwerp"
-    fullname: >-
-      Suspicious Antwerp
-    location: "Belgium"
-    followers: 50688
-    engagement: 1027
-    commentsToLikes: 0.025920
-    id: ck8kmurq8ab1t0j783lu1j5x0
-    verified: true
-    hashtags: "#model, #4u, #longboarding, #vlogsquad"
+    hashtags: "#tiktokacademie, #distorsiontemporelle, #lumieresur, #onlinestores"
   - username: "donabr_dqnn_officiel"
     fullname: >-
       donabr_dqnn_officiel
+    bio: >-
+      𝕭𝖊𝖑𝖌𝖊🇧🇪 1̴7̴ 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
     location: "Belgium"
-    followers: 3304
-    engagement: 940
-    commentsToLikes: 0.030857
+    followers: 3586
+    engagement: 1344
+    commentsToLikes: 0.029062
     id: cka0phz4e8cmu0i78sk9rgsv1
     verified: false
-    hashtags: "#covid19, #pourtoi, #like4like, #instamood"
+    hashtags: "#music, #musically, #frenchhumour, #humour"
+  - username: "ayoubbabyy"
+    fullname: >-
+      Ayoub Ben Ammar
+    bio: >-
+      modèle et chanteur 📀 30 K ? Insta : ayoubbabyy Snap : ayoubbabyy 👇
+    location: "Belgium"
+    followers: 29800
+    engagement: 1123
+    commentsToLikes: 0.032370
+    id: ckbfedphs8aep0j23njoflng5
+    verified: false
+    hashtags: "#fypp, #storytime, #fyp, #pourtoi"
+  - username: "potverdekke"
+    fullname: >-
+      Arthur Van der Lindn
+    bio: >-
+      we try to be aesthetically pleasing :) +32/🇧🇪
+    location: "Belgium"
+    followers: 144000
+    engagement: 1735
+    commentsToLikes: 0.011758
+    id: ckb9p5ztsjybu0j23cr6mbrlt
+    verified: false
+    hashtags: "#aesthetic, #antwerp, #pintrest, #fashion"
+  - username: "majalex_"
+    fullname: >-
+      MAJA LEX 
+    bio: >-
+      Belgian model 18 Insta : @majalex
+    location: "Belgium"
+    followers: 25200
+    engagement: 1176
+    commentsToLikes: 0.010859
+    id: cka0rviilioiy0i78pc2d683t
+    verified: false
+    hashtags: "#model, #modeling, #modellife, #foryou"
+  - username: "iamstefanny"
+    fullname: >-
+      iamstefanny 
+    bio: >-
+      Instagram: iamstefanny ✨🌈🦋🧃 3яα¢нα
+    location: "Belgium"
+    followers: 66600
+    engagement: 1723
+    commentsToLikes: 0.011090
+    id: ck9em4wpvdldd0j78qbir2fet
+    verified: false
+    hashtags: "#fashion, #jennie, #kpop, #blackpink"
+  - username: "mocean__"
+    fullname: >-
+      Natacha & Melanie
+    bio: >-
+      Yes we’re the girls from Pinterest Instagram: @mocean__ Mocean@musetheagency.com
+    location: "Belgium"
+    followers: 49600
+    engagement: 1181
+    commentsToLikes: 0.010444
+    id: ckcuz6tobmnq90j23ocbdaiad
+    verified: false
+    hashtags: "#fyp, #foryoupage, #clothes, #subdued"
   - username: "tulipa_dias"
     fullname: >-
       tulipa_dias
+    bio: >-
+      Brazilian living in Belgium and in the sky 🇧🇷✈️📸 Instagram: tulipa_dias
     location: "Belgium"
-    followers: 16607
-    engagement: 409
-    commentsToLikes: 0.017972
+    followers: 24400
+    engagement: 451
+    commentsToLikes: 0.014922
     id: cka0s3shqjsao0i78krs6v3os
     verified: false
-    hashtags: "#makeuptable, #cabincrewlife, #model, #style"
-  - username: "sasabylopez"
+    hashtags: "#antwerpen, #flightattendant, #tiktokbelgium, #belgi"
+  - username: "limaswardrobe"
     fullname: >-
-      Sasa
+      Lima Ché
+    bio: >-
+      Follow me on Instagram @limaswardrobe 💋
     location: "Belgium"
-    followers: 35180
-    engagement: 309
-    commentsToLikes: 0.024571
-    id: ck83x2oc3nr4g0j782rrzu4zz
+    followers: 80000
+    engagement: 484
+    commentsToLikes: 0.009183
+    id: ckbb542jzvbqo0j23yd917akg
     verified: false
-    hashtags: "#fashionnova, #guesschallenge, #lookoftheday, #ootdchallenge"
-  - username: "nenamaesen"
-    fullname: >-
-      ♕ Nena ♕
-    location: "Belgium"
-    followers: 2058
-    engagement: 2957
-    commentsToLikes: 0.124181
-    id: ck9eroawc2n480j789nzw5r1l
-    verified: false
-    hashtags: "#selfmadedance, #lacasadepapel, #quarantinelife, #viral"
-  - username: "aurelieorton"
-    fullname: >-
-      Jewel horse
-    location: "Belgium"
-    followers: 5827
-    engagement: 1999
-    commentsToLikes: 0.054593
-    id: ck9eo5hx8mmmy0j78jd29v3t1
-    verified: false
-    hashtags: "#1000abo, #myjewellery, #galopp, #animalrights"
-  - username: "steffimercie5"
-    fullname: >-
-      Official Steffi <3
-    location: "Belgium"
-    followers: 417969
-    engagement: 2298
-    commentsToLikes: 0.015637
-    id: ck8ae2zn09cs80j7862fjjmh0
-    verified: false
-    hashtags: "#fashion, #positivevibes, #shoppinghaul, #duet"
+    hashtags: "#viral, #sisters, #foryoupage, #pourtoi"
 ---

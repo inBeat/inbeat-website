@@ -1,107 +1,130 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top barbers Instagram influencers in Turkey in 2020. Most popular hashtags: #barbershop #evdekal #makeupartist #barbers.
+  Find top barbers Instagram influencers in Turkey in 2020. Most popular hashtags: #barber #hairstyle #moda #berber.
 platform: Instagram
+hits: 39
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 39 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "dileksipahi0"
+  - username: "muhammetorstylle"
     fullname: >-
-      Dilek
+      Muhammet ZOR
+    bio: >-
+      Hatay 📍Antakya Lifestyle | Men’s Fashion İnfluencer / 💈 Barber 📥 DM for advertising and collaborations 📬 muhammetorstyle@hotmail.com 🇹🇷
     location: "Turkey"
-    followers: 9083
-    engagement: 1146
-    commentsToLikes: 0.034236
+    followers: 17077
+    engagement: 326
+    commentsToLikes: 0.090544
+    id: ck15t9e5ogz2a0i19h35dyrfh
+    verified: false
+    hashtags: "#menstyle, #travel, #menswear, #men"
+  - username: "kimbudilek0"
+    fullname: >-
+      Dilek sipahi
+    bio: >-
+      💄Beauty expert 💄 💈barber💈 TikTok /kimbudilek0 1M popüler kullanıcı Reklam ve işbirliği için DM📩
+    location: "Turkey"
+    followers: 27747
+    engagement: 1576
+    commentsToLikes: 0.025421
     id: ck8wf3uw4f3190j785n1zrj6p
     verified: false
-    hashtags: "#haircut, #barbershop, #tb, #barbers"
-  - username: "mehmet.kacar_hairdoctor"
+    hashtags: "#kadiralkan, #tattoo, #kimbudilek0, #arap"
+  - username: "kuafor_ugurkanesim"
     fullname: >-
-      MEHMET KACAR® HairDoctor®
+      Uğurkan Esim Hair Style®️
+    bio: >-
+      🥇BEST TÜRKİSH BARBER’s🏆 💈RANDEVU VE DETAYLI BİLGİ İCİN ARAYINIZ 0538 3682613 Lokasyon ⬇️ GAZİANTEP Online Randevu için 👇
     location: "Turkey"
-    followers: 98173
-    engagement: 117
-    commentsToLikes: 0.059628
-    id: ck0w3kubktx0v0i19wqypacyw
+    followers: 24539
+    engagement: 332
+    commentsToLikes: 0.019630
+    id: ckap5m1fvc9oa0i781wu46pxg
     verified: false
-    hashtags: ""
+    hashtags: "#emek, #hairstyle, #stil, #danismani"
   - username: "beratpolatoglu"
     fullname: >-
       Berat POLATOĞLU
+    bio: >-
+      🌍 World Class #Hair #barber #kuafor 🏆 Uluslararası Ödüllü Erkek Kuaförü Youtube Kanalıma ABONE OL 👇👇👇
     location: "Turkey"
-    followers: 275425
-    engagement: 82
-    commentsToLikes: 0.041258
+    followers: 208572
+    engagement: 133
+    commentsToLikes: 0.034660
     id: ck5zrbrgswaa60i14ykvbtczm
     verified: true
-    hashtags: "#beratpolatoglu, #evdekal, #uzayl, #erkek"
+    hashtags: "#style, #moda, #haircut, #tattoo"
+  - username: "mehmet.kacar_hairdoctor"
+    fullname: >-
+      MEHMET KACAR® HairDoctor®
+    bio: >-
+      🌍World Class #barber #hairdoctor ®️ 🏆Türkiye ödüllü Erkek Kuaförü 🏆Türkiye Milli Takım Finalisti 🏅 🏆2019 Golden Hair Kupasi🌏 Hairdoctor custom haircut
+    location: "Turkey"
+    followers: 96170
+    engagement: 119
+    commentsToLikes: 0.060628
+    id: ck0w3kubktx0v0i19wqypacyw
+    verified: false
+    hashtags: ""
   - username: "sukrududu"
     fullname: >-
       Şükrü Dudu
+    bio: >-
+      Şükrü Dudu Barber's Club ® Zorlu Center Avm 📞 0212 280 98 08 @borbonebb kırmızımucize
     location: "Turkey"
     followers: 83513
     engagement: 153
     commentsToLikes: 0.018798
     id: ck8ta2omrq8bo0j78dok2ddf4
     verified: true
-    hashtags: "#nebilsay, #menstyle, #unisex, #dara"
-  - username: "kuafor_onurcelik"
-    fullname: >-
-      Onur ÇELİK
-    location: "Turkey"
-    followers: 27363
-    engagement: 568
-    commentsToLikes: 0.012628
-    id: ck6uh4yu9711q0j71mkhzag1l
-    verified: false
-    hashtags: ""
+    hashtags: "#zorluday, #sa, #zorlu, #zorlupsm"
   - username: "barberstown"
     fullname: >-
       
+    bio: >-
+      " Başkaları sizden ilham almaya başladığında Marka olursunuz “ @barberstownbandido Randevu için👇🏻 WhatsApp📱 0531 962 8218📱 0242 340 3470☎️ YouTube👇🏻
     location: "Turkey"
     followers: 321768
     engagement: 65
     commentsToLikes: 0.012785
     id: ck0w31b55r4ni0i19gfxglt6s
     verified: false
-    hashtags: "#gazver, #denimilosevic, #skubic, #podolski"
-  - username: "nebilx"
+    hashtags: "#barberstown, #barberstowntv, #taktaktik, #podolski"
+  - username: "kuafor_onurcelik"
     fullname: >-
-      Makeup Artist 🇹🇷 🇺🇸
+      Onur ÇELİK
+    bio: >-
+      ERKEK SAÇ MODELLERİ KARS 🌍 #barber 💈#hairstyle 💈#besthairsalon 💈#hairstyles 📞 05344745215 reservation 28.07.2010👪 TikTok 👉 Onur3636
     location: "Turkey"
-    followers: 9609
-    engagement: 851
-    commentsToLikes: 0.088481
-    id: ck5c9va4kc6qp0i11qay9qqjn
+    followers: 28142
+    engagement: 336
+    commentsToLikes: 0.017789
+    id: ck6uh4yu9711q0j71mkhzag1l
     verified: false
-    hashtags: "#streetclassics, #barbershop, #influencer, #gramslayers"
-  - username: "mrymboz"
+    hashtags: ""
+  - username: "barber_amrahov"
     fullname: >-
-      Meryem Boz Official Account
+      💈𝔅𝔄ℜ𝔅𝔈ℜ_𝔄𝔐ℜ𝔄ℌ𝔒𝔙💈
+    bio: >-
+      Qarabağ Azərbaycandır!🇦🇿❤️ Nurlan 🧔🏻 Contact number (+994)77-608-68-00
     location: "Turkey"
-    followers: 112699
-    engagement: 1575
-    commentsToLikes: 0.005983
-    id: ck8sythihly3y0j78kdvjwg5w
-    verified: true
-    hashtags: "#evdekal, #nemutlutu, #voleybol, #zehrag"
-  - username: "diemlopezx8"
-    fullname: >-
-      .SAİD YILMAZ.
-    location: "Turkey"
-    followers: 9984
-    engagement: 530
-    commentsToLikes: 0.069920
-    id: ckapb2imgybv80i789vnokj18
+    followers: 20177
+    engagement: 122
+    commentsToLikes: 0.121207
+    id: ck0tukkwj7l210i19c4aqgpbp
     verified: false
-    hashtags: "#joker, #insomniac, #kazandibi, #model"
-  - username: "selcukyilmazofficiall"
+    hashtags: "#samaxi, #vineazerbaijan, #agdash, #sumqayit"
+  - username: "_h_e_b_u_n_"
     fullname: >-
-      Selçuk YILMAZ
+      ⚫️𝐒İ𝐘𝐀𝐇 𝐒𝐀𝐊𝐀𝐋𝐋𝐈⚫️
+    bio: >-
+      🇹🇷𝐓ü𝐫𝐤𝐢𝐲𝐞 𝟕’𝐧𝐜𝐢𝐬𝐢 🇹🇷 𝐒𝐚ç 𝐤𝐞𝐬𝐢𝐦 𝐆ü𝐳𝐞𝐥𝐥𝐢𝐤 𝐮𝐳𝐦𝐚𝐧ı ◾️ℍ𝔸𝕀ℝ 𝕊ℙ𝔼ℂ𝕀𝔸𝕃𝕀𝕊𝕋◾️ 🎴𝘼ş𝙠𝙮𝙖𝙡𝙖𝙣 💔𝙎𝙚𝙫𝙙𝙖 𝙮𝙖𝙡𝙖𝙣🎴 ⚫️𝐁𝐋𝐀𝐂𝐊😎𝐀𝐃𝐀𝐌⚫️
     location: "Turkey"
-    followers: 22762
-    engagement: 1010
-    commentsToLikes: 0.028204
-    id: ck9ha0brkaols0j78cbauml4f
+    followers: 11415
+    engagement: 1203
+    commentsToLikes: 0.099619
+    id: ck9weva1qm0450j783ad0jm9c
     verified: false
-    hashtags: "#berber, #tuzla, #sakal, #selcukyilmaz"
+    hashtags: "#taksim, #kes, #hairstylist, #diyarbak"
 ---

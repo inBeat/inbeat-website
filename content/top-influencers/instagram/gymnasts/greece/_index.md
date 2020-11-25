@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Greece In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Greece in 2020. Most popular hashtags: #gymnastics #spring #summer #family.
+  Find top gymnasts Instagram influencers in Greece in 2020. Most popular hashtags: #fitness #gymnastics #fit #love.
 platform: Instagram
+hits: 18
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "ioanna_samara"
-    fullname: >-
-      IOANNA| Fitness Coach🧘🏻‍♀️🌱
-    location: "Greece"
-    followers: 35624
-    engagement: 476
-    commentsToLikes: 0.212266
-    id: ck0w2lwhmp0yy0i19s1219dwl
-    verified: false
-    hashtags: "#giveawaygreece, #onlinecourses, #athens, #relax"
   - username: "annie_pantazi"
     fullname: >-
       Annie Pantazi
+    bio: >-
+      • Olympic Champion in Rhythmic Gymnastics - Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG •#dwtsGr 💃 •#filathlitikos_kallitheas 🤸🏼‍♀️
     location: "Greece"
-    followers: 22433
-    engagement: 1671
-    commentsToLikes: 0.013092
+    followers: 24193
+    engagement: 1202
+    commentsToLikes: 0.014477
     id: ck0w1f88lj1jm0i196qqrcmuk
     verified: false
-    hashtags: "#jump, #minime, #loveyou, #lovetotravel"
+    hashtags: "#staysafe, #throwback, #motheranddaughter, #staypositive"
+  - username: "ioanna_samara"
+    fullname: >-
+      IOANNA SAMARA OLY Coach
+    bio: >-
+      #TRAINWITHOLYMPIAN - Olympian in rhythmic gymnastics Beijing 2008. Founder of @trainwitholympian_
+    location: "Greece"
+    followers: 36061
+    engagement: 321
+    commentsToLikes: 0.018030
+    id: ck0w2lwhmp0yy0i19s1219dwl
+    verified: false
+    hashtags: "#home, #livehappilly, #internationalcoffeeday, #protein"
   - username: "tzenistef"
     fullname: >-
       Jenny Stefanidou🧿
+    bio: >-
+      •Dancer •Rhythmic gymnastics trainer •Thessaloniki-Athens, Greece🇬🇷
     location: "Greece"
-    followers: 5940
-    engagement: 953
-    commentsToLikes: 0.016205
+    followers: 7687
+    engagement: 850
+    commentsToLikes: 0.014588
     id: ckapbru9z13qu0i78euzr57zl
     verified: false
-    hashtags: "#night, #acropolis, #summer, #song"
+    hashtags: "#rythmicgymnastics, #dancers, #dancing, #love"
   - username: "sofiayoga"
     fullname: >-
       Sofiaxirotyri
+    bio: >-
+      Ashtanga yoga Authorised level 2 kpjayi On Line Classes 💫Personal Classes ❣️handstand 🤸🏼‍♂️ex gymnast national team 🇬🇷 @houseofyoga.gr
     location: "Greece"
     followers: 38267
     engagement: 164
     commentsToLikes: 0.019361
     id: ck8t0h0njs16e0j78as8sjtn7
     verified: false
-    hashtags: "#natarajasana, #splits, #armbalances, #lovealliscoming"
-  - username: "vasou_lina"
+    hashtags: "#yogapractice, #igyogafamily, #bodypositivity, #fityogi"
+  - username: "imcristiano_dangelo"
     fullname: >-
-      Vasou Lina
+      CRISTIANO  D'ANGELO
+    bio: >-
+      Argentinian Model 🇦🇷 Fitness JOURNEY 🐟🐠🐚 🌏/ Currently in Athens 🇬🇷📍 👻Snapchat: Cristiano.dang 👻 The Lab Milano 🇮🇹//MMG 🇦🇪
     location: "Greece"
-    followers: 12075
-    engagement: 1539
-    commentsToLikes: 0.450800
-    id: ck5znqqvtozbs0i14uin4hjkz
+    followers: 12027
+    engagement: 608
+    commentsToLikes: 0.084621
+    id: ckaorbf62mjmx0i78e6atd3ed
     verified: false
-    hashtags: "#triponwinter, #upsidedown, #goodmorning, #newyear"
+    hashtags: "#aesthetic, #idmagazine, #fashioneditorial, #wlyg"
+  - username: "evdoxia_dm"
+    fullname: >-
+      Evdoxia Dima Xalatsi
+    bio: >-
+      🧸A mum of 2 who enjoys instablogging a lot! #fitnessaddict 🏋🏻‍♀️ @evdoxia_mua_beautyartist
+    location: "Greece"
+    followers: 46234
+    engagement: 469
+    commentsToLikes: 0.737872
+    id: ck8swmw6pekjz0j78m3ljmq79
+    verified: false
+    hashtags: "#instafit, #fitnessmom, #fitnessmotivation, #inspo"
   - username: "pavlos_terzopoulos"
     fullname: >-
       Pavlos Terzopoulos
+    bio: >-
+      ▪️Fitness Presenter 🇬🇷 🇵🇱 🇮🇹 ▪️Fitness Trainer 🏋️‍♂️🏃‍♂️ ▪️Model @new_model_agency ▪️Acun media @skaitv.gr 📺
     location: "Greece"
-    followers: 72932
-    engagement: 517
-    commentsToLikes: 0.125230
+    followers: 67116
+    engagement: 172
+    commentsToLikes: 0.027108
     id: ck5zkgdvzjfmw0i14dir6zotg
     verified: false
-    hashtags: "#giveaway, #styleinspo, #cooligan, #nofilter"
-  - username: "marina_peristera_"
+    hashtags: "#video, #stylish, #photoshooting, #l4l"
+  - username: "kseniia_kochenkova"
     fullname: >-
-      𝑀𝑎𝑟𝑖𝑛𝑎 𝑝𝑎𝑝𝑎𝑛𝑖𝑘𝑜𝑙𝑎𝑜𝑢 👡👜💋💄
+      POLE DANCE/ONLINE Handstands
+    bio: >-
+      I am Kseniia💁‍♀️ 7️⃣World pole sport athlete. Teaching at @eastcoast_studio ☀️ SIGN UP for online handstands/pole dance classes🔛🔛🔛🔛🔛🔛🔛
     location: "Greece"
-    followers: 6210
-    engagement: 1245
-    commentsToLikes: 0.328152
-    id: ck13a5yxros2n0i19scdkphq0
+    followers: 20235
+    engagement: 227
+    commentsToLikes: 0.031352
+    id: ck6udj434leek0j71skj1r5n8
     verified: false
-    hashtags: "#womanstyle, #driveseat, #work, #accesories"
-  - username: "aggelos.la"
+    hashtags: "#gymnastics, #fitness, #greece, #handstands"
+  - username: "evagelia_siriopoulou_official"
     fullname: >-
-      Αγγελος ΛΑ.
+      evagelia_siriopoulou
+    bio: >-
+      Actress / Greek National Theater Drama School. 📺”Έλα στη θέση μου” @alphatv 🎥 “Ευτυχία” @tanweer_productions
     location: "Greece"
-    followers: 10679
-    engagement: 1064
-    commentsToLikes: 0.024805
-    id: ck6u9dwx0wzos0j71m332z0ns
+    followers: 216208
+    engagement: 597
+    commentsToLikes: 0.063488
+    id: ck0w4goldyh520i199s1ssb4s
     verified: false
-    hashtags: "#aesthetic, #beastmodeon, #lifestyle, #insane"
-  - username: "georgefyntanidis"
+    hashtags: "#giveaway, #actress, #elastithesimou, #alphatv"
+  - username: "alexiazaradouka"
     fullname: >-
-      George Fyntanidis
+      Alexia Zaradouka
+    bio: >-
+      ▪️Editor/Founder www.bodyandsoul.gr ▪️Video Creator & Podcaster ▪️Beauty, Wellness & Holistic Editor/Blogger
     location: "Greece"
-    followers: 11301
-    engagement: 689
-    commentsToLikes: 0.007821
-    id: ck13afs3iq6pz0i1969kqmva3
+    followers: 36289
+    engagement: 562
+    commentsToLikes: 0.573258
+    id: ck0twck3jew3t0i19hp4vee2e
     verified: false
-    hashtags: "#yogapose, #shadow, #ring, #acropartners"
-  - username: "anastasios_ntougkas"
-    fullname: >-
-      Ντούγκας Αναστάσιος
-    location: "Greece"
-    followers: 6791
-    engagement: 662
-    commentsToLikes: 0.019858
-    id: ck5ckpqo1xdbq0i118igjn8vg
-    verified: false
-    hashtags: "#laywer, #final, #white, #professor"
+    hashtags: "#style, #beautiful, #model, #fashion"
 ---

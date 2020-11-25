@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top divers Instagram influencers in Brazil in 2020. Most popular hashtags: #fiqueemcasa # #quarentine #stayhome.
+  Find top divers Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #influencer #instagood.
 platform: Instagram
+hits: 958
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 958 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "jaixbooks"
+  - username: "olliverg1"
     fullname: >-
-      Jai | Aprendi Com os Livros 📚
+      𝐆𝐀𝐁𝐘 𝐎𝐋𝐋𝐈𝐕𝐄𝐑 ♥
+    bio: >-
+      83 🌵 @arte__avilar • Humor e Diversão 🎭 •Não assista aos STORIES ⚠️ •Venha ser um Chumbregue ⚡️ •Photographic Mode| Nature Lover ✨
     location: "Brazil"
-    followers: 9432
-    engagement: 1911
-    commentsToLikes: 0.637676
-    id: ckaoxp66pe7dw0i78phxwomru
+    followers: 6443
+    engagement: 1351
+    commentsToLikes: 0.085864
+    id: ckaovvtg06b2s0i788albkd6t
     verified: false
-    hashtags: "#jaixresenha, #osoldameianoite, #midnightsun, #annedegreengables"
-  - username: "beatrice"
+    hashtags: "#familiafeliz, #marquinha, #loucura, #bronzeada"
+  - username: "vaanruiz"
     fullname: >-
-      Beatrice Stopa
+      Van ❀
+    bio: >-
+      Model • Photograph • Diversity Be kind • Be trueッ
     location: "Brazil"
-    followers: 42625
-    engagement: 272
-    commentsToLikes: 0.198230
-    id: ck0vwf3chte2b0i19ilgilit8
+    followers: 7893
+    engagement: 993
+    commentsToLikes: 0.099117
+    id: ckaox9iascdh40i782nukti5x
     verified: false
-    hashtags: "#tbt, #mirandapriestly, #justinbieber, #abraceseupet"
-  - username: "mundodamariapaula33"
+    hashtags: "#thepurge"
+  - username: "rafavargaas"
     fullname: >-
-      MARIA PAULA COUTINHO 💓
+      RAFAELLA VARGAS
+    bio: >-
+      Bem-vindo(a)! Aqui tem conversa fiada, diversão, amor e as vezes finjo ser digital influencer 😋 🏋🏼‍♂️Team @box.esteio / 💌Parcerias via Direct
     location: "Brazil"
-    followers: 41439
-    engagement: 267
-    commentsToLikes: 1.327994
-    id: ck8t934xfmsnx0j78o79xl1vc
+    followers: 9070
+    engagement: 623
+    commentsToLikes: 0.237519
+    id: ckf5olxyf2tdc0j23w7pmqiv4
     verified: false
-    hashtags: "#instaphoto, #frio, #inverno, #maternidadereal"
-  - username: "mari_mep"
+    hashtags: "#lifestyle, #lifestyleblogger"
+  - username: "hanna.herzog"
     fullname: >-
-      Maristela
+      hanna herzog
+    bio: >-
+      📍021⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ •Moda sustentável e consumo consciente 🍃 • Design de moda🎓 • Conteúdos diversos sobre o mundo da moda
     location: "Brazil"
-    followers: 2597
-    engagement: 1992
-    commentsToLikes: 0.102503
-    id: ck8t8wlkvm48e0j78rccfe836
+    followers: 11855
+    engagement: 596
+    commentsToLikes: 0.189457
+    id: ckap28i44xuay0i78d446anln
     verified: false
-    hashtags: "#blackgirl, #instabeach, #sunset, #stayhome"
-  - username: "dea_schwarz"
+    hashtags: "#lookoftheday, #looks, #fashion, #style"
+  - username: "mairokas1"
     fullname: >-
-      Andrea Schwarz
+      Maira Cruz
+    bio: >-
+      Model: @diversus_models 👻Cutxi123 Parcerias Dm💌 Tem vídeo novo no Canal👇🏽
     location: "Brazil"
-    followers: 11970
-    engagement: 669
-    commentsToLikes: 0.104295
-    id: ck8t40p5g55he0j78swmytdwh
+    followers: 24494
+    engagement: 881
+    commentsToLikes: 0.016184
+    id: ck9wdx16ohnj40j78ne6j00jv
     verified: false
-    hashtags: "#resiliencia, #novonormal, #felicidade, #trip"
-  - username: "laucpatron"
-    fullname: >-
-      Lau Patrón
-    location: "Brazil"
-    followers: 28433
-    engagement: 614
-    commentsToLikes: 0.038537
-    id: ck5zpchavsf410i14glcuu9kp
-    verified: false
-    hashtags: ""
-  - username: "dinafernandes"
-    fullname: >-
-      Se fala dína, e não diná ✨
-    location: "Brazil"
-    followers: 15661
-    engagement: 514
-    commentsToLikes: 0.061061
-    id: ck8t0sstct68m0j78hvphh2jd
-    verified: false
-    hashtags: "#carnaval, #sambodromo, #makeupartist, #brazil"
+    hashtags: "#fashionstyle, #portugal, #blogueira, #modelo"
   - username: "claud1o_"
     fullname: >-
-      Claudio Ribeiro
+      ℂ𝕝𝕒𝕦𝕕𝕚𝕠 ℝ𝕚𝕓𝕖𝕚𝕣𝕠
+    bio: >-
+      🔥 Use-me e abuse-me! 🏊‍♀️ Carioca e escorpiano ♏️ LifeStyle, Viagens & Diversão. 🎬 Atitude é tudo! ❤️ #️⃣ #Claud1o_ @claud1o_
     location: "Brazil"
-    followers: 20491
-    engagement: 405
-    commentsToLikes: 0.061449
+    followers: 21169
+    engagement: 314
+    commentsToLikes: 0.064846
     id: ck9weu8rjluxi0j78kj1kas1z
     verified: false
-    hashtags: "#happy, #bestofday, #riodejaneiro, #tweegram"
-  - username: "paulodivulgador"
+    hashtags: "#gaydaddy, #shirtlessguys, #peludo, #gayman"
+  - username: "dinafernandes"
     fullname: >-
-      Paulo Bragança | O Divulgador
+      Dinair Fernandes
+    bio: >-
+      27| A dona do ABALO SÍSMICO 🌋 Dicas de beleza, diversão e muito amor💕 Vídeo novo no canal⤵️
     location: "Brazil"
-    followers: 62715
-    engagement: 136
-    commentsToLikes: 0.091519
-    id: ck8tcgcoazdlq0j78gnhnzudb
+    followers: 15231
+    engagement: 524
+    commentsToLikes: 0.063052
+    id: ck8t0sstct68m0j78hvphh2jd
     verified: false
-    hashtags: "#estilomasculino, #teamodivulgador, #lavanderia, #sextou"
-  - username: "princesa_sophiafranco"
+    hashtags: "#photo, #style, #make, #art"
+  - username: "layantuness"
     fullname: >-
-      Sophia Franco
+      LAY GAMA ANTUNES
+    bio: >-
+      Ba - ☀️ • Iae babies, tudo bem com vocês? 🥰 • Beleza, autoestima e diversão. 💄💃🏼 • Bacharela em Direito ⚖️ @labeautyy_
     location: "Brazil"
-    followers: 35806
-    engagement: 125
-    commentsToLikes: 0.432209
-    id: ckaosv8q4t5wd0i78om9alkgj
+    followers: 12068
+    engagement: 1773
+    commentsToLikes: 0.703220
+    id: ckaov2ayi2t8e0i78tqcnp14j
     verified: false
-    hashtags: ""
+    hashtags: "#challenge, #makeup, #reels, #modafeminina"
+  - username: "gioemanu.butzke"
+    fullname: >-
+      Giovanna e Manuella
+    bio: >-
+      Gio e Manu são irmãs e influencers ❤️ Dicas de moda, diversão, passeios, hotéis e restaurantes. Joinville - SC adm @alinebutzkesouza
+    location: "Brazil"
+    followers: 49365
+    engagement: 157
+    commentsToLikes: 0.116814
+    id: ck6tmergw7pnq0j712nr1oi5j
+    verified: false
+    hashtags: "#giofaz13, #aniversario, #bday, #bdaygirl"
+  - username: "nataliaorzari"
+    fullname: >-
+      Natália Orzari
+    bio: >-
+      🎓 Farmácia 💊 • Makes | Dicas | Diversão • 📥nataliaorzari@outlook.com 💍 @jeandias_ ❤️ 📍 Araras/SP
+    location: "Brazil"
+    followers: 6600
+    engagement: 2408
+    commentsToLikes: 0.015925
+    id: ckf5q6dj58biq0j23jmh9edp8
+    verified: false
+    hashtags: "#insta, #feed, #sol, #photography"
 ---

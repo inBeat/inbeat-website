@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Colombia In 2020
 description: >-
-  Find top christian Instagram influencers in Colombia in 2020. Most popular hashtags: #christiannodal #mexico #christian #tbt.
+  Find top christian Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #tbt #musica.
 platform: Instagram
+hits: 94
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 94 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
-  - username: "vaneperegrina"
+  - username: "christianacosta"
     fullname: >-
-      Vanessa Nieto - Escritora
+      Christian Acosta
+    bio: >-
+      Colombian-American
     location: "Colombia"
-    followers: 20482
-    engagement: 332
-    commentsToLikes: 0.056724
-    id: ckapa0su0u9jf0i78hrsu5scq
+    followers: 500022
+    engagement: 390
+    commentsToLikes: 0.029106
+    id: ck9hcq96umk400j78k47sb418
+    verified: true
+    hashtags: "#halloween, #matrix, #billboards2020, #kentucky"
+  - username: "christiancardonap"
+    fullname: >-
+      Christian Cardona
+    bio: >-
+      Fotógrafo y Director en @xpress.books Embajador @magnetmod @safe_click @photoprintcol @geekoto @slrlounge 📞(+57) 3102208364
+    location: "Colombia"
+    followers: 29187
+    engagement: 207
+    commentsToLikes: 0.025031
+    id: ck0vvnelqpw9x0i19jqgxurpu
     verified: false
-    hashtags: "#denimjacket, #felizlunes, #mujereslatinas, #portaretrato"
-  - username: "subcantante"
+    hashtags: "#cardonitas, #bodascolombia, #noviasfelices, #christiancardona"
+  - username: "mecopenhague"
     fullname: >-
-      Mario Muñoz - Doctor Krapula
+      Copenhague con subtítulos
+    bio: >-
+      Noticias, hygge y paseos Soy Fer Lago 🏡 en 🇩🇰 👩🏻‍🎓 Comunicadora Social Escribo para #revistaquid @lanacioncom y grabo podcast sobre Dinamarca 👇
     location: "Colombia"
-    followers: 120201
-    engagement: 404
-    commentsToLikes: 0.011914
-    id: ck5hnnc5lo2dk0i116u96jiof
-    verified: true
-    hashtags: "#29n, #skatex, #musica, #21e"
-  - username: "madiellara"
+    followers: 15221
+    engagement: 870
+    commentsToLikes: 0.113202
+    id: ck6tig9c90ntr0j71vwkr6fs6
+    verified: false
+    hashtags: "#copenhagendenmark, #tourism, #copenhagen, #visitdenmark"
+  - username: "danielroaart"
     fullname: >-
-      OnTheBeatBro!🇩🇴
+      Daniel Roa
+    bio: >-
+      24. Fashion Photographer 🎞 Queer Colombian 💕 They/Them ✨ New to NYC. SCAD Alumni
     location: "Colombia"
-    followers: 150935
-    engagement: 310
-    commentsToLikes: 0.038725
-    id: ck0w6rjwt9yja0i19ajz4xv1d
-    verified: true
-    hashtags: "#hope, #noparas, #creatividad, #trap"
+    followers: 5732
+    engagement: 477
+    commentsToLikes: 0.035390
+    id: ck6u6d8xkex360j71p7mvit7a
+    verified: false
+    hashtags: "#queerart, #queerfashion, #gaypride, #vintage"
   - username: "axelermaoficial"
     fullname: >-
-      Axel Lerma
+      Axel Lerma 👁
+    bio: >-
+      Contra todas las probabilidades y a pesar de todos los obstaculos.
     location: "Colombia"
-    followers: 8230
-    engagement: 3064
-    commentsToLikes: 0.010209
+    followers: 9744
+    engagement: 2450
+    commentsToLikes: 0.009337
     id: ckap3rrhd4a4w0i78niacs66l
     verified: false
-    hashtags: "#pepeaguilar, #marcamp, #love, #polemica"
-  - username: "megamusicpopular"
+    hashtags: "#leninramirez, #t3relemento, #musica, #desamores"
+  - username: "patancartoon"
     fullname: >-
-      Megamusic Popular
+      Patán
+    bio: >-
+      Con modales irreverentes! Caricaturista de opinión en @elespectador Ganador del Premio @cpbperiodistas 2019 Miembro oficial de @lacausaresiste .
     location: "Colombia"
-    followers: 63223
-    engagement: 350
-    commentsToLikes: 0.053240
-    id: ck14iujwih8890i19a7ouccnh
+    followers: 15294
+    engagement: 206
+    commentsToLikes: 0.025057
+    id: ckf5mx6wzvryc0j23r3fecpyk
     verified: false
-    hashtags: "#cupidofallo, #pepeaguilar, #revistasemana, #hijod"
-  - username: "juandaamusica"
-    fullname: >-
-      JuanDa, ¡Ay Prodigio!
-    location: "Colombia"
-    followers: 17899
-    engagement: 320
-    commentsToLikes: 0.034224
-    id: ck5zqlkdputtc0i14gnqi4r1o
-    verified: false
-    hashtags: "#sentimiento, #caballo, #regionalmexicana, #christiannodal"
+    hashtags: "#impunidad, #colombia, #nosest, #marcha"
   - username: "camposalex"
     fullname: >-
       Alex Campos
+    bio: >-
+      Ya disponible mi nuevo álbum Soldados 🔽
     location: "Colombia"
     followers: 1852925
     engagement: 80
     commentsToLikes: 0.015568
     id: ck5pwq84yo1ti0i11n5r0lhce
     verified: true
-    hashtags: "#altarfamiliar, #instalive, #hogar, #repost"
+    hashtags: "#soldados, #reydereyes, #diosesfiel, #familia"
+  - username: "elcamus"
+    fullname: >-
+      Camus García Caballero
+    bio: >-
+      📍Barranquilla , Atlántico #CambiandoVidas🇨🇴 🌍♻️ 🛩🇨🇴: @vivaairco
+    location: "Colombia"
+    followers: 271884
+    engagement: 926
+    commentsToLikes: 0.031758
+    id: ck0w2v5uzqbg70i193a85gbjb
+    verified: false
+    hashtags: "#experienciasvividas, #salejunior, #cambiandovidas, #saz"
   - username: "soyjorgebernal"
     fullname: >-
       Jorge Bernal
+    bio: >-
+      Creador de contenido digital 🎥 📍Bogotá, Colombia. 👑 | Hijo de Dios. 💖 | Likee @soyjorgebernal (+1M). 🎭 | TikTok @soyjorgebernal (+210K). #bernales🚀
     location: "Colombia"
-    followers: 7099
-    engagement: 1763
-    commentsToLikes: 0.180423
+    followers: 7066
+    engagement: 1301
+    commentsToLikes: 0.136280
     id: ck9hcvq9an61y0j78ktzkrs7w
     verified: false
-    hashtags: "#happybirthday, #mejoresamigos, #like, #tbt"
-  - username: "leidygomez063"
-    fullname: >-
-      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
-    location: "Colombia"
-    followers: 254897
-    engagement: 456
-    commentsToLikes: 0.131269
-    id: ck8t0qyfwsytv0j7846clzuqm
-    verified: false
-    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
+    hashtags: "#jorgebernal, #photooftheday, #feliza, #tb"
   - username: "tousyaiselle"
     fullname: >-
       Yaiselle Tous
+    bio: >-
+      Srta. Colombia Supranacional'19 🇨🇴 Psicóloga, Modelo.
     location: "Colombia"
-    followers: 23832
-    engagement: 950
-    commentsToLikes: 0.021722
+    followers: 22796
+    engagement: 778
+    commentsToLikes: 0.026725
     id: ck5q3iv5fkxxc0i11wcfsp0h4
     verified: false
-    hashtags: "#silesianvoivodeship"
+    hashtags: "#challengeaccepted, #tbt, #yosoycnb"
 ---

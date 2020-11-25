@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Canada In 2020
 description: >-
-  Find top cooking TikTok influencers in Canada in 2020. Most popular hashtags: #pancakecereal #victoriaday #poseathome #momsoftiktok.
+  Find top cooking TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #cooking #vegan #duet.
 platform: TikTok
+hits: 350
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 350 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "kendrassparklylife"
+  - username: "okaychef"
     fullname: >-
-      Kendra's Sparkly Lif
+      Nathan Jones
+    bio: >-
+      34🏳️‍🌈🇨🇦He/Him 20yr career chef sharing what I know Cooking & D&D Links👇🏻
     location: "Canada"
-    followers: 42324
-    engagement: 2004
-    commentsToLikes: 0.051130
-    id: ck9k8hr7991gi0j78jkehideu
+    followers: 55300
+    engagement: 1661
+    commentsToLikes: 0.051315
+    id: ckb0htvff9dho0j2388r3igv9
     verified: false
-    hashtags: "#gifted, #paint, #randomthings, #justforfun"
-  - username: "thiicmikey"
+    hashtags: "#tabletopgames, #stitch, #chef, #dungeonsanddragons"
+  - username: "doseofsiyam"
     fullname: >-
-      Mikey Ngo
+      𝐒 𝐈 𝐘 𝐀 𝐌 🖤
+    bio: >-
+      🇨🇦💓🇵🇰 Yes i do the cooking, yes i do the cleaning😔✌🏼
     location: "Canada"
-    followers: 47210
-    engagement: 2441
-    commentsToLikes: 0.053976
-    id: ck9k8itaq99ah0j78a18q0bxj
+    followers: 5158
+    engagement: 1467
+    commentsToLikes: 0.095398
+    id: ck8vy3opvt3rh0j78s5tu337y
     verified: false
-    hashtags: "#beautyhaul, #korean, #jumpman, #single"
+    hashtags: "#desi, #fyp, #duet, #vogue"
   - username: "findbex"
     fullname: >-
       Bex 
+    bio: >-
+      Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
     location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
+    followers: 38500
+    engagement: 1636
+    commentsToLikes: 0.028580
     id: ck961zc8romyz0j78v1axqnn5
     verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "the_eugefood"
+    hashtags: "#plasticfreejuly, #recipe, #foodblogger, #explorebclocal"
+  - username: "w2sixpackchef"
     fullname: >-
-      The Euge food
+      Wallace W
+    bio: >-
+      Food|Fitness|Life RECIPES:IG @w2sixpackchef COOKING EBOOK:www.sixpackchef.com
     location: "Canada"
-    followers: 86613
-    engagement: 891
-    commentsToLikes: 0.021258
-    id: ck9fx0y77477h0j78boxupuuz
+    followers: 456800
+    engagement: 1255
+    commentsToLikes: 0.022649
+    id: ck806ysqxn5xz0j780zu0q8u9
     verified: false
-    hashtags: "#normalpeople, #spatula, #aftermycoffee, #mixologist"
-  - username: "taylorhdn"
+    hashtags: "#satisfying, #asmr, #foodreview, #cooking"
+  - username: "keith_pears"
     fullname: >-
-      tae tae
+      KP
+    bio: >-
+      Daily cooking tips, hacks and satisfying food videos IG @keith_pears
     location: "Canada"
-    followers: 64222
-    engagement: 2815
-    commentsToLikes: 0.051633
-    id: ck961z6k7olpz0j784lr64d5b
+    followers: 9131
+    engagement: 304
+    commentsToLikes: 0.057530
+    id: ckd0b7nd6c9450j237o6atdj8
     verified: false
-    hashtags: "#taylorswift, #littlethings, #soundcloud, #tiktoker"
-  - username: "latenightweeb"
+    hashtags: "#favoriterecipe, #summervibes, #fypage, #satisfyingvideo"
+  - username: "ssscuisine"
     fullname: >-
-      ✨ Spirit Detective ✨
+      sirene
+    bio: >-
+      ➡️ @ssscuisine for recipes 👩‍⚕️🩺 Med student cooking in between exams
     location: "Canada"
-    followers: 64578
-    engagement: 2343
-    commentsToLikes: 0.045553
-    id: ck8kg1xq4gn8o0j78a9vsqzgh
+    followers: 14000
+    engagement: 780
+    commentsToLikes: 0.035963
+    id: ckdncq9a9gq7i0j23s1gm6m76
     verified: false
-    hashtags: "#atla, #fanart, #pokemon, #pikachu"
-  - username: "aadya..m"
+    hashtags: "#cooking, #yum, #middleeastern, #yummy"
+  - username: "charlesdesantis"
     fullname: >-
-      🗣 (aaa-dee-yaa)
+      Charlesdesantis
+    bio: >-
+      On aime bin ça les smoothies 🥥 #vegan cooking 🧑‍🍳
     location: "Canada"
-    followers: 3957
-    engagement: 2248
-    commentsToLikes: 0.129099
-    id: ck90ykjuoanaz0j783lyrqa4q
+    followers: 18000
+    engagement: 707
+    commentsToLikes: 0.029185
+    id: ckd06a2w1a69x0j23jf7kdr8j
     verified: false
-    hashtags: "#howsmyform, #mycrib, #quarantine, #greenvspurple"
-  - username: "pnbrock_official"
+    hashtags: "#smoothiebowl, #quebec, #foodtruck, #smoothiebowls"
+  - username: "www.pressurecooker.com"
     fullname: >-
-      Pnb Rock
+      check ur porch
+    bio: >-
+      meanies are weenies, later haters. 🇨🇦17🇵🇰 she/her
     location: "Canada"
-    followers: 76818
-    engagement: 1873
-    commentsToLikes: 0.044875
-    id: ck8070zplnrue0j78g88hut1s
+    followers: 4560
+    engagement: 2052
+    commentsToLikes: 0.080252
+    id: ckb9gp1s662uh0j23s2ziyq4a
     verified: false
-    hashtags: "#popsmoke, #fypge, #pancakecereal, #ynwmelly"
-  - username: "goblin.teeth"
+    hashtags: "#progamer, #greenscreen, #xyzcba, #duet"
+  - username: "greatgifts"
     fullname: >-
-      thomas??
+      🎁 GreatGifts
+    bio: >-
+      our friend @RosesAreRez makes cute resin art ⤵️
     location: "Canada"
-    followers: 6569
-    engagement: 3256
-    commentsToLikes: 0.047607
-    id: ck9rgyn9od4510j78tleewwuf
+    followers: 185200
+    engagement: 2000
+    commentsToLikes: 0.040940
+    id: ck81s6jcqqcox0j788qtgxokj
     verified: false
-    hashtags: "#duet, #hehimlesbian, #tiktokrestarea, #inthegarden"
-  - username: "that_smol_boy"
+    hashtags: "#stayathome, #sidehustle, #happyeaster, #wipeitdown"
+  - username: "realcody"
     fullname: >-
-      Happy piggy
+      Cody Turner
+    bio: >-
+      You look lost, follow me:) Dm for promo Sub 2 Nate ⬇️
     location: "Canada"
-    followers: 17757
-    engagement: 3215
-    commentsToLikes: 0.041461
-    id: ck8qix9f0avg10j78gop71une
+    followers: 32600
+    engagement: 1519
+    commentsToLikes: 0.053160
+    id: ckb9heju973zv0j23vgqrj1a6
     verified: false
-    hashtags: "#theaterkid, #learnontiktok, #mamamia, #transgendermtf"
+    hashtags: "#salmon, #cooking, #salmonfishing, #metime"
 ---

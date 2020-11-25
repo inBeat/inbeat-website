@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In France In 2020
 description: >-
-  Find top crossfit Instagram influencers in France in 2020. Most popular hashtags: #monday #kettlebell #coronavirus #sunday.
+  Find top crossfit Instagram influencers in France in 2020. Most popular hashtags: #fitness #crossfit #fit #motivation.
 platform: Instagram
+hits: 182
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 182 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "elissa_charavia"
     fullname: >-
       𝓔𝓵𝓲𝓼𝓼𝓪 𝓒𝓱𝓪𝓻𝓪𝓿𝓲𝓪
+    bio: >-
+      📍🇫🇷 - Fʀᴇ́ᴊᴜs • Gᴏᴏᴅ Vɪʙᴇs Oɴʟʏ • @crossfitgrimaud @pierre.rouxx ❤︎︎ @esc_sounds @unchained_fr @ardor_progress @noccofrance @barebellsfrance
     location: "France"
-    followers: 18286
-    engagement: 1479
-    commentsToLikes: 0.048575
+    followers: 36362
+    engagement: 1471
+    commentsToLikes: 0.024320
     id: ck0ub1blldh6b0i19znrhsv8d
     verified: false
-    hashtags: "#giving, #goodmorning, #handstand, #friend"
-  - username: "bidouille24"
+    hashtags: "#girl, #gym, #best, #goodvibes"
+  - username: "naokisqueen"
     fullname: >-
-      Marion 🇫🇷 🏋🏼‍♀️ 👊🏻 #fitness
+      He is Queen 🏳️‍🌈
+    bio: >-
+      18 Years Old Little Boy From Countryside Now live in Clermont Ferrand 🇫🇷 Crossfit Life ✨ He/Him
     location: "France"
-    followers: 42407
-    engagement: 326
-    commentsToLikes: 0.071363
-    id: ckap2ue1s0d340i78g2c6j9yf
-    verified: false
-    hashtags: "#curlyhair, #goodtimes, #marseille, #likeit"
-  - username: "naokmondor"
-    fullname: >-
-      N A O K | Modeling Passion 📸
-    location: "France"
-    followers: 4008
-    engagement: 2400
-    commentsToLikes: 0.077548
+    followers: 4847
+    engagement: 2802
+    commentsToLikes: 0.053397
     id: ck14kvxpjrl000i19xred3q9y
     verified: false
-    hashtags: "#gaze"
-  - username: "peerezjustine"
+    hashtags: "#nipplesfree, #gaze, #goldenhour, #coquinou"
+  - username: "sufontes"
     fullname: >-
-      Justine Perez ✨
+      💕 Su 💕
+    bio: >-
+      45y 💪 Ducati Diavel Crossfit Addicted @eunutrition_pt 15% SUFONTES15 @cascarija 10% SUFONTES10 @maisvoce_cabeleireiros 15% SUFONTES15 @nexxhelmets
     location: "France"
-    followers: 6742
-    engagement: 1110
-    commentsToLikes: 0.080236
-    id: ck134dwmhvyxl0i199a16bs3m
+    followers: 29714
+    engagement: 607
+    commentsToLikes: 0.073564
+    id: ck14i1ox8d84m0i19ztlsj9ap
     verified: false
-    hashtags: "#monday, #transformation, #light, #amiens"
+    hashtags: "#rider, #crossfitportugal, #ducatidiavel, #muscle"
+  - username: "pamthorburn"
+    fullname: >-
+      Pam Thorburn
+    bio: >-
+      • Ski Cross/ Freeride • British Champion • Athlete/ Coach • Crossfit L2 • 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇳🇱 Nocco Head Ski Ellis Brigham Rocktape
+    location: "France"
+    followers: 6306
+    engagement: 922
+    commentsToLikes: 0.056116
+    id: ck5hf6be5w02h0i11fqlrgth2
+    verified: false
+    hashtags: "#extremepaddleboarding, #portugal, #iamasweatybetty, #worldanimalday"
   - username: "m_coaching"
     fullname: >-
       Emeric D’azevedo 🏋️
+    bio: >-
+      Emeric D’azevedo🇫🇷/ 28 ans 🏋️coach sportif Marié 💍 et Papa👶🏼 Coaching :💥Message privé💥 Passion:fitness,crossfit🏋️
     location: "France"
-    followers: 5616
-    engagement: 616
-    commentsToLikes: 0.134399
+    followers: 5387
+    engagement: 594
+    commentsToLikes: 0.109082
     id: ck9wou1zd6lny0j78mzxv4uy7
     verified: false
-    hashtags: "#frenchfitboy, #bebe, #mariage, #sebfitt"
+    hashtags: "#training, #french, #crossfit, #workout"
+  - username: "jessicaavetter"
+    fullname: >-
+      Jessica Vetter
+    bio: >-
+      📍🇫🇷 www.jessicavetter.fr CrossFit, Gymnastique, Fitness Programmation @extragymprogram @wodabox @compexfrance @noccofrance
+    location: "France"
+    followers: 74442
+    engagement: 394
+    commentsToLikes: 0.054161
+    id: ck6tvc7f9lehx0j71ai1hptcq
+    verified: false
+    hashtags: "#forcesspeciales, #fitness, #france, #crossfit"
+  - username: "peerezjustine"
+    fullname: >-
+      Justine Perez ✨
+    bio: >-
+      🇫🇷 | Paris 🏋🏻‍♀️ | Crossfit 💪🏼 | Team #GoSportCrew ♡ 🌸 | PR & Influence @agencetrendsparis ———— 💌 peerezjustine@gmail.com
+    location: "France"
+    followers: 8596
+    engagement: 914
+    commentsToLikes: 0.064738
+    id: ck134dwmhvyxl0i199a16bs3m
+    verified: false
+    hashtags: "#light, #yogagirl, #chill, #ajaccio"
   - username: "anaisgrangerac"
     fullname: >-
       Anaïs Grangerac
+    bio: >-
+      📺 [] Animatrice TF1 / TV Host sur @tf1 @tfxtv 🏋️‍♀️ [] Crossfit 💪 🍽 [] Épicurienne ❤ ⌨ [] Mail : anaisgrangeracpro@gmail.com 🔎 [] Facebook
     location: "France"
-    followers: 21731
-    engagement: 618
-    commentsToLikes: 0.041156
+    followers: 27171
+    engagement: 662
+    commentsToLikes: 0.027948
     id: ck55n4gek5ghw0i11x7i0tixb
     verified: true
-    hashtags: "#photoshoot, #fridayoutfit, #winebox, #orangeoutfit"
-  - username: "sse_jay"
+    hashtags: "#greeneyes, #fdj, #healthyfood, #bienmanger"
+  - username: "axellebonnemaisonoff"
     fullname: >-
-      Sanki Jessica
+      Axelle Bonnemaison
+    bio: >-
+      | Founder @axelle_bonnemaison_brand | | Model 🇫🇷 | | Training @elevate_premium_chartrons & @crossfit_chartrons_by_elevate |
     location: "France"
-    followers: 22807
-    engagement: 240
-    commentsToLikes: 0.046900
-    id: ck0w1djh2itph0i19w687380c
+    followers: 11296
+    engagement: 527
+    commentsToLikes: 0.044755
+    id: ck6u08euce79y0j71iylvgspe
     verified: false
-    hashtags: "#grow, #freskincare, #process, #peace"
-  - username: "jordi_amarillys"
-    fullname: >-
-      Jørði Rōggìó
-    location: "France"
-    followers: 10579
-    engagement: 610
-    commentsToLikes: 0.031621
-    id: ck6u6rz3hhddm0j71kmm2ji6z
-    verified: false
-    hashtags: "#tuesday, #tattooflower, #home, #happylife"
-  - username: "audreysermadiras"
-    fullname: >-
-      𝒜𝓊𝒹𝓇𝑒𝓎 𝒮𝑒𝓇𝓂𝒶𝒹𝒾𝓇𝒶𝓈
-    location: "France"
-    followers: 12356
-    engagement: 917
-    commentsToLikes: 0.012929
-    id: ck8t9t3j4p9cb0j78b2d3sm42
-    verified: false
-    hashtags: "#savagebarbell"
+    hashtags: "#anglet, #blueeyes, #women, #luxurylifestyle"
   - username: "roxanebust"
     fullname: >-
-      Roxane Bfit Xaan.B
+      Roxane Bfit
+    bio: >-
+      Madame Burpees CrossFit Level 1 Trainer Lyon 📍 @womensbest.fr Athlete ℂ𝕠𝕕𝕖𝕤 𝕡𝕣𝕠𝕞𝕠 𝕖𝕥 𝕝𝕚𝕖𝕟𝕤 ⤵️
     location: "France"
-    followers: 141036
-    engagement: 152
-    commentsToLikes: 0.020208
+    followers: 137380
+    engagement: 153
+    commentsToLikes: 0.024529
     id: ckap236fbx6g70i7863a9n3ln
     verified: false
-    hashtags: "#teamxaanb, #fridaynight, #chezsoi"
+    hashtags: "#fitness, #fit, #crossfitfrance, #motivation"
 ---

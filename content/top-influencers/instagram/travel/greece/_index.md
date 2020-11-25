@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Greece In 2020
 description: >-
-  Find top travel Instagram influencers in Greece in 2020. Most popular hashtags: #throwback #summer #igers #hellomay.
+  Find top travel Instagram influencers in Greece in 2020. Most popular hashtags: #ig #greece #visitgreece #cyclades.
 platform: Instagram
+hits: 696
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 696 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "athinaaki"
+  - username: "dimi_ven"
     fullname: >-
-      * A T H I N A *
+      ᗪƖᗰƖƬᖇᗩ ᐯƐᑎOᑌ
+    bio: >-
+      🎯 Can’t get enough of travelling style and beauty 🎯 Always dreaming of my next trip! 💏 Married Work📍Save📍Travel📍Repeat
     location: "Greece"
-    followers: 5564
-    engagement: 2252
-    commentsToLikes: 0.173525
-    id: ck8t7icltgwzz0j78q4x5t7fr
+    followers: 8876
+    engagement: 1805
+    commentsToLikes: 0.086963
+    id: ck15plt36yisn0i19f03tk3q1
     verified: false
-    hashtags: "#nycviews, #perfect, #baliliving, #ilovegreece"
-  - username: "tasosdousis"
-    fullname: >-
-      Tasos Dousis
-    location: "Greece"
-    followers: 63977
-    engagement: 1388
-    commentsToLikes: 0.373283
-    id: ck5hcdoulhiwd0i11c8ao5hs1
-    verified: false
-    hashtags: "#merrychristmas, #kalyteroskosmos, #renaultgreece, #menoumespiti"
+    hashtags: "#beautifulmatters, #thetravelwomen, #scotland, #darlingescapes"
   - username: "travelen.eu"
     fullname: >-
       Elena & Nikos-Travelen
+    bio: >-
+      ✈ Let’s get lost for travel’s shake! ♥ #greektravelcouple ⌲ Adventure seekers 📍#thessaloniki #menoumeellada ✎ info@travelen.eu ↡Let us inspire you↡
     location: "Greece"
-    followers: 26721
-    engagement: 672
-    commentsToLikes: 0.208466
+    followers: 30015
+    engagement: 1551
+    commentsToLikes: 1.025775
     id: ck0tvlgbybv5t0i191r1kf0il
     verified: false
-    hashtags: "#happymonday, #welcomespring, #livethemoment, #topspainphoto"
-  - username: "delidemie"
+    hashtags: "#visitnisyros, #enstories, #travelen, #greekislands"
+  - username: "_maralu_"
     fullname: >-
-      🌺 𝓓𝓮𝓶𝓲𝓮 🌺
+      ოa͏r1a͏nтonιou
+    bio: >-
+      եհҽ bҽsե եհíղց ɑbօմե ʍҽʍօɾíҽs ís ʍɑƙíղց եհҽʍ ▪︎Dreamer 💫 ▪︎Kindergarten teacher-Special educatior ▪︎Volunteering,theater,travel ▪︎Sifnos-Kaloskopi♡
     location: "Greece"
-    followers: 19461
-    engagement: 1630
-    commentsToLikes: 1.300202
-    id: ck5q3zyd2n4jv0i11da39iend
+    followers: 6064
+    engagement: 1520
+    commentsToLikes: 0.132907
+    id: ckap38heg1zqz0i78rmoz4eca
     verified: false
-    hashtags: "#lipscrub, #sneakers, #realitytv, #handmade"
-  - username: "ftbletsas"
+    hashtags: "#greecestagram, #sifnosisland, #portrait, #summer2020"
+  - username: "sissychristidou"
     fullname: >-
-      Ευτύχης Μπλέτσας
+      Sissy
+    bio: >-
+      • Mother of Dragons • Travel Addict • Digital Content Creator • TV hostess @ela_xamogela @opentvgr • Youtuber #Megalokanalo Latest Video👇🏻
     location: "Greece"
-    followers: 165045
-    engagement: 744
-    commentsToLikes: 0.021426
-    id: ck5zmitrfmnga0i14wittnlwk
+    followers: 862140
+    engagement: 872
+    commentsToLikes: 0.399906
+    id: ck0w1rw69ktop0i19hef4fpwj
     verified: true
-    hashtags: "#womansday, #kouzinatiskarantinas, #kouzina, #travelfromhome"
-  - username: "zoevassileiou"
+    hashtags: "#nameday, #youtube, #menoumespiti, #round2"
+  - username: "melwanders"
     fullname: >-
-      Zoi Vasileiou
+      Melissa El Hachem | Lebanon
+    bio: >-
+      ✈️ i travel & i write 💫 inspiring the wanderer in you and helping you plan your next trip ⬇️ adventure & travel guides
     location: "Greece"
-    followers: 127819
-    engagement: 332
-    commentsToLikes: 1.084230
-    id: ck8tdo1is442u0j788sk3slkp
+    followers: 11038
+    engagement: 1229
+    commentsToLikes: 0.079399
+    id: ck5cc41t7gohq0i11gsr9lm5x
     verified: false
-    hashtags: "#setup, #blush, #summervibes, #makeup"
-  - username: "antonis_kanaris"
+    hashtags: ""
+  - username: "gs.travel"
     fullname: >-
-      Antonis Kanaris
+      George & Melina 🇨🇾
+    bio: >-
+      We travel because YOLO! 🇨🇾🇬🇷🇬🇧🇫🇷🇩🇪🇪🇸🇮🇸🇳🇴🇳🇱🇸🇪🇫🇮🇩🇰🇦🇹🇨🇭🇲🇰🇮🇹🇻🇦🇭🇺🇵🇱🇷🇸🇹🇳🇮🇱🇸🇬🇸🇲🇱🇺🇪🇬🇺🇸🇧🇸🇰🇾🇯🇲🇲🇽🇧🇭🇹🇭🇯🇵🇧🇪🇨🇿🇨🇳🇭🇰🇲🇴🇦🇪🇵🇹🇹🇩🇻🇳🇰🇭🇲🇹
     location: "Greece"
-    followers: 8087
-    engagement: 859
-    commentsToLikes: 0.079321
-    id: ck5pvivxdi3gq0i115pydr8k0
+    followers: 20082
+    engagement: 1418
+    commentsToLikes: 0.053147
+    id: ck0vx3or6wzd10i19d275c4ah
     verified: false
-    hashtags: "#lifestyle, #roofrestaurant, #bars, #ermou"
-  - username: "stylemeligan"
+    hashtags: "#iosgreece, #athensvoice, #creativetravelcouples, #couplesgoalsmotivation"
+  - username: "marius.ad.libitum"
     fullname: >-
-      Stella Meligan
+      mαrios · greece
+    bio: >-
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
     location: "Greece"
-    followers: 37090
-    engagement: 342
-    commentsToLikes: 0.095727
-    id: ck8t2ccxkyy1z0j78ufah2oyb
+    followers: 16415
+    engagement: 1122
+    commentsToLikes: 0.058088
+    id: ck6u8k7vss2kn0j71olij1n19
     verified: false
-    hashtags: "#homesituation, #hm, #enyoofficial, #thinkposotive"
-  - username: "oannapopa_"
+    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
+  - username: "petite.anh"
     fullname: >-
-      Oanna Fashion Simbol
+      Anh| Glomad at heart
+    bio: >-
+      A collection of travel experience Capturing moments of chasing lights & colors 📍Born in Vietnam, living in Finland 🌍 20+ countries 📷 Sony A7iii
     location: "Greece"
-    followers: 45942
-    engagement: 322
-    commentsToLikes: 0.264299
-    id: ck55p8unwa2290i11tbfvp2ab
+    followers: 4123
+    engagement: 1794
+    commentsToLikes: 0.204777
+    id: ck0tvfwi0b6e60i19ms8212q3
     verified: false
-    hashtags: "#sunnygreece, #likestyle, #paintart, #sansalsstyle"
-  - username: "official_mariospriamos"
+    hashtags: "#theglobewanderers, #speechlessplaces, #dametraveler, #goturkey"
+  - username: "tania_kofinioti"
     fullname: >-
-      Marios  Priamos
+      Tania_kofinioti
+    bio: >-
+      @grmystylerocks 👗MISS ELEGANCE INTERNATIONAL 💃WORLD BEAUTY QUEEN 👑STAR GS HELLAS ✌🏼MISS WORLD PEACE 👸🏼MISS TOURISM-PERSONALITY 🌎Live Travel with style
     location: "Greece"
-    followers: 172680
-    engagement: 287
-    commentsToLikes: 0.060467
-    id: ck5zmdv5ume2m0i14oi5nqogx
-    verified: true
-    hashtags: "#photooftheday, #travel, #shooting, #myepic"
+    followers: 23522
+    engagement: 567
+    commentsToLikes: 0.835816
+    id: ckap50cru9mc00i78ps1a43xw
+    verified: false
+    hashtags: "#giveawaygr, #stayathome, #mystylerocks, #palette"
+  - username: "giorgosgiol"
+    fullname: >-
+      Giorgos Gioltzoglou
+    bio: >-
+      ▫ⓛⓘⓥⓔ ⓨⓞⓤⓡ ⓓⓡⓔⓐⓜⓢ▫ 🏠 SKG, GREECE 〄 🌍 Travel✈collecт мoмenтѕ noт тнιngѕ✈ 📷 Photography 📬 giorgosgioltzogloy@gmail.com
+    location: "Greece"
+    followers: 13459
+    engagement: 1699
+    commentsToLikes: 0.042535
+    id: ck5pvh8lvhvg70i11ekbyxbw4
+    verified: false
+    hashtags: "#greece, #cyclades, #greekislands, #tlpics"
 ---

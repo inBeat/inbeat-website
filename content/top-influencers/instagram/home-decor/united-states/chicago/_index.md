@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Chicago In 2020
 description: >-
-  Find top home decor Instagram influencers in Chicago in 2020. Most popular hashtags: #homedecor #quarantine #ootd #ltkunder100.
+  Find top home decor Instagram influencers in Chicago in 2020. Most popular hashtags: #homedecor #chicagoblogger #chicago #selflove.
 platform: Instagram
+hits: 62
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 62 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "bubbly.moments"
+  - username: "clheekz"
     fullname: >-
-      Dr. Emilia Taneva | Chicago
+      CHRISTINE SIENICKI
+    bio: >-
+      📍ɴᴇᴡ ʏᴏʀᴋ ɴᴇᴡ ʏᴏʀᴋ 📞 @lakeywolffco ⭐️ @bmg.models 💃🏻 DANCER мσđєℓᴬᶜᵀᴼᴿ ✈️ｔｒａｖｅｌｅｒ 🍔 ᖴOOᗪIE 🏂 🅰🅳🆁🅴🅽🅰🅻🅸🅽🅴յմηƘίε 🌎 | 🐶 @idontgiveafluff
     location: "United States"
-    followers: 617596
-    engagement: 25
-    commentsToLikes: 0.053006
-    id: ck0w1ox3tkern0i19kpmz6lau
+    followers: 6123
+    engagement: 843
+    commentsToLikes: 0.078931
+    id: ck8t0lcs6sgdh0j78c22ynv4q
     verified: false
-    hashtags: "#influencer, #beautiful, #flattenthecurve, #8monthsold"
-  - username: "el_chimu"
+    hashtags: "#newyorkcity, #socialdistancing, #dancers, #throwback"
+  - username: "marc.benja"
     fullname: >-
-      Chimu Grigio
+      Marc Benja
+    bio: >-
+      Chicago artist 🌈 Owner/curator of @fluffycrimes. 2020 Bridge Program @hydeparkartcenter. Please click:
     location: "United States"
-    followers: 18479
-    engagement: 409
-    commentsToLikes: 0.023674
-    id: ck5cihea8snho0i11fiaob0y3
+    followers: 4577
+    engagement: 1845
+    commentsToLikes: 0.100140
+    id: ckap8ueoxpxlv0i78mchovhkg
     verified: false
-    hashtags: "#ceremony, #chicago, #artsy, #cuteanimals"
-  - username: "elegantlyellery"
+    hashtags: "#emergingartist, #arteabstracto, #wip, #abstractart"
+  - username: "sdamiani"
     fullname: >-
-      Ellery Rogers
+      Sveta 🌿 Chicago, IL
+    bio: >-
+      • travel + lifestyle • photographer/ smm • sveta.damiani@gmail.com
     location: "United States"
-    followers: 10557
-    engagement: 685
-    commentsToLikes: 0.474602
-    id: ck0twacaselzz0i19hhiyp02s
+    followers: 97053
+    engagement: 366
+    commentsToLikes: 0.034452
+    id: ck0ucguuugr200i19u7r0o8pr
     verified: false
-    hashtags: "#tiedyeshirt, #jewelryaddict, #loungeset, #cocktailrecipes"
-  - username: "summerthorntondesign"
+    hashtags: "#wheretofindme, #interiorinspo, #sdamiani, #postcardplaces"
+  - username: "melroi_mama"
     fullname: >-
-      Summer Thornton
+      Melissa R | Mom | DIY ♡
+    bio: >-
+      ⋒ Boy mom² & Wife ⋒ 📍Chicago 》》 @melroi_store - baby | kids shop《《
     location: "United States"
-    followers: 75432
-    engagement: 145
-    commentsToLikes: 0.031696
-    id: ck0w0d321dkug0i19q37gbsst
+    followers: 20148
+    engagement: 422
+    commentsToLikes: 0.058002
+    id: ck6ugp7dc4c580j71lk1htyoh
     verified: false
-    hashtags: "#flowers, #dreams, #barcabinet, #livingroomgoals"
-  - username: "design.playbook"
+    hashtags: "#instababy, #cutekids, #mom, #ad"
+  - username: "lantzcollective"
     fullname: >-
-      Sanda | DIY Home Updates
+      Interior Design
+    bio: >-
+      Interior Design Nationwide | Art | Lifestyle Shop A Lantz Design | Barry Lantz Art Shop Monday-Saturday 10-5 www.barrylantzart.com
     location: "United States"
-    followers: 2613
-    engagement: 1902
-    commentsToLikes: 0.095662
-    id: ckap8si94pop00i78q5s34kxt
+    followers: 9738
+    engagement: 166
+    commentsToLikes: 0.018452
+    id: ck0txcyguisgo0i197013xe5w
     verified: false
-    hashtags: "#chicagotribune, #makeyourselfathome, #quarantineprojects, #theeverygirlathome"
-  - username: "ahintofglameveryday"
+    hashtags: "#zionsvilleindiana, #meridianhills, #tgif, #travelandleisure"
+  - username: "aesthetiica"
     fullname: >-
-      Naomi | A Hint Of Glam Blog
+      ᴀʟɪᴄɪᴀ ғɪᴇʀʀᴏ // ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ
+    bio: >-
+      ᴄʜɪᴄᴀɢᴏ⚡️ʟᴀ⚡️ɴʏᴄ ✈️ @southwestair sᴛᴏʀʏᴛᴇʟʟᴇʀ 🎨 ᴘʀᴇsᴇᴛs: @aesthetiica.collective ⌲ ʙᴇʟɪᴇᴠᴇʀ, ᴛʀᴀᴠᴇʟɪɴɢ ʜᴇᴀʀᴛ, #ᴄᴀᴛᴍᴏᴍ
     location: "United States"
-    followers: 56589
-    engagement: 120
-    commentsToLikes: 0.123526
-    id: ck13cu6rd26h70i198kb0g5zj
+    followers: 28111
+    engagement: 549
+    commentsToLikes: 0.035128
+    id: ck0ttmfdo3cgj0i198x0pi3i1
     verified: false
-    hashtags: "#styleblogging, #homedecor, #jacketstyle, #tanktops"
-  - username: "dresswelltraveloften_"
+    hashtags: "#oliviarink, #visitmontana, #chicagophotographer, #shewhowanders"
+  - username: "mimosasandlipstick_"
     fullname: >-
-      Yasmina Chalhoub | DWTO Blog
+      Hannah May
+    bio: >-
+      • a northern girl who says y’all • 📍Chicago #lifestyleblogger 💌 mimosasandlipstick@gmail.com 🥂check out the blog!
     location: "United States"
-    followers: 34341
-    engagement: 99
-    commentsToLikes: 0.063842
-    id: ck0u8smrr87wu0i198vyt3hib
+    followers: 10262
+    engagement: 738
+    commentsToLikes: 0.411222
+    id: ckaozvjzonldu0i78ga9eajsf
     verified: false
-    hashtags: "#barcartstyling, #basic, #ltkunder100, #xoxogossipgirl"
-  - username: "emmierosenblum"
+    hashtags: "#thebachelorette, #distressedjeans, #chicagoblogger, #graphictee"
+  - username: "angelladow"
     fullname: >-
-      Emmie
+      Angella Dow
+    bio: >-
+      📍Chicago ✈️ Traveler, 🛋 Home Decor, 🎨 DIY, 🥗 Food, 🚀 Geek Girl, 🧗‍♀️Hiker, 💍 planning my wedding 👰
     location: "United States"
-    followers: 18901
-    engagement: 312
-    commentsToLikes: 0.171102
-    id: ck5cishuntaci0i117n2a9el5
+    followers: 2498
+    engagement: 1643
+    commentsToLikes: 0.054612
+    id: ck1373gk89kur0i19enwq74g9
     verified: false
-    hashtags: "#fallfashion, #momof3, #sorrynotsorry, #winter"
-  - username: "roxie_cepeda"
+    hashtags: ""
+  - username: "ashleyxixiv"
     fullname: >-
-      Roxy Cepeda
+      Ashley peters
+    bio: >-
+      ⋒motherhood through my lens ⋒tips on living a nontoxic lifestyle
     location: "United States"
-    followers: 8665
-    engagement: 621
-    commentsToLikes: 0.281410
-    id: ck6tj3mst1xyz0j714pztvbec
+    followers: 24897
+    engagement: 258
+    commentsToLikes: 0.127635
+    id: ck5zu35h21lg00i14va8wxxgc
     verified: false
-    hashtags: "#chocolateeggs, #home, #staysafe, #theoriginal"
-  - username: "kimberlyconquers"
+    hashtags: "#targethome, #fabletics, #positivebodyimage, #girlswithtats"
+  - username: "wilderpoetry"
     fullname: >-
-      Kimberly Z 🦄
+      W I L D E R
+    bio: >-
+      ☾ dreamer. explorer. collector. rainbow catcher ⋒ my collection Nocturnal now available everywhere ☾ link in bio ☾ if you are home, then i am, too.
     location: "United States"
-    followers: 2171
-    engagement: 1343
-    commentsToLikes: 0.081356
-    id: ckap9pr8zt5lf0i78kxw82ofn
+    followers: 433030
+    engagement: 207
+    commentsToLikes: 0.009677
+    id: ck0tz7j07pcvp0i195v1jpl13
     verified: false
-    hashtags: "#ootdpost, #targetstyle, #announcement, #holdyourmoments"
+    hashtags: "#light, #poetssociety, #journal, #crystals"
 ---

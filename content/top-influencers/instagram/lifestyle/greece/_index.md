@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Greece In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Greece in 2020. Most popular hashtags: #greece #instagram #wonderful #summeringreece.
+  Find top lifestyle Instagram influencers in Greece in 2020. Most popular hashtags: #greece #photooftheday #travel #instapic.
 platform: Instagram
+hits: 153
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 153 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "nana_petraki"
+  - username: "kalli_albn"
     fullname: >-
-      Nana Petraki
+      🎀 KᗩᒪᒪI  ᗩᒪᗷᗩᑎI 🎀
+    bio: >-
+      • Don’t be like the rest of them! Stay in your magic •🧚🏻‍♀️ 💌 DM for Collabs 🎁 📌Fashion • Beauty • Lifestyle💄 🌎Welcome to my BlondeWorld🦄
     location: "Greece"
-    followers: 24942
-    engagement: 976
-    commentsToLikes: 0.596754
-    id: ck6tsp8vw61pj0j717llaw30g
+    followers: 10022
+    engagement: 1892
+    commentsToLikes: 0.510966
+    id: ckap4zjlr9ijt0i78gbttbmz9
     verified: false
-    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
-  - username: "alexiamantzari"
-    fullname: >-
-      A L È X I A 🧿 M À N T Z A R I
-    location: "Greece"
-    followers: 11623
-    engagement: 993
-    commentsToLikes: 0.115421
-    id: ckap7zx6dm8l40i785nlosvyu
-    verified: false
-    hashtags: "#alexiamantzari, #firstmay, #flowers, #jewelry"
-  - username: "vv_liza_vv"
-    fullname: >-
-      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐘𝐕𝐇
-    location: "Greece"
-    followers: 9725
-    engagement: 965
-    commentsToLikes: 0.103539
-    id: ck8syf4osknky0j78lz94s346
-    verified: false
-    hashtags: ""
+    hashtags: "#travel, #fashion, #tbt, #girl"
   - username: "marius.ad.libitum"
     fullname: >-
-      mαrios · athens
+      mαrios · greece
+    bio: >-
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
     location: "Greece"
-    followers: 16466
-    engagement: 970
-    commentsToLikes: 0.036376
+    followers: 16415
+    engagement: 1122
+    commentsToLikes: 0.058088
     id: ck6u8k7vss2kn0j71olij1n19
     verified: false
-    hashtags: "#instagram, #chest, #vscofilters, #thebeardedway"
-  - username: "146bpm"
+    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
+  - username: "thisissivylla"
     fullname: >-
-      KONSTANTINOS ✈ 🇬🇷
+      Sivylla
+    bio: >-
+      Public Relations aficionado Beauty | Motherhood | Lifestyle Mama of #2under2 👧🏼👶🏼 Baby No3 on the way 🍼
     location: "Greece"
-    followers: 69118
-    engagement: 538
-    commentsToLikes: 0.029708
-    id: ck5hodtsspe000i11drvxlbgg
+    followers: 74779
+    engagement: 432
+    commentsToLikes: 0.910259
+    id: ck0w2zrg6qx2i0i19f2m2qke1
     verified: false
-    hashtags: "#uniforms, #airlines, #igaviation, #aviationphotography"
-  - username: "marasamartzi"
+    hashtags: "#round3, #preggo, #ariadne, #giveaway"
+  - username: "theclassysavage"
     fullname: >-
-      MARA SAMARTZI
+      Nicole Despotopoulou
+    bio: >-
+      ✨Everyday effortless style Shopping | Beauty | Lifestyle 📍Athens,Greece 💌Collab/Promo ➱ Dm
     location: "Greece"
-    followers: 128688
-    engagement: 902
-    commentsToLikes: 0.006295
-    id: ck8t0am4iretb0j78jlgv0qub
+    followers: 82181
+    engagement: 407
+    commentsToLikes: 0.193630
+    id: ck15pgd8oxqny0i19rpm2vnsw
     verified: false
-    hashtags: "#iamawolter, #woltnorth, #byredo, #ringlight"
+    hashtags: "#goodluck, #quarantine, #dieselunforgettabledenim"
+  - username: "alexandra__panagiotarou"
+    fullname: >-
+      Αλεξάνδρα Παναγιώταρου
+    bio: >-
+      📺TvPersonality 🛍Owner of @alexandras__boutique 🍸Lifestyle&Travelling 🌎 ✈️ 🎤MySong PAPI ft @kingsofficial 🎓Sociologist 🐶Mommy of Richie 🦋Since ‘93
+    location: "Greece"
+    followers: 246973
+    engagement: 365
+    commentsToLikes: 0.087761
+    id: ck5zl0awnkhuw0i14oikiiafk
+    verified: false
+    hashtags: "#blondegirl, #nailart, #backtonature, #makeup"
+  - username: "katiakr_"
+    fullname: >-
+      Katia Kr
+    bio: >-
+      🎠 Travel & Lifestyle 🎠 🧚my fairytale consists of travels, seaviews, style and chocolate 🍫 ☕coffee lover 💃passion for ballet 📍Thessaloniki, Greece 🇬🇷
+    location: "Greece"
+    followers: 5713
+    engagement: 2629
+    commentsToLikes: 0.284048
+    id: ck9wfk4w9p6yr0j78uxzthcdv
+    verified: false
+    hashtags: "#travelerlife, #outfitoftheday, #sunsetlover, #stradivarius"
   - username: "monetasss"
     fullname: >-
       moneta zumba
+    bio: >-
+      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
     location: "Greece"
-    followers: 3350
-    engagement: 1485
-    commentsToLikes: 0.158522
+    followers: 4414
+    engagement: 2231
+    commentsToLikes: 0.157875
     id: ckap25faqxg9t0i78vz6cndj5
     verified: false
-    hashtags: "#mykonos, #izmir, #body, #colorful"
-  - username: "giopat"
+    hashtags: "#igers, #fashion, #fun, #photooftheday"
+  - username: "gerganaiilieva"
     fullname: >-
-      • Gεorgε Pαtmιos •
+      Gergana Ilieva 🌸
+    bio: >-
+      •Travel, lifestyle & fashion content creator• Featured on billboards & city ads in #Denmark and #Sweden ❣️📸 🌸 With love, Gergana 🌸 📍SOF🇧🇬
     location: "Greece"
-    followers: 12205
-    engagement: 1455
-    commentsToLikes: 0.143545
-    id: ck0tztuburm590i19r2jt2f3o
+    followers: 21203
+    engagement: 498
+    commentsToLikes: 0.059407
+    id: ck13cpcri1i780i19a5xlczo8
     verified: false
-    hashtags: "#greeceunlimited, #world, #manitraveler, #airbnb"
-  - username: "nutristars.gr"
+    hashtags: "#mykonosisland, #photooftheday, #fallvibes, #outfitinspiration"
+  - username: "simplynclassy"
     fullname: >-
-      Manolis & Petroula
+      Vassia Riga
+    bio: >-
+      Fashion |Travel |Beauty |Lifestyle Content Creator 📍Greece 🇬🇷 ♡@michail_rodax (📸) Collaborations 📧simplynclassy@gmail.com / DM 🖊 Rᴇᴀᴅ ᴍᴇ ⬇️
     location: "Greece"
-    followers: 8894
-    engagement: 828
-    commentsToLikes: 0.013518
-    id: ck9wp5xq47y9r0j78a7khdsw6
+    followers: 24293
+    engagement: 301
+    commentsToLikes: 0.175862
+    id: ckap4zu1a9jxg0i78o41jy7rv
     verified: false
-    hashtags: ""
-  - username: "t.nakis"
+    hashtags: "#greece, #giveawaysgreece"
+  - username: "themomdiary"
     fullname: >-
-      TRIFONAS NAKIS
+      The Mom Diary - Greek Family
+    bio: >-
+      Meggie Greek/Canadian 🇬🇷🇨🇦 Mom of two boys 👬 Co-founder of @katina.creations Motherhood🤱 Lifestyle 🕶 Mind-Body-Soul 💗 Travel lover ✈️ YouTube 👇
     location: "Greece"
-    followers: 10476
-    engagement: 1989
-    commentsToLikes: 0.022020
-    id: ck0w60pp76css0i196spzp05h
+    followers: 7789
+    engagement: 984
+    commentsToLikes: 0.138028
+    id: ck5q40ewhn6qm0i113xdjlzan
     verified: false
-    hashtags: "#greece, #vogue, #staypositive, #cov"
+    hashtags: "#momoftwo, #greekbeaches, #momofboys, #greekfamily"
 ---

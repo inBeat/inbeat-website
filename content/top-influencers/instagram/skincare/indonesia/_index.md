@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top skincare Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #selebgram #lebaran #siapantarramadanmu.
+  Find top skincare Instagram influencers in Indonesia in 2020. Most popular hashtags: #lfl #endorse #endorsement.
 platform: Instagram
+hits: 818
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 818 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "dearizky.e"
+  - username: "hanni.fj"
     fullname: >-
-      deyah🌻
+      Hannifah Fikriyyah
+    bio: >-
+      @skin.careink @yumm_dimsum
     location: "Indonesia"
-    followers: 173678
-    engagement: 1061
-    commentsToLikes: 0.031636
-    id: ckap5a975autf0i78x2n5qn6t
+    followers: 6230
+    engagement: 1807
+    commentsToLikes: 0.086096
+    id: ck9wi4co40ops0j78z6vmy0kb
     verified: false
-    hashtags: "#ngopidirumah, #lebaranjadisultancodm, #dirumahaja, #arahkopi"
-  - username: "tengkuriskyyy"
-    fullname: >-
-      Tengku Riski
-    location: "Indonesia"
-    followers: 16122
-    engagement: 1447
-    commentsToLikes: 0.064145
-    id: ck5q2470oe6rk0i11pryp6s46
-    verified: false
-    hashtags: "#tiktokerspku, #slowmo, #tiktokviral, #nohand"
-  - username: "restiekanf"
-    fullname: >-
-      𝑅𝑒𝓈𝓉𝒾 ✨
-    location: "Indonesia"
-    followers: 2170
-    engagement: 1262
-    commentsToLikes: 0.269379
-    id: ck9wibkgs1kq40j78kc68yu8s
-    verified: false
-    hashtags: "#bccopenmember, #ibccollabdisney, #monsterinc, #instagram"
-  - username: "hennikalista"
-    fullname: >-
-      𝓱𝓮𝓷𝓷𝓲🍭
-    location: "Indonesia"
-    followers: 242326
-    engagement: 417
-    commentsToLikes: 0.018610
-    id: ck14jqw7ilqwu0i19ypzrg33w
-    verified: false
-    hashtags: "#tunjukinsiapakamu, #metimewithazalea, #beautyfromsunnah, #otwlebaran"
-  - username: "putrimelatii"
-    fullname: >-
-      Putri Melati
-    location: "Indonesia"
-    followers: 280426
-    engagement: 1027
-    commentsToLikes: 0.005301
-    id: ck14huyghc9xl0i19marsb0n6
-    verified: false
-    hashtags: "#26weekspregnant, #redbeatscovid, #gorougesignature, #redbeatscovidxputrimelati"
+    hashtags: "#hijabstyle, #instagood, #ootdfashion, #idulfitri"
   - username: "adityadomble"
     fullname: >-
       𝐀𝐝𝐢𝐭𝐲𝐚 𝐏𝐮𝐭𝐫𝐚 𝐏𝐫𝐚𝐭𝐚𝐦𝐚
+    bio: >-
+      📸 Bussines inquiries : @annshasya_ (Management) CP : 0895-4030-78000 🧢 SkinCare : @domblealona Untuk pembelian ⤵️
     location: "Indonesia"
-    followers: 14879
-    engagement: 880
-    commentsToLikes: 0.050530
+    followers: 23684
+    engagement: 988
+    commentsToLikes: 0.097403
     id: ck8t3hg3v3b5a0j7859cya5hv
     verified: false
-    hashtags: "#kulinerdomble, #dirumahaja, #covid19"
-  - username: "dellawidyasari"
+    hashtags: "#likeforlikes, #madiunhits, #aryasanendrawishaka, #madiunkotagadis"
+  - username: "cindyarsinta"
     fullname: >-
-      𝓓𝓮𝓵✨
+      MODEL | MUSE
+    bio: >-
+      founder @skincarelo.id @cindyarsinta.jpg ambassadors of : @delovelyclinic 2018 // duta @jatimfair 2019 business inquiries 📩 add line "@012zxate"
     location: "Indonesia"
-    followers: 16424
-    engagement: 408
-    commentsToLikes: 0.038468
-    id: ckapcd0w93bmy0i78oiumug1c
+    followers: 6464
+    engagement: 1434
+    commentsToLikes: 0.044436
+    id: ck5py0ukntsii0i11k9m33px3
     verified: false
-    hashtags: "#sale, #ramadhan, #alhamdulillah, #kashiwagishop"
-  - username: "hendrigeorge"
+    hashtags: "#greenangelica, #dirumahaja, #marhabanyaramadhan, #hepifridayvibes"
+  - username: "wynnehwang_"
     fullname: >-
-      Gedé Hendrí Georgé
+      WYNNE IGNACIA
+    bio: >-
+      Half salmon😶😶 🍑full time BTS lovers🍑 Welcome to my not so fashionable fashion page😌 My skincare routine @pinkroulette.id 🧚🏻
     location: "Indonesia"
-    followers: 42954
-    engagement: 496
-    commentsToLikes: 0.023105
-    id: ck5c1007uu6h30i11jkiinjlv
+    followers: 72749
+    engagement: 287
+    commentsToLikes: 0.056272
+    id: ck5hjeb3vgh6k0i1188avhogm
     verified: false
-    hashtags: "#valetinesday, #nyepi, #socialdistancing, #sunrise"
-  - username: "agnesoryza"
+    hashtags: "#happyjiminday, #ootd"
+  - username: "natasya.salway"
     fullname: >-
-      Agnes Oryza Kristel
+      𝒎𝒐𝒍𝒂𝒔𝒔𝒆𝒔🌼
+    bio: >-
+      𝐌𝐢𝐬𝐬 𝐀𝐧𝐣𝐚𝐧𝐢 𝐍𝐮𝐬𝐚𝐧𝐭𝐚𝐫𝐚 '𝟐𝟎 𝐑𝐔 𝐒𝐮𝐩𝐞𝐫 𝐌𝐨𝐝𝐞𝐥 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 '𝟐𝟎 𝐁𝐀 @grade_a_skincare.id @supermodelmanagement.id @prosperousmanagement
     location: "Indonesia"
-    followers: 31416
-    engagement: 160
-    commentsToLikes: 0.027035
-    id: ck5hfj66ixqe70i11qcdty3dg
+    followers: 5447
+    engagement: 1698
+    commentsToLikes: 0.025409
+    id: ck8t02xmzqnh10j78hrexqyln
     verified: false
-    hashtags: "#dove, #oryzaitaly, #oryzafrance, #stayathome"
-  - username: "ikiucil_"
+    hashtags: "#photoshoot, #instadaily, #streetwear, #jemberbanget"
+  - username: "adhistyputri_"
     fullname: >-
-      𝓚𝓮𝓼𝓪𝔂𝓪𝓷𝓰𝓪𝓷𝓶𝓾
+      ADHISTY PUTRI
+    bio: >-
+      📍samarinda FOUNDER : @piscokqueen.official CP FRANCHISE : +62 821 5661 6664 . Endorsement : DM📩 BA : @noastuff_ Klik link order skincare rutin aku🕊
     location: "Indonesia"
-    followers: 251003
-    engagement: 112
-    commentsToLikes: 0.014994
-    id: ckaoz6184kj0v0i7832z585hg
+    followers: 21148
+    engagement: 309
+    commentsToLikes: 0.183187
+    id: ck9wgl8v7twp90j78c6w7khvn
     verified: false
-    hashtags: ""
+    hashtags: "#dirumahaja, #kartiniday, #ootdnude, #beautytalker"
+  - username: "ameliiazhr"
+    fullname: >-
+      Ameng
+    bio: >-
+      21 Y.O • istri beruntung @rendysudigja 💍 • BA @slimbeautycare skincare @kaloneaskincare • @blessmanagement (use @) • wa admin 0857-6259-0106
+    location: "Indonesia"
+    followers: 493972
+    engagement: 661
+    commentsToLikes: 0.009073
+    id: ck9wht8qezdnd0j7866f1iho4
+    verified: false
+    hashtags: "#skincareandalanku, #unialfi, #giveawayunialfi"
+  - username: "cheanuh"
+    fullname: >-
+      Chea Nuh
+    bio: >-
+      🇮🇩📍JAKARTA📍BALI, INDONESIA 🌊 Thallassophile 🎬 Makeup & Skincare 💌 cheanuh@gmail.com
+    location: "Indonesia"
+    followers: 32202
+    engagement: 315
+    commentsToLikes: 0.055049
+    id: ck15pzhlx0efy0i19c0d8rd8w
+    verified: false
+    hashtags: "#beautyvloggerindonesia, #pasbuatmu, #fentybeauty, #guerlainid"
+  - username: "putrishollatiah7"
+    fullname: >-
+      ℙ𝕦𝕥𝕣𝕚 𝕊𝕙𝕠𝕝𝕝𝕒𝕥𝕚𝕒𝕙
+    bio: >-
+      📬 𝐏𝐏 / 𝐄𝐍𝐃𝐎𝐑𝐒𝐄 : 𝐃𝐌/𝐩𝐬𝐡𝐨𝐥𝐥𝐚𝐭𝐢𝐚𝐡 {𝐈𝐃 𝐋𝐈𝐍𝐄} 📌 𝐏𝐀𝐑𝐓 𝐎𝐅 : @fivecrew.bjm 💼 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 𝐎𝐅 : @sevenmarch_store @sevenmarch.shoes @sevenmarch.skincare
+    location: "Indonesia"
+    followers: 27373
+    engagement: 410
+    commentsToLikes: 0.034905
+    id: ck9whu12vzh0z0j78ia0748aw
+    verified: false
+    hashtags: "#endorsement, #martapura, #lfl, #endorse"
+  - username: "putrimelatii"
+    fullname: >-
+      Putri Melati
+    bio: >-
+      ‎السَّلاَمُ عَلَيْكُمْ @zhofira_ • @ramisa_id Skincare Routine👇🏻
+    location: "Indonesia"
+    followers: 291405
+    engagement: 904
+    commentsToLikes: 0.005340
+    id: ck14huyghc9xl0i19marsb0n6
+    verified: false
+    hashtags: "#lashlifteffect, #nomorebelang, #adacarex, #letsmeetsnow"
 ---

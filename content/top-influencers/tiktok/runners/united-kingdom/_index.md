@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top runners TikTok influencers in United Kingdom in 2020. Most popular hashtags: #runner #letsgo #runners #birthday.
+  Find top runners TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryou #runner #duet.
 platform: TikTok
+hits: 20
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 20 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "simonsquibb8"
+  - username: "signalongwithus"
     fullname: >-
-      Simon Squibb
+      signalongwithus
+    bio: >-
+      BGT 2020 Runner up Page ran by Jade Collab&Enquiries - Signalongwithus@yahoo.com
     location: "United Kingdom"
-    followers: 29998
-    engagement: 1141
-    commentsToLikes: 0.183295
-    id: ck9616d9al8s70j783542zm8b
+    followers: 60400
+    engagement: 1923
+    commentsToLikes: 0.013976
+    id: ckb1bqw3j0cdz0j23yrqm2wep
     verified: false
-    hashtags: "#goodluckpodcast, #marketing, #beyourself, #giveback"
-  - username: "annette_fergs"
+    hashtags: "#share, #halloween, #sse, #duet"
+  - username: "candice_farrar4"
     fullname: >-
-      Annette Ferguson
+      Candice Farrar
+    bio: >-
+      BGT runners up 🎉 Inclusive family SAWU ❤️ @themadhouseee
     location: "United Kingdom"
-    followers: 10738
-    engagement: 392
-    commentsToLikes: 0.128001
-    id: ck9si8e00xikc0j78745rbs7i
+    followers: 161600
+    engagement: 1446
+    commentsToLikes: 0.012353
+    id: ckb1akezlyyos0j23ewllnyqx
     verified: false
-    hashtags: "#uktiktok, #strategic, #finance, #coronavirus"
-  - username: "d.a_93"
+    hashtags: "#dollhousechallenge, #fyp, #sisters, #duet"
+  - username: "lauratyers83"
     fullname: >-
-      Daniel Adjei
+      Laura Tyers Rowney
+    bio: >-
+      Mum of 3 boys having a laugh 😜 Insta Lashy_Laus Cambridgeshire 🇬🇧
     location: "United Kingdom"
-    followers: 9076
-    engagement: 1456
-    commentsToLikes: 0.046309
-    id: ck8nds0cwkfyl0j78cde8wklp
+    followers: 6386
+    engagement: 914
+    commentsToLikes: 0.069485
+    id: ckc7vu3exz7rb0j236s25u0o8
     verified: false
-    hashtags: "#nfldraft, #nba2k20, #memories, #ohnana"
-  - username: "caz1989"
+    hashtags: "#asosdaytofright, #life, #mumsontiktok, #fact"
+  - username: "princesspaiger1"
     fullname: >-
-      CAZ🖤
+      Paige Rawson
+    bio: >-
+      Managed by Paige’s PayPal details for our fundraiser c_la_cock@hotmail.com
     location: "United Kingdom"
-    followers: 32424
-    engagement: 1436
-    commentsToLikes: 0.037943
-    id: ck81qq3u4iwg80j789c47a7fh
+    followers: 66300
+    engagement: 1908
+    commentsToLikes: 0.031067
+    id: ckb9bejd8xe5x0j23pqywr1uj
     verified: false
-    hashtags: "#needsmust, #bolt, #kimwoodburn, #findingnemo"
-  - username: "racxaelih"
+    hashtags: "#childhoodcancer, #hero, #cancer, #leukemiawarrior"
+  - username: "adjustings_"
     fullname: >-
-      rach
+      TikTok Shtuff
+    bio: >-
+      Join the discord below for giveaways + looking for editors ⬇️⬇️⬇️⬇️
     location: "United Kingdom"
-    followers: 6084
-    engagement: 1480
-    commentsToLikes: 0.015201
-    id: ck90rtzrvnbg50j78xhxeaeik
+    followers: 26200
+    engagement: 840
+    commentsToLikes: 0.068012
+    id: ckcjesaz6ao860j233tgui0oh
     verified: false
-    hashtags: "#emptyarena, #littlemix, #runner, #fridgechallenge"
-  - username: "cleokhan"
+    hashtags: "#gaming, #fortnite, #fyp, #wtf"
+  - username: "mystorymytravel"
     fullname: >-
-      𝓒𝓵𝓮𝓸 💫🤍
+      Маша, живу в Англии 🇬🇧
+    bio: >-
+      Переехала в Англию, Manchester 🍁 Russian girl 🇷🇺 Расскажу все секреты 🤫
     location: "United Kingdom"
-    followers: 5245
-    engagement: 1314
-    commentsToLikes: 0.048418
-    id: ckac9jeaxg5q70i785k1nyld1
+    followers: 152000
+    engagement: 408
+    commentsToLikes: 0.019259
+    id: ckc7wa5kvzhw10j238fewdp8y
     verified: false
-    hashtags: "#breakups, #nostalgia, #sporty, #date"
-  - username: "xxtiaxx001"
+    hashtags: "#lithuania, #fast9, #kos, #manchester"
+  - username: "laurensamuels23"
     fullname: >-
-      Tia💞🌈
+      laurensamuels
+    bio: >-
+      I genuinely think I’m hysterical. IG: @laurensamuels88
     location: "United Kingdom"
-    followers: 31023
-    engagement: 1097
-    commentsToLikes: 0.018710
-    id: ckacvznfxq8460i78xw7873x2
+    followers: 134100
+    engagement: 1252
+    commentsToLikes: 0.015250
+    id: ckava17lkhi2l0j235588nrms
     verified: false
-    hashtags: "#ladigue, #trackgirl, #dontrushchallenge, #runner"
-  - username: "gingerjordy"
+    hashtags: "#teamfabletics, #fyp, #lipsync, #singer"
+  - username: "millypickles1"
     fullname: >-
-      Jordanhugh000
+      Milly Pickles
+    bio: >-
+      23 | England Gymshark 🦈🦈 DM me on Insta ❤️
     location: "United Kingdom"
-    followers: 15027
-    engagement: 661
-    commentsToLikes: 0.104586
-    id: ck933b1rhnbou0j78q2yljo9q
+    followers: 127900
+    engagement: 927
+    commentsToLikes: 0.007308
+    id: ckdhtp6ji34ii0j23rkzemnds
     verified: false
-    hashtags: "#zoom, #highscool, #pranks, #band"
-  - username: "farmermatt64"
+    hashtags: "#prostheticleg, #fitness, #amputee, #happiness"
+  - username: "warner__"
     fullname: >-
-      Matt Styles
+      Warner
+    bio: >-
+      Model ^ Follow my insta @warner_ ^
     location: "United Kingdom"
-    followers: 3585
-    engagement: 948
-    commentsToLikes: 0.013109
-    id: ck8qg4ik7zg3x0j780prsbqqd
+    followers: 58800
+    engagement: 801
+    commentsToLikes: 0.023374
+    id: ck9n714be7inx0j788ikyddgs
     verified: false
-    hashtags: "#liquidgold, #tractortiktok, #positivevibes, #lonleylife"
-  - username: "claireabellaofficial"
+    hashtags: "#fyp, #mirrortrick, #foryoupage, #mirror"
+  - username: "independent"
     fullname: >-
-      ClaireaBella
+      The Independent
+    bio: >-
+      The world’s most free thinking digital news brand is on TikTok 🎶🕺
     location: "United Kingdom"
-    followers: 183371
-    engagement: 531
-    commentsToLikes: 0.027580
-    id: ck8j41liq0kma0j78s4e6zstk
-    verified: false
-    hashtags: "#fortyplus, #angry, #lipsync, #facereveal"
+    followers: 12400
+    engagement: 426
+    commentsToLikes: 0.014527
+    id: cka0kfzcymj5l0i78ycql1528
+    verified: true
+    hashtags: "#foryou, #covid19, #foryoupage, #fyp"
 ---

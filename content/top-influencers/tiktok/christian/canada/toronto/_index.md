@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian TikTok Influencers In Toronto In 2020
 description: >-
-  Find top christian TikTok influencers in Toronto in 2020. Most popular hashtags: #duet #ontario #christian #yearbook2020.
+  Find top christian TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #toronto #christian.
 platform: TikTok
+hits: 14
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
+  - username: "nour.shahrour"
+    fullname: >-
+      Nour
+    bio: >-
+      🇱🇧|🇨🇦 ٣١٣ 👻nourshahrour14 toronto
+    location: "Canada"
+    followers: 23500
+    engagement: 1384
+    commentsToLikes: 0.145792
+    id: ckbkhcqj39aha0j23ncvg8vre
+    verified: false
+    hashtags: "#foru, #lebanon, #313, #yaali"
+  - username: "djkellyart"
+    fullname: >-
+      David Kelly 
+    bio: >-
+      Toronto based artist!
+    location: "Canada"
+    followers: 3615
+    engagement: 528
+    commentsToLikes: 0.220084
+    id: cka7vvf49xyy50i78pbyml7tl
+    verified: false
+    hashtags: "#abstractart, #foryoupage, #art, #artist"
+  - username: "miguelthemuslim"
+    fullname: >-
+      MigueltheMuslim
+    bio: >-
+      🇨🇦 🇵🇹 | Muslim Revert الحمد لله 📍Toronto, ON
+    location: "Canada"
+    followers: 14700
+    engagement: 1145
+    commentsToLikes: 0.088770
+    id: ckb9hbhqa6p2t0j237urvmezs
+    verified: false
+    hashtags: "#revertproblems, #girl, #arabtiktok, #islam"
   - username: "stlkurdi"
     fullname: >-
       Stlkurdi
+    bio: >-
+      LLG💙 LLA💙 Toronto 🇱🇧🇨🇦 Click the link and thank me later ‼️
     location: "Canada"
-    followers: 6221
-    engagement: 1140
-    commentsToLikes: 0.097480
+    followers: 7192
+    engagement: 964
+    commentsToLikes: 0.074959
     id: ck9nu7xc6lvtz0j78jo2gt2tw
     verified: false
-    hashtags: "#duet, #islam, #following, #deaf"
-  - username: "naomileanage"
+    hashtags: "#foryou, #viral, #morningboost, #comedy"
+  - username: "calebaitken"
     fullname: >-
-      Naomi Leanage
+      Caleb Aitken
+    bio: >-
+      17 from Canada
     location: "Canada"
-    followers: 143299
-    engagement: 2855
-    commentsToLikes: 0.016589
-    id: ck806vbblmaom0j78ddv18enc
+    followers: 15100
+    engagement: 1935
+    commentsToLikes: 0.048362
+    id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#supportgroup, #movingout, #srilankan, #thailandtravel"
-  - username: "christian.cal"
+    hashtags: "#jesus, #christian, #duet, #god"
+  - username: "shadorachambers"
     fullname: >-
-      christian
+      chi 
+    bio: >-
+      22/🇯🇲in 🇨🇦 Check out my vlogs on YouTube:) jst another avatar stan 🌊🔥🌬
     location: "Canada"
-    followers: 3195
-    engagement: 936
-    commentsToLikes: 0.056982
-    id: ck92uxqh6o1s60j78birfbj2b
+    followers: 3923
+    engagement: 897
+    commentsToLikes: 0.027575
+    id: ckbkq6sllkhyl0j237ora3xv2
     verified: false
-    hashtags: "#whatthissays, #rapper, #kobe, #trending"
-  - username: "alexnroberto"
+    hashtags: "#foryou, #foryoupage, #fyp, #4u"
+  - username: "babyimrich"
     fullname: >-
-      Alex Roberto
+      Christian
+    bio: >-
+      
     location: "Canada"
-    followers: 2849
-    engagement: 1420
-    commentsToLikes: 0.180701
-    id: ckai561orqspl0i78167a49js
+    followers: 2752
+    engagement: 1340
+    commentsToLikes: 0.023485
+    id: ckcdhn0gp7t7o0j23mikg68zu
     verified: false
-    hashtags: "#tiktokwellness, #homeroutine, #jesuschrist, #catfish"
-  - username: "christianlandryd"
+    hashtags: "#ontario, #fyp, #readyforhockey, #toronto"
+  - username: "momo_mehdi1"
     fullname: >-
-      ChristianLandryD
+      Momo Mehdi
+    bio: >-
+      Snapchat :almehbd 🇨🇦🇱🇧 CEO OF LEBANON 🇱🇧🇱🇧
     location: "Canada"
-    followers: 7852
-    engagement: 1356
-    commentsToLikes: 0.082053
-    id: ck9fhwtiv7z1k0j78re9xuz6d
+    followers: 13600
+    engagement: 1265
+    commentsToLikes: 0.080254
+    id: ckcp508urcl290j23je0wwr5o
     verified: false
-    hashtags: "#tiktokcanada"
-  - username: "itslukeidk"
+    hashtags: "#greenscreensticker, #iraq, #arab, #usa"
+  - username: "opinionhated"
     fullname: >-
-      Luke
+      Richard Brayshaw
+    bio: >-
+      @flippin4alivin on YouTube / Insta Edutainment at its best If you feel it say it
     location: "Canada"
-    followers: 4377
-    engagement: 985
-    commentsToLikes: 0.038071
-    id: ck9r3moygqmff0j78prwoo6uh
+    followers: 17800
+    engagement: 1117
+    commentsToLikes: 0.143265
+    id: ck9k4yhrpul1v0j78d5wsqn4u
     verified: false
-    hashtags: "#rudy, #lebron, #checkthisout, #charlidamelio"
-  - username: "jane._.ryan"
+    hashtags: "#biden2020, #xyzbca, #biden, #arizona"
+  - username: "ruth_arul"
     fullname: >-
-      Jane._.Ryan
+      ruth_arul
+    bio: >-
+      My alter ego to my insta 🤪 Insta: @ruth_arul
     location: "Canada"
-    followers: 19555
-    engagement: 966
-    commentsToLikes: 0.025058
-    id: ck80oq0ckj5vh0j78od5x1fpn
+    followers: 35500
+    engagement: 951
+    commentsToLikes: 0.012337
+    id: ckafucyaw9v1b0i782jvwrhzy
     verified: false
-    hashtags: "#weird, #movie, #grass, #amiistewart"
-  - username: "lil.wagon"
-    fullname: >-
-      lil.wagon
-    location: "Canada"
-    followers: 9833
-    engagement: 581
-    commentsToLikes: 0.041342
-    id: ck92uxzx2o3u50j7806ibn5dy
-    verified: false
-    hashtags: "#hardwork, #quarantine, #yummy, #chooseone"
-  - username: "katyy.patyy"
-    fullname: >-
-      Katy
-    location: "Canada"
-    followers: 17331
-    engagement: 2085
-    commentsToLikes: 0.067656
-    id: ck9tvlpv8r6pf0j78pz5rfy6e
-    verified: false
-    hashtags: "#worth, #homeroutine, #scoobdance, #hair"
-  - username: "translatingchrist"
-    fullname: >-
-      translatingchrist
-    location: "Canada"
-    followers: 32865
-    engagement: 2014
-    commentsToLikes: 0.146559
-    id: ck8owk6ebyasu0j783n3oxu6v
-    verified: false
-    hashtags: "#straighttohell, #salvation, #freedom, #christiantiktok"
+    hashtags: "#tamil, #southasian, #fyp, #browngirl"
 ---

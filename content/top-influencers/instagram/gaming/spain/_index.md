@@ -1,32 +1,101 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Spain In 2020
 description: >-
-  Find top gaming Instagram influencers in Spain in 2020. Most popular hashtags: #gaming #girl #leagueoflegends #playa.
+  Find top gaming Instagram influencers in Spain in 2020. Most popular hashtags: #gaming #playinggames #gamergirl.
 platform: Instagram
+hits: 65
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 65 Instagram influencers like this in Spain for you to collaborate.
 profiles:
+  - username: "mery_soldier"
+    fullname: >-
+      Maria Soldado
+    bio: >-
+      Puedes encontrarme a diario haciendo streams en @twitch 🎮💜 Embajadora de @newskill_es 💙 Hago entrevistas para @redbullesp gaming MixTape 😈
+    location: "Spain"
+    followers: 69285
+    engagement: 1355
+    commentsToLikes: 0.055721
+    id: ck6ugqjkd4kjx0j71o3op38dd
+    verified: false
+    hashtags: "#lpp, #sorteo, #leagueoflegends, #giveaway"
+  - username: "agosashford"
+    fullname: >-
+      Agos Ashford | Cosplayer
+    bio: >-
+      🧵[ Cosplayer /maker • Streamer • Gaming fan ] 🎮 Facebook +350k followers🏅 🌺Collabs MP
+    location: "Spain"
+    followers: 62631
+    engagement: 752
+    commentsToLikes: 0.021603
+    id: ck5busa52ics60i11dz57ta5b
+    verified: false
+    hashtags: "#leagueoflegends, #adawongcosplay, #agosashford, #ahri"
+  - username: "neosphotography_"
+    fullname: >-
+      NEOS photography
+    bio: >-
+      📸 Professional Photographer 📍Andorra🇦🇩Madrid🇪🇸 🎮 Directos gaming 19:00 en Twich
+    location: "Spain"
+    followers: 25864
+    engagement: 914
+    commentsToLikes: 0.029140
+    id: ck5c9l6x6bmtw0i11of2g2ast
+    verified: false
+    hashtags: "#weiderlovers"
   - username: "kironyt"
     fullname: >-
       KIRON
+    bio: >-
+      Iván Martínez ╺ ✈️ Lifestyle / Viajes / Gaming ╺ 📩 Contacto: kironyt@gmail.com 📍 Madrid / Asturias
     location: "Spain"
-    followers: 87017
-    engagement: 310
-    commentsToLikes: 0.026159
+    followers: 88205
+    engagement: 243
+    commentsToLikes: 0.050593
     id: ck5ztv26j16d70i14sabo1m0r
     verified: false
-    hashtags: "#mascotas, #safehands, #tarta, #ouzoud"
-  - username: "charlynighter"
+    hashtags: "#igersmallorca, #mallorca, #madrid, #ibiza2020"
+  - username: "imstark.yt"
     fullname: >-
-      Charly
+      StarK
+    bio: >-
+      Content Creator @kpi_gamingoficial Subo vídeos a YouTube +320.000 subs Twitch Partner Concursante en @topgamersacademy Contact@starkplays.com
     location: "Spain"
-    followers: 32966
-    engagement: 420
-    commentsToLikes: 0.096955
-    id: ck5hctw8njy6w0i11b7vu8u9g
+    followers: 54832
+    engagement: 1017
+    commentsToLikes: 0.035566
+    id: ckap9x2yftwey0i780ygtdkdl
     verified: false
-    hashtags: "#reflexion, #silencio, #swag, #youtubegamer"
+    hashtags: "#forniteespan, #fornitecommunity, #fortnitelatam, #fortniteclips"
+  - username: "anniekverloop"
+    fullname: >-
+      Anniek
+    bio: >-
+      Dutchie gaming on Playstion & Switch ♥️🇳🇱
+    location: "Spain"
+    followers: 18508
+    engagement: 312
+    commentsToLikes: 0.094434
+    id: ck0u69hdo1dff0i1907p6qdok
+    verified: false
+    hashtags: "#girlswhogame, #instagamer, #gamingpage, #gamingislife"
+  - username: "kronnomc"
+    fullname: >-
+      K R O N N OㅤZ O M B E R  💀❤
+    bio: >-
+      Bussines contact: mynameis.kronno@gmail.com ✉ Code 25% : Kronnoxhaze 🕶 Stream on Facebook Gaming 🔵👇🏻
+    location: "Spain"
+    followers: 859038
+    engagement: 266
+    commentsToLikes: 0.012197
+    id: ck15ql4kg3d0t0i19c64yhgqc
+    verified: true
+    hashtags: "#sesion, #bouncechallenge, #kronnozomber, #officialchallenge"
   - username: "el_kilombo"
     fullname: >-
       El Kilombo: Memes & Videos
+    bio: >-
+      Si la vida es así reite y seguí • Pizza @jajapizzaok • Datos curiosos @el_kilombofack • Gaming @el_kilombogaming
     location: "Spain"
     followers: 3702697
     engagement: 174
@@ -37,71 +106,25 @@ profiles:
   - username: "redbullesp"
     fullname: >-
       Red Bull España
+    bio: >-
+      Instagram Oficial de Red Bull España. Encontrarás deporte, música, gaming y adrenalina porque somos la única bebida energética que #TeDaAlas. 👐🏻
     location: "Spain"
     followers: 194873
     engagement: 270
     commentsToLikes: 0.007687
     id: ck0tvbunhaqv50i19tqzstbbn
     verified: true
-    hashtags: "#paisvasco, #wheelie, #podcast, #playa"
-  - username: "jenherranz"
-    fullname: >-
-      Jen Herranz
-    location: "Spain"
-    followers: 31065
-    engagement: 898
-    commentsToLikes: 0.222291
-    id: ck600lih2dti90i140puq2pv6
-    verified: false
-    hashtags: "#christmas, #pcbuild, #rgbsetup, #sansebastian"
+    hashtags: "#bici, #mtb, #motor, #redbull"
   - username: "antonraider_"
     fullname: >-
       Aɴᴛᴏɴ Rᴀɪᴅᴇʀ
+    bio: >-
+      🎮Ｇαʍεɾ (Elena) 🗝 PSN: AntonRaider8 🎯 #gamer & #collector addict 🎥YouTube ☞ "Anton Raider" ◂▸•◂▸••◂▸••◂▸••◂▸•◂▸ 💜 My Twitch Channel here ⤵️
     location: "Spain"
-    followers: 14404
-    engagement: 1286
-    commentsToLikes: 0.064862
+    followers: 18570
+    engagement: 965
+    commentsToLikes: 0.064932
     id: ck5pvb6bqh0x10i11850e3rxo
     verified: false
-    hashtags: "#mujer, #santjordi, #gamergirlsunite, #bayonetta10th"
-  - username: "marcnietoo"
-    fullname: >-
-      MarcNieto Brand
-    location: "Spain"
-    followers: 19638
-    engagement: 755
-    commentsToLikes: 0.182401
-    id: ck5znwnoipacl0i147jzhi5ci
-    verified: false
-    hashtags: "#pensador, #titoandroimers, #spain, #tbt"
-  - username: "jesusseron"
-    fullname: >-
-      Jesusseron
-    location: "Spain"
-    followers: 133138
-    engagement: 1359
-    commentsToLikes: 0.017731
-    id: ckapbiu7l01fc0i78kozqdcth
-    verified: false
-    hashtags: "#puente, #gaming, #photo, #atardecer"
-  - username: "saandracabeza"
-    fullname: >-
-      Sandra × Leviathan
-    location: "Spain"
-    followers: 42637
-    engagement: 1847
-    commentsToLikes: 0.016812
-    id: ck9hcgj5hla5n0j782e0u372v
-    verified: false
-    hashtags: "#egyptian, #darthvader, #california, #gymrat"
-  - username: "verogagamonster"
-    fullname: >-
-      💧𝕍𝕖𝕣𝕠ℂ𝕒𝕝𝕕𝕖𝕚𝕣𝕒 ⭐
-    location: "Spain"
-    followers: 176731
-    engagement: 1101
-    commentsToLikes: 0.009493
-    id: ck8syz43vmkuz0j78qiueh31k
-    verified: false
-    hashtags: "#streaming, #twitchstreamer, #hisoka, #pink"
+    hashtags: "#video, #gamer, #generaciongamer, #playstation"
 ---

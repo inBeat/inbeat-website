@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners Instagram Influencers In Argentina In 2020
 description: >-
-  Find top runners Instagram influencers in Argentina in 2020. Most popular hashtags: #tbt #yomequedoencasa #repost #spartantrail.
+  Find top runners Instagram influencers in Argentina in 2020. Most popular hashtags: #running #run #runningcommunity.
 platform: Instagram
+hits: 41
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 41 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "epcaressi"
-    fullname: >-
-      Eleonora Pérez Caressi - BEBA
-    location: "Argentina"
-    followers: 102664
-    engagement: 479
-    commentsToLikes: 0.037103
-    id: ck14j4uvtimz80i19165o49ps
-    verified: true
-    hashtags: "#querete, #thescienceofwellbeing, #tbt"
   - username: "catubonadeo"
     fullname: >-
       Catalina
+    bio: >-
+      Periodista ✨ @telenoche ✨ @todonoticias 🏃🏼‍♀️ Runner @asicsargentina @asics @multitalentoficial
     location: "Argentina"
-    followers: 30689
-    engagement: 665
-    commentsToLikes: 0.033896
+    followers: 33101
+    engagement: 680
+    commentsToLikes: 0.188776
     id: ck5zjbxd4hbhx0i141kuxpma7
     verified: true
-    hashtags: "#quarantinebirthday, #vitalityargentina, #activate, #importaquehagas"
-  - username: "totoberisso"
-    fullname: >-
-      Toto Berisso
-    location: "Argentina"
-    followers: 15244
-    engagement: 352
-    commentsToLikes: 0.887809
-    id: ck6tsqxqe6bw60j719kmfkhnd
-    verified: true
-    hashtags: "#runnear6, #buenosaires, #reflexi, #runnear5"
+    hashtags: "#amomigarmin, #importaquehagas, #forerunner645music, #healthylifestyle"
   - username: "soficantilo"
     fullname: >-
       Sofi Cantilo
+    bio: >-
+      UltraTrail Runner🏔🏃🏼‍♀️ Mother🧒🏼👧🏻🐁 Speaker/Oradora👩🏼‍🏫🎓 . Ansilta - Skechers - LaRochePosay - Injinji -Thule - Powered by Gatorade
     location: "Argentina"
-    followers: 15731
-    engagement: 184
-    commentsToLikes: 0.110900
+    followers: 15563
+    engagement: 181
+    commentsToLikes: 0.066350
     id: ck8t06o5pqzcs0j78i2evz70l
     verified: false
-    hashtags: "#100k, #family, #tmxteam, #mendoza"
+    hashtags: "#moab240"
   - username: "nicoocchiato"
     fullname: >-
       Nico Occhiato🎙
+    bio: >-
+      Conductor de TV y Radio 📺 #TodoPuedePasar 23hs Canal 9 📺 #TenemosWifi 20hs KZO 📲 Contacto: soynicoocchiato@gmail.com 🇦🇷 Capitán adidas Runners
     location: "Argentina"
-    followers: 2301853
-    engagement: 198
-    commentsToLikes: 0.015656
+    followers: 2247208
+    engagement: 92
+    commentsToLikes: 0.014859
     id: ck0u238tkysrh0i19to8mjtox
     verified: true
-    hashtags: "#adidassuperstar, #vinoacambiarlotodo, #10toqueschallenge, #yomequededoencasa"
+    hashtags: "#ger2020, #runwithus, #creadoconadidas, #evtsquad"
   - username: "gaucho.runner"
     fullname: >-
       Lucas Báez 🇦🇷
+    bio: >-
+      Gaucho Runner @nikerunning - @gatoradearg ➡ PB. 42K - 2:23:46 - BS AS
     location: "Argentina"
-    followers: 6765
-    engagement: 502
-    commentsToLikes: 0.044253
+    followers: 7319
+    engagement: 549
+    commentsToLikes: 0.035129
     id: ck138buzofgwd0i19esckqwmp
     verified: false
-    hashtags: "#instfit, #finishstrong, #chile, #takayama"
-  - username: "pao.fierro"
+    hashtags: "#gym, #reactinfinity, #runplanet, #runhappy"
+  - username: "totoberisso"
     fullname: >-
-      PAOLA FIERRO
+      Toto Berisso
+    bio: >-
+      FOTÓGRAFO, PERIODISTA Y RUNNER. 🏃‍♂️10K🔓, 15K🔓 y 21k🔓/ ¿110k🏔? #DualPowerTeam x @dualpowerok #Pacer x @iloverunn @yorunnerok Sin miedo al ridículo
     location: "Argentina"
-    followers: 7550
-    engagement: 274
-    commentsToLikes: 0.040500
-    id: ck13b6li1txiz0i191a2mgtum
-    verified: false
-    hashtags: "#contandoexperiencias, #tbt, #espnrun, #estosevuelveunreto"
+    followers: 15395
+    engagement: 124
+    commentsToLikes: 0.512177
+    id: ck6tsqxqe6bw60j719kmfkhnd
+    verified: true
+    hashtags: "#garmin, #video, #run, #photography"
   - username: "micavazquezok"
     fullname: >-
       Mica Vazquez
+    bio: >-
+      Social Media @bullmediagroup Actriz - Conductora - Capitana adidas Runners 🇦🇷 y Maratonista x 2 😜🏃🏻‍♀️🏅
     location: "Argentina"
-    followers: 867680
-    engagement: 275
-    commentsToLikes: 0.007556
+    followers: 996941
+    engagement: 490
+    commentsToLikes: 0.006982
     id: ck15pfz0mxold0i19i2s72bxi
     verified: true
-    hashtags: "#siemprejuntas, #yomequedoencasa, #pelopantene, #tbt"
+    hashtags: "#adidasrunnersbsas, #creadoconadidas, #readyforsport, #28weekspregnant"
   - username: "emablom"
     fullname: >-
       ema blom
+    bio: >-
+      Photographer. Runner. Chef. Traveler. Lover of sunset. Son of God. ✉ ema.blom@outlook.com.ar Cordobés #cordobaargentina 🇦🇷
     location: "Argentina"
-    followers: 20314
-    engagement: 423
-    commentsToLikes: 0.015242
+    followers: 20340
+    engagement: 463
+    commentsToLikes: 0.013938
     id: ckaoy84euged10i78cjgwynlf
     verified: false
-    hashtags: "#preset, #elbolson, #yomequedoencasa, #atardecer"
+    hashtags: "#argentina, #turismocordoba, #historia, #visitaguiada"
   - username: "iloverunn"
     fullname: >-
-      Iloverunn.com
+      Iloverunn.com ©️
+    bio: >-
+      La Comunidad Runner + Importante en español //🔺Event Planner de las carreras + tentadoras 👉 by @adriangluck 😈 💥#iloverunn Movemos al 🌎 en Zapatillas
     location: "Argentina"
-    followers: 63613
-    engagement: 104
-    commentsToLikes: 0.064736
+    followers: 69581
+    engagement: 47
+    commentsToLikes: 0.093618
     id: ck138bxpsfhcb0i192bkvtauv
     verified: false
-    hashtags: "#cumplea, #movete, #happy, #youcantstopus"
+    hashtags: "#trailrun, #runningcommunity, #irun, #run"
+  - username: "bradytrell"
+    fullname: >-
+      Brady Threlfall
+    bio: >-
+      -Coach @run2pb -Host|Producer @insiderunningpodcast -Runner: 14.09/29.34/2.19 -Ambassador: @moamabowlingclub @echucakia @fitmob_official @clrsinc
+    location: "Argentina"
+    followers: 2474
+    engagement: 1643
+    commentsToLikes: 0.037181
+    id: ckapac0govht10i7813n8yx25
+    verified: false
+    hashtags: "#cricketbats, #batspeed, #batman, #cleaneating"
+  - username: "tommymunozdj"
+    fullname: >-
+      Tommy Muñoz
+    bio: >-
+      Disc Jockey desde 1995 Runner. Embajador #Nike. Embajador #mercedesbenz bit.ly/AyudemosEntreTodos
+    location: "Argentina"
+    followers: 84760
+    engagement: 101
+    commentsToLikes: 0.027840
+    id: ck55ltx1p2f860i115ozbws22
+    verified: true
+    hashtags: "#carasliveparty, #youcantstopus"
 ---

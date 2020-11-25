@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers TikTok Influencers In San Diego In 2020
 description: >-
-  Find top photographers TikTok influencers in San Diego in 2020. Most popular hashtags: #photographer #coronavirus #momsoftiktok #model.
+  Find top photographers TikTok influencers in San Diego in 2020. Most popular hashtags: #sandiego #fyp #photographer #foryoupage.
 platform: TikTok
+hits: 19
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 19 TikTok influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "chinocarson"
+  - username: "sdchrisp"
     fullname: >-
-      chinocarson
+      Chris Paetow
+    bio: >-
+      Photographer • San Diego, CA • Exploring SoCal’s hidden & unique locations!
     location: "United States"
-    followers: 18884
-    engagement: 1215
-    commentsToLikes: 0.047223
-    id: ck9a6pjvb45170j78dvn3t1ob
+    followers: 4377
+    engagement: 697
+    commentsToLikes: 0.067187
+    id: ckdt9pq4huc790j234jxk75pm
     verified: false
-    hashtags: "#problems, #calipers, #volkswagen, #jeep"
-  - username: "minastreet"
+    hashtags: "#foryoupage, #fyp, #viral, #lovestory"
+  - username: "dphotopro"
     fullname: >-
-      ✨Mina✨
+      dphotopro
+    bio: >-
+      San Diego • Photographer • ACNH & Fortnite
     location: "United States"
-    followers: 2016
-    engagement: 648
-    commentsToLikes: 0.043619
-    id: ckac7yikbf2w80i78z3two9ei
+    followers: 131900
+    engagement: 1006
+    commentsToLikes: 0.032745
+    id: ckbqfyt2v1j8b0j238ixc0rlp
     verified: false
-    hashtags: "#vietnam, #tiktoktravel, #facetime, #earth"
+    hashtags: "#happyhalloween, #halloweenhorrorprincess, #halloweenhorrorprincesses, #showupshowoff"
   - username: "teagan.maddux"
     fullname: >-
       Teagan
+    bio: >-
+      Outdoor adventure, landscape, and lifestyle photographer.
     location: "United States"
-    followers: 2875
-    engagement: 914
-    commentsToLikes: 0.057033
+    followers: 4479
+    engagement: 1126
+    commentsToLikes: 0.045339
     id: ck8f6dxoe2e7m0j78ms7mo3b7
     verified: false
-    hashtags: "#travelcheck, #neverfitin, #albumlookalike, #aesthetics"
-  - username: "_amirror"
+    hashtags: "#vanlife, #california, #inspirational, #roadtrip"
+  - username: "heymattnguyen"
     fullname: >-
-      amir (a mirror)
+      Matthew Nguyen
+    bio: >-
+      photographer/videographer digital media specialist san diego • 22
     location: "United States"
-    followers: 2937
-    engagement: 564
-    commentsToLikes: 0.062522
-    id: cka0vlmxrz49g0i787v6lyoas
+    followers: 21200
+    engagement: 1095
+    commentsToLikes: 0.058748
+    id: ckd0vu3hnkbay0j23xxda8eqw
     verified: false
-    hashtags: "#duet, #vrgame, #kona, #supra"
-  - username: "milesofcolor"
+    hashtags: "#daviddobrik, #justmakesense, #tesla, #prank"
+  - username: "alecbasanec"
     fullname: >-
-      milesofcolor
+      Alec
+    bio: >-
+      Giving Tik Tok a try 📍 San Diego, CA 📸 Photographer IG: @alec_basanec
     location: "United States"
-    followers: 10882
-    engagement: 1594
-    commentsToLikes: 0.028681
-    id: ck9e3txsnl4by0j78uav3p69t
+    followers: 7359
+    engagement: 1911
+    commentsToLikes: 0.013569
+    id: cka1067s1iaio0i785sob53rn
     verified: false
-    hashtags: "#cats, #photoshop, #cosplay, #lavagirl"
-  - username: "weissbro"
+    hashtags: "#sandiego, #tiktoktravel, #skateboarding, #skate"
+  - username: "wingrovestudiosphoto"
     fullname: >-
-      Aaron Weiss 🎞
+      Wingrove Studios
+    bio: >-
+      Dance & Movement Photographer / Portrait Studio located in San Diego.
     location: "United States"
-    followers: 92381
-    engagement: 548
-    commentsToLikes: 0.010737
-    id: ck83zgiox0k5m0j787zqx9vhg
+    followers: 21500
+    engagement: 1706
+    commentsToLikes: 0.002762
+    id: ckc7nss4qtuza0j23i6w47cpn
     verified: false
-    hashtags: "#killyourvibe, #foryoupag, #adventure, #reflection"
-  - username: "erubes1"
+    hashtags: "#circus, #dancer, #wingrovestudios, #balletphotography"
+  - username: "cakecapt"
     fullname: >-
-      Eric Rubens
+      Lily Sensimilla
+    bio: >-
+      SanDiego 🌞 Insta: LilySensimilla
     location: "United States"
-    followers: 9791
-    engagement: 1146
-    commentsToLikes: 0.029835
-    id: ckamwchgv7w3u0i7866zmcnqe
+    followers: 30900
+    engagement: 1394
+    commentsToLikes: 0.019184
+    id: ck9shs2gpv0z90j787cejrdh3
     verified: false
-    hashtags: "#photographer, #foryourpage, #foryyou, #puppy"
-  - username: "alfredoflores"
+    hashtags: "#indiangirl, #fyp, #foryoupage, #foryourpage"
+  - username: "harimarjon"
     fullname: >-
-      Alfredo Flores
+      Harim Arjon
+    bio: >-
+      San Diego I’m cooler on Instagram, I promise
     location: "United States"
-    followers: 61897
-    engagement: 2844
-    commentsToLikes: 0.176404
-    id: ck8nk1l45d39e0j783cs1slx1
-    verified: true
-    hashtags: "#littlethings, #poseathome, #duetme, #notmadaboutit"
-  - username: "sergeybidun"
-    fullname: >-
-      Sergey Bidun
-    location: "United States"
-    followers: 74102
-    engagement: 2325
-    commentsToLikes: 0.035132
-    id: ck8f89b833dmm0j786djb91zt
-    verified: false
-    hashtags: "#artistsoftiktok, #ownthecurve, #twinchallenge, #sisters"
-  - username: "wildflowerfieldsx"
-    fullname: >-
-      Bobby & Juli 🕊🌌
-    location: "United States"
-    followers: 3069
+    followers: 37100
     engagement: 1543
-    commentsToLikes: 0.129132
-    id: cka89q5plg0420i78kpbrzgbo
+    commentsToLikes: 0.011322
+    id: ckbfbzlhy4dwm0j234j141zs0
     verified: false
-    hashtags: "#lorde, #gonnabefriends, #slowmochallenge, #mentalhealh"
+    hashtags: "#photoshop, #photography, #photograhy, #photomagic"
+  - username: "fitzpattymac21"
+    fullname: >-
+      Mason Leigh
+    bio: >-
+      Insta: @fitzpattymac21 ✖️ Venmo: Mase21 PO BOX 16685 San Diego, CA 92116
+    location: "United States"
+    followers: 111900
+    engagement: 1319
+    commentsToLikes: 0.028759
+    id: ckcphg06nhhc00j236dxw0gul
+    verified: false
+    hashtags: "#expressieyourself, #showupshowoff, #foryoupage, #smallbusinesscheck"
+  - username: "andrewisahi"
+    fullname: >-
+      Andrew
+    bio: >-
+      Let’s be friends! 📸Photographer🎥 SoCal
+    location: "United States"
+    followers: 120100
+    engagement: 1968
+    commentsToLikes: 0.070922
+    id: ckbf3oj7mricj0j23qo7i37ye
+    verified: false
+    hashtags: "#problemsolved, #expressieyourself, #interiordesign, #beach"
 ---

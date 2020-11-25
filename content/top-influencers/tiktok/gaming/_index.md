@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In 2020
 description: >-
-  Find top gaming TikTok influencers in 2020. Most popular hashtags: #xbox #gaming #nintendo #gamingontiktok.
+  Find top gaming TikTok influencers in 2020. Most popular hashtags: #gaming #fyp #duet #gamer.
 platform: TikTok
+hits: 8622
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 8622 TikTok influencers like this for you to work with.
 profiles:
-  - username: "unknownsmugg"
+  - username: "gamingdaily"
     fullname: >-
-      Unknown Smug
-    location: "Canada"
-    followers: 21964
-    engagement: 1191
-    commentsToLikes: 0.026858
-    id: ckammcdhqzz8f0i78lcd8i8b1
+      Gaming
+    bio: >-
+      250k?📈 👑For the boys👑 ♦️Follow for more gaming content♦️
+    location: "United Kingdom"
+    followers: 206300
+    engagement: 1541
+    commentsToLikes: 0.041339
+    id: ckb9uqjq8tpmz0j238f78efo0
     verified: false
-    hashtags: "#gaming"
+    hashtags: "#gamingdaily, #tiktokgaming, #foryoupage, #fortnite"
   - username: "hackergamingofficial"
     fullname: >-
       Gaming
+    bio: >-
+      The best gaming clips, news, and tips! 🎮 Submit clips to our Instagram 🕹
     location: "United States"
-    followers: 16033
-    engagement: 1281
-    commentsToLikes: 0.011884
+    followers: 22800
+    engagement: 1164
+    commentsToLikes: 0.008727
     id: cka0jrbqijag00i78937gyjp3
     verified: false
-    hashtags: "#marissacooper, #gta5moments, #parenting, #modernwarfareclips"
-  - username: "alyxthefox"
+    hashtags: "#callofduty, #warzoneclips, #codwarzone, #callofdutywarzone"
+  - username: "xit_strategy"
     fullname: >-
-      🍪Cookie lovin fox🍪
+      Robert
+    bio: >-
+      Veni, Vidi, Risi (I came, I saw, I laughed) All around nerd Cosplays & Gaming MN
     location: "United States"
-    followers: 14227
-    engagement: 2279
-    commentsToLikes: 0.073987
-    id: ck9e0g3615ygf0j78pqufymgj
+    followers: 21100
+    engagement: 2166
+    commentsToLikes: 0.062472
+    id: ckb9f5n213brw0j23qunffwvw
     verified: false
-    hashtags: "#devil, #inthehouseparty, #fursona, #birthday"
-  - username: "jadellew"
+    hashtags: "#duet, #cosplay, #warlock, #history"
+  - username: "si1encedbtw"
     fullname: >-
-      JadeLlew
+      si1enced BY THE WAY
+    bio: >-
+      gaming and sports content 🤟 follow the socials🎥 Venmo: ataylor-25 🤑 5k?
+    location: "United States"
+    followers: 3511
+    engagement: 2122
+    commentsToLikes: 0.137476
+    id: ckcelupidvua10j23cd8x76wu
+    verified: false
+    hashtags: "#madden21, #makethisviral, #football, #joke"
+  - username: "roblox.with.nikki"
+    fullname: >-
+      Spam like = block 😼
+    bio: >-
+      User: XxNiki_Gaming1xX 😻😸 TYSM FOR 73.2K AND 1.1MIL LIKES! Disc: nikki#5563 :)
     location: "United Kingdom"
-    followers: 174208
-    engagement: 2181
-    commentsToLikes: 0.039948
-    id: ck8ae4kc19rwi0j78wba8qskq
+    followers: 73200
+    engagement: 2069
+    commentsToLikes: 0.081118
+    id: ckdi62c0h7a3n0j23w2n4xm75
     verified: false
-    hashtags: "#pathtopartner, #anime, #dog, #friends"
-  - username: "xandertastic"
+    hashtags: "#robloxcomedy, #robloxtrend, #roblox, #bloxburg"
+  - username: "ryanxwatson"
     fullname: >-
-      Budget Kylo Ren
+      ryan watson
+    bio: >-
+      20 cashapp $rhythmickid i’m probably gaming🎮 twitch.tv/xrhythmxx he/him ✨
     location: "United States"
-    followers: 2089
-    engagement: 1431
-    commentsToLikes: 0.135833
-    id: cka7vvel5xyrq0i7853wr1f1b
+    followers: 215600
+    engagement: 2011
+    commentsToLikes: 0.107855
+    id: ckaifgttkwv5k0i78akq57oqm
     verified: false
-    hashtags: "#poetry, #smite, #finalsathome, #voiceeffects"
-  - username: "thellamamomma"
+    hashtags: "#fyp, #trump2020, #duet, #gaysfortrump"
+  - username: "mysticsier"
     fullname: >-
-      thellamamomma
+      ✨☁️Sirah💫🍯fff
+    bio: >-
+      ✨ Equestrian ✨ ☁️Animallover☁️ 🍯Gaming🍯 🌙Moonchild💫
+    location: "Suriname"
+    followers: 4653
+    engagement: 1973
+    commentsToLikes: 0.068147
+    id: ckacstw7gbqyo0i78auha9m6m
+    verified: false
+    hashtags: "#fyp, #graduated"
+  - username: "dank_asparagus"
+    fullname: >-
+      Dank
+    bio: >-
+      Video Edits / Gaming 17
     location: "United States"
-    followers: 15745
-    engagement: 1464
-    commentsToLikes: 0.088590
-    id: ck8z8o00eux5i0j78q21odenu
+    followers: 35300
+    engagement: 2768
+    commentsToLikes: 0.044123
+    id: ckbqgkp4a1zu80j23esdyhypb
     verified: false
-    hashtags: "#gamingpc, #squadfill, #doyou, #roblox"
-  - username: "attempting_legendary_pet"
+    hashtags: "#game, #pc, #oof, #meme"
+  - username: "deardesolate"
     fullname: >-
-      Trying legendary pet
-    location: "United Kingdom"
-    followers: 36597
-    engagement: 2325
-    commentsToLikes: 0.120817
-    id: ck8nfymlyu03r0j78gp0itwu8
-    verified: false
-    hashtags: "#roleplay, #tiktok, #like, #feelings"
-  - username: "dailygaming"
-    fullname: >-
-      Gaming CEO
-    location: "United Kingdom"
-    followers: 301376
-    engagement: 2322
-    commentsToLikes: 0.040609
-    id: ckamivhozlpkt0i78m72dyphh
-    verified: false
-    hashtags: "#spiderman, #forzahorizon, #esports4all, #ninja"
-  - username: "venxm.exe"
-    fullname: >-
-      ⚔️ Mikayla ⚔️
+      Samantha Wilson
+    bio: >-
+      12-22-2000🎂 -19 yrs 🇺🇸NC🇺🇸 🎮Gaming🎮 🎭Cosplay🎭 🎨Art🎨
     location: "United States"
-    followers: 154165
-    engagement: 2304
-    commentsToLikes: 0.035187
-    id: ck8fazzus4uda0j78maiccx1e
+    followers: 16100
+    engagement: 2401
+    commentsToLikes: 0.049021
+    id: ckbqbv8wcxnxb0j238s8pg3xr
     verified: false
-    hashtags: "#discord, #astrology, #darkrey, #kyloren"
-  - username: "datdeptrai0610"
+    hashtags: "#rank, #duet, #gameclip, #apexlegends"
+  - username: "chedli"
     fullname: >-
-      Jaykii🌸
-    location: "Viet Nam"
-    followers: 12821
-    engagement: 1241
-    commentsToLikes: 0.091895
-    id: ck9rnktlq83xj0j78l6ilue7a
+      Chedli
+    bio: >-
+      Entrepreneur & Geek #business #mangas #gaming 👇 Tous mes liens ici 👇
+    location: "France"
+    followers: 431700
+    engagement: 1855
+    commentsToLikes: 0.028734
+    id: ck81r041tlciz0j78qvw3wv4x
     verified: false
-    hashtags: "#freefire, #thankyouhero, #laungaykhonggap, #uytingiare"
+    hashtags: "#gaming, #mangas, #game, #manga"
 ---

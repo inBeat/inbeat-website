@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Austin In 2020
 description: >-
-  Find top vegan Instagram influencers in Austin in 2020. Most popular hashtags: #austin #earthday #quarantinelife #vegan.
+  Find top vegan Instagram influencers in Austin in 2020. Most popular hashtags: #vegan #austintexas #photooftheday.
 platform: Instagram
+hits: 65
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 65 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
+  - username: "turmerictshirt"
+    fullname: >-
+      Nivedita | TurmericTshirt
+    bio: >-
+      👩🏻‍🍳 Food 🗺 Travel ☕️ Lifestyle 🤱🏻#newmama #boymom ✨#healthyeating 🍲#homecookedmeals 💃🏼#dancer ☕️#chailover 🏡 - Austin, TX
+    location: "United States"
+    followers: 2644
+    engagement: 830
+    commentsToLikes: 0.096602
+    id: ck8talnt6s9xo0j78x9ica0cs
+    verified: false
+    hashtags: "#ootd, #boymama, #youarewhatyoueat, #dinner"
+  - username: "venxmexe"
+    fullname: >-
+      Mikayla 🐾 ミケーラ
+    bio: >-
+      Your Friendly Neighborhood Youtuber YT: captainmikayla 10.9k TikTok 279k Twitch: 1.5k 23//Cosplayer venmo: venxmexe tiktok:venxmexe
+    location: "United States"
+    followers: 12574
+    engagement: 441
+    commentsToLikes: 0.010861
+    id: ck9wdci62f18r0j78kb5b01q5
+    verified: false
+    hashtags: "#satx, #tanjiro, #anime, #gaming"
   - username: "tarabaros"
     fullname: >-
       Tara Goetz-Baros
+    bio: >-
+      A real down to Mars girl. San Antonio + Austin Very vegan.
     location: "United States"
-    followers: 2132
-    engagement: 1479
-    commentsToLikes: 0.048806
+    followers: 2115
+    engagement: 1329
+    commentsToLikes: 0.054389
     id: ck6u7oo9fmroh0j71vzregk5q
     verified: false
-    hashtags: "#redaesthetic, #porta400"
-  - username: "unhealthyvegan"
-    fullname: >-
-      Dickstraction
-    location: "United States"
-    followers: 31000
-    engagement: 106
-    commentsToLikes: 0.035164
-    id: ck5zz7nlwb8du0i14gkk5go0r
-    verified: false
-    hashtags: "#veganatdisneyland, #followyourheart, #plantbasedparty, #plantbased"
-  - username: "jadewinston"
-    fullname: >-
-      
-    location: "United States"
-    followers: 17993
-    engagement: 480
-    commentsToLikes: 0.019328
-    id: ck55n61085k6f0i1178lk0ugx
-    verified: false
-    hashtags: ""
+    hashtags: "#porta400"
   - username: "modernveganfam"
     fullname: >-
       Modern Vegan Familia
+    bio: >-
+      Join our fam. Follow Adam, Madeline, Addy, & Lazer’s Plant Based Life. Founders of @credofoods . Vegan for ❤️ 🐷 🌎 . Austin, TX based
     location: "United States"
-    followers: 25743
-    engagement: 168
-    commentsToLikes: 0.103150
+    followers: 26334
+    engagement: 142
+    commentsToLikes: 0.127361
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
-  - username: "recordsafari"
+    hashtags: "#dairyfree, #veganfamily, #austinfoodie, #foodismedicine"
+  - username: "lanaato"
     fullname: >-
-      Alex Rodriguez
+      SLEEPLESS MAMA ON THE RUN 🦄
+    bio: >-
+      L A N A⠀A T O 📸 Content creator. Kids whisperer 👯 Raising trilingual girls ♥️ Ukrainian + Nigerian family⠀⠀⠀⠀⠀⠀ 📧 Email for Collaborations
     location: "United States"
-    followers: 33957
-    engagement: 275
-    commentsToLikes: 0.070277
-    id: ck0w5yz9y63ya0i1963hgry5o
+    followers: 65011
+    engagement: 47
+    commentsToLikes: 0.176218
+    id: ck15qhmp12vtw0i195tjzgrvy
     verified: false
-    hashtags: "#bluenote, #tigers, #mothernature, #instadaily"
+    hashtags: "#balletdancer, #midcenturymodern, #homedecorinspo, #midcentury"
   - username: "twoolf29"
     fullname: >-
       Troy Woolfolk
+    bio: >-
+      Vegan Fit 🌱💪🏽 Current Austin Fittest Champion Day 5 of 100 days of running 🏃🏾‍♂️ See my crazy family where we bring our personal lives public ⬇️
     location: "United States"
-    followers: 34042
-    engagement: 209
-    commentsToLikes: 0.065117
+    followers: 37403
+    engagement: 238
+    commentsToLikes: 0.066439
     id: ck13cw6uy2gph0i19f8vqrdl9
     verified: false
-    hashtags: "#quarantinefamily, #toosieslide, #battleropes, #quarantinelife"
-  - username: "urbanbettysalon"
+    hashtags: "#bandworkouts, #candychallenge, #medballvolleyball, #gymhumor"
+  - username: "harleyquinnsmith"
     fullname: >-
-      Urban Betty™
+      Harley Quinn Smith 🧚🏻‍♀️
+    bio: >-
+      a friend to all animals🐇🦃🐳🐮🦊🐘, actor, bassist / vocalist in @thetenthband and cohost of @veganabattoir
     location: "United States"
-    followers: 42324
-    engagement: 126
-    commentsToLikes: 0.017516
-    id: ck134zfpyyy520i1908j8eqgs
-    verified: false
-    hashtags: "#sustainablebeauty, #goodvibes, #kerastasefreshaffair, #babylights"
-  - username: "andressgarcia1"
-    fullname: >-
-      Andres Garcia
-    location: "United States"
-    followers: 17556
-    engagement: 549
-    commentsToLikes: 0.051662
-    id: ck6u1yp0moohb0j71sbzdr9iq
-    verified: false
-    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
+    followers: 278612
+    engagement: 490
+    commentsToLikes: 0.011347
+    id: ck0uakel2cien0i19jl6jelvv
+    verified: true
+    hashtags: "#callmekat"
   - username: "ammeb"
     fullname: >-
       🌸Amme B🌸
+    bio: >-
+      🌸Handmade lingerie & more 🌸Austin, Tx 🌸Brows: @ammebbrows 🌿vegan🌿 ✉️ AmmeBmail@gmail.com
     location: "United States"
-    followers: 82174
-    engagement: 279
-    commentsToLikes: 0.014812
+    followers: 82121
+    engagement: 292
+    commentsToLikes: 0.011490
     id: ck14gretu6n9v0i19kcgnedzg
     verified: false
-    hashtags: "#clouds, #pale, #lamb, #warm"
-  - username: "truebluewill"
+    hashtags: "#comfy, #spooky, #halloweendecor, #ghostface"
+  - username: "jennamasar"
     fullname: >-
-      Just Will
+      j e n n a m a s a r
+    bio: >-
+      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
     location: "United States"
-    followers: 10829
-    engagement: 417
-    commentsToLikes: 0.032977
-    id: ck13ad1hrps800i19uyed2apq
+    followers: 7512
+    engagement: 973
+    commentsToLikes: 0.113646
+    id: ckaozs50jn5xc0i7844bpf7zw
     verified: false
-    hashtags: "#intention, #hadtodoit, #shibastagram, #drillweekends"
+    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
+  - username: "novaruu"
+    fullname: >-
+      ✨ Novaruu ✨
+    bio: >-
+      Twitch Partner ~ Discord Partner ~ Cat Mom ~ Vegan ~ 21 Years old ~ business inquiries: novaruuofficial@gmail.com
+    location: "United States"
+    followers: 118535
+    engagement: 583
+    commentsToLikes: 0.015900
+    id: ck5cabm73d3w40i11gaecjbym
+    verified: false
+    hashtags: "#twitchstreamer, #photooftheday, #model, #austintexas"
 ---

@@ -1,27 +1,34 @@
 ---
 title: Top 10 Triathlon Athletes Instagram Influencers In 2020
 description: >-
-  Find top triathlon athletes Instagram influencers in 2020. Most popular hashtags: #ciclisme #lovemybike #orbeaomx #pornbike.
+  Find top triathlon athletes Instagram influencers in 2020. Most popular hashtags: #triathletes #compressport #sunday #giuliomolinari.
 platform: Instagram
+hits: 2
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 2 Instagram influencers like this for you to connect with.
 profiles:
   - username: "giulio.molinari"
     fullname: >-
       Giulio Molinari
+    bio: >-
+      Italian PRO triathlon athlete. 2014-2016-2018 European champion. 2014-2016-2017 Italian champion. Kona 2017 and 2018. 🥇 Icon Livigno Xtreme
     location: "Italy"
     followers: 9509
     engagement: 1205
     commentsToLikes: 0.030821
     id: ck134zj3yyymk0i19oji97o3u
     verified: false
-    hashtags: "#presenti, #challengericcione, #nonfatecazzate, #challengefamily"
-  - username: "pol.tarres"
+    hashtags: "#iorestoacasa, #giuliomolinari, #compressport, #livigno"
+  - username: "olgapurroytri"
     fullname: >-
-      Pol Tarrés Martrat
-    location: "Italy"
-    followers: 18395
-    engagement: 519
-    commentsToLikes: 0.028261
-    id: ck0u202v4yegt0i195jki5qjx
+      Olga Purroy
+    bio: >-
+      •Madre y Esposa 👨‍👩‍👧‍👦 •Ciclista de Pista y Ruta🚵 •Triatleta 🏊🚴🏃 • #roadtokona2021 🌺 Team @trespinas 👇Diplomado Inteligencia Mental Deportiva 👇
+    location: "Venezuela"
+    followers: 10989
+    engagement: 612
+    commentsToLikes: 0.045832
+    id: ck8t4sr627uzg0j78gmpf83r7
     verified: false
-    hashtags: "#orbearallon, #roadbikelife, #roadbike, #cyclingaddict"
+    hashtags: "#triathletes, #bike, #citybikesmiami, #swimbikerun"
 ---

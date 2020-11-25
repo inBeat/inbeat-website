@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Brazil In 2020
 description: >-
-  Find top skincare Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #photography #make #quarentena.
+  Find top skincare Instagram influencers in Brazil in 2020. Most popular hashtags: #blogger #skincare #cacheadas.
 platform: Instagram
+hits: 806
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 806 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "carolinemonratier"
+  - username: "larissascanavini"
     fullname: >-
-      CAROLINE MONRATIER 🌸
+      𝑳𝑨𝑹𝑰𝑺𝑺𝑨 𝑺𝑪𝑨𝑵𝑨𝑽𝑰𝑵𝑰
+    bio: >-
+      🦁WavyHair | Skincare | Lifestyle 📍Piracicaba, São Paulo 💌 cachosdalari@outlook.com 🎥 Vídeos toda semana
     location: "Brazil"
-    followers: 44525
-    engagement: 327
-    commentsToLikes: 0.067993
-    id: ckap2w29a0kf20i785bdh6obi
+    followers: 40601
+    engagement: 723
+    commentsToLikes: 0.037779
+    id: ck8t7uz1ji2140j78ss6yig05
     verified: false
-    hashtags: ""
-  - username: "rafaellarondelli"
+    hashtags: "#origemeuescolhocachos, #publicidade, #celebresuabeleza, #origem"
+  - username: "wanderlannascimento"
     fullname: >-
-      Rafaella Rondelli
+      WANDERLAN NASCIMENTO
+    bio: >-
+      CABELO • SKINCARE • LIFESTYLE 🎥| YouTuber +300K | 📍RJ 📸| criador do #ProjetoArvore 📥| wanderlanytb@gmail.com
     location: "Brazil"
-    followers: 47782
-    engagement: 544
-    commentsToLikes: 0.035866
-    id: ck8t2s3m90iay0j78uc2d7hbv
+    followers: 105996
+    engagement: 905
+    commentsToLikes: 0.019758
+    id: ck0tu8wwk64710i19xncxqy9w
     verified: false
-    hashtags: "#rafazenaeuropa, #glowskin, #quarentena, #moletom"
-  - username: "fernandarosa10"
+    hashtags: "#tran, #penteados, #curlynaturalhair, #afro"
+  - username: "adriaferreiramk"
     fullname: >-
-      Fernanda Rosa
+      Elô✨
+    bio: >-
+      ✨Empreendedora da beleza✨ 🤩 Makeup&Skincare vc encontra aqui 📍Paraense em Porto Alegre
     location: "Brazil"
-    followers: 21310
-    engagement: 295
-    commentsToLikes: 0.083563
-    id: ckap4wo0h97u50i78rqua995s
+    followers: 14324
+    engagement: 585
+    commentsToLikes: 0.339245
+    id: ck8tagtxhrozw0j788xudhqfl
     verified: false
-    hashtags: "#amese, #unhas, #esmalteavon, #quarentena"
-  - username: "nattycastelano"
+    hashtags: "#consultoramarykay, #200milnew, #euescolhimarykay, #marykay"
+  - username: "naelisilva_"
     fullname: >-
-      Natalia Castelano
+      💫NAELI DA SILVA💫
+    bio: >-
+      • cabelo | skincare | dicas | • assista os reels 💃🏽 | parcerias via direct | modelo fotográfica 📸 não repare a bagunça aqui | 💍
     location: "Brazil"
-    followers: 11359
-    engagement: 544
-    commentsToLikes: 0.263186
-    id: ck8t23vjqy1z70j78ldjq7h5j
+    followers: 9264
+    engagement: 875
+    commentsToLikes: 0.527752
+    id: ck8t1ytt5xldn0j784rqv3any
     verified: false
-    hashtags: "#dailus, #diadasm, #make, #babosa"
-  - username: "carolvieli"
-    fullname: >-
-      Carolina
-    location: "Brazil"
-    followers: 5008
-    engagement: 701
-    commentsToLikes: 0.237124
-    id: ck9hbjfyoh3n80j78bevho1mo
-    verified: false
-    hashtags: "#pordosol, #prewedding, #outonoinverno, #paisagem"
-  - username: "carolinacalezani"
-    fullname: >-
-      𝓀𝒶𝓇𝓊
-    location: "Brazil"
-    followers: 18806
-    engagement: 394
-    commentsToLikes: 0.054696
-    id: ck135dlsh0x9w0i19m3wwqnru
-    verified: false
-    hashtags: "#maquiagemazul, #coloredhair, #tutorial, #sunsetmakeup"
-  - username: "emikimura_"
-    fullname: >-
-      Emillain Kimura 🇧🇷🇯🇵
-    location: "Brazil"
-    followers: 2200
-    engagement: 1771
-    commentsToLikes: 0.136793
-    id: ck9wffdh4on4h0j78ypo0kscs
-    verified: false
-    hashtags: "#makeupartist, #lovemakeup, #sakura, #nihon"
-  - username: "beatrizromano"
-    fullname: >-
-      BEATRIZ ROMANO
-    location: "Brazil"
-    followers: 52045
-    engagement: 116
-    commentsToLikes: 0.094288
-    id: ck8wgeuw0h7x50j786ma4jmgm
-    verified: false
-    hashtags: "#todosdemascara, #foxyeyes, #minibag, #quarentena"
+    hashtags: "#cacheadas, #morenailuminada, #morena, #cacheada"
   - username: "furtadobianca"
     fullname: >-
       Lara Bianca ✨
+    bio: >-
+      🧚‍♀️Falo sobre skincare, dicas de apps e causos de my life 🎙•𝘑𝘰𝘳𝘯𝘢𝘭𝘪𝘴𝘮𝘰 👩🏼‍💻•𝘚𝘰𝘤𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 💌biancamarinho@icloud.com O 𝖻𝗅𝗈𝗀 voltou!
     location: "Brazil"
     followers: 6495
     engagement: 466
     commentsToLikes: 0.090615
     id: ck13cgjod08ba0i198zjo8rbl
     verified: false
-    hashtags: "#efect, #conex, #hotfilter, #highthebeach"
-  - username: "arianapennacchia"
+    hashtags: "#ruivasbrasil, #ruivas, #quarentena, #look"
+  - username: "yasminmeron"
     fullname: >-
-      Ariana Pennacchia ♡
+      Yasmin Meron
+    bio: >-
+      ✨Que eu possa sempre espalhar luz e MOTIVAR as pessoas a ALCANÇAR a sua melhor versão 🧿🙌🏻 #motivacional,#skincare e #beleza Sócia no @luciamatelie ✂️
     location: "Brazil"
-    followers: 31036
-    engagement: 107
-    commentsToLikes: 0.065822
-    id: ck5pvzoaske300i11cd40wxf5
+    followers: 16680
+    engagement: 232
+    commentsToLikes: 0.094037
+    id: ckaote9luvjz90i78srdqs2sp
     verified: false
-    hashtags: "#btrederose, #btglamlashes, #makeuptutorial, #blackeyes"
+    hashtags: "#cadaluzumacor, #variostons, #cronogramacapilar, #antesedepois"
+  - username: "fernandarosa10"
+    fullname: >-
+      Fernanda Rosa
+    bio: >-
+      Dicas : Moda | Skincare| Fitness | Owner: @belaespumaa YouTube: Dicas da Nanda Contato: fernandaduarte008@gmail.com
+    location: "Brazil"
+    followers: 20631
+    engagement: 187
+    commentsToLikes: 0.159451
+    id: ckap4wo0h97u50i78rqua995s
+    verified: false
+    hashtags: "#blogueiradebeleza, #blogueirasbrasil, #blogueiras, #skincare"
+  - username: "clarabordieri"
+    fullname: >-
+      CLARA BORDIERI
+    bio: >-
+      ▪️ psicologia / modelo 📩contato: clarabordieri@hotmail.com maquiagem, skincare, cultura e cuidado ❣️
+    location: "Brazil"
+    followers: 66236
+    engagement: 297
+    commentsToLikes: 0.020378
+    id: ck0vwdagzt6gb0i19sswg6x4a
+    verified: false
+    hashtags: "#b4s, #influenciadoresdabeleza, #beauty4share, #rubyrosenab4s"
+  - username: "jbossle"
+    fullname: >-
+      João Bossle
+    bio: >-
+      SkinCare e Moda Masculina. Co-Founder of @bossa_studio Model at @joymodelpoa 🌱 #nomeat
+    location: "Brazil"
+    followers: 74617
+    engagement: 382
+    commentsToLikes: 0.015472
+    id: ck6tmc08n7k9p0j71atcnmn0a
+    verified: false
+    hashtags: "#mood, #sc, #jeanpaulgautier, #menstyle"
+  - username: "japaakasaki"
+    fullname: >-
+      𝑳𝒖𝒊́𝒔𝒂 𝑨𝒌𝒂𝒔𝒂𝒌𝒊 △
+    bio: >-
+      🦋 Meus stories, meu dia a dia 🦋. Vida real | Sem padrões | Lifestyle | Fitness | Skincare. ✨ Fisioterapeuta | instrutora de pilates. ✨
+    location: "Brazil"
+    followers: 7661
+    engagement: 587
+    commentsToLikes: 0.127565
+    id: ckf5prdzt71vj0j2363f21oxj
+    verified: false
+    hashtags: "#rj, #sol, #goodvibes, #companheiro"
 ---

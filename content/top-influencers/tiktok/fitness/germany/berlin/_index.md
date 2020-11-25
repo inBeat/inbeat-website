@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Berlin In 2020
 description: >-
-  Find top fitness TikTok influencers in Berlin in 2020. Most popular hashtags: #berlin #fitness #workout #party.
+  Find top fitness TikTok influencers in Berlin in 2020. Most popular hashtags: #fitness #berlin #fyp #foryou.
 platform: TikTok
+hits: 13
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
-  - username: "dailydoseoffashion"
+  - username: "fitmitkev"
     fullname: >-
-      Cassy Anna💗
+      Kevin Reinke
+    bio: >-
+      Fitness 💪🏼 Motivation 🔥 Ernährung 🥗 Bln📍ESN Athlet 📲 Instagram @fitmitkev
     location: "Germany"
-    followers: 3491
-    engagement: 909
-    commentsToLikes: 0.028190
-    id: ck9r99j2ifoi80j78fbqj4o0t
+    followers: 126300
+    engagement: 516
+    commentsToLikes: 0.038791
+    id: ckcp5ue2ccw3l0j23hbpeqze4
     verified: false
-    hashtags: "#abs, #squatchallenge, #disney, #xoxogosipgirl"
-  - username: "emmakantt"
+    hashtags: "#lecker, #herbstsport, #berlin, #abnehmtipps"
+  - username: "isaacmik"
     fullname: >-
-      die Emma 🌞
+      isaacmik
+    bio: >-
+      Instagram: @isaacmik
     location: "Germany"
-    followers: 159086
-    engagement: 1142
-    commentsToLikes: 0.007459
-    id: ck81swwittq1w0j78mhlo8wj6
+    followers: 41300
+    engagement: 1010
+    commentsToLikes: 0.033998
+    id: cka0odyxl3dld0i7848hj6s0z
     verified: false
-    hashtags: "#homeworkout, #dancechallenge, #style, #crush"
+    hashtags: "#tanz, #hotbox, #fd, #miktwins"
+  - username: "lilianviegas"
+    fullname: >-
+      Lilian Viegas
+    bio: >-
+      humor shizzle & stupid jokes comedy Film ❤️ Acting 📡BERLiN🧸
+    location: "Germany"
+    followers: 47400
+    engagement: 2700
+    commentsToLikes: 0.011153
+    id: ck9pm21p774km0j78l1q5mivd
+    verified: false
+    hashtags: "#tiktokserie, #himmel, #spa, #scifi"
+  - username: "shredlifestyle"
+    fullname: >-
+      Shred
+    bio: >-
+      Creator🎬 OnlineCoach💪 Fitnessmodel📸 Official Creator @ #LernenMitTikTok💡
+    location: "Germany"
+    followers: 339000
+    engagement: 1131
+    commentsToLikes: 0.012640
+    id: cka6lop1l41390i78y20p2h5j
+    verified: false
+    hashtags: "#vlog, #lernenmittiktok, #trend, #verhalten"
+  - username: "sandra.winnik"
+    fullname: >-
+      Sandra
+    bio: >-
+      26 🤷🏻‍♀️ 🔥CEO of BERLIN🔥 🔥Instagram: sandramipw🔥
+    location: "Germany"
+    followers: 5020
+    engagement: 434
+    commentsToLikes: 0.072640
+    id: ckb8y2q6idaqf0j23kibkhr77
+    verified: false
+    hashtags: "#german, #fyp, #peopleofberlin, #mitte"
   - username: "kaihou718"
     fullname: >-
       user2430847450557
+    bio: >-
+      Artist,Guinness World records Holder,🏡Berlin IG Kaihou718 houkai0712@gmail.com
     location: "Germany"
-    followers: 13784
-    engagement: 943
-    commentsToLikes: 0.008810
+    followers: 23700
+    engagement: 1065
+    commentsToLikes: 0.011618
     id: cka0kfhm3mf5c0i78ge0qdhzp
     verified: false
-    hashtags: "#dancemonkey, #kickups, #robbailey, #radioacitive"
-  - username: "isek_"
+    hashtags: "#yoga, #sports, #fyp, #parkour"
+  - username: "ohbrothermusic"
     fullname: >-
-      Isek_
+      Oh Brother
+    bio: >-
+      Zwei Brüder aus Berlin, die am liebsten singen und Songs schreiben 💥
     location: "Germany"
-    followers: 10172
-    engagement: 549
-    commentsToLikes: 0.014468
-    id: ck8koavrdgw340j78nmgucivc
+    followers: 203300
+    engagement: 973
+    commentsToLikes: 0.007223
+    id: ck9c08k3ao4880j78cmz8dx83
     verified: false
-    hashtags: "#herbst, #shooting, #berlin, #sunset"
-  - username: "leliworld.official"
+    hashtags: "#musikvideo, #foryoupage, #gef, #rosenausplastik"
+  - username: "hendrik_senf"
     fullname: >-
-      leliworld
+      Senfi
+    bio: >-
+      CrossFitter aus Berlin 🤸🏼‍♂️ Instagram: hendrik_senf
     location: "Germany"
-    followers: 46196
-    engagement: 2182
-    commentsToLikes: 0.031609
-    id: ck9v7as2l5ba80j78knes6cha
+    followers: 11800
+    engagement: 713
+    commentsToLikes: 0.018923
+    id: ckbkop3i3ivsp0j23ckxr89ww
     verified: false
-    hashtags: "#news, #glowcon, #robbiebubble, #showlove"
+    hashtags: "#gewichtheben, #challenge, #funny, #viral"
+  - username: "maximiliankelm"
+    fullname: >-
+      Maximilian Kelm
+    bio: >-
+      📍Hamburg Sporfotograf / Entertainer
+    location: "Germany"
+    followers: 21100
+    engagement: 542
+    commentsToLikes: 0.027524
+    id: ckblmerc4eo7b0j23k9robb4y
+    verified: false
+    hashtags: "#community, #sommer, #bundesliga, #steuern"
   - username: "talha.651"
     fullname: >-
       Talha
+    bio: >-
+      ⬇️1.Single ,,Talha - Kein Sidechick“ Out Now⬇️
     location: "Germany"
     followers: 25927
     engagement: 1441
     commentsToLikes: 0.010619
     id: cka9omkhw5wlf0i78bkknb5bg
     verified: false
-    hashtags: "#fy, #sport, #berlin, #girls"
-  - username: "luckyzeus63"
-    fullname: >-
-      🍀Lucky Zeus⚡️
-    location: "Germany"
-    followers: 6329
-    engagement: 2083
-    commentsToLikes: 0.234096
-    id: ckal869z7i6eg0i78r3zkoezv
-    verified: false
-    hashtags: "#musiker, #music, #fastenbrechen, #tiktokdance"
-  - username: "fatcomedy1"
-    fullname: >-
-      FATCOMEDY
-    location: "Germany"
-    followers: 1049310
-    engagement: 954
-    commentsToLikes: 0.008352
-    id: ck9rms9ek4d300j78vnboypgc
-    verified: true
-    hashtags: "#tiktok, #tired, #cocacola, #dance"
-  - username: "chillis.life"
-    fullname: >-
-      Chilli
-    location: "Germany"
-    followers: 52413
-    engagement: 1025
-    commentsToLikes: 0.041232
-    id: ck81t19pquo6z0j78uko3ulso
-    verified: false
-    hashtags: "#schlemmerei, #protein, #boottyworkout, #abstraining"
-  - username: "stronghijabi"
-    fullname: >-
-      Strong Hijabi
-    location: "Germany"
-    followers: 14059
-    engagement: 759
-    commentsToLikes: 0.046152
-    id: ck9grjapte8ue0j78u8r7qxp2
-    verified: false
-    hashtags: "#music, #thankyou, #againstracism, #ern"
+    hashtags: "#viral, #fyp, #talha, #fitness"
 ---

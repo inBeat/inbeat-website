@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Peru In 2020
 description: >-
-  Find top fashion TikTok influencers in Peru in 2020. Most popular hashtags: #fashion #yoenlafiesta #greenscreen #outfit.
+  Find top fashion TikTok influencers in Peru in 2020. Most popular hashtags: #peru #fashion #foryou #tiktokfashion.
 platform: TikTok
+hits: 28
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 28 TikTok influencers like this in Peru for you to contact.
 profiles:
+  - username: "deysivilla"
+    fullname: >-
+      Deysi
+    bio: >-
+      Fashion Designer <3 Perú❤️
+    location: "Peru"
+    followers: 103100
+    engagement: 1510
+    commentsToLikes: 0.019573
+    id: ckbqpqz0pal2y0j23qiryugvz
+    verified: false
+    hashtags: "#fashiondesigner, #pandmian, #amongus, #pandemian"
   - username: "mariaclaudia.durand"
     fullname: >-
       mariaclaudiadurand
+    bio: >-
+      Latina🇵🇪 Curvy Fashion Hacks🍑 Makeup lover💄 Sígueme en Insta🤍 #bodypositive
     location: "Peru"
-    followers: 3996
-    engagement: 636
-    commentsToLikes: 0.029487
+    followers: 18900
+    engagement: 575
+    commentsToLikes: 0.035493
     id: cka620sk5xu720i78rsx2qier
     verified: false
-    hashtags: "#trend, #denimoutfit, #posetip, #serononoser"
-  - username: "fashionindahat"
+    hashtags: "#bodypositivitychain, #curvypower, #selfconfidencebooster, #sheingals"
+  - username: "vernacula"
     fullname: >-
-      Alemazzini
+      Vernácula Concept S.
+    bio: >-
+      🔋Fashion/Art&Deco Lima, Perú🇵🇪 IG: @vernacula
     location: "Peru"
-    followers: 133752
-    engagement: 909
-    commentsToLikes: 0.017817
-    id: ck83zb3mrzbfn0j78tafbmdmf
+    followers: 7359
+    engagement: 822
+    commentsToLikes: 0.020783
+    id: ckbqhez072r1l0j238aspppt4
     verified: false
-    hashtags: "#hairstyle, #fashionblog, #photoshoot, #greenscreen"
-  - username: "lidiaportalpolo"
+    hashtags: "#vernacula, #peru, #trend, #moda"
+  - username: "iamantoniosuarez"
     fullname: >-
-      Lidia Portal Polo
+      Antonio Suarez
+    bio: >-
+      🇵🇪 •Mi IG @iamantoniosuarez ✌🏽 •Mi Marca IG @saneropa 💀
     location: "Peru"
-    followers: 55931
-    engagement: 712
-    commentsToLikes: 0.033204
-    id: ck9enwl7xldgv0j78tfiezg7z
+    followers: 27700
+    engagement: 528
+    commentsToLikes: 0.059470
+    id: ckbfgxsxmc59y0j23ceumqs68
     verified: false
-    hashtags: "#soycomotu, #curvywomen, #neonlights, #morph"
-  - username: "luanabarron"
-    fullname: >-
-      Luana 
-    location: "Peru"
-    followers: 298421
-    engagement: 981
-    commentsToLikes: 0.013489
-    id: ck9f1uw5ma82r0j786jf8cz6j
-    verified: false
-    hashtags: "#foryourpage, #food, #makemefamous, #coronavirus"
-  - username: "flavialaosu1"
-    fullname: >-
-      Flavia Laos Urbina
-    location: "Peru"
-    followers: 712318
-    engagement: 661
-    commentsToLikes: 0.006701
-    id: cka6b5s2myzza0i78kwjqssfs
-    verified: true
-    hashtags: "#outfitinspo, #couple, #dancechallenge, #party"
-  - username: "rafaelortiz.pe"
-    fullname: >-
-      Rafael Ortiz
-    location: "Peru"
-    followers: 18335
-    engagement: 752
-    commentsToLikes: 0.041739
-    id: cka0hbt4k8l0l0i78irf8ga7k
-    verified: false
-    hashtags: "#cute, #youtube, #speedart, #socialmedia"
-  - username: "hannacoreana"
-    fullname: >-
-      Hanna Coreana
-    location: "Peru"
-    followers: 33977
-    engagement: 1759
-    commentsToLikes: 0.022304
-    id: ckacegpcjmpdv0i78uig42kzh
-    verified: false
-    hashtags: "#rutinadeabs, #quarantinelife, #bailecito, #saysodance"
-  - username: "apoyo_a_kelin"
-    fullname: >-
-      Apoyo a Reinas 🇵🇪
-    location: "Peru"
-    followers: 10256
-    engagement: 636
-    commentsToLikes: 0.127849
-    id: ck9fmbkg8sd4y0j78zgrwnun0
-    verified: false
-    hashtags: "#fashion, #moyobamba, #missmundo, #peruviangirl"
+    hashtags: "#fashionhacks, #tiktokperu, #gamarra, #fashioninspo"
   - username: "nicole.dileo1"
     fullname: >-
       Nicole Dileo
+    bio: >-
+      🇵🇪 M O D E L ♡ C R E A T O R Instagram: @nicoledileo1
     location: "Peru"
-    followers: 40328
-    engagement: 1650
-    commentsToLikes: 0.019619
+    followers: 71300
+    engagement: 1376
+    commentsToLikes: 0.018012
     id: cka0ifj10dep60i78bllrncuh
     verified: false
-    hashtags: "#cruelrealidad, #lookalike, #dance, #greenscreen"
-  - username: "lucumastyle"
+    hashtags: "#youwantmore, #protagonista, #halloween, #harrypotter"
+  - username: "fashionindahat"
     fullname: >-
-      Mara
+      Alemazzini
+    bio: >-
+      A ver qué pasa si le das click a esa 👆 cámara de arriba
     location: "Peru"
-    followers: 49880
-    engagement: 1069
-    commentsToLikes: 0.031170
-    id: ck85cny1c2lpo0j78q3hmxirj
+    followers: 185100
+    engagement: 1112
+    commentsToLikes: 0.014071
+    id: ck83zb3mrzbfn0j78tafbmdmf
     verified: false
-    hashtags: "#drama, #makeuphacks, #postre, #hamburguesa"
+    hashtags: "#feminismo, #sermujer, #fashion, #model"
+  - username: "demidevill.v"
+    fullname: >-
+      Vαɳια Oʅҽɳƙα
+    bio: >-
+      𝔅𝔢𝔰𝔦𝔱𝔬𝔰 𝔢𝔫 𝔢𝔩 𝔭𝔬𝔱𝔦𝔱𝔬💋
+    location: "Peru"
+    followers: 12500
+    engagement: 1105
+    commentsToLikes: 0.016167
+    id: ckd6b4ucs4n270j23xmmyqq6o
+    verified: false
+    hashtags: "#trending, #wap, #daisy, #parati"
+  - username: "ancerilo"
+    fullname: >-
+      Ana Cecilia Rivero
+    bio: >-
+      👨‍👩‍👧‍👦Mamá de 2, diseñadora, y stylist Este es mi #estilodemama 💛🇵🇪
+    location: "Peru"
+    followers: 4688
+    engagement: 222
+    commentsToLikes: 0.018737
+    id: ckbfdf1jp6ovv0j23dqbbs40w
+    verified: false
+    hashtags: "#modasostenible, #style, #mystyle, #tutorial"
+  - username: "gracecentenoalmen"
+    fullname: >-
+      Grace Centeno Almendras
+    bio: >-
+      Me ayudan siguiendo mi página ? 💓 ⬇️
+    location: "Peru"
+    followers: 54900
+    engagement: 616
+    commentsToLikes: 0.016618
+    id: ckbfisuuievpl0j23db0bjwwx
+    verified: false
+    hashtags: "#cuarentena, #tendencia, #fashion, #per"
+  - username: "perucitainca"
+    fullname: >-
+      Perúdcr
+    bio: >-
+      🐟🍸🇵🇪 El Mejor ceviche y Pisco solo en 🇵🇪🌊🏄‍♀️
+    location: "Peru"
+    followers: 10300
+    engagement: 1596
+    commentsToLikes: 0.062421
+    id: ckai7p10i13240i787ii6rxne
+    verified: false
+    hashtags: "#culturaperuana, #huancayo, #per, #peruanisimo"
 ---

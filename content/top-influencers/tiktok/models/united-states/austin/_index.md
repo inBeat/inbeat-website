@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Austin In 2020
 description: >-
-  Find top models TikTok influencers in Austin in 2020. Most popular hashtags: #model #tiktok #challenge #cute.
+  Find top models TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #model #foryou #fashion.
 platform: TikTok
+hits: 56
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 56 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "axelgramirez"
+  - username: "austin.deforest"
     fullname: >-
-      Axel🇲🇽
+      Austin D
+    bio: >-
+      AKRON Off-Road CODE: AustinDeforest54 snap- Austin.Deforest
     location: "United States"
-    followers: 6129
-    engagement: 1284
-    commentsToLikes: 0.034133
-    id: ckacfnhuprp0j0i780olg87dx
+    followers: 36300
+    engagement: 1525
+    commentsToLikes: 0.024564
+    id: ckbl2mjajzsa30j23j42v8jzc
     verified: false
-    hashtags: "#elpaso, #puro956, #fxckice, #texas"
-  - username: "klgregg03"
-    fullname: >-
-      Kati Gregg🐻✨
-    location: "United States"
-    followers: 599580
-    engagement: 3419
-    commentsToLikes: 0.084142
-    id: ck8w1bge41b7c0j78l0exn0aa
-    verified: false
-    hashtags: "#easter, #promplaylist, #neverfitin, #tossyourcap"
-  - username: "stewinabowl"
-    fullname: >-
-      stewinabowl
-    location: "United States"
-    followers: 7439
-    engagement: 446
-    commentsToLikes: 0.028291
-    id: ck9r4pq90w43h0j78cwso3s92
-    verified: false
-    hashtags: "#pizza, #pilot, #kween, #chiuhahua"
+    hashtags: "#barstoolsports, #trump, #aceduramax, #conservative"
   - username: "thepinggonggirl"
     fullname: >-
       Soo Yeon Lee
+    bio: >-
+      I’m a professional table tennis player 🏓 / Model
     location: "United States"
-    followers: 3041
-    engagement: 232
-    commentsToLikes: 0.022648
+    followers: 3983
+    engagement: 201
+    commentsToLikes: 0.016847
     id: cka0xdexv6mfy0i78pf8l7wql
     verified: false
-    hashtags: "#hoopbus, #quarantine, #ahichallenge, #model"
-  - username: "ninaberenato"
+    hashtags: "#sport, #foryou, #playathome, #pingponggirl"
+  - username: "luxelilyh"
     fullname: >-
-      Nina Berenato
+      luxelilyh
+    bio: >-
+      once a trash teenager, now a model citizen
     location: "United States"
-    followers: 11859
-    engagement: 627
-    commentsToLikes: 0.011779
-    id: ck81s9n0nr1y10j785ei5mkqu
+    followers: 122200
+    engagement: 1203
+    commentsToLikes: 0.006732
+    id: ckbl4d4gj1u500j238fk0km5s
     verified: false
-    hashtags: "#jeweleymaking, #getthelook, #tomboy, #realtalk"
+    hashtags: "#foryou, #summer2020, #4you, #4youpage"
+  - username: "justineschiavone"
+    fullname: >-
+      Justine
+    bio: >-
+      Alternative Model 20 Follow my IG for modeling content Only Fans 👇🏻👇🏻
+    location: "United States"
+    followers: 159900
+    engagement: 1678
+    commentsToLikes: 0.011793
+    id: ckal6dihqafd90i78f55cqrzn
+    verified: false
+    hashtags: "#transformation, #trend, #lipsync, #neonshadow"
+  - username: "sydneylbell"
+    fullname: >-
+      Sydney Bell
+    bio: >-
+      ➕ Curve Model 💖 Self Love 💕 Goal: 70K ✨IG: @SydneyLBell
+    location: "United States"
+    followers: 99500
+    engagement: 2250
+    commentsToLikes: 0.011126
+    id: cka0vtsm302810i78ptb6l4v7
+    verified: false
+    hashtags: "#wapchallenge, #bodypositivity, #foryoupage, #plussize"
+  - username: "lauraldrin"
+    fullname: >-
+      lauraldrin
+    bio: >-
+      Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
+    location: "United States"
+    followers: 18200
+    engagement: 537
+    commentsToLikes: 0.044282
+    id: ck9nhf644fz3g0j78osemjvf2
+    verified: false
+    hashtags: "#transformation, #foxyeyes, #fyp, #ihavenothing"
   - username: "imgmodels"
     fullname: >-
       IMGmodels
+    bio: >-
+      IMG Models Worldwide
     location: "United States"
-    followers: 79292
-    engagement: 350
-    commentsToLikes: 0.023205
+    followers: 103800
+    engagement: 542
+    commentsToLikes: 0.019005
     id: ck9047hbmdxns0j78r34ue41c
     verified: true
-    hashtags: "#holidaycountdown, #fashionfails, #threewords, #runwayforrelief"
-  - username: "lunagreyflame"
+    hashtags: "#imgmodels, #runwaychallenge, #img, #modelchallenge"
+  - username: "taylorwedding"
     fullname: >-
-      thelunagrey 🌙💕
+      Taylor Wedding
+    bio: >-
+      I make noises and voices and art and take photos for a living 23 TX
     location: "United States"
-    followers: 24646
-    engagement: 697
-    commentsToLikes: 0.057394
-    id: ck8ufvd1v3ajp0j78qn3g408l
+    followers: 42700
+    engagement: 2081
+    commentsToLikes: 0.045342
+    id: ck95z2w6ycqpd0j78ogjs7muy
     verified: false
-    hashtags: "#tricky, #shine, #beauty, #singsong"
-  - username: "lil_bit_of_turbo"
+    hashtags: "#avatar, #sing, #fy, #atla"
+  - username: "viennaprom"
     fullname: >-
-      Mazikeen Bishop
+      viennaprom
+    bio: >-
+      👗✨Be Unique, Be You, Rock Vienna✨👗
     location: "United States"
-    followers: 20234
-    engagement: 934
-    commentsToLikes: 0.038162
-    id: ck94l4tcpxtt90j781qkxc8jt
+    followers: 11900
+    engagement: 808
+    commentsToLikes: 0.013143
+    id: ckcvhpb3ouj450j23ijke3qf8
     verified: false
-    hashtags: "#lonelychair, #bass, #paypal, #hurt"
-  - username: "icmerz"
+    hashtags: "#hoco2020, #model, #homecoming, #viennagown"
+  - username: "babvsam"
     fullname: >-
-      Ian Merzwinski
+      Samantha
+    bio: >-
+      just vibin
     location: "United States"
-    followers: 160137
-    engagement: 1157
-    commentsToLikes: 0.023362
-    id: cka7nqfvly8950i78fqj4yv9f
+    followers: 39600
+    engagement: 2079
+    commentsToLikes: 0.025169
+    id: ckahzi1z33gvx0i78n3txgr6v
     verified: false
-    hashtags: "#yearbook2020, #iknow, #heart, #towel"
-  - username: "trini180528"
-    fullname: >-
-      Maria Roman
-    location: "United States"
-    followers: 26139
-    engagement: 343
-    commentsToLikes: 0.020963
-    id: ck9eocrw3nn1m0j78biactf4u
-    verified: false
-    hashtags: "#cuban, #team, #espontaneo, #open"
+    hashtags: "#viral, #fyp, #travel, #summer"
 ---

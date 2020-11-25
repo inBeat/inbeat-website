@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Brazil In 2020
 description: >-
-  Find top lingerie Instagram influencers in Brazil in 2020. Most popular hashtags: #sorteio #makeup #quarentena #influencer.
+  Find top lingerie Instagram influencers in Brazil in 2020. Most popular hashtags: #love #makeup #mood.
 platform: Instagram
+hits: 373
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 373 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "annebelleif"
-    fullname: >-
-      Aηηєвєℓℓє I. Ferreira
-    location: "Brazil"
-    followers: 26094
-    engagement: 121
-    commentsToLikes: 0.041570
-    id: ckap7xydqm27u0i78o9na9yec
-    verified: false
-    hashtags: "#repostlegend"
   - username: "rafa.mcd"
     fullname: >-
       Rafaella Macedo ➰
+    bio: >-
+      •Parcerias direct ou wp ✨📥 Tudo por nós ! @marcosdferreira ❤️ ✨ Lojas online @mr.storee10 e @lopes_reiis_lingeries ✨
     location: "Brazil"
-    followers: 23774
-    engagement: 344
-    commentsToLikes: 0.186848
+    followers: 26103
+    engagement: 1887
+    commentsToLikes: 7.783787
     id: ck8t243twy2vp0j78wh3lnjq2
     verified: false
-    hashtags: "#sorteios, #influencer, #instaphoto, #ficaremcasa"
-  - username: "carlaschumann"
+    hashtags: "#digitalillustration, #hair, #ac, #modelo"
+  - username: "carolina.fialhoo"
     fullname: >-
-      Carla Schumann
+      Carolina Fialho🌹
+    bio: >-
+      📍 Mineira🌹 sagitariana | 21 anos 👄 Modelo de lingerie 📕 Odonto 6/10 💢 TikTok (somos +34k) 😍👇🏻
     location: "Brazil"
-    followers: 2831
-    engagement: 1106
-    commentsToLikes: 0.060402
-    id: ckap6xha7hrl20i78timbsko5
+    followers: 11373
+    engagement: 1498
+    commentsToLikes: 0.055823
+    id: ck9ha9cs1bnr20j78satrn5af
+    verified: false
+    hashtags: "#tiedye"
+  - username: "barbieherculano"
+    fullname: >-
+      Fabi 🌈
+    bio: >-
+      Blogueiragem 👩🏾‍💻 CEO: @brigadeiriafabi @lingerieslola @yakisobadochefe ✨𝑙𝑖𝑓𝑒𝑠𝑡𝑦𝑙𝑒, 𝑚𝑎𝑘𝑒, 𝑣𝑖𝑎𝑔𝑒𝑛𝑠 𝑒 𝑚𝑜𝑑𝑎🌿 ULTIMO VIDEO DO CANAL👇🏾
+    location: "Brazil"
+    followers: 16905
+    engagement: 333
+    commentsToLikes: 0.092885
+    id: ck8t6y74hf24d0j78h3vktynr
+    verified: false
+    hashtags: "#remixchallenge, #divulgamakeup, #tomachallenge, #feiaearrumadachallenge"
+  - username: "nbbatista"
+    fullname: >-
+      NATHALIA BATISTA
+    bio: >-
+      com H e sem acento😜 Apresentadora | Consultora de Imagem 📺 @bandtv 📚@de.lingerie 👩🏻‍💻@wnbproducoes @escoladecomunicadores JESUS🙏🏼
+    location: "Brazil"
+    followers: 92660
+    engagement: 129
+    commentsToLikes: 0.057494
+    id: ck6ufmhc6xxik0j711drw5q31
+    verified: false
+    hashtags: "#summeressentials, #futebolfeminino, #looksdanathi, #showdoesporte"
+  - username: "camila_postais"
+    fullname: >-
+      Camila Postais
+    bio: >-
+      ‼️ Parcerias via direct ❤️ @lingeries_apimentadas ⚖️ 4ª fase - Direito 👩🏻‍💻 @bridaseguros
+    location: "Brazil"
+    followers: 11457
+    engagement: 758
+    commentsToLikes: 0.020097
+    id: ckapck1dv44pe0i78dgt9kpl4
+    verified: false
+    hashtags: "#riodosul, #empoderamentofeminino, #empoderamento, #empoderamentodamulher"
+  - username: "_jessicawsilva"
+    fullname: >-
+      Jessica Silva
+    bio: >-
+      🧿 | Mineira . Escorpiana . Empreendedora 🛒 | Sex shop e Lingeries @js_forgirl 📚 | Graduada em Ed Física bacharel ♥️ | @j.v_silvaa Parcerias direct 📥
+    location: "Brazil"
+    followers: 9674
+    engagement: 365
+    commentsToLikes: 0.049717
+    id: ck0u1zmkxycj80i19n0yr9q7b
     verified: false
     hashtags: ""
-  - username: "nycollelimaa"
+  - username: "mirielysantos_"
     fullname: >-
-      Nycolle lima
+      𝑀𝒾𝓇𝒾𝑒𝓁𝓁𝓎 𝒮𝒶𝓃𝓉𝑜𝓈
+    bio: >-
+      》𝖵𝖤𝖩𝖠𝖬 𝖮𝖲 𝖲𝖳𝖮𝖱𝖸𝖲📱👀 》@miriely_manicureoficial 💅🏽 》𝖨𝖳𝖠𝖡𝖠𝖨𝖠𝖭𝖠-𝖲𝖤🏡 》𝖬𝖮𝖣𝖤𝖫𝖮 𝖥𝖮𝖳𝖮𝖦𝖱𝖠𝖥𝖨𝖢𝖠📸 》𝖫𝖮𝖩𝖠 @clube_lingerie_ 👙 》𝖯𝖠𝖱𝖢𝖤𝖱𝖨𝖠 𝖵𝖨𝖠 𝖣𝖨𝖱𝖤𝖢𝖳📥
     location: "Brazil"
-    followers: 4554
-    engagement: 1677
-    commentsToLikes: 0.354072
-    id: ck8t8fni0ka600j78h1633zt8
+    followers: 16078
+    engagement: 513
+    commentsToLikes: 0.032858
+    id: ckaoy5ol9g3nj0i78elzy5sl0
     verified: false
-    hashtags: "#priorchallenge, #rebocochallenge, #bbb2020, #brabachallenge"
-  - username: "budah"
-    fullname: >-
-      B U D A H
-    location: "Brazil"
-    followers: 30076
-    engagement: 878
-    commentsToLikes: 0.030200
-    id: ck6u8g8sjreza0j71yyftrs1h
-    verified: false
-    hashtags: ""
+    hashtags: "#amorproprio, #tiktok, #trabalhoduro, #batata"
   - username: "trigemeas_dantas_fitness_"
     fullname: >-
       Trigêmeas Dantas
+    bio: >-
+      Atletas 🥇 Empreendedoras 💼 Influenciadoras Seguidoras de Jesus 🕊 Donas da @three_diamonds_lingerie e @sweetpiecedoces
     location: "Brazil"
-    followers: 25057
-    engagement: 83
-    commentsToLikes: 0.078975
+    followers: 23892
+    engagement: 70
+    commentsToLikes: 0.090088
     id: ck6u07hxye1t70j71j1uftbhj
     verified: false
-    hashtags: "#familia, #girls, #aben, #triplest"
-  - username: "ana.eliisa"
+    hashtags: "#cool, #sisters, #girls, #triplets"
+  - username: "dicas_fashion_pravc"
     fullname: >-
-      ✨Ana Elisa✨
+      
+    bio: >-
+      Beeeem vinda! Caçando os melhores preços da net 💸 Dicas de lojas e lingerie. 🛍 🎀 Segue a gente mana!
     location: "Brazil"
-    followers: 11704
-    engagement: 2748
-    commentsToLikes: 0.862642
-    id: ck55ljemi1ph70i11q8u2p0l7
+    followers: 71014
+    engagement: 286
+    commentsToLikes: 0.326141
+    id: ck14hcahr9lmo0i19ppprpcgq
     verified: false
-    hashtags: "#gratidao, #paragua, #autoestima, #automaquiagem"
-  - username: "gabriela.araujo.1"
+    hashtags: "#sorteioiphone, #dinheironaconta, #sorteios, #sorteio2020"
+  - username: "laymelingerie"
     fullname: >-
-      Gabi Araújo
+      Laymê lingerie
+    bio: >-
+      👙Lingerie pra você ficar mais poderosa e sexy 🛍️Compras: 📲 (22) 997554622 ou direct 🚛Entrega com carinho em todo Brasil
     location: "Brazil"
-    followers: 23089
-    engagement: 1380
-    commentsToLikes: 0.320062
-    id: ck8talikes9cf0j78096dtr5x
+    followers: 44092
+    engagement: 88
+    commentsToLikes: 0.076322
+    id: ckf5p0jtc4ivd0j23rq48qhkz
     verified: false
-    hashtags: "#lingerie, #2020, #quarentena, #fiqueemcasa"
-  - username: "taysaacarvalho"
-    fullname: >-
-      ✨TAYSA ✨
-    location: "Brazil"
-    followers: 59745
-    engagement: 584
-    commentsToLikes: 0.442392
-    id: ck134k0q0wt6t0i19b8peeage
-    verified: false
-    hashtags: "#aprontando, #cabeloscurtos, #cafe, #seinspire"
-  - username: "carllavanessa_"
-    fullname: >-
-      𝐶𝑎𝑟𝑙𝑙𝑎 𝑉𝑎𝑛𝑒𝑠𝑠𝑎 
-    location: "Brazil"
-    followers: 16167
-    engagement: 1015
-    commentsToLikes: 0.049730
-    id: ckap7wupwlwwx0i78spokl48y
-    verified: false
-    hashtags: "#pecas, #linge, #mulheres, #sergipe"
+    hashtags: "#estampadesejo, #cole, #mood, #mulheresempoderadas"
 ---

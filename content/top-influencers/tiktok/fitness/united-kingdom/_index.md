@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top fitness TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #boredinthehouse #cardio #houseoftiktok.
+  Find top fitness TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
 platform: TikTok
+hits: 338
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 338 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "kaoticmovement"
     fullname: >-
       kaoticmovement
+    bio: >-
+      go follow my instagram and drop a 🤪 USN Athlete Gravity Fitness Athlete Tricker
     location: "United Kingdom"
-    followers: 37164
-    engagement: 1952
-    commentsToLikes: 0.045479
+    followers: 41800
+    engagement: 2194
+    commentsToLikes: 0.024501
     id: cka0yn7i2bx3t0i78l7cms4oy
     verified: false
-    hashtags: "#cartwheels, #sunshine, #fake, #forwardroll"
-  - username: "livvylaalaa"
-    fullname: >-
-      Livvy fowler
-    location: "United Kingdom"
-    followers: 21490
-    engagement: 1803
-    commentsToLikes: 0.085170
-    id: ck8scox5wc2pw0j78p2aud2of
-    verified: true
-    hashtags: "#stayingalive, #boredvibes, #safehands, #meow"
+    hashtags: "#fitness, #filming, #handstand, #gym"
   - username: "simongunnba"
     fullname: >-
       Simon Gunn BA
+    bio: >-
+      40 something, father, fitness professional. IG: @JellyFitness
     location: "United Kingdom"
-    followers: 3386
-    engagement: 1113
-    commentsToLikes: 0.184875
+    followers: 3523
+    engagement: 956
+    commentsToLikes: 0.176812
     id: ck9gqcfkt90kn0j78k533ntbq
     verified: false
-    hashtags: "#tiktokfamous, #duetme, #houseoftiktik, #dadsontiktok"
-  - username: "cosplayminney"
+    hashtags: "#foryoupage, #whatmattersmost, #projectfreetime, #duet"
+  - username: "mimilouj"
     fullname: >-
-      Cosplay Minney
+      mimilouj
+    bio: >-
+      📍LDN 🏋🏼‍♀️ Fitness blogger & level 3 PT ♥️ Insta @mimilouj (18.5k) ✨
     location: "United Kingdom"
-    followers: 56710
-    engagement: 1248
-    commentsToLikes: 0.039628
-    id: cka0tfidspn4e0i78xlz93ihz
+    followers: 2894
+    engagement: 671
+    commentsToLikes: 0.192579
+    id: ckcuqp74pjdbb0j23lj2wt0b8
     verified: false
-    hashtags: "#vegetacosplay, #inthistogether, #squat, #firefistace"
+    hashtags: "#spinalinjury, #fitnessmyth, #activewear, #fitgirl"
+  - username: "sadatfitness"
+    fullname: >-
+      Sadatfitness 
+    bio: >-
+      Fitness & Good Vibes 😁 Plant based 🌱 Instagram: Sadatfitness ⬇️YouTube⬇️
+    location: "United Kingdom"
+    followers: 60400
+    engagement: 783
+    commentsToLikes: 0.052171
+    id: ckavogfnez7040j238ov411r1
+    verified: false
+    hashtags: "#sadatfitness, #meditation, #nonutnovember, #duet"
+  - username: "rome_wilkinson"
+    fullname: >-
+      Rome wilkinson 
+    bio: >-
+      British Army Infantry PTI Instagram rome__fitness Keeping Soldiers Fit
+    location: "United Kingdom"
+    followers: 680500
+    engagement: 1312
+    commentsToLikes: 0.017251
+    id: ck8w1in531yfm0j78fust3rk6
+    verified: false
+    hashtags: "#staymotivated, #fitness, #workout, #exercise"
+  - username: "bek.mo"
+    fullname: >-
+      Beckie
+    bio: >-
+      plant-based PT and fitness some cats and music more free content on IG @bek.mo
+    location: "United Kingdom"
+    followers: 4020
+    engagement: 551
+    commentsToLikes: 0.102712
+    id: ck97ww3ngsuaj0j7829gvajim
+    verified: false
+    hashtags: "#fitness, #fyfitness, #tiktokfitness, #foryoupage"
   - username: "fitnessat58degrees"
     fullname: >-
       Sam Cairns
+    bio: >-
+      Unforgettable experiences, unforgettable locations🌎 @fitnessat58degrees
     location: "United Kingdom"
-    followers: 4031
-    engagement: 983
-    commentsToLikes: 0.055442
+    followers: 11800
+    engagement: 1003
+    commentsToLikes: 0.047707
     id: cka0z3uufdzgs0i78zeu4b4ud
     verified: false
-    hashtags: "#mindset, #foroyoupage, #nature, #travel"
+    hashtags: "#fitnessretreats, #visitscotland, #foryou, #fyp"
+  - username: "hench_herbivore"
+    fullname: >-
+      Paul Kerton
+    bio: >-
+      Vegan Health/Fitness YouTuber
+    location: "United Kingdom"
+    followers: 3120
+    engagement: 398
+    commentsToLikes: 0.085204
+    id: ckbqv1380fbkj0j23ve0etbgb
+    verified: false
+    hashtags: "#veganhumour, #veganbodybuilding, #vegans, #vegansoftiktok"
   - username: "nikiwibrowfitness"
     fullname: >-
       Nikiwibrowfitness
+    bio: >-
+      35 Years Fitness Experience 500k Celebrity DVD Sales Home Workouts for Over 40s
     location: "United Kingdom"
-    followers: 38014
-    engagement: 650
-    commentsToLikes: 0.132059
+    followers: 95400
+    engagement: 446
+    commentsToLikes: 0.074008
     id: ck9si988axqzi0j78870y3eg2
     verified: false
-    hashtags: "#over40mom, #wipeitdown, #houseoftiktok, #lockdownuk"
-  - username: "jalalsamfit"
+    hashtags: "#over40, #over50s, #over40s, #over40ontiktok"
+  - username: "jonny11rock"
     fullname: >-
-      Jalal
+      Jonny11rock
+    bio: >-
+      Fitness fanatic 💪 Firefighter 🚒 Pretty much wear shorts all the time 😊
     location: "United Kingdom"
-    followers: 82281
-    engagement: 602
-    commentsToLikes: 0.042358
-    id: ck9r6257720zb0j78fn86x6rr
+    followers: 32200
+    engagement: 1012
+    commentsToLikes: 0.034199
+    id: ck9a4stxjvzzh0j78v8hynf8j
     verified: false
-    hashtags: "#obliquesworkout, #posture, #breathewithme, #athomeworkout"
-  - username: "therealcallan"
-    fullname: >-
-      Callan Doherty
-    location: "United Kingdom"
-    followers: 71135
-    engagement: 1094
-    commentsToLikes: 0.065981
-    id: cka6l2xjo1jdp0i78y4nlwwm7
-    verified: false
-    hashtags: "#released, #johnlegend, #edsheeran, #danceduet"
-  - username: "nickwoodpt"
-    fullname: >-
-      Nick Wood
-    location: "United Kingdom"
-    followers: 13691
-    engagement: 975
-    commentsToLikes: 0.144528
-    id: cka89qilig2w90i78czqijf96
-    verified: false
-    hashtags: "#like, #slapface, #pixar, #duet"
-  - username: "rburr2466"
-    fullname: >-
-      Rosie Burr
-    location: "United Kingdom"
-    followers: 6036
-    engagement: 673
-    commentsToLikes: 0.044560
-    id: ck9616bhnl8dz0j7899nwp4dx
-    verified: false
-    hashtags: "#backbend, #pushthebutton, #handstandgirl, #bananachallenge"
+    hashtags: "#tiktoktraditions, #extensions, #diy, #stitch"
 ---

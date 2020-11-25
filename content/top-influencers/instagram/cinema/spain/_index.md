@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Spain In 2020
 description: >-
-  Find top cinema Instagram influencers in Spain in 2020. Most popular hashtags: #blackandwhite #actriz #urban #street.
+  Find top cinema Instagram influencers in Spain in 2020. Most popular hashtags: #tendermag #pellicolamag #magazine35mm.
 platform: Instagram
+hits: 174
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 174 Instagram influencers like this in Spain for you to contact.
 profiles:
-  - username: "_emilianosilva_"
+  - username: "pattri.lc"
     fullname: >-
-      Emiliano Silva
+      P A T R I C I A   L Ó P E Z
+    bio: >-
+      📍LC, Galicia, Spain Sonriendo, que es gerundio✨ 📥 p.lcarballeira@gmail.com Youtube Channel & Cinematic Dron Session in Galicia⤵️
     location: "Spain"
-    followers: 12617
-    engagement: 724
-    commentsToLikes: 0.028702
-    id: ck55lww992mwl0i11p6b9i8tu
+    followers: 4402
+    engagement: 1636
+    commentsToLikes: 0.077915
+    id: ck9hc6zevk1ak0j78buqmc3z5
     verified: false
-    hashtags: "#35mm, #120mm, #polaroidoriginals"
-  - username: "dawerzs__athenart"
+    hashtags: ""
+  - username: "jorgefuembuena"
     fullname: >-
-      🇲🇨 𝕯𝖆𝖜𝖊𝖗𝖟 𝖆𝖙𝖍𝖊𝖓𝖆 ♝ VENGEANCE ™
+      Jorge Fuembuena
+    bio: >-
+      Visual Artist. Cinema.
     location: "Spain"
-    followers: 13358
-    engagement: 600
-    commentsToLikes: 0.178743
-    id: ckapadye3vpx50i783srkywd9
+    followers: 12467
+    engagement: 528
+    commentsToLikes: 0.041782
+    id: ck6tqiw9vrq5a0j71qflxx75w
     verified: false
-    hashtags: "#spcls, #beautyretouch, #omelhorclick, #creativeinstagrampost"
+    hashtags: "#arnoldschwarzenegger, #ricardodarin, #jorgefuembuena, #mattdillon"
+  - username: "_madcitylife_"
+    fullname: >-
+      FOTÓGRAFO en Madrid |ФОТОГРАФ
+    bio: >-
+      Polina & Aleks 🖤 Photography | Cinematography📸 TikTok 1M+🌍 #portraits 🙋🏻‍♀️ #weddings 💍 #events 🎤 and more... We speak 🇪🇸🇺🇸🇺🇦🇷🇺 👇🏻PRESET 👇🏻
+    location: "Spain"
+    followers: 19827
+    engagement: 553
+    commentsToLikes: 0.007017
+    id: ck8wfbsw8fhoq0j78vqwykth8
+    verified: false
+    hashtags: "#tutorial, #madcitylife, #fotografia, #presets"
   - username: "almargsato"
     fullname: >-
       🔵 Almar G. Sato 🔵
+    bio: >-
+      Actress and Model #女優 #eurasian 🇪🇦🇯🇵 🇺🇸 @asian_cinema_entertainment 🇪🇸 @alc_actores 🇯🇵 JoinusEntertainment Madrid/Barcelona/LA/Tokio 継続は力なり✨
     location: "Spain"
-    followers: 4154
-    engagement: 1216
-    commentsToLikes: 0.048566
+    followers: 4233
+    engagement: 1110
+    commentsToLikes: 0.038338
     id: ck6u51hy571990j71javre3c9
     verified: false
-    hashtags: "#marbella, #autoretrato, #spanish, #mandarina"
-  - username: "_madcitylife_"
+    hashtags: "#happa, #asian, #asianmodel, #summer"
+  - username: "alxvisual"
     fullname: >-
-      FOTÓGRAFO | Madrid | ФОТОГРАФ
+      Alex Fernández
+    bio: >-
+      director / cinematographer
     location: "Spain"
-    followers: 12158
-    engagement: 707
-    commentsToLikes: 0.007127
-    id: ck8wfbsw8fhoq0j78vqwykth8
+    followers: 53220
+    engagement: 729
+    commentsToLikes: 0.017204
+    id: ck0vyd4bf3e1b0i19ppigbmjo
     verified: false
     hashtags: ""
-  - username: "labelmontemarta"
+  - username: "alejandrodiperez"
     fullname: >-
-      Marta Belmonte
+      ᴀʟᴇᴊᴀɴᴅʀᴏ ᴅíᴀᴢ ᴘéʀᴇᴢ
+    bio: >-
+      📍 | Tenerife, Canary Islands, Spain 🎥 | Cinematographer | Filmmaker 📧 | morethanaminute01@gmail.com
     location: "Spain"
-    followers: 6470
-    engagement: 1473
-    commentsToLikes: 0.044351
-    id: ck5zxzc7s8y4i0i14tu454toq
+    followers: 2401
+    engagement: 2059
+    commentsToLikes: 0.085928
+    id: ckaorenwtmv760i78bxafy9dg
     verified: false
-    hashtags: "#shhhh, #zaragoza, #doppleganger, #peluqueria"
+    hashtags: "#habitat, #underwater, #colourgrade, #postproduction"
   - username: "mikelalors"
     fullname: >-
       Mikel Alors
+    bio: >-
+      22. Student / Cinematography Weekends at @catalunyaradio Tik Tok @mikelalors
     location: "Spain"
     followers: 11103
     engagement: 7714
     commentsToLikes: 0.019684
     id: ck0vymkmu4qsj0i19k63wpgzk
     verified: false
-    hashtags: "#tsunamidemocr, #8m, #8marzo, #feminismo"
-  - username: "xhufflis"
+    hashtags: "#feminismo, #coronavirus, #videojournalist, #tsunamidemocr"
+  - username: "manuleonfotografia"
     fullname: >-
-      Oscar Cabero Ramos
+      M A N U • L E Ó N
+    bio: >-
+      #cinematographer💡🎥 #Barcelona & #Sevilla 🗺 Dirección de fotografía #ESCAC
     location: "Spain"
-    followers: 6684
-    engagement: 1419
-    commentsToLikes: 0.046737
-    id: ck55omq8t8ocq0i1104rztrs2
+    followers: 18736
+    engagement: 520
+    commentsToLikes: 0.022966
+    id: ck0w3i3hetixx0i19wbeu7thz
     verified: false
-    hashtags: "#class, #educacion, #contentcreator, #spanishtrap"
-  - username: "itziarcastro"
-    fullname: >-
-      Itziar Castro
-    location: "Spain"
-    followers: 341095
-    engagement: 361
-    commentsToLikes: 0.023758
-    id: ck55pu4zbbdsi0i11p1235bye
-    verified: true
-    hashtags: "#turbante, #freetolove, #cantante, #vestuario"
-  - username: "alessiosaveri"
-    fullname: >-
-      Alessio Saveri
-    location: "Spain"
-    followers: 19654
-    engagement: 392
-    commentsToLikes: 0.026888
-    id: ck136uhl68bow0i19hzaya834
-    verified: false
-    hashtags: "#street, #oneshot, #explorethailand, #moody"
+    hashtags: "#moodygram, #minimalmag, #cine, #liveforthestory"
   - username: "roman_petrusyak"
     fullname: >-
       Роман Петрусяк
+    bio: >-
+      Cinematographer 🎥 35mm film / 16 mm /Super 8 /Commercials / music videos /art projects/ Open for collaborations
     location: "Spain"
-    followers: 12392
-    engagement: 650
-    commentsToLikes: 0.023051
+    followers: 13017
+    engagement: 773
+    commentsToLikes: 0.022658
     id: ckaotrugzx7y10i78za9v3b1s
     verified: false
-    hashtags: "#gominimalmag, #fineart, #photocinematica, #pinklemonade"
+    hashtags: "#shootfilmmag, #portra400, #ifyouleave, #thinkverylittle"
+  - username: "xhufflis"
+    fullname: >-
+      Oscar Cabero Ramos
+    bio: >-
+      Founder of Shuffle Showcase Network© @shuffleshowcase •Master | Teacher of #shuffle •🎬 Cinematographer/Director •🎥Video 📷Photo ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⛩️ Kaiō ⛩️
+    location: "Spain"
+    followers: 6967
+    engagement: 1352
+    commentsToLikes: 0.035824
+    id: ck55omq8t8ocq0i1104rztrs2
+    verified: false
+    hashtags: "#shuffle, #friends, #dance, #shuffledance"
 ---

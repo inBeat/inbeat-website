@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Greece In 2020
 description: >-
-  Find top beauty TikTok influencers in Greece in 2020. Most popular hashtags: #beautiful #summer #love #beautymode.
+  Find top beauty TikTok influencers in Greece in 2020. Most popular hashtags: #foryou #greece #tiktok #foryoupage.
 platform: TikTok
+hits: 20
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 20 TikTok influencers like this in Greece for you to work with.
 profiles:
-  - username: "ollandeza"
+  - username: "penyagorastou"
     fullname: >-
-      i Mikri Ollandeza
+      Peny Agorastou
+    bio: >-
+      Actress
     location: "Greece"
-    followers: 40845
-    engagement: 1400
-    commentsToLikes: 0.008603
-    id: ck9dwh1l5oyll0j78lyv5zhy8
+    followers: 41900
+    engagement: 1143
+    commentsToLikes: 0.011494
+    id: ckbko1yxdi77f0j238147o4n7
     verified: false
-    hashtags: "#doggo, #shoecollection, #vlog, #gntm"
+    hashtags: "#greece, #summer, #fry, #tiktok"
+  - username: "ioannapazvanti"
+    fullname: >-
+      Ιωάννα Παζβάντη
+    bio: >-
+      I ᒪIKᗴ TO ᔕᗰIᒪᗴ ᗩT ᑭᗴOᑭᒪᗴ ᗯᕼO ᗪOᑎ’T ᒪIKᗴ ᗰᗴ 🤓
+    location: "Greece"
+    followers: 13500
+    engagement: 478
+    commentsToLikes: 0.023772
+    id: ckbfi2e2rdnr90j233n8boft9
+    verified: false
+    hashtags: "#greekculttv, #xrysokoufeto, #xyzbca, #greekcult"
+  - username: "evelynkazantzoglou"
+    fullname: >-
+      Evelyn Kazantzoglou
+    bio: >-
+      • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
+    location: "Greece"
+    followers: 17900
+    engagement: 574
+    commentsToLikes: 0.015318
+    id: ckbkqu2yyl80g0j23cw87olwr
+    verified: true
+    hashtags: "#foruyou, #foryoupage, #home, #houseoftiktok"
+  - username: "eleftheria_elle"
+    fullname: >-
+      Eleftheria Elle
+    bio: >-
+      Instagram: @eleftheria_elle Singer - Artist
+    location: "Greece"
+    followers: 72500
+    engagement: 513
+    commentsToLikes: 0.008907
+    id: ckb9elrq427z90j23fcmdxhup
+    verified: false
+    hashtags: "#tiktok, #houseoftiktok, #4yourpage, #europe"
   - username: "j.touni"
     fullname: >-
       Ioanna Touni
+    bio: >-
+      Τελικά έχει φάση εδώ! Θα μείνω🤘🏽
     location: "Greece"
-    followers: 118277
-    engagement: 579
-    commentsToLikes: 0.005780
+    followers: 141800
+    engagement: 520
+    commentsToLikes: 0.006515
     id: ck9gs4qr8gv220j78db3gfhbg
     verified: false
-    hashtags: "#viralvideo, #weekchallenge, #switch, #happy"
+    hashtags: "#foryourpage, #4u, #quarantine, #jtouni"
+  - username: "silia_37"
+    fullname: >-
+      🍭✨❤️
+    bio: >-
+      Don't be shy puss this button↖️ 🎂24/7🥳 3030 beautiful friends💗🥺
+    location: "Greece"
+    followers: 3031
+    engagement: 2933
+    commentsToLikes: 0.082721
+    id: ckc3dzslvzaj80j23kb7inhpu
+    verified: false
+    hashtags: "#timewarpscan"
+  - username: "moonlight1132"
+    fullname: >-
+      MoonLight 11
+    bio: >-
+      I miss musical.ly 19k beautiful people 😊 Goal 20k 18 years old ✈️
+    location: "Greece"
+    followers: 19400
+    engagement: 1731
+    commentsToLikes: 0.017282
+    id: ckd69tbch45vs0j23qamdpocs
+    verified: false
+    hashtags: "#fyp, #fy, #foryou, #mum"
   - username: "katerinasarantii"
     fullname: >-
       katerinasaranti
+    bio: >-
+      be your own kind ↠of beautiful↞
     location: "Greece"
-    followers: 186752
-    engagement: 1268
-    commentsToLikes: 0.012186
+    followers: 206300
+    engagement: 1453
+    commentsToLikes: 0.010162
     id: ck99anyz0ifeo0j78aeol7mnp
     verified: true
-    hashtags: "#slowmo, #trabsition"
+    hashtags: "#greece, #duet"
   - username: "katemeets"
     fullname: >-
       Catherine Livieratos
+    bio: >-
+      World traveler♡ More travels on my Instagram account @katemeets
     location: "Greece"
-    followers: 11773
-    engagement: 1080
-    commentsToLikes: 0.031372
+    followers: 12200
+    engagement: 982
+    commentsToLikes: 0.029081
     id: ck9dwvntfqrqx0j784cqfsf11
     verified: false
-    hashtags: "#visitgreece, #thermalspa, #100k, #foryoupge"
+    hashtags: "#tiktoktravel, #mykonos, #greece, #dolomites"
   - username: "aggelos_santı777"
     fullname: >-
       Aggelos Santikoglou
+    bio: >-
+      
     location: "Greece"
     followers: 3158
     engagement: 1139
     commentsToLikes: 0.011655
     id: cka9mdeq94abb0i78iz271gpy
     verified: false
-    hashtags: "#gipsystyle, #time, #berlin, #foryou"
-  - username: "charismasuites"
-    fullname: >-
-      Charisma Suites
-    location: "Greece"
-    followers: 5834
-    engagement: 1116
-    commentsToLikes: 0.017628
-    id: ck9dyecl5wx5f0j78sygrbztb
-    verified: false
-    hashtags: "#island, #destination, #infinitypool, #wishlist"
-  - username: "maria.iwannafwt_20"
-    fullname: >-
-      Μαρία-Ιωάννα Φωτιάδ
-    location: "Greece"
-    followers: 2771
-    engagement: 1880
-    commentsToLikes: 0.074357
-    id: ckad3ru34m3hu0i78wa1ao8wv
-    verified: false
-    hashtags: "#denexwsima, #s1ngles, #egirl, #lovermusic"
-  - username: "olympiacosfc"
-    fullname: >-
-      Olympiacos FC
-    location: "Greece"
-    followers: 46787
-    engagement: 1826
-    commentsToLikes: 0.009783
-    id: ck9rkl8iftijx0j78v26dlbes
-    verified: true
-    hashtags: "#laugh, #foryoureyes, #daughter, #freestyle"
-  - username: "_.sleepinthegarden"
-    fullname: >-
-      𝑚𝑖𝑟𝑔𝑖𝑎𝑛𝑎🦋
-    location: "Greece"
-    followers: 2820
-    engagement: 1636
-    commentsToLikes: 0.038994
-    id: cka84i758tt030i78fpcxlovl
-    verified: false
-    hashtags: "#gorgeous, #yourebeautiful, #sunday, #sundayfunday"
-  - username: "faymantzik"
-    fullname: >-
-      Fay Mantzika
-    location: "Greece"
-    followers: 2210
-    engagement: 648
-    commentsToLikes: 0.020037
-    id: ck9euj2kodu6a0j78l9bg0vdj
-    verified: false
-    hashtags: "#greekislands, #snowboard, #colors, #summer"
+    hashtags: "#beautiful, #my, #shisha, #mylife"
 ---

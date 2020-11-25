@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Berlin In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Berlin in 2020. Most popular hashtags: #hypebeast #germany #fashion #modernnotoriety.
+  Find top hypebeast Instagram influencers in Berlin in 2020. Most popular hashtags: #hypebeast #berlin #model #fashion.
 platform: Instagram
+hits: 34
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 34 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "ducphm"
+  - username: "babaylin______"
     fullname: >-
-      Duc Pham
+      𝝠𝗬𝗟𝗜𝗡   |   𝗕𝝠𝗕𝝠 𝝠𝗬𝗟𝗜𝗡
+    bio: >-
+      Letztes Musikvideo👇🏼
     location: "Germany"
-    followers: 3639
-    engagement: 1875
-    commentsToLikes: 0.032163
-    id: ck5hfevo0x54m0i110a9dfidk
+    followers: 9321
+    engagement: 936
+    commentsToLikes: 0.034284
+    id: ck6ucp812gukl0j71f9035ozu
     verified: false
-    hashtags: "#leicalosers, #moodnation, #photofilmy, #portraitspg"
-  - username: "konstantin_siegel"
+    hashtags: "#069, #staysafe, #instagram, #vintage"
+  - username: "_p_a_u_l_z_i_m_m_e_r_"
     fullname: >-
-      Konstantin Siegel
+      🔴 P A U L▪️Z I M M E R 🔴
+    bio: >-
+      People Photography All Pictures © Paul Zimmer 📸 TikTok: 15K ⬆️
     location: "Germany"
-    followers: 22455
-    engagement: 555
-    commentsToLikes: 0.028463
-    id: ck5hko9amisco0i11k4o4gobn
+    followers: 61858
+    engagement: 262
+    commentsToLikes: 0.029767
+    id: ck8tctk3l0mi40j78m0pjvnrs
     verified: false
-    hashtags: "#tattoosketch, #sideboobtattoo, #dadandroses, #family"
-  - username: "mefyou"
+    hashtags: "#streetleaks, #behindthescenes, #createexplore, #oscar"
+  - username: "saaliimo"
     fullname: >-
-      YoungBoy💥💋A.k.a Spider-Mef🤟🏽🕸
+      S A L I M 🥀
+    bio: >-
+      👻 | Snapchat: Saaliimo10 🎶 | TikTok: Saaliimo (+752k) 🎥 | YouTube: Saaliimo 💌 | Anfragen: salimo.business@web.de
     location: "Germany"
-    followers: 482059
-    engagement: 93
-    commentsToLikes: 0.027860
-    id: ck13bp5ovwht60i19ikuz4gir
-    verified: true
-    hashtags: "#germany, #malemodels, #redcarpet, #berlingram"
-  - username: "kayo"
-    fullname: >-
-      kayo
-    location: "Germany"
-    followers: 200690
-    engagement: 187
-    commentsToLikes: 0.025268
-    id: ck14lcsnuu0n40i19taih7kh2
+    followers: 88121
+    engagement: 1213
+    commentsToLikes: 0.186904
+    id: ck5zz3jx6b0hh0i14tfzrm6rm
     verified: false
-    hashtags: "#wanderlust, #alenpalander, #thecreatorclass, #artofvisuals"
-  - username: "hypedjason"
-    fullname: >-
-      @anesjunge
-    location: "Germany"
-    followers: 130505
-    engagement: 142
-    commentsToLikes: 0.087832
-    id: ck5cejbdrl4eu0i11w5i5en8x
-    verified: false
-    hashtags: "#style, #snipesjordanhead, #jumpman, #sneakerfreakermag"
-  - username: "iammago"
-    fullname: >-
-      𝕸𝖆𝖌𝖔 𝕯𝖔𝖛𝖏𝖊𝖓𝖐𝖔
-    location: "Germany"
-    followers: 56685
-    engagement: 170
-    commentsToLikes: 0.033410
-    id: ck5hjg49agkeg0i115t1hfo3y
-    verified: true
-    hashtags: "#kobebryant, #blackmamba, #newera, #ownthecourt"
-  - username: "donlou_life"
-    fullname: >-
-      Streetstyle💯Sneakershead💯Food
-    location: "Germany"
-    followers: 5152
-    engagement: 1007
-    commentsToLikes: 0.144650
-    id: ck8tbs4ilwwx00j78ngjl8do6
-    verified: false
-    hashtags: "#travelandlife, #outfitsociety, #whatiwore, #fashionweek"
+    hashtags: "#hannover, #model, #hannoverliebt, #verlosung"
   - username: "jonathan.schoeck"
     fullname: >-
       Jonathan Schoeck📍Berlin
+    bio: >-
+      📲 |Follow me on Tik Tok (500k+) 👟|Inspiration for #streetstyle 💪🏼|Fitness 🌱|Vegan ✈️|Travel 📩|jonathanschoeck.jo@gmail.com
     location: "Germany"
-    followers: 22462
-    engagement: 510
-    commentsToLikes: 0.127557
+    followers: 49873
+    engagement: 268
+    commentsToLikes: 0.052270
     id: ck14i5q33drpc0i19r9val9ys
     verified: false
-    hashtags: "#caseapp, #blackwhite, #hypebeast, #stockholm"
-  - username: "thecarhotel"
+    hashtags: "#streetstyle, #ootdmens, #heidelberg, #guyswithstyle"
+  - username: "ma__hmou__d"
     fullname: >-
-      Leo Constantin
+      👤 Mahmoud
+    bio: >-
+      ❤☀💚 ● Streetwear🔥 ● Photography📸 ● Hairstylist💈 ● Fitness🏋
     location: "Germany"
-    followers: 27411
-    engagement: 688
-    commentsToLikes: 0.016630
-    id: ck55lw5bz2kzf0i11h62f6nt2
+    followers: 10036
+    engagement: 1130
+    commentsToLikes: 0.136416
+    id: ck6uevi6mtbch0j71885w8t5x
     verified: false
-    hashtags: "#porscheracing, #feldberg, #coronavirus, #darkness"
-  - username: "mrsxtrooper"
+    hashtags: "#berlin, #look, #ootd, #style"
+  - username: "sasha_king030"
     fullname: >-
-      MRSXTROOPER | Stormtrooper
+      𝗦asha
+    bio: >-
+      Berlin📍 lifestyle | fashion | photography your favourite vegetarian 🌱 business/shooting requests: dm/mail
     location: "Germany"
-    followers: 6022
-    engagement: 1028
-    commentsToLikes: 0.048507
-    id: ck8t32r6w1mkc0j786f0jonmw
+    followers: 4180
+    engagement: 1471
+    commentsToLikes: 0.033323
+    id: ck5hclkaxip610i11xdlu1qb8
     verified: false
-    hashtags: "#theforceawakens, #sweatpants, #fangirl, #highwaist"
+    hashtags: "#blueeyes, #freckles, #berlinfashion, #itscoronatime"
+  - username: "ricooder"
+    fullname: >-
+      Rico Oder
+    bio: >-
+      📷 Timelapse | Photography | VanBuild ⚓️ Berlin, Germany 🇩🇪 📩 contact@ricooder.com 📺 Watch my #Berlin Video in 4K here:
+    location: "Germany"
+    followers: 28039
+    engagement: 685
+    commentsToLikes: 0.037829
+    id: ck0u2ezx4zqdy0i19jcg9jnxl
+    verified: false
+    hashtags: "#visit, #moodygrams, #timelapsed, #allaboutadventures"
+  - username: "kanaomapp"
+    fullname: >-
+      𝕂 𝔸 ℕ 𝔸 𝕆   𝕄 𝔸 ℙ ℙ
+    bio: >-
+      Berlin, Germany TikTok: Kanaomapp {45k} Liked alle Posts und ich schau bei euch vorbei 🩸
+    location: "Germany"
+    followers: 6462
+    engagement: 1434
+    commentsToLikes: 0.065763
+    id: ck5hofi2bpgyo0i11gygv95rg
+    verified: false
+    hashtags: "#hypelife, #perfectguy, #highsnobiety, #curleyheadedboys"
+  - username: "tommeeblvck"
+    fullname: >-
+      Thomas Mende aka. Tommeeblack
+    bio: >-
+      [📍] located near #Berlin | Germany tommeeblack@gmail.com [✉️->📫] [🔌] team @klekt | #KLEKTtakeover ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊ ⇊
+    location: "Germany"
+    followers: 57821
+    engagement: 277
+    commentsToLikes: 0.100538
+    id: ck0tvtiiscptx0i19edjhonga
+    verified: false
+    hashtags: "#teamklekt, #dresdencity, #hypebeast, #zalandostyle"
+  - username: "tomsprm"
+    fullname: >-
+      Tom
+    bio: >-
+      Berlin , Germany Twitch: TomSprm Youtube 100k 🔻New Youtube Video🔻
+    location: "Germany"
+    followers: 21764
+    engagement: 2829
+    commentsToLikes: 0.014253
+    id: ckaoy0ihbfjs30i78zfi2m0vj
+    verified: false
+    hashtags: "#highsnobietystyle, #outfitboy, #supremebattle, #freshstreetfits"
 ---

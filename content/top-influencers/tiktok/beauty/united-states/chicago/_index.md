@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Chicago In 2020
 description: >-
-  Find top beauty TikTok influencers in Chicago in 2020. Most popular hashtags: #coronavirus #keepingbusy #quarantine #voiceover.
+  Find top beauty TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #beauty #chicago #duet.
 platform: TikTok
+hits: 36
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 36 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "russiaancream"
+  - username: "asmaticc"
     fullname: >-
-      russian cream
+      Asma
+    bio: >-
+      Here for the laughs chicago
     location: "United States"
-    followers: 13297
-    engagement: 1062
-    commentsToLikes: 0.022366
-    id: ck9aaylbqmlmx0j78f0wepbvx
+    followers: 29900
+    engagement: 1084
+    commentsToLikes: 0.048546
+    id: ck7zo7iaaij8w0j788xzigt3w
     verified: false
-    hashtags: "#outfit, #petlife, #cute, #ownthecurve"
-  - username: "sierraxandrea"
+    hashtags: "#upcycling, #notonething, #fyp, #hijabi"
+  - username: "901nm"
     fullname: >-
-      sierra 
+      Nadine🌻💕
+    bio: >-
+      BLM 🇵🇸🇵🇸🇵🇸🇵🇸 19
     location: "United States"
-    followers: 179299
-    engagement: 1873
-    commentsToLikes: 0.031517
-    id: ck8vta2c4fkf70j78taf9keht
+    followers: 13600
+    engagement: 594
+    commentsToLikes: 0.071384
+    id: ckcdrdqoncqj60j23dbwenvgv
     verified: false
-    hashtags: "#promplaylist, #bling, #xzyabc, #music"
-  - username: "pvo.aj"
-    fullname: >-
-      Pvo.Aj💫
-    location: "United States"
-    followers: 230850
-    engagement: 2279
-    commentsToLikes: 0.013562
-    id: ckaiiteombyvi0i78uebd69h4
-    verified: false
-    hashtags: "#toxic, #citygirls, #beauty, #asap"
-  - username: "laughlikeit"
-    fullname: >-
-      HiddenJewel_7
-    location: "United States"
-    followers: 2871
-    engagement: 1004
-    commentsToLikes: 0.089863
-    id: ck9e3tvkcl3lb0j784jlpdm9v
-    verified: false
-    hashtags: "#celibate, #cursedimages, #datingstorytime, #virginity"
-  - username: "sisoypetty"
-    fullname: >-
-      Tracy
-    location: "United States"
-    followers: 3842
-    engagement: 677
-    commentsToLikes: 0.058774
-    id: ckac7yxwff4lb0i78toecyqeg
-    verified: false
-    hashtags: "#asianamerican, #corona, #toosieslide, #zaza"
-  - username: "missyeah"
-    fullname: >-
-      MISSY
-    location: "United States"
-    followers: 5305
-    engagement: 528
-    commentsToLikes: 0.037285
-    id: ckaiby363iel10i78g9ib736s
-    verified: false
-    hashtags: "#fromthefuture, #imaboss, #easydiy, #tiktokrestarea"
-  - username: "briknopf"
-    fullname: >-
-      briknopf
-    location: "United States"
-    followers: 29311
-    engagement: 663
-    commentsToLikes: 0.017214
-    id: cka6pcsuwj4zq0i78nmd048tg
-    verified: false
-    hashtags: "#beautyhaul, #blogger, #stayathome, #revolve"
+    hashtags: "#palestinian, #funny, #foryou, #xyzbca"
   - username: "alaia.alaia"
     fullname: >-
       Lai lai 🦋
+    bio: >-
+      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
     location: "United States"
-    followers: 10977
-    engagement: 466
-    commentsToLikes: 0.036444
+    followers: 19600
+    engagement: 597
+    commentsToLikes: 0.029383
     id: ck90tz47runq10j7890aatttc
     verified: false
-    hashtags: "#sneakerhead, #makeuproutine, #badboy, #work"
-  - username: "wildbiomeskinsens"
+    hashtags: "#chicago, #summer, #health, #fitness"
+  - username: "hanan3.b"
     fullname: >-
-      wildbiomeskinsense
+      Hanane Hearts
+    bio: >-
+      Free Palestine If you for trump, your argument is automatically invalid.
     location: "United States"
-    followers: 3161
-    engagement: 773
-    commentsToLikes: 0.091072
-    id: ck9jw7jz3vasg0j78zar5e8nr
+    followers: 14700
+    engagement: 628
+    commentsToLikes: 0.064755
+    id: ckamqmsoni1850i78hz2md1er
     verified: false
-    hashtags: "#foodgrade, #soapunmolding, #chocolate, #exfoliate"
-  - username: "stlsparkle"
+    hashtags: "#foryou, #eid, #fyp, #kodakblack"
+  - username: "chicagostyleicon"
     fullname: >-
-      Heather Stafford
+      Jen White
+    bio: >-
+      YouTube vlogs🎙 Public speaking tips @digitalspeakingcoach (Tiktok)
     location: "United States"
-    followers: 11773
-    engagement: 1245
-    commentsToLikes: 0.095510
-    id: ck9nq93ht2mus0j784l2yau7y
+    followers: 22200
+    engagement: 491
+    commentsToLikes: 0.013825
+    id: ckb9fooa54a2h0j23z9piqlxj
     verified: false
-    hashtags: "#nailsonfleek, #prettynails, #hiddentalent, #shuffling"
+    hashtags: "#nordstromanniversarysale, #amazon, #chicago, #amazonhaul"
+  - username: "ac_paints"
+    fullname: >-
+      Alexisss
+    bio: >-
+      Art and stuffs🎨🌈💘✨ California
+    location: "United States"
+    followers: 43700
+    engagement: 1396
+    commentsToLikes: 0.057399
+    id: ckbqoextu96h10j23d8odpllg
+    verified: false
+    hashtags: "#tiktokartist, #food, #aesthetic, #fyp"
+  - username: "honeybmua"
+    fullname: >-
+      Mua.Fatshionista
+    bio: >-
+      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
+    location: "United States"
+    followers: 8123
+    engagement: 2191
+    commentsToLikes: 0.094565
+    id: ckbqivjoh406z0j234lsd7dxx
+    verified: false
+    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
+  - username: "russiaancream"
+    fullname: >-
+      САНЯ 222
+    bio: >-
+      chicago/19/♐️ Следи за собой i speak russian sometimes lol
+    location: "United States"
+    followers: 21100
+    engagement: 1597
+    commentsToLikes: 0.055168
+    id: ck9aaylbqmlmx0j78f0wepbvx
+    verified: false
+    hashtags: "#viral, #fyp, #xyzbca, #duet"
+  - username: "pvo.aj"
+    fullname: >-
+      Pvo.Aj💫
+    bio: >-
+      Chicago 📍 30k on IG? P V O🧸
+    location: "United States"
+    followers: 372100
+    engagement: 2485
+    commentsToLikes: 0.009944
+    id: ckaiiteombyvi0i78uebd69h4
+    verified: false
+    hashtags: "#college, #foryoupage, #pvo, #fyp"
+  - username: "jessicahash4"
+    fullname: >-
+      Jessica Hash
+    bio: >-
+      Beauty*Fashion*Dance Keep it classy
+    location: "United States"
+    followers: 63200
+    engagement: 684
+    commentsToLikes: 0.073626
+    id: ckcjbj3uw8zqm0j23ucaqkkas
+    verified: false
+    hashtags: "#razrfit, #outfitideas, #funny, #duets"
 ---

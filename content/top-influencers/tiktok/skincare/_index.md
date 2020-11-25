@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In 2020
 description: >-
-  Find top skincare TikTok influencers in 2020. Most popular hashtags: #skincareroutine #littlethings #skincaretips #cookinghacks.
+  Find top skincare TikTok influencers in 2020. Most popular hashtags: #skincare #fyp #aesthetic #skincareroutine.
 platform: TikTok
+hits: 4174
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 4174 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "skinkick"
+    fullname: >-
+      SkinKick
+    bio: >-
+      Clean + Natural Skincare @target @macys @ulta
+    location: "United States"
+    followers: 17400
+    engagement: 2792
+    commentsToLikes: 0.103643
+    id: ckbbvssj9j3cp0j23bd8px10x
+    verified: false
+    hashtags: "#skinkicklove, #asthetics, #vsco, #skincare"
+  - username: "laynes.life"
+    fullname: >-
+      ✰ layne ✰
+    bio: >-
+      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+    location: "United States"
+    followers: 42400
+    engagement: 2550
+    commentsToLikes: 0.071745
+    id: ckfplcec901cu0j23yd02dkww
+    verified: false
+    hashtags: "#closeup, #xyzbca, #fall, #fyp"
   - username: "jc.dombrowski"
     fullname: >-
       J.C. Dombrowski
+    bio: >-
+      💦Cornell23 MarineBio Student🧬 🇵🇭Honest Skincare🏳️‍🌈 FakeNews-phobic 💅🏼
     location: "United States"
-    followers: 1996616
-    engagement: 2564
-    commentsToLikes: 0.018358
+    followers: 2900000
+    engagement: 2574
+    commentsToLikes: 0.013173
     id: ck80obynrgodq0j786z4nwcq0
     verified: true
-    hashtags: "#homeproject, #lgbt, #history, #littlethings"
-  - username: "almondlusk"
+    hashtags: "#skincareroutine, #tiktokpartner, #edutok, #election"
+  - username: "bliss"
     fullname: >-
-      a e s t h e t i c
-    location: "Australia"
-    followers: 15939
-    engagement: 2670
-    commentsToLikes: 0.141923
-    id: ckaftkvgx5r7z0i78qmmri4rw
-    verified: false
-    hashtags: "#itsaremix, #everydayscience, #petvlog, #haul"
-  - username: "idewcare"
-    fullname: >-
-      I Dew Care
+      Bliss
+    bio: >-
+      ✨Clean, Cruelty-Free Skincare Shop: @target @walmart @ultabeauty @cvs @walgreens
     location: "United States"
-    followers: 335793
-    engagement: 2578
-    commentsToLikes: 0.018346
-    id: ck8hp39u4xu430j78n2c207u3
-    verified: false
-    hashtags: "#asmr, #oddlysatisfying, #ultabeauty"
-  - username: "bolt.beauty"
+    followers: 85400
+    engagement: 2014
+    commentsToLikes: 0.030622
+    id: ck8zb72ow4e090j78e2bos8cg
+    verified: true
+    hashtags: "#oddlysatisfying, #skincare, #aesthetic, #thisisbliss"
+  - username: "glossygurrl"
     fullname: >-
-      Bolt Beauty
-    location: "United Kingdom"
-    followers: 6587
-    engagement: 2015
-    commentsToLikes: 0.048048
-    id: ck92u6361ku0n0j78bz7e9v1x
+      aesthetic
+    bio: >-
+      More Love <3 skincare, cooking, lifestyle, tips
+    location: "Lebanon"
+    followers: 13900
+    engagement: 1574
+    commentsToLikes: 0.067853
+    id: ckbeo2x2p3w9e0j231mb7x5nm
     verified: false
-    hashtags: "#guashatutorial, #relaxingsounds, #summervibes, #igotanewlife"
-  - username: "adaatude"
+    hashtags: "#blingeffect, #sogood, #tasty, #foryoupage"
+  - username: "allthingscloseup"
     fullname: >-
-      Adaleta Avdić
+      <33
+    bio: >-
+      closeups + skincare biz: allthingscloseup@gmail.com backup @.allthingscloseup :)
     location: "United States"
-    followers: 393132
-    engagement: 1888
-    commentsToLikes: 0.049575
-    id: ck7zpa4o8oa160j78jtcdzt24
+    followers: 2874
+    engagement: 3020
+    commentsToLikes: 0.158353
+    id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#beautymode, #guacamole, #millennial, #raisingcanespartner"
+    hashtags: "#skincare, #upclose, #routine, #aesthetic"
+  - username: "yeauty"
+    fullname: >-
+      YEAUTY
+    bio: >-
+      💗 | BE YEAUTYFUL ✨ | german skincare brand 🛒 | dm, müller, rossmann, budni
+    location: "Germany"
+    followers: 36500
+    engagement: 2311
+    commentsToLikes: 0.112438
+    id: ckd66j13n37ca0j23mu4f0q2p
+    verified: false
+    hashtags: "#augenpads, #yeauty, #dmdrogeriemarkt, #serum"
+  - username: "skinkisseduk"
+    fullname: >-
+      SKINKISSEDUK
+    bio: >-
+      CEO Of Skincare 📧 ambassador@skinkissed.co.uk
+    location: "Philippines"
+    followers: 5854
+    engagement: 1981
+    commentsToLikes: 0.206052
+    id: ckcek2bhkt7ko0j2342zkeamu
+    verified: false
+    hashtags: ""
+  - username: "skincareandbeyond"
+    fullname: >-
+      ✨skincareandbeyond✨
+    bio: >-
+      skincare☁️ closeups🍀 next post: 6/10✨ shoutout comp~3k reopening collabs~2.7k
+    location: ""
+    followers: 2489
+    engagement: 3740
+    commentsToLikes: 0.242478
+    id: ckbalbee5c8qt0j235lax4qy1
+    verified: false
+    hashtags: "#foryou, #makemefamous, #facemask, #closeup"
   - username: "kidskinusa"
     fullname: >-
       Kidskin
+    bio: >-
+      Skincare line for pre-teens and teens Official account 💙🤍
     location: "United States"
-    followers: 6951
-    engagement: 3321
-    commentsToLikes: 0.365664
+    followers: 14900
+    engagement: 2791
+    commentsToLikes: 0.156769
     id: ck933afl0n66k0j78usl1zbsj
     verified: false
-    hashtags: "#teenager, #teen, #familytime, #healthheroes"
-  - username: "buzzfeed"
-    fullname: >-
-      BuzzFeed
-    location: "United States"
-    followers: 240351
-    engagement: 2715
-    commentsToLikes: 0.014145
-    id: ck8hrciav87cm0j780krzpoxt
-    verified: true
-    hashtags: "#spidermanfarfromhome, #doncheadle, #beautyhacks, #5secondsofsummer"
-  - username: "yayayayoung"
-    fullname: >-
-      yayayayoung
-    location: "United States"
-    followers: 372040
-    engagement: 2517
-    commentsToLikes: 0.012304
-    id: ck8tpysp8qotm0j78czv42zq0
-    verified: false
-    hashtags: "#edutokskincare, #timemanagement, #cleansing, #acne"
-  - username: "florence.skincare.stuff"
-    fullname: >-
-      FLO BY MILLS 10K
-    location: "Netherlands"
-    followers: 11360
-    engagement: 2211
-    commentsToLikes: 0.051971
-    id: ck9gln7s4p3pm0j78b00xp60h
-    verified: false
-    hashtags: "#viral, #skincare, #noahschnapp"
-  - username: "skincare.r"
-    fullname: >-
-      SKIN CARE REVIEWS
-    location: "United Kingdom"
-    followers: 14675
-    engagement: 2057
-    commentsToLikes: 0.021873
-    id: ck9env5qel1gb0j78wtxkmff9
-    verified: false
-    hashtags: "#ultabeauty, #tiktokpoll, #coronavirus, #panic"
+    hashtags: "#kidskin, #hyram, #skincare, #grwm"
 ---

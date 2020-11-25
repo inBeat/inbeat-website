@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top Instagram influencers in Mumbai in 2020. Most popular hashtags: #photography #love #iphone11 #india.
+  Find top Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #mumbai #style #photography.
 platform: Instagram
+hits: 5058
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 5058 Instagram influencers like this in Mumbai, India for you to contact.
 profiles:
-  - username: "kshitijkankaria"
+  - username: "awara_ho0"
     fullname: >-
-      Kshitij Kankaria
+      Ｖｉｎａｙａｋ Ｊａｄｈａｖ
+    bio: >-
+      MUMBAi
     location: "India"
-    followers: 16275
-    engagement: 337
-    commentsToLikes: 0.014564
-    id: ck5cbr2k3g0mn0i11ztonfq2k
+    followers: 2608
+    engagement: 1414
+    commentsToLikes: 0.097460
+    id: ck6u0kep3g7ob0j7131wgrf0m
     verified: false
-    hashtags: "#outtake"
+    hashtags: "#anotherelement, #spi, #maibhisadakchap, #indiaclicks"
+  - username: "allthingspridee"
+    fullname: >-
+      Priya Desai
+    bio: >-
+      All Things Priya Desai Finance Consultant with a vivid personality who loves cute things and is a child at heart 📍Navi Mumbai
+    location: "India"
+    followers: 5528
+    engagement: 1862
+    commentsToLikes: 0.101110
+    id: ck8t74t5yfnbs0j78alab3jwe
+    verified: false
+    hashtags: "#gardenbythebay, #girltraveller, #bird, #travelgirl"
+  - username: "amirsiddiqui786"
+    fullname: >-
+      TEAMNAWAB
+    bio: >-
+      Lala With Big Dreams 😇 • Mumbai #teamnawab 👑 Snapchat : teamnawab786 Bade Miya To @siddiquifaizal RedBull at @whizzmark 💌
+    location: "India"
+    followers: 780532
+    engagement: 710
+    commentsToLikes: 0.036874
+    id: ck15ph4j9xup80i19w9heb69l
+    verified: true
+    hashtags: "#keepsupporting, #kbye, #amirsiddiqui, #fashion"
+  - username: "ianshpandit"
+    fullname: >-
+      Ansh Pandit
+    bio: >-
+      Ghaziabad, Mumbai. Email for Buisness queries & promotions. Josh link 👇
+    location: "India"
+    followers: 576362
+    engagement: 838
+    commentsToLikes: 0.021200
+    id: ck0w4c4gdxudj0i1999f97tlg
+    verified: false
+    hashtags: "#shayari, #instagood, #photography, #instagram"
+  - username: "namitkhanna_official"
+    fullname: >-
+      Namit khanna 🇮🇳
+    bio: >-
+      🔹Actor🔹Model🔹Photographer 🔹Traveller🔹Personal blog🔹Sanjivani 🔹YPNTKH 🔹Twisted 🔹Mumbai 🔹Delhi 📪 namit_khanna@hotmail.com
+    location: "India"
+    followers: 190653
+    engagement: 729
+    commentsToLikes: 0.024866
+    id: ck6tolnsnerl00j71asdkrzvo
+    verified: true
+    hashtags: "#namitkhannaphotography, #shotoniphone, #selfportrait, #memories"
+  - username: "unnati.unfiltered"
+    fullname: >-
+      Unnati
+    bio: >-
+      Vegetarian Food lover and a Fashion enthusiast who wants to travel the world Mumbai justunnati@gmail.com
+    location: "India"
+    followers: 6359
+    engagement: 982
+    commentsToLikes: 0.544399
+    id: ck9hcly99lylf0j78iml7cn9b
+    verified: false
+    hashtags: "#munchymumbai, #mumbaimerijaan, #chutney, #kolkata"
+  - username: "alinarai07"
+    fullname: >-
+      Alina Rai
+    bio: >-
+      Mumbai Official Account alinarai07@hotmail.com
+    location: "India"
+    followers: 118834
+    engagement: 680
+    commentsToLikes: 0.027226
+    id: ck0ubsns3f9tl0i190j8sn7ux
+    verified: false
+    hashtags: "#alinarai, #india, #actress, #inspiration"
+  - username: "kimaayasharmaa"
+    fullname: >-
+      KIMAAYA SHARMA OFFICIAL
+    bio: >-
+      🎂1st October 👰🏼FASHION / LIFESTYLE / BEAUTY / 📍PUNE | MUMBAI 📱𝑭𝒃,Roposo,👻, 𝑻𝒘𝒊𝒕𝒕𝒆𝒓 - @kimaayasharmaa 📩 DM for collaboration👇🏻
+    location: "India"
+    followers: 214842
+    engagement: 786
+    commentsToLikes: 0.023093
+    id: ck15rqrih986s0i19pta2vsvw
+    verified: false
+    hashtags: "#influencer, #puneblogger, #candid, #digitekmobilegimbal"
+  - username: "karekarchirag_"
+    fullname: >-
+      ♠️CHIRAG KAREKAR♠️
+    bio: >-
+      OFFICAL ACCOUNT♠️ 17/ Mumbai|India •Dancer• Influencer• Creator |DM/ MAIL FOR PAID PROMOTIONS AND COLLAB| <Managed By: @mahgram_media_networks >
+    location: "India"
+    followers: 13239
+    engagement: 6762
+    commentsToLikes: 0.042649
+    id: ck9we74iiix3t0j78wzgalb20
+    verified: false
+    hashtags: "#casualstyle, #jeans, #jaw, #shirt"
   - username: "dark_visionn"
     fullname: >-
       Rishikesh Shewale
+    bio: >-
+      DM TO BOOK A SHOOT ! IN, Mumbai
     location: "India"
-    followers: 2512
-    engagement: 2857
-    commentsToLikes: 0.127366
+    followers: 2447
+    engagement: 2501
+    commentsToLikes: 0.120669
     id: ck5bxlv3inyws0i114pjjvnc8
     verified: false
-    hashtags: "#portraitpage, #portraitsvision, #sigma35mm14, #portraitpic"
-  - username: "stylodrun"
-    fullname: >-
-      ▪ TOM❤
-    location: "India"
-    followers: 15223
-    engagement: 1121
-    commentsToLikes: 0.090821
-    id: ck0vxsgqa0hoc0i19vk6u4rx6
-    verified: false
-    hashtags: "#starboy, #india, #poses, #photography"
-  - username: "theneha_joshi"
-    fullname: >-
-      Neha Ila Joshi
-    location: "India"
-    followers: 10645
-    engagement: 1498
-    commentsToLikes: 0.067961
-    id: ck5bxlxz7nz2x0i11d55ttj2b
-    verified: false
-    hashtags: "#viacom, #lovemyoutfit, #poses, #traditionalmood"
-  - username: "kunholic"
-    fullname: >-
-      KunalRajpal🍎
-    location: "India"
-    followers: 12798
-    engagement: 1207
-    commentsToLikes: 0.072555
-    id: ck9wg2bfqrl280j78r4ve85nv
-    verified: false
-    hashtags: "#nagpur"
-  - username: "adnaan_07dz"
-    fullname: >-
-      Adnaan Shaikh🦁
-    location: "India"
-    followers: 5798538
-    engagement: 449
-    commentsToLikes: 0.025370
-    id: ck0u200ftye3j0i19s9v8joh6
-    verified: true
-    hashtags: "#goodlife, #chandmubarak, #dubai2020, #supercars"
-  - username: "raashiii__"
-    fullname: >-
-      R A A S H I 🌻
-    location: "India"
-    followers: 113633
-    engagement: 1439
-    commentsToLikes: 0.029967
-    id: ck13cw0172fup0i19tv3kz9ge
-    verified: false
-    hashtags: "#igexplore, #musicpage, #fashion, #tuesdaymood"
-  - username: "mirzaali.official"
-    fullname: >-
-      Mirza Ali 👑
-    location: "India"
-    followers: 30230
-    engagement: 518
-    commentsToLikes: 0.073460
-    id: ck0w5ajj72p9l0i1976q9zqhb
-    verified: false
-    hashtags: "#tiktokvideos, #love, #bestoftheday, #handm"
-  - username: "amaanshaikh115"
-    fullname: >-
-      Amaan Shaikh
-    location: "India"
-    followers: 11282
-    engagement: 2911
-    commentsToLikes: 0.043789
-    id: ck8wg2jk5gmt10j78wmq9brap
-    verified: false
-    hashtags: "#mugshot, #amaankingkhan, #sonusharma, #life"
-  - username: "divyesh.vanzara"
-    fullname: >-
-      Divyesh Vanzara
-    location: "India"
-    followers: 30505
-    engagement: 881
-    commentsToLikes: 0.035187
-    id: ck0vvlmmcpntp0i1917zqfpq9
-    verified: false
-    hashtags: "#lowkeypotrait, #beautygirl, #monochromephoto, #butterflytattoo"
+    hashtags: "#portrais, #photohunted, #portraitmode, #pursuitofportraits"
 ---

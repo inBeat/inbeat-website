@@ -1,42 +1,53 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Chicago In 2020
 description: >-
-  Find top stylists Instagram influencers in Chicago in 2020. Most popular hashtags: #fashion #style #fashionblogger #stylist.
+  Find top stylists Instagram influencers in Chicago in 2020. Most popular hashtags: #stylist #fashion #fashionphotography.
 platform: Instagram
+hits: 71
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 71 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "gretameyle"
+  - username: "totallytot3"
     fullname: >-
-      GRETA 💋
+      Tot Jones
+    bio: >-
+      FaithActivator🙏🏾 Blogger💃🏾| Speaker🎤 Style Consultant ✨ #SundaysWithTot 👗 #FundaysWithTot 👖 #ForeverFarah 👼🏾 ✨Creative Life Stylist ✨ 📩📩📩📩📩📩
     location: "United States"
-    followers: 2572
-    engagement: 1195
-    commentsToLikes: 0.103395
-    id: ck5cd848eipf30i11wxld6sfj
+    followers: 18727
+    engagement: 589
+    commentsToLikes: 0.008285
+    id: ck15shwkyd36p0i19zor3yum1
     verified: false
-    hashtags: "#femaleartist, #adidaslover, #sundressseason, #lafashion"
-  - username: "bebe_jones"
+    hashtags: "#chicagostylist, #personalstyle, #styledbytotallytot, #wardrobestylist"
+  - username: "brentonbradshaw"
     fullname: >-
-      BeBe Jones
+      Moment Maker™️
+    bio: >-
+      Press Follow✨ • Chicago • Stylist •Store Owner @brentonbradshawbrand • Hair @bradshawbrandinc 👇🏾👇🏾
     location: "United States"
-    followers: 7861
-    engagement: 623
-    commentsToLikes: 0.280740
-    id: ck8sxr8guidbe0j7876ftxqg1
+    followers: 10179
+    engagement: 658
+    commentsToLikes: 0.072519
+    id: ck6tjlbkp2xr70j71euf2193b
     verified: false
-    hashtags: "#hbcuhomecoming, #pink, #pumawomen, #stylist"
+    hashtags: "#blackbusiness, #blackisking, #explore, #donttouchmycrown"
   - username: "jackmarinhair"
     fullname: >-
       Jack Marin
+    bio: >-
+      Salon Owner - Session Stylist - Education @marinhairco for haircut appointments No DM’s please Email all inquiries @davinesnorthamerica Products
     location: "United States"
-    followers: 28516
-    engagement: 323
-    commentsToLikes: 0.026822
+    followers: 27201
+    engagement: 232
+    commentsToLikes: 0.033306
     id: ck5zr7u21w2mx0i14uw3jrvp1
     verified: false
-    hashtags: "#wickerpark, #bobhairstyle, #hair, #vulkan"
+    hashtags: "#marinhairco, #mizutaniscissors, #makeupartist, #bangstyle"
   - username: "sabrinathehairwitch"
     fullname: >-
       Chicago Hair Stylist
+    bio: >-
+      『 Closed 』 Email For Wait List, No DM ⋆ Extensions ✄ Haircutting Specializing In Soft Color ⋆ ↴ PRE-ORDER POTION PHASE ONE ⋆
     location: "United States"
     followers: 6288
     engagement: 214
@@ -44,64 +55,76 @@ profiles:
     id: ck5hrnn8uv65o0i11zrwwwmh5
     verified: false
     hashtags: "#victorsnotvictims"
-  - username: "marlonjuliandope"
-    fullname: >-
-      Marlon Julian
-    location: "United States"
-    followers: 29531
-    engagement: 170
-    commentsToLikes: 0.107602
-    id: ck0w2ovw5pgz40i190h1z06kj
-    verified: false
-    hashtags: "#flashback, #behindthescenes, #dopevibes"
   - username: "theoxproject"
     fullname: >-
-      FASHION PHOTOGRAPHER
+      𝐅𝐀𝐒𝐇𝐈𝐎𝐍 𝐏𝐇𝐎𝐓𝐎𝐆𝐑𝐀𝐏𝐇𝐄𝐑
+    bio: >-
+      Chicago Based Photographer, Stylist, & Retoucher DM/E-mail for rates : Not accepting collaborations
     location: "United States"
-    followers: 8659
-    engagement: 329
-    commentsToLikes: 0.034107
+    followers: 9025
+    engagement: 405
+    commentsToLikes: 0.038400
     id: ck5q6zqtizfrk0i11zpdfisg5
     verified: false
     hashtags: ""
+  - username: "marlonjuliandope"
+    fullname: >-
+      Marlon Julian
+    bio: >-
+      Published Photographer/Wardrobe Stylist & Wardrobe Provider™️📍Chicago,IL 📧 Inquiries/Bookings/Rates
+    location: "United States"
+    followers: 28675
+    engagement: 235
+    commentsToLikes: 0.096689
+    id: ck0w2ovw5pgz40i190h1z06kj
+    verified: false
+    hashtags: "#flashback, #behindthescenes, #stayready"
+  - username: "bebe_jones"
+    fullname: >-
+      BeBe Jones
+    bio: >-
+      * Creative Director: @rowaseat1 * Published Style Maven & Writer * Brand Consultant * #JacksonStateUniversity Alumna
+    location: "United States"
+    followers: 7978
+    engagement: 637
+    commentsToLikes: 0.260514
+    id: ck8sxr8guidbe0j7876ftxqg1
+    verified: false
+    hashtags: "#flatlay, #theeilove, #jacksonstateuniversity, #stylist"
+  - username: "windycitydinnerfairy"
+    fullname: >-
+      Nicole Triebe | Food artist
+    bio: >-
+      Recipes + Tips for Beautiful Entertaining 👩🏻‍🍳🍴 Food + Prop Stylist | Photographer | Content Creator 📍Chicago ✉️windycitydinnerfairy@gmail.com
+    location: "United States"
+    followers: 28248
+    engagement: 270
+    commentsToLikes: 0.096341
+    id: ckf5xfm8qvhcf0j23wutciv3l
+    verified: false
+    hashtags: "#feedfeed, #mydomaineeats, #foodstylefeed, #forkyeah"
   - username: "atstasia"
     fullname: >-
       Anastasia🦋
+    bio: >-
+      Stylist / Model⚡️ @maggieagency / BOS @10mgmt / Chicago @truemodelmgt / NYC 📩 Anastasia.tsikhanava@gmail.com
     location: "United States"
-    followers: 21938
-    engagement: 605
-    commentsToLikes: 0.016400
+    followers: 21577
+    engagement: 550
+    commentsToLikes: 0.018090
     id: ck5ch7dubq8g10i11lbvg6xp9
     verified: false
-    hashtags: "#bestoftheday, #organic, #bikini, #print"
-  - username: "tatianaterazas"
+    hashtags: "#stylistwork, #stylist, #blackandwhitephotography, #fashionmodel"
+  - username: "mgkstyle"
     fullname: >-
-      Tati | Milwaukee Blogger ✨
+      Mary Gonsalves Kinney
+    bio: >-
+      CEO and Founder | SF | LA LV | Seattle | Dallas | Chicago | NYC | D.C. #MGKStyle STYLIST, WRITER, FEMINIST/ACTIVIST FOR SOCIAL JUSTICE ✌🏽#resist
     location: "United States"
-    followers: 3841
-    engagement: 1375
-    commentsToLikes: 0.229567
-    id: ck1399tg5k8m20i199hbx0url
+    followers: 28369
+    engagement: 699
+    commentsToLikes: 0.006953
+    id: ck8t1jlbsw0ry0j78m36dpn1d
     verified: false
-    hashtags: "#itwontstopraininghere, #spookysznisuponus, #pumpkinspicelatte, #pumpkinsofall"
-  - username: "auroragozmic"
-    fullname: >-
-      💖Aurora Gozmic💖
-    location: "United States"
-    followers: 16256
-    engagement: 309
-    commentsToLikes: 0.019950
-    id: ck0vzqaujadgs0i19js2zffc3
-    verified: false
-    hashtags: ""
-  - username: "briiante"
-    fullname: >-
-      Briante
-    location: "United States"
-    followers: 18844
-    engagement: 343
-    commentsToLikes: 0.065594
-    id: ck6uhdh148hms0j71ca1o4olm
-    verified: false
-    hashtags: "#skt8, #fashion, #sipandmarvel, #yikes"
+    hashtags: "#mgkstyle, #bidenharris2020, #sharethemicnow, #covid"
 ---

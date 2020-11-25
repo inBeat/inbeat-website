@@ -1,107 +1,130 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Sydney In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Sydney in 2020. Most popular hashtags: #artist #tattoo #japanesetattoo #wolf.
+  Find top tattoo-artists Instagram influencers in Sydney in 2020. Most popular hashtags: #sydneytattoo #tattooartist #tattoo #sydneytattooartist.
 platform: Instagram
+hits: 15
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "maxe_brother"
+  - username: "alexrusty"
     fullname: >-
-      Maxime Etienne
+      ALEX RUSTY
+    bio: >-
+      Artist/owner @Lighthouse_Tattoo in Sydney🇦🇺 •taking bookings for 2021 Enquires: mail@alexrusty.com @australiantattooistsguild @the.p.t.a.a Lic010948
     location: "Australia"
-    followers: 54971
-    engagement: 401
-    commentsToLikes: 0.024241
-    id: ck6tzyfdsckru0j71la5cfvtm
+    followers: 120299
+    engagement: 186
+    commentsToLikes: 0.005520
+    id: ckap8l92uotuk0i78l82kgazb
     verified: false
-    hashtags: "#artwork, #art, #drawing, #ink"
+    hashtags: "#tattooartistsydney, #asianinkandart, #sydneytattooartist, #tattooistartmag"
+  - username: "ryanussher"
+    fullname: >-
+      Ｒ Ｙ Ａ Ｎ    Ｕ Ｓ Ｓ Ｈ Ｅ Ｒ
+    bio: >-
+      Artist/Owner @lighthouse_tattoo SYD-AUS ENQUIRIES-contact@usshertattoos.com Lic: 102910 TEEK + WINT + STEVIE ❤️
+    location: "Australia"
+    followers: 119570
+    engagement: 163
+    commentsToLikes: 0.007223
+    id: ck5zvl7444g100i141epyia1t
+    verified: false
+    hashtags: ""
   - username: "suziemcintosh"
     fullname: >-
       Suzie Mcintosh Brows ®
+    bio: >-
+      For a brow #glowup visit my team in 📍Toorak Rd, Toorak, Melbourne 📍William St, Paddington, Sydney International Cosmetic Tattoo Artist & Trainer
     location: "Australia"
-    followers: 43549
-    engagement: 109
-    commentsToLikes: 0.092189
+    followers: 48919
+    engagement: 82
+    commentsToLikes: 0.061847
     id: ck14hxh8acmnr0i19dysbyjo8
     verified: false
-    hashtags: "#wowbrows, #glowup, #bosslady, #bootybuilding"
-  - username: "jimimay"
+    hashtags: "#bosslady, #browlamination, #combobrows, #browsbysuzie"
+  - username: "toddbaileytattoo"
     fullname: >-
-      JIMI MΛY
+      𝕿𝖔𝖉𝖉 𝕭𝖆𝖎𝖑𝖊𝖞 𝕿𝖆𝖙𝖙𝖔𝖔
+    bio: >-
+      👨🏻‍🎨ARTIST & FOUNDER ⛩@thirteenfeettattoo 🇦🇺SYDNEY,AUSTRALIA
     location: "Australia"
-    followers: 154780
-    engagement: 295
-    commentsToLikes: 0.029770
-    id: ck8swfkmady420j78qprrx60k
+    followers: 113899
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck14iv73thau90i19tdezj53f
     verified: false
-    hashtags: "#bear, #dogtattoo, #portrait, #halfsleeve"
+    hashtags: "#tattooart, #tattooflash, #skulltattoo, #neotraditionaltattoo"
+  - username: "dylanwebertattoos"
+    fullname: >-
+      Dylan Weber
+    bio: >-
+      @atlnts.studio Sydney, Australia Husband to @dearemilyann All booking information is on my website below
+    location: "Australia"
+    followers: 181936
+    engagement: 226
+    commentsToLikes: 0.014818
+    id: ck9haua0ge5zb0j781epwzcq0
+    verified: false
+    hashtags: "#shark, #wolf, #sydneytattooartist, #tattooistartmag"
+  - username: "horse_ink"
+    fullname: >-
+      HorseInk Pty Ltd
+    bio: >-
+      🔶 Private studio based in Brisbane & Sydney 🔶 Specialising in Polynesian design tattoos 🔶 DM for bookings only
+    location: "Australia"
+    followers: 25464
+    engagement: 548
+    commentsToLikes: 0.022827
+    id: ck5c399kvyube0i11c1vcaiw0
+    verified: false
+    hashtags: "#tatau, #polynesiantattoo, #girlswithtattoos, #horseink"
   - username: "missorangetattoo"
     fullname: >-
       Som Nakburin
+    bio: >-
+      Tattooist at Little tokyo sydney: Booking please email : missorange1983@gmail.com 🖤
     location: "Australia"
     followers: 33548
     engagement: 305
     commentsToLikes: 0.009163
     id: ck55nl0ea6fi70i11mtf2hxvs
     verified: false
-    hashtags: "#goldfish, #sydtattooartist, #japanesetattoopaint, #bushidocollective"
-  - username: "figabomba_waikiki_erika"
+    hashtags: "#paintedtattoo, #sydneytattooartist, #goldfishtattoo, #tttismasia"
+  - username: "thepatonmedia"
     fullname: >-
-      Erika Figabomba
+      PATON MEDIA
+    bio: >-
+      🙋🏼‍♂️ Hi I’m Josh 🇦🇺 GC / BNE / SC⁣ 🎥 Videographer 📩 DM for inquiries⁣ 📸 Photographer ⬇️ Paton Media website
     location: "Australia"
-    followers: 65308
-    engagement: 81
-    commentsToLikes: 0.021020
-    id: ck5hdui8ipfwo0i11zgv54azn
+    followers: 16335
+    engagement: 385
+    commentsToLikes: 0.031301
+    id: ck13807cvdvhf0i1916yhtwiy
     verified: false
-    hashtags: "#travels, #indoorshooting, #bikinimodel, #chestpiece"
-  - username: "lvdovic"
+    hashtags: "#brisbanecityphotography, #goldcoastphotographer, #neonlights, #photographytips"
+  - username: "kirk_jones_tattoo"
     fullname: >-
-      L U D O V I C
+      Kirk Jones
+    bio: >-
+      •BOLD & BRIGHT• @goodlucktattoo Melbourne Books open Jan-March. 👇🏼Prints
     location: "Australia"
-    followers: 14969
-    engagement: 355
-    commentsToLikes: 0.072527
-    id: ck5ztue3514yu0i14xz80e8uj
+    followers: 155335
+    engagement: 176
+    commentsToLikes: 0.005105
+    id: ck136sbne80vv0i19lar9r1ev
     verified: false
-    hashtags: "#monster, #music, #technodj, #top100"
-  - username: "manard_illustration"
+    hashtags: "#oldschooltattoo, #colourtattoo, #sydneytattooist, #oldschooltattz"
+  - username: "thirteenfeettattoo"
     fullname: >-
-      Fru Farkas
+      𝕿𝖍𝖎𝖗𝖙𝖊𝖊𝖓 𝕱𝖊𝖊𝖙 𝕿𝖆𝖙𝖙𝖔𝖔
+    bio: >-
+      🐲 𝐎𝐏𝐄𝐍 𝟕 𝐃𝐀𝐘𝐒 📱BOOK ONLINE NOW BUTTON BELOW 🧼🖐🏼 𝐂𝐎𝐕𝐈𝐃 𝐒𝐀𝐅𝐄 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑𝐄𝐃🧍🏻‍♂️↔️🧍🏽‍♀️ 📍KING ST,NEWTOWN 📍LITTLE HAY ST,CHINATOWN 💳 #010876 NT 💳 #011188 HM
     location: "Australia"
-    followers: 7933
-    engagement: 548
-    commentsToLikes: 0.026587
-    id: ck6typdhe52zo0j7191brskfl
+    followers: 15348
+    engagement: 65
+    commentsToLikes: 0.013939
+    id: ck14iv9elhb5i0i190kvbt0gj
     verified: false
-    hashtags: "#lemon, #claybrooches, #popupshop, #lady"
-  - username: "toddbaileytattoo"
-    fullname: >-
-      𝕿𝖔𝖉𝖉 𝕭𝖆𝖎𝖑𝖊𝖞 𝕿𝖆𝖙𝖙𝖔𝖔
-    location: "Australia"
-    followers: 116806
-    engagement: 10
-    commentsToLikes: 0.057345
-    id: ck14iv73thau90i19tdezj53f
-    verified: false
-    hashtags: "#strength, #prey, #gangstarr, #latattoo"
-  - username: "tessemilytattoos"
-    fullname: >-
-      Tess Emily
-    location: "Australia"
-    followers: 11229
-    engagement: 809
-    commentsToLikes: 0.038752
-    id: ck8t12d59u7ne0j780iea9jiv
-    verified: false
-    hashtags: "#spongebob, #disney, #tattoocolouringbook, #stayhome"
-  - username: "fuhrichtattoo"
-    fullname: >-
-      Henrique Fuhrich
-    location: "Australia"
-    followers: 6069
-    engagement: 650
-    commentsToLikes: 0.050828
-    id: ck8t986szn6wn0j78hphyi6mx
-    verified: false
-    hashtags: "#bulldog, #deer, #bulldogfrances, #flores"
+    hashtags: "#thirteenfeettattoo, #love, #handdrawn, #trad"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Longboard TikTok Influencers In 2020
 description: >-
-  Find top longboard TikTok influencers in 2020. Most popular hashtags: #fail #coronavirus #love #dance.
+  Find top longboard TikTok influencers in 2020. Most popular hashtags: #longboard #foryou #skateboard #longboarding.
 platform: TikTok
+hits: 274
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 274 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "miihluuh94"
+    fullname: >-
+      𝓜𝓲𝓵𝓮𝓷𝓪 𝓛𝓾𝓲𝔃𝓪
+    bio: >-
+      #Família_LongBoard EU QUERO AMIZADES AQUI♥️
+    location: "Brazil"
+    followers: 3125
+    engagement: 2988
+    commentsToLikes: 0.060092
+    id: ckb95xvfio7sb0j236jx7pyqv
+    verified: false
+    hashtags: "#foryoupage, #lgbt, #viral, #familia"
   - username: "isaacnemes"
     fullname: >-
       Isaac Nemes
+    bio: >-
+      Sponsored longboarder -SANTA CRUZ- @santa_cruz_skateboards
     location: "United States"
-    followers: 13367
-    engagement: 1282
-    commentsToLikes: 0.050071
+    followers: 13000
+    engagement: 1513
+    commentsToLikes: 0.031734
     id: ck999vvmfeyhl0j78mnr3wlj1
     verified: false
-    hashtags: "#werkitfromhome, #metoo, #igotbanned, #forypupage"
+    hashtags: "#foryoupage, #xyzbca, #foryou, #costco"
   - username: "desgnarlais"
     fullname: >-
       Brandon DesJarlais
+    bio: >-
+      CEO of Longboarding #BigDeckEnergy DM on IG Learn the basics of Longboarding ⬇️
     location: "United States"
-    followers: 437187
-    engagement: 1590
-    commentsToLikes: 0.012840
+    followers: 504000
+    engagement: 1551
+    commentsToLikes: 0.013551
     id: ck83zg2ky0fwp0j78oq6yz9au
     verified: false
-    hashtags: "#portlandcheck, #inlineskate, #pirouette, #musicmatters"
+    hashtags: "#salemor, #tricktiptuesday, #downhilllongboarding, #longboarder"
+  - username: "ornellux__"
+    fullname: >-
+      Ornellux
+    bio: >-
+      19 years old, longboard dancer , try to be speedcuber , and a bit pianist 🖤
+    location: "France"
+    followers: 2552
+    engagement: 1532
+    commentsToLikes: 0.028465
+    id: ckb0rha1qgzws0j23dk33yo64
+    verified: false
+    hashtags: "#skategirl, #frenchriviera, #duo, #pourtoi"
+  - username: "traxartoficial"
+    fullname: >-
+      TRAXART OFICIAL
+    bio: >-
+      ⛸Patins, Skates, Longboards e muito mais‼️
+    location: "Brazil"
+    followers: 15100
+    engagement: 1314
+    commentsToLikes: 0.028588
+    id: ckauyekgt3uxp0j23k4t4mwna
+    verified: false
+    hashtags: "#adrenaline, #happiness, #freestyle, #slalom"
+  - username: "nataliepluto"
+    fullname: >-
+      nataliepluto
+    bio: >-
+      longboard tricks are 🆒!! instagram: @nataliepluto
+    location: "United States"
+    followers: 746700
+    engagement: 1743
+    commentsToLikes: 0.004997
+    id: ckbr65qnylr1a0j2382f5h2o5
+    verified: false
+    hashtags: "#longboardtricks, #longboard, #longboarding, #tricks"
   - username: "youngfreedesigns"
     fullname: >-
       Young & Free Designs
+    bio: >-
+      Hand painted my car 🚗 I also paint longboards, Check out my insta!
     location: "United States"
-    followers: 3268
-    engagement: 1436
-    commentsToLikes: 0.035578
+    followers: 8863
+    engagement: 1206
+    commentsToLikes: 0.045906
     id: ck8z6kezdmgiq0j78qkeasgri
     verified: false
-    hashtags: "#catdog, #cowandchicken, #mononoke, #trending"
-  - username: "antonz"
+    hashtags: "#vancouver, #foryoupage, #art, #artist"
+  - username: "action_flawless"
     fullname: >-
-      Anton Z 🔥
-    location: "Russia"
-    followers: 239560
-    engagement: 1539
-    commentsToLikes: 0.006253
-    id: ck83wxlabmsz20j780zk50719
-    verified: true
-    hashtags: "#longboard, #longboarddancing, #cocacola, #sk8"
-  - username: "cool.girl.tt"
-    fullname: >-
-      Cool girl
+      Noah Williams
+    bio: >-
+      DH longboarding for 1 year 🤙🏻 Follow the gram @action_flawless 🔥
     location: "United States"
-    followers: 149785
-    engagement: 942
-    commentsToLikes: 0.009497
-    id: ck8w52owj9g410j787y4z4qct
+    followers: 283200
+    engagement: 1832
+    commentsToLikes: 0.010348
+    id: cka6o41jpdygv0i78rbhrsri0
     verified: false
-    hashtags: "#freezeframe, #tiktok, #image, #myboy"
-  - username: "lotfiwoodwalker"
-    fullname: >-
-      Lotfi Lamaali
-    location: ""
-    followers: 359463
-    engagement: 728
-    commentsToLikes: 0.005760
-    id: ck900b251ab4s0j78d7l23ujf
-    verified: true
-    hashtags: "#loopchallenge, #longboarder, #drone, #outch"
-  - username: "dbmaiaa"
-    fullname: >-
-      Daniel Maia
-    location: "Brazil"
-    followers: 18507
-    engagement: 989
-    commentsToLikes: 0.061468
-    id: ck9aa7375jasx0j787vllmoxa
-    verified: false
-    hashtags: "#sequencia, #quarentena, #skatepaddle, #funny"
+    hashtags: "#longboard, #fyp, #fail, #skate"
   - username: "sveeneey"
     fullname: >-
       sven.schiefer
+    bio: >-
+      Longboard Dance/Freestyle Zürich🇨🇭 Thank you for the support and following
     location: "Switzerland"
-    followers: 7685
-    engagement: 1229
-    commentsToLikes: 0.044630
+    followers: 8861
+    engagement: 1396
+    commentsToLikes: 0.028101
     id: ck900hy5pafpg0j78y5w4593v
     verified: false
-    hashtags: "#coronatime, #longboardtrick, #fail, #nicespot"
-  - username: "teagan.maddux"
+    hashtags: "#schweiz, #fail, #longboarding, #fyp"
+  - username: "anto48antoyf"
     fullname: >-
-      Teagan
-    location: "United States"
-    followers: 2875
-    engagement: 914
-    commentsToLikes: 0.057033
-    id: ck8f6dxoe2e7m0j78ms7mo3b7
+      anto48antoyf
+    bio: >-
+      Longboard Misiones- Argentina
+    location: "Argentina"
+    followers: 19500
+    engagement: 1192
+    commentsToLikes: 0.007862
+    id: ckb9v70toucto0j23tr9pgh56
     verified: false
-    hashtags: "#travelcheck, #neverfitin, #albumlookalike, #aesthetics"
-  - username: "myasylem"
-    fullname: >-
-      Melysa Parent
-    location: "Canada"
-    followers: 77947
-    engagement: 1729
-    commentsToLikes: 0.029167
-    id: ck8kg0irlgdxb0j78uy5yscgp
-    verified: false
-    hashtags: "#canada, #greenvspurple, #boredathome, #beast"
+    hashtags: "#parati, #redbull, #skateboard, #trip"
 ---

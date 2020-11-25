@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In Turkey In 2020
 description: >-
-  Find top djs Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #bayram #corona #evindekalt.
+  Find top djs Instagram influencers in Turkey in 2020. Most popular hashtags: #dj #housemusic #tb #djlife.
 platform: Instagram
+hits: 15
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Turkey for you to connect with.
 profiles:
   - username: "djsafirofficial"
     fullname: >-
-      🎧DJ SAFİR
+      🎧DJ SAFİR
+    bio: >-
+      KINA GECESİ, NİŞAN VE TÜM EĞLENCELERİNİZ İÇİN PROFESYONEL DJ 🎧 ve ORGANİZASYON HİZMETİ. 🇹🇷TR ☎️ +90532 4060034 - 🇪🇺EU ☎️+49 176 72692669 #djsafirvideo
     location: "Turkey"
-    followers: 48286
-    engagement: 311
-    commentsToLikes: 0.024080
+    followers: 49938
+    engagement: 360
+    commentsToLikes: 0.023091
     id: ck139ikuzlhh00i19595hy544
     verified: false
-    hashtags: "#bodensee, #dudullu, #ramazanbayram, #bayram"
-  - username: "mehmetcan_mincinozlu"
+    hashtags: "#hayateves, #evdekalt, #evdekal, #tbt"
+  - username: "djserkankar"
     fullname: >-
-      Mehmetcan Mincinozlu
+      djserkankar
+    bio: >-
+      Dj🎧Producer🎹🎸🎼 🔊Deephouse, Progresive House,Melodic House & techno, Electronica
     location: "Turkey"
-    followers: 43446
-    engagement: 574
-    commentsToLikes: 0.015154
-    id: ck8sz7400ncc50j78jymur6vf
+    followers: 54622
+    engagement: 102
+    commentsToLikes: 0.017366
+    id: ck14l8x3ftfme0i19pit8yg8s
     verified: false
-    hashtags: "#turkishactors, #djset, #repost, #kieranhurley"
-  - username: "mansurark"
+    hashtags: "#rave, #berlin, #zurich, #kiev"
+  - username: "xoxofid"
     fullname: >-
-      Mansur Ark
+      Elisa Fedel एलिसा
+    bio: >-
+      Travel designer🌎 📍Milan @_girlsonwheels_ sis🤟🏽 🛹 @_snowave_ rider🤙🏽 🏂🏄🏽‍♀️ @goproit Hero8, Hero5, Max 📸🎥
     location: "Turkey"
-    followers: 19295
-    engagement: 320
-    commentsToLikes: 0.085404
-    id: ck8t09tv5rbpm0j78d7ki6sdj
+    followers: 7320
+    engagement: 534
+    commentsToLikes: 0.032934
+    id: ck135c1400qc60i19fpt5nxj9
     verified: false
-    hashtags: "#afrohousemusic, #melodictechno, #djyasinark, #terracemix"
-  - username: "sezyum"
-    fullname: >-
-      sezyum
-    location: "Turkey"
-    followers: 36838
-    engagement: 312
-    commentsToLikes: 0.017132
-    id: ck14gsu086un30i19nh3gz7bg
-    verified: false
-    hashtags: "#kedipi, #vapurizma, #thething, #johncarpenter"
-  - username: "djfunkycmusic"
-    fullname: >-
-      Cem Nadiran
-    location: "Turkey"
-    followers: 28408
-    engagement: 484
-    commentsToLikes: 0.032447
-    id: ck134sf03xz160i19d1r1o37f
-    verified: false
-    hashtags: "#oscarandthewolf, #solanchedelarosa, #happy, #mutluyilkar2019"
+    hashtags: "#friendstrip, #ibiza, #djsavedmylife, #labellavitafid"
   - username: "tuba_luleci_alacam"
     fullname: >-
       Tuba Luleci Alacam
+    bio: >-
+      #DJ ▪️POWER TV - PowerApp DJ #EventPlanner ▪️Owner TLA EVENTS ♦️Cumartesi♦️19:00♦️POWER TV♦️ @tlaeventsofficial Bs.Urban Planning,ODTÜ+Exe.MBA,ODTÜ
     location: "Turkey"
     followers: 5570
     engagement: 602
     commentsToLikes: 0.040643
     id: ckaosjf2trqyl0i78jq4xaam1
     verified: false
-    hashtags: "#tvyay, #djyayin, #djvideo, #gezgin"
-  - username: "serdarayyildiz_"
+    hashtags: "#photooftheday, #canl, #djlife, #djcanl"
+  - username: "mehmetcan_mincinozlu"
     fullname: >-
-      SERDAR AYYILDIZ
+      Mehmetcan Mincinozlu
+    bio: >-
+      https://twitter.com › dakumincinozlu
     location: "Turkey"
-    followers: 18377
-    engagement: 818
-    commentsToLikes: 0.012906
-    id: ck13b96plubos0i19d761zwf5
+    followers: 55081
+    engagement: 599
+    commentsToLikes: 0.014676
+    id: ck8sz7400ncc50j78jymur6vf
     verified: false
-    hashtags: "#grosvenorhouse, #deephouse, #korktumdeseydin, #parcasiyim"
-  - username: "vuralmusic"
+    hashtags: "#turkishactors, #tb, #bizimhikaye, #repost"
+  - username: "elifsafak_"
     fullname: >-
-      
+      Elif Safak
+    bio: >-
+      lifestyle • fitness • music 📩 elfsafak@hotmail.com
     location: "Turkey"
-    followers: 65606
-    engagement: 308
-    commentsToLikes: 0.106385
-    id: ck6u8gsfsrhxz0j71k3vtd2x9
+    followers: 31845
+    engagement: 208
+    commentsToLikes: 0.031943
+    id: ckap9fs2oshro0i78tyx4x89l
     verified: false
-    hashtags: "#susma, #yedinciko, #hayrola, #istanbul"
-  - username: "ismailyk"
+    hashtags: "#stayhome, #ahava, #19may, #oysho"
+  - username: "burgacali"
     fullname: >-
-      İsmail YK
+      Ali Burgaç
+    bio: >-
+      🇨🇭Switzerland 🎧
     location: "Turkey"
-    followers: 536165
-    engagement: 493
-    commentsToLikes: 0.037870
-    id: ck0vuyiqpmq9y0i197ls5643u
-    verified: true
-    hashtags: "#imparator, #ibrahimtatl, #bayram, #ikibinyirmi"
-  - username: "armin.darbuka.music"
-    fullname: >-
-      ARMIN.DARBUKA.MUSIC
-    location: "Turkey"
-    followers: 11446
-    engagement: 584
-    commentsToLikes: 0.521901
-    id: ck9why4yzzzpp0j78j2tfezh9
+    followers: 26415
+    engagement: 232
+    commentsToLikes: 0.019759
+    id: ck6u8r7kht73s0j71y6i1cqed
     verified: false
-    hashtags: "#luxury, #emarat, #bato, #photography"
+    hashtags: "#aliburgac, #zurich, #deephouse, #housemusic"
+  - username: "mansurark"
+    fullname: >-
+      Mansur Ark
+    bio: >-
+      Menajer: Hakan Küfündür 0537 7625398
+    location: "Turkey"
+    followers: 19946
+    engagement: 335
+    commentsToLikes: 0.085975
+    id: ck8t09tv5rbpm0j78d7ki6sdj
+    verified: false
+    hashtags: "#inad, #maskes, #evdekalt, #gopro"
+  - username: "chota_singga_official"
+    fullname: >-
+      chota singga
+    bio: >-
+      Singga Bolda Veere @sandeep_shikar_wala admin page Gurdaspuria jatt Punjabi Artist🎤 Contact 9592022068 for paid DM For any enquiry
+    location: "Turkey"
+    followers: 17106
+    engagement: 302
+    commentsToLikes: 0.009673
+    id: ck9hagkwdcgdc0j78flieu4e9
+    verified: false
+    hashtags: "#geetmp3, #funshun, #deepjandu, #jassmanak"
+  - username: "ayse_blogpage"
+    fullname: >-
+      ✨Ayse's_blogpage✨
+    bio: >-
+      🤝PR çalışması ve işbirliği için DM 💌 💥Makyaj,Güzellik💅💄 💥İndirim&Alışveriş bilgileri 💥 Aksesuar tanıtımı 💥Temizlik ürünleri 💥Anne&çocuk ürünleri
+    location: "Turkey"
+    followers: 14253
+    engagement: 695
+    commentsToLikes: 0.058695
+    id: ckap56h6lae340i789box7do4
+    verified: false
+    hashtags: "#du, #kozmatik, #nudenails, #sa"
 ---

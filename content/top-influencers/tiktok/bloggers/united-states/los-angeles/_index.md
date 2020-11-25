@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top bloggers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #editing101 #quarantine #dance #blogger.
+  Find top bloggers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #losangeles #fashion #foryoupage.
 platform: TikTok
+hits: 11
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
   - username: "minimalmajor"
     fullname: >-
       Madison Williams
+    bio: >-
+      🎬 TV Producer | Host | Blogger 🌴 los angeles | hawaii 👇🏼 shop my looks
     location: "United States"
-    followers: 19764
-    engagement: 717
-    commentsToLikes: 0.044317
+    followers: 21500
+    engagement: 687
+    commentsToLikes: 0.037904
     id: ck9v1zzgujeud0j788zvq9euw
     verified: false
-    hashtags: "#tiktokfashion, #fashionhacks, #bikershorts, #hairtutorial"
+    hashtags: "#girlpower, #tiktokfashion, #sidehustle, #girlboss"
   - username: "afashionnerd"
     fullname: >-
       Amy Roiland
+    bio: >-
+      Fashion blogger A Fashion Nerd , @afashionnerd living in Los Angeles 💕
     location: "United States"
-    followers: 11385
-    engagement: 955
-    commentsToLikes: 0.059117
+    followers: 31400
+    engagement: 1079
+    commentsToLikes: 0.026484
     id: ck9k9omuudzo80j78c4fbrndi
     verified: false
-    hashtags: "#purse, #youngmom, #tiktikfashion, #sparkle"
-  - username: "ohmymisty"
+    hashtags: "#fashion, #fyp, #gucci, #pinkhair"
+  - username: "monsterlovetoeat"
     fullname: >-
-      OhMyMisty
+      Monsterlovetoeat
+    bio: >-
+      Follow my instagram ⬆️ 💌Email me for collab Los Angeles Foodie ❤️
     location: "United States"
-    followers: 21030
-    engagement: 851
-    commentsToLikes: 0.022297
-    id: ck910ldl0i3800j78j62wqqka
-    verified: false
-    hashtags: "#asiangirl, #asiancheck, #inthehouseparty, #selfies"
-  - username: "melodykschmidt"
+    followers: 478500
+    engagement: 960
+    commentsToLikes: 0.030031
+    id: ck8tor9w3nm920j78y698pbjg
+    verified: true
+    hashtags: "#irvinespectrum, #amazon, #la, #fyp"
+  - username: "alyssatabit"
     fullname: >-
-      Melody ✨
+      alyssa
+    bio: >-
+      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
     location: "United States"
-    followers: 5196
-    engagement: 1128
-    commentsToLikes: 0.031883
-    id: ck9eodt8dnz310j78y7pelowc
+    followers: 26000
+    engagement: 1418
+    commentsToLikes: 0.065475
+    id: ckbkt2nxko44z0j23uxvlyfak
     verified: false
-    hashtags: "#cali, #greece, #instagramtips, #photomagic"
-  - username: "samiraradmehr"
+    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+  - username: "hofitkimcohen"
     fullname: >-
-      Samira Radmehr
+      Hofit Kim Cohen
+    bio: >-
+      Travel & Lifestyle Blogger + some Comedy 😜 FOLLOW ME ON IG 📸 @hofitkimcohen
     location: "United States"
-    followers: 22404
-    engagement: 482
-    commentsToLikes: 0.009826
-    id: ck8ov5z0cskhy0j788nib9r8n
+    followers: 17600
+    engagement: 743
+    commentsToLikes: 0.068766
+    id: ck93o54k532mk0j783oj08xdl
     verified: false
-    hashtags: "#stayfresh, #target, #cheapmakeup, #christmas"
-  - username: "ourtravelpassport"
+    hashtags: "#foryou, #fyp, #travel, #losangeles"
+  - username: "meganeliseblog"
     fullname: >-
-      Ryan and Samantha
+      Megan Elise
+    bio: >-
+      San Diego based travel blogger inspiring your next adventure
     location: "United States"
-    followers: 4392
-    engagement: 364
-    commentsToLikes: 0.048039
-    id: cka0y8gadaaxs0i78bqxn1f9j
+    followers: 5825
+    engagement: 591
+    commentsToLikes: 0.024316
+    id: ckbfdoczw75p50j23js9mhwud
     verified: false
-    hashtags: "#yachtlife, #cinnamon, #couple, #singapore"
-  - username: "verbalgoldblog"
+    hashtags: "#pumpkinszn, #hellofall, #fallyall, #socal"
+  - username: "myexplorewithme"
     fullname: >-
-      AdY Meschke
+      MyExploreWithMe
+    bio: >-
+      San Diego videos, travel videos and nursing videos!Come to Yosemite with me!👇🏻
     location: "United States"
-    followers: 20379
-    engagement: 554
-    commentsToLikes: 0.067289
-    id: cka0naf70ywy40i78g3x4bae0
+    followers: 34800
+    engagement: 630
+    commentsToLikes: 0.042397
+    id: ckbezszhdl6g10j237qflbudj
     verified: false
-    hashtags: "#howtodog, #photo, #miami, #imasavagemom"
-  - username: "tatiana_angel_"
+    hashtags: "#visitsd, #sandiego, #washington, #hiking"
+  - username: "absolutelylulu"
     fullname: >-
-      Tatiana Angel
+      Lulu Benavides 
+    bio: >-
+      Peruvian actress taking over LA ✨ Lifestyle - Fashion - Skincare
     location: "United States"
-    followers: 36808
-    engagement: 446
-    commentsToLikes: 0.025878
-    id: ckafttfgj6zud0i788ovh39j2
+    followers: 17300
+    engagement: 693
+    commentsToLikes: 0.013671
+    id: ckb9q730xlspj0j23xo0p4snq
     verified: false
-    hashtags: "#hairchallange, #burgers, #latinos, #pushup"
-  - username: "akiadanielle_"
+    hashtags: "#mentalhealth, #happyathome, #makeup, #foryoupage"
+  - username: "nicoleisaacs11"
     fullname: >-
-      Akia Danielle
+      nicoleisaacs
+    bio: >-
+      A bit of everything 💃🏽🍔🌏💄 www.nicoleisaacs.com Instagram: @Nicoleisaacs
     location: "United States"
-    followers: 4232
-    engagement: 2154
-    commentsToLikes: 0.085806
-    id: ck85cprvf2vae0j78qlnnrxwy
+    followers: 3548
+    engagement: 710
+    commentsToLikes: 0.023252
+    id: ck9fj3razdwql0j78wydswho7
     verified: false
-    hashtags: "#selfmotivation, #happymom, #marriedlife, #husbandandwife"
-  - username: "crutches_and_spice"
+    hashtags: "#foryoupage, #foryou, #dance, #tiktoktravel"
+  - username: "ilsebringas"
     fullname: >-
-      Crutches&Spice ♿️ : 
+      Ilse’Bringas |
+    bio: >-
+      Follow me on IG ↗️ Self-portrait photographer & model self taught 📸
     location: "United States"
-    followers: 2333
-    engagement: 3553
-    commentsToLikes: 0.049325
-    id: ckamt730eth740i782nias5ka
+    followers: 30200
+    engagement: 1242
+    commentsToLikes: 0.020396
+    id: ckbkowkumj3q90j23z426q02c
     verified: false
-    hashtags: "#pandemic, #imblackandimproud, #politicaltiktok, #question"
+    hashtags: "#fashion, #duet, #makeup, #fyp"
 ---

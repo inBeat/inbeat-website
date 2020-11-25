@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Peru In 2020
 description: >-
-  Find top travel TikTok influencers in Peru in 2020. Most popular hashtags: #travel #foryoupage #cruelrealidad #coronavirus.
+  Find top travel TikTok influencers in Peru in 2020. Most popular hashtags: #parati #travel #peru #fyp.
 platform: TikTok
+hits: 40
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 40 TikTok influencers like this in Peru for you to work with.
 profiles:
   - username: "hablavasconalex"
     fullname: >-
       hablavasconalex
+    bio: >-
+      TRAVEL YOUTUBER +30K VIAJO✈️ COMO🍴GRABO🎥 Perú 24📍 Sígueme en Instagram 🤘🏻
     location: "Peru"
-    followers: 5954
-    engagement: 636
-    commentsToLikes: 0.042656
+    followers: 7381
+    engagement: 837
+    commentsToLikes: 0.094815
     id: ckacldow2f50u0i78pdm4owzq
     verified: false
-    hashtags: "#trujillo, #sudamerica, #travel, #recetafacil"
+    hashtags: "#foryoupage, #foryourpage, #fyp, #foryou"
+  - username: "kiomarapiana"
+    fullname: >-
+      Kiomara Piana
+    bio: >-
+      Ig: @kiomarapiana ✈️ Travel Blogger ✨ Te ayudo a viajar 💻 Mira mi trabajo
+    location: "Peru"
+    followers: 4106
+    engagement: 735
+    commentsToLikes: 0.439484
+    id: ckb997ukxtbtn0j238ejifpes
+    verified: false
+    hashtags: "#travelblogger, #comidaperuana, #curiosidades, #tips"
+  - username: "roydyzuc"
+    fullname: >-
+      Roy Zuñiga Collao
+    bio: >-
+      Random & Tips de viajes🌎 Travel blogger✈️ Instagram Roydyzuc❤️ Meta 40k ?🙌🏻
+    location: "Peru"
+    followers: 34000
+    engagement: 510
+    commentsToLikes: 0.057537
+    id: ckcjl6tpfebbh0j23geb1bmkw
+    verified: false
+    hashtags: "#fyp, #destacame, #love, #baile"
   - username: "taniaarceespilco"
     fullname: >-
       Tania Arce Espilco
+    bio: >-
+      🇵🇪 Travelaholic ✈️
     location: "Peru"
-    followers: 16358
-    engagement: 1075
-    commentsToLikes: 0.018456
+    followers: 33400
+    engagement: 664
+    commentsToLikes: 0.022937
     id: ck97x3p0utr2h0j787eq7smvs
     verified: false
-    hashtags: "#islamujeres, #enfermera, #murci, #cartulina"
+    hashtags: "#greenscreen, #xyzbca, #egipto, #foryou"
+  - username: "nagybtm"
+    fullname: >-
+      Nagyb Torres Mardini
+    bio: >-
+      25 - Miembro Oficial de lablanquirroja Traveler ✈ 38 países IG: nagybtm
+    location: "Peru"
+    followers: 12200
+    engagement: 442
+    commentsToLikes: 0.030355
+    id: ckb9ly9vzeqnw0j23ce9njbl9
+    verified: false
+    hashtags: "#travelbucketlist, #viajero, #peru, #tiktoktravel"
+  - username: "brujula_viajera"
+    fullname: >-
+      Brújula Viajera
+    bio: >-
+      Casi siempre viajo sola🙋🏻‍♀️ Busco inspirarte con mis historias y fotos📷
+    location: "Peru"
+    followers: 11000
+    engagement: 759
+    commentsToLikes: 0.071603
+    id: ckcj5zv2c5zyc0j23mu5w1vr3
+    verified: false
+    hashtags: "#travel, #tiktoktravel, #callao, #viajes"
+  - username: "karimaguinaga"
+    fullname: >-
+      Alejandra B
+    bio: >-
+      No soy Ale, soy Karim💛 Tratando de engañar al algoritmo🌟
+    location: "Peru"
+    followers: 222400
+    engagement: 1095
+    commentsToLikes: 0.032808
+    id: ckbfbrfvk42nx0j2305b78l59
+    verified: false
+    hashtags: "#usa, #maquillaje, #makeup, #peru"
+  - username: "bonfresh"
+    fullname: >-
+      user3785818397701
+    bio: >-
+      
+    location: "Peru"
+    followers: 2136
+    engagement: 843
+    commentsToLikes: 0.095363
+    id: ckauw8ig81f6w0j23psqkp0gq
+    verified: false
+    hashtags: "#travel, #foryourpage, #suiza, #selva"
+  - username: "wanderlust21e"
+    fullname: >-
+      NADIA 😜🇵🇪
+    bio: >-
+      🇵🇪🌳🐝✈️PERUVIAN GIRL📸📝🐈🇵🇪 Sólo por diversión 😜 ✌Más amor, menos odio✌
+    location: "Peru"
+    followers: 94600
+    engagement: 783
+    commentsToLikes: 0.305478
+    id: ckdi7rizo9tet0j23fz437pm0
+    verified: false
+    hashtags: "#humor, #protagonista, #wanderlust21e, #xyzcba"
   - username: "beltrips"
     fullname: >-
       Beltrips
+    bio: >-
+      Info para viajes POST PANDEMIA Nutricionista 🍓 Viaja por el mundo🌎 👇🏼👇🏼
     location: "Peru"
-    followers: 95714
-    engagement: 541
-    commentsToLikes: 0.036010
+    followers: 379500
+    engagement: 861
+    commentsToLikes: 0.014451
     id: cka6f12a2duvx0i78lqejgh3b
     verified: false
-    hashtags: "#macklemore, #diadelasmadres, #backpacker, #deutsch"
-  - username: "wanna_be_viajera"
-    fullname: >-
-      Kirsten Pohl
-    location: "Peru"
-    followers: 2229
-    engagement: 650
-    commentsToLikes: 0.050795
-    id: ckace1gpekrqn0i78rcsf1mup
-    verified: false
-    hashtags: "#viraltiktok, #foryoupage, #cooper, #dogsoftiktok"
-  - username: "loloknate"
-    fullname: >-
-      loloknate
-    location: "Peru"
-    followers: 19297
-    engagement: 588
-    commentsToLikes: 0.017615
-    id: ck8j6d3ju97o50j78zpwv2dnp
-    verified: false
-    hashtags: "#duet, #kpop, #gangnam, #osaka"
-  - username: "yenkostore"
-    fullname: >-
-      ElManyas
-    location: "Peru"
-    followers: 2309
-    engagement: 868
-    commentsToLikes: 0.134667
-    id: cka0u3dsssjpz0i78eayigbwx
-    verified: false
-    hashtags: "#cualescoges, #antesydespues, #yameacorde, #yoenlafiesta"
-  - username: "nicole.dileo1"
-    fullname: >-
-      Nicole Dileo
-    location: "Peru"
-    followers: 40328
-    engagement: 1650
-    commentsToLikes: 0.019619
-    id: cka0ifj10dep60i78bllrncuh
-    verified: false
-    hashtags: "#cruelrealidad, #lookalike, #dance, #greenscreen"
-  - username: "mariaclaudia.durand"
-    fullname: >-
-      mariaclaudiadurand
-    location: "Peru"
-    followers: 3996
-    engagement: 636
-    commentsToLikes: 0.029487
-    id: cka620sk5xu720i78rsx2qier
-    verified: false
-    hashtags: "#trend, #denimoutfit, #posetip, #serononoser"
-  - username: "brigite021_"
-    fullname: >-
-      ~bri~
-    location: "Peru"
-    followers: 2575
-    engagement: 1270
-    commentsToLikes: 0.024287
-    id: ck9dqv0dw1hko0j78zt2gwsa7
-    verified: false
-    hashtags: "#dancechallenge, #lypsing, #tiktok, #dancecover"
-  - username: "victorlluncor"
-    fullname: >-
-      victorlluncor
-    location: "Peru"
-    followers: 10165
-    engagement: 318
-    commentsToLikes: 0.014303
-    id: ck9dupwuhhgo00j789qcx815g
-    verified: false
-    hashtags: "#miraflores, #loveforyou, #queperra, #cambodia"
+    hashtags: "#beltrips, #wanderlust, #travel, #saludybienestar"
 ---

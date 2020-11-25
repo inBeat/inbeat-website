@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top skincare Instagram influencers in Los Angeles in 2020. Most popular hashtags: #skincare #losangeles #selfcare #ultabeauty.
+  Find top skincare Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #skincare #fashion.
 platform: Instagram
+hits: 185
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 185 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "morebeverlycherie"
+  - username: "debramacki"
     fullname: >-
-      
+      Debra Macki
+    bio: >-
+      Celebrity Makeup Artist #debramacki 📍LA/NYC/SALEM MA Classes & Retreats 4 Makeup Artists: Classes@debramacki.com Grateful heart, Sharing what I love 🤗
     location: "United States"
-    followers: 2158
-    engagement: 1124
-    commentsToLikes: 0.200158
-    id: ck5q7jy241x3e0i11awiu1c5y
+    followers: 53854
+    engagement: 137
+    commentsToLikes: 0.029932
+    id: ck0w3jhivtqcn0i19dcdfssvf
     verified: false
-    hashtags: "#kkwbeauty, #ultabeauty, #lilahb, #sharethecare"
-  - username: "kristinamariemorrison"
+    hashtags: "#toofaced, #losangelesmua, #milkmakeup, #witchaesthetic"
+  - username: "liattyy"
     fullname: >-
-      Kristina Marie Morrison
+      Liat | Fashion Blogger in LA
+    bio: >-
+      ✖️ Content Creator + Influencer ✖️ Registered Nurse in Aesthetics @nurseliat ✖️ fashion x beauty x skincare ✖️ Los Angeles, California ✖️ Links ⬇️
     location: "United States"
-    followers: 16599
-    engagement: 288
-    commentsToLikes: 0.148722
-    id: ck6ufe2p5whrx0j71b1vwqzjx
+    followers: 14402
+    engagement: 328
+    commentsToLikes: 0.206224
+    id: ck0u0awp9t4ho0i199nxf7tkn
     verified: false
-    hashtags: "#sleepsmarter, #killerfashions, #princessaurora, #boatlife"
-  - username: "diamond_strawberry"
+    hashtags: "#cartier, #halloween, #halloweenla, #trickortreat"
+  - username: "maryamremias"
     fullname: >-
-      Diamond Strawberry
+      Maryam | Makeup Videos
+    bio: >-
+      💜 #makeup 💜 #skincare 🏖 Los Angeles 💌 maryam@maryamremias.com 👇🏼 Join our waitlist for beauty creators!
     location: "United States"
-    followers: 269991
-    engagement: 52
-    commentsToLikes: 0.080390
-    id: ck5he0t8kqfic0i11ycnaj0qt
-    verified: true
-    hashtags: "#hennessy, #skincare, #quarantine, #losangeles"
-  - username: "officialbiancamilan"
-    fullname: >-
-      Bianca Milan™
-    location: "United States"
-    followers: 24393
-    engagement: 124
-    commentsToLikes: 0.079881
-    id: ck5cb0088egfs0i1163x9iu7s
+    followers: 104175
+    engagement: 573
+    commentsToLikes: 0.034293
+    id: ck5zuem3627t00i14xy77kw97
     verified: false
-    hashtags: "#dancechallenge, #funny, #instaartist, #ambassador"
+    hashtags: "#reelsvideo, #reels, #colourpopcosmetics, #hairmakeupdairy"
+  - username: "ashleydaneclark"
+    fullname: >-
+      Ashley Dane Clark
+    bio: >-
+      Canada Born Currently in Los Angeles @ntamodels @ntatalent Style • Interior Design • Dad Jokes • DIY
+    location: "United States"
+    followers: 70816
+    engagement: 73
+    commentsToLikes: 0.036399
+    id: ck5q5sqyduf4h0i114tyjp551
+    verified: false
+    hashtags: "#ootd, #fashion, #accessories, #purse"
   - username: "aminamarie"
     fullname: >-
-      Amina Marie
+      Amina | Natural Hair & Beauty
+    bio: >-
+      Your Internet Curlfriend Natural Hair / Beauty / Skincare / Wellness 📍 Los Angeles 💌 Partnerships - amina@cfg.co 🎥 YouTube - Amina Marie
     location: "United States"
-    followers: 25136
-    engagement: 600
-    commentsToLikes: 0.043396
+    followers: 33613
+    engagement: 541
+    commentsToLikes: 0.033684
     id: ck0uaqmgycxiu0i19r5cr1z5d
     verified: false
-    hashtags: "#mywhowhatwear, #happyinsideout, #dontrushchallenge, #curlyhairstyles"
-  - username: "hijabioffthegrid"
+    hashtags: "#expresspartner, #naturalhairtips, #expressyou, #liketkit"
+  - username: "splendidsammie"
     fullname: >-
-      Sarah
+      Sammie B. | THE BERNABE BUZZ 🐝
+    bio: >-
+      los angeles 🇵🇭 skincare • fashion • lifestyle 💌 thebernabebuzz@gmail.com
     location: "United States"
-    followers: 61399
-    engagement: 756
-    commentsToLikes: 0.012926
-    id: ck5hknwswirot0i11ynhslbp6
+    followers: 3853
+    engagement: 1086
+    commentsToLikes: 0.096481
+    id: ck5pydqvqviww0i11uqtpkibt
     verified: false
-    hashtags: "#dovepartner, #unedited, #ultabeauty, #worldhijabday"
-  - username: "natalie_aley"
+    hashtags: "#veganbeauty, #cleanbeauty, #jumisogreenserum, #trymereviewme"
+  - username: "amandagiroux"
     fullname: >-
-      natalie_aley
+      Amanda Renée Giroux
+    bio: >-
+      Los Angeles
     location: "United States"
-    followers: 182009
-    engagement: 101
-    commentsToLikes: 0.036870
-    id: ck55m16ds2xw70i11thewkwy2
+    followers: 21506
+    engagement: 531
+    commentsToLikes: 0.029542
+    id: ck5caronxe0080i11qpb8cqw7
     verified: false
-    hashtags: "#singersongwriter, #hummusplatter, #handstandpractice, #wellnesslosangeles"
-  - username: "beatfacefridayy"
+    hashtags: "#beauty, #style, #quarantinestyle, #ashleyrenesgirl"
+  - username: "joeyzauzig"
     fullname: >-
-      Gigi (official)
+      Joey Zauzig
+    bio: >-
+      Men’s Fashion | Skincare | Fitness | LGBTQ+ 📍 Los Angeles, CA 📩 joey@joeyzauzig.com 🎶 TikTok joeyzauzig
     location: "United States"
-    followers: 100173
-    engagement: 75
-    commentsToLikes: 0.086669
-    id: ck8szd6xxnyph0j78uozkizho
+    followers: 194622
+    engagement: 413
+    commentsToLikes: 0.031078
+    id: ck5c1dsy1uz3n0i11mp7y57c2
     verified: false
-    hashtags: "#drunkelephantskincare, #mothersday, #pinkwednesday, #skincaregoals"
-  - username: "toasttostyle_"
+    hashtags: "#lgbtq, #lgbt, #gay, #beforeandafter"
+  - username: "dgaycia"
     fullname: >-
-      Chelsea Smith
+      ꧁ DANNY ꧂
+    bio: >-
+      
     location: "United States"
-    followers: 41825
-    engagement: 253
-    commentsToLikes: 0.083993
-    id: ck0w0fo5odyi40i19kbb6u7za
+    followers: 2976
+    engagement: 1418
+    commentsToLikes: 0.057434
+    id: ckaowg5jo8sbo0i78aw621nxj
     verified: false
-    hashtags: "#thisisann, #wfhstyle, #boohoointhehouse, #rainbownails"
-  - username: "iamthedaisha"
+    hashtags: "#downtownmiami, #newyork, #skincareproducts, #beautyconpop"
+  - username: "celebbeforeafter"
     fullname: >-
-      Daisha
+      BeforeAfter
+    bio: >-
+      Before/After celebrity pictures Celeb Transformations
     location: "United States"
-    followers: 71316
-    engagement: 159
-    commentsToLikes: 0.057945
-    id: ck5zra0ykw6rc0i1419pokgd6
-    verified: true
-    hashtags: "#london, #coffeelover, #live, #life"
+    followers: 229024
+    engagement: 634
+    commentsToLikes: 0.032606
+    id: ck5zsn96sytqm0i14sp7a7vem
+    verified: false
+    hashtags: "#face, #instamood, #picoftheday, #instadaily"
 ---

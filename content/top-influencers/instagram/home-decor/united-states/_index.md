@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In United States In 2020
 description: >-
-  Find top home decor Instagram influencers in United States in 2020. Most popular hashtags: #bedroomdecor #staysafe #livingroomdecor #kitchen.
+  Find top home decor Instagram influencers in United States in 2020. Most popular hashtags: #homedecor #diy #ad #falldecor.
 platform: Instagram
+hits: 2831
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 2831 Instagram influencers like this in United States for you to work with.
 profiles:
+  - username: "madisonclevenstine"
+    fullname: >-
+      Madison Clevenstine
+    bio: >-
+      • Style + Lifestyle Blog | Musings by Madison • A modern gal’s guide to feminine, classic style, beauty, home decor, & more. • SHOP MY FALL CAPSULE ⬇️
+    location: "United States"
+    followers: 15479
+    engagement: 664
+    commentsToLikes: 0.069061
+    id: ck5cctexshzdc0i11mxnb46p3
+    verified: false
+    hashtags: "#ltkunder100, #attheomni, #ltkhome, #omnihotels"
   - username: "letiespadas"
     fullname: >-
-      Lety Espadas
+      𝐋𝐞𝐭𝐲 𝐄𝐬𝐩𝐚𝐝𝐚𝐬
+    bio: >-
+      Lifestyle|fashion|homedecor|abogada 📩 letyespadas7@gmail.com 🛍 código @sheinofficial 15% OFF “Lety” 𝐼𝓈𝒶𝒾𝒶𝒽 𝟦𝟣:𝟣𝟢 🕊 CEO @letyespadasboutique
     location: "United States"
-    followers: 28112
-    engagement: 192
-    commentsToLikes: 0.459626
+    followers: 53407
+    engagement: 209
+    commentsToLikes: 0.093273
     id: ck0vzx5csbbkn0i19smj5hx8k
     verified: false
-    hashtags: "#fashionisinthehair, #handmadeinfrance, #colorwowhairgiftedme, #colorwowhair"
-  - username: "angeliquecooper"
+    hashtags: "#shopalfaparfusa, #ad, #patmcgrathlabs, #cheirosa62candle"
+  - username: "mayrafarret"
     fullname: >-
-      Angelique Cooper
+      Mayra Farret
+    bio: >-
+      Fashion.Beauty.Lifestyle.HomeDecor.Crafts Mom of 👦🏼s and 🐶s Born in 🇲🇽living in 🇺🇸 Official cast member of Texicanas; @bravotv @tlc Content Creator
     location: "United States"
-    followers: 102952
-    engagement: 280
-    commentsToLikes: 0.011267
-    id: ck0w75r7gbw9n0i19kvf4x6jv
-    verified: true
-    hashtags: "#deardahlia, #veganfriendly, #biorenosebest, #hawaii"
-  - username: "karen_t_style"
-    fullname: >-
-      Karen
-    location: "United States"
-    followers: 8918
-    engagement: 900
-    commentsToLikes: 0.261905
-    id: ck9wfvjulqohp0j78fg7a806r
+    followers: 30798
+    engagement: 382
+    commentsToLikes: 0.019927
+    id: ck5hn6zsqnbow0i11akpybgo5
     verified: false
-    hashtags: "#elegantliving, #moodytones, #coffeebar, #classicinterior"
+    hashtags: "#sanantoniobotanicalgarden, #boots, #mexicanblogger, #momlifebelike"
   - username: "mygorgeousmessylife"
     fullname: >-
       ♡𑁍 𝑨𝒍𝒚𝒔𝒔𝒂 𑁍♡
+    bio: >-
+      🌿#calitotexas 💗𝓦𝓲𝓯𝓮🍷𝓜𝓪𝓶𝓪 ☕️ 🌿#worship ✞ 𝕃𝕖𝕒𝕕𝕖𝕣 ✞ 💗#hallmark 𝐉𝐮𝐧𝐤𝐢𝐞💕 🌿#targetfinds🎯 #amazonlove 💗#homedecor kinda🤷🏼‍♀️ 🌿𝕃𝕚𝕧𝕚𝕟𝕘 𝕎𝕖𝕝𝕝🙌🏻 💗𝐃𝐌 𝗍𝗈 #collab
     location: "United States"
-    followers: 16686
-    engagement: 564
-    commentsToLikes: 0.136416
+    followers: 17815
+    engagement: 475
+    commentsToLikes: 0.113068
     id: ck15s0swdanyh0i19dikuvot1
     verified: false
-    hashtags: "#giftideasforher, #socalliving, #sponsor, #socallife"
-  - username: "vintagewhisperer"
+    hashtags: "#amiright, #linkinbio, #guthealthmatters, #swipeleft"
+  - username: "coffeycustombuilds"
     fullname: >-
-      Sandy-{vintage whisperer
+      Mike Coffey
+    bio: >-
+      // 🔨Woodworker🔨//\\📸 Content Creator📸 \\ #woodworking #furniture #homedecor Co-Host of: @anotherwoodshoppodcast Partnered with: @macbeathhardwood
     location: "United States"
-    followers: 8409
-    engagement: 863
-    commentsToLikes: 0.093113
-    id: ck9h9sog39t6q0j78ri6pnak5
+    followers: 32871
+    engagement: 251
+    commentsToLikes: 0.141361
+    id: ck6u5aznb8kz40j71lfwomofs
     verified: false
-    hashtags: "#senecastrong, #springdecor, #senecasc, #staysafe"
-  - username: "lifes_little_luxuries_1"
+    hashtags: "#shoporganization, #diy, #wooden, #woodshop"
+  - username: "alexanderreneedesign"
     fullname: >-
-      Lifeslittleluxuries1
+      Ashley | Decor, DIY & Family
+    bio: >-
+      🖤Inspiring #homedecor, #DIYs, organization & family life 💫 Creating e-designs for the busy person 📧 ashley@alexanderrenee.design 📍Atlanta, GA
     location: "United States"
-    followers: 16810
-    engagement: 397
-    commentsToLikes: 0.248581
-    id: ck6u5vfv8bz7j0j713pufc1x2
+    followers: 30505
+    engagement: 564
+    commentsToLikes: 0.139817
+    id: ck55q5olec4jh0i11d32j1dqx
     verified: false
-    hashtags: "#girlsroomideas, #designedby, #festivallife, #campinggear"
-  - username: "mycountrylife_idaho"
+    hashtags: "#designdecorlovers, #diychristmas, #diyornaments, #christmastree"
+  - username: "home_is_number85"
     fullname: >-
-      Brandi
+      Home Is Number 85
+    bio: >-
+      | Our Next chapter⁣⁣ | | The Alnwick by Barratt | | Decorating a blank canvas ⁣⁣| | Neutral decor with a splash of colour| #neutraldecor #homedecor
     location: "United States"
-    followers: 4598
-    engagement: 1009
-    commentsToLikes: 0.349060
-    id: ck9wd69tfe90q0j78o6p9x4jc
+    followers: 9725
+    engagement: 471
+    commentsToLikes: 0.200517
+    id: ckf5vu77apxej0j23eg1wgouu
     verified: false
-    hashtags: "#waterfall, #mothersdaygift, #bathroom, #hearhim"
+    hashtags: ""
+  - username: "makeupsessions"
+    fullname: >-
+      Beti Petkovski
+    bio: >-
+      📍 Boulder, CO #Makeup, #Skincare and all things #Beauty #homedecor in the making Email:makeupsessions@gmail.com
+    location: "United States"
+    followers: 103191
+    engagement: 54
+    commentsToLikes: 0.108887
+    id: ckaoqovt6jomn0i78wtha8nsb
+    verified: false
+    hashtags: "#skincareroutine, #beautylish, #homedecor, #newmakeup"
+  - username: "ello_betty"
+    fullname: >-
+      Jaclyn Dryden
+    bio: >-
+      Loving life each day is my motto. I adore #tech #influencer #lifestyle #travel #homedecor email: hellobettycompany@gmail.com
+    location: "United States"
+    followers: 19969
+    engagement: 42
+    commentsToLikes: 0.085942
+    id: ck6ud0sbtigh20j71uw5mytgq
+    verified: false
+    hashtags: "#dogoftheday, #dogsofinstagram, #crafts, #homedecor"
   - username: "rebeccarobeson"
     fullname: >-
       Rebecca Robeson
+    bio: >-
+      Interior Designer, YouTuber, Creator of the Design Sessions #kinwoven #robesondesign #homedecor #christmastree #influencer #instastyle #inspiration
     location: "United States"
-    followers: 136583
-    engagement: 189
-    commentsToLikes: 0.078777
+    followers: 169437
+    engagement: 202
+    commentsToLikes: 0.052094
     id: ck14ij2sufnou0i197ruv5odl
     verified: false
-    hashtags: "#beautifulbaby, #hummingbirds, #bedroomideas, #designcourses"
-  - username: "copper_pig_fine_woodworking"
-    fullname: >-
-      Copper Pig Woodworking
-    location: "United States"
-    followers: 39582
-    engagement: 205
-    commentsToLikes: 0.067856
-    id: ck0u1hq71wxlo0i194rbxvqr9
-    verified: false
-    hashtags: "#keepsakebox, #finewoodworking, #bftype, #makermovement"
-  - username: "sabrina_soto"
-    fullname: >-
-      Sabrina Soto
-    location: "United States"
-    followers: 74681
-    engagement: 157
-    commentsToLikes: 0.033885
-    id: ck5ccf506h8u00i119a5fiwhs
-    verified: true
-    hashtags: "#nationalsiblingday, #plantbased, #washyourhands, #sotohouse"
+    hashtags: "#instastyle, #kinwoven, #interiordesign, #bedroomstyle"
 ---

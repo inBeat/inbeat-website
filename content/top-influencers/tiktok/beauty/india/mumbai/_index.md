@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Mumbai In 2020
 description: >-
-  Find top beauty TikTok influencers in Mumbai in 2020. Most popular hashtags: #water #mumbai #tiktok #follow.
+  Find top beauty TikTok influencers in Mumbai in 2020. Most popular hashtags: #tiktok #foryou #india #foryoupage.
 platform: TikTok
+hits: 19
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 19 TikTok influencers like this in Mumbai, India for you to collaborate.
 profiles:
-  - username: "sweelife"
-    fullname: >-
-      ❤️ Sweelife ❤️
-    location: "India"
-    followers: 90755
-    engagement: 266
-    commentsToLikes: 0.005111
-    id: ckac8kbtifjgc0i78ini6c60j
-    verified: false
-    hashtags: "#lots, #jointpain, #spinach, #tikok"
-  - username: "grisha92"
-    fullname: >-
-      Greeshma Nair
-    location: "India"
-    followers: 4464
-    engagement: 1820
-    commentsToLikes: 0.040540
-    id: ck8rr42gisvuc0j781qxs5hzg
-    verified: false
-    hashtags: "#nazriya, #dimplelove, #ezhimalapoonchola, #kalippu"
-  - username: "urvashisolankii"
-    fullname: >-
-      UrvashiSolanki
-    location: "India"
-    followers: 273822
-    engagement: 1166
-    commentsToLikes: 0.031884
-    id: ck85cq1vl2xph0j78mah6lhid
-    verified: false
-    hashtags: "#gujarati, #holidayfeels, #mangodon, #kejariwal"
-  - username: "whildcat0107"
-    fullname: >-
-      Whild Cat 
-    location: "India"
-    followers: 2838
-    engagement: 937
-    commentsToLikes: 0.038134
-    id: ck921wpkijzr60j78qd7tcge3
-    verified: false
-    hashtags: "#simpicity, #makemefamous, #jannat, #heart"
-  - username: "simran_sugarcoated"
-    fullname: >-
-      Simran Sugarcoated
-    location: "India"
-    followers: 13459
-    engagement: 699
-    commentsToLikes: 0.041145
-    id: ck9k6wu122k6q0j788ad4yoiy
-    verified: false
-    hashtags: "#hair, #yaadpiyaki, #bikramyoga, #blue"
-  - username: "polymonika1"
-    fullname: >-
-      polymonika
-    location: "India"
-    followers: 116943
-    engagement: 433
-    commentsToLikes: 0.023235
-    id: ck921ailwhh500j78jl6toqyy
-    verified: false
-    hashtags: "#restinpeace, #divyabharti, #duetwithme, #coffee"
-  - username: "traveltok_apeksha"
-    fullname: >-
-      Apeksha Choksi
-    location: "India"
-    followers: 3491
-    engagement: 508
-    commentsToLikes: 0.008640
-    id: ck80oelr6hbx30j78qtej77qp
-    verified: false
-    hashtags: "#hampi, #gatewayofindia, #tikona, #sahyadri"
   - username: "thefoodiedad3"
     fullname: >-
       The Foodie Dad
+    bio: >-
+      PS: Not a dad although a food dad❤️👅 connect : thefoodiesdad@gmail.com
     location: "India"
-    followers: 193182
-    engagement: 909
-    commentsToLikes: 0.004687
+    followers: 438200
+    engagement: 506
+    commentsToLikes: 0.003127
     id: ck95vmggsymk00j781ptl0kg9
     verified: false
-    hashtags: "#rasmalai, #dosa, #lockdown, #cute"
-  - username: "wakeupandmakeup_shradha"
+    hashtags: "#tiktok, #food, #paneer, #healthy"
+  - username: "simrankaursuri"
     fullname: >-
-      Shradha Gupta_WUMU
+      simrankaursuri
+    bio: >-
+      Actor Mumbai, India
     location: "India"
-    followers: 139693
-    engagement: 561
-    commentsToLikes: 0.004424
-    id: ck9fgsl4c359m0j78w5ctkw6p
+    followers: 36500
+    engagement: 1107
+    commentsToLikes: 0.143729
+    id: ckbb9ywfrz2kh0j23wk5ll0zh
     verified: false
-    hashtags: "#part3, #like4follow, #posechallenge, #follow"
-  - username: "kalpesh_kalsariya"
+    hashtags: "#monsoonvibes, #tidelagaodaaghatao, #fyp, #lines"
+  - username: "dr.lalit_kasana"
     fullname: >-
-      Kalpesh Kalsariya
+      Dr.Lalit Kasana 
+    bio: >-
+      Dr.Kasana’s Skin, Hair, Laser Clinic @Gr.Noida, Ghaziabad, Bulandshahr & Mumbai
     location: "India"
-    followers: 474918
-    engagement: 493
-    commentsToLikes: 0.005247
-    id: ck81syvicu4ag0j78sl2rcjn0
+    followers: 631100
+    engagement: 233
+    commentsToLikes: 0.022198
+    id: ck9fx9fce5hmn0j78rab5qu86
+    verified: true
+    hashtags: "#skincare, #moleremoval, #edutok, #drlalitkasana"
+  - username: "dr.rahul.g"
+    fullname: >-
+      Dr Rahul Gondaliya
+    bio: >-
+      Celebrity & High Profile Doctor Follow for Health & Beauty Tips
+    location: "India"
+    followers: 258000
+    engagement: 398
+    commentsToLikes: 0.016697
+    id: ckbw3gdt8x5a50j233dr92egy
     verified: false
-    hashtags: "#tiktoklover, #follow, #shyari, #pottery"
+    hashtags: "#health, #face, #beautiful, #skin"
+  - username: "taj_king_22"
+    fullname: >-
+      Taj_king_22
+    bio: >-
+      from Mumbai🙏 Instagram😘 follow me🤝📍📍📍
+    location: "India"
+    followers: 144500
+    engagement: 1064
+    commentsToLikes: 0.009274
+    id: cka0mu59dwv9n0i78fbxonq6w
+    verified: false
+    hashtags: "#sadsong, #viral, #shaadi, #tiktok"
+  - username: "aavinashpayal"
+    fullname: >-
+      Aavinash Payal
+    bio: >-
+      Dance & Fashion Choreographer DM - Instagram/Facebook/Youtube Bollywood, Mumbai
+    location: "India"
+    followers: 154700
+    engagement: 329
+    commentsToLikes: 0.015268
+    id: ck9dsscg99d6e0j78wsyr0bwh
+    verified: false
+    hashtags: "#art, #model, #dance, #lovemyjob"
+  - username: "pageant_and_innovation"
+    fullname: >-
+      Pageant and innovati
+    bio: >-
+      Beauty and glamour Miss Universe,Miss World and Miss India insta: pageantandinno
+    location: "India"
+    followers: 5397
+    engagement: 565
+    commentsToLikes: 0.006161
+    id: ckb9lga8pdydm0j23tvtit93v
+    verified: false
+    hashtags: "#pageantandinnovation, #missindia, #trending, #foryoupage"
+  - username: "grisha92"
+    fullname: >-
+      Greeshma Nair
+    bio: >-
+      live n let live❤️❤️ not at all a beauty queen😎
+    location: "India"
+    followers: 4450
+    engagement: 1813
+    commentsToLikes: 0.038007
+    id: ck8rr42gisvuc0j781qxs5hzg
+    verified: false
+    hashtags: "#advait, #thirunelveli, #youthwing, #gullyboy"
+  - username: "nivrity_das"
+    fullname: >-
+      Nivrity Das
+    bio: >-
+      Content Creator | Fashion • Beauty • Lifestyle • Travel Instagram: @nivrity_das✨
+    location: "India"
+    followers: 22500
+    engagement: 467
+    commentsToLikes: 0.006103
+    id: ckbeym7yij4e60j233saao6hg
+    verified: true
+    hashtags: "#tiktoktrending, #hiteverybeat, #sotiktok, #foryoupage"
+  - username: "kamrankhan0005"
+    fullname: >-
+      kk___9125
+    bio: >-
+      kya krunGa apna Time lakr🤘🏻 srch🔍of InsTa💫 10k Flw soon😘
+    location: "India"
+    followers: 6497
+    engagement: 1301
+    commentsToLikes: 0.005171
+    id: ckbqamkxbwlac0j23k6rsdgpb
+    verified: false
+    hashtags: "#kk, #swagstepchallenge, #sad, #lover"
 ---

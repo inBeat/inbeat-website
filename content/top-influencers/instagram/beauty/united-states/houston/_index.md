@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Houston In 2020
 description: >-
-  Find top beauty Instagram influencers in Houston in 2020. Most popular hashtags: #houston #naturalhair #amazonfinds #afro.
+  Find top beauty Instagram influencers in Houston in 2020. Most popular hashtags: #houston #beauty #makeup #hair.
 platform: Instagram
+hits: 256
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 256 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "braidsbykamesha"
+  - username: "anaalvarezblog"
     fullname: >-
-      Ka’Mesha Cathcart
+      Ana Alvarez
+    bio: >-
+      everyday style | beauty houston, tx ✉️ anaalvarezblog@yahoo.com shop my outfits ↓
     location: "United States"
-    followers: 20203
-    engagement: 1302
-    commentsToLikes: 0.024172
-    id: ck15pc7izx5gk0i19c1oz3noz
+    followers: 38821
+    engagement: 160
+    commentsToLikes: 0.315210
+    id: ck14kwr6krpga0i199eex5bjc
     verified: false
-    hashtags: "#blackwomen, #eyelashes, #knotlessboxbraids, #jumboboxbraids"
-  - username: "juanyyasminn"
+    hashtags: "#ltkfall, #liketkit, #ltkunder100, #ltkunder50"
+  - username: "flawlessbyamin"
     fullname: >-
-      Juany Yasmin
+      Amin Kabani
+    bio: >-
+      Makeup artist /Trainer 💄 Pro Makeup Artists Workshops available Contact: teamflawless@yahoo.com @teamflawless.co @pxystxlifestyle
     location: "United States"
-    followers: 72924
-    engagement: 826
-    commentsToLikes: 0.098356
-    id: ck0tyv6l5o70l0i19bh6lou6e
+    followers: 16584
+    engagement: 196
+    commentsToLikes: 0.054555
+    id: ck0ucasligdk30i19piu3wxxt
     verified: false
-    hashtags: "#vaquera, #laninafresa, #dailyparenting, #mommyblogger"
-  - username: "bagd_pnda"
+    hashtags: "#makeuptutorial, #makeupgoals, #beauty, #houstonbrides"
+  - username: "1beautyobt"
     fullname: >-
-      
+      Number One Beauty Supply (OBT)
+    bio: >-
+      ✨Rated #1 Beauty Supply in Orlando 👩🏽‍🦳Full Lace Wigs 💇🏻‍♀️Bundle Hair 🔸Clip & Tape Extensions 🔸Beauty Products 📨DM to order/info 1beautyOBT.com
     location: "United States"
-    followers: 14130
-    engagement: 537
-    commentsToLikes: 0.023715
-    id: ck5zoagtdq4bh0i14qmizco4m
+    followers: 50337
+    engagement: 44
+    commentsToLikes: 0.070778
+    id: ck0vxy7u71b9o0i19y22rm4aq
     verified: false
-    hashtags: "#socialmustang, #mustangsofinstagram, #travelphotography, #mustangnation"
-  - username: "mena_adubea"
+    hashtags: "#hair, #slayed, #fortlauderdale, #miamimua"
+  - username: "me.koh"
     fullname: >-
-      HOUSTON BEAUTY CONTENT CREATOR
+      Mekoh
+    bio: >-
+      minimalism | type 4 hair | beauty 📍houston, texas NEW YT videos weekly 👇🏾
     location: "United States"
-    followers: 60795
-    engagement: 330
-    commentsToLikes: 0.027877
-    id: ck5hm3snflbo30i11l4hql6ek
+    followers: 17241
+    engagement: 642
+    commentsToLikes: 0.065785
+    id: ck8syullrm2fi0j78ak14l2no
     verified: false
-    hashtags: "#naturalnails, #instaskincare, #wighack, #naturalhair"
-  - username: "lifetolauren"
+    hashtags: "#unapologeticallyreal, #mejuripartner, #rikilovesriki, #ad"
+  - username: "tiffanynicholsdesign"
     fullname: >-
-      Lifestyle Blog
+      Tiffany Nichols
+    bio: >-
+      Favored 🙏🏽 📍Houston Beauty Branding | Marketing | Sales Published Blogger & Content Creator 🎥 📸
     location: "United States"
-    followers: 73657
-    engagement: 178
-    commentsToLikes: 0.058193
-    id: ck0txw805kprq0i19y8nl6w6j
+    followers: 44400
+    engagement: 188
+    commentsToLikes: 0.060240
+    id: ck15rsds39gk60i19fcqndpm8
     verified: false
-    hashtags: "#selfcare, #ltkmothersday, #bumpstyle, #summerstyle"
-  - username: "charmingcharltonphotos"
+    hashtags: "#tiffanynicholsdesign, #houstoninfluencer, #houstonblogger, #blackgirlstravel"
+  - username: "nicolemehta"
     fullname: >-
-      CHARMING  CHARLTON
+      NICOLE MEHTA
+    bio: >-
+      The Perfect Ensemble 🧿 Fashion | Fitness | Travel | Skincare & Beauty 📍Houston
     location: "United States"
-    followers: 57133
-    engagement: 56
-    commentsToLikes: 0.039330
-    id: ck0tt00bc0k950i19fns6158u
+    followers: 80746
+    engagement: 198
+    commentsToLikes: 0.091179
+    id: ck0w1zktblwyd0i19sqjq3oqy
     verified: false
-    hashtags: "#charmingcharlton, #houstonphotographer, #uneditedphoto, #irunwithahmaud"
-  - username: "nadiaisabelmakeup"
+    hashtags: "#diwali2020, #desiinfluencer, #diwali, #diwaliathome"
+  - username: "missmegan_2u"
     fullname: >-
-      Nadia Isabel Tabban
+      Megan S: Hair & Fashion
+    bio: >-
+      •HAIR STYLIST •FASHION INFLUENCER •ALL THINGS BEAUTY 📍HOUSTON Owner/Operator:@themeffecthairstudio ⬅️‼️
     location: "United States"
-    followers: 11435
-    engagement: 516
-    commentsToLikes: 0.142205
-    id: ck15q6nso1d7i0i193pwrhoyl
+    followers: 6071
+    engagement: 591
+    commentsToLikes: 0.109753
+    id: ckaornm7xo0yr0i780rrkjycj
     verified: false
-    hashtags: "#20, #privatesocietycosmetics, #identidad, #pixipretties"
-  - username: "jessicamelgoza_"
+    hashtags: "#cancergang, #happy713dayyall, #32, #713day"
+  - username: "thelhway"
     fullname: >-
-      𝐉 𝐄 𝐒 𝐒 𝐈 𝐂 𝐀
+      Laie Holloway
+    bio: >-
+      When life gets blurry Adjust your focus.
     location: "United States"
-    followers: 12410
-    engagement: 556
-    commentsToLikes: 0.322708
-    id: ck14j9uovja5r0i19msnx1s88
+    followers: 41716
+    engagement: 310
+    commentsToLikes: 0.024394
+    id: ck5c7qorh80ew0i11qahbcf1o
     verified: false
-    hashtags: "#designerdupes, #tiedyefashion, #whiteteamoments, #cincodemayo"
-  - username: "luxebeemakeuplounge"
+    hashtags: "#texas, #model, #notinhouston, #portraitsociety"
+  - username: "coriaston39"
     fullname: >-
-      Houston’s #1 Beauty Store 💁‍♀️
+      CORI ASTON
+    bio: >-
+      𝙶𝙻𝙾𝙱𝙰𝙻 𝙵𝙸𝙽𝙰𝙻𝙸𝚂𝚃 •𝐀𝐜𝐚𝐝é𝐦𝐢𝐞 𝐝𝐞 𝐂𝐢𝐧é𝐦𝐚 𝙸𝙽𝚃’l 𝙱𝙴𝙰𝚄𝚃𝚈 𝙰𝚆𝙰𝚁𝙳 •𝐀𝐯𝐚𝐧𝐭-𝐠𝐚𝐫𝐝𝐞⁣⁣⠀ 𝙽𝙰𝚃𝙸𝙾𝙽𝙰𝙻 •𝐌𝐚𝐤𝐞𝐮𝐩 𝐀𝐫𝐭𝐢𝐬𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝐍𝐀𝐇𝐀⁣⁣⠀ ⁣⁣BOOKING: 713.907.1490
     location: "United States"
-    followers: 20934
-    engagement: 15
-    commentsToLikes: 0.014822
-    id: ck15rg7s47rxm0i19uhtxymne
+    followers: 16866
+    engagement: 98
+    commentsToLikes: 0.096521
+    id: ck0u23g33ytph0i19lmpnhrxy
     verified: false
-    hashtags: ""
-  - username: "elianedjema"
+    hashtags: "#makeupbycori, #makeupforphotography, #blonde, #cleanbeauty"
+  - username: "lashkisseyelashes"
     fullname: >-
-      Eliane Djema, Esq. 🇨🇩
+      Lashkiss Eyelash Extensions
+    bio: >-
+      #dallaslashes #arlingtonlashes TRAINING AVAILABLE LINK IN BIO TO BOOK ❗️I AM DA LASH GOAT 🐐 💨License Instructor @lashkiss_eyelashes_ BACKUP PAGE
     location: "United States"
-    followers: 10863
-    engagement: 964
-    commentsToLikes: 0.073983
-    id: ck14jsacrlxan0i19hoiht9zb
+    followers: 10543
+    engagement: 288
+    commentsToLikes: 0.039416
+    id: ck5zqwjnpvfmc0i14w38nd71r
     verified: false
-    hashtags: "#iaintscared, #fashion, #blogger, #wcw"
+    hashtags: "#carebears, #lashpro, #lashes, #lashartist"
 ---

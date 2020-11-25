@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In Brazil In 2020
 description: >-
-  Find top dancers TikTok influencers in Brazil in 2020. Most popular hashtags: #dueto #gera #trend #quarentena.
+  Find top dancers TikTok influencers in Brazil in 2020. Most popular hashtags: #dance #fy #dueto #foryou.
 platform: TikTok
+hits: 112
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 112 TikTok influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "julianamunizl"
+    fullname: >-
+      🔥Ju Muniz 🔥
+    bio: >-
+      Singer 🎙 Dancer 💃🏻 INSTAGRAM: jumunizl 📸 🇧🇷🤍🇮🇳
+    location: "Brazil"
+    followers: 826400
+    engagement: 1652
+    commentsToLikes: 0.056912
+    id: ck9gntalry13h0j78w1e3vbl8
+    verified: true
+    hashtags: "#uniter, #karaokedajumuniz, #nowunited, #trend"
+  - username: "lucianaedanilo10"
+    fullname: >-
+      Luciana Aleluia
+    bio: >-
+      Dancer💃😍💃 IG: @lucianna.05 De Salvador Bahia
+    location: "Brazil"
+    followers: 10100
+    engagement: 2076
+    commentsToLikes: 0.204987
+    id: ckdnvgr54on6l0j23ud7v94wk
+    verified: false
+    hashtags: "#fyp, #fy, #dueto, #dance"
+  - username: "ruansulopes"
+    fullname: >-
+      ruansuburbano
+    bio: >-
+      Dancer from Brazil 👟(031)🇧🇷
+    location: "Brazil"
+    followers: 64300
+    engagement: 1409
+    commentsToLikes: 0.068072
+    id: ckavo9gz3yyhp0j23t0wvvk8k
+    verified: false
+    hashtags: "#fy, #bts, #dance, #masego"
   - username: "carlos.marconi"
     fullname: >-
       Carlos Marconi
+    bio: >-
+      19 years🎶cânceriano DANCER !!! INSTA: carlos.marconii
     location: "Brazil"
-    followers: 8347
-    engagement: 2798
-    commentsToLikes: 0.063407
+    followers: 16500
+    engagement: 2660
+    commentsToLikes: 0.047977
     id: ckan3sipm6r900i78c7gl170n
     verified: false
-    hashtags: "#children, #4you, #onde, #pintura"
-  - username: "jhowdancer"
+    hashtags: "#boyfriend, #cuteboy, #kpop, #boycute"
+  - username: "celia_ding"
     fullname: >-
-      jhowdancer
+      Célia Ding
+    bio: >-
+      {Dancer}•{Makeup Artist} Kpop💜 Intagram: @celia_ding 🇧🇷🇨🇳
     location: "Brazil"
-    followers: 1174504
-    engagement: 2255
-    commentsToLikes: 0.011354
-    id: ck9gqq4r4ajqq0j7842uliidx
+    followers: 10300
+    engagement: 1675
+    commentsToLikes: 0.034841
+    id: ckan56k14dh8u0i788miohvt4
     verified: false
-    hashtags: "#dueto, #quadrocongelado"
+    hashtags: "#blackpink, #icecream, #dance, #lovesickgirls"
   - username: "ramanaborba"
     fullname: >-
       Ramana Borba
+    bio: >-
+      Cheguei só para conhecer e agora sei todas dancinhas🤦🏾‍♀️. Dancer, 19 anos🇧🇷
     location: "Brazil"
-    followers: 312063
-    engagement: 1820
-    commentsToLikes: 0.033897
+    followers: 2100000
+    engagement: 1634
+    commentsToLikes: 0.018296
     id: ck9nutx3lovrz0j78sw526jdg
     verified: true
-    hashtags: "#brabachallenge, #bbbxtiktok, #afro, #adote"
-  - username: "fabionuness"
+    hashtags: "#ad, #funk, #dueto, #paravoce"
+  - username: "raurahelena"
     fullname: >-
-      Fabionuness
+      Laura Helena 👑
+    bio: >-
+      Cosplayer, Pole/Belly/Ballet Dancer que tenta ser tiktoker nas horas vagas 😎
     location: "Brazil"
-    followers: 100177
-    engagement: 2127
-    commentsToLikes: 0.019413
-    id: ck933at51n9i70j78vllgf7t6
+    followers: 2567
+    engagement: 1099
+    commentsToLikes: 0.082966
+    id: ckbr56yybl1hf0j23v0ozfp5u
     verified: false
-    hashtags: "#comedy, #lexa, #backflip, #brabachallenge"
-  - username: "tihakemi"
+    hashtags: "#dancinha, #pravoce, #fyp, #friends"
+  - username: "gabrielmorenoofc"
     fullname: >-
-      Titih
+      Gabriel Moreno
+    bio: >-
+      Instagram: @gabrielmorenoofc Nutricionista 3/8 📚 Modelo / Dancer 😎 25 anos
     location: "Brazil"
-    followers: 22535
-    engagement: 1265
-    commentsToLikes: 0.053287
-    id: ck9f1o2si8w410j78su4d38j3
+    followers: 277800
+    engagement: 1288
+    commentsToLikes: 0.028434
+    id: ck9kegjq2ysjq0j78fq441bov
     verified: false
-    hashtags: "#sexigirl, #paravoc, #miku, #lolitaa"
-  - username: "jeyke"
+    hashtags: "#pravoce, #foryou, #teletransporte, #funk"
+  - username: "nathy_olivveira_"
     fullname: >-
-      Jeyke ⚡️
+      Nathy_Olivveira
+    bio: >-
+      Dancer💕 Arianator💕 Belieber💕 O pessoal me chama de Mini Addison🥺💕 🇧🇷🇺🇸
     location: "Brazil"
-    followers: 506405
-    engagement: 1252
-    commentsToLikes: 0.022447
-    id: ck9gr4jwjcc2a0j784oryudwz
-    verified: true
-    hashtags: "#tutorialdance, #desafiobbb, #teamjeyke, #segredonossochallenge"
-  - username: "haen_kpop"
-    fullname: >-
-      Haen
-    location: "Brazil"
-    followers: 56667
-    engagement: 2639
-    commentsToLikes: 0.015252
-    id: ckan2sgam1umn0i78akoi8887
+    followers: 24300
+    engagement: 2213
+    commentsToLikes: 0.024419
+    id: ckaijmk3ffogx0i781hkcdx0p
     verified: false
-    hashtags: "#love, #cute, #army, #futuro"
-  - username: "anaantonello"
+    hashtags: "#arianagrande, #newtrend, #foryou, #fyp"
+  - username: "gabsdalcin"
     fullname: >-
-      Ana Antonello ✨
+      Gabs Dalcin
+    bio: >-
+      Dancer & Singer | QOR | 🇧🇷 @gabsdalcin / @queensofrevolution 18y
     location: "Brazil"
-    followers: 17039
-    engagement: 1578
-    commentsToLikes: 0.016303
-    id: ck8opw4ea4wgh0j78ozvrwrqx
+    followers: 25700
+    engagement: 1891
+    commentsToLikes: 0.038236
+    id: ckamowziraxkg0i78r6ty5qyk
     verified: false
-    hashtags: "#hoops, #musica, #coreografia, #foryoupag"
-  - username: "juliarozicki"
-    fullname: >-
-      Júlia Rozicki
-    location: "Brazil"
-    followers: 52835
-    engagement: 1319
-    commentsToLikes: 0.018202
-    id: ck8vxm0norh9c0j78pl25t99w
-    verified: false
-    hashtags: "#madonna, #fashionweekemcasa, #whirlpool, #tiktokdiadasmaes"
-  - username: "kdkgomes"
-    fullname: >-
-      Kaduk Gomes
-    location: "Brazil"
-    followers: 2668
-    engagement: 1580
-    commentsToLikes: 0.031278
-    id: ckamowwjtawqw0i78x0cvm7op
-    verified: false
-    hashtags: "#ninfeta, #whatsapp, #onchallenge, #sowhat"
+    hashtags: "#towerofgod, #kpop, #cabelo, #coreia"
 ---

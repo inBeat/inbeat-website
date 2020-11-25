@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top makeup Instagram influencers in Los Angeles in 2020. Most popular hashtags: #makeup #quarantinelife #beauty #fnp.
+  Find top makeup Instagram influencers in Los Angeles in 2020. Most popular hashtags: #makeup #losangeles #beauty #fashion.
 platform: Instagram
+hits: 618
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 618 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "audreylglass"
+  - username: "celebbeforeafter"
     fullname: >-
-      Audrey Glass | Los Angeles
+      BeforeAfter
+    bio: >-
+      Before/After celebrity pictures Celeb Transformations
     location: "United States"
-    followers: 54654
-    engagement: 209
-    commentsToLikes: 0.028598
-    id: ckap2vrtx0j1r0i78hgbau19u
-    verified: true
-    hashtags: "#targetstyle, #hempoil, #ragandbone, #brows"
-  - username: "tatevik.terteryan"
-    fullname: >-
-      TATEVIK, RN, BSN
-    location: "United States"
-    followers: 29907
-    engagement: 301
-    commentsToLikes: 0.033924
-    id: ck5ckxwshxu3x0i11t6wooocb
+    followers: 229024
+    engagement: 634
+    commentsToLikes: 0.032606
+    id: ck5zsn96sytqm0i14sp7a7vem
     verified: false
-    hashtags: "#selfie, #christiandior, #sisters, #quarantinelife"
-  - username: "dasjiaj"
+    hashtags: "#face, #instamood, #picoftheday, #instadaily"
+  - username: "bridgetzglam"
     fullname: >-
-      𝔇𝔞𝔰’𝔍𝔦𝔞 𝔍𝔞𝔷𝔞𝔪𝔶𝔫 🔮
+      BRIDGET MARTINEZ🦋
+    bio: >-
+      MUA|HAIR💄👸 LA🌴|🍊C ▪️Mobile 🚘✈🚢 📩bridgetmartinezmakeup@gmail.com
     location: "United States"
-    followers: 17972
-    engagement: 568
-    commentsToLikes: 0.039816
-    id: ck6uhd7cy8g200j717hlywldi
+    followers: 50508
+    engagement: 62
+    commentsToLikes: 0.085975
+    id: ck5heik6st33p0i11wr7zftrm
     verified: false
-    hashtags: "#beauty, #sandiegohairstylist, #makeup, #losangelesmakeupartist"
-  - username: "annaoris_official"
+    hashtags: "#benifitcosmetics, #beauty, #makeup, #losangeles"
+  - username: "starring"
     fullname: >-
-      Аnna Oris
+      STARRING By Ted Gibson
+    bio: >-
+      Starring By @tedgibson #salon #products #experience 323.413.2244 starring.tedgibson.com
     location: "United States"
-    followers: 192927
-    engagement: 33
-    commentsToLikes: 0.301253
-    id: ck5zyjq30a0mk0i14z525b142
+    followers: 33607
+    engagement: 183
+    commentsToLikes: 0.156577
+    id: ck5hdv9kmpjpn0i11mmg06tfn
     verified: false
-    hashtags: "#videos, #swindlers, #victories, #dance"
-  - username: "sierraoliveira"
+    hashtags: "#tedgibsonhair, #shootingstar, #texturemeringue, #instahair"
+  - username: "elviraisqueen"
     fullname: >-
-      Sierra Oliveira
+      Elvira Photos, Updates & More
+    bio: >-
+      ‼️I am NOT Elvira, JUST A FAN‼️Follow Elvira’s OFFICIAL Instagram @TheRealElvira👑💋 Buy the latest Officially Licensed Elvira merchandise at elvira.com
     location: "United States"
-    followers: 40139
-    engagement: 914
-    commentsToLikes: 0.043826
-    id: ck5c9yiqjcd5c0i11tk81nwr0
+    followers: 8833
+    engagement: 669
+    commentsToLikes: 0.019484
+    id: ck6tn5kmv96f80j71wuipcgms
     verified: false
-    hashtags: "#bratzdolls, #ppg"
-  - username: "eexla"
+    hashtags: "#elvirameme, #covid19, #elvirus, #queen"
+  - username: "charlotte_prevel"
     fullname: >-
-      Alexander
+      Charlotte Prevel
+    bio: >-
+      Make-up artist Represented by The Visionaries Agency @thevisionariesagency Booking: yan@thevisionariesagency.com
     location: "United States"
-    followers: 40141
-    engagement: 374
-    commentsToLikes: 0.047251
-    id: ck0ub1tfddjdb0i19x44nntay
+    followers: 6061
+    engagement: 96
+    commentsToLikes: 0.048366
+    id: ck601bijgf6n20i144j8u1acz
     verified: false
-    hashtags: ""
-  - username: "makeupbytreenz"
+    hashtags: "#makeup, #losangeles, #vogueme, #beautystory"
+  - username: "kinyaclaiborne"
     fullname: >-
-      KATRINA 🥀
+      STYLE & SOCIETY Magazine
+    bio: >-
+      Style Influencer & Content Creator Fashion•Foodie•Travel•Lifestyle•Editor-in-Chief 🙋🏾‍♀️Founder @STYLEANDSOCIETY 💌 bookings@styleandsociety.com
     location: "United States"
-    followers: 47745
-    engagement: 365
-    commentsToLikes: 0.035975
-    id: ck0tzkznqqpf80i19l2bmn6f6
+    followers: 97411
+    engagement: 244
+    commentsToLikes: 0.102767
+    id: ck0ubm5pjevw20i19mtdav4nr
     verified: false
-    hashtags: "#colorwithlove, #creamblush, #pastel, #graphicliner"
-  - username: "grace_pae"
+    hashtags: "#luxuryhotel, #restaurant, #culinary, #fallfeels"
+  - username: "glam.sophie"
     fullname: >-
-      grace_pae
+      🇱🇧صوفي ال زين🇺🇸
+    bio: >-
+      Tiktok- glam.sophiee Personal Insta @elzein95_ 💌 glam.fammm@yahoo.com
     location: "United States"
-    followers: 14642
-    engagement: 598
-    commentsToLikes: 0.056541
-    id: ck0txbnhdimnx0i19v5f5o8qz
+    followers: 56196
+    engagement: 169
+    commentsToLikes: 0.071283
+    id: ck8wcy8bsd5tg0j78w7bswfu8
     verified: false
-    hashtags: "#normani, #piano, #showyourello, #skincare"
-  - username: "livmadorma"
+    hashtags: "#glowing, #california, #cold, #darkhair"
+  - username: "simplyhollywooddriven"
     fullname: >-
-      olivia
+      JENNIFER
+    bio: >-
+      
     location: "United States"
-    followers: 14537
-    engagement: 696
-    commentsToLikes: 0.090487
-    id: ck5hjf11igifw0i114525vvve
+    followers: 27042
+    engagement: 141
+    commentsToLikes: 0.035957
+    id: ck14izqnchxdw0i19kdaxx3ol
     verified: false
-    hashtags: ""
-  - username: "facesbyrob"
+    hashtags: "#scoutme, #curvywoman, #instagram, #nativeamerican"
+  - username: "pixiequinncosplay"
     fullname: >-
-      Rob Sargsyan
+      Amanda
+    bio: >-
+      ✨Cosplayer & Time Traveler ✨All Opinions Expressed Are My Own ✨Inquiries: Pixiedust0623@gmail.com ✨Add me on TikTok: Pixiequinncosplay
     location: "United States"
-    followers: 311788
-    engagement: 98
-    commentsToLikes: 0.035590
-    id: ck1396uyajtue0i19wpwy0j7m
+    followers: 45568
+    engagement: 190
+    commentsToLikes: 0.039989
+    id: ck134z4oxywi80i19ci1v0zj7
     verified: false
-    hashtags: "#nofilter, #guess"
+    hashtags: "#vampire, #cosplaygirl, #fbf, #wcw"
+  - username: "patricialemakeup"
+    fullname: >-
+      ᴘᴀᴛʀɪᴄɪᴀ ʟᴇ
+    bio: >-
+      ʙᴇᴀᴜᴛʏ ɪɴғʟᴜᴇɴᴄᴇʀ ʟᴏs ᴀɴɢᴇʟᴇs📍 ɴoтιғιcαтιoɴѕ 🆕 ᴘʀᴏ ᴀʀᴛɪsᴛ @KevynAucoin ᴇᴅᴜᴄᴀᴛɪᴏɴ & ᴛʀᴀɪɴᴇʀ @BeautyFashionSales ᴍᴀᴋᴇ ᴜᴘ & ʜᴀɪʀ ⬇️ᴘʀ-sᴘᴏɴsᴇʀ-ʀᴀᴛᴇ⬇️
+    location: "United States"
+    followers: 99500
+    engagement: 262
+    commentsToLikes: 0.018694
+    id: ckf5xk1bfvxes0j23pwfuw88k
+    verified: false
+    hashtags: "#cosmetic, #saytheirnames, #makeupobsessed, #makeupaddict"
 ---

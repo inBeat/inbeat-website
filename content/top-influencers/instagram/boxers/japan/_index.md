@@ -1,107 +1,118 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Japan In 2020
 description: >-
-  Find top boxers Instagram influencers in Japan in 2020. Most popular hashtags: #boxercise #stayathome #legend #aesthetic.
+  Find top boxers Instagram influencers in Japan in 2020. Most popular hashtags: #japan #anime #tokyo.
 platform: Instagram
+hits: 9
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 9 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "jorgelinares"
     fullname: >-
       JL7
+    bio: >-
+      ホルヘ・リナレス 4 Time World Champion 🥊 #TeamLinares
     location: "Japan"
-    followers: 294096
-    engagement: 275
-    commentsToLikes: 0.017872
+    followers: 306629
+    engagement: 289
+    commentsToLikes: 0.015592
     id: ck6tpkmnakebr0j71vwmido99
     verified: true
-    hashtags: "#quedateencasa, #boxeoprofesional, #profighter, #boxingtraining"
-  - username: "seoniiu"
+    hashtags: "#japan, #venum, #boxing, #golf"
+  - username: "artof.lucasm"
     fullname: >-
-      seo 🇻🇳
+      Lucas Mendonça
+    bio: >-
+      ✧* Commissions OPEN 🇧🇷🇺🇸 👇Online Store ⭐️
     location: "Japan"
-    followers: 3353
-    engagement: 1843
-    commentsToLikes: 0.051983
-    id: ck15pcyoax9i40i19v6mhmsbc
+    followers: 49530
+    engagement: 646
+    commentsToLikes: 0.012422
+    id: ck5zlzp0klngp0i142videm08
     verified: false
-    hashtags: "#cupidgirl, #heart, #chocolate, #blooddemon"
+    hashtags: "#animeaesthetic, #robot, #future, #psychedelic"
   - username: "eijikatano"
     fullname: >-
       aniki(eiji katano)
+    bio: >-
+      片野英児(かたの えいじ) アニ散歩、赤星探偵団 を企画執筆出演中。YouTube「アニチューブ」企画運営。イベント出演、商品プロデュース、コラボ企画、コンテンツ企画出演等、個人お仕事のご依頼は下記まで。 eiji19681125@gmail.com #アニ散歩 #赤星探偵団 #アニチューブ
     location: "Japan"
     followers: 32581
     engagement: 471
     commentsToLikes: 0.005361
     id: ck8t7y6gxie3j0j78n2grr5oq
     verified: false
-    hashtags: "#moleskin, #brooksbrothers, #tiffany, #gbgshibuya"
+    hashtags: "#jollygoodclothing, #ankz, #laulhere, #anitube"
   - username: "tak_z"
     fullname: >-
       tak_z
+    bio: >-
+      osaka ⇄ tokyo japan 🥀 Holiday / TAK-Z & APOLLO
     location: "Japan"
     followers: 36093
     engagement: 445
     commentsToLikes: 0.009742
     id: ck8svpecmc8gg0j78fddc5g35
     verified: false
-    hashtags: "#410, #spicychocolate, #tak, #babykiy"
+    hashtags: "#spicychocolate, #tak, #ahmurderz, #tokyoheartbeats"
+  - username: "kotobuki_kun_1048"
+    fullname: >-
+      寿君
+    bio: >-
+      ID ENTERTAINMENT🇯🇵STREET HERO Osaka🏯SUMMER GOD🌞 👇🎼Click here for music🎼👇
+    location: "Japan"
+    followers: 54344
+    engagement: 535
+    commentsToLikes: 0.008216
+    id: ck8svpfhdc8iy0j785nbn0tfm
+    verified: false
+    hashtags: "#spicychocolate, #reggae, #youtube, #juice"
   - username: "jumbomaatch"
     fullname: >-
       マンチの親父
+    bio: >-
+      JAPANESE REGGAE DEEJAY from Mighty jam rock 、BEAN BALL RECORDS 、三代目モンスター
     location: "Japan"
     followers: 13506
     engagement: 411
     commentsToLikes: 0.004713
     id: ck8svpk0xc91x0j78x1p5fr2f
     verified: false
-    hashtags: "#sam, #smallworldriddim, #jumbomaatch, #zeebra"
+    hashtags: "#highestcup2020, #zeebra, #reggae, #erone"
   - username: "wimpievdwalt"
     fullname: >-
-      Wimpie van der Walt  ヴィンピー
+      Wimpie van der Walt  ヴィンピー
+    bio: >-
+      Christian ✝️ Player at @redhurricanes_official @japan_rugby
     location: "Japan"
-    followers: 21956
-    engagement: 1372
-    commentsToLikes: 0.010559
+    followers: 20810
+    engagement: 1179
+    commentsToLikes: 0.011334
     id: ck5znrpo8p15q0i146kifjjw3
     verified: false
-    hashtags: "#merrychristmas, #boer, #oneteam, #wolfpack"
-  - username: "moekofukuda"
+    hashtags: "#redhurricanes, #boerseun, #tbt, #farmlife"
+  - username: "yewwooi"
     fullname: >-
-      The first Bachelorette🌹🇯🇵/福田萌子
+      Jeff | Travel and Coffee
+    bio: >-
+      Hong Kong • Malaysian Travel in search for the best thing on Earth #mycoffeetour 📧law_yew_wooi@yahoo.com
     location: "Japan"
-    followers: 36601
-    engagement: 327
-    commentsToLikes: 0.013134
-    id: ck15uws26ovo20i190kg7w2ep
+    followers: 36682
+    engagement: 260
+    commentsToLikes: 0.014422
+    id: ck0tu6fbj5ugu0i19k8he4jxt
     verified: false
-    hashtags: "#adidasrdy, #cherryblossom, #sankara, #sustainability"
-  - username: "chachamaru0510"
+    hashtags: "#instamagazine, #hobikopi, #ywxhk, #instameethk"
+  - username: "_justjdm_"
     fullname: >-
-      ちゃちゃ丸
+      Just JDM
+    bio: >-
+      Living Japanese car culture vicariously through photos I find on the internet.. Go and follow: @jdm_cartunez DM for feature/Buy some merch:
     location: "Japan"
-    followers: 5417
-    engagement: 770
-    commentsToLikes: 0.027895
-    id: ck6ttvvq7cvf40j71ib72s34i
+    followers: 18120
+    engagement: 528
+    commentsToLikes: 0.003485
+    id: ckaouez56zzgp0i785paq8oyg
     verified: false
-    hashtags: "#kitacoming, #korn, #iseyskyr, #goldkiwi"
-  - username: "yui_beauty3"
-    fullname: >-
-      𝓨𝓾𝓲 𝓑𝓮𝓪𝓾𝓽𝔂 💋
-    location: "Japan"
-    followers: 43193
-    engagement: 285
-    commentsToLikes: 0.010320
-    id: ck8t8a7otjnx90j787i29r900
-    verified: false
-    hashtags: "#mylittlebox, #stretch, #greenspoon, #awake"
-  - username: "kai.garage"
-    fullname: >-
-      Kai
-    location: "Japan"
-    followers: 12104
-    engagement: 423
-    commentsToLikes: 0.012327
-    id: ck5zxuryj8pab0i14xm077rlp
-    verified: false
-    hashtags: "#type7, #lamborghinicountach, #mclarensenna, #senna"
+    hashtags: "#jdmcars, #jdmlifestyle, #tokyo, #supercars"
 ---

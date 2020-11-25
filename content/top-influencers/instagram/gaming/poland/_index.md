@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Poland In 2020
 description: >-
-  Find top gaming Instagram influencers in Poland in 2020. Most popular hashtags: #spring #cute #smile #gamingsetup.
+  Find top gaming Instagram influencers in Poland in 2020. Most popular hashtags: #gaming #gamer #polishgirl #gamergirl.
 platform: Instagram
+hits: 40
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 40 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "minimedge"
-    fullname: >-
-      Joanna
-    location: "Poland"
-    followers: 95326
-    engagement: 233
-    commentsToLikes: 0.090489
-    id: ck0w46qgjx3e50i19ky081by9
-    verified: false
-    hashtags: "#lipstick, #fruits, #eyeshadow, #beachlife"
-  - username: "xadamz"
-    fullname: >-
-      Adam Pul
-    location: "Poland"
-    followers: 62528
-    engagement: 972
-    commentsToLikes: 0.010494
-    id: ckap1mcdzv5rp0i789azf8pcx
-    verified: false
-    hashtags: "#zapalniczki, #ogie, #fire, #coffee"
-  - username: "mc_silk"
-    fullname: >-
-      MC Silk
-    location: "Poland"
-    followers: 27423
-    engagement: 473
-    commentsToLikes: 0.019874
-    id: ck8sxkwtkhrud0j78c8owgj3n
-    verified: false
-    hashtags: "#eminemchallenge, #tanktop, #mazda, #bloger"
   - username: "yukeshiro"
     fullname: >-
       Yuke ~ 💖
+    bio: >-
+      💗 Cosplayer from Poland 🇵🇱 💗 24 yo ✨ 💗 Likes: Shuten 👹, 🇯🇵, かわいい, legs, aesthetic, gaming, cats 🐈 💗 FP: www.fb.com/yukeshiro 💗 contact@yukeshiro.com ✨
     location: "Poland"
-    followers: 19993
-    engagement: 668
-    commentsToLikes: 0.024566
+    followers: 45498
+    engagement: 472
+    commentsToLikes: 0.018345
     id: ck134ppxqxlsb0i19dtooys4o
     verified: false
-    hashtags: "#cosplaycollab, #august, #anime, #seifuku"
-  - username: "kobieta_demolka"
+    hashtags: "#vanillacosplay, #coser, #yukelegs, #nierautomata"
+  - username: "furlan.ago"
     fullname: >-
-      Martyna Knapik
+      Damian Kisłowski
+    bio: >-
+      https://www.empik.com/esport-insiderski-przewodnik-po-swiecie-gamingu-chaloner-paul,p1249663616,ksiazka-p
     location: "Poland"
-    followers: 13416
-    engagement: 803
-    commentsToLikes: 0.058872
-    id: ckapbcnnfzfah0i78f9scon3t
+    followers: 8012
+    engagement: 760
+    commentsToLikes: 0.008929
+    id: ck15qz8h75cbi0i1903sw2x02
     verified: false
-    hashtags: "#deepsilver, #przemys, #thriller, #gwiezdnewojny"
-  - username: "max.aigary"
+    hashtags: "#me, #razer, #love, #dog"
+  - username: "vexe_gaming"
     fullname: >-
-      Aigary
+      Arth Trivedi
+    bio: >-
+      Esports Athlete #3 SA PMPL Finals #3 SA PMCO SA PMPL #2 Top Fragger
     location: "Poland"
-    followers: 9594
-    engagement: 1476
-    commentsToLikes: 0.060489
-    id: ckap06tscoztk0i785g6o14ae
+    followers: 83199
+    engagement: 1396
+    commentsToLikes: 0.010172
+    id: ck9whtsmhzfz40j78d4q5w0o4
     verified: false
-    hashtags: "#diabloxfighter, #gamingsetup, #pc, #fotelediablo"
-  - username: "pprzygrodzka"
+    hashtags: "#vexesexy"
+  - username: "lalagrawgry"
     fullname: >-
-      Paulina Przygrodzka
+      Angelika | PL | #GAMER
+    bio: >-
+      Well, I'm a gamer and I love pizza △ ○☓ □ PSN AngieXCM | #RDR2 lover #gamergirl #games #ps4 #marvel
     location: "Poland"
-    followers: 30061
-    engagement: 452
-    commentsToLikes: 0.105390
-    id: ck5c9bne8b57f0i111lidtjs4
+    followers: 5888
+    engagement: 2356
+    commentsToLikes: 0.045023
+    id: ck6tkzv0n5pvx0j711xbcr4nr
     verified: false
-    hashtags: "#bonding, #sportshoes, #familygoals, #kids"
+    hashtags: "#ps4, #games, #gamertalk, #gameready"
   - username: "bloodcurdling__"
     fullname: >-
       Marzena
+    bio: >-
+      popvinyl.pl ➡️ BLOOD przy zamówieniu 😏 #gamergirl ✌🏻🎮 PSN: bloodcurdling94 📩 bloodcurdling94@gmail.com #funkopop collector 🙋🏼
     location: "Poland"
-    followers: 4468
-    engagement: 1400
-    commentsToLikes: 0.152582
+    followers: 5222
+    engagement: 936
+    commentsToLikes: 0.159587
     id: ck0vzne939yrf0i19ksw30ydf
     verified: false
-    hashtags: "#music, #funkofreaks, #winner, #inlove"
+    hashtags: "#popvinyl, #handmade, #diy, #playstation"
+  - username: "_veneea"
+    fullname: >-
+      Veneea
+    bio: >-
+      Streamer • Gamer • Host • Presenter 🎮🎧 Kraków 🍉 facebook.com/veneeatv 🍉 discord.gg/veneea 🍉 colab: veneeax@gmail.com #veneea 🐩@ahri_maltese
+    location: "Poland"
+    followers: 14698
+    engagement: 595
+    commentsToLikes: 0.040875
+    id: ck8t1vnldx7tq0j782mvf7aqn
+    verified: false
+    hashtags: "#twitch, #amongus, #woman, #amongusgame"
+  - username: "donpago"
+    fullname: >-
+      Mateusz Pągowski
+    bio: >-
+      facebook.com/donpago
+    location: "Poland"
+    followers: 108046
+    engagement: 1514
+    commentsToLikes: 0.005197
+    id: ck6tpaa6fip1z0j711uppanfe
+    verified: false
+    hashtags: "#knut, #pro, #csgo, #streamer"
+  - username: "ziemniak.tv"
+    fullname: >-
+      Ziemniak
+    bio: >-
+      
+    location: "Poland"
+    followers: 101969
+    engagement: 711
+    commentsToLikes: 0.005155
+    id: ck6tpa9ukip0a0j710scbwexb
+    verified: false
+    hashtags: "#rgb, #gaming, #innowacyjnama, #led"
+  - username: "max.aigary"
+    fullname: >-
+      Aigary
+    bio: >-
+      CEO of: Aigary 90,000+ YT GASTRO Kanał 4,500+ YT GAMER / STREAMER 🎮🎬🎥 Nowy kanał:
+    location: "Poland"
+    followers: 9636
+    engagement: 940
+    commentsToLikes: 0.070608
+    id: ckap06tscoztk0i785g6o14ae
+    verified: false
+    hashtags: "#pictureoftheday, #likezalike, #ekipa, #jesien"
   - username: "urqueeentv"
     fullname: >-
       UrQueeentv
+    bio: >-
+      Film z wjazdu na chatę
     location: "Poland"
-    followers: 19490
-    engagement: 1046
-    commentsToLikes: 0.019493
+    followers: 21491
+    engagement: 884
+    commentsToLikes: 0.018899
     id: ckap2l11ezar90i78f8lpp4a0
     verified: false
-    hashtags: "#discordpartner, #polskakobieta, #giveaway, #polskiekobiety"
-  - username: "weronika_jezierska"
-    fullname: >-
-      Weronika 🌙Jezierska
-    location: "Poland"
-    followers: 128238
-    engagement: 716
-    commentsToLikes: 0.012921
-    id: ckapalm1jwljr0i78fnd9wd7d
-    verified: false
-    hashtags: "#straszne, #akcja, #twitchtime, #uczesie"
+    hashtags: "#rgb, #polishgirl, #streamer, #photooftheday"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Osaka In 2020
 description: >-
-  Find top food Instagram influencers in Osaka in 2020. Most popular hashtags: #osaka #japan #genic #osakatrip.
+  Find top food Instagram influencers in Osaka in 2020. Most popular hashtags: #osaka #food #lunch #japan.
 platform: Instagram
+hits: 20
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in Osaka, Japan for you to contact.
 profiles:
-  - username: "samemoon917"
+  - username: "akane.h.0430"
     fullname: >-
-      なおちぇん
+      あかねᵕ̈*
+    bio: >-
+      Osaka🇯🇵﻿ おいしい幸せに出逢いにゆく日々🐰🌷﻿ 大阪♥京都♥奈良♥神戸でもぐもぐしてます♥♥﻿ Ambassador﻿ @aumo.jp @kansai_trip @trevary_cafe @likesweetsbox﻿ #大阪カフェ #大阪グルメ
     location: "Japan"
-    followers: 15304
-    engagement: 518
-    commentsToLikes: 0.010342
-    id: ck14jdf0vjs6x0i195mlupiw7
+    followers: 24503
+    engagement: 598
+    commentsToLikes: 0.007853
+    id: ck8ta59i7qgz70j786w7p1ic1
     verified: false
-    hashtags: "#nagoyalunch, #tokyo, #kanagawa, #yokosukacafe"
+    hashtags: "#osakajapan, #yummy, #delicious, #retrip"
   - username: "hananakko"
     fullname: >-
       
+    bio: >-
+      思いついたら大好きな飛行機や鉄道に乗って行く宛の無い旅を♪旅先で出会ったグルメを紹介します✨ 　 麺類・和食・中華・エスニック・Cafe&モーニング巡り☕ フォロー•コメントお気軽に✨ 　 - - -✈ #genic_food Ambassador BASED IN OSAKA/JPN
     location: "Japan"
-    followers: 5964
-    engagement: 3309
-    commentsToLikes: 0.009599
+    followers: 7099
+    engagement: 3247
+    commentsToLikes: 0.008228
     id: ckaowxf23avx50i78n9b9kkqn
     verified: false
-    hashtags: "#tokuri61, #dandannoodles, #booboo, #django"
+    hashtags: "#genic, #cafe, #instafoodgram"
   - username: "yurin1020"
     fullname: >-
       *yurin*
+    bio: >-
+      camp,hike,dogs,family,cooking,bread‥ 暮らし‥ソトアソビ‥ may☆toypoodle coco☆lovebird from osaka japan ↓obento...food...
     location: "Japan"
-    followers: 8730
-    engagement: 514
-    commentsToLikes: 0.019330
+    followers: 8692
+    engagement: 483
+    commentsToLikes: 0.017157
     id: ck13c87giz2ee0i194iao085i
     verified: false
-    hashtags: "#bonfire, #vintagetent, #outdoordog, #mountains"
-  - username: "rikkyyucoco"
+    hashtags: "#foodstagram, #outdoor, #poodle, #lunch"
+  - username: "ayu888ayu"
     fullname: >-
-      Nao💜
+      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+    bio: >-
+      お仕事のご依頼はDMにお願いします💌 愛用品は楽天ROOMにまとめています🦋 🇯🇵🇺🇸🇬🇧🇦🇪🇹🇭🇻🇳🇰🇷🇰🇿🇺🇸🇻🇳🇬🇺🇲🇾🇸🇬🇺🇸🇺🇸🇲🇾 🇦🇪🇵🇹 🇧🇷🇰🇷2020🇲🇾🇨🇳🇹🇭🇩🇪🇸🇬🇹🇭🇮🇳🇲🇾🌺🌈🕌👑🧚‍♀️ ⭐️2019年日本TV出演📺🇯🇵
     location: "Japan"
-    followers: 68745
-    engagement: 205
-    commentsToLikes: 0.037992
-    id: ck5hmifc2m0b50i11553vmqu4
+    followers: 91071
+    engagement: 405
+    commentsToLikes: 0.039750
+    id: ck8sy23uqjgsa0j78ox8ik1pn
     verified: false
-    hashtags: "#awajiwestcoast, #nijigennomori, #trip, #tavenal"
-  - username: "xshizzyx"
+    hashtags: "#code, #outfit, #wardrobe, #osakajapan"
+  - username: "ami_kisaki"
     fullname: >-
-      Shizuka Anderson | アンダーソン静香✨
+      綺咲 あみ(杏海)💋 Kisaki Ami
+    bio: >-
+      #OSAKA ♥タレントモデル 📺KTV 真夜中市場 🌸撮影・モデル 🌸TVメディア出演 🌸MC.ナレーション❤ ଘ(੭*ˊᵕˋ)੭ ੈ✩ お仕事のご依頼・ご相談はDMにて🙏✉📬 ⚠️お仕事以外のDMは返信不可❌ ⬇️楽天room♡♡🪑👚
     location: "Japan"
-    followers: 54945
-    engagement: 951
-    commentsToLikes: 0.020092
-    id: ck13741jw9o240i198fwx7yt4
+    followers: 4576
+    engagement: 871
+    commentsToLikes: 0.158796
+    id: ck8sy2huxji6l0j78x6khcr5g
     verified: false
-    hashtags: "#tokyocowboys, #summerintokyo, #valentinesday, #hotchocolate"
+    hashtags: "#photo, #cafe, #osaka, #waldenwoodskyoto"
+  - username: "hiromitravel"
+    fullname: >-
+      Hiromi ひろみ
+    bio: >-
+      travel&entertainment📷Japan&world🇯🇵✈️ 兵庫出身🇯🇵日本・海外の景色など✈️たまにfood🍽フォローご自由に🙏コメント返信遅れ見落とし🙇‍♀️
+    location: "Japan"
+    followers: 14096
+    engagement: 1398
+    commentsToLikes: 0.019048
+    id: ck5qa44f8eg410i11bzspsv0x
+    verified: false
+    hashtags: "#jalan, #travellingthroughtheworld, #beautifuldestinations, #lonelyplanet"
+  - username: "nickblitzz"
+    fullname: >-
+      🌛 𝙉 𝙄 𝘾 𝙃 𝙊 ⚡️𝘼 𝙎 🌜 | 𝙎𝙂𝙁𝙤𝙤𝙙
+    bio: >-
+      Mostly Food, but travel sometimes. 🇸🇬 📷 Fujifilm X-T20 and iPhone 📱 XS #nickeatsg DM or email for collab or opportunities 👋🏻
+    location: "Japan"
+    followers: 6776
+    engagement: 526
+    commentsToLikes: 0.086965
+    id: ckaowe2ti8j000i787jcy8oyn
+    verified: false
+    hashtags: "#throwback, #aroimakmak, #homecooking, #osaka"
+  - username: "smine27"
+    fullname: >-
+      TabiEats Shinichi
+    bio: >-
+      Food and Travel ⬇️ YouTube Channel
+    location: "Japan"
+    followers: 20405
+    engagement: 399
+    commentsToLikes: 0.047253
+    id: ckf5op92w37610j23xqzxle8z
+    verified: false
+    hashtags: "#noodles, #japanesefood, #tokyo, #tasty"
   - username: "koles_helena_"
     fullname: >-
       Helena
+    bio: >-
+      ⛩🏯日本で住んでいます、外国人です😘 お料理🥑🍤お出掛け🏖写真撮り📷ハンドメイド📌ファッション👗ネイル💅🏻 コスメ💄映画鑑賞🎦 🦋イイネ・フォロー・コメント嬉しいですありがとうございます❣️ 携帯見れない時もあるのでイイネ・お返事遅れる時があります🙏🏻 #food#travel#japan
     location: "Japan"
-    followers: 7847
-    engagement: 1909
-    commentsToLikes: 0.012527
+    followers: 7610
+    engagement: 1728
+    commentsToLikes: 0.010571
     id: ckap27recxqrn0i78g86gdfcd
     verified: false
-    hashtags: "#dauly, #fujifilmlove, #bokeh, #osakacameraclub"
-  - username: "juri.hoppe"
+    hashtags: "#daily, #fujifilmglobal, #shrine, #photooftheday"
+  - username: "sakura.007"
     fullname: >-
-      hoppe
+      foodie_travevler_sakura
+    bio: >-
+      I'm living in Tokyo.🇯🇵 Travel2019🇮🇹🇫🇷🇩🇰🇫🇴♪ #blogger #wrighter #concierge #traveler #foodie #consultant #sony #α7iii #restaurant #gourmet #food
     location: "Japan"
-    followers: 27024
-    engagement: 445
-    commentsToLikes: 0.002254
-    id: ck5hidpo8czem0i11b6zi1bwm
+    followers: 7849
+    engagement: 1246
+    commentsToLikes: 0.011397
+    id: ckaorram4oe7x0i78xbnkyrzp
     verified: false
-    hashtags: "#stayhome, #mavenwatches, #cotta, #4bwatches"
-  - username: "chinamisakamoto"
-    fullname: >-
-      Chinami
-    location: "Japan"
-    followers: 86984
-    engagement: 157
-    commentsToLikes: 0.014657
-    id: ck0w4rosr02n00i19p2wm637j
-    verified: false
-    hashtags: "#riceball, #breakfast, #radish, #salad"
-  - username: "elsa_cyril"
-    fullname: >-
-      ELSA & CYRIL ✧ 🇫🇷 FR
-    location: "Japan"
-    followers: 37965
-    engagement: 63
-    commentsToLikes: 0.197806
-    id: ck1374an99pdz0i19jndllzed
-    verified: false
-    hashtags: "#instavoyage, #tourbali, #beachhotel, #earth"
-  - username: "franky.tattoo"
-    fullname: >-
-      Franky
-    location: "Japan"
-    followers: 10230
-    engagement: 469
-    commentsToLikes: 0.024040
-    id: ck5zs3pq4xrk10i14vmpfucjs
-    verified: false
-    hashtags: "#animedrawing, #slamdunk, #tattoostyle, #mangaka"
+    hashtags: "#foodie, #tokyojapan, #italianfood, #osakafood"
 ---

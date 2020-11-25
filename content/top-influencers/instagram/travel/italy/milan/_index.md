@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Milan In 2020
 description: >-
-  Find top travel Instagram influencers in Milan in 2020. Most popular hashtags: #milan #milano #love #travelblogger.
+  Find top travel Instagram influencers in Milan in 2020. Most popular hashtags: #italy #travel #milan #love.
 platform: Instagram
+hits: 648
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 648 Instagram influencers like this in Milan, Italy for you to connect with.
 profiles:
+  - username: "gianmariasainato"
+    fullname: >-
+      Gian Maria Sainato
+    bio: >-
+      FASHION - LIFESTYLE - TRAVELS Milan, Italy info@gianmariasainato.com
+    location: "Italy"
+    followers: 583021
+    engagement: 103
+    commentsToLikes: 0.031876
+    id: ck0vxng79zrua0i19lyb65x8t
+    verified: true
+    hashtags: "#breitling, #squadonamission, #sponsoredbybreitling, #adv"
   - username: "iltitanico23"
     fullname: >-
       Andrea Franchini 🕉
+    bio: >-
+      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 • andreadsq@icloud.com 📩 • Ambassador @prozisitalia
     location: "Italy"
-    followers: 252578
-    engagement: 136
-    commentsToLikes: 0.160328
+    followers: 233840
+    engagement: 72
+    commentsToLikes: 0.087959
     id: ck5q94bn79bs10i111lbr7e5k
     verified: false
-    hashtags: "#musheritalia, #rangeroversport, #ombra, #markprivatelife"
-  - username: "claudiamagnabosco"
+    hashtags: "#syntopiabyorion, #justcbdproducts, #tattoedmodel, #cute"
+  - username: "colomba_onore"
     fullname: >-
-      Clo 🎥🎙
+      Colomba Onore
+    bio: >-
+      Codice sconto Lalalab: PGMC9M0R •I ❤️ shopping 🛍 •fashion 👗👠 •travel 🌎✈️ •business 💼👓 •my job 💻🌎 •photo 📱📸 •art 🌠🗽
     location: "Italy"
-    followers: 141394
-    engagement: 207
-    commentsToLikes: 0.022340
-    id: ck5hefy3zspeu0i11kcsw5szc
+    followers: 13337
+    engagement: 510
+    commentsToLikes: 0.227674
+    id: ck0vxul6i0t730i19o8j2zx5w
     verified: false
-    hashtags: "#dessert, #forza, #nonmollare, #fiat500ibrida"
-  - username: "terracqueo.multapaucis"
+    hashtags: "#naples, #natura, #italiangirl, #borghi"
+  - username: "alessandromarras"
     fullname: >-
-      TerracqueoMultaPaucis 🌎
+      Alessandro Marras
+    bio: >-
+      📍Milan 🇮🇹 | ✈ Travel |⌚Lifestyle Next ➡️ 🌏 Featured in: Forbes | Vanity Fair |Rai| MarieClaire 📹 YOUTUBE & FACEBOOK➡I Viaggi di Ale
     location: "Italy"
-    followers: 20332
-    engagement: 458
-    commentsToLikes: 0.090833
-    id: ckaoynwjuiaqb0i78z0fddyl5
-    verified: false
-    hashtags: ""
-  - username: "accadeintavola"
+    followers: 170043
+    engagement: 155
+    commentsToLikes: 0.097209
+    id: ck5q0h69u5z2c0i11y0a4d44p
+    verified: true
+    hashtags: "#remember, #fashion, #5terre, #golfodeipoeti"
+  - username: "silottana"
     fullname: >-
-      ACCADEinTAVOLA MariangelaRusso
+      Silvia Ottanà
+    bio: >-
+      Bassplayer from Milan // playing @music_man // @daddarioandco // @proamp.it // @4ears.iem // Cosmo lover 🌖
     location: "Italy"
-    followers: 7285
-    engagement: 592
-    commentsToLikes: 0.120690
-    id: ck0vzivcj9bsa0i19v8p8vsa2
+    followers: 18491
+    engagement: 1038
+    commentsToLikes: 0.020233
+    id: ck5px15utplhh0i11fur1tr6a
     verified: false
-    hashtags: "#vegan, #tempodicottura, #sundaybreakfast, #mycountryliving"
+    hashtags: "#bassplayer, #show, #weplaybass, #musician"
+  - username: "dasha.kina"
+    fullname: >-
+      Daria Dereviankina🖤
+    bio: >-
+      📍Italy. Milano 🎞Model 📞Сотрудничество (съёмки, реклама) Collaboration, booking 🖋@ditwoi94@gmail.com🖋
+    location: "Italy"
+    followers: 620082
+    engagement: 262
+    commentsToLikes: 0.013190
+    id: ck5cfolzxncmz0i11hxlujlu0
+    verified: false
+    hashtags: "#model, #love, #woman, #italia"
+  - username: "yanimacute"
+    fullname: >-
+      Full-Time Traveller
+    bio: >-
+      Follow: @yaniandfabio #MrMacuteWorldTour #shotoniphone11 📹 YouTube👇🏽👇🏽👇🏽
+    location: "Italy"
+    followers: 10471
+    engagement: 295
+    commentsToLikes: 0.031186
+    id: ck9wdek69fajf0j78k5wquiwj
+    verified: false
+    hashtags: "#milano, #italy, #italysummer2020, #italyiloveyou"
+  - username: "adrianfartade"
+    fullname: >-
+      Adrian Fartade
+    bio: >-
+      Di Firenze, attore teatrale, autore e divulgatore scientifico. Youtube: link4universe. Mail lavoro: info.link4universe@gmail.com ⬇️ nuovo video
+    location: "Italy"
+    followers: 116922
+    engagement: 492
+    commentsToLikes: 0.008101
+    id: ck8sx30l9g1jl0j78zp716zwo
+    verified: true
+    hashtags: "#iss, #adrianfartade, #link4universe, #spazio"
   - username: "melissatanii"
     fullname: >-
       𝑀𝐸𝐿𝐼𝑆𝑆𝐴 𝑇𝐴𝑁𝐼 💕💅🏻✨
+    bio: >-
+      💄 Certified MUA ✈️ Addicted to travel 📍Milan 🇮🇹 🎥 Youtuber 287k + 53M Views 💌 melissa.tani@hotmail.com YOUTUBE👇🏻
     location: "Italy"
-    followers: 259804
-    engagement: 1276
-    commentsToLikes: 0.010453
+    followers: 268296
+    engagement: 1391
+    commentsToLikes: 0.007892
     id: ck5zs1lvhxnge0i14wevmjg3y
     verified: false
-    hashtags: "#boscia, #natashadenona, #iorestoacasa, #tutorial"
-  - username: "eleonoratru"
+    hashtags: "#makeup, #melissatani, #tbt, #dontrushchallenge"
+  - username: "accadeintavola"
     fullname: >-
-      Eleonora Trudu
+      MariangelaRusso
+    bio: >-
+      Live in Bernalda- Mt-Milan Travel food and lifestyle writer Sommelier 🍷 Mum of Cecilia Finalista cucinablogaward '18 @cucina_corriere #accadeintavola
     location: "Italy"
-    followers: 6962
-    engagement: 827
-    commentsToLikes: 0.017545
-    id: ck8t2gr85zfry0j788677ztjm
+    followers: 11059
+    engagement: 379
+    commentsToLikes: 0.142801
+    id: ck0vzivcj9bsa0i19v8p8vsa2
     verified: false
-    hashtags: "#love, #visitpiemonte, #milanodaclick, #nature"
-  - username: "gentleman_theofficialpage"
-    fullname: >-
-      Alberto Manganelli
-    location: "Italy"
-    followers: 26007
-    engagement: 267
-    commentsToLikes: 0.060078
-    id: ck5pw5vnil9410i118z1apdql
-    verified: false
-    hashtags: "#milanosiamonoi, #mycat, #irestoacasa, #dreaming"
-  - username: "il_galota"
-    fullname: >-
-      ...𝗔𝗡𝗚𝗘𝗟𝗢 𝗚𝗔𝗟𝗢𝗧𝗔... 😇©️
-    location: "Italy"
-    followers: 5382
-    engagement: 2825
-    commentsToLikes: 0.058575
-    id: ck6ufbdpew1qd0j71umk82hu6
-    verified: false
-    hashtags: "#italianstyle, #siciliainsta, #burano, #loves"
-  - username: "angela_saccone"
-    fullname: >-
-      𝓐𝓷𝓰𝓮𝓵𝓪 𝓢𝓪𝓬𝓬𝓸𝓷𝓮
-    location: "Italy"
-    followers: 11196
-    engagement: 1037
-    commentsToLikes: 0.079018
-    id: ck9hbruiki5t70j78atdktb7u
-    verified: false
-    hashtags: "#crystalgem, #altar, #vibes, #sweetdreams"
-  - username: "ambra_pazzani"
-    fullname: >-
-      Ambra Pazzani
-    location: "Italy"
-    followers: 149612
-    engagement: 1000
-    commentsToLikes: 0.006542
-    id: ckaoyrqefis4x0i78obv5bp81
-    verified: false
-    hashtags: "#hostess, #modeling, #nicorobin, #contacts"
+    hashtags: "#accadeintavola, #healthyfood, #countrystyle, #breakfasttime"
 ---

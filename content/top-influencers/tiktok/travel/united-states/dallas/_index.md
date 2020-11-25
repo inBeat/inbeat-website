@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Dallas In 2020
 description: >-
-  Find top travel TikTok influencers in Dallas in 2020. Most popular hashtags: #dallas #funny #travel #texas.
+  Find top travel TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #texas #travel #dallas.
 platform: TikTok
+hits: 36
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 36 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "gillliekwhoa"
+  - username: "amberleybradleyy"
     fullname: >-
-      Gillian Clark
+      Amberley Bradley
+    bio: >-
+      Texas gal ☆ let’s be friends Insta: @amberleybradley
     location: "United States"
-    followers: 11888
-    engagement: 1146
-    commentsToLikes: 0.039614
-    id: ck92y9hsy22e00j78zee1kz91
+    followers: 274500
+    engagement: 2042
+    commentsToLikes: 0.021440
+    id: ck83zu6y833xu0j78tcehhm6f
     verified: false
-    hashtags: "#travel, #shuffle, #dallas, #louisthechild"
-  - username: "holamonique"
-    fullname: >-
-      HolaMonique
-    location: "United States"
-    followers: 14977
-    engagement: 982
-    commentsToLikes: 0.040152
-    id: cka0mmd8rvy4m0i784b1wnzmh
-    verified: false
-    hashtags: "#cutetoddlers, #travel, #neverhaveiever, #dallas"
-  - username: "metalbirdnerd"
-    fullname: >-
-      MOMO
-    location: "United States"
-    followers: 2007
-    engagement: 687
-    commentsToLikes: 0.028395
-    id: ck9dwopg8pxwe0j78cdw5g8ue
-    verified: false
-    hashtags: "#tacos, #roasted, #rahnstahp, #stearman"
-  - username: "bballbreakdown"
-    fullname: >-
-      BBALLBREAKDOWN
-    location: "United States"
-    followers: 13303
-    engagement: 1771
-    commentsToLikes: 0.020815
-    id: ck9fmcl8nsmpr0j78pngw5w98
-    verified: false
-    hashtags: "#chicago, #jamesharden, #gamewinner, #getbuckets"
+    hashtags: "#dallastx, #dallas, #travel, #texas"
   - username: "courtneyylaiine"
     fullname: >-
       courtney
+    bio: >-
+      Dallas, TX. Real Estate. Travel
     location: "United States"
-    followers: 5521
-    engagement: 367
-    commentsToLikes: 0.014143
+    followers: 5812
+    engagement: 466
+    commentsToLikes: 0.018152
     id: ck9r4pppvw3w40j78eaqb58ui
     verified: false
-    hashtags: "#ilovethissound, #catsoftiktok, #austintx, #dallasrealestate"
-  - username: "jwitchytv"
+    hashtags: "#stayhome, #texas, #fyp, #foryou"
+  - username: "laceyeloisa"
     fullname: >-
-      jWitchy
+      Lacey Villasenor
+    bio: >-
+      〰️ dallas, tx + just having fun
     location: "United States"
-    followers: 4443
-    engagement: 1032
-    commentsToLikes: 0.051695
-    id: ck9ej6pwv0y410j782z3wn09t
+    followers: 18600
+    engagement: 859
+    commentsToLikes: 0.042392
+    id: ckbf1kvbgnrrz0j238decjiu3
     verified: false
-    hashtags: "#grading, #seniorcitzen, #hikes, #danzaazteca"
-  - username: "funnyleonidas"
+    hashtags: "#dallas, #texas, #dallascheck, #traveltiktok"
+  - username: "helenaaa238"
     fullname: >-
-      Leonidas
+      helenaaa23
+    bio: >-
+      24 - Dallas foodie
     location: "United States"
-    followers: 58710
-    engagement: 1864
-    commentsToLikes: 0.050090
-    id: ck9pm915283wl0j783yzuligv
-    verified: true
-    hashtags: "#creditscore, #itscoronatime, #creditrepair, #healthiswealth"
-  - username: "thejourney2016"
-    fullname: >-
-      The Journey
-    location: "United States"
-    followers: 82006
-    engagement: 596
-    commentsToLikes: 0.077221
-    id: ck8fb1no953360j78z6alf16q
+    followers: 6357
+    engagement: 628
+    commentsToLikes: 0.049863
+    id: ckb9d6anj073s0j232ckoi2l6
     verified: false
-    hashtags: "#belgium, #inthehouseparty, #jackson, #paris"
-  - username: "heleneinbetween"
+    hashtags: "#texascheck, #mckinneytx, #texanshelpingtexans, #dallas"
+  - username: "shans.tiktok"
     fullname: >-
-      Helene Sula 
+      Shan🌟
+    bio: >-
+      posting the occasional hockey video
     location: "United States"
-    followers: 15912
-    engagement: 877
-    commentsToLikes: 0.039412
-    id: ck83z7xeuyi4r0j78jn7zamp2
+    followers: 16600
+    engagement: 1523
+    commentsToLikes: 0.078559
+    id: ckd17s3t4p59p0j23g7fosn7b
     verified: false
-    hashtags: "#thenetherlands, #sidehustle, #influencer, #husband"
-  - username: "jeanineamapola"
+    hashtags: "#nhl, #duet, #columbus, #tblightning"
+  - username: "itisdanielaaa"
     fullname: >-
-      JeanineAmapola
+      Itisdanielaaa
+    bio: >-
+      Chicago 🦋 | MEXICAN 🇲🇽
     location: "United States"
-    followers: 7056
-    engagement: 892
-    commentsToLikes: 0.027202
-    id: ck8070i3onn080j78jrgz5fh8
+    followers: 15200
+    engagement: 883
+    commentsToLikes: 0.000156
+    id: ckb8z5cfge96k0j23qvpd7xkp
     verified: false
-    hashtags: "#superbowlliv, #dance, #challenge, #ownthecurve"
+    hashtags: "#married, #fyp, #foryoupage, #army"
+  - username: "itsannitatoyou"
+    fullname: >-
+      Anna
+    bio: >-
+      Spreading the smiles and laughs. Be you!
+    location: "United States"
+    followers: 25100
+    engagement: 1067
+    commentsToLikes: 0.224487
+    id: ck9si97pfxqtr0j78hyzr9gs6
+    verified: false
+    hashtags: "#costume, #halloween2020, #holidaytiktok, #happyhalloween"
+  - username: "msnazzy"
+    fullname: >-
+      Maria Gregg
+    bio: >-
+      DONATE FOR BILLBOARD
+    location: "United States"
+    followers: 9651
+    engagement: 880
+    commentsToLikes: 0.041207
+    id: ckaib6hmqf6a40i784tb1nm8y
+    verified: false
+    hashtags: "#election, #trump2020, #democrat, #vote"
+  - username: "its_lil_lil"
+    fullname: >-
+      Lilia Chairez Rios
+    bio: >-
+      Austin, TX ❤️Tequila & Travels❤️ "I drink to make other people more interesting”
+    location: "United States"
+    followers: 110900
+    engagement: 748
+    commentsToLikes: 0.026982
+    id: ckculwzrhhf990j23cn07xxce
+    verified: false
+    hashtags: "#mexico, #bartender, #didyouknow, #fyp"
+  - username: "riverminded"
+    fullname: >-
+      Riverminded
+    bio: >-
+      #TEAMTEXAS Educated Bearded Riverrat Biker who travels! TAKEN by @ashleyclick13
+    location: "United States"
+    followers: 80600
+    engagement: 1457
+    commentsToLikes: 0.069525
+    id: cka0w1dny0xh60i78m72avtui
+    verified: false
+    hashtags: "#haha, #comedy, #2a, #funny"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In New York In 2020
 description: >-
-  Find top hypebeast Instagram influencers in New York in 2020. Most popular hashtags: #hypebeast #newyork #newyorkcity #nycgo.
+  Find top hypebeast Instagram influencers in New York in 2020. Most popular hashtags: #newyork #hypebeast #nyc #moodygrams.
 platform: Instagram
+hits: 100
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 100 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "yorksgram"
+  - username: "88.visuals"
     fullname: >-
-      New York 🗽 |Travel 🛩|Visual 📸
+      ❌Kristian, Content Creating ❌
+    bio: >-
+      ⚜️ F̶o̶u̶n̶d̶e̶r̶ @enter.imagination ⚠️ Folk account @88.optics Finland 🇫🇮
     location: "United States"
-    followers: 44282
-    engagement: 293
-    commentsToLikes: 0.016739
-    id: ck0vypn3w569k0i19pswgod5e
+    followers: 49053
+    engagement: 190
+    commentsToLikes: 0.047295
+    id: ck5zn6aobnv2c0i14v40u2npi
     verified: false
-    hashtags: "#dream, #igersofnyc, #mayday, #street"
-  - username: "tomer_telias"
+    hashtags: "#shotzdelight, #hypebeast, #newyork, #photoshopped"
+  - username: "make_money_online_eg"
     fullname: >-
-      Tomer Telias
+      Money l Business l Marketing
+    bio: >-
+      Bank BIG In 24 Hours Or Less Even If You've Never Made A Dime Online - PROVEN To Work For OVER 2 Years. Visit my website below. 👇👇👇
     location: "United States"
-    followers: 49317
-    engagement: 420
-    commentsToLikes: 0.015265
-    id: ck5btaijefm770i11622o6ncj
+    followers: 15099
+    engagement: 1079
+    commentsToLikes: 0.018389
+    id: ckaosazezqwzz0i784rc221bt
     verified: false
-    hashtags: "#boom, #hypebeast, #newyork, #predator"
-  - username: "deviate_fashion"
-    fullname: >-
-      Deviate
-    location: "United States"
-    followers: 24631
-    engagement: 357
-    commentsToLikes: 0.033085
-    id: ck5zsmrroysv00i14zrnq73ud
-    verified: false
-    hashtags: "#sustainablefashion, #detroithighfashion, #artistsoninstagram, #fashionkorea"
+    hashtags: "#millionairelife, #luxurylifestyles, #luxury, #luxlifestyle"
   - username: "chasestash"
     fullname: >-
       CHA$E
+    bio: >-
+      @eroshunterny @sneakerpawnonline
     location: "United States"
-    followers: 23315
-    engagement: 445
-    commentsToLikes: 0.027427
+    followers: 24470
+    engagement: 436
+    commentsToLikes: 0.024897
     id: ck5zxy1z38vgr0i14qa5ohtb2
     verified: true
-    hashtags: "#moneymakingchase, #mensfashion, #newyorkcity, #nike"
-  - username: "thecravingscurator"
+    hashtags: "#newyork, #nike, #supreme, #fearofgod"
+  - username: "windycityboi209"
     fullname: >-
-      The Cravings Curator
+      Barber Allan✂💈💺
+    bio: >-
+      @barbernova_ Ambassadors sponsored by @hairillusionllc Haircuts $40 and up Founder of @LosBarberosclothing CASSANDRA ORDAZ💍
     location: "United States"
-    followers: 26494
-    engagement: 325
-    commentsToLikes: 0.034932
-    id: ck14hla8aavvi0i192ff9ymm1
+    followers: 37127
+    engagement: 243
+    commentsToLikes: 0.018128
+    id: ck5c6gtkx5eq70i11alvpvm2z
     verified: false
-    hashtags: "#passportready, #vsco, #beautifuldestinations, #foodblogger"
-  - username: "larsontalenthawaii"
-    fullname: >-
-      Larson Talent Hawaii
-    location: "United States"
-    followers: 21965
-    engagement: 156
-    commentsToLikes: 0.011309
-    id: ck6u2l97bsg6z0j71ref7bqq4
-    verified: false
-    hashtags: "#intelligence, #modelsearch, #loudawg, #taleajosephine"
-  - username: "evan_nowak_"
-    fullname: >-
-      TRAVEL 🌎 EVAN  NOWAK
-    location: "United States"
-    followers: 4196
-    engagement: 1704
-    commentsToLikes: 0.053571
-    id: ck0u9ga9b9pfh0i19kk5bucoy
-    verified: false
-    hashtags: "#sunset, #summertime, #city, #naturalohio"
-  - username: "andrewmvson"
-    fullname: >-
-      Andrew Mason | Photographer
-    location: "United States"
-    followers: 20744
-    engagement: 358
-    commentsToLikes: 0.062457
-    id: ck5q3ss6dm9o70i118o7ce9kr
-    verified: false
-    hashtags: "#likenewyorkcity, #streetdreamsmag, #street, #killyourcity"
+    hashtags: "#barbershopconnect, #barbersleague, #shave, #barberlife"
   - username: "byflore"
     fullname: >-
       Christopher Florentino "Flore"
+    bio: >-
+      New York Artist/Designer featured in Hypebeast & WWD & Dwell. Abstract expressionist & Urban Cubist. For More Info PRESS LINK ⬇️
     location: "United States"
     followers: 36589
     engagement: 93
     commentsToLikes: 0.019507
     id: ck5c8gqq89g4q0i11uxpe40a5
     verified: false
-    hashtags: "#artistshit, #class, #abstractpainting, #tokyo"
-  - username: "ig__newyork"
+    hashtags: "#nyc, #hypebeast, #wolf, #artist"
+  - username: "travacs"
     fullname: >-
-      New York City
+      Travel & Vacation
+    bio: >-
+      Inspiring people to travel and explore our beautiful earth 🌏 📍 Tag us and use #travacs to be featured Contact/Collab: travacs1@gmail.com
     location: "United States"
-    followers: 74145
-    engagement: 336
-    commentsToLikes: 0.017130
-    id: ck0tyaclcm58c0i19ht3jox94
+    followers: 128910
+    engagement: 161
+    commentsToLikes: 0.185563
+    id: ck15r9acr6sfm0i19z716sslt
     verified: false
-    hashtags: "#newyorkster, #dream, #newyorktogether, #lovenyc"
+    hashtags: "#beach, #travelphotography, #travel, #travacs"
+  - username: "j2woo"
+    fullname: >-
+      간종우
+    bio: >-
+      🎙 K-pop Singer & Lyricist 🦦 Sr. Web Designer @esteelauder 📸 Instahusband and Traveler 📧 J2woo.ny@gmail.com
+    location: "United States"
+    followers: 44394
+    engagement: 239
+    commentsToLikes: 0.039571
+    id: ck15tyx8bkl8p0i198hpearqj
+    verified: false
+    hashtags: "#photography, #mood, #quarantine, #newyorkcity"
+  - username: "picture_of_newyork"
+    fullname: >-
+      new york City
+    bio: >-
+      ▶Follow 💗 @picture_of_newyork ▶Daily dose of nyc pictures ▶Daily updates, Tag for future 🥇@picture_of_newyork #picture_of_newyork
+    location: "United States"
+    followers: 43609
+    engagement: 150
+    commentsToLikes: 0.010693
+    id: ck8t4r21y7r6g0j78was1fhqj
+    verified: false
+    hashtags: "#newyorkfashionweek, #khalme, #newyorkgiants, #newyorkjets"
+  - username: "jay_roams"
+    fullname: >-
+      Jeromy Jimeno
+    bio: >-
+      In love with the Process MOD: @nyc_explorers Nikon D810/Sony A7RIV/Samsung NOTE 10 Plus DM for Collaborations/Inquiries
+    location: "United States"
+    followers: 4033
+    engagement: 1376
+    commentsToLikes: 0.080084
+    id: ck8t4zj268cln0j780u4ul5f9
+    verified: false
+    hashtags: "#topnewyorkphoto, #what, #nycgo, #justgoshoot"
+  - username: "ryankeithfilms"
+    fullname: >-
+      FL Photographer / Film Maker
+    bio: >-
+      ʀʏᴀɴ ᴋᴇɪᴛʜ🥣 @fullsail 𝔻𝕚𝕘𝕚𝕥𝕒𝕝 ℂ𝕚𝕟𝕖𝕞𝕒𝕥𝕠𝕘𝕣𝕒𝕡𝕙𝕪 ᴰᵒ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᶜʳᵉᵃᵗⁱᵛᵉ 𝗡𝗲𝘄 𝗩𝗶𝗱𝗲𝗼 ↴
+    location: "United States"
+    followers: 43618
+    engagement: 81
+    commentsToLikes: 0.079201
+    id: ck5q6f00qx4io0i111pofr9ml
+    verified: false
+    hashtags: "#filmmaking, #worldstar, #corona, #leagueoflenses"
 ---

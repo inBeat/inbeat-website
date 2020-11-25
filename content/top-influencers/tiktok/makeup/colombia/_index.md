@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Colombia In 2020
 description: >-
-  Find top makeup TikTok influencers in Colombia in 2020. Most popular hashtags: #makeup #upanddown #learnontiktok #foryou.
+  Find top makeup TikTok influencers in Colombia in 2020. Most popular hashtags: #makeup #parati #colombia #maquillaje.
 platform: TikTok
+hits: 82
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 82 TikTok influencers like this in Colombia for you to contact.
 profiles:
+  - username: "alejomooon"
+    fullname: >-
+      Alejo Moon 🌙
+    bio: >-
+      Makeup Artist ✨ ¿400k? 👉🏻👈🏻 Sígueme en Instagram @Alejomooon 🥺
+    location: "Colombia"
+    followers: 367300
+    engagement: 2445
+    commentsToLikes: 0.008720
+    id: ckcvh9bbxtxhe0j23bf6ryuse
+    verified: true
+    hashtags: "#destacame, #parati, #makeup, #foryou"
+  - username: "chyo_00"
+    fullname: >-
+      chyo_00
+    bio: >-
+      🇨🇴🇮🇱 💃lin Makeup artist former dancer
+    location: "Colombia"
+    followers: 3748
+    engagement: 487
+    commentsToLikes: 0.083228
+    id: ckbl4z8br2cbi0j23lnm7cd29
+    verified: false
+    hashtags: "#4youpage, #duet, #dance, #4you"
+  - username: "alejandrasaboogal"
+    fullname: >-
+      Aleja Sabogal
+    bio: >-
+      𝒴𝒶 𝓆𝓊𝑒 𝓁𝓁𝑒𝑔𝒶𝓈𝓉𝑒 𝓉𝑒 𝓆𝓊𝑒𝒹𝒶𝓈!! 🤍 makeup & Tips 💕
+    location: "Colombia"
+    followers: 15800
+    engagement: 822
+    commentsToLikes: 0.049641
+    id: ckbr394j4jqsr0j23js51tmhx
+    verified: false
+    hashtags: "#parati, #fyp, #makeup, #trend"
   - username: "circymoreno"
     fullname: >-
       Circy Moreno
+    bio: >-
+      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ Nonolive @circy
     location: "Colombia"
-    followers: 6973
-    engagement: 2065
-    commentsToLikes: 0.015978
+    followers: 15600
+    engagement: 1614
+    commentsToLikes: 0.031401
     id: cka0q66t1bftm0i78cykwip6q
     verified: false
-    hashtags: "#kpopcolombia, #kpopcover, #oufit, #camisa"
+    hashtags: "#viral, #backdoor, #straykids, #parati"
   - username: "susana_tunes"
     fullname: >-
       susana_tunes
+    bio: >-
+      💋💄MakeUp Artist 📫 For inquires: susanatunes@gmail.com
     location: "Colombia"
-    followers: 188575
-    engagement: 1448
-    commentsToLikes: 0.008239
+    followers: 496000
+    engagement: 1222
+    commentsToLikes: 0.017053
     id: ck8hkd3qbdfc00j78mm9umzkb
     verified: false
-    hashtags: "#portadadealbum, #upanddown, #nonstop, #chachacha"
-  - username: "erickochoa52"
-    fullname: >-
-      Erick Ochoa
-    location: "Colombia"
-    followers: 7193
-    engagement: 447
-    commentsToLikes: 0.017040
-    id: ck9evw4x8ke4i0j78gphk2apl
-    verified: false
-    hashtags: "#costacolo, #soyputumayo, #vivalavida, #soycomotu"
+    hashtags: "#elproblema, #tiktokdice, #spookytreats, #emociones"
   - username: "pautips"
     fullname: >-
       Paula Galindo 
+    bio: >-
+      Paula Galindo Amo el makeup 💕 INSTAGRAM: Pautips YOUTUBE:Pautips #PaulaMakeup
     location: "Colombia"
-    followers: 829961
-    engagement: 1321
-    commentsToLikes: 0.004297
+    followers: 1600000
+    engagement: 1503
+    commentsToLikes: 0.004191
     id: cka6jg0y6ukp30i78is0htb05
     verified: true
-    hashtags: "#voicechallenge, #yoenlafiesta, #risa, #elparche"
-  - username: "linam.bonilla"
+    hashtags: "#fashiontips, #tiktoktravel, #challenge, #explosaochallenge"
+  - username: "lauraahp"
     fullname: >-
-      Lina M. Bonilla
+      Laura  Herrera
+    bio: >-
+      ✨💙META 30K💙✨ 💜Sígueme en instagram💙 @LAURAHP_MAKEUP 💄MAKEUP💄
     location: "Colombia"
-    followers: 5604
-    engagement: 521
-    commentsToLikes: 0.021402
-    id: cka6iu460s2ej0i78q9um0kyg
+    followers: 23700
+    engagement: 1026
+    commentsToLikes: 0.034475
+    id: ckb9lp0ameb030j23qxlznzyi
     verified: false
-    hashtags: "#esunni, #cancion, #40tena, #ojosquenoven"
-  - username: "sofiamud"
+    hashtags: "#happyhallowen, #celos, #boyfriend, #love"
+  - username: "marymassmakeup"
     fullname: >-
-      sofiamood
+      Maria Teresa
+    bio: >-
+      Makeup Artist 👩🏻‍🎨 📍Colombia! Sígueme en Insta! marymassmakeup01@gmail.com
     location: "Colombia"
-    followers: 2522
-    engagement: 1839
-    commentsToLikes: 0.109712
-    id: ckacs85eg8vjx0i78ts36p2hs
+    followers: 133700
+    engagement: 851
+    commentsToLikes: 0.017559
+    id: ckb9q6ux3lri30j235fgvr7ef
     verified: false
-    hashtags: "#makeuptutorial, #music, #xyzabc, #novios"
-  - username: "tutyzulu"
+    hashtags: "#makeuptips, #makeup, #parpadocaido, #marymasstips"
+  - username: "erickochoa52"
     fullname: >-
-      Angelique 
+      Erick Ochoa
+    bio: >-
+      🕺#Dance💃, 👨🎨#makeup 👩🎨 it's my life
     location: "Colombia"
-    followers: 203282
-    engagement: 2162
-    commentsToLikes: 0.013381
-    id: ck9enuc3rkv060j78jav5bbf7
+    followers: 7883
+    engagement: 630
+    commentsToLikes: 0.014878
+    id: ck9evw4x8ke4i0j78gphk2apl
     verified: false
-    hashtags: "#piano, #savage, #slowmo, #rompecaderas"
-  - username: "zioul"
+    hashtags: "#parati, #colombia, #cuarentenaencasa, #comedia"
+  - username: "jaimermb"
     fullname: >-
-      ✘ 𝐙 𝖎 𝖔 𝖚 𝖑 ✘
+      Jaime Méndez
+    bio: >-
+      ✨
     location: "Colombia"
-    followers: 781583
-    engagement: 2059
-    commentsToLikes: 0.012579
-    id: ck8qkkomdhrmu0j78xf803m4h
+    followers: 628900
+    engagement: 2675
+    commentsToLikes: 0.010372
+    id: ckbw3vtgxxcyi0j2305rv7wps
     verified: false
-    hashtags: "#preguntas, #comida, #corpsebride, #caradeshock"
-  - username: "bianki"
-    fullname: >-
-      Bianki Place ♡
-    location: "Colombia"
-    followers: 3828003
-    engagement: 2188
-    commentsToLikes: 0.011151
-    id: ck8qojfylza8a0j78c5cuc6wn
-    verified: true
-    hashtags: "#visionboardchallenge, #semanayoutuberschool, #recet, #recipes"
-  - username: "stiward"
-    fullname: >-
-      •𝓢𝓽𝓲𝔀𝓪𝓻𝓭🤍
-    location: "Colombia"
-    followers: 3015091
-    engagement: 2790
-    commentsToLikes: 0.006006
-    id: ck9shbummsnm70j787u0js1bk
-    verified: true
-    hashtags: "#reaccionar, #foryou, #coronavirus, #mapuward"
+    hashtags: "#outfit, #makeup, #coraline, #monsterhigh"
 ---

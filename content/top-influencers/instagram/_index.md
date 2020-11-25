@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In 2020
 description: >-
-  Find top Instagram influencers in 2020. Most popular hashtags: #sunset #italian #gopro #zara.
+  Find top Instagram influencers in 2020. Most popular hashtags: #nature #homesweethome #stayandwander.
 platform: Instagram
+hits: 699725
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 699725 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "mauu.otero"
     fullname: >-
-      Sali del closet
+      Mau Otero
+    bio: >-
+      Creado mi historia todos los dias 🖤 Vivir lo que otros sueñan... TikTok |+1.7M| Contact: 📩 @troop Suscríbanse 👇🏼
     location: "Mexico"
-    followers: 65030
-    engagement: 1894
-    commentsToLikes: 0.107958
+    followers: 514910
+    engagement: 1701
+    commentsToLikes: 0.019449
     id: ck0u2mjzk0d7k0i19zjmwur9v
     verified: false
-    hashtags: "#fyp, #share, #stayhomeeditcontest, #surftrip"
+    hashtags: "#followyourgroove, #dolcegabbana, #papayaplayaproyect, #eliotawards2020"
   - username: "amoureuxdumonde"
     fullname: >-
       Yann ♡ Aurélie - Blog Voyage
+    bio: >-
+      ✧ Chasseurs de paysages ✧ On vit à #Lyon 🦁 ✧ Pro : amoureuxdumonde@gmail.com 💌 Blog Voyage & Bons Plans
     location: "France"
-    followers: 116876
-    engagement: 767
-    commentsToLikes: 0.083801
+    followers: 138232
+    engagement: 600
+    commentsToLikes: 0.054981
     id: ck0tv1s609kcq0i19fj66fe0n
     verified: false
-    hashtags: "#palawan, #voyageslaponie, #montagne, #annecy"
+    hashtags: "#gre, #paysages, #spainstagram, #amoureux"
   - username: "charlie.ma.vie"
     fullname: >-
-      Raphaëlle
+      Raphaëlle
+    bio: >-
+      Mum of two • Famille recomposée • ✨ Brune, Charlie & Milo ♡ Passionnée de photographie💫 Inspiration & instants de notre petite vie RECETTES en story🍴
     location: "France"
-    followers: 46823
-    engagement: 837
-    commentsToLikes: 0.021400
+    followers: 50110
+    engagement: 677
+    commentsToLikes: 0.014703
     id: ck0vzn1709wpv0i19kyvoss00
     verified: false
-    hashtags: "#momanddad, #daddy, #smileeveryday, #lovers"
+    hashtags: "#mumoftwo, #simplychildren, #momsofinstagram, #motherhoodunplugged"
   - username: "igna.ferriol"
     fullname: >-
       Igna & Hanna
+    bio: >-
+      "Enjoying life with my dog Hanna🐶🏃🏽‍♂️🌍" #Bordercollie 📍Tenerife • Canary Islands🌴 Nature | Travel | Outdoor - 📸 Sony, GoPro, Xiaomi 📱
     location: "Spain"
-    followers: 20593
-    engagement: 1246
-    commentsToLikes: 0.075555
+    followers: 26611
+    engagement: 1894
+    commentsToLikes: 0.039549
     id: ck55o5tf27otd0i11wpmyqhwx
     verified: false
-    hashtags: "#folkvisions, #natureheals, #beggintime, #dogpics"
+    hashtags: "#tenerife, #optoutside, #spacewheel, #sonyphotography"
   - username: "angelika_rysz"
     fullname: >-
       Angelika
+    bio: >-
+      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
     location: "Poland"
-    followers: 3225
-    engagement: 2173
-    commentsToLikes: 0.306699
+    followers: 3646
+    engagement: 1525
+    commentsToLikes: 0.346529
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
-  - username: "lissiloveslife"
-    fullname: >-
-      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
-    location: "Germany"
-    followers: 6128
-    engagement: 1619
-    commentsToLikes: 0.244601
-    id: ck15tf4eshrue0i191ml886ab
-    verified: false
-    hashtags: "#beautybloggers, #hhblogger, #interiordesign, #fitfamgermany"
+    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
   - username: "travelwithkwen"
     fullname: >-
       Kwen - Travel & Lifestyle
-    location: "Japan"
-    followers: 11524
-    engagement: 1440
-    commentsToLikes: 0.271691
+    bio: >-
+      📍🇬🇧 TRAVEL 🌍 | PHOTOGRAPHY 📷 Email for Collabs: travelwithkwen@outlook.com
+    location: "United Kingdom"
+    followers: 12197
+    engagement: 1196
+    commentsToLikes: 0.309865
     id: ck14jebadjwb70i19j0zmu54p
     verified: false
-    hashtags: "#travelpicture, #womensday, #travelstribe, #winmymicrogap"
+    hashtags: "#stayandwander, #instatravel, #livetotravel, #roamtheworld"
   - username: "silvio_tova"
     fullname: >-
       S I L V I O  T O V A G L I A
-    location: "United States"
-    followers: 16487
-    engagement: 999
-    commentsToLikes: 0.284694
+    bio: >-
+      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com
+    location: "Italy"
+    followers: 16967
+    engagement: 984
+    commentsToLikes: 0.193945
     id: ck0u1mb6hx8ga0i19d9k1rvsb
     verified: false
-    hashtags: "#gifted, #puma, #boxlogo, #paris"
+    hashtags: "#insiemecelafaremo, #snipesknows, #supplied, #fratellipercaso"
+  - username: "lissiloveslife"
+    fullname: >-
+      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
+    bio: >-
+      ✨ 𝘓𝘪𝘴𝘢 / 28 𝘺/𝘰 👰🏼 𝘮𝘢𝘳𝘳𝘪𝘦𝘥 & 𝘮𝘰𝘮𝘮𝘺 🏡 𝘦𝘪𝘨𝘦𝘯𝘩𝘦𝘪𝘮𝘴𝘶𝘤𝘩𝘦 𝘱𝘢𝘥𝘦𝘳𝘣𝘰𝘳𝘯 2020/21 #️⃣ 𝘶𝘴𝘦 #lissiloveslife • 💻 𝘐𝘮𝘱𝘳𝘦𝘴𝘴𝘶𝘮:
+    location: "Germany"
+    followers: 7036
+    engagement: 833
+    commentsToLikes: 0.169452
+    id: ck15tf4eshrue0i191ml886ab
+    verified: false
+    hashtags: "#flatlay, #hyggehygge, #carmushkadresden, #sophieklex"
   - username: "evierupp"
     fullname: >-
       Evelyn Grace ♡ LA Biz Educator
+    bio: >-
+      🌸I help women create a life + biz they LOVE 💛Founder: @theheartuniversity 🎙Heart+Hustle Podcast 🌿elopement photographer FREE PRODUCTIVITY GUIDE👇🏼
     location: "United States"
-    followers: 24354
-    engagement: 912
-    commentsToLikes: 0.043979
+    followers: 26736
+    engagement: 712
+    commentsToLikes: 0.035347
     id: ck13a76akoyg40i19edjwq8h6
     verified: false
-    hashtags: ""
+    hashtags: "#athomephotochallenge"
   - username: "wandabadwal"
     fullname: >-
       WANDA BADWAL
-    location: "Indonesia"
-    followers: 30350
-    engagement: 362
-    commentsToLikes: 0.049696
+    bio: >-
+      ㅿ𝙔𝙊𝙂𝘼 𝘽𝙀𝙔𝙊𝙉𝘿 𝙏𝙃𝙀 𝘼𝙎𝘼𝙉𝘼 ☽ ㅿɢᴜɪᴅɪɴɢ ᴘᴇᴏᴘʟᴇ ᴛᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴡʜᴏ ᴛʜᴇʏ ᴀʀᴇ ㅿsᴘɪʀɪᴛᴜᴀʟ ɢᴜɪᴅᴇ / ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ / ᴀᴜᴛʜᴏʀ / sᴘᴇᴀᴋᴇʀ ㅿᴏɴʟɪɴᴇ ʏᴏɢᴀ: @ʀᴏsᴇ.ᴏғ.ғɪʀᴇ.ʏᴏɢᴀ
+    location: "Germany"
+    followers: 34097
+    engagement: 377
+    commentsToLikes: 0.070125
     id: ck14hs02gbu2v0i19pus82mrj
     verified: false
-    hashtags: "#sanctuary, #conversation, #spirituality, #happygalungan"
+    hashtags: "#achtsamkeit, #yoga, #loveyourself, #namaste"
 countries:
   - name: Algeria
     link: /instagram/algeria
@@ -113,8 +136,6 @@ countries:
     link: /instagram/australia
   - name: Austria
     link: /instagram/austria
-  - name: Belarus
-    link: /instagram/belarus
   - name: Belgium
     link: /instagram/belgium
   - name: Brazil

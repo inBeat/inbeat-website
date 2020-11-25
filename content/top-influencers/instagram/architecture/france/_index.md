@@ -1,107 +1,130 @@
 ---
 title: Top 10 Architecture Instagram Influencers In France In 2020
 description: >-
-  Find top architecture Instagram influencers in France in 2020. Most popular hashtags: #archidaily #toureiffel #natgeoyourshot #parismaville.
+  Find top architecture Instagram influencers in France in 2020. Most popular hashtags: #art #bnw #portrait #photography.
 platform: Instagram
+hits: 696
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 696 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "khosrowart"
+    fullname: >-
+      👑 KHOSRO PHOTOGRAPHY
+    bio: >-
+      📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
+    location: "France"
+    followers: 12620
+    engagement: 772
+    commentsToLikes: 0.033947
+    id: ck5zjpqupi0t70i14487e84xh
+    verified: false
+    hashtags: "#vscocam, #zhest, #artgraphy, #retouch"
+  - username: "charlottesiine"
+    fullname: >-
+      +Ша+
+    bio: >-
+      ☘️ 21’ Monaco Architecture Student SIN’ART SHOP ✨
+    location: "France"
+    followers: 157865
+    engagement: 1812
+    commentsToLikes: 0.004792
+    id: ck6udqnlmmlca0j7139to3woq
+    verified: false
+    hashtags: ""
   - username: "yves_parisian"
     fullname: >-
-      Yves Sabrou
+      Y V E S  S A B R O U
+    bio: >-
+      Paris based photographer Dance💃architecture🗼streetphotography🚶‍♂️ 📩contact@yvessabrou.com
     location: "France"
-    followers: 10674
-    engagement: 978
-    commentsToLikes: 0.033590
+    followers: 10517
+    engagement: 1089
+    commentsToLikes: 0.038202
     id: ck0w6bugd7u5j0i1981ribkij
     verified: false
-    hashtags: "#hubs, #unic, #freeze, #landscape"
+    hashtags: "#igparis, #balletdancephotography, #streetexploration, #freeze"
   - username: "mewpittinun"
     fullname: >-
-      Pittinun J.
+      Pittinun Jariyavilaskul
+    bio: >-
+      Architecture Chula Galaxy S20 @mw_spidey_collectibles @plantracker.th Contact : DM
     location: "France"
-    followers: 54081
-    engagement: 347
-    commentsToLikes: 0.007343
+    followers: 55935
+    engagement: 378
+    commentsToLikes: 0.007185
     id: ck0vv9fg8o4w00i19x8xpg9mm
     verified: false
-    hashtags: "#galaxynote10th, #toyoito, #rafaelvinoly, #stayapartstaytogether"
+    hashtags: "#teamgalaxy, #seeyourworlddifferently, #galaxys20, #supervdocamera"
+  - username: "perchek.industrie"
+    fullname: >-
+      CLEMENT PERCHERON 👁
+    bio: >-
+      📍 Basé à Bordeaux, Fr 📤 Infos /Tarifs Shooting via DM 👤 Étudiant Architecture d’intérieur & Désigner 📧 perchek.industrie@gmail.com
+    location: "France"
+    followers: 23596
+    engagement: 137
+    commentsToLikes: 0.029496
+    id: ck0uer8f5lxpx0i19nnxiln1f
+    verified: false
+    hashtags: "#filmphotography, #filmisnotdead, #gramkilla, #gominimalmag"
   - username: "laurent_clement_photographe"
     fullname: >-
       Laurent Clément
+    bio: >-
+      PHOTOGRAPHE / DIRECTOR @freyjabeautymagazine @laurent_clement_studio @laurent_clement_architecture
     location: "France"
-    followers: 17530
-    engagement: 94
-    commentsToLikes: 0.035750
+    followers: 16844
+    engagement: 113
+    commentsToLikes: 0.037668
     id: ck0u8a7j76yct0i199v71cvsh
     verified: false
-    hashtags: "#follow, #artphotography, #coiffeur, #seville"
-  - username: "vuitor"
+    hashtags: "#nikon, #photoshoot, #art, #photography"
+  - username: "cecile.oudiette"
     fullname: >-
-      Victor
+      Cécile
+    bio: >-
+      @cecile.oudiette. All pics are mine 🖤architecture / design / travel / street art 🖤 🇫🇷
     location: "France"
-    followers: 6611
-    engagement: 1138
-    commentsToLikes: 0.092939
-    id: ck0tzxa1oru4g0i19u5temi0h
+    followers: 3654
+    engagement: 2003
+    commentsToLikes: 0.277831
+    id: ckapchupf3v5u0i784szcwjj2
     verified: false
-    hashtags: "#londonvacation, #frenchvisuals, #lunerose, #visitbrittany"
-  - username: "julianoz_photographies"
-    fullname: >-
-      Julianoz Photographies
-    location: "France"
-    followers: 5238
-    engagement: 1059
-    commentsToLikes: 0.114981
-    id: ck13aawahphot0i19bdj150jp
-    verified: false
-    hashtags: "#streetartparis, #parisianstyle, #chaleur, #doublerainbow"
+    hashtags: "#lecorbusier, #cool, #total, #arkiromantix"
   - username: "baldbarbu"
     fullname: >-
       A X E L 🇫🇷
+    bio: >-
+      🧔🏻 Just a bald man 📷 Architecture | Portraits | Lifestyle 📍 Lyon, France
     location: "France"
     followers: 2174
     engagement: 2636
     commentsToLikes: 0.076062
     id: ckap1qqyivpnh0i78gdf07fnt
     verified: false
-    hashtags: "#topmadridphoto, #ilovemadrid, #lyon6, #frenchboy"
-  - username: "lola_henn"
+    hashtags: "#lyonfrance, #gayfrance, #beardedgay, #lyon"
+  - username: "_sev_happysty"
     fullname: >-
-      L O L A 🦋
+      S E V .
+    bio: >-
+      Architecture from my point of view. All pictures are taken by me and are mine 🌍📍Paris 🔹Member of #1_unlimited🔹
     location: "France"
-    followers: 4673
-    engagement: 2185
-    commentsToLikes: 0.102741
-    id: ckaoyoew7idaw0i78eh0q0igb
+    followers: 7857
+    engagement: 1491
+    commentsToLikes: 0.175659
+    id: ck5zntlbpp4o30i14nytbror7
     verified: false
-    hashtags: "#vintageoutfit, #nakdfashion, #blogueusemode, #blogmodeparis"
-  - username: "zhytomyna"
+    hashtags: "#buildingswow, #architecture, #bnw, #minimal"
+  - username: "les_compagnons_explorateurs"
     fullname: >-
-      Photography Travel Germany 🇩🇪
+      LES COMPAGNONS EXPLORATEURS
+    bio: >-
+      👫 | Elsa & Lucien 📍 | Auvergne 🇫🇷 ⛰🍃📐| Amoureux de la nature et passionnés d’architecture. 🌎 | Blog voyage 📩 lescompagnonsexplorateurs@gmail.com
     location: "France"
-    followers: 5111
-    engagement: 928
-    commentsToLikes: 0.124101
-    id: ck8t9by50njgj0j788b7rico0
+    followers: 12853
+    engagement: 1180
+    commentsToLikes: 0.048351
+    id: ck13bm1prw2nz0i19mca4euac
     verified: false
-    hashtags: "#blauregen, #traveltofrance, #naturelove, #sight"
-  - username: "emoi_iness"
-    fullname: >-
-      Iness | @emoi_iness
-    location: "France"
-    followers: 6270
-    engagement: 1103
-    commentsToLikes: 0.074706
-    id: ck5zswduzzb2q0i14kmn3fl8i
-    verified: false
-    hashtags: "#safirashine, #chaneladdict, #cluseclub, #eaucapitale"
-  - username: "kiks_way"
-    fullname: >-
-      Killian Roman
-    location: "France"
-    followers: 33595
-    engagement: 247
-    commentsToLikes: 0.088012
-    id: ck5hqekcnszft0i11h5sfig3q
-    verified: false
-    hashtags: "#onlylyon, #monlyon, #streetninja, #rustlord"
+    hashtags: "#igersfrance, #hauteloiretourisme, #francemontagnes, #auvergnerh"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Denver In 2020
 description: >-
-  Find top food TikTok influencers in Denver in 2020. Most popular hashtags: #food #denver #snow #morningroutine.
+  Find top food TikTok influencers in Denver in 2020. Most popular hashtags: #fyp #foryou #food #foryoupage.
 platform: TikTok
+hits: 33
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 33 TikTok influencers like this in Denver, United States for you to pitch.
 profiles:
+  - username: "rodriguez03artist"
+    fullname: >-
+      rodriguez03artist
+    bio: >-
+      Snapchat @ law_071994 🇵🇭 Instagram @ LJcustomclothing 🇵🇭
+    location: "United States"
+    followers: 101100
+    engagement: 1317
+    commentsToLikes: 0.010004
+    id: ck9v3ism3q4ki0j783pfsm94r
+    verified: false
+    hashtags: "#smallbusinesscheck, #anime, #viral, #paint"
+  - username: "_evelynjuarez16"
+    fullname: >-
+      _evelynjuarez16
+    bio: >-
+      PO Box: 1408 N. Riverfront Blvd 504 Dallas, Tx 75207 Venmo/cashapp @EvelynLIT
+    location: "United States"
+    followers: 861100
+    engagement: 1871
+    commentsToLikes: 0.035014
+    id: ck8khiu1lmwe90j78bp7tkptg
+    verified: false
+    hashtags: "#fyp, #nails, #beauty, #storytime"
+  - username: "gquebbq"
+    fullname: >-
+      GQueBBQ
+    bio: >-
+      🔥Colorado’s Best BBQ🔥 🏔3 Locations🏔 👆🏼Full length videos on You Tube👆🏼
+    location: "United States"
+    followers: 10900
+    engagement: 433
+    commentsToLikes: 0.010348
+    id: ck80opo9qj2gw0j78ml9jmgsw
+    verified: false
+    hashtags: "#dinner, #brisket, #delicious, #paleo"
   - username: "chefcooldre"
     fullname: >-
       DeAndre Smith ✨
+    bio: >-
+      JUST A SOUTHERN CHILD 🤘🏾
     location: "United States"
     followers: 3957
     engagement: 935
     commentsToLikes: 0.015177
     id: ck8z2opuq68oq0j78iqt32dlt
     verified: false
-    hashtags: "#brunch, #trevrich, #chicken, #haircut"
-  - username: "supdaily"
+    hashtags: "#tiktokfoodie, #5280, #seafoodboil, #tiktokfood"
+  - username: "ashliehdz1120"
     fullname: >-
-      SupDaily
+      user7223730135201
+    bio: >-
+      Hi! I’m Ashlie. Mom of 3 girls // 💍 HS sweetheart // Lover of the 🌙
     location: "United States"
-    followers: 389489
-    engagement: 1408
-    commentsToLikes: 0.039838
-    id: ck8kdxn8s7uu80j78a8dm7dmg
+    followers: 12200
+    engagement: 1177
+    commentsToLikes: 0.024489
+    id: ckav8fqr6fpc20j23wnffh7rf
     verified: false
-    hashtags: "#over30, #tinderterror, #storytime, #puppykisses"
-  - username: "eateateatstreet"
+    hashtags: "#xyzbca, #snoozzzapalooza, #makesomeonesmile, #fyp"
+  - username: "easytigerplants"
     fullname: >-
-      Eatstreet
+      Easy Tiger Plants
+    bio: >-
+      Come chill in my USDA grow zone 6b garden in Denver, CO. Also available on insta
     location: "United States"
-    followers: 8308
-    engagement: 689
-    commentsToLikes: 0.010571
-    id: ck8kdxm6z7ugr0j78dldi9ubn
+    followers: 5700
+    engagement: 832
+    commentsToLikes: 0.044052
+    id: ckafu24hg8ahz0i78udauysrg
     verified: false
-    hashtags: "#fish, #seafood, #food, #foryou"
-  - username: "denverworley"
+    hashtags: "#pollinators, #flowers, #plants, #gardening"
+  - username: "jasonstolken"
     fullname: >-
-      Denver Worley
+      JasonStolken
+    bio: >-
+      Comedy writer Late Night TikTok Interactive TikTok Livestreams 📍Denver
     location: "United States"
-    followers: 227378
-    engagement: 319
-    commentsToLikes: 0.004810
-    id: ck81qwqhakjcq0j78y4377894
+    followers: 7876
+    engagement: 846
+    commentsToLikes: 0.029981
+    id: ckd667fw133f20j23y02quqgw
     verified: false
-    hashtags: "#upchurch, #bluecollar, #bluetickcoonhound, #for"
-  - username: "gquebbq"
+    hashtags: "#latenightjokes, #comedy, #xyzbca, #humor"
+  - username: "apricotanzu"
     fullname: >-
-      GQueBBQ
+      anzu
+    bio: >-
+      i swear i’m not this ugly on instagram denver // 20
     location: "United States"
-    followers: 10165
-    engagement: 443
-    commentsToLikes: 0.011251
-    id: ck80opo9qj2gw0j78ml9jmgsw
+    followers: 13000
+    engagement: 905
+    commentsToLikes: 0.026675
+    id: ckaif9c4mvvrs0i78dr8xw9y3
     verified: false
-    hashtags: "#whatsyourstuf, #posetothis, #nachos, #primerib"
-  - username: "boysdontblush"
+    hashtags: "#foryoupage, #funny, #fyp, #girl"
+  - username: "karen123251"
     fullname: >-
-      Caleb Paulson
+      ❕❕
+    bio: >-
+      • Denver Co📍 Sc/ karen _123251 🇲🇽 💃🏽💃🏽
     location: "United States"
-    followers: 64269
-    engagement: 1858
-    commentsToLikes: 0.036979
-    id: cka0nhw60zrwb0i78jhesu19a
+    followers: 19900
+    engagement: 1573
+    commentsToLikes: 0.018009
+    id: ckbw3o36tx8pf0j23hh14kxg9
     verified: false
-    hashtags: "#music, #middleschool, #myskinandme, #spacethings"
-  - username: "the_panda_og"
+    hashtags: "#fyp, #foryourpage, #foryoupage, #viral"
+  - username: "tiktoktatertotz"
     fullname: >-
-      Gabe Luke
+      Tate
+    bio: >-
+      19 Denver | Los Angeles Have some fun along the way
     location: "United States"
-    followers: 8120
-    engagement: 1015
-    commentsToLikes: 0.056006
-    id: ckamg55xwanld0i78jebo82u4
+    followers: 29300
+    engagement: 1181
+    commentsToLikes: 0.021640
+    id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#niccage, #playbyplay, #mozart, #throwback"
-  - username: "bennydyl"
-    fullname: >-
-      Dylan Hollis
-    location: "United States"
-    followers: 30352
-    engagement: 1637
-    commentsToLikes: 0.015749
-    id: ckachg7r2z8fb0i7859ul8ljm
-    verified: false
-    hashtags: "#spaghettinoodle, #bodypositive, #tetris, #snow"
-  - username: "delchirigliano"
-    fullname: >-
-      DELFINA
-    location: "United States"
-    followers: 56107
-    engagement: 784
-    commentsToLikes: 0.051822
-    id: ck9bx5qimmd7a0j78aan3pesf
-    verified: false
-    hashtags: "#funeraldance, #transitions, #bananadrop, #remix"
-  - username: "zack_hample"
-    fullname: >-
-      Zack Hample
-    location: "United States"
-    followers: 188144
-    engagement: 1284
-    commentsToLikes: 0.008583
-    id: ck9njbos1hg280j787s54rorx
-    verified: false
-    hashtags: "#texas, #atlanta, #oaklandcoliseum, #playingcatch"
+    hashtags: "#highschool, #dontletthisflop, #fitness, #drive"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Australia In 2020
 description: >-
-  Find top illustrators Instagram influencers in Australia in 2020. Most popular hashtags: #stayhome #covid #savetheplanet #earthday.
+  Find top illustrators Instagram influencers in Australia in 2020. Most popular hashtags: #illustration #halloween #digitalart.
 platform: Instagram
+hits: 114
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 114 Instagram influencers like this in Australia for you to pitch.
 profiles:
+  - username: "jakebartok"
+    fullname: >-
+      Jake Bartok
+    bio: >-
+      Australian Comic book artist, fantasy Illustrator and coffee addict. You can buy prints or support my patreon here!👇
+    location: "Australia"
+    followers: 44390
+    engagement: 2456
+    commentsToLikes: 0.009666
+    id: ck9weococl62w0j783lot2jj2
+    verified: false
+    hashtags: "#darthvader, #sith, #fantasyartist, #rebels"
   - username: "hanahana.ya"
     fullname: >-
-      ハ͓̽ナ͓̽　͓̽花͓̽や͓̽
+      ハ͓̽ナ͓̽　͓̽花͓̽や͓̽
+    bio: >-
+      🥨地球の平和を愛する LOVE & PEACE🥨 🍤Sydney 🍭Cosplayer + Illustrator 🍩Art acc: @hanahanayart
     location: "Australia"
-    followers: 6331
-    engagement: 1548
-    commentsToLikes: 0.015827
+    followers: 6258
+    engagement: 1441
+    commentsToLikes: 0.016766
     id: ck8t4czi06bx20j78758bw06w
     verified: false
-    hashtags: "#demonslayer, #nezukocosplay, #tranditional, #rezerorem"
-  - username: "_vivalareina"
+    hashtags: "#selfietime, #cosplaygirls, #madfest, #thequintessentialquintuplets"
+  - username: "babavesterkatattoos"
     fullname: >-
-      Reina Koyano
+      Baba Vešterka Tattoos
+    bio: >-
+      🕷 TAMARA SCOULIDIS 🕷 Queer artist and tattooer on Aboriginal land @crucibletattooco Illustrator @the.adventures.of.chuck Email to book, no DMs plz
     location: "Australia"
-    followers: 130628
-    engagement: 183
-    commentsToLikes: 0.034262
-    id: ck5buhociht2g0i11nunz8z50
+    followers: 20547
+    engagement: 306
+    commentsToLikes: 0.015742
+    id: ck5q9oy3cc8oq0i11jx1sxi5r
     verified: false
-    hashtags: "#mjmondays, #happymothersday, #tbt"
+    hashtags: "#melbournetattoo, #illustrativetattoo, #playboy, #occultarcana"
   - username: "aluna.ink"
     fullname: >-
-      al glascott 🤍
+      al glascott
+    bio: >-
+      🕊 🦇 she/her artist & illustrator GADIGAL/SYDNEY 🤍WORK INQUIRES TO: alglascott@gmail.com 🕸 or DM
     location: "Australia"
-    followers: 11850
-    engagement: 659
-    commentsToLikes: 0.022941
+    followers: 12623
+    engagement: 780
+    commentsToLikes: 0.019158
     id: ck55p8z4ba29e0i11srgyky88
     verified: false
-    hashtags: "#internationalwomensday, #keepthedoorsopen"
-  - username: "paxandhart"
+    hashtags: ""
+  - username: "carolinemorin_"
     fullname: >-
-      e m m a
+      Caroline Morin
+    bio: >-
+      ~ illustrator & photographer @carolinemorin_photo ~ inquiries only by email ~ bonjour@carolinemorin.com ~ http://society6.com/caroline-morin
     location: "Australia"
-    followers: 44594
-    engagement: 201
-    commentsToLikes: 0.077610
-    id: ck55ljh431pjt0i11sl6gipug
+    followers: 23052
+    engagement: 1542
+    commentsToLikes: 0.030108
+    id: ck5q6yd0nz9zv0i11pn2qtn92
     verified: false
-    hashtags: "#seemslikeyesterday, #paxandhartstockist, #stylequeen, #australiaisonfire"
-  - username: "illustriousjane"
+    hashtags: "#minimal, #minimalist, #minimalism, #instaart"
+  - username: "rhiannonkate__"
     fullname: >-
-      Sarah Jane
+      Rhiannon Greenaway
+    bio: >-
+      21 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
     location: "Australia"
-    followers: 70778
-    engagement: 169
-    commentsToLikes: 0.053022
-    id: ck13d8huz47350i19nuzh6icj
+    followers: 24202
+    engagement: 990
+    commentsToLikes: 0.028423
+    id: ck5ceqnfqlinm0i1185q09kg0
     verified: false
-    hashtags: "#fashionideas, #indiansummer, #wiwtoday, #sudiosweden"
-  - username: "naomibulger"
-    fullname: >-
-      Naomi Bulger
-    location: "Australia"
-    followers: 22634
-    engagement: 289
-    commentsToLikes: 0.063589
-    id: ck6u3rmq0zhe40j719v203byp
-    verified: false
-    hashtags: "#bookishlife, #timetowrite, #magazineaddict, #foundandforaged"
-  - username: "lineideas"
-    fullname: >-
-      Jordan | Lettering Watercolour
-    location: "Australia"
-    followers: 5793
-    engagement: 1720
-    commentsToLikes: 0.049872
-    id: ck9we8e1dj3z60j78h98lzygh
-    verified: false
-    hashtags: "#typespire, #floralarthub, #thedailywriting, #15daysofink"
+    hashtags: "#sixfanarts"
   - username: "pip_abraham"
     fullname: >-
       Pip · Animal Artist
+    bio: >-
+      Australian 🇦🇺 Drawing animals & natural history · Scientific illustrator · Paleoartist · Commissions open
     location: "Australia"
-    followers: 24573
-    engagement: 1009
-    commentsToLikes: 0.012838
+    followers: 23702
+    engagement: 1037
+    commentsToLikes: 0.013250
     id: ck14jc7vcjlwe0i19b793zkdi
     verified: false
     hashtags: "#draw30animals, #inktober, #topnine"
-  - username: "ici.jozi"
-    fullname: >-
-      jozi - illustration & ☀️🌏🌸
-    location: "Australia"
-    followers: 3680
-    engagement: 2616
-    commentsToLikes: 0.038466
-    id: ckap9dmcvs8ez0i78f2nubvgr
-    verified: false
-    hashtags: "#earthdayathome, #plantlady, #arual100k, #australia"
   - username: "elyvescent"
     fullname: >-
       Elysia Case
+    bio: >-
+      22 • she/her • artist/illustrator ✸ western ny 🍂 💌 elyvescent@gmail.com 🌻 Etsy shop and Portfolio links 👇🏻
     location: "Australia"
-    followers: 18697
-    engagement: 1739
-    commentsToLikes: 0.011917
+    followers: 20306
+    engagement: 950
+    commentsToLikes: 0.012837
     id: ck0vx63ffxbpr0i19x65judma
     verified: false
-    hashtags: "#stickerapp, #stickers, #pencilsketch, #coloredpencil"
+    hashtags: "#witch, #drawing, #illustratorsoninstagram, #digitalart"
+  - username: "tiny_sparrow_design"
+    fullname: >-
+      Sandra Herrgott Illustrations
+    bio: >-
+      Heartwarming illustrations 🌿art tips, watercolor, lettering, digital art 🌿illustrator, wife & mum of 2 🌿Child of God, John 3:16
+    location: "Australia"
+    followers: 10968
+    engagement: 476
+    commentsToLikes: 0.227837
+    id: ck134a114vffp0i19mixkl7l5
+    verified: false
+    hashtags: "#botanicallinedrawing, #picturebookart, #illustration, #watercolorpainting"
+  - username: "pinkpiggy93"
+    fullname: >-
+      🌙Nekocat☀️
+    bio: >-
+      Artist, Illustrator, Witch Drawing:lost in Lucid Dreams,GO fanarts
+    location: "Australia"
+    followers: 23991
+    engagement: 2240
+    commentsToLikes: 0.011346
+    id: ck8t1wohlxc5e0j783h4pa9bp
+    verified: false
+    hashtags: "#pinkpiggy93art, #lostinluciddreams, #ineffablehusbands, #warlock"
 ---

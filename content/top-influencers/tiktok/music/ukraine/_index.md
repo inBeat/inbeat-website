@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Ukraine In 2020
 description: >-
-  Find top music TikTok influencers in Ukraine in 2020. Most popular hashtags: #stayhome #quarantine #music #dance.
+  Find top music TikTok influencers in Ukraine in 2020. Most popular hashtags: #music #aesthetic #foryou #love.
 platform: TikTok
+hits: 25
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 25 TikTok influencers like this in Ukraine for you to work with.
 profiles:
+  - username: "sergaint.archi"
+    fullname: >-
+      💔LIL bo PEEP💔
+    bio: >-
+      •moto/cars• ▪︎movies/tv shows▪︎ - rock music - t.me/llilbopeep
+    location: "Ukraine"
+    followers: 5899
+    engagement: 2000
+    commentsToLikes: 0.046249
+    id: cka0hzwnsbizf0i78i8fmrkyn
+    verified: false
+    hashtags: "#yamaha, #rec, #motogirl, #aesthetic"
   - username: "tik_tok_music_trends"
     fullname: >-
       Tik_tok_trends 🥺
+    bio: >-
+      • tik tok trends ✨🥺 • popular music 🎵 • tik tokers clothes 👖 • goal 2k 💖
     location: "Ukraine"
-    followers: 2811
-    engagement: 1702
-    commentsToLikes: 0.029760
+    followers: 2571
+    engagement: 1563
+    commentsToLikes: 0.027344
     id: cka0k6f9kl50u0i78c3gcv5rz
     verified: false
-    hashtags: "#clothes, #quarantine, #vsco, #tiktokcoffee"
+    hashtags: "#aesthetic, #tiktok, #fyp, #foryou"
   - username: "classical_muz"
     fullname: >-
       Classical Music
+    bio: >-
+      Welcome to Channel of Classical Music❤️ Тут только шедевры классики⬇️
     location: "Ukraine"
-    followers: 12290
-    engagement: 1251
-    commentsToLikes: 0.032428
+    followers: 30800
+    engagement: 1223
+    commentsToLikes: 0.025079
     id: cka0jzqchkezr0i78u8ngnf34
     verified: false
-    hashtags: "#likemusic, #love, #organ, #lovemusic"
-  - username: "djmilana"
+    hashtags: "#piano, #classicalmusic, #musician, #music"
+  - username: "maruvofficial"
     fullname: >-
-      Dj Milana
+      Maruv
+    bio: >-
+      MARUV - Artist, Musician, Sound Producer, Songwriter
     location: "Ukraine"
-    followers: 6098
-    engagement: 254
-    commentsToLikes: 0.020349
-    id: ckai38d0eixp30i782xlsrde1
-    verified: false
-    hashtags: "#makeup, #fitnessgirl, #mydog, #momsoftiktok"
+    followers: 282400
+    engagement: 923
+    commentsToLikes: 0.007485
+    id: ckbakck1zbctg0j23jve6qwmt
+    verified: true
+    hashtags: "#sadsongwalk"
   - username: "positiff_ua"
     fullname: >-
       positiff
+    bio: >-
+      Artist. Singer. Music Maker. Producer. Creator. Gonna be greater!
     location: "Ukraine"
-    followers: 37679
-    engagement: 1379
-    commentsToLikes: 0.008900
+    followers: 73000
+    engagement: 1255
+    commentsToLikes: 0.009581
     id: ck8se8q26ipy20j78jyhxf2j7
     verified: false
-    hashtags: "#2popodcast, #quarantine, #stayhome, #boredinthehouse"
-  - username: "aisatsanaa1"
+    hashtags: "#mozgi, #noxoxochallenge, #nohugsnokisses, #chicadance"
+  - username: "_.otherside._"
     fullname: >-
-      Aisatsanaa
+      All you need
+    bio: >-
+      ✨Стараюсь делать полезные и интересные видео 🔮Цель 3k 💖Люблю каждого из вас
     location: "Ukraine"
-    followers: 5229
-    engagement: 1143
-    commentsToLikes: 0.040201
-    id: cka9m30ml3lsr0i7843yzmt93
+    followers: 1915
+    engagement: 1384
+    commentsToLikes: 0.036653
+    id: ckad64rody7260i78uxj3d9bi
     verified: false
-    hashtags: "#check, #pungmobile, #solo, #punggirl"
-  - username: "_bear_music_1"
+    hashtags: "#foryou, #3k, #1k, #1million"
+  - username: "polinamusikerin"
     fullname: >-
-      🐻BearMusic🧸
+      polinamusikerin
+    bio: >-
+      Музыка , семейная жизнь , бьюти штучки и спорт. Подробнее обо всём здесь ⬇️
     location: "Ukraine"
-    followers: 16591
-    engagement: 1640
-    commentsToLikes: 0.010971
-    id: cka0fn95809n90i78oo1i90ym
+    followers: 14500
+    engagement: 715
+    commentsToLikes: 0.039153
+    id: ckbqfc58l0ys10j231vqrru9z
     verified: false
-    hashtags: "#2020, #ukraine, #tiktok, #1millionaudition"
-  - username: "bloggersawards"
+    hashtags: "#cover, #celloplayer, #rec, #cello"
+  - username: "sankoffteam"
     fullname: >-
-      Bloggers Awards
+      Chef
+    bio: >-
+      90s edits♠️ #MakeRapGreatAgain Cooperation in Instagram📷
     location: "Ukraine"
-    followers: 20787
-    engagement: 118
-    commentsToLikes: 0.008387
-    id: cka0jynggk5qu0i78ecov54r2
+    followers: 5736
+    engagement: 1092
+    commentsToLikes: 0.021788
+    id: ckbfib0zme10x0j23ns6az09f
     verified: false
-    hashtags: "#show, #photo, #beautiful, #doit"
+    hashtags: "#oldschool, #makerapmusicgreatagain, #icecube, #musicvideo"
   - username: "kamenskux.nk"
     fullname: >-
       kamenskux
+    bio: >-
+      instagram-@kamenskux😍
     location: "Ukraine"
-    followers: 62758
-    engagement: 811
-    commentsToLikes: 0.001189
+    followers: 64700
+    engagement: 862
+    commentsToLikes: 0.001863
     id: ck8s840ckrx770j7817revbt6
     verified: false
-    hashtags: "#xfactor, #xfactor2019, #potap, #music"
-  - username: "lil_plex"
+    hashtags: "#elefante, #tik, #nk, #kamenskux"
+  - username: "jbelozerov"
     fullname: >-
-      lilplex
+      Евгений Белозеров
+    bio: >-
+      JACK BELOZEROV 👊🏻😉 🎬 Твой любимый блогер на YouTube 🚀
     location: "Ukraine"
-    followers: 148432
-    engagement: 1551
-    commentsToLikes: 0.046818
-    id: cka6205r8xosu0i78udwi8dpq
-    verified: false
-    hashtags: "#rasa, #charge3, #hotdog, #1mlikes"
-  - username: "hoistale"
-    fullname: >-
-      𝓗𝓸𝓲𝓼𝖙𝖆𝖑𝖊
-    location: "Ukraine"
-    followers: 12299
-    engagement: 1505
-    commentsToLikes: 0.052712
-    id: cka5xfvvjdtvv0i78glmm2dug
-    verified: false
-    hashtags: "#video, #dualshok3, #hosting, #tiktok"
+    followers: 334700
+    engagement: 2237
+    commentsToLikes: 0.014440
+    id: ckbkh37ch8sv20j23hkxhmhnt
+    verified: true
+    hashtags: "#fun, #horror, #halloween, #dog"
 ---

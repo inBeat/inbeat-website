@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In Italy In 2020
 description: >-
-  Find top lifestyle TikTok influencers in Italy in 2020. Most popular hashtags: #quarantine #dior #gucci #iorestoacasa.
+  Find top lifestyle TikTok influencers in Italy in 2020. Most popular hashtags: #perte #shein #love #italia.
 platform: TikTok
+hits: 42
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 42 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
+    bio: >-
+      🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 1795572
-    engagement: 2449
-    commentsToLikes: 0.012062
+    followers: 2300000
+    engagement: 2312
+    commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#tuttifratelli, #valespo, #reazione, #problemicontutti"
-  - username: "coraclarissa"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+  - username: "giuliogenova_"
     fullname: >-
-      Cora Clarissa 
+      Giulio Genova  🌍☄️💕
+    bio: >-
+      🇺🇸🇮🇹boy GG life style # Love u
     location: "Italy"
-    followers: 60341
-    engagement: 1341
-    commentsToLikes: 0.023222
-    id: ck8j492jo1cjy0j78bwgnvi28
+    followers: 340400
+    engagement: 2254
+    commentsToLikes: 0.013036
+    id: ckbb4j35vusvb0j234ryvzasf
     verified: false
-    hashtags: "#britneyspears, #verit, #theremix, #tiktokedu"
-  - username: "dianadelorenzi"
+    hashtags: "#pov, #duetto, #fyp, #greenscreen"
+  - username: "emmanuelpt.com"
     fullname: >-
-      Diana De Lorenzi
+      Emmanuel_pt 
+    bio: >-
+      Follow me on IG ☝🏻 John’s Daddy 🐕 Lifestyle and Fitness 👇🏻New workout
     location: "Italy"
-    followers: 27801
-    engagement: 945
-    commentsToLikes: 0.023258
-    id: cka0vtbiwzy9m0i78hw6v6o49
+    followers: 95100
+    engagement: 570
+    commentsToLikes: 0.060945
+    id: ckb9id1r48kc50j23w6pjqysr
     verified: false
-    hashtags: "#pink, #martino, #memories, #sicilia"
+    hashtags: "#personaltrainer, #imparacontiktok, #ironia, #trend"
+  - username: "jessicamatarrelli"
+    fullname: >-
+      Jess in Wonderland
+    bio: >-
+      ✨Serie tv| Libri | Film | Lifestyle✨ 💖Molto di più su instagram 💫Fangirl
+    location: "Italy"
+    followers: 21900
+    engagement: 1120
+    commentsToLikes: 0.017169
+    id: ckb9uxvyatvsk0j23yvgbwl0t
+    verified: false
+    hashtags: "#serietvnetflix, #disney, #harrypotter, #serietv"
   - username: "one_million_business"
     fullname: >-
       RICHy’$
+    bio: >-
+      Parlo di: - business - psicologia - mindset - un po’ di lifestyle 🤑
     location: "Italy"
-    followers: 15374
-    engagement: 554
-    commentsToLikes: 0.039461
+    followers: 15900
+    engagement: 482
+    commentsToLikes: 0.036097
     id: ck92xor4kzj1u0j78dlv4fzv4
     verified: false
-    hashtags: "#training, #comedy, #party, #informiamoci"
-  - username: "sabrina.musco"
+    hashtags: "#surprise, #business, #pov, #comemivedono"
+  - username: "dianadelorenzi"
     fullname: >-
-      sabrinamusco
+      Diana De Lorenzi
+    bio: >-
+      Professional lifestyle blogger🇮🇹 Instagram: @dianadelorenzi
     location: "Italy"
-    followers: 13202
-    engagement: 1038
-    commentsToLikes: 0.035125
-    id: ck8vshj5ldkus0j78zw0p9x07
+    followers: 68400
+    engagement: 1103
+    commentsToLikes: 0.012187
+    id: cka0vtbiwzy9m0i78hw6v6o49
     verified: false
-    hashtags: "#puppylove, #bedifferent, #gravity, #puppies"
+    hashtags: "#sonoproprioio, #sea, #comeinunfilm, #artober"
   - username: "alexandragraziano"
     fullname: >-
       Alexalovej
+    bio: >-
+      •Fashion•Beauty•Lifestyle IG @alexalovej 💗
     location: "Italy"
-    followers: 3359
-    engagement: 276
-    commentsToLikes: 0.048001
+    followers: 6720
+    engagement: 392
+    commentsToLikes: 0.032003
     id: ck9r7e0d67rit0j78mk4r0wx5
     verified: false
-    hashtags: "#cosmetics, #vestiti, #denim, #glamurosa"
+    hashtags: "#look, #halloweenmakeup, #halloween2020, #harleyquinn"
   - username: "lovefashionstyle"
     fullname: >-
       Barbara Conte
+    bio: >-
+      NEW ON TIKTOK 💫 Curvy 🍫 Beauty & Lifestyle Instagram @lovefashionstyle 160k ❤️
     location: "Italy"
-    followers: 10373
-    engagement: 669
-    commentsToLikes: 0.034455
+    followers: 49000
+    engagement: 969
+    commentsToLikes: 0.025462
     id: ck9c2iuuyp72g0j78v7obwqwd
     verified: false
-    hashtags: "#fashion, #tiktoktrends, #over30, #makesomenoise"
+    hashtags: "#plussizetiktoker, #curvytiktok, #stylenotsize, #tiktokfashion"
+  - username: "enoblogger"
+    fullname: >-
+      enoblogger
+    bio: >-
+      🍷 Wine Lover🍷 🇮🇹 Italian Lifestyle 🇮🇹 Follow my Insta @enoblogger ✨
+    location: "Italy"
+    followers: 4769
+    engagement: 383
+    commentsToLikes: 0.020858
+    id: ckbqfj7yz12wz0j234i4csudo
+    verified: false
+    hashtags: "#cheers, #vino, #friends, #wine"
   - username: "justintopi"
     fullname: >-
       Justin Topi
+    bio: >-
+      ITALY (milano) 😇 BIKER👀 lifestyle🤩 308💙 IG: justintopi9
     location: "Italy"
-    followers: 11415
-    engagement: 1333
-    commentsToLikes: 0.008237
+    followers: 12600
+    engagement: 1238
+    commentsToLikes: 0.009315
     id: ck97ym8rc05560j78jy5hphe2
     verified: false
-    hashtags: "#speed, #ktm250, #france, #montenapoleone"
-  - username: "martapareccini"
-    fullname: >-
-      Marta Pareccini
-    location: "Italy"
-    followers: 8180
-    engagement: 738
-    commentsToLikes: 0.014427
-    id: ck8vsi18kdnz70j788usd969d
-    verified: false
-    hashtags: "#dailyinspo, #facialmask, #makeupchallenge, #whatsinmybag"
-  - username: "nssmagazine"
-    fullname: >-
-      nss magazine
-    location: "Italy"
-    followers: 35681
-    engagement: 617
-    commentsToLikes: 0.011447
-    id: ck9eq9cwyw7e50j78px66yb8y
-    verified: true
-    hashtags: "#video, #machete, #quarantena, #calcio"
+    hashtags: "#300cc, #youtube, #perte, #125cc"
 ---

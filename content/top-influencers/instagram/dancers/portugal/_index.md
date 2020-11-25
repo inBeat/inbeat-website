@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Portugal In 2020
 description: >-
-  Find top dancers Instagram influencers in Portugal in 2020. Most popular hashtags: #fashionista #homemade #fashion #blond.
+  Find top dancers Instagram influencers in Portugal in 2020. Most popular hashtags: #dance #portugal #tiktok.
 platform: Instagram
+hits: 29
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 29 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "camilaenribeiro4"
-    fullname: >-
-      𝐂𝐀𝐌𝐈𝐋𝐀 𝐑𝐈𝐁𝐄𝐈𝐑𝐎
-    location: "Portugal"
-    followers: 11691
-    engagement: 1448
-    commentsToLikes: 0.156284
-    id: ck8t6vzaoevei0j78vudxk1mz
-    verified: false
-    hashtags: "#lookoftheday, #carnaval2020, #mylook, #instastyle"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
+    bio: >-
+      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
     location: "Portugal"
-    followers: 9654
-    engagement: 1433
-    commentsToLikes: 0.083478
+    followers: 9004
+    engagement: 1544
+    commentsToLikes: 0.083427
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#door, #graffiti, #loveyourself, #caisdosodre"
-  - username: "allexiamatos"
+    hashtags: "#cancerfighter, #diary, #love, #sunlight"
+  - username: "leonorfilipaa"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Alexia Matos
+      LEONOR FILIPA❣️
+    bio: >-
+      • 17y😝 Dancer💃🏻Portugal 🇵🇹 • #tiktok: @leonorfilipaa 👑 (+690k) • PR, Digital & Brands: @thisisluvin • Collaborations: Direct / Email 📥
     location: "Portugal"
-    followers: 6705
-    engagement: 548
-    commentsToLikes: 0.205369
-    id: ck9wfei37oijr0j780e5jarud
+    followers: 41262
+    engagement: 1626
+    commentsToLikes: 0.045936
+    id: ck8wep64meeic0j78gwbo95r6
     verified: false
-    hashtags: "#hapyness, #receitas, #happymoments, #vaificartudobem"
-  - username: "claudiadias.oficial"
+    hashtags: "#unstoppabledance, #dance, #choreo, #tiktokportugal"
+  - username: "camilaenribeiro4"
     fullname: >-
-      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
+      𝐂𝐀𝐌𝐈𝐋𝐀 𝐑𝐈𝐁𝐄𝐈𝐑𝐎
+    bio: >-
+      🎓FLUP 👑Miss juvenil Portugal 👑Miss Bairrada e Miss Aveiro 👑Miss Baguim fashion 🆙Embaixadora Fitness Up ❤️Embaixadora @sobacha.pt 💃🏼Latin dancer
     location: "Portugal"
-    followers: 34298
-    engagement: 1428
-    commentsToLikes: 0.002823
-    id: ck13bn882w8ri0i19lsl0rjse
+    followers: 13611
+    engagement: 900
+    commentsToLikes: 0.101152
+    id: ck8t6vzaoevei0j78vudxk1mz
+    verified: false
+    hashtags: "#happyhalloween, #20, #pub"
+  - username: "giseleballerina"
+    fullname: >-
+      Gisele Rodríguez
+    bio: >-
+      16 y.o.Mex 🇲🇽 Dancer 💃 Singer 🎤 @s.t.a.r.lights 20' 🇵🇹 RussianPointe Amb. 💜 EJBScholar💗 19'ENBS🇬🇧SI IBCMX🥇🥈 18'IBC🇨🇺🏅MXCB🥈 17'YAGPMX🏅& SD 11'-17'🇺🇲
+    location: "Portugal"
+    followers: 4931
+    engagement: 2255
+    commentsToLikes: 0.043613
+    id: ck5q8skwk7snt0i115xjiyzea
+    verified: false
+    hashtags: "#balletto, #russianpointebrand, #rplife, #balletdancer"
+  - username: "flexible_kiki"
+    fullname: >-
+      Katarina Serralha| Flexibility
+    bio: >-
+      •🇺🇸🇵🇹 20y •Dancer, gymnast & contortionist •Inspiring others & innovating ————————————— COLLABORATIONS DM 📥 —————————————
+    location: "Portugal"
+    followers: 5881
+    engagement: 843
+    commentsToLikes: 0.064976
+    id: ck8wfldsgfw6p0j78l4tawyhi
     verified: false
     hashtags: ""
-  - username: "carolinatabarramendes"
-    fullname: >-
-      Carolina Mendes
-    location: "Portugal"
-    followers: 7774
-    engagement: 1074
-    commentsToLikes: 0.016181
-    id: ck0tzqh04r6y00i19a0uhira1
-    verified: false
-    hashtags: "#sumolsummerfest, #boutiquedosrelogios, #tb, #loveofmylife"
   - username: "house.of.labs"
     fullname: >-
       House of Labs
+    bio: >-
+      International DJ|Producer 🎧 Dancer🕺🏼 BOOKING📩houseoflabs.booking@gmail.com OR DM 📍Lisbon, Portugal 🇵🇹 🔊 LISTEN MY LATEST PODCAST:
     location: "Portugal"
-    followers: 41074
-    engagement: 119
-    commentsToLikes: 0.019971
+    followers: 39883
+    engagement: 168
+    commentsToLikes: 0.010541
     id: ck5hk1bixhm670i11pqnao483
     verified: false
     hashtags: "#empaz"
-  - username: "sergioalegria22"
+  - username: "carolinatabarramendes"
     fullname: >-
-      Sérgio Alegria
+      Carolina Mendes
+    bio: >-
+      💃🏼 Professional Dancer 🎓University Student of Communication 🥤Co-creator by @sumol 🕶 CEO : @x_pose_store
     location: "Portugal"
-    followers: 5226
-    engagement: 1485
-    commentsToLikes: 0.041997
-    id: ck0tzqg9cr6uz0i198q432ez4
+    followers: 7252
+    engagement: 769
+    commentsToLikes: 0.015507
+    id: ck0tzqh04r6y00i19a0uhira1
     verified: false
-    hashtags: ""
+    hashtags: "#sumol, #cocreatorbysumol, #orgulhosamentesumol, #cocreatorsbysumol"
   - username: "gina_zaf"
     fullname: >-
       Gina_Zafeiroudi🍑
+    bio: >-
+      Runner🏃 Dancer💃Coffee Lover☕ CatMom🐱 📍 Greece 🇬🇷 🅰dmin: @houses_phototrip 🅰dmin: @streets_and_transports 📱Samsung S7 Edge 📷 Nikon D3300
     location: "Portugal"
-    followers: 2577
-    engagement: 1676
-    commentsToLikes: 0.082451
+    followers: 2581
+    engagement: 1845
+    commentsToLikes: 0.076305
     id: ck5pw20rlkpx20i116j9l419h
     verified: false
-    hashtags: "#bomdia, #love, #homesweethome, #houseportrait"
-  - username: "its_joanasousa"
+    hashtags: "#discover, #travellingthroughtheworld, #natgeomyshot, #earthofficial"
+  - username: "k.lo.k.mari"
     fullname: >-
-      Joana Sousa (Mrs_skinny)
+      Khamari 🔺 WillieJames
+    bio: >-
+      Portuguese|Cape Verdean🇨🇻 ✝️3rd gender @lululemon Partnership @houseofxclusivelanvin 🐆 WETV|KIMORA LEE SIMMONS|BABYFACE|UNIVERSALSTUDIOS|AGT7 @UCLA🐻
     location: "Portugal"
-    followers: 56511
-    engagement: 722
-    commentsToLikes: 0.015095
-    id: ck5qc3u1ooq0t0i11crf8nbu5
+    followers: 18937
+    engagement: 1721
+    commentsToLikes: 0.023204
+    id: ck5ztixto0i1b0i14s6gpjdys
     verified: false
-    hashtags: "#thursday, #mcbryan, #friday, #eternasacanagem"
-  - username: "dianamatos"
+    hashtags: "#tiktok, #leggings, #parrisgoebel, #corona"
+  - username: "adnjuliano"
     fullname: >-
-      DIANA MATOS
+      ADN Juliano
+    bio: >-
+      Choreographer & Teacher.📍🇵🇹 CEO @summerdancebrasil 🇧🇷 Judge @danceworldcup 🌍 Founder @alianzstreet 🔗 🥇@kodlatinamerica 💍@rimoldijuliana
     location: "Portugal"
-    followers: 118674
-    engagement: 604
-    commentsToLikes: 0.014913
-    id: ck5c9escvbax90i11ok8snu5w
-    verified: true
-    hashtags: "#day1s, #dontwastemytimechallenge, #quarantinechronicles, #quarantine"
+    followers: 20213
+    engagement: 354
+    commentsToLikes: 0.073475
+    id: ck6u7ftcel9bw0j71y7mkmqst
+    verified: false
+    hashtags: "#portugal, #bep, #leiria, #blackeyedpeas"
 ---

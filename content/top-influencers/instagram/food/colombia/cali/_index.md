@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Cali In 2020
 description: >-
-  Find top food Instagram influencers in Cali in 2020. Most popular hashtags: #covid #food #sunday #cali.
+  Find top food Instagram influencers in Cali in 2020. Most popular hashtags: #cali #colombia #food #love.
 platform: Instagram
+hits: 12
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
+  - username: "theclub1991"
+    fullname: >-
+      G a s t r o n o m i c o ®
+    bio: >-
+      🎩 Antojate con nuestras Reseñas ❤️ Aprendamos a Cocinar juntos 🏡Cali-Co. ⚡@karigarcesmorales @juansebascalvo
+    location: "Colombia"
+    followers: 22795
+    engagement: 147
+    commentsToLikes: 0.141087
+    id: ck6u9mpqkyezz0j71p26ise4j
+    verified: false
+    hashtags: "#calicultural, #recetascontheclub, #turismocali, #comensalescali"
+  - username: "calicolfit"
+    fullname: >-
+      LUZ MARINA GARCIA A 🐼🦄
+    bio: >-
+      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
+    location: "Colombia"
+    followers: 43808
+    engagement: 85
+    commentsToLikes: 0.048433
+    id: ck5zufszw2a0r0i14z8wpyi8c
+    verified: false
+    hashtags: "#love, #fitness, #fit, #vibes"
   - username: "juanpatetrae"
     fullname: >-
       Juanpatetrae 🔪
+    bio: >-
+      My history time = My daily life 😏🔥 Chef /Creador y buscador gastronómico 👨🏻‍🍳👀 Tiktok (+80K): Juanpatetrae Foodlover 🤤 I Love animals 🐾❤️ Cali 🇨🇴📍
     location: "Colombia"
-    followers: 6226
-    engagement: 988
-    commentsToLikes: 0.045434
+    followers: 7568
+    engagement: 439
+    commentsToLikes: 0.082879
     id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
+    hashtags: "#hombre, #tattoo, #colombia, #foodporn"
+  - username: "zacmorriss_"
+    fullname: >-
+      Zac Morris
+    bio: >-
+      🇺🇸➡️🇨🇴➡️🌎 Let’s go to Colombia ➡️ @adventure_better Pra português➡️ @zacfala Learn more⬇️
+    location: "Colombia"
+    followers: 582288
+    engagement: 717
+    commentsToLikes: 0.028423
+    id: ck8syjqubl0x90j784elg1sdt
+    verified: true
+    hashtags: "#english, #espa, #risa, #comida"
   - username: "foodfromtheheart"
     fullname: >-
       Lauren Arboleda
+    bio: >-
+      Food From the Heart™ Ganadora MasterChef Latino 2019 👩‍🍳 Mamá 🐒 x2 Author 📖 #pregnancyfromtheheart Recipe Developer Health Coach 💕 Cali-🇨🇴 📍Miami
     location: "Colombia"
     followers: 101887
     engagement: 155
     commentsToLikes: 0.040215
     id: ck0typeagnnfk0i19tbu4o2t8
     verified: false
-    hashtags: "#beans, #remolacha, #hongos, #kidsnutrition"
-  - username: "alett.frias"
+    hashtags: "#arepas, #greenpancakesfromtheheart, #feedfeed, #colombianfood"
+  - username: "gopetergoblog"
     fullname: >-
-      Alett
+      P E T E R  L E E 🧿
+    bio: >-
+      Fashion & Food Stylist - Art Director | GIRL POWER! |PTY - NYC|
     location: "Colombia"
-    followers: 15242
-    engagement: 549
-    commentsToLikes: 0.030549
-    id: ck5c8qd8qa0ve0i11cfl20hpt
+    followers: 20407
+    engagement: 148
+    commentsToLikes: 0.114164
+    id: ck5zwg95d62o00i14ekcc64ry
     verified: false
-    hashtags: "#thankyoulord, #delacabezaalospies, #urshancollege, #tuamorpormi"
-  - username: "calicolfit"
+    hashtags: "#jewelrygram, #foodporn, #fashionista, #fashionblogger"
+  - username: "mateo.vanegasvalderrama"
     fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
+      Mateo Vanegas Valderrama
+    bio: >-
+      🍔Si amas la comida este perfil es para ti 😛🍕 DIRECTOR COMERCIAL DE @redessocialesmanizales @activateplus 😎 CANAL @tour_del_sabor 🍔
     location: "Colombia"
-    followers: 35443
-    engagement: 96
-    commentsToLikes: 0.054930
-    id: ck5zufszw2a0r0i14z8wpyi8c
+    followers: 16453
+    engagement: 258
+    commentsToLikes: 0.306858
+    id: ck8syjpo7l0ti0j78new0wiiu
     verified: false
-    hashtags: "#facil, #glutes, #gluteo, #fresas"
-  - username: "mell_lazala_"
+    hashtags: "#caldas, #emprendedores, #comida, #moda"
+  - username: "polibamba"
     fullname: >-
-      Mell Lazala
+      Polibamba Humor 👨🏾‍✈️
+    bio: >-
+      🎤|Lider Social 👨🏾‍✈️| @dinamitatenorio 🧨| @saopaulofccali 𝐏𝐮𝐛𝐥𝐢𝐜𝐢𝐝𝐚𝐝 whatsapp 3175736459 #Noseprecipite Clic⬇️LINK ”ELLA ES DIFERENTE”🧨TV👇👇👇
     location: "Colombia"
-    followers: 38996
-    engagement: 888
-    commentsToLikes: 0.137206
-    id: ck15sfxlrctg70i19pbo3nmq8
+    followers: 276110
+    engagement: 208
+    commentsToLikes: 0.035363
+    id: ck0txid8uj9e30i19a6me380l
     verified: false
-    hashtags: "#tiktok, #colombia, #santamarta, #sanandres"
-  - username: "gatoderisa"
+    hashtags: "#policianacional, #fe, #losbelicos, #polibamba"
+  - username: "lacoachdevida"
     fullname: >-
-      Jonathan Gato
+      Susana Arango
+    bio: >-
+      ❤️Cuenta personal @susana.arangog 🏃🏽‍♀️Rutinas de entrenamiento 🥦Estudiante Máster Nutrición y dietética 🙋‍♀️Health Coach IIN ☝️DM para asesorías
     location: "Colombia"
-    followers: 41686
-    engagement: 488
-    commentsToLikes: 0.044156
-    id: ck0vy0lyt1neh0i19kgpjrjvx
+    followers: 49192
+    engagement: 136
+    commentsToLikes: 0.048954
+    id: ck5hozz5qqiu00i11nft64l7i
     verified: false
-    hashtags: "#halloween, #queen, #marcha, #beach"
-  - username: "chico_videos"
+    hashtags: "#delicioso, #fitnessmotivations, #instagramers, #fitlife"
+  - username: "marianelamodel"
     fullname: >-
-      chico videos⚡️
+      Marianela💋Ramos
+    bio: >-
+      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
     location: "Colombia"
-    followers: 6716
-    engagement: 678
-    commentsToLikes: 0.153182
-    id: ck5zknnuljt8r0i14em8bsfna
+    followers: 62036
+    engagement: 608
+    commentsToLikes: 0.034867
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#20likes, #food, #style, #friends"
-  - username: "kodachiphotos"
-    fullname: >-
-      KODACHI 🕶️
-    location: "Colombia"
-    followers: 16457
-    engagement: 179
-    commentsToLikes: 0.048740
-    id: ck5zuf1y828nk0i143w6tpouj
-    verified: false
-    hashtags: "#palms, #gorgeous, #espa, #covergirl"
-  - username: "guillodeviaje"
-    fullname: >-
-      Guillo Enciso | Travel & Food
-    location: "Colombia"
-    followers: 18638
-    engagement: 179
-    commentsToLikes: 0.113565
-    id: ck5hrs59jvdwb0i11i0ys8ta4
-    verified: false
-    hashtags: "#butterfly, #modocuarentena, #medioambiente, #graffiti"
-  - username: "juanseayala"
-    fullname: >-
-      Juan Sebastián Ayala
-    location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
-    verified: false
-    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
+    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
 ---

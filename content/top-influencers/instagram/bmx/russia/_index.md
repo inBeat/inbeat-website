@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Russia In 2020
 description: >-
-  Find top bmx Instagram influencers in Russia in 2020. Most popular hashtags: #bmxrussia #birthday #winter #bmxforever.
+  Find top bmx Instagram influencers in Russia in 2020. Most popular hashtags: #bmx #bmxlife #bmxrussia #bmxfamily.
 platform: Instagram
+hits: 84
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 84 Instagram influencers like this in Russia for you to connect with.
 profiles:
+  - username: "tigripoops"
+    fullname: >-
+      🐯TIGER🐾
+    bio: >-
+      🌎RUSSIA,MOSCOW 🔥BMX RIDER 🎥VIDEO/CLIPS 🧨YOUTUBE КАНАЛ👇🏾
+    location: "Russia"
+    followers: 19620
+    engagement: 3416
+    commentsToLikes: 0.103031
+    id: ck6ueen1tqgz80j712u8txgd5
+    verified: false
+    hashtags: "#bmx"
+  - username: "alex_lagutkina"
+    fullname: >-
+      Sasha Lagutkina 🇷🇺
+    bio: >-
+      🇷🇺 St. Petersburg,Russia↔️Skopje,Mk 🇲🇰 💗BMX rider👑 💗SPBU Faculty of law🏛 💗Partnership: DM me🧸 💗@4130_shop @darebmx⚙️ 🐰Bad ideas make best memories🐾
+    location: "Russia"
+    followers: 12127
+    engagement: 1291
+    commentsToLikes: 0.021800
+    id: ck5zwbwqm5urx0i14hntyfzat
+    verified: false
+    hashtags: "#saintpetersburg, #bmx, #bmxforlife, #instabmx"
   - username: "olya_bmx"
     fullname: >-
       Olga Farfutdinova 🇷🇺
+    bio: >-
+      🚲 BMX rider✈️🌏 ⚙️ @alienationbmx @khe_bikes🚴🏼‍♀️ 💌 Partnership - DM or mail💵
     location: "Russia"
-    followers: 41039
-    engagement: 992
-    commentsToLikes: 0.009004
+    followers: 38925
+    engagement: 934
+    commentsToLikes: 0.010306
     id: ck5q3ksnal7uf0i11sj9oeyok
     verified: false
-    hashtags: "#tubolitotubes, #oldphoto, #khebikes, #tbt"
+    hashtags: "#bmxrussia, #bmxfamily, #ridebmx, #bmxstreet"
   - username: "roman_khayrutdinov"
     fullname: >-
       ROMAN KHAYRUTDINOV⚡️BMX
+    bio: >-
+      Russian national team BMX athlete 🇷🇺 With bike around the world🌴 @gorillaenergy @Raenshop @skills_wear ❤️My girl @elizabethlizardbmx 🚴🏼 📽My channel
     location: "Russia"
-    followers: 43285
-    engagement: 740
-    commentsToLikes: 0.008467
+    followers: 43114
+    engagement: 629
+    commentsToLikes: 0.009598
     id: ck5q6tqkays6d0i11xibzwaqs
     verified: false
-    hashtags: "#china, #lovemylife, #bmxcali, #italytravel"
+    hashtags: "#bmxfreestyle, #bmxbike, #estonia, #bmxlove"
   - username: "kruglovak"
     fullname: >-
       Katya Kruglova
+    bio: >-
+      Professional BMX rider🇷🇺 Russian champion 2020 🏆🚲🥇🥈 street | park | flatland Sponsorship: @ymkashix @fourpegsbmx ride | travel | lifestyle 📩dm
     location: "Russia"
-    followers: 5506
-    engagement: 996
-    commentsToLikes: 0.022224
+    followers: 5676
+    engagement: 776
+    commentsToLikes: 0.035543
     id: ck5zoiunqqnrv0i14v1l5w8ha
     verified: false
-    hashtags: "#flatland, #fisechengdu, #thebloombmxawards, #simplesession"
-  - username: "yaroslava.89"
-    fullname: >-
-      Yaroslava Bondarenko
-    location: "Russia"
-    followers: 20377
-    engagement: 507
-    commentsToLikes: 0.010450
-    id: ck14ki6inpma80i193o7szwio
-    verified: false
-    hashtags: "#bicycle, #zolder, #89, #circuitzolder"
+    hashtags: "#bmx, #bmxgirl, #bmxpark, #bmxlife"
   - username: "anaralliev"
     fullname: >-
       Anar Aliev
+    bio: >-
+      BMX RIDER🇷🇺 17 years old🍭 🌍@mankindbmx 👹@hellridebikeshop
     location: "Russia"
-    followers: 10241
-    engagement: 1726
-    commentsToLikes: 0.029332
+    followers: 11588
+    engagement: 2229
+    commentsToLikes: 0.037839
     id: ckap3eimy2qou0i78182vy7jj
     verified: false
-    hashtags: "#bmxashka"
-  - username: "artem.else"
-    fullname: >-
-      Artem Else
-    location: "Russia"
-    followers: 5107
-    engagement: 481
-    commentsToLikes: 0.020036
-    id: ck5zyxtdlapzd0i141mesnjo2
-    verified: false
-    hashtags: "#film, #birthday"
-  - username: "prtppv_kirill"
-    fullname: >-
-      Кирилл Протопопов ⛩
-    location: "Russia"
-    followers: 5774
-    engagement: 2941
-    commentsToLikes: 0.029805
-    id: ck5cb86ipex980i11ww7r4irq
-    verified: false
-    hashtags: "#redbullbike, #digbmx, #bmxallday, #scootertricks"
+    hashtags: "#hellridebikeshop, #mankindbmx, #bmx, #bmxlife"
   - username: "arseny_slyshkin"
     fullname: >-
-      Балван
+      Сеня
+    bio: >-
+      🚲(BMX)🚲 💘My sponsor @xsastore 💘 👦🏼1️⃣5️⃣years old👦🏼 🇷🇺Shakhty,Russia🇷🇺 🏆Победитель Чемпионата России по BMX🏆
     location: "Russia"
-    followers: 6829
-    engagement: 2588
-    commentsToLikes: 0.028110
+    followers: 6638
+    engagement: 2159
+    commentsToLikes: 0.036544
     id: ck5hjks3igsuu0i11zdqeaxtf
     verified: false
     hashtags: ""
+  - username: "pashazhuravlev_bmx"
+    fullname: >-
+      ✌️Pavel Zhuravlev✌️
+    bio: >-
+      🌆Chelyabinsk, Russia 🇷🇺 🚲 Riding BMX 🚴🏻 🎬 Editing videos 🎬 💥20 years old 🔥 🤘Folow me 🤘
+    location: "Russia"
+    followers: 4554
+    engagement: 2230
+    commentsToLikes: 0.062470
+    id: ck8tcv2xr0snc0j78x5pzlbg7
+    verified: false
+    hashtags: "#crashchallenge, #bmx, #bmxrussia, #tusaenergydrink"
   - username: "holodnyakovartem"
     fullname: >-
       HOLODNYAKOV  ₳RTEM
+    bio: >-
+      BMX RIDER FROM RUSSIA🇷🇺 17 YEARS OLD ❄️Chelyabinsk / Krasnodar🌴 small bike, big plans💞
     location: "Russia"
-    followers: 10016
-    engagement: 1856
-    commentsToLikes: 0.024027
+    followers: 9907
+    engagement: 1719
+    commentsToLikes: 0.030751
     id: ckap3eiou2qq30i787th4gx3t
     verified: false
-    hashtags: "#bmxlive, #bmxrussianteam, #insidebmx, #bmrussia"
-  - username: "maltsevstrs"
+    hashtags: "#bmx, #bmxlife, #bmxrussia, #zainside"
+  - username: "prtppv_kirill"
     fullname: >-
-      Алексей Мальцев
+      Кирилл Протопопов ⛩
+    bio: >-
+      @enafbrand #bmx#bmxstyle#bmxlive
     location: "Russia"
-    followers: 9633
-    engagement: 687
-    commentsToLikes: 0.075872
-    id: ck5znl9owooyv0i14h42vjzjo
+    followers: 5808
+    engagement: 1366
+    commentsToLikes: 0.053086
+    id: ck5cb86ipex980i11ww7r4irq
     verified: false
-    hashtags: "#birthday, #gogolevmuseum, #lincoln, #streetart"
+    hashtags: "#bmxstreet, #4pegs, #bmxrider, #bmxlifestyle"
 ---

@@ -1,32 +1,41 @@
 ---
 title: Top 10 Surf Instagram Influencers In 2020
 description: >-
-  Find top surf Instagram influencers in 2020. Most popular hashtags: #beachbreak # #unawatunabeach #naturalportrait.
+  Find top surf Instagram influencers in 2020. Most popular hashtags: #surf #surftrip #waves.
 platform: Instagram
+hits: 8421
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 8421 Instagram influencers like this for you to work with.
 profiles:
   - username: "raonimonteirooficial"
     fullname: >-
       Raoni Monteiro
+    bio: >-
+      Surf
     location: "Brazil"
-    followers: 38816
-    engagement: 469
-    commentsToLikes: 0.043480
+    followers: 40216
+    engagement: 455
+    commentsToLikes: 0.041324
     id: ck0tz0wxbopny0i19n644y3kd
     verified: true
-    hashtags: "#fam, #novacbsurfja, #localsonly, #aproveitaqpassarapido"
+    hashtags: "#barrinha, #quarentinedays, #familyfirst, #quarentenadays"
   - username: "surf___world"
     fullname: >-
       SURF
+    bio: >-
+      BEST SURF VIDEOS 🏄🏼🌊 Videos are not mine, credits are for the surfers and filmmakers, follow them for more #surf__world
     location: "United States"
     followers: 58752
     engagement: 331
     commentsToLikes: 0.007669
     id: ck14lqq72w0l80i19nle0kkip
     verified: false
-    hashtags: "#snow, #snowboardlove, #snowboarder, #skatevideo"
+    hashtags: "#earth, #surfbeach, #surfersparadise, #enjoy"
   - username: "18secondsmagazine"
     fullname: >-
       SURF
+    bio: >-
+      Bits & pieces from Aus' original digi surf mag. We're an electronic sea, inspired by swell, straight outta Currumbin. DM for private water photog sesh
     location: "Australia"
     followers: 77687
     engagement: 256
@@ -37,71 +46,85 @@ profiles:
   - username: "sabrenorris"
     fullname: >-
       S A B R E   N O R R I S
+    bio: >-
+      •YOUTUBER •SURFER •SKATEBOARDER •SISTER •4 million YouTube #legends @biggynorris @sockie.norris @naznorris @disco.norris management@norrisnuts.com
     location: "United States"
-    followers: 747195
-    engagement: 1358
-    commentsToLikes: 0.048515
+    followers: 816557
+    engagement: 1416
+    commentsToLikes: 0.049942
     id: ck14lsvucwb9s0i19233rnyf6
     verified: true
-    hashtags: "#ad, #woolworths, #legends, #proud"
-  - username: "gioingeo_"
+    hashtags: "#legends, #heroes, #imdoingitfor, #legendarmy"
+  - username: "mohsenrazmjoo6"
     fullname: >-
-      Giorgia |Full-time Backpacker🌏
-    location: "Italy"
-    followers: 2424
-    engagement: 3057
-    commentsToLikes: 0.161437
-    id: ckap9uk5ftp040i78him1qlzn
-    verified: false
-    hashtags: "#openocean, #sudestasiatico, #travelp, #endlessocean"
-  - username: "daniellesoceanwanders"
-    fullname: >-
-      💦✨
-    location: ""
-    followers: 11797
-    engagement: 1555
-    commentsToLikes: 0.069782
-    id: ck5cjsg79veps0i11xe9qz83h
+      🇩🇪Mo🇮🇷 (Persian)
+    bio: >-
+      Lifeguard🏊‍♂️ Surf Trainer🏄🏻‍♂️ #tropicalislandberlin
+    location: "Germany"
+    followers: 2685
+    engagement: 2594
+    commentsToLikes: 0.122471
+    id: ckap804bbm9h10i780ntkqwrc
     verified: false
     hashtags: ""
   - username: "naznorris"
     fullname: >-
       N A Z    N O R R I S
-    location: ""
-    followers: 589034
-    engagement: 1507
-    commentsToLikes: 0.043837
+    bio: >-
+      *Parent runs this account* Naz likes to surf, skate and blow kisses 😘@sabrenorris @norrisnuts @biggynorris @disco.norris @sockie.norris @charmnorris
+    location: "United States"
+    followers: 652768
+    engagement: 1486
+    commentsToLikes: 0.043030
     id: ck14lswjzwbdj0i19uzafvpr5
     verified: false
     hashtags: ""
-  - username: "jennadavis"
+  - username: "evelynbotto"
     fullname: >-
-      Jenna Davis
-    location: "United States"
-    followers: 1072676
-    engagement: 658
-    commentsToLikes: 0.032724
-    id: ck5c6s42q62vi0i11usj3mzqx
-    verified: true
-    hashtags: "#sweetsixteen"
-  - username: "marshallgradisnik"
-    fullname: >-
-      Wyatt 🇦🇺
-    location: "Australia"
-    followers: 22225
-    engagement: 855
-    commentsToLikes: 0.236753
-    id: ck15uf48cmvfc0i19eqhu5yzq
+      Evelyn Botto
+    bio: >-
+      Locutora • Conductora • Actríz de doblaje • Cantante Musical surfer Voiceover x @fmlike Viernes x @perroscalle Domingo x @weekender951 x @metro951
+    location: "Argentina"
+    followers: 110461
+    engagement: 578
+    commentsToLikes: 0.065028
+    id: ck5zuc9i7232r0i1414xphvp4
     verified: false
-    hashtags: "#modeling, #avenuemontaigne, #amourparis, #parisianamour"
-  - username: "repkatieporter"
+    hashtags: "#euphoria, #makeup, #makeupslaves, #red"
+  - username: "andreita17"
     fullname: >-
-      Rep. Katie Porter
-    location: "United States"
-    followers: 74954
-    engagement: 647
-    commentsToLikes: 0.043573
-    id: ck137zia6drv40i197r5im4e8
-    verified: true
-    hashtags: "#mlkday2020, #internationalholocaustremembranceday, #valentinesforvets, #2020census"
+      Andrea Hernandez Abrajim
+    bio: >-
+      DR🇩🇴&CO🇨🇴 • Surfer - Traveler - Filmmaker @manneafilms🌴 // @kebanabyandreita17 @uailua Collabs: 💌 alockward@andreita17.com
+    location: "Dominican Republic"
+    followers: 41316
+    engagement: 580
+    commentsToLikes: 0.142989
+    id: ck15pv9nyzsva0i196134eie4
+    verified: false
+    hashtags: "#surf, #dominicanrepublic, #beachbum, #surfergirl"
+  - username: "kemily_sampaio"
+    fullname: >-
+      Kemily Sampaio
+    bio: >-
+      🇧🇷 🏆 A Tribuna surf colegial 18/19 🏆 Praiagrandense/ Vicentino/ Santista 18/19 🥈 Vice-campeã Paulista /19 🥉 Brasileiro femenino/19 🥉CBSurf/19
+    location: "Brazil"
+    followers: 16665
+    engagement: 744
+    commentsToLikes: 0.070151
+    id: ck6u4eqlj3alp0j71py7h0f0a
+    verified: false
+    hashtags: "#surfista, #praiadatiririca, #roxy, #girl"
+  - username: "adauto.costa"
+    fullname: >-
+      Adauto Costa
+    bio: >-
+      Escola de Surf Stella Surf School @stellasurfschool @oficinastellasurfschool WhatsApp 71 991022239
+    location: "Brazil"
+    followers: 3028
+    engagement: 1878
+    commentsToLikes: 0.124782
+    id: ck6tvcprilhe00j71bafvbvnh
+    verified: false
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Brazil In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Brazil in 2020. Most popular hashtags: #summer #beach #influencer #selfie.
+  Find top lifestyle Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #praia #lookdodia.
 platform: Instagram
+hits: 4086
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 4086 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "bstevanatto_"
+  - username: "lelemageste"
     fullname: >-
-      Bᥲ́rbᥲrᥲ Stᥱvᥲᥒᥲtto
+      Letícia Mageste | Maquiagem
+    bio: >-
+      💥 Vida real nos stories • Belo Horizonte | 19 Dicas • maquiagem • cabelo • lifestyle • Nada é maior que o amor 💓
     location: "Brazil"
-    followers: 2482
-    engagement: 2645
-    commentsToLikes: 0.185050
-    id: ckapaoryvww6z0i78m55utwja
+    followers: 14542
+    engagement: 3548
+    commentsToLikes: 0.257544
+    id: ck14ih234fd090i19h46xpdbv
     verified: false
-    hashtags: ""
-  - username: "helenacoelhooo"
+    hashtags: "#memesbrasil, #tbt, #reelsinstagram, #lookinspira"
+  - username: "grazig_"
     fullname: >-
-      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+      GRAZIELI GONÇALVES
+    bio: >-
+      lifestyle 🤍 @desapegosdagra_
     location: "Brazil"
-    followers: 455499
-    engagement: 2440
-    commentsToLikes: 1.664794
-    id: ck0u0az0ut4qf0i19ylg3kdyp
+    followers: 3957
+    engagement: 2260
+    commentsToLikes: 2.931482
+    id: ck9hb00kyesm00j78h00ujxgg
     verified: false
-    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
-  - username: "gabsxaviier"
+    hashtags: "#brabachallenge, #tbt"
+  - username: "_fabiosilveira"
     fullname: >-
-      Gabriella
+      Fábio Silveira
+    bio: >-
+      Enquanto Deus for meu chão, não há quem me derrube.☝🏼 Lifestyle 🤳🏼 Papai do Apólo 💙 Assessoria: (71) 996180276 📩: Contato.fabiosilveira@outlook.com
     location: "Brazil"
-    followers: 10480
-    engagement: 2206
-    commentsToLikes: 0.079332
-    id: ck14j5f1nipvs0i19c2sna5h2
+    followers: 769540
+    engagement: 1695
+    commentsToLikes: 0.433951
+    id: ck9wfe39uogjq0j7837xc62g8
     verified: false
-    hashtags: "#lookdodia, #blogueirinha, #goodvibes, #modafeminina"
-  - username: "michelle_gassen"
-    fullname: >-
-      𝐌𝐢𝐜𝐡𝐞𝐥𝐥𝐞 𝐆𝐚𝐬𝐬𝐞𝐧 🦋 𝐒𝐚𝐨 𝐋𝐞𝐨𝐩𝐨𝐥𝐝𝐨
-    location: "Brazil"
-    followers: 7325
-    engagement: 1730
-    commentsToLikes: 0.372050
-    id: ck15pc4ccx5120i19745ycq6b
-    verified: false
-    hashtags: "#redheadsrule, #redhairgirl, #gingers, #ruivasdobrasil"
+    hashtags: "#passaprolado, #posteipqgostei, #feriadodepazatodos, #sanj"
   - username: "samuelcarvalho_0"
     fullname: >-
       Samuel Carvalho
+    bio: >-
+      BA ✈️ SP📍 Barber: @barbersmc 💈 Cacheado | LifeStyle | Hairstylist
     location: "Brazil"
-    followers: 21334
-    engagement: 1438
-    commentsToLikes: 0.069978
+    followers: 29717
+    engagement: 1527
+    commentsToLikes: 0.146260
     id: ck15ra0qg6w9j0i19893dwxy7
     verified: false
-    hashtags: "#garotocacheadochallenge, #garotocacheado"
+    hashtags: "#123sentandochallenge"
+  - username: "anajuliach"
+    fullname: >-
+      🧿 Ana Júlia M. Chiamolera
+    bio: >-
+      Lifestyle | Healthy 👩🏻‍💻Gerente Wave Centro @academiawave| @maju_healthyfood ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀ Balneário Camboriú - SC
+    location: "Brazil"
+    followers: 8483
+    engagement: 1448
+    commentsToLikes: 0.083971
+    id: ckaos38wppyp40i78spyfavhi
+    verified: false
+    hashtags: "#bomdia, #sc, #sunnyday, #onlygoodvibes"
   - username: "wladyapinheiro_"
     fullname: >-
       W L A D Y A  P I N H E I R O
+    bio: >-
+      Lifestyle|Fashion|Fitness|Empresária BOSS: @mirlaconceito 👗 @pinheiro.acai 🍧 Modelo fotográfica📸 @leoninasfec 🦁 @ayrton_pinheiroo 😍❤️
     location: "Brazil"
-    followers: 19243
-    engagement: 1170
-    commentsToLikes: 0.072770
+    followers: 23682
+    engagement: 1409
+    commentsToLikes: 0.539445
     id: ck9wdwvc5hmpd0j788ol4m86j
     verified: false
-    hashtags: "#summer, #joseavelino, #laion, #lifestyle"
-  - username: "juliasouzaj"
+    hashtags: "#inspiration, #instablog, #fotododia, #digitalinfluencer"
+  - username: "vifernann"
     fullname: >-
-      Júlia Antunes ✨
+      Viviane Fernandes 🏳️‍🌈
+    bio: >-
+      • Moda • Beleza • Lifestyle • • criadora de conteúdo • taboão da serra - sp • tá tudo bem, tá tudo ótimo •
     location: "Brazil"
-    followers: 267904
-    engagement: 1131
-    commentsToLikes: 0.235878
-    id: ck0w1tcpil1q40i194y7tnxc6
+    followers: 9103
+    engagement: 1364
+    commentsToLikes: 0.134803
+    id: ck8t5eu3q9wwr0j78m6gpvk58
     verified: false
-    hashtags: "#challenge, #colorchallenge, #corpolivre, #juantunesinspira"
-  - username: "krztony"
+    hashtags: "#1peca3looks"
+  - username: "nandamieiro"
     fullname: >-
-      Tony An
+      Fernanda Mieiro
+    bio: >-
+      • Fiz dessa rotina meu ponto de paz 🏋🏼‍♀️/🍎 Fitness lifestyle 📍| Rio das Ostras - RJ
     location: "Brazil"
-    followers: 37672
-    engagement: 929
-    commentsToLikes: 0.063115
-    id: ck13d9p124d4f0i19e3bdr2n1
+    followers: 7848
+    engagement: 1345
+    commentsToLikes: 0.114169
+    id: ck14ip99qgji60i19d46dnd76
     verified: false
     hashtags: ""
-  - username: "adyllacoimbra"
+  - username: "euosol"
     fullname: >-
-      𝐀𝐃𝐘𝐋𝐋𝐀 𝐂𝐎𝐈𝐌𝐁𝐑𝐀
+      ⠀⠀⠀S O L ☀️
+    bio: >-
+      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
     location: "Brazil"
-    followers: 20812
-    engagement: 923
-    commentsToLikes: 0.473419
-    id: ck9we72i3iwuq0j78qx1yxfjh
+    followers: 22411
+    engagement: 1190
+    commentsToLikes: 0.193451
+    id: ck8t5ckqu9ngl0j7824nwj8lj
     verified: false
-    hashtags: "#mesversario, #stayhome, #babyshower, #tiktok"
-  - username: "ramonbernardess"
+    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
+  - username: "kertes_"
     fullname: >-
-      Ramon Bernardes
+      Bruna Kertes
+    bio: >-
+      lifestyle | geek | games | food | decor 💌oikertes@gmail.com
     location: "Brazil"
-    followers: 110430
-    engagement: 904
-    commentsToLikes: 0.058115
-    id: ckap6ngapgn1j0i78ojpmukr5
+    followers: 16014
+    engagement: 1092
+    commentsToLikes: 0.231020
+    id: ck8t1xukqxh7w0j785qxr2ypi
     verified: false
-    hashtags: "#exnamtv, #exnoprimevideo"
+    hashtags: "#ape41a, #silverhair, #platinado, #scandihome"
 ---

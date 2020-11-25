@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Izmir In 2020
 description: >-
-  Find top fitness Instagram influencers in Izmir in 2020. Most popular hashtags: #fitness #izmir #like #bodybuilding.
+  Find top fitness Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #fitness #istanbul #tbt.
 platform: Instagram
+hits: 42
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 42 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
-  - username: "derya___kaya___"
+  - username: "kisceguncem"
     fullname: >-
-      𝓓𝓮𝓻𝔂𝓪 𝓴𝓪𝔂𝓪 ✨
+      Esra ÖZTÜRK
+    bio: >-
+      #influencer #göçmenkızı 👩🏼‍💻Digital Marketing 📍İstanbul 🏕Cold air, dark night🌚, warm fire🔥, bright stars🌟
     location: "Turkey"
-    followers: 43088
-    engagement: 227
-    commentsToLikes: 0.002881
-    id: ckap3ajh728lr0i78dydv2zrz
+    followers: 33390
+    engagement: 180
+    commentsToLikes: 0.526927
+    id: ck0vypkc055w20i19r6z4i4z9
     verified: false
-    hashtags: "#model, #mycaudaliebox, #love, #homemade"
-  - username: "dszgn"
+    hashtags: "#interrailturkiye, #kampciyiz, #taksim, #kisceguncemdebug"
+  - username: "kuafor.hasan34"
     fullname: >-
-      Deniz Sezgin
+      KUAFÖR HASAN
+    bio: >-
+      ✂️✂️✂️👍 ✂️ HAİR STYLİST ✂️
     location: "Turkey"
-    followers: 6371
-    engagement: 1140
-    commentsToLikes: 0.139959
-    id: ck9hbt3usibwo0j78r1etvy9n
+    followers: 9912
+    engagement: 443
+    commentsToLikes: 0.037277
+    id: ck8t8wc01m3880j78a8ibij2g
     verified: false
-    hashtags: "#yeni, #visit, #haircolor, #girl"
-  - username: "zjgulen"
+    hashtags: "#alaattin, #film, #tras, #cukur"
+  - username: "ozgurcegezi"
     fullname: >-
-      Gülen Arzuman
+      My family and me
+    bio: >-
+      Objektifin arkasında olmayı seviyorum 😊 #travel #traveller #gezi #gezgin #izmir #photography #nikon #d7000 #fitness #gym #doğa #animals #Galatasaray
     location: "Turkey"
-    followers: 22157
-    engagement: 554
-    commentsToLikes: 0.064006
-    id: ck5hp1iycqlia0i11bt4xln7y
+    followers: 2592
+    engagement: 1082
+    commentsToLikes: 0.135643
+    id: ckf5xioo2vtfn0j23o3rqgae0
     verified: false
-    hashtags: "#izmir, #muchacha, #cute, #dogslover"
-  - username: "zeynepseenell"
+    hashtags: "#travelmore, #letsgosomewhere, #traveller, #ka"
+  - username: "_sedayaprak_"
     fullname: >-
-      
+      seda yaprak
+    bio: >-
+      💋 TARZ HATUN 😘 ❤ MANAVGAT / ANTALYA 👧
     location: "Turkey"
-    followers: 5673
-    engagement: 1614
-    commentsToLikes: 0.020053
-    id: ck8t38n942c2g0j78nnsp53l2
+    followers: 51969
+    engagement: 144
+    commentsToLikes: 0.037235
+    id: ckap5cy7nb43u0i78sk27ndjt
     verified: false
-    hashtags: "#efsanelerveger, #sehidimizvar, #pembe, #komikvideolar"
-  - username: "ssemaakbulut"
+    hashtags: "#mu, #birle, #tatil, #yaz"
+  - username: "filizaydinc"
     fullname: >-
-      Sema akbulut
+      Filiz Aydinc
+    bio: >-
+      Lives virginia Usa🇺🇸İzmir’li🇹🇷❤️nature travel photography me
     location: "Turkey"
-    followers: 6451
-    engagement: 1002
-    commentsToLikes: 0.018554
-    id: ck8t5erco9wkq0j7871hkqo84
+    followers: 140174
+    engagement: 121
+    commentsToLikes: 0.038736
+    id: ck8tcx2q310ih0j78uv4lrp1k
     verified: false
-    hashtags: "#smilemore, #hound, #selfies, #reminisce"
-  - username: "zayiflama_perisii"
+    hashtags: "#manzara, #green, #summer, #holiday"
+  - username: "mrtzldg"
     fullname: >-
-      BİTKİSEL ZAYIFLAMA
+      mrtzldg
+    bio: >-
+      Instagram ve e-Devlet dışında bir hesabım yok. Dexter ➡️ @keeppuggin 📍İzmir
     location: "Turkey"
-    followers: 36502
-    engagement: 332
-    commentsToLikes: 0.025105
-    id: ck8tbm0sxw6mg0j78lxza6h5b
+    followers: 7056
+    engagement: 710
+    commentsToLikes: 0.022053
+    id: ckf5usin7m55z0j23gnggjj88
     verified: false
-    hashtags: "#kafaa, #fitness, #yazgeldihosgeldi00, #ksftblueorf"
-  - username: "erim_karayel"
+    hashtags: "#cardio, #hoscos, #dogstagram, #tattoo"
+  - username: "egephoto"
     fullname: >-
-      Erim Karayel
+      Fotolog 🎥
+    bio: >-
+      Memleketin Özgürlük Kalesidir İzmir.🗼 Doğa 🍃 / Sanat 🖼 / Atatürk 🇹🇷 / Travel 🚌 Welcome to my life.👋🏼
     location: "Turkey"
-    followers: 8035
-    engagement: 717
-    commentsToLikes: 0.019167
-    id: ck8tbgcjsvjy00j78ej98t6uc
+    followers: 2242
+    engagement: 4429
+    commentsToLikes: 0.021577
+    id: ckf5xekxgvds80j234d6bazfy
     verified: false
-    hashtags: "#1000gezgin, #ajans, #eyeshadow, #sahne"
-  - username: "tintedtakes"
+    hashtags: "#takipedenitakipederim, #marmaris, #kamp, #dog"
+  - username: "omurabay"
     fullname: >-
-      Nihal
+      abay_ömür
+    bio: >-
+      🌎INT’L FitnessPresenter. in—🇹🇷🇺🇸 🇬🇧 🇷🇺🇫🇷🇵🇱🇧🇪🇷🇴🇧🇦🇧🇴🇬🇹🇱🇧🇵🇪🇨🇭🇳🇱🇧🇩 . 📌Fitness Modeling @mensfitnesstr @womensfitnesstr 📍Turkey 🇹🇷👉🏻 @omurabay_fitclub
     location: "Turkey"
-    followers: 11801
-    engagement: 662
-    commentsToLikes: 0.033018
-    id: ck6tqpby1sxw10j71sizukhs3
+    followers: 34283
+    engagement: 184
+    commentsToLikes: 0.035683
+    id: ck14kxvxkrver0i194uqud60g
     verified: false
-    hashtags: "#moody, #lamborghinihuracan, #carporn, #writetotravel"
-  - username: "laura.charlie.elise.verloop"
+    hashtags: "#instagram, #dansturkey, #zumbasalsa, #zumbaomurabay"
+  - username: "doctorhakantufekci"
     fullname: >-
-      𝓛𝓪𝓾𝓻𝓪 𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝓔𝓵𝓲𝓼𝓮 𝓥𝓮𝓻𝓵𝓸𝓸𝓹
+      Dr. Hakan Tüfekçi 👑
+    bio: >-
+      inspired by medical aesthetics. Başka ek ya da yeni profil, fan sayfası yoktur.
     location: "Turkey"
-    followers: 14290
-    engagement: 275
-    commentsToLikes: 0.037449
-    id: ck5q9xl2hdilf0i11affqpz2g
+    followers: 56605
+    engagement: 685
+    commentsToLikes: 0.018599
+    id: ckap5e1wcb98b0i78r99ato5u
     verified: false
-    hashtags: "#instagram, #roos, #smell, #hike"
-  - username: "runtheislandbozcaada"
+    hashtags: "#kupaterapi, #tbt, #corona, #izmir"
+  - username: "xphalitxp"
     fullname: >-
-      Run The Island Bozcaada
+      Temizkan_halidd
+    bio: >-
+      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
     location: "Turkey"
-    followers: 4612
-    engagement: 155
-    commentsToLikes: 0.015890
-    id: ck0tyhqhcmvhs0i19tfnltnu4
+    followers: 10140
+    engagement: 406
+    commentsToLikes: 0.098382
+    id: ckapb2imgybv80i789vnokj18
     verified: false
-    hashtags: "#fitness, #meydanoku, #summeriscoming, #byciclerace"
+    hashtags: "#dog, #kids, #instalike, #bestoftheday"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In New York In 2020
 description: >-
-  Find top christian Instagram influencers in New York in 2020. Most popular hashtags: #christian #sponsored #beauty #ad.
+  Find top christian Instagram influencers in New York in 2020. Most popular hashtags: #ad #viral #christian #explorepage.
 platform: Instagram
+hits: 59
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 59 Instagram influencers like this in New York, United States for you to contact.
 profiles:
   - username: "thejudge44"
     fullname: >-
       Aaron Judge
+    bio: >-
+      Christian. New York. @allriseofficial
     location: "United States"
-    followers: 1183744
-    engagement: 769
-    commentsToLikes: 0.009861
+    followers: 1208806
+    engagement: 526
+    commentsToLikes: 0.011765
     id: ck0tsyfl00g710i19xh9yb120
     verified: true
-    hashtags: "#givemealsgivehope, #jblxjudge, #sutro, #oakleyprizm"
-  - username: "justinmpacker"
+    hashtags: "#createdwithadidas, #therealheroes, #hulu, #ad"
+  - username: "famousangel7"
     fullname: >-
-      JUSTIN MARK PACKER
+      Fatmanbandit💫
+    bio: >-
+      Comedy 🥩 artist CEO of FMBG #fatmanbanditGang New single out now go buy it go stream it ❤️ gb garden boy shit /for bookings dm @tnasty._
     location: "United States"
-    followers: 41064
-    engagement: 591
-    commentsToLikes: 0.065483
-    id: ck8szs3enpian0j78tzf3wc28
+    followers: 43022
+    engagement: 905
+    commentsToLikes: 0.016862
+    id: ckaotohqwwsd80i7806ijjnl9
     verified: false
-    hashtags: "#christian, #instautah, #homedecoration, #newyorkbound"
-  - username: "bnimmo24"
+    hashtags: "#wtfvideos, #funnyshit, #comedy, #wshh"
+  - username: "air.say"
     fullname: >-
-      Brandon Nimmo
+      Ese
+    bio: >-
+      🇳🇬 🇺🇸 Port Harcourt breed 📍New York
     location: "United States"
-    followers: 62731
-    engagement: 766
-    commentsToLikes: 0.017256
-    id: ck6txf275xgxu0j71w23yg932
-    verified: true
-    hashtags: "#fl, #shimano, #inshore, #citifield"
+    followers: 7696
+    engagement: 878
+    commentsToLikes: 0.066767
+    id: ckap0a6q5pflh0i78wv0bvy4g
+    verified: false
+    hashtags: "#loveyou, #blackgirlmagic, #girl, #interracialcouple"
   - username: "christianbendek"
     fullname: >-
       CHRISTIAN BENDEK
+    bio: >-
+      The endless follies and tiny triumphs of a giant disaster.📍New York.
     location: "United States"
-    followers: 152664
-    engagement: 299
-    commentsToLikes: 0.030197
+    followers: 147521
+    engagement: 189
+    commentsToLikes: 0.029894
     id: ck55jpf8jxi1x0i11afnpfbtz
     verified: true
-    hashtags: "#findinspirationineverything, #music, #rem, #afsquad"
-  - username: "jewelser"
+    hashtags: "#stregismc, #iworkwithprimark, #stregislover, #liveexquisite"
+  - username: "bnimmo24"
     fullname: >-
-      Julianna Grogan Makeup Artist
+      Brandon Nimmo
+    bio: >-
+      Christian from Cheyenne, Wyoming and now a player in the New York Mets organization.
     location: "United States"
-    followers: 6735
-    engagement: 523
-    commentsToLikes: 0.135033
-    id: ckaor8ydhm8fq0i783f7cw0zc
-    verified: false
-    hashtags: "#20"
-  - username: "connorkelly21"
-    fullname: >-
-      Connor Kelly
-    location: "United States"
-    followers: 18739
-    engagement: 870
-    commentsToLikes: 0.011086
-    id: ck0ttving4htl0i19yy2h25k6
-    verified: false
-    hashtags: "#ourbarn, #decadechallenge, #2020, #stickuptocancer"
+    followers: 61985
+    engagement: 799
+    commentsToLikes: 0.021097
+    id: ck6txf275xgxu0j71w23yg932
+    verified: true
+    hashtags: "#nyc, #florida, #lgm, #nym"
   - username: "abnerhimely"
     fullname: >-
       Angel 👼🏼
+    bio: >-
+      #twitter | #facebook ™️ New York City #newyork 🖋Writer 🎵Singer | Musician #worship ✖️Email for Bookings ➰Te Podemos Sentir|Confia
     location: "United States"
     followers: 39408
     engagement: 582
     commentsToLikes: 0.023085
     id: ck5ciwpf5tiyj0i115bi3453n
     verified: false
-    hashtags: "#comingsoon, #newrelease, #subscribe, #zoom"
-  - username: "_oohlalaland"
-    fullname: >-
-      L.Shaneen Smith
-    location: "United States"
-    followers: 2922
-    engagement: 1146
-    commentsToLikes: 0.168950
-    id: ck9wcxvg5d5b80j78onvf4p1t
-    verified: false
-    hashtags: "#basics, #positivemindset, #afrocurls, #microblogger"
+    hashtags: "#coronavirus, #micasaestucasa, #covid19, #cuarentena"
   - username: "kyledavidmalone"
     fullname: >-
       KYLE MALONE
+    bio: >-
+      Hairstylist & Artist represented by Bryan Bantry Agency / Native New Yorker 🗽
     location: "United States"
     followers: 20557
     engagement: 185
     commentsToLikes: 0.056236
     id: ck5c00sv6s7se0i11oxtis5wl
     verified: false
-    hashtags: "#mariaborges, #production, #artdirection, #assistants"
+    hashtags: "#photo, #hair, #lunabijl, #kylemalonehair"
+  - username: "answers.luke"
+    fullname: >-
+      †𝐋𝐮𝐤𝐞 𝐉𝐞𝐬𝐬𝐮𝐩†
+    bio: >-
+      ✞Young Christian Preacher/Apologist✞ •Follower of Christ• @burningfaithofficial 💕𝗛𝗲𝗹𝗽 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝘆 𝗠𝗶𝗻𝗶𝘀𝘁𝗿𝘆 𝗕𝘆 𝗖𝗹𝗶𝗰𝗸𝗶𝗻𝗴 𝗧𝗵𝗲 𝗟𝗶𝗻𝗸 𝗕𝗲𝗹𝗼𝘄!(email4promos‼️)
+    location: "United States"
+    followers: 40169
+    engagement: 1722
+    commentsToLikes: 0.041544
+    id: ck8wgj9p2hghj0j78qi14imiz
+    verified: false
+    hashtags: "#jesuschrist, #jesussaves, #god, #jesuslovesyou"
   - username: "ryanalexandra.petit"
     fullname: >-
-      Ryan | Content Creator
+      Ryan Alexandra | Style
+    bio: >-
+      NYC📍| Christian | 90s Moodboard 🇻🇪🇭🇹 | 90s Style | Depop shop @_ryan_alexandra ✴↘️ CATCH ME ON @refinery29 ↙️✴
     location: "United States"
-    followers: 5321
-    engagement: 1136
-    commentsToLikes: 0.104085
+    followers: 5556
+    engagement: 862
+    commentsToLikes: 0.111363
     id: ck8synv9vle3e0j783dkjqiy6
     verified: false
-    hashtags: "#loclivin, #blackcouples, #chocolatehearts, #howtolook90s"
+    hashtags: "#blackownedjewelry, #blackisbeautiful, #90sstyleinspo, #90sstyleinfluencer"
+  - username: "jennifercallahan"
+    fullname: >-
+      Jennifer Callahan • love lulu
+    bio: >-
+      ✧ based in Los Angeles » mindful creative + encouraging blogger ◦ christian, wellness, clean living ⋯ #lovelulu ⋒ get my How to Be Whole guide below!
+    location: "United States"
+    followers: 16250
+    engagement: 276
+    commentsToLikes: 0.103151
+    id: ck8swmlblejgs0j7839ebf2s4
+    verified: false
+    hashtags: "#ad, #nymnaturals, #nymattarget, #newyorkers"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Russia In 2020
 description: >-
-  Find top photographers Instagram influencers in Russia in 2020. Most popular hashtags: #for #mskpit #natgeorussia #longexpoelite.
+  Find top photographers Instagram influencers in Russia in 2020. Most popular hashtags: #portrait #moscow #fashionphotography.
 platform: Instagram
+hits: 968
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 968 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "makarova_tatyana"
     fullname: >-
       Tatyana Makarova
+    bio: >-
+      PHOTOGRAPHER
     location: "Russia"
-    followers: 5821
-    engagement: 837
-    commentsToLikes: 0.063472
+    followers: 6138
+    engagement: 838
+    commentsToLikes: 0.066579
     id: ck6u4lhlk4eck0j71gp3h4qw6
     verified: false
     hashtags: ""
-  - username: "yevhen_mostovyi"
+  - username: "anvarnorov"
     fullname: >-
-      Photographer
+      Anvar Norov
+    bio: >-
+      Photographer .
     location: "Russia"
-    followers: 28146
-    engagement: 207
-    commentsToLikes: 0.032809
-    id: ck14kjx82pvgu0i19zwa4kwx5
+    followers: 57093
+    engagement: 147
+    commentsToLikes: 0.021293
+    id: ck55oih7k8f110i117zju3f2i
     verified: false
-    hashtags: "#film, #filmphoto, #details"
-  - username: "mostovyi_yevhen"
+    hashtags: "#etretat"
+  - username: "ooceaninsideme"
     fullname: >-
-      Photographer
+      Dasha Mayer
+    bio: >-
+      photographer
     location: "Russia"
-    followers: 15374
-    engagement: 201
-    commentsToLikes: 0.017084
-    id: ck14kjxuppvi30i19yug8ci75
+    followers: 6767
+    engagement: 464
+    commentsToLikes: 0.029188
+    id: ck5q39qwrjwsv0i11tbkl92dk
     verified: false
-    hashtags: "#bnwsouls, #incredible, #bnw, #dreamermagazine"
+    hashtags: "#model, #loc, #muah, #models"
   - username: "slavafilippov"
     fullname: >-
       Slava Filippov
+    bio: >-
+      Photographer
     location: "Russia"
-    followers: 24931
-    engagement: 107
-    commentsToLikes: 0.014135
+    followers: 24928
+    engagement: 72
+    commentsToLikes: 0.012151
     id: ck0w45e6qwwgi0i192fuysri9
     verified: false
-    hashtags: "#makingof, #sergeipolunin, #cowweed, #2020"
-  - username: "talia_ballet"
+    hashtags: "#moscow, #portraitphotography, #smoke, #portrait"
+  - username: "fuadsahverdiyev"
     fullname: >-
-      Natalia Voronova
+      PHOTOGRAPHER 🇦🇿
+    bio: >-
+      wedding & event photographer contact us • whatsapp ✆ +994 55 513 00 46
     location: "Russia"
-    followers: 6060
-    engagement: 730
-    commentsToLikes: 0.019185
-    id: ck5bzb6b9qsvp0i118lv9lsn6
+    followers: 86969
+    engagement: 184
+    commentsToLikes: 0.007144
+    id: ck8t0acftrdsu0j78yr274qrd
     verified: false
-    hashtags: "#rodin, #davidhallberg, #raymonda, #saintisaaccathedral"
-  - username: "anzor_khamzaev"
-    fullname: >-
-      Photographer
-    location: "Russia"
-    followers: 39401
-    engagement: 365
-    commentsToLikes: 0.033766
-    id: ck14jndiol82l0i19u7adtkwp
-    verified: false
-    hashtags: "#madinah, #chechnyatoday, #quran, #live"
-  - username: "albert__gasanov"
-    fullname: >-
-      Photographer
-    location: "Russia"
-    followers: 10218
-    engagement: 439
-    commentsToLikes: 0.037491
-    id: ck5c2dsp8x25l0i11o5m0z8hg
-    verified: false
-    hashtags: ""
+    hashtags: "#fuadshahverdiyev"
   - username: "galantnyy"
     fullname: >-
       Grisha Galantnyy
+    bio: >-
+      Photographer
     location: "Russia"
     followers: 5329
     engagement: 928
     commentsToLikes: 0.063612
     id: ck134el0nw2i60i19t2bpe1ox
     verified: false
-    hashtags: "#myanmar, #bagan, #elephants, #matera"
-  - username: "strogolexa"
+    hashtags: "#y3, #tanahlot, #sunset, #waterfall"
+  - username: "seyanyr"
     fullname: >-
-      Aleksey
+      С̲э̲я̲н̲и̲р̲
+    bio: >-
+      •ᴺᵒᵗ ᵃ ᶜᵒˢᵖˡᵃʸᵉʳ/ᵖʰᵒᵗᵒᵍʳᵃᵖʰᵉʳ/ʰᵘᵐᵃⁿ😂✌ • ᵂⁱᵗᶜʰ 😏🍄
     location: "Russia"
-    followers: 10620
-    engagement: 747
-    commentsToLikes: 0.011730
-    id: ck14iikjwfl0l0i19s1rtwea7
+    followers: 2484
+    engagement: 6275
+    commentsToLikes: 0.156021
+    id: ck8t66qh1cfuv0j78zmskjuru
     verified: false
-    hashtags: "#urban, #streetdreamsmag, #natgeorussia, #natgeoru"
-  - username: "dragosopta"
+    hashtags: "#usagitsukino, #sailormooncosplay, #sailorchibimoon, #cosplaycommunity"
+  - username: "sofia__summer"
     fullname: >-
-      dragosopta
+      Sofia
+    bio: >-
+      💄Sofia ⭐️21 👩‍🎓МГТУ им. Н.Э.Баумана 📸model, photographer @photographer_s.kaymashnikova
     location: "Russia"
-    followers: 13778
-    engagement: 724
-    commentsToLikes: 0.004364
-    id: ck0vywewg648b0i199j80izzy
+    followers: 6320
+    engagement: 3631
+    commentsToLikes: 0.095165
+    id: ck136slum82ac0i193903lniy
     verified: false
-    hashtags: "#joyeusesp, #nadana, #izbornik, #9yearsago"
+    hashtags: ""
+  - username: "pouriyakafaeiii"
+    fullname: >-
+      pouriya kafaei
+    bio: >-
+      🧿 © Pouriyakafaei Photography 🧿 / خدا با من است / Photographer / Director / 🐈 They Call Me GARFIELD 🐈
+    location: "Russia"
+    followers: 46275
+    engagement: 775
+    commentsToLikes: 0.115407
+    id: ck5c8dtz699pv0i11kfpbm7xb
+    verified: false
+    hashtags: "#yourvisiongallery, #moodyports, #imiragemagazine, #portraits"
+  - username: "diana_aleksandrovich"
+    fullname: >-
+      Diana Aleksandrovich
+    bio: >-
+      PHOTOGRAPHER🇷🇺Moscow Обучение съемке и обработке. Видеоуроки. 📞 +79096504321
+    location: "Russia"
+    followers: 148867
+    engagement: 633
+    commentsToLikes: 0.044177
+    id: ck0w58wtu2h4i0i190byrhnbb
+    verified: false
+    hashtags: ""
 ---

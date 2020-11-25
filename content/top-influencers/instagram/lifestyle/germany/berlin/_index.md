@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Berlin In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Berlin in 2020. Most popular hashtags: #lifestyle #style #blogger #spring.
+  Find top lifestyle Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #lifestyle #happy #love.
 platform: Instagram
+hits: 585
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 585 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "aboudi.86"
+  - username: "jf_maier"
     fullname: >-
-      ABOUDI
+      Jonas Maier
+    bio: >-
+      📍Berlin, Germany Mensfashion | Lifestyle 📩 info@jfmaier.com #menswear #lifestyle #berlin
     location: "Germany"
-    followers: 101721
-    engagement: 423
-    commentsToLikes: 0.020772
-    id: ck6tr14wbw7k20j71hv9j0pnw
+    followers: 227058
+    engagement: 177
+    commentsToLikes: 0.036511
+    id: ck5hhxiywakb90i11372jdl0r
     verified: false
-    hashtags: "#siciliabedda, #fashion, #cosmetics, #view"
-  - username: "louismast"
+    hashtags: "#cardiomotivation, #herbstlook, #fitguys, #sea"
+  - username: "fepaka"
     fullname: >-
-      Louis Mast
+      FELICITAS PAULA KADELKE
+    bio: >-
+      ❤️ SONY MUSIC ARIOLA ❤️ 💋 1/2 @bonitaz.band & Lea @lea.tutu 💋 💌 management@bonitaz.de 💌 ❣️ FIRST SINGLE ⬇️⬇️⬇️❣️
     location: "Germany"
-    followers: 22827
-    engagement: 1625
-    commentsToLikes: 0.018823
-    id: ck8wd07cod8lc0j781jchwhv9
+    followers: 7059
+    engagement: 1440
+    commentsToLikes: 0.089664
+    id: ckaotimdow2qd0i781nrqen5m
     verified: false
-    hashtags: "#healthy, #dolores, #bwstyleoftheday, #dallas"
-  - username: "christianrfit"
+    hashtags: "#photographer, #sky, #wanderlust, #model"
+  - username: "sykooffiziell"
     fullname: >-
-      Christian Roehrl
+      SYKO
+    bio: >-
+      ❌W.K.V.D.S❌ OUT NOW ⬇️⬇️⬇️
     location: "Germany"
-    followers: 12448
-    engagement: 905
-    commentsToLikes: 0.045362
-    id: ck9wfq2acq03c0j7828vxcj9c
+    followers: 6146
+    engagement: 949
+    commentsToLikes: 0.093258
+    id: ck6tjpe3835y90j71x1mcfyks
     verified: false
-    hashtags: "#fordmodels, #joggers, #beintraining, #passion"
-  - username: "therealmenorah"
+    hashtags: "#wirkommenvonderstra, #stuttgart, #hannover, #bonn"
+  - username: "paegersus_"
     fullname: >-
-      MENORAH TEA 👑
+      Patrick
+    bio: >-
+      |📍Wolfsburg (Germany) 🇩🇪 | 🎨 ink | 🛵 motorcycle | 🎮 Gamer 👩‍❤️‍👨 @marlainemat
     location: "Germany"
-    followers: 6651
-    engagement: 1233
-    commentsToLikes: 0.037564
-    id: ck8sxcgcggvz90j788fudd94c
+    followers: 7583
+    engagement: 696
+    commentsToLikes: 0.102568
+    id: ck0vv3vf9nf9d0i198jmhqrxb
     verified: false
-    hashtags: "#greenhair, #womensday, #ikea, #goodbye"
-  - username: "plautdietschemejale"
+    hashtags: "#hannover, #wolfsburg, #inkedmen, #manbun"
+  - username: "krizzybeauty"
     fullname: >-
-      Plautdietschemejale
+      K R I ⚡️ T I N A
+    bio: >-
+      👗 l fashion l inspirations 💄 l makeup l hairstyles 🇩🇪 l 🇰🇿 // est. 1995 📍berlin 💌 l collab: krizzybeauty@gmx.de
     location: "Germany"
-    followers: 6209
-    engagement: 844
-    commentsToLikes: 0.119681
-    id: ck5bwt24gmcvi0i114fe00603
+    followers: 2726
+    engagement: 2799
+    commentsToLikes: 0.035419
+    id: ckaowhton8zzr0i78j21k4oij
     verified: false
-    hashtags: "#meinungsfreiheit, #autofahrenmachtspass, #backenmachtglu, #fashionblogger"
-  - username: "loulanie1"
+    hashtags: "#happy, #monday, #style, #smile"
+  - username: "lamineezybah"
     fullname: >-
-      🄹🄰🄽🄸🄽🄴
+      𝐋𝐚𝐦𝐢𝐧.
+    bio: >-
+      📍 ʙᴀsᴇᴅ ɪɴ #ʜᴀᴍʙᴜʀɢ | #ʙᴇʀʟɪɴ 👔 ᴍᴇɴsᴡᴇᴀʀ | ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🏠ʀᴇᴀʟ ᴇsᴛᴀᴛᴇ ᴀɢᴇɴᴛ sᴏᴛʜᴇʙʏ’s ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ʀᴇᴀʟᴛʏ | @laradias___💍
     location: "Germany"
-    followers: 19372
-    engagement: 258
-    commentsToLikes: 0.038474
-    id: ck14lbqrntuzh0i19spuaph6y
+    followers: 6416
+    engagement: 725
+    commentsToLikes: 0.121733
+    id: ck5hee467sfkc0i11o06rx0rm
     verified: false
-    hashtags: "#corona2020, #details, #instamamagang, #zaraoutfit"
-  - username: "__rinachen"
+    hashtags: "#vibes, #casualstyle, #coatseason, #030"
+  - username: "_marisacarry"
     fullname: >-
-      R I N A
+      ❥ 𝚖𝚊𝚛𝚒𝚜𝚊
+    bio: >-
+      𝖥𝖠𝖲𝖧𝖨𝖮𝖭 | 𝖫𝖨𝖥𝖤𝖲𝖳𝖸𝖫𝖤 | 𝑃𝐻𝑂𝑇𝑂𝐺𝑅𝐴𝑃𝐻𝑌 ♡ ❥ | Kassel ❥ | Collab via DM 💞
     location: "Germany"
-    followers: 48215
-    engagement: 227
-    commentsToLikes: 0.159868
-    id: ck6tpjelfk78k0j71x19ctes4
+    followers: 11922
+    engagement: 600
+    commentsToLikes: 0.040701
+    id: ck15q968t1pa50i19xyok8060
     verified: false
-    hashtags: "#desenio, #stayhome, #sheingals, #bali"
-  - username: "kim_berlin_official"
+    hashtags: "#loveyourself, #bloggerstyle, #vacay, #kasselcity"
+  - username: "peakysmindset"
     fullname: >-
-      Kim T.
+      Peakymindset
+    bio: >-
+      ThePeakyMindset ▪️Black/White ▪️Inspired by the Peaky Blinders ▪️Second page: @gasautism
     location: "Germany"
-    followers: 78682
-    engagement: 1073
-    commentsToLikes: 0.007972
-    id: ck15u3b7vl7y90i19nyqhf4gn
+    followers: 20295
+    engagement: 1401
+    commentsToLikes: 0.002326
+    id: ck9wdwzhxhna90j78dbr08jrw
     verified: false
-    hashtags: "#sommerferien, #funwithfriends, #cosy, #fridayfun"
-  - username: "asek.berlin"
+    hashtags: "#excuse, #quotes, #beastmode, #thomasshelby"
+  - username: "grabscher36"
     fullname: >-
-      Alex
+      
+    bio: >-
+      Kreuzberg ist Meine hall of Fame
     location: "Germany"
-    followers: 19892
-    engagement: 334
-    commentsToLikes: 0.065020
-    id: ck6u4aa2v2lgj0j71dh755i00
+    followers: 12013
+    engagement: 800
+    commentsToLikes: 0.016082
+    id: ck5hkwxm3j6dk0i11jm03h9id
     verified: false
-    hashtags: "#ente, #grundvigskirken, #vwbulli, #kopenhagen"
-  - username: "franziti"
+    hashtags: "#colours, #bombing, #vienna, #vacation"
+  - username: "len.alini"
     fullname: >-
-      🇩🇪🇻🇳🇯🇵
+      Lena✨Vegan food | Lifestyle
+    bio: >-
+      𝙱𝚎𝚛𝚕𝚒𝚗 • “𝚌𝚕𝚎𝚊𝚗” 𝚛𝚎𝚌𝚒𝚙𝚎𝚜 Soon -> 𝚑𝚘𝚕𝚒𝚜𝚝𝚒𝚌 𝚗𝚞𝚝𝚛𝚒𝚝𝚒𝚘𝚗𝚒𝚜𝚝🌿 Podcast🎙𝚃𝙷𝙾𝚄𝙶𝙷𝚃𝚂 𝚃𝙾 𝙶𝙾 Sport lover🏃🏽‍♀️🧘🏽‍♀️🏊🏼‍♀️
     location: "Germany"
-    followers: 26346
-    engagement: 483
-    commentsToLikes: 0.145103
-    id: ck6u6wjdwi4kh0j71q7eskbzn
+    followers: 18214
+    engagement: 368
+    commentsToLikes: 0.121492
+    id: ckaotc2dtv9ax0i78rw7a6ee5
     verified: false
-    hashtags: "#wellahair, #nakdcode, #fashionlover, #mondaymood"
+    hashtags: "#foodie, #nutritionfacts, #gesundleben, #vegan"
 ---

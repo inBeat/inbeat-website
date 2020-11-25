@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top bloggers Instagram influencers in Dallas in 2020. Most popular hashtags: #quarantine #dfwinfluencer #stayhome #stylediaries.
+  Find top bloggers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallasblogger #liketkit #blogger #fall.
 platform: Instagram
+hits: 108
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 108 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
+  - username: "iamsarahmize"
+    fullname: >-
+      Sarah Mize / Dallas Blogger
+    bio: >-
+      🍸 Full time blogger @dallaslovelist 👩🏻‍💻 Social Media Expert @studiolovelist ✨Founder @citylovelist 🎧 @2chainz 🏈 @vol_sports + 🍕enthusiast
+    location: "United States"
+    followers: 23015
+    engagement: 138
+    commentsToLikes: 0.054494
+    id: ck5pxeeu0rdqu0i11cxgny809
+    verified: false
+    hashtags: "#sbfunside, #kansascity, #imsorry, #thegreatamericantakeoutdfw"
+  - username: "southern_belle_living"
+    fullname: >-
+      L A U R A  B E L L E
+    bio: >-
+      | Georgia | • Choose Happy 💗 • #PowerYourPlatform 👗 • Travel Blogger sharing Fashion, Relationship, Lifestyle & Positivity
+    location: "United States"
+    followers: 20495
+    engagement: 386
+    commentsToLikes: 0.109917
+    id: ck5c07swqslrq0i11shut3acb
+    verified: false
+    hashtags: "#leopard, #love, #liketoknowit, #amazon"
+  - username: "heleneinbetween"
+    fullname: >-
+      Helene Sula |Lifestyle Blogger
+    bio: >-
+      Storyteller. Exploring America via RV w/ 2 pups & 1 husband. Lived last 3 years in Europe, now back home in Texas! My candle line @nostalgiccandle ⬇️
+    location: "United States"
+    followers: 165429
+    engagement: 326
+    commentsToLikes: 0.053131
+    id: ck0w2u1drq6he0i19k0mvn2ss
+    verified: false
+    hashtags: "#reels, #fall, #travelblogger, #newengland"
   - username: "brooke_kenney"
     fullname: >-
       B R O O K E | K E N N E Y
+    bio: >-
+      Fashion Blogger 📍Dallas, TX , AR Native 🌟proud supporter of #ootds and retail therapy 💌let's collab: brookekenneyblog@gmail.com
     location: "United States"
-    followers: 18461
-    engagement: 307
-    commentsToLikes: 0.142211
+    followers: 18540
+    engagement: 321
+    commentsToLikes: 0.115558
     id: ck5heegjlshd20i11dh278kjn
     verified: false
-    hashtags: "#shopbuddylove, #gorjana, #livelovelayer, #ltkshoecrush"
-  - username: "theglamorousblonde_"
-    fullname: >-
-      Kelly Ruth Hans
-    location: "United States"
-    followers: 16583
-    engagement: 199
-    commentsToLikes: 0.130238
-    id: ck5cff2bumtsz0i11o5sw43vd
-    verified: false
-    hashtags: "#bridesofnorthtexas, #lavenderdress, #traderjoesfinds, #ontheblog"
+    hashtags: "#dallastx, #liketkit, #lovelulus, #lulusambassador"
   - username: "teachingandlaundry"
     fullname: >-
       JAC MIZEUR
+    bio: >-
+      ⭐️ Fashion, Travel & Book Blogger 📖 Dallas Teacher 💍 Bride to be 📧 teachingandlaundry@gmail.com
     location: "United States"
-    followers: 28942
-    engagement: 182
-    commentsToLikes: 0.314904
+    followers: 30631
+    engagement: 168
+    commentsToLikes: 0.302652
     id: ck6tuzi4ejbf40j71ni6yg1af
     verified: false
-    hashtags: "#comfydress, #vacayvibes, #deepellum, #sparkledress"
+    hashtags: "#lovelulus, #lulusambassador, #liketkit, #spanxstyle"
   - username: "thebravoboy"
     fullname: >-
       Bravo Boy
+    bio: >-
+      Bravo TV Blogger! 📍 Dallas, TX 👚MERCHANDISE👕
     location: "United States"
     followers: 26287
     engagement: 367
     commentsToLikes: 0.050116
     id: ck0w3it7stmq20i19jr31ohaa
     verified: false
-    hashtags: "#makeup, #betflix, #mttb, #leahmob"
-  - username: "sheaannephotos"
+    hashtags: "#realhousewives, #married2med, #gay, #nochill"
+  - username: "hollykstyles"
     fullname: >-
-      Shea Anne | Photographer
+      Holly
+    bio: >-
+      floridian | dallas tx sharing tall fashion & lifestyle link below to shop my posts
     location: "United States"
-    followers: 36726
-    engagement: 173
-    commentsToLikes: 0.024526
-    id: ck13bupfax88v0i19zmo3wnp1
+    followers: 3987
+    engagement: 902
+    commentsToLikes: 0.314633
+    id: ckaowm7if9gug0i78mtyycrlx
     verified: false
-    hashtags: "#laphotographer, #photoshoot, #teamcanon, #instagood"
-  - username: "thepeppywings"
+    hashtags: "#dearjohndenim, #lifestyleblogger, #texas, #fall"
+  - username: "camila.tonello"
     fullname: >-
-      ᴀᴀɴᴄʜᴀʟ ᴊᴀɪɴ
+      🅂🄸🄼🄿🄻🄴 🄼🄾🅃🄷🄴🅁🄷🄾🄾🄳
+    bio: >-
+      𝙈𝙤𝙩𝙝𝙚𝙧𝙝𝙤𝙤𝙙 | 𝙡𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚 | 𝙛𝙖𝙞𝙩𝙝 💌 Collab: camilatonello@gmail.com 𝙤𝙧 DM
     location: "United States"
-    followers: 16326
-    engagement: 409
-    commentsToLikes: 0.210904
-    id: ck6tpgn2xjrib0j71tzrdx3ec
+    followers: 17503
+    engagement: 326
+    commentsToLikes: 0.057212
+    id: ck5q8gthn645u0i11ap8mk0lb
     verified: false
-    hashtags: "#igstyleblogger, #happyvibesonly, #greenandbrown, #fridayfeeling"
+    hashtags: "#fortworthfoodie, #dallastexas, #fe, #fortworthmom"
   - username: "camille.elena"
     fullname: >-
       Camille Elena • Dallas Blogger
+    bio: >-
+      #MillennialMama | Style + Beauty + Life #Chamoy Candy slinger: @camis.candies TikTok: camille.elena 🐥: @camilleelenaa 📧: camille.elena.blog@gmail.com
     location: "United States"
-    followers: 30993
-    engagement: 196
-    commentsToLikes: 0.051637
+    followers: 30773
+    engagement: 242
+    commentsToLikes: 0.106070
     id: ck0u9ateb9dxr0i19cumubcpe
     verified: false
-    hashtags: "#ozark, #seeksimplicity, #bloggervibes, #igtvchannel"
-  - username: "streetsbeatseats"
-    fullname: >-
-      casey walker | dallas blogger
-    location: "United States"
-    followers: 53049
-    engagement: 202
-    commentsToLikes: 0.094347
-    id: ck1375vwj9xy10i197v3h3258
-    verified: false
-    hashtags: "#aexme, #ltkwedding, #sbeeats, #fitnessjourney"
-  - username: "dallassocials"
-    fullname: >-
-      Betsy I Dallas Blogger
-    location: "United States"
-    followers: 27727
-    engagement: 187
-    commentsToLikes: 0.018934
-    id: ck14lb200tr6e0i19l7y3da1w
-    verified: false
-    hashtags: "#exploremore, #garlandtexas, #lowespartner, #buildthanks"
+    hashtags: "#dallasmoms, #kohls, #kohlsfinds, #mominfluencer"
   - username: "marblelouslypetite"
     fullname: >-
       Abby | Dallas Blogger
+    bio: >-
+      AFFORDABLE STYLE・BEAUTY ★ 5'0" petite + curvy ♥︎ new wifey ✸ brightening your feed with fun colors ✉︎ abby@marblelouslypetite.com ☾ shop my looks ⤵
     location: "United States"
-    followers: 45520
-    engagement: 153
-    commentsToLikes: 0.170449
+    followers: 53141
+    engagement: 205
+    commentsToLikes: 0.180026
     id: ck15ruvrx9tvn0i198lzs99h4
     verified: false
-    hashtags: "#summerdress, #stripedress, #dallasbloggers, #ribbeddress"
+    hashtags: "#hairgoals"
 ---

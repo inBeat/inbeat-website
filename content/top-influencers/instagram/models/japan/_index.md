@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Japan In 2020
 description: >-
-  Find top models Instagram influencers in Japan in 2020. Most popular hashtags: #makeup #denim #lobor #catstagram.
+  Find top models Instagram influencers in Japan in 2020. Most popular hashtags: #japan #tokyo #travel.
 platform: Instagram
+hits: 544
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 544 Instagram influencers like this in Japan for you to contact.
 profiles:
   - username: "tokyodays_luka"
     fullname: >-
       琉花
+    bio: >-
+      model
     location: "Japan"
-    followers: 172022
-    engagement: 194
-    commentsToLikes: 0.004423
+    followers: 172091
+    engagement: 199
+    commentsToLikes: 0.004386
     id: ck6tqc3n6qldl0j71fqs20vg7
     verified: false
-    hashtags: "#jvc"
-  - username: "kenimilovanov"
-    fullname: >-
-      Ken Alexandar Ishii-Milovanov
-    location: "Japan"
-    followers: 15750
-    engagement: 836
-    commentsToLikes: 0.076567
-    id: ck0u20w7cyict0i19ncyeazkj
-    verified: false
     hashtags: ""
-  - username: "lily_1001_official"
+  - username: "rinxbabygang"
     fullname: >-
-      藤本 林花美愛(リリ)
+      Rintaro from  EXIT
+    bio: >-
+      Neo Shibuya Parype unit EXIT🎙 Youtuber💄Artists🎧Instagramer📸Mens cosme leader💅EXIEEE producer👖Model👸
     location: "Japan"
-    followers: 13045
-    engagement: 1360
-    commentsToLikes: 0.045971
-    id: ckaoy5m6kg3as0i78w69twn7m
-    verified: false
-    hashtags: "#bershka, #billieeilish, #lipgloss, #lip"
-  - username: "ninjacatgirl"
-    fullname: >-
-      💕🌸LILI🌸💕
-    location: "Japan"
-    followers: 36449
-    engagement: 863
-    commentsToLikes: 0.031463
-    id: ck0u1whdby9bv0i193vusj6lv
-    verified: false
-    hashtags: "#prreview, #undonewatches, #salamore, #lobor"
-  - username: "midorikawa_shizuka"
-    fullname: >-
-      緑川静香🐱Shizuka Midorikawa
-    location: "Japan"
-    followers: 25069
-    engagement: 944
-    commentsToLikes: 0.031180
-    id: ck9wdi3czfq5l0j787mzysi1i
-    verified: false
-    hashtags: "#resyuryu, #training, #kitty, #roomwear"
+    followers: 321804
+    engagement: 725
+    commentsToLikes: 0.023355
+    id: ck5py8h52ut690i11rxmo4ob8
+    verified: true
+    hashtags: "#14, #cica, #teamexit, #mindseeker"
   - username: "jackiemcrae_xo"
     fullname: >-
       Jackie McRae 🌸Haruko🌸 Eurasian
+    bio: >-
+      Japanese/Scottish mix Canadian Model FL📍 🌿Spot6 - Toronto 🌱Urbn - Milan 🌱Quest - Hong Kong 🌱Chic models - Bangkok Traveling the world ✈️🐳🐬🐠🌴🥥 RU
     location: "Japan"
-    followers: 26831
-    engagement: 385
-    commentsToLikes: 0.070526
+    followers: 26967
+    engagement: 401
+    commentsToLikes: 0.065038
     id: ck6tr4qkfwx4k0j71vbwk3xc6
     verified: false
-    hashtags: "#dolphinsanctuary, #datingasagittarius, #sagittariuswoman, #birthdayinquarantine"
-  - username: "retio_anna"
+    hashtags: "#littlered, #travel, #halloween, #happyhalloween"
+  - username: "davidlundins"
     fullname: >-
-      ANNA♡ダイエットインストラクター
+      David Lundin
+    bio: >-
+      📝 Singer - Songwriter 📸 Photo @daviddavincis ☕️ Addict at @amongiscoffee 🟢 LISTEN TO ”PRAY” 🎶👇🏻 🚶‍♂️ Model - @selectivemgmt 📌 @bravomodelstokyo
     location: "Japan"
-    followers: 12272
-    engagement: 1365
-    commentsToLikes: 0.026572
-    id: ck8sxmo4bhwh30j780wl5tz3p
+    followers: 45954
+    engagement: 325
+    commentsToLikes: 0.075726
+    id: ck138za4yiqz10i19jfupd36s
     verified: false
-    hashtags: "#love"
-  - username: "pamypamypamy"
+    hashtags: "#tokyo, #japan, #travel, #beard"
+  - username: "midorikawa_shizuka"
     fullname: >-
-      朝比パメラ (Pamela Asahi)
+      緑川静香🐱Shizuka Midorikawa
+    bio: >-
+      Thanks for visiting my page❣️japanese🇯🇵 actress,model...sakemaster 🍶 sake,ramen,cat,eating,singing,laughing...LOVE💕清く、貧しく、美しく…しーたんです。#唎酒師 とフリマの人
     location: "Japan"
-    followers: 171789
-    engagement: 430
-    commentsToLikes: 0.032251
-    id: ck9hc9ajfkcu10j78miu9kd44
+    followers: 29413
+    engagement: 896
+    commentsToLikes: 0.026899
+    id: ck9wdi3czfq5l0j787mzysi1i
     verified: false
-    hashtags: "#makeup, #cotd, #motd, #diet"
-  - username: "wagoshin1"
+    hashtags: "#rizin, #23, #smile, #fd"
+  - username: "ria0333"
     fullname: >-
-      和合真一［Shinichi Wago］
+      南まりあ
+    bio: >-
+      model レースクイーン Tstylemanagement
     location: "Japan"
-    followers: 13436
-    engagement: 1527
-    commentsToLikes: 0.020484
-    id: ck5zzxn46clj80i14kwctgftt
+    followers: 19672
+    engagement: 1017
+    commentsToLikes: 0.030147
+    id: ck13chdcp0cqe0i19mdpup2ub
     verified: false
-    hashtags: "#wagofilm, #300, #shinichiwago, #photograpy"
+    hashtags: "#wedding, #weddingmodel, #14"
   - username: "sundailove"
     fullname: >-
       Sundai love
+    bio: >-
+      Your Fashionable Traveling TV Model 🌎 Now In Japan こんにちは ! ANTM Cycle 13, Travel Channel, MTV MY SHOP @mood.global Business: sundaiklove@gmail.com
     location: "Japan"
-    followers: 46741
-    engagement: 764
-    commentsToLikes: 0.016013
+    followers: 56124
+    engagement: 810
+    commentsToLikes: 0.019674
     id: ck5c0qylitogn0i110hr7582q
     verified: false
-    hashtags: "#meshki, #arabica, #japan, #wegonebealright"
+    hashtags: "#kyoto, #travelkyoto, #arashiyama, #japan"
+  - username: "aryon_jp"
+    fullname: >-
+      安涼奈/Alyona
+    bio: >-
+      ・Russia 🇷🇺→ Tokyo 🇯🇵 ・Freelance model & Youtuber　 ・お仕事のご相談はお気軽にDMまで✨ #外国人モデル
+    location: "Japan"
+    followers: 15401
+    engagement: 738
+    commentsToLikes: 0.063475
+    id: ckapa8l4wv5wm0i78xewpl4kw
+    verified: false
+    hashtags: "#japan, #weddingwear, #tokyo, #japanesestyle"
+  - username: "otani_emiri"
+    fullname: >-
+      大谷映美里
+    bio: >-
+      💖＝LOVE：イコラブ みりにゃ 🐈 💅🏻 twitter @otani_emiri ♡ bis model 👗 東京Walker連載 #みりらーめん 🍜 ♡ BS日テレ #プロスタ 🌸 MBSラジオ #ゴチャ11 #アッパレ木 ⇨ ご連絡はメールにてお願いいたします✨
+    location: "Japan"
+    followers: 149908
+    engagement: 684
+    commentsToLikes: 0.013781
+    id: ck0vzd5ls8ihj0i19n7zixo92
+    verified: true
+    hashtags: "#honeycinnamon, #tittyandco, #inframince, #liquem"
+  - username: "retio_anna"
+    fullname: >-
+      ANNA♡ダイエットインストラクター
+    bio: >-
+      okayama / japan / 169cm / 1992 model / youtuber / instructor / gym YouTube 2万人突破💜あんちゃんねる @an.channel_diet . 【RETIO BODY DESIGN】 @retio_higashiokayama
+    location: "Japan"
+    followers: 15129
+    engagement: 1141
+    commentsToLikes: 0.024190
+    id: ck8sxmo4bhwh30j780wl5tz3p
+    verified: false
+    hashtags: "#retiobodydesign, #bodymake, #model, #gym"
 ---

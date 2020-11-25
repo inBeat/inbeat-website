@@ -1,97 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Chile In 2020
 description: >-
-  Find top gaming Instagram influencers in Chile in 2020. Most popular hashtags: #gaming #chile #cuarentena #photooftheday.
+  Find top gaming Instagram influencers in Chile in 2020. Most popular hashtags: #gamer #gaming #chile #stream.
 platform: Instagram
+hits: 17
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 17 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "matimundii"
+  - username: "conejiwii"
     fullname: >-
-      Snapchat👻 -Matimundii
+      𝐺𝑎𝑏𝑖 ♡
+    bio: >-
+      • League of Legends lover • Admin principal de @lolchilecomunidad 👩‍💻 • #leaguepartner ♥️ ↓ Streamer en Twitch ↓
     location: "Chile"
-    followers: 149805
-    engagement: 3
-    commentsToLikes: 0.038097
-    id: ck5ho88yhp4400i11cbe3d3wz
+    followers: 7439
+    engagement: 1357
+    commentsToLikes: 0.103719
+    id: ckap7kxpjkimg0i78921npdd1
     verified: false
-    hashtags: "#puentealto, #challenge, #puente, #tiktok"
-  - username: "rusetgreen"
+    hashtags: "#tattoos, #blue, #smile, #diamond"
+  - username: "justvannia"
     fullname: >-
-      C o n i B e l a u n d e 💖🇨🇱
+      Tía Mimi 🐰
+    bio: >-
+      🔸Content creator 🔸Embajadora @tmgesports.gg @naturecosmetics.cl 🔸25% dcto en @gunnar.cl código justvannia 🔸Contacto: vannia.bn@gmail.com @redragoncl⬇️
     location: "Chile"
-    followers: 107162
-    engagement: 825
-    commentsToLikes: 0.018282
-    id: ck8syz7f2ml810j78cy1wei8m
+    followers: 11488
+    engagement: 1757
+    commentsToLikes: 0.110894
+    id: ckaovu3jy66ao0i7856sj7zyp
     verified: false
-    hashtags: "#streaming, #qipao, #capcomcosplay, #mitsurikanroji"
-  - username: "caprimint"
-    fullname: >-
-      Javiera Paz
-    location: "Chile"
-    followers: 213161
-    engagement: 2411
-    commentsToLikes: 0.011838
-    id: ck5q5ju04t86g0i11cu7ayepc
-    verified: false
-    hashtags: "#newvideo, #friendship, #nerdgirl, #green"
-  - username: "caozyt"
-    fullname: >-
-      Michael Inostroza
-    location: "Chile"
-    followers: 37262
-    engagement: 536
-    commentsToLikes: 0.095852
-    id: ckaovv68n683p0i78p0wrbhht
-    verified: false
-    hashtags: "#like, #victoria, #selfie, #energiapositiva"
+    hashtags: "#girls, #pink, #mood, #gaming"
   - username: "elvallowon"
     fullname: >-
       ElVallo
+    bio: >-
+      CODIGO CREADOR 👉 ELVALLO ❤Youtuber /Twitch Partner 💜 🎉🎉🎉 +500.000 Youtube! 🎉🎉🎉 #youtube #twitch twitch.tv/elvallowon
     location: "Chile"
-    followers: 64907
-    engagement: 1666
-    commentsToLikes: 0.022417
+    followers: 79824
+    engagement: 1889
+    commentsToLikes: 0.023728
     id: ck8syz6daml2i0j78ak9jaxdn
     verified: false
-    hashtags: "#greenscreen, #vrfail, #happy, #feliz"
-  - username: "theworldofstellar"
+    hashtags: "#vrfunny, #gaming, #vr, #twitch"
+  - username: "stellar.uwu"
     fullname: >-
       S t e l l a r
+    bio: >-
+      🎮 Gamer, streamer and cosplayer. 🕹Lu (@ movistargameclub) 22:00, Ma 20:00, Mie 20:00, Jue 20:00! Disponible para sponsors! ¡SÍGUEME EN TWITCH!
     location: "Chile"
-    followers: 2152
-    engagement: 1281
-    commentsToLikes: 0.100773
+    followers: 2477
+    engagement: 1191
+    commentsToLikes: 0.099786
     id: ckaorzk88ph350i78smyas89y
     verified: false
-    hashtags: "#nakama, #waifucosplay, #akali, #giftcard"
+    hashtags: "#streamer, #cool, #deadbydaylight, #cosplay"
   - username: "panchasky"
     fullname: >-
       Francisca Sky
+    bio: >-
+      Nerd de pasión y profesión | Crítica por naturaleza | Gamer🎮🎬 Cinéfila ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🍩#foodie | Sponsored by @movistarchile |
     location: "Chile"
-    followers: 171912
-    engagement: 1610
-    commentsToLikes: 0.012287
+    followers: 190183
+    engagement: 1236
+    commentsToLikes: 0.018039
     id: ck6tlt0j86l4x0j7118goz7aw
     verified: false
-    hashtags: "#internet, #revolution, #slytherin, #chilegram"
-  - username: "sepuls_store"
+    hashtags: "#vr, #panchasky, #omen, #videojuegos"
+  - username: "javi.geek"
     fullname: >-
-      SEPULS PC'S
+      Jαʋι Gєєk 👾
+    bio: >-
+      Pʀoud Geek & ⚖️ • Wιld Nαtιon: @wildesportsla 🐾 • Twitter @javigeekcl • ✉️ contacto.javigeek@gmail.com
     location: "Chile"
-    followers: 56597
-    engagement: 311
-    commentsToLikes: 0.503005
-    id: ck5ho89sgp4530i11twbjhuty
+    followers: 8467
+    engagement: 1000
+    commentsToLikes: 0.095214
+    id: ckapaen0jvsnr0i78n134fh05
     verified: false
-    hashtags: "#epicgames, #pcmasterrace, #gaming, #cuarentena"
-  - username: "festigame"
+    hashtags: "#gamerlife, #staythefuckhome, #redhair, #codvid19"
+  - username: "whysogreen_tattoo"
     fullname: >-
-      FestiGame
+      Whysogreen
+    bio: >-
+      •AGENDA CERRADA 2020 •Tatuador de Santiago Chile Cotizaciones al correo whysogreentattoos@gmail.com
     location: "Chile"
-    followers: 28348
-    engagement: 242
-    commentsToLikes: 0.045773
-    id: ck0tzkeqaqmmb0i197q9lnnvq
+    followers: 28885
+    engagement: 472
+    commentsToLikes: 0.010318
+    id: ck8t8tjvslrel0j78nxxfwmnp
     verified: false
-    hashtags: "#covid19, #wbgames, #cosplayers, #cosplay"
+    hashtags: "#gamerink, #nerdytattoos, #animetattoo, #mangatattoo"
+  - username: "gamerzone_esp"
+    fullname: >-
+      🇪🇸GAMERZONE🇪🇸
+    bio: >-
+      ☢ⒼⒶⓂⒺⓇⓏⓄⓃⒺ☢ 〰Clips y memes sobre videojuegos🕹 〰Manda tus clips al correo📩 o a DM📫 Código descuento: GamerzoneESP
+    location: "Chile"
+    followers: 8608
+    engagement: 1006
+    commentsToLikes: 0.004369
+    id: ck8t8z7o3mda90j78cwkyhrqh
+    verified: false
+    hashtags: ""
+  - username: "natipls"
+    fullname: >-
+      Natalia Rojas
+    bio: >-
+      Hallo Welt 🤙🏻 •Ingeniería en Computación e Informática 💻 •Streamer @nexoplay.tv, @wildesportsla 🐯 •📩 n.rojasparra01@gmail.com 𝕲𝖔𝖙𝖍
+    location: "Chile"
+    followers: 6777
+    engagement: 2621
+    commentsToLikes: 0.042486
+    id: ckaovux76670h0i78hd4iop32
+    verified: false
+    hashtags: "#darkgirl, #darkphotography, #bluehair, #streamer"
+  - username: "caozyt"
+    fullname: >-
+      Michael Inostroza
+    bio: >-
+      📽 Streamer 280K - YouTube 🕹🎙 🎤 Animador - Personal Training 🏆 📩 business.caoz@gmail.com #CAOZITOSARMY #ROADTO300K
+    location: "Chile"
+    followers: 60067
+    engagement: 539
+    commentsToLikes: 0.128762
+    id: ckaovv68n683p0i78p0wrbhht
+    verified: false
+    hashtags: "#insta, #street, #chile, #clips"
 ---

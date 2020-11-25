@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models TikTok Influencers In Montreal In 2020
 description: >-
-  Find top models TikTok influencers in Montreal in 2020. Most popular hashtags: #model #allstarmoment #black #duet.
+  Find top models TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #montreal #model #dance.
 platform: TikTok
+hits: 12
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "craig_major"
     fullname: >-
       craigmajor
+    bio: >-
+      Im a Fashion stylist and model based in Montreal! Enjoy life! 👖👟IG @craigmajor
     location: "Canada"
-    followers: 31312
-    engagement: 830
-    commentsToLikes: 0.021082
+    followers: 71500
+    engagement: 913
+    commentsToLikes: 0.020238
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#gwenstefani, #stupidlove, #funkytown, #perfecto"
-  - username: "itsmandy_03"
-    fullname: >-
-      manveer ramgarhia👑
-    location: "Canada"
-    followers: 2554
-    engagement: 853
-    commentsToLikes: 0.035200
-    id: cka68doj0of740i78f1ul14me
-    verified: false
-    hashtags: "#cyzbca, #indoorworkout, #tiktokreviews, #happyathome"
+    hashtags: "#love, #dance, #boy, #fun"
   - username: "sunsetsandbellinis"
     fullname: >-
-      tanya gauthier
+      t a n y a
+    bio: >-
+      married life + dance + model tips ⚡️i run an influencer agency ⚡️ montreal
     location: "Canada"
-    followers: 3714
-    engagement: 1193
-    commentsToLikes: 0.086776
+    followers: 8472
+    engagement: 749
+    commentsToLikes: 0.041911
     id: ck8nbuegjbj9z0j78zlr6e2fv
     verified: false
-    hashtags: "#howtopose, #modelcamp, #onlineschool, #kardashian"
+    hashtags: "#dancer, #dance, #fyp, #wedding"
+  - username: "mamanannie68"
+    fullname: >-
+      Annie Belisle
+    bio: >-
+      🇨🇦 Montreal. #over50 Vaut mieux en rire 💃 having fun one tik tok at the time
+    location: "Canada"
+    followers: 32000
+    engagement: 658
+    commentsToLikes: 0.131084
+    id: ck9shq8voukr80j78kserwnux
+    verified: false
+    hashtags: "#over50, #autumn, #canadianmom, #love"
+  - username: "thewhiteasiann"
+    fullname: >-
+      Gelinas👑😍
+    bio: >-
+      🇨🇦 Montreal 🇹🇼 Taiwan snap: gelinasmatthew8 Ig: ydy_mgelinas
+    location: "Canada"
+    followers: 44600
+    engagement: 875
+    commentsToLikes: 0.045578
+    id: ck7zo5a9fhxhd0j78p6gnjdwg
+    verified: false
+    hashtags: "#canada, #basketball, #foryoupage, #taiwan"
+  - username: "steven_uno"
+    fullname: >-
+      Steven Uno
+    bio: >-
+      🇧🇯 || Entrepreneur - Dancer - Model || Mtl 🇨🇦 stevenunomaster@gmail.com 👑
+    location: "Canada"
+    followers: 7083
+    engagement: 691
+    commentsToLikes: 0.055069
+    id: ckb94kp72m7og0j23q75jf715
+    verified: false
+    hashtags: "#tiktok, #tiktokmontreal, #montreal, #canada"
   - username: "_annamarier"
     fullname: >-
       annamarier
+    bio: >-
+      📍MONTREAL | 21 🇨🇦 WOMEN’S HEALTH COACH MY WEBSITE 🛒⬇️
     location: "Canada"
-    followers: 51900
-    engagement: 583
-    commentsToLikes: 0.039024
+    followers: 81100
+    engagement: 480
+    commentsToLikes: 0.032789
     id: ck90vwxt61pq80j78e3qosq12
     verified: false
-    hashtags: "#peptalk, #bakingrecipe, #bootty, #womensbest"
-  - username: "modelsforyou"
+    hashtags: "#fit, #workout, #fitgirl, #babe"
+  - username: "yannkd0"
     fullname: >-
-      Models
+      🔴🟠🟡🟢🔵🟣
+    bio: >-
+      🇨🇦#jacmelien🇭🇹 Follow me 10k🙏👇🏾 IG @Yann_model_03 Snap:👻xolove93👻 FB:Ya
     location: "Canada"
-    followers: 177091
-    engagement: 882
-    commentsToLikes: 0.008422
-    id: ck9flmlmhopzz0j78yjgykhx9
+    followers: 3094
+    engagement: 398
+    commentsToLikes: 0.037396
+    id: ckbeu5j0ldfug0j2314m2cjlq
     verified: false
-    hashtags: "#girl, #yovannaventura, #photography, #love"
-  - username: "juno.per"
+    hashtags: "#savage, #fyp, #quarantine, #foryoupage"
+  - username: "bitcoin121"
     fullname: >-
-      Juno
+      V.C
+    bio: >-
+      MTL Insta: bitcoinn121 Snap: vinhk11
     location: "Canada"
-    followers: 9263
-    engagement: 2913
-    commentsToLikes: 0.065721
-    id: ck8qixdp4ax0i0j7892uisrk4
+    followers: 42900
+    engagement: 1494
+    commentsToLikes: 0.049281
+    id: ck7zo5b6ehxp90j7899yfy5c3
     verified: false
-    hashtags: "#transdating, #pronouns, #amab, #theythem"
-  - username: "benitajadah"
+    hashtags: "#asian, #mtl, #montreal, #musicallybeast"
+  - username: "urfavcowgirl"
     fullname: >-
-      Benitajadah
+      emilie🤠🤍
+    bio: >-
+      ily pinterest- @emilietougastremblay depop - @the_tt_clothes
     location: "Canada"
-    followers: 168373
-    engagement: 2045
-    commentsToLikes: 0.028316
-    id: ck8otirgmle5z0j7814smarpw
+    followers: 42900
+    engagement: 1783
+    commentsToLikes: 0.010503
+    id: ck806xb8oms310j78ltymz0rt
     verified: false
-    hashtags: "#pickaside, #skitcomedy, #myturnnow, #sweatshirt"
-  - username: "shaquoneblake"
+    hashtags: "#montreal, #foryoupage, #duet, #fyp"
+  - username: "olliverlucas"
     fullname: >-
-      𝐒𝐡𝐚𝐪¹
+      Lucas Oliver
+    bio: >-
+      welcome to my crazy world😝🌍✌️
     location: "Canada"
-    followers: 24711
-    engagement: 1742
-    commentsToLikes: 0.157716
-    id: cka6j90wtttl10i78f49cq7e3
+    followers: 18800
+    engagement: 693
+    commentsToLikes: 0.040211
+    id: ckcdj964h8p2y0j23xl80qz0t
     verified: false
-    hashtags: "#transitions, #catfish, #dance, #notfunny"
-  - username: "iforaah"
-    fullname: >-
-      iforaah
-    location: "Canada"
-    followers: 51640
-    engagement: 1073
-    commentsToLikes: 0.051128
-    id: ck9r3n9ryquld0j7899wo97oc
-    verified: false
-    hashtags: "#victoriaday, #storyofmylife, #fypforyoupage, #canadatiktok"
-  - username: "matt_cantin"
-    fullname: >-
-      Matt Cantin
-    location: "Canada"
-    followers: 13954
-    engagement: 603
-    commentsToLikes: 0.055933
-    id: cka69d0bys2e10i7803gkxyst
-    verified: false
-    hashtags: "#earnextraincome, #sidehustle, #redbubble, #digitalmarketer"
+    hashtags: "#foryou, #challenges, #fyp, #boys"
 ---

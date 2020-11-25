@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In London In 2020
 description: >-
-  Find top vegan Instagram influencers in London in 2020. Most popular hashtags: #veganlondon #vegan #pasta #quarantine.
+  Find top vegan Instagram influencers in London in 2020. Most popular hashtags: #veganlondon #vegan #veganuk #veganfood.
 platform: Instagram
+hits: 216
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform has 216 Instagram influencers like this in London, United Kingdom for you to contact.
 profiles:
   - username: "imserenalee"
     fullname: >-
       Serena Lee  莎莉娜 🇲🇾🇬🇧
+    bio: >-
+      Low waste ♻️, plantbased 🍠, slow living mama 💛 Author of the Vegan London guidebook 📙 Founder @vegansofldn 🌿 she/her 🏚: @eastlondonhapa 🛠
     location: "United Kingdom"
-    followers: 25269
-    engagement: 263
-    commentsToLikes: 0.082829
+    followers: 25599
+    engagement: 244
+    commentsToLikes: 0.076623
     id: ck0vx29u0wsbu0i1987aahl2j
     verified: false
-    hashtags: "#appleblossom, #veganbaking, #thepangaia, #smallhomereno"
+    hashtags: "#plantbasedfood, #vegan, #freshproduce, #morningsickness"
   - username: "vegansofldn"
     fullname: >-
       Vegan London: Food & Lifestyle
+    bio: >-
+      🍔 Reviewing London’s vegan options since 2015 👀 #vegansofldn 📚 Our Vegan London guidebook, published by Quarto 👇
     location: "United Kingdom"
-    followers: 110944
-    engagement: 85
-    commentsToLikes: 0.120529
+    followers: 108567
+    engagement: 99
+    commentsToLikes: 0.147016
     id: ck0tv12rw9h4h0i19nr1mqfk6
     verified: false
-    hashtags: "#pomodoroebasilico, #mercatomayfair, #calmandkind, #thevurgerco"
-  - username: "shisodelicious"
+    hashtags: "#vegansofldn, #motherworks, #voldeliveries, #vegancommunity"
+  - username: "myperfectgreens"
     fullname: >-
-      Sara Kiyo Popowa
+      Vick Sirotyuk | London
+    bio: >-
+      Model and content creator I develop plant-based recipes💕Workout to feel good🌟 Love skincare💫 From 🇷🇺 travelled the 🌍based in London for 9 years
     location: "United Kingdom"
-    followers: 105756
-    engagement: 117
-    commentsToLikes: 0.070244
-    id: ck0tzahqqpr7c0i193iklfskw
+    followers: 64267
+    engagement: 233
+    commentsToLikes: 0.072004
+    id: ck0vuyzwemsjb0i199vioi9wm
     verified: false
-    hashtags: "#foodbloggers, #pagnotta, #pinkmood, #belazydaisy"
-  - username: "kellyenglandprehn"
+    hashtags: "#ukbloggerlife, #ukfoodblog, #veganrecipes, #londonfoodie"
+  - username: "veganbeautygirl"
     fullname: >-
-      Kelly
+      Nicole • Vegan Beauty Girl
+    bio: >-
+      🌿 making vegan beauty simple 👋🏼 35k+ on TikTok 🇬🇧 london ♐️ she/her 💌 email opportunities don’t DM
     location: "United Kingdom"
-    followers: 37468
-    engagement: 254
-    commentsToLikes: 0.071017
-    id: ck5cig5n3slbm0i11lu5z719o
+    followers: 25793
+    engagement: 222
+    commentsToLikes: 0.093721
+    id: ck5hop7utpz0d0i11hbklj6pi
     verified: false
-    hashtags: "#ladygarden, #lfw, #slowfashion, #veganleather"
-  - username: "mama_eatwithme"
+    hashtags: "#plantbasedskincare, #naturalbeautyproducts, #crueltyfreehalloween, #consciousbeauty"
+  - username: "yesitsallvegan"
     fullname: >-
-      ℙ𝕝𝕠𝕪 | 𝕃𝕠𝕟𝕕𝕠𝕟 𝕗𝕠𝕠𝕕𝕚𝕖🇬🇧
+      yes, it's all vegan
+    bio: >-
+      you don’t have to eat animals to have a good time 🐶🐥🦊 vegan since 2007 ✌️🦑🦞🦓🐖🐈🦜 run by @tsouni 👋 in london, UK 🇬🇧 email: yesitsallvegan@gmail.com 💌
     location: "United Kingdom"
-    followers: 7944
-    engagement: 1134
-    commentsToLikes: 0.297500
-    id: ck55o6vx37rgg0i11g4m5te7k
+    followers: 39415
+    engagement: 142
+    commentsToLikes: 0.032136
+    id: ck15uhde1n7170i199cn9plet
     verified: false
-    hashtags: "#dimsum, #eatguide, #veganliving, #food52"
-  - username: "milesbeforebreakfast"
+    hashtags: "#vegan, #whatveganseat, #veganlondon, #vegandelivery"
+  - username: "veganbasket"
     fullname: >-
-      Jane
+      Vegan Basket®
+    bio: >-
+      Bethany🌱 Sharing my Life on the Veg one post at a time 💕#plantbased #veganfood Review • Surrey 🇬🇧Email:veganbasket@outlook.com
     location: "United Kingdom"
-    followers: 45396
-    engagement: 729
-    commentsToLikes: 0.054620
-    id: ck13a15nbo3tz0i194a0vs1t5
+    followers: 21957
+    engagement: 774
+    commentsToLikes: 0.044447
+    id: ck6tvx5kworra0j71nfcbonqa
     verified: false
-    hashtags: "#notsponsored, #toasttoppings, #granola, #ryebread"
-  - username: "captainbobcatblog"
+    hashtags: "#ukvegan, #veganeats, #veganlunch, #plantbaseddiet"
+  - username: "myveganminimalist"
     fullname: >-
-      Eva - Captain Bobcat Blog
+      My Vegan Minimalist I Tajda
+    bio: >-
+      Tajda, pronounced ‘thai-dah’ • Photographer, Recipe Developer + Food Blogger 📸 • Slovenian in the UK • @goodhemp ambassador
     location: "United Kingdom"
-    followers: 16024
-    engagement: 568
-    commentsToLikes: 0.406734
-    id: ck6tmrr5j8enu0j71tu2kkrek
+    followers: 9673
+    engagement: 608
+    commentsToLikes: 0.081811
+    id: ck5zraq9sw8au0i14gdgufwo9
     verified: false
-    hashtags: "#healthymummyuk, #buyethical, #papercrafts, #weekdaydinner"
-  - username: "greenwellbean"
-    fullname: >-
-      GWB | PLANT BASED
-    location: "United Kingdom"
-    followers: 6384
-    engagement: 575
-    commentsToLikes: 0.076848
-    id: ck9h9s45s9qnq0j78thjs3bp0
-    verified: false
-    hashtags: "#shoplocal, #vegandiet, #veganshoutout, #quarantinelife"
+    hashtags: "#veganideas, #vegandesserts, #veganfeed, #veganmealshare"
   - username: "ellietheveggie"
     fullname: >-
       Ellie ☀️🥑🍌
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 📍 Bruges 🇪🇺 College of Europe 🇧🇪 📚 KCL 🇬🇧 Food spots and Recipe ideas for yummy easy plantiful meals 🌱 #veggie #vegan My blog:
     location: "United Kingdom"
-    followers: 2777
-    engagement: 1280
-    commentsToLikes: 0.292044
+    followers: 2822
+    engagement: 1125
+    commentsToLikes: 0.267933
     id: ck5byrui4ppyw0i11716tmlny
     verified: false
-    hashtags: "#vegancream, #chilisincarne, #veganpizza, #vegansp"
-  - username: "wildwindwanders"
+    hashtags: "#veganuk, #foodporn, #veganpasta, #healthyvegan"
+  - username: "tofuqueen_"
     fullname: >-
-      Giada | Food Travel Lifestyle
+      Alex | Vegan food & finds 🌱
+    bio: >-
+      25 • she/her • student in psychology vegan for the animals 🐷 reviews, recipes and finds 🥑 East Sussex📍
     location: "United Kingdom"
-    followers: 5182
-    engagement: 1032
-    commentsToLikes: 0.383678
-    id: ck6tvp1y2ngly0j716xjpmpgw
+    followers: 7907
+    engagement: 576
+    commentsToLikes: 0.125626
+    id: ckap9m766sq8u0i782csn4qdb
     verified: false
-    hashtags: "#heresmyfood, #womantravel, #theprettycities, #lifeinlenses"
+    hashtags: "#veganrecipes, #veganfoodblogger, #vegansofinstagram, #veganinstaclub"
+  - username: "marykalymnou"
+    fullname: >-
+      Mary Kalymnou
+    bio: >-
+      Travel Aficionado #Maryhop - VIP Flight Attendant - The Diversity Project @pintolife.gr
+    location: "United Kingdom"
+    followers: 30509
+    engagement: 232
+    commentsToLikes: 0.014877
+    id: ck5c2a699wugu0i117z55jspl
+    verified: false
+    hashtags: "#travelust, #travelgram, #maryhop, #igtravel"
 ---

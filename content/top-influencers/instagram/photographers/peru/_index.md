@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Peru In 2020
 description: >-
-  Find top photographers Instagram influencers in Peru in 2020. Most popular hashtags: #sonyalpha #summer #photoshoot #lima.
+  Find top photographers Instagram influencers in Peru in 2020. Most popular hashtags: #sonyalpha #photography #peru #model.
 platform: Instagram
+hits: 50
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 50 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "aixarosybel"
+  - username: "danielatalavera"
     fullname: >-
-      Aixa Aguilar Palacios 🌎
+      danielatalavera
+    bio: >-
+      Photographer
     location: "Peru"
-    followers: 6662
-    engagement: 1789
-    commentsToLikes: 0.020734
-    id: ckapa5f7pus4h0i78dwrckj01
+    followers: 17733
+    engagement: 112
+    commentsToLikes: 0.023406
+    id: ck6u1dou9l4cj0j71he0kbt80
     verified: false
-    hashtags: "#lagunaazul, #photograhy, #sonyalpha, #sonrisa"
-  - username: "rafabertoriniph"
+    hashtags: "#quedateencasa, #photography, #undiamasundiamenos, #peru"
+  - username: "marianobreccia"
     fullname: >-
-      Rafa Bertorini
+      Mariano Breccia
+    bio: >-
+      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @gopro @scoscheperu
     location: "Peru"
-    followers: 30316
-    engagement: 269
-    commentsToLikes: 0.047075
-    id: ck5c5h91h3gzr0i11dg86mjl8
+    followers: 75240
+    engagement: 495
+    commentsToLikes: 0.074260
+    id: ck6ub4sus7gs20j71ww6ugyp4
+    verified: true
+    hashtags: "#enjoy, #explorer, #publicidad, #outdoors"
+  - username: "hannah_mooney_tkd"
+    fullname: >-
+      Hannah🥀🥋⛓🖤
+    bio: >-
+      🇺🇸National Poomsae Team Member🇺🇸Bronze medalist at the 10th World Championships in Lima, Peru!🏅 Photographer📷 🐩Passionate about animal rescue🦆
+    location: "Peru"
+    followers: 15326
+    engagement: 2188
+    commentsToLikes: 0.014481
+    id: ck5q5f1o8slbb0i11tttta1xu
     verified: false
-    hashtags: "#landscape, #tones, #goldenhour, #theshapeoflight"
+    hashtags: "#sport, #martialartsgirls, #taekwondo, #taekwondokick"
   - username: "luis_silvav"
     fullname: >-
       Luis Silva
+    bio: >-
+      📷Photographer || 📹Filmmaker 📍Lima,Perú 📩Tarifas y colaboraciones al DM 👇🏻Official Website👇🏻
     location: "Peru"
-    followers: 15019
-    engagement: 712
-    commentsToLikes: 0.022451
+    followers: 15976
+    engagement: 736
+    commentsToLikes: 0.021847
     id: ck0vvtbj1qo8v0i19sjxkpd7z
     verified: false
-    hashtags: "#arts, #pineapple, #arthoe, #creative"
-  - username: "ozzierisso"
+    hashtags: "#canon, #sigma, #cuarentena, #lifestyle"
+  - username: "talia.escamilo"
     fullname: >-
-      Ozzie Risso
+      Talia EC | Adventure ✈
+    bio: >-
+      Storyteller | Photographer | Explorer 🌍 Go where you feel most alive! 📷 Sharing moments 📍 Lima, Perú 🇵🇪 💌 talia.escamilo@gmail.com
     location: "Peru"
-    followers: 31345
-    engagement: 538
-    commentsToLikes: 0.025695
-    id: ck5hq0bp4s9xc0i111bp6kcqk
+    followers: 12985
+    engagement: 1231
+    commentsToLikes: 0.219656
+    id: ck5hfe87nx23v0i112dopztf2
     verified: false
-    hashtags: "#urban, #yomequedoencasa, #fotografia, #lima"
+    hashtags: "#paisajesperu, #droneoftheday, #letsenjoyperu, #peru"
+  - username: "yisus_eat_world"
+    fullname: >-
+      
+    bio: >-
+      Base in peru Photographer Filmmaker Portrait & lifestyle , urban , Sony A7III Segunda cuenta @guz_eat_world
+    location: "Peru"
+    followers: 14641
+    engagement: 321
+    commentsToLikes: 0.225260
+    id: ck13d1vnk38ul0i19b40pey7z
+    verified: false
+    hashtags: "#moodyports, #doports, #perumoda, #sonyportraits"
   - username: "c.salazarfoto"
     fullname: >-
       CARLOS SALAZAR
+    bio: >-
+      Fashion photographer DM for facetime shootings Retoucher Lima, Peru 🇵🇪📍
     location: "Peru"
-    followers: 17873
-    engagement: 239
-    commentsToLikes: 0.035223
+    followers: 18564
+    engagement: 278
+    commentsToLikes: 0.028351
     id: ck0vymztj4syd0i19mtqch916
     verified: false
-    hashtags: "#portfolio, #beautiful, #editorial, #sanblascusco"
-  - username: "mrjeanpierrediaz"
+    hashtags: "#fashion, #model, #shot, #editorial"
+  - username: "_jeanpierrediaz"
     fullname: >-
       Jean Pierre Díaz
+    bio: >-
+      Actor, Photographer and Filmmaker 📷@jeanpierrediazphoto 🎬 @enlalunafilms
     location: "Peru"
-    followers: 27271
-    engagement: 140
-    commentsToLikes: 0.027126
+    followers: 29072
+    engagement: 121
+    commentsToLikes: 0.032876
     id: ckap65qw3eihs0i78j14qxrl2
     verified: false
-    hashtags: "#35mmfilm, #cuarentena, #filmsdiscovered, #savage"
-  - username: "talia.escamilo"
+    hashtags: "#alphabysony, #jeanpierrediaz, #filmmaker, #sonylatin"
+  - username: "rafabertoriniph"
     fullname: >-
-      Talia EC | Travel & Photo ✈
+      Rafa Bertorini
+    bio: >-
+      | Photographer, 27 | { Life + work } ✨✈️ 🔸Sony Alpha partner bertoriniph@gmail.com . 📍Based in Lima, Perú
     location: "Peru"
-    followers: 8222
-    engagement: 1242
-    commentsToLikes: 0.132112
-    id: ck5hfe87nx23v0i112dopztf2
+    followers: 29753
+    engagement: 222
+    commentsToLikes: 0.016065
+    id: ck5c5h91h3gzr0i11dg86mjl8
     verified: false
-    hashtags: "#cityphotography, #sunset, #giveaway, #discoverperu"
+    hashtags: "#sonyalpha, #summer, #naturallight, #35mm"
   - username: "mydetoxtravel"
     fullname: >-
       C A T H  S I M A R D
+    bio: >-
+      @sonyalpha @gosselinphoto @givebacktonature Photographer, Artist, Educator PATAGONIA workshops are OUT!
     location: "Peru"
     followers: 133649
     engagement: 911
     commentsToLikes: 0.032245
     id: ck0u2myti0ezb0i19b3h6guqn
     verified: false
-    hashtags: ""
-  - username: "angelruizphotography"
-    fullname: >-
-      A n g e l  R u i z
-    location: "Peru"
-    followers: 26647
-    engagement: 244
-    commentsToLikes: 0.007421
-    id: ck5zpdwsisi230i147v2ntd3k
-    verified: false
-    hashtags: ""
-  - username: "jordantrek"
-    fullname: >-
-      J O R D A N  C Á R D E N A S
-    location: "Peru"
-    followers: 6126
-    engagement: 903
-    commentsToLikes: 0.101499
-    id: ck139eatukvy90i19j3yix7lr
-    verified: false
-    hashtags: "#marcona, #atardecer, #instaperu, #travelblogger"
+    hashtags: "#sonyalpha, #alphacollective, #bealpha, #aicdoesiceland"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Argentina In 2020
 description: >-
-  Find top travel TikTok influencers in Argentina in 2020. Most popular hashtags: #makeup #viaje #tiktoktravel #challenge.
+  Find top travel TikTok influencers in Argentina in 2020. Most popular hashtags: #travel #fyp #parati #argentina.
 platform: TikTok
+hits: 46
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 46 TikTok influencers like this in Argentina for you to contact.
 profiles:
-  - username: "vidadeviajes"
+  - username: "gaston_luna"
     fullname: >-
-      Vida de Viajes
+      Gaston Luna
+    bio: >-
+      Traveler | Filmmaker maybe. Checkeá mi ig para más videos✌🏻 Argentina 🇦🇷
     location: "Argentina"
-    followers: 198689
-    engagement: 1515
-    commentsToLikes: 0.032635
-    id: ck81swni1tnss0j7806p035ct
+    followers: 122200
+    engagement: 1243
+    commentsToLikes: 0.008143
+    id: ckc8wwk6hki8o0j23i5nitghd
     verified: false
-    hashtags: "#cataratas, #runing, #pintar, #globo"
-  - username: "leandrofeyling"
+    hashtags: "#tiktok, #tiktokargentina, #fyp, #foryoupage"
+  - username: "pasaje.en.mano"
     fullname: >-
-      leandrofeyling
+      pasaje.en.mano
+    bio: >-
+      TRAVEL | ✈️ Periodista de Viajes Agustina | Córdoba 🇦🇷 Ig @pasaje.en.mano
     location: "Argentina"
-    followers: 3057
-    engagement: 279
-    commentsToLikes: 0.077106
-    id: cka0tvwforplj0i78pbqstyr3
+    followers: 34800
+    engagement: 835
+    commentsToLikes: 0.018203
+    id: ckfplfeo005ah0j23vddh8mkf
     verified: false
-    hashtags: "#zapato, #ahora, #comment, #zyxcba"
+    hashtags: "#tiktoktravel, #riodejaneiro, #bridesquad, #friendshipgoals"
+  - username: "camilollorente11"
+    fullname: >-
+      camilollorente11
+    bio: >-
+      Content creator ⚡️ Traveler Checkea mi IG para mas videos 100k...?
+    location: "Argentina"
+    followers: 79200
+    engagement: 747
+    commentsToLikes: 0.012218
+    id: ckc7oqy1zulxe0j23txe3zz3c
+    verified: false
+    hashtags: "#foryou, #tiktok, #viral, #travel"
+  - username: "comeren.ba"
+    fullname: >-
+      comeren.ba
+    bio: >-
+      • Food & Travel • Me gusta comer 🤷🏽‍♀️ Seguime en Instagram @comeren.ba 🔥
+    location: "Argentina"
+    followers: 3282
+    engagement: 569
+    commentsToLikes: 0.013137
+    id: ckbf1thhgo8f20j23p7s845xv
+    verified: false
+    hashtags: "#parati, #oreo, #foodporn, #argentina"
+  - username: "rotonello"
+    fullname: >-
+      Rocio Tonello
+    bio: >-
+      🇦🇷 23.
+    location: "Argentina"
+    followers: 10500
+    engagement: 1353
+    commentsToLikes: 0.011565
+    id: ckcddhfwm5kbj0j23j52t18k2
+    verified: false
+    hashtags: "#newyork, #trip, #trips, #parati"
+  - username: "bigairfactory"
+    fullname: >-
+      BigAir Factory
+    bio: >-
+      CREATIVE AGENCY 🌎🎥 Based in Europe from Patagonia Instagram 📷 @bigair_factory
+    location: "Argentina"
+    followers: 8311
+    engagement: 1063
+    commentsToLikes: 0.043818
+    id: ckcdvc3a6eyw20j23t2kh3s5s
+    verified: false
+    hashtags: "#winter, #explore, #travel, #skiing"
+  - username: "nicolorenzonn"
+    fullname: >-
+      Nicolorenzonn
+    bio: >-
+      Instagram @nicolorenzonn [+1M] Papá de Noah y Nina ❤️ Estoy en miami ! 🇺🇸
+    location: "Argentina"
+    followers: 462400
+    engagement: 804
+    commentsToLikes: 0.008656
+    id: ck902d6cecbhd0j78u9bce2gr
+    verified: true
+    hashtags: "#miami, #travel, #orlando, #cars"
   - username: "maverickmaxi"
     fullname: >-
       Max Walsh
+    bio: >-
+      Viajero, técnico Aeronautico, fan de los aviones, las fotos y videos.
     location: "Argentina"
-    followers: 34876
-    engagement: 474
-    commentsToLikes: 0.023127
+    followers: 42700
+    engagement: 454
+    commentsToLikes: 0.019778
     id: ck9gnfui5wkue0j78jnxs4qx4
     verified: false
-    hashtags: "#snake, #grecia, #dia11, #croacia"
+    hashtags: "#aviacion, #boeing737, #aviones, #aerolineasargentinas"
+  - username: "laliheredia"
+    fullname: >-
+      Lali Heredia
+    bio: >-
+      Cordoobesaa 🇦🇷 Fotógrafa 📷 Bailarina 🔥
+    location: "Argentina"
+    followers: 4571
+    engagement: 622
+    commentsToLikes: 0.017965
+    id: ckb9v70g9ucrw0j23ylqo540y
+    verified: false
+    hashtags: "#florida, #travel, #parati, #waltdisney"
   - username: "instaladrando"
     fullname: >-
       Leandro Emmanuel Rodriguez
+    bio: >-
+      Mendoza 🇦🇷 Argentina Publicitario. Viajero. Tiktoker para @intriper
     location: "Argentina"
-    followers: 4056
-    engagement: 1336
-    commentsToLikes: 0.015572
+    followers: 15900
+    engagement: 1032
+    commentsToLikes: 0.021800
     id: cka0k7e7uldrj0i78kknjun31
     verified: false
-    hashtags: "#traveler, #bakery, #sing, #travaler"
-  - username: "turismoargentina"
-    fullname: >-
-      turismoargentina
-    location: "Argentina"
-    followers: 12148
-    engagement: 675
-    commentsToLikes: 0.015424
-    id: cka0sk83mlwmy0i78cvqis59c
-    verified: false
-    hashtags: "#viernes, #losesperamos, #catamarca, #drone"
-  - username: "emilianonadal"
-    fullname: >-
-      Emiliano Nadal
-    location: "Argentina"
-    followers: 9081
-    engagement: 1636
-    commentsToLikes: 0.060526
-    id: ck80cqy4eanam0j787zolx55f
-    verified: false
-    hashtags: "#extremesports, #trip, #road, #naturelove"
-  - username: "luz.laborda"
-    fullname: >-
-      luz.laborda
-    location: "Argentina"
-    followers: 2003
-    engagement: 662
-    commentsToLikes: 0.010892
-    id: ckacld4eqf0lw0i78v4li80t1
-    verified: false
-    hashtags: "#basel, #friends, #maravilla, #toureiffel"
-  - username: "maticallone"
-    fullname: >-
-      101 Lugares (blog)
-    location: "Argentina"
-    followers: 9179
-    engagement: 1421
-    commentsToLikes: 0.039707
-    id: ck9jv8bikr5zv0j78ro32zheh
-    verified: false
-    hashtags: "#istambul, #estambul, #selvanegra, #diadellibro"
-  - username: "vivi.sung"
-    fullname: >-
-      Vivi Sung
-    location: "Argentina"
-    followers: 5354
-    engagement: 1198
-    commentsToLikes: 0.017615
-    id: cka0xdo1n6ott0i78x9wbbyms
-    verified: false
-    hashtags: "#travel, #barbijo, #makeup, #facemixchallenge"
-  - username: "leofurio"
-    fullname: >-
-      Leo Furió
-    location: "Argentina"
-    followers: 10200
-    engagement: 1062
-    commentsToLikes: 0.051168
-    id: ck9f1ppzp981w0j782uu75r30
-    verified: false
-    hashtags: "#model, #colors, #xyzbca, #instagramedit"
+    hashtags: "#viajes, #park, #trip, #tiktokspain"
 ---

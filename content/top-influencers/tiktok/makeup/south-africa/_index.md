@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In South Africa In 2020
 description: >-
-  Find top makeup TikTok influencers in South Africa in 2020. Most popular hashtags: #quarantine #challenge #lockdown #trending.
+  Find top makeup TikTok influencers in South Africa in 2020. Most popular hashtags: #makeup #fyp #foryou #foryoupage.
 platform: TikTok
+hits: 64
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 64 TikTok influencers like this in South Africa for you to pitch.
 profiles:
-  - username: "leonestofberg"
+  - username: "hecallsmebeautifulone"
     fullname: >-
-      Leoné💗
+      Sam
+    bio: >-
+      28 Boss babe Makeup artist Fearfully & wonderfully made pslm 139:14 Woman of God
     location: "South Africa"
-    followers: 149032
-    engagement: 2045
-    commentsToLikes: 0.028411
-    id: ck9f2u05req0r0j78xzvod0tb
-    verified: true
-    hashtags: "#greenscreen, #lipsync, #transition, #duet"
-  - username: "kandykanemakeup"
+    followers: 12100
+    engagement: 1365
+    commentsToLikes: 0.063582
+    id: ckdbzpv5of2ls0j23afmer0ps
+    verified: false
+    hashtags: "#tattoedwoman, #fyp, #southafrican, #happy"
+  - username: "kandyslife"
     fullname: >-
       Kandy
+    bio: >-
+      DANCE 💃 MAKEUP 💄 AND FASHION ❤️ YOUTUBE: @kandykanemakeup Follow me ON INSTA!
     location: "South Africa"
-    followers: 6873
-    engagement: 519
-    commentsToLikes: 0.026840
+    followers: 13900
+    engagement: 446
+    commentsToLikes: 0.019275
     id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#husband, #thedrop, #homebody, #poutie"
-  - username: "sandycorn_101"
-    fullname: >-
-      Sandy 🦄
-    location: "South Africa"
-    followers: 45535
-    engagement: 1355
-    commentsToLikes: 0.058978
-    id: cka0s3owajr3x0i78k9cwj64w
-    verified: false
-    hashtags: "#indianmakeup, #scientist, #kdramalover, #jbeauty"
-  - username: "largemak"
+    hashtags: "#tiktokdance, #fyp, #dancetiktok, #southafrica"
+  - username: "v4r5h4"
     fullname: >-
       Vee
+    bio: >-
+      she/they
     location: "South Africa"
-    followers: 144552
-    engagement: 1922
-    commentsToLikes: 0.022204
+    followers: 147600
+    engagement: 2554
+    commentsToLikes: 0.018695
     id: ck9f48do6l5180j78dki5otq1
     verified: false
-    hashtags: "#oldtiktok, #greenscreen, #hair, #parents"
+    hashtags: "#foryou, #makeup, #tutorial, #fyp"
+  - username: "murry.pinheiro"
+    fullname: >-
+      murry.pinheiro
+    bio: >-
+      nUmB 🥀 Follow me on Instagram - murry.pinheiro 95,5K reasons to smile 🌸
+    location: "South Africa"
+    followers: 95500
+    engagement: 1997
+    commentsToLikes: 0.032653
+    id: ckb9r8jgqnozm0j23nbufx0dv
+    verified: false
+    hashtags: "#slowmotion, #laughs, #southafrica, #dancer"
+  - username: "bella_monsoon"
+    fullname: >-
+      bella_monsoon
+    bio: >-
+      a.k.a The Shapeshifter💄 👀Find me on Instagram for exclusive content👀 📍🇿🇦
+    location: "South Africa"
+    followers: 140200
+    engagement: 1753
+    commentsToLikes: 0.036223
+    id: ckbkxz3f3u4to0j23q35zvek1
+    verified: true
+    hashtags: "#halloweenlooks, #makeupartist, #cosplay, #coraline"
   - username: "a.e.s.t.h.e.t.i.c_15"
     fullname: >-
       ℝ𝕠𝕤𝕖𝕤🌹❤️
+    bio: >-
+      Heyy welcome to my page シ Imagine if you followed🥺💛 🍒❤️
     location: "South Africa"
-    followers: 376161
-    engagement: 2356
-    commentsToLikes: 0.016975
+    followers: 404600
+    engagement: 2202
+    commentsToLikes: 0.017612
     id: ck9rm6tfu1hm50j78sxpj726n
     verified: false
-    hashtags: "#blue, #featureme, #quarantine, #italy"
-  - username: "nix951"
+    hashtags: "#makeup, #bling, #trending, #wow"
+  - username: "liandrivelzel"
     fullname: >-
-      Nix
+      Liandri Velzel
+    bio: >-
+      Instagram: @artbyliandri Facebook: Art by Liandri 🇳🇱 🇿🇦
     location: "South Africa"
-    followers: 2244
-    engagement: 1304
-    commentsToLikes: 0.041818
-    id: ck8oxl8vw31mh0j78w0g4dbfp
+    followers: 13400
+    engagement: 1679
+    commentsToLikes: 0.035128
+    id: ckbkz272xvdi00j23vjrtyl58
     verified: false
-    hashtags: "#sexy, #findyoursexy, #newtrend, #timoth"
-  - username: "dirkokay"
+    hashtags: "#hogwarts, #jensen, #makeup, #weasleytwins"
+  - username: "tarynemarupen"
     fullname: >-
-      ⚜️ Dirk Swart ⚜️
+      Taryne Marupen
+    bio: >-
+      IG: taryne_m Sc: raynie_m 🇿🇦
     location: "South Africa"
-    followers: 79436
-    engagement: 1525
-    commentsToLikes: 0.021677
-    id: ck9f3n9x3il0b0j780qah6s0l
+    followers: 59800
+    engagement: 1693
+    commentsToLikes: 0.020995
+    id: ckcejpu0ispmp0j238c2iyag5
     verified: false
-    hashtags: "#type, #dating, #face, #rpdr"
-  - username: "tasarnia"
+    hashtags: "#tiktoksa, #fyp, #halloweenmakeup, #halloweenmakeuplook"
+  - username: "sphokuhle.n"
     fullname: >-
-      Tasarnia 
+      Sphokuhle.n
+    bio: >-
+      Positive vibes only! South African 🇿🇦 19 Insta:s.crumptious
     location: "South Africa"
-    followers: 12151
-    engagement: 649
-    commentsToLikes: 0.006298
-    id: ck920ker9enns0j786upg6ah5
+    followers: 608200
+    engagement: 1620
+    commentsToLikes: 0.012510
+    id: ckbb2ddaisqss0j23104htmlm
     verified: false
-    hashtags: "#heysiri, #couplemove, #tiktokchallenge, #couplechallenge"
-  - username: "veiwtationtv27"
+    hashtags: "#tiktoksa, #seemeontrace, #makeup, #fyp"
+  - username: "gabsolo"
     fullname: >-
-      VeiwtationTv27
+      𝖌𝖆𝖇𝖇𝖞
+    bio: >-
+      ˚✧₊⁎18⁎⁺˳✧༚ honestly just wait for my yt, it’s coming soon
     location: "South Africa"
-    followers: 95440
-    engagement: 790
-    commentsToLikes: 0.003645
-    id: ckafttlbs71aa0i780vcsdmc7
+    followers: 43900
+    engagement: 1750
+    commentsToLikes: 0.033789
+    id: ck977blh03l8i0j78kpv9uxpe
     verified: false
-    hashtags: "#pimple, #blanket, #paper, #chocolate"
-  - username: "devibos"
-    fullname: >-
-      DeWet Boshoff
-    location: "South Africa"
-    followers: 4731
-    engagement: 1882
-    commentsToLikes: 0.121847
-    id: ck8ql5ok3k8zf0j78l9ug89ox
-    verified: false
-    hashtags: "#clown, #howoldchallenge, #makeup, #weird"
+    hashtags: "#fy, #duet, #narnia, #fyp"
 ---

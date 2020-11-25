@@ -1,22 +1,53 @@
 ---
 title: Top 10 Models Instagram Influencers In Chicago In 2020
 description: >-
-  Find top models Instagram influencers in Chicago in 2020. Most popular hashtags: # #quarantine #fashionista #runwaymodel.
+  Find top models Instagram influencers in Chicago in 2020. Most popular hashtags: #model #chicago #love #photooftheday.
 platform: Instagram
+hits: 296
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 296 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "catstanley"
+  - username: "annanpage"
     fullname: >-
-      Cat
+      Anna Page
+    bio: >-
+      + probably at home cuddling with my cats + freelance model + chicago suburbs and beyond
     location: "United States"
-    followers: 9955
-    engagement: 521
-    commentsToLikes: 0.053236
-    id: ck1377ok3a7eq0i19k32djw4s
+    followers: 4598
+    engagement: 2202
+    commentsToLikes: 0.362747
+    id: ck55p7qaf9yz50i11wia24skg
     verified: false
-    hashtags: "#sleepnumber, #quarantine, #quarantinethoughts, #bodypositivity"
+    hashtags: "#fableticspartner, #kickbuttlookcute, #myfabletics, #wearmintacreate"
+  - username: "lynneasmitherzz"
+    fullname: >-
+      Lynnea Smith
+    bio: >-
+      🌻Real Estate Agent and Model 🏡 @listingwithlynnea //Ford Models Chicago // O Models Los Angeles//Osbrink Agency
+    location: "United States"
+    followers: 11878
+    engagement: 553
+    commentsToLikes: 0.019907
+    id: ck0w5aswa2qm50i19s4m1k496
+    verified: false
+    hashtags: "#wichita, #bookstagram, #whattoreadnext, #ictrealestate"
+  - username: "maliyahlondyn"
+    fullname: >-
+      Maliyah Londyn
+    bio: >-
+      Beautifully TRANS 🖤 Model - Chicago Fashion Week 2019 Actress - Steppenwolf LOS ‘20 Don't be afraid to take risks If you never try— you'll never know
+    location: "United States"
+    followers: 11640
+    engagement: 2009
+    commentsToLikes: 0.027935
+    id: ckf5l0i2qnwpz0j23vllmhpip
+    verified: false
+    hashtags: "#blacktranslivesmatter, #blm, #blacklivesmatter, #iplan2live"
   - username: "alexismatsen"
     fullname: >-
       Alexis
+    bio: >-
+      Option 1 Models // Chicago 📍The Good Land
     location: "United States"
     followers: 2001
     engagement: 1512
@@ -24,84 +55,76 @@ profiles:
     id: ck6tm5snu78e90j714emtthpp
     verified: false
     hashtags: ""
-  - username: "lynneasmitherzz"
+  - username: "model_lalita"
     fullname: >-
-      Lynnea Smith
+      🇹🇭 LALITA ♏️
+    bio: >-
+      Published📚IL📍 🏢 @westhavenmgmt ✈️Travel Model 🌌@thai_lita2940 🎨@Night0wLita_art 🛍️ @night0wlita 🚫No TFP 📲DM/email for inquiry ⬇️Other Media
     location: "United States"
-    followers: 12006
-    engagement: 648
-    commentsToLikes: 0.015704
-    id: ck0w5aswa2qm50i19s4m1k496
+    followers: 43744
+    engagement: 328
+    commentsToLikes: 0.012830
+    id: ck5zwjrj568v40i14sz0g9unw
     verified: false
-    hashtags: "#morebeachdays, #yogi"
-  - username: "abbystahlschmidt"
+    hashtags: "#asianmodel, #mystery, #wlygmodelsearch, #2020"
+  - username: "officialgabija"
     fullname: >-
-      Abigail SIGNED MODEL/VIOLINIST
+      Gabija Guzauskaite
+    bio: >-
+      Lithuanian girl in LA ✨ ✈️ NYC | CHI #beautymodel #fashionmodel #actress
     location: "United States"
-    followers: 24911
-    engagement: 278
-    commentsToLikes: 0.038893
-    id: ck6ts173p27s50j71p9lrkf6d
+    followers: 8449
+    engagement: 439
+    commentsToLikes: 0.103466
+    id: ck14hpzjlbjts0i19bjcmwpet
     verified: false
-    hashtags: "#italy, #apparel, #lynyrdskynyrd, #portraits"
-  - username: "hailey.lainee"
+    hashtags: "#newyork, #instagood, #midwest, #letsshoot"
+  - username: "cesciwest"
     fullname: >-
-      Hails
+      Cescilia West🍍
+    bio: >-
+      Venezuelan 🇻🇪 in Chicago Foodlover/ Selfcare&Fashion/Photos📷❣️ Travel&Places 🗺 ➡️ @cescirecipes 🥞 💖
     location: "United States"
-    followers: 88450
-    engagement: 810
-    commentsToLikes: 0.016744
-    id: ck8wdi31hdvd40j787t4d284z
+    followers: 8467
+    engagement: 560
+    commentsToLikes: 0.040133
+    id: ck6tskjvt5a7z0j71mwn8w7p5
     verified: false
-    hashtags: ""
-  - username: "kyliekohlxoxo"
+    hashtags: "#portrait, #chitown, #style, #neworleans"
+  - username: "ramirezanavil"
     fullname: >-
-      Kylie Kohl
+      Ramirez Anavil
+    bio: >-
+      ⏩HONDURAS🇭🇳 📍Columbus Ohio🇺🇸 📹TikTok @ramirezanavil 🔝MODELO 📲INFLUENCER SOCIAL MEDIA ♻️PUBLICIDAD 📧ramirezanavil16.gmail.com 📸: Colaboraciónes
     location: "United States"
-    followers: 54832
-    engagement: 402
-    commentsToLikes: 0.021230
-    id: ck55p8nvxa1m00i11ywy9leti
+    followers: 35434
+    engagement: 268
+    commentsToLikes: 0.036879
+    id: ck5q5gdm7srjs0i11ymyozwk0
     verified: false
-    hashtags: "#badbunny, #spring2020, #lingerie, #easter"
-  - username: "elizabetholiverr"
+    hashtags: "#zara, #columbusmodel, #influencers, #chicagoinfluencer"
+  - username: "paulinarobles_"
     fullname: >-
-      ELIZABETH OLIVER
+      Pau
+    bio: >-
+      👼🏽 𝕷𝖔𝖘 𝕬𝖓𝖌𝖊𝖑𝖊𝖘 MGMT: @maleficmgmt
     location: "United States"
-    followers: 4455
-    engagement: 2184
-    commentsToLikes: 0.039487
-    id: ck0w0rjtqfooz0i1940h20ctu
+    followers: 8427
+    engagement: 380
+    commentsToLikes: 0.056992
+    id: ckaoy2yz6fudc0i78a5g70axc
     verified: false
-    hashtags: ""
-  - username: "_reine.noire_"
+    hashtags: "#photographer, #streetfashion, #editorial, #nationalboyfriendday"
+  - username: "kristina.dechev"
     fullname: >-
-      ⚫️ 👑
+      Kristina Dechev
+    bio: >-
+      Miss IL Earth 2020 🇺🇸 👑
     location: "United States"
-    followers: 5300
-    engagement: 1076
-    commentsToLikes: 0.058815
-    id: ck6ttmoxpbg7q0j719kyq4hi2
+    followers: 20090
+    engagement: 263
+    commentsToLikes: 0.057684
+    id: ck6ugsy1b4zgz0j71vuhhwwlb
     verified: false
-    hashtags: "#goodvibes, #selfcare, #actress, #innerg"
-  - username: "devonspence"
-    fullname: >-
-      👑 Mr. Devon Spence 💍
-    location: "United States"
-    followers: 22450
-    engagement: 240
-    commentsToLikes: 0.015461
-    id: ck0vx7oygxk3y0i19im8nmkxt
-    verified: false
-    hashtags: "#naturallight, #flashbackfriday, #photographer, #rideelectric"
-  - username: "kenkenbeastmode"
-    fullname: >-
-      Kennedy Moore
-    location: "United States"
-    followers: 15388
-    engagement: 570
-    commentsToLikes: 0.015026
-    id: ck14jsrlolzv50i192uvhbjpc
-    verified: false
-    hashtags: "#caring, #loveher, #stellakidd, #stefanrand"
+    hashtags: "#missilearth2020, #beautiful, #picoftheday, #instagood"
 ---

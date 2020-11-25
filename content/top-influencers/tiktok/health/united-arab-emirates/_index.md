@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top health TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #healthyathome #stayhome #love #quarantine.
+  Find top health TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #healthy #love #mydubai.
 platform: TikTok
+hits: 33
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 33 TikTok influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "nashwakhurram"
+  - username: "simarnkaur3"
     fullname: >-
-      Nashwa Khurram
+      Sim Kor
+    bio: >-
+      Chef by passion.. Health blogger👩🏻‍💻,recipe developer ,MOM of 2...🚁🙏🏼
     location: "United Arab Emirates"
-    followers: 2814
-    engagement: 671
-    commentsToLikes: 0.046154
-    id: ck8oq49qa62d90j784lepo9vh
+    followers: 14900
+    engagement: 459
+    commentsToLikes: 0.016653
+    id: ckbwfmt4g259s0j23n26jgmgu
     verified: false
-    hashtags: "#healthyathome, #beanburds, #beachvibes, #pizza"
+    hashtags: "#tiktokdubai, #canadapunjabi, #uae, #newzealand"
+  - username: "wenjiajess"
+    fullname: >-
+      Jessica
+    bio: >-
+      🇦🇪🇦🇺🇨🇳 Travel | Fitness | Fashion IG: WENJIAJESSICA
+    location: "United Arab Emirates"
+    followers: 22800
+    engagement: 649
+    commentsToLikes: 0.037463
+    id: ckbqintsr3se20j23v6v7w46d
+    verified: false
+    hashtags: "#fitness, #healthy, #firgirl, #stayhealthy"
+  - username: "mabud_khan"
+    fullname: >-
+      mabud_khan
+    bio: >-
+      only Tik Tok lover..400000. follow👌🔥🤘 I am single😘
+    location: "United Arab Emirates"
+    followers: 364000
+    engagement: 989
+    commentsToLikes: 0.006672
+    id: ckbweqn131qel0j23rcz6j65u
+    verified: false
+    hashtags: "#tik, #seekdonthide, #dancewithdarkfantasy, #forypu"
+  - username: "matbakhy"
+    fullname: >-
+      matbakhy
+    bio: >-
+      طبخات عربية وعالمية من طبخي🔪وتصويري📸 شيف منزلي بامتياز بشهادة الاهل والضيوف🤗
+    location: "United Arab Emirates"
+    followers: 8510
+    engagement: 821
+    commentsToLikes: 0.021964
+    id: ckbl44ps91j6e0j23dm1o81uu
+    verified: false
+    hashtags: "#family, #cooking, #vegan, #sharethecare"
+  - username: "mridulmadhhok_"
+    fullname: >-
+      MridulMadhok
+    bio: >-
+      Apni Problem Poocho ⬆️ ↙️
+    location: "United Arab Emirates"
+    followers: 31100
+    engagement: 380
+    commentsToLikes: 0.020907
+    id: ckdn6y6s2exej0j237nafrck7
+    verified: false
+    hashtags: "#menproblem, #sexlife, #edutok, #sizematters"
   - username: "almasjid"
     fullname: >-
       AlMasjid
+    bio: >-
+      Create a Better Future with Islam. Not your Celebrity Sheikh Subs to IG & YT
     location: "United Arab Emirates"
-    followers: 14545
-    engagement: 860
-    commentsToLikes: 0.025057
+    followers: 25000
+    engagement: 1308
+    commentsToLikes: 0.055311
     id: cka65l1p2dikv0i78swpeszj6
     verified: false
-    hashtags: "#religion, #fundamental, #problems, #reality"
-  - username: "bajwajass07"
+    hashtags: "#quran, #prophet, #worship, #shirk"
+  - username: "manalmuffin"
     fullname: >-
-      BajwaJass07
+      manal
+    bio: >-
+      Snapchat 👻 manal_mansoor Email 📧 info@manalmuffin.com
     location: "United Arab Emirates"
-    followers: 4955
-    engagement: 1986
-    commentsToLikes: 0.044786
-    id: ck9nv7ocpqlu90j78t38tcvo1
+    followers: 333800
+    engagement: 521
+    commentsToLikes: 0.028130
+    id: ckb9exvuc31qo0j23syt1jrga
     verified: false
-    hashtags: "#dubaiwale, #labourlife, #healthyathome, #swag"
-  - username: "varshalakhwani"
+    hashtags: "#tiktokarab, #mydubai, #manalmuffin, #makeuptutorial"
+  - username: "abuyumna76"
     fullname: >-
-      Varsha Lakhwani
+      AbuYumna76
+    bio: >-
+      "Grip2Grasp" youtube channel 2 learn English language/grammar in Urdu & Hindi
     location: "United Arab Emirates"
-    followers: 3822
-    engagement: 1967
-    commentsToLikes: 0.044782
-    id: cka0y8l4vabu90i78yicxvjcc
+    followers: 3307
+    engagement: 657
+    commentsToLikes: 0.141072
+    id: ckb9kqwvvcx6g0j23c8rs52ja
     verified: false
-    hashtags: "#hindisongs, #exploremore, #fightcorona, #comedy"
-  - username: "ammarfreez"
+    hashtags: "#ma, #its, #fyiplz, #fykplz"
+  - username: "osmium08"
     fullname: >-
-      عمار الخضيري
+      Mahi
+    bio: >-
+      🤪Instagram: osmium08🤪 ⭐Abu dhabi⭐ Arts || Style || Fashion || Travel || Photos
     location: "United Arab Emirates"
-    followers: 33537
-    engagement: 175
-    commentsToLikes: 0.056135
-    id: ckacsf03k9pfp0i78ujjf34u5
+    followers: 63200
+    engagement: 481
+    commentsToLikes: 0.036194
+    id: ckavm14mevmbx0j23t23pjtlw
     verified: true
-    hashtags: "#tiktoksong, #lifestyle, #trickshot, #earthhour"
-  - username: "melzarts"
+    hashtags: "#contentcreator, #fashionweek, #fashionhacks, #homeconcert"
+  - username: "craycraymira"
     fullname: >-
-      Melika👑
+      CraycrayMira
+    bio: >-
+      
     location: "United Arab Emirates"
-    followers: 10390
-    engagement: 1129
-    commentsToLikes: 0.053384
-    id: cka0t0wrjny9m0i78muiua1y5
+    followers: 24500
+    engagement: 664
+    commentsToLikes: 0.164833
+    id: ckbf39kpoqyda0j23txw76ulm
     verified: false
-    hashtags: "#pumplikethat, #travel, #himym, #myquarantine"
-  - username: "reninitco"
-    fullname: >-
-      Meenu😍😍😍
-    location: "United Arab Emirates"
-    followers: 85067
-    engagement: 1008
-    commentsToLikes: 0.020724
-    id: ck85cqam52zr80j78ehn7086k
-    verified: false
-    hashtags: "#kulkki, #happybirday, #protien, #mint"
-  - username: "sha3zking"
-    fullname: >-
-      Sha3zKing👑
-    location: "United Arab Emirates"
-    followers: 96793
-    engagement: 829
-    commentsToLikes: 0.038155
-    id: ck9rlzm7v0hp40j78locrhgcx
-    verified: false
-    hashtags: "#wewillrockyou, #writethelyrics, #staysafe, #bpraak"
-  - username: "karina_kuckoo"
-    fullname: >-
-      Karina Kuckoo
-    location: "United Arab Emirates"
-    followers: 38007
-    engagement: 1040
-    commentsToLikes: 0.037235
-    id: ck9enx5roli9y0j78ih5tkhpk
-    verified: false
-    hashtags: "#styletips, #stayathomechallenge, #makeuplover, #quarantinelife"
-  - username: "doomz_91"
-    fullname: >-
-      Doomz
-    location: "United Arab Emirates"
-    followers: 3513
-    engagement: 440
-    commentsToLikes: 0.042461
-    id: cka0y8uosadro0i78nceeyawi
-    verified: false
-    hashtags: "#arttutorial, #phototips, #tiktokmemes, #iwantitigotit"
+    hashtags: "#dubai, #gucci, #bvlgari, #cartier"
 ---

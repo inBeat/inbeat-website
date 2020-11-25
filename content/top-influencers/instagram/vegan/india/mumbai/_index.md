@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top vegan Instagram influencers in Mumbai in 2020. Most popular hashtags: #vegan #dessert #mumbai #mumbaifood.
+  Find top vegan Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbai #instagood #vegan #love.
 platform: Instagram
+hits: 173
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 173 Instagram influencers like this in Mumbai, India for you to contact.
 profiles:
-  - username: "the.gastronomical.voyage"
+  - username: "feastnfly_withbrownblond"
     fullname: >-
-      Anindita Ghosh (:
+      K.Priya
+    bio: >-
+      🇮🇳🇦🇪🇲🇾🇮🇩🇺🇸 Food/Travel/Lifestyle. Eating on my way across the world. Currently : 📍PUNE DM for collaborations
     location: "India"
-    followers: 18362
-    engagement: 327
-    commentsToLikes: 0.058709
-    id: ckap2hdejyu630i78kj1rj51z
+    followers: 6052
+    engagement: 607
+    commentsToLikes: 0.353021
+    id: ck9wek3qrkmd30j78lyeguski
     verified: false
-    hashtags: "#homecooking, #postoftheday, #staypositive, #cyclone"
-  - username: "aamchi.m"
+    hashtags: "#puneinstagrammers, #indiansindubai, #instagrammer, #foodporn"
+  - username: "_._wicky"
     fullname: >-
-      आमची  मुंबई
+      !rrrfn👅
+    bio: >-
+      HU.men 16 |ᴍᴏᴍ=ʜᴀᴘᴘɪɴᴇss 💖|
     location: "India"
-    followers: 8983
-    engagement: 677
-    commentsToLikes: 0.094399
-    id: ck8t78rncfz610j78e6mm7tob
+    followers: 3715
+    engagement: 2666
+    commentsToLikes: 0.249633
+    id: ck8tck0v0zoke0j784t170eb5
     verified: false
-    hashtags: "#safetysimpz, #like, #stayhome, #pennelover"
-  - username: "ultra.foodie"
+    hashtags: "#godsowncountry, #keralagram, #photography, #vintage"
+  - username: "thefoodattacker"
     fullname: >-
-      Ultra Foodie™️ I🇮🇳🇹🇷🇵🇸🇶🇦🇨🇭🇹🇭🇫🇷
+      🤓 KARAN SINGHAL 🤓
+    bio: >-
+      90% vegetarian 😁😁 Meetha is LUB Delhi DM - Invite/Promo/Hotel/Food/Travel
     location: "India"
-    followers: 15358
-    engagement: 399
-    commentsToLikes: 0.491803
-    id: ck8wfwa01gcva0j78w3ah4w6x
+    followers: 156518
+    engagement: 152
+    commentsToLikes: 0.056165
+    id: ck14kmjdaq93q0i19f22vyxgr
     verified: false
-    hashtags: "#macaroni, #chutney, #caramel, #masala"
-  - username: "food_destination_"
+    hashtags: "#dessertporn, #foodgram, #dillifoodies, #chocolate"
+  - username: "s_n_e_h_a_p_a_l"
     fullname: >-
-      Blog by Ishika©️| Kota Blogger
+      SNEHA
+    bio: >-
+      Fashion Designer|Stylist|Beauty|Fashion|Lifestyle Blogger Email/Dm for collab & promotions 💌:snehapal.10@gmail.com Private:@justbesneha
     location: "India"
-    followers: 8247
-    engagement: 685
-    commentsToLikes: 0.330591
-    id: ckaowe3608j1h0i78j54lgk2o
+    followers: 14484
+    engagement: 651
+    commentsToLikes: 0.186809
+    id: ck8sxzgx1j7mm0j78yll16c77
     verified: false
-    hashtags: "#quarantinelife, #bloosom, #foodindia, #bright"
-  - username: "karpurmanjari"
+    hashtags: "#reelsinstagram, #influencerstyle, #instamood, #plixxoinfluencer"
+  - username: "handlewithcurve"
     fullname: >-
-      Karpurmanjari |Travel&Living
+      PRACHI JASANI🦄
+    bio: >-
+      •Fashion👗•Makeup💕•Lifestyle✨ Sharing My Crazy Curvy Life Here🍉 ➡️Turn On The Notification & Join In The Curvy Movement👓 DM / Mail For Collabs
     location: "India"
-    followers: 2823
-    engagement: 1456
-    commentsToLikes: 0.208411
-    id: ckap22xiux5gb0i78m2slclkl
+    followers: 16012
+    engagement: 517
+    commentsToLikes: 0.072222
+    id: ckap6vtpzhk4j0i78u29eqt3d
     verified: false
-    hashtags: "#vegetarian, #benatural, #makeupbrushes, #streetsofindia"
-  - username: "vineethvincentofficial"
+    hashtags: "#makeupartist, #bridesmaids, #wakeupandmakeup, #bridalwear"
+  - username: "in.her.wardrobe"
     fullname: >-
-      Vineeth Vincent
+      Meghna Govindaraju
+    bio: >-
+      👛Fashion & Style Blogger 🧬 V I B E P I N K 🎓Fashion Graduate from NIFT ✉️DM for Collaboration 🎀#styling #fashionblogger 💌meghna.govindaraju@gmail.com
     location: "India"
-    followers: 13613
-    engagement: 790
-    commentsToLikes: 0.022176
-    id: ck0twjmuqfogw0i19qp01mclv
-    verified: true
-    hashtags: "#urbantalkies, #onatankoffuel, #environment, #noiamnot"
-  - username: "babelicious_indiana"
-    fullname: >-
-      DR.RITU SINGH || INFLUENCER
-    location: "India"
-    followers: 29666
-    engagement: 144
-    commentsToLikes: 0.148276
-    id: ck5bxlj67nygn0i11l5uuez5r
+    followers: 22105
+    engagement: 138
+    commentsToLikes: 0.104482
+    id: ck15uoo75o6kx0i19hy3nk7iu
     verified: false
-    hashtags: "#hijab, #mothersday, #weekendpost, #stylehacks"
-  - username: "foodbhukkadz"
+    hashtags: "#indianfashionblogger, #indianfashion, #instagramreels, #hyderabadfashion"
+  - username: "punefoodhunt"
     fullname: >-
-      ғood внυĸĸadz
+      Pune Food Hunt
+    bio: >-
+      Food and Travel Blogger Compassionate Animal Lover Hunting for the best of what Pune has to offer! Vegetarian DM or E-mail for Enquiries.
     location: "India"
-    followers: 2050
-    engagement: 2576
-    commentsToLikes: 0.351720
-    id: ckaoweeqb8knt0i78h14t54hm
+    followers: 27099
+    engagement: 283
+    commentsToLikes: 0.013852
+    id: ck0u63jy50xys0i19huqp49l4
     verified: false
-    hashtags: "#refreshing, #golgappe, #parlegbiscuits, #pineapple"
-  - username: "trendelitee"
+    hashtags: "#igfood, #puneblogger, #quarantine, #southindian"
+  - username: "savour.n.binge"
     fullname: >-
-      Alfiya Karim Khan
+      Srishti| Food Influencer
+    bio: >-
+      |Food Influencer| Product Reviewer| Content Creator #Storyteller Textile Technologist| IIM Kozhikode Mumbai
     location: "India"
-    followers: 44111
-    engagement: 883
-    commentsToLikes: 0.032815
-    id: ck9hbiwrjh17a0j782jyxvuv9
+    followers: 9372
+    engagement: 892
+    commentsToLikes: 0.164669
+    id: ck9hcmc7wm0ks0j78dyq9ctop
     verified: false
-    hashtags: "#haircurlers, #noheatdamage, #hdmascara, #staysafe"
-  - username: "foodiefirewall"
+    hashtags: "#fooddiaries, #quarantinechef, #indianfoodblog, #mumbai"
+  - username: "thealluringchic"
     fullname: >-
-      Foodiefirewall_Tejas
+      Chaitra Poojary | Creator
+    bio: >-
+      | Fashion | Beauty | Makeup | Senior Environmental Officer 📍 Mumbai 💌 chaitrapoojary26@gmail.com
     location: "India"
-    followers: 27952
-    engagement: 434
-    commentsToLikes: 0.086607
-    id: ck5hnhtv3nsxm0i11swcnh9jw
+    followers: 29895
+    engagement: 55
+    commentsToLikes: 0.485461
+    id: ck5q39cwyjusc0i11mnt74cm6
     verified: false
-    hashtags: "#kitkatcakeph, #eveningvibes, #tikkamasala, #04aprilgg"
+    hashtags: "#plixxoinfluencer, #reelkarofeelkaro, #explorepage, #explore"
+  - username: "the_crazy_indian_chef"
+    fullname: >-
+      Punam | Food & Lifestyle
+    bio: >-
+      Food & Lifestyle, Food Photographer X Styling, DM for food tasting and collaborations 👍✌
+    location: "India"
+    followers: 7530
+    engagement: 277
+    commentsToLikes: 0.069875
+    id: ckap0obber60w0i78sgy46j7l
+    verified: false
+    hashtags: "#instafood, #foodlover, #mumbai, #love"
 ---

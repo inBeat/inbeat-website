@@ -1,109 +1,132 @@
 ---
 title: Top 10 Instagram Influencers In Japan In 2020
 description: >-
-  Find top Instagram influencers in Japan in 2020. Most popular hashtags: # #photooftheday #videography #halloween.
+  Find top Instagram influencers in Japan in 2020. Most popular hashtags: #happy #love #mallu.
 platform: Instagram
+hits: 11641
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11641 Instagram influencers like this in Japan for you to contact.
 profiles:
-  - username: "travelwithkwen"
-    fullname: >-
-      Kwen - Travel & Lifestyle
-    location: "Japan"
-    followers: 11524
-    engagement: 1440
-    commentsToLikes: 0.271691
-    id: ck14jebadjwb70i19j0zmu54p
-    verified: false
-    hashtags: "#travelpicture, #womensday, #travelstribe, #winmymicrogap"
-  - username: "bichu.___"
-    fullname: >-
-      ☬ G2 | बीचु 📍
-    location: "Japan"
-    followers: 3641
-    engagement: 3797
-    commentsToLikes: 0.264282
-    id: ckaox17elbbgj0i78a461dau8
-    verified: false
-    hashtags: "#gangsterunited, #gangstersunitedkerala"
-  - username: "_abhi__ohmz_"
-    fullname: >-
-      🧡ABHILASH🧡
-    location: "Japan"
-    followers: 2990
-    engagement: 3494
-    commentsToLikes: 0.130358
-    id: ck9wfcvsxoat30j78q4qxjox5
-    verified: false
-    hashtags: "#photooftheday, #godsowncountry, #malayali, #mumbai"
-  - username: "xsophiehendriks"
-    fullname: >-
-      𝐒𝐎𝐏𝐇𝐈𝐄 𝐇𝐄𝐍𝐃𝐑𝐈𝐊𝐒
-    location: "Japan"
-    followers: 2423
-    engagement: 3486
-    commentsToLikes: 0.216024
-    id: ckap6xbd9hqve0i78l76g5b4l
-    verified: false
-    hashtags: ""
-  - username: "angelyaaap"
-    fullname: >-
-      ᴀ ɴ ɢ ᴇ ʟ ʏ ᴀ
-    location: "Japan"
-    followers: 2640
-    engagement: 3427
-    commentsToLikes: 0.151216
-    id: ck8t32jai1lnw0j78e07gopgp
-    verified: false
-    hashtags: ""
   - username: "milnonlim"
     fullname: >-
       ✾美流乃✾ Milno
+    bio: >-
+      Japan ▪️Email for business inquiries ⬇️For purchase of original artworks
     location: "Japan"
-    followers: 5301
-    engagement: 3284
-    commentsToLikes: 0.177825
+    followers: 7597
+    engagement: 2342
+    commentsToLikes: 0.195995
     id: ck6u2vnsfu6tp0j71fax0hl4h
     verified: false
-    hashtags: "#happy, #artforsale, #artrealism, #yupopaper"
-  - username: "xobearhugs"
+    hashtags: "#wip, #graphiteart, #pencilofartists, #instadrawing"
+  - username: "bichu.___"
     fullname: >-
-      🐼🌱🌸💕
+      𝙢𝙪𝙨𝙩𝙝𝙖𝙛𝙖
+    bio: >-
+      𝙀𝙘𝙘𝙚𝙙𝙚𝙣𝙩𝙚𝙨𝙞𝙖𝙨𝙩 • ♥️
     location: "Japan"
-    followers: 78854
-    engagement: 1493
-    commentsToLikes: 0.045870
-    id: ck5q69hddwix00i11rfuqbahr
+    followers: 5903
+    engagement: 1646
+    commentsToLikes: 0.138908
+    id: ckaox17elbbgj0i78a461dau8
     verified: false
-    hashtags: ""
+    hashtags: "#thrissur, #indianphotography, #naturephotography, #kottayam"
+  - username: "emilijaagate"
+    fullname: >-
+      Emīlija Agate Palina
+    bio: >-
+      💖tiktok 50k cuties ✝️ʟᴀᴛᴠɪᴀɴ ɢɪʀʟ ᴡʜᴏ ʟᴏᴠᴇs ᴛᴏ ᴛʀᴀᴠᴇʟ🌍🇱🇻 🇯🇵ᴏsᴀᴋᴀ-ᴍɪʟʟᴇ 🇯🇵ᴛᴏᴋʏᴏ-ᴄᴅᴜᴍᴏᴅᴇʟs 🇨🇳ʙᴇɪᴊɪɴɢ-ʟᴀᴄᴏco 🇹🇼ᴛᴀɪᴘᴇɪ-ғᴀsʜɪᴏɴ 🇱🇻MA @nataliemodels.riga
+    location: "Japan"
+    followers: 8515
+    engagement: 1493
+    commentsToLikes: 0.078001
+    id: ck0w011a8buv00i19pr2m8fy3
+    verified: false
+    hashtags: "#converse, #loveyourselffirst, #addiction, #boostjuice"
+  - username: "multikdeditz"
+    fullname: >-
+      𝐣𝐚𝐧 | multi luver uwu
+    bio: >-
+      𝓂𝒾 ℓσνє ✨(*´∀｀*) c/kdrama, thaidrama & anime edits !
+    location: "Japan"
+    followers: 6890
+    engagement: 1435
+    commentsToLikes: 0.342949
+    id: ck8t7k2lzh3oc0j78s6bfowuw
+    verified: false
+    hashtags: "#nanonedit, #thaidramaedit, #haruharugrp, #wachirawit"
+  - username: "sxexexn"
+    fullname: >-
+      聖連
+    bio: >-
+      00line せれんって読みます　一般人ですす
+    location: "Japan"
+    followers: 321942
+    engagement: 1171
+    commentsToLikes: 0.046078
+    id: ck14idcsfeuuv0i197n98fjmy
+    verified: false
+    hashtags: "#thank, #happy"
+  - username: "katewigkeit"
+    fullname: >-
+      Katie in Tokyo💫Japan💫Travel
+    bio: >-
+      11+ years in Tokyo 👘🗼🌸 Travel | Lifestyle | Photography Japanologist🤓 Vladivostok, RU 🇷🇺 London, EN 🇬🇧 📍Tokyo, JP 🇯🇵日本語もok! Hawaii, US🌺🇺🇸
+    location: "Japan"
+    followers: 19878
+    engagement: 892
+    commentsToLikes: 0.100939
+    id: ck15rq1ij94d40i191zjn0a17
+    verified: false
+    hashtags: "#sunflowerfield, #shibuyasky, #sunflowers, #celosia"
   - username: "hina_yshr"
     fullname: >-
       Hina Yoshihara
+    bio: >-
+      🇯🇵@nowunited
     location: "Japan"
-    followers: 1992732
-    engagement: 1175
-    commentsToLikes: 0.049880
+    followers: 2839441
+    engagement: 765
+    commentsToLikes: 0.038034
     id: ck0w49kd6xgvf0i198oo23v3x
     verified: true
-    hashtags: "#tiktok, #nowunitedwakeup, #nowunitedbymyside, #stayhomeandsing"
-  - username: "senzority"
+    hashtags: "#alseefdubai, #mydubai, #nowunited16, #fortheloveofit"
+  - username: "shamon_nizar"
     fullname: >-
-      SENZO 私は影
+      शामोंन 🍂
+    bio: >-
+      🌼🌼🌼 @majja_alappey
     location: "Japan"
-    followers: 16122
-    engagement: 960
-    commentsToLikes: 0.086546
-    id: ck5c4vinp274a0i11v46a2so2
+    followers: 2160
+    engagement: 3766
+    commentsToLikes: 0.206763
+    id: ckaot10uztw740i78vdh3sn8q
     verified: false
-    hashtags: "#minimalfits, #techweargeneral, #streettech, #animefashion"
-  - username: "kubonono__gram"
+    hashtags: "#shootout, #moodygram, #alappuzha, #malappuram"
+  - username: "rieko.m.0303"
     fullname: >-
-      久保乃々花　/ Nonoka Kubo
+      りぃにゃん(リエコ)
+    bio: >-
+      ❤️アボカド🥑栽培中🤗❤️ ❤️ANA❤️CABO🥑❤️LOVE❤️
     location: "Japan"
-    followers: 35998
-    engagement: 781
-    commentsToLikes: 0.071504
-    id: ck5hlpyjukmxk0i111mcvxbo4
+    followers: 7827
+    engagement: 2955
+    commentsToLikes: 0.081170
+    id: ck9wdzb9why1x0j78jpgp2g0s
     verified: false
-    hashtags: "#makeup, #lip, #ottd, #ikea"
+    hashtags: "#supreme2020, #supnorth, #supremejapan, #supremegirl"
+  - username: "oyadama0923"
+    fullname: >-
+      おやだま
+    bio: >-
+      親玉じゃなくて『おやだま』です☺️ / 広島市在住 仕事 / Web制作・マーケティングとか❗️💻 投稿 / 主になんか食べてます🍖🍺 備考 / フォロー・コメント大歓迎❣️ 古い投稿へのコメントは流れて気付かない場合が…🙏💦 ⚠️副業、勧誘系のDMはスルーです🙇‍♀️
+    location: "Japan"
+    followers: 2522
+    engagement: 2946
+    commentsToLikes: 0.140114
+    id: ck15t1ub3fxbl0i19ti2i57w4
+    verified: false
+    hashtags: "#pr, #hiroshima, #2019, #10"
 cities:
   - name: Tokyo
     link: /instagram/japan/tokyo

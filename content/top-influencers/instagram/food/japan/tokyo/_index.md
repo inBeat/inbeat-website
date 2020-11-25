@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top food Instagram influencers in Tokyo in 2020. Most popular hashtags: #food #cake #tokyo #cafe.
+  Find top food Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #food #japan #instafood.
 platform: Instagram
+hits: 83
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 83 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
-  - username: "mippy34"
+  - username: "cruse.jimny.girl"
     fullname: >-
-      秋丸美帆（みっぴ)
+      CRUSE JIMNY GIRL
+    bio: >-
+      TOKYO×JIMNY×GIRL🗼🚙👩 FOLLOW ME!! ショップやカーショーなどのイベント関連や雑誌の撮影など、オファーお待ちしております。Youtubeなど、コラボ関連のお問い合わせもお気軽にDMください☺️
     location: "Japan"
-    followers: 163359
-    engagement: 897
-    commentsToLikes: 0.009541
-    id: ck14khy0xpkym0i19z1koxtkn
+    followers: 14944
+    engagement: 707
+    commentsToLikes: 0.018558
+    id: ckapckyct48ut0i78b8xjtck6
     verified: false
-    hashtags: "#ibusuki, #ibaraki, #cake, #food"
-  - username: "ahjoomahan"
-    fullname: >-
-      Ahnah Han
-    location: "Japan"
-    followers: 18879
-    engagement: 987
-    commentsToLikes: 0.018566
-    id: ck8sy98hvk5xb0j78pnc85vk5
-    verified: false
-    hashtags: "#16monthsold, #6monthsold, #alwaysmybaby, #apahm"
+    hashtags: "#cargirls, #japanesegirl, #carstagram, #halloween"
   - username: "aytystyle"
     fullname: >-
       Ay&Ty Style
+    bio: >-
+      watches, wine and foods in Tokyo♡ 🌸plz credit if repost🌸 . 🎞 Video edit by Ty . 🍷#aytywine 🍽#aytydining #ayty_best10 #ayty_best20 #ayty_best30 .
     location: "Japan"
-    followers: 28367
-    engagement: 454
-    commentsToLikes: 0.095009
+    followers: 29689
+    engagement: 402
+    commentsToLikes: 0.084881
     id: ck13958r0jldt0i195llnjno7
     verified: false
-    hashtags: "#chottopeutetre, #mascarponecream, #leflaive, #gattinaranervi"
+    hashtags: "#oysterperpetual36, #hermesminikelly, #alexandermcqueen, #hermeskellypicnic"
+  - username: "t_taka_8186"
+    fullname: >-
+      T_Taka_8186
+    bio: >-
+      食べる事が好きで、お店が好きで、料理が好きで、料理人の方々が好きです 自分の愛するお店にはやたら通います 焼肉 寿司 中華 鰻 とんかつ 餃子 炭水化物が好物です お酒が飲めません、煙草も吸いません ただただ食べるだけの食いしん坊の庶民ですがよろしくお願い致します
+    location: "Japan"
+    followers: 18106
+    engagement: 345
+    commentsToLikes: 0.006640
+    id: ck14jdc4wjrso0i19ivkjkxak
+    verified: false
+    hashtags: "#foodpics, #instafood, #shirokane, #food"
   - username: "karen_eel3"
     fullname: >-
       Karen
+    bio: >-
+      🇰🇷100% From✈︎JEJU/제주🌴>>>TOKYO🗼 Food/Beauty/Fashion/Travel/anime
     location: "Japan"
-    followers: 15337
-    engagement: 221
-    commentsToLikes: 0.023904
+    followers: 15640
+    engagement: 219
+    commentsToLikes: 0.012330
     id: ck6ubej1893fk0j71iltb52s1
     verified: false
-    hashtags: "#mightypurplecafe, #joemibyunami, #cherish, #stateyourcase"
-  - username: "ma_me_jam"
+    hashtags: "#klavuu, #03mint, #cherish, #blackootd"
+  - username: "hiro.sato.sushi"
     fullname: >-
-      まめジャム
+      Hiroyuki Sato
+    bio: >-
+      Hakkoku Chef sushihakkoku@gmail.com
     location: "Japan"
-    followers: 26435
-    engagement: 694
-    commentsToLikes: 0.006190
-    id: ck6uglm9r3qxq0j719xlqays4
+    followers: 21121
+    engagement: 437
+    commentsToLikes: 0.009499
+    id: ck5ciu6z3tdo50i11tbbxw0nw
     verified: false
-    hashtags: "#eggsbenedict, #tempura, #frenchfries, #sakuzan"
-  - username: "megukiss0517"
+    hashtags: "#oad, #michelin, #gault, #hakkoku"
+  - username: "joeishere_joeofficial"
     fullname: >-
-      ˚✧₊⁎M e g u m i˚✧₊⁎
+      西澤呈/Joe Nishizawa /GENIC/
+    bio: >-
+      西澤呈/GENIC/avex/2月28日/高3 作詞・作曲・編曲﻿・振り付け・映像編集 #GENIC #呈 my YouTube👇
     location: "Japan"
-    followers: 45535
-    engagement: 362
-    commentsToLikes: 0.044739
-    id: ckaosohjtsdjc0i783i505nnd
+    followers: 9732
+    engagement: 1673
+    commentsToLikes: 0.034691
+    id: ck6tm5zxh78l90j713cydzbom
     verified: false
-    hashtags: "#pink, #cake, #vancleef, #horse"
-  - username: "h_sakurai"
+    hashtags: "#genic, #celebration, #joe, #tiktok"
+  - username: "thermos_k.k"
     fullname: >-
-      𝑯𝑨𝑹𝑼𝑲𝑨 𝑺𝑨𝑲𝑼𝑹𝑨𝑰 - 櫻井 ハルカ -
+      サーモス【公式】 THERMOS_k.k
+    bio: >-
+      🌱サーモス公式アカウントです🌱 日々の生活を、ちょっと豊かにする情報をお届けします! ※いいね、リポストもさせていただくことがあります サーモス会員サイト「Club Thermos」もよろしくお願いします。 https://www.club-thermos.jp/
     location: "Japan"
-    followers: 17328
-    engagement: 211
-    commentsToLikes: 0.022436
-    id: ck5hopi4xpzkd0i11irh3za6o
+    followers: 52060
+    engagement: 284
+    commentsToLikes: 0.005983
+    id: ck14jg44lk5yy0i19jwh7hjjj
     verified: false
-    hashtags: "#longtshirt, #glafit, #lips, #women"
-  - username: "risa_tokyo_"
+    hashtags: "#thermos, #repost, #lunch, #instamood"
+  - username: "akicoco76"
     fullname: >-
-      Risato
+      akiii♡
+    bio: >-
+      
     location: "Japan"
-    followers: 7270
-    engagement: 985
-    commentsToLikes: 0.007818
-    id: ck1375pnu9x1w0i19wv6bf9d5
+    followers: 2839
+    engagement: 1818
+    commentsToLikes: 0.032427
+    id: ck0vv5f7ynmp30i19zzgbo3qs
     verified: false
-    hashtags: "#lobor, #bikini, #khosamui, #cafe"
-  - username: "anzu.akiba"
+    hashtags: "#sweets, #kawaii, #strawberry, #flower"
+  - username: "smine27"
     fullname: >-
-      🌹Anzu Julia Akiba🌹
+      TabiEats Shinichi
+    bio: >-
+      Food and Travel ⬇️ YouTube Channel
     location: "Japan"
-    followers: 8910
-    engagement: 721
-    commentsToLikes: 0.031718
-    id: ckap7wrqblwkw0i781qzx2ckb
+    followers: 20405
+    engagement: 399
+    commentsToLikes: 0.047253
+    id: ckf5op92w37610j23xqzxle8z
     verified: false
-    hashtags: "#stayhome, #cruise, #bestrestaurant, #tokyo"
-  - username: "takashi_iiii"
+    hashtags: "#noodles, #japanesefood, #tokyo, #tasty"
+  - username: "thejapantimes"
     fullname: >-
-      プリン王子,プリン,東京カフェ,Youtube,note,🍮
+      The Japan Times
+    bio: >-
+      Official account of the most widely read English-language newspaper in #Japan. 日本で一番読まれている英字新聞・ジャパンタイムズ。Follow for #news, #food, #travel and more.
     location: "Japan"
-    followers: 6210
-    engagement: 1074
-    commentsToLikes: 0.018914
-    id: ck5pyfgsvvrdo0i11d3ptyhm5
-    verified: false
-    hashtags: "#matcha, #kamakura, #eggbabycafe, #sukemasacoffee"
+    followers: 71266
+    engagement: 219
+    commentsToLikes: 0.006811
+    id: ck0tx54x8hylk0i19d36irz0p
+    verified: true
+    hashtags: "#japanesecooking, #recipe, #nature, #japanesefood"
 ---

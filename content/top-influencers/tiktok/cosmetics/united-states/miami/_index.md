@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics TikTok Influencers In Miami In 2020
 description: >-
-  Find top cosmetics TikTok influencers in Miami in 2020. Most popular hashtags: #duet #fyp #school #family.
+  Find top cosmetics TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
 platform: TikTok
+hits: 5
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 5 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "snaps4real"
+  - username: "nicoleiutinskas"
     fullname: >-
-      Snaps
+      Nicole Iutinskas
+    bio: >-
+      IG: Nicole_iutinskas SC: Noel.iutinskas 24 /AZ Bi🏳️‍🌈
     location: "United States"
-    followers: 36470
-    engagement: 2420
-    commentsToLikes: 0.085679
-    id: ck9789nbt76030j78i96ce19y
+    followers: 38600
+    engagement: 217
+    commentsToLikes: 0.012895
+    id: ckd6croki54870j23pqdtliwj
     verified: false
-    hashtags: "#werkitfromhome, #happyeaster, #losingmymind, #levelup"
+    hashtags: "#foryou, #viral, #bbl, #fyp"
+  - username: "makeupbylaura2233"
+    fullname: >-
+      makeupbylaura2233
+    bio: >-
+      Math Teacher💖 Makeup ☀️Florida☀️ PR - makeupbylaura2233@gmail.com
+    location: "United States"
+    followers: 2766
+    engagement: 572
+    commentsToLikes: 0.153976
+    id: ck9ej98yi1kdc0j78slb0tzw6
+    verified: false
+    hashtags: "#motd, #makeuplover, #millennial, #tutorial"
+  - username: "savantress"
+    fullname: >-
+      Lit Wikipedia
+    bio: >-
+      harvard grad servin facts⚡️skincare brand founder ⚡️creator⚡️25⚡️IG:@mirelbaysal
+    location: "United States"
+    followers: 6145
+    engagement: 514
+    commentsToLikes: 0.056222
+    id: ckb9if6kr8usf0j239wppk3k5
+    verified: false
+    hashtags: "#foryou, #werkitfromhome, #home, #fyp"
+  - username: "mikeruiz86"
+    fullname: >-
+      Mike Ruiz
+    bio: >-
+      Photographer, director, INSTAGRAM ⬆️ video chat live with me at link below ⬇️
+    location: "United States"
+    followers: 718700
+    engagement: 710
+    commentsToLikes: 0.012024
+    id: ck8fbx2k859fq0j78ipt1gkul
+    verified: false
+    hashtags: "#fashion, #fy, #mikeruiz, #mikeruizphotography"
+  - username: "sheafilling"
+    fullname: >-
+      Shea Filling
+    bio: >-
+      Hello beautiful people! ❤️ Vote for me to be on the cover of MAXIM MAGAZINE
+    location: "United States"
+    followers: 20900
+    engagement: 623
+    commentsToLikes: 0.032209
+    id: ckcuh2019fgki0j236nkoz8q2
+    verified: false
+    hashtags: "#blonde, #goals, #thesecret, #fashion"
   - username: "lipfix_cosmetics"
     fullname: >-
       ✨Lipgloss Business✨
+    bio: >-
+      ✊🏻✊🏼✊🏽✊🏾✊🏿 Giveaway at 150k💖 Insta⬆️ YouTube: Lipfix Cosmetics
     location: "United States"
-    followers: 127151
-    engagement: 2250
-    commentsToLikes: 0.031364
+    followers: 123400
+    engagement: 2121
+    commentsToLikes: 0.028002
     id: ck9pm9m3k88ze0j784ceyaswn
     verified: false
-    hashtags: "#gloss, #lipoil, #partone, #coronavirus"
-  - username: "luhvlace"
+    hashtags: "#fun, #smallbusiness, #lipgloss, #lipfix"
+  - username: "marieclaire.popernik"
     fullname: >-
-      P A T R I C K
+      Marieclaire Popernik
+    bio: >-
+      shop the link below! go follow my business page @marieclaire.cosmetics
     location: "United States"
-    followers: 236028
-    engagement: 2089
-    commentsToLikes: 0.037701
-    id: ck8hqy2dp6cdg0j78pjzb4x7i
+    followers: 88600
+    engagement: 2192
+    commentsToLikes: 0.013943
+    id: ck8z8ny64uwv30j78aal4fkes
     verified: false
-    hashtags: "#pov, #fyp, #duet"
-  - username: "lucianodblanco"
+    hashtags: "#tiktoktaughtme, #foryoupage, #theoldguard, #fyp"
+  - username: "ofracosmetics"
     fullname: >-
-      lucianodblanco
+      Ofra Cosmetics
+    bio: >-
+      OFRA Cosmetics 🇺🇸Made in the USA 🐰Cruelty-Free Cosmetics 💗Makeup & Skincare
     location: "United States"
-    followers: 15695
-    engagement: 2298
-    commentsToLikes: 0.053909
-    id: ckan36rvq3pp90i78duwr6jm6
+    followers: 20300
+    engagement: 1563
+    commentsToLikes: 0.076807
+    id: ck9c4m8lnq4t60j78g00u940a
     verified: false
-    hashtags: "#almondwalk, #duetwithme, #learnfromme, #foryourpage"
-  - username: "d.deaguiarrr"
+    hashtags: "#lipstick, #ghostphotoshoot, #amazonprime, #dayinmylife"
+  - username: "olgaavezbakiev"
     fullname: >-
-      dan
+      Olga Avezbakiev
+    bio: >-
+      Thank You all for love and support! Check out my daughter's cosmetic business!
     location: "United States"
-    followers: 504664
-    engagement: 2092
-    commentsToLikes: 0.023603
-    id: ck8vw2v9cn8qk0j781l0mrir5
+    followers: 2662
+    engagement: 1232
+    commentsToLikes: 0.084778
+    id: ckcdf7ezy6hix0j23fjpaow61
     verified: false
-    hashtags: "#fyp, #duet, #makebakeshake, #scoobdance"
-  - username: "andreshurtador"
+    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
+  - username: "waykint"
     fullname: >-
-      andres:)
+      kayla
+    bio: >-
+      24 | OH | waykintcustoms on Etsy | waykint cosmetics on facebook 🥰
     location: "United States"
-    followers: 301806
-    engagement: 2602
-    commentsToLikes: 0.019950
-    id: ck8zb6rn44bar0j78aiay0r6n
+    followers: 5566
+    engagement: 1170
+    commentsToLikes: 0.053336
+    id: ckc7wx75azvsc0j23igkzuus3
     verified: false
-    hashtags: ""
-  - username: "juliezats"
-    fullname: >-
-      Julie Zats
-    location: "United States"
-    followers: 1203948
-    engagement: 1958
-    commentsToLikes: 0.021202
-    id: ck8kexl32bguy0j78zqx1ii3u
-    verified: true
-    hashtags: "#barbiegirl, #playdate, #recathome, #hooper"
-  - username: "ajgonz417"
-    fullname: >-
-      Aj González
-    location: "United States"
-    followers: 178791
-    engagement: 3121
-    commentsToLikes: 0.022608
-    id: ck910epuxhdwu0j7821yusyes
-    verified: false
-    hashtags: "#familytime, #monstersinc, #latinoboy, #cult"
-  - username: "mr.marchi"
-    fullname: >-
-      Tyler Marchante ✪
-    location: "United States"
-    followers: 20364
-    engagement: 1607
-    commentsToLikes: 0.056390
-    id: ck9acypzsuuo50j78q6xqgk3k
-    verified: false
-    hashtags: "#itsaremix, #minkfam, #trend, #auxcord"
-  - username: "imjusttito"
-    fullname: >-
-      TitoTheFirst
-    location: "United States"
-    followers: 544549
-    engagement: 1803
-    commentsToLikes: 0.040543
-    id: ck8p0ua2rifjn0j78qzzaf1rd
-    verified: true
-    hashtags: "#selfmademua, #got2bhome, #quarantineroutine, #analytics"
+    hashtags: "#unitedwedance, #browneyes, #fyp, #hi"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Climbers Instagram Influencers In 2020
 description: >-
-  Find top climbers Instagram influencers in 2020. Most popular hashtags: #rockclimbing #tiktok #earthday #selfies.
+  Find top climbers Instagram influencers in 2020. Most popular hashtags: #climbing #adventure #climbers.
 platform: Instagram
+hits: 776
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 776 Instagram influencers like this for you to connect with.
 profiles:
   - username: "climbersjp"
     fullname: >-
       CLIMBERS
+    bio: >-
+      CLIMBERS（クライマーズ）はクライミングをテーマにした複合メディアプロジェクトです。フリーマガジンは全国のクライミングジム600店舗で配布中！ 🔎 Focus on Japanese sport climbing scenes and publishing a free magazine
     location: "Japan"
     followers: 10644
     engagement: 470
     commentsToLikes: 0.001003
     id: ck0ttpt123rzw0i197qfuh1oe
     verified: false
-    hashtags: "#climbershands, #handcare, #thenorthfacecup2020, #onlineshop"
-  - username: "mariajazzi"
+    hashtags: "#japenseclimbinggyms, #savetheclimbinggyms, #happybirthday, #bouldering"
+  - username: "sarahonthegoo"
     fullname: >-
-      Maria|ماريا
+      Sarah G. Francis
+    bio: >-
+      ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
     location: ""
-    followers: 5753
-    engagement: 1059
-    commentsToLikes: 0.101246
-    id: ck6tj70j524ov0j71isqiljk5
+    followers: 2597
+    engagement: 2981
+    commentsToLikes: 0.145833
+    id: ckf5vgt9dojx60j2308y28xod
     verified: false
-    hashtags: "#saltywater, #adventuretime, #summerlover, #leadclimbing"
+    hashtags: "#riverside, #betterwhensmiling, #campfire, #sunsetphotography"
+  - username: "jakestormoen"
+    fullname: >-
+      Jake Stormoen
+    bio: >-
+      🎭-Actor ⚔️-Garret in #TheOutpost on @thecw/SYFY🌎 🐉-Creator of @stormforgeddice🎲 w/ @dieharddice 🤓-Geek 🧗‍♂️-Climber Let’s be friends
+    location: "United Kingdom"
+    followers: 12895
+    engagement: 898
+    commentsToLikes: 0.078756
+    id: ck0w21nrym7ai0i19epig0ozk
+    verified: true
+    hashtags: "#theoutpostseries, #spiritday, #theappearance, #horses"
+  - username: "kellienicole"
+    fullname: >-
+      Kellie Bochart
+    bio: >-
+      📍 Roaming the Southwest 🐾 Elphie’s Adventure Guide ✨ You can find me sleeping under the stars 🌵Backcountry explorer, rock climber, trail runner
+    location: "United States"
+    followers: 8623
+    engagement: 1555
+    commentsToLikes: 0.046052
+    id: ck0u0xcgxv6cn0i19bi6fxgni
+    verified: false
+    hashtags: "#xerocole, #overbuiltnotoverpriced, #fourpeakspartner, #thirstforadventure"
   - username: "bethrodden"
     fullname: >-
       bethrodden
+    bio: >-
+      Professional Climber | Mom | Speaker | Yosemite Dweller | Ridgeback lover
     location: "United States"
-    followers: 55528
-    engagement: 905
-    commentsToLikes: 0.026357
+    followers: 57865
+    engagement: 971
+    commentsToLikes: 0.026210
     id: ck5pyx3y6y8d70i117uecsj5b
     verified: false
-    hashtags: "#lastdaybestday, #yosemitebouldering, #orambassador, #curiousclimberpodcast"
-  - username: "luce_douady"
-    fullname: >-
-      luce
-    location: "France"
-    followers: 5223
-    engagement: 3080
-    commentsToLikes: 0.038621
-    id: ck6tpu17jmxrs0j71ywdwit5i
-    verified: false
-    hashtags: "#cacahuetepower"
-  - username: "semadogan._"
-    fullname: >-
-      Sema Doğan
-    location: "Turkey"
-    followers: 17139
-    engagement: 981
-    commentsToLikes: 0.029277
-    id: ck8t4usuj7zk50j78c5kfpexf
-    verified: false
-    hashtags: "#nurgaz, #istanbulbalat, #hisar, #tbmm100ya"
+    hashtags: "#sustainablefinance, #sponsored, #orambassador, #curiousclimberpodcast"
   - username: "vagabondhearts"
     fullname: >-
       andrea ference 🇨🇦🇦🇹
-    location: "United States"
-    followers: 312616
-    engagement: 574
-    commentsToLikes: 0.017974
+    bio: >-
+      coffee drinker | mountain climber | cheese lover based in the canadian rockies hello@andreaference.com
+    location: "Canada"
+    followers: 327673
+    engagement: 671
+    commentsToLikes: 0.016245
     id: ck0u0dfketfqu0i19nuhrf5ia
     verified: false
-    hashtags: "#biggerthanabar, #fujifilmpartner, #jolyn, #ad"
-  - username: "kimmie.tu"
+    hashtags: "#hellobc, #yosemite, #california, #roadtrip"
+  - username: "yogabylindsay"
     fullname: >-
-      KIMMIE TU | Rock Climber
-    location: "United States"
-    followers: 33361
-    engagement: 585
-    commentsToLikes: 0.057765
-    id: ck5heq7fvu82o0i11ck4f80n6
+      𝐘𝐎𝐆𝐀•   𝐁𝐲 𝐋𝐢𝐧𝐝𝐬𝐚𝐲
+    bio: >-
+      ↳ RYT500 • RPYT • Reiki I • Mindfulness • 🇨🇦 ↳ Mama2021 • Kombucha Life • Mountain Climber ↳ Sky above, earth below, peace within. ↳ 𝐂𝐡𝐞𝐜𝐤 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭!⇣
+    location: "Canada"
+    followers: 10107
+    engagement: 758
+    commentsToLikes: 0.193248
+    id: ck6tiglaw0ohi0j71ff6vgsqd
     verified: false
-    hashtags: "#valentinesday, #fitgirls, #earthday, #sponsored"
-  - username: "sarahal06"
+    hashtags: "#wolven, #pregnantyogi, #aumnie, #vayumudratribe"
+  - username: "sofisaphier"
     fullname: >-
-      Sarahal06
-    location: "France"
-    followers: 48527
-    engagement: 2118
-    commentsToLikes: 0.011936
-    id: ck8wgob5mhr0v0j78d84gwpze
+      Sofi Cofré Saphier
+    bio: >-
+      24, Mountain Climber - Athlete. Civil Engineering, U de Chile. 🥇 Cerro Plomo (5424 masl) FKT Record Ascent.
+    location: ""
+    followers: 8955
+    engagement: 2404
+    commentsToLikes: 0.032989
+    id: ck6tt91079ao40j719b7av8hy
     verified: false
-    hashtags: "#nomakeup, #tiktok, #tiktokdance"
-  - username: "splatterflower"
+    hashtags: "#mountain, #skyrunning, #iceclimbing, #climbing"
+  - username: "mariajazzi"
     fullname: >-
-      Phillip Booth
-    location: "Australia"
-    followers: 6604
-    engagement: 847
-    commentsToLikes: 0.064750
-    id: ck135oq522gzy0i19h7bo56e5
+      Maria|ماريا
+    bio: >-
+      📍 Bey │ Leb 👩🏽‍⚕️ Nurse Student #nurse 🧗🏽‍♀️ Climber #climber 🏃🏽‍♀️ Runner #runner
+    location: ""
+    followers: 7059
+    engagement: 1242
+    commentsToLikes: 0.145827
+    id: ck6tj70j524ov0j71isqiljk5
     verified: false
-    hashtags: "#worldphotographyday, #hanoi, #vietnam, #30"
-  - username: "eric.karlsson.bouldering"
+    hashtags: "#adventure, #climbingphotography, #waterfall, #travel"
+  - username: "magmidt"
     fullname: >-
-      Eric Karlsson
-    location: "Sweden"
-    followers: 29462
-    engagement: 748
-    commentsToLikes: 0.012471
-    id: ck0vxlqd1zj7t0i198smx2t8a
-    verified: false
-    hashtags: "#youtube, #trainingday, #climbinginspiration, #tryhard"
+      Magnus Midtbø
+    bio: >-
+      Climber and aspiring YouTuber with a fetish for training. Founder of Rungne. Toyota, Scarpa
+    location: "Norway"
+    followers: 332387
+    engagement: 1245
+    commentsToLikes: 0.009001
+    id: ck0ub3bamdq7k0i191ns95bga
+    verified: true
+    hashtags: "#startyourimpossible, #tbt, #noplacetoofar, #tb"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Portugal In 2020
 description: >-
-  Find top travel Instagram influencers in Portugal in 2020. Most popular hashtags: #quarantine #stayhome #sunnyday #beachlife.
+  Find top travel Instagram influencers in Portugal in 2020. Most popular hashtags: #visitportugal #visitalgarve #portugal #algarve.
 platform: Instagram
+hits: 372
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 372 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "last_lostcouple"
+  - username: "thetwobohemians"
     fullname: >-
-      𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 ♥ 𝓔𝓶𝓪𝓷𝓾𝓮𝓵®
+      Luke & Tyler ≈ MINDFUL TRAVEL
+    bio: >-
+      Couple Living Consciously, Working Online & Travelling the World. 🌍 📸 @bohemianpresets Founders: @consciouscollectives.co 💦 ↺ Now: #Portugal 🇵🇹
     location: "Portugal"
-    followers: 10102
-    engagement: 1470
-    commentsToLikes: 0.104907
-    id: ck0w5yxue63si0i19taqdsp0f
+    followers: 64063
+    engagement: 223
+    commentsToLikes: 0.052522
+    id: ck0u6dt101m860i1921ad3kl5
     verified: false
-    hashtags: "#follow, #dream, #free, #goodtimes"
-  - username: "olmakasia"
-    fullname: >-
-      Kasia Olma
-    location: "Portugal"
-    followers: 23034
-    engagement: 883
-    commentsToLikes: 0.160914
-    id: ck5cei4z0l1xe0i11ctu0lvm9
-    verified: false
-    hashtags: "#naturelifestyle, #ficaemcasa, #wildheartslab, #beautifulsea"
-  - username: "lorys.story"
-    fullname: >-
-      Loredana Gavrila🇹🇩
-    location: "Portugal"
-    followers: 23074
-    engagement: 844
-    commentsToLikes: 0.410605
-    id: ck6tymwtr4ohc0j715m2bykgj
-    verified: false
-    hashtags: "#travelasia, #beachvibes, #nomadgirls, #giurgiu"
-  - username: "florindalopes"
-    fullname: >-
-      FLO | LIFESTYLE BLOGGER
-    location: "Portugal"
-    followers: 6651
-    engagement: 1104
-    commentsToLikes: 0.080495
-    id: ck0u8yved8msd0i19xe8fbdjx
-    verified: false
-    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
-  - username: "suzy.antunes"
-    fullname: >-
-      SUSANNA ANTUNES
-    location: "Portugal"
-    followers: 3382
-    engagement: 1851
-    commentsToLikes: 0.176496
-    id: ck14lcy8wu1hv0i19jzzwtke4
-    verified: false
-    hashtags: "#redlips, #babyblue, #ladyinred, #cyclades"
-  - username: "flywithmauro"
-    fullname: >-
-      Mauro De Jesus | Pilot ✈️
-    location: "Portugal"
-    followers: 8121
-    engagement: 1575
-    commentsToLikes: 0.110996
-    id: ckaot97jpuv950i78x7z8icf0
-    verified: false
-    hashtags: "#bike, #folga, #navigations, #bikelifestyle"
-  - username: "marianacardia"
-    fullname: >-
-      Mαяιαηα 🌹
-    location: "Portugal"
-    followers: 15273
-    engagement: 653
-    commentsToLikes: 0.131552
-    id: ck8t6uh2eeqch0j78kg2sj6w0
-    verified: false
-    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
+    hashtags: "#travelcouple, #vanlifeeurope, #couplegoals, #laptoplifestyle"
   - username: "miss_tet"
     fullname: >-
       Teresa Lemos
+    bio: >-
+      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
     location: "Portugal"
-    followers: 16974
-    engagement: 1266
-    commentsToLikes: 0.031082
+    followers: 27624
+    engagement: 2192
+    commentsToLikes: 0.114470
     id: ck55oexap88090i11kxq4k55q
     verified: false
-    hashtags: "#doglover, #diasdechuva, #norteshopping, #dailycristina"
-  - username: "hungrymoey"
+    hashtags: "#sunnyday, #summer, #smile, #alegria"
+  - username: "lucindagon.travel"
     fullname: >-
-      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
+      Lucinda Gonçalves
+    bio: >-
+      #Explore 🗺 #Eat🍲 #Drink 🍷 📍#Portugal 🇵🇹 ✈ 52 countries My Photos 📸 My Travels 🛫🌍 Sharing my Travel Journals 🧳 📔 💌 lucindagon.travel@gmail.com
     location: "Portugal"
-    followers: 19354
-    engagement: 418
-    commentsToLikes: 0.079897
-    id: ck5cammu1dp6j0i11miv13rw6
+    followers: 16582
+    engagement: 1136
+    commentsToLikes: 0.082322
+    id: ckap5xjdgdkxt0i78a7uncrve
     verified: false
-    hashtags: "#marseille, #zomatolb, #dessert, #rome"
-  - username: "nunoantunes_"
+    hashtags: "#exploreportugal, #dametraveler, #tupodes, #lisboaportugal"
+  - username: "myredsabbatical"
     fullname: >-
-      Nuno Antunes
+      Marcela | Travel, Yoga, Nature
+    bio: >-
+      🛩 Traveller, adventurer, solopreneur 🤱 Solo mom to the coolest little girl 🌱 Founder @nayavita.yoga and @mynayavita
     location: "Portugal"
-    followers: 86050
-    engagement: 521
-    commentsToLikes: 0.036486
-    id: ck0w70geub53e0i19ba3o3vus
+    followers: 7668
+    engagement: 1068
+    commentsToLikes: 0.501685
+    id: ck6tv7bb8kkwj0j71yjlgj1xf
     verified: false
-    hashtags: "#coupleshoot, #casuallook, #classicstyle, #menstrend"
+    hashtags: "#motherhoodintheraw, #hotmom, #travellingbaby, #familytimeisthebesttime"
+  - username: "inesdsimao"
+    fullname: >-
+      Hey, it’s Inês
+    bio: >-
+      Travel & Food Enthusiast 🗺 (off to see the world) All Disney parks in the 🌏: check!! 📍Lisbon (home)
+    location: "Portugal"
+    followers: 12135
+    engagement: 859
+    commentsToLikes: 0.309347
+    id: ck14iqxnmgs420i19np23l7do
+    verified: false
+    hashtags: "#pub, #bekind, #soubekind, #21dayskind"
+  - username: "pedeaopai"
+    fullname: >-
+      Inês Ribolhos
+    bio: >-
+      Proud mom of ✌🏻. Newbie wife. Traveller. Occasionally runner. Sarcasm ninja. Gifted napper. Prideful owner of @pedeaopai.store ⭐️. Lisboa, 🇵🇹.
+    location: "Portugal"
+    followers: 13108
+    engagement: 795
+    commentsToLikes: 0.092735
+    id: ck5c2h1bsx8wd0i11libm8yze
+    verified: false
+    hashtags: "#myboy, #momoftwo, #instamom, #lifeofguigas"
+  - username: "odysseus.our"
+    fullname: >-
+      JOÃO & ALEXANDRA✈TRAVEL COUPLE
+    bio: >-
+      ♡ Portuguese & Greek Digital creators | travellers ✧ Build a wealthy mindset and live a life you want ✧ YouTube ↡
+    location: "Portugal"
+    followers: 6844
+    engagement: 829
+    commentsToLikes: 0.174378
+    id: ck14k3dsjnj840i192dkxsrre
+    verified: false
+    hashtags: "#bestplacestogo, #wanderlove, #traveltheworld, #globalwanderer"
+  - username: "ajoanamaiaa"
+    fullname: >-
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
+    bio: >-
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost Embaixadora: @fitnessup_portugal UP-JOANAMAIA Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
+    location: "Portugal"
+    followers: 7981
+    engagement: 823
+    commentsToLikes: 0.254085
+    id: ck14hflt0a2vq0i19iwbux8so
+    verified: false
+    hashtags: "#travel, #travelgirls, #swimwear, #beach"
+  - username: "marianacardia"
+    fullname: >-
+      Mαяιαηα 🌹
+    bio: >-
+      📍Lisbon 🇵🇹 🎓: ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@pinkfashionsales
+    location: "Portugal"
+    followers: 16137
+    engagement: 552
+    commentsToLikes: 0.095829
+    id: ck8t6uh2eeqch0j78kg2sj6w0
+    verified: false
+    hashtags: "#sheingals, #shein, #pub, #tuaaguadeproximidade"
+  - username: "suzy.antunes"
+    fullname: >-
+      SUSANNA ANTUNES
+    bio: >-
+      From Finland 🇫🇮 Living in Portugal 🇵🇹 ✈️ Traveling 👠 Fashion
+    location: "Portugal"
+    followers: 3576
+    engagement: 1466
+    commentsToLikes: 0.154802
+    id: ck14lcy8wu1hv0i19jzzwtke4
+    verified: false
+    hashtags: "#summerlook, #explorers, #travelinspo, #discoverunder5k"
 ---

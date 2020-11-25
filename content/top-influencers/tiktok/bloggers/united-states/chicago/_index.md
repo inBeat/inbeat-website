@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers TikTok Influencers In Chicago In 2020
 description: >-
-  Find top bloggers TikTok influencers in Chicago in 2020. Most popular hashtags: #yearbook2020 #greenscreen #jewelry #vintage.
+  Find top bloggers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #momsoftiktok #foryoupage #blogger.
 platform: TikTok
+hits: 5
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 5 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "312food"
+  - username: "houseofhipsters"
     fullname: >-
-      Erin Byrne | 312food
+      Kyla  |  Home Decor Blogger
+    bio: >-
+      Home Decor Blogger - Styling & Interiors Chicago, IL
     location: "United States"
-    followers: 44804
-    engagement: 752
-    commentsToLikes: 0.020371
-    id: cka0ke8zem4dn0i78w54doz9r
+    followers: 42200
+    engagement: 594
+    commentsToLikes: 0.048588
+    id: ckav06m635tc50j23rrberu2z
     verified: false
-    hashtags: "#timeoutmarket, #myaesthetic, #eggchallenge, #traderjoes"
-  - username: "alaia.alaia"
+    hashtags: "#designtrends, #cottagecore, #furnitureflip, #homedecorideas"
+  - username: "yulibooli"
     fullname: >-
-      Lai lai 🦋
+      yulibooli
+    bio: >-
+      idk how I even got here CPA Big 4 Chicago
     location: "United States"
-    followers: 10977
-    engagement: 466
-    commentsToLikes: 0.036444
-    id: ck90tz47runq10j7890aatttc
+    followers: 25200
+    engagement: 1622
+    commentsToLikes: 0.024692
+    id: ckb9dh1v90t2j0j236uboevgm
     verified: false
-    hashtags: "#sneakerhead, #makeuproutine, #badboy, #work"
-  - username: "foamfromabove"
+    hashtags: "#checkmeoutchallenge, #snoozzzapalooza, #accounting, #fyp"
+  - username: "nimra.j.malik"
     fullname: >-
-      F2A
+      Nimra
+    bio: >-
+      I’m not like a regular mom. Chicago 🇵🇰
     location: "United States"
-    followers: 3607
-    engagement: 1441
-    commentsToLikes: 0.052605
-    id: ck9vcmg7tr8c60j78pa6x5yx4
+    followers: 7032
+    engagement: 597
+    commentsToLikes: 0.052968
+    id: ckbqgliqy245s0j23py2yags2
     verified: false
-    hashtags: "#makebakeshake, #whistlingbirds, #voiceeffects, #buzzbeetoys"
-  - username: "briknopf"
+    hashtags: "#diyfashion, #dollhousechallenge, #babytiktok, #patichallenge"
+  - username: "_itsnallely"
     fullname: >-
-      briknopf
+      _itsnallely
+    bio: >-
+      Be silly, Be fun - Welcome to my life✨ Follow my ig: _nallelypadilla 📍Chicago
     location: "United States"
-    followers: 29311
-    engagement: 663
-    commentsToLikes: 0.017214
-    id: cka6pcsuwj4zq0i78nmd048tg
+    followers: 29000
+    engagement: 439
+    commentsToLikes: 0.011981
+    id: ckczvofxu61jz0j23yg9pp5n9
     verified: false
-    hashtags: "#beautyhaul, #blogger, #stayathome, #revolve"
-  - username: "akiadanielle_"
+    hashtags: "#chicago, #motivation, #workout, #trending"
+  - username: "dessimonoff"
     fullname: >-
-      Akia Danielle
+      dessimonoff
+    bio: >-
+      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
     location: "United States"
-    followers: 4232
-    engagement: 2154
-    commentsToLikes: 0.085806
-    id: ck85cprvf2vae0j78qlnnrxwy
+    followers: 46400
+    engagement: 338
+    commentsToLikes: 0.012889
+    id: ck9v17ljmft3g0j784l2ozgix
     verified: false
-    hashtags: "#selfmotivation, #happymom, #marriedlife, #husbandandwife"
-  - username: "crutches_and_spice"
+    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
+  - username: "theitmom"
     fullname: >-
-      Crutches&Spice ♿️ : 
+      Daisy Teh
+    bio: >-
+      👩🏻‍💻Blogger/Amazon Seller 🇵🇭Former teen mom 🎉Family fun 👰🏻My BFF 📍Vegas
     location: "United States"
-    followers: 2333
-    engagement: 3553
-    commentsToLikes: 0.049325
-    id: ckamt730eth740i782nias5ka
+    followers: 550300
+    engagement: 1817
+    commentsToLikes: 0.025931
+    id: ckbqjjg5p4qnx0j234n7ohj93
     verified: false
-    hashtags: "#pandemic, #imblackandimproud, #politicaltiktok, #question"
-  - username: "kindasortateacher"
+    hashtags: "#babyturtle, #gimmelove, #turtlesoftiktok, #tortoise"
+  - username: "alyssatabit"
     fullname: >-
-      Ty Tiger
+      alyssa
+    bio: >-
+      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
     location: "United States"
-    followers: 2575
-    engagement: 1139
-    commentsToLikes: 0.073871
-    id: cka6d7bm36wkn0i783g11fs06
+    followers: 26000
+    engagement: 1418
+    commentsToLikes: 0.065475
+    id: ckbkt2nxko44z0j23uxvlyfak
     verified: false
-    hashtags: "#kidsbelike, #teachertip, #itsaremix, #imissmystudents"
-  - username: "420emotions"
+    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+  - username: "mrmoodydresser"
     fullname: >-
-      𝔤𝔞𝔟𝔯𝔦𝔢𝔩𝔩𝔞 ⚢
+      Mike Jones
+    bio: >-
+      40+ Fashion influencer and blogger! #mrmoodydresser
     location: "United States"
-    followers: 10016
-    engagement: 2781
-    commentsToLikes: 0.056885
-    id: ckamwjv5c8v8k0i78wqsq5oke
+    followers: 7772
+    engagement: 1041
+    commentsToLikes: 0.075983
+    id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#xyzbca, #racist, #response, #dragqueen"
-  - username: "aestheticallycate"
+    hashtags: "#weightlossjourney, #fitover40, #blackmenwithstyle, #tiktokover40"
+  - username: "carissa.stephens"
     fullname: >-
-      Aesthetic Cate🐥
+      Carissa Stephens
+    bio: >-
+      Lifestyle Blogger + Wine Maker Making life magical. Join me for the ride 🦄💫💕
     location: "United States"
-    followers: 117838
-    engagement: 1945
-    commentsToLikes: 0.038079
-    id: ck81qwwl5kkw90j78g28ooylz
+    followers: 4184
+    engagement: 1560
+    commentsToLikes: 0.058850
+    id: cka6b5e26ywxe0i78kkfffqh8
     verified: false
-    hashtags: "#twilight, #relationship, #clown, #foryourpage"
-  - username: "afashionnerd"
+    hashtags: "#fypage, #winelovers, #over30, #momsoftiktok"
+  - username: "thetravelingwhites"
     fullname: >-
-      Amy Roiland
+      Nick + Angelica
+    bio: >-
+      Traveled to 36 countries & counting🗺 💫Come be inspired 📍NJ 🛫Travel bloggers
     location: "United States"
-    followers: 11385
-    engagement: 955
-    commentsToLikes: 0.059117
-    id: ck9k9omuudzo80j78c4fbrndi
+    followers: 8111
+    engagement: 951
+    commentsToLikes: 0.077369
+    id: ckbfi3ce0dsb40j23obzl21qg
     verified: false
-    hashtags: "#purse, #youngmom, #tiktikfashion, #sparkle"
+    hashtags: "#travel, #throwbacktravel, #rhodeislandcheck, #travelcouple"
 ---

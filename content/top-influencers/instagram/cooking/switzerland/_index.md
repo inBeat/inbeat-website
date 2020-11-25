@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top cooking Instagram influencers in Switzerland in 2020. Most popular hashtags: #home #ootd #cookingathome #yummy.
+  Find top cooking Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #cooking #schweiz #healthyfood.
 platform: Instagram
+hits: 122
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 122 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "julieberthollet"
-    fullname: >-
-      Julie Berthollet
-    location: "Switzerland"
-    followers: 6649
-    engagement: 851
-    commentsToLikes: 0.063360
-    id: ck6u4fa3b3dsf0j71h07hhpzi
-    verified: true
-    hashtags: "#frenchelegance, #homenotalone"
   - username: "wanderlust___spirit"
     fullname: >-
-      N I N A • 𝙎𝙘𝙝𝙬𝙚𝙞𝙯
+      N i n a • 𝙎𝙘𝙝𝙬𝙚𝙞𝙯 🇨🇭
+    bio: >-
+      • 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 | 𝚃𝚛𝚊𝚟𝚎𝚕 𝚌𝚘𝚞𝚙𝚕𝚎 • 𝙼𝚒𝚗𝚒𝚖𝚊𝚕𝚒𝚜𝚝 𝚕𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 @wanderlust___cooking
     location: "Switzerland"
-    followers: 23169
-    engagement: 424
-    commentsToLikes: 0.043336
+    followers: 20790
+    engagement: 478
+    commentsToLikes: 0.109030
     id: ck8t3swa04d9l0j78rxbf543k
     verified: false
-    hashtags: "#eiffeltower, #beachwedding, #kabyle, #germany"
-  - username: "chanti_lia"
-    fullname: >-
-      FASHION BLOGGER
-    location: "Switzerland"
-    followers: 34396
-    engagement: 546
-    commentsToLikes: 0.100444
-    id: ck5qbxr5wnw5h0i11uggqfyu7
-    verified: false
-    hashtags: "#qotd, #mondays, #fashionstyle, #nikesocks"
-  - username: "olivermalicdem"
-    fullname: >-
-      Oliver Malicdem
-    location: "Switzerland"
-    followers: 17631
-    engagement: 562
-    commentsToLikes: 0.054268
-    id: ck5cats05e47l0i11vmtctpw8
-    verified: false
-    hashtags: "#onehand, #sportcars, #driftcar, #sportbrand"
-  - username: "indie.marea"
-    fullname: >-
-      Laura | Photographer
-    location: "Switzerland"
-    followers: 16891
-    engagement: 335
-    commentsToLikes: 0.096436
-    id: ck14jk4q2krld0i19yvbzipt0
-    verified: false
-    hashtags: "#influencerstyle, #longskirt, #privatevilla, #artstudio"
+    hashtags: "#hairsandstyles, #timetoplay, #blickheimat, #longhair"
   - username: "ready4meat"
     fullname: >-
       Patrick Manhard
+    bio: >-
+      🍴Passionated Food-Blogger 🥩Meat Specialist / Butcher 🇨🇭St. Gallen / Switzerland 📩Cooperation Requests / Mail 💯% Selfmade Content 📸Food Photographer
     location: "Switzerland"
-    followers: 7815
-    engagement: 1812
-    commentsToLikes: 0.110438
+    followers: 9095
+    engagement: 1118
+    commentsToLikes: 0.103908
     id: ckaorrt35ogm10i78pzf4t1f1
     verified: false
-    hashtags: "#entenbrust, #porkribs, #bbqparty, #teriyaki"
-  - username: "sachafreyja"
+    hashtags: "#bbqmaster, #dryagedsteak, #steaksandwich, #chefmode"
+  - username: "vegaliciously"
     fullname: >-
-      S Λ C H Λ ☾ F R E Y J Λ
+      Carlo Cao
+    bio: >-
+      Vegan Recipes made with lots of Love 👨🏻‍🍳 🥳 EBOOK out NOW 🥳⬇️ Link ⬇️
     location: "Switzerland"
-    followers: 38317
-    engagement: 669
-    commentsToLikes: 0.015840
-    id: ck8tba2uduvn90j78oyb0h78e
+    followers: 160063
+    engagement: 325
+    commentsToLikes: 0.020288
+    id: ck5ccokgjhqb70i110cd2u6rt
     verified: false
-    hashtags: "#darkart, #greedy, #happywitch, #green"
-  - username: "by_dreia"
+    hashtags: "#pasta, #thrivemags, #easyrecipes, #veganfood"
+  - username: "yummyfood_foryouu"
     fullname: >-
-      𝐀𝐧𝐝𝐫𝐞𝐢𝐚 𝐒𝐚𝐧𝐭𝐨𝐬
+      
+    bio: >-
+      Yummy Foods lover 🤤 ❌ Not a Chef 👩🏻‍🍳👨🏻‍🍳 📍Switzerland 🇨🇭 Credits & Respect : The Super talented Chefs from around The World 👨🏻‍🍳👩🏻‍🍳
     location: "Switzerland"
-    followers: 19128
-    engagement: 292
-    commentsToLikes: 0.023462
-    id: ck6u7q12umzw60j71z2rwwnte
+    followers: 85078
+    engagement: 155
+    commentsToLikes: 0.012863
+    id: ck133yfcoucn70i19lqunrvxy
     verified: false
-    hashtags: "#eatfruits, #coffeelover, #garden, #parcoursvita"
-  - username: "dadaherzogalattas"
+    hashtags: "#cooking, #chefgram, #gastroart, #foodpics"
+  - username: "bmqmag"
     fullname: >-
-      DADA HERZOG ALATTAS
+      BMQ
+    bio: >-
+      Premium swiss print #lifestyle magazine. Only on selected spots available.
     location: "Switzerland"
-    followers: 31805
-    engagement: 149
-    commentsToLikes: 0.027442
-    id: ck6uhtg6qb5ft0j71ylnfp157
+    followers: 22418
+    engagement: 122
+    commentsToLikes: 0.053003
+    id: ck6u72olpj4ha0j713zo7661i
     verified: false
-    hashtags: "#easter, #giveaway, #hosw, #recipes"
-  - username: "yuji.hannah"
+    hashtags: "#fashion, #switzerland, #lifestyle, #musik"
+  - username: "friedahodel"
     fullname: >-
-      Yuji Koi Cosplayer
+      F R I E D A   H O D E L
+    bio: >-
+      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹TV • Influencer
     location: "Switzerland"
-    followers: 14650
-    engagement: 692
-    commentsToLikes: 0.030970
-    id: ckapadl21voia0i78ghfbmio6
+    followers: 35906
+    engagement: 293
+    commentsToLikes: 0.059642
+    id: ckap0qb07rejq0i78ud5qp3yk
+    verified: true
+    hashtags: "#matterhorn, #swissalps, #travelgram, #travelblogger"
+  - username: "nicole_berchtold"
+    fullname: >-
+      Nicole Berchtold 🇨🇭
+    bio: >-
+      Anchor woman of #Swiss Television journalist #psychology @srfglanzundgloria @srfschweizerradioundfernsehen
+    location: "Switzerland"
+    followers: 7875
+    engagement: 910
+    commentsToLikes: 0.041161
+    id: ck6trm9pozt080j71qcwltmbd
     verified: false
-    hashtags: "#dailylife, #twitch, #dailylook, #armor"
+    hashtags: "#love, #tv, #swiss, #switzerland"
+  - username: "maria_bruggner"
+    fullname: >-
+      Maria Bruggner
+    bio: >-
+      🏃🏻‍♀️ #running 🌱 #healthyfood @nu3_de 15% sparen Rabattcode: 🇩🇪MARIA15DE 🇨🇭MARIA15CH 🇦🇹MARIA15AT
+    location: "Switzerland"
+    followers: 27225
+    engagement: 156
+    commentsToLikes: 0.084989
+    id: ck14jq9hmlni80i19r2hho9z8
+    verified: false
+    hashtags: "#foodporn, #fitnessmodel, #love, #healthyfood"
+  - username: "nad.cupra"
+    fullname: >-
+      𝐵𝑙𝑎𝑐𝑘 𝑖𝑏𝑖𝑧𝑎 𝑐𝑢𝑝𝑟𝑎
+    bio: >-
+      26 🦋 swissgirl 🇨🇭 gym lover 🥰 cars ♥️ @yourlilgirl93 second private profile
+    location: "Switzerland"
+    followers: 7473
+    engagement: 1351
+    commentsToLikes: 0.015593
+    id: ckap374cw1tw00i787wb7uzfr
+    verified: false
+    hashtags: "#life, #goodvibes, #body, #happy"
+  - username: "petra_klingler"
+    fullname: >-
+      Petra Klingler
+    bio: >-
+      Swiss Climber🧗🏼‍♀️🇨🇭 Boulder World Champion 2016 🥇 Sponsoren: @redbull @coop_rechtsschutz @adidasterrex @moodcollection_ch
+    location: "Switzerland"
+    followers: 25710
+    engagement: 646
+    commentsToLikes: 0.007487
+    id: ck0u7j61t4xc70i19tphh8c5v
+    verified: true
+    hashtags: "#enjoyandhavefun, #headinthegame, #giveitall, #makeyourday"
 ---

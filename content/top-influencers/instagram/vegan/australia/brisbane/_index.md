@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top vegan Instagram influencers in Brisbane in 2020. Most popular hashtags: #vegan #australia #dessert #protein.
+  Find top vegan Instagram influencers in Brisbane in 2020. Most popular hashtags: #vegan #brisbane #love #foodie.
 platform: Instagram
+hits: 22
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 22 Instagram influencers like this in Brisbane, Australia for you to connect with.
 profiles:
-  - username: "dariomancachef"
+  - username: "kelly_mcquirktattoo"
     fullname: >-
-      Dario Manca
+      Kelly McQuirk
+    bio: >-
+      🏳️‍🌈💖 🍂✨ Meanjin (Brisbane), AUS 🦊🌙 @foxandmoontattoo ⚡️NO DMS PLEASE - BOOKS CLOSED⚡️ For all artwork/commissions, please click the link below!
     location: "Australia"
-    followers: 33732
-    engagement: 139
-    commentsToLikes: 0.052763
-    id: ck0u99kra988c0i1962n89qpv
+    followers: 50480
+    engagement: 112
+    commentsToLikes: 0.014674
+    id: ck0txva53kl9z0i19r2vmps3j
     verified: false
-    hashtags: "#happybday, #gourmet, #isolation, #jewish"
-  - username: "lachlanfort"
+    hashtags: "#vegan, #brisbane, #brisbaneart, #abstract"
+  - username: "jeffleech_official"
     fullname: >-
-      LOCKY ZEE
+      🅹🅴🅵🅵 🅻🅴🅴🅲🅷
+    bio: >-
+      🖤 MOUNTAINS | CLIMBING | NATURE 🎓 PSYCHOLOGY | 👩🏻‍🚒 FIREFIGHTER 🌱 PROUDLY PLANT BASED 🎖 @pranaon AMBASSADOR D/C JEFF10
     location: "Australia"
-    followers: 2209
-    engagement: 1541
-    commentsToLikes: 0.080169
-    id: ckaoqq89njuy10i78l3a9soeh
+    followers: 30179
+    engagement: 226
+    commentsToLikes: 0.066664
+    id: ck6tykrox4bad0j71gntcneyg
     verified: false
-    hashtags: "#flight, #wakeupcall, #breakfast, #energy"
-  - username: "nicolestevenson_"
+    hashtags: "#malemodel, #gaybody, #abs, #gayjock"
+  - username: "queenslanderaviaries"
     fullname: >-
-      Nicole Stevenson
+      Queenslander Aviaries
+    bio: >-
+      👉 Follow for Daily Bird Food, Foraging, Toys, Handraising, Reviews and Events 🙋‍♂️Timothy - Vlogger & Aviculturist 🇦🇺 Ipswich, QLD 👇 Visit Online Shop
     location: "Australia"
-    followers: 13241
-    engagement: 633
-    commentsToLikes: 0.050744
-    id: ck5zo8jgkpzzt0i14nj7x3g5u
+    followers: 21407
+    engagement: 233
+    commentsToLikes: 0.023450
+    id: ck14i66todu8p0i193ju1jbdb
     verified: false
-    hashtags: "#happy, #inspirationalquotes, #birthdaygirl, #gamechanger"
-  - username: "amyaela"
+    hashtags: "#cockatiellovers, #birds, #birdsofig, #birdstagram"
+  - username: "brunchbabymelb"
     fullname: >-
-      Amy | Australia-India
+      lily ♥ melbourne
+    bio: >-
+      🥞 brunching all day, everyday 🌇 melbourne, aus 💌 DM/email for collabs, promos & enquiries 📩 brunchbabymelb@gmail.com 🥜 PB is the one true religion
     location: "Australia"
-    followers: 301360
-    engagement: 333
-    commentsToLikes: 0.020172
-    id: ck600bsdwday30i143e2jxb98
+    followers: 3716
+    engagement: 2672
+    commentsToLikes: 0.394235
+    id: ck14h0jjo7xnh0i19qv1p5soq
     verified: false
-    hashtags: "#radha, #maybeshesjustbrown, #buttabomma, #comingsoon"
-  - username: "missflorrie"
+    hashtags: "#londonfoodie, #sydneyfoodie, #sydneyeats, #foodie"
+  - username: "jennybeeen"
     fullname: >-
-      Photographer Recipes Styling
+      Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
     location: "Australia"
-    followers: 12174
-    engagement: 824
-    commentsToLikes: 0.186008
-    id: ck5q3012hiku90i11twbxcvt3
+    followers: 7040
+    engagement: 1114
+    commentsToLikes: 0.223159
+    id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#cheeseplatter, #foodphotography, #shake, #chiapudding"
-  - username: "candice3lise__"
+    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
+  - username: "lalasplate"
     fullname: >-
-      CANDICE 🦋
+      LARA 💗
+    bio: >-
+      🥬 health | food | balanced lifestyle ✨ content creator + recipe developer 🌎 brisbane 💌 hello@lalasplate.com 💗 Blog & more👇🏼
     location: "Australia"
-    followers: 10509
-    engagement: 984
-    commentsToLikes: 0.389739
-    id: ckap42c1b5j8i0i78100qqryc
+    followers: 24615
+    engagement: 568
+    commentsToLikes: 0.063766
+    id: ck15tte3pjswb0i19uj4bboe5
     verified: false
-    hashtags: "#dairyfree, #cashew, #missyempire, #dessert"
-  - username: "hannah.banana182"
+    hashtags: "#nicecream, #health, #smoothies, #smoothiebowl"
+  - username: "run2food"
     fullname: >-
-      🍌Hannah | Vegan Food Blogger
+      Vegan Recipes | Michelle 🌱
+    bio: >-
+      Easy | Tasty | Healthy(ish) ✨ Dentist 🦷| Brisbane, AUS 🇦🇺 📩michelle-hc@hotmail.com @macr0mike discount code “amb-chen”
     location: "Australia"
-    followers: 9508
-    engagement: 1160
-    commentsToLikes: 0.125086
-    id: ck8ta008lpypk0j783602ryw5
+    followers: 49221
+    engagement: 451
+    commentsToLikes: 0.160909
+    id: ck0tx137fhgrw0i19w8b4sprl
     verified: false
-    hashtags: "#smoothiebowlchallenge, #ausmusictshirtday"
-  - username: "healthybodhealthymind"
+    hashtags: "#run2food, #sp, #naturescharmau, #bananabread"
+  - username: "simba_sarenyia"
     fullname: >-
-      Sophie Rindfleish
+      Influencer | Athlete | Model
+    bio: >-
+      2020 Grand Champion Worlds Perfect Cheerleader Brisbane | 17 DM to collab 🚫 ask for permission to use photos Discounts in Linktree
     location: "Australia"
-    followers: 7530
-    engagement: 722
-    commentsToLikes: 0.168001
-    id: ck6tmair17hbt0j717vqq9vh6
+    followers: 62631
+    engagement: 160
+    commentsToLikes: 0.187634
+    id: ck5bwoappm3370i11wfrgouvx
     verified: false
-    hashtags: "#peanutfree, #lifeupdate, #thisisfine, #vegan"
-  - username: "huubwattbike"
+    hashtags: "#futsal, #hairproducts, #teenathlete, #makeup"
+  - username: "katya_supernova"
     fullname: >-
-      HUUB Wattbike p/b Vita Coco
+      Ekaterina
+    bio: >-
+      📍 🇦🇺 Model Food blog @katyas_foodblog Travel blog @ekaterina_travelblog
     location: "Australia"
-    followers: 9215
-    engagement: 556
-    commentsToLikes: 0.009707
-    id: ck0w09y00d4zb0i193mvgjtdf
+    followers: 218437
+    engagement: 248
+    commentsToLikes: 0.025952
+    id: ck13chibs0dd90i19cmt3vs2b
     verified: false
-    hashtags: "#cochabamba, #wattbikeatom, #sporttesting, #instacycling"
-  - username: "aussie_bloke_food"
+    hashtags: "#jewelry, #jewelrycollection, #natural, #hypebeast"
+  - username: "dwayne_patmore"
     fullname: >-
-      Aussie Bloke Food
+      𝐃𝐖𝐀𝐘𝐍𝐄 𝐏𝐀𝐓𝐌𝐎𝐑𝐄
+    bio: >-
+      Animal Cruelty Free 🌱🥥 🌮🍚 Avocado and Almond Addict🥑🥜 15%- VPA SUPPLEMENTS 🧃💊
     location: "Australia"
-    followers: 50981
-    engagement: 334
-    commentsToLikes: 0.013427
-    id: ck0u2maur0bzt0i19906gfc18
+    followers: 23628
+    engagement: 297
+    commentsToLikes: 0.051069
+    id: ck5zsc6f1y80j0i14f1mz3ehn
     verified: false
-    hashtags: "#burgerlove, #wingmill, #covid, #newsouthwales"
+    hashtags: "#mondaymotivation, #humpday, #iso, #fitness"
 ---

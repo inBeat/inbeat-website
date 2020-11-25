@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers Instagram Influencers In France In 2020
 description: >-
-  Find top mothers Instagram influencers in France in 2020. Most popular hashtags: #stayhome #love #parigi #cutcrease.
+  Find top mothers Instagram influencers in France in 2020. Most popular hashtags: #momlife #ootd #viedemaman.
 platform: Instagram
+hits: 632
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 632 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "absa___"
+    fullname: >-
+      A B S A | LA DARONNE
+    bio: >-
+      Wife l Mother Marseille 👉🏿📍Montpellier 👩🏿‍💻 Immobilier | Agence Century 21
+    location: "France"
+    followers: 7494
+    engagement: 762
+    commentsToLikes: 0.090056
+    id: ckap46ojf62li0i783k719fwr
+    verified: false
+    hashtags: "#prettylittlething, #lookbook, #black, #montpellier"
+  - username: "adriana_skygirl"
+    fullname: >-
+      
+    bio: >-
+      Adriana 😍 ✨13 years old ✨ Account managed by my PARENTS 👨‍👩‍👧‍👧 😉!!alecia@hotmail.fr ( Alecia mother). Live in France🇫🇷 Second account: @astro_adriana
+    location: "France"
+    followers: 111235
+    engagement: 420
+    commentsToLikes: 0.039482
+    id: ck0ub0tvmdevt0i19inpdwkbb
+    verified: false
+    hashtags: "#jennyfer, #zeroetiquette, #zeroetiquettezerodollar"
   - username: "scottmorton_m"
     fullname: >-
       Scott Morton
+    bio: >-
+      French model w/ Mother agency : @williamsagency 🇮🇹NEXT (Milan) 🇬🇧WILHELMINA (London) 🇫🇷BANANAS (Paris) 🇩🇪MGM (Hamburg) 🇦🇺FIVETWENTY (Sydney) 🇨🇭AQUA
     location: "France"
-    followers: 57946
-    engagement: 1429
-    commentsToLikes: 0.020871
+    followers: 70451
+    engagement: 1165
+    commentsToLikes: 0.018936
     id: ck6u881jbpz160j711dgpfa0d
     verified: false
-    hashtags: "#throwback, #quarantine"
-  - username: "andreea.litescu"
+    hashtags: "#halloween, #lockdown"
+  - username: "marine_roseetjosephine"
     fullname: >-
-      Andreea Popa (Litescu )
+      Marine • Borntobemamma
+    bio: >-
+      Blog borntobemamma Lifestyle/fashion/travel/motherhood/pregnant/sport/kids/food 🤰happymom sacha&ava 👛Design @rose_et_josephine_officiel 🏝Corse
     location: "France"
-    followers: 44288
-    engagement: 486
-    commentsToLikes: 0.031491
-    id: ck0w2g4b1o6tm0i19kt960naf
+    followers: 52347
+    engagement: 269
+    commentsToLikes: 0.086146
+    id: ck5qd9su5uiqi0i112cspdud1
     verified: false
-    hashtags: "#united, #dontrushchallenge, #unitedbywings"
+    hashtags: "#maman, #familyfirst, #kidsfun, #childrenmylife"
   - username: "thefrenchfolk"
     fullname: >-
       Margaux Follis
+    bio: >-
+      30 ◌ french ◌ mother ◌ interior designer Hack queen Lucas ♡ Ambre ⋒ Lison Victoria, Australia Collabs ⫸ thefrenchfolk@gmail.com Shop my presets ↡
     location: "France"
-    followers: 66215
-    engagement: 181
-    commentsToLikes: 0.080053
+    followers: 80820
+    engagement: 175
+    commentsToLikes: 0.168323
     id: ck139mr0cm2uk0i19wtkvp70a
     verified: false
-    hashtags: "#sistersquad, #5weeksold, #6weeksold, #hardlife"
-  - username: "adria_pomspitz"
+    hashtags: "#christmasdecor, #ad, #omg, #kloraneau"
+  - username: "_bana_zb"
     fullname: >-
-      adria_pomspitz
+      B A N A 🌻
+    bio: >-
+      🌿 Découvrir - S'inspirer - Se lancer 🌿 🌸 A young Mom in South of France sharing life & motherhood moments 🍀 👩🏾👶🏽🧔🏻 🌸 marketing student / 22th spring
     location: "France"
-    followers: 101208
-    engagement: 563
-    commentsToLikes: 0.016654
-    id: ck0ub0tvmdevt0i19inpdwkbb
+    followers: 2013
+    engagement: 2224
+    commentsToLikes: 0.067671
+    id: ckap0q2zprdj70i78vvki4zgj
     verified: false
-    hashtags: "#mydogismy, #monchiendamour, #monchien, #jadoremonchien"
+    hashtags: "#shootingday, #jeunemaman, #photoshoot, #ootdfashion"
+  - username: "asnajda"
+    fullname: >-
+      Anne-Sophie
+    bio: >-
+      Entrepreneur, Paris Addicted to yoga, pasta and red wine Mother of 4, designing under the brand @latelier13 📩 asnajda@gmail.com
+    location: "France"
+    followers: 25215
+    engagement: 320
+    commentsToLikes: 0.053334
+    id: ck6u9f2mnx71n0j712ogxi7ht
+    verified: false
+    hashtags: "#paris, #collaboration, #objectif100000arbres, #anniversaire"
   - username: "georgecn_"
     fullname: >-
-      George-C. NISTOR🇷🇴
+      George-C. NISTOR
+    bio: >-
+      PARIS // Born in Romania🇹🇩 Welcome in my head 🪐 Mother Agency : @scoutingonemodel 📧: georgenistor.mdl@gmail.com
     location: "France"
-    followers: 14992
-    engagement: 2004
-    commentsToLikes: 0.010209
+    followers: 14039
+    engagement: 1320
+    commentsToLikes: 0.007718
     id: ck5bvh7bcjmzt0i116rndx90f
     verified: false
-    hashtags: "#stayhome"
-  - username: "yanistalkworldwide"
-    fullname: >-
-      Yanis Zaoui
-    location: "France"
-    followers: 115973
-    engagement: 711
-    commentsToLikes: 0.007648
-    id: ckaowotop9s9m0i78xee99p8p
-    verified: false
     hashtags: ""
-  - username: "tarafalla"
+  - username: "juliacourtesoff"
     fullname: >-
-      T A R A 🐉
+      JULIA
+    bio: >-
+      Represented by @metropolitanmodelsgroup 🦋 Mother Agent : @marionmercieragent ⭐️ Contact insta: julia@ouimademoiselle.fr
     location: "France"
-    followers: 28351
-    engagement: 430
-    commentsToLikes: 0.024724
-    id: ck136info6o410i195p20f7n0
-    verified: false
-    hashtags: "#nyfw2020, #nyfw, #stayhome, #glowbymimiluzon"
-  - username: "keiona.mitchell"
-    fullname: >-
-      You’re Welcome 💁🏿‍♀️
-    location: "France"
-    followers: 9556
-    engagement: 967
-    commentsToLikes: 0.039167
-    id: ck5bzexnpr0b80i11kpuh7ki6
-    verified: false
-    hashtags: "#goodtime, #hair, #dance, #bluehair"
-  - username: "bahador_wild"
-    fullname: >-
-      Bahadır Ünlü  بهادر اونلو
-    location: "France"
-    followers: 643709
-    engagement: 863
-    commentsToLikes: 0.047084
-    id: ck0w642up6t3w0i199ptb2dia
-    verified: false
-    hashtags: "#happynewyear, #2020, #panda, #wild"
-  - username: "mojeh_i"
-    fullname: >-
-      Mojeh Izadpanah
-    location: "France"
-    followers: 53196
-    engagement: 335
-    commentsToLikes: 0.039958
-    id: ck8t93v7qmv9v0j78vk0crpa5
+    followers: 98854
+    engagement: 422
+    commentsToLikes: 0.014924
+    id: ck15svjqmf0jq0i19cg4inunm
     verified: true
-    hashtags: "#dj, #shabehyalda, #marmar, #eshgh"
+    hashtags: "#battledejetaime, #burtonoflondon, #paulhewitt, #getanchored"
+  - username: "andreea.litescu"
+    fullname: >-
+      Andreea Popa (Litescu )
+    bio: >-
+      👩‍✈️ Airline pilot Airbus 320/321 👩‍👧Mother of Sara and Nor🐶 💁🏼‍♀️ Owner of andreealitescu.com 💙 represented by @globaltalentunited
+    location: "France"
+    followers: 55681
+    engagement: 380
+    commentsToLikes: 0.044935
+    id: ck0w2g4b1o6tm0i19kt960naf
+    verified: false
+    hashtags: "#awareness"
 ---

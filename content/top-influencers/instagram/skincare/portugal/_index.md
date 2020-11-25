@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Portugal In 2020
 description: >-
-  Find top skincare Instagram influencers in Portugal in 2020. Most popular hashtags: #skincare #beauty #makeup #summervibes.
+  Find top skincare Instagram influencers in Portugal in 2020. Most popular hashtags: #skincare #beauty #makeup #ootd.
 platform: Instagram
+hits: 38
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 38 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "adivadarechousa"
     fullname: >-
-      CATARINA NORA ®
+      CATARINA NORA
+    bio: >-
+      ⋒ fashion trends | beauty tips ⊪ skincare consulting & makeup artist 〈@catarinanora_mua〉 ↷ 𝘀𝗼𝗰𝗶𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 ◠ Blog:
     location: "Portugal"
-    followers: 8790
-    engagement: 791
-    commentsToLikes: 0.555643
+    followers: 9740
+    engagement: 534
+    commentsToLikes: 0.241492
     id: ck8t5v72nbcwr0j78c21xhpra
     verified: false
-    hashtags: "#makeup, #eyeliner, #bomdiamundo, #bloggertrendy"
+    hashtags: "#influencerportugal, #mamadeprimeiraviagem, #porto, #babyonboard"
   - username: "martaalvespinklemonade"
     fullname: >-
       Marta Alves 🌙 Pink Lemonade
+    bio: >-
+      Makeup is my cardio Skincare addict Glam • Workshops • Brides thepinklemonade@hotmail.com 📍 Lisbon
     location: "Portugal"
-    followers: 31195
-    engagement: 330
-    commentsToLikes: 0.122350
+    followers: 31225
+    engagement: 258
+    commentsToLikes: 0.102074
     id: ck5zlojp8l3qj0i144bqujskv
     verified: false
-    hashtags: "#ufo2, #wakwupandmakeup, #foundation, #maquigem"
+    hashtags: "#wakeupandmakeup, #kkwbeauty, #glammakeup, #sigmabeauty"
   - username: "criss_own_skin"
     fullname: >-
       beauty by Cris
+    bio: >-
+      🇪🇺 Europe based 🇪🇺 #skincarecommunity #beautygrammer skincare photography, reviews & stuff I love Original content
     location: "Portugal"
     followers: 4800
     engagement: 896
     commentsToLikes: 0.406327
     id: ck14klvuxq5lx0i19vn7y0lyz
     verified: false
-    hashtags: "#whiteandgold, #ctilburymakeup, #rituals, #eyecream"
-  - username: "virginiapferreira"
+    hashtags: "#byredo, #skincare101, #beautygrammer, #luxuryskincare"
+  - username: "patricia.r.carvalho"
     fullname: >-
-      Virgínia Ferreira
+      Patrícia Carvalho
+    bio: >-
+      portuguese girl traveling around the world beauty business owner & mentor 🐴🎈🎉
     location: "Portugal"
-    followers: 6993
-    engagement: 1212
-    commentsToLikes: 0.166931
-    id: ck8szqi8vpcay0j78qoqxb6qu
+    followers: 5164
+    engagement: 1197
+    commentsToLikes: 0.252831
+    id: ck8tdjhcz3kaw0j78437jlfeq
     verified: false
-    hashtags: "#party, #makeup, #guimar, #covid19"
-  - username: "rutesimao"
+    hashtags: "#discount, #portugal, #girl, #zaraoutfit"
+  - username: "_vitoriamota"
     fullname: >-
-      RUTE SIMÃO
+      Vitória Mota
+    bio: >-
+      @lagence_lisboa @nextmodels
     location: "Portugal"
-    followers: 14768
-    engagement: 956
-    commentsToLikes: 0.541296
-    id: ck0tybitomaou0i19lvaih9nb
+    followers: 54055
+    engagement: 384
+    commentsToLikes: 0.034453
+    id: ck0vxre5m0c0z0i19deeooo6e
     verified: false
-    hashtags: "#winterootd, #juntossomosmais, #outfitchallenge, #mapifulsecret"
-  - username: "martinhagomez"
+    hashtags: "#fashion, #skin, #cool, #styling"
+  - username: "thepinkelephantshoe"
     fullname: >-
-      Martinha Gomez
+      Cátia Rodrigues
+    bio: >-
+      Beauty & Lifestyle Blogger 🌸 Lisbon 📍 I truly believe that our skin should glow as much as our soul ✨ 💌 thepinkelephantshoe@gmail.com NOVO POST👩🏼‍💻👇🏻
     location: "Portugal"
-    followers: 26439
-    engagement: 498
-    commentsToLikes: 0.191096
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 19572
+    engagement: 619
+    commentsToLikes: 0.671275
+    id: ck0vv7ejrnvfu0i19lj715hn8
     verified: false
-    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
-  - username: "dearviola"
+    hashtags: "#skincare, #giveaway, #passatempo, #skinpt"
+  - username: "phoenix.vida"
     fullname: >-
-      Travel | Lifestyle | Inspo
+      𝕍𝕚𝕕𝕒 𝔻𝕖 ℙ𝕙𝕠𝕖𝕟𝕚𝕩🇭🇰🇬🇧
+    bio: >-
+      Educator｜Artist｜#KOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 Art ♥ Food ♥ Beauty ♥ Lifestyle ♥ Fashion 📩JoB／Collab
     location: "Portugal"
-    followers: 20156
-    engagement: 1327
-    commentsToLikes: 0.382635
-    id: ck15r5t5969xj0i19nqtgf3vh
+    followers: 20014
+    engagement: 435
+    commentsToLikes: 0.120681
+    id: ckf5vfj3loeqa0j23pi7yo2fw
     verified: false
-    hashtags: "#pinklove, #skinfood, #podroze, #travelblogger"
-  - username: "bruna_danin"
+    hashtags: "#hkmom, #blogger, #skincare, #fashionstyle"
+  - username: "susanachaves"
     fullname: >-
-      Brunadanin
+      Susana Persson Chaves
+    bio: >-
+      👩🏻‍✈️Captain-in-chief 🌴 @mirandabysapo & ✈️ @Beauty_Airlines 💋 #BeautyAddict 👉🏻 #FlightModeBeauty Early adopter. Late bloomer. Life hacker.
     location: "Portugal"
-    followers: 12579
-    engagement: 923
-    commentsToLikes: 0.206757
-    id: ck5zp7pghs5dl0i14hz9ssf4l
+    followers: 12152
+    engagement: 159
+    commentsToLikes: 0.034316
+    id: ck5c5eg5r3bft0i114fg1lyfq
     verified: false
-    hashtags: "#detox, #bloguer, #burgacases, #caseiphone"
-  - username: "saracastroneves"
+    hashtags: "#igtopshelfie, #onmyshelf, #home, #mirandabysapo"
+  - username: "misscasimiro"
     fullname: >-
-      Welcome To My World ☀️
+      Mädchen
+    bio: >-
+      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
     location: "Portugal"
-    followers: 3545
-    engagement: 1798
-    commentsToLikes: 0.446125
-    id: ck8ta8g4hqu0k0j787howgz4m
+    followers: 9604
+    engagement: 1786
+    commentsToLikes: 0.066591
+    id: ck9hb1xoaf15l0j789k7x4783
     verified: false
-    hashtags: "#skin, #workoutathome, #outfitsideas, #pancakes"
-  - username: "joana_magro"
+    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
+  - username: "dia_lasto"
     fullname: >-
-      Joana 🖤Inspo, Instagram Tips
+      Diana Lastovska
+    bio: >-
+      Latvian 🇱🇻 telling my life in stories * Currently in Portugal 🇵🇹
     location: "Portugal"
-    followers: 23181
-    engagement: 460
-    commentsToLikes: 0.212057
-    id: ck6tikajb0vlq0j71n9ghvyo4
+    followers: 6107
+    engagement: 1325
+    commentsToLikes: 0.109205
+    id: ck9woqwl767y70j78iw14rvlh
     verified: false
-    hashtags: "#1minutemakeup, #effortlessstyle, #inspostyle, #ootdsubmit"
+    hashtags: "#algarve, #happy, #travelphotography, #traveleurope"
 ---

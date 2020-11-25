@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Serbia In 2020
 description: >-
-  Find top TikTok influencers in Serbia in 2020. Most popular hashtags: #duet #pennyboard #dijk #eyedrawing.
+  Find top TikTok influencers in Serbia in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
+hits: 292
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 292 TikTok influencers like this in Serbia for you to collaborate.
 profiles:
-  - username: "stefke_officia1"
+  - username: "jahsehonfroyfp"
     fullname: >-
-      Stefke💕
+      JAHSEH'S FP! LLJ RIP
+    bio: >-
+      LLJ💚🖤
     location: "Serbia"
-    followers: 38712
-    engagement: 1908
-    commentsToLikes: 0.048447
-    id: cka0iv4p2fag40i780j6xj0p3
+    followers: 6982
+    engagement: 2710
+    commentsToLikes: 0.118902
+    id: ckcvgvm0qtf390j23ku2gqrzw
     verified: false
-    hashtags: "#tattoo, #girls, #lovefans, #party"
-  - username: "charli543love"
+    hashtags: "#draketrash, #xxxtentacion, #badvibesforever, #capcut"
+  - username: "jazznikola"
     fullname: >-
-      Charli D'amelio🤩
+      Nikola Mirosavić
+    bio: >-
+      Nisi u toku ako te nema na Tik Toku.
     location: "Serbia"
-    followers: 2635
-    engagement: 1682
-    commentsToLikes: 0.089597
-    id: cka8dwfeaui2i0i7843d2p64j
+    followers: 6560
+    engagement: 2207
+    commentsToLikes: 0.162460
+    id: ckbqdw6twzu1w0j238nf4uzto
     verified: false
-    hashtags: "#roblox"
-  - username: "shine..glowup"
+    hashtags: "#serbia, #music, #foryou, #srbija"
+  - username: "totemiaa"
     fullname: >-
-      shine glow up🍼
+      Totemia
+    bio: >-
+      Youtuber 🎥 | Animation student 💻 | Human of Akane and Katsu 🐕
     location: "Serbia"
-    followers: 5300
-    engagement: 2113
-    commentsToLikes: 0.044576
-    id: ckac8dd4lfffh0i78rb8ms4ts
+    followers: 215800
+    engagement: 1937
+    commentsToLikes: 0.035951
+    id: ckc8ixa6bcg7z0j23xiyg8haa
     verified: false
-    hashtags: "#skatergirl, #notes, #higlights, #closeup"
-  - username: "strajarad"
+    hashtags: "#foryoupage, #foryou, #totemia, #fyp"
+  - username: "factslobby"
     fullname: >-
-      $TRA¥A
+      facts only for you ❤
+    bio: >-
+      FACE REVEAL↗️ Follow If You This Read Wrong factslobby@delkatalents.com
     location: "Serbia"
-    followers: 29430
-    engagement: 1526
-    commentsToLikes: 0.062662
-    id: ck8tlgkfibjt60j78q7bd1mt5
+    followers: 2200000
+    engagement: 2228
+    commentsToLikes: 0.014000
+    id: ck83zoo5r1o2x0j78tpl8x230
     verified: false
-    hashtags: "#duet, #react, #three, #lannister"
-  - username: "jananikodijevic"
+    hashtags: "#fact, #tickle, #tickling, #boys"
+  - username: "neckezz1"
     fullname: >-
-      🤗💝2k💝🤗
+      Neckezz
+    bio: >-
+      Profil od Neckezz sa YouTube-a imate link u opisu profila
     location: "Serbia"
-    followers: 2953
-    engagement: 1400
-    commentsToLikes: 0.248426
-    id: ckae1vg0eqsgd0i78qsp750y8
+    followers: 2328
+    engagement: 1594
+    commentsToLikes: 0.128882
+    id: ckbkhs1dm9tc40j23gt07a10o
     verified: false
-    hashtags: "#love, #baby, #selenagomez, #aurora"
+    hashtags: "#fyppage, #workoutwithteamgb, #idegas, #idepas"
+  - username: "lalicmilos"
+    fullname: >-
+      Miloš
+    bio: >-
+      ▪️instagram: lalicmilos_official
+    location: "Serbia"
+    followers: 196500
+    engagement: 2144
+    commentsToLikes: 0.021785
+    id: ckdckabrymayn0j23cxkhd8fu
+    verified: false
+    hashtags: "#tutorial, #dexycokids, #lalicmilos, #galerija"
+  - username: "arsaovde"
+    fullname: >-
+      Arsa
+    bio: >-
+      19 ⬇️⬇️⬇️ INSTAGRAM: @arsaovde CEO of 100 bodova 📥 arsenijevicmarko01@gmail.com
+    location: "Serbia"
+    followers: 225600
+    engagement: 2091
+    commentsToLikes: 0.036124
+    id: ckdhvqqlr3vlc0j23pissyqqj
+    verified: false
+    hashtags: "#viral, #balkan, #foryou, #tiktok"
+  - username: "bts.offcial.7"
+    fullname: >-
+      BTS🥺🥰
+    bio: >-
+      5304 armys💜 ✨ you are beautiful ✨
+    location: "Serbia"
+    followers: 5322
+    engagement: 3427
+    commentsToLikes: 0.105276
+    id: ckb8zo7v6f7zs0j23sqqaxvc6
+    verified: false
+    hashtags: "#foryou, #jungkook, #fyp, #foryoupage"
+  - username: "sale.vadras"
+    fullname: >-
+      sale.69
+    bio: >-
+      
+    location: "Serbia"
+    followers: 22200
+    engagement: 2418
+    commentsToLikes: 0.155154
+    id: ckbqnkc2z8fkz0j23xgniw5nc
+    verified: false
+    hashtags: "#ilovemydog, #puppies, #petstiktok, #chickendance"
   - username: "lana.kovacevicc"
     fullname: >-
-      𝐿𝑎𝑛𝑎✨📍
+      Lana Kovačević
+    bio: >-
+      🐊 Rihanna stan face reveal has left the chat... R.I.P. grade in geography 🌾🎨
     location: "Serbia"
-    followers: 13395
-    engagement: 3462
-    commentsToLikes: 0.209585
+    followers: 11900
+    engagement: 2261
+    commentsToLikes: 0.098697
     id: ckae4oen83ci60i78rzzl2qpc
     verified: false
-    hashtags: "#pennyboard, #tiktokpoll, #fypplease"
-  - username: "lea_drawing_art"
-    fullname: >-
-      ⚜️.ART.⚜️
-    location: "Serbia"
-    followers: 5218
-    engagement: 2644
-    commentsToLikes: 0.144130
-    id: ck9po1jb0heda0j78hk3gqnua
-    verified: false
-    hashtags: "#much, #minipencils, #drawdog, #myart"
-  - username: "addiisonerae"
-    fullname: >-
-      addison rae
-    location: "Serbia"
-    followers: 8429
-    engagement: 2123
-    commentsToLikes: 0.119641
-    id: ckahvzf1mop9t0i78vz3i96de
-    verified: false
-    hashtags: "#lysm, #notfyp, #fypforyoup, #fypf"
-  - username: "krisiiic"
-    fullname: >-
-      Kristina Stefanović
-    location: "Serbia"
-    followers: 8371
-    engagement: 2052
-    commentsToLikes: 0.217982
-    id: ck9f2fkp4cwie0j78fi9huj8o
-    verified: false
-    hashtags: "#dog, #family, #lovethemsomuch, #mylifeisaparty"
-  - username: "messi.pacybits"
-    fullname: >-
-      Messi.Pacybits20
-    location: "Serbia"
-    followers: 8645
-    engagement: 1059
-    commentsToLikes: 0.080373
-    id: cka7p2duh5kt50i78fy278obu
-    verified: false
-    hashtags: "#barcelona, #hazard, #fifa, #virgil"
+    hashtags: "#actives, #xzbyca, #tiktokpoll, #ineedactives"
 ---

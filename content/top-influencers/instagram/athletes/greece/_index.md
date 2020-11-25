@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Greece In 2020
 description: >-
-  Find top athletes Instagram influencers in Greece in 2020. Most popular hashtags: #staysafe #stayhome #weekend #village.
+  Find top athletes Instagram influencers in Greece in 2020. Most popular hashtags: #fitness #nike #summer #happy.
 platform: Instagram
+hits: 53
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 53 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "rafaelaspanoudaki"
-    fullname: >-
-      Rafaela Spanoudaki
-    location: "Greece"
-    followers: 11765
-    engagement: 1247
-    commentsToLikes: 0.251956
-    id: ck5chpvzcr8jb0i11m9nq49id
-    verified: false
-    hashtags: "#president, #believe, #nocomments, #thoughts"
   - username: "chriskogias_sw"
     fullname: >-
-      Xristos_kogias
+      Chris Kogias
+    bio: >-
+      🏋️‍♀️ YouTube - Chris Kogias 🤸‍♂️ TikTok - chriskogias Myprotein SW ATHLETE BUY MYPROTEIN ⬇️⬇️
     location: "Greece"
-    followers: 22618
-    engagement: 1487
-    commentsToLikes: 0.125119
+    followers: 43534
+    engagement: 2837
+    commentsToLikes: 0.366965
     id: ckapcii7j3y6y0i78pwlf26l5
     verified: false
-    hashtags: "#vlogwithmom, #fitnessfreak, #bodyweightexercises, #myprotein"
-  - username: "sashi1991"
-    fullname: >-
-      Saskia Hippe
-    location: "Greece"
-    followers: 25909
-    engagement: 1051
-    commentsToLikes: 0.011812
-    id: ck5zm3hxfltsy0i14zxikb5uw
-    verified: false
-    hashtags: "#motivation, #makeup, #pandemic, #summerlook"
+    hashtags: "#calisthenics, #ckfparallettes, #streetworkout, #cheeseburger"
   - username: "pigi_devetzi"
     fullname: >-
       Πηγή Δεβετζή Official
+    bio: >-
+      Olympic champion 🏆medalist in Triple Jump Athens 2004 Beijing 2008 P.B 15.32 🥇🥈🥉sports psychology,professional athlete,physiotherapist KOLITES 🤪🤪🤪
     location: "Greece"
-    followers: 42941
-    engagement: 263
-    commentsToLikes: 0.070328
+    followers: 43642
+    engagement: 331
+    commentsToLikes: 0.209217
     id: ck5znqqvhozbb0i146jkg7fe7
     verified: true
-    hashtags: "#truelove, #accessories, #weekend, #trendy"
-  - username: "nikoleta_kiriakopoulou"
+    hashtags: "#greekbrand, #happy, #amazing, #fantastic"
+  - username: "anna_kiafa"
     fullname: >-
-      Nikoleta Kyriakopoulou
+      °  Anna Kiafa 🌙
+    bio: >-
+      •Professional Greek #athlete #400m hurdles 🇬🇷. •@nike ||
     location: "Greece"
-    followers: 12356
-    engagement: 1318
-    commentsToLikes: 0.016020
-    id: ck6u05k7kdqr00j71a7zs1ht8
+    followers: 11872
+    engagement: 1280
+    commentsToLikes: 0.011762
+    id: ck6toax4sd1um0j71w2ou7ej6
     verified: false
-    hashtags: "#ready, #photoshooting, #athens, #backinshape"
-  - username: "george_komvokis"
+    hashtags: "#nike, #girl, #run, #happy"
+  - username: "rafaelaspanoudaki"
     fullname: >-
-      George Komvokis
+      Rafaela Spanoudaki
+    bio: >-
+      📍 Greek sprint athlete 🇬🇷 📍 60m : 7.29 , 100m : 11.27 200m : 23.16 🌟 📍 Nike Greece 👟 📍 Graduated from sports science and psychical education 📚
     location: "Greece"
-    followers: 14201
-    engagement: 1428
-    commentsToLikes: 0.073450
-    id: ck6tpxb1qnzo90j710y2w0och
+    followers: 12380
+    engagement: 1214
+    commentsToLikes: 0.011858
+    id: ck5chpvzcr8jb0i11m9nq49id
     verified: false
-    hashtags: "#waterfall, #summervibes, #urbanlife, #pictureoftheday"
-  - username: "eirini400"
+    hashtags: "#rhodes, #holidays, #home, #200metres"
+  - username: "papachristouv"
     fullname: >-
-      𝙸𝚛𝚒𝚗𝚒 𝚅𝚊𝚜𝚒𝚕𝚒𝚘𝚞 𝙾𝙻𝚈
+      PapachristouV
+    bio: >-
+      🌟1st European Champion 🥇🥇🥈 🌟3rd world champion🥉 🌟3rd European champion🥉🥉 🌟Olympic finalist 🌟Nike athlete Member of the Hellenic Olympic commi
     location: "Greece"
-    followers: 8615
-    engagement: 1275
-    commentsToLikes: 0.010686
-    id: ck5chpuvsr8hf0i11vutxudhq
+    followers: 22174
+    engagement: 762
+    commentsToLikes: 0.009484
+    id: ck5chptv9r8fw0i11bi5sz46w
     verified: false
-    hashtags: "#backtobasics, #fuelyourbody, #yorkshire, #indoorseason"
-  - username: "anastasia_marinakou_"
+    hashtags: "#nikeathlete, #nike, #roadtotokyo2020, #up"
+  - username: "cristianugalde23"
     fullname: >-
-      Anastasia Marinakou
+      Cristian Ugalde
+    bio: >-
+      🤾🏼‍♂️🇬🇷AEK Athens 🟡⚫️ 👨🏼‍🎓 Graduate in Sports Science 👟 Athlete of @mizunoeurope 📍 From Barcelona
     location: "Greece"
-    followers: 27164
-    engagement: 648
-    commentsToLikes: 0.022670
-    id: ck8svsl71cjgy0j78dqrb3syl
-    verified: false
-    hashtags: "#trowback, #quarantinelife, #lovemycountry, #milosisland"
+    followers: 10501
+    engagement: 828
+    commentsToLikes: 0.017034
+    id: ck6tteawta5690j71abbd8foo
+    verified: true
+    hashtags: "#handball, #aek, #aekhandball, #mizuno"
   - username: "antakar"
     fullname: >-
       Anta Karagianni
+    bio: >-
+      Work hard and dream big! Athens Law School🎓 Track&field athlete🏃🏼‍♀️ Tennis player
     location: "Greece"
-    followers: 5682
-    engagement: 2053
-    commentsToLikes: 0.011370
+    followers: 5614
+    engagement: 1896
+    commentsToLikes: 0.014412
     id: ckap89lqwnfbl0i78hnqdwc5i
     verified: false
-    hashtags: "#springtime, #traveller, #greecelover, #islandlife"
-  - username: "aggelos.la"
+    hashtags: "#lookslikefilm, #portraitpage, #moodyports, #gorun"
+  - username: "zoe_andrikopoulou"
     fullname: >-
-      Αγγελος ΛΑ.
+      Zoe Andrikopoulou
+    bio: >-
+      ◈ 🅝🅔🅦 🅑🅐🅛🅐🅝🅒🅔 Athlete ◈1500m,3km SC,5km🏃🏽‍♀️ ◈ Personal Trainer 💪🏼 ◈ @arlaproteingr @stoiximan @kassimatis_partners @garmingreece
     location: "Greece"
-    followers: 10679
-    engagement: 1064
-    commentsToLikes: 0.024805
-    id: ck6u9dwx0wzos0j71m332z0ns
+    followers: 27416
+    engagement: 531
+    commentsToLikes: 0.020917
+    id: ckaoxnn3qe0sv0i78yhmfk4ry
     verified: false
-    hashtags: "#aesthetic, #beastmodeon, #lifestyle, #insane"
+    hashtags: "#portraitphotography, #teamnb, #photoshooting, #wegotnow"
+  - username: "anastasia_marinakou_"
+    fullname: >-
+      Anastasia Marinakou
+    bio: >-
+      PROFESSIONAL GREEK ATHLETE🇬🇷 ✨4th-8th European ChampionU20 1500-3000m ✨6xN.Record ✨ Pb 1500m 4"10"63 U23 ✨Adidas Athlete #followyourdreams
+    location: "Greece"
+    followers: 27225
+    engagement: 587
+    commentsToLikes: 0.016341
+    id: ck8svsl71cjgy0j78dqrb3syl
+    verified: false
+    hashtags: "#adidasgr, #zisedinata, #arlaprotein, #summer"
+  - username: "george_komvokis"
+    fullname: >-
+      George Komvokis
+    bio: >-
+      Travel | Nature | Outdoor Helicopter Mechanic | CrossFit Athlete | Athens | Lesvos | Check my latest video:
+    location: "Greece"
+    followers: 16021
+    engagement: 1026
+    commentsToLikes: 0.047399
+    id: ck6tpxb1qnzo90j710y2w0och
+    verified: false
+    hashtags: "#hdr, #perfectgreece, #ig, #xanthi"
 ---

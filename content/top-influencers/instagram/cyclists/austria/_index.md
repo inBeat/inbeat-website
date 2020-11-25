@@ -1,87 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Austria In 2020
 description: >-
-  Find top cyclists Instagram influencers in Austria in 2020. Most popular hashtags: #fromwhereiride #lifebehindbars #cyclist #outsideisfree.
+  Find top cyclists Instagram influencers in Austria in 2020. Most popular hashtags: #fromwhereiride #outsideisfree #cycling #roadslikethese.
 platform: Instagram
+hits: 14
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 14 Instagram influencers like this in Austria for you to pitch.
 profiles:
   - username: "kate.cycling"
     fullname: >-
       Kasia
+    bio: >-
+      Musician • Cyclist • Wife 🇦🇹🇵🇱 ☞ @nologo.cc ☞ @velio_bikebags 📩 collabs.katecycling@gmail.com
     location: "Austria"
-    followers: 5065
-    engagement: 1386
-    commentsToLikes: 0.041464
+    followers: 10818
+    engagement: 1775
+    commentsToLikes: 0.023602
     id: ck8tcb2bfywki0j78lxgfljmu
     verified: false
-    hashtags: "#nostaligic, #covid, #rovalcomponents, #specializedwoman"
-  - username: "unicorncycling"
+    hashtags: "#bestcyclingstyle, #fromwhereiride, #stravacycling, #lifeontwowheels"
+  - username: "ceylinalvarado"
     fullname: >-
-      Nora Turner
+      C E Y L I N  C A R M E N 🇩🇴🇳🇱
+    bio: >-
+      Professional cyclist @alpecinfenix Enjoying life to the fullest #huntinggoals #foodlover
     location: "Austria"
-    followers: 27244
-    engagement: 609
-    commentsToLikes: 0.018313
-    id: ck0tvdjt1az5w0i19wss65beb
+    followers: 65815
+    engagement: 1308
+    commentsToLikes: 0.008275
+    id: ck55l7klr0xnl0i11nqtne1ka
     verified: false
-    hashtags: "#tourdefriends3, #roadtoraa, #giveaway, #sako7squad"
-  - username: "jap_cycling"
+    hashtags: "#bestteam, #happykiddo, #snelterugnaarnormaal, #tbt"
+  - username: "ruedigerselig"
     fullname: >-
-      Patrick Jäger
+      Rudi Selig
+    bio: >-
+      Cycling is my passion | Professional cyclist for the German Bora-Hansgrohe Team | Based in Bregenz Austria 🇦🇹
     location: "Austria"
-    followers: 15067
-    engagement: 345
-    commentsToLikes: 0.012853
-    id: ck5chkogaqyi30i11cm305wu8
+    followers: 12702
+    engagement: 677
+    commentsToLikes: 0.007636
+    id: ck15uupgxollq0i19ejkp86dp
     verified: false
-    hashtags: "#ridebmc, #lucky, #professional, #blonde"
-  - username: "perchtoldch"
+    hashtags: "#bora, #venge, #boracookingsystems, #ride100percent"
+  - username: "benkobarbi"
     fullname: >-
-      Christina
+      Barbara BENKO
+    bio: >-
+      Made in Hungary 🇭🇺 Cyclist @ghost_factory_racing Optometry / Semmelweis University 2018 Travelling the world with my bike 🌍☀️⚡️
     location: "Austria"
-    followers: 5417
-    engagement: 1053
-    commentsToLikes: 0.009644
-    id: ck6u8lhxmsaes0j71uusndkgw
+    followers: 8259
+    engagement: 849
+    commentsToLikes: 0.020638
+    id: ck0w0npztf4s60i19af9izbxp
     verified: false
-    hashtags: "#wintertraining, #xcgirls, #nordicskiing, #nostress"
+    hashtags: "#dontbestupid, #sorrynosorryrob, #giveaway, #teamisteam"
+  - username: "lukas_poestlberger"
+    fullname: >-
+      Lukas Pöstlberger
+    bio: >-
+      Professional Cyclist 🚲 @borahansgrohe German Professional Cycling Twitter➡ @Poesti_92 Facebook➡ Lukas Pöstlberger XBL➡ wAx Mr Tadeus #pöstipower👌
+    location: "Austria"
+    followers: 27250
+    engagement: 749
+    commentsToLikes: 0.016736
+    id: ck14h7sj88yt60i197vi8g93l
+    verified: false
+    hashtags: "#austriagang, #cyclingrevolution, #bandofbrothers, #bolzminister"
+  - username: "mhaller91"
+    fullname: >-
+      Marco Haller
+    bio: >-
+      + Pro Cyclist for Team @bahrainmclaren + based in Austria #hallerluja
+    location: "Austria"
+    followers: 30032
+    engagement: 470
+    commentsToLikes: 0.005549
+    id: ck0w3dc50stig0i19hcoy3t73
+    verified: true
+    hashtags: "#wallonie, #richardmille, #vision, #visionwheels"
   - username: "lisa_pasteiner"
     fullname: >-
       Lisa Pasteiner
+    bio: >-
+      🇦🇹 cyclist @ghost_factory_racing 👻 @heeressportzentrum @pureathleten
     location: "Austria"
-    followers: 8264
-    engagement: 759
-    commentsToLikes: 0.005586
+    followers: 8204
+    engagement: 783
+    commentsToLikes: 0.005744
     id: ck13aallvpg5l0i198c5lzd03
     verified: false
-    hashtags: "#superfitbyghost, #lifegoals, #powpow, #itsallinyourhead"
+    hashtags: "#stayathome, #stayhealthy, #girlsonghosts, #sportlandnoe"
+  - username: "dersteira"
+    fullname: >-
+      derSteira
+    bio: >-
+      🏊🏻🚴🏻🏃🏻 #sport 📝🖊#blogger #steiermark 🇦🇹❗️www.dersteira.at❗️ Business contact: markusfritz.bm@gmail.com ✌🏻️
+    location: "Austria"
+    followers: 52479
+    engagement: 284
+    commentsToLikes: 0.010224
+    id: ckaow41bs7bx10i78uaqvq241
+    verified: false
+    hashtags: "#jersey, #cycling, #prizm, #anzeige"
   - username: "bachelotelli"
     fullname: >-
       Philipp B.
+    bio: >-
+      All I wanna do is ski, run, ride & sip espresso. #guadespua Sport scientist @austriacrosscountryteam Fuelled by @crownhealth
     location: "Austria"
-    followers: 7474
-    engagement: 1095
-    commentsToLikes: 0.036701
+    followers: 7214
+    engagement: 801
+    commentsToLikes: 0.034021
     id: ck0twrld6gjxt0i1979qbl6nr
     verified: false
-    hashtags: "#wymtm, #shineon, #visitaustria, #livewithoutlimits"
-  - username: "markus_simon_81"
+    hashtags: "#legsofsteel, #everydayistheweekend, #timetoshine, #crownhealth"
+  - username: "unicorncycling"
     fullname: >-
-      ⓜⓢⓡ
+      Nora Turner
+    bio: >-
+      🇦🇹Vienna, 26, taking over the world one pedalstroke at a time. Race Around Austria Challenge Finisher 🤘🏻 Supported by: 🔽
     location: "Austria"
-    followers: 4667
-    engagement: 1967
-    commentsToLikes: 0.028688
-    id: ck0uby33jfklq0i194jqctvtg
+    followers: 34866
+    engagement: 465
+    commentsToLikes: 0.028230
+    id: ck0tvdjt1az5w0i19wss65beb
     verified: false
-    hashtags: "#schneeberg, #lifestyle, #kmcgoldchain, #cycle"
-  - username: "holyhohli"
-    fullname: >-
-      Triathlet
-    location: "Austria"
-    followers: 5399
-    engagement: 494
-    commentsToLikes: 0.009356
-    id: ck6tmmt7v84sl0j71me16nyk1
-    verified: false
-    hashtags: "#winterrun, #passion, #diewocheaufinstagram, #cityrun"
+    hashtags: "#bikeporn, #cyclingshots, #lightbro, #cyclingpics"
 ---

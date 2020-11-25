@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Chicago In 2020
 description: >-
-  Find top makeup Instagram influencers in Chicago in 2020. Most popular hashtags: #makeup #superbowl #makeuptutorial #coronavirus.
+  Find top makeup Instagram influencers in Chicago in 2020. Most popular hashtags: #makeup #makeupartist #chicago #chicagomua.
 platform: Instagram
+hits: 196
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 196 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "hairbybano"
+  - username: "the_ari_gato"
     fullname: >-
-      Ayesha Bano
+      Ariana L. Gato ~ Ari Gato ✨
+    bio: >-
+      Chicago-based Drag Queen 👑 Actor🎭 Dancer 🕺🏽 Recording Artist 🎤 Bookings: thearigato@gmail.com 💃🏽 Cashapp: $thearigato 💸
     location: "United States"
-    followers: 6832
-    engagement: 437
-    commentsToLikes: 0.054354
-    id: ck6ub90w286vr0j71kf1ejmam
+    followers: 6274
+    engagement: 1014
+    commentsToLikes: 0.088498
+    id: ck5q3t6o2mbb30i1117j71x06
     verified: false
-    hashtags: "#ramadan, #eid, #beauty, #makeup"
-  - username: "iomakeupofficial"
+    hashtags: "#instabeauty, #chicago, #arigato, #catsofinstagram"
+  - username: "siichele"
     fullname: >-
-      Irina Odobescu💄
+      Siichele 🩸
+    bio: >-
+      Drag // MUA // Queer // Chicago Icon by: @stacey_foxy MUA acc: @beatbysiichele ⬇️ Chicago Bond Fond @chibondfund ⬇️ #BLM Carrd
     location: "United States"
-    followers: 37376
-    engagement: 922
-    commentsToLikes: 0.026235
-    id: ck8svs0suchen0j78n6dv7mbr
+    followers: 10469
+    engagement: 1074
+    commentsToLikes: 0.028959
+    id: ck5zno9j4ou910i144jt7lo0j
     verified: false
-    hashtags: "#instapic, #instagram, #skincarejunkie, #makeupjunkie"
-  - username: "sdkmakeup"
+    hashtags: "#chicagomakeupartist, #sfx, #scary, #mua"
+  - username: "vesagashi_mua"
     fullname: >-
-      Sameen Khan
+      Vesa Gashi
+    bio: >-
+      Make Up Artist💄. Vesa Gashi &Fitahairstylist . Professional make up and hair 📞:+38345 546788. 049546788 #vesagashi
     location: "United States"
-    followers: 21654
-    engagement: 240
-    commentsToLikes: 0.095003
-    id: ck0w21pt7m7lc0i19vtc838af
+    followers: 53973
+    engagement: 125
+    commentsToLikes: 0.024779
+    id: ck0u1o6bmxh1a0i1997pb1l8g
     verified: false
-    hashtags: "#wingliner, #glosslid, #eidmakeup, #glossylids"
-  - username: "laur_elyse"
+    hashtags: "#hoodedeyesmakeup, #chicagobeauty, #hair, #pictorial"
+  - username: "facesbykourtney"
     fullname: >-
-      Lauren Elyse
+      
+    bio: >-
+      Chicago MUA 💗 | Not servicing clients until further notice | Brow Class 🔽
     location: "United States"
-    followers: 274249
-    engagement: 226
-    commentsToLikes: 0.010125
-    id: ck5cbvecog8go0i11d8ps87mj
+    followers: 74028
+    engagement: 746
+    commentsToLikes: 0.010240
+    id: ck1364xjk4rly0i19hx3ocifx
     verified: false
-    hashtags: "#pmglablove, #creativemakeup, #abh, #thathighlighttho"
-  - username: "ionathemua"
+    hashtags: ""
+  - username: "malii_b8by"
     fullname: >-
-      Iona Dee
+      Malii b8by
+    bio: >-
+      
     location: "United States"
-    followers: 59145
-    engagement: 207
-    commentsToLikes: 0.041618
-    id: ck15uxvnlp0on0i19kdt3fu04
+    followers: 50659
+    engagement: 137
+    commentsToLikes: 0.121163
+    id: ck5cfnru6nazk0i11i5br6m75
     verified: false
-    hashtags: "#carelessblendmore"
-  - username: "kbadowski"
+    hashtags: "#makeup, #chicago, #passthebrushchallege, #makeuptransformation"
+  - username: "jazmineonthelookz"
     fullname: >-
-      Katrina Badowski
+      𝙅𝙖𝙯𝙢𝙞𝙣𝙚 𝘼𝙡𝙫𝙖𝙧𝙖𝙙𝙤 🦋
+    bio: >-
+      💋l SOUTH ATLANTA MUA (DEPOSIT REQUIRED) 📌l For bookings click book button below⤵️ NO DM APPOINTMENT‼️‼️
     location: "United States"
-    followers: 10999
-    engagement: 1347
-    commentsToLikes: 0.078441
-    id: ck6tq2938p0150j71w96vnzml
+    followers: 7830
+    engagement: 217
+    commentsToLikes: 0.038022
+    id: ck0w457svwvee0i19x578vjme
     verified: false
-    hashtags: "#bookstagram, #nola, #chicagoluvabulls, #growth"
-  - username: "glammedbydena"
+    hashtags: ""
+  - username: "ibeatfaces1"
     fullname: >-
-      Dena Elmasry
+      👑Traci 👑
+    bio: >-
+      Beauty influencer 💄 Owner of Royal Glam Studio 👑 Rockford IL Pro Mua💄 For PR /collabs ➡️Email /DM
     location: "United States"
-    followers: 64658
-    engagement: 177
-    commentsToLikes: 0.068019
-    id: ck0u0vk6nuyfn0i192wosw1iq
+    followers: 15660
+    engagement: 260
+    commentsToLikes: 0.065862
+    id: ck136s5mk7zzz0i19d5bwfsyy
     verified: false
-    hashtags: "#ammanstylez, #makeuptutorial, #naturalskincare, #dubai"
-  - username: "everythingjennytaylor"
+    hashtags: "#makeupclass, #melaninpoppin, #blackmakeupartist, #makeuprevolution"
+  - username: "cityangelic"
     fullname: >-
-      Jenny Taylor💕SparkleSprinkler✨
+      Angelic Brockman | Model
+    bio: >-
+      DM to book ✨ ✖️ Chicago ✖️ Jeremiah 29:11 ✖️ 23, German/Chinese/Irish @angelicbrockman
     location: "United States"
-    followers: 96070
-    engagement: 63
-    commentsToLikes: 0.091479
-    id: ck6uhg2oc8x3u0j71zjo9kaaw
+    followers: 3352
+    engagement: 1163
+    commentsToLikes: 0.087459
+    id: ck137pfjmcpi60i19mdzfvrho
     verified: false
-    hashtags: "#dollypartonchallenge, #newbook, #endofdecade, #selflove"
+    hashtags: "#photography, #photoshoot, #fitness, #chicagomodels"
   - username: "beautybymclau"
     fullname: >-
       Makeup Artist Chicago
+    bio: >-
+      Claudia Perozo 👸🏻Maquillando Reinas.✨ 💄Makeup Classes. 📲Appointments 7738867183. 🇻🇪Spanglish. Account in transition to cruelty free 🐰🌱
     location: "United States"
-    followers: 5967
-    engagement: 647
-    commentsToLikes: 0.171913
+    followers: 6850
+    engagement: 599
+    commentsToLikes: 0.130050
     id: ck9wd5zgce7l80j78n1stif9c
     verified: false
-    hashtags: "#limonademakeup, #muasupport, #makeuptip, #familytime"
-  - username: "natashaziaxo"
+    hashtags: "#beautybymclau, #chicagomakeup, #chicagoillinois, #soymuavzla"
+  - username: "blancasusanne"
     fullname: >-
-      Natasha Zia 👼♥️
+      Blanca Gutiérrez
+    bio: >-
+      hi, nice to meet you san diego / los angeles
     location: "United States"
-    followers: 9574
-    engagement: 812
-    commentsToLikes: 0.268701
-    id: ck5hrwyn1vmdg0i117e3cralm
+    followers: 38308
+    engagement: 220
+    commentsToLikes: 0.023634
+    id: ck5zzpllwc6sq0i14p1f9dzix
     verified: false
-    hashtags: "#grain, #skinwinbynk, #pullandbear, #hoodie"
+    hashtags: "#mexico, #tulum, #sponsored, #makeup"
 ---

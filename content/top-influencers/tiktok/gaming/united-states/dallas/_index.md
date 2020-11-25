@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Dallas In 2020
 description: >-
-  Find top gaming TikTok influencers in Dallas in 2020. Most popular hashtags: #gaming #duet #dallas #gamingontiktok.
+  Find top gaming TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #foryoupage #gaming.
 platform: TikTok
+hits: 11
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 11 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "h_krup44"
+  - username: "piddlingplanet"
     fullname: >-
-      Hayden K
+      piddling
+    bio: >-
+      your prob here from one of my comments
     location: "United States"
-    followers: 2348
-    engagement: 693
-    commentsToLikes: 0.072738
-    id: ck98r83va9gtb0j78av0tgcgp
+    followers: 73000
+    engagement: 1854
+    commentsToLikes: 0.030766
+    id: ckb0pbqp0f7g40j23lvujse7b
     verified: false
-    hashtags: "#ripkobe, #rippopsmoke, #canada, #stitch"
-  - username: "justinhairston"
-    fullname: >-
-      Jay @ Team Envy
-    location: "United States"
-    followers: 199567
-    engagement: 575
-    commentsToLikes: 0.042901
-    id: ck83zrk8x2epv0j786se3d6wf
-    verified: false
-    hashtags: "#ookay, #pokemontype, #sonicmovie2020, #retrogamer"
+    hashtags: "#igotthemusic, #blm, #dog, #gaming"
   - username: "mews"
     fullname: >-
       FaZe Mew - CODE MEW
+    bio: >-
+      ✅ @FaZeClan • Dallas, TX 🚨USE CODE MEW 💌 FCMews@gmail.com 📸 Twitter: @FaZeMew
     location: "United States"
-    followers: 1388467
-    engagement: 1972
-    commentsToLikes: 0.029605
+    followers: 2500000
+    engagement: 2167
+    commentsToLikes: 0.015750
     id: ck8oqpb6y8h1j0j784l15lgt9
     verified: true
-    hashtags: "#memories, #clickbait, #rareskin, #wipeitdown"
+    hashtags: "#showupshowoff, #foryoupage, #twitch, #ohno"
+  - username: "sabrinadkdy"
+    fullname: >-
+      Sabrina Sanchez💎
+    bio: >-
+      20 09-14-00 🥳 Dallas TX📍 All You Gotta Do Swag! 💎 Yee I’m Short So What 🔥
+    location: "United States"
+    followers: 24500
+    engagement: 1027
+    commentsToLikes: 0.016316
+    id: ckb0tv6yyj87a0j2386crda10
+    verified: false
+    hashtags: "#ghostmode, #justinbieber, #foryoupage, #levitating"
+  - username: "riptoem"
+    fullname: >-
+      J.D. Arnold
+    bio: >-
+      Gaming, streaming, funny videos, family and my dogs, Cash app $RipToEm
+    location: "United States"
+    followers: 41500
+    engagement: 1404
+    commentsToLikes: 0.078222
+    id: ck9k1uyhphuyw0j789kl5muki
+    verified: false
+    hashtags: "#foryoupage, #foryourpage, #collegegotmelike, #mosaic"
+  - username: "adrean_i"
+    fullname: >-
+      Adrean Indolos
+    bio: >-
+      So like, I do photography stuff 📸 Insta: @adrean_i
+    location: "United States"
+    followers: 11600
+    engagement: 1073
+    commentsToLikes: 0.043594
+    id: ck8khqn6xnx9p0j78uauhpp1k
+    verified: false
+    hashtags: "#photographytricks, #tennis, #foryou, #dallasphotographer"
   - username: "theuglydad"
     fullname: >-
       theuglydad
+    bio: >-
+      TX: Dad, Vet, Ex-Cop, Gamer Scrubs DM or Discord 🔴 LIVE @ Twitch.tv/TheUglyDad
     location: "United States"
-    followers: 11449
-    engagement: 1153
-    commentsToLikes: 0.121398
+    followers: 25400
+    engagement: 702
+    commentsToLikes: 0.086834
     id: ck92wvt3nw4v50j782xacr4ek
     verified: false
-    hashtags: "#johndeere, #survivor, #help, #engagement"
-  - username: "etchus"
+    hashtags: "#70s, #storagewars, #fortworth, #series"
+  - username: "markghod17"
     fullname: >-
-      Zimmy
+      Markandrew1717
+    bio: >-
+      Check out my Youtube ^ i post funny shit
     location: "United States"
-    followers: 75389
-    engagement: 431
-    commentsToLikes: 0.019993
-    id: ck9pm270a767e0j78nwy9ns4e
+    followers: 12900
+    engagement: 839
+    commentsToLikes: 0.073819
+    id: ckdtdj28vvdu80j23whuyloil
     verified: false
-    hashtags: "#mandalorian, #scott, #lockdown, #cars"
-  - username: "niruanya"
+    hashtags: "#dialitforward, #voiceeffects, #baseballplayoffs, #viral"
+  - username: "shutupiris"
     fullname: >-
-      NIRU.
+      iris 🥳
+    bio: >-
+      Treat people with kindness dude. - 20, ATX 🤠
     location: "United States"
-    followers: 43295
-    engagement: 654
-    commentsToLikes: 0.019136
-    id: cka6b6b0vz3kt0i78svsl1vpe
+    followers: 3307
+    engagement: 1766
+    commentsToLikes: 0.053294
+    id: ck9grjbs5e9670j78z786oeyo
     verified: false
-    hashtags: "#duetpost, #videogame, #bingewatching, #kingdomhearts"
-  - username: "greatvaluechips"
+    hashtags: "#college, #summer2020, #favoritememories, #foryoupage"
+  - username: "jgreen4life"
     fullname: >-
-      greatvaluechips
+      Jamie Wells
+    bio: >-
+      99% of my TikToks are old videos🤷🏻‍♂️ QUARANTINED on an island🏝 IG&YouTube↖️
     location: "United States"
-    followers: 27430
-    engagement: 1162
-    commentsToLikes: 0.013804
-    id: ck7zp9xb0o8170j785ywk3es0
+    followers: 4150
+    engagement: 780
+    commentsToLikes: 0.053525
+    id: ck8j6lyikakpe0j78xi24x6nq
     verified: false
-    hashtags: "#1965, #workouts, #chevy, #shhhhh"
-  - username: "hackergamingofficial"
+    hashtags: "#texas, #gothedistance, #dontletthisflop, #fail"
+  - username: "thelogocombiner"
     fullname: >-
-      Gaming
+      Christian LoBello
+    bio: >-
+      I combine sports logos and more 😀👍🏼 📧 lobello043@gmail.com (BUSINESS)
     location: "United States"
-    followers: 16033
-    engagement: 1281
-    commentsToLikes: 0.011884
-    id: cka0jrbqijag00i78937gyjp3
+    followers: 55600
+    engagement: 990
+    commentsToLikes: 0.124344
+    id: ckb978f49pnp70j234l1tpkg7
     verified: false
-    hashtags: "#marissacooper, #gta5moments, #parenting, #modernwarfareclips"
-  - username: "alyxthefox"
-    fullname: >-
-      🍪Cookie lovin fox🍪
-    location: "United States"
-    followers: 14227
-    engagement: 2279
-    commentsToLikes: 0.073987
-    id: ck9e0g3615ygf0j78pqufymgj
-    verified: false
-    hashtags: "#devil, #inthehouseparty, #fursona, #birthday"
-  - username: "xandertastic"
-    fullname: >-
-      Budget Kylo Ren
-    location: "United States"
-    followers: 2089
-    engagement: 1431
-    commentsToLikes: 0.135833
-    id: cka7vvel5xyrq0i7853wr1f1b
-    verified: false
-    hashtags: "#poetry, #smite, #finalsathome, #voiceeffects"
+    hashtags: "#duet, #nba, #notonething, #viral"
 ---

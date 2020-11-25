@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Indonesia in 2020. Most popular hashtags: #quarantine # #stayathome #tiktok.
+  Find top graphic-designers Instagram influencers in Indonesia in 2020. Most popular hashtags: #animeart #japan #ootd.
 platform: Instagram
+hits: 61
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 61 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "poseijon"
     fullname: >-
       John Matakena
+    bio: >-
+      Graphic Designer & Architect Pp/endorsement: Whatsapp 0817 9186580 (Natasha)
     location: "Indonesia"
-    followers: 3564
-    engagement: 1819
-    commentsToLikes: 0.079361
+    followers: 28977
+    engagement: 1764
+    commentsToLikes: 0.019086
     id: ckap1m824v58v0i788zgus23x
     verified: false
-    hashtags: "#throwback"
-  - username: "ulynovita"
+    hashtags: "#seminggujadisultan, #apreciationpost"
+  - username: "itofabians"
     fullname: >-
-      Uly Novita Siahaan
+      ITO
+    bio: >-
+      Photographer, Assist. Director, Graphic Designer. 🌐 : @pavementworldwide 🍜 : @bakmiesukaria
     location: "Indonesia"
-    followers: 63216
-    engagement: 1014
-    commentsToLikes: 0.050268
-    id: ck6u7x0lho5ir0j712o3w2czy
+    followers: 45119
+    engagement: 473
+    commentsToLikes: 0.011948
+    id: ck14iaccgeeyu0i191o9gmc19
     verified: false
-    hashtags: "#colorblock, #gloomy, #makeupremover, #dream"
+    hashtags: ""
   - username: "michellindw"
     fullname: >-
       Mich
+    bio: >-
+      OPEN ENDORSEMENT | collab 📩 DM Fashion | Beauty | Lifestyle Makeup Artist @michellin.mua Graphic Designer
     location: "Indonesia"
-    followers: 30437
-    engagement: 154
-    commentsToLikes: 0.132433
+    followers: 53930
+    engagement: 109
+    commentsToLikes: 0.075649
     id: ck8sxwu5giymm0j78c6ro44am
     verified: false
-    hashtags: "#tshirt, #stayathome, #oral, #tigersugar"
-  - username: "torydene"
+    hashtags: "#fibrefirst, #merawatsanggaruda, #wowconcert, #twobecomeone"
+  - username: "adhityaprimadi_s"
     fullname: >-
-      the influence
+      Lee Ruby
+    bio: >-
+      † 🎓Visual Communication Design ' 17 🎮 Valorant Id : LeeRuby#1999 🎮 Genshin Impact UID : 802067023 🌈 Pluviophile 🌧 ♂ 21 Tahun 🇮🇩 🎨 Graphic Designer
     location: "Indonesia"
-    followers: 18686
-    engagement: 277
-    commentsToLikes: 0.028987
-    id: ckap24ua5xdmm0i789vb7e6af
+    followers: 6358
+    engagement: 1200
+    commentsToLikes: 0.043227
+    id: ckap5cc4yb1800i78n5z13y9k
     verified: false
-    hashtags: ""
-  - username: "turanggaaaa"
+    hashtags: "#animeindo, #artanime, #animeartshelp, #animeartcollective"
+  - username: "leendoodles"
     fullname: >-
-      Turangga Setra Yudha
+      Leenh
+    bio: >-
+      Graphic designer & Illustrator ⁝ Commission: OPEN, link in bio! ⁝ Ask for permission if u want to repost ⬇ STICKER SHOP, PATREON and other links
     location: "Indonesia"
-    followers: 3624
-    engagement: 2761
-    commentsToLikes: 0.020366
-    id: ck6u2h0o9rrvm0j71p5ahdtr0
+    followers: 35870
+    engagement: 716
+    commentsToLikes: 0.028017
+    id: ckaou84tsz8660i78yx0nrwjz
     verified: false
-    hashtags: "#indobikers, #vansshoes, #vanssk8hi, #crf250l"
-  - username: "yosiaraduck"
-    fullname: >-
-      Yosia Raduck
-    location: "Indonesia"
-    followers: 14048
-    engagement: 1685
-    commentsToLikes: 0.024102
-    id: ck0vxk4bgzabb0i19vzcxy701
-    verified: false
-    hashtags: "#artproduct, #maskingfluid, #tutorial, #birds"
+    hashtags: "#commissions, #twitchcommissions, #commissionsopen, #artcommissions"
   - username: "kevinswork"
     fullname: >-
       Kevin Lagona
+    bio: >-
+      Illustrator/ Graphic Designer Sneakers Enthusiast
     location: "Indonesia"
-    followers: 39418
-    engagement: 603
-    commentsToLikes: 0.059286
+    followers: 43459
+    engagement: 439
+    commentsToLikes: 0.046600
     id: ck5hieui2d5na0i11e7oxh8c9
     verified: false
-    hashtags: "#repost, #nikexcarhartt, #topcollectionbykevin, #outfitgrid"
-  - username: "adhityaprimadi_s"
-    fullname: >-
-      Adhitya Primadi Art Account
-    location: "Indonesia"
-    followers: 6284
-    engagement: 1184
-    commentsToLikes: 0.043942
-    id: ckap5cc4yb1800i78n5z13y9k
-    verified: false
-    hashtags: "#zenitsuagatsuma, #sketch, #art4, #tanjiro"
+    hashtags: "#temanberkarya, #melangkahbersama, #giveawaytemanberkarya, #temanmelangkah"
   - username: "joliecactus"
     fullname: >-
       JolieCactus
+    bio: >-
+      My Cactus Collection 😆 I AM Graphic Designer × Cactus Lover Phitsanulok,Thailand 🇹🇭 🌵 Line ID : jamesimd 📣 Shipping Thailand Only #CactusThailand
     location: "Indonesia"
-    followers: 28334
-    engagement: 258
-    commentsToLikes: 0.035282
+    followers: 34510
+    engagement: 165
+    commentsToLikes: 0.040642
     id: ck0vxhgz6ywwf0i19dki0tdaw
     verified: false
     hashtags: ""
   - username: "shellamulia"
     fullname: >-
       Shella Mulia 🐈
+    bio: >-
+      A curious girl, a wanderer. 🎀 @coracraft.id 💁🏻 Graphic Designer 📮 shellamulia1705@gmail.com
     location: "Indonesia"
-    followers: 3054
-    engagement: 1192
-    commentsToLikes: 0.040568
+    followers: 3200
+    engagement: 999
+    commentsToLikes: 0.044840
     id: ck1381cxbe0zt0i19of6q387f
     verified: false
-    hashtags: "#bangkok, #pennylane, #garden, #explorejogja"
+    hashtags: "#liveauthentic, #likeforlike, #livefolk, #sunday"
+  - username: "talenta.priyatmojo"
+    fullname: >-
+      talenta priyatmojo
+    bio: >-
+      1994. 🇲🇨 Self-taught Hand lettering artist. Graphic designer. - Contact : 📩 talentapriyatmojo@gmail.com -------
+    location: "Indonesia"
+    followers: 15495
+    engagement: 542
+    commentsToLikes: 0.020118
+    id: ck6trq4x30fo90j71rnvfzv1q
+    verified: false
+    hashtags: "#letterpresscalendarindo, #letterpress, #calendar, #lettering"
+  - username: "rachelajeng"
+    fullname: >-
+      rachel ajeng & team
+    bio: >-
+      illustrator & graphic designer no DM; email for inquiries @artcamp_id @printandpattern.id
+    location: "Indonesia"
+    followers: 33175
+    engagement: 571
+    commentsToLikes: 0.052599
+    id: ck0w750xpbsfu0i19rywsher5
+    verified: false
+    hashtags: "#realmadforcolors, #rachelspalette, #illustration, #rachelspalettegiveaway"
 ---

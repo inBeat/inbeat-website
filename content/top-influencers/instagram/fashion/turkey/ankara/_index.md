@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Ankara In 2020
 description: >-
-  Find top fashion Instagram influencers in Ankara in 2020. Most popular hashtags: #fashion #evdekal #blogger #evdekalt.
+  Find top fashion Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #fashion #love #istanbul.
 platform: Instagram
+hits: 94
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 94 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
   - username: "tugcedemirlsblog"
     fullname: >-
       Tugce DEMİRAL Blog
+    bio: >-
+      Çı𝔫𝔞𝔯’𝔰 𝔪𝔬𝔪 ❥ Lifestyle │ Beauty │ Makeup | Fashion Ankara 📍 ✉️Iletisim & PR & DM : tuqce21@hotmail.com
     location: "Turkey"
     followers: 31693
     engagement: 304
     commentsToLikes: 0.026123
     id: ck8tbm7r0w7iy0j783rvzy3g2
     verified: false
-    hashtags: "#beymen, #koku, #follow4like, #dustcleaner"
-  - username: "devrim.erbil"
+    hashtags: "#instagram, #likeforfollow, #skincare, #following"
+  - username: "haticerkaya"
     fullname: >-
-      Devrim Erbil
+      Hatice
+    bio: >-
+      🍀Her an her yerden, 🌺Her paylaşıma bir söz. ✈️#haticerkaya bakmadan geçme. 🧿Çizim için DM.
     location: "Turkey"
-    followers: 34465
-    engagement: 349
-    commentsToLikes: 0.028919
-    id: ck5c85sgy8tug0i113furycpo
+    followers: 16777
+    engagement: 398
+    commentsToLikes: 0.206718
+    id: ckf5lbhb5p0810j23aoosfqdc
+    verified: false
+    hashtags: "#drawing, #balikesir, #decoration, #influencer"
+  - username: "pinaroez_"
+    fullname: >-
+      FASHION X P I N A R 🧿
+    bio: >-
+      🌻 C | حب💍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💌pinaroez_@maxplusmgmt.de⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🌻#FASHION 🎥MY LATEST YOUTUBE VIDEO ⬇️⬇️⬇️ s7es5
+    location: "Turkey"
+    followers: 35396
+    engagement: 248
+    commentsToLikes: 0.018262
+    id: ckap5vri9ddiu0i784uqgtaax
+    verified: false
+    hashtags: "#fashionblogger, #streetstyle, #ootd, #fashionista"
+  - username: "beratpolatoglu"
+    fullname: >-
+      Berat POLATOĞLU
+    bio: >-
+      🌍 World Class #Hair #barber #kuafor 🏆 Uluslararası Ödüllü Erkek Kuaförü Youtube Kanalıma ABONE OL 👇👇👇
+    location: "Turkey"
+    followers: 208572
+    engagement: 133
+    commentsToLikes: 0.034660
+    id: ck5zrbrgswaa60i14ykvbtczm
     verified: true
-    hashtags: "#edebiyat, #abstraction, #melody, #fest"
-  - username: "tugcee_blcn"
+    hashtags: "#style, #moda, #haircut, #tattoo"
+  - username: "silan.yakar"
     fullname: >-
-      Tugce Durdu Balçın 💗
+      
+    bio: >-
+      S ❤️ C 😍🌎🤸🏼‍♂️ Love..Hope..Joy 🔆 🐾 🍀 ✉️ silanyakar1@gmail.com
     location: "Turkey"
-    followers: 12632
-    engagement: 944
-    commentsToLikes: 0.069808
-    id: ck13aj8h4qn0v0i19u8haxv8h
+    followers: 34510
+    engagement: 355
+    commentsToLikes: 0.033866
+    id: ckap95d12r7up0i78gg1wbvc0
     verified: false
-    hashtags: "#decoration, #23nisan, #penti, #instablogger"
-  - username: "semihkiriss"
+    hashtags: "#happyday, #influencer, #photooftheday, #trendyol"
+  - username: "ozsoyphotography"
     fullname: >-
-      Semih Kiriş
+      Abdullah Özsoy
+    bio: >-
+      🇹🇷 📷 Siz Benim Neler Çektiğimi Burdan Göreceksiniz 📸 Kişiye Özel Temel Fotoğrafçılık Eğitimleri ve Ücretsiz Özel Gün Çekimleri için DM
     location: "Turkey"
-    followers: 3705
-    engagement: 4212
-    commentsToLikes: 0.056160
-    id: ck0vwrsadva720i19yj0j4nc5
+    followers: 14315
+    engagement: 513
+    commentsToLikes: 0.010286
+    id: ck15qskrv4fkc0i19jfwddg4c
     verified: false
-    hashtags: "#bandirma, #cinali, #cittaslow, #ancientcities"
-  - username: "f.busrattt"
+    hashtags: "#ozsoyphotography, #masjidharam, #corona, #altinvizor"
+  - username: "seymatan_collection"
     fullname: >-
-      B Ü Ş R A N U R
+      Şeyma Tantalkaya Büyükkuşoğlu
+    bio: >-
+      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
     location: "Turkey"
-    followers: 146552
-    engagement: 182
-    commentsToLikes: 0.009904
-    id: ck0vwv0movqdo0i1909z5opti
+    followers: 12132
+    engagement: 779
+    commentsToLikes: 0.029987
+    id: ck15qpkgw40wk0i197f0lsby3
     verified: false
-    hashtags: "#ho, #ramazan, #evdekalt, #evdekal"
-  - username: "nabeelalasmer"
+    hashtags: "#izmir, #bag, #paris, #crosstich"
+  - username: "hatice__bayar"
     fullname: >-
-      Nabeel Alasmer
+      Oriflame de direktör 🙋
+    bio: >-
+      REKLAM İŞBİRLİĞİ DM Oriflamede marka ortağı olmak ve benim ekibimde olup ürünleri indirimli almak istiyorsanız linkimden kaydinizi oluşturabilirsiniz
     location: "Turkey"
-    followers: 33273
-    engagement: 109
-    commentsToLikes: 0.030890
-    id: ck5zt326hzngs0i14tqcv00g1
+    followers: 14815
+    engagement: 1005
+    commentsToLikes: 0.022093
+    id: ckf5vartynwpk0j231l8x4vl5
+    verified: false
+    hashtags: "#video, #izmir, #ankara, #takipet"
+  - username: "ayakkabisatisdeposuu"
+    fullname: >-
+      
+    bio: >-
+      📫HIZLI TESLİMAT 📌ORİJİNAL ÜRÜNLER 🌍TÜRKİYE SATIŞ NOKTASI 💳HAVALE/ KAPIDA ÖDEME ✉️SİPARİŞLER DM ÜZERİ
+    location: "Turkey"
+    followers: 19399
+    engagement: 264
+    commentsToLikes: 0.017155
+    id: ck8t3hh6i3baa0j78o7ugses5
     verified: false
     hashtags: ""
-  - username: "mountain_ash22"
+  - username: "gozdeceseyler"
     fullname: >-
-      Aishwarya Dhavale
+      Gözdenur
+    bio: >-
+      🍴Pratik Tarifler 🍴Sağlıklı Tarifler 🍴Evdeki Malzemelerle Lezzetli Tarifler Reklam ve Is birliği için 📧 gozdeceseyler@gmail.com
     location: "Turkey"
-    followers: 72806
-    engagement: 350
-    commentsToLikes: 0.020703
-    id: ck601q6xpfyp10i14qb8h309n
+    followers: 21444
+    engagement: 565
+    commentsToLikes: 0.085139
+    id: ckf5p2cin4pdg0j23m0b9aypn
     verified: false
-    hashtags: "#trekking, #meditate, #wilderness, #youtuber"
-  - username: "najmmohammadi"
-    fullname: >-
-      Najm Mohammadi
-    location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
-    id: ck5c8dp0m99fe0i11etkdgpg0
-    verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
-  - username: "betuulle"
-    fullname: >-
-      Betül 💫💫
-    location: "Turkey"
-    followers: 5245
-    engagement: 1335
-    commentsToLikes: 0.100129
-    id: ck8tagdvzrn200j78yifuxvzl
-    verified: false
-    hashtags: "#shoes, #beautiful, #likemephoto, #quarantinedays"
-  - username: "mervekayamua"
-    fullname: >-
-      Merve Kaya
-    location: "Turkey"
-    followers: 14572
-    engagement: 1006
-    commentsToLikes: 0.138482
-    id: ck15uk3c3nkem0i19w2h45smx
-    verified: false
-    hashtags: "#kryolan, #fashionmom, #turkishblogger, #narssisist"
+    hashtags: "#yemek, #mutfaka, #fresh, #kolaytarifler"
 ---

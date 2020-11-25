@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Toronto In 2020
 description: >-
-  Find top fitness Instagram influencers in Toronto in 2020. Most popular hashtags: #fitness #toronto #gymlife #nature.
+  Find top fitness Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #fitness #torontofitness #fitnessmotivation.
 platform: Instagram
+hits: 166
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 166 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "ayenomz"
+  - username: "pickeringfitness"
     fullname: >-
-      Irene | Food & Lifestyle
+      Christopher Pickering 🍍
+    bio: >-
+      fitness travel toronto 🇨🇦 support the dream ⤵️
     location: "Canada"
-    followers: 3743
-    engagement: 2617
-    commentsToLikes: 0.532725
-    id: ck5zu6zoi1swj0i14dsezsu7h
+    followers: 25865
+    engagement: 185
+    commentsToLikes: 0.112529
+    id: ckaozztbpo5fv0i78iqghlmda
     verified: false
-    hashtags: "#globallylocal, #birthday, #chatimecanada, #sweatypic"
-  - username: "mr.tallrock"
+    hashtags: "#selfdevelopment, #prfashion, #torontofit, #sixpackabs"
+  - username: "annapiotrowski"
     fullname: >-
-      Menswear | Lifestyle | Fitness
+      Anna | FITNESS COACH 🇨🇦
+    bio: >-
+      I help busy people achieve their Fitness & Mindset goals. 💪🏻 ▫️Group fitness + personal training ▫️LIVE WORKOUTS❗️
     location: "Canada"
-    followers: 2870
-    engagement: 1744
-    commentsToLikes: 0.347701
-    id: ck9wf6pejnfdq0j78tkcma5xd
+    followers: 17930
+    engagement: 374
+    commentsToLikes: 0.043246
+    id: ck13dc0zi4ory0i198yj35tqw
     verified: false
-    hashtags: "#ossingtonstrip, #fatherslove, #joefreshkids, #guysfashion"
+    hashtags: "#instafit, #gymmotivation, #the6six, #instagood"
+  - username: "flaviacristina_to"
+    fullname: >-
+      FLAVIA CRISTINA
+    bio: >-
+      Lifestyle I CORPO, MENTE e ESPÍRITO 🥦🍔Equilíbrio I Mãe I Esposa I Jesus ✞ 🏃🏼‍♀️10km/49 min I @popeyes_yorkdale coaching @kangoo_club_canada team 🇨🇦
+    location: "Canada"
+    followers: 22667
+    engagement: 119
+    commentsToLikes: 0.064629
+    id: ck8t7lij4h8uy0j78xuea4whw
+    verified: false
+    hashtags: "#torontofitness, #corpomenteespirito, #torontostrong, #jesuseocaminho"
+  - username: "scrubs2sweats"
+    fullname: >-
+      Jessy MHSc, MRT(T),CPT, CHN
+    bio: >-
+      Fitness || Wellness ||Travel 〥𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗥𝗮𝗱𝗶𝗮𝘁𝗶𝗼𝗻 𝗧𝗵𝗲𝗿𝗮𝗽𝗶𝘀𝘁🎗 〥𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗧𝗿𝗮𝗶𝗻𝗲𝗿👟 〥𝗛𝗼𝗹𝗶𝘀𝘁𝗶𝗰 𝗡𝘂𝘁𝗿𝗶𝘁𝗶𝗼𝗻𝗶𝘀𝘁 🍎 〥 65 🌎 📍#Barbados #Toronto
+    location: "Canada"
+    followers: 14041
+    engagement: 269
+    commentsToLikes: 0.384935
+    id: ck0u944h28x2e0i191cunhwjs
+    verified: false
+    hashtags: "#deliciousandnutritious, #torontocommunity, #canadasworld, #discoverontario"
+  - username: "pedlowsamuel"
+    fullname: >-
+      Sam Pedlow | 🇨🇦 Pro Athlete
+    bio: >-
+      🍁 Professional Beach Volleyball Player 😺 Registered Physiotherapist MPT, BPHED BScH 🙌 @canfund recipient ⤵️ @whoop discount
+    location: "Canada"
+    followers: 34147
+    engagement: 299
+    commentsToLikes: 0.043008
+    id: ck5zulono2lo30i14ojcz7jbh
+    verified: true
+    hashtags: "#wilsonvolleyball, #fivb, #sponsoredathlete, #volleyball"
+  - username: "thenorthdaily"
+    fullname: >-
+      TheNorthDaily
+    bio: >-
+      BlackLivesMatter✊🏿🖤 #BLM 🇨🇦Everything #Raptors 🗣Follow On All Platforms @thenorthdaily 📥DM For Collabs/Partnership 🌎Connecting Raptor Fans Everywhere
+    location: "Canada"
+    followers: 10011
+    engagement: 737
+    commentsToLikes: 0.034484
+    id: ckf5o9dc81f0b0j231cif3m23
+    verified: false
+    hashtags: "#nba2021, #thenorthdaily, #torontoraptors, #dunk"
   - username: "mybollywoodbody"
     fullname: >-
       The Before and After Expert!
+    bio: >-
+      🇨🇦| Affiliate @underarmourca 🌍| Global Ambassador @myproteinin ✍| Judge @canadianphysiquealliance 📺| Canada's Most Watched Fitness Channel
     location: "Canada"
-    followers: 157939
-    engagement: 310
-    commentsToLikes: 0.030840
+    followers: 167436
+    engagement: 249
+    commentsToLikes: 0.022125
     id: ck6tn5xw7975r0j71o0xpv5lj
     verified: true
-    hashtags: "#sidhasadajatt, #supplements, #daddysgirls, #bestdubbingever"
-  - username: "pickeringfitness"
+    hashtags: "#jaankitoti, #trainwithme, #youtuber, #bodybuilding"
+  - username: "daksthetics"
     fullname: >-
-      Christopher Pickering
+      Dakota Unrau
+    bio: >-
+      🇨🇦 Niagara | Montréal 🧐 McGill BSc Honours Kinesiology 👕 @jed_north: 20% off: DAKOTA20 💊 @rivalus: 15% off: Dakota15 📩 DM for inquiries
     location: "Canada"
-    followers: 26890
-    engagement: 203
-    commentsToLikes: 0.086315
-    id: ckaozztbpo5fv0i78iqghlmda
+    followers: 58775
+    engagement: 209
+    commentsToLikes: 0.045926
+    id: ck5hjxqd9hfmr0i11sgngiw8b
     verified: false
-    hashtags: "#zyzz, #nature, #mixer, #summer2020"
-  - username: "eat.fit.enjoy"
+    hashtags: "#menscasualwear, #torontofitfam, #physique, #physiquefreak"
+  - username: "laurenfabello"
     fullname: >-
-      🥑FOOD, FITNESS AND MORE👌🏻
+      Laurén | Fitness & Lifestyle
+    bio: >-
+      Owner of @liftconquer 🇨🇦 CPT @the.compound_ Encouraging women to LIFT💫
     location: "Canada"
-    followers: 11073
-    engagement: 775
-    commentsToLikes: 0.035408
-    id: ck8t9ca17nknz0j78izig47xc
+    followers: 6897
+    engagement: 575
+    commentsToLikes: 0.176331
+    id: ck5hjxti4hft00i11zl7oh2hi
     verified: false
-    hashtags: "#saltlife, #bluecirclefoods, #sponsored, #officialbuiltbarreview"
-  - username: "mariapapadakiss"
+    hashtags: "#mondaymotivation, #fitfam, #bandedworkout, #wednesdaymotivation"
+  - username: "missrebeccaj"
     fullname: >-
-      Maria Papadakis
+      Rebecca Felgate
+    bio: >-
+      #Toronto 📍 Instagram Mam Known for YouTube & a love of cocktails! Writing a memoir. Travel, eats, drinks, adventures Work: rebeccajfelgate@gmail.com
     location: "Canada"
-    followers: 5018
-    engagement: 2191
-    commentsToLikes: 0.034062
-    id: ck5bw8ylgl8e70i11csi5gtz1
+    followers: 119851
+    engagement: 288
+    commentsToLikes: 0.025208
+    id: ck6titx7r1f620j716rggggae
     verified: false
-    hashtags: "#gymlife, #mlssoccer, #nike, #selflove"
-  - username: "chrismark2x"
-    fullname: >-
-      Chris Mark
-    location: "Canada"
-    followers: 5516
-    engagement: 816
-    commentsToLikes: 0.045832
-    id: ckaowsj53a9a30i78lt7i2nxh
-    verified: false
-    hashtags: "#tricking, #acrobatics, #family, #robin"
-  - username: "thevogueaholic_vasudha"
-    fullname: >-
-      Vasudha Dembla
-    location: "Canada"
-    followers: 32274
-    engagement: 205
-    commentsToLikes: 0.057038
-    id: ck14j2fwiiajl0i19fhsvyftf
-    verified: false
-    hashtags: "#hope, #fitnessclothes, #faith, #softhair"
-  - username: "brian_neyugn"
-    fullname: >-
-      🌴🎥📸🎞
-    location: "Canada"
-    followers: 7312
-    engagement: 489
-    commentsToLikes: 0.076658
-    id: ck8t5u831b9w20j78ui39ngsk
-    verified: false
-    hashtags: "#brakemeansgofaster, #earthday, #thecolorbundlegiveaway"
-  - username: "phantamos"
-    fullname: >-
-      Phantabae✨
-    location: "Canada"
-    followers: 72555
-    engagement: 726
-    commentsToLikes: 0.034265
-    id: ck15qru1w4brm0i19k4o3vyoi
-    verified: false
-    hashtags: "#recoveraustralia"
+    hashtags: "#negroniweekca2020, #niagaraonthelake, #canada, #torontogirl"
 ---

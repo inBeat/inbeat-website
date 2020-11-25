@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Canada In 2020
 description: >-
-  Find top food Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #beach #pressplay #quarantinelife.
+  Find top food Instagram influencers in Canada in 2020. Most popular hashtags: #selfie #nature #fall.
 platform: Instagram
+hits: 878
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 878 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "deannawoo"
+  - username: "loki.eats"
     fullname: >-
-      Deanna Woo: Vancouver Foodie
+      Loki | Lifestyle | Travel
+    bio: >-
+      🇨🇦 Toronto Girl Exploring Canada and Beyond ✨Helping you find IG Worthy Places ☽ Foodie• Traveller• Dreamer 〄 Let’s work together! DM/ Email!
     location: "Canada"
-    followers: 19969
-    engagement: 830
-    commentsToLikes: 0.575651
-    id: ck0vv5ehynmlc0i19v5dv41dt
+    followers: 8064
+    engagement: 956
+    commentsToLikes: 0.134902
+    id: ck15pdw1zxegt0i19c6ul7eap
     verified: false
-    hashtags: "#kyotoeats, #friesforgood, #japan, #supportlocalbusinesses"
+    hashtags: "#fashioninspo, #feedfeed, #dreamy, #pastries"
+  - username: "natlejour"
+    fullname: >-
+      Nathalie
+    bio: >-
+      ✨Blog Perso ✨Lifestyle 👩🏼‍🦳 ✨Montreal Vibes 💫🇨🇦 ✨Health Food Travels ✨Nature Fashion ✨Silver Model 🖤📸- 58 years ✨DM for collab ✨Happy Wife ❤️
+    location: "Canada"
+    followers: 8740
+    engagement: 930
+    commentsToLikes: 0.304150
+    id: ckap9zo2ku4w70i78ps2q8d9k
+    verified: false
+    hashtags: "#greyhair, #selfie, #montreallife, #agelessstyle"
+  - username: "lyss.fits"
+    fullname: >-
+      Alyssa Cleversey
+    bio: >-
+      22 y/o//🇨🇦 All about body inclusivity and positivity up in here ✨ Soccer + Pokénerd 🤓⚽️ Lover of all food 🍕
+    location: "Canada"
+    followers: 293113
+    engagement: 625
+    commentsToLikes: 0.021279
+    id: ck9hbow68htbm0j78sd3qnz4d
+    verified: false
+    hashtags: "#fitnessmodel, #fitgirl, #fitnessgirl, #gymrat"
   - username: "cocacarlyxoxo"
     fullname: >-
       ©️arly ☁️💜🦄💜☁️
+    bio: >-
+      📍🇨🇦 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑠ℎ𝑜𝑤 𝑚𝑒 𝑏𝑒𝑡𝑡𝑒𝑟 𝑡ℎ𝑎𝑛 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑡𝑒𝑙𝑙 𝑚𝑒 🌶♏️ 🌺Organic Curves🌺 Wanderlust🌍 Foodie🍡Empath💖 &Whatever else I’m in the mood for Paid Collabs 📧⬇️
     location: "Canada"
-    followers: 25683
-    engagement: 1606
-    commentsToLikes: 0.093038
+    followers: 155783
+    engagement: 795
+    commentsToLikes: 0.044156
     id: ck8t3vsfz4oaf0j78rjcu5j8y
     verified: false
-    hashtags: "#selfworth, #winnipeg, #friendship, #cubalibre"
-  - username: "theasianprincess"
+    hashtags: "#respectmycurves, #curvystyle, #curvyblogger, #nyc"
+  - username: "kerrylaifatt"
     fullname: >-
-      Emily
+      Kerry | Toronto Travel Foodie
+    bio: >-
+      🌺Chinese Jamaican Mom💍🇨🇦 Inspirational places, food, and style that spark joy. 📍TORONTO • NY • LOS ANGELES • MIAMI
     location: "Canada"
-    followers: 151758
-    engagement: 376
-    commentsToLikes: 0.050895
-    id: ckapcjspn43n40i78u9t1l1fs
+    followers: 9371
+    engagement: 937
+    commentsToLikes: 0.336193
+    id: ck5zxd9mv7sn50i145r3r8vkm
     verified: false
-    hashtags: "#vegan, #quarantinebirthday, #stayhome, #aprilfoolsbaby"
-  - username: "sumrahjehan"
+    hashtags: "#exploreontario, #dametraveler, #mommyandme, #toronto"
+  - username: "edenvonweiss"
     fullname: >-
-      Sumrah Jehan 🕊
+      EDEN🌬
+    bio: >-
+      ☾ Hobbies include making food and mistakes ♤ @wild.mgmt x @playmgmt ♧ email: edenaveryweiss@gmail.com Youtube below
     location: "Canada"
-    followers: 46512
-    engagement: 345
-    commentsToLikes: 0.155025
-    id: ck15rfjm17olh0i19qt1axb6s
+    followers: 15370
+    engagement: 1103
+    commentsToLikes: 0.037128
+    id: ck602s8ixiv670i14ere9mjlx
     verified: false
-    hashtags: "#lillylashes, #sumrahjehan, #abhsoftglam, #sheingals"
-  - username: "soniasunger"
-    fullname: >-
-      Sonia Sunger
-    location: "Canada"
-    followers: 6581
-    engagement: 1305
-    commentsToLikes: 0.069532
-    id: ck5hs2m9evvvb0i11tzyy7l3t
-    verified: false
-    hashtags: "#forourseniors, #canada, #earthday, #givingfeelsgood"
-  - username: "alexemichaud"
-    fullname: >-
-      Troublemaker -📍 Mtl
-    location: "Canada"
-    followers: 12368
-    engagement: 699
-    commentsToLikes: 0.095592
-    id: ck0vyr9wk5em40i19t0q8hhj5
-    verified: false
-    hashtags: "#happy, #beigeoutfit, #lululemon, #vans"
-  - username: "eliseestrada"
-    fullname: >-
-      Elise Estrada 🇨🇦🇵🇭
-    location: "Canada"
-    followers: 54333
-    engagement: 282
-    commentsToLikes: 0.166648
-    id: ck55q1tq0bwo50i11u1cs4847
-    verified: true
-    hashtags: "#throwback, #latepost, #ad, #fashionnova"
+    hashtags: "#deep"
   - username: "charobillard"
     fullname: >-
       Charlotte Robillard Millette
+    bio: >-
+      ♑︎ | Pro tennis player 🎾 | 21 | Montreal 🇨🇦 Dog person 🐶 Foodie 😋 World traveller 🌍 Family first 💯 For enquiries: charlotte@va-as.com
     location: "Canada"
-    followers: 53023
-    engagement: 773
-    commentsToLikes: 0.017686
+    followers: 51004
+    engagement: 549
+    commentsToLikes: 0.036309
     id: ck5znp19aovtp0i14icp7q3n8
     verified: true
-    hashtags: "#quarantinelife, #stayhome, #wethenorthbaby, #albumdroppingsoon"
-  - username: "bradcsmith"
+    hashtags: "#freckledbaby"
+  - username: "lisajane2"
     fullname: >-
-      Brad Smith
+      Lisa-jane
+    bio: >-
+      CANADA | NASHVILLE Hunter | Jesus | Traveler | Foodie | Going through life Blindly Optimistic Email to collab.
     location: "Canada"
-    followers: 26200
-    engagement: 553
-    commentsToLikes: 0.042775
-    id: ck5c6lm9r5p060i11v4xh8its
-    verified: true
-    hashtags: "#zoolander, #rookiemove, #mom, #food"
-  - username: "michaelchoosefood"
-    fullname: >-
-      Michael Chew
-    location: "Canada"
-    followers: 15480
-    engagement: 438
-    commentsToLikes: 0.211646
-    id: ck5qce2f7q3om0i11pmlmmcsi
+    followers: 5074
+    engagement: 1600
+    commentsToLikes: 0.070401
+    id: ckaov4zyl32st0i78pwh00be1
     verified: false
-    hashtags: "#supportlocal, #stayhome, #takeoutchallenge, #perkheropicks"
+    hashtags: "#treattuesday, #orderedpizza, #harleystyle, #naturecolors"
+  - username: "roxane_bailey"
+    fullname: >-
+      Roxane Bailey | MTL📍
+    bio: >-
+      Makeup 💋 Fashion 👠 Food 🍰 Social Media Manager at @image_motion 💁🏻‍♀️
+    location: "Canada"
+    followers: 2502
+    engagement: 1358
+    commentsToLikes: 0.157428
+    id: ck6uidy4aeiv60j71qnq4vwkk
+    verified: false
+    hashtags: "#gifted, #ad, #kvdveganbeauty, #cateyesforall"
+  - username: "samantha__celine"
+    fullname: >-
+      Samantha | Toronto Lifestyle
+    bio: >-
+      Affordable fashion, food, lifestyle ✨ Caribbean girl 🌺 in Toronto 🇨🇦 📲 Sign here
+    location: "Canada"
+    followers: 2495
+    engagement: 1774
+    commentsToLikes: 0.107042
+    id: ck8t10cl0tzwv0j78onub1piy
+    verified: false
+    hashtags: "#storycube, #mapifulfamily, #blackouttuesday, #summersolstice"
 ---

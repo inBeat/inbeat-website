@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Turin In 2020
 description: >-
-  Find top beauty Instagram influencers in Turin in 2020. Most popular hashtags: #beauty #flowers #gifted #turin.
+  Find top beauty Instagram influencers in Turin in 2020. Most popular hashtags: #me #beauty #makeup #fashion.
 platform: Instagram
+hits: 25
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 25 Instagram influencers like this in Turin, Italy for you to work with.
 profiles:
+  - username: "enrica_76to"
+    fullname: >-
+      Enrica
+    bio: >-
+      Blonde Chemistry, Personal Blog Pictures of my life! Fashion addicted, Blog, Life! 💋👩👗✨👠 Turin
+    location: "Italy"
+    followers: 27750
+    engagement: 1032
+    commentsToLikes: 0.036956
+    id: ck9wez8nvmjp90j78g67dab4y
+    verified: false
+    hashtags: "#minigonna, #italiangirl, #legs, #labionda"
   - username: "rita.cap"
     fullname: >-
       𝑹𝒊𝒕𝒂 𝑪𝒂𝒑𝒑𝒂𝒓𝒆𝒍𝒍𝒊✨
+    bio: >-
+      📍 Turin | 24yo 📩 capparellirita@gmail.com Beauty reporter @glamouritalia Attendend @condenastacademy
     location: "Italy"
-    followers: 93491
-    engagement: 152
-    commentsToLikes: 0.030485
+    followers: 94077
+    engagement: 188
+    commentsToLikes: 0.025795
     id: ck138l6upgrut0i19o4hxktfz
     verified: false
-    hashtags: "#suppliedby, #skincareenthusiast, #phoneclone, #fotografiavisionaria"
+    hashtags: "#sunday, #saturday, #friday, #tuesday"
   - username: "serena_filomena"
     fullname: >-
       SERENA FILOMENA ✨
+    bio: >-
+      📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
     location: "Italy"
-    followers: 16279
-    engagement: 182
-    commentsToLikes: 0.057789
+    followers: 17266
+    engagement: 89
+    commentsToLikes: 0.017991
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#plants, #natgeohub, #happybirthday, #splendid"
-  - username: "julia_mmsalmean"
-    fullname: >-
-      Julia MM Salmeán
-    location: "Italy"
-    followers: 109011
-    engagement: 296
-    commentsToLikes: 0.066292
-    id: ck15ulb4cnqr40i19eh17t3x8
-    verified: false
-    hashtags: "#1a, #costaazul, #quebuenosiemprevolveraverte, #risasrisasyrisas"
+    hashtags: "#design, #classy, #styles, #style"
   - username: "miriammigliaccio"
     fullname: >-
       Miriam
+    bio: >-
+      Personal Trainer 🔥 Naples-Turin @athleticperform 10% off “miriam01” Click the link below 💖
     location: "Italy"
-    followers: 11486
-    engagement: 1271
-    commentsToLikes: 0.026279
+    followers: 11616
+    engagement: 1385
+    commentsToLikes: 0.023724
     id: ck9wezrpcmmkf0j789f1w9gn0
     verified: false
-    hashtags: "#gymmodel, #kissmypeach, #magariio, #body"
+    hashtags: "#fitnessgirl, #bodypositive, #makeup, #motivation"
+  - username: "floraiones"
+    fullname: >-
+      Flora Iones
+    bio: >-
+      📍Italy 🇮🇹 /Turin /Bologna ✨Start in 26 NOV 2019 🔛Work hard to improve yourself and then just follow your instinct. And take lots of photos. Love wins.
+    location: "Italy"
+    followers: 152401
+    engagement: 238
+    commentsToLikes: 0.070803
+    id: ck8tcby0wyzgl0j78xlcnxvwd
+    verified: false
+    hashtags: "#vibes, #italiangirl, #fashionblogger, #switzerland"
+  - username: "carola_bianco_"
+    fullname: >-
+      Carola Bianco
+    bio: >-
+      📍 Turin, Milan | Italy ❄️20 years old 👩🏻‍⚕️Med student @unitorino Agency: @bravemodels
+    location: "Italy"
+    followers: 8034
+    engagement: 653
+    commentsToLikes: 0.038672
+    id: ck6ufbfr2w2590j71nlmz3inb
+    verified: false
+    hashtags: "#portraitgirl, #fashiongirl, #girl, #beauty"
+  - username: "firriolo_andrea"
+    fullname: >-
+      Andrea Firriolo
+    bio: >-
+      #hairstylist 📍Turin: C.so Re Umberto 64; 📍Turin: P.zza Gran Madre 8; @salonefirriolo ambassador for @systemprofessional @nioxin
+    location: "Italy"
+    followers: 32371
+    engagement: 35
+    commentsToLikes: 0.063243
+    id: ck15tzt75kpv40i1997xuuozq
+    verified: false
+    hashtags: "#mariofirriolo, #shorthair, #hairseminars, #thesincerestoryteller"
   - username: "risi_mua"
     fullname: >-
-      🦄🌺 𝐼𝑅𝐼𝒮 𝒞𝒰𝒞𝒰𝒵𝒵𝒜  🌺🦄
+      🌈𝐼𝑅𝐼𝒮 𝒞𝒰𝒞𝒰𝒵𝒵𝒜 🌈
+    bio: >-
+      💃🏻 TikTok risi992 📍 Turin ✍🏻 Microblading/Bio Tattoo/Laminazione @iris_microblading 💄 Make-up Artist certificate @mba_making_beauty_academy 🥐 Barista
     location: "Italy"
-    followers: 6535
-    engagement: 849
-    commentsToLikes: 0.050961
+    followers: 8651
+    engagement: 645
+    commentsToLikes: 0.051876
     id: ck0vw52fos50d0i19g23ly9jv
     verified: false
-    hashtags: "#roses, #scar, #christmas, #grinch"
-  - username: "giuse_joseph"
+    hashtags: "#soufeeljewelry, #makeupaddict, #zodiac, #zodiacsigns"
+  - username: "kennyhairartist"
     fullname: >-
-      © Giuse Joseph - Videomaker
+      Kenny Scorrano
+    bio: >-
+      BLONDE SPECIALIST. Top Technician @hc.salon Hair trainer @wellahair |Turin | BERLINER . بدأت تحبني For collaboration DM or👇🏻
     location: "Italy"
-    followers: 14349
-    engagement: 101
-    commentsToLikes: 0.052259
-    id: ck14guqwz74lt0i192gmg5z09
+    followers: 25343
+    engagement: 144
+    commentsToLikes: 0.025510
+    id: ck5zlptcbl5s70i14bie2gv1a
     verified: false
-    hashtags: "#lumix, #massage, #nexiomi, #videooftheday"
-  - username: "ornellapicciau"
-    fullname: >-
-      Ornella The Fashion Dance
-    location: "Italy"
-    followers: 47757
-    engagement: 109
-    commentsToLikes: 0.178000
-    id: ck136kp4i6z9p0i19skz60lqh
-    verified: false
-    hashtags: "#tuttoandr, #happybirthday, #sponsored, #quarantine"
+    hashtags: "#igers, #photography, #boy, #instagood"
   - username: "nicole_pinkbow"
     fullname: >-
       Nicole Lifestyle Lover
+    bio: >-
+      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨
     location: "Italy"
-    followers: 4132
-    engagement: 1185
-    commentsToLikes: 0.084617
+    followers: 4250
+    engagement: 871
+    commentsToLikes: 0.116810
     id: ck9hat96ie1el0j785128sc9e
     verified: false
-    hashtags: "#flowers, #books, #myaestheticroutine, #casely"
-  - username: "pininfarina_official"
-    fullname: >-
-      Pininfarina
-    location: "Italy"
-    followers: 87825
-    engagement: 164
-    commentsToLikes: 0.010383
-    id: ck0w4oynhzob90i1905u9nhzg
-    verified: false
-    hashtags: "#experiencedesign, #boating, #luxuryyacht, #pininstagram"
-  - username: "biancodavide_"
-    fullname: >-
-      Davide Bianco
-    location: "Italy"
-    followers: 9845
-    engagement: 1680
-    commentsToLikes: 0.017291
-    id: ck8t34x871vof0j7862jmo2zx
-    verified: false
-    hashtags: "#gaudi, #igerstorino, #felicit, #portoconte"
+    hashtags: "#thepinkbow, #gifted, #nicole, #mapifulfamily"
 ---

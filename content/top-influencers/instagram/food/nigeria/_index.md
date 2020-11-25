@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top food Instagram influencers in Nigeria in 2020. Most popular hashtags: #friedrice #dodo #noodles #birthdaygirl.
+  Find top food Instagram influencers in Nigeria in 2020. Most popular hashtags: #endsars #endpolicebrutality #style #explore.
 platform: Instagram
+hits: 65
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 65 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "jbums"
+  - username: "thetosintoge"
     fullname: >-
-      Mrs Black
+      Tosin Toge||Fashion||Blogger
+    bio: >-
+      Fashion|Travel|Lifestyle|Food Content Strategist||Pharmacist ||Social Media Manager 📩: info.thetosintoge@gmail.com
     location: "Nigeria"
-    followers: 39944
-    engagement: 248
-    commentsToLikes: 0.041957
-    id: ck6tu8eqoew750j71srno3x1a
+    followers: 6640
+    engagement: 839
+    commentsToLikes: 0.176589
+    id: ckf5t3jp2gula0j23ej9i7x5i
     verified: false
-    hashtags: "#warriorprincess, #feastingathistable, #whoistheadulthere, #belongingtothekingoftheearth"
+    hashtags: "#ad, #blackbloggersclub, #explore, #nigerianfashionbloggers"
+  - username: "glow_riiee"
+    fullname: >-
+      ⓖⓛⓞⓡⓨ 🇳🇬
+    bio: >-
+      BEST SMILE ON THE GRAM✨ Face of : @styledby_cents Foodie: @foodie_by_glow Tw: Caramel_figure • Student of Law • Content Creator • Style Enthusiast
+    location: "Nigeria"
+    followers: 58350
+    engagement: 567
+    commentsToLikes: 0.027834
+    id: ck6tvfx94m0fv0j71uiqgj1sa
+    verified: false
+    hashtags: "#explorepage, #glow, #endsarsbrutality, #smile"
+  - username: "omollara"
+    fullname: >-
+      ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
+    bio: >-
+      GOD💖 ▫️YOUTUBER || FASHION DESIGNER || MAKEUP ARTIST || FOODIE ▫️PSYCHOLOGIST🎓 ▫️BUSINESS ACC @marbsplace ▫️TWITTER- @omollara_ 📍Visit my YT channel👇🏽
+    location: "Nigeria"
+    followers: 2779
+    engagement: 840
+    commentsToLikes: 0.126749
+    id: ck5q9p0quc8ze0i11eifkgehh
+    verified: false
+    hashtags: "#endswat, #endpolicebrutality, #stayhome, #endsars"
+  - username: "bigbellytay"
+    fullname: >-
+      B.H
+    bio: >-
+      music | culture x strategy | food Cookstar @bigbellyktchn #TheBellybration ___ #reBELLYus
+    location: "Nigeria"
+    followers: 2602
+    engagement: 1433
+    commentsToLikes: 0.079473
+    id: ck0w0uligg40w0i19qiy182ee
+    verified: false
+    hashtags: "#bigbellylamba, #retropalooza, #thebellybration, #toolatetorun2020"
+  - username: "ruqayyah_dp"
+    fullname: >-
+      #ENDSARS
+    bio: >-
+      Fashion Enthusiast Food || Lifestyle Founder @dreamwearsonline Stylist @stylebyruqayyah
+    location: "Nigeria"
+    followers: 43809
+    engagement: 185
+    commentsToLikes: 0.029836
+    id: ck8t08bw7r64k0j78k8w1ater
+    verified: false
+    hashtags: "#styleinfluencer, #modeststyleinfluencer, #styleinspiration, #modestbrandinflencer"
   - username: "hadizaalawal"
     fullname: >-
       Wovenblends
+    bio: >-
+      Founder: Wovenblends I’m your girl for food and looks. 📩 Let’s work 👇 Wovenblends@gmail.com
     location: "Nigeria"
-    followers: 25235
-    engagement: 207
-    commentsToLikes: 0.056015
+    followers: 24639
+    engagement: 183
+    commentsToLikes: 0.052960
     id: ck8t4u9wc7yai0j78mldvs768
     verified: false
-    hashtags: "#quarantinebirthday, #birthdaygirl, #taurusbirthday, #sheaonthebeach"
-  - username: "omolola_unbothered"
-    fullname: >-
-      KING Olabiyi Omolola !!!
-    location: "Nigeria"
-    followers: 15874
-    engagement: 268
-    commentsToLikes: 0.118014
-    id: ck6tx9mx1wm130j71zuh6vz9g
-    verified: false
-    hashtags: "#chef, #happychild, #musicartist, #roddyricch"
-  - username: "rustyjem"
-    fullname: >-
-      JEM
-    location: "Nigeria"
-    followers: 2559
-    engagement: 1447
-    commentsToLikes: 0.103485
-    id: ckaox4c3lbq900i78bpcsygws
-    verified: false
-    hashtags: "#lips, #earings, #stayhome, #savelives"
-  - username: "lazywrita"
-    fullname: >-
-      Anda Damisa
-    location: "Nigeria"
-    followers: 61551
-    engagement: 288
-    commentsToLikes: 0.084055
-    id: ck5hq6z6wsm6m0i11mceycuhd
-    verified: false
-    hashtags: "#showmaxnigeria, #merike, #explore, #behappychallenge"
-  - username: "ola_young"
-    fullname: >-
-      OLABISI OlaMoney Adesona
-    location: "Nigeria"
-    followers: 4249
-    engagement: 1091
-    commentsToLikes: 0.094944
-    id: ck6tvj3m6mhho0j71ymha1mmi
-    verified: false
-    hashtags: "#yourgirlcannowmakeyummyjollofrice, #notconcotion, #dontskipbecauseyouthinkyoudonthaveany, #weareheretocheeryouon"
-  - username: "bigbellylamba"
-    fullname: >-
-      B.H | Brains and Belly
-    location: "Nigeria"
-    followers: 2472
-    engagement: 1334
-    commentsToLikes: 0.071026
-    id: ck0w0uligg40w0i19qiy182ee
-    verified: false
-    hashtags: "#lifeiseazi, #youngrare, #watchthemix, #mountainbiking"
+    hashtags: "#quarantinebirthday, #ad, #taurusgang, #lostinacity"
   - username: "diaryofakitchenlover"
     fullname: >-
       Tolani | Can | Cook
+    bio: >-
+      WINNER, STERLING BANK’S JOLLOF MASTER 2020🏆 👩‍🍳 Unique Food Blogger and Influencer 👩‍🍳 Food Photograher/Videographer 💇‍♀️Alter Ego @slaybytolani
     location: "Nigeria"
     followers: 175756
     engagement: 244
     commentsToLikes: 0.061745
     id: ck6u7zfb1ojwn0j71n5dcn904
     verified: false
-    hashtags: "#ricenoodles, #moimoirecipe, #yamandbeans, #beansporridge"
-  - username: "dolapogrey"
+    hashtags: "#lagosfood, #recipecreator, #foodstylist, #foodblogging"
+  - username: "chef_muse"
     fullname: >-
-      D o l a p o  G r e y
+      Chef Muse
+    bio: >-
+      Cuisine Addict | Private Chef|Food Stylist| Consultant. Chef Instructor @Reddishchronicles #RDCAlumni | thechefmuse@gmail.com FCT Abuja, Nigeria
     location: "Nigeria"
-    followers: 40600
-    engagement: 232
-    commentsToLikes: 0.057736
-    id: ck9haztgwerot0j785bhiq4au
+    followers: 16079
+    engagement: 392
+    commentsToLikes: 0.074865
+    id: ckap6y1d3huaa0i78ytftxqy9
     verified: false
-    hashtags: "#coffee, #beefstew, #baking, #rice"
+    hashtags: "#killerchef, #wearerdc, #abuja, #nigeriamustbegreatagain"
   - username: "tijesu.o"
     fullname: >-
-      Lifestyle With Tijesu
+      Olupekan Tijesunimi
+    bio: >-
+      Fashion/Food lover + Digital creator 📩 olupekantijesunimi@gmail.com
     location: "Nigeria"
-    followers: 10360
-    engagement: 990
-    commentsToLikes: 0.173724
+    followers: 10584
+    engagement: 827
+    commentsToLikes: 0.117632
     id: ck0tvv3bfcx2x0i19qum3r0op
     verified: false
-    hashtags: ""
+    hashtags: "#ootdfashion, #blackfashionblogger, #fashionaddict, #fashionblogger"
+  - username: "aromaarena"
+    fullname: >-
+      AromaArena | Cooking Solutions
+    bio: >-
+      🌹FoodContentCreator | YouTuber | CulinaryGenius 📌Founder @meatballs.ng 📌Order Meals @aromaarenanaija 📌Cooking Instructor 📌👇PRE ORDER EBOOK
+    location: "Nigeria"
+    followers: 82168
+    engagement: 125
+    commentsToLikes: 0.052375
+    id: ck6ug8mpm1k580j712dwgagam
+    verified: false
+    hashtags: "#nigerianfoodblogger, #westafricancuisine, #africanfoodie, #foodinabuja"
 ---

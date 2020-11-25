@@ -1,107 +1,130 @@
 ---
 title: Top 10 Runners Instagram Influencers In Chile In 2020
 description: >-
-  Find top runners Instagram influencers in Chile in 2020. Most popular hashtags: #runners #runner #quedateencasa #trailrunner.
+  Find top runners Instagram influencers in Chile in 2020. Most popular hashtags: #chile #runner #instagood.
 platform: Instagram
+hits: 10
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 10 Instagram influencers like this in Chile for you to contact.
 profiles:
   - username: "yadrankatomick"
     fullname: >-
-      Yadranka Tomič Kralj 🇨🇱🇭🇷
+      Yadranka Tomič Kralj
+    bio: >-
+      . Chilena Croata 🇨🇱🇭🇷 O ❦ @solesdepelarco ♞ Miss Chile, 2nd Runner Up International 2017 ♛ . Tiktok @yadrankatomick ❦
     location: "Chile"
-    followers: 197205
-    engagement: 473
-    commentsToLikes: 0.016290
+    followers: 222754
+    engagement: 619
+    commentsToLikes: 0.013382
     id: ck5c07tppsltc0i11em4gle4g
     verified: true
-    hashtags: "#tiktok, #videoclip, #tbt, #cuarentena"
-  - username: "karen_petz"
+    hashtags: ""
+  - username: "sebastian_runner"
     fullname: >-
-      Karen Petz
+      Sebastián Runner
+    bio: >-
+      VALPARAÍSO ▪ CHILE ▪ #POSTALES_HUMANAS_ Fotógrafo documentalista / Talleres / Proyectos visuales & Culturales Pronto www.sebastianrunner.cl
     location: "Chile"
-    followers: 18914
-    engagement: 219
-    commentsToLikes: 0.032074
-    id: ck8sz3ilnn17f0j78oa067rrj
+    followers: 41541
+    engagement: 333
+    commentsToLikes: 0.031907
+    id: ck5hnn5pjo2230i11h023yh4r
     verified: false
-    hashtags: "#quarantine, #dontmessupwithmyfood, #pool, #water"
-  - username: "frangibar"
+    hashtags: "#apruebo, #convencionconstitucional, #postales, #taller"
+  - username: "franciscorree"
     fullname: >-
-      Ultra Trail Runner 🇨🇱
+      Franciscoo Alexanderr
+    bio: >-
+      Atleta: @thenorthfacechile @PetzlChile @BuffChile @wild.mate @suunto_chile
     location: "Chile"
-    followers: 41662
-    engagement: 358
-    commentsToLikes: 0.064639
-    id: ck0vxa36mxwuk0i19humtavmp
+    followers: 6207
+    engagement: 565
+    commentsToLikes: 0.018847
+    id: ck14i9k2qeauh0i19wlj6ka94
     verified: false
-    hashtags: "#lagunapiuquenes, #pandemia, #keepdreaming, #budapest"
-  - username: "m.m.s.brito"
+    hashtags: "#motivacion, #running, #nature, #naturephotography"
+  - username: "fenamackenna"
     fullname: >-
-      Ma Monserrat Sabag⏸atleta 💪
+      Fernanda Mackenna
+    bio: >-
+      ⚡️Chilena 🇨🇱 - Atleta 400mts ⚡️Medallista Sudamericana ⚡️Atleta @underarmourlatam ⚡️Embajadora @imgacademy ⬇️
     location: "Chile"
-    followers: 2354
-    engagement: 2499
-    commentsToLikes: 0.051190
-    id: ck6txrilrzfrv0j713hb9oo76
+    followers: 24515
+    engagement: 263
+    commentsToLikes: 0.040387
+    id: ckaowvnjhanng0i78pd95hg1s
     verified: false
-    hashtags: "#lovetheworld, #fondo, #curacautin, #valentines"
-  - username: "ferresmaxi"
-    fullname: >-
-      Maxi Ferres
-    location: "Chile"
-    followers: 580860
-    engagement: 176
-    commentsToLikes: 0.022302
-    id: ck5zjfnuthi4v0i14e9z0kia8
-    verified: true
-    hashtags: "#cuidadopersonal, #natural, #ayuda, #dise"
-  - username: "navarretedaniela1"
-    fullname: >-
-      Daniela Navarrete
-    location: "Chile"
-    followers: 3604
-    engagement: 744
-    commentsToLikes: 0.067912
-    id: ck14i9m1jeb5q0i19j65re2p7
-    verified: false
-    hashtags: "#ripples, #instarun, #beach, #21km"
+    hashtags: "#tbt, #athlete, #track, #chile"
   - username: "cata_alegria_"
     fullname: >-
       Cata Alegría
+    bio: >-
+      Explorando Chile. A veces 🌎 Team @mountainrunningco ⛰ Panel @fulloutdoor 🌿 Salidas gratis c/@cin_meneses🌸 Cofounder @7even.cl 💫
     location: "Chile"
     followers: 7851
     engagement: 495
     commentsToLikes: 0.053565
     id: ck8tdmmse3y690j7827qnbifp
     verified: false
-    hashtags: "#coffeetime, #staysafe, #spots, #outdoors"
-  - username: "josezorrote"
+    hashtags: "#outdoorpeople, #landscapephotography, #travel, #funrun"
+  - username: "niamalimits"
     fullname: >-
-      JOSE SANTANDER 🇨🇱
+      Juan Pablo Savonitti
+    bio: >-
+      🏃‍♂️de Ushuaia a Alaska promoviendo la lengua de señas en el 🌎🏃‍♂️from Ushuaia to Alaska promoting Sign Language in the 🌎 🇦🇷🇨🇱🇵🇪🇪🇨🇨🇴🇵🇦🇨🇷🇳🇮🇭🇳🇸🇻🇬🇹🇲🇽🇺🇸🇨🇦
     location: "Chile"
-    followers: 10103
-    engagement: 617
-    commentsToLikes: 0.070817
-    id: ck137rr81d28k0i19q0y1hmso
+    followers: 9829
+    engagement: 167
+    commentsToLikes: 0.067100
+    id: ck5c6w2zy6bj20i112c7btibc
     verified: false
-    hashtags: "#15marzo, #ydespreocupate, #ultraresistente, #streetskate"
+    hashtags: "#cuarentena, #ushuaiaalaska, #ultrarunner, #ultrarunning"
   - username: "genoveva_tenaillon"
     fullname: >-
-      Cocina Sin Culpas
+      Sin Culpas
+    bio: >-
+      💚 Recetas fáciles y saludables ❤️Tips para una vida saludable física y mentalmente ⚖️ 📖Autora del libro #sinculpas
     location: "Chile"
-    followers: 145196
-    engagement: 121
-    commentsToLikes: 0.050151
+    followers: 151990
+    engagement: 101
+    commentsToLikes: 0.040906
     id: ckaorwno2p36d0i78strivuru
     verified: true
-    hashtags: "#runner, #singlutenchile, #comidasaludablechile, #glutenfree"
+    hashtags: "#sinazucar, #saschafitness, #chilefit, #singluten"
   - username: "mimotuga"
     fullname: >-
-      Mimo Tuga
+      Mimo Tuga ✴️
+    bio: >-
+      
     location: "Chile"
-    followers: 30488
-    engagement: 296
-    commentsToLikes: 0.030254
+    followers: 34226
+    engagement: 410
+    commentsToLikes: 0.032792
     id: ck5qdherfvlnc0i11qhjkbyk7
     verified: false
-    hashtags: "#diamundialdelcirco, #playacarcajadas, #whoo, #payasochumbeque"
+    hashtags: "#18deoctubre, #renunciapi, #aprueboconvencio, #nuncamas"
+  - username: "giova.streetart"
+    fullname: >-
+      GIOVA
+    bio: >-
+      🇨🇱 Muralista (Arte Urbano) Valparaíso, Chile Cuenta personal @giovannizamora55 Cuenta Retratos: @retratos.valparaiso #APRUEBO
+    location: "Chile"
+    followers: 27352
+    engagement: 925
+    commentsToLikes: 0.014054
+    id: ck6tovwuugece0j71uk0usp1k
+    verified: false
+    hashtags: "#chilemovilizado, #quedateencasa, #beautiful, #dibujo"
+  - username: "senshi.a.dc"
+    fullname: >-
+      SENSHI-A DANCE COVER
+    bio: >-
+      #SHINee 🇨🇱 #KpopChile Team: @ichimike + @chang_min_tama + @kevlehmann + @yoyi.uk + @ttaem0ch1 Contacto: 📩 senshi.a.dc@gmail.com Edit: @bastn_ires
+    location: "Chile"
+    followers: 10318
+    engagement: 909
+    commentsToLikes: 0.016218
+    id: ck6tlseba6jyp0j714ksyj5xb
+    verified: false
+    hashtags: "#revenshia, #luciferchallenge, #stayhome, #rddchallenge"
 ---

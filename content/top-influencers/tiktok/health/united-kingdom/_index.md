@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top health TikTok influencers in United Kingdom in 2020. Most popular hashtags: #selflove #duet #brighterinside #bekind.
+  Find top health TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #mentalhealth #foryoupage #mentalhealthmatters.
 platform: TikTok
+hits: 462
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 462 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "drjuliesmith"
+    fullname: >-
+      Dr Julie Smith - Psychologist
+    bio: >-
+      PSYCHOLOGIST MENTAL HEALTH & PSYCHOLOGY MORE @ INSTAGRAM & YOUTUBE FREE COURSE👇
+    location: "United Kingdom"
+    followers: 2200000
+    engagement: 1390
+    commentsToLikes: 0.017198
+    id: ck83jyxba80bw0j78zkpz71eo
+    verified: true
+    hashtags: "#psychology, #moveformentalhealth, #psychologytricks, #motivation"
+  - username: "joeebrennan"
+    fullname: >-
+      Joe Brennan ♡
+    bio: >-
+      Johnjoe007@icloud.com GIVEAWAY ON IG NOW⤵️ Happy world mental health day!🥰 He/h
+    location: "United Kingdom"
+    followers: 330300
+    engagement: 1906
+    commentsToLikes: 0.030220
+    id: ck8adepts5nai0j78re655jdi
+    verified: false
+    hashtags: "#timewarpscan, #dog, #boxerdog, #foryoupage"
   - username: "pmcgregorcom"
     fullname: >-
       Paul McGregor
+    bio: >-
+      If you hit this ☝️I’ll try to keep you motivated. Mental health awareness
     location: "United Kingdom"
-    followers: 31768
-    engagement: 1949
-    commentsToLikes: 0.054971
+    followers: 32500
+    engagement: 1993
+    commentsToLikes: 0.042565
     id: ck8ad944e4cui0j78uy9nmmfg
     verified: false
-    hashtags: "#brighterinside, #motivation, #motivational, #therapysession"
-  - username: "gayle_empath"
+    hashtags: "#selfcare, #anxiety, #fyp, #tiktoktherapy"
+  - username: "recoveringvic"
     fullname: >-
-      🦋💙Gayle💙🦋
+      Vic 🌻✨
+    bio: >-
+      mental health advocate✨ body positivity 🌻 f*ck society🖕🏼 ig: recoveringvic.x
     location: "United Kingdom"
-    followers: 6143
-    engagement: 1237
-    commentsToLikes: 0.298374
-    id: ckajbb9cumwjs0i787yach6hz
+    followers: 38600
+    engagement: 2132
+    commentsToLikes: 0.016041
+    id: ckamq8k58gaz50i785jqlutf1
     verified: false
-    hashtags: "#duet, #forever, #realisrare, #foryoupage"
-  - username: "mythicalpeach_"
+    hashtags: "#bodypositivity, #selflove, #fyp, #foryoupage"
+  - username: "itismexoxo"
     fullname: >-
-      ✨🍑 P E A C H 🍑✨
+      jess
+    bio: >-
+      Mum to 4 and 18 angels Reborn mummy Mental health matters Adhd Lbgt ❤🧡💛💚💙
     location: "United Kingdom"
-    followers: 106343
-    engagement: 1914
-    commentsToLikes: 0.021589
-    id: ck9flw3s2q7g20j78dfaup5kq
+    followers: 10400
+    engagement: 1599
+    commentsToLikes: 0.082943
+    id: ckamtduxnua5p0i78s5u299js
     verified: false
-    hashtags: "#boredvibes, #bekind, #fatpositive, #quarantine"
-  - username: "thistrippyhippie"
+    hashtags: "#makeup, #fyp, #jdwonderland, #mentalhealthawarness"
+  - username: "solofinity"
     fullname: >-
-      evie meg🌙
+      SoloFinity 🌱💚
+    bio: >-
+      🐔 Vegan for the animals 🐮 🌱 Plant based for health 🌱 ⚠️ FACE REVEAL ⚠️👇🏽
     location: "United Kingdom"
-    followers: 325829
-    engagement: 2194
-    commentsToLikes: 0.016680
-    id: ck94k4462tohg0j78mvrxn3pt
-    verified: true
-    hashtags: "#rabbit, #painting, #positivity, #coupleedition"
-  - username: "drjuliesmith"
-    fullname: >-
-      Doctor Julie Smith
-    location: "United Kingdom"
-    followers: 775288
-    engagement: 1060
-    commentsToLikes: 0.020580
-    id: ck83jyxba80bw0j78zkpz71eo
-    verified: true
-    hashtags: "#parents, #anxiety, #dontgiveup, #panicattack"
-  - username: "mae.india"
-    fullname: >-
-      Mae x
-    location: "United Kingdom"
-    followers: 4209
-    engagement: 1222
-    commentsToLikes: 0.037814
-    id: ck8tsevn3rava0j78p66zdiry
+    followers: 17600
+    engagement: 851
+    commentsToLikes: 0.535647
+    id: ckcpi6in3hrzs0j23gk8r7xbo
     verified: false
-    hashtags: "#truestory, #sucks, #demigod, #haha"
-  - username: "girlimusic"
+    hashtags: "#vegan, #vegans, #nutritionist, #govegan"
+  - username: "niall_coaching"
     fullname: >-
-      GIRLI
+      Niall Carr Coaching
+    bio: >-
+      Improve YOUR health, Improve YOUR mindset, Reach YOUR full potential.
     location: "United Kingdom"
-    followers: 24293
-    engagement: 1911
-    commentsToLikes: 0.018377
-    id: ck9eydcapve000j78zvmub6xb
+    followers: 14600
+    engagement: 781
+    commentsToLikes: 0.125859
+    id: ckdsueh4wps4u0j23juyvx6hp
     verified: false
-    hashtags: "#tiktokviral, #selflove, #blindinglights, #lesbian"
-  - username: "superdrug"
+    hashtags: "#learnontiktok, #dollhousechallenge, #foryou, #happy"
+  - username: "maxmccannpt"
     fullname: >-
-      Superdrug
+      Max McCann
+    bio: >-
+      Follow me on Insta ⬆️ Mental Health Warrior⚔️ CEO of “Here’s what it looks like”
     location: "United Kingdom"
-    followers: 24661
-    engagement: 1994
-    commentsToLikes: 0.013400
-    id: ck9a4sh2avww80j78j4fcdqks
+    followers: 110100
+    engagement: 581
+    commentsToLikes: 0.038541
+    id: ckcj5r7at5vci0j238l67ftql
     verified: false
-    hashtags: "#dabblendglow, #bekind, #wishlist, #beautymode"
-  - username: "kurtish91"
+    hashtags: "#vegetables, #diet, #lowcalorie, #weightloss"
+  - username: "lillysaber"
     fullname: >-
-      KURTIS
+      Lilly
+    bio: >-
+      19 | IG: @lillysaberr ♡ Stay healthy ♡
     location: "United Kingdom"
-    followers: 6741
-    engagement: 1184
-    commentsToLikes: 0.045174
-    id: cka3vpqykz5tl0i783qyfet3d
+    followers: 207800
+    engagement: 1165
+    commentsToLikes: 0.022693
+    id: ck8ndqf9ck28w0j78pnyyg8nc
     verified: false
-    hashtags: "#glowup, #thirsttrap, #borisjohnson, #boredinthehouse"
-  - username: "laurahayter3"
+    hashtags: "#kpop, #pov, #makeup, #fyp"
+  - username: "hench_herbivore"
     fullname: >-
-      laurahayter3
+      Paul Kerton
+    bio: >-
+      Vegan Health/Fitness YouTuber
     location: "United Kingdom"
-    followers: 301077
-    engagement: 666
-    commentsToLikes: 0.020748
-    id: ck8z9sfixz6yi0j78kxh10bbt
+    followers: 3120
+    engagement: 398
+    commentsToLikes: 0.085204
+    id: ckbqv1380fbkj0j23ve0etbgb
     verified: false
-    hashtags: "#breakup, #fitspo, #fitfam, #nickiminaj"
+    hashtags: "#veganhumour, #veganbodybuilding, #vegans, #vegansoftiktok"
 ---

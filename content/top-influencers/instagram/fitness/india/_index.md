@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In India In 2020
 description: >-
-  Find top fitness Instagram influencers in India in 2020. Most popular hashtags: #staysafe #eidmubarak #throwback #love.
+  Find top fitness Instagram influencers in India in 2020. Most popular hashtags: #love #instagood #nature #naturephotography.
 platform: Instagram
+hits: 2142
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 2142 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "pappya_gaikwad_official"
+  - username: "roshan_nechiyil"
     fullname: >-
-      PapPya Gaikwad
+      روشن نشيل
+    bio: >-
+      Ex-Gemsian Wanderlust👣 Comrade🇦🇴 Petrolhead⛽ Fitness motive💪
     location: "India"
-    followers: 1858325
-    engagement: 998
-    commentsToLikes: 0.067024
-    id: ck0u2mcaj0c8k0i192zla88ka
+    followers: 2481
+    engagement: 2755
+    commentsToLikes: 0.113174
+    id: ck8tbpujawn2w0j7869w8dsee
     verified: false
+    hashtags: "#lovemalayalam, #mallureposts, #malayalamtypography, #mallu"
+  - username: "majiziya_bhanu"
+    fullname: >-
+      Dr. Majiziya Bhanu
+    bio: >-
+      Powerlifting World Champion 🇮🇳 Fitness Model And Physique🧕 International Arm Wrestler💪 For Enquiries/Collaborations 📩 DM @hafeezahammed
+    location: "India"
+    followers: 40568
+    engagement: 748
+    commentsToLikes: 0.046485
+    id: ck8wgdxerh6820j781r1t3c41
+    verified: true
     hashtags: ""
-  - username: "aamir_khhan"
+  - username: "mohammed_rizvan_mr"
     fullname: >-
-      AAMIR KHAN  Men's fashion
+      // RIZVAN MR //
+    bio: >-
+      | Nature • Music • Travel • Fitness • Food| 6 ft 2🕴 Bengaluru❌Kottakkal Auto Enthusiast 🚦 🃏
     location: "India"
-    followers: 25193
-    engagement: 726
-    commentsToLikes: 0.123717
-    id: ck8t7gnatgq7a0j7803v0m16d
+    followers: 3081
+    engagement: 1903
+    commentsToLikes: 0.124660
+    id: ck6u14ey8jis10j71ztaj15dm
     verified: false
-    hashtags: "#covid, #facewash, #quarantinelife, #socialawareness"
-  - username: "prakharnarayandubey"
+    hashtags: "#aesthetic, #bangalorediaries, #vsco, #aestheticedits"
+  - username: "manu.sainii"
     fullname: >-
-      Dr.Prakhar 🇮🇳
+      Manu Saini
+    bio: >-
+      🥇Teenage bodybuilder . 💪🏻Fitness model 16 y/old= 29’th MAY Sc👻 : manu_saini86 ਧਾਕੜ👇🏻
     location: "India"
-    followers: 22931
-    engagement: 1234
-    commentsToLikes: 0.057836
-    id: ckap1zlypwqrc0i7871ff3g5o
+    followers: 21277
+    engagement: 2425
+    commentsToLikes: 0.041115
+    id: ck9wfx3f3qw2a0j78i53fxb47
     verified: false
-    hashtags: "#lucknowblogger, #fitnessmodel, #blackandwhite, #memes"
-  - username: "beamingdesires"
-    fullname: >-
-      Tanu
-    location: "India"
-    followers: 10255
-    engagement: 1164
-    commentsToLikes: 0.220831
-    id: ck9wftagfqfy30j78ebike2u5
-    verified: false
-    hashtags: "#111grp, #ethnicwear, #may7lockdwn, #eidmubarak"
+    hashtags: "#sainimanu, #nature, #gains, #love"
   - username: "the_indian_messieurs"
     fullname: >-
       Shivam Gupta
+    bio: >-
+      🛡 The Indian Messieurs™ 👔 Fashion | Lifestyle | Fitness 🧑 NIFT | Fashion Designer & Model ▶️ Follow Me For Daily Fashion Updates 📩 DM/Mail For Collab
     location: "India"
-    followers: 21251
-    engagement: 1109
-    commentsToLikes: 0.049675
+    followers: 21426
+    engagement: 911
+    commentsToLikes: 0.073152
     id: ck6tmcgr07l2x0j71tc2tt54p
     verified: false
-    hashtags: "#smilemore, #dapperoutfits, #coronovirus, #coronavirus2020"
+    hashtags: "#dapperlydone, #menblogger, #whiteaesthetic, #urbanfashion"
+  - username: "nishu9953"
+    fullname: >-
+      Nisha Jaiswal
+    bio: >-
+      Engineer/ Model/ fashion / beauty /fitness/ lifestyle 🏅1st runner miss odisha photogenic 2k17 DM for collaboration and promotion
+    location: "India"
+    followers: 19125
+    engagement: 898
+    commentsToLikes: 0.208597
+    id: ck8t7azzvg60o0j78w0llw6jd
+    verified: false
+    hashtags: "#beautybloggers, #fashionblogger, #indianblogger, #beromtlipsticks"
   - username: "tamarawebb_"
     fullname: >-
       TAMARA WEBB 💫
+    bio: >-
+      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
     location: "India"
-    followers: 48725
-    engagement: 753
-    commentsToLikes: 0.036356
+    followers: 53255
+    engagement: 805
+    commentsToLikes: 0.078111
     id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#healthycarrotcake, #healthybrownie, #lifestyle, #love"
-  - username: "arushi_bhal"
+    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
+  - username: "j_a_t_i_n_0001"
     fullname: >-
-      Arushi | India
+      J A T I N  P A N D O R
+    bio: >-
+      👔ᶠᴬˢᴴᴵᴼᴺ ᴮᴸᴼᴳᴳᴱᴿ . 📸ᴼᵂᴺᴱᴿ ᴶᴬᵀᴵᴺ ᴾᴴᴼᵀᴼᴳᴿᴬᴾᴴᵞ . 💪🏻ᶠᴵᵀᴺᴱˢˢ ᶠᴿᴱᴬᴷˢ . 🇮🇳ᴵᴺᴰᴵᴬᴺ (ᴳᵁᴶᴬᴿᴬᵀᴵ) . 🔈🎵 ᴸᴼᵛᴱ ᴹᵁˢᴵᶜ . 🌍ᴮᴰᴬᵞ :17th JuLY .
     location: "India"
-    followers: 29761
-    engagement: 1201
-    commentsToLikes: 0.038443
-    id: ck0tw9ub9ejkg0i194133wpuu
+    followers: 19496
+    engagement: 2019
+    commentsToLikes: 0.138288
+    id: ck0tzzdzys4gw0i19axkv6oxf
     verified: false
-    hashtags: "#cinephile, #yourshot, #indiastreets, #shotonphone"
-  - username: "harshitsinghofficial"
+    hashtags: "#love, #color, #fashion, #fashionmodel"
+  - username: "ashique_sikku"
     fullname: >-
-      Harshit Singh
+      🌿عاشِق /💓 ASHIQUE🌿
+    bio: >-
+      ☺ALHAMDULILLAH FOR EVERYTHING☺ 💪 fiTneSs Lover💪 ⚽ @arsenal @m10_official ⚽
     location: "India"
-    followers: 35110
-    engagement: 525
-    commentsToLikes: 0.067394
-    id: ck5qaiqdngmbb0i11kstqxni0
+    followers: 2045
+    engagement: 1878
+    commentsToLikes: 0.144483
+    id: ckaow4xtc7g6c0i78nkftzy08
     verified: false
-    hashtags: "#2020, #weddinglehenga, #goldjewellery, #indianethnics"
-  - username: "vishalrpanchal"
+    hashtags: "#india, #keralagram, #malayalam, #travelphotography"
+  - username: "gowithheflowww"
     fullname: >-
-      Fitness Model Influncr YouTube
+      KHUSHI GUPTA🧚🏻‍♀️
+    bio: >-
+      💥5’7 || BEAUTY AND THE BEAST 💪🏻 💥I am curvyyy 🍑 💥FASHION | FITNESS| LIFESTYLE🦋 ♡Use code KHUSHI for 25% on @myproteinin 💌DM/ MAIL for shoots/collabs
     location: "India"
-    followers: 36437
-    engagement: 473
-    commentsToLikes: 0.152857
-    id: ckap7skd0ldlt0i78p8q4yiwx
+    followers: 52313
+    engagement: 846
+    commentsToLikes: 0.027572
+    id: ck5cbpvejfy0m0i11debhxnoy
     verified: false
-    hashtags: "#youtubehair, #hairstyle, #indianblogger, #hairfallcontrol"
-  - username: "rahulwarns"
-    fullname: >-
-      Influencer | Model | Blogger
-    location: "India"
-    followers: 7108
-    engagement: 1731
-    commentsToLikes: 0.146699
-    id: ck9wh4tbew8zb0j784a8auj2r
-    verified: false
-    hashtags: "#icerink, #influencerstyle, #loveyourself, #followforfollow"
+    hashtags: "#fitgirl, #indianreels, #fitnessmodels, #indiantrend"
 ---

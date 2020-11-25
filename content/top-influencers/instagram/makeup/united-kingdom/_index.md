@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top makeup Instagram influencers in United Kingdom in 2020. Most popular hashtags: #makeupinspo #carnival #abhbrows #sunsetmakeup.
+  Find top makeup Instagram influencers in United Kingdom in 2020. Most popular hashtags: #makeupartist #morphebabe #morphe.
 platform: Instagram
+hits: 2342
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 2342 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "cliodhnamclaughlin_"
+  - username: "fashmakeup_blog"
     fullname: >-
-      Clíodhna McLaughlin
+      Martha Lorena Acevedo JW
+    bio: >-
+      Content Creator ✨ Makeup obsessed & skincare lover! Fashion is my passion as well✨ Miami,Florida. PR Friendly 💌 Email: martitamigos@yahoo.es
     location: "United Kingdom"
-    followers: 4098
-    engagement: 4486
-    commentsToLikes: 0.322169
-    id: ckaosd9ver5qp0i78rz666fu9
+    followers: 5672
+    engagement: 2562
+    commentsToLikes: 0.270516
+    id: ck5c6oj815vam0i11m64tw265
     verified: false
-    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
-  - username: "jennseren"
+    hashtags: "#noracora, #sponsorship, #outiftoftheday, #octolyfamily"
+  - username: "victoria_clay"
     fullname: >-
-      Jen Seren
+      Victoria Clay
+    bio: >-
+      🌸 Anime & Makeup 🎨 Print Designer 📺 Britain’s Next Top Model 💖 Management & PR @streamline_pr 📧 joe@streamlinepr.co.uk (she/her)
     location: "United Kingdom"
-    followers: 17585
-    engagement: 2441
-    commentsToLikes: 0.113329
-    id: ck6uai1xi3o4s0j71tijk15jw
-    verified: false
-    hashtags: "#tattooshop, #dropit, #zodiacmakeup, #tattoos"
-  - username: "aoife.cullen"
+    followers: 49502
+    engagement: 810
+    commentsToLikes: 0.130871
+    id: ck55jhceox19q0i117hfy5rh2
+    verified: true
+    hashtags: "#hellokitty, #gifted, #frankenstein, #zavviexclusive"
+  - username: "zoyakhaliq"
     fullname: >-
-      Aoife Cullen 👽
+      
+    bio: >-
+      🇬🇧 makeup artist + beauty content creator makeup appointments via the email icon. pr/collabs: zoya@iamviworld.com 💌
     location: "United Kingdom"
-    followers: 5643
-    engagement: 1720
-    commentsToLikes: 0.095714
-    id: ck55jyv4uy3960i115dx9lh8t
+    followers: 63219
+    engagement: 761
+    commentsToLikes: 0.053475
+    id: ck15qkmi63b6j0i19wna5pvfv
     verified: false
-    hashtags: ""
-  - username: "maltanska_"
+    hashtags: "#londonmua, #tiktokers, #snapshadows, #makeupartist"
+  - username: "courtneyhodgson1999"
     fullname: >-
-      💄Malwina 💄
+      Courtney Hodgson
+    bio: >-
+      21 courtneycollab@yahoo.com for collabs TikTok courtneyhodgson1999 @makeupbycourtney99 @qod.models
     location: "United Kingdom"
-    followers: 8138
-    engagement: 1713
-    commentsToLikes: 0.126269
-    id: ck135bzbc0q440i19hx8ps58b
+    followers: 86647
+    engagement: 717
+    commentsToLikes: 0.045413
+    id: ck0vw15fsrn0d0i19iwfycfkv
     verified: false
-    hashtags: "#prsearch, #bubblegum, #beautystuff, #miyosisters"
-  - username: "parisautumnn"
+    hashtags: "#shimmyshinesquad"
+  - username: "beautybybriney"
     fullname: >-
-      Paris Autumn
+      SABRINA📍LDN UK
+    bio: >-
+      @shrine creator @plouise_makeup_academy BEAUTYBYBRINEY10 @morphebrushes GLAMFAM303 @samplebeauty BRINEY @iso_clean BRINEY10 @makeupamurder SABRINA
     location: "United Kingdom"
-    followers: 6479
-    engagement: 1703
-    commentsToLikes: 0.118746
-    id: ck55la371145g0i112n314p5u
+    followers: 28097
+    engagement: 730
+    commentsToLikes: 0.167652
+    id: ck13cn7pl16o30i19f3prwdno
     verified: false
-    hashtags: "#collab, #pltstyle"
-  - username: "leximaymua"
+    hashtags: "#morphe, #halloween, #makeupinspo, #makeupbyme"
+  - username: "makeupbyjoshreade"
     fullname: >-
-      Lexi May
+      ✨🎄 CHRISTMAS PENDING 🎄✨
+    bio: >-
+      🏳️‍🌈MAKEUP HAS NO GENDER. 🏳️‍🌈LGBTQ+ 🏳️‍🌈@thegypsyshrine brand Ambassador 🏳️‍🌈inbox/email for PR&collabs 🏳️‍🌈MORPHE CODE - GLAMFAM196
     location: "United Kingdom"
-    followers: 15993
-    engagement: 1267
-    commentsToLikes: 0.085787
-    id: ck15sgyt2cy800i19s3dwdo7f
+    followers: 11633
+    engagement: 1041
+    commentsToLikes: 0.218272
+    id: ck6uckemmg4a20j71s5x4ecqr
     verified: false
-    hashtags: "#morpheglamfam, #fashion, #manieredevoir, #dollbeauty"
-  - username: "lj_makeupworld"
+    hashtags: "#gaypride, #skullmakeup, #disney, #goldleaf"
+  - username: "iamsaharasantos"
     fullname: >-
-      Lucija Jelić | Beauty
+      ‎کᐃɧᐃᏒᐃ  کᐃղ†Qک 👁
+    bio: >-
+      🎬YouTube• SaharaSantos 💄MakeUp• @slayed_by_santos 🎭Mgmt• @zmuk_agency 🎓 Owner • @reginadeisanti 📦 Non-Profit Org• @hopeboxuk 🎯PR• @frprlondon
     location: "United Kingdom"
-    followers: 15550
-    engagement: 1563
-    commentsToLikes: 0.130446
-    id: ckaoxn4kkdyv20i78jn1mdfgl
+    followers: 172278
+    engagement: 654
+    commentsToLikes: 0.031038
+    id: ck0vysequ5k6k0i19hmzos984
     verified: false
-    hashtags: "#instagold, #cutcrease, #instagramer, #instagallery"
-  - username: "jvanityxo"
+    hashtags: "#godwilling"
+  - username: "makeuppbycharlie"
     fullname: >-
-      MAKEUP LOOKS 👇🏾
+      ♡𝓬𝓱𝓪𝓻𝓵𝓲𝓮♡
+    bio: >-
+      self taught makeup artist💗 𝑒𝓂𝒶𝒾𝓁 𝑜𝓇 𝒹𝓂 𝒻𝑜𝓇 𝒸𝑜𝓁𝓁𝒶𝒷𝑜𝓇𝒶𝓉𝒾𝑜𝓃𝓈♡ birmingham, uk🤍 shop now @blissbeautyuk ♡
     location: "United Kingdom"
-    followers: 3512
-    engagement: 2366
-    commentsToLikes: 0.600964
-    id: ck6tjuuv53guv0j71f1w5fsud
+    followers: 5185
+    engagement: 1453
+    commentsToLikes: 0.191840
+    id: ckap8u5bbpwgs0i78vstoe2t1
     verified: false
-    hashtags: "#cleargloss, #abhxjackieaina, #primer, #artistcouture"
-  - username: "paintedmina"
+    hashtags: "#prsearch, #morphebabe, #makeupartist, #brows"
+  - username: "giselle_makeup"
     fullname: >-
-      𝕄𝕚𝕟𝕒 🖌
+      𝑮𝑰𝑺𝑬𝑳𝑳𝑬 𝑨𝑳𝑰
+    bio: >-
+      🇬🇧 Makeup Artist / Eco baby 🌳 Put Reparations Here..PayPal: gcalie@hotmail.co.uk Cashapp GushyA
     location: "United Kingdom"
-    followers: 14764
-    engagement: 2328
-    commentsToLikes: 0.051616
-    id: ck5bxmalxnzm90i11ucprvgye
+    followers: 24317
+    engagement: 916
+    commentsToLikes: 0.043008
+    id: ck13a93gsp8f20i19q2c6nbzz
     verified: false
-    hashtags: "#makeupismyart, #glitchmakeup, #nycosmeticsuk, #makeuplooks"
-  - username: "__bethspeller"
+    hashtags: "#checkyourboobs"
+  - username: "hannahkempmakeupartist"
     fullname: >-
-      Beth Speller
+      HANNAHKEMPMAKEUP ON YOUTUBE 🍊
+    bio: >-
+      👩🏽‍🎨 Beauty YouTuber 🎥 10K GIVEAWAY VIDEO👇🏽 Trained Makeup Artist Use code GLAMFAM826 for £ off @morphebrushes
     location: "United Kingdom"
-    followers: 8959
-    engagement: 1192
-    commentsToLikes: 0.228694
-    id: ck5zqjmp6upsk0i14yaqgdxu1
+    followers: 5933
+    engagement: 1083
+    commentsToLikes: 0.083900
+    id: ck8t0zn73txbe0j78w6p9j0h8
     verified: false
-    hashtags: "#instablogger, #instagood, #unilife, #makeupinspo"
+    hashtags: "#jamescharlespalette, #makeupobsessed, #jaclyn, #undiscovered"
 ---

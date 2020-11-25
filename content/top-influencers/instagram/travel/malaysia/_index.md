@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top travel Instagram influencers in Malaysia in 2020. Most popular hashtags: #covid #photography #sudiosweden #dudukrumah.
+  Find top travel Instagram influencers in Malaysia in 2020. Most popular hashtags: #holiday #sudiomoments #style #fashion.
 platform: Instagram
+hits: 197
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 197 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
+  - username: "dearkiki"
+    fullname: >-
+      DearKiki
+    bio: >-
+      Dreamer ✨ Traveller ✨ Designer 🇲🇾 Penang, Malaysia ✉️ Dearkikitravel@gmail.com
+    location: "Malaysia"
+    followers: 16071
+    engagement: 1255
+    commentsToLikes: 0.060291
+    id: ckf5us823m3zl0j234bkncs06
+    verified: false
+    hashtags: "#vietnamdestinations, #danangtrip, #vietnam, #vietnamnow"
+  - username: "fishyfished"
+    fullname: >-
+      F I S H Y | MIR ⚜️ 創辦人
+    bio: >-
+      TRAVEL / LIFESTYLE / FASHION 🌸💖 : 💍👰🏻 to @iamzeanlim #zeanfishytravels : 🍰 @keikeu.studio | ⚜️ @miracle.group_official : 💌 fishyfished@gmail.com
+    location: "Malaysia"
+    followers: 7155
+    engagement: 836
+    commentsToLikes: 0.110737
+    id: ck0w0bgq0dcxi0i19xlwjcp38
+    verified: false
+    hashtags: "#sudiomoments, #sudio, #zeanfishytravels, #hylt"
   - username: "a.helmiy"
     fullname: >-
-      
+      Helmiy
+    bio: >-
+      ⦿ Lifestyle | Fitness | Travel ⦿ Email or DM for Collab | Photoshoot 📸 . ↓ Sudio 🇸🇪 ↓
     location: "Malaysia"
-    followers: 15467
-    engagement: 829
-    commentsToLikes: 0.036267
+    followers: 16876
+    engagement: 802
+    commentsToLikes: 0.033709
     id: ck0w5h7td3muv0i19xmzsjf0d
     verified: false
-    hashtags: "#dashu, #japan, #coffee, #2020yummysalad"
-  - username: "rdnwan_"
-    fullname: >-
-      
-    location: "Malaysia"
-    followers: 17130
-    engagement: 650
-    commentsToLikes: 0.033747
-    id: ck0w5h7yk3mw40i1936y3we96
-    verified: false
-    hashtags: "#dashu, #hairstyling, #pandemic, #foodporn"
+    hashtags: "#smile, #fashion, #foodporn, #happy"
   - username: "ohmykaylagirl_k"
     fullname: >-
       K A Y L A💋
+    bio: >-
+      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
     location: "Malaysia"
-    followers: 36235
-    engagement: 398
-    commentsToLikes: 0.033379
+    followers: 38068
+    engagement: 355
+    commentsToLikes: 0.039907
     id: ck9ha754wbfqe0j781ij27o2e
     verified: false
-    hashtags: "#inthistogether, #airbus, #stillfly, #style"
-  - username: "amey.bakri"
+    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
+  - username: "ritanassiri"
     fullname: >-
-      Amey Bakri
+      RITA NASSIRI ✨ Traveling Soul
+    bio: >-
+      🌏 Travel • Learn • Grow 🌴 #NatureAddict ❤️ Self-Love & Positive Thinking 💫 📍 Cosmopolitan “Nationalism is an infantile disease” A.Einstein
     location: "Malaysia"
-    followers: 17668
-    engagement: 471
-    commentsToLikes: 0.036669
-    id: ck136lv6h74no0i191n3svyq4
+    followers: 27857
+    engagement: 1030
+    commentsToLikes: 0.012217
+    id: ck55jfqrnwxqs0i11c5cvf3ig
     verified: false
-    hashtags: "#bali, #clubmedbali, #masjidsrisendayan, #sonya7iii"
-  - username: "isabelleman2"
+    hashtags: "#asmr"
+  - username: "dearcristina"
     fullname: >-
-      Isabelle Man
+      CRISTINA CHEW | Modest Fashion
+    bio: >-
+      ✈️Next:Nepal🇳🇵 🌎Solo Traveller 💄Beauty Junkie 🎥Content Creator 🤲🏻Muslim Baby 🐱@fluffy.cutie.cat | Fb: Dearcristina | Youtube & Tiktok: CristinaChew
     location: "Malaysia"
-    followers: 9704
-    engagement: 421
-    commentsToLikes: 0.092717
-    id: ck0tyggo2mpog0i191owr96k3
+    followers: 62705
+    engagement: 151
+    commentsToLikes: 0.050313
+    id: ck6tqd611qrtu0j71yyygsy5i
     verified: false
-    hashtags: "#video, #morning, #luck, #sweating"
-  - username: "hernandotaniko"
+    hashtags: "#asianskincare, #exploreborneo, #kuchingsarawak, #malaysianig"
+  - username: "deakenw"
     fullname: >-
-      
+      Ken Dea Wardani
+    bio: >-
+      Can't live without traveling, food, culture @saturasabydea / @travelwithmamba / @bukaan.moment 💌 : wardani.deak@gmail.com
     location: "Malaysia"
-    followers: 61522
-    engagement: 387
-    commentsToLikes: 0.019691
-    id: ck5hk18ckhlzy0i11en2q478l
+    followers: 32287
+    engagement: 108
+    commentsToLikes: 0.077093
+    id: ck5bza7hoqqvo0i11sj2dtx1b
     verified: false
-    hashtags: "#stepup2, #hotguys, #videoediting, #chestday"
-  - username: "kayeepo"
+    hashtags: "#exoticntt, #rindulabuanbajo, #wonderfullindonesia, #exploreflorata"
+  - username: "andreayingg"
     fullname: >-
-      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+      Andrea Tan
+    bio: >-
+      🇲🇾🇸🇬 Lifestyle • Travel I do lashes @byandreayingg 🌼 DM/💌 for collab: andreayingg@gmail.com #andreayinggtravels ☁️
     location: "Malaysia"
-    followers: 127950
-    engagement: 323
-    commentsToLikes: 0.018581
-    id: ck5c5ipe33jpk0i1117y74mln
-    verified: true
-    hashtags: "#loving, #selflove, #rememberwhoyouare, #13"
-  - username: "mingliang96"
-    fullname: >-
-      mingliang96
-    location: "Malaysia"
-    followers: 11726
-    engagement: 876
-    commentsToLikes: 0.024851
-    id: ck6uc33s7d7xi0j713epovty6
+    followers: 31679
+    engagement: 332
+    commentsToLikes: 0.027310
+    id: ckf5n9h01x9wp0j23qmtrsw6h
     verified: false
-    hashtags: "#instaxminiliplay, #stayhome, #juststayhome, #myharuharu"
-  - username: "zoe_aw"
+    hashtags: "#ocglowsquad, #ocmoisturemiracle, #onecarefamily, #youthbeautyhealth"
+  - username: "quetzalcoatl_st"
     fullname: >-
-      Zoe Aw淑怡
+      Sebastián | Photography
+    bio: >-
+      ❌ Travel and Portrait Photographer 🏋 @quetzalcoatl_7
     location: "Malaysia"
-    followers: 22624
-    engagement: 539
-    commentsToLikes: 0.022703
-    id: ckap50a5z9lz60i78pcgymlkj
+    followers: 2561
+    engagement: 1274
+    commentsToLikes: 0.190432
+    id: ck6tmhdd67umk0j71ny4k5qn0
     verified: false
-    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
-  - username: "dianaohy"
+    hashtags: "#ccbtravels, #girly, #ccbports, #photo"
+  - username: "tachichosz"
     fullname: >-
-      𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
+      Atasha A.
+    bio: >-
+      @facetheory DISC 20% (BBTACHICHOSZ) Constantly hungry. TRAVEL • LIFESTYLE • FOOD •🐈 📍KL, Malaysia 🇲🇾
     location: "Malaysia"
-    followers: 39639
-    engagement: 230
-    commentsToLikes: 0.028566
-    id: ck5q811fq3zbd0i11p1y7ld5k
+    followers: 40163
+    engagement: 538
+    commentsToLikes: 0.067594
+    id: ckf5ofhp021w30j23rzue25qx
     verified: false
-    hashtags: "#youthbeautyhealth, #dohyinfayth, #ntuc, #quarantine"
+    hashtags: "#timeoutlisbon, #inspo, #agameoftones, #sheisnotlost"
 ---

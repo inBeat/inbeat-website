@@ -1,22 +1,29 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In 2020
 description: >-
-  Find top crossfit Instagram influencers in 2020. Most popular hashtags: #crossfit #summer #smile #curitiba.
+  Find top crossfit Instagram influencers in 2020. Most popular hashtags: #crossfit #workout #love.
 platform: Instagram
+hits: 3271
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 3271 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "crossfit"
+  - username: "roman_khrennikov"
     fullname: >-
-      CrossFit
-    location: ""
-    followers: 99198
-    engagement: 155
-    commentsToLikes: 0.013176
-    id: ckaos5sp9q7yu0i78vih109h5
+      Roman Khrennikov
+    bio: >-
+      @rxpro.online Train with me Fittest in 🇷🇺 Crossfit Games Athlete 🥇Crossfit Regionals Europe2018 @gowod_mobilityfirst @brute.strength @aerobiccapacity
+    location: "Russia"
+    followers: 32194
+    engagement: 508
+    commentsToLikes: 0.013844
+    id: ck6tn92xm9dig0j71eb9v0g7a
     verified: false
-    hashtags: "#crossfitwest, #evidencebased, #educationalrap, #hopethiswashelpfulandnotconfusing"
+    hashtags: "#crossfit"
   - username: "merouane_khelil"
     fullname: >-
       
+    bio: >-
+      Crossfit
     location: ""
     followers: 38758
     engagement: 3065
@@ -24,84 +31,100 @@ profiles:
     id: ck6u54aw47ige0j716fnl2739
     verified: false
     hashtags: "#listtoyourbody"
-  - username: "paaulomooreira"
+  - username: "fioredilascio"
     fullname: >-
-      Ｐａｕｌｏ  Ｍｏｒｅｉｒａ
-    location: "Brazil"
-    followers: 5560
-    engagement: 2421
-    commentsToLikes: 0.088594
-    id: ck9hclqxplxio0j78urut1uae
-    verified: false
-    hashtags: "#roupamasculina, #maquiagem, #calcadestroyed, #estilodiferente"
-  - username: "frejabyskov"
-    fullname: >-
-      F R E J A
-    location: ""
-    followers: 5689
-    engagement: 2078
-    commentsToLikes: 0.363254
-    id: ckapa66ynuvqa0i78ayrsrzb5
-    verified: false
-    hashtags: "#fff, #noccomiami, #smildetsmitter, #dbffatlet"
-  - username: "_there_s_a"
-    fullname: >-
-      🌸 Theresa 🌸
-    location: "Austria"
-    followers: 36634
-    engagement: 881
-    commentsToLikes: 0.048859
-    id: ckap825ommhx50i78oz7gdsin
-    verified: false
-    hashtags: "#greatgains"
-  - username: "chamborodriguez"
-    fullname: >-
-      Salvador Rodríguez de Burgos
-    location: "Spain"
-    followers: 12582
-    engagement: 1614
-    commentsToLikes: 0.051017
-    id: ck5hgukm64u670i11r19vmbf9
-    verified: false
-    hashtags: "#crossfit, #portugal, #world, #earthpix"
-  - username: "karontte"
-    fullname: >-
-      Daniel Pardeiro
-    location: "Spain"
-    followers: 24727
-    engagement: 1003
-    commentsToLikes: 0.047467
-    id: ckap6khqzg8e80i78nsco9ayv
-    verified: false
-    hashtags: "#musclegay, #gayrunner, #whitesocks, #spandex"
-  - username: "vero9cah"
-    fullname: >-
-      V E R O N I C A 🇳🇴 BERGEN
-    location: "Norway"
-    followers: 27476
-    engagement: 688
-    commentsToLikes: 0.116157
-    id: ck8t1wg5oxb5y0j78hwu0l4e7
+      🧿
+    bio: >-
+      Bailarina. Coreografa en proceso. Crossfit. Derecho UNT. Emprendo desde casa con la mejor plataforma online. @beautycarebyfio 🦋
+    location: "United States"
+    followers: 17672
+    engagement: 1225
+    commentsToLikes: 0.683597
+    id: ck6ufuu7hz9g50j71rau3kh9k
     verified: false
     hashtags: ""
-  - username: "sean_c_larkin"
+  - username: "_giadamassara_"
     fullname: >-
-      Sean Larkin
-    location: "United States"
-    followers: 258186
-    engagement: 1201
-    commentsToLikes: 0.027978
-    id: ck55ojy938i1y0i11gp66rlq5
-    verified: true
-    hashtags: "#murph, #jimwood, #crossfit, #livepdnation"
-  - username: "catacohan"
-    fullname: >-
-      Cata Cohan
-    location: "Argentina"
-    followers: 20174
-    engagement: 733
-    commentsToLikes: 0.070454
-    id: ck6tlqvaj6h410j71oz5recb9
+      Giada Massara
+    bio: >-
+      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
+    location: "Italy"
+    followers: 35091
+    engagement: 1014
+    commentsToLikes: 0.084816
+    id: ck5hr9419uhac0i116ngq4l7x
     verified: false
-    hashtags: "#fuerzapura, #programaciones, #hombros, #loveyourself"
+    hashtags: "#muscle, #quarantena, #fitnessitalia, #ootd"
+  - username: "eddafalak"
+    fullname: >-
+      EDDA FALAK
+    bio: >-
+      Icelandic 🇮🇸 Nutrition coach & Crossfit athlete MSc Finance-CBS @nikeisland | @hledsla | @collabiceland | @jst_compete 📧 contact@strongerwithedda.com
+    location: "Denmark"
+    followers: 22058
+    engagement: 859
+    commentsToLikes: 0.107861
+    id: ck6txohg7yy6r0j71ehxo98zi
+    verified: false
+    hashtags: "#60kgbw"
+  - username: "frejabyskov"
+    fullname: >-
+      FREJA BYSKOV 🍁 VELKOMMEN
+    bio: >-
+      📍 Vestjylland 📚 Fysioterapeut stud. 🏋🏼‍♀️ Sveder på tid hos @crossfitholstebro 🍋 Team @noccodanmark // @icaniwill -20% (BYSKOV20)
+    location: "Denmark"
+    followers: 6092
+    engagement: 1571
+    commentsToLikes: 0.261020
+    id: ckapa66ynuvqa0i78ayrsrzb5
+    verified: false
+    hashtags: "#bodybuilding, #perfektuperfekt, #areyounoccoenough, #happy"
+  - username: "chamborodriguez"
+    fullname: >-
+      Salvador Rodríguez de Burgos
+    bio: >-
+      1989 San Fernando | CADIZ | • Un buen cafe ☕️ • Un lugar que explorar 🌍 • CrossFit 🏋🏼‍♂️ • Salvadorrdb@hotmail.com 📩 📍 Getafe | MADRID | 🇪🇸
+    location: "Spain"
+    followers: 12800
+    engagement: 1275
+    commentsToLikes: 0.063549
+    id: ck5hgukm64u670i11r19vmbf9
+    verified: false
+    hashtags: "#igtravel, #traveler, #explore, #iamtraveler"
+  - username: "marius.ad.libitum"
+    fullname: >-
+      mαrios · greece
+    bio: >-
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
+    location: "Greece"
+    followers: 16415
+    engagement: 1122
+    commentsToLikes: 0.058088
+    id: ck6u8k7vss2kn0j71olij1n19
+    verified: false
+    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
+  - username: "carlierayy"
+    fullname: >-
+      Carlie // Nue Society
+    bio: >-
+      your daily source of style inspo + good foods lover of neutrals, crossfit & rosé | currently: charleston all my links ↴
+    location: "United States"
+    followers: 13010
+    engagement: 1082
+    commentsToLikes: 0.092437
+    id: ckaot2lwfu3ly0i78h0xks0rk
+    verified: false
+    hashtags: "#hbs1012, #loveellie, #elliepartner, #liketkit"
+  - username: "prof_patriciavales"
+    fullname: >-
+      VALES🔥
+    bio: >-
+      Profissional de Ed. Física🏋️‍♀️ (da dança, crossfit, musculação, e de tudo que instigar) AMAPÁ 📍
+    location: "Brazil"
+    followers: 17129
+    engagement: 763
+    commentsToLikes: 0.508597
+    id: ck6uf82e0vgps0j714b6dqsup
+    verified: false
+    hashtags: "#publi, #look, #mamaedeprimeiraviagem, #fotos"
 ---

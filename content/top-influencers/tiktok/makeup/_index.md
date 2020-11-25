@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In 2020
 description: >-
-  Find top makeup TikTok influencers in 2020. Most popular hashtags: #momsoftiktok #cosplay #makeup #gonnabefriends.
+  Find top makeup TikTok influencers in 2020. Most popular hashtags: #duet #fyp #foryou #makeup.
 platform: TikTok
+hits: 16413
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform has 16413 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "powerofmakeup"
+  - username: "alyjae4real"
     fullname: >-
-      MAKEUP
-    location: "Belarus"
-    followers: 89639
-    engagement: 683
-    commentsToLikes: 0.002948
-    id: ckal4r87k3s930i78o19rqmam
+      Aly Jae
+    bio: >-
+      👑Storyteller/Actress/Makeup Artist 📧 alyjaemua@gmail.com “However, Comma” ♊️
+    location: "United States"
+    followers: 137400
+    engagement: 2389
+    commentsToLikes: 0.046685
+    id: ckahxrsgywexa0i784lo10o7u
     verified: false
-    hashtags: "#foruyou, #eyeslipsface, #foryoupage, #makeu"
-  - username: "bitchieasian"
+    hashtags: "#greenscreen, #stitch, #greenscreenvideo, #duet"
+  - username: "vivalapinkposh"
     fullname: >-
-      Bitchieasian
-    location: "Netherlands"
-    followers: 280291
-    engagement: 3448
-    commentsToLikes: 0.037552
-    id: ck83ypb3auid40j78rxdbllf0
+      vivalapinkposh
+    bio: >-
+      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
+    location: "United States"
+    followers: 694700
+    engagement: 2287
+    commentsToLikes: 0.075881
+    id: ckai0ai6q6v8z0i782maw6om4
     verified: false
-    hashtags: "#duet, #uzumaki, #pastelboy, #outofcosplay"
-  - username: "albysaurrawr"
+    hashtags: "#duet, #christmas, #dollar, #fyp"
+  - username: "angelaardz"
     fullname: >-
-      AlbysaurRAWR
+      Angela Rodríguez
+    bio: >-
+      ✨No permitas que tú brillo se apague ✨ MAKEUP ARTIST💄 CHEER🎀
     location: "Mexico"
-    followers: 182142
-    engagement: 2911
-    commentsToLikes: 0.036874
-    id: ck931pic3frkr0j78k352om43
-    verified: true
-    hashtags: "#denki, #cosplay, #felizcumplea, #slime"
-  - username: "enzo_tout_seul"
-    fullname: >-
-      Enzo
-    location: "France"
-    followers: 14170
-    engagement: 2585
-    commentsToLikes: 0.068492
-    id: ck902s9qycrkl0j78ky91xl2q
+    followers: 404800
+    engagement: 2200
+    commentsToLikes: 0.026969
+    id: ck9m0yl7qcgbr0j786ordbm9w
     verified: false
-    hashtags: ""
-  - username: "ach.artt"
+    hashtags: "#fashionbootcamp, #tutorial, #catrinamiamor, #diademuertos"
+  - username: "kinnylleigh"
     fullname: >-
-      Amy 💫
+      kinda mediocre 
+    bio: >-
+      Biz-kindalltoidc@gmail.com Insta/YT/cameo👇 I love makeup 💄
     location: "United States"
-    followers: 14047
-    engagement: 2485
-    commentsToLikes: 0.056786
-    id: ck8w1b6q219lo0j78kc5yadn2
+    followers: 158500
+    engagement: 2052
+    commentsToLikes: 0.049057
+    id: ckbkxz2a1u4lm0j2349gaci02
     verified: false
-    hashtags: "#cosplayer, #finalsathome, #disney, #healthheroes"
-  - username: "cafe_art"
+    hashtags: "#foryou, #foryoupage, #fyp, #happyhalloween"
+  - username: "hbcoolcat"
     fullname: >-
-      CaFe
-    location: "United States"
-    followers: 11598
-    engagement: 2323
-    commentsToLikes: 0.095894
-    id: ckacr8r6r4el80i78ubydddss
-    verified: false
-    hashtags: "#goodnight, #tired, #positivevibes, #littlethings"
-  - username: "dragonfinity"
-    fullname: >-
-      Dragon Finity🐉
+      Hannah O'Sullivan 
+    bio: >-
+      I’m a musically OG 💓 35 makeup cosplay 💓 please drop a like or comment 🐰
     location: "United Kingdom"
-    followers: 387871
-    engagement: 2234
-    commentsToLikes: 0.335231
-    id: ck81sb8dcregu0j78xieiufm4
-    verified: false
-    hashtags: "#sayso, #dancetutorial, #starships, #digitalmakeup"
-  - username: "crisalexmua"
+    followers: 93300
+    engagement: 2004
+    commentsToLikes: 0.102137
+    id: ckbwl7q94407c0j23fqqfvcpw
+    verified: true
+    hashtags: "#makeup, #fyp, #transition, #theshining"
+  - username: "thevintagegoree"
     fullname: >-
-      Cris Alex
+      •Black Retro Babe•
+    bio: >-
+      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
     location: "United States"
-    followers: 39916
-    engagement: 2065
-    commentsToLikes: 0.061750
-    id: ck8w48f7r88vb0j78arjvfq4v
+    followers: 19000
+    engagement: 3024
+    commentsToLikes: 0.087918
+    id: ckb0tojgwj34e0j23rnt9nl2q
     verified: false
-    hashtags: "#makeupvideo, #keepingactive, #littlethings, #cosplay"
-  - username: "livvybean_"
+    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
+  - username: "laura_satake"
     fullname: >-
-      Liv 
-    location: "United States"
-    followers: 40182
-    engagement: 1957
-    commentsToLikes: 0.047595
-    id: ck8kd9v2w4ruo0j78ntlcb8aa
+      >Lah<
+    bio: >-
+      Olá!!》ela/dela 📚Bookstan📚 💄Makeup💄 ✨SPAM DE LIKE=BLOCK✨ Obrigada pelos 10k🥰
+    location: "Brazil"
+    followers: 10100
+    engagement: 2941
+    commentsToLikes: 0.121356
+    id: ckc1u643zyews0j23b6yt8o1r
     verified: false
-    hashtags: "#greenscreen, #yearbook2020, #corona, #verucasalt"
-  - username: "acidtripjay"
+    hashtags: "#makeup, #jatp, #maquiagem, #pov"
+  - username: "apurplepsycho"
     fullname: >-
-      Jay ✨
+      💜 Hope 💜
+    bio: >-
+      💜 18 🤗 taken ⚠️ props/makeup ✨ 16+ duets please! 🏳️‍🌈 LGBT she/her
     location: "United States"
-    followers: 75117
-    engagement: 2652
-    commentsToLikes: 0.034069
-    id: ck9glmhinoy5n0j7876nfse66
+    followers: 60000
+    engagement: 2506
+    commentsToLikes: 0.066140
+    id: ckbatxe7rkjvh0j23xmm9x0dx
     verified: false
-    hashtags: "#foodfam, #gotthisforyou, #bedroomcheck, #yoplaitcuprelay"
+    hashtags: "#stitch, #greenscreenvideo, #duet, #fnaf"
+  - username: "fruit_loop_haggz"
+    fullname: >-
+      haggz_23_🌈
+    bio: >-
+      23✨randomness, art🎨 makeup she/her les.be.honest🌈❤🌈
+    location: "United States"
+    followers: 15800
+    engagement: 2465
+    commentsToLikes: 0.084749
+    id: ckbf08abnlqw80j2324tpzuph
+    verified: false
+    hashtags: "#showupshowoff, #blindreaction, #ohno, #voiceeffects"
+  - username: "aeraeubanks"
+    fullname: >-
+      AERA
+    bio: >-
+      Following back if you follow my insta!!👆 📍Los Angeles Makeup•Music•Dance🤍
+    location: "United States"
+    followers: 83800
+    engagement: 2437
+    commentsToLikes: 0.046740
+    id: ckbb268iisje30j23c19147g6
+    verified: false
+    hashtags: "#cloudydiffuser, #hoodbaby, #fyp, #foryou"
 ---

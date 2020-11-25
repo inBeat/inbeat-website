@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Toronto In 2020
 description: >-
-  Find top models Instagram influencers in Toronto in 2020. Most popular hashtags: #fashion #model #selflove #quarantine.
+  Find top models Instagram influencers in Toronto in 2020. Most popular hashtags: #model #toronto #fashion #style.
 platform: Instagram
+hits: 185
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 185 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
+  - username: "morgankriz"
+    fullname: >-
+      Morgyy
+    bio: >-
+      Toronto & Florida Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Japan
+    location: "Canada"
+    followers: 48858
+    engagement: 415
+    commentsToLikes: 0.013659
+    id: ck5cal4wfdm7k0i11krjrtt5w
+    verified: false
+    hashtags: "#myloungelife, #loungegirl, #lingerie, #breastcancerawareness"
   - username: "sasha_sheims"
     fullname: >-
       Sasha Holland
+    bio: >-
+      Anita Norris Models • Toronto 📍 Canada 🇨🇦
     location: "Canada"
-    followers: 2573
-    engagement: 1282
-    commentsToLikes: 0.063673
+    followers: 2592
+    engagement: 1154
+    commentsToLikes: 0.073606
     id: ck0vytb5d5olu0i199eez773x
     verified: false
-    hashtags: "#jaclynandcampbell, #bestdayever"
-  - username: "marineagleson"
+    hashtags: ""
+  - username: "arsh.bhullar"
     fullname: >-
-      Marina Paquin Eagleson
+      Arsh Bhullar ✅
+    bio: >-
+      Actor\Model | Toronto 🇨🇦 | Fitness 💪🏼 | H.K.B |🍿| ⛵️ @beeba.boyz Fitness tips and meal plans . https://danielphilipwatch.com/?ref=tmjue8lc4asx
     location: "Canada"
-    followers: 25271
-    engagement: 370
-    commentsToLikes: 0.013555
-    id: ck0w333qkrd3e0i19oz7mafqy
+    followers: 18210
+    engagement: 466
+    commentsToLikes: 0.023146
+    id: ck5q1x07xd6vd0i11n25zwx99
     verified: false
-    hashtags: "#lovelulus"
-  - username: "arinaaminovva"
+    hashtags: "#styleinspo, #malemodel, #instadaily, #mensfashion"
+  - username: "chichifrias"
     fullname: >-
-      Arina Aminova 🇷🇺
+      A N G I E   F R I A S ♛
+    bio: >-
+      🇩🇴|🇨🇦 📍CLT -> YYZ Email for inquiries 📧⬇️
     location: "Canada"
-    followers: 9452
-    engagement: 487
-    commentsToLikes: 0.050446
-    id: ck138e6odfswu0i19moxptuut
+    followers: 7210
+    engagement: 1534
+    commentsToLikes: 0.053642
+    id: ckap3f8l12txa0i78zin44a08
     verified: false
-    hashtags: "#divinefeminine, #stayathome, #fitnessjourney, #fitnessgoals"
-  - username: "constance.angel"
+    hashtags: "#curls, #toronto, #ootd, #selfie"
+  - username: "dorrie.mack"
     fullname: >-
-      A N G E L   C O N S T A N C E
+      Dorrie Mack
+    bio: >-
+      📍#Toronto ⚡️ *reference photos & life drawing modelling on my patreon /dorriemack* 🎨: @dorriemackart 🎵: thefuckinastronauts.bandcamp.com
     location: "Canada"
-    followers: 52970
-    engagement: 489
-    commentsToLikes: 0.023967
-    id: ck13c8xfiz64d0i19t6udft1x
+    followers: 15857
+    engagement: 345
+    commentsToLikes: 0.043834
+    id: ck5zv1nvq3fgi0i14v7rtnpxy
     verified: false
-    hashtags: "#playboy, #furniture, #lace, #runawaythelabel"
-  - username: "jennafergie19"
+    hashtags: "#photooftheday, #photography, #model, #toronto"
+  - username: "shaheenbakshi"
     fullname: >-
-      Jenna Ferguson
+      Shaheen Bakshi
+    bio: >-
+      ꜰʀᴇᴇʟᴀɴᴄᴇʀ ᴍᴏᴅᴇʟ/ᴀᴄᴛᴏʀ ᴛᴏʀᴏɴᴛᴏ 🇨🇦-ᴄʜᴀɴᴅɪɢᴀʀʜ 🇮🇳 ᴅᴍ ᴏɴʟʏ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ ꜱᴄ👻ꜱʜᴀʜᴇᴇɴʙᴀᴋꜱʜɪ
     location: "Canada"
-    followers: 30963
-    engagement: 168
-    commentsToLikes: 0.075307
-    id: ck8t9gkcuo0cr0j786f3cpp5j
+    followers: 9603
+    engagement: 502
+    commentsToLikes: 0.106721
+    id: ck9wd1dm7dmh80j78ja1lmt4u
     verified: false
-    hashtags: "#picnicinthepark, #torontodream, #motivationmonday, #shocker"
-  - username: "killacamii"
+    hashtags: "#punjabisongs, #modeling, #video, #punjabimodel"
+  - username: "amritasamra1"
     fullname: >-
-      Camille Anne 🧿
+      Malika-Ae-Noor
+    bio: >-
+      Suits and jewellery inquires DM or Contact +1 647-917-1001 Makeup @amritasamraa Partnership @theanumgill
     location: "Canada"
-    followers: 7593
-    engagement: 517
-    commentsToLikes: 0.034465
-    id: ckap5m710caf30i78p4k6ms53
+    followers: 11174
+    engagement: 68
+    commentsToLikes: 0.018082
+    id: ck0w3458urimn0i19zvoygcxk
     verified: false
     hashtags: ""
-  - username: "chanellep23"
+  - username: "nicolejamesofficial"
     fullname: >-
-      Chanelle Lee
+      Nicole James
+    bio: >-
+      🎬 Young Erin Voss on Locke & Key - Netflix 🎬 Gabby on Boombats - Youtube ⭐️ACTRA ⭐️Premier Artists' Management 👇Visit my IMDb page 👇
     location: "Canada"
-    followers: 29029
-    engagement: 358
-    commentsToLikes: 0.027498
-    id: ck5c7h4sv7j4k0i11ws6ie1od
+    followers: 5855
+    engagement: 1605
+    commentsToLikes: 0.047055
+    id: ck9wf323jn2ay0j78k0safssh
     verified: false
-    hashtags: "#tiedye, #thursday, #summertime, #carnivals"
-  - username: "pickeringfitness"
+    hashtags: "#workingactors, #torontofilmindustry, #actra, #tvactor"
+  - username: "iamsinaamirii"
     fullname: >-
-      Christopher Pickering
+      sina amiri
+    bio: >-
+      𝑊ℎ𝑒𝑟𝑒 𝑓𝑜𝑐𝑢𝑠 𝑔𝑜𝑒𝑠 𝐸𝑛𝑒𝑟𝑔𝑦 𝑓𝑙𝑜𝑤𝑠. 📍toronto 𝑊𝑒 𝑎𝑟𝑒 𝑤𝑖𝑛𝑛𝑒𝑟𝑠.
     location: "Canada"
-    followers: 26890
-    engagement: 203
-    commentsToLikes: 0.086315
-    id: ckaozztbpo5fv0i78iqghlmda
+    followers: 27215
+    engagement: 671
+    commentsToLikes: 0.045928
+    id: ck602gm06hcn60i14kurkmaub
     verified: false
-    hashtags: "#zyzz, #nature, #mixer, #summer2020"
-  - username: "sharma_isha"
+    hashtags: "#sinaamiri, #streetstyle, #barber, #fashion"
+  - username: "nobahardadui"
     fullname: >-
-      Isha 🧿l 🕊l  York U Alumni 🎓
+      NobaharDadui
+    bio: >-
+      | Pro Figure Skater | Skating Choreographer | Cirque du Soleil Artist at ‘Crystal’ | Actor / Dancer | World Traveller | 🇮🇷🇨🇦
     location: "Canada"
-    followers: 2167
-    engagement: 1086
-    commentsToLikes: 0.223851
-    id: ck55mr8qu4kll0i11xrkyknkn
+    followers: 5151
+    engagement: 1184
+    commentsToLikes: 0.046660
+    id: ck5hsogaxwxm00i11y3qitp94
     verified: false
-    hashtags: "#instaglam, #model, #design, #toronto"
-  - username: "thealikazmi"
-    fullname: >-
-      Ali Kazmi
-    location: "Canada"
-    followers: 79456
-    engagement: 182
-    commentsToLikes: 0.036460
-    id: ck5q2lslvgn7m0i11q4qio8eu
-    verified: true
-    hashtags: "#desidads, #rahatkazmi, #adiliqbal, #seaviewkarachi"
+    hashtags: "#2020, #coldembrace, #love, #flow"
 ---

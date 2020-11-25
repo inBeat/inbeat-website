@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Hungary In 2020
 description: >-
-  Find top TikTok influencers in Hungary in 2020. Most popular hashtags: #duett #foodwehate #homeball #foryoupage.
+  Find top TikTok influencers in Hungary in 2020. Most popular hashtags: #foryou #foryoupage #fyp #fy.
 platform: TikTok
+hits: 448
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 448 TikTok influencers like this in Hungary for you to pitch.
 profiles:
-  - username: "milanszender"
+  - username: "tinamakovics"
     fullname: >-
-      Milán Szender
+      Tina💗
+    bio: >-
+      📸 instagram: tinaa.sugi 📸 🎥 youtube: Tinaa 🎥
     location: "Hungary"
-    followers: 481560
-    engagement: 2720
-    commentsToLikes: 0.022198
-    id: ck83z7njkyfeu0j784x5ir9zl
+    followers: 385700
+    engagement: 2006
+    commentsToLikes: 0.035446
+    id: ckck5o7x9qp2m0j23ug7rzfl6
     verified: true
-    hashtags: "#wakeboard"
-  - username: "viktoria.marta"
+    hashtags: "#cinemacity, #mammutvip, #duett, #hirdetes"
+  - username: "alizacsodaorszagban"
     fullname: >-
-      Márta Viktória
+      🌴•𝑨𝒍𝒊𝒛•🌴
+    bio: >-
+      👼🏻Ha már itt vagy akkor kövess be👼🏻 🦋Snap:csikiszaboaliz1🦋
     location: "Hungary"
-    followers: 162167
-    engagement: 2233
-    commentsToLikes: 0.066789
-    id: ck900axz5aare0j78nsixcckq
+    followers: 4457
+    engagement: 5377
+    commentsToLikes: 0.105094
+    id: ckbff5gp59q070j230z69ygem
     verified: false
-    hashtags: "#foryou"
-  - username: "kamilla.tth"
+    hashtags: "#rose, #foryou, #foryoupage, #aesthethic"
+  - username: "daisybubi"
     fullname: >-
-      Tóth Kamilla
+      Bubi_Daisy
+    bio: >-
+      Bubi💙 és Daisy🧡 kövessetek🥺🥺🥺 3000omg ⚠️VAJON MEG LESZ? MI NAGYON REMÉLJÜK⚠
     location: "Hungary"
-    followers: 66712
-    engagement: 2148
-    commentsToLikes: 0.041507
-    id: ck902z3thcv870j7808zi60pe
+    followers: 2407
+    engagement: 2791
+    commentsToLikes: 0.113493
+    id: ckbki9dq9am6x0j23muradeuy
     verified: false
-    hashtags: "#mugshots, #karant, #foryoupage, #homeoffice"
-  - username: "bera_palko"
+    hashtags: "#bubi, #hun, #csaknekedbe, #neked"
+  - username: "balinttibike"
     fullname: >-
-      Palko Bera
+      Tibi🐲
+    bio: >-
+      🐲🐲🐲🐲🐲🐲🐲🐲 📸instagram: @balinttibike 🎥youtube: @balinttibike 💧🗽👑
     location: "Hungary"
-    followers: 37253
-    engagement: 2066
-    commentsToLikes: 0.042637
-    id: ck9rnz3u7a29m0j78mp9n4cl4
+    followers: 195300
+    engagement: 2343
+    commentsToLikes: 0.044408
+    id: ckc8vgz0uic8z0j23qr131a6b
     verified: false
-    hashtags: "#indahousefestival, #aesthetic, #homeball"
-  - username: "feketesicc"
+    hashtags: "#varga, #foryou, #foryoupage, #fyp"
+  - username: "nemvagyokember"
     fullname: >-
-      💃💃💃
+      Nem vok kicsi...te vagy zsiráf
+    bio: >-
+      Ne csak az álmaid kövesd, hanem engem is!❤❤ Nevetek:fekete oroszlánok🦁🖤
     location: "Hungary"
-    followers: 4291
-    engagement: 2035
-    commentsToLikes: 0.092808
+    followers: 2369
+    engagement: 2320
+    commentsToLikes: 0.076337
+    id: ckc8xj5izlj1r0j23dqljd8nd
+    verified: false
+    hashtags: "#duett, #foodwehate"
+  - username: "feketedemon01"
+    fullname: >-
+      😈😈😈
+    bio: >-
+      
+    location: "Hungary"
+    followers: 6111
+    engagement: 1933
+    commentsToLikes: 0.112729
     id: ck8p18la3ka0y0j78gm8qw0ob
     verified: false
-    hashtags: "#clonesquad, #nem, #szeretlek, #duett"
-  - username: "jozsef73"
+    hashtags: "#duett, #nekedbe, #ez, #romantic"
+  - username: "vikuszowo"
     fullname: >-
-      Gecse József
+      Vikusz
+    bio: >-
+      💙🤺fencing🤺💙 💙🐣>:^🐣💙 roblox: nviki07 insta: nadi.viktoria 100k?🥺💙
     location: "Hungary"
-    followers: 3930
-    engagement: 1965
-    commentsToLikes: 0.092429
-    id: ck8oxdcpx1woj0j78hdxexofn
+    followers: 92300
+    engagement: 1836
+    commentsToLikes: 0.043385
+    id: ckb8y1zbmd6yf0j23rf5pks4j
     verified: false
-    hashtags: ""
-  - username: "r_mark_1999"
+    hashtags: "#cutecut, #foryou, #vikusz, #fouryou"
+  - username: "tomy_senpai69"
     fullname: >-
-      R_Mark💯
+      💕Szeretlek Vivi💕
+    bio: >-
+      MY LIFE:💕💕 @balassavivien❤😍💏 BMW😎🚘❤ 16yrs instagram:kadar_tamas_
     location: "Hungary"
-    followers: 346108
-    engagement: 2084
-    commentsToLikes: 0.031567
-    id: ck902l0p6ckb60j78cksclzvs
-    verified: true
-    hashtags: "#strong, #homeball, #fail, #hungary"
-  - username: "b.rebii_official"
-    fullname: >-
-      ✨𝓑í𝓻ó 𝓡𝓮𝓫𝓲𝓲 ✨
-    location: "Hungary"
-    followers: 50427
-    engagement: 1942
-    commentsToLikes: 0.077097
-    id: ckal6ev3pasi00i78vmrt17cp
+    followers: 6298
+    engagement: 1549
+    commentsToLikes: 0.122358
+    id: ckan5e9oueojv0i78o05xv62e
     verified: false
-    hashtags: "#love, #coronatime, #dance, #hubgary"
-  - username: "thekillerseal"
+    hashtags: "#foryou, #duett, #fyp, #fortnite"
+  - username: "vanisabalabalab"
     fullname: >-
-      P <3
+      ꪜꪖꪀ𝓲 𝘴ꪖ᥇ꪖ ꪶꪮꪜꫀ
+    bio: >-
+      BF SL.JJ. BK. Sábalába✨🌈 Dámaláma✨🦙 Horsejumping🐎 ❌Closed❌
     location: "Hungary"
-    followers: 6640
-    engagement: 1776
-    commentsToLikes: 0.071924
-    id: cka9qo40w875i0i78o11cubrt
+    followers: 3543
+    engagement: 2371
+    commentsToLikes: 0.280014
+    id: ckb94sw35mjat0j239u3m5mne
     verified: false
-    hashtags: "#duett"
-  - username: "fischer.on.tiktok"
+    hashtags: "#foryoupag, #summerrecap, #fyp, #foryoupage"
+  - username: "_aesthetic_official_"
     fullname: >-
-      菲舍爾·博伊
+      _aesthetic_official_
+    bio: >-
+      Gősi Niki •23yrs• Hungary Galaxy A70📱 ‼Videók felhasználása nem engedélyezett‼
     location: "Hungary"
-    followers: 8919
-    engagement: 1606
-    commentsToLikes: 0.062612
-    id: ckameft6w3qk80i78kz27tzr6
+    followers: 136400
+    engagement: 2364
+    commentsToLikes: 0.061629
+    id: ck9r3uydpry0m0j78of7lq3ni
     verified: false
-    hashtags: "#cranking, #videoleap, #karma, #foodwehate"
+    hashtags: "#photography, #bunny, #aesthetic, #macro"
 ---

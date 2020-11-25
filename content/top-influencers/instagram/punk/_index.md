@@ -1,107 +1,130 @@
 ---
 title: Top 10 Punk Instagram Influencers In 2020
 description: >-
-  Find top punk Instagram influencers in 2020. Most popular hashtags: #alternative #stayathome #staystrong #music.
+  Find top punk Instagram influencers in 2020. Most popular hashtags: #staysafe #liebe #ootd.
 platform: Instagram
+hits: 2552
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 2552 Instagram influencers like this for you to work with.
 profiles:
-  - username: "nathalynnes"
+  - username: "rikesworld"
     fullname: >-
-      Nathaly Nunes
-    location: "Brazil"
-    followers: 2945
-    engagement: 2290
-    commentsToLikes: 0.162826
-    id: ck8t1st9qwvw40j78zen5jjam
+      Rike
+    bio: >-
+      Willkommen in wilden Chaos zwischen allein mit Kids, Selbstständigkeit, Sport und dem Punktehund.
+    location: "Germany"
+    followers: 5655
+    engagement: 1934
+    commentsToLikes: 0.075153
+    id: ck6ud3mwriyb90j71xh5pwjb3
     verified: false
-    hashtags: "#gothicgirl, #alternative, #redheadgirl, #goth"
-  - username: "mazayofficial"
+    hashtags: "#alleinerziehend, #liebeliebeliebe, #shorthair, #liebe"
+  - username: "siljasailor"
     fullname: >-
-      MAZAY
-    location: "Italy"
-    followers: 81722
-    engagement: 471
-    commentsToLikes: 0.048230
-    id: ck0u21n12ylm70i196fythub9
+      Silja Sailor
+    bio: >-
+      🕸 Psychobilly & Punk Rock 🕸 Vintage Vibes 🕸 Beauty Junkie 🕸 Stick To Your Guns From Finland 🇫🇮 based in London, UK 🇬🇧
+    location: "United Kingdom"
+    followers: 9319
+    engagement: 1362
+    commentsToLikes: 0.046950
+    id: ck55ko7ggzqwl0i1128rp0woy
     verified: false
-    hashtags: "#thisisdazn, #dontstop, #gotme, #surf"
+    hashtags: "#bettiebangs, #motd, #septumpiercing, #myhellbunny"
   - username: "diegonaska"
     fullname: >-
       Naska
+    bio: >-
+      Romantic but still Punk ⛓ 🧷 infodiegonaska@gmail.com
     location: "Italy"
-    followers: 31195
-    engagement: 1737
-    commentsToLikes: 0.038255
+    followers: 46851
+    engagement: 1549
+    commentsToLikes: 0.027495
     id: ck8sysn3jluqd0j78azcxqjco
     verified: true
     hashtags: ""
-  - username: "canadiankhaleesi"
+  - username: "mazayofficial"
     fullname: >-
-      Emery
-    location: "United States"
-    followers: 52490
-    engagement: 1184
-    commentsToLikes: 0.033415
-    id: ckap7kfhfkge50i78kv02xf1y
+      MAZAY
+    bio: >-
+      • Dj/Producer 🎧 • Andrea (1/2 Pink is Punk) NEW project 📩 mazayofficial@gmail.com 𝗖𝗔𝗟𝗟 𝗕𝗔𝗖𝗞 📞🔙 👇🏻👇🏻👇🏻
+    location: "Italy"
+    followers: 91029
+    engagement: 289
+    commentsToLikes: 0.062482
+    id: ck0u21n12ylm70i196fythub9
     verified: false
-    hashtags: "#dukeuniversity, #fortbragg, #tanning, #twitchstreamer"
-  - username: "muberry_"
+    hashtags: "#summertour, #mazay, #summertime, #dj"
+  - username: "saro_beatbox"
     fullname: >-
-      Alex
-    location: "United Kingdom"
-    followers: 4234
-    engagement: 3888
-    commentsToLikes: 0.497360
-    id: ck6u2tu78tvc20j71ph5035xx
-    verified: false
-    hashtags: "#abhfam, #galaxymakeup, #narscosmetics, #abheyeprimer"
-  - username: "zol.vin"
-    fullname: >-
-      Zolvin
-    location: ""
-    followers: 5819
-    engagement: 4550
-    commentsToLikes: 0.050925
-    id: ckaoxog83e4ay0i78sjgs3ls9
-    verified: false
-    hashtags: "#tiktoker, #redaesthetic, #vintagelevis, #grunge"
+      SARO
+    bio: >-
+      French Beatbox Looper From Rennes 🔴⚫️ 🏆 World Beatbox Champion 🥇 Grand Beatbox Battle Champion 🥇 french beatbox team (team punk) EP ZAG ⬇️
+    location: "France"
+    followers: 128550
+    engagement: 662
+    commentsToLikes: 0.016500
+    id: ck5zo7jhvpxq30i1437k8elvc
+    verified: true
+    hashtags: "#18september, #beatbox, #zag, #saro"
   - username: "punk_roquette"
     fullname: >-
-      Émilie Plamondon 🎤 📻
+      Émilie Plamondon 🎤🎧💿👕
+    bio: >-
+      🎶PUNK ROCK spreader 😊 🎧RADIO HOST/podcaster🎤SINGER▪️VINYL reviewer▪️Bands 👕 lover 🔸RePUNKmendations 🔸Fb live sunday 6:30 pm EST⬇️
     location: "Canada"
-    followers: 12236
-    engagement: 867
-    commentsToLikes: 0.072584
+    followers: 14726
+    engagement: 907
+    commentsToLikes: 0.051267
     id: ck0tt3rp411500i19qcipw8rk
     verified: false
-    hashtags: "#theclash, #californiapunk, #joeycape, #punkandroll"
-  - username: "nasrat_mma"
+    hashtags: "#vinylofinstagram, #punkdetente, #punkgirl, #punk"
+  - username: "eiccatoppinen"
     fullname: >-
-      Nasrat Haqparast
+      Eicca Toppinen
+    bio: >-
+      The heavy metal-cellist from Hellsinki Finland & Apocalyptica. Composer, producer etc... #apocalyptica #music #cello #finland #metal #rock #punk
+    location: "Finland"
+    followers: 39153
+    engagement: 763
+    commentsToLikes: 0.019452
+    id: ck0u2gz63zz8m0i19xpxxtjta
+    verified: false
+    hashtags: "#gym, #hagl, #autumn, #metal"
+  - username: "liza.klubnika"
+    fullname: >-
+      LIZA KLUBNIKA 🍓GRUNGE PRINCESS
+    bio: >-
+      PRO СЕКС, БЬЮТИ & БОДИПОЗИТИВ🔞💄 CURVY 💦 PUNK BLOGGER @ravokadus LGBTQ+ ALLY 🏳️‍🌈 Устраиваю #RAZYOB 🔥 Здесь #красивоpizdec Сексуально ем 😈
+    location: "Russia"
+    followers: 13641
+    engagement: 620
+    commentsToLikes: 0.085000
+    id: ck9h9nk0n973x0j78korufo7b
+    verified: false
+    hashtags: "#phsugarleshnevskaya, #redlips, #fashionshoot, #fashionmakeup"
+  - username: "laurendonzis"
+    fullname: >-
+      𝓁𝒶𝓊𝓇𝑒𝓃 𝒹𝑜𝓃𝓏𝒾𝓈 🕊💌🤍
+    bio: >-
+      ~ she/her ~ molly on #nogoodnick on @netflix ~ hannah on “punky brewster” coming soon to @peacocktv ~ a3 artists agency / untitled
+    location: "United States"
+    followers: 426960
+    engagement: 713
+    commentsToLikes: 0.011149
+    id: ck14lhyfeurln0i1915igmor7
+    verified: false
+    hashtags: "#nationalcancersurvivorsday, #theshowmustbepaused, #blackouttuesday, #spiritday"
+  - username: "katja_burkard_official"
+    fullname: >-
+      Katja Burkard
+    bio: >-
+      • TV-Moderatorin, RTL, PUNKT 12 • Bestseller: WECHSELJAHRE? KEINE PANIK! • Impressum: Katja Burkard c/o @zum.impressum • Kontakt: katja@divimove.com
     location: "Germany"
-    followers: 146956
-    engagement: 838
-    commentsToLikes: 0.017222
-    id: ck0vx17trwml20i19vfth1sn2
+    followers: 167631
+    engagement: 220
+    commentsToLikes: 0.050862
+    id: ck5ci2cearvsm0i111ucos5dj
     verified: true
-    hashtags: "#focus"
-  - username: "dani_is_running_rebelangel"
-    fullname: >-
-      Daniela #Rebelangel😏🇩🇪⚓ ♥️🏃‍♀️
-    location: "Germany"
-    followers: 5068
-    engagement: 3252
-    commentsToLikes: 0.045081
-    id: ck8ta6gi1qm8r0j785v2y1c8u
-    verified: false
-    hashtags: "#thanks, #coronavirus, #planktraining, #planks"
-  - username: "pruella.naeht"
-    fullname: >-
-      Prülla - Danie
-    location: "Germany"
-    followers: 14665
-    engagement: 623
-    commentsToLikes: 0.083477
-    id: ck1388msnf0y90i19ni55osda
-    verified: false
-    hashtags: "#hoodie, #nachvorngucken, #bikerjacke, #campinglife"
+    hashtags: "#corona, #wechseljahrekeinepanik, #wereinatmetmussauchausatmen, #wochenende"
 ---

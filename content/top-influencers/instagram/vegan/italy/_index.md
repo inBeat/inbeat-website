@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Italy In 2020
 description: >-
-  Find top vegan Instagram influencers in Italy in 2020. Most popular hashtags: #instagood #vegan #white #black.
+  Find top vegan Instagram influencers in Italy in 2020. Most popular hashtags: #italy #italytravel #italia.
 platform: Instagram
+hits: 417
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 417 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "andreabzzz"
+  - username: "world.of.lina"
     fullname: >-
-      Andrea Moscon
+      A L I N A ღ
+    bio: >-
+      ✈ Austrian 🇦🇹 small-town girl showing you the beauty of our planet 🌸🌎💕 📖 seen in @originmagazine #vegan lifestyle 🌍🌱🥑👚 🔜 ? Blog ⬇️
     location: "Italy"
-    followers: 392763
-    engagement: 609
-    commentsToLikes: 0.049823
-    id: ck14jk34nkrcm0i19u4kn8iay
-    verified: true
-    hashtags: "#pretty, #giveawayitalia, #totalwhite, #beautifulhotela"
-  - username: "ninojkt"
-    fullname: >-
-      Nino Fernandez
-    location: "Italy"
-    followers: 116628
-    engagement: 295
-    commentsToLikes: 0.033403
-    id: ck6u1t90pnqt50j71ag9buxup
-    verified: true
-    hashtags: "#dirumahaja, #jakarta, #uniqlolifewear, #uniqloindonesia"
-  - username: "larissacconte"
-    fullname: >-
-      Larissa Conte
-    location: "Italy"
-    followers: 114172
-    engagement: 84
-    commentsToLikes: 0.214623
-    id: ck14iqe38gpem0i197kie77io
+    followers: 7786
+    engagement: 844
+    commentsToLikes: 0.371716
+    id: ck0w2w701qguk0i196l77s0wx
     verified: false
-    hashtags: "#friends, #apmmonaco, #pixiglow, #wishshopping"
-  - username: "thelello"
+    hashtags: "#austriatoday, #traveleurope, #igersaustria, #hotelgoals"
+  - username: "florindalopes"
     fullname: >-
-      the lello | Gabriele Garancini
+      FLO | SELF PORTRAITS 📸
+    bio: >-
+      • Travel & Creative Portraits 🌎📸 • Editing Tips (check my reels 🙈) • Vegan 💚 & Healthy lifestyle 💪🧘‍♀️ ↓ Stories behind my Pics ￼↓ From 🇵🇹
     location: "Italy"
-    followers: 6774
-    engagement: 1158
-    commentsToLikes: 0.049684
-    id: ck8t5wld5bhgh0j78kc6393uu
+    followers: 6876
+    engagement: 1011
+    commentsToLikes: 0.176148
+    id: ck0u8yved8msd0i19xe8fbdjx
     verified: false
-    hashtags: "#skinglazing, #venicebeach, #glossylips, #lgbtq"
+    hashtags: "#31daysofhalloweenmakeup, #spookyseason, #autumnvibes, #halloween"
+  - username: "svgfitness_"
+    fullname: >-
+      Sanne | Fitness & Nutrition
+    bio: >-
+      22 y/o • The Netherlands 🌙 • Weight lifting Vegan 🌱 • Business economics student 🦋
+    location: "Italy"
+    followers: 14390
+    engagement: 764
+    commentsToLikes: 0.050457
+    id: ck0w0i40aeba70i19p4oho6jr
+    verified: false
+    hashtags: "#birthday, #22"
+  - username: "max_veganfit"
+    fullname: >-
+      Massimo Brunaccioni
+    bio: >-
+      ★ WNBF Pro Men’s Physique 🥇Men’s Physique World Champion ‘19 🌱 Vegan ☆ Fitness & nutrition coach ☆ Natural bodybuilding coach 📚Author VEGAN COACH
+    location: "Italy"
+    followers: 48336
+    engagement: 443
+    commentsToLikes: 0.028563
+    id: ck55nqzsp6srp0i11usfdcaq8
+    verified: true
+    hashtags: "#severomagiusto"
   - username: "elisa.donatini"
     fullname: >-
       Elisa Donatini 💎🧛🏻‍♀️🧚🏻‍♀️
+    bio: >-
+      Sometimes to stay alive you got to kill your mind. Family first❤️ #journalist #tvpresenter @sportitalia_official 🏎⚽️ #vegan 🌱 #womanpower #Depecher
     location: "Italy"
-    followers: 19273
-    engagement: 678
-    commentsToLikes: 0.038735
+    followers: 23549
+    engagement: 1175
+    commentsToLikes: 0.030063
     id: ckaowb5j8858e0i78hir7j2k9
     verified: false
-    hashtags: "#studi, #veganbody, #ferrari, #frontman"
-  - username: "luca_tedde"
+    hashtags: "#mare, #myjob, #journalism, #instalike"
+  - username: "hellopippa"
     fullname: >-
-      Luca Tedde
+      Angie
+    bio: >-
+      i teach yoga, eat a lot of vegan cake and talk mainly about my dogs, nature, fair fashion & life as an introvert. 🤍 🪐 austria 💌 info@hellopippa.com
     location: "Italy"
-    followers: 16625
-    engagement: 465
-    commentsToLikes: 0.029490
-    id: ckap9oiccszvw0i783hjsph3k
-    verified: false
-    hashtags: "#guidaleonardo, #pastelportrait, #versilia, #viareggio"
-  - username: "mercivanity"
+    followers: 85935
+    engagement: 459
+    commentsToLikes: 0.017133
+    id: ck134dt93vygz0i195kqxsej9
+    verified: true
+    hashtags: "#veganfood, #vanlifediaries, #vanlove, #tuscany"
+  - username: "larissacconte"
     fullname: >-
-      Mercede
+      LARISSA CONTE
+    bio: >-
+      ✨ Fashion | Travel | Lifestyle 💫 A true soul who hopes to INSPIRE 🌱 Vegan 📍 Italy Based 🌟 Trilingual Content
     location: "Italy"
-    followers: 18536
-    engagement: 339
-    commentsToLikes: 0.030351
-    id: ck5zq8uaau5m30i14rppufbhc
+    followers: 110727
+    engagement: 104
+    commentsToLikes: 0.101481
+    id: ck14iqe38gpem0i197kie77io
     verified: false
-    hashtags: "#beautiful, #inlove, #isaidyes, #healthy"
-  - username: "lindymei"
+    hashtags: "#colourpopambassador, #modclothsquad, #shein, #sheingals"
+  - username: "marta__milani"
     fullname: >-
-      Lindy Mei
+      Marta | a green life 🌿
+    bio: >-
+      [she/her] studentessa di medicina che ama le piante e le cose semplici 💫 | vegan yoga e ricette vegane 🌱
     location: "Italy"
-    followers: 64676
-    engagement: 135
-    commentsToLikes: 0.049515
-    id: ck6tyb3a62oza0j71oj7njqgi
+    followers: 41471
+    engagement: 263
+    commentsToLikes: 0.047270
+    id: ck0u9oucsaf5q0i19o25nc1cc
     verified: false
-    hashtags: "#sponsored, #stayhome, #reignbodyfuel, #nogymlikehome"
-  - username: "ania.alexandrovna"
+    hashtags: "#dolcivegani, #cremapasticcera, #veganfood, #dolci"
+  - username: "e_veganfit"
     fullname: >-
-      Ania Alexandrovna
+      
+    bio: >-
+      ⭐️WNBF PRO Bikini 🥇Bikini World Champion 2018 🌱🌏Vegan 💯Natural Athlete
     location: "Italy"
-    followers: 12762
-    engagement: 628
-    commentsToLikes: 0.048525
-    id: ck0tzxzjerxlg0i19gvh8ee8h
+    followers: 9796
+    engagement: 645
+    commentsToLikes: 0.046343
+    id: ck55nqzd66sog0i11eyq9nnuj
     verified: false
-    hashtags: "#model, #fishnet, #body, #harness"
-  - username: "senzaebuono"
+    hashtags: "#worldveganday"
+  - username: "mellamamaa"
     fullname: >-
-      Senza è buono {ricette senza}
+      Mellamama | Familie auf Reisen
+    bio: >-
+      🌍Mella, Patrick, Louis und Levi Lee 📍Italien, Sizilien🇮🇹 🌙Spirituality 🌱vegan & slow family @peacefoodfamily 🎥Familienleben auf YT
     location: "Italy"
-    followers: 37865
-    engagement: 565
-    commentsToLikes: 0.105053
-    id: ck139y7z6npod0i198ei6oayp
+    followers: 27069
+    engagement: 563
+    commentsToLikes: 0.018363
+    id: ck9weszzslosa0j787eiqn3ln
     verified: false
-    hashtags: "#sanoebuono, #colazionevegan, #tortadifragole, #tortaalcocco"
+    hashtags: "#traveltheworld, #sizilien, #mamaundsohn, #travelfamily"
 ---

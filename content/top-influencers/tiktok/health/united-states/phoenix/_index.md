@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Phoenix In 2020
 description: >-
-  Find top health TikTok influencers in Phoenix in 2020. Most popular hashtags: #phoenix #comedy #duet #quarantine.
+  Find top health TikTok influencers in Phoenix in 2020. Most popular hashtags: #fyp #arizona #duet #foryou.
 platform: TikTok
+hits: 9
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 9 TikTok influencers like this in Phoenix, United States for you to contact.
 profiles:
   - username: "jeywoods"
     fullname: >-
       Jey Woods
+    bio: >-
+      🙏🏼Imperfect Lover of Christ🙏🏼 💪🏾Health Coach💪🏾 👀Insta: jeywoods 👀
     location: "United States"
-    followers: 17343
-    engagement: 1009
-    commentsToLikes: 0.102921
+    followers: 27500
+    engagement: 1621
+    commentsToLikes: 0.117337
     id: ckae0ww0xlxta0i78eamxrnjt
     verified: false
-    hashtags: "#iykyk, #summeriscoming, #gotosleep, #christians"
-  - username: "activationvibration"
+    hashtags: "#christian, #family, #saturday, #fyp"
+  - username: "valerienewtonfaul"
     fullname: >-
-      Heather
+      Valerie Newton Faulk
+    bio: >-
+      Wifey for Lifey 💕 Dog Mama Love to laugh, sing and promote mental health SBTB!
     location: "United States"
-    followers: 2058
-    engagement: 1533
-    commentsToLikes: 0.065265
-    id: ckadzyh73h2ou0i780alnr774
+    followers: 5406
+    engagement: 1286
+    commentsToLikes: 0.118672
+    id: ckbfbrzdn458h0j23qyvukpzl
     verified: false
-    hashtags: "#binauralbeats, #shaman, #sekhmet, #goddess"
-  - username: "catiedip216"
+    hashtags: "#follow, #cute, #happyhalloween, #holidaytiktok"
+  - username: "vinyasavegan"
     fullname: >-
-      Caitlin Marie 
+      Michael
+    bio: >-
+      Welcome! 🤓 Recently Vegan🌱 Atlanta/Phoenix 🏙🌵 HS Teacher 👨‍🏫 25 🌈
     location: "United States"
-    followers: 19798
-    engagement: 619
-    commentsToLikes: 0.061872
-    id: ck80ooygdiwnz0j78we9ufb4k
+    followers: 12000
+    engagement: 777
+    commentsToLikes: 0.061744
+    id: ckb9c074oyknf0j23xnm03x6c
     verified: false
-    hashtags: "#quarantine, #interrupted, #bubblebath, #bath"
+    hashtags: "#vegancookies, #veganbreakfast, #vegandessert, #veganrecipes"
+  - username: "drmarkheisig"
+    fullname: >-
+      Mark Heisig
+    bio: >-
+      DM me on insta 👆 Integrative concussion doc 🧠 Work with me 👇
+    location: "United States"
+    followers: 3737
+    engagement: 553
+    commentsToLikes: 0.114457
+    id: ck9fy5tmh9drn0j78pcyzggsr
+    verified: false
+    hashtags: "#health, #exercise, #hockey, #mtbi"
+  - username: "lauramrock"
+    fullname: >-
+      ❤️Mama Rock❤️
+    bio: >-
+      Never bored never boring💕mom, traveler✈️vegan🥑rule breaker😁always grateful🎉
+    location: "United States"
+    followers: 4875
+    engagement: 926
+    commentsToLikes: 0.298083
+    id: ckbfbakyz37gl0j23rziwkk4l
+    verified: false
+    hashtags: "#beautiful, #justdoit, #trend, #fitness"
   - username: "legionofzoom"
     fullname: >-
       NASCAR Pit Crew Life
+    bio: >-
+      We are professional pit crew athletes. Want to join in? DM us.
     location: "United States"
-    followers: 161565
-    engagement: 263
-    commentsToLikes: 0.006045
+    followers: 182000
+    engagement: 256
+    commentsToLikes: 0.005703
     id: ck83yuouhvwcv0j780cp6xr0o
     verified: false
-    hashtags: "#danger, #preparation, #healthy, #free"
-  - username: "angellsaravia"
+    hashtags: "#workout, #nascar, #nascarpitcrew, #pitcrew"
+  - username: "cuzzinbrucie"
     fullname: >-
-      angellsaravia
+      CuzzinBrucie
+    bio: >-
+      Arizona. Born & bred NJ. 49.
     location: "United States"
-    followers: 2725
-    engagement: 326
-    commentsToLikes: 0.191476
-    id: cka0na08myt3u0i78bun1d1et
+    followers: 8236
+    engagement: 690
+    commentsToLikes: 0.061017
+    id: ckbkjdsrlc6650j23u5qruxrp
     verified: false
-    hashtags: "#fail, #sportscar, #formyvalentine, #newsong"
-  - username: "keystothejungle"
+    hashtags: "#stayathome, #covid19, #arizona, #passion"
+  - username: "happymom86"
     fullname: >-
-      Keys to the Jungle
+      Lea 
+    bio: >-
+      Venmo happymom86 😈 AZ Livin 🌵 Family Lovin ♂️♂️♀️
     location: "United States"
-    followers: 62288
-    engagement: 1588
-    commentsToLikes: 0.020770
-    id: cka6jutl8wcet0i78u7if0q3n
+    followers: 65500
+    engagement: 1053
+    commentsToLikes: 0.028871
+    id: ck9r3v14wryvg0j786lo3wgum
     verified: false
-    hashtags: "#sonicspeedmeup, #billionaire, #mclarenf1, #quarantine"
+    hashtags: "#joke, #foryou, #father, #fyp"
+  - username: "mzdestiny_excon"
+    fullname: >-
+      apollobrand1999
+    bio: >-
+      From Felon to Fabulous..❤🖤MLC🖤❤#Thrillsquad cashapp $phoenix9186
+    location: "United States"
+    followers: 53300
+    engagement: 1476
+    commentsToLikes: 0.090382
+    id: ckb9byux5yf6m0j23kyaxs63v
+    verified: false
+    hashtags: "#plussize, #felonfacts, #prisonlife, #police"
   - username: "young_rari"
     fullname: >-
       Young_rari
+    bio: >-
+      Main insta: Madelineferreri COLLABS: Madeline@tiktal.co 90+ happy/healthy pets!
     location: "United States"
-    followers: 403584
-    engagement: 2753
-    commentsToLikes: 0.024517
+    followers: 638300
+    engagement: 2828
+    commentsToLikes: 0.029328
     id: ck83wwz4tmngj0j78eo9izp7u
     verified: false
-    hashtags: "#poseathome, #duet, #bedroomcheck"
-  - username: "pamperingwithaleshia"
-    fullname: >-
-      Aleshia Wisch
-    location: "United States"
-    followers: 14698
-    engagement: 2578
-    commentsToLikes: 0.138983
-    id: ckaijeusgeljw0i78dgyrfs3r
-    verified: false
-    hashtags: "#resistthebeat, #wine, #safety, #dance"
-  - username: "jezus.official"
-    fullname: >-
-      Jezus
-    location: "United States"
-    followers: 47702
-    engagement: 2337
-    commentsToLikes: 0.044380
-    id: ckaikss33kyxd0i78wo306iph
-    verified: false
-    hashtags: "#demonslayer, #overflow, #vibe, #animelist"
-  - username: "the_situasian"
-    fullname: >-
-      Fit_Dad_Bod
-    location: "United States"
-    followers: 2774
-    engagement: 2181
-    commentsToLikes: 0.224716
-    id: cka6qkf62nxsb0i780yxzs9bq
-    verified: false
-    hashtags: "#sharingiscaring, #momsoftiktok, #hairband, #spreadlovegang"
+    hashtags: "#foryoupage, #fyp, #stemlife, #neonshadow"
 ---

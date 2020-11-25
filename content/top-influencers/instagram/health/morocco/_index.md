@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In Morocco In 2020
 description: >-
-  Find top health Instagram influencers in Morocco in 2020. Most popular hashtags: #photography #morocco #nature #italy.
+  Find top health Instagram influencers in Morocco in 2020. Most popular hashtags: #photooftheday #instagood #fashion #photography.
 platform: Instagram
+hits: 39
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 39 Instagram influencers like this in Morocco for you to collaborate.
 profiles:
   - username: "lesfitkho"
     fullname: >-
       FitKho
+    bio: >-
+      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
     location: "Morocco"
-    followers: 20126
-    engagement: 528
-    commentsToLikes: 0.134162
+    followers: 20900
+    engagement: 541
+    commentsToLikes: 0.135702
     id: ck5hp9bxsqywa0i11d9217mwu
     verified: false
-    hashtags: "#onestsympaoui, #babys, #babyface, #laculpabilite"
+    hashtags: "#beautiful, #picoftheday, #workout, #girl"
   - username: "tillybaker"
     fullname: >-
       🌈Tilly🦄
+    bio: >-
+      💜💙❤️💚💗💛Fashun💛💗💚❤️💙💜. ✨Treat.Yo.Self... Australia✨. 🌈 Fashionista 👑 Feminist👭Mental Health Advocate and BPD battler 👊 ☔️ 💖
     location: "Morocco"
-    followers: 17736
-    engagement: 255
-    commentsToLikes: 0.061398
+    followers: 17390
+    engagement: 283
+    commentsToLikes: 0.079564
     id: ck5c2fxz3x6ns0i114a608k73
     verified: false
-    hashtags: "#consent, #stayathome, #fitnessguru, #isolationfashion"
-  - username: "healthysistersnl"
+    hashtags: "#moreismore, #amplifyblackvoices, #stayhome, #orgotothebahamas"
+  - username: "daphnesdeliciousdishes"
     fullname: >-
-      H E A L T H Y  S I S T E R S
+      Daphne Hari
+    bio: >-
+      Mom of 3 👶🏻👧🏻👧🏼, Chef of my hubbie athlete🥊💯 Healthy & Nutritious I don't count calories 🙅🏼‍♀️ Business inquiries -》📧 info@daphnesdishes.com
     location: "Morocco"
-    followers: 62479
-    engagement: 163
-    commentsToLikes: 0.082273
-    id: ck0uese6tm30r0i199lg7bvxa
-    verified: true
-    hashtags: "#jumuahmubarak, #sisters, #helpus, #happysisters"
-  - username: "rababe_gyd"
-    fullname: >-
-      • 𝐑𝐀𝐁𝐀𝐁𝐄 رباب 𝐆𝐘𝐃 ✨
-    location: "Morocco"
-    followers: 71941
-    engagement: 575
-    commentsToLikes: 0.089958
-    id: ck13c4148yigm0i19f13twd8n
+    followers: 89206
+    engagement: 501
+    commentsToLikes: 0.024617
+    id: ck0vzhebf942b0i19bra0a4ki
     verified: false
-    hashtags: "#honey, #stayingpositive, #cosmetics, #chocolatelover"
-  - username: "yasminerie"
+    hashtags: "#lowcarb, #kidsproof, #nutritiousbreakfast, #yoghurt"
+  - username: "fayhaae"
     fullname: >-
-      Yasmina 🦋
+      Foufou El
+    bio: >-
+      ◾️Fes🇲🇦🇲🇦Morocco ◾️fashion👗Makeup 💄lifestyle ◾️healthy lifestyle 🍀 ◾️snap 👻 fjambari3 ◾️collab 📩 jambarifayhae@gmail.com
     location: "Morocco"
-    followers: 32672
-    engagement: 872
-    commentsToLikes: 0.140524
-    id: ck14ki7mqpmgh0i19riiao0v4
+    followers: 27557
+    engagement: 266
+    commentsToLikes: 0.128857
+    id: ckaosvtryt8pr0i78bk7yvz39
     verified: false
-    hashtags: "#ootdfashion, #beautymakeup, #latina, #sunkissed"
-  - username: "miriamalegria"
+    hashtags: "#photooftheday, #instagood, #influencer, #blogeuse"
+  - username: "kaidi.karima"
     fullname: >-
-      Miriam Alegría|Foto + Blogger
+      Sain Gourmand
+    bio: >-
+      Healthy lifestyle content creator صانعة محتوى يخُص نَمَط العيش الصحي Contact 💌 : karima@saingourmand.com Blog 🖋: 👇🏼
     location: "Morocco"
-    followers: 86971
-    engagement: 229
-    commentsToLikes: 0.248855
-    id: ck14jvngfmf190i191l2fleob
+    followers: 17632
+    engagement: 206
+    commentsToLikes: 0.033181
+    id: ck8syvlcem6n50j78uu1fhiko
     verified: false
-    hashtags: "#healthyathome, #cocinarencasa, #postresfaciles, #codigo"
-  - username: "soffienmessoudi"
+    hashtags: "#travel, #photography, #brunch, #philippines"
+  - username: "elham_haissoune"
     fullname: >-
-      Soffien Messoudi
+      Ily🍯👅
+    bio: >-
+      00:00 ❤️❤️
     location: "Morocco"
-    followers: 11768
-    engagement: 956
-    commentsToLikes: 0.027926
-    id: ck6uh1xv06iip0j71lhoa1pur
+    followers: 26829
+    engagement: 435
+    commentsToLikes: 0.019218
+    id: ck8t3w2th4pcd0j78hsszon0g
     verified: false
-    hashtags: "#adventures, #staysafe, #thankful, #whataride"
-  - username: "ghita.benkhaldoun"
+    hashtags: "#meknes, #shooting, #instalove, #sahara"
+  - username: "nouhaila_ermt"
     fullname: >-
-      Ɠнιтα
+      Nouhaila  Ermt👑
+    bio: >-
+      Economics student👩🏻‍🎓 Moroccan girl🇲🇦 Nous sommes nos choix. Fitgirl💪🏻 📧 :nouha.rmt@gmail.com Mohammedia ,Morocco 🇲🇦
     location: "Morocco"
-    followers: 39356
-    engagement: 426
-    commentsToLikes: 0.018149
-    id: ck9wdyyjyhwk60j78h87e4z82
+    followers: 22148
+    engagement: 386
+    commentsToLikes: 0.025046
+    id: ckap7vrpals0x0i78ykazx83p
     verified: false
-    hashtags: "#moroccangirl, #makeupmorocco, #makeuptutorial, #eidmubarak"
-  - username: "samadiilias"
+    hashtags: "#noexcuses, #instafit, #fitnessmotivation, #iphoneography"
+  - username: "ayoubfitt"
     fullname: >-
-      Samadi ilias 🇲🇦🇪🇸
+      Ayoub El Azri / coach
+    bio: >-
+      My PURPOSE is my fire 🔥sponsored by @afleteathletics & @paraflorida 📚 ENS CASA " Education physique et sportive " 💪 Natural body 🌍 Online trainer 📩📩
     location: "Morocco"
-    followers: 24494
-    engagement: 393
-    commentsToLikes: 0.022741
-    id: ck5chu6htrgx50i11rcmq5alc
+    followers: 21129
+    engagement: 474
+    commentsToLikes: 0.037449
+    id: ck5hp9cjjqyxj0i11w3vu8typ
     verified: false
-    hashtags: "#food, #foodblogger, #videosfashions, #curlymens"
-  - username: "caro_sure"
+    hashtags: "#getfit, #instagood, #diet, #cardio"
+  - username: "the_browncurly"
     fullname: >-
-      Carolina Segura
+      HANAE CURLY 🦋
+    bio: >-
+      📍🇲🇦 12/12🎉
     location: "Morocco"
-    followers: 5950
-    engagement: 1116
-    commentsToLikes: 0.047131
-    id: ck8t816v5iqei0j78wgea2590
+    followers: 12091
+    engagement: 592
+    commentsToLikes: 0.019199
+    id: ckapayveoxzqf0i78iv476ip1
     verified: false
-    hashtags: "#budist, #cycling, #bereber, #runner"
+    hashtags: "#love, #mood, #stayathome, #curlyhair"
+  - username: "ay_assaidi84"
+    fullname: >-
+      𝘼 𝙔 𝙊 𝙐 𝘽 🇲🇦 𝘼 𝙎 𝙎 𝘼 𝙄 𝘿 𝙄 ⵣ
+    bio: >-
+      𝑀𝑜𝓇𝑜𝒸𝒸𝑜,𝒩𝒶𝒹𝑜𝓇 ꨄ📍ⵣ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 𝙭3 𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙊𝙛 𝙈𝙤𝙧𝙤𝙘𝙘𝙤🥇 ᴍᴏʀᴏᴄᴄᴏ ɴᴀᴛɪᴏɴᴀʟ ᴋᴀʀᴀᴛᴇ ᴛᴇᴀᴍ 🇲🇦 𝙖𝙨𝙨𝙖𝙞𝙙𝙞𝙖𝙮𝙤𝙪 👻
+    location: "Morocco"
+    followers: 5794
+    engagement: 1344
+    commentsToLikes: 0.030454
+    id: ck8t9cgdcnlb10j784o6v3198
+    verified: false
+    hashtags: "#vscocam, #igers, #instadaily, #instagramhub"
 ---

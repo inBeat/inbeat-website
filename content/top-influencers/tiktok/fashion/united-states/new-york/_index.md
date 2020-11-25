@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In New York In 2020
 description: >-
-  Find top fashion TikTok influencers in New York in 2020. Most popular hashtags: #fashion #comedy #momsoftiktok #mycrib.
+  Find top fashion TikTok influencers in New York in 2020. Most popular hashtags: #newyork #fyp #fashion #nyc.
 platform: TikTok
+hits: 206
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 206 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "isaaclikes_"
+  - username: "theaudreypeters"
     fullname: >-
-      Isaac Hindin-Miller
+      The Audrey Peters
+    bio: >-
+      AP🍒 CEO of let’s do it info@theaudreypeters.com
     location: "United States"
-    followers: 25978
-    engagement: 620
-    commentsToLikes: 0.074451
-    id: ck8f898vn3dds0j782cybwb63
-    verified: true
-    hashtags: "#bakingrecipe, #coronavirus, #tiktokfashion, #styletips"
+    followers: 216800
+    engagement: 1079
+    commentsToLikes: 0.018037
+    id: ckai5d13prlnq0i78j9ie4n60
+    verified: false
+    hashtags: "#fashion, #newyorkcity, #newyork, #manhattan"
+  - username: "mandyansari"
+    fullname: >-
+      mandy ansari
+    bio: >-
+      💁🏻‍♀️your virtual bff instagram: @mandy www.girlandthe.com
+    location: "United States"
+    followers: 42200
+    engagement: 555
+    commentsToLikes: 0.061947
+    id: ck900x70mavuv0j78q5upz3je
+    verified: false
+    hashtags: "#foryou, #nyc, #tiktokfoodie, #learnfromme"
+  - username: "makeachange.world"
+    fullname: >-
+      makeachange
+    bio: >-
+      Environmental media 🌊 Uplifting videos to #makeachange Follow us on YouTube! 👇
+    location: "United States"
+    followers: 150600
+    engagement: 1995
+    commentsToLikes: 0.010844
+    id: ck92t67p6gjng0j78xzieddu3
+    verified: false
+    hashtags: "#fyp, #ocean, #foryourpage, #pollution"
   - username: "samanthadiorio_"
     fullname: >-
       samanthadiorio
+    bio: >-
+      PARSONS FASHION MFA, NEW YORK IG: @samanthadiorio 💋
     location: "United States"
-    followers: 51626
-    engagement: 240
-    commentsToLikes: 0.006149
+    followers: 63200
+    engagement: 508
+    commentsToLikes: 0.011366
     id: ck8z5ybnzjsl80j78i6ydrzeh
     verified: false
-    hashtags: "#collection, #performance, #swarovski, #tarababylon"
-  - username: "rahulny"
+    hashtags: "#foryou, #parsonsfashionmfa, #parsons, #fashionschool"
+  - username: "samayasmall"
     fullname: >-
-      rahulny
+      samayasmall
+    bio: >-
+      NYC🇱🇧22🇺🇸 Fashion I NYC is my personality Follow me on za graaam 👆🏼
     location: "United States"
-    followers: 8707
-    engagement: 4202
-    commentsToLikes: 0.155736
-    id: ckae15ou3n7bd0i787ly904md
+    followers: 33200
+    engagement: 973
+    commentsToLikes: 0.013732
+    id: ckcv5ib8yp98s0j23hymfhhsx
     verified: false
-    hashtags: "#letgoviral, #lovemyfans, #shareit, #featureme"
-  - username: "scoutthecity"
+    hashtags: "#whatieatinaday, #nyc, #fyp, #breakfast"
+  - username: "maudylo"
     fullname: >-
-      scoutthecity
+      Ahmadjg
+    bio: >-
+      Content Creator ❗️Mental Health is #1 Here to make you smile ❗️ Road to 100k
     location: "United States"
-    followers: 46529
-    engagement: 647
-    commentsToLikes: 0.012371
-    id: ck9ke226nwwk30j78zwx0j5ta
+    followers: 70400
+    engagement: 1753
+    commentsToLikes: 0.108296
+    id: ckc8uoakgh4cf0j230euxm4kn
     verified: false
-    hashtags: "#tiktokfood, #stylehack, #catfish, #clothinghack"
-  - username: "nicktangorra"
+    hashtags: "#foryoupage, #fup, #duet, #foryoupagethis"
+  - username: "idontcare.usa"
     fullname: >-
-      nicktangorra
+      jcm
+    bio: >-
+      
     location: "United States"
-    followers: 1178346
-    engagement: 1118
-    commentsToLikes: 0.018187
-    id: ck8073irhof9k0j78rtw7aiw1
-    verified: true
-    hashtags: "#tiktoktalent, #touchdowncelebration, #wbpartner, #dailyroutine"
-  - username: "theaudreypeters"
-    fullname: >-
-      Audrey Peters
-    location: "United States"
-    followers: 57318
-    engagement: 879
-    commentsToLikes: 0.036500
-    id: ckai5d13prlnq0i78j9ie4n60
+    followers: 2210
+    engagement: 632
+    commentsToLikes: 0.063387
+    id: ck81q4pc4fxa00j78l7qb3mwb
     verified: false
-    hashtags: "#wine, #bankers, #winter, #biking"
-  - username: "mikaelaaluv"
+    hashtags: "#foryoupage, #streetwear, #fashion, #hoodieszn"
+  - username: "qualitydotclothing"
     fullname: >-
-      Mikaela Luv 
+      Quality Clothing
+    bio: >-
+      Quality Clothing Collection 0008 - June 26 https://quality.clothing
     location: "United States"
-    followers: 555572
-    engagement: 2463
-    commentsToLikes: 0.034077
-    id: cka6868yhnkv90i78oijrrgs7
+    followers: 6026
+    engagement: 1061
+    commentsToLikes: 0.044553
+    id: ck8nfddnkrfvf0j782ztwc0xr
     verified: false
-    hashtags: "#inkbox, #diycroptop, #fashionhacks, #photomagic"
-  - username: "funfaxwithmacts"
+    hashtags: "#newyork, #quality, #street, #streetwear"
+  - username: "leeeethebumblebee"
     fullname: >-
-      Funfactswithmax
+      Lee
+    bio: >-
+      ✨🧿🦋 Florida/Israel 🦋🧿✨
     location: "United States"
-    followers: 5169
-    engagement: 1445
-    commentsToLikes: 0.015777
-    id: ckac95fz9fvzf0i78pr7g75qg
+    followers: 5387
+    engagement: 736
+    commentsToLikes: 0.039939
+    id: ck8z4lutreap10j78rj9jip63
     verified: false
-    hashtags: "#baseball, #fashion, #finland, #dinosaurs"
-  - username: "taylorlorenz"
+    hashtags: "#fyp, #minions, #cityofdreams, #aliciakeys"
+  - username: "felixsemper"
     fullname: >-
-      Taylor Lorenz ✨
+      felixsemper
+    bio: >-
+      Stretching your imagination www.felixsemper.com
     location: "United States"
-    followers: 430001
-    engagement: 1155
-    commentsToLikes: 0.008244
-    id: ck8z5yceijss50j7844cqqayk
-    verified: true
-    hashtags: "#troll, #dance, #streetwear, #fashion"
-  - username: "deskotsis"
-    fullname: >-
-      GodDESs❁
-    location: "United States"
-    followers: 65396
-    engagement: 1742
-    commentsToLikes: 0.024931
-    id: cka6qd5etn3f00i780ooylul3
+    followers: 401800
+    engagement: 888
+    commentsToLikes: 0.006485
+    id: ckb9mfm08fiae0j23ns0kxde7
     verified: false
-    hashtags: "#mycrib, #hype, #yiayia, #jamsession"
+    hashtags: "#art, #sculpture, #collegegotmelike, #nyc"
 ---

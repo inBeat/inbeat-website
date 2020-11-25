@@ -1,42 +1,65 @@
 ---
 title: Top 10 Instagram Influencers In France In 2020
 description: >-
-  Find top Instagram influencers in France in 2020. Most popular hashtags: #hypebeast #fashionstyle #vintage #.
+  Find top Instagram influencers in France in 2020. Most popular hashtags: #fashion #ootd #teamfabletics.
 platform: Instagram
+hits: 27695
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 27695 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "amoureuxdumonde"
     fullname: >-
       Yann ♡ Aurélie - Blog Voyage
+    bio: >-
+      ✧ Chasseurs de paysages ✧ On vit à #Lyon 🦁 ✧ Pro : amoureuxdumonde@gmail.com 💌 Blog Voyage & Bons Plans
     location: "France"
-    followers: 116876
-    engagement: 767
-    commentsToLikes: 0.083801
+    followers: 138232
+    engagement: 600
+    commentsToLikes: 0.054981
     id: ck0tv1s609kcq0i19fj66fe0n
     verified: false
-    hashtags: "#palawan, #voyageslaponie, #montagne, #annecy"
+    hashtags: "#gre, #paysages, #spainstagram, #amoureux"
   - username: "charlie.ma.vie"
     fullname: >-
-      Raphaëlle
+      Raphaëlle
+    bio: >-
+      Mum of two • Famille recomposée • ✨ Brune, Charlie & Milo ♡ Passionnée de photographie💫 Inspiration & instants de notre petite vie RECETTES en story🍴
     location: "France"
-    followers: 46823
-    engagement: 837
-    commentsToLikes: 0.021400
+    followers: 50110
+    engagement: 677
+    commentsToLikes: 0.014703
     id: ck0vzn1709wpv0i19kyvoss00
     verified: false
-    hashtags: "#momanddad, #daddy, #smileeveryday, #lovers"
-  - username: "julija.zp"
+    hashtags: "#mumoftwo, #simplychildren, #momsofinstagram, #motherhoodunplugged"
+  - username: "bjornsenlouise"
     fullname: >-
-      𝗝𝗨𝗟𝗜𝗝𝗔 🌹
+      LB
+    bio: >-
+      Monaco
     location: "France"
-    followers: 2628
-    engagement: 4751
-    commentsToLikes: 0.315297
-    id: ckapc0lxo20ag0i78mmqyv6ym
+    followers: 2290
+    engagement: 3841
+    commentsToLikes: 0.168031
+    id: ckap46ex461oe0i78keij816r
     verified: false
     hashtags: ""
+  - username: "cemalcancanseven"
+    fullname: >-
+      Cemal Can Canseven
+    bio: >-
+      Contact 📩 erhanturgut@yahoo.com
+    location: "France"
+    followers: 3296949
+    engagement: 3702
+    commentsToLikes: 0.266107
+    id: ck5ckbdwnwiz60i11fp4a5icw
+    verified: false
+    hashtags: "#survivor2020"
   - username: "maybeaxelle"
     fullname: >-
       𝕞𝕖🐍sah what a pleasure
+    bio: >-
+      † 18ans ♥ton capricorne favori
     location: "France"
     followers: 2008
     engagement: 3664
@@ -44,64 +67,64 @@ profiles:
     id: ckaoyvlfzja6d0i783fm4zwsv
     verified: false
     hashtags: ""
-  - username: "sohoney__"
+  - username: "lenyfalgoux"
     fullname: >-
-      .        ♕𝑆𝑂𝑃𝐻𝐼𝐸
+      Leny Falgoux
+    bio: >-
+      - Email : lenyfalgouxpro@gmail.com ⬇️ PREMIÈRE VIDÉO YOUTUBE ⬇️
     location: "France"
-    followers: 2753
-    engagement: 3604
-    commentsToLikes: 0.405720
-    id: ck8t1exqyvi8d0j78505mqvrd
+    followers: 286720
+    engagement: 3033
+    commentsToLikes: 0.111155
+    id: ckap8qnx6pg5e0i786pt8uvev
     verified: false
-    hashtags: "#souvenirs, #girlspower, #pictureofday, #macdonals"
-  - username: "jxllzs"
+    hashtags: "#blackouttuesday, #concours, #sneakers"
+  - username: "trevoski"
     fullname: >-
-      𝒥𝓊𝓁𝑒𝓈. 🧸
+      Trevo
+    bio: >-
+      @trevosbackroom @vaycated
     location: "France"
-    followers: 3393
-    engagement: 2993
-    commentsToLikes: 0.137679
-    id: ck8tc52qayb8x0j7892ki565l
+    followers: 6076
+    engagement: 2675
+    commentsToLikes: 0.125987
+    id: ck9ha3wxwb1eh0j7852w8gcwa
     verified: false
-    hashtags: "#mensstreetstyle, #fashionstyle, #dailystreetwear, #palacetalk"
-  - username: "elliselbersen"
+    hashtags: "#bebacksoon, #explorepage, #explore, #birthday"
+  - username: "louise_lbnx"
     fullname: >-
-      Ellis Elbersen
+      𝐿𝑜𝓊𝒾𝓈𝑒 𝐿&𝐵 🕊
+    bio: >-
+      ~ 𝐹𝒶𝓈𝒽𝒾𝑜𝓃 | 𝐿𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 | 𝒯𝓇𝒶𝓋𝑒𝓁 ~ ~ 𝑀𝒶 𝓋𝒾𝑒 𝒶̀ 𝒸𝑜𝑒𝓊𝓇 𝑜𝓊𝓋𝑒𝓇𝓉 ~ ~ 𝒜𝒾𝓍 𝑒𝓃 𝒫𝓇𝑜𝓋𝑒𝓃𝒸𝑒 📍
     location: "France"
-    followers: 2406
-    engagement: 2902
-    commentsToLikes: 0.202416
-    id: ck8tdnng942kz0j78sad32b9a
+    followers: 3198
+    engagement: 2578
+    commentsToLikes: 0.136389
+    id: ck6tv7jvfkmed0j71594yeqjj
     verified: false
-    hashtags: "#oxfordgeneration, #orange, #behappy, #nakdfashion"
-  - username: "lucastenay"
+    hashtags: "#bali, #happykiddo, #balidaily, #exploretheworld"
+  - username: "maellebcher"
     fullname: >-
-      LUCAS ☻
+      Rouch' ~ Maëlle
+    bio: >-
+      📍 Master 2 / Paris 𝙻𝚘𝚟𝚎 𝚜𝚞𝚖𝚖𝚎𝚛 𝚟𝚒𝚋𝚎𝚜 A ♥ 🦋 @fableticseu
     location: "France"
-    followers: 7770
-    engagement: 2892
-    commentsToLikes: 0.118941
-    id: ck6u9po5uywt60j71yp7r1ujz
+    followers: 3489
+    engagement: 2536
+    commentsToLikes: 0.201102
+    id: ckf5m5x90sep60j23h1kvl2dq
     verified: false
-    hashtags: "#hypebeast, #eboy, #highsnobiety, #cuteboys"
-  - username: "lenatamburinioff"
+    hashtags: "#vintagevibes, #outfitideas, #ad, #corsica"
+  - username: "kassandra_smnt"
     fullname: >-
-      Lena Tamburini
+      Kassandra Simonnet
+    bio: >-
+      📍Nantes, FR 🇫🇷 🕊In love @camisomc
     location: "France"
-    followers: 594524
-    engagement: 2698
-    commentsToLikes: 0.044146
-    id: ck9wdgwamfkzx0j78x0opxm64
+    followers: 2452
+    engagement: 2491
+    commentsToLikes: 0.140519
+    id: ck6u08jdfe83n0j71ffn9otw5
     verified: false
-    hashtags: "#ad, #iskodna, #partenariat"
-  - username: "xj0line"
-    fullname: >-
-      𝓙𝓸𝓵𝓲𝓷𝓮‘👸🏼
-    location: "France"
-    followers: 295465
-    engagement: 2640
-    commentsToLikes: 0.268022
-    id: ck6u18ogtk9hi0j71ylggu8t6
-    verified: false
-    hashtags: "#applegiveaway, #maedelsgewinnspiele, #iphone11, #newiphone"
+    hashtags: "#sunday, #fit, #fitnessgirl, #faro"
 ---

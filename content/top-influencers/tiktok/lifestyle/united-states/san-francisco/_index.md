@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle TikTok Influencers In San Francisco In 2020
 description: >-
-  Find top lifestyle TikTok influencers in San Francisco in 2020. Most popular hashtags: #cookinghacks #itsaremix #musicmatters #poseathome.
+  Find top lifestyle TikTok influencers in San Francisco in 2020. Most popular hashtags: #fyp #bayarea #sanfrancisco #foryoupage.
 platform: TikTok
+hits: 10
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in San Francisco, United States for you to pitch.
 profiles:
   - username: "jyo_shankar"
     fullname: >-
       Jyotsna Shankar
+    bio: >-
+      Travel & Lifestyle Blogger San Francisco Bay Area based Instagram: @jyo_shankar
     location: "United States"
-    followers: 8494
-    engagement: 642
-    commentsToLikes: 0.091457
+    followers: 14500
+    engagement: 957
+    commentsToLikes: 0.048653
     id: ck8saa4l117bv0j78ade4z9vk
     verified: false
-    hashtags: "#tiktokbeauty, #island, #cincodemayo, #fashioninspo"
-  - username: "thefriendlyfashionistas"
+    hashtags: "#travelblog, #hellofall, #travellife, #tiktoktravel"
+  - username: "lifestylebabe"
     fullname: >-
-      ❤️❤️❤️
+      m & s
+    bio: >-
+      ☆ lifestyle ☆ 💌: lifestylebabe@yahoo.com BLM
     location: "United States"
-    followers: 8598
-    engagement: 1314
-    commentsToLikes: 0.110242
-    id: cka0palkm7hwv0i78ezqsl0qo
+    followers: 154100
+    engagement: 1644
+    commentsToLikes: 0.015016
+    id: ck7zo7n0zikh70j7843v581vp
     verified: false
-    hashtags: "#rating, #howto, #bvlgari, #photo"
+    hashtags: "#aesthetic, #spaceforcewalk, #foryou, #aesthetics"
+  - username: "eattravelrock"
+    fullname: >-
+      Kelly Rizzo
+    bio: >-
+      TV Host Food/Travel/Lifestyle Expert IG @eattravelrock Mrs. @bobsaget
+    location: "United States"
+    followers: 168200
+    engagement: 1023
+    commentsToLikes: 0.020429
+    id: ck80oq80jj7lk0j78wd2t1otg
+    verified: true
+    hashtags: "#pumpkinrecipes, #airtravel, #covidsafety, #travelsafety"
   - username: "hyphyculture"
     fullname: >-
       hyphyculture
+    bio: >-
+      Official Tiktok of HyphyCulture™️ BAY AREA CA. Lifestyle,Culture & Entertainment
     location: "United States"
     followers: 13328
     engagement: 694
     commentsToLikes: 0.015111
     id: ck9fmcnsbsnea0j78krsvh4w2
     verified: false
-    hashtags: "#2chainz, #shmoplife, #travelthrowback, #macdrechallenge"
-  - username: "soxsoul"
+    hashtags: "#cali, #bayareacheck, #sanfrancisco, #bestfandom"
+  - username: "king_randy23"
     fullname: >-
-      _SOXSOUL _
+      King_Randy23
+    bio: >-
+      🔥 Fast Weight loss motivator🔥 from 0 to 💯‼️ Check my bio for a new life style
     location: "United States"
-    followers: 537232
-    engagement: 1060
-    commentsToLikes: 0.015577
-    id: ck8kexmqdbh960j786rpvtn14
-    verified: true
-    hashtags: "#gamingontiktok, #makeitfestive, #outfit, #got2bstyled"
-  - username: "morganstaub"
-    fullname: >-
-      morg🦋⚡️
-    location: "United States"
-    followers: 22309
-    engagement: 1028
-    commentsToLikes: 0.011615
-    id: ck9vbbhc5mchn0j78jxs7v3if
+    followers: 9106
+    engagement: 931
+    commentsToLikes: 0.104211
+    id: ckcja2a5w87ba0j23ce97nja0
     verified: false
-    hashtags: "#foruyoupage, #life, #funny, #coupleedition"
-  - username: "nickibaber"
+    hashtags: "#biden2020, #ohno, #stitch, #fyp"
+  - username: "beach.vibes.grwm"
     fullname: >-
-      Nicki Baber
+      hi
+    bio: >-
+      tysm for 22k! tpwk she/her
     location: "United States"
-    followers: 5033134
-    engagement: 2245
-    commentsToLikes: 0.019367
-    id: ck83yswyvvfka0j781uns1b5e
-    verified: true
-    hashtags: "#cookingtips, #transition, #astrology, #tiktokscience"
-  - username: "williamsheats"
-    fullname: >-
-      williamsheats
-    location: "United States"
-    followers: 232461
-    engagement: 3279
-    commentsToLikes: 0.024171
-    id: ck9pmafws8gsr0j787llk14we
-    verified: true
-    hashtags: "#metgala, #ilovehim, #arianagrande, #cover"
-  - username: "jesssica.le"
-    fullname: >-
-      jessica le
-    location: "United States"
-    followers: 7708
-    engagement: 2114
-    commentsToLikes: 0.058673
-    id: ck99a9t8agot80j78a00sa18l
+    followers: 22200
+    engagement: 2688
+    commentsToLikes: 0.088966
+    id: ckcotog7y8gcj0j23u5nw957v
     verified: false
-    hashtags: "#getalife, #stitch, #yearbook2020, #joji"
-  - username: "bsbl101"
+    hashtags: "#avocadotoast, #urbanoutfitters, #vlog, #tppaudition2big"
+  - username: "gym_sharky33"
     fullname: >-
-      Baseball Lifestyle 
+      getty_san
+    bio: >-
+      🇵🇭 🇺🇸Bayarea Daddy Shark All smiles no hate 10k? 🤪
     location: "United States"
-    followers: 68998
-    engagement: 1853
-    commentsToLikes: 0.051256
-    id: ck97832as6iy40j78m4zi9tny
+    followers: 27200
+    engagement: 665
+    commentsToLikes: 0.093062
+    id: ckbqudx7heuj20j23wqzi0id2
     verified: false
-    hashtags: "#dingersonly, #merch, #tiktokrestarea, #homeproject"
-  - username: "ashgurl91"
+    hashtags: "#vibe, #foryoupage, #pinoy, #over40"
+  - username: "marlenahudson"
     fullname: >-
-      🌻🔞Ashleigh🔞🍍
+      Marlena Hudson
+    bio: >-
+      YouTube: Marlena Hudson Instagram: marlenahudson_ Big sister of lilhuddy
     location: "United States"
-    followers: 7874
-    engagement: 1505
-    commentsToLikes: 0.078255
-    id: cka9ou3hq65dq0i78reewnaei
+    followers: 471800
+    engagement: 1621
+    commentsToLikes: 0.025151
+    id: ckbqq74prb24c0j23mldteh8g
     verified: false
-    hashtags: "#trends, #hardlimits, #repost, #fetlife"
+    hashtags: "#youtube, #fyp, #xyzbca, #video"
+  - username: "apathhhh"
+    fullname: >-
+      alicia path
+    bio: >-
+      mi ♡ insta - alicia_path ☆
+    location: "United States"
+    followers: 49800
+    engagement: 1451
+    commentsToLikes: 0.015886
+    id: ck7zoic4fkazc0j78fosywrw5
+    verified: false
+    hashtags: "#michigan, #cali, #foryoupage, #summer"
+  - username: "jaaylinh"
+    fullname: >-
+      Jenny 🦋
+    bio: >-
+      19 | oakland | D.N follow my IG🤍
+    location: "United States"
+    followers: 4586
+    engagement: 953
+    commentsToLikes: 0.041638
+    id: ckbf7x7wdy1vc0j23tq1iqt4r
+    verified: false
+    hashtags: "#asian, #viet, #foryou, #sneakerhead"
 ---

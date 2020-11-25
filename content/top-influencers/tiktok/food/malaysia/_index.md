@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Malaysia In 2020
 description: >-
-  Find top food TikTok influencers in Malaysia in 2020. Most popular hashtags: #dessert #streetfood #stayathome #ilovefood.
+  Find top food TikTok influencers in Malaysia in 2020. Most popular hashtags: #food #tiktokfood #foodie #dessert.
 platform: TikTok
+hits: 28
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 28 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "ddjt_food_journey"
     fullname: >-
-      DDJT Food Journeys
+      DDJT Food Journey
+    bio: >-
+      Its All About Food. The ingredient that binds us together. ❤️🌎🤝🌍🤝🌏❤️
     location: "Malaysia"
-    followers: 5427
-    engagement: 479
-    commentsToLikes: 0.002752
+    followers: 8446
+    engagement: 945
+    commentsToLikes: 0.016779
     id: ck8f6u4ol2sd60j780v7rmmse
     verified: false
-    hashtags: "#caramelchicken, #recipe, #spaghetti, #cookfood"
-  - username: "foodiemy"
+    hashtags: "#kakimakan, #foods, #resepimudah, #resepi"
+  - username: "chishikuzan88"
     fullname: >-
-      Foodie
+      🥀Chishikuzan🐈
+    bio: >-
+      ALL ABOUT ANIME🤹🏻‍♀️,FOOD🍰,RELAXING MUSIC🎹,follow me🥀 enjoy....
     location: "Malaysia"
-    followers: 246306
-    engagement: 429
-    commentsToLikes: 0.008623
-    id: ck83z98vfytyh0j78i500d3s0
-    verified: true
-    hashtags: "#cute, #recipe, #dalgonaffogatochallenge, #tiktokfoodie"
+    followers: 267500
+    engagement: 738
+    commentsToLikes: 0.009756
+    id: ck83wx81cmpj00j7854rnh28j
+    verified: false
+    hashtags: "#sadvideo, #shortvideo, #editvideo, #dumpling"
+  - username: "venuswongs"
+    fullname: >-
+      VenusWongs 玩美瘦身
+    bio: >-
+      Slim Food Recipes & Fitness Lifestyle FB: VenusWongs99 venuswongs96@gmail.com
+    location: "Malaysia"
+    followers: 3247
+    engagement: 447
+    commentsToLikes: 0.014034
+    id: ckbl44u3s1jrm0j23cjxrb4i8
+    verified: false
+    hashtags: "#slim, #tiktokclassroom, #wrap, #egg"
+  - username: "pj.foodie"
+    fullname: >-
+      PJ Foodie
+    bio: >-
+      Discovering all the best food in Petaling Jaya one plate at a time.
+    location: "Malaysia"
+    followers: 4810
+    engagement: 417
+    commentsToLikes: 0.003300
+    id: ckbqepptq0flr0j23v7uj5f36
+    verified: false
+    hashtags: "#meegoreng, #sedapgiler, #crispy, #spicyfood"
   - username: "bangkokfoodie"
     fullname: >-
       Bangkok Foodie
+    bio: >-
+      #1 Food Channel In Bangkok, Thailand! 🇹🇭
     location: "Malaysia"
-    followers: 37840
-    engagement: 403
-    commentsToLikes: 0.008773
+    followers: 71300
+    engagement: 515
+    commentsToLikes: 0.006779
     id: ck9gkosdzkn620j782n2j3k4j
     verified: false
-    hashtags: "#cafe, #stayathome, #cafebangkok, #milo"
+    hashtags: "#food, #tiktok, #foryou, #foryoupage"
+  - username: "nyaoko.attack"
+    fullname: >-
+      にゃお子。ℕ𝕪𝕒𝕠𝕜𝕠🧸
+    bio: >-
+      🇯🇵+🇲🇾+Cosplayer ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚ My wish is make everyone smile by my video
+    location: "Malaysia"
+    followers: 32700
+    engagement: 794
+    commentsToLikes: 0.029699
+    id: ckbqfjtnb15vq0j23yiy86cu2
+    verified: false
+    hashtags: "#cosplay, #abigail, #fgocosplay, #foodporn"
+  - username: "nisha1807"
+    fullname: >-
+      NaliniNisha
+    bio: >-
+      Keep Smiling Always Insta - nalininisha_official Spread ❤️
+    location: "Malaysia"
+    followers: 124000
+    engagement: 1105
+    commentsToLikes: 0.023145
+    id: ckbqqvcambo920j23bo23c41g
+    verified: false
+    hashtags: "#justforfun, #nalininisha, #foodlover, #namakkesoruthanmukkiyam"
   - username: "ivycher"
     fullname: >-
-      ivy 🥚🥞🥪🍳
+      IvyCher
+    bio: >-
+      Full Recipe is on my Instagram! 💌 ivycher06@gmail.com
     location: "Malaysia"
-    followers: 164282
-    engagement: 2069
-    commentsToLikes: 0.005353
+    followers: 236300
+    engagement: 1980
+    commentsToLikes: 0.005552
     id: ck90y6tgq9fq80j78eb0sxdp3
     verified: false
-    hashtags: "#pancake, #xyzbca, #flan, #soufflepancake"
-  - username: "jatt_mafia786"
-    fullname: >-
-      Jatt.com
-    location: "Malaysia"
-    followers: 93545
-    engagement: 975
-    commentsToLikes: 0.032586
-    id: ck9a32hyroswk0j787n35asbl
-    verified: false
-    hashtags: "#operasi, #lockdown, #special, #finalsathome"
-  - username: "johnsom.eattravel"
-    fullname: >-
-      Johnsom阿勇-旅游美食TV
-    location: "Malaysia"
-    followers: 13636
-    engagement: 409
-    commentsToLikes: 0.012040
-    id: ck9fwzt783wpg0j78zk6hxczi
-    verified: false
-    hashtags: "#seapark, #facepuzzle, #dessert, #otak"
+    hashtags: "#tiktokguru, #foryou, #youngcreators, #dessert"
   - username: "sheikhnizham"
     fullname: >-
       Sheikh Nizham
+    bio: >-
+      🇲🇾🤵
     location: "Malaysia"
-    followers: 3638
-    engagement: 281
-    commentsToLikes: 0.016171
+    followers: 3626
+    engagement: 291
+    commentsToLikes: 0.015284
     id: ck9pm98zn85je0j78986eq0bo
     verified: false
-    hashtags: "#foodislife, #singapenney, #fruit, #briyanilovers"
-  - username: "petsmemes_official"
+    hashtags: "#tamil, #tamiltiktok, #malaysia, #tiktokfood"
+  - username: "johnsom.eattravel"
     fullname: >-
-      Petsmemes_official
+      Johnsom阿勇-旅游美食TV
+    bio: >-
+      Youtube: 阿勇Johnsom-旅遊美食TV FB : 阿勇Johnsom-旅遊美食TV ⬇️ Subscribe me now⬇️
     location: "Malaysia"
-    followers: 5837
-    engagement: 503
-    commentsToLikes: 0.018905
-    id: cka0k7grole8d0i78f77lweso
+    followers: 14200
+    engagement: 433
+    commentsToLikes: 0.010016
+    id: ck9fwzt783wpg0j78zk6hxczi
     verified: false
-    hashtags: "#ticktoker, #strawberrylove, #tiktokusa, #foodielife"
-  - username: "mariyalulana.72"
-    fullname: >-
-      Nurul Izzati
-    location: "Malaysia"
-    followers: 3764
-    engagement: 275
-    commentsToLikes: 0.017733
-    id: ck83wx7jxmpgm0j787ld8z6ov
-    verified: false
-    hashtags: "#cucurmanis, #notforyou, #yummychallenge, #ilovecook"
-  - username: "malaysia_waly_bhatti"
-    fullname: >-
-      Ch Shahid Ali Bhatti
-    location: "Malaysia"
-    followers: 11181
-    engagement: 1470
-    commentsToLikes: 0.087704
-    id: cka6obryxev4g0i78bqps3kcm
-    verified: false
-    hashtags: "#happymothersday, #familytime, #gonnabefriends, #losingmymind"
+    hashtags: "#stayathome, #cooking, #tiktokmalaysia, #tiktokfood"
 ---

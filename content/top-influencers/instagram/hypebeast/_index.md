@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In 2020
 description: >-
-  Find top hypebeast Instagram influencers in 2020. Most popular hashtags: #staysafe #offwhite #jordan1 #hypebeast.
+  Find top hypebeast Instagram influencers in 2020. Most popular hashtags: #publicity254 #vscokenya #iamnairobian.
 platform: Instagram
+hits: 2285
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 2285 Instagram influencers like this for you to pitch.
 profiles:
   - username: "baderalsafar"
     fullname: >-
       Bader Al Safar
+    bio: >-
+      “Hypebeast” Business inquiries: 📧 info.baderalsafar@gmail.com 🎵TikTok: baderalsafar (1.4M+) 👻Snapchat: baderalsafar
     location: "United States"
-    followers: 178069
-    engagement: 1371
-    commentsToLikes: 0.031934
+    followers: 270107
+    engagement: 1283
+    commentsToLikes: 0.076675
     id: ck8sx8b4vghr00j78djevba70
     verified: false
-    hashtags: "#stayhome, #mnml, #gemelos"
-  - username: "andrew.273"
+    hashtags: "#blacklivesmatter, #mnmldenim, #stadiumgoodspartner, #mnml"
+  - username: "white.niccur_"
     fullname: >-
-      Streetwear | Andy
-    location: "Germany"
-    followers: 7517
-    engagement: 1394
-    commentsToLikes: 0.134153
-    id: ck5cjvq58vlkf0i11zo8xd0zc
+      👑 WHITYYY 👑
+    bio: >-
+      bRANd MARKETER PRODUCT PROMOTION STREETWEAR HYPEBEAST PHOTOGRAPHY LOVER
+    location: "United States"
+    followers: 37942
+    engagement: 928
+    commentsToLikes: 0.092748
+    id: ckaov8bmq3he90i786j5delc0
     verified: false
-    hashtags: "#streetbeast, #stayathome, #sneakeraddicts, #nikesonmyfeet"
-  - username: "yvngrice"
-    fullname: >-
-      🍚 romulus 🍚
-    location: "Canada"
-    followers: 11872
-    engagement: 2270
-    commentsToLikes: 0.046188
-    id: ck8wfx1ecge400j78177l4upr
-    verified: false
-    hashtags: "#supreme, #offwhite, #abathingape, #jordan1"
-  - username: "_pokot_niccur"
-    fullname: >-
-      MARCREY STEEPH
-    location: "Japan"
-    followers: 91438
-    engagement: 270
-    commentsToLikes: 0.262071
-    id: ck8td2alq1kdg0j780kbnmrqw
-    verified: false
-    hashtags: "#igersdaily, #hairtutorial, #igersnairobi, #gainwithhakeem"
-  - username: "celinajadakerr"
-    fullname: >-
-      Celina Jada Kerr
-    location: "Germany"
-    followers: 28343
-    engagement: 1567
-    commentsToLikes: 0.021902
-    id: ck5hclxbtir5g0i11wrprl4cs
-    verified: false
-    hashtags: "#phonebleaching, #smilealways, #balenciaga, #nike"
+    hashtags: "#takip, #chuvadeseguidores, #publicity254, #igerskenya"
   - username: "armenkeleshian"
     fullname: >-
       ARMEN 📸
+    bio: >-
+      Complex Top 30 Music Photographer Published in: The New York Times | Rolling Stone | Billboard | GQ | Complex | Highsnobiety | Hypebeast | Revolt..
     location: "United States"
-    followers: 33672
-    engagement: 812
-    commentsToLikes: 0.018567
+    followers: 34654
+    engagement: 661
+    commentsToLikes: 0.025882
     id: ck14kg59ppcxj0i19spamfby8
     verified: false
+    hashtags: "#blackouttuesday, #justiceforgeorgefloyd, #artsakhstrong, #systemofadownforever"
+  - username: "mohamedalsafar"
+    fullname: >-
+      Mohamed Al Safar
+    bio: >-
+      Just Your Friendly Neighborhood Hypebeast 📍Dubai | Los Angeles | Bahrain ▶️ YouTube: Mohamed Al Safar TikTok: Mohamed.AlSafar Blessed 👨‍👩‍👧‍👦 🇧🇭
+    location: "United Arab Emirates"
+    followers: 57365
+    engagement: 1098
+    commentsToLikes: 0.065176
+    id: ckap23xcrx9g10i78h9qs7t75
+    verified: false
+    hashtags: "#selectshopframe, #framerelease, #nikesbdxb, #frameskate"
+  - username: "toranorth"
+    fullname: >-
+      tora northman
+    bio: >-
+      swedish editor @hypebae/@hypebeast 📍london
+    location: "United Kingdom"
+    followers: 31070
+    engagement: 394
+    commentsToLikes: 0.024560
+    id: ck6ua0a9e0qcy0j71jg1az8tn
+    verified: false
     hashtags: ""
-  - username: "ggclx"
+  - username: "bukunmigrace"
     fullname: >-
-      Gaby
-    location: "Canada"
-    followers: 13459
-    engagement: 603
-    commentsToLikes: 0.065943
-    id: ck0uesx3nm5a00i19do5i46n4
-    verified: false
-    hashtags: "#happyvalentinesday, #valentinesday2020, #stayhome, #staysafe"
-  - username: "fortuthegamer"
-    fullname: >-
-      Lucas
-    location: "Italy"
-    followers: 10456
-    engagement: 938
-    commentsToLikes: 0.028580
-    id: ck8wdf5yfdr1f0j78s9uqgqpo
-    verified: false
-    hashtags: "#iorestoacasa, #yeezy, #black, #boost"
-  - username: "peachandsmoothie"
-    fullname: >-
-      "Streetwear by Gianluca"
-    location: "Germany"
-    followers: 14475
-    engagement: 945
-    commentsToLikes: 0.057278
-    id: ck15s995ybver0i199wycjvxh
-    verified: false
-    hashtags: "#fashioninsta, #sneakerlove, #fitrotation, #icedout"
-  - username: "its._yusuf"
-    fullname: >-
-      ~POOR BILLIONAIRE🔫
+      B U K U N M I
+    bio: >-
+      🕊Photographer | Stylist | ArtDir.🕊 Clients Incld -> Amex | Complex | Finishline | Highsnobiety | Hypebeast | Instagram | Maserati | Nike | Vogue etc.🕊
     location: "United States"
-    followers: 28803
-    engagement: 306
-    commentsToLikes: 0.101032
-    id: ckaov7itb3e010i78x82kiwye
+    followers: 69470
+    engagement: 191
+    commentsToLikes: 0.079991
+    id: ck5bznzrhris40i114nqueagf
+    verified: true
+    hashtags: "#fashion, #streetwear, #bukuphoto, #photography"
+  - username: "munich_style"
+    fullname: >-
+      Max
+    bio: >-
+      Hypebeast ✉️ munich_style@gmx.de
+    location: "Germany"
+    followers: 82970
+    engagement: 278
+    commentsToLikes: 0.012680
+    id: ck0w431iqwk3a0i19gn455851
     verified: false
-    hashtags: "#gucci, #fashionkenya, #trending, #vscokenya"
+    hashtags: "#beerpongtable, #cadeifratiaddicted, #drinkwithstyle, #crazyaboutstevemadden"
+  - username: "sultanofficial"
+    fullname: >-
+      Vikrant Negi
+    bio: >-
+      Music Manager By Profession 🎹 Hip Hop Influencer By Proficiency ♟ Hypebeast By Preference 👟 Youtuber By Passion 📷
+    location: "India"
+    followers: 16179
+    engagement: 482
+    commentsToLikes: 0.646281
+    id: ck602n0lli2tk0i14bj8qhwsx
+    verified: false
+    hashtags: "#hypebeastindia, #allstreetwear, #jordan, #bestofstreetwear"
+  - username: "lookinspecta"
+    fullname: >-
+      Andy💎👑
+    bio: >-
+      Let your inspiration be inspired by my style 🌹 Beast mode🍁💯 Designer @hypebeast_essentialss 🇰🇪
+    location: "United States"
+    followers: 5854
+    engagement: 303
+    commentsToLikes: 0.032350
+    id: ckf5vtf38pue70j2370hllm65
+    verified: false
+    hashtags: "#minimalmovement, #mydailystreet, #gucci, #gainwithspikes"
+  - username: "mauriziopurificato"
+    fullname: >-
+      Maurizio Purificato
+    bio: >-
+      Co-Founder @antoniamilano Co-Founder @khrisjoy_official Exclusive Agency 🇮🇹 @hypebeast
+    location: "Italy"
+    followers: 4984
+    engagement: 1150
+    commentsToLikes: 0.077582
+    id: ck6ts8mhs3cm20j71jdaljig4
+    verified: false
+    hashtags: "#mom, #daughter, #langosteriamilano, #stefanoroncato"
 ---

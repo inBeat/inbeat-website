@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists TikTok Influencers In Canada In 2020
 description: >-
-  Find top stylists TikTok influencers in Canada in 2020. Most popular hashtags: #stylist #tiktok #homeproject #ootd.
+  Find top stylists TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #stylist #fashion.
 platform: TikTok
+hits: 20
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 20 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "hibaottawa"
     fullname: >-
       Hiba
+    bio: >-
+      Lebanese Canadian 🇱🇧 🇨🇦 Food, pet owner, artist, stylist, traveler✈
     location: "Canada"
-    followers: 63839
-    engagement: 891
-    commentsToLikes: 0.115095
+    followers: 84600
+    engagement: 922
+    commentsToLikes: 0.051526
     id: ck9nd0592ceos0j78mgvnxupt
     verified: false
-    hashtags: "#saudiarabia, #kuwait, #timhortons, #animals"
+    hashtags: "#westbankapparel, #lebanon, #arab"
   - username: "craig_major"
     fullname: >-
       craigmajor
+    bio: >-
+      Im a Fashion stylist and model based in Montreal! Enjoy life! 👖👟IG @craigmajor
     location: "Canada"
-    followers: 31312
-    engagement: 830
-    commentsToLikes: 0.021082
+    followers: 71500
+    engagement: 913
+    commentsToLikes: 0.020238
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#gwenstefani, #stupidlove, #funkytown, #perfecto"
+    hashtags: "#love, #dance, #boy, #fun"
+  - username: "stylebykris"
+    fullname: >-
+      Kristine Dalida-Cruz
+    bio: >-
+      👗Fashion Stylist 🇨🇦Vancouver🇵🇭 📩 kddalida@yahoo.com.ph
+    location: "Canada"
+    followers: 22900
+    engagement: 418
+    commentsToLikes: 0.098937
+    id: ckb9exrt7312x0j239w8pv4ml
+    verified: false
+    hashtags: "#fallfashion2020, #styletip, #fashionnovahaul, #cuzettequeens"
   - username: "jaclynhdesigns"
     fullname: >-
       Jaclyn Harper
+    bio: >-
+      HGTV Stylist & TV Host Design/Decor/Styling Videos 👉🏻👈🏻IG @jaclynhdesigns
     location: "Canada"
-    followers: 114681
-    engagement: 416
-    commentsToLikes: 0.018527
+    followers: 149100
+    engagement: 462
+    commentsToLikes: 0.025224
     id: ck8hk5cvvcfpf0j7820x9i7lf
-    verified: false
-    hashtags: "#johnnyorlando, #throwback, #decisions, #greenthumb"
-  - username: "momohkd"
+    verified: true
+    hashtags: "#paintcolours, #boostyourmood, #getthelook, #interiordesign"
+  - username: "maialuna99"
     fullname: >-
-      monettehkd
+      user6481985368443
+    bio: >-
+      @lovee_lunaa 💕 @maia_sohlberg
     location: "Canada"
-    followers: 32543
-    engagement: 1278
-    commentsToLikes: 0.016521
-    id: ck9rp5uksfy460j780wldwtd9
+    followers: 19500
+    engagement: 2062
+    commentsToLikes: 0.012198
+    id: ck83wz7lpn7il0j78d0tyhrm0
     verified: false
-    hashtags: "#realityripple, #ootd, #outfitchange, #dinoday"
-  - username: "zhannaredneva"
+    hashtags: "#4you, #thriftstore, #fyp, #eco"
+  - username: "sweetpeaandnoelle"
     fullname: >-
-      Zhanna Red
+      Sweet Pea & Noelle
+    bio: >-
+      Bridal boutique in YQR dropping some wedding humour. IG: @sweetpeaandnoelle
     location: "Canada"
-    followers: 27755
-    engagement: 755
-    commentsToLikes: 0.022030
-    id: ck8tpr45vqiui0j78pjkwl0is
+    followers: 97100
+    engagement: 1120
+    commentsToLikes: 0.005739
+    id: ckcp61m2ecyrn0j23y454z67j
     verified: false
-    hashtags: "#tiktokprom, #lifeathome, #foxeyetrend, #icanrelare"
-  - username: "alsugistyle"
+    hashtags: "#wedding, #weddingplanning, #weddingdress, #weddingtiktok"
+  - username: "lovefashionbyshan"
     fullname: >-
-      Alsugistyle
+      lovefashionbyshana
+    bio: >-
+      Shana MTL🇨🇦📍 Persian 🇮🇷 CEO of changing outfits 👠
     location: "Canada"
-    followers: 7753
-    engagement: 171
-    commentsToLikes: 0.036139
-    id: cka69k6x9stx30i78cfah0jjo
+    followers: 34200
+    engagement: 585
+    commentsToLikes: 0.048191
+    id: ckai8obkd539g0i78seoxi18i
     verified: false
-    hashtags: "#agechallange, #salad, #outfitchallenge, #outfitchange"
-  - username: "roopmandeep_13"
+    hashtags: "#transformation, #montreal, #fashion101, #persian"
+  - username: "framarint"
     fullname: >-
-      Roop Gill 
+      Framar
+    bio: >-
+      Fun Hair & Beauty Tools Use #framar to be featured! 💃🏻
     location: "Canada"
-    followers: 89259
-    engagement: 367
-    commentsToLikes: 0.004301
-    id: ck9r70phh68200j782rzqv67o
+    followers: 25600
+    engagement: 1540
+    commentsToLikes: 0.027178
+    id: ck8fc5qut6oh00j780svb0h0c
     verified: false
-    hashtags: "#blackmask, #mandeep, #done, #vancoavr"
-  - username: "emadamsxo"
+    hashtags: "#framar, #hairfoil, #newhairlook, #vibranthair"
+  - username: "shadorachambers"
     fullname: >-
-      Emily Adams
+      chi 
+    bio: >-
+      22/🇯🇲in 🇨🇦 Check out my vlogs on YouTube:) jst another avatar stan 🌊🔥🌬
     location: "Canada"
-    followers: 2930
-    engagement: 599
-    commentsToLikes: 0.097670
-    id: ck806x4limqdl0j7827dg673l
+    followers: 3923
+    engagement: 897
+    commentsToLikes: 0.027575
+    id: ckbkq6sllkhyl0j237ora3xv2
     verified: false
-    hashtags: "#daytonightlook, #positivevibes, #tips, #stylesteal"
-  - username: "sadlerupnails"
+    hashtags: "#foryou, #foryoupage, #fyp, #4u"
+  - username: "kav1111"
     fullname: >-
-      Sadler Up Nails
+      Kav_hair
+    bio: >-
+      
     location: "Canada"
-    followers: 158246
-    engagement: 2006
-    commentsToLikes: 0.008898
-    id: ck806wwvfmoqq0j78f751dyl9
+    followers: 2405
+    engagement: 973
+    commentsToLikes: 0.020363
+    id: ckbff48d39j8d0j23evqrq84c
     verified: false
-    hashtags: "#hustlecheck, #money, #tinydiamond, #promnails"
-  - username: "babbu2412"
-    fullname: >-
-      Barneet Kaur Brar
-    location: "Canada"
-    followers: 287186
-    engagement: 1234
-    commentsToLikes: 0.022376
-    id: ck97xnzabw4hs0j7839u2aju6
-    verified: false
-    hashtags: "#shehnaazgill, #newone, #punjabidialouge, #malwedijatti"
+    hashtags: "#fyp, #salon, #hair, #lipsync"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Singapore In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Singapore in 2020. Most popular hashtags: #circuitbreaker #stayathome #sgunited #giveawaysg.
+  Find top lifestyle Instagram influencers in Singapore in 2020. Most popular hashtags: #sp #singapore #igsg.
 platform: Instagram
+hits: 45
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 45 Instagram influencers like this in Singapore for you to contact.
 profiles:
-  - username: "coolmommy_konnect"
-    fullname: >-
-      Namita Sinha
-    location: "Singapore"
-    followers: 6793
-    engagement: 1042
-    commentsToLikes: 0.109385
-    id: ck8syei3fkle90j78fr5e1273
-    verified: false
-    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
   - username: "lihuijapanlove"
     fullname: >-
       Lihui利慧| Singapore新加坡🇸🇬
+    bio: >-
+      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
     location: "Singapore"
-    followers: 31672
-    engagement: 462
-    commentsToLikes: 0.083305
+    followers: 35860
+    engagement: 315
+    commentsToLikes: 0.101387
     id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: "#getskinhappy, #aveenobody, #cityhotpot, #choosehealthy"
+    hashtags: "#sp, #tokyobustexpress, #passionationsg, #72hourswear"
+  - username: "jauzchen"
+    fullname: >-
+      Jauz Chen
+    bio: >-
+      Parenting 🤱 Lifestyle 🌴 Food 🍳 Mum of 15yo twins 👭 + 9 mths 👶🏻 💌 DM for Collab | Reviews | Events Jauz.chen@gmail.com @favesofficial Personality
+    location: "Singapore"
+    followers: 3991
+    engagement: 784
+    commentsToLikes: 0.560142
+    id: ck6u1far0ldzd0j71wrl9ouh4
+    verified: false
+    hashtags: "#happybaby, #instakids, #sgig, #ootd"
   - username: "tylomere"
     fullname: >-
-      Tyler Koh 🌱
+      Tyler 🌱
+    bio: >-
+      Travel . Beauty . Lifestyle . Food #tylomeregreatescape 👷🏻 Physiotherapy student 💁🏻‍♂️TGY Finalist 📩 tylomere@yahoo.com.sg
     location: "Singapore"
-    followers: 19725
-    engagement: 686
-    commentsToLikes: 0.033101
+    followers: 20345
+    engagement: 398
+    commentsToLikes: 0.036206
     id: ck5cgzj3apu9c0i11ascv8ghh
     verified: false
-    hashtags: "#zalorasg, #thelittleprince, #mountbromo, #cottoncandyskies"
+    hashtags: "#sp, #tylomeregreatescape, #partipost, #zinussg"
+  - username: "cpoyee"
+    fullname: >-
+      Poyee C | Content Creator
+    bio: >-
+      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO 📸新加坡Vlog Part 2 ⇩
+    location: "Singapore"
+    followers: 19403
+    engagement: 403
+    commentsToLikes: 0.038067
+    id: ckaozf9h0lmlf0i78hys4dhue
+    verified: false
+    hashtags: "#poyeeslifestyle, #aroundtheworldwithdorsett, #sudiohk, #macfixplusvibes"
+  - username: "dianabakar_"
+    fullname: >-
+      Diana Bakar ♥️
+    bio: >-
+      Lifestyle 💃 24 , SG 🇸🇬 💐My flower shop: 🌸 @bebeblumen 🌸 💼Managed by: @titandigitalmedia ,@crayeightstudios
+    location: "Singapore"
+    followers: 51874
+    engagement: 450
+    commentsToLikes: 0.012072
+    id: ck5hjwzarhe8s0i11z0p32lw6
+    verified: false
+    hashtags: ""
+  - username: "clairejedrek"
+    fullname: >-
+      Presenter /  Media
+    bio: >-
+      PRESENTER| Motorsport | Lifestyle | TEDx Speaker British S’pore Race Driver Hosting :Clairejedrek@gmail.com
+    location: "Singapore"
+    followers: 26078
+    engagement: 175
+    commentsToLikes: 0.023291
+    id: ck6tynwvm4ty70j71132n77iy
+    verified: false
+    hashtags: "#skodakodiaq, #singapore, #charlylouisetan, #olitylertan"
+  - username: "intoxincant"
+    fullname: >-
+      Xinyi | Creator 🇸🇬
+    bio: >-
+      📸 Portraits • Events • Lifestyle Fashion 💌 reach@arkivalstudios.com for work 👩🏻‍💻📹 Head Wedding Filmmaker @darrenandjade @xinyi.atp
+    location: "Singapore"
+    followers: 2241
+    engagement: 1096
+    commentsToLikes: 0.038706
+    id: ck0w2oscdpgf70i19h30scot9
+    verified: false
+    hashtags: "#thestagewalk, #shotoniphone, #lovebyilo, #sonysingapore"
   - username: "kaitinghearts"
     fullname: >-
       Kaiting Cheng
+    bio: >-
+      🌈 Lifestyle & beauty 🇸🇬 Based in Singapore 🏠 Real Estate Agent - check out IGTV 💌 chengkaiting@gmail.com
     location: "Singapore"
-    followers: 23797
-    engagement: 237
-    commentsToLikes: 0.053338
+    followers: 23707
+    engagement: 164
+    commentsToLikes: 0.101817
     id: ck5hh8kxn6y4t0i11226wcjhx
     verified: false
-    hashtags: "#sgbeauty, #sunscreen, #mediesthesg, #aquauvdaycream"
-  - username: "selmakeziaa"
+    hashtags: "#sp, #tokyobustexpress, #asianskinsolutions, #preeminentgroup"
+  - username: "syafiqlee17"
     fullname: >-
-      Kezia 🦄
+      Syafiq Lee
+    bio: >-
+      🇸🇬 🇲🇾 "𝘐'𝘮 𝘓𝘪𝘷𝘪𝘯𝘨 𝘓𝘪𝘧𝘦 𝘛𝘰 𝘛𝘩𝘦 𝘍𝘶𝘭𝘭𝘦𝘴𝘵." Chinese Muslim Fashion | Quotes | Lifestyle 📧 syafiqlee17@gmail.com
     location: "Singapore"
-    followers: 12045
-    engagement: 937
-    commentsToLikes: 0.017635
-    id: ck5hqiqett6fx0i11q9n0dfgw
+    followers: 17391
+    engagement: 230
+    commentsToLikes: 0.004042
+    id: ckaotqlvmx23n0i783gl9ke15
     verified: false
-    hashtags: "#dewycelcushion, #obatherbal, #sekarangmileasamatangolagi, #tangoxmilea"
-  - username: "imamemy"
-    fullname: >-
-      imam shah
-    location: "Singapore"
-    followers: 59086
-    engagement: 274
-    commentsToLikes: 0.019197
-    id: ck0w6qnwc9u6a0i19utmjqx35
-    verified: false
-    hashtags: "#stayathome, #sgunited, #stayhome, #ryanzack"
-  - username: "rachwsj"
-    fullname: >-
-      RACHEL ALEXA WONG | 黄诗珺
-    location: "Singapore"
-    followers: 24412
-    engagement: 261
-    commentsToLikes: 0.019562
-    id: ck6u86uw9prxs0j71n1g2peeq
-    verified: false
-    hashtags: "#koreanlash, #apmmonaco, #pomelogirls, #nextgenhydration"
-  - username: "jujujucloe"
-    fullname: >-
-      CLOE [Juju]
-    location: "Singapore"
-    followers: 33486
-    engagement: 222
-    commentsToLikes: 0.059493
-    id: ck0tv4fd29vz50i19p9sp3jc6
-    verified: false
-    hashtags: "#chooseyourcharacter, #tiktokwithju, #pandoramothersday, #onthelistsg"
+    hashtags: "#sentosaisland, #theshoppesmbs, #silosobeach, #nofilter"
   - username: "so.gelly"
     fullname: >-
       GELLY-
+    bio: >-
+      What is life without bad puns and fat animals. 🌚 📍SG 🇸🇬 📱iPhone 11 📸Leica CL / Sony A7M3 Lifestyle | Fashion | Beauty | Food | Travel
     location: "Singapore"
-    followers: 20910
-    engagement: 417
-    commentsToLikes: 0.106504
+    followers: 20804
+    engagement: 348
+    commentsToLikes: 0.105631
     id: ck6ugwgch5ksw0j71z4lz5sj8
     verified: false
-    hashtags: "#kindredfolksg, #igokochisg, #the1925jc, #gelato"
-  - username: "clairejedrek"
-    fullname: >-
-      Presenter Sport / Lifestyle
-    location: "Singapore"
-    followers: 25176
-    engagement: 253
-    commentsToLikes: 0.118168
-    id: ck6tynwvm4ty70j71132n77iy
-    verified: false
-    hashtags: "#covid, #mumssg, #sgkids, #breastfeeding"
+    hashtags: "#sglookbook, #instagramsg, #ootdsg, #tslmakan"
 ---

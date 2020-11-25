@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Greece In 2020
 description: >-
-  Find top christian Instagram influencers in Greece in 2020. Most popular hashtags: #europe #monastery #visitgreece #christian.
+  Find top christian Instagram influencers in Greece in 2020. Most popular hashtags: #greece #love #instagram #summer.
 platform: Instagram
+hits: 44
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 44 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "animado_official"
+  - username: "christianaari"
     fullname: >-
-      𝗠𝗮𝗿𝗶𝗹𝗲𝗻𝗮 𝗔𝗻𝗶𝗺𝗮𝗱𝗼 🔹️
+      Christiana
+    bio: >-
+      𝕎𝕠𝕣𝕜𝕚𝕟𝕘 𝕞𝕠𝕥𝕙𝕖𝕣 𝕠𝕗 𝕥𝕨𝕠 👧🏼👶🏼 💖💖 📺𝕋𝕧 ℙ𝕣𝕖𝕤𝕖𝕟𝕥𝕖𝕣 📻ℝ𝕒𝕕𝕚𝕠 ℙ𝕣𝕠𝕕𝕦𝕔𝕖𝕣 Το πιο όμορφο δώρο που μας έχει δοθεί είναι η ίδια η ζωή.
     location: "Greece"
-    followers: 23209
-    engagement: 676
-    commentsToLikes: 0.021957
-    id: ck15sox99e37i0i19f933l4bt
+    followers: 96201
+    engagement: 685
+    commentsToLikes: 0.013885
+    id: ck5hjtc58h7sp0i11bithce8z
     verified: false
-    hashtags: "#blackhairstyle, #discoball, #balconyliving, #backstagelive"
-  - username: "sanelfath"
+    hashtags: "#birthday, #family, #blessed, #marksandspencercyprus"
+  - username: "christiana_karnezi"
     fullname: >-
-      sanelfath
+      Christiana karnezi
+    bio: >-
+      𝓶𝓸𝓭𝓮𝓵 , 𝓪𝓬𝓽𝓻𝓮𝓼𝓼 ❤❤❤❤ 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝔂𝓸𝓾𝓻 𝓭𝓻𝓮𝓪𝓶𝓼...
     location: "Greece"
-    followers: 5987
-    engagement: 1268
-    commentsToLikes: 0.025875
-    id: ck55o2lil7i9d0i11zejs8r28
+    followers: 26273
+    engagement: 605
+    commentsToLikes: 0.012361
+    id: ckaosqt7rsoio0i78zp61n8xk
     verified: false
-    hashtags: "#precious, #away, #muslim, #flower"
-  - username: "tsaprasli"
+    hashtags: "#christianakarnezi, #surfgirl, #makeup, #delfinario2020"
+  - username: "stella.christoforou"
     fullname: >-
-      Christ
+      Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
+    bio: >-
+      God first ✝️ Made in Greece 🇬🇷
     location: "Greece"
-    followers: 2478
-    engagement: 3431
-    commentsToLikes: 0.067840
-    id: ck8t4lvtm78ed0j78t1s64xvs
+    followers: 93160
+    engagement: 623
+    commentsToLikes: 0.023072
+    id: ck6ubtihpbm480j7100ccqbbw
     verified: false
-    hashtags: "#totalthrough, #totalshot, #focus, #cape"
-  - username: "thaleinio"
+    hashtags: "#fitnessgirl, #fitnessgirls, #bodybuilding, #fitnesslife"
+  - username: "linouz"
     fullname: >-
-      Thaleia Ioannou
+      Lina Giofka | Greece | Napoli
+    bio: >-
+      1. #staysafe 🎓 BS #Marketer 🎓 PgD #Digitalmarketer #𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝗖𝗿𝗲𝗮𝘁𝗼𝗿 #𝗦𝗠𝗠 #loveanimals ▶𝗡𝗼1 𝗚𝗥𝗘𝗘𝗞 𝗡𝗜𝗡𝗝𝗔 𝗹𝗶𝗻𝗼𝘂𝘇@𝗼𝘂𝘁𝗹𝗼𝗼𝗸.𝗰𝗼𝗺
     location: "Greece"
-    followers: 8290
-    engagement: 1091
-    commentsToLikes: 0.043042
-    id: ck5hcdjajhi1a0i1157c2iy4o
+    followers: 40018
+    engagement: 394
+    commentsToLikes: 0.149089
+    id: ck5zripd1wnns0i1485de0kp2
     verified: false
-    hashtags: "#ducatiscrambler, #cuba, #havana, #nyhavn"
-  - username: "john.th.karageorgos"
-    fullname: >-
-      Ioannis Th. Karageorgos
-    location: "Greece"
-    followers: 3617
-    engagement: 1907
-    commentsToLikes: 0.076457
-    id: ck5cc4jy6gpmu0i11zddhugu5
-    verified: false
-    hashtags: "#doorsoftheworld, #architecture, #9minimal7, #minimalism"
-  - username: "travelwithchai"
-    fullname: >-
-      ✈ 🚗Chai 📷🌎🇺🇸
-    location: "Greece"
-    followers: 11208
-    engagement: 904
-    commentsToLikes: 0.025657
-    id: ck5q0l4uh6j0j0i11dt5ubvog
-    verified: false
-    hashtags: "#christian, #mumbai, #decorations, #macedonia"
+    hashtags: "#salonika, #greece, #followme, #silkscarf"
   - username: "yiannis_papadopoulos"
     fullname: >-
       𝐘𝐢𝐚𝐧𝐧𝐢𝐬 𝐏𝐚𝐩𝐚𝐝𝐨𝐩𝐨𝐮𝐥𝐨𝐬 ♾️
+    bio: >-
+      🇬🇷➟⁣⁣🇺🇸 ▪️Lead Guitarist of @scottstapp (Creed)🔥 ▪️Multi-Award-Winning🎸 ▪️Skype Lessons Available 📩 ▪️Artist @jtc_guitar 💥 ⬇️⬇️⬇️Get my books here:
     location: "Greece"
     followers: 25664
     engagement: 266
     commentsToLikes: 0.042809
     id: ck0uaogp7cnao0i19wcqpsd8a
     verified: false
-    hashtags: "#unboxing, #armorofgod, #christianshirts, #praisethehero"
-  - username: "papa2"
-    fullname: >-
-      phedon papamichael asc gsc
-    location: "Greece"
-    followers: 51941
-    engagement: 264
-    commentsToLikes: 0.028358
-    id: ck5c7ho9u7kfh0i11jobgvzgy
-    verified: true
-    hashtags: "#bestpicture, #tracyletts, #tbilisi, #academyawardswinner"
+    hashtags: "#solodeguitarra, #guitarsarebetter, #rockstyle, #beard"
   - username: "newsbombgr"
     fullname: >-
       Newsbomb.gr
+    bio: >-
+      Για να γνωρίζεις αμέσως ό,τι σκάει 💣💣💣
     location: "Greece"
     followers: 33732
     engagement: 121
     commentsToLikes: 0.005529
     id: ck0w1f89aj1k80i19io226d6c
     verified: false
-    hashtags: "#pandemic, #socialdistancing, #cityscape, #apocalyptic"
-  - username: "greekreporter"
+    hashtags: "#greece, #menoumespiti, #hellas, #acropolis"
+  - username: "tasostrifonos"
     fullname: >-
-      Greek Reporter
+      Tasos Tryfonos
+    bio: >-
+      Κάθε πρωί 6-10 στο @lovefmcyprus 100.7 με @c_artemiou .THE CHASE καθημερινά 19.20 στον @alphatvcyprus &Σαββατοκύριακα 18.40 @skaitv.gr ΑΔΥΝΑΜΟΣ ΚΡΙΚΟΣ
     location: "Greece"
-    followers: 29928
-    engagement: 320
-    commentsToLikes: 0.023338
-    id: ck5qbht4olopx0i11s07joe55
+    followers: 50902
+    engagement: 131
+    commentsToLikes: 0.013748
+    id: ck0ubymwrfn7h0i19zo18859f
     verified: false
-    hashtags: "#moonlovers, #summervibes, #hill, #leadership"
+    hashtags: "#cyprustv, #tags, #skaitv, #lovefm"
+  - username: "evelynkorniliou"
+    fullname: >-
+      𝐄𝐯𝐞𝐥𝐲𝐧.𝐊𝐨𝐫𝐧𝐢𝐥𝐢𝐨𝐮
+    bio: >-
+      𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 . 📩 𝐞𝐯𝐞𝐥𝐲𝐧𝐤𝐨𝐫𝐧𝐢𝐥𝐢𝐨𝐮@𝐲𝐚𝐡𝐨𝐨.𝐠𝐫
+    location: "Greece"
+    followers: 74391
+    engagement: 3067
+    commentsToLikes: 1.666165
+    id: ck55p8og9a1n90i11giyvorib
+    verified: false
+    hashtags: "#simeradenmagireuoume, #woltgreece"
+  - username: "konstantina_klapsinou"
+    fullname: >-
+      Klapsinou Konstantina
+    bio: >-
+      🎬🎥🎭💭🍝
+    location: "Greece"
+    followers: 37676
+    engagement: 725
+    commentsToLikes: 0.031855
+    id: ck6tjfnw52mkn0j71eslwy8qt
+    verified: false
+    hashtags: "#not, #heraatelier, #maxidress, #odromospernaapomesa"
+  - username: "vaso_yiacoumi_mua"
+    fullname: >-
+      Vaso Yiacoumi
+    bio: >-
+      Teaching/Training diploma @ncfe London Studied @makeupforeveracademy Wholesaler @danessa_myricks Re-saler @kryolangreece Owner @muaprostore
+    location: "Greece"
+    followers: 21368
+    engagement: 502
+    commentsToLikes: 0.457533
+    id: ck15qvq5g4vgu0i19gbrt2bje
+    verified: false
+    hashtags: "#makeuplover, #beautybloggers, #vasoyiacoumimua, #danessamyricksbeauty"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Canada In 2020
 description: >-
-  Find top chefs Instagram influencers in Canada in 2020. Most popular hashtags: #seafood #dessert #brunch #sponsored.
+  Find top chefs Instagram influencers in Canada in 2020. Most popular hashtags: #sponsored #foodphotography #campeveryday.
 platform: Instagram
+hits: 121
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 121 Instagram influencers like this in Canada for you to work with.
 profiles:
-  - username: "andrewjscheer"
-    fullname: >-
-      Andrew Scheer
-    location: "Canada"
-    followers: 53327
-    engagement: 333
-    commentsToLikes: 0.062218
-    id: ck15rg75y7rv40i19i6segnt6
-    verified: true
-    hashtags: "#regina, #cdnag, #agricad, #danslem"
   - username: "guayfrederique"
     fullname: >-
-      Frédérique Guay
+      Frédérique Guay
+    bio: >-
+      Chef d’antenne, Animatrice, Reporter🎾⚽️, @tvasports et @tvanouvelles 👱🏼‍♀️ . Fitness. Federer. Doritos. . Partenariats: martin@reverberesmedia.com
     location: "Canada"
-    followers: 13471
-    engagement: 808
-    commentsToLikes: 0.042254
+    followers: 15035
+    engagement: 783
+    commentsToLikes: 0.042549
     id: ck5c8asjh93mg0i11kqrrr0in
     verified: false
-    hashtags: "#benjamin, #chandlerbing, #mlb, #imfc"
+    hashtags: "#isole, #imfc, #sis, #tbt2019"
   - username: "kelseylmorin"
     fullname: >-
       Kelsey Morin
+    bio: >-
+      Wife l fur mom Local goods & adventure seeker, wine drinker, wannabe chef and content creator. 📍Barrie, Ontario 🇨🇦
     location: "Canada"
-    followers: 3890
-    engagement: 1063
-    commentsToLikes: 0.240949
+    followers: 4136
+    engagement: 825
+    commentsToLikes: 0.193284
     id: ck14huj75c7mo0i196knqlsw2
     verified: false
-    hashtags: "#drinkwell, #alyaskin, #alyaskinbabe, #pinkclaymask"
-  - username: "ryanmagdanz"
-    fullname: >-
-      Ryan Magdanz
-    location: "Canada"
-    followers: 14450
-    engagement: 318
-    commentsToLikes: 0.052131
-    id: ck14jlavskwun0i195016ubav
-    verified: false
-    hashtags: "#upperleftusa, #platoscloset, #liveauthentic, #madethecut"
+    hashtags: "#mymetro, #metroloveslocal, #rawf20, #sponsored"
   - username: "shahirmassoud"
     fullname: >-
       Shahir Massoud
+    bio: >-
+      Chef Spokesperson @butterball_ca Guest chef on @themarilyndenisshow
     location: "Canada"
-    followers: 3551
-    engagement: 935
-    commentsToLikes: 0.080536
+    followers: 3733
+    engagement: 1013
+    commentsToLikes: 0.102795
     id: ck5q8dbne5m220i1125c9hhke
     verified: false
-    hashtags: "#christmas, #giveaway"
-  - username: "munchiescure"
+    hashtags: "#christmas, #giveaway, #blackouttuesday"
+  - username: "ryanmagdanz"
     fullname: >-
-      Zeem 🇨🇦🇦🇫
+      Ryan Magdanz
+    bio: >-
+      Chef, Accountant, Director @TothMedia Professing My Love For @MadisonJoyCo One Photo At A Time! #instahusband😂 🗻 | John 3:8 | 🇨🇦 Vancouver
     location: "Canada"
-    followers: 30135
-    engagement: 293
-    commentsToLikes: 0.079888
-    id: ck6tzi7p59uv60j719tqro32t
+    followers: 13627
+    engagement: 222
+    commentsToLikes: 0.042266
+    id: ck14jlavskwun0i195016ubav
     verified: false
-    hashtags: "#forkyeah, #foodlife, #nutellapancake, #ketodiet"
-  - username: "aimeebourque"
-    fullname: >-
-      Aimée | Simple Bites | Recipes
-    location: "Canada"
-    followers: 46410
-    engagement: 243
-    commentsToLikes: 0.059820
-    id: ckaowavt284390i78sjc6btm5
-    verified: false
-    hashtags: "#imsomartha, #visitnovascotia, #campfirecooking, #appetizer"
-  - username: "chefdevan"
-    fullname: >-
-      Chef Dev
-    location: "Canada"
-    followers: 35534
-    engagement: 430
-    commentsToLikes: 0.217267
-    id: ck14kntsvqfx40i19tzmcbk6s
-    verified: false
-    hashtags: "#vitamind, #pickles, #greekyogurt, #cleaneating"
+    hashtags: "#vancouver, #travel, #ourplanetdaily, #visualcollective"
   - username: "archerthefrenchie.to"
     fullname: >-
-      Archer the Frenchie
+      ARCHER THE FRENCHIE
+    bio: >-
+      🚫 Not a Pug 👨🏻‍🍳 Part-time Chef #BakingWithArcher 🎒 ARCHER10 ➡️ @barkindustry 🛒 ARCHERTORONTO10 ➡️ @frenchie_bulldog 🖥 TREAT RECIPES 👩🏻‍🍳👨🏻‍🍳👇🏼
     location: "Canada"
-    followers: 47029
-    engagement: 425
-    commentsToLikes: 0.102103
+    followers: 53929
+    engagement: 346
+    commentsToLikes: 0.096751
     id: ck137p1ffcnip0i19ostrtpdl
     verified: false
-    hashtags: "#sundaybrunchday, #weekendmood, #iwantmyalonetimeback, #happyfriyay"
+    hashtags: "#wheredidtheweekendgo, #tbt, #thisface, #halloween2020"
   - username: "sweetlyraw"
     fullname: >-
       Heather Pace l Healthy Recipes
+    bio: >-
+      Victoria BC 🇨🇦 Trained chef 👩‍🍳 Healthy recipes: sweetlyraw.com 💕Cookbooks📚YouTube: Heather Pace (🍰food & yoga 🧘‍♀️)🎥 Recipe development. Order my 🍫👇🏻
     location: "Canada"
-    followers: 29762
-    engagement: 185
-    commentsToLikes: 0.188037
+    followers: 29857
+    engagement: 144
+    commentsToLikes: 0.239626
     id: ck0u2f8jhzrhy0i19k6ivtn3i
     verified: false
-    hashtags: "#vegannachos, #rawfoodrecipes, #rawveganfood, #keto"
+    hashtags: "#healthyfoodshare, #healthyrecipes, #yyj, #vegandessert"
+  - username: "livforcake"
+    fullname: >-
+      olivia bogacki || liv for cake
+    bio: >-
+      👩🏼‍🍳 Pastry Chef, Recipe Developer, Photographer 🍰 Classic Cake Recipes with a Modern Twist 📍 Fort Langely, BC 👇🏻 Recipes
+    location: "Canada"
+    followers: 124212
+    engagement: 194
+    commentsToLikes: 0.028186
+    id: ck0u6tay92yid0i19uwtthzo6
+    verified: false
+    hashtags: "#treatweekbc, #notsponsored, #iloveanimals"
+  - username: "chefpaulwahlberg"
+    fullname: >-
+      Paul Wahlberg
+    bio: >-
+      Official Instagram page of Chef Paul Wahlberg @wahlburgers and @almanove
+    location: "Canada"
+    followers: 112629
+    engagement: 633
+    commentsToLikes: 0.035686
+    id: ck0u11jflvfv90i191jo1alhh
+    verified: true
+    hashtags: "#wahlburgershappyplace, #wahlburgersstc, #smaht, #wahlchefjunior"
+  - username: "chefdannysmiles"
+    fullname: >-
+      Danny Smiles
+    bio: >-
+      Daniele Francis. Chef & Co-founder of Mise En Place @mymep.ca One of the chefs at Osheaga’s Artist World. 🟧🟥
+    location: "Canada"
+    followers: 38135
+    engagement: 315
+    commentsToLikes: 0.022043
+    id: ck13blmrrw0i80i19ca2ni8er
+    verified: true
+    hashtags: "#staropramenquebec, #table, #partenaire"
+  - username: "munchiescure"
+    fullname: >-
+      Zeem 🇨🇦🇦🇫
+    bio: >-
+      Social Media Marketing/Content Creator, & Chef (Toronto, & abroad) Email for collabs 👉 Munchiescure@hotmail.com
+    location: "Canada"
+    followers: 31322
+    engagement: 225
+    commentsToLikes: 0.080631
+    id: ck6tzi7p59uv60j719tqro32t
+    verified: false
+    hashtags: "#munchonthis, #eater, #eeeeeats, #f52grams"
 ---

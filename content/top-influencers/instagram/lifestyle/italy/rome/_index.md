@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Rome In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Rome in 2020. Most popular hashtags: #lifestyle #nature #iorestoacasa #family.
+  Find top lifestyle Instagram influencers in Rome in 2020. Most popular hashtags: #italy #lifestyle #rome #love.
 platform: Instagram
+hits: 146
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 146 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "alessandragiubilato"
+  - username: "claytano"
     fullname: >-
-      Alessandra Giubilato 🎤🎶📸
+      Claytano
+    bio: >-
+      ➡️ NCAA Hockey Player ➡️ Pro Gamer and YouTuber ➡️ CEO/Founder Ennovative Inc ➡️ @Forbes 30 under 30 Nominee 2021 @mlo.shoes @introvertedextrovert.co
     location: "Italy"
-    followers: 40497
-    engagement: 291
-    commentsToLikes: 0.058121
-    id: ck9wfvm89qot60j786za0nr8l
+    followers: 14467
+    engagement: 336
+    commentsToLikes: 0.020495
+    id: ck14i7na6e1pz0i19bs99rv0t
     verified: false
-    hashtags: "#iostoacasa, #guitar, #postthepeople, #iocantoacasa"
-  - username: "fra_87_hope"
+    hashtags: "#life, #gamer, #style, #streamer"
+  - username: "melaniamigliozzi"
     fullname: >-
-      Francesco Hope
+      mel* • aesthetic feed
+    bio: >-
+      BLOGGER | FASHION | LIFESTYLE 📍Rome aesthetic lover | beige passion Blog Dressing&Toppings Contributor @kiabi_italiaofficial ♡ Founder @foodgangitalia
     location: "Italy"
-    followers: 11619
-    engagement: 469
-    commentsToLikes: 0.047627
-    id: ckaosahdpqula0i78suykv47t
+    followers: 16814
+    engagement: 583
+    commentsToLikes: 0.065675
+    id: ck5zu6gn81rtk0i14e5go0ffo
     verified: false
-    hashtags: "#sunglasseslover, #forzedellordine, #travelblogger, #lavoro"
-  - username: "elenotta_12"
+    hashtags: "#kiabi, #falconeri, #ivyoakstories, #ivyandoak"
+  - username: "eleonora__pieroni"
     fullname: >-
-      Elena Senerchia 🎀 👠👜👗🎀
+      Eleonora Pieroni
+    bio: >-
+      Model |Actress|Presenter🧿 Italian personality & Brands Ambassador in New York 🇺🇸 🇮🇹 🌏EleonoraPieroni LIVE NEW YORK!⬇️
     location: "Italy"
-    followers: 6033
-    engagement: 400
-    commentsToLikes: 0.037271
-    id: ck8t82z25ix1s0j78atz6l9v7
-    verified: false
-    hashtags: "#winter, #uovadipasqua, #photoshoot, #girls"
-  - username: "marciano.surf"
+    followers: 46499
+    engagement: 163
+    commentsToLikes: 0.040989
+    id: ck5qcoehwrkli0i11cn5x2t2v
+    verified: true
+    hashtags: "#festadelcinemadiroma, #puglia, #travelling, #eleonorapieroniliveitaly"
+  - username: "_lauranicolelifestyle__"
     fullname: >-
-      Alessandro Marcianò
+      𝓛𝓪𝓾𝓻𝓪 𝓝𝓲𝓬𝓸𝓵𝓮 🌸
+    bio: >-
+      🌸 • Fashion | Travel | Inspo 🍃 🎠 • Disney Lover | Bibliophile 🌸 • Grey’s Anatomy addicted 🍃 🐻 • ACNH @_animalcrossing_brightmoon 🌸 • Planner & Food 🍃
     location: "Italy"
-    followers: 16717
-    engagement: 251
-    commentsToLikes: 0.055859
-    id: ck0w4p18xzonq0i19x5ulwnx9
+    followers: 17248
+    engagement: 238
+    commentsToLikes: 0.048609
+    id: ck6txvwb505su0j71oi2rqwp6
     verified: false
-    hashtags: "#report, #surfing, #passion, #motherday"
-  - username: "simone_tagliati_"
+    hashtags: "#fitnessgirl, #babesofinstagram, #styleinspiration, #makeuptutorial"
+  - username: "drgolenaz"
     fullname: >-
-      𝚂𝚒𝚖𝚘𝚗𝚎 𝚃𝚊𝚐𝚕𝚒𝚊𝚝𝚒
+      Golenaz👩🏻‍⚕️
+    bio: >-
+      MEDICAL doctor 🥼🩺based in Rome 📍 •Lifestyle📷|Medical Information💉|Travel🌎 •Persian by blood🩸Italian by birth🇮🇹 •DM📧collabs:golenaz@outlook.it
     location: "Italy"
-    followers: 11430
-    engagement: 813
-    commentsToLikes: 0.033144
-    id: ck8t0us1ptea60j7869nfl5fz
+    followers: 11967
+    engagement: 803
+    commentsToLikes: 0.051431
+    id: ckap2bbtsy4570i78kd3ac8oy
     verified: false
-    hashtags: "#luxury, #modelife, #bagfashion, #manclothes"
-  - username: "_bryan.b_"
-    fullname: >-
-      ▪| BrYaN |▪
-    location: "Italy"
-    followers: 8993
-    engagement: 521
-    commentsToLikes: 0.016502
-    id: ck6ubmpdlahgk0j71q3ql2471
-    verified: false
-    hashtags: "#latinas, #espejorecords, #bailandosevivemejor, #passionate"
-  - username: "lucreziaoddone"
-    fullname: >-
-      Learn Italian with Lucrezia
-    location: "Italy"
-    followers: 47849
-    engagement: 687
-    commentsToLikes: 0.038384
-    id: ckaozj21wm3pk0i78ze016582
-    verified: false
-    hashtags: "#aperolspritz, #bialetti, #caff, #librichepassione"
+    hashtags: "#vacation, #lifestyle, #viaggiare, #italytravel"
   - username: "ladfoodie"
     fullname: >-
       LAURA #ladfoodie
+    bio: >-
+      Laura🙋🏼‍♀️Food | Lifestyle | Travel #ladfoodie📍Rome 📩 ladfoodie@gmail.com 🔰nu3 ambassador cod. SCONTO>> LAD15
     location: "Italy"
     followers: 34863
     engagement: 248
     commentsToLikes: 0.111831
     id: ck14kcjpaoukb0i19dvi3c9dd
     verified: false
-    hashtags: "#piesalata, #colazioneacasa, #arredo3, #worldbakingday"
-  - username: "drgolenaz"
+    hashtags: "#yogurtgreco, #colazioneitaliana, #farinadicocco, #alimentazionesana"
+  - username: "flaviabarone_real"
     fullname: >-
-      Dr.Golenaz👩🏻‍⚕️
+      ☀️ F L A V I A ⚡
+    bio: >-
+      📍 Naples, Italy 🇮🇹 🏇 Rider 🧝🏽‍♀️ Cosplayer { @iaiacosplay } Collaboration: email📩 or direct 🎶 TikTok: 4K💗 👇🏼
     location: "Italy"
-    followers: 3512
-    engagement: 1266
-    commentsToLikes: 0.042349
-    id: ckap2bbtsy4570i78kd3ac8oy
+    followers: 2903
+    engagement: 1368
+    commentsToLikes: 0.049285
+    id: ckaouqxg21fic0i788vktmp6i
     verified: false
-    hashtags: "#beaty, #style, #ootd, #purple"
-  - username: "__valentinus__"
+    hashtags: "#instagram, #fashion, #photo, #girl"
+  - username: "giada_farano"
     fullname: >-
-      
+      GIADA FARANO
+    bio: >-
+      Professional Dancer🇮🇹 @ciaodarwinreal 8 MEDIASET RAI⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ giadafarano95@libero.it Ofenbach,Jovanotti,Syria,Sofia Reyes,ZeroAss Arisa
     location: "Italy"
-    followers: 6962
-    engagement: 626
-    commentsToLikes: 0.317050
-    id: ck9wduvwbhdei0j78s1bldguq
+    followers: 50820
+    engagement: 397
+    commentsToLikes: 0.027733
+    id: ckapceemg3h9e0i78mjsw1oow
     verified: false
-    hashtags: "#amazing, #soulful, #reading, #blackisblack"
+    hashtags: "#blog, #staytuned, #sunnyday, #work"
+  - username: "brettstir"
+    fullname: >-
+      Brett Schneggenburger
+    bio: >-
+      @ashleigh_jordan @nvgtn Next Launch: Dec 5th, 10AM est
+    location: "Italy"
+    followers: 88639
+    engagement: 1124
+    commentsToLikes: 0.015868
+    id: ck0vv32o5nbc40i19luayw5m1
+    verified: false
+    hashtags: "#fitspo, #womensfashion, #cute, #clothingbrand"
+  - username: "valentina_salviati"
+    fullname: >-
+      Valentina Salviati
+    bio: >-
+      📍Roma 👫 @greg_geri 🐾 cats lovers @weare_figaroegigia 💌 valentinasalviati91@gmail.com
+    location: "Italy"
+    followers: 70382
+    engagement: 145
+    commentsToLikes: 0.095361
+    id: ck5zp32gwrw5s0i14xk6uuryx
+    verified: false
+    hashtags: "#autunno, #puglialovers, #igitalia, #traveltheworld"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Colombia In 2020
 description: >-
-  Find top crossfit Instagram influencers in Colombia in 2020. Most popular hashtags: #tbt #snatch #fitness #stayhome.
+  Find top crossfit Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #crossfit #fitness #training.
 platform: Instagram
+hits: 44
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 44 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "patyxfit"
+  - username: "yenny.alvarez95"
     fullname: >-
-      ᑭᗩTᖇIᑕIᗩ ᒪᗩᖇᗩ
+      YENNY ALVAREZ
+    bio: >-
+      🇨🇴 Campeona mundial🏋🏽‍♀️ Desafío súper regiones 2019🧡⚡️ Trabajo Social 📚🖋 CrossFit Formadora🏋🏽‍♀️ @idrdbogota Jehova cumplirá su propósito en mi🕊
     location: "Colombia"
-    followers: 28389
-    engagement: 180
-    commentsToLikes: 0.096215
-    id: ck8tan244sd4e0j78banzl4km
+    followers: 37348
+    engagement: 466
+    commentsToLikes: 0.030258
+    id: ck6tuwftfit3u0j71kmtvip5f
     verified: false
-    hashtags: "#stayhome, #cozinhaterapia, #doubleunders, #nadaeimpossivel"
-  - username: "martin_gasca"
+    hashtags: "#motivation, #weekend, #strongwomen, #weightlifting"
+  - username: "kevincardenas__"
     fullname: >-
-      M A R T I N G A S C A🎪
+      Kevin Cardenas 🇨🇴
+    bio: >-
+      🔥 desafío súper regiones 2019 #cafetero 📝admon de negocios internacionales 📸modelo 🏋🏻 CrossFit @healthysportscolombia
     location: "Colombia"
-    followers: 172841
-    engagement: 450
-    commentsToLikes: 0.014479
-    id: ck8swspkjf3rm0j787geywxri
+    followers: 58298
+    engagement: 378
+    commentsToLikes: 0.033858
+    id: ckapckj38474m0i788cgi5sma
     verified: false
-    hashtags: "#22, #crossfit, #crossfitter, #tbt"
-  - username: "juanjosettrujillo"
+    hashtags: "#motivacion, #photography, #fitness, #fotografia"
+  - username: "camicartagena6"
     fullname: >-
-      Juan Jose Trujillo
+      Camila Cartagena
+    bio: >-
+      Desafío SR 2019 Entrenadora⚡️ Atleta de Crossfit🇨🇴 📍Medellín. ✉️ camilacarta6@gmail.com
     location: "Colombia"
-    followers: 32412
-    engagement: 303
-    commentsToLikes: 0.033189
-    id: ck6tuwj08ito30j71hu7ew3ht
+    followers: 118149
+    engagement: 361
+    commentsToLikes: 0.007280
+    id: ck6tn8if39cd20j71zhwra4mo
     verified: false
-    hashtags: "#tulumvibes, #7070, #fam, #quarantine"
+    hashtags: "#colombia, #friends, #camilacartagena, #vida"
+  - username: "mcamilarodriguezf"
+    fullname: >-
+      Camila Rodríguez
+    bio: >-
+      Mzl, Colombia📍🇨🇴 Odontología💉🦷UAM⚕️ Crossfit 🏋🏽‍♀️💪🏽
+    location: "Colombia"
+    followers: 10943
+    engagement: 828
+    commentsToLikes: 0.009943
+    id: ck600tv4he9dz0i14ajb0997s
+    verified: false
+    hashtags: "#sunsetphotography, #colombia, #photography, #beauty"
+  - username: "mapamartinezg"
+    fullname: >-
+      Mapa Martinez
+    bio: >-
+      Piloto de automovilismo 🏎 Crossfitter 🏋🏽‍♂️ Owner @cookz_bogota 💛
+    location: "Colombia"
+    followers: 24970
+    engagement: 249
+    commentsToLikes: 0.018362
+    id: ck8t0r5rjszme0j7826gjyimi
+    verified: false
+    hashtags: "#swiftgti, #flatvector, #liquimoly, #ilustraciones"
+  - username: "yeimiserrano1"
+    fullname: >-
+      YEIMY SERRANO✨
+    bio: >-
+      MAMÁ BLOGUERA | 25 TikTok [+2.1] Ing. Civil Esp. Gerencia e Interventoria. Entrenadora Atleta crossfit Publicidades al DM @elbauldemarialucia
+    location: "Colombia"
+    followers: 119581
+    engagement: 250
+    commentsToLikes: 0.046191
+    id: ck6uf4c0sutfk0j71puap3er4
+    verified: false
+    hashtags: "#photooftheday, #instahealth, #igbabies, #fitnessmodel"
+  - username: "sofia__iriarte"
+    fullname: >-
+      Sofía Iriarte ♛
+    bio: >-
+      hi stalker👀 what’s up? ♡ Crossfit athlete & coach Ψ Psychology 🇨🇴colombianísima
+    location: "Colombia"
+    followers: 2901
+    engagement: 1375
+    commentsToLikes: 0.042358
+    id: ckap6ap3bf3if0i78dxo4p4zd
+    verified: false
+    hashtags: "#fitness, #fitnessmotivation, #crossfit, #running"
   - username: "benavidesph"
     fullname: >-
       ⠀⠀⠀⠀⠀⠀JUAN SEBASTIAN BENAVIDES
+    bio: >-
+      ⠀⠀⠀⠀Photographer -⠀Advertising - Crossfitter ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Colombia ⠀⠀📩Benavidesphotographer@hotmail.com
     location: "Colombia"
-    followers: 22689
-    engagement: 188
-    commentsToLikes: 0.028503
+    followers: 22671
+    engagement: 172
+    commentsToLikes: 0.027760
     id: ck0twz8ighdo70i19vz19fjv0
     verified: false
-    hashtags: "#fineart, #stayhome, #manizales, #autorretrato"
-  - username: "monicavidals_"
-    fullname: >-
-      Mónica Vidal
-    location: "Colombia"
-    followers: 2626
-    engagement: 1863
-    commentsToLikes: 0.040935
-    id: ck8sxh7vthdu30j78v5jm6x9b
-    verified: false
-    hashtags: "#iwd2020, #eachforequal, #likeagirl"
-  - username: "sofia__iriarte"
-    fullname: >-
-      Sofía Iriarte ♛
-    location: "Colombia"
-    followers: 2891
-    engagement: 1624
-    commentsToLikes: 0.047423
-    id: ckap6ap3bf3if0i78dxo4p4zd
-    verified: false
-    hashtags: "#run, #triathlon, #gym, #snatch"
+    hashtags: "#colombianphotographer, #mycalvins, #model, #retouching"
   - username: "naty.desafio15"
     fullname: >-
       NATALIA VARGAS ❤️🇨🇴
+    bio: >-
+      DESAFIO SUPER REGIONES 2019💙 ATLETA CROSSFIT 🤸🏻‍♀️🏋🏻‍♀️ #Neiva-Huila @healthysportscolombia 💜 @eliteboxneiva 🏡 @natuzmv20 🍧
     location: "Colombia"
-    followers: 40513
-    engagement: 730
-    commentsToLikes: 0.026661
+    followers: 41253
+    engagement: 677
+    commentsToLikes: 0.025093
     id: ck5zqdfmfuega0i14yvkra2cm
     verified: false
-    hashtags: "#unbroken, #entrenamiento, #stayathome, #flips"
-  - username: "jessicafmedina"
+    hashtags: "#staystrong, #powergirl, #encasa, #strongwomen"
+  - username: "lalajv92"
     fullname: >-
-      𝙹𝚎𝚜𝚜𝚒𝚌𝚊 𝙼𝚎𝚍𝚒𝚗𝚊♡
+      Laura Jaillier 👑
+    bio: >-
+      -Crossfit athlete & coach CF L1 💪🏻 -3X crossfit games south regionals 🏋🏻‍♀️ -Mama 😍 -@soyhakuna
     location: "Colombia"
-    followers: 5157
-    engagement: 522
-    commentsToLikes: 0.018841
-    id: ck6u9etdyx5gj0j71lggohgk7
+    followers: 17717
+    engagement: 490
+    commentsToLikes: 0.250412
+    id: ck8sxha8vhe4p0j78applpxe1
     verified: false
-    hashtags: "#athlete, #openmilitar, #tulua, #runner"
-  - username: "mariaclaraceballos89"
-    fullname: >-
-      Maria Clara Ceballos
-    location: "Colombia"
-    followers: 458771
-    engagement: 174
-    commentsToLikes: 0.030731
-    id: ck8sxh8y1hdyg0j78njfdve7w
-    verified: true
-    hashtags: "#love, #masqueunbox, #estamoslistos, #mividacomomama"
-  - username: "chesterx1988x"
-    fullname: >-
-      Chester Custodia
-    location: "Colombia"
-    followers: 5584
-    engagement: 622
-    commentsToLikes: 0.113293
-    id: ck135cuiw0tzp0i198zu5dt1q
-    verified: false
-    hashtags: "#vans, #elsalvador, #newalbum, #singalone"
+    hashtags: "#crossfit, #crossfitmedellin, #crossfitcolombia, #volveremos"
 ---

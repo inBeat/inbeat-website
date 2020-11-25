@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Rome In 2020
 description: >-
-  Find top fitness Instagram influencers in Rome in 2020. Most popular hashtags: #fitness #love #roma #rome.
+  Find top fitness Instagram influencers in Rome in 2020. Most popular hashtags: #rome #fitness #italy #roma.
 platform: Instagram
+hits: 111
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 111 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "francescamantione18"
+  - username: "ascanio1973"
     fullname: >-
-      🎈Francesca Mantione 🎈
+      Ascanio Pacelli CCM
+    bio: >-
+      GM at @terredeiconsoli, @hydrogen_official Ambassador Husband of an incredible woman @misskatia , my 💙’s 4 Maty&Tank
     location: "Italy"
-    followers: 30351
-    engagement: 229
-    commentsToLikes: 0.022398
-    id: ck6u4zblu6o0a0j713sity32i
-    verified: false
-    hashtags: "#honesty, #finoadomani, #avantiunaltro, #paolobonolis"
-  - username: "andreygalabinov"
-    fullname: >-
-      Andrey Galabinov
-    location: "Italy"
-    followers: 10645
-    engagement: 1134
-    commentsToLikes: 0.021188
-    id: ck5hosus3q62b0i11g7jiz02d
+    followers: 318856
+    engagement: 166
+    commentsToLikes: 0.029519
+    id: ck5pw5prll88x0i11ct4d6mps
     verified: true
-    hashtags: "#mom, #nature, #rock, #calcio"
+    hashtags: "#home, #usa, #golf, #rome"
+  - username: "francescaabbatiello"
+    fullname: >-
+      Francesca Abbatiello
+    bio: >-
+      📸»Photomodel 🛍»Fashion Addicted 🏋🏼‍♀️»Beauty & Fitness 📍based in Rome, IT ♍️20
+    location: "Italy"
+    followers: 10298
+    engagement: 1358
+    commentsToLikes: 0.006937
+    id: ckapck96g45rh0i789i468558
+    verified: false
+    hashtags: ""
+  - username: "alessia_alfani"
+    fullname: >-
+      𝒜𝓁ℯ𝓈𝓈𝒾𝒶
+    bio: >-
+      𝐿𝑖𝑣𝑒 𝑖𝑛 𝑅𝑜𝑚𝑒 ♡ • 𝐴𝑟𝑐ℎ𝑒𝑜𝑙𝑜𝑔𝑖𝑠𝑡 • 𝐻𝑜𝑠𝑡𝑒𝑠𝑠 • 𝐶𝑖𝑡𝑖𝑧𝑒𝑛 𝑜𝑓 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑀𝑦 𝑙𝑖𝑓𝑒, 𝑚𝑦 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑠, 𝑚𝑦 𝑤𝑜𝑟𝑘 𝑎𝑛𝑑 𝑚𝑦 𝑡𝑟𝑎𝑣𝑒𝑙𝑠. #𝑏𝑙𝑜𝑔 #𝑡𝑟𝑎𝑣𝑒𝑙 #𝑤𝑎𝑛𝑑𝑒𝑟𝑙𝑢𝑠𝑡
+    location: "Italy"
+    followers: 7630
+    engagement: 1212
+    commentsToLikes: 0.042884
+    id: ck9hbnpjfhnju0j78hf6fsxss
+    verified: false
+    hashtags: "#portrait, #music, #beauty, #holiday"
+  - username: "richardgregsonfitness"
+    fullname: >-
+      RG FITNESS
+    bio: >-
+      💪🏻Online fitness Coach 👨🏼‍🎓Sports science BSc (hons) 📲Apply for online coaching below 👇🏻 📍#Manchester
+    location: "Italy"
+    followers: 19019
+    engagement: 111
+    commentsToLikes: 0.179908
+    id: ckf5pxk307juw0j23a8qxrzup
+    verified: false
+    hashtags: "#rome, #ukfitness, #legday, #alphalete"
   - username: "michael.oliveira93"
     fullname: >-
       Michael Oliveira ® 
+    bio: >-
+      🇮🇹 Italian From 🇧🇷 Brazil __————    ————__ 🏡 Living in Rome Italy 🏋🏻‍♂️ Fitness ▪ Tattooed ▪ Lifestyle 💼 🔞🔥 Direct 📩
     location: "Italy"
-    followers: 76836
-    engagement: 179
-    commentsToLikes: 0.010841
+    followers: 76104
+    engagement: 171
+    commentsToLikes: 0.011250
     id: ck6u96cdbvr9v0j71ytil6apq
     verified: false
-    hashtags: "#construccion, #sexygay, #estilomasculino, #tattooboy"
-  - username: "felicelungo"
+    hashtags: "#fitnessboy, #estilomasculino, #gostoso, #tattoostyle"
+  - username: "djdavidmorales"
     fullname: >-
-      Felice
+      David Morales
+    bio: >-
+      New Release ‘LET IT GO’ by David Morales & Michelle Shapa
     location: "Italy"
-    followers: 11832
-    engagement: 642
-    commentsToLikes: 0.012614
-    id: ck6tv4rblk6di0j719npd8evc
-    verified: false
-    hashtags: "#january, #marypoppinsitalia, #musicaltheatre, #chimney"
-  - username: "flaviaberruti"
+    followers: 104528
+    engagement: 78
+    commentsToLikes: 0.027663
+    id: ck0udpeqsjkdz0i19yspb0pzx
+    verified: true
+    hashtags: "#music, #photooftheday, #radio, #italy"
+  - username: "veronicafabrianesi"
     fullname: >-
-      F L A V I A 🍍
+      𝐕𝐄𝐑𝐎𝐍𝐈𝐂𝐀 𝐅𝐀𝐁𝐑𝐈𝐀𝐍𝐄𝐒𝐈
+    bio: >-
+      🇮🇹 RUNNING | FITNESS 🏃🏻‍♀️Team Running: @runnertrainer 📍 Rome, Italy 💌 Collab: veronica.fabrianesi@gmail.com
     location: "Italy"
-    followers: 19514
-    engagement: 168
-    commentsToLikes: 0.092367
-    id: ck0tvdqamazyn0i19k3czxlyn
+    followers: 79319
+    engagement: 138
+    commentsToLikes: 0.137452
+    id: ck8ta5dlqqhh30j78h4anw4w1
     verified: false
-    hashtags: "#macysparade, #womanpower, #lunch, #myday"
-  - username: "davide.264"
+    hashtags: "#instarunner, #igersroma, #selfie, #runners"
+  - username: "danouuz"
     fullname: >-
-      DAVIDE NAPOLITANO
+      Danae Pappa
+    bio: >-
+      Full time Dancer, Actress, Performer Greek with a New York addiction. 🙉🙈🙊
     location: "Italy"
-    followers: 36847
-    engagement: 523
-    commentsToLikes: 0.105336
-    id: ck8ta4h3wqfxz0j78u8yly655
+    followers: 185242
+    engagement: 1042
+    commentsToLikes: 0.007287
+    id: ck15tvywuk6gg0i19ypwvgv9q
     verified: false
-    hashtags: "#serie, #mare, #jordan, #crossfit"
-  - username: "alessia_alfani"
+    hashtags: "#travel, #happy, #danouuz, #smile"
+  - username: "anna.targa"
     fullname: >-
-      Alessia
+      Anna Targa
+    bio: >-
+      PROFESSIONAL PROTOGRAPHER 📸 @nikonitalia creator 📸 Corsi online di editing 🤓 Rome 🌍
     location: "Italy"
-    followers: 6653
-    engagement: 1510
-    commentsToLikes: 0.030752
-    id: ck9hbnpjfhnju0j78hf6fsxss
+    followers: 28459
+    engagement: 704
+    commentsToLikes: 0.085322
+    id: ck5bve8lyjhgf0i11sr9hcw8q
     verified: false
-    hashtags: "#paella, #toyroomrome, #waitingfor, #carpediem"
-  - username: "bibbideg"
+    hashtags: "#nikon, #thep0rtraitproject, #dress, #shotonlexar"
+  - username: "angelicaceci95"
     fullname: >-
-      Bibbi Deg
+      Angelica 💙
+    bio: >-
+      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
     location: "Italy"
-    followers: 589047
-    engagement: 170
-    commentsToLikes: 0.037467
-    id: ck8wf2p49f12y0j78ew0wb5o2
+    followers: 3777
+    engagement: 1923
+    commentsToLikes: 0.142160
+    id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#gymmotivation, #sphynx, #beautytime, #langkawi"
-  - username: "__valentinus__"
-    fullname: >-
-      
-    location: "Italy"
-    followers: 6962
-    engagement: 626
-    commentsToLikes: 0.317050
-    id: ck9wduvwbhdei0j78s1bldguq
-    verified: false
-    hashtags: "#amazing, #soulful, #reading, #blackisblack"
-  - username: "federicamazza27"
-    fullname: >-
-      Federica Mazza
-    location: "Italy"
-    followers: 116207
-    engagement: 409
-    commentsToLikes: 0.027165
-    id: ck5ztwhju18x50i14p6nb56oe
-    verified: false
-    hashtags: "#photooftheday, #motivation, #trainingday, #summertime"
+    hashtags: "#italy, #gym, #girly, #me"
 ---

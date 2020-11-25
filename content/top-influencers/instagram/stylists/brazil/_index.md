@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Brazil In 2020
 description: >-
-  Find top stylists Instagram influencers in Brazil in 2020. Most popular hashtags: # #tiktok #salonlinebrasil #salonline.
+  Find top stylists Instagram influencers in Brazil in 2020. Most popular hashtags: #afrohairstyle #afrohair #tran.
 platform: Instagram
+hits: 290
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 290 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "ferrarijeff"
+  - username: "higorcarlosf"
     fullname: >-
-      jeff ferrari
+      Higor Carlos Ferreira
+    bio: >-
+      Founder @cultvintagebr Stylist & fashion producer @higorcarlosf_stylist higorcarlosf65@gmail.com Juiz de Fora - Mg
     location: "Brazil"
-    followers: 5967
-    engagement: 658
-    commentsToLikes: 0.026657
-    id: ck5btzpmagwph0i11kffh0jky
+    followers: 14703
+    engagement: 875
+    commentsToLikes: 0.079946
+    id: ckap8uf71pxod0i78a59l3xmn
     verified: false
-    hashtags: ""
-  - username: "ff.moura"
+    hashtags: "#ontheruntour, #love2share, #shop2gether, #ad"
+  - username: "le__verissimo"
     fullname: >-
-      F E R N A N D O    M O U R A
+      Leticia Verissimo🌻
+    bio: >-
+      🌈 Colorindo a vida através da moda 🧷Stylist. Produtora de moda 👟Criando para @converseallstars @studio_verifree verissimole.f@gmail.com Efésios6:10
     location: "Brazil"
-    followers: 5912
-    engagement: 1175
-    commentsToLikes: 0.168545
-    id: ck5cbsv58g3o60i11n871ewr4
+    followers: 5388
+    engagement: 991
+    commentsToLikes: 0.150945
+    id: ck9wdiul2ftpa0j78vga1n9a1
     verified: false
-    hashtags: "#dontrushchallenege, #olhaelle"
-  - username: "leomarte1"
+    hashtags: "#crespo, #darskin, #darskingirls, #afrohairstyle"
+  - username: "mariliafarina"
     fullname: >-
-      LEOMARTE FREIRE ( DIVO )
+      M a r í l i a   F a r i n a
+    bio: >-
+      Errar, Aprender, EVOLUIR! Fashion Producer - Model Makeup - Hair Stylist - Influencer @mariliafarinabelezaeestilo @shopmariliafarina
     location: "Brazil"
-    followers: 37479
-    engagement: 424
-    commentsToLikes: 0.057104
-    id: ck8t68n6jco2q0j78bfysjire
+    followers: 13422
+    engagement: 700
+    commentsToLikes: 0.111655
+    id: ckap4n1tz7zvz0i78eyoevnle
     verified: false
-    hashtags: "#instalive"
+    hashtags: "#mar, #beach, #floripa, #sol"
   - username: "digjoy"
     fullname: >-
       DigJoy ♡
+    bio: >-
+      ⠀⠀⠀⠀⠀ ⠀⠀ɑndo por ɑí todɑ coloridɑ vestindo ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀sorrisos ⠀⠀⠀⠀⠀⠀⠀⠀⠀ rj | modɑ | belezɑ | stylist | 💌 digjoy.goɑssessoriɑ@gmɑil.com
     location: "Brazil"
-    followers: 56267
-    engagement: 392
-    commentsToLikes: 0.065273
+    followers: 55804
+    engagement: 297
+    commentsToLikes: 0.068855
     id: ck5cdjwgfjaq70i11jvubej30
     verified: false
-    hashtags: "#for, #ad, #livejem, #livejorgeemateus"
-  - username: "isadorafariass"
+    hashtags: "#tbt"
+  - username: "rainhafavelada"
     fullname: >-
-      ISADORA FARIAS
+      RF
+    bio: >-
+      Stylist / Artista Visual
     location: "Brazil"
-    followers: 24704
-    engagement: 461
-    commentsToLikes: 0.060988
-    id: ck6tv9oohkz140j71eyrdjhp5
+    followers: 7210
+    engagement: 1418
+    commentsToLikes: 0.036322
+    id: ck5hqrvq7tm760i11nlk0dgng
     verified: false
-    hashtags: "#instastyle, #pretoebranco, #if, #diadasmaes"
+    hashtags: "#tbt"
+  - username: "tullacarvalho"
+    fullname: >-
+      Tulla Carvalho ♡
+    bio: >-
+      ♻️Em busca de uma vida mais sustentável 🧷Estudante de moda 🌈Personal Stylist ❤️Owner @trufasdotiojoao ✨Embaixadora @exclusivosmbitencourt
+    location: "Brazil"
+    followers: 3602
+    engagement: 1151
+    commentsToLikes: 0.190124
+    id: ckap4alc06hum0i78b8vfchbw
+    verified: false
+    hashtags: "#lookdodia, #modaparameninas, #lookinspira, #outfitoftheday"
+  - username: "karinamkk"
+    fullname: >-
+      karinamkk
+    bio: >-
+      DFCX 4 @mtvbrasil ~ Ariana e escorpião 😇😈 ~ Eventos | Stylist ✨ ~ Mãe do Rafiki ❤️ ~ Jobs e parceirias: @agenciapul karina@agencialpul.com.br
+    location: "Brazil"
+    followers: 115241
+    engagement: 170
+    commentsToLikes: 0.080304
+    id: ck6ty2p2x1cdc0j716yyoevct
+    verified: false
+    hashtags: "#tbt, #concursoteamlive, #teamlive, #halloween"
+  - username: "suyane_ynaya"
+    fullname: >-
+      Suyane Ynaya🇧🇷
+    bio: >-
+      Stylist Fashion editor @ellebrasil Creative Director Co-founder @wearemooc Represented by @heitor.agencia heitorbotini@outlook.com
+    location: "Brazil"
+    followers: 63079
+    engagement: 564
+    commentsToLikes: 0.023214
+    id: ck0u95yi9961k0i19c2dlhv3s
+    verified: false
+    hashtags: "#sus, #defendaosus, #suspublico, #jumpman"
   - username: "marilia.oliveira_"
     fullname: >-
       MARILIA OLIVEIRA
+    bio: >-
+      ✂️hair stylist • criador de conteúdo digital •EMBAIXADORA DA @sermulherfibras Dona do Espaço Marília Oliveira / RJ Clica no link👇🏽
     location: "Brazil"
-    followers: 40155
-    engagement: 269
-    commentsToLikes: 0.075551
+    followers: 45761
+    engagement: 333
+    commentsToLikes: 0.041653
     id: ck15tnap1ixjr0i19sv4kwlef
     verified: false
-    hashtags: "#salonline, #crespos, #pretas, #nailsdesign"
-  - username: "oraphaelpereira"
+    hashtags: "#fauxlocs, #protectivestyles, #boxbraidsbrasil, #afrohair"
+  - username: "enricobompani"
     fullname: >-
-      vintage boy
+      Enrico Bompani
+    bio: >-
+      Fashion Stylist
     location: "Brazil"
-    followers: 16708
-    engagement: 1075
-    commentsToLikes: 0.024004
-    id: ck5c50ae72h7a0i11w1cxl1hb
+    followers: 44623
+    engagement: 195
+    commentsToLikes: 0.112997
+    id: ck0vvry97qi1p0i19f6sb7sej
     verified: false
     hashtags: ""
-  - username: "fabscabral"
-    fullname: >-
-      fabscabral
-    location: "Brazil"
-    followers: 25520
-    engagement: 249
-    commentsToLikes: 0.070176
-    id: ck6uen7cirxjv0j71jq1ak4ji
-    verified: false
-    hashtags: ""
-  - username: "marcelampeixoto"
-    fullname: >-
-      Marcela Peixoto
-    location: "Brazil"
-    followers: 61269
-    engagement: 756
-    commentsToLikes: 0.012210
-    id: ck0w24gcvmkvg0i19swbtppre
-    verified: false
-    hashtags: "#maternidaderaiz, #marina4meses, #sofiafaz3"
-  - username: "newalexmendes"
-    fullname: >-
-      Alex Mendes
-    location: "Brazil"
-    followers: 33768
-    engagement: 199
-    commentsToLikes: 0.069457
-    id: ck8sw2w3pdl260j787tp22ccv
-    verified: false
-    hashtags: "#softblonde, #loirosaldavel, #bulldogfrances, #gratidao"
 ---

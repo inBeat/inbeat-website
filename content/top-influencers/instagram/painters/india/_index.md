@@ -1,107 +1,130 @@
 ---
 title: Top 10 Painters Instagram Influencers In India In 2020
 description: >-
-  Find top painters Instagram influencers in India in 2020. Most popular hashtags: #blackandwhite #live #eidmubarak #saturdayvibes.
+  Find top painters Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #model #reels #love.
 platform: Instagram
+hits: 361
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 361 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "iampriyasuman"
-    fullname: >-
-      Priya Suman
-    location: "India"
-    followers: 2369
-    engagement: 2315
-    commentsToLikes: 0.173176
-    id: ck9hbx2o5itiu0j78a455yfql
-    verified: false
-    hashtags: "#lifestyle, #watercoloring, #situation, #urdushayri"
-  - username: "thatbindigirl"
-    fullname: >-
-      Mittali arora
-    location: "India"
-    followers: 29155
-    engagement: 629
-    commentsToLikes: 0.053197
-    id: ck8t7jmwoh20x0j78anyaf5pu
-    verified: false
-    hashtags: "#zarawoman, #infobanjaran, #happyfriday, #mummy"
   - username: "riddhikumar_"
     fullname: >-
       Riddhi Kumar
+    bio: >-
+      I like food and films Amateur writer, painter and cook Professional over thinker Experimenting @riddhiculousart
     location: "India"
-    followers: 74268
-    engagement: 1108
-    commentsToLikes: 0.014566
+    followers: 96803
+    engagement: 867
+    commentsToLikes: 0.014282
     id: ck15tihmei8v00i19m3fcaait
     verified: false
-    hashtags: "#experiment, #trekking, #popart, #himalayas"
-  - username: "yash__shrivastava"
+    hashtags: "#portraitphotography, #imgmodelscout, #portfolio, #model"
+  - username: "thatbindigirl"
     fullname: >-
-      YASH SHRIVASTAVA © | India 🇮🇳
+      Mittali arora
+    bio: >-
+      ੴ MODEL | Influencer | Painter | Blogger ✨ I don’t care How I am viewed, I know me. I am good. ❤️ @artbrushcanvases Chandigarh
     location: "India"
-    followers: 53436
-    engagement: 166
-    commentsToLikes: 0.092079
-    id: ck8t73qbwfjnn0j78ys8zt1ms
+    followers: 77678
+    engagement: 270
+    commentsToLikes: 0.029488
+    id: ck8t7jmwoh20x0j78anyaf5pu
     verified: false
-    hashtags: "#hsgr43, #menriny, #livedaykal, #gtfriim"
+    hashtags: "#positivevibes, #chandigarhgirls, #bollywoodstyle, #curlyhair"
+  - username: "lifeinabackpack01"
+    fullname: >-
+      कप्तान साहिबा👩🏻‍✈️🇮🇳
+    bio: >-
+      Love to be in "HakunaMatata" state. Traveler 🗺 Trekker 🏔 Fashionista 💃 Foodie 🍕Painter 👩🏻‍🎨 👀 Watch my #googleindia Ad...👇🏻
+    location: "India"
+    followers: 6894
+    engagement: 663
+    commentsToLikes: 0.022628
+    id: ckaosdpk3r7cb0i78t31o3iri
+    verified: false
+    hashtags: "#pahadism, #itshimalayas, #ladakhtourism, #hillsin"
   - username: "anthonyhopkins"
     fullname: >-
       Anthony Hopkins
+    bio: >-
+      Artist, Painter, Composer, Actor of film, stage, and television @anthonyhopkinscollection
     location: "India"
-    followers: 2134377
-    engagement: 588
-    commentsToLikes: 0.028643
+    followers: 2339871
+    engagement: 408
+    commentsToLikes: 0.025953
     id: ck0vwgjnltlvz0i19d1dlevlr
     verified: true
-    hashtags: "#thetwopopes, #eebaftas, #theacademy, #oscars"
+    hashtags: "#nationalcatday"
+  - username: "shivrajwaichal"
+    fullname: >-
+      Shivraj Waichal
+    bio: >-
+      Painter | Actor | Director Do follow @paintershonbob for artworks
+    location: "India"
+    followers: 21750
+    engagement: 696
+    commentsToLikes: 0.009676
+    id: ck5pwh0s5mrbo0i114tdrqfi5
+    verified: true
+    hashtags: "#procreate, #procreateart, #selfportrait, #ipadpro"
   - username: "aartiinaagpal"
     fullname: >-
       AARTII NAAGPAL
+    bio: >-
+      Actress/writer /director/athlete/ shotokan black belt/painter living my legacy.tweet me @aartiinaagpal
     location: "India"
-    followers: 457133
-    engagement: 89
-    commentsToLikes: 0.032391
+    followers: 520046
+    engagement: 57
+    commentsToLikes: 0.033191
     id: ck15sagg8c0lz0i191tnwlq6t
     verified: true
-    hashtags: "#twilight, #mumbaipolice, #myself, #worldprayers"
-  - username: "jethro_buck"
-    fullname: >-
-      Jethro Buck
-    location: "India"
-    followers: 7914
-    engagement: 896
-    commentsToLikes: 0.042765
-    id: ck5bx060pmr6n0i11g04ehhtg
-    verified: false
-    hashtags: "#coppicedwood, #kajal, #sunflowerhead, #rewildingeurope"
-  - username: "edwardmayaofficial"
-    fullname: >-
-      Edward Maya
-    location: "India"
-    followers: 63306
-    engagement: 231
-    commentsToLikes: 0.039583
-    id: ck0w4htmjyn0w0i19h4hmhmt3
-    verified: true
-    hashtags: "#worldtour, #turkey, #befree, #holdingon"
-  - username: "jlcastrillo_sacredart"
-    fullname: >-
-      Jose Luis Castrillo
-    location: "India"
-    followers: 8986
-    engagement: 843
-    commentsToLikes: 0.033067
-    id: ckaosagxtquis0i789z62y5ub
-    verified: false
-    hashtags: "#prayforus, #ritadecassia, #ourlord, #jesusislove"
+    hashtags: "#mood, #iam, #me, #legend"
   - username: "varunpainter"
     fullname: >-
       Varun
+    bio: >-
+      - Automotive Journalist - Mail - varun.painter@gmail.com for business queries
     location: "India"
-    followers: 26260
-    engagement: 765
-    commentsToLikes: 0.014658
+    followers: 27502
+    engagement: 812
+    commentsToLikes: 0.014726
     id: ckap60vaudzfb0i78apchw9fy
     verified: false
-    hashtags: "#honda, #orange, #rajasthan, #speedmaster"
+    hashtags: "#follow, #kawasaki, #subscribe, #edit"
+  - username: "arka_patra"
+    fullname: >-
+      Arka Patra
+    bio: >-
+      Visual artist/fashion photographer/painter/sculptor. Based in India.
+    location: "India"
+    followers: 9895
+    engagement: 733
+    commentsToLikes: 0.020111
+    id: ck14gyfo17mwb0i199zf1p2tl
+    verified: false
+    hashtags: "#fashions, #model, #print, #white"
+  - username: "musku____"
+    fullname: >-
+      
+    bio: >-
+      Painter/DM for paid collab wish me on 30th aug👸 Virgo pwc⛪ Art is not what you see,but what you make others see❤
+    location: "India"
+    followers: 7686
+    engagement: 680
+    commentsToLikes: 0.021479
+    id: ck1369j2l5f1m0i19mcz81i8s
+    verified: false
+    hashtags: "#positivevibes, #insta, #peaceful, #fashionhub"
+  - username: "yash__shrivastava"
+    fullname: >-
+      YASH SHRIVASTAVA © | India 🇮🇳
+    bio: >-
+      • MODEL • BLOGGER • ACTOR • PAINTER • MBA • | Fashion | Lifestyle | Food | Travel | 💢 Dada Saheb Phalke Student🎥 Dm/Mail 📩 for Collaboration
+    location: "India"
+    followers: 55292
+    engagement: 252
+    commentsToLikes: 0.059642
+    id: ck8t73qbwfjnn0j78ys8zt1ms
+    verified: false
+    hashtags: "#bangloreblogger, #immunityboosters, #healthylifestyle, #indoreblogger"
 ---

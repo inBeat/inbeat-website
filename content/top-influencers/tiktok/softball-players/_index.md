@@ -1,107 +1,130 @@
 ---
 title: Top 10 Softball-Players TikTok Influencers In 2020
 description: >-
-  Find top softball-players TikTok influencers in 2020. Most popular hashtags: #softball #softballplayer #leavingmybody #gonnabefriends.
+  Find top softball-players TikTok influencers in 2020. Most popular hashtags: #fyp #softball #softballplayer #foryoupage.
 platform: TikTok
+hits: 24
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 24 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "amazin_rando"
     fullname: >-
       Robin Perry
+    bio: >-
+      massage therapist, softball player, artist. CEO of Puggles and Pie
     location: "Canada"
-    followers: 6267
-    engagement: 964
-    commentsToLikes: 0.062745
+    followers: 9842
+    engagement: 1152
+    commentsToLikes: 0.045744
     id: cka6l2ass1eea0i7825q92pmw
     verified: false
-    hashtags: "#gayhusband, #vancouver, #foryou, #closettedgay"
+    hashtags: "#bear, #silly, #greenscreen, #ball"
+  - username: "apefaceee"
+    fullname: >-
+      April Howser
+    bio: >-
+      Christ follower College softball player Ohio 20
+    location: "United States"
+    followers: 18200
+    engagement: 895
+    commentsToLikes: 0.047320
+    id: ckck37a2mmyqz0j23h26o7fzn
+    verified: false
+    hashtags: "#christian, #fypage, #tiktok, #foryoupage"
   - username: "sydney_sanderss"
     fullname: >-
       Sydney Sanders
+    bio: >-
+      23. FL. Nursing. Retired College Softball Player. 🏳️‍🌈🌞 Snapchat:SydTheeSquid
     location: "United States"
-    followers: 5633
-    engagement: 1049
-    commentsToLikes: 0.044061
+    followers: 10100
+    engagement: 1216
+    commentsToLikes: 0.044364
     id: cka7s9bdmib1y0i787auxr027
     verified: false
-    hashtags: "#makemomsmile, #werkitfromhome, #beautymode, #momsoftiktok"
-  - username: "lifewarianabuckman"
+    hashtags: "#fyp, #foryoupage, #foryou, #greenscreensky"
+  - username: "theajandrews"
     fullname: >-
-      ariana buckman💙❤️.
+      A.J. Andrews
+    bio: >-
+      Professional Softball Player - LSU softball Alum Instagram/twitter: aj_andrews_
     location: "United States"
-    followers: 6470
-    engagement: 1237
-    commentsToLikes: 0.081517
-    id: ck99auzn9j8of0j78w47g851u
+    followers: 31700
+    engagement: 972
+    commentsToLikes: 0.009358
+    id: ckdi8l5kxb61p0j23i97sot03
     verified: false
-    hashtags: "#countrycouple, #disney, #grandaughter, #happymothersday"
+    hashtags: "#baseballszn, #softball, #baseball, #abs"
   - username: "thebestsoftballvids"
     fullname: >-
-      <3
+      I’m strange 🌞🥎
+    bio: >-
+      ❗️DMS DONT WORK❗️ daily softball vids!🔥 ❗️DM me your videos on instagram❗️
     location: "United States"
-    followers: 50997
-    engagement: 2075
-    commentsToLikes: 0.022689
+    followers: 48500
+    engagement: 2389
+    commentsToLikes: 0.025506
     id: ck9774gio2qxl0j7856n8n2ba
     verified: false
-    hashtags: "#homerun, #summer, #celebratenurses, #catch"
-  - username: "jenthorburn"
+    hashtags: "#viral, #funny, #relatable, #softballplayer"
+  - username: "hueyyybabyyyy"
     fullname: >-
-      Jen Thorburn 🌈
+      KenHueyyy
+    bio: >-
+      UNG softball commit Snap:k.huey23 Insta:kennhueyy GA
     location: "United States"
-    followers: 11854
-    engagement: 1546
-    commentsToLikes: 0.015720
-    id: cka6j1t76szxy0i7852f89e8m
+    followers: 10500
+    engagement: 1287
+    commentsToLikes: 0.042975
+    id: ckdcjgcezlcr10j23zui4qn7v
     verified: false
-    hashtags: "#werkitfromhome, #moodboost, #jobtips, #indoorworkout"
-  - username: "raymondsgirlfriend"
+    hashtags: "#softballplayer, #greenscreen, #razrfit, #fyp"
+  - username: "softball_tiktoks"
     fullname: >-
-      Amy
+      SoftballTikToks
+    bio: >-
+      Posting fun & creative 🥎 Softball TikToks 🎵 Tag us. Follow our IG page
     location: "United States"
-    followers: 30338
-    engagement: 1370
-    commentsToLikes: 0.076943
-    id: ckajbb12kmty00i78s3g06pdj
+    followers: 2892
+    engagement: 964
+    commentsToLikes: 0.013104
+    id: ckd6yukpsx7sx0j23qyxjyv3f
     verified: false
-    hashtags: "#mycrib, #yankees, #keepingactive, #playingcatch"
-  - username: "lexi.maestretti"
+    hashtags: "#softball, #collegesoftball, #softballgirl, #softballplayer"
+  - username: "paigexryannn"
     fullname: >-
-      lexii
+      BRO&SIS ACCOUNT
+    bio: >-
+      IG: @paigehalstead @ryhalstead UCLA Natty CHAMP’19 ⚾️er for SF GIANTS org.
     location: "United States"
-    followers: 14037
-    engagement: 1242
-    commentsToLikes: 0.030495
-    id: ck98r801s9ga90j78cu7kmzuk
+    followers: 270500
+    engagement: 948
+    commentsToLikes: 0.007788
+    id: ckaia17dyaiq40i78u9fmu58p
     verified: false
-    hashtags: "#kiocyr, #qgriggs, #biged, #wholesomeplottwist"
-  - username: "laineywiseman"
+    hashtags: "#sister, #softballplayer, #softball, #catcher"
+  - username: "brandigarcia13"
     fullname: >-
-      Lainey Wiseman
+      brandi garcia
+    bio: >-
+      Slowpitch softball 🥎 #13 Ohio- 513📍
     location: "United States"
-    followers: 9381
-    engagement: 1318
-    commentsToLikes: 0.002221
-    id: ck9rjswygpmwt0j781c5lf2r9
+    followers: 5833
+    engagement: 1213
+    commentsToLikes: 0.061518
+    id: ckad4zmejrws10i78t8s99ddo
     verified: false
-    hashtags: "#4upage, #muttonbusting, #flyracing, #wrestlers"
-  - username: "blitzballguy"
+    hashtags: "#fyp, #ohio, #slowpitchsoftball, #foryoupage"
+  - username: "kcundercover7"
     fullname: >-
-      blitzballguy
+      Casey
+    bio: >-
+      USA softball U17🇺🇸 Georgia tech softball #28🐝 Snap: casey.gogies
     location: "United States"
-    followers: 64990
-    engagement: 548
-    commentsToLikes: 0.007545
-    id: cka9ou93b66d00i78y8920cml
+    followers: 15300
+    engagement: 2167
+    commentsToLikes: 0.010075
+    id: ckciuypde0kfp0j23r6vauvy5
     verified: false
-    hashtags: "#baseballgirl, #baseballboy, #dinger, #bsaeballplayer"
-  - username: "mariah.grad"
-    fullname: >-
-      gradzki.mariah
-    location: "United States"
-    followers: 28690
-    engagement: 1270
-    commentsToLikes: 0.022920
-    id: ck98r7z7s9g2q0j7842fn3znn
-    verified: false
-    hashtags: "#softballgirls, #softballcheck, #sadwiggahours, #coronavirus"
+    hashtags: "#noexcuses, #softball, #gatech, #baseball"
 ---

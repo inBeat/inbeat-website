@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In United Arab Emirates In 2020
 description: >-
-  Find top food TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #iftar #healthyathome #lockdown #coffee.
+  Find top food TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fyp #dubai #foryoupage #uae.
 platform: TikTok
+hits: 88
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database holds 88 TikTok influencers like this in United Arab Emirates for you to contact.
 profiles:
-  - username: "satisfieddubai"
+  - username: "samia_khaan.1"
     fullname: >-
-      Satisfied Dubai
+      سامية خان❤️
+    bio: >-
+      #horselover #food From🇵🇰🇺🇸 📍🇦🇪
     location: "United Arab Emirates"
-    followers: 13971
-    engagement: 368
-    commentsToLikes: 0.059674
-    id: ck9eo59wvmk890j78r60oypbn
+    followers: 95500
+    engagement: 2099
+    commentsToLikes: 0.043433
+    id: ckbawarl1mqhz0j23jqwmt5t3
     verified: false
-    hashtags: "#pampertime, #holiday, #duet, #thriller"
-  - username: "foodloreuae"
+    hashtags: "#pakistani, #samiakhan, #mylook, #hyee"
+  - username: "oftravelsandtales"
     fullname: >-
-      foodloreuae
+      Delaine + Jack | Travel & Food
+    bio: >-
+      IG: 108K ↗️ travel bloggers & foodies sharing epic places & plates ✈🍴 📍UAE
     location: "United Arab Emirates"
-    followers: 6767
-    engagement: 638
-    commentsToLikes: 0.060934
-    id: ck9gmev0orxhi0j78nbkdwpkj
+    followers: 12000
+    engagement: 318
+    commentsToLikes: 0.064485
+    id: ckai927yt6l9i0i7805gh2s40
     verified: false
-    hashtags: "#chole, #sharestories, #workfromhome, #viral"
+    hashtags: "#dessertlovers, #uaefood, #hungryaf, #krispykremedonuts"
+  - username: "treshabck"
+    fullname: >-
+      Tresha Bucktowsing
+    bio: >-
+      Insta: Tresha.bucktowsing Frenchie in Dubai #food #fashion #travel #lifestyle
+    location: "United Arab Emirates"
+    followers: 5529
+    engagement: 745
+    commentsToLikes: 0.032411
+    id: ckaupn4enurhi0j23pakpobqy
+    verified: false
+    hashtags: "#fypage, #dubailife, #pourtoii, #latino"
   - username: "nashwakhurram"
     fullname: >-
       Nashwa Khurram
+    bio: >-
+      Content creator Food and travel blogger @peplumandpineapples
     location: "United Arab Emirates"
-    followers: 2814
-    engagement: 671
-    commentsToLikes: 0.046154
+    followers: 4278
+    engagement: 641
+    commentsToLikes: 0.060235
     id: ck8oq49qa62d90j784lepo9vh
     verified: false
-    hashtags: "#healthyathome, #beanburds, #beachvibes, #pizza"
-  - username: "sabrinatubic"
+    hashtags: "#xyzbca, #trending, #recipe, #foryoupage"
+  - username: "foodloreuae"
     fullname: >-
-      Sabrina Tubic
+      foodloreuae
+    bio: >-
+      📍 Abu Dhabi 🇦🇪 Foodie🍕🍔🍜🍩🍭🧁🍫🍾🍺 Instagram - @foodloreuae
     location: "United Arab Emirates"
-    followers: 409975
-    engagement: 1221
-    commentsToLikes: 0.039342
-    id: ck7zoyrgbmi4s0j78mq488riu
-    verified: true
-    hashtags: "#unboxing, #hudabeauty, #cooking, #makeup"
-  - username: "melzarts"
-    fullname: >-
-      Melika👑
-    location: "United Arab Emirates"
-    followers: 10390
-    engagement: 1129
-    commentsToLikes: 0.053384
-    id: cka0t0wrjny9m0i78muiua1y5
+    followers: 6677
+    engagement: 598
+    commentsToLikes: 0.056224
+    id: ck9gmev0orxhi0j78nbkdwpkj
     verified: false
-    hashtags: "#pumplikethat, #travel, #himym, #myquarantine"
-  - username: "ahmed_jani"
+    hashtags: "#quarantinecooking, #dothelifebuoy, #abudhabi, #drawing"
+  - username: "natty.cooks"
     fullname: >-
-      AJ🔥
+      Natty.Cooks
+    bio: >-
+      Lots of love to all 40K of you❣️| Food diary 🧀 AKA Remy 🐭 🇦🇪 | 🇱🇧
     location: "United Arab Emirates"
-    followers: 72343
-    engagement: 888
-    commentsToLikes: 0.080817
-    id: ck8fc43zp6fln0j78ie6w6p8d
+    followers: 45500
+    engagement: 577
+    commentsToLikes: 0.012773
+    id: ckbqwrzk7h0040j23jg0pxwzu
     verified: false
-    hashtags: "#photographer, #ramadan, #eidmubarak, #genetics"
-  - username: "dino_abs"
+    hashtags: "#uae, #easyrecipes, #tiktokchef, #fyp"
+  - username: "satisfieddubai"
     fullname: >-
-      Dino Tubic
+      Satisfied Dubai
+    bio: >-
+      Follow me on instagram ⬆️ @satisfieddubai Food & travel blogger Why so serious🤡
     location: "United Arab Emirates"
-    followers: 54573
-    engagement: 851
-    commentsToLikes: 0.015830
-    id: ck81qvxmxkbyv0j78q9t9lt0t
+    followers: 87700
+    engagement: 413
+    commentsToLikes: 0.027272
+    id: ck9eo59wvmk890j78r60oypbn
     verified: false
-    hashtags: "#sharestories, #foodlover, #twinchallenge, #facetracking"
-  - username: "ranaking242"
+    hashtags: "#holiday, #dubai, #trending, #breakfast"
+  - username: "de_mojo_jinn_9829"
     fullname: >-
-      Rana King
+      Risad
+    bio: >-
+      Auto Enthusiast | Foodie | Wanderlust | Online Trader
     location: "United Arab Emirates"
-    followers: 10837
-    engagement: 1351
-    commentsToLikes: 0.005856
-    id: cka9llb0z2qqr0i78wq1y06i1
+    followers: 2079
+    engagement: 543
+    commentsToLikes: 0.024638
+    id: ckc3847lzwx1f0j23t4bkkyq6
     verified: false
-    hashtags: "#iftari, #realmoney, #yellow, #training"
-  - username: "chefmarwansardouk"
+    hashtags: "#friends, #sharethecare, #duet, #viral"
+  - username: "deliciouskerala"
     fullname: >-
-      Chef Marwan Sardouk
+      deliciouskerala
+    bio: >-
+      Food page which serves love ❤️
     location: "United Arab Emirates"
-    followers: 2372
-    engagement: 402
-    commentsToLikes: 0.040430
-    id: ckac8kc8cfjln0i78eb1y3w9g
-    verified: true
-    hashtags: "#shine, #ashta, #gold, #yellow"
-  - username: "almasjid"
-    fullname: >-
-      AlMasjid
-    location: "United Arab Emirates"
-    followers: 14545
-    engagement: 860
-    commentsToLikes: 0.025057
-    id: cka65l1p2dikv0i78swpeszj6
+    followers: 94200
+    engagement: 591
+    commentsToLikes: 0.003510
+    id: ckc83gget3ys00j23ezos9dc4
     verified: false
-    hashtags: "#religion, #fundamental, #problems, #reality"
+    hashtags: "#uae, #foryou, #beef, #cooking"
+  - username: "shehada_bros"
+    fullname: >-
+      The Shehada Bros 💥
+    bio: >-
+      Brothers.. the BEST FRIENDS you can NEVER get RID off! ❤️😜
+    location: "United Arab Emirates"
+    followers: 14300
+    engagement: 1289
+    commentsToLikes: 0.106600
+    id: ckbw3otnmxbb40j23qhcz8kap
+    verified: false
+    hashtags: "#staycation, #dubai, #mydubai, #fypage"
 ---

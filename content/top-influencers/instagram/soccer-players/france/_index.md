@@ -1,107 +1,130 @@
 ---
 title: Top 10 Soccer-Players Instagram Influencers In France In 2020
 description: >-
-  Find top soccer-players Instagram influencers in France in 2020. Most popular hashtags: #soccerplayer #confinement #soccer #restezchezvous.
+  Find top soccer-players Instagram influencers in France in 2020. Most popular hashtags: #soccer #soccerplayer #football #ligue1.
 platform: Instagram
+hits: 28
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 28 Instagram influencers like this in France for you to work with.
 profiles:
+  - username: "mbaizoolivier"
+    fullname: >-
+      Mbaizoolivier🇨🇲🇺🇸
+    bio: >-
+      Professionnel soccer player @philaunion 🇺🇸 International Camerounais 🦁🇨🇲 @fecafootofficiel Psaumes 23 35 ✝️ Snapchat 👻 mbaizolivier15
+    location: "France"
+    followers: 8699
+    engagement: 734
+    commentsToLikes: 0.027778
+    id: ck0tysygpnwyu0i19hwihhps6
+    verified: true
+    hashtags: "#preseason"
+  - username: "meli_7herrera"
+    fullname: >-
+      M E L I S S A  H E R R E R A🇨🇷
+    bio: >-
+      •Soccer Player @stadedereims 🇫🇷 •Athlete @nike • @fedefutbolcrc 🇨🇷 •👙Fundadora @herrera_bikinis 📊 •Representante @joaquimbatica 📍🇫🇷
+    location: "France"
+    followers: 290843
+    engagement: 226
+    commentsToLikes: 0.020368
+    id: ck5hmfvbhlvju0i11wl8n3g8z
+    verified: true
+    hashtags: "#teamnikecr, #nikecostarica, #teamnike, #youcantstoptherun"
+  - username: "domikumbela"
+    fullname: >-
+      Domi Kumbela
+    bio: >-
+      Frm. Pro. Soccer Player ⚽️ ⚽️: Scouting•Consulting•Agent 🗣: english•french•german 📑: @goalsandglorysm
+    location: "France"
+    followers: 14655
+    engagement: 650
+    commentsToLikes: 0.018681
+    id: ck5hg0n310an60i11soyr541e
+    verified: true
+    hashtags: "#striveforgreatness, #nephewlove, #ballerforlife, #amsterdam"
   - username: "thibautgarciaguitar"
     fullname: >-
       Thibaut Garcia
+    bio: >-
+      -Classical Guitarist- 🇫🇷 - Victoires de la Musique Classique 2019 and BBC New Generation artist -Touring around the world ✈️🌎 - Soccer player ⚽
     location: "France"
-    followers: 8328
-    engagement: 777
-    commentsToLikes: 0.013828
+    followers: 10353
+    engagement: 738
+    commentsToLikes: 0.021729
     id: ck5c1mk2wvhf40i11w1txui76
     verified: false
-    hashtags: "#preparation, #devisee, #matinee, #smile"
-  - username: "vivien_lavau"
+    hashtags: "#orchestra, #toulouse, #concerto, #album"
+  - username: "xavisimonsnews"
     fullname: >-
-      Vivien Lavau
+      Xavi Simons News
+    bio: >-
+      News Account on @xavisimons 🔴🔵 #xavisimons ⬇️ More Pictures ⬇️
     location: "France"
-    followers: 18333
-    engagement: 783
-    commentsToLikes: 0.017002
-    id: ck13623yk4doj0i19cc4pdecs
+    followers: 64413
+    engagement: 498
+    commentsToLikes: 0.001456
+    id: ckaoxs4ufehz10i782hkjx664
     verified: false
-    hashtags: "#fiersdetrebleues, #cdm2019, #champion, #france"
-  - username: "fredgoudonphotographe"
+    hashtags: ""
+  - username: "boumesama"
     fullname: >-
-      Fred Goudon photographe
+      Boumé Sama
+    bio: >-
+      🌍 World Tekker ⚽️ Capitaine du @samautd 🎥Entertainer Football 🟢 Ambassadeur @unisportstorefr 📍 Paris Les golazo par ici
     location: "France"
-    followers: 27867
-    engagement: 232
-    commentsToLikes: 0.028681
-    id: ck135xerx3q1d0i19ni0lnxq8
+    followers: 48593
+    engagement: 2317
+    commentsToLikes: 0.061496
+    id: ck8sx589eg7ae0j78ste24t4x
     verified: false
-    hashtags: "#boxe, #sixpacks, #blondbeard, #soccergoalie"
+    hashtags: "#tekkers, #soccerlife, #neymar, #golazo"
   - username: "pauldelecroix88"
     fullname: >-
       Paul Delecroix
+    bio: >-
+      Joueur Professionnel FC METZ @fcmetz 📍Amiens SC @amiensscfootball 📍Niort FC @chamoisniortaisfc 📍Lorient FC @fclorient Parrain @elaofficielle
     location: "France"
-    followers: 2714
-    engagement: 1505
-    commentsToLikes: 0.091714
+    followers: 2959
+    engagement: 1332
+    commentsToLikes: 0.069271
     id: ckap319k716y40i78hd32k53n
     verified: true
-    hashtags: "#ensemble, #road, #sniper, #goodjob"
-  - username: "xavier_samre"
+    hashtags: "#family, #coronaout, #stayathome, #player"
+  - username: "aouchichefrance"
     fullname: >-
-      Xavier Samré
+      TEAM AOUCHICHE | Fan Page 📲
+    bio: >-
+      Bienvenue sur ma fan page d'Adil Aouchiche 🤟 Joueur à l'ASSE, international U20 français 🇨🇵💚 ▪︎| DUBBLE A 🔫 |▪︎ ➲ Compte secondaire : @aouchichegoals
     location: "France"
-    followers: 17380
-    engagement: 560
-    commentsToLikes: 0.023115
-    id: ck5qd0zvqtar80i11klph8z99
+    followers: 44097
+    engagement: 368
+    commentsToLikes: 0.012974
+    id: ckaotfk9cvq1r0i78v7onu0er
     verified: false
-    hashtags: "#muscularmen, #swimmingpool, #poolporn, #frenchboy"
-  - username: "imanyeasy"
+    hashtags: "#curlyhair, #uefa, #aouchiche, #asse"
+  - username: "ludogiuly8"
     fullname: >-
-      Imany
+      Ludovic Giuly
+    bio: >-
+      Facebook : @ludovic.Giuly.Officiel Twitter : Ludovic_Giuly Partenariat : management@afterfootassociation.org ⚓️ @le8_catamaran_plaisance
     location: "France"
-    followers: 55660
-    engagement: 516
-    commentsToLikes: 0.032969
-    id: ck0w62c4n6l2q0i19q4m4brya
+    followers: 75201
+    engagement: 201
+    commentsToLikes: 0.018182
+    id: ck8sy3ijmjlxw0j78nu0j3wc6
     verified: true
-    hashtags: "#drive, #fans, #album, #challenge"
-  - username: "franceo"
+    hashtags: "#goals, #football, #giuly, #soccer"
+  - username: "fredgoudonphotographe"
     fullname: >-
-      France Ô
+      Fred Goudon photographe
+    bio: >-
+      Professional Photographer Paris & Cannes tous droits reservés / reproduction interdite contact: fredgoudon@gmail.com
     location: "France"
-    followers: 28951
-    engagement: 3168
-    commentsToLikes: 0.022430
-    id: ck55me3n33qzk0i119xsnfwrt
-    verified: true
-    hashtags: "#handicapable, #oppression, #remerciements, #difference"
-  - username: "kelleyoharauswnt"
-    fullname: >-
-      Kelley O’Hara & USWNT FAN
-    location: "France"
-    followers: 6144
-    engagement: 835
-    commentsToLikes: 0.003806
-    id: ckaos5abyq5j30i78trvmqwbo
+    followers: 28118
+    engagement: 212
+    commentsToLikes: 0.025581
+    id: ck135xerx3q1d0i19ni0lnxq8
     verified: false
-    hashtags: "#womeninsport, #header, #soccertraining, #soccergirl"
-  - username: "bbrey.932"
-    fullname: >-
-      F. BREYTON 🤍
-    location: "France"
-    followers: 3225
-    engagement: 4298
-    commentsToLikes: 0.018413
-    id: ckaova37o3oqx0i78eb8ukvm2
-    verified: false
-    hashtags: "#footballskills, #confinement, #soccerplayer, #gameweek"
-  - username: "remi_maldo"
-    fullname: >-
-      Rémi Maldonado
-    location: "France"
-    followers: 3339
-    engagement: 2945
-    commentsToLikes: 0.034863
-    id: ckap66oo1emr20i78r3ov0tks
-    verified: false
-    hashtags: "#marseillecity, #liguedeschampions, #sanson, #hilights"
+    hashtags: "#malemodel, #artcollector, #photography, #photocollection"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Chile In 2020
 description: >-
-  Find top vegan Instagram influencers in Chile in 2020. Most popular hashtags: #vegan #santiago #infinity #couplegoals.
+  Find top vegan Instagram influencers in Chile in 2020. Most popular hashtags: #chile #vegan #chilena.
 platform: Instagram
+hits: 66
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 66 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "yoga_nicoletta"
-    fullname: >-
-      Nicole Arpoulet
-    location: "Chile"
-    followers: 48345
-    engagement: 649
-    commentsToLikes: 0.034301
-    id: ck137r3ldcyks0i19dq7ufwtt
-    verified: false
-    hashtags: "#trusted, #letgo, #expansion, #moon"
   - username: "basmanicx"
     fullname: >-
-      𝕬𝖓𝖓𝖆 𝕭𝖆𝖑𝖒𝖆𝖓𝖎𝖈𝖆 🌹
+      𝕬𝖓𝖓𝖆 𝕭𝖆𝖑𝖒𝖆𝖓𝖎𝖈𝖆 🕷
+    bio: >-
+      1991 | Queerdo | Valpo, CL. DM — annabalmanica@gmail.com Cocinerx en @veganayfacil 🌱
     location: "Chile"
-    followers: 27463
-    engagement: 737
-    commentsToLikes: 0.023922
+    followers: 28511
+    engagement: 819
+    commentsToLikes: 0.026943
     id: ck14ld1ovu2340i19wzc6pgep
     verified: false
-    hashtags: "#apocalypsenownow, #bckstg, #melissasatchelcambridge, #melissachile"
-  - username: "palomasurf"
-    fullname: >-
-      ➰Paloma Santos➰
-    location: "Chile"
-    followers: 16358
-    engagement: 814
-    commentsToLikes: 0.031140
-    id: ck5hjnd1fgxhn0i110jmvpkne
-    verified: false
-    hashtags: "#ecofriendly, #painting, #hapinness, #style"
+    hashtags: "#halloween, #dragqueen, #pride, #dragqueenmakeup"
   - username: "fiseacosplay"
     fullname: >-
-      Fisea cosplay
+      Tammy
+    bio: >-
+      Una simple chica que le gustan cosas y las comparte #videogames #cosplay #cats #pastry #vegan @devirchile fiseacosplay@gmail.com Santiago, Chile
     location: "Chile"
-    followers: 30498
-    engagement: 532
-    commentsToLikes: 0.026658
+    followers: 29702
+    engagement: 500
+    commentsToLikes: 0.028172
     id: ckaovu0df65t10i78ibmb5q8a
     verified: false
-    hashtags: "#gamergirl, #dbs, #dragonballfighterz, #horror"
+    hashtags: "#stream, #31juegosdemiedo, #twitch, #cosplay"
   - username: "lunarodriguezespinoza"
     fullname: >-
       LUNA 🌙
+    bio: >-
+      ☾ vegan ☾ Tik tok & YTube: lunarodriguezespinoza ⇣ entrevista veggies ✨ . Santiago, Chile 🇨🇱
     location: "Chile"
-    followers: 53696
-    engagement: 1521
-    commentsToLikes: 0.008667
+    followers: 50536
+    engagement: 1805
+    commentsToLikes: 0.008822
     id: ck0vw0eibrjnh0i19kuuwf4ew
     verified: false
-    hashtags: "#nyxlingerie, #barriorepublica, #lunimon, #bariloche2020"
-  - username: "simonettifiorella"
+    hashtags: "#chilevegano, #chilevegan, #algarrobo, #quedateencasa"
+  - username: "palomasurf"
     fullname: >-
-      Simona Quintana Silva
+      ➰Paloma Santos➰
+    bio: >-
+      • VEGAN 🌱 • SURFISTA PROFESIONAL • 2x CAMPEONA NACIONAL🇨🇱 • SUBCAMPEONA LATINA 🥈 #eatplantsnotanimals #nomasplastico #bethechange🌎
     location: "Chile"
-    followers: 40776
-    engagement: 627
-    commentsToLikes: 0.021475
-    id: ck5c4dkhu14jc0i114t9xfbti
+    followers: 17285
+    engagement: 825
+    commentsToLikes: 0.043249
+    id: ck5hjnd1fgxhn0i110jmvpkne
     verified: false
-    hashtags: "#santiago, #nature, #terukinharules, #restart"
-  - username: "dantonbriceno21"
+    hashtags: ""
+  - username: "mariazion"
     fullname: >-
-      Danton Briceño
+      Maria Zion🎤
+    bio: >-
+      Cantante🎤Actriz🎭 Mamá👩‍👧‍👦 Terapeuta Cannábica💚 Feminismo💜 Vegan🌱 Team @mamajampower Cuenta de respaldo @feminizadas_ Patagonia 🇨🇱 Canal Youtube⬇️
     location: "Chile"
-    followers: 5595
-    engagement: 902
-    commentsToLikes: 0.017788
-    id: ck5zkpdtajwrb0i143znmz73x
+    followers: 13788
+    engagement: 438
+    commentsToLikes: 0.034594
+    id: ck5q11oz08u6z0i11mj156ale
     verified: false
-    hashtags: "#frenchbulldog, #comidavegana, #menstyle, #house"
+    hashtags: "#woman, #culture, #chile, #body"
+  - username: "natalia_hates_you"
+    fullname: >-
+      🌹 Natalia
+    bio: >-
+      Yo vivo en una cáscara de nuez 🌰 🎪 Dance to live, live to dance 🎭 XXI años🔮 CDMX 🏙 Vegan 🌱
+    location: "Chile"
+    followers: 18002
+    engagement: 850
+    commentsToLikes: 0.115077
+    id: ckaoz4v0nkdl40i78p0x3pwaa
+    verified: false
+    hashtags: "#makeup, #wakeupandmakeup, #graphiclinerlook, #graphicliner"
   - username: "antoyanezl"
     fullname: >-
       Anto Yáñez Lasalvia
+    bio: >-
+      ￼🏳️‍🌈 VEGAN 🌱
     location: "Chile"
-    followers: 4738
-    engagement: 1098
-    commentsToLikes: 0.067763
+    followers: 4657
+    engagement: 1120
+    commentsToLikes: 0.067636
     id: ck0w1c1asilbj0i19ir9xta0e
     verified: false
-    hashtags: "#veganpower, #veganathlete, #ripcurlpro, #chiledespierto"
-  - username: "recetasdejavi"
+    hashtags: "#chiledespierto, #ridewithyourfamily, #veganlife, #veganathlete"
+  - username: "tomxx"
     fullname: >-
-      Javi - Plant Based Chef
+      Oscar Silva  𓆏
+    bio: >-
+      Tatuajes y pinturas 🌚 🌝 Vegan 🐸❤️ @tomxx___ For prints and original paintings on the link
     location: "Chile"
-    followers: 69538
-    engagement: 236
-    commentsToLikes: 0.107748
-    id: ck5hogrpnpjbn0i11j5wflf3b
+    followers: 16215
+    engagement: 815
+    commentsToLikes: 0.013641
+    id: ck9weuhuhlvyq0j781ubhpds2
     verified: false
-    hashtags: "#plantbasedchef, #cervezaorganica, #muffins, #babaganoush"
-  - username: "natacha.333"
+    hashtags: "#bright, #tradflash, #paperworkers, #oldlines"
+  - username: "lascocinerasmetaleras"
     fullname: >-
-      humalien 👽✨
+      Jazmín Silva
+    bio: >-
+      ¡Hola! Soy Jazmín, escribo recetas veganas y cocino mucho😊🤘🏼 Cuido a 4 perritas viejitas @losaniosdoradoscaninos 🥰 @tiendalascocinerasmetaleras #vegan
     location: "Chile"
-    followers: 6310
-    engagement: 794
-    commentsToLikes: 0.059541
-    id: ck5hs6dasw2fy0i11r10bdo1l
+    followers: 39446
+    engagement: 193
+    commentsToLikes: 0.062631
+    id: ck6udh1z8l26a0j71ruk6qa80
     verified: false
-    hashtags: "#pacoasesino, #ndombolodance, #mononoke, #naija"
+    hashtags: "#stayhome, #tutieneslareceta, #elfuturoesvegano, #vegan"
+  - username: "elialbasetti"
+    fullname: >-
+      Eliana Albasetti
+    bio: >-
+      🇦🇷 en 🇨🇱 🎭 •Actriz •mamá de Emilia y Luján. Vegana 🌱por amor. Mis datos de mamá en @yooytv 👇
+    location: "Chile"
+    followers: 324182
+    engagement: 124
+    commentsToLikes: 0.055840
+    id: ck5zkv5ibk7r70i14104fbmux
+    verified: true
+    hashtags: "#vegan, #veganoschile, #vivecrueltyfree, #crueltyfree"
 ---

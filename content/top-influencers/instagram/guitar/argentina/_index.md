@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Argentina In 2020
 description: >-
-  Find top guitar Instagram influencers in Argentina in 2020. Most popular hashtags: # #2020 #cover #travel.
+  Find top guitar Instagram influencers in Argentina in 2020. Most popular hashtags: #guitarra #guitar #music #stratocaster.
 platform: Instagram
+hits: 139
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 139 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "sheissoheavy"
     fullname: >-
       мєℓιѕѕα exx 🖤🔪
+    bio: >-
+      Guitarra y voz en @magicclicks 🔥 #music #videogames #whisky Marketing y comunicación👩🏼‍💻 Alien exist 👽
     location: "Argentina"
-    followers: 20286
-    engagement: 531
-    commentsToLikes: 0.140759
+    followers: 20015
+    engagement: 532
+    commentsToLikes: 0.146710
     id: ck5q7qxm72q4n0i110ij541gr
     verified: false
-    hashtags: "#selfie, #enjoy, #acousticcover, #hole"
-  - username: "jccoronels"
+    hashtags: "#sweetmusic, #gamergirl, #ps4, #guitarcover"
+  - username: "alvaro_martin27"
     fullname: >-
-      𝐉𝐮𝐚𝐧 𝐂𝐚𝐫𝐥𝐨𝐬 𝐂𝐨𝐫𝐨𝐧𝐞𝐥 ⚡️
+      𝕆𝕝𝕕𝕤𝕔𝕙𝕠𝕠𝕝🎸𝔹𝕝𝕦𝕖𝕤&ℝ𝕠𝕔𝕜
+    bio: >-
+      Old School guitar player Posadas, Misiones.🇦🇷 Songwriter, online Lessons, Endorsed by @kellerguitar @magslide New Song
     location: "Argentina"
-    followers: 6842
-    engagement: 644
-    commentsToLikes: 0.209450
-    id: ck5c0fjpwt19x0i11vr8x76t4
+    followers: 17069
+    engagement: 350
+    commentsToLikes: 0.109367
+    id: ck602m9gfhyoo0i14n4noi1p2
     verified: false
-    hashtags: "#concierto, #kurtcobain, #nirvana, #aliceinchains"
-  - username: "tonibaeza"
-    fullname: >-
-      Antonio Baeza
-    location: "Argentina"
-    followers: 14233
-    engagement: 1463
-    commentsToLikes: 0.016380
-    id: ck8szmp6ep0oa0j788p3ifk2z
-    verified: false
-    hashtags: "#happy, #giveaway, #elveranoyallego, #torredeloro"
-  - username: "lula_bertoldi"
-    fullname: >-
-      Lula Bertoldi
-    location: "Argentina"
-    followers: 129300
-    engagement: 303
-    commentsToLikes: 0.026444
-    id: ck0uefpp6l8xv0i19inb5wmvf
-    verified: true
-    hashtags: ""
-  - username: "diegomema"
-    fullname: >-
-      Diego Mema
-    location: "Argentina"
-    followers: 6527
-    engagement: 1299
-    commentsToLikes: 0.029780
-    id: ck5c2tgxwxy2f0i11j0wykgmj
-    verified: false
-    hashtags: ""
-  - username: "edgarde9"
-    fullname: >-
-      Edgar Gomez
-    location: "Argentina"
-    followers: 27594
-    engagement: 462
-    commentsToLikes: 0.022527
-    id: ck14k5165nra30i19amqpvvr3
-    verified: false
-    hashtags: "#sanbernardino, #carnavales, #quedateencasa, #susanagimenez"
+    hashtags: "#zztop, #rorygallagher, #pickariff, #guitarlover"
   - username: "lautaro_bartoli"
     fullname: >-
       LAUTA
+    bio: >-
+      Guitarrista caligaris//// dj-producer////beatmaker///
     location: "Argentina"
-    followers: 19751
-    engagement: 580
-    commentsToLikes: 0.015035
+    followers: 19424
+    engagement: 547
+    commentsToLikes: 0.018565
     id: ck5qcxlpmstm60i11cx9uqgic
     verified: false
-    hashtags: ""
-  - username: "pato_cromado"
-    fullname: >-
-      PaTo Montes
-    location: "Argentina"
-    followers: 7491
-    engagement: 634
-    commentsToLikes: 0.012816
-    id: ck5cbyr5lgeog0i112miqzbt4
-    verified: false
-    hashtags: "#rockabillystyle, #oaxaca, #twilight, #selfies"
+    hashtags: "#festivalonline, #lanuevaera, #cosquinrock2020, #loscaligarisoficial"
   - username: "patriciosardelli"
     fullname: >-
       AIRBAG
+    bio: >-
+      AIRBAG oficial voz y guitarra @AIRBAG.oficial Airbagcontrataciones@gmail.com
     location: "Argentina"
-    followers: 229434
-    engagement: 644
-    commentsToLikes: 0.027887
+    followers: 235687
+    engagement: 592
+    commentsToLikes: 0.036250
     id: ck0u2kytr069w0i19ngrnj3e8
     verified: true
-    hashtags: "#2020, #musica, #chizzo, #chopper"
+    hashtags: "#estreno, #lunapark, #2020, #musica"
+  - username: "pato_cromado"
+    fullname: >-
+      PaTo Montes
+    bio: >-
+      Pachuco-Mexica-Greaser Guitarrista y compositor en Maldita Vecindad. Los Deskarriados y Los Cromados.
+    location: "Argentina"
+    followers: 7978
+    engagement: 572
+    commentsToLikes: 0.013038
+    id: ck5cbyr5lgeog0i112miqzbt4
+    verified: false
+    hashtags: "#pachucos, #taxicocodrilo, #cdmx, #pachucostyle"
   - username: "marcoscasco7"
     fullname: >-
       Marcos Casco
+    bio: >-
+      Músico🇦🇷/guitarrista/ guitarrista de @labarraok Endorser @medinaartigas ▶️Mi canal de YouTube -HAZ CLICK AQUÍ!!!!! 👇👇👇👇👇👇👇👇👇👇👇👇👇
     location: "Argentina"
-    followers: 9248
-    engagement: 680
-    commentsToLikes: 0.086663
+    followers: 10356
+    engagement: 491
+    commentsToLikes: 0.130556
     id: ck139eqzgkydi0i19ico3gk9t
     verified: false
-    hashtags: "#2019, #grecia, #merengueguira, #egbertogismonti"
+    hashtags: "#photooftheday, #labarra, #singer, #fenderstratocaster"
+  - username: "eiro_nareth"
+    fullname: >-
+      Eiro Nareth
+    bio: >-
+      • YouTuber (1 million+) Check out my music, guitar tabs and YouTube channel here:
+    location: "Argentina"
+    followers: 86615
+    engagement: 958
+    commentsToLikes: 0.020569
+    id: ck0u8esmw760o0i196mkoq2e4
+    verified: false
+    hashtags: "#guitarsolo, #dailymusicians, #juicyguitars, #guitarriff"
+  - username: "miguelgarrido1989"
+    fullname: >-
+      Miguel Garrido 🇦🇷🎸
+    bio: >-
+      🎸- Guitarrista - @diceros_rock 🎛- Endorser de @catalina_custom_pedalboards 🎚- Técnico en Sonido 🏠- Recreo - Catamarca
+    location: "Argentina"
+    followers: 12667
+    engagement: 429
+    commentsToLikes: 0.082076
+    id: ck8t65phecbdr0j78r9vm26fc
+    verified: false
+    hashtags: "#ibanezjem, #rock, #music, #guitarrista"
+  - username: "franvillaveiran"
+    fullname: >-
+      Fran Villaveiran
+    bio: >-
+      Co-Director/Fundador @parisjazzclubbaoficial 🎬👉🏼 Producciones Musicales 👥👉🏼 Clases de Guitarra & Clarinete ONLINE 📺👉🏼YouTube: Fran Villaveiran
+    location: "Argentina"
+    followers: 9379
+    engagement: 317
+    commentsToLikes: 0.149483
+    id: ck6u9ynem0fxv0j71to7fdglb
+    verified: false
+    hashtags: "#rocknacional, #guitarra, #practice, #clarinet"
+  - username: "alaniarussi"
+    fullname: >-
+      Alan Iarussi
+    bio: >-
+      Guitar Player & Educator 🌎Website: alaniarussi.com 📚Patreon: TABs and Guitar Lessons 👇
+    location: "Argentina"
+    followers: 163296
+    engagement: 285
+    commentsToLikes: 0.015926
+    id: ck0w1wj2tlhh60i196af6agb5
+    verified: false
+    hashtags: "#riffs4u, #guitare, #stratocaster, #guitarteacher"
 ---

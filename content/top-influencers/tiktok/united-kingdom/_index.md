@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #pov #ourlocal #pourthemilk.
+  Find top TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
+hits: 11999
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 11999 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "ollyince"
+  - username: "maesroutines"
+    fullname: >-
+      mae ☻︎
+    bio: >-
+      💌 - beachutsstiktok@gmail.com taking a short break for personal reasons :) <33
+    location: "United Kingdom"
+    followers: 7808
+    engagement: 3615
+    commentsToLikes: 0.262073
+    id: ckc7nj76mtnxg0j23kaz9owb2
+    verified: false
+    hashtags: "#forupage, #calming, #bookclub, #acaibowl"
+  - username: "olly_ince"
     fullname: >-
       Olly Ince
+    bio: >-
+      Check out my insta ⬆️ 🇬🇧TEA IS LIFE 🇬🇧 🐘 Email Ollyince@bytesizedtalent.com
     location: "United Kingdom"
-    followers: 893283
-    engagement: 3759
-    commentsToLikes: 0.020413
+    followers: 1200000
+    engagement: 3507
+    commentsToLikes: 0.039967
     id: ck83zsudf2re60j78msci4mkt
     verified: true
-    hashtags: "#lockdownlewks, #ourlocal, #react, #uktrivia"
-  - username: "thequeerkiwi"
+    hashtags: "#ollynews, #ukcomedy, #foryou, #halloween"
+  - username: "finnverdejo"
     fullname: >-
-      ✨ eat the rich ✨
+      FinnVerdejo
+    bio: >-
+      ~ 17 ~ Only good vibes here.... ❤️🧡💛💚💙💜 He/Him
     location: "United Kingdom"
-    followers: 77368
-    engagement: 3581
-    commentsToLikes: 0.048082
-    id: ck8sa9z6g162s0j78zcu94kiv
+    followers: 198800
+    engagement: 2941
+    commentsToLikes: 0.033912
+    id: ckcdz3myph0gf0j23bp0junly
     verified: false
-    hashtags: "#bi, #women, #sudan, #womensmarch"
-  - username: "cosevie"
+    hashtags: "#fyp, #gay, #jokes, #cute"
+  - username: "celynhaf"
     fullname: >-
-      ♡𝓬𝓸𝓼𝓮𝓿𝓲𝓮♡
+      Celyn Haf Sings
+    bio: >-
+      CEO of painting tiny things! 💌 | celynhaf@outlook.com Buy Stickers and more ⤵️
     location: "United Kingdom"
-    followers: 173546
-    engagement: 3107
-    commentsToLikes: 0.033746
+    followers: 1200000
+    engagement: 2575
+    commentsToLikes: 0.026332
+    id: ck8adau8b4qzs0j78p2s5thmm
+    verified: true
+    hashtags: "#pumpkin, #fyp, #minecraft, #foryou"
+  - username: "wascosevie"
+    fullname: >-
+      gone to: @cosevie
+    bio: >-
+      tiktok hates me so bye go to @cosevie
+    location: "United Kingdom"
+    followers: 189100
+    engagement: 2475
+    commentsToLikes: 0.035055
     id: ck83ys6l5v8nq0j78vwktuz3u
     verified: false
-    hashtags: "#animalcrossing, #animalcrossingnewhorizons, #genderbend, #bestfriends"
-  - username: "lianajadee"
+    hashtags: "#legendofzelda, #zeldabotwcosplay, #fnaf, #fnafcosplay"
+  - username: "newrulesband"
     fullname: >-
-      Liana
+      newrulesband
+    bio: >-
+      An Englishman, an Irishman and a baby deer
     location: "United Kingdom"
-    followers: 3022661
-    engagement: 2628
-    commentsToLikes: 0.015256
-    id: ck8adhwyc6chv0j78nafdgj3k
+    followers: 81800
+    engagement: 2374
+    commentsToLikes: 0.060317
+    id: ck9343cocqvos0j78ph4aq19k
     verified: true
-    hashtags: "#oreosticksandwich, #ukfood, #ad, #advert"
-  - username: "itzshauni"
+    hashtags: "#2020rewind, #band, #soover2020, #fyp"
+  - username: "astonjx"
     fullname: >-
-      Shauni
+      Aston Jepson
+    bio: >-
+      FOLLOW MY INSTAGRAM ⬆️Aston_jepson❤️ Leave a DM ;) Followers =👑
     location: "United Kingdom"
-    followers: 5394447
-    engagement: 2621
-    commentsToLikes: 0.017505
-    id: ck8ae75wyaevq0j78b05p5zgg
-    verified: true
-    hashtags: "#pourthemilk, #tutorial, #pug"
-  - username: "joelmagician"
+    followers: 279000
+    engagement: 2276
+    commentsToLikes: 0.043893
+    id: ck8oxdgup1xsc0j78mrrpt5x4
+    verified: false
+    hashtags: "#foryou, #astonjepson, #o2bubldance, #duet"
+  - username: "artistic_senpai"
     fullname: >-
-      JOEL M ⚡️
+      Artistic senpai
+    bio: >-
+      ❄️ ARTIST ❄️ | MALE | | 18 | ❤️Follow my socials❤️ 😳 face reveal at 500k 😳
     location: "United Kingdom"
-    followers: 2786945
-    engagement: 2580
-    commentsToLikes: 0.036738
-    id: ck8z9zsyyzwyb0j78g800y259
-    verified: true
-    hashtags: "#puzzle, #magician, #avamax, #kingsandqueens"
-  - username: "jamesowen1999"
+    followers: 303300
+    engagement: 2256
+    commentsToLikes: 0.037720
+    id: ck81qq9kxixxj0j782jdyaxur
+    verified: false
+    hashtags: ""
+  - username: "lydiasingerhq"
     fullname: >-
-      JamesOwen 
+      lydia
+    bio: >-
+      9 teen Insta - @lydiasingerhq 💗💗💗
     location: "United Kingdom"
-    followers: 832229
-    engagement: 2562
-    commentsToLikes: 0.116053
-    id: ck8fb24g855e30j78z4mw927d
-    verified: true
-    hashtags: "#nhs, #greengang, #foryoupag, #nandos"
-  - username: "buddythedappleddachshund"
+    followers: 81400
+    engagement: 2202
+    commentsToLikes: 0.063956
+    id: ck8ae429u9n4x0j78dfxmr4on
+    verified: false
+    hashtags: "#duet, #fyp, #foryou, #blm"
+  - username: "ciphord"
     fullname: >-
-      Buddythedappleddach
+      🦷 𝑀𝐴𝑋𝑊𝐸𝐿𝐿 ⛓
+    bio: >-
+      ⚠︎︎ I always come back Male / 🇬🇧 / INTJ / 22 8bitrainbow’s Husband💍 Check IG
     location: "United Kingdom"
-    followers: 141437
-    engagement: 2488
-    commentsToLikes: 0.045674
-    id: ck8136fh405x20j78gdt83uzb
-    verified: true
-    hashtags: "#dogsfunny, #pupsoftiktok, #incoming, #duet"
-  - username: "imnickrobertson"
-    fullname: >-
-      I'm Nick Robertson
-    location: "United Kingdom"
-    followers: 1254181
-    engagement: 2478
-    commentsToLikes: 0.024881
-    id: ck83wuuuym9fi0j78td6odl7k
-    verified: true
-    hashtags: "#brothers, #breakfast, #50memesin50seconds, #canttouchthis"
-  - username: "mr_tov"
-    fullname: >-
-      OLA
-    location: "United Kingdom"
-    followers: 1601893
-    engagement: 2474
-    commentsToLikes: 0.021839
-    id: ck81r0bdwle2j0j78pv84u4u0
-    verified: true
-    hashtags: "#albumcover, #rosesarered, #brighterinside, #winnerwinner"
+    followers: 69100
+    engagement: 2160
+    commentsToLikes: 0.066263
+    id: cka6mw42m8xa50i78r78k8aem
+    verified: false
+    hashtags: "#moxxiecosplay, #glitchtrap, #malhare, #helluvaboss"
 cities:
   - name: London
     link: /tiktok/united-kingdom/london

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Barcelona In 2020
 description: >-
-  Find top fitness TikTok influencers in Barcelona in 2020. Most popular hashtags: #fitness #girls #workout #challenge.
+  Find top fitness TikTok influencers in Barcelona in 2020. Most popular hashtags: #fitness #parati #viral #foryou.
 platform: TikTok
+hits: 4
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "sergiocuho"
+  - username: "aaronboom"
     fullname: >-
-      Sergio Cuho
+      Aaron Boom
+    bio: >-
+      En INSTAGRAM subo vídeos mejores I LOVE PARKOUR I LOVE FLIPS I LOVE SUSHI
     location: "Spain"
-    followers: 11322
-    engagement: 772
-    commentsToLikes: 0.038726
-    id: cka106wb6ifrh0i7851jzgtww
+    followers: 462300
+    engagement: 991
+    commentsToLikes: 0.022701
+    id: ck90z7sgxcytx0j78iroggyey
     verified: false
-    hashtags: "#double, #seeingdouble, #pushup, #noemi"
+    hashtags: "#frontflip, #fitness, #parkourbarcelona, #barcelona"
+  - username: "vericashians"
+    fullname: >-
+      VERICASHIANS
+    bio: >-
+      📍Barcelona Sara, Júlia, Carla y Paula IG: @vericashians
+    location: "Spain"
+    followers: 44300
+    engagement: 1341
+    commentsToLikes: 0.009540
+    id: ckbfewpyg9al30j23k2o9qxs1
+    verified: false
+    hashtags: "#parati, #spain, #fyp, #destacame"
   - username: "paasky_jr"
     fullname: >-
       Àlex Pascual
+    bio: >-
+      Insta: @pasky_jr From Barcelona📍
     location: "Spain"
-    followers: 6231
-    engagement: 734
-    commentsToLikes: 0.011768
+    followers: 15200
+    engagement: 687
+    commentsToLikes: 0.007356
     id: cka0igd2cdlgj0i78g27mtaff
     verified: false
-    hashtags: "#heavyweight, #photo, #frontlever, #photomagic"
-  - username: "geraldineofficiel"
+    hashtags: "#gym, #freelive, #crazy, #friends"
+  - username: "fabio_mendoza"
     fullname: >-
-      Geraldine officiel
+      Fabio Vega
+    bio: >-
+      
     location: "Spain"
-    followers: 25223
-    engagement: 321
-    commentsToLikes: 0.061191
-    id: ck9uxs9rq1dmr0j78z8c8i9z5
+    followers: 0
+    engagement: 1267
+    commentsToLikes: 0.012749
+    id: ck9jvth1kto110j78vnlr2m33
     verified: false
-    hashtags: "#fashion, #funky, #barcelona, #nationality"
-  - username: "paulagilabert"
-    fullname: >-
-      Paula Gilabert
-    location: "Spain"
-    followers: 12495
-    engagement: 544
-    commentsToLikes: 0.015566
-    id: ckail07uxlz0z0i788cijlljg
-    verified: false
-    hashtags: "#trainding, #martes, #views, #extremesports"
+    hashtags: "#life, #handstand, #focus, #workout"
   - username: "fitnesa"
     fullname: >-
       CLAUDIA🇪🇸🤗🇵🇱
+    bio: >-
+      45+VIDA FITNESS/ half 🇪🇦half🇵🇱 KETO Y AYUNO INTERMITENTE Insta: @PHOTOWOMAN
     location: "Spain"
-    followers: 31395
-    engagement: 653
-    commentsToLikes: 0.090280
+    followers: 42500
+    engagement: 964
+    commentsToLikes: 0.125366
     id: ck9009zpea64e0j788uj75xei
     verified: false
-    hashtags: "#alma, #polkichurra, #operacionbikini, #solo"
+    hashtags: "#gym, #energiapositiva, #positive, #ayunointermitente"
+  - username: "jcarlosfitness"
+    fullname: >-
+      Jcarlosfitness
+    bio: >-
+      Valencia,Spain🌍🇪🇸 Fitness Insta:@Jcarlosfitness☝🏼 Bailarin de cuarentena😅🤣
+    location: "Spain"
+    followers: 51200
+    engagement: 912
+    commentsToLikes: 0.056248
+    id: ckb9tyw1fsd270j23outo8xnu
+    verified: false
+    hashtags: "#viral, #parati, #afrodance, #xyzbca"
+  - username: "sarumi_"
+    fullname: >-
+      Sarumi
+    bio: >-
+      💪🏻| Fitness ♥️| Instagram: @sarumii_ ✉️| sarajm.contact@gmail.com #DuetSarumi
+    location: "Spain"
+    followers: 153300
+    engagement: 1127
+    commentsToLikes: 0.015861
+    id: ckbko9u9eig0s0j23er1dben7
+    verified: false
+    hashtags: "#tuneldeltiempo, #loserschallenge, #haul, #bershka"
+  - username: "marulekhal"
+    fullname: >-
+      MARU LEKHAL
+    bio: >-
+      ▪️SUPERMAN/FITNESS MODEL ◾️INSTAGRAM. @MARULEKHAL ☝🏽
+    location: "Spain"
+    followers: 60700
+    engagement: 993
+    commentsToLikes: 0.022364
+    id: ckbf869y5yix80j23td4jd0nb
+    verified: false
+    hashtags: "#challenge, #descubreme, #gym, #tiktok"
+  - username: "vittoriasajir"
+    fullname: >-
+      VittoriaSajir
+    bio: >-
+      YT & IG ☀️ VITTORIASAJIR 💙Mom of Ricky and Sebas💙 💄 Beauty • Fitness 💪
+    location: "Spain"
+    followers: 10700
+    engagement: 1425
+    commentsToLikes: 0.013665
+    id: ckbf4v8qctibw0j23fvum35uj
+    verified: false
+    hashtags: "#estate, #estate2020, #perte, #weightloss"
   - username: "fitcat"
     fullname: >-
       Danny Hinsch
+    bio: >-
+      Creadora de contenido 🇮🇨G.C Humor, baile, fitness y amante del 😻 #catdanny
     location: "Spain"
-    followers: 20797
-    engagement: 653
-    commentsToLikes: 0.030070
+    followers: 68000
+    engagement: 417
+    commentsToLikes: 0.034558
     id: cka0nyb0x1dyo0i789gh7j1hm
     verified: false
-    hashtags: "#carmenlomana, #coronatime, #lqsa, #surfing"
-  - username: "leenasofia"
-    fullname: >-
-      Leena
-    location: "Spain"
-    followers: 430190
-    engagement: 549
-    commentsToLikes: 0.012632
-    id: ck8tq5kjyqpav0j78ofiu3d80
-    verified: false
-    hashtags: "#goviral, #ejercitodemi, #quarantine, #ad"
-  - username: "crispo___"
-    fullname: >-
-      CrIsPo
-    location: "Spain"
-    followers: 11241
-    engagement: 1035
-    commentsToLikes: 0.070248
-    id: ck904fbtbe5170j78rv7j9v7m
-    verified: false
-    hashtags: "#quedateencasa, #garabato, #sirenbeat, #dance"
-  - username: "maydenyt"
-    fullname: >-
-      Maydensito
-    location: "Spain"
-    followers: 117142
-    engagement: 1566
-    commentsToLikes: 0.012894
-    id: ck9036wo3d35c0j780m1gvxd6
-    verified: false
-    hashtags: "#risa, #inverted, #gym, #fitnesschallenge"
-  - username: "maydenynatalia"
-    fullname: >-
-      ExpCaseros
-    location: "Spain"
-    followers: 550781
-    engagement: 1531
-    commentsToLikes: 0.011155
-    id: ck9016mkzbchp0j78251v2er1
-    verified: false
-    hashtags: "#cocina, #info, #sevilla, #realmadrid"
+    hashtags: "#tiktokmascotas, #comedia, #espa, #fit"
 ---

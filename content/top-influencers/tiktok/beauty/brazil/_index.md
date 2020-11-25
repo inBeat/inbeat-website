@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Brazil In 2020
 description: >-
-  Find top beauty TikTok influencers in Brazil in 2020. Most popular hashtags: #quarentena #foryoupage #makeup #humor.
+  Find top beauty TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #makeup #fy.
 platform: TikTok
+hits: 127
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 127 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "janataffarel"
     fullname: >-
       Janaina Taffarel
+    bio: >-
+      Beauty • Makeup INSTA: @janataffarel
     location: "Brazil"
-    followers: 109889
-    engagement: 1702
-    commentsToLikes: 0.011415
+    followers: 216500
+    engagement: 2027
+    commentsToLikes: 0.016187
     id: ck9aa7cocje4e0j78dxyx5vpg
     verified: true
-    hashtags: "#beautyhacks, #morphe, #rubyrose, #foxyeyes"
-  - username: "mariaaaah5"
+    hashtags: "#foryou, #beauty, #makeup, #fakenails"
+  - username: "victorg_j"
     fullname: >-
-      maria verçosa
+      go¡s
+    bio: >-
+      ✨black beauty✨ 19y 🖤ig: @victtorjg🖤 ñ curtam + de 3 vídeos seguidos pfvzin 🤍
     location: "Brazil"
-    followers: 7449
-    engagement: 302
-    commentsToLikes: 0.062261
-    id: ckaib6p14f88y0i78kirrk3mz
+    followers: 157600
+    engagement: 2097
+    commentsToLikes: 0.024481
+    id: ckb1bygui0nfp0j235i3eo8k7
     verified: false
-    hashtags: "#desafiofitness, #happydance, #todegraca, #tiktokblogger"
+    hashtags: "#fyp, #makeup, #viral, #fly"
+  - username: "wandrumont"
+    fullname: >-
+      Wanderson Drumont
+    bio: >-
+      Beauty artist 👩‍🎨 Lipsync 🎙 Comedy 🤣
+    location: "Brazil"
+    followers: 15200
+    engagement: 1478
+    commentsToLikes: 0.121259
+    id: ck9ng9mv5f2r00j78mi1hee7v
+    verified: false
+    hashtags: "#halloween, #makeupartist, #makeup, #foryou"
   - username: "renatasantti"
     fullname: >-
       Renata Santti
+    bio: >-
+      beauty • makeup renatasantti em todas as redes, te espero por lá 😍
     location: "Brazil"
-    followers: 272603
-    engagement: 1755
-    commentsToLikes: 0.009193
+    followers: 397200
+    engagement: 2175
+    commentsToLikes: 0.009758
     id: ck9jx0qafyr8a0j78drmv1hyr
     verified: true
-    hashtags: "#foxyeyes, #domchallenge, #selfiecomemoji, #arianagrande"
+    hashtags: "#fy, #fyp, #foryou, #nickelodeon"
   - username: "feeee2020"
     fullname: >-
       Penelope
+    bio: >-
+      The beauty 👩‍🦳and the Beast🦁✌️🇧🇷 Snap fefepenelope
     location: "Brazil"
-    followers: 7202
-    engagement: 990
-    commentsToLikes: 0.034138
+    followers: 21300
+    engagement: 1378
+    commentsToLikes: 0.032562
     id: ck9ej8di31d7a0j78wflyss8n
     verified: false
-    hashtags: "#viraldance, #funkbrasil, #dueto, #viral"
-  - username: "vandressarib"
-    fullname: >-
-      Vadressa Ribeiro
-    location: "Brazil"
-    followers: 87053
-    engagement: 1644
-    commentsToLikes: 0.008490
-    id: ck9kcnz9eqcnp0j78yza4idg9
-    verified: false
-    hashtags: "#converseallstar, #hairtutorial, #getthelook, #hair"
+    hashtags: "#fyp, #funkbrasil, #foryoupage, #parati"
   - username: "kenyaborgess"
     fullname: >-
       Kenya Borges
+    bio: >-
+      beauty | makeup dark skin ig @kenyaborgess
     location: "Brazil"
-    followers: 49247
-    engagement: 1367
-    commentsToLikes: 0.011602
+    followers: 111100
+    engagement: 1791
+    commentsToLikes: 0.010279
     id: ck9kegoseytqu0j787qo2uzps
     verified: false
-    hashtags: "#freezer, #comearoundmechallenge, #losemybreath, #fy"
+    hashtags: "#ad, #embelleze, #tiktokfashion, #natucor"
+  - username: "eduardaborgs"
+    fullname: >-
+      Eduarda Borges
+    bio: >-
+      🇧🇷 beauty and lifestyle creator natural skincare✨ INSTA: @eduardaborgs_
+    location: "Brazil"
+    followers: 193700
+    engagement: 1002
+    commentsToLikes: 0.017610
+    id: ckb931fdojhx70j234cm48np9
+    verified: false
+    hashtags: "#fyp, #acneskin, #foryoupage, #fy"
+  - username: "brunaayra"
+    fullname: >-
+      Bruna Ayra 
+    bio: >-
+      Beauty & makeup
+    location: "Brazil"
+    followers: 356900
+    engagement: 1481
+    commentsToLikes: 0.008657
+    id: ckdi8kwf9b5lv0j23wf8y0152
+    verified: false
+    hashtags: "#maquiagem, #viral, #foryoupage, #humor"
+  - username: "vandressarib"
+    fullname: >-
+      Vandressa Ribeiro
+    bio: >-
+      Beauty and Lifestyle 💖 INSTAGRAM: @vandressarib www.youtube.com/vandressarib
+    location: "Brazil"
+    followers: 103500
+    engagement: 1526
+    commentsToLikes: 0.008830
+    id: ck9kcnz9eqcnp0j78yza4idg9
+    verified: false
+    hashtags: "#cabelocacheado, #ootd, #gera, #curlyhair"
   - username: "mnovais_"
     fullname: >-
       Mariana Novais
+    bio: >-
+      TRAVEL | BEAUTY | SPORTS 🎥 3,3M 🔥
     location: "Brazil"
-    followers: 26793
-    engagement: 595
-    commentsToLikes: 0.026702
+    followers: 33200
+    engagement: 541
+    commentsToLikes: 0.018354
     id: ck9gmhbecsgj50j78rzsx601m
     verified: false
-    hashtags: "#jericoacoara, #noflagra, #tirolesa, #lima"
-  - username: "dri_martinss"
-    fullname: >-
-      Dri Martins
-    location: "Brazil"
-    followers: 15608
-    engagement: 592
-    commentsToLikes: 0.014038
-    id: cka6e7v6rasof0i78rw4ewshb
-    verified: false
-    hashtags: "#homens, #voar, #cats, #modelchallenge"
-  - username: "lua__andrad"
-    fullname: >-
-      lua_andrad
-    location: "Brazil"
-    followers: 10058
-    engagement: 927
-    commentsToLikes: 0.013649
-    id: ckan4egtn9qt00i786o03wfjk
-    verified: false
-    hashtags: "#foraprior, #tiktokchalleng, #maquiadora, #chocolate"
-  - username: "luccasluccas"
-    fullname: >-
-      Luccas Rodrigues
-    location: "Brazil"
-    followers: 69899
-    engagement: 1442
-    commentsToLikes: 0.006322
-    id: ck8w3evad7h1r0j7803th0nec
-    verified: false
-    hashtags: "#jlosuperbowlchallenge, #beauty, #clinton, #publi"
+    hashtags: "#travelthrowback, #tiktokviagem, #viral, #traveldiaries"
 ---

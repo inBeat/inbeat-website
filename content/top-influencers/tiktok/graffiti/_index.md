@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graffiti TikTok Influencers In 2020
 description: >-
-  Find top graffiti TikTok influencers in 2020. Most popular hashtags: #sketch #letters #streetart #billieeilish.
+  Find top graffiti TikTok influencers in 2020. Most popular hashtags: #graffiti #art #streetart #painting.
 platform: TikTok
+hits: 207
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 207 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "jab.manu"
+  - username: "graffiti_030"
     fullname: >-
-      Manu Jab Thaler
-    location: "Austria"
-    followers: 4395
-    engagement: 1227
-    commentsToLikes: 0.105379
-    id: cka65s1aieczf0i789w0ut66c
+      Graffiti_030
+    bio: >-
+      Instagram: graffiti_030
+    location: "United Kingdom"
+    followers: 10400
+    engagement: 1908
+    commentsToLikes: 0.181760
+    id: ckb1ajz0bywcy0j23o8r22bzi
     verified: false
-    hashtags: "#homefitness, #painting, #drone, #bike"
-  - username: "derkz_"
+    hashtags: "#sans, #creepypasta, #ticcitobycosplay, #mysticmessenger"
+  - username: "doketv"
     fullname: >-
-      DERKZ Graffiti 🇨🇦
-    location: "Canada"
-    followers: 66145
-    engagement: 1379
-    commentsToLikes: 0.012322
-    id: ck8vtj5yogfzp0j78nr2kxdgz
+      Doke Tv
+    bio: >-
+      Graffiti Artist from Slovakia 🇸🇰 Insta: @doketv YouTube: DokeTV
+    location: "Slovakia"
+    followers: 26600
+    engagement: 1513
+    commentsToLikes: 0.009065
+    id: ckb19d5iaxglj0j23wtyrsliq
     verified: false
-    hashtags: "#portait, #painting, #logo, #colour"
+    hashtags: "#painting, #drawing, #challenge, #streetartist"
+  - username: "machinestudio"
+    fullname: >-
+      Machine Studio
+    bio: >-
+      Tutorials on graffiti tools and spray paint art techniques.
+    location: "United States"
+    followers: 143300
+    engagement: 1414
+    commentsToLikes: 0.005785
+    id: ckbaxhbzqnwjp0j23cj02ujqk
+    verified: false
+    hashtags: "#spraycaps, #rustoleum, #graffiti, #graffitiart"
   - username: "rake_43"
     fullname: >-
       Rake43
+    bio: >-
+      🌐 Graffiti Artist & Graphic Designer 📍Based in Madrid
     location: "Spain"
-    followers: 251740
-    engagement: 1198
-    commentsToLikes: 0.004756
+    followers: 246400
+    engagement: 1316
+    commentsToLikes: 0.004636
     id: ck9f2fpfucxo70j78v90cgj9q
     verified: false
-    hashtags: "#rake43, #drawing, #talentostiktok, #letters"
-  - username: "gman_graffiti_kings"
+    hashtags: "#graffiti, #colors, #painting, #lettering"
+  - username: "arsek_erase"
     fullname: >-
-      Gman
-    location: "United Kingdom"
-    followers: 3724
-    engagement: 492
-    commentsToLikes: 0.019356
-    id: cka0rgfufgzld0i78e8uwwkcw
+      Arsek_Erase
+    bio: >-
+      Arsek and Erase graffiti duo, traveling around the world. Insta: arsek_erase ❤️
+    location: "Bulgaria"
+    followers: 5709
+    engagement: 1076
+    commentsToLikes: 0.009262
+    id: ckbkv2qvpqj7f0j23n7oq01em
     verified: false
-    hashtags: "#clothing, #pacorabanne, #stormtrooper, #satisfying"
-  - username: "yendegreez_"
-    fullname: >-
-      Kevin nguyen
-    location: "United States"
-    followers: 2841
-    engagement: 1330
-    commentsToLikes: 0.105210
-    id: cka7nx8xvyzct0i78dqih2ytr
-    verified: false
-    hashtags: "#bleach, #hoodie, #perspective, #marker"
+    hashtags: "#painting, #elsalvador, #art, #streetart"
   - username: "fatcapsprays"
     fullname: >-
       Fat Cap Sprays
+    bio: >-
+      📩hello@fatcapsprays.com 🎨Learn GRAFFITI step by step 🔥WORKBOOK & MERCH ⬇️
     location: "United Kingdom"
-    followers: 1833217
-    engagement: 1690
-    commentsToLikes: 0.011269
+    followers: 2000000
+    engagement: 1032
+    commentsToLikes: 0.005981
     id: ck84m3tomlfie0j78ri9jk0dp
     verified: false
-    hashtags: "#fortnitefloss, #fortnitedrawing, #mickeymouse, #coloursketch"
-  - username: "cre8iveairbrush"
+    hashtags: "#neon, #art, #neonart, #streetart"
+  - username: "smoenova"
     fullname: >-
-      AirbrushBrian
+      SMOE NOVA
+    bio: >-
+      🇩🇪 graffiti artist since 2001 check out my youtube channel!
+    location: "Germany"
+    followers: 59600
+    engagement: 832
+    commentsToLikes: 0.012812
+    id: ckb0thmzbix3g0j23jv7f0h6j
+    verified: false
+    hashtags: "#painting, #artwork, #fun, #graffiti"
+  - username: "dlordink"
+    fullname: >-
+      DLORDINK
+    bio: >-
+      Lead Artist @graffitimansion IG @dlordink Snap @dlordink
     location: "United States"
-    followers: 160791
-    engagement: 549
-    commentsToLikes: 0.029707
-    id: ck8oyzlbp9pfe0j78es2624q6
+    followers: 8561
+    engagement: 451
+    commentsToLikes: 0.058770
+    id: ckcvhax4wtztl0j23tbnf5tqs
     verified: false
-    hashtags: "#football, #merch, #happybirthday, #emojichallenge"
-  - username: "gusfink2"
+    hashtags: "#trump2020, #blm, #trump, #foryou"
+  - username: "jab.manu"
     fullname: >-
-      Gus Fink
-    location: "United States"
-    followers: 10295
-    engagement: 1264
-    commentsToLikes: 0.020035
-    id: cka0zjgmofnvd0i78bqupzi0u
+      Manu Jab Thaler
+    bio: >-
+      Artist - Tirol, Innsbruck art, graffiti, photography, film, musik, sport
+    location: "Austria"
+    followers: 16200
+    engagement: 481
+    commentsToLikes: 0.047388
+    id: cka65s1aieczf0i789w0ut66c
     verified: false
-    hashtags: "#rapper, #kawaii, #gusfink, #trippy"
-  - username: "shanegrammerarts"
+    hashtags: "#fyp, #skateboarding, #saneskateplaza, #paint"
+  - username: "gman_graffiti_kings"
     fullname: >-
-      shane
-    location: "United States"
-    followers: 2676
-    engagement: 1387
-    commentsToLikes: 0.015745
-    id: ck9v5lqnpyuyl0j78ihpqzdqm
+      Gman
+    bio: >-
+      🔥 Big dog at GRAFFITI KINGS LONDON 🔥 @graffitikings 157k insta 2.4mil Facebook
+    location: "United Kingdom"
+    followers: 10200
+    engagement: 608
+    commentsToLikes: 0.040703
+    id: cka0rgfufgzld0i78e8uwwkcw
     verified: false
-    hashtags: "#disneyland, #goldleaf, #moldmaker, #sculptureart"
-  - username: "nenifinardi"
-    fullname: >-
-      nenifinardi
-    location: "Brazil"
-    followers: 3050
-    engagement: 804
-    commentsToLikes: 0.030143
-    id: cka0t8nihow7o0i783bcaw6ly
-    verified: false
-    hashtags: "#larica, #mousepad, #goku, #lovepaint"
+    hashtags: "#spraypaint, #artwork, #graffitiart, #artist"
 ---

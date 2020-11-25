@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top models Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #model #evdekalt #photography.
+  Find top models Instagram influencers in Istanbul in 2020. Most popular hashtags: #model #istanbul #smile #travel.
 platform: Instagram
+hits: 196
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 196 Instagram influencers like this in Istanbul, Turkey for you to contact.
 profiles:
-  - username: "felipesantos.lip"
+  - username: "ahmadi.kimiya"
     fullname: >-
-      Felipe Santos
+      kimiya
+    bio: >-
+      🧿 و فراموشی کیمیاست... 📍🇹🇷 istanbul born in 1999 IMÜ/FTR
     location: "Turkey"
-    followers: 17310
-    engagement: 289
-    commentsToLikes: 0.029619
-    id: ck0tw4kv8dzxw0i19johzqd0a
+    followers: 12555
+    engagement: 536
+    commentsToLikes: 0.072558
+    id: ck15r91aq6r740i19gxckipw1
     verified: false
-    hashtags: "#shotbylalo, #marupiarahotel, #pe, #nordestebrasileiro"
-  - username: "iremozen"
+    hashtags: "#model, #istanbul, #modeling, #turkey"
+  - username: "coyotetr"
     fullname: >-
-      İrem Özen
+      Hakkı
+    bio: >-
+      Only my own projects, not a commercial account.... Streetstyle ✨Playing with lights ✨ Weird places Istanbul, finance, ex-swimmer, comics addict
     location: "Turkey"
-    followers: 3458
-    engagement: 2473
-    commentsToLikes: 0.052914
-    id: ck8t7bq6yg8mz0j78duyt9frk
+    followers: 26878
+    engagement: 256
+    commentsToLikes: 0.068436
+    id: ck0tuuun98rto0i19xu26c7sj
     verified: false
-    hashtags: "#melekmosso, #eksik, #covermusic, #halsey"
-  - username: "khaledjali"
+    hashtags: "#streetstyle, #london, #tbt, #ballerina"
+  - username: "lalinderosa"
     fullname: >-
-      Khaled Ali خالد علي
+      Model Istanbul
+    bio: >-
+      Fate loves the fearless
     location: "Turkey"
-    followers: 72787
-    engagement: 253
-    commentsToLikes: 0.053513
-    id: ck8tbiu5hvv0z0j78rlvzzcn1
+    followers: 26160
+    engagement: 326
+    commentsToLikes: 0.080144
+    id: ck0tz3k35p1qs0i19cswxpk9v
     verified: false
-    hashtags: "#nikkibeach, #sun, #singer, #bedroom"
-  - username: "deniiztekiin"
+    hashtags: "#portrait, #londonmodel, #boho, #vegangirl"
+  - username: "o_stoyanovskaya"
     fullname: >-
-      Deniz Tekin
+      Oksana Stoyanovskaya
+    bio: >-
+      professional model 📍 Istanbul w @respectmodels ✉️ for cooperation: stoyanovskaya.oksana@mail.ru
     location: "Turkey"
-    followers: 12581
-    engagement: 574
-    commentsToLikes: 0.010799
-    id: ck8sz1mbwmu550j789fmyaf85
+    followers: 17324
+    engagement: 478
+    commentsToLikes: 0.024468
+    id: ck5c4k3t11iqm0i11dmzydfxt
     verified: false
-    hashtags: "#fashionweek, #dreamermagazine, #kedy, #picoftheday"
-  - username: "cemrekiralioglu"
+    hashtags: ""
+  - username: "karina_pill"
     fullname: >-
-      Cemre Kıralioğlu
+      молодое алоэ
+    bio: >-
+      CARY🦙 Belarusian girl🤍 🎤NEM!GA 🇵🇱ANGER models 📍Istanbul
     location: "Turkey"
-    followers: 6454
-    engagement: 899
-    commentsToLikes: 0.040210
-    id: ck5zsqv6qz0y30i140m8dnuvm
+    followers: 6060
+    engagement: 1288
+    commentsToLikes: 0.012607
+    id: ckaowi2e3918w0i78dnhieu87
     verified: false
-    hashtags: "#notbyme, #travel, #instadaily, #blue"
-  - username: "gnristan"
+    hashtags: "#yycgirl, #portswm, #fyh, #igstyles"
+  - username: "talieh_kheradmand"
     fullname: >-
-      Engin GÜNERİ
+      Talieh ☀️
+    bio: >-
+      Fashion designer ~ Blogger ~ Model ~ Photographer 📍istanbul 🇹🇷 Animal lover 🐾🌱 founder of : @toolooria
     location: "Turkey"
-    followers: 12704
-    engagement: 1026
-    commentsToLikes: 0.016487
-    id: ck8sz57hkn7880j786jzc6558
+    followers: 116921
+    engagement: 421
+    commentsToLikes: 0.159837
+    id: ck9wio2ry35n20j7872pc08xd
     verified: false
-    hashtags: "#snow, #design, #model, #igdaily"
-  - username: "gamzesahin94"
+    hashtags: "#model, #style, #istanbul, #smile"
+  - username: "bitar"
     fullname: >-
-      𝕲𝖆𝖒𝖟𝖊 𝕾𝖆𝖍𝖎𝖓💎
+      Mr Bitar محمود بيطار
+    bio: >-
+      Ḇitar is My Name Media is My Game 😉 📍🇸🇪 For business 👇📧 BITAR.VLOG@GMAIL.COM Owner 👇 @bitar_group @bitarmb @bittarsbilar @bitarstyle @bitartr
     location: "Turkey"
-    followers: 17231
-    engagement: 1172
-    commentsToLikes: 0.013630
-    id: ck9hb1wyjf11v0j783ri0l1hz
-    verified: false
-    hashtags: "#erkengelendo, #galata, #model, #bitemoji"
-  - username: "bekirsozakphotographr"
+    followers: 1754028
+    engagement: 238
+    commentsToLikes: 0.034139
+    id: ck9wejr8ukkt30j782pac0xwz
+    verified: true
+    hashtags: ""
+  - username: "lorranymonteiroo"
     fullname: >-
-      bekirsozakphotography
+      Lorrany Monteiro
+    bio: >-
+      Miss ™️ International 2020👑 Miss Brasil ™️ 2019👑 📍Istanbul 🇧🇷🇪🇸
     location: "Turkey"
-    followers: 75295
-    engagement: 147
-    commentsToLikes: 0.047139
-    id: ck0tywu07oei70i19fx8hvkhu
+    followers: 37151
+    engagement: 154
+    commentsToLikes: 0.029763
+    id: ck8t4lwld78i40j78xarqssjw
     verified: false
-    hashtags: "#erciyes, #cappadociaphotographers, #uchisar, #goodnight"
-  - username: "najmmohammadi"
+    hashtags: "#look, #looknoite, #lookdodia, #bday"
+  - username: "hakikicemarslan"
     fullname: >-
-      Najm Mohammadi
+      Cem Arslan
+    bio: >-
+      🎧 Ne Sağcı, Ne Solcu, Radyocu🎙Best FM📻 🎙07:00-09:00 GAZOZ AĞACI 🎵18:00-20:00 GAZOR Menajer: ebru@ebrukaraca.com.tr Youtube: hakikicemarslan
     location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
-    id: ck5c8dp0m99fe0i11etkdgpg0
-    verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
-  - username: "mini_aussie_shiva"
+    followers: 123223
+    engagement: 218
+    commentsToLikes: 0.029907
+    id: ck5c8dgow992u0i11x7hbnojs
+    verified: true
+    hashtags: "#camera, #retro, #shooting, #blackandwhitephotography"
+  - username: "laura.charlie.elise.verloop"
     fullname: >-
-      Shiva
+      𝓛𝓪𝓾𝓻𝓪 𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝓔𝓵𝓲𝓼𝓮 𝓥𝓮𝓻𝓵𝓸𝓸𝓹
+    bio: >-
+      📸:Manager @realmodelsagency 🍽:@the_dutch_foodie_ 💁🏼‍♀️:@realmodelsagency.international 🇳🇱:From Holland! 🐬: #Sealover ♑️:#Capricorn 🇹🇷:TR
     location: "Turkey"
-    followers: 9521
-    engagement: 576
-    commentsToLikes: 0.050867
-    id: ck5c5db2r39300i11negr53yv
+    followers: 14290
+    engagement: 275
+    commentsToLikes: 0.037449
+    id: ck5q9xl2hdilf0i11affqpz2g
     verified: false
-    hashtags: "#nikon85mm18g, #85mm18, #thedodo, #rescuedog"
+    hashtags: "#realmodelsagency, #turkiye, #follow, #food"
 ---

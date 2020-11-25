@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In United Kingdom In 2020
 description: >-
-  Find top makeup TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #norvinaecl #fluttereye #claymation.
+  Find top makeup TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #makeup #duet #halloween.
 platform: TikTok
+hits: 1172
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 1172 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "hbcoolcat"
+    fullname: >-
+      Hannah O'Sullivan 
+    bio: >-
+      I’m a musically OG 💓 35 makeup cosplay 💓 please drop a like or comment 🐰
+    location: "United Kingdom"
+    followers: 93300
+    engagement: 2004
+    commentsToLikes: 0.102137
+    id: ckbwl7q94407c0j23fqqfvcpw
+    verified: true
+    hashtags: "#makeup, #fyp, #transition, #theshining"
+  - username: "leeshthatgirl"
+    fullname: >-
+      LeeshThatGirl
+    bio: >-
+      INSTA: leeshthatgirl MAKEUP SASS CEO OF HAIR WHIPS ✨💖
+    location: "United Kingdom"
+    followers: 23700
+    engagement: 2348
+    commentsToLikes: 0.050930
+    id: ckav77ahpe4ah0j23qops3pzr
+    verified: false
+    hashtags: "#fyp, #blackcreators, #makeuptransformation, #glowup"
+  - username: "fullofpith"
+    fullname: >-
+      Leo
+    bio: >-
+      ♡ Leo, 32, he/they ♡ ☆ art, poetry, music, makeup & spicy opinions ☆
+    location: "United Kingdom"
+    followers: 25300
+    engagement: 1782
+    commentsToLikes: 0.105389
+    id: ck8nfz4k2u3z80j78i8mklopi
+    verified: false
+    hashtags: "#knowmyownface, #myfacenofilter, #hethey, #makeupfail"
+  - username: "megmur"
+    fullname: >-
+      Meg Murphy
+    bio: >-
+      @ MEGSSFX on insta! just tryna do makeup i love you!🥺 💌 megnadeensfx@gmail.com
+    location: "United Kingdom"
+    followers: 122800
+    engagement: 2668
+    commentsToLikes: 0.025442
+    id: ckdi7mp8r9lxv0j23a38wr63j
+    verified: false
+    hashtags: "#halloweenlook, #fyp, #creative, #makeup"
   - username: "dragonfinity"
     fullname: >-
       Dragon Finity🐉
+    bio: >-
+      If you want your makeup done: Subscribe to my YouTube & send your photo on insta
     location: "United Kingdom"
-    followers: 387871
-    engagement: 2234
-    commentsToLikes: 0.335231
+    followers: 391000
+    engagement: 1604
+    commentsToLikes: 0.092113
     id: ck81sb8dcregu0j78xieiufm4
     verified: false
-    hashtags: "#sayso, #dancetutorial, #starships, #digitalmakeup"
-  - username: "aaaaaaaaaabi"
+    hashtags: "#acne, #foryou, #fyp, #digitalmakeup"
+  - username: "uniqueangelxo"
     fullname: >-
-      ABI ♡
+      Stacey
+    bio: >-
+      😇 ❤️Taken❤️ You’ll find Glam & Gore makeup here #TheUniqueAngels
     location: "United Kingdom"
-    followers: 82047
-    engagement: 2183
-    commentsToLikes: 0.047148
-    id: ck8ore7ggbtbk0j78oa0jts08
+    followers: 24500
+    engagement: 1217
+    commentsToLikes: 0.096377
+    id: ckc34vtbgu5hq0j239nkalim8
     verified: false
-    hashtags: "#hairbun, #verucasalt, #fashionblogger, #peterpan"
-  - username: "aaliyahjamil"
+    hashtags: "#theuniqueangels, #toms, #freakweek, #duet"
+  - username: "morganmcgoldrick"
     fullname: >-
-      - A✨
+      Morgan McGołdrick
+    bio: >-
+      Insta @mxgoldrick Makeup They/them DyslexicAF sry
     location: "United Kingdom"
-    followers: 85992
-    engagement: 2164
-    commentsToLikes: 0.031730
-    id: ck961739lle9o0j78lobdp2qm
+    followers: 2181
+    engagement: 1001
+    commentsToLikes: 0.100638
+    id: ckcovo0yn96p10j23iax4p1du
     verified: false
-    hashtags: "#barbie, #bulletsdo, #duet, #makeupfanatic"
-  - username: "makeup.lois"
+    hashtags: "#fyp, #alt, #transgirl, #foryoupage"
+  - username: "nicolerodge"
     fullname: >-
-      makeup.lois
+      Nicole Rodgers
+    bio: >-
+      Hope you’re having a good day 💖Makeup & POVs💖 Fo||ow my IG - NicoleRodge
     location: "United Kingdom"
-    followers: 11151
-    engagement: 1407
-    commentsToLikes: 0.053243
-    id: ckacsfcgs9syq0i78d7o8j5y9
+    followers: 282600
+    engagement: 2072
+    commentsToLikes: 0.011467
+    id: ckcofso1o2vos0j23c9x92z90
     verified: false
-    hashtags: "#lockdownlife, #makeupartist, #catfishcheck, #foryou"
-  - username: "abbyrartistry"
+    hashtags: "#duet, #halloween, #pov, #povacting"
+  - username: "plmakeupacademy"
     fullname: >-
-      Abby Roberts
+      Plouisemakeupacademy
+    bio: >-
+      Instagram- Plouise_Makeup_Academy⚡️
     location: "United Kingdom"
-    followers: 8285887
-    engagement: 2622
-    commentsToLikes: 0.005833
-    id: ck8ad9i1f4ga20j78v8ixiqjw
+    followers: 14600
+    engagement: 1897
+    commentsToLikes: 0.106107
+    id: ck8niesm75bad0j78l0zhrney
     verified: true
-    hashtags: "#norvinapartner, #norvinaecl, #electricliners, #ad"
-  - username: "charlottelooks"
+    hashtags: "#fyp, #fashion, #featureme, #makeup"
+  - username: "jenlouisemua"
     fullname: >-
-      Charlotte Roberts
+      Jen louise
+    bio: >-
+      Welshie 🏴󠁧󠁢󠁷󠁬󠁳󠁿 💫 Instagram jenlouise_mua 💫 Makeup artist 💚💚💚
     location: "United Kingdom"
-    followers: 2174574
-    engagement: 2677
-    commentsToLikes: 0.005697
-    id: ck8ae6by8a6j30j78pzrug769
-    verified: true
-    hashtags: "#dontbringmedown, #dbmd, #mentalhealthawareness"
-  - username: "trinsmakeup"
-    fullname: >-
-      Trinity Rudman
-    location: "United Kingdom"
-    followers: 322356
-    engagement: 2045
-    commentsToLikes: 0.012191
-    id: ck8ae4gk79qu50j78ejrwfads
+    followers: 49600
+    engagement: 1119
+    commentsToLikes: 0.056574
+    id: ckacw6l8ur34x0i78bclqg4z1
     verified: false
-    hashtags: "#veday, #butterflymakeup, #slayathome, #painting"
-  - username: "lilyxox21"
-    fullname: >-
-      L💗
-    location: "United Kingdom"
-    followers: 3782
-    engagement: 1338
-    commentsToLikes: 0.071487
-    id: ck94k4saptujq0j78d83vczux
-    verified: false
-    hashtags: "#quarantine, #corona, #sister, #black"
-  - username: "aaliyah_d"
-    fullname: >-
-      aaliyah <3
-    location: "United Kingdom"
-    followers: 24248
-    engagement: 1432
-    commentsToLikes: 0.052941
-    id: cka0wi3ro301j0i78j89avjpd
-    verified: false
-    hashtags: "#albumcover, #likes, #wearefamily, #duet"
-  - username: "chloeandcos"
-    fullname: >-
-      chloeandcosmetics
-    location: "United Kingdom"
-    followers: 31298
-    engagement: 1371
-    commentsToLikes: 0.028033
-    id: ckacwle55t2w50i78x2m8sizk
-    verified: false
-    hashtags: "#makeupvideo, #giveaway, #falseeyelashes, #eyes"
+    hashtags: "#joke, #dollhousechallenge, #thedependables, #duet"
 ---

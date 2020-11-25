@@ -1,107 +1,130 @@
 ---
 title: Top 10 Christian Instagram Influencers In Australia In 2020
 description: >-
-  Find top christian Instagram influencers in Australia in 2020. Most popular hashtags: #influencer #mothersday #babyboy #photoshoot.
+  Find top christian Instagram influencers in Australia in 2020. Most popular hashtags: #photoshoot #newborn #collab.
 platform: Instagram
+hits: 141
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 141 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "bizzzaa_"
-    fullname: >-
-      BIG TRUSS ✞
-    location: "Australia"
-    followers: 26737
-    engagement: 1968
-    commentsToLikes: 0.004886
-    id: ck13d1huw36v00i19t83sxjg4
-    verified: false
-    hashtags: "#blessed, #armycamp2k19, #menoffaith, #18th"
-  - username: "krystalhipwell"
-    fullname: >-
-      Krystal
-    location: "Australia"
-    followers: 139231
-    engagement: 473
-    commentsToLikes: 0.107934
-    id: ck0u7ht4d4qv70i197bu3aypa
-    verified: true
-    hashtags: "#babylove, #easteriniso, #esmipartner, #isodays"
-  - username: "christianpillirone"
-    fullname: >-
-      Christian Pillirone
-    location: "Australia"
-    followers: 14416
-    engagement: 1798
-    commentsToLikes: 0.027820
-    id: ck6u3rnbrzhh90j71w488skwv
-    verified: false
-    hashtags: "#duabyte, #silkcosplay, #suit, #captainspidey"
-  - username: "christianspencerphoto"
-    fullname: >-
-      Christian Spencer
-    location: "Australia"
-    followers: 21669
-    engagement: 808
-    commentsToLikes: 0.017760
-    id: ck0u06qwzstrb0i19h6y4awb7
-    verified: false
-    hashtags: "#nature, #macaws, #monkey, #bluedacnis"
-  - username: "christianfletcher_gallery"
-    fullname: >-
-      Christian Fletcher | Fine Art
-    location: "Australia"
-    followers: 7756
-    engagement: 565
-    commentsToLikes: 0.032399
-    id: ck5c0s8a8tr5z0i11vcecishq
-    verified: false
-    hashtags: ""
-  - username: "alexbondarev"
-    fullname: >-
-      Sasha Bondarev
-    location: "Australia"
-    followers: 2236
-    engagement: 1043
-    commentsToLikes: 0.060227
-    id: ck5c9h3xwbf790i11my9rueqd
-    verified: false
-    hashtags: "#thechosen, #chosengloballive"
-  - username: "socialmama_blog"
-    fullname: >-
-      Elisha Fiorentino
-    location: "Australia"
-    followers: 19434
-    engagement: 41
-    commentsToLikes: 0.193554
-    id: ck5zr8if2w3t00i14nuelbcuq
-    verified: false
-    hashtags: "#anzacday, #standatdawn, #booriaustralia, #blessed"
-  - username: "bhaynewberry"
-    fullname: >-
-      BHAY NEWBERRY 🇵🇭🇬🇧🇦🇺
-    location: "Australia"
-    followers: 39235
-    engagement: 752
-    commentsToLikes: 0.221270
-    id: ck6ucksdng6nc0j71ea8laa92
-    verified: false
-    hashtags: "#baobabphgiveaway, #zaloraambassador, #iamnevs, #bhaynewberryxwaveswimweargiveaway"
   - username: "jennybeeen"
     fullname: >-
       Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
     location: "Australia"
-    followers: 5399
-    engagement: 1281
-    commentsToLikes: 0.331764
+    followers: 7040
+    engagement: 1114
+    commentsToLikes: 0.223159
     id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#photoshoot, #brisbanenanny, #giveaway, #outfitgoals"
-  - username: "beckjstevens"
+    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
+  - username: "bizzzaa_"
     fullname: >-
-      Rebecca Stevens
+      BIZZZAAA 🉐
+    bio: >-
+      • Glory2God ✞ • ChristianAthlete☝🏽✨ • Born&Raised_Mounty🇼🇸🇨🇳 • Salaamí💍 + A & C🦋💗
     location: "Australia"
-    followers: 26662
-    engagement: 99
-    commentsToLikes: 0.100920
-    id: ck5q38yv1jsl40i11w5lrew1l
+    followers: 57086
+    engagement: 1855
+    commentsToLikes: 0.006165
+    id: ck13d1huw36v00i19t83sxjg4
     verified: false
-    hashtags: "#mumlooks, #libert, #shoeobsession, #koalas"
+    hashtags: "#g2gmentality, #rip, #embraace, #4u"
+  - username: "theprincewilkins"
+    fullname: >-
+      CHRISTIAN WILKINS
+    bio: >-
+      CHADWICK MANAGEMENT martin@chadwickmodels.com⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ christianwilkins@hotmail.com ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ conceived at the Logie Awards after party
+    location: "Australia"
+    followers: 27538
+    engagement: 711
+    commentsToLikes: 0.041911
+    id: ck5zyassw9jhy0i149xbw43ir
+    verified: true
+    hashtags: "#edenonstan, #starwarsxpandora, #shotforpandora, #escapesnaps"
+  - username: "rhiannonkate__"
+    fullname: >-
+      Rhiannon Greenaway
+    bio: >-
+      21 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
+    location: "Australia"
+    followers: 24202
+    engagement: 990
+    commentsToLikes: 0.028423
+    id: ck5ceqnfqlinm0i1185q09kg0
+    verified: false
+    hashtags: "#sixfanarts"
+  - username: "krystalhipwell"
+    fullname: >-
+      Krystal
+    bio: >-
+      @bunkerhousegerringong SUNNY• NAKODA • HUSKY | Blogger | Fitness Trainer | Christian ✛ | For collabs ✉️ grace@22.com.au
+    location: "Australia"
+    followers: 161126
+    engagement: 440
+    commentsToLikes: 0.033916
+    id: ck0u7ht4d4qv70i197bu3aypa
+    verified: true
+    hashtags: "#siblings, #babyboy, #byronbay, #huskyboy"
+  - username: "christianspencerphoto"
+    fullname: >-
+      Christian Spencer
+    bio: >-
+      Christian Spencer is an Australian born award winning artist, photographer and filmmaker. Prints via website To see paintings: @christianspencer_art
+    location: "Australia"
+    followers: 26577
+    engagement: 730
+    commentsToLikes: 0.018448
+    id: ck0u06qwzstrb0i19h6y4awb7
+    verified: false
+    hashtags: "#yesnpsa, #sairasetecores, #natgeo, #suafoto"
+  - username: "lifebyesther"
+    fullname: >-
+      Esther | 陳心
+    bio: >-
+      ⚡️ Christian 💡 middle school English teacher ✨ #disrupttexts & #asianamericanreaders ⭐️ Taiwanese | immigrant | Virginia, US
+    location: "Australia"
+    followers: 41397
+    engagement: 314
+    commentsToLikes: 0.044453
+    id: ck5hhx0toahu60i11sinabgal
+    verified: false
+    hashtags: "#penguinteenpartner, #gifted, #reviewsbyesther"
+  - username: "christianpillirone"
+    fullname: >-
+      Christian Pillirone
+    bio: >-
+      "𝑻𝒉𝒆 𝑺𝒊𝒍𝒗𝒆𝒓 𝑺𝒑𝒊𝒅𝒆𝒚" 🇦🇺 Melb, AUS 🖥 Artist 🦸🏻‍♂️ Cosplayer 📧 christian.pillirone@gmail.com #mentalhealthawareness Advocate
+    location: "Australia"
+    followers: 14635
+    engagement: 802
+    commentsToLikes: 0.029969
+    id: ck6u3rnbrzhh90j71w488skwv
+    verified: false
+    hashtags: "#marvelcomics, #insomniacgames, #marvelcosplay, #cosplayphotography"
+  - username: "betweensundays.bykate"
+    fullname: >-
+      Kate Vans
+    bio: >-
+      ✨Wife/Mama/Christian/letterer✨ 💫Sharing quotes and bible texts to encourage💫 ⚡️Commissions/Collabs: between.sundays@outlook.com⚡️
+    location: "Australia"
+    followers: 47596
+    engagement: 718
+    commentsToLikes: 0.013436
+    id: ck8t5u71ub9ss0j783zfu18a1
+    verified: false
+    hashtags: "#ascensionday, #motherhood, #thankful, #thankfulness"
+  - username: "elishafiorentino"
+    fullname: >-
+      Elisha Fiorentino
+    bio: >-
+      Wifey 💍 Mama 👶 @life_of_leo_f Christian🙏Content Creator 📸 @boostsocialteam 👩‍💻 @socialmamablog Mum’s group 👇
+    location: "Australia"
+    followers: 19043
+    engagement: 30
+    commentsToLikes: 0.169891
+    id: ck5zr8if2w3t00i14nuelbcuq
+    verified: false
+    hashtags: "#blessedbeyondmeasure, #newborn, #breastfeedingmama, #wapmumedition"
 ---

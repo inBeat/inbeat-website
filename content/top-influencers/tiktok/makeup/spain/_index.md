@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Spain In 2020
 description: >-
-  Find top makeup TikTok influencers in Spain in 2020. Most popular hashtags: #challenge #lasirenita #fantasia #trend.
+  Find top makeup TikTok influencers in Spain in 2020. Most popular hashtags: #makeup #halloween #makeupartist #parati.
 platform: TikTok
+hits: 147
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat has 147 TikTok influencers like this in Spain for you to collaborate.
 profiles:
+  - username: "mo0nliet"
+    fullname: >-
+      🦋lawliet🦋
+    bio: >-
+      makeup artist 🤍follow my instagram; mo0nliet🤍 collab; moonliet.light@gmail.com
+    location: "Spain"
+    followers: 12600
+    engagement: 2745
+    commentsToLikes: 0.060160
+    id: ckbw28qlvwjbt0j23ik396g0q
+    verified: false
+    hashtags: "#makeupartist, #makeuptutorial, #fyp, #parati"
   - username: "annersite"
     fullname: >-
       ANNERSITE
+    bio: >-
+      📍Girona/Barcelona Beauty || Tips || Creative Makeup 📬 annersite@tkers.es
     location: "Spain"
-    followers: 280308
-    engagement: 2672
-    commentsToLikes: 0.034808
+    followers: 410700
+    engagement: 2535
+    commentsToLikes: 0.016004
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#lasirenita, #tipsdemaquillaje, #pocahontas, #trucosdemaquillaje"
-  - username: "nadina_ioana"
+    hashtags: "#halloween, #makeupartist, #storytime, #maquillajeartistico"
+  - username: "heyeiko"
     fullname: >-
-      Nadina Ioana
+      Hey! Eiko!
+    bio: >-
+      🏝 #GranCanaria 🇮🇨 👑 #DragQueen 👠 💄#MakeUpArtist 💀
     location: "Spain"
-    followers: 334667
-    engagement: 568
-    commentsToLikes: 0.007995
-    id: cka637f4a34p40i787pow9lle
+    followers: 119500
+    engagement: 887
+    commentsToLikes: 0.083289
+    id: ckbezzvh7lby50j23bvmxjn18
     verified: false
-    hashtags: "#lipinjetions, #coverage, #edgesonfleek, #weird"
-  - username: "diana_dasha"
-    fullname: >-
-      👑Diana Dasha👑
-    location: "Spain"
-    followers: 786826
-    engagement: 2220
-    commentsToLikes: 0.021194
-    id: ck92srxsrevjb0j78hz3axhwb
-    verified: false
-    hashtags: "#red, #yoenclase, #accentchallenge, #funny"
+    hashtags: "#dragqueen, #grancanaria, #trend, #challenge"
   - username: "nobodisugly"
     fullname: >-
       Camila @nobodisugly
+    bio: >-
+      💋 Makeup y un poquito de todo 💌 nobodisugly@bushidotalent.com
     location: "Spain"
-    followers: 515648
-    engagement: 2442
-    commentsToLikes: 0.017213
+    followers: 736000
+    engagement: 2115
+    commentsToLikes: 0.012805
     id: ck9jx0p4iyqvo0j78mb08gfu8
     verified: false
-    hashtags: "#nailtutorial, #diadelamadre, #rirrorrorrirro, #gracias"
-  - username: "anutochkabelike"
+    hashtags: "#maquillaje, #aprendecontiktok, #halloween, #makeup"
+  - username: "latoxi"
     fullname: >-
-      Annett
+      Latoxi
+    bio: >-
+      🌈🇪🇸🇨🇱 200k?? 😳😳😳🙏🏻 Valeeeee goordaaaas☝🏻 Makeup artist Follow 👇🏻
     location: "Spain"
-    followers: 13540
-    engagement: 1938
-    commentsToLikes: 0.024273
-    id: ck81s127zp8t00j78lanh49dt
+    followers: 104500
+    engagement: 2082
+    commentsToLikes: 0.018816
+    id: ckceip5tdr3cy0j232ihwg10a
     verified: false
-    hashtags: "#princesspeach, #myaesthetic, #euphoriamakeup, #lookatme"
-  - username: "mariareushuang"
+    hashtags: "#halloween2020, #makeup, #maquillaje, #undiaenmivida"
+  - username: "unputocristian__"
     fullname: >-
-      🌹María Reus Huang🌹
+      Cristhian Lopez✨
+    bio: >-
+      Hola,sígueme 💕 Madrid, Spain📍 Artistic makeup 🎨 Cristhianlopezmk@gmail.com 📩
     location: "Spain"
-    followers: 1022841
-    engagement: 2154
-    commentsToLikes: 0.020453
-    id: ck8qfj9dex5ho0j78088ogm4o
-    verified: true
-    hashtags: "#slowmo, #maquillaje, #parati, #boymakeup"
-  - username: "losrubialesfamily"
-    fullname: >-
-      Loredana Elena Cozma
-    location: "Spain"
-    followers: 6247
-    engagement: 1146
-    commentsToLikes: 0.047543
-    id: cka0rvo0biq2m0i78l3mrdecz
+    followers: 866000
+    engagement: 2460
+    commentsToLikes: 0.010107
+    id: ckd5mecuhw9140j23q8176cg1
     verified: false
-    hashtags: "#transition, #makeuptutorial, #carrito, #pastel"
-  - username: "j0tak"
+    hashtags: "#duet, #humor, #artist, #maquillaje"
+  - username: "khristymolto_mk"
     fullname: >-
-      Kiko
+      💜 KHRISTYMOLTO 💜
+    bio: >-
+      🤯loca🥳divertida💪retos👥 Dúo MAkEUP 💄💋 Sígueme en Instagram
     location: "Spain"
-    followers: 5311
-    engagement: 1673
-    commentsToLikes: 0.043459
-    id: cka0hke0e9ohr0i78fp4wr2ao
+    followers: 4418
+    engagement: 2566
+    commentsToLikes: 0.000000
+    id: ckavktfm9tu1n0j23ql2zxlg9
     verified: false
-    hashtags: "#black, #lolesleon, #reportera, #inframundo"
-  - username: "makeupnellie"
+    hashtags: "#pasionmakeup, #amigostiktok, #makeup, #1000razones"
+  - username: "andrea_gamar"
     fullname: >-
-      Nellie 👼🏼
+      Andrea Gamar
+    bio: >-
+      Pro Makeup Artist 💄🎬 Pro ig: ⬆️ ig: @andrea_gamar 📍MAD - VLC ♀️
     location: "Spain"
-    followers: 33372
-    engagement: 1798
-    commentsToLikes: 0.012215
-    id: ck9floumcp9c00j78wt1cc5kj
+    followers: 6260
+    engagement: 1910
+    commentsToLikes: 0.041710
+    id: ckb97j9xcq82f0j237qymtpdi
     verified: false
-    hashtags: "#throwitback, #eyebrows, #transformation, #ledlights"
-  - username: "eviande"
+    hashtags: "#cordeliafoxx, #fyp, #viral, #ahs"
+  - username: "carlalopezart"
     fullname: >-
-      Eviande
+      carlalopezart
+    bio: >-
+      ✨Síganme en instagram ✨ Pintora Figurativa 🎨 || Makeupartist💄 || Scorpio ♏️
     location: "Spain"
-    followers: 3912
-    engagement: 957
-    commentsToLikes: 0.026231
-    id: ck81t2xvyv33z0j783yp571kr
+    followers: 4697
+    engagement: 758
+    commentsToLikes: 0.075168
+    id: ckd0dmymbd4k70j23doy6pua6
     verified: false
-    hashtags: "#baddescions, #evolucion, #muerte, #trend"
+    hashtags: "#emoji, #emojichallenge, #dollchallenge, #anabelle"
+  - username: "itsaliciasmakeup"
+    fullname: >-
+      ITSALICIASMAKEUP OFF
+    bio: >-
+      Makeup videos 💄 , tutorials 🖌 & more ! ✨
+    location: "Spain"
+    followers: 69000
+    engagement: 856
+    commentsToLikes: 0.015236
+    id: ckdhic615yhjo0j23kw2iy3rd
+    verified: false
+    hashtags: "#makeup, #halloween, #clown, #foryou"
 ---

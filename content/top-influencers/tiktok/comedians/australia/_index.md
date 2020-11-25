@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Australia In 2020
 description: >-
-  Find top comedians TikTok influencers in Australia in 2020. Most popular hashtags: #roasted #trend #youtube #school.
+  Find top comedians TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #comedy #foryou #duet.
 platform: TikTok
+hits: 24
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 24 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "mynameisjosuha"
     fullname: >-
-      My Name is Josuha
+      My Name Is Josuha
+    bio: >-
+      🎤😁 COMEDIAN Tells Jokes. Makes Videos. ⬇️ Posts regular content irregularly ⬇️
     location: "Australia"
-    followers: 46635
-    engagement: 2227
-    commentsToLikes: 0.022586
+    followers: 53500
+    engagement: 2476
+    commentsToLikes: 0.025820
     id: ck81sy6hetzne0j7893t2p5d2
     verified: false
-    hashtags: "#helpful, #learnfromme, #women, #hiddentalent"
-  - username: "jjpantano"
+    hashtags: "#funny, #dadjoke, #australia, #life"
+  - username: "horlicksthegolden"
     fullname: >-
-      JJ Pantano
+      Horlicks
+    bio: >-
+      🄷🄾🅁🄻🄸🄲🄺🅂 Golden Retriever Boi🐶 Comedian from AU 🇦🇺 Follow my journey
     location: "Australia"
-    followers: 5052
-    engagement: 1784
-    commentsToLikes: 0.046597
-    id: ckahz49up1wv20i78kwrci92i
+    followers: 262900
+    engagement: 1515
+    commentsToLikes: 0.015798
+    id: ckb9ex8oh2yri0j23b7a37u6n
     verified: false
-    hashtags: "#pushupchallenge, #parents, #disneyland, #birthdaysuit"
+    hashtags: "#halloweenishere, #goldens, #tiktokgolden, #goldenretrieverlife"
   - username: "luke.kidgell"
     fullname: >-
       luke.kidgell
+    bio: >-
+      Stand up comedian. Instagram: @lukekidgell Go subscribe on Youtube if ya want!
     location: "Australia"
-    followers: 148800
-    engagement: 2032
-    commentsToLikes: 0.003175
+    followers: 189100
+    engagement: 2098
+    commentsToLikes: 0.005058
     id: cka0wqf6j42920i78z84jepwd
     verified: false
-    hashtags: "#problemsolved, #standup, #aussiethings, #school"
-  - username: "rxme.v"
+    hashtags: "#bachelorinparadise, #thebachelor, #omegle, #australia"
+  - username: "jjpantano"
     fullname: >-
-      r o m e
+      JJ Pantano
+    bio: >-
+      Comedian•Actor•Singer AGTAU-Golden Buzzer *acc mged by mum** #agt : Champions
     location: "Australia"
-    followers: 127679
-    engagement: 2061
-    commentsToLikes: 0.011224
-    id: ck83zb5lszbyb0j78r34fo5kg
+    followers: 8739
+    engagement: 1720
+    commentsToLikes: 0.049470
+    id: ckahz49up1wv20i78kwrci92i
     verified: false
-    hashtags: "#thankyou, #fashion, #eyesonme, #blink"
-  - username: "nataliechalwell"
+    hashtags: "#laughter, #howiemandel, #duet, #jjpantano"
+  - username: "samanthandrew1"
     fullname: >-
-      nataliechalwell
+      Samantha Andrew
+    bio: >-
+      🏳️‍🌈 She/Her | Melbourne Composer | Comedian | Writer lucy@bornbredtalent.com
     location: "Australia"
-    followers: 143816
-    engagement: 372
-    commentsToLikes: 0.029908
-    id: ck90zm13neflj0j788vltzi9g
-    verified: false
-    hashtags: "#iso, #poop, #sendinglove, #quarentinetime"
+    followers: 135900
+    engagement: 1562
+    commentsToLikes: 0.011481
+    id: ckb9sp1ztq3mj0j23uxks52ok
+    verified: true
+    hashtags: "#comedyskit, #thespian, #tryingsnacks, #tayto"
+  - username: "alexshooterwilliamson"
+    fullname: >-
+      Alex Williamson
+    bio: >-
+      Aussie comedian. My insta500k YT630k. Cameo, Twitch @ link below
+    location: "Australia"
+    followers: 742000
+    engagement: 1861
+    commentsToLikes: 0.006690
+    id: ckavqo18f28ti0j23wl22fqx5
+    verified: true
+    hashtags: "#fyp, #election, #aussiethings, #leaveacomment"
+  - username: "lewspears"
+    fullname: >-
+      Lewis Spears
+    bio: >-
+      CEO of being tall - Stand Up comedian from Australia - 500k on YouTube
+    location: "Australia"
+    followers: 52500
+    engagement: 1461
+    commentsToLikes: 0.015428
+    id: ckbatps1dkajq0j23o7nx8zbo
+    verified: true
+    hashtags: "#stitch, #duet, #cuties, #melbourne"
   - username: "thebuttsmarn"
     fullname: >-
       thebuttsmarn
+    bio: >-
+      Australian Comedian
     location: "Australia"
-    followers: 159138
-    engagement: 1486
-    commentsToLikes: 0.007430
+    followers: 218300
+    engagement: 1574
+    commentsToLikes: 0.009232
     id: ck8sbvt7o89zz0j78abz4meg7
     verified: true
-    hashtags: "#toughdecision, #iusetobesobeautiful, #cg5, #isaacbutterfield"
-  - username: "jordansarahhartley"
+    hashtags: "#pokemon, #fyp, #duet, #comedian"
+  - username: "boy.by.da.sea"
     fullname: >-
-      Jordan
+      DUET PAGE! 🎥🎭
+    bio: >-
+      CEO OF DUET WRITER/ACTOR CHAROT/COMEDIAN 🎥🎭 GVO OK!🇵🇭🇦🇺
     location: "Australia"
-    followers: 63253
-    engagement: 439
-    commentsToLikes: 0.022127
-    id: ck8hqqh015b2g0j78cv2mmbdj
+    followers: 51700
+    engagement: 684
+    commentsToLikes: 0.152885
+    id: ckb1ar637z4en0j2392z9ego0
     verified: false
-    hashtags: "#freak, #bringitback, #food, #imhighaf"
-  - username: "manithegoof"
+    hashtags: "#hugotnimars, #fyp, #foryou, #boybydasea"
+  - username: "gabriel_rossi_comedian"
     fullname: >-
-      Mani
+      Gabriel Rossi Comedy
+    bio: >-
+      Comedian from Melbourne. I’m GEN-X - from a time you could joke about anything
     location: "Australia"
-    followers: 459152
-    engagement: 2447
-    commentsToLikes: 0.011618
-    id: ck90028hi9y5p0j781fp1hhu8
-    verified: true
-    hashtags: "#mytoes, #imalizaed, #coolman, #callofduty"
-  - username: "neelkolhatkar"
-    fullname: >-
-      Neel Kolhatkar
-    location: "Australia"
-    followers: 364308
-    engagement: 2020
-    commentsToLikes: 0.010720
-    id: ck81sw75mtjxy0j78qigcxp54
+    followers: 18100
+    engagement: 671
+    commentsToLikes: 0.198325
+    id: ckbf0qow9mpwj0j230apwb7nd
     verified: false
-    hashtags: "#tiktokindia, #standupcomic, #sport, #friend"
-  - username: "goat_chesse"
-    fullname: >-
-      Unknown
-    location: "Australia"
-    followers: 17732
-    engagement: 1328
-    commentsToLikes: 0.018125
-    id: cka9rwbfr9m4c0i78bkl7ruci
-    verified: false
-    hashtags: "#bigbillionstar, #trend, #striper, #purplegang"
+    hashtags: "#aftermycoffee, #australia, #foryou, #xyzbca"
 ---

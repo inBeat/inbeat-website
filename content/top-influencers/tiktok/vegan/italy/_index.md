@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Italy In 2020
 description: >-
-  Find top vegan TikTok influencers in Italy in 2020. Most popular hashtags: #greenscreen #ricetta #vegan #vegano.
+  Find top vegan TikTok influencers in Italy in 2020. Most popular hashtags: #perte #foryou #neiperte #vegan.
 platform: TikTok
+hits: 47
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 47 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "veganismologico"
     fullname: >-
       Veganismo Logico
+    bio: >-
+      CEO of YO 🌱 Guarda "Dominion versione italiana" su Youtube. Ig: Veganismologico
     location: "Italy"
-    followers: 14743
-    engagement: 899
-    commentsToLikes: 0.465317
+    followers: 18300
+    engagement: 1081
+    commentsToLikes: 0.327139
     id: ck8fb21l054v00j78eyer0311
     verified: false
-    hashtags: "#ricetta, #pioggia, #piante, #passeggiata"
+    hashtags: "#animali, #vegan, #antispecismo, #elefante"
   - username: "blackcatwildsoul"
     fullname: >-
-      Young.Ecate
+      Milly
+    bio: >-
+      Gamer 🎮 Geek🎞️ Vegan🥦 italian🇮🇹 RedCurlyHair 👩‍🦰 over30, under 35.🎂
     location: "Italy"
-    followers: 3388
-    engagement: 436
-    commentsToLikes: 0.075660
+    followers: 7192
+    engagement: 711
+    commentsToLikes: 0.181195
     id: cka0ly60ot0kq0i78lxax25h3
     verified: false
-    hashtags: "#saturdaymood, #foryoupag, #creepytiktok, #comolago"
+    hashtags: "#neiperte, #perte, #challenge, #foryou"
+  - username: "maybesalvo"
+    fullname: >-
+      Ars Artis 🎨
+    bio: >-
+      🇮🇹 Self taught | 18 | Vegan 🌱 🎨 I love art 🎨 IG @arsartis_official
+    location: "Italy"
+    followers: 21400
+    engagement: 1718
+    commentsToLikes: 0.027444
+    id: ckb98me6hs91f0j23szhukajq
+    verified: false
+    hashtags: "#neiperte, #marilynmonroe, #fyp, #jacksparrow"
   - username: "giuliastime"
     fullname: >-
       Giulia Cai
+    bio: >-
+      vegan-ish 🥑 eating & working out 🏋🏻‍♀️ CEO of breakfast 📸 IG: novemberregen_
     location: "Italy"
-    followers: 3325
-    engagement: 804
-    commentsToLikes: 0.042592
+    followers: 3409
+    engagement: 868
+    commentsToLikes: 0.022169
     id: ck8fayxkt4pkc0j78k6kkwjvj
     verified: false
-    hashtags: "#what, #veganism, #meal, #fooddiary"
+    hashtags: "#food, #fit, #fyp, #vegan"
   - username: "france_rett"
     fullname: >-
       France_rett
+    bio: >-
+      Instagram: @france_rett Ce le ho tutte! Clivense, renziano, e pure vegano! 🌱
     location: "Italy"
-    followers: 4431
-    engagement: 857
-    commentsToLikes: 0.020041
+    followers: 4603
+    engagement: 820
+    commentsToLikes: 0.020162
     id: ck9jvm4orsshb0j78fdob1t78
     verified: false
-    hashtags: "#coronavirus, #mercedes, #prof, #durello"
+    hashtags: "#govegan, #neiperte, #plantbased, #coronavirus"
+  - username: "doppioserienetflix"
+    fullname: >-
+      Doppiaggio
+    bio: >-
+      coul
+    location: "Italy"
+    followers: 66000
+    engagement: 2288
+    commentsToLikes: 0.036825
+    id: ckai747ojysea0i78hvxjaidf
+    verified: false
+    hashtags: "#veganoperungiorno, #perte, #comedy, #serietv"
+  - username: "stocazzo0o"
+    fullname: >-
+      stocazzo
+    bio: >-
+      ⬇ contattami qui ⬇ riccardo21trovo@gmail.com ti vedo che non mi segui su insta
+    location: "Italy"
+    followers: 130300
+    engagement: 2644
+    commentsToLikes: 0.039351
+    id: ck94fwixcd9pp0j78tfb3vh9j
+    verified: false
+    hashtags: "#veganoperungiorno, #opponightmode, #crush, #ironia"
+  - username: "valentina_galassi"
+    fullname: >-
+      valentina_galassi
+    bio: >-
+      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
+    location: "Italy"
+    followers: 38500
+    engagement: 1140
+    commentsToLikes: 0.009052
+    id: ckbf9cmr707cj0j23glh8972f
+    verified: false
+    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
+  - username: "fionashealth"
+    fullname: >-
+      Fiona Gray
+    bio: >-
+      🇬🇧🇮🇹 Fiona Gray Balanced Recipes & Nutrition 🍓
+    location: "Italy"
+    followers: 3950
+    engagement: 571
+    commentsToLikes: 0.008430
+    id: ckcuyuo5xmjaf0j236oqyr2c0
+    verified: false
+    hashtags: "#foryou, #intermittentfasting, #colazione, #dieta"
   - username: "meolipa"
     fullname: >-
       Meo 🐙
+    bio: >-
+      👑 Meo | 25 yo 🐣Attivista per i diritti umani e animali 🌈 Nuovo video ⬇️⬇️
     location: "Italy"
-    followers: 6111
-    engagement: 1507
-    commentsToLikes: 0.190039
+    followers: 75200
+    engagement: 1834
+    commentsToLikes: 0.093533
     id: ck9njx4jyi1790j78d61ky5jx
     verified: false
-    hashtags: "#topi, #beyondmeat, #mandorla, #crema"
-  - username: "icookhowiwant"
-    fullname: >-
-      ICookHowIWant 
-    location: "Italy"
-    followers: 2562
-    engagement: 564
-    commentsToLikes: 0.040124
-    id: ck9k5y1q1ymx40j78k010rfya
-    verified: false
-    hashtags: "#burger, #leftovers, #homebake, #cheeselover"
-  - username: "giomustacchi"
-    fullname: >-
-      Gio Mustacchi
-    location: "Italy"
-    followers: 17120
-    engagement: 1480
-    commentsToLikes: 0.071724
-    id: ckafu31548jv20i78c89d1mp7
-    verified: false
-    hashtags: "#italianboy, #ironia, #earthhour, #eggtrick"
-  - username: "omarspaneshi"
-    fullname: >-
-      Omar Spaneshi
-    location: "Italy"
-    followers: 237419
-    engagement: 1925
-    commentsToLikes: 0.059309
-    id: ck8vv7ezckzf10j787qp26il4
-    verified: false
-    hashtags: "#anime, #latino, #italy, #birthday"
-  - username: "michi.fadda"
-    fullname: >-
-      michi 🐨
-    location: "Italy"
-    followers: 169750
-    engagement: 2039
-    commentsToLikes: 0.010286
-    id: ck8j8zcgkl1yr0j78s0ac4sli
-    verified: false
-    hashtags: "#whippedcoffee, #fake, #pancakecereal, #vegan"
-  - username: "chefmassimiliano"
-    fullname: >-
-      chefmassimilianolava
-    location: "Italy"
-    followers: 22356
-    engagement: 761
-    commentsToLikes: 0.038096
-    id: ck9re3ac60lpp0j78y98jh3bh
-    verified: false
-    hashtags: "#carciofi, #souffl, #vapore, #smoothie"
+    hashtags: "#greenscreen, #stopomofobia, #sarcasmo, #bodyshaming"
 ---

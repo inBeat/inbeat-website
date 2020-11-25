@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In India In 2020
 description: >-
-  Find top djs Instagram influencers in India in 2020. Most popular hashtags: #stayhome #mumbai #covid19 #selflove.
+  Find top djs Instagram influencers in India in 2020. Most popular hashtags: #dj #india #music #djset.
 platform: Instagram
+hits: 91
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 91 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "djolaras"
-    fullname: >-
-      DJ OLA RAS
-    location: "India"
-    followers: 66716
-    engagement: 133
-    commentsToLikes: 0.053210
-    id: ck6uezeditxm60j71tfwbk5kj
-    verified: false
-    hashtags: ""
-  - username: "djsyrahofficial"
-    fullname: >-
-      Dj Syrah
-    location: "India"
-    followers: 46868
-    engagement: 315
-    commentsToLikes: 0.014889
-    id: ck0vz2cxb6xu30i19730s8zzo
-    verified: false
-    hashtags: "#quarantine, #desinight, #vol11, #lockdown"
   - username: "djshireen"
     fullname: >-
       CLUB QUEEN 👑 DJ SHIREEN  👑
+    bio: >-
+      DJ/Producer/Influencer/Rapper since 15 yrs Winner-Times War of DJs🎧Ranked in Top10 Indian DJs🎧BrandAmbassador V-MODA #djshireen #clubqueen
     location: "India"
-    followers: 82993
-    engagement: 150
-    commentsToLikes: 0.028784
+    followers: 83619
+    engagement: 162
+    commentsToLikes: 0.029297
     id: ck15qo4nh3tbi0i19x56vzbkm
     verified: false
-    hashtags: "#badshah, #lovegen, #cakelover, #motherhood"
+    hashtags: "#shireenstyle, #comedy, #mashupqueen, #djlifestyle"
   - username: "djbandcamp"
     fullname: >-
       DJ Bandcamp
+    bio: >-
+      Your favorite DJ’s, favorite DJ! Official DJ for: Omarion The Indiana @pacers 🏀 Purdue University’s @boilerfootball 🏈 Xavier University’s @xaviermbb 🏀
     location: "India"
     followers: 22407
     engagement: 265
     commentsToLikes: 0.066133
     id: ck13brc6ewsuw0i19htv8d4np
     verified: false
-    hashtags: "#mamaaintraisenofool, #realdjsmatter, #scratching, #gopacers"
-  - username: "zoesiddharth"
+    hashtags: "#nbaallstar, #welcometobandcamp, #comebackseason, #nevernotworking"
+  - username: "djs_viewfinder"
     fullname: >-
-      Zoe Siddharth
+      © Debajyoti Biswas Photography
+    bio: >-
+      Wedding | Travel | Portfolio | Event ©Debajyoti Biswas #Photographer #kolkatablogger #influencer 🏠#kolkata 💬 For any assignment DM or mail m
     location: "India"
-    followers: 23161
-    engagement: 686
-    commentsToLikes: 0.032137
-    id: ck5zovxy3rgfx0i143zcq5kr8
+    followers: 44824
+    engagement: 78
+    commentsToLikes: 0.018092
+    id: ck14j6ot6iui40i19y7p74lau
     verified: false
-    hashtags: "#createcontent, #acoustic, #tiktokchallenge, #blackandwhite"
-  - username: "tapeshwarigrewal"
+    hashtags: "#sareelove, #ig, #curvyfashion, #hashtagkolkata"
+  - username: "djsammer1"
     fullname: >-
-      Tapeshwari Sharma
+      DJ SAMMER 🇮🇳
+    bio: >-
+      DJ / Music Producer E: Thecdjs@gmail.com Haan Main Galat Link 👇🏻👇🏻👇🏻
     location: "India"
-    followers: 29536
-    engagement: 206
-    commentsToLikes: 0.122754
-    id: ck14kmxulqb6i0i194y37rosi
+    followers: 30196
+    engagement: 130
+    commentsToLikes: 0.022235
+    id: ckf5xdupjvapx0j23hnwdggjw
     verified: false
-    hashtags: "#chillvibes, #livelaughlove, #peachypink, #trend"
+    hashtags: "#djsammer, #india, #djjnny, #hollywood"
   - username: "glafira_al"
     fullname: >-
       Glafira
+    bio: >-
+      🎧 DJ | Performer House / Techno music • Soundcloud.com/dj_glafira • Mixcloud.com/Glafira_al/ • Website: djglafira.com/ 🌏 Live abroad 📍 Goa
     location: "India"
-    followers: 7750
-    engagement: 511
-    commentsToLikes: 0.061088
+    followers: 8254
+    engagement: 476
+    commentsToLikes: 0.050953
     id: ck9hanj9rd8v60j78w42c2xcz
     verified: false
-    hashtags: "#lockdown, #onlineshoot, #happybirthday, #mood"
-  - username: "vppmusic"
+    hashtags: "#photography, #techno, #glafira, #model"
+  - username: "diljaansayyed"
     fullname: >-
-      vppmusic
+      D I L  J A A N
+    bio: >-
+      #1manshow Social Media Influencer💁🏻‍♂️ Fashion👕👖🥾 Model🕺 Travel✈️ For collaborations DM/Email or Contact⬇️ Manager - +91 9136768897
     location: "India"
-    followers: 11418
-    engagement: 693
-    commentsToLikes: 0.003066
-    id: ck0ttret93zrz0i19iebxh7p8
+    followers: 351166
+    engagement: 167
+    commentsToLikes: 0.016900
+    id: ck5hqblposu4x0i11txa1mp7t
     verified: false
-    hashtags: "#djconcert, #loveyourself, #pianist, #musiclovers"
-  - username: "sunix_thakor"
+    hashtags: "#wgvs, #diljaanfamily, #fashionblogger, #fashionista"
+  - username: "branded_sound_systems"
     fullname: >-
-      Sunix Thakor
+      BRANDED SOUND OF PUNE
+    bio: >-
+      NO.1 PAGE FOR SOUND & LIGHTS VIDEOS 🔉ONLY SOUND LOVERS🔉 ♥️एकदा FOLLOW तर करून बागा नक्की आवडेल♥️ ➡️DAILY UPDATES⬅️
     location: "India"
-    followers: 16241
-    engagement: 662
-    commentsToLikes: 0.034913
-    id: ck6tizoau1qje0j714ah4cl6y
-    verified: true
-    hashtags: "#color, #like4like, #amazing, #photoftheday"
-  - username: "johnsimmofficial"
+    followers: 5801
+    engagement: 1903
+    commentsToLikes: 0.021930
+    id: ckf5u188tjahb0j2371vjlim8
+    verified: false
+    hashtags: "#soundlover, #srssound, #viralvideo, #racabinate"
+  - username: "shantipeople"
     fullname: >-
-      John Simm
+      Shanti People
+    bio: >-
+      Music band that mix EDM with Vedic Mantras. #shantipeople #vedicedm #vocalyoga #pianagi
     location: "India"
-    followers: 57205
-    engagement: 467
-    commentsToLikes: 0.025778
-    id: ck5zww3rc6vht0i14yr9wdp4a
+    followers: 31472
+    engagement: 552
+    commentsToLikes: 0.020259
+    id: ck5zpq5mct4rl0i14f8i86m1g
+    verified: false
+    hashtags: "#nowplaying, #teaching, #india, #voice"
+  - username: "djyesgb"
+    fullname: >-
+      DJ Sagar YesGB
+    bio: >-
+      DJ & Music Producer
+    location: "India"
+    followers: 8904
+    engagement: 2775
+    commentsToLikes: 0.019896
+    id: ck14j8n5nj3pl0i19f2u4b6jz
+    verified: false
+    hashtags: "#karnataka, #sandalwood, #djsagaryesgb, #dj"
+  - username: "martindsouzaofficial"
+    fullname: >-
+      Martin Dsouza
+    bio: >-
+      Disc Jockey. Karaoke Jockey. Actor. Model. Traveller. Writer. Likes Photography and Singing as well. Quit a "regular" job to do what I love doing :)
+    location: "India"
+    followers: 9842
+    engagement: 478
+    commentsToLikes: 0.055455
+    id: ck0w2bg69niol0i19itm1m8rc
     verified: true
-    hashtags: "#happymondays, #thegypsyking, #russelllewis, #lifeonmars"
+    hashtags: "#interview, #saturdaynight, #advertisement, #fridaynight"
 ---

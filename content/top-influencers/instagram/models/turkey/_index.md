@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Turkey In 2020
 description: >-
-  Find top models Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekalt #tbt #evdekal #quarantine.
+  Find top models Instagram influencers in Turkey in 2020. Most popular hashtags: #throwback #vanlife #yolhikayeleri.
 platform: Instagram
+hits: 524
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 524 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "gabriela.prisacariu"
-    fullname: >-
-      Gabriela Prisacariu 🙈🙊💃🐒
-    location: "Turkey"
-    followers: 75122
-    engagement: 581
-    commentsToLikes: 0.004936
-    id: ck5qej2bi0qh40i11uziu4pta
-    verified: false
-    hashtags: "#enjoylife, #enjoythelittlethings, #tvshow, #sunday"
-  - username: "didemsoydan"
-    fullname: >-
-      didemsoydan
-    location: "Turkey"
-    followers: 708970
-    engagement: 491
-    commentsToLikes: 0.000334
-    id: ck15syxh1fimw0i19dxazmpvo
-    verified: true
-    hashtags: "#nofilterneeded, #dahag, #evyap, #onar"
-  - username: "barismrtyagci"
-    fullname: >-
-      Barış Murat Yağcı
-    location: "Turkey"
-    followers: 1678528
-    engagement: 2111
-    commentsToLikes: 0.442804
-    id: ck15skw9qdiwr0i19unkq4l82
-    verified: true
-    hashtags: "#survivorturkiye, #motivasyon, #spor, #sa"
-  - username: "lavinyaunluer"
-    fullname: >-
-      Lavinya Unluer
-    location: "Turkey"
-    followers: 343424
-    engagement: 763
-    commentsToLikes: 0.513048
-    id: ck136k33j6vzf0i19vhw2f4i7
-    verified: false
-    hashtags: "#umutol, #dream, #babyonmoretime, #hepbirlikte"
-  - username: "burcuogurofficial"
-    fullname: >-
-      🌹Burcu Oğur🌹
-    location: "Turkey"
-    followers: 118332
-    engagement: 1569
-    commentsToLikes: 0.070757
-    id: ck14i5wm8dspp0i19pg393bww
-    verified: false
-    hashtags: "#tuning, #araba, #egzoz, #hediye"
-  - username: "cansinmina"
-    fullname: >-
-      ~Cansın Mina Gür
-    location: "Turkey"
-    followers: 43092
-    engagement: 1843
-    commentsToLikes: 0.042367
-    id: ck9hcd4uaku5l0j78u6dwupb2
-    verified: false
-    hashtags: "#iftarsofras, #masaltarhun, #karamelyap, #tarhunlar"
-  - username: "birgultazegul"
-    fullname: >-
-      Birgül Tazegül
-    location: "Turkey"
-    followers: 55251
-    engagement: 343
-    commentsToLikes: 0.057404
-    id: ck9hbb7w5g42c0j78q4i73wrg
-    verified: false
-    hashtags: "#topuzyap, #medineipe, #cat, #salbaglama"
-  - username: "ruyaacoric"
-    fullname: >-
-      Rüya Coriç (ilerialkan)
-    location: "Turkey"
-    followers: 37106
-    engagement: 800
-    commentsToLikes: 0.027418
-    id: ck5q7sb6d2w8c0i11ywpjteiw
-    verified: false
-    hashtags: "#evdekal, #smile, #emanetdizi, #tbt"
-  - username: "serhatkaynarpinar"
-    fullname: >-
-      Serhatkaynarpinar
-    location: "Turkey"
-    followers: 36363
-    engagement: 349
-    commentsToLikes: 0.924812
-    id: ck5q0yckg8ctl0i11fzyq05w3
-    verified: false
-    hashtags: "#soon, #cuarentenafashionweek, #homefashion, #will"
   - username: "mucbirseyyah"
     fullname: >-
-      Sıla Yakamoz
+      Mücbir Seyyah
+    bio: >-
+      1 Kadın 1 Köpek 97 model sucu arabası 👇👇HER GÜN YENİ VİDEO 👇👇
     location: "Turkey"
-    followers: 21173
-    engagement: 743
-    commentsToLikes: 0.055289
+    followers: 25091
+    engagement: 694
+    commentsToLikes: 0.067227
     id: ck6uaelb8348o0j71z6mhum28
     verified: false
-    hashtags: "#sanayi, #pasta, #campbell, #macera"
+    hashtags: "#yolhikayeleri, #kamp, #karavanhayat, #yolculuk"
+  - username: "cansinmina"
+    fullname: >-
+      Cansın Mina Gür
+    bio: >-
+      Reklam ve işbirliği için cansinminagur02@gmail.com Tek Resmi Hesap Ailesi tarafından yönetilmektedir Çocuk Oyuncu / Model Dizi: Yemin- Kanal 7
+    location: "Turkey"
+    followers: 105363
+    engagement: 1223
+    commentsToLikes: 0.027831
+    id: ck9hcd4uaku5l0j78u6dwupb2
+    verified: false
+    hashtags: "#masal, #set, #cans, #yeminden"
+  - username: "julizubkova"
+    fullname: >-
+      Визуал Инстаграм Турция
+    bio: >-
+      СДЕЛАЮ ПРОДАЮЩИЙ ВИЗУАЛ ЗА 1 ДЕНЬ ВИЗУАЛЬНЫЕ СТРАТЕГИИ ДЛЯ ЛИЧНОГО БРЕНДА ИЛИ БИЗНЕСА ИМИДЖБУК Живу в Турции Content maker Sketch illustrator Model
+    location: "Turkey"
+    followers: 2284
+    engagement: 1861
+    commentsToLikes: 0.255501
+    id: ckf5qfo7c96pz0j23e0ml4emt
+    verified: false
+    hashtags: "#blgprt, #minimalisticstyle, #influencerdigital, #trendwatchers"
+  - username: "itziaralarcon"
+    fullname: >-
+      Itziar❂₃₃
+    bio: >-
+      never look down on anybody unless you're helping them up. new icon model management
+    location: "Turkey"
+    followers: 25356
+    engagement: 1166
+    commentsToLikes: 0.030693
+    id: ck6ub7ktt7y0k0j713fumqddw
+    verified: false
+    hashtags: "#mycalvins"
+  - username: "jasminemayldn_"
+    fullname: >-
+      Jasmine May
+    bio: >-
+      Artist | model | 22 @thesquadmanagement @qmodels @notiesmodels @20modelmanagement
+    location: "Turkey"
+    followers: 41827
+    engagement: 766
+    commentsToLikes: 0.027114
+    id: ck14hy935cqs90i19qhiaow75
+    verified: false
+    hashtags: ""
+  - username: "alesianoka"
+    fullname: >-
+      Alesia Noka
+    bio: >-
+      Model | Albania
+    location: "Turkey"
+    followers: 81363
+    engagement: 628
+    commentsToLikes: 0.015173
+    id: ck5ciijdyspgz0i11dbep6n0r
+    verified: true
+    hashtags: "#day1, #polaroids, #forgirlsbygirls"
+  - username: "ligidollha.official"
+    fullname: >-
+      LIGI DOLLHA🐆
+    bio: >-
+      Public figure 🎥Tv8 Acun Medya Influencer Fitness Model
+    location: "Turkey"
+    followers: 196741
+    engagement: 605
+    commentsToLikes: 0.012366
+    id: ckap0ll6bqu700i78qu9phvpi
+    verified: false
+    hashtags: ""
+  - username: "riae_"
+    fullname: >-
+      Riae
+    bio: >-
+      Petit alternative model 🖤be proud of your weirdness 🖤 OUTSIDER Shooting and collaboration workwithriae@gmail.com
+    location: "Turkey"
+    followers: 3679555
+    engagement: 497
+    commentsToLikes: 0.014307
+    id: ck5cgyxfypsyo0i11m7j3p3ej
+    verified: true
+    hashtags: ""
+  - username: "saman_lotfi"
+    fullname: >-
+      SAMAN LOTFI (SAM)
+    bio: >-
+      Fashion Photographer/ Fashion Director 🌟🎥 BASED NYC 📍 Model/CYRUS MODELS - AUSTRIA 🇦🇹 (@cyrusmodels) Contact:saman.lotfi.model@gmail.com
+    location: "Turkey"
+    followers: 24568
+    engagement: 799
+    commentsToLikes: 0.046648
+    id: ck0tumfts7r2w0i1952xft7a6
+    verified: false
+    hashtags: "#saman, #samanlotfisam"
+  - username: "ozgeulusoy"
+    fullname: >-
+      ÖZGECAN
+    bio: >-
+      Ballerina-Former Miss Turkey-Model-Tv Host-Actress-My life my journey💓🍀 Iletişim👉🏻mine@mikailetisim.com #turkishmodel #model #tvpresenter
+    location: "Turkey"
+    followers: 1803233
+    engagement: 170
+    commentsToLikes: 0.142144
+    id: ck0u604gm0iqa0i19t1obpamg
+    verified: true
+    hashtags: "#throwback, #tbt, #quarantinelife, #throwbacks"
 ---

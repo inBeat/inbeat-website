@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In Italy In 2020
 description: >-
-  Find top TikTok influencers in Italy in 2020. Most popular hashtags: #trend #comedy #musically #tutorial.
+  Find top TikTok influencers in Italy in 2020. Most popular hashtags: #duet #foryou #duetto.
 platform: TikTok
+hits: 3954
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 3954 TikTok influencers like this in Italy for you to contact.
 profiles:
-  - username: "damiano_delucia"
+  - username: "betta243"
     fullname: >-
-      ☁️dam☁️
+      Elisabetta O.S
+    bio: >-
+      Insta:betta243 ❤️ Ragazza di topher🔓❤️
     location: "Italy"
-    followers: 134222
-    engagement: 2865
-    commentsToLikes: 0.051119
-    id: ck9du4qq3ex9f0j78ahntb4jv
+    followers: 191300
+    engagement: 2019
+    commentsToLikes: 0.036525
+    id: ck8z9kwqmyd0l0j78crhlncn1
     verified: false
-    hashtags: "#couplegoals, #cancer, #comeeravamo, #quarantine"
-  - username: "paolodebosio"
+    hashtags: "#emojichallenge, #tiamotantotanto"
+  - username: "princerana7863"
     fullname: >-
-      Paolo De Bosio
+      Ansar Rana
+    bio: >-
+      I love my flowers friends From Italy Bolzano
     location: "Italy"
-    followers: 287169
-    engagement: 2856
-    commentsToLikes: 0.070129
-    id: cka6mokai80bx0i78gmtpipt4
+    followers: 6161
+    engagement: 6327
+    commentsToLikes: 0.354669
+    id: ckb9abb02vack0j23qy9wqjqa
     verified: false
-    hashtags: ""
-  - username: "digirolamovittoria"
+    hashtags: "#foryou, #chupalloween, #pakistan, #trend"
+  - username: "phoenixglittersparkles"
     fullname: >-
-      digirolamovittoria
+      Phoenix Glittersparkles
+    bio: >-
+      18+ Duets #Warriorrogue #WildSyndicate A lil OC / A lil just Me Tips⬇
     location: "Italy"
-    followers: 173503
-    engagement: 2440
-    commentsToLikes: 0.028393
-    id: ck9v3bvazpa7k0j78tbl6ebpk
+    followers: 5129
+    engagement: 3420
+    commentsToLikes: 0.241054
+    id: ckbf5d6s3ue570j23v8qr6hr3
     verified: false
-    hashtags: "#unboxing"
-  - username: "lucianospinelli"
+    hashtags: "#thebasement, #heathen, #catburglar, #jokes"
+  - username: "anoopita"
     fullname: >-
-      Luciano Spinelli
+      Anoopita 🇮🇳🇮🇪
+    bio: >-
+      Indo-italian . 🇮🇳 🇮🇹. Keralite ❤️. Only god can judge me .
     location: "Italy"
-    followers: 7297608
-    engagement: 2397
-    commentsToLikes: 0.014310
-    id: ck8os1n9keto80j78zdo0ds9l
-    verified: true
-    hashtags: "#tuttifratelli, #comedy, #trend, #scuola"
-  - username: "jessicadpz"
-    fullname: >-
-      Jessica Da Pozzo 🌙
-    location: "Italy"
-    followers: 574186
-    engagement: 2395
-    commentsToLikes: 0.023527
-    id: ck9exr4nksfnz0j78u2430gkf
+    followers: 2599
+    engagement: 3419
+    commentsToLikes: 0.117478
+    id: ckck4ef0aotvd0j232nd3ben7
     verified: false
-    hashtags: "#storytime, #harrystyles, #reputation, #songraking"
-  - username: "angelo.yin"
+    hashtags: "#duet, #love, #fyp, #tiktokitaly"
+  - username: "demon.40"
     fullname: >-
-      Angelo.yin
+      🄳🄴🄼🄾
+    bio: >-
+      Dopo una temporale esce sempre il sole ..
     location: "Italy"
-    followers: 479866
-    engagement: 2354
-    commentsToLikes: 0.022371
-    id: ck8j491x81cee0j7801vi0i0c
+    followers: 6713
+    engagement: 3344
+    commentsToLikes: 0.232538
+    id: cka6i8lnnprae0i78liis4a73
     verified: false
-    hashtags: "#storytime, #pap, #polcoliso, #commedia"
-  - username: "roberta_a7"
+    hashtags: "#sorridendo, #duetto"
+  - username: "giusyreal82"
     fullname: >-
-      roberta pink
+      GIUSY real (anima nera)
+    bio: >-
+      Regala la tua assenza a chi non dà valore alla tua presenza....!!!!!!! 🤷🔝
     location: "Italy"
-    followers: 124762
-    engagement: 2191
-    commentsToLikes: 0.041500
-    id: ck9re3bik0m190j78ftyeznyi
+    followers: 3767
+    engagement: 3323
+    commentsToLikes: 0.182182
+    id: ckad9w70tfo0m0i78gttqi0na
     verified: false
-    hashtags: "#mamma, #corriere, #animale, #transition"
+    hashtags: "#giusyreal82, #ninodangelo, #danieledemartino, #duetto"
+  - username: "afsana__poli"
+    fullname: >-
+      Afsana poli
+    bio: >-
+      ❤❤🇧🇩❤❤🇮🇹❤❤
+    location: "Italy"
+    followers: 4261
+    engagement: 3264
+    commentsToLikes: 0.175886
+    id: ckacqfgwi0g510i78sxgz6kmh
+    verified: false
+    hashtags: "#friends, #duet, #twinchange"
+  - username: "_kai.popsicle"
+    fullname: >-
+      2 owners-
+    bio: >-
+      discord link: - https://discord.gg/dv3xMn - shadow banned :') 👌
+    location: "Italy"
+    followers: 5042
+    engagement: 3174
+    commentsToLikes: 0.073756
+    id: ck9gkl8azjqow0j78ul0pozwt
+    verified: false
+    hashtags: "#fyp, #art, #gachaoc, #gacha"
   - username: "saidulislam323"
     fullname: >-
       S🅰🅸DU🅻 ISL🅰🅼
+    bio: >-
+      - ভালো তো শুধু মা বাসে ❤ - বাকিরা শুধু মন ভাঙ্গতে আসে!😥🌸 I Love 🇧🇩🇮🇹
     location: "Italy"
-    followers: 3945
-    engagement: 6589
-    commentsToLikes: 0.262027
+    followers: 4252
+    engagement: 3149
+    commentsToLikes: 0.290007
     id: ckacac17hgsws0i78qe2ym2kq
     verified: false
-    hashtags: "#banglamusic, #newtrending, #riaz14, #tiktoklover"
-  - username: "josimsylhety63"
+    hashtags: "#foryou, #islamic, #tiktok, #vairal"
+  - username: "abychen345"
     fullname: >-
-      Josim sylhety king
+      achayan
+    bio: >-
+      AD345 ACHAYAN
     location: "Italy"
-    followers: 6800
-    engagement: 5833
-    commentsToLikes: 0.217216
-    id: ckaii1cjb8ho50i7852vbxf7y
+    followers: 10300
+    engagement: 3070
+    commentsToLikes: 0.148901
+    id: ck9e0ufk07s9n0j789uv6a2ty
     verified: false
-    hashtags: "#musically, #likes, #bdmuser, #dubai"
-  - username: "gosiamargherita"
-    fullname: >-
-      Margherita 🌼 🌼 🌼
-    location: "Italy"
-    followers: 6410
-    engagement: 4381
-    commentsToLikes: 0.227196
-    id: ckal76quedzo40i78uurvrmfa
-    verified: false
-    hashtags: "#gniazdo, #gost, #lavoro, #urodziny"
+    hashtags: "#malayalam, #idukkikaran, #romance, #duet"
 cities:
   - name: Rome
     link: /tiktok/italy/rome

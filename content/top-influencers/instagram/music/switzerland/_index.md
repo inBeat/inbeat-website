@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top music Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #swiss #sunnyday #stayhome.
+  Find top music Instagram influencers in Switzerland in 2020. Most popular hashtags: #view #sport #switzerland.
 platform: Instagram
+hits: 158
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 158 Instagram influencers like this in Switzerland for you to contact.
 profiles:
+  - username: "fleursnoir"
+    fullname: >-
+      Fleur
+    bio: >-
+      * Hello stranger :) * photographer, gamer, lover of animals, traveling, cosplay, a good wine with Damien rice music’s and @artur.noir
+    location: "Switzerland"
+    followers: 43327
+    engagement: 1248
+    commentsToLikes: 0.258550
+    id: ck15tmw04ivcw0i19nwamvzzb
+    verified: false
+    hashtags: "#netflix, #reels, #netflixcosplay, #ciri"
   - username: "raffy_h501"
     fullname: >-
       🎀Raffy🎀
+    bio: >-
+      Travel, shopping, music & gym addicted🛫🌍🛍🎧🏋 📍 From Rome, Italy 🇮🇹 📍Living in Lugano, Switzerland 🇨🇭 Spoken languages 🇪🇦🇬🇧🇫🇷 🙅🏻‍♀️All you can hate🙅🏻‍♀️
     location: "Switzerland"
-    followers: 32186
-    engagement: 1330
-    commentsToLikes: 0.053418
+    followers: 67197
+    engagement: 795
+    commentsToLikes: 0.047690
     id: ckap6xq5zhswx0i78xj85tbpd
     verified: false
-    hashtags: "#vallemaggia, #girl, #blackpink, #relax"
-  - username: "djallysson_luis"
-    fullname: >-
-      Allysson Luis
-    location: "Switzerland"
-    followers: 40800
-    engagement: 441
-    commentsToLikes: 0.031583
-    id: ck6u341xgvkw30j71gjshii8h
-    verified: false
-    hashtags: "#art, #juntospodemos, #positivevibes, #easter"
-  - username: "zanaibhosle"
-    fullname: >-
-      🦋
-    location: "Switzerland"
-    followers: 11085
-    engagement: 596
-    commentsToLikes: 0.069864
-    id: ck138tizehxxg0i19a4h5g6qx
-    verified: false
-    hashtags: "#rideordie, #staysafe, #quarantinednotconfined, #roseybasketballfamily"
-  - username: "tamaralaraperez"
-    fullname: >-
-      TAMARA PEREZ - DSDS 2020
-    location: "Switzerland"
-    followers: 35220
-    engagement: 2162
-    commentsToLikes: 0.036562
-    id: ck8t314231i0i0j784qa8cm8z
-    verified: false
-    hashtags: "#zukunft, #fashion, #froheostern, #itscoronatime"
-  - username: "neyvabaudelaire"
-    fullname: >-
-      Aivah En El Trance
-    location: "Switzerland"
-    followers: 10975
-    engagement: 739
-    commentsToLikes: 0.027120
-    id: ck138a21bf8hc0i19tq99i8d4
-    verified: false
-    hashtags: "#morning, #altstadt, #skulllover, #staystrong"
-  - username: "khainz"
-    fullname: >-
-      Khainz
-    location: "Switzerland"
-    followers: 15507
-    engagement: 297
-    commentsToLikes: 0.048672
-    id: ck5pwqop1o44s0i11kh33wvb0
-    verified: false
-    hashtags: "#sequential, #cubase, #elektron, #newrelease"
+    hashtags: "#colosseo, #tessin, #outfitkillers, #sealovers"
   - username: "manon_k_"
     fullname: >-
       Manon
+    bio: >-
+      Travel(30countries)/sport/photo(with Canon)📸/nature/music🎹 Master in Law🎓⚖ 1st🥇CH pole championship(doubles)🇨🇭2016 1st🥇PSO Europe IPSF world pole
     location: "Switzerland"
-    followers: 2605
-    engagement: 1841
-    commentsToLikes: 0.050548
+    followers: 3325
+    engagement: 1853
+    commentsToLikes: 0.060676
     id: ck8t2hgmgzilz0j786b4m2srs
     verified: false
-    hashtags: "#vitznau, #longhair, #stretching, #nude"
-  - username: "jazzathlete"
+    hashtags: "#kenya, #underwaterphotography, #lanzarote, #swimmingwithsharks"
+  - username: "khainz"
     fullname: >-
-      Håkon Erlandsen - JAZZATHLETE
+      Khainz
+    bio: >-
+      MusicProducer | DJ | Traveller I from Switzerland
     location: "Switzerland"
-    followers: 7086
-    engagement: 747
-    commentsToLikes: 0.026013
-    id: ck5zurzm82xom0i14i2h7573k
+    followers: 16055
+    engagement: 251
+    commentsToLikes: 0.064257
+    id: ck5pwqop1o44s0i11kh33wvb0
     verified: false
-    hashtags: "#thinkpositove, #insta, #speedriding, #thinkhappy"
-  - username: "urbanolivier"
+    hashtags: "#musicstudio, #progressive, #melodichouse, #techno"
+  - username: "tonistintzing"
     fullname: >-
-      Olivier Urban photographies
+      Felix Tonio Stintzing
+    bio: >-
+      I do what I like, I like what I do. 🎥 Director / DP 🎛 DJ @weltenseele_music
     location: "Switzerland"
-    followers: 4563
-    engagement: 2415
-    commentsToLikes: 0.187247
-    id: ckap6ae3kf2hp0i78b27evvjj
+    followers: 61969
+    engagement: 577
+    commentsToLikes: 0.007977
+    id: ck13c6c9nytyf0i197o5zbn86
     verified: false
-    hashtags: "#openmyworld, #facadeporn, #travelgram, #francia"
+    hashtags: "#deinefreiheit, #soziallotterie, #freiheit, #freiheitplus"
+  - username: "annacoleofficial"
+    fullname: >-
+      Anna Cole
+    bio: >-
+      ⚡️Check out my YouTube for original music videos⚡️
+    location: "Switzerland"
+    followers: 17575
+    engagement: 290
+    commentsToLikes: 0.044728
+    id: ck0u6y4f338tz0i19xs8n6y3f
+    verified: false
+    hashtags: "#newsingle, #indiepop, #individual, #popmusic"
+  - username: "pilarvegaz"
+    fullname: >-
+      Pilar Vega
+    bio: >-
+      @synccity.music GLOW VIDEO:
+    location: "Switzerland"
+    followers: 3602
+    engagement: 2422
+    commentsToLikes: 0.025901
+    id: ckap1pw6nvlw30i78xzdl71sl
+    verified: false
+    hashtags: "#pms, #music, #cover, #llorona"
+  - username: "tomer_israeli"
+    fullname: >-
+      TOMER Israeli
+    bio: >-
+      1️⃣9️⃣8️⃣4️⃣ 📍Tel Aviv - Zürich 🇮🇱🔁🇨🇭 Travel ✈️ Fitness 💪🏼 Fashion 👕 Wine&Dine🥂 Coffee ☕️ Music🎵 Love 💕 Y.O.L.O 🏳️‍🌈✌🏼Follow my 🌍
+    location: "Switzerland"
+    followers: 8297
+    engagement: 442
+    commentsToLikes: 0.039345
+    id: ckf5nble7xkaq0j23cimlqp6f
+    verified: false
+    hashtags: "#goodvibes, #love, #switzerland, #chestday"
+  - username: "crimermusic"
+    fullname: >-
+      CRIMER
+    bio: >-
+      Musician x Dancer x Synth❤️ 80s infused Master of bad haircuts Hoi Mami 👋 Latest BANGER👇
+    location: "Switzerland"
+    followers: 6340
+    engagement: 957
+    commentsToLikes: 0.025682
+    id: ck5pvv6rcjsj50i11z3imokof
+    verified: true
+    hashtags: "#leeeben, #crimer, #crimerforpresident, #leeeeben"
   - username: "nadegerochat.cellist"
     fullname: >-
       Nadège Rochat
+    bio: >-
+      Cellist and nature lover. From the Franco-Swiss alps to the world 🎶🌲🇨🇵🇨🇭 Professor at the Royal Academy of Music @royalacademyofmusic #cello
     location: "Switzerland"
-    followers: 15177
-    engagement: 859
-    commentsToLikes: 0.112368
+    followers: 15163
+    engagement: 775
+    commentsToLikes: 0.128842
     id: ck8sxs683igvw0j78dr0sa5w8
     verified: false
-    hashtags: "#rumi, #cellistlife, #metronome, #bbcintune"
+    hashtags: "#classicalmusic, #violonchelo, #chelo, #ramplayson"
 ---

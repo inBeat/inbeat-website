@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Germany In 2020
 description: >-
-  Find top food TikTok influencers in Germany in 2020. Most popular hashtags: #pancake #challenge #nutella #workout.
+  Find top food TikTok influencers in Germany in 2020. Most popular hashtags: #food #lecker #fyp.
 platform: TikTok
+hits: 321
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 321 TikTok influencers like this in Germany for you to work with.
 profiles:
-  - username: "siciliancupcake"
+  - username: "tanni_berlin"
     fullname: >-
-      Giusy
+      TanNi_BerLin
+    bio: >-
+      Insta @tanni_berlin CURVY FASHION FUN & FOOD
     location: "Germany"
-    followers: 36185
-    engagement: 1386
-    commentsToLikes: 0.032706
-    id: ck9k21tz3io0s0j78en7ljski
+    followers: 12700
+    engagement: 845
+    commentsToLikes: 0.071552
+    id: ckc8wpa96k7ff0j236coua8wy
     verified: false
-    hashtags: "#sweetbabygirl, #donut, #pasta, #foryourpage"
-  - username: "justbogdana"
+    hashtags: "#meinerstestiktok"
+  - username: "demigodfood"
     fullname: >-
-      Just Bogdana
+      Christian
+    bio: >-
+      👨‍🍳 Welcome to Food TikTok 🔪 der plan ist euch hungrig zu machen #demigodfood
     location: "Germany"
-    followers: 5784
-    engagement: 742
-    commentsToLikes: 0.037860
-    id: cka0x4n7m5i5t0i78lnikbyh9
+    followers: 176900
+    engagement: 1120
+    commentsToLikes: 0.019953
+    id: ckbf2jehdpjya0j23lsvmzy6n
     verified: false
-    hashtags: "#ingermany, #beautyofnature, #beautyroutine, #imbored"
-  - username: "evelyn_schmid"
+    hashtags: "#demigodfood, #asmr, #lernenmittiktok, #kitkat"
+  - username: "s.fel_"
     fullname: >-
-      evelyn_schmid
+      s.fel_
+    bio: >-
+      🧁 Food & Fun 🧁 22y
     location: "Germany"
-    followers: 27520
-    engagement: 698
-    commentsToLikes: 0.029784
-    id: cka0p2nsp6jfz0i78azmzr87w
+    followers: 14200
+    engagement: 1090
+    commentsToLikes: 0.036638
+    id: ckcdsk0lrdg5i0j23ob4ngl9u
     verified: false
-    hashtags: "#povs, #coronavirus, #bavaria, #rescue"
-  - username: "lisaschmitt__"
-    fullname: >-
-      Lisa Schmitt
-    location: "Germany"
-    followers: 72586
-    engagement: 924
-    commentsToLikes: 0.015554
-    id: ck9shjdfztqck0j78ad7npu1h
-    verified: false
-    hashtags: "#schmutzig, #beintraining, #proteine, #lieblingsessen"
-  - username: "bestformbene"
-    fullname: >-
-      bestFormBene
-    location: "Germany"
-    followers: 25747
-    engagement: 446
-    commentsToLikes: 0.067500
-    id: ckamdnwrt0f9f0i78eo6bnkz9
-    verified: false
-    hashtags: "#krebs, #fruit, #hormone, #4you"
-  - username: "kochrezepte"
-    fullname: >-
-      kochrezepte
-    location: "Germany"
-    followers: 86608
-    engagement: 1158
-    commentsToLikes: 0.007948
-    id: ck8uflscr29ex0j78dgkbd8h7
-    verified: true
-    hashtags: "#osterlamm, #erdbeeren, #backen, #obst"
-  - username: "esra.elbasan"
-    fullname: >-
-      Esra.Elbasan
-    location: "Germany"
-    followers: 4432
-    engagement: 661
-    commentsToLikes: 0.041483
-    id: ck80oqloojaw60j782kr35l53
-    verified: false
-    hashtags: "#passion, #viral, #honigmaske, #proteinshake"
+    hashtags: "#asia, #asian, #asiamarkt, #candychallenge"
   - username: "foodgod"
     fullname: >-
       foodgod
+    bio: >-
+      DONT Keep UP w/ Jonathan..I’m Foodgod now 🍩🍔🍟
     location: "Germany"
-    followers: 263544
-    engagement: 817
-    commentsToLikes: 0.008029
+    followers: 3100000
+    engagement: 1216
+    commentsToLikes: 0.008617
     id: ck963v12zwo150j78v07fp59v
     verified: true
-    hashtags: "#pancake, #chocolate, #yeezy, #cookie"
-  - username: "pamela_rf"
+    hashtags: "#london, #fyp, #foodgod, #scarygood"
+  - username: "zimtliebe_de"
     fullname: >-
-      Pamela Reif
+      Mona Schmidt & Mel
+    bio: >-
+      blogging ♥ content creators ♥ food lovers —— Official Creators #LernenMitTikTok
     location: "Germany"
-    followers: 302140
-    engagement: 860
-    commentsToLikes: 0.005714
-    id: ck9keutzp0iu40j78co4l50hm
-    verified: true
-    hashtags: "#cooking, #ahichallenge, #workoutathome, #jasonderulo"
-  - username: "plantbasedcouple"
-    fullname: >-
-      Johanna & Lenni 🌻
-    location: "Germany"
-    followers: 46247
-    engagement: 995
-    commentsToLikes: 0.015290
-    id: ck7zog9knjrxw0j78gaxosdbh
+    followers: 24700
+    engagement: 770
+    commentsToLikes: 0.032350
+    id: ckdcee9lyk3cr0j232eacs0jz
     verified: false
-    hashtags: "#vegansnack, #heimspiel, #veganrecipes, #calories"
+    hashtags: "#gutzuwissen, #einfachesrezept, #leckeresessen, #avocado"
+  - username: "diningdaily"
+    fullname: >-
+      Diningdaily
+    bio: >-
+      🍣🍦🍩 #foodporn everyday 🥞🍱🍕 Follow me on Instagram: @diningdaily (17K)
+    location: "Germany"
+    followers: 3980
+    engagement: 546
+    commentsToLikes: 0.047609
+    id: ckcdvwpf3f9xf0j23c1becg0t
+    verified: false
+    hashtags: "#breakfast, #lovefood, #fr, #nomnom"
+  - username: "healthiswealth_"
+    fullname: >-
+      What I eat in the day!
+    bio: >-
+      Daily Foodiarys🤍|| Recipes👩🏼‍🍳 ————————————————- “Turn the pain into power.”
+    location: "Germany"
+    followers: 16600
+    engagement: 1601
+    commentsToLikes: 0.003308
+    id: cka84qhnwuvap0i78ed6ufr47
+    verified: false
+    hashtags: "#healthyfood, #foodinspo, #healthy, #foryou"
+  - username: "foodschau"
+    fullname: >-
+      FoodSchau
+    bio: >-
+      Food Videos und etwas Fun😅 Folgt mir auch auf Instagram 44K & YouTube 4K ⬇️🎬⬇️
+    location: "Germany"
+    followers: 39700
+    engagement: 1278
+    commentsToLikes: 0.030779
+    id: ckcdiuq0m8heq0j234qt6tdn7
+    verified: false
+    hashtags: "#gro, #crazyfood, #deutschland, #chips"
+  - username: "gero862"
+    fullname: >-
+      the chef!!
+    bio: >-
+      I LOVE FISCH...AND FOOD🇷🇺🇷🇺🇷🇺 🇩🇪🇯🇵🇮🇹follow me!!❤🇨🇳🇩🇪
+    location: "Germany"
+    followers: 4846
+    engagement: 511
+    commentsToLikes: 0.046970
+    id: ckfplwfxp10lu0j23twt1idqd
+    verified: false
+    hashtags: "#rational"
+  - username: "justbogdana"
+    fullname: >-
+      Just Bogdana
+    bio: >-
+      Say no to boring food😋🥙🌶 📍in 🇩🇪 CEO of eating and more eating
+    location: "Germany"
+    followers: 7204
+    engagement: 747
+    commentsToLikes: 0.029507
+    id: cka0x4n7m5i5t0i78lnikbyh9
+    verified: false
+    hashtags: "#gesunderezepte, #tiktokfood, #rezepteideen, #kochen"
 ---

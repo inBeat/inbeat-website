@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In France In 2020
 description: >-
-  Find top cyclists Instagram influencers in France in 2020. Most popular hashtags: #stayathome #stayhome #2019 #2020.
+  Find top cyclists Instagram influencers in France in 2020. Most popular hashtags: #cycling #cyclinglife #tdf2020.
 platform: Instagram
+hits: 79
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 79 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "primozroglic"
+    fullname: >-
+      Primoz Roglic
+    bio: >-
+      Ex skijumper from Slovenia, now a pro cyclist riding for Team Jumbo - Visma🚴🏻
+    location: "France"
+    followers: 348995
+    engagement: 1412
+    commentsToLikes: 0.010021
+    id: ck0u6l3t928dl0i19pc04ie0p
+    verified: false
+    hashtags: "#vuelta, #lavuelta20, #teamjumbovisma, #cyclinglife"
   - username: "yoyo.offredo"
     fullname: >-
       Yoann Offredo
+    bio: >-
+      French Pro cyclist 🇫🇷🚴🏻 for @circuswgt 🎪 Beers lover @bieredesamis 🍺 Globe-trotter 🌍 Cobbles addict @cube.bikes 🇧🇪
     location: "France"
-    followers: 41279
-    engagement: 836
-    commentsToLikes: 0.011077
+    followers: 42235
+    engagement: 1056
+    commentsToLikes: 0.012407
     id: ck6u15t7cjrkd0j71xvbwp3ia
     verified: false
-    hashtags: "#m2competition, #bieresdesamis, #circus, #wantygobert"
-  - username: "alexysbrnl"
+    hashtags: "#bieresdesamis, #circus, #wantygobert, #towalkagain"
+  - username: "iding410"
     fullname: >-
-      A L E X Y S ⚡️ B R U N E L
+      이딩(eding)
+    bio: >-
+      Ambassador BMC korea🇰🇷 GranfondoWorldTour Pella,HJC,roka,GARMIN,Giro,Aftershokz Mavic,rpmsports,dlkiller 모즈엠버서더 @moz.culture @noname_cyclist_factory
     location: "France"
-    followers: 5472
-    engagement: 1475
-    commentsToLikes: 0.008771
-    id: ck6u33hhovhax0j71ibrn8r2b
-    verified: false
-    hashtags: "#roadbiketraining, #cartepostale, #angleterre, #paristours"
-  - username: "paulineferrandprevot"
-    fullname: >-
-      Pauline FERRAND-PREVOT
-    location: "France"
-    followers: 337879
-    engagement: 502
-    commentsToLikes: 0.004758
-    id: ck0u9uiqlartj0i194f4gofz2
+    followers: 119420
+    engagement: 213
+    commentsToLikes: 0.024609
+    id: ck5pywb22y4050i11rryh1jxt
     verified: true
-    hashtags: "#blague, #worldrun, #apprun, #pasplusvitequafond"
+    hashtags: "#cycling, #ride, #pella, #roka"
+  - username: "michaelmorkov"
+    fullname: >-
+      Michael Mørkøv
+    bio: >-
+      🇩🇰 Pro cyclist @ Deceuninck - Quick-Step cycling team.
+    location: "France"
+    followers: 18228
+    engagement: 843
+    commentsToLikes: 0.006051
+    id: ck0udr1s1jrsz0i1966xtij6t
+    verified: false
+    hashtags: "#1000piecepuzzle, #sworksexos, #frederik, #nophotoshop"
   - username: "clementventurini"
     fullname: >-
       Clément
+    bio: >-
+      Cyclist rider @ag2rlamondiale_procyclingteam 💙❤️
     location: "France"
-    followers: 15241
-    engagement: 972
-    commentsToLikes: 0.003872
+    followers: 17302
+    engagement: 912
+    commentsToLikes: 0.004178
     id: ck5q6jf5nxmt20i112vq01kc2
     verified: false
-    hashtags: "#stayathome, #staysafe"
+    hashtags: ""
   - username: "maxime_bouet"
     fullname: >-
       Maxime
+    bio: >-
+      🇫🇷 Coureur #cycliste professionnel chez @arkeasamsic | French professional cyclist with #TeamArkeaSamsic 👨‍👧Papa de Victoire ✌️#allezleblond #cycling
     location: "France"
-    followers: 10005
-    engagement: 733
-    commentsToLikes: 0.019531
+    followers: 10113
+    engagement: 763
+    commentsToLikes: 0.019312
     id: ck5zkvrrvk91k0i14678jr3ad
     verified: false
-    hashtags: "#bouchesdurhone, #velodrome, #cyclinglife, #cyclinglove"
-  - username: "tonythetiger_12"
+    hashtags: "#cycling, #cyclisme, #ilovemyjob, #tousensemble"
+  - username: "andrea.bagioli"
     fullname: >-
-      Antoine Duchesne
+      Andrea Bagioli
+    bio: >-
+      Professional cyclist for @deceuninck_quickstepteam
     location: "France"
-    followers: 9209
-    engagement: 729
-    commentsToLikes: 0.009358
-    id: ck0w4tipu0cb70i19sqv9g8m2
+    followers: 12028
+    engagement: 1915
+    commentsToLikes: 0.012220
+    id: ckf5mpoetux5p0j2340cy1gqn
+    verified: false
+    hashtags: "#lavuelta, #deceuninckquickstepteam, #spain, #lavuelta2020"
+  - username: "maximilian_schachmann"
+    fullname: >-
+      Maximilian Schachmann
+    bio: >-
+      Pro cyclist for Team Bora Hansgrohe 🟡 Paris-Nice 2020 🇩🇪 Former German national champion 🇮🇹 Giro d'Italia stage winner Ambassador for RightToPlay
+    location: "France"
+    followers: 41286
+    engagement: 1215
+    commentsToLikes: 0.008433
+    id: ck5hnfi02noze0i11s5zit6me
+    verified: false
+    hashtags: "#letour, #tdf2020, #tdf, #tourdefrance"
+  - username: "alexysbrnl"
+    fullname: >-
+      A L E X Y S ⚡️ B R U N E L
+    bio: >-
+      Je crois, que tout ce qui ne nous tue pas nous rend simplement plus...bizarre 🃏 Pro cyclist for @equipegroupamafdj 🍀 🇫🇷x3 – 🇪🇺x1
+    location: "France"
+    followers: 5747
+    engagement: 1214
+    commentsToLikes: 0.003511
+    id: ck6u33hhovhax0j71ibrn8r2b
+    verified: false
+    hashtags: "#equipegroupamafdj, #667, #contiroad, #fdj"
+  - username: "nilspolitt"
+    fullname: >-
+      Nils Politt
+    bio: >-
+      Pro Cyclist 🚴‍♂️
+    location: "France"
+    followers: 32010
+    engagement: 970
+    commentsToLikes: 0.007247
+    id: ck5py264dtyke0i11jpmtqg3b
     verified: true
-    hashtags: "#comeback, #montsvalin, #brusselcyclingclassic, #jamesstartt"
-  - username: "maellegrossetete"
-    fullname: >-
-      Maëlle Grossetête
-    location: "France"
-    followers: 6246
-    engagement: 860
-    commentsToLikes: 0.029038
-    id: ck5hoq33yq0pn0i118cmfiilc
-    verified: false
-    hashtags: "#sacalobra, #roulezchezvous, #ridewithview, #stretching"
-  - username: "jakubmareczko"
-    fullname: >-
-      Jakub Mareczko
-    location: "France"
-    followers: 9870
-    engagement: 890
-    commentsToLikes: 0.016271
-    id: ck6uej4uzr8cs0j71uevobss6
-    verified: false
-    hashtags: "#2020, #newkit, #cccteam, #binckbanktour"
-  - username: "_loulouuu"
-    fullname: >-
-      Corentin Ermenault ⚡️
-    location: "France"
-    followers: 7359
-    engagement: 1005
-    commentsToLikes: 0.005876
-    id: ck6u33imfvhj90j71sn7zwp5p
-    verified: false
-    hashtags: "#soundon, #fitness, #feudanslespneus, #worldchampionship"
-  - username: "sebastianlangeveld"
-    fullname: >-
-      Sebastian Langeveld.
-    location: "France"
-    followers: 3647
-    engagement: 1469
-    commentsToLikes: 0.033278
-    id: ck5ho3jhoov9d0i11xa821g6v
-    verified: false
-    hashtags: "#tourdefrance, #rapha, #cannondalesynapse, #pinkargyle"
+    hashtags: "#maxxistires, #orangeseal, #girohelmets, #4iiiipowermeter"
 ---

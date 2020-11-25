@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In Italy In 2020
 description: >-
-  Find top gaming TikTok influencers in Italy in 2020. Most popular hashtags: #trend #netflix #gamer #starwars.
+  Find top gaming TikTok influencers in Italy in 2020. Most popular hashtags: #gaming #gamer #twitch #perte.
 platform: TikTok
+hits: 47
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 47 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "pczero"
     fullname: >-
       Dario di PCZERO
+    bio: >-
+      Pro PC Gaming Builder 🕹️ Condivido dritte sui Computer 🖱️ Vuoi un PC Top? 🤔⬇️
     location: "Italy"
-    followers: 37936
-    engagement: 795
-    commentsToLikes: 0.050612
+    followers: 81600
+    engagement: 852
+    commentsToLikes: 0.033123
     id: ck9nfp2uuem520j78q48voyip
     verified: false
-    hashtags: "#ostialido, #magic, #minecraft, #pool"
-  - username: "missaciddoll"
+    hashtags: "#pczero, #gaming, #pcgaming, #gamingpc"
+  - username: "dragostino"
     fullname: >-
-      MissAcidDoll
+      Dragostino
+    bio: >-
+      Per il momento ho preso una pausa da Twitch e dal Gaming.
     location: "Italy"
-    followers: 2074
-    engagement: 1394
-    commentsToLikes: 0.047949
-    id: ckamwy2vnan8r0i785baf3szq
+    followers: 2064
+    engagement: 601
+    commentsToLikes: 0.057726
+    id: ck9evoyzyjk290j78ichc5f9a
     verified: false
-    hashtags: "#twitchita, #commenti, #warzone, #lgbtqitaly"
+    hashtags: "#italia, #twitchitaly, #valorantitaly, #valorantita"
+  - username: "vanciox_tv"
+    fullname: >-
+      VancioX🧡🔥
+    bio: >-
+      Dm for collab⬆️🧡 Secondo profilo👇🏻
+    location: "Italy"
+    followers: 86700
+    engagement: 1783
+    commentsToLikes: 0.067928
+    id: ckbfh64n0chi80j23l207i4ik
+    verified: false
+    hashtags: "#twitchitalia, #twitchitaly, #viraleita, #gamingpertutti"
+  - username: "il_manuuu"
+    fullname: >-
+      Il manuuu
+    bio: >-
+      
+    location: "Italy"
+    followers: 17900
+    engagement: 1718
+    commentsToLikes: 0.833333
+    id: ckdcdzi82jz0y0j23d44emc35
+    verified: false
+    hashtags: ""
+  - username: "chillingsky"
+    fullname: >-
+      ChillingSKY
+    bio: >-
+      🟣 Twitch streamer 》twitch.tv/chillingsky 》Live ogni sera alle 21:00
+    location: "Italy"
+    followers: 2728
+    engagement: 1487
+    commentsToLikes: 0.078260
+    id: ckc36b5adv8y30j237rh5whss
+    verified: false
+    hashtags: "#twitch, #gtaonline, #funnymoment, #gta5"
   - username: "angolodelgameplay"
     fullname: >-
       angolodelgameplay
+    bio: >-
+      Sognamo in cammellese ♥️
     location: "Italy"
-    followers: 30026
-    engagement: 1214
-    commentsToLikes: 0.028354
+    followers: 33400
+    engagement: 1388
+    commentsToLikes: 0.063609
     id: ck9evoxgejjhx0j78upjcusum
     verified: false
-    hashtags: "#gamerlife, #gamer, #videogioco, #youtubeita"
+    hashtags: "#angolodelgameplay, #gamingvideos, #halloween, #tiktokvideogiochi"
   - username: "stevechelios"
     fullname: >-
       Steve Chelios
+    bio: >-
+      Bologna 💬comics 🎬cinema 📺serie Tv Entrate in Comics Society su Instagram!
     location: "Italy"
-    followers: 5780
-    engagement: 476
-    commentsToLikes: 0.102432
+    followers: 9279
+    engagement: 626
+    commentsToLikes: 0.082180
     id: cka884m6m9pai0i780mz57e9s
     verified: false
-    hashtags: "#capsulecorp, #joke, #selfisolation, #challenge"
-  - username: "timmydepizza"
+    hashtags: "#gamer, #anime, #pc, #geek"
+  - username: "bobomartini"
     fullname: >-
-      Timmy
+      BoboMartini🇮🇹
+    bio: >-
+      Lv. 23 / Fiumicino🇮🇹 directbobomartini@gmail.com No Edit Transitioner🔂
     location: "Italy"
-    followers: 14462
-    engagement: 1198
-    commentsToLikes: 0.041857
-    id: ck9f38l6bgncg0j78prtchxra
-    verified: false
-    hashtags: "#loop, #remix, #tiktokitalia, #og"
-  - username: "lorenzoroccam"
+    followers: 35400
+    engagement: 1020
+    commentsToLikes: 0.047548
+    id: cka6natjkal1h0i7849bos2g1
+    verified: true
+    hashtags: "#twitchitalia, #italy, #trend, #twitch"
+  - username: "missaciddoll"
     fullname: >-
-      Lorenzo Rocca M
+      MissAcidDoll
+    bio: >-
+      ✨Bea / Brescia / 21 anni / gamer / otaku / nerd / LG(B)T+✨ ✨Aspirante streamer✨
     location: "Italy"
-    followers: 2653
-    engagement: 647
-    commentsToLikes: 0.091861
-    id: cka87bmtd67fz0i78vw440t27
+    followers: 8169
+    engagement: 1706
+    commentsToLikes: 0.026450
+    id: ckamwy2vnan8r0i785baf3szq
     verified: false
-    hashtags: "#comedy, #pernoi, #tiktok, #coronavirus"
-  - username: "dragoneddyow"
+    hashtags: "#otaku, #anime, #fyp, #nerd"
+  - username: "pvcciii"
     fullname: >-
-      DragonEddy
+      Matteucci Nicola
+    bio: >-
+      IG"michiamanopucci"
     location: "Italy"
-    followers: 4760
-    engagement: 1033
-    commentsToLikes: 0.046326
-    id: cka0yn1gcbvux0i7827on5agz
+    followers: 2483
+    engagement: 748
+    commentsToLikes: 0.061852
+    id: ckdi7811890j40j238nvhwy2i
     verified: false
-    hashtags: "#codmemes, #tiktok, #tiktoktravel, #lavalemani"
-  - username: "sniegolino"
-    fullname: >-
-      Michele Rinaldi
-    location: "Italy"
-    followers: 5898
-    engagement: 910
-    commentsToLikes: 0.029070
-    id: ck9v7hmci615j0j78dj5eiu8d
-    verified: false
-    hashtags: "#tiktokgaming, #sniper, #strangerthings, #conte"
-  - username: "lordgenio"
-    fullname: >-
-      LORD GENIO Eugenio T
-    location: "Italy"
-    followers: 80234
-    engagement: 1990
-    commentsToLikes: 0.100167
-    id: ck9nogxjatyez0j7802frhfwd
-    verified: false
-    hashtags: "#perte, #successo, #vittoria, #duetto"
-  - username: "sciaq"
-    fullname: >-
-      Amin Chaqiq
-    location: "Italy"
-    followers: 47901
-    engagement: 1736
-    commentsToLikes: 0.079715
-    id: ck9evoyiajju00j78nemjbw2x
-    verified: false
-    hashtags: "#verotalento, #coma, #mamga, #happy"
+    hashtags: "#creative, #creativewarrior, #pcplayer, #fortnitebattleroyale"
 ---

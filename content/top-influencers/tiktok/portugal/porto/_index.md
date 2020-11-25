@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Porto In 2020
 description: >-
-  Find top TikTok influencers in Porto in 2020. Most popular hashtags: #dueto #quarentine #tiktok #coronavirus.
+  Find top TikTok influencers in Porto in 2020. Most popular hashtags: #fyp #foryou #foryoupage #portugal.
 platform: TikTok
+hits: 48
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 48 TikTok influencers like this in Porto, Portugal for you to contact.
 profiles:
-  - username: "diogomartinszx"
+  - username: "iasmynesampaio"
     fullname: >-
-      Martinez Yo
+      Iasmyne Sampaio
+    bio: >-
+      170k? 🥰 Meu nome é IASMYNE, não Inês. ❤️ BR vivendo no Porto-PT.📍 Insta 👇🏽
     location: "Portugal"
-    followers: 9244
-    engagement: 2144
-    commentsToLikes: 0.083044
-    id: ckajkuwgus4tf0i78f26ak9hf
+    followers: 162100
+    engagement: 2294
+    commentsToLikes: 0.022953
+    id: ckbqq7vjib4ti0j23e105r34b
     verified: false
-    hashtags: "#parati, #coronavirus, #reagir, #quarentine"
-  - username: "sergiobalanyuk"
+    hashtags: "#foryoupage, #fyp, #caradesemgra"
+  - username: "beatrizcerqueiraneves"
     fullname: >-
-      🔱 Sergio 🔱
+      Bea Cerqueira
+    bio: >-
+      Brasileira 🇧🇷, Morando no Porto 🇵🇹! 😉
     location: "Portugal"
-    followers: 6057
-    engagement: 837
-    commentsToLikes: 0.078086
-    id: cka0uiw86ug150i78zsfbeipi
+    followers: 9241
+    engagement: 721
+    commentsToLikes: 0.069030
+    id: ckc8fusijah9d0j2366y9jyp8
     verified: false
-    hashtags: "#comedy, #iphone, #filipelima, #help"
+    hashtags: "#tiktok, #funny, #fup, #foru"
+  - username: "heymateportugal"
+    fullname: >-
+      heymateportugal
+    bio: >-
+      Só malucos nesta empresa 🤡 🇵🇹Lisboa•Cascais•Porto 🛵Entregas em Casa👇🏽
+    location: "Portugal"
+    followers: 227300
+    engagement: 1924
+    commentsToLikes: 0.013760
+    id: ckdcl3t6tn7q70j23er9e17um
+    verified: false
+    hashtags: "#foryou, #nutella, #heymateportugal, #halloween"
+  - username: "nadinesilvaalmeida"
+    fullname: >-
+      Nadine Silva Almeida
+    bio: >-
+      Capeverdian🇨🇻 📍Porto Portugal
+    location: "Portugal"
+    followers: 227900
+    engagement: 1066
+    commentsToLikes: 0.010450
+    id: ck9ng9fdjf1qf0j78kb4qseaf
+    verified: false
+    hashtags: "#junteaspe, #linhacongelante"
+  - username: "loryhecker"
+    fullname: >-
+      Lourenço Hecker
+    bio: >-
+      Porto, Portugal 🇵🇹 Half Portuguese, Half German ❤️
+    location: "Portugal"
+    followers: 154900
+    engagement: 1099
+    commentsToLikes: 0.022268
+    id: ckcdyhqvlgo6d0j23tqm0s0bf
+    verified: true
+    hashtags: "#comedy, #fypage, #foryou, #foryoupage"
+  - username: "marianaoribeiro"
+    fullname: >-
+      Mariana Ribeiro
+    bio: >-
+      — A minha vida em Barcelona — Porto - Barcelona 🇪🇸 YouTube 👇🏽
+    location: "Portugal"
+    followers: 52100
+    engagement: 1028
+    commentsToLikes: 0.011052
+    id: ckb9e5pl01p280j239ln47un2
+    verified: false
+    hashtags: "#barcelona, #dicasdemarketing, #barcelonaspain, #influenciadordigital"
+  - username: "rafabessa__"
+    fullname: >-
+      ▫️Rafabessa 🧿
+    bio: >-
+      100K ainda este ano ? 🔳 22y 🔳 Porto 🔳 Fui feito para te animar 😂
+    location: "Portugal"
+    followers: 54400
+    engagement: 867
+    commentsToLikes: 0.032950
+    id: ckbfca2fs51870j23a30o8wwk
+    verified: false
+    hashtags: ""
   - username: "francisco.silva7"
     fullname: >-
       Francisco Silva
+    bio: >-
+      FC PORTO 💙 🇵🇹
     location: "Portugal"
-    followers: 4065
-    engagement: 670
-    commentsToLikes: 0.018223
+    followers: 23300
+    engagement: 620
+    commentsToLikes: 0.020294
     id: cka0uj17wugzq0i781c4ziir5
     verified: false
-    hashtags: "#elas, #tombas, #loucas, #compasso"
-  - username: "fabioalmeida992"
+    hashtags: "#xicomontanelas, #xaninha"
+  - username: "augustoygor"
     fullname: >-
-      Fabio Almeida
+      Augusto Ygor Machado
+    bio: >-
+      Filmmaker, editor & producer Porto, Portugal
     location: "Portugal"
-    followers: 3020
-    engagement: 620
-    commentsToLikes: 0.001290
-    id: cka7p1d9e5bdv0i78eh0ups34
+    followers: 16800
+    engagement: 883
+    commentsToLikes: 0.026127
+    id: ckcdyhf31gnng0j23m4aabwt9
     verified: false
-    hashtags: "#danceforme, #metesegunda, #newtik, #like"
-  - username: "marcio.filipe"
+    hashtags: "#portugal, #filmmaker, #porto, #oporto"
+  - username: "anafilipasilva"
     fullname: >-
-      Marcio.filipe
+      Ana Filipa Silva
+    bio: >-
+      19y Porto, Portugal 🤍
     location: "Portugal"
-    followers: 21903
-    engagement: 1116
-    commentsToLikes: 0.005863
-    id: ck9evgn9vib5i0j788szm6piz
+    followers: 14200
+    engagement: 774
+    commentsToLikes: 0.005643
+    id: ck9evgq2aibs20j784n2efgv2
     verified: false
-    hashtags: "#santorini, #elcorteingles, #belgium, #belgica"
-  - username: "marcoandresil"
-    fullname: >-
-      Marco André
-    location: "Portugal"
-    followers: 5361
-    engagement: 446
-    commentsToLikes: 0.010127
-    id: ck9evghnti9v40j78hgl2ube8
-    verified: false
-    hashtags: "#smallvideo, #pokemon, #dangerous, #portoportugal"
-  - username: "nuno1706"
-    fullname: >-
-      Nuno Miguel
-    location: "Portugal"
-    followers: 4670
-    engagement: 1235
-    commentsToLikes: 0.051939
-    id: cka0uivp2ufwd0i78um9ps6du
-    verified: false
-    hashtags: "#joaofelix, #liganos, #flamengo, #jorgejesus"
-  - username: "tinkerbell.studio"
-    fullname: >-
-      tinkerbell.studio
-    location: "Portugal"
-    followers: 23591
-    engagement: 2160
-    commentsToLikes: 0.014008
-    id: ck9evggtwi9nn0j789ihccaw5
-    verified: false
-    hashtags: "#simbachallenge, #harrypotter, #quarantine, #bebe"
-  - username: "el_midon"
-    fullname: >-
-      Hugo Miguel Midão
-    location: "Portugal"
-    followers: 27333
-    engagement: 1346
-    commentsToLikes: 0.160646
-    id: cka0uixhnugcf0i784ujr8x63
-    verified: false
-    hashtags: "#trevode4folhas, #trevodasorte, #live, #desafiopausa"
-  - username: "official_ammy_751"
-    fullname: >-
-      ♠️ਸ.ਅਮਰਜੀਤ ਸਿੰਘ♠️
-    location: "Portugal"
-    followers: 7985
-    engagement: 1034
-    commentsToLikes: 0.024600
-    id: ck9evgoo2iber0j78883eyfoc
-    verified: false
-    hashtags: "#singlelife, #canadatopunjab, #shreebrar, #viruscorona"
+    hashtags: "#foryou, #foryoupage, #fyp, #portugal"
 ---

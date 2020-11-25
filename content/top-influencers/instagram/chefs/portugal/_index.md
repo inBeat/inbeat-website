@@ -1,107 +1,106 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Portugal In 2020
 description: >-
-  Find top chefs Instagram influencers in Portugal in 2020. Most popular hashtags: #chef #veganfood #foodstagram #travel.
+  Find top chefs Instagram influencers in Portugal in 2020. Most popular hashtags: #foodphotography #chef #food #covid.
 platform: Instagram
+hits: 8
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "glutenfree.com.paixao"
+  - username: "mauro___airosa"
     fullname: >-
-      Sofia Paixão
+      Mauro Airosa
+    bio: >-
+      Masterchef 2019 Owner @homechefexperience Executive Chef & Owner @kambarestaurant Executive Chef @docksclub_ CATERING , CONSULTORIA , FORMAÇÕES
     location: "Portugal"
-    followers: 36351
-    engagement: 275
-    commentsToLikes: 0.139769
-    id: ck5hj2cd6fvm90i115tvhr29q
+    followers: 7146
+    engagement: 316
+    commentsToLikes: 0.041263
+    id: ck5hl69wijn8d0i116ce55vmz
     verified: false
-    hashtags: "#vamosconseguir, #onlineworshop, #segundaedicao, #airfryerphilips"
-  - username: "javiicasadoo"
-    fullname: >-
-      Javi Casado l Foodie🌱
-    location: "Portugal"
-    followers: 3958
-    engagement: 1240
-    commentsToLikes: 0.281507
-    id: ck5q7h57e1ji30i114vo3buqd
-    verified: false
-    hashtags: "#avocado, #todoirabien, #galleta, #gourmet"
-  - username: "ruimotaa"
-    fullname: >-
-      RUI MOTA
-    location: "Portugal"
-    followers: 10212
-    engagement: 868
-    commentsToLikes: 0.024177
-    id: ck0u6ea241oge0i19f8i1ndi1
-    verified: false
-    hashtags: "#cookingtechniques, #chef, #gastroart, #chefsplating"
-  - username: "nunoviajante"
-    fullname: >-
-      Nuno Mendes
-    location: "Portugal"
-    followers: 18789
-    engagement: 447
-    commentsToLikes: 0.051453
-    id: ck14gqcsu6ipu0i19wjuqzvdj
-    verified: false
-    hashtags: ""
+    hashtags: "#mauroairosa, #kambarestaurant, #worldfood, #grupokamba"
   - username: "_oliverpape_"
     fullname: >-
       O L I V E R   P A P E
+    bio: >-
+      YOUNG CHEF • nature 🌱 • movement 🧘🏻‍♂️ • create delicious food🔪contact me📩 #jidlojezivot #prostejsem #breathemotherfucker
     location: "Portugal"
     followers: 38129
     engagement: 289
     commentsToLikes: 0.007338
     id: ck0u9suw6ajvr0i196blbrfnp
     verified: false
-    hashtags: "#only, #bakery, #zivot, #frenchtoast"
+    hashtags: "#praha, #dog, #spoluprace, #nature"
+  - username: "ruimotaa"
+    fullname: >-
+      RUI MOTA
+    bio: >-
+      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 25 yrs
+    location: "Portugal"
+    followers: 10212
+    engagement: 868
+    commentsToLikes: 0.024177
+    id: ck0u6ea241oge0i19f8i1ndi1
+    verified: false
+    hashtags: "#chefsofinstagram, #chefsplating, #catering, #sosaingredientes"
   - username: "seenlisboa"
     fullname: >-
       SEEN Lisboa by Olivier
+    bio: >-
+      ~ Temporarily closed ~ Restaurant & Bar With signature from Chef Olivier, Seen Lisboa is the spot to be seen! 🌍 Lisbon • São Paulo • Bangkok
     location: "Portugal"
     followers: 28994
     engagement: 122
     commentsToLikes: 0.018120
     id: ck5c5lo1g3pi30i115fzt6vnr
     verified: true
-    hashtags: "#stayhome, #drinksnightshow"
-  - username: "hungrymoey"
-    fullname: >-
-      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
-    location: "Portugal"
-    followers: 19354
-    engagement: 418
-    commentsToLikes: 0.079897
-    id: ck5cammu1dp6j0i11miv13rw6
-    verified: false
-    hashtags: "#marseille, #zomatolb, #dessert, #rome"
-  - username: "melissavieira.ph"
-    fullname: >-
-      Melissa Vieira
-    location: "Portugal"
-    followers: 5314
-    engagement: 670
-    commentsToLikes: 0.071036
-    id: ckaorhl9rn92x0i78afvz25ho
-    verified: false
-    hashtags: "#france, #corona, #fotojornalismo, #press"
-  - username: "frederico_amaral_"
-    fullname: >-
-      Frederico Amaral
-    location: "Portugal"
-    followers: 46337
-    engagement: 311
-    commentsToLikes: 0.009414
-    id: ck6txihr9y12q0j71q407sh4j
-    verified: true
-    hashtags: "#newage, #saturdaymorning, #mothersday, #policia"
+    hashtags: "#seen, #seenlisboa, #staysafe, #drinksnightshow"
   - username: "chefchakall"
     fullname: >-
       Chakall
+    bio: >-
+      🌎💃✈️🍽️ Dad, traveler & restaurants owner, book writer, TV host 👳 From Tigre...to the end of love. Welcome to my world! 😉🛸
     location: "Portugal"
-    followers: 85536
-    engagement: 325
-    commentsToLikes: 0.029742
+    followers: 115816
+    engagement: 236
+    commentsToLikes: 0.629192
     id: ck5chcis8qigt0i11mkghuxfs
     verified: true
-    hashtags: "#raisingnoa, #tezenisportugal, #marmelada, #natural"
+    hashtags: "#foodphoto, #vilamoura, #minicookspot, #chakall"
+  - username: "go_rambler"
+    fullname: >-
+      Rashmi + Amit
+    bio: >-
+      -Traveller -Poet,architect Paid promotions available! DM for swipe up DM for collab🤗
+    location: "Portugal"
+    followers: 11274
+    engagement: 279
+    commentsToLikes: 0.179282
+    id: ck14j3ujhihwx0i19xv6h0xch
+    verified: false
+    hashtags: "#familytravel, #cheflife, #covid, #lifestyle"
+  - username: "catarinafurtadooficial"
+    fullname: >-
+      Catarina Furtado
+    bio: >-
+      @unfpa Goodwill Ambassador, President of the NGO @coracoescomcoroa, actress, TV host, author of 3 books and mother of 2. ❤️👑
+    location: "Portugal"
+    followers: 592667
+    engagement: 165
+    commentsToLikes: 0.022009
+    id: ck5c830bf8o6b0i11brmltd9o
+    verified: true
+    hashtags: "#covid, #direitoshumanos, #adoroaminhaprofissa, #pandemia"
+  - username: "margarits"
+    fullname: >-
+      Margarita Pugovka
+    bio: >-
+      🥉 masterchef pt 2019 💃🏼 model @centralmodels I always have butter in my fridge and sugar in my pantry 💘 pr, digital & brands gustavo@centralmodels.pt
+    location: "Portugal"
+    followers: 17232
+    engagement: 380
+    commentsToLikes: 0.016691
+    id: ck5hl68rejn740i11afuhcd52
+    verified: false
+    hashtags: "#doces, #pastry, #pastelaria, #cake"
 ---

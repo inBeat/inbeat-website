@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Brazil In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Brazil in 2020. Most popular hashtags: #cosmetics #makeupchallenge #makeuptutorial #blogueira.
+  Find top cosmetics Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #make #maquiagem #makeuptutorial.
 platform: Instagram
+hits: 389
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 389 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "micaellabergamini"
+    fullname: >-
+      Mica
+    bio: >-
+      Josué 1:9. Fashion | Lifestyle | Healthylife | Cosmetics ✨ Farmacêutica. @famibeautycosmetics
+    location: "Brazil"
+    followers: 23458
+    engagement: 289
+    commentsToLikes: 0.409520
+    id: ck6u8no0hsmpb0j718tz2rte2
+    verified: false
+    hashtags: "#toes, #praiadorosa, #praiadorosasc, #santacata"
+  - username: "amandacrystinaoficial"
+    fullname: >-
+      AMANDA  CRYSTINA
+    bio: >-
+      📍Estétic & Cosmétic • Modelo | 26 anos | Aquariana ➠ Parcerias e Divulgações direct📲 • Blessed, Good vibes |Espalhe AMOR 🐕🏋️‍♀️👯💄📸🍷☕🎼🚢✈️
+    location: "Brazil"
+    followers: 9895
+    engagement: 1885
+    commentsToLikes: 0.038908
+    id: ckaozd50ylca60i78lhr94n1c
+    verified: false
+    hashtags: "#beautiful, #bh, #brasil, #usa"
   - username: "noemi_salazar13"
     fullname: >-
       Noemi Salazar
+    bio: >-
+      📸 Instagramer 💌Contacto: infonoemisalazar@gmail.com 💄Mi marca :@noemisalazar_cosmetics 👇🏾COMPRA MIS COSMÉTICOS 👇🏾
     location: "Brazil"
-    followers: 720201
-    engagement: 326
-    commentsToLikes: 0.172490
+    followers: 801226
+    engagement: 420
+    commentsToLikes: 0.062134
     id: ck5q9nborbzle0i111qcvhstw
     verified: true
-    hashtags: "#belleza, #girlspower, #fotosencasa, #pijama"
-  - username: "beatriiz_alcantaraa"
-    fullname: >-
-      Beaтrιz Alcanтara ❥
-    location: "Brazil"
-    followers: 23199
-    engagement: 184
-    commentsToLikes: 0.054420
-    id: ck8t485h05tq80j78vkmua7tp
-    verified: false
-    hashtags: "#brauliobessa, #lookquarentenadodia, #emcasa, #tbt"
-  - username: "amandacrystinaoficial"
-    fullname: >-
-      Amanda Crystina  👑
-    location: "Brazil"
-    followers: 9531
-    engagement: 908
-    commentsToLikes: 0.036193
-    id: ckaozd50ylca60i78lhr94n1c
-    verified: false
-    hashtags: "#mensagemdodia, #flowers, #queen, #mexico"
-  - username: "inesmocho.makeup"
-    fullname: >-
-      Inês Mocho
-    location: "Brazil"
-    followers: 255014
-    engagement: 450
-    commentsToLikes: 0.026813
-    id: ck55jyj5ky2cy0i116rf0t8wc
-    verified: true
-    hashtags: "#pub, #quemnunca, #modaeci, #coronavirus"
+    hashtags: "#instagood, #outfits, #photography, #moda"
   - username: "cosmeasia"
     fullname: >-
-      Pedro
+      
+    bio: >-
+      Cosmetics news from Japan and Korea (I do NOT sell any product at all). As novidades cosméticas do Japão e Coreia (perfil NÃO comercial).
     location: "Brazil"
-    followers: 84409
-    engagement: 87
-    commentsToLikes: 0.033439
+    followers: 88662
+    engagement: 73
+    commentsToLikes: 0.026616
     id: ck135vsno3h8t0i19ejoraktb
     verified: false
-    hashtags: "#prote, #alfahidroxi, #makeup, #cleansingbalm"
-  - username: "63laserandskinclinic"
+    hashtags: "#maquiagem, #cleansingbalm, #novosprodutos, #skincare"
+  - username: "darknifica"
     fullname: >-
-      63 Laser & Skin Clinic™️
+      𝘿𝙖𝙧𝙠𝙣í𝙛𝙞𝙘𝙖
+    bio: >-
+      ▪️𝙈𝙞𝙘𝙝𝙚𝙡𝙡𝙮 𝘼𝙡𝙫𝙚𝙨 ▪️Cɑsɑdɑ: @thiagofwalter ▪️Photographer / Videomaker / Hairstylist / Makeup ▪️Social Media @antoniocarlosejocafi @violoesdoforte
     location: "Brazil"
-    followers: 53477
-    engagement: 97
-    commentsToLikes: 0.022876
-    id: ck8sxdflfgzlr0j7861w5yl9s
+    followers: 19275
+    engagement: 381
+    commentsToLikes: 0.100267
+    id: ck8t9hiu1o3zf0j784s7rd97u
     verified: false
-    hashtags: "#abdominal, #bodysculpt, #lift, #augmentation"
-  - username: "ana_lidya"
+    hashtags: "#halloween, #cronogramacapilar, #darknifica, #mulher"
+  - username: "kenzo_mud"
     fullname: >-
-      Ana Lídia
+      Kenzo MUD
+    bio: >-
+      🌈Artistic Makeup Master🌈 ✨Cursos / Workshop Pro ✨Parceria via direct ou e-mail ✨São Paulo - SP
     location: "Brazil"
-    followers: 3395
-    engagement: 4439
-    commentsToLikes: 1.242019
-    id: ckap1g6x0ugjf0i785oq4xeza
+    followers: 15553
+    engagement: 853
+    commentsToLikes: 0.047872
+    id: ck9hcoc2umb2s0j788bvcw10e
     verified: false
-    hashtags: "#joyalyfashion, #princesasifb, #lookevangelico, #blogueiragospel"
-  - username: "yasminlsilva"
+    hashtags: ""
+  - username: "allana.alveess"
     fullname: >-
-      YASMIN SILVA
+      ALLANA ALVES, 19, BA ♡
+    bio: >-
+      Deixa ir, pra vir...🦋 makeup | beauty | lifestyle Perfil profissional: @makeupallanaa_
     location: "Brazil"
-    followers: 55529
-    engagement: 701
-    commentsToLikes: 0.254202
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 13226
+    engagement: 1226
+    commentsToLikes: 0.020239
+    id: ck8t4tppv7x4r0j7803dy08fd
     verified: false
-    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
-  - username: "adhil.ea"
+    hashtags: "#mascara, #modabrasil, #moda, #susent"
+  - username: "camaracristiano"
     fullname: >-
-      🍭 🇦​ 🇩​ 🇭​ 🇮​ 🇱​ 🍭
+      C R I S T I A N O  C Â M A R A
+    bio: >-
+      💄 Maquiador @jackhairdesigner 🎓 Leticia de Paula 🎓 Vult ✨ Curso Profissional e Automaquiagem 📱 Agendamentos: (68) 99971-3869 🌍 Brasil - Ac
     location: "Brazil"
-    followers: 3597
-    engagement: 2548
-    commentsToLikes: 0.174258
-    id: ckap609yedwug0i78ygqtsq58
+    followers: 16596
+    engagement: 352
+    commentsToLikes: 0.672621
+    id: ck6u7z0uvohhg0j71ytjtejql
     verified: false
-    hashtags: "#nikhilnopz, #enthekeralam, #keralaquotes, #moodygram"
-  - username: "tuaneosaida"
+    hashtags: "#desceproplaychallenge, #makeup, #tutstutschallenge, #cosmetic"
+  - username: "dra.karinecrawford"
     fullname: >-
-      Tuane Osaida Martins
+      DRA. KARINE CRAWFORD
+    bio: >-
+      Pós graduada em estética odontológica, prótese e especialista em implantodontia. Belo Horizonte-MG. Telefone: (31) 31436633
     location: "Brazil"
-    followers: 5276
-    engagement: 1692
-    commentsToLikes: 0.202973
-    id: ck8t6574nc94q0j78123o3n1w
+    followers: 32649
+    engagement: 217
+    commentsToLikes: 0.033520
+    id: ck9haq34jdlw00j78tp8r6e8t
     verified: false
-    hashtags: "#dragrace, #blackandwhite, #cosmetics, #makeupbyme"
+    hashtags: "#bykarinecrawford, #empressdirectivoclar, #estetica, #clareamento"
+  - username: "euleocosta"
+    fullname: >-
+      Leonardo Costa
+    bio: >-
+      📍| Ceará /Brazil ✨| Lifestyle | Orgulho 🏳‍🌈 🙈| A vida é sua meu amor
+    location: "Brazil"
+    followers: 6415
+    engagement: 804
+    commentsToLikes: 0.021845
+    id: ck9hbhmtjgvbs0j78io8jmwqr
+    verified: false
+    hashtags: "#explore, #makeuplook, #undiscovered, #makeupgoals"
 ---

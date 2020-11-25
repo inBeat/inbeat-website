@@ -1,107 +1,130 @@
 ---
 title: Top 10 TikTok Influencers In Vancouver In 2020
 description: >-
-  Find top TikTok influencers in Vancouver in 2020. Most popular hashtags: #leavingmybody #canadalife #victoriaday #glowupchallenge.
+  Find top TikTok influencers in Vancouver in 2020. Most popular hashtags: #fyp #foryou #greenscreen #duet.
 platform: TikTok
+hits: 455
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 455 TikTok influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
-  - username: "hannahsmithx1"
+  - username: "02jpham"
     fullname: >-
-      Hannah Smith
+      jp
+    bio: >-
+      vancouver
     location: "Canada"
-    followers: 4409
-    engagement: 669
-    commentsToLikes: 0.020553
-    id: ck961zaawomhl0j78qcfeex26
+    followers: 14700
+    engagement: 1300
+    commentsToLikes: 0.029638
+    id: ck81qa19jh4mv0j78hskrc6rv
     verified: false
-    hashtags: "#beautiful, #catchallenge, #corona, #miniarms"
+    hashtags: "#vancouver, #fyp, #nails, #asian"
   - username: "taylormie"
     fullname: >-
       Taylor Mie
+    bio: >-
+      Vancouver
     location: "Canada"
     followers: 26942
     engagement: 959
     commentsToLikes: 0.012909
     id: ck80orz67jne90j78po8q2np9
     verified: false
-    hashtags: "#cypress, #foyoupage, #reversechallenge, #vancouver"
-  - username: "milanbogetic"
+    hashtags: "#vancover, #foruyou, #foryou, #reverse"
+  - username: "its_literally_me_sarina"
     fullname: >-
-      milan
+      🥵trump🥵
+    bio: >-
+      Vancouver 🇨🇦 https://www.change.org/p/andy-beshear-justice-for-breonna-taylor
     location: "Canada"
-    followers: 15880
-    engagement: 1831
-    commentsToLikes: 0.067660
-    id: ckajk9ccop48v0i78h75563ed
+    followers: 4826
+    engagement: 2241
+    commentsToLikes: 0.098517
+    id: ckc7c0kewlpwc0j23xsws91rx
     verified: false
-    hashtags: "#foryou, #meetmypet, #walkingonadream"
-  - username: "nyllllah"
+    hashtags: "#greenscreen, #duet, #stitch, #greenscreenvideo"
+  - username: "cameronj0yce"
     fullname: >-
-      nylah
+      cam 🤖
+    bio: >-
+      HI! PO BOX: 736 - 1641 Lonsdale Ave, North Vancouver, BC, Canada, V7M2J5
     location: "Canada"
-    followers: 6414
-    engagement: 1037
-    commentsToLikes: 0.105891
-    id: ck9k93df0bl6g0j78g1557ntf
+    followers: 606300
+    engagement: 2338
+    commentsToLikes: 0.020374
+    id: ck8071wrvo0000j7892vxnrgw
     verified: false
-    hashtags: "#sea2sky, #happyeaster, #cheerleading, #fliptheswitch"
-  - username: "alexanderbischoff1"
+    hashtags: "#raccoon, #fyp, #foryou, #welldone"
+  - username: "ellllajsaa"
     fullname: >-
-      Alexander Bischoff
+      elisa
+    bio: >-
+      🪐🎡🦎☮️🌙🚀🍃🍄 she/her vancouver BC 🇨🇦🇦🇱🇽🇰
     location: "Canada"
-    followers: 29290
-    engagement: 1983
-    commentsToLikes: 0.018986
-    id: ck807cmtgpvdw0j78unh4ff7v
+    followers: 5597
+    engagement: 2154
+    commentsToLikes: 0.052784
+    id: ckdtjygfsxfs60j23h508dyac
     verified: false
-    hashtags: "#allorganic, #familyday, #gymtime, #milk"
-  - username: "lexmayson"
+    hashtags: "#canada, #fyp, #greenscreen, #autumn"
+  - username: "therealgiancena"
     fullname: >-
-      Lex
+      Giancarlo Vasquez
+    bio: >-
+      Vancouver, BC 🇨🇦 23 STAY • ARMY • BLINK • ENGENE
     location: "Canada"
-    followers: 85221
-    engagement: 2219
-    commentsToLikes: 0.013801
-    id: ck9gsj520io1e0j78ozxq5p76
+    followers: 39200
+    engagement: 2179
+    commentsToLikes: 0.027893
+    id: ckb9uxy48twbp0j234gjctv4g
     verified: false
-    hashtags: "#marshalllecosplay, #dragonprincecosplay, #negasonic, #marinette"
-  - username: "ashley_realtor"
+    hashtags: "#blackpink, #blink, #pogi, #army"
+  - username: "tylerjayrose"
     fullname: >-
-      Ashley Smith
+      Tyler Jay Rose
+    bio: >-
+      banned at 100k insta: @tylerjayrose snap: toasterclouds03 Vancouver, Canada 📍
     location: "Canada"
-    followers: 20561
-    engagement: 1051
-    commentsToLikes: 0.110450
-    id: ck9evgulticza0j781uw841ls
+    followers: 5627
+    engagement: 2042
+    commentsToLikes: 0.038706
+    id: ck9nmw8zhmfrw0j78db7cpde3
     verified: false
-    hashtags: "#quarantinelife, #fortheladies, #girlsclub, #guessmyprovince"
-  - username: "tamiaoveres"
+    hashtags: "#greenscreen, #mom"
+  - username: "meggie8cake"
     fullname: >-
-      Tamia 
+      Stevenssss
+    bio: >-
+      Vancouver, BC 🇨🇦 18 Logged out for school. Diamond reveal soon❤️
     location: "Canada"
-    followers: 228735
-    engagement: 1892
-    commentsToLikes: 0.017373
-    id: ck8osvaarii1q0j78zbn12ijv
+    followers: 89400
+    engagement: 2012
+    commentsToLikes: 0.021085
+    id: ck8072pnuo7lb0j78i5eq63t2
     verified: false
-    hashtags: "#minitutorials, #learnfromme, #keepingbusy, #edit"
-  - username: "jenny.zhao"
+    hashtags: "#foryou, #fyp, #duet, #yearbook"
+  - username: "derdubxp"
     fullname: >-
-      Jenny Zhao
+      Derick
+    bio: >-
+      TikToks to make you 😁 Vancouver 🇨🇦🌈🎮 👇More Content👇
     location: "Canada"
-    followers: 7401
-    engagement: 1535
-    commentsToLikes: 0.173067
-    id: cka0kezngmaw40i789awx7a92
+    followers: 22700
+    engagement: 1284
+    commentsToLikes: 0.157658
+    id: ckcoydf5fa4lv0j23xipaz955
     verified: false
-    hashtags: "#validation, #chinanumber1, #lifehacks, #withmyfamily"
-  - username: "yashikanayyar"
+    hashtags: "#greenscreen, #gaymer, #pokemon, #duet"
+  - username: "vorostwins"
     fullname: >-
-      Yashika
+      vorostwins
+    bio: >-
+      Identical Twins Tag Team Vancouver 🇨🇦 DA VINKI cameo.com/vorostwins + Links ⬇️
     location: "Canada"
-    followers: 42680
-    engagement: 943
-    commentsToLikes: 0.082139
-    id: ck94l59cyxxfh0j78f4nn6dsz
+    followers: 636400
+    engagement: 1361
+    commentsToLikes: 0.027316
+    id: ckdi7hfhr9ey70j23vcx6cqhd
     verified: false
-    hashtags: "#levelup, #bringitback, #quarantine, #loveisintheair"
+    hashtags: "#foryoupage, #wrestling, #twins, #wwe"
 ---

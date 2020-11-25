@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Portugal In 2020
 description: >-
-  Find top fashion Instagram influencers in Portugal in 2020. Most popular hashtags: #instagood #inspiration #blogger #giveaway.
+  Find top fashion Instagram influencers in Portugal in 2020. Most popular hashtags: #ootd #pub #outfit.
 platform: Instagram
+hits: 280
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 280 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "tomigueis"
+  - username: "hillarymedeiross"
     fullname: >-
-      Tó Miguéis
+      𝐇𝐢𝐥𝐥𝐚𝐫𝐲 𝐌𝐞𝐝𝐞𝐢𝐫𝐨𝐬 | fashion
+    bio: >-
+      fashion content ASSISTA OS REELS 🖤 Cearense em Portugal - Aveiro📍 Aquariana com ascendente em blogueira ✨ hillarymedeiros7@gmail.com 📩
     location: "Portugal"
-    followers: 28835
-    engagement: 1012
-    commentsToLikes: 0.102812
-    id: ck8t37f9m26kw0j78oxgeschf
+    followers: 11974
+    engagement: 995
+    commentsToLikes: 0.116634
+    id: ck9wdogh0givp0j78prjctzeb
     verified: false
-    hashtags: ""
-  - username: "melyssapiinto"
-    fullname: >-
-      Melyssa Pinto
-    location: "Portugal"
-    followers: 275777
-    engagement: 523
-    commentsToLikes: 0.064775
-    id: ck55kbmgiyxoa0i11mdze2k1z
-    verified: false
-    hashtags: "#sorteoespa, #sorteos, #sorteo, #premio"
-  - username: "virginiapferreira"
-    fullname: >-
-      Virgínia Ferreira
-    location: "Portugal"
-    followers: 6993
-    engagement: 1212
-    commentsToLikes: 0.166931
-    id: ck8szqi8vpcay0j78qoqxb6qu
-    verified: false
-    hashtags: "#party, #makeup, #guimar, #covid19"
-  - username: "pedrofmgoncalves"
-    fullname: >-
-      Pedro Gonçalves
-    location: "Portugal"
-    followers: 6215
-    engagement: 1183
-    commentsToLikes: 0.243340
-    id: ck8t1e7levfe70j78bfotp7ei
-    verified: false
-    hashtags: "#casualwear, #greys, #menwear, #sunday"
-  - username: "catarina.fernandees"
-    fullname: >-
-      Catarina Fernandes
-    location: "Portugal"
-    followers: 68815
-    engagement: 502
-    commentsToLikes: 0.071840
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
-  - username: "martacyrnecarvalho"
-    fullname: >-
-      Marta Cyrne Carvalho
-    location: "Portugal"
-    followers: 38096
-    engagement: 481
-    commentsToLikes: 0.177019
-    id: ck6u4knjk49al0j7148a8d9r3
-    verified: false
-    hashtags: "#tescomaportugal, #36weeks, #day54, #diadamae"
+    hashtags: "#10k, #ruivas, #1peca3looks, #stylegirlbrasil"
   - username: "constanca_moura"
     fullname: >-
-      Constança Gomes Moura
+      Constança Gomes Moura
+    bio: >-
+      📍Lisboa, Portugal ➳ Fashion & Lifestyle 🎓 IMRT student, ESSCVP 💌 for collabs
     location: "Portugal"
-    followers: 5836
-    engagement: 2603
-    commentsToLikes: 0.356191
+    followers: 6760
+    engagement: 2313
+    commentsToLikes: 0.229474
     id: ck0ud62vficdz0i19zz0851bk
     verified: false
-    hashtags: "#hawkersco, #lifestyle, #dailyfashion, #blogger"
+    hashtags: ""
+  - username: "miss_tet"
+    fullname: >-
+      Teresa Lemos
+    bio: >-
+      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
+    location: "Portugal"
+    followers: 27624
+    engagement: 2192
+    commentsToLikes: 0.114470
+    id: ck55oexap88090i11kxq4k55q
+    verified: false
+    hashtags: "#sunnyday, #summer, #smile, #alegria"
+  - username: "brunolexim"
+    fullname: >-
+      BRUNO LEXIM
+    bio: >-
+      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
+    location: "Portugal"
+    followers: 5702
+    engagement: 1486
+    commentsToLikes: 0.175327
+    id: ck8t4nlcl7fh60j78xtp7cxlv
+    verified: false
+    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
   - username: "sara_nata"
     fullname: >-
       Sara Nata | Fashion•Lifestyle
+    bio: >-
+      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
     location: "Portugal"
-    followers: 3581
-    engagement: 1895
-    commentsToLikes: 0.290206
+    followers: 6097
+    engagement: 1375
+    commentsToLikes: 0.110565
     id: ck8t4c6ru68o50j784zjtiz1f
     verified: false
-    hashtags: "#photooftheday, #instagood, #menswear, #outfitoftheday"
-  - username: "suzy.antunes"
+    hashtags: "#today, #fashionstyle, #fashionblogger, #manfashionpost"
+  - username: "melyssapiinto"
     fullname: >-
-      SUSANNA ANTUNES
+      Melyssa Pinto
+    bio: >-
+      📍Costa Brava 💭Fashion Designer 💌 melyssapinto@tvtalentagency.com 📲 Tatiana: 649950297
     location: "Portugal"
-    followers: 3382
-    engagement: 1851
-    commentsToLikes: 0.176496
-    id: ck14lcy8wu1hv0i19jzzwtke4
+    followers: 1063557
+    engagement: 1120
+    commentsToLikes: 0.058350
+    id: ck55kbmgiyxoa0i11mdze2k1z
     verified: false
-    hashtags: "#redlips, #babyblue, #ladyinred, #cyclades"
-  - username: "bruna_danin"
+    hashtags: "#apmfuncrazylove, #sheinblackfriday, #onemillionsheinbucks, #energydrink"
+  - username: "tomigueis"
     fullname: >-
-      Brunadanin
+      Tó Miguéis
+    bio: >-
+      Men’s Fashion / Outfit ideas for men 📍Portugal 👷🏻‍♂️Civil Engineer
     location: "Portugal"
-    followers: 12579
-    engagement: 923
-    commentsToLikes: 0.206757
-    id: ck5zp7pghs5dl0i14hz9ssf4l
+    followers: 34077
+    engagement: 1011
+    commentsToLikes: 0.077252
+    id: ck8t37f9m26kw0j78oxgeschf
     verified: false
-    hashtags: "#detox, #bloguer, #burgacases, #caseiphone"
+    hashtags: ""
+  - username: "catarina.fernandees"
+    fullname: >-
+      Catarina Fernandes
+    bio: >-
+      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
+    location: "Portugal"
+    followers: 89978
+    engagement: 616
+    commentsToLikes: 0.132250
+    id: ck1374d9y9pu80i19hpf69j8k
+    verified: false
+    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
+  - username: "barbara.marques"
+    fullname: >-
+      Bárbara Marques
+    bio: >-
+      Jurist. Fashion & lifestyle content creator. 📍Porto, Portugal 💌 barbara@mykindofjoy.com
+    location: "Portugal"
+    followers: 61617
+    engagement: 609
+    commentsToLikes: 0.217552
+    id: ck5pzd0tc0dfn0i113djdxzjd
+    verified: false
+    hashtags: "#madeinportugal, #ootd, #pub, #mariafrederica"
+  - username: "martacyrnecarvalho"
+    fullname: >-
+      Marta Cyrne Carvalho
+    bio: >-
+      Family . Beauty . Fashion . Lifestyle Beauty Consultant Mother of Carminho 👧🏼 and Margarida 👶🏼 Porto, Portugal 🌈
+    location: "Portugal"
+    followers: 44868
+    engagement: 549
+    commentsToLikes: 0.145752
+    id: ck6u4knjk49al0j7148a8d9r3
+    verified: false
+    hashtags: "#pub, #cottonbrothers, #halloween, #todostemossuperpoderes"
 ---

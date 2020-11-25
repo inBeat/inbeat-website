@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top Instagram influencers in Barcelona in 2020. Most popular hashtags: # #olivermxrtinez #captureone20 #zetitafoto.
+  Find top Instagram influencers in Barcelona in 2020. Most popular hashtags: #ad #igersbarcelona #excellent.
 platform: Instagram
+hits: 2010
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 2010 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "lipina"
+  - username: "patriquiles"
     fullname: >-
-      Valeria Lipina
+      Patricia Quiles
+    bio: >-
+      Barcelona
     location: "Spain"
-    followers: 28424
-    engagement: 1946
-    commentsToLikes: 0.025018
-    id: ck5zl3s5xkojv0i145dzh9cf9
+    followers: 2672
+    engagement: 4020
+    commentsToLikes: 0.084009
+    id: ck5zt5c7wzrjr0i14gzcduh9h
     verified: false
-    hashtags: "#balipetreat"
+    hashtags: "#pic"
   - username: "anettagil"
     fullname: >-
       Anna Gil
+    bio: >-
+      Barcelona
     location: "Spain"
-    followers: 2287
-    engagement: 2483
-    commentsToLikes: 0.070847
+    followers: 2726
+    engagement: 1922
+    commentsToLikes: 0.079751
     id: ckap4sxxm8q960i78ihibm9gk
     verified: false
     hashtags: ""
+  - username: "martta.roa"
+    fullname: >-
+      𝑴𝑨𝑹𝑻𝑨 𝑹𝑶𝑨
+    bio: >-
+      Barcelona
+    location: "Spain"
+    followers: 12164
+    engagement: 1357
+    commentsToLikes: 0.016486
+    id: ck5zzqc9ic8c60i14si9u6lkt
+    verified: false
+    hashtags: "#summervibes, #3yearsago, #couplegoals, #forever"
   - username: "claudiaruizx"
     fullname: >-
       soy todo lo que aquí no verás✨
+    bio: >-
+      ;barcelona
     location: "Spain"
-    followers: 11161
-    engagement: 2027
-    commentsToLikes: 0.018548
+    followers: 11955
+    engagement: 1773
+    commentsToLikes: 0.011098
     id: ck15uastum9ge0i191mumhtb7
     verified: false
-    hashtags: "#halloweekend"
-  - username: "david_delasheras"
+    hashtags: ""
+  - username: "lipina"
     fullname: >-
-      David de las Heras
+      Valeria Lipina
+    bio: >-
+      Barcelona
     location: "Spain"
-    followers: 31099
-    engagement: 560
-    commentsToLikes: 0.025320
-    id: ck5q4giq9oyn50i11bfy3jk5e
+    followers: 46265
+    engagement: 2733
+    commentsToLikes: 0.006331
+    id: ck5zl3s5xkojv0i145dzh9cf9
     verified: false
     hashtags: ""
-  - username: "efradera"
+  - username: "albamiro1"
     fullname: >-
-      𝙴𝚗𝚛𝚒𝚌 𝙵𝚛𝚊𝚍𝚎𝚛𝚊
+      Alba Miró
+    bio: >-
+      barcelona
     location: "Spain"
-    followers: 7156
-    engagement: 3279
-    commentsToLikes: 0.092275
-    id: ck9hb4gopfd6q0j78slrhqzg3
+    followers: 125112
+    engagement: 560
+    commentsToLikes: 0.007181
+    id: ck5hfo6dqyfvp0i11zzhem5ri
     verified: false
-    hashtags: "#portbox, #noicemag, #nowherediary, #fotodome"
+    hashtags: "#d2family, #valentinovoceviva, #dsquared2, #ad"
+  - username: "isaaadelpaniii"
+    fullname: >-
+      Isabella⚡️
+    bio: >-
+      Barcelona
+    location: "Spain"
+    followers: 2205
+    engagement: 1779
+    commentsToLikes: 0.044281
+    id: ckap5jbp1bxwd0i78jt4iqock
+    verified: false
+    hashtags: "#film"
+  - username: "moniq_____"
+    fullname: >-
+      MONICA
+    bio: >-
+      barcelona
+    location: "Spain"
+    followers: 11908
+    engagement: 372
+    commentsToLikes: 0.043092
+    id: ck8tcdpsvz4nc0j78h8j0n9ql
+    verified: false
+    hashtags: "#minimalalert, #rsa, #nature, #igersbarcelona"
+  - username: "jaanaaa16"
+    fullname: >-
+      jjana perez 🤍
+    bio: >-
+      barcelona
+    location: "Spain"
+    followers: 2233
+    engagement: 21016
+    commentsToLikes: 0.035480
+    id: ck5c76ekt6wr30i11oyv2xs47
+    verified: false
+    hashtags: "#ad, #liveinlevis, #levis, #shein"
   - username: "alecontreraass"
     fullname: >-
       ALEJANDRA CONTRERAS
+    bio: >-
+      Barcelona,Spain.
     location: "Spain"
-    followers: 3084
-    engagement: 2741
-    commentsToLikes: 0.182509
+    followers: 3348
+    engagement: 2719
+    commentsToLikes: 0.150105
     id: ck5zmu52rn8b80i14e22wz9ew
     verified: false
     hashtags: ""
-  - username: "andreiiflu"
-    fullname: >-
-      Andrea Mengual ⚡️
-    location: "Spain"
-    followers: 172169
-    engagement: 2180
-    commentsToLikes: 0.289987
-    id: ck5c17rjmumbk0i11p08mhm12
-    verified: false
-    hashtags: "#cazzu, #3gchallenge, #sorteointernacional, #rauwalejandro"
-  - username: "guillem_viladoms"
-    fullname: >-
-      Guillem Viladoms
-    location: "Spain"
-    followers: 163101
-    engagement: 1393
-    commentsToLikes: 0.072289
-    id: ck137r919czfc0i19o5w24hj9
-    verified: false
-    hashtags: "#selfie, #urban, #tumbr, #blackandwhite"
-  - username: "nuriablanco3"
-    fullname: >-
-      NUNI
-    location: "Spain"
-    followers: 265118
-    engagement: 1390
-    commentsToLikes: 0.318190
-    id: ck5c6p7p25wo60i11ki2altdc
-    verified: false
-    hashtags: "#browniegirls, #subduedgirls"
-  - username: "carlavicob"
-    fullname: >-
-      CARLA VICO
-    location: "Spain"
-    followers: 81182
-    engagement: 1348
-    commentsToLikes: 0.194201
-    id: ck5c6p9gc5wsi0i11fg37q4yz
-    verified: false
-    hashtags: "#athome, #dememory, #ad, #futureisdigital"
 ---

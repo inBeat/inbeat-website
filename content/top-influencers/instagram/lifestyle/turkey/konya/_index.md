@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Konya In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #23nisan #konya #staysafe #makeup.
+  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #turkey #photography #photooftheday #antalya.
 platform: Instagram
+hits: 12
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 12 Instagram influencers like this in Konya, Turkey for you to contact.
 profiles:
-  - username: "storyofjourneys"
+  - username: "pelinburcin"
     fullname: >-
-      Story Of Journeys
+      𝐏𝐞𝐥𝐢𝐧 ༗ 𝐓𝐫𝐚𝐯𝐞𝐥 ༗ 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
+    bio: >-
+      𑁍 𝘉𝘪𝘰𝘭𝘰𝘨𝘺 𝘛𝘦𝘢𝘤𝘩𝘦𝘳 ༄ ✈ #travelblogger #travel #lifestyle ⚘ 🇹🇷 🇫🇷 🇧🇪 🇳🇱 🇩🇪 🇱🇺 🇦🇹 🇮🇹🇨🇭🇱🇮 ♛ “SİNOP” YouTube 🎥 videom 👇🏻
     location: "Turkey"
-    followers: 2835
-    engagement: 1897
-    commentsToLikes: 0.155712
-    id: ck5qcromos0dh0i11d80w8qa6
+    followers: 16734
+    engagement: 911
+    commentsToLikes: 0.082621
+    id: ck8t93qizmuvv0j78i1orvfgh
     verified: false
-    hashtags: "#konya, #amsterdam, #corona"
-  - username: "pembedunyammm"
+    hashtags: "#adventure, #gezilecekyerler, #kapadokya, #tbt"
+  - username: "uygunadimdoga"
     fullname: >-
-      Ümran
+      Dilara Özkan •Travel ✧☽
+    bio: >-
+      ❋ |Az bilinen yerleri keşfeden sırt çantalı #backpacker ✈ |Türkiye’de 81 il ↡ Lifestyle ⏀ |Enerji, hissetmediğini hissettiremezsin”
     location: "Turkey"
-    followers: 28900
-    engagement: 121
-    commentsToLikes: 0.117577
-    id: ck5c9v3qfc6cg0i11rul1fj44
-    verified: false
-    hashtags: "#23nisan, #izindeyizatam, #temizlikbenimi, #summertime"
-  - username: "paylastikcaguzel_"
+    followers: 45112
+    engagement: 590
+    commentsToLikes: 0.022807
+    id: ck6uaemel34gi0j716tbk0y1o
+    verified: true
+    hashtags: "#kamp, #turkey, #gezelimg, #seyahatblog"
+  - username: "kubra_orer"
     fullname: >-
-      PaylaştıkçaGüzel • Begüm Tekin
+      ⓀÜⒷⓇⒶ ÖⓇⒺⓇ
+    bio: >-
+      DiY | TRAVEL | LİFESTYLE SİBERİAN WELLNES #influencer #diyproject #pr #travel @ukdesings founder Married 💍
     location: "Turkey"
-    followers: 48085
-    engagement: 207
-    commentsToLikes: 0.078210
-    id: ck14i28nxda050i19ylg2zy3c
+    followers: 42103
+    engagement: 303
+    commentsToLikes: 0.211507
+    id: ckf5v4wp3nax30j23yuypkzp4
     verified: false
-    hashtags: "#cheesecake, #yummy, #smokedbbq, #butikkahvalt"
+    hashtags: "#beach, #konyaalt, #bebekodasi, #babyroom"
+  - username: "butterfly.song"
+    fullname: >-
+      Aliye Behiye Özkan
+    bio: >-
+      Life is Beatiful as you Travel 🌍 Traveler & Lifestyle 📩 Reklam ve iş birliği için ➡️ DM #gezgin #traveller
+    location: "Turkey"
+    followers: 16086
+    engagement: 381
+    commentsToLikes: 0.033686
+    id: ckaosf8nprd3v0i78pt7r3g0l
+    verified: false
+    hashtags: "#nature, #gezginkiz, #instagram, #travelblog"
+  - username: "dszgn"
+    fullname: >-
+      Deniz SEZGİN
+    bio: >-
+      🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
+    location: "Turkey"
+    followers: 7455
+    engagement: 1091
+    commentsToLikes: 0.121481
+    id: ck9hbt3usibwo0j78r1etvy9n
+    verified: false
+    hashtags: "#yalova, #izmit, #seyahat, #influencers"
+  - username: "itselny"
+    fullname: >-
+      SELINAY
+    bio: >-
+      Her daim kendin ol. Sen, seni anlayana mucizesin. 🔐
+    location: "Turkey"
+    followers: 2904
+    engagement: 4953
+    commentsToLikes: 0.068365
+    id: ck8tabd4jr3bh0j78cvyp7nfu
+    verified: false
+    hashtags: "#americanstyle, #model, #konyaalt, #somme"
+  - username: "nurayguler___"
+    fullname: >-
+      ⚜️  Nuray Güler
+    bio: >-
+      Türkiye'nin en büyük dövme kanalı 🔥 📍 Antalya / İstanbul 📌 YouTube
+    location: "Turkey"
+    followers: 11774
+    engagement: 564
+    commentsToLikes: 0.018630
+    id: ckaowf0ha8nca0i78hy9o5d7p
+    verified: false
+    hashtags: "#cihangir, #fashionstyle, #nikesportswear, #antalyaka"
+  - username: "patiklerimmm60"
+    fullname: >-
+      tunusisi60
+    bio: >-
+      💮İstekler sayfaya davet amaçlıdır 💮Amigurumi ,patik , iğne oyası 💮 Her türlü sipariş alıyorum 🤗 💮Kargo alıcıya aitt📮 💮Sipariş için dm✏️
+    location: "Turkey"
+    followers: 7657
+    engagement: 467
+    commentsToLikes: 0.145160
+    id: ck9wfkvssparu0j781fk4u4jq
+    verified: false
+    hashtags: "#amigurumi, #sipari, #etamin, #hediyelik"
+  - username: "ozgeeeunal"
+    fullname: >-
+      Özge Ünal ♥
+    bio: >-
+      26🎂 ANKARA📍 Hacettepe Üniversitesi Tıp Fakültesi Hastanesi / Araştırma Görevlisi 🏨 💉 PR 📨: unalozge94@gmail.com
+    location: "Turkey"
+    followers: 12324
+    engagement: 967
+    commentsToLikes: 0.004211
+    id: ck13a3ke0ogfy0i19fo5jidml
+    verified: false
+    hashtags: "#ankara, #instafollow, #aniyakala, #like4like"
   - username: "elisi.bohcasi"
     fullname: >-
       
+    bio: >-
+      👉Takip istekleri sayfaya davet amaçlı. 👉kapıda ödeme yoktur ❌ 👉Ödeme yapılmadan siparişe başlanmaz 👉kargo alıcıya aittir 👉RESIMLERIMI (Ç) ALMAYIN
     location: "Turkey"
     followers: 18005
     engagement: 194
     commentsToLikes: 0.047059
     id: ck8t55fku8u8a0j78ivw0olo2
     verified: false
-    hashtags: "#ht8990emoji, #namaz, #reklamht40, #guitar"
-  - username: "hasankabzee"
-    fullname: >-
-      HASAN KABZE
-    location: "Turkey"
-    followers: 56230
-    engagement: 525
-    commentsToLikes: 0.034939
-    id: ck5hso4s7wwza0i119zk153cf
-    verified: true
-    hashtags: "#goal, #albania, #earthquake, #walk"
-  - username: "izgisimal"
-    fullname: >-
-      Şimal İzgi 🍒
-    location: "Turkey"
-    followers: 2764
-    engagement: 2747
-    commentsToLikes: 0.133969
-    id: ckaot27amu1im0i78imlj088h
-    verified: false
-    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
-  - username: "eceetuncel"
-    fullname: >-
-      Ece Tuncel
-    location: "Turkey"
-    followers: 186838
-    engagement: 1773
-    commentsToLikes: 0.605199
-    id: ck5ca19fwcin50i11te28n4nr
-    verified: false
-    hashtags: "#ootd, #tbt, #yast, #stayhome"
-  - username: "onewaythreetickets"
-    fullname: >-
-      AYLİN▪️Travel Blogger
-    location: "Turkey"
-    followers: 6688
-    engagement: 1638
-    commentsToLikes: 0.104908
-    id: ck8t941jcmw040j78xqjh4bm7
-    verified: false
-    hashtags: "#yunanistanturu, #museedelouvre, #kavala, #worldtraveler"
-  - username: "__mervesii__"
-    fullname: >-
-      Merve Layık Yıldır
-    location: "Turkey"
-    followers: 8671
-    engagement: 1488
-    commentsToLikes: 0.133556
-    id: ckap3hq5u31p50i7891fhmupa
-    verified: false
-    hashtags: "#9weekspregnant, #kpbakewith12, #arifeo, #ucak9mokkam"
-  - username: "cerenkulahli"
-    fullname: >-
-      Ceren Külahlı
-    location: "Turkey"
-    followers: 73044
-    engagement: 1438
-    commentsToLikes: 0.762949
-    id: ck8t09eaxra4i0j78w6hhxucx
-    verified: false
-    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
+    hashtags: "#dua, #handmade, #sdv, #cumam"
 ---

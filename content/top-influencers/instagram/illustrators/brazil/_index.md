@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Brazil In 2020
 description: >-
-  Find top illustrators Instagram influencers in Brazil in 2020. Most popular hashtags: #dccomics #ilustra #lacasadepapel #stayhome.
+  Find top illustrators Instagram influencers in Brazil in 2020. Most popular hashtags: #illustration #art #digitalart #digitalpainting.
 platform: Instagram
+hits: 155
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 155 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "vanebeckman"
     fullname: >-
       Vanessa Beckman
+    bio: >-
+      🇧🇷 Cosplayer - MA 🎮Gamer - Twitch - vanebeckman ✍ Illustrator - encomendas por DM 📣Fã dubladora ⭐DBZnática 💥 BNHA 💕 ❤ Cirurgiã-Dentista
     location: "Brazil"
-    followers: 7025
-    engagement: 3541
-    commentsToLikes: 0.054211
+    followers: 9774
+    engagement: 1504
+    commentsToLikes: 0.084831
     id: ck8tctzcx0o8u0j789juzksd8
     verified: false
-    hashtags: "#browneyes, #dbsuper, #girlcosplay, #coelho"
+    hashtags: "#morena, #gamecosplay, #geekgirl, #manga"
   - username: "brancoarthur"
     fullname: >-
       Arthur Branco
+    bio: >-
+      CONFIRA MEUS MURAIS: @brancoarth 1994 🎓 Mechanical production engineer FEI //Artist // Illustrator ✍
     location: "Brazil"
-    followers: 12786
-    engagement: 1032
-    commentsToLikes: 0.035642
+    followers: 13051
+    engagement: 1146
+    commentsToLikes: 0.031723
     id: ck5q67aukw8xt0i11vjiocevx
     verified: false
-    hashtags: "#snorkel, #snorkeling, #reginageorge, #lapisdecor"
+    hashtags: "#tbt, #artwall, #posca, #wall"
+  - username: "babialves"
+    fullname: >-
+      Bárbara Alves
+    bio: >-
+      Brazilian ES | 24 years Collabs: direct or e-mail Model | Illustrator | Engenharia Civil Commissions open 🍂 @babialvesart
+    location: "Brazil"
+    followers: 16335
+    engagement: 1295
+    commentsToLikes: 0.106379
+    id: ck6u93xjfvcqf0j71i0km6vfq
+    verified: false
+    hashtags: ""
+  - username: "bya.brasil"
+    fullname: >-
+      Bya Brasil 🦂
+    bio: >-
+      ✶ Tattoo artist & illustrator ✶ São Paulo - ateliê privado ✶ AGENDA 2020 - encerrada
+    location: "Brazil"
+    followers: 40163
+    engagement: 392
+    commentsToLikes: 0.027867
+    id: ck6u5sc1rbfz60j71l684uy9h
+    verified: false
+    hashtags: "#blkttt, #blackworkers, #blackworktattoo, #blackworkbrasil"
   - username: "blogwilliamteixeira"
     fullname: >-
       WILLIAM TEIXEIRA💎
+    bio: >-
+      Creator Fashion Designer Brazilian Blogger Fashion illustrator Divinopolis-MG Contato: via direct ou Email blogwilliamteixeira@gmail.com
     location: "Brazil"
-    followers: 36382
-    engagement: 249
-    commentsToLikes: 0.051726
+    followers: 38340
+    engagement: 267
+    commentsToLikes: 0.038824
     id: ck8t486cv5trh0j78k9m2jn12
     verified: false
-    hashtags: "#tiobabao, #angel, #tictok"
+    hashtags: "#bbb21, #homens, #natureza, #boymodel"
+  - username: "freitasdesenhos"
+    fullname: >-
+      Ezequiel Freitas 🇧🇷
+    bio: >-
+      Caricaturist/Illustrator Commission caricature and illustration Orders and budgets by e-mail and WhatsApp👇 Pedidos e orçamentos via WhatsApp👇
+    location: "Brazil"
+    followers: 8411
+    engagement: 588
+    commentsToLikes: 0.056550
+    id: ck8t6m8ose3pf0j789gaht62j
+    verified: false
+    hashtags: "#eua, #ufc, #caricaturaspersonalizadas, #ceara"
   - username: "eudener"
     fullname: >-
       DENER BORDÃN™
+    bio: >-
+      ✨ Me segue que os filtros aparecem 👤 Visual Designer & Illustrator 📌 Brazil - Florianópolis
     location: "Brazil"
     followers: 13690
     engagement: 721
     commentsToLikes: 0.025773
     id: ck0w5t77d5bpp0i19jghacbvo
     verified: false
-    hashtags: "#hidrocorsolotica, #hidrocortopazio, #lentesdecontatocolor, #fotounivali"
-  - username: "imzeferino"
-    fullname: >-
-      Isadora Zeferino
-    location: "Brazil"
-    followers: 208529
-    engagement: 871
-    commentsToLikes: 0.044277
-    id: ck14gmeoa5xv60i19zo5h3xg4
-    verified: false
-    hashtags: "#nightmarebeforechristmas, #jackandsally, #rapunzel, #hogwarts"
+    hashtags: "#fotounivali"
   - username: "nataliaagatte"
     fullname: >-
       NATALIA AGATTE
+    bio: >-
+      Brazilian #Illustrator based in Brooklyn, NY. natalia.agatte@gmail.com SHOP ⇩
     location: "Brazil"
-    followers: 8455
-    engagement: 894
-    commentsToLikes: 0.035080
+    followers: 8672
+    engagement: 552
+    commentsToLikes: 0.041737
     id: ck5zxca6h7qpz0i14vhs65h3d
     verified: false
-    hashtags: "#lacasadepapel, #cinedraw, #bestnine2019"
-  - username: "phprimao"
-    fullname: >-
-      ᴾᴱᴰᴿᴼ 25
-    location: "Brazil"
-    followers: 25820
-    engagement: 151
-    commentsToLikes: 0.027264
-    id: ck5pyydibyf0t0i11p8abn3w1
-    verified: false
-    hashtags: "#coronavirus, #vakinha, #logo, #pontehercilioluz"
-  - username: "kaloycosta1"
-    fullname: >-
-      Kaloy Costa🏳️‍🌈
-    location: "Brazil"
-    followers: 10336
-    engagement: 501
-    commentsToLikes: 0.025922
-    id: ckap57mqwajd70i78kq05zw6t
-    verified: false
-    hashtags: "#dccomics, #blue, #otakubr, #teentitans"
-  - username: "anna.charlie"
-    fullname: >-
-      anna maeda
-    location: "Brazil"
-    followers: 23625
-    engagement: 549
-    commentsToLikes: 0.098444
-    id: ck0w57na62at60i1963km873j
-    verified: false
-    hashtags: "#artgram, #flowers, #deepfeelings, #guache"
+    hashtags: "#dailydesignpick, #womenartists, #weareillustration, #digitalillustration"
   - username: "samuelreis.art"
     fullname: >-
       Samuel Reis
+    bio: >-
+      Ilustrador e Designer de Personagens Illustrator and Character Designer From Brazil 🇧🇷
     location: "Brazil"
-    followers: 39812
-    engagement: 3535
-    commentsToLikes: 0.025660
+    followers: 42347
+    engagement: 796
+    commentsToLikes: 0.170082
     id: ck8t5znodbr8g0j78le5r1mhk
     verified: false
-    hashtags: "#sofyaplotnikova, #joshbeauchamp, #comics, #ilustra"
+    hashtags: "#illustration, #nudrawings, #nowunitededit, #digitalpainting"
+  - username: "wilustra"
+    fullname: >-
+      Wagner de Souza
+    bio: >-
+      | Freelance Illustrator | wandger@gmail.com |PRINTS|👇 soupop.com.br/wilustra www.urbanarts.com.br/wagner-de-souza www.teepublic.com/user/wilustra
+    location: "Brazil"
+    followers: 9240
+    engagement: 1379
+    commentsToLikes: 0.034285
+    id: ckap4sgtj8o4z0i784t2cw3xn
+    verified: false
+    hashtags: "#brasilart, #clipstudiopaint, #sixfanartschallenge, #digitalpainting"
 ---

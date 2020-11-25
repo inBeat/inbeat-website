@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Portugal In 2020
 description: >-
-  Find top fitness Instagram influencers in Portugal in 2020. Most popular hashtags: #fitness #outfitinspo #lookoftheday #gentleman.
+  Find top fitness Instagram influencers in Portugal in 2020. Most popular hashtags: #ootd #travel #photooftheday.
 platform: Instagram
+hits: 115
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 115 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "luismiguelferreiraa"
-    fullname: >-
-      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
-    location: "Portugal"
-    followers: 55184
-    engagement: 480
-    commentsToLikes: 0.133921
-    id: ck6tiiamt0rrx0j71siov3t0m
-    verified: false
-    hashtags: "#mensjewelry, #beardstyle, #workingout, #lookoftheday"
-  - username: "brunoanjoss"
-    fullname: >-
-      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
-    location: "Portugal"
-    followers: 4441
-    engagement: 1771
-    commentsToLikes: 0.378577
-    id: ck9womla25rjc0j78gw86m3wr
-    verified: false
-    hashtags: "#topman, #healthy, #freedom, #streetwear"
-  - username: "nunoantunes_"
-    fullname: >-
-      Nuno Antunes
-    location: "Portugal"
-    followers: 86050
-    engagement: 521
-    commentsToLikes: 0.036486
-    id: ck0w70geub53e0i19ba3o3vus
-    verified: false
-    hashtags: "#coupleshoot, #casuallook, #classicstyle, #menstrend"
-  - username: "inesrodrigues_all"
-    fullname: >-
-      INÊS RODRIGUES
-    location: "Portugal"
-    followers: 74769
-    engagement: 330
-    commentsToLikes: 0.022261
-    id: ck6txdv05x9jt0j71blpivgib
-    verified: false
-    hashtags: "#absworkout, #quarantine, #transformation, #glutelab"
-  - username: "ana.mota.02"
-    fullname: >-
-      Ana Mota
-    location: "Portugal"
-    followers: 6811
-    engagement: 1392
-    commentsToLikes: 0.014470
-    id: ckaoxsg23ejjr0i7856n2e3ej
-    verified: false
-    hashtags: "#summeroutfit, #bestofvsco, #whatiwore, #fitfam"
-  - username: "stefanyapereira"
-    fullname: >-
-      Stefany Pereira
-    location: "Portugal"
-    followers: 7648
-    engagement: 592
-    commentsToLikes: 0.056757
-    id: ck8tbim3vvu1v0j781gbd2hyz
-    verified: false
-    hashtags: "#stayinghealthy, #summer, #island, #happyworkout"
-  - username: "joanaabastoos"
-    fullname: >-
-      Joana Bastos
-    location: "Portugal"
-    followers: 66693
-    engagement: 380
-    commentsToLikes: 0.008357
-    id: ckaorwwp8p4i70i78qifeonm0
-    verified: false
-    hashtags: "#haircut, #beachlovers, #instagood, #tattolover"
   - username: "alexandracortereal_"
     fullname: >-
       Alexandra Corte Real ✨
+    bio: >-
+      • Porto 🇵🇹 • #fitnessaddict 🏋🏼‍♀️ • Collabs 📩 - alexandracortereal.instagram@gmail.com • @myproteinpt - “ALEXANDRAMP”
     location: "Portugal"
-    followers: 47229
-    engagement: 271
-    commentsToLikes: 0.018635
+    followers: 73769
+    engagement: 503
+    commentsToLikes: 0.046625
     id: ck6to63qxcb9d0j71awwiv9m3
     verified: false
-    hashtags: "#selfcare, #womenstyle, #staythefuckhome, #nopainnogain"
-  - username: "trainermiguel24"
+    hashtags: "#quarentena, #gains, #miss, #tbt"
+  - username: "camilaenribeiro4"
     fullname: >-
-      Sérgio Miguel
+      𝐂𝐀𝐌𝐈𝐋𝐀 𝐑𝐈𝐁𝐄𝐈𝐑𝐎
+    bio: >-
+      🎓FLUP 👑Miss juvenil Portugal 👑Miss Bairrada e Miss Aveiro 👑Miss Baguim fashion 🆙Embaixadora Fitness Up ❤️Embaixadora @sobacha.pt 💃🏼Latin dancer
     location: "Portugal"
-    followers: 13580
-    engagement: 492
-    commentsToLikes: 0.009334
-    id: ck9whf8vdxlbk0j78aufxpy66
+    followers: 13611
+    engagement: 900
+    commentsToLikes: 0.101152
+    id: ck8t6vzaoevei0j78vudxk1mz
     verified: false
-    hashtags: "#fat, #homeworkout, #pin, #treino"
-  - username: "vitinha30"
+    hashtags: "#happyhalloween, #20, #pub"
+  - username: "ajoanamaiaa"
     fullname: >-
-      🤴I Am Vitinha 🇵🇹
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
+    bio: >-
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost Embaixadora: @fitnessup_portugal UP-JOANAMAIA Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
     location: "Portugal"
-    followers: 11290
-    engagement: 601
-    commentsToLikes: 0.017056
-    id: ck8t1orcdwgzr0j78w8bcdcwg
+    followers: 7981
+    engagement: 823
+    commentsToLikes: 0.254085
+    id: ck14hflt0a2vq0i19iwbux8so
     verified: false
-    hashtags: "#instafit, #prozisportugal, #instafashion, #shirt"
+    hashtags: "#travel, #travelgirls, #swimwear, #beach"
+  - username: "nunoantunes_"
+    fullname: >-
+      Nuno Antunes
+    bio: >-
+      From Portugal 🇵🇹 👔 Fashion content creator 🏋️‍♂️ Fitness addict ✈️ Travel lover 📩 Collabs: nunoantunes87@gmail.com
+    location: "Portugal"
+    followers: 90839
+    engagement: 433
+    commentsToLikes: 0.032586
+    id: ck0w70geub53e0i19ba3o3vus
+    verified: false
+    hashtags: "#guywithstyle, #higheststreetfashion, #casualoutfit, #streetwear"
+  - username: "brunoanjoss"
+    fullname: >-
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
+    bio: >-
+      MensWear • Lifestyle • Fitness Contact : E-Mail 📩 Lisbon 📍 -10% @zumub.pt - ANJOS
+    location: "Portugal"
+    followers: 4971
+    engagement: 1402
+    commentsToLikes: 0.279553
+    id: ck9womla25rjc0j78gw86m3wr
+    verified: false
+    hashtags: "#travelblogger, #algarve, #influencer, #menfashionpost"
+  - username: "bruna_danin"
+    fullname: >-
+      Brunadanin
+    bio: >-
+      📷 foto 👗 fashion and lifestyle 📨 DM for collaboration 📩 Brunadanin@hotmail.com 🏋️‍♀️ @fitnessup_portugal : UP-BRUNADANIN 15€ desc na inscrição
+    location: "Portugal"
+    followers: 14346
+    engagement: 946
+    commentsToLikes: 0.318182
+    id: ck5zp7pghs5dl0i14hz9ssf4l
+    verified: false
+    hashtags: "#igers, #instagood, #photography, #style"
+  - username: "simonesbmatos"
+    fullname: >-
+      Simone • wellness & health
+    bio: >-
+      Viver com calma e alma. Bem-estar e fitness. Cuidar do corpo e mente. Muito (a)mar 🕊 💪🏽 -10% @prozis SIMONEMATOS
+    location: "Portugal"
+    followers: 8776
+    engagement: 565
+    commentsToLikes: 0.215646
+    id: ck14lojimvp7z0i19fx5f1hnp
+    verified: false
+    hashtags: "#slowliving, #eusouwh, #pub, #healthyliving"
+  - username: "rubisero"
+    fullname: >-
+      Ruben Heath Seromenho | Coach
+    bio: >-
+      Youtuber 🎥 Health and Nutrition Coach 🍎 Fitness Trainer 💪🏼 Masters in Clinical Psychology 🧠
+    location: "Portugal"
+    followers: 10513
+    engagement: 922
+    commentsToLikes: 0.040402
+    id: ck8tagnk4ro9f0j78l9wzfqfn
+    verified: false
+    hashtags: "#gaygymrat, #travelling, #sun, #traveling"
+  - username: "ritalopesalmeida"
+    fullname: >-
+      Rita Almeida
+    bio: >-
+      📍Viseu/Portugal Embaixadora @fitnessup_portugal 📩 Collabs: ritaalopesalmeida@gmail.com
+    location: "Portugal"
+    followers: 10724
+    engagement: 1942
+    commentsToLikes: 0.039669
+    id: ck8t6t58aelw10j78oe42y4jf
+    verified: false
+    hashtags: "#instastyles, #outfitidea, #outfitoftheday, #photooftheday"
+  - username: "corslondon"
+    fullname: >-
+      LONDON 🇬🇧
+    bio: >-
+      C💕; THE SAGITTARIUS Travel Fitness Fashion SheBoss 🏋🏼‍♀️ | Owner: @body_evolutionldn
+    location: "Portugal"
+    followers: 28676
+    engagement: 448
+    commentsToLikes: 0.032414
+    id: ckap65gtjeh990i78fmrt8jl4
+    verified: false
+    hashtags: "#itsthedetailsforme, #collectorspiece, #whitechanel, #selfspoilt"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Miami In 2020
 description: >-
-  Find top fitness TikTok influencers in Miami in 2020. Most popular hashtags: #fitness #miami #happy #workout.
+  Find top fitness TikTok influencers in Miami in 2020. Most popular hashtags: #miami #fitness #fyp #foryou.
 platform: TikTok
+hits: 85
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 85 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "joehadley96"
+  - username: "mattmastro"
     fullname: >-
-      Joseph JP Hadley
+      mattmastro
+    bio: >-
+      The Muscle Blueprint Fitness Trainer Songwriter 1/2 Way Funny ⬇️Join My Team ⬇️
     location: "United States"
-    followers: 6043
-    engagement: 976
-    commentsToLikes: 0.075831
-    id: ck9tu8w7sk87z0j786zjpgboa
+    followers: 46100
+    engagement: 1163
+    commentsToLikes: 0.070363
+    id: ckcomoi8i60t10j237kgwfv5m
     verified: false
-    hashtags: "#dolantwins, #pride, #retweet, #mytype"
-  - username: "sebi"
+    hashtags: "#lol, #morganwallen, #funny, #countryboy"
+  - username: "bellad305"
     fullname: >-
-      SEBI
+      bellad305
+    bio: >-
+      Just follow me. I have ADHD but very entertaining. No haters. IG @bellad305
     location: "United States"
-    followers: 2060304
-    engagement: 1056
-    commentsToLikes: 0.013427
-    id: ck80704z2nj2z0j78kxeacpzf
-    verified: true
-    hashtags: "#newdance, #randomthings, #moneyheist, #fitness"
-  - username: "rachelbaderr"
-    fullname: >-
-      Rachel Bader 🧡
-    location: "United States"
-    followers: 31573
-    engagement: 373
-    commentsToLikes: 0.008152
-    id: ck9gpxkjr741j0j788onft97t
+    followers: 12400
+    engagement: 1000
+    commentsToLikes: 0.277427
+    id: ckb94k5tom4u70j237l48p1kr
     verified: false
-    hashtags: "#lgbt, #selflove, #plottwist, #whatsinthebox"
+    hashtags: "#bellad305, #miami, #fitness, #expressieyourself"
+  - username: "tristan_tmorgan"
+    fullname: >-
+      tristan_tmorgan
+    bio: >-
+      📬: Tristanmorgan98@outlook.com 👻: Tristantmorgan BuckedUp Promo “TMORGAN20” 21
+    location: "United States"
+    followers: 22100
+    engagement: 1451
+    commentsToLikes: 0.037375
+    id: ck8j9rx1lou0d0j78yvcy7iyo
+    verified: false
+    hashtags: "#snapback, #miami, #fitness, #fyp"
+  - username: "fitwithceli"
+    fullname: >-
+      Araceli Velazquez
+    bio: >-
+      FREELANCE MODEL CEO @shapeShifterofficial Miami 🏝
+    location: "United States"
+    followers: 137400
+    engagement: 723
+    commentsToLikes: 0.019050
+    id: ck8hq47tt2cby0j7834s5slt6
+    verified: false
+    hashtags: "#fitness, #fyp, #miami, #workout"
+  - username: "iamz2official"
+    fullname: >-
+      iamz2official
+    bio: >-
+      Dropping my first YouTube vid at 30k followers 🤪 👻 IG : iamz2official
+    location: "United States"
+    followers: 27400
+    engagement: 1012
+    commentsToLikes: 0.030797
+    id: ckbqgdjrl1ukk0j23yme3kg47
+    verified: false
+    hashtags: "#hilarious, #foryou, #funny, #xyzbca"
+  - username: "ronnie3o5"
+    fullname: >-
+      ronnie3o5
+    bio: >-
+      Travel🏝fitness💪nature🌎 Miami📍
+    location: "United States"
+    followers: 32600
+    engagement: 435
+    commentsToLikes: 0.017154
+    id: ckavshj8b50pk0j2371uauwk9
+    verified: false
+    hashtags: "#summer, #ocean, #fyp, #fouryoupage"
+  - username: "travlcandy"
+    fullname: >-
+      🅣🅡🅐🅥🅛🅒🅐🅝🅓🅨
+    bio: >-
+      🅐🅡🅜🅨💜 TE JUZGARÁN IGUALMENTE ASÍ QUE HASLO.
+    location: "United States"
+    followers: 31700
+    engagement: 473
+    commentsToLikes: 0.029012
+    id: ckbkn6bg9h53q0j23on409zvc
+    verified: false
+    hashtags: "#oneminutefitness, #youwantmore, #gymlover, #gymtime"
   - username: "inlinephotography"
     fullname: >-
       inlinephotography
+    bio: >-
+      Fitness & Bikini Photographer in Miami
     location: "United States"
-    followers: 2860
-    engagement: 296
-    commentsToLikes: 0.025756
+    followers: 2821
+    engagement: 308
+    commentsToLikes: 0.014001
     id: ck9ewrv9bo2zh0j787qmg6xzp
     verified: false
-    hashtags: "#shakira, #superbowl2020, #fitness, #resistancebandworkout"
-  - username: "d_locay"
+    hashtags: "#imanexpert, #miamifitnessphotographer, #workout, #explosion"
+  - username: "joehadley96"
     fullname: >-
-      locaydevin
+      Joseph JP Hadley
+    bio: >-
+      Instagram- Jphadley19 Twitter -Jphadley96 🏳️‍🌈🏳️‍🌈🇮🇹🇮🇹
     location: "United States"
-    followers: 28505
-    engagement: 808
-    commentsToLikes: 0.041569
-    id: ck8j6cyfa965d0j78bl3b1i0f
+    followers: 8012
+    engagement: 709
+    commentsToLikes: 0.041930
+    id: ck9tu8w7sk87z0j786zjpgboa
     verified: false
-    hashtags: "#spacex, #madeit, #disaster, #liveitup"
-  - username: "andrespres"
+    hashtags: "#gaykid, #equinox, #snapchat, #sexy"
+  - username: "parrkerrrrr"
     fullname: >-
-      andrespres
+      White Chocolate 2.0
+    bio: >-
+      Account Got Banned @250k & 2.7M Likes Snap-e_lanosa8 100K? FLORIDA🏝
     location: "United States"
-    followers: 69517
-    engagement: 582
-    commentsToLikes: 0.039904
-    id: ck8j6ltb2ajrr0j78kos7uqa7
+    followers: 123300
+    engagement: 1045
+    commentsToLikes: 0.031775
+    id: ckd06z5pfah8h0j23yyhvtfgf
     verified: false
-    hashtags: "#hummus, #coldplunge, #gotthisforyou, #salty"
-  - username: "jimmylevymusic"
-    fullname: >-
-      Jimmy Levy 
-    location: "United States"
-    followers: 108497
-    engagement: 811
-    commentsToLikes: 0.038746
-    id: ck9evgs5aic7z0j78dhiprsq0
-    verified: false
-    hashtags: "#nittigritti, #impression, #bishopbriggs, #beberexha"
-  - username: "stefaru25"
-    fullname: >-
-      Stefania Ruiz 
-    location: "United States"
-    followers: 183226
-    engagement: 623
-    commentsToLikes: 0.032186
-    id: ck9jyxgo668au0j780w84s0hk
-    verified: false
-    hashtags: "#nattinatasha, #gotthisforyou, #justdancemoves, #moving"
-  - username: "priprirosepr"
-    fullname: >-
-      priprirosepr
-    location: "United States"
-    followers: 18013
-    engagement: 318
-    commentsToLikes: 0.032956
-    id: cka630exr286c0i786bns3bnd
-    verified: false
-    hashtags: "#baliswing, #swingit, #tiktokfan, #family"
-  - username: "____amays.officia"
-    fullname: >-
-      ____amays.official__
-    location: "United States"
-    followers: 23657
-    engagement: 888
-    commentsToLikes: 0.035357
-    id: ckacfmx5drkh30i78fojq0a4x
-    verified: false
-    hashtags: "#tiktokvirall, #modelo, #givenchy, #fallowmee"
+    hashtags: "#motivation, #halloween, #fyp, #foryoupage"
 ---

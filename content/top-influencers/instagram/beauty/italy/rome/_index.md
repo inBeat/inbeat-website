@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Rome In 2020
 description: >-
-  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #rome #beauty #iorestoacasa #love.
+  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #beauty #fashion #love #rome.
 platform: Instagram
+hits: 166
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 166 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
   - username: "dianadelorenzi"
     fullname: >-
       DIANA DE LORENZI
+    bio: >-
+      Lifestyle blogger and lover of beauty from🇮🇹Rome Mail to: info@dianadelorenzi.com Discover the world to discover yourself
     location: "Italy"
-    followers: 117494
-    engagement: 162
-    commentsToLikes: 0.060677
+    followers: 120618
+    engagement: 184
+    commentsToLikes: 0.047836
     id: ck14hp9unbg0a0i19q379ayh7
     verified: false
-    hashtags: "#luxurylifestyle, #colors, #andr, #travelfromhome"
-  - username: "morganickitchen"
+    hashtags: "#igersitalia, #visittrentino, #couplegoals, #italia"
+  - username: "deniscassani"
     fullname: >-
-      Morgan Witkin
+      D⃘E⃘N⃘I⃘S⃘ C⃘A⃘S⃘S⃘A⃘N⃘I⃘
+    bio: >-
+      IMMERSUS EMERGO. * Italian bearded 🇮🇹 * Tattoo addicted 😎👊🏻 * Rock’n’roll attitude 🎸🤟🏻 ✉️ deniscassani89@gmail.com @michaellouisny 📲⬇️
     location: "Italy"
-    followers: 42361
-    engagement: 143
-    commentsToLikes: 0.085003
-    id: ck5hiardncj830i11vkri3wbe
+    followers: 20119
+    engagement: 811
+    commentsToLikes: 0.230290
+    id: ck5zmhlgmml2n0i14ua8dng92
     verified: false
-    hashtags: "#veganbowl, #newnormal, #mozzarellasticks, #tastetherainbow"
-  - username: "lucreziacandelori"
+    hashtags: "#fragrance, #profumidinicchia, #colori, #beardman"
+  - username: "diana_pisu"
     fullname: >-
-      Lucrezia Candelori
+      Diana
+    bio: >-
+      1993📍Rome 🇮🇹 Collab💌direct 🎓 Executive Leadership @saintjosephs🇺🇸 🎓 BM @sapienzaroma 26countries🇺🇲 🇪🇺🏳️‍🌈💪👧♻️ #architecture #aesthetic
     location: "Italy"
-    followers: 38408
-    engagement: 164
-    commentsToLikes: 0.065112
-    id: ck9welr9mku0a0j788o0flz7u
+    followers: 19238
+    engagement: 245
+    commentsToLikes: 0.302143
+    id: ck5cfoijqncfo0i11q5pq23rz
     verified: false
-    hashtags: "#bdaygirl, #tb, #girlsgoneloavies"
-  - username: "gabrielegriseri"
+    hashtags: "#likelikelike, #arte, #suppliedby, #classicstyle"
+  - username: "gloriagallo_"
     fullname: >-
-      G A B R I
+      Gloria Gallo
+    bio: >-
+      Speaker a @radiomambo “La Reina Latina” Dal Lun al Ven dalle 13 alle 15 Presentatrice @fiesta_official 💃🏻
     location: "Italy"
-    followers: 51928
-    engagement: 150
-    commentsToLikes: 0.016581
-    id: ck15uvhvlopbe0i19lwlpkcq2
+    followers: 11781
+    engagement: 501
+    commentsToLikes: 0.084199
+    id: ck5c3fabrz7qf0i11sjw0zj1a
     verified: false
-    hashtags: "#gold, #94stillgold, #milano, #roma"
-  - username: "eleuro_countryside_graffiti"
+    hashtags: "#style, #igers, #photooftheday, #instalove"
+  - username: "babi.besenzoni"
     fullname: >-
-      eleuro
+      Barbara Besenzoni☀️
+    bio: >-
+      🎂 1996 |📍Bergamo 🇮🇹 🍝 foodie & travelholic 🌍 | 14 countries 🎓 uniBG | modern languages & literatures 📸 iphone 8 - Nikon D3300
     location: "Italy"
-    followers: 28208
-    engagement: 214
-    commentsToLikes: 0.011175
-    id: ck5zsoisnyw8d0i14b7qxjq1j
+    followers: 12096
+    engagement: 527
+    commentsToLikes: 0.012829
+    id: ck8ta88y9qte20j78hzpztuvz
     verified: false
-    hashtags: "#animalillustrations, #whitespacewinter, #asta, #nature"
-  - username: "eleonoraalbrecht"
+    hashtags: "#best, #trentinodascoprire, #cute, #volgoroma"
+  - username: "tanyalagatta_official"
     fullname: >-
-      Eleonora Albrecht
+      TANYA LA GATTA
+    bio: >-
+      🔸SHOWGIRL 🔸ATTRICE ▪️Management:@mediacast.produzioni ▪️Fashion commercial and publicist NUMBER: 3515333614 EMAIL: mediacast.produzioni@libero.it
     location: "Italy"
-    followers: 26823
-    engagement: 80
-    commentsToLikes: 0.082433
-    id: ck5zkwcvrkac10i1488ixpzi5
+    followers: 357198
+    engagement: 108
+    commentsToLikes: 0.030946
+    id: ck5q91ewn8xjd0i11paojwm22
     verified: false
-    hashtags: "#confetta, #family, #actress, #momslife"
-  - username: "flaviaberruti"
+    hashtags: "#romacinemafest, #eye, #ad, #campaign"
+  - username: "miss.martii"
     fullname: >-
-      F L A V I A 🍍
+      Marti💕
+    bio: >-
+      
     location: "Italy"
-    followers: 19514
-    engagement: 168
-    commentsToLikes: 0.092367
-    id: ck0tvdqamazyn0i19k3czxlyn
+    followers: 27335
+    engagement: 239
+    commentsToLikes: 0.020893
+    id: ck6uhnn6qa5z90j71etlnwt7g
     verified: false
-    hashtags: "#macysparade, #womanpower, #lunch, #myday"
-  - username: "lauramakeup90"
+    hashtags: "#boudoir, #concept, #fineart, #milan"
+  - username: "vanessadaylife"
     fullname: >-
-      Laura 💕
+      Vanessa Gentile
+    bio: >-
+      📍 Milan-Rome #Fashion | #Travel | #Beauty Creating memories w/ @augustopro 📩 info@vanessagentile.com
     location: "Italy"
-    followers: 17232
-    engagement: 436
-    commentsToLikes: 0.083219
-    id: ck0tunyo97xyz0i19chp9832e
+    followers: 112019
+    engagement: 282
+    commentsToLikes: 0.032946
+    id: ck0w4rtqf03gq0i19w89bt4w6
     verified: false
-    hashtags: "#passthebrushita, #makeupideas, #makeuplover, #nevecosmetics"
-  - username: "liviagianiorio"
+    hashtags: "#lifestyle, #italianvibes, #mediterraneanvibes, #italia"
+  - username: "annelot.v.rhijn"
     fullname: >-
-      P. Queen👑
+      Annelot van Rhijn
+    bio: >-
+      🐶 @piccolodjango • AMSTERDAM/ROME • Make-up / beauty • Fashion • Interiordesign ♊️
     location: "Italy"
-    followers: 25733
-    engagement: 352
-    commentsToLikes: 0.050404
-    id: ck0u19xyvw8b90i190coh6qta
+    followers: 24389
+    engagement: 188
+    commentsToLikes: 0.032810
+    id: ck5ccl7qrhkab0i11x1lkzh3e
     verified: false
-    hashtags: "#sundaymood, #mybestyear, #braids, #preggobelly"
-  - username: "_ilarialuciani_"
+    hashtags: "#lostinamalfi, #kikomilano, #wonderwoman, #positano"
+  - username: "giada_caboni"
     fullname: >-
-      ❣️ Ilaria 💌
+      Giada Caboni 🇮🇹
+    bio: >-
+      𝐶𝑜𝑛𝑡𝑎𝑐𝑡 📩 𝒈𝒊𝒂𝒅𝒂𝒄𝒂𝒃𝒐𝒏𝒊𝟎𝟐@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎 “𝐹𝑎𝑖 𝑖𝑛 𝑚𝑜𝑑𝑜 𝑐ℎ𝑒 𝑙𝑎 𝑓𝑒𝑙𝑖𝑐𝑖𝑡𝑎̀ 𝑠𝑖𝑎 𝑖𝑙 𝑡𝑢𝑜 𝑢𝑛𝑖𝑐𝑜 𝑣𝑖𝑧𝑖𝑜”
     location: "Italy"
-    followers: 10641
-    engagement: 367
-    commentsToLikes: 0.102005
-    id: ck13aj70lqmt90i19s7uxrqfb
+    followers: 12428
+    engagement: 719
+    commentsToLikes: 0.018345
+    id: ckaosjr57rse40i78t5rxf5m0
     verified: false
-    hashtags: "#quarantinepillowchallenge, #crostata"
+    hashtags: "#selfie, #tagstsgram, #liked, #photooftheday"
 ---

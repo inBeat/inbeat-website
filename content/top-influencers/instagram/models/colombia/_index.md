@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Colombia In 2020
 description: >-
-  Find top models Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #dance #like #photography.
+  Find top models Instagram influencers in Colombia in 2020. Most popular hashtags: #model #colombia #photography.
 platform: Instagram
+hits: 352
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 352 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "yeniferdalmasi"
-    fullname: >-
-      Y E N I F E R  D A L M A S I
-    location: "Colombia"
-    followers: 5638
-    engagement: 1273
-    commentsToLikes: 0.439450
-    id: ck6u99m00w9wb0j71rdddv8zl
-    verified: false
-    hashtags: "#archivos, #fotografer, #verano2019, #paradisebeach"
-  - username: "kimberlyhookern"
-    fullname: >-
-      Kimberly Hooker Naranjo
-    location: "Colombia"
-    followers: 29431
-    engagement: 835
-    commentsToLikes: 0.040973
-    id: ck5zzybf5cmiq0i14mewm58y1
-    verified: false
-    hashtags: "#afropower, #polastime, #apoyalonacional, #apoyalonuestro"
-  - username: "leidygomez063"
-    fullname: >-
-      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
-    location: "Colombia"
-    followers: 254897
-    engagement: 456
-    commentsToLikes: 0.131269
-    id: ck8t0qyfwsytv0j7846clzuqm
-    verified: false
-    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
   - username: "camilacruzg1"
     fullname: >-
       CAMILA
+    bio: >-
+      ▪️| Model ▪️| Est. Comunicación social
     location: "Colombia"
-    followers: 3845
-    engagement: 2872
-    commentsToLikes: 0.301062
+    followers: 8140
+    engagement: 4688
+    commentsToLikes: 0.196704
     id: ck9wfionyozeb0j785cndm6xt
     verified: false
-    hashtags: "#bloggers, #viajaresvivir, #sanandresislas, #inversiones"
-  - username: "juliaticaofficialone"
+    hashtags: "#bogota, #likeforlikes, #model, #like4likes"
+  - username: "tutyzulu"
     fullname: >-
-      J U L I A 🦋
+      Angelique Bancelin Zuluaga
+    bio: >-
+      Model ☁️🏡@theecloudhouse 📩Business: @vibesgroupcol Twitter: Angelique_Zz
     location: "Colombia"
-    followers: 136561
-    engagement: 919
-    commentsToLikes: 0.023146
-    id: ck8t73npgfjes0j78hqja6a35
+    followers: 61834
+    engagement: 2002
+    commentsToLikes: 0.027278
+    id: ck9whimh0y16x0j78ivw9vd8p
     verified: false
-    hashtags: "#breeze, #comfortable, #love, #2020"
+    hashtags: "#barranquilla, #inspiration, #colombia, #postoftheday"
+  - username: "danielasalazarc_"
+    fullname: >-
+      Daniela Salazar C.
+    bio: >-
+      Model & content creator. Sportswear 🏃🏻‍♀️ @10activesportswear Accesorios 🌟 @bydanielasalazar Podcast 🎙 TenemosQueHablar @bangenergy Elite
+    location: "Colombia"
+    followers: 1182469
+    engagement: 852
+    commentsToLikes: 0.013842
+    id: ck0udl4v1jfrp0i19ws4b7c3w
+    verified: false
+    hashtags: "#77dogood, #viviendojuntos, #reels, #colorfixapruebadetodo"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
+    bio: >-
+      ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 52921
-    engagement: 369
-    commentsToLikes: 0.058152
+    followers: 60698
+    engagement: 462
+    commentsToLikes: 0.046698
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#almendras, #colombia, #postresaludable, #chocolate"
-  - username: "loingrid.rivero"
+    hashtags: "#espnbiketeam, #gorigogo, #ciclismo, #cycling"
+  - username: "angelicaflorezz"
     fullname: >-
-      yaxu
+      Angelica Florez
+    bio: >-
+      Publicidad 📈info: MD 📲 Colombian Model 📸 🏋🏼‍♀️Deportista Adm de empresas // Founder💡 @angelsportfitness_ Founder 💡 @beerloversplace
     location: "Colombia"
-    followers: 15730
-    engagement: 602
-    commentsToLikes: 0.152883
-    id: ckaoxl48ddqhw0i78i5etyrg4
+    followers: 57955
+    engagement: 294
+    commentsToLikes: 0.049840
+    id: ck6u0yk8yihyh0j71imujfb6p
     verified: false
-    hashtags: "#quedateemcasa, #cuarentine, #desdecasa, #mood"
-  - username: "ilmio_of"
+    hashtags: "#instagramers, #fitnessmotivation, #healthylifestyle, #swimwear"
+  - username: "alejamontealegre16"
     fullname: >-
-      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
+      Alejandra Montealegre
+    bio: >-
+      May 🎓Journalist - Model 🐍 Ex integrante @guerreroscolombia 📍Medellín 📩 Publicidad al DM
     location: "Colombia"
-    followers: 43722
-    engagement: 359
-    commentsToLikes: 0.060896
-    id: ck6ub58fr7jg10j71j2v6lxuh
+    followers: 108014
+    engagement: 190
+    commentsToLikes: 0.061828
+    id: ck8sxh9p4he0x0j781r956pih
     verified: false
-    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
-  - username: "angeliquebancelin"
+    hashtags: "#goodvibes, #fitness, #training, #minicover"
+  - username: "eli.paz"
     fullname: >-
-      Tutyzulu
+      Elizabeth Paz
+    bio: >-
+      ♡ Civil Engineer 🚜⚠️ @gheikaingenieros ♡ Model 📸🎞 ♡ Traveler ✈️🌏 . . . . Dios guia mi camino❣ 🇨🇴💯💫✌🏼🇬🇧
     location: "Colombia"
-    followers: 27165
-    engagement: 2668
-    commentsToLikes: 0.024652
-    id: ck9whimh0y16x0j78ivw9vd8p
+    followers: 5820
+    engagement: 1550
+    commentsToLikes: 0.058953
+    id: ckap0kntcqq5d0i78ibkynj55
     verified: false
-    hashtags: "#goldenhour, #makeup, #freakles, #aesthetic"
-  - username: "itaromaa"
+    hashtags: "#canonphotography, #streetphotography, #photography, #photoshoot"
+  - username: "nathaliaduquef"
     fullname: >-
-      I T A       R O M A 🌙
+      Nathalia Duque 🇨🇴
+    bio: >-
+      B.F.A in Musical Theater Actress - Singer - Dancer Agency represented model (USA) Modelo independiente (Colombia) @waltdisneyworld Entertainment
     location: "Colombia"
-    followers: 3735
-    engagement: 1978
-    commentsToLikes: 0.097054
-    id: ckapby1s21px90i783y6xjjjn
+    followers: 9071
+    engagement: 920
+    commentsToLikes: 0.102503
+    id: ck6uc8y7xe6wl0j71iteglv8l
     verified: false
-    hashtags: ""
+    hashtags: "#modelingshoot, #colombia, #brunette, #hairgoals"
+  - username: "charbedi"
+    fullname: >-
+      Carlos Andres B
+    bio: >-
+      Be Charls!! Manager: @talentolilovalencia ✨✨ Model @grupo4co Colombiano Vegetariano Actor-model-licenciado. "Actuar siempre desde el corazón"
+    location: "Colombia"
+    followers: 13832
+    engagement: 1227
+    commentsToLikes: 0.015280
+    id: ckf5lthb2qyd60j23fli0sau2
+    verified: false
+    hashtags: "#menstyle, #menface, #publicidad, #sun"
+  - username: "cami.erre_"
+    fullname: >-
+      María Camila
+    bio: >-
+      Medellín, Colombia De 🇨🇴 para el 🌎, papa 🐘/Model/💛✨ #MaCaRena
+    location: "Colombia"
+    followers: 10735
+    engagement: 661
+    commentsToLikes: 0.070666
+    id: ck13asfrcryak0i19lkojnh29
+    verified: false
+    hashtags: "#tbt"
 ---

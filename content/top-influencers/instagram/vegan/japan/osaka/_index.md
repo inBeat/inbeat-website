@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Osaka In 2020
 description: >-
-  Find top vegan Instagram influencers in Osaka in 2020. Most popular hashtags: #vegan #osaka #japan #tokyo.
+  Find top vegan Instagram influencers in Osaka in 2020. Most popular hashtags: #vegan #stayhome #pr.
 platform: Instagram
+hits: 4
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 4 Instagram influencers like this in Osaka, Japan for you to collaborate.
 profiles:
-  - username: "izumi.hakamata"
-    fullname: >-
-      いづみ🦉
-    location: "Japan"
-    followers: 86301
-    engagement: 73
-    commentsToLikes: 0.024092
-    id: ckaorf9kxmy4d0i78i4n01aw9
-    verified: false
-    hashtags: "#organicsweets, #eightbreadpremium, #tennouji, #healthwave"
   - username: "kayakaya.official"
     fullname: >-
       KAYA💋KAYA
+    bio: >-
+      🦄スピリチュアルガイドKAYAKAYA🦄 🌸賃貸マイスター 🌸follower10000以上Instagram養成講座🌈 🌸ラジオ岸和田FM79.7 ⏩毎月第2金曜日24時から24時30分まで 💎カヤのママママウンテンマウンテン ⏩毎月第1木曜日20時〜21時まで生放送 💎1.2.3
     location: "Japan"
     followers: 52169
     engagement: 200
     commentsToLikes: 0.012798
     id: ck6udpnk9mg6m0j719bx8fuik
     verified: false
-    hashtags: "#kaya, #radio, #wellvis, #beauty"
-  - username: "samanthabarks"
+    hashtags: "#beauty, #kaya, #fm79, #kishiwada"
+  - username: "sarixoxo101"
     fullname: >-
-      𝓢𝓪𝓶𝓪𝓷𝓽𝓱𝓪 𝓑𝓪𝓻𝓴𝓼
+      美波さおり
+    bio: >-
+      ▪️Amebaオフィシャルブロガー ▪️ 2kids👭mama/osaka⇄tokyo ▪️社)国際アイデザイニング協会💄代表理事 ▪️お仕事ご依頼はDMに📩 ▪️講座開催の詳細・ブログはこちら↓↓↓
     location: "Japan"
-    followers: 123122
-    engagement: 607
-    commentsToLikes: 0.008660
-    id: ck55nklpy6edr0i116m9deqz1
-    verified: true
-    hashtags: "#nectarsleepuk, #curry, #takemeback, #quarentine"
+    followers: 50005
+    engagement: 253
+    commentsToLikes: 0.016536
+    id: ckaovpj0a5lfr0i784jo40tuz
+    verified: false
+    hashtags: "#vio, #tcb, #pr, #louisvuitton"
+  - username: "izumi.hakamata"
+    fullname: >-
+      いづみ🐲17
+    bio: >-
+      刺激を求め#旅に 目で見て体感するのが好き 健康的な身体作りと 美容に頑張っています。 #新しい働き方の ✍️mekuruの主婦アンバサダー サロンモデルやゲスト出演など ファッションのアンバサダーの経験有 クリエイター 仕事の依頼はDMへ
+    location: "Japan"
+    followers: 87063
+    engagement: 58
+    commentsToLikes: 0.029260
+    id: ckaorf9kxmy4d0i78i4n01aw9
+    verified: false
+    hashtags: "#golfgirl, #tv, #goto, #wagyu"
   - username: "halalgourmetjapan"
     fullname: >-
       HALAL GOURMET JAPAN
+    bio: >-
+      Find the nearest halal restaurant in Japan with "Halal Gourmet Japan" application (iTunes, Play Store). Share it with beloved family and friends!
     location: "Japan"
     followers: 18508
     engagement: 169
     commentsToLikes: 0.012771
     id: ck0ty2qk9ld8u0i1966mnalzb
     verified: false
-    hashtags: "#oleholehjepang, #cocoa, #halalsteak, #strawberryjapan"
-  - username: "susannameeow"
-    fullname: >-
-      susanna
-    location: "Japan"
-    followers: 121701
-    engagement: 930
-    commentsToLikes: 0.007831
-    id: ck5q7vthl3a7n0i112ywil7um
-    verified: false
-    hashtags: "#motelrocks"
-  - username: "meyou.mae"
-    fullname: >-
-      Miyu 🦋Tokyo Vegan Girl｜みゆ
-    location: "Japan"
-    followers: 12107
-    engagement: 1016
-    commentsToLikes: 0.026354
-    id: ck0txuox7kifh0i19d2ja2pxe
-    verified: false
-    hashtags: "#greenmonday, #newnormal, #1day, #discovertokyo"
+    hashtags: "#halalinjapan, #veganfriendly, #halalwagyu, #halaltokyo"
   - username: "whyte_shiori"
     fullname: >-
       中島潮里 Shiori Nakajima
+    bio: >-
+      Vegan beauty salon & vegan cafe「whyte」 Hair stylist✂︎ サスティナブルアンバサダー🌍 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案します🌿 YouTube🔍潮里 #オーガニックコスメだけでメイク 考案者
     location: "Japan"
-    followers: 50702
-    engagement: 236
-    commentsToLikes: 0.005669
+    followers: 62819
+    engagement: 128
+    commentsToLikes: 0.001452
     id: ck15paft8wwc60i19jyal9jpm
     verified: false
-    hashtags: "#mimc, #comfortzone, #sweet, #cosmekitchen"
-  - username: "i_am__kei"
+    hashtags: "#organic, #protectoceans, #vegansalon, #bob"
+  - username: "yo_onityan"
     fullname: >-
-      kei
+      Shredder27
+    bio: >-
+      All SNS Yo onityan @ernieball @swiss_picks Vegan for food DM for lesson,session,work,
     location: "Japan"
-    followers: 27036
-    engagement: 228
-    commentsToLikes: 0.019726
-    id: ck5ck7iomwaqb0i11xg4t6d9k
+    followers: 39184
+    engagement: 306
+    commentsToLikes: 0.022750
+    id: ck55ky11r0cg10i11v5djmnbf
     verified: false
-    hashtags: "#tiktok, #workout, #myclean, #relaxing"
-  - username: "newniji"
+    hashtags: "#ernieball, #metalguy, #7string, #techdeath"
+  - username: "akicocoakicoco2"
     fullname: >-
-      にゅん✩
+      𝕒𝕜𝕚𝕔𝕠𝕔𝕠【笑顔になるごはん】
+    bio: >-
+      身体は食べるもので作られます #ベジモザイク弁当 考案 mod: @wp_deli_recipe @veganrecipes_vcook 認定シェフ amb: FoodieTable、FINC、LOCARI、moguna、オリひと、ヨムーノ、寺岡有機農場、かりん本舗… ☟クックパッド他
     location: "Japan"
-    followers: 12798
-    engagement: 549
-    commentsToLikes: 0.012344
-    id: ck0vzuwoab0oa0i190ls6rkto
+    followers: 36789
+    engagement: 306
+    commentsToLikes: 0.002082
+    id: ck6ugkvw43mim0j71tojklfxa
     verified: false
-    hashtags: "#wintermakeup, #pinkplants, #amethyst, #lgbtq"
-  - username: "michimadness"
+    hashtags: "#wp, #vegan, #locari, #pr"
+  - username: "vegan.kurumi.shirakawa"
     fullname: >-
-      MiChi。
+      くるみ
+    bio: >-
+      #ヴィーガン #くるみんのベジグルメ #vegan 🍨ヴィーガンアイスクリームブランド準備中 🌸小学生からベジタリアン→現在ヴィーガン 子供と動物と環境に優しい選択を。 🐷🐮🐔🐟🍯動物は食べません、着ません 👧🏻Girl's mom 🌏人生を変えた映画↓
     location: "Japan"
-    followers: 6964
-    engagement: 708
-    commentsToLikes: 0.075391
-    id: ckap6k59ag6t30i78vlpc5m36
+    followers: 93888
+    engagement: 108
+    commentsToLikes: 0.008565
+    id: ckaouww8p25yx0i78ky0w4jt1
     verified: false
-    hashtags: "#veganbakery, #begantreats, #bestdesign, #skate"
+    hashtags: "#vegan, #kyoto, #ecfalf, #becausethereisnoplanetb"
+  - username: "missatoooo"
+    fullname: >-
+      misato komatsubara
+    bio: >-
+      ⛸ Japanese Icedancer 小松原美里 🇯🇵 2 times National Champion 🔮 Sports. Fashion. Art. Vegan 📍MTL. 岡山 🗣 🇯🇵🇺🇸🇮🇹 🎪Sponsor #筑波記念病院
+    location: "Japan"
+    followers: 9584
+    engagement: 673
+    commentsToLikes: 0.017376
+    id: ck6udkka8lmir0j71o0x7grvq
+    verified: false
+    hashtags: "#icedance, #dance, #lumixgf10, #repost"
+  - username: "lina3336"
+    fullname: >-
+      未来リナ（Lina Mirai）
+    bio: >-
+      🇪🇸🇯🇵Spanish×Japanese 20's 📚My Book ☞ ＋LOVE 📝アメブロ ☞linahappy3 🎥YouTube☞未来リナ／Lina Mirai 🛒iHerb 10%OFFコード☞AEC5878 📩お仕事の依頼は下記ボタン“メール”まで 📚Vegan レシピBOOK↓
+    location: "Japan"
+    followers: 57180
+    engagement: 350
+    commentsToLikes: 0.008605
+    id: ck5hiffqyd8m40i11xotyhrqx
+    verified: false
+    hashtags: "#covid, #sendinglove, #secondhand, #outfit"
 ---

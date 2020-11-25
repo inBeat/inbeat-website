@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music TikTok Influencers In Malaysia In 2020
 description: >-
-  Find top music TikTok influencers in Malaysia in 2020. Most popular hashtags: #duet #losingmymind #lockdown #goingpro.
+  Find top music TikTok influencers in Malaysia in 2020. Most popular hashtags: #foryou #fyp #foryoupage #duet.
 platform: TikTok
+hits: 26
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 26 TikTok influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "nadiachang3030"
+  - username: "elaine_1019"
     fullname: >-
-      Nadia Chang_Official
+      Yee Leng Tan
+    bio: >-
+      🇲🇾 || Musical.ly page TSW/TTH Smile here Aight, love yall so much❤️
     location: "Malaysia"
-    followers: 166596
-    engagement: 1318
-    commentsToLikes: 0.045427
-    id: ck9eix8zkzmqo0j78qnrj445t
+    followers: 193100
+    engagement: 1543
+    commentsToLikes: 0.030751
+    id: ckbkqtz64l7py0j23kgtdmh4k
     verified: false
-    hashtags: "#dancelover, #simplesteps, #ratchagan, #happymothersday"
+    hashtags: "#makantime, #foryou, #tmbattle, #transition"
+  - username: "chinglook"
+    fullname: >-
+      陸玟靜
+    bio: >-
+      我是歌手 Singer，Musician，Producer，Song-writer
+    location: "Malaysia"
+    followers: 49200
+    engagement: 619
+    commentsToLikes: 0.033850
+    id: ckbkf2vvf65so0j23vqey5yfj
+    verified: false
+    hashtags: "#cmco, #stayathome, #cover, #stayhome"
+  - username: "nknantha"
+    fullname: >-
+      Nk NanTha
+    bio: >-
+      "live with passion, live musical.ly"
+    location: "Malaysia"
+    followers: 53100
+    engagement: 777
+    commentsToLikes: 0.025987
+    id: ckbkr2mfxll5s0j23h2sz6j2o
+    verified: false
+    hashtags: "#allaboutyou, #malaysianboy, #splitscreenchallenge, #alliwantforchristmas"
   - username: "officialwmm"
     fullname: >-
       warnermusicmy
+    bio: >-
+      Music is always the answer!
     location: "Malaysia"
-    followers: 210275
-    engagement: 421
-    commentsToLikes: 0.010402
+    followers: 252600
+    engagement: 661
+    commentsToLikes: 0.029245
     id: cka0kmy9jnbdt0i78sxei4d2b
     verified: true
-    hashtags: "#castleonthehill, #jasonderulo, #twentyonepilots, #stressedout"
-  - username: "gdaestrings"
+    hashtags: "#kpop, #v20bethefocusmy, #foryou, #fyp"
+  - username: "shabbyofficial"
     fullname: >-
-      Ziyad
+      Shabby De Cruz
+    bio: >-
+      ♥ Shabby.Official 🇲🇾 ♥ ♥ Musical.ly is my Love ♥ ♥ Duets are most welcomed ♥ ♥
     location: "Malaysia"
-    followers: 28713
-    engagement: 824
-    commentsToLikes: 0.037309
-    id: ck9rbz4p2rdja0j78cnhu4fnj
+    followers: 51500
+    engagement: 980
+    commentsToLikes: 0.011715
+    id: ckbqkl54c5o3v0j23r3ard2zk
     verified: false
-    hashtags: "#malaysia, #mco, #asiancheck, #fyp"
-  - username: "jatt_mafia786"
+    hashtags: "#malaysiamuser, #duet, #thalabathy, #tamil"
+  - username: "fadilrezor"
     fullname: >-
-      Jatt.com
+      Fadil Rezor
+    bio: >-
+      Spreading Smiles I See My Life In Terms Of Music 🎶 Thanks For 8K Followers 🥺
     location: "Malaysia"
-    followers: 93545
-    engagement: 975
-    commentsToLikes: 0.032586
-    id: ck9a32hyroswk0j787n35asbl
+    followers: 8223
+    engagement: 1214
+    commentsToLikes: 0.023976
+    id: ckd6wn1cvslf30j231nj6luw8
     verified: false
-    hashtags: "#operasi, #lockdown, #special, #finalsathome"
-  - username: "ranju02"
+    hashtags: "#chillwithtiktok, #iqiyistyle, #trending, #fyp"
+  - username: "chishikuzan88"
     fullname: >-
-      Ranjini Mani
+      🥀Chishikuzan🐈
+    bio: >-
+      ALL ABOUT ANIME🤹🏻‍♀️,FOOD🍰,RELAXING MUSIC🎹,follow me🥀 enjoy....
     location: "Malaysia"
-    followers: 13099
-    engagement: 610
-    commentsToLikes: 0.045530
-    id: ck8ncvpmlg7p20j78sfnjtdid
+    followers: 267500
+    engagement: 738
+    commentsToLikes: 0.009756
+    id: ck83wx81cmpj00j7854rnh28j
     verified: false
-    hashtags: "#meetmypet, #suchagoodsoul, #abandonedbabies, #esportsforall"
-  - username: "farrabebokhan"
+    hashtags: "#sadvideo, #shortvideo, #editvideo, #dumpling"
+  - username: "karthik_santiran"
     fullname: >-
-      farrabebokhan
+      KarthiK卐சந்திரன்
+    bio: >-
+      வாழ்க தமிழ் வழர்க எண் தாய்மொழியே.musical.ly
     location: "Malaysia"
-    followers: 29431
-    engagement: 745
-    commentsToLikes: 0.029484
-    id: ck83z9d84yv810j786taep891
+    followers: 12900
+    engagement: 495
+    commentsToLikes: 0.015292
+    id: ckbbm8scbafjj0j236mcxgoho
     verified: false
-    hashtags: "#laughathome, #familyathome, #viral, #freevideo"
-  - username: "labakerkhalid85"
+    hashtags: "#stayathome, #tranding, #foryou, #foryoupage"
+  - username: "lynbeannn"
     fullname: >-
-      Baker Khalid
+      lynbeannn
+    bio: >-
+      Musically account Official Tiktok Account : Elynleonggg
     location: "Malaysia"
-    followers: 3553
-    engagement: 200
-    commentsToLikes: 0.044769
-    id: ckamox2j6ay340i78eo72twks
-    verified: false
-    hashtags: "#wipeitdown, #tiktokqatar, #checkthedrip, #watches"
-  - username: "mgill00moga7"
+    followers: 264000
+    engagement: 1155
+    commentsToLikes: 0.003665
+    id: ckbl6r5jz4ifm0j237g2no6su
+    verified: true
+    hashtags: "#backtomusically, #tiktok, #malaysia, #tiktokxmalaysia"
+  - username: "lysspua_oe"
     fullname: >-
-      #GILL
+      Lyss Pua 水果妹
+    bio: >-
+      生活小知识 ❤️马来西亚 世界宣明会爱心大使 2017❤️
     location: "Malaysia"
-    followers: 8895
-    engagement: 1217
-    commentsToLikes: 0.103340
-    id: ckad72apv28800i78365tyee3
+    followers: 93800
+    engagement: 1301
+    commentsToLikes: 0.229814
+    id: ckbqeakcw030o0j23itnsgx3x
     verified: false
-    hashtags: "#idknever, #sharabi, #finalsathome, #punjab"
-  - username: "fovity_id"
-    fullname: >-
-      Hilary Sari
-    location: "Malaysia"
-    followers: 184195
-    engagement: 1041
-    commentsToLikes: 0.112100
-    id: ck8tn0lw5h8960j78t48nd38f
-    verified: false
-    hashtags: "#lockdown, #notforyou, #crush, #macaron"
-  - username: "imquiteshushy"
-    fullname: >-
-      Biith Siew
-    location: "Malaysia"
-    followers: 26667
-    engagement: 656
-    commentsToLikes: 0.086387
-    id: ck9r3uo6nrurn0j78bly0ozdk
-    verified: false
-    hashtags: "#chinesebanana, #pianofingers, #intheelevator, #foryoupage"
+    hashtags: "#tiktok, #tiktokmalaysia, #malaysia, #oe"
 ---

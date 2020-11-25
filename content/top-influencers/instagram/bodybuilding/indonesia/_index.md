@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Indonesia in 2020. Most popular hashtags: #bodybuilding #workout #selfie #motivation.
+  Find top bodybuilding Instagram influencers in Indonesia in 2020. Most popular hashtags: #bodybuilding #fitness #muscle #bodybuilder.
 platform: Instagram
+hits: 39
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 39 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "rotan.photo"
     fullname: >-
-      Photographer.
+      𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿
+    bio: >-
+      📸 Bodybuilding & Physique 📷 Indonesia & Malaysia. 🏠 Butterworth
     location: "Indonesia"
-    followers: 33943
-    engagement: 191
-    commentsToLikes: 0.000159
+    followers: 36028
+    engagement: 195
+    commentsToLikes: 0.000082
     id: ck6u7whpqo20h0j719cs23ocf
     verified: false
-    hashtags: "#outdoor, #stayathome, #prapon, #studentathlete"
-  - username: "luka.pasic"
+    hashtags: "#fitnessmodel, #workout, #sportisiindonesia, #binaragaindonesia"
+  - username: "_lisetkoenjer"
     fullname: >-
-      ➡L U K A   P A S I C ®
+      𝐋𝐈𝐒𝐄𝐓 𝐊𝐎𝐄𝐍𝐉𝐄𝐑
+    bio: >-
+      Owner of @bylisetkoenjer Fotograaf & conten creator, social media beheer Documenting memories through pictures📷
     location: "Indonesia"
-    followers: 8355
-    engagement: 791
-    commentsToLikes: 0.141618
-    id: ck55o5gtq7nw70i11zjgkmz8t
+    followers: 6453
+    engagement: 975
+    commentsToLikes: 0.074754
+    id: ck600rw7ie5ih0i14cbyxzrwt
     verified: false
-    hashtags: "#beach, #nikon, #behindthescenes, #bike"
-  - username: "jonbyjonsam"
+    hashtags: "#bhfyp, #motivation, #food, #workout"
+  - username: "fenfitlicious"
     fullname: >-
-      Jonsam
+      🇲🇨 FEN FEN LIU 🇮🇩
+    bio: >-
+      FIT + STRONG = SEXY Founder : @fitbymeal @ayofitindonesia Female Transformation Advisor Healthy LifeStyle & Fitness Influencer
     location: "Indonesia"
-    followers: 15987
-    engagement: 887
-    commentsToLikes: 0.031285
-    id: ck0w6auwr7ous0i19pqq0ci1c
+    followers: 56250
+    engagement: 515
+    commentsToLikes: 0.009949
+    id: ck5zytas4ahr00i143qk465my
     verified: false
-    hashtags: "#traveling, #workout, #chestworkout, #menstyle"
-  - username: "demiraquel_"
+    hashtags: "#healthylifestyle, #bodybuilding, #femalefitness, #fitmom"
+  - username: "pinkmheni"
     fullname: >-
-      D E M I 🍑 Model | Influencer
+      Mheni Pink
+    bio: >-
+      @vectorlabsofficial & @maxsproteinindonesia sponsored athlete
     location: "Indonesia"
-    followers: 95015
-    engagement: 449
-    commentsToLikes: 0.023265
-    id: ck6u1negyms120j71leiwapr5
+    followers: 4194
+    engagement: 575
+    commentsToLikes: 0.099523
+    id: ck6u7wfp3o1mw0j71rl7ogvmd
     verified: false
-    hashtags: "#model, #paradisechallange, #quarentine, #wakenbake"
-  - username: "pavel_tl"
+    hashtags: "#jualsuplemen, #gymjakarta, #kekar, #binaraga"
+  - username: "n_oella"
     fullname: >-
-      👑 PAVEL 👑
+      Natalia
+    bio: >-
+      Mam tatuaże 💉 Psia mama Mentosa 🐶
     location: "Indonesia"
-    followers: 63067
-    engagement: 495
-    commentsToLikes: 0.028881
-    id: ck0u9stviajqr0i19editvkyy
+    followers: 6753
+    engagement: 507
+    commentsToLikes: 0.036925
+    id: ck8t8tmallrpu0j78eop18z2e
     verified: false
-    hashtags: "#photoshooting, #photo, #asia, #heaven"
-  - username: "nicolasiong"
+    hashtags: "#tatua, #dailystreetlooks, #outfitidea, #domaradzkateam"
+  - username: "bodybuilder.id"
     fullname: >-
-      Nicolas Iong Lee
+      Bodybuilder.id
+    bio: >-
+      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞 ⏬watch & subscribe our channel
     location: "Indonesia"
-    followers: 684326
-    engagement: 284
-    commentsToLikes: 0.007462
-    id: ck13aaerrpf6d0i1928vu3lf5
+    followers: 29195
+    engagement: 160
+    commentsToLikes: 0.010838
+    id: ck5pvuhiajp310i11wdji6qsm
     verified: false
-    hashtags: "#hustle, #motivation, #everysingleday, #createyourlife"
-  - username: "risyadsalman"
+    hashtags: "#leanmuscle, #binaragaindonesia, #binaraga, #bodyfit"
+  - username: "igedz_executioner"
     fullname: >-
-      Risyad
+      Igede Dharma Susila
+    bio: >-
+      💪Indonesian heavyweight bodybuilder champion 🇲🇨🥇 💪@igedz_xcn_apparel 💪PABBSI JATIM 📋184cm, 130kg
     location: "Indonesia"
-    followers: 17372
-    engagement: 299
-    commentsToLikes: 0.023996
-    id: ck13a91c1p83t0i19upvm8gbk
+    followers: 80308
+    engagement: 391
+    commentsToLikes: 0.026013
+    id: ck5hks4sviype0i1119bzz709
     verified: false
-    hashtags: "#2018, #nature, #talent, #healthyfood"
-  - username: "ejoy5059"
+    hashtags: "#bodybuilder, #bodybuilding, #ternate, #sikat"
+  - username: "efaldy"
     fullname: >-
-      ذولكيفلي بين زاينال ابيدين
+      Faldy Efadua
+    bio: >-
+      Wellness seeker 🇮🇩 ✉️ : efaldy.efadua@gmail.com
     location: "Indonesia"
-    followers: 26148
-    engagement: 237
-    commentsToLikes: 0.050498
-    id: ck5q81ew540zf0i112w0e1jkw
+    followers: 62009
+    engagement: 169
+    commentsToLikes: 0.019428
+    id: ck13bpqp9wkwn0i1976lnfus4
     verified: false
-    hashtags: "#happy, #progress, #toptags, #igdayly"
-  - username: "sopizzz_"
+    hashtags: "#underarmourid, #fitness, #sport, #healthy"
+  - username: "tonygoat_taveras"
     fullname: >-
-      ᮞᮧᮕᮤᮃᮂ | S |
+      IFBB Classic Physique Pro 🌐
+    bio: >-
+      The Goat 🐐 Universe CP Overall ⭐️🏆⭐️ Savannah Pro🥈 New York Pro🥉 @oldschoollabs @chulastylz_ {GOAT10} Managing Partner Linear Roofing 👷🏽‍♂️
     location: "Indonesia"
-    followers: 2903
-    engagement: 3986
-    commentsToLikes: 0.020337
-    id: ckaoyox0iifn30i78rkl36bvg
+    followers: 108509
+    engagement: 317
+    commentsToLikes: 0.033234
+    id: ck5bu8r6rhcms0i111dr31xi9
     verified: false
-    hashtags: "#selfie, #tutorialhijab, #monday, #happyfriday"
-  - username: "marcellalu7"
+    hashtags: "#classicphysique, #ifbbproleague, #bodybuilding, #thegoat"
+  - username: "foodie_muscle_man"
     fullname: >-
-      E s t . 2 0 0 2 👅🤘🏻
+      foodie_muscle_man
+    bio: >-
+      Food blogger 🍖🍗🥩🍤🍔🌮🌯 Id of my professional page is @ajimohamedameer. Dm for collaboration
     location: "Indonesia"
-    followers: 4278
-    engagement: 2514
-    commentsToLikes: 0.127058
-    id: ckaozdbbbld410i78bk5ksi6r
+    followers: 41923
+    engagement: 1637
+    commentsToLikes: 0.012930
+    id: ckaove4hn47of0i7829pnef32
     verified: false
-    hashtags: "#workoutfromhome, #martialarts, #girlfights, #loveyourself"
+    hashtags: "#instafollow, #foodtales, #eventplanning, #teatime"
 ---

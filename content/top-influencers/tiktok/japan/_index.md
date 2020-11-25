@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In Japan In 2020
 description: >-
-  Find top TikTok influencers in Japan in 2020. Most popular hashtags: #duet #foryoupage # #bigbang.
+  Find top TikTok influencers in Japan in 2020. Most popular hashtags: #duet #tiktok #fyp.
 platform: TikTok
+hits: 1129
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 1129 TikTok influencers like this in Japan for you to connect with.
 profiles:
-  - username: "jungkook.0630"
-    fullname: >-
-      ♥️Jungkook♥️
-    location: "Japan"
-    followers: 83467
-    engagement: 2603
-    commentsToLikes: 0.046449
-    id: ck8za6jo20iwm0j787tp5msk6
-    verified: false
-    hashtags: "#iu, #donghae, #conversehigh, #jhope"
-  - username: "asurai01"
-    fullname: >-
-      Asu rai
-    location: "Japan"
-    followers: 164844
-    engagement: 2592
-    commentsToLikes: 0.070676
-    id: ck9fmehbrt4kj0j78gx47whgy
-    verified: false
-    hashtags: "#beautiful, #nepalipaan, #blooper, #nepalidialouge"
-  - username: "1992jin_"
-    fullname: >-
-      今日もお窓がピッカピカに🐹
-    location: "Japan"
-    followers: 5280
-    engagement: 1875
-    commentsToLikes: 0.070350
-    id: ck9n4ldl950nf0j78gvi2pcng
-    verified: false
-    hashtags: "#bts, #jin, #txt"
-  - username: "xohanz_rayee"
-    fullname: >-
-      Sohan Rai
-    location: "Japan"
-    followers: 7557
-    engagement: 1860
-    commentsToLikes: 0.073316
-    id: ck8roy1fjjuot0j78q54qd8dm
-    verified: false
-    hashtags: "#ekdevlimbu, #realme, #tears, #feeling"
-  - username: "noemiejouas"
-    fullname: >-
-      Noemie
-    location: "Japan"
-    followers: 6524
-    engagement: 2416
-    commentsToLikes: 0.046110
-    id: ck93433guqtua0j784p1hpglq
-    verified: false
-    hashtags: "#duet"
   - username: "hina_yshr"
     fullname: >-
       Hina Yoshihara
+    bio: >-
+      NowUnitedの日本代表🌏🇯🇵🎤💃🏻
     location: "Japan"
-    followers: 998833
-    engagement: 2568
-    commentsToLikes: 0.013438
+    followers: 1900000
+    engagement: 2299
+    commentsToLikes: 0.024560
     id: ck8hp2mzpxo830j7814n20d1o
     verified: false
-    hashtags: "#nowunited, #nowuniteddanadana, #tb, #youtube"
-  - username: "o_sombrio"
+    hashtags: "#dynamite, #nowunitedr3habonelove"
+  - username: "shuzo__3120"
     fullname: >-
-      @O_sombrio
+      SHUZO
+    bio: >-
+      2001 3.12（19） STARRAY PRODUCTION Please follow my instagram インスタもお願いします！ 大平修蔵 ↓
     location: "Japan"
-    followers: 23633
-    engagement: 1565
-    commentsToLikes: 0.130432
-    id: ck8tslnbcrd030j78qvq3bwtr
+    followers: 2700000
+    engagement: 2664
+    commentsToLikes: 0.016157
+    id: ckan56ljodhp50i78nj617fvj
     verified: false
-    hashtags: ""
-  - username: "dylan14xd"
-    fullname: >-
-      Dylan Torres
-    location: "Japan"
-    followers: 17837
-    engagement: 2723
-    commentsToLikes: 0.054867
-    id: ck8sf0r21m5bk0j78g99lq49w
-    verified: false
-    hashtags: ""
-  - username: "therampage_official"
-    fullname: >-
-      THE RAMPAGE OFFICIAL
-    location: "Japan"
-    followers: 270644
-    engagement: 1609
-    commentsToLikes: 0.033457
-    id: ck9euko7ce7w60j78toqk5j7a
-    verified: true
-    hashtags: "#dasauce, #dirtydisco, #majinboo, #emoji"
+    hashtags: "#hiroshifujiwara, #iloveyou, #diorb27, #dior"
   - username: "straykids_japan"
     fullname: >-
       straykids_japan
+    bio: >-
+      Stray Kids Japan Official TikTok
     location: "Japan"
-    followers: 747598
-    engagement: 2373
-    commentsToLikes: 0.011200
+    followers: 2600000
+    engagement: 2497
+    commentsToLikes: 0.019010
     id: ck9eq95y8w5nd0j78gji37uoe
     verified: true
-    hashtags: "#happyinday, #straykidstiktok, #hyunjin, #happyhyunjinday"
+    hashtags: "#straykids, #seungmin, #han, #hyunjin"
+  - username: "jungkook.0630"
+    fullname: >-
+      ♥️Jungkook♥️
+    bio: >-
+      
+    location: "Japan"
+    followers: 81200
+    engagement: 2229
+    commentsToLikes: 0.056045
+    id: ck8za6jo20iwm0j787tp5msk6
+    verified: false
+    hashtags: "#bts, #rm, #jungkook, #jin"
+  - username: "y.u.a.n._.k.nn_konichan_"
+    fullname: >-
+      𝚈 𝚞 𝚊 𝚗 . 💍🕊ゆあ子
+    bio: >-
+      𝚏𝚊𝚗 𝚖𝚊𝚛𝚔💍🕊 相方ｱｵｲ親友ｾﾅ旦那ﾗｽﾞ
+    location: "Japan"
+    followers: 2709
+    engagement: 1932
+    commentsToLikes: 0.212586
+    id: ckb91uf7ehpci0j23cwrig8if
+    verified: false
+    hashtags: "#1031, #56, #tiktok, #87"
+  - username: "lemondrops12345"
+    fullname: >-
+      Loading…
+    bio: >-
+      Go follow meh on discord bc I need friends T^T toby.Pizza.nut🥜🍕👁👄👁#0393
+    location: "Japan"
+    followers: 35900
+    engagement: 1871
+    commentsToLikes: 0.074591
+    id: ckdshvi7hmcxn0j23q3d1qusv
+    verified: false
+    hashtags: "#foryou, #drawing, #fyp, #duet"
+  - username: "slime.p8"
+    fullname: >-
+      ぱいん
+    bio: >-
+      ︎︎︎︎︎︎☑︎ 🍍🌞
+    location: "Japan"
+    followers: 3422
+    engagement: 1672
+    commentsToLikes: 0.083673
+    id: ckbbg7fkz4tob0j237a1tk6hu
+    verified: false
+    hashtags: "#clay"
+  - username: "ohha737800ado"
+    fullname: >-
+      (＾ω＾)ﾆｺﾆｺ貨物
+    bio: >-
+      主に鉄道・飛行機動画投稿 名前はTWICEとトワイライトとらいとにんぐかけてます
+    location: "Japan"
+    followers: 2054
+    engagement: 1659
+    commentsToLikes: 0.070438
+    id: ckbkm8ea5foru0j237rald6p5
+    verified: false
+    hashtags: "#discoverwest, #twilightexpress, #sl, #jr"
+  - username: "imrikimaru"
+    fullname: >-
+      Riki Maru
+    bio: >-
+      RKMR Im a choreographer/Singer/ Looking for ☮️🌎❤️
+    location: "Japan"
+    followers: 751300
+    engagement: 1881
+    commentsToLikes: 0.027091
+    id: ckcejo9vksmzu0j238cnqpazy
+    verified: true
+    hashtags: "#duet, #tiktok, #criminalchallenge, #wapchallenge"
+  - username: "twice_tiktok_officialjp"
+    fullname: >-
+      TWICE JAPAN OFFICIAL
+    bio: >-
+      
+    location: "Japan"
+    followers: 1400000
+    engagement: 1805
+    commentsToLikes: 0.019532
+    id: ckc3e6jdjzm990j23cjr84i19
+    verified: true
+    hashtags: "#twice, #better, #jihyo, #sana"
 cities:
   - name: Tokyo
     link: /tiktok/japan/tokyo

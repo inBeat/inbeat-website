@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top models Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbanemodel #longhair #highponytail #makeup.
+  Find top models Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #model #brisbanephotographer.
 platform: Instagram
+hits: 71
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 71 Instagram influencers like this in Brisbane, Australia for you to work with.
 profiles:
-  - username: "modelallyj"
+  - username: "masphoto.official"
     fullname: >-
-      Ally J Wilkinson
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM or info@masphoto.com.au https://facebook.com/masphoto.official
     location: "Australia"
-    followers: 30891
-    engagement: 317
-    commentsToLikes: 0.015130
-    id: ck8tcb8iiyx740j78joz6u85y
+    followers: 5106
+    engagement: 553
+    commentsToLikes: 0.033931
+    id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: "#naturalmakeup, #sydneytrip, #flexible, #whitedress"
-  - username: "anthonysemerad"
-    fullname: >-
-      ANTHONY SEMERAD (TWIN 2)
-    location: "Australia"
-    followers: 168649
-    engagement: 317
-    commentsToLikes: 0.009255
-    id: ck5cj2r1ptv0g0i11c7336mp8
-    verified: true
-    hashtags: "#aiveeleague, #health, #travelphotography, #love"
-  - username: "miagracemccallum"
-    fullname: >-
-      Mia Grace ✨
-    location: "Australia"
-    followers: 5655
-    engagement: 742
-    commentsToLikes: 0.276234
-    id: ckaoty5xpy11e0i78eia54nry
-    verified: false
-    hashtags: "#blackangel, #famousfootwear, #anniespresets, #onpoint"
-  - username: "avaarachnie"
-    fullname: >-
-      Arachnie 🕷
-    location: "Australia"
-    followers: 142933
-    engagement: 676
-    commentsToLikes: 0.014475
-    id: ck5hduac8peto0i117qex67cb
-    verified: false
-    hashtags: "#killstar, #bmtartanravenclawcuffedpants"
+    hashtags: "#fit, #brisbaneboudoirphotographer, #fitnessgraphy, #vibes"
   - username: "hannahhayessisson"
     fullname: >-
       Hannah Hayes Sisson
+    bio: >-
+      ☆ Actress | Model 📍Brisbane, Australia
     location: "Australia"
-    followers: 3357
-    engagement: 1806
-    commentsToLikes: 0.073857
+    followers: 3569
+    engagement: 1555
+    commentsToLikes: 0.066271
     id: ck8sxek7lh41z0j78jq7dnx1f
+    verified: false
+    hashtags: "#noideawhy, #4outof4"
+  - username: "avaarachnie"
+    fullname: >-
+      Arachnie 🕷
+    bio: >-
+      You gotta be one of the good guys, son. ‘Cause there’s way too many of the bad. 🕷Big nerd 🕷Alternative model 🕷Brisbane Australia
+    location: "Australia"
+    followers: 148737
+    engagement: 462
+    commentsToLikes: 0.013145
+    id: ck5hduac8peto0i117qex67cb
     verified: false
     hashtags: ""
   - username: "christina_maimone"
     fullname: >-
       Christina Maimone
+    bio: >-
+      📷 Freelance Model 📍 Brisbane & Gold Coast | 🇮🇹🇮🇲 Ethnic diversity adds richness to a society. You’re welcome.
     location: "Australia"
-    followers: 6904
-    engagement: 879
-    commentsToLikes: 0.025467
+    followers: 7018
+    engagement: 673
+    commentsToLikes: 0.031341
     id: ck55klkcjzli60i11ldukuzwq
     verified: false
-    hashtags: "#tenniscollection, #bodypositive, #jointhemovement, #goodsquad"
+    hashtags: "#goodsquad, #2020tour, #girlgang"
   - username: "amospearce"
     fullname: >-
       AMOS ✨ Catahoula ✘ Beagle
+    bio: >-
+      #rescuedog now living like a King My mum is my best friend Pawfessional model in Brisbane
     location: "Australia"
-    followers: 19784
-    engagement: 508
-    commentsToLikes: 0.118410
+    followers: 20908
+    engagement: 900
+    commentsToLikes: 0.064908
     id: ck15s7bnobl6t0i19kw4tgv66
     verified: false
-    hashtags: "#yeahidid, #happydogs, #dogsofbrisbane, #firstaid"
-  - username: "lorimckenzie"
-    fullname: >-
-      L O R I  M C K E N Z I E
-    location: "Australia"
-    followers: 40150
-    engagement: 55
-    commentsToLikes: 0.022245
-    id: ck5hqu7gftqb60i112wiy13os
-    verified: false
-    hashtags: ""
+    hashtags: "#boopmynose, #puppydogeyes, #dogtreats, #dogmom"
   - username: "julietaroldann"
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
+    bio: >-
+      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
     location: "Australia"
-    followers: 79181
-    engagement: 134
-    commentsToLikes: 0.041640
+    followers: 76285
+    engagement: 117
+    commentsToLikes: 0.048699
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
-  - username: "masphoto.official"
+    hashtags: "#cavoodleaustralia, #doodlesoftheworld, #cavoodlepuppy, #cavoodle"
+  - username: "rprtalent"
     fullname: >-
-      Masterpiece Art Studio 📸🌴👙
+      RPR Talent Management
+    bio: >-
+      |▪️Film, TV & Commercial Talent Agency - AUS 🇦🇺🎬 |▪️Proud sponsors @vidcon @castingguildaust |▪️Owned and operated by @roslynrpr |▪️Apply ⬇️
     location: "Australia"
-    followers: 5281
-    engagement: 545
-    commentsToLikes: 0.089941
-    id: ck6u339dyvfx90j71bhrei5ev
+    followers: 24842
+    engagement: 69
+    commentsToLikes: 0.033999
+    id: ck13cxxke2pjp0i19t3i1xda2
     verified: false
-    hashtags: "#competition, #canon, #kicking, #kidmodels"
+    hashtags: "#model, #audition, #brisbane, #littlemissy"
+  - username: "melgreen_x"
+    fullname: >-
+      BIKINI PRO 👙 PEScience Athlete
+    bio: >-
+      👠Posing Coach @melgreenfit 👑Bikini PRO 🏆1st ICN, INBA, ANB x11 🏆3rd WBFF @pescience Athlete - Mel15 @fitcoveraustralia - MELG ✈️34 countries 📧Collabs
+    location: "Australia"
+    followers: 49314
+    engagement: 86
+    commentsToLikes: 0.148731
+    id: ck6tykp8j4at90j71h28e8yqi
+    verified: false
+    hashtags: "#pescienceathlete, #bikinipro, #fitspo, #pescience"
+  - username: "jayschippers"
+    fullname: >-
+      Jay Schippers
+    bio: >-
+      BMX racer for TeamNL🇳🇱, #42 📍Bergeijk, The Netherlands Creative Direction / Film / Photo My YouTube channel ⬇️
+    location: "Australia"
+    followers: 10377
+    engagement: 918
+    commentsToLikes: 0.004055
+    id: ck5zpgs8hsmx40i14z73xe63o
+    verified: false
+    hashtags: "#life, #bermaplaatwerk, #lommerstuinbouwmachines, #duisenburgh"
+  - username: "jade.syrett"
+    fullname: >-
+      JADE
+    bio: >-
+      Royalle Models @royallemodelling (Sydney) Brisbane / Sunshine Coast/ Gold Coast 🇦🇺 Int. Published 🌏 💋MUA @jade.s.makeupartistry 👙@chixit.swim MODEL
+    location: "Australia"
+    followers: 63152
+    engagement: 401
+    commentsToLikes: 0.070596
+    id: ck13a1y82o8060i19gci5msnb
+    verified: false
+    hashtags: "#city, #influencer, #beach, #studio"
 ---

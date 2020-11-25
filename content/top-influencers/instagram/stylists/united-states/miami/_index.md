@@ -1,107 +1,130 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Miami In 2020
 description: >-
-  Find top stylists Instagram influencers in Miami in 2020. Most popular hashtags: #stylist #editorial #fitness #datenight.
+  Find top stylists Instagram influencers in Miami in 2020. Most popular hashtags: #love #hiphop #miami #stylist.
 platform: Instagram
+hits: 134
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 134 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "xarieller"
+  - username: "theoakcliffprincess"
     fullname: >-
-      Arielle
+      MURRSMUSIC
+    bio: >-
+      Artist 🎙 Check out my new Single
     location: "United States"
-    followers: 26678
-    engagement: 362
-    commentsToLikes: 0.036222
-    id: ckapcm9ut4c160i78zzk5mv64
+    followers: 3427
+    engagement: 1256
+    commentsToLikes: 0.091116
+    id: ckap6ulwuhf320i7859jvlr7m
     verified: false
-    hashtags: "#earthday, #wellness, #miamiphotographer, #miamimakeupartist"
-  - username: "karenhuggins_blog"
+    hashtags: "#sing, #rapper, #colombia, #hiphop"
+  - username: "frostingandfettuccine"
     fullname: >-
-      Karen Huggins -Fashion Blogger
+      Sam Adler | Food Styling
+    bio: >-
+      Teaching food photographers how to find their unique style + creative superpowers to make money online 💫 Saveur blog award winner 2018 Baking blog:
     location: "United States"
-    followers: 112717
-    engagement: 102
-    commentsToLikes: 0.352061
-    id: ck55jzeo4y4gg0i111lu1niru
+    followers: 37296
+    engagement: 416
+    commentsToLikes: 0.087504
+    id: ck5ztxaui1agd0i14h130niy9
     verified: false
-    hashtags: "#casualoutfits, #newyorkblogger, #puppylove, #outfitinspo"
+    hashtags: "#cookiesofinstagram, #southfloridaphotographer, #buzzfeedfood, #thebakefeed"
+  - username: "liandrasalles"
+    fullname: >-
+      LIANDRA SALLES
+    bio: >-
+      ▪️Stay curious|Stop labelling|Support women▪️ @skep360 Co-founder - Fashion Director/Stylist 📍Miami
+    location: "United States"
+    followers: 17050
+    engagement: 114
+    commentsToLikes: 0.078496
+    id: ck55kzrhw0g6m0i11fl4etdc4
+    verified: false
+    hashtags: "#behindthescenes, #bts, #comingsoon, #countdown"
+  - username: "vibrantandpure"
+    fullname: >-
+      Adeline Waugh
+    bio: >-
+      ⁣⁣Author of 'Vibrant & Pure'⠀⠀⠀ Food Stylist + Photographer⠀⠀⠀ Miami, FL 🔅 My cookbook is now available!👇🏼⠀
+    location: "United States"
+    followers: 86746
+    engagement: 80
+    commentsToLikes: 0.031667
+    id: ck6tpjvhuka490j71edww6757
+    verified: true
+    hashtags: "#pureleafpartner, #vibrantandpurehome, #florapartner, #sponsored"
   - username: "_hairbyritz"
     fullname: >-
       H a i r B y R I T Z 💇🏾‍♀️🇭🇹
+    bio: >-
+      ☥G o d 🙏🏾Psalm 46:5 ♡ 𝐅𝐚𝐦𝐢𝐥𝐲 𝐩𝐚𝐠𝐞: @theolibrisfamily •MIAMI Stylist •(305)833-9911 TEXT ONLY •Appointments ONLY •Deposit🚫Non Refundable🚫
     location: "United States"
     followers: 74711
     engagement: 600
     commentsToLikes: 0.008118
     id: ck13am1q4r1ck0i19r7perq4u
     verified: false
-    hashtags: "#theolibrisfamily, #youtube, #claimit, #mukbang"
+    hashtags: "#naturalhairgoals, #curlycommunity, #naturalhairtips, #hairbyritz"
   - username: "stylesbyhips"
     fullname: >-
       💜The Purple Head Stylist💜
+    bio: >-
+      Miami Stylist (786) 859-4259 (Text) 🚫No Kids/No Extra People Read The Highlight Important Info. (July Booking)
     location: "United States"
     followers: 39616
     engagement: 76
     commentsToLikes: 0.038816
     id: ck0vzlbnw9nw60i191t6qytqj
     verified: false
-    hashtags: "#longsmallboxbraids, #senegalesetwists, #stitchfeedinbraids, #datenight"
-  - username: "aranalac"
+    hashtags: "#clientselfie, #healthyhairjourney, #protectivehairstyles, #respectmyhair"
+  - username: "itscidnee"
     fullname: >-
-      • LAURA ARANA CASTILLO •
+      Cidnee G.
+    bio: >-
+      I turn creative ideas into inspiring visuals. 5feet 10inches cidneegray@gmail.com South Florida 🌴
     location: "United States"
-    followers: 15467
-    engagement: 355
-    commentsToLikes: 0.101949
-    id: ck5q9bu30abot0i11twq9s2q3
+    followers: 7974
+    engagement: 728
+    commentsToLikes: 0.118559
+    id: ck6tsn9c15q990j71fmljjsnw
     verified: false
-    hashtags: "#longhair, #portraiture, #foodstagram, #engagement"
-  - username: "missrenata"
+    hashtags: "#beautifulwomen, #poschemodels, #coffeevideo, #fashionweek"
+  - username: "achicmusic"
     fullname: >-
-      RENATA BRESCIANI
+      A.Chic (aye-sheek)
+    bio: >-
+      CHICQUITA LOADING 🗡 I create dope shit and mind my business... Artist ♦️Songwriter♦️Creative Director CoCo Complex the EP everywhere OUT NOW!!👇🏾
     location: "United States"
-    followers: 21659
-    engagement: 274
-    commentsToLikes: 0.461597
-    id: ck138iua6gfge0i193rhwcjht
+    followers: 8167
+    engagement: 520
+    commentsToLikes: 0.187869
+    id: ckaotsiqgxb800i78xeatvwh9
     verified: false
-    hashtags: "#datenight, #latinablogger, #spreadlove, #nyctalent"
-  - username: "_xaboveaveragex_"
+    hashtags: "#hiphop, #tidal, #honeygold, #chic"
+  - username: "justinlynnstyling"
     fullname: >-
-      𝔏𝔢𝔦𝔞
+      Justin Lynn
+    bio: >-
+      Fashion Consultant + Stylist LA / NY / Miami
     location: "United States"
-    followers: 7933
-    engagement: 953
-    commentsToLikes: 0.042270
-    id: ck8taq6zjsnbd0j78ap336h0b
+    followers: 15496
+    engagement: 90
+    commentsToLikes: 0.045300
+    id: ck8t0mgxsskc30j78agin7n2h
     verified: false
-    hashtags: "#lilbaby, #post, #miamihair, #arroganttae"
-  - username: "soon_magazine_"
+    hashtags: "#justinlynnstyling, #custom, #setlife"
+  - username: "thebossmannmedia"
     fullname: >-
-      SOON Magazine
+      Johnny Elizalde
+    bio: >-
+      Award Winning Editor-In-Chief : The BossMann Magazine @thebossmannmagazine | Artist Manager | Venture Coinist | Film production | Photography
     location: "United States"
-    followers: 32870
-    engagement: 289
-    commentsToLikes: 0.011263
-    id: ck5zrrwgtx5hx0i14wzdvftu3
+    followers: 6474
+    engagement: 930
+    commentsToLikes: 0.010283
+    id: ck15u9w0ym4z50i1964go9iod
     verified: false
-    hashtags: "#womenmodels, #forest, #style, #douarnenez"
-  - username: "raw_melanin"
-    fullname: >-
-      Raw Melanin ™
-    location: "United States"
-    followers: 77884
-    engagement: 226
-    commentsToLikes: 0.007870
-    id: ck602izj9hhq50i14mqm47gf4
-    verified: false
-    hashtags: "#highfashion, #editorial, #floridamodels, #crwn"
-  - username: "biancagabay"
-    fullname: >-
-      Bianca • Wardrobe stylist
-    location: "United States"
-    followers: 16902
-    engagement: 154
-    commentsToLikes: 0.090263
-    id: ck55ptcl5bc410i11wdsgp9wk
-    verified: false
-    hashtags: "#nycblogger, #90saesthetic, #bikeride, #veganrecipes"
+    hashtags: "#fashionblogger, #family, #blessed, #followyourdreams"
 ---

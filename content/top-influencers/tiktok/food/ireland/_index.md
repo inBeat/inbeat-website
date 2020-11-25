@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Ireland In 2020
 description: >-
-  Find top food TikTok influencers in Ireland in 2020. Most popular hashtags: #food #tiktok #coronavirus #singing.
+  Find top food TikTok influencers in Ireland in 2020. Most popular hashtags: #fyp #food #foodie #duet.
 platform: TikTok
+hits: 41
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 41 TikTok influencers like this in Ireland for you to collaborate.
 profiles:
-  - username: "naturaltestosterone"
+  - username: "thefitnessfoodie_"
     fullname: >-
-      Aleks
+      The Fitness Foodie
+    bio: >-
+      My Instagram - The_FitnessFoodie_ 🍔 Food Recipes 🇮🇪 Personal Trainer
     location: "Ireland"
-    followers: 149000
-    engagement: 420
-    commentsToLikes: 0.039175
-    id: ck8qq4s4s6ex90j78n9obdujz
+    followers: 105900
+    engagement: 514
+    commentsToLikes: 0.025382
+    id: cka0pi1r88d7o0i78n60koil1
     verified: false
-    hashtags: "#nofap, #healthy, #vegan, #erection"
-  - username: "fobme"
+    hashtags: "#healthyrecipes, #foodie, #healrhyrecipes, #irish"
+  - username: "foxy.wanderer"
     fullname: >-
-      juice
+      Victoria 
+    bio: >-
+      𝐋𝐞𝐭’𝐬 𝐛𝐞 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 𝐨𝐧 𝐈𝐆👆 Thank you for 58.3k 🧡 Foodie 🍕
     location: "Ireland"
-    followers: 7221
-    engagement: 1699
-    commentsToLikes: 0.012855
-    id: ck9ke970fxubp0j78qh5oxdw6
+    followers: 58400
+    engagement: 513
+    commentsToLikes: 0.021074
+    id: ckc7zofr81dlb0j23wu6n4tl9
     verified: false
-    hashtags: "#stayathome, #art, #foryou, #painting"
-  - username: "halfpintdrag"
+    hashtags: "#amongusvideo, #foodie, #lockdown, #amongus"
+  - username: "princethedobe"
     fullname: >-
-      halfpintdrag
+      Prince the dobie
+    bio: >-
+      IKC Euro Dobe 🇧🇦|🇮🇪 Goals: IGP1, BH Work: Guarding, PPD Show: 1xBOS,3xBIG
     location: "Ireland"
-    followers: 5609
-    engagement: 1528
-    commentsToLikes: 0.082214
-    id: cka0y13aw9gmg0i78nujf7xq9
+    followers: 78400
+    engagement: 1986
+    commentsToLikes: 0.076559
+    id: ckaviewijqmca0j23byp8z8lt
     verified: false
-    hashtags: "#gothgf, #theworst, #londonlook, #tranform"
-  - username: "brandoncaulfield"
+    hashtags: "#4u, #stack, #dog, #funny"
+  - username: "gibmyster"
     fullname: >-
-      CEO of being 6ft 6”
+      GIBMYSTER
+    bio: >-
+      Follow for good luck🍀 Subscribe to my youtube😁 11K Followers?🙏 Irish🇮🇪 19
     location: "Ireland"
-    followers: 82921
-    engagement: 2289
-    commentsToLikes: 0.024412
-    id: cka0g4bxt2laz0i787ditjjo4
+    followers: 10500
+    engagement: 1448
+    commentsToLikes: 0.077009
+    id: ckcj5rh1f5vio0j23jpwezt1v
     verified: false
-    hashtags: "#usaforyoupage, #simoncowell, #irishmammy, #translatetime"
-  - username: "tyourellk"
+    hashtags: "#lljw, #llj, #tiktok, #relatable"
+  - username: "cookiemonsters.kid"
     fullname: >-
-      KTY 
+      Jordan Brown
+    bio: >-
+      Depressed and stressed Jay 21🏳️‍🌈 Please try get tiktok to Unban my lives 🥰
     location: "Ireland"
-    followers: 7789
-    engagement: 1748
-    commentsToLikes: 0.033463
-    id: ck87u09xs4i3v0j78w9j6vtyx
+    followers: 75500
+    engagement: 2128
+    commentsToLikes: 0.022298
+    id: ck9fpaluu6eda0j78gsk9rler
     verified: false
-    hashtags: "#messing, #scam, #dontjudge, #covid19"
-  - username: "dr.triggerd"
+    hashtags: "#foryou, #xybca, #genderbend, #fred"
+  - username: "thelifeofdog"
     fullname: >-
-      always triggered
+      The life of dogs
+    bio: >-
+      🐶Your one stop for all things dogs Submit your clip Use #thelifeofdog or tag me
     location: "Ireland"
-    followers: 89118
-    engagement: 812
-    commentsToLikes: 0.055562
-    id: ck9c01n80o04x0j78akp3pqtr
+    followers: 33000
+    engagement: 1337
+    commentsToLikes: 0.018742
+    id: ckbfi3u29dumk0j23tkgpjyvr
     verified: false
-    hashtags: "#foodporn, #savetheplanet, #globalwarming, #there"
-  - username: "xxiice"
+    hashtags: "#food, #baby, #dog, #doggie"
+  - username: "2daywearemaking"
     fullname: >-
-      XXI ICE ICE CREAM 
+      Today We Are Making
+    bio: >-
+      A Dad & Daughter cooking team based in Dublin, Ireland Merch 👇👇
     location: "Ireland"
-    followers: 457131
-    engagement: 1934
-    commentsToLikes: 0.010633
-    id: ck8torgednnuf0j788d0ioksd
+    followers: 16300
+    engagement: 1046
+    commentsToLikes: 0.027693
+    id: cka0ppii999uw0i78yuwlyamq
     verified: false
-    hashtags: "#ireland, #boompuppy, #viral, #food"
-  - username: "kaelanmee_"
+    hashtags: "#fyp, #foryoupage, #schoolbus, #foodtruck"
+  - username: "cristinatirziman"
     fullname: >-
-      kaelanmee
+      Cristina Tirziman
+    bio: >-
+      Baker/ Cake designer 23!
     location: "Ireland"
-    followers: 11428
-    engagement: 1488
-    commentsToLikes: 0.023468
-    id: ck9fp3rqs5lig0j78p6cqel75
+    followers: 2069
+    engagement: 714
+    commentsToLikes: 0.033225
+    id: ckbwg909a2fuw0j23vcb1x0jc
     verified: false
-    hashtags: "#joke, #toplad, #eboy, #yourstupid"
-  - username: "robertzujan"
+    hashtags: "#cakedecorator, #cakevideo, #baker, #chocolatelover"
+  - username: "abelutu"
     fullname: >-
-      Robert Zujan
+      Abel 💩
+    bio: >-
+      Just Memes 💯
     location: "Ireland"
-    followers: 25300
-    engagement: 1357
-    commentsToLikes: 0.020143
-    id: ck83z8310yjm60j78s9jkhiol
+    followers: 53900
+    engagement: 753
+    commentsToLikes: 0.027972
+    id: ckdb9rmne5pgs0j23wtqsfase
     verified: false
-    hashtags: "#mcdonalds, #irishcomedy, #gta5, #fortnite"
-  - username: "vinilobo_"
+    hashtags: "#charlidamelio, #fyp, #meme, #cute"
+  - username: "shanejkennedy"
     fullname: >-
-      Vinicius Lobo
+      shanejkennedy
+    bio: >-
+      IG - shanejkennedy Recovered Anorexic 🇮🇪
     location: "Ireland"
-    followers: 40212
-    engagement: 926
-    commentsToLikes: 0.023588
-    id: ck9fbgrnjfaka0j78226pujpj
+    followers: 50700
+    engagement: 1433
+    commentsToLikes: 0.025739
+    id: ckb9ug6j4t2g90j2398nkga3b
     verified: false
-    hashtags: "#fotos, #felizdiadasmaes, #airport, #model"
+    hashtags: "#culture, #fyp, #travelmememories, #tiktokfood"
 ---

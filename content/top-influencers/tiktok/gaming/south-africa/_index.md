@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming TikTok Influencers In South Africa In 2020
 description: >-
-  Find top gaming TikTok influencers in South Africa in 2020. Most popular hashtags: #gaming #southafrica #covid19 #lockdown.
+  Find top gaming TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #gaming #foryou #funny.
 platform: TikTok
+hits: 31
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 31 TikTok influencers like this in South Africa for you to connect with.
 profiles:
-  - username: "speakersandbass"
+  - username: "beukesmj"
     fullname: >-
-      bossbru
+      M.J. Beukes
+    bio: >-
+      South Africa🇿🇦 18 Love gaming and riding dirt bike
     location: "South Africa"
-    followers: 14969
-    engagement: 1485
-    commentsToLikes: 0.036700
-    id: cka0l2rm0p9w10i783h1f0fy0
+    followers: 8172
+    engagement: 2082
+    commentsToLikes: 0.034604
+    id: ckbbixjvo7dch0j2381ub297v
     verified: false
-    hashtags: "#backtoschool, #lockdown, #viral, #like"
-  - username: "sandycorn_101"
+    hashtags: "#havingfun, #fyp, #dirtbikesforlife, #dirtbike"
+  - username: "decxm8"
     fullname: >-
-      Sandy 🦄
+      D E C X M 8
+    bio: >-
+      Part of 8_gaming_Xbox GamerTag:D E C X M 8 Xbox player
     location: "South Africa"
-    followers: 45535
-    engagement: 1355
-    commentsToLikes: 0.058978
-    id: cka0s3owajr3x0i78k9cwj64w
+    followers: 8322
+    engagement: 770
+    commentsToLikes: 0.085527
+    id: ckbbkod7s903p0j231pkt8oug
     verified: false
-    hashtags: "#indianmakeup, #scientist, #kdramalover, #jbeauty"
-  - username: "tjklem"
-    fullname: >-
-      Tristan Klement
-    location: "South Africa"
-    followers: 8313
-    engagement: 727
-    commentsToLikes: 0.056696
-    id: cka0wi64s30pd0i781n4j599t
-    verified: false
-    hashtags: "#elonmusk, #tiktoksouthafrca, #education, #copingmechanism"
+    hashtags: "#r6siege, #rainbowsixsieg, #fyp, #rainbowsixmeme"
   - username: "jacques.sa"
     fullname: >-
       JacquesSA
+    bio: >-
+      Skits, art & gaming! Join die Moegoes op Discord https://discord.gg/VjM
     location: "South Africa"
-    followers: 16102
-    engagement: 1454
-    commentsToLikes: 0.040074
+    followers: 39000
+    engagement: 1224
+    commentsToLikes: 0.020260
     id: ck9f41gynkbdk0j783ddmlbt5
     verified: false
-    hashtags: "#filter, #makeyourownface, #liveparty, #boopboopboop"
-  - username: "carelduplessis6"
+    hashtags: "#onlyinsa, #duet, #hilerious, #afrikaans"
+  - username: "jeanmyburgh"
     fullname: >-
-      Carel du Plessis
+      Jean Myburgh
+    bio: >-
+      5 time unofficial world records holder✌😂 I try to be funny 😂 Ceo of India 😂
     location: "South Africa"
-    followers: 21223
-    engagement: 1359
-    commentsToLikes: 0.040784
-    id: ckaci8owi2ep00i783vhgv7v2
-    verified: false
-    hashtags: "#8700v, #quarantine, #eggchallenge, #hunter"
-  - username: "yusufabdoola_17"
+    followers: 234600
+    engagement: 1410
+    commentsToLikes: 0.036030
+    id: ckbf6algcvqi30j237hif4xq2
+    verified: true
+    hashtags: "#comedy, #jeanmyburgh, #amongus, #worldrecord"
+  - username: "llama__________"
     fullname: >-
-      Yusuf_17
+      ThatBoiNextDoor
+    bio: >-
+      Changed name again
     location: "South Africa"
-    followers: 35140
-    engagement: 859
-    commentsToLikes: 0.071206
-    id: ck9r3vsxas69y0j78e7i2672p
+    followers: 10400
+    engagement: 2086
+    commentsToLikes: 0.033233
+    id: ckdtkx4pmyv7c0j23r7b9r1xt
     verified: false
-    hashtags: "#gamingwar, #5kplss, #magic, #plssss"
-  - username: "marcofishy"
+    hashtags: "#fy, #xyzbca, #viral, #fyp"
+  - username: "charles_loxton"
     fullname: >-
-      Marco
+      Charles Loxton
+    bio: >-
+      🥶🥶🥶
     location: "South Africa"
-    followers: 25267
-    engagement: 1089
-    commentsToLikes: 0.034791
-    id: ck92xi040yszh0j78ttxr0owh
+    followers: 55900
+    engagement: 1184
+    commentsToLikes: 0.023589
+    id: ckachg2rzz7em0i78bwg8jtr6
     verified: false
-    hashtags: "#youdo, #differenttypes, #imshy, #friendvibes"
-  - username: "wolfiizzy"
+    hashtags: "#sidemen, #pewdiepie, #ksi, #funny"
+  - username: "chimbacca5"
     fullname: >-
-      its just 🐺 izzy
+      Chima Onyeka
+    bio: >-
+      Nerd that loves video games And now makes TikTok vids Goal is 10000 lets go!!!
     location: "South Africa"
-    followers: 2093
-    engagement: 1187
-    commentsToLikes: 0.032277
-    id: ck80odmsbh2oq0j7827tap0ix
+    followers: 4336
+    engagement: 1586
+    commentsToLikes: 0.033310
+    id: cka8ggfsa6idb0i7823fnscr5
     verified: false
-    hashtags: "#penguin, #edit, #shesoaroused, #sea"
-  - username: "aviation_geek157"
+    hashtags: "#seemeontrace, #anime, #foryou, #gaming"
+  - username: "shadesplitter"
     fullname: >-
-      Donald Meyer
+      shadesplitter
+    bio: >-
+      I dissect games I stream on twitch Support me on my patreon for awesome perks👇
     location: "South Africa"
-    followers: 3758
-    engagement: 1036
-    commentsToLikes: 0.031999
-    id: ck9f1uccda4da0j783csed0rj
+    followers: 35800
+    engagement: 542
+    commentsToLikes: 0.301796
+    id: ckbf2sdefq1c60j23w6lwsq00
     verified: false
-    hashtags: "#rage, #familyguy, #funnyvideos, #gottogo"
+    hashtags: "#enjoy, #leagueoflegends, #like, #trending"
+  - username: "tyrique_21"
+    fullname: >-
+      Tyrique Naidoo
+    bio: >-
+      🇿🇦 🔥thanks for 12k followers guys❤️🇿🇦
+    location: "South Africa"
+    followers: 12200
+    engagement: 772
+    commentsToLikes: 0.021198
+    id: ckbesus68bmdk0j2385x2tsak
+    verified: false
+    hashtags: "#saservers, #gaming, #goviral, #fyp"
   - username: "gnarlyboxing"
     fullname: >-
       Nick
+    bio: >-
+      @nicholasstegmann 10K?
     location: "South Africa"
-    followers: 7593
-    engagement: 684
-    commentsToLikes: 0.020397
+    followers: 11000
+    engagement: 686
+    commentsToLikes: 0.016600
     id: cka0kmqg3n97i0i78xmljbua2
     verified: false
-    hashtags: "#peakyblinders, #theboys, #90s, #facts"
+    hashtags: "#boys, #gaming, #foryou, #theboys"
 ---

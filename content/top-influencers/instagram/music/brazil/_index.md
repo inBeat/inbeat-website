@@ -1,107 +1,130 @@
 ---
 title: Top 10 Music Instagram Influencers In Brazil In 2020
 description: >-
-  Find top music Instagram influencers in Brazil in 2020. Most popular hashtags: #garanh #amorpelamusica #ador #clubedeleituramaisscifi.
+  Find top music Instagram influencers in Brazil in 2020. Most popular hashtags: #video #like4likes #longhairmanstyle.
 platform: Instagram
+hits: 4262
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 4262 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "catarinasantosoficial"
+  - username: "silvillan"
     fullname: >-
-      C A T A R I N A  S A N T O S
+      Sílvillan Douglas
+    bio: >-
+      a m e ✊🏾 • educação física📕 • gaibu/b13 PE 📍 • música • dança • natureza • 📌
     location: "Brazil"
-    followers: 123702
-    engagement: 840
-    commentsToLikes: 0.874161
-    id: ckaoyhzvhhm1p0i78kn4frfdz
+    followers: 2976
+    engagement: 2298
+    commentsToLikes: 0.124737
+    id: ck5qbr830n0f90i11iwekkgz2
     verified: false
-    hashtags: "#sorteioo, #sorteiobrasil, #sorteioinsta, #sorteiooficial"
-  - username: "donas"
+    hashtags: ""
+  - username: "larasilva"
     fullname: >-
-      Donas 🇧🇷
+      Lara Silva 🔥
+    bio: >-
+      🔂 twitter: @arrobalarasilva 🎤 Contrate: (11) 97200-1838 📞 Publi: 11 9 7511-6976 👇🏻 música nova 👇🏻
     location: "Brazil"
-    followers: 852100
-    engagement: 5378
-    commentsToLikes: 2.488249
-    id: ckap94ijor48u0i78oi1t6m6z
+    followers: 7650027
+    engagement: 1673
+    commentsToLikes: 0.484112
+    id: ck13465p8uwfl0i195nh2ytyt
     verified: false
-    hashtags: "#meiota, #helicoptera"
-  - username: "sereia_literaria"
+    hashtags: "#fiquedivacomniely, #escudoprotetore, #novagerac, #ad"
+  - username: "djfabriciorodriguess"
     fullname: >-
-      🌻Letícia, 15y
+      DJ • ғᴀʙʀíᴄɪᴏ ʀᴏᴅʀɪɢᴜᴇs
+    bio: >-
+      ASSISTA OS STORIES 🔥 Sempre é Tempo para um novo recomeço ♥️ Music 🎶 I love ♥️ Funk Contrate • Publicidade e Shows 📲👇🏼
     location: "Brazil"
-    followers: 20219
-    engagement: 1281
-    commentsToLikes: 0.266381
-    id: ck0ub0v23deyb0i19341sj80n
+    followers: 123318
+    engagement: 1303
+    commentsToLikes: 6.107932
+    id: ckapcp7bg4n8o0i78h5eyy77w
     verified: false
-    hashtags: "#livrosquesalvaram, #sorteios, #ador, #clubedeleituramaisscifi"
+    hashtags: "#humor, #explorar, #riodejaneiro, #copacabana"
+  - username: "escariao"
+    fullname: >-
+      E S C A R I Ã O 🦎
+    bio: >-
+      Content Creator • LGBTQ • Music 📍 Brasília 📩 contatoescariao@gmail.com 👇🏼 Vídeo Novo
+    location: "Brazil"
+    followers: 389333
+    engagement: 667
+    commentsToLikes: 0.029845
+    id: ck0vwc33vt1760i192lc4irxx
+    verified: true
+    hashtags: "#agregadas, #gooddaybadday, #asksi"
+  - username: "chrisleao"
+    fullname: >-
+      Chris Leão
+    bio: >-
+      𝗔𝗦𝗦𝗜𝗦𝗧𝗔 𝗢𝗦 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 👀🤪 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ARTISTA DA KONDZILLA RECORDS músico/DJ/produtor Contrate: (51) 982429107
+    location: "Brazil"
+    followers: 1794926
+    engagement: 3391
+    commentsToLikes: 13.215921
+    id: ck6tmqwo28cu90j71zgs6qqoo
+    verified: true
+    hashtags: ""
+  - username: "joao__smith"
+    fullname: >-
+      João Smith 💸
+    bio: >-
+      • Freestyle || Lifestyle 💸 || Músic 🎙 If you believe, then you can do it, just look at me !! [parceria via direct]
+    location: "Brazil"
+    followers: 6721
+    engagement: 2185
+    commentsToLikes: 0.267322
+    id: ckaovywb56ozf0i78tk8jyff2
+    verified: false
+    hashtags: "#negrosestilosos, #negrosoccidental, #negroslindos, #pretosnotopo"
   - username: "djgabicavallin"
     fullname: >-
       Gabi Cavallin
+    bio: >-
+      @gr6explodeoriginal GR6 EXPLODE • Shows: 11 983996115 DOUGLAS + De 3 milhões de acessos nas músicas
     location: "Brazil"
-    followers: 116580
-    engagement: 656
-    commentsToLikes: 0.470515
+    followers: 109759
+    engagement: 860
+    commentsToLikes: 0.582732
     id: ck6018dr1f0zp0i14hv0dqz42
     verified: false
-    hashtags: "#wiggle, #tb, #ukraine, #fiquemecasa"
-  - username: "arianagoiss"
+    hashtags: "#fiquemecasa, #tiktok, #wiggle"
+  - username: "djannaghellere"
     fullname: >-
-      ✨
+      #elapode ✨
+    bio: >-
+      DJ DE TRAP E FUNK #rexpeitaamarrenta #elapode ⚠️ @psentretenimento CONTATO PARA SHOWS: 📲 (21) 99242-0468 📲 (21) 98869-1167 ⚠️ OUÇA MINHA MUSICA ⬇️
     location: "Brazil"
-    followers: 5776
-    engagement: 1381
-    commentsToLikes: 0.139405
-    id: ck9hbapmlg1zv0j78h8yyo7z3
+    followers: 28615
+    engagement: 815
+    commentsToLikes: 0.338555
+    id: ck6tthn3uanov0j71ecpnkhi8
     verified: false
-    hashtags: "#looks, #vemcarnaval, #lookcomsaia, #volum"
-  - username: "dudatorrez_"
+    hashtags: "#reelsinstagram, #toma, #luisasonza, #lu"
+  - username: "tarzan.ofc"
     fullname: >-
-      duda torrez
+      Anderson Gómez
+    bio: >-
+      💎• Modelo de eventos📌 🎓• Biomedicina @atleticabiomed9👨‍🔬 🕶• Ator Teatro musical @projeto_xiquete💜 🏋️‍♂️•Musculação @shape_alfa_omega 📲Parcerias Pvd
     location: "Brazil"
-    followers: 15331
-    engagement: 972
-    commentsToLikes: 0.074435
-    id: ck8weztg4evun0j786xu4c194
+    followers: 7377
+    engagement: 1211
+    commentsToLikes: 0.117779
+    id: ckap8dg30nud50i78pntc6tlu
     verified: false
-    hashtags: "#billieeilish, #khalid, #brabachallenge, #luisasonza"
-  - username: "jdonthatrack"
-    fullname: >-
-      JD On Tha Track
-    location: "Brazil"
-    followers: 60401
-    engagement: 588
-    commentsToLikes: 0.051976
-    id: ck55iy9nfvrw10i118vhf0vxl
-    verified: false
-    hashtags: "#2020"
+    hashtags: "#longhairmen, #cabeludosdoale, #homemcabeludo, #longhairmanstyle"
   - username: "reiroberto.carlos"
     fullname: >-
-      
+      𝐑𝐨𝐛𝐞𝐫𝐭𝐨 𝐂𝐚𝐫𝐥𝐨𝐬
+    bio: >-
+      🎤Fã clube dedicado ao rei Roberto Carlos 🎤"O importante é que emoções eu vivi" 🎤Rei da música🎶 e das mulheres👩 🎤Conta NÃO oficial
     location: "Brazil"
-    followers: 16821
-    engagement: 855
-    commentsToLikes: 0.100744
+    followers: 18088
+    engagement: 820
+    commentsToLikes: 0.115295
     id: ck9whfsv5xnmi0j78lcaq7kx9
     verified: false
-    hashtags: "#gal, #garanh, #robertocarlos, #followforfollowback"
-  - username: "miichelemota"
-    fullname: >-
-      𝓜𝓲𝓬𝓱𝓮𝓵𝓮 𝓜𝓸𝓽𝓪
-    location: "Brazil"
-    followers: 4124
-    engagement: 2896
-    commentsToLikes: 0.095324
-    id: ck9ha8kjxbkjr0j786svhgazk
-    verified: false
-    hashtags: "#tumbrl, #fiquememcasa, #violao, #paixaopormusica"
-  - username: "niccolerodrigues"
-    fullname: >-
-      Niccole Rodrigues 👀
-    location: "Brazil"
-    followers: 195037
-    engagement: 1129
-    commentsToLikes: 0.024134
-    id: ck9wh78qgwkvs0j78ymv81n9i
-    verified: false
-    hashtags: ""
+    hashtags: "#like4likes, #saudades, #follow4followback, #fundodoba"
 ---

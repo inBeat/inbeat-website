@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Switzerland In 2020
 description: >-
-  Find top food TikTok influencers in Switzerland in 2020. Most popular hashtags: #animals #chocolate #foodlover #fail.
+  Find top food TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #food #foryou #dessert.
 platform: TikTok
+hits: 40
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 40 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "kyurindiary"
+  - username: "joly2210"
     fullname: >-
-      KYURIN DIARY
+      Jo
+    bio: >-
+      Follow me on instagram: be_real2210 Healthy food 🥦🥑🥑🥩🥩🍓🍓🥝
     location: "Switzerland"
-    followers: 235951
-    engagement: 1853
-    commentsToLikes: 0.030218
-    id: ck84mbfqtmx100j78tadcsmlq
-    verified: true
-    hashtags: "#sushi, #brotherlove, #fanfic, #bangtanboys"
+    followers: 109500
+    engagement: 604
+    commentsToLikes: 0.009430
+    id: ck95xi9ii61fa0j78r9zcyjfs
+    verified: false
+    hashtags: "#foryoupage, #homeworkout, #abs, #fyp"
+  - username: "corinne_zhh"
+    fullname: >-
+      🌟corinne🌟
+    bio: >-
+      ⭐️ | Momlife ( 2 Kids ) ⭐️ | Mixed by 🇨🇭🇹🇭🇪🇸 ⭐️ | Instagram / corinne_zhh
+    location: "Switzerland"
+    followers: 446600
+    engagement: 1562
+    commentsToLikes: 0.011184
+    id: ck9n54hu46edf0j78m0s78q3d
+    verified: false
+    hashtags: "#cook, #food, #foodlover, #favorite"
+  - username: "manuelakocht"
+    fullname: >-
+      Manuela
+    bio: >-
+      Man ist nicht dumm, nur weil man etwas nicht kann! ❤️ sie/ihr/ihre
+    location: "Switzerland"
+    followers: 17300
+    engagement: 759
+    commentsToLikes: 0.045695
+    id: ck8qgc4ly09wq0j78li1ao8nz
+    verified: false
+    hashtags: "#1minuterezept, #foodtiktok, #tiktokmama, #einfachkochen"
   - username: "delikates.ch"
     fullname: >-
       delikates.ch
+    bio: >-
+      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
     location: "Switzerland"
-    followers: 2628
-    engagement: 387
-    commentsToLikes: 0.111176
+    followers: 3166
+    engagement: 368
+    commentsToLikes: 0.128653
     id: ck8tlndh7c7my0j781m6cfa20
     verified: false
-    hashtags: "#geburtstagskind, #cake, #einlegen, #tomahawksteak"
-  - username: "arrzzii"
-    fullname: >-
-      🇦🇱🇹🇷ArrzziiⓂ️
-    location: "Switzerland"
-    followers: 268103
-    engagement: 3044
-    commentsToLikes: 0.000049
-    id: ck8ncv8nwg4iq0j780k0ckwnm
-    verified: false
-    hashtags: "#animals, #biscuit, #rainbow, #colored"
-  - username: "jane_maza"
-    fullname: >-
-      Frenchieeeeeee
-    location: "Switzerland"
-    followers: 5307
-    engagement: 772
-    commentsToLikes: 0.025522
-    id: cka0vteg4zyyc0i78mxt9a792
-    verified: false
-    hashtags: "#seagullshow, #mardigras, #happymardigras, #viruscorona"
-  - username: "mrsflury"
-    fullname: >-
-      Mrs Flury
-    location: "Switzerland"
-    followers: 17696
-    engagement: 926
-    commentsToLikes: 0.021083
-    id: ck8qgc40n09rq0j78lb0w0w5d
-    verified: false
-    hashtags: "#nice, #kochrezepte, #osterflade, #fitness"
+    hashtags: "#burger, #safran, #schweiz, #switzerland"
   - username: "ch1n00ck"
     fullname: >-
       TamRa
+    bio: >-
+      
     location: "Switzerland"
-    followers: 2047
-    engagement: 265
-    commentsToLikes: 0.049763
+    followers: 5014
+    engagement: 267
+    commentsToLikes: 0.009689
     id: ckafu405k8twm0i78j274l97r
     verified: false
-    hashtags: "#orange, #sweetdreams, #hotcake, #perfektidea"
-  - username: "_ianf"
+    hashtags: "#freedom, #nature, #fyp, #funny"
+  - username: "quittedoctober26th"
     fullname: >-
-      _Ianf
+      K I K O S I O
+    bio: >-
+      Follow if you want FREE stuff 70k??? YOUTUBE👇
     location: "Switzerland"
-    followers: 2400
-    engagement: 436
-    commentsToLikes: 0.023073
-    id: ckamvqfdv4vxt0i781j3osito
+    followers: 69700
+    engagement: 2776
+    commentsToLikes: 0.683159
+    id: ckbfftpxlao250j2372h5y45w
     verified: false
-    hashtags: "#mirror, #cups, #rubbing, #screaming"
-  - username: "_noemi.btw"
+    hashtags: "#shadowbanned, #roblox, #dance, #xyzbca"
+  - username: "mehit77"
     fullname: >-
-      ~ E M I ~
+      Mehit
+    bio: >-
+      Mom from June the showering Cat Love Cooking Vision Events Dipl. Eventmanagerin
     location: "Switzerland"
-    followers: 23705
-    engagement: 1872
-    commentsToLikes: 0.062211
-    id: ck8ncvirlg64z0j78wa9z6pne
+    followers: 5346
+    engagement: 1206
+    commentsToLikes: 0.081778
+    id: ck9tua84vklv40j78c04vzwq6
     verified: false
-    hashtags: "#friendssince2014, #food, #fun, #crazy"
-  - username: "noadorian"
-    fullname: >-
-      Noa Dorian
-    location: "Switzerland"
-    followers: 301762
-    engagement: 2381
-    commentsToLikes: 0.019636
-    id: ckamm4pl7z0600i78ed57zjdt
-    verified: false
-    hashtags: "#marrant, #fran, #gaming, #comedie"
+    hashtags: "#ilovemycat, #kochen, #chocolate, #junetheshoweringcat"
   - username: "the_black_dog45"
     fullname: >-
       Black Dog
+    bio: >-
+      Follow me on Instagram 🟥🟧🟨🟩🟦🟪 Thx to everyone who follows me 🖤
     location: "Switzerland"
-    followers: 25557
-    engagement: 1657
-    commentsToLikes: 0.055714
+    followers: 34100
+    engagement: 1238
+    commentsToLikes: 0.039319
     id: ck9nutmf0osir0j7841dyjo3f
     verified: false
-    hashtags: "#ok, #callofdutymodernwarfare, #pizza, #straighttohell"
+    hashtags: "#fy, #fortnite, #duett, #trend"
+  - username: "knackeboul"
+    fullname: >-
+      knackeboul
+    bio: >-
+      neues album "the bananasplit of evil" 👇🏻😘 vorhören/bestellen
+    location: "Switzerland"
+    followers: 7463
+    engagement: 498
+    commentsToLikes: 0.091340
+    id: ckb93ccy9k6qa0j23p5rs66s7
+    verified: false
+    hashtags: "#jesus, #bananasplit, #regle, #populischtef"
+  - username: "worldeconomicforum"
+    fullname: >-
+      World Economic Forum
+    bio: >-
+      International Organization, committed to improving the state of the world
+    location: "Switzerland"
+    followers: 1500000
+    engagement: 515
+    commentsToLikes: 0.019396
+    id: ck81q2se4fh3a0j78gu0d038j
+    verified: true
+    hashtags: "#environment, #coronavirus, #london, #coronavirusspreading"
 ---

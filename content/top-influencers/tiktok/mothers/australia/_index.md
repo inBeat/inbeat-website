@@ -1,107 +1,130 @@
 ---
 title: Top 10 Mothers TikTok Influencers In Australia In 2020
 description: >-
-  Find top mothers TikTok influencers in Australia in 2020. Most popular hashtags: #bedroomcheck #aussiethings #learnfromme #mycrib.
+  Find top mothers TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #duet #tiktokaustralia.
 platform: TikTok
+hits: 125
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 125 TikTok influencers like this in Australia for you to pitch.
 profiles:
+  - username: "kikafilipo"
+    fullname: >-
+      KIKA FILIPO
+    bio: >-
+      Mother👨‍👩‍👧‍👦 Wife💍BNE we rise by lifting others 🇼🇸
+    location: "Australia"
+    followers: 2763
+    engagement: 1879
+    commentsToLikes: 0.113876
+    id: ckc7m8exssqbr0j23x7tonq6x
+    verified: false
+    hashtags: "#scrunchielife, #duet, #mcspicymoves, #colorcustomizer"
+  - username: "jakevalentine13"
+    fullname: >-
+      Jake Valentine
+    bio: >-
+      Probably feuding with my sister and mother
+    location: "Australia"
+    followers: 16500
+    engagement: 1853
+    commentsToLikes: 0.062284
+    id: ck9pmq4wrassr0j789nzpbirm
+    verified: false
+    hashtags: "#boo, #duet, #plant, #plantok"
   - username: "life_of_carolyn"
     fullname: >-
       life_of_carolyn
+    bio: >-
+      Your mental health cheerleader ❤️ #motherhoodsquad #alwaysenoughsquad
     location: "Australia"
-    followers: 35434
-    engagement: 1470
-    commentsToLikes: 0.071542
+    followers: 50100
+    engagement: 1110
+    commentsToLikes: 0.049750
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#homeroutine, #sidehustle, #shuffle, #over30club"
+    hashtags: "#mentalhealth, #mentalhealthmatters, #momsoftiktok, #youwantmore"
+  - username: "vic.bui"
+    fullname: >-
+      vic bui
+    bio: >-
+      proud mother of 3 😇🙏 him/he
+    location: "Australia"
+    followers: 127500
+    engagement: 2763
+    commentsToLikes: 0.030800
+    id: ckbb1zft4sdgn0j23l4u90k56
+    verified: false
+    hashtags: "#stitch"
   - username: "helenchikx"
     fullname: >-
       Helen Chik
+    bio: >-
+      Sydney🐨🇦🇺 ❤️s Muay Thai, a writer & mother 100k? 👇🏼BETTER ON INSTAGRAM 😌
     location: "Australia"
-    followers: 4969
-    engagement: 944
-    commentsToLikes: 0.137540
+    followers: 51000
+    engagement: 1100
+    commentsToLikes: 0.051470
     id: ck9v0merwdazi0j78oxagbqph
     verified: false
-    hashtags: "#duetthis, #bedroomcheck, #wipechallenge, #behindthescenes"
+    hashtags: "#tiktokfashion, #fingertutting, #tiktokaustralia, #fashion"
+  - username: "sercss"
+    fullname: >-
+      Sercan
+    bio: >-
+      74k wow bless 🙏🏼 Singer, actress, single mother Free OF link below ⬇️
+    location: "Australia"
+    followers: 74300
+    engagement: 1245
+    commentsToLikes: 0.032577
+    id: ck81s2rlmpkzy0j78c4cy1umr
+    verified: false
+    hashtags: "#viral, #fyp, #funny, #xyzbca"
   - username: "bigdivock1"
     fullname: >-
       BigDivock
+    bio: >-
+      If you’re a father who doesn’t fish Happy Mother’s Day 🎉
     location: "Australia"
-    followers: 50437
-    engagement: 1395
-    commentsToLikes: 0.011211
+    followers: 53200
+    engagement: 1266
+    commentsToLikes: 0.010382
     id: ck8faaond460s0j7852a1w3o7
     verified: false
-    hashtags: "#earthday, #liverpool, #aussiethings, #poem"
-  - username: "rajwinderkaur2746"
-    fullname: >-
-      Rajwinder Kaur
-    location: "Australia"
-    followers: 45625
-    engagement: 387
-    commentsToLikes: 0.072516
-    id: cka5z1gjxkr3s0i789t4ivl3c
-    verified: false
-    hashtags: "#getmoving, #minivlog, #birthday, #dhee"
+    hashtags: "#bakingrecipe, #acnh, #learnfromme, #fyp"
   - username: "justa5l"
     fullname: >-
       JUSTA5L
+    bio: >-
+      Perth WA rev head , lowrider all around awesome mother fucker follow me on insta
     location: "Australia"
-    followers: 2612
-    engagement: 716
-    commentsToLikes: 0.024591
+    followers: 3285
+    engagement: 930
+    commentsToLikes: 0.029984
     id: cka7p2kni5mk30i78ae8dhu1c
     verified: false
-    hashtags: "#cursedimages, #wapol, #tyre, #missheard"
-  - username: "__jugni___ak_47_"
+    hashtags: "#belair, #fyp, #builtnotbought, #turbo"
+  - username: "rajwinderkaurjarg"
     fullname: >-
-      🇦🇺 ਗੁਰਜੀਤ ਕੌਰ 🇮🇳
+      Rajwinder Kaur
+    bio: >-
+      Sydney Australia mother of two wish me 27 Sep Amber Meyhar
     location: "Australia"
-    followers: 59938
-    engagement: 495
-    commentsToLikes: 0.005742
-    id: ck9vffjvm31oh0j784zx05h2a
+    followers: 58900
+    engagement: 358
+    commentsToLikes: 0.032701
+    id: cka5z1gjxkr3s0i789t4ivl3c
     verified: false
-    hashtags: "#satindersartaj, #spreadlove, #healthyrecipe, #pb29wale"
-  - username: "lizamayastyle"
+    hashtags: "#rajwinderkaur, #meyharamber, #duet, #chulla"
+  - username: "laurasakkas"
     fullname: >-
-      Liz Amaya
+      Laura Sakkas
+    bio: >-
+      Real & Raw Motherhood laura.sakkas@hotmail.com AU ♡
     location: "Australia"
-    followers: 5649
-    engagement: 1286
-    commentsToLikes: 0.154154
-    id: ck9r3vrd2s5xw0j78k738mvkd
+    followers: 82200
+    engagement: 938
+    commentsToLikes: 0.012734
+    id: ckd0oyz5whjxe0j23s3i5mjxt
     verified: false
-    hashtags: "#winetime, #lifehacks, #millenial, #heyboy"
-  - username: "navie009"
-    fullname: >-
-      Navie009
-    location: "Australia"
-    followers: 82476
-    engagement: 1555
-    commentsToLikes: 0.037859
-    id: ck9ns1lgybkfb0j780kdtzv2c
-    verified: false
-    hashtags: "#saudiarabia, #lockdown, #pani, #italy"
-  - username: "mynameisjosuha"
-    fullname: >-
-      My Name is Josuha
-    location: "Australia"
-    followers: 46635
-    engagement: 2227
-    commentsToLikes: 0.022586
-    id: ck81sy6hetzne0j7893t2p5d2
-    verified: false
-    hashtags: "#helpful, #learnfromme, #women, #hiddentalent"
-  - username: "christianmhull"
-    fullname: >-
-      Christian Hull
-    location: "Australia"
-    followers: 257414
-    engagement: 1457
-    commentsToLikes: 0.016949
-    id: ck84m8v8sme230j78a3g79oq6
-    verified: true
-    hashtags: "#hairdresser, #haircut, #wipeitdown, #homeproject"
+    hashtags: "#infantlossawareness, #infantloss, #chdawarness, #bereavedmother"
 ---

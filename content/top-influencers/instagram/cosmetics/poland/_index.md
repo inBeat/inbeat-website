@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Poland In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Poland in 2020. Most popular hashtags: #skincare #wiosna #kosmetyki #poland.
+  Find top cosmetics Instagram influencers in Poland in 2020. Most popular hashtags: #makeup #polskadziewczyna #polishgirl #girl.
 platform: Instagram
+hits: 705
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 705 Instagram influencers like this in Poland for you to pitch.
 profiles:
   - username: "joanna.walkow"
     fullname: >-
-      Joanna 💎
+      Joanna 🌸
+    bio: >-
+      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
     location: "Poland"
-    followers: 4372
-    engagement: 2172
-    commentsToLikes: 0.131822
+    followers: 5977
+    engagement: 1547
+    commentsToLikes: 0.093577
     id: ck9wekanbknaa0j7834my2xx2
     verified: false
-    hashtags: "#gymhero, #zaradress, #kwiatki, #zdrowe"
-  - username: "_kolorowykwiat_"
-    fullname: >-
-      Małgorzata Kwiatkowska(Opara)
-    location: "Poland"
-    followers: 9482
-    engagement: 1727
-    commentsToLikes: 0.060453
-    id: ck8t8f0p1k7p90j78p36x4mbv
-    verified: false
-    hashtags: "#neutralshades, #eyepalette, #scarf, #boots"
-  - username: "weronika_zmuda"
-    fullname: >-
-      Weronika Żmuda
-    location: "Poland"
-    followers: 8876
-    engagement: 1068
-    commentsToLikes: 0.111673
-    id: ck8t1emmevgz50j78vep68gkw
-    verified: false
-    hashtags: "#pielegnacjatwarzy, #dezynfekcja, #homephotosideas, #idealofswedengirl"
-  - username: "maziena_beauty"
-    fullname: >-
-      ❣️MARZENA |Makeup |Beauty |
-    location: "Poland"
-    followers: 10949
-    engagement: 1024
-    commentsToLikes: 0.085414
-    id: ck6u1o46dmwgm0j716ngh2qzd
-    verified: false
-    hashtags: "#healthy, #olejkidotwarzy, #essentialoils, #poland"
-  - username: "karolinamatraszekmakeup"
-    fullname: >-
-      Karolina Matraszek
-    location: "Poland"
-    followers: 32602
-    engagement: 465
-    commentsToLikes: 0.081264
-    id: ck14ji7x5kha20i19z9eaqk6y
-    verified: false
-    hashtags: "#wizazystka, #newpallete, #kosmetyki, #glamourmakeup"
+    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
   - username: "xneessy"
     fullname: >-
-      🦋𝐴𝑔𝑛𝑖𝑒𝑠𝑧𝑘𝑎
+      🎀Agnieszka Wiszniewska🎀
+    bio: >-
+      🌆Białystok/Augustów 🐶🐰 pet lover 💄cosmetics lover
     location: "Poland"
-    followers: 19376
-    engagement: 555
-    commentsToLikes: 0.082930
+    followers: 19304
+    engagement: 537
+    commentsToLikes: 0.079229
     id: ck8t0xbortomi0j78gn58dw6l
     verified: false
-    hashtags: "#lover, #pinkmakeup, #eyelashes, #pony"
+    hashtags: "#polishgirl, #memories, #girl, #woman"
   - username: "champagne_vip"
     fullname: >-
       🎀  𝒟𝒶𝓇𝒾𝒶 𝒦𝒶𝓈𝒶𝓃𝒹𝓇𝒶 𝒫𝒾𝓍𝒶  🎀
+    bio: >-
+      𝒲𝑒𝓁𝒸💍𝓂𝑒📸 23yo🇵🇱 TikTok 🔛Champagne_vip #nails #beauty #fashion #hairstyle #cosmetics Collab DM 📝
     location: "Poland"
-    followers: 10459
-    engagement: 869
-    commentsToLikes: 0.072832
+    followers: 10316
+    engagement: 901
+    commentsToLikes: 0.061669
     id: ck8t7lccmh8fq0j787uz7s7sl
     verified: false
-    hashtags: "#sweetalmondoil, #rodzina, #beach, #roseflower"
-  - username: "paulawuczko"
+    hashtags: "#pi, #wywolajwspomnienia, #rossmannbloger, #jubiler"
+  - username: "dvrxie.makeup"
     fullname: >-
-      Paulina Wuczko
+      𝓓𝓪𝓻𝓲𝓪 🥀 makeup • skincare
+    bio: >-
+      📌 hashtag #inspodaria |📲 private @dvrxie ╔ makeup & skincare 🧖🏼‍♀️ ╚ cosmetics tests & reviews 🔍
     location: "Poland"
-    followers: 15953
-    engagement: 825
-    commentsToLikes: 0.067471
-    id: ck0ubm7frew3k0i19tzsc1mr6
-    verified: false
-    hashtags: "#morning, #denimjacket, #rowerowelove, #rowerowo"
-  - username: "adriana.kamper"
-    fullname: >-
-      Adriana Kamper
-    location: "Poland"
-    followers: 8061
-    engagement: 1163
-    commentsToLikes: 0.067223
-    id: ck136f3bs66jz0i19no85g9o9
-    verified: false
-    hashtags: "#phonebleaching, #lippost, #colourpop, #flyingtigerpl"
-  - username: "daria.kalandyk"
-    fullname: >-
-      daria 🧚🏻‍♀️ makeup • skincare
-    location: "Poland"
-    followers: 3514
-    engagement: 1471
-    commentsToLikes: 0.222541
+    followers: 3549
+    engagement: 1185
+    commentsToLikes: 0.159359
     id: ck8t9d573nnn80j78romx1u9h
     verified: false
-    hashtags: "#konkursy, #autumnvibes, #polecam, #nyxcosmetics"
+    hashtags: "#makeuptutorial, #makeupfamily, #smokeyeyes, #makijazpolska"
+  - username: "justyna_wizaz"
+    fullname: >-
+      
+    bio: >-
+      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food ⭐ ⭐#warszawa ⭐
+    location: "Poland"
+    followers: 27537
+    engagement: 226
+    commentsToLikes: 0.113035
+    id: ckaoxpw0headj0i78qd1250rm
+    verified: false
+    hashtags: "#pi, #pielegnacja, #autumn, #czaswolny"
+  - username: "kate.ing"
+    fullname: >-
+      Kasia Inglot
+    bio: >-
+      📩Collab: DM/e-mail: inglot.katarzyna@o2.pl ▫️Rzeszów ▫️25 🎓Student/Cosmetic Services Technician 🎓Security Engineer 🎓Health & Safety Specialist
+    location: "Poland"
+    followers: 206536
+    engagement: 549
+    commentsToLikes: 0.014888
+    id: ck9weuri9lxi60j788vvonfgl
+    verified: false
+    hashtags: "#blonde, #katowice, #longhair, #blueeyes"
+  - username: "magdapieczonkamakeup"
+    fullname: >-
+      Magda Pieczonka
+    bio: >-
+      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
+    location: "Poland"
+    followers: 509380
+    engagement: 388
+    commentsToLikes: 0.016733
+    id: ck0vzxfj1bcy70i19joogf0g7
+    verified: true
+    hashtags: "#musthave, #zalando, #clinique, #109"
+  - username: "sz_marietta_"
+    fullname: >-
+      🖤Marietta🖤
+    bio: >-
+      •Kosmetolog w @refresh_cosmetic ❤️ •Kosmetologia 💄👄 •kontakt✉️: marietta.szcz@wp.pl Poland 🇵🇱 10.08🎂🍹🥂 📚🎓student ❤️💍@voiciech92
+    location: "Poland"
+    followers: 21653
+    engagement: 395
+    commentsToLikes: 0.048209
+    id: ck8t7q1vshm3l0j78bx9s94ra
+    verified: false
+    hashtags: "#goodmorning, #ootd, #instamood, #love"
+  - username: "_kolorowykwiat_"
+    fullname: >-
+      Małgorzata Kwiatkowska(Opara)
+    bio: >-
+      I'm a woman so I'm feminine💅💆‍♀️🎨👠👗 /Fashion/Nail stylization, makeup, cosmetics-professional knowledge/Lifestyle 📩Collaboration: mkwiat.op@gmail.com
+    location: "Poland"
+    followers: 11520
+    engagement: 884
+    commentsToLikes: 0.067611
+    id: ck8t8f0p1k7p90j78p36x4mbv
+    verified: false
+    hashtags: "#szpilki, #kazar, #polskadziewczyna, #kochamszpilki"
+  - username: "maziena_beauty"
+    fullname: >-
+      ❣️MARZENA |Makeup |Beauty|Care
+    bio: >-
+      📧Contact :📩 mazienabeauty23@onet.pl or DM Ambasadorka - @bandi_cosmetics 💓 @muacosmeticspl 💃 🎂 24 | 🇵🇱 POLAND /Warsaw #beauty #swatche #makeup
+    location: "Poland"
+    followers: 9818
+    engagement: 630
+    commentsToLikes: 0.043255
+    id: ck6u1o46dmwgm0j716ngh2qzd
+    verified: false
+    hashtags: "#makeuplover, #milanicosmetics, #makija, #recenzjakosmetyczna"
 ---

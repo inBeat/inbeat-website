@@ -1,107 +1,130 @@
 ---
 title: Top 10 Kayak TikTok Influencers In 2020
 description: >-
-  Find top kayak TikTok influencers in 2020. Most popular hashtags: #quarantine #familytime #kayak #foryoupage.
+  Find top kayak TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #kayak #nature.
 platform: TikTok
+hits: 291
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 291 TikTok influencers like this for you to work with.
 profiles:
-  - username: "gemmafitzwilliams"
+  - username: "misipikidd"
     fullname: >-
-      gemma
-    location: "United Kingdom"
-    followers: 59738
-    engagement: 1443
-    commentsToLikes: 0.034045
-    id: ckal7l1n1fohr0i781yz5nwaz
+      Misipikidd
+    bio: >-
+      I love Jesus.!!!! cycling 🚴🏻 running 🏃 kayaking 🛶 and camping 🏕
+    location: "United States"
+    followers: 11800
+    engagement: 2959
+    commentsToLikes: 0.057462
+    id: ckb0tagflire80j239kxk59y2
     verified: false
-    hashtags: "#rapordie, #skins, #effy, #music"
+    hashtags: "#hollyspirit, #christianboy, #jesus, #mississippi"
+  - username: "shanesnelson"
+    fullname: >-
+      Shane S. Nelson
+    bio: >-
+      I have a deaf doggy. Walked across America 2015. Kayaked MS River 2017. 28/ATL
+    location: "United States"
+    followers: 15400
+    engagement: 1131
+    commentsToLikes: 0.088380
+    id: ckavjfvz8s4310j23jti2awc4
+    verified: false
+    hashtags: "#usethissound, #heinzhalloween, #duet, #freestyle"
+  - username: "aerial_cristina_"
+    fullname: >-
+      💜Aerial Cristina💚
+    bio: >-
+      Aerial Instructor occasional tutorials FL - Clear kayak fun mom, wife & engineer
+    location: "United States"
+    followers: 70200
+    engagement: 1445
+    commentsToLikes: 0.051561
+    id: ckb981d7ur2700j23vstjj26l
+    verified: false
+    hashtags: "#halloween2020, #aerialsilks, #ohno, #poledancing"
+  - username: "ryanmcavoy94"
+    fullname: >-
+      Ryan McAvoy
+    bio: >-
+      Professional Whitewater Kayaker Liquidlogic Kayaks
+    location: "United States"
+    followers: 113300
+    engagement: 1542
+    commentsToLikes: 0.012846
+    id: ckai28nreeste0i7813mbe2co
+    verified: false
+    hashtags: "#foryou, #carnage, #waterslide, #waterfall"
   - username: "von315"
     fullname: >-
       von315
+    bio: >-
+      50 yrs old Happily married 30 years ❤️’s music, photography, kayaking, animals
     location: "United States"
-    followers: 42992
-    engagement: 750
-    commentsToLikes: 0.121927
+    followers: 59600
+    engagement: 881
+    commentsToLikes: 0.120153
     id: ck9ad62h1vt5q0j78b4b8oa85
     verified: false
-    hashtags: "#rightroom, #momsoftiktok, #cincodemayo, #party"
-  - username: "ryanmcavoy94"
+    hashtags: "#funny, #over40, #foryou, #whatsup"
+  - username: "j_buzzi"
     fullname: >-
-      Ryan
+      j_buzzi
+    bio: >-
+      Entrepreneur • music • travel • owner of Get Up And Go Kayaking
     location: "United States"
-    followers: 31240
-    engagement: 1348
-    commentsToLikes: 0.011452
-    id: ckai28nreeste0i7813mbe2co
+    followers: 42800
+    engagement: 653
+    commentsToLikes: 0.059186
+    id: ck9k1uv4chu300j78nxti7cw4
     verified: false
-    hashtags: "#fast, #waterslide, #fouryoupage, #canada"
+    hashtags: "#foryourpage, #fyp, #goldenretriever, #quarentine"
+  - username: "clear_kayak_adventures"
+    fullname: >-
+      Kayakin' Cristina
+    bio: >-
+      Fossiling and kayaking in a clear kayak😍 🌎🌋Geology and Meteorology Degree🌪🌩
+    location: "United States"
+    followers: 3758
+    engagement: 1406
+    commentsToLikes: 0.028691
+    id: ckc8d6ea18wdb0j233oh1s7lq
+    verified: false
+    hashtags: "#underwater, #notonething, #floridalife, #floridacheck"
   - username: "namib_naude"
     fullname: >-
       namib_naude
+    bio: >-
+      Founder - Ocean Conservation Namibia Sea life rescuer Pelican Point Kayaking
     location: "Namibia"
-    followers: 550052
-    engagement: 1428
-    commentsToLikes: 0.006693
+    followers: 1300000
+    engagement: 1284
+    commentsToLikes: 0.005657
     id: ck8hr4xhm78790j78w5b9jsal
     verified: false
-    hashtags: "#dolphinrescue"
+    hashtags: "#sealrescue, #animalrescue, #savingseals, #fyp"
   - username: "getupandgokayaking"
     fullname: >-
       Clear Kayaking
+    bio: >-
+      100% CLEAR kayak guided eco tours in Florida!
     location: "United States"
-    followers: 22492
-    engagement: 963
-    commentsToLikes: 0.007076
+    followers: 26000
+    engagement: 982
+    commentsToLikes: 0.012304
     id: ck9kbom1am4040j78h0rg4g31
     verified: false
-    hashtags: "#dontletthisflop, #crystalriver, #winterishere, #florida"
-  - username: "official_slp_"
+    hashtags: "#kayak, #winterparkfl, #florida, #clearkayak"
+  - username: "evuhlunnn"
     fullname: >-
-      SJ Louw
-    location: "Namibia"
-    followers: 65750
-    engagement: 831
-    commentsToLikes: 0.008157
-    id: ck9r43q9stb7n0j78gf5df8do
-    verified: false
-    hashtags: "#talktoanimals, #iphone, #timelapse, #sunset"
-  - username: "isleyreust"
-    fullname: >-
-      Isley Reust
+      evelyn
+    bio: >-
+      designated diamond armor/villager girl of tiktok i stream everyday on twitch!⬇️
     location: "United States"
-    followers: 18554
-    engagement: 1589
-    commentsToLikes: 0.033167
-    id: ck81qwq4rkj7i0j78g0xttxuy
+    followers: 59700
+    engagement: 2227
+    commentsToLikes: 0.048075
+    id: ckc7vknnwyztr0j236jsli1u8
     verified: false
-    hashtags: "#tigerking, #lovesurfing, #hotspring, #snowpocalypse"
-  - username: "fishingwithbecca"
-    fullname: >-
-      becca
-    location: "United States"
-    followers: 57430
-    engagement: 1646
-    commentsToLikes: 0.016208
-    id: ck8fbya6a5g6d0j78zrutnk0k
-    verified: false
-    hashtags: "#boatsandhoes, #bankfishing, #bigfish, #mmmdrop"
-  - username: "carriedonald.mi"
-    fullname: >-
-      carriedonald
-    location: "United States"
-    followers: 6035
-    engagement: 696
-    commentsToLikes: 0.051741
-    id: ck87u0zy84m5y0j78wzkifgx6
-    verified: false
-    hashtags: "#turtles, #justbeyou, #lovemydogs, #rocks"
-  - username: "jw_saints"
-    fullname: >-
-      Jw_saints
-    location: "United States"
-    followers: 103985
-    engagement: 1378
-    commentsToLikes: 0.026146
-    id: cka0p2c6s6gom0i78czswmthh
-    verified: false
-    hashtags: "#kidswithdogs, #puppies, #rescue, #dogs"
+    hashtags: "#diamondarmor, #mcyt, #streamer, #twitch"
 ---

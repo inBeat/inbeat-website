@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Singapore In 2020
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2020. Most popular hashtags: #yogaathome #sgunited #throwback #plankchallenge.
+  Find top yoga Instagram influencers in Singapore in 2020. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
 platform: Instagram
+hits: 14
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 14 Instagram influencers like this in Singapore for you to work with.
 profiles:
-  - username: "angeliqueteo"
+  - username: "jyanyoga"
     fullname: >-
-      Angelique Nicolette Teo
+      jiamin • jyan
+    bio: >-
+      🐒 acro • yoga • dance 🧘🏻‍♀️founder of @jyanyogastudio 💌 jyan.yoga@gmail.com
     location: "Singapore"
-    followers: 18140
-    engagement: 659
-    commentsToLikes: 0.119655
-    id: ck5hnkcnnnxiw0i11iok283vh
+    followers: 19576
+    engagement: 304
+    commentsToLikes: 0.055314
+    id: ck0vvnusjpyco0i19dezc6waf
     verified: false
-    hashtags: "#workhard, #celebrateyou, #earthhour2020, #solitude"
-  - username: "1.228"
+    hashtags: "#caringskinsg, #mooiconvert, #kfcbreakfast, #kfcam"
+  - username: "mallaikapatra"
     fullname: >-
-      Leong.Jerry
+      Mallaika Patra
+    bio: >-
+      🙏🏼 Yoga practitioner.
     location: "Singapore"
-    followers: 6842
-    engagement: 691
-    commentsToLikes: 0.030618
-    id: ck6uc6pbmdu6g0j71tmpykdfw
+    followers: 10999
+    engagement: 507
+    commentsToLikes: 0.077885
+    id: ck5q39dtujuxo0i11frpazkz2
     verified: false
-    hashtags: "#balancing, #humbleflamingo, #kingdancer, #trikonasana"
-  - username: "roxannegan_"
-    fullname: >-
-      ROXANNE GAN
-    location: "Singapore"
-    followers: 124928
-    engagement: 134
-    commentsToLikes: 0.011821
-    id: ck0vxnqw9zteb0i190sr9gudl
-    verified: false
-    hashtags: "#plankchallenge, #yogaeveryday, #hiit, #couplethings"
+    hashtags: "#atmanirbhar, #vineyard, #sky, #dogsarethebest"
   - username: "denisekellerofficial"
     fullname: >-
       Denise Keller
+    bio: >-
+      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Under Armour Athlete Manduka Ambassador wellness@denisekeller.com
     location: "Singapore"
-    followers: 46111
+    followers: 55327
     engagement: 257
-    commentsToLikes: 0.019218
+    commentsToLikes: 0.030596
     id: ck0w5so1j58yz0i190lkimec3
     verified: true
-    hashtags: "#travelawesome, #travelmore, #yogapants, #manduka"
-  - username: "yennychristine"
+    hashtags: "#yogaeverydamnday, #sgfashion, #yogapose, #fashionsg"
+  - username: "1.228"
     fullname: >-
-      Yenny Christine
+      Leong.Jerry
+    bio: >-
+      DM for private yoga class 🇸🇬 Yoga . Gym . Swim . Bowling
     location: "Singapore"
-    followers: 109909
-    engagement: 133
-    commentsToLikes: 0.037339
-    id: ck6tijjbg0u4w0j710mucx8ie
+    followers: 7019
+    engagement: 647
+    commentsToLikes: 0.022958
+    id: ck6uc6pbmdu6g0j71tmpykdfw
     verified: false
-    hashtags: "#locustpose, #archerarms, #lemur, #hollowback"
-  - username: "agalyah_maniam"
+    hashtags: "#yogaposes, #yogaaddict, #yogadudes, #yogainspiration"
+  - username: "roxannegan_"
     fullname: >-
-      Agalyah Maniam
+      ROXANNE GAN
+    bio: >-
+      🇸🇬 SG Fitness & Yoga Icon 📍@zoiyoga__ 🧘🏻‍♀️ #foxyroxyyoga 📩 hello@roxannegan.com
     location: "Singapore"
-    followers: 96374
-    engagement: 861
-    commentsToLikes: 0.008993
-    id: ck0w3gh02t9zj0i19y6o7mvdf
+    followers: 126716
+    engagement: 130
+    commentsToLikes: 0.009089
+    id: ck0vxnqw9zteb0i190sr9gudl
     verified: false
-    hashtags: "#tamilnewyear, #gratitude, #foodisbae, #ootd"
+    hashtags: "#practiceyogachangeyourworld, #yogagram, #foxyroxyyoga, #yoga"
   - username: "naomi.huth"
     fullname: >-
       Naomi Huth ✩
+    bio: >-
+      𝗠𝗜𝗦𝗦 𝗦𝗨𝗣𝗥𝗔𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗦𝗜𝗡𝗚𝗔𝗣𝗢𝗥𝗘 𝟮𝟬𝟭𝟵 Achieve the impossible ∞ Travel | Adventure | Yoga Co-owner @filmpalette ⇩ 6 Things I Learned Before 20 #stayhome
     location: "Singapore"
     followers: 10516
     engagement: 423
     commentsToLikes: 0.042000
     id: ck0tt519d16pv0i19cjse8vrv
     verified: false
-    hashtags: "#lululemonsg, #citigems, #herbalpharm, #beautyqueen"
-  - username: "coolmommy_konnect"
+    hashtags: "#havaianassingapore, #gardenbeats, #sp, #30dayshighvibe"
+  - username: "kyrapoh"
     fullname: >-
-      Namita Sinha
+      Kyra Poh
+    bio: >-
+      Indoor Skydiver 🇸🇬 🪂Red Bull Athlete
     location: "Singapore"
-    followers: 6793
-    engagement: 1042
-    commentsToLikes: 0.109385
-    id: ck8syei3fkle90j78fr5e1273
+    followers: 10774
+    engagement: 964
+    commentsToLikes: 0.032787
+    id: ck55k9jxkysv60i11v24hax5f
     verified: false
-    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
-  - username: "ztudioasia"
+    hashtags: "#weworeourmasksafter, #yoga, #wcis2018, #theend"
+  - username: "aishx"
     fullname: >-
-      Monica TW
+      aish
+    bio: >-
+      counting memories instead of calories | #aishxads come be hairless with me | @japaniplexpress
     location: "Singapore"
-    followers: 4300
-    engagement: 1785
-    commentsToLikes: 0.261204
-    id: ckap4if0s7ipc0i78iycng6e7
+    followers: 10294
+    engagement: 836
+    commentsToLikes: 0.020671
+    id: ck6ub2tcd75320j71j2yv718i
     verified: false
-    hashtags: "#pearljewelry, #home, #midlifestyle, #flatback2nd"
-  - username: "michellechiaofficial"
+    hashtags: "#igsg, #partipost, #sgig, #sp"
+  - username: "branstands"
     fullname: >-
-      【仪日行】michelle chia
+      Brandon
+    bio: >-
+      Simple Quality Living 🇸🇬 Movement Artist, Mindful Coach, Wanderlust 💌 hello@branstands.com Lululemon Ambassador
     location: "Singapore"
-    followers: 60682
-    engagement: 199
-    commentsToLikes: 0.018483
-    id: ck14ihx4cfhhc0i19upogt7c4
+    followers: 57413
+    engagement: 138
+    commentsToLikes: 0.023162
+    id: ck5zmz57enh2p0i14e11i5eru
     verified: false
-    hashtags: "#yoga, #bighair, #notastraw, #reservewarriorpose"
+    hashtags: "#evisukuro, #evisu, #rawdenim, #stpatricksday"
+  - username: "chantalwindley"
+    fullname: >-
+      Chantal ♡
+    bio: >-
+      Rhythm Cycle @absolutecyclesingapore • Founder @mrsdeco_ • Swim with meeee 🏊🏼‍♀️ • Illustrator @c.llustrations
+    location: "Singapore"
+    followers: 6351
+    engagement: 492
+    commentsToLikes: 0.036458
+    id: ckap3zuhm58030i78fkxxq97n
+    verified: false
+    hashtags: "#tiktok, #singapore, #tiktoksingapore, #spininstructor"
 ---

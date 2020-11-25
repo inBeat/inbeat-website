@@ -1,109 +1,132 @@
 ---
 title: Top 10 TikTok Influencers In India In 2020
 description: >-
-  Find top TikTok influencers in India in 2020. Most popular hashtags: #thanksmaa #teri #duet #tiktoktraditions.
+  Find top TikTok influencers in India in 2020. Most popular hashtags: #duet #foryoupage #tik.
 platform: TikTok
+hits: 19266
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 19266 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "simmylanda"
     fullname: >-
       Simmy Landa
+    bio: >-
+      Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿🇮🇳
     location: "India"
-    followers: 705564
-    engagement: 3149
-    commentsToLikes: 0.108805
+    followers: 748000
+    engagement: 2489
+    commentsToLikes: 0.054206
     id: ck8p11c7yjawj0j786h3ahqx6
     verified: true
-    hashtags: "#foryoupage, #trend, #hairhack, #stuckabroad"
-  - username: "raj.hrishav"
-    fullname: >-
-      Hrishav raj
-    location: "India"
-    followers: 114145
-    engagement: 2806
-    commentsToLikes: 0.081529
-    id: ck9kco4jcqe4o0j78wtsu4oxg
-    verified: false
-    hashtags: "#viralvideo"
-  - username: "official_gursewaklikhari"
-    fullname: >-
-      👑Gursewaklikhari👑
-    location: "India"
-    followers: 324533
-    engagement: 2293
-    commentsToLikes: 0.027123
-    id: ck8tt788grqsm0j78r7kup0ln
-    verified: false
-    hashtags: "#foryou, #duet"
+    hashtags: "#foodasmr, #food, #stitch, #tutorial"
   - username: "mg_gaurav"
     fullname: >-
       लोगों का काम है कहना
+    bio: >-
+      I Love 😘Dance.🕺Acting.👩‍🎨 Expression.🤗 and Comedy.😂 thank 🎁 you guys.🙏
     location: "India"
-    followers: 11494
-    engagement: 8748
-    commentsToLikes: 0.131831
+    followers: 12000
+    engagement: 9033
+    commentsToLikes: 0.098036
     id: ckaiklcqijyke0i78a40m3k40
     verified: false
-    hashtags: "#fyp, #thanksmaa, #2ofme"
-  - username: "satishsharma5555"
+    hashtags: "#fyp, #imnotamodel"
+  - username: "tiktokbabydoll1"
     fullname: >-
-      Satish
+      Baby Doll 😍
+    bio: >-
+      Thanks for sporting guys😍😍😍
     location: "India"
-    followers: 3321
-    engagement: 8112
-    commentsToLikes: 0.446719
-    id: cka9p8ksd6l6l0i78ne88hb30
+    followers: 10400
+    engagement: 7809
+    commentsToLikes: 0.080252
+    id: ckc90q8h8qc6d0j23559rxjwt
     verified: false
-    hashtags: ""
+    hashtags: "#tiktokindia, #sahildilu, #foryou, #foryoupage"
+  - username: "gargsanju790"
+    fullname: >-
+      all
+    bio: >-
+      my life my fimly
+    location: "India"
+    followers: 2457
+    engagement: 7493
+    commentsToLikes: 0.294202
+    id: ckada2qq8gepj0i784nous3ib
+    verified: false
+    hashtags: "#duet, #greenscreenvideo, #greenscreen"
+  - username: "aprnapaul"
+    fullname: >-
+      ahanapaul
+    bio: >-
+      
+    location: "India"
+    followers: 3252
+    engagement: 6677
+    commentsToLikes: 0.230731
+    id: ckbllfzgedz630j230we13qo4
+    verified: false
+    hashtags: "#viraivideo, #fryoupaga, #ten, #tik"
   - username: "sayyedrahman134"
     fullname: >-
       seyyad rahman
+    bio: >-
+      @sayyadrahman0
     location: "India"
-    followers: 3310
-    engagement: 7956
-    commentsToLikes: 0.257808
+    followers: 3693
+    engagement: 6660
+    commentsToLikes: 0.242249
     id: cka8j3dbti68a0i781pb0muve
     verified: false
-    hashtags: "#tiktoktraditions, #duet, #lifebuoykarona"
-  - username: "ravinderkaur589"
+    hashtags: "#duet"
+  - username: "praseethakukku7"
     fullname: >-
-      Ravindar kaur
+      😊Prase😊
+    bio: >-
+      പാവം കൊല്ലംകാരി 🔥🔥(#KSR2)🔥#karlus 😉😉#M2square
     location: "India"
-    followers: 3147
-    engagement: 7884
-    commentsToLikes: 0.094676
-    id: cka9qonbs8acs0i78lv4pzzjr
+    followers: 14700
+    engagement: 6614
+    commentsToLikes: 0.323340
+    id: ckbra9pgponor0j23vyndvjhc
     verified: false
-    hashtags: "#sparklingmemories, #tiktokdiwa, #memoriesbringback, #photomagic"
-  - username: "anuragshukla3429"
+    hashtags: "#ksr2, #m2square, #karlus, #sparklingmemories"
+  - username: "roshnisingh8282"
     fullname: >-
-      mr.Anurag Shukla
+      Roshni Singh
+    bio: >-
+      🌸har 🌺🥰har 🌺🤗mahadev 🙏🏼🙏🏼🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹❤❤❤❤❤❤
     location: "India"
-    followers: 12560
-    engagement: 7714
-    commentsToLikes: 0.078376
-    id: ckad897dk7tnj0i78zl9yfeqc
+    followers: 1994
+    engagement: 6515
+    commentsToLikes: 0.437265
+    id: ckbrfgpp8r7av0j2349rcp646
     verified: false
-    hashtags: "#thanksmaa, #lipsing, #acting, #lipsinc"
-  - username: "p.s231"
+    hashtags: "#duet"
+  - username: "skmiraj788"
     fullname: >-
-      aashi
+      💢💢 family no 1💢💢
+    bio: >-
+      💢💢⏰team India Family no 1 ⏰💢💢 🔥🔥amar hobo no 1🔥🔥 💢💢⏰ code 376⏰💢💢
     location: "India"
-    followers: 4890
-    engagement: 7463
-    commentsToLikes: 0.146364
-    id: ckail7a5umvkv0i783b6jc5en
+    followers: 20100
+    engagement: 6479
+    commentsToLikes: 0.121215
+    id: cka9lkm382mgb0i781iz4c3qz
     verified: false
-    hashtags: "#rajsthan, #tik, #fantasyeyes, #my"
-  - username: "aaroholic_girl"
+    hashtags: "#skmiraj376, #500likebackteam, #tik, #teamindiafamly1"
+  - username: "madhunanda_7438_929"
     fullname: >-
-      Aarohi Sharma
+      ❤️MADHU NANDA ❤️
+    bio: >-
+      
     location: "India"
-    followers: 6218
-    engagement: 7233
-    commentsToLikes: 0.079919
-    id: ckae9kuwaramu0i78flmg18ms
+    followers: 2798
+    engagement: 6332
+    commentsToLikes: 0.249879
+    id: ckberbgio9alk0j233rdxgaj9
     verified: false
-    hashtags: "#dhankhar, #funny, #tujhe, #bollywood"
+    hashtags: ""
 cities:
   - name: Mumbai
     link: /tiktok/india/mumbai

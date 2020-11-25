@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Istanbul In 2020
 description: >-
-  Find top food TikTok influencers in Istanbul in 2020. Most popular hashtags: #gaziantep #ankaral #istanbul #karadeniz.
+  Find top food TikTok influencers in Istanbul in 2020. Most popular hashtags: #food #istanbul #tiktok #yemek.
 platform: TikTok
+hits: 16
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 16 TikTok influencers like this in Istanbul, Turkey for you to contact.
 profiles:
-  - username: "ozanarasb"
-    fullname: >-
-      Ozan Aras - Gezgin
-    location: "Turkey"
-    followers: 15598
-    engagement: 179
-    commentsToLikes: 0.015369
-    id: ckacr1fj83e1g0i78ng88nkgr
-    verified: false
-    hashtags: "#huzur, #bizimevdatca, #bansko, #dubai"
-  - username: "mr.taster"
-    fullname: >-
-      mr.taster
-    location: "Turkey"
-    followers: 64695
-    engagement: 223
-    commentsToLikes: 0.007835
-    id: cka63t2ov5tz80i78dlb8v54n
-    verified: false
-    hashtags: "#desifood, #pizza, #mashhad, #baklava"
-  - username: "gulabikadayif"
-    fullname: >-
-      gulabikadayif
-    location: "Turkey"
-    followers: 3511
-    engagement: 307
-    commentsToLikes: 0.007794
-    id: ck9fxjtw16ycq0j78x5akz1dt
-    verified: false
-    hashtags: "#cznchallenge, #simit, #dondurma, #majdistanbuly"
-  - username: "antepli.geziyor"
-    fullname: >-
-      antepligeziyor
-    location: "Turkey"
-    followers: 8816
-    engagement: 1010
-    commentsToLikes: 0.007318
-    id: ck8kn2b6mba0x0j78gxhqxnm9
-    verified: false
-    hashtags: "#ankaral"
   - username: "gorkem0007"
     fullname: >-
       Görkem IŞIK
+    bio: >-
+      Follow me Instagram: grkm_
     location: "Turkey"
-    followers: 23466
-    engagement: 421
-    commentsToLikes: 0.008389
+    followers: 23000
+    engagement: 480
+    commentsToLikes: 0.007837
     id: ck84mcguun8080j78z8xemjwa
     verified: false
-    hashtags: "#istanbull, #india, #travellife, #tigershroff"
-  - username: "gacemerburak"
+    hashtags: "#asia, #malaysian, #be, #thailand"
+  - username: "glysongur_16"
     fullname: >-
-      Burak Gacemer
+      GÜLAY SONGUR
+    bio: >-
+      ❤️İnstagram ; glysongur ❤️ @gulaysongur_men @gulaysongur_women
     location: "Turkey"
-    followers: 69142
-    engagement: 322
-    commentsToLikes: 0.007974
-    id: ck902drpwcdmx0j7801iwp68u
+    followers: 69800
+    engagement: 464
+    commentsToLikes: 0.025312
+    id: ckbq43hrfqppg0j23ylshv5iu
+    verified: false
+    hashtags: "#quarantinelife, #challege, #indiachallenge, #quarantenachallenge"
+  - username: "gezgingurme"
+    fullname: >-
+      Ozan Aras
+    bio: >-
+      Youtube: “ gezgin gurme “ instagram.com/ozanaras
+    location: "Turkey"
+    followers: 23600
+    engagement: 196
+    commentsToLikes: 0.020397
+    id: ckacr1fj83e1g0i78ng88nkgr
+    verified: false
+    hashtags: "#turkey, #fethiye, #lissiyahotel, #parachute"
+  - username: "tadimnotlari"
+    fullname: >-
+      tadimnotlari
+    bio: >-
+      TADİMNOTLARİ YOUTUBE KANALIMA DA BEKLİYORUM 
+    location: "Turkey"
+    followers: 170600
+    engagement: 500
+    commentsToLikes: 0.005345
+    id: ck9fwqt1d2ftl0j782fu82cvq
+    verified: false
+    hashtags: "#foodies, #foods, #tavuk, #seyhan"
+  - username: "sandavickrali"
+    fullname: >-
+      sandavickrali
+    bio: >-
+      Türkiyenin en ünlü hamburgercisi ++istanbul++
+    location: "Turkey"
+    followers: 117700
+    engagement: 551
+    commentsToLikes: 0.025996
+    id: ckbf5cv17ubvm0j23s20ogz9v
     verified: true
-    hashtags: "#sunset, #lapland, #icechallenge, #airbus"
-  - username: "zynp40zynp"
+    hashtags: "#mentalhareket, #tiktok, #hamburger, #agkgchallenge"
+  - username: "moondellaa"
     fullname: >-
-      zynp 
+      Mahfam
+    bio: >-
+      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
     location: "Turkey"
-    followers: 188752
-    engagement: 1370
-    commentsToLikes: 0.106630
-    id: ck9fwqz222hnv0j78j5xtaiyy
+    followers: 206700
+    engagement: 436
+    commentsToLikes: 0.016493
+    id: ck9r8i9o1cel50j783ykaic9r
     verified: false
-    hashtags: "#ramazanh, #ramadan, #istanbul, #azerbeycan"
-  - username: "enesfilm"
+    hashtags: "#istanbul, #love, #couplecomedy, #comedy"
+  - username: "agababadoner"
     fullname: >-
-      ENESFİLM
+      Agababadoner
+    bio: >-
+      📍 Esenşehir Mahallesi Natoyolu caddesi no 229 Ümraniye -İstanbul ☎️02164206262
     location: "Turkey"
-    followers: 14225
-    engagement: 265
-    commentsToLikes: 0.026477
-    id: ck9f1grh47xz90j78fnsmius0
+    followers: 30300
+    engagement: 670
+    commentsToLikes: 0.017509
+    id: ckblqokb4i3x10j230bvp8y1d
     verified: false
-    hashtags: "#babyvideos, #foodlove, #evhan, #yemekyap"
-  - username: "katmercibey"
+    hashtags: "#doner, #agababad, #tatl, #kaday"
+  - username: "himmetpolatt"
     fullname: >-
-      Katmercibey
+      Ağababa 
+    bio: >-
+      İstanbul ümraniye imes b kapısı karşısında
     location: "Turkey"
-    followers: 33850
-    engagement: 445
-    commentsToLikes: 0.015127
-    id: ck8kcvvu235n20j78tjmx6spd
+    followers: 264900
+    engagement: 398
+    commentsToLikes: 0.010863
+    id: ckbkqekjgkral0j23ejivowdd
     verified: false
-    hashtags: "#hashtag, #video, #eglen, #sislove"
-  - username: "gurmebaba"
+    hashtags: "#kuzu, #pilav, #food, #kebap"
+  - username: "mr.taster"
     fullname: >-
-      Gurme Baba
+      mr.taster
+    bio: >-
+      Foodcritic loving food and travel😍❤️🕺🏾👌
     location: "Turkey"
-    followers: 2367
-    engagement: 122
-    commentsToLikes: 0.026972
-    id: cka6bl91a0p4m0i78p0n0l9m5
+    followers: 101800
+    engagement: 363
+    commentsToLikes: 0.010392
+    id: cka63t2ov5tz80i78dlb8v54n
     verified: false
-    hashtags: "#ekmek, #banana, #boza, #track"
+    hashtags: "#iran, #food, #foodlover, #kebab"
+  - username: "musi2311"
+    fullname: >-
+      Musallam مسلّم
+    bio: >-
+      فنان تشكيلي وصانع محتوى painter and Content maker
+    location: "Turkey"
+    followers: 46200
+    engagement: 420
+    commentsToLikes: 0.026320
+    id: ckbwebv1j1iol0j23qbn6irt9
+    verified: false
+    hashtags: "#istiklal, #madametussauds, #turkey, #tiktok"
 ---

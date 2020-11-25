@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Toronto In 2020
 description: >-
-  Find top vegan TikTok influencers in Toronto in 2020. Most popular hashtags: #vegan #gotthisforyou #greenscreen #coronavirus.
+  Find top vegan TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #vegan #toronto #healthy.
 platform: TikTok
+hits: 10
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 10 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "manylights"
+  - username: "sage_shah"
     fullname: >-
-      ManyLights
+      sage
+    bio: >-
+      b nice to the planet 🌎💚
     location: "Canada"
-    followers: 14030
-    engagement: 676
-    commentsToLikes: 0.131493
-    id: cka0yv5ascs7c0i780czvub5n
+    followers: 19600
+    engagement: 750
+    commentsToLikes: 0.027009
+    id: ckd65o6yi2w780j23zp1385sm
     verified: false
-    hashtags: "#food, #calisthenics, #southindia, #tamil"
-  - username: "katesearly"
+    hashtags: "#tiktokdance, #xyzbca, #fyp, #chacha"
+  - username: "edenthefoodie"
     fullname: >-
-      Kate Earley
+      Edenthefoodie
+    bio: >-
+      Food+Culture 👩🏾‍🍳 🇪🇹 Ethio cookbook drops soon 👉🏾 Insta @EdentheFoodie
     location: "Canada"
-    followers: 26079
-    engagement: 482
-    commentsToLikes: 0.037853
-    id: ck8qixg6naxz40j786qbyy7mo
+    followers: 11100
+    engagement: 574
+    commentsToLikes: 0.019171
+    id: ck9v26ijik7t00j78ps9f0qm3
     verified: false
-    hashtags: "#ditl, #gotthisforyou, #mcmaster, #carelton"
-  - username: "familyfunfulltime"
+    hashtags: "#ethiopianfood, #blackowned, #blackfoodie, #fyp"
+  - username: "healthy.tasty"
     fullname: >-
-      familyfunfulltime
+      Healthy & tasty
+    bio: >-
+      🇨🇦Toronto 🇨🇦
     location: "Canada"
-    followers: 3985
-    engagement: 446
-    commentsToLikes: 0.040283
-    id: ckammbdp4zqz90i78d11l8bbq
+    followers: 13800
+    engagement: 498
+    commentsToLikes: 0.014747
+    id: ckd0b7knjc8zt0j232at7xbvo
     verified: false
-    hashtags: "#blessed, #beatifulday, #healthy, #newchallege"
+    hashtags: "#tiktokfood, #healthy, #learnontiktok, #homerecipe"
+  - username: "alyssafontainerd"
+    fullname: >-
+      Alyssa Fontaine RD
+    bio: >-
+      Registered Dietitian RD🤙🇨🇦 Plant-Based🌱 All Recipes ✍️ on IG Food Freedom✌️
+    location: "Canada"
+    followers: 62300
+    engagement: 841
+    commentsToLikes: 0.035584
+    id: ckdi7lrxy9l840j23yas7vbmy
+    verified: false
+    hashtags: "#easyvegan, #dietitiansoftiktok, #dietitian, #easyveganrecipe"
+  - username: "jaclyn.forbes"
+    fullname: >-
+      Jaclyn Forbes
+    bio: >-
+      i paint faces, eat plants, and interview people WATCH MY LATEST YOUTUBE VID👇🏼
+    location: "Canada"
+    followers: 76900
+    engagement: 1177
+    commentsToLikes: 0.021708
+    id: ckb9uyzd3u1px0j23fvckl4km
+    verified: false
+    hashtags: "#vegan, #duet, #problemsolved, #makeupartist"
+  - username: "everything_delish"
+    fullname: >-
+      Jamie Milne
+    bio: >-
+      recipes & more👇 FOLLOW MY IG: @everything_delish (245k+) RECIPES ON IG & BLOG⚡️
+    location: "Canada"
+    followers: 668100
+    engagement: 787
+    commentsToLikes: 0.009110
+    id: ck8z2w7zq75ur0j78efp72ao1
+    verified: true
+    hashtags: "#healthy, #eggs, #halloweenishere, #tiktokfood"
+  - username: "hennabyramnik1"
+    fullname: >-
+      Ramnik Kaur
+    bio: >-
+      Henna Artist + Nail Tech during the day - Chef by night!
+    location: "Canada"
+    followers: 7704
+    engagement: 347
+    commentsToLikes: 0.013030
+    id: ckc35jmt9uqif0j23k4g7kd92
+    verified: false
+    hashtags: "#massi, #indian, #love, #babygirl"
   - username: "mayobros"
     fullname: >-
       John and Brad
+    bio: >-
+      We’ll teach you to be fit and flexible! Link below with a video with more info!
     location: "Canada"
-    followers: 618354
-    engagement: 1797
-    commentsToLikes: 0.010693
+    followers: 618700
+    engagement: 1718
+    commentsToLikes: 0.009820
     id: ck806y32qmz7i0j78c1ni1arg
     verified: false
-    hashtags: "#daredevil, #ladygaga, #falling, #biohack"
-  - username: "saintvrow"
-    fullname: >-
-      V
-    location: "Canada"
-    followers: 5429
-    engagement: 960
-    commentsToLikes: 0.071042
-    id: ck9go0miryzzx0j78za013s6z
-    verified: false
-    hashtags: "#2010, #gotthisforyou, #skincarebyhyram, #nails"
+    hashtags: "#fail, #workout, #tiktokcanada, #cold"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
+    bio: >-
+      43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3082
-    engagement: 665
-    commentsToLikes: 0.088788
+    followers: 3139
+    engagement: 653
+    commentsToLikes: 0.084134
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#waterfall, #thatssotiktok, #nomodel, #highlightreel"
-  - username: "elie.fourchette"
+    hashtags: "#yoga, #foryou, #travel, #foryoupage"
+  - username: "thefitfatale"
     fullname: >-
-      elie.fourchette
+      Samantha Cutler
+    bio: >-
+      Fashion | Clean Eating | Hair Hacks Tech founder & influencer Follow my IG💕
     location: "Canada"
-    followers: 19798
-    engagement: 1869
-    commentsToLikes: 0.048444
-    id: ck9bxqib3mq550j78sv5qhynv
+    followers: 16200
+    engagement: 495
+    commentsToLikes: 0.029475
+    id: ckbeym7goj4a40j238zex4lon
     verified: false
-    hashtags: "#mwah, #veganfood, #foodrecepie, #nofilter"
-  - username: "alexanderbischoff1"
-    fullname: >-
-      Alexander Bischoff
-    location: "Canada"
-    followers: 29290
-    engagement: 1983
-    commentsToLikes: 0.018986
-    id: ck807cmtgpvdw0j78unh4ff7v
-    verified: false
-    hashtags: "#allorganic, #familyday, #gymtime, #milk"
-  - username: "findbex"
-    fullname: >-
-      Bex 
-    location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
-    id: ck961zc8romyz0j78v1axqnn5
-    verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "jon_thevegan"
-    fullname: >-
-      Jonathan_Shopik
-    location: "Canada"
-    followers: 10334
-    engagement: 586
-    commentsToLikes: 0.062732
-    id: ck8074594ok6p0j78bktsw0lx
-    verified: false
-    hashtags: "#lockdown, #feminst, #physio, #virus"
+    hashtags: "#learnontiktok, #vegetarian, #cleaneating, #whatieat"
 ---

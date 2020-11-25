@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In 2020
 description: >-
-  Find top fitness TikTok influencers in 2020. Most popular hashtags: #duet #helpme #abworkout #houseoftiktok.
+  Find top fitness TikTok influencers in 2020. Most popular hashtags: #fyp #foryoupage #foryou #fitness.
 platform: TikTok
+hits: 6690
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 6690 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "richydimov"
-    fullname: >-
-      Richy Dimov
-    location: "United States"
-    followers: 105193
-    engagement: 1271
-    commentsToLikes: 0.047457
-    id: ck9rndpfd74tx0j78id9xevjg
-    verified: true
-    hashtags: "#fitness"
   - username: "insidefitness"
     fullname: >-
       Fitness
+    bio: >-
+      Fitness, Influencer Thank you for 1 Million ❤️
     location: "India"
-    followers: 70884
-    engagement: 1375
-    commentsToLikes: 0.010091
+    followers: 69800
+    engagement: 1121
+    commentsToLikes: 0.011140
     id: ckacstltubo080i78gn4zdffv
     verified: false
-    hashtags: "#helpme, #follow, #cuteornot, #download"
+    hashtags: "#foryourpage, #staypositive, #like, #eidmubarak"
+  - username: "fitness"
+    fullname: >-
+      fitness
+    bio: >-
+      The official @fitness community!💪 Follow for more workouts!🏋️‍♂️ by @Squats
+    location: "United States"
+    followers: 246200
+    engagement: 505
+    commentsToLikes: 0.007495
+    id: ckbb1sa6us5u20j23qu23dv7k
+    verified: false
+    hashtags: "#foryou, #foryoupage, #fyp, #fitness"
+  - username: "justakayday"
+    fullname: >-
+      Kay Mejia
+    bio: >-
+      Nerd...26...Fitness You’re never alone! 🖤
+    location: "United States"
+    followers: 15000
+    engagement: 2468
+    commentsToLikes: 0.206930
+    id: ckbace1l04urc0j23dv1mpj5m
+    verified: false
+    hashtags: "#warzone, #fyp, #cod, #mentalhealthmatters"
   - username: "_ashletix_"
     fullname: >-
       Ashletix
+    bio: >-
+      INSTA: @_ASHLETIX_ Fitness 💪 Travel 🌍 Acrobatics 🤸‍♀️ Travelled 30 countries
     location: "France"
-    followers: 7994
-    engagement: 2202
-    commentsToLikes: 0.134124
+    followers: 10900
+    engagement: 2193
+    commentsToLikes: 0.079862
     id: ck9flwj4sqaq00j78zp1nd82e
     verified: false
-    hashtags: "#islandhopping, #personaltrainer, #corechallenge, #happyhamstrings"
-  - username: "tatted_mama81"
+    hashtags: "#perte, #paravoce, #pourtoipage, #foryoupage"
+  - username: "jasonstotz"
     fullname: >-
-      Sheri Lafond
-    location: "Canada"
-    followers: 4752
-    engagement: 2072
-    commentsToLikes: 0.137322
-    id: ckajax0vqkz5j0i783v40iann
-    verified: false
-    hashtags: "#roadto5k, #beweird, #21questions, #boymom"
-  - username: "kaoticmovement"
-    fullname: >-
-      kaoticmovement
-    location: "United Kingdom"
-    followers: 37164
-    engagement: 1952
-    commentsToLikes: 0.045479
-    id: cka0yn7i2bx3t0i78l7cms4oy
-    verified: false
-    hashtags: "#cartwheels, #sunshine, #fake, #forwardroll"
-  - username: "artidangwalss"
-    fullname: >-
-      Arti Dangwalss
-    location: "India"
-    followers: 3452
-    engagement: 4140
-    commentsToLikes: 0.068622
-    id: ck9ejlcbt39am0j78onk0vcxn
-    verified: false
-    hashtags: "#holidaymode, #luvher, #luvtomakevideos, #butitstrue"
-  - username: "mikecarlucci_"
-    fullname: >-
-      Mike
+      Jason Stotz
+    bio: >-
+      Wellness and Fitness Coach CEO of ‘The River’ Dance Sexy, Silly, Spiritual
     location: "United States"
-    followers: 94757
-    engagement: 2049
-    commentsToLikes: 0.066301
-    id: ck9shzx4sw8cv0j780tl40ulg
+    followers: 99700
+    engagement: 1975
+    commentsToLikes: 0.037503
+    id: ckc8ae8ak75te0j23dwky6hds
     verified: false
-    hashtags: "#dream, #storytime, #bo2, #6ix9ine"
-  - username: "livvylaalaa"
+    hashtags: "#bluewave, #redbulldanceyourstyle, #byedon, #biden2020"
+  - username: "jyamsyangtan"
     fullname: >-
-      Livvy fowler
-    location: "United Kingdom"
-    followers: 21490
-    engagement: 1803
-    commentsToLikes: 0.085170
-    id: ck8scox5wc2pw0j78p2aud2of
-    verified: true
-    hashtags: "#stayingalive, #boredvibes, #safehands, #meow"
-  - username: "lexdamon"
+      #Jyam syangtan #ज्याम स्याङ्तन
+    bio: >-
+      🙏zumba fitness ,strong by zumba,aerobic trainer, dance choreographer #jyamlama8
+    location: "Nepal"
+    followers: 5332
+    engagement: 3142
+    commentsToLikes: 0.070978
+    id: ckc8izn0wcj020j23opqtg9z2
+    verified: false
+    hashtags: "#foruu, #dancemusmusic, #foryoupage, #nepalimusic"
+  - username: "mackenzie_epperson"
     fullname: >-
-      Alexis Damon
+      Mackenzie
+    bio: >-
+      Mama to Oakley Health, fitness, motherhood Liquid IV link
     location: "United States"
-    followers: 22058
-    engagement: 1595
-    commentsToLikes: 0.059038
-    id: ck9njith7hmr20j78izgy26et
+    followers: 68900
+    engagement: 2129
+    commentsToLikes: 0.038414
+    id: ckb9noodbhk8q0j2365iginqq
     verified: false
-    hashtags: "#sisterfights, #happymothersday, #workoutathome, #positivemessage"
-  - username: "fitkage"
+    hashtags: "#veganfoodie, #vegan, #fypp, #fitmamas"
+  - username: "tigress_8199"
     fullname: >-
-      Hunter 
+      Amanda ✌️💕
+    bio: >-
+      💪 fitness 💕 family 😜 friends 😈 thirst
     location: "United States"
-    followers: 237311
-    engagement: 1650
-    commentsToLikes: 0.025988
-    id: ck8owc35ax52b0j7857h7km6s
+    followers: 19400
+    engagement: 1825
+    commentsToLikes: 0.111764
+    id: ckc34vnplu4v00j2367l1655m
     verified: false
-    hashtags: "#akatsuki, #fitness, #headband, #netero"
+    hashtags: "#trump2020, #challengeyourself, #beatdrop, #duet"
+  - username: "dougwright5"
+    fullname: >-
+      Doug Wright
+    bio: >-
+      Single dad of 3 amazing boys! Love fitness and positivity! Venmo Doug-Wright-42
+    location: "United States"
+    followers: 69700
+    engagement: 1798
+    commentsToLikes: 0.087864
+    id: ckb1cqgnu1gjs0j23n89mzs5l
+    verified: false
+    hashtags: "#loveyall, #blueyes, #positivity, #liftupothers"
+  - username: "lobos_austintx_realtor"
+    fullname: >-
+      Neil
+    bio: >-
+      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
+    location: "United States"
+    followers: 5672
+    engagement: 1732
+    commentsToLikes: 0.284642
+    id: ckbatpudxkb4z0j23681zq86x
+    verified: false
+    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
 ---

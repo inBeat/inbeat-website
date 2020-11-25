@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Norway In 2020
 description: >-
-  Find top bloggers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #bloggerstyle #teamborg #breakfast.
+  Find top bloggers Instagram influencers in Norway in 2020. Most popular hashtags: #blogger #fashion #norway.
 platform: Instagram
+hits: 22
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 22 Instagram influencers like this in Norway for you to collaborate.
 profiles:
+  - username: "sofieenilsen"
+    fullname: >-
+      Sofie Caroline Nilsen
+    bio: >-
+      👻 Sofieeec 📍 Norway | LA ✉️ sofie_karoline@hotmail.com ⌨️ Post@adsales.no / @adsalesnorge 💗 Blogger, TV - personality & Youtuber
+    location: "Norway"
+    followers: 93650
+    engagement: 556
+    commentsToLikes: 0.159820
+    id: ck6tw1iggpgz90j71pmye10p1
+    verified: true
+    hashtags: "#iceno, #iceung"
   - username: "anjacatrine"
     fullname: >-
-      anja catrine 🐉🦋
+      𝑨𝑵𝑱𝑨 𝑪𝑨𝑻𝑹𝑰𝑵𝑬 𝑽𝑬𝑵𝑨̊𝑺
+    bio: >-
+      a little nerd in oslo • retired blogger [@xanjac] lol • 𝒔𝒐𝒄𝒊𝒂𝒍 𝒎𝒆𝒅𝒊𝒂 𝒆𝒙𝒑𝒆𝒓𝒕 @ 𝒔𝒕𝒐𝒓𝒊𝒆𝒔 𝒎𝒆𝒅𝒊𝒂 •
     location: "Norway"
-    followers: 3343
-    engagement: 1518
-    commentsToLikes: 0.072824
+    followers: 3911
+    engagement: 1027
+    commentsToLikes: 0.092186
     id: ck6u5drqa91l50j71uecex4mo
     verified: false
-    hashtags: "#teamborg, #bjornborg, #hunbitchenergal"
-  - username: "pilotfrue"
-    fullname: >-
-      J u l i a n n e  N y g å r d
-    location: "Norway"
-    followers: 52669
-    engagement: 326
-    commentsToLikes: 0.012109
-    id: ck55lug2d2gjm0i11n2bxargp
-    verified: false
-    hashtags: "#ellosactionlist, #morsdag, #blomsterbryllupsdag, #julianneogulrik"
-  - username: "kristingjelsvik"
-    fullname: >-
-      Kristin Gjelsvik
-    location: "Norway"
-    followers: 199794
-    engagement: 345
-    commentsToLikes: 0.077636
-    id: ck5cctkmphzn90i11n4mcrpra
-    verified: true
-    hashtags: "#krynorge, #teamgalaxy, #withgalaxy, #kondomeriet"
+    hashtags: "#ootd, #norway, #bunad, #festdrakt"
   - username: "akam1k3"
     fullname: >-
       m1k3chemical romance🎈
+    bio: >-
+      Award winning blogger 😂// @alsoknownas__ // ENDELIG NY EPISODE AV AJJAR&MIKE!! ❤️❤️❤️ ⬇️⬇️⬇️
     location: "Norway"
-    followers: 46249
-    engagement: 402
-    commentsToLikes: 0.008898
+    followers: 47158
+    engagement: 439
+    commentsToLikes: 0.010714
     id: ck55lxcjk2nyr0i11877q6218
     verified: false
-    hashtags: "#adidasrunning, #airwavesmov, #whatmikesayear, #mikeithappen"
+    hashtags: "#annonse, #mikeithappen"
   - username: "angelikasverdrup"
     fullname: >-
       Angelika S. 🇳🇴
+    bio: >-
+      🌍Exploring the world with running shoes on🏃🏼‍♀️ 🏅Marathon x 11 @HOKAONEONE_EU @shadesofnorway @run4.no 💻Blogger on Runners World:
     location: "Norway"
-    followers: 6656
-    engagement: 503
-    commentsToLikes: 0.042985
+    followers: 6952
+    engagement: 511
+    commentsToLikes: 0.037729
     id: ck13atkhxs47b0i19g2j21f6t
     verified: false
-    hashtags: "#molnesfjellet, #gamlemsveten, #medalmonday, #coronavirus"
+    hashtags: "#tilhimmels, #mounteverest, #covid, #aksla"
   - username: "daniiblogg"
     fullname: >-
       Daniela Izaguirre
+    bio: >-
+      Photo album 👨‍👩‍👧‍👧💖📸 Blogger|Estilo de vida|ideas para fotos📸 📍🇻🇪viviendo en Noruega 🇳🇴 📸#mamarazzi de❤️ 👇🏼click aquí para obtener mis preset😍👇🏼
     location: "Norway"
-    followers: 8166
-    engagement: 597
-    commentsToLikes: 0.106255
+    followers: 9837
+    engagement: 605
+    commentsToLikes: 0.166777
     id: ck5hgdcar26tt0i11e0mrrxfl
     verified: false
-    hashtags: "#papaluchon, #mamajovenfeliz, #outfits, #conejodepascua"
+    hashtags: "#coleccionandomomentos, #halloween, #babygirl, #fashionstyle"
+  - username: "pureelisabeth_"
+    fullname: >-
+      INTERIOR & FASHION STYLIST
+    bio: >-
+      Elisabeth Halbjørhus 🤍 Freelance Influencer & blogger 🤍 Content creator/Photography 🤍 Garden lover 🤍 Trend enthusiast Blog 👇🏻
+    location: "Norway"
+    followers: 39083
+    engagement: 76
+    commentsToLikes: 0.246415
+    id: ck5bzscqurqwd0i11by906bjp
+    verified: false
+    hashtags: "#julen2020, #julepynt, #bad, #badrum"
   - username: "vibekedesign"
     fullname: >-
       Vibeke Svenningsen
+    bio: >-
+      Norwegian blogger ~Stylist/Fotograf
     location: "Norway"
-    followers: 132869
-    engagement: 189
-    commentsToLikes: 0.022721
+    followers: 139031
+    engagement: 236
+    commentsToLikes: 0.020828
     id: ck8sy1b9bjdzu0j78vnp8xi7p
     verified: false
-    hashtags: ""
-  - username: "kamilla_thorsen"
+    hashtags: "#lantliv, #countryhomesandgardens, #october, #vibekedesign"
+  - username: "teodorasandorofficial"
     fullname: >-
-      • KAMMY •
+      FASHION | BEAUTY | LIFESTYLE
+    bio: >-
+      📍 AUSTRIAN | ROMANIAN from the 90's 📩 Open for Collaborations
     location: "Norway"
-    followers: 13015
-    engagement: 935
-    commentsToLikes: 0.122316
-    id: ckaosvp25t81a0i786mqcaghb
+    followers: 28171
+    engagement: 361
+    commentsToLikes: 0.212974
+    id: ck5hg9smj1o4r0i118imnp8m8
     verified: false
-    hashtags: "#norway, #fashiongrammer, #ootd, #springlooks"
-  - username: "heidiandjorn"
+    hashtags: "#instagood, #hudabeauty, #blogger, #lifestyle"
+  - username: "nyquist_home"
     fullname: >-
-      HEIDI ♡ JORN
+      Lill-Anita Nyquist
+    bio: >-
+      Gift og mamma til 3 gutter 🤍 Fotograf 📸 Byggestart høsten 2020 av vårt råkule funkishus ved Oslofjorden 🌊🌅 TAG #delmeg Owner of @funkisbloggen
     location: "Norway"
-    followers: 6085
-    engagement: 870
-    commentsToLikes: 0.066678
-    id: ck0u7h8044o5j0i19u5qijq83
+    followers: 81472
+    engagement: 127
+    commentsToLikes: 0.248487
+    id: ck0uajdd2cdhe0i19jo1to3yj
     verified: false
-    hashtags: "#big30, #udhiana, #shanghai, #finseanorakk"
-  - username: "iamkaluma"
+    hashtags: "#modernehjem, #bolig, #house, #modernhouse"
+  - username: "ingridivarson"
     fullname: >-
-      Kaluma Vanessa
+      Ingrid Suhr Olsen
+    bio: >-
+      Norwegian living in Copenhagen🇳🇴🇩🇰 Welcome to my world of feminine & elegant fashion, interior design and travelling👗🏡✈️ ✉️ ingridivarson@hotmail.com
     location: "Norway"
-    followers: 2729
-    engagement: 1057
-    commentsToLikes: 0.065694
-    id: ckaotr3zcx4el0i78lmkphgtw
+    followers: 10167
+    engagement: 579
+    commentsToLikes: 0.071654
+    id: ck0vwbsv4szr10i192bnfjexo
     verified: false
-    hashtags: "#longhair, #summer, #travel, #winter"
+    hashtags: "#elegantwomen, #ootdfashion, #tallboots, #styleinspo"
 ---

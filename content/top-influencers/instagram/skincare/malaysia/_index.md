@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top skincare Instagram influencers in Malaysia in 2020. Most popular hashtags: #skincare #coronavirus #covid #beauty.
+  Find top skincare Instagram influencers in Malaysia in 2020. Most popular hashtags: #skincare #ootd #throwback.
 platform: Instagram
+hits: 89
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 89 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "ken_doll_dubaiii"
+  - username: "ishanorsham"
     fullname: >-
-      Adnan Zafar🧿
+      𝗜𝘀𝗵𝗮 𝗡𝗼𝗿𝘀𝗵𝗮𝗺
+    bio: >-
+      🎥 Tv Host/Content Creator 🤍 Travel,Food,Tiktok,Emceeing,Fitness,Skincare 📩 Business/Collaboration/Review
     location: "Malaysia"
-    followers: 36187
-    engagement: 159
-    commentsToLikes: 0.386909
-    id: ck9wgdlsxsyfu0j78x13l2lwd
+    followers: 38134
+    engagement: 324
+    commentsToLikes: 0.042789
+    id: ck5bwklj4lvu10i11rjmojut1
     verified: false
-    hashtags: "#blue, #vegan, #convid19, #dubailife"
-  - username: "maisarahmahmud"
+    hashtags: "#dwinmy, #pomelofashion, #klairsmy, #sale"
+  - username: "yoyoyotang"
     fullname: >-
-      Maisarah Mahmud
+      𝒀𝒐𝒚𝒐 𝑻𝒂𝒏𝒈
+    bio: >-
+      Job enquiry: yoyoyotang@gmail.com #yoyotangstyle #yomamidiary @hailie.baebae Yᴏᴜᴛᴜʙᴇ ɴᴇᴡ ᴠɪᴅᴇᴏ: 我的日夜全方位護膚保養｜MY SKINCARE ROUTINE 2020
     location: "Malaysia"
-    followers: 109566
-    engagement: 788
-    commentsToLikes: 0.008575
-    id: ck5bwnzncm2gs0i111nojtbjn
+    followers: 31094
+    engagement: 171
+    commentsToLikes: 0.020902
+    id: ck0u75axr3tj00i1985czgara
     verified: false
-    hashtags: ""
+    hashtags: "#yomamidiary, #ootd, #snap, #yoyotangstyle"
+  - username: "_faizfarhaah"
+    fullname: >-
+      Farhana Azad Jhimi  🇧🇩
+    bio: >-
+      🛡To be Biochemist 💉 🛡Ex ISCian 🎓 🔹Fashion // Skincare // Review 🔹DM for Paid collaboration // PR // Shoot 💌
+    location: "Malaysia"
+    followers: 10246
+    engagement: 531
+    commentsToLikes: 0.272426
+    id: ckf5wpwh9susy0j23jfcyhz23
+    verified: false
+    hashtags: "#ad, #dhakagraam, #dhakagirls, #bdblogger"
   - username: "skincareaddictmy"
     fullname: >-
       Faie
+    bio: >-
+      38 Skincare Diary Combination skin, PIH, Whiteheads 🇲🇾 👇 My code for 30% @frmadcos SKINCAREADDICTMY
     location: "Malaysia"
-    followers: 25925
-    engagement: 392
-    commentsToLikes: 0.159275
+    followers: 26822
+    engagement: 245
+    commentsToLikes: 0.265998
     id: ck14ipxbbgn3a0i197anao5pc
     verified: false
-    hashtags: "#beautycommunity, #middayroutine, #clarifique, #skincarereview"
+    hashtags: "#faiestash, #bluetok, #faieskincareroutine, #skincarereview"
   - username: "putry_mohd"
     fullname: >-
       PUTERI NURUL FADHILA 🕊
+    bio: >-
+      ▫️DM for paid/gift review Founder of @swarovskiscarf_hq 💎 Fav perfume @pnp_perfume_hq 🍒 Pengguna setia @numi.skincare 🍏 Wssp for order tudung 👇🏻
     location: "Malaysia"
-    followers: 275076
-    engagement: 1010
-    commentsToLikes: 0.004170
+    followers: 283837
+    engagement: 592
+    commentsToLikes: 0.003796
     id: ck6u2dr0pr8910j715huylkk0
     verified: false
-    hashtags: "#numigang, #babypf"
+    hashtags: "#bawalpapilis, #bawalputrymohd, #numigang, #babypf"
+  - username: "nabellaanuar"
+    fullname: >-
+      Belle.
+    bio: >-
+      👩🏻‍💻 Director of @kaymanbeautyhq 🐰 Amirrul Siddiq’s cheeky bunny 🐝 Skincare | Beauty | Clothes | Travel 📲 nasyitah@kaymanbeauty.com | 019-7722921 (PA)
+    location: "Malaysia"
+    followers: 29330
+    engagement: 663
+    commentsToLikes: 0.013224
+    id: ckap7jpl8kcyv0i78jsfhe1ip
+    verified: false
+    hashtags: "#sheetmaskraya, #ootd, #kaymantreasurehunt, #stayathome"
   - username: "muniramdiwan"
     fullname: >-
       ͏putey
+    bio: >-
+      Strictly no paid or gift skincare / supplement review
     location: "Malaysia"
     followers: 148560
     engagement: 174
     commentsToLikes: 0.016780
     id: ck6u10sosivmh0j71w8lujszt
     verified: false
-    hashtags: "#kudat, #covid, #ournewfavpicturespot, #iranun"
-  - username: "a.helmiy"
+    hashtags: "#anggunborneo, #ekstremwalaitokou, #rtm, #kudat"
+  - username: "ken_doll_dubaiii"
     fullname: >-
-      
+      Adnan Zafar🧿
+    bio: >-
+      1st 🇵🇰 Ken Doll 📍🇦🇪 Fashion ° Skincare ° Food Throwing kindness around like confetti.
     location: "Malaysia"
-    followers: 15467
-    engagement: 829
-    commentsToLikes: 0.036267
-    id: ck0w5h7td3muv0i19xmzsjf0d
+    followers: 57361
+    engagement: 107
+    commentsToLikes: 0.371163
+    id: ck9wgdlsxsyfu0j78x13l2lwd
     verified: false
-    hashtags: "#dashu, #japan, #coffee, #2020yummysalad"
-  - username: "its_fama"
+    hashtags: "#mydubai, #foodporn, #foodie, #lifeofkendoll"
+  - username: "dionbeautemalaysia"
     fullname: >-
-      Fatima
+      D I O N  B E A U T E ™
+    bio: >-
+      M A L A Y S I A Skincare-Makeup Hybrid Brand. Vegan. Cruelty Free. Dermatologically Tested SHOP NOW ⤵
     location: "Malaysia"
-    followers: 16928
-    engagement: 315
-    commentsToLikes: 0.125926
-    id: ck8t4eqqz6iuu0j78g7tw59ry
+    followers: 20524
+    engagement: 209
+    commentsToLikes: 0.006363
+    id: ck14ju5wam7c20i19wjzcfrb1
     verified: false
-    hashtags: "#cultureindian, #deepcleansing, #black, #serum"
-  - username: "applechuaa"
+    hashtags: "#bbdaretoshare, #makeupfanatic1, #muasarawak, #motd"
+  - username: "tiffanylengy"
     fullname: >-
-      ᎪᏢᏢᏞᎬ ᏟᎻᏌᎪ™
+      Lengy | 링이
+    bio: >-
+      P̶E̶A̶C̶E̶M̶I̶N̶U̶S̶O̶N̶E̶ 📩 tiffanylengy89@gmail.com
     location: "Malaysia"
-    followers: 19637
-    engagement: 552
-    commentsToLikes: 0.031987
-    id: ck6twwa1pugo90j71rnqthxq3
+    followers: 32481
+    engagement: 383
+    commentsToLikes: 0.018426
+    id: ckaou37k4ylde0i78xpqa7899
     verified: false
-    hashtags: "#betagan, #drink, #toner, #huaweimobile"
-  - username: "snenbdm"
-    fullname: >-
-      Emaleen Minhad (Official)
-    location: "Malaysia"
-    followers: 190135
-    engagement: 716
-    commentsToLikes: 0.002938
-    id: ck0tv5rdba1ze0i19oxnzc84b
-    verified: false
-    hashtags: "#skincare, #azam2020, #meletop, #stayhome"
-  - username: "zoe_aw"
-    fullname: >-
-      Zoe Aw淑怡
-    location: "Malaysia"
-    followers: 22624
-    engagement: 539
-    commentsToLikes: 0.022703
-    id: ckap50a5z9lz60i78pcgymlkj
-    verified: false
-    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
+    hashtags: "#drdouxi, #skincare, #staysafe, #drdouximalaysia"
 ---

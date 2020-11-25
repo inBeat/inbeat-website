@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Turkey In 2020
 description: >-
-  Find top fashion Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #fashionista #fashion #spring.
+  Find top fashion Instagram influencers in Turkey in 2020. Most popular hashtags: #reels #istanbul #fashion.
 platform: Instagram
+hits: 991
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 991 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "izgisimal"
+  - username: "gizemuzel_"
     fullname: >-
-      Şimal İzgi 🍒
+      Gizem Üzel
+    bio: >-
+      Beauty • Fashion • Lifestyle gomlekterujizi@gmail.com
     location: "Turkey"
-    followers: 2764
-    engagement: 2747
-    commentsToLikes: 0.133969
-    id: ckaot27amu1im0i78imlj088h
+    followers: 392534
+    engagement: 837
+    commentsToLikes: 0.129574
+    id: ck15r5qwm69ma0i197i2vtfss
     verified: false
-    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
-  - username: "enfaldiner"
+    hashtags: ""
+  - username: "bayan.32dis"
     fullname: >-
-      Enfal Diner
+      Ebru Güneş  🌼
+    bio: >-
+      Modest fashion / life&style 👗 Reklam & sponsorluk / dm 📩 Tiktok / 840.0K 📽
     location: "Turkey"
-    followers: 148270
-    engagement: 1918
-    commentsToLikes: 0.462020
-    id: ck6typy1d56fb0j717q83n76s
+    followers: 153732
+    engagement: 775
+    commentsToLikes: 0.073601
+    id: ck8wf3d9kf29r0j78lneszht1
     verified: false
-    hashtags: "#herkes, #hayat, #opporeno3pro"
-  - username: "eceetuncel"
+    hashtags: "#mont, #ya, #29ekimcumhuriyetbayram, #modanisa"
+  - username: "tiyatrolist"
     fullname: >-
-      Ece Tuncel
+      Gürkan Kaçmaz
+    bio: >-
+      Aviator👨🏻‍✈️ Travel | LifeStyle | Fashion Personal Consultant Styling Reklam ve İş birlikleri için DM📥
     location: "Turkey"
-    followers: 186838
-    engagement: 1773
-    commentsToLikes: 0.605199
-    id: ck5ca19fwcin50i11te28n4nr
+    followers: 13425
+    engagement: 1182
+    commentsToLikes: 0.080919
+    id: ckf5ttxg6irk50j237na50dj0
     verified: false
-    hashtags: "#ootd, #tbt, #yast, #stayhome"
-  - username: "ozlem.ozaydiin"
+    hashtags: "#americanstyle, #style, #fashion, #inspofashion"
+  - username: "ojebeni"
     fullname: >-
-      Ö 𝐙 𝐋 𝐄 𝐌   Ö 𝐙 𝐀 𝐘 𝐃 𝐈 𝐍
+      Beste Ç. - Oje İkonu
+    bio: >-
+      #oje 💅, saç💁‍♀️, moda👠 #nailart , hair&fashion🎀 E-mail: ojebeni@gmail.com #ojebeni Kişisel hesap @nbestec
     location: "Turkey"
-    followers: 14249
-    engagement: 1377
-    commentsToLikes: 0.112224
-    id: ck9wfl6vhpcc20j78ohgu3nuz
+    followers: 98360
+    engagement: 593
+    commentsToLikes: 0.580364
+    id: ck15rybfkabcp0i19hof0c69n
     verified: false
-    hashtags: "#summervibes, #gezginstagram, #oodt, #thebest"
+    hashtags: "#sa, #hediye, #flormarfullcolor, #cekilisvar"
+  - username: "muratkoksalart"
+    fullname: >-
+      Cappadocia Photographer
+    bio: >-
+      Wedding & Fashion Photographer 📸 Based in Cappadocia 🎈🇹🇷 Contact : +905397695214 Photographer| Retoucher 💻
+    location: "Turkey"
+    followers: 27793
+    engagement: 1058
+    commentsToLikes: 0.052968
+    id: ck5hsms8dwuhw0i11wlke04jm
+    verified: false
+    hashtags: "#cappadocia, #reels, #kapadokya, #muratkoksal"
+  - username: "tamershwaiter"
+    fullname: >-
+      Tamer Shwaiter|تامر شويطر
+    bio: >-
+      Moments of #fashion #lifestyle and #travel 🧭
+    location: "Turkey"
+    followers: 26572
+    engagement: 1017
+    commentsToLikes: 0.054148
+    id: ck5hrllznv2iz0i11wc3nrs7v
+    verified: false
+    hashtags: ""
   - username: "mayabasol"
     fullname: >-
       A S Y A & M A Y A  B A Ş O L
+    bio: >-
+      Influencer... Lifestyle | Trendsetter | Mom | Fashion Kids Account Managed By Parents @asyabasoll
     location: "Turkey"
-    followers: 197026
-    engagement: 615
-    commentsToLikes: 0.072396
+    followers: 238620
+    engagement: 523
+    commentsToLikes: 0.071916
     id: ck137l5f4c3fj0i19zcbknynz
     verified: false
-    hashtags: "#possitivevibes, #summer, #happybirthdaytome, #spring"
+    hashtags: "#purelove, #29ekimcumhuriyetbayram, #fashionista, #mustafakemalatat"
   - username: "busrayurtgul"
     fullname: >-
-      Büşra Yurtgül Neziroglulari
+      Büşra Yurtgül Neziroğluları
+    bio: >-
+      Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
     location: "Turkey"
-    followers: 249644
-    engagement: 590
-    commentsToLikes: 0.178358
+    followers: 270101
+    engagement: 476
+    commentsToLikes: 0.052961
     id: ck139k5xplpjy0i19x6soai4b
     verified: false
-    hashtags: "#styleoftheday, #today, #poolchallenge, #homeoutfit"
-  - username: "yoncacalli"
+    hashtags: "#reelsinstagram, #couple, #couplereels, #ipekyoldenim"
+  - username: "_tajana_j"
     fullname: >-
-      Yonca Calli
+      _tajana_j
+    bio: >-
+      📩 onlytajana.janjos@gmail.com @_fashion_store_fashion_store_ ❣️ @_fashion_store_serbia_ ❣️ @_kiara_by_nt ❣️
     location: "Turkey"
-    followers: 21274
-    engagement: 854
-    commentsToLikes: 0.089152
-    id: ck8td7tch29060j78vzjlhh1g
+    followers: 76460
+    engagement: 454
+    commentsToLikes: 0.045287
+    id: ck138o33kh6d90i19t1y5pm0l
     verified: false
-    hashtags: "#pinkdress, #gucci, #fashionbag, #goldbracelet"
-  - username: "iipekkcandan"
+    hashtags: "#perfectview, #novisad, #nisantasi, #turkey"
+  - username: "dua.mnalla"
     fullname: >-
-      ipek
+      Dua Mnalla Alrayess
+    bio: >-
+      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
     location: "Turkey"
-    followers: 20353
-    engagement: 770
-    commentsToLikes: 0.800914
-    id: ckaou0lq6y9hy0i787jjmwk4l
+    followers: 53147
+    engagement: 508
+    commentsToLikes: 0.054479
+    id: ckapaz0bay07a0i782q8gesvd
     verified: false
-    hashtags: "#stayhome"
-  - username: "parissa_saber"
-    fullname: >-
-      ParissaSaber|پريسا صابر
-    location: "Turkey"
-    followers: 444016
-    engagement: 483
-    commentsToLikes: 0.043436
-    id: ck0u63bf30wxa0i1968oi2lyg
-    verified: false
-    hashtags: "#1399, #decoration, #relax, #fashionblogger"
-  - username: "daniyalbashghareh"
-    fullname: >-
-      Photographer || دانیال باش قره
-    location: "Turkey"
-    followers: 52804
-    engagement: 472
-    commentsToLikes: 0.053363
-    id: ck9wh01nwvmm40j78ndl6lwby
-    verified: false
-    hashtags: "#photographer, #lover, #nikon, #gonbadkavus"
+    hashtags: "#saudiarabia, #usa, #hijab, #iraq"
 ---

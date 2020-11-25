@@ -1,97 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Indonesia In 2020
 description: >-
-  Find top health TikTok influencers in Indonesia in 2020. Most popular hashtags: #food #foryoupage #dirumahaja #fitness.
+  Find top health TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #duet #foryou #samasamabelajar.
 platform: TikTok
+hits: 31
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 31 TikTok influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "furryvid"
+  - username: "dr.mariojohan"
     fullname: >-
-      furryvid
+      dr.Joee
+    bio: >-
+      🇮🇩 Bali Health & Relationship Business Inquiry DM IG @joeandzie
     location: "Indonesia"
-    followers: 12525
-    engagement: 396
-    commentsToLikes: 0.003068
-    id: ck83x2u8snskf0j783qqnks7m
+    followers: 145800
+    engagement: 840
+    commentsToLikes: 0.028421
+    id: ckc3dxkofz6bv0j231wxmgj9k
     verified: false
-    hashtags: "#igdaily, #igers, #smile, #instasize"
-  - username: "startris_"
+    hashtags: "#samasamabelajar, #duet, #tiktokpintar, #kisahmistis"
+  - username: "lisadewiwood"
     fullname: >-
-      Bintang Trisna
+      Lisa Dewi
+    bio: >-
+      Healthy lifestyle addict
     location: "Indonesia"
-    followers: 83665
-    engagement: 842
-    commentsToLikes: 0.047453
-    id: ck9n56dxf6rb20j780pmzujz2
+    followers: 32800
+    engagement: 507
+    commentsToLikes: 0.045168
+    id: ckd0m7w4kglkc0j23rbg3atkg
     verified: false
-    hashtags: "#tips, #health, #cegahcorona, #2020"
-  - username: "tokopedia"
+    hashtags: "#beranda, #tips, #sehat, #fitmom"
+  - username: "alvina_tw"
     fullname: >-
-      Tokopedia Official
+      Alvina T. W.
+    bio: >-
+      Healthy & Vegetarian food cooking 👩‍🍳 l'm losing 28 kg IG: alvina_tw
     location: "Indonesia"
-    followers: 167716
-    engagement: 558
-    commentsToLikes: 0.017679
-    id: ckaik74b2i3ch0i789b658q6a
-    verified: true
-    hashtags: "#halloweekend, #belajarbareng, #suga, #headintheclouds"
-  - username: "diane.tass"
-    fullname: >-
-      D <3
-    location: "Indonesia"
-    followers: 8244
-    engagement: 702
-    commentsToLikes: 0.054175
-    id: cka65lg99dmcj0i789z1q9cm1
+    followers: 275100
+    engagement: 774
+    commentsToLikes: 0.007843
+    id: ckbl07ojawxs80j233of3xk3s
     verified: false
-    hashtags: "#momsoftiktok, #hoopsathome, #makeup, #90dayfiance"
-  - username: "fireee10"
+    hashtags: "#berbagifakta, #samasamaindonesia, #menudiet, #lebihdari1menit"
+  - username: "dayatt_photography"
     fullname: >-
-      Fireeee🔥🔥
+      Dayatt Photography
+    bio: >-
+      foto sama aku, yuk cek igku dayattphotography
     location: "Indonesia"
-    followers: 64627
-    engagement: 1022
-    commentsToLikes: 0.020808
-    id: ckacul1hzjf6u0i78ip6ktwyh
+    followers: 3941
+    engagement: 693
+    commentsToLikes: 0.088934
+    id: ckbqktmmf5yck0j23wa14ildl
     verified: false
-    hashtags: "#zoommyface, #hargatakjil, #classof2020, #healthylife"
-  - username: "positivlytunes"
+    hashtags: "#follow4follow, #likes, #musically, #instapic"
+  - username: "shinesim"
     fullname: >-
-      Tooneytunes 
+      simi
+    bio: >-
+      16 spread positive vibes
     location: "Indonesia"
-    followers: 7305
-    engagement: 273
-    commentsToLikes: 0.063936
-    id: ck81quvick2130j78sg350vg3
+    followers: 114500
+    engagement: 1477
+    commentsToLikes: 0.025946
+    id: ck9jzcwip88ce0j78rne29iso
     verified: false
-    hashtags: "#futuretech, #sharpie, #adventure, #strawberies"
-  - username: "gypsealust"
+    hashtags: "#fyp, #stopinsecure, #skincare, #pov"
+  - username: "edsaestella"
     fullname: >-
-      Lauren Bullen
+      Edsa Estella 👑
+    bio: >-
+      20🇮🇩 Everyone’s online sister. I act, dance, workout, & other awesome stuff.
     location: "Indonesia"
-    followers: 194962
-    engagement: 527
-    commentsToLikes: 0.018236
-    id: ck8ko3e2dfwev0j784f429jxt
-    verified: true
-    hashtags: "#casadepapel, #interiordesign, #netflix, #housetour"
-  - username: "angellia.putry"
-    fullname: >-
-      Angellia Putry
-    location: "Indonesia"
-    followers: 15971
-    engagement: 490
-    commentsToLikes: 0.010846
-    id: ckahy5qyly16f0i78anjv72sh
+    followers: 222700
+    engagement: 639
+    commentsToLikes: 0.030081
+    id: ckdtjmekfwvnf0j23mcgm5auv
     verified: false
-    hashtags: "#photoshootideas, #catchallege, #tiktokkucing, #aglioolio"
-  - username: "vallene"
+    hashtags: "#diet, #fyp, #duet, #yogurt"
+  - username: "wadahekylie"
     fullname: >-
-      val
+      𝓚𝔂𝓵𝓲𝓮 💫
+    bio: >-
+      i’m bad at maths
     location: "Indonesia"
-    followers: 122756
-    engagement: 773
-    commentsToLikes: 0.044045
-    id: ck83zq2u420jj0j78zpkfedte
+    followers: 2952
+    engagement: 833
+    commentsToLikes: 0.071405
+    id: ckb9imatz91d90j231z9t9loz
     verified: false
-    hashtags: "#fyp, #xyzbca, #duet"
+    hashtags: "#samasamabelajar, #xyzcba, #duet, #tiktokid"
+  - username: "byebyepipol"
+    fullname: >-
+      Jessica Olivia 🦋
+    bio: >-
+      let’s be happy!🌞💞 IG : jessicaoliivia
+    location: "Indonesia"
+    followers: 53200
+    engagement: 1104
+    commentsToLikes: 0.065401
+    id: ckbkx1xozsw1c0j231x1hn20b
+    verified: false
+    hashtags: "#xyzbca, #duet, #singing, #foryourpage"
+  - username: "awchrist"
+    fullname: >-
+      𝙗𝙪𝙠𝙖𝙣 𝙥𝙚𝙧𝙖𝙢𝙖𝙡✨
+    bio: >-
+      🇮🇩 23. Sagittarius♐️
+    location: "Indonesia"
+    followers: 46600
+    engagement: 851
+    commentsToLikes: 0.056293
+    id: ckcvjo6hsx54r0j23cr6xbb3b
+    verified: false
+    hashtags: "#zodiak, #zodiacs, #fyp, #zodiac"
+  - username: "budi01.gamingid"
+    fullname: >-
+      Budi01Gaming
+    bio: >-
+      SUBSCRIBE YT : BUDI01GAMING ⬇️ DIAMON GRATIS AMBIL DIBAWAH⬇️
+    location: "Indonesia"
+    followers: 22800
+    engagement: 764
+    commentsToLikes: 0.136830
+    id: ckdi0ggft5ky10j23n8wg96x7
+    verified: false
+    hashtags: "#insta, #berandaa, #amazing, #photooftheday"
 ---

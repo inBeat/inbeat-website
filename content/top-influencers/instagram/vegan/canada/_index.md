@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Canada In 2020
 description: >-
-  Find top vegan Instagram influencers in Canada in 2020. Most popular hashtags: #sponsored #blazerstyle #quarantine #traumarecovery.
+  Find top vegan Instagram influencers in Canada in 2020. Most popular hashtags: #nature #outdoors #love.
 platform: Instagram
+hits: 323
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 323 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "mr.benfield"
+  - username: "rafaelleroy"
     fullname: >-
-      Matt Benfield
+      Ⓥ Rafaëlle Roy ॐ
+    bio: >-
+      Singer-songwriter, vegan 🌻 #BlackLivesMatter 💌 collabs: rafaelle@kovalmarketing.com
     location: "Canada"
-    followers: 99276
-    engagement: 444
-    commentsToLikes: 0.044640
-    id: ck5q958539gd40i1116b7s9xx
-    verified: false
-    hashtags: "#bulldogambassador, #nintendoswitch, #bumble, #bumblepartner"
-  - username: "the.greener.good"
-    fullname: >-
-      kristen mandala
-    location: "Canada"
-    followers: 2665
-    engagement: 1780
-    commentsToLikes: 0.137550
-    id: ck9h9ulbka0rf0j78blmatkhw
-    verified: false
-    hashtags: "#earthweek, #greenergoodgrateful, #passthebag, #progressnotperfection"
-  - username: "lilmoonchildd"
-    fullname: >-
-      YASAMAN GHEIDI 🇨🇦/🇮🇷 YVR
-    location: "Canada"
-    followers: 134362
-    engagement: 457
-    commentsToLikes: 0.028947
-    id: ck55izj4pvvgy0i11ecwpgbn2
+    followers: 110647
+    engagement: 1231
+    commentsToLikes: 0.080461
+    id: ck13d7sok44140i19sx4wgpai
     verified: true
-    hashtags: "#vampiremakeup, #thriftingislife, #spookyedits, #ouija"
+    hashtags: "#pub, #ambassadricevirginmobile, #partenaire, #vynebotanicals"
+  - username: "laurenxburch"
+    fullname: >-
+      ✧ Lauren Burch ✧
+    bio: >-
+      ♥ 19 | vegan ♥ ontario | joe @juliaaburch #burchtwins
+    location: "Canada"
+    followers: 282520
+    engagement: 746
+    commentsToLikes: 0.015020
+    id: ck0w1rtxhktdm0i19fb8t6gum
+    verified: false
+    hashtags: ""
   - username: "queengurleen_"
     fullname: >-
       GURLEEN | Health + Mindfulness
+    bio: >-
+      Engineering student 📚 🇨🇦 🇮🇳 Vegan 🌱🌍💚☀️ ⬇️ read my blog! ⬇️
     location: "Canada"
-    followers: 6868
-    engagement: 1547
-    commentsToLikes: 0.027464
+    followers: 7552
+    engagement: 2071
+    commentsToLikes: 0.030930
     id: ckap41yik5hoe0i78oo73qs9n
     verified: false
-    hashtags: "#snowmobile, #bridalmakeup, #happy, #body"
-  - username: "missfenderr"
+    hashtags: "#mindset, #nature, #anxiety, #outdoors"
+  - username: "realaimeeo"
     fullname: >-
-      Alayna Joy ✧ Create Compassion
+      Www.AimeeO.Com
+    bio: >-
+      #Vegan 🌱 C.E.O of @ShopAimeeO 🛍 🐶😻: @AimeesBabies 💫 Enter my world 👇🏽 #ShopAimeeO
     location: "Canada"
-    followers: 36328
-    engagement: 893
-    commentsToLikes: 0.016701
-    id: ck15qb729201d0i19t0xa7bku
-    verified: true
-    hashtags: "#giftsofhope, #plancanadapartner, #vancouverplan, #ad"
+    followers: 849293
+    engagement: 209
+    commentsToLikes: 0.039597
+    id: ckap2iqdwz0f20i78ypwg7gpq
+    verified: false
+    hashtags: "#visitaruba, #itsanislandthing, #shopaimeeo, #vacation"
+  - username: "shawna_bonana_"
+    fullname: >-
+      Shawna Marie
+    bio: >-
+      Country Bumpkin🧑🏼‍🌾 ~My spoiled dogs🐕🐕🐩🤣 ~I fish 🎣 ~I farm🐮🚜💨 ~I’m not a vegan🥩🍷🍴 The simple life is a happy life & this is simply my ONLY page
+    location: "Canada"
+    followers: 33427
+    engagement: 517
+    commentsToLikes: 0.039414
+    id: ck0vzi9dt98hn0i19iu0xcdk6
+    verified: false
+    hashtags: "#sundayfunday, #getoutdoors, #getoutside, #girlsbestfriend"
+  - username: "infektdubstep"
+    fullname: >-
+      INFEKT
+    bio: >-
+      🌱 🎧 🎛 ☕️📷 ⚔️ vegan dubstep producer bookings@disciplerecs.com
+    location: "Canada"
+    followers: 59123
+    engagement: 505
+    commentsToLikes: 0.020407
+    id: ck0tvfq16b5qf0i19r28p906m
+    verified: false
+    hashtags: ""
+  - username: "the.greener.good"
+    fullname: >-
+      kristen | sustainable living
+    bio: >-
+      she/her 🌻 caring for people and the planet veganism, low waste, slow fashion
+    location: "Canada"
+    followers: 3305
+    engagement: 1341
+    commentsToLikes: 0.110148
+    id: ck9h9ulbka0rf0j78blmatkhw
+    verified: false
+    hashtags: "#thegreenergood, #plasticfreejuly, #slowfashion, #outfitrepeater"
   - username: "50shadesofpink"
     fullname: >-
       🎀 annie miao ( 安寻 ) 🎀
+    bio: >-
+      🍓magical girl on a quest to save the world! 🍓tattoo apprentice @pinkbunniink 🍓BSc animal health grad @ualberta 🍓vegan & cruelty-free
     location: "Canada"
-    followers: 64842
-    engagement: 1462
-    commentsToLikes: 0.014683
+    followers: 63408
+    engagement: 836
+    commentsToLikes: 0.008967
     id: ck6u2ofozszp60j71ub0mfzm2
     verified: false
-    hashtags: "#bunnygirl, #nosechain, #gothgf, #yellowhair"
-  - username: "topknotsandpearls"
-    fullname: >-
-      Nicholle
-    location: "Canada"
-    followers: 22414
-    engagement: 245
-    commentsToLikes: 0.078089
-    id: ck55mkm9j46bp0i11zbiz0ouo
-    verified: false
-    hashtags: "#dinnerisserved, #minimalstyle, #siswimsuit, #canadiangirl"
+    hashtags: "#colourpopme, #colourpop, #pulpriot, #rainbowwig"
   - username: "wandering_free09"
     fullname: >-
       Angel 🇮🇪😇🇮🇪
+    bio: >-
+      🌖 More positivity please! Be kind!🤙🌻 Vegan / Sun Basker / Spinning Lunatic / Festival Fanatic 🎪
     location: "Canada"
-    followers: 11735
-    engagement: 957
-    commentsToLikes: 0.025838
+    followers: 21951
+    engagement: 761
+    commentsToLikes: 0.019714
     id: ck6006abrd0zx0i14hijishd8
     verified: false
-    hashtags: "#timhortonsismynewspiritanimal, #travels, #love, #wanderlust"
-  - username: "irenerudnykphoto"
+    hashtags: "#chillvibes, #winteryvibes, #dancing, #halloween"
+  - username: "gwengwiz"
     fullname: >-
-      
+      gwen 🌵🌞🌈🐈💘👼🏼🌊🌴🌅✨
+    bio: >-
+      you are so much lovelier than you think 🕊 vegan, mental health, yoga, nature, fashion + beauty lovin gal who makes youtube vids at home with her cat
     location: "Canada"
-    followers: 317208
-    engagement: 344
-    commentsToLikes: 0.014861
-    id: ck139m05ilyr80i19z8j1hqbj
+    followers: 99683
+    engagement: 272
+    commentsToLikes: 0.025602
+    id: ck15tffpehthk0i19yn18b5lb
     verified: false
-    hashtags: "#facetimephotoshoot, #facetime, #shotoncanon, #analog"
-  - username: "camillelabchuk"
-    fullname: >-
-      Camille Labchuk
-    location: "Canada"
-    followers: 5677
-    engagement: 1127
-    commentsToLikes: 0.073692
-    id: ck0vvmi2nprz40i19bl9kuk6a
-    verified: false
-    hashtags: "#veganlove, #blackcatsofinstagram, #catsofinsta, #minipanther"
+    hashtags: ""
 ---

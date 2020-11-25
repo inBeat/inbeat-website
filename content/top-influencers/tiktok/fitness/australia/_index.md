@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Australia In 2020
 description: >-
-  Find top fitness TikTok influencers in Australia in 2020. Most popular hashtags: #momsoftiktok #homeworkout #heapsgood #keepingactive.
+  Find top fitness TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
+hits: 172
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 172 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "rebel.michele"
     fullname: >-
       Rebel Michele
+    bio: >-
+      48 years old, Mum, into fun & fitness, from Gold Coast, Australia 🇦🇺
     location: "Australia"
-    followers: 7064
-    engagement: 786
-    commentsToLikes: 0.111522
+    followers: 25300
+    engagement: 1091
+    commentsToLikes: 0.081822
     id: ck9si9khrxu4z0j78qxqgzuu5
     verified: false
-    hashtags: "#eyes, #weightloss, #momsontiktok, #boxing"
-  - username: "_kim_lawless_"
+    hashtags: "#over40ontiktok, #over40andfabulous, #over50, #over40mum"
+  - username: "thelifeofafitchick"
     fullname: >-
-      Kim
+      Alicia Newman
+    bio: >-
+      Fitness Trainer🏋🏼‍♀️ Jeep Chick 💁🏼‍♀️ Mia 🐾 TNM ❤️ #THELIFECLIQUE
     location: "Australia"
-    followers: 42746
-    engagement: 916
-    commentsToLikes: 0.057669
-    id: cka7o7mp10qyp0i78xk1mluw6
+    followers: 9722
+    engagement: 1695
+    commentsToLikes: 0.115325
+    id: ckdi84kwnadke0j2342ooh0ti
     verified: false
-    hashtags: "#agechalange, #sundayvibes, #becreative, #momof3"
-  - username: "jarrahmartinfitness"
+    hashtags: "#fitness, #usa, #thelifeclique, #fyp"
+  - username: "libby.ann"
     fullname: >-
-      Jarrahmartinfitness
+      🌟Libby 🌟
+    bio: >-
+      18 // 🇦🇺 Books | Tea | Fitness | Cats
     location: "Australia"
-    followers: 42413
-    engagement: 603
-    commentsToLikes: 0.033575
-    id: ckacpmsi4wt670i78zm5kg3hn
+    followers: 8640
+    engagement: 1919
+    commentsToLikes: 0.056366
+    id: ckacwe1ans4n20i784d3k0yu8
     verified: false
-    hashtags: "#jumpman, #hoopsathome, #globalwarning, #minitutorials"
-  - username: "nath_claridge"
-    fullname: >-
-      Nathan Claridge
-    location: "Australia"
-    followers: 3040
-    engagement: 938
-    commentsToLikes: 0.056842
-    id: ckan0eba1q3v70i781ms72ly7
-    verified: false
-    hashtags: "#boxing, #dare, #thepooaintone, #weekend"
+    hashtags: "#booknerd, #books, #sisters, #fyp"
   - username: "tobyhadler"
     fullname: >-
       TH
+    bio: >-
+      Fitness & Good Vibes Business enquires & promotions Email: Tobyhadler@hotmail
     location: "Australia"
-    followers: 525399
-    engagement: 620
-    commentsToLikes: 0.067418
+    followers: 520800
+    engagement: 736
+    commentsToLikes: 0.029594
     id: ck85cptwo2vmo0j781g1lj0zj
     verified: false
-    hashtags: "#foru, #football, #legdaychallenge, #carolbaskin"
-  - username: "joelbushby"
+    hashtags: "#foryou, #fyp, #fitness, #fit"
+  - username: "queenmercede"
     fullname: >-
-      Joel Bushby
+      Larna
+    bio: >-
+      pole fitness dancer 👅 aerialist 💪🏻 model 💃🏻 not a stripper 🤜🏻
     location: "Australia"
-    followers: 1245345
-    engagement: 1328
-    commentsToLikes: 0.014567
-    id: ck8toypxhohqx0j78q4tupflm
-    verified: true
-    hashtags: "#ghost, #keepingactive, #foryoupage, #withmyfamily"
+    followers: 144000
+    engagement: 1119
+    commentsToLikes: 0.014614
+    id: ckbw2nobbwsgt0j23umjh6v0f
+    verified: false
+    hashtags: "#foryou, #fypg, #ios14, #foryoupage"
+  - username: "flippy_888"
+    fullname: >-
+      Flippy
+    bio: >-
+      Aus Ninja Warrior S2, mumma, fitness, love dogs, groomer
+    location: "Australia"
+    followers: 2690
+    engagement: 807
+    commentsToLikes: 0.029638
+    id: ckbf15wpgn80e0j23wqepu034
+    verified: false
+    hashtags: "#fyp, #ninja, #trex, #ninjawarriorau"
   - username: "jassturka4"
     fullname: >-
       Jass Turka
+    bio: >-
+      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
     location: "Australia"
-    followers: 55264
-    engagement: 417
-    commentsToLikes: 0.026408
+    followers: 75500
+    engagement: 336
+    commentsToLikes: 0.031642
     id: ckai3fp8wjp9s0i78tydhilnp
     verified: false
-    hashtags: "#arms, #homeworkout, #tiktokindia, #shoppingcart"
-  - username: "pb08_ala"
+    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
+  - username: "jarrahmartinfitness"
     fullname: >-
-      Vinay
+      Jarrahmartinfitness
+    bio: >-
+      🏆Online fitness coach🏆 🔥IG: jarrahmartinfitness_wbffpro🔥
     location: "Australia"
-    followers: 7727
-    engagement: 766
-    commentsToLikes: 0.045672
-    id: cka0xdcwk6lwv0i78bbeqvn7w
+    followers: 94100
+    engagement: 705
+    commentsToLikes: 0.021404
+    id: ckacpmsi4wt670i78zm5kg3hn
     verified: false
-    hashtags: "#akay, #duet, #aussiethings, #momsoftiktok"
-  - username: "tokyozvalentino"
+    hashtags: "#funtimes, #exerciseform, #physiqueupdate, #problemsolved"
+  - username: "_kim_lawless_"
     fullname: >-
-      Tokyoz Valentino
+      Kim
+    bio: >-
+      •Fitness•health lifestyle• Instagram- kimlawless_fitness
     location: "Australia"
-    followers: 100053
-    engagement: 519
-    commentsToLikes: 0.013568
-    id: ck81szmpmuaxd0j78549heof4
+    followers: 47700
+    engagement: 851
+    commentsToLikes: 0.044897
+    id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#comedyskit, #writethelyrics, #motivation, #work"
-  - username: "misskathfitness"
+    hashtags: "#duet, #fyp, #hi, #lockdown"
+  - username: "joelbushby"
     fullname: >-
-      misskath
+      Joel Bushby
+    bio: >-
+      My business is fitness💪🏼 ⬇️ The BEST NATURAL fat burner ⬇️
     location: "Australia"
-    followers: 227985
-    engagement: 558
-    commentsToLikes: 0.021805
-    id: ck8vusr0djxpl0j780au0nd8z
-    verified: false
-    hashtags: "#legday, #funny, #moon, #tiktokforyou"
+    followers: 1500000
+    engagement: 1097
+    commentsToLikes: 0.010648
+    id: ck8toypxhohqx0j78q4tupflm
+    verified: true
+    hashtags: "#dance, #iamme, #shopping, #stitch"
 ---

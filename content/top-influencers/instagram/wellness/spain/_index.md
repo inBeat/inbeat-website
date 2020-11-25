@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Spain In 2020
 description: >-
-  Find top wellness Instagram influencers in Spain in 2020. Most popular hashtags: #nutricion #love #madrid #saludmental.
+  Find top wellness Instagram influencers in Spain in 2020. Most popular hashtags: #workout #barcelona #fitness.
 platform: Instagram
+hits: 72
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 72 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "carlasanchez.well"
+  - username: "karletyoga"
     fullname: >-
-      Carla Sánchez
+      Génesis Karlet - yoga coach
+    bio: >-
+      If I were a writer I’d have a better Instagram bio quote ヅ Check out the link below 👇 #Yoga | #Wellness | #Lifestyle 📍Spain
     location: "Spain"
-    followers: 17966
-    engagement: 263
-    commentsToLikes: 0.068519
-    id: ck5qegbpa0ckr0i11oqp6dldh
+    followers: 57548
+    engagement: 364
+    commentsToLikes: 0.120616
+    id: ck5hls975kri80i11ej5shih4
     verified: false
-    hashtags: "#familia, #greece, #martasmoreno, #madrid"
-  - username: "anne_cathrine_fit"
+    hashtags: "#beachbumlife, #heartopener, #loveistheway, #beachwalks"
+  - username: "xguiri1"
     fullname: >-
-      𝑨𝒏𝒏𝒆-𝑪𝒂𝒕𝒉𝒓𝒊𝒏𝒆 𝑾
+      Xavi Guirao
+    bio: >-
+      📍Barcelona 🏀ESP 3x3 🇪🇸 @fiba3x3 📸 @lovebalistarz @bertamodels 🌍🎬 🏋🏻‍♂️Personal trainer & wellness online 🎓 Sport Management📈 & INEFC
     location: "Spain"
-    followers: 54658
-    engagement: 171
-    commentsToLikes: 0.027525
-    id: ck5hna4pvngdy0i11z6xcjxbh
+    followers: 26002
+    engagement: 559
+    commentsToLikes: 0.061984
+    id: ck8svvc9sctxp0j78v3xdtcc9
     verified: false
-    hashtags: "#frontline, #nikeair, #fitgoals, #happymood"
+    hashtags: "#barcelona, #risas, #valencia, #hotelmedium"
   - username: "lapaulettefitness"
     fullname: >-
       Maria Paulette IFBB PRO® 🇪🇸
+    bio: >-
+      🌐IFBB WELLNESS PRO® 📧COACHING ONLINE 🧙🏻TEAM @ricardopannain ◾️@prozis / @ubonlinestore / @irondolls_bikinis MY LINKS ⤵️
     location: "Spain"
-    followers: 252203
-    engagement: 106
-    commentsToLikes: 0.141258
+    followers: 287156
+    engagement: 288
+    commentsToLikes: 0.029654
     id: ck5zm3sodluej0i143g7waslm
     verified: false
-    hashtags: "#legworkout, #diva, #extensiones, #rollergirl"
+    hashtags: "#mujerguerrera, #fitnessmotivation, #fitnessgirl, #girlpower"
+  - username: "debbysoemadijo"
+    fullname: >-
+      Content Creator - Bali BCN
+    bio: >-
+      Debby Soemadijo ❦ Creative Director ❦ Content Creator for Health, Wellness & Ethical Brands 📍Bali/Barcelona available worldwide @forartsakestudio_
+    location: "Spain"
+    followers: 6834
+    engagement: 366
+    commentsToLikes: 0.025933
+    id: ck5hmf3j3lu3g0i111f2x07r1
+    verified: false
+    hashtags: ""
+  - username: "marta.mcfly"
+    fullname: >-
+      Marta Djordjevic
+    bio: >-
+      a diary of my nomadic wandering 🌞🌊 pop culture, beauty & wellness editor film & travel writer ✨slow living 📍barcelona @Localeur advisory board
+    location: "Spain"
+    followers: 6628
+    engagement: 484
+    commentsToLikes: 0.116728
+    id: ck5bty7q3gtia0i11w6x8wjnx
+    verified: false
+    hashtags: ""
   - username: "rube_13"
     fullname: >-
       Rubén García
+    bio: >-
+      Get Fit Functional Training GYM LV 1 Crossfit trainer Talleres Hábitos Saludables Wellness coaching empresarial Getfitgympa@gmail.com
     location: "Spain"
-    followers: 31239
-    engagement: 160
-    commentsToLikes: 0.028082
+    followers: 30373
+    engagement: 152
+    commentsToLikes: 0.029742
     id: ck6ucdngsezmj0j71ev8ucu2j
     verified: false
-    hashtags: "#aniversario4minds, #daniboom, #tallerh, #wellnesscorporativo"
+    hashtags: "#tbt, #repost, #getfit, #trainingday"
   - username: "marcefitness"
     fullname: >-
-      RUTINAS RECETAS Y NUTRICION
+      NUTRICION & FITNESS
+    bio: >-
+      ✏️ Nutritionist/fitness -wellness coach GUA🇬🇹/ MIA🇺🇸 No perdemos libras, ganamos salud 📚Colegiado activo 3662 🙌🏻 Mind&body 🍏 @marcefitnessfood
     location: "Spain"
-    followers: 289589
-    engagement: 126
-    commentsToLikes: 0.241238
+    followers: 746171
+    engagement: 150
+    commentsToLikes: 0.597114
     id: ck5cj8v8fu88w0i11sa24v86p
     verified: false
-    hashtags: "#juntossomosmas, #estyourgreens, #musculo, #rutina"
-  - username: "blogdewellness"
-    fullname: >-
-      Yael Kritzer | Nutricionista
-    location: "Spain"
-    followers: 35079
-    engagement: 110
-    commentsToLikes: 0.068053
-    id: ck6ugmixf3wn10j71qeb68s3a
-    verified: false
-    hashtags: "#cuarentena, #covid, #sustentable, #culturadedieta"
+    hashtags: "#rutinaencasa, #marcefitness, #fitness, #quedateencasa"
   - username: "paulasblue"
     fullname: >-
-      P a u l a ☽  Holistic Coach
+      P a u l a ☽  Holistic Health
+    bio: >-
+      💠 Life’s a beach. Enjoy the waves 💦🌙 ૐ ✏️ Designer + Illustrator + Photographer✨ 🌀 Health and Wellness Coach 💛😊 🥑 Vegan ·Yogi · Ocean Lover 🐬🌊📍TFE
     location: "Spain"
-    followers: 2350
-    engagement: 1053
-    commentsToLikes: 0.077121
+    followers: 2550
+    engagement: 1071
+    commentsToLikes: 0.076800
     id: ck55q0a72bsk30i11ezw85qgh
     verified: false
-    hashtags: "#iamfree, #tenerifereviews, #zerowastecanarias, #ipadart"
+    hashtags: "#paulasblue, #bluevibes, #blueocean, #fuerteventura"
+  - username: "lissettemarion_nutrition"
+    fullname: >-
+      Holistic Nutritionist
+    bio: >-
+      -Health Blogger, Wellness coach✨ -Sustainable and Balanced life Advocate🌱 Founder @yourbeauty_co🤍@letsnetworkgeneva 📩 Info@lissettemarion.com
+    location: "Spain"
+    followers: 12048
+    engagement: 560
+    commentsToLikes: 0.111725
+    id: ck13ax12csle30i19wja5px4s
+    verified: false
+    hashtags: "#love, #chef, #natural, #food"
   - username: "alicia.landivar"
     fullname: >-
       Alicia M. Landivar
+    bio: >-
+      Ed.D.NSC🍃EMDR Therapist☀️Author☀️ Mind, Brain & Education 🌿Parenting Resources 🕊 Teens Montessori Erdkinder🌸 Wellness 👣 #educarnosestransformarnos 🧡
     location: "Spain"
     followers: 42930
     engagement: 183
     commentsToLikes: 0.026838
     id: ck13d15ox353b0i19xhx3ve1t
     verified: false
-    hashtags: "#puertorico, #bsas, #reflexion, #seguiradelante"
-  - username: "mad.leineblog"
-    fullname: >-
-      M∀D.L∃INE
-    location: "Spain"
-    followers: 6882
-    engagement: 1945
-    commentsToLikes: 0.116824
-    id: ck6ttzokjdh6x0j71j3d7vowv
-    verified: false
-    hashtags: "#crueltyfree, #norahjones, #hawaiianquilt, #ethicaltime"
-  - username: "eliafernandezartist"
-    fullname: >-
-      Elia Fernandez
-    location: "Spain"
-    followers: 38895
-    engagement: 568
-    commentsToLikes: 0.056430
-    id: ck15ucp61midw0i197itwa2j7
-    verified: false
-    hashtags: "#grafittiwall, #quarentinelife, #stayathome, #arcomadrid2020"
+    hashtags: "#maracaibo, #vidauna, #juntospodemos, #amar"
 ---

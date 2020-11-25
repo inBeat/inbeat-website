@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Rio De Janeiro In 2020
 description: >-
-  Find top yoga Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #yoga #repost #riodejaneiro #earthday.
+  Find top yoga Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #yoga #goodvibes #tbt #errejota.
 platform: Instagram
+hits: 11
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Rio de Janeiro, Brazil for you to collaborate.
 profiles:
   - username: "bethpedote_ashtanga"
     fullname: >-
       Beth Pedote
+    bio: >-
+      Ashtanga Yoga Teacher Ashtanga Yoga Daily 🧘🏽‍♀️ Rio de Janeiro - Brasil Contato Comercial : bethpedote@gmail.com
     location: "Brazil"
-    followers: 100895
-    engagement: 240
-    commentsToLikes: 0.052078
+    followers: 104846
+    engagement: 157
+    commentsToLikes: 0.046178
     id: ck0ty44ozljp30i19oituiecj
     verified: false
-    hashtags: "#somostodosum, #upsidedown, #earthday, #happyeaster"
-  - username: "_isabellabittencourt_"
+    hashtags: "#pontadejuacema, #namaste, #teamo, #obrigadadeus"
+  - username: "fernandarouvenat"
     fullname: >-
-      Isabella Bittencourt
+      Fernanda Rouvenat 🧿
+    bio: >-
+      Repórter • @redeglobo | Rio de Janeiro Pós-graduação em Sociologia política e Cultura Ex-bailarina e ex-atleta de ginástica rítmica
     location: "Brazil"
-    followers: 7655
-    engagement: 819
-    commentsToLikes: 0.137959
-    id: ck5hiic1bdnh30i1121fdq4ve
-    verified: false
-    hashtags: "#repost, #emagrecimento, #emagrecer, #pele"
-  - username: "rockthemountain"
+    followers: 16826
+    engagement: 520
+    commentsToLikes: 0.034208
+    id: ck5bxfapznm1e0i11klxg28sg
+    verified: true
+    hashtags: "#bdrj, #aovivo, #tvglobo, #jornalismo"
+  - username: "thaianasboroni"
     fullname: >-
-      Festival Rock The Mountain
+      Thaiana Seabra Boroni
+    bio: >-
+      Mãe, 30 anos. Founder and Creative Director @letihoficial Rio de Janeiro, Rj. Jó 42.5
     location: "Brazil"
-    followers: 28933
-    engagement: 482
-    commentsToLikes: 0.083559
-    id: ck55lvdg92j7d0i11o1eaz3om
+    followers: 35933
+    engagement: 173
+    commentsToLikes: 0.031036
+    id: ck5pvxuwek5bg0i11zd3ilddq
     verified: false
-    hashtags: "#respectthenature, #rtm2019, #rtm, #rtm2020"
-  - username: "angelazaremba.photo"
+    hashtags: "#tbt, #tefazbem, #seucorpoe, #publi"
+  - username: "jotta.brown"
     fullname: >-
-      Angela Zaremba
+      Jotta Brown 🤙🏾
+    bio: >-
+      |🎤Music|📷 Modelo|🎭Ator|🤙🏾LifeStyle| 📍Rio de Janeiro, Brasil. |▶️🎶👇🏾 Canal|
     location: "Brazil"
-    followers: 8939
-    engagement: 246
-    commentsToLikes: 0.048705
-    id: ck5c6b3vo52tm0i1149eb1klb
+    followers: 28008
+    engagement: 728
+    commentsToLikes: 0.018515
+    id: ck8tcgk5uzeai0j786fw1eqy7
     verified: false
-    hashtags: "#green, #mindmapping, #metmuseum, #yoga"
+    hashtags: "#ficaemcasa, #jottabrown, #goodvibes, #blessed"
+  - username: "natasharattacasso"
+    fullname: >-
+      Natasha Rattacasso
+    bio: >-
+      📍 Rio de Janeiro, 25 💥 Influenciadora Digital 🔥 Consultora de Mkt Digital @RattacassoNatasha 📧 contatoredfox@gmail.com 🎥 Youtube ↓
+    location: "Brazil"
+    followers: 214028
+    engagement: 224
+    commentsToLikes: 0.009913
+    id: ck0vwe310t9z50i19xpuvmlon
+    verified: true
+    hashtags: "#yoga, #tefazbem, #seucorpo, #publi"
+  - username: "cinthiabrum"
+    fullname: >-
+      Cínthia Brum
+    bio: >-
+      Bacharel em Educação Física 🎓🏋🏻‍♀️ CREF: 042469-G/RJ Rio de Janeiro - RJ 📍🇧🇷
+    location: "Brazil"
+    followers: 2180
+    engagement: 1418
+    commentsToLikes: 0.070459
+    id: ck8t1z1l6xm730j78a5dycgam
+    verified: false
+    hashtags: "#urca, #desierto, #rioeuamoeucuido, #mirante"
+  - username: "pingoeninadalmatians"
+    fullname: >-
+      .• Pingo e Nina •.
+    bio: >-
+      🌹Zee.dog Máfia | cupom de desconto: PINGOENINA » lifestyle pet » Rio de Janeiro
+    location: "Brazil"
+    followers: 102135
+    engagement: 272
+    commentsToLikes: 0.037097
+    id: ck0w2vj2bqdg80i19whaoal3n
+    verified: false
+    hashtags: "#fiqueemcasa, #emcasa, #connectingdogsandpeople, #cachorrosfofos"
+  - username: "juniorloborj"
+    fullname: >-
+      Júnior Lobo
+    bio: >-
+      📍Rio de Janeiro - Brasil 🇧🇷 ♌🦁 Carioca Fé 🙏🏼 Yoga 🕉 Natureza🌿🌳🏝 Praia / Cachu 🌊🏝⛱🏄🤙 Alimentação🥑🥕🌽🍎🍠🥦 Positividade 🙏🏼✌️ Viagens ✈ Netflix 📺
+    location: "Brazil"
+    followers: 55352
+    engagement: 124
+    commentsToLikes: 0.574457
+    id: ck55pbc3ta7lk0i113um6iqk9
+    verified: false
+    hashtags: "#melhoresdestinos, #sunset, #santacatarina, #planopiloto"
+  - username: "mariahandmadedesign"
+    fullname: >-
+      MariaHMD - amigurumi
+    bio: >-
+      • Maryangela Alves • Amigurumi design • Rio de Janeiro - BRASIL • hello@mariahandmadedesign.com • Use #mariahmd • Links:
+    location: "Brazil"
+    followers: 26129
+    engagement: 731
+    commentsToLikes: 0.039812
+    id: ck5hig772dcde0i111vpry112
+    verified: false
+    hashtags: "#crochetlove, #mariahmd, #amigurumi, #croch"
   - username: "danysayoga"
     fullname: >-
       Dany Sa
+    bio: >-
+      Ashtanga yoga teacher authorized level 2 by Sharath Jois- SYC. Rio de Janeiro- Brasil. Contato comercial: agenciamento@agircomunicacao.com.br
     location: "Brazil"
-    followers: 78622
-    engagement: 388
-    commentsToLikes: 0.026871
+    followers: 81125
+    engagement: 407
+    commentsToLikes: 0.033751
     id: ck0txavmdij790i19enfrjnpn
     verified: false
-    hashtags: "#internationalwomensday, #diainternacionaldamulher, #breathandrelax, #tictoc"
-  - username: "theatromunicipalrj"
-    fullname: >-
-      Theatro Municipal RJ
-    location: "Brazil"
-    followers: 33666
-    engagement: 85
-    commentsToLikes: 0.031664
-    id: ck5cc5p55grmq0i11x4l4yqk7
-    verified: false
-    hashtags: "#theatromunicipalrj, #franciscomignoneo, #salaceciliameireles, #ivanjorgensen"
-  - username: "arquiteta.camilafleck"
-    fullname: >-
-      ⇨ARQUITETA Rio de Janeiro
-    location: "Brazil"
-    followers: 95044
-    engagement: 86
-    commentsToLikes: 0.073728
-    id: ck8tcyyme17w30j781h9zglbl
-    verified: false
-    hashtags: "#covid19, #pascoadecor, #quartomasculino, #arcitecture"
-  - username: "prileiteyoga"
-    fullname: >-
-      Priscilla Leite
-    location: "Brazil"
-    followers: 141633
-    engagement: 657
-    commentsToLikes: 0.038912
-    id: ck15ug2b7n0de0i194cyesvk7
-    verified: false
-    hashtags: "#londonforever, #21diasdeyoga, #earthday"
-  - username: "samiraelage"
-    fullname: >-
-      Samira Elage | Yoga
-    location: "Brazil"
-    followers: 16808
-    engagement: 942
-    commentsToLikes: 0.084708
-    id: ckaoynkgbi9ci0i78chaihvgg
-    verified: false
-    hashtags: ""
-  - username: "deboraalmeida1606"
-    fullname: >-
-      Débora Almeida
-    location: "Brazil"
-    followers: 6216
-    engagement: 938
-    commentsToLikes: 0.774666
-    id: ckaows1oaa6uj0i78lqmcizgk
-    verified: false
-    hashtags: "#pinchapractice, #splits, #corremulherada, #flexibility"
+    hashtags: "#kapotasana, #practiceandalliscoming, #handstand, #ashtangayoga"
 ---

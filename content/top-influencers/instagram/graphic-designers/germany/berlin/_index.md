@@ -1,107 +1,130 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Berlin In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Berlin in 2020. Most popular hashtags: #graphicdesign #therodina #berlin #painting.
+  Find top graphic-designers Instagram influencers in Berlin in 2020. Most popular hashtags: #graphicdesign #graphicdesigner #art.
 platform: Instagram
+hits: 6
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 6 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
   - username: "anna_z.werk"
     fullname: >-
       A N N A
+    bio: >-
+      Werk | a/v live performance | Fine Art | graphic designer Berlin
     location: "Germany"
-    followers: 2364
-    engagement: 1124
-    commentsToLikes: 0.048731
+    followers: 2459
+    engagement: 1114
+    commentsToLikes: 0.047327
     id: ck6tsie804xpr0j71vqytkbtm
     verified: false
-    hashtags: "#maxjitter, #maxmspjitter, #livestream, #modular"
+    hashtags: "#electronicmusic, #modularsynth, #art, #cycling74"
+  - username: "raminnasibov"
+    fullname: >-
+      Ramin Nasibov
+    bio: >-
+      🎨 Designer / Art Director / if you're looking for a branding or collaboration. ↳ ramin@nasibov.me
+    location: "Germany"
+    followers: 427172
+    engagement: 137
+    commentsToLikes: 0.028739
+    id: ck6u9bbeywjxa0j71elk89zxa
+    verified: true
+    hashtags: "#design, #creative, #art, #raminnasibov"
   - username: "vans.blanc"
     fullname: >-
       𝐕 𝐀 𝐍 𝐒
+    bio: >-
+      dancer, graphic design student model 🇪🇷🇩🇪🐪 ✖️ Berlin | Ulm
     location: "Germany"
-    followers: 2601
-    engagement: 2370
-    commentsToLikes: 0.138695
+    followers: 2732
+    engagement: 1882
+    commentsToLikes: 0.110441
     id: ckaowvcl2am100i78970d3f9f
     verified: false
-    hashtags: "#happyeaster, #modellife, #newclassvideo, #skateordie"
+    hashtags: "#berlin, #feelings, #habesha, #ulm"
   - username: "marcelgadacz"
     fullname: >-
       MARCEL GADACZ
+    bio: >-
+      Melbourne// Berlin 📝🎛🎹🎤🏋🏽🥑 🌱V 🐶/ 🍞 Graphic Designer & Vocalist @dreamondreamerband 💘 @kimchi.tattoos ————————————————— 🔻 New album 🔻
     location: "Germany"
     followers: 11011
     engagement: 755
     commentsToLikes: 0.048323
     id: ck6u974i8vw180j717rec42b7
     verified: false
-    hashtags: "#dreamondreamer"
+    hashtags: ""
   - username: "therodina"
     fullname: >-
       The Rodina
+    bio: >-
+      🎾 designers investigating action,🖤interaction, and possibilities in the field of communication 🌴 authors of Performative Design 💚
     location: "Germany"
-    followers: 19058
-    engagement: 479
-    commentsToLikes: 0.009532
+    followers: 20629
+    engagement: 414
+    commentsToLikes: 0.009292
     id: ck5bxa7i5nbma0i119j20vxli
     verified: false
-    hashtags: "#criticaldesign, #harvardgsd, #wimcrouwel, #newzealanddesign"
-  - username: "sbarucha"
+    hashtags: "#dutchdesign, #czechdesign, #gamedesign, #graphicdesign"
+  - username: "mgraphx_"
     fullname: >-
-      Sven Barucha
+      MGFX
+    bio: >-
+      🎨🖌💻 I design stuff mainly Sports Twitter 🐦 : https://twitter.com/MGRAPHX_ https://blacklivesmatters.carrd.co/
     location: "Germany"
-    followers: 15150
-    engagement: 893
-    commentsToLikes: 0.022998
-    id: ck5pyhq5ow2tz0i11j7yj5qdv
+    followers: 3159
+    engagement: 2225
+    commentsToLikes: 0.029949
+    id: ckaosjs7wrski0i78ldp214c2
     verified: false
-    hashtags: "#maccosmetics, #webdesign, #captureonepro, #photostudio"
-  - username: "dariorossiofficial"
+    hashtags: "#socceredits, #sportsart, #sportsdesigns, #adidasfootball"
+  - username: "bouncing_betti"
     fullname: >-
-      Dario Rossi
+      Betti  |  Salzburg
+    bio: >-
+      graphic designer with a big passion for • mountains • sports • photography • family member @salewa @atomicski 📧 bouncing_betti@gmx.at
     location: "Germany"
-    followers: 59053
-    engagement: 333
-    commentsToLikes: 0.034639
-    id: ck15rg6eu7rq40i194taozisd
+    followers: 19014
+    engagement: 656
+    commentsToLikes: 0.032320
+    id: ck0u1iq3mx26o0i19n7pk3h7y
     verified: false
-    hashtags: "#calculator, #weekendmood, #smile, #fabriziorat"
-  - username: "claires.diary"
+    hashtags: "#earlybird, #wanderlust, #wandern, #salewa"
+  - username: "benny.yeboah"
     fullname: >-
-      ClaireLive
+      Benny Yeboah
+    bio: >-
+      97 | Model | Graphic Designer
     location: "Germany"
-    followers: 67147
-    engagement: 432
-    commentsToLikes: 0.083090
-    id: ck5zrigxtwn8g0i14evsjeru8
+    followers: 4914
+    engagement: 3159
+    commentsToLikes: 0.024876
+    id: ck8t05wv1qw9f0j78dw6iyanh
     verified: false
-    hashtags: "#mirrorselfie, #magazin, #modelwork, #lookatme"
-  - username: "useless_treasures"
+    hashtags: "#createcommune, #art, #backtominimal, #minimalism"
+  - username: "szulcworks"
     fullname: >-
-      Useless Treasures
+      Dorota Szulc
+    bio: >-
+      Good Trips Only 🌞 Photographer, Graphic Designer, Art Director Booking 📮 ds@deadpixelstd.com Management @ivy_creativemanagement Video with @arszenik
     location: "Germany"
-    followers: 39030
-    engagement: 421
-    commentsToLikes: 0.020463
-    id: ck6tsols75xxz0j713xh3yc3j
+    followers: 26255
+    engagement: 371
+    commentsToLikes: 0.019613
+    id: ck0u703ku3hwx0i199uukxgt1
     verified: false
-    hashtags: "#gift, #sweet, #digitalillustration, #textile"
-  - username: "ilariapops"
+    hashtags: "#bujka, #johnniewalker, #35mm, #mamiya645afd"
+  - username: "_sedaozer_"
     fullname: >-
-      Ilaria Ranauro
+      Seda Özer
+    bio: >-
+      🇹🇷🇹🇷🇹🇷 📸 photographer 💻 graphic designer ⚠️ gluten free ❤sedAden❤ #mynareklam @mynareklam #angelique @angeliqueizmir
     location: "Germany"
-    followers: 18003
-    engagement: 355
-    commentsToLikes: 0.030043
-    id: ck13aktomqv5i0i19oks4lkw8
+    followers: 10619
+    engagement: 375
+    commentsToLikes: 0.037280
+    id: ck9wfi5anox4l0j78p7tuvy2c
     verified: false
-    hashtags: "#booklover, #dogsillustration, #cutetshirt, #momlife"
-  - username: "state.of.the.streetart"
-    fullname: >-
-      Amsterdam❌❌❌Based
-    location: "Germany"
-    followers: 7772
-    engagement: 730
-    commentsToLikes: 0.040011
-    id: ck1399ep2k6du0i19pc89wkso
-    verified: false
-    hashtags: "#redlips, #redhair, #face, #streetartist"
+    hashtags: "#mynareklam, #sabahlarolmas, #beklerken, #ku"
 ---

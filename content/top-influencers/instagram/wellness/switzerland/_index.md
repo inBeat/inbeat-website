@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top wellness Instagram influencers in Switzerland in 2020. Most popular hashtags: #wellness #stayhealthy #energy #motivation.
+  Find top wellness Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #love #wellness #nature.
 platform: Instagram
+hits: 41
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 41 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "dalila.kaci"
+  - username: "sorayabakhtiar"
     fullname: >-
-      D A L I L A
+      ❤️   🧡   💛   💚   💙   💜   💗  🤍
+    bio: >-
+      𝐒𝐎𝐑𝐀𝐘𝐀 𝐁𝐀𝐊𝐇𝐓𝐈𝐀𝐑 𝐆𝐇𝐀𝐍𝐃𝐎𝐔𝐑 Fashion & Beauty | Travel | Wellness Founder of @azaleo_official 🪐 📍Jeddah 🇸🇦🌞🌴
     location: "Switzerland"
-    followers: 5506
-    engagement: 978
-    commentsToLikes: 0.063990
-    id: ck0w75ve8bwsx0i19o9tkf9ld
+    followers: 127488
+    engagement: 115
+    commentsToLikes: 0.018361
+    id: ck136j52e6qtw0i19c5el9tia
+    verified: true
+    hashtags: "#sorayaxletanne, #rainbow, #nourbyjahan, #chanelss21"
+  - username: "bless.travel"
+    fullname: >-
+      SWISS TRAVEL COUPLE❤️Domi&Pati
+    bio: >-
+      TRAVEL / WELLNESS / COUPLE 📍 zürich🇨🇭 💍 verlobt ❤️ it's not where you go, it's who you travel with
+    location: "Switzerland"
+    followers: 8458
+    engagement: 1185
+    commentsToLikes: 0.085120
+    id: ck0w23gh7mfuv0i19pdz0cz3h
     verified: false
-    hashtags: "#chanel"
-  - username: "womanfly.fit"
+    hashtags: "#ticinoturismo, #schweiz, #tessin, #inlovewithswitzerland"
+  - username: "fly4.fit"
     fullname: >-
       🦋Fly.fit🦋
+    bio: >-
+      💥Fit girl💥🧿🇨🇭 Big Power ✨💪✨ Self-love❣️Mental wellness❣️ —-Your Motivation Is In Your Head—-🤝 #blogger_ch #explore #repost 📍Genneva
     location: "Switzerland"
-    followers: 2937
-    engagement: 2243
-    commentsToLikes: 0.029222
+    followers: 3059
+    engagement: 1193
+    commentsToLikes: 0.045034
     id: ck9wfv9zbqnc90j7896zwhsla
     verified: false
-    hashtags: "#missmygym, #swissnature, #goodmood, #attitude"
+    hashtags: "#pushingthelimits, #confident, #fitgirl, #consistency"
+  - username: "fabiohayoz"
+    fullname: >-
+      Fabio Hayoz
+    bio: >-
+      🥇SNBF 2018 Swiss-Champion 📍Based in Switzerland 🏢 @facedefender.ch 💪 @coach__bruno ❤️ @jasmine.gsell SPONSORED BY: @extrifitschweiz - Fabio10
+    location: "Switzerland"
+    followers: 10642
+    engagement: 328
+    commentsToLikes: 0.034576
+    id: ck8svr3moce3r0j78a3lf79cp
+    verified: false
+    hashtags: "#tan, #bodybuilding, #gym, #bhfyp"
+  - username: "princesszuleika_"
+    fullname: >-
+      kinky Princess Z
+    bio: >-
+      @princesszuleika (banned at 31 Tsd. 🙄) Let's start again. ... A shiny girl with a kinky lifestyle Booking >>> Website ✌🏼👸🏼🖕🏼 ... 📌KA - ZH - FFM
+    location: "Switzerland"
+    followers: 10169
+    engagement: 495
+    commentsToLikes: 0.031952
+    id: ckap402oz597f0i781j6mpb5p
+    verified: false
+    hashtags: "#legs, #love, #latexdessous, #wellness"
+  - username: "barla81"
+    fullname: >-
+      Marco Barla
+    bio: >-
+      Dad 👨‍👩‍👧 Physiotherapist 👨‍⚕️ Climber 🧗‍♀️ ✊🏽 Runner 🏃🏻 🇮🇹 🌍 #bouldering #climbing #running #travel #beer #mountains #vaibenete
+    location: "Switzerland"
+    followers: 6089
+    engagement: 634
+    commentsToLikes: 0.024746
+    id: ck9wfwlt5qtqk0j78u3es08wc
+    verified: false
+    hashtags: "#miloofclimbingteam, #climbing, #neverstopclimbing, #fitness"
+  - username: "coccoslife_"
+    fullname: >-
+      FASHION || TRAVEL || FITNESS
+    bio: >-
+      👩 27yrs • 1.77 • SUI🇨🇭 💭 Nicht alles was du siehst, ist alles was ich bin 💌 DM me for collab & pay shootings 💬 Das Profil enthält Werbung
+    location: "Switzerland"
+    followers: 19389
+    engagement: 1107
+    commentsToLikes: 0.135511
+    id: ck8t2u5wz0py50j78egbg8owv
+    verified: false
+    hashtags: "#nature, #fitnessgirl, #healthy, #fashionblogger"
+  - username: "jangudde"
+    fullname: >-
+      🌿 J A N  G U D D E 🌿
+    bio: >-
+      🍼FATHER OF ZAYA MABLE🍼 • 🇨🇭 @bibamodelmanagement 🇦🇹 @inmodels.at 🇳🇱+🇪🇸 @dc.models 🇩🇪 @mbmodelmanagement • 🏆 FINALIST 2019 @swissmensaward
+    location: "Switzerland"
+    followers: 50673
+    engagement: 599
+    commentsToLikes: 0.085762
+    id: ck5pwssmpof1p0i11o9igo68a
+    verified: false
+    hashtags: "#new, #outdoor, #foodporn, #body"
   - username: "lisamarilynh"
     fullname: >-
       LISA
+    bio: >-
+      👱🏽‍♀️ Swiss girl 💪🏽 Certified Trainer 🍑 TFIF-Athlete @shapesbysteffy | Discount code : MARILYN10 ｆｉｎｄ ｙｏｕｒ ｆｉｒｅ⚡️
     location: "Switzerland"
-    followers: 7330
-    engagement: 1805
-    commentsToLikes: 0.051291
+    followers: 7914
+    engagement: 1643
+    commentsToLikes: 0.066209
     id: ckapbsp9h17a20i78knwkytik
     verified: false
-    hashtags: "#brainfood, #treatyourselfwell, #hairgrowth, #beauty"
-  - username: "moni0608"
+    hashtags: "#sponsored, #fashionstyle, #benakd, #happyme"
+  - username: "sabrinanachbaur"
     fullname: >-
-      🌹Monika🌹👩🏼
+      Sabrina
+    bio: >-
+      ʅσʋҽ ɱყ ϝαɱιʅყ ❤️ ϝαʂԋισɳ 👗👠 ɠσσԃ ϝσσԃ 🍓 ɳαƚυɾҽ, ƚɾαʋҽʅʅιɳɠ, αɳιɱαʅʂ αɳԃ ʂρσɾƚ 🚴🏿‍♀️💪
     location: "Switzerland"
-    followers: 5496
-    engagement: 1438
-    commentsToLikes: 0.400226
-    id: ckapbw7cm1ig50i78c44x522c
+    followers: 15308
+    engagement: 746
+    commentsToLikes: 0.180103
+    id: ck8t3z9f750x80j78x7ti2k32
     verified: false
-    hashtags: "#igers, #chocolate, #pasqua, #photo"
-  - username: "rogefederer"
-    fullname: >-
-      Roger Federer🧿
-    location: "Switzerland"
-    followers: 87122
-    engagement: 552
-    commentsToLikes: 0.021972
-    id: ck13b7si1u4120i19xvs4vkug
-    verified: false
-    hashtags: "#rafanadal, #legend, #scottiepippen, #quarantine"
-  - username: "gonilee"
-    fullname: >-
-      Gentiana ©️®️ тravel✨Lιғeѕтyle
-    location: "Switzerland"
-    followers: 93001
-    engagement: 230
-    commentsToLikes: 0.029833
-    id: ck0tucpgv6m5s0i190rrezo91
-    verified: false
-    hashtags: "#soon, #wellness, #autumnvibes, #blondhair"
-  - username: "geraldine.antoinette"
-    fullname: >-
-      Geraldine Antoinette Yoga ૐ
-    location: "Switzerland"
-    followers: 8856
-    engagement: 700
-    commentsToLikes: 0.189804
-    id: ck5zoznc1rp4w0i14wjljzi0q
-    verified: false
-    hashtags: "#spiderman, #athome, #ramones, #nogravity"
-  - username: "ninabotzen"
-    fullname: >-
-      Nina I nachhaltig & achtsam
-    location: "Switzerland"
-    followers: 30926
-    engagement: 279
-    commentsToLikes: 0.097896
-    id: ck55lij2g1nmr0i115zt0f339
-    verified: false
-    hashtags: "#wondersofnature, #stayhealthy, #designerwear, #wachmacher"
-  - username: "michaelwiget98"
-    fullname: >-
-      Michael Wiget
-    location: "Switzerland"
-    followers: 6597
-    engagement: 1324
-    commentsToLikes: 0.009633
-    id: ckap0sbk5rkre0i78bss2ds2z
-    verified: false
-    hashtags: "#hewoo, #nutrition, #newcar, #wellness"
-  - username: "tiiineli"
-    fullname: >-
-      Tina Thommen
-    location: "Switzerland"
-    followers: 3719
-    engagement: 1385
-    commentsToLikes: 0.055639
-    id: ckaot29rgu1wh0i78z05um8x0
-    verified: false
-    hashtags: "#singing, #wakingup, #creative, #days"
+    hashtags: "#alps, #walk, #view, #appenzell"
 ---

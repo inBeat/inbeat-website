@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Medellín In 2020
 description: >-
-  Find top travel TikTok influencers in Medellín in 2020. Most popular hashtags: #cartagena #ejecafetero #cali #antioquia.
+  Find top travel TikTok influencers in Medellín in 2020. Most popular hashtags: #colombia #travel #tiktokcolombia #viral.
 platform: TikTok
+hits: 8
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Medellín, Colombia for you to pitch.
 profiles:
+  - username: "camiloduque.z"
+    fullname: >-
+      Camilo Duque
+    bio: >-
+      CONTADOR DE HISTORIAS DE VIAJES Instagram: @camiloduque.z
+    location: "Colombia"
+    followers: 163400
+    engagement: 1266
+    commentsToLikes: 0.011666
+    id: ckbwextkv1so50j23lh3725o3
+    verified: false
+    hashtags: "#travel, #viaje, #colombia, #viajes"
   - username: "kasedna_travel"
     fullname: >-
       Juan Camilo Velez Or
+    bio: >-
+      Apasionado por los viajes y familia! IG: kasedna_travel
     location: "Colombia"
-    followers: 54390
-    engagement: 1010
-    commentsToLikes: 0.023965
+    followers: 107900
+    engagement: 1233
+    commentsToLikes: 0.023383
     id: ckacldqflf5c90i78cjh1wk27
     verified: false
-    hashtags: "#antioquia, #tiktoktravel, #brasil, #phillipines"
-  - username: "rinconesdecolombia"
+    hashtags: "#viral, #viajero, #farm, #tiktoktravel"
+  - username: "danielvergel_"
     fullname: >-
-      Viaja por Colombia
+      Daniel Vergel
+    bio: >-
+      Instagram @danielvergel_ Travel Blogger Colombiano 👇Link SORTEO Voluntariado👇
     location: "Colombia"
-    followers: 24365
-    engagement: 836
-    commentsToLikes: 0.018835
-    id: ckan0swrds4oc0i78aetdlbli
+    followers: 580500
+    engagement: 690
+    commentsToLikes: 0.017741
+    id: cka1068b7iamk0i78lzhcdpis
     verified: false
-    hashtags: "#cundinamarca, #mochileros, #travelcomombia, #tayrona"
+    hashtags: "#sanandres, #tiktokcolombia, #huracaneta, #guatape"
+  - username: "danielsinbrujula"
+    fullname: >-
+      danielsinbrujula
+    bio: >-
+      🗣️Aventurero de tiempo completo⏳ IG: @danielsinbrujula 🗺️ ¿10k?
+    location: "Colombia"
+    followers: 7649
+    engagement: 764
+    commentsToLikes: 0.046442
+    id: ckb9o7bxlii2j0j2385z5nu43
+    verified: false
+    hashtags: "#travel, #colombia, #viajar, #cascada"
+  - username: "erikerrante"
+    fullname: >-
+      💥Erik Moreno💥
+    bio: >-
+      INSTAGRAM▶️@erikerrante Viajando como Voluntario ✈ CONCURSO PARTICIPA YA👇
+    location: "Colombia"
+    followers: 241000
+    engagement: 961
+    commentsToLikes: 0.022824
+    id: ck9r4x49bx4q30j788xs5fhaw
+    verified: false
+    hashtags: "#travel, #increible, #viralvideo, #nolosabias"
+  - username: "damianrecorre"
+    fullname: >-
+      Damianrecorre
+    bio: >-
+      Sólo abierto por cuarentena .
+    location: "Colombia"
+    followers: 5718
+    engagement: 450
+    commentsToLikes: 0.065176
+    id: ckaux15y12ftc0j23swzu8z7w
+    verified: false
+    hashtags: "#travel, #colombia, #parati, #fyp"
   - username: "colombiatravel"
     fullname: >-
       Viaja por Colombia
+    bio: >-
+      Siguenos en Instagram ☝️ Los mejores vídeos de Colombia 🇨🇴
     location: "Colombia"
     followers: 6538
     engagement: 1057
     commentsToLikes: 0.021599
     id: ck9go86lp01a40j7838i9rtie
     verified: false
-    hashtags: "#mountains, #animals, #viral, #desayuno"
-  - username: "danielvergel_"
+    hashtags: "#playas, #santamarta, #sunset, #naturaleza"
+  - username: "carorojasrincon"
     fullname: >-
-      Daniel Vergel
+      Caro Rojas Rincón
+    bio: >-
+      Te ayudo a iniciar en el mundo digital. 🚀 IG @DominaTusRedesSociales 🤙🏻
     location: "Colombia"
-    followers: 31682
-    engagement: 1079
-    commentsToLikes: 0.027145
-    id: cka1068b7iamk0i78lzhcdpis
+    followers: 14500
+    engagement: 432
+    commentsToLikes: 0.052708
+    id: ck9rgyqpwd4mg0j783oe4xani
     verified: false
-    hashtags: "#foodlover, #catagena, #cuidemoselmundo, #goldengate"
-  - username: "erikerrante"
+    hashtags: "#socialmedia, #colombia, #instagram, #tiktokcolombia"
+  - username: "la_vidademike"
     fullname: >-
-      Erik Moreno
+      LaVidaDeMike
+    bio: >-
+      GoPro | Drone | Travel 🎥 IG📲 : @la_vidademike 🇨🇴
     location: "Colombia"
-    followers: 15940
-    engagement: 840
-    commentsToLikes: 0.025788
-    id: ck9r4x49bx4q30j788xs5fhaw
+    followers: 6681
+    engagement: 942
+    commentsToLikes: 0.025835
+    id: ckbwksx1q3uu70j23qowt004h
     verified: false
-    hashtags: "#travelwithme, #amazingvideos, #travelgoals, #shark"
-  - username: "richboyhn"
+    hashtags: "#tiktoktravel, #filmaker, #fouryou, #colombiatravel"
+  - username: "jturcios_official"
     fullname: >-
       J TURCIOS
+    bio: >-
+      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER HONDUREÑO 🇭🇳 📍🌎
     location: "Colombia"
-    followers: 16223
-    engagement: 492
-    commentsToLikes: 0.062663
+    followers: 26400
+    engagement: 518
+    commentsToLikes: 0.055976
     id: ckamwqotw9q580i78ik2fegvw
     verified: false
-    hashtags: "#guccicheck, #sunglasses, #diorama, #yeezy700"
-  - username: "kasedna_travel"
-    fullname: >-
-      Juan Camilo Velez Or
-    location: "Colombia"
-    followers: 54390
-    engagement: 1010
-    commentsToLikes: 0.023965
-    id: ckacldqflf5c90i78cjh1wk27
-    verified: false
-    hashtags: "#antioquia, #tiktoktravel, #brasil, #phillipines"
-  - username: "mattrivino"
-    fullname: >-
-      Manu & Mate
-    location: "Colombia"
-    followers: 6636
-    engagement: 753
-    commentsToLikes: 0.037743
-    id: cka0xdddh6m190i78crdizfwy
-    verified: false
-    hashtags: "#streetfood, #islasdelmundo, #playa, #dinamarca"
-  - username: "veteporelmundo"
-    fullname: >-
-      VeteporelMundo✈️🌏
-    location: "Colombia"
-    followers: 105948
-    engagement: 1266
-    commentsToLikes: 0.011513
-    id: cka0k7nl7lftt0i786nv13wok
-    verified: false
-    hashtags: "#gafaschallenge, #cats, #amigos, #amigas"
-  - username: "erikerrante"
-    fullname: >-
-      Erik Moreno
-    location: "Colombia"
-    followers: 15940
-    engagement: 840
-    commentsToLikes: 0.025788
-    id: ck9r4x49bx4q30j788xs5fhaw
-    verified: false
-    hashtags: "#travelwithme, #amazingvideos, #travelgoals, #shark"
+    hashtags: "#tiktokindia, #richboycheck, #tiktoklover, #viral"
 ---

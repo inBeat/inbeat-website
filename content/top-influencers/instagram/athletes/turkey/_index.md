@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Turkey In 2020
 description: >-
-  Find top athletes Instagram influencers in Turkey in 2020. Most popular hashtags: #ridetotheroots #19may #tbt #survivor.
+  Find top athletes Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #mustafakemalatat #corona.
 platform: Instagram
+hits: 57
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 57 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "barismrtyagci"
+  - username: "makinetalha"
     fullname: >-
-      Barış Murat Yağcı
+      Talha Çetin
+    bio: >-
+      Powerlifter 🇹🇷🦾 World Recordx2 🏆 Raw Total 800kg@109.2 kg @strongsoon Athlete ⭐️ @bigjoysports @bellanutsports Strength Coach | Youtube Kanalım! 🎥
     location: "Turkey"
-    followers: 1678528
-    engagement: 2111
-    commentsToLikes: 0.442804
-    id: ck15skw9qdiwr0i19unkq4l82
-    verified: true
-    hashtags: "#survivorturkiye, #motivasyon, #spor, #sa"
-  - username: "gamzekilicalikaya"
-    fullname: >-
-      GamzeKılıç
-    location: "Turkey"
-    followers: 18365
-    engagement: 1349
-    commentsToLikes: 0.227556
-    id: ck5c98kl7az6d0i11z58xkrmc
-    verified: true
-    hashtags: "#sport, #sponsored, #pomerianboo, #bandana"
-  - username: "ackgz.isa"
-    fullname: >-
-      İsa Bayram Açıkgöz
-    location: "Turkey"
-    followers: 5497
-    engagement: 747
-    commentsToLikes: 0.102070
-    id: ck6u4fp5y3g6k0j71ws1o7m56
+    followers: 41798
+    engagement: 1434
+    commentsToLikes: 0.100565
+    id: ck136pxam7oo50i19g9a3r2k6
     verified: false
-    hashtags: "#evdekal, #fails, #fail, #freerunninglife"
-  - username: "kubra.dagli"
+    hashtags: "#strongsoon, #powerlifting, #strongman, #makinetalha"
+  - username: "seymaercan"
     fullname: >-
-      KÜBRA DAĞLI
+      Seyma Ercan
+    bio: >-
+      🏐 Volleyball Player ✈Turkish Airlines @thysporkulubu 🇹🇷Turkish National Team @tvforgtr 👟 Asics Athlete @asics
     location: "Turkey"
-    followers: 308514
-    engagement: 713
-    commentsToLikes: 0.012884
-    id: ck13atlgzs49t0i193f0et0hc
+    followers: 48579
+    engagement: 940
+    commentsToLikes: 0.281076
+    id: ck9wgys07vjhm0j785wjsoyao
     verified: true
-    hashtags: "#carantina, #backflip, #taekwondo, #barbara"
+    hashtags: "#tokyo2020olympics, #throwbackmemories, #throwbacksummer"
+  - username: "d.e.r.b.o.s.s._"
+    fullname: >-
+      Ünsal M. Arık
+    bio: >-
+      * #MustafaKemalAtatürk * #Fenerbahce 💛💙 * #Veganathlete 🌱 * Ambassador @stiftungkinderherz ❤️ * @fitone_germany #Athlete
+    location: "Turkey"
+    followers: 154172
+    engagement: 814
+    commentsToLikes: 0.041932
+    id: ck5zjq434i1jo0i141p4prphv
+    verified: true
+    hashtags: "#jccledermoden, #fitonenu, #nikesportswear, #veganboss"
+  - username: "adem_kilicci"
+    fullname: >-
+      Adem Kılıççı
+    bio: >-
+      🇹🇷Olympic Athlete🇹🇷 📩İletişim : adem@ademkilicci.com
+    location: "Turkey"
+    followers: 573473
+    engagement: 788
+    commentsToLikes: 0.020912
+    id: ck0ub8n1ae0490i19urs8q6eo
+    verified: true
+    hashtags: "#spor, #balkaymak, #sportial, #sanabakmak"
   - username: "birkanpolatcom"
     fullname: >-
       Birkan Polat
+    bio: >-
+      👑 2x Turkey Stunt CHAMPION 🏆 🔷️ Red Bull Athlete Sponsors: Spormoto KTM, Hardline Nutrition, LiquiMoly, Mitas, ImpacTec, Vecton, SparkAuto
     location: "Turkey"
-    followers: 77991
-    engagement: 538
-    commentsToLikes: 0.026597
+    followers: 96702
+    engagement: 377
+    commentsToLikes: 0.030721
     id: ck6u6dyuvf1k70j710q9peoma
     verified: true
-    hashtags: "#youtube, #evdekal, #goodnight, #1may"
-  - username: "aysebegumonbasiofficial"
+    hashtags: "#sakarya2020, #sakarya, #bisikletvadisi, #atas"
+  - username: "gizemorge"
     fullname: >-
-      Ayşe Begüm Onbaşı
+      Gizem Örge
+    bio: >-
+      •Marmara Üniversitesi 😇📚 •Vakıfbank SK 💫🏆✌️ @vakifbanksk •Mizuno Athlete @mizunoshoptr •Contact & PR : atillaaydin7@hotmail.com 📍
     location: "Turkey"
-    followers: 62367
-    engagement: 719
-    commentsToLikes: 0.013273
-    id: ck5hikmdje06e0i110e5d0myf
+    followers: 39167
+    engagement: 799
+    commentsToLikes: 0.012693
+    id: ck5c5yrhs4e7z0i116nzouw7z
     verified: true
-    hashtags: "#saturdayvibes, #stayhomestaysafe, #evdekalformdakal, #quarentineandchill"
+    hashtags: "#dahag, #voleybol, #championsleague, #lovelytb"
   - username: "baristelliofficial"
     fullname: >-
       Baris Telli
+    bio: >-
+      🇹🇷Pro.Amputee Football Player Best Player Award Winner UEFA Equal Game Ambassador TFF EURO2024 Ambassador Paralympic Athlete P. E. Teacher 🇹🇷 Contact:
     location: "Turkey"
-    followers: 19096
-    engagement: 1029
-    commentsToLikes: 0.019096
+    followers: 23733
+    engagement: 775
+    commentsToLikes: 0.028332
     id: ck5zmd5l3mcqg0i14ztvngv0r
     verified: true
-    hashtags: "#bar, #evde19may, #dunyasampiyonasi, #izb"
-  - username: "karagenc3"
-    fullname: >-
-      Didem Karagenç
-    location: "Turkey"
-    followers: 18580
-    engagement: 1432
-    commentsToLikes: 0.014605
-    id: ckap29560xxay0i7893n2scls
-    verified: true
-    hashtags: "#karantinag, #verybeautiful, #tbt, #tb"
+    hashtags: "#corona, #evdeyiz, #amputee, #evdekal"
   - username: "zehragns18"
     fullname: >-
       Zehra Gunes
+    bio: >-
+      🏐Vakıfbank SK @vakifbanksk 🇹🇷Turkish National Team @tvforgtr 👟 Mizuno Athlete @mizunoshoptr 📍PR:info@socialsport.biz
     location: "Turkey"
-    followers: 180353
-    engagement: 2477
-    commentsToLikes: 0.008181
+    followers: 238200
+    engagement: 1994
+    commentsToLikes: 0.007264
     id: ckap5nbhgcf8o0i788bt7sw4k
     verified: true
-    hashtags: "#quarantinewinners, #stayathome"
+    hashtags: "#stayathome, #womensupportingwomen, #womenempowerment, #formore"
   - username: "melike_pekel27"
     fullname: >-
       Melike Pekel
+    bio: >-
+      🇹🇷 |👟Nike Athlete Pro footballer Havre AC ⚽️ ✉️🖋 @team.avsports - info@avsports.co
     location: "Turkey"
-    followers: 26194
-    engagement: 1685
-    commentsToLikes: 0.012107
+    followers: 23671
+    engagement: 1939
+    commentsToLikes: 0.012050
     id: ck5q045yh45jz0i11c8i491ki
     verified: true
-    hashtags: "#wilderkerlschonimmer, #teamenglish, #livingroomcup, #meinem"
+    hashtags: "#tbt, #justdoit, #mondgesicht, #aile"
+  - username: "ismailbalaban7"
+    fullname: >-
+      İsmail Balaban🇹🇷
+    bio: >-
+      📍Antalya 🔹BAŞPEHLİVAN 2013-2017 Gold Belt 🔹Salwar Wrestling World Champion 🔹Red Bull Athlete 🔹Spora adanmış bir hayat
+    location: "Turkey"
+    followers: 47256
+    engagement: 1233
+    commentsToLikes: 0.009472
+    id: ck8sy0n0njbkn0j78lxfnn7oz
+    verified: true
+    hashtags: "#hungary, #ko, #sports, #health"
 ---

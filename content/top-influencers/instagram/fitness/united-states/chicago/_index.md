@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Chicago In 2020
 description: >-
-  Find top fitness Instagram influencers in Chicago in 2020. Most popular hashtags: #fitness #chicago #memories #quarantine.
+  Find top fitness Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #fitness #model #love.
 platform: Instagram
+hits: 239
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 239 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "randdiabmd"
+  - username: "james.liss"
     fullname: >-
-      𝗥𝗮𝗻𝗱 𝗗𝗶𝗮𝗯, 𝗠𝗗 𝗢𝗽𝗵𝘁𝗵𝗮𝗹𝗺𝗼𝗹𝗼𝗴𝗶𝘀𝘁
+      James Liss
+    bio: >-
+      Fitness Coach Natural Athlete DM for coaching inquiries YouTube James Liss Snapchat: JLiss22
     location: "United States"
-    followers: 11690
-    engagement: 371
-    commentsToLikes: 0.220185
-    id: ck55mtdqt4r2i0i11bftnrmp4
+    followers: 106652
+    engagement: 180
+    commentsToLikes: 0.011796
+    id: ck0vwjbetu35y0i19snf4hmso
     verified: false
-    hashtags: "#zakat, #ramadan2020, #ramadan1441, #eidsaeed"
-  - username: "love.carrington"
+    hashtags: "#diet, #gymmotivation, #instafitness, #bodybuilding"
+  - username: "cityangelic"
     fullname: >-
-      ᴄᴀʀʀɪɴɢᴛᴏɴ ғʀᴀɴᴋʟɪɴ-ɴᴀᴋᴡᴀᴀsᴀʜ💕
+      Angelic Brockman | Model
+    bio: >-
+      DM to book ✨ ✖️ Chicago ✖️ Jeremiah 29:11 ✖️ 23, German/Chinese/Irish @angelicbrockman
     location: "United States"
-    followers: 58104
-    engagement: 1252
-    commentsToLikes: 0.015101
-    id: ck5ho5ji1oz3o0i11y4x0fuhc
+    followers: 3352
+    engagement: 1163
+    commentsToLikes: 0.087459
+    id: ck137pfjmcpi60i19mdzfvrho
     verified: false
-    hashtags: "#jordan1, #inmyjs, #baylor, #sicem"
-  - username: "lisa_spring_usa"
+    hashtags: "#photography, #photoshoot, #fitness, #chicagomodels"
+  - username: "thealiyahferrell"
     fullname: >-
-      𝐋𝐈𝐒𝐀 𝐒𝐏𝐑𝐈𝐍𝐆( ЛИСА )
+      Aliyah
+    bio: >-
+      📍CHI Multi-Faceted💎 Ferrell.aliyah@gmail.com 📧 @kingsarise 👑 Code: AMAZON10 Official Model of REDEAUX✨ Lady Boss - @the_amazon_goddess
     location: "United States"
-    followers: 20901
-    engagement: 135
-    commentsToLikes: 0.052483
+    followers: 2747
+    engagement: 811
+    commentsToLikes: 0.088593
+    id: ck6u4n9k54ozu0j71nx3srgvw
+    verified: false
+    hashtags: "#fashionshow, #scoutmerock, #scoutmeselect, #duraghistoryweek"
+  - username: "lisa_spring_fit"
+    fullname: >-
+      𝐋𝐈𝐒𝐀 𝐒𝐏𝐑𝐈𝐍𝐆
+    bio: >-
+      Your online fitness coach Healthy lifestyle tips and workouts ⠀ Фитнес мама в Америке ——— 🔻Train with me🔻
+    location: "United States"
+    followers: 18090
+    engagement: 132
+    commentsToLikes: 0.036321
     id: ck0vvpv5jq7ze0i19c9vz3v16
     verified: false
-    hashtags: "#cute, #picoftheday, #puppylove, #work"
+    hashtags: "#chicagofitness, #newmom, #personaltrainer, #fitnessmotivation"
+  - username: "cesciwest"
+    fullname: >-
+      Cescilia West🍍
+    bio: >-
+      Venezuelan 🇻🇪 in Chicago Foodlover/ Selfcare&Fashion/Photos📷❣️ Travel&Places 🗺 ➡️ @cescirecipes 🥞 💖
+    location: "United States"
+    followers: 8467
+    engagement: 560
+    commentsToLikes: 0.040133
+    id: ck6tskjvt5a7z0j71mwn8w7p5
+    verified: false
+    hashtags: "#portrait, #chitown, #style, #neworleans"
+  - username: "stephenaaaron"
+    fullname: >-
+      Stephen Davalos
+    bio: >-
+      catch me in the kitchen or on a bike
+    location: "United States"
+    followers: 2471
+    engagement: 1015
+    commentsToLikes: 0.094828
+    id: ckapb683nyq2n0i782io665y5
+    verified: false
+    hashtags: "#gay, #chicago, #love, #instadaily"
+  - username: "mr_meighen"
+    fullname: >-
+      MITCHEL MEIGHEN
+    bio: >-
+      👨🏼‍🔬 Education 🏋🏽‍♂️ Fitness 📍Chicago 💬 He/him ✨One day you'll leave this world behind, so live a life you will remember.
+    location: "United States"
+    followers: 30313
+    engagement: 306
+    commentsToLikes: 0.021023
+    id: ckaothyj6vzsp0i781s7bde6h
+    verified: false
+    hashtags: "#earthday, #classof2020, #teachabroad, #mhn"
   - username: "morganbraastad"
     fullname: >-
       Morgan Braastad
+    bio: >-
+      What’s the vibe? Deep mahogany. Ephesians 3:20
     location: "United States"
-    followers: 86555
-    engagement: 1036
-    commentsToLikes: 0.003386
+    followers: 96693
+    engagement: 852
+    commentsToLikes: 0.004068
     id: ck9hcgtg8lbj30j786061wnea
     verified: false
-    hashtags: "#fallfashion, #quarantine, #dolifeaf, #youtuber"
-  - username: "itselivazquez"
+    hashtags: "#instachicago, #fitfam, #soulcycle, #chicagomodel"
+  - username: "jizzymack"
     fullname: >-
-      Eli Vazquez
+      Ray  Sadeghi
+    bio: >-
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
     location: "United States"
-    followers: 51068
-    engagement: 548
-    commentsToLikes: 0.020777
-    id: ck139l7yelv9t0i19kodshr7g
+    followers: 212389
+    engagement: 139
+    commentsToLikes: 0.015024
+    id: ck0vx1u47wpyl0i19oypik8rj
     verified: false
-    hashtags: "#smile, #blackandwhite, #film, #humanity"
-  - username: "sold.my.sole"
+    hashtags: "#ufc, #fitness, #bible, #chicago"
+  - username: "hollykeskey_koester"
     fullname: >-
-      
+      Holly Keskey-Koester
+    bio: >-
+      Fitness•Motherhood SR INSTRUCTOR @barrys Chicago Ambassador @lululemonchi @lululemon
     location: "United States"
-    followers: 31162
-    engagement: 112
-    commentsToLikes: 0.015785
-    id: ckap1qz3mvqpv0i78mcp49509
+    followers: 5057
+    engagement: 804
+    commentsToLikes: 0.034961
+    id: ckaore1uhmsm50i78zjvi3jgm
     verified: false
-    hashtags: "#yeezycreamwhite, #voltgreen, #nike, #kicksonchicks"
-  - username: "adgopro1"
-    fullname: >-
-      Adam
-    location: "United States"
-    followers: 148728
-    engagement: 207
-    commentsToLikes: 0.011002
-    id: ck5hnnx6ho3ff0i11konjdqym
-    verified: false
-    hashtags: "#pretty, #firstshoot, #justawindow, #gorgeous"
-  - username: "ohhhtrev"
-    fullname: >-
-      Trevor LaPaglia
-    location: "United States"
-    followers: 47417
-    engagement: 522
-    commentsToLikes: 0.021022
-    id: ck6u5iaha9slg0j71689kzmxj
-    verified: false
-    hashtags: "#life, #ilovecanada, #daddy, #oreojunkie"
-  - username: "drnedadubai"
-    fullname: >-
-      Dr Neda Dubai | Chiropractor
-    location: "United States"
-    followers: 8030
-    engagement: 712
-    commentsToLikes: 0.049910
-    id: ck9wp30kp7l2u0j78wme29s6g
-    verified: false
-    hashtags: "#accidentdubai, #anklemobility, #yogadubai, #dubaiwomen"
-  - username: "katelemere"
-    fullname: >-
-      Chicago Fitness Blogger
-    location: "United States"
-    followers: 20782
-    engagement: 297
-    commentsToLikes: 0.039376
-    id: ck9wf9tlmnvk90j78221apd3b
-    verified: false
-    hashtags: "#ad, #fitnessgoals, #tfp, #sponsored"
+    hashtags: "#vote, #challenge, #lift, #repeat"
 ---

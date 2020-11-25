@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Austin In 2020
 description: >-
-  Find top yoga Instagram influencers in Austin in 2020. Most popular hashtags: #yoga #austin #austintexas #stayhome.
+  Find top yoga Instagram influencers in Austin in 2020. Most popular hashtags: #yoga #fitness #texas.
 platform: Instagram
+hits: 50
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 50 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "yogini_tasha"
+  - username: "michaelclarkphoto"
     fullname: >-
-      Tasha Mascareno
+      Michael Clark
+    bio: >-
+      Internationally published, award-winning adventure photographer. @NatGeoTravel contributor. Live Passionately. Push it to the edge. Prints available.
     location: "United States"
-    followers: 20159
-    engagement: 299
-    commentsToLikes: 0.131485
-    id: ck0vycklv3b600i196uokwf9t
+    followers: 109645
+    engagement: 271
+    commentsToLikes: 0.009777
+    id: ck0uc3ziufwsu0i193b6zebhy
     verified: false
-    hashtags: "#cleveland, #dogsofig, #saturday, #lmao"
-  - username: "flipsolomon"
+    hashtags: "#fujifilmgfx100, #bigwavesurfing, #nepal, #indiancreek"
+  - username: "kaitlyn_raymond"
     fullname: >-
-      Flip Solomon | Pen & Ink
+      Kaitlyn Raymond
+    bio: >-
+      Be a voice not an echo ✨ FrameworkEntertainment•ErisTalent
     location: "United States"
-    followers: 10356
-    engagement: 725
-    commentsToLikes: 0.030192
-    id: ck5znklnzonj60i14o0arnxe8
+    followers: 24085
+    engagement: 140
+    commentsToLikes: 0.044322
+    id: ckap7rcgsl83d0i78o7ebbp6b
     verified: false
-    hashtags: "#gorobabank, #blackzephyr, #thefuture, #macgyverit"
+    hashtags: "#sunset, #portrait, #fashion, #fitness"
+  - username: "yenismonterrey"
+    fullname: >-
+      Yenis Monterrey
+    bio: >-
+      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
+    location: "United States"
+    followers: 28043
+    engagement: 286
+    commentsToLikes: 0.237386
+    id: ckaoxs08fehfh0i78xy0bpjb5
+    verified: false
+    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
   - username: "palmvisuals"
     fullname: >-
       A Cinematic Film Co.
+    bio: >-
+      ▪️Digital Marketing 💻 ▪️Cinematic Wedding Films 💍 ▪️Luxury Real Estate Tours + Branding 🎥 ▪️Award Winning Videography Team 🏆
     location: "United States"
     followers: 6667
     engagement: 708
     commentsToLikes: 0.025605
     id: ck5zvnkh34kna0i14d7njvut6
     verified: false
-    hashtags: "#bridesmaids, #couplegoals, #invest, #filmmaker"
-  - username: "newjohnnysins"
+    hashtags: "#luxurycars, #house, #entrepreneur, #architecture"
+  - username: "redandrelaxed"
     fullname: >-
-      Johnny Sins
+      Nicole Pákozdi
+    bio: >-
+      Bring LIGHT wherever you go✨ Real authentic content Pakozdi.n14@gmail.com 💌 Austin, Tx
     location: "United States"
-    followers: 37700
-    engagement: 1184
-    commentsToLikes: 0.021081
-    id: ck8wdh3nadtx10j78bng8sq4e
+    followers: 14836
+    engagement: 345
+    commentsToLikes: 0.065849
+    id: ck0vxifoiz1uq0i190e42wjb2
     verified: false
-    hashtags: "#lasvegas, #covid19, #hopeoutdoorgallery, #vr"
-  - username: "truebluewill"
+    hashtags: ""
+  - username: "cpresso"
     fullname: >-
-      Just Will
+      Caroline
+    bio: >-
+      beauty, hair & fashion 🌵Austin, TX hellocpresso@gmail.com @hellocpresso
     location: "United States"
-    followers: 10829
-    engagement: 417
-    commentsToLikes: 0.032977
-    id: ck13ad1hrps800i19uyed2apq
+    followers: 168600
+    engagement: 84
+    commentsToLikes: 0.027305
+    id: ckaorhhmfn8l30i78f1bf7iyi
     verified: false
-    hashtags: "#intention, #hadtodoit, #shibastagram, #drillweekends"
-  - username: "laurenmarek"
-    fullname: >-
-      Lauren Marek
-    location: "United States"
-    followers: 50528
-    engagement: 126
-    commentsToLikes: 0.018152
-    id: ck0u1a4xfw9590i192n38qpxn
-    verified: false
-    hashtags: "#mothersday, #yoga, #cactus, #elinchrom"
-  - username: "simpleliving13"
-    fullname: >-
-      Brittany Taylor 🙃💋
-    location: "United States"
-    followers: 17727
-    engagement: 521
-    commentsToLikes: 0.050275
-    id: ck8t9c7jenkei0j781b0epr8z
-    verified: false
-    hashtags: "#ilovethislife, #loving, #ilovelife, #bathingpregnant"
+    hashtags: "#fentybeauty, #atxstyle, #heterochromia, #austintexas"
   - username: "shihpoogeorge"
     fullname: >-
       Shihpoo George
+    bio: >-
+      1/2 Shihtzu + 1/2 poodle 🐩 Micro-influencer 🐶 12.8 lbs of twisted steel & shihpoo appeal 🏹 Austin, TX 🌵
     location: "United States"
-    followers: 4255
-    engagement: 1873
-    commentsToLikes: 0.037791
+    followers: 4484
+    engagement: 1538
+    commentsToLikes: 0.044990
     id: ck8t392772e0s0j78js48dps1
     verified: false
-    hashtags: "#dogsof512, #stpatricksday, #camel, #draftday"
+    hashtags: "#dogsofinstagram, #shihtzusofig, #shihtzulover, #shihtzulovers"
+  - username: "cdenice"
+    fullname: >-
+      Christian Denice
+    bio: >-
+      Choreographer | Dancer Yoga Instructor Los Angeles
+    location: "United States"
+    followers: 21599
+    engagement: 754
+    commentsToLikes: 0.013838
+    id: ck8syxi5umebu0j78sd1u37ir
+    verified: false
+    hashtags: "#choreographer, #artist, #contemporarydance, #creation"
   - username: "swiftwellness"
     fullname: >-
       Ashley | Wellness Blogger 🌱
+    bio: >-
+      Travel lovin’ cat mama helping YOU become your BEST self Health | fashion | self-care | wellness | travel 📍 Austin 👇🏻Blog & shop (Tiktok finds below)
     location: "United States"
     followers: 48212
     engagement: 228
     commentsToLikes: 0.041874
     id: ck13aefwvpzo30i19wk2hd7jb
     verified: false
-    hashtags: "#plantsofinstagram, #swiftstories, #woodburningart, #happymothersday"
-  - username: "gustavoapadron"
+    hashtags: "#ltkfit, #ltkhome, #swiftwellness, #mindbodygram"
+  - username: "zobootiful"
     fullname: >-
-      Gustavo Padron
+      Zoe Weinlader
+    bio: >-
+      ASU Alumni Health & Wellness Enthusiast 💛🍌 Yoga Sculpt Instructor
     location: "United States"
-    followers: 17614
-    engagement: 162
-    commentsToLikes: 0.111008
-    id: ck0w715kcb8pw0i19lictajef
+    followers: 2236
+    engagement: 1857
+    commentsToLikes: 0.031125
+    id: ck6ttu7alclyd0j713bcae4r1
     verified: false
-    hashtags: "#easypeacy, #yogayrespirar, #onlinecommunity, #getyourcardio"
+    hashtags: "#iykyk, #ashleyandscotty2019, #nationalboyfriendday, #instagramboyfriend"
 ---

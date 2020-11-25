@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top fitness Instagram influencers in Jakarta in 2020. Most popular hashtags: #fitness #jakarta #indonesia #repost.
+  Find top fitness Instagram influencers in Jakarta in 2020. Most popular hashtags: #fitness #ootd #indonesia #jakarta.
 platform: Instagram
+hits: 31
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 31 Instagram influencers like this in Jakarta, Indonesia for you to contact.
 profiles:
-  - username: "alifreall"
+  - username: "kepinhelmy"
     fullname: >-
-      BANTU 15K✨
+      KEPIN HELMY - Hotel Reviewer
+    bio: >-
+      📍 Jakarta, ID 🥣 OPENING SOON : @ayambuburkepin 📱TikTok : @kepinhelmy 🍿YouTube Channel👇🏼 [GIVEAWAY SWISSÔTEL]
     location: "Indonesia"
-    followers: 12245
-    engagement: 558
-    commentsToLikes: 0.183869
-    id: ck9whq6adyz720j78spdpm4bi
+    followers: 70210
+    engagement: 132
+    commentsToLikes: 0.132166
+    id: ck5hlvduykxn00i118tdwxcri
     verified: false
-    hashtags: "#sulawesi, #picoftheday, #video, #workfromhome"
-  - username: "pitutur_jawi"
+    hashtags: "#anyer, #staycation, #bogor, #hoteldianyer"
+  - username: "adrianmaulana"
     fullname: >-
-      Pitutur Jawi ( ꦥꦶꦠꦸꦠꦸꦂ​ꦗꦮꦶ )
+      Adrian Maulana, CFP®️
+    bio: >-
+      Artis | Praktisi Investasi | Bisnis | Hidup Sehat ☕️ @alcal_coffee 🕌 @muslimnesia_id 📱 +6281386501070 (AM management)
     location: "Indonesia"
-    followers: 52813
-    engagement: 112
-    commentsToLikes: 0.015193
-    id: ck14j6ktaitwv0i19q48y8dqo
-    verified: false
-    hashtags: "#health, #wesmrengesgung, #jowohits, #training"
-  - username: "bayu_dwg"
+    followers: 239374
+    engagement: 111
+    commentsToLikes: 0.047191
+    id: ck55mme4d49uy0i11saxefyzp
+    verified: true
+    hashtags: "#hijrah, #keluarga, #adrianmaulana, #sharingiscaring"
+  - username: "theodorusginting"
     fullname: >-
-      Bayu_Dwg
+      Theodorus Ginting | SINGAKARO
+    bio: >-
+      @balimma @youc1000water @hawkeyefightwear GTAconstruction @mposport @lionsmma_pluit
     location: "Indonesia"
-    followers: 41120
-    engagement: 1059
-    commentsToLikes: 0.016887
-    id: ck8t8odqel4q50j78jyf6tx8p
+    followers: 37879
+    engagement: 398
+    commentsToLikes: 0.043626
+    id: ck0vybi8j35sh0i19kct7juav
     verified: false
-    hashtags: "#lflflflflflflf, #sosweet, #seleb, #mager"
-  - username: "dicksonnjj"
+    hashtags: "#youc1000isotonic, #edukasi, #mposport, #beladiribesrsatu"
+  - username: "kartunshalihah"
     fullname: >-
-      Dickson Jingga
+      Kartun Shalihah
+    bio: >-
+      Follow juga 👉 @baitislamii @menjadiislami @menjadiberhijrah @teladandiri 💡Inspirasi Muslimah Shalihah PP? DM Layanan Mengaji Privat Online 👇👇👇Klik👇👇👇
     location: "Indonesia"
-    followers: 7861
-    engagement: 1447
-    commentsToLikes: 0.015757
-    id: ck0tz98s6pl5t0i19sbnq9ukl
+    followers: 69406
+    engagement: 201
+    commentsToLikes: 0.006705
+    id: ck8t7wl60i7i60j78vv0cfnct
     verified: false
-    hashtags: "#train, #amateur, #introvert, #shot"
-  - username: "risyadsalman"
+    hashtags: "#pembesarpayudaraalami, #payudaraindah, #pelangsing, #payudarakendur"
+  - username: "andrew_yogi"
     fullname: >-
-      Risyad
+      Andrew Yogi
+    bio: >-
+      Business inquiries : 📩 hello.andrewyogi@gmail.com 📲 0818701289 (francisca) 👕 @v__noir 📍 Jakarta #andrewyogi
     location: "Indonesia"
-    followers: 17372
-    engagement: 299
-    commentsToLikes: 0.023996
-    id: ck13a91c1p83t0i19upvm8gbk
+    followers: 68282
+    engagement: 415
+    commentsToLikes: 0.013981
+    id: ck5cgqzx1pdz10i1161ciiv85
     verified: false
-    hashtags: "#2018, #nature, #talent, #healthyfood"
+    hashtags: "#portraitphotography, #wanderlust, #menshair, #simplefits"
+  - username: "valentinopeter_"
+    fullname: >-
+      valentino
+    bio: >-
+      🇦🇫 🇮🇩 📍Jakarta @adamevemodels
+    location: "Indonesia"
+    followers: 39630
+    engagement: 944
+    commentsToLikes: 0.010877
+    id: ck5c9bh7xb4vd0i11koxcbvbe
+    verified: false
+    hashtags: "#traveling, #ootd, #zadaliveaboard, #labuanbajo"
+  - username: "hendritake"
+    fullname: >-
+      Hendri Take
+    bio: >-
+      Winner @InfluenceAsia 2015 BA @garminid Entrepreneur @clickjahe @kebuntake @takepottery •VISEE Yoga Coach 📍Jakarta🇮🇩
+    location: "Indonesia"
+    followers: 133868
+    engagement: 261
+    commentsToLikes: 0.018722
+    id: ck13cwnnv2j0g0i19ddixmb1j
+    verified: false
+    hashtags: "#heretocreate, #yogalife, #eranyagarmin, #garminid"
+  - username: "brendapantja"
+    fullname: >-
+      Brenda Immanuella
+    bio: >-
+      Fitness • Beauty • Lifestyle @go_fitlife’s athlete💪🏽 ⠀ try @hiki.niku 🥢 wear @tootempted.id 👗 thrift @99.basement 👖 bite @tamacreperie🍓 🔑𝗥𝗼𝗺𝗮𝗻𝘀 𝟴:𝟮𝟴
+    location: "Indonesia"
+    followers: 26136
+    engagement: 220
+    commentsToLikes: 0.042986
+    id: ck6u8z1gluj0h0j71qhgi7v52
+    verified: false
+    hashtags: "#potd, #whatiwore, #portrait, #womensfashion"
   - username: "rennireree"
     fullname: >-
       Renni Rere 💎/📍Jakarta
+    bio: >-
+      PSALM 37:4-5 🌏 Fitness, Fashion & Lifestyle Collab& Photoshoot: 💌 Line - @rennireree 📬 collabinfo.rere@gmail.com 📸 @sharecreative_ I’m beyond blessed
     location: "Indonesia"
-    followers: 260525
-    engagement: 150
-    commentsToLikes: 0.011035
+    followers: 286962
+    engagement: 110
+    commentsToLikes: 0.009175
     id: ck5q86fhl4nz90i11pvyahbl5
     verified: false
-    hashtags: "#dirumahaja, #infogiveaway, #giveawayindonesiaupdate, #bagibagihadiah"
-  - username: "luminousdreamsphotoworks"
+    hashtags: "#hands4diabetes, #jconeblack, #glicowingsicecream, #eskrimjepang"
+  - username: "chitrachef"
     fullname: >-
-      Luminousdreamsphotoworks
+      Chef Chitra
+    bio: >-
+      Mama for @soul_jakarta YouTube : Chef Chitra
     location: "Indonesia"
-    followers: 20865
-    engagement: 316
-    commentsToLikes: 0.056942
-    id: ck5zj65d4h0hy0i148ptafesh
-    verified: false
-    hashtags: "#hijab, #muslim, #dominican, #fitness"
-  - username: "rahmatshield_721"
-    fullname: >-
-      ʀᴀʜᴍᴀᴛ_ᴀɴɢɢᴀʀᴀᴏꜰꜰɪᴄɪᴀʟ✨
-    location: "Indonesia"
-    followers: 20197
-    engagement: 618
-    commentsToLikes: 0.199700
-    id: ck9whbb5jx4y30j78bcsguicr
-    verified: false
-    hashtags: "#senam, #tiktokers, #diet, #followorfollow"
-  - username: "dody_sportisi"
-    fullname: >-
-      Dody Syahputra WFF PRO 🇮🇩
-    location: "Indonesia"
-    followers: 35068
-    engagement: 203
-    commentsToLikes: 0.036850
-    id: ck5pvud9ijohb0i11oeym2b09
-    verified: false
-    hashtags: "#baby, #pandemi, #lebaran, #laripagi"
-  - username: "kopertraveler.id"
-    fullname: >-
-      Sinyo
-    location: "Indonesia"
-    followers: 34514
-    engagement: 167
-    commentsToLikes: 0.260870
-    id: ck0vzeagk8ojx0i19km5w1ihb
-    verified: false
-    hashtags: "#pesandarikantor, #seleranusantara, #coffeelover, #saychiz"
+    followers: 60417
+    engagement: 267
+    commentsToLikes: 0.029723
+    id: ck6txw6om07gq0j71zn03ugly
+    verified: true
+    hashtags: "#loungewear, #diet, #blondegoal, #icyblonde"
 ---

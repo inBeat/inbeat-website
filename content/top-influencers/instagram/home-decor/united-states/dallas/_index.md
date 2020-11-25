@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Dallas In 2020
 description: >-
-  Find top home decor Instagram influencers in Dallas in 2020. Most popular hashtags: #homedecor #dallastexas #texas #interiordesign.
+  Find top home decor Instagram influencers in Dallas in 2020. Most popular hashtags: #homedecor #dallasblogger #dallasfoodie #ad.
 platform: Instagram
+hits: 66
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 66 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "thebelleofthebudget"
+  - username: "_annietucker"
     fullname: >-
-      Megan
+      Annie Tucker
+    bio: >-
+      🍪 www.takeabiteblog.com @thesocialorderok | @confessionsofarentaholic Dallas | Oklahoma City
     location: "United States"
-    followers: 25999
-    engagement: 308
-    commentsToLikes: 0.180733
-    id: ck13czi5r2wsg0i190qnh3v8w
+    followers: 7124
+    engagement: 623
+    commentsToLikes: 0.057386
+    id: ckaox78x8c3fo0i780c9dy640
     verified: false
-    hashtags: "#mavscare, #boho, #cincodemayo, #ootd"
-  - username: "mizdanajames"
-    fullname: >-
-      Dana James
-    location: "United States"
-    followers: 21042
-    engagement: 838
-    commentsToLikes: 0.067512
-    id: ck1373xfg9ngv0i19txtixy1u
-    verified: false
-    hashtags: "#mixedmedia, #abtractlovers, #rainbowlight, #anxietyrelief"
-  - username: "nextwithnita"
-    fullname: >-
-      Nita Mann
-    location: "United States"
-    followers: 345607
-    engagement: 136
-    commentsToLikes: 0.073821
-    id: ck0txjdb5jdwt0i19g01yj4d6
-    verified: true
-    hashtags: "#abercrombie, #familydog, #sunscreen, #highrise"
-  - username: "pauletteinsall"
-    fullname: >-
-      Abstract Art / Portland Artist
-    location: "United States"
-    followers: 69499
-    engagement: 139
-    commentsToLikes: 0.031264
-    id: ck0u0kvb6u5nv0i19h9wpug0w
-    verified: false
-    hashtags: "#portlandartscene, #pinkdecoration, #artiststudios, #maketimefordesign"
+    hashtags: "#dallasfoodblogger, #takeabite, #takeasip, #perfectchocolatechipcookies"
   - username: "askfoodbitch"
     fullname: >-
       foodbitch | Dallas’ OG
+    bio: >-
+      I'LL TELL YOU WHAT TO EAT & YOU'LL LIKE IT. 🔪 word writer | food eater Tag: #foodbitchapproved 99% 📷 Ⓒfoodbitch iPhone foodtography FREE opinions at👇
     location: "United States"
     followers: 43735
     engagement: 105
     commentsToLikes: 0.098930
     id: ck5hlao58jvoc0i11mkmmvl73
     verified: false
-    hashtags: "#staythefuckhome, #dallasblogger, #cardi, #treatyourself"
-  - username: "missylynn"
+    hashtags: "#hosted, #dallasinfluencer, #stayhome, #ad"
+  - username: "livinglocurto"
     fullname: >-
-      MISSY LYNN 💋
+      Amy Locurto - Lifestyle Blog
+    bio: >-
+      Living Locurto® - Fun Ideas, Easy Recipes, & DIY Home Decor 📌 Pinterest Marketing Expert (35 million +) 🤠 Dallas, TX 👇 Get The Blog Links 👇
     location: "United States"
-    followers: 364607
-    engagement: 224
-    commentsToLikes: 0.019156
-    id: ck15rsobk9i360i19jjbx7r36
+    followers: 31568
+    engagement: 81
+    commentsToLikes: 0.204031
+    id: ck5pvkvuwidq90i117pf1aulb
     verified: true
-    hashtags: "#igexplorer, #livingroominspo, #designlovers, #explore"
-  - username: "averiebishop"
+    hashtags: "#funfoodforkids, #bhgcelebrate, #mypinterest, #eeeeeats"
+  - username: "jenkinsinteriors"
     fullname: >-
-      Aves 🇵🇭
+      jenkins interiors
+    bio: >-
+      High-End Residential, Full-Scale Interior Design Firm located in Dallas, TX #schemescometrue #dallas #interiordesign
     location: "United States"
-    followers: 4536
-    engagement: 1865
-    commentsToLikes: 0.064016
-    id: ck9whgx4qxssy0j78tp1y0wjt
+    followers: 52912
+    engagement: 233
+    commentsToLikes: 0.027789
+    id: ckaor092hl5pv0i785nqqsfgj
     verified: false
-    hashtags: "#running, #corinavirus, #singing, #comedy"
-  - username: "world_of_engineering"
-    fullname: >-
-      World of Engineering
-    location: "United States"
-    followers: 2296758
-    engagement: 87
-    commentsToLikes: 0.008563
-    id: ck8t0bkg7ri9z0j78xc7uo9ky
-    verified: false
-    hashtags: "#concrete, #beer, #building, #manufacturing"
+    hashtags: "#interiordesign, #classyinteriors, #homeinteriors, #dallasdesigndistrict"
   - username: "xtenlovesyou"
     fullname: >-
-      XTEN 🤍 Home + Travel + Dance
+      XTEN
+    bio: >-
+      Hey there! ✨I’m a proud Latina & former NFL Dancer who loves traveling, cuddling with my fur baby & listening to reggaeton 🤍 Dαℓℓαѕ, тχ ✭
     location: "United States"
-    followers: 7147
-    engagement: 904
-    commentsToLikes: 0.127357
+    followers: 7146
+    engagement: 930
+    commentsToLikes: 0.106246
     id: ck6udmve6m0430j712pc51tw0
     verified: false
-    hashtags: "#travelinglife, #collab, #energy, #celebrating"
-  - username: "n.arasah"
+    hashtags: "#dallasinfluencer, #latina, #mentalhealthawareness, #latinainfluencer"
+  - username: "alismithstyle"
     fullname: >-
-      ⋒ nana arasah ⋒
+      Ali Smith
+    bio: >-
+      Ohio Fashion Blogger 📍 Showcasing my outfits and travel one day at a time Wife // Momma to Vivi 💕 Find my looks and join my blog below ✨👇🏻
     location: "United States"
-    followers: 15055
-    engagement: 331
-    commentsToLikes: 0.078857
-    id: ck15rlcz98hkk0i193fp9a6ca
+    followers: 146310
+    engagement: 113
+    commentsToLikes: 0.086457
+    id: ck5qdz7qixyvj0i11hkbd8ufe
     verified: false
-    hashtags: "#journeyofgirls, #placestovisit, #sheisnotlost, #travellondon"
+    hashtags: "#vicidolls, #ltkunder100, #mommyandme, #fallfashion"
+  - username: "beingmarrica"
+    fullname: >-
+      Marrica Evans || DALLAS
+    bio: >-
+      @marricaevans here! 📸 👑 Instagram queen. 🎙 Host at @instastorygang ✨ Creator of @thecontentcamp
+    location: "United States"
+    followers: 25272
+    engagement: 1037
+    commentsToLikes: 0.044432
+    id: ck13933u8j9z10i19atn3lgy3
+    verified: false
+    hashtags: "#blackisking, #contentcreator, #marricataughtme, #aposttosave"
+  - username: "itslaurenrose"
+    fullname: >-
+      Lauren Rose
+    bio: >-
+      Style • Life • Home ✖️ Dallas, TX ✉️laurenarose10@gmail.com NEWEST YOUTUBE VIDEO
+    location: "United States"
+    followers: 7946
+    engagement: 494
+    commentsToLikes: 0.101126
+    id: ckaox5heubvdw0i78w5m0a4cg
+    verified: false
+    hashtags: "#explore, #couplegoals, #ootd, #viral"
+  - username: "yariiimartinez"
+    fullname: >-
+      YARI ✩ TEXAS BLOGGER
+    bio: >-
+      ✩ coffee, lifestyle & beauty ✨ ✩ latina blogger 🇲🇽🇸🇻 + dog mom 🐾 ✩ TikTok @yariiimartinez (7k+) ✩ brenham, tx ✩ hou,tx ✩ texas ex ✩ @cfashionista
+    location: "United States"
+    followers: 2487
+    engagement: 1318
+    commentsToLikes: 0.199803
+    id: ckap1wdhkwd770i78qt3r690v
+    verified: false
+    hashtags: "#bestincraft, #wheatleyvodka, #ad21, #austintx"
+  - username: "lindseyhomedesign"
+    fullname: >-
+      Lindsey Walker
+    bio: >-
+      Interior Design Services ▫️ Dallas, Texas▫️We offer in-home consults and E-Design. For inquiries ✉️ : lindseywhomedesign@gmail.com #interiordesigner
+    location: "United States"
+    followers: 20084
+    engagement: 402
+    commentsToLikes: 0.099488
+    id: ck0twxhagh6150i19ypmnr0h5
+    verified: false
+    hashtags: "#entryway, #myhomevibe, #finditstyleit, #heyhomehey"
 ---

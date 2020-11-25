@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top models Instagram influencers in Ukraine in 2020. Most popular hashtags: # #model #tiktok #2020.
+  Find top models Instagram influencers in Ukraine in 2020. Most popular hashtags: #love #mood #happy.
 platform: Instagram
+hits: 320
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 320 Instagram influencers like this in Ukraine for you to work with.
 profiles:
   - username: "andeevaio"
     fullname: >-
       Andee Vaio
+    bio: >-
+      model
     location: "Ukraine"
-    followers: 6870
-    engagement: 1216
-    commentsToLikes: 0.014172
+    followers: 6755
+    engagement: 855
+    commentsToLikes: 0.056150
     id: ck0u1mji8x9j10i19mutu8yje
     verified: false
-    hashtags: "#dubaimood, #myquarantine, #rainyday, #catchmeifyoucan"
-  - username: "alisia_krasnova"
+    hashtags: "#37weekspregnant, #loveis, #2monthsold"
+  - username: "sofiafashionicone"
     fullname: >-
-      💙 Алисия 💙
+      Sofi-Nikol Kidsfashion
+    bio: >-
+      🎀Kids Fashion Blogger/ 🎀Model/ Agent in Europe @ksyusha_abdukhanova ⠀ @modamodakids ⠀ @pkmanagement ⠀ Account run by mum
     location: "Ukraine"
-    followers: 2881
-    engagement: 2448
-    commentsToLikes: 0.271835
-    id: ck9wop0pw5zxc0j78cixi6vg2
+    followers: 17865
+    engagement: 683
+    commentsToLikes: 0.111835
+    id: ck5q3wjq2mpd00i11x37fcsgp
     verified: false
-    hashtags: "#dancerflying, #italianvacation, #lovesport, #lovepointe"
-  - username: "_sofiia__official_"
-    fullname: >-
-      София🌸
-    location: "Ukraine"
-    followers: 8301
-    engagement: 1400
-    commentsToLikes: 0.205276
-    id: ck5zs2g6hxp2n0i14ovca43hx
-    verified: false
-    hashtags: ""
+    hashtags: "#fashionkidz, #kidsfashioninstamodel, #kidsstyling, #topmodel"
   - username: "berezhnaya_nataliya"
     fullname: >-
       ♐️ MuzychkoNatali
+    bio: >-
+      Ukraine 🇺🇦 Actress 🎬 Model 📷 Канал Украина «Реальная мистика»🧟‍♀️ YouTube сериал «Хостел» 🙎🏼‍♀️
     location: "Ukraine"
-    followers: 26575
-    engagement: 857
-    commentsToLikes: 0.045400
+    followers: 28007
+    engagement: 1012
+    commentsToLikes: 0.038755
     id: ck135sb572zc20i19c3gwe0im
     verified: false
-    hashtags: "#wine, #doll, #memories, #real"
-  - username: "paco_rabanova"
+    hashtags: "#woman, #instagram, #mood, #actress"
+  - username: "sofia_liv"
     fullname: >-
-      Paco_Rabanova
+      Sofia liv ❤️
+    bio: >-
+      Ukraine 📀Very young student 📀Model👠 📀Miss madness 2019 📀Artist 📀Beginning photographer
     location: "Ukraine"
-    followers: 97290
-    engagement: 769
-    commentsToLikes: 0.028433
-    id: ck8syfouskoyd0j78sac2tkxo
+    followers: 5057
+    engagement: 1817
+    commentsToLikes: 0.567093
+    id: ck9weutxhlxtw0j78rxfc149y
     verified: false
-    hashtags: ""
-  - username: "simply_nastya"
+    hashtags: "#liketime, #like4likes, #galactikmarafon, #l4l"
+  - username: "eva_shevchenko_holovko_actress"
     fullname: >-
-      
+      Ева Шевченко-Головко Actress 🎬
+    bio: >-
+      🎬🌟Actress #таещеактрисаЕва 📸👠Model 💃Dancer 📚 Schoolgirl ❤️Kiev my heart ✨World my dream ✨You're my friend 📩account managed Y Shevchenko cont Direct
     location: "Ukraine"
-    followers: 11313
-    engagement: 840
-    commentsToLikes: 0.098701
-    id: ckap7tw7qljl60i78gb2bcw7p
+    followers: 9010
+    engagement: 1667
+    commentsToLikes: 0.101062
+    id: ck8t82w31iwpo0j78qdtjhryq
     verified: false
-    hashtags: "#commercialmodel, #modellife, #homeparty, #coronameme"
-  - username: "miss_juliar"
+    hashtags: "#photo, #cast, #kyiv, #teenmodel"
+  - username: "_sofiia__official_"
     fullname: >-
-      YULIIA RYBCHUK 🎬ХОЛ💍СТЯК 10🌹
+      София🌸
+    bio: >-
+      Model 💫 Account runs by mum MA @katemodels_kids @hip4kidz @btalentscout 📩 Сотрудничество в Директ Work: Pitti Bimbo 90🇮🇹Patachou🇵🇹Banana Fashion🇮🇱
     location: "Ukraine"
-    followers: 82743
-    engagement: 357
-    commentsToLikes: 0.060781
-    id: ckap1wrdqweop0i786awq1x7y
+    followers: 17461
+    engagement: 1377
+    commentsToLikes: 0.133927
+    id: ck5zs2g6hxp2n0i14ovca43hx
     verified: false
-    hashtags: "#paris, #liketime"
+    hashtags: "#photobyphone"
   - username: "tanya.bayer.cosplay"
     fullname: >-
       TANYA BAYER
+    bio: >-
+      Cosplayer & Model from Ukraine Costume maker, World of Warcraft fan👾 Cooperation & other: DM or e-mail 💌
     location: "Ukraine"
-    followers: 40543
-    engagement: 836
-    commentsToLikes: 0.026915
+    followers: 43102
+    engagement: 839
+    commentsToLikes: 0.031526
     id: ckaoygywbhhg60i78psf89pyi
     verified: false
     hashtags: ""
-  - username: "ulyana_brunette"
+  - username: "torythebest"
     fullname: >-
-      🎀Ульяна🎀
+      Виктория Хода
+    bio: >-
+      💃🏻Model 👰Moms twins👼👼👫 👩Мама любимых двойняшек Алисы и Васи 👫27.04.2017👨‍👩‍👧‍👦 ⠀Ссылка на выпуск «Меняю Жену»👇👇👇
     location: "Ukraine"
-    followers: 15547
-    engagement: 1302
-    commentsToLikes: 0.026444
-    id: ck15qkdyh39v40i19kprd5ond
+    followers: 50818
+    engagement: 421
+    commentsToLikes: 0.052074
+    id: ck5qdxhxxxqqh0i11k0rkvnw6
     verified: false
-    hashtags: "#23"
-  - username: "_nanadi_"
+    hashtags: "#happybirthday, #love, #nice, #girls"
+  - username: "tanyamermaids"
     fullname: >-
-      
+      𝓣𝓪𝓷𝔂𝓪🥀
+    bio: >-
+      Не вижу жизни без перевоплощений🔥 Artist, make-up, cosplay, model Делаю ноготки: @tanyamermaid_nail Cooperation: 📩 🇺🇦 Ukraine
     location: "Ukraine"
-    followers: 15922
-    engagement: 498
-    commentsToLikes: 0.073599
-    id: ck8t52d7r8lk80j78syfa5bet
+    followers: 9248
+    engagement: 804
+    commentsToLikes: 0.092320
+    id: ck15ppj2hz0hd0i19p6j5e3an
     verified: false
-    hashtags: "#sunsetssunrises, #coronatime, #besafe, #summerathome"
+    hashtags: "#sofiafantasymarathon, #ucanbe"
+  - username: "roxsita_"
+    fullname: >-
+      𝙍𝙊𝙆𝙎𝙊𝙇𝘼𝙉𝘼 𝙃𝙐𝙇𝙐𝘼𝙉𝙄𝘾𝙃
+    bio: >-
+      MODEL | PHOTOGRAPHER ▫️photo @ph.roxsita ▫️знімаю для брендів ⠀ 𝚌𝚘𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗 @cooperation.roxsita 📮
+    location: "Ukraine"
+    followers: 85205
+    engagement: 284
+    commentsToLikes: 0.043998
+    id: ck5hshr51wmde0i11uy68vz8u
+    verified: false
+    hashtags: "#sony"
 ---

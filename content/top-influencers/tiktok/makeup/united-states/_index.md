@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In United States In 2020
 description: >-
-  Find top makeup TikTok influencers in United States in 2020. Most popular hashtags: #gonnabefriends #gotthisforyou #cosplayer #alwayslearning.
+  Find top makeup TikTok influencers in United States in 2020. Most popular hashtags: #duet #greenscreen #happyhalloween #ohno.
 platform: TikTok
+hits: 8379
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 8379 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "ach.artt"
+  - username: "alyjae4real"
     fullname: >-
-      Amy 💫
+      Aly Jae
+    bio: >-
+      👑Storyteller/Actress/Makeup Artist 📧 alyjaemua@gmail.com “However, Comma” ♊️
     location: "United States"
-    followers: 14047
-    engagement: 2485
-    commentsToLikes: 0.056786
-    id: ck8w1b6q219lo0j78kc5yadn2
+    followers: 137400
+    engagement: 2389
+    commentsToLikes: 0.046685
+    id: ckahxrsgywexa0i784lo10o7u
     verified: false
-    hashtags: "#cosplayer, #finalsathome, #disney, #healthheroes"
-  - username: "cafe_art"
+    hashtags: "#greenscreen, #stitch, #greenscreenvideo, #duet"
+  - username: "vivalapinkposh"
     fullname: >-
-      CaFe
+      vivalapinkposh
+    bio: >-
+      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
     location: "United States"
-    followers: 11598
-    engagement: 2323
-    commentsToLikes: 0.095894
-    id: ckacr8r6r4el80i78ubydddss
+    followers: 694700
+    engagement: 2287
+    commentsToLikes: 0.075881
+    id: ckai0ai6q6v8z0i782maw6om4
     verified: false
-    hashtags: "#goodnight, #tired, #positivevibes, #littlethings"
+    hashtags: "#duet, #christmas, #dollar, #fyp"
+  - username: "kinnylleigh"
+    fullname: >-
+      kinda mediocre 
+    bio: >-
+      Biz-kindalltoidc@gmail.com Insta/YT/cameo👇 I love makeup 💄
+    location: "United States"
+    followers: 158500
+    engagement: 2052
+    commentsToLikes: 0.049057
+    id: ckbkxz2a1u4lm0j2349gaci02
+    verified: false
+    hashtags: "#foryou, #foryoupage, #fyp, #happyhalloween"
+  - username: "thevintagegoree"
+    fullname: >-
+      •Black Retro Babe•
+    bio: >-
+      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+    location: "United States"
+    followers: 19000
+    engagement: 3024
+    commentsToLikes: 0.087918
+    id: ckb0tojgwj34e0j23rnt9nl2q
+    verified: false
+    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
+  - username: "apurplepsycho"
+    fullname: >-
+      💜 Hope 💜
+    bio: >-
+      💜 18 🤗 taken ⚠️ props/makeup ✨ 16+ duets please! 🏳️‍🌈 LGBT she/her
+    location: "United States"
+    followers: 60000
+    engagement: 2506
+    commentsToLikes: 0.066140
+    id: ckbatxe7rkjvh0j23xmm9x0dx
+    verified: false
+    hashtags: "#stitch, #greenscreenvideo, #duet, #fnaf"
+  - username: "fruit_loop_haggz"
+    fullname: >-
+      haggz_23_🌈
+    bio: >-
+      23✨randomness, art🎨 makeup she/her les.be.honest🌈❤🌈
+    location: "United States"
+    followers: 15800
+    engagement: 2465
+    commentsToLikes: 0.084749
+    id: ckbf08abnlqw80j2324tpzuph
+    verified: false
+    hashtags: "#showupshowoff, #blindreaction, #ohno, #voiceeffects"
+  - username: "aeraeubanks"
+    fullname: >-
+      AERA
+    bio: >-
+      Following back if you follow my insta!!👆 📍Los Angeles Makeup•Music•Dance🤍
+    location: "United States"
+    followers: 83800
+    engagement: 2437
+    commentsToLikes: 0.046740
+    id: ckbb268iisje30j23c19147g6
+    verified: false
+    hashtags: "#cloudydiffuser, #hoodbaby, #fyp, #foryou"
+  - username: "shamrockbeauty"
+    fullname: >-
+      Shamrock Beauty
+    bio: >-
+      Beka Shamrock Normalizing Mental Health w/ Makeup and big Headpieces
+    location: "United States"
+    followers: 336000
+    engagement: 2349
+    commentsToLikes: 0.030561
+    id: ckbweq3lh1o330j23q61okmrk
+    verified: false
+    hashtags: "#voteblue, #biden2020, #31daysofhalloween, #halloweenmakeup"
+  - username: "i.need.a.witch"
+    fullname: >-
+      i.need.a.witch
+    bio: >-
+      Madi 24 bi, makeup and witchcraft, where am I? 16+ only venmo: @madi-chism
+    location: "United States"
+    followers: 5591
+    engagement: 2042
+    commentsToLikes: 0.088338
+    id: ckbf46lgmshzs0j23xuf910mm
+    verified: false
+    hashtags: "#ohno, #voteblue, #sendhelp, #witchtok"
   - username: "crisalexmua"
     fullname: >-
       Cris Alex
+    bio: >-
+      Monsters and Makeup 💄 🎨 IG : @crisalexmua YT : @crisalex Etsy : CrisAlexShop
     location: "United States"
-    followers: 39916
-    engagement: 2065
-    commentsToLikes: 0.061750
+    followers: 62700
+    engagement: 2022
+    commentsToLikes: 0.074422
     id: ck8w48f7r88vb0j78arjvfq4v
     verified: false
-    hashtags: "#makeupvideo, #keepingactive, #littlethings, #cosplay"
-  - username: "livvybean_"
-    fullname: >-
-      Liv 
-    location: "United States"
-    followers: 40182
-    engagement: 1957
-    commentsToLikes: 0.047595
-    id: ck8kd9v2w4ruo0j78ntlcb8aa
-    verified: false
-    hashtags: "#greenscreen, #yearbook2020, #corona, #verucasalt"
-  - username: "acidtripjay"
-    fullname: >-
-      Jay ✨
-    location: "United States"
-    followers: 75117
-    engagement: 2652
-    commentsToLikes: 0.034069
-    id: ck9glmhinoy5n0j7876nfse66
-    verified: false
-    hashtags: "#foodfam, #gotthisforyou, #bedroomcheck, #yoplaitcuprelay"
-  - username: "lexinsherwood"
-    fullname: >-
-      sherwoodlexi
-    location: "United States"
-    followers: 5506
-    engagement: 2018
-    commentsToLikes: 0.062764
-    id: ck9rndcng71140j78zj4ll33g
-    verified: false
-    hashtags: "#earthday, #fyou, #alien, #alienchallenge"
-  - username: "beckyboling1"
-    fullname: >-
-      Becky Boling
-    location: "United States"
-    followers: 7686
-    engagement: 1792
-    commentsToLikes: 0.152314
-    id: ck9sjc2qe2y4r0j78jd8f9hz3
-    verified: false
-    hashtags: "#goodnight, #foryoupage, #soulmate, #thedrop"
-  - username: "sophsoda"
-    fullname: >-
-      Sophia
-    location: "United States"
-    followers: 9606
-    engagement: 1698
-    commentsToLikes: 0.065803
-    id: ck8vtjgb6gh200j787umueowg
-    verified: false
-    hashtags: "#nighttimeart, #stopmotionart, #indoorworkout, #loveyoself"
-  - username: "nadeeyuh"
-    fullname: >-
-      nadia
-    location: "United States"
-    followers: 969462
-    engagement: 2255
-    commentsToLikes: 0.015485
-    id: ck8hmy735oc8n0j78hrppzgf8
-    verified: true
-    hashtags: "#anime, #pov, #tutorial, #gummygame"
-  - username: "mellyrosel"
-    fullname: >-
-      Melanie Rose LaCombe
-    location: "United States"
-    followers: 178861
-    engagement: 2095
-    commentsToLikes: 0.025186
-    id: ck8s8jq5yu44t0j787lhn0oam
-    verified: false
-    hashtags: "#tutorial, #dothescotts, #tiktokcovers, #quarantinenails"
+    hashtags: "#waitforit, #babyyoda, #voldemort, #nightmareonelmstreet"
 ---

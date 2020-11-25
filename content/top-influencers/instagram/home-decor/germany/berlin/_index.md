@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Berlin In 2020
 description: >-
-  Find top home decor Instagram influencers in Berlin in 2020. Most popular hashtags: #homedecor #stayathome #interior #homesweethome.
+  Find top home decor Instagram influencers in Berlin in 2020. Most popular hashtags: #homedecor #berlin #ootd #interiordesign.
 platform: Instagram
+hits: 63
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 63 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "mey_home"
+  - username: "homebysema_"
     fullname: >-
-      📍Deutschland • Europa  •Ceyiz
+      SEMA / INTERIOR  / Youtube⬇️
+    bio: >-
+      🦋Home/Dekorasion/ Inspo🦋 @biobellindainteriorbysema_ Sayfama ve evime Hosgeldin .. München/ Izmir / Erzincan
     location: "Germany"
-    followers: 37260
-    engagement: 109
-    commentsToLikes: 0.016382
-    id: ck8t3efmw2yhn0j784pug4sd7
+    followers: 46323
+    engagement: 117
+    commentsToLikes: 0.173852
+    id: ckaorot3ao5tq0i789e58marc
     verified: false
-    hashtags: "#mundnasenmaske, #babydeco, #walimah, #geschenk"
-  - username: "kimilaura"
+    hashtags: "#design, #bayern, #decor, #furniture"
+  - username: "vrenifrost"
     fullname: >-
-      KIM ENGEL | Berlin
+      Vreni Frost
+    bio: >-
+      🛎 Autorin | Moderatorin | Sprecherin ✌🏼 Infaulenzer 👑 Management/Impressum: www.reineke-partner.de 🔗 Eigenwerbung | Podcast Summa Summarum:
     location: "Germany"
-    followers: 26465
-    engagement: 175
-    commentsToLikes: 0.097947
-    id: ck5q7ynn33n8a0i11s9fvh71p
-    verified: false
-    hashtags: "#detailsmatter, #interior, #jewelryoftheday, #newtothecrew"
-  - username: "aliciaconditioner"
+    followers: 53663
+    engagement: 163
+    commentsToLikes: 0.103129
+    id: ck5hog1b6phw00i11h5qxj8wr
+    verified: true
+    hashtags: "#homesweethome, #dekoideen, #katzenleben, #zuhause"
+  - username: "capsulegardens"
     fullname: >-
-      A L I C I A ✨
+      Cami
+    bio: >-
+      ▫️Landscape architect▫️ ▫️#Berlin based #terrarium artist▫️ ▫️Creating self-efficient ecosystems▫️ ▫️#kokedama, #urbanjungle and #yoga pro
     location: "Germany"
-    followers: 10399
-    engagement: 994
-    commentsToLikes: 0.062129
-    id: ckaowizrc95070i78saim718m
+    followers: 14649
+    engagement: 325
+    commentsToLikes: 0.022112
+    id: ck5hpucuwrzfs0i11qhmv2l4e
     verified: false
-    hashtags: "#sparkleandshine, #shinebright, #girlsquad, #graffitiberlin"
-  - username: "sindy.tkl"
+    hashtags: "#flaschengarten, #plantsinfocus, #pflanzen, #pflanzenvaddi"
+  - username: "la_doll_cevita"
     fullname: >-
-      SINDY | TRAVEL | FASHION
+      Hi it's me Ela & friends 💋🇩🇪
+    bio: >-
+      💕👉 Interior, Lifestyle, Fashion & Travel 💕👉 All you see is 1:6 scale 💕👉 Love to design & create furniture 💕👉 4 dioramas and more to come
     location: "Germany"
-    followers: 26864
-    engagement: 255
-    commentsToLikes: 0.168966
-    id: ck55nwmne756m0i11ln55cuie
+    followers: 12309
+    engagement: 501
+    commentsToLikes: 0.022953
+    id: ck139k6b3lplq0i19bkyzuyjq
     verified: false
-    hashtags: "#mask, #nakdfashion, #denim, #mikrobiom"
+    hashtags: "#diorama, #stayathomedollpants, #barbie, #barbiestyle"
   - username: "miraberlin"
     fullname: >-
-      mira | berlin blogger
+      funda | blogger berlin
+    bio: >-
+      fashion • beauty • lifestyle ✉️ insta@miraberlin.com Head of Marketing @phonetastisch My babies: @berlin.ragdolls | 🇹🇷
     location: "Germany"
-    followers: 25654
-    engagement: 528
-    commentsToLikes: 0.499484
+    followers: 25204
+    engagement: 515
+    commentsToLikes: 0.404990
     id: ck6tu0mb7dmra0j71ktjvktzh
     verified: false
-    hashtags: "#popmirror, #popsockets, #uhren, #autumnvibez"
-  - username: "nisi"
+    hashtags: "#selfietime, #interiorinspo, #nakdcode, #nakdfashion"
+  - username: "casa_lollipop_by_nadine"
     fullname: >-
-      NISI
+      Casa Lollipop by Nadine 🎀🍭🎀
+    bio: >-
+      •Düsseldorf•Fashion,Best Ager Model, Shopowner & Lifestyle• •Collaboration and Business: 💌 n.hinkel@casa-lollipop.de 🔜Hamburg🔜Berlin🔜Sylt🔜Mallorca
     location: "Germany"
-    followers: 75103
-    engagement: 223
-    commentsToLikes: 0.042085
-    id: ck6torvdafqzo0j718mt2xud9
+    followers: 19849
+    engagement: 435
+    commentsToLikes: 0.196313
+    id: ck15uz728p6go0i1901ials5m
+    verified: false
+    hashtags: "#ladylike, #over40woman, #streetstyle, #classywoman"
+  - username: "veronika_klimovits"
+    fullname: >-
+      Veronika Klimovits
+    bio: >-
+      🇩🇪GER / RUS 🇷🇺 Fashion, Healthy & Foodlover Bunny 🐰 PLAYMATE OF THE YEAR‘19 🏆 📍Berlin KALENDER BESTELLUNGEN HIER ⬇️
+    location: "Germany"
+    followers: 97951
+    engagement: 306
+    commentsToLikes: 0.062227
+    id: ck13bd4luuuqq0i19odzvpflm
     verified: true
-    hashtags: "#fashionsociety, #homedecor, #filmwave, #shootfilm"
-  - username: "conn_ie_"
+    hashtags: "#tropicalvibes, #takemethere, #prettylittleiiinspo, #styleinspo"
+  - username: "la_frecks"
     fullname: >-
-      ♡Connie♡
+      Stef
+    bio: >-
+      writes about and for the soul 🌙 • mom of aoki 🌈 & mr. snoop • 🌱 berlin
     location: "Germany"
-    followers: 31801
-    engagement: 109
-    commentsToLikes: 0.144306
-    id: ck6triltpz71a0j71np07aw92
+    followers: 60255
+    engagement: 1053
+    commentsToLikes: 0.019235
+    id: ck5cjv4axvk9h0i11f72vm7wk
     verified: false
-    hashtags: "#bleachingtees, #bracelet, #curlscurlcurls, #primark"
-  - username: "___duundich__"
+    hashtags: "#madetomakeadifference, #armedangels, #ecoandfair, #cozyhome"
+  - username: "sabrinawayneee"
     fullname: >-
-      Retro Vintage Boho Colorful
+      𝐒𝐚𝐛𝐫𝐢𝐧𝐚
+    bio: >-
+      𝐃𝐀𝐈𝐋𝐘 𝐌𝐎𝐌 𝐋𝐈𝐅𝐄 | 𝐅𝐀𝐒𝐇𝐈𝐎𝐍 | 𝐅𝐎𝐎𝐃 Lian‘s Mama 05/2019 📍 Berlin, Braunschweig based 💌 Contact: sabrinawayneee@gmail.com Meine Posts enthalten Werbung
     location: "Germany"
-    followers: 80944
-    engagement: 658
-    commentsToLikes: 0.034582
-    id: ck15qhp0v2w5t0i1920gy0xfo
+    followers: 27938
+    engagement: 252
+    commentsToLikes: 0.061479
+    id: ck6tul76pgyvm0j71vmqcc5jx
     verified: false
-    hashtags: "#flowerstyle, #floweraddict, #plantstyling, #cakedecorating"
-  - username: "easyinterieur"
+    hashtags: "#inspo, #ootdinspiration, #travel, #braunschweig"
+  - username: "dotpakistani"
     fullname: >-
-      MELIKE• Interior•DIY•Lifestyle
+      Maryam.A.Ibraheem
+    bio: >-
+      Living The Moment ✨ Modest Fashion | Hijab Tutorials | Life Art Account @_artbydot Based in Berlin, 🇩🇪 Youtube Channel 👇🏼
     location: "Germany"
-    followers: 402426
-    engagement: 202
-    commentsToLikes: 0.037805
-    id: ck0u1fv1kwpy70i196jschgt7
+    followers: 35350
+    engagement: 360
+    commentsToLikes: 0.040999
+    id: ck6ty3ld41hb30j716g3ropd8
     verified: false
-    hashtags: "#flur, #kidsroom, #easterdecor, #decoracio"
-  - username: "irsonvladi"
-    fullname: >-
-      Irsonvladi
-    location: "Germany"
-    followers: 63658
-    engagement: 398
-    commentsToLikes: 0.090367
-    id: ck8tcto8i0mzm0j78rmjp0zmw
-    verified: false
-    hashtags: "#green, #dogsofinstagram, #naturelovers, #skin"
+    hashtags: "#hijabstylist, #hijabtutorial, #modestootd, #desifashion"
 ---

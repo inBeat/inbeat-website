@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Porto In 2020
 description: >-
-  Find top fitness Instagram influencers in Porto in 2020. Most popular hashtags: #fitness #fashion #peace #menstyle.
+  Find top fitness Instagram influencers in Porto in 2020. Most popular hashtags: #portugal #porto #fitness #summer.
 platform: Instagram
+hits: 16
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 16 Instagram influencers like this in Porto, Portugal for you to connect with.
 profiles:
-  - username: "joaogoncalo10"
+  - username: "trainermiguel24"
     fullname: >-
-      João Gonçalo 🇵🇹🇪🇸
+      Sérgio Miguel
+    bio: >-
+      🥑 | Fitness & Nutrition 🏋️‍♂️ | CrossFit ❤️ | Mais de 4000 clientes com resultados em todo o mundo
     location: "Portugal"
-    followers: 54013
-    engagement: 203
-    commentsToLikes: 0.097553
-    id: ck8ta3t9zqd5m0j783o71qdvi
+    followers: 13835
+    engagement: 294
+    commentsToLikes: 0.022801
+    id: ck9whf8vdxlbk0j78aufxpy66
     verified: false
-    hashtags: "#blogger, #lifestyle, #life, #catalunya"
-  - username: "rubenfjorge"
+    hashtags: "#fitness, #porto, #portugal, #fit"
+  - username: "marina.belun"
     fullname: >-
-      Ruben Jorge
+      Marina Belun - Content Creator
+    bio: >-
+      👩🏽‍💻 Designer @moonmagicjewelry 📸 #videographer 🌎 #Traveladdicted 📍 Lisbon
     location: "Portugal"
-    followers: 11010
-    engagement: 2428
-    commentsToLikes: 0.011382
-    id: ck8talc55s8m80j78xs02h0e9
+    followers: 7090
+    engagement: 473
+    commentsToLikes: 0.049261
+    id: ck5hp973hqyok0i11chy9wfod
     verified: false
-    hashtags: "#pole, #homedecor, #praia, #wanderlust"
+    hashtags: "#comewithme, #inspiration, #explore, #travel"
+  - username: "iamfabioteles"
+    fullname: >-
+      F A B I O • T E L E S
+    bio: >-
+      - @centralmodels 🇵🇹 - @fashionnovamen Ambassador For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
+    location: "Portugal"
+    followers: 157818
+    engagement: 730
+    commentsToLikes: 0.011503
+    id: ck5qdynmfxw7z0i118o9xwukj
+    verified: false
+    hashtags: "#weekend, #domingo, #workout, #caparica"
+  - username: "inkartluis"
+    fullname: >-
+      LUÍS FIGUEIREDO ART
+    bio: >-
+      Freelancer artist 🇵🇹 Available COMMISSIONS & ONLINE LESSONS TWITCH ACCOUNT:
+    location: "Portugal"
+    followers: 82495
+    engagement: 355
+    commentsToLikes: 0.015587
+    id: ck137ndqvceks0i19qbxxr8zw
+    verified: false
+    hashtags: "#panties, #artist, #animefanart, #art"
   - username: "alexandracortereal_"
     fullname: >-
       Alexandra Corte Real ✨
+    bio: >-
+      • Porto 🇵🇹 • #fitnessaddict 🏋🏼‍♀️ • Collabs 📩 - alexandracortereal.instagram@gmail.com • @myproteinpt - “ALEXANDRAMP”
     location: "Portugal"
-    followers: 47229
-    engagement: 271
-    commentsToLikes: 0.018635
+    followers: 73769
+    engagement: 503
+    commentsToLikes: 0.046625
     id: ck6to63qxcb9d0j71awwiv9m3
     verified: false
-    hashtags: "#selfcare, #womenstyle, #staythefuckhome, #nopainnogain"
+    hashtags: "#quarentena, #gains, #miss, #tbt"
+  - username: "rubenfjorge"
+    fullname: >-
+      Ruben Jorge
+    bio: >-
+      🌆 Porto ©️ 1991 ♓️ Pharmacist 🏨 🎠The carousel never stops turning 🎠 @myblissbody rubenfjorge15 @mvmt
+    location: "Portugal"
+    followers: 11558
+    engagement: 1579
+    commentsToLikes: 0.014434
+    id: ck8talc55s8m80j78xs02h0e9
+    verified: false
+    hashtags: "#fitness, #summer, #body, #shredded"
+  - username: "raaquelmatoss"
+    fullname: >-
+      Raquel Matos
+    bio: >-
+      📍Porto/ 🏠 Setúbal Fashion, Lifestyle, Healthy Living RAQUELMATOS15 @eunutrition_pt 15% desconto RAQUELM 15% @tummytox_pt ✉️ anarsmatos9@gmail.com
+    location: "Portugal"
+    followers: 12702
+    engagement: 620
+    commentsToLikes: 0.044531
+    id: ckap1o61jvdsj0i78njw9k4qr
+    verified: false
+    hashtags: "#today, #portugal, #fashionblogger, #fitnessmotivation"
+  - username: "vicenteixeiraa"
+    fullname: >-
+      ᴠɪᴄᴇɴᴛᴇ ᴛᴇɪxᴇɪʀᴀ
+    bio: >-
+      🦂|MENSTYLE |FITNESS 📸 @vinespresets 📍Coimbra, Portugal 10% OFF @trendhim ⬇️⬇️⬇️
+    location: "Portugal"
+    followers: 8392
+    engagement: 650
+    commentsToLikes: 0.025446
+    id: ckaoxo8lxe3d50i784hkn141j
+    verified: false
+    hashtags: "#mensoutfit, #mensfashion, #porto, #summervibes"
+  - username: "pcngomes27"
+    fullname: >-
+      Pedro Gomes
+    bio: >-
+      📍Porto • PERSONAL TRAINER: Fitnesshut Antas, Outdoor e Domicílio
+    location: "Portugal"
+    followers: 9987
+    engagement: 440
+    commentsToLikes: 0.010645
+    id: ckf5ub9kbk8s20j238go6irp7
+    verified: false
+    hashtags: "#nature, #summervibes, #portugal, #men"
   - username: "barbarapintoribeiro"
     fullname: >-
       Bárbara
+    bio: >-
+      👉🏽Unagi @espelhomeu_hairstudio
     location: "Portugal"
-    followers: 20918
-    engagement: 1023
-    commentsToLikes: 0.031299
+    followers: 26562
+    engagement: 869
+    commentsToLikes: 0.019210
     id: ck8t79lu6g1i90j78ujqac4rf
     verified: false
-    hashtags: "#europe, #santorini, #view, #collab"
-  - username: "ricardo.carrico_oficial"
-    fullname: >-
-      Ricardo Carriço
-    location: "Portugal"
-    followers: 47475
-    engagement: 306
-    commentsToLikes: 0.042782
-    id: ck6tq15hdotkf0j71bdcr7a3o
-    verified: true
-    hashtags: "#aniversario, #weekend, #bemestar, #poetas"
-  - username: "henriquesadio"
-    fullname: >-
-      H E N R I Q U E   S A D I O
-    location: "Portugal"
-    followers: 13529
-    engagement: 629
-    commentsToLikes: 0.107835
-    id: ck6tzni0paqyv0j711dovhaoc
-    verified: false
-    hashtags: "#boat, #mansunglasses, #goldenhour, #happy"
-  - username: "luismiguelferreiraa"
-    fullname: >-
-      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
-    location: "Portugal"
-    followers: 55184
-    engagement: 480
-    commentsToLikes: 0.133921
-    id: ck6tiiamt0rrx0j71siov3t0m
-    verified: false
-    hashtags: "#mensjewelry, #beardstyle, #workingout, #lookoftheday"
-  - username: "brunoanjoss"
-    fullname: >-
-      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
-    location: "Portugal"
-    followers: 4441
-    engagement: 1771
-    commentsToLikes: 0.378577
-    id: ck9womla25rjc0j78gw86m3wr
-    verified: false
-    hashtags: "#topman, #healthy, #freedom, #streetwear"
-  - username: "nunoantunes_"
-    fullname: >-
-      Nuno Antunes
-    location: "Portugal"
-    followers: 86050
-    engagement: 521
-    commentsToLikes: 0.036486
-    id: ck0w70geub53e0i19ba3o3vus
-    verified: false
-    hashtags: "#coupleshoot, #casuallook, #classicstyle, #menstrend"
-  - username: "inesrodrigues_all"
-    fullname: >-
-      INÊS RODRIGUES
-    location: "Portugal"
-    followers: 74769
-    engagement: 330
-    commentsToLikes: 0.022261
-    id: ck6txdv05x9jt0j71blpivgib
-    verified: false
-    hashtags: "#absworkout, #quarantine, #transformation, #glutelab"
+    hashtags: "#porto, #tb, #travelling, #ootd"
 ---

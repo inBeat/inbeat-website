@@ -1,107 +1,130 @@
 ---
 title: Top 10 Comedians TikTok Influencers In Italy In 2020
 description: >-
-  Find top comedians TikTok influencers in Italy in 2020. Most popular hashtags: #comedy #challenge #greenscreen #coronavirus.
+  Find top comedians TikTok influencers in Italy in 2020. Most popular hashtags: #perte #comedia #foryou #duetto.
 platform: TikTok
+hits: 32
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database holds 32 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "nathalyhteran"
+  - username: "naikeorilio"
     fullname: >-
-      Nathaly Terán
+      naike
+    bio: >-
+      Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
     location: "Italy"
-    followers: 104577
-    engagement: 2567
-    commentsToLikes: 0.089771
-    id: ckan4zkutckjd0i78lloaxd9s
+    followers: 44500
+    engagement: 550
+    commentsToLikes: 0.020430
+    id: ckbf2ror4pxe90j23nf0rp3ke
     verified: false
-    hashtags: "#estate2020, #shein, #disney, #tiktochallenge"
-  - username: "antonrodriguezvas"
+    hashtags: "#gigieross, #fyp, #comedians, #parati"
+  - username: "sebastiangayicon"
     fullname: >-
-      Anton Rodriguez Vasquez
+      Gabriele Cantando Pascali
+    bio: >-
+      Attore, coreografo, NO OMOFOBIA 🌈 🌈 🌈🌈🌈 Instagram @gabrielecantandopas
     location: "Italy"
-    followers: 2368
-    engagement: 873
-    commentsToLikes: 0.104868
-    id: ck9fyk2fhb4wa0j78p3zwig0v
+    followers: 17500
+    engagement: 1920
+    commentsToLikes: 0.064601
+    id: ck9du54r6f06l0j78jnpgc6sp
     verified: false
-    hashtags: "#cocacola, #reaccionar, #crazy, #barcelona"
+    hashtags: "#lgbtcommunity, #scemenzatime, #discriminazione, #perte"
+  - username: "meriamamarir"
+    fullname: >-
+      Meriam Amarir
+    bio: >-
+      Certe volte sono simpatica🙁 📍Rome,Italy 9000? 🇲🇦🇮🇹🇩🇿 IG:meriam.amarir
+    location: "Italy"
+    followers: 8720
+    engagement: 1947
+    commentsToLikes: 0.036124
+    id: ckd193k3bqp9f0j238j2tscba
+    verified: false
+    hashtags: "#funny, #fun, #funnyvideos, #series"
+  - username: "yamadayoko"
+    fullname: >-
+      Yoko Yamada
+    bio: >-
+      provo a farti ridere 😁 standup comedy follow me on Ig 😎 if you want 🥺🌈
+    location: "Italy"
+    followers: 10600
+    engagement: 1133
+    commentsToLikes: 0.010248
+    id: ckb10jscdp3h40j232twgvhno
+    verified: false
+    hashtags: "#comingout, #standupcomedy, #giapponese, #quarantena"
+  - username: "treviso"
+    fullname: >-
+      André Custodio
+    bio: >-
+      Diversão, comédia, entretenimento confira nossos vídeos
+    location: "Italy"
+    followers: 1
+    engagement: 1166
+    commentsToLikes: 0.004822
+    id: ckc7q3mkyvnkc0j23j1nefeo8
+    verified: false
+    hashtags: "#lush, #lushitalia, #bathbomb, #lushtreviso"
   - username: "jhonnyhuamani84"
     fullname: >-
       Jhonny Huamani
+    bio: >-
+      🇮🇹 italia peru 🇵🇪 ❤
     location: "Italy"
-    followers: 2303
-    engagement: 629
-    commentsToLikes: 0.060707
+    followers: 3075
+    engagement: 459
+    commentsToLikes: 0.098849
     id: ckacifucj387v0i7812d0aqhd
     verified: false
-    hashtags: "#challenge, #bachatachallege, #bounce, #futbol"
-  - username: "andrew.bitch"
+    hashtags: "#duetto, #duos, #tiktokitaly, #humor"
+  - username: "maanuelo"
     fullname: >-
-      ANDREW BITCH
+      Manuelo
+    bio: >-
+      Half🇪🇸 and half🇮🇹 Venezia 🌊 19 yrs CEO of OH MY GOD😎 Instagram: maanuelo ✅
     location: "Italy"
-    followers: 2397
-    engagement: 747
-    commentsToLikes: 0.048822
-    id: ckacaixoigxon0i780bukmxsc
+    followers: 132400
+    engagement: 2389
+    commentsToLikes: 0.015110
+    id: ckdmql0av9ip20j23mxv3j6mv
     verified: false
-    hashtags: "#heartbeat, #orribile, #nordesud, #missketa"
-  - username: "shoaib_jin"
+    hashtags: "#school, #crush, #nnn, #girl"
+  - username: "azzullaaa"
     fullname: >-
-      shoaib_jin
+      Azzulla
+    bio: >-
+      🙇‍♀️🇮🇹 Raga seguitemi su: @canzionicinesi Vi amo😘
     location: "Italy"
-    followers: 624880
-    engagement: 1160
-    commentsToLikes: 0.005351
-    id: ck97ymgdc06dp0j788xj4zcxb
+    followers: 53800
+    engagement: 1001
+    commentsToLikes: 0.030957
+    id: ckb94rq99mdgj0j23t77c364f
     verified: false
-    hashtags: "#difrent, #dance, #editing101, #likeforlike"
-  - username: "paolopeejay"
+    hashtags: "#fyp, #perte, #cinese, #stovolando"
+  - username: "jnthanprra"
     fullname: >-
-      paolopeejay
+      Jonathan Parra
+    bio: >-
+      Venezolano en Italia Lipsync Humor y Drama Sígueme en Instagram☝🏻 @jonathanprra
     location: "Italy"
-    followers: 9077
-    engagement: 772
-    commentsToLikes: 0.022502
-    id: cka0l2u9mpamn0i78aspe631k
+    followers: 68900
+    engagement: 1251
+    commentsToLikes: 0.018338
+    id: ckbb5p702vv840j23xzsq5fg9
     verified: false
-    hashtags: "#grigliata, #tvshow, #dogcat, #omgchallenge"
-  - username: "jenniferquijada1"
+    hashtags: "#makeup, #volver, #enotraclave, #piroberta"
+  - username: "eicharly1983"
     fullname: >-
-      Jennifer Quijada
+      Ei Charly 🇵🇪🇮🇪
+    bio: >-
+      RICORDATE che essere DIVERSI non vuol di essere STRANI MA UNICI🍭 🌟BRILLA💯PRE☆
     location: "Italy"
-    followers: 24536
-    engagement: 477
-    commentsToLikes: 0.026004
-    id: ckan2zt0m2u2i0i78cpvd3vpf
+    followers: 5229
+    engagement: 630
+    commentsToLikes: 0.053735
+    id: ckcovwvlg9aqq0j23km5kzibf
     verified: false
-    hashtags: "#quemepreguntan, #makeup, #clonesquad, #tiktoklatinos"
-  - username: "enmanuelfiguera"
-    fullname: >-
-      Enmanuel Rafael Figuera Ruzza
-    location: "Italy"
-    followers: 4063
-    engagement: 369
-    commentsToLikes: 0.034115
-    id: ck85cqguw30vq0j78mlfdqkcu
-    verified: false
-    hashtags: "#merdaaa, #restoacasa, #shrek, #pranks"
-  - username: "garcia.alessia"
-    fullname: >-
-      ALESSIA
-    location: "Italy"
-    followers: 6030
-    engagement: 796
-    commentsToLikes: 0.017956
-    id: cka5x8yqrczyf0i78owepqzt5
-    verified: false
-    hashtags: "#love, #change, #consigli, #cute"
-  - username: "jejeferrero00"
-    fullname: >-
-      jejeferrero00
-    location: "Italy"
-    followers: 9127
-    engagement: 868
-    commentsToLikes: 0.011417
-    id: ckai7hzod09hj0i78dx5baw90
-    verified: false
-    hashtags: "#coronavirus, #cheschifio, #scuola, #nosleep"
+    hashtags: "#latinoamerica, #crispychallenge, #respondiendocomentarios, #foryou"
 ---

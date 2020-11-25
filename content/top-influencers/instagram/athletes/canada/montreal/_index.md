@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Montreal In 2020
 description: >-
-  Find top athletes Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #motivation #dance #fitfam.
+  Find top athletes Instagram influencers in Montreal in 2020. Most popular hashtags: #athlete #fitness #montreal #photoshoot.
 platform: Instagram
+hits: 25
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
   - username: "vinceriendeau"
     fullname: >-
       Vincent Riendeau
+    bio: >-
+      🇨🇦 Olympic diver Commonwealth & Pan-American games medalist. Engineering student. Montreal, Quebec.
     location: "Canada"
-    followers: 17025
-    engagement: 1115
-    commentsToLikes: 0.010377
+    followers: 16846
+    engagement: 883
+    commentsToLikes: 0.010948
     id: ck6udqdv6mk4e0j71wb856oav
     verified: true
-    hashtags: "#beach, #studentathelte, #matching, #workout"
-  - username: "shreddedd_chicken"
+    hashtags: "#portrait, #mountains, #olympian, #photooftheday"
+  - username: "ksfitness1"
     fullname: >-
-      Ron Lee 🐔🇹🇼🇨🇦
+      K r y s t l e 🖤S p e n c e🍑
+    bio: >-
+      PERSONAL TRAINER / ONLINE COACH 📍Canada based Lead with passion ♥️ and good intention 🙏🏼 Train like me ! FIT&FIRM program +Meal plan 🍎 👇🏼
     location: "Canada"
-    followers: 40542
-    engagement: 420
-    commentsToLikes: 0.028144
-    id: ck8tch1onzg4v0j78ekev62jl
+    followers: 44862
+    engagement: 119
+    commentsToLikes: 0.042933
+    id: ck6tui5kzggyw0j71ev8zgtsm
     verified: false
-    hashtags: "#summervibes, #gymapparel, #trip, #supplement"
-  - username: "optimize.physiotherapy"
+    hashtags: "#smile, #girlswholift, #fitbykrystle, #magic"
+  - username: "caemckay"
     fullname: >-
-      Optimize Physiotherapy
+      Caeli McKay
+    bio: >-
+      Team 🇨🇦 Diver Pan Am Gold 🥇 Silver 🥈 Commonwealth Silver 🥈 Inquiries: caeli@dulcedo.com 🍁canfund recipient
     location: "Canada"
-    followers: 121638
-    engagement: 69
-    commentsToLikes: 0.013217
-    id: ck0u2ehwfzo740i191mmr2y3b
+    followers: 9028
+    engagement: 1062
+    commentsToLikes: 0.021215
+    id: ck6udqcr5mjyd0j71zv6cfi1o
     verified: false
-    hashtags: "#dance, #rest, #weights, #runningman"
-  - username: "maral_tabatabaee"
+    hashtags: "#quarentine, #montrealgirl, #sunshine, #diving"
+  - username: "martinegauthier1"
     fullname: >-
-      M  A  R  A  L ©
+      martine gauthier
+    bio: >-
+      Fitness model canadian🇨🇦 & portugues🇵🇹 Training💪metal chick🎸alt model Sold my soul to rock and roll For business model Collaboration Dm
     location: "Canada"
-    followers: 12653
-    engagement: 600
-    commentsToLikes: 0.061881
-    id: ck6ub2lqt73us0j71empyzndf
+    followers: 3849
+    engagement: 563
+    commentsToLikes: 0.076171
+    id: ck15r8yx46qwl0i19lss1eo0i
     verified: false
-    hashtags: "#swipeleft, #proteinbars, #girlswithmuscle, #roadtosuccess"
+    hashtags: "#instabeauty, #gothbabesofinstagram, #instagood, #fallowyourheart"
   - username: "jmlgold"
     fullname: >-
       James-Michael Lavigne
+    bio: >-
+      Sports Coach to Olympic & elite athletes/ Strength & Physique Trainer/Half Century Man/ Loving my fifties/“Daddy”/Cigar Enthusiast/ Montréal, CANADA🇨🇦
     location: "Canada"
-    followers: 27670
-    engagement: 884
-    commentsToLikes: 0.034677
+    followers: 32014
+    engagement: 721
+    commentsToLikes: 0.033064
     id: ck15tdyz8hm4e0i19su2qhjs2
     verified: false
-    hashtags: "#abouttorelax, #lookoutshark, #jamesbond, #happynewyear"
+    hashtags: "#cigarman, #victory, #mensfashion, #cigardaddy"
   - username: "shaksz_3"
     fullname: >-
       Ahmed Mesallati
+    bio: >-
+      ▫Mens Physique 🏆 ▫️Actor | Athlete | Architect ▫Toronto | Abu Dhabi | Gold Coast ✖️ 決して満足しない
     location: "Canada"
-    followers: 36143
-    engagement: 433
-    commentsToLikes: 0.037005
+    followers: 38753
+    engagement: 479
+    commentsToLikes: 0.033904
     id: ck14jig87kikb0i19w6no7dxd
     verified: false
-    hashtags: "#camaro, #intothedark, #noir, #sweetsour"
-  - username: "quentingreco"
+    hashtags: "#candy, #hollywoodnorth, #motivation, #hulu"
+  - username: "shreddedd_chicken"
     fullname: >-
-      Quentin Greco
+      Ron Lee Fitness
+    bio: >-
+      🏋️‍♂️ 9 years 🇨🇦 Toronto 👕 @jed_north Athlete (RON20) 💊 @steelsupplements Athlete (CODE: SHREDDEDCHICKEN) ✉️ Email for Program
     location: "Canada"
-    followers: 12143
-    engagement: 1486
-    commentsToLikes: 0.017005
-    id: ck5q5evwhskkh0i11x458cdr2
+    followers: 40109
+    engagement: 331
+    commentsToLikes: 0.031009
+    id: ck8tch1onzg4v0j78ekev62jl
     verified: false
-    hashtags: "#actor, #trust, #stallfull, #cironatime"
-  - username: "evan_bates"
+    hashtags: "#dietplan, #workoutmotivation, #physique, #outdoors"
+  - username: "kait_hawayek"
     fullname: >-
-      Evan Bates
+      Kaitlin Hawayek
+    bio: >-
+      🇺🇸 T E A M U S A 🇺🇸 ⛸ World Jr. Champion | 🥉2x National Bronze Medalist @khaw_and_jlb 🔷 @pennstateworldcampus 📍Montréal | 🎧 DJ
     location: "Canada"
-    followers: 41345
-    engagement: 726
-    commentsToLikes: 0.011690
-    id: ck5hpa8j6r0mt0i11d9c3wdoo
+    followers: 17855
+    engagement: 711
+    commentsToLikes: 0.016984
+    id: ck8swyajefmog0j78weu5iro4
     verified: true
-    hashtags: "#cowboy, #sport, #ifp2019, #repost"
-  - username: "tnt__mma"
+    hashtags: "#icedance, #athlete, #skating, #charlottetilbury"
+  - username: "amandinepierrelouis"
     fullname: >-
-      Nordine taleb
+      Amandine Pierre-Louis
+    bio: >-
+      Montreal🇨🇦 Professional Football player ⚽️. wvu soccer alum 💛 info@avsports.com @pumafootball athlete
     location: "Canada"
-    followers: 13680
-    engagement: 318
-    commentsToLikes: 0.023968
-    id: ck135cmcl0t1q0i19xz5d7f4w
-    verified: true
-    hashtags: "#baseblocks, #wrestling, #yoga, #fitness"
-  - username: "woody_belfort"
+    followers: 2284
+    engagement: 1644
+    commentsToLikes: 0.078340
+    id: ck5qe3z2vylm30i11d9u8hwb1
+    verified: false
+    hashtags: "#pumafootball, #newlevels, #newlevel, #newkneenewme"
+  - username: "cyborggainz"
     fullname: >-
-      win or learn, there's no lose
+      Jean Fallacara I The Cyborg I
+    bio: >-
+      🧠l Author: NeuroScience Calisthenics 🦾I Founder: Cyborggainz© World's 1st Human Optimization Program 🇨🇦l Biohacker I Athlete I Leader I Speaker I CEO
     location: "Canada"
-    followers: 56745
-    engagement: 232
-    commentsToLikes: 0.026789
-    id: ck5q4esw5ot350i11ox0ttfje
-    verified: true
-    hashtags: "#goodvibesonly, #bustamove, #courseapied, #longboard"
+    followers: 180174
+    engagement: 274
+    commentsToLikes: 0.078345
+    id: ck55q98j8cdoe0i11nypbhssa
+    verified: false
+    hashtags: "#neurosciencecalisthenics, #biohacking, #book, #calisthenics"
 ---

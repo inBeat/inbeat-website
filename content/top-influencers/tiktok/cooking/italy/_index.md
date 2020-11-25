@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In Italy In 2020
 description: >-
-  Find top cooking TikTok influencers in Italy in 2020. Most popular hashtags: #nutella #cioccolato #cookies #chocolate.
+  Find top cooking TikTok influencers in Italy in 2020. Most popular hashtags: #cooking #perte #food #viral.
 platform: TikTok
+hits: 69
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 69 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "ele_sini93"
+  - username: "fdepaolis"
     fullname: >-
-      Elena Sinigaglia
+      Francesca
+    bio: >-
+      INSTAGRAM: ➡️ FDEPAOLIS ⬅️ ❓Q&A + COOKING 🇮🇹 👇🏻
     location: "Italy"
-    followers: 19154
-    engagement: 756
-    commentsToLikes: 0.040243
-    id: ckacig8h63aqr0i7818tk57gu
+    followers: 36400
+    engagement: 753
+    commentsToLikes: 0.117091
+    id: ckblf1qth8zgv0j23dy6puk9b
     verified: false
-    hashtags: "#gman, #pancakes, #fragole, #cereali"
+    hashtags: "#education, #viral, #imparacontiktok, #learn"
+  - username: "zerobudgetgardener"
+    fullname: >-
+      Zero Budget Gardener
+    bio: >-
+      Indian Woman, Story Teller, Growing veggies, Cooking Indian&Italian food
+    location: "Italy"
+    followers: 2317
+    engagement: 214
+    commentsToLikes: 0.055124
+    id: ckbf0h0iom65p0j23ejml35f3
+    verified: false
+    hashtags: "#troll, #zerobudgetgardener, #ancyan, #youtuber"
   - username: "roccobuffone"
     fullname: >-
       Rocco Buffone
+    bio: >-
+      MasterChef Italia 7 FoodBlogger Love Cooking Follow me on Instagram My Blog: www.roccobuffone.it
     location: "Italy"
-    followers: 17890
-    engagement: 1133
-    commentsToLikes: 0.007331
+    followers: 31900
+    engagement: 1061
+    commentsToLikes: 0.008150
     id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#alexa, #ricetta, #sushi, #taste"
-  - username: "dilettasecco"
-    fullname: >-
-      Diletta Secco
-    location: "Italy"
-    followers: 218788
-    engagement: 1550
-    commentsToLikes: 0.008169
-    id: ck8j4ftev207s0j78xg4hd8s7
-    verified: false
-    hashtags: "#sugar, #recipevideo, #asmr, #cucina"
+    hashtags: "#masterchef, #it, #tiktok, #tasty"
   - username: "icookhowiwant"
     fullname: >-
       ICookHowIWant 
+    bio: >-
+      IG📸 ICookHowIwant Pinterest: ICookHowIWant 📧ICookHowIWant@gmail.com You got it
     location: "Italy"
-    followers: 2562
-    engagement: 564
-    commentsToLikes: 0.040124
+    followers: 2685
+    engagement: 604
+    commentsToLikes: 0.038369
     id: ck9k5y1q1ymx40j78k010rfya
     verified: false
-    hashtags: "#burger, #leftovers, #homebake, #cheeselover"
-  - username: "fed_melli"
+    hashtags: "#vegetarian, #risotto, #cookigvideo, #homemadepasta"
+  - username: "ele_sini93"
+    fullname: >-
+      Elena Sinigaglia
+    bio: >-
+      Cucino cose e faccio esperimenti 🔮😛 tutte le ricette su Instagram. ⬇️⬇️⬇️
+    location: "Italy"
+    followers: 21800
+    engagement: 833
+    commentsToLikes: 0.018592
+    id: ckacig8h63aqr0i7818tk57gu
+    verified: false
+    hashtags: "#try, #cook, #tiktokfoodie, #sweet"
+  - username: "federicaa_melli"
     fullname: >-
       Fede♡Melli 
+    bio: >-
+      ♡
     location: "Italy"
-    followers: 11447
-    engagement: 1523
-    commentsToLikes: 0.020539
+    followers: 11100
+    engagement: 1543
+    commentsToLikes: 0.014965
     id: ck9re3chw0maf0j787pdkl8qh
     verified: false
-    hashtags: "#food, #kappa, #6secondi, #nutellabiscuits"
-  - username: "emanuele_89"
+    hashtags: "#greenscreen, #cooking, #gel, #iorestoacasa"
+  - username: "chefincamicia"
     fullname: >-
-      Emanuele
+      chefincamicia
+    bio: >-
+      Benvenuti nel canale TikTok degli Chef in Camicia!
     location: "Italy"
-    followers: 11011
-    engagement: 1007
-    commentsToLikes: 0.031073
-    id: ck8vx6e5qqazh0j78bofvuq8g
+    followers: 141600
+    engagement: 896
+    commentsToLikes: 0.008663
+    id: ck9du530iezqq0j78clvjkl0p
     verified: false
-    hashtags: "#cocco, #fritto, #frutta, #muffin"
-  - username: "cooker.girl"
+    hashtags: "#cooking, #aperitivotime, #chef, #sicily"
+  - username: "nancyfontana"
     fullname: >-
-      Cooker Girl
+      Nancy Fontana
+    bio: >-
+      Su Instagram sono normale Su TikTok sono scema 😂
     location: "Italy"
-    followers: 120000
-    engagement: 1467
-    commentsToLikes: 0.011764
-    id: ck8s5jutdg86t0j78baqjm8si
+    followers: 5865
+    engagement: 767
+    commentsToLikes: 0.006870
+    id: ckbfdnm3m727s0j2361p7rb9d
     verified: false
-    hashtags: "#tutorial, #pizza, #love, #lizzo"
-  - username: "gaiadilaurenzo24"
+    hashtags: "#bellafigura, #viral, #funny, #cooking"
+  - username: "fionashealth"
     fullname: >-
-      Gaiadilaurenzo
+      Fiona Gray
+    bio: >-
+      🇬🇧🇮🇹 Fiona Gray Balanced Recipes & Nutrition 🍓
     location: "Italy"
-    followers: 16934
-    engagement: 1138
-    commentsToLikes: 0.016601
-    id: ck92xotqnzjmc0j78okb1koom
+    followers: 3950
+    engagement: 571
+    commentsToLikes: 0.008430
+    id: ckcuyuo5xmjaf0j236oqyr2c0
     verified: false
-    hashtags: "#disney, #pasticcera, #tutorial, #homeoutfits"
-  - username: "gretaioz"
+    hashtags: "#foryou, #intermittentfasting, #colazione, #dieta"
+  - username: "nonnola"
     fullname: >-
-      gretaioz
+      Nonnola
+    bio: >-
+      I love food Every time someone cook for me I record it
     location: "Italy"
-    followers: 104585
-    engagement: 984
-    commentsToLikes: 0.014790
-    id: ck8vx6esbqb4o0j78jo5xxofj
+    followers: 7473
+    engagement: 550
+    commentsToLikes: 0.004450
+    id: ckbqivwcd41ty0j2301w3bmfh
     verified: false
-    hashtags: "#bathbombs, #iorestoacasa, #toast, #waffle"
-  - username: "a.t.c.mela"
-    fullname: >-
-      Mela
-    location: "Italy"
-    followers: 28399
-    engagement: 321
-    commentsToLikes: 0.013774
-    id: ck8j4funn20ly0j781xrktpak
-    verified: false
-    hashtags: "#welovepizza, #tagliare, #dessert, #italiana"
+    hashtags: "#foruyou, #featureme, #perte, #fyp"
 ---

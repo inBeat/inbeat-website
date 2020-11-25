@@ -1,107 +1,130 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top bloggers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #makeup #dubaifashion #fashionblogger #friends.
+  Find top bloggers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #makeup #dubaiblogger.
 platform: Instagram
+hits: 209
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 209 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "ibra.al.h"
+  - username: "razan.makeupp"
     fullname: >-
-      IBRAHIM إبراهيم الحُمّادة🇸🇾🇦🇪
+      Razan Ahmed رزان أحمد
+    bio: >-
+      Blogger Saudi Arabia🇸🇦 ‎‏الرياض/المدينة/جدة Snap:irazan_ah whats:0566002977 ميكب مجاناً لذوي الإحتياجات الخاصة والأسر المتعففه ومحاربات السرطان
     location: "United Arab Emirates"
-    followers: 92797
-    engagement: 961
-    commentsToLikes: 0.041836
-    id: ckap5bz2nazk10i78xz3ynxyo
+    followers: 21102
+    engagement: 628
+    commentsToLikes: 0.400926
+    id: ck0w5z3pu64im0i199g7ym66a
     verified: false
-    hashtags: "#blackandwhite, #goodnight, #blogge, #bloggers"
-  - username: "israashams"
+    hashtags: "#curly, #beauty, #makeup, #art"
+  - username: "dubai.bambino"
     fullname: >-
-      Luna. 🌙
+      Habib
+    bio: >-
+      Boss baby 💥 📍#Dubai #kidsfashion Content creator/baby blogger💬 🚼 Your daily dose of cuteness 🇱🇧 🇳🇴 Managed by mama @miss.kath_k
     location: "United Arab Emirates"
-    followers: 34068
-    engagement: 355
-    commentsToLikes: 0.060578
-    id: ckaot5io2ugxp0i78alfkj486
+    followers: 7978
+    engagement: 996
+    commentsToLikes: 0.165168
+    id: ck6tqop94ss3b0j711vhbrova
     verified: false
-    hashtags: "#springtime, #springhassprung, #giveaway, #scrub"
-  - username: "mahsaghazanfari20"
+    hashtags: "#poolvibes, #motherandson, #halloween, #yallababy"
+  - username: "radhasrevolution"
     fullname: >-
-      Mahsaghazanfari
+      Radha Shah
+    bio: >-
+      Mrs. India Worldwide UAE 🇮🇳 🇦🇪. Fashion, Fitness, Food & Beauty Blogger For collaboration please DM me
     location: "United Arab Emirates"
-    followers: 147056
-    engagement: 300
-    commentsToLikes: 0.066894
-    id: ck6ug43j00t0c0j7133ha67ck
+    followers: 53596
+    engagement: 412
+    commentsToLikes: 0.233228
+    id: ck5cargq3dzju0i118j7fjm4a
     verified: false
-    hashtags: "#shoes, #lifestyle, #dolgonacoffee, #personalstylist"
+    hashtags: ""
   - username: "omgsuraiyaa"
     fullname: >-
       Suraiya - UAE🇦🇪
+    bio: >-
+      •Dubai beauty & food Blogger •For collaboration/ PR - dm or email 📧 • @shein_ar discount code “suraiya15” •Check my YouTube channel 👇
     location: "United Arab Emirates"
-    followers: 18082
-    engagement: 665
-    commentsToLikes: 0.045991
+    followers: 17937
+    engagement: 426
+    commentsToLikes: 0.070094
     id: ckap6v36ihgwm0i7831s10hh8
     verified: false
-    hashtags: "#staysafe, #hijabinspo, #flatlays, #quarantinelife"
-  - username: "lusik_kar"
+    hashtags: "#sharjahblogger, #dubailifestyle, #dubaibeautyblogger, #modestfashion"
+  - username: "shamss_model"
     fullname: >-
-      Lusik Karapetyan
+      شمس مودل shams model
+    bio: >-
+      Model,blogger Miss Iraq emigrant2019 Miss Arab Top Model .2020 Miss Arab Iraq 2020 📍dubai ‭+971 55 313 6843‬ @shams_hair_extensions ‭
     location: "United Arab Emirates"
-    followers: 1151440
-    engagement: 183
-    commentsToLikes: 0.110487
-    id: ck14hwuomcjcb0i19e279bhyk
+    followers: 545488
+    engagement: 221
+    commentsToLikes: 0.034568
+    id: ckf5mv12pvj710j23w0oo2xh7
     verified: false
-    hashtags: ""
-  - username: "suzanalsulaymani"
+    hashtags: "#bahrain, #black, #fashionstyle, #style"
+  - username: "diana.mohameddd"
     fullname: >-
-      Suzan Alsulaymani
+      🎀 ديـانا | Diana 🎀
+    bio: >-
+      🇪🇬🇦🇪 Electrical Engineer 👷🏻‍♀️📏 Makeup artist, DM for inquires 💄❤️ Makeup Blogger💄|| lifestyle 🛍 Ajman-United Arab Emirates🏡 📩Eng.diana91@gmail.com📩
     location: "United Arab Emirates"
-    followers: 45550
-    engagement: 188
-    commentsToLikes: 0.065095
-    id: ck6tk35ac3wz00j71k0q3kkhc
+    followers: 76816
+    engagement: 220
+    commentsToLikes: 0.068161
+    id: ckaoy9dbvgjsg0i78v7ukb6h1
     verified: false
-    hashtags: "#hairstyles, #tv, #baghdad, #black"
+    hashtags: "#collab, #makeuplooks, #blogger, #lifestyle"
+  - username: "raizy_hasan"
+    fullname: >-
+      🙌JR💪
+    bio: >-
+      🚼SINCE 1998 FEB 1 MODEL🕺🏻 | BLOGGER🗣| ENTERTAINER🙋🏻‍♂️ LIVING AT DUBAI🇦🇪 | THE CITY OF DREAMS🌃
+    location: "United Arab Emirates"
+    followers: 88820
+    engagement: 783
+    commentsToLikes: 0.032110
+    id: ckapby3o31q7d0i787wgpkxd6
+    verified: false
+    hashtags: "#dubaimodel, #raizy, #dxbmodel, #uaemodel"
+  - username: "amanda_nawfal"
+    fullname: >-
+      Amanda Nawfal   اماندا نوفل
+    bio: >-
+      Lebanese Fashion blogger
+    location: "United Arab Emirates"
+    followers: 119581
+    engagement: 287
+    commentsToLikes: 0.038248
+    id: ck13ccv25zq520i19n0bs2hq9
+    verified: false
+    hashtags: "#meetsupersophie, #stayhome"
   - username: "xvalkoph"
     fullname: >-
       Dubai Photographer 📸
+    bio: >-
+      📍Spb now📸🔥 👨‍💻Продвину ваш TikTok 💥Рассказываю про ОАЭ 🔝Blogger 🔞Фотограф Playboy 👌 follow me 🚗🛳💃🏻💰🚁 🌍Dubai-Spb-Minsk 📸Сьемки 👉🏻@xvalko🔞@xvalkofan
     location: "United Arab Emirates"
-    followers: 165175
-    engagement: 164
-    commentsToLikes: 0.047395
+    followers: 162740
+    engagement: 169
+    commentsToLikes: 0.047038
     id: ck6u7agvlkdv30j71tv5h1z25
     verified: false
-    hashtags: "#wmotors, #photoshootdubai, #dubaiphotoshoot, #dubaiphographer"
-  - username: "ajmal_khan_"
+    hashtags: "#dubaidowntown, #dubaifountain, #dubailife, #dubaitag"
+  - username: "misschloelane"
     fullname: >-
-      Ajmal Khan | AK
+      The Thairish Adventures
+    bio: >-
+      🇮🇪Irish•Thai🇹🇭 Dubai based blogger | 🐶 @themuttpack_ are my pups 🌼I run off sarcasm and caffeine. makeup is cool too🏳️‍🌈🖤
     location: "United Arab Emirates"
-    followers: 1619351
-    engagement: 381
-    commentsToLikes: 0.016173
-    id: ck0u9huh19wtj0i19c0zp8fz9
-    verified: true
-    hashtags: "#urban, #armwrestling, #dubaifashion, #biker"
-  - username: "deakedinakarina"
-    fullname: >-
-      Travel | Fashion | Hotels
-    location: "United Arab Emirates"
-    followers: 18506
-    engagement: 255
-    commentsToLikes: 0.104931
-    id: ck8ta1m8fq4bc0j78x4apok15
+    followers: 65366
+    engagement: 115
+    commentsToLikes: 0.076832
+    id: ckap3al5l28td0i78lb9j001e
     verified: false
-    hashtags: "#prom, #canggulife, #bathroomdesign, #exploretheworld"
-  - username: "tamannawahi_"
-    fullname: >-
-      Tamanna Wahi
-    location: "United Arab Emirates"
-    followers: 40522
-    engagement: 299
-    commentsToLikes: 0.029870
-    id: ck0u2gnegzxv90i1907b2kkil
-    verified: false
-    hashtags: "#family, #filame, #ramadancollection, #sfera"
+    hashtags: "#stayyoung, #neverforget, #internationaldogday, #elsecretobrunch"
 ---

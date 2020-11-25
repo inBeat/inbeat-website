@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cooking TikTok Influencers In 2020
 description: >-
-  Find top cooking TikTok influencers in 2020. Most popular hashtags: #cookies #pancakecereal #randomthings #cheese.
+  Find top cooking TikTok influencers in 2020. Most popular hashtags: #duet #fyp #greenscreen #xyzbca.
 platform: TikTok
+hits: 5490
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 5490 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "kendrassparklylife"
+  - username: "thevintagegoree"
     fullname: >-
-      Kendra's Sparkly Lif
-    location: "Canada"
-    followers: 42324
-    engagement: 2004
-    commentsToLikes: 0.051130
-    id: ck9k8hr7991gi0j78jkehideu
-    verified: false
-    hashtags: "#gifted, #paint, #randomthings, #justforfun"
-  - username: "heshanfernando0"
-    fullname: >-
-      Heshu_SL#TAG_🍁
-    location: "Sri Lanka"
-    followers: 3102
-    engagement: 3426
-    commentsToLikes: 0.249410
-    id: ckan0ll77r4bj0i78xdn2lz4z
-    verified: false
-    hashtags: "#fish, #heshudana, #srilanka, #falowme"
-  - username: "thiicmikey"
-    fullname: >-
-      Mikey Ngo
-    location: "Canada"
-    followers: 47210
-    engagement: 2441
-    commentsToLikes: 0.053976
-    id: ck9k8itaq99ah0j78a18q0bxj
-    verified: false
-    hashtags: "#beautyhaul, #korean, #jumpman, #single"
-  - username: "hellochrischance"
-    fullname: >-
-      hellochrischance
+      •Black Retro Babe•
+    bio: >-
+      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
     location: "United States"
-    followers: 11319
-    engagement: 1543
-    commentsToLikes: 0.055419
+    followers: 19000
+    engagement: 3024
+    commentsToLikes: 0.087918
+    id: ckb0tojgwj34e0j23rnt9nl2q
+    verified: false
+    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
+  - username: "growingthroughtheweeds"
+    fullname: >-
+      Growing Through The Weeds 🍓
+    bio: >-
+      🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
+    location: "United States"
+    followers: 6974
+    engagement: 2156
+    commentsToLikes: 0.248635
+    id: ckc8xfm28lcen0j23p1lup6zq
+    verified: false
+    hashtags: "#growingthroughtheweeds, #learnontiktok, #diy, #sewing"
+  - username: "symphonic_bear"
+    fullname: >-
+      Symphonic Bear
+    bio: >-
+      Bear. Musician. I also play the hobbit in @flippantmoniker ’s orc cooking videos
+    location: "United States"
+    followers: 47900
+    engagement: 1925
+    commentsToLikes: 0.057984
     id: ck9glnlycp67y0j78qhgmu8w8
     verified: false
-    hashtags: "#empress, #anatolianshepherd, #funny, #bear"
-  - username: "acooknamedmatt"
+    hashtags: "#gaybears, #duet, #hobbit, #gay"
+  - username: "seatrick"
     fullname: >-
-      Chef Matt Broussard
+      SeaTrick 
+    bio: >-
+      Black Lives Matter Drag - Sewing - Cooking - Wands pfp by Woofdahyoupetcha
     location: "United States"
-    followers: 893419
-    engagement: 1586
-    commentsToLikes: 0.016334
-    id: ck8s8ipf1tuyu0j789jpuwek2
-    verified: true
-    hashtags: "#steak, #fruit, #cookinghacks, #tiktokwellness"
-  - username: "saimamalik6076"
-    fullname: >-
-      Killer Eyez
-    location: "Pakistan"
-    followers: 7555
-    engagement: 3409
-    commentsToLikes: 0.042809
-    id: ck9rldrmvxggg0j78tzbnkk4r
+    followers: 145700
+    engagement: 2101
+    commentsToLikes: 0.030471
+    id: ck81s2bslphml0j783w2qxzry
     verified: false
-    hashtags: "#mysadlife, #saimamalik6076"
-  - username: "findbex"
+    hashtags: "#halfasssedcooking, #christmas, #vintage, #duet"
+  - username: "okaychef"
     fullname: >-
-      Bex 
+      Nathan Jones
+    bio: >-
+      34🏳️‍🌈🇨🇦He/Him 20yr career chef sharing what I know Cooking & D&D Links👇🏻
     location: "Canada"
-    followers: 30313
-    engagement: 1528
-    commentsToLikes: 0.029287
-    id: ck961zc8romyz0j78v1axqnn5
+    followers: 55300
+    engagement: 1661
+    commentsToLikes: 0.051315
+    id: ckb0htvff9dho0j2388r3igv9
     verified: false
-    hashtags: "#restaurant, #cucumber, #snack, #pringles"
-  - username: "baking..treats"
+    hashtags: "#tabletopgames, #stitch, #chef, #dungeonsanddragons"
+  - username: "glossygurrl"
     fullname: >-
-      baking & cooking
+      aesthetic
+    bio: >-
+      More Love <3 skincare, cooking, lifestyle, tips
+    location: "Lebanon"
+    followers: 13900
+    engagement: 1574
+    commentsToLikes: 0.067853
+    id: ckbeo2x2p3w9e0j231mb7x5nm
+    verified: false
+    hashtags: "#blingeffect, #sogood, #tasty, #foryoupage"
+  - username: "doseofsiyam"
+    fullname: >-
+      𝐒 𝐈 𝐘 𝐀 𝐌 🖤
+    bio: >-
+      🇨🇦💓🇵🇰 Yes i do the cooking, yes i do the cleaning😔✌🏼
+    location: "Canada"
+    followers: 5158
+    engagement: 1467
+    commentsToLikes: 0.095398
+    id: ck8vy3opvt3rh0j78s5tu337y
+    verified: false
+    hashtags: "#desi, #fyp, #duet, #vogue"
+  - username: "demi_the_vlog_dog"
+    fullname: >-
+      Demi The Vlog Dog
+    bio: >-
+      ❤️ hi fren Eye disease awareness. Learning to cook with you #cookingtrashwithash
     location: "United States"
-    followers: 10751
-    engagement: 1887
-    commentsToLikes: 0.034866
-    id: cka0hafh189720i78509dvyhd
+    followers: 168000
+    engagement: 1579
+    commentsToLikes: 0.060720
+    id: ckbay2apcohhw0j2326tllkfk
     verified: false
-    hashtags: "#tiktokhacks, #recipe, #mochi, #icecream"
-  - username: "cristina_yin"
+    hashtags: "#spookytreats, #imjealous, #greenscreen, #keratoconus"
+  - username: "sun_creme"
     fullname: >-
-      ⍣ Cristina ✵ ﾟ⋆
-    location: "United Kingdom"
-    followers: 33351
-    engagement: 1824
-    commentsToLikes: 0.019378
-    id: ck9v8mr8kaf100j783bcs266p
-    verified: false
-    hashtags: "#dessert, #hamandcheese, #aesthetics, #drinkaesthetic"
-  - username: "s4shan"
-    fullname: >-
-      user3980799978563
+      s u n n y 🤩
+    bio: >-
+      est. july.l6 /she/her ig:sun.creme⭐️ i see unfollowing i’m cooking tmr
     location: "United States"
-    followers: 10122
-    engagement: 617
-    commentsToLikes: 0.109893
-    id: ck9v1f7nvgvav0j78sg11n53i
+    followers: 14000
+    engagement: 3317
+    commentsToLikes: 0.165360
+    id: ckcuzzpcemzd10j23zfoyew91
     verified: false
-    hashtags: "#english, #love, #cutevideo, #strangerthings"
+    hashtags: "#famous, #xyzbca, #wewintogether, #unwrapthedeals"
+  - username: "mehit77"
+    fullname: >-
+      Mehit
+    bio: >-
+      Mom from June the showering Cat Love Cooking Vision Events Dipl. Eventmanagerin
+    location: "Switzerland"
+    followers: 5346
+    engagement: 1206
+    commentsToLikes: 0.081778
+    id: ck9tua84vklv40j78c04vzwq6
+    verified: false
+    hashtags: "#ilovemycat, #kochen, #chocolate, #junetheshoweringcat"
 ---

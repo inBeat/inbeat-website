@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #nature #bangkok #pool.
+  Find top Instagram influencers in Bangkok in 2020. Most popular hashtags: #bangkok #thailand #travel.
 platform: Instagram
+hits: 295
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 295 Instagram influencers like this in Bangkok, Thailand for you to pitch.
 profiles:
   - username: "phka_studio"
     fullname: >-
       PHKA
+    bio: >-
+      Bangkok
     location: "Thailand"
     followers: 36620
     engagement: 107
     commentsToLikes: 0.004123
     id: ck5hsbrr1wbqd0i11gfxt1ua8
     verified: false
-    hashtags: "#weddingstage, #aunutbigdaybaby, #weddingflorist, #phkahandtied"
-  - username: "davidbala99"
+    hashtags: "#phkabloom, #weddingreception, #poonhintheseries, #phkaarchive"
+  - username: "app.coll"
     fullname: >-
-      David Bala | The Prince👑
+      App.Coll
+    bio: >-
+      👩‍🎓Law| 👩‍💻#realestate |#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 🛒For 21+@wine_all_day 🛒Shopping My Collection @spritz_clothing 📍#Bangkok
     location: "Thailand"
-    followers: 50460
-    engagement: 704
-    commentsToLikes: 0.030015
-    id: ck13bopbvwfep0i193ks2wuxu
+    followers: 13350
+    engagement: 1607
+    commentsToLikes: 0.058934
+    id: ckaoxrshcegax0i78l9dyxfyz
     verified: false
-    hashtags: "#changmaifc"
-  - username: "sajadsattarii"
-    fullname: >-
-      Sajad "The Superman" Sattari
-    location: "Thailand"
-    followers: 19372
-    engagement: 1060
-    commentsToLikes: 0.036717
-    id: ck5zjlk5phsut0i14gnwfoc7z
-    verified: false
-    hashtags: "#tiktaak, #sleep, #travel, #fight"
+    hashtags: "#outfit, #latex, #thailand, #tan"
   - username: "orav.angel"
     fullname: >-
       Angelica Orav
+    bio: >-
+      From Estonia, live in Bangkok 173cm ‌Fitness/Modeling/Positivity For ADs/Collabs/Shoutouts: contact@angelorav.com
     location: "Thailand"
-    followers: 34713
-    engagement: 280
-    commentsToLikes: 0.062430
+    followers: 33339
+    engagement: 292
+    commentsToLikes: 0.060753
     id: ckapb8122yxbe0i78welwauad
     verified: false
-    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
+    hashtags: "#animals, #poledancer, #safariworldbangkok, #teengirl"
   - username: "genevemiller"
     fullname: >-
       geneve
+    bio: >-
+      MA: @worldmgmt 🇨🇦 @iconmodelmanagement, Toronto 🇨🇦 @applemodels, Bangkok 🇹🇭 Filipino-Canadian.20.♈︎.❥o.r. 📍Canada
     location: "Thailand"
-    followers: 9367
-    engagement: 1442
-    commentsToLikes: 0.021497
+    followers: 9629
+    engagement: 1502
+    commentsToLikes: 0.028655
     id: ck8wfbu31fhpz0j78fmkaxfik
     verified: false
-    hashtags: ""
+    hashtags: "#swimwear, #giveaway, #giveawaycontest, #bikini"
   - username: "anitabye"
     fullname: >-
       Anita Bye/อันนิต้า บี Thailand
+    bio: >-
+      📍Bangkok ✖️Thai/Norwegian 💪🏼Personal trainer @thecubicfitness 🥊@knockoutbkk 💕Brand ambassador @barebells.thailand
     location: "Thailand"
-    followers: 39743
-    engagement: 226
-    commentsToLikes: 0.063001
+    followers: 39475
+    engagement: 222
+    commentsToLikes: 0.057508
     id: ck8taypvztmid0j7889mj9a69
     verified: false
-    hashtags: "#quarantinelife, #thecubicfitness, #netflix, #kingdom"
-  - username: "timoruu"
+    hashtags: "#activewear, #stayhome, #proteinbar, #bangkok"
+  - username: "yamy2p"
     fullname: >-
-      Timo 🙋🏻‍♂️
+      Yam Poramate
+    bio: >-
+      Mister​ ​Universe​ Bangkok​ 2019​ 🇹🇭 MC​'50​ We Run ABM​ MFU'14 AOT​ VTCC 61 CMU AGRO FE'​54
     location: "Thailand"
-    followers: 27693
-    engagement: 2194
-    commentsToLikes: 0.016577
-    id: ck9wgkalxtsv90j78vt7sq26x
+    followers: 16525
+    engagement: 1073
+    commentsToLikes: 0.014751
+    id: ck5q253yqebb40i11e69r5di2
     verified: false
-    hashtags: "#tb"
-  - username: "alelironi"
+    hashtags: "#omgsportswear, #omgboy, #streetwear, #onmygame"
+  - username: "journeytojunipero"
     fullname: >-
-      Aleliro
+      Journey to Junipero
+    bio: >-
+      Mirko roaming Southeast Asia Travel Photography + Writing 📍Bangkok, Thailand hello@journeytojunipero.com
     location: "Thailand"
-    followers: 9777
-    engagement: 792
-    commentsToLikes: 0.063664
-    id: ck0tvufavcu3o0i19nupvpik5
+    followers: 11680
+    engagement: 468
+    commentsToLikes: 0.126435
+    id: ck6tlnucq6b0z0j71568uu1dq
     verified: false
-    hashtags: "#jaipur, #agra, #italia, #brazil"
+    hashtags: "#bangkokcity, #pinasmuna, #lostinph, #artofportrait"
+  - username: "peternoszek"
+    fullname: >-
+      Peter
+    bio: >-
+      🌏 Trying to learn something new every day. 📍 Bangkok 🇹🇭 🤍 ซื้อหน้ากากผ้า @carbonmasks.th
+    location: "Thailand"
+    followers: 7088
+    engagement: 1323
+    commentsToLikes: 0.068085
+    id: ckaoxtyuseqot0i7853za2sw2
+    verified: false
+    hashtags: "#thailand, #bangkok, #kohchang, #entrepreneur"
   - username: "mmintsiri"
     fullname: >-
       CHANAKARN S.
+    bio: >-
+      🗽University of La Verne,California: Leadership and Human Asset Management 💎Bangkok University: Logistic and Supply Chain Management 🚶🏻‍♀️AIESECer
     location: "Thailand"
-    followers: 20188
-    engagement: 1735
-    commentsToLikes: 0.012642
+    followers: 24523
+    engagement: 1172
+    commentsToLikes: 0.007023
     id: ck9wp772g83mt0j78fpn9fcrd
     verified: false
-    hashtags: "#mikemintmix, #mmikesiribd26th, #mikechinnarat"
-  - username: "thekittyway"
+    hashtags: ""
+  - username: "tanuki_army"
     fullname: >-
-      Fashion Travel Lifestyle Inspo
+      Theerasak Yusuksuwan
+    bio: >-
+      Cabin Crew : Bangkok Airways 🛫 Education : Silpakorn University SU 🎓 Master : Zhejiang University ZJU 🎓🎓 Facebook : Theerasak Yusuksuwan 🇹🇭🇨🇳
     location: "Thailand"
-    followers: 28780
-    engagement: 399
-    commentsToLikes: 0.132627
-    id: ck14kgjfqpeth0i19xhv4ztx1
+    followers: 21505
+    engagement: 1037
+    commentsToLikes: 0.008424
+    id: ckap1mmygv75g0i78uw824vrd
     verified: false
-    hashtags: "#carin, #maisonmollerus, #mollerusswiss, #marly"
+    hashtags: "#pg, #pgcrew, #thaicrew, #bangkokairways"
 ---

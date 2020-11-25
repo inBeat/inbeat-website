@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top nutrition Instagram influencers in Brisbane in 2020. Most popular hashtags: #quarantine #love #nutrition #bodybuilding.
+  Find top nutrition Instagram influencers in Brisbane in 2020. Most popular hashtags: #nutrition #brisbane #instagood #health.
 platform: Instagram
+hits: 12
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
+  - username: "bigmelbappetite"
+    fullname: >-
+      Melbourne Foodie
+    bio: >-
+      Kathy & Dan “Come get chubby with us!” 🤤 📷 Food Photographer @knphotography.com.au 🌶 Chilli Fiend & Korean Food Lover! ✉️ bigmelbappetite@gmail.com
+    location: "Australia"
+    followers: 20763
+    engagement: 367
+    commentsToLikes: 0.168711
+    id: ck5c6i0xf5h7e0i11m3wjbpsq
+    verified: false
+    hashtags: "#ad, #bmafavourites, #gifted, #harvestgourmet"
+  - username: "aidan_the_dietitian"
+    fullname: >-
+      Aidan Muir
+    bio: >-
+      🏃Accredited Sports Dietitian 🇦🇺 🍏 In-person & online consults 💪 Specialising in strength athletes 🏋️Aspiring powerlifter
+    location: "Australia"
+    followers: 18836
+    engagement: 358
+    commentsToLikes: 0.058525
+    id: ck15sjsfvdd2y0i19ktzuvwgz
+    verified: false
+    hashtags: "#healthyeating, #sportsdietitian, #wellness, #macros"
   - username: "raimeeleigh.fitfood"
     fullname: >-
       Raimee Leigh Brook
+    bio: >-
+      ADF Electrician ╳ Nutrition ╳ Fitness Foodie 🍌 ⇸ Brisbane, Australia 🍍 ❥ PB & Coffee Lover ! ☕️ 𖥸 @fitcoveraustralia d|c ~ RAIMEEB
     location: "Australia"
-    followers: 15716
-    engagement: 695
-    commentsToLikes: 0.698724
+    followers: 16217
+    engagement: 639
+    commentsToLikes: 0.714147
     id: ck13cn5e616ac0i19f96d4uj9
     verified: false
-    hashtags: "#auntbettys, #plantlifefoodco, #glutenfree, #magimix"
+    hashtags: "#auntbettys, #plantlifefoodco"
+  - username: "rubygracemarks"
+    fullname: >-
+      r u b y g r a c e
+    bio: >-
+      brisbane | @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
+    location: "Australia"
+    followers: 14373
+    engagement: 840
+    commentsToLikes: 0.090133
+    id: ckap2n0uwzk0o0i78zh5qva2i
+    verified: false
+    hashtags: "#siksilkwomens, #siksilkstyle, #ad"
+  - username: "jennybeeen"
+    fullname: >-
+      Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
+    location: "Australia"
+    followers: 7040
+    engagement: 1114
+    commentsToLikes: 0.223159
+    id: ck5honakipv940i114q4oggvy
+    verified: false
+    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
+  - username: "candice3lise__"
+    fullname: >-
+      CANDICE 🦋
+    bio: >-
+      🌏 Brisbane, AU 📧 Candice3lise@gmail.com 🧬 @shredders_nutrition “CANDICE” 10% off 👄 @envyaesthetics___ “$20 off 💆🏼‍♀️ @skin.enhance 20CANDICE 20% off
+    location: "Australia"
+    followers: 11854
+    engagement: 921
+    commentsToLikes: 0.346734
+    id: ckap42c1b5j8i0i78100qqryc
+    verified: false
+    hashtags: "#photooftheday, #ootd, #instagood, #instagram"
   - username: "lalasplate"
     fullname: >-
-      L A R A 💗
+      LARA 💗
+    bio: >-
+      🥬 health | food | balanced lifestyle ✨ content creator + recipe developer 🌎 brisbane 💌 hello@lalasplate.com 💗 Blog & more👇🏼
     location: "Australia"
-    followers: 11045
-    engagement: 1147
-    commentsToLikes: 0.146818
+    followers: 24615
+    engagement: 568
+    commentsToLikes: 0.063766
     id: ck15tte3pjswb0i19uj4bboe5
     verified: false
-    hashtags: "#organic, #iamwellandgood, #watertips, #nicecream"
-  - username: "huubwattbike"
+    hashtags: "#nicecream, #health, #smoothies, #smoothiebowl"
+  - username: "anthonysemerad"
     fullname: >-
-      HUUB Wattbike p/b Vita Coco
+      ANTHONY SEMERAD (TWIN 2)
+    bio: >-
+      Certified Nutrition Coach💪🏻 • @semeradnutrition Collab? 📧astalentmgmt@gmail.com or antsemerad@gmail.com⁣⁣
     location: "Australia"
-    followers: 9215
-    engagement: 556
-    commentsToLikes: 0.009707
-    id: ck0w09y00d4zb0i193mvgjtdf
-    verified: false
-    hashtags: "#cochabamba, #wattbikeatom, #sporttesting, #instacycling"
-  - username: "justanaussiemum"
+    followers: 201871
+    engagement: 277
+    commentsToLikes: 0.008000
+    id: ck5cj2r1ptv0g0i11c7336mp8
+    verified: true
+    hashtags: "#australia, #inspiration, #goals, #instagood"
+  - username: "mohithir"
     fullname: >-
-      ✰ ᗪEE & HER THREE ✰
+      Mohit Hir
+    bio: >-
+      •Sr.Mr. Punjab🥇 •Mr. Jalandhar🏆 •Mr.NorthIndia🥈 •Mr.Chandigarh🥇 •Mr.Amritsar🥇 •Avon Mr.India🥉 •Fitness Model👌🏻 •DM for Online Training📩
     location: "Australia"
-    followers: 21382
-    engagement: 135
-    commentsToLikes: 0.096578
-    id: ck5c76pwn6xhn0i11lk78abap
+    followers: 60043
+    engagement: 236
+    commentsToLikes: 0.019129
+    id: ck8wfake6ff7v0j78bz97gdv0
     verified: false
-    hashtags: "#alonetogether, #teeth, #perthlife, #loveyourself"
-  - username: "model_over50"
+    hashtags: "#sunset, #smile, #model, #gymmotivation"
+  - username: "kate.the.vet"
     fullname: >-
-      Donna Anna
+      Dr Kate Bruce
+    bio: >-
+      🐾 GP + Emergency #Veterinarian 🥼 Barco Ambassador 🏝 Aussie 🏠 @pigeonhousereno
     location: "Australia"
-    followers: 32847
-    engagement: 762
-    commentsToLikes: 0.052948
-    id: ck8tctjty0mgv0j78fjqn2tyd
+    followers: 33001
+    engagement: 410
+    commentsToLikes: 0.029272
+    id: ckaox4jb7br3q0i783jwrq2c2
     verified: false
-    hashtags: "#plantbasedcoach, #whenthisisover, #athome, #50pluswomenrock"
-  - username: "marven_yacoub"
-    fullname: >-
-      Marven Yacoub
-    location: "Australia"
-    followers: 54867
-    engagement: 254
-    commentsToLikes: 0.064609
-    id: ck6tu3mm2e41z0j71plduu8k1
-    verified: false
-    hashtags: "#fashion, #instafashion, #mensfashion, #lifestyle"
-  - username: "holly_dollyy"
-    fullname: >-
-      🦋 Holly
-    location: "Australia"
-    followers: 65408
-    engagement: 239
-    commentsToLikes: 0.093719
-    id: ck8t3ctsx2s650j78h7tqky4p
-    verified: false
-    hashtags: "#gymsharkwomen, #fitsporation, #hiitworkout, #beachwear"
-  - username: "majamilicevic_"
-    fullname: >-
-      MAJA MILICEVIC
-    location: "Australia"
-    followers: 6785
-    engagement: 700
-    commentsToLikes: 0.102478
-    id: ck5c45s850nu30i11v30xcxye
-    verified: false
-    hashtags: "#ariesseason, #realgirlsofbody, #cottonon"
-  - username: "chemo_diaries"
-    fullname: >-
-      Ashley Williams
-    location: "Australia"
-    followers: 20011
-    engagement: 296
-    commentsToLikes: 0.134873
-    id: ck15un6kinznj0i19l5hwj9yz
-    verified: false
-    hashtags: "#2020vision, #desistrong, #reminiscing, #professional"
-  - username: "dancavalcante90"
-    fullname: >-
-      Daniel Cavalcante
-    location: "Australia"
-    followers: 6198
-    engagement: 893
-    commentsToLikes: 0.064862
-    id: ck6topxnbffo60j71qrx6q4t6
-    verified: false
-    hashtags: "#igfitness, #wonderwoman, #gaymuscle, #bodybuilding"
+    hashtags: "#vetnurse, #work, #vettech, #cavoodle"
 ---

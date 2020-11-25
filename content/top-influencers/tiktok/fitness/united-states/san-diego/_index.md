@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In San Diego In 2020
 description: >-
-  Find top fitness TikTok influencers in San Diego in 2020. Most popular hashtags: #natureathome #fitness #squat #challenge.
+  Find top fitness TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #fitness #sandiego #foryou.
 platform: TikTok
+hits: 38
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 38 TikTok influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "carajunee"
+  - username: "sealslax"
     fullname: >-
-      carajunee
+      San Diego Seals
+    bio: >-
+      Your favorite NLL team. 🔱
     location: "United States"
-    followers: 2775
-    engagement: 956
-    commentsToLikes: 0.036612
-    id: ck9v1fcqygwe00j78t3is49ht
-    verified: false
-    hashtags: "#benchpress, #legday, #fitnessfreak, #squat"
-  - username: "cynthiaslam"
+    followers: 4893
+    engagement: 1441
+    commentsToLikes: 0.024348
+    id: ckcej936vrwx10j23c7mvr3ih
+    verified: true
+    hashtags: "#sports, #dance, #fyp, #fitness"
+  - username: "deep_end_fitness"
     fullname: >-
-      Cynthia Slam
+      deependfitness
+    bio: >-
+      Outperform in competition through mind and body calmness and confidence.
     location: "United States"
-    followers: 25834
-    engagement: 626
-    commentsToLikes: 0.018211
-    id: ckahzwlkk56o00i78ru75hu9n
+    followers: 345100
+    engagement: 526
+    commentsToLikes: 0.005205
+    id: ck9jzl9pc9cec0j78byq4c8nh
     verified: false
-    hashtags: "#beach, #hiphop, #sixpackabs, #muscleup"
-  - username: "the_fitevolution"
-    fullname: >-
-      Jereke Armstrong
-    location: "United States"
-    followers: 39283
-    engagement: 573
-    commentsToLikes: 0.010667
-    id: ck83zgge00jgm0j78459tmumn
-    verified: false
-    hashtags: "#press, #squat, #explosives, #legday"
+    hashtags: "#fyp, #underwater, #water, #fitness"
   - username: "lauranovack"
     fullname: >-
       laura.novack
+    bio: >-
+      personal trainer. san diego, ca lauranovack88@gmail.com
     location: "United States"
-    followers: 531323
-    engagement: 1272
-    commentsToLikes: 0.008188
+    followers: 609000
+    engagement: 1359
+    commentsToLikes: 0.009588
     id: ck80oaixtgd0o0j78k4ahjjes
     verified: false
-    hashtags: "#oops, #toosieslide, #therisetheshine, #quarentine"
-  - username: "mexicanboxing"
+    hashtags: "#california, #fitness, #fitnesschallenge, #sandiego"
+  - username: "carajunee"
     fullname: >-
-      Mexican Boxing
+      carajunee
+    bio: >-
+      67.5kg powerlifter 💪🏼 San Diego Insta: @carawochaski
     location: "United States"
-    followers: 19075
-    engagement: 784
-    commentsToLikes: 0.017305
-    id: ck9ne5495d7u70j78t7blwwuy
+    followers: 6491
+    engagement: 923
+    commentsToLikes: 0.025770
+    id: ck9v1fcqygwe00j78t3is49ht
     verified: false
-    hashtags: "#chavez, #best, #skills, #tiktok"
-  - username: "sarah_beth_hoffman"
+    hashtags: "#gymshark, #fit, #gym, #deadlift"
+  - username: "jacksparrowed"
     fullname: >-
-      sarah_beth_hoffman
+      Captain Jack Sparrow
+    bio: >-
+      Venmo @CaptainJackSparrowEd
     location: "United States"
-    followers: 2990
-    engagement: 1054
-    commentsToLikes: 0.081218
-    id: ckae14u92mztd0i78l4cgv2kw
+    followers: 551500
+    engagement: 1085
+    commentsToLikes: 0.029618
+    id: ckb9hnh807i740j23rtg18yk3
     verified: false
-    hashtags: "#spadeolay, #disappointment, #tiktoktrends, #tired"
-  - username: "theworx34"
+    hashtags: "#you, #piratesofthecaribbean, #jacksparrow2020, #pirate"
+  - username: "denzeleusebio"
     fullname: >-
-      Jason Worx
+      Denzel Eusebio
+    bio: >-
+      San Diego Dance & Fitness Follow me on Twitch & IG
     location: "United States"
-    followers: 9090
-    engagement: 1508
-    commentsToLikes: 0.084226
-    id: ck9skjk5994na0j783jahk282
+    followers: 4207
+    engagement: 908
+    commentsToLikes: 0.055034
+    id: ckauzs80v5d0s0j23qyp7fiie
     verified: false
-    hashtags: "#bodyimage, #love, #plankchallenge, #tattootrend"
-  - username: "tinamdominguez"
+    hashtags: "#kpop, #dance, #fyp, #taeyang"
+  - username: "courtknee_24"
     fullname: >-
-      Tina
+      Courtney Ilten
+    bio: >-
+      IG: courtknee_24 San Diego, CA
     location: "United States"
-    followers: 6154
-    engagement: 832
-    commentsToLikes: 0.065815
-    id: ck8z3tu6nb1x80j78isqhf6in
+    followers: 4544
+    engagement: 513
+    commentsToLikes: 0.063198
+    id: ckb9m7a7nf5py0j23q22nhhvp
     verified: false
-    hashtags: "#greenscreen, #hoarfrost, #backatwork, #introvertlife"
-  - username: "hungryvisionaries"
+    hashtags: "#girls, #california, #dance, #friends"
+  - username: "renaemalone"
     fullname: >-
-      hungryvisionaries
+      renaemalone
+    bio: >-
+      travel, vegan, yogi🌺 follow me on insta! @renaemalone
     location: "United States"
-    followers: 27916
-    engagement: 863
-    commentsToLikes: 0.118331
-    id: ckahzwstl58h50i78wwt4hcjd
+    followers: 212300
+    engagement: 1113
+    commentsToLikes: 0.010395
+    id: ck8j8562yhcdk0j78tbal3sfg
     verified: false
-    hashtags: "#bugatti, #facebookads, #familytime, #retailtherapy"
-  - username: "lindsayrenteria"
+    hashtags: "#foryou, #couplegoals, #beach, #fyp"
+  - username: "brycemarin"
     fullname: >-
-      La Linds
+      Bryce
+    bio: >-
+      Follow my ig🦋 ^^
     location: "United States"
-    followers: 168606
-    engagement: 921
-    commentsToLikes: 0.016383
-    id: ck81s2iclpj0r0j788ogjuup8
+    followers: 8867
+    engagement: 986
+    commentsToLikes: 0.040943
+    id: ckdspznc9om2l0j23srk0fcwf
     verified: false
-    hashtags: "#showmeyourwalk, #hangloose, #challenge, #keepingbusy"
+    hashtags: "#adventure, #explore, #film, #editing"
+  - username: "officialrambam"
+    fullname: >-
+      Ofc. Al.B
+    bio: >-
+      Sharing my daily life ● 18+ Work ● Food ● Experiences ● Traveling 🇯🇴●🇺🇲
+    location: "United States"
+    followers: 15000
+    engagement: 325
+    commentsToLikes: 0.011406
+    id: ckcpd8r17fx1t0j23x4nb02sn
+    verified: false
+    hashtags: "#walk, #nature, #letsgo, #animal"
 ---

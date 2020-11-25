@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top beauty Instagram influencers in Birmingham in 2020. Most popular hashtags: #makeuptutorial #makeup #beauty #makeupvideos.
+  Find top beauty Instagram influencers in Birmingham in 2020. Most popular hashtags: #beauty #makeup #fashion #explorepage.
 platform: Instagram
+hits: 26
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 26 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
 profiles:
+  - username: "liveuptohername"
+    fullname: >-
+      Lexi 🎀
+    bio: >-
+      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
+    location: "United Kingdom"
+    followers: 19482
+    engagement: 634
+    commentsToLikes: 0.006125
+    id: ck5cik16gsslf0i11w5ovnhua
+    verified: false
+    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
+  - username: "fatimakaymakeupartist"
+    fullname: >-
+      BIRMINGHAM MAKEUP ARTIST
+    bio: >-
+      Bridal | Bridesmaid | Engagement | Party ▫️Booking/ Enquires tap “text” below ▫️Booking Info in Highlights 👇🏻 ▫️Makeup Only
+    location: "United Kingdom"
+    followers: 10525
+    engagement: 465
+    commentsToLikes: 0.071949
+    id: ckaosz2extngc0i78eqc6bgcl
+    verified: false
+    hashtags: "#walimaglam, #makeupblogger, #makeupjunkie, #nudelip"
   - username: "iulia_david_photography"
     fullname: >-
       Iulia David
+    bio: >-
+      Beauty photographer 📍London/ Birmingham Represented by @lha_rep For bookings please email info@iuliadavid.co.uk
     location: "United Kingdom"
-    followers: 67302
-    engagement: 323
-    commentsToLikes: 0.038746
+    followers: 70138
+    engagement: 273
+    commentsToLikes: 0.026665
     id: ck0u1vifey5140i19oyckvt3d
     verified: false
-    hashtags: "#pink, #beautybloggers, #macro, #closeup"
+    hashtags: "#makeup, #makeupartist, #londonphotographer, #beautyphotographer"
   - username: "artbecomesyou"
     fullname: >-
       Lydia Epangue
+    bio: >-
+      Wife, Mom & Beygent🐝I write sometimes🇨🇲 🖥:artbecomesyou.com📧:artbecomesyoublog@gmail.com 📍Birmingham, UK #artbecomesyou
     location: "United Kingdom"
-    followers: 29873
-    engagement: 125
-    commentsToLikes: 0.187302
+    followers: 29630
+    engagement: 122
+    commentsToLikes: 0.156170
     id: ck6tpglu6jr9e0j71m5bpvfsb
     verified: false
-    hashtags: "#4chairstyles, #frameprints, #zaradaily, #lashroutine"
+    hashtags: "#aesthetic, #vintagevibes, #artbecomesyou, #neutralstyle"
   - username: "samiya.styles"
     fullname: >-
       • S A M I Y A •
+    bio: >-
+      FASHION 👜• BEAUTY 💄• FOOD 🍔 📍BIRMINGHAM PR & Collabs 💌 samiya.styles@hotmail.com A walk in my wardrobe ❤️ tiktok samiyastyles
     location: "United Kingdom"
-    followers: 15810
-    engagement: 770
-    commentsToLikes: 0.140428
+    followers: 20945
+    engagement: 808
+    commentsToLikes: 0.121615
     id: ck6u2tdzmttul0j71ee09xysh
     verified: false
-    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
-  - username: "makeuppbycharlie"
+    hashtags: "#pakistanidresses, #desiblogger, #pakistanistreetstyle, #muslimahchamber"
+  - username: "sarahstawowski"
     fullname: >-
-      ✨🌈charlie✨🌈
+      s ᴀ ʀ ᴀ ʜ  ᴊ ᴀ ᴅ ᴇ
+    bio: >-
+      𝗨𝗞📍 ⠀ email : sarahjade_model@outlook.com Managed by @buzz_talent_
     location: "United Kingdom"
-    followers: 4390
-    engagement: 1725
-    commentsToLikes: 0.201935
-    id: ckap8u5bbpwgs0i78vstoe2t1
+    followers: 4364
+    engagement: 899
+    commentsToLikes: 0.196750
+    id: ckap2edryygwg0i785yn3tm33
     verified: false
-    hashtags: "#boots, #makeupjunkie, #featuremuas, #contouring"
-  - username: "pennyfroreal"
+    hashtags: "#discoverunder10k, #fashionbible, #theoutfitcommunity, #fashionaddict"
+  - username: "makeup_obsessionsxx"
     fullname: >-
-      PENNYFROREAL
+      𝐚𝐦𝐦𝐚𝐚𝐫𝐚𝐡 ✿
+    bio: >-
+      𝐛𝐞𝐚𝐮𝐭𝐲 | 𝐬𝐤𝐢𝐧𝐜𝐚𝐫𝐞 𝐠𝐨𝐚𝐥 : 𝟏𝟎𝐤 𝐮𝐤
     location: "United Kingdom"
-    followers: 18391
-    engagement: 394
-    commentsToLikes: 0.080976
-    id: ck8tcg07bzc950j78s6xdignn
+    followers: 8930
+    engagement: 936
+    commentsToLikes: 0.455260
+    id: ck0w6bczo7rii0i19usmp95pe
     verified: false
-    hashtags: "#boxbraids, #jimandhenry, #curlsuk, #mixedhair"
+    hashtags: "#createbeauty, #hypebaebeauty, #skincareface, #beautyreview"
+  - username: "liliana__anaya"
+    fullname: >-
+      LILIANA⚡️
+    bio: >-
+      📍Birmingham, U.K
+    location: "United Kingdom"
+    followers: 4925
+    engagement: 917
+    commentsToLikes: 0.242183
+    id: ckap6rfcph4400i78kanuxqvp
+    verified: false
+    hashtags: "#cgmethod, #motd, #zarawomen, #makeup"
+  - username: "poonamwalid"
+    fullname: >-
+      Poonam walid
+    bio: >-
+      📍 Birmingham, UK ❥ Skincare | Makeup | Fashion | Lifestyle ❥ Collaborations: contact@heeldiaries.com ❥ Wifey 👉🏽 @abzolutefoodie 🧿 ❥ My Amazon shop 👇🏽
+    location: "United Kingdom"
+    followers: 47761
+    engagement: 300
+    commentsToLikes: 0.060688
+    id: ck9wean2wjfak0j78qsind28a
+    verified: false
+    hashtags: "#style, #beauty, #narspartner, #fashion"
   - username: "elizas_everyday"
     fullname: >-
       Eliza's_everyday
+    bio: >-
+      Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness 💥Mum to 2 gorgeous boys 💥Next travel destination French Alps
     location: "United Kingdom"
-    followers: 16627
-    engagement: 393
-    commentsToLikes: 0.406422
+    followers: 18832
+    engagement: 379
+    commentsToLikes: 0.544144
     id: ck5bw68vel2m20i11vebkj9bq
     verified: false
-    hashtags: "#dressupfriday, #beautybox, #green, #asseenonme"
-  - username: "munchterrdoll"
-    fullname: >-
-      𝑨𝒏𝒈𝒆𝒍𝒊𝒏𝒆 𝑽𝒊𝒍𝒍𝒂𝒆𝒔𝒕𝒊𝒗𝒂
-    location: "United Kingdom"
-    followers: 2643
-    engagement: 1251
-    commentsToLikes: 0.205470
-    id: ck5c74vuj6tg00i11z9vktwsc
-    verified: false
-    hashtags: "#beauty, #ad, #missygirls, #keeponbeingyou"
-  - username: "liliana__anaya"
-    fullname: >-
-      𝓛𝓲𝓵𝓲𝓪𝓷𝓪 𝓐𝓷𝓪𝔂𝓪❥
-    location: "United Kingdom"
-    followers: 4286
-    engagement: 1087
-    commentsToLikes: 0.526695
-    id: ckap6rfcph4400i78kanuxqvp
-    verified: false
-    hashtags: ""
-  - username: "makeupby_tash"
-    fullname: >-
-      Closed Untill Further Notice
-    location: "United Kingdom"
-    followers: 8295
-    engagement: 618
-    commentsToLikes: 0.066056
-    id: ck6u2y5jwulj80j7199re78jq
-    verified: false
-    hashtags: "#clientselfie, #makeupvideos, #makeupgoals, #underratedmua"
-  - username: "jokostyle"
-    fullname: >-
-      Joanna Elmo-Kowalska
-    location: "United Kingdom"
-    followers: 22249
-    engagement: 385
-    commentsToLikes: 0.035559
-    id: ck14i361sdeq50i19ryrd7xq9
-    verified: false
-    hashtags: "#fitnesslovers, #bikini, #squadgoals, #worldtraveler"
+    hashtags: "#womanandhomestreetstyle, #stylemum, #instamum, #boots"
 ---

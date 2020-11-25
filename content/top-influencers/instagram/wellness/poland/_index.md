@@ -1,107 +1,130 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Poland In 2020
 description: >-
-  Find top wellness Instagram influencers in Poland in 2020. Most popular hashtags: #wellness #selfie #nature #pielegnacja.
+  Find top wellness Instagram influencers in Poland in 2020. Most popular hashtags: #wellness #fitness #girl #strajkkobiet.
 platform: Instagram
+hits: 33
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 33 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "natalia_grzyb"
+    fullname: >-
+      NATALIA GRZYB
+    bio: >-
+      ⭐️World & European champ wellness🥈🥈🥉 ⭐️ @myproteinpl #team %grzybek ⭐️ @carpatree #team %natalia_grzyb ⭐️ kontakt 📥 nataliagrzyb.pl @ekipkagrzybka
+    location: "Poland"
+    followers: 102835
+    engagement: 876
+    commentsToLikes: 0.015730
+    id: ck13amu0cr5gz0i19sp6hvet4
+    verified: false
+    hashtags: "#fitgirl, #woman, #athlete, #akopteam"
+  - username: "mrs__harmony"
+    fullname: >-
+      Kasia Harmony
+    bio: >-
+      • healthy food • natural medicine • vegan lifestyle 🌱 • woman workshop #doterra wellness advocate, join me 👉 9448371 📮Kasia@harmonylife.style
+    location: "Poland"
+    followers: 41877
+    engagement: 470
+    commentsToLikes: 0.047615
+    id: ck5zx2fe577tv0i1434us37ir
+    verified: false
+    hashtags: "#piek, #to, #strajkkobiet, #taniec"
+  - username: "carmelatte"
+    fullname: >-
+      Klaudia
+    bio: >-
+      🗺 I write about Voyages, Slow Fashion, Wellness and Destination Weddings 🔜 Dubai if covid allows 📩contact@carmelatte.co
+    location: "Poland"
+    followers: 50316
+    engagement: 87
+    commentsToLikes: 0.201611
+    id: ck6tqkdqpry2o0j71kokocyce
+    verified: false
+    hashtags: "#visitpoland, #retrolook, #slowfashionblogger, #frenchessentials"
   - username: "dagadomi_fit"
     fullname: >-
       Daga Dominiczak
+    bio: >-
+      🏆World & European & Arnold Wellness Fitness Champion🥇 Kod:DAGA15 💪 @formotiva 🚴‍♀️ @fitness_w_domu 💄lekcje makijażu i pozowania scenicznego👠
     location: "Poland"
-    followers: 18902
-    engagement: 263
-    commentsToLikes: 0.030138
+    followers: 20491
+    engagement: 464
+    commentsToLikes: 0.030687
     id: ck5q9w04hdabm0i1118trwpka
     verified: false
-    hashtags: "#3maja, #kokosowe, #termomixzlidla, #cialo"
+    hashtags: "#fitness, #kadrapolski, #mistrzostwapolski, #sportowiec"
+  - username: "claudiaciesla"
+    fullname: >-
+      Claudia Ciesla
+    bio: >-
+      🇩🇪🇵🇱#Actress in🇮🇳 🥗#Nutritionist #wellnesscoach 🤙Contact: Claudia.enquiry@gmail.com
+    location: "Poland"
+    followers: 436915
+    engagement: 72
+    commentsToLikes: 0.019097
+    id: ck0vwp4equw9u0i19043e4pxs
+    verified: true
+    hashtags: "#workoutroutine, #claudiaciesla, #lifeisgood, #nature"
   - username: "kayawegewrozka"
     fullname: >-
       Kaya Wege Wróżka
+    bio: >-
+      #WysokieWibracje 🎙Podcast „Apteka dla duszy” 📖ebooki + blog #Świadomość #Astrologia #Wellness ☾ Blog & Sklep📚
     location: "Poland"
     followers: 25452
     engagement: 441
     commentsToLikes: 0.053180
     id: ck5c09l2dsp7l0i11s6wa2cbd
     verified: false
-    hashtags: "#feelyourfeelings, #transform, #poleelektromagnetyczne, #postfullmoonvibes"
-  - username: "julia.secheniewicz"
+    hashtags: "#simpleasthat, #naturespeaks, #selfcare, #freshstart"
+  - username: "_delighted"
     fullname: >-
-      𝑱𝒖𝒍𝒊𝒂 𝑺𝒆𝒄𝒉𝒆𝒏𝒊𝒆𝒘𝒊𝒄𝒛
+      Agata ☆ food styling
+    bio: >-
+      I'm a serious woman but can't help my love for pretty&cute stuff☁️ ☆architect, foodie, professional dreamer☆ based in Poland 🥟 delighted.pl@gmail.com
     location: "Poland"
-    followers: 2742
-    engagement: 3329
-    commentsToLikes: 0.075206
-    id: ck9weypjrmgu30j787l7bks62
+    followers: 71462
+    engagement: 302
+    commentsToLikes: 0.059123
+    id: ck0vwx0lsw02y0i193xbu4ddk
     verified: false
-    hashtags: "#selfietime, #yummy, #makeup, #model"
-  - username: "pawelfitnessworld"
+    hashtags: "#eatgoodfeelgood, #veganfood, #makesmewhole, #niedziela"
+  - username: "mrs_kitchen_fairy"
     fullname: >-
-      Pawel Fitness World ®️
+      Agnieszka Wojciechowska
+    bio: >-
+      Recipe developer 🌱Eat healthy without limits 🌱Clean food recipes in 15 minutes🌈 Guiltfree Glutenfree Sugarfree 🥑 -21kg / 8m 👦👧 @dani.wojciechowski 📷
     location: "Poland"
-    followers: 50736
-    engagement: 246
-    commentsToLikes: 0.072801
-    id: ckaoze58alh5y0i78u5hq4d10
+    followers: 71351
+    engagement: 336
+    commentsToLikes: 0.040858
+    id: ck15u4vsalf200i190ygrebfu
     verified: false
-    hashtags: "#metamorfoza, #zdrowadieta, #zosta, #gainweight"
-  - username: "natalia_grzyb"
+    hashtags: "#veganfoodshare, #smoothies, #breakfast, #fitness"
+  - username: "franj_oses"
     fullname: >-
-      NATALIA GRZYB
+      Fran Osés®
+    bio: >-
+      💢Muscle Freak Made In🇪🇸 🌐Sponsors @big_suplementacion @oss_fitness @themeccagym_jaen 💻 #team⭕️ses Coach 📩 Info: fran.oses7@gmail.com 💍 @magiccriss
     location: "Poland"
-    followers: 88835
-    engagement: 816
-    commentsToLikes: 0.010978
-    id: ck13amu0cr5gz0i19sp6hvet4
+    followers: 29209
+    engagement: 208
+    commentsToLikes: 0.047480
+    id: ck0udjuzaj9ip0i1921dmxcr8
     verified: false
-    hashtags: "#womanstyle, #tiktok, #moodoftheday, #bodygoals"
-  - username: "dsroczynska"
+    hashtags: "#gym, #spain, #wellness, #motivation"
+  - username: "monia_poznan"
     fullname: >-
-      PRACA ZDALNA 💻| BIZNES💸
+      Monika Majchrzak
+    bio: >-
+      Team @xtreme_fitness_gyms 🔥💪 Link do rejestracji @xtremego.pl 💚 Piękno, pielęgnacja 💅 @solange_beautyspa_literacka131
     location: "Poland"
-    followers: 9410
-    engagement: 951
-    commentsToLikes: 0.072821
-    id: ck15qb2yd1zg40i19fkyzuxvy
+    followers: 49870
+    engagement: 1189
+    commentsToLikes: 0.029409
+    id: ckaotsqvyxcg20i78f66cxt2u
     verified: false
-    hashtags: "#szcz, #portret, #odpornosc, #wlosy"
-  - username: "martagrzegorzak"
-    fullname: >-
-      Marta Grzegorzak
-    location: "Poland"
-    followers: 14869
-    engagement: 545
-    commentsToLikes: 0.046315
-    id: ck0uelu6slnkb0i19vb27ara6
-    verified: false
-    hashtags: "#zarahome, #dziendobry, #inhome, #kosmetykomania"
-  - username: "nelakornelaa"
-    fullname: >-
-      🥀 Kornelia Koszczyk
-    location: "Poland"
-    followers: 2521
-    engagement: 1735
-    commentsToLikes: 0.039851
-    id: ck8taluu7saox0j7852sbhntt
-    verified: false
-    hashtags: "#trip, #oldphoto, #beyourself, #leathercoat"
-  - username: "ewelina_czarnecka"
-    fullname: >-
-      Ewelina Czarnecka
-    location: "Poland"
-    followers: 60357
-    engagement: 290
-    commentsToLikes: 0.033911
-    id: ck6tv3t69k0kz0j71azxgvhpk
-    verified: false
-    hashtags: "#mondaymood, #zosta, #selfie, #morningmood"
-  - username: "olimpeya_mua"
-    fullname: >-
-      Olimpia
-    location: "Poland"
-    followers: 5167
-    engagement: 1633
-    commentsToLikes: 0.105702
-    id: ck6u1o2uxmw7h0j715twomm2h
-    verified: false
-    hashtags: "#pieknecialo, #lippencil, #fajnaksi, #mojarecenzja"
+    hashtags: "#autumn, #legs, #style, #happy"
 ---

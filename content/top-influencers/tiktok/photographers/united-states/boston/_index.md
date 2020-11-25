@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers TikTok Influencers In Boston In 2020
 description: >-
-  Find top photographers TikTok influencers in Boston in 2020. Most popular hashtags: #photography #photographer #foryou #smile.
+  Find top photographers TikTok influencers in Boston in 2020. Most popular hashtags: #fyp #photographer #foryoupage #photography.
 platform: TikTok
+hits: 10
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 10 TikTok influencers like this in Boston, United States for you to work with.
 profiles:
-  - username: "ndpol"
+  - username: "lydia.rich"
     fullname: >-
-      ndpol
+      lydia 🇧🇲
+    bio: >-
+      18 | photographer 📸🦋 BOSTON check my insta @lydia.rich JUSTICE.
     location: "United States"
-    followers: 4113
-    engagement: 624
-    commentsToLikes: 0.072585
-    id: ckan3sycb6vqw0i786eqei38w
+    followers: 7539
+    engagement: 1990
+    commentsToLikes: 0.021684
+    id: ck8nbv6z0br1p0j78y854ke9r
     verified: false
-    hashtags: "#maine, #hike, #daviddobrik, #esportsforall"
-  - username: "dahliaraz"
+    hashtags: "#snoozzzapalooza, #artist, #miraclecurlschallenge, #photography"
+  - username: "eric.snyder"
     fullname: >-
-      Dahlia Raz
+      Eric Snyder
+    bio: >-
+      Professional photographer based in Boston. 📸 CEO of lipsync Portfolio 👇🏼
     location: "United States"
-    followers: 114015
-    engagement: 2045
-    commentsToLikes: 0.028383
-    id: ck8fc1mts607v0j7868zq8bdk
+    followers: 33100
+    engagement: 1380
+    commentsToLikes: 0.052674
+    id: ckcdw8qasfjgo0j231a2lw9f4
     verified: false
-    hashtags: "#leatherpaint, #carandache, #diyart, #angelus"
-  - username: "bryce.russo12"
+    hashtags: "#photographer, #vote, #lipsync, #fyp"
+  - username: "alykula"
     fullname: >-
-      Bryce
+      Aly
+    bio: >-
+      Idfk but it’s fun photo tips n tings NYC based photographer
     location: "United States"
-    followers: 3785
-    engagement: 343
-    commentsToLikes: 0.035145
-    id: cka6013z6p6ln0i78izmyydre
+    followers: 13500
+    engagement: 1439
+    commentsToLikes: 0.022547
+    id: ckbfdfzol6tp20j23uc9dy350
     verified: false
-    hashtags: "#musically, #cheaptrick, #memorialday, #steveperry"
-  - username: "shootfordetails"
+    hashtags: "#photoshoot, #editing, #nyc, #fyp"
+  - username: "vs_car_videos"
     fullname: >-
-      Josh Sweeney
+      vs_car_photos
+    bio: >-
+      Ri Photographer- Follow my Instagram @vs_car_photos all vids are mine
     location: "United States"
-    followers: 4986
-    engagement: 647
-    commentsToLikes: 0.020042
-    id: cka9qvbob8f9t0i78qa7onajc
+    followers: 4855
+    engagement: 1456
+    commentsToLikes: 0.009650
+    id: ckankrvxx5n1m0i78p2137inn
     verified: false
-    hashtags: "#flyboard, #tunedcar, #testdrive, #jaguar"
-  - username: "ali_raye"
+    hashtags: "#foryoupage, #bugatti, #photographer, #cars"
+  - username: "chowdownusa"
     fullname: >-
-      Ali
+      Chelsea
+    bio: >-
+      Travel + Food✈️🍰 Based in Boston
     location: "United States"
-    followers: 2147
-    engagement: 790
-    commentsToLikes: 0.137412
-    id: cka7ny2q3z9c80i78y37soofw
+    followers: 19800
+    engagement: 1136
+    commentsToLikes: 0.038205
+    id: ck8saa27p16nt0j78monb9kq1
     verified: false
-    hashtags: "#tiktokcrush, #hungergames, #trackerjackers, #popsicle"
-  - username: "kgarciaprod"
+    hashtags: "#traveldiaries, #stayathome, #hiddengems, #food"
+  - username: "thatkidrbm"
     fullname: >-
-      K Garcia Productions
+      Rudimir Martinez
+    bio: >-
+      I’m Rudy, Im not funny but I’m a pretty decent photographer :) 🇩🇴
     location: "United States"
-    followers: 38315
-    engagement: 1721
-    commentsToLikes: 0.052471
-    id: ckac3shthbuc70i78snmso1z9
+    followers: 4718
+    engagement: 836
+    commentsToLikes: 0.050622
+    id: ckdbjcdhl96230j23tvr83cid
     verified: false
-    hashtags: "#photography, #randomthings, #automotive, #lenses"
-  - username: "botoxfairy"
+    hashtags: "#boston, #dominican, #xyzbca, #latino"
+  - username: "benskaar"
     fullname: >-
-      Audrey Rose
+      Ben Skaar
+    bio: >-
+      🍁Ceo of Fall🍁 17 | Massachusetts
     location: "United States"
-    followers: 5715
-    engagement: 343
-    commentsToLikes: 0.039815
-    id: ck9jvm44mssc30j785p28sdct
+    followers: 43000
+    engagement: 1614
+    commentsToLikes: 0.045792
+    id: ckbez3tpmk37q0j23nc2unbqj
     verified: false
-    hashtags: "#aesthethics, #beautymode, #camera, #moms"
-  - username: "alfredoflores"
+    hashtags: "#photoshop, #igotthemusic, #drone, #halloweenathome"
+  - username: "capturedbykal"
     fullname: >-
-      Alfredo Flores
+      Kal
+    bio: >-
+      Bio Major MA
     location: "United States"
-    followers: 61897
-    engagement: 2844
-    commentsToLikes: 0.176404
-    id: ck8nk1l45d39e0j783cs1slx1
-    verified: true
-    hashtags: "#littlethings, #poseathome, #duetme, #notmadaboutit"
-  - username: "sergeybidun"
-    fullname: >-
-      Sergey Bidun
-    location: "United States"
-    followers: 74102
-    engagement: 2325
-    commentsToLikes: 0.035132
-    id: ck8f89b833dmm0j786djb91zt
+    followers: 17500
+    engagement: 629
+    commentsToLikes: 0.049930
+    id: ck8vxtknus4es0j78icd8bmc7
     verified: false
-    hashtags: "#artistsoftiktok, #ownthecurve, #twinchallenge, #sisters"
-  - username: "wildflowerfieldsx"
+    hashtags: "#mass, #fyp, #photography, #greenscreenvideo"
+  - username: "eddieottero"
     fullname: >-
-      Bobby & Juli 🕊🌌
+      Eddie Otero
+    bio: >-
+      Filmmaker & Content Creator🎥📸 Instagram: @EddieOtero
     location: "United States"
-    followers: 3069
-    engagement: 1543
-    commentsToLikes: 0.129132
-    id: cka89q5plg0420i78kpbrzgbo
+    followers: 4705
+    engagement: 1020
+    commentsToLikes: 0.162042
+    id: ckd17ubwmp7nf0j23gdr5e7ld
     verified: false
-    hashtags: "#lorde, #gonnabefriends, #slowmochallenge, #mentalhealh"
+    hashtags: "#parati, #tutorial, #photography, #miami"
+  - username: "clvtch_life"
+    fullname: >-
+      Aaron
+    bio: >-
+      Just here sharing my story Filmmaking✖️Moto✖️Dad Life Business ⬇️ IG:@ajb_films
+    location: "United States"
+    followers: 4546
+    engagement: 1218
+    commentsToLikes: 0.021622
+    id: ckb0uo1o5k05o0j23e8jxe7gw
+    verified: false
+    hashtags: "#foryoupage, #foryourpage, #trending, #fyp"
 ---

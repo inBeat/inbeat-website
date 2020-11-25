@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dog Owners Instagram Influencers In 2020
 description: >-
-  Find top dog owners Instagram influencers in 2020. Most popular hashtags: #happyeaster #bedroomgoals #gardenproject #selfie.
+  Find top dog owners Instagram influencers in 2020. Most popular hashtags: #homedecor #pocketofmyhome #scandihome.
 platform: Instagram
+hits: 300
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 300 Instagram influencers like this for you to contact.
 profiles:
   - username: "georgina_patient"
     fullname: >-
-      𝐆𝐞𝐨𝐫𝐠𝐢𝐧𝐚 𝐏𝐚𝐭𝐢𝐞𝐧𝐭★
+      GEORGINA PATIENT
+    bio: >-
+      ✨Fashion | Lifestyle | Beauty 📍Essex/London based 🕊Mother of two boys 🤍Wife 🌭Sausage dog owner For collabs email 💌stylemotherbeat@gmail.com
     location: "United Kingdom"
-    followers: 31729
-    engagement: 365
-    commentsToLikes: 0.440413
+    followers: 45319
+    engagement: 272
+    commentsToLikes: 0.292955
     id: ckaoswedotbm30i78pw1ay5lh
     verified: false
-    hashtags: "#whatmamaworemonday, #girlsgoneloavies"
+    hashtags: "#whatmamaworemonday, #lilycharmed, #letterboxgift, #sustainablestyle"
   - username: "costeee"
     fullname: >-
       𝖈𝖔𝖘𝖙𝖊𝖊
+    bio: >-
+      Singer & songwriter 💥 Etenee Records Dog owner Passionate nicotine lover 💀🖤🤘🏻KEIKAT ⬇️
     location: "Finland"
-    followers: 11749
-    engagement: 1977
-    commentsToLikes: 0.022340
+    followers: 14124
+    engagement: 2157
+    commentsToLikes: 0.017540
     id: ck5c76ovu6xex0i11v5kr1m1e
     verified: false
-    hashtags: "#elisalive"
-  - username: "thealexjay"
-    fullname: >-
-      Alex Jay
-    location: "United States"
-    followers: 19851
-    engagement: 938
-    commentsToLikes: 0.048400
-    id: ck136zzcf93wx0i198w9jblr2
-    verified: false
-    hashtags: "#coachella, #beautyblender, #brighteyes, #lemonhead"
-  - username: "lara_miklian"
-    fullname: >-
-      ℓ α я α  ♡
-    location: "Germany"
-    followers: 8073
-    engagement: 804
-    commentsToLikes: 0.048343
-    id: ckap3ccfz2gog0i78wyphd8cw
-    verified: false
-    hashtags: "#id, #outfit, #selfietime, #reklam"
+    hashtags: ""
   - username: "emilyhatfield"
     fullname: >-
       Emily Hatfield
+    bio: >-
+      Austin, TX hairstylist with an adorable dog / Owner and BossLady- VAIN Salon @vainaustin
     location: "United States"
-    followers: 10699
-    engagement: 698
-    commentsToLikes: 0.013105
+    followers: 11245
+    engagement: 652
+    commentsToLikes: 0.013190
     id: ck5zrnfdbwwre0i14wcpfu7mw
     verified: false
-    hashtags: "#nationalbulldogsarebeautifulday, #starwarsday, #maythe4thbewithyou, #repost"
-  - username: "rochelles_canterbury"
+    hashtags: "#austin, #austinblonde, #austinhairstylist, #austinhair"
+  - username: "jnnfr2607"
     fullname: >-
-      Rochelle Tollervey
-    location: "United States"
-    followers: 5176
-    engagement: 1122
-    commentsToLikes: 0.389643
-    id: ckaow7fg67qzm0i78k39jncnz
+      JENNY • INTERIOR.MOM.RHODESIAN
+    bio: >-
+      MOM. WIFE. DOG OWNER. INTERIOR LOVER. ♥
+    location: "Germany"
+    followers: 5288
+    engagement: 896
+    commentsToLikes: 0.093707
+    id: ck5hn4mk3n72n0i1112083riq
     verified: false
-    hashtags: "#planter, #coronavirus, #roominspiration, #checkitout"
+    hashtags: "#homesweethome, #interior123, #solebich, #home"
+  - username: "pomhub.premium"
+    fullname: >-
+      Sky & Moon
+    bio: >-
+      Happy dogdad of two🐕🐕. ⠀ 🦁 Sky - brown booper 🐺 Moon - black booper ⠀ 🥳 Sharing the joy of being a dog owner. ⠀ 📍Berlin
+    location: "Germany"
+    followers: 6204
+    engagement: 492
+    commentsToLikes: 0.112624
+    id: ckaoudbjmzsaf0i78tw9nilhl
+    verified: false
+    hashtags: "#bonerbros, #covid19"
+  - username: "joachim_pastor"
+    fullname: >-
+      Joachim Pastor
+    bio: >-
+      🇫🇷Home of joachim pastor 🔊Electronic music artist 🥇Founder of @hungrymusic 🎛Full analog geek 🏎Car lover 🦅Dog owner 🎧600k monthly spotify auditors
+    location: "France"
+    followers: 17999
+    engagement: 389
+    commentsToLikes: 0.048138
+    id: ck5bwsoiemc7f0i11v01i4icr
+    verified: false
+    hashtags: "#frenchtouch, #electronicmusicfestival, #liveshow, #seaofpeople"
   - username: "nickyshomeedit"
     fullname: >-
       Nicky X
+    bio: >-
+      🏡Selling our newbuild and embarking on a renovation project 🐶Mad dog owner ☕️Coffee lover 💖Homewares addict 🇬🇧STH MANCHESTER
     location: "United Kingdom"
-    followers: 19565
-    engagement: 462
-    commentsToLikes: 0.269218
+    followers: 19092
+    engagement: 177
+    commentsToLikes: 0.183700
     id: ckaoyo096ib860i7881bz2nt8
     verified: false
-    hashtags: "#kitchenofinsta, #mrscarlissa, #pocketofmyhome, #moreismoredecor"
-  - username: "jnnfr2607"
+    hashtags: "#dogsinmyhouseandhome, #bedroomsofinstagram, #bohodecor, #bedroomgoals"
+  - username: "carleemcdot"
     fullname: >-
-      JENNY • HEJ.HI.HELLO.WELCOME!
-    location: "Germany"
-    followers: 5020
-    engagement: 992
-    commentsToLikes: 0.123543
-    id: ck5hn4mk3n72n0i1112083riq
-    verified: false
-    hashtags: "#bilder, #kinder, #gewinnen, #desenio"
-  - username: "therealenver"
-    fullname: >-
-      Enver Gjokaj
+      Carlee McDot
+    bio: >-
+      Wife. Daughter. Friend. Runner. Michigan/Detroit Sports Fan. Plant-Based. Dog Owner. Change Maker. Sunshine Lover. World Wanderer. Oceanside, CA
     location: "United States"
-    followers: 19105
-    engagement: 1368
-    commentsToLikes: 0.020991
-    id: ck6tz16cc71yz0j71e9jk5vgd
-    verified: true
-    hashtags: "#mutt, #happyeaster, #fall, #fireindreamland"
-  - username: "dimek.js"
-    fullname: >-
-      Wojciech | Web Developer
-    location: "Poland"
-    followers: 8931
-    engagement: 622
-    commentsToLikes: 0.074011
-    id: ckap6i1cufxac0i78gqc3xsws
+    followers: 38930
+    engagement: 90
+    commentsToLikes: 0.083259
+    id: ckap7k4ezkevh0i78k32ozpn0
     verified: false
-    hashtags: "#loader, #animator, #motivating, #coffeedaily"
+    hashtags: "#optoutside, #dogood, #helpothers, #payitforward"
+  - username: "caseyhphotos"
+    fullname: >-
+      Casey Hendrickson
+    bio: >-
+      New mom + traveler + obsessed dog owner ❤️ Follow @ourlittlebrowniebites for family updates 2020 ✈️ Norway + Portugal
+    location: "United States"
+    followers: 29163
+    engagement: 10
+    commentsToLikes: 0.064769
+    id: ck14huexfc7060i1916qd8x1s
+    verified: false
+    hashtags: "#cincodemayo"
+  - username: "remy.barista"
+    fullname: >-
+      Belgium Barista champion 2018🏆
+    bio: >-
+      📍 | Brussels based 🇧🇪 📩 | remy.barista@gmail.com 🐶 | Proud Dog Owner @iamgujithecocker
+    location: "Belgium"
+    followers: 78224
+    engagement: 145
+    commentsToLikes: 0.040360
+    id: ck5hpqdtxrsul0i11ck3jljs2
+    verified: false
+    hashtags: "#specialtycoffee, #ad, #sonicescapes, #huaweifreebudspro"
 ---

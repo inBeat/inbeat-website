@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Canada In 2020
 description: >-
-  Find top skincare TikTok influencers in Canada in 2020. Most popular hashtags: #skincaretips #skincare #beauty #skincareroutine.
+  Find top skincare TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #skincare #skincareroutine.
 platform: TikTok
+hits: 336
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 336 TikTok influencers like this in Canada for you to contact.
 profiles:
-  - username: "basicallyb3auty"
-    fullname: >-
-      ✨BasicallyB3auty✨
-    location: "Canada"
-    followers: 3362
-    engagement: 1187
-    commentsToLikes: 0.094606
-    id: cka0r09grey410i78ubv4fi8j
-    verified: false
-    hashtags: "#makeup, #petpeeves, #toxicexcheck, #soannoying"
   - username: "jenahirsch"
     fullname: >-
       Jena Hirsch
+    bio: >-
+      I post clothes & skincare Follow me on insta: @jenahirsch
     location: "Canada"
-    followers: 4089
-    engagement: 538
-    commentsToLikes: 0.107847
+    followers: 3956
+    engagement: 644
+    commentsToLikes: 0.067245
     id: ck9fllc2koft60j78wrr2f4an
     verified: false
-    hashtags: "#tryonhaul, #cozyfits, #beautyhaul, #tiktokbeauty"
-  - username: "hey_itsmeviv"
+    hashtags: "#tiktokfashion, #loungewear, #stylechallenge, #outfitinspo"
+  - username: "pamperplace"
     fullname: >-
-      Viv
+      thepamperplace
+    bio: >-
+      skincare blogger 🧖🏽‍♀️content creator IG: @ThePamperPlace
     location: "Canada"
-    followers: 12754
-    engagement: 828
-    commentsToLikes: 0.107911
-    id: ck9v8te1rb44s0j78c2l65rb7
+    followers: 5087
+    engagement: 741
+    commentsToLikes: 0.044675
+    id: ckcp9huhcebyu0j23087mfvtl
     verified: false
-    hashtags: "#makemefamous, #friends, #oops, #relax"
-  - username: "jenfro"
+    hashtags: "#foryou, #kbeauty, #skincare, #skincarebyhyram"
+  - username: "taylorefford"
     fullname: >-
-      Jena Froese
+      Taylor Efford
+    bio: >-
+      Skincare and make up but make it improv comedy✨ INSTAGRAM @taylorefford 🦋🦋
     location: "Canada"
-    followers: 42149
-    engagement: 761
-    commentsToLikes: 0.027143
-    id: ck9k6plzp1p4s0j78zanxpgpp
+    followers: 165800
+    engagement: 1494
+    commentsToLikes: 0.021631
+    id: ck83juo0g7drn0j78jg9w7ywh
     verified: false
-    hashtags: "#glossier, #shoppinghaul, #makeuphaul, #camilamendes"
+    hashtags: "#homeoffice, #makeuphacks, #makeuptutorial, #acneskin"
+  - username: "andrearodgers7"
+    fullname: >-
+      Andrea Rodgers
+    bio: >-
+      🇨🇦 YVR Mom. Teacher. Skincare. Fun and connection. Check my IG for more!
+    location: "Canada"
+    followers: 23700
+    engagement: 725
+    commentsToLikes: 0.087643
+    id: ckc8gcfkkas8t0j231hhy4kwa
+    verified: false
+    hashtags: "#momsover30, #parenting, #over30, #wip"
+  - username: "janelle.girard"
+    fullname: >-
+      Janelle Girard
+    bio: >-
+      Nerds Out On Skincare Ingredient list junkie Goal 5K ✨
+    location: "Canada"
+    followers: 4803
+    engagement: 290
+    commentsToLikes: 0.053646
+    id: ckcdhm5xo7rw50j23d8c01mig
+    verified: false
+    hashtags: "#fyp, #beautyloverreveal, #skincare, #ghostphotoshoot"
+  - username: "thebodyclinicdayspa"
+    fullname: >-
+      Thebodyclinicdayspa
+    bio: >-
+      Esthetician Skincare therapist for 23 years Learn how to transform your skin.
+    location: "Canada"
+    followers: 189200
+    engagement: 267
+    commentsToLikes: 0.023641
+    id: ckajk8yghp0d20i78kex5z82b
+    verified: false
+    hashtags: "#skincaretips, #face, #acne, #acnetreatmemt"
+  - username: "kate.benson"
+    fullname: >-
+      Kate Benson
+    bio: >-
+      Canadian 🇨🇦 Mama 👧🏼🐕 Makeup 💄 Skincare 🧖🏼‍♀️
+    location: "Canada"
+    followers: 31400
+    engagement: 592
+    commentsToLikes: 0.030953
+    id: ckb9m6ptnf2kg0j23rf7vd6nt
+    verified: false
+    hashtags: "#toddlersoftiktok, #foryoupage, #fyp, #foryou"
+  - username: "_beautybags4me"
+    fullname: >-
+      affordable skincare and beauty
+    bio: >-
+      affordable beauty and skincare Small business DM us to buy ☟︎ website ☟︎
+    location: "Canada"
+    followers: 2200
+    engagement: 2550
+    commentsToLikes: 0.000000
+    id: ckbaz1zcvph8q0j23350j3gzp
+    verified: false
+    hashtags: "#tiktokgraduation, #foru, #wipeitdown, #fyp"
+  - username: "abirna.k"
+    fullname: >-
+      Abirna K
+    bio: >-
+      DM on insta ⬆️ ON🇨🇦 I share health tips Code TIKTOK to save on skincare 👇🏽
+    location: "Canada"
+    followers: 10800
+    engagement: 397
+    commentsToLikes: 0.037359
+    id: ck9k4yuv6uozn0j78fipk9uvo
+    verified: false
+    hashtags: "#naturalhealth, #anemiawareness, #hormonebalance, #androgenexcess"
   - username: "farsalicare"
     fullname: >-
       farsalicare
+    bio: >-
+      Hybrid beauty brand that bridges the gap between skincare & makeup ❤️
     location: "Canada"
-    followers: 5158
-    engagement: 520
-    commentsToLikes: 0.036473
+    followers: 9653
+    engagement: 474
+    commentsToLikes: 0.028809
     id: ck9aed4gy1fma0j78jsnx514v
     verified: true
-    hashtags: "#toosiesiide, #moisturizer, #selfcare, #beautyroutine"
-  - username: "sunaina.malik15"
-    fullname: >-
-      Sunaina
-    location: "Canada"
-    followers: 106407
-    engagement: 328
-    commentsToLikes: 0.039537
-    id: ck90r2ggjkute0j78l5brw5mw
-    verified: false
-    hashtags: "#photoshootideas, #trend, #stylinghack, #indianlook"
-  - username: "vintagemal"
-    fullname: >-
-      mal 🪐💫🤍
-    location: "Canada"
-    followers: 5725
-    engagement: 757
-    commentsToLikes: 0.019775
-    id: ck9v8tdlzb3zy0j78k7tuu853
-    verified: false
-    hashtags: "#thrift, #selfcaretips, #amazonhaul, #sheinfashion"
-  - username: "mahaaabellaaa"
-    fullname: >-
-      maha bella
-    location: "Canada"
-    followers: 55758
-    engagement: 949
-    commentsToLikes: 0.010841
-    id: ck94gbm4uf44v0j78ba8s1tuv
-    verified: false
-    hashtags: "#soldmysoul, #idknever, #lonelychair, #oops"
-  - username: "taylorhdn"
-    fullname: >-
-      tae tae
-    location: "Canada"
-    followers: 64222
-    engagement: 2815
-    commentsToLikes: 0.051633
-    id: ck961z6k7olpz0j784lr64d5b
-    verified: false
-    hashtags: "#taylorswift, #littlethings, #soundcloud, #tiktoker"
-  - username: "starry.glossier"
-    fullname: >-
-      ☾☼
-    location: "Canada"
-    followers: 10637
-    engagement: 2757
-    commentsToLikes: 0.188312
-    id: ckamrtpw6n9sr0i78xhyiyakq
-    verified: false
-    hashtags: "#foryoupage, #coconutblissaudition, #oufits, #movienight"
+    hashtags: "#liquidpowder, #coupleschallege, #foryourpage, #makeupchallenge"
 ---

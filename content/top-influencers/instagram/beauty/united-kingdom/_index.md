@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top beauty Instagram influencers in United Kingdom in 2020. Most popular hashtags: #styleinspo #selfie #selflove #topshopstyle.
+  Find top beauty Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gifted #ootd #instadaily.
 platform: Instagram
+hits: 3982
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 3982 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "megangadd"
+  - username: "itsmir.i.am_"
     fullname: >-
-      MEGAN GADD
+      Mir.i.am ✨
+    bio: >-
+      📍London | 🇬🇧🇯🇲 👸🏾Founder of : @beauty.i.am_
     location: "United Kingdom"
-    followers: 2694
-    engagement: 3292
-    commentsToLikes: 0.209848
-    id: ck9wew9brm4ba0j78cru16v2w
-    verified: false
-    hashtags: "#officeloves, #gifted, #ad"
-  - username: "dimi_ven"
-    fullname: >-
-      ᗪƖᗰƖƬᖇᗩ ᐯƐᑎOᑌ
-    location: "United Kingdom"
-    followers: 8253
-    engagement: 1780
-    commentsToLikes: 0.084632
-    id: ck15plt36yisn0i19f03tk3q1
-    verified: false
-    hashtags: "#traveldrops, #instravel, #romacapitale, #awesomepix"
-  - username: "beautybyjessenglish"
-    fullname: >-
-      J E S S   E N G L I S H
-    location: "United Kingdom"
-    followers: 12480
-    engagement: 1587
-    commentsToLikes: 0.086860
-    id: ck9wd4bjqe0a20j789htdpeeb
-    verified: false
-    hashtags: "#alexademie, #rimmellondon, #nyxcosmetics"
-  - username: "goshie.s"
-    fullname: >-
-      G.
-    location: "United Kingdom"
-    followers: 2417
-    engagement: 3030
-    commentsToLikes: 0.153333
-    id: ckapcgio73q0j0i78umcjfhhz
+    followers: 5529
+    engagement: 1624
+    commentsToLikes: 0.224545
+    id: ck55ktqds02ne0i119r0lrzzk
     verified: false
     hashtags: ""
-  - username: "georgieeparkerr"
+  - username: "milah.bell"
     fullname: >-
-      Georgie Parker 👸🏼
+      Milah
+    bio: >-
+      🇬🇧 Beauty x Fashion 🎶 Tiktok (kmilahx)12k 📩bellokamilah@gmail.com Ambassador of @zaroncosmeticsuk
     location: "United Kingdom"
-    followers: 11042
-    engagement: 1889
-    commentsToLikes: 0.439732
-    id: ckap5csc0b3do0i78t42artqj
+    followers: 16506
+    engagement: 1067
+    commentsToLikes: 0.107819
+    id: ck6tmvoth8ma70j71h3x998v8
     verified: false
-    hashtags: "#gifted"
-  - username: "x.amyleigh"
+    hashtags: "#gifted, #soufeel, #soufeeljewelry, #mlpartner"
+  - username: "zoyakhaliq"
     fullname: >-
-      𝙰𝚖𝚢 𝙻𝚎𝚒𝚐𝚑 ♡
+      
+    bio: >-
+      🇬🇧 makeup artist + beauty content creator makeup appointments via the email icon. pr/collabs: zoya@iamviworld.com 💌
     location: "United Kingdom"
-    followers: 7129
-    engagement: 1255
-    commentsToLikes: 0.442765
-    id: ck8td1wp61ima0j78m7mpogb1
+    followers: 63219
+    engagement: 761
+    commentsToLikes: 0.053475
+    id: ck15qkmi63b6j0i19wna5pvfv
     verified: false
-    hashtags: "#makeupaddict, #luxuryootd, #cutedogsdaily, #mystyletoday"
-  - username: "katiangn"
+    hashtags: "#londonmua, #tiktokers, #snapshadows, #makeupartist"
+  - username: "_faeze.sadeghi_"
     fullname: >-
-      Katia NGUYEN
+      𝑭𝒂𝒆𝒛𝒆 𝑺𝒂𝒅𝒆𝒈𝒉𝒊 |فائزه صادقی🕊
+    bio: >-
+      🌱عکس هایی که روایتگرِ یک قصه ی بی اغراق اند🌱 Portrait | life style | wedding | fashion |Beauty 🌿به امید روزهایِ سبز تر
     location: "United Kingdom"
-    followers: 7588
-    engagement: 1186
-    commentsToLikes: 0.106964
-    id: ckaotmgsgwi7l0i78ua17hmbl
+    followers: 13550
+    engagement: 1748
+    commentsToLikes: 0.093403
+    id: ck8tbwk6txfra0j78z9wv8rzi
     verified: false
-    hashtags: "#inspodecor, #bershka, #marlopvris, #talented"
-  - username: "des_reen"
+    hashtags: ""
+  - username: "melissaelliott"
     fullname: >-
-      Desreen
+      Melissa Elliott
+    bio: >-
+      and Stylist 👋🏼 with too many plants 🌿 Fashion, Beauty & Arlo 🐶 💌 info@melissaelliott.co.uk @thecollaborationsagency
     location: "United Kingdom"
-    followers: 9232
+    followers: 10649
     engagement: 1100
-    commentsToLikes: 0.122164
-    id: ck0tusheu8j0k0i19502tw9mk
+    commentsToLikes: 0.153610
+    id: ck0vuyy1vmsak0i19wp79vgpe
     verified: false
-    hashtags: "#highheels, #blogger, #colourblock, #hotpink"
-  - username: "makeupby_tashxx"
+    hashtags: "#hm, #mejuripartner, #imwearingyoj, #jointhetribe"
+  - username: "beautybybriney"
     fullname: >-
-      🎨🌸💖 CREATIVE QUEEN 💖🌸🎨
+      SABRINA📍LDN UK
+    bio: >-
+      @shrine creator @plouise_makeup_academy BEAUTYBYBRINEY10 @morphebrushes GLAMFAM303 @samplebeauty BRINEY @iso_clean BRINEY10 @makeupamurder SABRINA
     location: "United Kingdom"
-    followers: 29475
-    engagement: 1066
-    commentsToLikes: 0.043367
-    id: ck5c195ciup050i11ivgpcn4o
+    followers: 28097
+    engagement: 730
+    commentsToLikes: 0.167652
+    id: ck13cn7pl16o30i19f3prwdno
     verified: false
-    hashtags: "#rainbow, #getyourdecsup, #graffitiart, #eastersunday"
-  - username: "samiya.styles"
+    hashtags: "#morphe, #halloween, #makeupinspo, #makeupbyme"
+  - username: "soslim.me"
     fullname: >-
-      • S A M I Y A •
+      Je Zen Fashion | Lifestyle
+    bio: >-
+      🇹🇹 Beauty & Style Influencer 👗 Fashion | Travel | Lifestyle 📍London Photographer | @artmumble Turn post notifications on☝🏾 ⬇️ NEW YOUTUBE CHANNEL ⬆️
     location: "United Kingdom"
-    followers: 15810
-    engagement: 770
-    commentsToLikes: 0.140428
-    id: ck6u2tdzmttul0j71ee09xysh
+    followers: 10422
+    engagement: 1193
+    commentsToLikes: 0.093571
+    id: ck0w3qyu3utfi0i19r6mrkj4u
     verified: false
-    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
+    hashtags: "#relaxingholiday, #blogger, #instagood, #mylook"
+  - username: "krissyyouth"
+    fullname: >-
+      🇬🇧🇨🇾|Krissyyouth
+    bio: >-
+      Fashion • Beauty • music @yovthhh • Lifestyle • travel • singer songwriter 📩krissyyouth@gmail.com
+    location: "United Kingdom"
+    followers: 10719
+    engagement: 1064
+    commentsToLikes: 0.395829
+    id: ck55lym7j2rnw0i11yf2e37dx
+    verified: false
+    hashtags: "#travelling, #lifestyle, #quarantine, #florida"
+  - username: "ellepearls"
+    fullname: >-
+      Elanna McGowan
+    bio: >-
+      NI Beauty Influencer of the Year 2019 🇨🇦->🇬🇧🍀 Inquiries: jessica@collabagency.com Paddy💘 Olive 👶🏼 Oscar 👶🏼 Sandy 🐶
+    location: "United Kingdom"
+    followers: 101818
+    engagement: 486
+    commentsToLikes: 0.074412
+    id: ck5zpgj0hsmhu0i14ms41x3h1
+    verified: false
+    hashtags: "#homesweethome, #gift, #ellepearls, #olivegeorgia"
+  - username: "missella_o"
+    fullname: >-
+      𝐄 𝐋 𝐋 𝐀 ✭
+    bio: >-
+      18. beauty @beauellabyella my 🌎
+    location: "United Kingdom"
+    followers: 8472
+    engagement: 1077
+    commentsToLikes: 0.093594
+    id: ckf5lw89zrav00j23mv88ehst
+    verified: false
+    hashtags: ""
 ---

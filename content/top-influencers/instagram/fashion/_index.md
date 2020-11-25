@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In 2020
 description: >-
-  Find top fashion Instagram influencers in 2020. Most popular hashtags: #pretty #fashion #lookoftheday #ootd.
+  Find top fashion Instagram influencers in 2020. Most popular hashtags: #streetstyle #fashionblogger #lifestyle.
 platform: Instagram
+hits: 130319
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 130319 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "cliodhnamclaughlin_"
+  - username: "hillarymedeiross"
     fullname: >-
-      Clíodhna McLaughlin
-    location: "United Kingdom"
-    followers: 4098
-    engagement: 4486
-    commentsToLikes: 0.322169
-    id: ckaosd9ver5qp0i78rz666fu9
+      𝐇𝐢𝐥𝐥𝐚𝐫𝐲 𝐌𝐞𝐝𝐞𝐢𝐫𝐨𝐬 | fashion
+    bio: >-
+      fashion content ASSISTA OS REELS 🖤 Cearense em Portugal - Aveiro📍 Aquariana com ascendente em blogueira ✨ hillarymedeiros7@gmail.com 📩
+    location: "Portugal"
+    followers: 11974
+    engagement: 995
+    commentsToLikes: 0.116634
+    id: ck9wdogh0givp0j78prjctzeb
     verified: false
-    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
-  - username: "romanioz"
+    hashtags: "#10k, #ruivas, #1peca3looks, #stylegirlbrasil"
+  - username: "lit.fashion26"
     fullname: >-
-      Roman 🇦🇫
-    location: "Germany"
-    followers: 4222
-    engagement: 4173
-    commentsToLikes: 0.346196
-    id: ckaoskd0vruzd0i78ta4pjb3c
-    verified: false
-    hashtags: "#allblackoutfit, #simplefit"
-  - username: "romejohns"
-    fullname: >-
-      Rome Johnson | Style
-    location: "United States"
-    followers: 15044
-    engagement: 4156
-    commentsToLikes: 0.069704
-    id: ck8t1v9nix65e0j78gkeeieo6
-    verified: false
-    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
-  - username: "aslam_azzi"
-    fullname: >-
-      R ⭕ W D Y
+      Fashion
+    bio: >-
+      ❤Follow Me For Daily Fashion Post ☺Clothes,Art & More 💯Turn On Post Notification All Copyrights belongs to their respective owners
     location: ""
-    followers: 2359
-    engagement: 4140
-    commentsToLikes: 0.369201
-    id: ck9wi95sx19bv0j78s3u61tjk
-    verified: false
-    hashtags: "#duke200, #banglore, #keralaatraction, #gaintrick"
-  - username: "kyravaneck_"
-    fullname: >-
-      Kyra Nina Van Eck 🦋
-    location: "Netherlands"
-    followers: 4015
-    engagement: 4117
-    commentsToLikes: 0.330570
-    id: ck9hcnodem7gn0j78dqgj259g
-    verified: false
-    hashtags: "#sweater, #dowhatyoulove, #fashion, #bymusthaves"
-  - username: "rufiee"
-    fullname: >-
-      Rufaro | 📸
-    location: ""
-    followers: 2103
-    engagement: 3470
-    commentsToLikes: 0.177348
-    id: ckapbw6mo1ick0i78w3wwppid
+    followers: 2529
+    engagement: 2668
+    commentsToLikes: 0.051284
+    id: ck14kjsa6puoh0i19ksynx5n1
     verified: false
     hashtags: ""
-  - username: "the__viperhead"
+  - username: "fashion"
     fullname: >-
-      A R O 〽️ A L  |  R K
+      @fashion
+    bio: >-
+      A celebration of Fashion on Instagram, launching Q3 2020. Stay Safe & Healthy 🙏🏼
     location: "United States"
-    followers: 3632
-    engagement: 3451
-    commentsToLikes: 0.407174
-    id: ck9wiir722fpl0j78u7k6yukj
+    followers: 356339
+    engagement: 14
+    commentsToLikes: 0.057609
+    id: ck14l2rrjsk4o0i19aa4wsshj
     verified: false
-    hashtags: "#superhero, #pretty, #caricature, #editorial"
+    hashtags: ""
+  - username: "tannaz_gy"
+    fullname: >-
+      TANNAZ
+    bio: >-
+      A girl in love with travel🌍, fashion 💃and beauty 💄 Speaks :Italian, Persian, English and Turkish Based in Catania, Sicily 🍋🍋🌋 #sicily#catania
+    location: "Italy"
+    followers: 5160
+    engagement: 4557
+    commentsToLikes: 0.094115
+    id: ckaot5gpuugot0i78y4e8udmt
+    verified: false
+    hashtags: "#trieste, #salerno, #taorminasicily, #agrigento"
+  - username: "laura.cuccureddu"
+    fullname: >-
+      Laura Cuccureddu
+    bio: >-
+      • | 90's kid • | italian girl • | “We don’t need fashion to survive, we just desire it so much” M.J.🌹
+    location: "Italy"
+    followers: 2156
+    engagement: 4090
+    commentsToLikes: 0.126467
+    id: ckap6x8onhqi20i78c95wdtrx
+    verified: false
+    hashtags: "#ootdfashion, #qoutesoftheday, #femalequotes, #zaraoutfit"
   - username: "joeyloomans"
     fullname: >-
       Joey Loomans🇳🇱
+    bio: >-
+      📍The Netherlands 🥼Back-up Assistent at Scotch&Soda 🥑Healthy Lifestyle 🔝Fashion & Lifestyle 📨 Collab: Joeyloomans@outlook.com
     location: "Netherlands"
-    followers: 2830
-    engagement: 3408
-    commentsToLikes: 0.460016
+    followers: 3022
+    engagement: 3057
+    commentsToLikes: 0.350511
     id: ckap5lrzrc8kn0i78q6jhmeo1
     verified: false
-    hashtags: "#pizzatime, #menshealth, #mens, #streetwear"
-  - username: "rikesarah"
+    hashtags: "#lifestyle, #fashionblogger, #holzkernwatches, #mensstreetstyle"
+  - username: "simply_lenny"
     fullname: >-
-      Rike
-    location: "Germany"
-    followers: 2279
-    engagement: 3388
-    commentsToLikes: 0.124796
-    id: ckap3nbue3q850i78sz3a3j50
+      LENNY💋✌🏼
+    bio: >-
+      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
+    location: "Austria"
+    followers: 2474
+    engagement: 2945
+    commentsToLikes: 0.473416
+    id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#coatlover, #interiorinspo, #styleinspo, #mirrorselfie"
-  - username: "megangadd"
+    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
+  - username: "yvx27"
     fullname: >-
-      MEGAN GADD
-    location: "United Kingdom"
-    followers: 2694
-    engagement: 3292
-    commentsToLikes: 0.209848
-    id: ck9wew9brm4ba0j78cru16v2w
+      yaqoob🖇'
+    bio: >-
+      Fashion | lifestyle Photography | editing Dm for inquiries 📫 Dxb📍
+    location: ""
+    followers: 2794
+    engagement: 2882
+    commentsToLikes: 0.303799
+    id: ck5q391ogjt0o0i119jz2hhzx
     verified: false
-    hashtags: "#officeloves, #gifted, #ad"
+    hashtags: "#vans, #fashionista, #photographer, #dubaimodel"
+  - username: "kayla.ogno"
+    fullname: >-
+      kayla ogno
+    bio: >-
+      FASHION￼ MODEL
+    location: "United States"
+    followers: 5367
+    engagement: 2856
+    commentsToLikes: 0.102331
+    id: ckap5coz5b2v70i78826g3rkw
+    verified: false
+    hashtags: "#roadtomissnjteenusa, #countdown"
+  - username: "oleksy_patrycja_"
+    fullname: >-
+      Patrycja
+    bio: >-
+      In love with traveling ✈️ and fashion👠 @nizio1 💍
+    location: "Poland"
+    followers: 2608
+    engagement: 2656
+    commentsToLikes: 0.328281
+    id: ckaozwm0hnqfu0i78rt8g4vi5
+    verified: false
+    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
 ---

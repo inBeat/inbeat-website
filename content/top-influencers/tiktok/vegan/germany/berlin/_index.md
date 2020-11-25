@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan TikTok Influencers In Berlin In 2020
 description: >-
-  Find top vegan TikTok influencers in Berlin in 2020. Most popular hashtags: #berlin #ramadan #beautymode #deutschland.
+  Find top vegan TikTok influencers in Berlin in 2020. Most popular hashtags: #vegan #foryou #fyp #berlin.
 platform: TikTok
+hits: 8
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "natalibrl"
+  - username: "stellabossi"
     fullname: >-
-      Natalia ❤️
+      Stella Bossi
+    bio: >-
+      Tik Tok
     location: "Germany"
-    followers: 7808
-    engagement: 731
-    commentsToLikes: 0.124672
-    id: ckai83jcl2tj60i78wh1ws6ww
-    verified: false
-    hashtags: "#france, #essen, #treptowerpark, #veganfood"
+    followers: 329500
+    engagement: 538
+    commentsToLikes: 0.015424
+    id: ck9k4d9v1rzd50j78x82oz4lp
+    verified: true
+    hashtags: "#party, #crocsgames2020, #clubbing, #foryou"
   - username: "waffle_brothers"
     fullname: >-
       Waffle Brothers
+    bio: >-
+      💪Montag & Donnerstag PROTEIN WAFFEL💪 s.ylcnkya31@gmail.com
     location: "Germany"
-    followers: 36276
-    engagement: 1395
-    commentsToLikes: 0.053858
+    followers: 154800
+    engagement: 1508
+    commentsToLikes: 0.018795
     id: ckamvrby154400i7813g5c880
     verified: false
-    hashtags: "#happy, #helftuns, #joke, #loredana"
-  - username: "christina.mariaaaa"
+    hashtags: "#fun, #karamell, #usa, #waffel"
+  - username: "mitharabui"
     fullname: >-
-      𝒞𝒽𝓇𝒾𝓈𝓉𝒾𝓃𝒶
+      Mithara Bui
+    bio: >-
+      Addicted to travel, fashion, anime ❤️📸 I'm asexual and I'm proud of it!
     location: "Germany"
-    followers: 843143
-    engagement: 1903
-    commentsToLikes: 0.020479
-    id: ck81svofvtfwz0j78dorq90vh
-    verified: true
-    hashtags: "#heathers, #dagibee, #julienbam, #tiktokdance"
-  - username: "pedropereira957"
-    fullname: >-
-      Pedro Pereira
-    location: "Germany"
-    followers: 31357
-    engagement: 518
-    commentsToLikes: 0.125431
-    id: cka0gl8h34vw20i78mhcv6pel
+    followers: 98700
+    engagement: 1577
+    commentsToLikes: 0.011110
+    id: cka0k7js1levm0i78k3od7gv7
     verified: false
-    hashtags: "#reibekuchen, #forupage, #wieder, #21uhrlive"
-  - username: "dailydosemario"
+    hashtags: "#berlinfood, #aesthetic, #japan, #tokyo"
+  - username: "ich"
     fullname: >-
-      DailyDoseMario
+      ❗️FOLGE JEDEN ZURÜCK
+    bio: >-
+      ✅ Liked 5 Videos von mir und ich like auch bei euch ✅
     location: "Germany"
-    followers: 37558
-    engagement: 727
-    commentsToLikes: 0.025709
-    id: ck9gqxfktbha10j78nghu5x7s
+    followers: 15300
+    engagement: 1775
+    commentsToLikes: 0.027826
+    id: ckbktwr2gowih0j23lsovo7qd
     verified: false
-    hashtags: "#strawberry, #wash, #bruder, #blueberry"
+    hashtags: "#hund, #fdp, #firatelvito, #dog"
+  - username: "bbqbro.eu"
+    fullname: >-
+      bbqbro.eu
+    bio: >-
+      🔥 BBQaddicted 🥩 Steaklover 🍔 Burgerbuilder 🔞 100% FOODPORN
+    location: "Germany"
+    followers: 9779
+    engagement: 750
+    commentsToLikes: 0.049139
+    id: ckfplwv2511uc0j2315abafbb
+    verified: false
+    hashtags: "#hungry, #vegan, #fyp, #churrasco"
   - username: "masha"
     fullname: >-
       Masha 
+    bio: >-
+      Ich mag Mode, Sport und Politik. Klar geht das zusammen! 𝐼𝑛𝑠𝑡𝑎: @𝑚𝑎𝑠ℎ𝑎
     location: "Germany"
-    followers: 19644
-    engagement: 595
-    commentsToLikes: 0.016673
+    followers: 20500
+    engagement: 611
+    commentsToLikes: 0.017081
     id: ck9c08jbbo4500j785qcmh747
     verified: true
-    hashtags: "#happyathome, #quarantime, #myoutfit, #einrichtung"
-  - username: "lindermusic"
+    hashtags: "#vegan, #homeworkout, #workoutfromhome, #earthhour"
+  - username: "tobifreudenthal"
     fullname: >-
-      lindermusic
+      Tobi Freudenthal
+    bio: >-
+      COMEDIAN HIER 🎤⬆️ Show - Reise - Rätsel 😎 Aktiviert die 🔔 LIVE HIER👇🏼
     location: "Germany"
-    followers: 194106
-    engagement: 1467
-    commentsToLikes: 0.037219
-    id: cka6mhchl77hr0i780fglaakm
-    verified: true
-    hashtags: "#foryoupage, #meintedtalk, #klavier, #gameface"
-  - username: "christina.mariaaaa"
-    fullname: >-
-      𝒞𝒽𝓇𝒾𝓈𝓉𝒾𝓃𝒶
-    location: "Germany"
-    followers: 843143
-    engagement: 1903
-    commentsToLikes: 0.020479
-    id: ck81svofvtfwz0j78dorq90vh
-    verified: true
-    hashtags: "#heathers, #dagibee, #julienbam, #tiktokdance"
-  - username: "waffle_brothers"
-    fullname: >-
-      Waffle Brothers
-    location: "Germany"
-    followers: 36276
-    engagement: 1395
-    commentsToLikes: 0.053858
-    id: ckamvrby154400i7813g5c880
+    followers: 37100
+    engagement: 1301
+    commentsToLikes: 0.036895
+    id: cka7o8r3g12180i78pqfx5ntv
     verified: false
-    hashtags: "#happy, #helftuns, #joke, #loredana"
-  - username: "kalaky"
+    hashtags: "#fyp, #foryou, #spa, #standupcomedy"
+  - username: "philipp_dittberner"
     fullname: >-
-      K A L A K Y 💖
+      Philipp Dittberner
+    bio: >-
+      FOLGE DEINEM TRAUM UND MIR AUF INSTA✌🏻 Hier geht’s zum Video von „Chance“⤵️
     location: "Germany"
-    followers: 15865
-    engagement: 978
-    commentsToLikes: 0.027973
-    id: ck8kltv7i5jwc0j78ivrgnqfq
+    followers: 79700
+    engagement: 1353
+    commentsToLikes: 0.013111
+    id: ckce1yc63iho10j23mh5jp8qn
+    verified: true
+    hashtags: "#foryou, #songwriter, #lissabon, #stadtf"
+  - username: "herrtierfreund"
+    fullname: >-
+      Herr Tierfreund 🌱
+    bio: >-
+      Schreib mir auf Insta👆🏼 💚🐽Veganismus & Nachhaltigkeit🌱🌏 👩‍❤️‍👨 | L. 🔐💕
+    location: "Germany"
+    followers: 29200
+    engagement: 1225
+    commentsToLikes: 0.146619
+    id: ckdnpaz32klgw0j23qtfxqgf3
     verified: false
-    hashtags: "#fy, #photograhy, #canoncamera, #model"
+    hashtags: "#vegandeutschland, #landwirt, #herrtierfreund, #massentierhaltung"
+  - username: "brookemedusa"
+    fullname: >-
+      Brooke Medusa
+    bio: >-
+      •BabyWitch🧿 •Vegan 🌱 •Non Binary 🤍 •21🌙 •Pansexual
+    location: "Germany"
+    followers: 5855
+    engagement: 1763
+    commentsToLikes: 0.061602
+    id: ckb0xm6esmne10j23m68hgfjl
+    verified: false
+    hashtags: "#foryoupage, #foryou, #vikingwitch, #loveandlight"
 ---

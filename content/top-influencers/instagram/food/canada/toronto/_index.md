@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Toronto In 2020
 description: >-
-  Find top food Instagram influencers in Toronto in 2020. Most popular hashtags: #dessert #foodtoronto #ad #tastetoronto.
+  Find top food Instagram influencers in Toronto in 2020. Most popular hashtags: #torontofoodie #torontofood #foodtoronto #tastetoronto.
 platform: Instagram
+hits: 181
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 181 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
   - username: "mandilicous"
     fullname: >-
       Mandy | Food | Lifestyle
+    bio: >-
+      🇨🇦🇭🇰Published Model Lv 8 @googlelocalguides top1% Toronto @yelp elite @tiktok missmandilicous DM for collabs & invites 歡迎合作💕 Eng粵國 繁简
     location: "Canada"
-    followers: 6133
-    engagement: 2561
-    commentsToLikes: 0.203917
+    followers: 10231
+    engagement: 2126
+    commentsToLikes: 0.162206
     id: ck15pdxixxeob0i199dnoaf03
     verified: false
-    hashtags: "#panntea, #icecreamporn, #pizzaholic, #drinkspecial"
-  - username: "toronto_food_lovers_"
+    hashtags: "#tastetoronto, #tastethesix, #bubbletea, #torontofoodies"
+  - username: "isaiahishungry"
     fullname: >-
-      Toronto Food Lovers
+      Isaiah's Eats N Sips
+    bio: >-
+      🇨🇦 Just pics of my finds in Toronto 😋 📚 Stories showcasing my life and hobbies 📩 DM for promos, giveaways, and collabs! #IsaiahIsHungry
     location: "Canada"
-    followers: 3174
-    engagement: 2216
-    commentsToLikes: 0.244368
-    id: ck9wdvhpihg7p0j78addb555t
+    followers: 2392
+    engagement: 1528
+    commentsToLikes: 0.406001
+    id: ck8syvvtbm7py0j780m6htocr
     verified: false
-    hashtags: "#homemadepizza, #freshonbloor, #cinammon, #nutella"
-  - username: "dave.r.roberts"
+    hashtags: "#nomnom, #japanesefood, #eatthis, #letseat"
+  - username: "wendelishh"
     fullname: >-
-      Dave
+      Wendy
+    bio: >-
+      📍T.O.🇨🇦 😆 #TeamBigBiteTime 🎥 @jbridgegallery 💌 DM or Email for Collabs | Food | Travel | Lifestyle | Culture |
     location: "Canada"
-    followers: 6987
-    engagement: 741
-    commentsToLikes: 0.149357
-    id: ck15rvm0r9xrd0i19pv1cgxw9
+    followers: 10417
+    engagement: 864
+    commentsToLikes: 0.281985
+    id: ck9hau4q0e5cy0j78nfvpox1i
     verified: false
-    hashtags: "#feedmetoronto, #pocket, #cookingathome, #hendriksto"
-  - username: "bongfromthe6ix"
+    hashtags: "#giveaway, #cookies, #gta, #tofoodblogger"
+  - username: "foodwithtoronto"
     fullname: >-
-      The Bong From The 6ix
+      Food With Toronto
+    bio: >-
+      🍴Eat Thoughtfully, Live Joyfully. 📸Original Content & Photography 📮foodwithtoronto@gmail.com or DM to collab ➖
     location: "Canada"
-    followers: 12649
-    engagement: 562
-    commentsToLikes: 0.017297
-    id: ck5c41oip0gpi0i11yrykxz3q
+    followers: 8460
+    engagement: 814
+    commentsToLikes: 0.038275
+    id: ck5zyku1ma25d0i149gz8zeqi
     verified: false
-    hashtags: "#steakdinner, #immigration, #niagarafallscanada, #christmasbaking"
-  - username: "eat.with.evie"
+    hashtags: "#foodie, #tofoodies, #tastethesix, #foodbloggers"
+  - username: "foodiemibear"
     fullname: >-
-      Evie | Toronto Blogger
+      Food Blogger | Maria 🙋🏻‍♀️📷
+    bio: >-
+      #torontofoodies #torontophotographers #torontobloggers
     location: "Canada"
-    followers: 5582
-    engagement: 1252
-    commentsToLikes: 0.744623
-    id: ckaor4892lnko0i789faij58s
+    followers: 10012
+    engagement: 641
+    commentsToLikes: 0.249687
+    id: ck5zu6zwn1sxs0i14aa628tj4
     verified: false
-    hashtags: "#throwback, #teamipartner, #gifted, #ad"
-  - username: "instantonium"
+    hashtags: "#markhamfoodie, #itsfiveoclocksomewhere, #cocktailphotography, #yyzfoodie"
+  - username: "dineandfash"
     fullname: >-
-      Toronto Food & Drinks | Foodie
+      Krystle | Toronto Blogger
+    bio: >-
+      lawyer • travel • food • style • pretty places 🐶 @snuggleswithdouglas business inquiries by email only ↳ 📩 dineandfash@gmail.com see the latest 👇🏽
     location: "Canada"
-    followers: 12185
-    engagement: 678
-    commentsToLikes: 0.329539
-    id: ck0tuog23806n0i19kmxqf20n
+    followers: 33579
+    engagement: 209
+    commentsToLikes: 0.348625
+    id: ck0ttlwob3a960i19t2km34pw
     verified: false
-    hashtags: "#toronto, #curiocitytoronto, #dishedtoronto, #bubbleteatoronto"
-  - username: "theeverydayfoodie"
+    hashtags: "#pursueprettythings, #abmhappylife, #f52grams, #lovetoronto"
+  - username: "toronto_foodiediary"
     fullname: >-
-      The Everyday Foodie
+      Toronto Foodie Diary
+    bio: >-
+      Just someone who loves exploring 📍Greater #TORONTO Area’s good food♥ 🍳🍗🍜🥗🌮🥘🍣🍦🍵🍹🍰🤤 💌: torontofoodiediary2018@gmail.com ©️2018TFD. ALL RIGHTS RESERVED.
     location: "Canada"
-    followers: 31068
-    engagement: 125
-    commentsToLikes: 0.187478
-    id: ck15rvkqn9xlm0i190btp6lna
+    followers: 11209
+    engagement: 397
+    commentsToLikes: 0.119225
+    id: ck9wdviv0hge20j78hvnkml86
     verified: false
-    hashtags: "#lonestartexasgrill, #lonestarcaesars, #tefdoesrecipes, #chatimecanada"
-  - username: "tastetoronto"
+    hashtags: "#boba, #bubbletea, #torontofoodie, #thankyoutoronto"
+  - username: "thelivingplatter"
     fullname: >-
-      TasteToronto
+      Platters and Grazing Tables
+    bio: >-
+      Plant based platters & grazing tables🍉 By @jessemcrogers 🌈 Servicing Toronto & the GTA✨ PLACE YOUR ORDER HERE ⬇️❤️
     location: "Canada"
-    followers: 446900
-    engagement: 98
-    commentsToLikes: 0.067890
-    id: ck137wmfpdezf0i193sf3gbno
-    verified: true
-    hashtags: "#tastetoronto, #openfordelivery"
-  - username: "basicfood_girl"
-    fullname: >-
-      Anne 🇨🇦
-    location: "Canada"
-    followers: 10087
-    engagement: 744
-    commentsToLikes: 0.257806
-    id: ck5cal3svdm4i0i11b9aurcm1
+    followers: 8119
+    engagement: 581
+    commentsToLikes: 0.106975
+    id: ck5c674m34v2v0i11ji5d7h35
     verified: false
-    hashtags: "#bbqplatter, #winelover, #summer, #node"
-  - username: "chvmpionxii"
+    hashtags: "#gtacatering, #gtaplatters, #fruitstagram, #cheeseboard"
+  - username: "torontology"
     fullname: >-
-      VCD
+      TORONTOLOGY ™
+    bio: >-
+      🏙 Everything Toronto. 🤳 Tag us to be featured 📍 From Toronto? Follow @torontology
     location: "Canada"
-    followers: 2990
-    engagement: 919
-    commentsToLikes: 0.056098
-    id: ck5qd0quct9ip0i11twddokfx
+    followers: 2002
+    engagement: 3946
+    commentsToLikes: 0.023139
+    id: ck5zkk826jmt00i14cjgfhg9i
     verified: false
-    hashtags: "#torontolounge, #toronto, #restaurant, #chicken"
+    hashtags: "#cravethe6ix, #torontofoodie, #tastethesix, #mississauga"
+  - username: "fitfoodiefashionista.to"
+    fullname: >-
+      Elaine CPA, DTM 🇨🇦
+    bio: >-
+      📸 Food & Drink | Health & Wellness | Giveaways 📨 DM for Collabs & Promos 📩 elaine26lee@gmail.com
+    location: "Canada"
+    followers: 7393
+    engagement: 1115
+    commentsToLikes: 0.397208
+    id: ck6torg0yfok50j71h1w92odj
+    verified: false
+    hashtags: "#streetsoftoronto, #6ixfoods, #torontogiveaway, #dishedto"
 ---

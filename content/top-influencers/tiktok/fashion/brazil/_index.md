@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Brazil In 2020
 description: >-
-  Find top fashion TikTok influencers in Brazil in 2020. Most popular hashtags: #viral #tutorial #makeup #naturezaemcasa.
+  Find top fashion TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
+hits: 152
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 152 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
+  - username: "lanaacessoriosmanuais"
+    fullname: >-
+      Lana Valente/artesanato
+    bio: >-
+      Insta @acessoriosmanuais Artesanato criação fashion
+    location: "Brazil"
+    followers: 5599
+    engagement: 3327
+    commentsToLikes: 0.344123
+    id: ckb9toivbrr390j23t9bkg2el
+    verified: false
+    hashtags: "#fyp, #lookdahora, #tiarasdeluxo, #avidavalemuito"
+  - username: "erik.martins"
+    fullname: >-
+      Erik Martins
+    bio: >-
+      Modelo 📺 @recordtv 📺 👮‍♂️ MOÇO @Multishow insta : erik_fashion_style
+    location: "Brazil"
+    followers: 40900
+    engagement: 1490
+    commentsToLikes: 0.118191
+    id: ck9a64avn1jgi0j78ggdco6f5
+    verified: false
+    hashtags: "#tiktok, #videoviral, #viral, #comedia"
   - username: "filipmelo"
     fullname: >-
       Filipe Melo
+    bio: >-
+      fashion content contatofehmelo@gmail.com
     location: "Brazil"
-    followers: 26355
-    engagement: 1264
-    commentsToLikes: 0.021489
+    followers: 46500
+    engagement: 1364
+    commentsToLikes: 0.018078
     id: ck9ej9mgz1nf50j78gthisdaq
     verified: false
-    hashtags: "#albumlookalike, #diyjeans, #tiktokforyou, #challenge"
-  - username: "mariaaaah5"
+    hashtags: "#vintage, #pinterestchallenge, #style, #lookbook"
+  - username: "gabrieltuoto"
     fullname: >-
-      maria verçosa
+      GABRIEL TUOTO 🌟
+    bio: >-
+      Fashion & Lifestyle Curitiba 🔁 São Paulo sigo de volta no insta @gabriel_tuoto
     location: "Brazil"
-    followers: 7449
-    engagement: 302
-    commentsToLikes: 0.062261
-    id: ckaib6p14f88y0i78kirrk3mz
+    followers: 55400
+    engagement: 1299
+    commentsToLikes: 0.031259
+    id: ckblhrisbb6qs0j23fadtb0bn
     verified: false
-    hashtags: "#desafiofitness, #happydance, #todegraca, #tiktokblogger"
-  - username: "jtzanno"
-    fullname: >-
-      João Tzanno
-    location: "Brazil"
-    followers: 5561
-    engagement: 1089
-    commentsToLikes: 0.039401
-    id: cka0rnmxkhrsi0i78rjalhek8
-    verified: false
-    hashtags: "#oversized, #bathroom, #rossgeller, #friendstvshow"
-  - username: "mandy.owl"
-    fullname: >-
-      Amanda Ibraimovic
-    location: "Brazil"
-    followers: 2064
-    engagement: 795
-    commentsToLikes: 0.043185
-    id: ckac8k65rfizq0i789fg25kiu
-    verified: false
-    hashtags: "#icecream, #veganrecipe, #smoothie, #bolo"
+    hashtags: "#foryoupage, #fyp, #foryou, #trend"
   - username: "lorenafranzoi"
     fullname: >-
       Lorena Franzoi
+    bio: >-
+      Instagram: @lorenafranzoi Fashion & Fun
     location: "Brazil"
-    followers: 2160
-    engagement: 450
-    commentsToLikes: 0.015801
+    followers: 4334
+    engagement: 436
+    commentsToLikes: 0.049756
     id: ck9v49q4ytf5h0j78h3b1alk3
     verified: false
-    hashtags: "#makesometiktok, #sunglasses, #newhair, #shooting"
+    hashtags: "#summerlooks, #fashionista, #stylechange, #fashion"
+  - username: "jtzanno"
+    fullname: >-
+      João Tzanno
+    bio: >-
+      eu gosto de roupa fashion • lifestyle • geek • travel contatojtzanno@gmail.com
+    location: "Brazil"
+    followers: 167000
+    engagement: 1239
+    commentsToLikes: 0.021551
+    id: cka0rnmxkhrsi0i78rjalhek8
+    verified: false
+    hashtags: "#disney, #dicasdemoda, #styletips, #modamasculina"
+  - username: "oiiantonellaa"
+    fullname: >-
+      oiiantonellaa
+    bio: >-
+      Mini Fashion Blogger | Maternidade Real | Dicas Instagram - @oiiantonella ✨
+    location: "Brazil"
+    followers: 100500
+    engagement: 1488
+    commentsToLikes: 0.011566
+    id: ckbf859wkydeo0j233y048th5
+    verified: false
+    hashtags: "#foryou, #chupetamania, #oiiantonella, #maeefilha"
+  - username: "leo.milane"
+    fullname: >-
+      leomilane
+    bio: >-
+      📺 choreography 🎵| fashion 📸
+    location: "Brazil"
+    followers: 68500
+    engagement: 669
+    commentsToLikes: 0.009925
+    id: ckcomaety5tnx0j23sqzxo78v
+    verified: false
+    hashtags: "#moda, #foryoupage, #fy, #paris"
   - username: "lua__andrad"
     fullname: >-
       lua_andrad
+    bio: >-
+      🌙 25. Alfenas - MG 💋 makeup | beauty | fashion CURSO ONLINE DE CHALLENGE ⤵️
     location: "Brazil"
-    followers: 10058
-    engagement: 927
-    commentsToLikes: 0.013649
+    followers: 23400
+    engagement: 710
+    commentsToLikes: 0.011469
     id: ckan4egtn9qt00i786o03wfjk
     verified: false
-    hashtags: "#foraprior, #tiktokchalleng, #maquiadora, #chocolate"
-  - username: "simony.npereira"
+    hashtags: "#foryoupage, #tiktokchallenge, #fyp, #tik"
+  - username: "jeison_estevam"
     fullname: >-
-      SIMONY
+      Jeison Estevam
+    bio: >-
+      APENAS ACREDITE NOS SEUS SONHOS
     location: "Brazil"
-    followers: 3472
-    engagement: 2017
-    commentsToLikes: 0.423324
-    id: ck9rocw2ibw0v0j78zrg0hez4
+    followers: 6160
+    engagement: 3747
+    commentsToLikes: 0.279885
+    id: ckdcbmu8qj5nf0j23aljf99ov
     verified: false
-    hashtags: "#trabalhoemcasa, #sirenbeat, #naturezaemcasa, #pegaoudispensa"
-  - username: "renanserighelli"
-    fullname: >-
-      Renãn Serighelli
-    location: "Brazil"
-    followers: 477161
-    engagement: 1907
-    commentsToLikes: 0.036423
-    id: ck807b5z8pi530j78jzjqbhb9
-    verified: false
-    hashtags: "#100ways, #raimundos, #furadeira, #riverdale"
-  - username: "boyslovebr"
-    fullname: >-
-      Boys love Brasil
-    location: "Brazil"
-    followers: 45121
-    engagement: 1784
-    commentsToLikes: 0.031648
-    id: ck92xae32xvwn0j78i16a4lhv
-    verified: false
-    hashtags: "#saipan, #duenbonh, #uwmaseries, #tharntype"
-  - username: "talitahsampaio"
-    fullname: >-
-      💜Talitah Sampaio💜
-    location: "Brazil"
-    followers: 953179
-    engagement: 2046
-    commentsToLikes: 0.026873
-    id: ck8os2vuuf2dw0j786yuabfpg
-    verified: true
-    hashtags: "#gera, #ps4justdance20, #live, #sobremim"
+    hashtags: "#modamasculina2020, #moda, #musica, #fy"
 ---

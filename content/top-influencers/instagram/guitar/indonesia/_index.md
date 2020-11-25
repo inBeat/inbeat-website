@@ -1,107 +1,130 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top guitar Instagram influencers in Indonesia in 2020. Most popular hashtags: #cover #bentukcinta #indonesia #stayathome.
+  Find top guitar Instagram influencers in Indonesia in 2020. Most popular hashtags: #indomusikgram #guitar #guitarist #cover.
 platform: Instagram
+hits: 211
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 211 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "karleriktaukarofficial"
+  - username: "alefunky_gottalent"
     fullname: >-
-      Karl-Erik Taukar
+      - A L E  F U N K Y -
+    bio: >-
+      ◾Asia's Got Talent ◾Guitarist @ladaband ◾#Endorse SCHECTER ◾Owner @rockschool_ ◾#Endorse BUGERA ◾NEWBIRTH youtube:ALE FUNKY business 🔜 WA:089676528458
     location: "Indonesia"
-    followers: 40325
-    engagement: 725
-    commentsToLikes: 0.003994
-    id: ck5hmkyggm5a00i11o44pikxv
-    verified: true
-    hashtags: "#uussingel, #peugeot3008, #genka, #hitbcyberweek"
-  - username: "angah_razif_pb"
-    fullname: >-
-      Angah Razif
-    location: "Indonesia"
-    followers: 29635
-    engagement: 331
-    commentsToLikes: 0.025039
-    id: ck9whqnhdz1je0j78e925bgbz
+    followers: 17349
+    engagement: 414
+    commentsToLikes: 0.118199
+    id: ck5c1y8apw5vf0i11s872jbgi
     verified: false
-    hashtags: "#familyprojector, #ajl34, #gegarmalam, #majidd"
+    hashtags: "#alefunky, #gitaris, #proudyourskill, #gitarisindonesia"
   - username: "yankjay"
     fullname: >-
       Yankjay Nugraha
+    bio: >-
+      🎸 🇲🇨 Indro Hardjodikoro project.|.ARANA Project.|.Dua Drum.|.Session Player.|Endorser : Cort Guitars|D’addario|Ehx|Jim Dunlop|MXR|Gruv Gear
     location: "Indonesia"
-    followers: 71005
-    engagement: 1013
-    commentsToLikes: 0.044039
+    followers: 75541
+    engagement: 947
+    commentsToLikes: 0.039742
     id: ck5hlvzhykysl0i11j33gp33f
     verified: false
-    hashtags: "#ber6, #cortindonesia, #stayhome, #indonesia"
-  - username: "cellanadalam"
+    hashtags: "#iplaycort, #ngulickyankjay, #gitarisindonesia, #guitar"
+  - username: "naufal_fawwaz"
     fullname: >-
-      Mario MarCELLA handhika Putra
+      Naufal fawwaz putra .J
+    bio: >-
+      14 years old ✌ |Violinist🎻|Singer🎤|Pianist🎹|Guitarist🎸|Swim🌊|Drawing✏| CP endorse/job 📞: 085817955885// WA (Hartini) •SUBSCRIBE TO MY YOUTUBE CHANNEL•
     location: "Indonesia"
-    followers: 207621
-    engagement: 378
-    commentsToLikes: 0.033604
-    id: ck138exi1fwoz0i19tw3qhdqp
-    verified: true
-    hashtags: "#masakanindonesia, #resepmasakan, #indomusik, #musikkekinian"
+    followers: 2997
+    engagement: 1522
+    commentsToLikes: 0.181965
+    id: ck15rod408wkr0i1956zm8rih
+    verified: false
+    hashtags: "#membermmvip, #diatasratarata, #covermusik, #dirumahajawithgm"
+  - username: "lifa_latifah_"
+    fullname: >-
+      Lifa Latifah
+    bio: >-
+      • 21 | Fingerstyle Guitar • 200k subscribers on YouTube • PP/Endorse : 088802341135 (@nplarasatii)
+    location: "Indonesia"
+    followers: 32282
+    engagement: 1081
+    commentsToLikes: 0.054048
+    id: ck6ud1p12ilrc0j71bcmupobd
+    verified: false
+    hashtags: "#indomusikgram, #fingerstyle, #indovidgram, #cover"
+  - username: "irvanborneo"
+    fullname: >-
+      Irvan Borneo
+    bio: >-
+      • Session guitarist • Guitar Instrumentalis • Song writer/music producer YOUTUBE ⬇️⬇️⬇️
+    location: "Indonesia"
+    followers: 26990
+    engagement: 447
+    commentsToLikes: 0.055483
+    id: ck5hksrqdiza60i114f2fxmgc
+    verified: false
+    hashtags: "#guitarcover, #elixirstrings, #guildds240, #universityofrock"
   - username: "hansenvendiagus"
     fullname: >-
       hansen vendi agus
+    bio: >-
+      🎸 Fingerstyle Guitarist from INDONESIA🇲🇨 📌 Pontianak, Kalimantan Barat 📩 hansenvendi07@gmail.com (Business Inquiries) 🎼 YouTube Channel👇
     location: "Indonesia"
-    followers: 111061
-    engagement: 527
-    commentsToLikes: 0.024088
+    followers: 115483
+    engagement: 581
+    commentsToLikes: 0.020749
     id: ck0vxhpvryy6n0i191tgmgav4
     verified: false
-    hashtags: "#lathi, #secretlovesong, #tobecontinued, #bentukcinta"
+    hashtags: "#guitar, #music, #indomusikgram, #tiktok"
   - username: "delacruzguitar"
     fullname: >-
       D A N N Y | D E L A | C R U Z
+    bio: >-
+      Guitarist 🔥@weareinglorious 🔥 Proud to endorse ⚡️ @gibsonguitar ⚡️ @marshallamps_uk ⚡️ @bareknucklepickupsofficial ⚡️ @ernieball ⚡️ @intunegp
     location: "Indonesia"
     followers: 7070
     engagement: 1020
     commentsToLikes: 0.088805
     id: ck6tvzkbrp5yo0j71j4an8wt0
     verified: false
-    hashtags: "#52telecaster, #marshallamps, #isawtiger, #gibsonsg"
-  - username: "dimitris_isaris"
-    fullname: >-
-      🎻🎶Dimitris Filmusic🎶🎻
-    location: "Indonesia"
-    followers: 6050
-    engagement: 581
-    commentsToLikes: 0.019124
-    id: ck15rjzhp8an30i1997wgpw8d
-    verified: false
-    hashtags: "#kububeach, #greece, #aivazis, #mariosploritis"
+    hashtags: "#guitar, #guitarvideo, #skypeguitarlessons, #yngwie"
   - username: "ehsanfaramarzipour"
     fullname: >-
       احسان فرامرزی پور | Ehsan
+    bio: >-
+      @ehsanfpf @mydearguitarstudents https://telegram.me/flamenco4u گیتاریست فلامنکو Flamenco guitarist
     location: "Indonesia"
-    followers: 3810
-    engagement: 1446
-    commentsToLikes: 0.079562
+    followers: 3761
+    engagement: 1495
+    commentsToLikes: 0.074160
     id: ck9wicg151p3l0j78x1pu86sv
     verified: false
-    hashtags: "#guitarsolos, #guitarlife, #spain, #duet"
-  - username: "fbriansurya"
+    hashtags: "#pacope, #guitar, #arte, #guitarrista"
+  - username: "irtatata"
     fullname: >-
-      Fbrian Surya
+      Irta Amalia
+    bio: >-
+      Freelance vokal & guitarist Owner @cripingkrezz Love myself❤️ YSU'16
     location: "Indonesia"
-    followers: 154709
-    engagement: 696
-    commentsToLikes: 0.014397
-    id: ck8t684w7cm490j78omdyht18
+    followers: 64357
+    engagement: 522
+    commentsToLikes: 0.022527
+    id: ck8sx97tlgkn70j78kl4lrrrv
     verified: false
-    hashtags: "#apapunmomennya, #glennsebastian, #mamputanpanya, #tiktok"
-  - username: "domystupa"
+    hashtags: "#lathiweirdgenius, #indomusikgram, #ramadhankareem, #maapabsurd"
+  - username: "bimamusic"
     fullname: >-
-      domystupa
+      abim_finger 🇮🇩
+    bio: >-
+      🎸Gitaris Cilik 13 year Bacchus Guitar Endorser Laney amps Indonesia Endorser Call/whatsapp : 082336533363 My Youtube | Abim Finger
     location: "Indonesia"
-    followers: 115085
-    engagement: 206
-    commentsToLikes: 0.021782
-    id: ckap8gnpxo8930i78lti90w7w
-    verified: true
-    hashtags: "#indovidgram, #komentatordarirumah, #komentatorbasajawa, #domyfingerstyle"
+    followers: 47720
+    engagement: 389
+    commentsToLikes: 0.037937
+    id: ck5pz5zo7zdtq0i11ky4ngruu
+    verified: false
+    hashtags: "#repost, #guitarist, #endorse, #semangat"
 ---

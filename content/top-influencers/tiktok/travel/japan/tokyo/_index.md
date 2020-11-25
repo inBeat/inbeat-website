@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Tokyo In 2020
 description: >-
-  Find top travel TikTok influencers in Tokyo in 2020. Most popular hashtags: #japan #tokyo #travel #marinabaysands.
+  Find top travel TikTok influencers in Tokyo in 2020. Most popular hashtags: #tiktok #japan #travel #tokyo.
 platform: TikTok
+hits: 5
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 5 TikTok influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "uekan2b"
     fullname: >-
       うえかん
+    bio: >-
+      👤18歳 . インスタとYouTubeも覗いて〜
     location: "Japan"
-    followers: 43719
-    engagement: 619
-    commentsToLikes: 0.021593
+    followers: 43600
+    engagement: 605
+    commentsToLikes: 0.019306
     id: ck9f22xxwbbcs0j78x237ieoo
     verified: false
-    hashtags: "#goprohero7, #perfectloop, #jump, #2019"
-  - username: "teamlab"
+    hashtags: "#gopro, #loopchallenge, #vlog, #singapore"
+  - username: "aman_315"
     fullname: >-
-      teamLab
+      Aman
+    bio: >-
+      From Bangladesh
     location: "Japan"
-    followers: 6753
-    engagement: 280
-    commentsToLikes: 0.014364
-    id: ckactzcxagh0r0i78hiog9t8g
-    verified: true
-    hashtags: "#singapore, #hiroshima, #japantravel, #snow"
-  - username: "tokyo2020_official"
+    followers: 9780
+    engagement: 354
+    commentsToLikes: 0.016800
+    id: ck8khy7t2oshj0j78pxdq45lg
+    verified: false
+    hashtags: "#japan, #island, #love, #snow"
+  - username: "meily_chan"
     fullname: >-
-      TOKYO 2020
+      Meily
+    bio: >-
+      🇯🇵×🇺🇸 都内OL👩‍💼
     location: "Japan"
-    followers: 11600
-    engagement: 316
-    commentsToLikes: 0.025971
-    id: ck8sdh5kcfmtj0j785hdzk6b8
-    verified: true
-    hashtags: "#paralympics, #robot, #1yeartogo, #200"
+    followers: 43600
+    engagement: 375
+    commentsToLikes: 0.085784
+    id: ckbl39kgq0mwa0j23xczfnwg6
+    verified: false
+    hashtags: "#chinese, #travel, #tiktok, #japan"
   - username: "elle_255"
     fullname: >-
       Ellestha🦋
+    bio: >-
+      Love To Travel❤️❤️ Happiest here💗💗💗 Follow our 24/7 Sound of World YouTube 😊
     location: "Japan"
-    followers: 45386
-    engagement: 518
-    commentsToLikes: 0.024582
+    followers: 153800
+    engagement: 432
+    commentsToLikes: 0.028466
     id: ckan2lide0yu70i785ht77qi9
     verified: false
-    hashtags: "#butwal, #tikyoknepal, #tokyo, #smilewithtiktok"
-  - username: "sora_orb"
+    hashtags: "#tiktok, #tokyo, #fy, #nepali"
+  - username: "teamlab"
+    fullname: >-
+      teamLab
+    bio: >-
+      Art collective アート集団 チームラボ https://www.teamlab.art/
+    location: "Japan"
+    followers: 7167
+    engagement: 356
+    commentsToLikes: 0.018098
+    id: ckactzcxagh0r0i78hiog9t8g
+    verified: true
+    hashtags: "#interactive, #teamlab, #autumn, #teamlabforest"
+  - username: "sora.orb"
     fullname: >-
       宙（SORA）
+    bio: >-
+      🔮CRYSTAL ARTIST🔮 🌍ID:sora.travel ← 2nd channel🌎 📩ご用件はInstagramのDMへ📩
     location: "Japan"
-    followers: 414696
-    engagement: 913
-    commentsToLikes: 0.010892
+    followers: 490000
+    engagement: 983
+    commentsToLikes: 0.013187
     id: ck8tm8abde9520j787aacnvti
     verified: false
-    hashtags: "#digitz, #yesorno, #halloween, #characterselect"
+    hashtags: "#contactjuggling, #fyp, #tiktok3, #tiktok"
+  - username: "miistraveling"
+    fullname: >-
+      Mii
+    bio: >-
+      一緒に旅しよ⁈ 🗺✈︎ 🆔miispacedesign Travel Holic💋Visit my IG
+    location: "Japan"
+    followers: 5078
+    engagement: 292
+    commentsToLikes: 0.054655
+    id: ckbqfjq4w159y0j234hf9j7l8
+    verified: false
+    hashtags: "#bangkok, #tiktok, #mykonos, #traveler"
   - username: "elle_255"
     fullname: >-
       Ellestha🦋
+    bio: >-
+      Love To Travel❤️❤️ Happiest here💗💗💗 Follow our 24/7 Sound of World YouTube 😊
     location: "Japan"
-    followers: 45386
-    engagement: 518
-    commentsToLikes: 0.024582
+    followers: 153800
+    engagement: 432
+    commentsToLikes: 0.028466
     id: ckan2lide0yu70i785ht77qi9
     verified: false
-    hashtags: "#butwal, #tikyoknepal, #tokyo, #smilewithtiktok"
-  - username: "maydaysan"
+    hashtags: "#tiktok, #tokyo, #fy, #nepali"
+  - username: "onumaaaan"
     fullname: >-
-      maydaysan
+      おーぬまん
+    bio: >-
+      おーぬまん(大沼類)🦋 TOKYO🗼 TRAVELAR🌎✈️ インスタもFollowしてね☾ ＼ まつ毛美容液これだよ！ ／
     location: "Japan"
-    followers: 210149
-    engagement: 1205
-    commentsToLikes: 0.023179
-    id: ck8qeihxjsouu0j78g21mk219
+    followers: 261900
+    engagement: 482
+    commentsToLikes: 0.007279
+    id: ckbqlw1v36zqa0j23egd50ui1
     verified: false
-    hashtags: "#japanesegirl, #avatar, #english, #shiba"
-  - username: "nursewoman0626"
+    hashtags: "#instagram, #lelabo, #okinawa, #jetsweets"
+  - username: "carol.amores"
     fullname: >-
-      nori
+      carolamores
+    bio: >-
+      Japan things 4 the curious. Meanwhile working on my dream IG - @dbackyard.spain
     location: "Japan"
-    followers: 8005
-    engagement: 244
-    commentsToLikes: 0.060187
-    id: ck9jxt8yl26ea0j78ucpi59ja
+    followers: 215200
+    engagement: 590
+    commentsToLikes: 0.041210
+    id: ck8qi5d307u6j0j78k0n23fcy
     verified: false
-    hashtags: "#sky, #200, #shinchon, #portrait"
-  - username: "whitetiger555"
-    fullname: >-
-      hide
-    location: "Japan"
-    followers: 3746
-    engagement: 371
-    commentsToLikes: 0.025351
-    id: ck8nbevsa9kgu0j78gtzawg4f
-    verified: false
-    hashtags: "#chiangwai, #bkk, #lion, #toksen"
-  - username: "teamlab"
-    fullname: >-
-      teamLab
-    location: "Japan"
-    followers: 6753
-    engagement: 280
-    commentsToLikes: 0.014364
-    id: ckactzcxagh0r0i78hiog9t8g
-    verified: true
-    hashtags: "#singapore, #hiroshima, #japantravel, #snow"
+    hashtags: "#randomthings, #foryou, #thisisjapan, #foryoupage"
 ---

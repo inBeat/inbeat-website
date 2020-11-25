@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Belgium In 2020
 description: >-
-  Find top makeup Instagram influencers in Belgium in 2020. Most popular hashtags: #sunnydays #beautyblogger #idealofsweden #throwback.
+  Find top makeup Instagram influencers in Belgium in 2020. Most popular hashtags: #makeup #beauty #photography #portrait.
 platform: Instagram
+hits: 96
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 96 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "ioanna_panaretakis"
+  - username: "aleksandra.2k2"
     fullname: >-
-      MAKEUP|FASHION| YOUTUBER
+      Aleksandra
+    bio: >-
+      God first🙏🏽. trust your vibes/17y Dance/Makeup/Model
     location: "Belgium"
-    followers: 6378
-    engagement: 919
-    commentsToLikes: 0.359581
-    id: ckapc4o352gg60i78qklzkkf7
+    followers: 3387
+    engagement: 2650
+    commentsToLikes: 0.083141
+    id: ck5cdbofqiw060i116oakdbql
     verified: false
-    hashtags: "#cutcreasemakeup, #fashionblogger, #beautybay, #youtubecouples"
-  - username: "namglam"
+    hashtags: "#makeuptutorial, #makeupoftheday, #makeup, #makeupaddict"
+  - username: "greetrouffaer"
     fullname: >-
-      Naomi
+      Greet Rouffaer
+    bio: >-
+      Actress Theater Television loves to cook ~long walks~animals ~makeup fashion accessories jewellery Is very happily married to Bart De Bondt❤️
     location: "Belgium"
-    followers: 63191
-    engagement: 386
-    commentsToLikes: 0.010668
-    id: ck5hhdz6a7qde0i11pam0kvlw
+    followers: 5761
+    engagement: 953
+    commentsToLikes: 0.048742
+    id: ck9hborethsld0j784cur4tlg
     verified: false
-    hashtags: "#wingliner, #blueeyeshadow, #morphe, #graphicliner"
+    hashtags: "#blijfveilig, #herfst, #supportyourlocal, #ring"
+  - username: "glammed_by_lorraine"
+    fullname: >-
+      𝐋𝐨𝐫𝐫𝐚𝐢𝐧𝐞
+    bio: >-
+      📲 @makeuplifestyle_app ®️ 💄@baby_bylorraine ®️ ________________________ 𝐒𝐡𝐨𝐩 🛍 ⤵️
+    location: "Belgium"
+    followers: 87313
+    engagement: 607
+    commentsToLikes: 0.060483
+    id: ck1360go545at0i193qavhsqd
+    verified: false
+    hashtags: "#juicylips, #smokeyeyes, #makeupartist, #browshape"
+  - username: "peggytimmermans"
+    fullname: >-
+      Makeup artist Peggy Timmermans
+    bio: >-
+      💄international makeup artist ❤️loves all skin 💋beauty-fashion-advertising-corporate ♦️The Blend Box 🔻@peggytimmermansmakeup ✉️info@peggytimmermans.be
+    location: "Belgium"
+    followers: 20444
+    engagement: 163
+    commentsToLikes: 0.142968
+    id: ck5zixp6lgkbg0i14t89flguw
+    verified: false
+    hashtags: "#belgianwebshop, #womanceo, #smallbusiness, #kooplokaal"
+  - username: "iamm.aicha"
+    fullname: >-
+      IAMM.AICHA 🐆
+    bio: >-
+      -𝑩𝒓𝒖𝒙𝒆𝒍𝒍𝒆𝒔📍 -𝑫𝒎 𝒇𝒐𝒓 𝒄𝒐𝒍𝒍𝒂𝒃 📩 -COMPTE MAKE UP @aichaa_makeup 🎥 YOUTUBE CHANEL :
+    location: "Belgium"
+    followers: 50089
+    engagement: 1429
+    commentsToLikes: 0.005361
+    id: ckap9dyg2s9ug0i789r9preyn
+    verified: false
+    hashtags: "#shay, #tiktok, #musically, #music"
   - username: "xazulyaa"
     fullname: >-
       HEDA | ХАЗУЛЯ
+    bio: >-
+      💄MakeUp|Beauty 💌PR: xazulyaa@gmail.com 📍Belgium 🇧🇪 | Ингушетия 🇷🇺
     location: "Belgium"
-    followers: 60713
-    engagement: 98
-    commentsToLikes: 0.059855
+    followers: 58413
+    engagement: 57
+    commentsToLikes: 0.022131
     id: ck15sx9o3f9np0i19bmuh27wg
     verified: false
-    hashtags: "#highlighter, #softtouch, #makeupaddict, #norvina"
-  - username: "melissakiani141595"
+    hashtags: "#beccacosmetics, #wakeupandmakeup, #rudecosmetics, #hudabeauty"
+  - username: "statiana.model"
     fullname: >-
-      🧿MéLiSSaKiANi141595🧿
+      Tatiana🎀
+    bio: >-
+      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 22 Years 📍 Brussels
     location: "Belgium"
-    followers: 251598
-    engagement: 363
-    commentsToLikes: 0.015051
-    id: ck0u9onkqae9k0i1988egvge3
+    followers: 44330
+    engagement: 730
+    commentsToLikes: 0.052326
+    id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#sanandaj, #makeupaddict, #turkey, #kurdishmusic"
-  - username: "hi.itsjolienn"
+    hashtags: "#autoportrait, #redhair, #blackandwhite, #video"
+  - username: "demiclaus"
     fullname: >-
-      JOLIEN
+      Demi🤍
+    bio: >-
+      19y influencer 🤍 E-mail : demi2claus@gmail.com 🤍 Management : amir@ciagency.be 🤍 @nails_by_demiclaus 🤍 Tiktok 212K+ 🤍 @alissatomme bestfriend
     location: "Belgium"
-    followers: 8396
-    engagement: 1189
-    commentsToLikes: 0.110340
-    id: ck5hhlx278wrn0i11oms8mi5w
+    followers: 55929
+    engagement: 530
+    commentsToLikes: 0.181293
+    id: ck5zzelbqblci0i14g4g9yyvz
     verified: false
-    hashtags: "#thebodyshop, #sunnydays, #marble, #shoeoftheday"
-  - username: "lauralynnsworld"
+    hashtags: "#photo, #instamood, #instagood, #mood"
+  - username: "mathildehaenen"
     fullname: >-
-      LAURA ✌🏼
+      Mathilde Haenen
+    bio: >-
+      Digital Content Creator Belgian - Congolese 🇧🇪 🇨🇩 ▪️Beauty | Travel | Fashion 📍 Antwerp Belgium ▪️ Contact : contact@mathildehaenen.com See more
     location: "Belgium"
-    followers: 31655
-    engagement: 390
-    commentsToLikes: 0.168488
-    id: ck5zsblasy6uy0i149dirvmoh
+    followers: 16026
+    engagement: 414
+    commentsToLikes: 0.114174
+    id: ck6ub49097ddx0j71vgfxhrby
     verified: false
-    hashtags: "#springfashion, #pinkvibes, #schelde, #stayactive"
-  - username: "lenkavanhemelryck"
+    hashtags: "#makeup, #beauty, #beautyinfluencer, #elegantstyle"
+  - username: "re.becc.a"
     fullname: >-
-      Welcome to the life of Lenks 🌈
+      REBECCA DE WEERDT  ☁️
+    bio: >-
+      ☆ Freelance model 🧚🏼‍♀️ ☆ Finalist Miss Belgium 2020 💫 ☆ Contact: rebeccadw@skynet.be 📩
     location: "Belgium"
-    followers: 4576
-    engagement: 1517
-    commentsToLikes: 0.298040
-    id: ck8t4caho69690j787wb0aiwz
+    followers: 3405
+    engagement: 3034
+    commentsToLikes: 0.053821
+    id: ck9haydsnekwm0j783ghxdhlu
     verified: false
-    hashtags: "#facemask, #products, #levelup, #belgiumgiveaway"
-  - username: "carolinyrodrigues_"
-    fullname: >-
-      La Princesse
-    location: "Belgium"
-    followers: 3662
-    engagement: 1391
-    commentsToLikes: 0.129053
-    id: ck9hb2oa6f4rx0j78ptxuphf9
-    verified: false
-    hashtags: "#photographyart, #makeupoftheday, #concoursmakeup, #jeuconcours"
-  - username: "katinkakempeneers"
-    fullname: >-
-      Model | Katinka Kempeneers🌺
-    location: "Belgium"
-    followers: 9021
-    engagement: 691
-    commentsToLikes: 0.080665
-    id: ck8t42efv59gc0j78s8ent8a2
-    verified: false
-    hashtags: "#beyourownmuse, #trythem, #ladies, #fashionstyle"
-  - username: "mytrendywendy"
-    fullname: >-
-      WENDY💋BEAUTY x LIFESTYLE
-    location: "Belgium"
-    followers: 2201
-    engagement: 1360
-    commentsToLikes: 0.146086
-    id: ck5hejbn8t7dj0i11p57g03yj
-    verified: false
-    hashtags: "#melaninonpoint, #tiktok, #neutraltones, #flyliner"
+    hashtags: "#photooftheday, #instadaily, #influencer, #hair"
 ---

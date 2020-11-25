@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health TikTok Influencers In Melbourne In 2020
 description: >-
-  Find top health TikTok influencers in Melbourne in 2020. Most popular hashtags: #melbourne #keepingactive #homeproject #vibewithme.
+  Find top health TikTok influencers in Melbourne in 2020. Most popular hashtags: #fyp #melbourne #foryou #foryoupage.
 platform: TikTok
+hits: 14
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 14 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "renesarahlim"
+    fullname: >-
+      Renée Sarah Lim
+    bio: >-
+      Australian Asian who speaks Spanish Self-improvement tips 🇦🇺
+    location: "Australia"
+    followers: 6834
+    engagement: 879
+    commentsToLikes: 0.020431
+    id: ckd0bhqpjccue0j23812g25b3
+    verified: false
+    hashtags: "#read, #motivation, #health, #lockdown"
+  - username: "officialnikoda"
+    fullname: >-
+      Nikoda
+    bio: >-
+      CEO of ‘Quantity over quality’ 🏠Melbourne 📍Darwin For gym and bikini pics👇🏽
+    location: "Australia"
+    followers: 6355
+    engagement: 502
+    commentsToLikes: 0.025890
+    id: ckai6qgp1x8dm0i78awe1pqbg
+    verified: false
+    hashtags: "#downunder, #nt, #quantityoverquality, #comedy"
+  - username: "life_of_carolyn"
+    fullname: >-
+      life_of_carolyn
+    bio: >-
+      Your mental health cheerleader ❤️ #motherhoodsquad #alwaysenoughsquad
+    location: "Australia"
+    followers: 50100
+    engagement: 1110
+    commentsToLikes: 0.049750
+    id: cka0gee5s44rz0i78u1leq44v
+    verified: false
+    hashtags: "#mentalhealth, #mentalhealthmatters, #momsoftiktok, #youwantmore"
   - username: "jassturka4"
     fullname: >-
       Jass Turka
+    bio: >-
+      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
     location: "Australia"
-    followers: 55264
-    engagement: 417
-    commentsToLikes: 0.026408
+    followers: 75500
+    engagement: 336
+    commentsToLikes: 0.031642
     id: ckai3fp8wjp9s0i78tydhilnp
     verified: false
-    hashtags: "#arms, #homeworkout, #tiktokindia, #shoppingcart"
+    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
+  - username: "_kim_lawless_"
+    fullname: >-
+      Kim
+    bio: >-
+      •Fitness•health lifestyle• Instagram- kimlawless_fitness
+    location: "Australia"
+    followers: 47700
+    engagement: 851
+    commentsToLikes: 0.044897
+    id: cka7o7mp10qyp0i78xk1mluw6
+    verified: false
+    hashtags: "#duet, #fyp, #hi, #lockdown"
   - username: "b.humphris.physiotherapy"
     fullname: >-
       The Physio Wizard
+    bio: >-
+      The Wizard of Windsor (MELB, AUS) Co-founder of Humphris Health Physiotherapist
     location: "Australia"
     followers: 222763
     engagement: 374
     commentsToLikes: 0.010842
     id: ck9rc5y16s5ly0j782nkzl58k
     verified: false
-    hashtags: "#manualtherapy, #bruised, #backcrack, #spinal"
-  - username: "poojashnoor1719"
+    hashtags: "#pt, #physicaltherapist, #wizard, #cupping"
+  - username: "adventuresofkatelyn"
     fullname: >-
-      poojashnoor
+      AdventuresOfKatelyn
+    bio: >-
+      Travel addict ✈️ Instagram @adventuresofkatelyn ✨ YouTube ⬇️
     location: "Australia"
-    followers: 27362
-    engagement: 529
-    commentsToLikes: 0.009938
-    id: ck9pmhw3e9jc10j78ssl6dwfb
+    followers: 70300
+    engagement: 605
+    commentsToLikes: 0.014417
+    id: ckb98cwj2rt3z0j23wik6ijf1
     verified: false
-    hashtags: "#sidumoosewala, #firstwords, #lovepunjabifood, #wakeupfrommynap"
-  - username: "k9_steve"
+    hashtags: "#travel, #husky, #nepal, #melbourne"
+  - username: "antheas_glitter_bottles"
     fullname: >-
-      K9_Steve
+      Antheas_bottles
+    bio: >-
+      Insta: abeauty_lashes Insta: antheas_glitter_bottles Shop cosmetics👇🏼
     location: "Australia"
-    followers: 237508
-    engagement: 1851
-    commentsToLikes: 0.014976
-    id: ckajk9fwrp59o0i78u3xm96jf
+    followers: 7696
+    engagement: 1495
+    commentsToLikes: 0.034682
+    id: ckbqvglxhfpg10j23qql2fi9q
     verified: false
-    hashtags: "#thedrop, #seal, #fitnesstips, #onefour"
-  - username: "maxpertzel"
+    hashtags: "#bestie, #itstartsontiktok, #fyp, #foryou"
+  - username: "4kittens1human"
     fullname: >-
-      Max Pertzel
+      user5886937274148
+    bio: >-
+      Baby I’m an animal
     location: "Australia"
-    followers: 13006
-    engagement: 288
-    commentsToLikes: 0.032407
-    id: cka0tfwxcpqts0i78ytodv4w0
+    followers: 3843
+    engagement: 683
+    commentsToLikes: 0.016239
+    id: ckavr97gm33et0j235hfk4j5p
     verified: false
-    hashtags: "#workfromhome, #drake, #newchallenge, #pumpkin"
-  - username: "life_of_carolyn"
+    hashtags: "#tigerking, #fyp, #cat, #isolation"
+  - username: "rii.haytchh"
     fullname: >-
-      life_of_carolyn
+      Rii.rii
+    bio: >-
+      
     location: "Australia"
-    followers: 35434
-    engagement: 1470
-    commentsToLikes: 0.071542
-    id: cka0gee5s44rz0i78u1leq44v
+    followers: 8881
+    engagement: 617
+    commentsToLikes: 0.000000
+    id: ckb8znfqyf3vj0j23nga3tv6s
     verified: false
-    hashtags: "#homeroutine, #sidehustle, #shuffle, #over30club"
-  - username: "mz_zarah"
-    fullname: >-
-      ZARAH ROSE 💕
-    location: "Australia"
-    followers: 21957
-    engagement: 1127
-    commentsToLikes: 0.063344
-    id: ck80oqmtujb7w0j78pvg8jh8k
-    verified: false
-    hashtags: "#nails, #maythe4th, #hairinspo, #foryou"
-  - username: "josephjwhitehall"
-    fullname: >-
-      Joseph J Whitehall
-    location: "Australia"
-    followers: 19272
-    engagement: 987
-    commentsToLikes: 0.043293
-    id: ckacfg32tqtbs0i78egeceh6x
-    verified: false
-    hashtags: "#thirdeye, #godsplan, #intuition, #health"
-  - username: "_kim_lawless_"
-    fullname: >-
-      Kim
-    location: "Australia"
-    followers: 42746
-    engagement: 916
-    commentsToLikes: 0.057669
-    id: cka7o7mp10qyp0i78xk1mluw6
-    verified: false
-    hashtags: "#agechalange, #sundayvibes, #becreative, #momof3"
-  - username: "jassturka4"
-    fullname: >-
-      Jass Turka
-    location: "Australia"
-    followers: 55264
-    engagement: 417
-    commentsToLikes: 0.026408
-    id: ckai3fp8wjp9s0i78tydhilnp
-    verified: false
-    hashtags: "#arms, #homeworkout, #tiktokindia, #shoppingcart"
+    hashtags: "#viral, #sydney, #funny, #love"
 ---

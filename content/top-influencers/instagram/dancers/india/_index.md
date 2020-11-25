@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers Instagram Influencers In India In 2020
 description: >-
-  Find top dancers Instagram influencers in India in 2020. Most popular hashtags: #hiphop #dancer #tiktok #music.
+  Find top dancers Instagram influencers in India in 2020. Most popular hashtags: #dance #reels #love.
 platform: Instagram
+hits: 1244
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 1244 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "ankit_dancer01"
+  - username: "kiransolanki141"
     fullname: >-
-      Ankit_dancer
+      Kiran Solanki
+    bio: >-
+      Dancer
     location: "India"
-    followers: 69021
-    engagement: 2615
-    commentsToLikes: 0.078877
-    id: ck9hcts84mxy20j78gjq0o4do
+    followers: 5411
+    engagement: 11641
+    commentsToLikes: 0.098547
+    id: ck15qjzxy37r10i19rpayvm1w
     verified: false
-    hashtags: "#popping, #smile, #robotic, #dance"
+    hashtags: "#battle, #tutting, #staysafeeveryone, #explore"
+  - username: "tanurawat33"
+    fullname: >-
+      TANU RAWAT🔥
+    bio: >-
+      📥 DM FOR PAID COLLABS & PROMOTIONS Actor ⚫️ Dancer 💃 Hip-Hop 🤙 31/12 🎂 👇Click Here👇
+    location: "India"
+    followers: 90471
+    engagement: 975
+    commentsToLikes: 0.040257
+    id: ckap71v2hia330i78cjajxfpf
+    verified: false
+    hashtags: "#tanurawat33, #tanurarat33, #tanurawat"
+  - username: "satakshibanerjee"
+    fullname: >-
+      Satakshi Banerjee
+    bio: >-
+      Cinephile, writer, stray animal lover, dancer and a boring teacher! 🙄
+    location: "India"
+    followers: 16879
+    engagement: 1255
+    commentsToLikes: 0.062918
+    id: ck8tdr1pl4gmo0j7893pkdtlo
+    verified: false
+    hashtags: ""
+  - username: "amardeep_sahani_official"
+    fullname: >-
+      A M A R D E E P 
+    bio: >-
+      Artist | Dancer
+    location: "India"
+    followers: 5592
+    engagement: 2387
+    commentsToLikes: 0.074382
+    id: ck15precaza1z0i19hh0yl227
+    verified: false
+    hashtags: "#rr310, #bmw, #bike, #amardeep"
+  - username: "paridhiofficial"
+    fullname: >-
+      Paridhi Sharma
+    bio: >-
+      Actor, Dancer,Producer,Creator and a Dreamer.
+    location: "India"
+    followers: 367706
+    engagement: 1142
+    commentsToLikes: 0.024938
+    id: ck0w74ahybolq0i191ubhwx45
+    verified: true
+    hashtags: "#life, #jeenekeliye, #music, #motivationalsong"
+  - username: "shakibshajareh"
+    fullname: >-
+      Shakib Shajareh
+    bio: >-
+      Studied #performance at #Wollongong University "#Actor""Piano player" "singer" "salsa dancer" "#Actor_Researcher" "#EMIMTRA_Method"
+    location: "India"
+    followers: 36073
+    engagement: 1320
+    commentsToLikes: 0.041679
+    id: ck6u4x0jd69rw0j71bm78gj3j
+    verified: false
+    hashtags: "#fever, #moonlightsonata, #shakibshajareh, #starry"
+  - username: "karekarchirag_"
+    fullname: >-
+      ♠️CHIRAG KAREKAR♠️
+    bio: >-
+      OFFICAL ACCOUNT♠️ 17/ Mumbai|India •Dancer• Influencer• Creator |DM/ MAIL FOR PAID PROMOTIONS AND COLLAB| <Managed By: @mahgram_media_networks >
+    location: "India"
+    followers: 13239
+    engagement: 6762
+    commentsToLikes: 0.042649
+    id: ck9we74iiix3t0j78wzgalb20
+    verified: false
+    hashtags: "#casualstyle, #jeans, #jaw, #shirt"
+  - username: "aamir__arab99"
+    fullname: >-
+      (BATMAN)
+    bio: >-
+      22 | Dancer | YouTuber | #arabspartan | ‘MEET ME ON YOUTUBE 👇🏻
+    location: "India"
+    followers: 2213446
+    engagement: 719
+    commentsToLikes: 0.015514
+    id: ck0ty0vzal4xl0i19hg2iv8ha
+    verified: false
+    hashtags: "#alhamdulillahforeverything, #fambruharmy, #onemanarmy, #loveme"
+  - username: "mariandknight"
+    fullname: >-
+      Marianna🌛 Doctor, Phdc +
+    bio: >-
+      * Poet, Actor, Dancer * hobbies: 🎹 🎸 🎨 🤺🥋 * anime lover cosplay * Metalhead🤘 🇬🇷 25
+    location: "India"
+    followers: 13928
+    engagement: 1555
+    commentsToLikes: 0.114743
+    id: ck8t2hf7kzifq0j78let6ej8t
+    verified: false
+    hashtags: "#redheadgirl, #nicorobinonepiece, #nicorobincosplay, #redheadforlife"
   - username: "theakashthapa"
     fullname: >-
       Akash Thapa (iamhiphopkid)⚡️
+    bio: >-
+      📧 Mail for paid collaborations 💌 thapaakash227@gmail.com 🤩Super dancer chapter 2 finalist🤩 🎥Recent YouTube video👇🏻
     location: "India"
-    followers: 132248
-    engagement: 835
-    commentsToLikes: 0.031894
+    followers: 216974
+    engagement: 1802
+    commentsToLikes: 0.020044
     id: ck8wf20siezt10j78szn7mgip
     verified: true
-    hashtags: "#theakashthapa, #fambruh, #legendneverdies, #dancerslife"
-  - username: "sahanasarvesh"
-    fullname: >-
-      Sahana Sarvesh
-    location: "India"
-    followers: 5234
-    engagement: 2348
-    commentsToLikes: 0.064207
-    id: ck9wgicgltjq20j781gqet01h
-    verified: false
-    hashtags: "#jlosuperbowl, #dancevideo, #madrasahmalang, #dancelovers"
-  - username: "___venomous.weed"
-    fullname: >-
-      🇦​🇲​🇪​🇪​🇰​🇭​🇦​ 🇱​🇮​🇾​🇦​🇳​🇦​
-    location: "India"
-    followers: 3094
-    engagement: 2782
-    commentsToLikes: 0.094899
-    id: ck9wggdmhtavl0j78f4isvn53
-    verified: false
-    hashtags: "#nolimits, #venomous, #drapedinblack, #song"
-  - username: "kartikraja_1309"
-    fullname: >-
-      Kartik Raja 👑
-    location: "India"
-    followers: 82698
-    engagement: 1564
-    commentsToLikes: 0.032456
-    id: ck0w5n6nc4h7s0i19s8fgy47n
-    verified: false
-    hashtags: "#hiphoptillidie, #pumashoes, #freakysong, #couplegoal"
-  - username: "lillykofficial"
-    fullname: >-
-      Lilliana Ketchman
-    location: "India"
-    followers: 1403402
-    engagement: 730
-    commentsToLikes: 0.016867
-    id: ck0vyeg2g3kfx0i192yqh3s45
-    verified: true
-    hashtags: "#littlebitfierce, #fanart, #jojosiwa, #soappreciative"
-  - username: "itsshalvi"
-    fullname: >-
-      Shalvi Chauhan
-    location: "India"
-    followers: 9183
-    engagement: 1858
-    commentsToLikes: 0.044790
-    id: ck8wet0g6eklw0j787ss7bb1a
-    verified: false
-    hashtags: ""
-  - username: "tarusha__jain"
-    fullname: >-
-      T A R I S H❤️
-    location: "India"
-    followers: 6003
-    engagement: 1549
-    commentsToLikes: 0.104576
-    id: ck9hbbo4wg64z0j780w58mc9q
-    verified: false
-    hashtags: "#mumbaibizarre, #mymumbai, #vibes, #insta"
-  - username: "aakankshagade"
-    fullname: >-
-      Aakanksha Gade
-    location: "India"
-    followers: 6056
-    engagement: 1529
-    commentsToLikes: 0.049425
-    id: ck6tzkc1ta7f00j714i5ap174
-    verified: false
-    hashtags: "#kailashkhersongs, #portraitphotography, #babybrother, #talentedboy"
-  - username: "yogesh_perfectentertainer"
-    fullname: >-
-      YogeshSharma(imhiphopkid)
-    location: "India"
-    followers: 97948
-    engagement: 765
-    commentsToLikes: 0.024265
-    id: ck5pwkrx0nact0i11omr3sm7g
-    verified: false
-    hashtags: "#birthdaygift, #ruelhiphop, #raoolworld, #workout"
+    hashtags: "#contestalert, #bestivaldancechallenge, #oziva, #biotin"
 ---

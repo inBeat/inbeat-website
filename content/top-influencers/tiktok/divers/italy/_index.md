@@ -1,107 +1,130 @@
 ---
 title: Top 10 Divers TikTok Influencers In Italy In 2020
 description: >-
-  Find top divers TikTok influencers in Italy in 2020. Most popular hashtags: #duetto #magiadimusica #video #teamsimpatia.
+  Find top divers TikTok influencers in Italy in 2020. Most popular hashtags: #perte #foryou #viral #duetto.
 platform: TikTok
+hits: 241
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 241 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "raffxsss"
+  - username: "salvatorevella72"
     fullname: >-
-      Raffaele Malafronte
+      Salvatore Vella
+    bio: >-
+      Non sono migliore di altri...ma sono diverso da molti
     location: "Italy"
-    followers: 29605
-    engagement: 2332
-    commentsToLikes: 0.034081
-    id: ck8f8oc5m3kl50j786p0fspi2
+    followers: 12900
+    engagement: 510
+    commentsToLikes: 0.091373
+    id: ckbl6jker4bbp0j23nxlpr7dg
     verified: false
-    hashtags: "#ciseiocifai, #eminem, #newtrend, #fupage"
+    hashtags: "#ironia, #perte, #foryou, #ospedale"
+  - username: "treviso"
+    fullname: >-
+      André Custodio
+    bio: >-
+      Diversão, comédia, entretenimento confira nossos vídeos
+    location: "Italy"
+    followers: 1
+    engagement: 1166
+    commentsToLikes: 0.004822
+    id: ckc7q3mkyvnkc0j23j1nefeo8
+    verified: false
+    hashtags: "#lush, #lushitalia, #bathbomb, #lushtreviso"
+  - username: "eicharly1983"
+    fullname: >-
+      Ei Charly 🇵🇪🇮🇪
+    bio: >-
+      RICORDATE che essere DIVERSI non vuol di essere STRANI MA UNICI🍭 🌟BRILLA💯PRE☆
+    location: "Italy"
+    followers: 5229
+    engagement: 630
+    commentsToLikes: 0.053735
+    id: ckcovwvlg9aqq0j23km5kzibf
+    verified: false
+    hashtags: "#latinoamerica, #crispychallenge, #respondiendocomentarios, #foryou"
   - username: "data4snack"
     fullname: >-
       DataSnack
+    bio: >-
+      📊 Dati in grafici 🇮🇹Per raccontarti l’Italia e il mondo 💡 In modo diverso
     location: "Italy"
-    followers: 17576
-    engagement: 485
-    commentsToLikes: 0.022150
+    followers: 18700
+    engagement: 615
+    commentsToLikes: 0.017542
     id: ckafu1mpt85ih0i78lej8jabj
     verified: false
-    hashtags: "#fuel, #world, #informazioni, #estero"
-  - username: "lizsupermais"
+    hashtags: "#dati, #informazioni, #tiktokitalia, #economia"
+  - username: "tiddinapagni"
     fullname: >-
-      Liz supermais
+      Matilde Pagni
+    bio: >-
+      Per essere insostituibili bisogna essere diversi .💗 Instagram: pagnimatilde
     location: "Italy"
-    followers: 180731
-    engagement: 1478
-    commentsToLikes: 0.027905
-    id: ck9n4kciu4tb20j78z8f6p0th
+    followers: 43500
+    engagement: 777
+    commentsToLikes: 0.019592
+    id: ckcpk7vqoiiet0j23jurm89i1
     verified: false
-    hashtags: "#love, #cucinacinese, #cucina, #superstizione"
+    hashtags: "#fyp, #viral, #parati, #perte"
+  - username: "crisbraveofficial"
+    fullname: >-
+      Cris Brave
+    bio: >-
+      ♿️Tutti abbiamo le nostre disabilità, chi più evidenti e chi meno evidenti.
+    location: "Italy"
+    followers: 23100
+    engagement: 1511
+    commentsToLikes: 0.021713
+    id: ckbr8hozhnf7b0j23rigdmhvd
+    verified: false
+    hashtags: "#disabilit, #disabilita, #diversit, #neiperte"
   - username: "elenaanthony_bd"
     fullname: >-
       Elena Travaini
+    bio: >-
+      🥇Founders of Blindly Dancing 💃 Dancers 👗 Model 👩‍👧 Mom 👨‍👧 Tato
     location: "Italy"
-    followers: 2721
-    engagement: 1909
-    commentsToLikes: 0.119997
+    followers: 2586
+    engagement: 1827
+    commentsToLikes: 0.061393
     id: cka63lqno4w2b0i788dw0ar27
     verified: false
-    hashtags: "#ballerina, #animalsoftiktok, #news, #studentiitaliani"
-  - username: "larancionecartoleria"
+    hashtags: "#cat, #elenatravaini, #lago, #perte"
+  - username: "sonia.berardi"
     fullname: >-
-      LArancioneCartoleria
+      SONIA
+    bio: >-
+      🇮🇹 18 y/o Road to 13K?❤️ Ig: berardi.soniaa
     location: "Italy"
-    followers: 3434
-    engagement: 1410
-    commentsToLikes: 0.018357
-    id: ck9gn84xfvkuq0j78e2ff5bzs
+    followers: 12300
+    engagement: 1688
+    commentsToLikes: 0.082507
+    id: ckcp2iclwblwh0j23oug8qvtu
     verified: false
-    hashtags: "#colourchallenge, #dogsoftiktok, #colours, #follow"
-  - username: "nirkiop"
+    hashtags: "#aumentare, #italiangirl, #viral, #goviral"
+  - username: "zaman._.21"
     fullname: >-
-      Nirkiop
+      ZAMAN✌🏾
+    bio: >-
+      🇮🇹 • 🇧🇩 Mantova 16yo
     location: "Italy"
-    followers: 61589
-    engagement: 1500
-    commentsToLikes: 0.003775
-    id: ck9f38vpngq7x0j78ulbojt6m
-    verified: true
-    hashtags: "#video, #unpaiodichili, #videofattimale, #diversamentealto"
-  - username: "demon.40"
-    fullname: >-
-      🄳🄴🄼🄾
-    location: "Italy"
-    followers: 3994
-    engagement: 3295
-    commentsToLikes: 0.258356
-    id: cka6i8lnnprae0i78liis4a73
+    followers: 12500
+    engagement: 1325
+    commentsToLikes: 0.042290
+    id: ckdbb2u4g66380j23r0nxbmx1
     verified: false
-    hashtags: "#magiadimusica"
-  - username: "silvanaferello"
+    hashtags: "#school, #frasi, #perte, #fyp"
+  - username: "andrealagreca"
     fullname: >-
-      Silvana Ferello
+      Andrea La Greca
+    bio: >-
+      DOPPIATORE E SPEAKER PUBBLICITARIO 🎙 (Seguimi su Instagram)
     location: "Italy"
-    followers: 5078
-    engagement: 1903
-    commentsToLikes: 0.157816
-    id: ck9eolm3fp4d40j78ot8ti7zy
+    followers: 288900
+    engagement: 2057
+    commentsToLikes: 0.010847
+    id: ck9aeywdi4gqi0j784bhqbwpb
     verified: false
-    hashtags: "#kisschallenge, #romantico, #primavera, #nessuno"
-  - username: "_animeluna_"
-    fullname: >-
-      Luna
-    location: "Italy"
-    followers: 7347
-    engagement: 2176
-    commentsToLikes: 0.064081
-    id: ckaih8lo64rlu0i78xi3gb61m
-    verified: false
-    hashtags: "#usui, #noragami, #leviackerman, #animeopening"
-  - username: "tommasinomariaros"
-    fullname: >-
-      Tommasino Mariarosar
-    location: "Italy"
-    followers: 4351
-    engagement: 1458
-    commentsToLikes: 0.128452
-    id: ckad829lm6zwq0i78zfmool8y
-    verified: false
-    hashtags: "#reazione, #duetto"
+    hashtags: "#speakeraggio, #commenti, #duetto, #spot"
 ---

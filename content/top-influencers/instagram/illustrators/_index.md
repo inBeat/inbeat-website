@@ -1,107 +1,130 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In 2020
 description: >-
-  Find top illustrators Instagram influencers in 2020. Most popular hashtags: #herm #humidifier #artbooks #mileven.
+  Find top illustrators Instagram influencers in 2020. Most popular hashtags: #illustration #digitalart #corona.
 platform: Instagram
+hits: 5975
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 5975 Instagram influencers like this for you to work with.
 profiles:
   - username: "sashakru"
     fullname: >-
       Illustrator
+    bio: >-
+      Illustrator, CEO at @lil.school sashakrucha(a)gmail.com
     location: "Russia"
-    followers: 75925
-    engagement: 357
-    commentsToLikes: 0.063432
+    followers: 77706
+    engagement: 397
+    commentsToLikes: 0.057316
     id: ck5zrha72wkor0i1497ut0ns4
     verified: false
     hashtags: "#lil"
-  - username: "illustasha"
+  - username: "roshi_rouzbehani"
     fullname: >-
-      Natasha Goncharova
-    location: "Russia"
-    followers: 17566
-    engagement: 946
-    commentsToLikes: 0.024295
-    id: ckaov8dzs3hq20i78cif48t3g
-    verified: false
-    hashtags: "#forest, #best, #christmasdecor, #watercolor"
-  - username: "joseramos1972"
-    fullname: >-
-      Jose Ramos
-    location: ""
-    followers: 30261
-    engagement: 765
-    commentsToLikes: 0.015796
-    id: ck0w1rc12krd40i19q701akoy
-    verified: false
-    hashtags: "#kyloren, #mileven, #reyloedit, #shawnlevy"
-  - username: "niatudor"
-    fullname: >-
+      Roshi Rouzbehani
+    bio: >-
       Illustrator
-    location: ""
-    followers: 15374
-    engagement: 939
-    commentsToLikes: 0.029305
-    id: ck8t28u5xykll0j78pir6rs4f
+    location: "Iran"
+    followers: 10615
+    engagement: 710
+    commentsToLikes: 0.045478
+    id: ck15s6xxjbj620i19ax17s0rr
     verified: false
-    hashtags: "#drawthisinyourstyle"
+    hashtags: "#corona, #illustratorsoninstagram, #illustagram, #editorialillustration"
+  - username: "martinbedolla"
+    fullname: >-
+      Martiη Bеdοlla
+    bio: >-
+      illustrator
+    location: ""
+    followers: 53583
+    engagement: 701
+    commentsToLikes: 0.004381
+    id: ck6u3otazz0en0j71x2rh3j50
+    verified: false
+    hashtags: "#wip, #tbt"
   - username: "nimuradaisuke"
     fullname: >-
       Nimura daisuke
+    bio: >-
+      illustrator
     location: "Japan"
-    followers: 21105
-    engagement: 848
-    commentsToLikes: 0.006958
+    followers: 21973
+    engagement: 826
+    commentsToLikes: 0.006719
     id: ck5buvx1piixp0i11y1pefk11
     verified: false
     hashtags: "#stayhome"
   - username: "elisatalentino"
     fullname: >-
       Elisa Talentino Illustration
+    bio: >-
+      Illustrator
     location: "Italy"
-    followers: 18900
-    engagement: 472
-    commentsToLikes: 0.013839
+    followers: 20611
+    engagement: 437
+    commentsToLikes: 0.014895
     id: ck0w5p5eq4rca0i19fi6c5nq8
     verified: false
-    hashtags: "#astadipasquetta, #leggereiventi"
-  - username: "rebeccaclarke"
+    hashtags: "#astadipasquetta, #ildanzatoredellacqua"
+  - username: "joseramos1972"
     fullname: >-
-      Rebecca Clarke
-    location: "United States"
-    followers: 5757
-    engagement: 492
-    commentsToLikes: 0.042158
-    id: ck8t0mycusm1s0j785wlnc37h
+      Jose Ramos
+    bio: >-
+      Illustrator
+    location: ""
+    followers: 30411
+    engagement: 1145
+    commentsToLikes: 0.029247
+    id: ck0w1rc12krd40i19q701akoy
     verified: false
-    hashtags: "#ruthbaderginsburg, #maxernst, #artgenius, #herm"
+    hashtags: "#sixfanart, #sixfanarts, #strangerthingsday, #6fanarts"
   - username: "brian_draws"
     fullname: >-
       Brian Pratt
+    bio: >-
+      Illustrator
     location: ""
-    followers: 8680
-    engagement: 582
-    commentsToLikes: 0.022928
+    followers: 8626
+    engagement: 587
+    commentsToLikes: 0.023427
     id: ck6u5lks0abzz0j71qea1oex0
     verified: false
     hashtags: "#oldstuff"
-  - username: "vandubovik"
+  - username: "rebeccaclarke"
     fullname: >-
-      Ivan Dubovik
-    location: ""
-    followers: 26617
-    engagement: 412
-    commentsToLikes: 0.008318
-    id: ck9ha44bwb29e0j78glt2jfmy
+      Rebecca Clarke
+    bio: >-
+      Illustrator
+    location: "United States"
+    followers: 5843
+    engagement: 502
+    commentsToLikes: 0.041189
+    id: ck8t0mycusm1s0j785wlnc37h
     verified: false
-    hashtags: "#foodicons, #agriculture, #elevator, #mattress"
+    hashtags: "#ruthbaderginsburg, #maxernst, #artgenius, #herm"
   - username: "lizrowland"
     fullname: >-
       Liz Rowland
+    bio: >-
+      Illustrator
     location: ""
-    followers: 18088
-    engagement: 321
-    commentsToLikes: 0.017294
+    followers: 17889
+    engagement: 332
+    commentsToLikes: 0.019338
     id: ck8t295haylwu0j78stn5h4t7
     verified: false
     hashtags: ""
+  - username: "vandubovik"
+    fullname: >-
+      Ivan Dubovik
+    bio: >-
+      Illustrator
+    location: ""
+    followers: 33751
+    engagement: 301
+    commentsToLikes: 0.008767
+    id: ck9ha44bwb29e0j78glt2jfmy
+    verified: false
+    hashtags: "#vandubovik, #drawingaday, #dailyillustration, #dailydrawing"
 ---

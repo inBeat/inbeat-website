@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Toronto In 2020
 description: >-
-  Find top vegan Instagram influencers in Toronto in 2020. Most popular hashtags: #vegantoronto #quarantinelife #thankful #toronto.
+  Find top vegan Instagram influencers in Toronto in 2020. Most popular hashtags: #vegan #torontofoodblogger #torontofood #toronto.
 platform: Instagram
+hits: 73
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 73 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
+  - username: "thepunnyvegetarian"
+    fullname: >-
+      The Punny Vegetarian
+    bio: >-
+      Using wordplay, recipe development, and food photography as activism Featured on @nytcooking, @eatingwell, and @somegoodnews She/Her 📍Toronto
+    location: "Canada"
+    followers: 9103
+    engagement: 1130
+    commentsToLikes: 0.199331
+    id: ck6u7x16po5od0j71zial0lc6
+    verified: false
+    hashtags: "#bakersofig, #mangotart, #ketofriendly, #vincentvandoughnut"
+  - username: "cheskieeats"
+    fullname: >-
+      ✨ Cheskie ✨
+    bio: >-
+      🧁Beauty comes from within, so eat beautiful food 🌻 Blogger for @torontodateideas 🌞 Sharing my spiritual journey @cheskielives
+    location: "Canada"
+    followers: 5542
+    engagement: 420
+    commentsToLikes: 0.064762
+    id: ck6tic0ny0flh0j71ghph2pog
+    verified: false
+    hashtags: "#toronto, #datenight, #torontodateideas, #quarantinelife"
   - username: "ladyofrandomnessto"
     fullname: >-
       Lady Of Randomness To 💙
+    bio: >-
+      Tia 🔹Got a lot of 🖤 for Toronto 🔹Use #ladyofrandomness💙 to get featured 📧: DM or E-Mail me for collabs 🔹2020 Will be the Year of Giveaways 💫
     location: "Canada"
     followers: 13983
     engagement: 338
     commentsToLikes: 0.285591
     id: ck134od81xeii0i19nwpjlp6o
     verified: false
-    hashtags: "#takeout, #richmondhill, #snickerdoodle, #starbucks"
+    hashtags: "#desserts, #sweet, #treat, #booming"
+  - username: "fortheloveoffoodandlife"
+    fullname: >-
+      Adriana Paolella
+    bio: >-
+      Recipe creator Easy food&dinner ideas for busy ppl😊 👩‍🏫Teacher👩‍🍳Cook✏️Writer 👨‍👩‍👦‍👦Wife&Mom 👍🏼Content/Collab Tag for feature 🇨🇦 👇🏻Recipes
+    location: "Canada"
+    followers: 19575
+    engagement: 262
+    commentsToLikes: 0.656037
+    id: ck55n4hg75gki0i11zbiu2g8y
+    verified: false
+    hashtags: "#fortheloveoffoodandlife, #kleinburgmoms, #bramptonmoms, #vaughanmoms"
+  - username: "dougmcnish"
+    fullname: >-
+      Doug McNish
+    bio: >-
+      Executive Vegan Chef - Entrepreneur - Consultant - Author - Educator - Activist - Father. Order my new cookbook The Classics Veganized here 👇🏻
+    location: "Canada"
+    followers: 40333
+    engagement: 108
+    commentsToLikes: 0.121681
+    id: ck5cgoojzp8vc0i1134yqkozr
+    verified: false
+    hashtags: "#theclassicsveganized, #vegansofig, #giveaway, #veganized"
   - username: "shaksz_3"
     fullname: >-
       Ahmed Mesallati
+    bio: >-
+      ▫Mens Physique 🏆 ▫️Actor | Athlete | Architect ▫Toronto | Abu Dhabi | Gold Coast ✖️ 決して満足しない
     location: "Canada"
-    followers: 36143
-    engagement: 433
-    commentsToLikes: 0.037005
+    followers: 38753
+    engagement: 479
+    commentsToLikes: 0.033904
     id: ck14jig87kikb0i19w6no7dxd
     verified: false
-    hashtags: "#camaro, #intothedark, #noir, #sweetsour"
-  - username: "_mermaidmaddie"
+    hashtags: "#candy, #hollywoodnorth, #motivation, #hulu"
+  - username: "yes.foodie"
     fullname: >-
-      Madeleine ♡ Beauty Influencer
+      Wendy | Foodie From Toronto
+    bio: >-
+      🙋🏻‍♀️ Follow @xowendyli 🇨🇦 📌 Say yaaas to fooood! 📌 Giveaways happening ALL THE TIME!! 📌 DM me for business & collaboration opportunities!!! 合作快樂!
     location: "Canada"
-    followers: 2358
-    engagement: 1363
-    commentsToLikes: 0.187151
-    id: ck8tbxtroxlua0j78wchp522j
+    followers: 5337
+    engagement: 575
+    commentsToLikes: 0.601844
+    id: ck0w0rdugfnql0i198qxvcnip
     verified: false
-    hashtags: "#quoteoftheday, #loveyourlife, #ootdathome, #newblogger"
-  - username: "hungrysheepie"
+    hashtags: "#torontoblogger, #foodphotography, #exploretoronto, #hamburger"
+  - username: "dineandfash"
     fullname: >-
-      Cherrie 🇨🇦 Toronto GTA Foodie
+      Krystle | Toronto Blogger
+    bio: >-
+      lawyer • travel • food • style • pretty places 🐶 @snuggleswithdouglas business inquiries by email only ↳ 📩 dineandfash@gmail.com see the latest 👇🏽
     location: "Canada"
-    followers: 17933
-    engagement: 585
-    commentsToLikes: 0.090177
-    id: ck55kpqw8zu6q0i11zpxq2mze
+    followers: 33579
+    engagement: 209
+    commentsToLikes: 0.348625
+    id: ck0ttlwob3a960i19t2km34pw
     verified: false
-    hashtags: "#tamago, #wasabicheetos, #hattendocafe, #japanesedessert"
-  - username: "snackswithjacks"
+    hashtags: "#pursueprettythings, #abmhappylife, #f52grams, #lovetoronto"
+  - username: "paveesivaa"
     fullname: >-
-      jacqueline
+      Pavee Siva
+    bio: >-
+      ✨Living my best life✨ Arbonne Executive District Manager Business Inquiries: paveesivapr@gmail.com💌 @ps.impressionss @navsphotography_
     location: "Canada"
-    followers: 3102
-    engagement: 1154
-    commentsToLikes: 0.240167
-    id: ck0ty8b9olw2r0i19kb8f8zva
+    followers: 4118
+    engagement: 1111
+    commentsToLikes: 0.138520
+    id: ckap74qbeimpa0i7898zrzyhd
     verified: false
-    hashtags: "#onvtable, #animalcrossing, #selfcare, #torontovegan"
-  - username: "thejasmincull"
-    fullname: >-
-      Jasmin Cull | PGA Tour Driven
-    location: "Canada"
-    followers: 2485
-    engagement: 1239
-    commentsToLikes: 0.062399
-    id: ck6ui4hncd0in0j71taxyr0mw
-    verified: false
-    hashtags: "#loveofmylife, #loveyou, #health, #coursesopen"
-  - username: "ameliadoesdinner"
-    fullname: >-
-      Amelia
-    location: "Canada"
-    followers: 6075
-    engagement: 376
-    commentsToLikes: 0.250231
-    id: ck5zp28z9rujk0i14rgij6bmp
-    verified: false
-    hashtags: "#marconaalmonds, #arrozconpollo, #eatingout, #brampton"
+    hashtags: "#entrepeneurlife, #navsphotography, #psimpressionss, #bossbabe"
   - username: "bisante"
     fullname: >-
-      Andrew Bisante
+      Deeprest
+    bio: >-
+      29. Toronto. Musician. Vegan. Happiness Crew. Deeprest. Twitch Streamer.
     location: "Canada"
-    followers: 17316
-    engagement: 220
-    commentsToLikes: 0.052176
+    followers: 16841
+    engagement: 185
+    commentsToLikes: 0.057604
     id: ck5zwl7es6bj40i14jkpr3sew
     verified: false
     hashtags: ""
-  - username: "vegan_veterinarian"
-    fullname: >-
-      Dr. Travis Strong DVM MS DACVO
-    location: "Canada"
-    followers: 49284
-    engagement: 581
-    commentsToLikes: 0.023320
-    id: ck15u88nflwgj0i19hf7uh4vp
-    verified: false
-    hashtags: "#repost"
-  - username: "therubygore"
-    fullname: >-
-      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
-    location: "Canada"
-    followers: 41710
-    engagement: 74
-    commentsToLikes: 0.019214
-    id: ck55klzwezmq90i112lqh2ibz
-    verified: false
-    hashtags: "#manicpanicnyc, #magnoliatattoo, #colortattoos, #weddinginspiration"
 ---

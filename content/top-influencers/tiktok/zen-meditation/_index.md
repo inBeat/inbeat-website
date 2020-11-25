@@ -1,107 +1,130 @@
 ---
 title: Top 10 Zen Meditation TikTok Influencers In 2020
 description: >-
-  Find top zen meditation TikTok influencers in 2020. Most popular hashtags: #alwayslearning #vibewithme #may4th #keepingactive.
+  Find top zen meditation TikTok influencers in 2020. Most popular hashtags: #meditation #spirituality #duet #spiritualawakening.
 platform: TikTok
+hits: 586
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 586 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "tinaisahippie"
+    fullname: >-
+      Christina Pine
+    bio: >-
+      mindfulness, meditation, good vibes ✨🏳️‍🌈🕉️🌱🎶✌️💛
+    location: "United Kingdom"
+    followers: 7086
+    engagement: 1670
+    commentsToLikes: 0.083472
+    id: ckbb8spy7xy630j23nu3cu987
+    verified: false
+    hashtags: "#love, #peace, #mindfulness, #hippietiktok"
   - username: "hanholla"
     fullname: >-
       Hannah Holladay
+    bio: >-
+      Guided Meditations, Podcast, Energy / Sound Healing, 1 on 1 Sessions👇🏼👇🏼👇🏼
     location: "United States"
-    followers: 44561
-    engagement: 1218
-    commentsToLikes: 0.047653
+    followers: 56900
+    engagement: 1398
+    commentsToLikes: 0.047876
     id: ck9gkw253lhcf0j7847ogu37g
     verified: false
-    hashtags: "#healingenergy, #justbreathe, #fullmoonrituals, #singingbowl"
-  - username: "shaktisitakaur"
+    hashtags: "#ageofaquarius, #higherconsciousness, #egodeath, #guidedmeditations"
+  - username: "luna.ase"
     fullname: >-
-      shaktisitakaur
+      Luna
+    bio: >-
+      Fun & Spiritual shit. 🎙♏️ 🔮👁 Live Meditation Every Tuesday at 10am PST
     location: "United States"
-    followers: 5995
-    engagement: 993
-    commentsToLikes: 0.053203
+    followers: 89500
+    engagement: 1228
+    commentsToLikes: 0.048052
+    id: cka9m5z4d41zu0i78197fw51f
+    verified: false
+    hashtags: "#funnyspirituality, #consciousness, #duet, #reiki"
+  - username: "mysticspiderman"
+    fullname: >-
+      MysticSpiderman
+    bio: >-
+      ☯️ TEAM MEDITATIONS MON&FRI 10AM EST YT, PODCAST, TEAM CHAT PATREON, SHOP ⬇️
+    location: "Canada"
+    followers: 57600
+    engagement: 1065
+    commentsToLikes: 0.141228
+    id: ckcem4h9xw94b0j23gtaudcft
+    verified: false
+    hashtags: "#meditation, #starseed, #halloween, #manifestation"
+  - username: "gabrighezzi"
+    fullname: >-
+      Meditazione
+    bio: >-
+      Scrivimi su Instagram ☝🏽 per coaching ⠀ Meditation Life Coach 🧘🏽‍♂️ ⠀
+    location: "Italy"
+    followers: 47900
+    engagement: 1076
+    commentsToLikes: 0.044089
+    id: ck8to6wb0lizs0j78fg5ze89e
+    verified: false
+    hashtags: "#risvegliospirituale, #meditazione, #paceinteriore, #crescitainteriore"
+  - username: "shakti_sita_"
+    fullname: >-
+      SHAKTI SITA
+    bio: >-
+      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
+    location: "United States"
+    followers: 9103
+    engagement: 1017
+    commentsToLikes: 0.052641
     id: cka0nhzdgzsr50i78joqxmg4n
     verified: false
-    hashtags: "#pranayam, #cantsleep, #salad, #astrologer"
-  - username: "grace_orth"
+    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
+  - username: "deepsleepapp"
     fullname: >-
-      Grace Orth
+      Deep Sleep ASMR
+    bio: >-
+      Sleep-Aid App ASMR / White Noise / Meditation ⬇️Download⬇️
     location: "United States"
-    followers: 321313
-    engagement: 1858
-    commentsToLikes: 0.023041
-    id: ck9doy35ptuf00j78nx8glag6
-    verified: false
-    hashtags: "#quarantine, #tallgirl, #photoshoot, #jumpman"
-  - username: "syrushenry"
-    fullname: >-
-      Syrus-Antonio Henry 
-    location: "United States"
-    followers: 1280057
-    engagement: 1465
-    commentsToLikes: 0.010845
-    id: ck9e1uhv0cebi0j78lhu6j6ht
-    verified: false
-    hashtags: "#siblingcheck, #forypage, #duet"
-  - username: "katyhedges"
-    fullname: >-
-      Katy 
-    location: "United States"
-    followers: 989258
-    engagement: 2353
-    commentsToLikes: 0.024639
-    id: ck9gkw2m8lhie0j783hxopsqv
+    followers: 317200
+    engagement: 955
+    commentsToLikes: 0.024883
+    id: ckcoopemp6oak0j23nospkjwq
     verified: true
-    hashtags: "#selfcare, #quotes, #learnfromme, #keepingactive"
-  - username: "rockandydesigns"
+    hashtags: "#ocdproblems, #metime, #oddlysatisfying, #deepsleep"
+  - username: "iamsahararose"
     fullname: >-
-      Melissa
+      Sahara Rose
+    bio: >-
+      Follow 4 FUN Spirituality 🎤:Highest Self Podcast Free Goddess Meditation👇🏽
     location: "United States"
-    followers: 34731
-    engagement: 2228
-    commentsToLikes: 0.068319
-    id: ck8s74l9snixc0j782dggsbvs
-    verified: false
-    hashtags: "#moms, #artist, #neverfitin, #positivevibes"
-  - username: "manelijamal"
+    followers: 51200
+    engagement: 1119
+    commentsToLikes: 0.026795
+    id: cka8ihrr9ficg0i78mgihznu7
+    verified: true
+    hashtags: "#purpose, #divinefeminine, #manifestation, #goddess"
+  - username: "coachtorigordon"
     fullname: >-
-      Maneli Jamal
-    location: "Canada"
-    followers: 5683
-    engagement: 1402
-    commentsToLikes: 0.174286
-    id: ckac5svbldkye0i78ggwin3bg
-    verified: false
-    hashtags: "#gypsyjazz, #bellaciao, #healing, #ambientguitar"
-  - username: "mantraminerals"
-    fullname: >-
-      ✰Mantra Minerals✰
+      Tori Gordon
+    bio: >-
+      LIFE ARCHITECT CEO of Coachable Grab Free Meditations & Downloads👇🏼
     location: "United States"
-    followers: 42838
-    engagement: 2230
-    commentsToLikes: 0.026969
-    id: ck83z6qymy7zd0j78oflxbryq
-    verified: false
-    hashtags: "#djathome, #spongebob, #onlineclass, #openfordelivery"
-  - username: "theinfinitecup"
+    followers: 391500
+    engagement: 888
+    commentsToLikes: 0.018848
+    id: ckbfbrc7142ci0j23piy7i72w
+    verified: true
+    hashtags: "#loveyourself, #datingtips, #marriagegoals, #spiritualawakening"
+  - username: "alomoves"
     fullname: >-
-      theinfinitecup 
+      Alo Moves
+    bio: >-
+      Yoga, Fitness, & Meditation ✨ Inspiring people to #MoveTogether
     location: "United States"
-    followers: 137760
-    engagement: 1598
-    commentsToLikes: 0.040058
-    id: ck8j6lnmaaiar0j78ihvecj50
-    verified: false
-    hashtags: "#reiki, #4444, #coronacation, #supermoon"
-  - username: "opvious"
-    fullname: >-
-      Opvious 
-    location: "United States"
-    followers: 24328
-    engagement: 1366
-    commentsToLikes: 0.197916
-    id: cka9m4r6n3uzn0i7874koy6mr
-    verified: false
-    hashtags: "#naruto, #randonautica, #chakras, #dreaming"
+    followers: 2958
+    engagement: 512
+    commentsToLikes: 0.029893
+    id: ckb1bcxtnzwin0j233usebfip
+    verified: true
+    hashtags: "#meditation, #movetogether, #yoga, #pnw"
 ---

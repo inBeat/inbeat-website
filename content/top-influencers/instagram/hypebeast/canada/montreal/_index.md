@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Montreal In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Montreal in 2020. Most popular hashtags: #hypebeast #supreme #giveaway #travel.
+  Find top hypebeast Instagram influencers in Montreal in 2020. Most popular hashtags: #hypebeast #montreal #mtl #canada.
 platform: Instagram
+hits: 8
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "aeforia"
     fullname: >-
-      Alexy Préfontaine
+      Alexy Préfontaine
+    bio: >-
+      @aefaroe @alphaandthevan Montréal — ✉︎ aeforia@outlook.com Represented by @hplus_creative ↓ Store & More ↓
     location: "Canada"
-    followers: 97840
-    engagement: 432
-    commentsToLikes: 0.024198
+    followers: 101928
+    engagement: 416
+    commentsToLikes: 0.019327
     id: ck0u21q4uylw80i19upmhfxbl
     verified: false
-    hashtags: "#stars, #skull, #artistclothing, #surreal42"
-  - username: "diversithib"
+    hashtags: "#taxcollection, #trippy, #designarf, #vaporwave"
+  - username: "jrmaddripp_madrootz"
     fullname: >-
-      thib ッ
+      Jr Maddripp aka West
+    bio: >-
+      #Krump 🇫🇷🔛🇨🇦 📌: Montreal, 🇨🇦🌍 Finalist🥉 @revolutiontva s2 📺 📩 : Jrmaddripp.mgmt@gmail.com @cirquedusoleilevents @cirqueeloize ❤💃🏼🕺🏽 ⬇️DEMO⬇️
     location: "Canada"
-    followers: 2079
-    engagement: 996
-    commentsToLikes: 0.056448
-    id: ck5c90xphaki40i11j4ot0e1e
+    followers: 6581
+    engagement: 823
+    commentsToLikes: 0.066042
+    id: ck6u0y8eaifww0j71x9ij9e1m
     verified: false
-    hashtags: "#sintmaarten, #mtlmoments, #rainbow, #covid19"
+    hashtags: "#buck, #underrated, #chestpop, #getoff"
+  - username: "montrealworld"
+    fullname: >-
+      Montreal | Travel community
+    bio: >-
+      🇨🇦 MONTREAL, CANADA ✈️FOUNDER: @marknayman 📷Tag us #montrealworld and we`ll post it! 📣 Contact zerbermark1995@gmail.com for all issues.
+    location: "Canada"
+    followers: 39771
+    engagement: 316
+    commentsToLikes: 0.009602
+    id: ck14l4v73sv690i19kv2xycjl
+    verified: false
+    hashtags: ""
   - username: "ericbranover"
     fullname: >-
       🚧 Montreal | Canada 🍁
+    bio: >-
+      Visual art | #Sony a7riii & a7iii 🎆 In house photographer @LinenChest 📷 Booking for May - June 📆 DM for all inquiries and prints! 📩
     location: "Canada"
     followers: 21244
     engagement: 300
     commentsToLikes: 0.014822
     id: ck0vzj1gq9cm60i1980c1zksn
     verified: false
-    hashtags: "#lovefl, #reflectiongram, #igworldclub, #usaprimeshots"
-  - username: "bmcgannphotos"
+    hashtags: "#bleachmyfilm, #theimaged, #stayhome, #canadasworld"
+  - username: "stephanie__hebert"
     fullname: >-
-      Brendan McGann
+      Stéphanie Hébert
+    bio: >-
+      New video on my channel!! (Link in bio)
     location: "Canada"
-    followers: 6076
-    engagement: 481
-    commentsToLikes: 0.064302
-    id: ck5hf8zylwd880i118gy98y9e
+    followers: 5265
+    engagement: 306
+    commentsToLikes: 0.032087
+    id: ck6u6stb9hii20j71heompi62
     verified: false
-    hashtags: "#lambo, #kaws, #hondacivic, #lamborghini"
+    hashtags: "#mtl, #montreal, #visual, #goldenhour"
+  - username: "jogas90"
+    fullname: >-
+      Kamil Fieniuk
+    bio: >-
+      🤡 @joyamexico - 𝘼𝙧𝙩𝙞𝙨𝙩 𝙎𝙞𝙣𝙘𝙚 2014 🎪 @cirquedusoleil - 𝘼𝙧𝙩𝙞𝙨𝙩 𝙎𝙞𝙣𝙘𝙚 2010 🐉 @francomacau - 𝘼𝙧𝙩𝙞𝙨𝙩 𝙞𝙣 2013 ⬇️𝕄𝕪⬇️𝕐𝕠𝕦𝕋𝕦𝕓𝕖⬇️ℂ𝕙𝕒𝕟𝕟𝕖𝕝 ⬇️⬇️
+    location: "Canada"
+    followers: 7364
+    engagement: 575
+    commentsToLikes: 0.031360
+    id: ck6tnjxi39zv60j7198jyoklo
+    verified: false
+    hashtags: "#circus, #spin, #life, #couple"
+  - username: "krazymarchese"
+    fullname: >-
+      Chris Marchese(Mar-Kay-Ze)
+    bio: >-
+      @ElusiveAutoClub Founder @ElusiveAutoPerformance Owner Dm/Email For Business Inquires ⬇️ SUBSCRIBE TO MY YOUTUBE CHANNEL BELOW ⬇️
+    location: "Canada"
+    followers: 23379
+    engagement: 216
+    commentsToLikes: 0.235922
+    id: ck5q0099x3lty0i11lrwnwfsx
+    verified: false
+    hashtags: "#toronto, #srtaddicts, #moparornocar, #srt"
+  - username: "hungry.jo"
+    fullname: >-
+      Jo (Lifestyle Foodie🇨🇦Toronto)
+    bio: >-
+      For collaborations email: itshungryjo@gmail.com Yelp Elite 2020 Google Reviews Level 6 Follow me on my new venture @eventswithjo
+    location: "Canada"
+    followers: 20425
+    engagement: 220
+    commentsToLikes: 0.412722
+    id: ck5zs803wxzza0i14d5ekp97a
+    verified: false
+    hashtags: "#markhameats, #cravethesix, #blogto, #hungryjo"
   - username: "yvngrice"
     fullname: >-
       🍚 romulus 🍚
+    bio: >-
+      🔥YYC’s H¥PEBEAST🔥 ✨EMPOWER & INSPIRE 🤩🙏💫 🔌 “STORE” + GIVEAWAY$ @runitupyyc 👟🏃 📧 contact@yvngrice.com @xtrariceplz
     location: "Canada"
-    followers: 11872
-    engagement: 2270
-    commentsToLikes: 0.046188
+    followers: 21210
+    engagement: 1930
+    commentsToLikes: 0.059724
     id: ck8wfx1ecge400j78177l4upr
     verified: false
-    hashtags: "#supreme, #offwhite, #abathingape, #jordan1"
-  - username: "ggclx"
+    hashtags: "#reels, #sneakerhead, #offwhite, #hypebeast"
+  - username: "sai.jung"
     fullname: >-
-      Gaby
+      
+    bio: >-
+      📷 👟 Sneaker Content 12/13 StreetWear • Sneakers • Automotive Email or DM for Business inquires
     location: "Canada"
-    followers: 13459
-    engagement: 603
-    commentsToLikes: 0.065943
-    id: ck0uesx3nm5a00i19do5i46n4
+    followers: 41735
+    engagement: 251
+    commentsToLikes: 0.137207
+    id: ck6tkum4c5fll0j710pm74jdn
     verified: false
-    hashtags: "#happyvalentinesday, #valentinesday2020, #stayhome, #staysafe"
-  - username: "lazysnorlax"
-    fullname: >-
-      Adham
-    location: "Canada"
-    followers: 5845
-    engagement: 985
-    commentsToLikes: 0.290988
-    id: ck5hofv6hphmf0i11k1ihx5dp
-    verified: false
-    hashtags: "#snkrsapp, #ronniefieg, #fitcheck, #pacsun"
-  - username: "cor_kashif"
-    fullname: >-
-      Corey Kashif
-    location: "Canada"
-    followers: 6898
-    engagement: 1634
-    commentsToLikes: 0.026141
-    id: ck55kp7bfzsuo0i11pkveqewo
-    verified: false
-    hashtags: "#miami, #served, #tueaday, #motivation"
-  - username: "seniorkeke"
-    fullname: >-
-      Kelvin | YEG Photographer
-    location: "Canada"
-    followers: 5420
-    engagement: 1287
-    commentsToLikes: 0.050942
-    id: ck0vxl6clzfy60i19fpeblg1k
-    verified: false
-    hashtags: "#portraitstream, #bridge, #milkyway, #glow"
-  - username: "amanda.szee"
-    fullname: >-
-      Amanda
-    location: "Canada"
-    followers: 2680
-    engagement: 2304
-    commentsToLikes: 0.059093
-    id: ck8wga14wgzh80j7875flfrl8
-    verified: false
-    hashtags: "#fashion, #supremenewyork, #aesthetic, #winners"
+    hashtags: "#aj1, #klekttakeover, #snkrskickcheck, #travisscottjordan1"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Russia In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Russia in 2020. Most popular hashtags: #poledancer #pole #polesport #poletrick.
+  Find top pole dancers Instagram influencers in Russia in 2020. Most popular hashtags: #poledancer #poledance #pole #exoticpoledancer.
 platform: Instagram
+hits: 70
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 70 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "marinkanahalka"
+  - username: "megan.4x"
     fullname: >-
-      I Was Born To Make You Happy
+      Ебало попроще🦊
+    bio: >-
+      И божество, и вдохновение, и жизнь, и слёзы, и любовь 💔Diana 🔗17y.o 💔160,5 cm of beauty 🔗poledancer/ circus artist 🏁Вп/ реклама/ бартер в Direct!
     location: "Russia"
-    followers: 20082
-    engagement: 250
-    commentsToLikes: 0.023523
-    id: ck0vzevtv8rrg0i19k1f4ho5f
+    followers: 14750
+    engagement: 737
+    commentsToLikes: 0.063379
+    id: ck8t2wgx40y8x0j780w6ujytk
     verified: false
-    hashtags: "#poledancegirl, #exoticroutine, #staybeautiful, #polegirls"
-  - username: "alyona_soooul"
-    fullname: >-
-      POLEDANCE Воронеж🔝
-    location: "Russia"
-    followers: 17339
-    engagement: 358
-    commentsToLikes: 0.018693
-    id: ck5q196yo9vhn0i114bu62f34
-    verified: false
-    hashtags: "#goddes, #mood, #antique, #true"
-  - username: "ksusha_zefirka"
-    fullname: >-
-      Ксения Мельник
-    location: "Russia"
-    followers: 5688
-    engagement: 553
-    commentsToLikes: 0.070943
-    id: ck6udj0vulduc0j71o3x2vgsj
-    verified: false
-    hashtags: "#dancelife, #choreo, #instapoledance, #ilovedance"
+    hashtags: "#90sfashion, #softaesthetic, #90sgrunge, #softgrungeaesthetic"
   - username: "ana.erian"
     fullname: >-
       Anastasia 〜 アナ
+    bio: >-
+      - Traveler, photographer, vegan, amateur pole dancer, tattoo artist.🍑 - О самостоятельных путешествиях.✈️ - 26y.o. St.P, Russia. 📨 Collab ---> direct
     location: "Russia"
-    followers: 14763
-    engagement: 543
-    commentsToLikes: 0.008849
+    followers: 14767
+    engagement: 644
+    commentsToLikes: 0.008847
     id: ckap8evvho0m70i78ppwva1hk
     verified: false
-    hashtags: "#thesaem, #welcos, #starbucks"
-  - username: "leka_grechanowa"
+    hashtags: "#thesaem, #welcos, #starbucks, #lebelage"
+  - username: "marinkanahalka"
     fullname: >-
-      #Блогер Лёка Гречанова
+      I Was Born To Make You Happy
+    bio: >-
+      🖤Pole Dancer, Instructor, Choreographer 💃Leningrad Centre Dancer 👙I-Style Brand Ambassador 💌Available for workshops➡️Direct
     location: "Russia"
-    followers: 45698
-    engagement: 77
-    commentsToLikes: 0.125525
-    id: ck6u6dk9tez010j71mjssdnsy
+    followers: 19695
+    engagement: 277
+    commentsToLikes: 0.030623
+    id: ck0vzevtv8rrg0i19k1f4ho5f
     verified: false
-    hashtags: "#poledance, #polesport, #poledancer, #polefitness"
+    hashtags: "#marinanahalka, #poledancer, #pole, #marinkanahalka"
   - username: "scarlett_o_hara_poledancer"
     fullname: >-
       Татьяна Курочкина, 34 years
+    bio: >-
+      Тренер #poledance 💃 Начинающий астролог 🧝🏼‍♀️
     location: "Russia"
-    followers: 29748
-    engagement: 235
-    commentsToLikes: 0.106847
+    followers: 28621
+    engagement: 257
+    commentsToLikes: 0.086669
     id: ck8t9u28npctb0j78p7lqvezb
     verified: false
-    hashtags: "#exoticworkshop, #aerialdance, #valentines, #spbgirl"
-  - username: "sidorova_poledance"
+    hashtags: "#fitnessgirl, #bonafide, #exoticpole, #polefitness"
+  - username: "polkanovaolesya"
     fullname: >-
-      𝐍𝐀𝐒𝐓𝐀𝐒𝐈𝐀 𝐒𝐈
+      МАТЬ ШПАГАТОВ👙
+    bio: >-
+      🔝 Сетевик, онлайн тренер под прикрытием стриптизерши 👙 >20 000 учениц по миру 🥑 топлю за LCHF и осознанность 🏎 катаюсь на PORSHE от VILAVI 🆔 908724
     location: "Russia"
-    followers: 26984
-    engagement: 150
-    commentsToLikes: 0.048560
-    id: ck5hco777j3uj0i11aejh8jyl
+    followers: 247085
+    engagement: 99
+    commentsToLikes: 0.049159
+    id: ck5zms1son4b50i14qzzsx602
     verified: false
-    hashtags: "#splitchallenge, #backbend, #stretchingpose, #homepole"
-  - username: "horror_tattoo"
+    hashtags: "#polkanovapole, #poledance, #poledancer, #norilsk"
+  - username: "ekaterina.pogrebitskaya"
     fullname: >-
-      🗡Horror tattoo🗡
+      Pole Dance • Стретчинг
+    bio: >-
+      💥Помогу стать гибче и сильнее 💯Сертифицированный Инструктор 🏆Чемпион РБ • Призёр международных чемпионатов Pole Dance ⭐️Участница Танцы на ТНТ’18
     location: "Russia"
-    followers: 29514
-    engagement: 168
-    commentsToLikes: 0.017122
-    id: ck5bub9f4hh850i11l8fezm3z
+    followers: 9499
+    engagement: 632
+    commentsToLikes: 0.036762
+    id: ckap6py2ggxjt0i78omn8md3b
     verified: false
-    hashtags: "#tattoocalifornia, #manhattan, #miamitattoo, #stayhome"
-  - username: "mari_platicina"
+    hashtags: "#poleart, #stretching, #dance, #polesport"
+  - username: "greshilovevgeny"
     fullname: >-
-      MARI👑Most Emotional Dancer⭐️
+      Greshilov Evgeny
+    bio: >-
+      3 time World Pole Champion 7 time Int. Pole Champion 📷 @evgenygreshilov My pole tutorials ⬇️
     location: "Russia"
-    followers: 18806
-    engagement: 408
-    commentsToLikes: 0.059836
-    id: ck5ca37c6clxt0i116r9ttu4a
+    followers: 45588
+    engagement: 339
+    commentsToLikes: 0.038234
+    id: ck6tjshwb3c2a0j71eafoo2d0
     verified: false
-    hashtags: "#hotstuff, #feelgoodmusic, #flexygirl, #emotionalabuse"
-  - username: "egor_hit"
+    hashtags: "#yoga, #poleyoga, #poledancer, #evgenygreshilov"
+  - username: "oksanashine"
     fullname: >-
-      Egor COACH Churakov
+      Exotic pole dance Oksana Shine
+    bio: >-
+      👠 Exotic pole dance, strip choreographer 📨 Мастер-классы, сотрудничество, реклама ➡️direct
     location: "Russia"
-    followers: 17357
-    engagement: 181
-    commentsToLikes: 0.122819
-    id: ck5cbwvydgbcu0i11xkp97hxf
+    followers: 27270
+    engagement: 302
+    commentsToLikes: 0.048592
+    id: ck5c3jn5mzgex0i11g8xcg0vh
     verified: false
-    hashtags: "#unochallenge, #bboystyle, #streetpole, #starfish"
+    hashtags: "#poleathlete, #oksanashine, #flexiblegirl, #exoticflow"
+  - username: "instchaoss"
+    fullname: >-
+      Stanislav Perov
+    bio: >-
+      📸🎥 Фото, видео: Москва Портреты,красота,спорт,танцы,poledance 📸🎥 Moscow, Worldwide: ph&vid Fashion,beauty,dance,poledance,sports VK,Youtube:chaossfoto
+    location: "Russia"
+    followers: 8399
+    engagement: 535
+    commentsToLikes: 0.019374
+    id: ck13c7eq3yz3p0i19tnqwxqum
+    verified: false
+    hashtags: "#exoticpole, #sportsmodel, #poleart, #womanbeauty"
+  - username: "romanovaevelin"
+    fullname: >-
+      Poledance Tashkent
+    bio: >-
+      #poledance artist, instructor 👽 Инструктор по танцам , для записи в группу писать в Директ.
+    location: "Russia"
+    followers: 9779
+    engagement: 869
+    commentsToLikes: 0.034335
+    id: ckap5wi4fdgfl0i78s047raea
+    verified: false
+    hashtags: "#uzb, #beachlife, #stretching, #beachgirl"
 ---

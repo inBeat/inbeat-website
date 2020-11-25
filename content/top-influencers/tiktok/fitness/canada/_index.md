@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness TikTok Influencers In Canada In 2020
 description: >-
-  Find top fitness TikTok influencers in Canada in 2020. Most popular hashtags: #healthy #learnontiktok #victoriaday #duet.
+  Find top fitness TikTok influencers in Canada in 2020. Most popular hashtags: #fitness #workout #squat #duet.
 platform: TikTok
+hits: 295
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 295 TikTok influencers like this in Canada for you to pitch.
 profiles:
-  - username: "tatted_mama81"
+  - username: "peakfitmom"
     fullname: >-
-      Sheri Lafond
+      Kate
+    bio: >-
+      Online fitness coach & mom of 3 boys💕 loves to laugh & have fun! Insta 4 fitspo
     location: "Canada"
-    followers: 4752
-    engagement: 2072
-    commentsToLikes: 0.137322
-    id: ckajax0vqkz5j0i783v40iann
+    followers: 28800
+    engagement: 1226
+    commentsToLikes: 0.197711
+    id: ckc2ydq82pj0t0j23ku6xng7e
     verified: false
-    hashtags: "#roadto5k, #beweird, #21questions, #boymom"
-  - username: "pharmathlete"
+    hashtags: "#canadianmom, #momsoftiktok, #teenboys, #boymom"
+  - username: "benjamin_robert_graham"
     fullname: >-
-      pharmathlete
+      Benjamin_Graham
+    bio: >-
+      Fitness Coach & Private Gym Owner President & CEO of Leg Day
     location: "Canada"
-    followers: 18851
-    engagement: 1511
-    commentsToLikes: 0.072600
-    id: ck8f8nqla3i3c0j78vo3rzrj1
+    followers: 59900
+    engagement: 925
+    commentsToLikes: 0.055584
+    id: ckbqsuhjcdnpr0j23ma7k6vi0
     verified: false
-    hashtags: "#fouryou, #foruyou, #gasp, #tiktokcanada"
+    hashtags: "#squats, #coach, #entrepreneur, #strength"
+  - username: "tylersarry"
+    fullname: >-
+      Fitness & Health Coach
+    bio: >-
+      🇨🇦 💙 LIFE 🏃‍♀️Health & Fitness Coach🤸‍♂️ 💆Mental Resiliency Advocate🧠
+    location: "Canada"
+    followers: 13600
+    engagement: 867
+    commentsToLikes: 0.239310
+    id: ckcem2lh5w6mr0j23et3wm83r
+    verified: false
+    hashtags: "#stretching, #noexcuses, #exerciseismedicine, #stayactive"
+  - username: "abh_movement"
+    fullname: >-
+      Alex BH
+    bio: >-
+      Fitness & Empathy 🤸🏼‍♀️🧘🏼‍♀️☺️ IG: abh_movement
+    location: "Canada"
+    followers: 91900
+    engagement: 828
+    commentsToLikes: 0.060176
+    id: ck9nd0jx6ch6f0j78krswmfrb
+    verified: false
+    hashtags: "#peoplepleasing, #myersbriggs, #innerchild, #virtualfitness"
+  - username: "w2sixpackchef"
+    fullname: >-
+      Wallace W
+    bio: >-
+      Food|Fitness|Life RECIPES:IG @w2sixpackchef COOKING EBOOK:www.sixpackchef.com
+    location: "Canada"
+    followers: 456800
+    engagement: 1255
+    commentsToLikes: 0.022649
+    id: ck806ysqxn5xz0j780zu0q8u9
+    verified: false
+    hashtags: "#satisfying, #asmr, #foodreview, #cooking"
   - username: "jon_thevegan"
     fullname: >-
       Jonathan_Shopik
+    bio: >-
+      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
     location: "Canada"
-    followers: 10334
-    engagement: 586
-    commentsToLikes: 0.062732
+    followers: 30100
+    engagement: 729
+    commentsToLikes: 0.053305
     id: ck8074594ok6p0j78bktsw0lx
     verified: false
-    hashtags: "#lockdown, #feminst, #physio, #virus"
-  - username: "jakehalesanders"
+    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
+  - username: "kerolin.b"
     fullname: >-
-      Jake Hale-Sanders
+      Kerolin
+    bio: >-
+      👩‍👧‍👦 Mom of 2 with abs 🏋🏻‍♀️ Fitness + Mental Health 📺 YouTube + IG ⬆️
     location: "Canada"
-    followers: 79827
-    engagement: 1206
-    commentsToLikes: 0.029616
-    id: ck85cpuf52vr10j783np8q0nb
+    followers: 52200
+    engagement: 621
+    commentsToLikes: 0.054570
+    id: ckbfb9o1932no0j23idzp3lbb
     verified: false
-    hashtags: "#stud, #duet, #work"
-  - username: "emscourtney"
+    hashtags: "#over30, #fitnesstips, #workout, #couplecomedy"
+  - username: "reidbosse"
     fullname: >-
-      Emma
+      Reid Bosse 🇨🇦
+    bio: >-
+      Edmonton 🇨🇦 Get me to 10K? 🙏 - Fitness | Business | Jokes - ⬇️
     location: "Canada"
-    followers: 2728
-    engagement: 735
-    commentsToLikes: 0.061289
-    id: ckace9kecltqt0i78fzu4m3f9
+    followers: 9433
+    engagement: 1114
+    commentsToLikes: 0.188339
+    id: ck9gm1g0sqmdc0j78jwyseskg
     verified: false
-    hashtags: "#onlyincanada, #banff, #dogsoftiktok, #canadianthanksgiving"
-  - username: "andrewpettitt"
+    hashtags: "#foryoupage, #holidaytiktok, #running, #youwantmore"
+  - username: "lynnettemermaid"
     fullname: >-
-      Andrew Pettitt
+      Lynnette Mermaid
+    bio: >-
+      Mindfulness / yoga/ fitness/Poet/writer Follow my Instagram @lynettemermaide
     location: "Canada"
-    followers: 9200
-    engagement: 708
-    commentsToLikes: 0.056153
-    id: ck90r2155kq150j78ndcfn60b
+    followers: 2126
+    engagement: 413
+    commentsToLikes: 0.078295
+    id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#nusapenida, #weightlift, #costarica, #fashion"
-  - username: "smileyychris"
+    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+  - username: "planttrainers"
     fullname: >-
-      Christopher Côté
+      Adam & Shoshana
+    bio: >-
+      Nutrition 🍎 Fitness 💪 Fun 🎉 Married 💚
     location: "Canada"
-    followers: 439013
-    engagement: 1161
-    commentsToLikes: 0.053036
-    id: ck8knw0ylf0540j789gs3b086
-    verified: true
-    hashtags: "#pushups, #duet, #friends, #ifiwasyourex"
-  - username: "justin_agustin"
-    fullname: >-
-      Justin Agustin
-    location: "Canada"
-    followers: 15988
-    engagement: 512
-    commentsToLikes: 0.050551
-    id: cka6nwq5td58v0i78zmwhtvtw
+    followers: 12500
+    engagement: 391
+    commentsToLikes: 0.202368
+    id: ckai4la06ofvo0i782pi8chzu
     verified: false
-    hashtags: "#calm, #workouttips, #crossfit, #flexibiltiy"
-  - username: "kale_and_krunches"
-    fullname: >-
-      Marlie Cohen
-    location: "Canada"
-    followers: 26573
-    engagement: 697
-    commentsToLikes: 0.032987
-    id: ck9fc8bmziq790j78qo9zy4m5
-    verified: false
-    hashtags: "#may4th, #realityripple, #wipeitdown, #prank"
-  - username: "littletfitness"
-    fullname: >-
-      T | IFBB FITNESS PRO
-    location: "Canada"
-    followers: 42296
-    engagement: 1298
-    commentsToLikes: 0.013574
-    id: ck8tps2a5qnqm0j78irtjlmsu
-    verified: false
-    hashtags: "#kipup, #jump, #backflips, #chachaslide"
+    hashtags: "#fruit, #nutritiontips, #didyouknow, #tiktokcooks"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top fitness Instagram influencers in Melbourne in 2020. Most popular hashtags: #fitness #photography #photoshoot #melbourne.
+  Find top fitness Instagram influencers in Melbourne in 2020. Most popular hashtags: #fitness #australia #melbourne #instagram.
 platform: Instagram
+hits: 79
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 79 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
   - username: "thelittlenutritionist"
     fullname: >-
       Jenny Nguyen | Nutritionist
+    bio: >-
+      Nutrition Coach (🎓BHumnut) 🏆 2019 Overall INBA VIC Champ. ✖️Recipe ideas, fitness journey, nutrition tips 📍Melbourne, Australia
     location: "Australia"
     followers: 2026
     engagement: 1159
     commentsToLikes: 0.096779
     id: ckapaefhwvrrg0i78e1068lz1
     verified: false
-    hashtags: "#buildyourbody, #chocolate, #recipeoftheday, #pbtoast"
-  - username: "candice_wyatt_10"
+    hashtags: "#nourishyourbody, #healthylifestyle, #fitness, #echtapparel"
+  - username: "g.b.x.o"
     fullname: >-
-      CANDICE WYATT
+      ➕🅶.🅱.🆇.🅾 ➕
+    bio: >-
+      England 🇬🇧 Australia 🇦🇺 Owner and Managing Director of @candormarketing #mensfashion #menslifestyle #travel #melbourneinfluencer #melbournefood
     location: "Australia"
-    followers: 10611
-    engagement: 624
-    commentsToLikes: 0.047335
-    id: ck6tyvu5p65s90j712fuwkuay
+    followers: 38620
+    engagement: 280
+    commentsToLikes: 0.018331
+    id: ck1387pqiewej0i19qtc07e22
     verified: false
-    hashtags: "#foodie, #happyholi, #2020iscancelled, #fitness"
-  - username: "y_tysonn"
+    hashtags: "#mensoutfit, #melbournephotographer, #gsp, #mensfashionblog"
+  - username: "alireza_rasa"
     fullname: >-
-      Jacob Tyson™🇪🇸ジェイコブ🃏
+      Alireza Rasa
+    bio: >-
+      👉Y3T TEAM 👈 Pro Master coach Online coach Asia WBBF.WFF President AC TOP6 🇳🇿2018 🥇Pro Show🇵🇳 2018 🥉A,Olympia🇸🇲2016 🥇NPC 🇺🇸 2012 💍 #bodybuilder
     location: "Australia"
-    followers: 83696
-    engagement: 412
-    commentsToLikes: 0.086067
-    id: ck14lov26vqwz0i19kurawqlg
+    followers: 80454
+    engagement: 203
+    commentsToLikes: 0.031437
+    id: ck13b69dstvpq0i19iq33m1yq
     verified: false
-    hashtags: "#styleforguys, #mensfashionteam, #menstreetstyle, #instalike"
-  - username: "laurencarre_ifbbpro"
+    hashtags: "#mrolympia, #melbourne, #fitness, #diet"
+  - username: "leotaliu_fitness"
     fullname: >-
-      Lauren Carré IFBB PRO📍Melboune
+      Leo Taliu
+    bio: >-
+      🥊 Co-Owner @tributeboxing 🙌 @pad.bros ✋🏼 Fully Booked ✉️ leo@mindsethf.com 🍑 Farmer 💪🏼 Strength And Con 👊🏼 Boxing for Fitness 🏉 Ex Pro Athlete
     location: "Australia"
-    followers: 41636
-    engagement: 120
-    commentsToLikes: 0.039408
-    id: ckap6178ne0ty0i78qrpnh0kg
+    followers: 6754
+    engagement: 586
+    commentsToLikes: 0.102951
+    id: ckapaics8w8g50i78r0nngz9i
     verified: false
-    hashtags: "#dancer, #nikon, #acbikinis, #coronalife"
-  - username: "annaleisevarga"
+    hashtags: "#wifey, #family, #smileifyourasmellybum, #tributeboxing"
+  - username: "miguel_hand_balance"
     fullname: >-
-      Annaleise Varga
+      Miguel Sant'ana
+    bio: >-
+      🇧🇷Professional Hand Balancing Teacher in Melbourne 🇦🇺 1-1 online coaching available. Workshop in SYDNEY 11,12,13 Dec sign up at: 👇👇👇👇
     location: "Australia"
-    followers: 5421
-    engagement: 729
-    commentsToLikes: 0.101301
-    id: ck6tuci6tfjsc0j71cnxj20cf
+    followers: 100080
+    engagement: 189
+    commentsToLikes: 0.017533
+    id: ck0vxf3csyl6z0i194w0qmbij
     verified: false
-    hashtags: ""
-  - username: "lanefotograf"
+    hashtags: "#hkyoga, #itsaholdnotscreenshot, #fujifilmxt2, #blackandwhite"
+  - username: "darling.daisyfolk_"
     fullname: >-
-      Michelle Lancaster
+      b r o n t e ~ boho queen ☾
+    bio: >-
+      mama to Alyssa & Amalia making memories in WA ~ VIC collabs ~ grace@ivytalentco.com.au owner of sustainable label @arcadiathelabel
     location: "Australia"
-    followers: 37443
-    engagement: 415
-    commentsToLikes: 0.036363
-    id: ck0tt2m3h0w180i19ubx5tc5w
+    followers: 21844
+    engagement: 116
+    commentsToLikes: 0.322842
+    id: ck6u37c8gw5ic0j71cwbite3m
     verified: false
-    hashtags: "#author, #malebeauty, #virus, #girlnextdoor"
-  - username: "mithaliraj"
+    hashtags: "#satgc, #simplyliving, #livingsimply, #selflove"
+  - username: "bethcolstonn"
     fullname: >-
-      Mithali Raj
+      B E T H 🦋 C O L S T O N
+    bio: >-
+      MELBOURNE | 23 | FITNESS | FASHION 💌 amy@societyeightmanagement.com 🦋 @ryderwear “BETH10” @kliffo_ 💓
     location: "Australia"
-    followers: 1391236
-    engagement: 475
-    commentsToLikes: 0.003510
-    id: ck0vv1mton4n20i19m2cqkp56
-    verified: true
-    hashtags: "#posing, #lockdownondomesticviolence, #fitket, #visitaustralia"
-  - username: "fashfitlifestyle"
-    fullname: >-
-      PETRA KÖNYIT©
-    location: "Australia"
-    followers: 45418
-    engagement: 257
-    commentsToLikes: 0.013515
-    id: ck9hbm7aehglm0j78ypg3x14b
+    followers: 11942
+    engagement: 752
+    commentsToLikes: 0.123722
+    id: ckapc6jj52o2o0i78xo89ahl0
     verified: false
-    hashtags: "#trophywife, #pizzanight, #sohappy, #redwoodforest"
-  - username: "melbourne_desi_girl"
+    hashtags: "#feelyourbreast, #collab, #gifted, #prettylittlething"
+  - username: "kiara.paige"
     fullname: >-
-      Kiran U
+      ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
+    bio: >-
+      ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
     location: "Australia"
-    followers: 7225
-    engagement: 1826
-    commentsToLikes: 0.217992
-    id: ck9wp3ewv7mu90j7863amar2s
+    followers: 11869
+    engagement: 616
+    commentsToLikes: 0.156493
+    id: ck13chikg0dfi0i19k7otgu8m
     verified: false
-    hashtags: "#shotoniphone, #instainfluencer, #hadith, #quarantinelife"
-  - username: "matheuorchard"
+    hashtags: "#naturalmakeup, #melbournemodel, #activewear, #beautifulgirl"
+  - username: "biteswithbalance"
     fullname: >-
-      Matt Orchard
+      Minnie | Health, Food, Fitness
+    bio: >-
+      ✨ Food that feeds your body, mind + soul 🌏 Melbourne recipes // fitness // balanced living @happywayau code: happymin ✉️ biteswithbalance@gmail.com
     location: "Australia"
-    followers: 43197
-    engagement: 153
-    commentsToLikes: 0.046417
-    id: ck6u843p9pbem0j710p1y1r8y
+    followers: 9411
+    engagement: 1017
+    commentsToLikes: 0.309178
+    id: ckaor84x1m4sp0i786x74dvpx
     verified: false
-    hashtags: "#squats, #alltheabove, #legday, #lighting"
+    hashtags: "#worlddiabetesday, #inmybaxters, #baxterblue, #anywhereeyewear"
+  - username: "instakenworthy"
+    fullname: >-
+      Julian
+    bio: >-
+      🌈 Now even more GAY™️ 🌈 #Gay #Art #Fitness #Selfies
+    location: "Australia"
+    followers: 9803
+    engagement: 1423
+    commentsToLikes: 0.030377
+    id: ckap4a9dq6gdi0i78080n0o1l
+    verified: false
+    hashtags: "#hairychest, #art, #australia, #pride"
 ---

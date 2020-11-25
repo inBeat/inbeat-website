@@ -1,107 +1,130 @@
 ---
 title: Top 10 Dancers TikTok Influencers In South Korea In 2020
 description: >-
-  Find top dancers TikTok influencers in South Korea in 2020. Most popular hashtags: #dancer #blackpink #killthislove #candyshop.
+  Find top dancers TikTok influencers in South Korea in 2020. Most popular hashtags: #fyp #dance #dancer #tutorial.
 platform: TikTok
+hits: 29
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 29 TikTok influencers like this in South Korea for you to work with.
 profiles:
+  - username: "maroon456"
+    fullname: >-
+      동주쓰
+    bio: >-
+      Dancer 😍______⬇️ YouTube ⬇️______😍
+    location: "South Korea"
+    followers: 6900000
+    engagement: 1980
+    commentsToLikes: 0.010842
+    id: ckbkh31na8s0u0j23r0g1cnj3
+    verified: true
+    hashtags: "#fyp, #dance, #foru, #transparent"
   - username: "shana0805"
     fullname: >-
       샤나💜Shana
+    bio: >-
+      🇰🇷 Blanche crew (블랑쉬크루) Dancer DJ
     location: "South Korea"
-    followers: 493710
-    engagement: 1258
-    commentsToLikes: 0.034678
+    followers: 1000000
+    engagement: 1492
+    commentsToLikes: 0.018228
     id: ck9nnw08nr7uu0j78yab1fqx6
-    verified: false
-    hashtags: "#flippedtheswitch, #kpopcoverdance, #solar, #killthislove"
-  - username: "bgreazy"
-    fullname: >-
-      Brett Gray
-    location: "South Korea"
-    followers: 1990760
-    engagement: 1837
-    commentsToLikes: 0.008349
-    id: ck8hrqm849wba0j7822fwtf2a
     verified: true
-    hashtags: "#neverfitin, #onmyblock, #onmyblockseason3, #foryouppage"
-  - username: "_master_choi_"
+    hashtags: "#tutorial, #result, #meme, #behindthescene"
+  - username: "h.y02"
     fullname: >-
-      최사범님👊🏻
+      히쮸
+    bio: >-
+      ✔대구 02😊 ✔페이스북 “희영” ✔️스푼 “희영{DANCER}” ✔️인스타는 옆에 아이콘 클릭‼️
     location: "South Korea"
-    followers: 1512381
-    engagement: 1227
-    commentsToLikes: 0.019352
-    id: ck9n4uqx65ozd0j78x9wduygy
+    followers: 54200
+    engagement: 771
+    commentsToLikes: 0.055252
+    id: cka84j3hzu1o70i786amunlv5
+    verified: false
+    hashtags: "#20k, #pov, #40k, #02"
+  - username: "ns_yeoon"
+    fullname: >-
+      🍒남앵두🍒
+    bio: >-
+      ᴅᴇʟɪɢʜᴛ ᴄʀᴇᴡ✨ Thank you for following me.🥰 🇰🇷dancer💃 페북. 남승연 insta. ns_yeoon
+    location: "South Korea"
+    followers: 448600
+    engagement: 963
+    commentsToLikes: 0.022681
+    id: ckciqmx24xcpd0j23kjnxogvv
+    verified: false
+    hashtags: "#dizgotic, #pov, #fyp, #ar"
+  - username: "agape.so"
+    fullname: >-
+      아가페 소🇰🇷
+    bio: >-
+      Dancer / 안무가 / Choreographer YOHAN_ from @Team Pheromone INSTAGRAM_ @agape.so
+    location: "South Korea"
+    followers: 8909
+    engagement: 1063
+    commentsToLikes: 0.031163
+    id: ckb90km4agddc0j231v7uroha
+    verified: false
+    hashtags: "#choreography, #97, #choreo, #dance"
+  - username: "allready_aiki"
+    fullname: >-
+      아이키(Aiki)
+    bio: >-
+      한국사람“아이키”🇰🇷 이왕이면 갠지나게 추고싶은 댄서 Dancer.
+    location: "South Korea"
+    followers: 181000
+    engagement: 656
+    commentsToLikes: 0.019461
+    id: ckc7ogmz4ueqv0j23r9iqcdyi
+    verified: false
+    hashtags: "#aiki, #korean, #caliphash, #fyp"
+  - username: "realminamyoung"
+    fullname: >-
+      MinaMyoung
+    bio: >-
+      Dancer / Choreographer / Youtuber 🤘🏻
+    location: "South Korea"
+    followers: 72300
+    engagement: 1348
+    commentsToLikes: 0.008608
+    id: ckc927kj5smrw0j2300o9r53s
     verified: true
-    hashtags: "#mlb, #wayupchallenge, #shuffle, #love"
-  - username: "nova_lumen"
+    hashtags: "#tapin, #minamyoungchoreography, #minamyoung, #minnypark"
+  - username: "popdokyun91"
     fullname: >-
-      Nova_Lumen
+      popdokyun
+    bio: >-
+      Hello guys Im popping dancer From KR🇰🇷🙌🏻. 협찬 광고 문의 pop_dokyun@naver.com
     location: "South Korea"
-    followers: 15518
-    engagement: 1220
-    commentsToLikes: 0.113601
-    id: ck9pmpvzaaqcx0j784rd8h2zb
+    followers: 109500
+    engagement: 757
+    commentsToLikes: 0.016704
+    id: ckdcjlri2lj8h0j233efwjgei
     verified: false
-    hashtags: "#fypage, #kpopdancecover, #dollskill, #facetracking"
-  - username: "dancer_j.k.m"
+    hashtags: "#dancer, #foryou, #fyp, #dance"
+  - username: "afstarz_kuma"
     fullname: >-
-      Poledancer_J.K.M
+      쿠마
+    bio: >-
+      아프리카tv 춤추는곰돌 afstarz 쿠마입니다 인스타:hankuma89 유튜브:kuma쿠마 초심잃지않고 계속 열심히!!!! 1만 가즈아!!!!
     location: "South Korea"
-    followers: 109581
-    engagement: 2012
-    commentsToLikes: 0.010326
-    id: cka0kfib6mf9x0i78bykkmzav
+    followers: 3366
+    engagement: 365
+    commentsToLikes: 0.169291
+    id: ckblg0lrz9qxd0j231ublvmek
     verified: false
-    hashtags: "#acrobatic, #circuslife, #rain, #blackswan"
-  - username: "barahaje"
+    hashtags: "#dancer, #fyp, #afstarz, #popping"
+  - username: "ezydancer"
     fullname: >-
-      하제하제 바라하제(HajeHaje)
+      지훈
+    bio: >-
+      ✴️@Coreo.ent 𝐂𝐫𝐞𝐰✴️ 댄서 Instagram[e_zy__kitsch]🇰🇷 Contact , 협찬 ➡️ DM
     location: "South Korea"
-    followers: 177383
-    engagement: 1036
-    commentsToLikes: 0.014367
-    id: ck92srzumew1u0j78cxiottp2
-    verified: false
-    hashtags: "#beerchallenge, #navigation, #mountain, #badboy"
-  - username: "mudoctor"
-    fullname: >-
-      MUDOCTOR (뮤닥터 아카데미)
-    location: "South Korea"
-    followers: 118701
-    engagement: 861
-    commentsToLikes: 0.007453
-    id: ck9gmg6k1s8de0j78x0hpsega
-    verified: false
-    hashtags: "#blackpink, #fire, #siren, #kpopidol"
-  - username: "lee_beom"
-    fullname: >-
-      이범
-    location: "South Korea"
-    followers: 335209
-    engagement: 1715
-    commentsToLikes: 0.057431
-    id: ckae7byj7gfao0i78h9fesc4d
-    verified: false
-    hashtags: "#wooahchallenge"
-  - username: "shindongho_kr"
-    fullname: >-
-      신동호
-    location: "South Korea"
-    followers: 2187577
-    engagement: 1339
-    commentsToLikes: 0.015241
-    id: cka7vnyfsx22r0i784osmg97q
+    followers: 67700
+    engagement: 925
+    commentsToLikes: 0.025598
+    id: ckb9uplt8tk5a0j23az0j5mw0
     verified: true
-    hashtags: "#freakfreakchallenge, #visitchallenge, #facetracking, #foryou"
-  - username: "yunji_kr"
-    fullname: >-
-      윤지
-    location: "South Korea"
-    followers: 618667
-    engagement: 1209
-    commentsToLikes: 0.026485
-    id: ck9nq8y452lbd0j78p0cuham5
-    verified: true
-    hashtags: "#sponsored, #candyshop, #dropthesunglass, #makeup"
+    hashtags: "#dance, #korea, #wap, #wapchallenge"
 ---

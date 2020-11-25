@@ -1,107 +1,130 @@
 ---
 title: Top 10 Health Instagram Influencers In India In 2020
 description: >-
-  Find top health Instagram influencers in India in 2020. Most popular hashtags: #positivity #indian #staysafe #throwback.
+  Find top health Instagram influencers in India in 2020. Most popular hashtags: #instagram #throwback #love.
 platform: Instagram
+hits: 2079
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 2079 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "tamarawebb_"
-    fullname: >-
-      TAMARA WEBB 💫
-    location: "India"
-    followers: 48725
-    engagement: 753
-    commentsToLikes: 0.036356
-    id: ck8tavj66t8pm0j7872g8sxdw
-    verified: false
-    hashtags: "#healthycarrotcake, #healthybrownie, #lifestyle, #love"
-  - username: "alphayash"
-    fullname: >-
-      Yash Sharma
-    location: "India"
-    followers: 34774
-    engagement: 1192
-    commentsToLikes: 0.030653
-    id: ck8t0ziamtwq00j78vh1sdk7d
-    verified: false
-    hashtags: "#staystrong, #togetherathome"
-  - username: "_hailelujah"
-    fullname: >-
-      Hailey Dickson ✺ India Travel
-    location: "India"
-    followers: 6829
-    engagement: 1279
-    commentsToLikes: 0.047362
-    id: ck8tcdgjqz3uh0j78nb5sy82v
-    verified: false
-    hashtags: "#selfreflection, #35mmportrait, #natgeohumanity, #bodypositive"
-  - username: "simrn_singh_dhillon"
-    fullname: >-
-      Sim Dhillon
-    location: "India"
-    followers: 21333
-    engagement: 1142
-    commentsToLikes: 0.015240
-    id: ck15q475c10ls0i19ct2hj1f2
-    verified: false
-    hashtags: "#bloopers, #besafe, #march2020"
-  - username: "komalpreet_96"
-    fullname: >-
-      HANDLE WITH CARE
-    location: "India"
-    followers: 7624
-    engagement: 2341
-    commentsToLikes: 0.285747
-    id: ckap4aqu56iip0i7807yb880q
-    verified: false
-    hashtags: "#khadiproducts, #khadihaircare, #skincare, #khadinaturals"
-  - username: "glamadventuress"
-    fullname: >-
-      Navneet|Travel & Lifestyle
-    location: "India"
-    followers: 41233
-    engagement: 369
-    commentsToLikes: 0.067402
-    id: ck139dzxykug00i19eoq1az5z
-    verified: false
-    hashtags: "#selfisolation, #goexplore, #picoftheday, #exploringindia"
-  - username: "haveenarochlani"
-    fullname: >-
-      Haveena Rochlani
-    location: "India"
-    followers: 61508
-    engagement: 153
-    commentsToLikes: 0.166113
-    id: ck0w1aoxrie6s0i199c4kuaj2
-    verified: false
-    hashtags: "#lovelovelove, #smile, #fashionova, #girl"
-  - username: "peppytravelgirl"
-    fullname: >-
-      Preethi 🇮🇳🌏
-    location: "India"
-    followers: 23426
-    engagement: 905
-    commentsToLikes: 0.032138
-    id: ck0u6lp902b5f0i19eo2w2d5f
-    verified: false
-    hashtags: "#agenobarrier, #breasthealth, #moibynykaa, #travelsize"
   - username: "saba_ka_jahaan"
     fullname: >-
       SABA IBRAHIM (صباء)
+    bio: >-
+      Mumbai 📍 Lifestyle influencer | youtuber Lifestyle• skincare•health• fashion•food Dm / Email for collaboration. 📩 ibrahimsaba2393gmail.com
     location: "India"
-    followers: 154360
-    engagement: 992
-    commentsToLikes: 0.019198
+    followers: 372411
+    engagement: 1057
+    commentsToLikes: 0.047788
     id: ck9wgfocut7mb0j78fusfrb63
     verified: true
-    hashtags: "#photooftheday, #inshaallah, #jummahkareem, #skincareblogger"
-  - username: "komalchhikara1"
+    hashtags: "#happygirlsaretheprettiest, #ootd, #festiveseason, #lifestyleinfluencer"
+  - username: "tamarawebb_"
     fullname: >-
-      Dr. Komal Chhikara
+      TAMARA WEBB 💫
+    bio: >-
+      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
     location: "India"
-    followers: 76322
-    engagement: 702
-    commentsToLikes: 0.020992
-    id: ck9hb43p6fbsm0j78er6ip0aq
+    followers: 53255
+    engagement: 805
+    commentsToLikes: 0.078111
+    id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#nomakeup, #promisetoself, #whitesuit, #music"
+    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
+  - username: "_hailelujah"
+    fullname: >-
+      Hailey Dickson ✺ India Travel
+    bio: >-
+      My 💛 in photos+colors+words ✈Chasing stories across India ✎Learning•travel•mental health 🗣️ हिंदी|اردو|मराठी 🏠 AZ 🇺🇸 ⇩ My recovery story
+    location: "India"
+    followers: 6638
+    engagement: 1331
+    commentsToLikes: 0.045594
+    id: ck8tcdgjqz3uh0j78nb5sy82v
+    verified: false
+    hashtags: "#yourshotindia, #indianphotostory, #portraitmag, #versova"
+  - username: "simer.bhatia12"
+    fullname: >-
+      SIMER 😍
+    bio: >-
+      LIVING LIFE ON MY OWN TERMS 🤙🏼 | Indian 🇮🇳 | Health & Fitness 💪🏻 | Risk taker | Dreamer 💭 | Free spirit 🦅 | Birthday- 27th April | My channel 👇🏻👇🏻
+    location: "India"
+    followers: 80631
+    engagement: 2089
+    commentsToLikes: 0.012720
+    id: ck8wf5b52f5f90j780ih1smk8
+    verified: false
+    hashtags: "#reels, #simerbhatia, #style, #fitness"
+  - username: "simrn_singh_dhillon"
+    fullname: >-
+      Sim Dhillon
+    bio: >-
+      13 oct 🍼 Fitness lover🏋🏻‍♂️ Stay fit 💪🏻 Photography 📸 Stay focused👆🏻🙏🏻 Drug free lyf🥛 Health wrker 💊 CARE LESS YOU’LL STRESS LESS 😉
+    location: "India"
+    followers: 19923
+    engagement: 977
+    commentsToLikes: 0.013140
+    id: ck15q475c10ls0i19ct2hj1f2
+    verified: false
+    hashtags: ""
+  - username: "rheagoyall"
+    fullname: >-
+      
+    bio: >-
+      Let go & let God Founder @rescue_health
+    location: "India"
+    followers: 15468
+    engagement: 769
+    commentsToLikes: 0.036942
+    id: ck0vzuhrbayns0i19gg8l91i0
+    verified: false
+    hashtags: "#smallbusiness, #staysafe, #healthcareessentials, #fightagainstcorona"
+  - username: "manishayadavsuresh"
+    fullname: >-
+      Manisha Yadav
+    bio: >-
+      Cinephile for Quality Cinema, Entrepreneur, Foodie, Traveller and Mental Health Advocate
+    location: "India"
+    followers: 52434
+    engagement: 682
+    commentsToLikes: 0.008837
+    id: ck15qawzx1yjz0i19pxexsg91
+    verified: false
+    hashtags: "#throwbackthursday, #coronatimes, #lifeinthetimeofcorona, #coronacation"
+  - username: "alphayash"
+    fullname: >-
+      Yash Sharma
+    bio: >-
+      “Health • Lifestyle • Motivation” 🏋🏻‍♂️ Powered By @1rm_official 🔥 Athlete @muscleblaze 🎥 YouTube: YASH SHARMA FITNESS
+    location: "India"
+    followers: 50135
+    engagement: 1215
+    commentsToLikes: 0.021148
+    id: ck8t0ziamtwq00j78vh1sdk7d
+    verified: false
+    hashtags: "#ziddihoonmain, #onerepmore, #teamysf, #squat"
+  - username: "khan.ira"
+    fullname: >-
+      Ira Khan
+    bio: >-
+      Hindi dubbed version of my mental health video are on the link in my bio!
+    location: "India"
+    followers: 339985
+    engagement: 557
+    commentsToLikes: 0.022175
+    id: ck55l2xqj0mj00i11frgtnv2b
+    verified: true
+    hashtags: "#proud, #debut, #letsstartaconversation, #safespace"
+  - username: "nitika.gusain1827"
+    fullname: >-
+      NitikaG
+    bio: >-
+      #influencer #beauty 💅💄| #lifestyle 💃👠⌚🍫| #health ❤| #motherhood 👪 Jammu | Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
+    location: "India"
+    followers: 11124
+    engagement: 250
+    commentsToLikes: 0.157671
+    id: ckf5qqnvpa94v0j23zzpin6mh
+    verified: false
+    hashtags: "#lehanga, #indianblogger, #indianbeautyblogger, #fyp"
 ---

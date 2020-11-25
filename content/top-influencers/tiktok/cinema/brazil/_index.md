@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema TikTok Influencers In Brazil In 2020
 description: >-
-  Find top cinema TikTok influencers in Brazil in 2020. Most popular hashtags: #desenho #photo #gatos #tiktokbrasil.
+  Find top cinema TikTok influencers in Brazil in 2020. Most popular hashtags: #cinema #foryou #tiktok #brasil.
 platform: TikTok
+hits: 51
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 51 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
+  - username: "marciosala6.1"
+    fullname: >-
+      Márcio Sala6.1
+    bio: >-
+      YouTuber Canal Sala6.1 Lufalufa Cinema I Lived
+    location: "Brazil"
+    followers: 70000
+    engagement: 2858
+    commentsToLikes: 0.046224
+    id: ck94g4j1lea0y0j78vhir66b4
+    verified: false
+    hashtags: "#lordtewksbury, #hogwarts, #newtscamander, #animaisfantasticos"
+  - username: "juliatonelli_"
+    fullname: >-
+      JULIA TONELLI
+    bio: >-
+      Do dicas de foto e edição ( e passo vergonha ) Estudante de Cinema 20y 🇧🇷
+    location: "Brazil"
+    followers: 15700
+    engagement: 931
+    commentsToLikes: 0.061243
+    id: ckcjcg3gs9goe0j23rwmf5wwc
+    verified: false
+    hashtags: "#dicasdestories, #dicainstagram, #edi, #foryoupage"
   - username: "seliganotrailer"
     fullname: >-
       Se liga no Trailer
+    bio: >-
+      🎬 Cinema 🎮 Entrenimento Instagram: plantaogeek Instagram: seliganotrailer
     location: "Brazil"
-    followers: 84803
-    engagement: 645
-    commentsToLikes: 0.047307
+    followers: 130500
+    engagement: 709
+    commentsToLikes: 0.102524
     id: cka0glwpt51z10i78qqkazyze
     verified: false
-    hashtags: "#annehathaway, #globofilmes, #jogosvorazes, #xmen"
-  - username: "cinematrok"
+    hashtags: "#dcfandome, #amazon, #netflix, #fox"
+  - username: "popgeeknerd"
     fullname: >-
-      Cinematrok DORAMAS
+      POP
+    bio: >-
+      POP Culture. Providing Everything! Postamos de TUDO! Música/Anime/Cinema/Séries
     location: "Brazil"
-    followers: 12395
-    engagement: 1550
-    commentsToLikes: 0.012912
-    id: ckamow3u6aqnh0i78qs62jxcu
+    followers: 225900
+    engagement: 1695
+    commentsToLikes: 0.014132
+    id: ckbwiff8i356q0j23ohfovdd2
     verified: false
-    hashtags: "#parkboyoung, #taehyung, #doramamemes, #trechosdoramas"
-  - username: "pliberalesso"
-    fullname: >-
-      Pedro Liberalesso
-    location: "Brazil"
-    followers: 45951
-    engagement: 893
-    commentsToLikes: 0.033558
-    id: ck986ce0ow5bv0j781bldq9vg
-    verified: false
-    hashtags: "#receitaf, #carbonara, #detox, #trufas"
+    hashtags: "#nowunited, #icarly, #popmusic, #sabinahidalgo"
   - username: "leonardorosselli3"
     fullname: >-
       Leonardo Rosselli
+    bio: >-
+      Ator/Figurante para Cinema Tv e Publicidade
     location: "Brazil"
     followers: 29137
     engagement: 802
     commentsToLikes: 0.007839
     id: ck9k8ah2b85ap0j781616o1rd
     verified: false
-    hashtags: "#trump2020, #tiktokbrasil, #myhouse, #gopop"
-  - username: "wbpicturesbr"
+    hashtags: "#usa, #tikttok, #brasil, #argentina"
+  - username: "guilhermediaz"
     fullname: >-
-      Warner Bros Pictures
+      Gui Diaz 🦊
+    bio: >-
+      Jornalista e apresentador • Geek 🇵🇹🇧🇷 Conteúdo: Curiosidades & etc
     location: "Brazil"
-    followers: 22873
-    engagement: 930
-    commentsToLikes: 0.006571
-    id: ck94nrzzn84n60j78youb1bvi
-    verified: true
-    hashtags: "#umaaventuralego2, #emumbairrodenovayork"
-  - username: "klebiodamas"
-    fullname: >-
-      Klébio Damas
-    location: "Brazil"
-    followers: 368524
-    engagement: 2629
-    commentsToLikes: 0.009667
-    id: ck9no2n7ms1860j788i22hwu5
-    verified: true
-    hashtags: "#tutorial, #estudo, #gatos, #novatelaverde"
+    followers: 39500
+    engagement: 1761
+    commentsToLikes: 0.052745
+    id: ckcoygdsda6iu0j23wbiqwzxx
+    verified: false
+    hashtags: "#fy, #foryoupage, #tiktokbrasil, #tiktok"
   - username: "squaloficial"
     fullname: >-
       George Francisco
+    bio: >-
+      Meu código é 29797282 e recebera 2,10$ na sua conta! ATENÇÃO: LIVE às 20h!
     location: "Brazil"
-    followers: 15400
-    engagement: 3146
-    commentsToLikes: 0.037265
+    followers: 15200
+    engagement: 2528
+    commentsToLikes: 0.038398
     id: ck92xhjj7yp4p0j78l3uwgeyj
     verified: false
-    hashtags: "#likeforlikes, #party, #grouper, #foco"
-  - username: "jenyaragon"
+    hashtags: "#tbt, #motivation, #animais, #garra"
+  - username: "ironjnr"
     fullname: >-
-      Jenifer
+      Jnr geo
+    bio: >-
+      
     location: "Brazil"
-    followers: 163417
-    engagement: 737
-    commentsToLikes: 0.010966
-    id: ckamqfsonh7w00i780fgi6sjp
+    followers: 35800
+    engagement: 827
+    commentsToLikes: 0.020645
+    id: ck9r6tcan5azj0j78pvrvb9rv
     verified: false
-    hashtags: "#albumlookalike, #gratid, #boyfriend, #coracao"
-  - username: "kpoppercapopeira"
+    hashtags: "#cinema, #gotalent, #ticktok, #eua"
+  - username: "moviemix.br"
     fullname: >-
-      kpoppercapopeira
+      MOVIE MIX
+    bio: >-
+      
     location: "Brazil"
-    followers: 9253
-    engagement: 2893
-    commentsToLikes: 0.049332
-    id: ckacdumsrk02l0i78705df4bx
+    followers: 54300
+    engagement: 793
+    commentsToLikes: 0.013480
+    id: ck8vvg4uxlouo0j78cbzfpt8b
     verified: false
-    hashtags: "#armysaraghae, #neide, #kpopidol, #koyababy"
-  - username: "claudiopavie"
+    hashtags: "#starwars, #memories, #2020, #edit"
+  - username: "zezinhocorreia"
     fullname: >-
-      Cláudio Pavie
+      Zezinho Correia
+    bio: >-
+      Alegre e Divertido. A perfeição está na simplicidade, o que é simples é perfeito
     location: "Brazil"
-    followers: 11548
-    engagement: 1457
-    commentsToLikes: 0.078155
-    id: ck9naib1naa050j78pb4e6v34
+    followers: 30900
+    engagement: 1806
+    commentsToLikes: 0.628230
+    id: ckck31syqmr3d0j23alngapca
     verified: false
-    hashtags: "#gayman, #poema, #cantandonobanho, #gaychallenge"
+    hashtags: "#foryou, #tiktok, #dueto, #tiktokersvintage"
 ---

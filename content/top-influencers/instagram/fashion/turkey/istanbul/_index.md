@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #blogger #istanbul #bursa #travel.
+  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #style #fashionblogger.
 platform: Instagram
+hits: 381
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 381 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "najmmohammadi"
+  - username: "dua.mnalla"
     fullname: >-
-      Najm Mohammadi
+      Dua Mnalla Alrayess
+    bio: >-
+      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
     location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
+    followers: 53147
+    engagement: 508
+    commentsToLikes: 0.054479
+    id: ckapaz0bay07a0i782q8gesvd
+    verified: false
+    hashtags: "#saudiarabia, #usa, #hijab, #iraq"
+  - username: "iambasel"
+    fullname: >-
+      BASEL ALAHMAD | باسل الأحمد
+    bio: >-
+      📍TURKEY 🇹🇷 • Menswear | Lifestyle • Architect | Fitness 📩 arch.basel994@gmail.com My work @echo__design
+    location: "Turkey"
+    followers: 18529
+    engagement: 468
+    commentsToLikes: 0.191164
+    id: ck13brx30wvnc0i19z6c0wcdx
+    verified: false
+    hashtags: "#menwithstreetstyle, #casuallook, #menwithstyle, #architects"
+  - username: "fulya_olmez"
+    fullname: >-
+      Fulya Ölmez
+    bio: >-
+      #Fashion 🍃 #travel 🍂 @odatiyatrosu #Deruni Romanı📚 #kafkaokur Dergi #edebiyatist Dergi 👉 📩 ffulyaolmez@gmail.com Deruni Romanı 👇
+    location: "Turkey"
+    followers: 19204
+    engagement: 897
+    commentsToLikes: 0.060201
+    id: ckaoz4cbdkb7a0i7894nkw7fo
+    verified: false
+    hashtags: "#turkey, #so, #turkishfollowers, #fashion"
+  - username: "amnajbrn"
+    fullname: >-
+      𝐀𝐌𝐍𝐀 𝐉𝐁𝐑𝐍 🌸
+    bio: >-
+      𝕄𝕆𝔻𝔼𝕃 , 𝕃𝕀𝔽𝔼𝕊𝕋𝕐𝕃𝔼 🌏 بتلاقوا بصفحتي ڤيديوهات للف شالات🧕🏼
+    location: "Turkey"
+    followers: 136918
+    engagement: 458
+    commentsToLikes: 0.008525
+    id: ck15u3zsslbgm0i19q88anjuo
+    verified: false
+    hashtags: "#istanbulturkey, #hijabstyle, #fashion, #istanbul"
+  - username: "kemaldevelioglu"
+    fullname: >-
+      Kemal Develioğlu
+    bio: >-
+      Nişantaşı Premium Danışmanlık Hukuk Başmüşaviri /LegalAdviser 7edi Yatırım Danışmanlık Istanbul Un.Hukuk Fak.. JantiIMan Marka Kurucusu 📍İstanbul
+    location: "Turkey"
+    followers: 32428
+    engagement: 359
+    commentsToLikes: 0.054401
+    id: ck8tbx8urxjft0j78s961ko89
+    verified: false
+    hashtags: "#businessman, #gentlemanstyle, #tie, #winery"
+  - username: "jessicaalvesuk"
+    fullname: >-
+      Jessica Alves
+    bio: >-
+      Television Personality📺Speak 6 languages🇩🇪🇪🇸🇫🇷🇧🇷🇮🇹🇬🇧Jetsetter🛰Fashionista👗Make up & Beauty lover🎉 📧 for collaborations jessicaalves2019@yahoo.com
+    location: "Turkey"
+    followers: 1201155
+    engagement: 106
+    commentsToLikes: 0.031697
+    id: ck5hclroiiqaq0i11xnk3l8h1
+    verified: true
+    hashtags: "#moda, #cappadocia, #fashion, #istanbul"
+  - username: "fg_diaries_"
+    fullname: >-
+      fl🌞ra
+    bio: >-
+      Hungarian living in Istanbul I take photos @flora_photographs Collab: gfloraphotographs@gmail.com I have a YouTube channel 👇🏽
+    location: "Turkey"
+    followers: 36552
+    engagement: 96
+    commentsToLikes: 0.132459
+    id: ck0w362a0rrmz0i19x63553h0
+    verified: false
+    hashtags: "#fashion, #istanbul, #fashionblogger, #pinterest"
+  - username: "matt_najm"
+    fullname: >-
+      Matt
+    bio: >-
+      📍Based in Istanbul🇹🇷 Height:186 📩
+    location: "Turkey"
+    followers: 10809
+    engagement: 1614
+    commentsToLikes: 0.065891
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
-  - username: "bir_tutkudur_koyun"
+    hashtags: "#live, #iran, #dubai, #video"
+  - username: "sarafeyz_makeup"
     fullname: >-
-      koyun_sevdalilari
+      S A R A  F E Y Z  | سارا فيض
+    bio: >-
+      MAKEUP CREATOR➖PRO MUA ——————————— 📍istanbul-turkey🇹🇷 ⛔️ DM me for Promotion & Collaboration 📩email: sarafeyz.beauty@gmail.com 📎YouTube Channel:
     location: "Turkey"
-    followers: 19615
-    engagement: 234
-    commentsToLikes: 0.015735
-    id: ck8tadgjjrbb40j78oji4f4c8
+    followers: 45950
+    engagement: 1269
+    commentsToLikes: 0.070369
+    id: ckap2mfk5zh7y0i78t1tahvpr
     verified: false
-    hashtags: "#travel, #ukraine, #anadoluhisar, #anadolulisesi"
-  - username: "p_i__x__e_l"
+    hashtags: "#makiyaj, #makeuptutorial, #makeupartistsworldwide, #makeupartististanbul"
+  - username: "grame90"
     fullname: >-
-      Sezer Sahinoglu
+      Ramil Guliyev
+    bio: >-
+      🇦🇿İki 🇹🇷devlet bir milet 🇹🇷 Turkey Team #FenerbahceSK @grame90_fitness 🥇 World Champ 🥇 European Champ 100m 9:97🏁 200m 19:76🏁
     location: "Turkey"
-    followers: 50364
-    engagement: 343
-    commentsToLikes: 0.235578
-    id: ck5qcr1xerxfk0i11bi2zcetv
-    verified: false
-    hashtags: "#japan, #yourmannheim, #turkiyevizor, #zamanidurdur"
-  - username: "dunyayigezenkiz"
-    fullname: >-
-      AHSEN TALYA ÇEBİ KURTUL
-    location: "Turkey"
-    followers: 13065
-    engagement: 778
-    commentsToLikes: 0.228171
-    id: ck0w5c75o2xop0i19ty31txma
-    verified: false
-    hashtags: "#ourplanetdaily, #girlstyle, #discovery, #lovetheworld"
-  - username: "kubrakiliiccc"
-    fullname: >-
-      K Ü B R A K I L I Ç👸🏻
-    location: "Turkey"
-    followers: 7295
-    engagement: 1054
-    commentsToLikes: 0.054808
-    id: ck8t35pum1z7g0j784bnm91ir
-    verified: false
-    hashtags: "#komedi, #sevmedi, #zeynepbastik, #tiyatro"
-  - username: "yasminn__simsek"
-    fullname: >-
-      Yasemin Yetkin
-    location: "Turkey"
-    followers: 29751
-    engagement: 361
-    commentsToLikes: 0.048970
-    id: ck0txr893k8gv0i19m05wkxk7
-    verified: false
-    hashtags: "#winter, #thegrilgang, #sokakmodasi, #saturday"
-  - username: "whasani"
-    fullname: >-
-      Hasan Telatar
-    location: "Turkey"
-    followers: 12063
-    engagement: 706
-    commentsToLikes: 0.029649
-    id: ck6u8r00pt5tv0j71o8v5wkm3
-    verified: false
-    hashtags: "#hastasiyiz"
-  - username: "jihadebenalluch"
-    fullname: >-
-      Jıhad BenAllouch
-    location: "Turkey"
-    followers: 791656
-    engagement: 206
-    commentsToLikes: 0.010082
-    id: ck5bw53wml0m80i11hekqnivm
-    verified: false
-    hashtags: "#quarantinelife, #good, #stayhome, #relaxing"
-  - username: "sacvemakyajdunyasi"
-    fullname: >-
-      Saç Ve Makyaj Dünyası
-    location: "Turkey"
-    followers: 503177
-    engagement: 17
-    commentsToLikes: 0.078996
-    id: ck5zs0y08xm7o0i14luxeix00
-    verified: false
-    hashtags: "#makyajvideolari, #makeupjunkie, #morphegirl, #nyxcosmeticsgermany"
-  - username: "zetfashion"
-    fullname: >-
-      Zuhal Okcu Özden
-    location: "Turkey"
-    followers: 65314
-    engagement: 631
-    commentsToLikes: 0.398714
-    id: ckaoyf98wh9yi0i783htgm9g0
-    verified: false
-    hashtags: "#zetmutfakta, #summer, #summertime"
+    followers: 67151
+    engagement: 280
+    commentsToLikes: 0.010793
+    id: ck0txg652izs30i19b07igk5w
+    verified: true
+    hashtags: "#fast, #nikerunner, #running, #winner"
 ---

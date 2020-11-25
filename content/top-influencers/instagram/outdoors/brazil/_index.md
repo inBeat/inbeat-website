@@ -1,107 +1,130 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Brazil In 2020
 description: >-
-  Find top outdoors Instagram influencers in Brazil in 2020. Most popular hashtags: #outdoors #sunset #instapic #humans.
+  Find top outdoors Instagram influencers in Brazil in 2020. Most popular hashtags: #outdoors #adventure #nature #aventura.
 platform: Instagram
+hits: 243
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 243 Instagram influencers like this in Brazil for you to connect with.
 profiles:
-  - username: "villmarks_siv"
+  - username: "snapping_wild"
     fullname: >-
-      Siv Karin Ravndal 🌲🐾
+      SnappingWild
+    bio: >-
+      Josh & Britta, traveling couple from New Zealand, love the outdoors & spotting wildlife 🇳🇿📷🦅🦉🐿🦊🐻🐯
     location: "Brazil"
-    followers: 58196
-    engagement: 693
-    commentsToLikes: 0.010543
-    id: ck0vx3s8uwzwu0i199h9devcp
+    followers: 9379
+    engagement: 806
+    commentsToLikes: 0.025256
+    id: ckaoxea8kcvyz0i78uevh1gn0
     verified: false
-    hashtags: "#outfitoftheday, #jagt, #iamsprtsman, #skittfiske"
+    hashtags: "#korimako"
+  - username: "explorandoocanada"
+    fullname: >-
+      Explorando o Canadá
+    bio: >-
+      Cintia Aquino 🏔Outdoors | Adventure | Travel 📍Brazilian living in Calgary 🇨🇦 📸Taking photos & chasing adventure
+    location: "Brazil"
+    followers: 3383
+    engagement: 1162
+    commentsToLikes: 0.072229
+    id: ckap7t6j0lg6x0i78bic87ujh
+    verified: false
+    hashtags: "#merknmountains, #winteriscoming, #albertatourism, #blackshalesuspensionbridge"
+  - username: "charlysinewan"
+    fullname: >-
+      Sinewan
+    bio: >-
+      Llevo once años dando la vuelta al mundo en moto, por etapas. ¿Me acompañas? #viajar #motos #aventura #outdoors #nomadas
+    location: "Brazil"
+    followers: 124357
+    engagement: 527
+    commentsToLikes: 0.016432
+    id: ck5zpumrptdna0i148b3z3wz1
+    verified: false
+    hashtags: "#sinewan, #aventura, #viajar, #bmwf850gsadventure"
   - username: "survival_movement"
     fullname: >-
       End Days Survival
+    bio: >-
+      🏜️ | #enddayssurvival 🏞️ | #bushcrafting 🤠 | #outdoors 👪 | #survivaltips Find our pandemic survival guide below👇
     location: "Brazil"
-    followers: 12950
-    engagement: 268
-    commentsToLikes: 0.014961
+    followers: 12369
+    engagement: 315
+    commentsToLikes: 0.015867
     id: ck137layrc49w0i19vt46rqbg
     verified: false
-    hashtags: "#istandprepared, #natureiscalling, #wildlifeaddicts, #survivalmovement"
-  - username: "vagnersome"
+    hashtags: "#bushcraftskills, #woodland, #survival, #bushcraftandsurvivaltribe"
+  - username: "villmarks_siv"
     fullname: >-
-      SOME ® Graffiti
+      Siv Karin Ravndal 🌲🐾
+    bio: >-
+      Outdoors girl🌿 Huntress🍂 Jämthund🐕 Fisher🎣 Norway🇳🇴 Ambassador🐾🍃 ▪️ J.P Sauer ▪️Leica
     location: "Brazil"
-    followers: 8394
-    engagement: 415
-    commentsToLikes: 0.012677
-    id: ck6u8dt7oqzsh0j71za5nm6kr
+    followers: 57274
+    engagement: 682
+    commentsToLikes: 0.009586
+    id: ck0vx3s8uwzwu0i199h9devcp
     verified: false
-    hashtags: "#outdoors"
-  - username: "kah_cr"
+    hashtags: "#jakt, #supressednation, #whatgetsyououtdoors, #huntress"
+  - username: "ranougraphy"
     fullname: >-
-      KARINA CATUZZO | A+
+      𝑹𝒂𝒏𝒊𝒂 𝑮.
+    bio: >-
+      📍𝐴𝑙𝑔𝑒𝑟𝑖𝑎 23 | 𝑃ℎ𝑜𝑡𝑜𝑔𝑟𝑎𝑝ℎ𝑒𝑟 📷/ 𝑅𝑒𝑡𝑜𝑢𝑐ℎ𝑒𝑟 ✍ #portrait || #wedding DM or email me at: contact.ranougraphy@gmail.com
     location: "Brazil"
-    followers: 9856
-    engagement: 1878
-    commentsToLikes: 0.034605
-    id: ck138u3lai0xf0i19016v2oqp
+    followers: 31947
+    engagement: 494
+    commentsToLikes: 0.039055
+    id: ck0w10cn5gxfk0i19iietk0x0
     verified: false
-    hashtags: "#holiday, #neelixmusic, #work, #premierleague"
-  - username: "gabrielafoletto"
+    hashtags: "#editorials, #africangirl, #inspiration, #naquashchallenge"
+  - username: "pv_radical"
     fullname: >-
-      Gabriela Foletto
+      lifestyle . gopro . canon dji
+    bio: >-
+      🖥⌨️🖱 Empresário 🚲 Piloto offroad (sherco factory) 📸fotógrafo 🎥🎞 vídeomaker ♻️Founder @salvamar.rj 🚤🌴Passeios de lancha no Rio de janeiro🌴🚤 @naproa_rio
     location: "Brazil"
-    followers: 17686
-    engagement: 1636
-    commentsToLikes: 0.030287
-    id: ck134bkxbvn420i19ugs22g5b
+    followers: 28657
+    engagement: 164
+    commentsToLikes: 0.113106
+    id: ck5q26g96ehp60i11intbthgz
     verified: false
-    hashtags: "#natureza, #agronomy, #agronomia, #black"
-  - username: "bettertogether.everywhere"
+    hashtags: "#destinosnacionais, #motocrossrules, #motocrossismylive, #motocrossparkajka"
+  - username: "josimenegazzi"
     fullname: >-
-      Mafalda🇵🇹 & Hugo🇿🇦🇵🇹
+      Josiele Menegazzi ॐ
+    bio: >-
+      ANDO MEIO OFF ✨ Em busca do Rigpa e do Samadhi ✨ ओम् मणि पद्मे हुं 🌻🧘🏻‍♀️📿🔮🏕🐈🐕🐮🐣🐷🌱 Politicamente incorreta e sensata 🧠 Confere lá ⬇️ @vista.delacumbre
     location: "Brazil"
-    followers: 5524
-    engagement: 902
-    commentsToLikes: 0.125668
-    id: ck6u8lrkpsc240j71h93rlkaq
+    followers: 9033
+    engagement: 1029
+    commentsToLikes: 0.023061
+    id: ck0tvtpftcqqf0i19ekz2fxim
     verified: false
-    hashtags: "#beautifulplaces, #portugalunido, #igersperu, #coronavirus"
-  - username: "fialhojoanna"
+    hashtags: "#aventureirosdosul, #trekkingbrasil, #paraty, #exploretrilhas"
+  - username: "thamyres_felix_felix"
     fullname: >-
-      Joanna Fialho 👸🏻🇧🇷🇺🇸
+      Thamyres Felix 🧿
+    bio: >-
+      @betochassi88 ❤️ THAMY🧿📿 Consultora de moda 💁🏻‍♀️ Um bom vinho 🍷 sempre é bom Seja forte e corajoso Gratidão 🙏 Tudo posso naquele que mim fortalecer
     location: "Brazil"
-    followers: 19180
-    engagement: 826
-    commentsToLikes: 0.044324
-    id: ck5c4bflp0zzt0i11ulf996vh
+    followers: 15618
+    engagement: 558
+    commentsToLikes: 0.022220
+    id: ckaos8xndqn1y0i78s9tv1wzb
     verified: false
-    hashtags: "#gatinha, #happyeaster, #kidinfluencers, #serdeluz"
-  - username: "isabelaa_cruz"
+    hashtags: "#catsofinstagram, #healthyfood, #girls, #instadaily"
+  - username: "andrebucater"
     fullname: >-
-      isabela cruz
+      André Bucater
+    bio: >-
+      Treinador @wego.sports • Corrida de Rua I Trail Running • Ciclismo I Mountain Bike • Eventos Outdoor
     location: "Brazil"
-    followers: 6921
-    engagement: 1062
-    commentsToLikes: 0.070634
-    id: ck5hh2rtb62u50i11t7h38g4y
+    followers: 7077
+    engagement: 867
+    commentsToLikes: 0.053718
+    id: ckaovi22x4n8z0i78djag4isf
     verified: false
-    hashtags: "#vidaemportugal, #vamosvencer, #bloggerstyle, #roadtrip"
-  - username: "karineeabrahim"
-    fullname: >-
-      Karinee Abrahim
-    location: "Brazil"
-    followers: 27471
-    engagement: 247
-    commentsToLikes: 0.070453
-    id: ck8t1u96sx22x0j78iag9d7hw
-    verified: false
-    hashtags: "#beachgirl, #salvejorge, #carioquissimo, #tattooink"
-  - username: "itiacharya"
-    fullname: >-
-      Iti Acharya
-    location: "Brazil"
-    followers: 52013
-    engagement: 284
-    commentsToLikes: 0.047630
-    id: ck5bwmwtvm0f70i1150ju9pi5
-    verified: true
-    hashtags: "#throwback, #supportive, #greatest, #goldenhour"
+    hashtags: "#ultratrail, #amocorrer, #runnerslife, #skyrunner"
 ---

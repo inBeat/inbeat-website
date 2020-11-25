@@ -1,107 +1,130 @@
 ---
 title: Top 10 Athletes Instagram Influencers In United States In 2020
 description: >-
-  Find top athletes Instagram influencers in United States in 2020. Most popular hashtags: #happymothersday #love #smileeveryday #positivevibes.
+  Find top athletes Instagram influencers in United States in 2020. Most popular hashtags: #fall #fitness #beach.
 platform: Instagram
+hits: 3168
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 3168 Instagram influencers like this in United States for you to contact.
 profiles:
-  - username: "sarkar.shaina"
+  - username: "kuhubhosle"
     fullname: >-
-      Shaina Sarkar
+      Kuhu Bhosle
+    bio: >-
+      Athlete
     location: "United States"
-    followers: 59888
-    engagement: 103
-    commentsToLikes: 0.043495
-    id: ck137ey6nb7ks0i19peo5p8gn
+    followers: 7451
+    engagement: 957
+    commentsToLikes: 0.031580
+    id: ck6tsfsdk4isj0j71yy3w18e5
     verified: false
-    hashtags: "#sareelove, #ibff, #modellife, #white"
+    hashtags: "#bodyholics, #ifbbbikini, #hardwork, #miihiersinghprep"
+  - username: "stanleynormansurfer"
+    fullname: >-
+      Stan Norman
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 5818
+    engagement: 724
+    commentsToLikes: 0.020955
+    id: ck5znz0o6pfe20i14elkfn2e6
+    verified: false
+    hashtags: "#ambassador, #sponsored, #heyletsgo, #hydroflask"
   - username: "tylerlawrencegray"
     fullname: >-
       Tyler Gray
+    bio: >-
+      Athlete+ Actor Protege Entertainment/Aka Talent Tik Tok- Tylerlawrencegray- 152k Snapchat- Viking_38
     location: "United States"
-    followers: 7936
-    engagement: 1888
-    commentsToLikes: 0.099412
+    followers: 15967
+    engagement: 2301
+    commentsToLikes: 0.108802
     id: ckaoz5oalkhcf0i78gynrcz9q
     verified: false
-    hashtags: "#rock, #surfing, #vibes, #actors"
-  - username: "annikamichelle1"
+    hashtags: "#acting, #capecod, #skate, #la"
+  - username: "daniellebredenhof"
     fullname: >-
-      Annika Michelle
+      Danielle Bredenhof | Fitness
+    bio: >-
+      🦋 20 | Fitness & Nutrition 🤍 @foodspring athlete Founder @fit.andfeminine Train with me! 👇🏼 Booty building program
     location: "United States"
-    followers: 68054
-    engagement: 1203
-    commentsToLikes: 0.052426
-    id: ck137q5spctbh0i19syo4wbtf
-    verified: true
-    hashtags: "#enjoylife, #lovemexicanfood, #travelgram, #celebratemom"
-  - username: "eamon_zayed12"
-    fullname: >-
-      Eamon Zayed
-    location: "United States"
-    followers: 556895
-    engagement: 765
-    commentsToLikes: 0.030878
-    id: ck0vvrf3jqfhx0i19beap0dht
-    verified: true
-    hashtags: "#familyfirst, #indyeleven, #proudagain, #paddysday"
-  - username: "lottie.karate"
-    fullname: >-
-      Charlotte Singleton🏕🏔
-    location: "United States"
-    followers: 10634
-    engagement: 1974
-    commentsToLikes: 0.112059
-    id: ckaoxby0qco3h0i78fgko15bq
+    followers: 22458
+    engagement: 1148
+    commentsToLikes: 0.077520
+    id: ck8t2wmkk0yww0j78l7t8y7i6
     verified: false
-    hashtags: "#instavideos, #sundayworkout, #memorialday, #karateca"
+    hashtags: ""
+  - username: "steph_outside"
+    fullname: >-
+      Steph
+    bio: >-
+      Momma of 3 feisty girls. Wife to 1 superhuman endurance athlete. Sometimes I write things.
+    location: "United States"
+    followers: 68177
+    engagement: 2279
+    commentsToLikes: 0.051171
+    id: ck5zloaq0l3cc0i14b4viaocw
+    verified: false
+    hashtags: ""
   - username: "samburns66"
     fullname: >-
       Sam Burns
+    bio: >-
+      Christ Follower | Professional golfer @callawaygolf @adidasgolf @mastercard @sentinelsec @netjets and @originbank athlete.
     location: "United States"
-    followers: 9804
-    engagement: 1630
-    commentsToLikes: 0.164204
+    followers: 10531
+    engagement: 1586
+    commentsToLikes: 0.224225
     id: ck6tq6euppngv0j7147bxaoil
     verified: true
-    hashtags: "#lehgeaux, #adidasgolf, #sentinelone, #startsomethingpriceless"
-  - username: "pedroneto_30"
+    hashtags: "#primeblue, #createdwithadidas, #hometeam, #lehgeaux"
+  - username: "lottie.karate"
     fullname: >-
-      
+      Charlotte Singleton🏕🏔
+    bio: >-
+      🙏Philippians 4:13🙏 🥋🇺🇸Karate Athlete 2019 USA National Champion 🥇 Be humble. Be hungry. And always be the hardest worker in the room. Managed by Mom
     location: "United States"
-    followers: 67700
-    engagement: 1145
-    commentsToLikes: 0.048140
-    id: ck0w7433ubnif0i19o3l0ytzz
+    followers: 17162
+    engagement: 1289
+    commentsToLikes: 0.091944
+    id: ckaoxby0qco3h0i78fgko15bq
+    verified: false
+    hashtags: "#lottiekarate, #martialartist, #karatedo, #karat"
+  - username: "kenleyjansen74"
+    fullname: >-
+      Kenley Jansen
+    bio: >-
+      Husband and father, @dodgers closer 🇨🇼. @jumpman23 athlete. @kenleyjansenfdn.
+    location: "United States"
+    followers: 233741
+    engagement: 776
+    commentsToLikes: 0.035800
+    id: ck55krubpzybo0i11hsejo720
     verified: true
-    hashtags: "#stayathome"
-  - username: "hannah_hussein13"
+    hashtags: "#dodgers, #curacao, #worldseries, #cura"
+  - username: "itsmakmiller"
     fullname: >-
-      Hannah Hussein
+      Makenna Miller
+    bio: >-
+      🏡 Real Estate Agent #berkshirehathaway @gymmolly Athlete | Code: “makenna20” @restore_eastictks | Code: “Mak30”
     location: "United States"
-    followers: 20690
-    engagement: 924
-    commentsToLikes: 0.064458
-    id: ckap1bjpptvj70i78055lxwck
+    followers: 39144
+    engagement: 722
+    commentsToLikes: 0.083980
+    id: ck8t6od7eeakv0j78sv76w2j3
     verified: false
-    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
-  - username: "niv_bekerman"
+    hashtags: "#ocean, #postworkout, #blonde, #vacation"
+  - username: "codyrigsby"
     fullname: >-
-      Niv Bekerman
+      Cody Rigsby
+    bio: >-
+      ➖He/ Him ➖Peloton Cycling Director ➖Mindful Athlete ➖Opinionated Homosexual
     location: "United States"
-    followers: 6577
-    engagement: 1348
-    commentsToLikes: 0.099221
-    id: ck6u9ea5nx1zo0j713wmu7z2r
-    verified: false
-    hashtags: "#beastofstatic, #random, #nopower, #hardworkpaysoffs"
-  - username: "riserfit"
-    fullname: >-
-      Joseph Riser
-    location: "United States"
-    followers: 21266
-    engagement: 1027
-    commentsToLikes: 0.058959
-    id: ck9wg7ef8s8930j78kq50wxuq
-    verified: false
-    hashtags: ""
+    followers: 414045
+    engagement: 786
+    commentsToLikes: 0.026186
+    id: ck55n4eku5gcs0i11idru49tq
+    verified: true
+    hashtags: "#wap, #vote"
 ---

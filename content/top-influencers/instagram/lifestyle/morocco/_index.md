@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Morocco In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Morocco in 2020. Most popular hashtags: #travellover #stayhome #outfitoftheday #redlipstick.
+  Find top lifestyle Instagram influencers in Morocco in 2020. Most popular hashtags: #style #fashion #makeup #morocco.
 platform: Instagram
+hits: 165
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 165 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "rababe_gyd"
+  - username: "hermine_buhendwa"
     fullname: >-
-      • 𝐑𝐀𝐁𝐀𝐁𝐄 رباب 𝐆𝐘𝐃 ✨
+      Hermine | TRAVEL BLOGGER
+    bio: >-
+      🌍| Travel & Lifestyle 🎥| YTB: Hermine Buhendwa 📍| Belgium based | From 🇨🇩 📧| COLLABS: herminebuhendwa@gmail.com 👩🏾‍💻| CEO: @minalashes_official
     location: "Morocco"
-    followers: 71941
-    engagement: 575
-    commentsToLikes: 0.089958
-    id: ck13c4148yigm0i19f13twd8n
+    followers: 7849
+    engagement: 1218
+    commentsToLikes: 0.086176
+    id: ck8t99iwvnazw0j78qziwx2jx
     verified: false
-    hashtags: "#honey, #stayingpositive, #cosmetics, #chocolatelover"
+    hashtags: "#marrakech, #blackpassportstamps, #millenialtravel, #blacktravelculture"
+  - username: "_kawtar1"
+    fullname: >-
+      K  A  W  T  A  R | كوثر 🕊
+    bio: >-
+      إمرأة تعرف من أين يُؤكَل الفرح ﷽ ☪️ Influencer | blogger For collaboration 📥 #mohammedia #morocco ▪︎makeup , beauty , lifestyle , fashion ,hijaber
+    location: "Morocco"
+    followers: 26317
+    engagement: 633
+    commentsToLikes: 0.071920
+    id: ckap025c2oe0s0i781y7gp2rl
+    verified: false
+    hashtags: "#hijabootd, #modesty, #chichijab, #hijabstyleicon"
   - username: "mohsinh__"
     fullname: >-
       Mohsin
+    bio: >-
+      Lifestyle Snapchat : Mohsenalnssar For business : Mohsenalnssar@icloud.com : +965 66655423
     location: "Morocco"
-    followers: 746217
-    engagement: 470
-    commentsToLikes: 0.148320
+    followers: 713724
+    engagement: 319
+    commentsToLikes: 0.134363
     id: ck5hg0esb098x0i11kfop7lk5
     verified: true
-    hashtags: "#nmd, #caronavibs, #stayhome, #700"
-  - username: "sashannr"
+    hashtags: "#galaxyzfold2, #teamgalaxy, #ad, #withgalaxy"
+  - username: "chaymae_fit"
     fullname: >-
-      S A S H A⋆✈️🌿Travel + Wellness
+      🇲🇦C H A Y M A E 🇲🇦
+    bio: >-
+      •fitness & lifestyle •sport & musculation
     location: "Morocco"
-    followers: 2558
-    engagement: 1919
-    commentsToLikes: 0.332658
-    id: ckap3ha6z2zxu0i78bws33m0g
+    followers: 10500
+    engagement: 985
+    commentsToLikes: 0.057199
+    id: ckf5wnyajsorm0j239kfgok1n
     verified: false
-    hashtags: "#nusapenida, #ubud, #seminyak, #africantectonicplate"
-  - username: "world.of.lina"
+    hashtags: "#agadir, #nevergiveupyourdreams, #moroco, #agadirmarina"
+  - username: "salwaanlouff"
     fullname: >-
-      A L I N A ღ
+      SALWA ANLOUF ✨ سلوى أنلوف
+    bio: >-
+      • Lifestyle, fashion and lots of Fun. • Finalist on X factor Arabia 2013. • Business inquiries📩Anloufcontact@gmail.com • Good vibes only✨💃 #bepositive
     location: "Morocco"
-    followers: 8071
-    engagement: 1029
-    commentsToLikes: 0.316547
-    id: ck0w2w701qguk0i196l77s0wx
+    followers: 616701
+    engagement: 790
+    commentsToLikes: 0.009443
+    id: ck139ax93keda0i1975y3574a
     verified: false
-    hashtags: "#aitbenhaddou, #londontravel, #stayandwander, #hallstatt"
-  - username: "nadaayamanii"
+    hashtags: "#skincare, #lessence, #haircare, #boost"
+  - username: "youssra.daoudi_"
     fullname: >-
-      Nada Yamani
+      YOUSSRA•DAOUDI
+    bio: >-
+      シHumor-acting-comedy | lifestyle For collaboration : 💼youssraa19@gmail.com
     location: "Morocco"
-    followers: 109871
-    engagement: 342
-    commentsToLikes: 0.064282
-    id: ck0uestgdm4uf0i19m4byagjc
+    followers: 45235
+    engagement: 171
+    commentsToLikes: 0.046708
+    id: ckap2egityhcm0i78f3wy2vys
     verified: false
-    hashtags: "#coupdeblues, #dontrushmorocco, #girlboss"
-  - username: "miriamalegria"
-    fullname: >-
-      Miriam Alegría|Foto + Blogger
-    location: "Morocco"
-    followers: 86971
-    engagement: 229
-    commentsToLikes: 0.248855
-    id: ck14jvngfmf190i191l2fleob
-    verified: false
-    hashtags: "#healthyathome, #cocinarencasa, #postresfaciles, #codigo"
-  - username: "riyadikey"
-    fullname: >-
-      Riyad
-    location: "Morocco"
-    followers: 19539
-    engagement: 348
-    commentsToLikes: 0.437287
-    id: ck5hjzy9chjpt0i11aisfsli5
-    verified: false
-    hashtags: "#lejokerdansmk11, #sponsoris, #mortalkombat11, #mk11"
-  - username: "happylittlefrenchie"
-    fullname: >-
-      Ouiame 💫
-    location: "Morocco"
-    followers: 9568
-    engagement: 542
-    commentsToLikes: 0.200580
-    id: ck5hmgq2ylx710i111jf5gxxd
-    verified: false
-    hashtags: "#style, #bodyfirming, #neutralstyle, #parisianstyle"
-  - username: "sfatimazahraa"
-    fullname: >-
-      Fatimazahra Sel 🇲🇦
-    location: "Morocco"
-    followers: 40716
-    engagement: 115
-    commentsToLikes: 0.231770
-    id: ckaoult3v0tp10i78ezrrkgyz
-    verified: false
-    hashtags: "#photooftheday, #happy, #cute, #hijabolshop"
+    hashtags: "#acting, #comedy, #instavideo, #videooftheday"
   - username: "marouwa"
     fullname: >-
       Maroua
+    bio: >-
+      Here to create ✨ Lifestyle| music | travel and FUN! •💍 Married •📍Tangier, Morocco •🎬 Check out my my YouTube video:
     location: "Morocco"
-    followers: 5273
-    engagement: 1465
-    commentsToLikes: 0.063970
+    followers: 6947
+    engagement: 1208
+    commentsToLikes: 0.055781
     id: ck8tdcl8s2tce0j78ce1q5198
     verified: false
-    hashtags: "#homedecor, #eidmoubarak, #summersaus, #stayathome"
+    hashtags: "#moroccan, #marocaine, #travelblogger, #girly"
+  - username: "yasminadaas"
+    fullname: >-
+      Yasmine Daas | ياسمين دعاس
+    bio: >-
+      Personal Style | Fashion | Travel | Beauty | Lifestyle Palestinian✌🏻 Contact: daasisgood@gmail.com YouTube: YASMINE DAAS | Styling page: @yd.styling
+    location: "Morocco"
+    followers: 51785
+    engagement: 418
+    commentsToLikes: 0.044766
+    id: ck14j2idqiauu0i194hnqzaoe
+    verified: false
+    hashtags: "#bloggerstyle, #lockdownlife, #covid, #fashionblogger"
+  - username: "sfatimazahraa"
+    fullname: >-
+      Fatimazahra Sel 🇲🇦
+    bio: >-
+      💄/ Fashion beauty & lifestyle 🕊/ hijab 📍/ RABAT 📥/ For collaborations fatimazohra.selhami@gmail.com
+    location: "Morocco"
+    followers: 37189
+    engagement: 193
+    commentsToLikes: 0.206039
+    id: ckaoult3v0tp10i78ezrrkgyz
+    verified: false
+    hashtags: "#fashionblogger, #look, #makeup, #photoshoot"
+  - username: "feda_mak"
+    fullname: >-
+      FEDA MAHMOUD  |  فداء محمود
+    bio: >-
+      Interior Architect 📐 Beauty-Fashion-lifestyle 📍living in Jerusalem -القدس Jordanian 🇯🇴 🇲🇦🇵🇸married💍 Snapchat: Feda_mak Working at @JACCO_autism
+    location: "Morocco"
+    followers: 83864
+    engagement: 168
+    commentsToLikes: 0.270438
+    id: ck13655vr4sss0i19cn2wpfmj
+    verified: false
+    hashtags: "#jordan, #blogger, #staysafe, #quarantine"
 ---

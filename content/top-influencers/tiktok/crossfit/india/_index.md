@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit TikTok Influencers In India In 2020
 description: >-
-  Find top crossfit TikTok influencers in India in 2020. Most popular hashtags: #crossfit #challenge #backworkout #yummy.
+  Find top crossfit TikTok influencers in India in 2020. Most popular hashtags: #crossfit #fitness #workout #motivation.
 platform: TikTok
+hits: 21
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 21 TikTok influencers like this in India for you to pitch.
 profiles:
-  - username: "chefkelvincheung"
-    fullname: >-
-      Kelvin Cheung
-    location: "India"
-    followers: 7588
-    engagement: 624
-    commentsToLikes: 0.020766
-    id: cka0x4nrz5ic60i78dqweoclk
-    verified: true
-    hashtags: "#banana, #smoothie, #bacon, #sugar"
   - username: "vivek_jr_cr"
     fullname: >-
       vivek jr cr
+    bio: >-
+      Instagram id @vivek_jr_cr fitness freak OCR🏃 Calisthenics 🏋️ CrossFit 🤸
     location: "India"
     followers: 25215
     engagement: 877
     commentsToLikes: 0.012244
     id: cka0l2dlxp67d0i7866jfp2oi
     verified: false
-    hashtags: "#ocrathlete, #fitaman, #motivetion, #shoulderworkout"
+    hashtags: "#champibeats, #crossfit, #fitindia, #athletics"
+  - username: "vijayworkout"
+    fullname: >-
+      The Vijay singh
+    bio: >-
+      Dosto ye YouTube Button 👆dawa kr Mera YouTube channel:Vijay Workout jarur dekhe
+    location: "India"
+    followers: 48400
+    engagement: 1184
+    commentsToLikes: 0.034691
+    id: ckbkr9901lotg0j23cb5fz2ki
+    verified: false
+    hashtags: "#gym, #vijay, #armylover, #armwrestling"
   - username: "ajay__sangwan"
     fullname: >-
       Ajju
+    bio: >-
+      💪 जाट 😎 🙏 HARYANA 🙏 🇮🇳🇮🇳NEVER GIVE UP🇮🇳🇮🇳
     location: "India"
-    followers: 58587
-    engagement: 1405
-    commentsToLikes: 0.008173
+    followers: 57400
+    engagement: 1375
+    commentsToLikes: 0.008702
     id: ck81s2gnrpioy0j78tgao9nsi
     verified: false
-    hashtags: "#tiktot, #punjabi, #challenge, #only"
+    hashtags: "#tiktokindia, #nevergiveup, #me, #song"
   - username: "thebeastmotivation"
     fullname: >-
       motivation
+    bio: >-
+      manage by meghraj singh if u want to see my real body so visit @fitmeghraj
     location: "India"
-    followers: 91883
-    engagement: 1379
-    commentsToLikes: 0.003917
+    followers: 93800
+    engagement: 1309
+    commentsToLikes: 0.003729
     id: ck81s2n4ipk1j0j78bcaxyo1t
     verified: false
     hashtags: ""
-  - username: "olympia3233"
+  - username: "meenakumaripawar"
     fullname: >-
-      Sardarni💪
+      user8432963573659
+    bio: >-
+      meenakumari international weightlifter strongest women of india
     location: "India"
-    followers: 54312
-    engagement: 1884
-    commentsToLikes: 0.104828
-    id: ck9eukia1e6f10j78ss4mdf8m
+    followers: 16800
+    engagement: 1195
+    commentsToLikes: 0.000000
+    id: ckbf1cj2nndip0j23zlpoyjc8
     verified: false
-    hashtags: "#biecepsworkout, #missyougym, #absworkout, #gymworkoutsong"
-  - username: "ranjitamishra5"
+    hashtags: "#crossfit, #gymlover, #sidhumoosewala, #tiktoktrends"
+  - username: "performixathlete"
     fullname: >-
-      Ranjita Mishra
+      💪Performix Anish🥊
+    bio: >-
+      STREET WORKOUT🏋️‍♀️ FIT HAI TOH HIT HAI 🧗‍♂️ PROUD TO BE SOLDIER🇧🇴 PROTIEN❤️
     location: "India"
-    followers: 46017
-    engagement: 1633
-    commentsToLikes: 0.039590
-    id: ck7zo70cqieit0j78mpaglhc3
+    followers: 30500
+    engagement: 1013
+    commentsToLikes: 0.006189
+    id: ck81s2mhfpjwf0j78bw12b0t2
     verified: false
-    hashtags: "#trend, #instagood, #lockdown, #expression"
-  - username: "simrankaur2711"
+    hashtags: "#abs, #fitnessindia, #streetworkout, #indianarmy"
+  - username: "sergi0371"
     fullname: >-
-      Insta kaur56simran
+      💪SERGI
+    bio: >-
+      💪fitness model My dream 500k ❤hearts please support
     location: "India"
-    followers: 241988
-    engagement: 752
-    commentsToLikes: 0.037914
-    id: ck9eukhome69y0j7876bophsa
+    followers: 29700
+    engagement: 1461
+    commentsToLikes: 0.001344
+    id: ckav1mpcl7pw70j23k8pjxw78
     verified: false
-    hashtags: "#singlelegsquat, #tiktokchallenge, #sidefat, #chestworkout"
-  - username: "vickythakur1365"
+    hashtags: "#workout, #gym, #doubleexposure, #foryoupage"
+  - username: "sabiifitnessfreak1986"
     fullname: >-
-      Vicky Thakur
+      Gursewak Singh
+    bio: >-
+      Follow me on Instagram @sabiifitnessfreak1986 🔴Libran-born to 🏋🏆
     location: "India"
-    followers: 4875
-    engagement: 1279
-    commentsToLikes: 0.007772
-    id: cka84rppyv4ur0i78tdznr3gw
+    followers: 15100
+    engagement: 831
+    commentsToLikes: 0.022047
+    id: ckbw90f3szfxx0j23b8i24buw
     verified: false
-    hashtags: "#oldman, #world, #motivation, #masti"
-  - username: "nimeshpatkar"
+    hashtags: "#sharethecare, #training, #sport, #postivevibes"
+  - username: "sandip.red_x"
     fullname: >-
-      Nimesh Patkar
+      Sandip Gadhiya
+    bio: >-
+      gujju gym boy💪🏋️🤸
     location: "India"
-    followers: 10994
-    engagement: 853
-    commentsToLikes: 0.020055
-    id: ck8qh5jsf3p2z0j78hyapmrgc
+    followers: 2508
+    engagement: 954
+    commentsToLikes: 0.004705
+    id: ck9eukkl9e7200j78knwn2fsj
     verified: false
-    hashtags: "#tricepsworkout, #lovetodo, #mountaiclimb, #friendsforever"
-  - username: "jaypatel73529"
+    hashtags: "#duet, #workout, #trending, #motivation"
+  - username: "fitnessbeast10"
     fullname: >-
-      jaypatel73529
+      user8749932414719
+    bio: >-
+      #gymmotivation #beastmodeactivated #fitness is my lifestyle Sweat and Blood
     location: "India"
-    followers: 19627
-    engagement: 1392
-    commentsToLikes: 0.017205
-    id: ckal64m8w955j0i78ljaa0g8w
+    followers: 30600
+    engagement: 1113
+    commentsToLikes: 0.000879
+    id: ckauvu6zk0xcy0j23mibkknwv
     verified: false
-    hashtags: "#onelifebaby, #tecnowalidiwali, #pubggame, #pattsaheadshot"
+    hashtags: "#exercise, #youcan, #lifestyle, #gym"
 ---

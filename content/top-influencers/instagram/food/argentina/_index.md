@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Argentina In 2020
 description: >-
-  Find top food Instagram influencers in Argentina in 2020. Most popular hashtags: #quedateencasa #domingo #mequedoencasa #encasa.
+  Find top food Instagram influencers in Argentina in 2020. Most popular hashtags: #chocolate #foodporn #argentina #comida.
 platform: Instagram
+hits: 227
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 227 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "diego_bartaburu"
     fullname: >-
       Diego Bartaburu
+    bio: >-
+      Baterista de No Te Va Gustar. Foodie. @notevagustaroficial @dwdrums #notevagustar #notevagustaroficial @harmonicstop @oruga.ok
     location: "Argentina"
-    followers: 9186
-    engagement: 1644
-    commentsToLikes: 0.031100
+    followers: 9743
+    engagement: 1350
+    commentsToLikes: 0.027383
     id: ck6tvcap2lf2a0j718x43skky
     verified: false
-    hashtags: "#dwclassics, #ntvggranrex, #notevagustar, #nicolasfurtado"
-  - username: "heyremly"
+    hashtags: "#repost, #fervenza, #seasmalo, #marchadelsilencio2020"
+  - username: "alejocampo18"
     fullname: >-
-      Remly
+      Alejandro Campo
+    bio: >-
+      Foodie traveler 👨🏼‍🍳 🌎 Pereira - Colombia📍. A bocados por el mundo ✈️🍔🍝🍢🍙🍷🍻 Pregunta por mi Taller de fotografía 📷🎥🎞 Congelando historias 📸📽
     location: "Argentina"
-    followers: 51353
-    engagement: 219
-    commentsToLikes: 0.061759
-    id: ck0tw3kkddvdn0i190wek1j58
+    followers: 7914
+    engagement: 1109
+    commentsToLikes: 0.025981
+    id: ckaor73zfm0810i78tw8f1n2l
     verified: false
-    hashtags: "#palermo, #1prenda3looks, #mardelplata, #encasita"
-  - username: "angiolina_lei"
-    fullname: >-
-      Angela Nuñez⚜
-    location: "Argentina"
-    followers: 14810
-    engagement: 649
-    commentsToLikes: 0.041443
-    id: ck8t8sdkzlm8o0j78ualj01ut
-    verified: false
-    hashtags: "#happynewyear, #peace, #calm, #moments"
-  - username: "stephanygonzalezs"
-    fullname: >-
-      Stephany Gonzalez
-    location: "Argentina"
-    followers: 1580741
-    engagement: 340
-    commentsToLikes: 0.014214
-    id: ck5hdh1b9ndzz0i116stxd3ok
-    verified: false
-    hashtags: "#fitroll, #nodaysoff, #efectosdecuarentena, #miami"
-  - username: "kadito_sg"
-    fullname: >-
-      Kadito
-    location: "Argentina"
-    followers: 38327
-    engagement: 349
-    commentsToLikes: 0.025935
-    id: ck15piwnmy41a0i19thm3bau3
-    verified: false
-    hashtags: "#girlswithtatoos, #tattoos, #inkedgirls, #argentinasg"
-  - username: "sabryrodriguezcuack"
-    fullname: >-
-      Sabry Rodriguez Cuack 🐥😝♐️💙💛💙
-    location: "Argentina"
-    followers: 18521
-    engagement: 439
-    commentsToLikes: 0.065389
-    id: ck5znhkd6oh6b0i14f0s1rra5
-    verified: false
-    hashtags: "#johndavis, #mintjulep, #yanoaguantomas, #djsession"
-  - username: "caceres_matias"
-    fullname: >-
-      ᴍᴀᴛíᴀs 🇦🇷
-    location: "Argentina"
-    followers: 14975
-    engagement: 688
-    commentsToLikes: 0.020420
-    id: ck9wczegwdcg10j78v7spui9q
-    verified: false
-    hashtags: "#thelastdance, #inmyjs, #stayhome, #airmax"
-  - username: "i.am.kenzy"
-    fullname: >-
-      𝐊𝐄𝐍𝐙𝐘
-    location: "Argentina"
-    followers: 19193
-    engagement: 891
-    commentsToLikes: 0.029326
-    id: ck5q1krblbgpy0i117mcks77s
-    verified: false
-    hashtags: "#somosm, #joseantoniofernandez, #visibilidadlesbica, #doiwannaknow"
+    hashtags: "#travel, #travels, #traveling, #travelblogger"
   - username: "laurarezmasud"
     fullname: >-
-      Laura Rez Masud
+      Laura Rez Masud.
+    bio: >-
+      Mendoza 🍷 Periodista 🎤📹 Canal 9 me gusta compartir 👗moda 💇‍♀️belleza/estética/salud 🍷Food &wine 🌍 mis viajes 🎤 mi trabajo 🏘 deco
     location: "Argentina"
-    followers: 21958
-    engagement: 278
-    commentsToLikes: 0.034741
+    followers: 24185
+    engagement: 279
+    commentsToLikes: 0.047843
     id: ck5hoezxrpg0l0i11wx77idyl
     verified: false
-    hashtags: "#mequedoencasa, #cuarentena, #detoxify, #televisi"
-  - username: "oh.mamiblue"
+    hashtags: "#homeoffice, #valledeuco, #mendoza, #familia"
+  - username: "caceres_matias"
     fullname: >-
-      Oh!Mamiblue
+      ᴍᴀᴛíᴀs 🇦🇷
+    bio: >-
+      🎑🌇🌄🌉🌌🏞🏙🌅🌃 • #Sneakers 👟 • #Travel 🗺 • #Design 💻 • #Food 🍧 📍Olavarría / Tandil
     location: "Argentina"
-    followers: 348436
-    engagement: 439
-    commentsToLikes: 0.072034
-    id: ck13a4a3xok8q0i19bcx15oez
+    followers: 17510
+    engagement: 522
+    commentsToLikes: 0.020699
+    id: ck9wczegwdcg10j78v7spui9q
+    verified: false
+    hashtags: "#sneakerrotationar, #663399, #courtpurple"
+  - username: "sabryrodriguezcuack"
+    fullname: >-
+      Sabry Rodriguez Cuack 🐥♐️💙💛💙
+    bio: >-
+      Asesora de Bares 💛 Adm. Gastronómica 🍸Bartender Profesional Owner: @thegarnishbar ✨ 📍Mendoza🍷 #CuackStyle 📸 📺@estrictamendoza 📝@foodloversmdz @mdzol
+    location: "Argentina"
+    followers: 19954
+    engagement: 485
+    commentsToLikes: 0.045864
+    id: ck5znhkd6oh6b0i14f0s1rra5
+    verified: false
+    hashtags: "#cuackstyle, #chinchin, #bartenderlife, #lacoctelera"
+  - username: "marceloromerofotos"
+    fullname: >-
+      Marcelo Romero
+    bio: >-
+      📣📸 Foto 🎥 Video & 🍽️ Foodstyling 🍔 👉@estiloromerocatena 📣 Staff @pedidosya Consultas al MD 📥📨
+    location: "Argentina"
+    followers: 14994
+    engagement: 33
+    commentsToLikes: 0.060933
+    id: ck14hj7gwakvn0i19w5s1fsah
+    verified: false
+    hashtags: "#pasteleria, #emprendedores, #darkfoodphotography, #darkfoodphoto"
+  - username: "soledadfandino"
+    fullname: >-
+      Fandiño
+    bio: >-
+      📍@theremakenet Actriz argentina Chef / Plant-based natural foods Chef
+    location: "Argentina"
+    followers: 1054002
+    engagement: 200
+    commentsToLikes: 0.009451
+    id: ck13c4v87ymhq0i19488bic92
     verified: true
-    hashtags: "#ohmamifood, #postre, #retoextrafino, #juega"
+    hashtags: ""
+  - username: "gulatotal"
+    fullname: >-
+      Gulatotal foodies Ale&Fer 🇻🇪🇦🇷
+    bio: >-
+      🍔 COMIDA, RECETAS & LIFESTYLE @gulatotal 🔥 Foodies y creadores en Argentina Agencia de Marketing & Branding @woolabrands 🍫🍫 GANA MUCHOS CHOCOLATES 👇🏻
+    location: "Argentina"
+    followers: 188847
+    engagement: 239
+    commentsToLikes: 0.700000
+    id: ck5c0gn3qt3kf0i11hxbetpwf
+    verified: false
+    hashtags: "#argentina, #gulatotal, #foodie, #milka"
+  - username: "maxiaj"
+    fullname: >-
+      Maximiliano Aurellio Jurado
+    bio: >-
+      • Argentino 🇦🇷 • Lifestyle & Menswear • Foodie 📍Madrid 👉🏼 Collect Moments Not Things
+    location: "Argentina"
+    followers: 12941
+    engagement: 569
+    commentsToLikes: 0.257272
+    id: ckaouf3euzzzh0i786wy76o17
+    verified: false
+    hashtags: "#instafoodie, #madridfood, #domingo, #saludables"
+  - username: "deliascakes"
+    fullname: >-
+      Flor Mancini
+    bio: >-
+      food & travel 🍩 Bs As✨ fotografia ✈️ 📸 @flormancini @tripfoodblogger_ 📩 hola@flormancini.com EBOOK en la web
+    location: "Argentina"
+    followers: 301579
+    engagement: 465
+    commentsToLikes: 1.087480
+    id: ck8szplmyp9420j78fnrsnuto
+    verified: false
+    hashtags: "#parati, #torta, #chocolate, #dulcedeleche"
 ---

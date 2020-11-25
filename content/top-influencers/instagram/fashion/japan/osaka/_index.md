@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Osaka In 2020
 description: >-
-  Find top fashion Instagram influencers in Osaka in 2020. Most popular hashtags: #fashion #hairstyle #nike #travelgram.
+  Find top fashion Instagram influencers in Osaka in 2020. Most popular hashtags: #fashion #ootd #code #osaka.
 platform: Instagram
+hits: 96
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 96 Instagram influencers like this in Osaka, Japan for you to pitch.
 profiles:
   - username: "_miuinoue_"
     fullname: >-
-      海羽(みう)
+      海羽(みう)
+    bio: >-
+      2000 ｜ 19y ｜ fashion ｜ osaka Twitter 3iuchan tiktok m1uchan
     location: "Japan"
-    followers: 37089
-    engagement: 992
-    commentsToLikes: 0.009938
+    followers: 44805
+    engagement: 747
+    commentsToLikes: 0.011634
     id: ck0twcbzuev120i19iswb882f
     verified: false
-    hashtags: "#frem, #anap, #cherryblossom, #xlarge"
+    hashtags: "#coordinate, #selfie, #gyda, #miucode"
   - username: "kumika_iiio2"
     fullname: >-
       kumika
+    bio: >-
+      WEARISTA 158㎝/fashion/Osaka→←Wakayama 中2.小5.小3の3児のママです♡ コーディネートの詳細は、WEARに載せています✨ WEAR 【kumika☆】 は、こちら ↓↓
     location: "Japan"
-    followers: 101858
-    engagement: 312
-    commentsToLikes: 0.005214
+    followers: 130336
+    engagement: 263
+    commentsToLikes: 0.004238
     id: ckaouzeeo2gpf0i78dy1shnsw
     verified: false
-    hashtags: "#antiqua, #mhl, #margarethowell, #bradybag"
-  - username: "yukico_twingram"
+    hashtags: "#canaljean, #tbt, #fashion, #bradybag"
+  - username: "miho0808.k"
     fullname: >-
-      𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
+      miho
+    bio: >-
+      osaka/fashion/153cm/mama .. keita☓miho 🐾mozuku .. baby boy daito
     location: "Japan"
-    followers: 40880
-    engagement: 156
-    commentsToLikes: 0.007244
-    id: ck0w6lg5c950l0i19ivtszcm3
+    followers: 7888
+    engagement: 594
+    commentsToLikes: 0.021791
+    id: ckf5lv9ahr5uh0j23gmvkz3ca
     verified: false
-    hashtags: "#whim, #blooms, #cinnamonrolls, #flowertalking"
-  - username: "chanmii__baby"
-    fullname: >-
-      𝕄𝕀𝕊𝔸𝕂𝕀🦄💕
-    location: "Japan"
-    followers: 3473
-    engagement: 1974
-    commentsToLikes: 0.180853
-    id: ckaou9735zdbv0i78h09rb5z1
-    verified: false
-    hashtags: "#pancakes, #fashion, #osakafood, #osakaseafood"
-  - username: "jojoreon"
-    fullname: >-
-      ゆうや
-    location: "Japan"
-    followers: 5752
-    engagement: 599
-    commentsToLikes: 0.035065
-    id: ck6u69c99e9ji0j71t9c5mm54
-    verified: false
-    hashtags: "#coordinate, #sneaker, #instafashion, #nikesneakers"
-  - username: "_z.u_"
-    fullname: >-
-      Kazuha Hiraiwa
-    location: "Japan"
-    followers: 16325
-    engagement: 224
-    commentsToLikes: 0.021949
-    id: ckaoru3blor7z0i78ucebuosr
-    verified: false
-    hashtags: "#zu, #mothersday, #firstmothersday, #argital"
+    hashtags: "#baby, #code, #babyboy, #babyanddog"
   - username: "sealbank"
     fullname: >-
       金セアル KIM SEAL 김새알
+    bio: >-
+      JPN/OSAKA⇆TOKYO fashion magazine writer/public relations。”새알”은 "새로운 것을 낳는 알" 라는 뜻。”セアル”は、”新しいことを生み出す卵”という意味。セアルちゃん。
     location: "Japan"
     followers: 31217
     engagement: 251
     commentsToLikes: 0.013726
     id: ck55m6is93bx60i11rgtz1w1s
     verified: false
-    hashtags: "#c4, #kurkkufields, #belt, #wallet"
-  - username: "cherish.jp"
+    hashtags: "#leicam, #enjoyhome, #stayhome, #forthesaveofallfashionlovers"
+  - username: "blvvelvet"
     fullname: >-
-      ᑕᕼᕮᖇIᔕᕼ🌸ちぇりぐらむ
+      𝕭𝕷𝖀  Ⓧ Ⓧ Ⓥ Ⓘ Ⓘ Ⓘ
+    bio: >-
+      𝔉𝔢𝔪𝔦𝔫𝔦𝔫𝔧𝔞 photographer / 写真家 lortegaf12@gmail.com
     location: "Japan"
-    followers: 14297
-    engagement: 902
-    commentsToLikes: 0.030252
-    id: ck9webdv2jj4o0j78nmifa82o
+    followers: 15757
+    engagement: 396
+    commentsToLikes: 0.009213
+    id: ck5hs6hezw2nk0i11b0nj6low
     verified: false
-    hashtags: "#swimmingpool, #triplover, #pinkcolor, #thisisjapan"
-  - username: "rikkyyucoco"
-    fullname: >-
-      Nao💜
-    location: "Japan"
-    followers: 68745
-    engagement: 205
-    commentsToLikes: 0.037992
-    id: ck5hmifc2m0b50i11553vmqu4
-    verified: false
-    hashtags: "#awajiwestcoast, #nijigennomori, #trip, #tavenal"
+    hashtags: "#tokyo, #fashion, #coolhunting, #osaka"
   - username: "yunri420"
     fullname: >-
       Yunrisama🧸🍒
+    bio: >-
+      ≫✈︎Japan⇒Osaka 🌿 Fashion Gram🌿 / Rady💋 / 虎🐯⚾️ . ⤵︎メルカリ見てみて下さい❤︎"
     location: "Japan"
-    followers: 28821
-    engagement: 917
-    commentsToLikes: 0.016434
+    followers: 36230
+    engagement: 869
+    commentsToLikes: 0.017827
     id: ck0w0qgd2fjer0i19evz8h3ec
     verified: false
-    hashtags: "#pink, #tops, #sporty, #parker"
+    hashtags: "#rady, #gal, #radycode, #ootd"
+  - username: "kotori_mii"
+    fullname: >-
+      kotori ¨̮
+    bio: >-
+      tokyo ↔ osaka ♡ fashion / cafe / 🐥﻿ 157cmキャップ多め。 ご質問は最新の投稿へ✍🏻️﻿DMお仕事のみ。 *.﻿ @merlotcamp director. @piyori_official ﻿¨̮ ﻿☟☟☟
+    location: "Japan"
+    followers: 169223
+    engagement: 96
+    commentsToLikes: 0.001827
+    id: ck15qdhy42c1l0i19uaspf1po
+    verified: false
+    hashtags: "#piyori, #kastane, #20201014m, #fifthtl"
+  - username: "_____sui._____"
+    fullname: >-
+      Izumii
+    bio: >-
+      Japan Osaka 161cm fashion/coordinate ⠀ @andlily_official ambassador
+    location: "Japan"
+    followers: 146624
+    engagement: 103
+    commentsToLikes: 0.000911
+    id: ck0u1uadfxz340i19wpjz0d6q
+    verified: false
+    hashtags: "#newbottega, #commedesgarconsplay, #ootd, #2020ss"
+  - username: "rikkyyucoco"
+    fullname: >-
+      Nao💜
+    bio: >-
+      Age42 #3児ママ 🙋🏼‍♀️(16歳👱🏼‍♂️.13歳👦🏼.8歳👧🏼) #Hyogo #Osaka / Japan
+    location: "Japan"
+    followers: 84759
+    engagement: 128
+    commentsToLikes: 0.035555
+    id: ck5hmifc2m0b50i11553vmqu4
+    verified: false
+    hashtags: "#ootd, #grl, #hyogo, #lamode"
+  - username: "kozu1240"
+    fullname: >-
+      Ryuji ＆ Koki
+    bio: >-
+      LDH EXPG dance&vocal CAMURO スタ選ファイナリスト2回 ベストキッズオーディション2018 いんすた☆まがじん第5期・第6期 奈良コレクション 奈良キッズコレクション 中国キッズコレクション ブラフェス ジャパンコレクション リトルミスターコンテスト4回受賞 (両親管理)
+    location: "Japan"
+    followers: 7107
+    engagement: 1729
+    commentsToLikes: 0.020302
+    id: ck0w6bqcg7tim0i19i6ldz3zb
+    verified: false
+    hashtags: "#instapic, #followme, #kids, #stage"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top fitness Instagram influencers in Birmingham in 2020. Most popular hashtags: #fitness #birmingham #stayhome #travel.
+  Find top fitness Instagram influencers in Birmingham in 2020. Most popular hashtags: #fitness #workout #birmingham #training.
 platform: Instagram
+hits: 17
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 17 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "helenjtea"
-    fullname: >-
-      Helen
-    location: "United Kingdom"
-    followers: 86748
-    engagement: 211
-    commentsToLikes: 0.132594
-    id: ck0u0v7z7uwvt0i19tsjkoem1
-    verified: false
-    hashtags: "#sweetgains, #cakebar, #reeses, #giveaways"
   - username: "nxvelouise"
     fullname: >-
-      N e v e y ♡
+      ɴ ᴇ ᴠ ᴇ ʏ ♡
+    bio: >-
+      ☁️ 19 Birmingham 🤍 Fitness, Life & Health 🖇 @nxvelouise.2 ↴ My YouTube Channel
     location: "United Kingdom"
-    followers: 9876
-    engagement: 1088
-    commentsToLikes: 0.226005
+    followers: 12275
+    engagement: 728
+    commentsToLikes: 0.112563
     id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
+    hashtags: "#gsfamily, #fashion, #gymsharkwomen, #gifted"
+  - username: "lauradennisonfit"
+    fullname: >-
+      LAURA. D THE PT
+    bio: >-
+      💪🏼 Making fitness simple and fun ♥️ Online + Birmingham/West Mids 🇬🇧 @tggstourbridge 💦 PERSONALISED HOME/GYM PLANS + RESISTANCE BANDS ⤵️
+    location: "United Kingdom"
+    followers: 11160
+    engagement: 367
+    commentsToLikes: 0.082142
+    id: ckaowaiyw82gw0i78bpzpd3xd
+    verified: false
+    hashtags: "#transformationtuesday, #transformation"
+  - username: "juannafitness.2"
+    fullname: >-
+      Juju 🤍
+    bio: >-
+      📚Student 📍Birmingham ✨nothing fancy
+    location: "United Kingdom"
+    followers: 5712
+    engagement: 1691
+    commentsToLikes: 0.125138
+    id: ckap0okftr6tw0i78m4w9nmto
+    verified: false
+    hashtags: "#fit, #fitspo, #workoutroutine, #lifting"
+  - username: "fred_goudie"
+    fullname: >-
+      Fred Goudie
+    bio: >-
+      London//University of Birmingham • 21yrs//6ft3//History Student • Business: fredgoudie18@gmail.com - ONLINE COACHING/FREE DIET PLANS in link below -
+    location: "United Kingdom"
+    followers: 28942
+    engagement: 796
+    commentsToLikes: 0.031476
+    id: ck9we44fjihuz0j7877sfy89m
+    verified: false
+    hashtags: "#lifestyle, #gains, #explorepage, #backsession"
   - username: "elizas_everyday"
     fullname: >-
       Eliza's_everyday
+    bio: >-
+      Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness 💥Mum to 2 gorgeous boys 💥Next travel destination French Alps
     location: "United Kingdom"
-    followers: 16627
-    engagement: 393
-    commentsToLikes: 0.406422
+    followers: 18832
+    engagement: 379
+    commentsToLikes: 0.544144
     id: ck5bw68vel2m20i11vebkj9bq
     verified: false
-    hashtags: "#dressupfriday, #beautybox, #green, #asseenonme"
-  - username: "_lucymayfinnegan"
-    fullname: >-
-      Lucy May
-    location: "United Kingdom"
-    followers: 149577
-    engagement: 303
-    commentsToLikes: 0.063928
-    id: ck0u6e45h1nre0i19crikpnmz
-    verified: false
-    hashtags: "#gym, #intense, #resistancebands, #butt"
-  - username: "russ___________"
-    fullname: >-
-      Eat. Sleep. Wifi. Repeat.
-    location: "United Kingdom"
-    followers: 10014
-    engagement: 937
-    commentsToLikes: 0.034486
-    id: ck0twyarvh9mw0i19fpezd84h
-    verified: false
-    hashtags: "#travel, #comics, #photo, #cafu"
-  - username: "thekayday"
-    fullname: >-
-      Kulsum Bismillah
-    location: "United Kingdom"
-    followers: 21798
-    engagement: 253
-    commentsToLikes: 0.173985
-    id: ck0w5z8u465930i196c85g139
-    verified: false
-    hashtags: "#makeuplife, #nails, #foodpics, #holiday"
-  - username: "ollie.ollerton"
-    fullname: >-
-      OLLIE OLLERTON
-    location: "United Kingdom"
-    followers: 321603
-    engagement: 371
-    commentsToLikes: 0.018368
-    id: ck55ps2lwb93h0i11bu4b7e10
-    verified: true
-    hashtags: "#nhs, #mentalwealth, #mindset, #lockdown"
+    hashtags: "#womanandhomestreetstyle, #stylemum, #instamum, #boots"
   - username: "liveuptohername"
     fullname: >-
       Lexi 🎀
+    bio: >-
+      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
     location: "United Kingdom"
-    followers: 16365
-    engagement: 688
-    commentsToLikes: 0.003090
+    followers: 19482
+    engagement: 634
+    commentsToLikes: 0.006125
     id: ck5cik16gsslf0i11w5ovnhua
     verified: false
-    hashtags: "#homeoffice, #malta, #bnwphotography, #fitfam"
-  - username: "chloee.fitness97"
+    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
+  - username: "tiziri_digne"
     fullname: >-
-      Chloe | Fitness 🏋🏼‍♀️
+      FASHION - MOM’S LIFE - FITNESS
+    bio: >-
+      🤱🏽💍 Family 👠🏋🏽‍♀️ Fashion & Fitness 📲 Blogger : tiziri.fr ⬇️
     location: "United Kingdom"
-    followers: 8872
-    engagement: 1797
-    commentsToLikes: 0.097173
-    id: ck13b8ry0u9fi0i19s4ex8y9k
+    followers: 53319
+    engagement: 275
+    commentsToLikes: 0.009842
+    id: ck0twd78hez5h0i198kxcrl7x
     verified: false
-    hashtags: "#fitlife, #hiitworkout, #sale, #squats"
-  - username: "sc_figure"
+    hashtags: "#momlife, #maman, #merefils, #sainttropez"
+  - username: "iamradzi"
     fullname: >-
-      Sarah Cowin
+      Radzi Chinyanganya
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇿🇼 📺 tv presenter 🎙️@bbc @itv @channel4 @channel5_tv @primevideouk @wweuk 📚 Factoids & Fitness💪🏾 Blue Peter forever #37
     location: "United Kingdom"
-    followers: 3407
-    engagement: 2831
-    commentsToLikes: 0.401740
-    id: ckapcimrv3yne0i78op3a32bh
+    followers: 25857
+    engagement: 331
+    commentsToLikes: 0.018440
+    id: ck14iw55ohfju0i19mxsnpfbe
+    verified: true
+    hashtags: "#covid19, #ad, #tv, #tennis"
+  - username: "ben.gym.in_"
+    fullname: >-
+      Benjamin Hutchings 🐢
+    bio: >-
+      21 | Good Vibes in Quarantine 🏠 DM for Free Training Plans! 🏋🏼‍♂️ Workouts, Nutrition & Challenges 🥑 Uni of Birmingham - Mech Eng 👨‍🎓 @benhutchings_
+    location: "United Kingdom"
+    followers: 6003
+    engagement: 602
+    commentsToLikes: 0.073255
+    id: ckaox6ykpc22b0i78crwteofs
     verified: false
-    hashtags: "#mindsetmonday, #selfworth, #lifeisgood, #bodybuilder"
+    hashtags: "#stretching, #absworkout, #calisthenics, #mobilityexercises"
+  - username: "peaky.blinders_shelby"
+    fullname: >-
+      Peaky Blinders
+    bio: >-
+      Most interesting and complete #PeakyBlinders page☠️ 🔥Pics and videos 🔥Information 🔥Upgrades 🔥Quotes Birmingham, United Kingdom📍
+    location: "United Kingdom"
+    followers: 10335
+    engagement: 754
+    commentsToLikes: 0.005670
+    id: ck14l40hosqla0i19qzxozxhv
+    verified: false
+    hashtags: "#birmingham, #quotes, #travel, #thomasshelby"
 ---

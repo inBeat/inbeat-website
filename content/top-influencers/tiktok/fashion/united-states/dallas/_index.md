@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion TikTok Influencers In Dallas In 2020
 description: >-
-  Find top fashion TikTok influencers in Dallas in 2020. Most popular hashtags: #fashion #quarantine #keepingbusy #dallas.
+  Find top fashion TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #fashion #foryou #funny.
 platform: TikTok
+hits: 36
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 36 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "newmanparkerr"
+  - username: "bee.liss__"
     fullname: >-
-      newmanparkerr
+      Bianca
+    bio: >-
+      IG: @bee.liss Keep your negativity to yourself
     location: "United States"
-    followers: 11425
-    engagement: 361
-    commentsToLikes: 0.029983
-    id: ck9flm2eiom7c0j78ykktas1o
+    followers: 5815
+    engagement: 400
+    commentsToLikes: 0.012446
+    id: ck9v17nnxftof0j78wiysj5ma
     verified: false
-    hashtags: "#gucci, #closet, #foodie, #zoom"
-  - username: "avinpark"
+    hashtags: "#outfit, #trend, #ootd, #womensfashion"
+  - username: "aaanahilopez"
     fullname: >-
-      Avin Park
+      Anahi
+    bio: >-
+      Tx & Twenty 🍂 ↓ shop my boutique ↓
     location: "United States"
-    followers: 3806
-    engagement: 1422
-    commentsToLikes: 0.051425
-    id: cka0kv8daoce50i785xki0o5g
+    followers: 11300
+    engagement: 1189
+    commentsToLikes: 0.023936
+    id: ckdi75skg8xv90j23lnfk23cw
     verified: false
-    hashtags: "#giftshop, #clonewars, #mom, #bravado"
-  - username: "averiebishop"
-    fullname: >-
-      Aves
-    location: "United States"
-    followers: 16589
-    engagement: 1289
-    commentsToLikes: 0.016078
-    id: ck92whk2suka90j782okyyury
-    verified: false
-    hashtags: "#albumlookalike, #girlpower, #minority, #filipino"
-  - username: "jennibadolato"
-    fullname: >-
-      Jenni Croft Badolato
-    location: "United States"
-    followers: 52507
-    engagement: 648
-    commentsToLikes: 0.025972
-    id: ck8rog1nmh1he0j788na857sq
-    verified: false
-    hashtags: "#fashion, #helpme, #duet, #xyzabc"
+    hashtags: "#duet, #boom, #dance, #vaquera"
   - username: "lisetteperezzz"
     fullname: >-
       Lisetteperezzz
+    bio: >-
+      The Simp God✨
     location: "United States"
-    followers: 22197
-    engagement: 736
-    commentsToLikes: 0.039162
+    followers: 27600
+    engagement: 827
+    commentsToLikes: 0.023094
     id: ck9reo7lm35bh0j78s3i6qfsr
     verified: false
-    hashtags: "#shoes, #tiktokrestarea, #poseathome, #yoplaitcuprelay"
-  - username: "rowheimfarooqui"
+    hashtags: "#viral, #duet, #doitbold, #dance"
+  - username: "garrettwsavage"
     fullname: >-
-      Rowheim Farooqui
+      Garrett Savage
+    bio: >-
+      Usually nothing serious, #BLM, 📍Los Angeles📍good vibes 🤙🏻
     location: "United States"
-    followers: 16494
-    engagement: 505
-    commentsToLikes: 0.053791
-    id: cka0m6byru12m0i78lmj1hfa3
+    followers: 2891
+    engagement: 177
+    commentsToLikes: 0.088500
+    id: ckcekd97utoac0j239vej09x7
     verified: false
-    hashtags: "#spanishtunes, #fitchick, #supercharger, #hair"
-  - username: "storyofstyle"
+    hashtags: "#lol, #trump, #savage, #fyp"
+  - username: "teamteedee2"
     fullname: >-
-      Hina Cheema
+      Mz. Tee
+    bio: >-
+      Grad Student, Fashion Lover, Traveler, Wine Enthusiast Dallas, TX
     location: "United States"
-    followers: 36027
-    engagement: 807
-    commentsToLikes: 0.011211
-    id: ck8j9dg9amwt80j78srdb637o
+    followers: 14200
+    engagement: 1509
+    commentsToLikes: 0.074957
+    id: ckbqp9tdka12j0j23vvotxr96
     verified: false
-    hashtags: "#moodboost, #pantry, #gotthisforyou, #tiktokfashion"
-  - username: "terrycostaprom"
+    hashtags: "#emilyinparis, #heinzhalloween, #overcomeyourfear, #collegegotmelike"
+  - username: "whtart"
     fullname: >-
-      Terry Costa
+      William Toliver
+    bio: >-
+      Dallas based Teacher | Creative
     location: "United States"
-    followers: 781620
-    engagement: 1234
-    commentsToLikes: 0.006872
-    id: ck9c3hayzpo130j784tplo0th
+    followers: 66700
+    engagement: 1947
+    commentsToLikes: 0.059310
+    id: cka0skbbxlxbo0i78drc2tac0
     verified: false
-    hashtags: "#tiktokprom, #holidayhacks, #dailyroutine, #dualipa"
-  - username: "kikirajxo"
+    hashtags: "#foryou, #truestory, #thecoldestwater, #fyp"
+  - username: "itsabeballout"
     fullname: >-
-      Kiki
+      itsabeballout
+    bio: >-
+      IG & TWITTER: @itsabeballout 📍 Dallas | Beirut 🇱🇧 Lebanese FOLLOW ME ON IG ⬆️
     location: "United States"
-    followers: 23185
-    engagement: 843
-    commentsToLikes: 0.025783
-    id: ckae7qgcuiav90i787vqkjkwc
+    followers: 48400
+    engagement: 1032
+    commentsToLikes: 0.072081
+    id: ckdt2iodfs8pu0j236jfcqgve
     verified: false
-    hashtags: "#splashchallenge, #tiktokindia, #desiaunties, #lovedogs"
-  - username: "gillliekwhoa"
+    hashtags: "#iraqi, #fyp, #fypage, #arab"
+  - username: "jadalane_"
     fullname: >-
-      Gillian Clark
+      jada lane
+    bio: >-
+      dallas yes i’m not ginger
     location: "United States"
-    followers: 11888
-    engagement: 1146
-    commentsToLikes: 0.039614
-    id: ck92y9hsy22e00j78zee1kz91
+    followers: 19500
+    engagement: 1532
+    commentsToLikes: 0.061590
+    id: ck8oxz7py4t8c0j789fswi4f7
     verified: false
-    hashtags: "#travel, #shuffle, #dallas, #louisthechild"
+    hashtags: "#colorcustomizer, #fyp, #timewarpscan, #trending"
+  - username: "dallascowboys"
+    fullname: >-
+      Dallas Cowboys
+    bio: >-
+      hey y’all 🤠 #DallasCowboys
+    location: "United States"
+    followers: 986700
+    engagement: 1600
+    commentsToLikes: 0.026029
+    id: ck8rraq7rtmih0j78e69ouhwg
+    verified: true
+    hashtags: "#dallascowboys, #fyp, #micdup, #football"
+  - username: "colourexpressionn"
+    fullname: >-
+      Colourexpressionn ™
+    bio: >-
+      👽💫💖🌈🛸 I’m so happy you’re here! ☆ Artist: Erica Aschbacher ☆ 📍Dallas, TX
+    location: "United States"
+    followers: 22200
+    engagement: 1762
+    commentsToLikes: 0.055232
+    id: ck9ejcieh2aax0j78nrmtf7nv
+    verified: false
+    hashtags: "#fyp, #disney, #handmade, #shopsmall"
 ---

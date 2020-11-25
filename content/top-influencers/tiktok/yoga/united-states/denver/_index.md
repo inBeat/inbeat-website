@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga TikTok Influencers In Denver In 2020
 description: >-
-  Find top yoga TikTok influencers in Denver in 2020. Most popular hashtags: #food #itsaremix #coronavirus #neverfitin.
+  Find top yoga TikTok influencers in Denver in 2020. Most popular hashtags: #yoga #fyp #duet #foryou.
 platform: TikTok
+hits: 4
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Denver, United States for you to pitch.
 profiles:
-  - username: "hokutheskulldog83"
+  - username: "keelsmontana"
     fullname: >-
-      SKULL BOI YEET! >:O
+      Kendall Meiller
+    bio: >-
+      Intuitive Health Coach ✨ Energy Healer ✨ 200hr Cert. Yoga Teacher 🧘🏾‍♀️
     location: "United States"
-    followers: 34421
-    engagement: 2753
-    commentsToLikes: 0.037430
-    id: ck9r3mdjrqhx60j7803e6k1cb
+    followers: 12200
+    engagement: 802
+    commentsToLikes: 0.031533
+    id: cka6nb8ybapcj0i78yg3klfvl
     verified: false
-    hashtags: "#paws, #1year, #birthday, #happybirthday"
-  - username: "divinepriestess"
+    hashtags: "#stitch, #funny, #welcomeweek, #airheadsditchchallenge"
+  - username: "tiktoktatertotz"
     fullname: >-
-      Divine Priestess
+      Tate
+    bio: >-
+      19 Denver | Los Angeles Have some fun along the way
     location: "United States"
-    followers: 13617
-    engagement: 1196
-    commentsToLikes: 0.068269
-    id: cka6qzl0mpndr0i78as1q4rkh
+    followers: 29300
+    engagement: 1181
+    commentsToLikes: 0.021640
+    id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#camera, #honey, #read, #yoga"
-  - username: "supdaily"
+    hashtags: "#highschool, #dontletthisflop, #fitness, #drive"
+  - username: "wildandfreepeople"
     fullname: >-
-      SupDaily
+      Madi Diesel
+    bio: >-
+      I sell Crystals on instagram @wildandfreepeople And etsy:
     location: "United States"
-    followers: 389489
-    engagement: 1408
-    commentsToLikes: 0.039838
-    id: ck8kdxn8s7uu80j78a8dm7dmg
+    followers: 234400
+    engagement: 1330
+    commentsToLikes: 0.026513
+    id: ck90xyynx8lii0j788yym9qmn
     verified: false
-    hashtags: "#over30, #tinderterror, #storytime, #puppykisses"
-  - username: "bailey.nomi"
-    fullname: >-
-      Bailey
-    location: "United States"
-    followers: 15717
-    engagement: 1077
-    commentsToLikes: 0.219339
-    id: cka0zzm6qhoe80i78xvrjbnwc
-    verified: false
-    hashtags: "#lounge, #flyingsplits, #shqiptar, #easyyoga"
-  - username: "isthatjupiter"
-    fullname: >-
-      Jupiter
-    location: "United States"
-    followers: 74697
-    engagement: 2579
-    commentsToLikes: 0.013960
-    id: ck8seg2dpjn340j78kdgm2amr
-    verified: false
-    hashtags: "#acnh, #gonnabefriends, #sfxmakeup, #maketheleap"
-  - username: "crazycurvylinzy"
-    fullname: >-
-      Linzy Taylor
-    location: "United States"
-    followers: 190683
-    engagement: 1837
-    commentsToLikes: 0.045637
-    id: cka0hipma9b0d0i78nnwgzpgv
-    verified: false
-    hashtags: "#funk, #heels, #emojigame, #momsoftiktok"
-  - username: "shaktisitakaur"
-    fullname: >-
-      shaktisitakaur
-    location: "United States"
-    followers: 5995
-    engagement: 993
-    commentsToLikes: 0.053203
-    id: cka0nhzdgzsr50i78joqxmg4n
-    verified: false
-    hashtags: "#pranayam, #cantsleep, #salad, #astrologer"
-  - username: "blissfulathlete"
-    fullname: >-
-      BlissfulAthlete
-    location: "United States"
-    followers: 138327
-    engagement: 718
-    commentsToLikes: 0.056644
-    id: ck8sax8lt4adj0j78gahpu581
-    verified: false
-    hashtags: "#padmasana, #gonnabefriends, #bicepworkout, #reincarnation"
-  - username: "easytigerplants"
-    fullname: >-
-      Easy Tiger Plants
-    location: "United States"
-    followers: 2605
-    engagement: 973
-    commentsToLikes: 0.045077
-    id: ckafu24hg8ahz0i78udauysrg
-    verified: false
-    hashtags: "#morning, #rosemary, #tips, #inmygarfen"
+    hashtags: "#crystals101, #homedecor, #spiritual, #spirituality"
   - username: "caterpillarschalice"
     fullname: >-
       candi
+    bio: >-
+      adventure🏔sew🧵cook🥧flexibility🤸‍♀️yoga🧘‍♀️fun👽
     location: "United States"
-    followers: 137026
-    engagement: 349
-    commentsToLikes: 0.032559
+    followers: 169600
+    engagement: 610
+    commentsToLikes: 0.046180
     id: ck8or5h79am5l0j78vcr82shf
     verified: false
-    hashtags: "#corsetry, #familytime, #vintage, #salty"
+    hashtags: "#pinup, #summerdiy, #superlativesmiles, #teleport"
+  - username: "embermusic452"
+    fullname: >-
+      Emily Rose
+    bio: >-
+      Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
+    location: "United States"
+    followers: 17600
+    engagement: 1520
+    commentsToLikes: 0.182399
+    id: ckc7zijrv17w90j237wjkdrj7
+    verified: false
+    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
+  - username: "katiecapecod"
+    fullname: >-
+      katiecapecod🧜🏻‍♀️
+    bio: >-
+      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
+    location: "United States"
+    followers: 7738
+    engagement: 1623
+    commentsToLikes: 0.129260
+    id: ck87u29o14tty0j78453egpae
+    verified: false
+    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
+  - username: "codiemarie86"
+    fullname: >-
+      Coddie Adams
+    bio: >-
+      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
+    location: "United States"
+    followers: 11600
+    engagement: 1454
+    commentsToLikes: 0.095631
+    id: ckb9alh4avtva0j23iv10d3o7
+    verified: false
+    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
+  - username: "ketocrossfityogi"
+    fullname: >-
+      ketocrossfityogi
+    bio: >-
+      keto/IF junkie 🥩 yoga soul ☮️ CF athlete 💪🏼 stroke survivor 🧠
+    location: "United States"
+    followers: 6609
+    engagement: 652
+    commentsToLikes: 0.205333
+    id: ckbeyugz1jj5w0j239r4cy4tc
+    verified: false
+    hashtags: "#ketones, #keto, #ketosis, #yourchoice"
+  - username: "tiffanycroww"
+    fullname: >-
+      FatYogi
+    bio: >-
+      🧘‍♀️fat yoga teacher Mindful Tri 🎊 November 21,2020 Yoga🌀Meditate🌀Walk
+    location: "United States"
+    followers: 94600
+    engagement: 1364
+    commentsToLikes: 0.053843
+    id: ckbw8skihzagu0j2312kq7qml
+    verified: false
+    hashtags: "#yoga, #fatyoga, #sunday, #haes"
+  - username: "shakti_sita_"
+    fullname: >-
+      SHAKTI SITA
+    bio: >-
+      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
+    location: "United States"
+    followers: 9103
+    engagement: 1017
+    commentsToLikes: 0.052641
+    id: cka0nhzdgzsr50i78joqxmg4n
+    verified: false
+    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Morocco In 2020
 description: >-
-  Find top cinema Instagram influencers in Morocco in 2020. Most popular hashtags: #cinema #stayathome #travel #photography.
+  Find top cinema Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #cinema #photography #casablanca.
 platform: Instagram
+hits: 25
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 25 Instagram influencers like this in Morocco for you to pitch.
 profiles:
   - username: "adnane.azaar"
     fullname: >-
       A Z A A R  🛸
+    bio: >-
+      -Concepteur | Rédacteur -Visuel Art Student :Cinematographer | Director -Youtube | Adnane Azaar
     location: "Morocco"
-    followers: 60096
-    engagement: 1452
-    commentsToLikes: 0.012261
+    followers: 62802
+    engagement: 1659
+    commentsToLikes: 0.012406
     id: ck5c7moc67tai0i11am2l5dz5
     verified: false
-    hashtags: "#in2020, #corona, #stayathome"
+    hashtags: "#corona, #stayathome"
+  - username: "tarikbakhari"
+    fullname: >-
+      طارق البخاري
+    bio: >-
+      #art #theatre #cinema #tv
+    location: "Morocco"
+    followers: 84139
+    engagement: 218
+    commentsToLikes: 0.019633
+    id: ck5hmoat4mbmo0i11o1be8041
+    verified: false
+    hashtags: "#morocco, #cinema, #tournage, #casablanca"
   - username: "abderrafia_elabdioui"
     fullname: >-
       Abderrafia El Abdioui
+    bio: >-
+      عبدالرفيع عبديوي▪️ ▪️Visual storytelling artist ▪️Director & Cinematographer Based in Morocco 👁‍🗨 Showreel 👇🏿
     location: "Morocco"
-    followers: 59968
-    engagement: 207
-    commentsToLikes: 0.023898
+    followers: 115199
+    engagement: 113
+    commentsToLikes: 0.021644
     id: ck15un4c4nzec0i192lknj7xm
     verified: false
-    hashtags: "#11m, #no, #streetphotography, #spreadlove"
-  - username: "peoplephotography"
+    hashtags: "#director, #salam, #behindthescenes, #morocco"
+  - username: "hamzvrochdi"
     fullname: >-
-      PeoplePhotography פיפלפוטוגרפי
+      Hamza Rochdi
+    bio: >-
+      Bloom where you are planted🥀 Photographer / interior architect Dm for inquiries Personnal account: @hr_rochdi Associate manager of: @framers.agency
     location: "Morocco"
-    followers: 18234
-    engagement: 253
-    commentsToLikes: 0.083198
-    id: ck0tytkw5nzqu0i19o5yrlshw
+    followers: 6821
+    engagement: 1552
+    commentsToLikes: 0.039997
+    id: ck0w2k53corv80i19e400qrjr
     verified: false
-    hashtags: "#areeka, #ok1005, #instaclip, #weddingvideo"
-  - username: "meryemzaimiofficiel"
+    hashtags: "#portraitpage, #apricotmagazine, #people, #pursuitofportraits"
+  - username: "salwazarhane"
     fullname: >-
-      MeryemZaïmiOfficiel
+      Salwa Zarhane
+    bio: >-
+      اعتن بروحك 🤲🏻|Y 🎬
     location: "Morocco"
-    followers: 569214
-    engagement: 178
-    commentsToLikes: 0.013263
-    id: ck55jfa0dwws10i11q18hiiod
+    followers: 231514
+    engagement: 552
+    commentsToLikes: 0.012907
+    id: ck5hmo9iombk60i11a1j7ohri
+    verified: false
+    hashtags: "#ramadan2020, #movie, #waitforit, #makeuptutorial"
+  - username: "hind__benjbara"
+    fullname: >-
+      HIND Benjbara |هند بن اجبــارة
+    bio: >-
+      Moroccan actress.
+    location: "Morocco"
+    followers: 910305
+    engagement: 216
+    commentsToLikes: 0.008432
+    id: ckaotrc7rx5j50i78hrpc5n7u
+    verified: false
+    hashtags: "#role, #arts, #actrice, #drama"
+  - username: "majdoulineidrissi_officiel"
+    fullname: >-
+      Majdouline Idrissi
+    bio: >-
+      Compte officiel 🎬 Moroccan Actress
+    location: "Morocco"
+    followers: 440629
+    engagement: 361
+    commentsToLikes: 0.015339
+    id: ck5hmo8gsmbho0i11xuryuimq
     verified: true
-    hashtags: "#music, #staysafe, #muchlove, #nofilter"
-  - username: "nada.oubnichou"
-    fullname: >-
-      Empowering Women
-    location: "Morocco"
-    followers: 390798
-    engagement: 232
-    commentsToLikes: 0.023415
-    id: ck5hquo3ftr460i118rot4qtu
-    verified: false
-    hashtags: "#cute, #girl, #girls, #makeupmess"
-  - username: "sofia_lahrichi"
-    fullname: >-
-      Sofia Lahrichiصوفيا لحريشي
-    location: "Morocco"
-    followers: 34270
-    engagement: 26
-    commentsToLikes: 0.071353
-    id: ck5qb7iufk7hb0i11moarvfj6
-    verified: false
-    hashtags: "#henna, #smile, #movie, #amourdemavie"
-  - username: "labdo_"
-    fullname: >-
-      ABDO | Abdelilah Achak
-    location: "Morocco"
-    followers: 6639
-    engagement: 1677
-    commentsToLikes: 0.022473
-    id: ck5hj76akg4pz0i112mxnae6z
-    verified: false
-    hashtags: "#photograph, #photographer, #colourist, #colorgrade"
-  - username: "salimaelmahraoui"
-    fullname: >-
-      Salimaelmahraoui
-    location: "Morocco"
-    followers: 19066
-    engagement: 929
-    commentsToLikes: 0.015833
-    id: ck0w05l4vchhj0i191rr21zbf
-    verified: false
-    hashtags: "#cinematography, #jourrane, #gh5, #lumix"
+    hashtags: "#mbc5, #actress, #lifestyle, #rabat"
   - username: "zakarialamhader"
     fullname: >-
       Zakaria lamhader 🎬 FilmMaker
+    bio: >-
+      📍Morocco 🇲🇦 Producer |Filmmaker | live camera streaming |Drone operator For business ⬇️ 📩 Zakarialamhader@Gmail.com
     location: "Morocco"
-    followers: 21063
-    engagement: 389
-    commentsToLikes: 0.043181
+    followers: 21911
+    engagement: 400
+    commentsToLikes: 0.035881
     id: ckaoszvdwtqwq0i78gt4sdon2
     verified: false
-    hashtags: "#stayhome, #djironin, #serengetipark, #arri"
-  - username: "samia_akariou"
+    hashtags: "#cameraman, #gh5, #filmmaker, #roninm"
+  - username: "mehdi.tkito1"
     fullname: >-
-      Samia Akariou
+      Mehdi Tkito Officiel🇲🇦  تكيطو
+    bio: >-
+      🎬 Artiste
     location: "Morocco"
-    followers: 1126535
-    engagement: 143
-    commentsToLikes: 0.015724
-    id: ck55jfknhwxf30i11ssnfcdtb
-    verified: true
-    hashtags: "#givingtuesday, #corona, #my, #confiment"
+    followers: 22159
+    engagement: 347
+    commentsToLikes: 0.018042
+    id: ckaov7ykz3ft70i78j22jt802
+    verified: false
+    hashtags: "#maroc, #fashionkilla, #fes, #morocco"
+  - username: "hananibrahimiofficiel"
+    fullname: >-
+      Hananeibrahimiofficiel
+    bio: >-
+      Moroccan Actress🎬❤️Casablanca/Morocco🇲🇦Haverhill/Massachusetts 🇺🇸
+    location: "Morocco"
+    followers: 357486
+    engagement: 210
+    commentsToLikes: 0.027790
+    id: ck5hmo7czmbgb0i11z5inau1f
+    verified: false
+    hashtags: "#instamood, #instaphoto, #momofgirls, #wifey"
 ---

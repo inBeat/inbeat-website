@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food Instagram Influencers In Greece In 2020
 description: >-
-  Find top food Instagram influencers in Greece in 2020. Most popular hashtags: #sunset #memories #sunday #beauty.
+  Find top food Instagram influencers in Greece in 2020. Most popular hashtags: #greece #summer #travel #visitgreece.
 platform: Instagram
+hits: 183
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 183 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "vassiakalouda"
+  - username: "thanasis_bitzi"
     fullname: >-
-      Greek Youtuber/Beauty Vlogger
+      Thanasis Bitzilis
+    bio: >-
+      •Portrait Photographer •Based In Athens/Greece •Food Profile:@foodlens.gr •Personal Profile:@thanasis.bitzilis
     location: "Greece"
-    followers: 10190
-    engagement: 626
-    commentsToLikes: 0.099706
-    id: ck5q41a1cnam20i11t3qt50dp
+    followers: 5889
+    engagement: 1282
+    commentsToLikes: 0.094157
+    id: ck5q2nvzegxlp0i11fg05nm9x
     verified: false
-    hashtags: "#plouise, #unicornhair, #dryoil, #hudamercury"
+    hashtags: "#realismag, #instameetgrece, #portraitpage, #globalportraits"
   - username: "jim_kehagias"
     fullname: >-
       ᴊɪᴍ ᴋᴇʜᴀɢɪᴀs
+    bio: >-
+      📸 Photographer based in Athens Portrait | Fashion | Architecture | Food 📩 Dm for collaboration! Email: Dimkehagias@yahoo.gr
     location: "Greece"
-    followers: 10658
-    engagement: 1073
-    commentsToLikes: 0.083795
+    followers: 10889
+    engagement: 1684
+    commentsToLikes: 0.191912
     id: ckap6b08tf4ut0i782amr8h8v
     verified: false
-    hashtags: "#sunny, #summer2020, #palms, #sunsetlover"
-  - username: "mariageorgakaina"
+    hashtags: "#islandvibes, #photooftheday, #instagood, #sunnyday"
+  - username: "am.konstantina"
     fullname: >-
-      𝕄𝕒𝕣𝕚𝕒 𝔾𝕖𝕠𝕣𝕘𝕒𝕜𝕒𝕚𝕟𝕒 🎧🌟
+      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+    bio: >-
+      🦷Dentist 💜Fitness & Food 📍Thessaloniki, Greece 🎥YouTube channel: Konstantina 🎮Livestreaming on Facebook Gaming : @pdtproject_official
     location: "Greece"
-    followers: 10367
-    engagement: 577
-    commentsToLikes: 0.247533
-    id: ck15recy07ii50i19kkd5lndf
+    followers: 109884
+    engagement: 1304
+    commentsToLikes: 0.013674
+    id: ck0w3mozdu6y70i19405f1i8t
     verified: false
-    hashtags: "#mydaughter, #blessings, #safety, #playtime"
-  - username: "konstantinaspyropoulou"
+    hashtags: "#fitness, #greece, #konstantina, #summeringreece"
+  - username: "thaleinio"
     fullname: >-
-      Konstantina Spyropoulou
+      Thaleia Ioannou📍Athens
+    bio: >-
+      🌍Travel & food Food - @urbanfoodjunkiegr Biker girl @scramblerducatihellas Ambassador #thaleinioontour 🥇Best travel account 2018 by Athensvoice
     location: "Greece"
-    followers: 472289
-    engagement: 352
-    commentsToLikes: 0.011485
-    id: ck135qawa2pc80i19rewxvqjr
-    verified: true
-    hashtags: "#aclass, #mercedesbenz, #queendina, #mbismailos"
-  - username: "memevictim2000x"
-    fullname: >-
-      Sauced
-    location: "Greece"
-    followers: 2156
-    engagement: 1999
-    commentsToLikes: 0.040222
-    id: ck1354cwgzn6y0i19zghp7ny9
+    followers: 9865
+    engagement: 773
+    commentsToLikes: 0.051650
+    id: ck5hcdjajhi1a0i1157c2iy4o
     verified: false
-    hashtags: "#wcw, #gbf"
+    hashtags: "#monemvasia, #prague, #czechrepublic, #hotellife"
+  - username: "gogodelogianni"
+    fullname: >-
+      Gogo Delogianni
+    bio: >-
+      foodie ° cook ° recipe developer ° music lover ° DIME awards winner 2018 MAD about arts winner 2019 #gogodelogianni #foodloverfoodmaker Recipe link ⤵️
+    location: "Greece"
+    followers: 31237
+    engagement: 735
+    commentsToLikes: 0.008906
+    id: ck55lljyh1usa0i11v3z9inc1
+    verified: false
+    hashtags: "#kateveitetaskalia, #timetoendbreastcancer, #elcdonates, #lidlplus"
+  - username: "billyheis"
+    fullname: >-
+      Vasilis Siampalis
+    bio: >-
+      Portrait | Fashion | Weddings | Food | Lifestyle Photographer / Retoucher 🌍 Based in Athens / Greece
+    location: "Greece"
+    followers: 18370
+    engagement: 667
+    commentsToLikes: 0.022681
+    id: ck0twcjncew020i19gpkiju7e
+    verified: false
+    hashtags: "#prettylittlelondon, #itssolondon, #forevermagazine, #cityports"
+  - username: "lorys.story"
+    fullname: >-
+      Loredana Gavrila🇹🇩Travel Lover
+    bio: >-
+      ✧ Life is a journey, not a destination ♡ Food & Travel Lover ❖ Senior Cruise Consultant ☞ Mykonos
+    location: "Greece"
+    followers: 23836
+    engagement: 312
+    commentsToLikes: 0.045862
+    id: ck6tymwtr4ohc0j715m2bykgj
+    verified: false
+    hashtags: "#mykonosisland, #reels, #ootdinspiration, #travelreels"
   - username: "kwnpapage"
     fullname: >-
-      Κωνσταντίνα Παπαγεωργίου
+      Κωνσταντίνα Παπαγεωργίου
+    bio: >-
+      •Perfectly imperfect•📍ATH🇬🇷 •Since '93♋️•Food lover🍔🥞 •Aegean Cabin Crew✈️•DM me for collaboration 💌•
     location: "Greece"
-    followers: 23845
-    engagement: 591
-    commentsToLikes: 0.002264
+    followers: 24365
+    engagement: 626
+    commentsToLikes: 0.003129
     id: ck6uayd226ej00j71wloazsph
     verified: false
-    hashtags: "#lastoneipromise"
-  - username: "george_evge"
+    hashtags: ""
+  - username: "bb_mo.ra"
     fullname: >-
-      George Εύγε.
+      Mo.Ra.
+    bio: >-
+      I ❤️ my job, but in my spare time I’m a •Traveler •Foodie •Fashion addict •Beauty junkie •Fitness passionate
     location: "Greece"
-    followers: 7217
-    engagement: 746
-    commentsToLikes: 0.010633
-    id: ck1370c3095ls0i19ma78lasf
+    followers: 9047
+    engagement: 569
+    commentsToLikes: 0.028261
+    id: ck9hcgl4wlaek0j78wu8yy4o9
     verified: false
-    hashtags: "#tart, #mustard, #anafiotika, #smile"
-  - username: "valia_bacandrea"
+    hashtags: "#turnulsfatului, #coffeetime, #sibiuromania, #smile"
+  - username: "lydia_marend"
     fullname: >-
-      𝒱𝒶𝓁𝒾𝒶 𝐵𝒶𝒸𝒶𝓃𝒹𝓇𝑒𝒶🧿
+      𝓛𝔂𝓭𝓲𝓪 𝓶𝓪𝓻𝓮𝓭
+    bio: >-
+      ~♡ #preschool_teacher 👼 ~♡ #world_citizen 🌏 ~♡ in LOVE with #photos, #food, #travels, #art, #books, #poetry, #happy_mood, #cheery_people ! 🌸🌺🌷🌼🌹
     location: "Greece"
-    followers: 7404
-    engagement: 913
-    commentsToLikes: 0.591926
-    id: ck0w454cbwuy60i194eniohf8
+    followers: 4573
+    engagement: 1715
+    commentsToLikes: 0.318959
+    id: ck9havak2eaem0j78cqxnj5ha
     verified: false
-    hashtags: "#youtuber, #turban, #skincarejunkie, #happymood"
-  - username: "s_dimitriadis"
-    fullname: >-
-      Stefanos Dimitriadis
-    location: "Greece"
-    followers: 9998
-    engagement: 550
-    commentsToLikes: 0.008120
-    id: ck0ubyj7zfmpt0i19cyebqb86
-    verified: false
-    hashtags: "#snacktime, #support, #summer2019, #garminswim2"
-  - username: "iliasfood"
-    fullname: >-
-      Ilias Fountoulis
-    location: "Greece"
-    followers: 87312
-    engagement: 998
-    commentsToLikes: 0.003049
-    id: ck1377vnna8iu0i19nl24mg5z
-    verified: false
-    hashtags: "#maliatsiscooking, #athenscon, #5years, #andcounting"
+    hashtags: "#sunsetphotography, #sharetounite, #thailand, #greece"
 ---

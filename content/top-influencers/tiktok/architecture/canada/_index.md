@@ -1,87 +1,130 @@
 ---
 title: Top 10 Architecture TikTok Influencers In Canada In 2020
 description: >-
-  Find top architecture TikTok influencers in Canada in 2020. Most popular hashtags: #architecture #duet #singlelife #italy.
+  Find top architecture TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #architecture #canada #foryoupage.
 platform: TikTok
+hits: 10
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 10 TikTok influencers like this in Canada for you to pitch.
 profiles:
-  - username: "sanakoala"
-    fullname: >-
-      Sana Koala
-    location: "Canada"
-    followers: 11741
-    engagement: 453
-    commentsToLikes: 0.056367
-    id: ck97xo1z6w5al0j785f6gskft
-    verified: false
-    hashtags: "#pilotpete, #allstarmoment, #tiktokfashion, #duet"
   - username: "the_sparkler_"
     fullname: >-
       Sparkle Snaps
+    bio: >-
+      follow my insta for abandoned photos IG: @the_sparkler
     location: "Canada"
-    followers: 7465
-    engagement: 739
-    commentsToLikes: 0.029116
+    followers: 8390
+    engagement: 760
+    commentsToLikes: 0.025061
     id: ckac5t77zdmnc0i7806f6adys
     verified: false
-    hashtags: "#boat, #rooftop, #cinqueterre, #piano"
-  - username: "michelleeed"
+    hashtags: "#adventure, #foryoupage, #photography, #usa"
+  - username: "mattsau"
     fullname: >-
-      Michelle
+      Matt
+    bio: >-
+      swag city resident 😎
     location: "Canada"
-    followers: 5897
-    engagement: 640
-    commentsToLikes: 0.032523
-    id: ck90r93arlg1q0j78wbe5bsm5
+    followers: 34300
+    engagement: 1453
+    commentsToLikes: 0.020842
+    id: ckdi768gm8ym30j23oeerxl1p
     verified: false
-    hashtags: "#reflection, #may4th, #fire, #voiceover"
+    hashtags: "#fyp, #goldfish, #college, #architecture"
+  - username: "husorsus"
+    fullname: >-
+      Husnain Ahmed
+    bio: >-
+      
+    location: "Canada"
+    followers: 25800
+    engagement: 1431
+    commentsToLikes: 0.020186
+    id: ckdhyrz6q4ydk0j23nr2sez3o
+    verified: false
+    hashtags: "#fashion, #toronto, #alphets, #summervlog"
+  - username: "rydubs"
+    fullname: >-
+      Ryan Dubs
+    bio: >-
+      
+    location: "Canada"
+    followers: 0
+    engagement: 1107
+    commentsToLikes: 0.023399
+    id: ck9bxqhdwmpz70j780szuz2c4
+    verified: false
+    hashtags: "#businesstips, #businesstiktok, #marketing, #beauty"
+  - username: "blanche_olt_"
+    fullname: >-
+      𝓑 𝓵 𝓪 𝓷 𝓬 𝓱 𝓮
+    bio: >-
+      𝚃𝚊𝚞𝚛𝚞𝚜 ♉️ ☞︎𝚜𝚗𝚊𝚙: 𝚋𝚕𝚊𝚗𝚌𝚑𝚎𝚘𝚞𝚎𝚕𝚕𝚎𝚝☜︎ (☞ ͡° ͜ʖ ͡°)☞
+    location: "Canada"
+    followers: 7665
+    engagement: 1357
+    commentsToLikes: 0.034731
+    id: ck92uy4rno4xd0j780d5i1lmd
+    verified: false
+    hashtags: "#friends, #greenscreenvideo, #backtoschool, #gimmelove"
   - username: "renoiq"
     fullname: >-
-      Ken Long - Reno IQ
+      Ken Long - RenoIQ
+    bio: >-
+      Renovation Consultant Former Contractor Reno IQ Podcast T.O 🇨🇦
     location: "Canada"
-    followers: 55902
-    engagement: 385
-    commentsToLikes: 0.017229
+    followers: 56500
+    engagement: 366
+    commentsToLikes: 0.025272
     id: ck81s98a9qyng0j78xv7mar3y
     verified: false
-    hashtags: "#tooltime, #renovating, #screwdriver, #amazon"
-  - username: "intransfer"
+    hashtags: "#foryoupage, #tips, #homeowner, #handyman"
+  - username: "nate.ferro"
     fullname: >-
-      Brianna Wettlaufer
+      Nate Ferro
+    bio: >-
+      REAL ESTATE | LIFE Simek Realty Group
     location: "Canada"
-    followers: 5541
-    engagement: 240
-    commentsToLikes: 0.009465
-    id: ck8vtr4dvh3140j78plat7j7x
+    followers: 2759
+    engagement: 392
+    commentsToLikes: 0.036874
+    id: ckbf88732yr6q0j2398lktc2f
     verified: false
-    hashtags: "#notapet, #colorado, #hiking, #moab"
-  - username: "charles.torino"
-    fullname: >-
-      Charles ジ
-    location: "Canada"
-    followers: 153824
-    engagement: 1057
-    commentsToLikes: 0.007142
-    id: ck81qxspzksap0j789poc6ws7
-    verified: false
-    hashtags: "#architecture, #streetphotos, #xyzbca, #carphotography"
+    hashtags: "#foryou, #luxuryhomes, #hamilton, #luxury"
   - username: "tianatait"
     fullname: >-
       Tiana 💗
+    bio: >-
+      🇮🇹♾🧿 Architectural Designer & Owns 2 Businesses✨
     location: "Canada"
-    followers: 2642
-    engagement: 640
-    commentsToLikes: 0.084893
+    followers: 14800
+    engagement: 625
+    commentsToLikes: 0.090601
     id: cka61erqrv3vc0i780gx1sbx6
     verified: false
-    hashtags: "#homemade, #itsaremix, #tiktokfashion, #downtowntoronto"
-  - username: "baraabarazi"
+    hashtags: "#canada, #canadiancheck, #duet, #winnipeg"
+  - username: "oliviasarts"
     fullname: >-
-      Baraa Barazi
+      Olivia
+    bio: >-
+      I draw a lot Check out my IG for more art🐝
     location: "Canada"
-    followers: 2223
-    engagement: 383
-    commentsToLikes: 0.078448
-    id: ckai5yafdu0rm0i784o5alxn5
+    followers: 10300
+    engagement: 1851
+    commentsToLikes: 0.044214
+    id: ckafu2lz18fje0i78t4a7mco6
     verified: false
-    hashtags: "#water, #ibiza, #singer, #louisvuitton"
+    hashtags: "#art, #sketch, #storyline, #pen"
+  - username: "mza.19"
+    fullname: >-
+      Doctor President 💯
+    bio: >-
+      laugh more live more learn more 😂🤔😊 ps I do not own these videos.😇
+    location: "Canada"
+    followers: 4058
+    engagement: 411
+    commentsToLikes: 0.015974
+    id: ck9nczvhfcda50j78lmjcub9c
+    verified: false
+    hashtags: "#water, #cat, #lol, #dog"
 ---

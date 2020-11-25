@@ -1,52 +1,65 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Chicago In 2020
 description: >-
-  Find top rappers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #rapper #rappers #musician.
+  Find top rappers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #rapper #music #love.
 platform: Instagram
+hits: 46
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 46 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "fbprincejames"
+  - username: "itslildurk2x"
     fullname: >-
-      PrinceJames
+      Lil Durk Fan Page
+    bio: >-
+      Post snippets, pictures, and videos of my favorite artist🥵
     location: "United States"
-    followers: 10118
-    engagement: 268
-    commentsToLikes: 0.048361
-    id: ck5ciiconsp3t0i11w6q6mufc
+    followers: 22120
+    engagement: 249
+    commentsToLikes: 0.019638
+    id: ck0u0r43uuof80i197bkc6rxu
     verified: false
-    hashtags: "#notyograndmas, #chicagobound, #bigdawgpj, #princejames"
-  - username: "natalia_pecak"
+    hashtags: "#explore, #otf, #rapper, #chicago"
+  - username: "cbmusic"
     fullname: >-
-      Natalia Pecak🦋
+      Chad Bernstein
+    bio: >-
+      Father to FOUR amazing kids; Husband to @the_bernstein_brood (warrior woman of my dreams); Musician/entrepreneur; CEO/founder of @guitarsoverguns
     location: "United States"
-    followers: 4164
-    engagement: 2780
-    commentsToLikes: 0.048987
-    id: ck6u15nqnjqjw0j719dx4we6o
+    followers: 2864
+    engagement: 413
+    commentsToLikes: 0.068454
+    id: ck5zx3aw979if0i14kbt6w9z1
     verified: false
-    hashtags: "#likes4like, #artist, #chicagomodelswanted, #camouflage"
-  - username: "whoishughlee"
+    hashtags: "#trombonist, #miami, #love, #musicforchange"
+  - username: "mattmuse12"
     fullname: >-
-      Hugh Lee
+      Matt Muse
+    bio: >-
+      rapper, souf side chicago, hair steady growin SHOTGUN remix music video out now! 🚗
     location: "United States"
-    followers: 17549
-    engagement: 327
-    commentsToLikes: 0.104596
-    id: ck5cggpc4ot020i11q27u6hvu
+    followers: 7908
+    engagement: 765
+    commentsToLikes: 0.061253
+    id: ck55q12ixbv080i110b99lmzx
     verified: false
-    hashtags: "#bojackhorseman, #factitious, #independentartist, #awakenmylove"
-  - username: "lifeofsmorris"
+    hashtags: "#ilookedintothesunwhiledoingthis, #fallfashion, #fall, #inmyjs"
+  - username: "younomii"
     fullname: >-
-      Scott Morris (The real one)
+      CHICAGO’S GIRLFRIEND 💃🏽🌃 ✨
+    bio: >-
+      🎤🎼 CHICAGO ARTIST!! BOOKING: 7735383922
     location: "United States"
-    followers: 15934
-    engagement: 431
-    commentsToLikes: 0.115895
-    id: ck5hlr5uqkpet0i118bkur8z5
+    followers: 153151
+    engagement: 188
+    commentsToLikes: 0.039697
+    id: ck5cb5yp8esqr0i11oo8rzm8a
     verified: false
-    hashtags: "#studio, #haircut, #promotion, #records"
+    hashtags: ""
   - username: "xclusive___chris"
     fullname: >-
       @chrisgonecrazy_‼️MAIN PAGE‼️
+    bio: >-
+      📍Chicago Dancer🔥 Rapper🎤 Actor🎬 Follow my main page { @chrisgonecrazy_ } Chris & Debo 🤘🏽
     location: "United States"
     followers: 77062
     engagement: 174
@@ -54,54 +67,64 @@ profiles:
     id: ckap2yjez0v1b0i786ouib81h
     verified: false
     hashtags: "#chrisgonecrazy, #chrisanddebo"
-  - username: "keyairakelly"
+  - username: "mrwilliamcruse"
     fullname: >-
-      Keyaira Kelly
+      Sir Cruse
+    bio: >-
+      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
     location: "United States"
-    followers: 11608
-    engagement: 386
-    commentsToLikes: 0.138536
-    id: ck6u3iow2y0i50j711vhi7ysp
+    followers: 38602
+    engagement: 768
+    commentsToLikes: 0.015702
+    id: ck5c6ekj559zm0i11030vuue0
     verified: false
-    hashtags: "#blackmystics, #faith, #interviews, #herbo"
-  - username: "askaboutamala"
+    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
+  - username: "gt.vii73"
     fullname: >-
-      Amala Iyanla
+      Gabriel Townsell // VII
+    bio: >-
+      Raps & Wrestling. 1/2 of Showtime Squad. Stanford ‘20. America to Me on @starz. @bwassociation_. Westside.
     location: "United States"
-    followers: 37617
-    engagement: 180
-    commentsToLikes: 0.056949
-    id: ck5zwypck70j10i149tryspe8
+    followers: 8984
+    engagement: 610
+    commentsToLikes: 0.051189
+    id: ck5c3eu68z6ng0i11p4txrelc
     verified: false
-    hashtags: "#lhhny, #theescapefromrealitytour, #explorepage, #undergroundhiphop"
+    hashtags: "#worldstarhiphop, #art, #chicago, #773"
   - username: "aintyoudevo"
     fullname: >-
-      Devo, J.D.
+      J.Devo
+    bio: >-
+      Certified Mediator Northwestern Pritzker Law Alumna 👩🏽‍⚖️ ΔΣΘ | PYR🔺MID | UIUC Alumna | ChicaGOAT📍
     location: "United States"
-    followers: 7204
-    engagement: 1090
-    commentsToLikes: 0.198810
+    followers: 7465
+    engagement: 790
+    commentsToLikes: 0.100832
     id: ckap55nivab1l0i788909innc
     verified: false
-    hashtags: "#chrisbrown, #blackgraduates, #renegade, #explore"
-  - username: "capturedbynico"
+    hashtags: "#chicago, #lawyerbaes, #jd, #music"
+  - username: "bjbeatz_"
     fullname: >-
-      Nico
+      “Goddamn BJ Wit Another One” 😈
+    bio: >-
+      Platinum/Billboard #1 Producer 💿 📊Over 2 Million Views On YouTube 💰DM To Purchase 📍Chicago ▶️Youtube : BJ Beatz BeatStore ⬇️⬇️⬇️
     location: "United States"
-    followers: 5924
-    engagement: 739
-    commentsToLikes: 0.023519
-    id: ck6tmhyy67vtw0j7191hzo42c
+    followers: 6915
+    engagement: 1287
+    commentsToLikes: 0.127514
+    id: ckaorrkf0ofiy0i78fp2mg6gd
     verified: false
-    hashtags: "#junglelords, #instaportrait, #joessportsbar, #dobrik"
-  - username: "jtk2bz"
+    hashtags: "#nbayoungboy, #goddamnbjwitanotha1, #top, #chicago"
+  - username: "superwillie"
     fullname: >-
-      JTK™️ 🐐🐐
+      Willie Holmes
+    bio: >-
+      Master coach @SÍCLO 🚴🏿 Been some places, learned some things, changed some lives 🏋🏿‍♂️ @campfuga @opt1models Chicago Get sum Willpowered-ness 📍🇲🇽
     location: "United States"
-    followers: 11845
-    engagement: 518
-    commentsToLikes: 0.146108
-    id: ck6tt18w580de0j713wk7jyyu
+    followers: 19681
+    engagement: 335
+    commentsToLikes: 0.046974
+    id: ck5q7rdyg2s4w0i11kv9z8umn
     verified: false
-    hashtags: "#singers, #unsignedartists, #killaseason, #beatgiveaway"
+    hashtags: "#tulummexico, #tulumbeach, #superwillie, #tulum"
 ---

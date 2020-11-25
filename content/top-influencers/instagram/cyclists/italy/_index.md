@@ -1,107 +1,130 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Italy In 2020
 description: >-
-  Find top cyclists Instagram influencers in Italy in 2020. Most popular hashtags: #stayathome #training #iorestoacasa #zwift.
+  Find top cyclists Instagram influencers in Italy in 2020. Most popular hashtags: #cyclinglife #cyclist #cycling.
 platform: Instagram
+hits: 98
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 98 Instagram influencers like this in Italy for you to collaborate.
 profiles:
+  - username: "stefanoellea"
+    fullname: >-
+      Stefano LA
+    bio: >-
+      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
+    location: "Italy"
+    followers: 22303
+    engagement: 726
+    commentsToLikes: 0.044025
+    id: ck0vx12hnwlrl0i19zqu8qjap
+    verified: false
+    hashtags: ""
   - username: "leti_galva"
     fullname: >-
       Letizia Galvani
+    bio: >-
+      🎓 Academy of fine Arts @aba.verona 🚴 Professional cyclist @asdborntowin 🚴🏻‍♀️Fixed rider @ird_squadra_corse #staygalva Age 24 Ravenna
     location: "Italy"
-    followers: 10857
-    engagement: 1392
-    commentsToLikes: 0.037519
+    followers: 10947
+    engagement: 1154
+    commentsToLikes: 0.029969
     id: ck14k1z5pnbow0i194oav6afx
     verified: false
-    hashtags: "#summerportrait, #sunsetlife, #valentinobags, #ritrattiamatita"
-  - username: "sofiacollinelli_official"
-    fullname: >-
-      Sofiacollinelli
-    location: "Italy"
-    followers: 24460
-    engagement: 1428
-    commentsToLikes: 0.018739
-    id: ckap0gwn2q8ev0i78ap607vu7
-    verified: false
-    hashtags: "#biotexunderwear, #ravenna, #4maggio, #pancakes"
+    hashtags: "#mountaincycling, #fixie, #travelbike, #sportwoman"
   - username: "t.dumoulin"
     fullname: >-
       Tom Dumoulin
+    bio: >-
+      Professional cyclist for @jumbovisma_road🚴🏻‍♂️ World TT gold🥇 Olympic TT silver🥈 and 2017 Giro d'Italia winner🇮🇹
     location: "Italy"
-    followers: 32513
-    engagement: 1707
-    commentsToLikes: 0.017689
+    followers: 98171
+    engagement: 1149
+    commentsToLikes: 0.009943
     id: ck6ue4eeforr90j71cmpvau96
     verified: false
-    hashtags: "#supermarkthelden, #everydayriding"
-  - username: "daaniele_20"
-    fullname: >-
-      Daniele Mangiaterra🇮🇹
-    location: "Italy"
-    followers: 2574
-    engagement: 1312
-    commentsToLikes: 0.263929
-    id: ck0w5zagi65hs0i192mi4q67j
-    verified: false
-    hashtags: "#hiit, #staymotivated, #cyclingpasion, #giantbycicles"
-  - username: "whatkathydidnext"
-    fullname: >-
-      Kathy 50+🇬🇧
-    location: "Italy"
-    followers: 28430
-    engagement: 199
-    commentsToLikes: 0.179489
-    id: ck0vzqj35aers0i19ony6i0o2
-    verified: false
-    hashtags: "#mudhousewines, #baukjen, #cornersofmyhome, #buffetdress"
-  - username: "dimbal88"
-    fullname: >-
-      dimitri baldassarra
-    location: "Italy"
-    followers: 10486
-    engagement: 940
-    commentsToLikes: 0.039394
-    id: ck6tzfkna9edz0j71vak9xidf
-    verified: false
-    hashtags: "#realpower, #cyclingquotes, #turbotrainer, #escape"
-  - username: "fausto_masnada"
-    fullname: >-
-      Fausto Masnada
-    location: "Italy"
-    followers: 37610
-    engagement: 910
-    commentsToLikes: 0.030240
-    id: ck5hcxhx4kfvq0i112d22ptra
-    verified: true
-    hashtags: "#day6, #day9, #throwback, #mangiate"
-  - username: "maximilian_schachmann"
-    fullname: >-
-      Maximilian Schachmann
-    location: "Italy"
-    followers: 27340
-    engagement: 1099
-    commentsToLikes: 0.010080
-    id: ck5hnfi02noze0i11s5zit6me
-    verified: false
-    hashtags: "#wearethecookingrevolution, #waytoride, #parisnice, #boracookingsystems"
-  - username: "chiara_consonnii"
-    fullname: >-
-      ⭐️Chiara Consonni⭐️
-    location: "Italy"
-    followers: 21574
-    engagement: 1180
-    commentsToLikes: 0.008613
-    id: ck6tynrs24t5j0j71v0ybolqe
-    verified: false
-    hashtags: "#christmas, #training, #setmanavalenciana, #pertera"
+    hashtags: "#samenwinnen, #tdf2020, #everydayriding, #bbetterbreak"
   - username: "emidioland"
     fullname: >-
       Emidio Terra
+    bio: >-
+      🚴🏻 Italian Cyclist 🇮🇹 Ride for: @brytonsport @gorouvy @rhthelookofsport @sellesanmarco Abruzzo Smart Ambassador
     location: "Italy"
-    followers: 13176
-    engagement: 401
-    commentsToLikes: 0.084542
+    followers: 13548
+    engagement: 473
+    commentsToLikes: 0.077807
     id: ck602tlakj2l90i14jr2gvbc7
     verified: false
-    hashtags: "#shortfit, #mtbphotos, #gift, #wood"
+    hashtags: "#cyclingshot, #cyclingday, #senzabicinonsostare, #sellesanmarco"
+  - username: "chiara_consonnii"
+    fullname: >-
+      ⭐️Chiara Consonni⭐️
+    bio: >-
+      🌈 3x World Champion 🇪🇺6x European Champion 📧 chiaraconsonni99@gmail.com 🚴‍♀️ Pro cyclist by @valcar_ts 🇮🇹 Italy 📍 Bergamo #CC #veryverysuper 🤪
+    location: "Italy"
+    followers: 25944
+    engagement: 1264
+    commentsToLikes: 0.008217
+    id: ck6tynrs24t5j0j71v0ybolqe
+    verified: false
+    hashtags: "#blonde, #cc, #veryverysuper, #plouay"
+  - username: "jarnoiotti"
+    fullname: >-
+      Jarno Iotti
+    bio: >-
+      Fotografo e Factotum di @ligabue_official dal 1999 Music lover 🎵 Motocyclist 🏍 Cyclist 🚴🏻 Nature lover 🏕 Based in Italy/Correggio
+    location: "Italy"
+    followers: 7435
+    engagement: 1021
+    commentsToLikes: 0.032111
+    id: ck0vxf9ccylyr0i19z86pfbkg
+    verified: false
+    hashtags: "#mondadori, #gravelworld, #liga, #massimocotto"
+  - username: "sandralovisco"
+    fullname: >-
+      Sandra Lovisco Kildevæld
+    bio: >-
+      Beauty✦Sport Content Creator Digital Influencer Ambassador @trekbikes_italia @garminitaly @rhthelookofsport @altrarunning #cyclist #triathlete #trail
+    location: "Italy"
+    followers: 85894
+    engagement: 104
+    commentsToLikes: 0.147973
+    id: ckf5x2y0eu5o40j235ldwm8w0
+    verified: false
+    hashtags: "#womanbike, #hairstyle, #trekitalia, #sandralovisco"
+  - username: "driesdevenyns"
+    fullname: >-
+      Dries Devenyns
+    bio: >-
+      Pro cyclist @deceuninck_quickstepteam
+    location: "Italy"
+    followers: 12588
+    engagement: 1340
+    commentsToLikes: 0.007727
+    id: ck6tnn82qa6hp0j71d9v6hmfi
+    verified: false
+    hashtags: "#family, #lightattheendofthetunnel, #sevi, #jongewolf"
+  - username: "gianni_vermeersch"
+    fullname: >-
+      Gianni Vermeersch
+    bio: >-
+      Pro Cyclist @alpecinfenix ❤️ @shaunyvandekerckhove https://www.zwift.com/events/view/1171246
+    location: "Italy"
+    followers: 9758
+    engagement: 1063
+    commentsToLikes: 0.021871
+    id: ck6u3wfj809w40j71z1evq8ji
+    verified: false
+    hashtags: "#alpecinfenix, #stradebianche, #canyon, #tuscany"
+  - username: "fausto_masnada"
+    fullname: >-
+      Fausto Masnada
+    bio: >-
+      Pro Italian cyclist 🇮🇹 🚴🏻 @deceuninck_quickstepteam 🐺 📍🇮🇩 Smash like👇🏻
+    location: "Italy"
+    followers: 44464
+    engagement: 1031
+    commentsToLikes: 0.018202
+    id: ck5hcxhx4kfvq0i112d22ptra
+    verified: true
+    hashtags: ""
 ---

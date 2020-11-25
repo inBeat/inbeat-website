@@ -1,107 +1,130 @@
 ---
 title: Top 10 Instagram Influencers In Rio De Janeiro In 2020
 description: >-
-  Find top Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #tbt #rockinrio2019 #sunset #libertadores.
+  Find top Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #riodejaneiro #topofbrazil #vibepositivamundo.
 platform: Instagram
+hits: 2765
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 2765 Instagram influencers like this in Rio de Janeiro, Brazil for you to work with.
 profiles:
-  - username: "betaclaper"
+  - username: "audhreysf"
     fullname: >-
-      Beta Claper ☼
+      Audhrey Freire ®
+    bio: >-
+      Rio de Janeiro, 🇧🇷 • Bailarina e dançarina profissional • Atriz • Professora • Educação Física UCB 📌 Parcerias via Direct
     location: "Brazil"
-    followers: 21666
-    engagement: 1278
-    commentsToLikes: 0.082697
-    id: ck5pwrzr8oav40i11til22ehq
+    followers: 5580
+    engagement: 2154
+    commentsToLikes: 0.089381
+    id: ck5bv583wj0mz0i11ooe9qnjt
     verified: false
-    hashtags: "#blackfridaynoshop2gether, #shop2gether, #love2share, #publi"
+    hashtags: "#youtube, #dance, #choreography, #bigbank"
   - username: "alexh.carvalho"
     fullname: >-
       🇧🇷Alex Henrique
+    bio: >-
+      🌎Digital Influencer 🎩Embaixador @reserva 🇧🇷Rio de Janeiro 📸Gopro Hero 6
     location: "Brazil"
-    followers: 18041
-    engagement: 1230
-    commentsToLikes: 0.096644
+    followers: 17504
+    engagement: 1473
+    commentsToLikes: 0.084722
     id: ckaovghg34j590i78ny3fku01
     verified: false
-    hashtags: "#riostar, #pedrabonita, #rockinrio2019, #istanbul"
-  - username: "mah.costa"
+    hashtags: "#goprolife, #goprorj, #hero6, #goprobrasil"
+  - username: "leoninhax"
     fullname: >-
-      Mah Costa
+      BOPE LEONAx
+    bio: >-
+      🦋Streamer no: @facebookgaming @bope_oficialff 📍Rio de janeiro, Rj
     location: "Brazil"
-    followers: 101085
-    engagement: 645
-    commentsToLikes: 0.139539
-    id: ck6tmfmsf7rd20j71hwidfoso
+    followers: 29694
+    engagement: 1420
+    commentsToLikes: 0.073412
+    id: ck8tbuqzix8be0j78w40tch63
     verified: false
-    hashtags: "#tbt, #tudookchallenge, #dogs, #somequeelevematraschallenge"
-  - username: "izabella.aguiar_"
+    hashtags: "#instagood, #ff, #garenafreefire, #photography"
+  - username: "juliana_costan_"
     fullname: >-
-      • IZA•
+      Juliana Costa
+    bio: >-
+      ❤ Cabelo | Beleza | Dicas | Dia a dia 📍 Rio de Janeiro, RJ | 18 anos 📩 Jucostajjla@gmail.com
     location: "Brazil"
-    followers: 2384
-    engagement: 2713
-    commentsToLikes: 0.248419
-    id: ckapbap00z7e20i78zbw9m19a
+    followers: 16681
+    engagement: 1344
+    commentsToLikes: 2.681087
+    id: ck9woq2zw64m50j78ezu0r3bm
     verified: false
-    hashtags: "#model, #marketingdigital, #digitalinfluencers, #make"
+    hashtags: "#hidrata, #cacheadasdoinstagram, #hidratacaocapilar, #cacheadas"
+  - username: "samendossantos"
+    fullname: >-
+      SAMEN DOS SANTOS
+    bio: >-
+      📍Rio de Janeiro RS⇿RJ Aqui tu vai encontrar! ° Um pouco sobre o meu trabalho.👌🏿 ° Um pouquinho de mim!🖤⠀ ° E tudo aquilo que eu achar interessante.✌🏿
+    location: "Brazil"
+    followers: 16502
+    engagement: 969
+    commentsToLikes: 0.212623
+    id: ck6u4pb56519a0j71x2wb3du5
+    verified: false
+    hashtags: "#cabelonatural, #cachospoderosos, #cabelosaudavel, #cachos"
+  - username: "coisamaislinda"
+    fullname: >-
+      Coisa Mais Linda
+    bio: >-
+      Coisa Mais Linda é voltar para o Rio de Janeiro dos anos 1960 com vocês. ❤️ Segunda temporada já disponível!
+    location: "Brazil"
+    followers: 175221
+    engagement: 2272
+    commentsToLikes: 0.037610
+    id: ck6u605sacrz80j71jj87biq7
+    verified: true
+    hashtags: ""
+  - username: "jvmartinsa"
+    fullname: >-
+      João Martins
+    bio: >-
+      📷| Fotógrafo das pole dancer e retratos 📍| Rio de Janeiro, RJ ✉️| Orçamento por DM ou e-mail
+    location: "Brazil"
+    followers: 6180
+    engagement: 2060
+    commentsToLikes: 0.244986
+    id: ck8sybbqikcca0j78yljcv3r1
+    verified: false
+    hashtags: "#arraialdo, #arraialdocabo, #riodejaneiro"
   - username: "n.nunes_art"
     fullname: >-
       ❀ NICOLLY NUNES ❀
+    bio: >-
+      👸🏻| 18 anos 🇧🇷| BR- Rio de Janeiro ✍🏻| Autodidata 🎶| Somos mais de 120K no TikTok♡ (@ nicollynunesart) ❌| Não faço encomendas
     location: "Brazil"
-    followers: 5907
-    engagement: 2018
-    commentsToLikes: 0.107992
+    followers: 7035
+    engagement: 1785
+    commentsToLikes: 0.119857
     id: ck15rfo9z7p7p0i19azmq7wju
     verified: false
-    hashtags: "#menamassoud, #tiktok, #sarahjeffery, #aladdin"
-  - username: "brenogonzalez"
-    fullname: >-
-      Breno Gonzalez
-    location: "Brazil"
-    followers: 112495
-    engagement: 1621
-    commentsToLikes: 0.084619
-    id: ck8wenv9pecea0j78ggtlzjai
-    verified: false
-    hashtags: "#tbt, #piscadinhadobreno, #brenogonzalez"
-  - username: "willyrodriguess"
-    fullname: >-
-      willy
-    location: "Brazil"
-    followers: 14561
-    engagement: 1308
-    commentsToLikes: 0.083018
-    id: ck9ha5phcb9e40j78t3zxoahv
-    verified: false
-    hashtags: "#carioca, #tiktokboys, #goodvibes, #vintage"
+    hashtags: "#art, #netflix, #feature, #horrormovie"
   - username: "jennifercoutods"
     fullname: >-
       Jenni 🌈
+    bio: >-
+      📍Rio de Janeiro ⚖️ Direito
     location: "Brazil"
-    followers: 37951
-    engagement: 1129
-    commentsToLikes: 0.060107
+    followers: 35663
+    engagement: 1263
+    commentsToLikes: 0.063641
     id: ck6027fnugv2f0i1488frrwns
     verified: false
-    hashtags: "#tatuagem, #auladesurf, #praia, #beach"
-  - username: "tainamraes"
+    hashtags: "#tattoo, #auladesurf, #beach, #sunset"
+  - username: "alinecalheirosb"
     fullname: >-
-      Tainá Moraes
+      Aline Calheiros
+    bio: >-
+      𝑬𝒎 𝒕𝒊, 𝑺𝒆𝒏𝒉𝒐𝒓, 𝒎𝒆 𝒓𝒆𝒇𝒖𝒈𝒊𝒐 ♡︎ 𝔽𝕒𝕚𝕥𝕙 ✨🙏 Graduation ⚖️ Rio de Janeiro, Brasil 🇧🇷
     location: "Brazil"
-    followers: 139149
-    engagement: 659
-    commentsToLikes: 0.320974
-    id: ck6ufzizv021j0j71rvynwggu
+    followers: 19360
+    engagement: 893
+    commentsToLikes: 0.197514
+    id: ck601bq5qf72e0i14af48bnfo
     verified: false
-    hashtags: "#sa, #vaipassar, #emcasa, #esperan"
-  - username: "ogtreasure7"
-    fullname: >-
-      OGTREASURE7 😈💧
-    location: "Brazil"
-    followers: 25174
-    engagement: 1840
-    commentsToLikes: 0.056743
-    id: ck5q5inlyt1ml0i11rtecgtjg
-    verified: false
-    hashtags: ""
+    hashtags: "#gentequetrilha, #flutuanterio, #destinoerrejota, #trilhasrjj"
 ---

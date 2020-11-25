@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Belgium In 2020
 description: >-
-  Find top fashion Instagram influencers in Belgium in 2020. Most popular hashtags: #stayhome #staysafe #idealofsweden #giveaway.
+  Find top fashion Instagram influencers in Belgium in 2020. Most popular hashtags: #girlsgoneloavies #fashion #outfitinspiration #lifestyle.
 platform: Instagram
+hits: 205
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 205 Instagram influencers like this in Belgium for you to contact.
 profiles:
   - username: "yaniheyvaerts"
     fullname: >-
       ★ Yani ★
+    bio: >-
+      || 26 || Crazy cat lady || Fashion addict || Y♥
     location: "Belgium"
-    followers: 5436
-    engagement: 1690
-    commentsToLikes: 0.312978
+    followers: 5669
+    engagement: 1333
+    commentsToLikes: 0.285790
     id: ck8t4c9ef691w0j781ho39th6
     verified: false
-    hashtags: "#getanchored, #idealofswedenbelgium, #youaremyanchor, #paulhewitt"
-  - username: "romymonamour_"
+    hashtags: "#myjewellery, #myjewellerybelgium"
+  - username: "jobbyba"
     fullname: >-
-      » 𝐙 𝐎 𝐄̈ | 𝕄𝚊 𝚟𝚒𝚎 𝚍𝚎 𝚖𝚊𝚖𝚊𝚗.
+      Joséphine B. - Fashion/Deco
+    bio: >-
+      📍🇧🇪🇨🇩 Welcome to my fashion page If you like my style and it inspires you, let me know 🙂😉 Let the show begin 📸🛍👡👜👖👚🩱👗 Contact: mllebadeba@hotmail.com
     location: "Belgium"
-    followers: 6697
-    engagement: 1687
-    commentsToLikes: 0.308825
-    id: ck5q10hnp8nof0i1194csdqyp
+    followers: 5957
+    engagement: 988
+    commentsToLikes: 0.231098
+    id: ckapbjpu104vm0i78m0hcuqyk
     verified: false
-    hashtags: "#premierpas, #appareilvapeur, #lunettedesoleil, #mymustelababy"
-  - username: "lifestyle_fashion68"
+    hashtags: "#100flavoursuk, #loavies, #fashionbaw, #fbloggerstyle"
+  - username: "jarnebaele"
     fullname: >-
-      Carpe Diem🇧🇪
+      JARNE BAELE
+    bio: >-
+      IF | Running | Fashion ​ 📩 jarne.baele@hotmail.com​
     location: "Belgium"
-    followers: 22455
-    engagement: 992
-    commentsToLikes: 0.269231
-    id: ck15uaov9m8sn0i194u5jq4h2
+    followers: 91311
+    engagement: 910
+    commentsToLikes: 0.061563
+    id: ck5zx3lqs7a090i14pem36vhr
     verified: false
-    hashtags: "#outdoor, #ageless, #fashioninta, #eyewearstyle"
+    hashtags: "#giveaway, #iphone11pro, #lockdown, #win"
   - username: "hi.itsjolienn"
     fullname: >-
-      JOLIEN
+      JOLIEN ✌🏻 CONTENT CREATOR
+    bio: >-
+      MY WORLD IN PICTURES ✨| GHENT 📍 🙋🏻‍♀️ Psychology student 🎀 Positive vibes with a hint of Fashion & Beauty 💬 itsjolienn@gmail.com
     location: "Belgium"
-    followers: 8396
-    engagement: 1189
-    commentsToLikes: 0.110340
+    followers: 8844
+    engagement: 822
+    commentsToLikes: 0.112964
     id: ck5hhlx278wrn0i11oms8mi5w
     verified: false
-    hashtags: "#thebodyshop, #sunnydays, #marble, #shoeoftheday"
+    hashtags: "#whatiweartoday, #outfitdujour, #fashionmagazine, #outfitinspirations"
   - username: "celinemaufor"
     fullname: >-
-      Céline Maufor
+      Céline Maufor
+    bio: >-
+      •Brussels •Physiotherapist •Fashion, food and lifestyle •mauforceline@hotmail.com/DM
     location: "Belgium"
-    followers: 13162
-    engagement: 885
-    commentsToLikes: 0.179380
+    followers: 14387
+    engagement: 763
+    commentsToLikes: 0.223188
     id: ck14gsa5r6rv10i198hq8u1pl
     verified: false
-    hashtags: "#concours, #signenature, #liptonbe, #paulhewitt"
-  - username: "kim.dejonghe"
+    hashtags: "#brussels, #fashion, #giveaway, #contest"
+  - username: "winniedaems"
     fullname: >-
-      K I M
+      Winnie Daems
+    bio: >-
+      FASHION| TRAVEL| DREAM 🔸Belgian Content creator🌈 🔸Gek op @timodewaele, kleurrijke outfits, dansen en de wereld ontdekken 💕🌺 💌 winniedaems@hotmail.com
     location: "Belgium"
-    followers: 7543
-    engagement: 953
-    commentsToLikes: 0.096014
-    id: ck8t3xnjg4v5q0j781imadgqg
+    followers: 12901
+    engagement: 783
+    commentsToLikes: 0.250664
+    id: ck6tmcmgx7lfe0j719xbnzhld
     verified: false
-    hashtags: "#bjewels, #mothersday, #newhome, #movedin"
-  - username: "mandisfashionworld"
-    fullname: >-
-      ᔕopнie Ꮇandi ✶
-    location: "Belgium"
-    followers: 30439
-    engagement: 396
-    commentsToLikes: 0.201183
-    id: ck55msmse4ols0i11ev3mett4
-    verified: false
-    hashtags: "#zara, #concoursinternational, #free, #jeuconcours"
-  - username: "ruxandraioana"
-    fullname: >-
-      ♥ RUX ♥ 🦂
-    location: "Belgium"
-    followers: 43197
-    engagement: 355
-    commentsToLikes: 0.097816
-    id: ck0w5g7i43hq00i19uzu7oqse
-    verified: false
-    hashtags: "#belgianblog, #brusselsblogger, #underwaterlove, #shopping"
-  - username: "eliengrosemans"
-    fullname: >-
-      ⋆ ELIEN GROSEMANS ⋆
-    location: "Belgium"
-    followers: 20179
-    engagement: 448
-    commentsToLikes: 0.200674
-    id: ck136f5l466vt0i19gu5wjctb
-    verified: false
-    hashtags: "#stayhome, #quartierbleu, #hasseltbruist, #beejuugirl"
+    hashtags: "#prettylittleiiinspo, #instagood, #loavies, #outfitpost"
   - username: "erikaverginelli"
     fullname: >-
       *** ERIKA VERGINELLI ***
+    bio: >-
+      Photographer + Film Director | Advertising and Fashion
     location: "Belgium"
-    followers: 24843
-    engagement: 443
-    commentsToLikes: 0.109101
+    followers: 24885
+    engagement: 429
+    commentsToLikes: 0.108484
     id: ck5c6z3mq6hmv0i11nwxnk376
     verified: false
-    hashtags: "#editorial, #tbt, #emanuellaepeppe, #vaipassar"
+    hashtags: "#barcelona, #editorial, #stayhome, #flowerphotography"
+  - username: "miss_k_510"
+    fullname: >-
+      🎀 The World Of Miss K 🎀
+    bio: >-
+      💝 Kristina 💝 📸 Life-Moments:fashion • beauty • lifestyle 📩 collab: info.missk510@gmail.com / dm 💖 Proud mom of two ⠀
+    location: "Belgium"
+    followers: 19970
+    engagement: 452
+    commentsToLikes: 0.139177
+    id: ck136f5sx66x20i195e46bvsv
+    verified: false
+    hashtags: "#ootd, #autumnstyle, #lifestyle, #outfitideas"
+  - username: "brittboeckx"
+    fullname: >-
+      BRITT BOECKX
+    bio: >-
+      👝Fashion|Beauty|Lifestyle 🌞Spread positivity. 👼🏼Say hi: brittboeckx2000@gmail.com
+    location: "Belgium"
+    followers: 2845
+    engagement: 1477
+    commentsToLikes: 0.163489
+    id: ckaox6pupc0vc0i787o7p293l
+    verified: false
+    hashtags: "#royalglamcollection, #safirashine, #girlsgoneloavies, #ixxxijewelry"
+  - username: "jeremy.caira"
+    fullname: >-
+      Jeremy Caira
+    bio: >-
+      👤 Digital Influencer 📷 Model 🌍 TRAVEL • LIFESTYLE • FASHION • DECO ✉ Business or Collaboration : DM or Jeremy.caira@live.be
+    location: "Belgium"
+    followers: 42593
+    engagement: 291
+    commentsToLikes: 0.054902
+    id: ck55ppy3wb47l0i11kufwus8h
+    verified: false
+    hashtags: "#male, #inspiration, #fashionstyle, #menstyle"
 ---

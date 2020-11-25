@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Melbourne In 2020
 description: >-
-  Find top beauty TikTok influencers in Melbourne in 2020. Most popular hashtags: #beauty #coronavirus #aussietreats #mycrib.
+  Find top beauty TikTok influencers in Melbourne in 2020. Most popular hashtags: #fyp #beauty #foryou #australia.
 platform: TikTok
+hits: 16
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 16 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
-  - username: "glambyson"
+  - username: "freshbeautyskin"
     fullname: >-
-      Sonali Kapoor
+      freshbeautyskin
+    bio: >-
+      FRESH BEAUTY (Melbourne, Australia) Instagram @freshbeautyskin
     location: "Australia"
-    followers: 15938
-    engagement: 433
-    commentsToLikes: 0.024494
-    id: cka0rnodrhs320i78fc9bgoee
+    followers: 51000
+    engagement: 878
+    commentsToLikes: 0.005203
+    id: ckbf4v2v4thch0j237rk0535n
     verified: false
-    hashtags: "#tiktokmakeup, #music, #beauty, #coles"
-  - username: "timtavaria"
+    hashtags: "#foryoupage, #eyebrow, #laser, #deep"
+  - username: "messydanieljack"
     fullname: >-
-      Tim Tavaria
+      Jesse Mack
+    bio: >-
+      MELBOURNE, AUS
     location: "Australia"
-    followers: 14650
-    engagement: 788
-    commentsToLikes: 0.025203
-    id: cka67s61xm5e80i785hcija0o
+    followers: 44800
+    engagement: 485
+    commentsToLikes: 0.033061
+    id: cka0rnj15hqt90i78cscih7d9
     verified: false
-    hashtags: "#thankful, #custombike, #baby, #gonnabefriends"
+    hashtags: "#fyp, #balletbeatdrop, #song, #singing"
   - username: "caladenia"
     fullname: >-
       em
+    bio: >-
+      perth artist, into plants, specifically west australian native orchids.
     location: "Australia"
     followers: 21106
     engagement: 678
     commentsToLikes: 0.019895
     id: ck9ejaxcd1y7n0j78018v6m9j
     verified: false
-    hashtags: "#bird, #naturecore, #flowers, #woodland"
-  - username: "shammiltd"
+    hashtags: "#perth, #trippy, #forest, #wildflowers"
+  - username: "maciecremona"
     fullname: >-
-      Shammi
+      Macie Cremona
+    bio: >-
+      90% of videos are of my dog, enjoy ✌🏼✨
     location: "Australia"
-    followers: 655722
+    followers: 3511
+    engagement: 770
+    commentsToLikes: 0.013726
+    id: ckcdjez6c8t190j23w9ixf92l
+    verified: false
+    hashtags: "#doggy, #staffy, #lol, #home"
+  - username: "the5thwatches"
+    fullname: >-
+      The5th
+    bio: >-
+      From Melbourne, Australia. Shipped Worldwide.
+    location: "Australia"
+    followers: 2004
+    engagement: 1850
+    commentsToLikes: 0.274782
+    id: ck9fipmuubzv20j786zo1i0dh
+    verified: false
+    hashtags: "#the5th, #watches, #the5thfam, #foryou"
+  - username: "behindtheglow2"
+    fullname: >-
+      BEHIND THE GLOW 2.
+    bio: >-
+      Catie & Liv Founders of My Glow 2. Australian Beauty Business 💞 @myglow2
+    location: "Australia"
+    followers: 186700
+    engagement: 813
+    commentsToLikes: 0.024537
+    id: ckbfed5jg872u0j23cw3hw8gc
+    verified: false
+    hashtags: "#businesscheck, #officecheck, #australia, #scratchmap"
+  - username: "fake.treats"
+    fullname: >-
+      Fake Treats
+    bio: >-
+      Vegan | Cruelty-Free The Beauty Pamper Store AUS MADE 10% OFF WITH CODE: TIKTOK
+    location: "Australia"
+    followers: 62300
+    engagement: 666
+    commentsToLikes: 0.005534
+    id: ckcj2o3iu4ff60j23yreoabx6
+    verified: false
+    hashtags: "#australia, #bath, #beauty, #satisfying"
+  - username: "muafjryan"
+    fullname: >-
+      Finlea Ryan 
+    bio: >-
+      Hi lol Makeup Artist Melbourne AUS It’s not a booger — it’s my nose piercing
+    location: "Australia"
+    followers: 22000
     engagement: 1104
-    commentsToLikes: 0.004750
-    id: cka7v9yd0ver50i78iow6k1dj
-    verified: true
-    hashtags: "#schoolsout, #money, #bestfriends, #newchallenege"
-  - username: "dailyxgrwm"
-    fullname: >-
-      ✰ ✰ ✰
-    location: "Australia"
-    followers: 12160
-    engagement: 3021
-    commentsToLikes: 0.052695
-    id: ckacn5ympmiuj0i78vguakdnw
+    commentsToLikes: 0.011629
+    id: ck91003vyfvbl0j78etf0swr5
     verified: false
-    hashtags: "#ledstriplights, #onlineshopping, #dayinalife, #food"
-  - username: "ozsun2000"
+    hashtags: "#makeupartist, #euphoriamakeup, #euphoria, #mua"
+  - username: "glambyson"
     fullname: >-
-      ozsun2000
+      Sonali Kapoor
+    bio: >-
+      ✨🤍 24 | Melbourne 🤍✨ Insta: glambyson_ Derma blades for those asking ⬇️
     location: "Australia"
-    followers: 174682
-    engagement: 1148
-    commentsToLikes: 0.008558
-    id: cka884a739loc0i78e2mcazfu
+    followers: 15938
+    engagement: 433
+    commentsToLikes: 0.024494
+    id: cka0rnodrhs320i78fc9bgoee
     verified: false
-    hashtags: ""
-  - username: "chelsrandall"
+    hashtags: "#skincare, #desi, #decadesofhair, #minitutorials"
+  - username: "jessraeking"
     fullname: >-
-      Chels Randall
+      Jess King
+    bio: >-
+      Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
     location: "Australia"
-    followers: 2776
-    engagement: 786
-    commentsToLikes: 0.036213
-    id: ck8adem8s5mi60j78v8peh2dh
+    followers: 8358
+    engagement: 510
+    commentsToLikes: 0.044921
+    id: ckdhgtydkxu6z0j23jn2d0wof
     verified: false
-    hashtags: "#notbad, #fashion, #aussie, #cheeseboard"
-  - username: "swetasingh_87"
-    fullname: >-
-      Sweta Singh 🥰
-    location: "Australia"
-    followers: 89803
-    engagement: 463
-    commentsToLikes: 0.029733
-    id: ck81q4k8gfw010j78m71ewatw
-    verified: false
-    hashtags: "#howmanylikes, #toning, #like, #eid"
-  - username: "rimibeautysalon"
-    fullname: >-
-      Ramandeep Kaur
-    location: "Australia"
-    followers: 646810
-    engagement: 328
-    commentsToLikes: 0.007710
-    id: ck80cs5lgaxg90j788u0tix32
-    verified: false
-    hashtags: "#browse, #browtint, #browshaping, #bodywaxing"
-  - username: "watthefricative"
-    fullname: >-
-      Alex
-    location: "Australia"
-    followers: 47425
-    engagement: 2210
-    commentsToLikes: 0.032032
-    id: cka6k9nr0y32n0i786kl76bix
-    verified: false
-    hashtags: "#earthday, #cursed, #tiktokcovers, #celebratenurses"
+    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
 ---

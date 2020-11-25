@@ -1,107 +1,130 @@
 ---
 title: Top 10 Travel TikTok Influencers In Los Angeles In 2020
 description: >-
-  Find top travel TikTok influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #travel #california #quarantine.
+  Find top travel TikTok influencers in Los Angeles in 2020. Most popular hashtags: #travel #fyp #losangeles #foryou.
 platform: TikTok
+hits: 167
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 167 TikTok influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "rpnickson"
     fullname: >-
       Roberto Nickson
+    bio: >-
+      Design Tech Travel Los Angeles
     location: "United States"
-    followers: 29548
-    engagement: 656
-    commentsToLikes: 0.016139
+    followers: 30600
+    engagement: 692
+    commentsToLikes: 0.015322
     id: ck8hk4l3cc9iu0j786flqtz44
     verified: false
-    hashtags: "#westhollywood, #hyperlapse, #decor, #canon1dxmark2"
-  - username: "ashley.goins2"
+    hashtags: "#joshuatree, #interiordesign, #travel, #california"
+  - username: "hofitkimcohen"
     fullname: >-
-      Ashley Goins
+      Hofit Kim Cohen
+    bio: >-
+      Travel & Lifestyle Blogger + some Comedy 😜 FOLLOW ME ON IG 📸 @hofitkimcohen
     location: "United States"
-    followers: 3090
-    engagement: 481
-    commentsToLikes: 0.055260
-    id: ck8hnmcewrk8i0j78z7cgtyd5
+    followers: 17600
+    engagement: 743
+    commentsToLikes: 0.068766
+    id: ck93o54k532mk0j783oj08xdl
     verified: false
-    hashtags: "#tiktokdiy, #littlethings, #boredathome, #greenscreen"
-  - username: "_jeffmendoza_"
+    hashtags: "#foryou, #fyp, #travel, #losangeles"
+  - username: "funberto"
     fullname: >-
-      _jeffmendoza_
+      Funberto!
+    bio: >-
+      10K? 🙏 www.ciicelebs.com/humberto-le-pelch/merchandise/ iG: @betitolepelch
     location: "United States"
-    followers: 3104
-    engagement: 528
-    commentsToLikes: 0.093642
-    id: ck9vctieos1pm0j78tva401fz
+    followers: 5809
+    engagement: 440
+    commentsToLikes: 0.061409
+    id: cka6efq0dbnss0i78p8fvlvvr
     verified: false
-    hashtags: "#photographerproblems, #losangeles, #mmmdrop, #sales"
-  - username: "tuckerdoss"
+    hashtags: "#futbol, #uefa, #foryoupage, #coronavirus"
+  - username: "thatjscott"
     fullname: >-
-      Tucker Doss
+      Jeremy Scott
+    bio: >-
+      Travel Photographer. Los Angeles. Check IG for 📸
     location: "United States"
-    followers: 672823
-    engagement: 2168
-    commentsToLikes: 0.005527
-    id: ck83k24s08qml0j78dxqf5k95
+    followers: 2563
+    engagement: 902
+    commentsToLikes: 0.043483
+    id: ck930qengbs720j78pry0ak5b
     verified: false
-    hashtags: "#smallgestures, #puppy, #tiktokchallenge, #reality"
-  - username: "setwillfree"
+    hashtags: "#yosemite, #tiktoktravel, #california, #travel"
+  - username: "minastreet"
     fullname: >-
-      SetWillFree
+      ✨ANOMALY WORLDWIDE✨
+    bio: >-
+      Shop self care cosmetics & accessories ✨ANOMALY WORLDWIDE ✨
     location: "United States"
-    followers: 17523
-    engagement: 836
-    commentsToLikes: 0.046885
-    id: ck9fib88p9yg40j7810x7oq7q
+    followers: 3697
+    engagement: 642
+    commentsToLikes: 0.029745
+    id: ckac7yikbf2w80i78z3two9ei
     verified: false
-    hashtags: "#2019, #vlog, #youtube, #photograhy"
-  - username: "visitearth"
+    hashtags: "#lashes, #eyelashes, #smallbusiness, #smallbusinesstips"
+  - username: "bay.photography"
     fullname: >-
-      Scott
+      Brandon Yoshizawa
+    bio: >-
+      Los Angeles Travel and landscape photography IG: @bay.photography
     location: "United States"
-    followers: 766427
-    engagement: 2264
-    commentsToLikes: 0.008149
-    id: ck806x859mr570j78n0l2fozo
+    followers: 3563
+    engagement: 1007
+    commentsToLikes: 0.047415
+    id: ckb9ffml73u4b0j23yxg8egkx
     verified: false
-    hashtags: "#photograhy, #macrolens, #voiceover, #zion"
-  - username: "jennleezy"
+    hashtags: "#landscape, #nature, #fog, #timelapse"
+  - username: "thedisappointedgoddess"
     fullname: >-
-      Jennleezy
+      Nicole Martin 🦋
+    bio: >-
+      I work in tv & I love telling ghost stories 👻
     location: "United States"
-    followers: 12104
-    engagement: 610
-    commentsToLikes: 0.022880
-    id: ck9782t3f6ghw0j7892veg46s
+    followers: 82500
+    engagement: 1030
+    commentsToLikes: 0.011862
+    id: ck9npnve4zsyw0j78buswx8on
     verified: false
-    hashtags: "#2chainz, #dogdancing, #runway, #vacation"
-  - username: "nbcnews"
+    hashtags: "#haunted, #foryou, #travel, #ghost"
+  - username: "travelbud"
     fullname: >-
-      nbcnews
+      TravelBud
+    bio: >-
+      Living life one frame at a time 🌏🎥
     location: "United States"
-    followers: 141732
-    engagement: 1261
-    commentsToLikes: 0.018030
-    id: ck84mbzodn3g40j78k0a0avnf
+    followers: 25400
+    engagement: 881
+    commentsToLikes: 0.011837
+    id: ck982li32gkln0j78ubf116eg
     verified: true
-    hashtags: "#kobe, #sydney, #catsoftiktok, #meetmycar"
-  - username: "joebegleycomedy"
+    hashtags: "#mypride, #lgbt, #travelbucketlist, #japan"
+  - username: "hallee_smith"
     fullname: >-
-      Joe Begley
+      Hallee Smith
+    bio: >-
+      AKA Siri 🤪 smithhallee3@gmail.com I Got My Insta Back! ⤴️ Subscribe 😊⤵️
     location: "United States"
-    followers: 384693
-    engagement: 2042
-    commentsToLikes: 0.002718
-    id: ck9dxg0k2t3tx0j7875uop0zv
+    followers: 834100
+    engagement: 2096
+    commentsToLikes: 0.010970
+    id: ckcuta1eokf5r0j23qoajyc8h
     verified: false
-    hashtags: "#duet, #levelup, #formyvalentine, #2020"
-  - username: "philngyn"
+    hashtags: "#apple, #acting, #siri, #iphone"
+  - username: "breslusarek"
     fullname: >-
-      Phil Nguyen
+      Breanna Slusarek
+    bio: >-
+      21 years on earth. Los Angeles, CA. Insta @breslusarek New try on haul below!⬇️
     location: "United States"
-    followers: 12507
-    engagement: 836
-    commentsToLikes: 0.027785
-    id: ck9fg7yxr0m880j7893pu5yvi
+    followers: 54600
+    engagement: 385
+    commentsToLikes: 0.013534
+    id: ckbeyf3ctiy2z0j23j01k1k99
     verified: false
-    hashtags: "#photography101, #arizona, #friday13, #funnyvideos"
+    hashtags: "#dippindaisys, #california, #ocean, #girls"
 ---

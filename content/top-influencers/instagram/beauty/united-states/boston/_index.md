@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Boston In 2020
 description: >-
-  Find top beauty Instagram influencers in Boston in 2020. Most popular hashtags: #summervibes #beauty #boston #styleblogger.
+  Find top beauty Instagram influencers in Boston in 2020. Most popular hashtags: #style #beauty #fashion #photography.
 platform: Instagram
+hits: 123
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 123 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "lindsayhannah3"
+  - username: "milaphila"
     fullname: >-
-      Lindsay Walter
+      мιℓα | ᴛʜᴇ ʙᴏsᴛᴏɴ
+    bio: >-
+      I’m the tootie beauty 📍 Ƥhιℓαdɛℓρhια 👗 7•31•2019 🕳 @miiggzz
     location: "United States"
-    followers: 5482
+    followers: 5121
     engagement: 997
-    commentsToLikes: 0.052727
-    id: ck134zquuyzof0i196fq1zbee
+    commentsToLikes: 0.051364
+    id: ckaotme0mwhx90i78op2c5wgs
     verified: false
-    hashtags: "#wotd, #tiucommunity, #igrunners, #faithful"
+    hashtags: "#puppylove, #cutedog, #philly, #cutepuppy"
+  - username: "cherry.kayy"
+    fullname: >-
+      ☆KAY KAY☆
+    bio: >-
+      Aspiring Actress/Model Email For Business Inquires Only ☆𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬￼ 𝐁𝐨𝐬𝐭𝐨𝐧☆
+    location: "United States"
+    followers: 6015
+    engagement: 903
+    commentsToLikes: 0.039428
+    id: ck8t283hoyhli0j787t4koxvf
+    verified: false
+    hashtags: "#explorepage, #addisonrae, #fashion, #boston"
+  - username: "klockonian"
+    fullname: >-
+      Alice Klock
+    bio: >-
+      Choreographer | Dancer | Painter Co-Director of FLOCK @flockworks
+    location: "United States"
+    followers: 71737
+    engagement: 268
+    commentsToLikes: 0.014426
+    id: ck5hs10pbvt6s0i11warcpkx9
+    verified: false
+    hashtags: "#dances, #instamovement, #flock, #isolationart"
   - username: "catecutdye"
     fullname: >-
-      Hairstylist
+      Philadelphia Hairstylist
+    bio: >-
+      ⚡️Cate Breining ⚡️Blondes•Vivids•Balayage Specialist ⚡️#b3 Disruptor ⚡️DM to book ⚡️ venmo: @catecutdye
     location: "United States"
-    followers: 14498
-    engagement: 387
-    commentsToLikes: 0.013938
+    followers: 15656
+    engagement: 423
+    commentsToLikes: 0.022421
     id: ck5hjwwuzhe4b0i11c5pewldt
     verified: false
-    hashtags: "#gold, #copperbalayage, #beforeandafter, #brighthair"
-  - username: "laurendobish"
+    hashtags: "#hairtrends, #phillyhairstylist, #randco, #pravanacontest"
+  - username: "kellybalch"
     fullname: >-
-      Wedding and Dog Photographer
+      Kelly Balch
+    bio: >-
+      Queer international wedding + editorial storyteller 📸📹🏳️‍🌈| Empath | Vegan | Author of #yabookseries Aphrodite’s Sister
     location: "United States"
-    followers: 5400
-    engagement: 453
-    commentsToLikes: 0.064876
-    id: ck6uhbfgx854j0j71wzqcyqxu
+    followers: 49136
+    engagement: 240
+    commentsToLikes: 0.042302
+    id: ck0vxlwgkzk3b0i19dvvqpjrh
     verified: false
-    hashtags: "#hopefully, #lovemyldpdogpack, #imissyouandyourpups, #thedoberfords"
+    hashtags: "#behindthescenes, #patreon, #bts, #nationalcomingoutday"
   - username: "ellduclos"
     fullname: >-
       Ell
+    bio: >-
+      BOSTON | beauty | wine | motivational lifestyle | creator of #Bossgirlbloggers @bossgirlbloggers 💌EllDuclos@outlook.com
     location: "United States"
-    followers: 23767
-    engagement: 351
-    commentsToLikes: 0.067802
+    followers: 24926
+    engagement: 290
+    commentsToLikes: 0.078911
     id: ck9we81mgj29h0j78crerep2f
     verified: false
-    hashtags: "#soulmates, #pixiglow, #mondaymood, #styleblogger"
-  - username: "ericsnyderphotography"
+    hashtags: "#bostonblogger, #herecomesthebride, #simplelife, #bossgirlbloggers"
+  - username: "_withsarah"
     fullname: >-
-      ERIC SNYDER
+      SARAH LAPIERRE
+    bio: >-
+      📍boston beauty, self-care, lifestyle @ultabeauty collective ⇣ SMOKEY EYE TUTORIAL (11/12)
     location: "United States"
-    followers: 43984
-    engagement: 118
-    commentsToLikes: 0.065009
-    id: ck13c8el0z3en0i19g3r2m8nm
+    followers: 27458
+    engagement: 249
+    commentsToLikes: 0.055546
+    id: ck0w0zpwdgu5h0i19at96rfcs
     verified: false
-    hashtags: "#canon, #oahu, #turquoisewater, #kravmaga"
-  - username: "makeupbykeyla_"
+    hashtags: "#nostrengthlikeprostrength, #peterthomasroth, #ptrcult, #farmtobeauty"
+  - username: "catapap"
     fullname: >-
-      Keyla Pimentel
+      Catalina Pérez de Armiñan
+    bio: >-
+      Positivity, workouts, fashion, motivation, journalism & more! ✨ Motivation Mondays@ 10PMEST❤️ Daily Workouts@ 7PMEST💪🏼
     location: "United States"
-    followers: 26526
-    engagement: 517
-    commentsToLikes: 0.091599
-    id: ckaov7t0a3f2w0i785qt9tmfm
+    followers: 17066
+    engagement: 122
+    commentsToLikes: 0.094639
+    id: ck9habckebw2u0j78plnsr86m
     verified: false
-    hashtags: "#norvinapalette, #georgia, #blood, #bloodlust"
-  - username: "lifewithlibby"
+    hashtags: "#beauty, #fashion, #boston, #influencer"
+  - username: "buildingsofnewengland"
     fullname: >-
-      Libby Vilner | ליבי וילנר
+      Buildings of New England
+    bio: >-
+      New Englander on the mission to archi-explore every town and city in the region! Check the blog for a searchable list of posts by style or location.
     location: "United States"
-    followers: 32031
-    engagement: 199
-    commentsToLikes: 0.080218
-    id: ck5cja6fmub490i11n076dcpj
+    followers: 38131
+    engagement: 192
+    commentsToLikes: 0.020047
+    id: ck6ug8fqf1ixu0j716kg5di5w
     verified: false
-    hashtags: "#catgrooming, #stayhomenyc, #covid19, #greenandgrowing"
-  - username: "collieg"
+    hashtags: "#victorianhouse, #bostonrealestate, #dwell, #home"
+  - username: "chichappenz"
     fullname: >-
-      Colin Grafton
+      Barbie
+    bio: >-
+      📍D(M)V | Boston Art| Beauty | Style | Travel PR/ Collab Friendly 📧 Chichappenz@gmail.com
     location: "United States"
-    followers: 5483
-    engagement: 927
-    commentsToLikes: 0.038600
-    id: ck5hkjurbijy80i119fjmrrv5
+    followers: 2356
+    engagement: 1036
+    commentsToLikes: 0.175966
+    id: ck8t0qsk4sy8i0j78k1ziwgfc
     verified: false
-    hashtags: "#mountains, #danke, #message, #nobahardadui"
-  - username: "boston25"
-    fullname: >-
-      Boston 25 News
-    location: "United States"
-    followers: 154309
-    engagement: 96
-    commentsToLikes: 0.039244
-    id: ck5c5p29p3w350i11tpmf9hvd
-    verified: true
-    hashtags: "#marketbasket, #onlinedeals, #plantbased, #skincare"
-  - username: "notednatalie"
-    fullname: >-
-      Natalie
-    location: "United States"
-    followers: 22441
-    engagement: 243
-    commentsToLikes: 0.180028
-    id: ck8tbdtvmv9ie0j78v8mlu4kq
-    verified: false
-    hashtags: "#theeverymom, #littlestyle, #hmxme, #shopforacause"
+    hashtags: "#melaninbloggers, #discoverunder5k, #essencestyle, #wocootd"
 ---

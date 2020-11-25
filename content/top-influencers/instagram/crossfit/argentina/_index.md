@@ -1,107 +1,130 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Argentina In 2020
 description: >-
-  Find top crossfit Instagram influencers in Argentina in 2020. Most popular hashtags: #fitnessgirl # #tbt #crossfit.
+  Find top crossfit Instagram influencers in Argentina in 2020. Most popular hashtags: #crossfit #tbt #fitnessmotivation.
 platform: Instagram
+hits: 46
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 46 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "catacohan"
-    fullname: >-
-      Cata Cohan
-    location: "Argentina"
-    followers: 20174
-    engagement: 733
-    commentsToLikes: 0.070454
-    id: ck6tlqvaj6h410j71oz5recb9
-    verified: false
-    hashtags: "#fuerzapura, #programaciones, #hombros, #loveyourself"
   - username: "felixgomezactor"
     fullname: >-
       Félix Gómez
+    bio: >-
+      Rodando @lacazatve ... 🎥 Actor 🎬 crossfitero🏋️ y amante de la Naturaleza🌲 contratacion@thinketers.com
     location: "Argentina"
-    followers: 196804
-    engagement: 793
-    commentsToLikes: 0.019561
+    followers: 206314
+    engagement: 661
+    commentsToLikes: 0.016230
     id: ck6tulrquh2bu0j71hqje0jp2
     verified: true
-    hashtags: "#serie, #camerino, #mymemories, #hope"
+    hashtags: "#summer, #actor, #moodoftheday, #mylife"
+  - username: "lolanoe.x"
+    fullname: >-
+      lola 🌹🌹
+    bio: >-
+      19☀️ Crossfit. 1st Fittest Teen in Argentina '18 🇦🇷 @amrap_cf @full.fitness.ok @bluedemonar
+    location: "Argentina"
+    followers: 14456
+    engagement: 1199
+    commentsToLikes: 0.014360
+    id: ck8sz3wfan2lo0j78013kt74c
+    verified: false
+    hashtags: ""
   - username: "anabt11"
     fullname: >-
       ANA HERNANDEZ💕
+    bio: >-
+      18. Venezolana🇻🇪/ Ex-gimnasta/ Crossfit athlete 🏋🏽‍♀️ TikTok: Anabt11 🎶 @rookiesathletes 🤸🏻‍♀️ @plcbox 🏠 @sp_nutrition @xnutrifit.vzla @adesinc.ve ⚡️
     location: "Argentina"
-    followers: 5982
-    engagement: 1213
-    commentsToLikes: 0.039052
+    followers: 6239
+    engagement: 1016
+    commentsToLikes: 0.041609
     id: ck8sx0wbxfucs0j78d6w3ov5s
     verified: false
     hashtags: ""
-  - username: "_jensegura_"
+  - username: "mariajosev0908"
     fullname: >-
-      Jennifer Segura ✨
+      Maria Jose
+    bio: >-
+      Fittest Teen Girl in Colombia 2019 🇨🇴 Conoce tus limitaciones para luego desafiarlas”💪🏽. Crossfit 🏋🏼‍♀️
     location: "Argentina"
-    followers: 89024
-    engagement: 617
-    commentsToLikes: 0.016325
-    id: ck0tul7e87nva0i19rug9xr56
+    followers: 10355
+    engagement: 1412
+    commentsToLikes: 0.011359
+    id: ck8sxh7wbhdv30j784xj2aczj
     verified: false
-    hashtags: "#tbt, #sara, #work, #bepresent"
-  - username: "sashunidos"
-    fullname: >-
-      SASHA NIEVAS
-    location: "Argentina"
-    followers: 24248
-    engagement: 1028
-    commentsToLikes: 0.008288
-    id: ck14iu82eh71r0i197rq9ccj2
-    verified: false
-    hashtags: "#gamesprep, #flow, #roadtothegames, #roadtomdp"
-  - username: "delfiortuno"
-    fullname: >-
-      Delfi Ortuño
-    location: "Argentina"
-    followers: 22209
-    engagement: 825
-    commentsToLikes: 0.036017
-    id: ck0w5o10j4ldf0i19todat4e4
-    verified: false
-    hashtags: "#ad, #yomequedoencasa"
+    hashtags: "#fitnessmotivation, #crossfit, #crossfitteens, #fitness"
   - username: "florfourcade_"
     fullname: >-
-      Flor Fourcade
+      Florencia Fourcade
+    bio: >-
+      CrossFit • Personal Trainer • Community Manager • Model • 👉🏼 Planes de entrenamiento a Distancia. 📍Buenos Aires, Argentina
     location: "Argentina"
-    followers: 60112
-    engagement: 238
-    commentsToLikes: 0.025706
+    followers: 62929
+    engagement: 206
+    commentsToLikes: 0.020374
     id: ck5zjbpkxhb2p0i14pmr4dyei
     verified: false
-    hashtags: "#beforeandafter, #transformation, #absworkouts, #vcut"
-  - username: "valegottardello"
-    fullname: >-
-      Ma. Valentina Gottardello
-    location: "Argentina"
-    followers: 4724
-    engagement: 1402
-    commentsToLikes: 0.052341
-    id: ck5qakj4sgvmc0i118aycz541
-    verified: false
     hashtags: ""
+  - username: "manu_cereigido"
+    fullname: >-
+      Manu Cereigido
+    bio: >-
+      🇦🇷ARGENTINA🔮23. 🏋️Crossfit athlete @calacatraining 🌟entrenadora personal y coach en @calacatraining
+    location: "Argentina"
+    followers: 7345
+    engagement: 508
+    commentsToLikes: 0.034861
+    id: ck55ltn8v2ek00i11o5fr3da5
+    verified: false
+    hashtags: "#stayathome, #tbt"
+  - username: "lucas_arceeee"
+    fullname: >-
+      Lucas Arce
+    bio: >-
+      | BA, Argentina, villa devoto 🇦🇷 2018 crossfit regional athlete 🏋🏽‍♂️ @amrap_cf @bluedemonar @1982.indumentaria @4mpisosdecaucho
+    location: "Argentina"
+    followers: 7531
+    engagement: 658
+    commentsToLikes: 0.015719
+    id: ck14k8zteocj60i19mcbsljoe
+    verified: false
+    hashtags: "#crossfitgame, #crossfit, #atletaamrap, #crossfitargentina"
+  - username: "chinnireyes"
+    fullname: >-
+      Jenni Reyes
+    bio: >-
+      Crossfit Games athlete 17' Regional athlete 15'16'17'18' --Reebok Athlete--👑 Fittest en 🇦🇷 16'17' @bloodandheart_ 💪 @green.goldcbd🌱🌈 •Be different•
+    location: "Argentina"
+    followers: 17262
+    engagement: 239
+    commentsToLikes: 0.025655
+    id: ck5btksz1g53b0i11cbgf096h
+    verified: false
+    hashtags: "#reebokargentina, #reebokcrossfit, #reebokathelete, #crossfitgames"
   - username: "andressblancoo"
     fullname: >-
       Andrés Blanco
+    bio: >-
+      🇦🇷 BS.AS - CABA 🐎 #CrossFit #racingclub #formosa ♈
     location: "Argentina"
-    followers: 26086
-    engagement: 893
-    commentsToLikes: 0.014149
+    followers: 30590
+    engagement: 626
+    commentsToLikes: 0.010812
     id: ck8tdtvp24r380j78u5mlyx4j
     verified: false
-    hashtags: "#tegobi, #austral, #capitanamerica, #fotosintesis"
-  - username: "yuvinkaanez96"
+    hashtags: "#instagay, #argentina, #follow4like, #gaystyle"
+  - username: "orianamartinezr"
     fullname: >-
-      Y U V I N K A A Ñ E Z 💫
+      Oriana Martínez
+    bio: >-
+      #CarpeDiem 🌸| 🇻🇪📍🇦🇷 Crossfit Competitor & Coach🏋🏾‍♀️ Programas de entrenamiento online✨ 📚👓 Industrial engineering 15%off @wodndone "Oriana15"
     location: "Argentina"
-    followers: 334276
-    engagement: 297
-    commentsToLikes: 0.008588
-    id: ck5hnjsz1nwjk0i11g6c5zflh
+    followers: 11918
+    engagement: 449
+    commentsToLikes: 0.044993
+    id: ck5zpqod9t5ts0i14usrh3aji
     verified: false
-    hashtags: "#tvshow, #elpasaportebolivia, #nikelove, #fun"
+    hashtags: "#healthylifestyle, #carpediem, #crossfit, #girlswholift"
 ---

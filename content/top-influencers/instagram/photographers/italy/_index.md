@@ -1,107 +1,130 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Italy In 2020
 description: >-
-  Find top photographers Instagram influencers in Italy in 2020. Most popular hashtags: #voguemagazine # #altodige #stillife.
+  Find top photographers Instagram influencers in Italy in 2020. Most popular hashtags: #landscapephotography #naturephotography #italia.
 platform: Instagram
+hits: 1591
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 1591 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "florcisnerosph"
+  - username: "toma_miu"
     fullname: >-
-      Flor Cisneros
+      PHOTOGRAPHER Toma Miyusova
+    bio: >-
+      photographer
     location: "Italy"
-    followers: 6695
-    engagement: 349
-    commentsToLikes: 0.028977
-    id: ck0u0wd9bv21n0i19qnhkb569
+    followers: 6059
+    engagement: 657
+    commentsToLikes: 0.042214
+    id: ck9wdqh3ngsmc0j78nv1028wv
     verified: false
-    hashtags: "#cover, #theluxurycollection"
+    hashtags: ""
   - username: "ercolessi_riccardo"
     fullname: >-
       Riccardo Ercolessi
+    bio: >-
+      Photographer
     location: "Italy"
-    followers: 3217
-    engagement: 3258
-    commentsToLikes: 0.077624
+    followers: 4766
+    engagement: 2585
+    commentsToLikes: 0.097476
     id: ckap608xmdwph0i78gw2x2ts5
     verified: false
-    hashtags: "#libya, #wildlifeaddicts, #fenicotteri, #svassi"
+    hashtags: "#natgeo, #adventure, #manfrottoimaginemore, #canon"
+  - username: "florcisnerosph"
+    fullname: >-
+      Flor Cisneros
+    bio: >-
+      Photographer
+    location: "Italy"
+    followers: 8059
+    engagement: 474
+    commentsToLikes: 0.046226
+    id: ck0u0wd9bv21n0i19qnhkb569
+    verified: false
+    hashtags: "#advertising, #espaciotauro, #unretouched"
+  - username: "bort.tv"
+    fullname: >-
+      Photographer
+    bio: >-
+      Swimwear & Fashion photographer Around Italy bort.creative@gmail.com
+    location: "Italy"
+    followers: 5910
+    engagement: 537
+    commentsToLikes: 0.014857
+    id: ck0u8mo0d7sya0i19uug03b8l
+    verified: false
+    hashtags: "#smallphotographer, #travelsolo, #orangeandteal, #aspirngphotographer"
+  - username: "marianoaresuphotography"
+    fullname: >-
+      𝐌𝐀𝐑𝐈𝐀𝐍𝐎 𝐀𝐑𝐄𝐒𝐔 | Photographer
+    bio: >-
+      📷 Freelance Photographer 📍Sardinia, Italy 🇮🇹 ✈️ Available Worldwide 👉🏻Check other accounts: @marianoaresuportrait @marianoaresuonair
+    location: "Italy"
+    followers: 11624
+    engagement: 416
+    commentsToLikes: 0.041396
+    id: ck14ip8gmgjef0i197k7xceod
+    verified: false
+    hashtags: "#likes, #bnw, #xelfies, #mascheretradizionali"
   - username: "walterbz"
     fullname: >-
       Walter Donegà
+    bio: >-
+      Photographer
     location: "Italy"
     followers: 14044
     engagement: 649
     commentsToLikes: 0.015062
     id: ck14i08ird0ev0i19elyrhqc6
     verified: false
-    hashtags: "#alpesisiusi, #fieallosciliar, #sciare, #fiori"
+    hashtags: "#autumn, #snow, #mountaineers, #obereggen"
   - username: "brendaborgia_ph"
     fullname: >-
       𝑩𝒓𝒆𝒏𝒅𝒂 𝑩𝒐𝒓𝒈𝒊𝒂 | photographer
+    bio: >-
+      → hi, I’m Brenda! → I’m a photographer based in Naples, Italy → info per shooting in DM ↓ last video on YouTube 🦋✨
     location: "Italy"
     followers: 2170
     engagement: 1091
     commentsToLikes: 0.067455
     id: ckaozc5onl7lw0i787cb981vm
     verified: false
-    hashtags: "#nightwalkermagazine, #handmadecollage, #portbox, #349amcollection"
+    hashtags: "#somewheremagazine, #astra, #productphotographer, #indiependentmag"
   - username: "alessandrodobici"
     fullname: >-
       Alessandro Dobici
+    bio: >-
+      Photographer
     location: "Italy"
-    followers: 7110
-    engagement: 604
-    commentsToLikes: 0.020258
+    followers: 7894
+    engagement: 463
+    commentsToLikes: 0.024638
     id: ck5zl1zzvkl350i14o1vmukcv
     verified: false
-    hashtags: "#ilsemedellatrasformazione, #comunicarepositivo, #facciamoattenzione, #iosonolamiacitt"
+    hashtags: "#amelia, #ameliameraviglia, #ciao, #seelife"
+  - username: "silvio_tova"
+    fullname: >-
+      S I L V I O  T O V A G L I A
+    bio: >-
+      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com
+    location: "Italy"
+    followers: 16967
+    engagement: 984
+    commentsToLikes: 0.193945
+    id: ck0u1mb6hx8ga0i19d9k1rvsb
+    verified: false
+    hashtags: "#insiemecelafaremo, #snipesknows, #supplied, #fratellipercaso"
   - username: "thebrunettemacaron"
     fullname: >-
       G L O R I A
+    bio: >-
+      Do what you Love 💫 Dreamer | Photographer 📍Italy, Florence ✉️ airolglo.gn@gmail.com
     location: "Italy"
-    followers: 2087
-    engagement: 3455
-    commentsToLikes: 0.200790
+    followers: 2284
+    engagement: 4009
+    commentsToLikes: 0.188496
     id: ck6ubf29c96rw0j71ok2pnx1b
     verified: false
-    hashtags: "#iamtb, #sorrynotsorry, #volgoarezzo, #thisisrome"
-  - username: "domenicogiuffrida_photography"
-    fullname: >-
-      Domenico Giuffrida
-    location: "Italy"
-    followers: 9330
-    engagement: 2134
-    commentsToLikes: 0.071641
-    id: ckap2xqx80rkn0i78mzxy49y7
-    verified: false
-    hashtags: "#redlove, #redlovers, #glamourstyle, #pink"
-  - username: "darrylrafael"
-    fullname: >-
-      Darryl
-    location: "Italy"
-    followers: 4235
-    engagement: 2206
-    commentsToLikes: 0.134094
-    id: ck55khtduzbxq0i11e9zzzegp
-    verified: false
-    hashtags: ""
-  - username: "lara.goes.exploring"
-    fullname: >-
-      Lara Farrugia | Travel & Beach
-    location: "Italy"
-    followers: 4307
-    engagement: 2147
-    commentsToLikes: 0.470473
-    id: ckap8nzxxp6sn0i78a1gyzug9
-    verified: false
-    hashtags: ""
-  - username: "francescamartinelli.ph"
-    fullname: >-
-      Francesca Martinelli
-    location: "Italy"
-    followers: 16925
-    engagement: 1132
-    commentsToLikes: 0.039434
-    id: ck5c60ou54hkf0i11fljtj4jj
-    verified: false
-    hashtags: "#editing"
+    hashtags: "#acolorstory, #girlswhotravel, #cybercorner, #italytrip"
 ---

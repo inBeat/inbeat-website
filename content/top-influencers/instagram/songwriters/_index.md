@@ -1,107 +1,130 @@
 ---
 title: Top 10 Songwriters Instagram Influencers In 2020
 description: >-
-  Find top songwriters Instagram influencers in 2020. Most popular hashtags: #stayhome #cover #lekkerlachen #tiktok.
+  Find top songwriters Instagram influencers in 2020. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
 platform: Instagram
+hits: 4091
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 4091 Instagram influencers like this for you to contact.
 profiles:
-  - username: "knox.music"
+  - username: "jackieapostel"
     fullname: >-
-      K N Ö X
-    location: "United States"
-    followers: 2791
-    engagement: 999
-    commentsToLikes: 0.052853
-    id: ck5zyjg8oa02p0i14h7erqchr
+      apostel
+    bio: >-
+      🇧🇷 • 🇩🇪 songwriter
+    location: "Brazil"
+    followers: 114073
+    engagement: 928
+    commentsToLikes: 0.001329
+    id: ck5bxnkn8o1zj0i1103oaq0qr
     verified: false
-    hashtags: "#anxiety, #stircrazy, #santascomin2town, #gocats"
-  - username: "griffenpalmer"
-    fullname: >-
-      griffen palmer
-    location: "United States"
-    followers: 6272
-    engagement: 1671
-    commentsToLikes: 0.075897
-    id: ckap8tjdlpthl0i788zku8uup
-    verified: false
-    hashtags: "#songland, #partyshirt, #keyblessed"
+    hashtags: "#libraproblems"
   - username: "noahgundersen"
     fullname: >-
       Noah Gundersen
+    bio: >-
+      Songwriter
     location: "United States"
     followers: 43963
     engagement: 643
     commentsToLikes: 0.020132
     id: ck15ptp1xzkm70i19gtlheb4c
     verified: true
-    hashtags: "#ngnyc1, #ngatlanta1, #ngseattle1, #ngseattle2"
+    hashtags: "#ngla1, #ngchicago2, #ngla2, #ngtoronto1"
+  - username: "prateekkuhad"
+    fullname: >-
+      prateekkuhad
+    bio: >-
+      songwriter
+    location: "United States"
+    followers: 491317
+    engagement: 794
+    commentsToLikes: 0.005722
+    id: ck0ttriq0408w0i19eysvqmny
+    verified: true
+    hashtags: "#ytff2020, #flipkartbigbilliondays, #nokiasmarttvs, #bigbilliondayspecials"
   - username: "robertearlkeen1"
     fullname: >-
       Robert Earl Keen
+    bio: >-
+      Songwriter
     location: "United States"
     followers: 53537
     engagement: 342
     commentsToLikes: 0.020217
     id: ck5c3y7290a0q0i11fk4e359n
     verified: true
-    hashtags: "#luckreunion, #saveourstages, #primecuts"
-  - username: "sassy_shinade"
+    hashtags: "#primecuts, #luckreunion, #saveourstages"
+  - username: "griffenpalmer"
     fullname: >-
-      Shinade Mc Lean
-    location: "Austria"
-    followers: 2086
-    engagement: 3239
-    commentsToLikes: 0.152694
-    id: ckaoyk7kxhto10i78f5mehs7k
-    verified: false
-    hashtags: "#mountainlover, #familylove, #family, #goodvibes"
-  - username: "agent.envy"
-    fullname: >-
-      Agent Envy
+      griffen palmer
+    bio: >-
+      Songwriter.
     location: "United States"
-    followers: 7468
-    engagement: 2247
-    commentsToLikes: 0.090436
-    id: ck6uicrz8ebkd0j7120zo579u
+    followers: 6272
+    engagement: 1671
+    commentsToLikes: 0.075897
+    id: ckap8tjdlpthl0i788zku8uup
     verified: false
-    hashtags: "#billieeilish, #photography, #lanadelrey, #cover"
-  - username: "dhariaartist"
+    hashtags: "#songland, #partyshirt"
+  - username: "khashayar_jozi"
     fullname: >-
-      DHARIA
-    location: "Romania"
-    followers: 25975
-    engagement: 2005
-    commentsToLikes: 0.072527
-    id: ck14j8pitj4230i19dwhfnhol
-    verified: false
-    hashtags: "#vh1quarantunes, #quarantunes, #tiktok, #stayhome"
-  - username: "davevanpooij"
-    fullname: >-
-      Dave van Pooij
-    location: "Germany"
-    followers: 9726
-    engagement: 2003
-    commentsToLikes: 0.107495
-    id: ck5zpmu3wsy2k0i14i6vo26pn
-    verified: false
-    hashtags: "#dolbycinema, #jumanjinl, #lekkerlachen, #birdsofprey"
-  - username: "_zenzei_"
-    fullname: >-
-      Z E N Z E I
-    location: "Colombia"
-    followers: 46429
-    engagement: 973
-    commentsToLikes: 0.058436
-    id: ck0tvvhv3cyw60i19e11u8igh
-    verified: false
-    hashtags: "#pegao, #repost, #adn, #zen"
-  - username: "soroushmostafaei"
-    fullname: >-
-      SOROUSH️💎
+      Khashayar jozi
+    bio: >-
+      Guitarist Songwriter Singer
     location: "Iran"
-    followers: 6426
-    engagement: 2232
-    commentsToLikes: 0.083816
-    id: ck9wj15ur4u5c0j78eazlwbuv
+    followers: 18565
+    engagement: 2075
+    commentsToLikes: 0.087831
+    id: ck0w6ipfe8r0s0i19kg3b3nn2
     verified: false
-    hashtags: "#baran, #chord, #amirazimi, #soroush"
+    hashtags: "#gibson, #lespaul, #telecaster, #fender"
+  - username: "ralph_castelli"
+    fullname: >-
+      Ralph
+    bio: >-
+      CUT OUT (Artist, producer, songwriter) Mgmt: @ourbadhabit
+    location: "United States"
+    followers: 9055
+    engagement: 1482
+    commentsToLikes: 0.089006
+    id: ck15snol4dwuy0i19i1behzph
+    verified: false
+    hashtags: "#itsfinallyhere, #tooexcitedtowait, #cutout"
+  - username: "rafaelleroy"
+    fullname: >-
+      Ⓥ Rafaëlle Roy ॐ
+    bio: >-
+      Singer-songwriter, vegan 🌻 #BlackLivesMatter 💌 collabs: rafaelle@kovalmarketing.com
+    location: "Canada"
+    followers: 110647
+    engagement: 1231
+    commentsToLikes: 0.080461
+    id: ck13d7sok44140i19sx4wgpai
+    verified: true
+    hashtags: "#pub, #ambassadricevirginmobile, #partenaire, #vynebotanicals"
+  - username: "dara.ekimova"
+    fullname: >-
+      Dara Ekimova
+    bio: >-
+      Singer Songwriter BOOKING (за участия): +359888703060 COLLABORATION: dara.ekimova@influentica.bg
+    location: ""
+    followers: 15215
+    engagement: 1129
+    commentsToLikes: 0.069572
+    id: ck5ca6qouct410i11n0vx9cjy
+    verified: false
+    hashtags: "#garminbulgaria, #hmbulgaria, #garmin, #greathairdays"
+  - username: "ealiaaj"
+    fullname: >-
+      EALIA AJ
+    bio: >-
+      Producer,composer,songwriter,singer Channel telegram👇🏻
+    location: "Iran"
+    followers: 111215
+    engagement: 1113
+    commentsToLikes: 0.523042
+    id: ck6uh6wgd7d4e0j71rztoo5xu
+    verified: false
+    hashtags: "#ealiaaj, #versha, #newtrack, #songer"
 ---

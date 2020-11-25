@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Turkey In 2020
 description: >-
-  Find top vegan Instagram influencers in Turkey in 2020. Most popular hashtags: #vegan #chocolate #kahvalt #healthy.
+  Find top vegan Instagram influencers in Turkey in 2020. Most popular hashtags: #vegan #glutenfree #covid #istanbul.
 platform: Instagram
+hits: 117
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 117 Instagram influencers like this in Turkey for you to work with.
 profiles:
+  - username: "d.e.r.b.o.s.s._"
+    fullname: >-
+      Ünsal M. Arık
+    bio: >-
+      * #MustafaKemalAtatürk * #Fenerbahce 💛💙 * #Veganathlete 🌱 * Ambassador @stiftungkinderherz ❤️ * @fitone_germany #Athlete
+    location: "Turkey"
+    followers: 154172
+    engagement: 814
+    commentsToLikes: 0.041932
+    id: ck5zjq434i1jo0i141p4prphv
+    verified: true
+    hashtags: "#jccledermoden, #fitonenu, #nikesportswear, #veganboss"
   - username: "tunaapari"
     fullname: >-
       Tuna Yüksel
+    bio: >-
+      Hakuna Matata Yoga Teacher Yoga Model Vegan ➖Antalya /Kaş ➖For collabs/işbirliği için ➡ tunaapari00@gmail.com ⬇️For more.. ⬇️
     location: "Turkey"
-    followers: 108691
-    engagement: 402
-    commentsToLikes: 0.033300
+    followers: 136086
+    engagement: 236
+    commentsToLikes: 0.121233
     id: ck6tu5311ecnw0j71qcz84e5i
     verified: false
-    hashtags: "#practice, #eyesonyou, #icanfly, #happysoul"
-  - username: "mutfaktayusufvar"
+    hashtags: "#handstand, #backmuscles, #yoga, #splits"
+  - username: "ayse_kadaifci"
     fullname: >-
-      Yusuf Adem Uzun
+      tastyfityy
+    bio: >-
+      📐Matematik mezunu bir anne👨‍👩‍👧‍👦 📝Sağlıklı ve lezzetli tarifler😋 🌱Tüm tarifler RAFİNE ŞEKERSİZ ve GLUTENSİZ Zaman zaman da RAW ve VEGAN
     location: "Turkey"
-    followers: 234548
-    engagement: 482
-    commentsToLikes: 0.503721
-    id: ckap2pkk4zrk30i78dlrgxpe3
-    verified: false
-    hashtags: "#avocado, #sugarfree, #ramadan, #tart"
-  - username: "chalydn"
-    fullname: >-
-      Chaly D.N
-    location: "Turkey"
-    followers: 757030
-    engagement: 166
-    commentsToLikes: 0.015546
-    id: ckap5t9pdd2re0i78zq9ihl98
-    verified: false
-    hashtags: "#ad"
-  - username: "tastyfityy"
-    fullname: >-
-      Ayşe Kadaifçi
-    location: "Turkey"
-    followers: 14110
-    engagement: 477
-    commentsToLikes: 0.098896
+    followers: 19207
+    engagement: 426
+    commentsToLikes: 0.096191
     id: ck5q9ypwldok10i11sufgu2be
     verified: false
-    hashtags: "#petib, #rafine, #10nisan, #elma"
+    hashtags: "#sugarfree, #apple, #ay, #tastyfityy"
+  - username: "mutfaktayusufvar"
+    fullname: >-
+      Mutfakta Yusuf Var 👨🏻‍🍳
+    bio: >-
+      📝 Sağlıklı Tarif Geliştirici 🌱 #Glutenfree #SugarFree #Vegan #Raw 👨🏻‍🍳 “Herkes yemek yapabilir!” 📩 mutfaktayusufvar@gmail.com
+    location: "Turkey"
+    followers: 261938
+    engagement: 250
+    commentsToLikes: 0.177946
+    id: ckap2pkk4zrk30i78dlrgxpe3
+    verified: false
+    hashtags: "#healthy, #thelifecoshop, #mutfaktayusufvar, #vegan"
+  - username: "dilgegokce"
+    fullname: >-
+      Dilge Gökçe
+    bio: >-
+      🎈Food Engineer / Gıda Mühendisi 🌈Sugarfree / Glutenfree / Vegan / Raw Alternative Food Ideas #fitfinet
+    location: "Turkey"
+    followers: 33771
+    engagement: 277
+    commentsToLikes: 0.094197
+    id: ckaorlem3nqv30i78vtfhpj1u
+    verified: false
+    hashtags: "#izmir, #veganfood, #reelsinstagram, #reels"
   - username: "sinemumas"
     fullname: >-
       Sinem Umas
+    bio: >-
+      Vegan 🌱 Snowboarder🏂 Bitkisel form çayım🍊 @ninasetcom @sinosunmelekleri
     location: "Turkey"
-    followers: 240361
-    engagement: 151
-    commentsToLikes: 0.030197
+    followers: 252189
+    engagement: 138
+    commentsToLikes: 0.033762
     id: ckaoy9t0oglo30i788ngzo7t5
     verified: true
-    hashtags: ""
-  - username: "sevimligurme"
+    hashtags: "#atesbarutgercekleri"
+  - username: "batchablog"
     fullname: >-
-      Sevimligurme🥝🍕🍗🍒
+      Biyçe
+    bio: >-
+      👩🏻‍🍳Sağlıklı tarifler 🌱Vegan&Vejetaryen tarifler 📷Yemek fotoğrafları 💌İletişim için: batchablog@gmail.com
     location: "Turkey"
-    followers: 70854
-    engagement: 159
-    commentsToLikes: 1.027585
-    id: ck14khehzpj090i19tduc0bg5
+    followers: 30878
+    engagement: 236
+    commentsToLikes: 0.052285
+    id: ck8t09hierah00j78hp7h7s2b
     verified: false
-    hashtags: "#asia, #ruhhalim, #gondol, #mekan"
-  - username: "aloosh_al_ameer"
+    hashtags: "#love, #hediye, #bakery, #food"
+  - username: "mentat_gamze"
     fullname: >-
-      Ali Abdulameer neamah 🔵
+      MENTAT • GAMZE🌾
+    bio: >-
+      Istanbul Turkey🦇 •Booking: mentatgamze@gmail.com •🌿Vegan Tattoo ʕ•ᴥ•ʔ •No Dm please•
     location: "Turkey"
-    followers: 1392532
-    engagement: 863
-    commentsToLikes: 0.173578
-    id: ck13ax1y7slj20i19awrn0zaz
-    verified: false
-    hashtags: "#photography, #motivation, #model, #2020"
-  - username: "eylmbc"
+    followers: 84203
+    engagement: 242
+    commentsToLikes: 0.091356
+    id: ck6tmlkm982bs0j710j61btfi
+    verified: true
+    hashtags: "#dovme, #leaftattoo, #fineline, #instainspiredtattoos"
+  - username: "lalinderosa"
     fullname: >-
-      Eylem Abacı
+      Model Istanbul
+    bio: >-
+      Fate loves the fearless
     location: "Turkey"
-    followers: 181558
-    engagement: 137
-    commentsToLikes: 0.135090
-    id: ck0u9o1p0abgw0i19ghjtaxcb
+    followers: 26160
+    engagement: 326
+    commentsToLikes: 0.080144
+    id: ck0tz3k35p1qs0i19cswxpk9v
     verified: false
-    hashtags: "#nosugar, #allwhite, #corona, #brownies"
-  - username: "emresil"
+    hashtags: "#portrait, #londonmodel, #boho, #vegangirl"
+  - username: "ellie_mmn"
     fullname: >-
-      Emre Abi
+      E L L I E  M Ü M I N
+    bio: >-
+      TRAVEL🔸EXPLORE🔸ADVENTURE 📍 LA 📍🇱🇷 🇹🇷 🇧🇬 🌎 Globetrotter 🥬Plant-based lifestyle 📧 elliemumin.la@gmail.com 👩🏼‍💼 @vain_designs Interior Design work
     location: "Turkey"
-    followers: 4281
-    engagement: 1558
-    commentsToLikes: 0.049719
-    id: ckapcduf43f3k0i781eih2gnh
+    followers: 21423
+    engagement: 437
+    commentsToLikes: 0.027794
+    id: ckap44go85st90i78gkld829w
     verified: false
-    hashtags: "#mademevdeyiz, #dreamscometrue, #ketorecipes, #geceyar"
-  - username: "elpidaaa_"
-    fullname: >-
-      ELA'S WORLD
-    location: "Turkey"
-    followers: 9550
-    engagement: 1448
-    commentsToLikes: 0.133972
-    id: ck8t2ff77za9e0j78dl4j9mie
-    verified: false
-    hashtags: "#mascara, #ilovesskincare, #benimhikayem, #ichbinavon"
+    hashtags: "#mediterraneansea, #vitaminb12, #istanbul, #vacation"
 ---

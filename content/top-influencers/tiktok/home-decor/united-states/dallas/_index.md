@@ -1,107 +1,130 @@
 ---
 title: Top 10 Home Decor TikTok Influencers In Dallas In 2020
 description: >-
-  Find top home decor TikTok influencers in Dallas in 2020. Most popular hashtags: #happyathome #quarantine #texas #dallas.
+  Find top home decor TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #homedecor #foryou #dallas.
 platform: TikTok
+hits: 14
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "storyofstyle"
+  - username: "katelynwine"
     fullname: >-
-      Hina Cheema
+      Katelyn
+    bio: >-
+      Amateur DIY-er Follow me on Instagram @katelynwine
     location: "United States"
-    followers: 36027
-    engagement: 807
-    commentsToLikes: 0.011211
-    id: ck8j9dg9amwt80j78srdb637o
+    followers: 5905
+    engagement: 627
+    commentsToLikes: 0.018676
+    id: ckb9brtflyasb0j23fmbsvuva
     verified: false
-    hashtags: "#moodboost, #pantry, #gotthisforyou, #tiktokfashion"
-  - username: "jsbuilders_"
+    hashtags: "#diy, #homeimprovement, #foryou, #doityourself"
+  - username: "antxxivet"
     fullname: >-
-      Tony Suarez
+      I’ve
+    bio: >-
+      
     location: "United States"
-    followers: 64713
-    engagement: 522
-    commentsToLikes: 0.018990
-    id: ck81sb33frd580j7830kndxyz
+    followers: 3578
+    engagement: 503
+    commentsToLikes: 0.031945
+    id: ckahthmxxef6p0i78ktq7r7d4
     verified: false
-    hashtags: "#stain, #makeup, #killyourvibe, #mexico"
-  - username: "gillliekwhoa"
+    hashtags: "#firulais, #foryoupage, #fyp, #engaged"
+  - username: "tannertheplanter13"
     fullname: >-
-      Gillian Clark
+      TannerThePlanter
+    bio: >-
+      www.tannertheplanter.com
     location: "United States"
-    followers: 11888
-    engagement: 1146
-    commentsToLikes: 0.039614
-    id: ck92y9hsy22e00j78zee1kz91
+    followers: 4343
+    engagement: 662
+    commentsToLikes: 0.050396
+    id: ckd6f9enk71ra0j23o6m6etmh
     verified: false
-    hashtags: "#travel, #shuffle, #dallas, #louisthechild"
-  - username: "mddesigns16"
+    hashtags: "#plantillas, #plantstuff, #houseplantclub, #dallas"
+  - username: "ba0iee"
     fullname: >-
-      mddesigns16
+      bao
+    bio: >-
+      #BlackLivesMatter 🦋 sf - dallas 🦋
     location: "United States"
-    followers: 47596
-    engagement: 1011
-    commentsToLikes: 0.041258
-    id: ck8adgs3r64130j78qm3oycno
+    followers: 3920
+    engagement: 823
+    commentsToLikes: 0.040559
+    id: ckbl4dclr1ux20j23gqf3k24b
     verified: false
-    hashtags: "#beerlover, #paintpour, #paintingrocks, #satisfying"
-  - username: "jordanmauldin"
+    hashtags: "#vietnamese, #plantmama, #sf, #tiktoktravel"
+  - username: "almightyydionn"
     fullname: >-
-      Jordan Mauldin
+      AlmightyyDionn🦅🖤
+    bio: >-
+      Dallas Tx 📍 👻Snap : @dionboi
     location: "United States"
-    followers: 7672
-    engagement: 703
-    commentsToLikes: 0.078711
-    id: ck9foaw391x920j78yjgcwlhx
+    followers: 152100
+    engagement: 2317
+    commentsToLikes: 0.007407
+    id: cka9rade28ysg0i78w21b8z66
     verified: false
-    hashtags: "#ififitsisits, #netflix, #tiktokhusband, #brokeass"
-  - username: "michele.bell"
+    hashtags: "#viral, #share, #greenscreen, #gotthisforyou"
+  - username: "kristen.nicole.robinson"
     fullname: >-
-      Michele
+      Kristen Robinson
+    bio: >-
+      IG: kristen.nicole.robinson north dallas realtor married up girl mom x2 redhead
     location: "United States"
-    followers: 3597
-    engagement: 798
-    commentsToLikes: 0.120468
-    id: cka9m605n428g0i78g7rob77e
+    followers: 7843
+    engagement: 505
+    commentsToLikes: 0.025118
+    id: ckck3ltsonm4p0j23apk795v3
     verified: false
-    hashtags: "#therapydog, #musicmatters, #viralvideo, #coockapoo"
-  - username: "pawcreate"
+    hashtags: "#minivlog, #marriagegoals, #homedecor, #couplesgoals"
+  - username: "pj_perry"
     fullname: >-
-      PawCreate
+      Perry
+    bio: >-
+      Just for fun✌🏾 21 // Dallas, Tx 👻pj.perry2016 Insta: pj_perry_
     location: "United States"
-    followers: 16109
-    engagement: 2314
-    commentsToLikes: 0.040179
-    id: ck8hrxp9fargu0j787p57ln5n
+    followers: 5450
+    engagement: 674
+    commentsToLikes: 0.024864
+    id: ckac3loakbp9f0i78853uxn51
     verified: false
-    hashtags: "#happymothersday, #doglover, #portrait, #petlove"
-  - username: "keepitpushinwoodwork"
+    hashtags: "#foryou, #trend, #music, #xyzcba"
+  - username: "maziezost"
     fullname: >-
-      KeepItPushinWoodwork
+      maz:)
+    bio: >-
+      ☆ ☆ ☆ zost like host snap: mayle_may 17:)
     location: "United States"
-    followers: 8570
-    engagement: 1961
-    commentsToLikes: 0.103614
-    id: ck8sawf5r42650j78w0qkfdtm
+    followers: 180100
+    engagement: 1694
+    commentsToLikes: 0.008477
+    id: ck8nl9bjtiul30j78jmhhx6gh
     verified: false
-    hashtags: "#keeppushing, #chef, #almostdone, #happyathome"
-  - username: "wildandfreepeople"
+    hashtags: "#boys, #fyp, #texas, #dance"
+  - username: "freshprintsofbelaire"
     fullname: >-
-      Madi Diesel
+      Whitney Belaire
+    bio: >-
+      Handlettering artists sharing process vids with you! Follow our IG to see more!
     location: "United States"
-    followers: 214102
-    engagement: 1696
-    commentsToLikes: 0.038144
-    id: ck90xyynx8lii0j788yym9qmn
+    followers: 15300
+    engagement: 702
+    commentsToLikes: 0.017702
+    id: ckb9brwcsyb050j232sqvggud
     verified: false
-    hashtags: "#tigereye, #labradorite, #crystalhearts, #coffeetime"
-  - username: "kevskrafts.com"
+    hashtags: "#farmhouse, #handlettering, #handpainted, #weddingsigns"
+  - username: "mariana.zarag"
     fullname: >-
-      kevskrafts
+      Mariana Zaragoza
+    bio: >-
+      Fashion. Beauty. Home. Oh, and baby! 👶🏻 Venmo @marianazarag
     location: "United States"
-    followers: 2452
-    engagement: 1134
-    commentsToLikes: 0.074408
-    id: ck8vuszs9jyz20j78tn6m1ogq
+    followers: 4151
+    engagement: 406
+    commentsToLikes: 0.014714
+    id: cka6czpu362630i78a6or5cw4
     verified: false
-    hashtags: "#cuda, #chevyc10, #husky, #projecttruck"
+    hashtags: "#recipes, #lunch, #foodie, #makeup"
 ---

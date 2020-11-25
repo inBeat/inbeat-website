@@ -1,107 +1,130 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top fashion Instagram influencers in Indonesia in 2020. Most popular hashtags: #yourcolourfulday #you36rougelipcream #natursleepingmask #stayathome.
+  Find top fashion Instagram influencers in Indonesia in 2020. Most popular hashtags: #fashionstyle #ootd #instadaily.
 platform: Instagram
+hits: 1319
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 1319 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "dexawdys_"
-    fullname: >-
-      Dexa Widyasari
-    location: "Indonesia"
-    followers: 8564
-    engagement: 1638
-    commentsToLikes: 0.141262
-    id: ck9wi47570o1p0j784iwjvevk
-    verified: false
-    hashtags: "#kartiniday, #harikartini2020, #jembangankebumen, #sneakers"
-  - username: "titantyra"
-    fullname: >-
-      Titan Tyra
-    location: "Indonesia"
-    followers: 543083
-    engagement: 760
-    commentsToLikes: 0.029802
-    id: ck0tyzli0ojh30i19s0n1w7gr
-    verified: true
-    hashtags: "#milkygelliptint, #sponsored, #photoshootideas, #you36rougelipcream"
-  - username: "dee.adeeee"
-    fullname: >-
-      Ade Indah Sari
-    location: "Indonesia"
-    followers: 8644
-    engagement: 1112
-    commentsToLikes: 0.120376
-    id: ck8t5rnh4b0470j7884ga2zjz
-    verified: false
-    hashtags: "#dirumahaja"
   - username: "elenacoffey777"
     fullname: >-
       Elena Coffey
+    bio: >-
+      Fashion | Beauty | Lifestyle | Travelling the World Non Stop✈️ My main account: @elenacoffey
     location: "Indonesia"
-    followers: 19562
-    engagement: 697
-    commentsToLikes: 0.140559
+    followers: 28406
+    engagement: 793
+    commentsToLikes: 0.097526
     id: ck8t5rzc5b1ce0j78bh9g5vsq
     verified: false
-    hashtags: "#explorehk, #travelgirlsgo, #traveldiary, #beautifuldog"
-  - username: "ireneswnd"
+    hashtags: "#beautifulbali, #thetraveltag, #journeyofgirls, #elenacoffey"
+  - username: "istii0298"
     fullname: >-
-      Irene Suwandi
+      Ⓘⓢⓣⓘⓠⓞⓜⓐⓗ🍑||TANGERANG
+    bio: >-
+      بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 🍑FASHION•FOOD•BEAUTY💦 💍ʷⁱᶠᵉ : @ahmdrizal15👰 📍CIKUPA TANGEƦANG ✏Part of : ADR 📩ENDORSE DLL,WA👇
     location: "Indonesia"
-    followers: 136773
-    engagement: 905
-    commentsToLikes: 0.026368
-    id: ckap78at1izb00i78ammeeobs
+    followers: 19352
+    engagement: 1041
+    commentsToLikes: 0.120091
+    id: ck9wh93hawtx20j785he705cp
     verified: false
-    hashtags: "#boldmakeup, #you36rougelipcream, #02, #makeupideas"
-  - username: "zelitaptr24"
+    hashtags: "#onepaletteallmakeup, #dazzlemebeauty, #beautybeyondboundaries, #pondsindonesia"
+  - username: "farnazjavdankherad"
     fullname: >-
-      Ikke Zelita Putri💫
+      Farnaz
+    bio: >-
+      Farnaz businesswoman owner and founder of Fj @f.jcollection fashion | beauty | lifestyle maried mehran ghalamchi 📧farnaz.javdan@gmail.com
     location: "Indonesia"
-    followers: 14209
-    engagement: 912
-    commentsToLikes: 0.228940
-    id: ck9wh8ehrwqfy0j782jhdp4ri
+    followers: 7648
+    engagement: 1893
+    commentsToLikes: 0.075238
+    id: ck6u4x2da6a4m0j71adqdys8y
     verified: false
-    hashtags: "#resellerbuku, #resellerdeepublish, #bersamalawancorona, #pekanbaru"
-  - username: "michellenathh"
+    hashtags: "#love, #bali, #birthday, #couplegoal"
+  - username: "vidaarmeta_"
     fullname: >-
-      𝙈𝙄𝘾𝙃𝙀𝙇𝙇𝙀 || 𝐎𝐏𝐄𝐍 𝐂𝐎𝐋𝐋𝐀𝐁𝐒 🦄
+      𝓥𝓲𝓭𝓪 𝓐𝓻𝓶𝓮𝓽𝓪
+    bio: >-
+      Lifestyle ▪️ Fashion ▪️ Beauty 📍PTI - SMG 📩 For business inquires DM Brand Affiliate @simplynu.sosmed.central
     location: "Indonesia"
-    followers: 25813
-    engagement: 390
-    commentsToLikes: 0.471110
-    id: ck6toxnp0gog90j7109f63rpx
+    followers: 7603
+    engagement: 1084
+    commentsToLikes: 0.090217
+    id: ckap7caavjg7g0i788tm37wpl
     verified: false
-    hashtags: "#bonowatch, #somebyskincare, #premiumcosmetics, #nomorelepek"
-  - username: "taaviawindyan"
+    hashtags: "#donasi, #sahabat, #sedekah, #gotongroyongkebaikan"
+  - username: "zailinaqeesha"
+    fullname: >-
+      Princess Zailin Aqeesha
+    bio: >-
+      👱🏻‍♀️ 13yrs old 👠 Runway Fashion Show 📸 Photoshoot 🎬 Shooting 🌸 Tiktok id : zailinaqeesha_
+    location: "Indonesia"
+    followers: 2566
+    engagement: 2410
+    commentsToLikes: 0.092665
+    id: ckap3le8m3hs00i787o6isdtu
+    verified: false
+    hashtags: "#sa40k, #pesonapenggantin, #pengantinthecatwalkedition2019, #rehearsalday"
+  - username: "asq04_"
+    fullname: >-
+      𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝙈𝙞𝙛𝙩𝙖𝙝𝙪𝙡 𝘼𝙨𝙞𝙦𝙞𝙣 아시 친
+    bio: >-
+      Collab & Work Inquiries 📞📩 Let It Be 👻 I 💞 Pose In Front 📸 #lifestyle 👨‍🦱 #food 🍹🍱 #fashion 👔 #beauty 🛍️ Onin•Adr•SHR•Milenial•Stellar•TCE•Ball
+    location: "Indonesia"
+    followers: 14699
+    engagement: 765
+    commentsToLikes: 0.141731
+    id: ck5hnvjkoogsq0i11y2l34uj9
+    verified: false
+    hashtags: "#asiqiinootd, #dirumahaja, #explorewithasiqiin, #asiqiinfood"
+  - username: "sitinurcahyani"
     fullname: >-
       
+    bio: >-
+      Lifestyle||Beauty||Fashion #LemonSquad Endorse or Business⬇️ 💌ssitinurcahyani@gmail.com @sociolla @qa.management__ @sahirah_management @oninfluencer
     location: "Indonesia"
-    followers: 6397
-    engagement: 1253
-    commentsToLikes: 0.060058
-    id: ck9wgnb23u4b20j78co51j5lv
+    followers: 40040
+    engagement: 383
+    commentsToLikes: 0.091862
+    id: ck9wh7iiywm5c0j788dlft4bo
     verified: false
-    hashtags: "#tinggalhistory, #wangiinaja, #sabarajadulu, #bigbangjakarta"
-  - username: "fannychristianawong"
+    hashtags: "#lifebuoyid, #ekspresimerdekamu, #ekspresimerdeka, #tanganbersihuntukindonesia"
+  - username: "bethaniamw"
     fullname: >-
-      OPEN ENDORSE | PAID PROMOTE
+      𝐁💜
+    bio: >-
+      📍Sby — Fashion enthusiast💫 — business inquiries trough dm📩 Best Socmed #alphagirls2019 @museby.bee @buyornah.id
     location: "Indonesia"
-    followers: 26732
-    engagement: 324
-    commentsToLikes: 0.222520
-    id: ck5c3ekhuz5zm0i11rxiea9hj
+    followers: 5996
+    engagement: 1548
+    commentsToLikes: 0.038104
+    id: ck5zpqh8bt5ej0i14rvtq8olj
     verified: false
-    hashtags: "#banggasurabaya, #freshbendino, #hoodiesquad, #neverbethesame"
-  - username: "anisadheaa"
+    hashtags: "#happynationalfathersday2020, #batikdaerah, #fpdruntheworld, #oweekuc2020"
+  - username: "piyanka_mongia"
     fullname: >-
-      Anisa Dhea N
+      Piyanka Mongia❤ (Official)
+    bio: >-
+      Proud To Be A Punjaban🔥 👄Fashion • Beauty • Lifestyle 👻Snap- Iampiyanka 📮Email For Collaborations 👅MOJ ID @piyanka_mongia
     location: "Indonesia"
-    followers: 65660
-    engagement: 449
-    commentsToLikes: 0.041189
-    id: ck0w2vedaqcqr0i19utes9eo2
+    followers: 1679813
+    engagement: 636
+    commentsToLikes: 0.019465
+    id: ck8wfbxnwfhyq0j78l4pfddql
     verified: false
-    hashtags: "#geraktakterbatas, #pestabolarexona, #rexonamenid, #sp"
+    hashtags: "#insta, #fashionphotography, #piifam, #fashionweek"
+  - username: "wynnehwang_"
+    fullname: >-
+      WYNNE IGNACIA
+    bio: >-
+      Half salmon😶😶 🍑full time BTS lovers🍑 Welcome to my not so fashionable fashion page😌 My skincare routine @pinkroulette.id 🧚🏻
+    location: "Indonesia"
+    followers: 72749
+    engagement: 287
+    commentsToLikes: 0.056272
+    id: ck5hjeb3vgh6k0i1188avhogm
+    verified: false
+    hashtags: "#happyjiminday, #ootd"
 ---

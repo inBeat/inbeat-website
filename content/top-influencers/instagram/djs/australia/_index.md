@@ -1,107 +1,130 @@
 ---
 title: Top 10 Djs Instagram Influencers In Australia In 2020
 description: >-
-  Find top djs Instagram influencers in Australia in 2020. Most popular hashtags: #melbourne #djsaw20 #france #southafrica.
+  Find top djs Instagram influencers in Australia in 2020. Most popular hashtags: #dj #music #letsgo.
 platform: Instagram
+hits: 39
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 39 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "kaity_modern"
+  - username: "thefadersdjs"
     fullname: >-
-      KAITLYN HAM
+      
+    bio: >-
+      DJs, Universal Music Agent, IMG Global Comms, Oakley jo@jwtp.com.au kailei@luckyent.com #thefadersdjs
     location: "Australia"
-    followers: 306690
-    engagement: 117
-    commentsToLikes: 0.021316
-    id: ck0w3tdvgv6880i19ciu93htt
+    followers: 27061
+    engagement: 173
+    commentsToLikes: 0.057479
+    id: ck0w2etixo00w0i19sfpn8gts
+    verified: false
+    hashtags: ""
+  - username: "djsyrahofficial"
+    fullname: >-
+      Dj Syrah
+    bio: >-
+      #djsyrah DJ/Producer From Indore 🎧🎹🎶 For Bookings Email ➡️ djsyrahofficial@gmail.com www.facebook.com/djsyrahofficial
+    location: "Australia"
+    followers: 50931
+    engagement: 338
+    commentsToLikes: 0.020630
+    id: ck0vz2cxb6xu30i19730s8zzo
+    verified: false
+    hashtags: "#bollywoodforever11, #album, #djsyrah, #dj"
+  - username: "djskaps"
+    fullname: >-
+      Skappy Loso
+    bio: >-
+      🎧 - DJ/Producer 🎼 - HipHop & RnB Expert 🙏🏾 - RIP CADET❤️❤️❤️
+    location: "Australia"
+    followers: 2698
+    engagement: 1749
+    commentsToLikes: 0.117278
+    id: ck15ux1nhowun0i192az1qztr
+    verified: false
+    hashtags: "#saturdayshellingswithskappy, #saturdayswithskappy, #youknowthevibes, #ynl"
+  - username: "chloemarin__"
+    fullname: >-
+      Chloe Marin
+    bio: >-
+      Singer. Performer. Songwriter. 🎤 “This Is Who We Are” Listen Here ⬇️
+    location: "Australia"
+    followers: 17947
+    engagement: 290
+    commentsToLikes: 0.099553
+    id: ck6tixt431mxn0j71d7rdxpst
+    verified: false
+    hashtags: "#instadaily, #throwbackthursday, #missit, #chloemarin"
+  - username: "mha_iri_official"
+    fullname: >-
+      Mha Iri
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Producer based in Melbourne 1605, Analytictrail, Respekt Recordings
+    location: "Australia"
+    followers: 23460
+    engagement: 471
+    commentsToLikes: 0.141663
+    id: ck14h2tr189ku0i19g43cn6ij
+    verified: false
+    hashtags: "#news, #technopeople, #happy, #releasenews"
+  - username: "3viemathers"
+    fullname: >-
+      ♥️ 𝓔𝓿𝓮
+    bio: >-
+      ♉️🌈 | 💌: 𝘦𝘷𝘦_2498@𝘩𝘰𝘵𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 . .
+    location: "Australia"
+    followers: 4915
+    engagement: 1317
+    commentsToLikes: 0.243431
+    id: ckf5mvsnbvmgs0j23anmvqzuu
+    verified: false
+    hashtags: "#melbournefoodie, #melbournefoodblogger, #melbourneeats, #melbfoodbaby"
+  - username: "jheuston"
+    fullname: >-
+      Josh Heuston
+    bio: >-
+      IMG x Tess.Stillwell@img.com Acting- we.are@thexdivision.com.au Jheustoncontact@gmail.com
+    location: "Australia"
+    followers: 606502
+    engagement: 398
+    commentsToLikes: 0.018213
+    id: ck5ceyuc6lzhp0i11fbptch73
     verified: true
-    hashtags: "#feeltheburn, #ad, #mfxstylesocial, #orotoneveryday"
+    hashtags: "#tagheuercarrera, #camillawithlove, #takemetotinseltown, #conqueryourgreatness"
+  - username: "lukericketson"
+    fullname: >-
+      Luke Ricketson
+    bio: >-
+      GSA Sport and Leisure Insurance Broker | Ex NRL Rooster, now board member.
+    location: "Australia"
+    followers: 12002
+    engagement: 585
+    commentsToLikes: 0.048280
+    id: ck0w3sis4v1nb0i19dkdfsk34
+    verified: false
+    hashtags: "#sophia, #djsfood"
+  - username: "adutakech"
+    fullname: >-
+      Adut Akech Bior
+    bio: >-
+      2019 BFA - Model of The Year 2019 Industry vote - Model of The Year 2019 Time - 100 NEXT List
+    location: "Australia"
+    followers: 1138170
+    engagement: 1039
+    commentsToLikes: 0.009053
+    id: ck0tt8w181npr0i198amrc2lq
+    verified: true
+    hashtags: "#djsss20, #ripchadwickbossman, #versaceholiday, #africatotheworld"
   - username: "charleefraser"
     fullname: >-
       Charlee Fraser
+    bio: >-
+      Model | in the | Making IMG Worldwide. 🌏
     location: "Australia"
-    followers: 35271
-    engagement: 232
-    commentsToLikes: 0.026361
+    followers: 35359
+    engagement: 155
+    commentsToLikes: 0.041335
     id: ck0tuzowg9djf0i19kah3xewl
     verified: true
-    hashtags: "#vamff, #doubleornothing, #isolationstation, #eternallygrateful"
-  - username: "tahnee711"
-    fullname: >-
-      TAHNEE ATKINSON.
-    location: "Australia"
-    followers: 137838
-    engagement: 208
-    commentsToLikes: 0.015650
-    id: ck13cbhmizj690i19gq67wrqm
-    verified: true
-    hashtags: "#hmaustralia, #djsaw20, #furlasociety"
-  - username: "cameronsstephens"
-    fullname: >-
-      Cameron Stephens
-    location: "Australia"
-    followers: 2746
-    engagement: 1207
-    commentsToLikes: 0.073667
-    id: ck6uia5cqdyjq0j716t1mjqdj
-    verified: false
-    hashtags: "#earthday, #londonfashionweek, #vogueaustralia, #imgmodels"
-  - username: "daydinmusic"
-    fullname: >-
-      Day Din
-    location: "Australia"
-    followers: 41629
-    engagement: 193
-    commentsToLikes: 0.019696
-    id: ck1384cfiefqn0i191t0pfj5b
-    verified: false
-    hashtags: "#slowmotion, #live, #adsutra, #fitzroyisland"
-  - username: "adamroy37"
-    fullname: >-
-      Adam Goodes
-    location: "Australia"
-    followers: 55015
-    engagement: 654
-    commentsToLikes: 0.020866
-    id: ck5hi7l1sc28f0i11xx1iokqi
-    verified: false
-    hashtags: "#experience, #boss, #literacyisfreedom, #djsartofliving"
-  - username: "dj.dasco"
-    fullname: >-
-      DASCO
-    location: "Australia"
-    followers: 19279
-    engagement: 169
-    commentsToLikes: 0.020332
-    id: ck0vw11pkrmjh0i19v53oawbt
-    verified: false
-    hashtags: "#deejay, #pink, #zeezoutpodcast, #stpetersburg"
-  - username: "djwegun"
-    fullname: >-
-      “Wegun Is My DJ”
-    location: "Australia"
-    followers: 69812
-    engagement: 422
-    commentsToLikes: 0.009629
-    id: ck14jsy82m0tn0i1950ssskfh
-    verified: true
-    hashtags: "#booba, #yumdda, #gillettekorea, #djspray"
-  - username: "andytrieu"
-    fullname: >-
-      Andy Trieu
-    location: "Australia"
-    followers: 27529
-    engagement: 168
-    commentsToLikes: 0.037868
-    id: ck5cjqmquvaal0i11zuq1knud
-    verified: false
-    hashtags: "#isoplant, #martialarts, #sbsaustralia, #2ne1"
-  - username: "noirmusic"
-    fullname: >-
-      Noir
-    location: "Australia"
-    followers: 43702
-    engagement: 77
-    commentsToLikes: 0.048096
-    id: ck0w6e1ao84z00i19tjtdni70
-    verified: false
-    hashtags: "#pictureperfect, #ontour, #doglovers, #nofilter"
+    hashtags: "#sceneone, #scenetwo, #watchthisspace, #campaign"
 ---

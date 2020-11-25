@@ -1,107 +1,130 @@
 ---
 title: Top 10 Models Instagram Influencers In United States In 2020
 description: >-
-  Find top models Instagram influencers in United States in 2020. Most popular hashtags: #smile # #birthdaygirl #dancersofig.
+  Find top models Instagram influencers in United States in 2020. Most popular hashtags: #prettygirls #model #modelsearch.
 platform: Instagram
+hits: 11607
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11607 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "the__viperhead"
+  - username: "diana_poli5"
     fullname: >-
-      A R O 〽️ A L  |  R K
+      Diana
+    bio: >-
+      Model
     location: "United States"
-    followers: 3632
-    engagement: 3451
-    commentsToLikes: 0.407174
-    id: ck9wiir722fpl0j78u7k6yukj
+    followers: 6895
+    engagement: 914
+    commentsToLikes: 0.271620
+    id: ckf5qj7sp9j8a0j237biufl96
     verified: false
-    hashtags: "#superhero, #pretty, #caricature, #editorial"
-  - username: "annanpage"
+    hashtags: "#autumnstyle, #teenmodel, #teenbeauty, #fantasyphoto"
+  - username: "dasity_official"
     fullname: >-
-      Anna Page
+      𝐃𝐀𝐒𝐈𝐓𝐘 | Model
+    bio: >-
+      Chicago | Midwest ✨ Published Model & Video Vixen 👸🏼 Dasity.Official@gmail.com or DM to Book Portfolio, Rates, OF, & More in the LINK below ⬇️
     location: "United States"
-    followers: 3444
-    engagement: 3125
-    commentsToLikes: 0.520134
-    id: ck55p7qaf9yz50i11wia24skg
+    followers: 2793
+    engagement: 970
+    commentsToLikes: 0.095158
+    id: ckf5rkpgfd0ht0j23r1mhsszr
     verified: false
-    hashtags: "#jordsunglasses, #day19, #wearmintacreate, #copykatich"
+    hashtags: "#tipsybunnyboutique, #baddie, #vixen, #model"
   - username: "kayla.ogno"
     fullname: >-
       kayla ogno
+    bio: >-
+      FASHION￼ MODEL
     location: "United States"
-    followers: 5507
-    engagement: 3007
-    commentsToLikes: 0.105942
+    followers: 5367
+    engagement: 2856
+    commentsToLikes: 0.102331
     id: ckap5coz5b2v70i78826g3rkw
     verified: false
-    hashtags: "#roadtomissnjteenusa, #countdown, #841miles"
+    hashtags: "#roadtomissnjteenusa, #countdown"
+  - username: "munamasna"
+    fullname: >-
+      Muna Mohamed
+    bio: >-
+      - Follow @masnaskincare - Model with @immbxl - Student Skin Therapy
+    location: "United States"
+    followers: 6323
+    engagement: 2263
+    commentsToLikes: 0.103397
+    id: ckapbnb7l0k3p0i780e8zu2a0
+    verified: false
+    hashtags: ""
+  - username: "annanpage"
+    fullname: >-
+      Anna Page
+    bio: >-
+      + probably at home cuddling with my cats + freelance model + chicago suburbs and beyond
+    location: "United States"
+    followers: 4598
+    engagement: 2202
+    commentsToLikes: 0.362747
+    id: ck55p7qaf9yz50i11wia24skg
+    verified: false
+    hashtags: "#fableticspartner, #kickbuttlookcute, #myfabletics, #wearmintacreate"
   - username: "relaxitsredd"
     fullname: >-
       RedfromtheCut🦇
+    bio: >-
+      Southern Univ. Designer/CEO of @officialindiv aspiring model Booking: dm/email #Lowlife! #AON
     location: "United States"
-    followers: 5888
-    engagement: 1842
-    commentsToLikes: 0.092340
+    followers: 6412
+    engagement: 1684
+    commentsToLikes: 0.088582
     id: ck6ud9ch2jsgc0j71wxmc4ffa
     verified: false
-    hashtags: "#bayouclassic, #19, #suhomecoming, #homecoming"
-  - username: "allabout.mya"
+    hashtags: "#bayouclassic, #1of1, #jewelofthebluff, #birthdayeve"
+  - username: "thatsnajma"
     fullname: >-
-      lil my.. ♛
+      Najma Shy- “NAJ”
+    bio: >-
+      Booking: najmashy@gmail.com Model | Actress | Dancer ~ @twerktabata Loctician @styledbynaj 23 | 5’11 | ATL | ~live a colorful life, no excuses~
     location: "United States"
-    followers: 7637
-    engagement: 1524
-    commentsToLikes: 0.138046
-    id: ck0u6kowz26fm0i19eidkaukx
+    followers: 9494
+    engagement: 1625
+    commentsToLikes: 0.077876
+    id: ck15tqdhijdql0i19dgoqlkv4
     verified: false
-    hashtags: "#crocs, #angelic, #birthdaygirl, #kendrasboutique"
-  - username: "jakob_magnus"
+    hashtags: "#wcw, #fitnessgear, #supportblackbusinesses, #blackownedbusiness"
+  - username: "nadiamualem"
     fullname: >-
-      Jakob Magnus
+      ♡Nadia♡Almualem♡
+    bio: >-
+      Model & Actress 🇧🇴🇯🇴 || Proverbs 3:5-6
     location: "United States"
-    followers: 75540
-    engagement: 1126
-    commentsToLikes: 0.077133
-    id: ck0tws4ibgmft0i19ar004hih
+    followers: 138576
+    engagement: 1482
+    commentsToLikes: 0.040837
+    id: ck5c7qoze80gb0i11hv1o8luk
+    verified: false
+    hashtags: "#parternership, #partnership"
+  - username: "cynthiajalikian"
+    fullname: >-
+      Cնج ♐︎
+    bio: >-
+      24-4-17🥀 •Armenian/Lebanese• •Pure Mathematics•Model• •@lazoneverte•
+    location: "United States"
+    followers: 6573
+    engagement: 1466
+    commentsToLikes: 0.093505
+    id: ckapb991uz1zn0i78q7r4nxsz
     verified: false
     hashtags: ""
-  - username: "jadongrundy"
+  - username: "graciejad.e"
     fullname: >-
-      Grun
+      gracie jade!!
+    bio: >-
+      model x influencer tt: 460k+ email for business inquiries
     location: "United States"
-    followers: 52413
-    engagement: 985
-    commentsToLikes: 0.059337
-    id: ck8syug39m1u20j783bzjjr8j
+    followers: 26165
+    engagement: 1376
+    commentsToLikes: 0.066170
+    id: ck8wgnt72hpyi0j78lr3b8vug
     verified: false
     hashtags: ""
-  - username: "diarrasyllalofficiel"
-    fullname: >-
-      Diarra Sylla
-    location: "United States"
-    followers: 2314629
-    engagement: 896
-    commentsToLikes: 0.045039
-    id: ck139si1ymwg20i19rv6jw3eo
-    verified: true
-    hashtags: "#nowunitedcometogether, #jeep, #wisardingworldhollywood, #boandtee"
-  - username: "itsemilydobson"
-    fullname: >-
-      Emily Dobson♡
-    location: "United States"
-    followers: 158474
-    engagement: 866
-    commentsToLikes: 0.047013
-    id: ck15qkv9s3ci10i19pwkzwmvb
-    verified: false
-    hashtags: "#mydickies, #potdkids, #lamodelsyouth, #tbthursday"
-  - username: "cheyciani"
-    fullname: >-
-      Chey Baby
-    location: "United States"
-    followers: 114341
-    engagement: 632
-    commentsToLikes: 0.041791
-    id: ck0tvve2ecye30i19jdyek3qv
-    verified: false
-    hashtags: "#bodypositive, #liveyourbestlife, #polaroid, #staysafe"
 ---

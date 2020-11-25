@@ -1,107 +1,130 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Finland In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Finland in 2020. Most popular hashtags: #giveaway #gladavappen #kidsroom #arvonta.
+  Find top lifestyle Instagram influencers in Finland in 2020. Most popular hashtags: #arvonta #kaupallinenyhteisty #kasvisruoka.
 platform: Instagram
+hits: 113
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 113 Instagram influencers like this in Finland for you to work with.
 profiles:
-  - username: "sinimalist"
+  - username: "oliviavidael"
     fullname: >-
-      S I N I
+      
+    bio: >-
+      ⁣⁣⁣⁣ Lifestyleblogi kauneus- & asuvinkkien kera 🌾 ⁣⁣HELSINKI | olivia.bigovic@hotmail.com 📰 ⁣ ⁣⁣⁣⁣
     location: "Finland"
-    followers: 6333
-    engagement: 2039
-    commentsToLikes: 0.221644
-    id: ck5c0w74qtyn00i11wrwzpguy
+    followers: 11215
+    engagement: 1936
+    commentsToLikes: 0.027655
+    id: ck6u5i66e9rvl0j713oy1llni
     verified: false
-    hashtags: "#palkinto, #tulppaani, #kalevalakoru, #finnishfashion"
-  - username: "annituuliali"
-    fullname: >-
-      ANNI LIPPONEN 🇫🇮
-    location: "Finland"
-    followers: 3127
-    engagement: 2200
-    commentsToLikes: 0.163960
-    id: ckap4wbp796e40i788mk2eyzb
-    verified: false
-    hashtags: "#vappu2020, #gladavappen"
-  - username: "ninnupinnu"
-    fullname: >-
-      Niina-Maria Lavonen
-    location: "Finland"
-    followers: 6528
-    engagement: 1020
-    commentsToLikes: 0.148080
-    id: ckap9hjohsn600i787zzpj3qo
-    verified: false
-    hashtags: "#lastenhuone, #pregnancyweek41, #minitude, #jollyroom"
-  - username: "fitoona"
-    fullname: >-
-      COACH - Oona Tolppanen
-    location: "Finland"
-    followers: 64913
-    engagement: 361
-    commentsToLikes: 0.058552
-    id: ck13aofdwrdz60i19491jk19l
-    verified: true
-    hashtags: "#werderbremen, #missing, #summervibes, #soccer"
+    hashtags: "#arvonta, #ajatuksia, #kuukautiset, #kuukuppi"
   - username: "sartorial_finn"
     fullname: >-
       The Sartorial Finn || Johan W.
+    bio: >-
+      💼 Data Analyst by weekdays, menswear enthusiast all days 👔 #menswear and #lifestyle 🚶🏼‍♂️Follow my #sartorial journey 📍Finland 🇫🇮
     location: "Finland"
-    followers: 6138
-    engagement: 1173
-    commentsToLikes: 0.065787
+    followers: 13386
+    engagement: 528
+    commentsToLikes: 0.074408
     id: ck8tdck3y2t650j78rre7ous2
     verified: false
-    hashtags: ""
-  - username: "ronjaemmiina"
-    fullname: >-
-      RONJA IKONEN
-    location: "Finland"
-    followers: 6756
-    engagement: 1095
-    commentsToLikes: 0.064530
-    id: ck6tu03j1djo20j71unecko6y
-    verified: false
-    hashtags: "#kohtaamisia, #proteinshake, #oddmolly, #shakeittillyoumakeit"
+    hashtags: "#savilerow, #styleforum, #sartorial, #suitandtie"
   - username: "ritanic0le"
     fullname: >-
-      𝓡𝓲𝓽𝓪 | MINISTYLE | LIFESTYLE |
+      R I T A
+    bio: >-
+      ♡ Lifestyle | Ministyle ♡ Olivia’s proud mama ♡ Helsinki, FIN ♡ Contact & collabs e-mail / DM Brand rep @martinex.fi @moominbymartinex
     location: "Finland"
-    followers: 2406
-    engagement: 1454
-    commentsToLikes: 0.307440
+    followers: 2481
+    engagement: 1241
+    commentsToLikes: 0.250422
     id: ck5zrwmvfxe4e0i14okh0xken
     verified: false
-    hashtags: "#phonecase, #easter, #springstyle, #mamasgirl"
-  - username: "janniehari"
+    hashtags: "#autumncolors, #autumnvibes, #ministyle, #fridayvibes"
+  - username: "annituuliali"
     fullname: >-
-      Janni-Amanda
+      ANNI LIPPONEN 🇫🇮
+    bio: >-
+      🤍 Fitness lifestyle ▪️ @icaniwill -20% ’ANNIL20’ ▪️ @myproteinfi -42% ’ANNIMP’ ▪️ @lohilo -10% ’ANNI’ 📨 Contacts: annilipponen@outlook.com
     location: "Finland"
-    followers: 16153
-    engagement: 807
-    commentsToLikes: 0.037757
-    id: ck8szpvh2pa3a0j78ybk8gl9w
+    followers: 3279
+    engagement: 1495
+    commentsToLikes: 0.120640
+    id: ckap4wbp796e40i788mk2eyzb
     verified: false
-    hashtags: "#throughtheroughseas, #strollers, #parasvalintavauvallesi, #viaplayviikonloppu"
+    hashtags: "#comfy, #comfystore, #idealofsweden, #collaboration"
+  - username: "sallasalmela"
+    fullname: >-
+      ⓈⒶⓁⓁⒶ
+    bio: >-
+      FAMILY | LIFESTYLE ❁ ♡ vaimo | äiti ✺ vauva-arkea, herkkureseptejä, koirahöpsötystä ja hyvää mieltä sun päivään! ✎ BLOGI↓
+    location: "Finland"
+    followers: 10277
+    engagement: 901
+    commentsToLikes: 0.187048
+    id: ck5c593272zzl0i111sdkcwz1
+    verified: false
+    hashtags: "#vauva2020, #kilpailu, #syksy, #arki"
   - username: "imsagr"
     fullname: >-
-      Sagr Hamdan | صقر حمدان
+      Sagr Hamdan
+    bio: >-
+      🧔🏾 #Influencer | #Menswear | #Lifestyle 📩 DM TO COLLABORATE 🌍 #Finland 🇫🇮 / 📍#Helsinki
     location: "Finland"
-    followers: 30774
-    engagement: 226
-    commentsToLikes: 0.299416
+    followers: 24672
+    engagement: 258
+    commentsToLikes: 0.213514
     id: ck0w4e6rey53j0i19svsiy9od
     verified: false
-    hashtags: "#tbt, #laspalmas, #agaete, #myplywood"
-  - username: "lifestyle_by_nicole"
+    hashtags: "#viikonviini, #tosti1820, #ad, #kaupallinenyhteisty"
+  - username: "mariakangaskortet"
     fullname: >-
-      Nicole
+      Maria Kangaskortet
+    bio: >-
+      Family & entrepreneur lifestyle 🇫🇮 YouTube:The Realm of Maria 🖤creative soul, author, interior architecture student 💌therealmofmaria@hotmail.com
     location: "Finland"
-    followers: 5195
-    engagement: 661
-    commentsToLikes: 0.173799
-    id: ck15r78wh6hos0i19xri1t1z4
+    followers: 22244
+    engagement: 1054
+    commentsToLikes: 0.007904
+    id: ck8syn8lilc650j7873hvclgb
     verified: false
-    hashtags: "#silkscarf, #guccibag, #giveaways, #cultgaia"
+    hashtags: "#ruokavinkki, #arla, #kasvisruoka, #marianresepti"
+  - username: "imthalyaa"
+    fullname: >-
+      𓂀 Zahra 𓂀
+    bio: >-
+      • fashion, beauty & lifestyle 📸👠💄 • business inquiries : imthalyaa@outlook.com ⌨ • 📍🇫🇮
+    location: "Finland"
+    followers: 4732
+    engagement: 607
+    commentsToLikes: 0.278889
+    id: ck5hjk35qgrop0i11v3j3ro3o
+    verified: false
+    hashtags: "#ad, #gifted, #kaupallinenyhteisty, #tb"
+  - username: "actsoininen"
+    fullname: >-
+      ACT THANA SOININEN 🖤🇹🇭
+    bio: >-
+      Beauty & Lifestyle Espoo, Finland 🇫🇮🤍☃️ Collab: Email or DM
+    location: "Finland"
+    followers: 24765
+    engagement: 312
+    commentsToLikes: 0.036715
+    id: ck55oxgc79bxd0i11adu8c7o2
+    verified: false
+    hashtags: "#visitfinland, #dinner, #marriedlife, #summertofall"
+  - username: "venlamarias"
+    fullname: >-
+      VENLA SALMINEN | FITNESS
+    bio: >-
+      LIFESTYLE / FITNESS ATHLETE ✨ . Perus arkea hyvällä fiiliksellä 👌🏼 . 🔸 MYPROTEIN ATHLETE - 35% ”VENLASMP” . Tuomas ❤️ / 📍Helsinki
+    location: "Finland"
+    followers: 2696
+    engagement: 1984
+    commentsToLikes: 0.035311
+    id: ckaosia83rm8c0i785tr5juey
+    verified: false
+    hashtags: ""
 ---

@@ -1,107 +1,130 @@
 ---
 title: Top 10 Skincare TikTok Influencers In Toronto In 2020
 description: >-
-  Find top skincare TikTok influencers in Toronto in 2020. Most popular hashtags: #skincare #toronto #greenscreen #coronavirus.
+  Find top skincare TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #skincare #foryou #toronto.
 platform: TikTok
+hits: 33
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 33 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "abbieoliveira"
+  - username: "jaclyn.forbes"
     fullname: >-
-      Abbie
+      Jaclyn Forbes
+    bio: >-
+      i paint faces, eat plants, and interview people WATCH MY LATEST YOUTUBE VID👇🏼
     location: "Canada"
-    followers: 8682
-    engagement: 320
-    commentsToLikes: 0.029187
-    id: ck9k6x6082mn90j780ysvbt16
+    followers: 76900
+    engagement: 1177
+    commentsToLikes: 0.021708
+    id: ckb9uyzd3u1px0j23fvckl4km
     verified: false
-    hashtags: "#viral, #clearskincheck, #instagram, #tiktokbaking"
-  - username: "ana.erak"
+    hashtags: "#vegan, #duet, #problemsolved, #makeupartist"
+  - username: "leticiaa_robin"
     fullname: >-
-      Ana E
+      Leticia Robin
+    bio: >-
+      18 Instagram: @leticiarobinn Toronto🇨🇦
     location: "Canada"
-    followers: 11827
-    engagement: 627
-    commentsToLikes: 0.033965
-    id: ck9flks5xoaut0j786priqtqf
+    followers: 5030
+    engagement: 1300
+    commentsToLikes: 0.046910
+    id: ckbf22djgooy30j23mpm45klu
     verified: false
-    hashtags: "#veganrecipe, #may4th, #throwback, #moveyourbody"
-  - username: "richdaddyslim"
+    hashtags: "#myjob, #playball, #howto, #foryou"
+  - username: "saibalajjii"
     fullname: >-
-      richdaddyslim
+      Sai🌙
+    bio: >-
+      18 🇨🇦🇮🇳 BLM
     location: "Canada"
-    followers: 7152
-    engagement: 250
-    commentsToLikes: 0.039044
-    id: ck9c5rciaqow70j782jbddpuu
+    followers: 8690
+    engagement: 1548
+    commentsToLikes: 0.038817
+    id: ckcd4s7ay1kj80j23b0yjf7b5
     verified: false
-    hashtags: "#colgate, #petlover, #meme, #nba"
-  - username: "alanapancyr"
+    hashtags: "#fun, #fyp, #affirmations, #advice"
+  - username: "emma_grwm"
     fullname: >-
-      alanapancyr
+      emma
+    bio: >-
+      37k! 💕 💌: emmalawson345@gmail.com tiktok dm don’t work :( stop unfollowing 😭
     location: "Canada"
-    followers: 51502
-    engagement: 1503
-    commentsToLikes: 0.028728
-    id: cka0rvx57isd50i783z1jqf59
+    followers: 36600
+    engagement: 2235
+    commentsToLikes: 0.031507
+    id: ckbac09834ksg0j23bbma9okh
     verified: false
-    hashtags: "#finalsathome, #homeroutine, #hairgoals, #oilpaint"
-  - username: "kittykissofficial"
+    hashtags: "#fyp, #foryoupage, #aesthetic, #foryou"
+  - username: "mindonstrength"
     fullname: >-
-      KITTY 𓃠
+      mindonstrength
+    bio: >-
+      You like Fitness & I Like Fitness 💪🏽 Full Weightloss Tips On My Youtube page
     location: "Canada"
-    followers: 109161
-    engagement: 976
-    commentsToLikes: 0.051939
-    id: ck9flnmg3oym90j78vbbeqmpq
+    followers: 12200
+    engagement: 728
+    commentsToLikes: 0.047586
+    id: ckcdx8xgog2qi0j23l86rtpi6
     verified: false
-    hashtags: "#brokenlove, #suntanning, #serverprobs, #truelove"
-  - username: "sidraandco"
+    hashtags: "#weightloss, #fitnesstips, #weightlosstransformation, #weightlossjourney"
+  - username: "victoriagouveia_"
     fullname: >-
-      sidraandco
+      Victoria Gouveia
+    bio: >-
+      a toronto soulstress 🦋✨ "𝑭𝑬𝑬𝑳𝑰𝑵𝑮𝑺 " 𝐎𝐔𝐓 𝐍𝐎𝐖 ↓
     location: "Canada"
-    followers: 10959
-    engagement: 247
-    commentsToLikes: 0.036984
-    id: ck9go10pkz5990j78wldmex2t
+    followers: 4872
+    engagement: 838
+    commentsToLikes: 0.020119
+    id: ckbqumfeaf2i90j232t2o90s4
     verified: false
-    hashtags: "#beautyblender, #curlyhair, #tiktokfood, #theordinary"
-  - username: "vintagemal"
+    hashtags: "#fyp, #withmyfamily, #tshirt, #diy"
+  - username: "julianyee"
     fullname: >-
-      mal 🪐💫🤍
+      Julian
+    bio: >-
+      🇨🇦🇨🇳 3k on IG?🥺🥺⬆️
     location: "Canada"
-    followers: 5725
-    engagement: 757
-    commentsToLikes: 0.019775
-    id: ck9v8tdlzb3zy0j78k7tuu853
+    followers: 28400
+    engagement: 2156
+    commentsToLikes: 0.038327
+    id: ckbfhmh9qd43m0j23kl2pi2zs
     verified: false
-    hashtags: "#thrift, #selfcaretips, #amazonhaul, #sheinfashion"
-  - username: "clinic360"
+    hashtags: "#relationship, #canada, #travel, #christmas"
+  - username: "hohohosana"
     fullname: >-
-      360
+      HØSANA🖤
+    bio: >-
+      19 Toronto She/her Welcome to the jungle
     location: "Canada"
-    followers: 552198
-    engagement: 1042
-    commentsToLikes: 0.009560
-    id: ck806vauimajk0j780nbnvcph
+    followers: 4105
+    engagement: 2223
+    commentsToLikes: 0.052029
+    id: ckbqvwlkbg4cb0j23z7lwomeh
     verified: false
-    hashtags: "#sharingiscaring, #candyshop, #dance, #bodymask"
-  - username: "mahaaabellaaa"
+    hashtags: "#greenscreenvideo, #foryou, #greenscreen, #trend"
+  - username: "alanaahewitt"
     fullname: >-
-      maha bella
+       Alana Hewitt
+    bio: >-
+      22 she/her 🌼💛 ig: alanaahewitt Toronto
     location: "Canada"
-    followers: 55758
-    engagement: 949
-    commentsToLikes: 0.010841
-    id: ck94gbm4uf44v0j78ba8s1tuv
+    followers: 2275
+    engagement: 1072
+    commentsToLikes: 0.083397
+    id: ckdi85kdkafk90j231j97ofim
     verified: false
-    hashtags: "#soldmysoul, #idknever, #lonelychair, #oops"
-  - username: "muanatasha"
+    hashtags: "#rhymepov, #makeup, #canada, #fyp"
+  - username: "julieshala"
     fullname: >-
-      natasha lamarche
+      JULES 💎
+    bio: >-
+      J U L I E T A don’t take me seriously Toronto 🇨🇦
     location: "Canada"
-    followers: 11838
-    engagement: 609
-    commentsToLikes: 0.018559
-    id: ck9c6c3mgr0c60j78q9c86j49
+    followers: 40800
+    engagement: 908
+    commentsToLikes: 0.030727
+    id: ck8z7itfvqbv00j78dmi0o77a
     verified: false
-    hashtags: "#undereyebags, #videocall, #drugstore, #lipstick"
+    hashtags: "#albanian, #fashion, #fingertempo, #tutorial"
 ---

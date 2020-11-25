@@ -1,107 +1,130 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Australia In 2020
 description: >-
-  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gaming #stayhome #easter #hollywood.
+  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gamer #supermario #playstation.
 platform: Instagram
+hits: 81
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 81 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "sammyfosgaming"
+  - username: "tellmekimy"
     fullname: >-
-      SammyFosGaming
+      𝔎𝔦𝔪𝔶-𝔠𝔥𝔲 🛸✨
+    bio: >-
+      👁👅👁 𝔉𝔯𝔢𝔫𝔠𝔥 𝔖𝔥𝔞𝔭𝔢𝔰𝔥𝔦𝔣𝔱𝔢𝔯 Curvy Cosplayer × Gaming × Model ——— ♥ Join my Chu Gang & Support my content ⤵
     location: "Australia"
-    followers: 2937
-    engagement: 2701
-    commentsToLikes: 0.134956
-    id: ck8t46gub5o270j78zp7r42um
+    followers: 137047
+    engagement: 229
+    commentsToLikes: 0.030572
+    id: ck9wdn270gfbg0j78csnpje0y
     verified: false
-    hashtags: "#showmeyourstack, #lofihiphop, #ptcgame, #spidermanps4"
-  - username: "zoetwodots"
+    hashtags: "#koreandrama, #dokkanbattle, #starwarscosplay, #fashion"
+  - username: "mandyserafina"
     fullname: >-
-      Zoë
+      Mandy Serafina Xiao
+    bio: >-
+      廖婷月 Chinese Indonesian Australian @google ambassador #teampixel @xiao_gaming Gaming account
     location: "Australia"
-    followers: 35476
-    engagement: 832
-    commentsToLikes: 0.016348
-    id: ck0u0y1zxv9kv0i19k4j5c58z
+    followers: 219673
+    engagement: 164
+    commentsToLikes: 0.016285
+    id: ck6ts6muc31yh0j712o5pc9z9
     verified: false
-    hashtags: "#unboxing, #newcastle, #acnhswitch, #minccino"
+    hashtags: "#teampixel, #arcispartner, #madmex, #circlednastory"
+  - username: "angus_ol"
+    fullname: >-
+      ANGUS  O'LOUGHLIN
+    bio: >-
+      RADIO🎙 @hitweekendbreakfast PODCAST🎤 @ListenABLE_Podcast GAMING 🎮 @angus_ol_gaming MGMT💰 Angus.OLoughlin@sca.com.au 👇🏼 PODCAST LINK 👇🏼
+    location: "Australia"
+    followers: 34853
+    engagement: 513
+    commentsToLikes: 0.036968
+    id: ck14i8lvne6pu0i19ejloz4am
+    verified: true
+    hashtags: "#streamer, #youtube, #videogames, #twitchstreamer"
   - username: "2busygamers"
     fullname: >-
       2 BusyGamers, Neil  🇦🇺
+    bio: >-
+      Please check out @lufia_iris page, the other half of 2busygamers. We are Aussie collectors of all things gaming. Check out our tag #gamersoftheworld
     location: "Australia"
-    followers: 6704
-    engagement: 503
-    commentsToLikes: 0.088775
+    followers: 6483
+    engagement: 451
+    commentsToLikes: 0.087081
     id: ck8tctwzw0nzb0j78qrqwm5w3
     verified: false
-    hashtags: "#capcom, #doom, #switchfamm, #persona5royal"
+    hashtags: "#ubisoftaustralia, #gameseries, #jrpg, #retrogames"
   - username: "mr.nagy"
     fullname: >-
       Steven N -  Class Act Images
+    bio: >-
+      Dkubus 500SEC Melbourne 🇦🇺 Hungarian. All photos by myself unless mentioned otherwise. - Class Act Images - Computer nerd @softpotat_gaming
     location: "Australia"
-    followers: 6546
-    engagement: 1643
-    commentsToLikes: 0.007009
+    followers: 6505
+    engagement: 1537
+    commentsToLikes: 0.007487
     id: ckap4qib58f2s0i787pr18jpj
     verified: false
-    hashtags: "#status2020"
+    hashtags: "#mercedesbenz, #melbournecarscene, #charteredco, #stance"
   - username: "cassiedakota"
     fullname: >-
-      🌸 c a s s i e 🌸
+      CassieDakota | Gamer ✨
+    bio: >-
+      Content creator ♡ Twitch streamer ♡ Gaming enthusiast — Melbourne, Australia
     location: "Australia"
-    followers: 15484
-    engagement: 571
-    commentsToLikes: 0.062205
+    followers: 15018
+    engagement: 487
+    commentsToLikes: 0.064186
     id: ck0tuax826du40i19ys29g0d7
     verified: false
-    hashtags: "#sudio, #sudiomoments, #oscarwylee, #sonyfoundation"
-  - username: "fastlanegaming"
-    fullname: >-
-      Forza Horizon & More
-    location: "Australia"
-    followers: 86979
-    engagement: 289
-    commentsToLikes: 0.009479
-    id: ck1387bwmeucy0i197kwmo4lt
-    verified: false
-    hashtags: "#fairlady240z, #lamborghiniaventador, #viperacr, #240z"
+    hashtags: "#paxaus, #paxonline, #sudio, #sudiomoments"
   - username: "super_nindando"
     fullname: >-
       Dan
+    bio: >-
+      🕹 Aussie Gamer 🏳️‍🌈 🤔 Opinions 📝 News 💯 Reviews 📦 unboxings 👾 My Gaming Collection 📸 SC super_nindando 🌟 NS FC: SW-8332-8331-5434 #nintendoswitch
     location: "Australia"
     followers: 7498
     engagement: 1421
     commentsToLikes: 0.018674
     id: ck8t43daj5d5z0j78t6wmkbsx
     verified: false
-    hashtags: "#birthday, #gifted, #bubsy, #strangerthings"
-  - username: "elefire_the_elf"
+    hashtags: "#stayhome, #retrogamer, #gameboy, #animalcrossingnewleaf"
+  - username: "castlecarmedia"
     fullname: >-
-      Elefire grey
+      Castle Car Media
+    bio: >-
+      Josh Castle @stanceworks All things cars; Photography, Die-cast, Gaming. Raw Photo Challenge. ⬇️⬇️⬇️
     location: "Australia"
-    followers: 60362
-    engagement: 439
-    commentsToLikes: 0.024884
-    id: ck15tynd2kjv90i19c5egb0rj
+    followers: 8583
+    engagement: 854
+    commentsToLikes: 0.019905
+    id: ckap9lqilso3x0i78a9nh4p1b
     verified: false
-    hashtags: "#meme, #brony, #pastelgoth, #boosette"
-  - username: "infamousbylaura"
+    hashtags: "#jdm, #stagea, #film, #1980s"
+  - username: "theracingacademy"
     fullname: >-
-      Laura Gilbert 🖤
+      Automotive news
+    bio: >-
+      The Best Information About racing/race gaming news Contact for enquires either business or racing related through our email (product promotion/etc)
     location: "Australia"
-    followers: 276187
-    engagement: 387
-    commentsToLikes: 0.009156
-    id: ck8t1n49rwb5w0j784dy1f5fd
+    followers: 19111
+    engagement: 1041
+    commentsToLikes: 0.024750
+    id: ck1387ebceupy0i19o2maz3nx
     verified: false
-    hashtags: "#twitchaffiliate, #catwomancostume, #pokemoncosplay, #wishlist"
-  - username: "cheyennerae_hernandez"
+    hashtags: "#forzahorizon4"
+  - username: "perth_retro_gaming"
     fullname: >-
-      Cheyenne Rae Hernandez
+      Perth Retro Gaming
+    bio: >-
+      Handheld collector & modifier Husband and Dad Contact us for current system availability or commissions 👉🏻#perthretrogaming Tap here for links👇🏻
     location: "Australia"
-    followers: 25810
-    engagement: 184
-    commentsToLikes: 0.037805
-    id: ck0u11przvgq30i19w6z5y5k9
+    followers: 14798
+    engagement: 665
+    commentsToLikes: 0.046444
+    id: ck138uu6vi4yj0i19wpw2rixn
     verified: false
-    hashtags: "#pachamama, #challenge, #mylove, #easter"
+    hashtags: "#gameboyadvance, #perthretrogaming, #custom, #modded"
 ---

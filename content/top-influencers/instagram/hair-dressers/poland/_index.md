@@ -1,107 +1,130 @@
 ---
 title: Top 10 Hair Dressers Instagram Influencers In Poland In 2020
 description: >-
-  Find top hair dressers Instagram influencers in Poland in 2020. Most popular hashtags: #white #dresses #inspiration #flowers.
+  Find top hair dressers Instagram influencers in Poland in 2020. Most popular hashtags: #hair #hairstyle #fashion #polishgirl.
 platform: Instagram
+hits: 18
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Poland for you to connect with.
 profiles:
   - username: "jacek_bystryofficial"
     fullname: >-
       Jacek Bystry🤴🏻
+    bio: >-
+      #HaloHopHop 📺 MTV Warsaw Shore - Ekipa z warszawy 📩 jacekcrazy1992@gmail.com 💇🏼‍♀️ Hair Dresser @pracowniafryzur.turek
     location: "Poland"
-    followers: 28647
-    engagement: 288
-    commentsToLikes: 0.014774
+    followers: 28448
+    engagement: 294
+    commentsToLikes: 0.016901
     id: ckaotpg16wwo40i78nf8lcwbv
     verified: false
-    hashtags: "#niceday, #love, #konie, #new"
+    hashtags: "#niceday, #on, #krakow, #white"
+  - username: "klaudia.owczarek"
+    fullname: >-
+      KOKO
+    bio: >-
+      email: klaudiaowczarekpr@gmail.com
+    location: "Poland"
+    followers: 436212
+    engagement: 751
+    commentsToLikes: 0.010725
+    id: ck0tzd5drpvv40i19671i5pl8
+    verified: false
+    hashtags: "#muas, #beautysecret, #glassskin, #summermakeup"
+  - username: "bajeerancko"
+    fullname: >-
+      Dominika Hajduk
+    bio: >-
+      Łódź 😍 21.12.1999 🎂🎂🎂 @bajeerancki_lewzea👫💘 @kawiarniapanda 🐼☕💼 bajeerancko@gmail.com📩📩 🐼🐼🐼🐼🐼🐼
+    location: "Poland"
+    followers: 17104
+    engagement: 362
+    commentsToLikes: 0.042736
+    id: ckaoydzpuh46x0i78f5929x2w
+    verified: false
+    hashtags: "#ootd, #friday, #halloween, #autumnvibes"
   - username: "janeczkoova"
     fullname: >-
       Małgorzata Janeczek
+    bio: >-
+      ❤ fryzjerstwo 🌹 zdrowie•uroda 🏵 'malarz ma płótno, a ja mam włosy'😍 ✉ janeczko0owa@gmail.com 🇵🇱 Grodzisk Mazowiecki,Polska ↙ zapraszam na bloga
     location: "Poland"
     followers: 28021
     engagement: 218
     commentsToLikes: 0.028632
     id: ck0vzv5zwb1xm0i19o8qy450g
     verified: false
-    hashtags: "#pinkhair, #flowers, #beautyhair, #smile"
-  - username: "ourlovetolive"
+    hashtags: "#red, #simplysmarter, #warsaw, #hairsalon"
+  - username: "lukaszurbanskihair"
     fullname: >-
-      ✰ Our Love To Live ✰
+      Łukasz Urbański Poland
+    bio: >-
+      💇Hair Team Łukasz Urbański 📺Top Model, You Can Dance, Master Chef 🎬Mam Talent i in. 📆+48 500 044 303 ul. Krzyżówki 1B, Warsaw, Poland 03-193
     location: "Poland"
-    followers: 40787
-    engagement: 589
-    commentsToLikes: 0.133077
-    id: ck0vyzoe86kkp0i19n1gb0d30
+    followers: 30817
+    engagement: 157
+    commentsToLikes: 0.033369
+    id: ck5cesxvplnb60i110egwbfvm
     verified: false
-    hashtags: "#funnyanimals, #blueeyes, #chora, #modnakobieta"
-  - username: "lili_arisza"
+    hashtags: "#krzy, #newsalon, #fryzjergwiazd, #newplace"
+  - username: "nicolemoszc"
     fullname: >-
-      Gosia
+      Nicole Mosh
+    bio: >-
+      Hair extension instructor📍 Eyebrow lamination instructor📍 @conceptclinicwarszawa Passion->@moshdress
     location: "Poland"
-    followers: 48969
-    engagement: 295
-    commentsToLikes: 0.113128
-    id: ck15u7bsxlro20i19tim3q8ke
+    followers: 22947
+    engagement: 251
+    commentsToLikes: 0.038711
+    id: ck5q9yotcdodt0i113s3x02ws
     verified: false
-    hashtags: "#cupoftea, #braceletstyle, #fasionstreet, #foodiefeatures"
-  - username: "your_kristian"
+    hashtags: "#sunnyday, #laminacjabrwi, #beautifuldestinations, #loveislove"
+  - username: "renata_molenda"
     fullname: >-
-      Kristina ~ ❤
+      Renata Molenda Official💎
+    bio: >-
+      DM📥 #tvpresenter #model #actress 📸🎥🎬🎤Master of IER 👩‍🎓Pięknem Kobiety jest jej klasa i wdzięk, a jej największą siłą niezależność i własne zdanie⚔️
     location: "Poland"
-    followers: 54408
-    engagement: 1351
-    commentsToLikes: 0.097621
-    id: ck8t852g5j4i90j78u096ov0y
+    followers: 22017
+    engagement: 566
+    commentsToLikes: 0.063793
+    id: ck9we4ty4ilio0j78d3l9oun7
     verified: false
-    hashtags: "#nylonfeets, #whitepantyhose, #selfie, #pinkdress"
-  - username: "monikachwajol_official"
+    hashtags: "#beauty, #hairstyle, #eyes, #natural"
+  - username: "halinkawisniewska"
     fullname: >-
-      Monika Chwajoł 👑
+      Halinka Wisniewska
+    bio: >-
+      •Model •Photomodel • Lingerie model •Influencer •Linkwoman in internetTV🎤 •traveller, love world 🌍 #workaholic
     location: "Poland"
-    followers: 50663
-    engagement: 595
-    commentsToLikes: 0.052146
-    id: ck5q5g8gpsqws0i11f07dvys1
+    followers: 347310
+    engagement: 186
+    commentsToLikes: 0.042144
+    id: ck5hkm49sio8z0i11rjfx7rmd
     verified: false
-    hashtags: "#styleblogger, #weekendvibes, #goodfamily, #photosession"
-  - username: "m.stepienx"
+    hashtags: "#look, #shoeslover, #piatek, #stylizacja"
+  - username: "nikola_lach"
     fullname: >-
-      Magda Stępień
+      𝓝𝓲𝓴𝓸𝓵𝓪  𝓛𝓪𝓬𝓱
+    bio: >-
+      Zielona Góra, Makijażystka💄💫💉 Ambasadorka @herbieheaven ⚜️ 🏋🏽‍♀️ @funfit2 🥗 @better.life.catering 📩lachnikola@gmail.com
     location: "Poland"
-    followers: 10882
-    engagement: 887
-    commentsToLikes: 0.141590
-    id: ck8t3s9lr4asj0j78s96eovwy
+    followers: 388997
+    engagement: 121
+    commentsToLikes: 0.020833
+    id: ck5c4es3i176w0i11q3hyp0bp
     verified: false
-    hashtags: "#quarantine, #bagaddict, #artphoto, #stylizacja"
-  - username: "agnieszkadziekan"
+    hashtags: "#girl, #fashionstyle, #smile, #makeupartist"
+  - username: "karpalapaulina"
     fullname: >-
-      Agnieszka Dziekan
+      Paulina Maria Krupnik
+    bio: >-
+      24 Poland/Wadowice 📩Współpraca : mariapaula2@o2.pl 💒 30.06.2018 👶 14.07.2019
     location: "Poland"
-    followers: 11491
-    engagement: 1174
-    commentsToLikes: 0.035643
-    id: ck5hqpawnthgw0i11na3zcc1a
+    followers: 44184
+    engagement: 258
+    commentsToLikes: 0.101826
+    id: ck14i64bddtuy0i198v7va83t
     verified: false
-    hashtags: "#workout, #safety, #tokufashion, #2020"
-  - username: "patrycja__broniek__"
-    fullname: >-
-      Pracownia Makijazu 💄💋
-    location: "Poland"
-    followers: 30718
-    engagement: 472
-    commentsToLikes: 0.022117
-    id: ck14ky8n7rxad0i19cmy4q9zp
-    verified: false
-    hashtags: "#metamorfoza, #actor, #womenstyle, #chillout"
-  - username: "agnieszka_hyzy"
-    fullname: >-
-      Agnieszka Hyży
-    location: "Poland"
-    followers: 145048
-    engagement: 197
-    commentsToLikes: 0.023521
-    id: ck5bycd8kowbf0i11proiwxj3
-    verified: true
-    hashtags: "#stars, #goodluck, #wielkanoc, #strajkkobiet"
+    hashtags: "#polishgirl, #szpilki, #botki, #energylandia"
 ---

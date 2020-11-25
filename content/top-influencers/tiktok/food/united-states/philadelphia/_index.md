@@ -1,107 +1,130 @@
 ---
 title: Top 10 Food TikTok Influencers In Philadelphia In 2020
 description: >-
-  Find top food TikTok influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #food #tiktokprom #quarantine.
+  Find top food TikTok influencers in Philadelphia in 2020. Most popular hashtags: #fyp #foryou #food #philly.
 platform: TikTok
+hits: 9
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 9 TikTok influencers like this in Philadelphia, United States for you to collaborate.
 profiles:
-  - username: "the.big.v"
+  - username: "laurenzray"
     fullname: >-
-      frvnkkkk
+      Lauren Z Ray
+    bio: >-
+      My Mini Travel 🌎 Vlogs + vegan food
     location: "United States"
-    followers: 3134
-    engagement: 1252
-    commentsToLikes: 0.047201
-    id: cka8dyizxuzms0i780bnpeztz
+    followers: 91000
+    engagement: 1037
+    commentsToLikes: 0.084531
+    id: ckbqdfsjgzfws0j23m92pvvxq
     verified: false
-    hashtags: "#naruto, #marvel, #monopolyguy, #riseofskywalker"
-  - username: "shelfinnn"
+    hashtags: "#newyorkcity, #fall, #newyork, #tiktoktravel"
+  - username: "k3v.cappo"
     fullname: >-
-      Shelfinnn
+      K3
+    bio: >-
+      CEO of vibes💚 Follow me on insta Norf Philadelphia 💨 Mood boi🌟
     location: "United States"
-    followers: 4678
-    engagement: 863
-    commentsToLikes: 0.086731
-    id: cka5ztzsioasc0i78d6qxh1uj
+    followers: 44300
+    engagement: 1531
+    commentsToLikes: 0.026337
+    id: ckcdfqd586rdp0j23ut0j529n
     verified: false
-    hashtags: "#nursinghumor, #tzofim, #nursingschool, #birthday"
-  - username: "smack_yo_mama"
+    hashtags: "#funny, #spotlight, #like, #2k20"
+  - username: "dandris123"
     fullname: >-
-      EL TORO
+      Dan Andris 
+    bio: >-
+      Stay a while Snap: Dandris3 PA👋🏼
     location: "United States"
-    followers: 3093
-    engagement: 836
-    commentsToLikes: 0.077248
-    id: cka0fwuni1pb70i78bavq4p7l
+    followers: 3109
+    engagement: 1027
+    commentsToLikes: 0.057834
+    id: ck9grq01zezgh0j78qdfyshw3
     verified: false
-    hashtags: "#trucker, #cursedimages, #angel, #datingstorytime"
-  - username: "chefsam_n"
+    hashtags: "#football, #nfl, #fyp, #laceemup"
+  - username: "hotdogwater337"
     fullname: >-
-      Sam Nahhas
+      Hotgirlbummer
+    bio: >-
+      Black lives matter She/her Philly 🏳️‍🌈 IG : cmon_over_valerie
     location: "United States"
-    followers: 152110
-    engagement: 481
-    commentsToLikes: 0.006132
-    id: ck8toyuu5oiqx0j78c4ol0v84
+    followers: 7647
+    engagement: 1725
+    commentsToLikes: 0.077059
+    id: ck81s9hfhr0o70j78zv3tjaes
     verified: false
-    hashtags: "#holiday, #fypchallenge, #america, #caramel"
-  - username: "juliiamarryyy"
+    hashtags: "#rhymepov, #4u, #gayfyp, #gay"
+  - username: "doseofvitaminmc"
     fullname: >-
-      Julia Murphy
+      Marycruz🦋🖤
+    bio: >-
+      your daily dose of vitamin MC 🥴 21 | LA
     location: "United States"
-    followers: 2961
-    engagement: 665
-    commentsToLikes: 0.059870
-    id: ckahy5q4ky10n0i78uo7qgzoq
+    followers: 60500
+    engagement: 1718
+    commentsToLikes: 0.017440
+    id: ckbqpizstad0k0j231hsqhh7a
     verified: false
-    hashtags: "#toddlerlife, #longhair, #goingpro, #snacc"
-  - username: "ryannottryin"
+    hashtags: "#travel, #recipe, #cooking, #california"
+  - username: "aznmandingo"
     fullname: >-
-      Ryan Williams
+      JohnnyBoi
+    bio: >-
+      Following me will encourage me to bring you more crazy clips if tiktok let me
     location: "United States"
-    followers: 3141
-    engagement: 767
-    commentsToLikes: 0.034348
-    id: ck8ttsqirs4l50j788k4a0nwf
+    followers: 43300
+    engagement: 1531
+    commentsToLikes: 0.022824
+    id: ckbl1av0dy4cp0j2338yy3ti8
     verified: false
-    hashtags: "#healthheroes, #fakeout, #racoon, #philadelphia"
-  - username: "wilddakota2"
+    hashtags: "#funny, #viral, #cute, #dog"
+  - username: "thecabelguy64"
     fullname: >-
-      Wild Dakota
+      Cabel McCandless
+    bio: >-
+      I’m Cabel, I’m 22 and I’m once again seeking serotonin
     location: "United States"
-    followers: 45740
-    engagement: 1086
-    commentsToLikes: 0.030681
-    id: ckac3sqwzbvo00i782rgdabrc
+    followers: 5574
+    engagement: 1034
+    commentsToLikes: 0.040338
+    id: ck8qkrt1zimru0j78kpwhiani
     verified: false
-    hashtags: "#mydog, #yourpge, #werkitfromhome, #theboys"
-  - username: "thurldes"
+    hashtags: "#showerthoughts, #newyork, #notonething, #safeguardsplash"
+  - username: "sunn912"
     fullname: >-
-      Destin
+      Sunna Ahmad
+    bio: >-
+      No reposts please 💕
     location: "United States"
-    followers: 12959
-    engagement: 731
-    commentsToLikes: 0.054687
-    id: ck9773riz2l120j78ncsbitzx
+    followers: 49900
+    engagement: 588
+    commentsToLikes: 0.022618
+    id: ckcv67gsrpjp90j23a505g6hl
     verified: false
-    hashtags: "#jokes, #mothersday, #gobirds, #rice"
-  - username: "steam.team"
+    hashtags: "#foryou, #tiktokafghan, #afghantiktok, #foryoupage"
+  - username: "teddyeight"
     fullname: >-
-      Steam Team
+      Teddy 8
+    bio: >-
+      2 fat guys in a truck on YouTube cheack us out we use to be on mtv and tru tv.
     location: "United States"
-    followers: 18805
-    engagement: 546
-    commentsToLikes: 0.071190
-    id: ckan1loj5w2rb0i78ua8g0vlz
+    followers: 4701
+    engagement: 1328
+    commentsToLikes: 0.071019
+    id: ckae0p78zky550i78nyenyhs9
     verified: false
-    hashtags: "#netflix, #netflixandchill, #minitutorials, #notanartist"
-  - username: "foodchase"
+    hashtags: "#duet, #dance, #bigbellyboy, #bugs"
+  - username: "foods"
     fullname: >-
-      food
+      Foods
+    bio: >-
+      Foodies Child Click Below To Add My Snapchat⬇️ adding back first 100 (87/100)
     location: "United States"
-    followers: 44224
-    engagement: 1134
-    commentsToLikes: 0.015279
-    id: ck81s3d1opp000j783figu5y2
-    verified: false
-    hashtags: "#moreyouknow, #tiktokprom, #oreos, #spadeolay"
+    followers: 383200
+    engagement: 2125
+    commentsToLikes: 0.020492
+    id: ckavk8b2bt4nh0j23fe2720hw
+    verified: true
+    hashtags: "#learnontiktok, #cheese, #ramen, #recipe"
 ---

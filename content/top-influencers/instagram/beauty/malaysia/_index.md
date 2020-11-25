@@ -1,62 +1,101 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top beauty Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #dudukrumah #smile #wannabe.
+  Find top beauty Instagram influencers in Malaysia in 2020. Most popular hashtags: #explore #tiktok #tiktokmalaysia.
 platform: Instagram
+hits: 236
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 236 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
   - username: "sushalove"
     fullname: >-
-      Sharen 🦋
+      Sharen
+    bio: >-
+      Beauty | Fashion | Style Snapchat : sushalove
     location: "Malaysia"
-    followers: 18112
-    engagement: 972
-    commentsToLikes: 0.283140
+    followers: 42479
+    engagement: 1179
+    commentsToLikes: 0.187139
     id: ck14ju3t3m7220i190pvjobxv
     verified: false
-    hashtags: "#kyliecosmetics, #desistyle, #quarantinelife"
-  - username: "papaicici"
+    hashtags: "#indiangirl, #desigirl, #outfitinspiration, #styleblogger"
+  - username: "nfadha"
     fullname: >-
-      QueenPapai
+      ♥•𝑭𝑨𝑹𝑹𝑨 𝑫𝑯𝑨𝑩𝑰𝑻𝑨𝑯 •♥
+    bio: >-
+      🦋Stay patient and trust your journey🦋 📩DM for paid review/collab 👱🏻‍♀️ @beautybydhabitah 💜Tiktok : nfadha 👇🏻 Tap here 👇🏻
     location: "Malaysia"
-    followers: 43739
-    engagement: 449
-    commentsToLikes: 0.048284
-    id: ckap78r0dj1h20i78lhlrrgr3
+    followers: 9382
+    engagement: 1375
+    commentsToLikes: 0.042428
+    id: ckapbddbmzhsz0i78pah4w9kf
     verified: false
-    hashtags: "#teamrayakl, #wearesumandaksabah, #maidhouse, #maluapabossku"
-  - username: "nikitamenonv"
+    hashtags: "#tiktok, #tiktokmalaysia, #explorepage, #exploremore"
+  - username: "raebeautyhq"
     fullname: >-
-      nikita ☀️
+      INSTANT WHITENING LOTION !
+    bio: >-
+      The Beauty Wizard
     location: "Malaysia"
-    followers: 26237
-    engagement: 1005
-    commentsToLikes: 0.016862
-    id: ck15sqjuxebls0i1990xy9eaw
+    followers: 26650
+    engagement: 2453
+    commentsToLikes: 0.018024
+    id: ckap1fb19ucov0i78ffy1fn0e
     verified: false
-    hashtags: "#day55, #downsyndrome, #culturalchallenge, #desi"
-  - username: "lucaseelau"
-    fullname: >-
-      LUCAS LAU 🐝
-    location: "Malaysia"
-    followers: 70700
-    engagement: 346
-    commentsToLikes: 0.036281
-    id: ck0vx427zx1ip0i19drfybimk
-    verified: false
-    hashtags: "#pringlesmy, #rayainishopeedisisimu, #stayin, #shopeemy"
+    hashtags: "#slowmoqueen, #slow, #slowmotionvideo, #videolawak"
   - username: "ohmykaylagirl_k"
     fullname: >-
       K A Y L A💋
+    bio: >-
+      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
     location: "Malaysia"
-    followers: 36235
-    engagement: 398
-    commentsToLikes: 0.033379
+    followers: 38068
+    engagement: 355
+    commentsToLikes: 0.039907
     id: ck9ha754wbfqe0j781ij27o2e
     verified: false
-    hashtags: "#inthistogether, #airbus, #stillfly, #style"
+    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
+  - username: "lucaseelau"
+    fullname: >-
+      𝐋𝐔𝐂𝐀𝐒 𝐋𝐀𝐔 💎
+    bio: >-
+      FASHION | BEAUTY | LIFESTYLE 📍Malaysia 📩woon_kiet@hotmail.com
+    location: "Malaysia"
+    followers: 73108
+    engagement: 302
+    commentsToLikes: 0.032591
+    id: ck0vx427zx1ip0i19drfybimk
+    verified: false
+    hashtags: "#karllagerfeld, #powerposechallenge, #marvelmy, #archiluxurygroup"
+  - username: "dearcristina"
+    fullname: >-
+      CRISTINA CHEW | Modest Fashion
+    bio: >-
+      ✈️Next:Nepal🇳🇵 🌎Solo Traveller 💄Beauty Junkie 🎥Content Creator 🤲🏻Muslim Baby 🐱@fluffy.cutie.cat | Fb: Dearcristina | Youtube & Tiktok: CristinaChew
+    location: "Malaysia"
+    followers: 62705
+    engagement: 151
+    commentsToLikes: 0.050313
+    id: ck6tqd611qrtu0j71yyygsy5i
+    verified: false
+    hashtags: "#asianskincare, #exploreborneo, #kuchingsarawak, #malaysianig"
+  - username: "man_sixpointtwo"
+    fullname: >-
+      ABANGKOSMETIK
+    bio: >-
+      💄 MARYAM SOFEA BEAUTY 👨‍🔬 BINA PRODUK SENDIRI ( OEM ) +60 13 935 6262 | +60 13 982 0662 SUGARBOMB❌SIXPOINTTWO 💨 SIXPOINTTWOSALT 🍃 AK HERB’S 💋 EMBS
+    location: "Malaysia"
+    followers: 195943
+    engagement: 747
+    commentsToLikes: 0.006206
+    id: ck1345dwiusdv0i19ayapsl0u
+    verified: false
+    hashtags: "#binaproduksendiri, #sixpointtwo, #abangkosmetik, #gurauje"
   - username: "sharifahwanii"
     fullname: >-
       °✧° °✧°
+    bio: >-
+      ♡ 𝓂𝒽𝒹𝒶𝓈𝓇𝑒𝑒 ♡ ✧･ﾟ: *✧･ﾟ:* there is beauty in simplicity *:･ﾟ✧*:･ﾟ✧
     location: "Malaysia"
     followers: 9588
     engagement: 1112
@@ -64,44 +103,28 @@ profiles:
     id: ckap5hz2abrkz0i78056wttpx
     verified: false
     hashtags: ""
-  - username: "isabelleman2"
+  - username: "blogitwithaqsa_"
     fullname: >-
-      Isabelle Man
+      ✨ AQSA ALI ✨
+    bio: >-
+      🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
     location: "Malaysia"
-    followers: 9704
-    engagement: 421
-    commentsToLikes: 0.092717
-    id: ck0tyggo2mpog0i191owr96k3
+    followers: 25742
+    engagement: 166
+    commentsToLikes: 0.059595
+    id: ck0vxl3nmzfk80i19bvk8axkb
     verified: false
-    hashtags: "#video, #morning, #luck, #sweating"
-  - username: "snenbdm"
+    hashtags: "#muharram1442"
+  - username: "gladishchan"
     fullname: >-
-      Emaleen Minhad (Official)
+      Gladish Chan祤琹
+    bio: >-
+      🇲🇾Influencer |Youtuber| Lifestyle | Beauty | 🐶：@potatopoodle @steadydogdog 💼For job enquiry : gladishchan@gmail.com YouTube 祤琹Gladish YuQin
     location: "Malaysia"
-    followers: 190135
-    engagement: 716
-    commentsToLikes: 0.002938
-    id: ck0tv5rdba1ze0i19oxnzc84b
+    followers: 309889
+    engagement: 531
+    commentsToLikes: 0.004931
+    id: ck6twwl8duijd0j71yu53142i
     verified: false
-    hashtags: "#skincare, #azam2020, #meletop, #stayhome"
-  - username: "zoe_aw"
-    fullname: >-
-      Zoe Aw淑怡
-    location: "Malaysia"
-    followers: 22624
-    engagement: 539
-    commentsToLikes: 0.022703
-    id: ckap50a5z9lz60i78pcgymlkj
-    verified: false
-    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
-  - username: "joycebii"
-    fullname: >-
-      yangyang
-    location: "Malaysia"
-    followers: 41921
-    engagement: 557
-    commentsToLikes: 0.010474
-    id: ck5zvth3p4vn00i14uxdu939n
-    verified: false
-    hashtags: "#dance, #nattacosmemy, #tiktokhot, #wannabe"
+    hashtags: "#klpjweddingfair, #shopeebrandsfestival, #hadalabo10thanniversary, #shopeemy"
 ---

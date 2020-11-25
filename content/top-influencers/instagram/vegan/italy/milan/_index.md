@@ -1,107 +1,130 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Milan In 2020
 description: >-
-  Find top vegan Instagram influencers in Milan in 2020. Most popular hashtags: #vegan #crueltyfree #vintage #flowers.
+  Find top vegan Instagram influencers in Milan in 2020. Most popular hashtags: #vegan #milano #love #milan.
 platform: Instagram
+hits: 48
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 48 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
-  - username: "thelello"
+  - username: "elisa.donatini"
     fullname: >-
-      the lello | Gabriele Garancini
+      Elisa Donatini 💎🧛🏻‍♀️🧚🏻‍♀️
+    bio: >-
+      Sometimes to stay alive you got to kill your mind. Family first❤️ #journalist #tvpresenter @sportitalia_official 🏎⚽️ #vegan 🌱 #womanpower #Depecher
     location: "Italy"
-    followers: 6774
-    engagement: 1158
-    commentsToLikes: 0.049684
-    id: ck8t5wld5bhgh0j78kc6393uu
+    followers: 23549
+    engagement: 1175
+    commentsToLikes: 0.030063
+    id: ckaowb5j8858e0i78hir7j2k9
     verified: false
-    hashtags: "#skinglazing, #venicebeach, #glossylips, #lgbtq"
-  - username: "ari.annina90"
+    hashtags: "#mare, #myjob, #journalism, #instalike"
+  - username: "uvegano"
     fullname: >-
-      Arianna Locatelli
+      Ù-Vegan ∆
+    bio: >-
+      🍅 Amateur chef 🍝A culinary journey into Neapolitan and Vegan cuisine 🍀
     location: "Italy"
-    followers: 15107
-    engagement: 1662
-    commentsToLikes: 0.098982
-    id: ck6u3dzo3x9vf0j71vim7zz4p
+    followers: 24666
+    engagement: 272
+    commentsToLikes: 0.023911
+    id: ck6totrqeg2fs0j71cpvdu4p7
     verified: false
-    hashtags: "#vascadabagno, #cucina, #mybag, #mytattoo"
-  - username: "corneliatat"
+    hashtags: "#foodporn, #vegetarian, #whatveganseat, #food"
+  - username: "____helios____"
     fullname: >-
-      
+      Elisa Hélios Priano
+    bio: >-
+      📩 elisapriano97@gmail.com ♫ #Singer/#Actress • @sdmlascuoladelmusical 📍 Milano - 🏡 Genova 🇮🇹 & I’m a #Photographer! ⇨ @helios_ph ⇩ SPOTIFY ⇩
     location: "Italy"
-    followers: 14351
-    engagement: 896
-    commentsToLikes: 0.058173
-    id: ck0twnejlg1070i19kos3ouri
+    followers: 14509
+    engagement: 273
+    commentsToLikes: 0.017365
+    id: ck6u3ktytyd100j71cukkev5t
     verified: false
-    hashtags: "#veganism, #leatherjacket, #shadows, #finejewelry"
-  - username: "grimoldieu"
+    hashtags: "#babygirl, #valentino, #swedishgirl, #prada"
+  - username: "cinziatopchef"
     fullname: >-
-      Alessandro Grimoldieu
+      Cinzia Fumagalli
+    bio: >-
+      Personal home Chef Chef giudice @laprovadelcuocorai Booking/management :cristiano.creativeideas@gmail.com www.creativeideas.tv
     location: "Italy"
-    followers: 38965
-    engagement: 239
-    commentsToLikes: 0.131200
-    id: ckap13ptrszsv0i78bsmo2z4i
+    followers: 11395
+    engagement: 640
+    commentsToLikes: 0.214507
+    id: ck6uark1e587w0j71t95shj8z
     verified: false
-    hashtags: "#goligummy, #videogame, #vintagestyle, #atestoni"
-  - username: "violaguidotti"
-    fullname: >-
-      Vιoℓα Gυιdσττι
-    location: "Italy"
-    followers: 50524
-    engagement: 345
-    commentsToLikes: 0.047997
-    id: ck5zqtcgnv95w0i14m257509l
-    verified: false
-    hashtags: "#streetlook, #crueltyfree, #stripes, #sleep"
-  - username: "ania.alexandrovna"
-    fullname: >-
-      Ania Alexandrovna
-    location: "Italy"
-    followers: 12762
-    engagement: 628
-    commentsToLikes: 0.048525
-    id: ck0tzxzjerxlg0i19gvh8ee8h
-    verified: false
-    hashtags: "#model, #fishnet, #body, #harness"
-  - username: "agtrysit"
-    fullname: >-
-      AGtrysit
-    location: "Italy"
-    followers: 23284
-    engagement: 716
-    commentsToLikes: 0.079136
-    id: ck9hbfcxygku70j780pwtdt26
-    verified: false
-    hashtags: "#vitc, #dewy, #eyecream, #nourishedskin"
-  - username: "tuur.s"
-    fullname: >-
-      Tuur Sikkink
-    location: "Italy"
-    followers: 56393
-    engagement: 351
-    commentsToLikes: 0.008431
-    id: ck13acbv3poe50i19x1k4udp5
-    verified: false
-    hashtags: "#travel, #colors, #foodie, #november"
+    hashtags: "#casargo, #ciboitaliano, #milano, #natura"
   - username: "valentinamoreo"
     fullname: >-
       𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚 𝐌𝐨𝐫𝐞𝐧𝐨
+    bio: >-
+      Based in Milan/ italy Fashion/ Beauty / Aesthetic Skinpositivity ✨ For collaboration in DM Seguimi su TikTok per altri consigli
     location: "Italy"
-    followers: 7504
-    engagement: 662
-    commentsToLikes: 0.322931
+    followers: 9105
+    engagement: 399
+    commentsToLikes: 0.185633
     id: ckap8nh4tp4d70i784ot7z27y
     verified: false
-    hashtags: "#mani, #crescitarapida, #mapiful, #mascara"
-  - username: "accadeintavola"
+    hashtags: "#siero, #influenceritalia, #beauty, #fashionista"
+  - username: "corneliatat"
     fullname: >-
-      ACCADEinTAVOLA MariangelaRusso
+      
+    bio: >-
+      ✈️🏝🐾🍒📸🏰 Based in Milan 🇮🇹
     location: "Italy"
-    followers: 7285
-    engagement: 592
-    commentsToLikes: 0.120690
-    id: ck0vzivcj9bsa0i19v8p8vsa2
+    followers: 13770
+    engagement: 649
+    commentsToLikes: 0.049861
+    id: ck0twnejlg1070i19kos3ouri
     verified: false
-    hashtags: "#vegan, #tempodicottura, #sundaybreakfast, #mycountryliving"
+    hashtags: "#instagood, #summer, #happy, #nofilter"
+  - username: "grimoldieu"
+    fullname: >-
+      Alessandro Grimoldieu
+    bio: >-
+      Milan based Content Creator ||Fashion||Design||Art||Aesthete||Communication||Jewellery designer||Party King For collabs DM or grimoldieu@gmail.com 🌹
+    location: "Italy"
+    followers: 43285
+    engagement: 220
+    commentsToLikes: 0.114053
+    id: ckap13ptrszsv0i78bsmo2z4i
+    verified: false
+    hashtags: "#luxurylife, #milano, #jurassicpark, #cartier"
+  - username: "giulia_peroni"
+    fullname: >-
+      Giulia Peroni
+    bio: >-
+      📍 Milan, Italy 📚 Biotecnologie 📲 Collaborations in DM 🍕 Ambassador @beatotemilano 🍔 Ambassador @mamma_milano
+    location: "Italy"
+    followers: 10499
+    engagement: 1523
+    commentsToLikes: 0.020501
+    id: ck8t1re9mwqh40j78khs4tgix
+    verified: false
+    hashtags: "#followme, #amazing, #life, #moda"
+  - username: "cinziamelie"
+    fullname: >-
+      Fashion⭐️Travel⭐️Shoes⭐️Inspo
+    bio: >-
+      Cinzia Ferrari💋Чинция💋@thecinziaferrari Italian🇮🇹girl - Milan📍Bergamo Beautyfull Models🇮🇹Indeed Models🇩🇪Ifc United Models🇫🇷🇨🇭 ✈️Roma-Firenze
+    location: "Italy"
+    followers: 22046
+    engagement: 491
+    commentsToLikes: 0.044584
+    id: ck5hn7xfondbv0i11v5it9o2g
+    verified: false
+    hashtags: "#positivevibes, #accessories, #love, #happy"
+  - username: "ania.alexandrovna"
+    fullname: >-
+      Ania Alexandrovna
+    bio: >-
+      🌁 Based in Milan 👩 Book a shooting ➡ email 📮 ania.alexandrovna95@gmail.com 🌱 Vegan 👇 Subscribe for uncensored pictures to Patreon
+    location: "Italy"
+    followers: 17881
+    engagement: 565
+    commentsToLikes: 0.038581
+    id: ck0tzxzjerxlg0i19gvh8ee8h
+    verified: false
+    hashtags: "#selfportrait, #details, #black, #model"
 ---

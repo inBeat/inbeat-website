@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In New York In 2020
 description: >-
-  Find top beauty TikTok influencers in New York in 2020. Most popular hashtags: #beauty #stayathome #quarantine #newyork.
+  Find top beauty TikTok influencers in New York in 2020. Most popular hashtags: #fyp #newyork #beauty #foryou.
 platform: TikTok
+hits: 79
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 79 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "cioudysunsets"
+  - username: "lower48"
     fullname: >-
-      cloudysunsets
+      lower48
+    bio: >-
+      PNW Hiker 🌲Blue State Conservative 🇺🇸 LEOW 🚨 ❤️ Trumpublican ❤️
     location: "United States"
-    followers: 15237
-    engagement: 1881
-    commentsToLikes: 0.046152
-    id: cka0z3ickdwl40i78mtpb7tf0
+    followers: 56400
+    engagement: 2886
+    commentsToLikes: 0.072238
+    id: ckdc0quhmfh6m0j23ya5hnx7a
     verified: false
-    hashtags: "#decorations, #imagine, #trippy, #greenscreen"
-  - username: "iamsofiaeve"
+    hashtags: "#thoughts, #redpill, #opinion, #red"
+  - username: "the_blumencranz"
     fullname: >-
-      Sofia Eve
+      Luke Blumencranz
+    bio: >-
+      Long Island NY 🌈 CEO of bad spelling
     location: "United States"
-    followers: 31914
-    engagement: 476
-    commentsToLikes: 0.026312
-    id: ck9kcviawrcn40j78808rdamf
+    followers: 37800
+    engagement: 423
+    commentsToLikes: 0.032197
+    id: ckc8d2or78tve0j234m6sws1e
     verified: false
-    hashtags: "#spreadlove, #acting, #happymothersday, #getreadywithme"
-  - username: "bh_biodental"
+    hashtags: "#fyp, #tiktok, #product, #foryoupage"
+  - username: "kayleighskloset"
     fullname: >-
-      BH_BioDental
+      kayleighskloset
+    bio: >-
+      26 | New York | Beauty Publicist Unfiltered version of @kayleighskloset
     location: "United States"
-    followers: 37741
-    engagement: 368
-    commentsToLikes: 0.029323
-    id: ckaijf8xpepqn0i78v8t1aio8
+    followers: 14700
+    engagement: 493
+    commentsToLikes: 0.017452
+    id: ckcv2ovnwo6tk0j23x7o8nuc8
     verified: false
-    hashtags: "#food, #smeezechallenge, #loved, #rockstar"
-  - username: "natalie1526n"
+    hashtags: "#dating, #nyceats, #dialitforward, #nycspots"
+  - username: "daniellemareka"
     fullname: >-
-      Nataliia Vorobok
+      Danielle Mareka
+    bio: >-
+      🧚🏾‍♀️🤍✌🏾😗 IG: @daniellemareka muse 🧝🏽‍♀️ artist supermodel in the making
     location: "United States"
-    followers: 129380
-    engagement: 358
-    commentsToLikes: 0.012599
-    id: ck81qt286jm410j782i459z18
+    followers: 66100
+    engagement: 2195
+    commentsToLikes: 0.011089
+    id: ckbwjn2u03nsv0j23iu2a27o7
     verified: false
-    hashtags: "#billieeilish, #flowers, #oceanlife, #whatisthis"
-  - username: "nypost"
+    hashtags: "#learnontiktok, #fashion, #pose, #trending"
+  - username: "jansportnyc12"
     fullname: >-
-      New York Post
+      Jan Sport
+    bio: >-
+      Jan from RuPaul’s Drag Race Season 12! 💜The girl next door plus so much more💜
     location: "United States"
-    followers: 11847
-    engagement: 599
-    commentsToLikes: 0.044828
-    id: ckan4zo82clj60i78shg7wodm
+    followers: 137700
+    engagement: 1701
+    commentsToLikes: 0.015384
+    id: ck9ve0uh3x4wi0j78mfx5a8yv
     verified: true
-    hashtags: "#whiteclawslushy, #traderjoes, #beauty, #celebrity"
-  - username: "eshita_st"
+    hashtags: "#drag, #dragmakeup, #dragrace, #fyp"
+  - username: "heyitsamyjay"
     fullname: >-
-      Eshita S
+      heyitsamyjay
+    bio: >-
+      25 and queer she/her
     location: "United States"
-    followers: 2585
-    engagement: 419
-    commentsToLikes: 0.048325
-    id: ckams7skfozzm0i78j7xte29i
+    followers: 6221
+    engagement: 1339
+    commentsToLikes: 0.027544
+    id: ckb10jkk7p2os0j23monney7t
     verified: false
-    hashtags: "#baking, #dessert, #wavyhair, #maltese"
-  - username: "gerganaivanova_"
+    hashtags: "#foryou, #fyp, #greenscreen, #harrystyles"
+  - username: "superawesomefriends"
     fullname: >-
-      Gergana Ivanova
+      Jim Glaub
+    bio: >-
+      🦄 Jim Glaub 🌈 Nostalgia 🎭 Broadway Magic 🎅 Miracles & more
     location: "United States"
-    followers: 19942
-    engagement: 692
-    commentsToLikes: 0.016133
-    id: ck9ejc9ib28ob0j78b3jebr2t
+    followers: 11900
+    engagement: 810
+    commentsToLikes: 0.049677
+    id: cka0jbzw8hgl70i78nc6452yc
     verified: false
-    hashtags: "#nycspots, #editor, #asos, #shoecheck"
-  - username: "fabioncey"
+    hashtags: "#vintage, #90s, #oldschool, #80s"
+  - username: "minamicheal78"
     fullname: >-
-      Fabian Robles
+      Mina Micheal
+    bio: >-
+      Fitness💪🏼 | Photography 📸 | Engineer 🛠 Travel 🌎 🇪🇬 مصري | Boston📍
     location: "United States"
-    followers: 2315
-    engagement: 347
-    commentsToLikes: 0.063913
-    id: ckac8daugffcn0i78usynvp2i
+    followers: 3089
+    engagement: 732
+    commentsToLikes: 0.042580
+    id: ckdbjcify965m0j23uo2slipm
     verified: false
-    hashtags: "#classof2020, #video, #hair, #goals"
-  - username: "hotexbf"
+    hashtags: "#boston, #views, #mass, #travel"
+  - username: "tay_nic_fit"
     fullname: >-
-      M@ Caulfield
+      Taylor Nicole
+    bio: >-
+      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
     location: "United States"
-    followers: 3439
-    engagement: 578
-    commentsToLikes: 0.015332
-    id: ck8tkv2py9e0m0j78b4dh6ivt
+    followers: 11400
+    engagement: 1264
+    commentsToLikes: 0.029339
+    id: ckcpt5i2dnqgf0j2303pqodpw
     verified: false
-    hashtags: "#kuwtk, #beauty, #work, #manhattan"
-  - username: "nicoleleeanne6"
+    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
+  - username: "ialfarog_"
     fullname: >-
-      Nicole LeeAnne
+      Inés Alfaro
+    bio: >-
+      Skincare | Makeup | review Latina viviendo en NY ✨
     location: "United States"
-    followers: 17020
-    engagement: 1370
-    commentsToLikes: 0.042190
-    id: ck807339tob940j78oio9929i
+    followers: 21100
+    engagement: 514
+    commentsToLikes: 0.052641
+    id: ckbfat1nq2ecs0j23v8xned1n
     verified: false
-    hashtags: "#happyeverafter, #smallmouth, #facemask, #smile"
+    hashtags: "#beauty, #tips, #fyp, #boxycharm"
 ---

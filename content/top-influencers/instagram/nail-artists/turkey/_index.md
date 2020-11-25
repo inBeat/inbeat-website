@@ -1,107 +1,130 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Turkey In 2020
 description: >-
-  Find top nail artists Instagram influencers in Turkey in 2020. Most popular hashtags: #makeup #nailartist #blogger #lipstick.
+  Find top nail artists Instagram influencers in Turkey in 2020. Most popular hashtags: #nailsofinstagram #nailart #nailpolish #nailartist.
 platform: Instagram
+hits: 20
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "benimelim"
+  - username: "nils_nailart"
     fullname: >-
-      𝓩𝓮𝔂𝓷𝓮𝓹  𝓑𝓮𝓽𝓾𝓵  𝓒𝓮𝓵𝓲𝓴𝓮𝓵
+      Nilgün Özyer💎
+    bio: >-
+      🇹🇷UA ilişkiler📓 @bornprettystore 10% off: NIGL91 @beautybigbangs 10% off: NILS @ojeburda @conceptnailart #oje #nailart #nails
     location: "Turkey"
-    followers: 77180
-    engagement: 129
-    commentsToLikes: 0.153861
-    id: ck0uac52cbuqu0i19xv3umcbh
+    followers: 26131
+    engagement: 256
+    commentsToLikes: 0.094181
+    id: ck5chr777rbcj0i1106btpvy9
     verified: false
-    hashtags: "#artwork, #lights, #tonsurton, #declutter"
+    hashtags: "#nailpolish, #longnails, #conceptnailart, #blogger"
+  - username: "ojelimojelii"
+    fullname: >-
+      Gizem💅🏻
+    bio: >-
+      💅🏻Oje önerileri 🎨Nail art 📩Reklam & İşbirliği için DM/Mail Kişisel hesap/ @gizemtrrk @duygubeautysaloon1
+    location: "Turkey"
+    followers: 15928
+    engagement: 860
+    commentsToLikes: 0.117624
+    id: ckaowon4g9re50i78h5xo6dee
+    verified: false
+    hashtags: "#nailpolish, #nailsofinstagram, #nailstagram, #nailenamel"
+  - username: "ojeseli"
+    fullname: >-
+      Selin 💋
+    bio: >-
+      🎀Aseton kokusundan kafayı bulan kadın💕 Nailart 💅🏻 Makyaj 💄 Eğlence 🥳 Reklam ve iş birliği için DM 💐
+    location: "Turkey"
+    followers: 64249
+    engagement: 253
+    commentsToLikes: 0.024001
+    id: ck136ptja7o4t0i19qfyjfvj9
+    verified: false
+    hashtags: "#nail, #flormaroje, #nailsofinstagram, #nails"
+  - username: "blog.bybuse"
+    fullname: >-
+      Buse 🌟
+    bio: >-
+      📍İzmir @bbuuusee Reklam ve işbirliği için : DM/Mail 💌 PR•buseeatl33@gmail.com
+    location: "Turkey"
+    followers: 10450
+    engagement: 855
+    commentsToLikes: 0.031552
+    id: ck8tdeu4132vi0j78dhbla00c
+    verified: false
+    hashtags: "#skincare, #blog, #nails, #like4likes"
+  - username: "seniojeli"
+    fullname: >-
+      Kübra Vural
+    bio: >-
+      Protez (Jel) Tırnak Uzmanı 💅🏻 Nailart 💅🏻 Benim ellerim, benim emeklerim🙏🏻💐 @vural_k
+    location: "Turkey"
+    followers: 19946
+    engagement: 163
+    commentsToLikes: 0.184570
+    id: ckf5s44yjeovd0j23n9vkzwcg
+    verified: false
+    hashtags: "#nails, #nailsnailsnails, #makeuptutorial, #blogger"
+  - username: "mrs.konuk"
+    fullname: >-
+      Aysun Konuk🌙
+    bio: >-
+      👩‍👦Mom💙 #makeup / #beauty | #fashion |#instablogger 📩aysun.konuk@hotmail.com ✨Favoriler👉🏻 #mrskonukfavorileri 📍Kocaeli
+    location: "Turkey"
+    followers: 23881
+    engagement: 364
+    commentsToLikes: 0.608346
+    id: ck8tdjg5z3k5b0j78xsod3hsf
+    verified: false
+    hashtags: "#makeup, #kocaeli, #mrskonuk, #kocaeliblogger"
   - username: "kupikoo"
     fullname: >-
       Kupiko 🍉
+    bio: >-
+      Ürün tanıtımı ➕➖| İndirimler💯 | Muadiller ✉️kuupiikoo@gmail.com Öğretmen Hanım 👩🏻‍🏫 Farmasi Linki👇🏼
     location: "Turkey"
     followers: 6363
     engagement: 682
     commentsToLikes: 0.094882
     id: ckapackauvk2o0i78leftjamc
     verified: false
-    hashtags: "#narsissist, #nailblogger, #kikomilanoturkey, #maybeline"
-  - username: "ciciliojeli"
+    hashtags: "#oje, #like4likes, #ayd, #likeforlikes"
+  - username: "ayse_blogpage"
     fullname: >-
-      Şevval Gözütok
+      ✨Ayse's_blogpage✨
+    bio: >-
+      🤝PR çalışması ve işbirliği için DM 💌 💥Makyaj,Güzellik💅💄 💥İndirim&Alışveriş bilgileri 💥 Aksesuar tanıtımı 💥Temizlik ürünleri 💥Anne&çocuk ürünleri
     location: "Turkey"
-    followers: 10615
-    engagement: 471
-    commentsToLikes: 0.063347
-    id: ckap7kj85kgr70i78hhu19g95
+    followers: 14253
+    engagement: 695
+    commentsToLikes: 0.058695
+    id: ckap56h6lae340i789box7do4
     verified: false
-    hashtags: "#farmasi, #pinknude, #hairstyling, #instablog"
-  - username: "ojeseli"
+    hashtags: "#du, #kozmatik, #nudenails, #sa"
+  - username: "benimelim"
     fullname: >-
-      Selin 💋
+      𝓩𝓮𝔂𝓷𝓮𝓹  𝓑𝓮𝓽𝓾𝓵  𝓒𝓮𝓵𝓲𝓴𝓮𝓵
+    bio: >-
+      ▫Architect • Content Creator ▫Founder @benimelimdesign 💌 info@benimelim.co ▫Nails | Beauty | Art | Lifestyle | Travel 📌 YOUTUBE #benimelimgeziyor
     location: "Turkey"
-    followers: 61007
-    engagement: 382
-    commentsToLikes: 0.029292
-    id: ck136ptja7o4t0i19qfyjfvj9
+    followers: 82821
+    engagement: 177
+    commentsToLikes: 0.198234
+    id: ck0uac52cbuqu0i19xv3umcbh
     verified: false
-    hashtags: "#snap, #shine, #makeup, #makeupartist"
-  - username: "blog.bybuse"
+    hashtags: "#happiestgirlintheworld, #benimelimswatches, #ombrenails, #nailsofinstagram"
+  - username: "kubraemirdogan"
     fullname: >-
-      Buse 🌟
+      KÜBRA EMİRDOĞAN
+    bio: >-
+      🚩Adana/Ziyapaşa 🗺 ⚜Kübra Emirdoğan & Mikail Ünal Makeup Studio ⚜📩 kbra_emrdgn@hotmail.com 📲 0 (553 730 41 71 ) Whatsapp🔰
     location: "Turkey"
-    followers: 5638
-    engagement: 2822
-    commentsToLikes: 0.025842
-    id: ck8tdeu4132vi0j78dhbla00c
+    followers: 34491
+    engagement: 155
+    commentsToLikes: 0.007292
+    id: ck14i47ildk6y0i19qteuoi5b
     verified: false
-    hashtags: "#nailtech, #garnierturkiye, #blogger, #nailsnailsnails"
-  - username: "tirnakbutik"
-    fullname: >-
-      Proteztırnak
-    location: "Turkey"
-    followers: 76273
-    engagement: 45
-    commentsToLikes: 0.024409
-    id: ck139fnvjl2da0i19n1288ynu
-    verified: false
-    hashtags: "#nailartistanbul, #lashextensions, #kirpikbak, #tirnakbutik"
-  - username: "kursatacar_"
-    fullname: >-
-      Cappadocia Photographer
-    location: "Turkey"
-    followers: 10950
-    engagement: 1067
-    commentsToLikes: 0.000982
-    id: ck5zp3j20rx2z0i14zt785ycr
-    verified: false
-    hashtags: "#instatravel, #party, #travellife, #happiness"
-  - username: "blogging2girl"
-    fullname: >-
-      Gökçe's Wonderland
-    location: "Turkey"
-    followers: 13529
-    engagement: 728
-    commentsToLikes: 0.066030
-    id: ck14gp0da6bq50i19vqwr2h1l
-    verified: false
-    hashtags: "#glowcherie, #mottomottomemes, #bookgram, #mondaymood"
-  - username: "parvanapashali"
-    fullname: >-
-      SULHPLAZA4cu Mertebe 403 Otaq
-    location: "Turkey"
-    followers: 28855
-    engagement: 239
-    commentsToLikes: 0.045065
-    id: ck55mppp64haa0i11v0z73069
-    verified: false
-    hashtags: "#evdeqal, #stayathomechallenge, #bezenduzenevdeqal, #evdekal"
-  - username: "najmmohammadi"
-    fullname: >-
-      Najm Mohammadi
-    location: "Turkey"
-    followers: 10124
-    engagement: 1577
-    commentsToLikes: 0.056373
-    id: ck5c8dp0m99fe0i11etkdgpg0
-    verified: false
-    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+    hashtags: "#makeup, #makeupvideo, #gelinlik, #tartecosmetics"
 ---

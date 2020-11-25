@@ -1,107 +1,130 @@
 ---
 title: Top 10 Makeup TikTok Influencers In Berlin In 2020
 description: >-
-  Find top makeup TikTok influencers in Berlin in 2020. Most popular hashtags: #makeup #hairstyle #love #hair.
+  Find top makeup TikTok influencers in Berlin in 2020. Most popular hashtags: #makeup #foryou #berlin #fyp.
 platform: TikTok
+hits: 27
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 27 TikTok influencers like this in Berlin, Germany for you to collaborate.
 profiles:
-  - username: "___prinzessjuan___34"
+  - username: "sophialuisa20"
     fullname: >-
-      ❤️:_The_Prinzess_:❤️
+      Sophia Luisa
+    bio: >-
+      Sophia 🌞 22 🌞 Munich, Germany Instagram: sophia_luisa
     location: "Germany"
-    followers: 5273
-    engagement: 643
-    commentsToLikes: 0.018607
-    id: ckad5vjcqwmh50i78ceeeu49c
+    followers: 22200
+    engagement: 405
+    commentsToLikes: 0.018698
+    id: ckb99syycud6e0j23pkorctst
     verified: false
-    hashtags: "#gizli, #bulgarian, #iphone11, #bruder"
-  - username: "thebeauty2go2"
+    hashtags: "#whatiwearfor, #germany, #fyp, #coronavirus"
+  - username: "toni.dreher"
     fullname: >-
-      thebeauty2go
+      Toni Dreher
+    bio: >-
+      OLUWATONILOBA DREHER ADENUGA 🤡 w e l c o m e t o c l o w n c l u b
     location: "Germany"
-    followers: 27164
-    engagement: 1015
-    commentsToLikes: 0.010064
-    id: ckafukn83aw0y0i78sh6cq6q0
-    verified: false
-    hashtags: "#lasketchup, #petlover, #milkshake, #redcarpet"
-  - username: "radiojamfm"
-    fullname: >-
-      JAM FM
-    location: "Germany"
-    followers: 344031
-    engagement: 1759
-    commentsToLikes: 0.023791
-    id: ck8qej6jlsv2a0j78kdjkq363
+    followers: 235500
+    engagement: 1764
+    commentsToLikes: 0.012850
+    id: ck8hkku79ecbr0j789fxsblz4
     verified: true
-    hashtags: "#quarant, #finchasozial, #alphabet, #schule"
-  - username: "annepromakeupart"
+    hashtags: "#foryou, #nigerian, #african, #fyp"
+  - username: "annajuliana"
     fullname: >-
-      annepromakeupart
+      Anna Juliana
+    bio: >-
+      🎬 Showrunner @hashtagdaily 💔 #tiktoksoap #schauspielerin BFF-Club 👇❤
     location: "Germany"
-    followers: 64167
-    engagement: 1277
-    commentsToLikes: 0.011160
-    id: ckaij7zltdt5t0i78ljnxkbg3
+    followers: 16800
+    engagement: 1131
+    commentsToLikes: 0.020176
+    id: cka0ink58eef40i78pra9u70u
     verified: false
-    hashtags: "#rainboweyes, #glittereyes, #glittermakeup, #asmrskincare"
-  - username: "locoprincess030"
+    hashtags: "#duett, #funny, #liebe, #tiktoksoap"
+  - username: "luca.sanchez"
     fullname: >-
-      LocoPrincess
+      Luca Sanchez
+    bio: >-
+      CEO of vlogging
     location: "Germany"
-    followers: 27956
-    engagement: 1078
-    commentsToLikes: 0.013726
-    id: cka9lizcr2df40i78uxzrwdkj
+    followers: 53700
+    engagement: 1595
+    commentsToLikes: 0.009751
+    id: ckbw9mp4cztt20j23juasmjcf
     verified: false
-    hashtags: "#blondehair, #purplerain, #jiggo, #badm"
-  - username: "_isaslife_"
+    hashtags: "#temptationisland, #halloween, #rap, #insekten"
+  - username: "michaela.berdaga"
     fullname: >-
-      Isa🌹
+      Michaela
+    bio: >-
+      🇩🇪 Berlin Everyday new TikToks Your fave couple👩‍❤️‍👨 Fashion&makeup💄
     location: "Germany"
-    followers: 51651
-    engagement: 415
-    commentsToLikes: 0.064208
-    id: ck904mvrmebri0j78hisbc36z
+    followers: 106200
+    engagement: 766
+    commentsToLikes: 0.009722
+    id: ck8opwxg853mm0j78vnxla21k
     verified: false
-    hashtags: "#makup, #spiegel, #coronavirus, #makeup"
-  - username: "leoo110"
+    hashtags: "#tiktokfashion, #makeup, #fyp, #verzerrer"
+  - username: "siljawisk"
     fullname: >-
-      Leonie
+      Silja Wisk 👼
+    bio: >-
+      🧚🏼 Täglich neue TikToks 🧚🏼 50k? 💜🙏🏽
     location: "Germany"
-    followers: 11393
-    engagement: 855
-    commentsToLikes: 0.031952
-    id: cka0r86rvfymi0i78egvvjk44
+    followers: 48300
+    engagement: 1844
+    commentsToLikes: 0.022151
+    id: cka85avr6xbv00i78r3fbfgk2
     verified: false
-    hashtags: "#goodnightguys, #glowupchallenge, #gettingold, #suchtgefahr"
-  - username: "rose.friederike"
+    hashtags: "#cat, #katze, #catlover, #nagellack"
+  - username: "rikaphrodite"
     fullname: >-
-      ROSE
+      rikaphrodite
+    bio: >-
+      kathi / 21 / berlin / mua / they i just love yoonie okay ig rikaphrodite
     location: "Germany"
-    followers: 221724
-    engagement: 1253
-    commentsToLikes: 0.005595
-    id: ck8vubiylijd00j784ntgsjco
+    followers: 8169
+    engagement: 2195
+    commentsToLikes: 0.022350
+    id: ckbfbiicr3ivk0j23oq83tqhl
     verified: false
-    hashtags: "#amazonfinds, #haurtutorial, #acneproducts, #model"
+    hashtags: "#btsarmy, #jungkook, #jin, #kpopmemes"
+  - username: "_veger_"
+    fullname: >-
+      _veger_
+    bio: >-
+      BERLIN Lachen ist die beste Medizin und Liebe ist die stärkste Magie
+    location: "Germany"
+    followers: 9314
+    engagement: 720
+    commentsToLikes: 0.122230
+    id: ckbbwrw6qjy170j23bjawo4o7
+    verified: false
+    hashtags: "#rosenylund, #lipsync, #twoandahalfmen, #comedy"
   - username: "turbalee"
     fullname: >-
       turbalee
+    bio: >-
+      Berlin 📌
     location: "Germany"
-    followers: 3362
-    engagement: 745
-    commentsToLikes: 0.034313
+    followers: 4409
+    engagement: 1077
+    commentsToLikes: 0.028509
     id: cka62t9b81cjm0i785zdns4qo
     verified: false
-    hashtags: "#teddy, #howidothings, #drinking, #lonely"
-  - username: "rezal2004"
+    hashtags: "#raver, #foryou, #fyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfy, #fy"
+  - username: "y.kiomatic"
     fullname: >-
-      Rezal👸🏻
+      Y.kioMatic
+    bio: >-
+      a bean from Berlin~ °˖✧◝(⁰▿⁰)◜✧˖° my insta is better :') loading 18% ██▒▒▒▒▒▒▒
     location: "Germany"
-    followers: 10635
-    engagement: 1032
-    commentsToLikes: 0.026310
-    id: ck81sxv8otx280j78zeg2igdq
+    followers: 14000
+    engagement: 1418
+    commentsToLikes: 0.013973
+    id: ckbw7akygyr0w0j239fsewmwr
     verified: false
-    hashtags: "#makeup, #squad, #hotmomcheck, #silvester"
+    hashtags: "#cosplay, #sallyfacecosplay, #larryjohnsoncosplay, #sallyface"
 ---

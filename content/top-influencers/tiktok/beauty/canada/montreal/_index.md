@@ -1,107 +1,130 @@
 ---
 title: Top 10 Beauty TikTok Influencers In Montreal In 2020
 description: >-
-  Find top beauty TikTok influencers in Montreal in 2020. Most popular hashtags: #beauty #love #duet #happyeaster.
+  Find top beauty TikTok influencers in Montreal in 2020. Most popular hashtags: #montreal #canada #beauty #funny.
 platform: TikTok
+hits: 11
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 11 TikTok influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "naesha.joanna"
+  - username: "donnasaker"
     fullname: >-
-      Naësha Joanna💕
+      Donna Saker
+    bio: >-
+      #1 Radio show in Montreal Canada, Dog Mom, martini lover all round good girl😊
     location: "Canada"
-    followers: 85866
-    engagement: 2108
-    commentsToLikes: 0.033569
-    id: ckammbjfqzsfz0i783go3eqjg
+    followers: 5075
+    engagement: 844
+    commentsToLikes: 0.064549
+    id: ckbfba7cc35fl0j23vbw0prk0
     verified: false
-    hashtags: "#canadiangirl, #nasty, #chretienne, #french"
-  - username: "sarah_ostiguy"
+    hashtags: "#fyp, #over50, #datingapp, #dating"
+  - username: "reshadziraki"
     fullname: >-
-      Sarah Ostiguy
+      Reshad Ziraki
+    bio: >-
+      Life is dumb and I want to sleep. 😴😩 Montréal est la terre de l'amour.🇨🇦
     location: "Canada"
-    followers: 5310
-    engagement: 618
-    commentsToLikes: 0.072512
-    id: ckai21ra7e35h0i785qlofr2g
+    followers: 8638
+    engagement: 928
+    commentsToLikes: 0.034891
+    id: cka0jr227j84m0i78bfofvm10
     verified: false
-    hashtags: "#recreatethelook, #workout, #kendalljenner, #unboxing"
+    hashtags: "#afghangirl, #aryanasayeed, #toronto, #salimshahin"
+  - username: "ibrownzzrule"
+    fullname: >-
+      iBrownZz Rule
+    bio: >-
+      Skits/Educational Videos 📖🔥 IG : ibrownzz 👥 ibrownzzrule@gmail.com 📩
+    location: "Canada"
+    followers: 51800
+    engagement: 803
+    commentsToLikes: 0.115358
+    id: ckb0uvwtzka340j23hjcy7mmr
+    verified: false
+    hashtags: "#mtlblog, #metrostations, #countries, #world"
+  - username: "myriam_7201"
+    fullname: >-
+      Mimi mad
+    bio: >-
+      🇨🇦/🇭🇹
+    location: "Canada"
+    followers: 4171
+    engagement: 713
+    commentsToLikes: 0.043985
+    id: ckbkxybzzu1j80j23ns61p0x0
+    verified: false
+    hashtags: "#handmade, #montreal, #duo, #joueraveclavie"
   - username: "annekrystelgoyerofficial"
     fullname: >-
       Anne Krystel
+    bio: >-
+      Créatrice de parfums haut de gamme, modèle et actrice.
     location: "Canada"
-    followers: 5078
-    engagement: 436
-    commentsToLikes: 0.039103
+    followers: 14700
+    engagement: 224
+    commentsToLikes: 0.047086
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#white, #80music, #mexico, #woman"
-  - username: "ddkyu"
+    hashtags: "#montreal, #sexy, #perfume, #makeup"
+  - username: "sonia.lifestyle"
     fullname: >-
-      🇨🇦Dan🖤Delisle🇨🇦
+      Sonia
+    bio: >-
+      Instagram: sonia.lifestyle
     location: "Canada"
-    followers: 12782
-    engagement: 1091
-    commentsToLikes: 0.056244
-    id: ck94l57abxwwx0j78qmw10lmy
+    followers: 101500
+    engagement: 366
+    commentsToLikes: 0.026630
+    id: ck9ep96ltrlh40j78spw2875n
     verified: false
-    hashtags: "#friends, #proverb, #clown, #duet"
-  - username: "sarina.srj"
+    hashtags: "#maroc, #duo, #montreal, #nuxekosmetics"
+  - username: "urboidrflips"
     fullname: >-
-      Sarina Sroujian
+      Dragos
+    bio: >-
+      😂 🇨🇦 Mtl
     location: "Canada"
-    followers: 14633
-    engagement: 1406
-    commentsToLikes: 0.035436
-    id: ck9dx9akjsciz0j7814mrflao
+    followers: 4688
+    engagement: 1304
+    commentsToLikes: 0.033587
+    id: ck8072ib3o5hw0j78nu2dydmb
     verified: false
-    hashtags: "#fenty, #petsoftiktok, #therapy, #joshuaperets"
-  - username: "myriamsmn"
+    hashtags: "#viral, #funny, #trending, #foryoupage"
+  - username: "juliagrandoni"
     fullname: >-
-      Myriam
+      Julia Grandoni
+    bio: >-
+      150k and I’ll create the COVID-19 vacine
     location: "Canada"
-    followers: 72792
-    engagement: 1006
-    commentsToLikes: 0.036115
-    id: ck83wvjotmeqk0j78oiblcah6
+    followers: 108900
+    engagement: 755
+    commentsToLikes: 0.027869
+    id: ckdntubpim6820j23xxo61405
     verified: false
-    hashtags: "#meme, #pinkhair, #hairtutorial, #jojopose"
-  - username: "egyptianedition"
+    hashtags: "#foryoupage, #foryourpage, #duet, #xyz"
+  - username: "helenmoonpeng"
     fullname: >-
-      N O R A 🧿
+      Helen Moon Peng
+    bio: >-
+      im a sensation
     location: "Canada"
-    followers: 26742
-    engagement: 466
-    commentsToLikes: 0.051964
-    id: ckamxx98wezky0i78iij82pmp
+    followers: 19200
+    engagement: 1132
+    commentsToLikes: 0.034573
+    id: ck8fa3xoq44mp0j78ngda4ped
     verified: false
-    hashtags: "#ontario, #icedcoffee, #lipstick, #beauty"
-  - username: "leonsponts"
+    hashtags: "#lushious, #renaissance, #shoes, #youth"
+  - username: "doc.ling"
     fullname: >-
-      Lionel
+      Dr Ling
+    bio: >-
+      👩🏻‍⚕️ family physician having fun on Tiktok I’m not being serious 🤷🏻‍♀️ 🇨🇦
     location: "Canada"
-    followers: 7466
-    engagement: 926
-    commentsToLikes: 0.061765
-    id: cka0mduzbuv9o0i78cbdxvt1m
+    followers: 136800
+    engagement: 559
+    commentsToLikes: 0.008584
+    id: ck9bypav5na750j78r3fba8nk
     verified: false
-    hashtags: "#detente, #france, #roblox, #romantic"
-  - username: "msdongan"
-    fullname: >-
-      msdongan
-    location: "Canada"
-    followers: 194683
-    engagement: 993
-    commentsToLikes: 0.044743
-    id: ck90yl2lraqww0j788xwusl08
-    verified: false
-    hashtags: "#fyppage, #momsoftiktok, #dontjudgeme, #tiktokchallenge"
-  - username: "mianalauren"
-    fullname: >-
-      Miana Lauren
-    location: "Canada"
-    followers: 316353
-    engagement: 1731
-    commentsToLikes: 0.028007
-    id: ck7zoi1s5k8aq0j78tb5rxbgo
-    verified: false
-    hashtags: "#iconiclondon, #siblingcheck, #pranks, #lipkit"
+    hashtags: "#doctor, #nurse, #blacklivesmatter, #outfit"
 ---

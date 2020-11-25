@@ -1,107 +1,130 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Ankara In 2020
 description: >-
-  Find top yoga Instagram influencers in Ankara in 2020. Most popular hashtags: #yoga #ankara #istanbul #antalya.
+  Find top yoga Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #istanbul #yoga #izmir.
 platform: Instagram
+hits: 13
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Ankara, Turkey for you to pitch.
 profiles:
   - username: "yogasoultr"
     fullname: >-
       Ceren Bodur
+    bio: >-
+      ◾Antigravity Yoga • Ankara’daki tek Silver Stüdyo ◾Yoga ◾Acroyoga ◾Reformer Pilates ◾Skolyoga ◾Jimnastik halkası ☎️ 0312 495 05 00
     location: "Turkey"
-    followers: 5501
-    engagement: 199
-    commentsToLikes: 0.026393
+    followers: 5561
+    engagement: 177
+    commentsToLikes: 0.031878
     id: ck5px23wspq6i0i11znz6ja7v
     verified: false
-    hashtags: "#onlineegzersiz, #onlineyogastudio, #grupseksendort, #travma"
-  - username: "midyat_burada47"
-    fullname: >-
-      Midyat Tanıtım Platformu
-    location: "Turkey"
-    followers: 11194
-    engagement: 553
-    commentsToLikes: 0.020337
-    id: ck8tc4b7oy8g10j782o4t6my9
-    verified: false
-    hashtags: "#instafood, #amigurumi, #latepost, #roses"
-  - username: "handekaptan"
-    fullname: >-
-      hande kaptan
-    location: "Turkey"
-    followers: 61563
-    engagement: 340
-    commentsToLikes: 0.104345
-    id: ck5cgc922ojtk0i117ld62s85
-    verified: true
-    hashtags: "#kediler, #istanbul, #handekaptan, #gaziantep"
-  - username: "sdlasln"
-    fullname: >-
-      Sıdal 🦁
-    location: "Turkey"
-    followers: 9888
-    engagement: 1350
-    commentsToLikes: 0.010246
-    id: ck8t35skq1zk20j78td5n794m
-    verified: false
-    hashtags: "#spoiled, #choice, #sadbuttrue, #power"
-  - username: "ozkastamonutv"
-    fullname: >-
-      Öz Kastamonu Tv
-    location: "Turkey"
-    followers: 67274
-    engagement: 749
-    commentsToLikes: 0.058072
-    id: ckaotc48gv9jw0i782fx3zf6e
-    verified: false
-    hashtags: "#iyigeceler, #komik, #izmir, #karikat"
-  - username: "ilknurozdemir61"
-    fullname: >-
-      İlknur Özdemir
-    location: "Turkey"
-    followers: 27223
-    engagement: 374
-    commentsToLikes: 0.153290
-    id: ck8t3cgp12qtl0j78glw4h0kg
-    verified: false
-    hashtags: "#mardingezi, #viewforview, #iloveyou, #yazkombinleri"
+    hashtags: "#ankarayoga, #yogaaddict, #yogateacher, #yogaclass"
   - username: "fitixm"
     fullname: >-
       ❗️Sağlıklı Yaşa FİT Kal❗️
+    bio: >-
+      🌿 Sağlıklıbeslenme ve spor günlüğüm 🌿 Fittarifler ve Fittabaklar 💫#fitixm Daha az ye,daha çok su iç daha çok hareket et!
     location: "Turkey"
     followers: 14646
     engagement: 545
     commentsToLikes: 0.107329
     id: ck8t6nrrxe8la0j780gdobyba
     verified: false
-    hashtags: "#ipatlamak, #kerevizyeme, #sunum, #yumurta"
+    hashtags: "#sahur, #exercise, #fit, #sag"
   - username: "netpsikolojim"
     fullname: >-
       Kişisel Gelişim Motivasyon
+    bio: >-
+      Yeni Sayfamız Takip Et 👉@psikolojirehber #psikoloji #kişiselgelişim #motivasyon #yaşamkoçu #psikolojiksözler #felsefiksözler #edebisözler #koçluk
     location: "Turkey"
     followers: 106177
     engagement: 88
     commentsToLikes: 0.019586
     id: ck14ie3f7eyts0i197x2cbptf
     verified: false
-    hashtags: "#yoga, #kadirgecesi, #allah, #evren"
-  - username: "prof.dr.sevtaphamdemirkilic"
+    hashtags: "#zihin, #edebis, #al, #terapist"
+  - username: "cigdemcmks"
     fullname: >-
-      TüpBebek Gebelik Takibi Ankara
+      Çigdem Çamkes
+    bio: >-
+      🔥 Pilates teacher 🔥 💥 Personel Trainer 💥 🧘 Yoga teacher 🧘 @bi_bak_bencee
     location: "Turkey"
-    followers: 25181
-    engagement: 104
-    commentsToLikes: 0.056527
-    id: ckapbor2q0qc20i7813tsq68l
+    followers: 5127
+    engagement: 827
+    commentsToLikes: 0.094473
+    id: ckaouqz5j1fot0i78d2fr7cs6
     verified: false
-    hashtags: "#action, #arefe, #bayra, #tupbebek"
-  - username: "melek_.x01"
+    hashtags: "#fitnes, #beslenme, #karaa, #bodybuilding"
+  - username: "tugbahasbal"
     fullname: >-
-      〰 XATUNEE 〰
+      Tugba Hasbal
+    bio: >-
+      #Yoga #Ney #Semazen #NeyileYoga #Whirlingdervish
     location: "Turkey"
-    followers: 2230
-    engagement: 1915
-    commentsToLikes: 0.162843
-    id: ck9hb9317fv620j78yog6xid0
+    followers: 6139
+    engagement: 746
+    commentsToLikes: 0.046261
+    id: ck0w3iezctkqp0i19zflc2yam
     verified: false
-    hashtags: "#takipplus, #likeforfollow, #evde, #moda"
+    hashtags: "#music, #semazen, #mercandede, #neyileyoga"
+  - username: "gulsahyaprakci"
+    fullname: >-
+      Gülşah Yaprakcı
+    bio: >-
+      Set your soul free... ✌🏻🕊 Oyuncu 👉🏻 takip @gudubetikili 🎬🎭🇹🇷 Tiktok 👉 gulsahyaprakci
+    location: "Turkey"
+    followers: 18651
+    engagement: 409
+    commentsToLikes: 0.063500
+    id: ck8tae5rore7g0j78jq6czvyi
+    verified: false
+    hashtags: "#mutlu, #mumbai, #turkey, #makeup"
+  - username: "baharrogretmennn"
+    fullname: >-
+      Bahar ÇALIŞKAN🎈🧸
+    bio: >-
+      🇹🇷🇦🇱 MEB-Okul Öncesi Öğretmeni 💕 Pamuk Kalpler Sınıfı 🕊 Köy Öğretmeni 🌾 MEB’te 4 Yıl 🙏🏻 Sadece Kendi Etkinliklerim ✂️🖍 Finduğun Anası 🐈 PAMUK 23.02 ♥️
+    location: "Turkey"
+    followers: 20371
+    engagement: 264
+    commentsToLikes: 0.050155
+    id: ck9hbgy7ugspp0j781vv0c11w
+    verified: false
+    hashtags: "#ogretmen, #atatu, #10kas, #okul"
+  - username: "dml_ozdgn"
+    fullname: >-
+      Damla
+    bio: >-
+      -15 kg 😱 Özlenen lezzetlerin sağlıklı ve fit tarifleri burda👇 Yemek yemeyi ve fotoğrafını çekmeyi seviyorum🥰 dmlozdgn@icloud.com 📩
+    location: "Turkey"
+    followers: 11156
+    engagement: 481
+    commentsToLikes: 0.170981
+    id: ckaosf9z0rd7q0i78raonqcks
+    verified: false
+    hashtags: "#fitkahvalt, #healthydinner, #healthydessert, #healthyrecipes"
+  - username: "yasammimariyiz"
+    fullname: >-
+      DENGELİ YAŞAM
+    bio: >-
+      @yasammimariyiz 👈♥️
+    location: "Turkey"
+    followers: 208631
+    engagement: 99
+    commentsToLikes: 0.019756
+    id: ck8t1kl21w4kw0j78o7vc3jtv
+    verified: false
+    hashtags: "#kis, #bioenerji, #sevgi, #osho"
+  - username: "llsuduman"
+    fullname: >-
+      𝐼𝑙𝑠𝑢 𝐷𝑢𝑚𝑎𝑛
+    bio: >-
+      @ilsudumanakademi kurucusu 🧚🏻‍♀️ Reiki Master 🧘🏻‍♀️ Uluslararası Eğitmen&Danışman 👩🏻‍💻
+    location: "Turkey"
+    followers: 32746
+    engagement: 401
+    commentsToLikes: 0.187702
+    id: ck9wdrxz7h02d0j788xu6smjj
+    verified: false
+    hashtags: "#astroloji, #reiki, #bilin, #pozitifd"
 ---
