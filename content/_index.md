@@ -1,8 +1,8 @@
 ---
-title: inBeat | Find TikTok and Instagram Influencers Worldwide
+title: inBeat Influencer Database | Search TikTok and Instagram Influencers
 description: >-
-  Find qualified influencers that meet your standards on Instagram and TikTok.
-  Use our influencer database to step up your influencer marketing.
+  Search and find TikTok and Instagram influencers in our spam-checked influencer
+  database. Use our tools to search, vet and track your influencer marketing campaigns.
 hero:
   title: TikTok & Instagram<br>Influencer Database
   subtitle: >-
