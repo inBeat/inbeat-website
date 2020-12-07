@@ -7,8 +7,8 @@
         padding-bottom: 5rem;
     }
     @include breakpoint(md) {
-        padding-top: calc(50vh - 13rem);
-        padding-bottom: calc(50vh - 16rem);
+        padding-top: calc(50vh - 15rem);
+        padding-bottom: calc(50vh - 24rem);
     }
     h4 {
         width: 100%;

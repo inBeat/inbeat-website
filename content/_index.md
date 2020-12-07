@@ -11,19 +11,6 @@ hero:
     text: >-
       <span>Try it now</span> &#8212 it's free
     link: https://app.inbeat.co/get-started
-clients:
-  - img: /icons/leadlabs.svg
-    name: Leadlabs
-  - img: /icons/moose.svg
-    name: Moose Bicycle
-  - img: /icons/billygoat.svg
-    name: Billygoat
-  - img: /icons/loop.svg
-    name: Phone Loops
-  - img: /icons/nissan.svg
-    name: Nissan
-  - img: /icons/bedtime.svg
-    name: Bedtime Company
 features:
   - id: search
     title: Search with flexibility

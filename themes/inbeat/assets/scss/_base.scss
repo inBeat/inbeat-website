@@ -200,8 +200,12 @@ a.btn {
 }
 
 .p-tb-80 {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    @include breakpoint(lg) {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
 }
 
 .m-tb-40 {
