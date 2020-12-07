@@ -8,7 +8,7 @@ titre: Influencer Marketing With Andrew Kamphey
 slug: podcast-episode-1
 feature_image: 'https://ghost.inbeat.co/content/images/2020/07/podcast-1-andrew-kamphey.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/07/podcast-1-andrew-kamphey.png'
-lastmod: '2020-07-06T13:29:22.000-04:00'
+lastmod: '2020-11-30T12:59:46.000-05:00'
 date: '2020-07-03T13:29:38.000-04:00'
 summary: >-
   In this podcast, Andrew Kamphey takes us through the current state of
