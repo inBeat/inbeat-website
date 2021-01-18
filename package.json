@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@tryghost/content-api": "^1.4.1",
+    "@tryghost/content-api": "^1.4.13",
     "browser-sync": "^2.26.12",
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.0",
