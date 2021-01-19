@@ -31,7 +31,6 @@ plans:
     filters: All
     title: Lite
     yearly: 23
-    suggested: false
     collected: 0
     bulk: false
     description: >-
@@ -43,8 +42,6 @@ plans:
     filters: All
     title: Brand
     yearly: 54
-    suggested: false
-    collected: 0
     bulk: true
     description: >-
       Ideal for brands or consultants wanting to <span>scale</span> their influencer marketing through mass e-mail outreach.
@@ -55,8 +52,6 @@ plans:
     filters: All
     title: Agency
     yearly: 134
-    suggested: true
-    collected: 1000
     bulk: true
     description: >-
       Ideal for agencies launching <span>continuous campaigns</span>.
