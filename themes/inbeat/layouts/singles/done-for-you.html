@@ -31,7 +31,7 @@
     <div class="row large-gutter">
         {{- range .Params.extras -}}
         <div class="col-xs-12 col-lg-4">
-            {{/*  <div class="icon-ctn" id="{{- .icon -}}"></div>  */}}
+            {{- partial (printf "icons/%s.html" .icon) -}}
             <h3>{{- .title -}}</h3>
             <p>{{- .text -}}</p>
         </div>

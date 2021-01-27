@@ -12,13 +12,13 @@ hero:
 extras:
   - title: Modular Pricing
     text: Every campaign is different. We make sure to optimize to keep prices as low as they go.
-    icon: affordable-pricing
+    icon: dfy-modular
   - title: Cross Platform
     text: We work with influencers from all platforms, so you can reach any audience.
-    icon: blazingly-fast
+    icon: dfy-cross
   - title: Detailed Reports
     text: We give you full campaign succes measures and identify top perfoming audiences.
-    icon: detailed-reports
+    icon: dfy-reports
 features:
   - id: creative
     title: Creative direction
@@ -47,7 +47,7 @@ features:
     text: >-
       We take care of relations, and make sure all Influencers post quality content that follows
       brand guidelines. 
-    img: /images/dfy-managing.png
+    img: /images/dfy-managing-2.png
     testimonial:
       text: ”inBeat provided us with a powerful distribution strategy, and out-of-the-box content, which helped us stand out greatly“
       author: Andrew McLean
