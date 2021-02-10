@@ -115,9 +115,8 @@ profiles:
     id: ckf5m5x90sep60j23h1kvl2dq
     verified: false
     hashtags: "#vintagevibes, #outfitideas, #ad, #corsica"
-  - username: "kassandra_smnt"
-    fullname: >-
-      Kassandra Simonnet
+  - username: "ssandraa_st"
+    fullname: 
     bio: >-
       📍Nantes, FR 🇫🇷 🕊In love @camisomc
     location: "France"
