@@ -62,8 +62,8 @@ plans:
     filters: All
     title: Business
     yearly: 267
-    suggested: true
-    collected: 2000
+    # suggested: true
+    # collected: 2000
     bulk: true
     description: >-
       Ideal for big brands looking to scale their <span>ambassador program</span>.
