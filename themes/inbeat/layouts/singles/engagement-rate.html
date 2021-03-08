@@ -8,11 +8,15 @@
 {{- if not $forInstagram -}}
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
+{{- $maintenance := isset .Params "maintenance" -}}
 <section class="container mobile-adjusted page-top" id="engagement-header">
     <h1>{{- .Params.titre -}}</h1>
     <p>{{- .Params.subtitle | markdownify -}}</p>
 </section>
 <section id="engagement-calculator" class="container mobile-adjusted">
+    {{- if $maintenance -}}
+        <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
+    {{- else -}}
     <div id="engagement-form">
         {{- if $forInstagram -}}
         <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
@@ -24,6 +28,7 @@
             <span v-else>Check Profile</span>
         </button>
     </div>
+    {{- end -}}
     <transition name="slide-fade" mode="out-in">
         <p v-if="error" class="error">{ error }</p>
         <div id="engagement-result" class="card row" v-else-if="!loading && user">
@@ -201,6 +206,7 @@
             };
         },
         created() {
+            if ('{{ $maintenance | safeJS }}' === 'true') return;
             this.submit();
             this.initialSearch = false;
         },

@@ -1,9 +1,8 @@
-
 #features-body {
-    > section:nth-child(3n+1) {
+    > section:nth-child(3n + 1) {
         background-color: $yellow_sub;
     }
-    > section:nth-child(3n+2) {
+    > section:nth-child(3n + 2) {
         background-color: $green_sub;
     }
     > section:nth-child(3n) {
@@ -21,7 +20,7 @@
 }
 
 #how-it-works-features {
-    border-top: 1px solid #CDCDCD;
+    border-top: 1px solid #cdcdcd;
     margin-top: 30px;
     padding-top: 30px;
     @include breakpoint(lg) {

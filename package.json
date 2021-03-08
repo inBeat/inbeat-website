@@ -20,7 +20,6 @@
   ],
   "author": "Akia Marketing",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "@tryghost/content-api": "^1.4.13",
     "browser-sync": "^2.26.12",

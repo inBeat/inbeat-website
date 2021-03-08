@@ -50,7 +50,7 @@
 
 #engagement-calculator {
     .card {
-        border: 1px solid #DCDCDC;
+        border: 1px solid #dcdcdc;
         box-sizing: border-box;
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
         border-radius: 1px;
@@ -63,6 +63,12 @@
         text-align: center;
         color: red;
         margin-top: -20px;
+        margin-bottom: 60px;
+    }
+    .maintenance {
+        text-align: center;
+        color: red;
+        margin-top: 40px;
         margin-bottom: 60px;
     }
 }
@@ -138,9 +144,15 @@
             .card {
                 height: 100%;
             }
-            &.likes svg { fill: $red; }
-            &.engagement svg { fill: $green; }
-            &.comments svg { fill: $yellow; }
+            &.likes svg {
+                fill: $red;
+            }
+            &.engagement svg {
+                fill: $green;
+            }
+            &.comments svg {
+                fill: $yellow;
+            }
         }
         .graph {
             text-align: left;
@@ -169,7 +181,7 @@
                 margin-top: 0;
             }
             .post {
-                border: 1px solid #EBEBEB;
+                border: 1px solid #ebebeb;
                 border-radius: 2px;
                 margin-bottom: 20px;
                 text-align: center;
@@ -202,12 +214,12 @@
                         height: 8px;
                         vertical-align: middle;
                         margin: 0 2px 0;
-                        fill: #D6D6D6 !important;
+                        fill: #d6d6d6 !important;
                     }
                     span {
                         display: inline-block;
                         &:first-child {
-                            svg {
+                            svg  {
                                 margin-left: 0;
                             }
                         }
@@ -255,12 +267,13 @@
 }
 
 .slide-fade-enter-active {
-    transition: all .2s ease;
+    transition: all 0.2s ease;
 }
 .slide-fade-leave-active {
-    transition: all .2s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+    transition: all 0.2s cubic-bezier(1, 0.5, 0.8, 1);
 }
-.slide-fade-enter, .slide-fade-leave-to {
+.slide-fade-enter,
+.slide-fade-leave-to {
     transform: translateX(10px);
     opacity: 0;
 }
