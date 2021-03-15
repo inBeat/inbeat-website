@@ -2,8 +2,8 @@
 h1 {
     font-weight: 500;
     font-size: 2rem;
-    line-height: 2.75rem;    
-    letter-spacing: -1.4px; 
+    line-height: 2.75rem;
+    letter-spacing: -1.4px;
     @include breakpoint(sm) {
         font-size: 3.125rem;
         line-height: 3.875rem;
@@ -13,19 +13,19 @@ h1 {
 h2 {
     font-weight: 500;
     font-size: 1.875rem;
-    line-height: 2.75rem;    
+    line-height: 2.75rem;
     letter-spacing: -1.4px;
     margin-top: 3.5rem;
     @include breakpoint(sm) {
         font-size: 2.5rem;
-        line-height: 3.875rem; 
+        line-height: 3.875rem;
     }
 }
 
 h3 {
     font-weight: 500;
     font-size: 1.5625rem;
-    line-height: 2.125rem;    
+    line-height: 2.125rem;
     letter-spacing: -1.4px;
     @include breakpoint(sm) {
         font-size: 1.75rem;
@@ -39,8 +39,8 @@ h4 {
     line-height: 1.6875rem;
     @include breakpoint(sm) {
         font-size: 1.375rem;
-        line-height: 2.125rem; 
-    }   
+        line-height: 2.125rem;
+    }
 }
 
 h5 {
@@ -51,7 +51,7 @@ h5 {
     @include breakpoint(sm) {
         font-size: 1.375rem;
         line-height: 2rem;
-    }  
+    }
 }
 
 #article-ctn {
@@ -103,25 +103,45 @@ h5 {
         }
     }
     &.tips {
-        .category { background-color: $red_sub; }
-        .infos { color: $red !important; }
+        .category {
+            background-color: $red_sub;
+        }
+        .infos {
+            color: $red !important;
+        }
     }
     &.studies {
-        .category { background-color: $green_sub; }
-        .infos { color: $green !important; }
+        .category {
+            background-color: $green_sub;
+        }
+        .infos {
+            color: $green !important;
+        }
     }
-    &.tutorials, &.wikis {
-        .category { background-color: $yellow_sub; }
-        .infos { color: $yellow !important; }
+    &.tutorials,
+    &.wikis {
+        .category {
+            background-color: $yellow_sub;
+        }
+        .infos {
+            color: $yellow !important;
+        }
     }
     &.podcasts {
-        .category { background-color: $dark; color: white; }
-        .infos { color: $dark !important; }
+        .category {
+            background-color: $dark;
+            color: white;
+        }
+        .infos {
+            color: $dark !important;
+        }
     }
 }
 
 #article-body {
-    ul, ol, li {
+    ul,
+    ol,
+    li {
         font-family: $blogfont;
         font-weight: 300;
         font-size: 1.0625rem;
@@ -155,7 +175,7 @@ h5 {
             position: relative;
             margin: 1rem 0;
             &:before {
-                content: '';
+                content: "";
                 position: absolute;
                 left: -35px;
                 top: 0.5rem;
@@ -191,6 +211,12 @@ h5 {
     }
     figure {
         text-align: center;
+        &.kg-width-full {
+            img {
+                max-width: 100vw;
+                max-height: initial;
+            }
+        }
     }
     figcaption {
         color: $dark_sub;
@@ -241,31 +267,59 @@ h5 {
         margin-bottom: 2em !important;
     }
     &.tips {
-        ul li::before, blockquote { border-color: $red; }
-        ol li::before { color: $red; }
+        ul li::before,
+        blockquote {
+            border-color: $red;
+        }
+        ol li::before {
+            color: $red;
+        }
         .pro-tip {
             background: $red_sub;
-            span { color: $red; }
+            span {
+                color: $red;
+            }
         }
-        h5 { color: $red; }
+        h5 {
+            color: $red;
+        }
     }
     &.studies {
-        ul li::before, blockquote { border-color: $green; }
-        ol li::before { color: $green; }
+        ul li::before,
+        blockquote {
+            border-color: $green;
+        }
+        ol li::before {
+            color: $green;
+        }
         .pro-tip {
             background: $green_sub;
-            span { color: $green; }
+            span {
+                color: $green;
+            }
         }
-        h5 { color: $green; }
+        h5 {
+            color: $green;
+        }
     }
-    &.tutorials, &.wikis {
-        ul li::before, blockquote { border-color: $yellow; }
-        ol li::before { color: $yellow; }
+    &.tutorials,
+    &.wikis {
+        ul li::before,
+        blockquote {
+            border-color: $yellow;
+        }
+        ol li::before {
+            color: $yellow;
+        }
         .pro-tip {
             background: $yellow_sub;
-            span { color: $yellow; }
+            span {
+                color: $yellow;
+            }
         }
-        h5 { color: $yellow; }
+        h5 {
+            color: $yellow;
+        }
     }
     &.podcasts {
         padding-top: 40px;
@@ -294,7 +348,7 @@ h5 {
         display: inline-block;
     }
     span {
-        font-weight: bold;;
+        font-weight: bold;
     }
     .col-xs-12 {
         padding: 1.5rem 1.5rem 2.5rem;
@@ -305,10 +359,12 @@ h5 {
     .tips {
         background-color: $red_sub;
     }
-    .studies, .podcasts {
+    .studies,
+    .podcasts {
         background-color: $green_sub;
     }
-    .tutorials, .wikis {
+    .tutorials,
+    .wikis {
         background-color: $yellow_sub;
     }
     // .podcasts {
