@@ -1,8 +1,11 @@
 {{ define "main" }}
 <section class="container mobile-adjusted page-top categories" id="featured-posts">
     <div class="row">
-        <div class="col-xs-12">
-            <h1>{{.Title}}</h1>
+        <div class="col-xs-12 category-title">
+            <h1>{{ .Params.h1 | default .Title }}</h1>
+            {{- if not (eq .Content "") -}}
+            {{ .Content }}
+            {{- end -}}
         </div>
         <div class="col-xs-12 posts-list-title">
             <p>Recent</p>

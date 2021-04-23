@@ -34,6 +34,27 @@
 </section>
 {{- end -}}
 
+{{- if (isset .Site.Taxonomies.categories "ambassador-marketing") -}}
+<section class="container mobile-adjusted post-list ambassador-marketing">
+    <div class="row">
+        <div class="col-xs-12 posts-list-title">
+            <p>Ambassador Marketing</p>
+        </div>
+        {{- range (index .Site.Taxonomies.categories "ambassador-marketing") -}}
+        <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="post">
+                <p class="title">
+                    <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+                </p>
+                {{- $author := index .Params.authors 0 -}}
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+{{- end -}}
+
 {{- if (isset .Site.Taxonomies.categories "tutorials") -}}
 <section class="container mobile-adjusted post-list tutorials">
     <div class="row">

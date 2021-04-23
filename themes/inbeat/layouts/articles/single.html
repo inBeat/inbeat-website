@@ -7,7 +7,7 @@
 {{- end -}}
 <section class="container mobile-adjusted page-top" id="article-ctn">
     <div class="row">
-        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-header">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category | urlize }}{{ end }}" id="article-header">
             {{- if $hasCategory -}}
             <a href="{{ $.Site.BaseURL }}categories/{{ $category | urlize }}" class="category">
                 {{- $category | upper -}}
@@ -32,12 +32,12 @@
             </div>
             <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
         </div>
-        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-body">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category | urlize }}{{ end }}" id="article-body">
             {{ .Content }}
         </div>
     </div>
     <div class="row" id="article-cta">
-        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category | urlize }}{{ end }}">
             <h2>inBeat, for free</h2>
             <h3>Get your Influencer campaign started.</h3>
             <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-lg" target="_blank">

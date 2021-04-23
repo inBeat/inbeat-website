@@ -110,7 +110,9 @@ h5 {
             color: $red !important;
         }
     }
-    &.studies {
+    &.studies,
+    &.guides,
+    &.ambassador-marketing {
         .category {
             background-color: $green_sub;
         }
@@ -284,7 +286,9 @@ h5 {
             color: $red;
         }
     }
-    &.studies {
+    &.studies,
+    &.guides,
+    &.ambassador-marketing {
         ul li::before,
         blockquote {
             border-color: $green;
@@ -360,7 +364,9 @@ h5 {
         background-color: $red_sub;
     }
     .studies,
-    .podcasts {
+    .podcasts,
+    .guides,
+    .ambassador-marketing {
         background-color: $green_sub;
     }
     .tutorials,
