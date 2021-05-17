@@ -1,0 +1,88 @@
+{{- define "main" -}}
+{{- with .Params.hero -}}
+<section class="container mobile-adjusted mip" id="hero">
+  <h1>{{- .title | markdownify -}}</h1>
+  <h4>{{- .subtitle | markdownify -}}</h4>
+  <div class="cta">
+    <a href="https://app.inbeat.co/get-started" class="btn btn-lg btn-crazy-hover" title="Start Your Campaign Now" id="hero-cta">
+      Start Your Campaign Now
+    </a>
+  </div>
+</section>
+{{- end -}}
+
+<section class="container mobile-adjusted mip" id="brands">
+  {{- range .Params.brands -}}
+  <img src="{{- .img -}}" alt="{{- .title -}}">
+  {{- end -}}
+</section>
+
+<section class="container mobile-adjusted" id="reel">
+  <script src="https://fast.wistia.com/embed/medias/7kl59p4frl.jsonp" async></script>
+  <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+  <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+    <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+      <div class="wistia_embed wistia_async_7kl59p4frl videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div>
+    </div>
+  </div>
+</section>
+
+<section class="container m-tb-160 mobile-adjusted" id="extras">
+  <div class="row large-gutter">
+    {{- range .Params.extras -}}
+    <div class="col-xs-12 col-lg-4">
+      {{- partial (printf "icons/%s.html" .icon) -}}
+      <h3>{{- .title -}}</h3>
+      <p>{{- .text -}}</p>
+    </div>
+    {{- end -}}
+  </div>
+</section>
+
+{{- range .Params.features -}}
+<section class="container m-tb-80 dfy-features" id="{{- .id -}}">
+  <div class="row middle-xs">
+    <div class="col-xs-12 col-md-4 left-col">
+      <h2>{{- .title -}}</h2>
+      <p>{{- .text | markdownify -}}</p>
+      {{- with .testimonial -}}
+      <div class="testimonial">
+        <p>{{- .text -}}</p>
+        <p class="author">
+          <img src="{{- .img -}}" alt="{{- .author -}}">
+          <strong>{{- .author -}}</strong><br>
+          <span>{{- .title -}}</span>
+        </p>
+      </div>
+      {{- end -}}
+    </div>
+    <div class="col-xs-12 col-md-7 col-md-offset-1">
+      <img src="{{- .img -}}" alt="">
+    </div>
+  </div>
+</section>
+{{- end -}}
+
+<section class="container mobile-adjusted m-tb-160" id="included">
+  <div class="row">
+    <div class="col-xs-12">
+      <h4>Campaigns include →</h4>
+    </div>
+    {{- range .Params.included -}}
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <p class="title">{{- .title -}}</p>
+      <p class="small">{{- .description -}}</p>
+    </div>
+    {{- end -}}
+  </div>
+</section>
+
+<section id="dfy-cta">
+  <h2>Get Started</h2>
+  <p>Dive into your influencer campaign<br>today, with inBeat.</p>
+  <a href="{{- $.Site.Data.settings.bookcall -}}" class="btn btn-lg" title="Schedule a call">
+    Schedule a call
+  </a>
+</section>
+
+{{- end -}}
