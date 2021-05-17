@@ -8,5 +8,4 @@ layout: engagement-rate
 titre: Instagram Engagement Rate Calculator
 subtitle: "Analyze Instagram influencers: follower count,<br>engagement rate, popular content and more."
 platform: instagram
-maintenance: true
 ---
