@@ -17,18 +17,38 @@
   {{- end -}}
 </section>
 
-<section class="container mobile-adjusted" id="reel">
-  <script src="https://fast.wistia.com/embed/medias/7kl59p4frl.jsonp" async></script>
-  <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-  <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-    <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-      <div class="wistia_embed wistia_async_7kl59p4frl videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div>
-    </div>
+<section class="container mobile-adjusted mip" id="advantages1">
+  {{- range $i,$v := .Params.advantages1 -}}
+  <div class="row middle-xs">
+    {{if not (modBool $i 2)}}
+      <div class="col-xs-12 col-md-6 img">
+        <img src="{{- .img -}}" alt="">
+      </div>
+      <div class="col-xs-12 col-md-5 col-md-offset-1">
+        <h2>{{- .title -}}</h2>
+        <p>{{- .text -}}</p>
+        <a href="{{- $.Site.Data.settings.bookcall -}}" class="btn btn-lg" title="Schedule a call">
+          Schedule a call
+        </a>
+      </div>
+    {{else}}
+      <div class="col-xs-12 col-md-5">
+        <h2>{{- .title -}}</h2>
+        <p>{{- .text -}}</p>
+        <a href="{{- $.Site.Data.settings.bookcall -}}" class="btn btn-lg" title="Schedule a call">
+          Schedule a call
+        </a>
+      </div>
+      <div class="col-xs-12 col-md-6 col-md-offset-1 img">
+        <img src="{{- $v.img -}}" alt="">
+      </div>
+    {{end}}
   </div>
+  {{- end -}}
 </section>
 
-<section class="container m-tb-160 mobile-adjusted" id="extras">
-  <div class="row large-gutter">
+<section class="mobile-adjusted mip" id="extras">
+  <div class="container row large-gutter">
     {{- range .Params.extras -}}
     <div class="col-xs-12 col-lg-4">
       {{- partial (printf "icons/%s.html" .icon) -}}
@@ -39,8 +59,36 @@
   </div>
 </section>
 
-{{- range .Params.features -}}
-<section class="container m-tb-80 dfy-features" id="{{- .id -}}">
+<section class="container mobile-adjusted mip" id="advantages2">
+  <div class="row large-gutter">
+    {{- range $i,$v := .Params.advantages2 -}}
+    <div class="col-xs-12 col-lg-4">
+      <div class="col col-{{- $i -}}">
+        <h3>{{- .title -}}</h3>
+        <p>{{- .text -}}</p>
+      </div>
+    </div>
+    {{- end -}}
+  </div>
+</section>
+
+<section class="mobile-adjusted m-tb-160 mip" id="features">
+  <div class="row container">
+    <div class="col-xs-12">
+      <h4>Micro-influencer marketing platform features →</h4>
+    </div>
+    {{- range .Params.features -}}
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <p class="title">{{- .title -}}</p>
+      <p class="small">{{- .description -}}</p>
+    </div>
+    {{- end -}}
+  </div>
+</section>
+
+<h2 class="container">Case Studies</h2>
+{{- range .Params.studies -}}
+<section class="container m-tb-80 mip study" id="{{- .id -}}">
   <div class="row middle-xs">
     <div class="col-xs-12 col-md-4 left-col">
       <h2>{{- .title -}}</h2>
@@ -58,31 +106,45 @@
     </div>
     <div class="col-xs-12 col-md-7 col-md-offset-1">
       <img src="{{- .img -}}" alt="">
+      <div class="nums">
+        {{- range .nums -}}
+        <div class="num">
+          <p class="title">{{- .num -}}</p>
+          <p class="description">{{- .text -}}</p>
+        </div>
+        {{- end -}}
+      </div>
     </div>
   </div>
 </section>
 {{- end -}}
 
-<section class="container mobile-adjusted m-tb-160" id="included">
-  <div class="row">
-    <div class="col-xs-12">
-      <h4>Campaigns include →</h4>
+{{- with .Params.gotmilk -}}
+<section class="container m-tb-80 mip study" id="gotmilk">
+  <div class="row middle-xs">
+    <div class="col-xs-12 col-md-4 left-col">
+      <h2>{{- .title | markdownify -}}</h2>
+      <p>{{- .text | markdownify -}}</p>
     </div>
-    {{- range .Params.included -}}
-    <div class="col-xs-12 col-sm-6 col-md-3">
-      <p class="title">{{- .title -}}</p>
-      <p class="small">{{- .description -}}</p>
+    <div class="col-xs-12 col-md-7 col-md-offset-1">
+      <iframe title="vimeo-player" src="{{- .video -}}"
+              width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
     </div>
-    {{- end -}}
   </div>
 </section>
+{{- end -}}
 
-<section id="dfy-cta">
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.micro_influencers_platform.faq1 "id" "home-faq" "title" "Fairly asked questions") -}}
+
+<section class="mip cta">
   <h2>Get Started</h2>
   <p>Dive into your influencer campaign<br>today, with inBeat.</p>
-  <a href="{{- $.Site.Data.settings.bookcall -}}" class="btn btn-lg" title="Schedule a call">
-    Schedule a call
+  <a href="https://app.inbeat.co/get-started" class="btn btn-lg" title="Sign-Up">
+    Sign-Up
   </a>
 </section>
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.micro_influencers_platform.faq2 "id" "home-faq" "title" "Fairly asked questions") -}}
+
 
 {{- end -}}

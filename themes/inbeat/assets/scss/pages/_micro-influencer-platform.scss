@@ -14,4 +14,153 @@
     align-items: center;
     margin-bottom: 6.5rem;
   }
+  &#advantages1 {
+    .row {
+      margin-bottom: 100px;
+      &:first-of-type {
+        margin-bottom: 50px;
+      }
+    }
+    .img {
+      display: flex;
+      justify-content: center;
+    }
+    h2 {
+      margin-bottom: 2.5rem;
+    }
+    p {
+      margin-bottom: 5rem;
+    }
+  }
+  &#extras {
+    background: rgba(235,235,235,0.25);
+    .container {
+      margin: 0 auto 9rem 0;
+      padding: 10rem 0;
+    }
+  }
+  &#advantages2 {
+    margin-bottom: 8rem;
+    h3 {
+      margin-bottom: 2rem;
+    }
+    .col {
+      height: 100%;
+      padding: 40px 20px 0 20px;
+    }
+    .col-0 {
+      background: #FFE9F0;
+    }
+    .col-1 {
+      background: #FAECDB;
+    }
+    .col-2{
+      background: #D6EBE4;
+    }
+  }
+  &#features {
+    background: rgba(235,235,235,0.25);
+    .container {
+      margin: 0 auto;
+    }
+    .title {
+      font-weight: 500;
+    }
+    .small {
+      color: darkgray;
+    }
+  }
+  &.study {
+    padding: 30px 25px;
+    box-sizing: border-box;
+    outline: none !important;
+    @include breakpoint(xs) {
+      padding: 50px 35px;
+    }
+    @include breakpoint(sm) {
+      padding: 58px 51px;
+    }
+    @include breakpoint(sm-down) {
+      margin: 0 !important;
+    }
+    &#phone {
+      background-color: $red_sub;
+    }
+    &#deux {
+      background-color: $green_sub;
+    }
+    &#gotmilk {
+      background-color: #DFD6EB;
+      .row {
+        align-items: stretch;
+      }
+    }
+    .left-col {
+      position: relative;
+    }
+    p {
+      @include breakpoint(md) {
+        margin-bottom: 3rem;
+      }
+    }
+    img {
+      max-width: 100%;
+    }
+    .testimonial {
+      padding: 25px;
+      background: white;
+      margin-bottom: 24px;
+      @include breakpoint(md) {
+        margin-bottom: 0;
+      }
+      p {
+        font-size: 0.875rem;
+        margin: 0;
+        &.author {
+          margin-top: 20px;
+          // To align with the image
+          line-height: 1.6rem;
+        }
+      }
+      img {
+        width: 50px;
+        height: 50px;
+        float: left;
+        margin-right: 20px;
+      }
+    }
+    .nums {
+      display: flex;
+      flex-direction: row;
+    }
+    .num {
+      margin-left: 50px;
+      &:first-child {
+        margin-left: 0;
+      }
+      padding: 65px 0;
+      p {
+        margin: 5px 0;
+      }
+      .title {
+        font-size: 2rem;
+        font-weight: 400;
+      }
+      .description {
+        font-size: 0.8rem;
+        color: #797979;
+      }
+    }
+  }
+  &.cta {
+    animation: crazy 2s infinite;
+    text-align: center;
+    padding: 100px 0px 120px;
+    @include breakpoint(lg) {
+      padding: 160px 0px 180px;
+    }
+    p {
+      margin-bottom: 70px;
+    }
+  }
 }
