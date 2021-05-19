@@ -153,7 +153,7 @@ engagement:
         the influencers we work with throughout our influencer marketing campaigns. It isn't the only thing you should analyze.
         Instagram influencers can purchase fake comments and likes, which can make this metric obsolete. Although there are
         tools out there to calculate the number of fake followers, a judgment call will always outperform these tools. Ask
-        yourself questions such as: are there comments shallow or off-topic? Do they have a low number of comments? 
+        yourself questions such as: are there comments shallow or off-topic? Do they have a low number of comments?
   tiktok:
     - question: How do You Calculate a TikTok Account's Engagement Rate?
       answer: >-
@@ -163,7 +163,7 @@ engagement:
       answer: >-
         It provides you a good overview of a TikTok influencer's audience engagement. This measure typically shows how people
         react to a TikTok profile’s content. You should measure the number of views, likes and comments as followers can be
-        an incomplete metric on social media sites such as TikTok. 
+        an incomplete metric on social media sites such as TikTok.
     - question: Why Use inBeat's TikTok Engagement Calculator?
       answer: >-
         It's free, and it saves you a good amount of time. We don't ask for an email or watermark your report. If you need to,
@@ -174,4 +174,59 @@ engagement:
         The engagement rate will show you how an influencer’s audience interacts with their content on TikTok. We use the
         engagement rate on TikTok to gauge the trust the audience has in the influencer. Now, it isn’t the only thing you
         should analyze. TikTok influencers can purchase fake comments and likes, which can bias this metric. Although there
-        are tools to calculate the fake follower count, a judgment call will almost always outperform these tools. 
+        are tools to calculate the fake follower count, a judgment call will almost always outperform these tools.
+micro_influencers_platform:
+  faq1:
+    - question: What is a micro-influencer?
+      answer: >-
+        A social media influencer with a 10k-to-100k following that drives higher engagement rates than influencers with
+        millions of followers. Micro-influencers tend to be much more cost-effective than larger influencers and have
+        an authentic voice for speaking about your product and brand.
+    - question: How Can the content be authentic if micro-influencers are being paid to create it?
+      answer: >-
+        Micro-influencers created an audience over a long time in your niche market before they began getting paid for it.
+        They already have passion for your market which now aligns with your brand.
+        <br><br>
+        Micro-influencers have loyal followers that expect products featured by the influencer in your niche area.
+        This is the opposite of celebrity influencers, who get paid to promote products with no experience beforehand.
+    - question: How do i use your micro-influencer marketing platform?
+      answer: >-
+        There is a quick sign-up process, and then you can begin filtering through the database for influencers that
+        match your criteria. You'll receive contact details for the influencers you select to negotiate rates.
+        <br><br>
+        After you've hired influencers for your brand, you can set-up campaigns and social media content objectives
+        on the platform. All analytics are monitored & displayed through the marketing platform.
+  faq2:
+    - question: Can I cancel my subscription whenever I want?
+      answer: >-
+        Yes, you can change or cancel your plan at any time in your settings. Once you have canceled your plan, you will
+        retain access to your premium plan until the end of your subscription cycle. At this point, you will be moved
+        to our free plan.
+    - question: What forms of payments do you accept?
+      answer: >-
+        We currently support most major credit cards (Visa, Mastercard, and American Express).
+    - question: How many credits do I need?
+      answer: >-
+        This depends on the scale at which you want to do influencer marketing. Think about how many influencers you
+        want to work with and how many you will need to contact. Our experience is that 200 creadits is enough for 1
+        campaign per month.
+    - question: What is a campaign?
+      answer: >-
+        An influencer marketing campaign usually represents a specific outreach effort. For example, you want to outreach
+        100 potential influencers for a back-to-school campaign. It is an easy way to manage the lifecycle of your
+        influencer marketing.
+    - question: What do I get When I export my campaign?
+      answer: >-
+        You will receive the following information, if available: Handle, Email, Profile URL, Language, Followers,
+        Engagement, Topics, Website.
+    - question: We are a charity, do you have any special discount?
+      answer: >-
+        Absolutely. [Contact us](mailto:david@inbeat.co) and we will unlock uor charity plan for you
+    - question: What counts as a monthly credit?
+      answer: >-
+        For each influencer you export in campaign, you will be charged 1 credit. If the influencer does not have an
+        email linked to it, you will not be charged. If you export the same influencer in multiple campaigns, you will
+        only be charged once. If you're on Free Plan, you still can't export contacts without email.
+    - question: Can i exceed my plan's credit?
+      answer: >-
+        Our system will warn you if you exceed your plan limit. You will be able to upgrade your plan at this stage.
