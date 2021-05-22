@@ -35,7 +35,7 @@
   &#extras {
     background: rgba(235,235,235,0.25);
     .container {
-      margin: 0 auto 9rem 0;
+      margin: 0 auto 9rem auto;
       padding: 10rem 0;
     }
   }
@@ -62,6 +62,7 @@
     background: rgba(235,235,235,0.25);
     .container {
       margin: 0 auto;
+      padding: 10rem 0;
     }
     .title {
       font-weight: 500;
