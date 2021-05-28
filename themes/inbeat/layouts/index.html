@@ -31,7 +31,9 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a href="{{ $.Site.BaseURL -}}{{- .link.link -}}" class="learn-more hide-md">
+            {{ if isset .Params.features.class "popupTrigger" }}sdad{{ end }}
+            
+            <a  class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
@@ -46,7 +48,7 @@
                     <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' /> -->
                 </video>    
             </div>
-            <a href="{{ $.Site.BaseURL -}}{{- .link.link -}}" class="learn-more hide-md-up">
+            <a class="learn-more hide-md-up">
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
@@ -137,5 +139,7 @@
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
+
+{{- partial "site/popup.html" (dict "context" . "video" "deep-search" "button" .Params.hero) -}}
 
 {{- end -}}

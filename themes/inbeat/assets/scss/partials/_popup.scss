@@ -1,0 +1,94 @@
+@keyframes toggleOverlay {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+@keyframes togglePopup {
+	from {
+		opacity: 0;
+		transform: translateY(100px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(32px);
+	}
+}
+.popupTrigger {
+	cursor: pointer;
+}
+#popupOverlay {
+	opacity: 0;
+	display: none;
+	background: rgba(0, 0, 0, 0.6);
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	&.popupOverlay--fadeIn {
+		animation: toggleOverlay forwards 0.2s ease-in-out;
+		display: block;
+	}
+	.popup {
+		@include breakpoint(xs) {
+			width: 600px;
+			height: 490px;
+		}
+		@include breakpoint(sm) {
+			width: 800px;
+			height: 600px;
+		}
+		@include breakpoint(md) {
+			width: 1000px;
+			height: 720px;
+		}
+		opacity: 0;
+		background-color: white;
+		position: absolute;
+		transform: translateY(100px);
+		&.popupInner--fadeIn {
+			animation: togglePopup forwards 0.25s cubic-bezier(0.25, 0.62, 0.15, 1);
+			animation-delay: 0.2s;
+			display: block;
+		}
+		.video {
+			padding: 50px;
+			video {
+				border-radius: 10px;
+				width: 100%;
+			}
+		}
+		.close {
+			cursor: pointer;
+			position: absolute;
+			top: 0;
+			right: 0;
+			padding: 20px;
+			svg {
+				width: 20px;
+				height: 20px;
+			}
+		}
+		.btn {
+			width: 100% !important;
+		}
+		button {
+			background-color: #151515;
+			color: white;
+			height: 112px;
+			border: none;
+			font-size: 18px;
+			font-weight: 400;
+			position: absolute;
+			bottom: 0;
+			padding: 5px 0px;
+			width: 100%;
+			cursor: pointer;
+			border-radius: 0;
+			outline: none !important;
+		}
+	}
+}

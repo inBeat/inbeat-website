@@ -231,6 +231,70 @@ function topInfluencers() {
     } 
 }
 
+function popup()
+{
+    // Get Popup from the DOM
+    var popupOverlay = document.getElementById('popupOverlay');
+    var innerPopup = popupOverlay.querySelector(".popup");
+    var closeBtn = popupOverlay.querySelector(".close")
+    var videoPlayer = document.getElementById("popupVideo");
+    var isOpen = false;
+
+    // Set the position of the popup to always be centered
+    function position() {
+       var pageWidth = window.innerWidth,
+           pageHeight = window.innerHeight;
+           innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2)  + "px";
+           innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
+    }
+
+    // Open/Close popup
+    function toggle(){
+        popupOverlay.classList.toggle('popupOverlay--fadeIn');
+        innerPopup.classList.toggle('popupInner--fadeIn');
+        
+        isOpen = !isOpen;
+
+        // Toggle player play or pause
+        if(isOpen){
+            videoPlayer.play();
+            videoPlayer.volume = 0.2; 
+        }else{
+            videoPlayer.pause();
+            videoPlayer.currentTime = 0;
+        }
+    }
+
+    // For each DIV that have the class .popupTrigger, when click open et set position of the popup
+    document.querySelectorAll('.popupTrigger').forEach(function(item) {
+      item.addEventListener('click', function(e) {
+          e.preventDefault();
+        toggle();
+        position();
+      })
+    })
+      
+    // Close popup if click on overlay
+    popupOverlay.addEventListener('click', function(e) {
+        if (!e.target.classList.contains('popup-overlay')) return;
+        toggle(e);
+    })
+
+    // Close popup if click on X button
+    closeBtn.addEventListener('click', function() {
+        toggle();
+    })
+
+    // Listen to resize event and don't position if the popup is closed
+    window.addEventListener('resize', function(){
+        if(isOpen){
+            position();
+        }else{
+            return
+        }
+    });
+}
+
 (function() {
     scrollTo();
     header();
@@ -238,4 +302,5 @@ function topInfluencers() {
     pricing();
     affiliate();
     topInfluencers();
+    popup();
 })();
