@@ -237,6 +237,7 @@ function popup()
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
+    var section = document.querySelectorAll("section")
     var videoPlayer = document.getElementById("popupVideo");
     var isOpen = false;
 
@@ -252,16 +253,22 @@ function popup()
     function toggle(){
         popupOverlay.classList.toggle('popupOverlay--fadeIn');
         innerPopup.classList.toggle('popupInner--fadeIn');
-        
+
         isOpen = !isOpen;
 
         // Toggle player play or pause
         if(isOpen){
             videoPlayer.play();
             videoPlayer.volume = 0.2; 
+            document.querySelectorAll('section').forEach(function(item) {
+                item.classList.add("blur");
+            })
         }else{
             videoPlayer.pause();
             videoPlayer.currentTime = 0;
+            document.querySelectorAll('section').forEach(function(item) {
+                item.classList.remove("blur");
+            })
         }
     }
 

@@ -19,7 +19,15 @@
 .popupTrigger {
 	cursor: pointer;
 }
+.blur:not(#popupOverlay):not(#header){
+	filter: blur(6px);
+	-webkit-filter: blur(6px);
+	-moz-filter: blur(6px);
+	-o-filter: blur(6px);
+	-ms-filter: blur(6px);
+}
 #popupOverlay {
+
 	opacity: 0;
 	display: none;
 	background: rgba(0, 0, 0, 0.6);
@@ -33,6 +41,7 @@
 		display: block;
 	}
 	.popup {
+
 		@include breakpoint(xs) {
 			width: 600px;
 			height: 490px;
