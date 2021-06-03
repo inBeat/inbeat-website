@@ -260,12 +260,14 @@ function popup()
         if(isOpen){
             videoPlayer.play();
             videoPlayer.volume = 0.2; 
+            document.body.style.overflow = 'hidden';
             document.querySelectorAll('section').forEach(function(item) {
                 item.classList.add("blur");
             })
         }else{
             videoPlayer.pause();
             videoPlayer.currentTime = 0;
+            document.body.style.overflow = 'visible';
             document.querySelectorAll('section').forEach(function(item) {
                 item.classList.remove("blur");
             })
