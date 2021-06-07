@@ -13,23 +13,25 @@ hero:
     link: https://app.inbeat.co/get-started
 features:
   - id: search
+    class: popupTrigger
     title: Search with flexibility
     text: >-
       Explore our <span>spam-checked database</span> of influencers using metrics and
       keywords to find the profiles you need.
     link:
-      text: View all our Search Filters &#8594;
+      text: Watch Video &#8594;
       link: 'features/discover'
     question:
       text: How do you spam-check your influencers?
       link: '#home-faq'
     video: search-with-flexibility
   - id: pick
+    class: popupTrigger
     title: Pick out the bestest
     text: >-
       <span>Quickly</span> go through results and add the fitting influencers to your list. 
     link:
-      text: Learn more &#8594;
+      text: Watch Video &#8594;
       link: 'features/discover'
     question:
       text: Database vs marketplace?
