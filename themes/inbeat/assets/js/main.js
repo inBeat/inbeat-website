@@ -237,7 +237,6 @@ function popup()
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
-    var section = document.querySelectorAll("section")
     var videoPlayer = document.getElementById("popupVideo");
     var isOpen = false;
 
@@ -277,7 +276,7 @@ function popup()
     // For each DIV that have the class .popupTrigger, when click open et set position of the popup
     document.querySelectorAll('.popupTrigger').forEach(function(item) {
       item.addEventListener('click', function(e) {
-          e.preventDefault();
+        e.preventDefault();
         toggle();
         position();
       })
