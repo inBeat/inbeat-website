@@ -238,12 +238,28 @@ function popup()
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
     var videoPlayer = document.getElementById("popupVideo");
+    var videoParent = popupOverlay.querySelector(".video")
     var isOpen = false;
+    var defaultWidth = innerPopup.style.width;
+    var defaultHeight = innerPopup.style.height;
+    var mediaQuery = window.matchMedia('(max-width: 768px)')
 
     // Set the position of the popup to always be centered
     function position() {
        var pageWidth = window.innerWidth,
            pageHeight = window.innerHeight;
+
+           // Check if the media query is true
+           if (mediaQuery.matches) {
+           innerPopup.style.width = pageWidth + 'px';
+           innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
+           videoPlayer.style.borderRadius = '0px';
+           videoParent.style.padding = '0px';
+           }else{
+            innerPopup.style.width =  defaultWidth;
+            innerPopup.style.height = defaultHeight;
+            videoParent.style.padding = '50px';  
+           }
            innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2)  + "px";
            innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
     }
