@@ -39,6 +39,7 @@ features:
     question:
       text: How do you spam-check your influencers?
       link: '#home-faq'
+      tooltip: We use several spam checking metrics and identify fake followers to vet the influencers we add to our database. 
     video: search-with-flexibility
   - id: pick
     class: popupTrigger
@@ -51,6 +52,7 @@ features:
     question:
       text: Database vs marketplace?
       link: '#home-faq'
+      tooltip: Our platform features influencers to whom we have no relationship to. We are a database of automatically added creators not a talent agency. 
     video: pick-out-the-bestest
   - id: export
     title: Export for outreach
@@ -63,6 +65,7 @@ features:
     question:
       text: What can I do with the exports?
       link: '#home-faq'
+      tooltip: With a CSV export, you can run mass-contact outreach campaigns with other tools to contact influencers in bulk.
     video: export-for-outreach
 extras:
   - title: Unlimited Searches

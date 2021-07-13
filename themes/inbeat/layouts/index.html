@@ -26,7 +26,14 @@
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
-            <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
+            <div id="tooltip-element">
+                <p>
+                    <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
+                    <span class="tooltip">
+                        {{- .tooltip -}}
+                    </span>
+                </p> 
+            </div>
             {{- end -}}
         </div>
         <div class="col-xs-12 col-md-7 col-md-offset-1">
