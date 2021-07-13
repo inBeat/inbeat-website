@@ -1,20 +1,33 @@
-#testimonial {
-    border-bottom: 1px solid $dark;
-    padding-top: 60px;
-    padding-bottom: 60px;
-    @include breakpoint(lg) {
-        padding-top: 80px;
-        padding-bottom: 120px;
-    }
-    .quote {
-        color: $dark_sub;
-        font-size: 1.3rem;
-        line-height: 1.5rem;
-    }
-    img {
-        height: 40px;
-        width: auto;
-        vertical-align: middle;
-        margin-right: 20px;
-    }
+#testimonials {
+	background-color: $light_grey;
+	.box {
+		@include breakpoint(md-down) {
+			margin: 0.625rem;
+		}
+		display: flex;
+		.inner-box {
+			background-color: $white;
+			padding: 45px 32px;
+			p {
+				margin: 0;
+				padding: 0;
+			}
+			.client {
+				padding-top: 32px;
+				display: flex;
+				img {
+					float: left;
+					align-self: center;
+				}
+				.client-info {
+					padding-left: 25px;
+
+					.job {
+						opacity: 0.7;
+						color: $dark_sub;
+					}
+				}
+			}
+		}
+	}
 }

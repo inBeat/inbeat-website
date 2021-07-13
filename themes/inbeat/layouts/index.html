@@ -14,16 +14,7 @@
 </section>
 {{- end -}}
 
-<section class="container m-tb-80 mobile-adjusted" id="clients">
-    <div class="row between-xs middle-xs">
-        <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
-        <div class="icons">{{- partial "icons/moose.html" -}}</div>
-        <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
-        <div class="icons">{{- partial "icons/nissan.html" -}}</div>
-        <div class="icons">{{- partial "icons/loop.html" -}}</div>
-        <div class="icons">{{- partial "icons/bedtime.html" -}}</div>
-    </div>
-</section>
+{{- partial "site/testimonial.html" . -}}
 
 {{- range .Params.features -}}
 <section class="container m-tb-80 home-features" id="{{- .id -}}">
@@ -57,7 +48,7 @@
 </section>
 {{- end -}}
 
-{{- partial "site/testimonial.html" . -}}
+
 
 <section class="container m-tb-160 mobile-adjusted" id="extras">
     <div class="row large-gutter">

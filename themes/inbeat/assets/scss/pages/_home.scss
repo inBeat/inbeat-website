@@ -1,14 +1,14 @@
 #hero {
     padding-top: 6.25rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 6.25rem;
     text-align: center;
     @include breakpoint(sm) {
         padding-top: 10rem;
-        padding-bottom: 5rem;
+        padding-bottom: 10rem;
     }
     @include breakpoint(md) {
         padding-top: calc(50vh - 15rem);
-        padding-bottom: calc(50vh - 24rem);
+        padding-bottom: calc(50vh - 15rem);
     }
     h4 {
         width: 100%;
@@ -148,6 +148,8 @@
         }
     }
 }
+
+
 
 #extras {
     .icon-ctn {
