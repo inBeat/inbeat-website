@@ -163,81 +163,39 @@
 }
 
 #what-we-do {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    @include breakpoint(md) {
-        padding-left: 0;
-        padding-right: 0;
+    background: $light_grey;
+    padding: 50px auto;
+    @include breakpoint(xs) {
+        padding: 50px 35px;
     }
-    .col1 {
-        position: relative;
-        .bottom-text {
-            @include breakpoint(md) {
-                position: absolute;
-                left: 1.5rem;
-                right: 1.5rem;
-                bottom: 0;
-            }
-            p {
-                color: $dark_sub;
-                &:last-child {
-                    margin: 0;
-                }
-            }
-        }
+    @include breakpoint(sm) {
+        padding: 58px 51px;
     }
-    .col2 {
-        margin-bottom: 0.5rem;
+    @include breakpoint(sm-down) {
+        margin: 0 !important;
+    }
+    video {
+        width: 100%;
+        margin: 25px 0;
+        border-radius: 10px;
         @include breakpoint(md) {
-            margin-bottom: 0;
-        }
-        .color-col {
-            background-color: $green_sub;
+            width: 85%;
         }
     }
-    .col3 {
-        .color-col {
-            background-color: $red_sub;
+    .row{
+        display: flex;
+        align-items: center;
+        @include breakpoint(md-down) {
+            flex-direction: column-reverse;
         }
-    }
-    .color-col {
-        padding: 30px 25px;
-        height: 100%;
-        box-sizing: border-box;
-        @include breakpoint(md) {
-            padding: 45px;
+        p{
+            opacity: 0.75;
         }
-        h3 {
-            position: relative;
-            margin-bottom: 5rem;
-            @include breakpoint(md) {
-                margin-bottom: 6rem;
+        .cta{
+            a{
+                border: none;
             }
-            &:after {
-                content: '';
-                width: 60px;
-                position: absolute;
-                left: 0;
-                border: 1px solid black;
-                bottom: -2rem;
-                @include breakpoint(md) {
-                    bottom: -3rem;
-                }
-            }
-        }
-        p.small {
-            margin-top: 0.3rem;
-            margin-bottom: 0.7rem;
-            color: $dark_sub;
-        }
-        p.features {
-            margin-left: 20px;
-            position: relative;
-            svg {
-                position: absolute;
-                left: -22px;
-                top: 0.5rem;
-            }
+            margin: 50px 0;
         }
     }
 }

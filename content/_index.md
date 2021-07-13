@@ -78,29 +78,12 @@ extras:
     text: Keepin' it simple. We offer transparent fluffless pricing.
     icon: affordable-pricing
 whatwedo:
-  col1:
-    title: Too long;<br>didn't read
-    text1: Things we don’t do *Yet
-    text2: >-
-      We restlessly refine and add features. Although we have a pretty good idea of what we’re doing, nobody knows your needs better than, well, you. If we don’t offer a feature you want, book a call, we’d love to listen.
-  col2:
-    title: Things we do
-    features:
-      - text: >-
-          <strong>Current platforms:</strong>  Instagram and TikTok
-      - text: >-
-          <strong>Filterable Search:</strong>  Browse & filter thousands of influencer profiles
-      - text: >-
-          <strong>Information Export:</strong>  For bulk outreach (E-mails, DMs, etc)
-  col3:
-    title: Things we don't*
-    features:
-      - text: >-
-          <strong>Manage Outreach:</strong>  We’re not an influencer managing tool
-      - text: >-
-          <strong>Marketplace:</strong>  We’re not a marketplace. Looking for one?
-      - text: >-
-          <strong>Suck</strong>
+    title: Gain insight with influencer performance analytics & statistics
+    text: Use our built-in influencer analytics tool to know exactly who you’re working with. Analyse Influencer performance & their past collaborations.
+    video: influencer-statistics 
+    cta:
+      link: https://app.inbeat.co/get-started
+      text: Try it now — it's free
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
