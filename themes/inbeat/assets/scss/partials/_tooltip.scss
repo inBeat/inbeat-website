@@ -1,5 +1,8 @@
 #tooltip-element{
     p {
+        a{
+            cursor: default;
+        }
         .tooltip {
             position: absolute;
             top: calc(100% + 0.5rem);
