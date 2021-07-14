@@ -8,7 +8,7 @@
         {{ $len := (len .faq) }}
         {{ $div := (div $len 2.0) }}
         {{ $divToInt := (math.Ceil (div $len 2.0)) }}
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-sm-12 col-xs-12">
             {{ range first $divToInt .faq }}
             <div class="accordion-item">
                 {{- if $header -}}
@@ -24,12 +24,11 @@
                     </svg>
                 </p>
                 {{- end -}}
-                
-                <p class="small accordion-content {{- .class -}}">{{- .answer | markdownify -}}</p>
+                <p class="small accordion-content {{ .class }}">{{- .answer | markdownify -}}</p>
             </div>
             {{- end -}}
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-sm-12 col-xs-12">
             {{ range last $div .faq }}
             <div class="accordion-item">
                 {{- if $header -}}
