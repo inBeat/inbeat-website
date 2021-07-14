@@ -1,3 +1,16 @@
+@keyframes toggle {
+	from {
+		opacity: 0;
+        transform: scaleY(0);
+        transform: translateY(-5px);
+	}
+	to {
+		opacity: 1;
+        transform: translateY(0px);
+        transform: scaleY(1);
+	}
+}
+
 #home-faq, #pricing-faq, #features-faq {
     h2 {
         padding-bottom: 2rem;
@@ -5,18 +18,58 @@
         box-sizing: border-box;
     }
     h3 {
-        font-size: 1.5rem;
+        font-size: 1.125rem;
         line-height: 1.8rem;
-        margin-top: 1.625rem;
     }
     .question {
-        font-weight: bold;
-        margin-bottom: 0.5rem;
-        max-width: 25rem;
+        font-weight: 500;
     }
     .small {
+        font-weight: 350;
         color: $dark_sub;
-        margin-top: 1rem;
-        max-width: 25rem;
+        margin-top: 0;
+    }
+}
+
+.faq{
+    .accordion-item{
+        transition: all .25s ease;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+        &:hover{
+            border-bottom: 1px solid rgba(0, 0, 0, 1);
+        }
+        .accordion-heading{
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            margin: 0;
+            padding: 25px 0;
+
+            &.new-padding{
+              padding-bottom: 12px;  
+            }
+            &:hover .active-ico{
+                opacity: 1;
+            }
+            .active-ico{
+                margin-left: auto;
+                opacity: 0.5;
+                transition: all .25s ease;
+               
+                &.open{
+                    opacity: 1;
+                    transform: rotate(45deg);
+                }
+            }
+        }
+        .accordion-content{
+            display: none;
+            opacity: 0;
+            transition: all .2s ease;
+            &.active{
+                animation: toggle forwards 0.2s ease-in-out;
+                display: block !important; 
+            }
+        }
     }
 }
