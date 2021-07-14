@@ -14,7 +14,6 @@
         width: 100%;
         margin-bottom: 4rem;
         @include breakpoint(sm) {
-            max-width: 34rem;
             margin: auto;
             margin-bottom: 5rem;
         }
