@@ -23,15 +23,13 @@
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07122 10L15.142 10V8L9.07122 8L9.07122 1.92883L7.07122 1.92883L7.07122 8L1 8L1 10L7.07122 10L7.07122 16.0709L9.07122 16.0709L9.07122 10Z" fill="black"/>
                     </svg>
                 </p>
-                
                 {{- end -}}
-                <p class="small accordion-content">{{- .answer | markdownify -}}</p>
+                
+                <p class="small accordion-content {{- .class -}}">{{- .answer | markdownify -}}</p>
             </div>
             {{- end -}}
         </div>
         <div class="col-lg-6">
-            
-    
             {{ range last $div .faq }}
             <div class="accordion-item">
                 {{- if $header -}}

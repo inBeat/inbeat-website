@@ -1,5 +1,6 @@
 home:
   - question: How does the influencer database work?
+    class: active
     answer: >-
       You will receive access to our full database of influencers with their contact information.
       We do not have preexisting relationships with these Instagram or TikTok influencers,
