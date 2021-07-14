@@ -118,6 +118,21 @@
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
 
+<section class="container-fluid p-tb-80 mobile-adjusted" id="cta-home">
+    <div class="row m-tb-160">
+        <div class="col-xs-12 col-md-12 align-center">
+            <h2>Get Started</h2>
+            <h4>Dive into your influencer campaign<br>today, with inBeat.</h4>
+            <div class="cta-button">
+                <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-gradient btn-lg" target="_blank">
+                    <span><strong>Try it now</strong> </span> &#8212 it's free
+                </a>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 {{- partial "site/popup.html" (dict "context" . "video" "deep-search" "button" .Params.hero) -}}
 
 {{- end -}}
