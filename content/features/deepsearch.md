@@ -31,6 +31,6 @@ whatwedo:
     text: Analyse your potential collaborations with deep influencer statistics to optimize your campaign performance.
     video: influencer-statistics 
     cta:
-    link: https://app.inbeat.co/get-started
-    text: Try it now — it's free
+        link: https://app.inbeat.co/get-started
+        text: Try it now — it's free
 ---
