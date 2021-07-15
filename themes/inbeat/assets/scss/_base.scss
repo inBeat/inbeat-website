@@ -90,6 +90,24 @@ a.btn {
         background-color: white;
         border-color: $dark;
     }
+    &.btn-light-green {
+        color: $dark;
+        background: $light_green;
+        background-color: $light_green;
+        border-color: $dark;
+    }
+    &.btn-light-red {
+        color: $dark;
+        background: $light_red;
+        background-color: $light_red;
+        border-color: $dark;
+    }
+    &.btn-light-blue {
+        color: $dark;
+        background: $light_blue;
+        background-color: $light_blue;
+        border-color: $dark;
+    }
     &.btn-crazy-hover {
         &:hover {
             color: $dark;

@@ -1,0 +1,22 @@
+{{- with .Params.whatwedo -}}
+    <section class="container-fluid mobile-adjusted" id="what-we-do">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-6">
+                    <video autoplay muted loop playsinline>
+                        <source src="/videos/{{- .video -}}.mp4" />
+                    </video>   
+                </div>
+                <div class="col-xs-12 col-md-6 whatwedo-aside">
+                    <h2>{{- .title -}}</h2>
+                    <p>{{- .text -}}</p>
+                    <div class="cta">
+                        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
+                            {{- htmlUnescape .cta.text | markdownify -}}
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{{- end -}}

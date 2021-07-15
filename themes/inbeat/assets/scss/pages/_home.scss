@@ -231,6 +231,9 @@
 
 #cta-home{
     border-top: 1px solid black;
+    &.no-border{
+        border-top:none !important;
+    }
     .cta-button{
         margin-top: 3.75rem;
     }
