@@ -321,25 +321,30 @@ function popup()
 }
 
 function faq(){
-    var currentActive;
     var acc = document.getElementsByClassName('accordion-heading');
+    var currentActive = acc[0];
+
     var toggleAccordionState = function(accordion) {
         accordion.nextElementSibling.classList.toggle("active");
         accordion.lastElementChild.classList.toggle('open');
         accordion.classList.toggle("new-padding");
     };
+    var reset = function(accordion) {
+        accordion.nextElementSibling.classList.remove("active");
+        accordion.lastElementChild.classList.remove('open');
+        accordion.classList.remove("new-padding");
+    };
 
+    toggleAccordionState(currentActive);
+    
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener('mousedown', function(e){ 
             e.preventDefault(); 
-            if(currentActive) {
-                toggleAccordionState(currentActive);
-            }
-            if(currentActive == this) {
-                toggleAccordionState(currentActive);
-            }
             toggleAccordionState(this);
-            currentActive = this;  
+            if(this != currentActive) {
+                reset(currentActive);
+                currentActive = this;  
+            }
         }, true);
     }
 }
