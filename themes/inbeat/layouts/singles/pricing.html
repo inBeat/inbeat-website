@@ -69,67 +69,82 @@
                     </p>
                 </div>
                 <div class="features">
-                    <p>
-                        <strong>Instagram</strong> Database
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Use all of our search features to find the right influencers.
-                        </span>
-                    </p>
-                    <p>
-                        <strong>TikTok</strong> Database
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Use all of our search features to find the right influencers.
-                        </span>
-                    </p>
-                    <p>
-                        <strong>{{ .filters }}</strong> Search Filters
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Filter profiles by engagement rate, number of followers, location
-                            and many more.
-                        </span>
-                    </p>
-                    <p>
-                        <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/ month</span>
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Export all available info (e-mail, handle, URL, etc.).
-                            Profiles without e-mail don’t use an export.
-                            Unused exports won't rollover to the following month.
-                        </span>
-                    </p>
-                    <p>
-                        <strong>{{- .campaigns -}}</strong> Concurrent Campaign{{- if gt .campaigns 1 -}}s{{- end -}}
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Manage multiple campaign at the same time.
-                            Once you're satisfied, export the campaign and create a new one.
-                        </span>
-                    </p>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>Instagram</strong> Database
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Use all of our search features to find the right influencers.
+                            </span>
+                        </p>
+                    </div>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>TikTok</strong> Database
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Use all of our search features to find the right influencers.
+                            </span>
+                        </p>
+                    </div>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>{{ .filters }}</strong> Search Filters
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Filter profiles by engagement rate, number of followers, location
+                                and many more.
+                            </span>
+                        </p>
+                    </div>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/ month</span>
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Export all available info (e-mail, handle, URL, etc.).
+                                Profiles without e-mail don’t use an export.
+                                Unused exports won't rollover to the following month.
+                            </span>
+                        </p>
+                    </div>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>{{- .campaigns -}}</strong> Concurrent Campaign{{- if gt .campaigns 1 -}}s{{- end -}}
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Manage multiple campaign at the same time.
+                                Once you're satisfied, export the campaign and create a new one.
+                            </span>
+                        </p>
+                    </div>
                     {{- if gt .accounts 1 -}}
-                    <p>
-                        <strong>{{- .accounts -}}</strong> Client Accounts
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Assign campaigns to client accounts you manage.
-                        </span>
-                    </p>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>{{- .accounts -}}</strong> Client Accounts
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Assign campaigns to client accounts you manage.
+                            </span>
+                        </p>
+                    </div>
                     {{- else -}}
                     <p class="empty">&nbsp;</p>
                     {{- end -}}
                     {{- if .bulk -}}
-                    <p>
-                        <strong>Bulk</strong> Selection
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Select and export up to 1000 filtered profiles in a single click.
-                        </span>
-                    </p>
+                    <div id="tooltip-element">
+                        <p>
+                            <strong>Bulk</strong> Selection
+                            {{- partial "icons/info.html" -}}
+                            <span class="tooltip">
+                                Select and export up to 1000 filtered profiles in a single click.
+                            </span>
+                        </p>
+                    </div>
                     {{- else -}}
                     <p class="empty">&nbsp;</p>
                     {{- end -}}
+                    
                     <!-- {{- if gt .collected 0 -}}
                     <p>
                         <strong>{{- .collected -}}</strong> Collected Profile{{- if gt .collected 1 -}}s{{- end -}}

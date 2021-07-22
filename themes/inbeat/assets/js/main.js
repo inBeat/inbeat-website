@@ -233,6 +233,7 @@ function topInfluencers() {
 
 function popup()
 {
+    if(document.getElementById('popupOverlay') === null){return};
     // Get Popup from the DOM
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
@@ -319,6 +320,35 @@ function popup()
     });
 }
 
+function faq(){
+    var acc = document.getElementsByClassName('accordion-heading');
+    var currentActive = acc[0];
+
+    var toggleAccordionState = function(accordion) {
+        accordion.nextElementSibling.classList.toggle("active");
+        accordion.lastElementChild.classList.toggle('open');
+        accordion.classList.toggle("new-padding");
+    };
+    var reset = function(accordion) {
+        accordion.nextElementSibling.classList.remove("active");
+        accordion.lastElementChild.classList.remove('open');
+        accordion.classList.remove("new-padding");
+    };
+
+    toggleAccordionState(currentActive);
+    
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener('mousedown', function(e){ 
+            e.preventDefault(); 
+            toggleAccordionState(this);
+            if(this != currentActive) {
+                reset(currentActive);
+                currentActive = this;  
+            }
+        }, true);
+    }
+}
+
 (function() {
     scrollTo();
     header();
@@ -327,4 +357,5 @@ function popup()
     affiliate();
     topInfluencers();
     popup();
+    faq();
 })();

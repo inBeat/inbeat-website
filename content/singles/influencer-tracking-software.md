@@ -4,6 +4,7 @@ description: >-
   inBeat allows you to track Instagram and TikTok influencers, without being on social media 24/7. We aggregate all of your influencer marketing data and content, making it easy for you to access.
 pagetitle: Simple Instagram and TikTok Influencer Tracking
 slug: influencer-tracking-software
+layout: influencer-tracking-software
 hiw:
   - title: "Add your influencers, @tags and/or #hashtags"
     description: >-

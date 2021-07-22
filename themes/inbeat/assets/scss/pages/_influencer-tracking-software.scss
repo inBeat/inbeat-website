@@ -1,0 +1,103 @@
+#tracking-body {
+    > section:nth-child(3n + 1) {
+        background-color: $yellow_sub;
+    }
+    > section:nth-child(3n + 2) {
+        background-color: $green_sub;
+    }
+    > section:nth-child(3n) {
+        background-color: $red_sub;
+    }
+}
+
+#tracking-top {
+    h1 {
+        @include breakpoint(md) {
+            font-size: 4rem;
+            line-height: 4.5rem;
+        }
+    }
+}
+
+#tracking-how-it-works-features {
+    border-top: 1px solid #cdcdcd;
+    margin-top: 30px;
+    padding-top: 30px;
+    @include breakpoint(lg) {
+        margin-top: 80px;
+        padding-top: 80px;
+    }
+}
+
+.tracking-features-section{
+    padding: 30px 25px;
+    box-sizing: border-box;
+    outline: none !important;
+    @include breakpoint(xs) {
+        padding: 50px 35px;
+    }
+    @include breakpoint(sm) {
+        padding: 58px 51px;
+    }
+    @include breakpoint(sm-down) {
+        margin: 0 !important;
+    }
+    .left-col {
+        position: relative;
+    }
+    p {
+        margin-top: 0;
+    }
+    .description {
+        @include breakpoint(md) {
+            margin-bottom: 4rem;
+        }
+        span {
+            font-weight: bold;
+        }
+        a {
+            font-size: inherit;
+            line-height: inherit;
+            text-decoration: underline;
+        }
+    }
+    .points-title {
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    .small {
+        margin-bottom: 10px;
+        color: $dark_sub;
+        &:last-child {
+            margin-bottom: 0;
+        }
+        svg {
+            height: 0.625rem;
+            margin-right: 10px;
+        }
+    }
+    a.learn-more {
+        font-weight: bold;
+        display: block;
+        padding-bottom: 1.5rem;
+        border-bottom: 1px solid $dark;
+        margin-bottom: 2.5rem;
+        @include breakpoint(md) {
+            margin-bottom: 4rem;
+        }
+    }
+    h2 {
+        margin-top: 30px;
+    }
+    img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 2rem;
+    }
+    .col-md-7 .col-sm-4 {
+        margin-bottom: 20px;
+        @include breakpoint(sm) {
+            margin-bottom: 0;
+        }
+    }
+}
