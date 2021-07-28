@@ -108,6 +108,12 @@ a.btn {
         background-color: $light_blue;
         border-color: $dark;
     }
+    &.btn-outline{
+        border: 1px solid black;
+        border-color: black;
+        background: none;
+        color: black;
+    }
     &.btn-crazy-hover {
         &:hover {
             color: $dark;
