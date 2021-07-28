@@ -11,9 +11,11 @@
                     <a href="{{- .Params.header.cta.link -}}" class="btn btn-lg btn-light-{{- $palette -}}" title="Try it now">
                         {{- htmlUnescape .Params.header.cta.text | markdownify -}}
                     </a>
+                    {{- if isset .Params.header "ctasecond" -}}
                     <a href="#" title="Book a demo" target="_blank" class="btn btn-lg btn-outline popupTrigger">
                         <span>►</span> See how it works
                     </a>
+                    {{- end -}}
                 </div>
             </div>
             <div class="col-xs-12 col-md-6 col-lg-5 col-lg-offset-1">
@@ -60,5 +62,7 @@
         </div>
     </div>
 </section>
+{{- if isset .Params.header "ctasecond" -}}
 {{- partial "site/popup.html" (dict "context" . "video" "deep-search" "button" .Params.header) -}}
+{{- end -}}
 {{- end -}}
