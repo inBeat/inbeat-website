@@ -178,6 +178,15 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+    var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
+</script>
+<script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#engagement-calculator',
@@ -212,51 +221,56 @@
         },
         methods: {
             submit() {
-                var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
-                if (this.quotaReached) {
-                    this.error = 'You reached your quota for this hour. Try again later.';
-                    return;
-                }
-                if (username == '') {
-                    this.error = 'Please enter a username.';
-                    return;
-                }
-
-                this.loading = true;
-                var _this = this;
-                var request = new XMLHttpRequest();
-                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                request.setRequestHeader('Content-Type', 'application/json');
-                request.onload = function() {
-                    if (!request.status || request.status !== 200) {
-                        if (request.status === 429) {
-                            _this.quotaReached = true;
-                            _this.error = 'You reached your quota for this hour. Try again later.';
-                            _this.loading = false;
-                            return
+               var ml_webform_4410091 = ml_account('webforms', '4410091', 'p3j0a2', 'load');
+                    if (getCookie('mailerlite:webform:submited:4410091')) {
+                        var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
+                        if (this.quotaReached) {
+                            this.error = 'You reached your quota for this hour. Try again later.';
+                            return;
                         }
+                        if (username == '') {
+                            this.error = 'Please enter a username.';
+                            return;
+                        }
+                        this.loading = true;
+                        var _this = this;
+                        var request = new XMLHttpRequest();
+                        request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                        request.setRequestHeader('Content-Type', 'application/json');
+                        request.onload = function() {
+                            if (!request.status || request.status !== 200) {
+                                if (request.status === 429) {
+                                    _this.quotaReached = true;
+                                    _this.error = 'You reached your quota for this hour. Try again later.';
+                                    _this.loading = false;
+                                    return
+                                }
 
-                        var res = JSON.parse(request.response);
-                        _this.error = res.error || 'An unexpected error occured. Please try again.';
-                        _this.loading = false;
-                        return
+                                var res = JSON.parse(request.response);
+                                _this.error = res.error || 'An unexpected error occured. Please try again.';
+                                _this.loading = false;
+                                return
+                            }
+
+                            var res = JSON.parse(request.response);
+                            _this.user = res.user;
+                            _this.posts = res.posts;
+                            _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                            _this.datasetLikes = res.posts.map(post => post.likes);
+                            _this.datasetComments = res.posts.map(post => post.comments);
+                            _this.error = null;
+                            _this.loading = false;
+                        };
+                        request.onerror = function() {
+                            console.log(request.response);
+                            _this.error = 'An unexpected error occured. Please try again later.';
+                            _this.loading = false;
+                        }
+                        request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                    }else{
+                        ml_webform_4410091('show');
+                        ml_webform_4410091('animation', 'fadeIn');
                     }
-
-                    var res = JSON.parse(request.response);
-                    _this.user = res.user;
-                    _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
-                    _this.datasetLikes = res.posts.map(post => post.likes);
-                    _this.datasetComments = res.posts.map(post => post.comments);
-                    _this.error = null;
-                    _this.loading = false;
-                };
-                request.onerror = function() {
-                    console.log(request.response);
-                    _this.error = 'An unexpected error occured. Please try again later.';
-                    _this.loading = false;
-                }
-                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
             },
             formatFollowing(nb) {
                 if (nb < 10000) {

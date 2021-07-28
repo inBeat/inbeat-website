@@ -4,18 +4,18 @@
 // N milliseconds. If `immediate` is passed, trigger the function on the
 // leading edge, instead of the trailing.
 function debounce(func, wait, immediate) {
-	var timeout;
-	return function() {
-		var context = this, args = arguments;
-		var later = function() {
-			timeout = null;
-			if (!immediate) func.apply(context, args);
-		};
-		var callNow = immediate && !timeout;
-		clearTimeout(timeout);
-		timeout = setTimeout(later, wait);
-		if (callNow) func.apply(context, args);
-	};
+    var timeout;
+    return function () {
+        var context = this, args = arguments;
+        var later = function () {
+            timeout = null;
+            if (!immediate) func.apply(context, args);
+        };
+        var callNow = immediate && !timeout;
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+        if (callNow) func.apply(context, args);
+    };
 };
 
 // Found here to manipulate cookies: https://stackoverflow.com/questions/14573223/set-cookie-and-get-cookie-with-javascript
@@ -23,19 +23,19 @@ function setCookie(name, value, days) {
     var expires = "";
     if (days) {
         var date = new Date();
-        date.setTime(date.getTime() + (days*24*60*60*1000));
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
         expires = "; expires=" + date.toUTCString();
     }
-    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
 }
 
 function getCookie(name) {
     var nameEQ = name + "=";
     var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
+    for (var i = 0; i < ca.length; i++) {
         var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
     }
     return null;
 }
@@ -43,7 +43,7 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
-    menuBtn.addEventListener('click', function(e) {
+    menuBtn.addEventListener('click', function (e) {
         if (!menuBtn.classList.contains('is-active')) {
             menuBtn.classList.add('is-active');
             document.body.classList.add('with-menu');
@@ -57,7 +57,7 @@ function header() {
 function home() {
     // Icons in the extras section
     var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing'];
-    homeIcons.forEach(function(iconName) {
+    homeIcons.forEach(function (iconName) {
         var icon = document.getElementById(iconName);
         if (!icon) {
             return;
@@ -70,41 +70,41 @@ function home() {
             autoplay: false, // Optional
             name: iconName, // Name for future reference. Optional.
         });
-        icon.addEventListener('mouseenter', function(e) {
+        icon.addEventListener('mouseenter', function (e) {
             anim.play();
         });
-        icon.addEventListener('mouseleave', function(e) {
+        icon.addEventListener('mouseleave', function (e) {
             anim.stop();
-        }); 
+        });
     });
 }
 
 // Vanilla JS Smooth Scroll
 function scrollTo() {
-	var links = document.querySelectorAll('.scroll');
-	links.forEach(function (each) {
+    var links = document.querySelectorAll('.scroll');
+    links.forEach(function (each) {
         each.onclick = scrollAnchors
     });
 }
 
 function scrollAnchors(e, respond) {
-	var distanceToTop = function(el) { return Math.floor(el.getBoundingClientRect().top) };
-	e.preventDefault();
-	var targetID = (respond) ? respond.getAttribute('href') : this.getAttribute('href');
-	var targetAnchor = document.querySelector(targetID);
-	if (!targetAnchor) return;
+    var distanceToTop = function (el) { return Math.floor(el.getBoundingClientRect().top) };
+    e.preventDefault();
+    var targetID = (respond) ? respond.getAttribute('href') : this.getAttribute('href');
+    var targetAnchor = document.querySelector(targetID);
+    if (!targetAnchor) return;
     var originalTop = distanceToTop(targetAnchor);
     // Need some adjustment because of navbar. TODO: mobile navbar is narrower
-	window.scrollBy({ top: originalTop - 84, left: 0, behavior: 'smooth' });
-	var checkIfDone = setInterval(function() {
-		var atBottom = window.innerHeight + window.pageYOffset >= document.body.offsetHeight - 2;
-		if (distanceToTop(targetAnchor) === 0 || atBottom) {
-			targetAnchor.tabIndex = '-1';
-			targetAnchor.focus();
-			window.history.pushState('', '', targetID);
-			clearInterval(checkIfDone);
-		}
-	}, 100);
+    window.scrollBy({ top: originalTop - 84, left: 0, behavior: 'smooth' });
+    var checkIfDone = setInterval(function () {
+        var atBottom = window.innerHeight + window.pageYOffset >= document.body.offsetHeight - 2;
+        if (distanceToTop(targetAnchor) === 0 || atBottom) {
+            targetAnchor.tabIndex = '-1';
+            targetAnchor.focus();
+            window.history.pushState('', '', targetID);
+            clearInterval(checkIfDone);
+        }
+    }, 100);
 }
 
 function pricing() {
@@ -113,10 +113,10 @@ function pricing() {
     if (schedule) {
         var monthlySelector = document.getElementById('monthly-schedule');
         var yearlySelector = document.getElementById('yearly-schedule');
-        monthlySelector.addEventListener('click', function(e) {
+        monthlySelector.addEventListener('click', function (e) {
             schedule.className = 'row monthly';
         });
-        yearlySelector.addEventListener('click', function(e) {
+        yearlySelector.addEventListener('click', function (e) {
             schedule.className = 'row yearly';
         });
     }
@@ -128,7 +128,7 @@ function affiliate() {
         var width = slider.clientWidth;
         var earnings = document.getElementById('earnings');
         var customerNb = document.getElementById('customer-nb');
-        var calcPosition = function(e) {
+        var calcPosition = function (e) {
             var v;
             if (e) {
                 v = e.target.valueAsNumber;
@@ -149,7 +149,7 @@ function affiliate() {
             }
             customerNb.style.left = (pos * width - 4.5 + thumbCorrect + nbLengthCorrect) + 'px';
         }
-        window.addEventListener('resize', debounce(function() {
+        window.addEventListener('resize', debounce(function () {
             width = slider.clientWidth;
             calcPosition();
         }, 150));
@@ -170,16 +170,16 @@ function topInfluencers() {
         setCookie('guide-popup', true, 60);
 
         // Popup after 8 seconds
-        setTimeout(function(){
+        setTimeout(function () {
             popup.style.display = 'table';
         }, 8000);
-        
+
         var close = document.getElementById('form-close');
-        close.addEventListener('click', function(e) {
+        close.addEventListener('click', function (e) {
             popup.style.display = 'none';
         });
 
-        popup.querySelector('.modal-wrapper').addEventListener('click', function(e) {
+        popup.querySelector('.modal-wrapper').addEventListener('click', function (e) {
             if (e.target !== this) {
                 return;
             }
@@ -192,7 +192,7 @@ function topInfluencers() {
         var btn = document.getElementById('top-submit');
         var err = document.getElementById('form-error');
         var se = /^[\w\.\-_]{1,}@[\w\.\-]{6,}/
-        form.addEventListener('submit', function(e){
+        form.addEventListener('submit', function (e) {
             e.preventDefault();
             if (email.value == '' || ml.value !== '1') {
                 err.style.display = 'block';
@@ -211,7 +211,7 @@ function topInfluencers() {
             var request = new XMLHttpRequest();
             request.open('POST', this.action, true);
             request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
-            request.onload = function() {
+            request.onload = function () {
                 if (this.status >= 200 && this.status < 400) {
                     popup.classList.add('completed');
                     btn.innerText = 'Perfectly Sent!';
@@ -221,19 +221,18 @@ function topInfluencers() {
                 }
             };
 
-            request.onerror = function() {
+            request.onerror = function () {
                 err.style.display = 'block';
                 btn.innerText = 'Send again';
             };
             request.send('fields%5Bemail%5D=' + encodeURI(email.value) + '&ml-submit=1');
         })
 
-    } 
+    }
 }
 
-function popup()
-{
-    if(document.getElementById('popupOverlay') === null){return};
+function popup() {
+    if (document.getElementById('popupOverlay') === null) { return };
     // Get Popup from the DOM
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
@@ -247,109 +246,109 @@ function popup()
 
     // Set the position of the popup to always be centered
     function position() {
-       var pageWidth = window.innerWidth,
-           pageHeight = window.innerHeight;
+        var pageWidth = window.innerWidth,
+            pageHeight = window.innerHeight;
 
-           // Check if the media query is true
-           if (mediaQuery.matches) {
-           innerPopup.style.width = pageWidth + 'px';
-           innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
-           videoPlayer.style.borderRadius = '0px';
-           videoParent.style.padding = '0px';
-           }else{
-            innerPopup.style.width =  defaultWidth;
+        // Check if the media query is true
+        if (mediaQuery.matches) {
+            innerPopup.style.width = pageWidth + 'px';
+            innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
+            videoPlayer.style.borderRadius = '0px';
+            videoParent.style.padding = '0px';
+        } else {
+            innerPopup.style.width = defaultWidth;
             innerPopup.style.height = defaultHeight;
-            videoParent.style.padding = '50px';  
-           }
-           innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2)  + "px";
-           innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
+            videoParent.style.padding = '50px';
+        }
+        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + "px";
+        innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
     }
 
     // Open/Close popup
-    function toggle(){
+    function toggle() {
         popupOverlay.classList.toggle('popupOverlay--fadeIn');
         innerPopup.classList.toggle('popupInner--fadeIn');
 
         isOpen = !isOpen;
 
         // Toggle player play or pause
-        if(isOpen){
+        if (isOpen) {
             videoPlayer.play();
-            videoPlayer.volume = 0.2; 
+            videoPlayer.volume = 0.2;
             document.body.style.overflow = 'hidden';
-            document.querySelectorAll('section').forEach(function(item) {
+            document.querySelectorAll('section').forEach(function (item) {
                 item.classList.add("blur");
             })
-        }else{
+        } else {
             videoPlayer.pause();
             videoPlayer.currentTime = 0;
             document.body.style.overflow = 'visible';
-            document.querySelectorAll('section').forEach(function(item) {
+            document.querySelectorAll('section').forEach(function (item) {
                 item.classList.remove("blur");
             })
         }
     }
 
     // For each DIV that have the class .popupTrigger, when click open et set position of the popup
-    document.querySelectorAll('.popupTrigger').forEach(function(item) {
-      item.addEventListener('click', function(e) {
-        e.preventDefault();
-        toggle();
-        position();
-      })
+    document.querySelectorAll('.popupTrigger').forEach(function (item) {
+        item.addEventListener('click', function (e) {
+            e.preventDefault();
+            toggle();
+            position();
+        })
     })
-      
+
     // Close popup if click on overlay
-    popupOverlay.addEventListener('click', function(e) {
+    popupOverlay.addEventListener('click', function (e) {
         if (!e.target.classList.contains('popup-overlay')) return;
         toggle(e);
     })
 
     // Close popup if click on X button
-    closeBtn.addEventListener('click', function() {
+    closeBtn.addEventListener('click', function () {
         toggle();
     })
 
     // Listen to resize event and don't position if the popup is closed
-    window.addEventListener('resize', function(){
-        if(isOpen){
+    window.addEventListener('resize', function () {
+        if (isOpen) {
             position();
-        }else{
+        } else {
             return
         }
     });
 }
 
-function faq(){
+function faq() {
     var acc = document.getElementsByClassName('accordion-heading');
     var currentActive = acc[0];
 
-    var toggleAccordionState = function(accordion) {
+    var toggleAccordionState = function (accordion) {
         accordion.nextElementSibling.classList.toggle("active");
         accordion.lastElementChild.classList.toggle('open');
         accordion.classList.toggle("new-padding");
     };
-    var reset = function(accordion) {
+    var reset = function (accordion) {
         accordion.nextElementSibling.classList.remove("active");
         accordion.lastElementChild.classList.remove('open');
         accordion.classList.remove("new-padding");
     };
 
     toggleAccordionState(currentActive);
-    
+
     for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener('mousedown', function(e){ 
-            e.preventDefault(); 
+        acc[i].addEventListener('mousedown', function (e) {
+            e.preventDefault();
             toggleAccordionState(this);
-            if(this != currentActive) {
+            if (this != currentActive) {
                 reset(currentActive);
-                currentActive = this;  
+                currentActive = this;
             }
         }, true);
     }
 }
 
-(function() {
+(function () {
     scrollTo();
     header();
     home();
