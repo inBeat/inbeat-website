@@ -187,6 +187,15 @@
     var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
 </script>
 <script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+    var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
+</script>
+
+<script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#engagement-calculator',
@@ -197,6 +206,7 @@
                 posts: [],
                 datasetLikes: [],
                 datasetComments: [],
+                firstLoad: false,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -220,10 +230,20 @@
             this.initialSearch = false;
         },
         methods: {
+            cookie(name){
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            },
             submit() {
-               var ml_webform_4410091 = ml_account('webforms', '4410091', 'p3j0a2', 'load');
-                    if (getCookie('mailerlite:webform:submited:4410091')) {
-                        var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
+                    var ml_webform_4410091 = ml_account('webforms', '4410091', 'p3j0a2', 'load');
+                    var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
+                    if (this.cookie('mailerlite:webform:submited:4410091')) {
                         if (this.quotaReached) {
                             this.error = 'You reached your quota for this hour. Try again later.';
                             return;
@@ -268,8 +288,17 @@
                         }
                         request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
                     }else{
-                        ml_webform_4410091('show');
-                        ml_webform_4410091('animation', 'fadeIn');
+                       
+                        if (username == '') {
+                            this.error = 'Please enter a username.';
+                            return;
+                        }
+                        if(this.firstLoad == true){
+                            this.error = null;
+                            ml_webform_4410091('show');
+                            ml_webform_4410091('animation', 'fadeIn');
+                        }
+                        this.firstLoad = true;
                     }
             },
             formatFollowing(nb) {
