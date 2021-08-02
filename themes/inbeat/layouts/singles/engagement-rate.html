@@ -267,7 +267,7 @@
                                 }
 
                                 var res = JSON.parse(request.response);
-                                _this.error = res.error || 'An unexpected error occured. Please try again.';
+                                _this.error = res.error || "An error occured. Try 3 times, if it doesn't work, Instagram might blocking this";
                                 _this.loading = false;
                                 return
                             }
@@ -283,7 +283,7 @@
                         };
                         request.onerror = function() {
                             console.log(request.response);
-                            _this.error = 'An unexpected error occured. Please try again later.';
+                            _this.error = "An error occured. Try 3 times, if it doesn't work, Instagram might blocking this";
                             _this.loading = false;
                         }
                         request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
