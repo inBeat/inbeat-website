@@ -231,7 +231,7 @@
         },
         methods: {
             cookie(name){
-                var nameEQ = name + "=";
+                var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
                 for (var i = 0; i < ca.length; i++) {
                     var c = ca[i];
@@ -267,7 +267,7 @@
                                 }
 
                                 var res = JSON.parse(request.response);
-                                _this.error = res.error || "An error occured. Try 3 times, if it doesn't work, Instagram might blocking this";
+                                _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
                                 _this.loading = false;
                                 return
                             }
@@ -283,17 +283,16 @@
                         };
                         request.onerror = function() {
                             console.log(request.response);
-                            _this.error = "An error occured. Try 3 times, if it doesn't work, Instagram might blocking this";
+                            _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
                             _this.loading = false;
                         }
                         request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
                     }else{
-                       
-                        if (username == '') {
+                        if (username === '') {
                             this.error = 'Please enter a username.';
                             return;
                         }
-                        if(this.firstLoad == true){
+                        if(this.firstLoad === true){
                             this.error = null;
                             ml_webform_4410091('show');
                             ml_webform_4410091('animation', 'fadeIn');
