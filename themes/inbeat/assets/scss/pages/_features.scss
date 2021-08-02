@@ -33,7 +33,15 @@
 			opacity: 0.75;
 		}
 		.cta {
-			.btn {
+			.btn:nth-child(2){
+				margin-left: 15px;
+				padding-left: 10px;
+				span{
+					padding-left: 20px;
+					padding-right: 30px;
+				}
+			}
+			.btn:nth-child(1) {
 				border: none;
 			}
 			margin: 50px 0;

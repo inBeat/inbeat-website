@@ -44,6 +44,13 @@
                 font-weight: bold;
             }
         }
+        a:nth-child(2){
+            padding-left: 10px;
+            span{
+               padding-left: 20px;
+                padding-right: 30px;
+            }
+        }
     }
 }
 

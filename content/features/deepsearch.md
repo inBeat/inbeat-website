@@ -11,6 +11,8 @@ header:
   cta:
       text: <span>Try it now</span> &#8212 it's free
       link: https://app.inbeat.co/get-started
+  ctasecond:
+      text: <span>►</span> See how it works 
 sections:
   - title: Search by similar profiles
     image: /images/features-deepsearch-searchbysimilarprofiles.png
