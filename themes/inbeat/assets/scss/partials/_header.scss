@@ -163,7 +163,7 @@
         }
     }
     #header-container {
-        z-index: 12;
+        z-index: 200;
         background: $dark;
     }
 }
@@ -173,5 +173,5 @@
     left: 0;
     top: 0;
     background: white;
-    z-index: 10;
+    z-index: 200;
 }

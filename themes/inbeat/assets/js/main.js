@@ -252,36 +252,46 @@ function popup() {
         // Check if the media query is true
         if (mediaQuery.matches) {
             innerPopup.style.width = pageWidth + 'px';
-            innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
-            videoPlayer.style.borderRadius = '0px';
-            videoParent.style.padding = '0px';
+            if(videoPlayer != null){
+                innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
+                videoPlayer.style.borderRadius = '0px';
+                videoParent.style.padding = '0px';
+            }
         } else {
             innerPopup.style.width = defaultWidth;
             innerPopup.style.height = defaultHeight;
-            videoParent.style.padding = '50px';
+            if(videoPlayer != null){
+                videoParent.style.padding = '50px';
+            }
         }
         innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + "px";
         innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
     }
 
     // Open/Close popup
-    function toggle() {
+    this.togglePopup = function() {
         popupOverlay.classList.toggle('popupOverlay--fadeIn');
         innerPopup.classList.toggle('popupInner--fadeIn');
-
+        position();
         isOpen = !isOpen;
 
         // Toggle player play or pause
         if (isOpen) {
-            videoPlayer.play();
-            videoPlayer.volume = 0.2;
+            if(videoPlayer != null){
+                videoPlayer.play();
+                videoPlayer.volume = 0.2;
+            }
             document.body.style.overflow = 'hidden';
             document.querySelectorAll('section').forEach(function (item) {
-                item.classList.add("blur");
+                if(item.id !== "engagement-calculator"){
+                    item.classList.add("blur");
+                }
             })
         } else {
-            videoPlayer.pause();
-            videoPlayer.currentTime = 0;
+            if(videoPlayer != null){
+                videoPlayer.pause();
+                videoPlayer.currentTime = 0;
+            }
             document.body.style.overflow = 'visible';
             document.querySelectorAll('section').forEach(function (item) {
                 item.classList.remove("blur");
@@ -293,20 +303,19 @@ function popup() {
     document.querySelectorAll('.popupTrigger').forEach(function (item) {
         item.addEventListener('click', function (e) {
             e.preventDefault();
-            toggle();
-            position();
+            togglePopup();
         })
     })
 
     // Close popup if click on overlay
     popupOverlay.addEventListener('click', function (e) {
         if (!e.target.classList.contains('popup-overlay')) return;
-        toggle(e);
+        togglePopup(e);
     })
 
     // Close popup if click on X button
     closeBtn.addEventListener('click', function () {
-        toggle();
+        togglePopup();
     })
 
     // Listen to resize event and don't position if the popup is closed
