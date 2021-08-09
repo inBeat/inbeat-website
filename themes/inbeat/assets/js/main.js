@@ -237,8 +237,8 @@ function popup() {
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
-    var videoPlayer = document.getElementById("popupVideo");
-    var videoParent = popupOverlay.querySelector(".video")
+    var popupContent = document.getElementById("popupContent");
+    var contentParent = popupOverlay.querySelector(".content-wrapper")
     var isOpen = false;
     var defaultWidth = innerPopup.style.width;
     var defaultHeight = innerPopup.style.height;
@@ -252,16 +252,16 @@ function popup() {
         // Check if the media query is true
         if (mediaQuery.matches) {
             innerPopup.style.width = pageWidth + 'px';
-            if(videoPlayer != null){
-                innerPopup.style.height = 112 + videoPlayer.offsetHeight + 'px';
-                videoPlayer.style.borderRadius = '0px';
-                videoParent.style.padding = '0px';
+            if(popupContent != null){
+                innerPopup.style.height = 112 + popupContent.offsetHeight + 'px';
+                popupContent.style.borderRadius = '0px';
+                contentParent.style.padding = '0px';
             }
         } else {
             innerPopup.style.width = defaultWidth;
             innerPopup.style.height = defaultHeight;
-            if(videoPlayer != null){
-                videoParent.style.padding = '50px';
+            if(popupContent != null){
+                contentParent.style.padding = '50px';
             }
         }
         innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + "px";
@@ -277,9 +277,9 @@ function popup() {
 
         // Toggle player play or pause
         if (isOpen) {
-            if(videoPlayer != null){
-                videoPlayer.play();
-                videoPlayer.volume = 0.2;
+            if(contentParent.querySelector("video")){
+                contentParent.querySelector("video").play();
+                contentParent.querySelector("video").volume = 0.2;
             }
             document.body.style.overflow = 'hidden';
             document.querySelectorAll('section').forEach(function (item) {
@@ -288,9 +288,9 @@ function popup() {
                 }
             })
         } else {
-            if(videoPlayer != null){
-                videoPlayer.pause();
-                videoPlayer.currentTime = 0;
+            if(contentParent.querySelector("video")){
+                contentParent.querySelector("video").pause();
+                contentParent.querySelector("video").currentTime = 0;;
             }
             document.body.style.overflow = 'visible';
             document.querySelectorAll('section').forEach(function (item) {

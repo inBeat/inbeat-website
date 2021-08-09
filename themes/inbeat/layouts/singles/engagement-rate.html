@@ -28,7 +28,7 @@
             <span v-else>Check Profile</span>
         </button>
     </div>
-    {{- partial "site/embedFormPopup.html" -}}
+    {{- partial "site/formPopup.html" -}}
     {{- end -}}
     <transition name="slide-fade" mode="out-in">
         <p v-if="error" class="error">{ error }</p>
@@ -179,23 +179,6 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script>
-    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
-    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
-    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
-    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
-    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
-
-    var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
-</script>
-<script>
-  function ml_webform_success_4501534(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-4501534 .row-success").show(),r(".ml-subscribe-form-4501534 .row-form").hide()}
-</script>
-<img src="https://track.mailerlite.com/webforms/o/4501534/a2m7j4?v1627942601" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
-<style type="text/css">
-  @import url(https://static.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1627892);
-</style> 
-<script src="https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c" type="text/javascript"></script>
-<script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#engagement-calculator',
@@ -231,10 +214,10 @@
         },
         mounted() {
             // Check for the embed submit form display
-            this.mutationObserver();
+          //  this.mutationObserver();
         },
         methods: {
-            mutationObserver(){
+            /*mutationObserver(){
                 // Because de mailerlite embed form don't have any callback function on submit
                 // We have to check the state of the success message. If displayed we know for a fact that the submit was successful
                 var _this = this
@@ -257,7 +240,7 @@
                 };
                 var targetNode = document.getElementById('form-content');
                 observer.observe(targetNode, observerConfig);
-            },
+            },*/
             cookie(name){
                 var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
@@ -269,7 +252,6 @@
                 return null;
             },
             submit() {
-                var ml_webform_4410091 = ml_account('webforms', '4410091', 'p3j0a2', 'load');
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';

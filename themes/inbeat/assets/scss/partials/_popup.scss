@@ -67,23 +67,23 @@
 			animation-delay: 0.2s;
 			display: block;
 		}
-		&.embed-popup{
-			border-radius: 10px;
-			width: 800px;
-			height: auto;
-			.close{
-				display: none;
-			}
-			.embedForm{
-				margin-top: 50px;
-				margin-bottom: 25px;
-			}
-			.ml-form-align-center{
-				border-radius: 10px;
-				padding-bottom: 50px;
-			}
-		}
-		.video {
+		// &.embed-popup{
+		// 	border-radius: 10px;
+		// 	width: 800px;
+		// 	height: auto;
+		// 	.close{
+		// 		display: none;
+		// 	}
+		// 	.embedForm{
+		// 		margin-top: 50px;
+		// 		margin-bottom: 25px;
+		// 	}
+		// 	.ml-form-align-center{
+		// 		border-radius: 10px;
+		// 		padding-bottom: 50px;
+		// 	}
+		// }
+		.content-wrapper {
 			padding: 50px;
 			video {
 				border-radius: 10px;
