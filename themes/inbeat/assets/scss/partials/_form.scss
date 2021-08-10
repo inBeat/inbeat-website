@@ -1,0 +1,93 @@
+#form-popup{
+    $gutter: 10px;
+    .errorform{
+        padding: 0;
+        font-size: 0.9375rem;
+        margin: 10px 0;
+        color: red;
+    }
+    .form-content{
+        max-width: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        input{
+            margin-bottom: $gutter;
+            background-color: #fff;
+            color: #333;
+            border-color: #ccc;
+            border-style: solid;
+            border-width: 1px;
+            font-size: 14px;
+            height: auto;
+            line-height: 21px;
+            margin-top: 0;
+            margin-left: 0;
+            margin-right: 0;
+            padding: 10px 10px;
+            width: 100%;
+            box-sizing: border-box;
+            max-width: 100%;
+            transition: all .25s ease;
+            &.input-error{
+                border-color: red !important;
+            }
+        }
+        select{
+            background-color: #fff;
+            color: #333;
+            border-color: #ccc;
+            border-style: solid;
+            border-width: 1px;
+            font-size: 14px;
+            line-height: 20px;
+            margin-bottom: 0;
+            margin-top: 0;
+            padding: 10px 28px 10px 12px;
+            width: 100%;
+            box-sizing: border-box;
+            max-width: 100%;
+            height: auto;
+            display: inline-block;
+            vertical-align: middle;
+            background: url("../icons/arrow-down.svg") no-repeat right 0.75rem center/8px 10px;
+                background-color: rgba(0, 0, 0, 0);
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+        button{
+            background-color: #151515;
+            color: white;
+            height: 50px;
+            border: none;
+            font-size: 18px;
+            font-weight: 400;
+            margin-top: $gutter;
+            padding: 5px 0px;
+            width: 100%;
+            cursor: pointer;
+            border-radius: 0;
+            outline: none !important;
+        }
+    }
+
+    text-align: center;
+    img{
+        width: 100%;
+        position: relative;
+    }
+    .text-element{
+        margin: 35px 0 30px 0;
+        h3{
+            margin: 25px 0 10px 0;
+            font-weight: bold;
+        }
+        p{
+            margin: 0;
+            padding: 0;
+            color: rgb(127, 140, 141);
+        }
+    }
+
+}

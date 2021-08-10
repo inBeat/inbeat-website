@@ -232,12 +232,13 @@ function topInfluencers() {
 }
 
 function popup() {
+   
     if (document.getElementById('popupOverlay') === null) { return };
     // Get Popup from the DOM
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
-    var popupContent = document.getElementById("popupContent");
+    var popupContent = document.getElementsByClassName("popupContent");
     var contentParent = popupOverlay.querySelector(".content-wrapper")
     var isOpen = false;
     var defaultWidth = innerPopup.style.width;
@@ -260,7 +261,7 @@ function popup() {
         } else {
             innerPopup.style.width = defaultWidth;
             innerPopup.style.height = defaultHeight;
-            if(popupContent != null){
+            if(contentParent.querySelector("video")){
                 contentParent.style.padding = '50px';
             }
         }
@@ -298,7 +299,6 @@ function popup() {
             })
         }
     }
-
     // For each DIV that have the class .popupTrigger, when click open et set position of the popup
     document.querySelectorAll('.popupTrigger').forEach(function (item) {
         item.addEventListener('click', function (e) {

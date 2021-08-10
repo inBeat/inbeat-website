@@ -57,34 +57,18 @@
 		background-color: white;
 		position: absolute;
 		transform: translateY(100px);
-		img{
-			width: 100%;
-			position: relative;
-			border-radius: 10px 10px 0px 0px;
-		}
+
 		&.popupInner--fadeIn {
 			animation: togglePopup forwards 0.25s cubic-bezier(0.25, 0.62, 0.15, 1);
 			animation-delay: 0.2s;
 			display: block;
 		}
-		// &.embed-popup{
-		// 	border-radius: 10px;
-		// 	width: 800px;
-		// 	height: auto;
-		// 	.close{
-		// 		display: none;
-		// 	}
-		// 	.embedForm{
-		// 		margin-top: 50px;
-		// 		margin-bottom: 25px;
-		// 	}
-		// 	.ml-form-align-center{
-		// 		border-radius: 10px;
-		// 		padding-bottom: 50px;
-		// 	}
-		// }
+		&.auto-wh{
+			width: auto;
+			height: auto;
+		}
 		.content-wrapper {
-			padding: 50px;
+			padding: 0px;
 			video {
 				border-radius: 10px;
 				width: 100%;
@@ -104,8 +88,6 @@
 		}
 		.btn {
 			width: 100% !important;
-		}
-		button {
 			background-color: #151515;
 			color: white;
 			height: 112px;

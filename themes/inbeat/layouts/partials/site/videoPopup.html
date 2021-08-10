@@ -4,10 +4,10 @@
             {{- partial "icons/close.html" -}}
         </div>
         <div class="content-wrapper">
-            <video controls id="popupContent">
+            <video controls class="popupContent">
                 <source src="/videos/{{ .video }}.mp4" />
             </video>
         </div>
-        <a href="{{- .button.cta.link -}}"><button> {{- htmlUnescape .button.cta.text | markdownify -}}</button></a>
+        <a href="{{- .button.cta.link -}}"><button class="btn"> {{- htmlUnescape .button.cta.text | markdownify -}}</button></a>
     </div>
 </section>

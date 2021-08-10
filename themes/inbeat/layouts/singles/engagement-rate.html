@@ -1,4 +1,5 @@
 {{- define "main" -}}
+{{- $acAPI := "http://localhost/" -}}
 {{- $endpointUrl := "http://localhost:4000/engagement-calculator" -}}
 {{- if getenv "IS_PROD" -}}
 {{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
@@ -9,6 +10,7 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
+
 <section class="container mobile-adjusted page-top" id="engagement-header">
     <h1>{{- .Params.titre -}}</h1>
     <p>{{- .Params.subtitle | markdownify -}}</p>
@@ -149,6 +151,7 @@
 </section>
 <section class="container m-tb-160 mobile-adjusted" id="start-now">
     <div class="row">
+        
         <div class="col-xs-12 col-sm-4 col1">
             <h2>Find more influencers</h2>
             <h4>Search thousands of influencers with inBeat</h4>
@@ -202,7 +205,9 @@
                     horizontalLinesNumber: 5
                 },
                 error: null,
+                errorform: null,
                 loading: false,
+                loadingform: false,
                 quotaReached: false,
                 initialSearch: true,
             };
@@ -212,36 +217,91 @@
             this.submit();
             this.initialSearch = false;
         },
-        mounted() {
-            // Check for the embed submit form display
-          //  this.mutationObserver();
-        },
+        mounted() {},
         methods: {
-            /*mutationObserver(){
-                // Because de mailerlite embed form don't have any callback function on submit
-                // We have to check the state of the success message. If displayed we know for a fact that the submit was successful
-                var _this = this
-                var observer = new MutationObserver(function(mutations) {
-                    console.log('observer', observer);
-                    mutations.forEach(function(mutation) {
-                        console.log(mutation);
-                        if (window.getComputedStyle(mutation.target).display === "none") {
-                            setCookie('erc-submit', true, 60);
-                            togglePopup();
-                            _this.submit();
+            validateEmail(email) {
+               var re = /\S+@\S+\.\S+/;
+               return re.test(email.value);
+            },
+            request(url, data, request){
+                    this.loadingform = true;
+                    return new Promise(function (resolve, reject) {
+                        var xhr = new XMLHttpRequest();
+                        xhr.open(request, url, true);
+                        xhr.setRequestHeader('Content-Type', 'application/json');
+                        xhr.onload = function () {
+                            var status = xhr.status;
+                            if (status == 200) {
+                                resolve(xhr.response);
+                            } else {
+                                reject(status);
+                            }
+                        };
+                        xhr.onerror = function () {
+                          resolve(undefined);
+                          console.error('** An error occurred during the XMLHttpRequest');
+                        };
+                        xhr.send(data);
+                    });
+            },
+            getTagId(tagName) {
+                switch (tagName) {
+                    case 'Influencer':
+                        return '1'
+                        break;
+                    case 'Brand':
+                        return '2'
+                        break;
+                    case 'Agency':
+                        return '3'
+                        break;
+                    case 'E-commerce':
+                        return '4'
+                        break;
+                    default:
+                        return 0;
+                }
+            },
+             async formSubmit(){
+               var error =  this.errorform;
+               var _this = this;
+               var formElements = document.getElementById('form-popup').elements;
+                 // Check for valide email
+                 if (!this.validateEmail(formElements[0])) {
+                     formElements[0].classList.add('input-error')
+                 } else {
+                     formElements[0].classList.remove('input-error')
+                 }
+                 var data = JSON.stringify({
+                     'contact': {
+                         'email': formElements[0].value,
+                         'tag': formElements[1].value
+                     }
+                 });
+                 console.log('Creating contact...', data);
+                 var tagID = this.getTagId(formElements[1].value);
+                 var setTag = {}
+                await _this.request('http://localhost:80/post', data, 'POST').then(async function(response){ 
+                    var parseData = JSON.parse(response).data                   
+                    setTag = JSON.stringify({
+                        'contactTag': {
+                            'contact': JSON.parse(parseData).contact.id,
+                            'tag':  tagID
                         }
-
-                    });    
-                });
-                var observerConfig = {
-                    attributes: true, 
-                    childList: true, 
-                    characterData: true 
-                };
-                var targetNode = document.getElementById('form-content');
-                observer.observe(targetNode, observerConfig);
-            },*/
-            cookie(name){
+                    });
+                    console.log('Setting tag', setTag);
+                    await _this.request('http://localhost:80/post', setTag , 'POST').then(function(response){   
+                        console.log('Done...', response);
+                        setCookie('erc-submit', true, 60);
+                        togglePopup();
+                    });
+                }).catch(function(e) {
+                  console.log('Status', e);
+                  _this.errorform = 'There has been an error, please try again';
+                })
+                this.loadingform = false;
+            },
+            getCookie(name){
                 var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
                 for (var i = 0; i < ca.length; i++) {
@@ -250,6 +310,15 @@
                     if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
                 }
                 return null;
+            },
+            setCookie(name){
+                var expires = '';
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+                document.cookie = name + "=" + (value || "") + expires + "; path=/";
             },
             submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
@@ -261,45 +330,43 @@
                     this.error = 'Please enter a username.';
                     return;
                 }
-                if (this.cookie('erc-submit') || this.getFirstData === false) {   
-                        this.loading = true;
-                        var _this = this;
-                        var request = new XMLHttpRequest();
-                        this.getFirstData = true;
-                        request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                        request.setRequestHeader('Content-Type', 'application/json');
-                        request.onload = function() {
-                            if (!request.status || request.status !== 200) {
-                                if (request.status === 429) {
-                                    _this.quotaReached = true;
-                                    _this.error = 'You reached your quota for this hour. Try again later.';
-                                    _this.loading = false;
-                                    return
-                                }
-                                var res = JSON.parse(request.response);
-                                _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                                _this.loading = false;
-                                return
-                            }
-                            var res = JSON.parse(request.response);
-                            _this.user = res.user;
-                            _this.posts = res.posts;
-                            _this.labels.xLabels = res.posts.map((_, i) => i+1);
-                            _this.datasetLikes = res.posts.map(post => post.likes);
-                            _this.datasetComments = res.posts.map(post => post.comments);
-                            _this.error = null;
+                this.loading = true;
+                var _this = this;
+                var request = new XMLHttpRequest();
+                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                request.setRequestHeader('Content-Type', 'application/json');
+                request.onload = function() {
+                    if (!request.status || request.status !== 200) {
+                        if (request.status === 429) {
+                            _this.quotaReached = true;
+                            _this.error = 'You reached your quota for this hour. Try again later.';
                             _this.loading = false;
-                        };
-                        request.onerror = function() {
-                            console.log(request.response);
-                            _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                            _this.loading = false;
+                            return
                         }
-                        request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-                    }else{
-                        this.error = null;
-                        togglePopup();
+                        var res = JSON.parse(request.response);
+                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                        _this.loading = false;
+                        return
                     }
+                    var res = JSON.parse(request.response);
+                    _this.user = res.user;
+                    _this.posts = res.posts;
+                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                    _this.datasetLikes = res.posts.map(post => post.likes);
+                    _this.datasetComments = res.posts.map(post => post.comments);
+                    _this.error = null;
+                    _this.loading = false;
+                    _this.getFirstData = true;
+                };
+                request.onerror = function() {
+                    console.log(request.response);
+                    _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                    _this.loading = false;
+                }
+                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                if(!this.getCookie('erc-submit') && this.getFirstData === true){
+                    setTimeout(function(){ this.togglePopup(); }, 500);
+                }
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
