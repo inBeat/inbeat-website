@@ -1,21 +1,3 @@
-@keyframes toggleOverlay {
-	from {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
-}
-@keyframes togglePopup {
-	from {
-		opacity: 0;
-		transform: translateY(100px);
-	}
-	to {
-		opacity: 1;
-		transform: translateY(32px);
-	}
-}
 .popupTrigger {
 	cursor: pointer;
 }
@@ -27,18 +9,19 @@
 	-ms-filter: blur(6px);
 }
 #popupOverlay {
-	z-index: 100;
+	z-index: -1;
 	opacity: 0;
-	display: none;
+	display: block;
 	background: rgba(0, 0, 0, 0.6);
 	position: fixed;
 	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
+	transition: all .2s ease-in-out;
 	&.popupOverlay--fadeIn {
-		animation: toggleOverlay forwards 0.2s ease-in-out;
-		display: block;
+		opacity: 1;
+		z-index: 100;
 	}
 	.popup {
 		@include breakpoint(xs) {
@@ -57,11 +40,10 @@
 		background-color: white;
 		position: absolute;
 		transform: translateY(100px);
-
+		transition: all .25s ease-in-out;
 		&.popupInner--fadeIn {
-			animation: togglePopup forwards 0.25s cubic-bezier(0.25, 0.62, 0.15, 1);
-			animation-delay: 0.2s;
-			display: block;
+			opacity: 1;
+			transform: translateY(32px);
 		}
 		&.auto-wh{
 			width: auto;

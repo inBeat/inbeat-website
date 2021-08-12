@@ -284,9 +284,7 @@ function popup() {
             }
             document.body.style.overflow = 'hidden';
             document.querySelectorAll('section').forEach(function (item) {
-                if(item.id !== "engagement-calculator"){
-                    item.classList.add("blur");
-                }
+                item.classList.add("blur");
             })
         } else {
             if(contentParent.querySelector("video")){
