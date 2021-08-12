@@ -1,4 +1,4 @@
-<section id="popupOverlay">
+<div id="popupOverlay">
   <div class="popup auto-wh">
     <div class="close hide-sm-up hide-sm">
       {{- partial "icons/close.html" -}}
@@ -12,7 +12,7 @@
         </div>
         <p v-if="errorform" class="errorform">{ errorform }</p>
         <div class="form-content">
-          <input name="email" placeholder="Email" value="John@test.com">
+          <input name="email" placeholder="Email">
           <div>
             <select  name="tag" class="form-control">
               <option value="Influencer" selected="true">Influencer</option>
@@ -29,4 +29,4 @@
       </form>
     </div>
   </div>
-</section>
+</div>

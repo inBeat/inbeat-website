@@ -1,5 +1,4 @@
 {{- define "main" -}}
-{{- $acAPI := "http://localhost/" -}}
 {{- $endpointUrl := "http://localhost:4000/engagement-calculator" -}}
 {{- if getenv "IS_PROD" -}}
 {{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
@@ -10,31 +9,33 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-
-<section class="container mobile-adjusted page-top" id="engagement-header">
-    <h1>{{- .Params.titre -}}</h1>
-    <p>{{- .Params.subtitle | markdownify -}}</p>
-</section>
-<section id="engagement-calculator" class="container mobile-adjusted">
-    {{- if $maintenance -}}
-        <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
-    {{- else -}}
-    <div id="engagement-form">
-        {{- if $forInstagram -}}
-        <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
-        {{- else -}}
-        <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
-        {{- end -}}
-        <button type="submit" @click="submit">
-            <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
-            <span v-else>Check Profile</span>
-        </button>
-    </div>
+<div id="engagement-rate">
     {{- partial "site/formPopup.html" -}}
-    {{- end -}}
-    <transition name="slide-fade" mode="out-in">
-        <p v-if="error" class="error">{ error }</p>
-        <div id="engagement-result" class="card row" v-else-if="!loading && user">
+    <section class="container mobile-adjusted page-top" id="engagement-header">
+        <h1>{{- .Params.titre -}}</h1>
+        <p>{{- .Params.subtitle | markdownify -}}</p>
+    </section>
+    <section id="engagement-calculator" class="container mobile-adjusted">
+        {{- if $maintenance -}}
+            <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
+        {{- else -}}
+        <div id="engagement-form">
+            {{- if $forInstagram -}}
+            <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
+            {{- else -}}
+            <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
+            {{- end -}}
+            <button type="submit" @click="submit">
+                <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
+                <span v-else>Check Profile</span>
+            </button>
+        </div>
+
+        {{- end -}}
+
+        <transition name="slide-fade" mode="out-in">
+            <p v-if="error" class="error">{ error }</p>
+        <div id="engagement-result" class="card row section" v-else-if="!loading && user">
             <div class="col-xs-12 col-md-4 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
@@ -151,7 +152,6 @@
 </section>
 <section class="container m-tb-160 mobile-adjusted" id="start-now">
     <div class="row">
-        
         <div class="col-xs-12 col-sm-4 col1">
             <h2>Find more influencers</h2>
             <h4>Search thousands of influencers with inBeat</h4>
@@ -168,7 +168,7 @@
         </div>
     </div>
 </section>
-
+</div>
 {{- if $forInstagram -}}
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 {{- else -}}
@@ -184,7 +184,7 @@
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#engagement-calculator',
+        el: '#engagement-rate',
         data() {
             return {
                 username: '',
@@ -223,23 +223,30 @@
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
             },
-            request(url, data, request){
-                    this.loadingform = true;
+            request(data, request){
                     return new Promise(function (resolve, reject) {
                         var xhr = new XMLHttpRequest();
+                        xhr.withCredentials = true;
                         xhr.open(request, url, true);
+                        xhr.open(request, "https://graphql.inbeat.co/active-campaign", true);
                         xhr.setRequestHeader('Content-Type', 'application/json');
+                        xhr.setRequestHeader("Cookie", "PHPSESSID=e9e5deedccfaf5d37bd162d1037419f3");
                         xhr.onload = function () {
                             var status = xhr.status;
                             if (status == 200) {
                                 resolve(xhr.response);
                             } else {
-                                reject(status);
+                                reject({
+                                  status: this.status,
+                                  statusText: xhr.statusText
+                                });
                             }
                         };
                         xhr.onerror = function () {
-                          resolve(undefined);
-                          console.error('** An error occurred during the XMLHttpRequest');
+                          reject({
+                            status: this.status,
+                            statusText: xhr.statusText
+                          });
                         };
                         xhr.send(data);
                     });
@@ -262,41 +269,43 @@
                         return 0;
                 }
             },
-             async formSubmit(){
-               var error =  this.errorform;
-               var _this = this;
-               var formElements = document.getElementById('form-popup').elements;
-                 // Check for valide email
-                 if (!this.validateEmail(formElements[0])) {
-                     formElements[0].classList.add('input-error')
-                 } else {
-                     formElements[0].classList.remove('input-error')
-                 }
-                 var data = JSON.stringify({
-                     'contact': {
-                         'email': formElements[0].value,
-                         'tag': formElements[1].value
-                     }
-                 });
-                 console.log('Creating contact...', data);
-                 var tagID = this.getTagId(formElements[1].value);
-                 var setTag = {}
-                await _this.request('http://localhost:80/post', data, 'POST').then(async function(response){ 
-                    var parseData = JSON.parse(response).data                   
-                    setTag = JSON.stringify({
+            async formSubmit() {
+                this.loadingform = true;
+                var error = this.errorform;
+                var _this = this;
+                var formElements = document.getElementById('form-popup').elements;
+                // Check for valide email
+                if (!this.validateEmail(formElements[0])) {
+                    formElements[0].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[0].classList.remove('input-error')
+                }
+                var data = JSON.stringify({
+                    'url': '/api/3/contacts',
+                    'contact': {
+                        'email': formElements[0].value,
+                        'tag': formElements[1].value
+                    }
+                });
+                await _this.request(data, 'POST').then(async function(response){ 
+                    var res = JSON.parse(response);
+                    var tagData = JSON.stringify({
+                        'url': '/api/3/contactTags',
                         'contactTag': {
-                            'contact': JSON.parse(parseData).contact.id,
-                            'tag':  tagID
+                            'contact': res.contact.id,
+                            'tag':  _this.getTagId(formElements[1].value)
                         }
                     });
-                    console.log('Setting tag', setTag);
-                    await _this.request('http://localhost:80/post', setTag , 'POST').then(function(response){   
-                        console.log('Done...', response);
+                    await _this.request(tagData , 'POST').then(function(response){   
                         setCookie('erc-submit', true, 60);
                         togglePopup();
+                        // reset value
+                        formElements[0].value = null;
+                        formElements[1].value = "Influencer";
                     });
                 }).catch(function(e) {
-                  console.log('Status', e);
                   _this.errorform = 'There has been an error, please try again';
                 })
                 this.loadingform = false;
@@ -365,7 +374,9 @@
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
                 if(!this.getCookie('erc-submit') && this.getFirstData === true){
-                    setTimeout(function(){ this.togglePopup(); }, 500);
+                    request.addEventListener('loadend', (() =>{
+                        setTimeout(function(){ this.togglePopup(); }, 500);
+                    }));
                 }
             },
             formatFollowing(nb) {
