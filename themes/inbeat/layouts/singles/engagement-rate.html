@@ -227,8 +227,7 @@
                     return new Promise(function (resolve, reject) {
                         var xhr = new XMLHttpRequest();
                         xhr.withCredentials = true;
-                        xhr.open(request, url, true);
-                        xhr.open(request, "https://graphql.inbeat.co/active-campaign", true);
+                        xhr.open(request, 'https://graphql.inbeat.co/active-campaign', true);
                         xhr.setRequestHeader('Content-Type', 'application/json');
                         xhr.setRequestHeader("Cookie", "PHPSESSID=e9e5deedccfaf5d37bd162d1037419f3");
                         xhr.onload = function () {
@@ -269,6 +268,14 @@
                         return 0;
                 }
             },
+            clearFormPopup(formObject){
+                setCookie('erc-submit', true, 60);
+                togglePopup();
+                // reset value
+                formObject[0].value = null;
+                formObject[1].value = 'Influencer';
+                this.loadingform = false;
+            },
             async formSubmit() {
                 this.loadingform = true;
                 var error = this.errorform;
@@ -281,6 +288,10 @@
                     return;
                 } else {
                     formElements[0].classList.remove('input-error')
+                }
+                if(_this.getTagId(formElements[1].value) === '1'){
+                    _this.clearFormPopup(formElements);
+                    return;
                 }
                 var data = JSON.stringify({
                     'url': '/api/3/contacts',
@@ -299,11 +310,7 @@
                         }
                     });
                     await _this.request(tagData , 'POST').then(function(response){   
-                        setCookie('erc-submit', true, 60);
-                        togglePopup();
-                        // reset value
-                        formElements[0].value = null;
-                        formElements[1].value = "Influencer";
+                        _this.clearFormPopup(formElements);
                     });
                 }).catch(function(e) {
                   _this.errorform = 'There has been an error, please try again';
