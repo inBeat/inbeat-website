@@ -63,6 +63,6 @@
     </div>
 </section>
 {{- if isset .Params.header "ctasecond" -}}
-{{- partial "site/popup.html" (dict "context" . "video" "deep-search" "button" .Params.header) -}}
+{{- partial "site/videoPopup.html" (dict "context" . "video" "deep-search" "button" .Params.header) -}}
 {{- end -}}
 {{- end -}}

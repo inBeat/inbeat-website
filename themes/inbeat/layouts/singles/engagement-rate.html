@@ -9,30 +9,33 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-<section class="container mobile-adjusted page-top" id="engagement-header">
-    <h1>{{- .Params.titre -}}</h1>
-    <p>{{- .Params.subtitle | markdownify -}}</p>
-</section>
-<section id="engagement-calculator" class="container mobile-adjusted">
-    {{- if $maintenance -}}
-        <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
-    {{- else -}}
-    <div id="engagement-form">
-        {{- if $forInstagram -}}
-        <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
+<div id="engagement-rate">
+    {{- partial "site/formPopup.html" -}}
+    <section class="container mobile-adjusted page-top" id="engagement-header">
+        <h1>{{- .Params.titre -}}</h1>
+        <p>{{- .Params.subtitle | markdownify -}}</p>
+    </section>
+    <section id="engagement-calculator" class="container mobile-adjusted">
+        {{- if $maintenance -}}
+            <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
-        <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
+        <div id="engagement-form">
+            {{- if $forInstagram -}}
+            <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
+            {{- else -}}
+            <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
+            {{- end -}}
+            <button type="submit" @click="submit">
+                <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
+                <span v-else>Check Profile</span>
+            </button>
+        </div>
+
         {{- end -}}
-        <button type="submit" @click="submit">
-            <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
-            <span v-else>Check Profile</span>
-        </button>
-    </div>
-    {{- partial "site/embedFormPopup.html" -}}
-    {{- end -}}
-    <transition name="slide-fade" mode="out-in">
-        <p v-if="error" class="error">{ error }</p>
-        <div id="engagement-result" class="card row" v-else-if="!loading && user">
+
+        <transition name="slide-fade" mode="out-in">
+            <p v-if="error" class="error">{ error }</p>
+        <div id="engagement-result" class="card row section" v-else-if="!loading && user">
             <div class="col-xs-12 col-md-4 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
@@ -165,7 +168,7 @@
         </div>
     </div>
 </section>
-
+</div>
 {{- if $forInstagram -}}
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 {{- else -}}
@@ -179,26 +182,9 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script>
-    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
-    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
-    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
-    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
-    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
-
-    var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
-</script>
-<script>
-  function ml_webform_success_4501534(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-4501534 .row-success").show(),r(".ml-subscribe-form-4501534 .row-form").hide()}
-</script>
-<img src="https://track.mailerlite.com/webforms/o/4501534/a2m7j4?v1627942601" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
-<style type="text/css">
-  @import url(https://static.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1627892);
-</style> 
-<script src="https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c" type="text/javascript"></script>
-<script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#engagement-calculator',
+        el: '#engagement-rate',
         data() {
             return {
                 username: '',
@@ -219,7 +205,9 @@
                     horizontalLinesNumber: 5
                 },
                 error: null,
+                errorform: null,
                 loading: false,
+                loadingform: false,
                 quotaReached: false,
                 initialSearch: true,
             };
@@ -229,36 +217,107 @@
             this.submit();
             this.initialSearch = false;
         },
-        mounted() {
-            // Check for the embed submit form display
-            this.mutationObserver();
-        },
+        mounted() {},
         methods: {
-            mutationObserver(){
-                // Because de mailerlite embed form don't have any callback function on submit
-                // We have to check the state of the success message. If displayed we know for a fact that the submit was successful
-                var _this = this
-                var observer = new MutationObserver(function(mutations) {
-                    console.log('observer', observer);
-                    mutations.forEach(function(mutation) {
-                        console.log(mutation);
-                        if (window.getComputedStyle(mutation.target).display === "none") {
-                            setCookie('erc-submit', true, 60);
-                            togglePopup();
-                            _this.submit();
-                        }
-
-                    });    
-                });
-                var observerConfig = {
-                    attributes: true, 
-                    childList: true, 
-                    characterData: true 
-                };
-                var targetNode = document.getElementById('form-content');
-                observer.observe(targetNode, observerConfig);
+            validateEmail(email) {
+               var re = /\S+@\S+\.\S+/;
+               return re.test(email.value);
             },
-            cookie(name){
+            request(data, request){
+                    return new Promise(function (resolve, reject) {
+                        var xhr = new XMLHttpRequest();
+                        xhr.withCredentials = true;
+                        xhr.open(request, 'https://graphql.inbeat.co/active-campaign', true);
+                        xhr.setRequestHeader('Content-Type', 'application/json');
+                        xhr.setRequestHeader("Cookie", "PHPSESSID=e9e5deedccfaf5d37bd162d1037419f3");
+                        xhr.onload = function () {
+                            var status = xhr.status;
+                            if (status == 200) {
+                                resolve(xhr.response);
+                            } else {
+                                reject({
+                                  status: this.status,
+                                  statusText: xhr.statusText
+                                });
+                            }
+                        };
+                        xhr.onerror = function () {
+                          reject({
+                            status: this.status,
+                            statusText: xhr.statusText
+                          });
+                        };
+                        xhr.send(data);
+                    });
+            },
+            getTagId(tagName) {
+                switch (tagName) {
+                    case 'Influencer':
+                        return '1'
+                        break;
+                    case 'Brand':
+                        return '2'
+                        break;
+                    case 'Agency':
+                        return '3'
+                        break;
+                    case 'E-commerce':
+                        return '4'
+                        break;
+                    default:
+                        return 0;
+                }
+            },
+            clearFormPopup(formObject){
+                setCookie('erc-submit', true, 60);
+                togglePopup();
+                // reset value
+                formObject[0].value = null;
+                formObject[1].value = 'Influencer';
+                this.loadingform = false;
+            },
+            async formSubmit() {
+                this.loadingform = true;
+                var error = this.errorform;
+                var _this = this;
+                var formElements = document.getElementById('form-popup').elements;
+                // Check for valide email
+                if (!this.validateEmail(formElements[0])) {
+                    formElements[0].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[0].classList.remove('input-error')
+                }
+                if(_this.getTagId(formElements[1].value) === '1'){
+                    _this.clearFormPopup(formElements);
+                    return;
+                }
+                var data = JSON.stringify({
+                    'url': '/api/3/contacts',
+                    'contact': {
+                        'email': formElements[0].value,
+                        'tag': formElements[1].value
+                    }
+                });
+                await _this.request(data, 'POST').then(async function(response){ 
+                    var res = JSON.parse(response);
+                    var tagData = JSON.stringify({
+                        'url': '/api/3/contactTags',
+                        'contactTag': {
+                            'contact': res.contact.id,
+                            'tag':  _this.getTagId(formElements[1].value)
+                        }
+                    });
+                    await _this.request(tagData , 'POST').then(function(response){   
+                        _this.clearFormPopup(formElements);
+                    });
+                }).catch(function(e) {
+                  _this.errorform = 'There has been an error, please try again';
+                })
+                this.loadingform = false;
+            },
+            getCookie(name){
                 var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
                 for (var i = 0; i < ca.length; i++) {
@@ -268,8 +327,16 @@
                 }
                 return null;
             },
+            setCookie(name){
+                var expires = '';
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+                document.cookie = name + "=" + (value || "") + expires + "; path=/";
+            },
             submit() {
-                var ml_webform_4410091 = ml_account('webforms', '4410091', 'p3j0a2', 'load');
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
@@ -279,45 +346,45 @@
                     this.error = 'Please enter a username.';
                     return;
                 }
-                if (this.cookie('erc-submit') || this.getFirstData === false) {   
-                        this.loading = true;
-                        var _this = this;
-                        var request = new XMLHttpRequest();
-                        this.getFirstData = true;
-                        request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                        request.setRequestHeader('Content-Type', 'application/json');
-                        request.onload = function() {
-                            if (!request.status || request.status !== 200) {
-                                if (request.status === 429) {
-                                    _this.quotaReached = true;
-                                    _this.error = 'You reached your quota for this hour. Try again later.';
-                                    _this.loading = false;
-                                    return
-                                }
-                                var res = JSON.parse(request.response);
-                                _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                                _this.loading = false;
-                                return
-                            }
-                            var res = JSON.parse(request.response);
-                            _this.user = res.user;
-                            _this.posts = res.posts;
-                            _this.labels.xLabels = res.posts.map((_, i) => i+1);
-                            _this.datasetLikes = res.posts.map(post => post.likes);
-                            _this.datasetComments = res.posts.map(post => post.comments);
-                            _this.error = null;
+                this.loading = true;
+                var _this = this;
+                var request = new XMLHttpRequest();
+                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                request.setRequestHeader('Content-Type', 'application/json');
+                request.onload = function() {
+                    if (!request.status || request.status !== 200) {
+                        if (request.status === 429) {
+                            _this.quotaReached = true;
+                            _this.error = 'You reached your quota for this hour. Try again later.';
                             _this.loading = false;
-                        };
-                        request.onerror = function() {
-                            console.log(request.response);
-                            _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                            _this.loading = false;
+                            return
                         }
-                        request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-                    }else{
-                        this.error = null;
-                        togglePopup();
+                        var res = JSON.parse(request.response);
+                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                        _this.loading = false;
+                        return
                     }
+                    var res = JSON.parse(request.response);
+                    _this.user = res.user;
+                    _this.posts = res.posts;
+                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                    _this.datasetLikes = res.posts.map(post => post.likes);
+                    _this.datasetComments = res.posts.map(post => post.comments);
+                    _this.error = null;
+                    _this.loading = false;
+                    _this.getFirstData = true;
+                };
+                request.onerror = function() {
+                    console.log(request.response);
+                    _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                    _this.loading = false;
+                }
+                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                if(!this.getCookie('erc-submit') && this.getFirstData === true){
+                    request.addEventListener('loadend', (() =>{
+                        setTimeout(function(){ this.togglePopup(); }, 500);
+                    }));
+                }
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
