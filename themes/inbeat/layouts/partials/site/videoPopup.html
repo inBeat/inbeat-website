@@ -3,11 +3,11 @@
         <div class="close">
             {{- partial "icons/close.html" -}}
         </div>
-        <div class="video">
-            <video controls id="popupVideo">
+        <div class="content-wrapper">
+            <video controls class="popupContent">
                 <source src="/videos/{{ .video }}.mp4" />
             </video>
         </div>
-        <a href="{{- .button.cta.link -}}"><button> {{- htmlUnescape .button.cta.text | markdownify -}}</button></a>
+        <a href="{{- .button.cta.link -}}"><button class="btn"> {{- htmlUnescape .button.cta.text | markdownify -}}</button></a>
     </div>
 </section>
