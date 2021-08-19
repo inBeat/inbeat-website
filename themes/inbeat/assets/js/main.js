@@ -238,7 +238,7 @@ function popup() {
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
-    var popupContent = document.getElementsByClassName("popupContent");
+    var popupContent = document.getElementsByClassName('popupContent')[0];
     var contentParent = popupOverlay.querySelector(".content-wrapper")
     var isOpen = false;
     var defaultWidth = innerPopup.style.width;
@@ -247,14 +247,14 @@ function popup() {
 
     // Set the position of the popup to always be centered
     function position() {
+        innerPopup.style.transition = "none";
         var pageWidth = window.innerWidth,
             pageHeight = window.innerHeight;
-
         // Check if the media query is true
         if (mediaQuery.matches) {
-            innerPopup.style.width = pageWidth + 'px';
             if(popupContent != null){
                 innerPopup.style.height = 112 + popupContent.offsetHeight + 'px';
+                innerPopup.style.margin = 10 + 'px';
                 popupContent.style.borderRadius = '0px';
                 contentParent.style.padding = '0px';
             }
@@ -265,8 +265,9 @@ function popup() {
                 contentParent.style.padding = '50px';
             }
         }
-        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + "px";
-        innerPopup.style.left = (pageWidth / 2) - (innerPopup.offsetWidth / 2) + "px";
+        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + 'px';
+        innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + 'px';
+        innerPopup.style.transition = "all .25s ease-in-out";
     }
 
     // Open/Close popup
