@@ -226,10 +226,8 @@
             request(data, request){
                     return new Promise(function (resolve, reject) {
                         var xhr = new XMLHttpRequest();
-                        xhr.withCredentials = true;
                         xhr.open(request, 'https://graphql.inbeat.co/active-campaign', true);
                         xhr.setRequestHeader('Content-Type', 'application/json');
-                        xhr.setRequestHeader("Cookie", "PHPSESSID=e9e5deedccfaf5d37bd162d1037419f3");
                         xhr.onload = function () {
                             var status = xhr.status;
                             if (status == 200) {
@@ -273,7 +271,7 @@
                 togglePopup();
                 // reset value
                 formObject[0].value = null;
-                formObject[1].value = 'Influencer';
+                formObject[1].value = 'default';
                 this.loadingform = false;
             },
             async formSubmit() {
@@ -281,14 +279,27 @@
                 var error = this.errorform;
                 var _this = this;
                 var formElements = document.getElementById('form-popup').elements;
-                // Check for valide email
-                if (!this.validateEmail(formElements[0])) {
-                    formElements[0].classList.add('input-error')
-                    this.loadingform = false;
-                    return;
-                } else {
-                    formElements[0].classList.remove('input-error')
-                }
+
+               if (!this.validateEmail(formElements[0])) {
+                   formElements[0].classList.add('input-error')
+                   this.loadingform = false;
+                   return;
+               } else {
+                   formElements[0].classList.remove('input-error')
+               }
+               // Check dropdown field
+               if(formElements[1].value === 'default'){
+                   formElements[1].classList.add('input-error')
+                   this.loadingform = false;
+                   return;
+               }else{
+                   formElements[1].classList.remove('input-error')
+               }
+               // Reset error on element change
+               formElements[1].addEventListener('change', function(e){
+                   formElements[1].classList.remove('input-error')
+               });
+
                 if(_this.getTagId(formElements[1].value) === '1'){
                     _this.clearFormPopup(formElements);
                     return;
@@ -332,9 +343,9 @@
                 if (days) {
                     var date = new Date();
                     date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                    expires = "; expires=" + date.toUTCString();
+                    expires = '; expires=' + date.toUTCString();
                 }
-                document.cookie = name + "=" + (value || "") + expires + "; path=/";
+                document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
             submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');

@@ -11,6 +11,9 @@
         width: 100%;
         margin: 0 auto;
         margin-bottom: 50px;
+        @include breakpoint(sm-down) {
+            max-width: 350px;
+        }
         input{
             margin-bottom: $gutter;
             background-color: #fff;
@@ -29,9 +32,9 @@
             box-sizing: border-box;
             max-width: 100%;
             transition: all .25s ease;
-            &.input-error{
-                border-color: red !important;
-            }
+        }
+        .input-error{
+            border-color: red !important;
         }
         select{
             background-color: #fff;
