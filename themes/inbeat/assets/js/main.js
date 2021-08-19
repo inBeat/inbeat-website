@@ -238,7 +238,7 @@ function popup() {
     var popupOverlay = document.getElementById('popupOverlay');
     var innerPopup = popupOverlay.querySelector(".popup");
     var closeBtn = popupOverlay.querySelector(".close")
-    var popupContent = document.getElementsByClassName("popupContent")[0];
+    var popupContent = document.getElementsByClassName('popupContent')[0];
     var contentParent = popupOverlay.querySelector(".content-wrapper")
     var isOpen = false;
     var defaultWidth = innerPopup.style.width;
@@ -265,8 +265,8 @@ function popup() {
                 contentParent.style.padding = '50px';
             }
         }
-        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + "px";
-        innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + "px";
+        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + 'px';
+        innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + 'px';
         innerPopup.style.transition = "all .25s ease-in-out";
     }
 
