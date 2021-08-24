@@ -10,24 +10,35 @@ footer {
         margin-bottom: 2rem;
         font-weight: bold;
     }
+    .footer-logo{
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
     ul {
         margin: 0;
         padding: 0;
         list-style: none;
     }
     a {
+        font-weight: 300;
         color: rgba(255, 255, 255, 0.5) !important;
     }
     .row.bottom {
+        padding-top: 1.25rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.15);;
+        display: flex;
+        .bugbounty{
+            margin-left: auto;
+            a{
+                text-decoration: underline;
+            }
+        }
+        >div:first-child{
+            margin-right: 2rem;
+        }
         a, span {
             font-size: 0.6875rem;
             color: rgba(255, 255, 255, 0.5);
-        }
-        a {
-            text-decoration: underline;
-        }
-        span.made {
-            color: white;
         }
     }
 }

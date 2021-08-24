@@ -1,0 +1,357 @@
+{{- define "main" -}}
+{{- $endpointUrl := "http://localhost:4000/engagement-calculator" -}}
+{{- if getenv "IS_PROD" -}}
+{{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
+{{- end -}}
+{{- $forInstagram := eq .Params.platform "instagram" -}}
+{{- $username := "amoureuxdumonde"}}
+{{- if not $forInstagram -}}
+{{- $username = "jasminmccarthyy" -}}
+{{- end -}}
+{{- $maintenance := isset .Params "maintenance" -}}
+    <section class="container mobile-adjusted page-top" id="cost-calculator-header">
+        <h1>{{- .Params.titre -}}</h1>
+        <p>{{- .Params.subtitle | markdownify -}}</p>
+    </section>
+    <section id="collaboration-cost-calculator" class="container mobile-adjusted">
+        {{- if $maintenance -}}
+            <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
+        {{- else -}}
+        <div id="cost-calculator-form">
+            {{- if $forInstagram -}}
+            <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
+            {{- else -}}
+            <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
+            {{- end -}}
+            <button type="submit" @click="submit">
+                <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
+                <span v-else>Check Cost</span>
+            </button>
+        </div>
+        {{- end -}}
+<transition name="slide-fade" mode="out-in">
+    <p v-if="error" class="error">{ error }</p>
+    <div id="cost-calculator-result" class="card row" v-else-if="!loading && user">
+        <div class="col-xs-12 col-md-6 profile-info">
+            <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
+            <p class="username" @click="openProfile">@{ user.username }</p>
+            <div class="influencer-type-badge ">{ costCalculator.influencerBadge }</div>
+            <div class="estimated-total row">
+            <div class="card col-xs-12 col-md-12">
+                <p>Estimated Total (USD)</p>
+                <div class="result" v-if="costCalculator.minRange == 0">
+                    <span class="min-range"> $0</span>
+                </div>
+                <div class="result" v-else>
+                    <span class="min-range"> ${ costCalculator.minRange }</span>
+                    <div class="dash"></div>
+                    <span class="max-range"> ${ costCalculator.maxRange }</span>
+                </div>
+                <div class="border"></div>
+            </div>
+            </div>
+            <div class="estimated-total-selector row">
+                <div class="col-xs-12 col-md-12 card">
+                    <div class="col-md-12 selector"> 
+                        {{- partial "icons/posts.html" -}} 
+                        <span>{ costCalculator.postValue } Post</span>
+                        <div class="controle">
+                            <div class="btn" @click="updateControlerValue(false, 'postValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
+                            <div class="btn" @click="updateControlerValue(true, 'postValue')">{{- partial "icons/increase-btn.html" -}} </div>  
+                        </div>
+                    </div>
+                    <div class="col-md-12 selector"> 
+                        {{- partial "icons/stories.html" -}} 
+                        <span>{ costCalculator.storiesValue } Stories</span>
+                        <div class="controle">
+                            <div class="btn" @click="updateControlerValue(false, 'storiesValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
+                            <div class="btn" @click="updateControlerValue(true, 'storiesValue')">{{- partial "icons/increase-btn.html" -}} </div> 
+                        </div>
+                    </div>
+                    <div class="col-md-12 selector"> 
+                        {{- partial "icons/reels.html" -}} 
+                        <span>{ costCalculator.reelsValue }  Reels</span>
+                        <div class="controle">
+                            <div class="btn" @click="updateControlerValue(false, 'reelsValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
+                            <div class="btn" @click="updateControlerValue(true, 'reelsValue')">{{- partial "icons/increase-btn.html" -}} </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 posts-info">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 stats">
+                    <div class="stats-title">
+                        <p>Calculation Based on</p>
+                    </div>
+                    <div class="card p-tb-60">
+                        <div class="row">
+                            <div class="followers col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/followers.html" -}}
+                                <p>{ formatFollowing(user.followers) }</p>
+                                <span>Followers</span>
+                            </div>
+                            <div class="engagement col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/engagement.html" -}}
+                                <p>{ user.engagement.toFixed(2) }%</p>
+                                <span>Engagement Rate</span>
+                            </div>
+                            <div class="likes col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/heart.html" -}}
+                                <p>{ formatNb(user.avg_likes) }</p>
+                                <span>Avg. Likes</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-12 ">
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12 col-xs-12 title">
+                                <p>Reach Progression</p>
+                            </div>
+                            <div class="col-lg-8 col-md-12 col-sm-12 graph ">
+                                <svg style="width:0; height:0; position:absolute;" aria-hidden="true" focusable="false">
+                                    <defs>
+                                        <linearGradient id="graphFill" x1="1" x2="1" y1="0" y2="1">
+                                            <stop offset="0%" stop-color="#E7AEC0"></stop>
+                                            <stop offset="100%" stop-color="#FAECDB"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                </svg>
+                                <trend-chart v-if="datasetLikes.length"
+                                    :datasets="[{data: datasetLikes, fill: true, className: 'curve-inbeat', smooth: true}]"
+                                    :labels="labels" :min="0" :grid="grid" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="col-xs-12 col-md-12 posts">
+                    <div class="card">
+                        <p class="card-title">Latest Performance</p>
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-3 col-md-3" v-for="post in posts.slice(0, 4)" :key="post.url">
+                                <div class="post" @click="openPost(post.url)">
+                                    <div class="img" :style="`background-image: url(${post.image})`">
+                                        <div class="views" v-if="post.is_video">
+                                            {{- partial "icons/play-empty.html" -}}{ formatNb(post.video_views)}
+                                        </div>
+                                    </div>
+                                    <p>
+                                        <span>{{- partial "icons/heart.html" -}} { formatNb(post.likes) }</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</transition>
+</section>
+<section class="container m-tb-160 mobile-adjusted" id="start-now">
+    <div class="row">
+        <div class="col-xs-12 col-sm-4 col1">
+            <h2>Find more influencers</h2>
+            <h4>Search thousands of influencers with inBeat</h4>
+            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
+                <span>Try it now</span> &#8212 it's free
+            </a>
+            <p class="signin">
+                Already in the family?
+                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-offset-1 col-sm-7 hide-sm align-right">
+            {{- partial "icons/engagement-img.html" -}}
+        </div>
+    </div>
+</section>
+
+{{- if $forInstagram -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+{{- else -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
+{{- end -}}
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script>
+    var notCharRegex = /[^\w\d.-]/g;
+    var app = new Vue({
+        el: '#collaboration-cost-calculator',
+        data() {
+            return {
+                username: '',
+                user: null,
+                posts: [],
+                datasetLikes: [],
+                datasetComments: [],
+                labels: {
+                    xLabels: [],
+                    yLabels: 5,
+                    yLabelsTextFormatter: val => this.formatNb(val)
+                },
+                grid: {
+                    verticalLines: true,
+                    verticalLinesNumber: 1,
+                    horizontalLines: true,
+                    horizontalLinesNumber: 5
+                },
+                error: null,
+                loading: false,
+                quotaReached: false,
+                initialSearch: true,
+                costCalculator:{
+                    postValue: 1,
+                    storiesValue: 0,
+                    reelsValue: 0,
+                    minRange: 0,
+                    maxRange: 0,
+                    influencerBadge: ""
+                }
+            };
+        },
+        created() {
+            if ('{{ $maintenance | safeJS }}' === 'true') return;
+            this.submit();
+            this.initialSearch = false;
+        },
+        methods: {
+            getInfluencerBadge(nbFollowers){
+                if(nbFollowers > 1 && nbFollowers < 10000)
+                    return 'Nano Influencer';
+                if(nbFollowers >= 10000 && nbFollowers < 50000)
+                    return 'Micro Influencer';
+                if(nbFollowers >= 50000 && nbFollowers < 300000)
+                    return 'Mid-Tier Influencer';
+                if(nbFollowers >= 300000 && nbFollowers < 1000000)
+                    return 'Mid-Tier Influencer';
+                if(nbFollowers >= 1000000)
+                    return 'Mega Influencer';
+            },
+            updateFullPrice(){
+                var followeCount = (1 / 100) * this.user.followers;
+                var engagementRate = 1 + (this.user.engagement/100);
+                var base = Math.round(followeCount * engagementRate);
+                var cost = base * ((this.costCalculator.postValue * 1) + (this.costCalculator.storiesValue * .5) + (this.costCalculator.reelsValue * 1.3));
+                var min = cost - (cost * .15);
+                var max = cost + (cost * .15);
+                this.costCalculator.minRange = this.formatNb(min);
+                this.costCalculator.maxRange = this.formatNb(max);
+            },
+            updateControlerValue(bool, controler){
+                if(!bool){
+                    if(this.costCalculator[controler] === 0){return}
+                    this.costCalculator[controler]--
+                }else{
+                    this.costCalculator[controler]++
+                }
+                this.updateFullPrice();
+            },
+            submit() {
+                var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
+                if (this.quotaReached) {
+                    this.error = 'You reached your quota for this hour. Try again later.';
+                    return;
+                }
+                if (username == '') {
+                    this.error = 'Please enter a username.';
+                    return;
+                }
+                this.loading = true;
+                var _this = this;
+                var request = new XMLHttpRequest();
+                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                request.setRequestHeader('Content-Type', 'application/json');
+                request.onload = function() {
+                    if (!request.status || request.status !== 200) {
+                        if (request.status === 429) {
+                            _this.quotaReached = true;
+                            _this.error = 'You reached your quota for this hour. Try again later.';
+                            _this.loading = false;
+                            return
+                        }
+                        var res = JSON.parse(request.response);
+                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                        _this.loading = false;
+                        return
+                    }
+                    var res = JSON.parse(request.response);
+                    _this.user = res.user;
+                    _this.posts = res.posts;
+                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                    _this.datasetLikes = res.posts.map(post => post.likes);
+                    _this.datasetComments = res.posts.map(post => post.comments);
+                    _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers);
+                    _this.updateFullPrice();
+                    _this.error = null;
+                    _this.loading = false;
+                };
+                request.onerror = function() {
+                    console.log(request.response);
+                    _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                    _this.loading = false;
+                }
+                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+            },
+            formatFollowing(nb) {
+                if (nb < 10000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 1000000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                var newNb = Math.ceil(nb / 10000);
+                return `${newNb / 100}M`;
+                },
+            formatNb(nb) {
+                if (nb < 1000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 10000) {
+                    var newNb = Math.ceil(nb / 10);
+                    return `${newNb / 100}k`;
+                }
+                if (nb < 100000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                if (nb < 1000000) {
+                    return `${Math.ceil(nb / 1000)}k`;
+                }
+                if (nb < 10000000) {
+                    var newNb = Math.ceil(nb / 10000);
+                    return `${newNb / 100}M`;
+                }
+                // if nb = 3 415 786 -> 3.42M
+                var newNb = Math.ceil(nb / 100000);
+                return `${newNb / 10}M`;
+            },
+            openPost(url) {
+                var win = window.open(url, '_blank');
+                win.focus();
+            },
+            openProfile() {
+                if ('{{ .Params.platform | safeJS }}' === 'instagram') {
+                    var win = window.open('https://www.instagram.com/' + this.user.username, '_blank');
+                    win.focus();
+                } else {
+                    var win = window.open('https://www.tiktok.com/@' + this.user.username, '_blank');
+                    win.focus();
+                }
+            },
+        },
+        // To make sure there's no conflict with Hugo templating
+        delimiters: ['{', '}'],
+    });
+</script>
+{{- end -}}
