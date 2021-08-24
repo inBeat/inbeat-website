@@ -56,7 +56,7 @@ function header() {
 
 function home() {
     // Icons in the extras section
-    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing'];
+    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing', 'inbeat-animated-logo'];
     homeIcons.forEach(function (iconName) {
         var icon = document.getElementById(iconName);
         if (!icon) {
@@ -329,6 +329,7 @@ function popup() {
 
 function faq() {
     var acc = document.getElementsByClassName('accordion-heading');
+    if(acc.length === 0){return}
     var currentActive = acc[0];
 
     var toggleAccordionState = function (accordion) {

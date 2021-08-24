@@ -1,24 +1,32 @@
-col1:
-  - anchor: Pricing
-    link: pricing
-  - anchor: Top Instagram Influencers
-    link: top-influencers/instagram
-  - anchor: Top TikTok Influencers
-    link: top-influencers/tiktok
-  - anchor: Instagram Engagement Rate Calculator
-    link: engagement-rate-calculator-instagram
-  - anchor: TikTok Engagement Rate Calculator
-    link: engagement-rate-calculator-tiktok
-  - anchor: Influencer Tracking Software
-    link: influencer-tracking-software
-col2:
-  - anchor: Articles
-    link: articles
-  - anchor: The Pulse Podcast
-    link: categories/podcasts
-  - anchor: Affiliate
-    link: affiliate
-  - anchor: Privacy Policy
-    link: privacy-policy
-  - anchor: Terms & Conditions
-    link: terms-and-conditions 
+  col1:
+    - anchor: Pricing
+      link: pricing
+    - anchor: Affiliate
+      link: affiliate
+    - anchor: Micro Influencer Platform
+      link: micro-influencer-platform
+  col2:
+    - anchor: Quick Search
+      link: features/quicksearch
+    - anchor: Deep Search
+      link: categories/deepsearch
+    - anchor: Contact Export
+      link: features/export-contacts/
+    - anchor: Influencer Tracking
+      link: influencer-tracking-software
+  col3:
+    - anchor: Articles
+      link: articles
+    - anchor: The Pulse Podcast
+      link: categories/podcasts
+  col4:
+    - anchor: Instagram Engagement Rate Calculator
+      link: engagement-rate-calculator-instagram
+    - anchor: TikTok Engagement Rate Calculator
+      link: engagement-rate-calculator-tiktok
+    - anchor: Influencer Money Calculator
+      link: collaboration-cost-calculator-instagram
+    - anchor: Top Instagram Influencers
+      link: top-influencers/instagram
+    - anchor: Top TikTok Influencers
+      link: top-influencers/tiktok
