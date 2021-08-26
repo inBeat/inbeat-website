@@ -269,6 +269,14 @@ $plan-padding: 1.5rem;
 }
 // how-it-works-affiliate is from the affiliate page, but same style
 #included, #how-it-works-affiliate, #how-it-works-features {
+    .aside-content{
+       @include breakpoint(md-down) {
+        margin-bottom: 3.125rem;
+        br{
+            display: none;
+        }
+       } 
+    }
     .btn-section{
         margin-top: 3.125rem;
         .btn{
