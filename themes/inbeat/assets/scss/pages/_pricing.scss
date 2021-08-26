@@ -122,7 +122,6 @@ $plan-padding: 1.5rem;
     }
     .plan {
         padding: $plan-padding;
-        //height: 100%;
         box-sizing: border-box;
         position: relative;
         display: flex;
@@ -169,7 +168,6 @@ $plan-padding: 1.5rem;
             a.btn {
                 border: none !important;
                 margin-top: 0;
-                //padding-top: 1.15rem;
                 padding-bottom: 1.225rem;
             }
         }
@@ -222,7 +220,7 @@ $plan-padding: 1.5rem;
                 @include breakpoint(sm-down) {
                     max-width: none;
                     padding-left: .2rem;
-                        padding-right: .2rem;
+                    padding-right: .2rem;
                 }
             }
             p {
@@ -269,10 +267,6 @@ $plan-padding: 1.5rem;
         }
     }
 }
-
-#included{
-   
-}
 // how-it-works-affiliate is from the affiliate page, but same style
 #included, #how-it-works-affiliate, #how-it-works-features {
     .btn-section{
@@ -280,7 +274,6 @@ $plan-padding: 1.5rem;
         .btn{
             font-weight: bold;
         }
-        
     }
     h4 {
         font-weight: bold;

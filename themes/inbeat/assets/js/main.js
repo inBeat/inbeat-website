@@ -116,14 +116,14 @@ function pricing() {
         console.log('monthlySelector.children',monthlySelector.children[0] );
         monthlySelector.addEventListener('click', function (e) {
             schedule.className = 'row monthly';
-            monthlySelector.classList.remove("disabled");
-            yearlySelector.children[0].classList.add("disabled");
+            monthlySelector.classList.remove('disabled');
+            yearlySelector.children[0].classList.add('disabled');
 
         });
         yearlySelector.addEventListener('click', function (e) {
             schedule.className = 'row yearly';
-            yearlySelector.children[0].classList.remove("disabled");
-            monthlySelector.classList.add("disabled");
+            yearlySelector.children[0].classList.remove('disabled');
+            monthlySelector.classList.add('disabled');
         });
     }
 }
