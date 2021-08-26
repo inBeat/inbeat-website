@@ -1,12 +1,11 @@
 #tooltip-element{
-    p {
         a{
             cursor: default;
         }
         .tooltip {
             position: absolute;
             top: calc(100% + 0.5rem);
-            left: 0;
+            right:-1rem;
             background: $dark;
             color: white;
             padding: 1rem;
@@ -21,7 +20,7 @@
                 height: 5px;
                 position: absolute;
                 top: -5px;
-                left: 6rem;
+                right: 1rem;
                 border-style: solid;
                 border-width: 0 5px 5px 5px;
                 border-color: transparent transparent black transparent;
@@ -33,5 +32,5 @@
                 display: block;
             }
         }
-    }
+ 
 }

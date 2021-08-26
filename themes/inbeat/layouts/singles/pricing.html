@@ -50,131 +50,231 @@
             <p class="pricing-schedule">
                 <span id="monthly-schedule">Billed Monthly</span>
                 <span id="yearly-schedule">
-                    <span>Billed Yearly</span><span class="deal">4 Months Free</span>
+                    <span class="disabled">Billed Yearly</span><span class="deal">4 Months Free</span>
                 </span> 
             </p>
         </div>
         {{- range .Params.plans -}}
-        <div class="col-xs-12 col-sm-6 {{ if eq .title "Business" }}col-md-12{{ else }}col-md-4{{ end }} col-lg-3">
+        <div class="{{ if eq .title "Business" }}col-xs-12 col-md-12 col-lg-12{{ else }}col-md-4 col-lg-4 col-xs-12 col-sm-12 {{ end }}">
             <div class="plan" id="{{- lower .title -}}">
-                <div>
-                    <p class="title">{{- .title -}}</p>
-                    <h2>
-                        <span class="monthly-price">{{- .monthly -}}</span>
-                        <span class="yearly-price">{{- .yearly -}}</span>
-                        <span class="currency">USD</span>
-                    </h2>
-                    <p class="description">
-                        {{- .description | markdownify -}}
-                    </p>
+                <div {{ if eq .title "Business" }}class="row"{{ end }}>
+                    <div {{ if eq .title "Business" }}class="col-xs-12 col-sm-6 col-md-5 col-lg-4"{{ end }}>
+                        <div class="content">
+                            <p class="title">{{- .title -}}</p>
+                            <h2>
+                                <span class="monthly-price">{{- .monthly -}}</span>
+                                <span class="yearly-price">{{- .yearly -}}</span>
+                                <span class="currency">USD</span>
+                            </h2>
+                            <p class="description small">
+                                {{- .description | markdownify -}}
+                            </p>
+                            {{ if eq .title "Business" }}
+                                <a class='btn btn-md btn-gradient' href="https://app.inbeat.co/get-started" target="_blank">
+                                    Book a demo
+                                </a>
+                            {{ end }}
+                        </div>
+                    </div>
+                <div class="features  {{ if eq .title "Business" }} col-xs-12 col-sm-6 col-md-7 col-lg-8 featured-business{{ end }}">
+                    {{ if eq .title "Business" }}
+                    <div class="row col-xs-12">
+                        <div class="col-xs-12 col-sm-12 col-md-6">
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/mo</span>
+                                    <span id="tooltip-element">{{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Export all available info (e-mail, handle, URL, etc.).
+                                            Profiles without e-mail don’t use an export.
+                                            Unused exports won't rollover to the following month.
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>{{ .accounts }}</strong> Client Accounts
+                                    <span id="tooltip-element">{{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Assign campaigns to client accounts you manage.
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>{{- .campaigns -}}</strong> Concurrent Campaign{{- if gt .campaigns 1 -}}s{{- end -}}
+                                    <span id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Manage multiple campaign at the same time.
+                                            Once you're satisfied, export the campaign and create a new one.
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                {{ .filters }} Search Filters
+                                    <span id="tooltip-element">
+                                    {{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Filter profiles by engagement rate, number of followers, location and many more.
+                                    </span>
+                                </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>Live</strong> Search
+                                    <span  id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Instantly browse our database of millions of TikTok & Instagram influencers.
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>Deep</strong> Search
+                                    <span id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Find thousands of look-alike influencers with automated similar profile & hashtag-searches.
+                                        </span>
+                                </span> 
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-5">
+                            <div class="col-xs-12">
+                                <p>
+                                    Bulk Selection
+                                    <span id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Select and export up to 1000 filtered profiles in a single click.
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>Priority</strong> Queue
+                                    <span id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            DeepSearches can take a while if many people are running them. Your searches will always be bumped ahead of line
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>
+                                    <strong>Priority</strong> Support
+                                    <span id="tooltip-element">
+                                        {{- partial "icons/info.html" -}}
+                                        <span class="tooltip">
+                                            Get same day support
+                                        </span>
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div> 
                 </div>
-                <div class="features">
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>Instagram</strong> Database
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Use all of our search features to find the right influencers.
+                    {{ else }}
+                        <div>
+                            <p>
+                                <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/mo</span>
+                                <span id="tooltip-element">{{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Export all available info (e-mail, handle, URL, etc.).
+                                        Profiles without e-mail don’t use an export.
+                                        Unused exports won't rollover to the following month.
+                                    </span>
+                                </span>
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                                <strong>{{ .accounts }}</strong> Client Accounts
+                                <span id="tooltip-element">{{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Assign campaigns to client accounts you manage.
+                                    </span>
+                                </span>
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                                <strong>{{- .campaigns -}}</strong> Concurrent Campaign{{- if gt .campaigns 1 -}}s{{- end -}}
+                                <span id="tooltip-element">
+                                    {{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Manage multiple campaign at the same time.
+                                        Once you're satisfied, export the campaign and create a new one.
+                                    </span>
+                                </span>
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                            {{ .filters }} Search Filters
+                                <span id="tooltip-element">
+                                {{- partial "icons/info.html" -}}
+                                <span class="tooltip">
+                                    Filter profiles by engagement rate, number of followers, location and many more.
+                                </span>
                             </span>
-                        </p>
-                    </div>
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>TikTok</strong> Database
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Use all of our search features to find the right influencers.
-                            </span>
-                        </p>
-                    </div>
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>{{ .filters }}</strong> Search Filters
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Filter profiles by engagement rate, number of followers, location
-                                and many more.
-                            </span>
-                        </p>
-                    </div>
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/ month</span>
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Export all available info (e-mail, handle, URL, etc.).
-                                Profiles without e-mail don’t use an export.
-                                Unused exports won't rollover to the following month.
-                            </span>
-                        </p>
-                    </div>
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>{{- .campaigns -}}</strong> Concurrent Campaign{{- if gt .campaigns 1 -}}s{{- end -}}
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Manage multiple campaign at the same time.
-                                Once you're satisfied, export the campaign and create a new one.
-                            </span>
-                        </p>
-                    </div>
-                    {{- if gt .accounts 1 -}}
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>{{- .accounts -}}</strong> Client Accounts
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Assign campaigns to client accounts you manage.
-                            </span>
-                        </p>
-                    </div>
-                    {{- else -}}
-                    <p class="empty">&nbsp;</p>
-                    {{- end -}}
-                    {{- if .bulk -}}
-                    <div id="tooltip-element">
-                        <p>
-                            <strong>Bulk</strong> Selection
-                            {{- partial "icons/info.html" -}}
-                            <span class="tooltip">
-                                Select and export up to 1000 filtered profiles in a single click.
-                            </span>
-                        </p>
-                    </div>
-                    {{- else -}}
-                    <p class="empty">&nbsp;</p>
-                    {{- end -}}
-                    
-                    <!-- {{- if gt .collected 0 -}}
-                    <p>
-                        <strong>{{- .collected -}}</strong> Collected Profile{{- if gt .collected 1 -}}s{{- end -}}
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            If our database is not enough, we can collect NEW profiles
-                            directly on Instagram for you using hashtags and/or filters.
-                        </span>
-                    </p>
-                    {{- else -}}
-                    <p class="empty">&nbsp;</p>
-                    {{- end -}}
-                    {{- if .suggested -}}
-                    <p>
-                        <strong>Similar Profiles</strong> Search
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Submit a list of influencers you like and we'll build a
-                            campaign for you with similar profiles.
-                        </span>
-                    </p>
-                    {{- else -}}
-                    <p class="empty">&nbsp;</p>
-                    {{- end -}} -->
-                    <a class='btn btn-md{{ if eq .title "Business" }} btn-crazy{{ end }}' href="https://app.inbeat.co/get-started" target="_blank">
-                        Try it for free
-                    </a>
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                                <strong>Live</strong> Search
+                                <span  id="tooltip-element">
+                                    {{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Instantly browse our database of millions of TikTok & Instagram influencers.
+                                    </span>
+                                </span>
+                            </p>
+                        </div>
+                        <div>
+                            <p class="{{ if eq .deepsearch false }}disabled{{ end }}">
+                               <span><strong>Deep</strong> Search</span> 
+                                <span id="tooltip-element">
+                                    {{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Find thousands of look-alike influencers with automated similar profile & hashtag-searches.
+                                    </span>
+                            </span> 
+                            </p>
+                        </div>
+                        <div>
+                            <p class="{{ if eq .bulkselection false }}disabled{{ end }}">
+                                <span>Bulk Selection</span>
+                                <span id="tooltip-element">
+                                    {{- partial "icons/info.html" -}}
+                                    <span class="tooltip">
+                                        Select and export up to 1000 filtered profiles in a single click.
+                                    </span>
+                                </span>
+                            </p>
+                        </div>
+                    {{ end }} 
+                    {{ if eq .title "Business" }}
+                    {{ else }}
+                        <a class='btn btn-md col-lg-12' href="https://app.inbeat.co/get-started" target="_blank">
+                            Try it for free 
+                        </a>
+                    {{ end }}
                 </div>
             </div>
         </div>
+    </div>
         {{- end -}}
     </div>
 </section>
@@ -184,14 +284,10 @@
 <section class="container mobile-adjusted m-tb-160" id="included">
     <div class="row">
         <div class="col-xs-12 col-md-4">
-            <h4>All paid plans include  →</h4>
-            <p class="small subtitle">
-                Unsure about anything?
-                <a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a demo" target="_blank">
-                    Book a demo
-                </a> or
-                <a href="mailto:david@inbeat.co" title="Send an E-mail">send an E-mail</a>.
-            </p>
+            <div><h3>All paid plans <br> include →</h3></div>
+            <div class="btn-section"><a class='btn btn-lg btn-gradient' href="https://app.inbeat.co/get-started" target="_blank">
+            Try it for free
+            </a></div>
         </div>
         <div class="col-xs-6 col-md-4">
             {{- range first 2 .Params.included -}}
