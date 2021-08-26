@@ -13,28 +13,29 @@ teasertrial:
   features:
     - has: true
       text: <span>Free</span> Forever
-    - has: true
-      text: <span>Instagram</span> and <span>TikTok</span>
     - has: false
       text: <span>No</span> Contact Exports
-    - has: true
-      text: <span>2</span> campaigns
-    - has: true
-      text: <span>E-mail</span> Support
     - has: false
       text: <span>Limited</span> Database Access
+    - has: true
+      text: <span>Single</span> campaigns
+    - has: true
+      text: <span>Email</span> Support
+    - has: false
+      text: <span>Restricted</span> Search
 plans:
   - contacts: 100
     campaigns: 2
     accounts: 1
     monthly: 35
     filters: All
-    title: Lite
+    title: Growth
     yearly: 23
-    collected: 0
-    bulk: false
+    livesearch: true
+    deepsearch: false
+    bulkselection: false 
     description: >-
-      Ideal for marketers looking to <span>try</span> influencer marketing.
+      Ideal for marketers & individuals looking to tryout influencer marketing.
   - contacts: 500
     campaigns: 2
     accounts: 2
@@ -42,9 +43,11 @@ plans:
     filters: All
     title: Brand
     yearly: 54
-    bulk: true
+    livesearch: true
+    deepsearch: false
+    bulkselection: true 
     description: >-
-      Ideal for brands or consultants wanting to <span>scale</span> their influencer marketing through mass e-mail outreach.
+      For brands or consultants wanting to scale their influencer marketing.
   - contacts: 2000
     campaigns: 7
     accounts: 5
@@ -52,19 +55,21 @@ plans:
     filters: All
     title: Agency
     yearly: 134
-    bulk: true
+    livesearch: true
+    deepsearch: true
+    bulkselection: true 
     description: >-
-      Ideal for agencies launching <span>continuous campaigns</span>.
-  - contacts: 5000
+      Ideal for agencies launching continuous influencer marketing campaigns.
+  - contacts: 2000
     campaigns: 30
-    accounts: 20
+    accounts: "Unlimited"
     monthly: 400
     filters: All
     title: Business
     yearly: 267
-    # suggested: true
-    # collected: 2000
-    bulk: true
+    livesearch: true
+    deepsearch: true
+    bulkselection: true 
     description: >-
       Ideal for big brands looking to scale their <span>ambassador program</span>.
 included:

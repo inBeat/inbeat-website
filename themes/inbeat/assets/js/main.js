@@ -113,11 +113,17 @@ function pricing() {
     if (schedule) {
         var monthlySelector = document.getElementById('monthly-schedule');
         var yearlySelector = document.getElementById('yearly-schedule');
+        console.log('monthlySelector.children',monthlySelector.children[0] );
         monthlySelector.addEventListener('click', function (e) {
             schedule.className = 'row monthly';
+            monthlySelector.classList.remove('disabled');
+            yearlySelector.children[0].classList.add('disabled');
+
         });
         yearlySelector.addEventListener('click', function (e) {
             schedule.className = 'row yearly';
+            yearlySelector.children[0].classList.remove('disabled');
+            monthlySelector.classList.add('disabled');
         });
     }
 }

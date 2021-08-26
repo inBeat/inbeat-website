@@ -11,21 +11,6 @@ hero:
     text: >-
       <span>Try it now</span> &#8212 it's free
     link: https://app.inbeat.co/get-started
-testimonials:
-  title: Helping 1,000+ agencies and e-commerce brands
-  client:
-    - quote: "inBeat is the tech behind our ambassador program of 3000+ micro-influencers. It saves us countless hours of research every month."
-      img: /images/avatar-jp.png
-      name: Jean Philipe Brousseau
-      job: CEO, PhoneLoops®
-    - quote: "We really struggled with influencer discovery. With this tool, finding hundreds of influencers is  literary a few clicks away."
-      img: /images/avatar-robin.png
-      name: Robin Lamoureux
-      job: Marketing Director, DigitalDigital
-    - quote: inBeat provided us with a lean, affordable and efficient way to constantly create new content for our various collection releases."
-      img: /images/avatar-rony.png
-      name: Rony Amar
-      job: CMO, DeuxParDeux
 features:
   - id: search
     class: popupTrigger
