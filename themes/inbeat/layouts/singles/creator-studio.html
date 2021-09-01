@@ -8,7 +8,9 @@
 		{{ partial "header/gtm.html" . }}
 		{{ block "main" . }}
 		{{ end }}
+     
         <div id="header-container">
+            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://app.inbeat.co/get-started") -}}
             <div class="container">
                 <div class="row middle-xs between-xs" id="header">
                     <div class="col-xs-6 col-sm-1 col-md-1">
@@ -65,13 +67,14 @@
         </div>
     </div>
 <section class="container mobile-adjusted" id="clients">
-    <div class="row between-xs middle-xs">
+    <div class="row between-xs">
         <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
-        <div class="icons">{{- partial "icons/moose.html" -}}</div>
         <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
-        <div class="icons">{{- partial "icons/nissan.html" -}}</div>
-        <div class="icons">{{- partial "icons/loop.html" -}}</div>
-        <div class="icons">{{- partial "icons/bedtime.html" -}}</div>
+        <div class="icons">{{- partial "icons/mogo.html" -}}</div>
+        <div class="icons">{{- partial "icons/7eleven.html" -}}</div>
+        <div class="icons">{{- partial "icons/nordstorm.html" -}}</div>
+        <div class="icons">{{- partial "icons/soylent.html" -}}</div>
+        <div class="icons">{{- partial "icons/melio.html" -}}</div>
     </div>
 </section>
 {{- end -}}
@@ -166,7 +169,7 @@
         </div>
     </section>
 {{ end }}
-{{- partial "site/videoPopup.html" (dict "context" . "video" "deep-search" "button" .Params.hero) -}}
+
 {{ partial "footer/scripts.html" . }}
 </body>
 </html>

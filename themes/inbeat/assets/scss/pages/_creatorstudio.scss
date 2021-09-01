@@ -2,8 +2,17 @@
     #hero{
         padding-bottom: 0;
         margin: 0;
+        a{
+            @include breakpoint(sm-down) {
+                display: block;
+                width: 100%;
+                margin-bottom: 20px;
+            }
+        }
         #hero-cta{
-            margin-right: 20px;
+            @include breakpoint(xs) {
+                margin-right: 20px;
+            }
         }
     }
     .features-list{
@@ -84,9 +93,15 @@
 }
 #sub-tags{
     margin: 14rem auto;
+    @include breakpoint(sm-down) {
+        padding: 0 40px;
+    }
     .tag{
         text-align: center;
         padding: 0 .9375rem;
+        @include breakpoint(sm-down) {
+            margin-bottom: 50px;
+        }
         h4{
             font-weight: bold;
         }
@@ -124,6 +139,9 @@
 #how-it-works{
     margin-top: 8.75rem;
     margin-bottom: 13.75rem;
+    @include breakpoint(sm-down) {
+        padding: 40px;
+    }
     h4{
         font-weight: bold;
     }
@@ -145,6 +163,9 @@
     img{
         border-radius: .625rem;
         width: 100%;
+        @include breakpoint(sm-down) {
+            margin-bottom: 40px;
+        }
     }
     .container{
         .row{
