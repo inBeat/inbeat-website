@@ -43,6 +43,7 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
+    if(menuBtn === null) return;
     menuBtn.addEventListener('click', function (e) {
         if (!menuBtn.classList.contains('is-active')) {
             menuBtn.classList.add('is-active');
@@ -363,6 +364,16 @@ function faq() {
     }
 }
 
+function banner(){
+    var banner = document.getElementById('banner');
+    var closeBtn = document.getElementById('close');
+
+    closeBtn.addEventListener('click', function (e) {
+        e.preventDefault();
+        banner.remove()
+    })
+}
+
 (function () {
     scrollTo();
     header();
@@ -372,4 +383,5 @@ function faq() {
     topInfluencers();
     popup();
     faq();
+    banner();
 })();

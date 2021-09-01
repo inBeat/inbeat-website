@@ -1,0 +1,27 @@
+#banner{
+    background: linear-gradient(90deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
+    cursor: pointer;
+    position: relative;
+    padding: 5px;
+
+    a{
+        display: flex;
+        align-content: center;
+        align-items: center;
+    }
+    .text-content{
+        margin: 0 auto;
+        p{
+            font-size: .875rem;
+            margin: 0;
+            padding: 0;
+        }
+        text-align: center;
+    }
+    #close{
+        padding: 5px 15px;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
