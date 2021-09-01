@@ -43,6 +43,7 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
+    if(menuBtn === null) return;
     menuBtn.addEventListener('click', function (e) {
         if (!menuBtn.classList.contains('is-active')) {
             menuBtn.classList.add('is-active');

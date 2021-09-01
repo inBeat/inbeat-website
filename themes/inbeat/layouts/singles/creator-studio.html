@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="{{- $.Lang -}}">
+	{{ partial "site-head.html" . }}
+	<body>
+		{{ `<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->` | safeHTML }}
+		{{ partial "header/gtm.html" . }}
+		{{ block "main" . }}
+		{{ end }}
+        <div id="header-container">
+            <div class="container">
+                <div class="row middle-xs between-xs" id="header">
+                    <div class="col-xs-6 col-sm-1 col-md-1">
+                        <a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo">
+                            {{- partial "icons/creativestudio-logo.html" -}}
+                        </a>
+                    </div>
+                    <div class="col-xs-4 hide-sm">
+                        <ul class="right">
+                            <li class="cta">
+                                <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-md" target="_blank">
+                                    Request Access
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+<section>
+    <div class="container" id="creator-studio-hero">
+        <div class="row">
+           {{- with .Params.hero -}}
+           <section class="container mobile-adjusted" id="hero">
+               <div class="col-lg-8 col-lg-offset-2">
+                <h1>{{- .title | markdownify -}}</h1>
+                <h4>{{- .subtitle | markdownify -}}</h4>
+                    <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
+                        {{- htmlUnescape .cta.text | markdownify -}}
+                    </a>
+                    <a href="#" title="Book a demo" target="_blank" class="btn btn-lg btn-white ">
+                        Request Access
+                    </a>
+                </div>
+                <div class="col-xs-12 features-list">
+                    {{- range .features -}}
+                    <p class="feature">
+                        {{- partial "icons/check.html" -}}
+                        {{- .text | markdownify -}}
+                    </p>
+                    {{- end -}}
+                </div>
+           </section>
+          
+        </div>
+    </div>
+</section>
+<section class="container-fluid" id="video-how-it-works"> 
+    <div class="container m-tb-80"> 
+        <div class="row">
+            <div class="col-xs-12 col-md-12 align-center">
+                <img src="{{- .img -}}" alt="{{- .img -}}">
+            </div>    
+        </div>
+    </div>
+<section class="container mobile-adjusted" id="clients">
+    <div class="row between-xs middle-xs">
+        <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
+        <div class="icons">{{- partial "icons/moose.html" -}}</div>
+        <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
+        <div class="icons">{{- partial "icons/nissan.html" -}}</div>
+        <div class="icons">{{- partial "icons/loop.html" -}}</div>
+        <div class="icons">{{- partial "icons/bedtime.html" -}}</div>
+    </div>
+</section>
+{{- end -}}
+</section>
+<section  id="infos-block">
+    {{- range .Params.infosBlock -}}
+    <div class="container info-element {{ .palette }}">
+        <div class="row">
+            <div class="col-lg-5 col-md-6 subblock-wrapper">
+                <h2>{{ .title | markdownify }}</h2>
+                <div class="subblock-content">
+                    {{- range .subinfos -}}
+                        <div class="subblock">
+                            <p class="subtitle">{{- .title -}}</p>
+                            <p class="subtext">{{- .text -}}</p>
+                        </div>
+                     {{- end -}}
+                </div>
+            </div>
+            <div class="col-lg-6 col-lg-offset-1 col-md-6 aside-video">
+                <img src="{{- .asideImage -}}" alt="{{- .asideImage -}}">
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</section>
+<section id="sub-tags" class="container">
+    <div class="row">
+        {{ range .Params.subTags }}
+            <div class="col-lg-3 col-sm-3 col-xs-12 tag">
+               <div>{{- partial (printf "icons/%s.html" .icon) -}}</div> 
+                <h4> {{ .title }} </h4>
+                <p class="small"> {{ .text }} </p>
+            </div>  
+        {{ end }}
+    </div>
+</section>
+{{ with .Params.socialContent }}
+    <section id="social-content" class="container-fluid">
+        <div class="container p-tb-80">
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-3">
+                    <h2> {{ .title }}</h2>
+                    <p>{{ .text }}</p>
+                </div>
+                <div class="col-lg-12 row features-row">
+                {{ range .socialElement }}
+                    <div class="col-lg-3 col-sm-6 col-xs-12 feature">
+                        <div class="inner">
+                            <img src="{{ .img }}" alt="{{ .img }}">
+                            <h4> {{ .title }} </h4>
+                        </div>
+                    </div>  
+                {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}
+{{ with .Params.howitworks }}
+    <section id="how-it-works" class="container">
+        <div class="row">
+            <div class="col-lg-12 col-xs-12">
+               <h4>{{ .title }}</h4> 
+            </div>
+            {{ range .content }}
+                <div class="col-lg-3  col-md-6 col-xs-12" >
+                    <p class="small sub-title">{{ .title }}</p>
+                    <p class="text">{{ .text }}</p>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+{{ end }}
+{{ with .Params.requestAccess }}
+    <section id="request-access" class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 col-xs-12">
+                    <img src="{{ .img }}" alt="{{ .img }}">
+                </div>
+                <div class="col-sm-5 col-sm-offset-1 col-xs-12">
+                    <h2>{{ .title }}</h2>
+                    <p>{{ .text }}</p>
+                    <div class="m-tb-80">
+                        <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-lg" target="_blank">
+                            Request Access
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}
+{{- partial "site/videoPopup.html" (dict "context" . "video" "deep-search" "button" .Params.hero) -}}
+{{ partial "footer/scripts.html" . }}
+</body>
+</html>
