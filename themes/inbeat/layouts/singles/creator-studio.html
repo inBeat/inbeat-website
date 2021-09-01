@@ -8,13 +8,12 @@
 		{{ partial "header/gtm.html" . }}
 		{{ block "main" . }}
 		{{ end }}
-     
         <div id="header-container">
             {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://app.inbeat.co/get-started") -}}
             <div class="container">
                 <div class="row middle-xs between-xs" id="header">
                     <div class="col-xs-6 col-sm-1 col-md-1">
-                        <a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo">
+                        <a href="{{- $.Site.BaseURL -}}{{ .Page.RelPermalink }}" title="inBeat" class="logo">
                             {{- partial "icons/creativestudio-logo.html" -}}
                         </a>
                     </div>
