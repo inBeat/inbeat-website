@@ -320,11 +320,11 @@
                         }
                     });
                     var setList = JSON.stringify({
-                        "url": "/api/3/contactLists",
-                        "contactList": {
-                            "list": 2,
-                            "contact": res.contact.id,
-                            "status": 1
+                        'url': '/api/3/contactLists',
+                        'contactList': {
+                            'list': 2,
+                            'contact': res.contact.id,
+                            'status': 1
                         }
                     });
                     await _this.request(tagData , 'POST');
