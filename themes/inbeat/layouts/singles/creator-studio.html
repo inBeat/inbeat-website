@@ -9,18 +9,16 @@
 		{{ block "main" . }}
 		{{ end }}
         <div id="header-container">
-            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://app.inbeat.co/get-started") -}}
+            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" ) -}}
             <div class="container">
                 <div class="row middle-xs between-xs" id="header">
                     <div class="col-xs-6 col-sm-1 col-md-1">
-                        <a href="{{- $.Site.BaseURL -}}{{ .Page.RelPermalink }}" title="inBeat" class="logo">
                             {{- partial "icons/creativestudio-logo.html" -}}
-                        </a>
                     </div>
                     <div class="col-xs-4 hide-sm">
                         <ul class="right">
                             <li class="cta">
-                                <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-md" target="_blank">
+                                <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" class="btn btn-md" target="_blank">
                                     Request Access
                                 </a>
                             </li>
@@ -36,11 +34,11 @@
            <section class="container mobile-adjusted" id="hero">
                <div class="col-lg-8 col-lg-offset-2">
                 <h1>{{- .title | markdownify -}}</h1>
-                <h4>{{- .subtitle | markdownify -}}</h4>
-                    <a href="https://calendly.com/inbeatapp/inbeat-demo?month=2021-09" target="_blank" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
-                        {{- htmlUnescape .cta.text | markdownify -}}
+                <h4>{{- .subtitle | markdownify -}} </h4>
+                    <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" target="_blank" class="btn btn-lg btn-crazy-hover" title="Schedule a call" id="hero-cta">
+                        Schedule a call
                     </a>
-                    <a href="https://app.inbeat.co/get-started" title="Book a demo" target="_blank" class="btn btn-lg btn-white">
+                    <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" target="_blank" class="btn btn-lg btn-white">
                         Request Access
                     </a>
                 </div>
@@ -66,14 +64,13 @@
         </div>
     </div>
 <section class="container mobile-adjusted" id="clients">
-    <div class="row between-xs">
+    <div class="row between-xs middle-xs">
         <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
         <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
         <div class="icons">{{- partial "icons/mogo.html" -}}</div>
         <div class="icons">{{- partial "icons/7eleven.html" -}}</div>
         <div class="icons">{{- partial "icons/nordstorm.html" -}}</div>
         <div class="icons">{{- partial "icons/soylent.html" -}}</div>
-        <div class="icons">{{- partial "icons/melio.html" -}}</div>
     </div>
 </section>
 {{- end -}}
@@ -159,7 +156,7 @@
                     <h2>{{ .title }}</h2>
                     <p>{{ .text }}</p>
                     <div class="m-tb-80">
-                        <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-lg" target="_blank">
+                        <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" class="btn btn-lg" target="_blank">
                             Request Access
                         </a>
                     </div>

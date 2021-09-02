@@ -16,10 +16,14 @@
         }
     }
     .features-list{
-        display: inline-flex;
-        margin: 6.25rem 0;
+        display: block;
+        margin: 4rem 0 6rem 0;
+        @include breakpoint(sm) {
+            margin: 6.25rem 0;
+            display: inline-flex;
+        }
         .feature{
-            margin: 0 1.25rem;
+           margin: 0 1.25rem;
             .icon--check{
                 padding-right: .3125rem;
             }
@@ -37,16 +41,55 @@
             width: 100%;
         }
     }
-    #clients{
-        padding-bottom: 6.25rem;
+    #clients {
+        padding: 2.25rem 0 3rem 0;
+        @include breakpoint(md) {
+            padding-bottom: 6.25rem;
+        }
+        .row {
+            margin: 0;
+        }
+        @include breakpoint(md-down) {
+            max-width: 34rem;
+        }
+        .icons {
+            @include breakpoint(md-down) {
+                flex-basis:33.33333%;
+                &:nth-child(3n + 2) {
+                    text-align: center;
+                }
+                &:nth-child(3n) {
+                    text-align: right;
+                }
+                svg {
+                    margin-bottom: 1rem;
+                }
+            }
+            @include breakpoint(sm-down) {
+                svg {
+                    max-width: 70%;
+                    max-height: 2.5rem;
+                }
+            }
+        }
+        svg {
+            fill: $dark;
+        }
     }
 }
 #infos-block{
-    margin-top: 7.5rem;
-    .info-element{
+    margin-top: 2.5rem;
+    @include breakpoint(md) {
         margin-top: 7.5rem;
+    }
+    .info-element{
+        margin-top: 2.5rem;
         margin-bottom: 2.5rem;
         padding: 3.125rem;
+        @include breakpoint(md) {
+            margin-top: 7.5rem;
+            margin-bottom: 2.5rem;
+        }
         .aside-video{
             video, img{
                 float:left;
@@ -88,13 +131,14 @@
                 }
             }
         }
-
     }
 }
 #sub-tags{
-    margin: 14rem auto;
-    @include breakpoint(sm-down) {
-        padding: 0 40px;
+    margin-top: 7.85rem;
+    margin-bottom: 1.5rem;
+    padding: 0 40px;
+    @include breakpoint(sm) {
+        margin: 14rem auto;
     }
     .tag{
         text-align: center;
@@ -137,10 +181,11 @@
     }
 }
 #how-it-works{
-    margin-top: 8.75rem;
-    margin-bottom: 13.75rem;
-    @include breakpoint(sm-down) {
-        padding: 40px;
+    margin: 2rem auto;
+    padding: 40px;
+    @include breakpoint(sm) {
+        margin-top: 8.75rem;
+        margin-bottom: 13.75rem;
     }
     h4{
         font-weight: bold;
@@ -157,9 +202,11 @@
 
 #request-access{
     background-color: $light_grey;
-    padding-top: 7.8125rem;
-    padding-bottom: 7.8125rem;
+    padding: 4.5rem 2.5rem;
     border-bottom: 6.75rem solid $dark;
+    @include breakpoint(sm) {
+        padding: 7.8125rem;
+    }
     img{
         border-radius: .625rem;
         width: 100%;

@@ -10,10 +10,6 @@ hero:
   img: /images/cs-hero.png
   subtitle: >-
     inBeat Creator Platform helps you scale your visual content creation needs through a vetted network of handpicked creators.
-  cta:
-    text: >-
-      <span>Schedule a call
-    link: https://app.inbeat.co/get-started
   features:
   - text: Unlimited Usage Rights
   - text: Top 1% of creators
@@ -83,6 +79,6 @@ howitworks:
 requestAccess:
   img: /images/highqualityugc.png
   title: Start creating High Quality UGC. 
-  text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.     
+  text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.  
 ---
 
