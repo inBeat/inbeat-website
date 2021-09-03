@@ -65,6 +65,9 @@ a.btn {
     letter-spacing: -0.5px;
     transition: background-color 0.3s;
     white-space: nowrap;
+    &.no-border{
+        border: none;
+    }
     &.btn-sm {
         padding-top: 0.3rem;
         padding-bottom: 0.4rem;

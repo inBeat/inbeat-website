@@ -1,7 +1,7 @@
-<section id="banner">
-    <a href="{{ .url }}" target="_blank"> 
+<div id="banner">
+    <a href="{{ .url }}" target="_blank" class="{{ .class }}"> 
         <div class="text-content">
-            <p class="small">{{ .text }}</p>
+            <p class="small">{{ .text | markdownify }}</p>
         </div>
     </a> 
     <div id="close">
@@ -10,4 +10,4 @@
         <path d="M1 10.6343L11 0.634277" stroke="black"/>
         </svg>
     </div>
-</section>
+</div>
