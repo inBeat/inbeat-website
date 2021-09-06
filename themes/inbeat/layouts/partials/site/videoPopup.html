@@ -8,6 +8,6 @@
                 <source src="/videos/{{ .video }}.mp4" />
             </video>
         </div>
-        <a href="{{- .button.cta.link -}}"><button class="btn"> {{- htmlUnescape .button.cta.text | markdownify -}}</button></a>
+        <a href="{{- .link -}}" target="_blank"><button class="btn"> {{- htmlUnescape .text | markdownify -}}</button></a>
     </div>
 </section>

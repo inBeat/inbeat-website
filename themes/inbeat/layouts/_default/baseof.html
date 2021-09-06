@@ -7,6 +7,7 @@
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/gtm.html" . }}
 		{{ partial "site-header.html" . }}
+		{{ partial "site/videoPopup.html" (dict "context" . "video" "deep-search" "link" "https://app.inbeat.co/get-started" "text" "<span>Try it now</span> &#8212 it's free" ) }}
 		{{ block "main" . }}
 		{{ end }}
 		{{ partial "site-footer.html" . }}
