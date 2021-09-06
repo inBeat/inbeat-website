@@ -60,7 +60,7 @@ plans:
     bulkselection: true 
     description: >-
       Ideal for agencies launching continuous influencer marketing campaigns.
-  - contacts: 2000
+  - contacts: 5000
     campaigns: 30
     accounts: "Unlimited"
     monthly: 400
