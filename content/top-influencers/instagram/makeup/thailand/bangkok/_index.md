@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Bangkok In 2020
+title: Top 10 Makeup Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top makeup Instagram influencers in Bangkok in 2020. Most popular hashtags: #makeup #fashion #bangkok.
+  Find top makeup Instagram influencers in Bangkok in 2021. Most popular hashtags: #makeup #fashion #bangkok.
 platform: Instagram
 hits: 24
 text_top: See the best Instagram accounts on inBeat.

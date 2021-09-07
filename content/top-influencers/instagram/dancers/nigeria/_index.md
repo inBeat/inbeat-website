@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Nigeria In 2020
+title: Top 10 Dancers Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top dancers Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #endsars #explorepage.
+  Find top dancers Instagram influencers in Nigeria in 2021. Most popular hashtags: #explore #endsars #explorepage.
 platform: Instagram
 hits: 34
 text_top: See the best Instagram accounts on inBeat.

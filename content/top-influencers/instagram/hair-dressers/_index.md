@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In 2020
+title: Top 10 Hair Dressers Instagram Influencers In 2021
 description: >-
-  Find top hair dressers Instagram influencers in 2020. Most popular hashtags: #hairstyles #beauty #makeup.
+  Find top hair dressers Instagram influencers in 2021. Most popular hashtags: #hairstyles #beauty #makeup.
 platform: Instagram
 hits: 469
 text_top: Identify the top-rated Instagram profiles on inBeat.

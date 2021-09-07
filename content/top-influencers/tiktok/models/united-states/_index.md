@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In United States In 2020
+title: Top 10 Models TikTok Influencers In United States In 2021
 description: >-
-  Find top models TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryou #foryoupage.
+  Find top models TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 2384
 text_top: Discover the best TikTok profiles on inBeat.

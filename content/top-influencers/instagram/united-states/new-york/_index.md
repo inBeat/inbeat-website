@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In New York In 2020
+title: Top 10 Instagram Influencers In New York In 2021
 description: >-
-  Find top Instagram influencers in New York in 2020. Most popular hashtags: #newyork #photography #street.
+  Find top Instagram influencers in New York in 2021. Most popular hashtags: #newyork #photography #street.
 platform: Instagram
 hits: 7749
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Dallas in 2020. Most popular hashtags: #tattoos #dallastattooartist #tattooartist #rosetattoo.
+  Find top tattoo-artists Instagram influencers in Dallas in 2021. Most popular hashtags: #tattoos #dallastattooartist #tattooartist #rosetattoo.
 platform: Instagram
 hits: 28
 text_top: Identify the top-rated Instagram accounts on inBeat.

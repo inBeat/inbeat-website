@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bangkok In 2020
+title: Top 10 Vegan Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top vegan Instagram influencers in Bangkok in 2020. Most popular hashtags: #vegan #plantbased #bangkok.
+  Find top vegan Instagram influencers in Bangkok in 2021. Most popular hashtags: #vegan #plantbased #bangkok.
 platform: Instagram
 hits: 5
 text_top: Identify the top-rated Instagram accounts on inBeat.

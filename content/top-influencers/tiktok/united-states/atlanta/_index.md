@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Atlanta In 2020
+title: Top 10 TikTok Influencers In Atlanta In 2021
 description: >-
-  Find top TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #duet #ohno.
+  Find top TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #duet #ohno.
 platform: TikTok
 hits: 540
 text_top: See the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Dallas In 2020
+title: Top 10 Photographers Instagram Influencers In Dallas In 2021
 description: >-
-  Find top photographers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallasphotographer #photography #portrait #dallas.
+  Find top photographers Instagram influencers in Dallas in 2021. Most popular hashtags: #dallasphotographer #photography #portrait #dallas.
 platform: Instagram
 hits: 147
 text_top: Identify the most popular Instagram accounts on inBeat.

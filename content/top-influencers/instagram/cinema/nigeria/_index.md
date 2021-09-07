@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Nigeria In 2020
+title: Top 10 Cinema Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top cinema Instagram influencers in Nigeria in 2020. Most popular hashtags: #bellanaijaweddings #cinematography #love.
+  Find top cinema Instagram influencers in Nigeria in 2021. Most popular hashtags: #bellanaijaweddings #cinematography #love.
 platform: Instagram
 hits: 24
 text_top: Discover the most popular Instagram accounts on inBeat.

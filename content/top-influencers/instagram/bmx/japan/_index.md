@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Japan In 2020
+title: Top 10 Bmx Instagram Influencers In Japan In 2021
 description: >-
-  Find top bmx Instagram influencers in Japan in 2020. Most popular hashtags: #bmx #bmxracing #japan.
+  Find top bmx Instagram influencers in Japan in 2021. Most popular hashtags: #bmx #bmxracing #japan.
 platform: Instagram
 hits: 16
 text_top: Discover the top-rated Instagram accounts on inBeat.

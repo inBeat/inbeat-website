@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Italy In 2020
+title: Top 10 Athletes TikTok Influencers In Italy In 2021
 description: >-
-  Find top athletes TikTok influencers in Italy in 2020. Most popular hashtags: #perte #workout #fitness #foryoupage.
+  Find top athletes TikTok influencers in Italy in 2021. Most popular hashtags: #perte #workout #fitness #foryoupage.
 platform: TikTok
 hits: 21
 text_top: See the most popular TikTok profiles on inBeat.

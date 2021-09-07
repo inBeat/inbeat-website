@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Argentina In 2020
+title: Top 10 Outdoors Instagram Influencers In Argentina In 2021
 description: >-
-  Find top outdoors Instagram influencers in Argentina in 2020. Most popular hashtags: #outdoors #argentina #landscape #sunset.
+  Find top outdoors Instagram influencers in Argentina in 2021. Most popular hashtags: #outdoors #argentina #landscape #sunset.
 platform: Instagram
 hits: 47
 text_top: Identify the most popular Instagram profiles on inBeat.

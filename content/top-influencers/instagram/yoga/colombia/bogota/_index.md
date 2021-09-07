@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bogotá In 2020
+title: Top 10 Yoga Instagram Influencers In Bogotá In 2021
 description: >-
-  Find top yoga Instagram influencers in Bogotá in 2020. Most popular hashtags: #yoga #colombia #fitness #salud.
+  Find top yoga Instagram influencers in Bogotá in 2021. Most popular hashtags: #yoga #colombia #fitness #salud.
 platform: Instagram
 hits: 8
 text_top: Discover the top-rated Instagram profiles on inBeat.

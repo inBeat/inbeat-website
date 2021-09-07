@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Canada In 2020
+title: Top 10 Olympian Athletes Instagram Influencers In Canada In 2021
 description: >-
-  Find top olympian athletes Instagram influencers in Canada in 2020. Most popular hashtags: #teamcanada #canada #athlete.
+  Find top olympian athletes Instagram influencers in Canada in 2021. Most popular hashtags: #teamcanada #canada #athlete.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram accounts on inBeat.

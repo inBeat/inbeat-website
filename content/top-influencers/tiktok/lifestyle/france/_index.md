@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In France In 2020
+title: Top 10 Lifestyle TikTok Influencers In France In 2021
 description: >-
-  Find top lifestyle TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #foryoupage #fyp.
+  Find top lifestyle TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #foryoupage #fyp.
 platform: TikTok
 hits: 78
 text_top: Identify the best TikTok profiles on inBeat.

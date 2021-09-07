@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Las Vegas In 2020
+title: Top 10 Nutrition Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top nutrition Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fitness #nutrition #vegas #lasvegas.
+  Find top nutrition Instagram influencers in Las Vegas in 2021. Most popular hashtags: #fitness #nutrition #vegas #lasvegas.
 platform: Instagram
 hits: 45
 text_top: Identify the top-rated Instagram accounts on inBeat.

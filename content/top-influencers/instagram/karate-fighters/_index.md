@@ -1,7 +1,7 @@
 ---
-title: Top 10 Karate Fighters Instagram Influencers In 2020
+title: Top 10 Karate Fighters Instagram Influencers In 2021
 description: >-
-  Find top karate fighters Instagram influencers in 2020. Most popular hashtags: #karate #sport #fitness #training.
+  Find top karate fighters Instagram influencers in 2021. Most popular hashtags: #karate #sport #fitness #training.
 platform: Instagram
 hits: 7
 text_top: Discover the most popular Instagram accounts on inBeat.

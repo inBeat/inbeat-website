@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Bali In 2020
+title: Top 10 Mothers Instagram Influencers In Bali In 2021
 description: >-
-  Find top mothers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #benatureal.
+  Find top mothers Instagram influencers in Bali in 2021. Most popular hashtags: #bali #dirumahaja #benatureal.
 platform: Instagram
 hits: 23
 text_top: Identify the most popular Instagram accounts on inBeat.

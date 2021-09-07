@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In 2020
+title: Top 10 Nail Artists Instagram Influencers In 2021
 description: >-
-  Find top nail artists Instagram influencers in 2020. Most popular hashtags: #nailart #fashion #nailartist.
+  Find top nail artists Instagram influencers in 2021. Most popular hashtags: #nailart #fashion #nailartist.
 platform: Instagram
 hits: 1196
 text_top: Identify the best Instagram profiles on inBeat.

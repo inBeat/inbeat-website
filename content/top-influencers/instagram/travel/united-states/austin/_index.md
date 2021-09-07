@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Austin In 2020
+title: Top 10 Travel Instagram Influencers In Austin In 2021
 description: >-
-  Find top travel Instagram influencers in Austin in 2020. Most popular hashtags: #austin #austinblogger #austintexas.
+  Find top travel Instagram influencers in Austin in 2021. Most popular hashtags: #austin #austinblogger #austintexas.
 platform: Instagram
 hits: 296
 text_top: Identify the most popular Instagram influencers on inBeat.

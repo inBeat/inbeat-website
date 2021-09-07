@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Belgium In 2020
+title: Top 10 Cooking Instagram Influencers In Belgium In 2021
 description: >-
-  Find top cooking Instagram influencers in Belgium in 2020. Most popular hashtags: #fitness #food #belgianfoodie #foodie.
+  Find top cooking Instagram influencers in Belgium in 2021. Most popular hashtags: #fitness #food #belgianfoodie #foodie.
 platform: Instagram
 hits: 45
 text_top: Analyze the most popular Instagram accounts on inBeat.

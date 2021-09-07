@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Chicago In 2020
+title: Top 10 Fitness TikTok Influencers In Chicago In 2021
 description: >-
-  Find top fitness TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #fitness #duet #chicago.
+  Find top fitness TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #fitness #duet #chicago.
 platform: TikTok
 hits: 40
 text_top: Discover the best TikTok accounts on inBeat.

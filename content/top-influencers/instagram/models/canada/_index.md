@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Canada In 2020
+title: Top 10 Models Instagram Influencers In Canada In 2021
 description: >-
-  Find top models Instagram influencers in Canada in 2020. Most popular hashtags: #selfie #shein #fall.
+  Find top models Instagram influencers in Canada in 2021. Most popular hashtags: #selfie #shein #fall.
 platform: Instagram
 hits: 660
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chicago In 2020
+title: Top 10 Architecture Instagram Influencers In Chicago In 2021
 description: >-
-  Find top architecture Instagram influencers in Chicago in 2020. Most popular hashtags: #architecture #chicago #chiarchitecture #design.
+  Find top architecture Instagram influencers in Chicago in 2021. Most popular hashtags: #architecture #chicago #chiarchitecture #design.
 platform: Instagram
 hits: 76
 text_top: Discover the best Instagram profiles on inBeat.

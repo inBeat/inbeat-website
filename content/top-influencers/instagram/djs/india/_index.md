@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In India In 2020
+title: Top 10 Djs Instagram Influencers In India In 2021
 description: >-
-  Find top djs Instagram influencers in India in 2020. Most popular hashtags: #dj #india #music #djset.
+  Find top djs Instagram influencers in India in 2021. Most popular hashtags: #dj #india #music #djset.
 platform: Instagram
 hits: 91
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Boston In 2020
+title: Top 10 Lifestyle Instagram Influencers In Boston In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Boston in 2020. Most popular hashtags: #boston #bostonblogger #fashion #reels.
+  Find top lifestyle Instagram influencers in Boston in 2021. Most popular hashtags: #boston #bostonblogger #fashion #reels.
 platform: Instagram
 hits: 115
 text_top: Analyze the best Instagram profiles on inBeat.

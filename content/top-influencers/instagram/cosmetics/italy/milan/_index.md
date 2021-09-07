@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Milan In 2020
+title: Top 10 Cosmetics Instagram Influencers In Milan In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Milan in 2020. Most popular hashtags: #makeup #milano #fashion #style.
+  Find top cosmetics Instagram influencers in Milan in 2021. Most popular hashtags: #makeup #milano #fashion #style.
 platform: Instagram
 hits: 112
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Music TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top music TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #foryoupage #duet #foryou #viral.
+  Find top music TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #foryoupage #duet #foryou #viral.
 platform: TikTok
 hits: 59
 text_top: Identify the top-rated TikTok accounts on inBeat.

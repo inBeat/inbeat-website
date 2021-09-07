@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Osaka In 2020
+title: Top 10 Lifestyle Instagram Influencers In Osaka In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Osaka in 2020. Most popular hashtags: #lifestyle #japan #japanese #osaka.
+  Find top lifestyle Instagram influencers in Osaka in 2021. Most popular hashtags: #lifestyle #japan #japanese #osaka.
 platform: Instagram
 hits: 10
 text_top: Analyze the best Instagram profiles on inBeat.

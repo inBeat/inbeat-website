@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Switzerland In 2020
+title: Top 10 Travel Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top travel Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #swiss #fashion.
+  Find top travel Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #swiss #fashion.
 platform: Instagram
 hits: 650
 text_top: Identify the best Instagram influencers on inBeat.

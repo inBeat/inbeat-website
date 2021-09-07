@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austria In 2020
+title: Top 10 Makeup Instagram Influencers In Austria In 2021
 description: >-
-  Find top makeup Instagram influencers in Austria in 2020. Most popular hashtags: #halloweenmakeup #vienna #ootd #austria.
+  Find top makeup Instagram influencers in Austria in 2021. Most popular hashtags: #halloweenmakeup #vienna #ootd #austria.
 platform: Instagram
 hits: 142
 text_top: See the top-rated Instagram influencers on inBeat.

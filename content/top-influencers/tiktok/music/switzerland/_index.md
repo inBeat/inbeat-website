@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Switzerland In 2020
+title: Top 10 Music TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top music TikTok influencers in Switzerland in 2020. Most popular hashtags: #switzerland #foryoupage #fyp #foryou.
+  Find top music TikTok influencers in Switzerland in 2021. Most popular hashtags: #switzerland #foryoupage #fyp #foryou.
 platform: TikTok
 hits: 57
 text_top: Identify the best TikTok influencers on inBeat.

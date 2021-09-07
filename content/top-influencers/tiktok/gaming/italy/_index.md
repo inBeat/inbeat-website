@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Italy In 2020
+title: Top 10 Gaming TikTok Influencers In Italy In 2021
 description: >-
-  Find top gaming TikTok influencers in Italy in 2020. Most popular hashtags: #gaming #gamer #twitch #perte.
+  Find top gaming TikTok influencers in Italy in 2021. Most popular hashtags: #gaming #gamer #twitch #perte.
 platform: TikTok
 hits: 47
 text_top: Identify the best TikTok profiles on inBeat.

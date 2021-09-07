@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Poland In 2020
+title: Top 10 Athletes Instagram Influencers In Poland In 2021
 description: >-
-  Find top athletes Instagram influencers in Poland in 2020. Most popular hashtags: #sport #fit #love #happy.
+  Find top athletes Instagram influencers in Poland in 2021. Most popular hashtags: #sport #fit #love #happy.
 platform: Instagram
 hits: 78
 text_top: Analyze the best Instagram accounts on inBeat.

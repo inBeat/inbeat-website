@@ -1,7 +1,7 @@
 ---
-title: Top 10 Violin TikTok Influencers In 2020
+title: Top 10 Violin TikTok Influencers In 2021
 description: >-
-  Find top violin TikTok influencers in 2020. Most popular hashtags: #violin #foryou #violinplayer #electricviolin.
+  Find top violin TikTok influencers in 2021. Most popular hashtags: #violin #foryou #violinplayer #electricviolin.
 platform: TikTok
 hits: 6
 text_top: Discover the top-rated TikTok profiles on inBeat.

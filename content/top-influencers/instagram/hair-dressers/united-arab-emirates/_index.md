@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Hair Dressers Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top hair dressers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #beauty #fashion #dubai #makeup.
+  Find top hair dressers Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #beauty #fashion #dubai #makeup.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram influencers on inBeat.

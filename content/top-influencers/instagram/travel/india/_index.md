@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In India In 2020
+title: Top 10 Travel Instagram Influencers In India In 2021
 description: >-
-  Find top travel Instagram influencers in India in 2020. Most popular hashtags: #travelphotography #travel #instagood.
+  Find top travel Instagram influencers in India in 2021. Most popular hashtags: #travelphotography #travel #instagood.
 platform: Instagram
 hits: 6239
 text_top: Discover the most popular Instagram profiles on inBeat.

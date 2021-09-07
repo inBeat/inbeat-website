@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Italy In 2020
+title: Top 10 Home Decor Instagram Influencers In Italy In 2021
 description: >-
-  Find top home decor Instagram influencers in Italy in 2020. Most popular hashtags: #homedecor #homesweethome #home #love.
+  Find top home decor Instagram influencers in Italy in 2021. Most popular hashtags: #homedecor #homesweethome #home #love.
 platform: Instagram
 hits: 278
 text_top: Identify the most popular Instagram influencers on inBeat.

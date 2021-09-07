@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Austin In 2020
+title: Top 10 Photographers TikTok Influencers In Austin In 2021
 description: >-
-  Find top photographers TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #photographer #travel #duet.
+  Find top photographers TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #photographer #travel #duet.
 platform: TikTok
 hits: 35
 text_top: Analyze the best TikTok profiles on inBeat.

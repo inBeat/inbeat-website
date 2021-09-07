@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Seattle In 2020
+title: Top 10 Fitness Instagram Influencers In Seattle In 2021
 description: >-
-  Find top fitness Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #fitness #pnw #love.
+  Find top fitness Instagram influencers in Seattle in 2021. Most popular hashtags: #seattle #fitness #pnw #love.
 platform: Instagram
 hits: 80
 text_top: Analyze the top-rated Instagram influencers on inBeat.

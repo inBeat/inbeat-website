@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United States In 2020
+title: Top 10 Cinema TikTok Influencers In United States In 2021
 description: >-
-  Find top cinema TikTok influencers in United States in 2020. Most popular hashtags: #fyp #duet #foryoupage #funny.
+  Find top cinema TikTok influencers in United States in 2021. Most popular hashtags: #fyp #duet #foryoupage #funny.
 platform: TikTok
 hits: 631
 text_top: See the top-rated TikTok profiles on inBeat.

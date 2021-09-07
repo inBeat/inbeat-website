@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Istanbul In 2020
+title: Top 10 Fitness Instagram Influencers In Istanbul In 2021
 description: >-
-  Find top fitness Instagram influencers in Istanbul in 2020. Most popular hashtags: #fitness #istanbul #fitnessmotivation #fit.
+  Find top fitness Instagram influencers in Istanbul in 2021. Most popular hashtags: #fitness #istanbul #fitnessmotivation #fit.
 platform: Instagram
 hits: 100
 text_top: See the best Instagram profiles on inBeat.

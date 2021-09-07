@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In San Francisco In 2020
+title: Top 10 Makeup Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top makeup Instagram influencers in San Francisco in 2020. Most popular hashtags: #makeup #sanfrancisco #fashion #beauty.
+  Find top makeup Instagram influencers in San Francisco in 2021. Most popular hashtags: #makeup #sanfrancisco #fashion #beauty.
 platform: Instagram
 hits: 54
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Milan In 2020
+title: Top 10 Skincare TikTok Influencers In Milan In 2021
 description: >-
-  Find top skincare TikTok influencers in Milan in 2020. Most popular hashtags: #skincare #makeup #perte #beauty.
+  Find top skincare TikTok influencers in Milan in 2021. Most popular hashtags: #skincare #makeup #perte #beauty.
 platform: TikTok
 hits: 5
 text_top: Discover the most popular TikTok influencers on inBeat.

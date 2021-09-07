@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Switzerland In 2020
+title: Top 10 Chefs Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top chefs Instagram influencers in Switzerland in 2020. Most popular hashtags: #michelinstar #dessert #foodie.
+  Find top chefs Instagram influencers in Switzerland in 2021. Most popular hashtags: #michelinstar #dessert #foodie.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram influencers on inBeat.

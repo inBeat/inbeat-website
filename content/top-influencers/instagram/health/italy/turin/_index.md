@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Turin In 2020
+title: Top 10 Health Instagram Influencers In Turin In 2021
 description: >-
-  Find top health Instagram influencers in Turin in 2020. Most popular hashtags: #turin #torino #italy.
+  Find top health Instagram influencers in Turin in 2021. Most popular hashtags: #turin #torino #italy.
 platform: Instagram
 hits: 5
 text_top: Discover the best Instagram influencers on inBeat.

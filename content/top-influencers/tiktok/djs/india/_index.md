@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs TikTok Influencers In India In 2020
+title: Top 10 Djs TikTok Influencers In India In 2021
 description: >-
-  Find top djs TikTok influencers in India in 2020. Most popular hashtags: #foryoupage #tiktokindia #trending #viral.
+  Find top djs TikTok influencers in India in 2021. Most popular hashtags: #foryoupage #tiktokindia #trending #viral.
 platform: TikTok
 hits: 58
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Indonesia In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Indonesia in 2020. Most popular hashtags: #bodybuilding #fitness #muscle #bodybuilder.
+  Find top bodybuilding Instagram influencers in Indonesia in 2021. Most popular hashtags: #bodybuilding #fitness #muscle #bodybuilder.
 platform: Instagram
 hits: 39
 text_top: See the most popular Instagram profiles on inBeat.

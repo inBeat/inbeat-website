@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Manchester In 2020
+title: Top 10 Yoga Instagram Influencers In Manchester In 2021
 description: >-
-  Find top yoga Instagram influencers in Manchester in 2020. Most popular hashtags: #yoga #fitness #yogaeverydamnday #yogapractice.
+  Find top yoga Instagram influencers in Manchester in 2021. Most popular hashtags: #yoga #fitness #yogaeverydamnday #yogapractice.
 platform: Instagram
 hits: 5
 text_top: Discover the best Instagram profiles on inBeat.

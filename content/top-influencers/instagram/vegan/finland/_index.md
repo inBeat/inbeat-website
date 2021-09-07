@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Finland In 2020
+title: Top 10 Vegan Instagram Influencers In Finland In 2021
 description: >-
-  Find top vegan Instagram influencers in Finland in 2020. Most popular hashtags: #vegaani #vegan #arvonta #finland.
+  Find top vegan Instagram influencers in Finland in 2021. Most popular hashtags: #vegaani #vegan #arvonta #finland.
 platform: Instagram
 hits: 33
 text_top: Discover the most popular Instagram profiles on inBeat.

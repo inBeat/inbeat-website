@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Philadelphia In 2020
+title: Top 10 Food TikTok Influencers In Philadelphia In 2021
 description: >-
-  Find top food TikTok influencers in Philadelphia in 2020. Most popular hashtags: #fyp #foryou #food #philly.
+  Find top food TikTok influencers in Philadelphia in 2021. Most popular hashtags: #fyp #foryou #food #philly.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok influencers on inBeat.

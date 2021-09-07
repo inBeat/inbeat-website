@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Morocco In 2020
+title: Top 10 Barbers Instagram Influencers In Morocco In 2021
 description: >-
-  Find top barbers Instagram influencers in Morocco in 2020. Most popular hashtags: #fashion #love #lifestyle #instagram.
+  Find top barbers Instagram influencers in Morocco in 2021. Most popular hashtags: #fashion #love #lifestyle #instagram.
 platform: Instagram
 hits: 13
 text_top: Identify the best Instagram influencers on inBeat.

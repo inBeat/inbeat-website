@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Thailand In 2020
+title: Top 10 TikTok Influencers In Thailand In 2021
 description: >-
-  Find top TikTok influencers in Thailand in 2020. Most popular hashtags: #islandkingchallenge #gohuaweicloud #duet.
+  Find top TikTok influencers in Thailand in 2021. Most popular hashtags: #islandkingchallenge #gohuaweicloud #duet.
 platform: TikTok
 hits: 1056
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Ukraine In 2020
+title: Top 10 Guitar Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top guitar Instagram influencers in Ukraine in 2020. Most popular hashtags: #guitar #ukraine #music #lviv.
+  Find top guitar Instagram influencers in Ukraine in 2021. Most popular hashtags: #guitar #ukraine #music #lviv.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Toronto In 2020
+title: Top 10 Health Instagram Influencers In Toronto In 2021
 description: >-
-  Find top health Instagram influencers in Toronto in 2020. Most popular hashtags: #fitness #toronto #health.
+  Find top health Instagram influencers in Toronto in 2021. Most popular hashtags: #fitness #toronto #health.
 platform: Instagram
 hits: 115
 text_top: Identify the most popular Instagram accounts on inBeat.

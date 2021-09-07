@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In South Africa In 2020
+title: Top 10 Fitness Instagram Influencers In South Africa In 2021
 description: >-
-  Find top fitness Instagram influencers in South Africa in 2020. Most popular hashtags: #love #style #photooftheday.
+  Find top fitness Instagram influencers in South Africa in 2021. Most popular hashtags: #love #style #photooftheday.
 platform: Instagram
 hits: 118
 text_top: Analyze the most popular Instagram influencers on inBeat.

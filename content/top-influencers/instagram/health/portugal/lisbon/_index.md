@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Lisbon In 2020
+title: Top 10 Health Instagram Influencers In Lisbon In 2021
 description: >-
-  Find top health Instagram influencers in Lisbon in 2020. Most popular hashtags: #portugal #nature #lisboa #sunset.
+  Find top health Instagram influencers in Lisbon in 2021. Most popular hashtags: #portugal #nature #lisboa #sunset.
 platform: Instagram
 hits: 20
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Japan In 2020
+title: Top 10 Stylists Instagram Influencers In Japan In 2021
 description: >-
-  Find top stylists Instagram influencers in Japan in 2020. Most popular hashtags: #pr #coupleshoot #snackswkfilm.
+  Find top stylists Instagram influencers in Japan in 2021. Most popular hashtags: #pr #coupleshoot #snackswkfilm.
 platform: Instagram
 hits: 95
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Morocco In 2020
+title: Top 10 Guitar Instagram Influencers In Morocco In 2021
 description: >-
-  Find top guitar Instagram influencers in Morocco in 2020. Most popular hashtags: #music #guitar #morocco #love.
+  Find top guitar Instagram influencers in Morocco in 2021. Most popular hashtags: #music #guitar #morocco #love.
 platform: Instagram
 hits: 8
 text_top: Identify the most popular Instagram influencers on inBeat.

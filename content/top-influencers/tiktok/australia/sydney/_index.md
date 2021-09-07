@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Sydney In 2020
+title: Top 10 TikTok Influencers In Sydney In 2021
 description: >-
-  Find top TikTok influencers in Sydney in 2020. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top TikTok influencers in Sydney in 2021. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 430
 text_top: Discover the most popular TikTok influencers on inBeat.

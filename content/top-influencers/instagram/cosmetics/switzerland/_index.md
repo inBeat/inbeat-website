@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Switzerland In 2020
+title: Top 10 Cosmetics Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Switzerland in 2020. Most popular hashtags: #love #cosmetics #fashion #blogger.
+  Find top cosmetics Instagram influencers in Switzerland in 2021. Most popular hashtags: #love #cosmetics #fashion #blogger.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram accounts on inBeat.

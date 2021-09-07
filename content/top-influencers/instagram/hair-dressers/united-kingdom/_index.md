@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2020
+title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top hair dressers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #hair #hairdressers #hairdresser #love.
+  Find top hair dressers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #hair #hairdressers #hairdresser #love.
 platform: Instagram
 hits: 41
 text_top: See the top-rated Instagram profiles on inBeat.

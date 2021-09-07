@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Austria in 2020. Most popular hashtags: #tattoo #ink #art #artist.
+  Find top tattoo-artists Instagram influencers in Austria in 2021. Most popular hashtags: #tattoo #ink #art #artist.
 platform: Instagram
 hits: 12
 text_top: Analyze the top-rated Instagram profiles on inBeat.

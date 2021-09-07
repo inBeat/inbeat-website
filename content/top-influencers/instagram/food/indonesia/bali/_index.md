@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Bali In 2020
+title: Top 10 Food Instagram Influencers In Bali In 2021
 description: >-
-  Find top food Instagram influencers in Bali in 2020. Most popular hashtags: #bali #baliindonesia #balilife #foodbali.
+  Find top food Instagram influencers in Bali in 2021. Most popular hashtags: #bali #baliindonesia #balilife #foodbali.
 platform: Instagram
 hits: 78
 text_top: Analyze the best Instagram accounts on inBeat.

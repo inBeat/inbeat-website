@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Las Vegas In 2020
+title: Top 10 Barbers Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top barbers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #barber #haircut #barbershopconnect #hair.
+  Find top barbers Instagram influencers in Las Vegas in 2021. Most popular hashtags: #barber #haircut #barbershopconnect #hair.
 platform: Instagram
 hits: 17
 text_top: Analyze the top-rated Instagram profiles on inBeat.

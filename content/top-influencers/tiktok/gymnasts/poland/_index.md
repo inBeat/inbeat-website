@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Poland In 2020
+title: Top 10 Gymnasts TikTok Influencers In Poland In 2021
 description: >-
-  Find top gymnasts TikTok influencers in Poland in 2020. Most popular hashtags: #gymnastics #dlaciebie #dc #fyp.
+  Find top gymnasts TikTok influencers in Poland in 2021. Most popular hashtags: #gymnastics #dlaciebie #dc #fyp.
 platform: TikTok
 hits: 26
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Canada In 2020
+title: Top 10 Nutrition TikTok Influencers In Canada In 2021
 description: >-
-  Find top nutrition TikTok influencers in Canada in 2020. Most popular hashtags: #nutritiontips #nutrition #dietitian #duet.
+  Find top nutrition TikTok influencers in Canada in 2021. Most popular hashtags: #nutritiontips #nutrition #dietitian #duet.
 platform: TikTok
 hits: 36
 text_top: Identify the best TikTok accounts on inBeat.

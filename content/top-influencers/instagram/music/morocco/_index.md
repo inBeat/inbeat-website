@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Morocco In 2020
+title: Top 10 Music Instagram Influencers In Morocco In 2021
 description: >-
-  Find top music Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #love #smile.
+  Find top music Instagram influencers in Morocco in 2021. Most popular hashtags: #morocco #love #smile.
 platform: Instagram
 hits: 83
 text_top: Identify the best Instagram influencers on inBeat.

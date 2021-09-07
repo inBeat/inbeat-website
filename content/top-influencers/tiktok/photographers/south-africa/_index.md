@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In South Africa In 2020
+title: Top 10 Photographers TikTok Influencers In South Africa In 2021
 description: >-
-  Find top photographers TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #tiktoksouthafrica #foryou #foryoupage.
+  Find top photographers TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #tiktoksouthafrica #foryou #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Identify the most popular TikTok profiles on inBeat.

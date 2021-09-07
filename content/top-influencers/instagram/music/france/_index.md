@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In France In 2020
+title: Top 10 Music Instagram Influencers In France In 2021
 description: >-
-  Find top music Instagram influencers in France in 2020. Most popular hashtags: #love #restezchezvous #ensemble.
+  Find top music Instagram influencers in France in 2021. Most popular hashtags: #love #restezchezvous #ensemble.
 platform: Instagram
 hits: 1552
 text_top: Analyze the top-rated Instagram profiles on inBeat.

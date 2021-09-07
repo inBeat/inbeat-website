@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Phoenix In 2020
+title: Top 10 Fashion Instagram Influencers In Phoenix In 2021
 description: >-
-  Find top fashion Instagram influencers in Phoenix in 2020. Most popular hashtags: #fashion #explore #fitness #bikini.
+  Find top fashion Instagram influencers in Phoenix in 2021. Most popular hashtags: #fashion #explore #fitness #bikini.
 platform: Instagram
 hits: 109
 text_top: Identify the best Instagram profiles on inBeat.

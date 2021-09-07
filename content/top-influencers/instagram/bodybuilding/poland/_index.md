@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Poland In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Poland In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Poland in 2020. Most popular hashtags: #bodybuilding #polishgirl #workout #trening.
+  Find top bodybuilding Instagram influencers in Poland in 2021. Most popular hashtags: #bodybuilding #polishgirl #workout #trening.
 platform: Instagram
 hits: 218
 text_top: Identify the most popular Instagram accounts on inBeat.

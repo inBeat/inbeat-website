@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Las Vegas In 2020
+title: Top 10 Models Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top models Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #model #fitness.
+  Find top models Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #model #fitness.
 platform: Instagram
 hits: 291
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In South Africa In 2020
+title: Top 10 Cinema Instagram Influencers In South Africa In 2021
 description: >-
-  Find top cinema Instagram influencers in South Africa in 2020. Most popular hashtags: #nature #beauty #southafrica.
+  Find top cinema Instagram influencers in South Africa in 2021. Most popular hashtags: #nature #beauty #southafrica.
 platform: Instagram
 hits: 18
 text_top: Identify the most popular Instagram accounts on inBeat.

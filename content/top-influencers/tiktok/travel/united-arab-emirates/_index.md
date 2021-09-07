@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top travel TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #tiktokdubai #dance #foryou #dubai.
+  Find top travel TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #tiktokdubai #dance #foryou #dubai.
 platform: TikTok
 hits: 76
 text_top: See the top-rated TikTok profiles on inBeat.

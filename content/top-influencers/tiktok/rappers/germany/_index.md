@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Germany In 2020
+title: Top 10 Rappers TikTok Influencers In Germany In 2021
 description: >-
-  Find top rappers TikTok influencers in Germany in 2020. Most popular hashtags: #foryou #rap #deutschrap.
+  Find top rappers TikTok influencers in Germany in 2021. Most popular hashtags: #foryou #rap #deutschrap.
 platform: TikTok
 hits: 52
 text_top: Identify the top-rated TikTok influencers on inBeat.

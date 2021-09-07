@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Peru In 2020
+title: Top 10 Fitness Instagram Influencers In Peru In 2021
 description: >-
-  Find top fitness Instagram influencers in Peru in 2020. Most popular hashtags: #peru #fitness #love #fitnessmotivation.
+  Find top fitness Instagram influencers in Peru in 2021. Most popular hashtags: #peru #fitness #love #fitnessmotivation.
 platform: Instagram
 hits: 64
 text_top: Discover the top-rated Instagram accounts on inBeat.

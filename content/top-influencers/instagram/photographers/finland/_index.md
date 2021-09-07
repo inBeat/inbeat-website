@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Finland In 2020
+title: Top 10 Photographers Instagram Influencers In Finland In 2021
 description: >-
-  Find top photographers Instagram influencers in Finland in 2020. Most popular hashtags: #photographer #cinematicphotography #liveforthestory.
+  Find top photographers Instagram influencers in Finland in 2021. Most popular hashtags: #photographer #cinematicphotography #liveforthestory.
 platform: Instagram
 hits: 106
 text_top: Discover the top-rated Instagram accounts on inBeat.

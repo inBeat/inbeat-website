@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Barcelona In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #tattoo #barcelonatattoo #traditionaltattoo.
+  Find top tattoo-artists Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #tattoo #barcelonatattoo #traditionaltattoo.
 platform: Instagram
 hits: 54
 text_top: See the most popular Instagram influencers on inBeat.

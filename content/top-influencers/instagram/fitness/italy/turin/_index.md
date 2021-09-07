@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Turin In 2020
+title: Top 10 Fitness Instagram Influencers In Turin In 2021
 description: >-
-  Find top fitness Instagram influencers in Turin in 2020. Most popular hashtags: #fitness #photography #turin #italy.
+  Find top fitness Instagram influencers in Turin in 2021. Most popular hashtags: #fitness #photography #turin #italy.
 platform: Instagram
 hits: 16
 text_top: Identify the best Instagram influencers on inBeat.

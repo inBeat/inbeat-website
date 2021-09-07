@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Osaka In 2020
+title: Top 10 Photographers Instagram Influencers In Osaka In 2021
 description: >-
-  Find top photographers Instagram influencers in Osaka in 2020. Most popular hashtags: #japan #moodygrams #streetclassics.
+  Find top photographers Instagram influencers in Osaka in 2021. Most popular hashtags: #japan #moodygrams #streetclassics.
 platform: Instagram
 hits: 25
 text_top: Discover the best Instagram accounts on inBeat.

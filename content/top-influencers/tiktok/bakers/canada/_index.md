@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Canada In 2020
+title: Top 10 Bakers TikTok Influencers In Canada In 2021
 description: >-
-  Find top bakers TikTok influencers in Canada in 2020. Most popular hashtags: #cake #baker #fyp #foryou.
+  Find top bakers TikTok influencers in Canada in 2021. Most popular hashtags: #cake #baker #fyp #foryou.
 platform: TikTok
 hits: 91
 text_top: Identify the most popular TikTok profiles on inBeat.

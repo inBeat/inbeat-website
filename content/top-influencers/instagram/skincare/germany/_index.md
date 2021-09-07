@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Germany In 2020
+title: Top 10 Skincare Instagram Influencers In Germany In 2021
 description: >-
-  Find top skincare Instagram influencers in Germany in 2020. Most popular hashtags: #skincare #skincarecommunity #beauty #verlosung.
+  Find top skincare Instagram influencers in Germany in 2021. Most popular hashtags: #skincare #skincarecommunity #beauty #verlosung.
 platform: Instagram
 hits: 409
 text_top: Identify the top-rated Instagram profiles on inBeat.

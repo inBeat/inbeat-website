@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Rio De Janeiro In 2020
+title: Top 10 Instagram Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #riodejaneiro #topofbrazil #vibepositivamundo.
+  Find top Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #riodejaneiro #topofbrazil #vibepositivamundo.
 platform: Instagram
 hits: 2765
 text_top: Discover the best Instagram influencers on inBeat.

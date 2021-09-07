@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Morocco In 2020
+title: Top 10 Makeup TikTok Influencers In Morocco In 2021
 description: >-
-  Find top makeup TikTok influencers in Morocco in 2020. Most popular hashtags: #makeup #foryou #foryoupage #makeuptutorial.
+  Find top makeup TikTok influencers in Morocco in 2021. Most popular hashtags: #makeup #foryou #foryoupage #makeuptutorial.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok accounts on inBeat.

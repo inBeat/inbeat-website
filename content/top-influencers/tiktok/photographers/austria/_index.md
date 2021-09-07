@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Austria In 2020
+title: Top 10 Photographers TikTok Influencers In Austria In 2021
 description: >-
-  Find top photographers TikTok influencers in Austria in 2020. Most popular hashtags: #fyp #photographer #austria #foryou.
+  Find top photographers TikTok influencers in Austria in 2021. Most popular hashtags: #fyp #photographer #austria #foryou.
 platform: TikTok
 hits: 9
 text_top: Identify the top-rated TikTok accounts on inBeat.

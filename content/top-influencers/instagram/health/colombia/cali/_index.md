@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Cali In 2020
+title: Top 10 Health Instagram Influencers In Cali In 2021
 description: >-
-  Find top health Instagram influencers in Cali in 2020. Most popular hashtags: #colombia #fitness #strong #lifestyle.
+  Find top health Instagram influencers in Cali in 2021. Most popular hashtags: #colombia #fitness #strong #lifestyle.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram accounts on inBeat.

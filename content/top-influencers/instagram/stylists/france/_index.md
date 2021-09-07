@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In France In 2020
+title: Top 10 Stylists Instagram Influencers In France In 2021
 description: >-
-  Find top stylists Instagram influencers in France in 2020. Most popular hashtags: #fashionstyle #coat #fashionblogger.
+  Find top stylists Instagram influencers in France in 2021. Most popular hashtags: #fashionstyle #coat #fashionblogger.
 platform: Instagram
 hits: 450
 text_top: Identify the best Instagram profiles on inBeat.

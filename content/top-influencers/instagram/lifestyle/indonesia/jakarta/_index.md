@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Jakarta In 2020
+title: Top 10 Lifestyle Instagram Influencers In Jakarta In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Jakarta in 2020. Most popular hashtags: #lifestyle #jakarta #dirumahaja.
+  Find top lifestyle Instagram influencers in Jakarta in 2021. Most popular hashtags: #lifestyle #jakarta #dirumahaja.
 platform: Instagram
 hits: 118
 text_top: Identify the top-rated Instagram profiles on inBeat.

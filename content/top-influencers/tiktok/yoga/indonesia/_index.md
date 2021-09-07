@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Indonesia In 2020
+title: Top 10 Yoga TikTok Influencers In Indonesia In 2021
 description: >-
-  Find top yoga TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #foryoupage #viral #duet.
+  Find top yoga TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryoupage #viral #duet.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok accounts on inBeat.

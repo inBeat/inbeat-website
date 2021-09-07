@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Spain In 2020
+title: Top 10 Fitness TikTok Influencers In Spain In 2021
 description: >-
-  Find top fitness TikTok influencers in Spain in 2020. Most popular hashtags: #fitness #gym #dance #humor.
+  Find top fitness TikTok influencers in Spain in 2021. Most popular hashtags: #fitness #gym #dance #humor.
 platform: TikTok
 hits: 87
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Montreal In 2020
+title: Top 10 Comedians Instagram Influencers In Montreal In 2021
 description: >-
-  Find top comedians Instagram influencers in Montreal in 2020. Most popular hashtags: #standup #montreal #humour.
+  Find top comedians Instagram influencers in Montreal in 2021. Most popular hashtags: #standup #montreal #humour.
 platform: Instagram
 hits: 6
 text_top: Discover the most popular Instagram profiles on inBeat.

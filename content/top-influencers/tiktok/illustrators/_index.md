@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In 2020
+title: Top 10 Illustrators TikTok Influencers In 2021
 description: >-
-  Find top illustrators TikTok influencers in 2020. Most popular hashtags: #fyp #art #drawing #artist.
+  Find top illustrators TikTok influencers in 2021. Most popular hashtags: #fyp #art #drawing #artist.
 platform: TikTok
 hits: 157
 text_top: Analyze the best TikTok profiles on inBeat.

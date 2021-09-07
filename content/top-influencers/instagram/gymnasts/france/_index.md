@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In France In 2020
+title: Top 10 Gymnasts Instagram Influencers In France In 2021
 description: >-
-  Find top gymnasts Instagram influencers in France in 2020. Most popular hashtags: #fitness #training #france.
+  Find top gymnasts Instagram influencers in France in 2021. Most popular hashtags: #fitness #training #france.
 platform: Instagram
 hits: 116
 text_top: Analyze the most popular Instagram influencers on inBeat.

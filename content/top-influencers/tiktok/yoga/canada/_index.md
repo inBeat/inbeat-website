@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Canada In 2020
+title: Top 10 Yoga TikTok Influencers In Canada In 2021
 description: >-
-  Find top yoga TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #yogaflow #foryoupage #yoga.
+  Find top yoga TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #yogaflow #foryoupage #yoga.
 platform: TikTok
 hits: 121
 text_top: See the best TikTok accounts on inBeat.

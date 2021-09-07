@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Brazil In 2020
+title: Top 10 Wellness Instagram Influencers In Brazil In 2021
 description: >-
-  Find top wellness Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #fitness #bodybuilding.
+  Find top wellness Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #fitness #bodybuilding.
 platform: Instagram
 hits: 188
 text_top: See the best Instagram influencers on inBeat.

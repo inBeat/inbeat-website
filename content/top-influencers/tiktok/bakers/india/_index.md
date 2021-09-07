@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In India In 2020
+title: Top 10 Bakers TikTok Influencers In India In 2021
 description: >-
-  Find top bakers TikTok influencers in India in 2020. Most popular hashtags: #cake #foryou #foryoupage #baker.
+  Find top bakers TikTok influencers in India in 2021. Most popular hashtags: #cake #foryou #foryoupage #baker.
 platform: TikTok
 hits: 116
 text_top: See the best TikTok influencers on inBeat.

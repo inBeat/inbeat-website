@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Konya In 2020
+title: Top 10 TikTok Influencers In Konya In 2021
 description: >-
-  Find top TikTok influencers in Konya in 2020. Most popular hashtags: #ke #konya #beni #tiktok.
+  Find top TikTok influencers in Konya in 2021. Most popular hashtags: #ke #konya #beni #tiktok.
 platform: TikTok
 hits: 188
 text_top: Identify the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Barcelona In 2020
+title: Top 10 Health Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top health Instagram influencers in Barcelona in 2020. Most popular hashtags: #fitness #barcelona #healthy #motivation.
+  Find top health Instagram influencers in Barcelona in 2021. Most popular hashtags: #fitness #barcelona #healthy #motivation.
 platform: Instagram
 hits: 72
 text_top: Identify the top-rated Instagram profiles on inBeat.

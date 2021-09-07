@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Seattle In 2020
+title: Top 10 Beauty Instagram Influencers In Seattle In 2021
 description: >-
-  Find top beauty Instagram influencers in Seattle in 2020. Most popular hashtags: #beauty #seattle #beach.
+  Find top beauty Instagram influencers in Seattle in 2021. Most popular hashtags: #beauty #seattle #beach.
 platform: Instagram
 hits: 87
 text_top: Identify the best Instagram accounts on inBeat.

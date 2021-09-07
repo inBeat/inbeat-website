@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Houston In 2020
+title: Top 10 Food TikTok Influencers In Houston In 2021
 description: >-
-  Find top food TikTok influencers in Houston in 2020. Most popular hashtags: #houston #food #fyp #foodie.
+  Find top food TikTok influencers in Houston in 2021. Most popular hashtags: #houston #food #fyp #foodie.
 platform: TikTok
 hits: 76
 text_top: Discover the best TikTok accounts on inBeat.

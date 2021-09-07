@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Poland In 2020
+title: Top 10 Music Instagram Influencers In Poland In 2021
 description: >-
-  Find top music Instagram influencers in Poland in 2020. Most popular hashtags: #summer #mirrorselfie #polska.
+  Find top music Instagram influencers in Poland in 2021. Most popular hashtags: #summer #mirrorselfie #polska.
 platform: Instagram
 hits: 402
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Greece In 2020
+title: Top 10 Chefs Instagram Influencers In Greece In 2021
 description: >-
-  Find top chefs Instagram influencers in Greece in 2020. Most popular hashtags: #cooking #foodporn #cheflife #food.
+  Find top chefs Instagram influencers in Greece in 2021. Most popular hashtags: #cooking #foodporn #cheflife #food.
 platform: Instagram
 hits: 41
 text_top: Identify the best Instagram influencers on inBeat.

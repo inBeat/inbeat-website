@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Ukraine In 2020
+title: Top 10 Music TikTok Influencers In Ukraine In 2021
 description: >-
-  Find top music TikTok influencers in Ukraine in 2020. Most popular hashtags: #music #aesthetic #foryou #love.
+  Find top music TikTok influencers in Ukraine in 2021. Most popular hashtags: #music #aesthetic #foryou #love.
 platform: TikTok
 hits: 25
 text_top: Identify the top-rated TikTok influencers on inBeat.

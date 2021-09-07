@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Australia In 2020
+title: Top 10 Makeup TikTok Influencers In Australia In 2021
 description: >-
-  Find top makeup TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
+  Find top makeup TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
 platform: TikTok
 hits: 374
 text_top: Identify the most popular TikTok profiles on inBeat.

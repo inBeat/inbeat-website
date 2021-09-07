@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Norway In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Norway In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Norway in 2020. Most popular hashtags: #fitness #bodybuilding #girlswholift #workout.
+  Find top bodybuilding Instagram influencers in Norway in 2021. Most popular hashtags: #fitness #bodybuilding #girlswholift #workout.
 platform: Instagram
 hits: 21
 text_top: Discover the best Instagram profiles on inBeat.

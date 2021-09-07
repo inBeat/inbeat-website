@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In San Francisco In 2020
+title: Top 10 Gaming TikTok Influencers In San Francisco In 2021
 description: >-
-  Find top gaming TikTok influencers in San Francisco in 2020. Most popular hashtags: #fyp #gaming #foryou #sanfrancisco.
+  Find top gaming TikTok influencers in San Francisco in 2021. Most popular hashtags: #fyp #gaming #foryou #sanfrancisco.
 platform: TikTok
 hits: 10
 text_top: Analyze the best TikTok influencers on inBeat.

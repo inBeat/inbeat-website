@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Dallas In 2020
+title: Top 10 Comedians Instagram Influencers In Dallas In 2021
 description: >-
-  Find top comedians Instagram influencers in Dallas in 2020. Most popular hashtags: #standupcomedy #comedy #comedian #dallas.
+  Find top comedians Instagram influencers in Dallas in 2021. Most popular hashtags: #standupcomedy #comedy #comedian #dallas.
 platform: Instagram
 hits: 14
 text_top: Discover the most popular Instagram influencers on inBeat.

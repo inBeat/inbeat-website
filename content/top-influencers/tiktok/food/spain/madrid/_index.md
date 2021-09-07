@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Madrid In 2020
+title: Top 10 Food TikTok Influencers In Madrid In 2021
 description: >-
-  Find top food TikTok influencers in Madrid in 2020. Most popular hashtags: #parati #food #foryou #fyp.
+  Find top food TikTok influencers in Madrid in 2021. Most popular hashtags: #parati #food #foryou #fyp.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok profiles on inBeat.

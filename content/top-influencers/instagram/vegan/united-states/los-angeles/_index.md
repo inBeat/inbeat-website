@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Los Angeles In 2020
+title: Top 10 Vegan Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top vegan Instagram influencers in Los Angeles in 2020. Most popular hashtags: #vegan #losangeles #plantbased #veganfood.
+  Find top vegan Instagram influencers in Los Angeles in 2021. Most popular hashtags: #vegan #losangeles #plantbased #veganfood.
 platform: Instagram
 hits: 195
 text_top: Discover the best Instagram profiles on inBeat.

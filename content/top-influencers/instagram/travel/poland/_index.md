@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Poland In 2020
+title: Top 10 Travel Instagram Influencers In Poland In 2021
 description: >-
-  Find top travel Instagram influencers in Poland in 2020. Most popular hashtags: #polskajestpiekna #autumnvibes #podr #poland.
+  Find top travel Instagram influencers in Poland in 2021. Most popular hashtags: #polskajestpiekna #autumnvibes #podr #poland.
 platform: Instagram
 hits: 1253
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Morocco In 2020
+title: Top 10 Instagram Influencers In Morocco In 2021
 description: >-
-  Find top Instagram influencers in Morocco in 2020. Most popular hashtags: #marrakech #simplycovered #morroco.
+  Find top Instagram influencers in Morocco in 2021. Most popular hashtags: #marrakech #simplycovered #morroco.
 platform: Instagram
 hits: 923
 text_top: Identify the most popular Instagram accounts on inBeat.

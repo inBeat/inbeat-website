@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Rio De Janeiro In 2020
+title: Top 10 Models Instagram Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top models Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #summer #021 #model.
+  Find top models Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #summer #021 #model.
 platform: Instagram
 hits: 58
 text_top: See the most popular Instagram influencers on inBeat.

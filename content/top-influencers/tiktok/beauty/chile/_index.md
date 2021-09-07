@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Chile In 2020
+title: Top 10 Beauty TikTok Influencers In Chile In 2021
 description: >-
-  Find top beauty TikTok influencers in Chile in 2020. Most popular hashtags: #chile #parati #fyp #foryou.
+  Find top beauty TikTok influencers in Chile in 2021. Most popular hashtags: #chile #parati #fyp #foryou.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok accounts on inBeat.

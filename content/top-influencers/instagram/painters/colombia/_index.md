@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Colombia In 2020
+title: Top 10 Painters Instagram Influencers In Colombia In 2021
 description: >-
-  Find top painters Instagram influencers in Colombia in 2020. Most popular hashtags: #pazinterior #gratitud #espiritualidad #colombia.
+  Find top painters Instagram influencers in Colombia in 2021. Most popular hashtags: #pazinterior #gratitud #espiritualidad #colombia.
 platform: Instagram
 hits: 32
 text_top: See the most popular Instagram profiles on inBeat.

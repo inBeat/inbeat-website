@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United States In 2020
+title: Top 10 Bodybuilding Instagram Influencers In United States In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in United States in 2020. Most popular hashtags: #bodybuilding #fitness #abs.
+  Find top bodybuilding Instagram influencers in United States in 2021. Most popular hashtags: #bodybuilding #fitness #abs.
 platform: Instagram
 hits: 1576
 text_top: Discover the most popular Instagram profiles on inBeat.

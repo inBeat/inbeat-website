@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Spain In 2020
+title: Top 10 Athletes Instagram Influencers In Spain In 2021
 description: >-
-  Find top athletes Instagram influencers in Spain in 2020. Most popular hashtags: #lifestyle #sport #entrenamiento.
+  Find top athletes Instagram influencers in Spain in 2021. Most popular hashtags: #lifestyle #sport #entrenamiento.
 platform: Instagram
 hits: 197
 text_top: Analyze the most popular Instagram influencers on inBeat.

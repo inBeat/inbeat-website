@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Miami In 2020
+title: Top 10 Stylists Instagram Influencers In Miami In 2021
 description: >-
-  Find top stylists Instagram influencers in Miami in 2020. Most popular hashtags: #love #hiphop #miami #stylist.
+  Find top stylists Instagram influencers in Miami in 2021. Most popular hashtags: #love #hiphop #miami #stylist.
 platform: Instagram
 hits: 134
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In France In 2020
+title: Top 10 Cyclists Instagram Influencers In France In 2021
 description: >-
-  Find top cyclists Instagram influencers in France in 2020. Most popular hashtags: #cycling #cyclinglife #tdf2020.
+  Find top cyclists Instagram influencers in France in 2021. Most popular hashtags: #cycling #cyclinglife #tdf2020.
 platform: Instagram
 hits: 79
 text_top: Discover the top-rated Instagram accounts on inBeat.

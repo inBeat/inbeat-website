@@ -1,7 +1,7 @@
 ---
-title: Top 10 Marathon Instagram Influencers In 2020
+title: Top 10 Marathon Instagram Influencers In 2021
 description: >-
-  Find top marathon Instagram influencers in 2020. Most popular hashtags: #runner #running #runnersofinstagram.
+  Find top marathon Instagram influencers in 2021. Most popular hashtags: #runner #running #runnersofinstagram.
 platform: Instagram
 hits: 1933
 text_top: Analyze the best Instagram profiles on inBeat.

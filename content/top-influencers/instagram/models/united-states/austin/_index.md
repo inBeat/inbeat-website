@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Austin In 2020
+title: Top 10 Models Instagram Influencers In Austin In 2021
 description: >-
-  Find top models Instagram influencers in Austin in 2020. Most popular hashtags: #model #photography #texas.
+  Find top models Instagram influencers in Austin in 2021. Most popular hashtags: #model #photography #texas.
 platform: Instagram
 hits: 144
 text_top: Identify the most popular Instagram accounts on inBeat.

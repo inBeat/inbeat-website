@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Japan In 2020
+title: Top 10 Bakers Instagram Influencers In Japan In 2021
 description: >-
-  Find top bakers Instagram influencers in Japan in 2020. Most popular hashtags: #bread #pr #sourdough #bikersofinstagram.
+  Find top bakers Instagram influencers in Japan in 2021. Most popular hashtags: #bread #pr #sourdough #bikersofinstagram.
 platform: Instagram
 hits: 69
 text_top: See the top-rated Instagram accounts on inBeat.

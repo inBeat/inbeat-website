@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Barcelona In 2020
+title: Top 10 Beauty Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top beauty Instagram influencers in Barcelona in 2020. Most popular hashtags: #beauty #barcelona #spain.
+  Find top beauty Instagram influencers in Barcelona in 2021. Most popular hashtags: #beauty #barcelona #spain.
 platform: Instagram
 hits: 135
 text_top: Discover the best Instagram profiles on inBeat.

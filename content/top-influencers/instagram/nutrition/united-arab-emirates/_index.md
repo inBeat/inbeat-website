@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top nutrition Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubaifitness #healthylifestyle #nutrition.
+  Find top nutrition Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubaifitness #healthylifestyle #nutrition.
 platform: Instagram
 hits: 24
 text_top: Identify the top-rated Instagram profiles on inBeat.

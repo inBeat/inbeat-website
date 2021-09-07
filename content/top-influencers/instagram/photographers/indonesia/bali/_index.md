@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Bali In 2020
+title: Top 10 Photographers Instagram Influencers In Bali In 2021
 description: >-
-  Find top photographers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #baliphotographer #balitrip.
+  Find top photographers Instagram influencers in Bali in 2021. Most popular hashtags: #bali #baliphotographer #balitrip.
 platform: Instagram
 hits: 167
 text_top: Discover the most popular Instagram influencers on inBeat.

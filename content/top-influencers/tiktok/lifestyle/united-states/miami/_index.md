@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Miami In 2020
+title: Top 10 Lifestyle TikTok Influencers In Miami In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #miami #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #miami #foryou #foryoupage.
 platform: TikTok
 hits: 40
 text_top: Analyze the best TikTok accounts on inBeat.

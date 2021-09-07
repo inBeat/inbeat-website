@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Sydney In 2020
+title: Top 10 Instagram Influencers In Sydney In 2021
 description: >-
-  Find top Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #gifted #beachgirl.
+  Find top Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #gifted #beachgirl.
 platform: Instagram
 hits: 1854
 text_top: See the most popular Instagram influencers on inBeat.

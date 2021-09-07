@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Venezuela In 2020
+title: Top 10 Christian TikTok Influencers In Venezuela In 2021
 description: >-
-  Find top christian TikTok influencers in Venezuela in 2020. Most popular hashtags: #fyp #parati #dios.
+  Find top christian TikTok influencers in Venezuela in 2021. Most popular hashtags: #fyp #parati #dios.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok accounts on inBeat.

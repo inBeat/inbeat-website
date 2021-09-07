@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Colombia In 2020
+title: Top 10 Cinema Instagram Influencers In Colombia In 2021
 description: >-
-  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #cine #photography.
+  Find top cinema Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #cine #photography.
 platform: Instagram
 hits: 31
 text_top: Analyze the top-rated Instagram accounts on inBeat.

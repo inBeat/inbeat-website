@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In 2020
+title: Top 10 Crossfit Instagram Influencers In 2021
 description: >-
-  Find top crossfit Instagram influencers in 2020. Most popular hashtags: #crossfit #workout #love.
+  Find top crossfit Instagram influencers in 2021. Most popular hashtags: #crossfit #workout #love.
 platform: Instagram
 hits: 3271
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In South Korea In 2020
+title: Top 10 Painters Instagram Influencers In South Korea In 2021
 description: >-
-  Find top painters Instagram influencers in South Korea in 2020. Most popular hashtags: #art #illustration #drawing.
+  Find top painters Instagram influencers in South Korea in 2021. Most popular hashtags: #art #illustration #drawing.
 platform: Instagram
 hits: 10
 text_top: Analyze the top-rated Instagram accounts on inBeat.

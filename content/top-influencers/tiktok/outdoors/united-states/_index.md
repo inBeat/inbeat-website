@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In United States In 2020
+title: Top 10 Outdoors TikTok Influencers In United States In 2021
 description: >-
-  Find top outdoors TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryoupage #foryou.
+  Find top outdoors TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 1166
 text_top: Analyze the best TikTok influencers on inBeat.

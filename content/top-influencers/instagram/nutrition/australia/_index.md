@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Australia In 2020
+title: Top 10 Nutrition Instagram Influencers In Australia In 2021
 description: >-
-  Find top nutrition Instagram influencers in Australia in 2020. Most popular hashtags: #summer #fitnessmodel #fitness #beach.
+  Find top nutrition Instagram influencers in Australia in 2021. Most popular hashtags: #summer #fitnessmodel #fitness #beach.
 platform: Instagram
 hits: 180
 text_top: Identify the most popular Instagram influencers on inBeat.

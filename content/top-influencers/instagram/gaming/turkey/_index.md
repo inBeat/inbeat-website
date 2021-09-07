@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Turkey In 2020
+title: Top 10 Gaming Instagram Influencers In Turkey In 2021
 description: >-
-  Find top gaming Instagram influencers in Turkey in 2020. Most popular hashtags: #gaming #gamer #game #csgo.
+  Find top gaming Instagram influencers in Turkey in 2021. Most popular hashtags: #gaming #gamer #game #csgo.
 platform: Instagram
 hits: 24
 text_top: Identify the top-rated Instagram profiles on inBeat.

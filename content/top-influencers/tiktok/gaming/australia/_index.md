@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Australia In 2020
+title: Top 10 Gaming TikTok Influencers In Australia In 2021
 description: >-
-  Find top gaming TikTok influencers in Australia in 2020. Most popular hashtags: #gaming #fyp #foryou #foryoupage.
+  Find top gaming TikTok influencers in Australia in 2021. Most popular hashtags: #gaming #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 212
 text_top: Analyze the best TikTok influencers on inBeat.

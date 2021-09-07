@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Morocco In 2020
+title: Top 10 Bloggers Instagram Influencers In Morocco In 2021
 description: >-
-  Find top bloggers Instagram influencers in Morocco in 2020. Most popular hashtags: #outfit #morocco #marrakech #stayathome.
+  Find top bloggers Instagram influencers in Morocco in 2021. Most popular hashtags: #outfit #morocco #marrakech #stayathome.
 platform: Instagram
 hits: 88
 text_top: Analyze the most popular Instagram profiles on inBeat.

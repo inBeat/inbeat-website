@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Norway In 2020
+title: Top 10 Runners Instagram Influencers In Norway In 2021
 description: >-
-  Find top runners Instagram influencers in Norway in 2020. Most popular hashtags: #utno #createdwithadidas #timetoplay #runningmotivation.
+  Find top runners Instagram influencers in Norway in 2021. Most popular hashtags: #utno #createdwithadidas #timetoplay #runningmotivation.
 platform: Instagram
 hits: 27
 text_top: Identify the top-rated Instagram influencers on inBeat.

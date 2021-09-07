@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Singapore In 2020
+title: Top 10 Cooking Instagram Influencers In Singapore In 2021
 description: >-
-  Find top cooking Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore #foodstagram #cooking #dinner.
+  Find top cooking Instagram influencers in Singapore in 2021. Most popular hashtags: #singapore #foodstagram #cooking #dinner.
 platform: Instagram
 hits: 18
 text_top: Analyze the most popular Instagram accounts on inBeat.

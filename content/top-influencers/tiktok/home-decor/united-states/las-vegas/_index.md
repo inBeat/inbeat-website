@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2020
+title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2021
 description: >-
-  Find top home decor TikTok influencers in Las Vegas in 2020. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
+  Find top home decor TikTok influencers in Las Vegas in 2021. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
 platform: TikTok
 hits: 11
 text_top: Discover the top-rated TikTok profiles on inBeat.

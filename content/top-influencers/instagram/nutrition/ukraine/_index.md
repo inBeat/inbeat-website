@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Ukraine In 2020
+title: Top 10 Nutrition Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top nutrition Instagram influencers in Ukraine in 2020. Most popular hashtags: #ukraine #bodybuilding #fitness.
+  Find top nutrition Instagram influencers in Ukraine in 2021. Most popular hashtags: #ukraine #bodybuilding #fitness.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram influencers on inBeat.

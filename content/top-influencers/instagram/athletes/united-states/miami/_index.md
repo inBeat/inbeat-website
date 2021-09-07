@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Miami In 2020
+title: Top 10 Athletes Instagram Influencers In Miami In 2021
 description: >-
-  Find top athletes Instagram influencers in Miami in 2020. Most popular hashtags: #miami #athlete #fitness #workout.
+  Find top athletes Instagram influencers in Miami in 2021. Most popular hashtags: #miami #athlete #fitness #workout.
 platform: Instagram
 hits: 160
 text_top: Analyze the top-rated Instagram profiles on inBeat.

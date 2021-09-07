@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Athletes Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top athletes Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #fitness #dubai #crossfit.
+  Find top athletes Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #fitness #dubai #crossfit.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram profiles on inBeat.

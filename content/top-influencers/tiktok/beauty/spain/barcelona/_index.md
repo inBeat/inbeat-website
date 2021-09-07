@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Barcelona In 2020
+title: Top 10 Beauty TikTok Influencers In Barcelona In 2021
 description: >-
-  Find top beauty TikTok influencers in Barcelona in 2020. Most popular hashtags: #barcelona #fyp #viral #parati.
+  Find top beauty TikTok influencers in Barcelona in 2021. Most popular hashtags: #barcelona #fyp #viral #parati.
 platform: TikTok
 hits: 7
 text_top: See the top-rated TikTok influencers on inBeat.

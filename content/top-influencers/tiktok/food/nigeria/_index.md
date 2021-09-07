@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Nigeria In 2020
+title: Top 10 Food TikTok Influencers In Nigeria In 2021
 description: >-
-  Find top food TikTok influencers in Nigeria in 2020. Most popular hashtags: #viral #fyp #duet #foryou.
+  Find top food TikTok influencers in Nigeria in 2021. Most popular hashtags: #viral #fyp #duet #foryou.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok influencers on inBeat.

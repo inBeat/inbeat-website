@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Poland In 2020
+title: Top 10 Painters Instagram Influencers In Poland In 2021
 description: >-
-  Find top painters Instagram influencers in Poland in 2020. Most popular hashtags: #artlovers #abstractpainting #painting #painter.
+  Find top painters Instagram influencers in Poland in 2021. Most popular hashtags: #artlovers #abstractpainting #painting #painter.
 platform: Instagram
 hits: 192
 text_top: Analyze the best Instagram profiles on inBeat.

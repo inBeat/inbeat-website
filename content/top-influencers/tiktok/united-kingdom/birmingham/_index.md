@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Birmingham In 2020
+title: Top 10 TikTok Influencers In Birmingham In 2021
 description: >-
-  Find top TikTok influencers in Birmingham in 2020. Most popular hashtags: #fyp #foryoupage #duet #foryou.
+  Find top TikTok influencers in Birmingham in 2021. Most popular hashtags: #fyp #foryoupage #duet #foryou.
 platform: TikTok
 hits: 98
 text_top: See the most popular TikTok accounts on inBeat.

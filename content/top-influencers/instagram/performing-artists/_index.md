@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In 2020
+title: Top 10 Performing Artists Instagram Influencers In 2021
 description: >-
-  Find top performing artists Instagram influencers in 2020. Most popular hashtags: #quarantine #photography #love.
+  Find top performing artists Instagram influencers in 2021. Most popular hashtags: #quarantine #photography #love.
 platform: Instagram
 hits: 172
 text_top: Discover the best Instagram influencers on inBeat.

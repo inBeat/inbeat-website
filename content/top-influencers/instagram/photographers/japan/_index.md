@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Japan In 2020
+title: Top 10 Photographers Instagram Influencers In Japan In 2021
 description: >-
-  Find top photographers Instagram influencers in Japan in 2020. Most popular hashtags: #japan #bw #portrait.
+  Find top photographers Instagram influencers in Japan in 2021. Most popular hashtags: #japan #bw #portrait.
 platform: Instagram
 hits: 279
 text_top: Discover the most popular Instagram influencers on inBeat.

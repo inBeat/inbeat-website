@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Venezuela In 2020
+title: Top 10 Health Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top health Instagram influencers in Venezuela in 2020. Most popular hashtags: #healthylifestyle #healthyfood #momlife.
+  Find top health Instagram influencers in Venezuela in 2021. Most popular hashtags: #healthylifestyle #healthyfood #momlife.
 platform: Instagram
 hits: 59
 text_top: Discover the most popular Instagram accounts on inBeat.

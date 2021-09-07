@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Argentina In 2020
+title: Top 10 Nail Artists Instagram Influencers In Argentina In 2021
 description: >-
-  Find top nail artists Instagram influencers in Argentina in 2020. Most popular hashtags: #nails #makeup #halloween #love.
+  Find top nail artists Instagram influencers in Argentina in 2021. Most popular hashtags: #nails #makeup #halloween #love.
 platform: Instagram
 hits: 11
 text_top: Discover the most popular Instagram accounts on inBeat.

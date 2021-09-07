@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Colombia In 2020
+title: Top 10 Music Instagram Influencers In Colombia In 2021
 description: >-
-  Find top music Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #amoryamistad #colombianas.
+  Find top music Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #amoryamistad #colombianas.
 platform: Instagram
 hits: 464
 text_top: See the most popular Instagram accounts on inBeat.

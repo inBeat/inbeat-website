@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Ukraine In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Ukraine in 2020. Most popular hashtags: #bodybuilding #fitness #motivation #sport.
+  Find top bodybuilding Instagram influencers in Ukraine in 2021. Most popular hashtags: #bodybuilding #fitness #motivation #sport.
 platform: Instagram
 hits: 19
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Norway In 2020
+title: Top 10 Instagram Influencers In Norway In 2021
 description: >-
-  Find top Instagram influencers in Norway in 2020. Most popular hashtags: #fashion #style #streetwear.
+  Find top Instagram influencers in Norway in 2021. Most popular hashtags: #fashion #style #streetwear.
 platform: Instagram
 hits: 2229
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Kuwait In 2020
+title: Top 10 Instagram Influencers In Kuwait In 2021
 description: >-
-  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: #artist #illustration #drawing.
+  Find top Instagram influencers in Kuwait in 2021. Most popular hashtags: #artist #illustration #drawing.
 platform: Instagram
 hits: 14
 text_top: Identify the most popular Instagram accounts on inBeat.

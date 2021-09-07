@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Norway In 2020
+title: Top 10 Makeup Instagram Influencers In Norway In 2021
 description: >-
-  Find top makeup Instagram influencers in Norway in 2020. Most popular hashtags: #nyxcosmetics #anastasiabeverlyhills #makeup.
+  Find top makeup Instagram influencers in Norway in 2021. Most popular hashtags: #nyxcosmetics #anastasiabeverlyhills #makeup.
 platform: Instagram
 hits: 65
 text_top: Analyze the top-rated Instagram influencers on inBeat.

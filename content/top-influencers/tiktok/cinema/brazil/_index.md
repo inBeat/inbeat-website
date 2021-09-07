@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Brazil In 2020
+title: Top 10 Cinema TikTok Influencers In Brazil In 2021
 description: >-
-  Find top cinema TikTok influencers in Brazil in 2020. Most popular hashtags: #cinema #foryou #tiktok #brasil.
+  Find top cinema TikTok influencers in Brazil in 2021. Most popular hashtags: #cinema #foryou #tiktok #brasil.
 platform: TikTok
 hits: 51
 text_top: See the top-rated TikTok accounts on inBeat.

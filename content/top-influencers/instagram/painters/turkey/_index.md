@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Turkey In 2020
+title: Top 10 Painters Instagram Influencers In Turkey In 2021
 description: >-
-  Find top painters Instagram influencers in Turkey in 2020. Most popular hashtags: #painting #art #istanbul #drawing.
+  Find top painters Instagram influencers in Turkey in 2021. Most popular hashtags: #painting #art #istanbul #drawing.
 platform: Instagram
 hits: 261
 text_top: Identify the best Instagram profiles on inBeat.

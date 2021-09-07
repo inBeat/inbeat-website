@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Thailand In 2020
+title: Top 10 Chefs Instagram Influencers In Thailand In 2021
 description: >-
-  Find top chefs Instagram influencers in Thailand in 2020. Most popular hashtags: #food #foodstagram #foodporn #chef.
+  Find top chefs Instagram influencers in Thailand in 2021. Most popular hashtags: #food #foodstagram #foodporn #chef.
 platform: Instagram
 hits: 18
 text_top: Analyze the top-rated Instagram accounts on inBeat.

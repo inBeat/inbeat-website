@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Turkey in 2020. Most popular hashtags: #tattooart #tattoo #ink #art.
+  Find top tattoo-artists Instagram influencers in Turkey in 2021. Most popular hashtags: #tattooart #tattoo #ink #art.
 platform: Instagram
 hits: 37
 text_top: Identify the best Instagram accounts on inBeat.

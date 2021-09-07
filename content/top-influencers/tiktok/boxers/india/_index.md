@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In India In 2020
+title: Top 10 Boxers TikTok Influencers In India In 2021
 description: >-
-  Find top boxers TikTok influencers in India in 2020. Most popular hashtags: #duet #tiktokindia #viral #sharethecare.
+  Find top boxers TikTok influencers in India in 2021. Most popular hashtags: #duet #tiktokindia #viral #sharethecare.
 platform: TikTok
 hits: 25
 text_top: See the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In 2020
+title: Top 10 Gymnasts Instagram Influencers In 2021
 description: >-
-  Find top gymnasts Instagram influencers in 2020. Most popular hashtags: #gym #instagood #outfitoftheday.
+  Find top gymnasts Instagram influencers in 2021. Most popular hashtags: #gym #instagood #outfitoftheday.
 platform: Instagram
 hits: 2489
 text_top: Discover the top-rated Instagram accounts on inBeat.

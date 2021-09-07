@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Venezuela In 2020
+title: Top 10 Beauty Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top beauty Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeup #makeupartist #beauty #halloween.
+  Find top beauty Instagram influencers in Venezuela in 2021. Most popular hashtags: #makeup #makeupartist #beauty #halloween.
 platform: Instagram
 hits: 113
 text_top: Discover the most popular Instagram profiles on inBeat.

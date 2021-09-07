@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Poland In 2020
+title: Top 10 Chefs Instagram Influencers In Poland In 2021
 description: >-
-  Find top chefs Instagram influencers in Poland in 2020. Most popular hashtags: #food #foodporn #chef #foodie.
+  Find top chefs Instagram influencers in Poland in 2021. Most popular hashtags: #food #foodporn #chef #foodie.
 platform: Instagram
 hits: 40
 text_top: Discover the best Instagram profiles on inBeat.

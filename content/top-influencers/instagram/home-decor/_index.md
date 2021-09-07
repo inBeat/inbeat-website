@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In 2020
+title: Top 10 Home Decor Instagram Influencers In 2021
 description: >-
-  Find top home decor Instagram influencers in 2020. Most popular hashtags: #ootd #decor #ad.
+  Find top home decor Instagram influencers in 2021. Most popular hashtags: #ootd #decor #ad.
 platform: Instagram
 hits: 8080
 text_top: Analyze the best Instagram influencers on inBeat.

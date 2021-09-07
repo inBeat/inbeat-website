@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Canada In 2020
+title: Top 10 Crossfit TikTok Influencers In Canada In 2021
 description: >-
-  Find top crossfit TikTok influencers in Canada in 2020. Most popular hashtags: #crossfit #foryou #fitness #fyp.
+  Find top crossfit TikTok influencers in Canada in 2021. Most popular hashtags: #crossfit #foryou #fitness #fyp.
 platform: TikTok
 hits: 12
 text_top: See the most popular TikTok influencers on inBeat.

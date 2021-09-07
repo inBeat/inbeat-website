@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skiing TikTok Influencers In 2020
+title: Top 10 Skiing TikTok Influencers In 2021
 description: >-
-  Find top skiing TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #ski #skiing.
+  Find top skiing TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #ski #skiing.
 platform: TikTok
 hits: 38
 text_top: Discover the top-rated TikTok accounts on inBeat.

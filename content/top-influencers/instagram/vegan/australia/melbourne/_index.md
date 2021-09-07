@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Melbourne In 2020
+title: Top 10 Vegan Instagram Influencers In Melbourne In 2021
 description: >-
-  Find top vegan Instagram influencers in Melbourne in 2020. Most popular hashtags: #vegan #melbournefoodie #melbournefoodblogger #melbournefood.
+  Find top vegan Instagram influencers in Melbourne in 2021. Most popular hashtags: #vegan #melbournefoodie #melbournefoodblogger #melbournefood.
 platform: Instagram
 hits: 47
 text_top: Analyze the most popular Instagram accounts on inBeat.

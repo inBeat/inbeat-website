@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In 2020
+title: Top 10 Music Instagram Influencers In 2021
 description: >-
-  Find top music Instagram influencers in 2020. Most popular hashtags: #music #russia #lebanese.
+  Find top music Instagram influencers in 2021. Most popular hashtags: #music #russia #lebanese.
 platform: Instagram
 hits: 41446
 text_top: Identify the top-rated Instagram influencers on inBeat.

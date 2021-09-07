@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Colombia In 2020
+title: Top 10 Guitar TikTok Influencers In Colombia In 2021
 description: >-
-  Find top guitar TikTok influencers in Colombia in 2020. Most popular hashtags: #fyp #colombia #cuarentena #foryou.
+  Find top guitar TikTok influencers in Colombia in 2021. Most popular hashtags: #fyp #colombia #cuarentena #foryou.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok accounts on inBeat.

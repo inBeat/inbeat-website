@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In United Kingdom In 2020
+title: Top 10 Makeup Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top makeup Instagram influencers in United Kingdom in 2020. Most popular hashtags: #makeupartist #morphebabe #morphe.
+  Find top makeup Instagram influencers in United Kingdom in 2021. Most popular hashtags: #makeupartist #morphebabe #morphe.
 platform: Instagram
 hits: 2342
 text_top: See the most popular Instagram influencers on inBeat.

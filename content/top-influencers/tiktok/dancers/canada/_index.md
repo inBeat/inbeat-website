@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Canada In 2020
+title: Top 10 Dancers TikTok Influencers In Canada In 2021
 description: >-
-  Find top dancers TikTok influencers in Canada in 2020. Most popular hashtags: #dance #fyp #foryou #duet.
+  Find top dancers TikTok influencers in Canada in 2021. Most popular hashtags: #dance #fyp #foryou #duet.
 platform: TikTok
 hits: 174
 text_top: See the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In New York In 2020
+title: Top 10 Lifestyle TikTok Influencers In New York In 2021
 description: >-
-  Find top lifestyle TikTok influencers in New York in 2020. Most popular hashtags: #fyp #newyork #foryou #lifestyle.
+  Find top lifestyle TikTok influencers in New York in 2021. Most popular hashtags: #fyp #newyork #foryou #lifestyle.
 platform: TikTok
 hits: 39
 text_top: Analyze the best TikTok accounts on inBeat.

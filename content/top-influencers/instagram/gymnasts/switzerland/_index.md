@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2020
+title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top gymnasts Instagram influencers in Switzerland in 2020. Most popular hashtags: #gymnastics #handstand #balance #switzerland.
+  Find top gymnasts Instagram influencers in Switzerland in 2021. Most popular hashtags: #gymnastics #handstand #balance #switzerland.
 platform: Instagram
 hits: 20
 text_top: Identify the most popular Instagram influencers on inBeat.

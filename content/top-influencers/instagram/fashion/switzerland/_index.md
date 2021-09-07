@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Switzerland In 2020
+title: Top 10 Fashion Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top fashion Instagram influencers in Switzerland in 2020. Most popular hashtags: #fashion #switzerland #landscape.
+  Find top fashion Instagram influencers in Switzerland in 2021. Most popular hashtags: #fashion #switzerland #landscape.
 platform: Instagram
 hits: 298
 text_top: Analyze the best Instagram accounts on inBeat.

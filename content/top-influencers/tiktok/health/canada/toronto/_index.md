@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Toronto In 2020
+title: Top 10 Health TikTok Influencers In Toronto In 2021
 description: >-
-  Find top health TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #toronto #foryoupage #canada.
+  Find top health TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #toronto #foryoupage #canada.
 platform: TikTok
 hits: 25
 text_top: Identify the most popular TikTok profiles on inBeat.

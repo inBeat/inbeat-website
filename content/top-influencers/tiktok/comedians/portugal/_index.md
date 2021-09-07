@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Portugal In 2020
+title: Top 10 Comedians TikTok Influencers In Portugal In 2021
 description: >-
-  Find top comedians TikTok influencers in Portugal in 2020. Most popular hashtags: #comedia #fyp #foryou #fy.
+  Find top comedians TikTok influencers in Portugal in 2021. Most popular hashtags: #comedia #fyp #foryou #fy.
 platform: TikTok
 hits: 74
 text_top: Identify the most popular TikTok accounts on inBeat.

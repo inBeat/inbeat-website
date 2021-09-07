@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Spain In 2020
+title: Top 10 Fashion Instagram Influencers In Spain In 2021
 description: >-
-  Find top fashion Instagram influencers in Spain in 2020. Most popular hashtags: #sorteo #lookoftheday #halloween #photography.
+  Find top fashion Instagram influencers in Spain in 2021. Most popular hashtags: #sorteo #lookoftheday #halloween #photography.
 platform: Instagram
 hits: 1413
 text_top: Discover the most popular Instagram profiles on inBeat.

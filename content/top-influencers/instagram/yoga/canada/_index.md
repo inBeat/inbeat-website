@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Canada In 2020
+title: Top 10 Yoga Instagram Influencers In Canada In 2021
 description: >-
-  Find top yoga Instagram influencers in Canada in 2020. Most popular hashtags: #hikingadventures #beautifuldestinations #yoga.
+  Find top yoga Instagram influencers in Canada in 2021. Most popular hashtags: #hikingadventures #beautifuldestinations #yoga.
 platform: Instagram
 hits: 211
 text_top: Analyze the best Instagram accounts on inBeat.

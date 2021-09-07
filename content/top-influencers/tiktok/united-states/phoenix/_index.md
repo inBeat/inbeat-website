@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Phoenix In 2020
+title: Top 10 TikTok Influencers In Phoenix In 2021
 description: >-
-  Find top TikTok influencers in Phoenix in 2020. Most popular hashtags: #foryou #fyp #foryoupage #duet.
+  Find top TikTok influencers in Phoenix in 2021. Most popular hashtags: #foryou #fyp #foryoupage #duet.
 platform: TikTok
 hits: 321
 text_top: Identify the top-rated TikTok profiles on inBeat.

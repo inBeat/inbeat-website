@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Dallas In 2020
+title: Top 10 Makeup TikTok Influencers In Dallas In 2021
 description: >-
-  Find top makeup TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #makeup #dallas #foryoupage.
+  Find top makeup TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #makeup #dallas #foryoupage.
 platform: TikTok
 hits: 56
 text_top: Discover the best TikTok profiles on inBeat.

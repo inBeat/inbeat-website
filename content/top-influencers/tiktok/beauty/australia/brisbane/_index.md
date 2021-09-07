@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brisbane In 2020
+title: Top 10 Beauty TikTok Influencers In Brisbane In 2021
 description: >-
-  Find top beauty TikTok influencers in Brisbane in 2020. Most popular hashtags: #foryou #beauty #duet #funny.
+  Find top beauty TikTok influencers in Brisbane in 2021. Most popular hashtags: #foryou #beauty #duet #funny.
 platform: TikTok
 hits: 5
 text_top: Identify the best TikTok accounts on inBeat.

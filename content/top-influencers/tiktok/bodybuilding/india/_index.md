@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In India In 2020
+title: Top 10 Bodybuilding TikTok Influencers In India In 2021
 description: >-
-  Find top bodybuilding TikTok influencers in India in 2020. Most popular hashtags: #foryou #bodybuilding #tiktok #fitness.
+  Find top bodybuilding TikTok influencers in India in 2021. Most popular hashtags: #foryou #bodybuilding #tiktok #fitness.
 platform: TikTok
 hits: 169
 text_top: Discover the top-rated TikTok accounts on inBeat.

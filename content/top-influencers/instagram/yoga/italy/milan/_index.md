@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Milan In 2020
+title: Top 10 Yoga Instagram Influencers In Milan In 2021
 description: >-
-  Find top yoga Instagram influencers in Milan in 2020. Most popular hashtags: #yogamilano #yogaitalia #yoga #yogainspiration.
+  Find top yoga Instagram influencers in Milan in 2021. Most popular hashtags: #yogamilano #yogaitalia #yoga #yogainspiration.
 platform: Instagram
 hits: 44
 text_top: Discover the most popular Instagram accounts on inBeat.

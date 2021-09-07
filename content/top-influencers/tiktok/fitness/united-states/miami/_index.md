@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Miami In 2020
+title: Top 10 Fitness TikTok Influencers In Miami In 2021
 description: >-
-  Find top fitness TikTok influencers in Miami in 2020. Most popular hashtags: #miami #fitness #fyp #foryou.
+  Find top fitness TikTok influencers in Miami in 2021. Most popular hashtags: #miami #fitness #fyp #foryou.
 platform: TikTok
 hits: 85
 text_top: Analyze the best TikTok profiles on inBeat.

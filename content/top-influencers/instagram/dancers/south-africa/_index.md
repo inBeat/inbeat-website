@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In South Africa In 2020
+title: Top 10 Dancers Instagram Influencers In South Africa In 2021
 description: >-
-  Find top dancers Instagram influencers in South Africa in 2020. Most popular hashtags: #dancer #dance #capetown #dancers.
+  Find top dancers Instagram influencers in South Africa in 2021. Most popular hashtags: #dancer #dance #capetown #dancers.
 platform: Instagram
 hits: 26
 text_top: See the top-rated Instagram accounts on inBeat.

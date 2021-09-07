@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #beauty #makeup #saopaulo #model.
+  Find top beauty Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #beauty #makeup #saopaulo #model.
 platform: Instagram
 hits: 206
 text_top: Identify the best Instagram influencers on inBeat.

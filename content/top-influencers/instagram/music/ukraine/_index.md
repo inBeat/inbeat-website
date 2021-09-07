@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Ukraine In 2020
+title: Top 10 Music Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top music Instagram influencers in Ukraine in 2020. Most popular hashtags: #beautiful #beauty #ukraine.
+  Find top music Instagram influencers in Ukraine in 2021. Most popular hashtags: #beautiful #beauty #ukraine.
 platform: Instagram
 hits: 171
 text_top: See the most popular Instagram profiles on inBeat.

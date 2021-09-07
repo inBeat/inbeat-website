@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Austin In 2020
+title: Top 10 Rappers Instagram Influencers In Austin In 2021
 description: >-
-  Find top rappers Instagram influencers in Austin in 2020. Most popular hashtags: #rapper #hiphop #music #newmusic.
+  Find top rappers Instagram influencers in Austin in 2021. Most popular hashtags: #rapper #hiphop #music #newmusic.
 platform: Instagram
 hits: 38
 text_top: Analyze the top-rated Instagram profiles on inBeat.

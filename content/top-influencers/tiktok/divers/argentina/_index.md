@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Argentina In 2020
+title: Top 10 Divers TikTok Influencers In Argentina In 2021
 description: >-
-  Find top divers TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #diversion #fyp #comedia.
+  Find top divers TikTok influencers in Argentina in 2021. Most popular hashtags: #parati #diversion #fyp #comedia.
 platform: TikTok
 hits: 57
 text_top: Analyze the top-rated TikTok profiles on inBeat.

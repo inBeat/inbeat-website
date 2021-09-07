@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2020
+title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2021
 description: >-
-  Find top hair dressers Instagram influencers in Brazil in 2020. Most popular hashtags: #hair #dress #makeup #summer.
+  Find top hair dressers Instagram influencers in Brazil in 2021. Most popular hashtags: #hair #dress #makeup #summer.
 platform: Instagram
 hits: 11
 text_top: Identify the top-rated Instagram accounts on inBeat.

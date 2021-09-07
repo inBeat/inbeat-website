@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Berlin In 2020
+title: Top 10 TikTok Influencers In Berlin In 2021
 description: >-
-  Find top TikTok influencers in Berlin in 2020. Most popular hashtags: #foryou #fyp #berlin.
+  Find top TikTok influencers in Berlin in 2021. Most popular hashtags: #foryou #fyp #berlin.
 platform: TikTok
 hits: 391
 text_top: Identify the best TikTok profiles on inBeat.

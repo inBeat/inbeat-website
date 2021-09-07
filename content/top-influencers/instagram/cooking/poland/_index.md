@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Poland In 2020
+title: Top 10 Cooking Instagram Influencers In Poland In 2021
 description: >-
-  Find top cooking Instagram influencers in Poland in 2020. Most popular hashtags: #style #fashion #me #smile.
+  Find top cooking Instagram influencers in Poland in 2021. Most popular hashtags: #style #fashion #me #smile.
 platform: Instagram
 hits: 302
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Argentina In 2020
+title: Top 10 Stylists Instagram Influencers In Argentina In 2021
 description: >-
-  Find top stylists Instagram influencers in Argentina in 2020. Most popular hashtags: #style #makeup #look.
+  Find top stylists Instagram influencers in Argentina in 2021. Most popular hashtags: #style #makeup #look.
 platform: Instagram
 hits: 42
 text_top: See the best Instagram influencers on inBeat.

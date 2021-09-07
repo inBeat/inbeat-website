@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Dancers TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top dancers TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #foryoupage #foryou #tiktok #fyp.
+  Find top dancers TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #foryoupage #foryou #tiktok #fyp.
 platform: TikTok
 hits: 25
 text_top: Identify the best TikTok accounts on inBeat.

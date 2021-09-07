@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Francisco In 2020
+title: Top 10 Vegan TikTok Influencers In San Francisco In 2021
 description: >-
-  Find top vegan TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #fyp #california #vegan.
+  Find top vegan TikTok influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #fyp #california #vegan.
 platform: TikTok
 hits: 10
 text_top: Discover the top-rated TikTok profiles on inBeat.

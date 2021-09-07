@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Germany In 2020
+title: Top 10 Tattoo-Artists TikTok Influencers In Germany In 2021
 description: >-
-  Find top tattoo-artists TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #foryou #tattoo #fy.
+  Find top tattoo-artists TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #foryou #tattoo #fy.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok influencers on inBeat.

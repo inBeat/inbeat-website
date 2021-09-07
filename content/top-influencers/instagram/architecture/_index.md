@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In 2020
+title: Top 10 Architecture Instagram Influencers In 2021
 description: >-
-  Find top architecture Instagram influencers in 2020. Most popular hashtags: #doglover #sketch #instagood.
+  Find top architecture Instagram influencers in 2021. Most popular hashtags: #doglover #sketch #instagood.
 platform: Instagram
 hits: 8841
 text_top: Discover the best Instagram profiles on inBeat.

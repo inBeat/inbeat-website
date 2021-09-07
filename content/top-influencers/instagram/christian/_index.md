@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In 2020
+title: Top 10 Christian Instagram Influencers In 2021
 description: >-
-  Find top christian Instagram influencers in 2020. Most popular hashtags: #carsofinstagram #photography #tbt.
+  Find top christian Instagram influencers in 2021. Most popular hashtags: #carsofinstagram #photography #tbt.
 platform: Instagram
 hits: 8143
 text_top: Identify the most popular Instagram profiles on inBeat.

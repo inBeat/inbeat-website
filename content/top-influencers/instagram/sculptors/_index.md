@@ -1,7 +1,7 @@
 ---
-title: Top 10 Sculptors Instagram Influencers In 2020
+title: Top 10 Sculptors Instagram Influencers In 2021
 description: >-
-  Find top sculptors Instagram influencers in 2020. Most popular hashtags: #sculpture #art #instagram #artist.
+  Find top sculptors Instagram influencers in 2021. Most popular hashtags: #sculpture #art #instagram #artist.
 platform: Instagram
 hits: 2805
 text_top: Identify the top-rated Instagram profiles on inBeat.

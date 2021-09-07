@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Australia In 2020
+title: Top 10 Fitness TikTok Influencers In Australia In 2021
 description: >-
-  Find top fitness TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top fitness TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 172
 text_top: Identify the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In United States In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In United States In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in United States in 2020. Most popular hashtags: #blackwork #tattoos #girlswithtattoos.
+  Find top tattoo-artists Instagram influencers in United States in 2021. Most popular hashtags: #blackwork #tattoos #girlswithtattoos.
 platform: Instagram
 hits: 1246
 text_top: Identify the best Instagram profiles on inBeat.

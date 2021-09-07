@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Finland In 2020
+title: Top 10 Home Decor Instagram Influencers In Finland In 2021
 description: >-
-  Find top home decor Instagram influencers in Finland in 2020. Most popular hashtags: #homedecor #olohuone #livingroom #scandinavianhome.
+  Find top home decor Instagram influencers in Finland in 2021. Most popular hashtags: #homedecor #olohuone #livingroom #scandinavianhome.
 platform: Instagram
 hits: 48
 text_top: Identify the top-rated Instagram accounts on inBeat.

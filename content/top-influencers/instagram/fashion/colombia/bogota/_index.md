@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bogotá In 2020
+title: Top 10 Fashion Instagram Influencers In Bogotá In 2021
 description: >-
-  Find top fashion Instagram influencers in Bogotá in 2020. Most popular hashtags: #colombia #fashion #bogota #moda.
+  Find top fashion Instagram influencers in Bogotá in 2021. Most popular hashtags: #colombia #fashion #bogota #moda.
 platform: Instagram
 hits: 72
 text_top: See the best Instagram profiles on inBeat.

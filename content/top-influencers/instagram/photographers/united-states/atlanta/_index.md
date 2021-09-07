@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Atlanta In 2020
+title: Top 10 Photographers Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top photographers Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #photographer #atlantaphotographer.
+  Find top photographers Instagram influencers in Atlanta in 2021. Most popular hashtags: #atlanta #photographer #atlantaphotographer.
 platform: Instagram
 hits: 220
 text_top: Analyze the best Instagram influencers on inBeat.

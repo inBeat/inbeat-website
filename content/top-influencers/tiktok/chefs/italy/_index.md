@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Italy In 2020
+title: Top 10 Chefs TikTok Influencers In Italy In 2021
 description: >-
-  Find top chefs TikTok influencers in Italy in 2020. Most popular hashtags: #imparacontiktok #food #ricettafacile #italy.
+  Find top chefs TikTok influencers in Italy in 2021. Most popular hashtags: #imparacontiktok #food #ricettafacile #italy.
 platform: TikTok
 hits: 38
 text_top: Discover the best TikTok accounts on inBeat.

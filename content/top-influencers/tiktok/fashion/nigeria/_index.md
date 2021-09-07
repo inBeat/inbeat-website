@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Nigeria In 2020
+title: Top 10 Fashion TikTok Influencers In Nigeria In 2021
 description: >-
-  Find top fashion TikTok influencers in Nigeria in 2020. Most popular hashtags: #fyp #viral #foryou #foryoupage.
+  Find top fashion TikTok influencers in Nigeria in 2021. Most popular hashtags: #fyp #viral #foryou #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Analyze the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Dallas In 2020
+title: Top 10 Yoga TikTok Influencers In Dallas In 2021
 description: >-
-  Find top yoga TikTok influencers in Dallas in 2020. Most popular hashtags: #yoga #fyp #duet #love.
+  Find top yoga TikTok influencers in Dallas in 2021. Most popular hashtags: #yoga #fyp #duet #love.
 platform: TikTok
 hits: 4
 text_top: Analyze the top-rated TikTok accounts on inBeat.

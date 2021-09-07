@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Norway In 2020
+title: Top 10 Illustrators Instagram Influencers In Norway In 2021
 description: >-
-  Find top illustrators Instagram influencers in Norway in 2020. Most popular hashtags: #art #artwork #illustration.
+  Find top illustrators Instagram influencers in Norway in 2021. Most popular hashtags: #art #artwork #illustration.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram accounts on inBeat.

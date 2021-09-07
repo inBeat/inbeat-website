@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Finland In 2020
+title: Top 10 Health Instagram Influencers In Finland In 2021
 description: >-
-  Find top health Instagram influencers in Finland in 2020. Most popular hashtags: #ootd #helsinki #weekendvibes #monday.
+  Find top health Instagram influencers in Finland in 2021. Most popular hashtags: #ootd #helsinki #weekendvibes #monday.
 platform: Instagram
 hits: 56
 text_top: See the most popular Instagram accounts on inBeat.

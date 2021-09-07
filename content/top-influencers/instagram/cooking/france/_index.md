@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In France In 2020
+title: Top 10 Cooking Instagram Influencers In France In 2021
 description: >-
-  Find top cooking Instagram influencers in France in 2020. Most popular hashtags: #paris #france #outfitoftheday #lookdujour.
+  Find top cooking Instagram influencers in France in 2021. Most popular hashtags: #paris #france #outfitoftheday #lookdujour.
 platform: Instagram
 hits: 847
 text_top: Analyze the most popular Instagram profiles on inBeat.

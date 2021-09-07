@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Milan In 2020
+title: Top 10 Makeup TikTok Influencers In Milan In 2021
 description: >-
-  Find top makeup TikTok influencers in Milan in 2020. Most popular hashtags: #perte #fyp #foryou #makeup.
+  Find top makeup TikTok influencers in Milan in 2021. Most popular hashtags: #perte #fyp #foryou #makeup.
 platform: TikTok
 hits: 19
 text_top: Analyze the most popular TikTok influencers on inBeat.

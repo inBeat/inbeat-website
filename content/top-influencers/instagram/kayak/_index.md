@@ -1,7 +1,7 @@
 ---
-title: Top 10 Kayak Instagram Influencers In 2020
+title: Top 10 Kayak Instagram Influencers In 2021
 description: >-
-  Find top kayak Instagram influencers in 2020. Most popular hashtags: #hiking #trailrunning #runner #running.
+  Find top kayak Instagram influencers in 2021. Most popular hashtags: #hiking #trailrunning #runner #running.
 platform: Instagram
 hits: 1077
 text_top: Analyze the top-rated Instagram influencers on inBeat.

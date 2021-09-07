@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In South Africa In 2020
+title: Top 10 Vegan Instagram Influencers In South Africa In 2021
 description: >-
-  Find top vegan Instagram influencers in South Africa in 2020. Most popular hashtags: #vegan #ad #plantbased #pancakes.
+  Find top vegan Instagram influencers in South Africa in 2021. Most popular hashtags: #vegan #ad #plantbased #pancakes.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram influencers on inBeat.

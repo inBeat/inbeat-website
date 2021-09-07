@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Milan In 2020
+title: Top 10 Fashion TikTok Influencers In Milan In 2021
 description: >-
-  Find top fashion TikTok influencers in Milan in 2020. Most popular hashtags: #perte #fashion #milano #foryou.
+  Find top fashion TikTok influencers in Milan in 2021. Most popular hashtags: #perte #fashion #milano #foryou.
 platform: TikTok
 hits: 25
 text_top: Analyze the top-rated TikTok profiles on inBeat.

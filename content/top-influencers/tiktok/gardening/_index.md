@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In 2020
+title: Top 10 Gardening TikTok Influencers In 2021
 description: >-
-  Find top gardening TikTok influencers in 2020. Most popular hashtags: #fyp #gardening #plants #garden.
+  Find top gardening TikTok influencers in 2021. Most popular hashtags: #fyp #gardening #plants #garden.
 platform: TikTok
 hits: 1028
 text_top: See the best TikTok influencers on inBeat.

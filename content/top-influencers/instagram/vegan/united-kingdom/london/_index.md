@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In London In 2020
+title: Top 10 Vegan Instagram Influencers In London In 2021
 description: >-
-  Find top vegan Instagram influencers in London in 2020. Most popular hashtags: #veganlondon #vegan #veganuk #veganfood.
+  Find top vegan Instagram influencers in London in 2021. Most popular hashtags: #veganlondon #vegan #veganuk #veganfood.
 platform: Instagram
 hits: 216
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Cooking TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top cooking TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #cooking #fyp #foryou #viral.
+  Find top cooking TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #cooking #fyp #foryou #viral.
 platform: TikTok
 hits: 23
 text_top: Identify the top-rated TikTok profiles on inBeat.

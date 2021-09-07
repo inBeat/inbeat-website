@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Thailand In 2020
+title: Top 10 Makeup Instagram Influencers In Thailand In 2021
 description: >-
-  Find top makeup Instagram influencers in Thailand in 2020. Most popular hashtags: #makeup #love #beautiful #fashion.
+  Find top makeup Instagram influencers in Thailand in 2021. Most popular hashtags: #makeup #love #beautiful #fashion.
 platform: Instagram
 hits: 116
 text_top: Discover the most popular Instagram accounts on inBeat.

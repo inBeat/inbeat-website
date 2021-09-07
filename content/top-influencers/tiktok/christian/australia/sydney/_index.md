@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Sydney In 2020
+title: Top 10 Christian TikTok Influencers In Sydney In 2021
 description: >-
-  Find top christian TikTok influencers in Sydney in 2020. Most popular hashtags: #fyp #christian #australia #duet.
+  Find top christian TikTok influencers in Sydney in 2021. Most popular hashtags: #fyp #christian #australia #duet.
 platform: TikTok
 hits: 5
 text_top: Discover the most popular TikTok profiles on inBeat.

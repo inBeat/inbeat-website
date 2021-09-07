@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Nigeria In 2020
+title: Top 10 Outdoors Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top outdoors Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #beauty #photography #portrait.
+  Find top outdoors Instagram influencers in Nigeria in 2021. Most popular hashtags: #explorepage #beauty #photography #portrait.
 platform: Instagram
 hits: 15
 text_top: Identify the most popular Instagram influencers on inBeat.

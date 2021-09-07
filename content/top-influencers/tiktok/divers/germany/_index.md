@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Germany In 2020
+title: Top 10 Divers TikTok Influencers In Germany In 2021
 description: >-
-  Find top divers TikTok influencers in Germany in 2020. Most popular hashtags: #foryou #fyp #viral #fy.
+  Find top divers TikTok influencers in Germany in 2021. Most popular hashtags: #foryou #fyp #viral #fy.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok accounts on inBeat.

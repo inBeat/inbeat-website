@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Argentina In 2020
+title: Top 10 Chefs Instagram Influencers In Argentina In 2021
 description: >-
-  Find top chefs Instagram influencers in Argentina in 2020. Most popular hashtags: #tarta #chocolate #love.
+  Find top chefs Instagram influencers in Argentina in 2021. Most popular hashtags: #tarta #chocolate #love.
 platform: Instagram
 hits: 75
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Norway In 2020
+title: Top 10 Photographers Instagram Influencers In Norway In 2021
 description: >-
-  Find top photographers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nature #ig #earth.
+  Find top photographers Instagram influencers in Norway in 2021. Most popular hashtags: #norway #nature #ig #earth.
 platform: Instagram
 hits: 119
 text_top: Analyze the top-rated Instagram profiles on inBeat.

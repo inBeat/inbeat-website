@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Finland In 2020
+title: Top 10 Bloggers Instagram Influencers In Finland In 2021
 description: >-
-  Find top bloggers Instagram influencers in Finland in 2020. Most popular hashtags: #ootd #minime #bubbleroomstyle.
+  Find top bloggers Instagram influencers in Finland in 2021. Most popular hashtags: #ootd #minime #bubbleroomstyle.
 platform: Instagram
 hits: 33
 text_top: Discover the best Instagram accounts on inBeat.

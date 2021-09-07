@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Germany In 2020
+title: Top 10 Cosmetics Instagram Influencers In Germany In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Germany in 2020. Most popular hashtags: #blogger #streetstyle #werbung #autumnvibes.
+  Find top cosmetics Instagram influencers in Germany in 2021. Most popular hashtags: #blogger #streetstyle #werbung #autumnvibes.
 platform: Instagram
 hits: 502
 text_top: Discover the most popular Instagram accounts on inBeat.

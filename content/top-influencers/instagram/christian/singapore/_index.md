@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Singapore In 2020
+title: Top 10 Christian Instagram Influencers In Singapore In 2021
 description: >-
-  Find top christian Instagram influencers in Singapore in 2020. Most popular hashtags: #stayhome #sgunited #jordintanfc.
+  Find top christian Instagram influencers in Singapore in 2021. Most popular hashtags: #stayhome #sgunited #jordintanfc.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram influencers on inBeat.

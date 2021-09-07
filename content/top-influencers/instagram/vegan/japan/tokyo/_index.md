@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Tokyo In 2020
+title: Top 10 Vegan Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top vegan Instagram influencers in Tokyo in 2020. Most popular hashtags: #vegan #tokyo #pr #stayhome.
+  Find top vegan Instagram influencers in Tokyo in 2021. Most popular hashtags: #vegan #tokyo #pr #stayhome.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram accounts on inBeat.

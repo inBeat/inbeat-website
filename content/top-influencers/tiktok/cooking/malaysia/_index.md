@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Malaysia In 2020
+title: Top 10 Cooking TikTok Influencers In Malaysia In 2021
 description: >-
-  Find top cooking TikTok influencers in Malaysia in 2020. Most popular hashtags: #stayathome #tiktokmalaysia #fyp #foryoupage.
+  Find top cooking TikTok influencers in Malaysia in 2021. Most popular hashtags: #stayathome #tiktokmalaysia #fyp #foryoupage.
 platform: TikTok
 hits: 9
 text_top: Discover the top-rated TikTok influencers on inBeat.

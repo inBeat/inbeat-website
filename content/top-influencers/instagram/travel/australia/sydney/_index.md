@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Sydney In 2020
+title: Top 10 Travel Instagram Influencers In Sydney In 2021
 description: >-
-  Find top travel Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #travelsydney #australia #travel.
+  Find top travel Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #travelsydney #australia #travel.
 platform: Instagram
 hits: 263
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In India In 2020
+title: Top 10 Home Decor TikTok Influencers In India In 2021
 description: >-
-  Find top home decor TikTok influencers in India in 2020. Most popular hashtags: #homedecor #foryoupage #foryou #love.
+  Find top home decor TikTok influencers in India in 2021. Most popular hashtags: #homedecor #foryoupage #foryou #love.
 platform: TikTok
 hits: 21
 text_top: Discover the most popular TikTok influencers on inBeat.

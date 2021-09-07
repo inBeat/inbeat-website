@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Russia In 2020
+title: Top 10 Cinema TikTok Influencers In Russia In 2021
 description: >-
-  Find top cinema TikTok influencers in Russia in 2020. Most popular hashtags: #cinema #cinema4d #animals.
+  Find top cinema TikTok influencers in Russia in 2021. Most popular hashtags: #cinema #cinema4d #animals.
 platform: TikTok
 hits: 12
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Canada In 2020
+title: Top 10 Fitness Instagram Influencers In Canada In 2021
 description: >-
-  Find top fitness Instagram influencers in Canada in 2020. Most popular hashtags: #gayfit #fitness #happy.
+  Find top fitness Instagram influencers in Canada in 2021. Most popular hashtags: #gayfit #fitness #happy.
 platform: Instagram
 hits: 664
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Jakarta In 2020
+title: Top 10 Nutrition Instagram Influencers In Jakarta In 2021
 description: >-
-  Find top nutrition Instagram influencers in Jakarta in 2020. Most popular hashtags: #jakarta #bandung #herbalife #herbalifeindonesia.
+  Find top nutrition Instagram influencers in Jakarta in 2021. Most popular hashtags: #jakarta #bandung #herbalife #herbalifeindonesia.
 platform: Instagram
 hits: 38
 text_top: Identify the most popular Instagram accounts on inBeat.

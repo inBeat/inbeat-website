@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Toronto In 2020
+title: Top 10 Comedians Instagram Influencers In Toronto In 2021
 description: >-
-  Find top comedians Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #canada #comedy #funny.
+  Find top comedians Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #canada #comedy #funny.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram accounts on inBeat.

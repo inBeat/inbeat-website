@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Venezuela In 2020
+title: Top 10 Runners Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top runners Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #model #runner.
+  Find top runners Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #model #runner.
 platform: Instagram
 hits: 12
 text_top: Identify the most popular Instagram influencers on inBeat.

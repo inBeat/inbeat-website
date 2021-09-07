@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Australia In 2020
+title: Top 10 Bodybuilding TikTok Influencers In Australia In 2021
 description: >-
-  Find top bodybuilding TikTok influencers in Australia in 2020. Most popular hashtags: #bodybuilding #fitness #gym #fyp.
+  Find top bodybuilding TikTok influencers in Australia in 2021. Most popular hashtags: #bodybuilding #fitness #gym #fyp.
 platform: TikTok
 hits: 19
 text_top: See the most popular TikTok influencers on inBeat.

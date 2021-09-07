@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Italy In 2020
+title: Top 10 Beauty TikTok Influencers In Italy In 2021
 description: >-
-  Find top beauty TikTok influencers in Italy in 2020. Most popular hashtags: #perte #imparacontiktok #skincare #makeup.
+  Find top beauty TikTok influencers in Italy in 2021. Most popular hashtags: #perte #imparacontiktok #skincare #makeup.
 platform: TikTok
 hits: 197
 text_top: Identify the best TikTok influencers on inBeat.

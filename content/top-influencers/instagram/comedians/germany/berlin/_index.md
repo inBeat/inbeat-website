@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Berlin In 2020
+title: Top 10 Comedians Instagram Influencers In Berlin In 2021
 description: >-
-  Find top comedians Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #comedy #standupcomedy #corona.
+  Find top comedians Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #comedy #standupcomedy #corona.
 platform: Instagram
 hits: 17
 text_top: Discover the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In France In 2020
+title: Top 10 Runners Instagram Influencers In France In 2021
 description: >-
-  Find top runners Instagram influencers in France in 2020. Most popular hashtags: #love #nature #shooting #ootd.
+  Find top runners Instagram influencers in France in 2021. Most popular hashtags: #love #nature #shooting #ootd.
 platform: Instagram
 hits: 144
 text_top: Identify the top-rated Instagram influencers on inBeat.

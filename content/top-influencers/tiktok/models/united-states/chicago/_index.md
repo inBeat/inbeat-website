@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Chicago In 2020
+title: Top 10 Models TikTok Influencers In Chicago In 2021
 description: >-
-  Find top models TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #chicago #viral #model.
+  Find top models TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #chicago #viral #model.
 platform: TikTok
 hits: 53
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Capetown In 2020
+title: Top 10 Lifestyle Instagram Influencers In Capetown In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #lifestyle #photography.
+  Find top lifestyle Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #southafrica #lifestyle #photography.
 platform: Instagram
 hits: 36
 text_top: See the top-rated Instagram accounts on inBeat.

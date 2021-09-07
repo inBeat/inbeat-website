@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United Kingdom In 2020
+title: Top 10 Cooking Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top cooking Instagram influencers in United Kingdom in 2020. Most popular hashtags: #instafood #foodphotography #foodporn.
+  Find top cooking Instagram influencers in United Kingdom in 2021. Most popular hashtags: #instafood #foodphotography #foodporn.
 platform: Instagram
 hits: 360
 text_top: See the best Instagram influencers on inBeat.

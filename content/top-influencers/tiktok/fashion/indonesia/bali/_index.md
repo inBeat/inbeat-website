@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Bali In 2020
+title: Top 10 Fashion TikTok Influencers In Bali In 2021
 description: >-
-  Find top fashion TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #fashion #bali #foryou.
+  Find top fashion TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #fashion #bali #foryou.
 platform: TikTok
 hits: 8
 text_top: Identify the top-rated TikTok influencers on inBeat.

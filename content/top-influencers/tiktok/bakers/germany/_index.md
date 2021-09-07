@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Germany In 2020
+title: Top 10 Bakers TikTok Influencers In Germany In 2021
 description: >-
-  Find top bakers TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #fy #foryou #biker.
+  Find top bakers TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #fy #foryou #biker.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok influencers on inBeat.

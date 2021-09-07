@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Canada In 2020
+title: Top 10 Chefs TikTok Influencers In Canada In 2021
 description: >-
-  Find top chefs TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #chef #food #cooking.
+  Find top chefs TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #chef #food #cooking.
 platform: TikTok
 hits: 40
 text_top: Analyze the most popular TikTok influencers on inBeat.

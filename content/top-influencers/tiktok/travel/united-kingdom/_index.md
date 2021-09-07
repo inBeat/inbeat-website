@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In United Kingdom In 2020
+title: Top 10 Travel TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top travel TikTok influencers in United Kingdom in 2020. Most popular hashtags: #travel #fyp #tiktoktravel #foryou.
+  Find top travel TikTok influencers in United Kingdom in 2021. Most popular hashtags: #travel #fyp #tiktoktravel #foryou.
 platform: TikTok
 hits: 480
 text_top: See the best TikTok profiles on inBeat.

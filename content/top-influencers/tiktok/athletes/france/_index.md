@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In France In 2020
+title: Top 10 Athletes TikTok Influencers In France In 2021
 description: >-
-  Find top athletes TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #sport.
+  Find top athletes TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #fyp #sport.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok profiles on inBeat.

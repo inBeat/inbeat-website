@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Canada In 2020
+title: Top 10 Bakers Instagram Influencers In Canada In 2021
 description: >-
-  Find top bakers Instagram influencers in Canada in 2020. Most popular hashtags: #instacake #cakedesign #cupcakes #yegfood.
+  Find top bakers Instagram influencers in Canada in 2021. Most popular hashtags: #instacake #cakedesign #cupcakes #yegfood.
 platform: Instagram
 hits: 144
 text_top: Identify the best Instagram influencers on inBeat.

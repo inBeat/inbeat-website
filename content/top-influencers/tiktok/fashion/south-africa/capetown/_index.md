@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Capetown In 2020
+title: Top 10 Fashion TikTok Influencers In Capetown In 2021
 description: >-
-  Find top fashion TikTok influencers in Capetown in 2020. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
+  Find top fashion TikTok influencers in Capetown in 2021. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok accounts on inBeat.

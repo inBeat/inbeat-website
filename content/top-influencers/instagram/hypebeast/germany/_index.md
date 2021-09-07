@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Germany In 2020
+title: Top 10 Hypebeast Instagram Influencers In Germany In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Germany in 2020. Most popular hashtags: #hypebeaststyle #hypebeast #outfitsociety #snobshots.
+  Find top hypebeast Instagram influencers in Germany in 2021. Most popular hashtags: #hypebeaststyle #hypebeast #outfitsociety #snobshots.
 platform: Instagram
 hits: 156
 text_top: Discover the best Instagram profiles on inBeat.

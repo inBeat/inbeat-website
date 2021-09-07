@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Austin In 2020
+title: Top 10 Food Instagram Influencers In Austin In 2021
 description: >-
-  Find top food Instagram influencers in Austin in 2020. Most popular hashtags: #ad #ribs #brisket.
+  Find top food Instagram influencers in Austin in 2021. Most popular hashtags: #ad #ribs #brisket.
 platform: Instagram
 hits: 137
 text_top: See the best Instagram influencers on inBeat.

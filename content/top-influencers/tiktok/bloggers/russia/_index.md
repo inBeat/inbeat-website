@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Russia In 2020
+title: Top 10 Bloggers TikTok Influencers In Russia In 2021
 description: >-
-  Find top bloggers TikTok influencers in Russia in 2020. Most popular hashtags: #moscow #aesthetic #dance.
+  Find top bloggers TikTok influencers in Russia in 2021. Most popular hashtags: #moscow #aesthetic #dance.
 platform: TikTok
 hits: 21
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In London In 2020
+title: Top 10 Vegan TikTok Influencers In London In 2021
 description: >-
-  Find top vegan TikTok influencers in London in 2020. Most popular hashtags: #fyp #vegan #london #food.
+  Find top vegan TikTok influencers in London in 2021. Most popular hashtags: #fyp #vegan #london #food.
 platform: TikTok
 hits: 22
 text_top: Analyze the top-rated TikTok influencers on inBeat.

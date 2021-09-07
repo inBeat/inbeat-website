@@ -1,7 +1,7 @@
 ---
-title: Top 10 Camping Instagram Influencers In 2020
+title: Top 10 Camping Instagram Influencers In 2021
 description: >-
-  Find top camping Instagram influencers in 2020. Most popular hashtags: #love #campinglife #camping.
+  Find top camping Instagram influencers in 2021. Most popular hashtags: #love #campinglife #camping.
 platform: Instagram
 hits: 4808
 text_top: Analyze the most popular Instagram accounts on inBeat.

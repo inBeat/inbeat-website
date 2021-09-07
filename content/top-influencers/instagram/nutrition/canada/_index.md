@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Canada In 2020
+title: Top 10 Nutrition Instagram Influencers In Canada In 2021
 description: >-
-  Find top nutrition Instagram influencers in Canada in 2020. Most popular hashtags: #fitness #photography #art.
+  Find top nutrition Instagram influencers in Canada in 2021. Most popular hashtags: #fitness #photography #art.
 platform: Instagram
 hits: 144
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Toronto In 2020
+title: Top 10 Hypebeast Instagram Influencers In Toronto In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Toronto in 2020. Most popular hashtags: #hypebeast #toronto #instagood #agameoftones.
+  Find top hypebeast Instagram influencers in Toronto in 2021. Most popular hashtags: #hypebeast #toronto #instagood #agameoftones.
 platform: Instagram
 hits: 16
 text_top: Identify the most popular Instagram profiles on inBeat.

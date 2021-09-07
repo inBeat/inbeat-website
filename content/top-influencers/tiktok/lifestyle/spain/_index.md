@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Spain In 2020
+title: Top 10 Lifestyle TikTok Influencers In Spain In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Spain in 2020. Most popular hashtags: #fyp #foryou #viral #lifestyle.
+  Find top lifestyle TikTok influencers in Spain in 2021. Most popular hashtags: #fyp #foryou #viral #lifestyle.
 platform: TikTok
 hits: 22
 text_top: See the most popular TikTok profiles on inBeat.

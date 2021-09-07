@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In New York In 2020
+title: Top 10 Bloggers TikTok Influencers In New York In 2021
 description: >-
-  Find top bloggers TikTok influencers in New York in 2020. Most popular hashtags: #nyc #newyork #fashion #fyp.
+  Find top bloggers TikTok influencers in New York in 2021. Most popular hashtags: #nyc #newyork #fashion #fyp.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok profiles on inBeat.

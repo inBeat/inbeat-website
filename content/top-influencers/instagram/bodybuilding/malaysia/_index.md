@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Malaysia In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Malaysia in 2020. Most popular hashtags: #bodybuilding #fitness #motivation #lifestyle.
+  Find top bodybuilding Instagram influencers in Malaysia in 2021. Most popular hashtags: #bodybuilding #fitness #motivation #lifestyle.
 platform: Instagram
 hits: 8
 text_top: Analyze the top-rated Instagram profiles on inBeat.

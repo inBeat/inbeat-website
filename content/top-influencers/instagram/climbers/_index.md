@@ -1,7 +1,7 @@
 ---
-title: Top 10 Climbers Instagram Influencers In 2020
+title: Top 10 Climbers Instagram Influencers In 2021
 description: >-
-  Find top climbers Instagram influencers in 2020. Most popular hashtags: #climbing #adventure #climbers.
+  Find top climbers Instagram influencers in 2021. Most popular hashtags: #climbing #adventure #climbers.
 platform: Instagram
 hits: 776
 text_top: Identify the most popular Instagram accounts on inBeat.

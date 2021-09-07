@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Tokyo In 2020
+title: Top 10 Barbers Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top barbers Instagram influencers in Tokyo in 2020. Most popular hashtags: #barber #tokyo #japan #mrbrotherscutclub.
+  Find top barbers Instagram influencers in Tokyo in 2021. Most popular hashtags: #barber #tokyo #japan #mrbrotherscutclub.
 platform: Instagram
 hits: 8
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Indonesia In 2020
+title: Top 10 Painters Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top painters Instagram influencers in Indonesia in 2020. Most popular hashtags: #painting #sketch #art.
+  Find top painters Instagram influencers in Indonesia in 2021. Most popular hashtags: #painting #sketch #art.
 platform: Instagram
 hits: 155
 text_top: Identify the best Instagram accounts on inBeat.

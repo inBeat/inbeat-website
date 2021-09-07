@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Morocco In 2020
+title: Top 10 Health Instagram Influencers In Morocco In 2021
 description: >-
-  Find top health Instagram influencers in Morocco in 2020. Most popular hashtags: #photooftheday #instagood #fashion #photography.
+  Find top health Instagram influencers in Morocco in 2021. Most popular hashtags: #photooftheday #instagood #fashion #photography.
 platform: Instagram
 hits: 39
 text_top: See the most popular Instagram influencers on inBeat.

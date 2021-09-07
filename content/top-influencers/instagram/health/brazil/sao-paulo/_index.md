@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Health Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top health Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #saopaulo #brasil #health #tbt.
+  Find top health Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #saopaulo #brasil #health #tbt.
 platform: Instagram
 hits: 51
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In France In 2020
+title: Top 10 Christian TikTok Influencers In France In 2021
 description: >-
-  Find top christian TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #duo #love.
+  Find top christian TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #duo #love.
 platform: TikTok
 hits: 32
 text_top: See the top-rated TikTok accounts on inBeat.

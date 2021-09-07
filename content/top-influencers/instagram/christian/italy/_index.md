@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Italy In 2020
+title: Top 10 Christian Instagram Influencers In Italy In 2021
 description: >-
-  Find top christian Instagram influencers in Italy in 2020. Most popular hashtags: #makeup #love #italy #followme.
+  Find top christian Instagram influencers in Italy in 2021. Most popular hashtags: #makeup #love #italy #followme.
 platform: Instagram
 hits: 440
 text_top: See the best Instagram profiles on inBeat.

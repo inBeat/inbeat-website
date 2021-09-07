@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United Kingdom In 2020
+title: Top 10 Beauty Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top beauty Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gifted #ootd #instadaily.
+  Find top beauty Instagram influencers in United Kingdom in 2021. Most popular hashtags: #gifted #ootd #instadaily.
 platform: Instagram
 hits: 3982
 text_top: See the top-rated Instagram profiles on inBeat.

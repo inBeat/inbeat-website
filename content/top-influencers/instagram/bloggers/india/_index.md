@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In India In 2020
+title: Top 10 Bloggers Instagram Influencers In India In 2021
 description: >-
-  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #fashion #instagram #love #fashionblogger.
+  Find top bloggers Instagram influencers in India in 2021. Most popular hashtags: #fashion #instagram #love #fashionblogger.
 platform: Instagram
 hits: 2733
 text_top: See the top-rated Instagram profiles on inBeat.

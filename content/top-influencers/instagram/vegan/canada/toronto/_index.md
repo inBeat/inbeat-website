@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Toronto In 2020
+title: Top 10 Vegan Instagram Influencers In Toronto In 2021
 description: >-
-  Find top vegan Instagram influencers in Toronto in 2020. Most popular hashtags: #vegan #torontofoodblogger #torontofood #toronto.
+  Find top vegan Instagram influencers in Toronto in 2021. Most popular hashtags: #vegan #torontofoodblogger #torontofood #toronto.
 platform: Instagram
 hits: 73
 text_top: Analyze the most popular Instagram profiles on inBeat.

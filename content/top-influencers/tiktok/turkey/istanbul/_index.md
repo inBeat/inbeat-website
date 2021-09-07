@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Istanbul In 2020
+title: Top 10 TikTok Influencers In Istanbul In 2021
 description: >-
-  Find top TikTok influencers in Istanbul in 2020. Most popular hashtags: #tiktok #ke #istanbul #opposelfie.
+  Find top TikTok influencers in Istanbul in 2021. Most popular hashtags: #tiktok #ke #istanbul #opposelfie.
 platform: TikTok
 hits: 470
 text_top: Identify the best TikTok influencers on inBeat.

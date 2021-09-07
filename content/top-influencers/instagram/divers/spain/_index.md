@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Spain In 2020
+title: Top 10 Divers Instagram Influencers In Spain In 2021
 description: >-
-  Find top divers Instagram influencers in Spain in 2020. Most popular hashtags: #bodypositive #curvemodel #diversity.
+  Find top divers Instagram influencers in Spain in 2021. Most popular hashtags: #bodypositive #curvemodel #diversity.
 platform: Instagram
 hits: 202
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Seoul In 2020
+title: Top 10 Models Instagram Influencers In Seoul In 2021
 description: >-
-  Find top models Instagram influencers in Seoul in 2020. Most popular hashtags: #korea #seoul #model.
+  Find top models Instagram influencers in Seoul in 2021. Most popular hashtags: #korea #seoul #model.
 platform: Instagram
 hits: 43
 text_top: Analyze the most popular Instagram accounts on inBeat.

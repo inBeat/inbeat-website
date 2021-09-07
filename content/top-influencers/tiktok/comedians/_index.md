@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In 2020
+title: Top 10 Comedians TikTok Influencers In 2021
 description: >-
-  Find top comedians TikTok influencers in 2020. Most popular hashtags: #foryou #comedy #foryoupage #duet.
+  Find top comedians TikTok influencers in 2021. Most popular hashtags: #foryou #comedy #foryoupage #duet.
 platform: TikTok
 hits: 7142
 text_top: Identify the best TikTok accounts on inBeat.

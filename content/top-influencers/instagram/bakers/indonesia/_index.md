@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Indonesia In 2020
+title: Top 10 Bakers Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top bakers Instagram influencers in Indonesia in 2020. Most popular hashtags: #indonesia #travel #dirumahaja.
+  Find top bakers Instagram influencers in Indonesia in 2021. Most popular hashtags: #indonesia #travel #dirumahaja.
 platform: Instagram
 hits: 610
 text_top: Identify the most popular Instagram influencers on inBeat.

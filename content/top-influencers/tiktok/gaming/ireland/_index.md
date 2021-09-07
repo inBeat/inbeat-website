@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Ireland In 2020
+title: Top 10 Gaming TikTok Influencers In Ireland In 2021
 description: >-
-  Find top gaming TikTok influencers in Ireland in 2020. Most popular hashtags: #gaming #fyp #foryoupage #fortnite.
+  Find top gaming TikTok influencers in Ireland in 2021. Most popular hashtags: #gaming #fyp #foryoupage #fortnite.
 platform: TikTok
 hits: 31
 text_top: Analyze the best TikTok influencers on inBeat.

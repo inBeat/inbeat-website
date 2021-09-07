@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In South Korea In 2020
+title: Top 10 Chefs Instagram Influencers In South Korea In 2021
 description: >-
-  Find top chefs Instagram influencers in South Korea in 2020. Most popular hashtags: #kimchi #jhope #artdining.
+  Find top chefs Instagram influencers in South Korea in 2021. Most popular hashtags: #kimchi #jhope #artdining.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Italy In 2020
+title: Top 10 Skincare TikTok Influencers In Italy In 2021
 description: >-
-  Find top skincare TikTok influencers in Italy in 2020. Most popular hashtags: #skincare #makeup #beauty #imparacontiktok.
+  Find top skincare TikTok influencers in Italy in 2021. Most popular hashtags: #skincare #makeup #beauty #imparacontiktok.
 platform: TikTok
 hits: 54
 text_top: Discover the most popular TikTok profiles on inBeat.

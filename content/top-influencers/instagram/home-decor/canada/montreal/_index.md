@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Montreal In 2020
+title: Top 10 Home Decor Instagram Influencers In Montreal In 2021
 description: >-
-  Find top home decor Instagram influencers in Montreal in 2020. Most popular hashtags: #homedecor #montreal #homesweethome #mtl.
+  Find top home decor Instagram influencers in Montreal in 2021. Most popular hashtags: #homedecor #montreal #homesweethome #mtl.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram accounts on inBeat.

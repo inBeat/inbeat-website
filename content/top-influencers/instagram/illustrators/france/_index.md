@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In France In 2020
+title: Top 10 Illustrators Instagram Influencers In France In 2021
 description: >-
-  Find top illustrators Instagram influencers in France in 2020. Most popular hashtags: #illustration #painting #art #artist.
+  Find top illustrators Instagram influencers in France in 2021. Most popular hashtags: #illustration #painting #art #artist.
 platform: Instagram
 hits: 326
 text_top: Discover the top-rated Instagram accounts on inBeat.

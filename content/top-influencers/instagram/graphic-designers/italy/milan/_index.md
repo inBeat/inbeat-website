@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Milan In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Milan In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Milan in 2020. Most popular hashtags: #graphicdesign #graphicdesigner #nature #italy.
+  Find top graphic-designers Instagram influencers in Milan in 2021. Most popular hashtags: #graphicdesign #graphicdesigner #nature #italy.
 platform: Instagram
 hits: 27
 text_top: See the best Instagram influencers on inBeat.

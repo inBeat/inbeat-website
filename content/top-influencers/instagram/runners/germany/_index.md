@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Germany In 2020
+title: Top 10 Runners Instagram Influencers In Germany In 2021
 description: >-
-  Find top runners Instagram influencers in Germany in 2020. Most popular hashtags: #running #runningmotivation #runner #motivation.
+  Find top runners Instagram influencers in Germany in 2021. Most popular hashtags: #running #runningmotivation #runner #motivation.
 platform: Instagram
 hits: 195
 text_top: Identify the most popular Instagram influencers on inBeat.

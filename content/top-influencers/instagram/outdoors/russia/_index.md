@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Russia In 2020
+title: Top 10 Outdoors Instagram Influencers In Russia In 2021
 description: >-
-  Find top outdoors Instagram influencers in Russia in 2020. Most popular hashtags: #outdoors #nature #instagood #travel.
+  Find top outdoors Instagram influencers in Russia in 2021. Most popular hashtags: #outdoors #nature #instagood #travel.
 platform: Instagram
 hits: 101
 text_top: See the top-rated Instagram accounts on inBeat.

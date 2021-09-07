@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Chile In 2020
+title: Top 10 Crossfit Instagram Influencers In Chile In 2021
 description: >-
-  Find top crossfit Instagram influencers in Chile in 2020. Most popular hashtags: #crossfit #fitness #chile #love.
+  Find top crossfit Instagram influencers in Chile in 2021. Most popular hashtags: #crossfit #fitness #chile #love.
 platform: Instagram
 hits: 13
 text_top: See the top-rated Instagram accounts on inBeat.

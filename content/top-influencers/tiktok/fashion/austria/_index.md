@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Austria In 2020
+title: Top 10 Fashion TikTok Influencers In Austria In 2021
 description: >-
-  Find top fashion TikTok influencers in Austria in 2020. Most popular hashtags: #foryoupage #fashion #foryou #fyp.
+  Find top fashion TikTok influencers in Austria in 2021. Most popular hashtags: #foryoupage #fashion #foryou #fyp.
 platform: TikTok
 hits: 30
 text_top: See the most popular TikTok accounts on inBeat.

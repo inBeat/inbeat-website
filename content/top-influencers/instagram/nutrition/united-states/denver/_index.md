@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Denver In 2020
+title: Top 10 Nutrition Instagram Influencers In Denver In 2021
 description: >-
-  Find top nutrition Instagram influencers in Denver in 2020. Most popular hashtags: #nutrition #fitnessmotivation #fitness #colorado.
+  Find top nutrition Instagram influencers in Denver in 2021. Most popular hashtags: #nutrition #fitnessmotivation #fitness #colorado.
 platform: Instagram
 hits: 8
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Ukraine In 2020
+title: Top 10 Food TikTok Influencers In Ukraine In 2021
 description: >-
-  Find top food TikTok influencers in Ukraine in 2020. Most popular hashtags: #food #funny #ideas #howto.
+  Find top food TikTok influencers in Ukraine in 2021. Most popular hashtags: #food #funny #ideas #howto.
 platform: TikTok
 hits: 21
 text_top: Analyze the top-rated TikTok profiles on inBeat.

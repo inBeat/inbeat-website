@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In France In 2020
+title: Top 10 Instagram Influencers In France In 2021
 description: >-
-  Find top Instagram influencers in France in 2020. Most popular hashtags: #fashion #ootd #teamfabletics.
+  Find top Instagram influencers in France in 2021. Most popular hashtags: #fashion #ootd #teamfabletics.
 platform: Instagram
 hits: 27695
 text_top: Identify the top-rated Instagram profiles on inBeat.

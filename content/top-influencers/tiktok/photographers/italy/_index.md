@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Italy In 2020
+title: Top 10 Photographers TikTok Influencers In Italy In 2021
 description: >-
-  Find top photographers TikTok influencers in Italy in 2020. Most popular hashtags: #italy #travel #photographer #sunset.
+  Find top photographers TikTok influencers in Italy in 2021. Most popular hashtags: #italy #travel #photographer #sunset.
 platform: TikTok
 hits: 44
 text_top: Identify the best TikTok influencers on inBeat.

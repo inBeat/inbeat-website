@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Cali In 2020
+title: Top 10 Beauty TikTok Influencers In Cali In 2021
 description: >-
-  Find top beauty TikTok influencers in Cali in 2020. Most popular hashtags: #beauty #viral #fyp #love.
+  Find top beauty TikTok influencers in Cali in 2021. Most popular hashtags: #beauty #viral #fyp #love.
 platform: TikTok
 hits: 6
 text_top: Discover the top-rated TikTok accounts on inBeat.

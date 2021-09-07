@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Italy In 2020
+title: Top 10 Comedians TikTok Influencers In Italy In 2021
 description: >-
-  Find top comedians TikTok influencers in Italy in 2020. Most popular hashtags: #perte #comedia #foryou #duetto.
+  Find top comedians TikTok influencers in Italy in 2021. Most popular hashtags: #perte #comedia #foryou #duetto.
 platform: TikTok
 hits: 32
 text_top: Discover the best TikTok influencers on inBeat.

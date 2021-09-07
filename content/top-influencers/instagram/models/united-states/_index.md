@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In United States In 2020
+title: Top 10 Models Instagram Influencers In United States In 2021
 description: >-
-  Find top models Instagram influencers in United States in 2020. Most popular hashtags: #prettygirls #model #modelsearch.
+  Find top models Instagram influencers in United States in 2021. Most popular hashtags: #prettygirls #model #modelsearch.
 platform: Instagram
 hits: 11607
 text_top: Discover the top-rated Instagram influencers on inBeat.

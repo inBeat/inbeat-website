@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Germany In 2020
+title: Top 10 Home Decor TikTok Influencers In Germany In 2021
 description: >-
-  Find top home decor TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #homedecor #foryou #fy.
+  Find top home decor TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #homedecor #foryou #fy.
 platform: TikTok
 hits: 13
 text_top: Identify the best TikTok accounts on inBeat.

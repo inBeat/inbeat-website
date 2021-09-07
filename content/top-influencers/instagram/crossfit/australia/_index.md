@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Australia In 2020
+title: Top 10 Crossfit Instagram Influencers In Australia In 2021
 description: >-
-  Find top crossfit Instagram influencers in Australia in 2020. Most popular hashtags: #training #snatch #crossfit.
+  Find top crossfit Instagram influencers in Australia in 2021. Most popular hashtags: #training #snatch #crossfit.
 platform: Instagram
 hits: 67
 text_top: Discover the best Instagram influencers on inBeat.

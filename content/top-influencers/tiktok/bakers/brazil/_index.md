@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Brazil In 2020
+title: Top 10 Bakers TikTok Influencers In Brazil In 2021
 description: >-
-  Find top bakers TikTok influencers in Brazil in 2020. Most popular hashtags: #lakers #foryou #nba #futebol.
+  Find top bakers TikTok influencers in Brazil in 2021. Most popular hashtags: #lakers #foryou #nba #futebol.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok influencers on inBeat.

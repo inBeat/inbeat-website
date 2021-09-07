@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In United States In 2020
+title: Top 10 Food Instagram Influencers In United States In 2021
 description: >-
-  Find top food Instagram influencers in United States in 2020. Most popular hashtags: #summervibes #ad #hotel.
+  Find top food Instagram influencers in United States in 2021. Most popular hashtags: #summervibes #ad #hotel.
 platform: Instagram
 hits: 10654
 text_top: Discover the most popular Instagram influencers on inBeat.

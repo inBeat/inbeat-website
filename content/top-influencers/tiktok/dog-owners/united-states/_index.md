@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In United States In 2020
+title: Top 10 Dog Owners TikTok Influencers In United States In 2021
 description: >-
-  Find top dog owners TikTok influencers in United States in 2020. Most popular hashtags: #fyp #dogs #dogowner #dogsoftiktok.
+  Find top dog owners TikTok influencers in United States in 2021. Most popular hashtags: #fyp #dogs #dogowner #dogsoftiktok.
 platform: TikTok
 hits: 68
 text_top: See the best TikTok profiles on inBeat.

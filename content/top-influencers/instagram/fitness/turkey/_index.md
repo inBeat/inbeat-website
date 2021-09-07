@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Turkey In 2020
+title: Top 10 Fitness Instagram Influencers In Turkey In 2021
 description: >-
-  Find top fitness Instagram influencers in Turkey in 2020. Most popular hashtags: #fitness #turkey #fashion #summervibes.
+  Find top fitness Instagram influencers in Turkey in 2021. Most popular hashtags: #fitness #turkey #fashion #summervibes.
 platform: Instagram
 hits: 333
 text_top: Analyze the best Instagram accounts on inBeat.

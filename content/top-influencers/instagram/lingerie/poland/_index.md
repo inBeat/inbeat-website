@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Poland In 2020
+title: Top 10 Lingerie Instagram Influencers In Poland In 2021
 description: >-
-  Find top lingerie Instagram influencers in Poland in 2020. Most popular hashtags: #lingerie #brunette #polishgirl #bielizna.
+  Find top lingerie Instagram influencers in Poland in 2021. Most popular hashtags: #lingerie #brunette #polishgirl #bielizna.
 platform: Instagram
 hits: 152
 text_top: See the top-rated Instagram accounts on inBeat.

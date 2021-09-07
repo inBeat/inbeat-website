@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Barcelona In 2020
+title: Top 10 Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top Instagram influencers in Barcelona in 2020. Most popular hashtags: #ad #igersbarcelona #excellent.
+  Find top Instagram influencers in Barcelona in 2021. Most popular hashtags: #ad #igersbarcelona #excellent.
 platform: Instagram
 hits: 2010
 text_top: Discover the top-rated Instagram accounts on inBeat.

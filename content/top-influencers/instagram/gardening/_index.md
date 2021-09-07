@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In 2020
+title: Top 10 Gardening Instagram Influencers In 2021
 description: >-
-  Find top gardening Instagram influencers in 2020. Most popular hashtags: #homedecor #garden #autumn.
+  Find top gardening Instagram influencers in 2021. Most popular hashtags: #homedecor #garden #autumn.
 platform: Instagram
 hits: 2486
 text_top: See the best Instagram influencers on inBeat.

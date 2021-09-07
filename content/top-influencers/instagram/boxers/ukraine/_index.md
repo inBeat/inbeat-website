@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Ukraine In 2020
+title: Top 10 Boxers Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top boxers Instagram influencers in Ukraine in 2020. Most popular hashtags: #sport #boxing #boxingtraining #motivation.
+  Find top boxers Instagram influencers in Ukraine in 2021. Most popular hashtags: #sport #boxing #boxingtraining #motivation.
 platform: Instagram
 hits: 9
 text_top: Analyze the best Instagram influencers on inBeat.

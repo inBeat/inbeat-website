@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In London In 2020
+title: Top 10 Yoga Instagram Influencers In London In 2021
 description: >-
-  Find top yoga Instagram influencers in London in 2020. Most popular hashtags: #yogalondon #yoga #yogapractice #yogalife.
+  Find top yoga Instagram influencers in London in 2021. Most popular hashtags: #yogalondon #yoga #yogapractice #yogalife.
 platform: Instagram
 hits: 108
 text_top: Discover the top-rated Instagram accounts on inBeat.

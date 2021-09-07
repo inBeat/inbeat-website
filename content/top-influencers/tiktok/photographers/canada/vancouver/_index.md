@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Vancouver In 2020
+title: Top 10 Photographers TikTok Influencers In Vancouver In 2021
 description: >-
-  Find top photographers TikTok influencers in Vancouver in 2020. Most popular hashtags: #canada #photographer #fyp #vancouver.
+  Find top photographers TikTok influencers in Vancouver in 2021. Most popular hashtags: #canada #photographer #fyp #vancouver.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok influencers on inBeat.

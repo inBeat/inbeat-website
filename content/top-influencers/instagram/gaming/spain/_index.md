@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Spain In 2020
+title: Top 10 Gaming Instagram Influencers In Spain In 2021
 description: >-
-  Find top gaming Instagram influencers in Spain in 2020. Most popular hashtags: #gaming #playinggames #gamergirl.
+  Find top gaming Instagram influencers in Spain in 2021. Most popular hashtags: #gaming #playinggames #gamergirl.
 platform: Instagram
 hits: 65
 text_top: See the best Instagram accounts on inBeat.

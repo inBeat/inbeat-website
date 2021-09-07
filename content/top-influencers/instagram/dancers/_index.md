@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In 2020
+title: Top 10 Dancers Instagram Influencers In 2021
 description: >-
-  Find top dancers Instagram influencers in 2020. Most popular hashtags: #dance #quarantine #battle.
+  Find top dancers Instagram influencers in 2021. Most popular hashtags: #dance #quarantine #battle.
 platform: Instagram
 hits: 13632
 text_top: See the top-rated Instagram accounts on inBeat.

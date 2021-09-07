@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Argentina in 2020. Most popular hashtags: #tattoo #argentina #inked #realism.
+  Find top tattoo-artists Instagram influencers in Argentina in 2021. Most popular hashtags: #tattoo #argentina #inked #realism.
 platform: Instagram
 hits: 47
 text_top: Analyze the top-rated Instagram accounts on inBeat.

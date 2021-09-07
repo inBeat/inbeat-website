@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Brazil In 2020
+title: Top 10 Cinema Instagram Influencers In Brazil In 2021
 description: >-
-  Find top cinema Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #cinema #redeglobo.
+  Find top cinema Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #cinema #redeglobo.
 platform: Instagram
 hits: 713
 text_top: Discover the most popular Instagram profiles on inBeat.

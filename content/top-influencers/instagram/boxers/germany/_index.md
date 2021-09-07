@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Germany In 2020
+title: Top 10 Boxers Instagram Influencers In Germany In 2021
 description: >-
-  Find top boxers Instagram influencers in Germany in 2020. Most popular hashtags: #boxing #fight #boxinglife #boxingtraining.
+  Find top boxers Instagram influencers in Germany in 2021. Most popular hashtags: #boxing #fight #boxinglife #boxingtraining.
 platform: Instagram
 hits: 121
 text_top: Discover the best Instagram influencers on inBeat.

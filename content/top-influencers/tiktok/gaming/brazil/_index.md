@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Brazil In 2020
+title: Top 10 Gaming TikTok Influencers In Brazil In 2021
 description: >-
-  Find top gaming TikTok influencers in Brazil in 2020. Most popular hashtags: #gaming #fyp #foryou #gamer.
+  Find top gaming TikTok influencers in Brazil in 2021. Most popular hashtags: #gaming #fyp #foryou #gamer.
 platform: TikTok
 hits: 25
 text_top: See the top-rated TikTok influencers on inBeat.

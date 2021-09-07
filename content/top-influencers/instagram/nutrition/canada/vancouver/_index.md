@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Vancouver In 2020
+title: Top 10 Nutrition Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top nutrition Instagram influencers in Vancouver in 2020. Most popular hashtags: #nutrition #fitness #family #lifestyle.
+  Find top nutrition Instagram influencers in Vancouver in 2021. Most popular hashtags: #nutrition #fitness #family #lifestyle.
 platform: Instagram
 hits: 13
 text_top: Discover the best Instagram profiles on inBeat.

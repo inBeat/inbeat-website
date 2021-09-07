@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Montreal In 2020
+title: Top 10 TikTok Influencers In Montreal In 2021
 description: >-
-  Find top TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 373
 text_top: Identify the top-rated TikTok accounts on inBeat.

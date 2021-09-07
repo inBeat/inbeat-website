@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In San Diego In 2020
+title: Top 10 Lifestyle TikTok Influencers In San Diego In 2021
 description: >-
-  Find top lifestyle TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #sandiego #aesthetic #xyzbca.
+  Find top lifestyle TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #sandiego #aesthetic #xyzbca.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok accounts on inBeat.

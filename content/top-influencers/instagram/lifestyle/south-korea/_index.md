@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In South Korea In 2020
+title: Top 10 Lifestyle Instagram Influencers In South Korea In 2021
 description: >-
-  Find top lifestyle Instagram influencers in South Korea in 2020. Most popular hashtags: #seoul #seoulkorea #southkorea.
+  Find top lifestyle Instagram influencers in South Korea in 2021. Most popular hashtags: #seoul #seoulkorea #southkorea.
 platform: Instagram
 hits: 45
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Mumbai In 2020
+title: Top 10 Beauty TikTok Influencers In Mumbai In 2021
 description: >-
-  Find top beauty TikTok influencers in Mumbai in 2020. Most popular hashtags: #tiktok #foryou #india #foryoupage.
+  Find top beauty TikTok influencers in Mumbai in 2021. Most popular hashtags: #tiktok #foryou #india #foryoupage.
 platform: TikTok
 hits: 19
 text_top: Identify the best TikTok profiles on inBeat.

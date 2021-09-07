@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Bali In 2020
+title: Top 10 Food TikTok Influencers In Bali In 2021
 description: >-
-  Find top food TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #foryou #food #foryoupage.
+  Find top food TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #foryou #food #foryoupage.
 platform: TikTok
 hits: 6
 text_top: See the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Boston In 2020
+title: Top 10 Photographers Instagram Influencers In Boston In 2021
 description: >-
-  Find top photographers Instagram influencers in Boston in 2020. Most popular hashtags: #photoshoot #photooftheday #photographer.
+  Find top photographers Instagram influencers in Boston in 2021. Most popular hashtags: #photoshoot #photooftheday #photographer.
 platform: Instagram
 hits: 111
 text_top: Discover the top-rated Instagram influencers on inBeat.

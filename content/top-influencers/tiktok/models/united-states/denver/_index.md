@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Denver In 2020
+title: Top 10 Models TikTok Influencers In Denver In 2021
 description: >-
-  Find top models TikTok influencers in Denver in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top models TikTok influencers in Denver in 2021. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok influencers on inBeat.

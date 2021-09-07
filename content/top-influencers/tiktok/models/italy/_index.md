@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Italy In 2020
+title: Top 10 Models TikTok Influencers In Italy In 2021
 description: >-
-  Find top models TikTok influencers in Italy in 2020. Most popular hashtags: #perte #foryou #fyp.
+  Find top models TikTok influencers in Italy in 2021. Most popular hashtags: #perte #foryou #fyp.
 platform: TikTok
 hits: 120
 text_top: Identify the most popular TikTok profiles on inBeat.

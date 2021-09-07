@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Austin In 2020
+title: Top 10 Christian Instagram Influencers In Austin In 2021
 description: >-
-  Find top christian Instagram influencers in Austin in 2020. Most popular hashtags: #christian #winter #producer #quarantine.
+  Find top christian Instagram influencers in Austin in 2021. Most popular hashtags: #christian #winter #producer #quarantine.
 platform: Instagram
 hits: 47
 text_top: Identify the most popular Instagram influencers on inBeat.

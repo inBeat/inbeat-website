@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Nigeria In 2020
+title: Top 10 Skincare Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top skincare Instagram influencers in Nigeria in 2020. Most popular hashtags: #endsars #endpolicebrutality #endswat.
+  Find top skincare Instagram influencers in Nigeria in 2021. Most popular hashtags: #endsars #endpolicebrutality #endswat.
 platform: Instagram
 hits: 66
 text_top: Discover the most popular Instagram influencers on inBeat.

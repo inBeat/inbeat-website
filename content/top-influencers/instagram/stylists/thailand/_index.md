@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Thailand In 2020
+title: Top 10 Stylists Instagram Influencers In Thailand In 2021
 description: >-
-  Find top stylists Instagram influencers in Thailand in 2020. Most popular hashtags: #hairstyles #makeupartist #stylist.
+  Find top stylists Instagram influencers in Thailand in 2021. Most popular hashtags: #hairstyles #makeupartist #stylist.
 platform: Instagram
 hits: 17
 text_top: Discover the top-rated Instagram accounts on inBeat.

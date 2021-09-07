@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Houston In 2020
+title: Top 10 Fashion Instagram Influencers In Houston In 2021
 description: >-
-  Find top fashion Instagram influencers in Houston in 2020. Most popular hashtags: #fashion #houston #houstonblogger #houstontx.
+  Find top fashion Instagram influencers in Houston in 2021. Most popular hashtags: #fashion #houston #houstonblogger #houstontx.
 platform: Instagram
 hits: 280
 text_top: See the best Instagram profiles on inBeat.

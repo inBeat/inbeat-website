@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Montreal In 2020
+title: Top 10 Cosmetics Instagram Influencers In Montreal In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Montreal in 2020. Most popular hashtags: #makeupartist #makeup #makeuplooks.
+  Find top cosmetics Instagram influencers in Montreal in 2021. Most popular hashtags: #makeupartist #makeup #makeuplooks.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram accounts on inBeat.

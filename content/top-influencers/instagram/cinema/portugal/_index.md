@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Portugal In 2020
+title: Top 10 Cinema Instagram Influencers In Portugal In 2021
 description: >-
-  Find top cinema Instagram influencers in Portugal in 2020. Most popular hashtags: #pub #photography #cinema #nature.
+  Find top cinema Instagram influencers in Portugal in 2021. Most popular hashtags: #pub #photography #cinema #nature.
 platform: Instagram
 hits: 29
 text_top: Identify the top-rated Instagram accounts on inBeat.

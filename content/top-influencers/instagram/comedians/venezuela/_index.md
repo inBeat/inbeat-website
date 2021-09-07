@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Venezuela In 2020
+title: Top 10 Comedians Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top comedians Instagram influencers in Venezuela in 2020. Most popular hashtags: #tbt #venezuela #comedia.
+  Find top comedians Instagram influencers in Venezuela in 2021. Most popular hashtags: #tbt #venezuela #comedia.
 platform: Instagram
 hits: 31
 text_top: Identify the best Instagram accounts on inBeat.

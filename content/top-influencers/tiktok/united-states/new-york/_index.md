@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In New York In 2020
+title: Top 10 TikTok Influencers In New York In 2021
 description: >-
-  Find top TikTok influencers in New York in 2020. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top TikTok influencers in New York in 2021. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 1843
 text_top: See the best TikTok accounts on inBeat.

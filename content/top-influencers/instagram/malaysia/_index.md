@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Malaysia In 2020
+title: Top 10 Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top Instagram influencers in Malaysia in 2020. Most popular hashtags: #malaysia #staysafe #cmco.
+  Find top Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #staysafe #cmco.
 platform: Instagram
 hits: 1859
 text_top: See the most popular Instagram accounts on inBeat.

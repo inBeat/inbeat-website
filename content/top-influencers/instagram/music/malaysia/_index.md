@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Malaysia In 2020
+title: Top 10 Music Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top music Instagram influencers in Malaysia in 2020. Most popular hashtags: #malaysiancover #ootd #cover.
+  Find top music Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysiancover #ootd #cover.
 platform: Instagram
 hits: 101
 text_top: Identify the top-rated Instagram profiles on inBeat.

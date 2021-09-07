@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Germany In 2020
+title: Top 10 Divers Instagram Influencers In Germany In 2021
 description: >-
-  Find top divers Instagram influencers in Germany in 2020. Most popular hashtags: #love #happy #nature #beautiful.
+  Find top divers Instagram influencers in Germany in 2021. Most popular hashtags: #love #happy #nature #beautiful.
 platform: Instagram
 hits: 208
 text_top: Identify the most popular Instagram profiles on inBeat.

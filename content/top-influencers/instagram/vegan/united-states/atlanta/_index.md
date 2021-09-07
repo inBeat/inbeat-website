@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Atlanta In 2020
+title: Top 10 Vegan Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2020. Most popular hashtags: #vegan #atlanta #vegansofig #love.
+  Find top vegan Instagram influencers in Atlanta in 2021. Most popular hashtags: #vegan #atlanta #vegansofig #love.
 platform: Instagram
 hits: 63
 text_top: See the top-rated Instagram profiles on inBeat.

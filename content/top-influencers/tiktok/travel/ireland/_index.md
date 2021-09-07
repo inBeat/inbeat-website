@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ireland In 2020
+title: Top 10 Travel TikTok Influencers In Ireland In 2021
 description: >-
-  Find top travel TikTok influencers in Ireland in 2020. Most popular hashtags: #travel #ireland #fyp #foryoupage.
+  Find top travel TikTok influencers in Ireland in 2021. Most popular hashtags: #travel #ireland #fyp #foryoupage.
 platform: TikTok
 hits: 26
 text_top: Discover the top-rated TikTok accounts on inBeat.

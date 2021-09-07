@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In India In 2020
+title: Top 10 Divers Instagram Influencers In India In 2021
 description: >-
-  Find top divers Instagram influencers in India in 2020. Most popular hashtags: #wanderlust #goa #instagood #travel.
+  Find top divers Instagram influencers in India in 2021. Most popular hashtags: #wanderlust #goa #instagood #travel.
 platform: Instagram
 hits: 138
 text_top: Analyze the best Instagram profiles on inBeat.

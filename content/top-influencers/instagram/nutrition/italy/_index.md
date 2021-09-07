@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Italy In 2020
+title: Top 10 Nutrition Instagram Influencers In Italy In 2021
 description: >-
-  Find top nutrition Instagram influencers in Italy in 2020. Most popular hashtags: #happiness #love #sport.
+  Find top nutrition Instagram influencers in Italy in 2021. Most popular hashtags: #happiness #love #sport.
 platform: Instagram
 hits: 214
 text_top: See the top-rated Instagram accounts on inBeat.

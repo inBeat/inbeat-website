@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Bangkok In 2020
+title: Top 10 Architecture Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top architecture Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #architecture #bangkok #travel.
+  Find top architecture Instagram influencers in Bangkok in 2021. Most popular hashtags: #thailand #architecture #bangkok #travel.
 platform: Instagram
 hits: 5
 text_top: See the top-rated Instagram profiles on inBeat.

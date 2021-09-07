@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Portugal In 2020
+title: Top 10 Skincare Instagram Influencers In Portugal In 2021
 description: >-
-  Find top skincare Instagram influencers in Portugal in 2020. Most popular hashtags: #skincare #beauty #makeup #ootd.
+  Find top skincare Instagram influencers in Portugal in 2021. Most popular hashtags: #skincare #beauty #makeup #ootd.
 platform: Instagram
 hits: 38
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Russia In 2020
+title: Top 10 Crossfit Instagram Influencers In Russia In 2021
 description: >-
-  Find top crossfit Instagram influencers in Russia in 2020. Most popular hashtags: #crossfit #mma #sportgirl.
+  Find top crossfit Instagram influencers in Russia in 2021. Most popular hashtags: #crossfit #mma #sportgirl.
 platform: Instagram
 hits: 82
 text_top: Analyze the best Instagram profiles on inBeat.

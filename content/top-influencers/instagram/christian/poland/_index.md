@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Poland In 2020
+title: Top 10 Christian Instagram Influencers In Poland In 2021
 description: >-
-  Find top christian Instagram influencers in Poland in 2020. Most popular hashtags: #poland #fashion #polskadziewczyna #autumn.
+  Find top christian Instagram influencers in Poland in 2021. Most popular hashtags: #poland #fashion #polskadziewczyna #autumn.
 platform: Instagram
 hits: 28
 text_top: See the most popular Instagram influencers on inBeat.

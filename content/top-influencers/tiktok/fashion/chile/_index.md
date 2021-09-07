@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Chile In 2020
+title: Top 10 Fashion TikTok Influencers In Chile In 2021
 description: >-
-  Find top fashion TikTok influencers in Chile in 2020. Most popular hashtags: #fashion #chile #moda #fyp.
+  Find top fashion TikTok influencers in Chile in 2021. Most popular hashtags: #fashion #chile #moda #fyp.
 platform: TikTok
 hits: 24
 text_top: Analyze the top-rated TikTok profiles on inBeat.

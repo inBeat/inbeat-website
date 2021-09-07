@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Italy In 2020
+title: Top 10 TikTok Influencers In Italy In 2021
 description: >-
-  Find top TikTok influencers in Italy in 2020. Most popular hashtags: #duet #foryou #duetto.
+  Find top TikTok influencers in Italy in 2021. Most popular hashtags: #duet #foryou #duetto.
 platform: TikTok
 hits: 3954
 text_top: Identify the best TikTok influencers on inBeat.

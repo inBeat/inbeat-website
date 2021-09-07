@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Portugal In 2020
+title: Top 10 Yoga Instagram Influencers In Portugal In 2021
 description: >-
-  Find top yoga Instagram influencers in Portugal in 2020. Most popular hashtags: #yoga #yogainspiration #yogapractice #portugal.
+  Find top yoga Instagram influencers in Portugal in 2021. Most popular hashtags: #yoga #yogainspiration #yogapractice #portugal.
 platform: Instagram
 hits: 26
 text_top: Identify the top-rated Instagram profiles on inBeat.

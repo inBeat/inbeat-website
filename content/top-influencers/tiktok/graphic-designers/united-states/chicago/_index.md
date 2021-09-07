@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2020
+title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2021
 description: >-
-  Find top graphic-designers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #graphicdesign #halloween #duet.
+  Find top graphic-designers TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #graphicdesign #halloween #duet.
 platform: TikTok
 hits: 4
 text_top: See the best TikTok profiles on inBeat.

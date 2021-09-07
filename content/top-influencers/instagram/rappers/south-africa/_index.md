@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In South Africa In 2020
+title: Top 10 Rappers Instagram Influencers In South Africa In 2021
 description: >-
-  Find top rappers Instagram influencers in South Africa in 2020. Most popular hashtags: #rapper #southafrica #stayhome.
+  Find top rappers Instagram influencers in South Africa in 2021. Most popular hashtags: #rapper #southafrica #stayhome.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram profiles on inBeat.

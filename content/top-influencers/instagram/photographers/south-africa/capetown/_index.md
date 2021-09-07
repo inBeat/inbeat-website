@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Capetown In 2020
+title: Top 10 Photographers Instagram Influencers In Capetown In 2021
 description: >-
-  Find top photographers Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #photography #photographer.
+  Find top photographers Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #southafrica #photography #photographer.
 platform: Instagram
 hits: 34
 text_top: Analyze the most popular Instagram accounts on inBeat.

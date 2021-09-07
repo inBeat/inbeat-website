@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Barcelona In 2020
+title: Top 10 Fashion Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top fashion Instagram influencers in Barcelona in 2020. Most popular hashtags: #fashion #barcelona #spain #style.
+  Find top fashion Instagram influencers in Barcelona in 2021. Most popular hashtags: #fashion #barcelona #spain #style.
 platform: Instagram
 hits: 197
 text_top: Analyze the best Instagram profiles on inBeat.

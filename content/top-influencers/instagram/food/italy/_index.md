@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Italy In 2020
+title: Top 10 Food Instagram Influencers In Italy In 2021
 description: >-
-  Find top food Instagram influencers in Italy in 2020. Most popular hashtags: #love #travel #travelphotography.
+  Find top food Instagram influencers in Italy in 2021. Most popular hashtags: #love #travel #travelphotography.
 platform: Instagram
 hits: 2126
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Switzerland In 2020
+title: Top 10 Gaming TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top gaming TikTok influencers in Switzerland in 2020. Most popular hashtags: #gaming #foryou #fyp #fortnite.
+  Find top gaming TikTok influencers in Switzerland in 2021. Most popular hashtags: #gaming #foryou #fyp #fortnite.
 platform: TikTok
 hits: 25
 text_top: Identify the best TikTok profiles on inBeat.

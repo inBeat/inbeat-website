@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In London In 2020
+title: Top 10 Food Instagram Influencers In London In 2021
 description: >-
-  Find top food Instagram influencers in London in 2020. Most popular hashtags: #london #londonfood #londonfoodie #foodporn.
+  Find top food Instagram influencers in London in 2021. Most popular hashtags: #london #londonfood #londonfoodie #foodporn.
 platform: Instagram
 hits: 504
 text_top: Analyze the top-rated Instagram accounts on inBeat.

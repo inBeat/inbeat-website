@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Germany In 2020
+title: Top 10 Fashion TikTok Influencers In Germany In 2021
 description: >-
-  Find top fashion TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #foryou #fashion #tiktoktipps.
+  Find top fashion TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #foryou #fashion #tiktoktipps.
 platform: TikTok
 hits: 249
 text_top: Identify the most popular TikTok accounts on inBeat.

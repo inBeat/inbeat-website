@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hip-Hop TikTok Influencers In 2020
+title: Top 10 Hip-Hop TikTok Influencers In 2021
 description: >-
-  Find top hip-hop TikTok influencers in 2020. Most popular hashtags: #fyp #duet #foryou #viral.
+  Find top hip-hop TikTok influencers in 2021. Most popular hashtags: #fyp #duet #foryou #viral.
 platform: TikTok
 hits: 1396
 text_top: Discover the best TikTok accounts on inBeat.

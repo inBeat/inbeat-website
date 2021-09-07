@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Finland In 2020
+title: Top 10 Wellness Instagram Influencers In Finland In 2021
 description: >-
-  Find top wellness Instagram influencers in Finland in 2020. Most popular hashtags: #wellness #fitness #finnishgirl #lifestyle.
+  Find top wellness Instagram influencers in Finland in 2021. Most popular hashtags: #wellness #fitness #finnishgirl #lifestyle.
 platform: Instagram
 hits: 30
 text_top: Identify the top-rated Instagram influencers on inBeat.

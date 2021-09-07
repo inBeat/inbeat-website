@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Austria In 2020
+title: Top 10 Photographers Instagram Influencers In Austria In 2021
 description: >-
-  Find top photographers Instagram influencers in Austria in 2020. Most popular hashtags: #portraits #vienna #streetstyle.
+  Find top photographers Instagram influencers in Austria in 2021. Most popular hashtags: #portraits #vienna #streetstyle.
 platform: Instagram
 hits: 155
 text_top: See the best Instagram accounts on inBeat.

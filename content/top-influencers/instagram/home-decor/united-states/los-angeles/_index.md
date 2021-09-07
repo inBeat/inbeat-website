@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2020
+title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top home decor Instagram influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
+  Find top home decor Instagram influencers in Los Angeles in 2021. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
 platform: Instagram
 hits: 115
 text_top: Identify the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In France In 2020
+title: Top 10 Bloggers Instagram Influencers In France In 2021
 description: >-
-  Find top bloggers Instagram influencers in France in 2020. Most popular hashtags: #ootd #frenchgirl #concours.
+  Find top bloggers Instagram influencers in France in 2021. Most popular hashtags: #ootd #frenchgirl #concours.
 platform: Instagram
 hits: 937
 text_top: See the top-rated Instagram accounts on inBeat.

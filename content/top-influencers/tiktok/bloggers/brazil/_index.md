@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Brazil In 2020
+title: Top 10 Bloggers TikTok Influencers In Brazil In 2021
 description: >-
-  Find top bloggers TikTok influencers in Brazil in 2020. Most popular hashtags: #tiktok #blogger #foryou #fyp.
+  Find top bloggers TikTok influencers in Brazil in 2021. Most popular hashtags: #tiktok #blogger #foryou #fyp.
 platform: TikTok
 hits: 12
 text_top: Analyze the best TikTok influencers on inBeat.

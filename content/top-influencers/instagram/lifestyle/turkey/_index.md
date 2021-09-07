@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Turkey In 2020
+title: Top 10 Lifestyle Instagram Influencers In Turkey In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Turkey in 2020. Most popular hashtags: #gezilecekyerler #blogger #dog.
+  Find top lifestyle Instagram influencers in Turkey in 2021. Most popular hashtags: #gezilecekyerler #blogger #dog.
 platform: Instagram
 hits: 624
 text_top: See the most popular Instagram profiles on inBeat.

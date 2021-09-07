@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Malaysia In 2020
+title: Top 10 Chefs Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top chefs Instagram influencers in Malaysia in 2020. Most popular hashtags: #foodie #foodporn #dessert #sweet.
+  Find top chefs Instagram influencers in Malaysia in 2021. Most popular hashtags: #foodie #foodporn #dessert #sweet.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram profiles on inBeat.

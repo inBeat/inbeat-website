@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Tokyo In 2020
+title: Top 10 Stylists Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top stylists Instagram influencers in Tokyo in 2020. Most popular hashtags: #fashion #repost #ootd #art.
+  Find top stylists Instagram influencers in Tokyo in 2021. Most popular hashtags: #fashion #repost #ootd #art.
 platform: Instagram
 hits: 27
 text_top: Discover the most popular Instagram influencers on inBeat.

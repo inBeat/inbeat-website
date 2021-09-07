@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Sydney In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Sydney In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Sydney in 2020. Most popular hashtags: #sydneytattoo #tattooartist #tattoo #sydneytattooartist.
+  Find top tattoo-artists Instagram influencers in Sydney in 2021. Most popular hashtags: #sydneytattoo #tattooartist #tattoo #sydneytattooartist.
 platform: Instagram
 hits: 15
 text_top: See the most popular Instagram accounts on inBeat.

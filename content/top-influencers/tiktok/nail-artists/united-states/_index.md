@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In United States In 2020
+title: Top 10 Nail Artists TikTok Influencers In United States In 2021
 description: >-
-  Find top nail artists TikTok influencers in United States in 2020. Most popular hashtags: #nails #fyp #nailart #nailtech.
+  Find top nail artists TikTok influencers in United States in 2021. Most popular hashtags: #nails #fyp #nailart #nailtech.
 platform: TikTok
 hits: 151
 text_top: Discover the best TikTok accounts on inBeat.

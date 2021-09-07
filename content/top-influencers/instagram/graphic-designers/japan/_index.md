@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Japan in 2020. Most popular hashtags: #graphicdesign #japan #photoshop.
+  Find top graphic-designers Instagram influencers in Japan in 2021. Most popular hashtags: #graphicdesign #japan #photoshop.
 platform: Instagram
 hits: 27
 text_top: Identify the most popular Instagram accounts on inBeat.

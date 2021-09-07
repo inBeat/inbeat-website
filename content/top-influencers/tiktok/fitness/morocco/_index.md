@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Morocco In 2020
+title: Top 10 Fitness TikTok Influencers In Morocco In 2021
 description: >-
-  Find top fitness TikTok influencers in Morocco in 2020. Most popular hashtags: #fitness #foryou #fyp #maroc.
+  Find top fitness TikTok influencers in Morocco in 2021. Most popular hashtags: #fitness #foryou #fyp #maroc.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok profiles on inBeat.

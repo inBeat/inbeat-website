@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Las Vegas In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #football #graphicdesign.
+  Find top graphic-designers Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #football #graphicdesign.
 platform: Instagram
 hits: 4
 text_top: Analyze the most popular Instagram accounts on inBeat.

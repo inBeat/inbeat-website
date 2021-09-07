@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In San Diego In 2020
+title: Top 10 Fitness Instagram Influencers In San Diego In 2021
 description: >-
-  Find top fitness Instagram influencers in San Diego in 2020. Most popular hashtags: #fitness #sandiego #love.
+  Find top fitness Instagram influencers in San Diego in 2021. Most popular hashtags: #fitness #sandiego #love.
 platform: Instagram
 hits: 192
 text_top: Analyze the best Instagram profiles on inBeat.

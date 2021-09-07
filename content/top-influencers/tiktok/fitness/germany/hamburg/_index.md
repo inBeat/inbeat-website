@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Hamburg In 2020
+title: Top 10 Fitness TikTok Influencers In Hamburg In 2021
 description: >-
-  Find top fitness TikTok influencers in Hamburg in 2020. Most popular hashtags: #fitness #hamburg #viral #foryou.
+  Find top fitness TikTok influencers in Hamburg in 2021. Most popular hashtags: #fitness #hamburg #viral #foryou.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok profiles on inBeat.

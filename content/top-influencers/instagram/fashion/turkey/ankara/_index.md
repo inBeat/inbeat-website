@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Ankara In 2020
+title: Top 10 Fashion Instagram Influencers In Ankara In 2021
 description: >-
-  Find top fashion Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #fashion #love #istanbul.
+  Find top fashion Instagram influencers in Ankara in 2021. Most popular hashtags: #ankara #fashion #love #istanbul.
 platform: Instagram
 hits: 94
 text_top: Analyze the best Instagram profiles on inBeat.

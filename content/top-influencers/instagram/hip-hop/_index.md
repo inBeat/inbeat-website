@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hip-Hop Instagram Influencers In 2020
+title: Top 10 Hip-Hop Instagram Influencers In 2021
 description: >-
-  Find top hip-hop Instagram influencers in 2020. Most popular hashtags: #hiphop #pic #freestyle.
+  Find top hip-hop Instagram influencers in 2021. Most popular hashtags: #hiphop #pic #freestyle.
 platform: Instagram
 hits: 7499
 text_top: Identify the most popular Instagram profiles on inBeat.

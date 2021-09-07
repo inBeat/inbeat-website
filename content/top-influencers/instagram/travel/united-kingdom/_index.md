@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In United Kingdom In 2020
+title: Top 10 Travel Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top travel Instagram influencers in United Kingdom in 2020. Most popular hashtags: #travelblogger #london #ukblogger.
+  Find top travel Instagram influencers in United Kingdom in 2021. Most popular hashtags: #travelblogger #london #ukblogger.
 platform: Instagram
 hits: 2825
 text_top: See the most popular Instagram influencers on inBeat.

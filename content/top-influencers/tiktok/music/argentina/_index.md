@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Argentina In 2020
+title: Top 10 Music TikTok Influencers In Argentina In 2021
 description: >-
-  Find top music TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #fyp #viral #argentina.
+  Find top music TikTok influencers in Argentina in 2021. Most popular hashtags: #parati #fyp #viral #argentina.
 platform: TikTok
 hits: 160
 text_top: Discover the best TikTok influencers on inBeat.

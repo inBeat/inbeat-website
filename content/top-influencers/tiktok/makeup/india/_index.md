@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In India In 2020
+title: Top 10 Makeup TikTok Influencers In India In 2021
 description: >-
-  Find top makeup TikTok influencers in India in 2020. Most popular hashtags: #foryoupage #foryou #tiktokindia #trending.
+  Find top makeup TikTok influencers in India in 2021. Most popular hashtags: #foryoupage #foryou #tiktokindia #trending.
 platform: TikTok
 hits: 530
 text_top: See the top-rated TikTok influencers on inBeat.

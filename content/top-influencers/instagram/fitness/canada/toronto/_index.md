@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Toronto In 2020
+title: Top 10 Fitness Instagram Influencers In Toronto In 2021
 description: >-
-  Find top fitness Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #fitness #torontofitness #fitnessmotivation.
+  Find top fitness Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #fitness #torontofitness #fitnessmotivation.
 platform: Instagram
 hits: 166
 text_top: See the top-rated Instagram profiles on inBeat.

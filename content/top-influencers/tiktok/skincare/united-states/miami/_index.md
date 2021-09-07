@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Miami In 2020
+title: Top 10 Skincare TikTok Influencers In Miami In 2021
 description: >-
-  Find top skincare TikTok influencers in Miami in 2020. Most popular hashtags: #duet #fyp #skincare #miami.
+  Find top skincare TikTok influencers in Miami in 2021. Most popular hashtags: #duet #fyp #skincare #miami.
 platform: TikTok
 hits: 43
 text_top: See the most popular TikTok influencers on inBeat.

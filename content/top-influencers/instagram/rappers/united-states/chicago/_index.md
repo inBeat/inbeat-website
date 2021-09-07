@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Chicago In 2020
+title: Top 10 Rappers Instagram Influencers In Chicago In 2021
 description: >-
-  Find top rappers Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #rapper #music #love.
+  Find top rappers Instagram influencers in Chicago in 2021. Most popular hashtags: #chicago #rapper #music #love.
 platform: Instagram
 hits: 46
 text_top: Analyze the best Instagram profiles on inBeat.

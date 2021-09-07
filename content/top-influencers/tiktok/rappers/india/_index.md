@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In India In 2020
+title: Top 10 Rappers TikTok Influencers In India In 2021
 description: >-
-  Find top rappers TikTok influencers in India in 2020. Most popular hashtags: #foryou #fyp #trending #duet.
+  Find top rappers TikTok influencers in India in 2021. Most popular hashtags: #foryou #fyp #trending #duet.
 platform: TikTok
 hits: 69
 text_top: Discover the top-rated TikTok profiles on inBeat.

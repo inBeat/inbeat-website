@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In United States In 2020
+title: Top 10 Guitar TikTok Influencers In United States In 2021
 description: >-
-  Find top guitar TikTok influencers in United States in 2020. Most popular hashtags: #guitar #fyp #duet #guitarist.
+  Find top guitar TikTok influencers in United States in 2021. Most popular hashtags: #guitar #fyp #duet #guitarist.
 platform: TikTok
 hits: 864
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Germany In 2020
+title: Top 10 Beauty Instagram Influencers In Germany In 2021
 description: >-
-  Find top beauty Instagram influencers in Germany in 2020. Most popular hashtags: #ootd #outfitinspiration #fashionblogger #outfitoftheday.
+  Find top beauty Instagram influencers in Germany in 2021. Most popular hashtags: #ootd #outfitinspiration #fashionblogger #outfitoftheday.
 platform: Instagram
 hits: 4620
 text_top: See the best Instagram profiles on inBeat.

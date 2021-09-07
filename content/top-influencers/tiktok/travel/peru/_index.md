@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Peru In 2020
+title: Top 10 Travel TikTok Influencers In Peru In 2021
 description: >-
-  Find top travel TikTok influencers in Peru in 2020. Most popular hashtags: #parati #travel #peru #fyp.
+  Find top travel TikTok influencers in Peru in 2021. Most popular hashtags: #parati #travel #peru #fyp.
 platform: TikTok
 hits: 40
 text_top: See the top-rated TikTok profiles on inBeat.

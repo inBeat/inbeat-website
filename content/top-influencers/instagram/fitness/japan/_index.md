@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Japan In 2020
+title: Top 10 Fitness Instagram Influencers In Japan In 2021
 description: >-
-  Find top fitness Instagram influencers in Japan in 2020. Most popular hashtags: #fitness #workout #abs.
+  Find top fitness Instagram influencers in Japan in 2021. Most popular hashtags: #fitness #workout #abs.
 platform: Instagram
 hits: 198
 text_top: Analyze the most popular Instagram influencers on inBeat.

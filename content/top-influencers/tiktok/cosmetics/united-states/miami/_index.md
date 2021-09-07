@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Miami In 2020
+title: Top 10 Cosmetics TikTok Influencers In Miami In 2021
 description: >-
-  Find top cosmetics TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
+  Find top cosmetics TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
 platform: TikTok
 hits: 5
 text_top: Identify the most popular TikTok accounts on inBeat.

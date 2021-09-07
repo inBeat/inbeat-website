@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Las Vegas In 2020
+title: Top 10 Makeup TikTok Influencers In Las Vegas In 2021
 description: >-
-  Find top makeup TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fyp #makeup #lasvegas #foryou.
+  Find top makeup TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #makeup #lasvegas #foryou.
 platform: TikTok
 hits: 58
 text_top: Identify the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chile In 2020
+title: Top 10 Architecture Instagram Influencers In Chile In 2021
 description: >-
-  Find top architecture Instagram influencers in Chile in 2020. Most popular hashtags: #architecture #chile #city #drone.
+  Find top architecture Instagram influencers in Chile in 2021. Most popular hashtags: #architecture #chile #city #drone.
 platform: Instagram
 hits: 16
 text_top: Discover the most popular Instagram influencers on inBeat.

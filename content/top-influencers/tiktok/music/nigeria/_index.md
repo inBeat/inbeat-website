@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Nigeria In 2020
+title: Top 10 Music TikTok Influencers In Nigeria In 2021
 description: >-
-  Find top music TikTok influencers in Nigeria in 2020. Most popular hashtags: #foryoupage #fyp #foryou #music.
+  Find top music TikTok influencers in Nigeria in 2021. Most popular hashtags: #foryoupage #fyp #foryou #music.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok influencers on inBeat.

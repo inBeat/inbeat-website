@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Dallas In 2020
+title: Top 10 Nutrition Instagram Influencers In Dallas In 2021
 description: >-
-  Find top nutrition Instagram influencers in Dallas in 2020. Most popular hashtags: #fitness #dallas #texas.
+  Find top nutrition Instagram influencers in Dallas in 2021. Most popular hashtags: #fitness #dallas #texas.
 platform: Instagram
 hits: 29
 text_top: See the most popular Instagram influencers on inBeat.

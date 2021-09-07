@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Spain In 2020
+title: Top 10 Nutrition Instagram Influencers In Spain In 2021
 description: >-
-  Find top nutrition Instagram influencers in Spain in 2020. Most popular hashtags: #fitness #fit #running.
+  Find top nutrition Instagram influencers in Spain in 2021. Most popular hashtags: #fitness #fit #running.
 platform: Instagram
 hits: 235
 text_top: Discover the most popular Instagram profiles on inBeat.

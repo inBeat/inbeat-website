@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In India In 2020
+title: Top 10 Crossfit Instagram Influencers In India In 2021
 description: >-
-  Find top crossfit Instagram influencers in India in 2020. Most popular hashtags: #crossfit #instagood #instagram #fashion.
+  Find top crossfit Instagram influencers in India in 2021. Most popular hashtags: #crossfit #instagood #instagram #fashion.
 platform: Instagram
 hits: 104
 text_top: Identify the best Instagram influencers on inBeat.

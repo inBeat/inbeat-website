@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In France In 2020
+title: Top 10 Bakers TikTok Influencers In France In 2021
 description: >-
-  Find top bakers TikTok influencers in France in 2020. Most popular hashtags: #foryou #fyp #pourtoi #viral.
+  Find top bakers TikTok influencers in France in 2021. Most popular hashtags: #foryou #fyp #pourtoi #viral.
 platform: TikTok
 hits: 11
 text_top: See the most popular TikTok accounts on inBeat.

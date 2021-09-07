@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Miami In 2020
+title: Top 10 Yoga Instagram Influencers In Miami In 2021
 description: >-
-  Find top yoga Instagram influencers in Miami in 2020. Most popular hashtags: #yoga #miami #yogateacher #yogainspiration.
+  Find top yoga Instagram influencers in Miami in 2021. Most popular hashtags: #yoga #miami #yogateacher #yogainspiration.
 platform: Instagram
 hits: 105
 text_top: Identify the most popular Instagram profiles on inBeat.

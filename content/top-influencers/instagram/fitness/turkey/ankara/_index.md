@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ankara In 2020
+title: Top 10 Fitness Instagram Influencers In Ankara In 2021
 description: >-
-  Find top fitness Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #fitness #istanbul #fit.
+  Find top fitness Instagram influencers in Ankara in 2021. Most popular hashtags: #ankara #fitness #istanbul #fit.
 platform: Instagram
 hits: 31
 text_top: See the top-rated Instagram accounts on inBeat.

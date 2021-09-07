@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Morocco In 2020
+title: Top 10 Cooking TikTok Influencers In Morocco In 2021
 description: >-
-  Find top cooking TikTok influencers in Morocco in 2020. Most popular hashtags: #foryou #cooking #love #tiktok.
+  Find top cooking TikTok influencers in Morocco in 2021. Most popular hashtags: #foryou #cooking #love #tiktok.
 platform: TikTok
 hits: 10
 text_top: See the best TikTok accounts on inBeat.

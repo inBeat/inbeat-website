@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Australia In 2020
+title: Top 10 Gardening TikTok Influencers In Australia In 2021
 description: >-
-  Find top gardening TikTok influencers in Australia in 2020. Most popular hashtags: #gardening #garden #plants #australia.
+  Find top gardening TikTok influencers in Australia in 2021. Most popular hashtags: #gardening #garden #plants #australia.
 platform: TikTok
 hits: 43
 text_top: Identify the best TikTok accounts on inBeat.

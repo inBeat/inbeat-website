@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Morocco In 2020
+title: Top 10 Food Instagram Influencers In Morocco In 2021
 description: >-
-  Find top food Instagram influencers in Morocco in 2020. Most popular hashtags: #food #maroc #photooftheday.
+  Find top food Instagram influencers in Morocco in 2021. Most popular hashtags: #food #maroc #photooftheday.
 platform: Instagram
 hits: 52
 text_top: Analyze the best Instagram profiles on inBeat.

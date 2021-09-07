@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bogotá In 2020
+title: Top 10 Vegan Instagram Influencers In Bogotá In 2021
 description: >-
-  Find top vegan Instagram influencers in Bogotá in 2020. Most popular hashtags: #colombia #love #foodporn #vegan.
+  Find top vegan Instagram influencers in Bogotá in 2021. Most popular hashtags: #colombia #love #foodporn #vegan.
 platform: Instagram
 hits: 5
 text_top: Analyze the most popular Instagram profiles on inBeat.

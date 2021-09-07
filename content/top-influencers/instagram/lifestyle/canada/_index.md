@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Canada In 2020
+title: Top 10 Lifestyle Instagram Influencers In Canada In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Canada in 2020. Most popular hashtags: #prettylittlething #gifted #ad.
+  Find top lifestyle Instagram influencers in Canada in 2021. Most popular hashtags: #prettylittlething #gifted #ad.
 platform: Instagram
 hits: 801
 text_top: Identify the top-rated Instagram accounts on inBeat.

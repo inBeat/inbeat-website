@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Finland In 2020
+title: Top 10 Makeup TikTok Influencers In Finland In 2021
 description: >-
-  Find top makeup TikTok influencers in Finland in 2020. Most popular hashtags: #makeup #foryou #fyp #finland.
+  Find top makeup TikTok influencers in Finland in 2021. Most popular hashtags: #makeup #foryou #fyp #finland.
 platform: TikTok
 hits: 16
 text_top: Analyze the top-rated TikTok influencers on inBeat.

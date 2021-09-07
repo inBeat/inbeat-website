@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Brazil In 2020
+title: Top 10 Gardening Instagram Influencers In Brazil In 2021
 description: >-
-  Find top gardening Instagram influencers in Brazil in 2020. Most popular hashtags: #gardening #jardim #garden #landscapedesign.
+  Find top gardening Instagram influencers in Brazil in 2021. Most popular hashtags: #gardening #jardim #garden #landscapedesign.
 platform: Instagram
 hits: 27
 text_top: Analyze the best Instagram accounts on inBeat.

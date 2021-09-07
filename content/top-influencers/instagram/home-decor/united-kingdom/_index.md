@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In United Kingdom In 2020
+title: Top 10 Home Decor Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top home decor Instagram influencers in United Kingdom in 2020. Most popular hashtags: #homedecor #home #interior #autumn.
+  Find top home decor Instagram influencers in United Kingdom in 2021. Most popular hashtags: #homedecor #home #interior #autumn.
 platform: Instagram
 hits: 555
 text_top: See the top-rated Instagram profiles on inBeat.

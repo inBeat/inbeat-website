@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Brisbane In 2020
+title: Top 10 Health Instagram Influencers In Brisbane In 2021
 description: >-
-  Find top health Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #love #health #goldcoast.
+  Find top health Instagram influencers in Brisbane in 2021. Most popular hashtags: #brisbane #love #health #goldcoast.
 platform: Instagram
 hits: 52
 text_top: See the most popular Instagram accounts on inBeat.

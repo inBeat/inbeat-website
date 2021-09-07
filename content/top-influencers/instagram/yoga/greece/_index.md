@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Greece In 2020
+title: Top 10 Yoga Instagram Influencers In Greece In 2021
 description: >-
-  Find top yoga Instagram influencers in Greece in 2020. Most popular hashtags: #yoga #yogapractice #love #yogainspiration.
+  Find top yoga Instagram influencers in Greece in 2021. Most popular hashtags: #yoga #yogapractice #love #yogainspiration.
 platform: Instagram
 hits: 41
 text_top: See the top-rated Instagram profiles on inBeat.

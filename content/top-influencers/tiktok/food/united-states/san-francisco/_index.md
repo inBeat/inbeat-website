@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In San Francisco In 2020
+title: Top 10 Food TikTok Influencers In San Francisco In 2021
 description: >-
-  Find top food TikTok influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #food #foodie #fyp.
+  Find top food TikTok influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #food #foodie #fyp.
 platform: TikTok
 hits: 37
 text_top: Identify the most popular TikTok influencers on inBeat.

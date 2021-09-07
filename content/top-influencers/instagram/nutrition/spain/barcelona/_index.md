@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Barcelona In 2020
+title: Top 10 Nutrition Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top nutrition Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #spain #fit #love.
+  Find top nutrition Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #spain #fit #love.
 platform: Instagram
 hits: 31
 text_top: Identify the most popular Instagram accounts on inBeat.

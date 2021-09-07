@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Ireland In 2020
+title: Top 10 Food TikTok Influencers In Ireland In 2021
 description: >-
-  Find top food TikTok influencers in Ireland in 2020. Most popular hashtags: #fyp #food #foodie #duet.
+  Find top food TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #food #foodie #duet.
 platform: TikTok
 hits: 41
 text_top: Discover the best TikTok accounts on inBeat.

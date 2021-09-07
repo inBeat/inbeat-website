@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Switzerland In 2020
+title: Top 10 Cinema Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top cinema Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #photography #zurich #cinematic.
+  Find top cinema Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #photography #zurich #cinematic.
 platform: Instagram
 hits: 36
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Belgium In 2020
+title: Top 10 Fitness TikTok Influencers In Belgium In 2021
 description: >-
-  Find top fitness TikTok influencers in Belgium in 2020. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
+  Find top fitness TikTok influencers in Belgium in 2021. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok accounts on inBeat.

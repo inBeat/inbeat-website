@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In United States In 2020
+title: Top 10 Photographers Instagram Influencers In United States In 2021
 description: >-
-  Find top photographers Instagram influencers in United States in 2020. Most popular hashtags: #bnw #art #beach.
+  Find top photographers Instagram influencers in United States in 2021. Most popular hashtags: #bnw #art #beach.
 platform: Instagram
 hits: 8491
 text_top: See the best Instagram influencers on inBeat.

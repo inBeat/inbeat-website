@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Switzerland In 2020
+title: Top 10 Cooking Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top cooking Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #cooking #schweiz #healthyfood.
+  Find top cooking Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #cooking #schweiz #healthyfood.
 platform: Instagram
 hits: 122
 text_top: See the most popular Instagram profiles on inBeat.

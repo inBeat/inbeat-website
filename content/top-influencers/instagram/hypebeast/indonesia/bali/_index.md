@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Bali In 2020
+title: Top 10 Hypebeast Instagram Influencers In Bali In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Bali in 2020. Most popular hashtags: #hypebeast #bali #baliindonesia #exploreindonesia.
+  Find top hypebeast Instagram influencers in Bali in 2021. Most popular hashtags: #hypebeast #bali #baliindonesia #exploreindonesia.
 platform: Instagram
 hits: 17
 text_top: See the top-rated Instagram accounts on inBeat.

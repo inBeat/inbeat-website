@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Canada In 2020
+title: Top 10 Fashion TikTok Influencers In Canada In 2021
 description: >-
-  Find top fashion TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #duet #fashion #fallfashion.
+  Find top fashion TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #duet #fashion #fallfashion.
 platform: TikTok
 hits: 999
 text_top: Discover the best TikTok accounts on inBeat.

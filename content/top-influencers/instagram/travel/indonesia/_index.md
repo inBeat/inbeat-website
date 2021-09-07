@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Indonesia In 2020
+title: Top 10 Travel Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top travel Instagram influencers in Indonesia in 2020. Most popular hashtags: #indonesia #balivibes #travelphotography.
+  Find top travel Instagram influencers in Indonesia in 2021. Most popular hashtags: #indonesia #balivibes #travelphotography.
 platform: Instagram
 hits: 2059
 text_top: Analyze the best Instagram influencers on inBeat.

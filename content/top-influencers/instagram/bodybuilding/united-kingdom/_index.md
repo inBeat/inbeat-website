@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2020
+title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gymlife #bodybuilding #fitness #motivation.
+  Find top bodybuilding Instagram influencers in United Kingdom in 2021. Most popular hashtags: #gymlife #bodybuilding #fitness #motivation.
 platform: Instagram
 hits: 185
 text_top: Analyze the best Instagram profiles on inBeat.

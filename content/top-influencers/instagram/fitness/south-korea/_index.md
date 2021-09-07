@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In South Korea In 2020
+title: Top 10 Fitness Instagram Influencers In South Korea In 2021
 description: >-
-  Find top fitness Instagram influencers in South Korea in 2020. Most popular hashtags: #bodyprofile #repost #korea.
+  Find top fitness Instagram influencers in South Korea in 2021. Most popular hashtags: #bodyprofile #repost #korea.
 platform: Instagram
 hits: 68
 text_top: Discover the best Instagram influencers on inBeat.

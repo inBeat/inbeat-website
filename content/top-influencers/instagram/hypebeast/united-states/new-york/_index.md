@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In New York In 2020
+title: Top 10 Hypebeast Instagram Influencers In New York In 2021
 description: >-
-  Find top hypebeast Instagram influencers in New York in 2020. Most popular hashtags: #newyork #hypebeast #nyc #moodygrams.
+  Find top hypebeast Instagram influencers in New York in 2021. Most popular hashtags: #newyork #hypebeast #nyc #moodygrams.
 platform: Instagram
 hits: 100
 text_top: Analyze the top-rated Instagram accounts on inBeat.

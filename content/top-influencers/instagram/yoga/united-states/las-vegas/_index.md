@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Las Vegas In 2020
+title: Top 10 Yoga Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top yoga Instagram influencers in Las Vegas in 2020. Most popular hashtags: #yoga #lasvegas #balance #california.
+  Find top yoga Instagram influencers in Las Vegas in 2021. Most popular hashtags: #yoga #lasvegas #balance #california.
 platform: Instagram
 hits: 41
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Indonesia In 2020
+title: Top 10 Bmx Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top bmx Instagram influencers in Indonesia in 2020. Most popular hashtags: #bmx #staysafe #bmxlife #indonesia.
+  Find top bmx Instagram influencers in Indonesia in 2021. Most popular hashtags: #bmx #staysafe #bmxlife #indonesia.
 platform: Instagram
 hits: 35
 text_top: Analyze the top-rated Instagram accounts on inBeat.

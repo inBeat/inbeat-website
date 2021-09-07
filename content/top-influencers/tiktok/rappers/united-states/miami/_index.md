@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Miami In 2020
+title: Top 10 Rappers TikTok Influencers In Miami In 2021
 description: >-
-  Find top rappers TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #miami #florida #foryou.
+  Find top rappers TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #miami #florida #foryou.
 platform: TikTok
 hits: 16
 text_top: Identify the best TikTok influencers on inBeat.

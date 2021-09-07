@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Greece In 2020
+title: Top 10 Makeup TikTok Influencers In Greece In 2021
 description: >-
-  Find top makeup TikTok influencers in Greece in 2020. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
+  Find top makeup TikTok influencers in Greece in 2021. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
 platform: TikTok
 hits: 19
 text_top: Discover the most popular TikTok influencers on inBeat.

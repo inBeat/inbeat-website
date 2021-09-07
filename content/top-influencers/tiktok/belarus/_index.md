@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Belarus In 2020
+title: Top 10 TikTok Influencers In Belarus In 2021
 description: >-
-  Find top TikTok influencers in Belarus in 2020. Most popular hashtags: #capcut #freefiregame #freefire.
+  Find top TikTok influencers in Belarus in 2021. Most popular hashtags: #capcut #freefiregame #freefire.
 platform: TikTok
 hits: 159
 text_top: Identify the best TikTok profiles on inBeat.

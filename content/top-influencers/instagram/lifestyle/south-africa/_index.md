@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In South Africa In 2020
+title: Top 10 Lifestyle Instagram Influencers In South Africa In 2021
 description: >-
-  Find top lifestyle Instagram influencers in South Africa in 2020. Most popular hashtags: #streetstyle #sponsored #hmsouthafrica.
+  Find top lifestyle Instagram influencers in South Africa in 2021. Most popular hashtags: #streetstyle #sponsored #hmsouthafrica.
 platform: Instagram
 hits: 141
 text_top: See the best Instagram profiles on inBeat.

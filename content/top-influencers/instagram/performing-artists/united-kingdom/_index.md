@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In United Kingdom In 2020
+title: Top 10 Performing Artists Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top performing artists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #dance #performing #dancer.
+  Find top performing artists Instagram influencers in United Kingdom in 2021. Most popular hashtags: #dance #performing #dancer.
 platform: Instagram
 hits: 12
 text_top: Analyze the top-rated Instagram profiles on inBeat.

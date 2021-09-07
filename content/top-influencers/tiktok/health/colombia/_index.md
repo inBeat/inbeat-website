@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Colombia In 2020
+title: Top 10 Health TikTok Influencers In Colombia In 2021
 description: >-
-  Find top health TikTok influencers in Colombia in 2020. Most popular hashtags: #fyp #colombia #parati #viral.
+  Find top health TikTok influencers in Colombia in 2021. Most popular hashtags: #fyp #colombia #parati #viral.
 platform: TikTok
 hits: 10
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Switzerland In 2020
+title: Top 10 Dancers TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top dancers TikTok influencers in Switzerland in 2020. Most popular hashtags: #dance #viral #trend #fyp.
+  Find top dancers TikTok influencers in Switzerland in 2021. Most popular hashtags: #dance #viral #trend #fyp.
 platform: TikTok
 hits: 14
 text_top: See the most popular TikTok accounts on inBeat.

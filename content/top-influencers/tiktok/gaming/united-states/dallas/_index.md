@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Dallas In 2020
+title: Top 10 Gaming TikTok Influencers In Dallas In 2021
 description: >-
-  Find top gaming TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #foryou #foryoupage #gaming.
+  Find top gaming TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #foryou #foryoupage #gaming.
 platform: TikTok
 hits: 11
 text_top: Analyze the top-rated TikTok influencers on inBeat.

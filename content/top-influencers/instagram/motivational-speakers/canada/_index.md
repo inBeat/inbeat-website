@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Canada In 2020
+title: Top 10 Motivational Speakers Instagram Influencers In Canada In 2021
 description: >-
-  Find top motivational speakers Instagram influencers in Canada in 2020. Most popular hashtags: #motivation #motivationalspeaker #motivationalquotes #love.
+  Find top motivational speakers Instagram influencers in Canada in 2021. Most popular hashtags: #motivation #motivationalspeaker #motivationalquotes #love.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram influencers on inBeat.

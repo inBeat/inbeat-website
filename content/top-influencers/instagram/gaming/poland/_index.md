@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Poland In 2020
+title: Top 10 Gaming Instagram Influencers In Poland In 2021
 description: >-
-  Find top gaming Instagram influencers in Poland in 2020. Most popular hashtags: #gaming #gamer #polishgirl #gamergirl.
+  Find top gaming Instagram influencers in Poland in 2021. Most popular hashtags: #gaming #gamer #polishgirl #gamergirl.
 platform: Instagram
 hits: 40
 text_top: See the most popular Instagram profiles on inBeat.

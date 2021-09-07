@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Colombia In 2020
+title: Top 10 Food TikTok Influencers In Colombia In 2021
 description: >-
-  Find top food TikTok influencers in Colombia in 2020. Most popular hashtags: #food #parati #viral #comida.
+  Find top food TikTok influencers in Colombia in 2021. Most popular hashtags: #food #parati #viral #comida.
 platform: TikTok
 hits: 27
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Italy In 2020
+title: Top 10 Beauty Instagram Influencers In Italy In 2021
 description: >-
-  Find top beauty Instagram influencers in Italy in 2020. Most popular hashtags: #fashion #glammakeup #undiscovered #mesaudamilano.
+  Find top beauty Instagram influencers in Italy in 2021. Most popular hashtags: #fashion #glammakeup #undiscovered #mesaudamilano.
 platform: Instagram
 hits: 3834
 text_top: Discover the best Instagram accounts on inBeat.

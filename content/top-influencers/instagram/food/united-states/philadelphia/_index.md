@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Philadelphia In 2020
+title: Top 10 Food Instagram Influencers In Philadelphia In 2021
 description: >-
-  Find top food Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #philly #food.
+  Find top food Instagram influencers in Philadelphia in 2021. Most popular hashtags: #philadelphia #philly #food.
 platform: Instagram
 hits: 38
 text_top: Identify the best Instagram accounts on inBeat.

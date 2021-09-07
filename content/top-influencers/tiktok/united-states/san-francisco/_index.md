@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In San Francisco In 2020
+title: Top 10 TikTok Influencers In San Francisco In 2021
 description: >-
-  Find top TikTok influencers in San Francisco in 2020. Most popular hashtags: #duet #sanfrancisco #biden2020 #california.
+  Find top TikTok influencers in San Francisco in 2021. Most popular hashtags: #duet #sanfrancisco #biden2020 #california.
 platform: TikTok
 hits: 354
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Portugal In 2020
+title: Top 10 Cosmetics Instagram Influencers In Portugal In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #fashion #makeup #makeupartist.
+  Find top cosmetics Instagram influencers in Portugal in 2021. Most popular hashtags: #portugal #fashion #makeup #makeupartist.
 platform: Instagram
 hits: 24
 text_top: Identify the most popular Instagram influencers on inBeat.

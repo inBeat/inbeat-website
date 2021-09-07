@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Turin In 2020
+title: Top 10 Food Instagram Influencers In Turin In 2021
 description: >-
-  Find top food Instagram influencers in Turin in 2020. Most popular hashtags: #torino #food #turin #piemonte.
+  Find top food Instagram influencers in Turin in 2021. Most popular hashtags: #torino #food #turin #piemonte.
 platform: Instagram
 hits: 23
 text_top: Discover the most popular Instagram influencers on inBeat.

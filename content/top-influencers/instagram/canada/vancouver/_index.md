@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Vancouver In 2020
+title: Top 10 Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top Instagram influencers in Vancouver in 2020. Most popular hashtags: #yvr #plt #pltbabe.
+  Find top Instagram influencers in Vancouver in 2021. Most popular hashtags: #yvr #plt #pltbabe.
 platform: Instagram
 hits: 1398
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Norway In 2020
+title: Top 10 Models Instagram Influencers In Norway In 2021
 description: >-
-  Find top models Instagram influencers in Norway in 2020. Most popular hashtags: #norway #model #oslo.
+  Find top models Instagram influencers in Norway in 2021. Most popular hashtags: #norway #model #oslo.
 platform: Instagram
 hits: 60
 text_top: Discover the best Instagram influencers on inBeat.

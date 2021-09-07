@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Tokyo In 2020
+title: Top 10 Athletes Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top athletes Instagram influencers in Tokyo in 2020. Most popular hashtags: #sports #tokyo #japan #workout.
+  Find top athletes Instagram influencers in Tokyo in 2021. Most popular hashtags: #sports #tokyo #japan #workout.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.

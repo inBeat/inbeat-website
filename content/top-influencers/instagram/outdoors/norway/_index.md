@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Norway In 2020
+title: Top 10 Outdoors Instagram Influencers In Norway In 2021
 description: >-
-  Find top outdoors Instagram influencers in Norway in 2020. Most popular hashtags: #norway #norge #utno.
+  Find top outdoors Instagram influencers in Norway in 2021. Most popular hashtags: #norway #norge #utno.
 platform: Instagram
 hits: 195
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Colombia In 2020
+title: Top 10 Guitar Instagram Influencers In Colombia In 2021
 description: >-
-  Find top guitar Instagram influencers in Colombia in 2020. Most popular hashtags: #guitar #guitarist #music.
+  Find top guitar Instagram influencers in Colombia in 2021. Most popular hashtags: #guitar #guitarist #music.
 platform: Instagram
 hits: 39
 text_top: Identify the most popular Instagram profiles on inBeat.

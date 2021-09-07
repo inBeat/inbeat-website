@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In France In 2020
+title: Top 10 Food TikTok Influencers In France In 2021
 description: >-
-  Find top food TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #food #foryou #fyp.
+  Find top food TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #food #foryou #fyp.
 platform: TikTok
 hits: 246
 text_top: Identify the top-rated TikTok influencers on inBeat.

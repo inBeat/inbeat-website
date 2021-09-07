@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In France In 2020
+title: Top 10 Vegan Instagram Influencers In France In 2021
 description: >-
-  Find top vegan Instagram influencers in France in 2020. Most popular hashtags: #shooting #model #france.
+  Find top vegan Instagram influencers in France in 2021. Most popular hashtags: #shooting #model #france.
 platform: Instagram
 hits: 501
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Kyoto In 2020
+title: Top 10 Models Instagram Influencers In Kyoto In 2021
 description: >-
-  Find top models Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #model #japan #fashion.
+  Find top models Instagram influencers in Kyoto in 2021. Most popular hashtags: #kyoto #model #japan #fashion.
 platform: Instagram
 hits: 25
 text_top: See the top-rated Instagram accounts on inBeat.

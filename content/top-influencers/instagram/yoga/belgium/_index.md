@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Belgium In 2020
+title: Top 10 Yoga Instagram Influencers In Belgium In 2021
 description: >-
-  Find top yoga Instagram influencers in Belgium in 2020. Most popular hashtags: #yoga #yogainspiration #nature #handstand.
+  Find top yoga Instagram influencers in Belgium in 2021. Most popular hashtags: #yoga #yogainspiration #nature #handstand.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram profiles on inBeat.

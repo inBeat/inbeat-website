@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Singapore In 2020
+title: Top 10 Yoga Instagram Influencers In Singapore In 2021
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2020. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
+  Find top yoga Instagram influencers in Singapore in 2021. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
 platform: Instagram
 hits: 14
 text_top: Identify the top-rated Instagram influencers on inBeat.

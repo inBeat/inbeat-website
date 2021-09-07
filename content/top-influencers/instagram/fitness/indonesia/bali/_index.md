@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bali In 2020
+title: Top 10 Fitness Instagram Influencers In Bali In 2021
 description: >-
-  Find top fitness Instagram influencers in Bali in 2020. Most popular hashtags: #bali #fitness #indonesia #holiday.
+  Find top fitness Instagram influencers in Bali in 2021. Most popular hashtags: #bali #fitness #indonesia #holiday.
 platform: Instagram
 hits: 68
 text_top: See the best Instagram accounts on inBeat.

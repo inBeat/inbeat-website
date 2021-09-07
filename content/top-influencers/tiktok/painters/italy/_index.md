@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Italy In 2020
+title: Top 10 Painters TikTok Influencers In Italy In 2021
 description: >-
-  Find top painters TikTok influencers in Italy in 2020. Most popular hashtags: #perte #art #foryou #artist.
+  Find top painters TikTok influencers in Italy in 2021. Most popular hashtags: #perte #art #foryou #artist.
 platform: TikTok
 hits: 30
 text_top: See the best TikTok influencers on inBeat.

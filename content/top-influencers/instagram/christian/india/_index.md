@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In India In 2020
+title: Top 10 Christian Instagram Influencers In India In 2021
 description: >-
-  Find top christian Instagram influencers in India in 2020. Most popular hashtags: #love #swag #christian.
+  Find top christian Instagram influencers in India in 2021. Most popular hashtags: #love #swag #christian.
 platform: Instagram
 hits: 255
 text_top: See the top-rated Instagram profiles on inBeat.

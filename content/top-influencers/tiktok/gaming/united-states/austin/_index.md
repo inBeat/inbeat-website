@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Austin In 2020
+title: Top 10 Gaming TikTok Influencers In Austin In 2021
 description: >-
-  Find top gaming TikTok influencers in Austin in 2020. Most popular hashtags: #gaming #fyp #duet #foryou.
+  Find top gaming TikTok influencers in Austin in 2021. Most popular hashtags: #gaming #fyp #duet #foryou.
 platform: TikTok
 hits: 54
 text_top: Identify the most popular TikTok influencers on inBeat.

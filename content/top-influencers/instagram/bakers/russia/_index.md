@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Russia In 2020
+title: Top 10 Bakers Instagram Influencers In Russia In 2021
 description: >-
-  Find top bakers Instagram influencers in Russia in 2020. Most popular hashtags: #baker #bakery #instafood.
+  Find top bakers Instagram influencers in Russia in 2021. Most popular hashtags: #baker #bakery #instafood.
 platform: Instagram
 hits: 116
 text_top: See the top-rated Instagram accounts on inBeat.

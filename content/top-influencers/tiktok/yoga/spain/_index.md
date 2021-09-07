@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Spain In 2020
+title: Top 10 Yoga TikTok Influencers In Spain In 2021
 description: >-
-  Find top yoga TikTok influencers in Spain in 2020. Most popular hashtags: #foryou #yoga #fyp #parati.
+  Find top yoga TikTok influencers in Spain in 2021. Most popular hashtags: #foryou #yoga #fyp #parati.
 platform: TikTok
 hits: 12
 text_top: Analyze the best TikTok profiles on inBeat.

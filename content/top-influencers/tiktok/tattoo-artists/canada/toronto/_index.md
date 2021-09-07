@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Toronto In 2020
+title: Top 10 Tattoo-Artists TikTok Influencers In Toronto In 2021
 description: >-
-  Find top tattoo-artists TikTok influencers in Toronto in 2020. Most popular hashtags: #tattoo #fyp #tattooartist #tattoos.
+  Find top tattoo-artists TikTok influencers in Toronto in 2021. Most popular hashtags: #tattoo #fyp #tattooartist #tattoos.
 platform: TikTok
 hits: 5
 text_top: Discover the best TikTok profiles on inBeat.

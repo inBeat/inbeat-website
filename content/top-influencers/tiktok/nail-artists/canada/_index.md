@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In Canada In 2020
+title: Top 10 Nail Artists TikTok Influencers In Canada In 2021
 description: >-
-  Find top nail artists TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryou #nails #nailart.
+  Find top nail artists TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #foryou #nails #nailart.
 platform: TikTok
 hits: 17
 text_top: See the most popular TikTok profiles on inBeat.

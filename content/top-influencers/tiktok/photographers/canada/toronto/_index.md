@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Toronto In 2020
+title: Top 10 Photographers TikTok Influencers In Toronto In 2021
 description: >-
-  Find top photographers TikTok influencers in Toronto in 2020. Most popular hashtags: #photographer #toronto #fyp #photography.
+  Find top photographers TikTok influencers in Toronto in 2021. Most popular hashtags: #photographer #toronto #fyp #photography.
 platform: TikTok
 hits: 20
 text_top: Discover the top-rated TikTok accounts on inBeat.

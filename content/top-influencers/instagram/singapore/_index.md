@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Singapore In 2020
+title: Top 10 Instagram Influencers In Singapore In 2021
 description: >-
-  Find top Instagram influencers in Singapore in 2020. Most popular hashtags: #sp #tokyobustexpress #beautifuldestinations.
+  Find top Instagram influencers in Singapore in 2021. Most popular hashtags: #sp #tokyobustexpress #beautifuldestinations.
 platform: Instagram
 hits: 688
 text_top: Analyze the most popular Instagram profiles on inBeat.

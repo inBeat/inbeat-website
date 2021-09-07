@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bangkok In 2020
+title: Top 10 Yoga Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top yoga Instagram influencers in Bangkok in 2020. Most popular hashtags: #yoga #thailand #love #fitness.
+  Find top yoga Instagram influencers in Bangkok in 2021. Most popular hashtags: #yoga #thailand #love #fitness.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram profiles on inBeat.

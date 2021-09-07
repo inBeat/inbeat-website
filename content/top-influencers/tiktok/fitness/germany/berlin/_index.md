@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Berlin In 2020
+title: Top 10 Fitness TikTok Influencers In Berlin In 2021
 description: >-
-  Find top fitness TikTok influencers in Berlin in 2020. Most popular hashtags: #fitness #berlin #fyp #foryou.
+  Find top fitness TikTok influencers in Berlin in 2021. Most popular hashtags: #fitness #berlin #fyp #foryou.
 platform: TikTok
 hits: 13
 text_top: See the best TikTok influencers on inBeat.

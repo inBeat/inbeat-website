@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rowing Instagram Influencers In 2020
+title: Top 10 Rowing Instagram Influencers In 2021
 description: >-
-  Find top rowing Instagram influencers in 2020. Most popular hashtags: #rowing #roeien #rudern.
+  Find top rowing Instagram influencers in 2021. Most popular hashtags: #rowing #roeien #rudern.
 platform: Instagram
 hits: 562
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Indonesia In 2020
+title: Top 10 Boxers Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top boxers Instagram influencers in Indonesia in 2020. Most popular hashtags: #lfl #beutikcompany #bonek #bobotoh.
+  Find top boxers Instagram influencers in Indonesia in 2021. Most popular hashtags: #lfl #beutikcompany #bonek #bobotoh.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram profiles on inBeat.

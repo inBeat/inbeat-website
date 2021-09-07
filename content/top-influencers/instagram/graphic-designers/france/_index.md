@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In France In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In France In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in France in 2020. Most popular hashtags: #portrait #style #fashion.
+  Find top graphic-designers Instagram influencers in France in 2021. Most popular hashtags: #portrait #style #fashion.
 platform: Instagram
 hits: 85
 text_top: Analyze the top-rated Instagram influencers on inBeat.

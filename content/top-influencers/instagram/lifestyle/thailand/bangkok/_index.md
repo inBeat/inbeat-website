@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bangkok In 2020
+title: Top 10 Lifestyle Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Bangkok in 2020. Most popular hashtags: #photooftheday #bangkok #lifestyle #thailand.
+  Find top lifestyle Instagram influencers in Bangkok in 2021. Most popular hashtags: #photooftheday #bangkok #lifestyle #thailand.
 platform: Instagram
 hits: 17
 text_top: Discover the most popular Instagram influencers on inBeat.

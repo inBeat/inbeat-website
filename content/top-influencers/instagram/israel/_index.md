@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Israel In 2020
+title: Top 10 Instagram Influencers In Israel In 2021
 description: >-
-  Find top Instagram influencers in Israel in 2020. Most popular hashtags: #nicolzelikman #quarantine #adama.
+  Find top Instagram influencers in Israel in 2021. Most popular hashtags: #nicolzelikman #quarantine #adama.
 platform: Instagram
 hits: 32
 text_top: See the best Instagram profiles on inBeat.

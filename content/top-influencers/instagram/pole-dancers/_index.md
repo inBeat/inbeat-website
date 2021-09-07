@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In 2020
+title: Top 10 Pole Dancers Instagram Influencers In 2021
 description: >-
-  Find top pole dancers Instagram influencers in 2020. Most popular hashtags: #poledancer #poledance #poledancenation #poleart.
+  Find top pole dancers Instagram influencers in 2021. Most popular hashtags: #poledancer #poledance #poledancenation #poleart.
 platform: Instagram
 hits: 707
 text_top: Discover the top-rated Instagram profiles on inBeat.

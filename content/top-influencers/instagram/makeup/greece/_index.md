@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Greece In 2020
+title: Top 10 Makeup Instagram Influencers In Greece In 2021
 description: >-
-  Find top makeup Instagram influencers in Greece in 2020. Most popular hashtags: #makeupartist #makeup #giveaway.
+  Find top makeup Instagram influencers in Greece in 2021. Most popular hashtags: #makeupartist #makeup #giveaway.
 platform: Instagram
 hits: 248
 text_top: Discover the top-rated Instagram profiles on inBeat.

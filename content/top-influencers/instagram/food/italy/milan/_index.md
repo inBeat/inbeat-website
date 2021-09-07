@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Milan In 2020
+title: Top 10 Food Instagram Influencers In Milan In 2021
 description: >-
-  Find top food Instagram influencers in Milan in 2020. Most popular hashtags: #foodporn #milan #food #milano.
+  Find top food Instagram influencers in Milan in 2021. Most popular hashtags: #foodporn #milan #food #milano.
 platform: Instagram
 hits: 271
 text_top: Discover the most popular Instagram influencers on inBeat.

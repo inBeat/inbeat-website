@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Canada In 2020
+title: Top 10 Bloggers Instagram Influencers In Canada In 2021
 description: >-
-  Find top bloggers Instagram influencers in Canada in 2020. Most popular hashtags: #ad #calgary #love.
+  Find top bloggers Instagram influencers in Canada in 2021. Most popular hashtags: #ad #calgary #love.
 platform: Instagram
 hits: 389
 text_top: Analyze the most popular Instagram accounts on inBeat.

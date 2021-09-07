@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Las Vegas In 2020
+title: Top 10 Stylists Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top stylists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #fashion #ootd #losangeles.
+  Find top stylists Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #fashion #ootd #losangeles.
 platform: Instagram
 hits: 31
 text_top: Analyze the top-rated Instagram profiles on inBeat.

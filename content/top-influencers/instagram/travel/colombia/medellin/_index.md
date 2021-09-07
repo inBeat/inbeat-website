@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Medellín In 2020
+title: Top 10 Travel Instagram Influencers In Medellín In 2021
 description: >-
-  Find top travel Instagram influencers in Medellín in 2020. Most popular hashtags: #travel #medellin #colombia #antioquia.
+  Find top travel Instagram influencers in Medellín in 2021. Most popular hashtags: #travel #medellin #colombia #antioquia.
 platform: Instagram
 hits: 61
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Theater Instagram Influencers In 2020
+title: Top 10 Theater Instagram Influencers In 2021
 description: >-
-  Find top theater Instagram influencers in 2020. Most popular hashtags: #summervibes #cinema #portrait.
+  Find top theater Instagram influencers in 2021. Most popular hashtags: #summervibes #cinema #portrait.
 platform: Instagram
 hits: 3579
 text_top: Analyze the best Instagram profiles on inBeat.

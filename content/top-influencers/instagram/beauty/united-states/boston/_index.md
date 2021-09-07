@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Boston In 2020
+title: Top 10 Beauty Instagram Influencers In Boston In 2021
 description: >-
-  Find top beauty Instagram influencers in Boston in 2020. Most popular hashtags: #style #beauty #fashion #photography.
+  Find top beauty Instagram influencers in Boston in 2021. Most popular hashtags: #style #beauty #fashion #photography.
 platform: Instagram
 hits: 123
 text_top: See the most popular Instagram influencers on inBeat.

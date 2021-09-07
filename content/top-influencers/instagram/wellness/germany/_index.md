@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Germany In 2020
+title: Top 10 Wellness Instagram Influencers In Germany In 2021
 description: >-
-  Find top wellness Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #corona #fashionblogger #ootd.
+  Find top wellness Instagram influencers in Germany in 2021. Most popular hashtags: #fitness #corona #fashionblogger #ootd.
 platform: Instagram
 hits: 292
 text_top: Identify the best Instagram profiles on inBeat.

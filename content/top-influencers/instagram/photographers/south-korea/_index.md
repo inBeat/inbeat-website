@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In South Korea In 2020
+title: Top 10 Photographers Instagram Influencers In South Korea In 2021
 description: >-
-  Find top photographers Instagram influencers in South Korea in 2020. Most popular hashtags: #leicam7 #ektar100 #adobepartner.
+  Find top photographers Instagram influencers in South Korea in 2021. Most popular hashtags: #leicam7 #ektar100 #adobepartner.
 platform: Instagram
 hits: 94
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United Kingdom In 2020
+title: Top 10 Architecture Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top architecture Instagram influencers in United Kingdom in 2020. Most popular hashtags: #moodygrams #london #thisislondon.
+  Find top architecture Instagram influencers in United Kingdom in 2021. Most popular hashtags: #moodygrams #london #thisislondon.
 platform: Instagram
 hits: 536
 text_top: Identify the most popular Instagram influencers on inBeat.

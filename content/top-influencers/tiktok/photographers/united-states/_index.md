@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In United States In 2020
+title: Top 10 Photographers TikTok Influencers In United States In 2021
 description: >-
-  Find top photographers TikTok influencers in United States in 2020. Most popular hashtags: #foryou #fyp #duet #photography.
+  Find top photographers TikTok influencers in United States in 2021. Most popular hashtags: #foryou #fyp #duet #photography.
 platform: TikTok
 hits: 1020
 text_top: Identify the best TikTok influencers on inBeat.

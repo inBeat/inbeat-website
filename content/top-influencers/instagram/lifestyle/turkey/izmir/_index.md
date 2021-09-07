@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Izmir In 2020
+title: Top 10 Lifestyle Instagram Influencers In Izmir In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #photooftheday #blogger #like4likes.
+  Find top lifestyle Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #photooftheday #blogger #like4likes.
 platform: Instagram
 hits: 108
 text_top: See the top-rated Instagram accounts on inBeat.

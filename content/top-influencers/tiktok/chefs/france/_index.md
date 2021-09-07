@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In France In 2020
+title: Top 10 Chefs TikTok Influencers In France In 2021
 description: >-
-  Find top chefs TikTok influencers in France in 2020. Most popular hashtags: #food #chef #chocolat #pourtoi.
+  Find top chefs TikTok influencers in France in 2021. Most popular hashtags: #food #chef #chocolat #pourtoi.
 platform: TikTok
 hits: 23
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Food TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top food TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fyp #dubai #foryoupage #uae.
+  Find top food TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #fyp #dubai #foryoupage #uae.
 platform: TikTok
 hits: 88
 text_top: Analyze the best TikTok influencers on inBeat.

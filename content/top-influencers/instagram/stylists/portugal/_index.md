@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Portugal In 2020
+title: Top 10 Stylists Instagram Influencers In Portugal In 2021
 description: >-
-  Find top stylists Instagram influencers in Portugal in 2020. Most popular hashtags: #makeup #fashion #ootd.
+  Find top stylists Instagram influencers in Portugal in 2021. Most popular hashtags: #makeup #fashion #ootd.
 platform: Instagram
 hits: 33
 text_top: Identify the most popular Instagram influencers on inBeat.

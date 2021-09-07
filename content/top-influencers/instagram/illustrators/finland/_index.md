@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Finland In 2020
+title: Top 10 Illustrators Instagram Influencers In Finland In 2021
 description: >-
-  Find top illustrators Instagram influencers in Finland in 2020. Most popular hashtags: #illustration #procreate #drawing.
+  Find top illustrators Instagram influencers in Finland in 2021. Most popular hashtags: #illustration #procreate #drawing.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Ukraine In 2020
+title: Top 10 Cooking TikTok Influencers In Ukraine In 2021
 description: >-
-  Find top cooking TikTok influencers in Ukraine in 2020. Most popular hashtags: #cooking #dessert #yummy #idea.
+  Find top cooking TikTok influencers in Ukraine in 2021. Most popular hashtags: #cooking #dessert #yummy #idea.
 platform: TikTok
 hits: 12
 text_top: See the top-rated TikTok influencers on inBeat.

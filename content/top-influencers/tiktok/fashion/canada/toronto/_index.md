@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Toronto In 2020
+title: Top 10 Fashion TikTok Influencers In Toronto In 2021
 description: >-
-  Find top fashion TikTok influencers in Toronto in 2020. Most popular hashtags: #fashion #toronto #fyp #foryou.
+  Find top fashion TikTok influencers in Toronto in 2021. Most popular hashtags: #fashion #toronto #fyp #foryou.
 platform: TikTok
 hits: 111
 text_top: See the best TikTok influencers on inBeat.

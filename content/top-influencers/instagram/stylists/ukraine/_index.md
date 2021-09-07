@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Ukraine In 2020
+title: Top 10 Stylists Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top stylists Instagram influencers in Ukraine in 2020. Most popular hashtags: #quarantine #fashion #makeup.
+  Find top stylists Instagram influencers in Ukraine in 2021. Most popular hashtags: #quarantine #fashion #makeup.
 platform: Instagram
 hits: 69
 text_top: Identify the best Instagram influencers on inBeat.

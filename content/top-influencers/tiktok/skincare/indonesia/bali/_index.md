@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Bali In 2020
+title: Top 10 Skincare TikTok Influencers In Bali In 2021
 description: >-
-  Find top skincare TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #skincare #foryou #skincareroutine.
+  Find top skincare TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #skincare #foryou #skincareroutine.
 platform: TikTok
 hits: 7
 text_top: Analyze the top-rated TikTok influencers on inBeat.

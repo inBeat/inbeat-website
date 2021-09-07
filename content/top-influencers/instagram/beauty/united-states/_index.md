@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United States In 2020
+title: Top 10 Beauty Instagram Influencers In United States In 2021
 description: >-
-  Find top beauty Instagram influencers in United States in 2020. Most popular hashtags: #ad #casualstyle #makeup.
+  Find top beauty Instagram influencers in United States in 2021. Most popular hashtags: #ad #casualstyle #makeup.
 platform: Instagram
 hits: 25562
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Madrid In 2020
+title: Top 10 Health Instagram Influencers In Madrid In 2021
 description: >-
-  Find top health Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #picoftheday #health #summer.
+  Find top health Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #picoftheday #health #summer.
 platform: Instagram
 hits: 87
 text_top: Identify the most popular Instagram influencers on inBeat.

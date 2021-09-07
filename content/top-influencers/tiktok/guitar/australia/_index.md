@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Australia In 2020
+title: Top 10 Guitar TikTok Influencers In Australia In 2021
 description: >-
-  Find top guitar TikTok influencers in Australia in 2020. Most popular hashtags: #guitar #music #fyp #foryou.
+  Find top guitar TikTok influencers in Australia in 2021. Most popular hashtags: #guitar #music #fyp #foryou.
 platform: TikTok
 hits: 32
 text_top: Discover the best TikTok profiles on inBeat.

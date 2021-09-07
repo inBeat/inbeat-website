@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Miami In 2020
+title: Top 10 Hypebeast TikTok Influencers In Miami In 2021
 description: >-
-  Find top hypebeast TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #foryou #hypebeast #viral.
+  Find top hypebeast TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #foryou #hypebeast #viral.
 platform: TikTok
 hits: 5
 text_top: Identify the best TikTok influencers on inBeat.

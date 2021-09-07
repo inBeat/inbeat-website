@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In San Francisco In 2020
+title: Top 10 Bloggers Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top bloggers Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #sfblogger #travelblogger #neutralstyle.
+  Find top bloggers Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #sfblogger #travelblogger #neutralstyle.
 platform: Instagram
 hits: 58
 text_top: Analyze the best Instagram accounts on inBeat.

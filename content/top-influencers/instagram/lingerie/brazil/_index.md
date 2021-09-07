@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Brazil In 2020
+title: Top 10 Lingerie Instagram Influencers In Brazil In 2021
 description: >-
-  Find top lingerie Instagram influencers in Brazil in 2020. Most popular hashtags: #love #makeup #mood.
+  Find top lingerie Instagram influencers in Brazil in 2021. Most popular hashtags: #love #makeup #mood.
 platform: Instagram
 hits: 373
 text_top: See the top-rated Instagram accounts on inBeat.

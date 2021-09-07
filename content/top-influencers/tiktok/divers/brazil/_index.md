@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Brazil In 2020
+title: Top 10 Divers TikTok Influencers In Brazil In 2021
 description: >-
-  Find top divers TikTok influencers in Brazil in 2020. Most popular hashtags: #dueto #foryou #fyp #fy.
+  Find top divers TikTok influencers in Brazil in 2021. Most popular hashtags: #dueto #foryou #fyp #fy.
 platform: TikTok
 hits: 267
 text_top: Analyze the best TikTok profiles on inBeat.

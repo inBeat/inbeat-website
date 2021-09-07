@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Vancouver In 2020
+title: Top 10 Fitness TikTok Influencers In Vancouver In 2021
 description: >-
-  Find top fitness TikTok influencers in Vancouver in 2020. Most popular hashtags: #vancouver #fitness #fyp #workout.
+  Find top fitness TikTok influencers in Vancouver in 2021. Most popular hashtags: #vancouver #fitness #fyp #workout.
 platform: TikTok
 hits: 18
 text_top: Discover the most popular TikTok influencers on inBeat.

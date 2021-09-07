@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In United States In 2020
+title: Top 10 Music TikTok Influencers In United States In 2021
 description: >-
-  Find top music TikTok influencers in United States in 2020. Most popular hashtags: #fyp #duet #showupshowoff #doitbold.
+  Find top music TikTok influencers in United States in 2021. Most popular hashtags: #fyp #duet #showupshowoff #doitbold.
 platform: TikTok
 hits: 13031
 text_top: Identify the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Spain In 2020
+title: Top 10 Gaming TikTok Influencers In Spain In 2021
 description: >-
-  Find top gaming TikTok influencers in Spain in 2020. Most popular hashtags: #parati #humor #gaming #gamer.
+  Find top gaming TikTok influencers in Spain in 2021. Most popular hashtags: #parati #humor #gaming #gamer.
 platform: TikTok
 hits: 19
 text_top: Discover the most popular TikTok accounts on inBeat.

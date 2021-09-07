@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Greece In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Greece In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Greece in 2020. Most popular hashtags: #bodybuilding #workout #athens #greece.
+  Find top bodybuilding Instagram influencers in Greece in 2021. Most popular hashtags: #bodybuilding #workout #athens #greece.
 platform: Instagram
 hits: 15
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Bogotá In 2020
+title: Top 10 Fashion TikTok Influencers In Bogotá In 2021
 description: >-
-  Find top fashion TikTok influencers in Bogotá in 2020. Most popular hashtags: #parati #colombia #viral #fyp.
+  Find top fashion TikTok influencers in Bogotá in 2021. Most popular hashtags: #parati #colombia #viral #fyp.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok profiles on inBeat.

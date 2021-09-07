@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In New York In 2020
+title: Top 10 Fitness TikTok Influencers In New York In 2021
 description: >-
-  Find top fitness TikTok influencers in New York in 2020. Most popular hashtags: #fitness #newyork #fyp #viral.
+  Find top fitness TikTok influencers in New York in 2021. Most popular hashtags: #fitness #newyork #fyp #viral.
 platform: TikTok
 hits: 94
 text_top: Discover the best TikTok profiles on inBeat.

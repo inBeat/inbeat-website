@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Venezuela In 2020
+title: Top 10 Travel Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top travel Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #model #viajerosoy #blogger.
+  Find top travel Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #model #viajerosoy #blogger.
 platform: Instagram
 hits: 74
 text_top: Discover the most popular Instagram profiles on inBeat.

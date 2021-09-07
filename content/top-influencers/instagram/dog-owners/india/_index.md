@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In India In 2020
+title: Top 10 Dog Owners Instagram Influencers In India In 2021
 description: >-
-  Find top dog owners Instagram influencers in India in 2020. Most popular hashtags: #instagood #love #instagram #nature.
+  Find top dog owners Instagram influencers in India in 2021. Most popular hashtags: #instagood #love #instagram #nature.
 platform: Instagram
 hits: 9
 text_top: Analyze the most popular Instagram influencers on inBeat.

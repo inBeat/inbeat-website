@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Mumbai In 2020
+title: Top 10 Fashion Instagram Influencers In Mumbai In 2021
 description: >-
-  Find top fashion Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #mumbai #instagood #photooftheday.
+  Find top fashion Instagram influencers in Mumbai in 2021. Most popular hashtags: #fashion #mumbai #instagood #photooftheday.
 platform: Instagram
 hits: 1616
 text_top: Discover the best Instagram profiles on inBeat.

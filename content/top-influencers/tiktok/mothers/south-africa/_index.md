@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In South Africa In 2020
+title: Top 10 Mothers TikTok Influencers In South Africa In 2021
 description: >-
-  Find top mothers TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #foryoupage #foryou #southafrica.
+  Find top mothers TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #foryoupage #foryou #southafrica.
 platform: TikTok
 hits: 22
 text_top: Analyze the most popular TikTok influencers on inBeat.

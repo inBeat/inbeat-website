@@ -1,7 +1,7 @@
 ---
-title: Top 10 Marathon TikTok Influencers In 2020
+title: Top 10 Marathon TikTok Influencers In 2021
 description: >-
-  Find top marathon TikTok influencers in 2020. Most popular hashtags: #fyp #runner #foryou #duet.
+  Find top marathon TikTok influencers in 2021. Most popular hashtags: #fyp #runner #foryou #duet.
 platform: TikTok
 hits: 130
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Morocco In 2020
+title: Top 10 Music TikTok Influencers In Morocco In 2021
 description: >-
-  Find top music TikTok influencers in Morocco in 2020. Most popular hashtags: #music #maroc #tiktok #morocco.
+  Find top music TikTok influencers in Morocco in 2021. Most popular hashtags: #music #maroc #tiktok #morocco.
 platform: TikTok
 hits: 19
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Madrid In 2020
+title: Top 10 Food Instagram Influencers In Madrid In 2021
 description: >-
-  Find top food Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #comerenmadrid #foodmadrid #restaurantesmadrid.
+  Find top food Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #comerenmadrid #foodmadrid #restaurantesmadrid.
 platform: Instagram
 hits: 133
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Medellín In 2020
+title: Top 10 TikTok Influencers In Medellín In 2021
 description: >-
-  Find top TikTok influencers in Medellín in 2020. Most popular hashtags: #parati #foryou #fyp #viral.
+  Find top TikTok influencers in Medellín in 2021. Most popular hashtags: #parati #foryou #fyp #viral.
 platform: TikTok
 hits: 99
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Switzerland In 2020
+title: Top 10 Health Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top health Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #zurich #healthylifestyle.
+  Find top health Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #zurich #healthylifestyle.
 platform: Instagram
 hits: 165
 text_top: Identify the best Instagram influencers on inBeat.

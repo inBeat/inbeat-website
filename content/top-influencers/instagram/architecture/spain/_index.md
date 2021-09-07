@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Spain In 2020
+title: Top 10 Architecture Instagram Influencers In Spain In 2021
 description: >-
-  Find top architecture Instagram influencers in Spain in 2020. Most popular hashtags: #spain #travel #barcelona #sunset.
+  Find top architecture Instagram influencers in Spain in 2021. Most popular hashtags: #spain #travel #barcelona #sunset.
 platform: Instagram
 hits: 256
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wrestlers Instagram Influencers In 2020
+title: Top 10 Wrestlers Instagram Influencers In 2021
 description: >-
-  Find top wrestlers Instagram influencers in 2020. Most popular hashtags: #wrestling #aew #allelitewrestling.
+  Find top wrestlers Instagram influencers in 2021. Most popular hashtags: #wrestling #aew #allelitewrestling.
 platform: Instagram
 hits: 580
 text_top: Analyze the most popular Instagram influencers on inBeat.

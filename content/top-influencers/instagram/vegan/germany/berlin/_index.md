@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Berlin In 2020
+title: Top 10 Vegan Instagram Influencers In Berlin In 2021
 description: >-
-  Find top vegan Instagram influencers in Berlin in 2020. Most popular hashtags: #veganberlin #vegandeutschland #vegan #plantbased.
+  Find top vegan Instagram influencers in Berlin in 2021. Most popular hashtags: #veganberlin #vegandeutschland #vegan #plantbased.
 platform: Instagram
 hits: 199
 text_top: See the top-rated Instagram profiles on inBeat.

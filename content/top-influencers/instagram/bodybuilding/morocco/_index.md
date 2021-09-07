@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Morocco In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Morocco In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Morocco in 2020. Most popular hashtags: #fitness #motivation #bodybuilding #workout.
+  Find top bodybuilding Instagram influencers in Morocco in 2021. Most popular hashtags: #fitness #motivation #bodybuilding #workout.
 platform: Instagram
 hits: 13
 text_top: Discover the top-rated Instagram profiles on inBeat.

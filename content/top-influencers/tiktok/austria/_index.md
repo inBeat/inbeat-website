@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Austria In 2020
+title: Top 10 TikTok Influencers In Austria In 2021
 description: >-
-  Find top TikTok influencers in Austria in 2020. Most popular hashtags: #foryou #foryoupage #duett.
+  Find top TikTok influencers in Austria in 2021. Most popular hashtags: #foryou #foryoupage #duett.
 platform: TikTok
 hits: 626
 text_top: See the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Los Angeles In 2020
+title: Top 10 Barbers Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top barbers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #barbershopconnect #barber #haircut #barbers.
+  Find top barbers Instagram influencers in Los Angeles in 2021. Most popular hashtags: #barbershopconnect #barber #haircut #barbers.
 platform: Instagram
 hits: 91
 text_top: Identify the best Instagram influencers on inBeat.

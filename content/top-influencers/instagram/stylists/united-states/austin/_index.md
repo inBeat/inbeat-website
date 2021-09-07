@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Austin In 2020
+title: Top 10 Stylists Instagram Influencers In Austin In 2021
 description: >-
-  Find top stylists Instagram influencers in Austin in 2020. Most popular hashtags: #stylist #fashion #texas.
+  Find top stylists Instagram influencers in Austin in 2021. Most popular hashtags: #stylist #fashion #texas.
 platform: Instagram
 hits: 57
 text_top: Discover the top-rated Instagram profiles on inBeat.

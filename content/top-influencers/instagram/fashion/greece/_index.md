@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Greece In 2020
+title: Top 10 Fashion Instagram Influencers In Greece In 2021
 description: >-
-  Find top fashion Instagram influencers in Greece in 2020. Most popular hashtags: #greece #summer #instagood #photooftheday.
+  Find top fashion Instagram influencers in Greece in 2021. Most popular hashtags: #greece #summer #instagood #photooftheday.
 platform: Instagram
 hits: 452
 text_top: Analyze the top-rated Instagram profiles on inBeat.

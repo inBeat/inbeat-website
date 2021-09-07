@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Japan In 2020
+title: Top 10 Cooking Instagram Influencers In Japan In 2021
 description: >-
-  Find top cooking Instagram influencers in Japan in 2020. Most popular hashtags: #fashion #pr #coordinate.
+  Find top cooking Instagram influencers in Japan in 2021. Most popular hashtags: #fashion #pr #coordinate.
 platform: Instagram
 hits: 298
 text_top: Discover the best Instagram influencers on inBeat.

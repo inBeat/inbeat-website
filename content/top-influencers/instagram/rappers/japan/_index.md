@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Japan In 2020
+title: Top 10 Rappers Instagram Influencers In Japan In 2021
 description: >-
-  Find top rappers Instagram influencers in Japan in 2020. Most popular hashtags: #libere #soberrock #hiphop.
+  Find top rappers Instagram influencers in Japan in 2021. Most popular hashtags: #libere #soberrock #hiphop.
 platform: Instagram
 hits: 21
 text_top: See the top-rated Instagram accounts on inBeat.

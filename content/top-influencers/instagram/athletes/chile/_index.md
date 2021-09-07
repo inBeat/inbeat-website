@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chile In 2020
+title: Top 10 Athletes Instagram Influencers In Chile In 2021
 description: >-
-  Find top athletes Instagram influencers in Chile in 2020. Most popular hashtags: #fitness #fitnessmotivation #training #chile.
+  Find top athletes Instagram influencers in Chile in 2021. Most popular hashtags: #fitness #fitnessmotivation #training #chile.
 platform: Instagram
 hits: 20
 text_top: Discover the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Ukraine In 2020
+title: Top 10 Travel Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top travel Instagram influencers in Ukraine in 2020. Most popular hashtags: #travel #love #photo.
+  Find top travel Instagram influencers in Ukraine in 2021. Most popular hashtags: #travel #love #photo.
 platform: Instagram
 hits: 320
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In San Francisco In 2020
+title: Top 10 Gardening Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top gardening Instagram influencers in San Francisco in 2020. Most popular hashtags: #gardening #garden #nature #flowers.
+  Find top gardening Instagram influencers in San Francisco in 2021. Most popular hashtags: #gardening #garden #nature #flowers.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram accounts on inBeat.

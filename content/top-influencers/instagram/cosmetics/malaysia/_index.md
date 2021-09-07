@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2020
+title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #love #skincare #cosmetics.
+  Find top cosmetics Instagram influencers in Malaysia in 2021. Most popular hashtags: #stayhome #love #skincare #cosmetics.
 platform: Instagram
 hits: 26
 text_top: Analyze the top-rated Instagram profiles on inBeat.

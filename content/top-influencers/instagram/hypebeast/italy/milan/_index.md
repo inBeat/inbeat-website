@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Milan In 2020
+title: Top 10 Hypebeast Instagram Influencers In Milan In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Milan in 2020. Most popular hashtags: #hypebeast #milan #ig #highsnobiety.
+  Find top hypebeast Instagram influencers in Milan in 2021. Most popular hashtags: #hypebeast #milan #ig #highsnobiety.
 platform: Instagram
 hits: 21
 text_top: Discover the best Instagram profiles on inBeat.

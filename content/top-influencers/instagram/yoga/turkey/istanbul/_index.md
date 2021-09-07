@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Istanbul In 2020
+title: Top 10 Yoga Instagram Influencers In Istanbul In 2021
 description: >-
-  Find top yoga Instagram influencers in Istanbul in 2020. Most popular hashtags: #yoga #istanbul #love #instagram.
+  Find top yoga Instagram influencers in Istanbul in 2021. Most popular hashtags: #yoga #istanbul #love #instagram.
 platform: Instagram
 hits: 54
 text_top: Analyze the top-rated Instagram profiles on inBeat.

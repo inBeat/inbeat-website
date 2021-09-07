@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Poland In 2020
+title: Top 10 Vegan Instagram Influencers In Poland In 2021
 description: >-
-  Find top vegan Instagram influencers in Poland in 2020. Most popular hashtags: #girl #kobieta #woman #warsaw.
+  Find top vegan Instagram influencers in Poland in 2021. Most popular hashtags: #girl #kobieta #woman #warsaw.
 platform: Instagram
 hits: 330
 text_top: Identify the top-rated Instagram profiles on inBeat.

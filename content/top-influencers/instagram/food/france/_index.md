@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In France In 2020
+title: Top 10 Food Instagram Influencers In France In 2021
 description: >-
-  Find top food Instagram influencers in France in 2020. Most popular hashtags: #concours #parisienne #lookdujour.
+  Find top food Instagram influencers in France in 2021. Most popular hashtags: #concours #parisienne #lookdujour.
 platform: Instagram
 hits: 1873
 text_top: Analyze the best Instagram accounts on inBeat.

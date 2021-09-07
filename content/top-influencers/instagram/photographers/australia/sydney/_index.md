@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Sydney In 2020
+title: Top 10 Photographers Instagram Influencers In Sydney In 2021
 description: >-
-  Find top photographers Instagram influencers in Sydney in 2020. Most popular hashtags: #tlpicks #seeaustralia #voyaged.
+  Find top photographers Instagram influencers in Sydney in 2021. Most popular hashtags: #tlpicks #seeaustralia #voyaged.
 platform: Instagram
 hits: 162
 text_top: Identify the best Instagram accounts on inBeat.

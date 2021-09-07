@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Indonesia In 2020
+title: Top 10 Bloggers Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top bloggers Instagram influencers in Indonesia in 2020. Most popular hashtags: #clozetteid #bloggerindonesia #beautybloggerindonesia #motd.
+  Find top bloggers Instagram influencers in Indonesia in 2021. Most popular hashtags: #clozetteid #bloggerindonesia #beautybloggerindonesia #motd.
 platform: Instagram
 hits: 196
 text_top: Identify the top-rated Instagram accounts on inBeat.

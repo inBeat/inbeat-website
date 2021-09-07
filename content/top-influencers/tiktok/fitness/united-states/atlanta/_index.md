@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Atlanta In 2020
+title: Top 10 Fitness TikTok Influencers In Atlanta In 2021
 description: >-
-  Find top fitness TikTok influencers in Atlanta in 2020. Most popular hashtags: #fitness #workout #atlanta #fyp.
+  Find top fitness TikTok influencers in Atlanta in 2021. Most popular hashtags: #fitness #workout #atlanta #fyp.
 platform: TikTok
 hits: 24
 text_top: Identify the best TikTok accounts on inBeat.

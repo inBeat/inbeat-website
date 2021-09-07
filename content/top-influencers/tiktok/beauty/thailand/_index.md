@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Thailand In 2020
+title: Top 10 Beauty TikTok Influencers In Thailand In 2021
 description: >-
-  Find top beauty TikTok influencers in Thailand in 2020. Most popular hashtags: #beauty #fyp #foryoupage #zoommyface.
+  Find top beauty TikTok influencers in Thailand in 2021. Most popular hashtags: #beauty #fyp #foryoupage #zoommyface.
 platform: TikTok
 hits: 21
 text_top: See the top-rated TikTok profiles on inBeat.

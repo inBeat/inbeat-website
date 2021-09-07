@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Poland In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Poland In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Poland in 2020. Most popular hashtags: #tattoo #tattooart #polandtattoos #black.
+  Find top tattoo-artists Instagram influencers in Poland in 2021. Most popular hashtags: #tattoo #tattooart #polandtattoos #black.
 platform: Instagram
 hits: 100
 text_top: Discover the best Instagram profiles on inBeat.

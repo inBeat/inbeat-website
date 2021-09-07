@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Australia In 2020
+title: Top 10 Rappers TikTok Influencers In Australia In 2021
 description: >-
-  Find top rappers TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
+  Find top rappers TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
 platform: TikTok
 hits: 19
 text_top: Identify the best TikTok influencers on inBeat.

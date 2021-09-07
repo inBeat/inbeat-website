@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In San Francisco In 2020
+title: Top 10 Stylists Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top stylists Instagram influencers in San Francisco in 2020. Most popular hashtags: #beauty #bayareafoodie #sanfrancisco.
+  Find top stylists Instagram influencers in San Francisco in 2021. Most popular hashtags: #beauty #bayareafoodie #sanfrancisco.
 platform: Instagram
 hits: 23
 text_top: Identify the most popular Instagram accounts on inBeat.

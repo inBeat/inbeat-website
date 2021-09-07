@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Brazil In 2020
+title: Top 10 Models Instagram Influencers In Brazil In 2021
 description: >-
-  Find top models Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #beyonce #challenge.
+  Find top models Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #beyonce #challenge.
 platform: Instagram
 hits: 4656
 text_top: Identify the most popular Instagram profiles on inBeat.

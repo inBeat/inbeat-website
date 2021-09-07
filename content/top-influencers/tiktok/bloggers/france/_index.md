@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In France In 2020
+title: Top 10 Bloggers TikTok Influencers In France In 2021
 description: >-
-  Find top bloggers TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #france #foryou #tiktoktravel.
+  Find top bloggers TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #france #foryou #tiktoktravel.
 platform: TikTok
 hits: 12
 text_top: Identify the most popular TikTok profiles on inBeat.

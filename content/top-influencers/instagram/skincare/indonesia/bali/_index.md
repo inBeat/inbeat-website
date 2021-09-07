@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Bali In 2020
+title: Top 10 Skincare Instagram Influencers In Bali In 2021
 description: >-
-  Find top skincare Instagram influencers in Bali in 2020. Most popular hashtags: #bali #skincare #balilife #indonesia.
+  Find top skincare Instagram influencers in Bali in 2021. Most popular hashtags: #bali #skincare #balilife #indonesia.
 platform: Instagram
 hits: 88
 text_top: See the most popular Instagram profiles on inBeat.

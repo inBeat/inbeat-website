@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Dallas In 2020
+title: Top 10 Fitness Instagram Influencers In Dallas In 2021
 description: >-
-  Find top fitness Instagram influencers in Dallas in 2020. Most popular hashtags: #fitness #workout #fit.
+  Find top fitness Instagram influencers in Dallas in 2021. Most popular hashtags: #fitness #workout #fit.
 platform: Instagram
 hits: 227
 text_top: See the best Instagram influencers on inBeat.

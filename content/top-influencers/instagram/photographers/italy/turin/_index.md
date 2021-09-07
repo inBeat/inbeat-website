@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Turin In 2020
+title: Top 10 Photographers Instagram Influencers In Turin In 2021
 description: >-
-  Find top photographers Instagram influencers in Turin in 2020. Most popular hashtags: #ig #portrait #italy #italian.
+  Find top photographers Instagram influencers in Turin in 2021. Most popular hashtags: #ig #portrait #italy #italian.
 platform: Instagram
 hits: 20
 text_top: Identify the most popular Instagram influencers on inBeat.

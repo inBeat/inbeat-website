@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Morocco In 2020
+title: Top 10 Cosmetics Instagram Influencers In Morocco In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Morocco in 2020. Most popular hashtags: #fashion #makeup #style #beauty.
+  Find top cosmetics Instagram influencers in Morocco in 2021. Most popular hashtags: #fashion #makeup #style #beauty.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram accounts on inBeat.

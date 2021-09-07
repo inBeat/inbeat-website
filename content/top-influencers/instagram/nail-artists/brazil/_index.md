@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Brazil In 2020
+title: Top 10 Nail Artists Instagram Influencers In Brazil In 2021
 description: >-
-  Find top nail artists Instagram influencers in Brazil in 2020. Most popular hashtags: #nailart #nails #nailartist #unhaslindas.
+  Find top nail artists Instagram influencers in Brazil in 2021. Most popular hashtags: #nailart #nails #nailartist #unhaslindas.
 platform: Instagram
 hits: 45
 text_top: Discover the best Instagram profiles on inBeat.

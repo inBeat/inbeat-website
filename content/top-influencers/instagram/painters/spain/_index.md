@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Spain In 2020
+title: Top 10 Painters Instagram Influencers In Spain In 2021
 description: >-
-  Find top painters Instagram influencers in Spain in 2020. Most popular hashtags: #art #contemporaryart #artist #artistsoninstagram.
+  Find top painters Instagram influencers in Spain in 2021. Most popular hashtags: #art #contemporaryart #artist #artistsoninstagram.
 platform: Instagram
 hits: 161
 text_top: Discover the top-rated Instagram influencers on inBeat.

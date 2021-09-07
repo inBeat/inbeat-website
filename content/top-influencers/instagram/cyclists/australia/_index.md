@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Australia In 2020
+title: Top 10 Cyclists Instagram Influencers In Australia In 2021
 description: >-
-  Find top cyclists Instagram influencers in Australia in 2020. Most popular hashtags: #offseason #cycling #foodie.
+  Find top cyclists Instagram influencers in Australia in 2021. Most popular hashtags: #offseason #cycling #foodie.
 platform: Instagram
 hits: 34
 text_top: Identify the top-rated Instagram influencers on inBeat.

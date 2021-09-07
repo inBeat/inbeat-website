@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Colombia In 2020
+title: Top 10 Gaming TikTok Influencers In Colombia In 2021
 description: >-
-  Find top gaming TikTok influencers in Colombia in 2020. Most popular hashtags: #colombia #parati #comedia #viral.
+  Find top gaming TikTok influencers in Colombia in 2021. Most popular hashtags: #colombia #parati #comedia #viral.
 platform: TikTok
 hits: 26
 text_top: Discover the top-rated TikTok influencers on inBeat.

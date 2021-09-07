@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Canada In 2020
+title: Top 10 Fitness TikTok Influencers In Canada In 2021
 description: >-
-  Find top fitness TikTok influencers in Canada in 2020. Most popular hashtags: #fitness #workout #squat #duet.
+  Find top fitness TikTok influencers in Canada in 2021. Most popular hashtags: #fitness #workout #squat #duet.
 platform: TikTok
 hits: 295
 text_top: Discover the most popular TikTok profiles on inBeat.

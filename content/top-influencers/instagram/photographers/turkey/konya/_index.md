@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Konya In 2020
+title: Top 10 Photographers Instagram Influencers In Konya In 2021
 description: >-
-  Find top photographers Instagram influencers in Konya in 2020. Most popular hashtags: #konya #turkey #nature #istanbul.
+  Find top photographers Instagram influencers in Konya in 2021. Most popular hashtags: #konya #turkey #nature #istanbul.
 platform: Instagram
 hits: 29
 text_top: See the most popular Instagram accounts on inBeat.

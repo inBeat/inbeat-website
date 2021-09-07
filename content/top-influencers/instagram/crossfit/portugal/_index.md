@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Portugal In 2020
+title: Top 10 Crossfit Instagram Influencers In Portugal In 2021
 description: >-
-  Find top crossfit Instagram influencers in Portugal in 2020. Most popular hashtags: #crossfit #portugal #fitness #bodybuilding.
+  Find top crossfit Instagram influencers in Portugal in 2021. Most popular hashtags: #crossfit #portugal #fitness #bodybuilding.
 platform: Instagram
 hits: 12
 text_top: See the top-rated Instagram accounts on inBeat.

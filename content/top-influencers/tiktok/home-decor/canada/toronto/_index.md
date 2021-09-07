@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Toronto In 2020
+title: Top 10 Home Decor TikTok Influencers In Toronto In 2021
 description: >-
-  Find top home decor TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #homedecor #foryou #foryoupage.
+  Find top home decor TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #homedecor #foryou #foryoupage.
 platform: TikTok
 hits: 20
 text_top: Discover the best TikTok influencers on inBeat.

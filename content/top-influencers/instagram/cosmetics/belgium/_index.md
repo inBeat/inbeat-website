@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Belgium In 2020
+title: Top 10 Cosmetics Instagram Influencers In Belgium In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Belgium in 2020. Most popular hashtags: #belgium #makeup #makeupartist #autumnvibes.
+  Find top cosmetics Instagram influencers in Belgium in 2021. Most popular hashtags: #belgium #makeup #makeupartist #autumnvibes.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram influencers on inBeat.

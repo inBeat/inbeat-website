@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Phoenix In 2020
+title: Top 10 Beauty Instagram Influencers In Phoenix In 2021
 description: >-
-  Find top beauty Instagram influencers in Phoenix in 2020. Most popular hashtags: #beauty #phoenix #scottsdale #arizona.
+  Find top beauty Instagram influencers in Phoenix in 2021. Most popular hashtags: #beauty #phoenix #scottsdale #arizona.
 platform: Instagram
 hits: 78
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Miami In 2020
+title: Top 10 Beauty Instagram Influencers In Miami In 2021
 description: >-
-  Find top beauty Instagram influencers in Miami in 2020. Most popular hashtags: #beauty #miami #miamibeach #love.
+  Find top beauty Instagram influencers in Miami in 2021. Most popular hashtags: #beauty #miami #miamibeach #love.
 platform: Instagram
 hits: 565
 text_top: Analyze the most popular Instagram profiles on inBeat.

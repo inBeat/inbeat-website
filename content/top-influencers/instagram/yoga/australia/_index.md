@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Australia In 2020
+title: Top 10 Yoga Instagram Influencers In Australia In 2021
 description: >-
-  Find top yoga Instagram influencers in Australia in 2020. Most popular hashtags: #yogagram #yoga #igyoga.
+  Find top yoga Instagram influencers in Australia in 2021. Most popular hashtags: #yogagram #yoga #igyoga.
 platform: Instagram
 hits: 186
 text_top: Identify the top-rated Instagram accounts on inBeat.

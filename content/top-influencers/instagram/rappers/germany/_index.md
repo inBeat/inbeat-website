@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Germany In 2020
+title: Top 10 Rappers Instagram Influencers In Germany In 2021
 description: >-
-  Find top rappers Instagram influencers in Germany in 2020. Most popular hashtags: #deutschrap #deutschrapnewcomer #songwriter.
+  Find top rappers Instagram influencers in Germany in 2021. Most popular hashtags: #deutschrap #deutschrapnewcomer #songwriter.
 platform: Instagram
 hits: 94
 text_top: Identify the most popular Instagram influencers on inBeat.

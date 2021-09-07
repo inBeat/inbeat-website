@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Australia In 2020
+title: Top 10 Athletes TikTok Influencers In Australia In 2021
 description: >-
-  Find top athletes TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #australia #athlete.
+  Find top athletes TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #australia #athlete.
 platform: TikTok
 hits: 27
 text_top: Analyze the best TikTok influencers on inBeat.

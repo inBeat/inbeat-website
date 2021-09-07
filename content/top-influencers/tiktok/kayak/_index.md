@@ -1,7 +1,7 @@
 ---
-title: Top 10 Kayak TikTok Influencers In 2020
+title: Top 10 Kayak TikTok Influencers In 2021
 description: >-
-  Find top kayak TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #kayak #nature.
+  Find top kayak TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #kayak #nature.
 platform: TikTok
 hits: 291
 text_top: Discover the top-rated TikTok influencers on inBeat.

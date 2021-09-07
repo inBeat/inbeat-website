@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Dallas In 2020
+title: Top 10 Fashion Instagram Influencers In Dallas In 2021
 description: >-
-  Find top fashion Instagram influencers in Dallas in 2020. Most popular hashtags: #fashion #dallas #ootd #explore.
+  Find top fashion Instagram influencers in Dallas in 2021. Most popular hashtags: #fashion #dallas #ootd #explore.
 platform: Instagram
 hits: 343
 text_top: Discover the top-rated Instagram influencers on inBeat.

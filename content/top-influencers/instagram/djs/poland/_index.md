@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Poland In 2020
+title: Top 10 Djs Instagram Influencers In Poland In 2021
 description: >-
-  Find top djs Instagram influencers in Poland in 2020. Most popular hashtags: #dj #summer #polishgirl #beautiful.
+  Find top djs Instagram influencers in Poland in 2021. Most popular hashtags: #dj #summer #polishgirl #beautiful.
 platform: Instagram
 hits: 24
 text_top: See the most popular Instagram influencers on inBeat.

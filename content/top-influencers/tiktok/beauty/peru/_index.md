@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Peru In 2020
+title: Top 10 Beauty TikTok Influencers In Peru In 2021
 description: >-
-  Find top beauty TikTok influencers in Peru in 2020. Most popular hashtags: #fyp #foryou #parati #beauty.
+  Find top beauty TikTok influencers in Peru in 2021. Most popular hashtags: #fyp #foryou #parati #beauty.
 platform: TikTok
 hits: 18
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Canada In 2020
+title: Top 10 Home Decor Instagram Influencers In Canada In 2021
 description: >-
-  Find top home decor Instagram influencers in Canada in 2020. Most popular hashtags: #homedecor #momlife #canadian #decor.
+  Find top home decor Instagram influencers in Canada in 2021. Most popular hashtags: #homedecor #momlife #canadian #decor.
 platform: Instagram
 hits: 199
 text_top: Discover the top-rated Instagram influencers on inBeat.

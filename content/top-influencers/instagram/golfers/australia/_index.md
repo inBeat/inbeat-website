@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Australia In 2020
+title: Top 10 Golfers Instagram Influencers In Australia In 2021
 description: >-
-  Find top golfers Instagram influencers in Australia in 2020. Most popular hashtags: #golfswing #golf #golfer.
+  Find top golfers Instagram influencers in Australia in 2021. Most popular hashtags: #golfswing #golf #golfer.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram accounts on inBeat.

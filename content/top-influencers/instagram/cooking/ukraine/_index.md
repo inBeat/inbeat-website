@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Ukraine In 2020
+title: Top 10 Cooking Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top cooking Instagram influencers in Ukraine in 2020. Most popular hashtags: #cooking #food #photooftheday #smile.
+  Find top cooking Instagram influencers in Ukraine in 2021. Most popular hashtags: #cooking #food #photooftheday #smile.
 platform: Instagram
 hits: 26
 text_top: Analyze the top-rated Instagram accounts on inBeat.

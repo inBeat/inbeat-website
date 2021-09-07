@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Spain In 2020
+title: Top 10 Chefs Instagram Influencers In Spain In 2021
 description: >-
-  Find top chefs Instagram influencers in Spain in 2020. Most popular hashtags: #recetassaludables #cocinasaludable #foodporn #halloween.
+  Find top chefs Instagram influencers in Spain in 2021. Most popular hashtags: #recetassaludables #cocinasaludable #foodporn #halloween.
 platform: Instagram
 hits: 118
 text_top: Identify the best Instagram accounts on inBeat.

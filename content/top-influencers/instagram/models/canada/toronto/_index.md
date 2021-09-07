@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Toronto In 2020
+title: Top 10 Models Instagram Influencers In Toronto In 2021
 description: >-
-  Find top models Instagram influencers in Toronto in 2020. Most popular hashtags: #model #toronto #fashion #style.
+  Find top models Instagram influencers in Toronto in 2021. Most popular hashtags: #model #toronto #fashion #style.
 platform: Instagram
 hits: 185
 text_top: See the top-rated Instagram profiles on inBeat.

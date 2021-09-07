@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In France In 2020
+title: Top 10 Hair Dressers Instagram Influencers In France In 2021
 description: >-
-  Find top hair dressers Instagram influencers in France in 2020. Most popular hashtags: #hairstyles #dresses #hairstyle #hair.
+  Find top hair dressers Instagram influencers in France in 2021. Most popular hashtags: #hairstyles #dresses #hairstyle #hair.
 platform: Instagram
 hits: 18
 text_top: See the most popular Instagram influencers on inBeat.

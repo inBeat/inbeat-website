@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Peru In 2020
+title: Top 10 Guitar TikTok Influencers In Peru In 2021
 description: >-
-  Find top guitar TikTok influencers in Peru in 2020. Most popular hashtags: #fyp #peru #guitar #foryou.
+  Find top guitar TikTok influencers in Peru in 2021. Most popular hashtags: #fyp #peru #guitar #foryou.
 platform: TikTok
 hits: 15
 text_top: Identify the top-rated TikTok accounts on inBeat.

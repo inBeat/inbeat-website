@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Norway In 2020
+title: Top 10 Divers Instagram Influencers In Norway In 2021
 description: >-
-  Find top divers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #nofilter #nature.
+  Find top divers Instagram influencers in Norway in 2021. Most popular hashtags: #norway #nofilter #nature.
 platform: Instagram
 hits: 17
 text_top: See the best Instagram profiles on inBeat.

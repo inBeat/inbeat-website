@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Vancouver In 2020
+title: Top 10 Food Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top food Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #vanfoodie #huffposttaste #foodstyling.
+  Find top food Instagram influencers in Vancouver in 2021. Most popular hashtags: #vancouver #vanfoodie #huffposttaste #foodstyling.
 platform: Instagram
 hits: 81
 text_top: Analyze the top-rated Instagram profiles on inBeat.

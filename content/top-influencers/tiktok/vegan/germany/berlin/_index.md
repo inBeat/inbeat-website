@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Berlin In 2020
+title: Top 10 Vegan TikTok Influencers In Berlin In 2021
 description: >-
-  Find top vegan TikTok influencers in Berlin in 2020. Most popular hashtags: #vegan #foryou #fyp #berlin.
+  Find top vegan TikTok influencers in Berlin in 2021. Most popular hashtags: #vegan #foryou #fyp #berlin.
 platform: TikTok
 hits: 8
 text_top: See the most popular TikTok profiles on inBeat.

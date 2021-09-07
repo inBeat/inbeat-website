@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Wellness Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top wellness Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #dubai #wellness #dubailife.
+  Find top wellness Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #mydubai #dubai #wellness #dubailife.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram influencers on inBeat.

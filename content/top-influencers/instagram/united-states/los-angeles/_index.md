@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Los Angeles In 2020
+title: Top 10 Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top Instagram influencers in Los Angeles in 2020. Most popular hashtags: #ootd #california #fashionstyle.
+  Find top Instagram influencers in Los Angeles in 2021. Most popular hashtags: #ootd #california #fashionstyle.
 platform: Instagram
 hits: 7857
 text_top: Identify the most popular Instagram accounts on inBeat.

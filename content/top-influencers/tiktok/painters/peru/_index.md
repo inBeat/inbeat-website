@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Peru In 2020
+title: Top 10 Painters TikTok Influencers In Peru In 2021
 description: >-
-  Find top painters TikTok influencers in Peru in 2020. Most popular hashtags: #fyp #parati #foryou #viral.
+  Find top painters TikTok influencers in Peru in 2021. Most popular hashtags: #fyp #parati #foryou #viral.
 platform: TikTok
 hits: 8
 text_top: Discover the best TikTok influencers on inBeat.

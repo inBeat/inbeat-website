@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Hamburg In 2020
+title: Top 10 Yoga Instagram Influencers In Hamburg In 2021
 description: >-
-  Find top yoga Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #yoga #fitness #yogainspiration.
+  Find top yoga Instagram influencers in Hamburg in 2021. Most popular hashtags: #hamburg #yoga #fitness #yogainspiration.
 platform: Instagram
 hits: 56
 text_top: Discover the most popular Instagram accounts on inBeat.

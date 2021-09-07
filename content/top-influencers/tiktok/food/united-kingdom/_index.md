@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In United Kingdom In 2020
+title: Top 10 Food TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top food TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #duet #foryou #uk.
+  Find top food TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #duet #foryou #uk.
 platform: TikTok
 hits: 941
 text_top: Discover the most popular TikTok accounts on inBeat.

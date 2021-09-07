@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In France In 2020
+title: Top 10 Lingerie Instagram Influencers In France In 2021
 description: >-
-  Find top lingerie Instagram influencers in France in 2020. Most popular hashtags: #lingerie #frenchgirl #ootd #dress.
+  Find top lingerie Instagram influencers in France in 2021. Most popular hashtags: #lingerie #frenchgirl #ootd #dress.
 platform: Instagram
 hits: 251
 text_top: See the best Instagram accounts on inBeat.

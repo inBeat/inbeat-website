@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In India In 2020
+title: Top 10 Crossfit TikTok Influencers In India In 2021
 description: >-
-  Find top crossfit TikTok influencers in India in 2020. Most popular hashtags: #crossfit #fitness #workout #motivation.
+  Find top crossfit TikTok influencers in India in 2021. Most popular hashtags: #crossfit #fitness #workout #motivation.
 platform: TikTok
 hits: 21
 text_top: Identify the top-rated TikTok accounts on inBeat.

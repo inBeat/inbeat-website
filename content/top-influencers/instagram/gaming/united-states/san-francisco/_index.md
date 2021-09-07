@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In San Francisco In 2020
+title: Top 10 Gaming Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top gaming Instagram influencers in San Francisco in 2020. Most popular hashtags: #gaming #sanfrancisco #losangeles #california.
+  Find top gaming Instagram influencers in San Francisco in 2021. Most popular hashtags: #gaming #sanfrancisco #losangeles #california.
 platform: Instagram
 hits: 13
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Italy In 2020
+title: Top 10 Cinema TikTok Influencers In Italy In 2021
 description: >-
-  Find top cinema TikTok influencers in Italy in 2020. Most popular hashtags: #cinema #duetto #film #perte.
+  Find top cinema TikTok influencers in Italy in 2021. Most popular hashtags: #cinema #duetto #film #perte.
 platform: TikTok
 hits: 53
 text_top: See the most popular TikTok influencers on inBeat.

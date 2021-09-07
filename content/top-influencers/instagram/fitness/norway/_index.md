@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Norway In 2020
+title: Top 10 Fitness Instagram Influencers In Norway In 2021
 description: >-
-  Find top fitness Instagram influencers in Norway in 2020. Most popular hashtags: #fitness #motivation #girlswholift.
+  Find top fitness Instagram influencers in Norway in 2021. Most popular hashtags: #fitness #motivation #girlswholift.
 platform: Instagram
 hits: 85
 text_top: Discover the top-rated Instagram profiles on inBeat.

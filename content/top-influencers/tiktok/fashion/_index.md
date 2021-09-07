@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In 2020
+title: Top 10 Fashion TikTok Influencers In 2021
 description: >-
-  Find top fashion TikTok influencers in 2020. Most popular hashtags: #foryou #duet #fyp #greenscreen.
+  Find top fashion TikTok influencers in 2021. Most popular hashtags: #foryou #duet #fyp #greenscreen.
 platform: TikTok
 hits: 14362
 text_top: See the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In France In 2020
+title: Top 10 Dog Owners Instagram Influencers In France In 2021
 description: >-
-  Find top dog owners Instagram influencers in France in 2020. Most popular hashtags: #dogoftheday #love #dog.
+  Find top dog owners Instagram influencers in France in 2021. Most popular hashtags: #dogoftheday #love #dog.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In South Korea In 2020
+title: Top 10 Makeup Instagram Influencers In South Korea In 2021
 description: >-
-  Find top makeup Instagram influencers in South Korea in 2020. Most popular hashtags: #makeup #kbeauty #kpop #motd.
+  Find top makeup Instagram influencers in South Korea in 2021. Most popular hashtags: #makeup #kbeauty #kpop #motd.
 platform: Instagram
 hits: 185
 text_top: Analyze the best Instagram profiles on inBeat.

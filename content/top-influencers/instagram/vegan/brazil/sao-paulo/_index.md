@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Vegan Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top vegan Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #vegan #govegan #crueltyfree #quarentena.
+  Find top vegan Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #vegan #govegan #crueltyfree #quarentena.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram profiles on inBeat.

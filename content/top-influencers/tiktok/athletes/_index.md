@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In 2020
+title: Top 10 Athletes TikTok Influencers In 2021
 description: >-
-  Find top athletes TikTok influencers in 2020. Most popular hashtags: #fyp #viral #foryoupage #foryou.
+  Find top athletes TikTok influencers in 2021. Most popular hashtags: #fyp #viral #foryoupage #foryou.
 platform: TikTok
 hits: 1237
 text_top: See the most popular TikTok profiles on inBeat.

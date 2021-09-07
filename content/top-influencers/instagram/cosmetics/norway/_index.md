@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Norway In 2020
+title: Top 10 Cosmetics Instagram Influencers In Norway In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Norway in 2020. Most popular hashtags: #makeup #anastasiabeverlyhills #creativemakeup #colorfulmakeup.
+  Find top cosmetics Instagram influencers in Norway in 2021. Most popular hashtags: #makeup #anastasiabeverlyhills #creativemakeup #colorfulmakeup.
 platform: Instagram
 hits: 10
 text_top: Identify the top-rated Instagram influencers on inBeat.

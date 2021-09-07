@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Singapore In 2020
+title: Top 10 Beauty Instagram Influencers In Singapore In 2021
 description: >-
-  Find top beauty Instagram influencers in Singapore in 2020. Most popular hashtags: #sp #sgig #diwali2020.
+  Find top beauty Instagram influencers in Singapore in 2021. Most popular hashtags: #sp #sgig #diwali2020.
 platform: Instagram
 hits: 117
 text_top: Identify the most popular Instagram profiles on inBeat.

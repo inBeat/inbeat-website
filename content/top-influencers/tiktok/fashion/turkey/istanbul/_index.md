@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Istanbul In 2020
+title: Top 10 Fashion TikTok Influencers In Istanbul In 2021
 description: >-
-  Find top fashion TikTok influencers in Istanbul in 2020. Most popular hashtags: #fashion #fyp #istanbul #ke.
+  Find top fashion TikTok influencers in Istanbul in 2021. Most popular hashtags: #fashion #fyp #istanbul #ke.
 platform: TikTok
 hits: 10
 text_top: Discover the top-rated TikTok influencers on inBeat.

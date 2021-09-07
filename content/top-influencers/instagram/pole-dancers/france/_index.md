@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In France In 2020
+title: Top 10 Pole Dancers Instagram Influencers In France In 2021
 description: >-
-  Find top pole dancers Instagram influencers in France in 2020. Most popular hashtags: #poledancer #dance #poledance #dancer.
+  Find top pole dancers Instagram influencers in France in 2021. Most popular hashtags: #poledancer #dance #poledance #dancer.
 platform: Instagram
 hits: 41
 text_top: Analyze the most popular Instagram influencers on inBeat.

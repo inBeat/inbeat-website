@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Australia In 2020
+title: Top 10 Fitness Instagram Influencers In Australia In 2021
 description: >-
-  Find top fitness Instagram influencers in Australia in 2020. Most popular hashtags: #fitnessmotivation #australia #gym.
+  Find top fitness Instagram influencers in Australia in 2021. Most popular hashtags: #fitnessmotivation #australia #gym.
 platform: Instagram
 hits: 670
 text_top: Identify the top-rated Instagram influencers on inBeat.

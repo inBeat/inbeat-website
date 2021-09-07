@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Rio De Janeiro In 2020
+title: Top 10 Beauty Instagram Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top beauty Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #makeup #maquiagem #beauty #make.
+  Find top beauty Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #makeup #maquiagem #beauty #make.
 platform: Instagram
 hits: 35
 text_top: See the best Instagram profiles on inBeat.

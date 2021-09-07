@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Ukraine In 2020
+title: Top 10 Djs Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top djs Instagram influencers in Ukraine in 2020. Most popular hashtags: #stayhome #love #kyiv.
+  Find top djs Instagram influencers in Ukraine in 2021. Most popular hashtags: #stayhome #love #kyiv.
 platform: Instagram
 hits: 14
 text_top: Analyze the most popular Instagram accounts on inBeat.

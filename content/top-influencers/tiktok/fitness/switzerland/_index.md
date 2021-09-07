@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Switzerland In 2020
+title: Top 10 Fitness TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top fitness TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #fitness #foryou #switzerland.
+  Find top fitness TikTok influencers in Switzerland in 2021. Most popular hashtags: #fyp #fitness #foryou #switzerland.
 platform: TikTok
 hits: 24
 text_top: Identify the most popular TikTok influencers on inBeat.

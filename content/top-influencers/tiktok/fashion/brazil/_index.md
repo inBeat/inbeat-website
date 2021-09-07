@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Brazil In 2020
+title: Top 10 Fashion TikTok Influencers In Brazil In 2021
 description: >-
-  Find top fashion TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #foryoupage #fy.
+  Find top fashion TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
 hits: 152
 text_top: See the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Italy In 2020
+title: Top 10 Fitness TikTok Influencers In Italy In 2021
 description: >-
-  Find top fitness TikTok influencers in Italy in 2020. Most popular hashtags: #fitness #perte #fyp #allenamento.
+  Find top fitness TikTok influencers in Italy in 2021. Most popular hashtags: #fitness #perte #fyp #allenamento.
 platform: TikTok
 hits: 132
 text_top: Discover the best TikTok influencers on inBeat.

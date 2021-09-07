@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Italy In 2020
+title: Top 10 Comedians Instagram Influencers In Italy In 2021
 description: >-
-  Find top comedians Instagram influencers in Italy in 2020. Most popular hashtags: #repost #fasedue #buonadomenica.
+  Find top comedians Instagram influencers in Italy in 2021. Most popular hashtags: #repost #fasedue #buonadomenica.
 platform: Instagram
 hits: 30
 text_top: Identify the most popular Instagram accounts on inBeat.

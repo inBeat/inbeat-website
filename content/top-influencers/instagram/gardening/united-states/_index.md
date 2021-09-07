@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In United States In 2020
+title: Top 10 Gardening Instagram Influencers In United States In 2021
 description: >-
-  Find top gardening Instagram influencers in United States in 2020. Most popular hashtags: #homedecorideas #autumn #tablesettings #garden.
+  Find top gardening Instagram influencers in United States in 2021. Most popular hashtags: #homedecorideas #autumn #tablesettings #garden.
 platform: Instagram
 hits: 917
 text_top: Analyze the top-rated Instagram influencers on inBeat.

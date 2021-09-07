@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Japan In 2020
+title: Top 10 Models Instagram Influencers In Japan In 2021
 description: >-
-  Find top models Instagram influencers in Japan in 2020. Most popular hashtags: #japan #tokyo #travel.
+  Find top models Instagram influencers in Japan in 2021. Most popular hashtags: #japan #tokyo #travel.
 platform: Instagram
 hits: 544
 text_top: Discover the most popular Instagram influencers on inBeat.

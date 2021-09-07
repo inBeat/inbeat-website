@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Malaysia In 2020
+title: Top 10 Music TikTok Influencers In Malaysia In 2021
 description: >-
-  Find top music TikTok influencers in Malaysia in 2020. Most popular hashtags: #foryou #fyp #foryoupage #duet.
+  Find top music TikTok influencers in Malaysia in 2021. Most popular hashtags: #foryou #fyp #foryoupage #duet.
 platform: TikTok
 hits: 26
 text_top: Discover the most popular TikTok profiles on inBeat.

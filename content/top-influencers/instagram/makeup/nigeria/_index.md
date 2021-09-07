@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Nigeria In 2020
+title: Top 10 Makeup Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top makeup Instagram influencers in Nigeria in 2020. Most popular hashtags: #makeup #explorepage #endsars #melanin.
+  Find top makeup Instagram influencers in Nigeria in 2021. Most popular hashtags: #makeup #explorepage #endsars #melanin.
 platform: Instagram
 hits: 117
 text_top: Identify the best Instagram influencers on inBeat.

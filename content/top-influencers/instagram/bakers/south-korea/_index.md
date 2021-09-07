@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In South Korea In 2020
+title: Top 10 Bakers Instagram Influencers In South Korea In 2021
 description: >-
-  Find top bakers Instagram influencers in South Korea in 2020. Most popular hashtags: #croissant #baker #food.
+  Find top bakers Instagram influencers in South Korea in 2021. Most popular hashtags: #croissant #baker #food.
 platform: Instagram
 hits: 24
 text_top: See the top-rated Instagram accounts on inBeat.

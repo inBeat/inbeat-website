@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chicago In 2020
+title: Top 10 Yoga Instagram Influencers In Chicago In 2021
 description: >-
-  Find top yoga Instagram influencers in Chicago in 2020. Most popular hashtags: #yoga #chicago #artwork.
+  Find top yoga Instagram influencers in Chicago in 2021. Most popular hashtags: #yoga #chicago #artwork.
 platform: Instagram
 hits: 40
 text_top: Analyze the top-rated Instagram influencers on inBeat.

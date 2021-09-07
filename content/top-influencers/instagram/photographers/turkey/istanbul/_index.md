@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Istanbul In 2020
+title: Top 10 Photographers Instagram Influencers In Istanbul In 2021
 description: >-
-  Find top photographers Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #turkey #photographer.
+  Find top photographers Instagram influencers in Istanbul in 2021. Most popular hashtags: #istanbul #turkey #photographer.
 platform: Instagram
 hits: 317
 text_top: Analyze the top-rated Instagram influencers on inBeat.

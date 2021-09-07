@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Colombia In 2020
+title: Top 10 Chefs Instagram Influencers In Colombia In 2021
 description: >-
-  Find top chefs Instagram influencers in Colombia in 2020. Most popular hashtags: #foodporn #colombia #chef #burger.
+  Find top chefs Instagram influencers in Colombia in 2021. Most popular hashtags: #foodporn #colombia #chef #burger.
 platform: Instagram
 hits: 26
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In 2020
+title: Top 10 Beauty TikTok Influencers In 2021
 description: >-
-  Find top beauty TikTok influencers in 2020. Most popular hashtags: #foryou #duet #foryoupage #happyhalloween.
+  Find top beauty TikTok influencers in 2021. Most popular hashtags: #foryou #duet #foryoupage #happyhalloween.
 platform: TikTok
 hits: 16225
 text_top: Analyze the best TikTok accounts on inBeat.

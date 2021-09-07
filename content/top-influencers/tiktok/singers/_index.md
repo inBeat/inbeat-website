@@ -1,7 +1,7 @@
 ---
-title: Top 10 Singers TikTok Influencers In 2020
+title: Top 10 Singers TikTok Influencers In 2021
 description: >-
-  Find top singers TikTok influencers in 2020. Most popular hashtags: #duet #foryoupage #foryou.
+  Find top singers TikTok influencers in 2021. Most popular hashtags: #duet #foryoupage #foryou.
 platform: TikTok
 hits: 5215
 text_top: Discover the top-rated TikTok accounts on inBeat.

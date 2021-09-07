@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Italy In 2020
+title: Top 10 Lifestyle Instagram Influencers In Italy In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Italy in 2020. Most popular hashtags: #photography #italia #fashionstyle #sunset.
+  Find top lifestyle Instagram influencers in Italy in 2021. Most popular hashtags: #photography #italia #fashionstyle #sunset.
 platform: Instagram
 hits: 1395
 text_top: Identify the top-rated Instagram influencers on inBeat.

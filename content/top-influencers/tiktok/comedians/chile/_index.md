@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Chile In 2020
+title: Top 10 Comedians TikTok Influencers In Chile In 2021
 description: >-
-  Find top comedians TikTok influencers in Chile in 2020. Most popular hashtags: #chile #comedia #humor #parati.
+  Find top comedians TikTok influencers in Chile in 2021. Most popular hashtags: #chile #comedia #humor #parati.
 platform: TikTok
 hits: 172
 text_top: Analyze the top-rated TikTok influencers on inBeat.

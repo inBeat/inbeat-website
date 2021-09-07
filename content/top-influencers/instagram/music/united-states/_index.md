@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In United States In 2020
+title: Top 10 Music Instagram Influencers In United States In 2021
 description: >-
-  Find top music Instagram influencers in United States in 2020. Most popular hashtags: #contrasts #streetportraiture #lifeandpeople.
+  Find top music Instagram influencers in United States in 2021. Most popular hashtags: #contrasts #streetportraiture #lifeandpeople.
 platform: Instagram
 hits: 14671
 text_top: Identify the most popular Instagram profiles on inBeat.

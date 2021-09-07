@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Peru In 2020
+title: Top 10 Beauty Instagram Influencers In Peru In 2021
 description: >-
-  Find top beauty Instagram influencers in Peru in 2020. Most popular hashtags: #peru #beauty #makeup #publicidad.
+  Find top beauty Instagram influencers in Peru in 2021. Most popular hashtags: #peru #beauty #makeup #publicidad.
 platform: Instagram
 hits: 118
 text_top: Analyze the most popular Instagram influencers on inBeat.

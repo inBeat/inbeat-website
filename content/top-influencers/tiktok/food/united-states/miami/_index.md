@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Miami In 2020
+title: Top 10 Food TikTok Influencers In Miami In 2021
 description: >-
-  Find top food TikTok influencers in Miami in 2020. Most popular hashtags: #miami #fyp #food #foryou.
+  Find top food TikTok influencers in Miami in 2021. Most popular hashtags: #miami #fyp #food #foryou.
 platform: TikTok
 hits: 91
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Houston In 2020
+title: Top 10 Vegan Instagram Influencers In Houston In 2021
 description: >-
-  Find top vegan Instagram influencers in Houston in 2020. Most popular hashtags: #vegan #houston #foodie #plantbased.
+  Find top vegan Instagram influencers in Houston in 2021. Most popular hashtags: #vegan #houston #foodie #plantbased.
 platform: Instagram
 hits: 41
 text_top: Discover the best Instagram profiles on inBeat.

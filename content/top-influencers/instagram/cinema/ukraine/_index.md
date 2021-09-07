@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Ukraine In 2020
+title: Top 10 Cinema Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top cinema Instagram influencers in Ukraine in 2020. Most popular hashtags: #photography #cinematography #sonya7iii.
+  Find top cinema Instagram influencers in Ukraine in 2021. Most popular hashtags: #photography #cinematography #sonya7iii.
 platform: Instagram
 hits: 36
 text_top: See the best Instagram accounts on inBeat.

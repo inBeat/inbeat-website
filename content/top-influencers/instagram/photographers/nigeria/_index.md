@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Nigeria In 2020
+title: Top 10 Photographers Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top photographers Instagram influencers in Nigeria in 2020. Most popular hashtags: #portrait #lagosphotographer #abujaphotographer #lagos.
+  Find top photographers Instagram influencers in Nigeria in 2021. Most popular hashtags: #portrait #lagosphotographer #abujaphotographer #lagos.
 platform: Instagram
 hits: 65
 text_top: Identify the best Instagram influencers on inBeat.

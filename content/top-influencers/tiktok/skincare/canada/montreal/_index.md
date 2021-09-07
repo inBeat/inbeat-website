@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Montreal In 2020
+title: Top 10 Skincare TikTok Influencers In Montreal In 2021
 description: >-
-  Find top skincare TikTok influencers in Montreal in 2020. Most popular hashtags: #skincare #fyp #foryou #comedy.
+  Find top skincare TikTok influencers in Montreal in 2021. Most popular hashtags: #skincare #fyp #foryou #comedy.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok profiles on inBeat.

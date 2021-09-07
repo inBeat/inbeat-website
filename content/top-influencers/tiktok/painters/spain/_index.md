@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Spain In 2020
+title: Top 10 Painters TikTok Influencers In Spain In 2021
 description: >-
-  Find top painters TikTok influencers in Spain in 2020. Most popular hashtags: #parati #fyp #viral #pinterest.
+  Find top painters TikTok influencers in Spain in 2021. Most popular hashtags: #parati #fyp #viral #pinterest.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok influencers on inBeat.

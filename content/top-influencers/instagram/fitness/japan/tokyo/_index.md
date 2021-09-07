@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Tokyo In 2020
+title: Top 10 Fitness Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top fitness Instagram influencers in Tokyo in 2020. Most popular hashtags: #fitness #model #fashion #tokyo.
+  Find top fitness Instagram influencers in Tokyo in 2021. Most popular hashtags: #fitness #model #fashion #tokyo.
 platform: Instagram
 hits: 61
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Sculptors TikTok Influencers In 2020
+title: Top 10 Sculptors TikTok Influencers In 2021
 description: >-
-  Find top sculptors TikTok influencers in 2020. Most popular hashtags: #sculpture #art #sculpting #painting.
+  Find top sculptors TikTok influencers in 2021. Most popular hashtags: #sculpture #art #sculpting #painting.
 platform: TikTok
 hits: 245
 text_top: Discover the best TikTok influencers on inBeat.

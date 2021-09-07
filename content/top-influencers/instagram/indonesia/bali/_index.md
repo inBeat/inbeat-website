@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Bali In 2020
+title: Top 10 Instagram Influencers In Bali In 2021
 description: >-
-  Find top Instagram influencers in Bali in 2020. Most popular hashtags: #bali #freedomthinkers #amexambassador.
+  Find top Instagram influencers in Bali in 2021. Most popular hashtags: #bali #freedomthinkers #amexambassador.
 platform: Instagram
 hits: 2522
 text_top: Analyze the top-rated Instagram accounts on inBeat.

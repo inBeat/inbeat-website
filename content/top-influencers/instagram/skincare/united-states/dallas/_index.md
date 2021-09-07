@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Dallas In 2020
+title: Top 10 Skincare Instagram Influencers In Dallas In 2021
 description: >-
-  Find top skincare Instagram influencers in Dallas in 2020. Most popular hashtags: #skincare #skincareroutine #dallas #texas.
+  Find top skincare Instagram influencers in Dallas in 2021. Most popular hashtags: #skincare #skincareroutine #dallas #texas.
 platform: Instagram
 hits: 60
 text_top: Identify the best Instagram influencers on inBeat.

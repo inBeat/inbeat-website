@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Poland In 2020
+title: Top 10 Stylists Instagram Influencers In Poland In 2021
 description: >-
-  Find top stylists Instagram influencers in Poland in 2020. Most popular hashtags: #polishgirl #girl #outfit #fitgirl.
+  Find top stylists Instagram influencers in Poland in 2021. Most popular hashtags: #polishgirl #girl #outfit #fitgirl.
 platform: Instagram
 hits: 402
 text_top: Discover the top-rated Instagram profiles on inBeat.

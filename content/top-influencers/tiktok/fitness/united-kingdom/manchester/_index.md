@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Manchester In 2020
+title: Top 10 Fitness TikTok Influencers In Manchester In 2021
 description: >-
-  Find top fitness TikTok influencers in Manchester in 2020. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
+  Find top fitness TikTok influencers in Manchester in 2021. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
 platform: TikTok
 hits: 11
 text_top: Discover the top-rated TikTok influencers on inBeat.

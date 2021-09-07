@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Austria In 2020
+title: Top 10 Runners Instagram Influencers In Austria In 2021
 description: >-
-  Find top runners Instagram influencers in Austria in 2020. Most popular hashtags: #running #runner #mountains #trailrunning.
+  Find top runners Instagram influencers in Austria in 2021. Most popular hashtags: #running #runner #mountains #trailrunning.
 platform: Instagram
 hits: 18
 text_top: Discover the best Instagram accounts on inBeat.

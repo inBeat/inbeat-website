@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Portugal In 2020
+title: Top 10 Vegan Instagram Influencers In Portugal In 2021
 description: >-
-  Find top vegan Instagram influencers in Portugal in 2020. Most popular hashtags: #mentalhealth #protein #plantbased.
+  Find top vegan Instagram influencers in Portugal in 2021. Most popular hashtags: #mentalhealth #protein #plantbased.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Russia In 2020
+title: Top 10 Pole Dancers Instagram Influencers In Russia In 2021
 description: >-
-  Find top pole dancers Instagram influencers in Russia in 2020. Most popular hashtags: #poledancer #poledance #pole #exoticpoledancer.
+  Find top pole dancers Instagram influencers in Russia in 2021. Most popular hashtags: #poledancer #poledance #pole #exoticpoledancer.
 platform: Instagram
 hits: 70
 text_top: Identify the most popular Instagram accounts on inBeat.

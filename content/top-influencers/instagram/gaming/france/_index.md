@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In France In 2020
+title: Top 10 Gaming Instagram Influencers In France In 2021
 description: >-
-  Find top gaming Instagram influencers in France in 2020. Most popular hashtags: #gaming #twitch #gamer #france.
+  Find top gaming Instagram influencers in France in 2021. Most popular hashtags: #gaming #twitch #gamer #france.
 platform: Instagram
 hits: 193
 text_top: Discover the best Instagram profiles on inBeat.

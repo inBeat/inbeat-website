@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Austria In 2020
+title: Top 10 Bloggers Instagram Influencers In Austria In 2021
 description: >-
-  Find top bloggers Instagram influencers in Austria in 2020. Most popular hashtags: #blogger #austrianblogger #vienna #austria.
+  Find top bloggers Instagram influencers in Austria in 2021. Most popular hashtags: #blogger #austrianblogger #vienna #austria.
 platform: Instagram
 hits: 178
 text_top: See the most popular Instagram profiles on inBeat.

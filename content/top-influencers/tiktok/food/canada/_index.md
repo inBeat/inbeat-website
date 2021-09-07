@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Canada In 2020
+title: Top 10 Food TikTok Influencers In Canada In 2021
 description: >-
-  Find top food TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #foryoupage #canada #xyzbca.
+  Find top food TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #foryoupage #canada #xyzbca.
 platform: TikTok
 hits: 741
 text_top: Identify the best TikTok influencers on inBeat.

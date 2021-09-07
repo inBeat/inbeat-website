@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Colombia In 2020
+title: Top 10 Athletes Instagram Influencers In Colombia In 2021
 description: >-
-  Find top athletes Instagram influencers in Colombia in 2020. Most popular hashtags: #fitnessmotivation #motivation #fitness.
+  Find top athletes Instagram influencers in Colombia in 2021. Most popular hashtags: #fitnessmotivation #motivation #fitness.
 platform: Instagram
 hits: 31
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Peru In 2020
+title: Top 10 Guitar Instagram Influencers In Peru In 2021
 description: >-
-  Find top guitar Instagram influencers in Peru in 2020. Most popular hashtags: #music #guitarra #cover.
+  Find top guitar Instagram influencers in Peru in 2021. Most popular hashtags: #music #guitarra #cover.
 platform: Instagram
 hits: 15
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Seoul In 2020
+title: Top 10 Travel TikTok Influencers In Seoul In 2021
 description: >-
-  Find top travel TikTok influencers in Seoul in 2020. Most popular hashtags: #korea #fyp #travel #seoul.
+  Find top travel TikTok influencers in Seoul in 2021. Most popular hashtags: #korea #fyp #travel #seoul.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok accounts on inBeat.

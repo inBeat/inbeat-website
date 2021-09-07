@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2020
+title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2021
 description: >-
-  Find top pole dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #poledancer #poledance #flexibility.
+  Find top pole dancers Instagram influencers in Brazil in 2021. Most popular hashtags: #poledancer #poledance #flexibility.
 platform: Instagram
 hits: 60
 text_top: Analyze the best Instagram influencers on inBeat.

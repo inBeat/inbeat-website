@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Italy In 2020
+title: Top 10 Wellness Instagram Influencers In Italy In 2021
 description: >-
-  Find top wellness Instagram influencers in Italy in 2020. Most popular hashtags: #lifestyle #photooftheday #momlife #fitnessitalia.
+  Find top wellness Instagram influencers in Italy in 2021. Most popular hashtags: #lifestyle #photooftheday #momlife #fitnessitalia.
 platform: Instagram
 hits: 222
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Barcelona In 2020
+title: Top 10 Skincare Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top skincare Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #skincare #family #beauty.
+  Find top skincare Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #skincare #family #beauty.
 platform: Instagram
 hits: 32
 text_top: Analyze the top-rated Instagram accounts on inBeat.

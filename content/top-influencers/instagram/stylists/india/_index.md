@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In India In 2020
+title: Top 10 Stylists Instagram Influencers In India In 2021
 description: >-
-  Find top stylists Instagram influencers in India in 2020. Most popular hashtags: #fashion #staysafe #style #instadaily.
+  Find top stylists Instagram influencers in India in 2021. Most popular hashtags: #fashion #staysafe #style #instadaily.
 platform: Instagram
 hits: 746
 text_top: Identify the best Instagram influencers on inBeat.

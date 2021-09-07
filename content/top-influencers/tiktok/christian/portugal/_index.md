@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Portugal In 2020
+title: Top 10 Christian TikTok Influencers In Portugal In 2021
 description: >-
-  Find top christian TikTok influencers in Portugal in 2020. Most popular hashtags: #fyp #portugal #foryou #cristianoronaldo.
+  Find top christian TikTok influencers in Portugal in 2021. Most popular hashtags: #fyp #portugal #foryou #cristianoronaldo.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok accounts on inBeat.

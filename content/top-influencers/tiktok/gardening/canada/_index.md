@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Canada In 2020
+title: Top 10 Gardening TikTok Influencers In Canada In 2021
 description: >-
-  Find top gardening TikTok influencers in Canada in 2020. Most popular hashtags: #foryou #fyp #foryoupage #gardening101.
+  Find top gardening TikTok influencers in Canada in 2021. Most popular hashtags: #foryou #fyp #foryoupage #gardening101.
 platform: TikTok
 hits: 92
 text_top: See the top-rated TikTok influencers on inBeat.

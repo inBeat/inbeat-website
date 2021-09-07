@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Miami In 2020
+title: Top 10 Barbers TikTok Influencers In Miami In 2021
 description: >-
-  Find top barbers TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #barber #miami #foryou.
+  Find top barbers TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #barber #miami #foryou.
 platform: TikTok
 hits: 13
 text_top: Identify the top-rated TikTok accounts on inBeat.

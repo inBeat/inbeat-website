@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Miami In 2020
+title: Top 10 Barbers Instagram Influencers In Miami In 2021
 description: >-
-  Find top barbers Instagram influencers in Miami in 2020. Most popular hashtags: #fade #barber #haircut #barbershopconnect.
+  Find top barbers Instagram influencers in Miami in 2021. Most popular hashtags: #fade #barber #haircut #barbershopconnect.
 platform: Instagram
 hits: 59
 text_top: Identify the most popular Instagram accounts on inBeat.

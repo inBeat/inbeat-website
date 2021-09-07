@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Venezuela In 2020
+title: Top 10 Music Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top music Instagram influencers in Venezuela in 2020. Most popular hashtags: #tbt #venezuela #photoshoot.
+  Find top music Instagram influencers in Venezuela in 2021. Most popular hashtags: #tbt #venezuela #photoshoot.
 platform: Instagram
 hits: 135
 text_top: Analyze the top-rated Instagram influencers on inBeat.

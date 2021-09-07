@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Montreal In 2020
+title: Top 10 Lifestyle Instagram Influencers In Montreal In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #quebec #ootd.
+  Find top lifestyle Instagram influencers in Montreal in 2021. Most popular hashtags: #montreal #quebec #ootd.
 platform: Instagram
 hits: 86
 text_top: Discover the most popular Instagram accounts on inBeat.

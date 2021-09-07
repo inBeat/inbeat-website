@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Los Angeles In 2020
+title: Top 10 Fashion TikTok Influencers In Los Angeles In 2021
 description: >-
-  Find top fashion TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fashion #fyp #losangeles #viral.
+  Find top fashion TikTok influencers in Los Angeles in 2021. Most popular hashtags: #fashion #fyp #losangeles #viral.
 platform: TikTok
 hits: 127
 text_top: Identify the most popular TikTok profiles on inBeat.

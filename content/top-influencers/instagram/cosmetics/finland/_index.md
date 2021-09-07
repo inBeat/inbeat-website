@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Finland In 2020
+title: Top 10 Cosmetics Instagram Influencers In Finland In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Finland in 2020. Most popular hashtags: #makeup #beauty #cosmetics #makeupartist.
+  Find top cosmetics Instagram influencers in Finland in 2021. Most popular hashtags: #makeup #beauty #cosmetics #makeupartist.
 platform: Instagram
 hits: 11
 text_top: Analyze the top-rated Instagram accounts on inBeat.

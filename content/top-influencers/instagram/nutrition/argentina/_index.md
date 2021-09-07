@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Argentina In 2020
+title: Top 10 Nutrition Instagram Influencers In Argentina In 2021
 description: >-
-  Find top nutrition Instagram influencers in Argentina in 2020. Most popular hashtags: #nutrition #nutricion #fitness.
+  Find top nutrition Instagram influencers in Argentina in 2021. Most popular hashtags: #nutrition #nutricion #fitness.
 platform: Instagram
 hits: 122
 text_top: See the best Instagram accounts on inBeat.

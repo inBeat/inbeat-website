@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Seattle In 2020
+title: Top 10 Models Instagram Influencers In Seattle In 2021
 description: >-
-  Find top models Instagram influencers in Seattle in 2020. Most popular hashtags: #quarantine #fashion #seattle.
+  Find top models Instagram influencers in Seattle in 2021. Most popular hashtags: #quarantine #fashion #seattle.
 platform: Instagram
 hits: 99
 text_top: See the best Instagram accounts on inBeat.

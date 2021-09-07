@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In 2020
+title: Top 10 Yoga TikTok Influencers In 2021
 description: >-
-  Find top yoga TikTok influencers in 2020. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top yoga TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 1724
 text_top: Identify the top-rated TikTok accounts on inBeat.

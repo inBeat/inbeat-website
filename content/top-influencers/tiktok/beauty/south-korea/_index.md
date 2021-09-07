@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In South Korea In 2020
+title: Top 10 Beauty TikTok Influencers In South Korea In 2021
 description: >-
-  Find top beauty TikTok influencers in South Korea in 2020. Most popular hashtags: #beauty #fyp #makeup #foryou.
+  Find top beauty TikTok influencers in South Korea in 2021. Most popular hashtags: #beauty #fyp #makeup #foryou.
 platform: TikTok
 hits: 38
 text_top: Discover the best TikTok accounts on inBeat.

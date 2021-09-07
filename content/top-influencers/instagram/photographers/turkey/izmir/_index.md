@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Izmir In 2020
+title: Top 10 Photographers Instagram Influencers In Izmir In 2021
 description: >-
-  Find top photographers Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #photographer #photography #love.
+  Find top photographers Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #photographer #photography #love.
 platform: Instagram
 hits: 100
 text_top: Identify the top-rated Instagram profiles on inBeat.

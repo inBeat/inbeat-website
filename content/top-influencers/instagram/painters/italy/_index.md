@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Italy In 2020
+title: Top 10 Painters Instagram Influencers In Italy In 2021
 description: >-
-  Find top painters Instagram influencers in Italy in 2020. Most popular hashtags: #painting #art #artgallery.
+  Find top painters Instagram influencers in Italy in 2021. Most popular hashtags: #painting #art #artgallery.
 platform: Instagram
 hits: 192
 text_top: See the best Instagram accounts on inBeat.

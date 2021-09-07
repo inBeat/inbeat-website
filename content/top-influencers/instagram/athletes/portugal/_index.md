@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Portugal In 2020
+title: Top 10 Athletes Instagram Influencers In Portugal In 2021
 description: >-
-  Find top athletes Instagram influencers in Portugal in 2020. Most popular hashtags: #stayhome #fitness #staysafe.
+  Find top athletes Instagram influencers in Portugal in 2021. Most popular hashtags: #stayhome #fitness #staysafe.
 platform: Instagram
 hits: 21
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Germany In 2020
+title: Top 10 Vegan Instagram Influencers In Germany In 2021
 description: >-
-  Find top vegan Instagram influencers in Germany in 2020. Most popular hashtags: #verlosung #happy #corona #happiness.
+  Find top vegan Instagram influencers in Germany in 2021. Most popular hashtags: #verlosung #happy #corona #happiness.
 platform: Instagram
 hits: 1153
 text_top: Discover the top-rated Instagram influencers on inBeat.

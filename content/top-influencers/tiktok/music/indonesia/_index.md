@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Indonesia In 2020
+title: Top 10 Music TikTok Influencers In Indonesia In 2021
 description: >-
-  Find top music TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top music TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
 hits: 50
 text_top: Identify the best TikTok accounts on inBeat.

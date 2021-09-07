@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Russia In 2020
+title: Top 10 Gymnasts Instagram Influencers In Russia In 2021
 description: >-
-  Find top gymnasts Instagram influencers in Russia in 2020. Most popular hashtags: #sport #bravogreatphoto #longblondehair.
+  Find top gymnasts Instagram influencers in Russia in 2021. Most popular hashtags: #sport #bravogreatphoto #longblondehair.
 platform: Instagram
 hits: 144
 text_top: Discover the best Instagram accounts on inBeat.

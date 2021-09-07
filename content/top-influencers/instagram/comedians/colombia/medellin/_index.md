@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Medellín In 2020
+title: Top 10 Comedians Instagram Influencers In Medellín In 2021
 description: >-
-  Find top comedians Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #comedia #humor #colombia.
+  Find top comedians Instagram influencers in Medellín in 2021. Most popular hashtags: #medellin #comedia #humor #colombia.
 platform: Instagram
 hits: 43
 text_top: Discover the most popular Instagram influencers on inBeat.

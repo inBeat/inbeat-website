@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Brazil In 2020
+title: Top 10 Yoga TikTok Influencers In Brazil In 2021
 description: >-
-  Find top yoga TikTok influencers in Brazil in 2020. Most popular hashtags: #yoga #viral #foryou #acroyoga.
+  Find top yoga TikTok influencers in Brazil in 2021. Most popular hashtags: #yoga #viral #foryou #acroyoga.
 platform: TikTok
 hits: 28
 text_top: See the top-rated TikTok profiles on inBeat.

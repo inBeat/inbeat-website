@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Italy In 2020
+title: Top 10 Guitar Instagram Influencers In Italy In 2021
 description: >-
-  Find top guitar Instagram influencers in Italy in 2020. Most popular hashtags: #guitarsolo #guitar #guitarist #instapic.
+  Find top guitar Instagram influencers in Italy in 2021. Most popular hashtags: #guitarsolo #guitar #guitarist #instapic.
 platform: Instagram
 hits: 179
 text_top: Identify the best Instagram profiles on inBeat.

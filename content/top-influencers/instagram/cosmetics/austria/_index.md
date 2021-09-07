@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austria In 2020
+title: Top 10 Cosmetics Instagram Influencers In Austria In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Austria in 2020. Most popular hashtags: #vienna #makeup #fashion #autumn.
+  Find top cosmetics Instagram influencers in Austria in 2021. Most popular hashtags: #vienna #makeup #fashion #autumn.
 platform: Instagram
 hits: 20
 text_top: Analyze the top-rated Instagram influencers on inBeat.

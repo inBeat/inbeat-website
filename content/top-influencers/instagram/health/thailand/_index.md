@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Thailand In 2020
+title: Top 10 Health Instagram Influencers In Thailand In 2021
 description: >-
-  Find top health Instagram influencers in Thailand in 2020. Most popular hashtags: #cleanfood #healthyfood #breakfast.
+  Find top health Instagram influencers in Thailand in 2021. Most popular hashtags: #cleanfood #healthyfood #breakfast.
 platform: Instagram
 hits: 73
 text_top: Discover the most popular Instagram accounts on inBeat.

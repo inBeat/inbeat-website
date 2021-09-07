@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Sydney In 2020
+title: Top 10 Makeup TikTok Influencers In Sydney In 2021
 description: >-
-  Find top makeup TikTok influencers in Sydney in 2020. Most popular hashtags: #makeup #fyp #foryou #australia.
+  Find top makeup TikTok influencers in Sydney in 2021. Most popular hashtags: #makeup #fyp #foryou #australia.
 platform: TikTok
 hits: 26
 text_top: Identify the best TikTok accounts on inBeat.

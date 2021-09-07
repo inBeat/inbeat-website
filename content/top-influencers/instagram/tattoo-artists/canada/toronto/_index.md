@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Toronto in 2020. Most popular hashtags: #tattoo #tattooartist #torontotattoo #toronto.
+  Find top tattoo-artists Instagram influencers in Toronto in 2021. Most popular hashtags: #tattoo #tattooartist #torontotattoo #toronto.
 platform: Instagram
 hits: 33
 text_top: See the best Instagram accounts on inBeat.

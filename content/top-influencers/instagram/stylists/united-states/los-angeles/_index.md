@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Los Angeles In 2020
+title: Top 10 Stylists Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top stylists Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #makeup #stylist.
+  Find top stylists Instagram influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #makeup #stylist.
 platform: Instagram
 hits: 190
 text_top: Identify the most popular Instagram influencers on inBeat.

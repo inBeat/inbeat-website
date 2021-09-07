@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Argentina In 2020
+title: Top 10 Architecture Instagram Influencers In Argentina In 2021
 description: >-
-  Find top architecture Instagram influencers in Argentina in 2020. Most popular hashtags: #argentina #buenosaires #arquitectura #architecture.
+  Find top architecture Instagram influencers in Argentina in 2021. Most popular hashtags: #argentina #buenosaires #arquitectura #architecture.
 platform: Instagram
 hits: 57
 text_top: Identify the best Instagram accounts on inBeat.

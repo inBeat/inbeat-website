@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Milan In 2020
+title: Top 10 Photographers Instagram Influencers In Milan In 2021
 description: >-
-  Find top photographers Instagram influencers in Milan in 2020. Most popular hashtags: #milano #italy #photography.
+  Find top photographers Instagram influencers in Milan in 2021. Most popular hashtags: #milano #italy #photography.
 platform: Instagram
 hits: 337
 text_top: See the best Instagram accounts on inBeat.

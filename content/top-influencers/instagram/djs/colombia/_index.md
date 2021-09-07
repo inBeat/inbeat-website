@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Colombia In 2020
+title: Top 10 Djs Instagram Influencers In Colombia In 2021
 description: >-
-  Find top djs Instagram influencers in Colombia in 2020. Most popular hashtags: #dj #colombia #tbt #bogota.
+  Find top djs Instagram influencers in Colombia in 2021. Most popular hashtags: #dj #colombia #tbt #bogota.
 platform: Instagram
 hits: 26
 text_top: Identify the best Instagram profiles on inBeat.

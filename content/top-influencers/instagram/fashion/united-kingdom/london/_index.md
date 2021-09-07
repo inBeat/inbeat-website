@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In London In 2020
+title: Top 10 Fashion Instagram Influencers In London In 2021
 description: >-
-  Find top fashion Instagram influencers in London in 2020. Most popular hashtags: #fashion #london #photography #model.
+  Find top fashion Instagram influencers in London in 2021. Most popular hashtags: #fashion #london #photography #model.
 platform: Instagram
 hits: 1167
 text_top: Identify the best Instagram profiles on inBeat.

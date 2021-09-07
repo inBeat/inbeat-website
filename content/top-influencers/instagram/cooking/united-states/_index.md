@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United States In 2020
+title: Top 10 Cooking Instagram Influencers In United States In 2021
 description: >-
-  Find top cooking Instagram influencers in United States in 2020. Most popular hashtags: #photography #girl #outdoors.
+  Find top cooking Instagram influencers in United States in 2021. Most popular hashtags: #photography #girl #outdoors.
 platform: Instagram
 hits: 8161
 text_top: See the top-rated Instagram profiles on inBeat.

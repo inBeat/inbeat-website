@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Kyoto In 2020
+title: Top 10 Instagram Influencers In Kyoto In 2021
 description: >-
-  Find top Instagram influencers in Kyoto in 2020. Most popular hashtags: #japan #ootd #good.
+  Find top Instagram influencers in Kyoto in 2021. Most popular hashtags: #japan #ootd #good.
 platform: Instagram
 hits: 490
 text_top: Analyze the most popular Instagram accounts on inBeat.

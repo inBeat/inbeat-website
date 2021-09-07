@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Miami In 2020
+title: Top 10 Gardening Instagram Influencers In Miami In 2021
 description: >-
-  Find top gardening Instagram influencers in Miami in 2020. Most popular hashtags: #gardening #love #nature #miami.
+  Find top gardening Instagram influencers in Miami in 2021. Most popular hashtags: #gardening #love #nature #miami.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram influencers on inBeat.

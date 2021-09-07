@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Bangkok In 2020
+title: Top 10 Models TikTok Influencers In Bangkok In 2021
 description: >-
-  Find top models TikTok influencers in Bangkok in 2020. Most popular hashtags: #fyp #foryou #thailand #foryoupage.
+  Find top models TikTok influencers in Bangkok in 2021. Most popular hashtags: #fyp #foryou #thailand #foryoupage.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok influencers on inBeat.

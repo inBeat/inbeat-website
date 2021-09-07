@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2020
+title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top cosmetics Instagram influencers in San Francisco in 2020. Most popular hashtags: #ootd #travel #skincare #healthyskin.
+  Find top cosmetics Instagram influencers in San Francisco in 2021. Most popular hashtags: #ootd #travel #skincare #healthyskin.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram profiles on inBeat.

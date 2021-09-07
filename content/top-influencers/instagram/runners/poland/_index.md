@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Poland In 2020
+title: Top 10 Runners Instagram Influencers In Poland In 2021
 description: >-
-  Find top runners Instagram influencers in Poland in 2020. Most popular hashtags: #runner #run #mountains #poland.
+  Find top runners Instagram influencers in Poland in 2021. Most popular hashtags: #runner #run #mountains #poland.
 platform: Instagram
 hits: 87
 text_top: Analyze the most popular Instagram influencers on inBeat.

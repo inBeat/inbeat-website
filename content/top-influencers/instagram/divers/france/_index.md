@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In France In 2020
+title: Top 10 Divers Instagram Influencers In France In 2021
 description: >-
-  Find top divers Instagram influencers in France in 2020. Most popular hashtags: #love #fall #automne #flowerphotography.
+  Find top divers Instagram influencers in France in 2021. Most popular hashtags: #love #fall #automne #flowerphotography.
 platform: Instagram
 hits: 238
 text_top: Analyze the best Instagram accounts on inBeat.

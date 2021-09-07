@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Los Angeles In 2020
+title: Top 10 Architecture Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top architecture Instagram influencers in Los Angeles in 2020. Most popular hashtags: #architecture #losangeles #california #design.
+  Find top architecture Instagram influencers in Los Angeles in 2021. Most popular hashtags: #architecture #losangeles #california #design.
 platform: Instagram
 hits: 202
 text_top: Discover the best Instagram accounts on inBeat.

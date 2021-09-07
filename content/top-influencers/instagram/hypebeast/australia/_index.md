@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Australia In 2020
+title: Top 10 Hypebeast Instagram Influencers In Australia In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Australia in 2020. Most popular hashtags: #hypebeast #australia #artofvisuals #moodygrams.
+  Find top hypebeast Instagram influencers in Australia in 2021. Most popular hashtags: #hypebeast #australia #artofvisuals #moodygrams.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram profiles on inBeat.
